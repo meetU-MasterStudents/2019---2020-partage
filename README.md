@@ -3,7 +3,9 @@ For exchanging material and doc
 
 
 **** 
-Biblio
-****
+Bibliography (Biblio)
+
 
 scoringProfiles: methods to score profile-profile alignments
+
+****
