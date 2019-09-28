@@ -12,7 +12,9 @@ scoringProfiles: methods to score profile-profile alignments
 
 DOPE: "historical" statistical potential for evaluating the quality of 3D models (does not perform very well but is a good start)
 
-SBROD: coarse-grained statistical potential to evaluate 3D models quality (recently performed well in CASP13, can be completely re-trained!) 
+Rosetta: a reference function for estimating the energy of a 3D protein conformation (be aware it's all-atom!)
+
+SBROD: coarse-grained statistical potential to evaluate 3D models quality (can be applied to Calpha-only or backbone-only structures, recently performed well in CASP13, can be completely re-trained!) 
 
 HHsearch: remote homology detection using profiles (defined from hidden Markov models, not from PSSM!)
 
