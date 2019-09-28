@@ -5,13 +5,14 @@ For exchanging material and doc
 **** 
 Bibliography (Biblio)
 
-Profile-profile alignments
 
 ORION: fold recognition method based on profile-profile alignments
 
 scoringProfiles: methods to score profile-profile alignments
 
-SBROD: coarse-grained statistical potential to evaluate 3D models quality (can be re-trained!) 
+DOPE: "historical" statistical potential for evaluating the quality of 3D models (does not perform very well but is a good start)
+
+SBROD: coarse-grained statistical potential to evaluate 3D models quality (recently performed well in CASP13, can be completely re-trained!) 
 
 HHsearch: remote homology detection using profiles (defined from hidden Markov models, not from PSSM!)
 
