@@ -16,6 +16,8 @@ Rosetta: a reference function for estimating the energy of a 3D protein conforma
 
 SBROD: coarse-grained statistical potential to evaluate 3D models quality (can be applied to Calpha-only or backbone-only structures, recently performed well in CASP13, can be completely re-trained!) 
 
+CCMPRED: method to predict protein-protein contact by extracting coevolution signals (co-occurring patterns of mutations across sequences)
+
 HHsearch: remote homology detection using profiles (defined from hidden Markov models, not from PSSM!)
 
 CLADE: remote homology detection using a multi-profile strategy
