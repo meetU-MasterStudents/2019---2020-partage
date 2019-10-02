@@ -39,11 +39,11 @@ CCMPRED: method to predict protein-protein contact by extracting coevolution sig
 
 For each family:
 
-- FASTA file containing the master (reference) sequence
+- FASTA file containing the master (reference) sequence,
 
-- MAP file containing a multiple sequence alignment with the master sequence and homologous (or related) sequences. 
+- MAP file containing a multiple sequence alignment with the master sequence and homologous (or related) sequences, 
 
-- SCOP_ID file containing the SCOP identifier of the family 
+- SCOP_ID file containing the SCOP identifier of the family,
 
 - PDB file containing the 3D coordinates of the master sequence. Please note that the structure may contain "holes" (missing residues that either could not be resolved, or were modified/non-canonical). 
 
