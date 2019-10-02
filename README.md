@@ -45,4 +45,6 @@ For each family:
 
 - SCOP_ID file containing the SCOP identifier of the family 
 
-- PDB file containing the 3D coordinates of the master sequence. Please note that the structure may contain "holes" (missing residues that either could not be resolved, or were modified/non-canonical)
+- PDB file containing the 3D coordinates of the master sequence. Please note that the structure may contain "holes" (missing residues that either could not be resolved, or were modified/non-canonical). 
+
+### Please note that the master sequence is named with its PDB code in the MAP file. It may not be the first sequence appearing in the file!
