@@ -31,3 +31,18 @@ ReviewSA: book chapter reviewing methods to predict secondary structure, solvent
 CCMPRED: method to predict protein-protein contact by extracting coevolution signals (co-occurring patterns of mutations across sequences)
 
 ****
+**** 
+# Data for training and testing (Data)
+
+
+1009 directories corresponding to 1009 families from HOMSTRAD.
+
+For each family:
+
+- FASTA file containing the master (reference) sequence
+
+- MAP file containing a multiple sequence alignment with the master sequence and homologous (or related) sequences. 
+
+- SCOP_ID file containing the SCOP identifier of the family 
+
+- PDB file containing the 3D coordinates of the master sequence. Please note that the structure may contain "holes" (missing residues that either could not be resolved, or were modified/non-canonical)
