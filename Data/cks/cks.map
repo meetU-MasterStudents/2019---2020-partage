@@ -1,0 +1,164 @@
+>P1;1cksa
+structureX:1cks:   2 :A:  75 :A:cyclin-dependent kinases regulatory subunit 2 (cks-2):Homo sapiens: 2.1: 16.8
+-------------------AHKQIYYSDKYFDEHYEYRHVMLPRELSKQVPK---------THLMSEEEW
+RRLGVQQSLGWVHYMIHEPEPHILLFRRPLPK*
+>P1;1buhb
+structureX:1buh:   5 :B:  74 :B:cyclin-dependent kinases regulatory subunit 1 (cks-1):Homo sapiens: 2.60: 19
+----------------------QIYYSDKYDDEEFEYRHVMLPKDIAKLVPK---------THLMSESEW
+RNLGVQQSQGWVHYMIHEPEPHILLFRRPLP-*
+>P1;1puc
+structureX:1puc:   2 : : 102 : :cyclin-dependent kinases regulatory subunit (p13):Schizosaccharomyces pombe: 1.95: -1
+SKSGVPRLLTASERERLEPFIDQIHYSPRYADDEYEYRHVMLPKAMLKAIPTDYFNPETGTLRILQEEEW
+RGLGITQSLGWEMYEVHVPEPHILLFKREK-D*
+>P1;gi|39588814|emb|CAE69444.1| Hypothetical protein CBG15632 [Caeno... [ score 136 E 1e-31 ] [ range 6 .. 76 ]
+sequence
+---------------------NDFYYSNKYEDDEYEYRHVHVTKDVAKLIPK---------NRLMSETEW
+RSLGIQQSPGWIHYMIHGPERHVLLFRRPLP-*
+>P1;gi|17539564|ref|NP_501457.1| cyclin-dependent kinase regulatory ... [ score 135 E 2e-31 ] [ range 5 .. 75 ]
+sequence
+--------------------NNDFYYSNKYEDDEFEYRHVHVTKDVSKLIPK---------NRLMSETEW
+RSLGIQQSPGWMHYMIHGPERHVLLFRRPL--*
+>P1;gi|2493726|sp|Q91879|CKS2_XENLA CYCLIN-DEPENDENT KINASES REGULAT... [ score 129 E 1e-29 ] [ range 2 .. 75 ]
+sequence
+-------------------SYKNIYYSDKYTDEHFEYRHVMLPKELAKQVPK---------THLMSEEEW
+RRLGVQQSLGWVHYMIHEPEPHILLFRRPLPK*
+>P1;gi|18158610|gb|AAK91295.2| CDC28 protein kinase 1-like protein [... [ score 125 E 2e-28 ] [ range 2 .. 72 ]
+sequence
+-------------------AHKHIYYSDKYYDDKFEYRHVMLPKELAKLVPK---------SHLMSESEW
+RGIGVQQSQGWCHYMKHEPEPHILLFRRP---*
+>P1;gi|1168966|sp|P41384|CKS1_PATVU CYCLIN-DEPENDENT KINASES REGULAT... [ score 123 E 8e-28 ] [ range 2 .. 71 ]
+sequence
+-------------------SARQIYYSDKYFDEDFEYRHVMLPKDIAKMVPK---------NHLMSEAEW
+RSIGVQQSHGWIHYMKHEPEPHILLFRR----*
+>P1;gi|17136850|ref|NP_476947.1| Cyclin-dependent kinase subunit CG3... [ score 123 E 8e-28 ] [ range 3 .. 71 ]
+sequence
+---------------------KDIYYSDKYYDEQFEYRHVVLPKELVKMVPK---------THLMTEAEW
+RSIGVQQSRGWIHYMIHKPEPHILLFRRP---*
+>P1;gi|45185339|ref|NP_983056.1| ABR109Cp [Eremothecium gossypii] >g... [ score 122 E 1e-27 ] [ range 25 .. 103 ]
+sequence
+---------------------ESIHYSPRYSDDTHEYRHVMLPKAMLKVIPS---------DYILTEDEW
+RGLGVTQSLGWEHYECHAPEPHILLFKRPL--*
+>P1;gi|2493727|sp|P55933|CKS1_PHYPO PROBABLE CYCLIN-DEPENDENT KINASE... [ score 122 E 2e-27 ] [ range 6 .. 74 ]
+sequence
+-----------------------IQYSEKYYDDKFEYRHVILPPDVAKEIPK---------NRLLSEGEW
+RGLGVQQSQGWVHYALHRPEPHILLFRREVP-*
+>P1;gi|20834536|ref|XP_123604.1| similar to Cyclin-dependent kinases... [ score 121 E 5e-27 ] [ range 2 .. 65 ]
+sequence
+-------------------SHKQIYYSDIYDDEEFEYRHVMLPKDIAKLVPK---------THLMSESEW
+RKLGVQQSQGWLHYMIHEPEPH----------*
+>P1;gi|6319611|ref|NP_009693.1| subunit of the Cdc28 protein kinase;... [ score 120 E 9e-27 ] [ range 28 .. 104 ]
+sequence
+-----------------------IHYSPRYSDDNYEYRHVMLPKAMLKVIPS---------DYILTEDEW
+RGLGITQSLGWEHYECHAPEPHILLFKRPL--*
+>P1;gi|29251447|gb|EAA42928.1| GLP_170_20046_20303 [Giardia lamblia ... [ score 119 E 2e-26 ] [ range 5 .. 75 ]
+sequence
+-------------------AHNGFYYSRKYYDDVYEYRHVIMPEEMVKKYNF---------DHLLSEQEW
+RGLGIQMSQGWVHYDYHKPEPNILMFRRP---*
+>P1;gi|40747685|gb|EAA66841.1| hypothetical protein AN9424.2 [Asperg... [ score 116 E 1e-25 ] [ range 30 .. 102 ]
+sequence
+-----------------------IHYSARYSDDQFEYRHVQLPKNMLKKIPA---------DYLLWEEEW
+RALGITQSLGWEHYEVHEPEPHILLF------*
+>P1;gi|19112223|ref|NP_595431.1| cyclin-dependent kinases regulatory... [ score 115 E 3e-25 ] [ range 24 .. 99 ]
+sequence
+----------------------QIHYSPRYADDEYEYRHVMLPKAMLKAIPT---------DYILQEEEW
+RGLGITQSLGWEMYEVHVPEPHILLFKR----*
+>P1;gi|42551432|gb|EAA74275.1| hypothetical protein FG04910.1 [Gibbe... [ score 114 E 4e-25 ] [ range 32 .. 104 ]
+sequence
+-----------------------IHYSARYSDSEYEYRHVQLPKAMLKAIPK---------DYLLWEEEW
+RALGITQSLGWEHYEVHEPEPHILLF------*
+>P1;gi|32417582|ref|XP_329269.1| hypothetical protein [Neurospora cr... [ score 113 E 1e-24 ] [ range 35 .. 108 ]
+sequence
+-----------------------IHYSTRYSDSEYEYRHVQLPKAMLKAIPS---------DYLLWEEEW
+RAMGITQSLGWEHYEVHEPEPHILLFK-----*
+>P1;gi|3108169|gb|AAC15771.1| Cdc2 binding protein Suc1 [Pneumocysti... [ score 111 E 4e-24 ] [ range 26 .. 102 ]
+sequence
+---------------------ENIHYSTRYSDDTHEYRHVILPKPMLKAIPK---------DYILHEEEW
+RGLGITQSLGWQHYEIHVPEPHILLFKR----*
+>P1;gi|38102152|gb|EAA49024.1| hypothetical protein MG00682.4 [Magna... [ score 107 E 6e-23 ] [ range 36 .. 109 ]
+sequence
+-----------------------IHYSSRYNDSEYEYRHVQLPKAMLKAIPK---------EYLLWEEEW
+RGMGITQSLGWEHYEVHEPEPHILLFK-----*
+>P1;gi|31197815|ref|XP_307855.1| ENSANGP00000018659 [Anopheles gambi... [ score 105 E 3e-22 ] [ range 2 .. 57 ]
+sequence
+-------------------------------------RHVVLPKDIAKLVPK---------THLMTENEW
+RAIGVQQSRGWVHYMVHQPEPHILLFRRPITK*
+>P1;gi|42551432|gb|EAA74275.1| hypothetical protein FG04910.1 [Gibbe... [ score 171 E 3e-42 ] [ range 10 .. 104 ]
+sequence
+-RNKAPRPLSDSERARVEEFIDSIHYSARYSDSEYEYRHVQLPKAMLKAIPKDYHDSSKGTLKLLWEEEW
+RALGITQSLGWEHYEVHEPEPHILLF------*
+>P1;gi|40747685|gb|EAA66841.1| hypothetical protein AN9424.2 [Asperg... [ score 166 E 6e-41 ] [ range 8 .. 102 ]
+sequence
+-RNKKPRPLLESERERLDEFIDSIHYSARYSDDQFEYRHVQLPKNMLKKIPADYFDSSKGTLKLLWEEEW
+RALGITQSLGWEHYEVHEPEPHILLF------*
+>P1;gi|32417582|ref|XP_329269.1| hypothetical protein [Neurospora cr... [ score 166 E 6e-41 ] [ range 13 .. 108 ]
+sequence
+-RNPSPRPLSDNERARLEEFIDSIHYSTRYSDSEYEYRHVQLPKAMLKAIPSDYHDKSKGTLKLLWEEEW
+RAMGITQSLGWEHYEVHEPEPHILLFK-----*
+>P1;gi|6319611|ref|NP_009693.1| subunit of the Cdc28 protein kinase;... [ score 165 E 1e-40 ] [ range 11 .. 105 ]
+sequence
+------RKLTDQERARVLEFQDSIHYSPRYSDDNYEYRHVMLPKAMLKVIPSDYFNSEVGTLRILTEDEW
+RGLGITQSLGWEHYECHAPEPHILLFKRPL-N*
+>P1;gi|45185339|ref|NP_983056.1| ABR109Cp [Eremothecium gossypii] >g... [ score 165 E 2e-40 ] [ range 10 .. 104 ]
+sequence
+------RKLSDQERARVLEFQESIHYSPRYSDDTHEYRHVMLPKAMLKVIPSDYFNSETGTLRILTEDEW
+RGLGVTQSLGWEHYECHAPEPHILLFKRPL-N*
+>P1;gi|38102152|gb|EAA49024.1| hypothetical protein MG00682.4 [Magna... [ score 160 E 8e-39 ] [ range 14 .. 109 ]
+sequence
+-RNAEPRPLTDHERERLEEFLDSIHYSSRYNDSEYEYRHVQLPKAMLKAIPKEYHDSSKGTLKLLWEEEW
+RGMGITQSLGWEHYEVHEPEPHILLFK-----*
+>P1;gi|3108169|gb|AAC15771.1| Cdc2 binding protein Suc1 [Pneumocysti... [ score 157 E 4e-38 ] [ range 11 .. 105 ]
+sequence
+------RYLTEAERSRLEEFIENIHYSTRYSDDTHEYRHVILPKPMLKAIPKDYFNQETGTLKILHEEEW
+RGLGITQSLGWQHYEIHVPEPHILLFKRKC-D*
+>P1;gi|2493729|sp|Q25330|CKS1_LEIME CYCLIN-DEPENDENT KINASES REGULAT... [ score 130 E 7e-30 ] [ range 24 .. 98 ]
+sequence
+----------------IKKLQCKILYSDKYYDDMFEYRHVILPKDLARLVP---------TSRLMSEMEW
+RQLGVQQSQGWVHYMIHKPEPHVLLFKRPR--*
+>P1;gi|23392951|emb|CAD43044.1| cyclin dependant kinases regulatory ... [ score 125 E 2e-28 ] [ range 16 .. 96 ]
+sequence
+----------EQARMMISKLQSKILYSDKYYDDEYEYRHVILPKDFSRLVPRG---------RLMEESEW
+RQLGVQQSVGWRHYMLHAPEPHVLLFKRPK--*
+>P1;gi|21355377|ref|NP_649817.1| CG9790-PA [Drosophila melanogaster]... [ score 125 E 2e-28 ] [ range 4 .. 73 ]
+sequence
+---------------------DQIQYSEKYFDDNFEYRHVILPPDLAKHVPKAH---------LMTETEW
+RNLGVQQSPGWVHYMVHAPEPHVILFRRKR--*
+>P1;gi|27803876|gb|AAO22151.1| cyclin-dependent kinase regulatory su... [ score 125 E 2e-28 ] [ range 16 .. 96 ]
+sequence
+----------EQARHMISKLQSKILYSEKYYDDEYEYRHVVLPKDFARLVPRH---------RLMDESEW
+RQLGVQQSVGWRHYMFHKPEPHVLLFKRPK--*
+>P1;gi|15226294|ref|NP_180363.1| cyclin-dependent kinase / CDK (CKS1... [ score 120 E 6e-27 ] [ range 1 .. 70 ]
+sequence
+--------------------MGQIQYSEKYFDDTFEYRHVVLPPEVAKLLPKN---------RLLSENEW
+RAIGVQQSRGWVHYAVHRPEPHIMLFRRP---*
+>P1;gi|15451612|gb|AAK98736.1| Putative cyclin-dependent kinase regu... [ score 120 E 7e-27 ] [ range 1 .. 72 ]
+sequence
+--------------------MGQIQYSEKYFDDTYEYRHVVLPPEVAKLLPKN---------RLLSENEW
+RAIGVQQSRGWVHYAIHRPEPHIMLFRRPL-N*
+>P1;gi|17510607|ref|NP_490896.1| cyclin-dependent kinases regulatory... [ score 120 E 9e-27 ] [ range 1 .. 71 ]
+sequence
+--------------------MEDIYYSPRYEDDEYEYRHVILPQAVSRKVPKG---------RLLSEAEW
+RRAGVQQSLGWEHYMVHNPEKHILLFRRKR--*
+>P1;gi|15226297|ref|NP_180364.1| cyclin-dependent kinase, putative /... [ score 120 E 9e-27 ] [ range 1 .. 72 ]
+sequence
+--------------------MGQIQYSDKYFDDTFEYRHVVLPPEVAKLLPKN---------RILSESEW
+RAIGVQQSRGWVHYAIHRPEPHIMLFRRPL-N*
+>P1;gi|31202809|ref|XP_310353.1| ENSANGP00000005592 [Anopheles gambi... [ score 119 E 1e-26 ] [ range 4 .. 73 ]
+sequence
+---------------------DQIQYSEKYYDDVYEYRHVILPPDLAKYVPKTH---------LMTETEW
+RNLGVQQSPGWVLYMIHSPEPHVLLFRRPR--*
+>P1;gi|40641585|emb|CAE54272.1| putative cyclin-dependent kinase reg... [ score 119 E 1e-26 ] [ range 1 .. 72 ]
+sequence
+--------------------MGQIQYSEKYFDDTFEYRHVVLPPEVAKLLPKN---------RLLAENEW
+RALGVQQSRGWVHYAVHRPEPHIMLFRRPL-N*
+>P1;gi|27435806|gb|AAO13226.1| CKS1 protein [Populus tremula x Popul... [ score 116 E 9e-26 ] [ range 1 .. 72 ]
+sequence
+--------------------MGQIQYSEKYLDDTFEYRHVVLPPEVAKLLIKN---------RLLSENEW
+RAIGVQQSRGWVHYAIHRPEPHIMLFRRPL-N*
+>P1;gi|39586321|emb|CAE66732.1| Hypothetical protein CBG12081 [Caeno... [ score 114 E 3e-25 ] [ range 1 .. 72 ]
+sequence
+--------------------MDDIYYSPRYEDDDYEYRHVILPHGLAKQIPRD---------KLLTEGEW
+RRLGVTQSLGWEHYMVHNPERHILLFRRRR-N*
+>P1;gi|28829032|gb|AAO51607.1| similar to putative protein involved ... [ score 97 E 1e-19 ] [ range 6 .. 59 ]
+sequence
+-------------------------------------KHVILPSEISSLIPRDV---------LLTEDEC
+RKLGIRQSDGWEHYANHKPEPHILLFRRPH--*

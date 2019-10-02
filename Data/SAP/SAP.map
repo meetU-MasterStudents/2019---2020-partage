@@ -1,0 +1,45 @@
+>P1;1h1js
+structureN:1h1j:   1 :S:  44 :S:tho1 protein, SAP domain:Saccharomyces cerevisiae: -1: -1
+----------GSADYSSLTVVQLKDLLTKRNLSVGGLKNELVQRLIKDDEESKG*
+>P1;1jeqa
+structureX:1jeq: 559 :A: 609 :A:ATP-dependent DNA helicase II, 70 kda subunit (Ku70):Homo sapiens: 2.70: 22.2
+YSEEELKTHISKGTLGKFTVPMLKEACRAYGLKSGLKKQELLEALTKHFQD---*
+>P1;1kcfa
+structureX:1kcf:   3 :A:  38 :A:hypothetical protein c25g10.02 in chromosome I:Schizosaccharomyces pombe: 2.30: 23.8
+----------------TVKLSFLQHICKLTGLSRSGRKDELLRRIVDS--PIYP*
+>P1;gi|43863532|gb|EAF85825.1| unknown [environmental sequence] [ score 78 E 6e-14 ] [ range 213 .. 252 ]
+sequence
+-----------SLDYSTMTVAQLKEELQGRDLVISGVKAELISRLEDDDEQ---*
+>P1;gi|43246935|gb|EAC89122.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 49 .. 86 ]
+sequence
+-------------DYNSMTVAQLKELLQERDLTIGGNKAELVSRLEEDDIQ---*
+>P1;gi|43287714|gb|EAD09700.1| unknown [environmental sequence] [ score 65 E 4e-10 ] [ range 27 .. 64 ]
+sequence
+-------------DYNSMTVAQLKEILQERDLTIGGNKAELVARLEEDDIQ---*
+>P1;gi|45187804|ref|NP_984027.1| ADL069Wp [Eremothecium gossypii] >g... [ score 50 E 2e-05 ] [ range 35 .. 70 ]
+sequence
+-------------DYASMTVAQLKDVLKERELPTQGLKAALVERLQQAD-----*
+>P1;gi|11359412|pir||T48827 hypothetical protein 68B2.110 [imported]... [ score 45 E 6e-04 ] [ range 3 .. 40 ]
+sequence
+-------------DYNSMKVPELKKLLNERSLPQTGNKADLIARLQEHDKQ---*
+>P1;gi|38109560|gb|EAA55412.1| hypothetical protein MG09219.4 [Magna... [ score 44 E 0.001 ] [ range 2 .. 42 ]
+sequence
+------------AEYSSMKVPELKKMLGERGLPQSGNKPDLIARLKEDDEKKE-*
+>P1;gi|6753928|ref|NP_034377.1| thyroid autoantigen; thyroid autoant... [ score 96 E 2e-19 ] [ range 558 .. 606 ]
+sequence
+-SEEELKAHFRKGTLGKLTVPTLKDICKAHGLKSGPKKQELLDALIRHLE----*
+>P1;gi|21717799|ref|NP_620780.1| thyroid autoantigen; Ku70 DNA-bindi... [ score 94 E 9e-19 ] [ range 558 .. 606 ]
+sequence
+-SEEELKDLFAKGTLGKLTVPALRDICKAYGLKSGPKKQELLEALSRHLE----*
+>P1;gi|45382537|ref|NP_990258.1| KU70 protein [Gallus gallus] >gi|62... [ score 92 E 3e-18 ] [ range 582 .. 629 ]
+sequence
+-SEDSLRSYVQNGTLGKLTVSALKDTCRHYGLRSGGKKQELIDALTEYF-----*
+>P1;gi|1836065|gb|AAB46854.1| Ku70=DNA-dependent protein kinase 70 k... [ score 92 E 3e-18 ] [ range 558 .. 606 ]
+sequence
+-SEEELKAHFAKGTLGKLTVPTLKEVCKAYGLKSGPKKQELLDALTRHFQ----*
+>P1;gi|4630797|dbj|BAA76953.1| human Ku70 autoantigen homologue [Xen... [ score 87 E 8e-17 ] [ range 562 .. 609 ]
+sequence
+-SEDELRTYVKNGTLGKLTVPALKEACRGYKLK-GSKKQELVDALVEYFK----*
+>P1;gi|32417036|ref|XP_328996.1| hypothetical protein [Neurospora cr... [ score 46 E 2e-04 ] [ range 594 .. 643 ]
+sequence
+-SNADLKKAFEQGTLGKMTVAELKDIMASKGISTAGRKAELVERLEQWVEE---*

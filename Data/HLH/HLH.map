@@ -1,0 +1,1208 @@
+>P1;1mdya
+structureX:1mdy:   1 :A: 166 :A:myoblast determination protein 1:Mus musculus: 2.8: -1
+MELKRKTTNADRRKAATMRERRRLSKVNEAFETLKRSTSSNP----NQRL-PKVEILRNAIRYIEGLQAL
+LRD-------------------*
+>P1;1an4a
+structureX:1an4: 196 :A: 260 :A:upstream stimulatory factor 1 (major late transcription factor 1):Homo sapiens: 2.9: 23.6
+-------MDEKRRAQHNEVERRRRDKINNWIVQLSKIIPDSSMESTKSGQ-SKGGILSKASDYIQELRQS
+NHR-------------------*
+>P1;1hloa
+structureX:1hlo:   3 :A:  82 :A:max protein:Homo sapiens: 2.80: 21.3
+NDDIEVESDADKRAHHNALERKRRDHIKDSFHSLRDSVPSLQ----GEKA-SRAQILDKATEYIQYMRRK
+NHTHQQDIDDLKRQN-------*
+>P1;1am9a
+structureX:1am9: 319 :A: 398 :A:sterol regulatory element binding protein-1 (srebp-1) (sterolregulatory element-binding transcription factor 1):Homo sapiens: 2.3: 21.9
+------QSRGEKRTAHNAIEKRYRSSINDKIIELKDLV-VGT----EAKL-NKSAVLRKAIDYIRFLQHS
+NQKLKQENLSLRTAVHKSKSLK*
+>P1;1a0aa
+structureX:1a0a:   0 :A:  62 :A:phosphate system positive regulatory protein pho4:Saccharomyces cerevisiae: 2.8: 23
+----------MKRESHKHAEQARRNRLAVALHELASLIPAEWKQQNVSAAPSKATTVEAACRYIRHLQQN
+GST-------------------*
+>P1;gi|27806531|ref|NP_776541.1| myogenic factor 5, transcription ac... [ score 137 E 9e-32 ] [ range 76 .. 140 ]
+sequence
+---KRKSTTMDRRKAATMRERRRLKKVNQAFDTLKRCTTTNP----NQRL-PKVEILRNAIRYIESLQEL
+LRE-------------------*
+>P1;gi|127707|sp|P21572|MYOD_COTJA Myoblast determination protein 1 ... [ score 136 E 2e-31 ] [ range 94 .. 158 ]
+sequence
+---KRKTTNADRRKAATMRERRRLSKVNEAFETLKRCTSTNP----NQRL-PKVEILRNAIRYIESLQAL
+LRE-------------------*
+>P1;gi|127629|sp|P24700|MYF5_XENLA Myogenic factor 5 (Myf-5) >gi|104... [ score 135 E 2e-31 ] [ range 76 .. 140 ]
+sequence
+---KRKSSTTDRRKAATMRERRRLKKVNQAFETLKRCTTTNP----NQRL-PKVEILRNAIQYIESLQDL
+LRE-------------------*
+>P1;gi|19110897|gb|AAL85337.1| myogenic factor MYOD1 [Sparus aurata] [ score 135 E 3e-31 ] [ range 103 .. 166 ]
+sequence
+---KRKTTNADRRKAATLRERRRLSKVNDAFETLKRCTSANP----NQRL-PKVEILRNAISYIESPQAL
+LR--------------------*
+>P1;gi|40074256|gb|AAR39414.1| myoblast determination protein [Takif... [ score 135 E 3e-31 ] [ range 102 .. 165 ]
+sequence
+---KRKTTNVDRRKAATLRERRRLSKVNEAFETLKRCTNTNP----NQRL-PKVEILRNAISYIESLQAL
+LR--------------------*
+>P1;gi|45360427|ref|NP_988932.1| hypothetical protein MGC76020 [Xeno... [ score 134 E 4e-31 ] [ range 76 .. 140 ]
+sequence
+---KRKSSTMDRRKAATMRERRRLKKVNQAFETLKRCTTTNP----NQRL-PKVEILRNAIKYIESLQDL
+LQE-------------------*
+>P1;gi|3914107|sp|Q91205|MYO1_ONCMY Myoblast determination protein 1... [ score 134 E 4e-31 ] [ range 77 .. 140 ]
+sequence
+---KRKTTNADRRKAATMRERRRLSKVNDAFETLKRCTSTNP----NQRL-PKVDILRNAISYIESLQGL
+LR--------------------*
+>P1;gi|30141480|emb|CAD89608.1| myoblast determination protein 2 [Sa... [ score 132 E 1e-30 ] [ range 77 .. 140 ]
+sequence
+---KRKTTNSDRRKAATMRERRRLGKVNDAFENLKRCTSNNP----NQRL-PKVEILRNAISYIESLQSL
+LR--------------------*
+>P1;gi|157270|gb|AAA28477.1| myogenic determination protein [ score 131 E 3e-30 ] [ range 154 .. 218 ]
+sequence
+---KKKSVTVDRRKAATMRERRRLRKVNEAFEILKRRTSSNP----NQRL-PKVEILRNAIEYIESLEDL
+LQE-------------------*
+>P1;gi|3914106|sp|Q91154|MYF5_NOTVI Myogenic factor 5 (Myf-5) >gi|57... [ score 131 E 4e-30 ] [ range 76 .. 140 ]
+sequence
+---KRKSSTMDRRKAATMRERRRLKKVNSAFETLKRCTTANP----NQRL-PKVEILRNAISYIESLQEL
+LRE-------------------*
+>P1;gi|18252672|gb|AAL66387.1| myogenic factor Myf-5 [Morone saxatilis] [ score 131 E 5e-30 ] [ range 60 .. 124 ]
+sequence
+---KRKSNFVDRRRAATMRERRRLKKVNHAFEALRRCTSANP----SQRL-PKVEILRNAIQYIESLQDL
+LHE-------------------*
+>P1;gi|19924254|gb|AAK58608.2| muscle regulatory protein MyoD [Oreoc... [ score 131 E 5e-30 ] [ range 102 .. 165 ]
+sequence
+---KRKTTNADRRKAATLRERRRLSKVNDAFETLKRCTTANP----NQRL-PKVEILRNAISYIESLQAL
+LR--------------------*
+>P1;gi|38455176|gb|AAR20811.1| Myf5 [Takifugu rubripes] [ score 130 E 7e-30 ] [ range 60 .. 124 ]
+sequence
+---KRKSNFVDRRRAATMRERRRLKKVNHAFDALRRCTSANS----SQRL-PKVEILRNAIQYIESLQEL
+LRE-------------------*
+>P1;gi|214588|gb|AAA49900.1| MyoD1 homologous protein; putative [ score 129 E 2e-29 ] [ range 88 .. 152 ]
+sequence
+---KRKTTNADRRKAATMRERRRLSKVNEAFETLKRYTSTNP----NQRL-PKVEILRNAIRYIESLQAL
+LHD-------------------*
+>P1;gi|3721611|dbj|BAA33566.1| myf-5 [Cyprinus carpio] [ score 129 E 2e-29 ] [ range 60 .. 124 ]
+sequence
+---KRKASTVDRRRAATMRERRRLKKVNHAFEALRRCTSANP----SQRL-PKVEILRNAIQYIESLQEL
+LRE-------------------*
+>P1;gi|19110899|gb|AAL85338.1| myogenic factor MYOD2 [Sparus aurata] [ score 129 E 2e-29 ] [ range 88 .. 151 ]
+sequence
+---KRKTTHADRRKAATMRERRRLSRVNDAFETLKRCTASSP----NQRL-PKVDILRNAISYIESLQAL
+LR--------------------*
+>P1;gi|23491580|dbj|BAC16742.1| MyoD-related [Branchiostoma belcheri] [ score 128 E 3e-29 ] [ range 71 .. 135 ]
+sequence
+---KKKTVPIDRRKAATMRERRRLVKVNEAFDILKKKSCANP----NQRL-PKVEILRNAISYIEQLHKL
+LRD-------------------*
+>P1;gi|45237483|emb|CAF34062.1| myoblast determination protein [Hipp... [ score 128 E 3e-29 ] [ range 83 .. 146 ]
+sequence
+---KTKTTHEDRRKAATVRERRRLGKVNTAFETLKRCTASNP----NQRL-PKVEILRNAISYIESLQAL
+LR--------------------*
+>P1;gi|127053|sp|P16076|MF25_XENLA Myogenic factor 25 >gi|104138|pir... [ score 127 E 5e-29 ] [ range 89 .. 153 ]
+sequence
+---KRKSSGADRRRAATMRERRRLSKVNDAFETLKRCTSTNP----NQRL-PKVDILRNAISYIDSLQTL
+LRD-------------------*
+>P1;gi|266591|sp|Q01795|MYF6_CHICK Myogenic factor 6 (Myf-6) (Muscle... [ score 125 E 2e-28 ] [ range 86 .. 149 ]
+sequence
+---KRKSAPTDRRKAATLRERRRLKKINEAFEALKRRTVANP----NQRL-PKVEILRSAISYIERLQDL
+LH--------------------*
+>P1;gi|1654183|gb|AAC47320.1| MYOD-like DNA-binding protein [ score 125 E 3e-28 ] [ range 227 .. 290 ]
+sequence
+---KKKTVTIDRRKAATMRERRRLRKVNEAFEILKRRTCANP----NQRL-PKVEILRNAIEYIDSLEEM
+MH--------------------*
+>P1;gi|8133029|gb|AAF73467.1| myogenic regulatory factor MyoD [Clupe... [ score 124 E 5e-28 ] [ range 3 .. 66 ]
+sequence
+---KRKTTNSDRRKAATMRERRRLSKVNDAFESLKRCTSTNP----NQRL-PKVEILRNAISYIESLQSL
+LR--------------------*
+>P1;gi|552253|gb|AAA30009.1| transcription factor [ score 124 E 6e-28 ] [ range 93 .. 156 ]
+sequence
+---KRKNVAVDKRKAATLRERRRLRKVNEAFEALKRHTCANP----NQRL-PKVEILRNAIEYIEKLERL
+LQ--------------------*
+>P1;gi|34832|emb|CAA35641.1| unnamed protein product [Homo sapiens] [ score 123 E 1e-27 ] [ range 74 .. 136 ]
+sequence
+---KRKSVSVDRRRAATLREKRRLKKVNEAFEALKRSTLLNP----NQRL-PKVEILRSAIQYIERLQAL
+L---------------------*
+>P1;gi|40646765|gb|AAR88253.1| myogenin [Takifugu rubripes] [ score 123 E 1e-27 ] [ range 90 .. 152 ]
+sequence
+---KRKTVTMDRRRAATLREKRRLKKVNEAFDALKRSTLMNP----NQRL-PKVEILRSAIQYIEKLQAL
+V---------------------*
+>P1;gi|38155622|gb|AAR12639.1| MyoD [Branchiostoma belcheri tsingtau... [ score 123 E 1e-27 ] [ range 72 .. 135 ]
+sequence
+---KRKSVTVDRRKAATMRERRRLRKVNEAFEVLKRRTCTNP----NQRL-PKVEILRNAITYIESLENL
+LR--------------------*
+>P1;gi|22652365|gb|AAN03696.1| MyoD-like protein [Schmidtea mediterr... [ score 122 E 2e-27 ] [ range 293 .. 355 ]
+sequence
+---KKKTVHVDRRKAATMRERRRLRKVNEAFETLKRRTSGNP----NQRM-PKVEILKNAIDYIESLEEL
+L---------------------*
+>P1;gi|37675389|gb|AAQ97203.1| myogenin [Sternopygus macrurus] [ score 122 E 2e-27 ] [ range 95 .. 157 ]
+sequence
+---KRKSVSMDRRRAATLREKRRLKKVNEAFEALKRSTLMNP----NQRL-PKVEILRSAIQYIERLQAL
+V---------------------*
+>P1;gi|3808158|emb|CAA87010.1| TMyogenin protein [Oncorhynchus mykiss] [ score 122 E 2e-27 ] [ range 93 .. 155 ]
+sequence
+---KRKTVTMDRRKAATMREKRRLKKVNEAFEALKRSTLMNP----NQRL-PKVEILRSAIQYIERLQAL
+V---------------------*
+>P1;gi|505078|dbj|BAA02725.1| AMD1 protein [Halocynthia roretzi] [ score 122 E 2e-27 ] [ range 235 .. 299 ]
+sequence
+---KRKTGPHDRRRAATLRERRRLKRVNEAYENLKRCACSNP----NQRL-PKVEILRNAITYIENLQRI
+LYE-------------------*
+>P1;gi|34420915|gb|AAQ67704.1| myogenic regulatory factor 4 [Danio r... [ score 121 E 3e-27 ] [ range 85 .. 148 ]
+sequence
+---KRKSAPTDRRKAATLRERRRLKKINEAFDALKKKTVPNP----NQRL-PKVEILRSAINYIEKLQDL
+LH--------------------*
+>P1;gi|18252674|gb|AAL66388.1| myogenin [Morone saxatilis] [ score 121 E 4e-27 ] [ range 91 .. 153 ]
+sequence
+---KRKTVTMDRRRAATMREKRRLKKVNEAFDALKRSTLMNP----NQRL-PKVEILRSAIQYIERLQAL
+V---------------------*
+>P1;gi|2062415|gb|AAB61360.1| MyoD-family protein j [Ciona intestina... [ score 119 E 2e-26 ] [ range 386 .. 448 ]
+sequence
+---KRKTGPHDRRRAATLRERRRLKRVNQAYDALKRCACANP----NQRL-PKVEILRNAITYIYNLQHM
+L---------------------*
+>P1;gi|38455178|gb|AAR20812.1| myogenic regulatory factor 4 [Takifug... [ score 118 E 4e-26 ] [ range 89 .. 152 ]
+sequence
+---KRKSAPTDRRKAATLRERRRLKKINEAFDALKRKTVANP----NQRL-PKVEILRSAISYIERLQDL
+LQ--------------------*
+>P1;gi|18077927|gb|AAK17969.2| MyoD [Gadus morhua] [ score 118 E 4e-26 ] [ range 77 .. 138 ]
+sequence
+---QRKNTNADRRKASTMRDRRRLIKINDAFETLNRCTST------NQRL-PKVEILRNAISYIESLQAL
+LR--------------------*
+>P1;gi|31196367|ref|XP_307131.1| ENSANGP00000013830 [Anopheles gambi... [ score 118 E 4e-26 ] [ range 122 .. 184 ]
+sequence
+---KKKSVAVDRRKAATLRERRRLRKVNEAFEVLKRRTSTNP----NQRL-PKVEILRNAIEYIDSLQAL
+L---------------------*
+>P1;gi|31071626|dbj|BAC76803.1| myogenin [Bos taurus] [ score 117 E 5e-26 ] [ range 74 .. 136 ]
+sequence
+---KRKSVSVDRRRAATLREKRRLKKVNEGFQALKRSTLLNP----NQRL-PKVEILRSAIQYIERLQAL
+L---------------------*
+>P1;gi|31455588|gb|AAN87802.1| myogenic regulatory factor 2 [Branchi... [ score 117 E 8e-26 ] [ range 75 .. 138 ]
+sequence
+----RKASRHDRRKAATMRERRRLVKVNEAFEVLKKKTHMKP----NQKT-PKVDILRNAIAYIEQLHQT
+LRD-------------------*
+>P1;gi|18139565|gb|AAL05071.1| myogenin U2 [Xenopus laevis] [ score 117 E 8e-26 ] [ range 85 .. 147 ]
+sequence
+---KRKTVSMDRRKAATLREKRRLKKVNEAFEALKRSTLLNP----NQRL-PKVEILRSAIQYIERLQTL
+L---------------------*
+>P1;gi|23491582|dbj|BAC16743.1| MyoD-related [Branchiostoma belcheri] [ score 110 E 9e-24 ] [ range 74 .. 137 ]
+sequence
+----RKASRQDRRKAATMRERRRLVKVNEAFEVLKRKTHMKP----SQKT-PKVDILRNAIAYIEQLHQT
+LRD-------------------*
+>P1;gi|17976512|gb|AAK31389.2| Helix loop helix protein 1, isoform c... [ score 109 E 2e-23 ] [ range 153 .. 212 ]
+sequence
+--------SVDRRKAATMRERRRLRKVNEAFEVVKQRTCPNP----NQRL-PKVEILRSAIDYINNLERM
+LQQ-------------------*
+>P1;gi|102462|pir||B36289 CeMyoD protein - Caenorhabditis elegans [ score 108 E 4e-23 ] [ range 146 .. 208 ]
+sequence
+-----RRTKLDRRKAATMRERRRLRKVNEAFEVVKQRTCPNP----NQRL-PKVEILRSAIDYINNLERM
+LQQ-------------------*
+>P1;gi|45383748|ref|NP_989515.1| myogenin (myogenic factor 4) [Gallu... [ score 107 E 1e-22 ] [ range 75 .. 137 ]
+sequence
+---KRKTVSIDRRRAATLREKRRLKKVNEAFEALKRSTLLNP----NQRL-PKVEILRSAIQYIERLQSL
+L---------------------*
+>P1;gi|294453|gb|AAA49496.1| myogenin [ score 99 E 3e-20 ] [ range 65 .. 128 ]
+sequence
+---KRKTVSIDRRRAATLREKRRLKKVNEAFEALKRSTLLNP----NQRL-PKVEILRSSIQYTERLQSL
+L---------------------*
+>P1;gi|18028803|gb|AAL56216.1| myogenic regulatory factor MYF-5 [Mus... [ score 95 E 3e-19 ] [ range 1 .. 48 ]
+sequence
+--------------------RRRLKKVNQAFETLKRCTTTNP----NPRL-PKVEILRNAIRYIESLQEL
+LRE-------------------*
+>P1;gi|19528575|gb|AAL90402.1| RH30329p [Drosophila melanogaster] >g... [ score 92 E 4e-18 ] [ range 73 .. 138 ]
+sequence
+--LKCASQMAQQRQAANLRERRRMQSINEAFEGLRTHIPTLP----EKRL-SKVDTLKLAISYITFLSEM
+VK--------------------*
+>P1;gi|17986173|ref|NP_524287.1| salivary gland-expressed bHLH CG129... [ score 89 E 2e-17 ] [ range 179 .. 238 ]
+sequence
+----------DYRRTACDRERTRMRDMNRAFDLLRSKLPSKP----NKKY-SKIESLRIAINYINHLQAM
+LRE-------------------*
+>P1;gi|9055318|ref|NP_061279.1| pancreas specific transcription fact... [ score 89 E 3e-17 ] [ range 162 .. 217 ]
+sequence
+------------RQAANVRERRRMQSINDAFEGLRSHIPTLP----EKRL-SKVDTLRLAIGYINFLSEL
+VQ--------------------*
+>P1;gi|5705901|gb|AAB25135.2| Myf5 homolog [Gallus gallus] [ score 88 E 6e-17 ] [ range 10 .. 64 ]
+sequence
+---KRKSTTMDRRKAATMRERRRLKKVNQAFETLKRCTTANP----NQRL-PKVEILSSAIHY-------
+----------------------*
+>P1;gi|17737917|ref|NP_524322.1| 48 related 3 CG6913-PA [Drosophila ... [ score 87 E 8e-17 ] [ range 79 .. 142 ]
+sequence
+---RRRVASMAQRRAANIRERRRMFNLNEAFDKLRRKVPTFA----EKRL-SRIETLRLAITYIGFMAEL
+L---------------------*
+>P1;gi|477212|pir||A48411 Myf5 homolog - chicken (fragment) [ score 87 E 1e-16 ] [ range 10 .. 64 ]
+sequence
+---KRKSTTMDRRKAATMRERRRLKKVNQAFETLKRCTTANP----NQRL-PKVEILRSAIQY-------
+----------------------*
+>P1;gi|27451611|gb|AAO15002.1| nephew of atonal 3 [Takifugu rubripes] [ score 76 E 2e-13 ] [ range 79 .. 144 ]
+sequence
+---RRRLITVVQRQAANVRERKRMFSLNEAFDELRRKVPTFA----EKRL-SRIDTLRLAIVYISFMTDL
+LRQ-------------------*
+>P1;gi|34864285|ref|XP_345659.1| similar to Fer3-like [Rattus norveg... [ score 72 E 2e-12 ] [ range 93 .. 158 ]
+sequence
+---KRKRVTYAQRQAANIRERKRMFNLNEAFDQLRRKVPTFA----EKRL-SRIETLRLAIVYISFMTEL
+LQ--------------------*
+>P1;gi|21328289|gb|AAM48514.1| bHLH transcription factor MyoD [Harpa... [ score 72 E 4e-12 ] [ range 54 .. 92 ]
+sequence
+---KGKTTNADRRKAATMRERRRLSKVNDAFETLKRCTSTNP----------------------------
+----------------------*
+>P1;gi|31242495|ref|XP_321678.1| ENSANGP00000022655 [Anopheles gambi... [ score 72 E 4e-12 ] [ range 73 .. 137 ]
+sequence
+---KCASQQAQQRQAANLRERRRMQSINEAFEGLRTHIPTLP----EKRL-SKVDTLKLAISYISFLGEM
+LR--------------------*
+>P1;gi|21328291|gb|AAM48515.1| bHLH transcription factor MyoD [Paran... [ score 70 E 1e-11 ] [ range 54 .. 92 ]
+sequence
+---KRKTTSADRRKAATMRERRRLSKVSDAFETLKRCTSTNP----------------------------
+----------------------*
+>P1;gi|17737999|ref|NP_524376.1| 48 related 2 CG5952-PA [Drosophila ... [ score 66 E 2e-10 ] [ range 148 .. 210 ]
+sequence
+-----------QRQAANVRERKRIQRINSAFDELRVHVPTFP----EKRL-SKIDTLRLAIAYISLLREV
+LQ--------------------*
+>P1;gi|31219912|ref|XP_316851.1| ENSANGP00000013139 [Anopheles gambi... [ score 66 E 2e-10 ] [ range 100 .. 169 ]
+sequence
+------SASVQRRNA---RERNRVKQVNNGFANLRQHIPSTA----NKKL-SKVDTLRLAVEYIRSLQRM
+LDE-------------------*
+>P1;gi|24645007|ref|NP_731223.1| atonal CG7508-PA [Drosophila melano... [ score 65 E 5e-10 ] [ range 252 .. 312 ]
+sequence
+--VKRK-----RRLAANARERRRMQNLNQAFDRLRQYLPCLG----NDRL-SKHETLQMAQTYISALGDL
+LR--------------------*
+>P1;gi|39597852|emb|CAE68544.1| Hypothetical protein CBG14376 [Caeno... [ score 64 E 8e-10 ] [ range 22 .. 77 ]
+sequence
+------------RQTASVRERRRMCSINVAFVELRNYIPTFP----EKRL-SKIDTLNLAIAYINMLDDV
+LR--------------------*
+>P1;gi|24650311|ref|NP_524516.2| delilah CG5441-PA [Drosophila melan... [ score 64 E 9e-10 ] [ range 95 .. 159 ]
+sequence
+-----------RRKTANARERTRMREINTAFETLRHCVPANT----NEKL-TKITTLRLAMKYITMLTDS
+IRD-------------------*
+>P1;gi|17567895|ref|NP_508725.1| predicted CDS, pancreas specific tr... [ score 63 E 2e-09 ] [ range 43 .. 98 ]
+sequence
+------------RQTASIRERKRMCSINVAFIELRNYIPTFP----EKRL-SKIDTLNLAIAYINMLDDV
+LR--------------------*
+>P1;gi|2570792|gb|AAB82272.1| atonal homologue-1 [Danio rerio] [ score 62 E 3e-09 ] [ range 110 .. 175 ]
+sequence
+-----KSTNVQRRMAANARERRRMHGLNHAFDELRSVIPAFD----NKKL-SKYETLQMAQIYINALSDL
+LQ--------------------*
+>P1;gi|712783|gb|AAB31739.1| twi protein [Drosophila virilis, Peptid... [ score 62 E 3e-09 ] [ range 371 .. 441 ]
+sequence
+--LKRKTEETDQRVMANVRERQRTQSLNDAFKALQQIIPTLP----SDKL-SKIQTLKLATRYIDFLCRM
+L---------------------*
+>P1;gi|31202645|ref|XP_310271.1| ENSANGP00000005553 [Anopheles gambi... [ score 62 E 3e-09 ] [ range 123 .. 182 ]
+sequence
+-----------QRQQTNVRERKRMMRINSAFDELRVHVPTFP----EKRL-SKIDTLRLAIAYI----AL
+LRE-------------------*
+>P1;gi|31202647|ref|XP_310272.1| ENSANGP00000015132 [Anopheles gambi... [ score 62 E 4e-09 ] [ range 120 .. 184 ]
+sequence
+-----------QRQQTNVRERKRMSSINSAFDELRVHVPTFP----EKRL-SKIDTLRLAIAYI----AL
+LRE-------------------*
+>P1;gi|6680742|ref|NP_031526.1| atonal homolog 1 [Mus musculus] >gi|... [ score 62 E 4e-09 ] [ range 156 .. 213 ]
+sequence
+----------QRRLAANARERRRMHGLNHAFDQLRNVIPSFN----NKKL-SKYETLQMAQIYINALSEL
+LQ--------------------*
+>P1;gi|31241829|ref|XP_321345.1| ENSANGP00000012217 [Anopheles gambi... [ score 62 E 5e-09 ] [ range 240 .. 308 ]
+sequence
+---KRKQVPPQRRLAANARERKRMQNLNDAFDRLRQYLPSLG----NDRL-SKHETLQMAQTYITALCDL
+LQ--------------------*
+>P1;gi|28273166|tpg|DAA00301.1| TPA: class II basic helix-loop-helix... [ score 61 E 5e-09 ] [ range 139 .. 187 ]
+sequence
+------------------RERQRVKCVNEGYARLRGHLPALA----EKRL-SKVETLRAAIRYIKYLQEL
+L---------------------*
+>P1;gi|31226235|ref|XP_317677.1| ENSANGP00000019129 [Anopheles gambi... [ score 61 E 5e-09 ] [ range 235 .. 290 ]
+sequence
+-----------RRLAANARERRRMNSLNDAFDRLRDVVPSLG----NDRL-SKFETLQMAQTYIAALNEL
+L---------------------*
+>P1;gi|31240269|ref|XP_320548.1| ENSANGP00000010692 [Anopheles gambi... [ score 61 E 6e-09 ] [ range 56 .. 110 ]
+sequence
+-----------QRVIANVRERQRTQSLNEAFASLRKIIPTLP----SDKL-SKIQTLRLASRYIDFLYRV
+L---------------------*
+>P1;gi|38073369|ref|XP_136181.2| similar to class II basic helix-loo... [ score 61 E 7e-09 ] [ range 149 .. 197 ]
+sequence
+------------------RERQRVKCVNEGYARLRGHLPALT----EKRL-SKVETLRAAIRYIKYLQEL
+L---------------------*
+>P1;gi|23304872|emb|CAD47857.1| TWIST protein [Enchytraeus coronatus] [ score 60 E 9e-09 ] [ range 169 .. 224 ]
+sequence
+-----------QRVIANVRERQRTQSLNEAFAHLRKIIPTLP----SDKL-SKIQTLKLATRYIDFLFQV
+LQ--------------------*
+>P1;gi|17568545|ref|NP_509367.1| helix Loop Helix containing protein... [ score 60 E 9e-09 ] [ range 13 .. 74 ]
+sequence
+---KNEVENVQQRACANRRERQRTKELNDAFTLLRKLIPSMP----SDKM-SKIHTLRIATDYISFLDEM
+----------------------*
+>P1;gi|40217922|gb|AAR82890.1| neuroD [Astatotilapia burtoni] [ score 60 E 9e-09 ] [ range 92 .. 148 ]
+sequence
+-----------RRMKANARERNRMHGLNDALESLRKVVCYSK----TQKL-SKIETLRLAKNYIWALSEI
+LR--------------------*
+>P1;gi|38605345|sp|Q8MIE7|TWS1_HYLCO Twist related protein 1 >gi|225... [ score 60 E 1e-08 ] [ range 111 .. 166 ]
+sequence
+-----------QRVMANVRERQRTQSLNEAFAALRKIIPTLP----SDKL-SKIQTLKLAARYIDFLYQV
+LQ--------------------*
+>P1;gi|34811916|gb|AAQ82733.1| scute [Scaptodrosophila lebanonensis] [ score 60 E 1e-08 ] [ range 109 .. 179 ]
+sequence
+------SQSVQRRNA---RERNRVKQVNNSFARLRQHIPQSP----HKKI-SKVDTLRIAVEYIRRLQDL
+VDD-------------------*
+>P1;gi|38569881|gb|AAR24458.1| twist family bHLH transcription facto... [ score 60 E 2e-08 ] [ range 29 .. 91 ]
+sequence
+---RRGGSKNDQRAIANVRERQRTQALNEAFNKLRKIIPTLP----SDKL-SKIQTLRLASRYIDFLCQV
+L---------------------*
+>P1;gi|9506919|ref|NP_062080.1| neurogenic differentiation 3; neurog... [ score 59 E 2e-08 ] [ range 94 .. 150 ]
+sequence
+-----------RRVKANDRERNRMHNLNAALDALRSVLPSFP----DDKL-TKIETLRFAYNYIWALAET
+LR--------------------*
+>P1;gi|2961494|gb|AAC41262.1| transcription factor [Takifugu rubripes] [ score 59 E 2e-08 ] [ range 183 .. 242 ]
+sequence
+---------IARRVFTNSRERWRQQNVNGAFSELRKLIPTHP----DKKL-SKNEILRLAVKYINFLVTL
+LND-------------------*
+>P1;gi|2155242|gb|AAC60208.1| paraxis [Gallus gallus] [ score 59 E 2e-08 ] [ range 52 .. 117 ]
+sequence
+----RKTGPMKQRQAANARERDRTQSVNTAFTALRTLIPTEP----DRKL-SKIETLRLASSYISHLANV
+L---------------------*
+>P1;gi|17647995|ref|NP_524124.1| target of Poxn CG7659-PA [Drosophil... [ score 59 E 2e-08 ] [ range 155 .. 210 ]
+sequence
+-----------RRMKANDRERNRMHNLNDALEKLRVTLPSLP----EEKL-TKIEILRFAHNYIFALEQV
+L---------------------*
+>P1;gi|31241831|ref|XP_321346.1| ENSANGP00000012250 [Anopheles gambi... [ score 59 E 2e-08 ] [ range 116 .. 171 ]
+sequence
+-----------RRLAANARERKRMKGLNEAFDRLRQYLPSLG----NDRL-SKHETLQMAQSYISALAEL
+L---------------------*
+>P1;gi|15667910|gb|AAL05567.1| HRO-TWI [Helobdella robusta] [ score 59 E 3e-08 ] [ range 214 .. 268 ]
+sequence
+-----------QRVLANVRERQRTQSLNDAFSQLRKIVPTLP----SDKL-SKIQTLKLATRYIDFLYDQ
+L---------------------*
+>P1;gi|3913131|sp|P79920|NDF4_XENLA Neurogenic differentiation facto... [ score 59 E 3e-08 ] [ range 79 .. 136 ]
+sequence
+-----------RRVKANARERSRMHGLNDALENLRRVMCYSK----TQKL-SKIETLRLARNYIWALSDI
+LEQ-------------------*
+>P1;gi|17536291|ref|NP_496070.1| transcription factor (2J902) [Caeno... [ score 59 E 3e-08 ] [ range 181 .. 230 ]
+sequence
+------------------RERCRVRNVNDGYERLRKHLPVFD----EKRI-SKVDTLRLAIRYIKHLDNL
+LR--------------------*
+>P1;gi|31982781|ref|NP_035025.2| neurogenic differentiation 2 [Mus m... [ score 59 E 3e-08 ] [ range 109 .. 179 ]
+sequence
+---KRKMTKARRRQKANARERNRMHDLNAALDNLRKVVCYSK----TQKL-SKIETLRLAKNYIWALSEI
+LR--------------------*
+>P1;gi|12083653|ref|NP_073187.1| dHand protein [Rattus norvegicus] >... [ score 59 E 4e-08 ] [ range 97 .. 155 ]
+sequence
+--------PVKRRGTANRKERRRTQSINSAFAELRECIPNVP----DTKL-SKIKTLRLATSYIAYLMDL
+L---------------------*
+>P1;gi|10863999|ref|NP_067014.1| neurogenic differentiation 4 [Homo ... [ score 59 E 4e-08 ] [ range 88 .. 143 ]
+sequence
+-----------RRVKANARERTRMHGLNDALDNLRRVMCYSK----TQKL-SKIETLRLARNYIWALSEV
+L---------------------*
+>P1;gi|22535427|emb|CAD32472.1| twist transcription factor [Gorilla ... [ score 58 E 4e-08 ] [ range 110 .. 165 ]
+sequence
+-----------QRVMANVRERQRTQSLNEPFAALRKIIPTLP----SDKL-SKIQTLKLAARYIDFLYRV
+LQ--------------------*
+>P1;gi|3913130|sp|P70661|NGN3_MOUSE Neurogenin 3 (Atonal protein hom... [ score 58 E 5e-08 ] [ range 84 .. 140 ]
+sequence
+-----------RRKKANDRERNRMHNLNSALDALRGVLPTFP----DDKL-TKIETLRFAHNYIWALTQT
+LR--------------------*
+>P1;gi|39592947|emb|CAE62561.1| Hypothetical protein CBG06671 [Caeno... [ score 58 E 5e-08 ] [ range 101 .. 150 ]
+sequence
+------------------RERCRVRNVNDGYEKLRRHLPVFD----EKRI-SKVDTLRLAIRYIRHLDNL
+LK--------------------*
+>P1;gi|45382521|ref|NP_990251.1| NEUROD protein [Gallus gallus] >gi|... [ score 58 E 5e-08 ] [ range 105 .. 161 ]
+sequence
+-----------RRMKANARERNRMHGLNAALDNLRKVVCYSK----TQKL-SKIETLRLAKNYIWALSEI
+LR--------------------*
+>P1;gi|34925052|sp|O96642|TWST_BRABE Twist related protein (BBtwist)... [ score 58 E 5e-08 ] [ range 96 .. 151 ]
+sequence
+-----------QRVLANVRERQRTQSLNEAFSSLRKIIPTLP----SDKL-SKIQTLKLAARYIDFLYQV
+LR--------------------*
+>P1;gi|4507847|ref|NP_003358.1| upstream transcription factor 2, c-f... [ score 129 E 2e-29 ] [ range 233 .. 296 ]
+sequence
+--------DERRRAQHNEVERRRRDKINNWIVQLSKIIPDCNADNSKTGA-SKGGILSKACDYIRELRQT
+NQR-------------------*
+>P1;gi|29436750|gb|AAH49784.1| Usf1 protein [Mus musculus] [ score 128 E 4e-29 ] [ range 197 .. 260 ]
+sequence
+--------DEKRRAQHNEVERRRRDKINNWIVQLSKIIPDCSMESTKSGQ-SKGGILSKACDYIQELRQS
+NHR-------------------*
+>P1;gi|41053547|ref|NP_956590.1| similar to upstream transcription f... [ score 123 E 8e-28 ] [ range 196 .. 259 ]
+sequence
+--------DEKRRAQHNEVERRRRDKINNWIVQLSKTIPDCTIDSTKTGQ-SKGGILSKACDYIQELRQS
+NSR-------------------*
+>P1;gi|1022700|gb|AAA79690.1| USF [Lytechinus variegatus] [ score 121 E 5e-27 ] [ range 212 .. 275 ]
+sequence
+--------DERRRATHNEVERRRRDKINNWIVKLSKIIPDCNIDHSKQGQ-SKGGILSKTCDYIQELRQS
+NTR-------------------*
+>P1;gi|27368090|gb|AAN87166.1| USF2 [Oryctolagus cuniculus] [ score 121 E 5e-27 ] [ range 164 .. 227 ]
+sequence
+--------DERRRAPDNEVERRRRDKINNWIVQLSKIIPDCNADNSKTGA-SKGGILSKACDYIRELRQT
+NQR-------------------*
+>P1;gi|2833213|sp|Q07957|USF1_XENBO Upstream stimulatory factor 1 (U... [ score 117 E 7e-26 ] [ range 194 .. 257 ]
+sequence
+--------DDKRRAQHNEVERRRRDKINNWIVQLSKIIPDCSMESTKTGQ-SKGGILSKACDYIQELRQS
+NLR-------------------*
+>P1;gi|2833212|sp|Q07956|USF_STRPU Upstream stimulatory factor (USF)... [ score 114 E 5e-25 ] [ range 188 .. 251 ]
+sequence
+--------DERRRATHNEVERRRRDKINNWIVKLSKIIPDCNIDHSKQGQ-SKGGILTKTCDYIHDLRNS
+NTR-------------------*
+>P1;gi|19072730|gb|AAL84610.1| microphtalmia-associated transcriptio... [ score 93 E 2e-18 ] [ range 184 .. 245 ]
+sequence
+--------ERQKKDNHNLIERRRRFNINDRIKELGTLIPKSNDPDMR--W-NKGTILKASVDYIRRLQRE
+QER-------------------*
+>P1;gi|18859477|ref|NP_571923.1| transcription factor binding to IGH... [ score 93 E 2e-18 ] [ range 314 .. 375 ]
+sequence
+--------ERQKKDNHNLIERRRRFNINDRIKELGALIPKSSDPELR--W-NKGTILKASVDYIRKLQKE
+QQR-------------------*
+>P1;gi|33468624|emb|CAE30419.1| SI:zK13A21.9 (novel protein similar ... [ score 93 E 2e-18 ] [ range 224 .. 285 ]
+sequence
+--------ERQKKDNHNLIERRRRFNINDRIKELGALIPKSTDPEMR--W-NKGTILKASVDYIRKLQKE
+QQR-------------------*
+>P1;gi|818010|emb|CAA54697.1| transcription factor [Mus musculus] [ score 91 E 5e-18 ] [ range 233 .. 292 ]
+sequence
+--------DE----RRRAQERRRRDKINNWIVQLSKIIPDCHADNSKTGA-SKGGILSKACDYIRELRQT
+NQR-------------------*
+>P1;gi|4454797|gb|AAD20979.1| transcription factor TFEB [Mus musculus] [ score 87 E 1e-16 ] [ range 291 .. 352 ]
+sequence
+--------ERQKKDNHNLIERRRRFNINDRIKELGMLIPKANDLDVR--W-NKGTILKASVDYIRRMQKD
+LQK-------------------*
+>P1;gi|42561825|gb|AAF81272.2| MITF protein [Mus musculus] [ score 84 E 1e-15 ] [ range 199 .. 263 ]
+sequence
+--------ERQKKDNHNLVERRRRFNINDRIKELGTLIPKSNDPDMR--W-NKGTILKASVDYIRKLQRE
+QQR-------------------*
+>P1;gi|29570397|gb|AAO91676.1| Hypothetical protein W02C12.3e [Caeno... [ score 80 E 1e-14 ] [ range 176 .. 233 ]
+sequence
+--------DRRKKDIHNMIERRRRYNINDRIKELGQMLPKNTSEDMK--L-NKGTILKASCDYIRVLQK-
+----------------------*
+>P1;gi|26347457|dbj|BAC37377.1| unnamed protein product [Mus musculus] [ score 79 E 2e-14 ] [ range 232 .. 290 ]
+sequence
+--------ERQKKDNHNLIERRRRFNINDRIKELGMLIPNANDLDVR--W-NKCTILKASVDYIRRIRKG
+----------------------*
+>P1;gi|18143314|dbj|BAB79633.1| microphthalmia associated trancripti... [ score 74 E 6e-13 ] [ range 197 .. 254 ]
+sequence
+--------DRVKKDNHNRIERKRRYNINDRIKELGSLIPRSNDPDIR--W-NKGSILKTTVDYVRDLQK-
+----------------------*
+>P1;gi|13654264|ref|NP_112475.1| transcription factor EC [Mus muscul... [ score 69 E 2e-11 ] [ range 108 .. 169 ]
+sequence
+--------ERQKKDNHNLIERRRRYNINYRIKELGTLIPKSNDPDMR--W-NKGTILKASVDYIKWLQKE
+QQR-------------------*
+>P1;gi|33286725|gb|AAQ01726.1| MITF [Drosophila melanogaster] >gi|39... [ score 69 E 2e-11 ] [ range 398 .. 465 ]
+sequence
+--------DRQKKDNHNMIERRRRFNINDRIKELGTLLPKGSDAFYEVRP-NKGTILKSSVDYIKCLKHE
+VTR-------------------*
+>P1;gi|24639693|ref|NP_726931.1| CG17592-PA [Drosophila melanogaster... [ score 64 E 1e-09 ] [ range 252 .. 343 ]
+sequence
+--------DDKRRATHNEVERRRRDKINSWIFKLKEMLPKGNASSSSGRA-SKSQILIKACEYIKSMQ--
+----------------------*
+>P1;gi|45187940|ref|NP_984163.1| ADR067Wp [Eremothecium gossypii] >g... [ score 63 E 2e-09 ] [ range 171 .. 233 ]
+sequence
+---------RRRREFHNAVERRRRELIKSKIKELGKLVPPSNDEGKEVRL-NKGIILLRTVEYLEYLRQ-
+----------------------*
+>P1;gi|19112021|ref|NP_595229.1| hypothetical protein [Schizosacchar... [ score 62 E 3e-09 ] [ range 427 .. 501 ]
+sequence
+-----------KRSAHNMIEKRYRSNLNDKIAELRDAVPSTTADELKGKL-NKATILSKATEYIKSLQSK
+NKK-------------------*
+>P1;gi|38101589|gb|EAA48532.1| hypothetical protein MG00190.4 [Magna... [ score 62 E 4e-09 ] [ range 197 .. 246 ]
+sequence
+-----------RKTAHSLIERRRRSKMNEEFATLKNMIPACTGE-----M-HKLAILQASIDYIRYL---
+----------------------*
+>P1;gi|32406964|ref|XP_324088.1| hypothetical protein [Neurospora cr... [ score 60 E 1e-08 ] [ range 303 .. 382 ]
+sequence
+-----------KKTAHNMIEKRYRTNLNDKIAALRDSVPALRIMSKSAKL-NKATVLSKATEYIRHLEKR
+NNR-------------------*
+>P1;gi|40742657|gb|EAA61847.1| hypothetical protein AN7661.2 [Asperg... [ score 58 E 5e-08 ] [ range 161 .. 234 ]
+sequence
+-----------KKRAHNVIEKRYRANLNEKIAELRDSVPDDEDEGVTNKL-NKASILSKATDYIRHLETR
+NKR-------------------*
+>P1;gi|42547920|gb|EAA70763.1| hypothetical protein FG08403.1 [Gibbe... [ score 58 E 6e-08 ] [ range 65 .. 144 ]
+sequence
+-----------KKTAHNMIEKRYRTNLNDKIAALRDSVPSLRIMTKSAKL-NKATVLSKATEYIRHLEKR
+NNR-------------------*
+>P1;gi|31213461|ref|XP_315674.1| ENSANGP00000007299 [Anopheles gambi... [ score 58 E 8e-08 ] [ range 2 .. 54 ]
+sequence
+------------RQNHSEIEKRRRDKMNTYITELSAMIPMCHAMSRK--L-DKLTVLRMAVQHLKTIR--
+----------------------*
+>P1;gi|38636434|emb|CAE81970.1| putative protein [Neurospora crassa] [ score 57 E 9e-08 ] [ range 245 .. 327 ]
+sequence
+-----------KKTAHNMIEKRYRTNLNDKIAALRDSVPSLRIAAMRPKL-NKATILSKATEYISQLERR
+NH--------------------*
+>P1;gi|19112486|ref|NP_595694.1| putative DNA-binding protein [Schiz... [ score 57 E 1e-07 ] [ range 261 .. 336 ]
+sequence
+-----------KKTAHNMIEKRYRTNLNDRICELRDAVPSNSLDDEDLGL-NKGTILAKATEYIRHLEAK
+N---------------------*
+>P1;gi|1695803|gb|AAC51213.1| PAS protein 3 [ score 56 E 2e-07 ] [ range 72 .. 124 ]
+sequence
+------------REAHSQIEKRRRDKMNSFIDELASLVPTCNAMSRK--L-DKLTVLRMAVQHMKTLR--
+----------------------*
+>P1;gi|3283366|gb|AAC39124.1| bHLH-PAS protein CYCLE [Drosophila mel... [ score 56 E 3e-07 ] [ range 28 .. 86 ]
+sequence
+--------DENRKQNHSEIEKRRRDKMNTYINELSSMIPMCFA--MQRKL-DKLTVLRMAVQHLRGIRGS
+----------------------*
+>P1;gi|42552268|gb|EAA75111.1| hypothetical protein FG05567.1 [Gibbe... [ score 56 E 3e-07 ] [ range 188 .. 240 ]
+sequence
+-----------RKDNHKEVERRRRETINEGINELAKIVPGCE-------K-NKGSILQRAVSFISQLKEN
+EQ--------------------*
+>P1;gi|38102046|gb|EAA48937.1| hypothetical protein MG00595.4 [Magna... [ score 56 E 3e-07 ] [ range 355 .. 425 ]
+sequence
+------------RTAHNDIERKYRTNLKDKISELRDTIPENEEDGEDAGQ-SKGAVLTKATEYIHYLEKK
+N---------------------*
+>P1;gi|1695923|gb|AAC60052.1| aryl hydrocarbon receptor nuclear tran... [ score 56 E 3e-07 ] [ range 61 .. 121 ]
+sequence
+--------DKERRENHSEIERRRRNKMTAYITELSDMVPTCSALARKP---DKLTILRMAVSHMKSLRGS
+----------------------*
+>P1;gi|20373017|dbj|BAB91178.1| Cycle like factor BmCyc b [Bombyx mori] [ score 55 E 4e-07 ] [ range 142 .. 195 ]
+sequence
+-----------KKQNHSEIEKRRRDKMNTFISELSAMIPMCGAMARK--L-DKLTVLRMAVQHLRTVR--
+----------------------*
+>P1;gi|38232200|gb|AAR14937.1| BMAL [Antheraea pernyi] [ score 55 E 4e-07 ] [ range 39 .. 92 ]
+sequence
+-----------KKQNHSEIEKRRRDKMNTYISELSSMVPMCGTMARK--L-DKLTVLRMAVQHLRSVR--
+----------------------*
+>P1;gi|32421895|ref|XP_331391.1| hypothetical protein [Neurospora cr... [ score 55 E 5e-07 ] [ range 187 .. 236 ]
+sequence
+-----------RKDNHKEVERRRRETINEGINELAKIVPGCE-------K-NKGSILQRAVQFITQLKE-
+----------------------*
+>P1;gi|42545576|gb|EAA68419.1| hypothetical protein FG01139.1 [Gibbe... [ score 55 E 5e-07 ] [ range 177 .. 226 ]
+sequence
+-----------RKTAHSLIERRRRSKMNEEFAVLKGMIPACTGD-----M-HKLSILQASIEYIRYL---
+----------------------*
+>P1;gi|40747076|gb|EAA66232.1| hypothetical protein AN1114.2 [Asperg... [ score 54 E 6e-07 ] [ range 161 .. 213 ]
+sequence
+-----------RKTAHSLIERRRRSKMNEEFSTLKNMIPACRGHEM-----HKLAILQASIDYVNYLEK-
+----------------------*
+>P1;gi|41581255|emb|CAE47904.1| possible bhlh transcription factor [... [ score 54 E 6e-07 ] [ range 160 .. 212 ]
+sequence
+-----------RKTAHSLIERRRRSKMNEEFATLKDMIPACRGQDM-----HKLSILQASIEYVNYLEK-
+----------------------*
+>P1;gi|6319365|ref|NP_009447.1| bHLH/Zip transcription factor which ... [ score 54 E 6e-07 ] [ range 284 .. 344 ]
+sequence
+---------RRKREFHNAVERRRRELIKQKIKELGQLVPPSDDLGKQIKP-NKGIILDRTVEYLQYL---
+----------------------*
+>P1;gi|19716305|gb|AAL95710.1| aryl hydrocarbon receptor nuclear tra... [ score 54 E 6e-07 ] [ range 73 .. 134 ]
+sequence
+-------VDKERRENHSEIERRRRNKMTQYITELSDMVPTCSALARKP---DKLTILRMAVSHMKSMRGT
+----------------------*
+>P1;gi|45190986|ref|NP_985240.1| AER385Cp [Eremothecium gossypii] >g... [ score 54 E 6e-07 ] [ range 165 .. 243 ]
+sequence
+---------KRERMSHNIIEKKYRTNINDKILQLREIVPALRVASKREKL-NKASILTKTIEYIKHLEE-
+----------------------*
+>P1;gi|39596751|emb|CAE63370.1| Hypothetical protein CBG07781 [Caeno... [ score 54 E 8e-07 ] [ range 46 .. 109 ]
+sequence
+-------MDDDRRAHHNELERRRRDHIKDHFVILKDSIPLLEGEKS-----SRALILKRAVEYITVMQNE
+NQK-------------------*
+>P1;gi|34899612|ref|NP_911152.1| putative phytochrome interacting fa... [ score 54 E 8e-07 ] [ range 224 .. 278 ]
+sequence
+----------KRRTRHNLSERRRRDRINEKLRALQELVPHCN------KT-DKASILDEAIEYLKSLQ--
+----------------------*
+>P1;gi|34902556|ref|NP_912624.1| P0498A12.24 [Oryza sativa (japonica... [ score 53 E 1e-06 ] [ range 653 .. 704 ]
+sequence
+---------------HNLSERRRRDRINEKMRALQELIPNCNKACYVLQI-DKASMLDEAIEYLKTLQ--
+----------------------*
+>P1;gi|17979652|gb|AAL50340.1| brain-muscle-ARNT-like transcription ... [ score 53 E 1e-06 ] [ range 95 .. 147 ]
+sequence
+------------REAHSQTEKRRRDKMNNLIEELSAMIPQCNPMARK--L-DKLTVLRMAVQHLRSLK--
+----------------------*
+>P1;gi|32405608|ref|XP_323417.1| hypothetical protein [Neurospora cr... [ score 53 E 2e-06 ] [ range 382 .. 452 ]
+sequence
+------------RTAHNDIERKYRTNLKDKIAELREAVPALHDDGSQNKV-SKGTILTKATEYIHQLERR
+N---------------------*
+>P1;gi|34869336|ref|XP_221454.2| similar to KIAA2018 protein [Rattus... [ score 53 E 2e-06 ] [ range 213 .. 269 ]
+sequence
+---------KKNRETHNAVERHRKKKINAGINRIGELIPCSPAL----KQ-SKNMILDQAFKYITELKRQ
+N---------------------*
+>P1;gi|34854268|ref|XP_342431.1| similar to MAX protein isoform b; m... [ score 124 E 5e-28 ] [ range 4 .. 83 ]
+sequence
+NDDLKVESDADKQAHHNALERKCRDHIKDSFHSLRDSVPSLQ----GEKA-SRAQILDKATEYIQYMRRK
+NHTHQQDLDDLKRQN-------*
+>P1;gi|9629901|ref|NP_045935.1| p110 [Avian myelocytomatosis virus] ... [ score 113 E 1e-24 ] [ range 788 .. 859 ]
+sequence
+--------ENDKRRTHNVLERQRRNELKLRFFALRDQIPEVN----NEKA-PKVVILKKATEYVLSLQSD
+EHKLIAEKEQLRRR--------*
+>P1;gi|625264|pir||FOFVHB gag-myc polyprotein - avian myelocytomatos... [ score 111 E 3e-24 ] [ range 788 .. 859 ]
+sequence
+--------ENDKRRTHNVLERQRRNELKLRFFALRDQIPEVN----NEKA-PKVGILKKATEYVLSIQSD
+EHRLIAEKEQLRRR--------*
+>P1;gi|68914|pir||TVHUM2 transforming protein N-myc (version 2) - hu... [ score 111 E 6e-24 ] [ range 374 .. 450 ]
+sequence
+NSDSE---DSERRRNHNILERQRRNDLRSSFLTLRDHVPELK----NEKA-AKVVILKKATEYVHSLQAE
+EHQLLLEKEKLQAR--------*
+>P1;gi|200094|gb|AAA39833.1| N-myc protein [ score 110 E 8e-24 ] [ range 372 .. 448 ]
+sequence
+NSDSE---DSERRRNHNILERQRRNDLRSSFLTLRDHVPELK----NEKA-AKVVILKKATEYVHALQAN
+EHQLLLEKEKLQAR--------*
+>P1;gi|127597|sp|P20389|MYC2_MARMO N-myc 2 proto-oncogene protein >g... [ score 108 E 4e-23 ] [ range 365 .. 440 ]
+sequence
+-SDSE---DSVRRRNHNILERQRRNDLRSSFTTLRDHVPELK----NEKA-AKVVILKKACEYVHYLQAK
+EHQLLMEKEKLQAR--------*
+>P1;gi|9626153|ref|NP_040504.1| v-myc (59/61 kDa) protein [Avian car... [ score 107 E 6e-23 ] [ range 332 .. 407 ]
+sequence
+-SDSEV---NDKRRTHNVLERQRRNELKLSFFALRDQIPEVN----NEKA-PKVVILKRATEYVLSIQSD
+EHRLIAEKEQLRRR--------*
+>P1;gi|31207811|ref|XP_312872.1| ENSANGP00000014750 [Anopheles gambi... [ score 106 E 9e-23 ] [ range 81 .. 158 ]
+sequence
+--GSHLYSQAEKRAHHNALERKRRDHIKDSFTSLRDSVPSLQ----GEKA-SRAQILKKAAEYIQFMRRK
+NNSHQQDIDDLRRQN-------*
+>P1;gi|127603|sp|P18444|MYCN_CHICK N-myc proto-oncogene protein >gi|... [ score 105 E 2e-22 ] [ range 351 .. 427 ]
+sequence
+NSDSE---DSERRRNHNILERQRRNDLRSSFLTLRDHVPELK----NEKA-AKVVILKKATEYVHSLQAE
+EQKLLLEKEKLQAR--------*
+>P1;gi|37590548|gb|AAH59793.1| Wu:fb57a02 protein [Danio rerio] [ score 103 E 1e-21 ] [ range 397 .. 474 ]
+sequence
+-SDSE---DSERRRNHNILERQRRNDLRSSFLTLRDQVPELH----NDKA-AKVVILKKATDYVSSLEAQ
+EFRLQQEKDRLKRQ--------*
+>P1;gi|1584232|prf||2122337B myc protein [ score 102 E 1e-21 ] [ range 347 .. 423 ]
+sequence
+---SSDAEENDKRRTHNVLERQRRNELKRSFFALRDQIPELE----NEKA-PKVVILKKATAYILSIQAE
+EQKLISEKDLLRKR--------*
+>P1;gi|31207809|ref|XP_312871.1| ENSANGP00000022808 [Anopheles gambi... [ score 102 E 2e-21 ] [ range 52 .. 129 ]
+sequence
+--DIDIESDAEKRAHHNALERKRRDHIKDSFTSLRDSVPSLQ----GEKA-SRAQILKKAAEYIQFMRRK
+NNSHQQDIDDLRRQN-------*
+>P1;gi|387130|gb|AAB59728.1| c-myc [Mus musculus] [ score 102 E 2e-21 ] [ range 347 .. 423 ]
+sequence
+SSDTE---ENDKRRTHNVLERQRRNELKRSFFALRDQIPELE----NEKA-PKVVILKKATAYILSIQAD
+EHKLTSEKDLLRKR--------*
+>P1;gi|127622|sp|P09416|MYC_RAT Myc proto-oncogene protein (c-myc) >... [ score 102 E 3e-21 ] [ range 347 .. 423 ]
+sequence
+SSDTE---ENDKRRTHNVLERQRRNELKRSFFALRDQIPELE----NEKA-PKVVILKKATAYILSVQAD
+EHKLISEKDLLRKR--------*
+>P1;gi|11177868|ref|NP_068609.1| myc-like oncogene, s-myc protein [R... [ score 101 E 4e-21 ] [ range 339 .. 415 ]
+sequence
+NSDLE---DIERRRNHNRMERQRRDIMRSSFLNLRDLVPELH----NEKA-AKVVILKKATEYIHTLQTD
+ESKLLVEREKLYER--------*
+>P1;gi|8886169|gb|AAF80396.1| transcription factor p64 [Tadarida bra... [ score 101 E 4e-21 ] [ range 347 .. 423 ]
+sequence
+SSDSE---ENDKRRTHNVLERQRRNELKRSFFALRDQIPELE----NEKA-PKVVILKKATAYILAIQAE
+EQKLISEKDLLRKR--------*
+>P1;gi|1346615|sp|P49033|MYC_HYLLA Myc proto-oncogene protein (c-myc... [ score 101 E 4e-21 ] [ range 347 .. 423 ]
+sequence
+SSDTE---ENDKRRTHNVLERQRRNELKRSFFALRDQIPELE----NEKA-PKVVILKKATAYILSVQGE
+EQKLTSEKDLLRKR--------*
+>P1;gi|29436750|gb|AAH49784.1| Usf1 protein [Mus musculus] [ score 101 E 6e-21 ] [ range 193 .. 268 ]
+sequence
+----RTTRDEKRRAQHNEVERRRRDKINNWIVQLSKIIPDCS----MEST-SKGGILSKACDYIQELRQS
+NHRLSEELQGL-----------*
+>P1;gi|1346611|sp|P26014|MYCN_SERCA N-myc proto-oncogene protein >gi... [ score 100 E 8e-21 ] [ range 336 .. 413 ]
+sequence
+NSDSE---DSERRRNHNILERQRANDLRSSFLTLRDHVLSVQ----NEKA-AKVVILKKATEYVHSLQAE
+EQKLLLEKEKLQAR--------*
+>P1;gi|2498005|sp|Q29031|MYC_PIG Myc proto-oncogene protein (c-myc) ... [ score 100 E 1e-20 ] [ range 347 .. 423 ]
+sequence
+SSDTE---ENDKRRTHNVLERQRRNELKRSFFARRDQIPELE----NEKA-PKVVILKKATAYILSVQAE
+EQKLVSEKDVLRKR--------*
+>P1;gi|8886173|gb|AAF80397.1| transcription factor p64 [Sylvilagus f... [ score 100 E 1e-20 ] [ range 346 .. 422 ]
+sequence
+SSDTE---ENDKRRTHNVLERQRRNELKRSFFALRDQIPELE----NEKA-PKVVILKKATAYILAVQAE
+EQKLVSEKDLLRKR--------*
+>P1;gi|4507847|ref|NP_003358.1| upstream transcription factor 2, c-f... [ score 100 E 1e-20 ] [ range 226 .. 306 ]
+sequence
+-DGTRTPRDERRRAQHNEVERRRRDKINNWIVQLSKIIPDCN----ADNA-SKGGILSKACDYIRELRQT
+NQRMQETFKEAER---------*
+>P1;gi|27695121|gb|AAH43747.1| Mycn-prov protein [Xenopus laevis] [ score 99 E 2e-20 ] [ range 349 .. 411 ]
+sequence
+NYDSE---DSERRRNHNILERQRRNDLRSSFLTLRDHVPELK----NEKA-AKVVILKKATDYVHSLHED
+----------------------*
+>P1;gi|39596751|emb|CAE63370.1| Hypothetical protein CBG07781 [Caeno... [ score 99 E 2e-20 ] [ range 33 .. 118 ]
+sequence
+DDDVSSPKDDDRRAHHNELERRRRDHIKDHFVILKDSIPLLE----GEKS-SRALILKRAVEYITVMQTR
+LNENQKSMDELRRRN-------*
+>P1;gi|127607|sp|P24793|MYCN_XENLA N-myc proto-oncogene protein >gi|... [ score 99 E 3e-20 ] [ range 347 .. 409 ]
+sequence
+NYDSE---DSERRRNHNILERQRRNDLRSSFLTLRDHVPELK----NEKA-AKVVILKKATEYVHSLHAD
+----------------------*
+>P1;gi|41055786|ref|NP_956466.1| hypothetical protein MGC55680 [Dani... [ score 99 E 3e-20 ] [ range 306 .. 382 ]
+sequence
+---TSDSEDNDKRRTHNVLERQRRNELKLSFFALRDVIPDVN----NEKA-AKVVILKKATECIASMQED
+EQRLISLKEQLRRK--------*
+>P1;gi|45361629|ref|NP_989390.1| hypothetical protein MGC76254 [Xeno... [ score 98 E 4e-20 ] [ range 326 .. 402 ]
+sequence
+SSDSE---ENDKRRTHNVLERQRRNELKLSFFALRDQVPEVN----NEKA-PKVVILKKATEYVVSMQED
+ERRLIRETEQLKYR--------*
+>P1;gi|41053547|ref|NP_956590.1| similar to upstream transcription f... [ score 96 E 1e-19 ] [ range 188 .. 269 ]
+sequence
+SEGPRTSRDEKRRAQHNEVERRRRDKINNWIVQLSKTIPDCT----IDST-SKGGILSKACDYIQELRQS
+NSRLGDELNSIER---------*
+>P1;gi|38492968|pdb|1R05|A Chain A, Solution Structure Of Max B-Hlh-... [ score 96 E 1e-19 ] [ range 2 .. 72 ]
+sequence
+---------ADKRAHHNALERKRRDHIKDSFHSLRDSVPSLQ----GEKA-SRAQILDKATEYIQYMRRK
+VHTLQQDIDDLKRQN-------*
+>P1;gi|64641|emb|CAA40194.1| MYC II [Xenopus laevis] [ score 96 E 2e-19 ] [ range 329 .. 405 ]
+sequence
+SSDSE---ENDKRRTHNVLERQRRNELKLSFFALRDQVPEVN----NEKA-PKVVILKKATEYAISMQED
+ERRLIRETEQLKYR--------*
+>P1;gi|9945318|ref|NP_064706.1| MAX binding protein; Max-interacting... [ score 96 E 2e-19 ] [ range 206 .. 288 ]
+sequence
+----EVKSSEQKKRVHNKLEKNRRAHLKECFETLKRNIPNVD----DKKT-SNLSVLRTALRYIQSLKRK
+EKEYEHEMERLARE--------*
+>P1;gi|6754770|ref|NP_034980.1| myc-like oncogene, s-myc protein [Mu... [ score 96 E 2e-19 ] [ range 341 .. 417 ]
+sequence
+NSDWE---NIERRRNHNRMERQRRDIMRSSFLNLRDLVPELH----NEKA-AKVVILKKATEYIHTLQAD
+ESKLLVERKKLYER--------*
+>P1;gi|27371241|gb|AAH41189.1| MGC52595 protein [Xenopus laevis] [ score 95 E 3e-19 ] [ range 332 .. 408 ]
+sequence
+SSDSE---ENDKRKTHNVLERQRRNELKLSFFALRDQVPEVS----NEKA-PKVVILKKATEYAISLQED
+ERRLIRETEQLKYR--------*
+>P1;gi|127623|sp|P06646|MYC_ONCMY Myc protein (c-myc) >gi|68912|pir|... [ score 95 E 3e-19 ] [ range 318 .. 393 ]
+sequence
+-SDTE---DYDKRRTHNVLERQRRNELKLSFFALRDEIPDVN----NEKA-AKVVILKKATECIYSMQTD
+EQRLVNLKEQLRRK--------*
+>P1;gi|10180970|gb|AAG14351.1| oncoprotein myc [Ictalurus punctatus] [ score 94 E 6e-19 ] [ range 298 .. 374 ]
+sequence
+---TSDSEDNDKRKTHNVLERQRRNELKLSFFALRDEIPEVN----NEKA-AKVMILKKAAECIHSMQAD
+ERRLLSMKEQLRRK--------*
+>P1;gi|3914087|sp|Q90341|MYC1_CYPCA MYC I protein (C-MYC I) >gi|1122... [ score 94 E 6e-19 ] [ range 303 .. 379 ]
+sequence
+---TSDSEDNDKRRTHNVLERQRRNELKLSFFALRDEIPDVN----NEKA-AKVVILKKATECIHSMQLD
+EQRLLSIKEQLRRK--------*
+>P1;gi|1841930|emb|CAA68878.1| ROX protein [Mus musculus] >gi|324516... [ score 94 E 9e-19 ] [ range 224 .. 290 ]
+sequence
+------------REVHNKLEKNRRAHLKECFETLKRNIPNVD----DKKT-SNLSVLRTALRYIQSLKRK
+EKEYEHEMERLARE--------*
+>P1;gi|32250713|gb|AAP74567.1| sterol regulatory binding transcripti... [ score 93 E 2e-18 ] [ range 162 .. 231 ]
+sequence
+------QSRGEKRTAHNAIEKRYRSSINDKIIELKDLVVGTE----A-KL-NKSAVLRKAIDYIRFLQQS
+NQKLKQENLSLR----------*
+>P1;gi|127598|sp|P15171|MYC2_XENLA MYC II protein (C-MYC II) >gi|104... [ score 93 E 2e-18 ] [ range 329 .. 405 ]
+sequence
+SSDSE---ENDKRRTHNVLERQRRNELKLSFFALRDQVPRWR----NEKA-PKVVILKKATEYAISMQED
+ERRLIRETEQLKYR--------*
+>P1;gi|17567775|ref|NP_510223.1| helix Loop Helix containing protein... [ score 92 E 2e-18 ] [ range 31 .. 116 ]
+sequence
+DDDSSSPKDDDRRAHHNELERRRRDHIKDHFTILKDAIPLLD----GEKS-SRALILKRAVEFIHVMQTK
+LSSQGKAIEDLTRKN-------*
+>P1;gi|1173535|gb|AAC54624.1| MYC [ score 92 E 3e-18 ] [ range 273 .. 350 ]
+sequence
+SSDTE---ENDKRRTHNVFERQRRNELKRSFFALRDQIPELE----NEKA-PKVVILKKATAYILSVQAG
+EQKLISEKDLLRKR--------*
+>P1;gi|2833213|sp|Q07957|USF1_XENBO Upstream stimulatory factor 1 (U... [ score 92 E 3e-18 ] [ range 186 .. 265 ]
+sequence
+SDGPRTTRDDKRRAQHNEVERRRRDKINNWIVQLSKIIPDCS----MEST-SKGGILSKACDYIQELRQS
+NLRLSEELQNL-----------*
+>P1;gi|27368090|gb|AAN87166.1| USF2 [Oryctolagus cuniculus] [ score 92 E 4e-18 ] [ range 157 .. 237 ]
+sequence
+-DGTRTPRDERRRAPDNEVERRRRDKINNWIVQLSKIIPDCN----ADNA-SKGGILSKACDYIRELRQT
+NQRMQETFKEAER---------*
+>P1;gi|540006|pir||A48085 transcription factor ADD1 - rat [ score 91 E 5e-18 ] [ range 289 .. 361 ]
+sequence
+------QSRGEKRTAHNAIEKRYRSSINDKIVELKDLVVGTE----A-KL-NKSAVLRKAIDYIRFLQHS
+NQKLKQENLTLRSAH-------*
+>P1;gi|9247096|gb|AAF86281.1| sterol regulatory element binding prot... [ score 91 E 5e-18 ] [ range 73 .. 145 ]
+sequence
+---LEPPKEGERRTRHNIIEKRYGSSINDKIIALEDLVMGTE----A-KM-HKSGVLRKAIDYIKYLQQV
+NHKLRQENMVLK----------*
+>P1;gi|40742657|gb|EAA61847.1| hypothetical protein AN7661.2 [Asperg... [ score 90 E 1e-17 ] [ range 154 .. 245 ]
+sequence
+----EVKKVPSKKRAHNVIEKRYRANLNEKIAELRDSVPSLR----ASKG-NKASILSKATDYIRHLETR
+NKRLEDENTALKVR--------*
+>P1;gi|31233636|ref|XP_318911.1| ENSANGP00000015137 [Anopheles gambi... [ score 89 E 3e-17 ] [ range 252 .. 328 ]
+sequence
+-----PRSDSQRRTGHIHAEQKRRYNIKNGFDTLHSLIPQLQ----NAKL-SKAAMLQKGADYIKQLRSE
+RSSATEQMDSLRRE--------*
+>P1;gi|19112021|ref|NP_595229.1| hypothetical protein [Schizosacchar... [ score 88 E 4e-17 ] [ range 423 .. 512 ]
+sequence
+-------SPLSKRSAHNMIEKRYRSNLNDKIAELRDAVPTLR----SRKL-NKATILSKATEYIKSLQSK
+NKKLIEENKILQKR--------*
+>P1;gi|31322812|gb|AAP41723.1| c-myc [Crocodylus cataphractus] >gi|3... [ score 88 E 6e-17 ] [ range 103 .. 179 ]
+sequence
+---TSDSEENDKRRTHNVLERQRRNELKLSFFALRDEIPEVN----NEKA-PKVVILKKATEYVISIQAD
+EHRLIAEKEQLRRR--------*
+>P1;gi|1279507|emb|CAA62339.1| USF2a, USF2b protein [Homo sapiens] [ score 87 E 8e-17 ] [ range 180 .. 252 ]
+sequence
+-DGTRTPRDERRRAQHNEVERRRRDKINNWIVQLSKIIPDCN----ADNS-KTGA----ACDYIRELRQT
+NQRMQETFKEAER---------*
+>P1;gi|10432589|dbj|BAB13816.1| c-MYC [Carassius auratus] [ score 87 E 1e-16 ] [ range 299 .. 375 ]
+sequence
+---TSDSEDNDKRKTHNVLERQRRNELKLSFFALRDEIPEVN----NEKA-AKVVILKKATECIRSMLLD
+EQRLLSVKEHLRRK--------*
+>P1;gi|3914094|sp|Q17103|MYC_ASTVU Myc protein (c-myc) >gi|345522|pi... [ score 86 E 2e-16 ] [ range 314 .. 391 ]
+sequence
+SSDSE---DTEKRACHNVLERQRREDLRTSFLLLRDEVPELT----CDRA-AKVVILKKATDYVSSLRDR
+EETLRMDMATEKNRN-------*
+>P1;gi|321095|pir||B39695 transforming protein (c-myc) - common cana... [ score 86 E 2e-16 ] [ range 97 .. 175 ]
+sequence
+-SGSSDSEENDKRRTHNVLERQRRNELKLSFFALRDEIPEVN----NEKA-PKVVILKKATEYVLSIQSE
+EHRLIAEKEQLRRR--------*
+>P1;gi|42553212|gb|EAA76055.1| hypothetical protein FG09308.1 [Gibbe... [ score 84 E 5e-16 ] [ range 392 .. 475 ]
+sequence
+------------RTAHNDIERKYRTNLKDKIAELRDAVPALR----APKV-SKGTVLTKATEYIQHLERR
+NRAIMKEHQELARR--------*
+>P1;gi|1022700|gb|AAA79690.1| USF [Lytechinus variegatus] [ score 84 E 6e-16 ] [ range 205 .. 285 ]
+sequence
+-DSARTVRDERRRATHNEVERRRRDKINNWIVKLSKIIPDCN----IDHS-SKGGILSKTCDYIQELRQS
+NTRMAESLKDTER---------*
+>P1;gi|7018293|emb|CAB75682.1| dJ118J21.2 (l-myc-proto-oncogene ) [H... [ score 84 E 7e-16 ] [ range 274 .. 344 ]
+sequence
+SSDTE---DVTKRKNHNFLERKRRNDLRSRFLALRDQVPTLA----SSKA-PKVVILSKALEYLQALVGA
+EKRMATEK--------------*
+>P1;gi|37933221|gb|AAP76448.1| c-myc protein [Allactaga sibirica] [ score 84 E 7e-16 ] [ range 94 .. 170 ]
+sequence
+---SSDNEESDKRRTHNVLERQRRNELKRSFFALRDQIPELE----NEKA-PKVVILKKATAYILSVQAE
+EHKLASEKDLLRKR--------*
+>P1;gi|23499351|gb|AAL51141.1| c-myc proto-oncogene [Eopsaltria aust... [ score 84 E 8e-16 ] [ range 85 .. 161 ]
+sequence
+---TSDSEENDKRRTHNVLERQRRNELKLSFFALRDEIPEVN----NEKA-PKVVILKKATEYVLSIQLD
+EHRLIAEKEQLKRR--------*
+>P1;gi|34500852|gb|AAP55532.1| c-myc oncogene [Plectrophenax nivalis] [ score 83 E 1e-15 ] [ range 87 .. 165 ]
+sequence
+-SGSANSEENDKRRTHNVLERQRRNELKLSFFALRDEIPEVN----NEKA-PKVVILKKATEYVLSIQSE
+EHKLIAEKEQLRRR--------*
+>P1;gi|41351476|gb|AAH65876.1| Unknown (protein for MGC:77845) [Dani... [ score 83 E 1e-15 ] [ range 168 .. 244 ]
+sequence
+----RVSRDDKRRAQHNEVERRRRDKINQWIVQLSKTIPDCT----KNNQ-SKSGILSKACDYIQELRQS
+NARLEDELNTADR---------*
+>P1;gi|18845103|gb|AAK72561.1| c-myc [Acanthisitta chloris] [ score 83 E 2e-15 ] [ range 85 .. 161 ]
+sequence
+---TSDSEENDKRRTHNVLERQRRNELKLSFFALRDQIPEVA----NNKA-PKVVILKKATEYVLSIQSD
+EHRLIAEKEQLRRR--------*
+>P1;gi|45383858|ref|NP_989457.1| sterol regulatory element binding t... [ score 146 E 1e-34 ] [ range 295 .. 374 ]
+sequence
+------QSKGEKRTAHNAIEKRYRSSINDKIVELKDLV-VGT----EAKL-NKSAILRKAIEYIRFLQQS
+NQKLKQENLSLKMAVQKSKSLK*
+>P1;gi|34867311|ref|XP_216989.2| similar to sterol regulatory elemen... [ score 137 E 7e-32 ] [ range 269 .. 347 ]
+sequence
+-------KEGERRTTHNIIEKRYRSSINDKIIELKDLV-MGT----DAKM-HKSGVLRKAIDYIKYLQQV
+NHKLRQENMVLKLANQKNKLLK*
+>P1;gi|13446043|emb|CAC35016.1| sterol regulatory element binding pr... [ score 137 E 8e-32 ] [ range 173 .. 251 ]
+sequence
+-------KEGERRTTHNIIEKRYRSSINDKIIELKDLI-MGT----DAKM-HKSGVLRKAIDYIKYLQQG
+NHKLRQENMVLKLANQKNKLLK*
+>P1;gi|107912|pir||A34596 transcription factor E3 - human (fragment)... [ score 122 E 2e-27 ] [ range 139 .. 217 ]
+sequence
+----------QKKDNHNLIERRRRFNINDRIKELGTLI-PKS----EMRW-NKGTILKASVDYIRKLQKE
+QQRSKDLESRQRSLEQANRSLQ*
+>P1;gi|18859033|ref|NP_570998.1| microphthalmia-associated transcrip... [ score 113 E 8e-25 ] [ range 199 .. 276 ]
+sequence
+----------QKKDNHNLIERRRRFNINDRIKELGTLI-PKS----DMRW-NKGTILKASVDYIRKLQKE
+QQKAKELENRQKRLEHANRHL-*
+>P1;gi|31204255|ref|XP_311076.1| ENSANGP00000004709 [Anopheles gambi... [ score 113 E 1e-24 ] [ range 22 .. 94 ]
+sequence
+-----------KRSAHNAIERRYRTSINSCIVELKNIV-VGV----DAKL-NKSAILRKAIDHIRHLQKQ
+NNQLKQENMTYKMRLADQKH--*
+>P1;gi|19072730|gb|AAL84610.1| microphtalmia-associated transcriptio... [ score 112 E 2e-24 ] [ range 186 .. 263 ]
+sequence
+----------QKKDNHNLIERRRRFNINDRIKELGTLI-PKS----DMRW-NKGTILKASVDYIRRLQRE
+QERAKELDCRQRKLEHANRHL-*
+>P1;gi|18859477|ref|NP_571923.1| transcription factor binding to IGH... [ score 111 E 4e-24 ] [ range 316 .. 393 ]
+sequence
+----------QKKDNHNLIERRRRFNINDRIKELGALI-PKS----ELRW-NKGTILKASVDYIRKLQKE
+QQRSKEMETRQKKLEHANRSL-*
+>P1;gi|18859035|ref|NP_571922.1| microphthalmia-associated transcrip... [ score 109 E 2e-23 ] [ range 295 .. 372 ]
+sequence
+----------QKKDNHNLIERRRRFNINDRIKELGTLI-PKS----DMRW-NKGTILKASVDYIRKLQRE
+QHRTKELENRQKKLEHTNRNL-*
+>P1;gi|41349734|dbj|BAD08298.1| micophthalmia-associated transcripti... [ score 108 E 2e-23 ] [ range 271 .. 348 ]
+sequence
+----------QKKDNHNLIERRRRFNINDRIKELGTLI-PKS----DMRW-NKGTILKASVDYIRKLQRE
+QHRSKEVENKQKKLEHANRHL-*
+>P1;gi|39584815|emb|CAE67710.1| Hypothetical protein CBG13284 [Caeno... [ score 108 E 3e-23 ] [ range 358 .. 431 ]
+sequence
+--------KTERRTAHNLIEKKYRCSINDRIQQLKVLL-CGE----DAKL-SKSATLRKAIEHIDDIEQE
+NQQLRYQVEQMRKTLQMN----*
+>P1;gi|33468624|emb|CAE30419.1| SI:zK13A21.9 (novel protein similar ... [ score 107 E 5e-23 ] [ range 226 .. 303 ]
+sequence
+----------QKKDNHNLIERRRRFNINDRIKELGALI-PKS----EMRW-NKGTILKASVDYIRKLQKE
+QQRAKEIEMRQKKLEQSNQAL-*
+>P1;gi|32406964|ref|XP_324088.1| hypothetical protein [Neurospora cr... [ score 103 E 1e-21 ] [ range 303 .. 400 ]
+sequence
+-----------KKTAHNMIEKRYRTNLNDKIAALRDSV-PAL----RHKL-NKATVLSKATEYIRHLEKR
+NNRLIEENNSMHARIAAFEKL-*
+>P1;gi|24666960|ref|NP_730449.1| Helix loop helix protein 106 CG8522... [ score 102 E 2e-21 ] [ range 284 .. 351 ]
+sequence
+-----------KRSAHNAIERRYRTSINDKINELKNLV-VGE----QAKL-NKSAVLRKSIDKIRDLQRQ
+NHDLKAELQRLQREL-------*
+>P1;gi|4454797|gb|AAD20979.1| transcription factor TFEB [Mus musculus] [ score 101 E 3e-21 ] [ range 293 .. 370 ]
+sequence
+----------QKKDNHNLIERRRRFNINDRIKELGMLI-PKL----DVRW-NKGTILKASVDYIRRMQKD
+LQKSRELENHSRRLEMTNKQL-*
+>P1;gi|19112021|ref|NP_595229.1| hypothetical protein [Schizosacchar... [ score 101 E 4e-21 ] [ range 427 .. 519 ]
+sequence
+-----------KRSAHNMIEKRYRSNLNDKIAELRDAV-PTL----RSKL-NKATILSKATEYIKSLQSK
+NKKLIEENKILQKRLSEYTSV-*
+>P1;gi|19112486|ref|NP_595694.1| putative DNA-binding protein [Schiz... [ score 101 E 4e-21 ] [ range 261 .. 358 ]
+sequence
+-----------KKTAHNMIEKRYRTNLNDRICELRDAV-PSL----RAKL-NKGTILAKATEYIRHLEAK
+NKELQKTNKQLRLAFYEDPSM-*
+>P1;gi|29570397|gb|AAO91676.1| Hypothetical protein W02C12.3e [Caeno... [ score 100 E 1e-20 ] [ range 179 .. 255 ]
+sequence
+-----------KKDIHNMIERRRRYNINDRIKELGQML-PKE----DMKL-NKGTILKASCDYIRVLQKD
+REKTQQQQKSLESTAHKY----*
+>P1;gi|38101589|gb|EAA48532.1| hypothetical protein MG00190.4 [Magna... [ score 99 E 2e-20 ] [ range 197 .. 262 ]
+sequence
+-----------RKTAHSLIERRRRSKMNEEFATLKNMI-PAC----TGEM-HKLAILQASIDYIRYLEDC
+VSKLQAQREDQST---------*
+>P1;gi|33286725|gb|AAQ01726.1| MITF [Drosophila melanogaster] >gi|39... [ score 99 E 3e-20 ] [ range 400 .. 483 ]
+sequence
+----------QKKDNHNMIERRRRFNINDRIKELGTLL-PKR----DIRP-NKGTILKSSVDYIKCLKHE
+VTRLRQNELRQRQVELQNRKL-*
+>P1;gi|40742657|gb|EAA61847.1| hypothetical protein AN7661.2 [Asperg... [ score 97 E 6e-20 ] [ range 161 .. 248 ]
+sequence
+-----------KKRAHNVIEKRYRANLNEKIAELRDSV-PSL----RAKL-NKASILSKATDYIRHLETR
+NKRLEDENTALKVRLRE-----*
+>P1;gi|42549016|gb|EAA71859.1| hypothetical protein FG02814.1 [Gibbe... [ score 97 E 1e-19 ] [ range 197 .. 289 ]
+sequence
+-----------KKTAHNMIEKRYRTNLNDKISALRDSV-PAL----RHKL-NKATILSKATEYIAHLEKR
+NRSLAQENTQLR----------*
+>P1;gi|18143314|dbj|BAB79633.1| microphthalmia associated trancripti... [ score 96 E 2e-19 ] [ range 200 .. 276 ]
+sequence
+-----------KKDNHNRIERKRRYNINDRIKELGSLI-PRS----DIRW-NKGSILKTTVDYVRDLQKR
+VAKLDQSERREKAMQNRNRRL-*
+>P1;gi|39580366|emb|CAE61471.1| Hypothetical protein CBG05364 [Caeno... [ score 96 E 2e-19 ] [ range 135 .. 211 ]
+sequence
+-----------KKDIHNMIERRRRYNINDRIKELGQML-PKE----EMKL-NKGTILKASCDYIRVLQKD
+REKHQQHQKNLEAAAQKY----*
+>P1;gi|29436750|gb|AAH49784.1| Usf1 protein [Mus musculus] [ score 95 E 3e-19 ] [ range 195 .. 279 ]
+sequence
+-------TRDEKRRAHNEVERRRRDKINNWIVQLSKII-PDC----SMEQ-SKGGILSKACDYIQELRQS
+NHRLSEELQGLDQLQLDNDVLR*
+>P1;gi|42561825|gb|AAF81272.2| MITF protein [Mus musculus] [ score 95 E 3e-19 ] [ range 201 .. 281 ]
+sequence
+----------QKKDNHNLVERRRRFNINDRIKELGTLI-PKS----DMRW-NKGTILKASVDYIRKLQRE
+QQRAKDLENRQKKLEHANRHL-*
+>P1;gi|42547920|gb|EAA70763.1| hypothetical protein FG08403.1 [Gibbe... [ score 95 E 4e-19 ] [ range 65 .. 162 ]
+sequence
+-----------KKTAHNMIEKRYRTNLNDKIAALRDSV-PSL----RHKL-NKATVLSKATEYIRHLEKR
+NNRLLDENGAMQARIAAFEKL-*
+>P1;gi|17555978|ref|NP_499472.1| sterol regulatory element Binding P... [ score 95 E 5e-19 ] [ range 353 .. 427 ]
+sequence
+--------KTERRTAHNLIEKKYRCSINDRIQQLKVLL-CGD----EAKL-SKSATLRRAIEHIEEVEHE
+NQVLKHHVEQMRKTLQNNR---*
+>P1;gi|38636434|emb|CAE81970.1| putative protein [Neurospora crassa] [ score 94 E 7e-19 ] [ range 245 .. 337 ]
+sequence
+-----------KKTAHNMIEKRYRTNLNDKIAALRDSV-PSL----RIKL-NKATILSKATEYISQLERR
+NHGLETENSALR----------*
+>P1;gi|41581255|emb|CAE47904.1| possible bhlh transcription factor [... [ score 92 E 3e-18 ] [ range 160 .. 227 ]
+sequence
+-----------RKTAHSLIERRRRSKMNEEFATLKDMI-PAC----RGQM-HKLSILQASIEYVNYLEKC
+IQDLKTAGSQRSTA--------*
+>P1;gi|4507847|ref|NP_003358.1| upstream transcription factor 2, c-f... [ score 92 E 4e-18 ] [ range 232 .. 315 ]
+sequence
+--------RDERRRAHNEVERRRRDKINNWIVQLSKII-PDC----NADA-SKGGILSKACDYIRELRQT
+NQRMQETFKEAERLQMDNELLR*
+>P1;gi|42545576|gb|EAA68419.1| hypothetical protein FG01139.1 [Gibbe... [ score 91 E 4e-18 ] [ range 177 .. 238 ]
+sequence
+-----------RKTAHSLIERRRRSKMNEEFAVLKGMI-PAC----TGDM-HKLSILQASIEYIRYLEDC
+VSKLKAQQE-------------*
+>P1;gi|41053547|ref|NP_956590.1| similar to upstream transcription f... [ score 90 E 1e-17 ] [ range 194 .. 278 ]
+sequence
+-------SRDEKRRAHNEVERRRRDKINNWIVQLSKTI-PDC----KTGQ-SKGGILSKACDYIQELRQS
+NSRLGDELNSIERLRMDNQLLR*
+>P1;gi|38101337|gb|EAA48316.1| hypothetical protein MG10575.4 [Magna... [ score 87 E 6e-17 ] [ range 192 .. 293 ]
+sequence
+-----------KKTAHNMIEKRYRNNLNDKISALRDAV-PAL----RHKL-NKATILSKATEYINHLERK
+NRALARENHGLR----------*
+>P1;gi|40747076|gb|EAA66232.1| hypothetical protein AN1114.2 [Asperg... [ score 87 E 1e-16 ] [ range 161 .. 219 ]
+sequence
+-----------RKTAHSLIERRRRSKMNEEFSTLKNMI-PAC----RGEM-HKLAILQASIDYVNYLEKC
+IQDLK-----------------*
+>P1;gi|42553212|gb|EAA76055.1| hypothetical protein FG09308.1 [Gibbe... [ score 86 E 2e-16 ] [ range 392 .. 478 ]
+sequence
+------------RTAHNDIERKYRTNLKDKIAELRDAV-PAL----HSKV-SKGTVLTKATEYIQHLERR
+NRAIMKEHQELARRLQA-----*
+>P1;gi|2833213|sp|Q07957|USF1_XENBO Upstream stimulatory factor 1 (U... [ score 86 E 2e-16 ] [ range 192 .. 276 ]
+sequence
+-------TRDDKRRAHNEVERRRRDKINNWIVQLSKII-PDC----SMEQ-SKGGILSKACDYIQELRQS
+NLRLSEELQNLDQLQMDNEVLR*
+>P1;gi|13654264|ref|NP_112475.1| transcription factor EC [Mus muscul... [ score 85 E 3e-16 ] [ range 110 .. 188 ]
+sequence
+----------QKKDNHNLIERRRRYNINYRIKELGTLI-PKS----DMRW-NKGTILKASVDYIKWLQKE
+QQRARELEHRQKKLEHANRQLR*
+>P1;gi|85857|pir||B39674 transcription factor B1 - African clawed frog [ score 85 E 4e-16 ] [ range 188 .. 272 ]
+sequence
+-------TRDDKRRAHNEVERRRRDKINNWIVQLSKII-PDC----SMEQ-SKGGILSKACDYIQELRQS
+NLRLSEELQNVDQLQMDNELLR*
+>P1;gi|38102046|gb|EAA48937.1| hypothetical protein MG00595.4 [Magna... [ score 85 E 4e-16 ] [ range 355 .. 441 ]
+sequence
+------------RTAHNDIERKYRTNLKDKISELRDAV-PAL----RTKV-SKGAVLTKATEYIHYLEKK
+NKMIVQQHQELSKRLQA-----*
+>P1;gi|26347457|dbj|BAC37377.1| unnamed protein product [Mus musculus] [ score 83 E 1e-15 ] [ range 234 .. 289 ]
+sequence
+----------QKKDNHNLIERRRRFNINDRIKELGMLI-PDL----DVRW-NKCTILKASVDYIRRIRK-
+----------------------*
+>P1;gi|14582832|gb|AAK69672.1| myc-type bHLH transcription factor Cp... [ score 83 E 2e-15 ] [ range 203 .. 287 ]
+sequence
+--------KSKDKNSHNMIEKKYRTNINTKILALRDAV-PAL----RSKL-NKASVLTKATEYIKHLESK
+NSILKQQILS------------*
+>P1;gi|6912702|ref|NP_036384.1| transcription factor EC [Homo sapien... [ score 83 E 2e-15 ] [ range 139 .. 216 ]
+sequence
+----------QKKDNHNLIERRRRYNINYRIKELGTLI-PKS----DMRW-NKGTILKASVEYIKWLQKE
+QQRARELEHRQKKLEQANRRL-*
+>P1;gi|1279507|emb|CAA62339.1| USF2a, USF2b protein [Homo sapiens] [ score 82 E 3e-15 ] [ range 186 .. 261 ]
+sequence
+--------RDERRRAHNEVERRRRDKINNWIVQLSKII-PDC----NADN-SKTG---AACDYIRELRQT
+NQRMQETFKEAERLQMDNELLR*
+>P1;gi|41351476|gb|AAH65876.1| Unknown (protein for MGC:77845) [Dani... [ score 81 E 5e-15 ] [ range 170 .. 253 ]
+sequence
+-------SRDDKRRAHNEVERRRRDKINQWIVQLSKTI-PDC----DAKQ-SKSGILSKACDYIQELRQS
+NARLEDELNTADRLRMDNQLLR*
+>P1;gi|42408484|dbj|BAD09664.1| bHLH protein family-like [Oryza sati... [ score 81 E 7e-15 ] [ range 217 .. 277 ]
+sequence
+------QMPNTPRSKHSATEQRRRSKINDRFQLLRDLL-PHN----DQKR-DKASFLLEVIEYIRFLQEK
+VQK-------------------*
+>P1;gi|32405608|ref|XP_323417.1| hypothetical protein [Neurospora cr... [ score 80 E 1e-14 ] [ range 382 .. 468 ]
+sequence
+------------RTAHNDIERKYRTNLKDKIAELREAV-PAL----HTKV-SKGTILTKATEYIHQLERR
+NKQITMEHRELSRKLQA-----*
+>P1;gi|1022700|gb|AAA79690.1| USF [Lytechinus variegatus] [ score 80 E 1e-14 ] [ range 211 .. 278 ]
+sequence
+--------RDERRRAHNEVERRRRDKINNWIVKLSKII-PDC----KQGQ-SKGGILSKTCDYIQELRQS
+NTRMAE----------------*
+>P1;gi|11358566|pir||T50498 myc-like protein - Arabidopsis thaliana ... [ score 79 E 3e-14 ] [ range 272 .. 332 ]
+sequence
+------QKLNTPRSKHSATEQRRRSKINDRFQMLRQLI-PNS----DQKR-DKASFLLEVIEYIQFLQEK
+ADK-------------------*
+>P1;gi|31075434|gb|AAP42569.1| adipocyte determination and different... [ score 78 E 5e-14 ] [ range 78 .. 121 ]
+sequence
+------QSRGEKRTAHNAIEKRYRSSINDKIIELKDLV--GG----HGRL-NKSAVL-------------
+----------------------*
+>P1;gi|2833212|sp|Q07956|USF_STRPU Upstream stimulatory factor (USF)... [ score 77 E 7e-14 ] [ range 187 .. 260 ]
+sequence
+--------RDERRRAHNEVERRRRDKINNWIVKLSKII-PDC----KQGQ-SKGGILTKTCDYIHDLRNS
+NTRMAKASRIRK----------*
+>P1;gi|40742232|gb|EAA61422.1| hypothetical protein AN7170.2 [Asperg... [ score 77 E 9e-14 ] [ range 181 .. 271 ]
+sequence
+-----------KRAAHNIIEKRYRTNMNAKFVALEKAM-VKS----SASL-KKSEILSNAITYMQELQEM
+NERLRKEVAALTRERRAN----*
+>P1;gi|45190986|ref|NP_985240.1| AER385Cp [Eremothecium gossypii] >g... [ score 77 E 1e-13 ] [ range 168 .. 256 ]
+sequence
+------------RMSHNIIEKKYRTNINDKILQLREIV-PAL----RVKL-NKASILTKTIEYIKHLEEK
+CAFFQAETERLK----------*
+>P1;gi|1654007|emb|CAA70217.1| multicopy supressor of caseine kinase... [ score 71 E 5e-12 ] [ range 179 .. 276 ]
+sequence
+----------DQRVTHNMIEKRYRININTKIGKLQKII-PAC----EVKL-NKSMILEKAVDYILYLQNN
+ERLFELEVQRLRKEINELKA--*
+>P1;gi|15221582|ref|NP_177064.1| basic helix-loop-helix (bHLH) famil... [ score 70 E 1e-11 ] [ range 47 .. 101 ]
+sequence
+------------RSKHSVTEQRRRSKINERFQILRELI-PNS----EQKR-DTASFLLEVIDYVQYLQEK
+VQK-------------------*
+>P1;gi|625264|pir||FOFVHB gag-myc polyprotein - avian myelocytomatos... [ score 67 E 8e-11 ] [ range 789 .. 865 ]
+sequence
+---------NDKRRTHNVLERQRRNELKLRFFALRDQI-PAN----NEKA-PKVGILKKATEYVLSIQSD
+EHRLIAEKEQLRRRREQLKH--*
+>P1;gi|9629901|ref|NP_045935.1| p110 [Avian myelocytomatosis virus] ... [ score 67 E 1e-10 ] [ range 789 .. 865 ]
+sequence
+---------NDKRRTHNVLERQRRNELKLRFFALRDQI-PAN----NEKA-PKVVILKKATEYVLSLQSD
+EHKLIAEKEQLRRRREQLKH--*
+>P1;gi|45188243|ref|NP_984466.1| ADR370Wp [Eremothecium gossypii] >g... [ score 66 E 2e-10 ] [ range 156 .. 257 ]
+sequence
+-----------QKEAHNKIEKRYRININTKLAKLQQII-PAS----EAKL-NKSMILEKAVDYILFLQNN
+ERLYAMEVQRLKAELDALR---*
+>P1;gi|32420139|ref|XP_330513.1| predicted protein [Neurospora crass... [ score 65 E 3e-10 ] [ range 155 .. 195 ]
+sequence
+-----------RKTAHSLIERRRRSKMNEEFALLKSMI-PAC----TGEM-HKLAILQ------------
+----------------------*
+>P1;gi|42568187|ref|NP_198702.2| basic helix-loop-helix (bHLH) famil... [ score 65 E 4e-10 ] [ range 29 .. 97 ]
+sequence
+------RNRNSCRSKHSETEQRRRSKINERFQSLMDII-PQN----DQKR-DKASFLLEVIEYIHFLQEK
+VHMYEDSHQ-------------*
+>P1;gi|6324606|ref|NP_014675.1| C2H2 zinc-finger protein with simila... [ score 65 E 5e-10 ] [ range 268 .. 355 ]
+sequence
+------------RVSHNIIEKKYRSNINDKIEQLRRTV-PTL----RTKL-NKASILTKSIEYICHLERK
+CLQLSLANQHL-----------*
+>P1;gi|127597|sp|P20389|MYC2_MARMO N-myc 2 proto-oncogene protein >g... [ score 64 E 6e-10 ] [ range 372 .. 443 ]
+sequence
+-----------RRRNHNILERQRRNDLRSSFTTLRDHV-PEL----NEKA-AKVVILKKACEYVHYLQAK
+EHQLLMEKEKLQARQQQ-----*
+>P1;gi|29788848|gb|AAP03394.1| putative ammonium transporter [Oryza ... [ score 64 E 7e-10 ] [ range 193 .. 249 ]
+sequence
+---------------HIIAERKRREKINQRFIELSTVI-PGL----K-KM-DKATILSDAVRYVKEMQEK
+LSELEQHQN-------------*
+>P1;gi|10998404|gb|AAG25927.1| anthocyanin 1 [Petunia x hybrida] >gi... [ score 64 E 1e-09 ] [ range 468 .. 539 ]
+sequence
+-------TQEEPSGNHVLAERRRREKLNERFIILRSLV-PFV----T-KM-DKASILGDTIEYVKQLRKK
+VQDLEARANQTEATLQ------*
+>P1;gi|68914|pir||TVHUM2 transforming protein N-myc (version 2) - hu... [ score 63 E 1e-09 ] [ range 380 .. 453 ]
+sequence
+---------SERRRNHNILERQRRNDLRSSFLTLRDHV-PEL----NEKA-AKVVILKKATEYVHSLQAE
+EHQLLLEKEKLQARQQQ-----*
+>P1;gi|31543328|ref|NP_032735.2| neuroblastoma myc-related oncogene ... [ score 63 E 2e-09 ] [ range 378 .. 451 ]
+sequence
+---------SERRRNHNILERQRRNDLRSSFLTLRDHV-PEL----NEKA-AKVVILKKATEYVHALQAN
+EHQLLLEKEKLQARQQQ-----*
+>P1;gi|127603|sp|P18444|MYCN_CHICK N-myc proto-oncogene protein >gi|... [ score 62 E 4e-09 ] [ range 357 .. 430 ]
+sequence
+---------SERRRNHNILERQRRNDLRSSFLTLRDHV-PEL----NEKA-AKVVILKKATEYVHSLQAE
+EQKLLLEKEKLQARQQQ-----*
+>P1;gi|818010|emb|CAA54697.1| transcription factor [Mus musculus] [ score 61 E 5e-09 ] [ range 232 .. 311 ]
+sequence
+--------RD---ERRRAQERRRRDKINNWIVQLSKII-PDC----HADA-SKGGILSKACDYIRELRQT
+NQRMQETFKEAERLQMDNELLR*
+>P1;gi|38232200|gb|AAR14937.1| BMAL [Antheraea pernyi] [ score 61 E 6e-09 ] [ range 34 .. 92 ]
+sequence
+------RTLPDKKQNHSEIEKRRRDKMNTYISELSSMV-PMC----ARKL-DKLTVLRMAVQHLRSVR--
+----------------------*
+>P1;gi|34899612|ref|NP_911152.1| putative phytochrome interacting fa... [ score 61 E 8e-09 ] [ range 233 .. 282 ]
+sequence
+---------------HNLSERRRRDRINEKLRALQELV-PHC----N-KT-DKASILDEAIEYLKSLQMQ
+VQ--------------------*
+>P1;gi|25407777|pir||B85436 hypothetical protein AT4g36930 [imported... [ score 60 E 8e-09 ] [ range 202 .. 257 ]
+sequence
+---------------HNLSEKRRRSRINEKMKALQSLI-PNS----N-KT-DKASMLDEAIEYLKQLQLQ
+VQMLTMRN--------------*
+>P1;gi|34902556|ref|NP_912624.1| P0498A12.24 [Oryza sativa (japonica... [ score 60 E 1e-08 ] [ range 641 .. 710 ]
+sequence
+-------TRSTKRSRHNLSERRRRDRINEKMRALQELI-PNC----NLQI-DKASMLDEAIEYLKTLQLQ
+VQMM------------------*
+>P1;gi|32421895|ref|XP_331391.1| hypothetical protein [Neurospora cr... [ score 60 E 1e-08 ] [ range 187 .. 273 ]
+sequence
+-----------RKDNHKEVERRRRETINEGINELAKIV-PGC----EK---NKGSILQRAVQFIQELSQS
+NDKLKQEVDRL-----------*
+>P1;gi|20373017|dbj|BAB91178.1| Cycle like factor BmCyc b [Bombyx mori] [ score 60 E 1e-08 ] [ range 141 .. 192 ]
+sequence
+----------DKKQNHSEIEKRRRDKMNTFISELSAMI-PMC----GAKL-DKLTVLRMAVQHLR-----
+----------------------*
+>P1;gi|18568238|gb|AAL75975.1| regulatory protein [Zea mays] [ score 60 E 1e-08 ] [ range 380 .. 433 ]
+sequence
+--------------NHVMLERKRREKLNEMFLVLKSLV-PSI----H-KV-DKASILAETIAYLKELQRR
+VQELE-----------------*
+>P1;gi|42552268|gb|EAA75111.1| hypothetical protein FG05567.1 [Gibbe... [ score 60 E 2e-08 ] [ range 188 .. 241 ]
+sequence
+-----------RKDNHKEVERRRRETINEGINELAKIV-PGC----EK---NKGSILQRAVSFISQLKEN
+EQQ-------------------*
+>P1;gi|21704269|ref|NP_660092.1| MAX protein isoform e; myc-associat... [ score 60 E 2e-08 ] [ range 19 .. 89 ]
+sequence
+------QSAADKRAHHNALERKRRDHIKDSFHSLRDSV-PSL----QGKA-SRAQILDKATEYIQYMRRK
+NHTHQQDIDDLK----------*
+>P1;gi|7512306|pir||JC5405 brain and muscle Ah receptor nuclear tran... [ score 60 E 2e-08 ] [ range 74 .. 126 ]
+sequence
+------------REAHSQIEKRRRDKMNSFIDELASLV-PTC----NAKL-DKLTVLRMAVQHMRTLR--
+----------------------*
+>P1;gi|37590548|gb|AAH59793.1| Wu:fb57a02 protein [Danio rerio] [ score 60 E 2e-08 ] [ range 402 .. 481 ]
+sequence
+---------SERRRNHNILERQRRNDLRSSFLTLRDQV-PAH----NDKA-AKVVILKKATDYVSSLEAQ
+EFRLQQEKDRLQKRQQLLRRLE*
+>P1;gi|29788829|gb|AAP03375.1| putative ammonium transporter [Oryza ... [ score 59 E 2e-08 ] [ range 131 .. 185 ]
+sequence
+---------------HVVAERKRREKINQRFMELSAVI-PKL----K-KM-DKATILSDAASYIRELQEK
+LKALEEQ---------------*
+>P1;gi|4093153|gb|AAC99771.1| phytochrome-associated protein 3 [Arab... [ score 59 E 3e-08 ] [ range 337 .. 397 ]
+sequence
+--------LGSKRSRHNLSERRRRDRINEKMRALQELI-PNC----N-KV-DKASMLDEAIEYLKSLQLQ
+VQ--------------------*
+>P1;gi|6754770|ref|NP_034980.1| myc-like oncogene, s-myc protein [Mu... [ score 59 E 3e-08 ] [ range 348 .. 426 ]
+sequence
+----------ERRRNHNRMERQRRDIMRSSFLNLRDLV-PEL----NEKA-AKVVILKKATEYIHTLQAD
+ESKLKKLYERQQQLLQKIK---*
+>P1;gi|28375728|dbj|BAC56998.1| F3G1 [Perilla frutescens] [ score 59 E 3e-08 ] [ range 363 .. 426 ]
+sequence
+--------------NHVMAERRRREKLNQRFIVLRSMV-PFI----T-KM-DKASILADTIDYLKQLKKR
+IQELESKIGDMKKRE-------*
+>P1;gi|30678541|ref|NP_191916.3| basic helix-loop-helix (bHLH) famil... [ score 59 E 3e-08 ] [ range 210 .. 274 ]
+sequence
+-------KRSRAAAIHNQSERKRRDKINQRMKTLQKLV-PNS-----SKT-DKASMLDEVIEYLKQLQAQ
+VSMMSRMNM-------------*
+>P1;gi|13560295|gb|AAK30044.1| gag-myc fusion protein [Avian leukosi... [ score 59 E 4e-08 ] [ range 484 .. 560 ]
+sequence
+---------NDKRRTHNVLERQRRNELKLSFFALRDQI-PAN----NEKA-PKVVILKKATEYVLSIQSD
+EHRLIAEKEQLRRRREQLKH--*
+>P1;gi|27311243|gb|AAO00689.1| Hypothetical protein [Oryza sativa (j... [ score 59 E 4e-08 ] [ range 631 .. 691 ]
+sequence
+-------KRGQATNSHSLAERFRREKINERMKLLQDLV-PGC----NKIT-GKAMMLDEIINYVQSLQRQ
+VEFL------------------*
+>P1;gi|21536863|gb|AAM61195.1| unknown [Arabidopsis thaliana] [ score 59 E 4e-08 ] [ range 98 .. 149 ]
+sequence
+---------------HNLSEKKRRSKINEKMKALQKLI-PNS----N-KT-DKASMLDEAIEYLKQLQLQ
+VQTL------------------*
+>P1;gi|31213461|ref|XP_315674.1| ENSANGP00000007299 [Anopheles gambi... [ score 59 E 4e-08 ] [ range 2 .. 54 ]
+sequence
+------------RQNHSEIEKRRRDKMNTYITELSAMI-PMC----HAKL-DKLTVLRMAVQHLKTIR--
+----------------------*
+>P1;gi|45187750|ref|NP_983973.1| ADL123Cp [Eremothecium gossypii] >g... [ score 105 E 2e-22 ] [ range 337 .. 396 ]
+sequence
+----------IKKEVHKVAEQGRRNRLNNALAELNDLLPPELKES--AQVPSKATTVELACKYIRQLQQN
+----------------------*
+>P1;gi|38103969|gb|EAA50600.1| hypothetical protein MG04359.4 [Magna... [ score 56 E 3e-07 ] [ range 645 .. 720 ]
+sequence
+-----------KRTSHKIAEQGRRNRINSALQEIATLLPPKGDKQAGGGPNSKASTVEMAIEYIKMLRK-
+----------------------*
+>P1;gi|40739819|gb|EAA59009.1| hypothetical protein AN8271.2 [Asperg... [ score 54 E 6e-07 ] [ range 564 .. 639 ]
+sequence
+-----------KRTNHKLAEQGRRNRINTALKEIETLIPAAYKERTGNQPISKASTVEMAIDYIKSLK--
+----------------------*
+>P1;gi|128830|sp|P20824|NUC1_NEUCR Phosphorus acquisition controllin... [ score 54 E 9e-07 ] [ range 668 .. 759 ]
+sequence
+-----------KRTSHKIAEQGRRNRINSALQEIATLLPKKDKDKAGGGIPSKASTVEMAIEYIKQLQK-
+----------------------*
+>P1;gi|42545738|gb|EAA68581.1| hypothetical protein FG00545.1 [Gibbe... [ score 48 E 4e-05 ] [ range 562 .. 630 ]
+sequence
+-----------KRTSHKIAEQGRRNRINSALQVMAGLLPGDGKQAN--AQNSKASVVENAIVHMKSLEK-
+----------------------*
+>P1;gi|24645680|ref|NP_524775.1| sticky ch1 CG17100-PA [Drosophila m... [ score 46 E 2e-04 ] [ range 66 .. 118 ]
+sequence
+--------------SHRIIEKRRRDRMNSCLADLSRLIPPQYQRKGRGRI-EKTEIIEMAIRHLKHLQ--
+----------------------*

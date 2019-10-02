@@ -1,0 +1,1048 @@
+>P1;1a7ge
+structureX:1a7g: 291 :E: 372 :E:regulatory protein E2:Human papillomavirus type 31: 2.40: 21.1
+ATTPIIHLKGDANILKCLRYRLSK-YKQLYEQVSSTWHWTCT--DGKHKNAIVTLTYISTSQRDDFLNTV
+VIPNTVSVSTGYMTI--*
+>P1;1by9
+structureX:1by9: 283 : : 362 : :regulatory protein E2:Human papillomavirus type 16: 2.20: 19.5
+-TTPIVHLKGDANTLKCLRYRFKK-HCTLYTAVSSTWHW----------TAIVTLTYDSEWQRDQFLSQV
+KIPKTITVSTGFMS---*
+>P1;2bopa
+structureX:2bop: 326 :A: 410 :A:regulatory protein E2:Bovine papillomavirus type 1: 1.70: 20.07
+--SCFALISGTANQVKCYRFRVKKNHRHRYENCTTTWFTVADNGAERQGQAQILITFGSPSQRQDFLKHV
+PLPPGMNISGFTASLDF*
+>P1;gi|9625950|ref|NP_040197.1| E2 [Human papillomavirus type 13] >g... [ score 143 E 1e-33 ] [ range 292 .. 374 ]
+sequence
+AATPIVQLQGDSNCLKCFRYRLHK-YKDLFLLASSTWHWTAP--NNSQKHALVTLTYVNEQQRQDFLKTV
+KIPPTITHKLGFMSL--*
+>P1;gi|33330949|gb|AAQ10723.1| putative regulatory protein E2 [Human... [ score 142 E 3e-33 ] [ range 285 .. 365 ]
+sequence
+-TTPIVHLKGDANTLKCLRYRFKK-HCKLYTAVSSTWHWTGH--NVKHKSAIVTLTYDSECQREQFLSQV
+KIPKTITVSTGFMSI--*
+>P1;gi|30315643|ref|NP_848000.1| putative regulatory protein E2 [Hum... [ score 139 E 2e-32 ] [ range 297 .. 377 ]
+sequence
+-TTPIVHLKGDKNRLKCLRYRLQK-FHNLYTQISCTWHWIGG--KETTRTGILTLAYANETQRQKFLDVV
+KIPNTVNVSLGYMTL--*
+>P1;gi|9627170|ref|NP_041384.1| regulatory protein [Human papillomav... [ score 139 E 2e-32 ] [ range 290 .. 370 ]
+sequence
+-TTPIIHLKGDKNGLKCLRYRLQK-YDTLFENISCTWHWIRG--KGTKNAGILTVTYATESQRQKFLDTV
+KIPSSVHVSLGYMTL--*
+>P1;gi|9627374|ref|NP_041841.1| early protein [Human papillomavirus ... [ score 138 E 2e-32 ] [ range 287 .. 368 ]
+sequence
+-TAPIIHLKGDPNSLKCLRYRVKT-HKSLYVQISSTWHWTSN--ECTNKLGIVTITYSDETQRQQFLKTV
+KIPNTVQVIQGVMSL--*
+>P1;gi|9627094|ref|NP_041319.1| regulatory protein [Human papillomav... [ score 138 E 2e-32 ] [ range 282 .. 364 ]
+sequence
+AATPIVQLQGDSNCLKCFRYRLNK-YKHLFELASSTWHWASP--EAPHKNAIVTLTYSSEEQRQQFLNSV
+KIPPTIRHKVGFMSL--*
+>P1;gi|9626493|ref|NP_040793.1| open reading frame E2 [Human papillo... [ score 137 E 4e-32 ] [ range 280 .. 358 ]
+sequence
+---PIVHLKGDPNSLKCLRYRLKP-FKDLYCNMSSTWHWTSD--DKGDKVGIVTVTYTTETQRQLFLNTV
+KIPPTVQISTGVMSL--*
+>P1;gi|9628562|ref|NP_043433.1| regulatory protein E2 [Human papillo... [ score 137 E 5e-32 ] [ range 295 .. 375 ]
+sequence
+--TPVVQLQGDPNCLKCLRYRLHK-HKTLFVAASSTWRWTCS--DTSSKHALVTLTYVNEEQREQFLNTV
+RLPPTVTYKVGYMSL--*
+>P1;gi|41057742|ref|NP_958342.1| E2 protein [Human papillomavirus ty... [ score 137 E 5e-32 ] [ range 295 .. 376 ]
+sequence
+-TAPVIHLRGDANKLKCLRYRLRS-VPHLFVNASSTWHWTCG--EATQKCAFVTIWYANEDQRAKFLQRV
+TIPKGIQAMQGFMSM--*
+>P1;gi|9633486|ref|NP_050589.1| E2 [Human papillomavirus type 6] >gi... [ score 137 E 6e-32 ] [ range 283 .. 365 ]
+sequence
+SATPIVQFQGESNCLKCFRYRLNK-HRHLFDLISSTWHWASS--KAPHKHAIVTVTYHSEEQRQQFLNVV
+KIPPTIRHKLGFMSM--*
+>P1;gi|9627966|ref|NP_042519.1| ORF putative E2 [Human papillomaviru... [ score 136 E 1e-31 ] [ range 290 .. 370 ]
+sequence
+-TTPIIHLKGDKNGLKCLRYRLRK-VHWLFENISSTWHWTGN--RGSAKTGILTLTYTSETQRNEFLDTV
+KIPNSVQIHVGYMSV--*
+>P1;gi|9628441|ref|NP_043291.1| regulatory protein [Human papillomav... [ score 136 E 1e-31 ] [ range 286 .. 367 ]
+sequence
+-TTPIVHFKGEPNTLKCFRQRIQK-YKHLFEQASSTWHWACV--PGTTKRGIVTLTYSSVEQRQQFLVTV
+RIPPSISMSLGVMSL--*
+>P1;gi|9628711|ref|NP_043574.1| Method: conceptual translation suppl... [ score 136 E 1e-31 ] [ range 280 .. 360 ]
+sequence
+-TTPIVHLKGDKNGLKCLRYRLRK-FNSLYENISCTWHWIGG--KGSKHTGILTVTYTTEAQRQKFLETV
+RIPPSVHVSVGYMTL--*
+>P1;gi|27531781|ref|NP_775315.1| putative regulatory protein E2 [Hum... [ score 136 E 2e-31 ] [ range 298 .. 378 ]
+sequence
+--TPIVQLQGDPNCLKCFRYRLHK-HKHLFLSASSTWHWTSP--TIPTKHALVTLTYANEQQRQQFLDTV
+RLPTTISYKLGYMSL--*
+>P1;gi|27462479|gb|AAO15451.1| putative regulatory protein E2 [Human... [ score 135 E 2e-31 ] [ range 285 .. 366 ]
+sequence
+-TTPIVHFKGEPNTLKCFRQRIQK-YKHLFEQASSTWHWACV--PGTTKRGIVTITYSSVEQRQEFLLTV
+RIPPSISMSLGVMSL--*
+>P1;gi|267291|sp|Q02264|VE2_PCPV1 Regulatory protein E2 >gi|319967|p... [ score 135 E 2e-31 ] [ range 294 .. 373 ]
+sequence
+--TPIVQLQGDSNNLKCFRYRLHK-YKHLFMLASSTWHWTAS--SNSTKNAIVTLTYVNEQQRQDFLNTV
+KIPATIKHTLGFMS---*
+>P1;gi|9626057|ref|NP_040299.1| regulatory protein E2 [Human papillo... [ score 135 E 2e-31 ] [ range 283 .. 365 ]
+sequence
+SATPIVQFQGESNCLKCFRYRLNR-HRHLFDLISSTWHWASS--KAPHKHAIVTVTYDSEEQRQQFLDVV
+KIPPTISHKLGFMSL--*
+>P1;gi|29727000|ref|NP_821087.1| ORF E2 [Human papillomavirus type 6... [ score 135 E 3e-31 ] [ range 287 .. 368 ]
+sequence
+-TAPIVHLKGDPNSLKCLRYRLKC-NTDLYCHMSSTWHWTSG--KHTTKEAIVTVTYASETQRQQFLNSV
+RIPPTVQIVCGIMSL--*
+>P1;gi|549248|sp|P27222|VE2_HPV35 Regulatory protein E2 >gi|480192|p... [ score 135 E 3e-31 ] [ range 287 .. 367 ]
+sequence
+-TTPIVHLKGDANTLKCLRYRLGK-YKALYQDASSTWRWTCT--NDKKQIAIVTLTYTTEYQRDKFLTTV
+KIPNTVTVSKGYMSI--*
+>P1;gi|30172008|gb|AAP20597.1| E2 protein [Human papillomavirus type... [ score 134 E 5e-31 ] [ range 286 .. 365 ]
+sequence
+-TTPIIHLKGDRNSLKCLRYRLRK-HSDHYRDISSTWHWTGA---GNEKTGILTVTYHSETQRTKFLNTV
+AIPDSVQILVGYMTM--*
+>P1;gi|9627123|ref|NP_041344.1| regulatory protein [Human papillomav... [ score 134 E 6e-31 ] [ range 274 .. 353 ]
+sequence
+--APIVHLKGESNSLKCLRYRLKP-YKELYSSMSSTWHWTSD--NKNSKNGIVTVTFVTEQQQQMFLGTV
+KIPPTVQISTGFMTL--*
+>P1;gi|9627353|ref|NP_041823.1| early protein [Human papillomavirus ... [ score 134 E 6e-31 ] [ range 288 .. 369 ]
+sequence
+SSTPIIQLEGEANCLKCFRYRLGK-VSHLFCNSSTTWRWTTE--SRTEKNAIITLTYSSVQQRSDFLAIV
+KIPKTIKHSLGMLTL--*
+>P1;gi|9628578|ref|NP_043447.1| regulatory protein E2 [Human papillo... [ score 132 E 2e-30 ] [ range 299 .. 380 ]
+sequence
+-SSPVIHLKGDPNKLKCFRYRLQH-VPELFDKASSTWHWAGG--QSTTRAAFVTLWYVNVEQRKQFLNRV
+TIPKGIQATAGYMSM--*
+>P1;gi|15789199|ref|NP_277081.1| putative regulatory protein E2 [Hum... [ score 132 E 2e-30 ] [ range 292 .. 372 ]
+sequence
+--APVIHLKGDPNRLKCLRYRLQQ-VPQLFERASSTWRWTCG--GSEDKQSFVTLWYRDTEQRQQFLARV
+NIPKGIVVTQGIMSM--*
+>P1;gi|9628538|ref|NP_043412.1| regulatory protein E2 [Human papillo... [ score 132 E 2e-30 ] [ range 295 .. 374 ]
+sequence
+--TPVVQLQGDANCLKCLRYRLHK-YKTLFVAASSTWRWTCS--D-TSSNALVTLTYVDEQQRQQFLNTV
+KLPPKVTYKVGYMSL--*
+>P1;gi|9628498|ref|NP_043377.1| regulatory protein E2 [Human papillo... [ score 132 E 3e-30 ] [ range 295 .. 374 ]
+sequence
+--APVVHLKGDPNCLKCFRYRLHK-GKKLYCKTSSTWRWSC---ESENQAAFVTIWYTSYSQRNEFLSTV
+KVPPGIQVILGHMSM--*
+>P1;gi|9627393|ref|NP_041857.1| early protein [Human papillomavirus ... [ score 132 E 3e-30 ] [ range 294 .. 374 ]
+sequence
+-STPIIQLEGDANCLKCFRYRLTK-VSHLYTNSSTTWRWTTE--SRTNKNAIITLTYSSVHQRSQFLALV
+KIPKTIKHSLGMLTI--*
+>P1;gi|41057753|ref|NP_958352.1| E2 protein [Human papillomavirus ty... [ score 131 E 4e-30 ] [ range 298 .. 377 ]
+sequence
+--APVIHLRGDPNCLKCFRYRLHH-GKKLYSRSTSTWRWSC---ESENQAAFVTIWYTSEAQRAEFLNVV
+KVPPGIQVILGYMSI--*
+>P1;gi|22138118|ref|NP_671499.1| putative regulatory protein E2 [Hum... [ score 131 E 4e-30 ] [ range 294 .. 375 ]
+sequence
+-TAPVIHLQGEANKLKCFRYRLKQ-VPDLYLRASSTWHWACG--GPTTKATFVTLWYSSAEQRAQFLARV
+HIPKGIQAMQGHMSM--*
+>P1;gi|9626037|ref|NP_040281.1| ORF E2 [Human papillomavirus type 57... [ score 130 E 6e-30 ] [ range 303 .. 380 ]
+sequence
+---PVIHLQGEANCLKCFRYRVQK-HKDLFVKASSTWHWACG--NG-DKTAFVTLWYKSQEQRAEFLTRV
+HLPKGVKALPGYMS---*
+>P1;gi|1491687|emb|CAA63876.1| E2 [Human papillomavirus type 72] [ score 130 E 7e-30 ] [ range 302 .. 382 ]
+sequence
+--APIIHLKGEPNKLKCFRYRLQQ-VPNLFLKASSTWHWACG--GDTTKCAFVTLWYVDTDQRTQFLSRV
+NIPKGIQATAGYMSM--*
+>P1;gi|2911562|emb|CAA75466.1| E2 protein [Human papillomavirus type... [ score 130 E 8e-30 ] [ range 292 .. 371 ]
+sequence
+--APVIHLRGDPNSLKCFRYRLKN-GKDLYCRASSTWRWSC---EPENQAAFVTIWYTSYTQRDEFLATV
+KIPPNMQAILGHMSV--*
+>P1;gi|9627309|ref|NP_041785.1| early protein [Human papillomavirus ... [ score 130 E 1e-29 ] [ range 296 .. 375 ]
+sequence
+-TVFIVHLKGDTNSLKCLRYRFKK-HKGLYCNVSSTWHWTSN--D-TNQQGIVTITFNSITQRNNFLTTV
+KIPQSITSTLGIMSL--*
+>P1;gi|9627345|ref|NP_041816.1| envelope protein [Human papillomavir... [ score 129 E 1e-29 ] [ range 303 .. 381 ]
+sequence
+---PVIHLRGDPNCLKCFRYRLNK-GKKLYSRTSSTWRWSC---ESENQCAYVTIWYTSYGQREAFLSTV
+KVPPGIQVILGHMSM--*
+>P1;gi|14485277|ref|NP_071700.2| putative E2 protein [Human papillom... [ score 129 E 1e-29 ] [ range 293 .. 373 ]
+sequence
+--APVLHLKGDPNRLKCFRYRLQQ-VPQLFDKASSTWRWTCG--GTDEKYSFVTLWYKDTEQRKQFLARV
+NIPKGIVATQGHMSM--*
+>P1;gi|9628449|ref|NP_043334.1| E2 [rhesus monkey papillomavirus] >g... [ score 129 E 1e-29 ] [ range 289 .. 366 ]
+sequence
+--TPIVHLKGESNCLKCLRFRLGK-HKHLYINISSTWRW--A--NHASEKAIVTVTFANELQRQQFLNTV
+KIPSTVTLSQGVMTV--*
+>P1;gi|9628586|ref|NP_043454.1| regulatory protein E2 [Human papillo... [ score 129 E 2e-29 ] [ range 289 .. 367 ]
+sequence
+-TTPVIHLKGEANRLKCCRYRFQK-YKTLFTDVTTTYHWTST--DNKD-SSIITILYKDETQRDTFLNVV
+KIPPSVQVILGQMS---*
+>P1;gi|9627316|ref|NP_041791.1| early protein [Human papillomavirus ... [ score 128 E 2e-29 ] [ range 306 .. 385 ]
+sequence
+-TVPVIHLRGDANCLKCFRYRVQK-HKDLYDRVSSTWHWAGG--K-CDKTAFVTVWYTSVEQRKEFLTRV
+NIPKGVIALPGYMS---*
+>P1;gi|9628506|ref|NP_043384.1| regulatory protein E2 [Human papillo... [ score 128 E 2e-29 ] [ range 308 .. 387 ]
+sequence
+--APVIHLRGDPNSLKCFRYRLQN-GKGLYCKASSTWRWSC---EPENQSAFVTIWYTSVTQRAEFLANV
+KIPPGMQAILGHMSV--*
+>P1;gi|9627380|ref|NP_041846.1| early protein [Human papillomavirus ... [ score 128 E 3e-29 ] [ range 301 .. 380 ]
+sequence
+-TAPVVHIKGEANRLKCLRYRFQK-HKQLFVTVSSTYHWTNV--NCAVNNSYITVVYKDETQRQKFLDIV
+KIPPSVSLVLGHMT---*
+>P1;gi|13186279|ref|NP_077119.1| early protein E2 [Human papillomavi... [ score 128 E 4e-29 ] [ range 309 .. 388 ]
+sequence
+-SVPVIHLRGDANCLKCFRYRVQK-HKDLYARVSSTWHWAGG--NG-DKTAFVTLWYTSVEQRTEFLTRV
+SIPKGLIALPGYMS---*
+>P1;gi|9627331|ref|NP_041804.1| early protein [Human papillomavirus ... [ score 127 E 7e-29 ] [ range 307 .. 390 ]
+sequence
+-TTPVIHLQGDPNCLKCLRWRLKK-NSHLFTQVSSTWHLTEK--DYTSKDGIITIHYYNEEQRDKFLSTV
+KLPPGIKSCIGYMSM--*
+>P1;gi|9634609|ref|NP_038146.1| E2 [Human papillomavirus type 69] >g... [ score 127 E 7e-29 ] [ range 291 .. 368 ]
+sequence
+-TVFIVHLKGDTNCLKCLRYRFKK-HKGLYCKVSSTWHWTSN--TN---QGIVTITFDSETQRASFLTTV
+KIPQSITSTLGIMSL--*
+>P1;gi|9632561|ref|NP_049554.1| transactivator [Human papillomavirus... [ score 127 E 8e-29 ] [ range 298 .. 378 ]
+sequence
+--TPVIHLQGEPNKLKCFRYRLHK-VPTLFVRATSTWHWTSG--DAATKAAFVTLCYASIEQRELFLTRV
+TIPKGIKAMQGYMSM--*
+>P1;gi|13507124|gb|AAK28452.1| putative regulatory protein E2 [Human... [ score 127 E 9e-29 ] [ range 282 .. 359 ]
+sequence
+-TAFIVHLKGATNCLKCLRYRFSK-HRNLFKEVSSTWHWT-----SNTKAGIVTITFDSAHQRQQFIDTV
+KVPPSVTVSLGIMTV--*
+>P1;gi|9627360|ref|NP_041829.1| early protein [Human papillomavirus ... [ score 126 E 1e-28 ] [ range 290 .. 368 ]
+sequence
+-TTPIIHLKGDKNSLKCLRYRLRK-YADHYSEISSTWHWTGC--N--KNTGILTVTYNSEVQRNTFLDVV
+TIPNSVQISVGYMTI--*
+>P1;gi|9629724|ref|NP_045014.1| E2 [common chimpanzee papillomavirus... [ score 126 E 1e-28 ] [ range 295 .. 375 ]
+sequence
+--TPIVQLQGDSNNLKCFRYRLHN-YKHLFFACISTWHWTAS--SNSPKTAIVTLTYVNEQQRQEFLNTV
+KIPGTITHKLGFVAI--*
+>P1;gi|41057209|ref|NP_958325.1| E2 protein [Human papillomavirus ty... [ score 125 E 2e-28 ] [ range 289 .. 370 ]
+sequence
+-TTPIIQLQGEANALKCFRYRLNK-HKHLFADVSSTWRWTTE--NNKTNTALITLTYISEQQRADFLSRV
+KIPITIKQCLGALTM--*
+>P1;gi|9627324|ref|NP_041798.1| early protein [Human papillomavirus ... [ score 125 E 2e-28 ] [ range 297 .. 374 ]
+sequence
+-TTPVVHLKGEPNRLKCLRYRCQK-HKHLFVNISSTYHWTNT--HTEY--SYITVVYKDETQRANFLNVV
+KIPPSIKIVMGHMT---*
+>P1;gi|19343449|ref|NP_597936.1| regulatory protein E2 [Human papill... [ score 125 E 2e-28 ] [ range 199 .. 282 ]
+sequence
+-SAPVIHLRGEANKLKCLRYRLQK-HKSLFAKASSTWHWATG--DNTCKTTFVTLWHDSVEQRAQFLATV
+HIPKGIEALPGYMSL--*
+>P1;gi|22094070|ref|NP_666027.1| E2 [Human papillomavirus type 91] >... [ score 125 E 3e-28 ] [ range 290 .. 369 ]
+sequence
+--TPIVQLQGDANSLKCFRYRLGK-YKYLYVDVSSTWRWTTE--SNKQNSALITLTYASVQQREAFLANV
+KIPTTIKHCLGFLTI--*
+>P1;gi|11119523|ref|NP_068499.1| regulatory protein E2 [Human papill... [ score 125 E 3e-28 ] [ range 281 .. 358 ]
+sequence
+-TAFIVHLKGDTNCLKCFRYRFTK-HKGLYKNVSSTWHWT-----SNTKTGIVTIVFDSAHQRETFIKTI
+KVPPSVTLSLGIMTL--*
+>P1;gi|9628466|ref|NP_043349.1| regulatory protein E2 [Human papillo... [ score 124 E 5e-28 ] [ range 420 .. 498 ]
+sequence
+--PPVILVRGEPNTLKCFRNRAKK-YAGLYKAFSTAWSWVAG--DGTERRSRMLISFFSFEQRKDFDKTV
+KYPKGVDRSYG------*
+>P1;gi|27531790|ref|NP_775308.1| E2 [Human papillomavirus type 92] >... [ score 123 E 6e-28 ] [ range 394 .. 472 ]
+sequence
+--PPVILLKGQANTLKCYRYRAKK-YKGYYDCFSTTWSWVGS--NDRIGRSRMIISFTSKSQRQMFLSIM
+KLPKGVDWSLG------*
+>P1;gi|137681|sp|P27223|VE2_HPV42 Regulatory protein E2 >gi|73409|pi... [ score 123 E 7e-28 ] [ range 312 .. 394 ]
+sequence
+--TPVIHLQGDPNCLKCLRFRLKR-NSHLFTQVSSTWHLTEN--DCTTKTGIITIHYYDEAQRNLFLNTV
+KIPSGIKSCIGYMSM--*
+>P1;gi|9628458|ref|NP_043342.1| regulatory protein E2 [Human papillo... [ score 123 E 8e-28 ] [ range 414 .. 492 ]
+sequence
+--PPVILVRGEPNTLKCFRNRAKR-YTGLYKSFSTAWSWVAG--DGTERRSRMLISFISFSQRKDFDETV
+KYPKGVDRSFG------*
+>P1;gi|13128945|ref|NP_077034.1| putative regulatory protein E2 [Hum... [ score 123 E 8e-28 ] [ range 294 .. 375 ]
+sequence
+-SAPVLHLKGQSNSLKCFRYRLQS-VPDLFERASSTWKWTCG--GEGDKTSYVTLWYKSTDQRKQLLARV
+HIPKGIVATLGSMSM--*
+>P1;gi|9634618|ref|NP_038154.1| E2 [Human papillomavirus type 82] >g... [ score 123 E 1e-27 ] [ range 282 .. 359 ]
+sequence
+-TAFIVHLKGATNCLKCLRYRFAK-HRNLFKEVSSTWHWT-----SNTKAGIVTITFDSAHQRQKFIDTV
+KVPSSVTVSLGIMTV--*
+>P1;gi|2911569|emb|CAA75473.1| E2 [Human papillomavirus type 80] [ score 122 E 2e-27 ] [ range 361 .. 441 ]
+sequence
+--PPVIVLRGDANKLKCFRFRAKK-YRDLVKYYSTTWSWVGG--NDRIGRSRMLLAFTSNTERQLFINIM
+KLPPGVDWSLGSL----*
+>P1;gi|37595904|ref|NP_932315.1| E2 [Human papillomavirus type 93] >... [ score 122 E 2e-27 ] [ range 393 .. 471 ]
+sequence
+--PPVILIRGEANTVKCFRNRAKK-YKGLCKAFSTTWSWVAA--DGTERRSRVLVSFTSHTQRSSFLKVV
+KFPKGVDWSLG------*
+>P1;gi|37595913|ref|NP_932322.1| E2 [Human papillomavirus type 96] >... [ score 122 E 2e-27 ] [ range 385 .. 463 ]
+sequence
+--PPVILLRGEPNTLKCYRYRVKK-LRGSFDKISTTWSWVAS--QGNTRRARMLLSFVSEDQREKFINVM
+KLPKGVDWSFG------*
+>P1;gi|9628522|ref|NP_043398.1| regulatory protein E2 [Human papillo... [ score 121 E 3e-27 ] [ range 371 .. 451 ]
+sequence
+--PPVIVLRGDANKLKCYRYRAKK-HGNLVKYYSTTWSWVGG--NDRIGRSRMLLAFQSNTERELFLKTM
+KLPPGVDWSLGHL----*
+>P1;gi|9627281|ref|NP_041761.1| early protein [Human papillomavirus ... [ score 121 E 3e-27 ] [ range 299 .. 379 ]
+sequence
+--PPVILLRGDANKLKCFRFRAKK-YQDLVKYYSTTWSWVGG--TSNDRRSRLLLAFSSNTERELFIKIM
+KLPPGVDWSLGYL----*
+>P1;gi|11119514|ref|NP_068493.1| regulatory protein E2 [Human papill... [ score 120 E 6e-27 ] [ range 415 .. 493 ]
+sequence
+--PPVILVRGEANTLKCFRNRARR-YRGLFKYFSTTWSWVAG--DSTERRSRMLILFTSAGQRKDFDETV
+KYPKGVDTSYG------*
+>P1;gi|2911548|emb|CAA75452.1| E2 protein [Human papillomavirus type... [ score 120 E 7e-27 ] [ range 384 .. 464 ]
+sequence
+SDPPVILLRGDPNILKCFRYRDKK-NKGLVKCYSTTWSWVHA--DGNERRARMLLGFTSEQNRAEYINSM
+KLPKGVEWSYG------*
+>P1;gi|9628530|ref|NP_043405.1| regulatory protein E2 [Human papillo... [ score 120 E 1e-26 ] [ range 356 .. 436 ]
+sequence
+ADPPVILLRGDANTLKCYRYRFKK-HAGGFRFVSTTWSWIAS--NDRIGRSRMLLAFYSESQREKFIQTM
+KLPTGVEWSLG------*
+>P1;gi|9627269|ref|NP_041751.1| early protein [Human papillomavirus ... [ score 120 E 1e-26 ] [ range 411 .. 489 ]
+sequence
+--PPVIICKGGANTLKCFRNRAHK-YTGLFKAFSTTWSWVAG--DSTERRPRMLISFTSTNQRKDFDETV
+KYPKGVETAYG------*
+>P1;gi|22138126|ref|NP_671506.1| putative regulatory protein E2 [Hum... [ score 119 E 2e-26 ] [ range 295 .. 378 ]
+sequence
+-SAPVTHLRGDPNKLKCLRYRLHK-HKSLFSKVTSTWRWTCS--NTTEKSAFVTLWHDSAEQRATFLSTI
+TLPKDIEAVLGYMTM--*
+>P1;gi|2911555|emb|CAA75459.1| E2 protein [Human papillomavirus type... [ score 119 E 2e-26 ] [ range 393 .. 473 ]
+sequence
+SDPPVILLRGDPNVLKCFRYRDKK-NKGLVKCYSTTWSWVHA--DGNERRARMLLGFTSQQHRAQYISSM
+KLPKGVEWSYG------*
+>P1;gi|9627274|ref|NP_041755.1| early protein [Human papillomavirus ... [ score 119 E 2e-26 ] [ range 400 .. 478 ]
+sequence
+--PPVILVRGDPNTLRCFRNRAKK-FTGLYRAFSTAWSWVAG--DGTERRSRMLISFFSFNQRRDFDQTV
+KYPKGVDRSFG------*
+>P1;gi|9628514|ref|NP_043391.1| regulatory protein E2 [Human papillo... [ score 118 E 2e-26 ] [ range 426 .. 504 ]
+sequence
+--PPVILVRGEANTLKCFRNRAKK-YMGLYRSFSTTWSWVAG--DGTERRPRMLISFSSYNQRRDFDDVV
+RYPKGVEKSYG------*
+>P1;gi|9627288|ref|NP_041767.1| early protein [Human papillomavirus ... [ score 118 E 2e-26 ] [ range 369 .. 449 ]
+sequence
+--PPVILLRGEANKLKCFRYRAKK-YGSLVKYYSTTWSWVGA--NTNDRRSRMLLAFNTYDERELFIQKM
+KLPPGVDWSLGHL----*
+>P1;gi|9628490|ref|NP_043370.1| regulatory protein E2 [Human papillo... [ score 118 E 4e-26 ] [ range 384 .. 462 ]
+sequence
+--PPVILLRGGANTLKCFRNRAKR-YRGHYKAFSTSWSWVAA--DGTERRSRLLVSFTSFKQRSGFLDLV
+RFPKGVDWSLG------*
+>P1;gi|9627141|ref|NP_041361.1| ORF E2 [Human papillomavirus type 47... [ score 117 E 5e-26 ] [ range 423 .. 503 ]
+sequence
+--PPVILVRGDANTLKCFRNRARK-YRGLFRSFSTTFSWVAG--DSIERRSRMLISFSCLTQRRDFDDAV
+KYPKGVEWSYGSL----*
+>P1;gi|9627367|ref|NP_041835.1| early protein [Human papillomavirus ... [ score 117 E 6e-26 ] [ range 403 .. 483 ]
+sequence
+SDPPVILLRGDPNILKCYRYRDKK-RKGLVKHYSTTWSWVGV--DGNERRSRMLLSFTSNSTRSQYVKIM
+KLPKGVEWSFG------*
+>P1;gi|30315621|ref|NP_847993.1| E2 [Human papillomavirus RTRX7] >gi... [ score 117 E 7e-26 ] [ range 428 .. 506 ]
+sequence
+--PPVILCKGGANTLKCFRNRTRK-YTGLFRAISTTWSWVAG--DSTERRPRMLISFSSDGQRKHFDETV
+KYPKGVETSYG------*
+>P1;gi|13186228|ref|NP_077109.1| E2 [Cottontail rabbit papillomaviru... [ score 117 E 7e-26 ] [ range 305 .. 385 ]
+sequence
+SDPPVICLKGGHNQLKCLRYRLKK-HSSLFDCISTTWSWVDT--TSTCRSGRMLIKFADSEQRDKFLSRV
+PLPSTTQVFLG------*
+>P1;gi|480857|pir||S37444 gene E2 protein - human papillomavirus typ... [ score 115 E 2e-25 ] [ range 16 .. 94 ]
+sequence
+--PPVIIVKGAANTLKCFRNRAKK-YTGLFRSFSTTWSWVAG--DGTERRPRMLISFSSYTQRRDFDEAV
+RYPKGVDKAYG------*
+>P1;gi|480860|pir||S37447 gene E2 protein - human papillomavirus typ... [ score 114 E 4e-25 ] [ range 16 .. 94 ]
+sequence
+--PPVIIVKGAANTLKCFRNRAKK-YMGLFRSFSTTWSWVAG--DGTEGRPRMLISFSSYTQRRDFDEAV
+RYPKGVDKAYG------*
+>P1;gi|9635137|ref|NP_057844.1| regulatory protein E2 [rabbit oral p... [ score 114 E 5e-25 ] [ range 331 .. 409 ]
+sequence
+--PPVICLKGGNNQLKCLRYRLKK-HRTLFDCISTTWSWVDN--SSTCRSGRVLIKFKDEAQRERFLEEV
+PIPRHMQVFVG------*
+>P1;gi|480861|pir||S37448 gene E2 protein - human papillomavirus typ... [ score 113 E 7e-25 ] [ range 16 .. 94 ]
+sequence
+--PPVIIVKGAANTLKCFRNRAKK-YMGLFRSFSTTWSWVAG--DGTERRPRMLISFSSYTQRRDFDEAV
+RYPKGVDKRYG------*
+>P1;gi|480854|pir||S37441 gene E2 protein - human papillomavirus typ... [ score 113 E 8e-25 ] [ range 16 .. 94 ]
+sequence
+--PPVIIVKGAANTLKCFRNRAKT-YKGLFRSFSTTWSWVAG--DGTERRPRMLISFSSYTQRRDFDEAV
+RYPKGVDKAYG------*
+>P1;gi|30315798|ref|NP_848022.1| E2 protein [Feline papillomavirus] ... [ score 112 E 2e-24 ] [ range 298 .. 376 ]
+sequence
+--PPLLVLKGDPNSLKCVRYRLKK-YSSLFCWVSTTWSWTAS--TGTARGARMILTFKDLEQREVFVKTV
+KLPKSVQFFRG------*
+>P1;gi|333536|gb|AAA66871.1| E2 [ score 111 E 3e-24 ] [ range 183 .. 261 ]
+sequence
+--PPVICLKGGNNQLKCLRYRLKK-HRTLFDCISTTWSWVDN--SSTCRSGRVLIKFKDEAQREKVLEEV
+PIPRHMQVFVG------*
+>P1;gi|9627295|ref|NP_041773.1| early protein [Human papillomavirus ... [ score 111 E 4e-24 ] [ range 410 .. 488 ]
+sequence
+--PPVILVRGEPNTLRSFRNRAKH-YRGLFSSFSTAWSWVAG--DGIERRTRMLISFVSFNQRKHFDDTV
+RYPKGVDRSFG------*
+>P1;gi|9627261|ref|NP_041744.1| envelope protein [Human papillomavir... [ score 110 E 6e-24 ] [ range 296 .. 375 ]
+sequence
+--APVIHLRGDPNSLKCFRYRLHH-GKKLYSRSSSTWRWSC---ESENQAAFVTLWYTSDTQRTEFLNVV
+KVPPGIQVILGYMSI--*
+>P1;gi|9627386|ref|NP_041851.1| envelope protein [Human papillomavir... [ score 110 E 8e-24 ] [ range 234 .. 301 ]
+sequence
+-TTPVVHLKGEPNRLKCCRYRFQK-YKTLFVDVTSTYHWTST--DNKNY-SIITIIYKDETQRNSFLSHV
+KIP--------------*
+>P1;gi|9627302|ref|NP_041779.1| early protein [Human papillomavirus ... [ score 110 E 1e-23 ] [ range 419 .. 497 ]
+sequence
+--PPVILVRGDANTLRSFRNRAKH-YTGLFSSFSTAWSWVAG--DGIERRSRMLISFISNSQRKHFDDAV
+RYPKGVDRSFG------*
+>P1;gi|9627738|ref|NP_056816.1| early protein [Canine oral papilloma... [ score 109 E 1e-23 ] [ range 299 .. 380 ]
+sequence
+--PPVLVLAGDPNSLKCIRYRLHK-HRGLYLGASTTWKWTGG--DGASKHARMLLAFLSDQQREDFMDRV
+TFPKSVRVFRG------*
+>P1;gi|9627401|ref|NP_041864.1| early protein [Human papillomavirus ... [ score 109 E 2e-23 ] [ range 378 .. 456 ]
+sequence
+--PPLMLLRGDANVLKCYRFREKK-KRGLVKYYSTTWSWVGE--DSCDRRARMILAFDTYEHRQQFIRTM
+KLPPTVDWSLG------*
+>P1;gi|3915902|sp|P03118|VE2_HPV1A Regulatory protein E2 [ score 109 E 2e-23 ] [ range 318 .. 396 ]
+sequence
+--PPVVCVKGGANQLKCLRYRLKA-STQVFDSISTTWHWTDR--KNTERSARMLVKFIDEAQREKFLERV
+ALPRSVSVFLG------*
+>P1;gi|9627149|ref|NP_041368.1| regulatory protein [Human papillomav... [ score 108 E 4e-23 ] [ range 431 .. 509 ]
+sequence
+--PPVIIVKGAANTLKNVRNRAKK-YMGLFRSFSTTWSWVAG--DGTERRPRMLISFSSYTQRRDFDEAV
+RYPKGVDKAYG------*
+>P1;gi|9628482|ref|NP_043363.1| regulatory protein E2 [Human papillo... [ score 106 E 1e-22 ] [ range 348 .. 426 ]
+sequence
+--PPVILLRGGANTLKCYRYRFKK-HAGKFYYVSTTWSWIGG--HSTDRRARMLIAFHSNHEREKCIQEM
+KLPLGVDWSYG------*
+>P1;gi|9628546|ref|NP_043419.1| regulatory protein E2 [Human papillo... [ score 104 E 5e-22 ] [ range 315 .. 391 ]
+sequence
+--PPLVLFTGQQNNLKCWRNRCTK-YASLFLCFSSVWKWLGP--NSDGGAAKVLVAFKSDAQRQVFLNTV
+HIPKGTTITLG------*
+>P1;gi|9628554|ref|NP_043426.1| regulatory protein E2 [Human papillo... [ score 103 E 1e-21 ] [ range 313 .. 393 ]
+sequence
+--PPVLIITGQQNNLKCWRYRFQK-YADLYECCSSAWKWLGS--EGYRGDAKLLIAFKNPEQRLSFLNTV
+GLPKNTTYSMGHL----*
+>P1;gi|20428632|ref|NP_620510.1| regulatory protein E2 [Equus caball... [ score 102 E 2e-21 ] [ range 323 .. 406 ]
+sequence
+AFAPIVIFQGGTNQCKCYRWRLKK-HRSLFVAITTTYFWTGD--KGGQRNARLMVTFSSDLQRRLLLATV
+PPPRGVTATSFTLT---*
+>P1;gi|9628474|ref|NP_043356.1| regulatory protein E2 [Human papillo... [ score 102 E 2e-21 ] [ range 353 .. 431 ]
+sequence
+--PPVILLRGAANTLKCYRYRFKK-HAGSFQFISTTWSWVGG--HTTDRRSRILISFHTDREREKCLQQM
+KLPLGVEWSYG------*
+>P1;gi|9627490|ref|NP_042017.1| E2 protein [Multimammate rat papillo... [ score 100 E 7e-21 ] [ range 458 .. 534 ]
+sequence
+-TACLLIIKGSSNQVKCLRFRLKW-HHSLFSYISTTWQWVPS--VGSNRRSRILVMCEDSAQMDRFLCTV
+KIPAGMTV---------*
+>P1;gi|1491696|emb|CAA63885.1| E2 [Human papillomavirus type 73] [ score 100 E 9e-21 ] [ range 271 .. 350 ]
+sequence
+--APIVHLKGDKNSLKCFRYRLHK-YSHLFKNVTTTWHWTNT--TNS-KCGVITLMFTTVLQQQHFLQHV
+KIPQTIVVTSGYMSL--*
+>P1;gi|23216990|ref|NP_694439.1| putative regulatory protein E2 [Rei... [ score 100 E 1e-20 ] [ range 330 .. 404 ]
+sequence
+---PCLILSGNGNQTKCFRFRCKK-HRRHYEHVTTTWWTVGE--RGSERQACILVTFKNSCQRQDFLKTV
+PLPPGMQA---------*
+>P1;gi|9628570|ref|NP_043440.1| regulatory protein E2 [Human papillo... [ score 99 E 2e-20 ] [ range 323 .. 401 ]
+sequence
+--PPILLIKGLANSLKCWRYRLKK-YTRYFKCMSTVFRWVDI--DVPESRHKLLVVFNDTTQRDVFMKLV
+TLPRGCTYTFGTL----*
+>P1;gi|3041739|sp|P03122|VE2_BPV1 Regulatory protein E2 [ score 98 E 3e-20 ] [ range 330 .. 402 ]
+sequence
+------LISGTANQVKCYRFRVKK-HRHRYENCTTTWFTVAD--NGAERQAQILITFGSPSQRQDFLKHV
+PLPPGMNIS--------*
+>P1;gi|9627338|ref|NP_041810.1| early protein [Human papillomavirus ... [ score 97 E 9e-20 ] [ range 266 .. 345 ]
+sequence
+--APIVHLKGDKNSLKCLRYRMHK-YSHLFNNVTTTWHWTNN--TNS-KCGVITFMFSSTSQQKQFLQCA
+KIPPTISVSSGYMSI--*
+>P1;gi|40804524|emb|CAF05705.1| E2 protein [Human papillomavirus typ... [ score 97 E 1e-19 ] [ range 321 .. 398 ]
+sequence
+--PPMIMLKGHANSLKCWRYRLTS-NSCGFLYMSTVWNWV-G--DSSENHSRMLIAFTSTDQRDYFVKHH
+FFPRQCTYTFGSL----*
+>P1;gi|19343421|ref|NP_597848.1| regulatory protein E2 [ovine papill... [ score 97 E 1e-19 ] [ range 307 .. 380 ]
+sequence
+----CVLLSGSGNQAKCFRFRLKK-HRDKYLHCTTTWWTVGD--EGSERRASLLVTFDSPTQRELFLKTV
+PIPDSMTV---------*
+>P1;gi|19343425|ref|NP_597852.1| regulatory protein E2 [ovine papill... [ score 95 E 4e-19 ] [ range 305 .. 378 ]
+sequence
+----CLLLSGSGNQAKCFRFRMKK-HRHKYVHCTTTWWTVGD--EGAERRASLLVTFDSPTQRELFLKTV
+PIPESMTV---------*
+>P1;gi|9626609|ref|NP_040899.1| putative E2 ORF [Human papillomaviru... [ score 94 E 5e-19 ] [ range 315 .. 393 ]
+sequence
+--PPIICLKGGPNQLKCLRYRIKS-NSSDFESISTTWHWVHN--KCTDRHARMLVRFISTEQRDRFLDKV
+VVPKSVSVILG------*
+>P1;gi|9627080|ref|NP_041306.1| regulatory protein [European elk pap... [ score 93 E 1e-18 ] [ range 332 .. 404 ]
+sequence
+---PCLILSGNGNQAKCYRFRCKR-YREHYQHITTTWWTVGE--RGSERHACVLVTFKDSSQRGVFLKRV
+PLPPGM-----------*
+>P1;gi|29823076|ref|NP_821163.1| putative regulatory protein E2 [Bov... [ score 93 E 2e-18 ] [ range 326 .. 405 ]
+sequence
+--PPVLLLQGAANTLKCFRRRAQA-HPHKFLCMSTSWTWVSK--TSPLKSGRMLIAFSNSEQRNCFLASV
+RLPKGVSAVKGAL----*
+>P1;gi|41057201|ref|NP_958335.1| E2 protein [Bovine papillomavirus t... [ score 92 E 3e-18 ] [ range 353 .. 432 ]
+sequence
+--PPVLLLQGCANTLKCFRRRTSH-HPHKFLCMSTSWTWSCK--TTTHKCHRMLVAFSDYEQRRCFLAGV
+KLPKGVTCVKGSL----*
+>P1;gi|23216980|ref|NP_694448.1| putative regulatory protein E2 [Bov... [ score 89 E 2e-17 ] [ range 332 .. 405 ]
+sequence
+--PPVLLLQGCANTLKSFRRRTQS-YPHTFLCMSTSWTWASK--TCTVKSGRMLVAFVNSEQRTLFLATV
+KIPKGVT----------*
+>P1;gi|23217018|ref|NP_694433.1| putative regulatory protein E2 [Bov... [ score 88 E 4e-17 ] [ range 327 .. 401 ]
+sequence
+---PCCLIEGNGNKVKCLRFRLKK-HRSRFLDITTTFWATGD--EGSDRNGTILITFTDTTQRDLFLGSV
+SIPGELSV---------*
+>P1;gi|9626601|ref|NP_040892.1| putative E2 ORF [Human papillomaviru... [ score 88 E 4e-17 ] [ range 322 .. 399 ]
+sequence
+--PPMILLKGTANSLKCWRYRVNS-NCCNFLFMSTVWNWV-G--DCSHNHSRMLIAFDSTDQRDAFVKHN
+LFPKLCTYTYGSL----*
+>P1;gi|9626617|ref|NP_040906.1| putative E2 ORF [Human papillomaviru... [ score 87 E 9e-17 ] [ range 322 .. 399 ]
+sequence
+--PPMILLKGTANSLKCWRYRKQN-SSNGFLFMSTVWNWV-G--DVSENHSRMLIAFKSPGQRDSFVKHN
+LFPKLCTYTYGSL----*
+>P1;gi|9627069|ref|NP_041296.1| regulatory protein [Deer papillomavi... [ score 84 E 6e-16 ] [ range 333 .. 414 ]
+sequence
+---PCLLISGTGNQVKCYSFRVKR-HRDKYHHCTTTWWAVGE--QGSERDATVIVTFKDQSQRSMFLQQV
+PLPPGMSAHGVTMTV--*
+>P1;gi|319966|pir||W2WL41 E2 protein - human papillomavirus type 41 [ score 70 E 2e-11 ] [ range 307 .. 374 ]
+sequence
+--------KGPVNSLRCLRYKWKK-YSGDIMYLGTTFTWTES--DGTERCGRFFCAFSNETKREKFLKSV
+KIPKNI-----------*
+>P1;gi|18138519|ref|NP_542618.1| E2 protein [Phocoena spinipinnis pa... [ score 69 E 3e-11 ] [ range 334 .. 407 ]
+sequence
+---PTLLISGGPNQVKCRYRLRRH-HRKAYRSCSTTWSWIGD--DQDHTEHRICLSFYSEAQRVNFQKTV
+RLPKGVRV---------*
+>P1;gi|21326233|ref|NP_647588.1| E2 [Psittacus erithacus papillomavi... [ score 58 E 4e-08 ] [ range 294 .. 364 ]
+sequence
+--PPGLCFVGRTGQLKTIRYRVQT-GPYNVTRISTTWHWIGD--G--EHLSRMIILFNDSHQREVFARAF
+RVVSGVRV---------*
+>P1;gi|21844539|ref|NP_663765.1| putative regulatory protein E2 [Fri... [ score 49 E 2e-05 ] [ range 320 .. 378 ]
+sequence
+---PVLCFEGYTHQVKTIRRRLYA-TNLRYQRVSSTWHWVGE--D--KNRSKIIVLFDSKEDRDNF----
+-----------------*
+>P1;gi|9627114|ref|NP_041336.1| regulatory protein [Human papillomav... [ score 128 E 3e-29 ] [ range 292 .. 371 ]
+sequence
+-TTPIIHLKGDANILKCLRYRLSK-YKQLYEQVSSTWHW----------TAIVTLTYISTSQRDDFLNTV
+KIPNTVSVSTGYMT---*
+>P1;gi|41057753|ref|NP_958352.1| E2 protein [Human papillomavirus ty... [ score 123 E 1e-27 ] [ range 298 .. 376 ]
+sequence
+--APVIHLRGDPNCLKCFRYRLHH-KRKLYSRSTSTWRW----------SAFVTIWYTSEAQRAEFLNVV
+KVPPGIQVILGYMS---*
+>P1;gi|9628498|ref|NP_043377.1| regulatory protein E2 [Human papillo... [ score 122 E 2e-27 ] [ range 295 .. 373 ]
+sequence
+--APVVHLKGDPNCLKCFRYRLHK-KRKLYCKTSSTWRW----------SAFVTIWYTSYSQRNEFLSTV
+KVPPGIQVILGHMS---*
+>P1;gi|41057742|ref|NP_958342.1| E2 protein [Human papillomavirus ty... [ score 120 E 1e-26 ] [ range 295 .. 375 ]
+sequence
+-TAPVIHLRGDANKLKCLRYRLRS-SVHLFVNASSTWHW----------TAFVTIWYANEDQRAKFLQRV
+TIPKGIQAMQGFMS---*
+>P1;gi|9627345|ref|NP_041816.1| envelope protein [Human papillomavir... [ score 119 E 2e-26 ] [ range 303 .. 380 ]
+sequence
+---PVIHLRGDPNCLKCFRYRLNK-GKNLYSRTSSTWRW----------SAYVTIWYTSYGQREAFLSTV
+KVPPGIQVILGHMS---*
+>P1;gi|9627331|ref|NP_041804.1| early protein [Human papillomavirus ... [ score 118 E 2e-26 ] [ range 307 .. 389 ]
+sequence
+-TTPVIHLQGDPNCLKCLRWRLKK-NCHLFTQVSSTWHL----------TGIITIHYYNEEQRDKFLSTV
+KLPPGIKSCIGYMS---*
+>P1;gi|9628578|ref|NP_043447.1| regulatory protein E2 [Human papillo... [ score 116 E 1e-25 ] [ range 299 .. 379 ]
+sequence
+-SSPVIHLKGDPNKLKCFRYRLQH-SVELFDKASSTWHW----------AAFVTLWYVNVEQRKQFLNRV
+TIPKGIQATAGYMS---*
+>P1;gi|22138118|ref|NP_671499.1| putative regulatory protein E2 [Hum... [ score 115 E 3e-25 ] [ range 294 .. 374 ]
+sequence
+-TAPVIHLQGEANKLKCFRYRLKQ-TVDLYLRASSTWHW----------ATFVTLWYSSAEQRAQFLARV
+HIPKGIQAMQGHMS---*
+>P1;gi|15789199|ref|NP_277081.1| putative regulatory protein E2 [Hum... [ score 115 E 3e-25 ] [ range 292 .. 371 ]
+sequence
+--APVIHLKGDPNRLKCLRYRLQQ-SVQLFERASSTWRW----------TSFVTLWYRDTEQRQQFLARV
+NIPKGIVVTQGIMS---*
+>P1;gi|1491687|emb|CAA63876.1| E2 [Human papillomavirus type 72] [ score 114 E 5e-25 ] [ range 302 .. 381 ]
+sequence
+--APIIHLKGEPNKLKCFRYRLQQ-SVNLFLKASSTWHW----------AAFVTLWYVDTDQRTQFLSRV
+NIPKGIQATAGYMS---*
+>P1;gi|14485277|ref|NP_071700.2| putative E2 protein [Human papillom... [ score 113 E 1e-24 ] [ range 293 .. 372 ]
+sequence
+--APVLHLKGDPNRLKCFRYRLQQ-SVQLFDKASSTWRW----------TSFVTLWYKDTEQRKQFLARV
+NIPKGIVATQGHMS---*
+>P1;gi|9632561|ref|NP_049554.1| transactivator [Human papillomavirus... [ score 113 E 1e-24 ] [ range 298 .. 377 ]
+sequence
+--TPVIHLQGEPNKLKCFRYRLHK-SVTLFVRATSTWHW----------TAFVTLCYASIEQRELFLTRV
+TIPKGIKAMQGYMS---*
+>P1;gi|9628522|ref|NP_043398.1| regulatory protein E2 [Human papillo... [ score 111 E 4e-24 ] [ range 372 .. 451 ]
+sequence
+---PVIVLRGDANKLKCYRYRAKK-KHGLVKYYSTTWSW----------VGRMLLAFQSNTERELFLKTM
+KLPPGVDWSLGHL----*
+>P1;gi|2911569|emb|CAA75473.1| E2 [Human papillomavirus type 80] [ score 111 E 4e-24 ] [ range 362 .. 441 ]
+sequence
+---PVIVLRGDANKLKCFRFRAKK-YRDLVKYYSTTWSW----------VGRMLLAFTSNTERQLFINIM
+KLPPGVDWSLGSL----*
+>P1;gi|9628530|ref|NP_043405.1| regulatory protein E2 [Human papillo... [ score 110 E 1e-23 ] [ range 359 .. 436 ]
+sequence
+---PVILLRGDANTLKCYRYRFKK-HAGGFRFVSTTWSW----------IGRMLLAFYSESQREKFIQTM
+KLPTGVEWSLG------*
+>P1;gi|9627288|ref|NP_041767.1| early protein [Human papillomavirus ... [ score 109 E 1e-23 ] [ range 370 .. 449 ]
+sequence
+---PVILLRGEANKLKCFRYRAKK-YGSLVKYYSTTWSW----------VGRMLLAFNTYDERELFIQKM
+KLPPGVDWSLGHL----*
+>P1;gi|9627281|ref|NP_041761.1| early protein [Human papillomavirus ... [ score 109 E 2e-23 ] [ range 300 .. 379 ]
+sequence
+---PVILLRGDANKLKCFRFRAKK-YQDLVKYYSTTWSW----------VGRLLLAFSSNTERELFIKIM
+KLPPGVDWSLGYL----*
+>P1;gi|9627261|ref|NP_041744.1| envelope protein [Human papillomavir... [ score 108 E 3e-23 ] [ range 296 .. 374 ]
+sequence
+--APVIHLRGDPNSLKCFRYRLHH-KRKLYRWSCESENQ----------AAFVTLWYTSDTQRTEFLNVV
+KVPPGIQVILGYMS---*
+>P1;gi|13128945|ref|NP_077034.1| putative regulatory protein E2 [Hum... [ score 108 E 3e-23 ] [ range 294 .. 374 ]
+sequence
+-SAPVLHLKGQSNSLKCFRYRLHQ-SVDLFERASSTWKW----------TSYVTLWYKSTDQRKQLLARV
+HIPKGIVATLGSMS---*
+>P1;gi|9628466|ref|NP_043349.1| regulatory protein E2 [Human papillo... [ score 107 E 7e-23 ] [ range 421 .. 498 ]
+sequence
+---PVILVRGEPNTLKCFRNRAKK-YAGLYKAFSTAWSW----------VARMLISFFSFEQRKDFDKTV
+KYPKGVDRSYG------*
+>P1;gi|37595904|ref|NP_932315.1| E2 [Human papillomavirus type 93] >... [ score 107 E 8e-23 ] [ range 394 .. 471 ]
+sequence
+---PVILIRGEANTVKCFRNRAKK-YKGLCKAFSTTWSW----------VARVLVSFTSHTQRSSFLKVV
+KFPKGVDWSLG------*
+>P1;gi|9628458|ref|NP_043342.1| regulatory protein E2 [Human papillo... [ score 104 E 5e-22 ] [ range 415 .. 492 ]
+sequence
+---PVILVRGEPNTLKCFRNRAKR-YTGLYKSFSTAWSW----------VARMLISFISFSQRKDFDETV
+KYPKGVDRSFG------*
+>P1;gi|9627269|ref|NP_041751.1| early protein [Human papillomavirus ... [ score 104 E 6e-22 ] [ range 412 .. 489 ]
+sequence
+---PVIICKGGANTLKCFRNRAHK-YTGLFKAFSTTWSW----------VARMLISFTSTNQRKDFDETV
+KYPKGVETAYG------*
+>P1;gi|11119514|ref|NP_068493.1| regulatory protein E2 [Human papill... [ score 104 E 6e-22 ] [ range 416 .. 493 ]
+sequence
+---PVILVRGEANTLKCFRNRARR-YRGLFKYFSTTWSW----------VARMLILFTSAGQRKDFDETV
+KYPKGVDTSYG------*
+>P1;gi|9628514|ref|NP_043391.1| regulatory protein E2 [Human papillo... [ score 103 E 1e-21 ] [ range 427 .. 504 ]
+sequence
+---PVILVRGEANTLKCFRNRAKK-YMGLYRSFSTTWSW----------VARMLISFSSYNQRRDFDDVV
+RYPKGVEKSYG------*
+>P1;gi|30315621|ref|NP_847993.1| E2 [Human papillomavirus RTRX7] >gi... [ score 102 E 2e-21 ] [ range 429 .. 506 ]
+sequence
+---PVILCKGGANTLKCFRNRTRK-YTGLFRAISTTWSW----------VARMLISFSSDGQRKHFDETV
+KYPKGVETSYG------*
+>P1;gi|9628490|ref|NP_043370.1| regulatory protein E2 [Human papillo... [ score 102 E 2e-21 ] [ range 385 .. 462 ]
+sequence
+---PVILLRGGANTLKCFRNRAKR-YRGHYKAFSTSWSW----------VARLLVSFTSFKQRSGFLDLV
+RFPKGVDWSLG------*
+>P1;gi|9627274|ref|NP_041755.1| early protein [Human papillomavirus ... [ score 101 E 3e-21 ] [ range 401 .. 478 ]
+sequence
+---PVILVRGDPNTLRCFRNRAKK-FTGLYRAFSTAWSW----------VARMLISFFSFNQRRDFDQTV
+KYPKGVDRSFG------*
+>P1;gi|9627141|ref|NP_041361.1| ORF E2 [Human papillomavirus type 47... [ score 101 E 3e-21 ] [ range 424 .. 503 ]
+sequence
+---PVILVRGDANTLKCFRNRARK-YRGLFRSFSTTFSW----------VARMLISFSCLTQRRDFDDAV
+KYPKGVEWSYGSL----*
+>P1;gi|9627367|ref|NP_041835.1| early protein [Human papillomavirus ... [ score 101 E 4e-21 ] [ range 406 .. 483 ]
+sequence
+---PVILLRGDPNILKCYRYRDKK-RKGLVKHYSTTWSW----------VGRMLLSFTSNSTRSQYVKIM
+KLPKGVEWSFG------*
+>P1;gi|480860|pir||S37447 gene E2 protein - human papillomavirus typ... [ score 101 E 5e-21 ] [ range 17 .. 94 ]
+sequence
+---PVIIVKGAANTLKCFRNRAKK-YMGLFRSFSTTWSW----------VARMLISFSSYTQRRDFDEAV
+RYPKGVDKAYG------*
+>P1;gi|9627401|ref|NP_041864.1| early protein [Human papillomavirus ... [ score 100 E 1e-20 ] [ range 379 .. 456 ]
+sequence
+---PLMLLRGDANVLKCYRFRRKK-KRGLVKYYSTTWSW----------VARMILAFDTYEHRQQFIRTM
+KLPPTVDWSLG------*
+>P1;gi|480854|pir||S37441 gene E2 protein - human papillomavirus typ... [ score 99 E 2e-20 ] [ range 17 .. 94 ]
+sequence
+---PVIIVKGAANTLKCFRNRAKT-YKGLFRSFSTTWSW----------VARMLISFSSYTQRRDFDEAV
+RYPKGVDKAYG------*
+>P1;gi|9628474|ref|NP_043356.1| regulatory protein E2 [Human papillo... [ score 98 E 5e-20 ] [ range 354 .. 431 ]
+sequence
+---PVILLRGAANTLKCYRYRFKK-HAGSFQFISTTWSW----------VGRILISFHTDREREKCLQQM
+KLPLGVEWSYG------*
+>P1;gi|9627295|ref|NP_041773.1| early protein [Human papillomavirus ... [ score 94 E 7e-19 ] [ range 411 .. 488 ]
+sequence
+---PVILVRGEPNTLRSFRNRAKH-YRGLFSSFSTAWSW----------VARMLISFVSFNQRKHFDDTV
+RYPKGVDRSFG------*
+>P1;gi|9628570|ref|NP_043440.1| regulatory protein E2 [Human papillo... [ score 94 E 9e-19 ] [ range 324 .. 402 ]
+sequence
+---PILLIKGLANSLKCWRYRLKK-YTRYFKCMSTVFRW----------VDILLVVFNDTTQRDVFMKLV
+TLPRGCTYTFGTLN---*
+>P1;gi|9627149|ref|NP_041368.1| regulatory protein [Human papillomav... [ score 93 E 1e-18 ] [ range 432 .. 509 ]
+sequence
+---PVIIVKGAANTLKNVRNRAKK-YMGLFRSFSTTWSW----------VARMLISFSSYTQRRDFDEAV
+RYPKGVDKAYG------*
+>P1;gi|9627302|ref|NP_041779.1| early protein [Human papillomavirus ... [ score 90 E 9e-18 ] [ range 420 .. 497 ]
+sequence
+---PVILVRGDANTLRSFRNRAKH-YTGLFSSFSTAWSW----------VARMLISFISNSQRKHFDDAV
+RYPKGVDRSFG------*
+>P1;gi|9626601|ref|NP_040892.1| putative E2 ORF [Human papillomaviru... [ score 88 E 4e-17 ] [ range 323 .. 400 ]
+sequence
+---PMILLKGTANSLKCWRYRVNS-NCCNFLFMSTVWNW----------VGRMLIAFDSTDQRDAFVKHN
+LFPKLCTYTYGSLN---*
+>P1;gi|29823076|ref|NP_821163.1| putative regulatory protein E2 [Bov... [ score 84 E 7e-16 ] [ range 327 .. 405 ]
+sequence
+---PVLLLQGAANTLKCFRRRATQ-HPHKFLCMSTSWTW----------VSRMLIAFSNSEQRNCFLASV
+RLPKGVSAVKGAL----*
+>P1;gi|9626617|ref|NP_040906.1| putative E2 ORF [Human papillomaviru... [ score 84 E 7e-16 ] [ range 323 .. 400 ]
+sequence
+---PMILLKGTANSLKCWRYRKQN-SSNCFLFMSTVWNW----------VGRMLIAFKSPGQRDSFVKHN
+LFPKLCTYTYGSLN---*
+>P1;gi|40804524|emb|CAF05705.1| E2 protein [Human papillomavirus typ... [ score 82 E 3e-15 ] [ range 322 .. 399 ]
+sequence
+---PMIMLKGHANSLKCWRYRLTS-NSCGFLYMSTVWNW----------VGRMLIAFTSTDQRDYFVKHH
+FFPRQCTYTFGSLN---*
+>P1;gi|23216980|ref|NP_694448.1| putative regulatory protein E2 [Bov... [ score 80 E 1e-14 ] [ range 333 .. 405 ]
+sequence
+---PVLLLQGCANTLKSFRRRTQS-YPHTFLCMSTSWTW----------ASRMLVAFVNSEQRTLFLATV
+KIPKGVT----------*
+>P1;gi|41057201|ref|NP_958335.1| E2 protein [Bovine papillomavirus t... [ score 80 E 1e-14 ] [ range 354 .. 432 ]
+sequence
+---PVLLLQGCANTLKCFRRRTHA-HPHKFLCMSTSWTW----------SCRMLVAFSDYEQRRCFLAGV
+KLPKGVTCVKGSL----*
+>P1;gi|23216990|ref|NP_694439.1| putative regulatory protein E2 [Rei... [ score 73 E 1e-12 ] [ range 330 .. 404 ]
+sequence
+---PCLILSGNGNQTKCFRFRCKK-HRRHYEHVTTTW-W----------TACILVTFKNSCQRQDFLKTV
+PLPPGMQA---------*
+>P1;gi|19343421|ref|NP_597848.1| regulatory protein E2 [ovine papill... [ score 73 E 2e-12 ] [ range 308 .. 380 ]
+sequence
+-----VLLSGSGNQAKCFRFRLKK-HRDKYLHCTTTW-W----------TASLLVTFDSPTQRELFLKTV
+PIPDSMTV---------*
+>P1;gi|19343425|ref|NP_597852.1| regulatory protein E2 [ovine papill... [ score 72 E 2e-12 ] [ range 306 .. 378 ]
+sequence
+-----LLLSGSGNQAKCFRFRMKK-HRHKYVHCTTTW-W----------TASLLVTFDSPTQRELFLKTV
+PIPESMTV---------*
+>P1;gi|9627050|ref|NP_041287.1| regulatory protein [Bovine papilloma... [ score 68 E 6e-11 ] [ range 331 .. 403 ]
+sequence
+------LISGSANQVKCYRFRVKK-HRHRYENCTTT-SF----------TAQILITFGSPGQRQDFLKHV
+PLPPGMNIS--------*
+>P1;gi|9627080|ref|NP_041306.1| regulatory protein [European elk pap... [ score 66 E 2e-10 ] [ range 332 .. 404 ]
+sequence
+---PCLILSGNGNQAKCYRFRCKR-YREHYQHITTTW-W----------TACVLVTFKDSSQRGVFLKRV
+PLPPGM-----------*
+>P1;gi|23217018|ref|NP_694433.1| putative regulatory protein E2 [Bov... [ score 62 E 3e-09 ] [ range 327 .. 396 ]
+sequence
+---PCCLIEGNGNKVKCLRFRLKK-HRSRFLDITTTF-W----------AGTILITFTDTTQRDLFLGSV
+SIP--------------*
+>P1;gi|9627069|ref|NP_041296.1| regulatory protein [Deer papillomavi... [ score 62 E 3e-09 ] [ range 333 .. 407 ]
+sequence
+---PCLLISGTGNQVKCYSFRVKR-HRDKYHHCTTTW-W----------AATVIVTFKDQSQRSMFLQQV
+PLPPGMSA---------*
+>P1;gi|18138519|ref|NP_542618.1| E2 protein [Phocoena spinipinnis pa... [ score 62 E 4e-09 ] [ range 334 .. 407 ]
+sequence
+---PTLLISGGPNQVKCRYRLRRH-HRKAYRSCSTTWSW----------IGRICLSFYSEAQRVNFQKTV
+RLPKGVRV---------*
+>P1;gi|21326233|ref|NP_647588.1| E2 [Psittacus erithacus papillomavi... [ score 51 E 6e-06 ] [ range 295 .. 364 ]
+sequence
+---PGLCFVGRTGQLKTIRYRVQT-GPYNVTRISTTWHW----------IGRMIILFNDSHQREVFARAF
+RVVSGVRV---------*
+>P1;gi|9627050|ref|NP_041287.1| regulatory protein [Bovine papilloma... [ score 143 E 1e-33 ] [ range 327 .. 411 ]
+sequence
+--SCFALISGSANQVKCYRFRVKKNHRHRYENCTTTSFTVADNGAERQGQAQILITFGSPGQRQDFLKHV
+PLPPGMNISGFTASLDF*
+>P1;gi|2911569|emb|CAA75473.1| E2 [Human papillomavirus type 80] [ score 135 E 2e-31 ] [ range 365 .. 442 ]
+sequence
+------VLRGDANKLKCFRFRAKKKYRDLVKYYSTTWSWVGGTTNDRIGRSRMLLAFTSNTERQLFINIM
+KLPPGVDWS--LGSLD-*
+>P1;gi|9628530|ref|NP_043405.1| regulatory protein E2 [Human papillo... [ score 132 E 2e-30 ] [ range 362 .. 434 ]
+sequence
+------LLRGDANTLKCYRYRFRKKHAGGFRFVSTTWSWIGDASNDRIGRSRMLLAFYSESQREKFIQTM
+KLPTGVEWS--------*
+>P1;gi|9627281|ref|NP_041761.1| early protein [Human papillomavirus ... [ score 131 E 4e-30 ] [ range 303 .. 375 ]
+sequence
+------LLRGDANKLKCFRFRAKKKYQDLVKYYSTTWSWVGGTSNDRIGRSRLLLAFSSNTERELFIKIM
+KLPPGVDWS--------*
+>P1;gi|9628522|ref|NP_043398.1| regulatory protein E2 [Human papillo... [ score 130 E 5e-30 ] [ range 375 .. 452 ]
+sequence
+------VLRGDANKLKCYRYRAKKKHGNLVKYYSTTWSWVGGSTNDRIGRSRMLLAFQSNTERELFLKTM
+KLPPGVDWS--LGHLD-*
+>P1;gi|9628458|ref|NP_043342.1| regulatory protein E2 [Human papillo... [ score 130 E 6e-30 ] [ range 418 .. 490 ]
+sequence
+------LVRGEPNTLKCFRNRAKQRYTGLYKSFSTAWSWVAGDGTERLGRSRMLISFISFSQRKDFDETV
+KYPKGVDRS--------*
+>P1;gi|27531790|ref|NP_775308.1| E2 [Human papillomavirus type 92] >... [ score 130 E 6e-30 ] [ range 398 .. 470 ]
+sequence
+------LLKGQANTLKCYRYRAKEKYKGYYDCFSTTWSWVSAGSNDRIGRSRMIISFTSKSQRQMFLSIM
+KLPKGVDWS--------*
+>P1;gi|2911555|emb|CAA75459.1| E2 protein [Human papillomavirus type... [ score 130 E 6e-30 ] [ range 399 .. 471 ]
+sequence
+------LLRGDPNVLKCFRYRDKKNKKGLVKCYSTTWSWVHADGNERIGRARMLLGFTSQQHRAQYISSM
+KLPKGVEWS--------*
+>P1;gi|2911548|emb|CAA75452.1| E2 protein [Human papillomavirus type... [ score 130 E 8e-30 ] [ range 390 .. 462 ]
+sequence
+------LLRGDPNILKCFRYRDKKNRKGLVKCYSTTWSWVHADGNERIGRARMLLGFTSEQNRAEYINSM
+KLPKGVEWS--------*
+>P1;gi|11119514|ref|NP_068493.1| regulatory protein E2 [Human papill... [ score 130 E 9e-30 ] [ range 419 .. 491 ]
+sequence
+------LVRGEANTLKCFRNRARVRYRGLFKYFSTTWSWVAGDSTERLGRSRMLILFTSAGQRKDFDETV
+KYPKGVDTS--------*
+>P1;gi|9628466|ref|NP_043349.1| regulatory protein E2 [Human papillo... [ score 130 E 1e-29 ] [ range 424 .. 496 ]
+sequence
+------LVRGEPNTLKCFRNRAKLKYAGLYKAFSTAWSWVAGDGTERLGRSRMLISFFSFEQRKDFDKTV
+KYPKGVDRS--------*
+>P1;gi|37595904|ref|NP_932315.1| E2 [Human papillomavirus type 93] >... [ score 129 E 1e-29 ] [ range 397 .. 469 ]
+sequence
+------LIRGEANTVKCFRNRAKQKYKGLCKAFSTTWSWVAADGTERLGRSRVLVSFTSHTQRSSFLKVV
+KFPKGVDWS--------*
+>P1;gi|37595913|ref|NP_932322.1| E2 [Human papillomavirus type 96] >... [ score 129 E 1e-29 ] [ range 389 .. 461 ]
+sequence
+------LLRGEPNTLKCYRYRVKDKLRGSFDKISTTWSWVASQGNTRIGRARMLLSFVSEDQREKFINVM
+KLPKGVDWS--------*
+>P1;gi|9627269|ref|NP_041751.1| early protein [Human papillomavirus ... [ score 129 E 2e-29 ] [ range 415 .. 485 ]
+sequence
+------ICKGGANTLKCFRNRARHKYTGLFKAFSTTWSWVAGDSTERLGRPRMLISFTSTNQRKDFDETV
+KYPKGVE----------*
+>P1;gi|23216990|ref|NP_694439.1| putative regulatory protein E2 [Rei... [ score 128 E 2e-29 ] [ range 332 .. 413 ]
+sequence
+-----LILSGNGNQTKCFRFRCKKHFRRHYEHVTTTWWTVGERGSERQGDACILVTFKNSCQRQDFLKTV
+PLPPGMQAQGITMHLDY*
+>P1;gi|19343421|ref|NP_597848.1| regulatory protein E2 [ovine papill... [ score 128 E 4e-29 ] [ range 309 .. 389 ]
+sequence
+------LLSGSGNQAKCFRFRLKKGHRDKYLHCTTTWWTVGDEGSERRGQASLLVTFDSPTQRELFLKTV
+PIPDSMTVRGYTIQPDF*
+>P1;gi|19343425|ref|NP_597852.1| regulatory protein E2 [ovine papill... [ score 128 E 4e-29 ] [ range 306 .. 387 ]
+sequence
+-----LLLSGSGNQAKCFRFRMKKGHRHKYVHCTTTWWTVGDEGAERRGQASLLVTFDSPTQRELFLKTV
+PIPESMTVQGLTVQADF*
+>P1;gi|9627367|ref|NP_041835.1| early protein [Human papillomavirus ... [ score 127 E 4e-29 ] [ range 409 .. 481 ]
+sequence
+------LLRGDPNILKCYRYRDKKRKLGLVKHYSTTWSWVGVDGNERIGRSRMLLSFTSNSTRSQYVKIM
+KLPKGVEWS--------*
+>P1;gi|9627288|ref|NP_041767.1| early protein [Human papillomavirus ... [ score 127 E 4e-29 ] [ range 373 .. 450 ]
+sequence
+------LLRGEANKLKCFRYRAKKRYGSLVKYYSTTWSWVGANTNDRIGRSRMLLAFNTYDERELFIQKM
+KLPPGVDWS--LGHLD-*
+>P1;gi|9627274|ref|NP_041755.1| early protein [Human papillomavirus ... [ score 127 E 7e-29 ] [ range 404 .. 476 ]
+sequence
+------LVRGDPNTLRCFRNRAKQKFTGLYRAFSTAWSWVAGDGTERLGRSRMLISFFSFNQRRDFDQTV
+KYPKGVDRS--------*
+>P1;gi|9628514|ref|NP_043391.1| regulatory protein E2 [Human papillo... [ score 127 E 9e-29 ] [ range 430 .. 502 ]
+sequence
+------LVRGEANTLKCFRNRAKIKYMGLYRSFSTTWSWVAGDGTERLGRPRMLISFSSYNQRRDFDDVV
+RYPKGVEKS--------*
+>P1;gi|9628482|ref|NP_043363.1| regulatory protein E2 [Human papillo... [ score 126 E 1e-28 ] [ range 352 .. 424 ]
+sequence
+------LLRGGANTLKCYRYRFRKKHAGKFYYVSTTWSWIGGHSTDRVGRARMLIAFHSNHEREKCIQEM
+KLPLGVDWS--------*
+>P1;gi|9627141|ref|NP_041361.1| ORF E2 [Human papillomavirus type 47... [ score 125 E 2e-28 ] [ range 427 .. 504 ]
+sequence
+------LVRGDANTLKCFRNRARNKYRGLFRSFSTTFSWVAGDSIERLGRSRMLISFSCLTQRRDFDDAV
+KYPKGVEWS--YGSLD-*
+>P1;gi|9627401|ref|NP_041864.1| early protein [Human papillomavirus ... [ score 125 E 2e-28 ] [ range 380 .. 454 ]
+sequence
+----LMLLRGDANVLKCYRFRERKKKRGLVKYYSTTWSWVGEDSCDRVGRARMILAFDTYEHRQQFIRTM
+KLPPTVDWS--------*
+>P1;gi|9627490|ref|NP_042017.1| E2 protein [Multimammate rat papillo... [ score 125 E 3e-28 ] [ range 459 .. 534 ]
+sequence
+--ACLLIIKGSSNQVKCLRFRLKSWHHSLFSYISTTWQWVPSVGSNRIGRSRILVMCEDSAQMDRFLCTV
+KIPAGMTV---------*
+>P1;gi|9628490|ref|NP_043370.1| regulatory protein E2 [Human papillo... [ score 125 E 3e-28 ] [ range 388 .. 460 ]
+sequence
+------LLRGGANTLKCFRNRAKLRYRGHYKAFSTSWSWVAADGTERLGRSRLLVSFTSFKQRSGFLDLV
+RFPKGVDWS--------*
+>P1;gi|30315621|ref|NP_847993.1| E2 [Human papillomavirus RTRX7] >gi... [ score 124 E 4e-28 ] [ range 432 .. 504 ]
+sequence
+------LCKGGANTLKCFRNRTRGKYTGLFRAISTTWSWVAGDSTERLGRPRMLISFSSDGQRKHFDETV
+KYPKGVETS--------*
+>P1;gi|30315798|ref|NP_848022.1| E2 protein [Feline papillomavirus] ... [ score 124 E 6e-28 ] [ range 300 .. 379 ]
+sequence
+----LLVLKGDPNSLKCVRYRLKGKYSSLFCWVSTTWSWTASTGTARWGGARMILTFKDLEQREVFVKTV
+KLPKSVQF--FRGSFD-*
+>P1;gi|9628474|ref|NP_043356.1| regulatory protein E2 [Human papillo... [ score 123 E 1e-27 ] [ range 357 .. 429 ]
+sequence
+------LLRGAANTLKCYRYRFRKKHAGSFQFISTTWSWVGGHTTDRIGRSRILISFHTDREREKCLQQM
+KLPLGVEWS--------*
+>P1;gi|9627069|ref|NP_041296.1| regulatory protein [Deer papillomavi... [ score 121 E 3e-27 ] [ range 335 .. 416 ]
+sequence
+-----LLISGTGNQVKCYSFRVKRWHRDKYHHCTTTWWAVGEQGSERPGDATVIVTFKDQSQRSMFLQQV
+PLPPGMSAHGVTMTVDF*
+>P1;gi|9627295|ref|NP_041773.1| early protein [Human papillomavirus ... [ score 121 E 5e-27 ] [ range 414 .. 486 ]
+sequence
+------LVRGEPNTLRSFRNRAKHMYRGLFSSFSTAWSWVAGDGIERLGRTRMLISFVSFNQRKHFDDTV
+RYPKGVDRS--------*
+>P1;gi|480857|pir||S37444 gene E2 protein - human papillomavirus typ... [ score 120 E 7e-27 ] [ range 20 .. 90 ]
+sequence
+------IVKGAANTLKCFRNRAKIKYTGLFRSFSTTWSWVAGDGTERLGRPRMLISFSSYTQRRDFDEAV
+RYPKGVD----------*
+>P1;gi|480854|pir||S37441 gene E2 protein - human papillomavirus typ... [ score 120 E 1e-26 ] [ range 20 .. 90 ]
+sequence
+------IVKGAANTLKCFRNRAKITYKGLFRSFSTTWSWVAGDGTERLGRPRMLISFSSYTQRRDFDEAV
+RYPKGVD----------*
+>P1;gi|9627080|ref|NP_041306.1| regulatory protein [European elk pap... [ score 119 E 1e-26 ] [ range 334 .. 415 ]
+sequence
+-----LILSGNGNQAKCYRFRCKRYFREHYQHITTTWWTVGERGSERHGDACVLVTFKDSSQRGVFLKRV
+PLPPGMRAQALTMIADF*
+>P1;gi|9635137|ref|NP_057844.1| regulatory protein E2 [rabbit oral p... [ score 118 E 4e-26 ] [ range 336 .. 406 ]
+sequence
+-------LKGGNNQLKCLRYRLKAKHRTLFDCISTTWSWVDNSSTCRVGSGRVLIKFKDEAQRERFLEEV
+PIPRHMQV---------*
+>P1;gi|9627302|ref|NP_041779.1| early protein [Human papillomavirus ... [ score 118 E 4e-26 ] [ range 423 .. 495 ]
+sequence
+------LVRGDANTLRSFRNRAKHMYTGLFSSFSTAWSWVAGDGIERLGRSRMLISFISNSQRKHFDDAV
+RYPKGVDRS--------*
+>P1;gi|9627331|ref|NP_041804.1| early protein [Human papillomavirus ... [ score 117 E 5e-26 ] [ range 313 .. 393 ]
+sequence
+-------LQGDPNCLKCLRWRLKKNCSHLFTQVSSTWHLTEKDYTRDSKDGIITIHYYNEEQRDKFLSTV
+KLPPGISCIGYMSMLQF*
+>P1;gi|9627149|ref|NP_041368.1| regulatory protein [Human papillomav... [ score 116 E 1e-25 ] [ range 435 .. 505 ]
+sequence
+------IVKGAANTLKNVRNRAKIKYMGLFRSFSTTWSWVAGDGTERLGRPRMLISFSSYTQRRDFDEAV
+RYPKGVD----------*
+>P1;gi|333536|gb|AAA66871.1| E2 [ score 115 E 2e-25 ] [ range 188 .. 258 ]
+sequence
+-------LKGGNNQLKCLRYRLKAKHRTLFDCISTTWSWVDNSSTCRVGSGRVLIKFKDEAQREKVLEEV
+PIPRHMQV---------*
+>P1;gi|13186228|ref|NP_077109.1| E2 [Cottontail rabbit papillomaviru... [ score 115 E 3e-25 ] [ range 312 .. 382 ]
+sequence
+-------LKGGHNQLKCLRYRLKSKHSSLFDCISTTWSWVDTTSTCRLGSGRMLIKFADSEQRDKFLSRV
+PLPSTTQV---------*
+>P1;gi|137681|sp|P27223|VE2_HPV42 Regulatory protein E2 >gi|73409|pi... [ score 115 E 3e-25 ] [ range 317 .. 397 ]
+sequence
+-------LQGDPNCLKCLRFRLKRNCSHLFTQVSSTWHLTENDCTRDTKTGIITIHYYDEAQRNLFLNTV
+KIPSGISCIGYMSMLQF*
+>P1;gi|9625950|ref|NP_040197.1| E2 [Human papillomavirus type 13] >g... [ score 114 E 4e-25 ] [ range 299 .. 375 ]
+sequence
+-------LQGDSNCLKCFRYRLHEKYKDLFLLASSTWHWTAPNNSQK--HALVTLTYVNEQQRQDFLKTV
+KIPPTITHKLGFMSLQ-*
+>P1;gi|9627738|ref|NP_056816.1| early protein [Canine oral papilloma... [ score 113 E 1e-24 ] [ range 302 .. 383 ]
+sequence
+-----LVLAGDPNSLKCIRYRLSHKHRGLYLGASTTWKWTGGDGASKHGSARMLLAFLSDQQREDFMDRV
+TFPKSVRV--FRGGLD-*
+>P1;gi|27531781|ref|NP_775315.1| putative regulatory protein E2 [Hum... [ score 113 E 1e-24 ] [ range 303 .. 379 ]
+sequence
+-------LQGDPNCLKCFRYRLHDKHKHLFLSASSTWHWTSPTIPTK--HALVTLTYANEQQRQQFLDTV
+RLPTTISYKLGYMSLQ-*
+>P1;gi|9628562|ref|NP_043433.1| regulatory protein E2 [Human papillo... [ score 112 E 1e-24 ] [ range 300 .. 376 ]
+sequence
+-------LQGDPNCLKCLRYRLHAKHKTLFVAASSTWRWTCSDTSSK--HALVTLTYVNEEQREQFLNTV
+RLPPTVTYKVGYMSLQ-*
+>P1;gi|9633486|ref|NP_050589.1| E2 [Human papillomavirus type 6] >gi... [ score 111 E 4e-24 ] [ range 291 .. 365 ]
+sequence
+--------QGESNCLKCFRYRLNDKHRHLFDLISSTWHWASSKAPHK--HAIVTVTYHSEEQRQQFLNVV
+KIPPTIRHKGFMSM---*
+>P1;gi|9627094|ref|NP_041319.1| regulatory protein [Human papillomav... [ score 110 E 6e-24 ] [ range 289 .. 356 ]
+sequence
+-------LQGDSNCLKCFRYRLNDKYKHLFELASSTWHWASPEAPHK--NAIVTLTYSSEEQRQQFLNSV
+KIPPTIR----------*
+>P1;gi|9628538|ref|NP_043412.1| regulatory protein E2 [Human papillo... [ score 110 E 7e-24 ] [ range 300 .. 375 ]
+sequence
+-------LQGDANCLKCLRYRLHAKYKTLFVAASSTWRWTCSDTS---SNALVTLTYVDEQQRQQFLNTV
+KLPPKVTYKVGYMSLQ-*
+>P1;gi|3915902|sp|P03118|VE2_HPV1A Regulatory protein E2 [ score 110 E 8e-24 ] [ range 323 .. 393 ]
+sequence
+-------VKGGANQLKCLRYRLKASTQVDFDSISTTWHWTDRKNTERIGSARMLVKFIDEAQREKFLERV
+ALPRSVSV---------*
+>P1;gi|33330949|gb|AAQ10723.1| putative regulatory protein E2 [Human... [ score 109 E 1e-23 ] [ range 291 .. 364 ]
+sequence
+-------LKGDANTLKCLRYRFKKHCK-LYTAVSSTWHWTGH--NVKHKSAIVTLTYDSECQREQFLSQV
+KIPKTITVSTGFMS---*
+>P1;gi|9626057|ref|NP_040299.1| regulatory protein E2 [Human papillo... [ score 109 E 2e-23 ] [ range 291 .. 357 ]
+sequence
+--------QGESNCLKCFRYRLNDRHRHLFDLISSTWHWASSKAPHK--HAIVTVTYDSEEQRQQFLDVV
+KIPPTIS----------*
+>P1;gi|267291|sp|Q02264|VE2_PCPV1 Regulatory protein E2 >gi|319967|p... [ score 108 E 4e-23 ] [ range 299 .. 375 ]
+sequence
+-------LQGDSNNLKCFRYRLHDKYKHLFMLASSTWHWTASSNSTK--NAIVTLTYVNEQQRQDFLNTV
+KIPATIKHTLGFMSFQ-*
+>P1;gi|41057742|ref|NP_958342.1| E2 protein [Human papillomavirus ty... [ score 107 E 5e-23 ] [ range 301 .. 376 ]
+sequence
+-------LRGDANKLKCLRYRLRSSVPHLFVNASSTWHWTCGEATQK--CAFVTIWYANEDQRAKFLQRV
+TIPKGIQMQGFMSM---*
+>P1;gi|4106770|gb|AAD03827.1| regulatory protein E2 [Human papilloma... [ score 107 E 5e-23 ] [ range 291 .. 364 ]
+sequence
+-------LKGDANTLKCLRYRFKK-HCTLYTAVSSTWHWTGH--NVKHKSAIVTLTYDSEWQRDQFLCQV
+KIPKTITVSTGFMS---*
+>P1;gi|23217018|ref|NP_694433.1| putative regulatory protein E2 [Bov... [ score 105 E 2e-22 ] [ range 330 .. 409 ]
+sequence
+------LIEGNGNKVKCLRFRLKKSHRSRFLDITTTFWATGDEGSDRQGNGTILITFTDTTQRDLFLGSV
+SIPGELSVRRITISTD-*
+>P1;gi|29823076|ref|NP_821163.1| putative regulatory protein E2 [Bov... [ score 104 E 5e-22 ] [ range 329 .. 406 ]
+sequence
+-----LLLQGAANTLKCFRRRATQAHPHKFLCMSTSWTWVSKTSPLKSG-HRMLIAFSNSEQRNCFLASV
+RLPKGV--SAVKGALD-*
+>P1;gi|9628578|ref|NP_043447.1| regulatory protein E2 [Human papillo... [ score 104 E 6e-22 ] [ range 305 .. 379 ]
+sequence
+-------LKGDPNKLKCFRYRLQHSVPELFDKASSTWHWAGGQSTTRA--AFVTLWYVNVEQRKQFLNRV
+TIPKGIQATAGYMS---*
+>P1;gi|9627316|ref|NP_041791.1| early protein [Human papillomavirus ... [ score 103 E 9e-22 ] [ range 312 .. 377 ]
+sequence
+-------LRGDANCLKCFRYRVQKHKDKLYDRVSSTWHWAGGKCDK---TAFVTVWYTSVEQRKEFLTRV
+NIPKGV-----------*
+>P1;gi|41057753|ref|NP_958352.1| E2 protein [Human papillomavirus ty... [ score 103 E 1e-21 ] [ range 303 .. 378 ]
+sequence
+-------LRGDPNCLKCFRYRLHHGKRKLYSRSTSTWRWSCESENQ---AAFVTIWYTSEAQRAEFLNVV
+KVPPGIQVIGYMSIF--*
+>P1;gi|13186279|ref|NP_077119.1| early protein E2 [Human papillomavi... [ score 102 E 2e-21 ] [ range 315 .. 390 ]
+sequence
+-------LRGDANCLKCFRYRVQKHKDVLYARVSSTWHWAGGNGDK---TAFVTLWYTSVEQRTEFLTRV
+SIPKGIALPGYMSAF--*
+>P1;gi|9628554|ref|NP_043426.1| regulatory protein E2 [Human papillo... [ score 102 E 2e-21 ] [ range 316 .. 394 ]
+sequence
+-----LIITGQQNNLKCWRYRFSQKYADLYECCSSAWKWLGPKSEGYRGDAKLLIAFKNPEQRLSFLNTV
+GLPKNTTYS--MGHLD-*
+>P1;gi|2911562|emb|CAA75466.1| E2 protein [Human papillomavirus type... [ score 102 E 2e-21 ] [ range 297 .. 371 ]
+sequence
+-------LRGDPNSLKCFRYRLKNGKKDLYCRASSTWRWSCEPENQ---AAFVTIWYTSYTQRDEFLATV
+KIPPNMQAILGHMSV--*
+>P1;gi|9626037|ref|NP_040281.1| ORF E2 [Human papillomavirus type 57... [ score 101 E 3e-21 ] [ range 307 .. 372 ]
+sequence
+-------LQGEANCLKCFRYRVQKHKDVLFVKASSTWHWACGNGDK---TAFVTLWYKSQEQRAEFLTRV
+HLPKGV-----------*
+>P1;gi|9626609|ref|NP_040899.1| putative E2 ORF [Human papillomaviru... [ score 100 E 6e-21 ] [ range 320 .. 380 ]
+sequence
+-------LKGGPNQLKCLRYRIKASNSSDFESISTTWHWVHNKCTDRVGHARMLVRFISTEQRDRFLD--
+-----------------*
+>P1;gi|30315643|ref|NP_848000.1| putative regulatory protein E2 [Hum... [ score 100 E 6e-21 ] [ range 303 .. 377 ]
+sequence
+-------LKGDKNRLKCLRYRLQKFHN-LYTQISCTWHWIGGKETTRTG--ILTLAYANETQRQKFLDVV
+KIPNTVNVSLGYMTL--*
+>P1;gi|9627345|ref|NP_041816.1| envelope protein [Human papillomavir... [ score 100 E 9e-21 ] [ range 307 .. 374 ]
+sequence
+-------LRGDPNCLKCFRYRLNKGKNKLYSRTSSTWRWSCESENQ---CAYVTIWYTSYGQREAFLSTV
+KVPPGIQV---------*
+>P1;gi|41057201|ref|NP_958335.1| E2 protein [Bovine papillomavirus t... [ score 97 E 9e-20 ] [ range 356 .. 427 ]
+sequence
+-----LLLQGCANTLKCFRRRTSHAHPHKFLCMSTSWTWSCKTTTHKS-CHRMLVAFSDYEQRRCFLAGV
+KLPKGVTC---------*
+>P1;gi|9632561|ref|NP_049554.1| transactivator [Human papillomavirus... [ score 97 E 1e-19 ] [ range 303 .. 378 ]
+sequence
+-------LQGEPNKLKCFRYRLHKSVPTLFVRATSTWHWTSGDAATKA--AFVTLCYASIEQRELFLTRV
+TIPKGIKMQGYMSM---*
+>P1;gi|15789199|ref|NP_277081.1| putative regulatory protein E2 [Hum... [ score 97 E 1e-19 ] [ range 297 .. 371 ]
+sequence
+-------LKGDPNRLKCLRYRLQQSVPQLFERASSTWRWTCGGSEDK--QSFVTLWYRDTEQRQQFLARV
+NIPKGIVVTQGIMS---*
+>P1;gi|1491687|emb|CAA63876.1| E2 [Human papillomavirus type 72] [ score 96 E 1e-19 ] [ range 307 .. 381 ]
+sequence
+-------LKGEPNKLKCFRYRLQQSVPNLFLKASSTWHWACGGDTTK--CAFVTLWYVDTDQRTQFLSRV
+NIPKGIQATAGYMS---*
+>P1;gi|22138118|ref|NP_671499.1| putative regulatory protein E2 [Hum... [ score 96 E 1e-19 ] [ range 300 .. 376 ]
+sequence
+-------LQGEANKLKCFRYRLKQTVPDLYLRASSTWHWACGGPTTKAT--FVTLWYSSAEQRAQFLARV
+HIPKGIQMQGHMSMF--*
+>P1;gi|23216980|ref|NP_694448.1| putative regulatory protein E2 [Bov... [ score 96 E 2e-19 ] [ range 335 .. 412 ]
+sequence
+-----LLLQGCANTLKSFRRRTTQSYPHTFLCMSTSWTWASKTCTVKSG-HRMLVAFVNSEQRTLFLATV
+KIPKGVTC--LKGSFD-*
+>P1;gi|19343449|ref|NP_597936.1| regulatory protein E2 [Human papill... [ score 95 E 5e-19 ] [ range 205 .. 282 ]
+sequence
+-------LRGEANKLKCLRYRLQKHKSVLFAKASSTWHWATGTEDNTCKTTFVTLWHDSVEQRAQFLATV
+HIPKGIEALPGYMSL--*
+>P1;gi|22138126|ref|NP_671506.1| putative regulatory protein E2 [Hum... [ score 94 E 9e-19 ] [ range 301 .. 379 ]
+sequence
+-------LRGDPNKLKCLRYRLHKHKSVLFSKVTSTWRWSTCSNTTNEKSAFVTLWHDSAEQRATFLSTI
+TLPKDIEVLGYMTML--*
+>P1;gi|14485277|ref|NP_071700.2| putative E2 protein [Human papillom... [ score 93 E 1e-18 ] [ range 298 .. 372 ]
+sequence
+-------LKGDPNRLKCFRYRLQQSVPQLFDKASSTWRWTCGGTDEKY--SFVTLWYKDTEQRKQFLARV
+NIPKGIVATQGHMS---*
+>P1;gi|18138519|ref|NP_542618.1| E2 protein [Phocoena spinipinnis pa... [ score 90 E 1e-17 ] [ range 336 .. 407 ]
+sequence
+-----LLISGGPNQVKCLRYRLRRHHRKAYRSCSTTWSWIGDD-LQDHTEHRICLSFYSEAQRVNFQKTV
+RLPKGVRV---------*
+>P1;gi|9628546|ref|NP_043419.1| regulatory protein E2 [Human papillo... [ score 90 E 1e-17 ] [ range 317 .. 389 ]
+sequence
+----LVLFTGQQNNLKCWRNRCTTKYASLFLCFSSVWKWLGPNSDG--GAAKVLVAFKSDAQRQVFLNTV
+HIPKGTTIT--------*
+>P1;gi|9627324|ref|NP_041798.1| early protein [Human papillomavirus ... [ score 89 E 2e-17 ] [ range 303 .. 377 ]
+sequence
+-------LKGEPNRLKCLRYRCQK-HKHLFVNISSTYHWT----NTHTEYSYITVVYKDETQRANFLNVV
+KIPPSIKVMGHMTGVD-*
+>P1;gi|13128945|ref|NP_077034.1| putative regulatory protein E2 [Hum... [ score 89 E 2e-17 ] [ range 300 .. 374 ]
+sequence
+-------LKGQSNSLKCFRYRLHQSVPDLFERASSTWKWTC--GGEGDKTSYVTLWYKSTDQRKQLLARV
+HIPKGIVATLGSMS---*
+>P1;gi|9626617|ref|NP_040906.1| putative E2 ORF [Human papillomaviru... [ score 86 E 2e-16 ] [ range 324 .. 390 ]
+sequence
+----MILLKGTANSLKCWRYRKQNSSNCGFLFMSTVWNWVGDVS---ENHSRMLIAFKSPGQRDSFVKHN
+LFPK-------------*
+>P1;gi|9628570|ref|NP_043440.1| regulatory protein E2 [Human papillo... [ score 84 E 6e-16 ] [ range 325 .. 400 ]
+sequence
+----ILLIKGLANSLKCWRYRLKK-YTRYFKCMSTVFRWV-DIDVPESSRHKLLVVFNDTTQRDVFMKLV
+TLPRGCTYTFGT-----*
+>P1;gi|9627261|ref|NP_041744.1| envelope protein [Human papillomavir... [ score 84 E 7e-16 ] [ range 301 .. 376 ]
+sequence
+-------LRGDPNSLKCFRYRLHHGKRKLYSRSSSTWRWSCESENQ---AAFVTLWYTSDTQRTEFLNVV
+KVPPGIQVIGYMSIF--*
+>P1;gi|9626601|ref|NP_040892.1| putative E2 ORF [Human papillomaviru... [ score 81 E 6e-15 ] [ range 324 .. 390 ]
+sequence
+----MILLKGTANSLKCWRYRKVNSNCCNFLFMSTVWNWVGD---CSHNHSRMLIAFDSTDQRDAFVKHN
+LFPK-------------*
+>P1;gi|319966|pir||W2WL41 E2 protein - human papillomavirus type 41 [ score 78 E 5e-14 ] [ range 307 .. 374 ]
+sequence
+--------KGPVNSLRCLRYKWKNKYSGDIMYLGTTFTWTESDGTERCGSGRFFCAFSNETKREKFLKSV
+KIPKNI-----------*
+>P1;gi|40804524|emb|CAF05705.1| E2 protein [Human papillomavirus typ... [ score 77 E 1e-13 ] [ range 323 .. 389 ]
+sequence
+----MIMLKGHANSLKCWRYRKLTSNSCGFLYMSTVWNWVGDSS---ENHSRMLIAFTSTDQRDYFVKHH
+FFPR-------------*
+>P1;gi|21326233|ref|NP_647588.1| E2 [Psittacus erithacus papillomavi... [ score 55 E 6e-07 ] [ range 298 .. 364 ]
+sequence
+---CFV---GRTGQLKTIRYRVQTGPYN-VTRISTTWHWIGD--GEHL--SRMIILFNDSHQREVFARAF
+RVVSGVRV---------*
+>P1;gi|21844539|ref|NP_663765.1| putative regulatory protein E2 [Fri... [ score 48 E 5e-05 ] [ range 324 .. 380 ]
+sequence
+---CF---EGYTHQVKTIRRRL---YATRYQRVSSTWHWVGEDKN----RSKIIVLFDSKEDRDNFAK--
+-----------------*

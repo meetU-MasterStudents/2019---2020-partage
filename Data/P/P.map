@@ -1,0 +1,258 @@
+>P1;1ps2
+structureX:1ps2:   1 : :  60 : :ps2 protein:Homo sapiens: -1: -1
+EAQT-ETC-TVAPRERQNCGFPGVTPSQCANKGCCFDDTVRGVPWCFYPNTIDVPPEEESEF*
+>P1;2pspa2
+structureX:2psp:   2 :A:  50 :A:pancreatic spasmolytic polypeptide:Sus scrofa: 1.95: 19.8
+-KPAACRCSRQDPKNRVNCGFPGITSDQCFTSGCCFDSQVPGVPWCFKPL------------*
+>P1;2pspa1
+structureX:2psp:  51 :A: 106 :A:pancreatic spasmolytic polypeptide:Sus scrofa: 1.95: 19.8
+PAQESEEC-VMQVSARKNCGYPGISPEDCAARNCCFSDTIPEVPWCFFPMSVEDCHY-----*
+>P1;gi|30144609|gb|AAP14905.1| trefoil factor 1 [Canis familiaris] [ score 99 E 3e-20 ] [ range 22 .. 81 ]
+sequence
+QGQQ-ETC-TVAPHHRDNCGSPGITPSQCKDKGCCFDNTVRGVPWCYYPVAVDNPPEEECPF*
+>P1;gi|6678307|ref|NP_033388.1| trefoil factor 1 [Mus musculus] >gi|... [ score 99 E 3e-20 ] [ range 28 .. 87 ]
+sequence
+QAQE-ETC-IMAPRERINCGFPGVTAQQCTERGCCFDDSVRGFPWCFHPMAIENTQEEECPF*
+>P1;gi|16923980|ref|NP_476470.1| trefoil factor 1 [Rattus norvegicus... [ score 96 E 3e-19 ] [ range 22 .. 81 ]
+sequence
+QNQE-ETC-AVIPRERINCGFPGVTAQQCKEKGCCFDDSVRGFPWCFRPLVIENQQEEECPF*
+>P1;gi|19387208|gb|AAL87135.1| monomeric alpha-macroglobulin [Rana c... [ score 89 E 2e-17 ] [ range 1426 .. 1479 ]
+sequence
+-------C-NVRASERRDCGKPGITKEECEQNNCCYDTSVVNAKWCFFHNTIEAKEDHDS--*
+>P1;gi|1213321|gb|AAC52439.1| polypeptide P1.B >gi|1587066|prf||2205... [ score 80 E 1e-14 ] [ range 32 .. 81 ]
+sequence
+------QC-MVPANVRVDCGYPTVTSEQCNNRGCCFDSSIPNVPWCFKP-----LQETECTF*
+>P1;gi|30267903|gb|AAP21821.1| trefoil factor 3 [Canis familiaris] [ score 78 E 5e-14 ] [ range 29 .. 80 ]
+sequence
+---T-NLC-EVPPKDRVDCGYPEITSEQCVNRGCCFDSSIHGVPWCFKP-----LQDTECRF*
+>P1;gi|731172|sp|P17437|XP2_XENLA Skin secretory protein xP2 precurs... [ score 77 E 9e-14 ] [ range 347 .. 397 ] [ duplicate a ]
+sequence
+--KT-EDC-KGDPFKRTDCGYPGITEGQCKAKGCCFDSSIVGVKWCFFPRTARAQ-------*
+>P1;gi|585328|sp|Q07654|TFF3_HUMAN Trefoil factor 3 precursor (Intes... [ score 76 E 1e-13 ] [ range 29 .. 80 ]
+sequence
+---A-NQC-AVPAKDRVDCGYPHVTPKECNNRGCCFDSRIPGVPWCFKP-----LQEAECTF*
+>P1;gi|6981644|ref|NP_037174.1| trefoil factor 3; Trefoil factor (in... [ score 75 E 3e-13 ] [ range 32 .. 81 ]
+sequence
+------QC-MAPTNVRVDCNYPTVTSEQCNNRGCCFDSSIPNVPWCFKP-----LQETECTF*
+>P1;gi|134786|sp|P10667|MUA1_XENLA Integumentary mucin A.1 precursor... [ score 73 E 1e-12 ] [ range 18 .. 74 ] [ duplicate a ]
+sequence
+-GQA-QDC-SVAPNMRVNCGYPTVTEADCRAVGCCFDSSILNTKWCFYNATAGPIKKLEC--*
+>P1;gi|134786|sp|P10667|MUA1_XENLA Integumentary mucin A.1 precursor... [ score 73 E 1e-12 ] [ range 73 .. 112 ] [ duplicate b ]
+sequence
+------EC-SGDPTKRIDCGFPRITEKQCILRGCCFDSSISGVKWCY---------------*
+>P1;gi|134786|sp|P10667|MUA1_XENLA Integumentary mucin A.1 precursor... [ score 73 E 1e-12 ] [ range 292 .. 353 ] [ duplicate d ]
+sequence
+ETTT-ETT-TAPAADRVDCGYSGITQADCEGKGCIFDSTIPETKWCFYTEAEAPARKAEC--*
+>P1;gi|6689643|emb|CAB65516.1| trefoil factor [Xenopus laevis] [ score 72 E 3e-12 ] [ range 119 .. 168 ] [ duplicate a ]
+sequence
+EAVE-RDC-SVDPKKRVNCGPPGVTPDECTNNGCCFSSEVDGVPWCFNPEI-----------*
+>P1;gi|6689643|emb|CAB65516.1| trefoil factor [Xenopus laevis] [ score 72 E 3e-12 ] [ range 174 .. 221 ] [ duplicate b ]
+sequence
+------QC-AVLPKARVNCGYPDITMDQCSKKGCCYDSSEPDTVWCFYPDIQDVT-------*
+>P1;gi|6689643|emb|CAB65516.1| trefoil factor [Xenopus laevis] [ score 72 E 3e-12 ] [ range 79 .. 124 ] [ duplicate c ]
+sequence
+-----------EPKARVNCGYPGISSQDCDSKGCCFNDAIPNVVWCYQPIIEAVERD-----*
+>P1;gi|586261|sp|Q00223|XP4_XENLA Putative gastrointestinal growth f... [ score 72 E 4e-12 ] [ range 119 .. 168 ] [ duplicate a ]
+sequence
+EAVE-RDC-SVEPKKRVNCGPPGVSPDECIKNGCCFNSDVGGVPWCFKPEI-----------*
+>P1;gi|586261|sp|Q00223|XP4_XENLA Putative gastrointestinal growth f... [ score 72 E 4e-12 ] [ range 79 .. 124 ] [ duplicate b ]
+sequence
+-----------EPKARVNCGYPGITSQDCDKKGCCFNDTIPNVVWCYQPIIEAVERD-----*
+>P1;gi|586261|sp|Q00223|XP4_XENLA Putative gastrointestinal growth f... [ score 72 E 4e-12 ] [ range 174 .. 221 ] [ duplicate c ]
+sequence
+------QC-AVLPKARINCGYPDITMDQCYKKGCCYDSSESDSIWCFYPDIEDVT-------*
+>P1;gi|586033|sp|P01359|TFF2_PIG Trefoil factor 2 precursor (Spasmol... [ score 71 E 6e-12 ] [ range 75 .. 123 ] [ duplicate a ]
+sequence
+--ES-EEC-VMEVSARKNCGYPGISPEDCARRNCCFSDTIPEVPWCFFPMSVE---------*
+>P1;gi|30267901|gb|AAP21820.1| trefoil factor 2 [Canis familiaris] [ score 71 E 9e-12 ] [ range 77 .. 121 ] [ duplicate a ]
+sequence
+--ES-EQC-VMEVAARKNCGYPGISPQECASRNCCFSDTIRNVPWCFFP-------------*
+>P1;gi|30267901|gb|AAP21820.1| trefoil factor 2 [Canis familiaris] [ score 71 E 9e-12 ] [ range 30 .. 79 ] [ duplicate b ]
+sequence
+------QC-SIEASHRKNCGFPGISASECFNTGCCFDSRVPNVPWCFHP-----LPKQESE-*
+>P1;gi|2833195|sp|Q03404|TFF2_MOUSE Trefoil factor 2 precursor (Spas... [ score 70 E 1e-11 ] [ range 77 .. 125 ] [ duplicate a ]
+sequence
+--ES-EQC-VMEVSARKNCGYPGISPEDCASRNCCFSNLIFEVPWCFFPQSVE---------*
+>P1;gi|2833195|sp|Q03404|TFF2_MOUSE Trefoil factor 2 precursor (Spas... [ score 70 E 1e-11 ] [ range 31 .. 81 ] [ duplicate b ]
+sequence
+-------C-SLTPHNRKNCGFPGITSEQCFDLGCCFDSSVAGVPWCFHP--LPNQESEQC--*
+>P1;gi|494454|pdb|1POS|A Chain A, Porcine Pancreatic Spasmolytic Pol... [ score 70 E 2e-11 ] [ range 54 .. 102 ] [ duplicate a ]
+sequence
+--ES-EEC-VMQVSARKNCGYPGISPEDCAARNCCFSDTIPEVPWCFFPMSVE---------*
+>P1;gi|585527|sp|Q05049|MUC1_XENLA Integumentary mucin C.1 (FIM-C.1)... [ score 69 E 3e-11 ] [ range 621 .. 660 ] [ duplicate a ]
+sequence
+-------C-SGPPTKRRDCGYPGISSSVCINRGCCWDNSVMNVPWCFY--------------*
+>P1;gi|585527|sp|Q05049|MUC1_XENLA Integumentary mucin C.1 (FIM-C.1)... [ score 69 E 3e-11 ] [ range 569 .. 618 ] [ duplicate c ]
+sequence
+--QV-ADC-KVAPSSRVDCGFGGITADQCRQRNCCFDSSISGTKWCFYSTSQGN--------*
+>P1;gi|585527|sp|Q05049|MUC1_XENLA Integumentary mucin C.1 (FIM-C.1)... [ score 69 E 3e-11 ] [ range 349 .. 393 ] [ duplicate d ]
+sequence
+-SQV-ADC-KVEPSQRVDCGFRGITADQCRQKNCCFDSSISGTKWCFY--------------*
+>P1;gi|106311|pir||S12371 spasmolytic protein 1 precursor - human (f... [ score 68 E 5e-11 ] [ range 78 .. 126 ] [ duplicate a ]
+sequence
+--ES-DQC-VMEVSDRRNCGYPGISPEECASRKCCFSNFIFEVPWCFFPNSVE---------*
+>P1;gi|106311|pir||S12371 spasmolytic protein 1 precursor - human (f... [ score 68 E 5e-11 ] [ range 31 .. 79 ] [ duplicate b ]
+sequence
+------QC-SLSPHNRTNCGFPGITSDQCFDNGCCFDSSVTGVPWCFHP-----LPKQES--*
+>P1;gi|16758702|ref|NP_446296.1| trefoil factor 2 [Rattus norvegicus... [ score 68 E 6e-11 ] [ range 78 .. 125 ] [ duplicate b ]
+sequence
+---S-EQC-VMEVSARENCGYPGISPEDCASRHCCFSNLIFEVPWCFFPQSVD---------*
+>P1;gi|4885629|ref|NP_005414.1| trefoil factor 2; spasmolytic protei... [ score 66 E 2e-10 ] [ range 77 .. 125 ] [ duplicate a ]
+sequence
+--ES-DQC-VMEVSDRRNCGYPGISPEECASRKCCFSNFIFEVPWCFFPKSVE---------*
+>P1;gi|40018606|ref|NP_954549.1| glucosidase, alpha; acid (Pompe dis... [ score 62 E 5e-09 ] [ range 77 .. 130 ]
+sequence
+-AVP-TQC-DVTPNSRFDCAPKGITQEQCEARGCCWNGPVMGQPWCFFP-------------*
+>P1;gi|27806889|ref|NP_776338.1| glucosidase, alpha; acid [Bos tauru... [ score 61 E 7e-09 ] [ range 69 .. 117 ]
+sequence
+------QC-DLPPNSRFDCAPKGITPQQCEARGCCYPDAQMGQPWCFFP-------------*
+>P1;gi|4503849|ref|NP_000143.1| acid alpha-glucosidase preproprotein... [ score 56 E 2e-07 ] [ range 77 .. 130 ]
+sequence
+-AVP-TQC-DVPPNSRFDCAPKAITQEQCEARGCCYQGAQMGQPWCFFP-------------*
+>P1;gi|28557114|dbj|BAC57563.1| alpha-glucosidase [Mortierella allia... [ score 56 E 2e-07 ] [ range 87 .. 133 ] [ duplicate a ]
+sequence
+ENKE-YAC-STDMAARRDRGFLGITDQQCRERNCCWDSTKLNAPYCF---------------*
+>P1;gi|21703286|gb|AAM76140.1| APEG-like protein [Boltenia villosa] [ score 54 E 6e-07 ] [ range 79 .. 128 ]
+sequence
+-----ELC-QKEAGSRVECGSIGINKDECEARGCCYDNSVENAKWCFNKQAEEIEE------*
+>P1;gi|5441263|dbj|BAA82359.1| HrEpiC [Halocynthia roretzi] [ score 52 E 4e-06 ] [ range 337 .. 387 ]
+sequence
+--QD-NQC-MVTPMNRVECGHPGITRQDCIRRGCCFDSSQSNTNWCY---------------*
+>P1;gi|29570505|gb|AAO91743.1| Hypothetical protein D2096.3 [Caenorh... [ score 51 E 1e-05 ] [ range 24 .. 68 ]
+sequence
+---------SVDVSKRVDCYPPGASQDACQSRGCIWSSSPVGTPWCYYP-------------*
+>P1;gi|26343965|dbj|BAC35639.1| unnamed protein product [Mus musculus] [ score 50 E 2e-05 ] [ range 81 .. 130 ]
+sequence
+------QC-DVPPSSRFDCAPKGISQEQCEARGCCYKEPQIGQPWCFFP-------------*
+>P1;gi|585100|sp|Q07287|ZPB_PIG Zona pellucida sperm-binding protein... [ score 46 E 2e-04 ] [ range 146 .. 196 ]
+sequence
+---------AVPVWDRLPCAPPPITQGECKQLGCCYNSE--EVPSCYYGNTVTSRCTQDGHF*
+>P1;gi|7514835|pir||T00206 epidermis-specific protein 1 - Ciona savi... [ score 46 E 2e-04 ] [ range 573 .. 611 ]
+sequence
+-------------NPRYECGFPGVTEFHCVARGCCWDNSPFRVPQCFQPN------------*
+>P1;gi|2281748|emb|CAA04220.1| eggshell protein [Salmo salar] [ score 46 E 2e-04 ] [ range 79 .. 129 ]
+sequence
+-----QTC-EVVDKDKVSCGLSGITAAQCQAISCCFDGRM-----CFYGKTVTVQCTKDGQF*
+>P1;gi|40548574|gb|AAR87394.1| zona pellucida protein beta [Salvelin... [ score 46 E 3e-04 ] [ range 149 .. 199 ]
+sequence
+-----QSC-DVEPQNKVHCGLPDITAAHCEAINCCFDGRM-----CFYGKAVTVQCTKDGQF*
+>P1;gi|18693231|dbj|BAA25890.2| acid alpha glucosidase [Coturnix jap... [ score 45 E 4e-04 ] [ range 23 .. 68 ]
+sequence
+-------C-SLPPDERFDCGPERLLAADCEARGCCYSGGSGGPPWCFFP-------------*
+>P1;gi|6778725|dbj|BAA90333.1| Epi-1 [Ciona intestinalis] [ score 44 E 8e-04 ] [ range 572 .. 616 ]
+sequence
+-------------NPRYECGFPGVTQFHCVARGCCWDNSPYRVPQCYQPNGPSNLE------*
+>P1;gi|16758702|ref|NP_446296.1| trefoil factor 2 [Rattus norvegicus... [ score 85 E 5e-16 ] [ range 25 .. 73 ]
+sequence
+-KPSPCRCSRMTPSNRKNCGFPGITSDQCFNLGCCFDSSVAGVPWCFHPL------------*
+>P1;gi|2833195|sp|Q03404|TFF2_MOUSE Trefoil factor 2 precursor (Spas... [ score 84 E 1e-15 ] [ range 25 .. 73 ]
+sequence
+-KPSPCRCSRLTPHNRKNCGFPGITSEQCFDLGCCFDSSVAGVPWCFHPL------------*
+>P1;gi|106311|pir||S12371 spasmolytic protein 1 precursor - human (f... [ score 82 E 3e-15 ] [ range 26 .. 74 ]
+sequence
+-KPSPCQCSRLSPHNRTNCGFPGITSDQCFDNGCCFDSSVTGVPWCFHPL------------*
+>P1;gi|30267901|gb|AAP21820.1| trefoil factor 2 [Canis familiaris] [ score 76 E 2e-13 ] [ range 25 .. 73 ]
+sequence
+-KPSACQCSRIEASHRKNCGFPGISASECFNTGCCFDSRVPNVPWCFHPL------------*
+>P1;gi|6689643|emb|CAB65516.1| trefoil factor [Xenopus laevis] [ score 71 E 6e-12 ] [ range 125 .. 166 ] [ duplicate a ]
+sequence
+-------CSAVDPKKRVNCGPPGVTPDECTNNGCCFSSEVDGVPWCFNP-------------*
+>P1;gi|586261|sp|Q00223|XP4_XENLA Putative gastrointestinal growth f... [ score 70 E 1e-11 ] [ range 125 .. 166 ] [ duplicate a ]
+sequence
+-------CSAVEPKKRVNCGPPGVSPDECIKNGCCFNSDVGGVPWCFKP-------------*
+>P1;gi|1213321|gb|AAC52439.1| polypeptide P1.B >gi|1587066|prf||2205... [ score 67 E 1e-10 ] [ range 29 .. 74 ]
+sequence
+---SPSQC--MVPANRVDCGYPTVTSEQCNNRGCCFDSSIPNVPWCFKPL------------*
+>P1;gi|1465737|gb|AAC52682.1| trefoil factor [ score 66 E 3e-10 ] [ range 29 .. 74 ]
+sequence
+---SPSQC-MVPANVRVDCGYPSVTSEQCNNRGCCFDSSIPNVPWCFKPL------------*
+>P1;gi|6981644|ref|NP_037174.1| trefoil factor 3; Trefoil factor (in... [ score 65 E 4e-10 ] [ range 29 .. 74 ]
+sequence
+---SPSQC--MAPTNRVDCNYPTVTSEQCNNRGCCFDSSIPNVPWCFKPL------------*
+>P1;gi|134786|sp|P10667|MUA1_XENLA Integumentary mucin A.1 precursor... [ score 60 E 1e-08 ] [ range 73 .. 112 ] [ duplicate a ]
+sequence
+------ECSG-DPTKRIDCGFPRITEKQCILRGCCFDSSISGVKWCY---------------*
+>P1;gi|3097290|dbj|BAA25884.1| acid alpha glucosidase [Coturnix japo... [ score 56 E 3e-07 ] [ range 75 .. 128 ]
+sequence
+----PAQCHLVPESHRYDC-YPEVTQELCESRGCCFIQTLPGVPWCFYP-------------*
+>P1;gi|27806889|ref|NP_776338.1| glucosidase, alpha; acid [Bos tauru... [ score 52 E 2e-06 ] [ range 64 .. 117 ]
+sequence
+-RAAPTQCD-LPPNSRFDCAPKGITPQQCEARGCCYDAQM-GQPWCFFP-------------*
+>P1;gi|31982355|ref|NP_032090.2| glucosidase, alpha, acid [Mus muscu... [ score 51 E 1e-05 ] [ range 76 .. 130 ]
+sequence
+-KEAPTQCD-VPPSSRFDCAPKGISQEQCEARGCCY---VPGQPWCFFP-------------*
+>P1;gi|5441263|dbj|BAA82359.1| HrEpiC [Halocynthia roretzi] [ score 49 E 4e-05 ] [ range 340 .. 387 ]
+sequence
+------QCMPVTPMNRVECGHPGITRQDCIRRGCCFDSSQSNTNWCY---------------*
+>P1;gi|21703286|gb|AAM76140.1| APEG-like protein [Boltenia villosa] [ score 47 E 1e-04 ] [ range 81 .. 120 ]
+sequence
+-------CQK-EAGSRVECGSIGINKDECEARGCCYDNSVENAKWCFN--------------*
+>P1;gi|2833195|sp|Q03404|TFF2_MOUSE Trefoil factor 2 precursor (Spas... [ score 85 E 4e-16 ] [ range 74 .. 129 ] [ duplicate a ]
+sequence
+PNQESEQC-VMEVSARKNCGYPGISPEDCASRNCCFSNLIFEVPWCFFPQSVEDCHY-----*
+>P1;gi|16758702|ref|NP_446296.1| trefoil factor 2 [Rattus norvegicus... [ score 83 E 1e-15 ] [ range 74 .. 129 ] [ duplicate a ]
+sequence
+PNQASEQC-VMEVSARENCGYPGISPEDCASRHCCFSNLIFEVPWCFFPQSVDDCHY-----*
+>P1;gi|586033|sp|P01359|TFF2_PIG Trefoil factor 2 precursor (Spasmol... [ score 83 E 1e-15 ] [ range 72 .. 127 ] [ duplicate a ]
+sequence
+PAQESEEC-VMEVSARKNCGYPGISPEDCARRNCCFSDTIPEVPWCFFPMSVEDCHY-----*
+>P1;gi|106311|pir||S12371 spasmolytic protein 1 precursor - human (f... [ score 82 E 3e-15 ] [ range 75 .. 130 ] [ duplicate a ]
+sequence
+PKQESDQC-VMEVSDRRNCGYPGISPEECASRKCCFSNFIFEVPWCFFPNSVEDCHY-----*
+>P1;gi|30267901|gb|AAP21820.1| trefoil factor 2 [Canis familiaris] [ score 81 E 6e-15 ] [ range 74 .. 129 ] [ duplicate a ]
+sequence
+PKQESEQC-VMEVAARKNCGYPGISPQECASRNCCFSDTIRNVPWCFFPILNQDCHY-----*
+>P1;gi|585328|sp|Q07654|TFF3_HUMAN Trefoil factor 3 precursor (Intes... [ score 78 E 5e-14 ] [ range 29 .. 80 ]
+sequence
+----ANQC-AVPAKDRVDCGYPHVTPKECNNRGCCFDSRIPGVPWCFKPLQEAECTF-----*
+>P1;gi|4507451|ref|NP_003216.1| trefoil factor 1 (breast cancer, est... [ score 75 E 4e-13 ] [ range 27 .. 75 ]
+sequence
+---QTETC-TVAPRERQNCGFPGVTPSQCANKGCCFDDTVRGVPWCFYPNTID---------*
+>P1;gi|6981644|ref|NP_037174.1| trefoil factor 3; Trefoil factor (in... [ score 74 E 8e-13 ] [ range 32 .. 81 ]
+sequence
+------QC-MAPTNVRVDCNYPTVTSEQCNNRGCCFDSSIPNVPWCFKPLQETECTF-----*
+>P1;gi|214927|gb|AAA50000.1| xP1 [ score 73 E 2e-12 ] [ range 29 .. 78 ]
+sequence
+----EEQC-SVERLARVNCGYSGITPQECTKQGCCFDSTIQDAPWCFYPRATPEC-------*
+>P1;gi|28557114|dbj|BAC57563.1| alpha-glucosidase [Mortierella allia... [ score 72 E 2e-12 ] [ range 44 .. 85 ] [ duplicate a ]
+sequence
+-----DDM-CSNVQTRKDCGYLGVDKDGCDQRQCCWAESKDPIPWCFQ--------------*
+>P1;gi|731172|sp|P17437|XP2_XENLA Skin secretory protein xP2 precurs... [ score 69 E 3e-11 ] [ range 391 .. 437 ] [ duplicate b ]
+sequence
+PRTARAQC-LFSPGDREDCGYSSITPMECMKRGCCFDASITGVKWCFH--------------*
+>P1;gi|585527|sp|Q05049|MUC1_XENLA Integumentary mucin C.1 (FIM-C.1)... [ score 66 E 2e-10 ] [ range 523 .. 573 ] [ duplicate a ]
+sequence
+----SGEC-KMEPSKRADCGYPGITESQCRSKGCCFDSSIPQTKWCFYSLQVADC-------*
+>P1;gi|585527|sp|Q05049|MUC1_XENLA Integumentary mucin C.1 (FIM-C.1)... [ score 66 E 2e-10 ] [ range 304 .. 354 ] [ duplicate b ]
+sequence
+----SGEC-KMEPSKREDCGYSGITESQCRTKGCCFDSSIPQTKWCFYTLQVADC-------*
+>P1;gi|134786|sp|P10667|MUA1_XENLA Integumentary mucin A.1 precursor... [ score 64 E 9e-10 ] [ range 347 .. 391 ] [ duplicate a ]
+sequence
+PARKAE-C-TVDPSVRTDCGYPGITDKECREKGCCYDECIPDVIWCF---------------*
+>P1;gi|586261|sp|Q00223|XP4_XENLA Putative gastrointestinal growth f... [ score 62 E 5e-09 ] [ range 27 .. 72 ] [ duplicate b ]
+sequence
+-------C-GVKPKSRDNCGPPGISPDECVKKGCCFDDSDPDSIWCYTPWKFED--------*
+>P1;gi|6689643|emb|CAB65516.1| trefoil factor [Xenopus laevis] [ score 60 E 1e-08 ] [ range 27 .. 71 ] [ duplicate d ]
+sequence
+-------C-GVQPKSRDNCGPPGISPDECVKKGCCFDVSDPDSIWCYTPWKLE---------*
+>P1;gi|31982355|ref|NP_032090.2| glucosidase, alpha, acid [Mus muscu... [ score 56 E 3e-07 ] [ range 75 .. 130 ]
+sequence
+PKEAPTQC-DVPPSSRFDCA-PGISQEQCEARGCCYKEPQIGQPWCFFP-------------*
+>P1;gi|27806889|ref|NP_776338.1| glucosidase, alpha; acid [Bos tauru... [ score 55 E 5e-07 ] [ range 63 .. 117 ]
+sequence
+PRAAPTQC-DLPPNSRFDCA-PGITPQQCEARGCCYPDAQMGQPWCFFP-------------*
+>P1;gi|40018606|ref|NP_954549.1| glucosidase, alpha; acid (Pompe dis... [ score 54 E 1e-06 ] [ range 81 .. 130 ]
+sequence
+------QC-DVTPNSRFDCA-PGITQEQCEARGCCWNGPVMGQPWCFFP-------------*
+>P1;gi|4503849|ref|NP_000143.1| acid alpha-glucosidase preproprotein... [ score 51 E 6e-06 ] [ range 81 .. 130 ]
+sequence
+------QC-DVPPNSRFDCA-PAITQEQCEARGCCYIPAKQGLPWCFFP-------------*
+>P1;gi|29570505|gb|AAO91743.1| Hypothetical protein D2096.3 [Caenorh... [ score 50 E 2e-05 ] [ range 18 .. 68 ]
+sequence
+--QNTNSQ-SVDVSKRVDC-YPGASQDACQSRGCIWSSSPVGTPWCYYP-------------*
+>P1;gi|5441263|dbj|BAA82359.1| HrEpiC [Halocynthia roretzi] [ score 48 E 5e-05 ] [ range 343 .. 388 ]
+sequence
+PVTPMNTC-N-PYGTRVECGHPGITRQDCIRRGCCFDSSQSNTNWCYQ--------------*
+>P1;gi|5441261|dbj|BAA82358.1| HrEpiC [Halocynthia roretzi] [ score 47 E 1e-04 ] [ range 349 .. 394 ]
+sequence
+PVTPMNTC-N-PYGTRVECGQPGITRQDCIRRGCCFDSSQSNMNWCYQ--------------*

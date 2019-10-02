@@ -1,0 +1,1968 @@
+>P1;1hvxa
+structureX:1hvx: 394 :A: 483 :A:Alpha amylase:Bacillus stearothermophilus: 2.00: 15.4
+YA-YGTQHDYLD---HSDIIGWTREGVTEKPGSGLAALITD----GPGGSKWMYVGKQHAGKVFYDLTGN
+RS---------DTVTINSDGWG-EFKVNGG---SVSVWVPR-----------*
+>P1;1vjs
+structureX:1vjs: 394 : : 482 : :Alpha amylase:Bacillus licheniformis: 1.7: 19.9STRUCTURE OF ALPHA-AMYLASE PRECURSOR:BACILLUS LICHENIFORMIS: -1: -1
+YA-YGAQHDYFD---HHDIVGWTREGDSSVANSGLAALITD----GPGGAKRMYVGRQNAGETWHDITGN
+RS---------EPVVINSEGWG-EFHVNGG---SVSIYVQ------------*
+>P1;2aaa
+structureX:2aaa: 382 : : 476 : :Acid alpha amylase:Aspergillus niger: 2.1: -1
+---YANDAFYTD----SNTIAMAKGTS---G-SQVITVLSNKGSSGSSYTLTLSGSGYTSGTKLIEAYTC
+-----------TSVTVDSSGDI-PVPMASG---LPRVLLP-ASVVDSSSLCG*
+>P1;7taa
+structureX:7taa: 382 : : 476 : :Taka amylase:Aspergillus oryzae: 1.98: 15.9
+---YKNWPIYKD----DTTIAMRKGTD---G-SQIVTILSNKGASGDSYTLSLSGAGYTAGQQLTEVIGC
+-----------TTVTVGSDGNV-PVPMAGG---LPRVLYP-TEKLAGSKICS*
+>P1;1gjwa
+structureX:1gjw: 573 :A: 636 :A:Maltodextrin glycosyltransferase:Thermotoga maritima: 2.1: 19.7
+---GKFENLTT-----KDLVMYSYEKNG----QKIVIAANVGK---EPKEITGG---------RVWNG--
+---------KWSDEE--------KVVLKPL---EFALVVQ------------*
+>P1;1smaa
+structureX:1sma: 506 :A: 588 :A:Maltogenic amylase:Thermus sp.: 2.80: 20.9
+---GDVAF-LTAD-DEVNHLVYAKTDG---N-ETVMIIINRSN---EAAEIPMPIDA-RG-KWLVNLLTG
+-----------ERFAAEA--ETLCVSLPPY---GFVLYAVES----W-----*
+>P1;1uok
+structureX:1uok: 480 : : 558 : :Oligo-1,6-glucosidase:Bacillus cereus: 2.0: 19.2
+---GSYDLILE---NNPSIFAYVRTYG---V-EKLLVIANFTA---EECIFELPE-DISY-SEVELLIHN
+-----------YDVENGP--I-ENITLRPY---EAMVFKLK-----------*
+>P1;1g5aa
+structureX:1g5a: 555 :A: 628 :A:Amylosucrase:Neisseria polysaccharea: 1.40: 18.9
+----RLVTFN---TNNKHIIGYIRN-------NALLAFGNFSE---YPQTVTAHTLQAMP-FKAHDLIGG
+-----------KTVSLN-----QDLTLQPY---QVMWLEIA-----------*
+>P1;1bvza
+structureX:1bvz: 503 :A: 585 :A:Alpha amylase II:Thermoactinomyces vulgaris R-47: 2.60: 19.6
+---GNVRSWHADK-QA-NLYAFVRTVQ---D-QHVGVVLNNRG---EKQTVLLQVPESGG-KTWLDCLTG
+-----------EEVHGKQ--GQLKLTLRPY---QGMILWNGR----------*
+>P1;1ciu
+structureX:1ciu: 407 : : 495 : :Cyclodextrin glycosyltransferase:Thermoanaerobacterium thermosulfurigenes EM1: 2.3: -1
+---GTTQQRWI----NNDVYIYERKFG---N-NVALVAINRNLS--TSYNITGLYTALPA-GTYTDVLGG
+----LL---NGNSISVASDGSVTPFTLSAG---EVAVWQYVSS---------*
+>P1;1qhpa
+structureX:1qhp: 408 :A: 495 :A:Alpha amylase:Bacillus stearothermophilus: 1.70: 15.3
+---GTTTQRWI----NNDVYIYERKFF---N-DVVLVAINRNTQ--SSYSISGLQTALPN-GSYADYLSG
+----LL---GGNGISVS-NGSVASFTLAPG---AVSVWQYSTS---------*
+>P1;1pama
+structureX:1pam: 407 :A: 496 :A:Cyclodextrin glucanotransferase:Bacillus Sp. Strain 1011: 1.8: 16.1
+---GSTHERWI----NNDVIIYERKFG---N-NVAVVAINRNMN--TPASITGLVTSLPR-GSYNDVLGG
+----IL---NGNTLTVGAGGAASNFTLAPG---GTAVWQYTTD---A-----*
+>P1;1d3ca
+structureX:1d3c: 407 :A: 496 :A:Cyclodextrin glycosyltransferase:Bacillus circulans: 1.78: 22.0
+---GSTQERWI----NNDVLIYERKFG---S-NVAVVAVNRNLN--APASISGLVTSLPQ-GSYNDVLGG
+----LL---NGNTLSVGSGGAASNFTLAAG---GTAVWQYTAA---T-----*
+>P1;1cgt
+structureX:1cgt: 407 : : 494 : :Cyclodextrin glycosyltransferase:Bacillus circulans, strain 8: 2.0: 16.6
+---GSTQQRWI----NNDVYVYERKFG---K-SVAVVAVNRNLS--TSASITGLSTSLPT-GSYTDVLGG
+----VL---NGNNITST-NGSINNFTLAAG---ATAVWQYTTA---------*
+>P1;1cyg
+structureX:1cyg: 403 : : 491 : :Cyclodextrin glucanotransferase:Bacillus stearothermophilus: 2.5: 15.4
+---GDTEQRWI----NGDVYVYERQFG---K-DVVLVAVNRSSS--SNYSITGLFTALPA-GTYTDQLGG
+----LL---DGNTIQVGSNGSVNAFDLGPG---EVGVWAYSAT---------*
+>P1;1bag
+structureX:1bag: 348 : : 425 : :Alpha amylase:Bacillus subtilis: 2.5: 19.8
+---QPEELS-N-PNGNNQIFMNQR--G---S-H-GVVLANAGS---SSVSIN-TATKLPD-GRYDNKAG-
+----------AGSFQVN-DGKLT-GTINAR---SVAVLYPD-----------*
+>P1;1smd
+structureX:1smd: 404 : : 496 : :Amylase:Homo sapiens: 1.6: 18.4
+---QPFTNWYDNG---SNQVAFGR--G---NR--GFIVFNNDD---WTFSLT-LQTGLPA-GTYCDVISG
+DKIN--GNCTGIKIYVSDDGKA-HFSISNSAEDPFIAIH--AESKL------*
+>P1;1hx0a
+structureX:1hx0: 404 :A: 496 :A:Alpha amylase:Sus scrofa: 1.38: -1
+---QPFANWWDNG---SNQVAFGR--G---NR--GFIVFNNDD---WQLSST-LQTGLPG-GTYCDVISG
+DKVG--NSCTGIKVYVSSDGTA-QFSISNSAEDPFIAIH--AESKL------*
+>P1;1jae
+structureX:1jae: 379 : : 471 : :Alpha amylase:Tenebrio molitor: 1.65: 17.7
+G--TQVENWWSND---DNQIAFSR--G---SQ--GFVAFTNG----GDLNQN-LNTGLPA-GTYCDVISG
+ELSG--GSCTGKSVTVGDNGSA-DISLGSAEDDGVLAIH--VNAKL------*
+>P1;1g94a
+structureX:1g94: 355 :A: 448 :A:Alpha amylase:Pseudoalteromonas haloplanctis: 1.74: 15.6
+N--WAVTNWWDNT---NNQISFGR--G---SS--GHMAINKED---STLTAT-VQTDMAS-GQYCNVLKG
+ELSADAKSCSGEVITVNSDGTI-NLNIGAW---DAMAIH--KNAKLN-----*
+>P1;1avaa
+structureX:1ava: 347 :A: 403 :A:Alpha amylase 2:Hordeum vulgare: 1.9: 20.8
+HNESKLQIIEAD----ADLYLAEIDG-------KVIVKLGPRY-----------DVGNLIPGGFKVAAHG
+N--------------------------------DYAVWEKI-----------*
+>P1;gi|67380|pir||ALBSF alpha-amylase (EC 3.2.1.1) precursor - Bacil... [ score 162 E 2e-39 ] [ range 427 .. 516 ]
+sequence
+YA-YGTQHDYLD---HSDIIGWTREGVTEKPGSGLAALITD----GAGRSKWMYVGKQHAGKVFYDLTGN
+RS---------DTVTINSDGWG-EFKVNGG---SVSVWVPR-----------*
+>P1;gi|722279|gb|AAA63900.1| alpha-amylase [Bacillus sp. TS-23] [ score 158 E 2e-38 ] [ range 425 .. 514 ]
+sequence
+YA-YGTQRDYID---HQDIIGWTREGIDTKPNSGLAALITD----GPGGSKWMYVGKKHAGKVFYDLTGN
+RS---------DTVTINADGWG-EFKVNGG---SVSIWVAK-----------*
+>P1;gi|3445480|dbj|BAA32431.1| amylase [Bacillus sp.] [ score 157 E 6e-38 ] [ range 427 .. 516 ]
+sequence
+YA-YGTQHDYFD---HHDIIGWTREGDSSHPNSGLATIMSD----GPGGNKWMYVGKHKAGQVWRDITGN
+RS---------GTVTINADGWG-NFTVNGG---AVSVWVKQ-----------*
+>P1;gi|27903807|gb|AAO26743.1| hyperthermostable alpha-amylase [Baci... [ score 154 E 5e-37 ] [ range 423 .. 512 ]
+sequence
+YA-YGAQHDYFD---HHDIVGWTREGDSSVANSGLAALITD----GPGGTKRMYVGRQNAGETWHDITGN
+RS---------DSVVINAEGWG-EFHVNGG---SVSIYVQR-----------*
+>P1;gi|12655802|gb|AAK00598.1| alpha-amylase [Bacillus megaterium] [ score 153 E 8e-37 ] [ range 444 .. 533 ]
+sequence
+YA-YGTQRDYFD---HPDVIGWTREGDSVHANSGLATLISD----GPGGAKWMDVGKNNAGEIWYDITGN
+QT---------NTVTINKDGWG-QFQVSGG---SVSIYVQR-----------*
+>P1;gi|113762|sp|P19571|AMT6_BACS7 Glucan 1,4-alpha-maltohexaosidase... [ score 153 E 8e-37 ] [ range 429 .. 518 ]
+sequence
+YA-YGKQNDYLD---HHNIIGWTREGNTAHPNSGLATIMSD----GAGGSKWMFVGRNKAGQVWSDITGN
+RT---------GTVTINADGWG-NFSVNGG---SVSIWVNK-----------*
+>P1;gi|30021585|ref|NP_833216.1| Glucan 1,4-alpha-maltohexaosidase p... [ score 152 E 2e-36 ] [ range 424 .. 513 ]
+sequence
+FA-YGTQRDYFD---HPDVIGWTREGDSVHANSGLATLISD----GPGGAKWMDVGKNNAGEVWYDITGN
+QT---------NTVTINKDGWG-QFQVSGG---SVSIYVQQ-----------*
+>P1;gi|30263448|ref|NP_845825.1| alpha-amylase [Bacillus anthracis s... [ score 152 E 2e-36 ] [ range 424 .. 513 ]
+sequence
+FA-YGTQRDYLD---HPDVIGWTREGDSVHANSGLATLISD----GPGGSKWMDVGKNNAGEVWHDMTGN
+QT---------NTVTINKDGWG-QFHVSGG---SVSIYVQQ-----------*
+>P1;gi|113811|sp|P00692|AMY_BACAM Alpha-amylase precursor (1,4-alpha... [ score 151 E 3e-36 ] [ range 425 .. 514 ]
+sequence
+YA-YGPQHDYID---HPDVIGWTREGDSSAAKSGLAALITD----GPGGSKRMYAGLKNAGETWYDITGN
+RS---------DTVKIGSDGWG-EFHVNDG---SVSIYVQK-----------*
+>P1;gi|23136707|ref|ZP_00118423.1| COG0366: Glycosidases [Cytophaga ... [ score 150 E 5e-36 ] [ range 404 .. 493 ]
+sequence
+FA-YGYQRDYFD---HPNCVGWTREGKEDDDKTGCAVLLSN----GEDGFKHMEIGARHTGKTFYDYLGH
+VQ---------EEVHIAENGWA-EFKTKGG---SVSVWVQR-----------*
+>P1;gi|6006681|gb|AAF00567.1| raw starch digesting amylase precursor... [ score 149 E 1e-35 ] [ range 430 .. 519 ]
+sequence
+YA-YGTQRDYID---NPDVIGWTREGDSTKAKSGLATVITD----GPGGSKRMYVGTSNAGEIWYDLTGN
+RT---------DKITIGSDGYA-TFPVNGG---SVSVWVQQ-----------*
+>P1;gi|16874476|dbj|BAB71820.1| amylase [Bacillus sp. KSM-K38] [ score 149 E 1e-35 ] [ range 412 .. 499 ]
+sequence
+YA-YGTQHDYFD---HWDVVGWTREGSSSRPNSGLATIMSN----GPGGSKWMYVGRQNAGQTWTDLTGN
+NG---------ASVTINGDGWG-EFFTNGG---SVSVYV-------------*
+>P1;gi|38524267|emb|CAE75731.1| related to alpha-amylase [Neurospora... [ score 145 E 3e-34 ] [ range 428 .. 514 ]
+sequence
+YA-YGPQTDYFD---YPTCIGWVRHGTWDKKDK-CAVVMSN----AGEGWKWMFVGVECAGQQWTDVLEW
+RK---------EVVTIGENGWA-EFRCGGC---SVSVWV-------------*
+>P1;gi|98110|pir||S15713 alpha-amylase (EC 3.2.1.1) - Bacillus circu... [ score 144 E 5e-34 ] [ range 395 .. 480 ]
+sequence
+-A-YGEQEDYFD---HANTIGWVRRGVEEIEGSGCAVVISN----GDDGEKRMFIGEHRAGEVWVDLTKS
+CD---------DQITIEEDGWA-TFHVCGG---GVSVW--------------*
+>P1;gi|22536872|ref|NP_687723.1| alpha amylase family protein [Strep... [ score 143 E 6e-34 ] [ range 395 .. 483 ]
+sequence
+YV-FGKQVDYFT---HSNCIGWTCLGDEEH-NSCLAVVLTN----GDQGWKHMEVGEIYAGKTFVDYLGN
+CE---------QEVVIGDDGWG-DFLVESA---SISAWVPK-----------*
+>P1;gi|40744097|gb|EAA63277.1| hypothetical protein AN3309.2 [Asperg... [ score 142 E 3e-33 ] [ range 429 .. 516 ]
+sequence
+FA-YGEQQDYFD---APNCLGFIRYGNARHP-SGLACVMSN----DGPASKRMYVGPGRAGEEWTDLLRP
+QA---------PPVIIDHCGHG-LFPVEDL---SVSVWVP------------*
+>P1;gi|32410495|ref|XP_325728.1| hypothetical protein [Neurospora cr... [ score 141 E 3e-33 ] [ range 501 .. 592 ]
+sequence
+WA-YGTQYDYLD---HPHCVGFTRTGHSQSGGAGVACVMAN----WEHASKRMYVGVEHAGEVWTDVLKF
+CP---------GEVMIDESGWG-VFPVAAR---SVAVWVSR-----------*
+>P1;gi|45532191|ref|ZP_00183205.1| hypothetical protein Exigu144301 ... [ score 140 E 8e-33 ] [ range 395 .. 483 ]
+sequence
+-A-YGEQEDYMD---DAHCVGWVRRGVEEFPNSGCAVLLSN----ADMCEKRMFVGETRAGEEWFDYTNH
+QE---------EPVVIDEEGFG-VFPVPGG---GVSVFAPR-----------*
+>P1;gi|24379972|ref|NP_721927.1| intracellular alpha-amylase [Strept... [ score 140 E 9e-33 ] [ range 395 .. 483 ]
+sequence
+HV-YGSQEDYFD---YANCIGWTCLGDEEHPD-GVAVIISN----GEANCKRMNMGEFNRNKVFVDYLNN
+CT---------EEVILDDQGWG-DFPVQEA---SLSAWVNK-----------*
+>P1;gi|27901551|dbj|BAC55903.1| hypothetical protein [Aspergillus or... [ score 136 E 9e-32 ] [ range 427 .. 515 ]
+sequence
+YA-YGEQQDYFD---QANCIGEICTVTETRAHSGMGLHYEQ----RRGSRKRMYVGPKHANEQWTDIMQS
+HE---------SVVTIDASGYG-VFPVNGM---SVSVWV-------------*
+>P1;gi|15901236|ref|NP_345840.1| alpha-amylase [Streptococcus pneumo... [ score 136 E 1e-31 ] [ range 396 .. 479 ]
+sequence
+-A-YGEQNDYFD---HANCIGWVRSGAENQ--SPIAVLISN----DQENSKSMFVGQEWTNQTFVDLLGN
+HQ---------GQVTIDEEGYG-QFPVSAR---SVSVW--------------*
+>P1;gi|38105244|gb|EAA51692.1| hypothetical protein MG03287.4 [Magna... [ score 136 E 1e-31 ] [ range 404 .. 492 ]
+sequence
+YA-YGEQADYFD---YATCLGWVKYGTWDRP-YGCAVVISN----AGAGEKRMHVGEMHAGETWTDLLGW
+SD---------EEVVIGEDGFG-LFKCGQC---SVSVYVNK-----------*
+>P1;gi|24113303|ref|NP_707813.1| cytoplasmic alpha-amylase [Shigella... [ score 135 E 2e-31 ] [ range 405 .. 490 ]
+sequence
+FA-HGVQTLFFD---HPNCIAFIRSGTDEYP--GCVVVMSN----GDDGEKTIHLGENYGNKTWRDFLGN
+RQ---------ESVVTDENGEA-TFFCNGG---SVSVWV-------------*
+>P1;gi|44101768|gb|EAH13622.1| unknown [environmental sequence] [ score 135 E 2e-31 ] [ range 104 .. 189 ]
+sequence
+FA-HGVQTLFFD---HPNCIAFSRSGTDDDP--GCVVVLSN----GDDGEKTINLGANYGNKTWRDYLGN
+RE---------ESVVTDENGEA-TFYCNGG---SVSVWV-------------*
+>P1;gi|2760119|dbj|BAA24178.1| alpha-amylase precursor [Streptococcu... [ score 135 E 2e-31 ] [ range 395 .. 482 ]
+sequence
+-V-YGKEMNYFD---NPNCIGWSYLGDKEHPTS-LAVLINN----AHSTAKRMFVGKKWAGKTFTDYLGN
+QN---------STIVIDEEGYG-SFPVGAE---SVSAYIPQ-----------*
+>P1;gi|450849|gb|AAA97431.1| amylase [ score 134 E 5e-31 ] [ range 396 .. 482 ]
+sequence
+-V-YGQEMDYFD---QANCIGWTCLGDDEHPTA-LAGLINN----SKATSKRMFVGEKWACKLFTDALGN
+QA---------AHVQIDEQGYG-DFLVGEK---SVSAWIP------------*
+>P1;gi|16129874|ref|NP_416437.1| cytoplasmic alpha-amylase [Escheric... [ score 134 E 5e-31 ] [ range 405 .. 490 ]
+sequence
+FA-HGVQTLFFD---HPNCIAFSRSGTDEFP--GCVVVMSN----GDDGEKTIHLGENYGNKTWRDFLGN
+RQ---------ERVVTDENGEA-TFFCNGG---SVSVWV-------------*
+>P1;gi|44087499|gb|EAH05852.1| unknown [environmental sequence] [ score 133 E 1e-30 ] [ range 137 .. 222 ]
+sequence
+FA-HGIQTLWFD---HPNCIAFSRSGTDDDP--GCVVVLSN----GDDGEKTLALGANYGNKTWRDFLGN
+RS---------ESVVTDENGDA-TFYCNAG---SVSVWV-------------*
+>P1;gi|29350098|ref|NP_813601.1| alpha-amylase precursor [Bacteroide... [ score 133 E 1e-30 ] [ range 391 .. 480 ]
+sequence
+YA-YGDQIEYFD---HPSTIGFIRTGDEEHNGSGLVFLMSN----DEAGSKIMSLGEKHKGEVWHEITGS
+IS---------EEITLDEEGNG-EFSVESR---NLAVWVKK-----------*
+>P1;gi|16760907|ref|NP_456524.1| cytoplasmic alpha-amylase [Salmonel... [ score 131 E 3e-30 ] [ range 405 .. 490 ]
+sequence
+FA-HGIQTLFFD---HPNCIAFSRSGTEENP--GCVVVLSN----GDDGEKTLLLGDNYANKTWRDFLGN
+RS---------EHVVTNDQGEA-TFFCNAG---SVSVWV-------------*
+>P1;gi|28900854|ref|NP_800509.1| alpha-amylase [Vibrio parahaemolyti... [ score 131 E 3e-30 ] [ range 420 .. 504 ]
+sequence
+YA-YGKQNSYLD---HWDVIGWTREGDAEHPNS-MAVIMSD----GPGGTKWMYTGKPST--RYVDKLGI
+RT---------EEVWTDANGWA-EFPVNGG---SVSVWV-------------*
+>P1;gi|15891048|ref|NP_356720.1| AGR_L_1863p [Agrobacterium tumefaci... [ score 129 E 2e-29 ] [ range 416 .. 502 ]
+sequence
+FA-NGPQTDIFD---DASCIAFIRHGTADAP--GCVVVMSN----GEPGEKQADLGPERAGSVWRDFLGH
+RE---------EHITLDESGKG-TFPTNGG---SVSVWVP------------*
+>P1;gi|3023168|gb|AAC35010.1| intracellular a-amylase [Streptococcus... [ score 128 E 2e-29 ] [ range 395 .. 483 ]
+sequence
+HV-YGSKKIILT---MPNCIGWTCLGDEEHPD-GVAVIISN----GEANCKRMNMGEFNRNKVFVDYLNN
+CT---------EEVILDDQGWG-DFPVQEA---SLSAWVNK-----------*
+>P1;gi|16765301|ref|NP_460916.1| cytoplasmic alpha-amylase [Salmonel... [ score 128 E 2e-29 ] [ range 405 .. 490 ]
+sequence
+FA-HGIQTLFFD---HPNCIAFSRSGTEENP--GCVVVLSN----GDDGEKTLLLGDNYANKTWRDFLGN
+RD---------EYVVTNDQGEA-TFFCNAG---SVSVWV-------------*
+>P1;gi|17229682|ref|NP_486230.1| alpha-amylase [Nostoc sp. PCC 7120]... [ score 126 E 1e-28 ] [ range 406 .. 491 ]
+sequence
+YA-YGPQYNYLD---HWNTIGWTRLGDADHP-QGMAVIMSD----GSEGIKWMEVGKPNTK--FIDLTEH
+IK---------EAVYTNEWGWG-EFRCLGG---SVSVWVQ------------*
+>P1;gi|15673233|ref|NP_267407.1| alpha-amylase [Lactococcus lactis s... [ score 122 E 2e-27 ] [ range 394 .. 478 ]
+sequence
+------ENDYFD---HPDIIGWTNILKIDNKEYGLSCILTN----KNGGSKYMIIDKAYAGKVYIDLFGR
+HE---------IPITLDQNGGA-EFYVNDG---SVSVWVDK-----------*
+>P1;gi|38101084|gb|EAA48105.1| hypothetical protein MG09642.4 [Magna... [ score 114 E 5e-25 ] [ range 399 .. 491 ]
+sequence
+WA-YGTEAAYFG---AETCVGFTRFGHPARSGAGLAVVANT----GERAARRMCVGSRHAGERWTDLLRQ
+VW---------GVVVVDAAGYA-EFPVGPR---GVSVWV-------------*
+>P1;gi|45531885|ref|ZP_00182910.1| hypothetical protein Exigu174801 ... [ score 99 E 2e-20 ] [ range 2 .. 68 ]
+sequence
+---------------------------TDRAKSGLATILSD----GPGGSKWMYVGLQNKGEVWTDITGN
+NT---------ASVTINQDGYG-QFFVNGG---SVSVYRQQ-----------*
+>P1;gi|38100995|gb|EAA48034.1| hypothetical protein MG09164.4 [Magna... [ score 87 E 1e-16 ] [ range 429 .. 509 ]
+sequence
+HA-HGRQIDYFA---SAQTIGFVRFG-------GLAVVMNT----GQYAVQKMFVGVERARERWVDLLMG
+AR---------GEVLVDANGYG-DFWVGPR---GVAVW--------------*
+>P1;gi|80049|pir||A19506 alpha-amylase (EC 3.2.1.1) - Bacillus amylo... [ score 70 E 1e-11 ] [ range 172 .. 217 ]
+sequence
+YA-YGPQHDYID----PHVIGWTREGDSSAAKSGLAALISD----GPGGGKRM-----------------
+----------------------------------------------------*
+>P1;gi|27901551|dbj|BAC55903.1| hypothetical protein [Aspergillus or... [ score 143 E 7e-34 ] [ range 427 .. 515 ]
+sequence
+YA-YGEQQDYFD---QANCIGICTVTETRAIHSGMGLHYEQ----RRGSRKRMYVGPKHANEQWTDIMQS
+HE---------SVVTIDASGYG-VFPVNGM---SVSVWV-------------*
+>P1;gi|2570150|dbj|BAA22993.1| acid-stable alpha-amylase [Aspergillu... [ score 158 E 3e-38 ] [ range 403 .. 497 ]
+sequence
+---YKNDPIYTD----SNTIAMRKGTS---G-SQIITVLSNKGSSGSSYTLTLSGSGYTSGTKLIEAYTC
+-----------TSVTVDSNGDI-PVPMASG---LPRVLLP-ASVVDSSSLCG*
+>P1;gi|6561867|gb|AAF17103.1| alpha-amylase AmyA [Emericella nidulan... [ score 151 E 4e-36 ] [ range 395 .. 489 ]
+sequence
+---YKNYAIYNE----NNVLAMRKGFD---G-SQIITILTNAGADAGSSTVSVPNTGFTAGAAVTEIYTC
+-----------EDITVSGSGEV-SVPMESG---LPRVLYP-KAKLEGSGICG*
+>P1;gi|40313278|dbj|BAD06003.1| alpha-amylase [Aspergillus awamori] ... [ score 149 E 1e-35 ] [ range 403 .. 494 ]
+sequence
+---YANDPIYTD----SNTIAMRKGTS---G-SQVITVLSNKGSSGSSYTLTLSGSGYTSGTELIEAYTC
+-----------TSVTVDSNGDI-PVPMASG---LPRVLLP-AWVVDSSS---*
+>P1;gi|6561863|gb|AAF17100.1| alpha-amylase [Emericella nidulans] >g... [ score 143 E 7e-34 ] [ range 403 .. 495 ]
+sequence
+-----NTPFYSD----SNYIAMRKGSG---G-SQVLTLLNNIGTSIGSYTFDLYDHGYNSGANLVELYTC
+-----------SSVQVGSNGAI-SIPMTSG---LPRVLVP-AAWVSGSGLCG*
+>P1;gi|40741660|gb|EAA60850.1| hypothetical protein AN4507.2 [Asperg... [ score 140 E 7e-33 ] [ range 372 .. 465 ]
+sequence
+---YNTYPVYRG----SSEMAFRKGRE---G-RQIIMVLSTQGSNSGAYTIRMMN-GFQPSVVARDVFSC
+-----------RTWTVNDMGEL-RLDMDKG---EPRVLFP-EALMRGSGLCG*
+>P1;gi|40739518|gb|EAA58708.1| hypothetical protein AN6324.2 [Asperg... [ score 138 E 2e-32 ] [ range 407 .. 498 ]
+sequence
+-----SEELYLD----GSTYVTRKGSE---G-SQIVSVFSNQGSQGGPYNLRIP-RAYKPGTEVIEVLSC
+-----------KRVTADNEGQL-VAKMDKG---EPKAFFP-VKKMNGSGLCG*
+>P1;gi|38101082|gb|EAA48103.1| hypothetical protein MG09640.4 [Magna... [ score 133 E 8e-31 ] [ range 414 .. 498 ]
+sequence
+-----------D----DNHYCMRKGPT---G-SQLVFCISNKSSKGDSYNMQVP-KGFGSGDDIVEILTC
+-----------KTAKADGSGVV-TMPMSKG---EPRVYAL-QSSLKDSGLC-*
+>P1;gi|40744096|gb|EAA63276.1| hypothetical protein AN3308.2 [Asperg... [ score 131 E 4e-30 ] [ range 413 .. 506 ]
+sequence
+-------PLYRG----GSELAFSKGVE---G-RQIIMLLSGQGSKGDPYTLTLPVS-YNAGTTVTDVLHC
+-----------VNYTSVGSGEL-DVPMSKG---EPRVFFP-ADLMEGSGLCG*
+>P1;gi|32416718|ref|XP_328837.1| hypothetical protein [Neurospora cr... [ score 129 E 1e-29 ] [ range 408 .. 497 ]
+sequence
+-----SNVLIAD----TNHFCQQKGPA---E-NSVVFCVTNKSSKGDSYQMPV--GGFRDSDEVVEVLSC
+-----------ATTTADGLGQI-TAYMGAG---EPKVWVK-KSALEGTDIC-*
+>P1;gi|113767|sp|P21567|AMY1_SACFI Alpha-amylase precursor >gi|67386... [ score 100 E 8e-21 ] [ range 412 .. 493 ]
+sequence
+------SVIFSN----DHVIATKRGS--------VVSVFNNLGSSGSS-DVTISNTGYSSGEDLVEVLTC
+-----------S--TVSGSSDL-QVSIQGG---QPQIFVP-AKY--ASDIC-*
+>P1;gi|32420023|ref|XP_330455.1| hypothetical protein [Neurospora cr... [ score 66 E 1e-10 ] [ range 379 .. 435 ]
+sequence
+---YRAWPIYSD----SHTIAMRKGSS---N-KQVVGVFTNVGASSSAVTLSSLASGFSADEPVTDV---
+----------------------------------------------------*
+>P1;gi|19075187|ref|NP_587687.1| putative alpha-amylase; no apparent... [ score 65 E 3e-10 ] [ range 419 .. 494 ]
+sequence
+------------------HAVVRKG--------DVLGVYTNYESSSDNVTYDVSSN-FDDGTVLREVLSN
+-----------TTTTVGSSGAL-HVTVVSG---LPQVYYP-EASLTSFG---*
+>P1;gi|14475631|dbj|BAB60880.1| Meu30 [Schizosaccharomyces pombe] [ score 54 E 8e-07 ] [ range 223 .. 298 ]
+sequence
+-----------G----DHVMVMYKGP--------VITFITNYGAVDKEYLIKMPG-----SETMIDLLTC
+-----------TLIEVEGE-VM-RTSIKKG---EPKILYP-YQLAFRDGFC-*
+>P1;gi|19075476|ref|NP_587976.1| putative alpha-amylase precursor [S... [ score 48 E 4e-05 ] [ range 424 .. 491 ]
+sequence
+--------------------------------NDVLVMFNNMGV---TNNLTIYETNYTANEVVSDVFGH
+-----------RTLTVGADKTL-TASMTNG---YPLIMYP-HSKMSG-----*
+>P1;gi|14475639|dbj|BAB60884.1| Meu7 [Schizosaccharomyces pombe] [ score 48 E 4e-05 ] [ range 117 .. 200 ]
+sequence
+----QSDISIVD----KRILLLRRG--------KVITVLNNLGS----YYIHFHYTVSAEEHKWMDVLSC
+-----------KSVPVQDNRQV-FM-VRNG---EPMILYP-EESAYEMGLC-*
+>P1;gi|83668|pir||JK0201 alpha-amylase (EC 3.2.1.1) - Aspergillus or... [ score 143 E 9e-34 ] [ range 382 .. 475 ]
+sequence
+---YKN-PYIKD----DTTIAMRKGTD---G-SQIVTILSNKGASGDSYTLSLSGASYTAGQQLTEVIGC
+-----------TTVTVGSDGNV-PVPMAGG---LPRVLYP-TEKLAGSKICS*
+>P1;gi|34921497|sp|Q01117|AMY1_LIPKO Alpha-amylase 1 precursor (1,4-... [ score 134 E 6e-31 ] [ range 529 .. 623 ]
+sequence
+---YQNWVIYSD----STTIAMRKGFT---G-NQIITVLSNLGSSGSSYTLTLSNTGYTASSVVYEILTC
+-----------TAVTVDLSGNL-AVPMSGG---LPRVFYP-ESQLVGSGICS*
+>P1;gi|383764|prf||1904202A alpha amylase [ score 127 E 4e-29 ] [ range 417 .. 510 ]
+sequence
+---YKSSVVSSS----DHYIATRKGSD---A-NQLISIFNNLGSNG-SQDITVSNTGYSSGDKVIDIISC
+-----------NSVSAGDSGSL-SVSISGG---MPQVYAP-SSVLSGSGICN*
+>P1;gi|40744096|gb|EAA63276.1| hypothetical protein AN3308.2 [Asperg... [ score 124 E 6e-28 ] [ range 410 .. 505 ]
+sequence
+----QTVPLYRG----GSELAFSKGVE---G-RQIIMLLSGQGSKGDPYTLTLPVS-YNAGTTVTDVLHC
+-----------VNYTVGSGGEL-DVPMSKG---EPRVFFP-ADLMEGSGLC-*
+>P1;gi|41016824|sp|Q08806|AMY2_DEBOC Alpha-amylase 2 precursor (1,4-... [ score 114 E 4e-25 ] [ range 414 .. 506 ]
+sequence
+---YWSDVLYAS----GHVIALQRGAD---D-QRIVSVFNNLGSSG-SQTVTFS-TKYSGGEKVVDVLTC
+-----------QTSYANSDSTL-TVSISGG---APRIYAP-ASLIANSGICN*
+>P1;gi|7435326|pir||S72270 alpha-amylase (EC 3.2.1.1) precursor - Cr... [ score 114 E 5e-25 ] [ range 418 .. 514 ]
+sequence
+---YKIQVPYTD----SNHIVTRKGNS---G-YQIVGVYTNVGSAGSTLSISSSETGFQASEPVMDVLSC
+-----------TLYHTGTDGSL-SFTMTGG---LPRVFYN-ATALAESSLCT*
+>P1;gi|113767|sp|P21567|AMY1_SACFI Alpha-amylase precursor >gi|67386... [ score 97 E 6e-20 ] [ range 412 .. 494 ]
+sequence
+------SVIFSN----DHVIATKRGS--------VVSVFNNLGSSGSS-DVTISNTGYSSGEDLVEVLTC
+-----------STVSGSSD--L-QVSIQGG---QPQIFVP-AK--YASDICS*
+>P1;gi|27373051|gb|AAO12212.1| alpha-amylase [Lipomyces kononenkoae] [ score 59 E 2e-08 ] [ range 403 .. 499 ]
+sequence
+-----TQVFYSD----DSHMAMQRGP--------LVIVLTNVGQHIDNTGYTVTGSQFSAGDSLTDLVSC
+-----------TKVKVGANGTF-TSPSNGG---KARIWIK-SK--YAGKFCS*
+>P1;gi|19075476|ref|NP_587976.1| putative alpha-amylase precursor [S... [ score 51 E 5e-06 ] [ range 424 .. 491 ]
+sequence
+--------------------------------NDVLVMFNNMGVT-NNLTIYEVETNYTANEVVSDVFGH
+-----------RTLTVGADKTL-TASMTNG---YPLIMYP-HSKMSG-----*
+>P1;gi|19115463|ref|NP_594551.1| alpha-amylase [Schizosaccharomyces ... [ score 49 E 2e-05 ] [ range 420 .. 497 ]
+sequence
+-----------------HHIVVQK--------LNVITVLNNYGHNEERLSIVFKPLGASPKDTFFDIINN
+-----------QKYVVNTDGTL-KVVITNG---FPIVLYP-TSKIETS----*
+>P1;gi|14475639|dbj|BAB60884.1| Meu7 [Schizosaccharomyces pombe] [ score 49 E 2e-05 ] [ range 124 .. 200 ]
+sequence
+-----------D----KRILLLRRG--------KVITVLNNLGSYYIHFHYTVSAEEH----KWMDVLSC
+-----------KSVPVQDNRQV-FM-VRNG---EPMILYP-EESAYEMGLC-*
+>P1;gi|22129791|gb|AAL62457.2| alpha-cyclodextrinase [Thermus sp. YB... [ score 159 E 1e-38 ] [ range 506 .. 588 ]
+sequence
+---GDVAF-LAAD-DEANHLVYEKTDG---N-ETVMIIINRSN---EAAEIPMPIDA-RG-KWLVNLLTG
+-----------ERFAAEA--ETLCVSLPPY---GFVLYAVES----W-----*
+>P1;gi|28373415|pdb|1J0J|A Chain A, Crystal Structure Of Neopullulan... [ score 154 E 5e-37 ] [ range 506 .. 588 ]
+sequence
+---GEISF-LHAD-DEMNYLIYKKTDG---D-ETVLVIINRSD---QKADIPIPLDA-RG-TWLVNLLTG
+-----------ERFAAEA--ETLCTSLPPY---GFVLYAIEH----W-----*
+>P1;gi|1255196|gb|AAC46346.1| BSMA [Geobacillus stearothermophilus] [ score 146 E 9e-35 ] [ range 507 .. 589 ]
+sequence
+---GNLHF-IDAN-DETNHLIYMKTFE---E-EAIIFLVNNNE---QEIEITLPLSL-KG-KLLTNLWTN
+-----------EQFSAEA--DTLKSTLPPY---GFFIYKIED----W-----*
+>P1;gi|30022101|ref|NP_833732.1| Neopullulanase [Bacillus cereus ATC... [ score 136 E 1e-31 ] [ range 507 .. 585 ]
+sequence
+---GTFQF-IEAN-DEHNYISYTKTYE---D-ETIFFVLNPTN---SEVTVSLPLHV-TG-KKIINIYTN
+-----------EEFSAEA--SVLQVTLPPY---GFSILK-------------*
+>P1;gi|42783112|ref|NP_980359.1| alpha-amylase [Bacillus cereus ATCC... [ score 134 E 5e-31 ] [ range 507 .. 585 ]
+sequence
+---GTFQF-IEAN-DKHNYISYTKTYK---D-ETIFFVLNPTN---SDITASLPLHV-TG-KKIINIYTN
+-----------EEFSAEA--SVLQVTLPPY---GFSILK-------------*
+>P1;gi|21402066|ref|NP_658051.1| alpha-amylase, Alpha amylase, catal... [ score 133 E 8e-31 ] [ range 507 .. 585 ]
+sequence
+---GTFQF-IEAN-DEYNYISYTKTYE---D-ETIFFVLNPTN---SDITASLPLHV-TG-KKIINIYTN
+-----------EEFSAEA--SVLQVTLPPY---GFSILK-------------*
+>P1;gi|80167|pir||JS0673 neopullulanase (EC 3.2.1.135) - Bacillus sp... [ score 118 E 2e-26 ] [ range 506 .. 582 ]
+sequence
+---GLVEV-METN-RETNHIIYAKKSS---Q-ETIVIAINNSS---EKIKVDLPHEF-ND-RKSIDIWNN
+-----------EPFPKMS--E---VELNPW---GFAIIKL------------*
+>P1;gi|3318593|dbj|BAA31576.1| cyclomaltodextrinase (CDase) [Bacillu... [ score 64 E 9e-10 ] [ range 509 .. 586 ]
+sequence
+-----FEI-VEAN-TESNHLIYARELD---G-ERIYFVINPTE---QPITVTLPIDP-TG-QQIKDAWTD
+-----------KSIEAVD--NKVTMDISAT---GFGVIKV------------*
+>P1;gi|28848918|gb|AAO47386.1| cyclodextrinase enzyme; CDase; 78 kD ... [ score 56 E 2e-07 ] [ range 503 .. 584 ]
+sequence
+---GTFKF-LTAE-KNSRQIAYLREDD---Q-DTILVVMNNDK---AGHTLTLP--V-RH-AQWTHLWND
+-----------DVLTAAH--GQLTVKLPAY---GFVLKASSD----W-----*
+>P1;gi|45532734|ref|ZP_00183734.1| hypothetical protein Exigu084101 ... [ score 54 E 9e-07 ] [ range 525 .. 590 ]
+sequence
+---GQISF-VHAD-DETNTIVMRRMSQ---D-GTYYVYFNNSN---HQATIPAPQSG-QG----MDLFSN
+-----------TPLPS------LEVTLAPY----------------------*
+>P1;gi|21730147|pdb|1EA9|C Chain C, Cyclomaltodextrinase >gi|2173014... [ score 53 E 1e-06 ] [ range 503 .. 582 ]
+sequence
+---GTFKF-LTAE-KNSRQIAYLREDD---Q-DTILVVMNNDK---AGHTLTLP--V-RH-AQWTHLWQD
+-----------DVLTAAH--GQLTVKLPAY---GFAVLKASS----------*
+>P1;gi|15615490|ref|NP_243793.1| maltogenic amylase [Bacillus halodu... [ score 51 E 5e-06 ] [ range 505 .. 566 ]
+sequence
+---GDLTF-VEND---SSLLIYQKTYE---N-QQLLFVINSTD---QPDSVQLPVSW-TN-RNANDLLTG
+-----------ETFSLAT--E-------------------------------*
+>P1;gi|416620|sp|P32818|AMYM_BACAD Maltogenic alpha-amylase (Glucan ... [ score 46 E 2e-04 ] [ range 507 .. 565 ]
+sequence
+---GELTF-VPKN-EEDPCLAYTKSNE---E-KTIMIIINKSK---NSVEYPLSFDA-AE-QTVKNLWNQ
+-----------EQ---------------------------------------*
+>P1;gi|18309787|ref|NP_561721.1| cyclomaltodextrinase [Clostridium p... [ score 46 E 2e-04 ] [ range 542 .. 608 ]
+sequence
+---------IRAN-KDENILIYSK--------ENIFIIMNNSE---NEEKIYLPKEL-KN-NKINDL---
+-------------FEEKI--ELLKIDLKPF---AFKVYK-------------*
+>P1;gi|42783113|ref|NP_980360.1| oligo-1,6-glucosidase [Bacillus cer... [ score 128 E 3e-29 ] [ range 480 .. 558 ]
+sequence
+---GSYDLILE---NNPSIFAYVRTYG---E-EKLLVIANFTA---EECVFELPE-DITY-SEAELFIHN
+-----------YDVENGP--I-ENIPLRPY---EAMVFKLK-----------*
+>P1;gi|30022102|ref|NP_833733.1| Oligo-1,6-glucosidase [Bacillus cer... [ score 121 E 3e-27 ] [ range 480 .. 558 ]
+sequence
+---GSYDLILN---NDPSIFAYVRTYG---D-EKLLVIANFTA---DESVFEMPK-DISY-SESELFIHN
+-----------YDVEIGS--I-DNIPLRPY---EAIVFKLK-----------*
+>P1;gi|8096681|gb|AAF71997.1| alpha-glucosidase [Bacillus sp. DG0303] [ score 115 E 4e-25 ] [ range 480 .. 559 ]
+sequence
+---GDYQLLLE---DHPDIFAYLRNGE---N-EKLLVVNNFYG---RETTFILPD-DVDV-NGYEILISN
+-----------YDDSPSD--F-RKITLRPY---ESIVYYL------------*
+>P1;gi|129007|sp|P29094|O16G_BACTR Oligo-1,6-glucosidase (Oligosacch... [ score 111 E 4e-24 ] [ range 481 .. 560 ]
+sequence
+---GTYDLILE---DDPYIYRYTRTLG---N-EQLIVITNFSE---KTPVFRLPD-HIIY-KTKELLISN
+-----------YDVDEAE--L-KEIRLRPW---EARVYKIR-----------*
+>P1;gi|15615466|ref|NP_243769.1| oligo-1,6-glucosidase [Bacillus hal... [ score 109 E 2e-23 ] [ range 480 .. 556 ]
+sequence
+---GSYDLILE---DDPEIFAYKRTYN---G-QTLLVVCNFYG---RITDFECPA-EVVL-SEPTLLLSN
+-----------YDEENGS--Y-TSFRLRPY---EARVY--------------*
+>P1;gi|44511064|gb|EAJ76917.1| unknown [environmental sequence] [ score 107 E 5e-23 ] [ range 499 .. 577 ]
+sequence
+---GDYQELLA---GHPQIWAYARRAN---G-QTLLVVSNFYG---EPATFALPD-ELAT-GKGRLLLGN
+-----------YPDSPAR--P-QSCMLRPY---ESLIWLVE-----------*
+>P1;gi|580824|emb|CAA54266.1| alpha-glucosidase [Bacillus sp.] [ score 107 E 8e-23 ] [ range 497 .. 583 ]
+sequence
+---GKYDLILP---DHEEIWAYTRTLG---D-ERWLIVANFFG---GTPEFELPP-EVRC-EGAELVIAN
+-----------YPVDDSE--P-HRFRLRPY---ECRVYRL------------*
+>P1;gi|42779778|ref|NP_977025.1| trehalose-6-phosphate hydrolase [Ba... [ score 106 E 1e-22 ] [ range 472 .. 550 ]
+sequence
+---GEYAILDE---NDPKIWAYTRTTE---S-EVLLVINNFYG---EEITYSVPA-HVQL-DKQEVLLSN
+-----------YKDSSKD--I-TNLDLRPY---ESIVYR-------------*
+>P1;gi|16077848|ref|NP_388662.1| trehalose-6-phosphate hydrolase [Ba... [ score 106 E 1e-22 ] [ range 479 .. 557 ]
+sequence
+---GTYEIIAK---DDPNIFAYLRHGS---N-EKLLVINNFYG---TEAAFTLPD-SLAP-DEWEVLLTN
+-----------DEAREG---L-QNMTLRPY---ESIVYRL------------*
+>P1;gi|37362336|gb|AAQ91295.1| oligo-1,6-glucosidase [Paenibacillus ... [ score 106 E 1e-22 ] [ range 277 .. 357 ]
+sequence
+---GDYDIVAE---EHEQIYAYTRTWR---N-EKWIVILNFSD---REAEFTLPE-KLER-SGNQLIISN
+-----------YEVTETP--I-RELNLRPY---EARVYRL------------*
+>P1;gi|15613435|ref|NP_241738.1| alpha,alpha-phosphotrehalase [Bacil... [ score 106 E 1e-22 ] [ range 479 .. 559 ]
+sequence
+---GDYELLLP---EDPRVFAYVRRYQ---D-ETLLVVNHFFA---GEVTIQVPE-DVTK-HQVDVLLAN
+-----------YHDPSRE--F-QQLVLRPY---ESVVYYMK-----------*
+>P1;gi|42779561|ref|NP_976808.1| glycosyl hydrolase family protein [... [ score 105 E 3e-22 ] [ range 476 .. 553 ]
+sequence
+---GTYDLLLE---DDPQIYAYTRTLS---D-EKIVVISNISK---EEAVYN-EG-SFAI-ERKRLLLNN
+-----------YEVEHEQ--V-TTITLKPY---ETRVYRI------------*
+>P1;gi|21398320|ref|NP_654305.1| Aamy, Alpha-amylase domain [Bacillu... [ score 104 E 4e-22 ] [ range 476 .. 553 ]
+sequence
+---GTYDLLLE---DDPQIYAYTRTLN---D-EKIVVISNISK---EEAVYN-ED-LFAL-ERKRLLLNN
+-----------YEVEHEQ--L-TTITLKPY---ETRVYRI------------*
+>P1;gi|30018621|ref|NP_830252.1| Exo-alpha-1,4-glucosidase [Bacillus... [ score 104 E 4e-22 ] [ range 478 .. 555 ]
+sequence
+---GTYDLLLE---DDPQIYAYTRTLQ---D-EKVIVISNISK---EEAVYN-EG-SFAL-ERKRLLLNN
+-----------YEVEHEE--V-TTIALKPY---ETRVYRI------------*
+>P1;gi|30018817|ref|NP_830448.1| Trehalose-6-phosphate hydrolase [Ba... [ score 104 E 5e-22 ] [ range 472 .. 550 ]
+sequence
+---GEYAILDK---NDPKIWAYTRTTE---S-EVLLVINNFYG---EEITYSVPA-HVQL-DKQEVLLSN
+-----------YKDASKD--I-AKLNLRPY---ESIVYR-------------*
+>P1;gi|10880971|gb|AAG23399.1| oligo-1,6-glucosidase [Bacillus subti... [ score 103 E 1e-21 ] [ range 483 .. 557 ]
+sequence
+---GDYQLLQE---NDPQVFSYLREYR---G-EKLLVVVNLSE---EKALFEAPP-ELIH-ERWKVLISN
+-----------YPQERAD--L-KSISLKPY---EAVM---------------*
+>P1;gi|21398590|ref|NP_654575.1| Aamy, Alpha-amylase domain [Bacillu... [ score 102 E 2e-21 ] [ range 472 .. 550 ]
+sequence
+---GEYAILDE---NDSEIWAYTRTTE---S-EVLLVINNFYG---EEITYSVPA-HVQL-DKQEVLLSN
+-----------YKDSSKD--I-AKLNLRPY---ESIVYR-------------*
+>P1;gi|18309544|ref|NP_561478.1| alpha-glucosidase [Clostridium perf... [ score 101 E 4e-21 ] [ range 473 .. 554 ]
+sequence
+---GDYIPLLE---DHPKVYAYERNYN---G-EKLLVINNFYG---EECLVDLSK-EIEG-LEKSILISN
+-----------YKDSTLD--L-LNLKLRPY---ESIVYKLE-----------*
+>P1;gi|16077353|ref|NP_388166.1| similar to oligo-1,6-glucosidase [B... [ score 99 E 3e-20 ] [ range 481 .. 557 ]
+sequence
+---GSFDLLLP---DDPQLFVYMRENS---K-QQLLSVNNFSK---EQAVFQWPK-NCGK-AQASLLLSN
+-----------YNNDDLD--D-E-MVFRPY---ESRVYLL------------*
+>P1;gi|11127691|gb|AAG31032.1| TreA [Pseudomonas fluorescens] [ score 99 E 3e-20 ] [ range 467 .. 546 ]
+sequence
+---GVYRQLLC---DHAKVWAYLREGH---G-ERLLVLNNFYG---QPCEIQLPG-QVIA-SAQRLLISN
+-----------YPDCPVR--T-DSITLRPY---ESFVLHL------------*
+>P1;gi|18309400|ref|NP_561334.1| exo-alpha-1,4-glucosidase [Clostrid... [ score 98 E 3e-20 ] [ range 476 .. 553 ]
+sequence
+---GVYDLILE---EDENIFAYTRTLN---N-EKFLIMANLTG---ENAKY-MYE-KEKL-NSKDLILNN
+-----------YEVEHKN--L-TEFTLKPY---ECRVYKL------------*
+>P1;gi|27363766|ref|NP_759294.1| Trehalose-6-phosphate hydrolase [Vi... [ score 98 E 3e-20 ] [ range 480 .. 560 ]
+sequence
+---GDYQDLLP---EHQSVFAYARTSA---A-QQLVCINNYYG---EEVECVLPL-DLDM-RKAKCLLSN
+-----------YQNQPMA--S-HHQVLKPY---ETRILLIE-----------*
+>P1;gi|37527167|ref|NP_930511.1| Trehalose-6-phosphate hydrolase (al... [ score 98 E 4e-20 ] [ range 475 .. 551 ]
+sequence
+---GSYEDLLP---SHPSLWCYVRRWE---N-QTLLVIANLSV---EVQKWSLDA-SLSD-CSWVKLMGN
+-----------YPENHVP--A-KDMQLQPY---EA-VYWL------------*
+>P1;gi|13517319|gb|AAK28737.1| palatinase [Erwinia rhapontici] [ score 98 E 4e-20 ] [ range 471 .. 549 ]
+sequence
+---GDFRQIVV---EHPQVFAWLRTLG---E-QTLVVINNFTR---DAVMLAIPD-NLQS-QQGRCLINN
+-----------YAPREQL--E-PIMELQPY---ESFALLIE-----------*
+>P1;gi|37676420|ref|NP_936816.1| glycosidase [Vibrio vulnificus YJ01... [ score 98 E 5e-20 ] [ range 466 .. 544 ]
+sequence
+---GDFTPLFA---EHDSVFAYVRSHQ---D-EQLLVINNFSD---QDVSLALPD-NLQN-KEVNCLIYN
+-----------YDSLDML--G-VTLSLKPY---QCYAFKLR-----------*
+>P1;gi|23100011|ref|NP_693477.1| oligo-1,6-glucosidase [Oceanobacill... [ score 98 E 6e-20 ] [ range 476 .. 549 ]
+sequence
+---GGYDLILE---NHSQIYAYTRTLD---E-KQFVVFINLFP---EKCSFELPS-SLAK-MERSLLLSN
+-----------YE----A--A-VNGELQPY---EARVYQI------------*
+>P1;gi|42523735|ref|NP_969115.1| alpha-D-1,4-glucosidase [Bdellovibr... [ score 98 E 6e-20 ] [ range 479 .. 556 ]
+sequence
+---GVYDEVLS---KHDQIYAYTRTDG---N-EKMLVMANMTG---KPAKFDLPG--FSL-SSANLLMAN
+-----------YAVDHSS--I-TGGELRPF---ESRIYKI------------*
+>P1;gi|37679080|ref|NP_933689.1| trehalose-6-phosphate hydrolase [Vi... [ score 97 E 1e-19 ] [ range 480 .. 560 ]
+sequence
+---GDYQDLLP---EHQSVFAYARTSA---A-QQLVCINNYYG---EEVECVLPL-GLDM-RKAKCLLSN
+-----------YQNRPMA--S-HHQVLKPY---ETRILLIE-----------*
+>P1;gi|13517315|gb|AAK28735.1| sucrose isomerase [Erwinia rhapontici] [ score 96 E 2e-19 ] [ range 521 .. 598 ]
+sequence
+---GSYIDLDP---DNNSVYAYTRTLG---A-EKYLVVINFKE---EVMHYTLPG-DLSI-NKVITENNS
+-----------HTIVNKN--D-RQLRLEPW---QSGIYKL------------*
+>P1;gi|42548673|gb|EAA71516.1| hypothetical protein FG03703.1 [Gibbe... [ score 95 E 3e-19 ] [ range 497 .. 571 ]
+sequence
+---GDFELLDA---ENSDIFAYARSDG---K-QKLIVVCSFRD---REIAWPVPA-STGL-QSSKVLLSN
+-----------YPEIDLS--Q-DVISIRPF---EAFV---------------*
+>P1;gi|27366705|ref|NP_762232.1| Glycosidase [Vibrio vulnificus CMCP... [ score 94 E 6e-19 ] [ range 466 .. 544 ]
+sequence
+---GDFTPLFA---EHDSVFAYVRSHQ---D-EQLLVINNFSD---QDISLALPD-NLQN-KEVNCLIYN
+-----------YDSLCML--G-VTLSLKPY---QCYAFKLR-----------*
+>P1;gi|15616430|ref|NP_244735.1| exo-alpha-1,4-glucosidase [Bacillus... [ score 93 E 9e-19 ] [ range 478 .. 550 ]
+sequence
+---GSYDLVLP---EHKQIFAYKRTLE---K-ESALILVNMFA---DEVSFQFPL-KL-I-GEKERVLGN
+-----------YKTQGAK--D-K---LRPY---EARVYR-------------*
+>P1;gi|28377128|ref|NP_784020.1| alpha-glucosidase [Lactobacillus pl... [ score 93 E 1e-18 ] [ range 485 .. 557 ]
+sequence
+---GSFELLWA---DDPQVFLYARQWE---G-RTWLVCCNFTA---ETLSRPLDQ-YLTP-T-AKCLISN
+-----------Y----GE--Q-QPNKLRPY---EAWVYQL------------*
+>P1;gi|22992575|ref|ZP_00037211.1| COG0366: Glycosidases [Enterococc... [ score 93 E 1e-18 ] [ range 481 .. 555 ]
+sequence
+---GDYELVEK---TPEHVFAYSRIYE---D-QQWLVICNMSS---EKQTFTIPR-E-----ALRVIVSN
+-----------YPLKQLP--D-GKVDLRPY---EAFVLEVK-----------*
+>P1;gi|13517323|gb|AAK28739.1| alpha-glucosidase [Erwinia rhapontici] [ score 93 E 2e-18 ] [ range 479 .. 551 ]
+sequence
+---GAYQLLLP---THPQIYAYTRRLN---E-QQVLVIVNFSA---HQQEID-PQ-QLLL-DGWQPLLSN
+-----------YQEQ-----G-KRQILRAY---EAQIYQ-------------*
+>P1;gi|45533154|ref|ZP_00184147.1| hypothetical protein Exigu044501 ... [ score 92 E 2e-18 ] [ range 127 .. 203 ]
+sequence
+---GEYDLILP---EDTKVYGYTRTLG---N-EQFLIVTNLKD---EVA--EVDT-DIIL-HSDNIMLAN
+-----------YETTYHE--G-TELTLQPF---EARLYRVR-----------*
+>P1;gi|23003783|ref|ZP_00047430.1| COG0366: Glycosidases [Lactobacil... [ score 92 E 5e-18 ] [ range 482 .. 558 ]
+sequence
+---GNYDLITP---EDSAIFAYTRSSD---K-DKVAVICSFVP---YKVKYELPE-DF-V-NKNKVILSN
+-----------YDDEDMA--S-NTIYLRPY---EGVVIK-------------*
+>P1;gi|45532237|ref|ZP_00183249.1| hypothetical protein Exigu137401 ... [ score 91 E 6e-18 ] [ range 470 .. 544 ]
+sequence
+---GSYRLLTP---DDLSLWAYERATD---D-EQLLVLSNFYG---TDRPFTLPD-E--W-LDYQVLIQN
+-----------YPEVSEK--S-GQLILRPY---ESVMLY-------------*
+>P1;gi|2208998|gb|AAB65079.1| dextran glucosidase DexS [Streptococcu... [ score 90 E 8e-18 ] [ range 467 .. 542 ]
+sequence
+---GDYKAAYK---DSQKVYAFERLLN---D-EKLLVLNNFFA---EEVELDLAD-D--Y-AHGQVLISN
+-----------YPD-NKL--G-KKIILKPY---QALAIQVK-----------*
+>P1;gi|1321625|dbj|BAA12704.1| exo-alpha-1,4-glucosidase [Geobacillu... [ score 90 E 1e-17 ] [ range 476 .. 551 ]
+sequence
+---GAYDLLLE---NHPSIYAYTRTLG---R-DRALIIVNVSD---RPSLYRY-D-GFRL-QSSDLALSN
+-----------YPVRHKN--A-TRFKLKPY---EARVY--------------*
+>P1;gi|28377189|ref|NP_784081.1| alpha, alpha-phosphotrehalase [Lact... [ score 89 E 3e-17 ] [ range 472 .. 546 ]
+sequence
+---GGYQSWRL---DDPQVFGYWRTYR---Q-QKLLVLNNFYG---QSTTVTLPE-EMV---GAQVLLSN
+-----------YQDVNVT--A-Q-LTMQPY---QAVALLL------------*
+>P1;gi|2492896|sp|Q45101|O16G_BACCO Oligo-1,6-glucosidase (Oligosacc... [ score 88 E 3e-17 ] [ range 483 .. 554 ]
+sequence
+---GRYELLMP---DHPHLYVYTRENE---S-EKLLVAANLSE---NTVSFDQPD-D-----NWKLLLGN
+-----------YEDT-----G-TSTLFRPY---EAAIYYLE-----------*
+>P1;gi|45532073|ref|ZP_00183091.1| hypothetical protein Exigu156801 ... [ score 87 E 9e-17 ] [ range 481 .. 554 ]
+sequence
+---GEYALILE---EETDIYAYTRTYE---N-ETWYIYCSFSQ---EEVTVPLSH-DTS-----DPVIGN
+-----------YESPAGS--K-EELVLRPY---EAIVYR-------------*
+>P1;gi|29375916|ref|NP_815070.1| glycosyl hydrolase, family 13 [Ente... [ score 87 E 1e-16 ] [ range 463 .. 537 ]
+sequence
+---GQFELLAP---NHPSVFAFLRKTT---E-ATALVIVNLSG---EKCQFDLPN-KLLG-RKWQQLLGN
+-----------QDFTVK-----KRMQLAPY---QAGVFQ-------------*
+>P1;gi|42518665|ref|NP_964595.1| oligo-1,6-glucosidase [Lactobacillu... [ score 87 E 1e-16 ] [ range 477 .. 553 ]
+sequence
+---GKYELVSS---DDSAVFAYTRSTG---K-EKLAVICSFVP---YKVKYNLPT-DF-V-NRNELLLSS
+-----------YGDNKAK--A-SNMYLRPY---EGVVIR-------------*
+>P1;gi|27468109|ref|NP_764746.1| alpha-D-1,4-glucosidase [Staphyloco... [ score 87 E 1e-16 ] [ range 476 .. 551 ]
+sequence
+---GKFNMVDA---ENKQVFAYTRTFK---N-NTVLIVANLTN---EVSELNLPF-ELDI-SSVDIKLHN
+-----------YHLNDIN--L-DHI--KPY---ESFVVEI------------*
+>P1;gi|28897485|ref|NP_797090.1| trehalose-6-phosphate hydrolase [Vi... [ score 87 E 1e-16 ] [ range 480 .. 560 ]
+sequence
+---GRYEDLLP---EHQRIFAYARQND---K-QTLLCVNNYYA---AEVECVLPE-RFEL-SKAKNLLSN
+-----------YQNSASA--V-NHQVLRPY---ETRILLIE-----------*
+>P1;gi|23104129|ref|ZP_00090597.1| COG0366: Glycosidases [Azotobacte... [ score 86 E 2e-16 ] [ range 522 .. 600 ]
+sequence
+---GQFRDLDP---ANPKVFAYTRTLD---D-KRYLVLINFTR---ETVAYDLPE-GLKI-AA--TLLDN
+-----------GAAQESM--Q-PSVTLQPW---QATIYRL------------*
+>P1;gi|16799300|ref|NP_469568.1| similar to oligo-1,6-glucosidase [L... [ score 86 E 2e-16 ] [ range 478 .. 553 ]
+sequence
+---GNYRLLLP---KDEAIFAYERYTE---N-EKLVVLCNFTE---EEQVLT-DE-NIDI-KKGSVLANN
+-----------VPDII-------EGTLRPY---EAIVYQIK-----------*
+>P1;gi|15901711|ref|NP_346315.1| dextran glucosidase DexS, putative ... [ score 86 E 2e-16 ] [ range 466 .. 540 ]
+sequence
+---GSYKPAFE---DSKQVYAFERQFE---D-QKLLVLNNFYA---KEVEIDLPA---VY-QNGQILISN
+-----------YEDAEVS----EKILLKPY---QTLAIYV------------*
+>P1;gi|16802230|ref|NP_463715.1| similar to oligo-1,6-glucosidase [L... [ score 86 E 2e-16 ] [ range 478 .. 553 ]
+sequence
+---GNYRLLLP---KDEAIFAYERYTE---N-EKLVVLCNFTE---EEQV--ISD-ETIL-NEIQVLVNN
+-----------VP----N--I-IEGTLRPY---EAIVYQIK-----------*
+>P1;gi|42518680|ref|NP_964610.1| trehalose-6-phosphate hydrolase [La... [ score 86 E 2e-16 ] [ range 472 .. 552 ]
+sequence
+---GHIKPLLM---DHPQVMAYERYLD---N-EKLLVFANFYG---KETKVEIPT-EYID-RDGEILIQN
+-----------YDEEIVT--L-STLELKPY---EALAIKI------------*
+>P1;gi|28377131|ref|NP_784023.1| alpha-glucosidase [Lactobacillus pl... [ score 85 E 3e-16 ] [ range 486 .. 556 ]
+sequence
+---GTYHLLSP---DDAAVYAYVRHMG---S-QHLLVICNFTA---ATQTAELPA-D------AHLLISN
+-----------YDEDHQD-------VLRAY---EAKVYQ-------------*
+>P1;gi|21283190|ref|NP_646278.1| alpha-D-1,4-glucosidase [Staphyloco... [ score 85 E 5e-16 ] [ range 476 .. 548 ]
+sequence
+---GQFDLVDA---ENSQVFAYTRTLN---E-KQVLIVGNLTN---HEAELTVPF-DLSH-GEVKLF--N
+-----------YD---AK--V-NLKQLRPY---EACVIEL------------*
+>P1;gi|19111855|ref|NP_595063.1| alpha-glucosidase [Schizosaccharomy... [ score 85 E 5e-16 ] [ range 504 .. 579 ]
+sequence
+---GSFELISE---EDPSIVAFVRESS---T-YKLIILLNFTG---NKVSYDCP---LNL-TSYEILLDN
+-----------YKDFICM--T-SPVTLNPY---QAVLLKL------------*
+>P1;gi|22536377|ref|NP_687228.1| alpha amylase family protein [Strep... [ score 84 E 6e-16 ] [ range 466 .. 540 ]
+sequence
+---GNYKAAFK---DNEKVYAFERHLD---K-EKLLVLNNFFA---EKVKIKLPE-N--Y-LQGQVLLSN
+-----------YKDVTLD----ETVTLQPY---QTLAILV------------*
+>P1;gi|37903467|gb|AAP57083.1| sucrose isomerase [Pantoea dispersa] [ score 84 E 7e-16 ] [ range 520 .. 597 ]
+sequence
+---GEYRDLDP---QNNQVYAYTRILD---N-EKYLVVVNFKP---EQLHYALPD-NLTI-ASSLLENVH
+-----------QPSLQEN--A-STLTLAPW---QAGIYKL------------*
+>P1;gi|37903482|gb|AAP57084.1| sucrose isomerase [Erwinia rhapontici] [ score 84 E 9e-16 ] [ range 521 .. 599 ]
+sequence
+---GSYIDLAP---DNNSVYAYTRTFG---A-EKYLVVINFKE---EVMHYTLPG-DLSI-NKVHTIVNK
+-----------NDVEDPR--G-ATSVCSPF---QA-----------------*
+>P1;gi|628932|pir||S44188 alpha-glucosidase (EC 3.2.1.20) - Staphylo... [ score 83 E 1e-15 ] [ range 476 .. 547 ]
+sequence
+---GTFDLVDK---NNEQVFAYTRTLN---N-KKVLIVANLTN---QTATFKY---DNSI-NQDNILLHN
+-----------YK--NEA--I-DINAMKPF---EAFVL--------------*
+>P1;gi|23023949|ref|ZP_00063176.1| COG0366: Glycosidases [Leuconosto... [ score 82 E 2e-15 ] [ range 488 .. 557 ]
+sequence
+---GKYQLLDP---KDEQVYAYRRVGN---N-EQLLVINNFTD---NIVTRDYS----VP-TNAKILVSN
+-----------YADDKAE-------TLRPY---ESKVYQ-------------*
+>P1;gi|23003414|ref|ZP_00047077.1| COG0366: Glycosidases [Lactobacil... [ score 82 E 3e-15 ] [ range 466 .. 537 ]
+sequence
+---GDFELVEN---TGDSVLAFWRKLG---S-EKWLIVANLSG---DRQRFNLDN-DF-----KEVLISN
+-----------YEKQD-S--L-KNIILKPY---EAFAVK-------------*
+>P1;gi|24380378|ref|NP_722333.1| putative trehalose-6-phosphate hydr... [ score 81 E 5e-15 ] [ range 466 .. 538 ]
+sequence
+---GSYQAALT---DSDKIYAFEREYE---G-QKLLVLNNFFA---ETVELDLPS---LY-QAGTVLISN
+-----------YDDVILD----KRISLKPY---QTVAI--------------*
+>P1;gi|23503475|dbj|BAC20338.1| alpha-glucosidase [Aspergillus oryzae] [ score 79 E 3e-14 ] [ range 507 .. 588 ]
+sequence
+---GSYKLIDE---ANNDLFTYLRVYG---S-QSALVLANFTG---KEVSWVVPA-ETIL-KNGAVLLES
+-----------YQRHRPP--D-GTIAVMPF---ESFVMFL------------*
+>P1;gi|26251145|ref|NP_757185.1| Trehalose-6-phosphate hydrolase [Es... [ score 78 E 4e-14 ] [ range 475 .. 546 ]
+sequence
+---GDYQDLLP---NSPVLWCYRREWK---G-QTLLVIANLSR---ETQPWQ-PG-KM-L-GNWQLVMHN
+-----------YEEASPQ--P-CTMTLRPF---EAV----------------*
+>P1;gi|23466079|ref|NP_696682.1| oligo-1,6-glucosidase [Bifidobacter... [ score 78 E 5e-14 ] [ range 523 .. 606 ]
+sequence
+---GDWHLLDA---DDAHVYAFTRTLG---D-EKLLVVVNMSG---RTV--DLPR-ETAI-TESNVVIST
+-----------YDAPHAS--L-ANRELDPW---EAAVIQL------------*
+>P1;gi|15640927|ref|NP_230558.1| trehalose-6-phosphate hydrolase [Vi... [ score 77 E 9e-14 ] [ range 480 .. 559 ]
+sequence
+---GDYTDLLP---EHKEIFAYQRRNQ---K-QVLICLNNYYG---HEAECVLP--ELPL-DDALYLLGN
+-----------YPGIELQ--L-AHQVLRPY---ETRIILIE-----------*
+>P1;gi|16763254|ref|NP_458871.1| trehalose-6-phosphate hydrolase [Sa... [ score 77 E 9e-14 ] [ range 474 .. 545 ]
+sequence
+---GDYQDLLP---GSPSVWCYRRQWQ---G-QTLLVVANLSD---QCQEWHPPH---IK-GQWQALLHN
+-----------YGEVASQ--P-AAMTLRPF---EAI----------------*
+>P1;gi|37908601|gb|AAP57085.1| sucrose isomerase [Raoultella plantic... [ score 77 E 1e-13 ] [ range 521 .. 598 ]
+sequence
+---GAYQDLNP---QDNTVYAYTRTLG---N-ERYLVVVNFKE---YPVRYTLPA-NDAI-EEV-VIDTQ
+-----------QQATAPH--S-TSLSLSPW---QAGVYKLR-----------*
+>P1;gi|23002304|ref|ZP_00045981.1| COG0366: Glycosidases [Lactobacil... [ score 77 E 1e-13 ] [ range 478 .. 552 ]
+sequence
+---------LM---EHPQVMAYERYLD---N-EKLLVFANFYG---KETEVKIPA-EYLN-KAGHILIQN
+-----------YDKNLAS--L-PALQLKPY---EALAIKL------------*
+>P1;gi|16767699|ref|NP_463314.1| trehalose-6-phosphate hydrolase [Sa... [ score 77 E 1e-13 ] [ range 474 .. 545 ]
+sequence
+---GDYQDLLP---DSPSVWCYRRQWQ---G-QILLVVANLSN---QCQEWHPPH---IK-GQWQALLHN
+-----------YGEVASQ--P-AAMTLRPF---EAI----------------*
+>P1;gi|19746967|ref|NP_608103.1| putative dextran glucosidase [Strep... [ score 75 E 4e-13 ] [ range 466 .. 538 ]
+sequence
+---GDYRAAFK---DSQAVYAFERHLG---D-QCLLVLNHFYA---DEVELELP---LRY-QHGQVLISN
+-----------YEKVSIC----EKVMLKPY---QTLAI--------------*
+>P1;gi|16123835|ref|NP_407148.1| putative trehalose-6-phosphate hydr... [ score 75 E 4e-13 ] [ range 477 .. 550 ]
+sequence
+---GDYQDLCP---QHPDLWCYLRSWQ---G-KQLLVVANLSE---EPQRWQ-PE-GLTL-DNWQLLMSS
+-----------YDQSAFQ--P-QDMILRGY---EGI----------------*
+>P1;gi|16080181|ref|NP_391007.1| similar to exo-alpha-1,4-glucosidas... [ score 74 E 8e-13 ] [ range 476 .. 551 ]
+sequence
+---GTYELILP---EDQQIFAYLRKNE---S-HTALIAANLTG---TPALFRHSG--LPL-SSDALVLSN
+-----------IETEHKH--M-TSVLLKPY---EARIY--------------*
+>P1;gi|23036957|ref|ZP_00069177.1| COG0366: Glycosidases [Oenococcus... [ score 74 E 9e-13 ] [ range 485 .. 556 ]
+sequence
+---GSFEEIDP---DDDQVYAYRRHYE---G-KTLLLISNFTD---KIVSRDYGQ-S----NASSLLIDN
+-----------YEDD-------KVNELRPY---EAKAYLFK-----------*
+>P1;gi|22900933|gb|AAN06917.1| TreA [Pseudomonas fluorescens] [ score 74 E 1e-12 ] [ range 482 .. 561 ]
+sequence
+---GVYRLLLP---EHPHVWAYLREGQ---G-ERLLVVSHFYG---GDCEVELPE-GVLD-TKQRWVIGN
+-----------YEAGEHR--Y-RRLRLRPY---ESFVLHL------------*
+>P1;gi|15804829|ref|NP_290870.1| trehalase 6-P hydrolase [Escherichi... [ score 73 E 1e-12 ] [ range 475 .. 546 ]
+sequence
+---GNYQDLLP---NSPVLWCYRREWK---G-QTLLVIANLSR---EIQPWQ-PG-QMRG-N-WQLVMHN
+-----------YEEASPQ--P-CAMTLRPF---EAV----------------*
+>P1;gi|42518305|ref|NP_964235.1| glucan 1,6-alpha-glucosidase [Lacto... [ score 73 E 2e-12 ] [ range 466 .. 537 ]
+sequence
+---GDFELVEN---TSDNILAFWRKLE---D-ENWLVVANLSG---EDQNLNLDI-PF-----KEVLISN
+-----------YEKRD-S--L-KDMVLKPY---EAFAVK-------------*
+>P1;gi|23023947|ref|ZP_00063174.1| COG0366: Glycosidases [Leuconosto... [ score 73 E 2e-12 ] [ range 486 .. 554 ]
+sequence
+---GKYEVLDL---EDESVYAYKRIDK---D-TQLLVISNFTD---QKQTRHYD----RT-QSAQLVISN
+-----------YSDDQGD-------TLRPY---ESKVY--------------*
+>P1;gi|23335886|ref|ZP_00121117.1| COG0366: Glycosidases [Bifidobact... [ score 72 E 2e-12 ] [ range 524 .. 607 ]
+sequence
+---GDWRLIDA---ADPHVYAFTRELD---A-EKLLVVVNMSS---RTV--DLPR-EVGI-AEPNVVIST
+-----------YDAPHAS--L-ANRELDPW---EAAVIQL------------*
+>P1;gi|23025034|ref|ZP_00064215.1| COG0366: Glycosidases [Leuconosto... [ score 72 E 4e-12 ] [ range 484 .. 554 ]
+sequence
+---GTFEAIDS---EDNQVYAYLRHYK---E-QSVLVLSNFTD---KVVTRDYG----QT-KFSELLINN
+-----------YLDDQGT--I-----LRPY---ESKVYLL------------*
+>P1;gi|28379930|ref|NP_786822.1| alpha-glucosidase [Lactobacillus pl... [ score 71 E 7e-12 ] [ range 486 .. 557 ]
+sequence
+---GKYRLVNE---DDEAVYAYTRKDE---N-TTLLVILNYTK---TTLDYQVPD-N------AELVINN
+-----------YPDDKGN-------TLRPY---EAKVYK-------------*
+>P1;gi|22993423|ref|ZP_00038023.1| COG0366: Glycosidases [Enterococc... [ score 70 E 1e-11 ] [ range 470 .. 544 ]
+sequence
+---GSYKEYLH---EHPQLYVYERYLE---D-EQYLIMVNLTE---SLADYELPK-E-AD-QSWTLLLSN
+-----------SSSGEFE--A-KGI-LAPY---EARLYK-------------*
+>P1;gi|22990936|ref|ZP_00035714.1| COG0366: Glycosidases [Enterococc... [ score 70 E 1e-11 ] [ range 393 .. 465 ]
+sequence
+---GDYHAYEA---NHPEVYGFLRQFE---G-QQLLVLTNFYD---KDTRIAIPE-GFT---EANILIDN
+-----------Y-SDTVL--H-QSLELKPY---QAIAL--------------*
+>P1;gi|34498754|ref|NP_902969.1| a,a-phosphotrehalase [Chromobacteri... [ score 70 E 1e-11 ] [ range 468 .. 542 ]
+sequence
+---GDYRCLTP---DHPSLWIYTRRCA---D-EMLLAISHFGA---DDSHYALPA-GAMP-EGWELLLSN
+-----------YP----P--Q-PPGRLRPW---HSLLYR-------------*
+>P1;gi|146969|gb|AAA24225.1| oligo-1,6-glucosidase [ score 70 E 1e-11 ] [ range 316 .. 387 ]
+sequence
+---GNYQDLLP---NSPVLWCYRREWK---G-QTLLVIANLSR---EIQPWQ--A-GQMR-GNWQLVMHN
+-----------YEEASPQ--P-CAMNLRPF---EAV----------------*
+>P1;gi|28379942|ref|NP_786834.1| glucan 1,6-alpha-glucosidase [Lacto... [ score 69 E 2e-11 ] [ range 467 .. 540 ]
+sequence
+---GEFTELSA---VPAPIVAYTRTWQ---Q-TQWLICANFAD---TLITVDLP-----K-RASELIISN
+-----------YQDYPEQ--L-GRVVLRPY---EAFILAL------------*
+>P1;gi|126716|sp|P07265|MA6S_YEAST Alpha-glucosidase MAL6S (Maltase)... [ score 68 E 7e-11 ] [ range 511 .. 584 ]
+sequence
+----DFQFIDL---DSDQIFSFTKEYE---D-KTLFAALNFSG---EEIEFSLPR-E--G-ASLSFILGN
+-----------YDDTDVS--S-R--VLKPW---EGRIYLVK-----------*
+>P1;gi|6715096|gb|AAF26276.1| alpha-1-6-glucosidase [Aspergillus par... [ score 67 E 1e-10 ] [ range 494 .. 559 ]
+sequence
+---GSYKLIDE---ANNDLFTYLRVYG---G-QSALVLANFTG---KEVSWVVPA-ETIL-KNGAVLLES
+-----------YQRHPSS--A-T-----------------------------*
+>P1;gi|32452413|dbj|BAC78840.1| oligo-1,6-glucosidase [Arthrobacter ... [ score 66 E 2e-10 ] [ range 503 .. 573 ]
+sequence
+---GDFTMLLP---DDEHVYAFRRSLP---D-AELLVLGNFSG---TGQSAGVDG---SW-GDAELVLGN
+-----------YPAAPGL--G-----LRPW---EVKVFR-------------*
+>P1;gi|40740888|gb|EAA60078.1| hypothetical protein AN4843.2 [Asperg... [ score 66 E 3e-10 ] [ range 508 .. 591 ]
+sequence
+---GNYELVDR---DSQEVYAYTRACH---T-SKALVLANWTD---RGLTWNAAA-HKAD-QFEQVLLDT
+-----------YESANAA--Q-GRFTLRPY---EAVVILLK-----------*
+>P1;gi|23038469|ref|ZP_00070615.1| COG0366: Glycosidases [Oenococcus... [ score 65 E 3e-10 ] [ range 479 .. 552 ]
+sequence
+---GDYQPFFP---DIPEIIAFKRQFQ---E-DSLLVINHFGE---EKITLSLP---VES-LGGKIILSN
+-----------Y-SNTKI--A-RQITLKPY---ETLAIK-------------*
+>P1;gi|4586451|dbj|BAA76381.1| oligo 1,6-glucosidase homolog [Brevib... [ score 65 E 4e-10 ] [ range 338 .. 412 ]
+sequence
+---GRFNLILA---DDPQIFAYTRTDS---D-TELFIAANCSA---DPAA--LPG-DVTW-DDADVLLAN
+-----------HPGVREL--G-R--TLLPW---EVIVLR-------------*
+>P1;gi|22538062|ref|NP_688913.1| glucan 1,6-alpha-glucosidase [Strep... [ score 61 E 4e-09 ] [ range 467 .. 534 ]
+sequence
+--------LLE---TADKVFAYVRQTD---K-ERYLIVANLSD---QNQSFEFPE-AV-----KETIISN
+-----------TEVQEVL--S-SN-TLKPW---DAFCIEL------------*
+>P1;gi|13487793|gb|AAK27723.1| alpha-glucosidase [Bifidobacterium ad... [ score 61 E 7e-09 ] [ range 521 .. 604 ]
+sequence
+---GEWHLLAA---DSDQVYAFTRTNG---D-DTILVVVNLTD---RSAA--LPS-DVAV-SDPQVLLST
+-----------YDAMHKS--I-ARGELARW---EGVVIQL------------*
+>P1;gi|15675767|ref|NP_269941.1| dextran glucosidase [Streptococcus ... [ score 60 E 1e-08 ] [ range 465 .. 536 ]
+sequence
+----DYHLL-P---TADKVFAYQRQLG---E-ETYVIVVNVSD---EEQVFA-----TDL-AGAQVIIAN
+-----------TDVDTV---L-ETKHLQPW---DAFCLKLK-----------*
+>P1;gi|42545253|gb|EAA68096.1| hypothetical protein FG01235.1 [Gibbe... [ score 59 E 3e-08 ] [ range 494 .. 571 ]
+sequence
+---GNFQLVDE---SNDKIFAYSRRDS---G-ETALVVCNFSV---DSVAWKLPG-ELTS-PAGRTL---
+--------------NDLN--S-GEIKLAPC---EAFAVLLK-----------*
+>P1;gi|37999034|dbj|BAD00094.1| oligo-1,6-glucosidase [Saccharomyces... [ score 59 E 3e-08 ] [ range 514 .. 586 ]
+sequence
+----DFEFIDL---DNKKLFSFTKKYN---N-KTLFAALNFSS---DATDFKIPN-D--D-SSFKLEFGN
+-----------YPKKEVD--A-SSRTLKPW---EGRIY--------------*
+>P1;gi|6324416|ref|NP_014485.1| Hypothetical ORF; Yol157cp [Saccharo... [ score 58 E 4e-08 ] [ range 514 .. 586 ]
+sequence
+----DFEFIDL---DNKKLFSFTKKYD---N-KTLFAALNFSS---DSIDFTIPN-N--S-SSFKLEFGN
+-----------YPRSEVD--A-SSRTLKPW---EGRIY--------------*
+>P1;gi|14278921|dbj|BAB59003.1| maltase [Aspergillus oryzae] [ score 58 E 6e-08 ] [ range 504 .. 572 ]
+sequence
+---GDFEILDE---ANEKVFTYIKRGQ---K-QSALIVLNFSD---DTLKFKQPA-GV---QDAKVLLRN
+----------------VE--G-DLNELQPF---EGRVL--------------*
+>P1;gi|15673663|ref|NP_267837.1| oligo-1,6-glucosidase [Lactococcus ... [ score 58 E 7e-08 ] [ range 469 .. 541 ]
+sequence
+---GDFKLIDS---E-ADVFAYLRTYK---G-KKYLVVANLSD---EENQFK--T-GFVC-R--DLLIHN
+------------ENFLPE--L-SQIKLKAW---EAFACEVE-----------*
+>P1;gi|23024523|ref|ZP_00063731.1| COG0366: Glycosidases [Leuconosto... [ score 57 E 9e-08 ] [ range 474 .. 547 ]
+sequence
+---GDYTPKYE---ESEEIIAFERQLA---G-KHILVVTHFGE---TPVSISISD-EIVK-N-GQVLVTN
+-----------YPAQPVS--G--TMLLKPY---ESFAI--------------*
+>P1;gi|5441460|emb|CAB46746.1| maltase [Kluyveromyces lactis] [ score 57 E 9e-08 ] [ range 509 .. 582 ]
+sequence
+----DFTFVDH---ANKKLFAFTKKFG---E-KVLYVVLNFSK---EEIEFSFLE-G--Y-NSYDYIFGN
+-----------YPEAEID--L-DLTSLQPW---EGRFYY-------------*
+>P1;gi|19746879|ref|NP_608015.1| putative dextran glucosidase [Strep... [ score 56 E 1e-07 ] [ range 465 .. 536 ]
+sequence
+----DYHLL-P---TADKVFAYQRQLG---E-ETYVIVVNVSD---QEQVFA-----KDL-AGAEVVITN
+-----------TDV-DKV--L-ETKHLQPW---DAFCLKLK-----------*
+>P1;gi|1168388|sp|P43473|AGL_PEDPE Alpha-glucosidase (Maltase) >gi|7... [ score 56 E 3e-07 ] [ range 485 .. 556 ]
+sequence
+---GSFELLWA---DDPQ-YSYMHGNG---K-ADLASLLQFHS---RD-TVPTTG-SISD-PTAKCLISN
+-----------Y----GE--Q-QPNKLRPY---EAWVYQL------------*
+>P1;gi|29375915|ref|NP_815069.1| glucan 1,6-alpha-glucosidase, putat... [ score 55 E 3e-07 ] [ range 467 .. 539 ]
+sequence
+---GNFELL-E---TVEEVISFYRTYG---E-ERWLVVTNFSD---KVQPFS--A-DVSV-E--QVMIEN
+-----------MPTDVTA--L-ADYSLAPW---QAFVVKV------------*
+>P1;gi|32416176|ref|XP_328566.1| hypothetical protein [Neurospora cr... [ score 54 E 7e-07 ] [ range 502 .. 576 ]
+sequence
+---GTFEACDI---ENEKTFVFVKRFG---G-KRVVVTLNFSN---EEQEVVLPE-HEKG-LK--FMVGN
+-----------YNEEGGM--G-ERRRLRPW---EGRLY--------------*
+>P1;gi|16803294|ref|NP_464779.1| similar to alpha,alpha-phosphotreha... [ score 54 E 7e-07 ] [ range 474 .. 543 ]
+sequence
+---GDYTPYLT---EEDSIIAYKRSNE---T-TSLLSIHHFGS---EKKKIQLPT-EFL---NAEVLLSN
+-----------YERQRIS----SELELAPY---ET-----------------*
+>P1;gi|16800291|ref|NP_470559.1| similar to alpha,alpha-phosphotreha... [ score 54 E 1e-06 ] [ range 474 .. 543 ]
+sequence
+---GDYTPYLT---EEDSIIAYKRSNE---T-ASLLAIHYFGA---TKKKIQLPK-EFS---DGKILLSN
+-----------YDRKEIS--A-E-IELSPY---ET-----------------*
+>P1;gi|24379337|ref|NP_721292.1| dextran glucosidase DexB [Streptoco... [ score 53 E 1e-06 ] [ range 465 .. 535 ]
+sequence
+----DFELL-P---TADKVFAYLRKVR---E-ERYLIVVNVSD---QEEVLEIDV-D-----KQETLISN
+------------TNESAA--L-ANHKLQPW---DAFCIKI------------*
+>P1;gi|15828574|ref|NP_325934.1| OLIGO-1,6-GLUCOSIDASE (SUCRASE-ISOM... [ score 53 E 1e-06 ] [ range 473 .. 540 ]
+sequence
+---GDFELIAD---EDPNIFAYKRKDD---F-QELVFVINWSQ---KL----IDN-NLNL-KNYEVFLNN
+-----------YPT------Y-QSSKLLPW---QALIL--------------*
+>P1;gi|2492897|sp|Q59905|DEXB_STREQ Glucan 1,6-alpha-glucosidase (De... [ score 53 E 1e-06 ] [ range 465 .. 535 ]
+sequence
+----DYHLL-P---TADKVFAYQRQFG---E-ETYVIVVNVSD---QEQVFA-----KDL-AGAEVVITN
+-----------TDV-DKV--L-ETKHLQPW---DAFCVKL------------*
+>P1;gi|7739797|gb|AAF69018.1| maltase [Pichia angusta] [ score 53 E 2e-06 ] [ range 494 .. 563 ]
+sequence
+---GRFEVQDY---DNQEIFYYTKTSN---K-KKMAVVLNFTD---REVEYPIP--------QGKLLLSN
+-----------IANNI-------TGKLQPY---EGRLIEV------------*
+>P1;gi|23005500|ref|ZP_00048283.1| COG0366: Glycosidases [Magnetospi... [ score 52 E 3e-06 ] [ range 1 .. 38 ]
+sequence
+----DYQDLLP---EHPSLWCYRRQWQ---G-QTLVVVANLSR---EFQRWQ------------------
+----------------------------------------------------*
+>P1;gi|6322245|ref|NP_012319.1| Protein of unknown function, transcr... [ score 52 E 3e-06 ] [ range 508 .. 581 ]
+sequence
+----NFQFIDL---DNDKLFMFTKDTD---N-KKMFAVFNFSS---DNTDFSVPD-NEA---SYTMFFGN
+-----------YANSNGD--S-R--TLQPW---EGRLYLLK-----------*
+>P1;gi|45531844|ref|ZP_00182870.1| hypothetical protein Exigu175801 ... [ score 52 E 3e-06 ] [ range 464 .. 532 ]
+sequence
+---GVYRDLAI---QDPYLYVYERVLD---G-VVWRIVLNVHD---EPVTFGLPE-E-------QLILTN
+-----------YETADIN-------RLAPY---EARLYQ-------------*
+>P1;gi|15900272|ref|NP_344876.1| glucan 1,6-alpha-glucosidase [Strep... [ score 50 E 9e-06 ] [ range 464 .. 534 ]
+sequence
+----DFELLDT---AD-KVFAYIRKDG---D-RRFLVVANLSN---EEQDLTVEG-KV-----KSVLIEN
+-----------TAAKEV---L-EKQVLAPW---DAFCVEL------------*
+>P1;gi|973182|gb|AAB03769.1| CD98 heavy chain [ score 50 E 1e-05 ] [ range 438 .. 527 ]
+sequence
+---GDFHALSS---T-PDLFSYIRHWD---N-ERYLVVLNFSG---RSARLNLPA-GISL-ASAKLLLST
+-----------DEDTSLK--L-ENLSLNPY---EGLLLQ-------------*
+>P1;gi|15806392|ref|NP_295098.1| glycosyl hydrolase, family 13 [Dein... [ score 50 E 1e-05 ] [ range 496 .. 561 ]
+sequence
+---GSYRSLDS---GHADVFAFERELN---G-ERLTVWLNFRG---EERAVA---------ATGQTLLSS
+-------------RGDQP--A-AQSPLRGH---EARV---------------*
+>P1;gi|21282158|ref|NP_645246.1| alpha-glucosidase [Staphylococcus a... [ score 50 E 2e-05 ] [ range 473 .. 543 ]
+sequence
+----TYGDIVP---DHDHLFVYERHYK---N-QQWLVIANFSA-----SAVDLPE-GLA--REGRVVI--
+--------------QTGT--V-ENNTISGF---GAIVIE-------------*
+>P1;gi|129006|sp|P29093|O16G_BACSP Oligo-1,6-glucosidase (Oligosacch... [ score 49 E 3e-05 ] [ range 482 .. 508 ]
+sequence
+---GDYRLLLE---EDPRIFAYIREYR---G-EKLLV---------------------------------
+----------------------------------------------------*
+>P1;gi|23003422|ref|ZP_00047085.1| COG0366: Glycosidases [Lactobacil... [ score 48 E 4e-05 ] [ range 484 .. 550 ]
+sequence
+--------LLP---TSNDSYVYERNLE---D-QKALVAVSLSK---DPIELDVDP-EFK---QEKLVAGN
+-----------YQLKDGK--L-K---LAPY---AGVVLE-------------*
+>P1;gi|15902354|ref|NP_357904.1| Alpha, 1-6-glucosidase [Streptococc... [ score 48 E 4e-05 ] [ range 464 .. 534 ]
+sequence
+----DFELLDT---AD-KVFAYIRKDG---D-RRFLVVANLSN---EEQDLTVEG-NV-----KSVLIEN
+-----------TLAQEVF--E-KQI-LVPW---DAFCVEL------------*
+>P1;gi|42555289|gb|EAA78132.1| hypothetical protein FG09082.1 [Gibbe... [ score 48 E 8e-05 ] [ range 513 .. 596 ]
+sequence
+---GDYKVIRQ---DDPDIYAFVKESD---G-SKVAVVLNFTT---ENKAWSAPE-ELGV-HSGKKLVPI
+-----------MSTHSGK--E-KTAVLSPF---EGRVYLV------------*
+>P1;gi|23474471|ref|ZP_00129764.1| COG0366: Glycosidases [Desulfovib... [ score 47 E 8e-05 ] [ range 474 .. 550 ]
+sequence
+--------LRP---ENSRVLAYMRSSG---E-EHVLVVTNLSA---QAASLDLSG-WEGY-RPVEVF-SN
+-----------FPAVRQP--A-YTITLNPY---GYYIFHMR-----------*
+>P1;gi|15923465|ref|NP_370999.1| alpha-glucosidase [Staphylococcus a... [ score 47 E 8e-05 ] [ range 473 .. 543 ]
+sequence
+----TYGDIVP---DHDHLFVYERHYK---N-QQWLVIANFSA-----SAVDLPE-GLAR-EGCVVI---
+--------------QTGT--V-ENNTISGF---GAIVIE-------------*
+>P1;gi|42547441|gb|EAA70284.1| hypothetical protein FG10662.1 [Gibbe... [ score 47 E 9e-05 ] [ range 512 .. 600 ]
+sequence
+---GSFKLVDP---DDEFLFVYLKESQ---K-RKVLVVLNMSQ---EER--PCPD-KCSA-NEAKVLLST
+-----------TDRFT-D--I-QKTTLAGW---EGRLYTL------------*
+>P1;gi|44392990|gb|EAI95448.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 258 .. 328 ]
+sequence
+------QILDA---DNHHCFAFLRETQ---G-HKLLVICNFSE---HPQTIQLLA-TLKG-ASSRDLLTD
+------------ETVEMN--A-SPLLLEPF---Q------------------*
+>P1;gi|23126762|ref|ZP_00108650.1| COG0296: 1,4-alpha-glucan branchi... [ score 46 E 2e-04 ] [ range 477 .. 549 ]
+sequence
+--------------ENPKVLAYTR-WN---D-ERVVVIANFSE---NLAGYHVPN-FPSA-GTWHEWTGN
+-----------YDVESGD--D-GIITLGPY---EAKVF--------------*
+>P1;gi|9506891|ref|NP_062156.1| solute carrier family 3, member 2; a... [ score 46 E 3e-04 ] [ range 433 .. 522 ]
+sequence
+---GDFDALSS---S-SGLFSYVRHWD---N-ERYLVVLNFSA---RVGASNLPA-GISL-ASANLLLST
+-----------DEGTSLS--L-ENLSLNPY---EGLLLQ-------------*
+>P1;gi|28933921|gb|AAD50660.3| trehalose synthase [Thermus caldophilus] [ score 45 E 3e-04 ] [ range 460 .. 502 ]
+sequence
+---GSLTLLPV---ENRRVLAYLREHE---G-ERVLVVANLSR---YTQAFDLPL-E-------------
+----------------------------------------------------*
+>P1;gi|1170870|sp|Q02751|MALT_CANAL Alpha-glucosidase (Maltase) >gi|... [ score 45 E 5e-04 ] [ range 498 .. 567 ]
+sequence
+---GEMKFLDF---DDKKLFTFAKEAG---S-PVAYIVINFSG---EDVKF---E-PLIK-GNYKLVLTN
+-----------VDKDSKD--A-----LSPY---EARMY--------------*
+>P1;gi|22973859|ref|ZP_00020325.1| hypothetical protein [Chloroflexu... [ score 102 E 1e-21 ] [ range 284 .. 353 ]
+sequence
+-------------SDNRHVLAYVRQ-------TRVLVLANFSE---YPQSIAGNLLRMYG-LELFDLIQE
+-----------QPVSAT-----TALTLQPY---QFVWL--------------*
+>P1;gi|44392990|gb|EAI95448.1| unknown [environmental sequence] [ score 101 E 3e-21 ] [ range 261 .. 332 ]
+sequence
+---------D---ADNHHCFAFLRE-------NTLLVICNFSE---HPQTIQRSLLATLG-ASSRDLLTD
+-----------ETVEMN-----APLLLEPF---QQMWL--------------*
+>P1;gi|32473567|ref|NP_866561.1| alpha-amylase, amylosucrase [Pirell... [ score 100 E 1e-20 ] [ range 633 .. 698 ]
+sequence
+-----------------HLLGYVRQ-------NRVIVIANFCE---HAQEIDSNRLRGMG-RFFEDLYSG
+-----------QTITTS-----HPLTLGPY---EFMWL--------------*
+>P1;gi|45522104|ref|ZP_00173620.1| hypothetical protein Mflag046601 ... [ score 48 E 5e-05 ] [ range 571 .. 650 ]
+sequence
+--------FE---TSNPHLFTFLRH-------SRVLVIANFDA---SPQYMNLRELDSVN-LFRHDLYSG
+-----------ETLSTK-----HTLEIPPL---GFYWLQL------------*
+>P1;gi|44046035|gb|EAG83023.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 150 .. 211 ]
+sequence
+--------------NNPHLFLYQRQ-------KRLVAVVNFSE---HPQHCDS----LSG-QLWFDELTA
+-----------QKLPAG------SLQLSPY---QVLWL--------------*
+>P1;gi|4099127|gb|AAD00555.1| cyclodextrin glucanotransferase [Geoba... [ score 151 E 5e-36 ] [ range 434 .. 522 ]
+sequence
+---GDTEQRWI----NSDVYIYERQFG---K-DVVLVAVNRSLS--KSYSITGLFTALPS-GTYTDQLGA
+----LL---DGNTIQVGSNGAVNAFNLGPG---EVGVWTYSAA---------*
+>P1;gi|399223|sp|P31747|CDGT_BACSS Cyclomaltodextrin glucanotransfer... [ score 149 E 2e-35 ] [ range 441 .. 528 ]
+sequence
+---GSTQQRWI----NNDVYVYERKFG---K-SVAVVAVNRNLS--TPANITGLSTSLPT-GSYTDVLGG
+----VL---NGNNIT-SSNGSVNSFTLAAG---ATAVWQYTAA---------*
+>P1;gi|116043|sp|P14014|CDGT_BACLI Cyclomaltodextrin glucanotransfer... [ score 146 E 1e-34 ] [ range 441 .. 528 ]
+sequence
+---GSTQQRWI----NNDVYIYERKFG---K-SVAVVAVNRNLT--TPTSITNLNTSLPS-GTYTDVLGG
+----VL---NGNNIT-SSGGNISSFTLAAG---ATAVWQYTAS---------*
+>P1;gi|461717|sp|P04830|CDG1_PAEMA Cyclomaltodextrin glucanotransfer... [ score 145 E 2e-34 ] [ range 435 .. 522 ]
+sequence
+---GTTTERWV----NNDVLIIERKFG---S-SAALVAINRNSS--AAYPISGLLSSLPA-GTYSDVLNG
+----LL---NGNSITVGSGGAVTNFTLAAG---GTAVWQYTA----------*
+>P1;gi|399218|sp|P31835|CDG2_PAEMA Cyclomaltodextrin glucanotransfer... [ score 142 E 2e-33 ] [ range 435 .. 522 ]
+sequence
+---GSTTQRWV----NSDVYVYERKFG---S-NVALVAVNRSST--TAYPISGALTALPN-GTYTDVLGG
+----LL---NGNSITV-NGGTVSNFTLAAG---GTAVWQYTTT---------*
+>P1;gi|399222|sp|P30921|CDGT_BACSP Cyclomaltodextrin glucanotransfer... [ score 136 E 1e-31 ] [ range 434 .. 522 ]
+sequence
+---GTTQERWI----NNDVLIYERKFG---N-NVAVIAVNRNVN--TSASITGLVTSLPA-GSYTDVLGG
+----LL---NGNNLTVGSGGSASIFTLAAG---GTAVWQYTTA---------*
+>P1;gi|113812|sp|P08137|AMY_BACCI Alpha-amylase precursor (1,4-alpha... [ score 135 E 3e-31 ] [ range 436 .. 517 ]
+sequence
+---GTTQQRWI----NNDVYIYERKFG---N-NVAVVAINKNLT--SSYSIAGLNTSLPS-GTYTDVLAN
+----SL---SGNSITVGSSGAVNTFTLQAG---GEA----------------*
+>P1;gi|6552352|dbj|BAA88217.1| cyclodextrin glucanotransferase [Ther... [ score 131 E 3e-30 ] [ range 452 .. 538 ]
+sequence
+---GLIATRYV----SDDIYIFERKFF---D-NVVLVAINRNLN--SPYVVSNVYTSLPD-GSYNDYLGG
+----LL---NGVGITVSSG--TFSVELPAG---SVSVWQYKAT---------*
+>P1;gi|9756018|emb|CAC02971.1| acarviose transferase [Actinoplanes s... [ score 125 E 2e-28 ] [ range 444 .. 532 ]
+sequence
+---GDHQQRWI----NDDVYVYERRFG---D-NVLLTAINKG-S--HEYRLERAGTALPA-GTYRDVLGG
+----TF---GGSDLTVGTDRSTVAPVLGAG---QVAVWSY------------*
+>P1;gi|20808248|ref|NP_623419.1| Glycosidases [Thermoanaerobacter te... [ score 123 E 8e-28 ] [ range 434 .. 523 ]
+sequence
+---GTTTARYI----SDDVYIYERQYG---K-DVVLVAINKGEK--T--TVKAVKTSLRK-GIYKDYLKG
+----LL---EGVELKVTKGNGVQGLTLPGD---SVSVWTNVKA---------*
+>P1;gi|116048|sp|P08704|CDGT_KLEOX Cyclomaltodextrin glucanotransfer... [ score 90 E 1e-17 ] [ range 472 .. 546 ]
+sequence
+---GTYTELWV----NDDILVFERRSG---N-DIVIVALNRGEA--NTINVKNI--AVPN-GVYPSLIG-
+----------NNSVSVAN--KRTTLTLMQN---EAVV---------------*
+>P1;gi|12006232|gb|AAG44799.1| amylopullulanase [Geobacillus stearot... [ score 53 E 2e-06 ] [ range 954 .. 1022 ]
+sequence
+---GTIETVYA----KGDVYVFARQYG---K-DVALIAINRG-N--SAQTVQDVSSIIPN-GTFVDELHG
+----EY------EVTV-SNGKVQ-----------------------------*
+>P1;gi|2126830|pir||I39917 hypothetical protein - Bacillus sp >gi|46... [ score 50 E 1e-05 ] [ range 950 .. 1018 ]
+sequence
+---GTIETVYA----KGDVYVFARQYG---K-DVALIAMNRGDS--AQTVQLDVSSIIPN-GTFVDELHG
+----EY------EVTV-SDGKVQ-----------------------------*
+>P1;gi|6552352|dbj|BAA88217.1| cyclodextrin glucanotransferase [Ther... [ score 133 E 7e-31 ] [ range 452 .. 538 ]
+sequence
+---GLIATRYV----SDDIYIFERKFF---D-NVVLVAINRNLN--SPYVVSNVYTSLPD-GSYNDYLGG
+----LL---NGVGITVS-SGTF-SVELPAG---SVSVWQYKAT---------*
+>P1;gi|399222|sp|P30921|CDGT_BACSP Cyclomaltodextrin glucanotransfer... [ score 127 E 4e-29 ] [ range 434 .. 522 ]
+sequence
+---GTTQERWI----NNDVLIYERKFG---N-NVAVIAVNRNVN--TSASITGLVTSLPA-GSYTDVLGG
+----LL---NGNNLTVG-SGGSASFTLAAG---GTAVWQYTTA---------*
+>P1;gi|9756018|emb|CAC02971.1| acarviose transferase [Actinoplanes s... [ score 124 E 4e-28 ] [ range 444 .. 534 ]
+sequence
+---GDHQQRWI----NDDVYVYERRFG---D-NVLLTAINKGSH---EYRLERAGTALPA-GTYRDVLGG
+----TF---GGSDLTVE-DGSTVAPVLGAG---QVAVWSYRA----------*
+>P1;gi|20808248|ref|NP_623419.1| Glycosidases [Thermoanaerobacter te... [ score 116 E 9e-26 ] [ range 434 .. 519 ]
+sequence
+---GTTTARYI----SDDVYIYERQYG---K-DVVLVAINKGEK--T--TVKAVKTSLRK-GIYKDYLKG
+----LL---EGVELKVT-KGNVQGLTLPGD---SVSVWT-------------*
+>P1;gi|12006232|gb|AAG44799.1| amylopullulanase [Geobacillus stearot... [ score 56 E 1e-07 ] [ range 954 .. 1022 ]
+sequence
+---GTIETVYA----KGDVYVFARQYG---K-DVALIAINRGNS--AQTVQLDVSSIIPN-G--TSFVDE
+----LH---GEYEVTVS-NGKVQ-----------------------------*
+>P1;gi|44488840|gb|EAJ62646.1| unknown [environmental sequence] [ score 55 E 4e-07 ] [ range 414 .. 490 ]
+sequence
+---GSHRTAWI----NDDFYLYTRNFR---D-SAVMVMVNKS-D--DEHVVDAENIQMPD-GSYT----C
+----LI---TGFPVNIS-NGRLQGYRVHGN---SAMV---------------*
+>P1;gi|2126830|pir||I39917 hypothetical protein - Bacillus sp >gi|46... [ score 53 E 2e-06 ] [ range 950 .. 1018 ]
+sequence
+---GTIETVYA----KGDVYVFARQYG---K-DVALIAMNRGDS--AQTVQLDVSSIIPN-G--TSFVDE
+----LH---GEYEVTVS-DGKVQ-----------------------------*
+>P1;gi|37519942|ref|NP_923319.1| cyclomaltodextrin glucanotransferas... [ score 47 E 1e-04 ] [ range 460 .. 531 ]
+sequence
+--------RYI----TPDVFAYVRKYR---D-SRCFVAMNRS-H--EAVRLEAVLTELPD-GAHRCVLSE
+-----------AAFTIQ-DGRLEKLELAPR---QVVV---------------*
+>P1;gi|20258046|gb|AAM16154.1| cyclomaltodextrin glucanotransferase ... [ score 47 E 1e-04 ] [ range 454 .. 531 ]
+sequence
+----SHWQKYL----TNDVYCYVRRYR---D-SLCFVALNRGG----EVTLPEVETELPD-GEHTCVLTR
+-----------NKYEVK-DGKIYDLVLEER---GVIVFSH------------*
+>P1;gi|322327|pir||S31478 alpha-amylase (EC 3.2.1.1) - Thermoactinom... [ score 44 E 8e-04 ] [ range 402 .. 481 ]
+sequence
+---GTQAEKWV----DDTFYAFQRSYN---G-DEVVVMINNSWN--SQTRTVPNIDRVAN-GQ---TLYN
+----RM---GTDKVTVN-NGSITA-TLGPK---EVKIFT-------------*
+>P1;gi|113784|sp|P21543|AMYB_PAEPO Beta/alpha-amylase precursor [Inc... [ score 44 E 9e-04 ] [ range 1116 .. 1195 ]
+sequence
+---GSQREKWV----DDSFYSFQRSKN---G-DEAIVFINNSWN--SQTRTIGNFDNLSN-GT---RLTN
+----QL---SNDSVQIN-NGSIT-VTLAPK---EVKVFT-------------*
+>P1;gi|216248|dbj|BAA00077.1| cyclomaltodextrin glucanotransferase [... [ score 165 E 2e-40 ] [ range 434 .. 523 ]
+sequence
+---GSTQERWI----NNDVIIYERKFG---N-NVAVVAINRNMN--TPASITGLVTSLPQ-GSYNDVLGG
+----IL---NGNTLTVGAGGAASNFTLAPG---GTAVWQYTTD---A-----*
+>P1;gi|116046|sp|P05618|CDGT_BACS0 Cyclomaltodextrin glucanotransfer... [ score 155 E 2e-37 ] [ range 434 .. 523 ]
+sequence
+---GSTHERWI----NNDVIIYERKFG---N-NVAVVAINRNMN--TPASITGLVTSLRR-ASYNDVLGG
+----IL---NGNTLTVGAGGAASNFTLAPG---GTAVWQYTTD---A-----*
+>P1;gi|30316403|gb|AAP31242.1| cyclodextrin glycosyltransferase [Bac... [ score 144 E 3e-34 ] [ range 404 .. 492 ]
+sequence
+---GTTTERWI----NDDVLIYERHFG---E-NYALIAINRNLN--TSYNIQGLQTEMPS-NSYDDVLDG
+----LL---DGQSIVVDNKGGVNEFQMSPG---EVSVWEFEAE---------*
+>P1;gi|20373100|dbj|BAB91217.1| cyclodextrin glucanotransferase [Bac... [ score 142 E 3e-33 ] [ range 425 .. 514 ]
+sequence
+---GSTKERWI----NDDVLIYERSFN---G-DYLLVAINKNVN--QAYTISGLLTEMPA-QVYHDVLDS
+----LL---DGQSLAVKENGTVDSFLLGPG---EVSVWQHISE---S-----*
+>P1;gi|15675254|ref|NP_269428.1| putative cyclomaltodextrin glucanot... [ score 141 E 3e-33 ] [ range 435 .. 523 ]
+sequence
+---GTTEQRWI----SDHVLVFERKFG---N-HVALVAINRDQT--NGYTITNAKTALPQ-NSYKDKLEG
+----LL---GGQELIVGADGTISSFELGAG---QVAVWTYEGE---------*
+>P1;gi|1168860|sp|P27036|CDGT_BACOH Cyclomaltodextrin glucanotransfe... [ score 141 E 3e-33 ] [ range 429 .. 516 ]
+sequence
+---GNTSERWI----NSDVYIYERSFG---D-SVVLTAVNSG-D--TSYTINNLNTSLPQ-GQYTDELQQ
+----LL---DGNEITVNSNGAVDSFQLSAN---GVSVWQITEE---------*
+>P1;gi|3298517|dbj|BAA31539.1| cyclomaltodextrin glucanotransferase ... [ score 139 E 1e-32 ] [ range 429 .. 516 ]
+sequence
+---GNTSERWI----NSDVYIYERAFG---D-SVVLTAVNSG-D--TSYTINNLNTSLPQ-GQYTDELQQ
+----LL---DGNEITVNSNGSVDSFQLSAN---GVSVWQVTEE---------*
+>P1;gi|2293517|gb|AAB65420.1| cyclodextrin glycosyltransferase [Brev... [ score 137 E 4e-32 ] [ range 418 .. 506 ]
+sequence
+---GNTTERWI----NSDVYIYERKFG---N-SIVLTAVN-SSN--RNQTISNLNTSLPQ-GNYTDELQQ
+----LL---DGNTITVNANGSANSPQLQAN---SVAVWQVTKE---S-----*
+>P1;gi|742241|prf||2009322A cyclodextrin glucanotransferase [ score 134 E 5e-31 ] [ range 451 .. 539 ]
+sequence
+---GTTTERWL----NEDIYIYERTFG---N-SIVLTAVN-SSN--SNQTITNLNTSLPQ-GNYTDELQQ
+----RL---DGNTITVNANGAVNSFQLRAN---SVAVWQVSNP---S-----*
+>P1;gi|9756018|emb|CAC02971.1| acarviose transferase [Actinoplanes s... [ score 125 E 2e-28 ] [ range 444 .. 532 ]
+sequence
+---GDHQQRWI----NDDVYVYERRFG---D-NVLLTAINKGSH--E-YRLERAGTALPA-GTYRDVLGG
+----TF---GGSDLTVEDGDGTDRSTLGAG---QVAVWSY------------*
+>P1;gi|44488840|gb|EAJ62646.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 414 .. 463 ]
+sequence
+---GSHRTAWI----NDDFYLYTRNFR---D-SAVMVMVNKSDD--E-HVVDAENIQMPD-GSYT-----
+----------------------------------------------------*
+>P1;gi|12006232|gb|AAG44799.1| amylopullulanase [Geobacillus stearot... [ score 49 E 3e-05 ] [ range 954 .. 1019 ]
+sequence
+---GTIETVYA----KGDVYVFARQYG---K-DVALIAINRG-N--SAQTVQDVSSIIPN-GTFVDELHG
+----EY------EVTVSNG---------------------------------*
+>P1;gi|9756018|emb|CAC02971.1| acarviose transferase [Actinoplanes s... [ score 128 E 3e-29 ] [ range 444 .. 534 ]
+sequence
+---GDHQQRWI----NDDVYVYERRFG---D-NVLLTAINKG-S--HEYRLERAGTALPA-GTYRDVLGG
+----TF---GGSDLTVEDGDGTDRSTLGAG---QVAVWSYRA----------*
+>P1;gi|20808248|ref|NP_623419.1| Glycosidases [Thermoanaerobacter te... [ score 117 E 7e-26 ] [ range 434 .. 519 ]
+sequence
+---GTTTARYI----SDDVYIYERQYG---K-DVVLVAINKG----EKTTVKAVKTSLRK-GIYKDYLKG
+----LL---EGVELKVTKGNGENGLTLPGD---SVSVWT-------------*
+>P1;gi|4099127|gb|AAD00555.1| cyclodextrin glucanotransferase [Geoba... [ score 145 E 3e-34 ] [ range 434 .. 522 ]
+sequence
+---GDTEQRWI----NSDVYIYERQFG---K-DVVLVAVNRSLS--KSYSITGLFTALPS-GTYTDQLGA
+----LL---DGNTIVGS-NGAVNAFNLGPG---EVGVWTYSAA---------*
+>P1;gi|1942571|pdb|1PAM|A Chain A, Cyclodextrin Glucanotransferase >... [ score 144 E 5e-34 ] [ range 407 .. 494 ]
+sequence
+---GSTHERWI----NNDVIIYERKFG---N-NVAVVAINRNMN--TPASITGLVTSLPR-GSYNDVLGG
+----IL---NGNTLTGA-GGAASNFTLAPG---GTAVWQYTT----------*
+>P1;gi|399224|sp|P31797|CDGT_BACST Cyclomaltodextrin glucanotransfer... [ score 143 E 8e-34 ] [ range 434 .. 521 ]
+sequence
+---GDTEQRWI----NGDVYVYERQFG---K-DVVLVAVNRSSS--SNYSITGLFTALPA-GTYTDQLGG
+----LL---DGNTIVGS-NGSVNAFDLGPG---EVGVWAYSA----------*
+>P1;gi|15675254|ref|NP_269428.1| putative cyclomaltodextrin glucanot... [ score 135 E 2e-31 ] [ range 435 .. 520 ]
+sequence
+---GTTEQRWI----SDHVLVFERKFG---N-HVALVAINRDQT--NGYTITNAKTALPQ-NSYKDKLEG
+----LL---GGQEIVGA-DGTISSFELGAG---QVAVWTY------------*
+>P1;gi|20373100|dbj|BAB91217.1| cyclodextrin glucanotransferase [Bac... [ score 131 E 3e-30 ] [ range 425 .. 512 ]
+sequence
+---GSTKERWI----NDDVLIYERSFN---G-DYLLVAINKNVN--QAYTISGLLTEMPA-QVYHDVLDS
+----LL---DGQSLVKE-NGTVDSFLLGPG---EVSVWQHIS----------*
+>P1;gi|399222|sp|P30921|CDGT_BACSP Cyclomaltodextrin glucanotransfer... [ score 129 E 1e-29 ] [ range 434 .. 522 ]
+sequence
+---GTTQERWI----NNDVLIYERKFG---N-NVAVIAVNRNVN--TSASITGLVTSLPA-GSYTDVLGG
+----LL---NGNNLTGS-GGSASIFTLAAG---GTAVWQYTTA---------*
+>P1;gi|9756018|emb|CAC02971.1| acarviose transferase [Actinoplanes s... [ score 122 E 1e-27 ] [ range 444 .. 534 ]
+sequence
+---GDHQQRWI----NDDVYVYERRFG---D-NVLLTAINKG-S--HEYRLERAGTALPA-GTYRDVLGG
+----TF---GGSDLTVE-DGDGTDRSLGAG---QVAVWSYRA----------*
+>P1;gi|12006232|gb|AAG44799.1| amylopullulanase [Geobacillus stearot... [ score 54 E 8e-07 ] [ range 954 .. 1022 ]
+sequence
+---GTIETVYA----KGDVYVFARQYG---K-DVALIAINRGNS--AQTVQLDVSSIIPN-GTFVDELHG
+----EY------EVTVS-NGKVQ-----------------------------*
+>P1;gi|9756018|emb|CAC02971.1| acarviose transferase [Actinoplanes s... [ score 119 E 1e-26 ] [ range 444 .. 534 ]
+sequence
+---GDHQQRWI----NDDVYVYERRFG---D-NVLLTAINKGSH--E-YRLERAGTALPA-GTYRDVLGG
+----TF---GGSDLTVGTDRSTVAPVLGAG---QVAVWSYRA----------*
+>P1;gi|43978332|gb|EAG46266.1| unknown [environmental sequence] [ score 45 E 6e-04 ] [ range 83 .. 186 ]
+sequence
+---GSHHTSWV----NDDFYLYTRNFR---D-SAVMVMVNKG-D--FDHVVDAENIHMPD-GTYICKLNG
+----RL---NGTAIVISAEGQINGFETQPG---Q------------------*
+>P1;gi|3298505|dbj|BAA31528.1| alpha-amylase precursor [Bacillus sub... [ score 135 E 3e-31 ] [ range 389 .. 466 ]
+sequence
+---QPEELS-N-PNGNNQIFMNQR--G---S-K-GVVLANAGS---SSVTIN-TSTKLPD-GRYDNRAG-
+----------AGSFQVA-NGKLT-GTINAR---SAAVLYPD-----------*
+>P1;gi|2058450|gb|AAC45781.1| alpha-amylase [Lactobacillus amylovorus] [ score 123 E 1e-27 ] [ range 398 .. 475 ]
+sequence
+---QSEYIS-N-PNGNTKIFENER--G---S-K-GVVFANASD---SSYSLN-VKTSLAD-GTYENKAG-
+----------SDEFTVK-NGYLT-GTIQGR---EVVVLYGD-----------*
+>P1;gi|2760117|dbj|BAA24177.1| alpha-amylase precursor [Streptococcu... [ score 119 E 2e-26 ] [ range 386 .. 463 ]
+sequence
+---ESEYLR-N-PGGDEQVAMIER--G---T-K-GAVIVNLVD---GDKQIN-SETNLAD-GTYTDKVS-
+----------GRQFNVS-NGRIT-GSVPSR---SAVVLYDD-----------*
+>P1;gi|41411249|emb|CAE17325.1| putative alpha-amylase [Butyrivibrio... [ score 108 E 4e-23 ] [ range 432 .. 507 ]
+sequence
+----SENLR-N-PGNNSSILMIER--G---N-K-GVVIVNASE---NDFALD-SETNLSD-GTYDSVEG-
+----------TGLYTVS-DGNIY-GTVPAK---SVVVL--------------*
+>P1;gi|15004801|ref|NP_149261.1| Alpha-amylase, AmyA [Clostridium ac... [ score 105 E 3e-22 ] [ range 382 .. 457 ]
+sequence
+---QSEYLR-N-P--RNETIMIER--G---N-Q-GMVIVNVGG---DT-PID-SATNLKD-GSYTNKAS-
+----------ANTLNVS-NGRIT-GNIPGG---QIIVLYNN-----------*
+>P1;gi|4699519|gb|AAA63759.2| alpha-amylase AmyA precursor [Clostrid... [ score 96 E 2e-19 ] [ range 387 .. 461 ]
+sequence
+---QNEYLR-L-QN-NNKAMIIER--G---S-K-GAVIVNEG----DSFNLN-TPTNLED-GNYDNHGS-
+----------ADSLTVS-QGRMT-GTVPAN---SIIVIY-------------*
+>P1;gi|231546|sp|P30269|AMY_BUTFI Alpha-amylase precursor (1,4-alpha... [ score 96 E 2e-19 ] [ range 528 .. 605 ]
+sequence
+-----EYLS-N-PGGNIQTLMIER--Y---N-Q-GAVIVNAAQ---TRTTIS-TETHLSD-GIYDQVEG-
+----------SNSFLVK-DGVLS-GSVEGE---GVVVL--------------*
+>P1;gi|224558|prf||1109139A amylase alpha [ score 72 E 3e-12 ] [ range 272 .. 322 ]
+sequence
+------------------IFMNQR--G---A-H-GVVLA---------------ATKLPD-GRY-NKAG-
+----------AGS-----DGKLT-GTINAR---SVAVLYPN-----------*
+>P1;gi|231548|sp|P29750|AMY_THECU Alpha-amylase precursor (1,4-alpha... [ score 45 E 5e-04 ] [ range 415 .. 481 ]
+sequence
+-----------------------R--G---S-A-GYAAFNATN---TAWTRT-FTTSLPD-GVYCDVAN-
+----------GTSYQVS-GGKFT-ATVPAN---GAVALH-------------*
+>P1;gi|18201971|sp|O18420|AMYR_DROSU Alpha-amylase-related protein p... [ score 175 E 3e-43 ] [ range 403 .. 494 ]
+sequence
+----PVTNWWDNG---DSQIAFCR--G---SK--GFIAINNNL---YDLAET-LQTCLPA-GVYCDVISG
+DLIH--GSCSGKSVTVGNDGRA-FVSIGSNDFDGVLAIH--VDAKL------*
+>P1;gi|13374188|dbj|BAB39466.1| alpha-amylase [Rattus norvegicus] [ score 172 E 2e-42 ] [ range 429 .. 521 ]
+sequence
+---QPFANWWDNG---SNQVAFGR--G---NK--GFIVFNNDD---WDLSTT-LQTGLPA-GTYCDVISG
+DKVD--GNCTGIKVYVGSDGNA-YFSISNSAEDPFIAIH--VESKI------*
+>P1;gi|18202166|sp|O77014|AMYR_DROMA Alpha-amylase-related protein p... [ score 170 E 4e-42 ] [ range 403 .. 493 ]
+sequence
+-----ITGWWDNG---DNQISFCR--G---NK--GFLAFNNNL---YDLSQD-LNTCLPA-GTYCDVISG
+SLID--GSCTGKSVTVNDNGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|14318646|gb|AAH09121.1| Amy1 protein [Mus musculus] >gi|26325... [ score 168 E 2e-41 ] [ range 419 .. 511 ]
+sequence
+---QPFANWWDND---SNQVAFGR--G---NK--GFIVFNNDD---WALSET-LQTGLPA-GTYCDVISG
+DKVD--GNCTGIKVYVGNDGKA-HFSISNSAEDPFIAIH--AESKI------*
+>P1;gi|19848948|gb|AAL99393.1| putative amylase-related protein AMYR... [ score 168 E 3e-41 ] [ range 404 .. 495 ]
+sequence
+----PVTNWWDNG---DNQIAFCR--G---SK--GFIAINNNM---YNLGEY-LQTCLPA-GIYCDVISG
+NLIN--GSCSGKSVHVGDDGRG-FVSINSDDFDGVLAIH--VDAKI------*
+>P1;gi|67370|pir||ALMSP1 alpha-amylase (EC 3.2.1.1) A1 precursor, pa... [ score 168 E 3e-41 ] [ range 416 .. 508 ]
+sequence
+---QPFSNWWDNN---SNQVAFSR--G---NR--GFIVFNNDD---WALSET-LQTGLPA-GTYCDVISG
+DKVD--GNCTGLRVNVGSDGKA-HFSISNSAEDPFIAIH--ADSKL------*
+>P1;gi|12862522|dbj|BAB32522.1| alpha-amylase [Drosophila melanogaster] [ score 167 E 4e-41 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---SNQISFSR--G---SR--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+SKSG--SSCTGKTVTVGSDGRA-YINIGSSEDDGVLAIH--VNAKL------*
+>P1;gi|17148481|emb|CAC87125.1| amylase-1 protein [Tetraodon nigrovi... [ score 167 E 4e-41 ] [ range 421 .. 513 ]
+sequence
+---QPHSNWWDNN---SNQVAFGR--G---NR--GFIIFNNDD---WDLDVT-LNTGLPA-GTYCDVISG
+QKEA--GRCTGKQIHVGSDGRA-HFRISNRDEDPFVAIH--VESKL------*
+>P1;gi|13928684|ref|NP_113690.1| amylase 1; amylase 1, salivary [Rat... [ score 167 E 4e-41 ] [ range 416 .. 508 ]
+sequence
+---QPFANWWDNG---SNQVAFSR--G---NR--GFIVFNNDD---WALSST-LQTGLPA-GTYCDVISG
+DKVN--GNCTGLKVNVGSDGKA-HFSISNSAEDPFIAIH--ADSKL------*
+>P1;gi|19032295|dbj|BAB85635.1| alpha amylase [Anguilla japonica] [ score 166 E 9e-41 ] [ range 420 .. 512 ]
+sequence
+---QPISHWWDNG---SNQVAFGR--G---NR--GFIVFNNDD---RHLDMT-LNTGLPG-GTYCDIISG
+QKEG--SRCSGKQVTVDSDGRA-HFNISNMDEDPFIAIH--VDSKL------*
+>P1;gi|20339274|emb|CAD20263.1| amylase [Tetraodon nigroviridis] >gi... [ score 166 E 1e-40 ] [ range 421 .. 513 ]
+sequence
+---QPHSNWWDNN---SNQVAFGR--G---NR--GFIIFNNDD---WDLDVT-LNTGLPA-GTYCDVISG
+QKEG--GRCTGKQIHVGADGRA-HFRISNRDEDPFVAIH--AESKL------*
+>P1;gi|17148482|emb|CAC87126.1| amylase-2 protein [Tetraodon nigrovi... [ score 166 E 1e-40 ] [ range 420 .. 512 ]
+sequence
+---QPHSNWWDNN---SNQVAFGR--G---NR--GFIIFNNDD---WDLDVT-LNTGLPA-GTYCDVISG
+QKEA--GRCTGKQIHVGSDGRA-HFRISNLDEDPFVAIH--AESKL------*
+>P1;gi|21954498|dbj|BAC06331.1| alpha-amylase [Drosophila nagarholen... [ score 165 E 1e-40 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---SNQIAFSR--G---SR--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+TKSG--SSCTGKTVTVGSDGRA-SIYIGNSEDDGVLAIH--VNAKL------*
+>P1;gi|2253595|gb|AAC79122.1| alpha-amylase AMY2 [Drosophila ananassae] [ score 165 E 1e-40 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---SNQIAFSR--G---SK--GFVAFNNDN---YDLNSS-VQTGLPA-GTYCDVISG
+SKSG--SSCTGKTVTVGSDGRA-NISIGSSEDDGVLAIH--VNAKL------*
+>P1;gi|41055323|ref|NP_956722.1| hypothetical protein MGC66313 [Dani... [ score 165 E 2e-40 ] [ range 420 .. 512 ]
+sequence
+---QPLSNWWDNN---NNQIAFSR--G---SK--GFIVINNND---WDLNVM-LKTGLPS-GTYCDIISG
+DKSG--NSCTGKQVTVDSDGQA-TFSICHTEEDPFMAIH--ADSKL------*
+>P1;gi|38076958|ref|XP_131144.3| similar to Alpha-amylase, pancreati... [ score 165 E 2e-40 ] [ range 361 .. 453 ]
+sequence
+---QPFANWWDNN---SNQVAFSR--G---NR--GFIVFNNDD---WALSAT-LQTGLPA-GTYCDVISG
+DKVD--GNCTGLKVNVGSDGKA-HFSISNSAEDPFIAIH--ADSKL------*
+>P1;gi|7435313|pir||S58944 alpha-amylase (EC 3.2.1.1) precursor - fr... [ score 165 E 2e-40 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---SNQIAFSR--G---SR--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+SKSG--SSCTGKTVSVGSDGRA-SIYVGSSEDDGVLAIH--VNAKL------*
+>P1;gi|2352963|gb|AAB69330.1| alpha-amylase [Drosophila ananassae] [ score 165 E 2e-40 ] [ range 405 .. 495 ]
+sequence
+-----IQNWWDNG---SNQIAFSR--G---GK--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+MKNG--SSCTGKTVTVGSDGRA-NISIGSSEDDGVLAIH--VSAKL------*
+>P1;gi|67374|pir||ALPGP alpha-amylase (EC 3.2.1.1), pancreatic - pig [ score 165 E 3e-40 ] [ range 404 .. 496 ]
+sequence
+---EPFANWWDNG---SNQVAFGR--G---NR--GFIVFNNDD---WQLSST-LQTGLPA-GTYCDVISG
+DKVG--NSCTGIKVYVSSDGKA-QFSISNSAEDPFIAIH--AESKL------*
+>P1;gi|7768527|dbj|BAA95440.1| alpha-amylase [Drosophila leontia] [ score 164 E 3e-40 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---SNQISFSR--G---SK--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+SKIG--SSCSGKTVTVGSDGRA-SIYVGSSEEDGVLAIH--VNAKL------*
+>P1;gi|1498468|gb|AAC60246.1| alpha-amylase precursor [ score 164 E 3e-40 ] [ range 420 .. 512 ]
+sequence
+---QPFSNWWDNG---SNQVAFGR--G---DR--GFIVFNNDD---WYMNVD-LQTGLPA-GTYCDVISG
+QKEG--SACTGKQVYVSSDGKA-NFQISNSDEDPFVAIH--VDAKL------*
+>P1;gi|17148483|emb|CAC87127.1| amylase-3 protein [Tetraodon nigrovi... [ score 164 E 3e-40 ] [ range 420 .. 512 ]
+sequence
+---QPHSNWWDNN---SNQVAFGR--G---NR--GFIVFNNDD---WDLDVT-LNTGLPA-GTYCDVISG
+QKEG--GRCTGKQIHVGSDARA-HFRISNRDEDPFVAIH--AESKL------*
+>P1;gi|21954514|dbj|BAC06339.1| alpha-amylase [Drosophila watanabei] [ score 164 E 3e-40 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---SNQISFSR--G---SK--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+TKTG--SSCSGKTITVGSDGRA-SIYIGSSEEDGVLAIH--VNAKL------*
+>P1;gi|21954508|dbj|BAC06336.1| alpha-amylase [Drosophila punjabiensis] [ score 164 E 4e-40 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---SNQISFSR--G---SK--GFIAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+TKIG--SSCSGKTITVGSDGRA-SIYIGSSEEDGVLAIH--VNAKL------*
+>P1;gi|19848952|gb|AAL99395.1| putative amylase-related protein AMYR... [ score 164 E 4e-40 ] [ range 404 .. 495 ]
+sequence
+----PVTNWWDNG---DSQIAFCR--G---SK--GFIAINNNI---YNLGEY-LQTCLPA-GVYCDVISG
+NLIN--GSCGGKSVHVGDDGRG-FVSINSDDFDGVLAIH--VDAKI------*
+>P1;gi|7649279|gb|AAF65827.1| alpha amylase [Pseudopleuronectes amer... [ score 164 E 4e-40 ] [ range 420 .. 512 ]
+sequence
+---QPHSNWWDNQ---SNQVAFGR--G---NR--GFIVFNNDD---WDLDET-LNTGMPG-GTYCDVISG
+QKEG--GRCTGKQIQVGGDGRA-HFKISSRDEDPFVAIH--AESKL------*
+>P1;gi|21954502|dbj|BAC06333.1| alpha-amylase [Drosophila nagarholen... [ score 164 E 6e-40 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---SNQISFSR--G---SK--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+SKIG--SSCSGKTITVGSDGRA-SIYIGSSEDDGVLAIH--VNAKL------*
+>P1;gi|7435322|pir||S58937 alpha-amylase (EC 3.2.1.1) precursor - fr... [ score 163 E 8e-40 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---SNQIAFSR--G---SR--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+SKSG--SSCTGRTVSVGSDGRA-SISVGRSEDDGVLAIH--VNAKL------*
+>P1;gi|32493344|gb|AAH54669.1| Unknown (protein for MGC:66270) [Dani... [ score 161 E 3e-39 ] [ range 420 .. 512 ]
+sequence
+---QPFSNWWDNG---SNQIAFSR--G---SR--GFIIINNDD---WELNVS-LSTGLPG-GTYCDVISG
+QKEN--GRCTGKEVNVGGDGKA-SFRISNQEEDPFMAIH--ADSKL------*
+>P1;gi|3660153|pdb|1BVN|P Chain P, Pig Pancreatic Alpha-Amylase In C... [ score 160 E 6e-39 ] [ range 404 .. 496 ]
+sequence
+---QPFANWWDNG---SNQVAFGR--G---NR--GFIVFNNDD---WQLSST-LQTGLPG-GTYCNVISG
+DKVG--NSCTGIKVYVSSDGTA-QFSISNSAQDPFIAIH--AESKL------*
+>P1;gi|27805399|sp|P83053|AMYP_STRCA Alpha-amylase, pancreatic (1,4-... [ score 160 E 8e-39 ] [ range 405 .. 497 ]
+sequence
+---EPFSNWWDNN---SNQVAFGR--G---SK--GFIVFNNDD---WHMNVD-LYTGLPA-GTYCDVISG
+QKEG--SRCTGIQVYVSGNGKA-NFQISNNAEDPFIAIH--VGAKL------*
+>P1;gi|405119|gb|AAC46463.1| alpha-amylase [ score 159 E 1e-38 ] [ range 404 .. 494 ]
+sequence
+-----LQNWWDNG---SNQISFSR--G---SQ--GFVAFNNDN---YDLNSS-LQTGLSA-GTYCDVISG
+TKSG--SGCTGKTITVGSDGRA-NIYIGSSEEDGVVAIH--VNAKL------*
+>P1;gi|461348|emb|CAA53820.1| alpha amylase [Drosophila pseudoobscura] [ score 159 E 2e-38 ] [ range 404 .. 494 ]
+sequence
+-----LQNWWSNG---SNQISFSR--G---NR--AFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+EKSG--SSCTGKTVTVGSDGRA-SISIRSSADDGVLAIH--VNAML------*
+>P1;gi|19071220|gb|AAL84163.1| alpha-amylase [Lates calcarifer] [ score 159 E 2e-38 ] [ range 413 .. 505 ]
+sequence
+---QPHSNWWDNR---SSQVAFGR--G---NR--GFIIFNNDD---WDLDVT-LNTGMPG-GTYCDVISG
+QKEG--HRCTGKQIHVGGDGRA-HFRISNRDEDPFVAIH--AESKL------*
+>P1;gi|31207375|ref|XP_312654.1| ENSANGP00000020659 [Anopheles gambi... [ score 158 E 2e-38 ] [ range 408 .. 496 ]
+sequence
+-------DWWDNG---NYQMAFCR--G---AR--GFIAFNLES---FDLNQS-LQTCLPA-GTYCDVISG
+DLVN--GACTGNTITVGGDGRA-QIVLPANAYDGVLAIH--INSRV------*
+>P1;gi|34786087|gb|AAH56841.1| MGC64337 protein [Xenopus laevis] [ score 157 E 4e-38 ] [ range 419 .. 511 ]
+sequence
+---QPFSNWWDNG---SNQVAFGR--G---NK--GFIVFNNDD---RYLDAT-LNTGLPS-GTYCDVISG
+QKEG--SRCTGRQINVDGNGFA-RFQISNTDEDPFAAIH--VNAKL------*
+>P1;gi|31207377|ref|XP_312655.1| ENSANGP00000020664 [Anopheles gambi... [ score 157 E 4e-38 ] [ range 431 .. 518 ]
+sequence
+-----LNDWWDNG---GNQIAFCR--G---GR--GFVAFNLEG---YDLNQS-LQTCLPA-GTYCDVISG
+SKSG--SSCTGASVTVGGDGRA-NIFISANADDGVLAIH--AN---------*
+>P1;gi|3582498|gb|AAC35243.1| amylase [Drosophila ananassae] [ score 157 E 5e-38 ] [ range 403 .. 494 ]
+sequence
+----PVQNWWDNG---NNQIAFSR--G---NK--GFVAFNNDN---SDLNQS-LKTELPK-GSYCDVISG
+AKKG--SVCTGKTVVIESNGMA-RININRSEYDGVLAIH--INAKL------*
+>P1;gi|89150|pir||A17230 alpha-amylase (EC 3.2.1.1), pancreatic (ver... [ score 157 E 5e-38 ] [ range 404 .. 496 ]
+sequence
+---QPFANWWDNG---SNQVAFGR--G---NR--GFIVFNDDD---QLWSGT-LQTGLPG-GTYCDVISG
+DKVG--NSCTGIKVNVSSDGTA-QFSISNSAEDPFIAIH--AQSKL------*
+>P1;gi|21954512|dbj|BAC06338.1| alpha-amylase [Drosophila watanabei] [ score 166 E 1e-40 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---SNQIAFSR--G---SR--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+AKSG--SSCTGKTVTVGSDGRA-SIYIGNSEDDGVLAIH--VDAKL------*
+>P1;gi|29422535|gb|AAO84663.1| alpha-amylase [Drosophila iri] [ score 186 E 1e-46 ] [ range 397 .. 490 ]
+sequence
+G--TGLNDWWDNG---DNQIAFCR--G---SK--GFVAFNNN----YDLSQN-LQTCLPA-GVYCDVISG
+NLVN--GSCTGKSVTVGDNGYG-YIHIGSEDFDGVLALH--VDARL------*
+>P1;gi|27450382|gb|AAO14608.1| AMYREL [Drosophila cardini] [ score 185 E 1e-46 ] [ range 399 .. 492 ]
+sequence
+G--TGVSNWWDNG---DNQIAFCR--G---NK--GFVAFNNN----YNLSQN-LQTCLPA-GTYCDVISG
+NLVN--GACTGKSVSVDNNGYG-HISIDSDEFDGVLALH--IDARL------*
+>P1;gi|29422531|gb|AAO84661.1| alpha-amylase [Drosophila guaru] [ score 185 E 2e-46 ] [ range 399 .. 492 ]
+sequence
+G--TEVSNWWDNG---DNQIAFCR--G---NK--GFVAFNNN----YNLSEN-LQTCLPA-GTYCDVISG
+NLIN--GRCTGKSVSVDNNGYG-YISIGSDEYDGVLALH--TDARL------*
+>P1;gi|27436032|gb|AAO13294.1| amylase-related protein [Hirtodrosoph... [ score 185 E 2e-46 ] [ range 397 .. 490 ]
+sequence
+G--TELSNWWDNG---DNQIAFCR--G---SK--GFVAFNNN----YNLSEH-LQTCLPS-GTYCDVISG
+SLVN--GACTGKSVTVNSDGYG-HINIGSGDFDGVLALH--VDARL------*
+>P1;gi|29422537|gb|AAO84664.1| alpha-amylase [Drosophila kuntzei] [ score 184 E 4e-46 ] [ range 399 .. 492 ]
+sequence
+G--TEVSNWWDNG---DNQIAFCR--G---NK--GFVAFNNN----YNLSEN-LQTCLPA-GEYCDVISG
+SLED--GACTGKSVYVDNNGYG-HISIDADEFDGVLALH--TDARL------*
+>P1;gi|29422529|gb|AAO84660.1| alpha-amylase [Drosophila arawakana] [ score 184 E 4e-46 ] [ range 399 .. 492 ]
+sequence
+G--TEVSNWWDNG---DNQIAFCR--G---NK--GFVAFNNN----YNLSQN-LKTCLPA-GTYCDVISG
+NLIN--GACTGKSVSVDNNGYG-YISIDSDEYDGVLALH--VEARL------*
+>P1;gi|7381184|gb|AAF61427.1| AMYREL [Drosophila virilis] [ score 183 E 9e-46 ] [ range 397 .. 490 ]
+sequence
+G--TDLTNWWDNG---DNQIAFCR--G---SK--GFVAFNNN----YNLSEH-LQTCLPA-GEYCDVISG
+NLVN--GACTGKSVTVDGNGYG-YISIGAEDFDGVLALH--TDARL------*
+>P1;gi|27450380|gb|AAO14607.1| AMYREL [Drosophila camargoi] [ score 183 E 1e-45 ] [ range 397 .. 490 ]
+sequence
+G--TELSNWWDNG---DNQIAFCR--G---SK--GFVAFNNN----YDLSEY-LQTCLPA-GEYCDVISG
+NLVN--GSCTGKSVKVDGNGYG-YISIGRDEFDGVLALH--TDARL------*
+>P1;gi|27436028|gb|AAO13292.1| amylase-related protein [Drosophila f... [ score 182 E 1e-45 ] [ range 399 .. 492 ]
+sequence
+G--TKVSNWWDNG---DNQIAFCR--G---NK--GFIAFNNN----YNLSEN-LQTCLPA-GEYCDVISG
+NLVD--GACTGKSVSVDSNGYG-YITIGSNDFDGVLALH--TDARV------*
+>P1;gi|29422541|gb|AAO84666.1| alpha-amylase [Drosophila limbata] [ score 182 E 2e-45 ] [ range 399 .. 492 ]
+sequence
+G--TEVSNWWDNG---DNQIAFCR--G---NK--GFVAFNNN----YNLSEN-LQTCLPA-GEYCDVISG
+SLED--GACTGKSVHVDNNGFG-YISIEADEFDGVLALH--TDARV------*
+>P1;gi|18202155|sp|O76263|AMYR_DROWI Alpha-amylase-related protein p... [ score 181 E 4e-45 ] [ range 400 .. 492 ]
+sequence
+---TELTNWWDNG---DNQIAFCR--G---SK--GFIAINNN----YNLSET-LQTCLPA-GEYCDVISG
+SLVD--GACTGKSVSVDGNGYG-YIHIGTEDFDGVLAIH--TDAKL------*
+>P1;gi|21431731|sp|O77011|AMYR_DROAP Alpha-amylase-related protein p... [ score 180 E 4e-45 ] [ range 402 .. 494 ]
+sequence
+---TELSNWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSRE-LQTCLPA-GVYCDVISG
+SLID--GSCTGKSVTVDGNGYG-YIHIGSDDFDGVLALH--VDARI------*
+>P1;gi|27450386|gb|AAO14610.1| AMYREL [Drosophila formosana] [ score 180 E 5e-45 ] [ range 396 .. 489 ]
+sequence
+G--TELSNWWDNG---DNQIAFCR--G---NK--GFVAFNNN----YNLSEH-LQTCLPA-GVYCDVISG
+SLID--GECTGKSVTVDNNGYG-YISIESEDFDGVLALH--SDARL------*
+>P1;gi|19850136|gb|AAL99576.1| putative amylase-related protein AMYR... [ score 180 E 7e-45 ] [ range 402 .. 493 ]
+sequence
+---TELSNWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQE-LQTCLPA-GVYCDVISG
+SLID--GSCSGKSVTVDGNGYG-YIHIGSDDFDGVLALH--VDAK-------*
+>P1;gi|29422533|gb|AAO84662.1| alpha-amylase [Drosophila immigrans] [ score 180 E 8e-45 ] [ range 396 .. 489 ]
+sequence
+G--TELSNWWDNG---DNQIAFCR--G---NK--GFVAFNNN----YNLSEH-LQTCLPA-GVYCDVISG
+NLID--GKCTGKSVTVDNNGYG-YISIETGELDGVLALH--SDARL------*
+>P1;gi|30923163|sp|O77012|AMYR_DROEC Alpha-amylase-related protein p... [ score 179 E 1e-44 ] [ range 402 .. 494 ]
+sequence
+---TEISDWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQE-LQTCLPA-GVYCDVISG
+SLVD--GSCTGKSVTVDNNGYG-YIHIGSDEFDGALALH--VDAKI------*
+>P1;gi|18202153|sp|O76261|AMYR_DROSE Alpha-amylase-related protein p... [ score 179 E 2e-44 ] [ range 401 .. 493 ]
+sequence
+---TEITGWWDNG---DNQIAFCR--G---NK--GFLAINNN----YDLSQD-LNTCLPA-GTYCDVISG
+SLID--GSCTGKSVTVNENGFG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|27450376|gb|AAO14605.1| AMYREL [Drosophila albomicans] [ score 178 E 2e-44 ] [ range 396 .. 489 ]
+sequence
+G--TELSNWWDNG---DNQIAFCR--G---NK--GFVAFNNN----YNLSEN-LQTCLAA-GVYCDVISG
+NLID--GQCTGKSVTVDNFGYG-YISIGSDEFDGVLALH--SNARL------*
+>P1;gi|17865448|sp|Q9NJN8|AMYR_DROBP Alpha-amylase-related protein p... [ score 178 E 2e-44 ] [ range 402 .. 494 ]
+sequence
+---TELSNWWDNG---DSQISFCR--G---NK--GFLAVNNN----YDLSQE-LQTCLPA-GVYCDVISG
+SLVD--GSCTGKSVTVDDNGYG-YAHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|27450384|gb|AAO14609.1| AMYREL [Drosophila ficusphila] [ score 178 E 3e-44 ] [ range 403 .. 495 ]
+sequence
+---TEISNWWDNG---DNQISFCR--G---NK--GFLAINNN----YDLSQE-LNTCLPA-GVYCDVISG
+SLIN--GSCTGKSVTVNEQGYG-YIHIGSEDFDGVLALH--VDAKV------*
+>P1;gi|17137384|ref|NP_477262.1| Amyrel CG8221-PA [Drosophila melano... [ score 177 E 4e-44 ] [ range 401 .. 493 ]
+sequence
+---TEITGWWDNG---DNQISFCR--G---NK--GFLAINNN----YDLSQD-LNTCLPA-GTYCDVISG
+SLID--GSCTGKSVTVNENGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|27450378|gb|AAO14606.1| AMYREL [Drosophila biarmipes] [ score 177 E 4e-44 ] [ range 401 .. 493 ]
+sequence
+---TEISEWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQN-LNTCLPA-GTYCDVISG
+NLIN--GSCTGKSVTVNGQGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|18202169|sp|O77018|AMYR_DROTK Alpha-amylase-related protein p... [ score 177 E 4e-44 ] [ range 401 .. 493 ]
+sequence
+---TELSEWWDNG---DNQISFCR--G---NK--GFLAINNN----YDLSQD-LNTCLPA-GTYCDVISG
+SLID--GSCTGKSVTVNEHGYG-YIHIGSDDFDGVLALH--VDARV------*
+>P1;gi|17865447|sp|Q9NJN7|AMYR_DROVA Alpha-amylase-related protein p... [ score 177 E 5e-44 ] [ range 402 .. 494 ]
+sequence
+---TELSNWWDNG---DSQISFCR--G---NK--GFLAVNNN----YDLSQD-LQTCLPA-GVYCDVISG
+SLVD--GSCTGKSVTVDSNGYG-YVHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|19850142|gb|AAL99579.1| putative amylase-related protein AMYR... [ score 177 E 5e-44 ] [ range 401 .. 493 ]
+sequence
+---TEMSDWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQD-LNTCLPA-GTYCDVISG
+SLIN--GSCTGKSVTVNDHGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|19848960|gb|AAL99399.1| putative amylase-related protein AMYR... [ score 177 E 8e-44 ] [ range 401 .. 494 ]
+sequence
+G--TELSGWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQE-LNTCLPA-GEYCDVISG
+SLID--GACTGKSVTVNEHGYG-YIHIGSDDFDGVLALH--VNAKV------*
+>P1;gi|6707899|gb|AAF25713.1| putative amylase-related protein [Dros... [ score 176 E 8e-44 ] [ range 401 .. 493 ]
+sequence
+---TELSNWWDNG---DSQISFCR--G---NK--GFLAVNNN----YDLSQE-LQTCLPA-GVYCDVISG
+SLVD--GSCTGKSVTVDDNGFG-YIHIGPEDFDGVLALH--VDARV------*
+>P1;gi|19848958|gb|AAL99398.1| putative amylase-related protein AMYR... [ score 175 E 2e-43 ] [ range 401 .. 493 ]
+sequence
+---TEMSEWWDNG---DSQISFCR--G---NK--GFLAVNNN----YDLSQE-LNTCLPA-GEYCDVISG
+SLVN--GSCTGKSVTVKDNGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|27903909|gb|AAF25714.2| putative amylase-related protein [Dro... [ score 174 E 4e-43 ] [ range 402 .. 494 ]
+sequence
+---TELSEWWDNG---DNQIAFCR--G---NK--GFLAINNN----YDLSQE-LNTCLPA-GEYCDVISG
+SLID--GACTGKSVRVNERGYG-YIHIGSDEFDGVLALH--VDAKV------*
+>P1;gi|12620153|gb|AAG60595.1| putative amylase-related protein [Dro... [ score 174 E 5e-43 ] [ range 401 .. 493 ]
+sequence
+---TEITGWWDNG---DNQISFCR--G---NK--GFLAINNN----YDLSQD-LNTCLPQ-GTYCDVISG
+SLID--GSCTGKSVTVNEHGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|19850138|gb|AAL99577.1| putative amylase-related protein AMYR... [ score 174 E 5e-43 ] [ range 401 .. 493 ]
+sequence
+---TELSEWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQE-LNTCLPA-GEYCDVISG
+SLID--GACTGKSVTVNEQGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|19848966|gb|AAL99402.1| putative amylase-related protein AMYR... [ score 174 E 5e-43 ] [ range 402 .. 494 ]
+sequence
+---TALTGWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQE-LNTCLPA-GVYCDVISG
+SLID--GACTGKSVTVNEHGYG-YIHIGSNDFDGVLALH--VNAKL------*
+>P1;gi|17865655|sp|O18408|AMYR_DROME Alpha-amylase-related protein p... [ score 174 E 6e-43 ] [ range 401 .. 493 ]
+sequence
+---TEITGWWDNG---DNQISFCR--G---NK--GFLAINNN----YDLSQD-LNTCLPA-GTYCDVISG
+SLID--GSCTGKSVTMSENGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|19850148|gb|AAL99582.1| putative amylase-related protein AMYR... [ score 174 E 6e-43 ] [ range 402 .. 494 ]
+sequence
+---TELSEWWDNG---DNQISFCR--G---NK--GFLAINNN----YDLSQE-LNTCLPA-GKYCDVISG
+SLID--GACTGKSVTVNEHGYG-YIHIGSDDFDGVLALH--VNAKV------*
+>P1;gi|12620175|gb|AAG60606.1| putative amylase-related protein [Dro... [ score 173 E 7e-43 ] [ range 401 .. 493 ]
+sequence
+---TEVTGWWDNG---DNQISFCR--G---NK--GFLAINNN----YDLSQD-LNTCLPE-GTYCDVISG
+SLID--GSCTGKSVTVNEQGYG-YIHIGSDDFDGVLALH--VDARV------*
+>P1;gi|21954516|dbj|BAC06340.1| alpha-amylase [Scaptodrosophila leba... [ score 173 E 9e-43 ] [ range 401 .. 494 ]
+sequence
+G--TSVQNWWDNG---SNQIAFSR--G---SK--GFVAFNND----YDFNSS-VQTGLPA-GTYCDVISG
+TKSG--SSCTGKSVTVGSDGRA-TITIRTSEEDGVVALH--VNAKL------*
+>P1;gi|18202167|sp|O77015|AMYR_DROOR Alpha-amylase-related protein p... [ score 173 E 9e-43 ] [ range 401 .. 493 ]
+sequence
+---TEITGWWDNG---DSQISFCR--G---NK--GFLALNNN----YDLSQD-LNTCLPA-GTYCDVISG
+SLID--GSCTGKSVTVNEQGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|21431732|sp|O77013|AMYR_DROKI Alpha-amylase-related protein p... [ score 173 E 1e-42 ] [ range 402 .. 494 ]
+sequence
+---TQLSEWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQE-LNTCLPA-GEYCDVISG
+SLID--GACTGKSVTVNEHGYG-YIHIGSDDFDGVLALH--VNAKV------*
+>P1;gi|29422543|gb|AAO84667.1| alpha-amylase [Drosophila lutescens] [ score 172 E 1e-42 ] [ range 401 .. 493 ]
+sequence
+---TELSEWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLAQD-LNTCLPA-GTYCDVISG
+SLID--GSCTGKSVTVNEHGYG-YIYIGSDDFDGVLALH--VDARV------*
+>P1;gi|33302598|sp|O76262|AMYR_DROLN Alpha-amylase-related protein p... [ score 172 E 2e-42 ] [ range 402 .. 494 ]
+sequence
+---TELSAWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQE-LNTCLPA-GEYCDVISG
+SLID--GACTGKSVHVNEHGYG-YIHIGSDDFDGVLALH--VNAKV------*
+>P1;gi|21431734|sp|O77021|AMYR_DRODO Alpha-amylase-related protein p... [ score 172 E 2e-42 ] [ range 402 .. 494 ]
+sequence
+---TELSGWWDNG---DNQISFCR--G---NN--GFLAVNNN----YDLSQE-LNTCLPA-GEYCDVISG
+SLID--GACTGKSVTVNEHGYG-YIHIGSDEFDGVLALH--VNAKL------*
+>P1;gi|18202152|sp|O76260|AMYR_DROTE Alpha-amylase-related protein p... [ score 172 E 2e-42 ] [ range 401 .. 493 ]
+sequence
+---TEVTGWWDNG---DNQISFCR--G---NK--GFLAINNN----YDLSQD-LNTCLPE-GTYCDVISG
+SLID--GSCTGKSVTVNEYGFG-YIHIGSDDFDGVLALH--VDARV------*
+>P1;gi|20141189|sp|O18344|AMYR_DROAN Alpha-amylase-related protein p... [ score 172 E 2e-42 ] [ range 401 .. 493 ]
+sequence
+---TELSNWWDNG---DSQISFCR--G---NK--GFLAVNNN----YDLSQE-LQTCLPA-GVYCDVICG
+SLVD--GSCTGKSVIVDDSGFG-YIHIGSEDFDGVLALH--VDARV------*
+>P1;gi|29422539|gb|AAO84665.1| alpha-amylase [Drosophila levii] [ score 172 E 2e-42 ] [ range 401 .. 493 ]
+sequence
+---TEMAEWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQD-LNTCLPA-GTYCDVISG
+SLID--GACTGKSVTVNEHGYG-YIHIGSDDFDGVLALH--VEAKV------*
+>P1;gi|27436030|gb|AAO13293.1| alpha-amylase [Hirtodrosophila confusa] [ score 172 E 2e-42 ] [ range 402 .. 494 ]
+sequence
+---TQLQNWWDNG---RNQIAFSR--G---GR--GFVAFNND----YNLNSS-LQTGLPA-GTYCDVISG
+SKSG--SRCTGKTVTVGSDGRA-HISIDSSEEDGVLAIH--VNAKL------*
+>P1;gi|27447663|gb|AAO13692.1| putative amylase-related protein [Cer... [ score 171 E 3e-42 ] [ range 404 .. 497 ]
+sequence
+G--TEMSNWWDND---DNQIAFCR--G---NR--GFIAFNNN----WELTQR-LYTCLSA-GVYCDVISG
+ALVN--GKCTGKAVLVDEWGFA-DIKLGADEFDGVLAIH--VQAKM------*
+>P1;gi|18202156|sp|O76265|AMYR_DROER Alpha-amylase-related protein p... [ score 171 E 4e-42 ] [ range 401 .. 493 ]
+sequence
+---TEITGWWDNG---DSQISFCR--G---TK--GFLALNNN----YDLSQD-LNTCLPA-GTYCDVISG
+SLID--GSCTGKSVTVNEHGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|6707903|gb|AAF25715.1| putative amylase-related protein [Dros... [ score 170 E 5e-42 ] [ range 402 .. 494 ]
+sequence
+---TELSEWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQE-LNTCLPA-GEYCDVISG
+SLID--GTCIGKSVTVNERGYG-YIHIGSDDFDGVLALH--VNAKV------*
+>P1;gi|542513|pir||S41881 alpha-amylase (EC 3.2.1.1) 1 precursor - p... [ score 170 E 7e-42 ] [ range 419 .. 512 ]
+sequence
+G--TDMNDWWDNG---SNQIAFCR--G---NK--GFLAINND----GDLKET-LQTCLPA-GTYCDVISG
+SKNG--GSCTGKSVTVGGDGKA-YIEITTMEDDGVLAIH--ANSKL------*
+>P1;gi|18202159|sp|O76459|AMYR_DROSR Alpha-amylase-related protein p... [ score 170 E 7e-42 ] [ range 402 .. 494 ]
+sequence
+---TELHGWWDNG---DNQISFCR--G---NK--GFLAVNNN----YDLSQE-LNTCLPA-GEYCDVTSG
+SLID--GACTGKSVTVNEHGYG-YIHIGSDDFDGVLALH--VNAKV------*
+>P1;gi|31340538|sp|Q9NJP0|AMYR_DROEL Alpha-amylase-related protein p... [ score 170 E 9e-42 ] [ range 401 .. 493 ]
+sequence
+---TEMAEWWDNG---DSQISFCR--G---NK--GFLAVNNN----YDLSQE-LNTCLPA-GEYCDVISG
+SLIN--GSCTGKSVTVKDNGYG-YIHIGVDDFDGMMALH--VDAKV------*
+>P1;gi|19850134|gb|AAL99575.1| putative amylase-related protein AMYR... [ score 169 E 1e-41 ] [ range 402 .. 494 ]
+sequence
+---TELSEWWDNG---DSQISFCR--G---NK--GFLAVNNN----YDLSQE-LNTCLPA-GEYCDVISG
+SLVD--GACTGKSVKVNEWGYG-YIHIGSDDFDGVLALH--VDAKV------*
+>P1;gi|7435302|pir||S58942 alpha-amylase (EC 3.2.1.1) precursor - fr... [ score 169 E 2e-41 ] [ range 403 .. 494 ]
+sequence
+----AIQNWWDNG---SNQISFSR--G---SR--GFVAFNND----YDLNSS-LQTGLPA-GTYCDVISG
+SKSG--SSCTGKTVSVGSDGRA-SIYIGSSEDDGVLAIH--VNAKL------*
+>P1;gi|18201972|sp|O18552|AMYR_DROPS Alpha-amylase-related protein p... [ score 168 E 2e-41 ] [ range 402 .. 494 ]
+sequence
+---TEISNWWDNG---DSQIAFCR--G---SK--GFIAFNNN----YNLAEV-LQTCLPK-GVYCDVISG
+DLIN--GSCSGKSVYVGDDGLG-FVSIDSDDFDGVLAIH--VDARI------*
+>P1;gi|27450390|gb|AAO14612.1| alpha-amylase [Blaps mucronata] [ score 168 E 3e-41 ] [ range 398 .. 490 ]
+sequence
+G--TDIANWWSND---DNQIAFGR--G---SN--GFVAFTNG----GDINQT-LQTGLPA-GTYCDVISG
+NLEG--GSCTGKTVTVDGDGNA-NISLGAAEDDGVLAIH--INAKV------*
+>P1;gi|7768533|dbj|BAA95443.1| alpha-amylase [Drosophila lini] [ score 168 E 3e-41 ] [ range 403 .. 494 ]
+sequence
+----GIQNWWDNG---SNQISFSR--G---SK--GFVAFNND----YDLNSS-LQTGLPA-GTYCDVISG
+AKIG--SSCSGKTVTVGSDGRA-SIYVGSSEDDGVLAIH--VNAKL------*
+>P1;gi|31207375|ref|XP_312654.1| ENSANGP00000020659 [Anopheles gambi... [ score 167 E 5e-41 ] [ range 403 .. 496 ]
+sequence
+G--TQINDWWDNG---NYQMAFCR--G---AR--GFIAFNES----FDLNQS-LQTCLPA-GTYCDVISG
+DLVN--GACTGNTITVGGDGRA-QIVLPANAYDGVLAIH--INSRV------*
+>P1;gi|1168455|sp|P09107|AMY_TRICA Alpha-amylase precursor (1,4-alph... [ score 167 E 7e-41 ] [ range 397 .. 489 ]
+sequence
+G--TGIENWWSDG---NQQIAFGR--G---NK--GFVAFTIG----YDLNQH-LQTGLPA-GSYCDVISG
+NAEN--GSCSGKTITVGGDGYA-DISLGANEDDGVIAIH--VNAKL------*
+>P1;gi|27436026|gb|AAO13291.1| alpha-amylase [Drosophila funebris] [ score 166 E 1e-40 ] [ range 400 .. 494 ]
+sequence
+G--TEIQNWWDNG---NNQISFSR--G---NR--GFIAFNND----YDLNSS-LQTGLPS-GTYCDVISG
+QKSG--SNCTGKTIVVGSDGRA-NISIRTSEEDGVVAIH--INAKL------*
+>P1;gi|31207377|ref|XP_312655.1| ENSANGP00000020664 [Anopheles gambi... [ score 166 E 1e-40 ] [ range 428 .. 518 ]
+sequence
+G--TSLNDWWDNG---GNQIAFCR--G---GR--GFVAFNEG----YDLNQS-LQTCLPA-GTYCDVISG
+SKSG--SSCTGASVTVGGDGRA-NIFISANADDGVLAIH--AN---------*
+>P1;gi|10798899|gb|AAG23133.1| alpha-amylase [Diabrotica virgifera v... [ score 165 E 2e-40 ] [ range 389 .. 481 ]
+sequence
+G--TDVTNWWSDG---NQQIAFGR--G---HK--GFIAFTLQ----GDINQS-IQTSLPA-GTYCDVISG
+SLEN--GSCTGKTVNVDGSGKA-AISLSTNEDDGVVAIH--VNAKL------*
+>P1;gi|12597283|gb|AAG60014.1| alpha-amylase precursor [Drosophila y... [ score 165 E 3e-40 ] [ range 403 .. 494 ]
+sequence
+----AIPNWWDNG---SNQIAFSR--G---SR--GFVAYNND----YDLNSS-LQTGLPA-GTYCDVISG
+SKSG--SSCTGKTVSVGSDGRA-SIYLGSSEDDGVLAIH--VNAKL------*
+>P1;gi|20377081|gb|AAM20738.1| alpha-amylase [Apis mellifera mellifera] [ score 164 E 4e-40 ] [ range 399 .. 492 ]
+sequence
+G--TKIDNWWDNG---SNQIAFSR--G---CS--GFVAFNGD----YDLKKN-LKVCLPP-GQYCDVISG
+NLEK--GRCTGKVVTVGSDGNA-NIEIGAGEEDGVLAIH--VKAKM------*
+>P1;gi|27447982|gb|AAO13754.1| alpha-amylase [Spodoptera frugiperda] [ score 164 E 4e-40 ] [ range 407 .. 498 ]
+sequence
+----ALSNWWDNG---GNQIAFCR--G---NA--GFVAFNNE----YDLNET-LQTCLPA-GTYCDVISG
+EKSG--SNCTGKRVTVGGDGRA-HISLGANEFDMVLAIH--TGPEV------*
+>P1;gi|6644300|gb|AAF20998.1| alpha-amylase [Diabrotica virgifera vi... [ score 164 E 4e-40 ] [ range 390 .. 482 ]
+sequence
+G--TGINNWWSNG---HQQIAFGR--G---NK--GFIAFTLY----GDIKQS-LQTSLPA-GTYCDVISG
+SLEK--GSCTGKTVNVDSSGKA-AISLSTNEEDGVVAIH--VNAKL------*
+>P1;gi|397989|gb|AAA03350.1| alpha-amylase [ score 163 E 1e-39 ] [ range 403 .. 496 ]
+sequence
+G--TGVNDWWDNG---ANQMAFCR--G---NR--GFIAFNES----FNLSQT-LQTCLPA-GTYCDVISG
+VKQG--STCTGGTVTVGANGLA-QITIQTSAWDGVLAIH--ADSRI------*
+>P1;gi|438387|gb|AAA03715.1| alpha-amylase [ score 162 E 2e-39 ] [ range 406 .. 497 ]
+sequence
+---TGLNDWWDNG---SNQIAFCR--G---GQ--AFIAFNND----WDLSQT-LQTCLPA-GQYCDIISG
+SRSG--NGCTGKVVTVGNDGRA-HISVGANEYDMMLAIH--VGTQ-------*
+>P1;gi|397985|gb|AAA03322.1| alpha-amylase [ score 162 E 2e-39 ] [ range 398 .. 491 ]
+sequence
+G--TNLNDWWTNG---NMQIAFCR--G---AN--GFVAFNES----YDMNET-LQTCLPA-GTYCDVISG
+SKEG--GSCTGATVQVGGDGRA-NIQIPAHGDDGVLAIH--INAKL------*
+>P1;gi|436949|gb|AAA03708.1| alpha-amylase I [ score 162 E 2e-39 ] [ range 399 .. 490 ]
+sequence
+---TGIENWWSDG---NQQIAFGR--G---NK--GFVAFTIG----YDLNQH-FETGLPA-GSYCDVISG
+NAEN--GSCSGKTITVGGDGYA-DISLGANEDDGVIAIH--VNAKL------*
+>P1;gi|33151030|gb|AAP97394.1| alpha-amylase 3 [Diatraea saccharalis] [ score 162 E 2e-39 ] [ range 406 .. 493 ]
+sequence
+---TTINDWWDNG---SSQIAFCR--G---GQ--GFIAFNND----SDLNQT-LQTCLPA-GRYCDVISG
+VKSG--NSCTGKTVTVGNDGRA-HISVGANDYDMMLAIH-------------*
+>P1;gi|21635249|gb|AAM69522.1| alpha-amylase [Drosophila dossoui] [ score 159 E 1e-38 ] [ range 358 .. 448 ]
+sequence
+----GIQNWWDNG---SNQISFSR--G---SR--GFVAFNND----YDLNSS-LQTGLPA-GTYCDVISG
+SKVG--TSCSGKTVTVGSDGRA-SIYVGSSEDDGVLAIQ--VNAK-------*
+>P1;gi|4502085|ref|NP_000690.1| amylase, alpha 2A; pancreatic; Amyla... [ score 158 E 2e-38 ] [ range 418 .. 511 ]
+sequence
+G--QPFTNWYDNG---SNQVAFGR--G---NR--GFIVFNND----DSFSLT-LQTGLPA-GTYCDVISG
+DKIN--GNCTGIKIYVSDDGKA-HFSISNSAEDPFIAIH--AESKL------*
+>P1;gi|33086786|gb|AAP92665.1| alpha-amylase 1 [Diatraea saccharalis] [ score 158 E 2e-38 ] [ range 406 .. 493 ]
+sequence
+---TTINDWWDNG---SSQIAFCR--G---GQ--AFIAFNND----SDLNQT-LQTCLPA-GRYCDVISG
+FKSG--NSCTGKTVTVGNDGRA-HISVGANDYDMMLAIH-------------*
+>P1;gi|8132975|gb|AAF73435.1| alpha amylase [Zabrotes subfasciatus] [ score 158 E 3e-38 ] [ range 387 .. 479 ]
+sequence
+G--TDMTNWWTDG---YQQIAFGR--G---NK--GFVAFSLS----GDIKAD-LQTSLPP-GTYCDVITG
+DISN--NSCTGKTVTVRGDGKA-TIHLSSGEPDGILAIH--VSAKL------*
+>P1;gi|17225018|gb|AAL37207.1| alpha amylase B [Crassostrea gigas] [ score 158 E 3e-38 ] [ range 418 .. 510 ]
+sequence
+G--TTMTNWWDNG---DYAIAFSR--G---NK--GFIVINAG----SDINVN-LQTGLSQ-GTYCDVISG
+NYEN--GSCTGNEVHVGGDGHA-HFHISSGSEDPVVAIH--IGAK-------*
+>P1;gi|7435317|pir||S58960 alpha-amylase (EC 3.2.1.1) isozyme 6 prec... [ score 158 E 3e-38 ] [ range 403 .. 494 ]
+sequence
+----AIQNWWDNG---SNQISFSR--G---SR--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+--SKSGSSCTGKTVTVGSDGRA-SINIGSD---GVLAIH--VNAKL------*
+>P1;gi|21954506|dbj|BAC06335.1| alpha-amylase [Drosophila punjabiensis] [ score 157 E 4e-38 ] [ range 403 .. 494 ]
+sequence
+----AIQNWWDNG---SNQIAFSR--G---SR--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+--AKNGSSCTGKTVTVGSDGRA-SIYIGND---GVLAIH--VNAKL------*
+>P1;gi|2253595|gb|AAC79122.1| alpha-amylase AMY2 [Drosophila ananassae] [ score 157 E 4e-38 ] [ range 403 .. 494 ]
+sequence
+----AIQNWWDNG---SNQIAFSR--G---SK--GFVAFNNDN---YDLNSS-VQTGLPA-GTYCDVISG
+--SKSGSSCTGKTVTVGSDGRA-NISIGSD---GVLAIH--VNAKL------*
+>P1;gi|7435313|pir||S58944 alpha-amylase (EC 3.2.1.1) precursor - fr... [ score 157 E 7e-38 ] [ range 403 .. 494 ]
+sequence
+----AIQNWWDNG---SNQIAFSR--G---SR--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+--SKSGSSCTGKTVSVGSDGRA-SIYVGSD---GVLAIH--VNAKL------*
+>P1;gi|2352963|gb|AAB69330.1| alpha-amylase [Drosophila ananassae] [ score 156 E 9e-38 ] [ range 405 .. 495 ]
+sequence
+-----IQNWWDNG---SNQIAFSR--G---GK--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+--MKNGSSCTGKTVTVGSDGRA-NISIGSD---GVLAIH--VSAKL------*
+>P1;gi|27436030|gb|AAO13293.1| alpha-amylase [Hirtodrosophila confusa] [ score 155 E 2e-37 ] [ range 404 .. 494 ]
+sequence
+-----LQNWWDNG---RNQIAFSR--G---GR--GFVAFNNDN---YNLNSS-LQTGLPA-GTYCDVISG
+--SKSGSRCTGKTVTVGSDGRA-HISIDSD---GVLAIH--VNAKL------*
+>P1;gi|7435322|pir||S58937 alpha-amylase (EC 3.2.1.1) precursor - fr... [ score 154 E 3e-37 ] [ range 403 .. 494 ]
+sequence
+----AIQNWWDNG---SNQIAFSR--G---SR--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+--SKSGSSCTGRTVSVGSDGRA-SISVGDD---GVLAIH--VNAKL------*
+>P1;gi|21954516|dbj|BAC06340.1| alpha-amylase [Scaptodrosophila leba... [ score 153 E 8e-37 ] [ range 402 .. 494 ]
+sequence
+---TSVQNWWDNG---SNQIAFSR--G---SK--GFVAFNNDN---YDFNSS-VQTGLPA-GTYCDVISG
+--TKSGSSCTGKSVTVGSDGRA-TITIRED---GVVALH--VNAKL------*
+>P1;gi|33151030|gb|AAP97394.1| alpha-amylase 3 [Diatraea saccharalis] [ score 153 E 8e-37 ] [ range 406 .. 493 ]
+sequence
+---TTINDWWDNG---SSQIAFCR--G---GQ--GFIAFNNDS---WDLNQT-LQTCLPA-GRYCDVISG
+--VKSGNSCTGKTVTVGNDGRA-HISVGAN---DMLAIH-------------*
+>P1;gi|12597283|gb|AAG60014.1| alpha-amylase precursor [Drosophila y... [ score 152 E 1e-36 ] [ range 403 .. 494 ]
+sequence
+----AIPNWWDNG---SNQIAFSR--G---SR--GFVAYNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+--SKSGSSCTGKTVSVGSDGRA-SIYLGSD---GVLAIH--VNAKL------*
+>P1;gi|542513|pir||S41881 alpha-amylase (EC 3.2.1.1) 1 precursor - p... [ score 152 E 2e-36 ] [ range 422 .. 512 ]
+sequence
+-----MNDWWDNG---SNQIAFCR--G---NK--GFLAINNDG---WDLKET-LQTCLPA-GTYCDVISG
+--SKNGGSCTGKSVTVGGDGKA-YIEITTM---EVLAIH--ANSKL------*
+>P1;gi|19032295|dbj|BAB85635.1| alpha amylase [Anguilla japonica] [ score 150 E 5e-36 ] [ range 419 .. 512 ]
+sequence
+N--QPISHWWDNG---SNQVAFGR--G---NR--GFIVFNNDD---RHLDMT-LNTGLPG-GTYCDIISG
+Q--KEGSRCSGKQVTVDSDGRA-HFNISNM---DEIAIH--VDSKL------*
+>P1;gi|33086786|gb|AAP92665.1| alpha-amylase 1 [Diatraea saccharalis] [ score 149 E 1e-35 ] [ range 406 .. 493 ]
+sequence
+---TTINDWWDNG---SSQIAFCR--G---GQ--AFIAFNNDS---WDLNQT-LQTCLPA-GRYCDVISG
+--FKSGNSCTGKTVTVGNDGRA-HISVGAN---DMLAIH-------------*
+>P1;gi|397989|gb|AAA03350.1| alpha-amylase [ score 149 E 2e-35 ] [ range 404 .. 496 ]
+sequence
+---TGVNDWWDNG---ANQMAFCR--G---NR--GFIAFNLES---FNLSQT-LQTCLPA-GTYCDVISG
+--VKQGSTCTGGTVTVGANGLA-QITISAW---DVLAIH--ADSRI------*
+>P1;gi|27436026|gb|AAO13291.1| alpha-amylase [Drosophila funebris] [ score 148 E 2e-35 ] [ range 404 .. 494 ]
+sequence
+-----IQNWWDNG---NNQISFSR--G---NR--GFIAFNNDN---YDLNSS-LQTGLPS-GTYCDVISG
+QKS--GSNCTGKTIVVGSDGRA-NISIRED---GVVAIH--INAKL------*
+>P1;gi|397985|gb|AAA03322.1| alpha-amylase [ score 148 E 3e-35 ] [ range 401 .. 491 ]
+sequence
+-----LNDWWTNG---NMQIAFCR--G---AN--GFVAFNLES---YDMNET-LQTCLPA-GTYCDVISG
+--SKEGGSCTGATVQVGGDGRA-NIQIPAD---GVLAIH--INAKL------*
+>P1;gi|33151028|gb|AAP97393.1| alpha-amylase 2 [Diatraea saccharalis] [ score 147 E 5e-35 ] [ range 407 .. 497 ]
+sequence
+N--TGLNDWWSNG---FNQIAFCR--G---GN--AFVAFNNDS---WDLNQN-LQTCLPA-GRYCDVISG
+--VKAGNTCTGKTVTVGNDGRA-IINVGAL---DMLAIH--IG---------*
+>P1;gi|17148481|emb|CAC87125.1| amylase-1 protein [Tetraodon nigrovi... [ score 147 E 5e-35 ] [ range 424 .. 513 ]
+sequence
+------SNWWDNN---SNQVAFGR--G---NR--GFIIFNNDD---WDLDVT-LNTGLPA-GTYCDVISG
+Q--KEAGRCTGKQIHVGSDGRA-HFRISNR---DEVAIH--VESKL------*
+>P1;gi|405119|gb|AAC46463.1| alpha-amylase [ score 147 E 7e-35 ] [ range 404 .. 494 ]
+sequence
+-----LQNWWDNG---SNQISFSR--G---SQ--GFVAFNNDN---YDLNSS-LQTGLSA-GTYCDVISG
+--TKSGSGCTGKTITVGSDGRA-NIYIGSD---GVVAIH--VNAKL------*
+>P1;gi|17148482|emb|CAC87126.1| amylase-2 protein [Tetraodon nigrovi... [ score 146 E 1e-34 ] [ range 423 .. 512 ]
+sequence
+------SNWWDNN---SNQVAFGR--G---NR--GFIIFNNDD---WDLDVT-LNTGLPA-GTYCDVISG
+Q--KEAGRCTGKQIHVGSDGRA-HFRISNL---DEVAIH--AESKL------*
+>P1;gi|13374188|dbj|BAB39466.1| alpha-amylase [Rattus norvegicus] [ score 146 E 1e-34 ] [ range 433 .. 521 ]
+sequence
+-------NWWDNG---SNQVAFGR--G---NK--GFIVFNNDD---WDLSTT-LQTGLPA-GTYCDVISG
+DKVDGN--CTGIKVYVGSDGNA-YFSISAE---DPIAIH--VESKI------*
+>P1;gi|1498468|gb|AAC60246.1| alpha-amylase precursor [ score 145 E 2e-34 ] [ range 423 .. 512 ]
+sequence
+------SNWWDNG---SNQVAFGR--G---DR--GFIVFNNDD---WYMNVD-LQTGLPA-GTYCDVISG
+Q--KEGSACTGKQVYVSSDGKA-NFQISNS---DEVAIH--VDAKL------*
+>P1;gi|29289984|gb|AAO72321.1| alpha-amylase preproprotein [Pseudoal... [ score 145 E 2e-34 ] [ range 379 .. 472 ]
+sequence
+N--WAVTNWWDNT---NNQISFGR--G---SS--GHMAINKED---STLSAT-VQTDMAP-GQYCNVLKG
+ELSADAKSCSGEVITVNSDGTI-NLNIGAW---DAMAIH--KNAKLN-----*
+>P1;gi|20339274|emb|CAD20263.1| amylase [Tetraodon nigroviridis] >gi... [ score 145 E 2e-34 ] [ range 424 .. 513 ]
+sequence
+------SNWWDNN---SNQVAFGR--G---NR--GFIIFNNDD---WDLDVT-LNTGLPA-GTYCDVISG
+Q--KEGGRCTGKQIHVGADGRA-HFRISNR---DEVAIH--AESKL------*
+>P1;gi|41055323|ref|NP_956722.1| hypothetical protein MGC66313 [Dani... [ score 145 E 3e-34 ] [ range 420 .. 512 ]
+sequence
+---QPLSNWWDNN---NNQIAFSR--G---SK--GFIVINNND---WDLNVM-LKTGLPS-GTYCDIISG
+DKS--GNSCTGKQVTVDSDGQA-TFSICHT---EEMAIH--ADSKL------*
+>P1;gi|17148483|emb|CAC87127.1| amylase-3 protein [Tetraodon nigrovi... [ score 144 E 5e-34 ] [ range 423 .. 512 ]
+sequence
+------SNWWDNN---SNQVAFGR--G---NR--GFIVFNNDD---WDLDVT-LNTGLPA-GTYCDVISG
+Q--KEGGRCTGKQIHVGSDARA-HFRISNR---DEVAIH--AESKL------*
+>P1;gi|7649279|gb|AAF65827.1| alpha amylase [Pseudopleuronectes amer... [ score 143 E 8e-34 ] [ range 423 .. 512 ]
+sequence
+------SNWWDNQ---SNQVAFGR--G---NR--GFIVFNNDD---WDLDET-LNTGMPG-GTYCDVISG
+Q--KEGGRCTGKQIQVGGDGRA-HFKISSR---DEVAIH--AESKL------*
+>P1;gi|22970588|ref|ZP_00017646.1| hypothetical protein [Chloroflexu... [ score 143 E 1e-33 ] [ range 385 .. 475 ]
+sequence
+---FSVSDWWSNG---NNQIAFGR--G---DK--GFVVINRED---TTLNRT-FQTSMAP-GVYCNVIVA
+DFTNG--TCSGQTVTVDSNRRI-TVSIPPF---SALAIH--VGAKLS-----*
+>P1;gi|5902774|sp|P91778|AMY_PECMA Alpha-amylase precursor (1,4-alph... [ score 142 E 1e-33 ] [ range 411 .. 500 ]
+sequence
+-----LQHWWDNG---NYQIAFGR--G---NK--GFIAMNMDN---HNLDQT-LQTGLPA-GTYCDVISG
+SY--DGSSCSGTEIQVGNDGNA-HFSISNS---SMIAIH--VGAK-------*
+>P1;gi|3582498|gb|AAC35243.1| amylase [Drosophila ananassae] [ score 142 E 2e-33 ] [ range 403 .. 494 ]
+sequence
+----PVQNWWDNG---NNQIAFSR--G---NK--GFVAFNNDN---SDLNQS-LKTELPK-GSYCDVISG
+--AKKGSVCTGKTVVIESNGMA-RININYD---GVLAIH--INAKL------*
+>P1;gi|14318646|gb|AAH09121.1| Amy1 protein [Mus musculus] >gi|26325... [ score 142 E 2e-33 ] [ range 423 .. 511 ]
+sequence
+-------NWWDND---SNQVAFGR--G---NK--GFIVFNNDD---WALSET-LQTGLPA-GTYCDVISG
+DKVDGN--CTGIKVYVGNDGKA-HFSISAE---DPIAIH--AESKI------*
+>P1;gi|13928684|ref|NP_113690.1| amylase 1; amylase 1, salivary [Rat... [ score 142 E 2e-33 ] [ range 420 .. 508 ]
+sequence
+-------NWWDNG---SNQVAFSR--G---NR--GFIVFNNDD---WALSST-LQTGLPA-GTYCDVISG
+DKVNGN--CTGLKVNVGSDGKA-HFSISNS---AEIAIH--ADSKL------*
+>P1;gi|1168455|sp|P09107|AMY_TRICA Alpha-amylase precursor (1,4-alph... [ score 141 E 3e-33 ] [ range 398 .. 489 ]
+sequence
+---TGIENWWSDG---NQQIAFGR--G---NK--GFVAFTI-G---YDLNQH-LQTGLPA-GSYCDVISG
+N--AENGSCSGKTITVGGDGYA-DISLGAN---EVIAIH--VNAKL------*
+>P1;gi|67370|pir||ALMSP1 alpha-amylase (EC 3.2.1.1) A1 precursor, pa... [ score 141 E 3e-33 ] [ range 419 .. 508 ]
+sequence
+------SNWWDNN---SNQVAFSR--G---NR--GFIVFNNDD---WALSET-LQTGLPA-GTYCDVISG
+DKVDGN--CTGLRVNVGSDGKA-HFSISNS---AEIAIH--ADSKL------*
+>P1;gi|27447661|gb|AAO13691.1| alpha-amylase [Ceratitis capitata] [ score 141 E 4e-33 ] [ range 408 .. 500 ]
+sequence
+---TAIQNWVDNG---SNQIAFCR--G---SK--GFVAFNGDS---YDLNTS-LQTCLPA-GTYCDIISG
+VKSDSG--CTGKRVEVGSDGRA-TISITED---GTLAIH--FESKL------*
+>P1;gi|915292|gb|AAA73568.1| alpha amylase [ score 140 E 6e-33 ] [ range 404 .. 494 ]
+sequence
+-----LQNWWSNG---SNQISFSR--G---NR--AFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+EKS--GSSCTGKTVTVGSDGRS-ISSSADD---GVLAIH--VNAKL------*
+>P1;gi|67374|pir||ALPGP alpha-amylase (EC 3.2.1.1), pancreatic - pig [ score 140 E 7e-33 ] [ range 408 .. 496 ]
+sequence
+-------NWWDNG---SNQVAFGR--G---NR--GFIVFNNDD---WQLSST-LQTGLPA-GTYCDVISG
+DKV--GNSCTGIKVYVSSDGKA-QFSISAE---DPIAIH--AESKL------*
+>P1;gi|21635263|gb|AAM69529.1| alpha-amylase [Drosophila nikananu] [ score 140 E 9e-33 ] [ range 357 .. 444 ]
+sequence
+----GIQNWWDNG---SNQISFSR--G---SR--GFVAFNNDN---YDLNSS-LQTGLPA-GTYCDVISG
+--AKVGSSCSGKTVTVGSDGRA-SIYVGSD---GVLAIQ--V----------*
+>P1;gi|1177847|gb|AAA86835.1| alpha-amylase precursor [Pseudomonas s... [ score 140 E 9e-33 ] [ range 370 .. 462 ]
+sequence
+---WRVTNWWDDG---YNQVAFGR--G---GL--GFVVINRDD---NKINQG-FATGMPA-GEYCDIISG
+DFNSQTGTCSGTTISVDSSGYA-HFTVASH---NAAAIH--VGAKV------*
+>P1;gi|436949|gb|AAA03708.1| alpha-amylase I [ score 139 E 1e-32 ] [ range 399 .. 490 ]
+sequence
+---TGIENWWSDG---NQQIAFGR--G---NK--GFVAFTI-G---YDLNQH-FETGLPA-GSYCDVISG
+N--AENGSCSGKTITVGGDGYA-DISLGAN---EVIAIH--VNAKL------*
+>P1;gi|13435654|gb|AAH04698.1| Amy1 protein [Mus musculus] [ score 139 E 1e-32 ] [ range 235 .. 323 ]
+sequence
+-------NWWDND---SNQVAFGR--G---NK--GFIVFNNDD---WALSET-LQTGLPA-GTYCDVISG
+DKVDGN--CTGIKVYVGNDGKA-HFSISNS---AEIAIH--AESKI------*
+>P1;gi|32493344|gb|AAH54669.1| Unknown (protein for MGC:66270) [Dani... [ score 139 E 2e-32 ] [ range 423 .. 512 ]
+sequence
+------SNWWDNG---SNQIAFSR--G---SR--GFIIINNDD---WELNVS-LSTGLPG-GTYCDVISG
+Q--KENGRCTGKEVNVGGDGKA-SFRISNQ---EEMAIH--ADSKL------*
+>P1;gi|19071220|gb|AAL84163.1| alpha-amylase [Lates calcarifer] [ score 138 E 2e-32 ] [ range 416 .. 505 ]
+sequence
+------SNWWDNR---SSQVAFGR--G---NR--GFIIFNNDD---WDLDVT-LNTGMPG-GTYCDVISG
+Q--KEGHRCTGKQIHVGGDGRA-HFRISNR---DEVAIH--AESKL------*
+>P1;gi|166985|gb|AAA98615.1| alpha-amylase [ score 112 E 2e-24 ] [ range 371 .. 427 ]
+sequence
+HSESKLQIMEAD----ADLYLAEIDG-------KVIVKLGPRY-----------DVGHLIPEGFKVVAHG
+N--------------------------------DYAVWEKV-----------*
+>P1;gi|113681|sp|P27939|AM3C_ORYSA Alpha-amylase isozyme 3C precurso... [ score 111 E 4e-24 ] [ range 371 .. 426 ]
+sequence
+HPGSKLNILAAD----GDVYVAMIDD-------KVITKIGTRY-----------DVGNLIPSDFHVVAHG
+N--------------------------------NYCVWEK------------*
+>P1;gi|7435329|pir||T02956 alpha-amylase (EC 3.2.1.1) - maize >gi|42... [ score 110 E 1e-23 ] [ range 373 .. 428 ]
+sequence
+HPGSELNILAAD----GDLYVAKIDD-------KVIVKIGSRY-----------DVGNLIPSDFHAVAHG
+N--------------------------------NYCVWEK------------*
+>P1;gi|113680|sp|P27937|AM3B_ORYSA Alpha-amylase isozyme 3B precurso... [ score 109 E 1e-23 ] [ range 371 .. 426 ]
+sequence
+HPGSKLKILAAE----GDVYVAMIDD-------KVITKIGTRY-----------DVGNLIPSDFHVVAHG
+N--------------------------------NYCIWEK------------*
+>P1;gi|100654|pir||S12775 alpha-amylase (EC 3.2.1.1) precursor (clon... [ score 108 E 5e-23 ] [ range 378 .. 434 ]
+sequence
+HPASELRIMEAD----SDLYLAEIDG-------KVITKIGPRY-----------DVEHLIPEGFQVVAHG
+D--------------------------------GYAIWEKI-----------*
+>P1;gi|11263719|pir||JC7138 alpha-amylase (EC 3.2.1.1) isozyme III -... [ score 107 E 1e-22 ] [ range 370 .. 425 ]
+sequence
+HAESTLDILKAE----GDIYVAMIDG-------KVITKLGPRY-----------DAGGIIPSDFHVVAHG
+N--------------------------------DYCVWEK------------*
+>P1;gi|22536012|gb|AAN01149.1| alpha-amylase precursor; 1,4-alpha-D-... [ score 105 E 2e-22 ] [ range 360 .. 415 ]
+sequence
+HSGSSLNILASD----ADLYMAMIDG-------KILTKLGSRY-----------DVGNLVPSNFHVVASG
+N--------------------------------DYCVWEK------------*
+>P1;gi|113776|sp|P04748|AMY4_HORVU Alpha-amylase type B isozyme (1,4... [ score 105 E 2e-22 ] [ range 97 .. 153 ]
+sequence
+HNESKLQIIEAD----ADLYLAEIDG-------KVIVKLGPRY-----------DVGNLIPGGFEGAAHG
+N--------------------------------DYAVWEKI-----------*
+>P1;gi|31321914|gb|AAM09952.1| alpha-amylase [Eleusine coracana subs... [ score 104 E 5e-22 ] [ range 347 .. 403 ]
+sequence
+HPESELRAIEAD----ADLYLAEIDG-------KVITKLGTRY-----------DVGHLIPDGFQVVAHG
+D--------------------------------GYAVWEKV-----------*
+>P1;gi|113777|sp|P04749|AMY5_HORVU Alpha-amylase type B isozyme (1,4... [ score 104 E 6e-22 ] [ range 79 .. 135 ]
+sequence
+HSESKLQIIEAD----ADLCLAEIDG-------KVIVKLGPRY-----------DVGNLIPGGFEVAAHG
+N--------------------------------DYAVWEKI-----------*
+>P1;gi|27413645|gb|AAO11776.1| alpha-amylase precursor [Musa acuminata] [ score 102 E 2e-21 ] [ range 360 .. 415 ]
+sequence
+HSGSALNILASD----ADLYMAMIDG-------KILTKLGSRY-----------DVGNLVPSNFHVGSSG
+N--------------------------------DYCVWEK------------*
+>P1;gi|113678|sp|P27935|AM2A_ORYSA Alpha-amylase isozyme 2A precurso... [ score 102 E 2e-21 ] [ range 375 .. 427 ]
+sequence
+---SSLKIMLHD----ADAYVAEIDG-------KVVMKIGSRY-----------DVSSLIPPGFHLAAHG
+N--------------------------------GYAVWEK------------*
+>P1;gi|113679|sp|P27932|AM3A_ORYSA Alpha-amylase isozyme 3A precurso... [ score 101 E 5e-21 ] [ range 373 .. 428 ]
+sequence
+NAGSKLRVLAAE----SDMYVAMVDE-------RVITKIGPRI-----------EVGNIIPSDFHIVAHG
+N--------------------------------DYCVWEK------------*
+>P1;gi|7435331|pir||T09942 alpha-amylase (EC 3.2.1.1) precursor - so... [ score 100 E 8e-21 ] [ range 366 .. 418 ]
+sequence
+---SSVNILAAD----HDLYVAKVDD-------KVIVKIGTRM-----------DLGNLIPPGFKVVASG
+Q--------------------------------DYAVWEK------------*
+>P1;gi|113765|sp|P00693|AMY1_HORVU Alpha-amylase type A isozyme prec... [ score 100 E 8e-21 ] [ range 376 .. 428 ]
+sequence
+---SALKILMHE----GDAYVAEIDG-------KVVVKIGSRY-----------DVGAVIPAGFVTSAHG
+N--------------------------------DYAVWEK------------*
+>P1;gi|21670851|dbj|BAC02435.1| alpha-amylase [Ipomoea nil] [ score 100 E 1e-20 ] [ range 370 .. 422 ]
+sequence
+---SNVEILAAD----ADAYVAKIDD-------KVIMKIGSKY-----------DVGNLIPPNFNLVTSG
+Q--------------------------------DYAVWEK------------*
+>P1;gi|30962522|dbj|BAC76729.1| alpha-amylase [Vigna angularis] [ score 100 E 1e-20 ] [ range 367 .. 421 ]
+sequence
+NEKSTVKILASE----GDLYVAKIDN-------KIMVKIGPKM-----------DLGNLIPSNFHVATSG
+Q--------------------------------DYAVWE-------------*
+>P1;gi|3549648|emb|CAA09323.1| alpha amylase [Avena fatua] [ score 100 E 1e-20 ] [ range 375 .. 427 ]
+sequence
+---SELKILMHD----GDAYVAEIDG-------KVVVKIGSRY-----------DVGSVIPAGFVTSAHG
+S--------------------------------DYAVWEK------------*
+>P1;gi|2213472|emb|CAA72143.1| alpha-amylase [Hordeum vulgare subsp.... [ score 99 E 3e-20 ] [ range 375 .. 428 ]
+sequence
+---SALKILMHD----GDAYVAEIDS-------KVVVKIGSRY-----------DVGAVIPAGFVTSAHG
+K--------------------------------DYAVWEKI-----------*
+>P1;gi|2213474|emb|CAA72144.1| alpha-amylase [Hordeum vulgare subsp.... [ score 99 E 3e-20 ] [ range 375 .. 427 ]
+sequence
+---SALEILMHE----GDAYVAEIDG-------KVVVKIGTRY-----------DVGAVIPAGFATSAHG
+K--------------------------------DYAVWEK------------*
+>P1;gi|3769330|dbj|BAA33879.1| alpha-amylase [Phaseolus vulgaris] [ score 98 E 4e-20 ] [ range 366 .. 420 ]
+sequence
+NEKSTVEIMAAE----GDLYVAKIDN-------KIMVKIGPKM-----------DLGKLIPSNFHVATSG
+Q--------------------------------DYAVWE-------------*
+>P1;gi|113775|sp|P08117|AMY3_WHEAT Alpha-amylase AMY3 precursor (1,4... [ score 98 E 5e-20 ] [ range 354 .. 410 ]
+sequence
+HPGSTLDILKAE----GDLYVAKIGG-------KVITKIGSRY-----------NIGNVIPSGFKIAAKG
+N--------------------------------NYCVWEK------------*
+>P1;gi|228404|prf||1803517A alpha amylase [ score 97 E 9e-20 ] [ range 367 .. 421 ]
+sequence
+NEKSSVKIMASE----GDLYVAKIDN-------KIMVKIGPKM-----------DLGNLIPSNLHVATSG
+Q--------------------------------DYAVWE-------------*
+>P1;gi|322847|pir||PC1259 alpha-amylase (EC 3.2.1.1) (clone alphaAmy... [ score 97 E 1e-19 ] [ range 2 .. 58 ]
+sequence
+HPASELRIMDAD----SDLYLAEIDG-------KVIKKVGPRY-----------DVEHLIPEGFQVVAHC
+D--------------------------------GYAVWEKI-----------*
+>P1;gi|3549650|emb|CAA09324.1| alpha-amylase [Avena fatua] [ score 97 E 1e-19 ] [ range 378 .. 430 ]
+sequence
+---SELKILMHD----GDAYVAEIDG-------KVVVKIGSRY-----------DVGDVIPAGFVNSAHG
+S--------------------------------DYAVWEK------------*
+>P1;gi|11263717|pir||JC7137 alpha-amylase (EC 3.2.1.1) isozyme I - rice [ score 95 E 4e-19 ] [ range 369 .. 424 ]
+sequence
+NAGSKLRIVVAD----ADAYVAVVDE-------KVMVKIGTRY-----------DVGNAVPSDFHQTVHG
+K--------------------------------DYSVWEK------------*
+>P1;gi|322849|pir||PC1258 alpha-amylase (EC 3.2.1.1) (clone alphaAmy... [ score 94 E 1e-18 ] [ range 2 .. 58 ]
+sequence
+HAAGERRIMEAD----SDLYLAEIDG-------KVITKIGPRY-----------DVEHLIPEGFQVVAHG
+D--------------------------------GYAIWEKI-----------*
+>P1;gi|82355|pir||S07040 alpha-amylase (EC 3.2.1.1) 2 precursor (clo... [ score 92 E 4e-18 ] [ range 375 .. 428 ]
+sequence
+---SALKILMHD----GDAYVAEIDS-------KVVVKIGSRY-----------ELGAVIPARFVTSANG
+K--------------------------------DYAVWEKI-----------*
+>P1;gi|1220451|gb|AAA91883.1| alpha-amylase [ score 92 E 4e-18 ] [ range 295 .. 347 ]
+sequence
+---SNVQIMASD----SDLYIAMIHH-------KIIVKIGPKL-----------DLGNLIPPNYEVATSG
+Q--------------------------------DYAVWEQ------------*
+>P1;gi|18416465|ref|NP_567714.1| alpha-amylase, putative / 1,4-alpha... [ score 90 E 2e-17 ] [ range 370 .. 422 ]
+sequence
+---SSVTIKAAE----ADLYLAMIDD-------KVIMKIGPKQ-----------DVGTLVPSNFALAYSG
+L--------------------------------DFAVWEK------------*
+>P1;gi|113690|sp|P27941|AMC2_ORYSA Alpha-amylase isozyme C2 precurso... [ score 89 E 2e-17 ] [ range 375 .. 425 ]
+sequence
+---SSLKIMLHD----ADAYVAEIDG-------KVVMKIGSRY-----------DVSSLIPPGFHLRPW-
+---------------------------------PYAVWEK------------*
+>P1;gi|38346145|emb|CAE02023.2| OSJNBb0118P14.5 [Oryza sativa (japon... [ score 78 E 5e-14 ] [ range 359 .. 412 ]
+sequence
+HSRSAVKILEAS----SDLYSAIVDD-------KLCMKIGD---------------GSWCPSGWKLAASG
+D--------------------------------RYAVWHK------------*
+>P1;gi|34910588|ref|NP_916641.1| putative alpha-amylase [Oryza sativ... [ score 77 E 8e-14 ] [ range 850 .. 903 ]
+sequence
+HCRSKIKILKAE----GNLYAAEIDE-------RVTMKIG---------------AGHFEPSGWVVAAEG
+Q--------------------------------DYKVWE-------------*
+>P1;gi|25289325|pir||C96789 protein T23E18.6 [imported] - Arabidopsi... [ score 67 E 1e-10 ] [ range 359 .. 412 ]
+sequence
+HSRSTVRVLKAE----SNLYAAIVGE-------KICMKLGD---------------GSWCPSGWTLATSG
+H--------------------------------RYAVWHK------------*
+>P1;gi|25404842|pir||E96720 probable alpha-amylase T17F3.14 [importe... [ score 65 E 5e-10 ] [ range 770 .. 824 ]
+sequence
+HCRSEVNIDKSE----RDVYAAIIDE-------KVAMKIGP---------------GHYEPPNWSVAVEG
+R--------------------------------DYKVWE-------------*
+>P1;gi|7532799|gb|AAF63239.1| alpha-amylase [Malus x domestica] [ score 65 E 5e-10 ] [ range 360 .. 413 ]
+sequence
+HSRSSITILEAQ----PNLYSAMIGE-------KVCMKIGD---------------GSWCPAGWTLATCG
+H--------------------------------RYAVWNK------------*
+>P1;gi|1220453|gb|AAA91884.1| alpha-amylase [ score 64 E 7e-10 ] [ range 354 .. 407 ]
+sequence
+HSRSSIRILEAQ----PNLYAATIDE-------KVSVKIGD---------------GSWSPAGWTLATSG
+H--------------------------------RYAVWQK------------*
+>P1;gi|23027235|ref|ZP_00065690.1| COG0366: Glycosidases [Microbulbi... [ score 55 E 6e-07 ] [ range 401 .. 449 ]
+sequence
+---SSVDIKAAQ----NGLYAAVIDG-------KVAVKIGPN---------------SWAPSGWELKASG
+T--------------------------------NYAVW--------------*
+>P1;gi|44509987|gb|EAJ76191.1| unknown [environmental sequence] [ score 52 E 3e-06 ] [ range 150 .. 202 ]
+sequence
+HCRSEVKIVKCE----QSVYAAVIDD-------VLLMKIGP---------------GEFHADGWECVLSG
+Q--------------------------------DYAIWRK------------*

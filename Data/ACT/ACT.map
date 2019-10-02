@@ -1,0 +1,1568 @@
+>P1;1phza
+structureX:1phz:  19 :A: 115 :A:phenylalanine-4-hydroxylase:Rattus norvegicus: 2.2: 22.3
+GQETSYIEDNSNQNGAISLIFSLKEEVGALAKVLRLFEENDINLTHIESRPSRLNKDEYEFFTYLDKRTK
+PVLGSIIKSLRNDIGA-TVHELSRDKEK*
+>P1;1psda
+structureX:1psd: 327 :A: 410 :A:D-3-phosphoglycerate dehydrogenase:Escherichia coli: 2.75: 17.7
+-----FPEVSLPLHGGRRLMHIHENRPGVLTALNKIFAEQGVNIAAQYLQTS---AQMGYVVIDIEA-DE
+DVAEKALQAMKAIPGTIRARLLY-----*
+>P1;gi|15488627|gb|AAH13458.1| Phenylalanine hydroxylase [Mus musculus] [ score 163 E 8e-40 ] [ range 19 .. 115 ]
+sequence
+GQETSYIEDNSNQNGAVSLIFSLKEEVGALAKVLRLFEENEINLTHIESRPSRLNKDEYEFFTYLDKRSK
+PVLGSIIKSLRNDIGA-TVHELSRDKEK*
+>P1;gi|20070771|gb|AAH26251.1| Phenylalanine hydroxylase [Homo sapiens] [ score 156 E 8e-38 ] [ range 19 .. 115 ]
+sequence
+GQETSYIEDNCNQNGAISLIFSLKEEVGALAKVLRLFEENDVNLTHIESRPSRLKKDEYEFFTHLDKRSL
+PALTNIIKILRHDIGA-TVHELSRDKKK*
+>P1;gi|32442452|gb|AAP82284.1| Pah [Danio rerio] [ score 136 E 9e-32 ] [ range 20 .. 113 ]
+sequence
+---SSYLEEPKNKSGVVSCIFSLKEEVGALVKALKLFEEKGINLTHIESRPSRKNNEEYEFFISVDQASS
+KVLDEIVDGLRTQIRG-QVHELSRNKQK*
+>P1;gi|41054599|ref|NP_956845.1| phenylalanine hydroxylase [Danio re... [ score 133 E 7e-31 ] [ range 20 .. 113 ]
+sequence
+---SSYLEEPLNKSGVVSCIFSLKEEVGALVEALKLFEEKGINLTHIESRPSRKNNEEYEFFISVDQASS
+KVLDEIVDGLRTQIRG-QVHELSRNKQK*
+>P1;gi|23105297|ref|ZP_00091755.1| COG0077: Prephenate dehydratase [... [ score 112 E 1e-24 ] [ range 507 .. 579 ]
+sequence
+--------------DKTSIIVSMNNKPGALHALLMPFHENGIDLTRIETRPSRSGKWTYVFFIDFGHRHD
+PLVKSVLERLSQEVVA------------*
+>P1;gi|21431808|sp|P27603|PHEA_PSEST P-protein [Includes: Chorismate... [ score 110 E 6e-24 ] [ range 281 .. 353 ]
+sequence
+--------------DKTSIIVSMRNKPGALHELLMPFHSNGIDLTRIETRPSRSGKWTYVFFIDCGHHQD
+PLIKNVLEKIGHEAVA------------*
+>P1;gi|43961114|gb|EAG36881.1| unknown [environmental sequence] [ score 110 E 8e-24 ] [ range 101 .. 173 ]
+sequence
+--------------DKTSIIVSMRNKPGALHELLVPFHANGIDLTRIETRPSRSGKWTYVFFIDFGHHQD
+PLIKDALEKLGQEAVA------------*
+>P1;gi|23061124|ref|ZP_00085991.1| COG0077: Prephenate dehydratase [... [ score 110 E 1e-23 ] [ range 280 .. 352 ]
+sequence
+--------------DKTSIIVSMSNKPGALHELLVPFHDNGIDLTRIETRPSRSGKWTYVFFIDFGHHRD
+PLIKGVLEKISQEAVA------------*
+>P1;gi|44415958|gb|EAJ11293.1| unknown [environmental sequence] [ score 109 E 1e-23 ] [ range 280 .. 352 ]
+sequence
+--------------DKTSIIVSMRNKPGALHELLVPFHNNGIDLTRIETRPSRSGKWTYVFFIDFGHHRD
+PLIKDVLEKLAQEAVA------------*
+>P1;gi|28868953|ref|NP_791572.1| chorismate mutase/prephenate dehydr... [ score 109 E 2e-23 ] [ range 280 .. 352 ]
+sequence
+--------------DKTSIIVSMSNKPGALHELLVPFHENGLDLTRIETRPSRSGKWTYVFFIDFGHHQD
+PLVKAVLEKISSEAVA------------*
+>P1;gi|23472131|ref|ZP_00127459.1| COG0077: Prephenate dehydratase [... [ score 109 E 2e-23 ] [ range 280 .. 352 ]
+sequence
+--------------DKTSIIVSMSNKPGALHELLVPFHENGLDLTRIETRPSRSGKWTYVFFIDFGHHKD
+PLVKAVLEQISSEAVA------------*
+>P1;gi|44620831|gb|EAK53646.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 182 .. 258 ]
+sequence
+-------ETTESENDKTSIIFSVKHEPGALYQILKEFNDNDINLTKIESRPNKNTNWEYNFFVDFGHSSN
+SKIKSVLDNIRKN---------------*
+>P1;gi|26988500|ref|NP_743925.1| chorismate mutase/prephenate dehydr... [ score 108 E 3e-23 ] [ range 283 .. 355 ]
+sequence
+--------------DKTSIIVSMSNKPGALHELLVPFYQNGIDLTRIETRPSRSGKWTYVFFIDFGHHRD
+PLIKAVLEQISQEAVA------------*
+>P1;gi|279998|pir||A44764 chorismate mutase (EC 5.4.99.5) / prephena... [ score 108 E 3e-23 ] [ range 281 .. 353 ]
+sequence
+--------------DKTSIIVSMRNKPGALHELLMPFHSNGIDLTRIETRPSRSGKWTYVFFIDCMGHQD
+PLIKDVLEKIDHEAVA------------*
+>P1;gi|44308603|gb|EAI35655.1| unknown [environmental sequence] [ score 107 E 4e-23 ] [ range 175 .. 255 ]
+sequence
+-----FSKENSTENDKTSIIFSVKHEPGALYNILKEFNDNEINLTKIESRPNKNTNWEYNFFVDFGHHSD
+TKINKVLDVISEN---------------*
+>P1;gi|3183182|sp|P70080|TPH1_CHICK Tryptophan 5-hydroxylase 1 (Tryp... [ score 107 E 4e-23 ] [ range 3 .. 85 ]
+sequence
+-EDNKENKDHAPERGRTAIIFSLKNEVGGLVKALKLFQEKHVNLVHIESRKSKRRNSEFEIFVDCDSN-R
+EQLNEIFQLLKSHVS-------------*
+>P1;gi|15598362|ref|NP_251856.1| chorismate mutase [Pseudomonas aeru... [ score 107 E 5e-23 ] [ range 281 .. 353 ]
+sequence
+--------------DKTSIIVSMRNKPGALHELLVPFHNNGIDLTRIETRPSRSGKWTYVFFIDFGHHKE
+PLIKDVLEKIGQEAVA------------*
+>P1;gi|30231266|ref|NP_840091.1| tryptophan hydroxylase (tryptophan ... [ score 107 E 5e-23 ] [ range 42 .. 123 ]
+sequence
+-EENKDNKTESSETGRAAVVFSLKNEVGGLVKALKLFQENHVNLVHIESRKSKRRNSEFEIFVDCDSN-R
+EQLHEIIQLLRKHV--------------*
+>P1;gi|44617193|gb|EAK50928.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 175 .. 255 ]
+sequence
+-----FSKENSTENDKTSIIFSVKHEPGTLYDILKEFNDNDINLTKIESRPNKNTNWEYNFFVDFGHHSD
+KKINKVLDVISEN---------------*
+>P1;gi|34856109|ref|XP_341863.1| tryptophan hydroxylase [Rattus norv... [ score 106 E 1e-22 ] [ range 3 .. 83 ]
+sequence
+-EDNKENKDHSSERGRVTLIFSLKNEVGGLIKALKIFQENHVNLLHIESRKSKRRNSEFEIFVDCD-INR
+EQLNDIFPLLKSH---------------*
+>P1;gi|24213956|ref|NP_711437.1| P-protein [Leptospira interrogans s... [ score 105 E 3e-22 ] [ range 281 .. 351 ]
+sequence
+-------------NDKTSIVFSCPDKPGALYRVLKPFFDYQLNLSKIESRPTRRNSWEYNFFIDFHGHQK
+PSIQNVLAGLKEN---------------*
+>P1;gi|44306950|gb|EAI34597.1| unknown [environmental sequence] [ score 104 E 5e-22 ] [ range 80 .. 160 ]
+sequence
+-----FSKENTSENDKTSIIFSVKHEPGALYQILKEFNDNDINLTKIESRPNKNTNWEYNFFVDLIGHSN
+SKISSVLDKISEN---------------*
+>P1;gi|43519372|gb|EAE14379.1| unknown [environmental sequence] [ score 104 E 7e-22 ] [ range 59 .. 139 ]
+sequence
+-----FSKENKTKNDKTSIIFSVKHEPGTLYHILKEFNDNDINLTKIESRPNKNTNWEYNFFVDFGHHSD
+TKINKVLDIISKN---------------*
+>P1;gi|6678411|ref|NP_033440.1| tryptophan hydroxylase 1 [Mus muscul... [ score 103 E 1e-21 ] [ range 6 .. 89 ]
+sequence
+-KENKENKDHSSERGRVTLIFSLENEVGGLIKVLKIFQENHVSLLHIESRKSKQRNSEFEIFVDCD-ISR
+EQLNDIFPLLKSH--A-TV---------*
+>P1;gi|43824254|gb|EAF66444.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 92 .. 159 ]
+sequence
+-------------NDRTSLMFTVNDKVGALHDALQPFRTHRLNMTKIESRPSKRKAWEYIFFVDVDGHAD
+PKLAKAIRQL------------------*
+>P1;gi|4759248|ref|NP_004170.1| tryptophan hydroxylase 1; tryptophan... [ score 102 E 1e-21 ] [ range 3 .. 83 ]
+sequence
+-EDNKENKDHSLERGRASLIFSLKNEVGGLIKALKIFQEKHVNLLHIESRKSKRRNSEFEIFVDCD-INR
+EQLNDIFHLLKSH---------------*
+>P1;gi|44617190|gb|EAK50926.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 43 .. 123 ]
+sequence
+-----FSKENSTQNDKTSIIFSVKHEPGTLYHILKEFNDNDINLTKIESRPNKNTNWEYNFFVDFGHHSD
+TKINKVLDVISEN---------------*
+>P1;gi|43113347|gb|EAC22683.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 154 .. 234 ]
+sequence
+-----FSKNNSSENDKTSIIFSVKHEPGALYEILKEFNDNGINLTKIESRPNKNTNWEYNFFVDLIGHSN
+SKISSVLNKISEN---------------*
+>P1;gi|4150981|emb|CAA76184.1| phenylalanine hydroxylase [Geodia cyd... [ score 102 E 3e-21 ] [ range 18 .. 111 ]
+sequence
+--EASYIQTPTGENSALSLIFSLKDEQGSLVTSLKPFQDMGINMTHLESRPSKSNPSEYDFYVDC--VCP
+PKKEDLLSSLRAN-SL-TVNILSRD---*
+>P1;gi|2506222|sp|P17290|TPH1_RABIT Tryptophan 5-hydroxylase 1 (Tryp... [ score 100 E 6e-21 ] [ range 3 .. 83 ]
+sequence
+-EDNKENKDHSLERGRATLIFSLKNEVGGLIKALKIFQEKHVNLLHIESRKSKRRNSEFEIFVDCD-TNR
+EQLNDIFHLLKSH---------------*
+>P1;gi|3183183|sp|Q92142|TPH_XENLA Tryptophan 5-hydroxylase (Tryptop... [ score 100 E 8e-21 ] [ range 40 .. 121 ]
+sequence
+-EDNKEYSENVCERGKASVIFSLKNEIGGLVKALKLFQEKHVNLIHIESRKSKRRNSEFEIFVDCDSN-R
+EQLNEIFQLLKPHV--------------*
+>P1;gi|23053859|ref|ZP_00080038.1| COG0077: Prephenate dehydratase [... [ score 100 E 1e-20 ] [ range 285 .. 353 ]
+sequence
+--------------DKTSLMFSVKDEPGILHRMLEPFAKRGVNLSKIESRPLKKKAWEYIFFLDLGHISD
+PVVSDAVQELKN----------------*
+>P1;gi|43828231|gb|EAF68394.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 36 .. 115 ]
+sequence
+----SSDKVAETGNDKTSIIFSVKHEPGALHHILKEFYDNDINLTKIESRPNKNTNWEYNFFVDFLGHSN
+SKIKSVLDNIAKN---------------*
+>P1;gi|43329163|gb|EAD30115.1| unknown [environmental sequence] [ score 99 E 2e-20 ] [ range 30 .. 110 ]
+sequence
+-----FSKENSTENDKTSIIFSVKHEPGALHNILKEFNGNDINLTKIESRPNKNTNWEYNFFVDFQGHSN
+SKIKAVLDNIEKN---------------*
+>P1;gi|2464955|emb|CAA04917.1| phenylalanine hydroxylase [Branchiost... [ score 99 E 3e-20 ] [ range 5 .. 85 ]
+sequence
+GQKTGSYLKEGDIAGTMEVIFSVNEEVGALAKALRLFESHKINLTHIESRPSKRNRDQYEFFVRFDPNAA
+GV-KPALEALRS----------------*
+>P1;gi|21307636|gb|AAK59708.1| tryptophane hydroxylase [Mesocricetus... [ score 99 E 3e-20 ] [ range 6 .. 86 ]
+sequence
+-KENKENNGHPSERGRVTLIFSLKNEVGGLIKALKIFQENHVNLLHIESRKSNRRNSEFEILVDCD-INR
+EQLNDIFPLLKSH---------------*
+>P1;gi|44165432|gb|EAH47974.1| unknown [environmental sequence] [ score 96 E 1e-19 ] [ range 51 .. 125 ]
+sequence
+---------PKSGNDKTSLIFSAANRPGALHKMLGCFAKNSVSMTRIESRPSRREMWDYVFFVDIEGHAD
+DSVKKALSELEEH---------------*
+>P1;gi|39997702|ref|NP_953653.1| chorismate mutase/prephenate dehydr... [ score 96 E 2e-19 ] [ range 275 .. 341 ]
+sequence
+--------------DKTSLMFSVKDEPGILYRMLEPFASRGVNLSKIESRPLKKKAWEYIFYLDLGHITD
+PVVAEAVQDL------------------*
+>P1;gi|15606269|ref|NP_213648.1| chorismate mutase/prephenate dehydr... [ score 96 E 2e-19 ] [ range 275 .. 344 ]
+sequence
+-------------SDKTSILFGVKDEPGALYKALEVFYKHGINLTKIESRPSKKKAWDYVFFVDLEGHKE
+ERVEKALKELKE----------------*
+>P1;gi|44495644|gb|EAJ66561.1| unknown [environmental sequence] [ score 93 E 1e-18 ] [ range 77 .. 141 ]
+sequence
+------IESGKTDSDKTSIMATTKNEEGALYSLLEPFNKLNVNLSHLTYRPSKVNKWQYSFFIDFDGHKD
+E---------------------------*
+>P1;gi|20807492|ref|NP_622663.1| Prephenate dehydratase [Thermoanaer... [ score 93 E 1e-18 ] [ range 197 .. 264 ]
+sequence
+--------------DKTSIVFSVPNVPGSLYRALGVFAEKNINMTKIESRPSRKKFGEYVFWVDIEGHRK
+ERIKEALEDLK-----------------*
+>P1;gi|27461242|gb|AAM28250.1| phenylalanine hydroxylase [Aedes aegy... [ score 92 E 2e-18 ] [ range 16 .. 108 ]
+sequence
+---GSYIMEGSAEAKNVSIIFSPQEEAGALAKMLKIFDEHRVNLLHIESRSSTRGPG-YEFMVECDSKSQ
+N-LSAAIEAVRDQ-SD-YFNIISRDYK-*
+>P1;gi|23026645|ref|ZP_00065118.1| COG0077: Prephenate dehydratase [... [ score 92 E 2e-18 ] [ range 289 .. 355 ]
+sequence
+--------------DKTSIVVSMKNEPGALHNLLEPFHQHGIDLTRVETRPSPTGAWNYVFFIDFAGHSE
+PVAKKVLEEV------------------*
+>P1;gi|43294532|gb|EAD13082.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 5 .. 81 ]
+sequence
+----------NNEHDKTSIIFSVKHEPGSLYQILKQFSAKGINLTKIESRPNKNTNWEYNFFVDFIGNQE
+SQVKKLLDNISENV--------------*
+>P1;gi|42975253|gb|EAB54585.1| unknown [environmental sequence] [ score 91 E 5e-18 ] [ range 153 .. 226 ]
+sequence
+---------KTKEKMKTSIIFSVKHEPGALYEILKEFNDNDIDLTKIESRPNKNQNWEYNFIVDFGEVKN
+KQISDVLDNISK----------------*
+>P1;gi|17545623|ref|NP_519025.1| PROBABLE BIFUNCTIONAL PROTEIN: CHOR... [ score 91 E 5e-18 ] [ range 280 .. 357 ]
+sequence
+------YETEPSGRDQTSLILSVPNEAGAVYRLLAPLAENGVSMCRFESRPARSGAWEYYFYVDVEGHQD
+PQVARALEKLRHD---------------*
+>P1;gi|44307751|gb|EAI35078.1| unknown [environmental sequence] [ score 91 E 6e-18 ] [ range 236 .. 323 ]
+sequence
+GNKTRFLETGSSGNDKTSILVAVKNKSGALYEVLEPFKDMAIGLSRIETRPSGSGDWSYLFFIDFDGHVE
+EKVDIVLAKLKE----------------*
+>P1;gi|15679231|ref|NP_276348.1| chorismate mutase [Methanothermobac... [ score 90 E 9e-18 ] [ range 150 .. 220 ]
+sequence
+-------------RDKTSIVFSLEDKPGGLHEILGFFADAGVNLTKIESRPSKRGLGKYIFFVDFQGHRK
+PHVMDILRSISD----------------*
+>P1;gi|43483769|gb|EAD96623.1| unknown [environmental sequence] [ score 90 E 1e-17 ] [ range 70 .. 154 ]
+sequence
+------SQSNQTDKDKTSIVVTTKNEEGALYAVLLPFNEFSLNLTHITYRPSKKDKWHYSFFLDFEGHSA
+DDVQKLFKQL-NNLNV-EVKIL------*
+>P1;gi|31213578|ref|XP_315722.1| ENSANGP00000024488 [Anopheles gambi... [ score 89 E 2e-17 ] [ range 52 .. 144 ]
+sequence
+---GSYIMEGHDEAKNVCLIFSPQEEAGALAKMLRIFDEHRVNLLHIESRSSTRGPG-YEFMVECDGK-R
+GTLGPAIEAIR-EKSN-YFNIISRDYK-*
+>P1;gi|43805728|gb|EAF57398.1| unknown [environmental sequence] [ score 89 E 2e-17 ] [ range 186 .. 256 ]
+sequence
+-------------RDKTSLVMSAQERPGALHTLLAPLSDHNINMTRVESRPSRTGMWVYVFFIDIEGHQS
+PNVESAVAKVKRN---------------*
+>P1;gi|43277698|gb|EAD04628.1| unknown [environmental sequence] [ score 89 E 2e-17 ] [ range 175 .. 251 ]
+sequence
+-----FENSSESSNDKTSIMFSVKHEPGALYEILKEFNDNGINLTKIESRPNKNTNWEYNFFVDLIGHSN
+SKISSVLNK-------------------*
+>P1;gi|39597500|emb|CAE59730.1| Hypothetical protein CBG03166 [Caeno... [ score 89 E 3e-17 ] [ range 18 .. 102 ]
+sequence
+----SYVADVNAEMGKTTIVFTLREKAGALAETLKLFQAHDVNLSHIESRPSKTHQGCYEVLVEFDHH--
+-KIEGVIEHFQQKAVQ-KV---------*
+>P1;gi|43937736|gb|EAG24202.1| unknown [environmental sequence] [ score 89 E 3e-17 ] [ range 159 .. 238 ]
+sequence
+GQE----EVPASGQDKSSVLVSMRNKPGALYAVLEPFHRHGISLTRIETRPSPSGTWAYVFYIDFEGHDD
+EQVKKVLAEIDQE---------------*
+>P1;gi|45516855|ref|ZP_00168407.1| hypothetical protein Raeut350001 ... [ score 87 E 6e-17 ] [ range 92 .. 169 ]
+sequence
+------YETEPSGSDQTSMILSVPNKAGAVYQLLAPLAENGVSMCRFESRPARSGAWEYYFYVDVEGHQE
+PAVARAIETLRRN---------------*
+>P1;gi|43946513|gb|EAG28925.1| unknown [environmental sequence] [ score 87 E 8e-17 ] [ range 151 .. 235 ]
+sequence
+----SKSLEKKGQNNKTSVMINLKDQPGSLMKILKPFSDLKINMTRIETRPSRNNIYLHTFFIDFEGEKI
+TKLIEILEDLSEELR-------------*
+>P1;gi|20093519|ref|NP_613366.1| Prephenate dehydratase [Methanopyru... [ score 87 E 8e-17 ] [ range 183 .. 240 ]
+sequence
+-----------TKEDKTSVVFSVTDRPGALREILGIFADRGINLTKIESRPAKRGLGDYVFFLDFEGHR-
+----------------------------*
+>P1;gi|22977352|ref|ZP_00023161.1| COG0077: Prephenate dehydratase [... [ score 87 E 1e-16 ] [ range 319 .. 396 ]
+sequence
+------YETEPSGSDQTSLILSVPNKAGAVYQLLAPLAENGVSMCRFESRPARSGAWEYYFYVDVEGHQE
+PAVTRAIEMLRRN---------------*
+>P1;gi|44543790|gb|EAJ99234.1| unknown [environmental sequence] [ score 87 E 1e-16 ] [ range 261 .. 348 ]
+sequence
+GNKTRFLKTGTSGNDKTTILVAVRNKSGALYEVLEPFKDMAIGLSRIETRPSGSGDWSYLFFIDFDGHIE
+EKVDRVLAKVKE----------------*
+>P1;gi|43842320|gb|EAF75421.1| unknown [environmental sequence] [ score 86 E 3e-16 ] [ range 45 .. 119 ]
+sequence
+--------ENKGKDNKTSIMINLSDKPGSLLSILKPFAENDINMTRIETRPSRNNDFQHTFFIDFEGYED
+DKVAGLISTLEQ----------------*
+>P1;gi|44519237|gb|EAJ82428.1| unknown [environmental sequence] [ score 85 E 3e-16 ] [ range 266 .. 340 ]
+sequence
+------IDAGQTNADKTSIMATTKNEEGALYSLLEPFNALDINLSHLTYRPSKINKWQYSFFIDFEGHED
+KKILSLVSSL------------------*
+>P1;gi|44609711|gb|EAK45603.1| unknown [environmental sequence] [ score 85 E 4e-16 ] [ range 182 .. 262 ]
+sequence
+--------EDKGKTNKTSVMINIQDEPGSLMKILKPFAELDVNMTRIETRPSRNNVFLHTFFIDFEGKNI
+IKLLDTLEGMSEEIR-------------*
+>P1;gi|43615260|gb|EAE62348.1| unknown [environmental sequence] [ score 84 E 6e-16 ] [ range 53 .. 122 ]
+sequence
+--------------DKTSIIISLENKPGALSKVLKIFELSRVNLSYIQSRPSKKDKWSYSFFLDFEGHSK
+TKIKKLLSRLEKN---------------*
+>P1;gi|31795563|ref|NP_775489.2| neuronal tryptophan hydroxylase [Ho... [ score 84 E 6e-16 ] [ range 48 .. 127 ]
+sequence
+GNKGSSKREAATESGKTAVVFSLKNEVGGLVKALRLFQEKRVNMVHIESRKSRRRSSEVEIFVDCEC-GK
+TEFNELIQLLK-----------------*
+>P1;gi|15668818|ref|NP_247621.1| chorismate mutase/prephenate dehydr... [ score 84 E 6e-16 ] [ range 186 .. 258 ]
+sequence
+----------HPKNYKVSIVFELKDKPGALYHILKEFAERNINLTRIESRPSKKRLGTYIFYIDFE-NNK
+EKLEEILKSLERH---------------*
+>P1;gi|42857371|gb|EAA95955.1| unknown [environmental sequence] [ score 84 E 6e-16 ] [ range 163 .. 240 ]
+sequence
+-------------RDKTSIIAYAENKPGALFRILEPFENLKISLTKIETRPAKIEAWEYVFFIDFEGHSD
+KVVQKLFARL-NECAA-EIKIL------*
+>P1;gi|44555169|gb|EAK07175.1| unknown [environmental sequence] [ score 84 E 6e-16 ] [ range 38 .. 113 ]
+sequence
+-------ESQSSGRDKTSIVVYAENKPGALFRILEPFENLKISLTKIETRPAKIEAWEYVFFIDFEGHGD
+RVVQELFDKLKN----------------*
+>P1;gi|23473430|ref|ZP_00128726.1| COG0077: Prephenate dehydratase [... [ score 84 E 8e-16 ] [ range 278 .. 331 ]
+sequence
+-------------RDKTSMLFTLPDKSGSLAQVLNILAREDINMKKLESRPLRGEKWQYVFFVDVEC---
+----------------------------*
+>P1;gi|17531391|ref|NP_495863.1| phenylalanine hydroxylase, Biogenic... [ score 84 E 9e-16 ] [ range 18 .. 92 ]
+sequence
+----SYVADVNADIGKTTIVFTLREKAGALAETLKLFQAHDVNLSHIESRPSKTHEGCYEVLVEFDHR--
+-KIEGVIE--------------------*
+>P1;gi|44394113|gb|EAI96250.1| unknown [environmental sequence] [ score 84 E 9e-16 ] [ range 153 .. 232 ]
+sequence
+----------KSGNDKTSILISTKTGSGVLYSMLQPFSQNKINITRIESRPSHKKNWDYVFFLDLDGHID
+PVLASSLKSVEKNCSL------------*
+>P1;gi|23113121|ref|ZP_00098525.1| COG0077: Prephenate dehydratase [... [ score 84 E 9e-16 ] [ range 195 .. 271 ]
+sequence
+-----------NEEDKTSLLIITGDTPGALAHALQEFALRNINLSRIESRPSKKKLGEYVFFVDIDGYVS
+PSIQEALWALKDKGVS-T----------*
+>P1;gi|43097929|gb|EAC15072.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 137 .. 203 ]
+sequence
+-------------SYRTSLVLSLADQAGALQKALKPFSDRDLNLCKIESRPSGKKTWDYFFFVDFIGHQE
+D--EEVLEAMKE----------------*
+>P1;gi|44590863|gb|EAK32272.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 272 .. 343 ]
+sequence
+---------GQSGHDQTSLIVSVKNEPGAVFKLLEPLARHGVSMTRFESRPARVGTWEYYFYIDIEGHRD
+DAVAAALAEL------------------*
+>P1;gi|41725192|ref|ZP_00151950.1| hypothetical protein Daro011101 [... [ score 83 E 1e-15 ] [ range 278 .. 345 ]
+sequence
+-------------RDKTSLIMSAPNRTGALHELLLPLSTAGVSMCRLESRPARNALWEYVFYVDIEGHRD
+PAIKAALEKL------------------*
+>P1;gi|44468887|gb|EAJ48531.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 131 .. 205 ]
+sequence
+--------TGSSGDDKTSILVSAKNEPGSLYKLLSPLSKNNVSMTKIESRPSKHNNWEYIFYLDIDGHSQ
+KKLKDATKNIEK----------------*
+>P1;gi|44176848|gb|EAH53994.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 182 .. 251 ]
+sequence
+--------ESKGEINKTSVMINIKDQPGSLMKILKPFSELDVNMTRIETRPSRNNVFLHTFFIDFEGFYE
+D--KNIIELL------------------*
+>P1;gi|30248352|ref|NP_840422.1| Prephenate dehydratase (PDT):Choris... [ score 83 E 2e-15 ] [ range 272 .. 342 ]
+sequence
+-------------RDKTSLAMATHNRPGAVHELLAPFARYQVSMTRLESRPSRASLWEYVFFTDIAGHQD
+ENVARALQALRDN---------------*
+>P1;gi|44370827|gb|EAI79648.1| unknown [environmental sequence] [ score 82 E 2e-15 ] [ range 175 .. 244 ]
+sequence
+----SHTQQDKSDNSKISLIITPPNSSGSLYKLLKPFATEDINLLRIESRPLRGQLWRYVFFIDCEGHID
+DK--------------------------*
+>P1;gi|41689642|ref|ZP_00146175.1| hypothetical protein Psyc114801 [... [ score 82 E 2e-15 ] [ range 309 .. 376 ]
+sequence
+--------------DKTSIMVSAHDKAGALIEILKPLSYHGVSMTSIETRPERPNKWAYVFFIDINGHID
+PNVSAAIADIR-----------------*
+>P1;gi|44571721|gb|EAK18985.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 169 .. 221 ]
+sequence
+------------KNSKVSVAFSLDHKPGSLHQCLKPFRDSKINLTKIQSRPSKKNDWDYLFFIDF-----
+----------------------------*
+>P1;gi|22299649|ref|NP_682896.1| ORF_ID:tlr2106~probable prephenate ... [ score 82 E 3e-15 ] [ range 197 .. 264 ]
+sequence
+----------------TSIAFSLKNAPGALLKVLQLFSDRQINLSRIESRPSKRALGDYLFFVDLEVNGR
+PVVADCLVALKE----------------*
+>P1;gi|44401232|gb|EAJ01222.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 226 .. 312 ]
+sequence
+-NTTRFITVSKNDSDKTSVFITTKNEPGALFNALKPFHEKKINLTHITYRPLRKDKWNYFFFFDFEGHRE
+EKIQSLFEELKN----------------*
+>P1;gi|22982258|ref|ZP_00027541.1| COG0077: Prephenate dehydratase [... [ score 82 E 3e-15 ] [ range 296 .. 362 ]
+sequence
+--------------DQTSLIVSVHNEPGAVFKLLEPLARHSVSMTRFESRPARVGTWEYYFYIDLEGHRD
+PAVAAALAEL------------------*
+>P1;gi|44253644|gb|EAH98582.1| unknown [environmental sequence] [ score 82 E 4e-15 ] [ range 266 .. 330 ]
+sequence
+------SESSRTGEDKTSIVVTTKNEEGALYSVLLPFNELSLNLTHLTYRPSKVDKWQYSFFLDFEGHKE
+E---------------------------*
+>P1;gi|34497810|ref|NP_902025.1| chorismate mutase/prephenate dehydr... [ score 81 E 5e-15 ] [ range 273 .. 336 ]
+sequence
+--------------DKTSIVVSAPNRPGAVHQLLEPVAANGVSMSKFESRPSRAGLWDYVFFIDLEGHRQ
+D--ERVLKAL------------------*
+>P1;gi|21242399|ref|NP_641981.1| P-protein [Xanthomonas axonopodis p... [ score 81 E 5e-15 ] [ range 313 .. 394 ]
+sequence
+---------PSSGHDRTSVLVFIHDKPGALFDVLSPFARHGISMNRIESRPSHQAKWEYGFFIDLGHVED
+DAMKQALAELKAH-SA-QIKVL------*
+>P1;gi|27262524|gb|AAN87543.1| Prephenate dehydratase [Heliobacillus... [ score 81 E 5e-15 ] [ range 204 .. 272 ]
+sequence
+-------------NDKTSIVCALPDRPGGLYEILREFAEREINLSRIESRPTKYELGQYLFFIDCAGHQR
+DKVSEALNAI------------------*
+>P1;gi|44352833|gb|EAI66777.1| unknown [environmental sequence] [ score 81 E 5e-15 ] [ range 80 .. 161 ]
+sequence
+----SNKQQDKSKNSKVSLIVSPPNSSGSLYNLLKPFASEDINLLRIESRPFRGQLWSYVFFIDCEGHID
+NKIQNAIHTLKEQ---------------*
+>P1;gi|8134631|sp|Q9ZHY3|PHEA_NEIGO P-protein [Includes: Chorismate ... [ score 81 E 7e-15 ] [ range 271 .. 344 ]
+sequence
+-------ETGASGSDKTSLAVSAPNRAGAVASLLQPLTESGISMTKFESRPSKSVLWEYLFFIDIEGHRR
+DQIQTALERL------------------*
+>P1;gi|44604844|gb|EAK42171.1| unknown [environmental sequence] [ score 81 E 8e-15 ] [ range 182 .. 263 ]
+sequence
+----SNKQQDISKNSKVSLIISPPNSSGSLYNLLKPFASEDINLLRIESRPFRGQLWSYVFFIDCEGHID
+NKIQNAIYTLKEQ---------------*
+>P1;gi|44345725|gb|EAI61601.1| unknown [environmental sequence] [ score 81 E 9e-15 ] [ range 175 .. 256 ]
+sequence
+----SHGQQDKSENSKVSLIVSPPDSSGSLYNLLKPFASEDINLFRIESRPFRGQLWSYAFFIDCEGHID
+TKIQNAIDSLNKQ---------------*
+>P1;gi|22406649|ref|ZP_00001493.1| COG0077: Prephenate dehydratase [... [ score 80 E 1e-14 ] [ range 166 .. 235 ]
+sequence
+--------------SKTSIVFSTRNKPGALYKILKILNDYGINMTKIESRPVQYIPFQYIFFIDIEKNTD
+AAITDIQKSVEQ----------------*
+>P1;gi|21674484|ref|NP_662549.1| prephenate dehydratase [Chlorobium ... [ score 80 E 1e-14 ] [ range 197 .. 264 ]
+sequence
+---------------KTSIVFALPNEQGSLFRALATFALRGIDLTKIESRPSRKKAFEYLFYADFIGHRE
+DQVHNALENLRE----------------*
+>P1;gi|43934377|gb|EAG22401.1| unknown [environmental sequence] [ score 80 E 1e-14 ] [ range 151 .. 229 ]
+sequence
+----SHTQQDKSDNSKISFIITPPNSSGSLYNLLKPFATQDINLLRIESRPSRGQIWRYVFFIDCEGHID
+ENIQNAMNSL------------------*
+>P1;gi|3153199|gb|AAC38578.1| P-protein [Xanthomonas campestris] [ score 80 E 1e-14 ] [ range 311 .. 392 ]
+sequence
+---------PSSGHDRTSVLVFIHDKPGALFDVLSPFARHGISMNRIESRPSHQAKWEYGFFIDLAGHVD
+ESMKQALAELEAH-SA-QIKVL------*
+>P1;gi|23052034|ref|ZP_00078721.1| COG0077: Prephenate dehydratase [... [ score 80 E 1e-14 ] [ range 214 .. 297 ]
+sequence
+--KTGKPENSSHSAFKTSIIVYLKDRPGALYEILGAFAKNKINLTRIESRPSKKELGDYYFYIDFEGHTD
+ALIEKTLKDIENKI--------------*
+>P1;gi|22994788|ref|ZP_00039279.1| COG0077: Prephenate dehydratase [... [ score 79 E 2e-14 ] [ range 290 .. 359 ]
+sequence
+--------------DRTSILVFIRDNPGALFEVLGSFARHGINMNRIESRPSHQVRWEYVFFIDLGHVED
+EPMKQALAELEQH---------------*
+>P1;gi|44220972|gb|EAH77894.1| unknown [environmental sequence] [ score 79 E 2e-14 ] [ range 187 .. 243 ]
+sequence
+----------QTQASRTSLAFSLANAPGALLQALEIFAARGLNMSRIESRPSKRELGEYVFFVDLE----
+----------------------------*
+>P1;gi|44323475|gb|EAI45960.1| unknown [environmental sequence] [ score 79 E 3e-14 ] [ range 276 .. 349 ]
+sequence
+-------EVNKTGKDKTSFLIQTPNKPGSLLSVLKPFDKRRINLTKIETRPSRGNVNSHDFFVDCEGHIK
+DKLKLAIKEV------------------*
+>P1;gi|43193364|gb|EAC62201.1| unknown [environmental sequence] [ score 79 E 3e-14 ] [ range 42 .. 121 ]
+sequence
+----------KSGNDKTSILISTKTGSGVLYSMLEPFSQNKINITRVESRPSHKKNWDYVFFLDLDGHVD
+PVLASSLKSVERNCSL------------*
+>P1;gi|283726|pir||A42271 tryptophan 5-monooxygenase (EC 1.14.16.4) ... [ score 78 E 4e-14 ] [ range 15 .. 111 ]
+sequence
+-EDSAYIVEGVDEARNTCLLFSPKDSSGALANILAIFKKHDINLVHIESR-SSLRVPGYEFFVEADGKSG
+-ALGKAIEDVKEQCS--YFNIISRDYK-*
+>P1;gi|43582255|gb|EAE45951.1| unknown [environmental sequence] [ score 78 E 4e-14 ] [ range 116 .. 193 ]
+sequence
+-------------SDKTSLVAASSDDSGSLLQLLQPLAEARISMTRIESRPTRSGLWKYLFFIDLEGHAD
+PQVRQALADI-DEASA-FLRIL------*
+>P1;gi|4883767|gb|AAD31643.1| phenylalanine hydroxylase; phenylalani... [ score 77 E 8e-14 ] [ range 18 .. 69 ]
+sequence
+----SYVADVNADIGKTTIVFTLREKAGALAETLKLFQAHDVNLSHIESRPSRLMK--------------
+----------------------------*
+>P1;gi|44610522|gb|EAK46200.1| unknown [environmental sequence] [ score 77 E 8e-14 ] [ range 271 .. 355 ]
+sequence
+------NEVGKTGKDKSSFLIQTPNKPGSLMSVLKPFEKRKINLSKIETRPSRGNINSHDFFIDCEGHTK
+KKLDLAIKDI-INAGA-IVRNL------*
+>P1;gi|45520490|ref|ZP_00172020.1| hypothetical protein Mflag215501 ... [ score 77 E 8e-14 ] [ range 271 .. 339 ]
+sequence
+--------------DKTSLLLATKNVPGAIVGLLTPLAEHGVDMTELGSRPSKLGIWDYVFFVDIKGHQD
+PAVARALHELEQ----------------*
+>P1;gi|27734182|ref|NP_775567.1| tryptophan hydroxylase 2; neuronal ... [ score 77 E 1e-13 ] [ range 56 .. 125 ]
+sequence
+----------TTESSKTAVVFSLKNEVGGLVKALRLFQEKHVNMLHIESRRSRRRSSEVEIFVDCEC-GK
+TEFNELIQLLK-----------------*
+>P1;gi|44610527|gb|EAK46204.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 271 .. 345 ]
+sequence
+------NEVGKTGKDKSSFLIQTPNKPGSLMSVLKPFEKRKINLSKIETRPSRGNINSHDFFIDCEGHKD
+KKLDLAIKDI------------------*
+>P1;gi|43860282|gb|EAF84240.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 126 .. 190 ]
+sequence
+-------EVNKTGRDKTSFLIQTPNKPGSLLSVLKPFDKRKINLSKIETRPSRGNINSHDFFIDCEGHIK
+DQ--------------------------*
+>P1;gi|44145935|gb|EAH37715.1| unknown [environmental sequence] [ score 76 E 1e-13 ] [ range 206 .. 280 ]
+sequence
+------NKVEKTGKDKSSFLIQTPNKPGSLMSVLKPFEKRKINLSKIETRPSRGNINSHDFFVDCEGHIK
+DKLHLAIKEI------------------*
+>P1;gi|23021504|ref|ZP_00061176.1| COG0077: Prephenate dehydratase [... [ score 76 E 1e-13 ] [ range 53 .. 130 ]
+sequence
+----SKKEAKKAEKNKTSIVFSTENKPGSLYRILDIFNLWDINMTRIESRPAKNELGKYIFFVDINGHID
+EDVRDALTMVR-----------------*
+>P1;gi|27753970|ref|NP_776211.1| tryptophan hydroxylase 2; neuronal ... [ score 76 E 2e-13 ] [ range 45 .. 122 ]
+sequence
+--EDKRSGKDTSESSKTAVVFSLKNEVGGLVRALRLFQEKHVNMLHIESRRSRRRSSEVEIFVDCEC-GK
+TEFNELIQLLK-----------------*
+>P1;gi|20091968|ref|NP_618043.1| chorismate mutase/prephenate dehydr... [ score 76 E 2e-13 ] [ range 241 .. 312 ]
+sequence
+---------------KTSLIVYLKDRPGALYELLGAFAKRGINLTKIESRPSKKELGDYYFYIDFEGTSD
+ALIKGALEDIKSKAG-------------*
+>P1;gi|45529715|ref|ZP_00180855.1| hypothetical protein Mther107301 ... [ score 76 E 2e-13 ] [ range 1 .. 69 ]
+sequence
+------------------MVAAVANRPGSLYAILKDFAAAGINLTRIESRPTKQELGEYLFFIDCEGRTE
+PPLREVLVGLKAKTSL------------*
+>P1;gi|44543039|gb|EAJ98723.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 99 .. 183 ]
+sequence
+------IEIEQTKKDKTSFLIQTDNQPGALIKVLEPFNKRKINLERIETRPSREATNAHNFFIDSSGHKD
+AKLKQVIGNLK-ELGA-SVRIL------*
+>P1;gi|26449251|dbj|BAC41753.1| hypothetical protein [Macaca fascicu... [ score 75 E 3e-13 ] [ range 48 .. 127 ]
+sequence
+GNKGSSKNETATESGKTAVVFSLKNEVGGLVKALRLFQEKRVHMVHIESRKSRRRSSEVEIFVDCEC-GK
+TEFNELIQLLK-----------------*
+>P1;gi|44289702|gb|EAI23076.1| unknown [environmental sequence] [ score 76 E 3e-13 ] [ range 86 .. 170 ]
+sequence
+------IEVEQTSKDKTSFLIQTDNQPGALVKILEPFNKRKINLERIETRPSRESLNAHNFFIDSSGHKD
+AKLEQVIVSLKK-LGA-SVRIL------*
+>P1;gi|38234782|ref|NP_940549.1| prephenate dehydratase [Corynebacte... [ score 75 E 3e-13 ] [ range 174 .. 239 ]
+sequence
+-------------HDRTSVVFTLKNEPGSLVGALSEFAMRGVDLTRIESRPIEEGLGTYRFHVDINGHID
+DL--NVAEALR-----------------*
+>P1;gi|19554086|ref|NP_602088.1| prephenate dehydratase [Corynebacte... [ score 75 E 3e-13 ] [ range 200 .. 267 ]
+sequence
+-------------HDRTSVIFSLPNVPGSLVRALNEFAIRGVDLTRIESRPTRKVFGTYRFHLDISGHIR
+DIVAEALRAL------------------*
+>P1;gi|33592103|ref|NP_879747.1| p-protein [includes: chorismate mut... [ score 75 E 3e-13 ] [ range 269 .. 336 ]
+sequence
+----GHIEPLSSGKDKTSLILAVPNRAGAVYDMLAPMAANGVSMTRFESRPARTGQWEYYFYVDVLGHRD
+DA--------------------------*
+>P1;gi|44626733|gb|EAK57951.1| unknown [environmental sequence] [ score 74 E 5e-13 ] [ range 213 .. 289 ]
+sequence
+------NKVEKTGKDKSSFLIQTPNRPGSLMSVLKPFEKRKINLSKIETRPSRGNINSHDFFVDCEGHIK
+DQIKEIID--------------------*
+>P1;gi|16329415|ref|NP_440143.1| chorismate mutase /prephenate dehyd... [ score 74 E 6e-13 ] [ range 197 .. 264 ]
+sequence
+----------------TTLAFSVPNVPGALVAPLQLLAQRNINLSRIESRPTKRSLGEYVFFMDLESQTE
+PRLQEALEKLKQ----------------*
+>P1;gi|44533470|gb|EAJ92099.1| unknown [environmental sequence] [ score 74 E 7e-13 ] [ range 62 .. 143 ]
+sequence
+---------GQTKKDKTSFLIQTDNQPGALIKILEPFKKRKINLERIETRPSRESKNAHNFFIDCGHYKD
+VKLKQVIISLK-ELGA-SVRIL------*
+>P1;gi|44309973|gb|EAI36621.1| unknown [environmental sequence] [ score 74 E 7e-13 ] [ range 275 .. 352 ]
+sequence
+----------KTGADKSSFLIQTPNKPGSLMSVLKPFDKKKINLSKIETRPSRGNINSHDFFIDCEGHKD
+KKLRLAIEEV-EETGA-IV---------*
+>P1;gi|43295191|gb|EAD13406.1| unknown [environmental sequence] [ score 74 E 8e-13 ] [ range 153 .. 224 ]
+sequence
+-----------SEKNKSSFLIRTENKPGALLEILKPFNEYKINLFRIETRPSRSDRGSHDFFIDSEGHID
+EKMQLVIKKVKD----------------*
+>P1;gi|43206020|gb|EAC68572.1| unknown [environmental sequence] [ score 74 E 8e-13 ] [ range 245 .. 293 ]
+sequence
+---------PKSGNDKTSLIFSAVNKPGALHKMLGCFAKNSVSMTRIESRPSRREMWD------------
+----------------------------*
+>P1;gi|21226472|ref|NP_632394.1| chorismate mutase; prephenate dehyd... [ score 74 E 9e-13 ] [ range 256 .. 330 ]
+sequence
+-------ENSSSYAFKTSLIVYLKDRPGALYEPLGFFAKRGINLTKIESRPSKKELGDYYFYIDLEGNSD
+VLIKDALEDI------------------*
+>P1;gi|38175081|dbj|BAD01049.1| tryptophan 5-hydroxylase [Hemicentro... [ score 74 E 1e-12 ] [ range 46 .. 114 ]
+sequence
+----------------TPMIFSIKNELGNLAKVLKLFKENDIRVLHIESRKANM-SSELEIFVDCEGKKK
+-MLKNVMDFMKDAMLL-T----------*
+>P1;gi|43564954|gb|EAE37259.1| unknown [environmental sequence] [ score 74 E 1e-12 ] [ range 96 .. 164 ]
+sequence
+----------KTGADKSSFLIQTPNKPGSLMSVLKPFDKRKINLSKIETRPSRGNINSHDFFIDCEGHIK
+DKLQLAIE--------------------*
+>P1;gi|43766551|gb|EAF37720.1| unknown [environmental sequence] [ score 74 E 1e-12 ] [ range 30 .. 98 ]
+sequence
+---------------KTSLIMSTKQQAGSLADALMIFKQHKINLVKLESRPTPGNPWEEVFYVDLEANAD
+TQVKEALEELKEH---------------*
+>P1;gi|15920486|ref|NP_376155.1| 202aa long hypothetical P-protein [... [ score 74 E 1e-12 ] [ range 109 .. 179 ]
+sequence
+------------DGDKTMVMFTVPHKPGALYKVLEKFYNNNINLTMIYSRPLKSIPWQYYFYLEFEGNKD
+NKVKATLEEIRN----------------*
+>P1;gi|44487192|gb|EAJ61539.1| unknown [environmental sequence] [ score 74 E 1e-12 ] [ range 274 .. 336 ]
+sequence
+---------EKTGKDKSSFLIQTPNKPGSLMSVLKPFEKRKINLSKIETRPSRGNINSHDFFIDCEGHIK
+DQ--------------------------*
+>P1;gi|44260397|gb|EAI03178.1| unknown [environmental sequence] [ score 74 E 1e-12 ] [ range 274 .. 345 ]
+sequence
+---------EKTGKDKSSFLIQTPNKPGSLISVLKPFEKRKINLSKIETRPSRGNINSHDFFIDCEGHIK
+DKLKLAIKEV------------------*
+>P1;gi|43199383|gb|EAC65241.1| unknown [environmental sequence] [ score 74 E 1e-12 ] [ range 246 .. 299 ]
+sequence
+-----------SKNSKVSIVFTLPDKPGSLFECLKPLKAHNLNLTKIQSRPSRKIQWDYNFYVDI-----
+----------------------------*
+>P1;gi|17231826|ref|NP_488374.1| prephenate dehydratase [Nostoc sp. ... [ score 73 E 1e-12 ] [ range 204 .. 269 ]
+sequence
+----------------TSIAFSVPNVPGALLKTLQVFAHLDINLSRIESRPTKRSLGEYLFFIDLEAVNT
+PQMKSALVEL------------------*
+>P1;gi|23125144|ref|ZP_00107091.1| COG0077: Prephenate dehydratase [... [ score 73 E 1e-12 ] [ range 188 .. 269 ]
+sequence
+GEADAGYQTSKVPTSHTSLAFSMPNTPGALVKPLQIFAQLGINLSRIESRPTKRSLGEYLFFMDLEADVK
+EQMQSALAEL------------------*
+>P1;gi|15610974|ref|NP_218355.1| pheA [Mycobacterium tuberculosis H3... [ score 73 E 1e-12 ] [ range 199 .. 266 ]
+sequence
+-------------ADRTSAVLRIDNQPGALVAALAEFGIRGIDLTRIESRPTRTELGTYLFFVDCVGHID
+EAVAEALKAV------------------*
+>P1;gi|44605495|gb|EAK42630.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 274 .. 347 ]
+sequence
+---------EATGKDKTSMLIQTPNTPGSLMGVLKPFDNRKINLSKIETRPSRGNINSHDFFIDCEGHIK
+DKVKEIVE--------------------*
+>P1;gi|44245754|gb|EAH92772.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 274 .. 345 ]
+sequence
+-----------AEKNKSSFLIRTENKPGALLEILRPFNEHNINLFRIETRPSRSDRGSHDFFIDSEGHIN
+EKMQLVIKKVKD----------------*
+>P1;gi|44445615|gb|EAJ32043.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 113 .. 190 ]
+sequence
+------NKVEKTGKDKSSFLIQTPNIPGSLMSVLKPFEKRKINLSKIETRPSRGNINSHDFFVDCEGHIK
+DQVKEIIDN-------------------*
+>P1;gi|44416849|gb|EAJ11885.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 138 .. 208 ]
+sequence
+-----------ATKNKSSFLIRTENKPGALLEILKPFNEHNINLFRIETRPSRSDRGSHDFFIDSEGHVN
+EKMQQLIKKVK-----------------*
+>P1;gi|44236263|gb|EAH86598.1| unknown [environmental sequence] [ score 71 E 4e-12 ] [ range 267 .. 340 ]
+sequence
+----------SSNNDKTSFVMSIDNKAGSLSKALEILAKHRISMTKIESIPTKEENWEYLFLIDISGHIN
+TKVSNALQKISDN---------------*
+>P1;gi|44427371|gb|EAJ19471.1| unknown [environmental sequence] [ score 71 E 5e-12 ] [ range 202 .. 281 ]
+sequence
+-----------AEKNKSSFLIRTENKTGALLEILKPFNEHNINLFRIETRPSRSDRGSHDFFIDSEGHVD
+EKEMQLVVKKVKDVSS-FVKVL------*
+>P1;gi|43267256|gb|EAC99391.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 60 .. 139 ]
+sequence
+-----SLKSQKDILEKVSMAFTTNNKSGALLKCLQIFAAHRINLTKLESQPIPENPFEYTFFVDCESLND
+SNMKSCLKELTKEV--------------*
+>P1;gi|43977282|gb|EAG45688.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 175 .. 220 ]
+sequence
+-----FSKENSSENDKTSIIFSVKHEPGALYQILKEFNDNGINLTKIES---------------------
+----------------------------*
+>P1;gi|44522536|gb|EAJ84630.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 277 .. 347 ]
+sequence
+-----------THDDKTSISIITKNKSGALSDILEKFKDQKINLTNIQSRPTKKNNWEYMFFIELDGHTD
+KNVDIALKKIS-----------------*
+>P1;gi|37520093|ref|NP_923470.1| prephenate dehydratase [Gloeobacter... [ score 71 E 7e-12 ] [ range 192 .. 264 ]
+sequence
+----------------TSIAFALRNQPGVLHEVLSIFARHRINLAKIESRPTKKVIGEYLFFADLEGGVE
+A--EPVNTALRQ-VAA-VVAEL------*
+>P1;gi|22998601|ref|ZP_00042650.1| COG0077: Prephenate dehydratase [... [ score 71 E 7e-12 ] [ range 208 .. 274 ]
+sequence
+---------------KISLLFEVRHIPAALYKCLGGFATNGINLTRLESRPVAGRDWSYHFYLDFQGRMD
+QVVQQALEELK-----------------*
+>P1;gi|23040848|ref|ZP_00072340.1| COG0077: Prephenate dehydratase [... [ score 71 E 9e-12 ] [ range 212 .. 278 ]
+sequence
+----------------TSLGFTVPNEPGALVKPLQVFAKREINMSRIESRPTKLSLGDYLFFIDIEANIN
+NSVKVAIEELK-----------------*
+>P1;gi|2499520|sp|Q44104|PHEA_AMYME Prephenate dehydratase (PDT) >gi... [ score 70 E 1e-11 ] [ range 189 .. 257 ]
+sequence
+-------------ADRTSIVAAAANRTGTLAELLTELATRGINLTRLDARPHKQNFGEYRFFIDFEGHAE
+PRIADALAALR-----------------*
+>P1;gi|15826920|ref|NP_301183.1| putative prephenate dehydratase [My... [ score 69 E 2e-11 ] [ range 202 .. 268 ]
+sequence
+--------------DRTSAVLRIDNAPGMLVAALAEFGIRGIDLTRIESRPTRTELGTYLFFVDCVGHID
+DVVAEALKAL------------------*
+>P1;gi|44371864|gb|EAI80403.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 1 .. 65 ]
+sequence
+------------------IFIQTPNRPGSLMSVLKPFEKRKINLSKIETRPSRGNINSHDFFVDCEGHIK
+DQIKEIID--------------------*
+>P1;gi|43217053|gb|EAC74053.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 143 .. 228 ]
+sequence
+--------TETTQPFKTSIAVSLKEEPGALFKALACFSLRNINMTKIESRPLRTNPFTYLFYIDLEANAD
+ENMRNAIRHLQE----------------*
+>P1;gi|33241109|ref|NP_876051.1| Prephenate dehydratase [Prochloroco... [ score 69 E 2e-11 ] [ range 173 .. 266 ]
+sequence
+GNCTRFVLLTNQKSDITSFAFSLANKPGALLKALTCIADLGLNMNRIESRPSKRELGEYIFFVDIDLQEK
+SILNKLLKPLCENI--------------*
+>P1;gi|43707984|gb|EAF09084.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 7 .. 78 ]
+sequence
+-----------AEKNKSSFLIMTENKPGALLEILKPFNEYSVNLFRIETRPSRSDRGSHDFFIDSEGHVD
+EKMQRVIKKVKD----------------*
+>P1;gi|44640056|gb|EAK67239.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 133 .. 209 ]
+sequence
+------SEVSKSKNDKTTFIMSLQNKAGALAKALDVLAINKISMTKIESIPTKEKNWEYLFLIDISGHSD
+KKVYTALTKIQS----------------*
+>P1;gi|44435983|gb|EAJ25444.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 264 .. 328 ]
+sequence
+-------EVSKSKNDKTTFVMSLQNKAGALAKALDILANNQISMTKIESIPTKEKNWEYLFLIDVSGHIS
+EK--------------------------*
+>P1;gi|44402965|gb|EAJ02382.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 58 .. 139 ]
+sequence
+---------EQTNKDKTSFLIQTDNQPGALLKILEPFNKRKINLERIETRPSRESLNAHNFFIDIGHYKD
+ANLKQVIVSLEK-LGA-SVRIL------*
+>P1;gi|15791684|ref|NP_281507.1| chorismate mutase\prephenate dehydr... [ score 69 E 3e-11 ] [ range 264 .. 342 ]
+sequence
+----SDIKNPKMPNCKTSILAHTAHKPGGLSFLLEQFKKENINLTKLESRPVKSKEFLHSFYIDFEGHID
+ENVKKALKDIQE----------------*
+>P1;gi|44404946|gb|EAJ03807.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 274 .. 327 ]
+sequence
+--------------DKTSLLISLENKVGALAKIIEPLSKNKISMSKIESIPTKKNNWEYMFLIDIEGH--
+----------------------------*
+>P1;gi|32475716|ref|NP_868710.1| P-protein (PheA) [Pirellula sp. 1] ... [ score 68 E 5e-11 ] [ range 276 .. 343 ]
+sequence
+--------------DKTTLLFQVAHQPGALADVMGIFKRHELNLTWIESFPQPGTKNEYFFVVEFPGHCQ
+DIIAKAIEDLK-----------------*
+>P1;gi|41719883|ref|ZP_00148744.1| hypothetical protein Mbur091001 [... [ score 68 E 5e-11 ] [ range 193 .. 261 ]
+sequence
+------------ENDKTSIIADIEDKPGSLYEIIGEFAKRDINLTRIESRPSKRSLGDYMFYIDIEGSTG
+DAIKDAL---------------------*
+>P1;gi|43812069|gb|EAF60551.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 143 .. 209 ]
+sequence
+---------------KTTLVMSTIQKPGALVEALLVLRENSINMTKLESRPIPGNPWEEMFYIDVEGNVD
+GPVQNALDSLR-----------------*
+>P1;gi|43127799|gb|EAC29739.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 209 .. 263 ]
+sequence
+-----------AEKNKSSFLIRTENKPGALLKILKPFNENNVNLFRIETRPSRSDRGSHDFFIDSE----
+----------------------------*
+>P1;gi|43704415|gb|EAF07364.1| unknown [environmental sequence] [ score 67 E 6e-11 ] [ range 3 .. 69 ]
+sequence
+---------------KTPLVMSTVQKPGALVEALLVLRENSINMTKLESRPIPGNPWEEMFYIDVEGNVD
+GPVQNALDALR-----------------*
+>P1;gi|43318709|gb|EAD25054.1| unknown [environmental sequence] [ score 67 E 7e-11 ] [ range 3 .. 75 ]
+sequence
+---------NPTGHDKTSIVFQDADRPGSLLGILQEFAARSLNLTRLESRPTKQGLGNYCFLIDLEGHSD
+EVVADCLKNL------------------*
+>P1;gi|24379244|ref|NP_721199.1| putative prephenate dehydratase [St... [ score 67 E 8e-11 ] [ range 186 .. 256 ]
+sequence
+----------KEEDQKISLALTLPDNPGALYKALSTFAWRGIDLTKIESRPLKTILGEYFFIIDFENHNE
+KLVSFALEEL------------------*
+>P1;gi|45512458|ref|ZP_00164024.1| hypothetical protein Selo015301 [... [ score 67 E 9e-11 ] [ range 197 .. 247 ]
+sequence
+----------------TSLNFSLANVPGALVKPLQILADRRINLSRIESRPTKRSLGEYLFFLDLE----
+----------------------------*
+>P1;gi|15806167|ref|NP_294871.1| chorismate mutase/prephenate dehydr... [ score 67 E 1e-10 ] [ range 202 .. 272 ]
+sequence
+--------EPSDAPHKTSLIFAVRHTPGFLLETLGEL--RGLNLSRIESRPRRDRAWSYLMYVDIEGKSD
+PQVAQALAGI------------------*
+>P1;gi|43108094|gb|EAC20111.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 1 .. 73 ]
+sequence
+-----------TNNDKTSLVISFKDAPGSLYVALGPFSVSKINMTKIESRPTKEKLGNYYFFIDVEGNKD
+EKLSLCLNIIKK----------------*
+>P1;gi|22971942|ref|ZP_00018853.1| hypothetical protein [Chloroflexu... [ score 66 E 1e-10 ] [ range 191 .. 264 ]
+sequence
+--------------DKTSFCFTREDRPGSLVSALQELAVENINMTKLESRPTRAILGQYIFLVDINGHRR
+PHVARALERIRLHTG-------------*
+>P1;gi|25029288|ref|NP_739342.1| prephenate dehydratase [Corynebacte... [ score 66 E 2e-10 ] [ range 203 .. 270 ]
+sequence
+-------------HDHTAVVFALPNVPGSLVRALNEFALRGVDLARIESRPTRKTFGTYRFHLDFIGHIE
+DLVREALRAL------------------*
+>P1;gi|42940657|gb|EAB37333.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 185 .. 244 ]
+sequence
+---------NQTISDKTSIVISFQDSPGSLFKSLEPLALKNINMTKIESRPTKEKLGNYYFFIDLEGH--
+----------------------------*
+>P1;gi|23099496|ref|NP_692962.1| prephenate dehydratase [Oceanobacil... [ score 66 E 2e-10 ] [ range 191 .. 273 ]
+sequence
+---------HKKDSEKTTMLITLPNQSGALHQILSAFSWRKLNLSKIESRPTKTGLGNYFFIIDVDQPYD
+DVLFPGVKSELEALGC-QVTIL------*
+>P1;gi|33864053|ref|NP_895613.1| Chorismate mutase-Prephenate dehydr... [ score 66 E 2e-10 ] [ range 191 .. 278 ]
+sequence
+--------------DVASFAFSLANAPGSLLEALTCVARLGFNMSRIESRPSKRELGEYVFFVDVELRAS
+EQLIEALQPLCEHLVH-FGSYLSSDLE-*
+>P1;gi|13541692|ref|NP_111380.1| Prephenate dehydratase [Thermoplasm... [ score 66 E 3e-10 ] [ range 178 .. 248 ]
+sequence
+----------KPQGDKISIAFTLLNKPGSLASIVDVLAKYGIDMTKIESRPIKFNPFSYIFYIDFNGFSK
+QAMDEISQK-------------------*
+>P1;gi|44414246|gb|EAJ10138.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 232 .. 312 ]
+sequence
+---------------KTSIAFSMKECSGALFKALACFALRDINLTKVESRPMRWDPFSYLFYVDFESMAD
+EAAQNALRQLQEN---------------*
+>P1;gi|43237995|gb|EAC84598.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 1 .. 48 ]
+sequence
+------------------------NKPGSLLSVLKPFDKKNINLSKIETRPSRGNINSHDFFIDCEGHIK
+DQ--------------------------*
+>P1;gi|42783571|ref|NP_980818.1| prephenate dehydratase [Bacillus ce... [ score 66 E 3e-10 ] [ range 183 .. 257 ]
+sequence
+-KKKKAILSNNGENEKTTLMITLPDYAGALYQVLSAFAWRKLNLSKIESRPMKTGLGNYFFLIDVDKAYD
+DVL-------------------------*
+>P1;gi|15231489|ref|NP_187420.1| prephenate dehydratase family prote... [ score 65 E 3e-10 ] [ range 287 .. 361 ]
+sequence
+---------------KTSIVFSLEEGPGVLFKALAVFALRQINLTKIESRPLRKHPFDYLFYVDFESMAD
+EVAQNALRHL------------------*
+>P1;gi|21402480|ref|NP_658465.1| PDT, Prephenate dehydratase [Bacill... [ score 65 E 3e-10 ] [ range 183 .. 257 ]
+sequence
+-KKKKAILPNNGENEKTTLMITLPDYAGALYQVLSAFAWRKLNLSKIESRPMKTGLGNYFFLIDVDKAYD
+EVL-------------------------*
+>P1;gi|18312256|ref|NP_558923.1| chorismate mutase/prephenate dehydr... [ score 65 E 4e-10 ] [ range 237 .. 297 ]
+sequence
+------------------LIFAVPNVAGALYKALGPIANRGINMTLIYSRPTRLSPWDYYFVVEVE--AG
+EGLDDAVEEMK-----------------*
+>P1;gi|23019230|ref|ZP_00058942.1| COG0077: Prephenate dehydratase [... [ score 65 E 4e-10 ] [ range 195 .. 264 ]
+sequence
+-------------ADRTSLVAFLPHDPGALVELLTQFAVRDVNLTRLESRPTGDGLGTYCFFMDAEGHVA
+EAIGEALMGLR-----------------*
+>P1;gi|34394031|dbj|BAC84062.1| putative prephenate dehydratase [Ory... [ score 65 E 4e-10 ] [ range 265 .. 346 ]
+sequence
+---------------KTSIVFSLEEGPGQLFKALAVFALRKINLTKMESRPHKKKPFDYLFYVDLESMAD
+PNAQNALANLKE----------------*
+>P1;gi|16803576|ref|NP_465061.1| similar to prephenate dehydratase P... [ score 65 E 4e-10 ] [ range 192 .. 271 ]
+sequence
+------------EEEKTSISVILPNNPGALHKVLSTFAWRDIDLSKIESRPLKTSLGEYFFLIDVLSEGK
+EVLTNALDEI-TLLGG-TANKL------*
+>P1;gi|18976663|ref|NP_578020.1| prephenate dehydratase [Pyrococcus ... [ score 65 E 4e-10 ] [ range 188 .. 252 ]
+sequence
+---------------KGAIFLELENVPGALYRALGVFAKRGVNLTRIESRPSLKDLGYYIFYIDYEYTQE
+E--DEILEELKQ----------------*
+>P1;gi|15903270|ref|NP_358820.1| Prephenate dehydratase [Streptococc... [ score 65 E 4e-10 ] [ range 186 .. 266 ]
+sequence
+----------QAQTEKMSLALTLPDNPGALYKALSTFAWRGIDLTKIESRPLKTALGEYFFIIDVDYTDK
+DLVHFAQKELEA-IGI-QYKIL------*
+>P1;gi|15893510|ref|NP_346859.1| Prephenate dehydrotase (pheA) [Clos... [ score 65 E 5e-10 ] [ range 170 .. 268 ]
+sequence
+GNETRFIQYEGKGYYKTGIIISDANKPGTLWRVLNEFSVRDINLTSIISRPTKKGLGQYYFFIEVDGFKD
+NRLNEAVEAIKHHSVV-KV---------*
+>P1;gi|44396597|gb|EAI98022.1| unknown [environmental sequence] [ score 64 E 7e-10 ] [ range 186 .. 266 ]
+sequence
+-----SNEENKTGKDKTSIAFDFKDKAGLLFTALQCFSKRNINLQKIESRPKGTKLGEYIFIIDLDGHQD
+ENIEEALKELKQ----------------*
+>P1;gi|44481565|gb|EAJ57739.1| unknown [environmental sequence] [ score 64 E 7e-10 ] [ range 184 .. 255 ]
+sequence
+-------ESNSNLANIASFAFSLSNKPGALLKAINYIADFGFNMSKIESRPSKRELGEYIIYVDLEINNQ
+NNIKNFLE--------------------*
+>P1;gi|15897191|ref|NP_341796.1| Probable chorismate mutase (CM)/pre... [ score 64 E 8e-10 ] [ range 176 .. 250 ]
+sequence
+------SKEMNSNGNKSMILFTVPHKPGALYKVLQVFYEYNINISMIYSRPLKSIPWQYYFYLEYEGSNR
+EFIEKLVKS-------------------*
+>P1;gi|42905534|gb|EAB19865.1| unknown [environmental sequence] [ score 64 E 9e-10 ] [ range 184 .. 242 ]
+sequence
+-------ESNSSQSNIASFAFSLSNKPGALLKAISCIADFGFNMSKIESRPSKRELGEYVIYIDL-----
+----------------------------*
+>P1;gi|44601996|gb|EAK40131.1| unknown [environmental sequence] [ score 64 E 9e-10 ] [ range 184 .. 255 ]
+sequence
+-------ESNSNLANIASFAFSLSNKPGSLLKALNYIAEFGFNMSKIESRPSKRELGEYIIYVDLEINNQ
+NNTKSFIE--------------------*
+>P1;gi|1172477|sp|P43909|PHEA_LACLC Prephenate dehydratase (PDT) >gi... [ score 64 E 1e-09 ] [ range 177 .. 250 ]
+sequence
+GKEKQSFDLNQTK-DKVTLALTLPDNPGALHKAISVFAWRDIDMTKIESRPLRTRLGQYFFIIDLENNAT
+NSLK------------------------*
+>P1;gi|41614988|ref|NP_963486.1| NEQ192 [Nanoarchaeum equitans Kin4-... [ score 63 E 1e-09 ] [ range 488 .. 568 ]
+sequence
+-NKTRFIIIGKKQNPKYSLVFSLEDKPGSLKEVLEIFHKHNINLRKLESRPDKREIGKYLFYVESDLLNN
+KILEEIRAK-------------------*
+>P1;gi|44358795|gb|EAI71013.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 184 .. 255 ]
+sequence
+-------ESNSNLANIASFAFSLSNKPGALLKAINYIADFGFNMSKIESRPSKRELGEYIIYVDLEIKDQ
+NNIKNFLE--------------------*
+>P1;gi|43527655|gb|EAE18523.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 202 .. 260 ]
+sequence
+----------KSKSDKTSILVNLSDGHGVLAEFLQEFHDAKINLTKLESRPAKKGDFKYVFYIDFEGH--
+----------------------------*
+>P1;gi|15221096|ref|NP_172644.1| prephenate dehydratase family prote... [ score 63 E 2e-09 ] [ range 294 .. 358 ]
+sequence
+---------------KTSIVFSLEEGPGVLFKALAVFALRSINLSKIESRPQRRRPFDYLFYIDFE----
+----------------------------*
+>P1;gi|30022508|ref|NP_834139.1| Prephenate dehydratase [Bacillus ce... [ score 63 E 2e-09 ] [ range 183 .. 257 ]
+sequence
+-KKKKAVLPNNGENEKTTLMITLPDYAGALYQVLSAFAWRKLNLSKIESRPMKTGLGNYFFLIDVDKAYD
+DVL-------------------------*
+>P1;gi|16766363|ref|NP_461978.1| D-3-phosphoglycerate dehydrogenase ... [ score 144 E 5e-34 ] [ range 327 .. 410 ]
+sequence
+-----FPEVSLPLHGGRRLMHIHENRPGVLTALNQIFAEQGVNIAAQYLQTS---ARMGYVVIDIEA-DG
+DVAEKALLAMKAIPGTIRARLLY-----*
+>P1;gi|44260307|gb|EAI03112.1| unknown [environmental sequence] [ score 144 E 5e-34 ] [ range 236 .. 319 ]
+sequence
+-----FPEVSLPLHGGRRLLHIHENRPGVLTAINQIFAAQSINIAAQYLQTT---PQMGYVVIDIEA-EE
+DVAQQALQAMKAIPGTIRARLLF-----*
+>P1;gi|22127177|ref|NP_670600.1| D-3-phosphoglycerate dehydrogenase ... [ score 138 E 3e-32 ] [ range 361 .. 447 ]
+sequence
+-----FPEVSLPAHGTRRLLHIHENRPGILTSINTIFAEQNVNIAAQYLQTS---ADIGYVVIDVET-DD
+DNAEKALQAMKAIPGTIRARLLY-----*
+>P1;gi|23105775|ref|ZP_00092229.1| COG0111: Phosphoglycerate dehydro... [ score 134 E 4e-31 ] [ range 327 .. 409 ]
+sequence
+-----FPEVALPSHGKHRLLHIHKNIPGVMSEINKVFAENGINISGQFLQTN---ETVGYVVIDVDA---
+EYSEMALEKLQQVNGTIRSRVLF-----*
+>P1;gi|23471357|ref|ZP_00126687.1| COG0111: Phosphoglycerate dehydro... [ score 134 E 4e-31 ] [ range 401 .. 483 ]
+sequence
+-----FPEVALPAHGKHRLLHIHENIPGVLSEINKVFAENGINISGQFLQTN---EKVGYVVIDVDA---
+EYSDLAQAKLQQIKGTIRSRVLF-----*
+>P1;gi|28899367|ref|NP_798972.1| D-3-phosphoglycerate dehydrogenase ... [ score 134 E 5e-31 ] [ range 327 .. 410 ]
+sequence
+-----FPEVSLPEHGRSRLLHIHKNRPGILTQINTIFAEEGINIAAQYLQTE---AEIGYVVIDVET-ER
+--SEEALTKLKSIEGTIRARILH-----*
+>P1;gi|37681036|ref|NP_935645.1| phosphoglycerate dehydrogenase [Vib... [ score 133 E 7e-31 ] [ range 327 .. 409 ]
+sequence
+-----FPEVSLPEHRSCRLLHIHQNRPGILTQINTIFAEEGINIAGQYLQTS---ADIGYVVIDVET-ER
+--SEEALVKLKEIEGTIRARILH-----*
+>P1;gi|26991831|ref|NP_747256.1| D-3-phosphoglycerate dehydrogenase ... [ score 133 E 1e-30 ] [ range 327 .. 409 ]
+sequence
+-----FPEVALPAHGKHRLLHIHENIPGVLSEINKVFAENGINISGQFLQTN---EKVGYVVIDVDA---
+EYSDLAQEKLQQVKGTIRSRVLF-----*
+>P1;gi|42862024|gb|EAA98251.1| unknown [environmental sequence] [ score 133 E 1e-30 ] [ range 157 .. 239 ]
+sequence
+-----FPEVALPSHPNHRLLHIHENVPGVMSEINQVFSENGINVCGQYLQTK---EDIGYVVVDV---DK
+AYGELALEKLRQVKGTIRCRVLF-----*
+>P1;gi|15595513|ref|NP_249007.1| D-3-phosphoglycerate dehydrogenase ... [ score 133 E 1e-30 ] [ range 327 .. 409 ]
+sequence
+-----FPEVALPSHGKHRLLHIHANIPGVMSEINKVFADNGINVSGQYLQTN---EKVGYVVIDVDA---
+EYSDLALEKLQQVNGTIRSRVLF-----*
+>P1;gi|44399139|gb|EAI99768.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 326 .. 408 ]
+sequence
+-----FPEVSLPEHRGRRLLHIHKNQPGMLTKINEAFAKHGINISGQYLQTN---AEIGYVVIDIDS-LD
+H--ELALNELKAIPGTLRARVLH-----*
+>P1;gi|15642477|ref|NP_232110.1| D-3-phosphoglycerate dehydrogenase ... [ score 131 E 3e-30 ] [ range 327 .. 409 ]
+sequence
+-----FPEVSLPEHRSCRLLHIHANRPGILTQINTIFAEEGINIAAQYLQTT---AEIGYVVIDVET-AR
+--SEEALTKLKAIDGTIRARILH-----*
+>P1;gi|23060947|ref|ZP_00085823.1| COG0111: Phosphoglycerate dehydro... [ score 130 E 5e-30 ] [ range 327 .. 409 ]
+sequence
+-----FPEVALPAHGKHRLLHIHENIPGVMSEINKVFAENGINISGQFLQTN---EKVGYVVIDVDA---
+EYSELAQEKLQHVNGTIRSRVLF-----*
+>P1;gi|24372451|ref|NP_716493.1| D-3-phosphoglycerate dehydrogenase ... [ score 130 E 1e-29 ] [ range 327 .. 409 ]
+sequence
+-----FPEVSLPMHGTSRLLHIHQNRPGVLIKINKAFSEKGINIAAQYLQTT---AEIGYVVMEVDT-HQ
+--AEEALVELKAIDGTLRTRVLF-----*
+>P1;gi|44403514|gb|EAJ02767.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 328 .. 410 ]
+sequence
+-----FPEVSLPGHGSSRLLHIHRNQPGVMNQINQIFADEGINIAGQYLQTS---SHIGYVVIDVET---
+EHSEKALAKLKEIGGTIRARILH-----*
+>P1;gi|43590549|gb|EAE50145.1| unknown [environmental sequence] [ score 128 E 2e-29 ] [ range 93 .. 175 ]
+sequence
+-----FPEVALPAHGKHRLLHIHENIPGVMSEINKVFADNGINISGQFLQTN---DKVGYVVIDVDA---
+EYSDLALEKLQHVNGTIRSRVLF-----*
+>P1;gi|44480273|gb|EAJ56709.1| unknown [environmental sequence] [ score 128 E 2e-29 ] [ range 327 .. 409 ]
+sequence
+-----FPEVSLPMHKGSRLLHIHQNRPGVLIKINKAFSEKGINIAAQYLQTT---AEIGYVVMEVDT-HQ
+--AEEALVELKAIEGTLRTRVLF-----*
+>P1;gi|23028967|ref|ZP_00067338.1| COG0111: Phosphoglycerate dehydro... [ score 128 E 3e-29 ] [ range 329 .. 411 ]
+sequence
+-----FPEVALPSHDKHRLLHVHKNVPGVLTAINKIFSESDINICGQYLQTN---DKLGYVILDV---DR
+AYSEMALEQLRKVTGTIRCRVLF-----*
+>P1;gi|23467783|ref|ZP_00123361.1| COG0111: Phosphoglycerate dehydro... [ score 127 E 5e-29 ] [ range 328 .. 410 ]
+sequence
+-----FPEVSLPEHSNKRLLHIHHNRPGILNKINQIFVEQNINIAAEYLQTE---AKIGYVVIDVET-ED
+TA--QLLAKLKQIEGTIRARVLF-----*
+>P1;gi|37527473|ref|NP_930817.1| D-3-phosphoglycerate dehydrogenase ... [ score 127 E 7e-29 ] [ range 327 .. 413 ]
+sequence
+-----FPEVSLPVHATNRFLHIHENRPGILNSINQVFAEQDINIAAQYLRTS---GDMGYVVIDIVT-EN
+PAAEMVFQKLKALPGTIRSRLLY-----*
+>P1;gi|42630761|ref|ZP_00156300.1| COG0111: Phosphoglycerate dehydro... [ score 127 E 8e-29 ] [ range 309 .. 391 ]
+sequence
+-----FPEVSLPEHGTKRLLHIHENRPGILNKLNQIFVEANLNIAAQYLQTD---PKIGYVVVDVET-ND
+--ASPLLTKLKEIDGTIRARVLY-----*
+>P1;gi|15603536|ref|NP_246610.1| SerA [Pasteurella multocida] >gi|12... [ score 124 E 4e-28 ] [ range 328 .. 410 ]
+sequence
+-----FPEVSLPEHGTKRLLHIHHNKQGVLNKINQVFVDANVNIAAQYLQTD---PAIGYVVIDVET-ED
+THS--LLTQLKEIEGTIRARVLY-----*
+>P1;gi|22997495|ref|ZP_00041725.1| COG0111: Phosphoglycerate dehydro... [ score 124 E 4e-28 ] [ range 329 .. 413 ]
+sequence
+-----FPEVSLPEHGSMRLLHIHRNVPGVLSHINELFSHHNVNIDGQFLRTD---ATLGYVVIDISA-SQ
+TQALALKEALTQVPGTLRTRLLY-----*
+>P1;gi|22993679|ref|ZP_00038236.1| COG0111: Phosphoglycerate dehydro... [ score 124 E 5e-28 ] [ range 329 .. 413 ]
+sequence
+-----FPEVSLPEHGSMRLLHIHRNVPGVLSHINELFSRHNVNIDGQFLRTD---ATLGYVVIDIGA-SQ
+TQALALKEALTQVPGTLRTRLLY-----*
+>P1;gi|17989158|ref|NP_541791.1| D-3-PHOSPHOGLYCERATE DEHYDROGENASE ... [ score 123 E 1e-27 ] [ range 328 .. 412 ]
+sequence
+-----FPQVQLPPRPGTRFMHVHENRPGILNSLMNVFSHHHINIASQFLQTD---GEVGYLVMEADG-VG
+EASDAVLQEIREIPGTIRARLLY-----*
+>P1;gi|21231273|ref|NP_637190.1| D-3-phosphoglycerate dehydrogenase ... [ score 122 E 1e-27 ] [ range 329 .. 413 ]
+sequence
+-----FPEVTLPEHPDSRLLHIHRNVPGVLSQINELFSRHNLNIDGQFLRTD---PKVGYVVIDVSA-SE
+ELAGVLKDELGQITGTLRTRVLY-----*
+>P1;gi|21242588|ref|NP_642170.1| D-3-phosphoglycerate dehydrogenase ... [ score 122 E 3e-27 ] [ range 329 .. 413 ]
+sequence
+-----FPEVTLPEHAESRLLHIHRNVPGVLSQINELFSRHNVNIDGQFLRTD---PKVGYVVIDVGA-SE
+ELAGVLKDELGQITGTLRTRILY-----*
+>P1;gi|44344632|gb|EAI60876.1| unknown [environmental sequence] [ score 120 E 6e-27 ] [ range 157 .. 239 ]
+sequence
+-----FPEVALPAHGKHRLLHIHRNVPGVLSEINRIFSDNAINVSAQYLQTN---EKIGYVVIDIDA-AS
+--SDLALDKLARVSGTLRSRVLF-----*
+>P1;gi|44399123|gb|EAI99756.1| unknown [environmental sequence] [ score 119 E 2e-26 ] [ range 326 .. 401 ]
+sequence
+-----FPEVSLPEHKGRRLLHIHKNQPGMLTKINEAFAKHGINISGQYLQTN---AEIGYVVIDIDS-QD
+R--DLALNELKAIPGT------------*
+>P1;gi|43483854|gb|EAD96663.1| unknown [environmental sequence] [ score 119 E 2e-26 ] [ range 199 .. 283 ]
+sequence
+-----FPEVVLPVHEDVRIIHIHHNQPGVMHEINAICSKSNFNVAGQYLQTK---GPLGYVVMDVAS-DK
+SLCLDVHKALTNIEGTLRSRVLY-----*
+>P1;gi|45521675|ref|ZP_00173193.1| hypothetical protein Mflag088001 ... [ score 116 E 1e-25 ] [ range 117 .. 199 ]
+sequence
+-----FPEVSIPKQGTHRLLHIHRNVPGVLSAVNSLFARNNINIAAQSMMTK---GDIGYMIMDVE---A
+SASSAAIEALQTVEGTLRTRVLY-----*
+>P1;gi|22968370|ref|ZP_00015958.1| COG0111: Phosphoglycerate dehydro... [ score 116 E 2e-25 ] [ range 352 .. 435 ]
+sequence
+-----FPEVALPQQASVRFLHIHRNVPGVMSALNEVFSSHHINIRGQYLMTN---PRVGYVVVDVEK-DL
+KAGEGFRQALAAINGTLRFRFL------*
+>P1;gi|41690070|ref|ZP_00146602.1| hypothetical protein Psyc015901 [... [ score 115 E 2e-25 ] [ range 63 .. 145 ]
+sequence
+-----FPEVSIPKEGTHRLLHIHKNVPGVLSQINRLFAEANINILAQSLMTE---GDVGYLVMDVDY-ND
+STA--ALDQLKDVQETIRVRILF-----*
+>P1;gi|23135524|ref|ZP_00117266.1| COG0111: Phosphoglycerate dehydro... [ score 115 E 3e-25 ] [ range 551 .. 633 ]
+sequence
+-----FPNIQLPEQEGHRFMHLHENQPGILAKINNLFAKHNINILAQYLKTN---EQVGYVITDIAK-IY
+D--KEVLDELKEIPGTIRFRTLY-----*
+>P1;gi|27383076|ref|NP_774605.1| D-3-phosphoglycerate dehydrogenase ... [ score 110 E 9e-24 ] [ range 346 .. 430 ]
+sequence
+-----FPEVQLHLRPGARFSHVHRNVPGMLRRLNEVFLQRDINIAAQYLETA---GDLGYVVLDADL-GG
+QDSGELLQQIRALDGTVGARLVF-----*
+>P1;gi|44303167|gb|EAI32077.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 1 .. 69 ]
+sequence
+------------------MLHTHKNVPGVLTQINTVFSENGINICGQYLQTN---EEIGYVVIDV---DK
+GYSQLALEKLRTIDGTIRTRVLF-----*
+>P1;gi|23022434|ref|ZP_00062027.1| COG0111: Phosphoglycerate dehydro... [ score 103 E 8e-22 ] [ range 307 .. 387 ]
+sequence
+-----FPNCELPYTGNVRVIVAHDNIPNMFGQITSLIARNGINIGDMISKHK---DKIGYTILNVE---R
+EISDEIVENIRAIEGVRMVRVI------*
+>P1;gi|42524297|ref|NP_969677.1| D-3-phosphoglycerate dehydrogenase ... [ score 100 E 1e-20 ] [ range 319 .. 401 ]
+sequence
+-----FPNVDLPKQGTSRILNVHRNEPGVLGEINGLISKAGANIEGQYLSTD---EKIGYLVMDLHS-SQ
+--AHTLAADIEKLSRSIRTRVVY-----*
+>P1;gi|44321179|gb|EAI44289.1| unknown [environmental sequence] [ score 99 E 2e-20 ] [ range 313 .. 394 ]
+sequence
+-----YPSISSEKHGKHRIFVTNKNEPGVISNIAECLAENKINISEFVNKSR---GNLACNIID--T-DD
+EIKDQIVCELEKIKGVRNARLCY-----*
+>P1;gi|44085816|gb|EAH04988.1| unknown [environmental sequence] [ score 99 E 4e-20 ] [ range 1 .. 64 ]
+sequence
+-----------------------ENVPGVMSEIKQVFSENSINVCGQYLQTK---EDIGYVVVDV---DK
+AYGELALEKLRQVKGTIRCRVLF-----*
+>P1;gi|23335464|ref|ZP_00120700.1| COG0111: Phosphoglycerate dehydro... [ score 98 E 5e-20 ] [ range 318 .. 398 ]
+sequence
+------PQINLECKGVCRIAHLHDNLPGVLAHVNHVLGEENINVSFQSLATE---GELGYVVTDVAQ-KP
+SAAT--LEALRNIEGTIRMRVI------*
+>P1;gi|33598504|ref|NP_886147.1| D-3-phosphoglycerate dehydrogenase ... [ score 96 E 2e-19 ] [ range 325 .. 406 ]
+sequence
+-----FPELSYQAPGGSRIIHVHRNAPGALGALDNLMAQHGLNIVSQSLQTK---GQIGYAVTDV---DG
+EVSDTVLADLRSHPVTVRCEKL------*
+>P1;gi|45532865|ref|ZP_00183863.1| hypothetical protein Exigu074301 ... [ score 96 E 2e-19 ] [ range 3 .. 84 ]
+sequence
+-----FPSVELPYAGKRRLTIAHQNIPNMVGQIASVLATEQINIANMINGSK---DGIAYTIIDIDN-HL
+D-ETISLEQLNAIPGVLKTRLL------*
+>P1;gi|24214611|ref|NP_712092.1| D-3-phosphoglycerate dehydrogenase ... [ score 95 E 3e-19 ] [ range 328 .. 411 ]
+sequence
+-----FPNLEIPLPAGQRILNVHKNQPGFLKDINSMVSAIGANISSQHLGTS---AEIGYLSMVI---DK
+SVGDELKEKIEKHPFSIKTRILY-----*
+>P1;gi|19075337|ref|NP_587837.1| putative phosphoglycerate dehydroge... [ score 95 E 4e-19 ] [ range 379 .. 466 ]
+sequence
+-----FPEVSLADRNAARVLFVHRNVPGVLRQVNELFIDH--NIKSQFSDSR---GDIAYLVADISD-CT
+PGSLEALQKLESLPCKINTRLLY-----*
+>P1;gi|44644821|gb|EAK71036.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 42 .. 123 ]
+sequence
+-----YPSISSEKYGKHRIFITNKNEPGVISKIAECLAKNKVNISEFVNKSR---GNLACNI--VDT-DD
+EIEDQTVCELEKIKGVTNARLCY-----*
+>P1;gi|44237720|gb|EAH87570.1| unknown [environmental sequence] [ score 91 E 6e-18 ] [ range 313 .. 394 ]
+sequence
+-----YPSISSEKYGKHRIFITNKNEPGVISKIAECLAKNKVNISEFVNKSR---GNLACNI--VDT-DD
+EIEDQIACELEKIKGVTNARLCY-----*
+>P1;gi|45518086|ref|ZP_00169637.1| hypothetical protein Raeut084801 ... [ score 88 E 4e-17 ] [ range 317 .. 398 ]
+sequence
+-----FPEVDPPLHAPARLLNIHSNAPGALAALNTLLAQDGVNINGQHLQTR---GHTGYVVTDL---DR
+VPSDVLMESLRTHAGFVRSRLL------*
+>P1;gi|20807488|ref|NP_622659.1| L-serine deaminase [Thermoanaerobac... [ score 88 E 5e-17 ] [ range 150 .. 219 ]
+sequence
+------------------LITTHIDKPGIVAAVTKVLADCNINIAFMRVYRH---AKGDKAIMVIES-DQ
+EIPERAKEVIKNIDGILNAIIL------*
+>P1;gi|32189701|ref|NP_859431.1| D-3-phosphoglycerate dehydrogenase ... [ score 87 E 8e-17 ] [ range 324 .. 406 ]
+sequence
+-----FPELVRPPRSKFRLTNVHANVPGALNEINKVAVDLGCNMGMQFLSTS---KAIGYLIMDV---DK
+DVAVELRKRISALKYSIRTLII------*
+>P1;gi|22976956|ref|ZP_00022792.1| COG0111: Phosphoglycerate dehydro... [ score 84 E 6e-16 ] [ range 349 .. 429 ]
+sequence
+------PQIQPPQQAPARVLNIHYNRPGTLSHFNQALAEIGANIVAQQLQTE---GDIGYAITDISL-VP
+PAGWA--EALMKDDAFIRTRVI------*
+>P1;gi|43259916|gb|EAC95637.1| unknown [environmental sequence] [ score 75 E 2e-13 ] [ range 26 .. 106 ]
+sequence
+-----FPNVSLPRSTEKRITITNKNVPAMIGKIATKIGNLGLNIADMSNVSR---GDIAYNIIDIE---D
+QIDEKSLNKLREIEDVINVRLL------*
+>P1;gi|29655020|ref|NP_820712.1| D-isomer specific 2-hydroxyacid deh... [ score 75 E 3e-13 ] [ range 308 .. 388 ]
+sequence
+-----FPTSKLARTEGCRIAITNKNVPNMVAQVSTVLSQADINIIDMINKSR---DEIAYTLIDV---NK
+KIDQNILHQLQSIDGIIRVRLL------*
+>P1;gi|44576957|gb|EAK22622.1| unknown [environmental sequence] [ score 74 E 6e-13 ] [ range 258 .. 338 ]
+sequence
+-----FPNVQLKRTTDYRISIINKNVPAMIGQIATALGELNLNIAEMTNVSK---GEIAYNLIDIEN---
+PVDEASIAKLKEIENVINVRLI------*
+>P1;gi|16804861|ref|NP_466346.1| similar to D-3-phosphoglycerate deh... [ score 74 E 6e-13 ] [ range 305 .. 388 ]
+sequence
+-----FPNVEMPYNGHPRIGICHKNIPNMVGQITTELGKYSLNILDMINRSK---NEYAYTLIDIDK-ET
+QANEQLKQDLLAVQGVLRVRVI------*
+>P1;gi|42873666|gb|EAB04090.1| unknown [environmental sequence] [ score 74 E 7e-13 ] [ range 64 .. 144 ]
+sequence
+-----FPTVSMSRRVGSRLAVVNKNVPGMLGQITSLLASKNANVADLTNKSR---EELAYNLIDIEQ-EP
+D--EELLFNLRSLENVMSVRVI------*
+>P1;gi|44555942|gb|EAK07704.1| unknown [environmental sequence] [ score 74 E 9e-13 ] [ range 264 .. 344 ]
+sequence
+-----FPRISLSRGTHHRLVIINHNEPGMISKITDSIAECGINIAEMTNKSK---DKIAINLIDLE---L
+EASSELIQQLESVEHVLSVRSL------*
+>P1;gi|43791182|gb|EAF50123.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 202 .. 282 ]
+sequence
+-----FPTVSMNRRVGSRLAVVNRNVPGMLGQITSLLASKNANVADLTNKSR---EELAYNLIDIEQ-EP
+D--EELLFNLRSLENVMSVRVI------*
+>P1;gi|44266029|gb|EAI07115.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 212 .. 292 ]
+sequence
+-----FPKIKLGRTTKHRLVIIHKDEPGVIGSITGEIASNNINIPDMINKSR---DEIAITVIDL---DE
+KPSQNLLNSLKNISSVLNVRIC------*
+>P1;gi|43415595|gb|EAD67121.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 55 .. 135 ]
+sequence
+-----FPTVSMNRRIGSRLAVVNKNVPGMLGQITSLLASKNANVADLTNKSR---EELAYNLIDIEQ-EP
+D--EELLFNLRSLENVMSVRVI------*
+>P1;gi|44558943|gb|EAK09845.1| unknown [environmental sequence] [ score 72 E 5e-12 ] [ range 310 .. 390 ]
+sequence
+-----FPRIKLSRSTDHRLIVINKNEPGMIGKIAEFIANKKLNISDMVNKSR---DDIAINLIDLDS---
+EPPKELIESLKKIEHVLSVRVC------*
+>P1;gi|43468871|gb|EAD89156.1| unknown [environmental sequence] [ score 71 E 5e-12 ] [ range 110 .. 190 ]
+sequence
+-----FPEANMPRNSAYRLTVANKNIPNMVGQITAILAAENLNIEDLLNKSL---GSLAYTIVDV---DK
+EISNDVLDKISDIDGILRLRYL------*
+>P1;gi|44584142|gb|EAK27554.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 1 .. 52 ]
+sequence
+-----------------------------------AFAEKGINIEAQYLQTN---AEIGYVVVDVKE-DR
+GY--EALAELQQIDGTIKTRILH-----*
+>P1;gi|44396064|gb|EAI97648.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 310 .. 390 ]
+sequence
+-----FPRIQLSRSTDHRLIVINKNEPGMIGKIAEFIANKKLNISDMVNKSR---DDIAINLIDLDS---
+KPPKELIESLKKIEHVLSVRVC------*
+>P1;gi|16802015|ref|NP_472283.1| similar to D-3-phosphoglycerate deh... [ score 71 E 8e-12 ] [ range 305 .. 388 ]
+sequence
+-----YPNVEMPYNGHPRIGICHKNIPNMVGQITTELGKYSLNILDMINRSK---NEYAYTLIDIDK-ET
+QANEQLKSDLLAVQGVLRVRVI------*
+>P1;gi|44524263|gb|EAJ85814.1| unknown [environmental sequence] [ score 70 E 9e-12 ] [ range 314 .. 394 ]
+sequence
+-----FPDVQLARTTINRIAITNKNVPTMIGQIATALGDLDLNIADMTNVSK---GEIAYNLIDIEN---
+KIHDKAIKELEKIENILNVRLI------*
+>P1;gi|42782337|ref|NP_979584.1| D-3-phosphoglycerate dehydrogenase,... [ score 70 E 1e-11 ] [ range 305 .. 389 ]
+sequence
+-----YPNVELPYIGKKRITIMHQNVPNMVGQITGCLAEHHINIADMINRSK---HSWAYTMIDNGI-DD
+IIKENIVENISKITGVVAVRMI------*
+>P1;gi|45185656|ref|NP_983372.1| ACL032Cp [Eremothecium gossypii] >g... [ score 70 E 2e-11 ] [ range 383 .. 470 ]
+sequence
+-----FPEVSLDQENTVRVLYIHQNVPGVLKTVNNILSDH--NIEKQFSDSS---GDIAYLMADISN-VS
+DIKD-IYDKLNATEYKISIRLLY-----*
+>P1;gi|44262914|gb|EAI04933.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 310 .. 390 ]
+sequence
+-----FPRIKLSRSTDHRLVVINKNEPGMIGKIAEFIANKKLNISDMVNKSR---DDIAINLIDL---DG
+EPPKELIEDLTKIEHVLSVRLC------*
+>P1;gi|6322116|ref|NP_012191.1| catalyzes the first step in serine b... [ score 69 E 3e-11 ] [ range 382 .. 469 ]
+sequence
+-----FPEVSLKQENTVRVLYIHRNVPGVLKTVNDILSDH--NIEKQFSDSH---GEIAYLMADISS-NQ
+SEIKDIYEKLNQTSAKVSIRLLY-----*
+>P1;gi|43847324|gb|EAF77929.1| unknown [environmental sequence] [ score 68 E 3e-11 ] [ range 61 .. 142 ]
+sequence
+-----FPDVKLSLKSPHRLTITNKNVPNIIGQFTSILGNSEINIDDLSHKVL---ADIGYTILNV---DK
+SVPESVLHEISNIDGVMKTNLLF-----*
+>P1;gi|6320925|ref|NP_011004.1| catalyzes the first step in serine b... [ score 68 E 5e-11 ] [ range 382 .. 469 ]
+sequence
+-----FPEVALKQENTVRVLYIHQNVPGVLKTVNDILSNH--NIEKQFSDSN---GEIAYLMADISS-DQ
+SDIKDIYEQLNQTSAKISIRLLY-----*
+>P1;gi|44173499|gb|EAH52217.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 18 .. 99 ]
+sequence
+-----FPDVKLGINSPHRLTITNKNVPNIIGQFTSILGNAGINIDDLSHKVL---DEIGYTILNV---DK
+PITEIVLDEISNIEGVMKTNILF-----*
+>P1;gi|43487739|gb|EAD98644.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 114 .. 194 ]
+sequence
+-----FPNVQLKRTTDHRISIINKNVPAMIGQIATALGELNLNIAEMTNVSR---GDIAYNLIDIEN-GV
+D--EKSISSLKGIENVIDVRLI------*
+>P1;gi|28377138|ref|NP_784030.1| phosphoglycerate dehydrogenase [Lac... [ score 68 E 5e-11 ] [ range 304 .. 386 ]
+sequence
+------PDLNVPFNAAYRFTVIHENVPNMVSQITAKLAAANLNITTMANAAK---HQIAYTIIDVDD-LQ
+QPQQALIAELSKIPAVSRVRLL------*
+>P1;gi|44417021|gb|EAJ12001.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 230 .. 310 ]
+sequence
+-----FPDVQLARSTINRIAVTNKNVPAMIGQIATSLGELDLNIADMTNVSR---GDIAYNLIDIEN---
+EVGKSAVKELMKIKNILNVRLI------*
+>P1;gi|43452086|gb|EAD80709.1| unknown [environmental sequence] [ score 67 E 8e-11 ] [ range 30 .. 110 ]
+sequence
+-----FPEVQLARSTMNRIAVTNKNVPAMIGQIATSLGELDLNIADMTNVSR---GDIAYNLIDIEN---
+EVGKSAVKELMKIKNILNVRLI------*
+>P1;gi|23121007|ref|ZP_00103450.1| COG0111: Phosphoglycerate dehydro... [ score 67 E 9e-11 ] [ range 305 .. 386 ]
+sequence
+-----FPNCDMGVCNQARIAINHKNIPNMLGQFTSTLAKENVNISDLMNKSK---GSYAYTLIDIET-PV
+DP--EMITKLKEIDGVLKVRVI------*
+>P1;gi|44597052|gb|EAK36690.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 306 .. 387 ]
+sequence
+-----FPNVKLSIKSPHRLTITNKNVPNIIGQFTSILGNSEINIDDLSHKVL---DDIGYTILNV---DR
+LVPESVLHEISNIDGVMKTNLLF-----*
+>P1;gi|43261934|gb|EAC96660.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 10 .. 90 ]
+sequence
+-----FPKIKLGRSTDHRLIVINKNEPGMIGKIAEFIANKKLNISDMVNKSR---DDIAINLIDLDS---
+EPPNELIESLKEIEHVLSVRVC------*
+>P1;gi|43383857|gb|EAD56820.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 230 .. 310 ]
+sequence
+-----FPRISLSRGTHHRLVIINHNEPGMISKITDSIAACDINIAEMTNKSK---DKIAINLIDLEI---
+EASSELIRHLESVEHVLSVRSL------*
+>P1;gi|43494729|gb|EAE02201.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 178 .. 256 ]
+sequence
+-----FPRISLSRGTHHRLVIINHNEPGMISKITDSIAACDINIAEMTNKSK---DEIAINLIDLEC---
+EASPELIRQLESVEHVLSVR--------*
+>P1;gi|44406812|gb|EAJ05117.1| unknown [environmental sequence] [ score 65 E 4e-10 ] [ range 310 .. 390 ]
+sequence
+-----FPNVKLGRTTQFRIVIVHKDEPGVLGKITSEVAHNNLNITDMINKSR---DEIAITLIDL---NE
+NPSQELLKKIHDNENVLTVRVC------*
+>P1;gi|30248351|ref|NP_840421.1| D-isomer specific 2-hydroxyacid deh... [ score 65 E 5e-10 ] [ range 314 .. 394 ]
+sequence
+-----FPDVVMERGTPYRVAVANANVPNLLGQISTCMADVGLNIHNMVNKSR---GEMAYTL--VDT-DK
+AVPQETIDAIVRITGVLMVRYL------*
+>P1;gi|43080510|gb|EAC06473.1| unknown [environmental sequence] [ score 64 E 6e-10 ] [ range 4 .. 82 ]
+sequence
+-----FPDVRLDSNAQYRIAVANRNVPGLLGELMSVLADKNINVIDMINKSR---GDVAYNLIDIDA-KP
+TIG--LIETINSIKDILSLR--------*
+>P1;gi|32414797|ref|XP_327878.1| hypothetical protein [Neurospora cr... [ score 64 E 8e-10 ] [ range 380 .. 466 ]
+sequence
+------PEVTLDEPNHARVIYIHRNVPGVLRKVNEILAEH--NVDKQISDSK---GDLAYLMADVDV-KQ
+DDIKNIRDSLDSLSSRILTRILY-----*
+>P1;gi|44018833|gb|EAG68174.1| unknown [environmental sequence] [ score 64 E 9e-10 ] [ range 35 .. 119 ]
+sequence
+-----FPSLHLAAEKGSRLAISNKNVPKMLGQILSVLADQNINVIDMLNKSR---DEVAYNLIDLE---D
+TPSDEAITAIAQIDDVIKVTVL------*
+>P1;gi|43768502|gb|EAF38681.1| unknown [environmental sequence] [ score 64 E 9e-10 ] [ range 21 .. 101 ]
+sequence
+-----FPRISLSRGTNHRLVIINHNEPGMIGKIADSIAACDINIAEMTNKSR---DEIAINLIDLEC---
+QASEELINQLRSVEHVMSVRSL------*
+>P1;gi|44503052|gb|EAJ71538.1| unknown [environmental sequence] [ score 64 E 9e-10 ] [ range 30 .. 110 ]
+sequence
+-----FPAIELDRTTDYRITIANRNEPGTLSHILTLIGDEGLNVADLLNKSV---GDIAYNIVDL---DE
+LPQQALLDKIGGLEGVINLRLI------*
+>P1;gi|23028497|ref|ZP_00066896.1| COG0111: Phosphoglycerate dehydro... [ score 63 E 1e-09 ] [ range 319 .. 390 ]
+sequence
+--------------GGCRITFTNENVSGVLGNVLSVFAANNVNVIDMVNKSR---NDVAYNILDLA---E
+KPSEDVIAALKAVEHVISLRVI------*
+>P1;gi|44162194|gb|EAH46227.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 33 .. 113 ]
+sequence
+-----FPRIKLSRSTDNRLIVINKNEPGMIGKIAEFIANKKLNISDMVNKSR---DDIAINLIDLDS---
+EPQKELIESLKKTEHVLSVRVC------*
+>P1;gi|44155958|gb|EAH42943.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 95 .. 173 ]
+sequence
+-----YPQIIEPMETSYRLTIANKNVSGMIGKITAIIAEEGLNIIDMKNRSR---DDIAYNVIDLDS---
+EPSTKSIEAIKGEENIINVR--------*
+>P1;gi|44503783|gb|EAJ72035.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 310 .. 388 ]
+sequence
+-----FPRVRLRRTTKNRLVIIHKDEPGLIGSITGELASKNINISDMINKSS---NEIAITLIDIEI---
+EPSKNLLSNINKIDKVLSVR--------*
+>P1;gi|42554642|gb|EAA77485.1| conserved hypothetical protein [Gibbe... [ score 61 E 6e-09 ] [ range 388 .. 474 ]
+sequence
+------PEVQLDEPDTARVIFIHRNVPGVLRKVNEILGDH--NVDKQISDSR---GDNAYLMADISN-IK
+EQIKDIYDSLEGLSARVMTRILY-----*
+>P1;gi|21227855|ref|NP_633777.1| D-3-phosphoglycerate dehydrogenase ... [ score 60 E 9e-09 ] [ range 465 .. 538 ]
+sequence
+--------------AGRMIFAKHINKPNVIGPCCMVLGKNNINISGMQVGRS---EVGGVTMMVLNV-DT
+DVSDAILDEVRQVPGILNAKLV------*
+>P1;gi|23024591|ref|ZP_00063796.1| COG0111: Phosphoglycerate dehydro... [ score 60 E 1e-08 ] [ range 304 .. 385 ]
+sequence
+-----YPDINEPFTTKYRVGIIHENVPNMLGQISKFFGDHNINIEQLSNRAV---GNYAYTMVAIDF-TE
+EQQELVKTALDEIPHVILTR--------*
+>P1;gi|15614165|ref|NP_242468.1| D-3-phosphoglycerate dehydrogenase ... [ score 59 E 3e-08 ] [ range 463 .. 530 ]
+sequence
+------------VPEGHLIYIQHNDRPGVIGKMGQLLAEHNVNIATMQVGRQ---EEGGDAIMMVAV-DK
+VATDEVIEALKAVD--------------*
+>P1;gi|25011659|ref|NP_736054.1| Unknown [Streptococcus agalactiae N... [ score 59 E 3e-08 ] [ range 306 .. 389 ]
+sequence
+-----FPNVHQIQTAPFRITLINKNVPNIVAKISTAVSELGINIDNIINRSK---GDYAYTLIDLET-DN
+NKISTLIEEFEGDENIVRVRLI------*
+>P1;gi|43313187|gb|EAD22333.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 1 .. 79 ]
+sequence
+--------VKLGINSPHRLTITNKNVPNIIGQFTSILGNAGINIDDLSHKVL---DEIGYTILNI---DK
+PITESVLHEISNIEGVMKTNILF-----*
+>P1;gi|43143574|gb|EAC37504.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 36 .. 114 ]
+sequence
+-----FPRVRLRRTTKNRLVIVHKDEPGLIGSITGELASQNINISDMINKSR---NEIAITLIDVEI---
+EPSVNLLNNINKIDKVLSVR--------*
+>P1;gi|15672586|ref|NP_266760.1| D-3-phosphoglycerate dehydrogenase ... [ score 58 E 3e-08 ] [ range 309 .. 392 ]
+sequence
+-----FPRVLQELNTPYRVTLINKNVPNVVAQISLAVAAENINIANIVNRGQ---GDYAYTLLDLDE-KD
+EGKLAALVRFEAADNIIRVRLI------*
+>P1;gi|23015581|ref|ZP_00055353.1| COG0111: Phosphoglycerate dehydro... [ score 58 E 4e-08 ] [ range 544 .. 617 ]
+sequence
+--------------GSHMLYVTNQDKPGFIGALGTLLGANGVNIATFHLGRS---EAGGDAILLTQV-DQ
+PVSNELLEKVRALPQVVQAKFL------*
+>P1;gi|44035105|gb|EAG77182.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 235 .. 266 ]
+sequence
+-----FPEVALPSHGKHRLLHIHQNIPGVMSEINKV----------------------------------
+----------------------------*
+>P1;gi|44334430|gb|EAI53744.1| unknown [environmental sequence] [ score 58 E 6e-08 ] [ range 310 .. 390 ]
+sequence
+-----FPRVKLGRTTENRLVIVHKDEPGVIGRITGEIASENLNIADMINKSR---NEIAITLIDLQ---L
+EPSKKLIDTIKKMKRVFSVRIC------*
+>P1;gi|45528891|ref|ZP_00180052.1| hypothetical protein Mther202701 ... [ score 57 E 7e-08 ] [ range 450 .. 521 ]
+sequence
+--------------AGHLLVIPHLDRPRIIGPVALAIGDHGVNIAAMQVGRR---ERGGQAVMLISV-DS
+EVPRAALDAIRQVDGVLDVR--------*
+>P1;gi|44469976|gb|EAJ49294.1| unknown [environmental sequence] [ score 57 E 9e-08 ] [ range 310 .. 367 ]
+sequence
+-----FPRISLSRGTHHRLVIINHNEPGMISKITDSIAAFDINIAEMTNKSR---DEIAINLIDLE----
+----------------------------*
+>P1;gi|11498419|ref|NP_069647.1| phosphoglycerate dehydrogenase (ser... [ score 57 E 1e-07 ] [ range 451 .. 520 ]
+sequence
+---------------GHYIISLHEDKPGVIGRVGTLFGRNNINIAGMIVGRS---GDGGIQLMLLLV-DD
+PPTPEVLEEMTKLDGII-----------*
+>P1;gi|45359151|ref|NP_988708.1| D-3-phosphoglycerate dehydrogenase ... [ score 57 E 1e-07 ] [ range 456 .. 513 ]
+sequence
+----------------------HIDRPGMVGKVGVLLGEHGINIAGMQVGRR---EPGGHSIMFLDI-DH
+MISDEVLDEIRKME--------------*
+>P1;gi|24380031|ref|NP_721986.1| putative D-3-phosphoglycerate dehyd... [ score 57 E 1e-07 ] [ range 306 .. 389 ]
+sequence
+-----FPNMHQTLTAPYRITLINKNVPNIVARLSTAVSNLDINIANILNRSK---GDYAYTILDLET-DK
+AKIDDLVANFEASDNIVRVRLI------*
+>P1;gi|23051834|ref|ZP_00078542.1| COG0111: Phosphoglycerate dehydro... [ score 57 E 1e-07 ] [ range 448 .. 521 ]
+sequence
+--------------AGRMIFAKHINRPNVIGPCCMVLGKNNINISGMQVGRS---EIGGVTMMVLNI-DS
+EVSDPILEEVRKVDGILDAKLV------*
+>P1;gi|15672812|ref|NP_266986.1| beta-subunit of L-serine dehydratas... [ score 56 E 2e-07 ] [ range 153 .. 214 ]
+sequence
+------------------FVVIHEDVPGMIARVSSVLSEHQINIAQMNVTRE---AKGEKAIMILEV-DT
+PNVKEVIEEMKLIP--------------*
+>P1;gi|33865069|ref|NP_896628.1| putative D-3-phosphoglycerate dehyd... [ score 56 E 2e-07 ] [ range 454 .. 520 ]
+sequence
+---------------SHMLFTRHRDMPGIIGQLGSMLGEHNVNIAAMQVGRK---IVRGDAVMVLSI-DD
+PIPAALLQTITAIEGI------------*
+>P1;gi|20808958|ref|NP_624129.1| Phosphoglycerate dehydrogenase and ... [ score 55 E 3e-07 ] [ range 460 .. 526 ]
+sequence
+------------------LFVKNKDVPGVIGHIGNVLGDFGINISTMQVSPN---KNDGTALMLVST-DK
+EIPEEAVESLNKLNSIIKA---------*
+>P1;gi|44380819|gb|EAI86689.1| unknown [environmental sequence] [ score 55 E 3e-07 ] [ range 163 .. 236 ]
+sequence
+-----------------RLSIVNNNKPGVLNGVMNVFNKYTINVEQQLSVSN---DKIAYNIIDIQT-IS
+DTIESILPEINLINNVVRTRII------*
+>P1;gi|22538279|ref|NP_689130.1| L-serine dehydratase, iron-sulfur-d... [ score 55 E 3e-07 ] [ range 152 .. 213 ]
+sequence
+------------------LIIVHQDIPGMIAKVTDILSDFNINIAQMNVTRE---SAGEKAIMIIEV-DS
+RDCQQAVKKIEAIP--------------*
+>P1;gi|22990298|ref|ZP_00035189.1| COG1760: L-serine deaminase [Ente... [ score 55 E 4e-07 ] [ range 155 .. 216 ]
+sequence
+------------------LIVVHQDVPGMIAKVTSILSETNTNIGTMTVTRE---SKGENAIMIIEV-DD
+PQVEETVKRLKQLP--------------*
+>P1;gi|15606928|ref|NP_214309.1| D-3-phosphoglycerate dehydrogenase ... [ score 55 E 4e-07 ] [ range 466 .. 526 ]
+sequence
+----------------------NKDVPGVIGKIGSILGEANINIAGFRLGRE---KKGGIAIGILNL-DE
+PASEEVLSRIKEIPEIL-----------*
+>P1;gi|15900049|ref|NP_344653.1| L-serine dehydratase, iron-sulfur-d... [ score 55 E 4e-07 ] [ range 153 .. 214 ]
+sequence
+------------------IIIVHQDIPGMIALVTEALSRYGINIAQMNVTRE---KAGEKAIMIIEV-DS
+RNCDEAIEEIRKIP--------------*
+>P1;gi|43165618|gb|EAC48399.1| unknown [environmental sequence] [ score 55 E 5e-07 ] [ range 18 .. 83 ]
+sequence
+----------------------NYDSPGLFGDLGSLCAQHGLNIATFHLGRR---ELGGEAVALVEI-DG
+TVPDEVLDEIKALSQVVRADIL------*
+>P1;gi|15792221|ref|NP_282044.1| D-3-phosphoglycerate dehydrogenase ... [ score 55 E 6e-07 ] [ range 454 .. 517 ]
+sequence
+---------------GKMIIFKNKDIPGVIAKISSVLAAKNINIADFRLGRD---G-FGYALAVVLI-DE
+KVQKEVLDELKQLE--------------*
+>P1;gi|41718467|ref|ZP_00147468.1| hypothetical protein Mbur213801 [... [ score 54 E 7e-07 ] [ range 143 .. 208 ]
+sequence
+----------------------HVNRPNVIGPCCIVLGENNINISGMQVGRV---EVGGNTIMALNV-DN
+EVSEGILDEIRAINGILDAKLV------*
+>P1;gi|22297868|ref|NP_681115.1| D-3-phosphoglycerate dehydrogenase ... [ score 54 E 7e-07 ] [ range 456 .. 525 ]
+sequence
+------------------LLTLHRDMPGIIGKIGTQLGSFNVNIASMQVGRK---MVRGNAVMVISL-DD
+PLPEGLLEEILKVPGIRDAYIV------*
+>P1;gi|33863698|ref|NP_895258.1| putative D-3-phosphoglycerate dehyd... [ score 54 E 9e-07 ] [ range 450 .. 524 ]
+sequence
+-----FPVNVSPSR--HMLLTRHRDMPGIIGQLGSVLGEHNVNIASMQVGRR---IVRGDAVMVLSI-DD
+PIPPSLLVTIHAINGI------------*
+>P1;gi|20093737|ref|NP_613584.1| Predicted dehydrogenase related to ... [ score 54 E 9e-07 ] [ range 451 .. 520 ]
+sequence
+------------------LFVWHVDRPGVIGEVGIILGEHRVNVAAMEVGRR---ERGGEAIMVIRM-DE
+EPPEECLRAIDEVEPVRRVELV------*
+>P1;gi|23042584|ref|ZP_00073958.1| COG0111: Phosphoglycerate dehydro... [ score 54 E 1e-06 ] [ range 456 .. 522 ]
+sequence
+------------------LLTLHRDMPGIIGKIGSLLGSFNVNIASMQVGRK---IVRGDAVMVLSV-DD
+PLPEEILTEILKEPGIRNA---------*
+>P1;gi|23100081|ref|NP_693547.1| phosphoglycerate dehydrogenase [Oce... [ score 53 E 1e-06 ] [ range 454 .. 518 ]
+sequence
+---------------GHMVVIQHRDQPGVIGRMGSTIAKHDINIATMQVDRS---DIGGDAIMILTI-DR
+HLADEALNEIESLD--------------*
+>P1;gi|43575062|gb|EAE42279.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 26 .. 106 ]
+sequence
+-----FPRVKLGRTTENRLVIVHKDEPGVIGRITGEIASENLNIADMINKSR---NEIAITLIDLQ---L
+KPPKKLIDTIKKMKRVFSVRIC------*
+>P1;gi|28211606|ref|NP_782550.1| L-serine dehydratase beta subunit [... [ score 53 E 2e-06 ] [ range 151 .. 212 ]
+sequence
+------------------LMTKHKDTPGVISKISTIMYKDNLNIGTMKLYRN---SKGSMATMALET-DN
+VIPQATIEKLKKIP--------------*
+>P1;gi|43828152|gb|EAF68356.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 2 .. 65 ]
+sequence
+--------------------VINKNEPGMIGKIAYFIANKKLNISDMVNKSR---DDIAINLIDLDS---
+KPPKELIESLKKIEYVLSVR--------*
+>P1;gi|37521708|ref|NP_925085.1| D-3-phosphoglycerate dehydrogenase ... [ score 53 E 2e-06 ] [ range 455 .. 521 ]
+sequence
+------------------LITLHRDMPGIIGKVGSFLGSYNVNIAGMQVGRK---LVRGDAVMMVSL-DD
+PLPEGLLGEIESVPGIRKA---------*
+>P1;gi|23011618|ref|ZP_00051924.1| COG0111: Phosphoglycerate dehydro... [ score 53 E 2e-06 ] [ range 631 .. 702 ]
+sequence
+--------------APHMLYVRNHDKPGFIGRFGSVLGEAGVNVATFALGRE---AEGGNAIAFVAV-DG
+PVPAEVLKTIEAIPQVKRVR--------*
+>P1;gi|16800993|ref|NP_471261.1| similar to phosphoglycerate dehydro... [ score 52 E 2e-06 ] [ range 137 .. 212 ]
+sequence
+-------EFELEFTGTAAILILHQDKFGAIAAVSSVIADHKINIGQMKVSRK---VKGDEALMVIEV-DQ
+QVEQDLISKIAELPGI------------*
+>P1;gi|15893961|ref|NP_347310.1| L-serine dehydratase, beta chain [C... [ score 52 E 2e-06 ] [ range 151 .. 212 ]
+sequence
+------------------LIVSHKDVPGMISKITTMIYENNINIAFLKVYRS---SRGFAAKMIVET-DT
+VIDKQIIDKMKQIE--------------*
+>P1;gi|33861910|ref|NP_893471.1| putative D-3-phosphoglycerate dehyd... [ score 52 E 4e-06 ] [ range 452 .. 520 ]
+sequence
+---------------PSRFMLIHRDMPGIIGKLGSLLGDHNVNIASMQVGRK---IVRGEAVMVLSI-DD
+PIPTNLLESILEVEGI------------*
+>P1;gi|29377199|ref|NP_816353.1| L-serine dehydratase, iron-sulfur-d... [ score 52 E 5e-06 ] [ range 152 .. 213 ]
+sequence
+------------------FIVVHQDVPGMIAKVTNILSASDINISTMTVTRE---SKGEKAIMIIEV-DQ
+AEVGDIVMQLAEIP--------------*
+>P1;gi|33240885|ref|NP_875827.1| D-3-phosphoglycerate dehydrogenase ... [ score 51 E 5e-06 ] [ range 457 .. 520 ]
+sequence
+------------------LFTRHRDMPGIIGKLGSLLGTHNVNIAAMQVGRR---IVRGEAVMVLSI-DD
+PIPSELLTSILAVEGI------------*
+>P1;gi|45528610|ref|ZP_00179809.1| hypothetical protein Cwat071101 [... [ score 51 E 6e-06 ] [ range 454 .. 518 ]
+sequence
+------------------LFTVHRDMPGIIGKIGSLLGSFNVNIASMQVGRK---IVRGDAVMALSL-DD
+PLPEGLLNEITKVDGIR-----------*
+>P1;gi|44391282|gb|EAI94239.1| unknown [environmental sequence] [ score 51 E 6e-06 ] [ range 8 .. 76 ]
+sequence
+-----------------RLVIVHKDEPGVLGRITGEIASENLNIADMINKSR---NEIAITLIDLQ---L
+EPPKKLIDTIKKMKRVFSVRIC------*
+>P1;gi|32474150|ref|NP_867144.1| phosphoglycerate dehydrogenase [Pir... [ score 51 E 6e-06 ] [ range 453 .. 527 ]
+sequence
+---------------GKLLVFVHKDVPGIIGRVGTTFGSHGVNIAQMAVGRE---GDGGAAIGVLSL-DG
+EVPTAALDDLLAIDAITECQVI------*
+>P1;gi|16803853|ref|NP_465338.1| similar to phosphoglycerate dehydro... [ score 51 E 7e-06 ] [ range 137 .. 212 ]
+sequence
+-------EFELEFTGTAAILILHQDKFGAIAAVSSVIADHKINIGQMKVSRK---VKGDEALMVIEV-DQ
+QVEQALISKIAELSGI------------*
+>P1;gi|15615060|ref|NP_243363.1| L-serine dehydratase beta subunit [... [ score 51 E 7e-06 ] [ range 149 .. 210 ]
+sequence
+------------------ILVVHTDRFGVIASVSNMLAKHEINIGHMEVSRK---EKGKEALMVIEV-DQ
+NVDDLLLQELERLP--------------*
+>P1;gi|410116|gb|AAA67502.1| phosphoglycerate dehydrogenase [ score 51 E 7e-06 ] [ range 341 .. 416 ]
+sequence
+------------YPTGHLVYIQHQDTTGVIGRVGRILGDNDINIATMQVGRK---EKGGEAIMMLSF-DR
+HLEDKIVKELTNVPDIVSVKLI------*
+>P1;gi|43863523|gb|EAF85821.1| unknown [environmental sequence] [ score 51 E 7e-06 ] [ range 99 .. 168 ]
+sequence
+------------------LIFMHEDVPGIIGNVGTAFGGTGVNIAQMTVGRS---APGGDAIGVLSL-DQ
+EPSEESLSNVRTCEGIHSAKIC------*
+>P1;gi|15675923|ref|NP_270097.1| putative L-serine dehydratase beta ... [ score 51 E 8e-06 ] [ range 153 .. 214 ]
+sequence
+------------------IVTVHKDIPGMIAKVTDILSSNNINIATMNVTRE---SAGEKATMIIEV-DS
+RECQEAANQIAKIP--------------*
+>P1;gi|30022220|ref|NP_833851.1| L-serine dehydratase [Bacillus cere... [ score 50 E 1e-05 ] [ range 150 .. 209 ]
+sequence
+------------------LLIVNNDRFGAIAAVASILAKHEINISTMSVSRK---EKGRRALMVIET-DE
+LLADEVIEEIKA----------------*
+>P1;gi|42906099|gb|EAB20155.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 136 .. 209 ]
+sequence
+------------EASGTMLVTTNSDKPGMIGVIGVCLGKHQININQFELGRN---VRGGEAMAVISV-DQ
+DISKDILDELISNDGIISVR--------*
+>P1;gi|45506842|ref|ZP_00159191.1| hypothetical protein Avar398301 [... [ score 50 E 1e-05 ] [ range 237 .. 301 ]
+sequence
+------------------LFTLHRDMPGIIGKLGSLLGSFNVNIASMQVGRK---IVRGDAVMALSI-DD
+PLPDGILAEITKVPGIR-----------*
+>P1;gi|43003659|gb|EAB68685.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 108 .. 170 ]
+sequence
+----------------------HRDMPGIIGKLGSLLGSNNVNIASMQVGRK---IVRGEAVMVLSI-DD
+PIPNKLLDTITEVEGITNA---------*
+>P1;gi|27468319|ref|NP_764956.1| D-3-phosphoglycerate dehydrogenase ... [ score 50 E 2e-05 ] [ range 458 .. 520 ]
+sequence
+------------------LVTCHKDKPGIVGQTGNLLGSHGINIASMTLGRN---DAGGDALMILSI-DQ
+QASEEVIKILNETSG-------------*
+>P1;gi|44268275|gb|EAI08660.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 247 .. 312 ]
+sequence
+--------------GPNMLFITNEDKPGFIGSLGSILAEAKINIATFHLGRT---KVGGDAIALIEI-DE
+AVSAKLIETLNNIP--------------*
+>P1;gi|43609284|gb|EAE59388.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 124 .. 185 ]
+sequence
+----------------------NYDKPGFIGSIGTLLAEKDINIASFHLGRR---ENSGEAVALIAV-DQ
+KVNKMIIESIKNLEHVVR----------*
+>P1;gi|39937368|ref|NP_949644.1| putative phosphoglycerate dehydroge... [ score 49 E 2e-05 ] [ range 454 .. 519 ]
+sequence
+--------------GSSMIYVTNEDKPGFIGKFASLLGDAKVNIATFNLGRH---TEGGDAIALVTI-DG
+PAPTEVLEKVQALP--------------*
+>P1;gi|16330470|ref|NP_441198.1| phosphoglycerate dehydrogenase [Syn... [ score 49 E 3e-05 ] [ range 483 .. 547 ]
+sequence
+------------------LFTLHRDMPGIIGKIGSLLGSFNVNIASMQVGRK---IVRGDAIMALSL-DD
+PLPDGLLSEITKVAGIR-----------*
+>P1;gi|44298631|gb|EAI29021.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 323 .. 384 ]
+sequence
+----------------------NYDKPGFIGSIGTLLAEKNINIASFHLGRR---ENSGEAVALIAV-DQ
+KVNKMIIESISTLDHVVR----------*
+>P1;gi|43437007|gb|EAD74140.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 212 .. 273 ]
+sequence
+-----FPTTILAPHSGARLCIVNKNESGALGEITTFLGTQDCNILQEINTSR---DSVAYTVIDLEK---
+----------------------------*
+>P1;gi|45531430|ref|ZP_00182478.1| hypothetical protein Exigu219901 ... [ score 48 E 3e-05 ] [ range 145 .. 215 ]
+sequence
+--------------GGPALIVLHHDRFGAIAAVTSILADYEINIGHMEVSRH---EKGKQALMAIEI-DD
+RMPTAVLEEINRLPQVERS---------*
+>P1;gi|20094461|ref|NP_614308.1| Predicted transcriptional regulator... [ score 48 E 3e-05 ] [ range 95 .. 165 ]
+sequence
+--------------GRARILIEAEDRPGLLADVTNRLASAGVNILETELKVE---EGIA--IMEFEA-EN
+VVHEEVLQELDGLSGLIRVEV-------*
+>P1;gi|45513001|ref|ZP_00164567.1| hypothetical protein Selo072901 [... [ score 48 E 4e-05 ] [ range 92 .. 155 ]
+sequence
+------------------LFTRHRDMPGIIGKIGSLLGSFNVNIASMQVGRR---IVRGDAVMVLSL-DD
+PLPEGILAEITKVAGI------------*
+>P1;gi|23130241|ref|ZP_00112058.1| COG0111: Phosphoglycerate dehydro... [ score 48 E 4e-05 ] [ range 455 .. 519 ]
+sequence
+------------------LFTLHRDMPGIIGKLGSLLGSFNVNIASMQVGRK---IVRGDAVMALSI-DD
+PLPEGILDEIIKVPGIR-----------*
+>P1;gi|17939923|emb|CAD19520.1| d-3 phosphoglycerate dehydrogenase, ... [ score 48 E 5e-05 ] [ range 47 .. 120 ]
+sequence
+--------------GSHMIYITNTDVPGMIGFIGTTLGTAGVNIANFQLGRD---KQGGDAIALLYV-DG
+EVEDGVLTQLTAHQAIRQAKLL------*
+>P1;gi|44327568|gb|EAI48916.1| unknown [environmental sequence] [ score 48 E 5e-05 ] [ range 295 .. 357 ]
+sequence
+----------------------NYDSPGFIGALGTLLGNEGINIATFNLGRR---ENGGEALALVEV-EG
+DISDAVLSAVRSLPQVVRA---------*
+>P1;gi|23111616|ref|ZP_00097226.1| COG1760: L-serine deaminase [Desu... [ score 48 E 6e-05 ] [ range 30 .. 93 ]
+sequence
+----------------HTLVVLQNDLPGVVAQVSSLIAATQINIAQMRVSRE---KKGAHALMIIET-DQ
+AIDPAALALIKKLP--------------*
+>P1;gi|15669207|ref|NP_248012.1| phosphoglycerate dehydrogenase (ser... [ score 48 E 7e-05 ] [ range 443 .. 514 ]
+sequence
+-------EVSFIPEGVLAIIK-HIDRPGTIGRVCITLGDYGINIASMQVGRK---EPGGESVMLLNL-DH
+TVPEEVIEKIKEIP--------------*
+>P1;gi|15966483|ref|NP_386836.1| PUTATIVE D-3-PHOSPHOGLYCERATE DEHYD... [ score 47 E 7e-05 ] [ range 453 .. 523 ]
+sequence
+--------------GNHMVYITNTDVPGMIGFIGSTLGDAGVNIANFQLGRE---KQGGDAIALLYV-DG
+PVSEIVLDKLRANEAIRQA---------*
+>P1;gi|40740964|gb|EAA60154.1| hypothetical protein AN8866.2 [Asperg... [ score 47 E 8e-05 ] [ range 454 .. 542 ]
+sequence
+------PEVTLPDHA--RVIYIHHNVPGVLRKVNEILGDH--NVDKQMTDSR---GDVAYLMADISN-DN
+ATIKDLYERLESLSCI------------*
+>P1;gi|43234356|gb|EAC82770.1| unknown [environmental sequence] [ score 47 E 8e-05 ] [ range 47 .. 114 ]
+sequence
+------------------LYIVNKDRPGFIGRLGTALGDAGVNIATFQLGRV---SPGGEALALIQV-DG
+DLSERLLSRLRGLPDVVQAR--------*
+>P1;gi|15678988|ref|NP_276105.1| phosphoglycerate dehydrogenase [Met... [ score 47 E 8e-05 ] [ range 448 .. 515 ]
+sequence
+------------KPEGTMIIARYRDLPGTIGAIGTKLGQHGINIATMQVGRK---EIGGEAVMVLKV-DQ
+SVPAEVIEEVKKLD--------------*
+>P1;gi|18311605|ref|NP_563539.1| probable L-serine dehydratase beta ... [ score 47 E 8e-05 ] [ range 150 .. 211 ]
+sequence
+------------------LIISHKDVPGAVSKVTAIVYEHNINIAFMKVFRT---ERGKAARMVFEM-DS
+PITKDIIDEIKKVE--------------*
+>P1;gi|31790358|gb|AAP58615.1| putative D-3-phosphoglycerate dehydro... [ score 47 E 1e-04 ] [ range 486 .. 553 ]
+sequence
+---------------GHMLVMRNRDVPGVIGRVGTILGERGVNISHFHLGRR---ERGGEAMAVIEV-DA
+AADAETLDALRSLQDIL-----------*
+>P1;gi|34557674|ref|NP_907489.1| D-3-PHOSPHOGLYCERATE DEHYDROGENASE ... [ score 47 E 1e-04 ] [ range 452 .. 518 ]
+sequence
+------------EPKGRMILFKNTDVPGVIGMIGTTLAKHQINIADFRLGRN---NH-NQALAVIIV-DD
+DVKKEVIEELRAIK--------------*
+>P1;gi|18309970|ref|NP_561904.1| L-serine dehydratase beta subunit [... [ score 47 E 1e-04 ] [ range 150 .. 219 ]
+sequence
+------------------LITCHDDKFGTVNKVTKLLLEHEINIAFMNVSRT---QKGMDATMTLEI-DN
+KIDESVIKRMEEIDGIKKVILI------*
+>P1;gi|15891242|ref|NP_356914.1| AGR_L_2264p [Agrobacterium tumefaci... [ score 46 E 2e-04 ] [ range 453 .. 516 ]
+sequence
+--------------GSHMIYITNTDVPGMIGFMGTTLGEAGVNIANFQLGRE---KEAGDAIALLYV-DG
+PVSEEVLDKLRA----------------*
+>P1;gi|43756861|gb|EAF32866.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 2 .. 67 ]
+sequence
+---------------------TNKNVPNIIGQFTSILGNAEINIDNLSHKVL---DELGYTILNV---DK
+PITEIVSHEISNIEGVMKTNILF-----*
+>P1;gi|14596141|gb|AAK68798.1| phosphoglycerate dehydrogenase [Arabi... [ score 46 E 2e-04 ] [ range 451 .. 506 ]
+sequence
+------------------------DQPGMIGKVASILGDENVNVSFMSVGRI---APGKQAVMAIGV-DE
+QPSKETLKKIGDIP--------------*
+>P1;gi|23098973|ref|NP_692439.1| L-serine dehydratase beta subunit [... [ score 46 E 2e-04 ] [ range 149 .. 213 ]
+sequence
+------------------ILIMHNDRFGAIASVTKILAKHEINIGHMEVNRK---DVGKEALMVIEV-DQ
+NIEDEILNELNAADHII-----------*
+>P1;gi|44368129|gb|EAI77645.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 287 .. 350 ]
+sequence
+----------------HMLYTTNIDKPGYIGALGTVLGEANVNIATFSLGRD---NKNGKALALLGV-DE
+SISDLVIKKIKKLP--------------*
+>P1;gi|22992476|ref|ZP_00037118.1| COG0111: Phosphoglycerate dehydro... [ score 46 E 3e-04 ] [ range 297 .. 380 ]
+sequence
+-----YPSARMFFQAPFRFTIFYQKKTNILAEIFSLLNENELAIADISRNHK---NEHVYILIDIDT-DF
+EQLNQVKQQLEKISGVRKVRLL------*
+>P1;gi|42864235|gb|EAA99364.1| unknown [environmental sequence] [ score 45 E 3e-04 ] [ range 71 .. 144 ]
+sequence
+--------------AKHMIYITNNDTPGLVGKIGHCLGSQGVNIANFNLGRD---KIGGNVIELIEV-DS
+PVDDSVLDKLTQIEDIVQVKKL------*
+>P1;gi|39996300|ref|NP_952251.1| D-3-phosphoglycerate dehydrogenase ... [ score 45 E 3e-04 ] [ range 459 .. 517 ]
+sequence
+------------------LLH-YADRPGMIGKIGTIMGQHEINIASMNLGRS---EKKGEAMVILSL-DS
+AVPPQVLEEVRA----------------*
+>P1;gi|43260900|gb|EAC96128.1| unknown [environmental sequence] [ score 45 E 4e-04 ] [ range 78 .. 137 ]
+sequence
+----------------------NKDIPGVIGKVGTALGDFNVNIGGFIL-SR---AEKGQAFSVIRV-DN
+MISDENLSELRKIPEII-----------*
+>P1;gi|44480807|gb|EAJ57141.1| unknown [environmental sequence] [ score 45 E 4e-04 ] [ range 451 .. 518 ]
+sequence
+---------------GHLLFVNNEDVPGVIGKVGTLLGQHKINIGAYILSDS---EKMDEAFAVIRL-DS
+EVPSSVIELLIQIPEIL-----------*
+>P1;gi|43598221|gb|EAE53974.1| unknown [environmental sequence] [ score 45 E 4e-04 ] [ range 226 .. 268 ]
+sequence
+-----FPRIKLSRSTDHRLVIINKNEPGMIGKIAEFIANEKLNISDMV----------------------
+----------------------------*
+>P1;gi|44307108|gb|EAI34704.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 91 .. 155 ]
+sequence
+------------------LFVKNEDIPGVIGKVGSLLGKNNINIGAYILSSA---TEMDEAFAVIRL-DT
+KVSSSILKLLKEVPEIL-----------*
+>P1;gi|43484928|gb|EAD97209.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 86 .. 145 ]
+sequence
+----------------------NKDIPGVIGKVGTALGDFNVNIGGFIL-SR---AEKGQAFSVVRV-DN
+MVSDENLSELRKIPEII-----------*
+>P1;gi|32043487|ref|ZP_00140749.1| hypothetical protein [Pseudomonas... [ score 45 E 5e-04 ] [ range 1 .. 30 ]
+sequence
+--------------------------------------------------------------MVIDV-DA
+EYSDLALEKLQQVNGTIRSRVLF-----*
+>P1;gi|42997942|gb|EAB65866.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 87 .. 123 ]
+sequence
+-----FPNINSEKYGKHRLFITNNNEPGIISKIAECLASNKI----------------------------
+----------------------------*
+>P1;gi|44568639|gb|EAK16759.1| unknown [environmental sequence] [ score 45 E 6e-04 ] [ range 449 .. 522 ]
+sequence
+------------EASGTMLVTTNSDKPGMIGVMGVCLGKHQININQFELGRN---VRGGEAMAVISV-DQ
+DISKDILDEFISNDGIISVR--------*
+>P1;gi|13473319|ref|NP_104886.1| phosphoglycerate dehydrogenase [Mes... [ score 44 E 8e-04 ] [ range 453 .. 518 ]
+sequence
+--------------GQHMLYTTNADAPGIIGLLGTVCGENGVNIANFQLGRN---RPGGDAIALLYL-DA
+PFPEKVLEQVRAHK--------------*
+>P1;gi|23502543|ref|NP_698670.1| D-3-phosphoglycerate dehydrogenase ... [ score 44 E 9e-04 ] [ range 453 .. 514 ]
+sequence
+--------------GPHMLYVTNKDVPGMIGLLGTICGKHDVNIANFALGRD---HPGGDAIAMLYV-DE
+QIPQAALDEL------------------*
+>P1;gi|42523075|ref|NP_968455.1| GTP pyrophosphokinase [Bdellovibrio... [ score 44 E 0.001 ] [ range 664 .. 738 ]
+sequence
+-----------------RLKIISQDVPGLLKLMSEAFAQQGINISAQIRTTK---DK--KAVCNFEV-SV
+QNASQLNQEIQKIKGIIGTRVIH-----*
+>P1;gi|11499308|ref|NP_070547.1| acetolactate synthase, small subuni... [ score 44 E 0.001 ] [ range 2 .. 72 ]
+sequence
+---------------KHTIAVLVENKPGVLARVAGLFRRRGFNIESLTVGTR---DDLSRMTIVVEG-DD
+KVVEQVIKQLNKLIETIK----------*
+>P1;gi|44414330|gb|EAJ10195.1| unknown [environmental sequence] [ score 44 E 0.001 ] [ range 60 .. 123 ]
+sequence
+--------------GPHMLYTTNEDVPGIIGVLGKTLGDNDVNIANFTLGRS---QAGGQAIALLYV-DN
+PISDTVIGALKA----------------*

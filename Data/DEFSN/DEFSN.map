@@ -1,0 +1,42 @@
+>P1;1dfna
+structureX:1dfn:   2 :A:  31 :A:neutrophil defensins 3 (HNP-3):Homo sapiens: 1.9: -1
+--------DCYCRIPACIAGERRYGTCIYQGRLWAFCC--*
+>P1;1bnb
+structureX:1bnb:   1 : :  38 : :beta-defensin 12 (bndb-12):Bos taurus: -1: -1
+APLSCGRNGGVCIPIRCPVPMRQIGTCFGR--PVKCCRSW*
+>P1;gi|6409288|gb|AAF07925.1| alpha-defensin 1 [Macaca mulatta] [ score 57 E 2e-07 ] [ range 68 .. 96 ]
+sequence
+---------CYCRIPACLAGERRYGTCFYMGRVWAFCC--*
+>P1;gi|38502875|sp|P60030|DEF1_MACMU Neutrophil defensin 1 precursor... [ score 56 E 3e-07 ] [ range 68 .. 96 ]
+sequence
+---------CYCRIPACLAGERRYGTCFYLGRVWAFCC--*
+>P1;gi|38502876|sp|P60031|DEF3_MACMU Neutrophil defensin 3 precursor... [ score 56 E 3e-07 ] [ range 68 .. 96 ]
+sequence
+---------CYCRIPACLAGERRYGTCFYRRRVWAFCC--*
+>P1;gi|38502877|sp|P60032|DEF8_MACMU Neutrophil defensin 8 precursor... [ score 55 E 5e-07 ] [ range 68 .. 96 ]
+sequence
+---------CYCRIPACLAGERRYGTCFYLRRVWAFCC--*
+>P1;gi|5915771|sp|O18815|BDC7_BOVIN BETA-DEFENSIN C7 PRECURSOR (BBD(... [ score 59 E 2e-08 ] [ range 17 .. 53 ]
+sequence
+-PLSCRRKGGICILIRCPGPMRQIGTCFGR--PVKCCRSW*
+>P1;gi|1168637|sp|P46169|BD11_BOVIN Beta-defensin 11 (BNDB-11) (BNBD... [ score 52 E 3e-06 ] [ range 2 .. 38 ]
+sequence
+-PLSCRRNGGVCIPIRCPGPMRQIGTCFGR--PVKCCRSW*
+>P1;gi|5915770|sp|P46161|BD03_BOVIN Beta-defensin 3 precursor (BNDB-... [ score 46 E 3e-04 ] [ range 22 .. 57 ]
+sequence
+--VTCRINRGFCVPIRCPGRTRQIGTCFGP--RIKCCRSW*
+>P1;gi|135310|sp|P25068|TAP_BOVIN Tracheal antimicrobial peptide pre... [ score 45 E 4e-04 ] [ range 28 .. 62 ]
+sequence
+-PVSCVRNKGICVPIRCPGSMKQIGTCVGR--AVKCCR--*
+>P1;gi|28849943|ref|NP_777201.1| tracheal antimicrobial peptide [Bos... [ score 45 E 5e-04 ] [ range 28 .. 62 ]
+sequence
+-PVSCVRNKGICVPIRCPGNMKQIGTCVGR--AVKCCR--*
+>P1;gi|3023391|sp|O19039|BD02_SHEEP Beta-defensin 2 precursor (BD-2)... [ score 45 E 5e-04 ] [ range 29 .. 62 ]
+sequence
+--LSCRWKKGICVLTRCPGTMRQIGTCFGP--PVKCCR--*
+>P1;gi|31747507|gb|AAP57565.1| enteric beta defensin preproprotein [... [ score 45 E 6e-04 ] [ range 28 .. 62 ]
+sequence
+-PQSCHRNKGICVPIRCPGNMRQIGTCLGP--PVKCCR--*
+>P1;gi|1352070|sp|P46164|BD06_BOVIN Beta-defensin 6 (BNDB-6) (BNBD-6... [ score 44 E 9e-04 ] [ range 7 .. 42 ]
+sequence
+--VTCRIYGGFCVPIRCPGRTRQIGTCFGR--PVKCCRRW*

@@ -1,0 +1,2065 @@
+>P1;1hpwa
+structureX:1hpw:  22 :A: 150 :A:fimbrial protein:Pseudomonas aeruginosa: -1: -1
+-------------------ALEGTEFARAQLSEAMTLASGLKTKVSDIFSQD-------GSCPANTAATA
+------GIEKDTDINGKYVAKVTTGG-TAAASGGCTIVATMKASDVATPLRGKTLTLTLGNADKGSYTWA
+CTSNADNK-----------------YLPKTCQTATTTTP*
+>P1;2pil
+structureX:2pil:   1 : : 158 : :fimbrial protein:Neisseria gonorrhoeae: 2.6: 18.7
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGKWPEN-----
+NTSAGVAPPS--DIKGKYVKEVEVK--------NGVVTATMLSSGVNNEIKGKKLSLWARREN-GSVKWF
+CGQPVTRTDDDTVADAKDGKEIDTKHLPSTCRDNFDAK-*
+>P1;1dzoa
+structureX:1dzo:  25 :A: 144 :A:fimbrial protein:Pseudomonas aeruginosa: 1.63: 15.3
+-----------------------------GTEFARSEGASALASVNPLKTTVEEALSR-GWSVKSGTGTE
+DATKKEVPLGVAADANKLG-TIALKPDPADGTADITLTFTMG--GAGPKNKGKIITLTRTAA---DGLWK
+CTS-----------------DQDEQFIPKGCSR------*
+>P1;gi|729530|sp|Q00046|FMD3_NEIGO Fimbrial protein MS11-D3A precurs... [ score 170 E 5e-42 ] [ range 36 .. 166 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GKWPENNTSAG
+------VASPPSDIKGKYVKEVKVEN-G-------VVTATMNSSGVNKEIQGKRLSLW-GRRENGSVKWF
+CTTNIDTK-----------------HLPSTCRDAASA--*
+>P1;gi|1553045|emb|CAA93252.1| pilin (PilE) [Neisseria gonorrhoeae] [ score 165 E 2e-40 ] [ range 36 .. 165 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPEDNTSAG
+------VASSPTDIKGKYVKSVTV--------AKGVVTAEMASTGVNKEIKGKKLSLWAKR-ENGSVKWF
+CTTNIDTK-----------------HLPSTCRDEPTAT-*
+>P1;gi|1360951|pir||S57418 fimbrial protein MS11-N556 precursor - Ne... [ score 161 E 2e-39 ] [ range 36 .. 163 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GIWPENNGAAG
+------VASSPTDIKGKYVQSVTVAN-G-------VVTAQMKSDGVNKEIKNKKLSLWARRQD-GSVKWF
+CNDKIETK-----------------HLPSTCRD------*
+>P1;gi|95407|pir||S22064 pilin pilE precursor - Neisseria gonorrhoea... [ score 161 E 2e-39 ] [ range 29 .. 154 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GIWPENNGAAG
+------VASPASDIKGKYVQSVTVAN-G-------VVTAQMKSDGVNKEIKNKKLSLWAKR-ENGSVKWF
+CNNKIDTK-----------------HLPSTCRD------*
+>P1;gi|78120|pir||D24886 P(-)rp(+) fimbrial protein - Neisseria gono... [ score 161 E 3e-39 ] [ range 36 .. 163 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNN-------GTWPENNASAG
+------VASPPSDIKGKYVQKVEV--------AKGVVTATMASSNVNNEIKGKKLSLWAKR-ENGSVKWF
+CTTNIDTK-----------------HLPSTCRDKAS---*
+>P1;gi|505555|emb|CAA47300.1| pilin [Neisseria gonorrhoeae] [ score 159 E 8e-39 ] [ range 36 .. 165 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GIWPEDNTSAG
+------VASSPTDIKGKYVQSVTVAN-G-------VVTAEMASTGVNKEIKGKKLSLWAKR-ENGSVKWF
+CNNKIDTK-----------------HLPSTCRDTSSA--*
+>P1;gi|2145527|pir||S74318 fimbrial protein class I - Neisseria meni... [ score 158 E 2e-38 ] [ range 29 .. 160 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPGNN-TSA
+------GVATSSEIKGKYVKSVEVKN-G-------VITATMLSSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQNINTK-----------------HLPSTCRDASDAS-*
+>P1;gi|95404|pir||S22104 fimbrial protein MS11-E3 precursor - Neisse... [ score 158 E 2e-38 ] [ range 36 .. 164 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GIWPENNGAAG
+------VASPASDIKGKYVQSVTVAN-G-------VVTAQMKSDGVNKEIKNKKLSLWA-RREAGSVKWF
+CDKEIDTK-----------------HLPSTCRD------*
+>P1;gi|571504|gb|AAA53145.1| pilin monomer [ score 158 E 3e-38 ] [ range 36 .. 163 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPKNNTSAG
+------VASPPSDIKGKYVQSVT--------AAKASVTAQMASTGVNKEIKGKRLSLW-GKRENGSVKWF
+CDNGINTK-----------------HLPSTCRD------*
+>P1;gi|95386|pir||S15642 pilin (variant NGF6F) - Neisseria gonorrhoe... [ score 156 E 7e-38 ] [ range 29 .. 157 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPKDN-ASA
+------GVASASDIKGKYVEKVEVKN-G-------VVTAQMKPSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGKEIDTK-----------------HLPSTCRDTS----*
+>P1;gi|19110406|gb|AAL82806.1| class I pilin [Neisseria meningitidis] [ score 156 E 9e-38 ] [ range 36 .. 167 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPGNN-TSA
+------GVASSSTIKGKYVKEVTVAN-G-------VITATMLSSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQNINTK-----------------HLPSTCRDASDAS-*
+>P1;gi|2921601|gb|AAC38435.1| pilus subunit [Neisseria gonorrhoeae] [ score 156 E 1e-37 ] [ range 36 .. 164 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPKDNGSAG
+------VASPATDIKGKYVKEVKVEN-G-------VVTAQMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CNNGINTK-----------------HLPSTCRD------*
+>P1;gi|2921605|gb|AAC38437.1| pilus subunit [Neisseria gonorrhoeae] [ score 156 E 1e-37 ] [ range 36 .. 160 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTGYYLNN-------GKWPADNGAAG
+------VASPATDIKGKYVKEVKVEN-G-------VVTAQMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CNNAIDTK-----------------HLPSTCRD------*
+>P1;gi|1360950|pir||S57416 fimbrial protein MS11-N474 precursor - Ne... [ score 155 E 2e-37 ] [ range 36 .. 163 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPKDNGAAG
+------VASSPTDIKGKYVQSVTVAN-G-------VVTAQMKSDGVNKEIKNKKLSLWAKR-ENGSVKWF
+CNDKIETK-----------------HLPSTCRD------*
+>P1;gi|78132|pir||S03091 fimbrial protein class I precursor - Neisse... [ score 155 E 2e-37 ] [ range 36 .. 167 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPGNN-TSA
+------GVATSSEIKGKYVKSVEVKN-G-------VVTATMLSSGVNKEIKGKKLSLWAKRQ-NGSVKWF
+CTGNINTK-----------------HLPSTCRDASDAS-*
+>P1;gi|2073462|emb|CAA73472.1| pilE [Neisseria meningitidis] [ score 155 E 2e-37 ] [ range 36 .. 161 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNN-------GEWPEDND-KA
+------GVASASDIKGKYVKSVTVAN-G-------VVTATMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGKEIDTK-----------------HLPSTCRD------*
+>P1;gi|95405|pir||S22102 fimbrial protein MS11-C3/MS11-G2 precursor ... [ score 155 E 2e-37 ] [ range 36 .. 165 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNN-------GIWPEKNTSAG
+------VASSASDIKGKYVKSVAVAN-G-------VVTATMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CSKEIDTK-----------------HLPSTCRDKAS---*
+>P1;gi|95390|pir||S15638 pilin (variant NGF6B) - Neisseria gonorrhoe... [ score 155 E 2e-37 ] [ range 29 .. 154 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPKDN-ASA
+------GVASASDIKGKYVEKVEVKN-G-------VVTAQMKPSGVNKEIQGKRLSLWA-RREAGSVKWF
+CTNAIDTK-----------------HLPSTCRD------*
+>P1;gi|15793282|ref|NP_283104.1| fimbrial protein precursor (pilin) ... [ score 154 E 3e-37 ] [ range 36 .. 169 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPSNN-TSA
+------GVASSTDIKGKYVQSVEVKN-G-------VVTATMASSNVNNEIKGKKLSLWAKRQD-GSVKWF
+CGKQIDTK-----------------HLPSTCRDAASA--*
+>P1;gi|2119889|pir||F39950 fimbrial protein pilS7 (variant A) - Neis... [ score 154 E 3e-37 ] [ range 1 .. 130 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GIWPKDNTSAG
+------VASPPSDIKGKYVQSVTVAN-G-------VVTAQMKSDGVNKEIKNKKLSLWAKR-ENGSVKWF
+CNNKIDTK-----------------HLPSTCRDTSSA--*
+>P1;gi|2921591|gb|AAC38430.1| pilus subunit [Neisseria gonorrhoeae] ... [ score 154 E 3e-37 ] [ range 36 .. 160 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTGYYLNN-------GKWPADNGAAG
+------VASPATDIKGKYVKEVKVEN-G-------VVTAQMASTGVNKEIQDKKLSLWAKRQD-GSVKWF
+CNNAIDTK-----------------HLPSTCRD------*
+>P1;gi|19110404|gb|AAL82805.1| class I pilin [Neisseria meningitidis] [ score 154 E 4e-37 ] [ range 36 .. 164 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPGNN-TSA
+------GVASSSTIKGKYVKEVTVAN-G-------VVTATMLSSGVNKEIQGKKLSLWAKRQ-NGSVKWF
+CTGNINTK-----------------HLPSTCRDASDAS-*
+>P1;gi|2791857|gb|AAB96966.1| pilin [Neisseria gonorrhoeae] [ score 154 E 5e-37 ] [ range 21 .. 145 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GKWPENNTSAG
+------VASSPTDIKGKYVKEVEVKN-G-------VVTATMASSNVNNEIKGKKLSLWA-RRENGSVKWF
+CGKEIDTK-----------------HLPSTCRD------*
+>P1;gi|2921597|gb|AAC38433.1| pilus subunit [Neisseria gonorrhoeae] [ score 153 E 6e-37 ] [ range 36 .. 167 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTGYYLNN-------GKWPADNGAAG
+------VASPATDIKGKYVQKVEV--------AKGVVTAQMASTGVNKEIQGKKLSLWAKRQD-GSVKWF
+CANAIETK-----------------HLPSTCRDESSAT-*
+>P1;gi|95387|pir||S15641 pilin (variant NGF6E) - Neisseria gonorrhoe... [ score 153 E 6e-37 ] [ range 29 .. 164 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPKDN-ASA
+------GVASASDIKGKYVEKVEVKK-G-------VVTAEMKSDGVNKEIKGKRLSLWARRQD-GSVKWF
+CDKEIDTK-----------------HLPSTCRDEPNAT-*
+>P1;gi|1553043|emb|CAA93251.1| PilE/pilin (PilE) [Neisseria gonorrho... [ score 153 E 8e-37 ] [ range 36 .. 160 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GIWPKDN-TSA
+------GVASSDKIKGKYVQSVTV--------AKGVVTAEMASTGVNKEIQGKKLSLWAKRQD-GSVKWF
+CNNKIDTK-----------------HLPSTCRD------*
+>P1;gi|2921593|gb|AAC38431.1| pilus subunit [Neisseria gonorrhoeae] [ score 152 E 9e-37 ] [ range 36 .. 164 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTGYYLNH-------GEWPEDNTSAG
+------VASPATDIKGKYVKEVKVEN-G-------VVTAQMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CNNGINTK-----------------HLPSTCRD------*
+>P1;gi|1073205|pir||S55496 fimbrial protein pilE precursor - Neisser... [ score 152 E 1e-36 ] [ range 36 .. 166 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPGDN-SSA
+------GVATSADIKGKYVKEVEVKN-G-------VITAQMASSNVNNEIKGKKLSLWAKRQD-GSVKWF
+CTDNINTK-----------------HLPSTCRDDSSAS-*
+>P1;gi|120430|sp|P11764|FMM2_NEIGO Fimbrial protein P9-2 precursor (... [ score 152 E 1e-36 ] [ range 36 .. 162 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GIWPKDN-TSA
+------GVASSSSIKGKYVKEVKVEN-G-------VVTATMNSSNVNKEIQGKKLSLWAKRQD-GSVKWF
+CDGKIDTK-----------------HLPSTCRD------*
+>P1;gi|95402|pir||S22107 pilin pilE precursor - Neisseria gonorrhoea... [ score 152 E 2e-36 ] [ range 36 .. 166 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNN-------GIWPENNASAG
+------VASSAADIKGKYVKSVTVAN-G-------VVTATMLSSGVNNEIKGKKLSLWAARQD-GSVKWF
+CGKEIDTK-----------------HLPSTCRDTSSA--*
+>P1;gi|1381710|gb|AAB02756.1| pilin [ score 151 E 2e-36 ] [ range 36 .. 159 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTGYYLNN-------GEWPEDN-TSA
+------GVASPTDIKGKYVKSVTV--------AKGVVTAEMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CNNGINTK-----------------HLPSTCRD------*
+>P1;gi|15675966|ref|NP_273084.1| pilin PilE [Neisseria meningitidis ... [ score 148 E 2e-35 ] [ range 36 .. 170 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPGNN-TSA
+------GVATSSEIKGKYVKSVEVKN-G-------VVTAQMASSNVNNEIKGKKLSLWAKRQ-NGSVKWF
+CGKKIDTK-----------------HLPSTCRDASDAS-*
+>P1;gi|22978954|ref|ZP_00024690.1| COG4969: Tfp pilus assembly prote... [ score 147 E 5e-35 ] [ range 53 .. 173 ]
+sequence
+--------------------------ARSQFAEGMSLASGQKAGVIESFAAA-------GACPNNASAAD
+------GVPVASAIKGSYVQSVTTGG-TASNAGGCTIIAKFKDEGITRGLLGKQVTLTMGNADGGSVTWQ
+CESSADKR-----------------YVPQACAKASES--*
+>P1;gi|729394|sp|Q07565|ECPD_EIKCO FIMBRIAL PROTEIN ECPD PRECURSOR (... [ score 147 E 5e-35 ] [ range 36 .. 151 ]
+sequence
+--------------------------ARAQVSEAISLMDGLKSSVADNYFNS-------MICADNTVNHF
+------GIAQRSRISGNYVESIHTRV-ATDPNYNCEMLATFKSTDAAAPIRGKTVLLSMKIVDGGTV-WN
+CSSDLANE-----------------FLPTACR-------*
+>P1;gi|2921603|gb|AAC38436.1| pilus subunit [Neisseria gonorrhoeae] [ score 147 E 6e-35 ] [ range 36 .. 159 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTGYYLNN-------GEWPADNGA-A
+------GVASASTIKGKYVQKVEV--------AKGVVTAQMASTGVNKEIQDKKLSLWAKRQD-GSVKWF
+CNNAIDTK-----------------HLPSTCRD------*
+>P1;gi|1381723|gb|AAB02766.1| pilin [Neisseria gonorrhoeae] [ score 146 E 8e-35 ] [ range 1 .. 130 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GIWPKDN-TSA
+------GVANPTDIKGKYVESVTVTN-G-------VVTAKMLSSGVNKEIQGKRLSLWAKR-EAGSVKWF
+CTNGINTK-----------------HLPSTCRDPFSAS-*
+>P1;gi|2228578|gb|AAB62813.1| class II pilin [Neisseria meningitidis] [ score 146 E 9e-35 ] [ range 36 .. 147 ]
+sequence
+--------------------------ARAQMSEALTLAEGQKSAVIEYYSDN-------GTFP-NSNTSA
+------GIAASNEIKGKYVASVKVEG-NASVA---SITATMNSSNVNKDIKGKTLVLV-GKQNSGSFSWG
+CKKSVDEK-----------------FLPSTCRT------*
+>P1;gi|1381727|gb|AAB02769.1| pilin [ score 144 E 3e-34 ] [ range 1 .. 137 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GTWPENNTSAG
+------VASSATDIKGKYVQSVTVAN-G-------VVTAEMKSDGVNKEIQGKRLSLWA-RREAGSVKWF
+CKGKIDTK-----------------HLPSTCRDKSTA--*
+>P1;gi|95388|pir||S15640 pilin (variant NGF6D) - Neisseria gonorrhoe... [ score 144 E 5e-34 ] [ range 29 .. 120 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPKDN-ASA
+------GVASASDIKGKYVEKVEVKN-G-------VVTAQMKPSGVNKEIQGKSLSLWARRQD-GSVKWF
+C--------------------------------------*
+>P1;gi|22978955|ref|ZP_00024691.1| COG4969: Tfp pilus assembly prote... [ score 143 E 8e-34 ] [ range 118 .. 233 ]
+sequence
+--------------------------ARAQFAEGLTLASAQKAAVVESFSQR-------GFCPSNSYSED
+------GIPVSGHISGSYVQSVIVGG-SATEGGGCTITATFRTENVSPGLSGKTLTLTMFGGSSGSIAWL
+CKSDAENR-----------------YIPRSC--------*
+>P1;gi|95391|pir||S15637 pilin (variant NGF6A) - Neisseria gonorrhoe... [ score 140 E 6e-33 ] [ range 29 .. 140 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPKDN-ASA
+------GVASASDIKGKYVEKVEVKN-G-------VVTAQMKPSGVNKEIQGKRLSLWA-RREAGSVKWF
+CGQPVTRE-----------------PTAKP-TTSPKTTP*
+>P1;gi|95389|pir||S15639 pilin (variant NGF6C) - Neisseria gonorrhoe... [ score 139 E 1e-32 ] [ range 29 .. 120 ]
+sequence
+--------------------------ARAQVSEAILLAEGQKSAVTEYYLNH-------GEWPKDN-ASA
+------GVASASDIKGKYVEKVEVKN-G-------VVTAQMTPSGVNKEIQGKSLSLWARRQDR-FVKWF
+C--------------------------------------*
+>P1;gi|7259484|gb|AAF43787.1| pilin [Neisseria lactamica] [ score 138 E 2e-32 ] [ range 36 .. 147 ]
+sequence
+--------------------------ARAQMSEALTLAEGQKSAVVEYYSDN-------GTFP-NSNASA
+------GIANSSDIKGKYVKSVAVTG-NAS---TASITATMNASGVNKDIANKTLILV-GKQNSGSFEWT
+CQKDVADK-----------------FLPSSCRT------*
+>P1;gi|95365|pir||S21822 hypothetical protein 1 (pilE1 3' region) - ... [ score 137 E 4e-32 ] [ range 1 .. 123 ]
+sequence
+---------------------------------AILLAEGQKSAVTEYYLNH-------GEWPEDNTSAG
+------VASSPTDIKGKYVQSVTVAN-G-------VVTAEMASTGVNKEIQGKRLSLWAKR-ENGSVKWF
+CNNKIDTK-----------------HLPSTCRDTSSA--*
+>P1;gi|1381693|gb|AAB02745.1| pilin [ score 137 E 5e-32 ] [ range 2 .. 128 ]
+sequence
+------------------------------ISEAILLAEGQKSAVTGYYLNN-------GKWPADNGAAG
+------VASPATDIKGKYVKEVKVEN-G-------VVTAQMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CANAIETK-----------------HLPSTCRDESSAT-*
+>P1;gi|7259486|gb|AAF43788.1| pilin [Neisseria cinerea] [ score 136 E 8e-32 ] [ range 36 .. 161 ]
+sequence
+--------------------------ARAQMSEALTLAEGQKSAVVEYFSDK-------GVFP-ANNAAA
+------GIAAPTEIKGKYVASVTVGK-TGAADAKATITAKMNATGVNNDIKGKTLMLE-GSQSAGSFSWV
+CSDSVDDK-----------------FLPSSCRTAATTT-*
+>P1;gi|21233181|ref|NP_639098.1| fimbrial protein [Xanthomonas campe... [ score 135 E 2e-31 ] [ range 27 .. 133 ]
+sequence
+--------------------------ARAKVSQAIGALAPLKPQIAEFLERE-------GRCPTND--DA
+------GFHPPEHYATGTLGIVRIGH-FDTAQ--CGVEALLHMPDNAK-LDGKPLWLDL---DQDASSWD
+CSSEIDDK-----------------FLPQDCR-------*
+>P1;gi|15793284|ref|NP_283106.1| truncated pilin [Neisseria meningit... [ score 135 E 2e-31 ] [ range 1 .. 127 ]
+sequence
+----------------------------------MLLAEGQKSAVTEYYLNH-------GTWPSNNSDAG
+------VASTATDIKGKYVKEVKVEK-G-------VITATMLSSGVNNEIKGKKLSLWAKRQ-AGSVKWF
+CNGKIDTK-----------------HLPSTCRDAASA--*
+>P1;gi|15793287|ref|NP_283109.1| truncated pilin [Neisseria meningit... [ score 134 E 3e-31 ] [ range 1 .. 124 ]
+sequence
+------------------------------------MAEGQKSAVTEYYLNH-------GEWPANNSSAG
+------VATSASDIKGKYVEKVEVAN-G-------VITAEMKSSGVNNEIKGKKLSLWTKRQD-GSVKWF
+CTNKIDTK-----------------HLPSTCRDASSA--*
+>P1;gi|1381715|gb|AAB02760.1| pilin [Neisseria gonorrhoeae] [ score 134 E 4e-31 ] [ range 1 .. 127 ]
+sequence
+--------------------------------EAILLAEGQKSAVTEYYLNH-------GIWPENND-KA
+------GVASSSSIKGKYVKEVKVEN-G-------VVTATMNSSNVNKEIKDKRLSLWAKR-ENGSVKWF
+CNNGIDTK-----------------HLPSTCRDKSSA--*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 133 E 6e-31 ] [ range 423 .. 558 ] [ duplicate a ]
+sequence
+--------------------------AIAQVSEAILLAEGQKSAVTEYYLNH-------GEWPKDN-TSA
+------GVASSDKIKGKYVQKVEV--------AKGVVTATMASSNVNKEIKDKKLSLWARRQD-GSVKWF
+CKGKIDTK-----------------HLPSTCRDKSTA--*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 133 E 6e-31 ] [ range 73 .. 186 ] [ duplicate b ]
+sequence
+-----------------------------------------KSAVAGYCPNH-------GTWPENNASAG
+------VASSPTDIKGKYVKSVTV--------AKGVVTAEMASTGVNKEIKGKKLSLWAKR-ENGSVKWF
+CTTNIDTK-----------------HLPSTCRDESSA--*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 133 E 6e-31 ] [ range 185 .. 302 ] [ duplicate c ]
+sequence
+--------------------------------------SAVKSAVTGYCPNH-------GKWPKDN-TSA
+------GVASPAEIKGKYVKSVTV--------AKGVVTAQMNPSGVNNEIKDKKLSLWAKR-ENGSVKWF
+CKDAIETK-----------------HLPSTCRDESSA--*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 133 E 6e-31 ] [ range 304 .. 423 ] [ duplicate d ]
+sequence
+-----------------------------------------KSAVAGYCPNH-------GTWPKDNGDAG
+------VASPADKIKGKYVQKVEV--------AKGVVTAEMASTGVNKEIKDKKLSLWAKRQD-GSVKWF
+CNEKINTK-----------------HLPSTCRDKSTA--*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 133 E 6e-31 ] [ range 560 .. 674 ] [ duplicate e ]
+sequence
+-----------------------------------------KSAVAGYYLNH-------GEWPKDND-SA
+------GVASASKIIGKYVKQVEVKN-G-------VVTAEMASTGVNKEIKDKKLSLWAKRQD-GSVKWF
+CNEKINTK-----------------HLPSTCRD------*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 133 E 6e-31 ] [ range 1 .. 71 ] [ duplicate f ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------MASTGVNKEIKGKKLSLWAKRQD-GSVKWF
+CKDKIETK-----------------HLPSTCRDESTA--*
+>P1;gi|729393|sp|Q07564|ECPC_EIKCO FIMBRIAL PROTEIN ECPC PRECURSOR (... [ score 132 E 1e-30 ] [ range 37 .. 151 ]
+sequence
+--------------------------ARSQMSEAFNLAGGQKGAVSEYYSDK-------GVWPADNAAAG
+------IAAT---VNGKYVNSVVV----SAAGTNGVITATMKSTGVAKGVQGKTLALK-GTANDGSFSWE
+CSSNADAK-----------------YLPSSCRNAATPTP*
+>P1;gi|1381703|gb|AAB02750.1| pilin [Neisseria gonorrhoeae] [ score 132 E 2e-30 ] [ range 1 .. 132 ]
+sequence
+----------------------------AQVSEAILLAEGQKSAVTEYYLNH-------GEWPKDNG-SA
+------GVASASKIIGKYVKEVKVEN-G-------VVTAQMASSNVNKEIKDKKLSLWAKR-ENGSVKWF
+CGTKIDTK-----------------HLPSTCRDESS---*
+>P1;gi|15677974|ref|NP_273085.1| pilS cassette [Neisseria meningitid... [ score 131 E 2e-30 ] [ range 1 .. 125 ]
+sequence
+--------------------------------EAILLAEGQKSAVTEYYLNH-------GEWPGNN-SSA
+------GVATSADIKGKYVKSVEVKN-G-------VVTAQMASSNVNNEIKGKKLSLWAKRQ-AGSVKWF
+CTDKIDTK-----------------HLPSTCRDDSS---*
+>P1;gi|15793286|ref|NP_283108.1| truncated pilin [Neisseria meningit... [ score 131 E 3e-30 ] [ range 1 .. 120 ]
+sequence
+----------------------------------MLLTEGKKSAVTEYYLNH-------GIWPGDNN-SA
+------GVASSSKIKGKYVKEVEVKN-G-------VVTATMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CNDKIDTK-----------------HLPSTCRDASS---*
+>P1;gi|1381701|gb|AAB02749.1| pilin [ score 129 E 1e-29 ] [ range 1 .. 120 ]
+sequence
+-----------------------------------LLAEGQKSAVTEYYLNH-------GTWPENNTSAG
+------VASSATDIKGKYVQSVTVAN-G-------VVTAEMKSDGVNKEIQGKRLSLWA-RREAGSVKWF
+CNNGINTK-----------------HLPSTCRD------*
+>P1;gi|1381712|gb|AAB02757.1| pilin [Neisseria gonorrhoeae] [ score 127 E 4e-29 ] [ range 1 .. 125 ]
+sequence
+--------------------------------EAILLAEGQKSAVTGYCPNH-------GIWPKDNTSAG
+------VASSAADIKGKYVQKVEV--------NNGVVTATMASSNVNKEIQGKRLSLWAKR-ENGSVKWF
+CGTKIDTK-----------------HLPSTCRDESS---*
+>P1;gi|1381697|gb|AAB02747.1| pilin [ score 127 E 6e-29 ] [ range 1 .. 126 ]
+sequence
+--------------------------------EAILLAEGQKSAVTGYYLNN-------GKWPADNGAAG
+------VASPATDIKGKYVKEVKVEN-G-------VVTAQMASSNVNKEIKDKKLSLWAKR-ENGSVKWF
+CGTKIDTK-----------------HLPSTCRD------*
+>P1;gi|1381695|gb|AAB02746.1| pilin [ score 127 E 6e-29 ] [ range 1 .. 118 ]
+sequence
+-------------------------------------AEGQKSAVTEYYLNH-------GTWPENNTSAG
+------VASSATDIKGKYVQSVTVAN-G-------VVTAEMKSDGVNNEIKGKKLSLWAKRQD-GSVKWF
+CNNGINTK-----------------HLPSTCRD------*
+>P1;gi|150299|gb|AAA25472.1| pilin [ score 125 E 2e-28 ] [ range 1 .. 113 ]
+sequence
+-----------------------------------------KSAVTEYYLNN-------GKWPENNTSAG
+------VASPPSDIKGKYVKEVEVKN-G-------VVTATMLSSGVNNEIKGKKLCLWA-RRENGSVKWF
+CGKEIDTK-----------------HLPSTCRDKAS---*
+>P1;gi|466401|gb|AAA21308.1| pilin >gi|466427|gb|AAA21320.1| pilin [ score 124 E 4e-28 ] [ range 1 .. 113 ]
+sequence
+--------------------------------------------VTEYYLNH-------GEWPEDNTSAG
+------VASPPSDIKGKYVKEVEVKN-G-------VVTATMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGKEIDTK-----------------HLPSTCRDTSSA--*
+>P1;gi|1381705|gb|AAB02752.1| pilin [Neisseria gonorrhoeae] [ score 123 E 8e-28 ] [ range 1 .. 116 ]
+sequence
+-----------------------------------------KSAVAGYCPNH-------GKWPENNTSAG
+------VASPPSDIKGKYVKEVEVKN-G-------VVTATMLSSGVNNEIKGKKLSLWA-RRENGSVKWF
+CTTNIDTK-----------------HLPSTCRDESSA--*
+>P1;gi|21232528|ref|NP_638445.1| pilin [Xanthomonas campestris pv. c... [ score 122 E 1e-27 ] [ range 35 .. 144 ]
+sequence
+---------------------------RAQVSEGLSLASGAKVAVEEFHWAK-------SASPS-TNIEA
+------GLGSPESIKGKYVSSVTVEV-DG------VITVAFSSGDASRSIRTSHLQLVPDWSGAGSTVWR
+CNTTIQSK-----------------YLPQACR-------*
+>P1;gi|466417|gb|AAA21316.1| pilin [ score 121 E 2e-27 ] [ range 1 .. 111 ]
+sequence
+--------------------------------------------VTEYYLNH-------GTWPENNTSAG
+------VASSATDIKGKYVQSVTVAN-G-------VVTAEMKSDGVNKEIQGKRLSLWAKRQD-GSVKWF
+CNNAIDTK-----------------HLPSTCRDKSTA--*
+>P1;gi|95350|pir||C39950 fimbrial protein pilE1 (variants F3 and F7)... [ score 120 E 6e-27 ] [ range 1 .. 116 ]
+sequence
+-----------------------------------------KSAVTEYYLNN-------GIWPENNGAAG
+------VASPASDIKGKYVQSVTVAN-G-------VVTAQMKSDGVNKEIKNKKLSLWAKRQD-GSVKWF
+CNEKINTK-----------------HLPSTCRD------*
+>P1;gi|15793283|ref|NP_283105.1| truncated pilin [Neisseria meningit... [ score 120 E 7e-27 ] [ range 1 .. 126 ]
+sequence
+----------------------------------MLLAEGQKSAVTEYYLNH-------GEWPSNN-TSA
+------GVATSTDIKGKYVQSVEVKN-G-------VVTATMASSNVNNEIKGKKLSLWAKRQD-GSVKWF
+CGKQIDTK-----------------HLPSTASTRKST--*
+>P1;gi|15677976|ref|NP_273087.1| pilS cassette [Neisseria meningitid... [ score 119 E 1e-26 ] [ range 1 .. 126 ]
+sequence
+--------------------------------EAILLVEGQKSAVTEYYLNH-------GEWPGDN-SSA
+------GVATSSEIKGKYVKSVEVKN-G-------VVTAQMASSNVNNEIKGKKLSLWAKRQ-NGSVKWF
+CTANINTK-----------------HLPSTAPTRKST--*
+>P1;gi|1381720|gb|AAB02764.1| pilin [Neisseria gonorrhoeae] [ score 119 E 1e-26 ] [ range 1 .. 121 ]
+sequence
+-----------------------------------------KSAVAGYYPNH-------GKWPEDNTSAG
+------VASPPSDIKGKYVQSVTVAN-G-------VVTAEMKSDGVNKEIKGKKLSLW-GRRENGSVKWF
+CNEKIETK-----------------HLPSTCRDESSA--*
+>P1;gi|1381699|gb|AAB02748.1| pilin [ score 119 E 2e-26 ] [ range 1 .. 121 ]
+sequence
+-------------------------------------AEGQKSAVTGYYLNN-------GKWPADNGAAG
+------VASPATDIKGKYVKEVKVEN-G-------VVTAQMASSNVNKEIQGKKLSLWAKR-ENGSVKWF
+CGTKIDTK-----------------HLPSTCRD------*
+>P1;gi|224490|prf||1106226L pillin [ score 118 E 2e-26 ] [ range 1 .. 108 ]
+sequence
+-----------------------------------------------YYLNN-------GIWPENNGAAG
+------VASPPTDIKGKYVKQVEVKN-G-------VVTATMNSSGVNKEIQGKRLSLWAKR-ENGSVKWF
+CSNGINTK-----------------HLPSTCRDTSS---*
+>P1;gi|1381716|gb|AAB02761.1| pilin [Neisseria gonorrhoeae] [ score 117 E 4e-26 ] [ range 1 .. 114 ]
+sequence
+-----------------------------------------KSAVTEYCPNH-------GEWPKDNDKAG
+------VASPPSNIKGKYVESVTVTN-G-------VVTATMLSSGVNNEIKGKKLSLWAKRQ-AGSVKWF
+CNNAIDTK-----------------HLPSTCRDTSSA--*
+>P1;gi|466405|gb|AAA21310.1| pilin >gi|466407|gb|AAA21311.1| pilin [ score 117 E 5e-26 ] [ range 1 .. 111 ]
+sequence
+--------------------------------------------VTEYYLNN-------GEWPEDNTSAG
+------VASPPSDIKGKYVKEVEVKN-G-------VVTAKMPSTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CNNGINTK-----------------HLPSTCRD------*
+>P1;gi|224486|prf||1106226G pillin [ score 117 E 5e-26 ] [ range 1 .. 108 ]
+sequence
+-----------------------------------------------YYLNH-------GIWPENNTSAG
+------VASPPSDIKGKYVKEVEVKN-G-------VVTATMLSSGVNNEIKGKKLSLWAKR-ENGSVKWF
+CNNKIDTK-----------------HLPSTCRDKAS---*
+>P1;gi|466425|gb|AAA21319.1| pilin [ score 116 E 8e-26 ] [ range 1 .. 111 ]
+sequence
+--------------------------------------------VTEYYLNH-------GKWPADNTVAG
+------EASPPTDIKGKYVKEVEVKN-G-------VVTAKMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CNNGINTK-----------------HLPSTCRD------*
+>P1;gi|15677975|ref|NP_273086.1| pilS cassette [Neisseria meningitid... [ score 116 E 9e-26 ] [ range 1 .. 126 ]
+sequence
+--------------------------------EAILLAEGQKSAVTEYYLNH-------GEWPGNN-SSA
+------GVATSANIKGKYVEKVEVKN-G-------VVTATMLSSGVNKEIQGKKLSLWAKRQD-GSVKWF
+NGKQIDTK-----------------HLPSTASTRKST--*
+>P1;gi|15793285|ref|NP_283107.1| truncated pilin [Neisseria meningit... [ score 116 E 9e-26 ] [ range 1 .. 122 ]
+sequence
+----------------------------------MLLAEGQKSAVTEYYLNH-------GEWPSNN-TSA
+------GVATSSKIKGKYVKEVKVAN-G-------VITATMLSTGVNKEIQGKKLSLWAKRQ-AGSVKWF
+CTDKIDTK-----------------HLPSTASTRKST--*
+>P1;gi|21244529|ref|NP_644111.1| fimbrial protein [Xanthomonas axono... [ score 116 E 1e-25 ] [ range 62 .. 168 ]
+sequence
+--------------------------SRAKVAEAVGELAALKPQITEFLASE-------GRCPANDDT--
+------GFKPPEQYASERLSSVRIGR-FEGSE--CGIEAVLHAPKSAR-IDGKAVWLEL-DADAGS--WR
+CSSEIDDT-----------------QLPPDCR-------*
+>P1;gi|150303|gb|AAA25474.1| gonococcal pilin protein [ score 116 E 1e-25 ] [ range 1 .. 102 ]
+sequence
+-----------------------------------------------YYLNH-------GEWPANNG-DA
+------GVASPGEIKGKYVKEVKVEN-G-------VVTATMKSDGVNKEIQGKKLSLWAKR-ENGSVKWF
+CNDGIDTK-----------------HLPSTCRD------*
+>P1;gi|466403|gb|AAA21309.1| pilin [ score 115 E 2e-25 ] [ range 1 .. 111 ]
+sequence
+--------------------------------------------VTEYYLNH-------GIWPKDN-TSA
+------GVASASTIKGKYVQKVEV--------AKGVVTAQMASTGVNKEIQDKKLSLWAKRQD-GSVKWF
+CNNAIDTK-----------------HLPSTCRDESSAT-*
+>P1;gi|466411|gb|AAA21313.1| pilin [ score 115 E 2e-25 ] [ range 1 .. 114 ]
+sequence
+--------------------------------------------VTGYYLNH-------GIWPADNGAAG
+------VASPATDIKGKYVKEVKVEN-G-------VVTAQMASSNVNKEIKDKKLSLWAKRQD-GSVKWF
+CANAIETK-----------------HLPSTCRDESSAT-*
+>P1;gi|14193664|gb|AAK56077.1| class II pilin [Neisseria meningitidis] [ score 114 E 3e-25 ] [ range 26 .. 136 ]
+sequence
+--------------------------ARAQMSEALTLAEGQKSAVVEYYSDN-------GTFPANN-TSA
+------GIAASSTITGKYVSSVAVTA-EASGNASAKITAKMKKNGVNKDISEKTLVLV-GKQNSGSFSWT
+CQKGDGTK--------------------NSCR-------*
+>P1;gi|466415|gb|AAA21315.1| pilin [ score 114 E 3e-25 ] [ range 1 .. 111 ]
+sequence
+--------------------------------------------VTEYYLNN-------GEWPADNTSAG
+------VASPASDIKGKYVKKVEVKN-G-------VVTAKMPSTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CNNGINTK-----------------HLPSTCRD------*
+>P1;gi|224492|prf||1106226N pillin [ score 114 E 4e-25 ] [ range 1 .. 108 ]
+sequence
+-----------------------------------------------YYLNN-------GEWPENNASAG
+------VASPPTDIKGKYVKEVEVKN-G-------VVTATMKSDGVNKEIKNKKLSLWAKR-ENGSVKWF
+CSNGINTK-----------------HLPSTCRDTSS---*
+>P1;gi|1381725|gb|AAB02768.1| pilin [Neisseria gonorrhoeae] [ score 114 E 4e-25 ] [ range 1 .. 115 ]
+sequence
+-----------------------------------------KSAVAGYYLNH-------GEWPENN-TSA
+------GVASSDKIKGKYVQKVEV--------AKGVVTAQMASTGVNKEIQGKKLSLWAKRQD-GSVKWF
+CANAIETK-----------------HLPSTCRDESSAT-*
+>P1;gi|150327|gb|AAA25488.1| pilin [ score 114 E 5e-25 ] [ range 1 .. 113 ]
+sequence
+-----------------------------------------KSAVTEYYLNN-------GTWPENNASAG
+------VASPADKIKGKYVQKVEV--------AKGVVTAEMASTGVNKEIKRKKLCLWA-RRENGSVKWF
+CGKEIDTK-----------------HLPSTCRDKAS---*
+>P1;gi|150323|gb|AAA25484.1| gonococcal pilin protien [ score 113 E 9e-25 ] [ range 1 .. 112 ]
+sequence
+-----------------------------------------------YYLNN-------GIWPENNTSAG
+------VASSATDIKGKYVKEVKVEN-G-------VVTATMASSNVNKEIKDKRLSLWAKRQ-AGSVKWF
+CGQKIDTK-----------------HLPSTCRDEPTAT-*
+>P1;gi|224489|prf||1106226K pillin [ score 113 E 9e-25 ] [ range 1 .. 108 ]
+sequence
+-----------------------------------------------YYLNN-------GEWPENNASAG
+------VASSPTDIKGKYVKQVEVKN-G-------VVTATMKSDGVNKEIKNKKLSLWAKR-ENGSVKWF
+CSNGINTK-----------------HLPSTCRDTSS---*
+>P1;gi|224491|prf||1106226M pillin [ score 112 E 1e-24 ] [ range 1 .. 104 ]
+sequence
+-----------------------------------------------YYLNN-------GEWPKDNASAG
+------VASSPTDIKGKYVKEVEVKN-G-------VVTATMKSDGVNKEIKNKKLSLWAKR-ENGSVKWF
+CDKEIETK-----------------HLPSTCRD------*
+>P1;gi|150293|gb|AAA25469.1| pilin [ score 112 E 2e-24 ] [ range 1 .. 113 ]
+sequence
+-----------------------------------------KSAVTEYYLNN-------GTWPENNASAG
+------VASPADKIKGKYVQKVEV--------AKGVVTAEMASTGVNKEIKRKKLCLW-GKRENGSVKWF
+CTTKIDTK-----------------HLPSTCRDKAS---*
+>P1;gi|150309|gb|AAA25477.1| gonococcal pilin protien [ score 111 E 3e-24 ] [ range 1 .. 106 ]
+sequence
+-----------------------------------------------YYLNH-------GEWPANNG-DA
+------GVASPGEIKGKYVKEVKVEN-G-------VVTATMKSDGVNKEIQGKKLSLWAKR-ENGSVKWF
+CDTGIDTK-----------------HLPSTCRDKAS---*
+>P1;gi|150295|gb|AAA25470.1| pilin [ score 111 E 5e-24 ] [ range 1 .. 114 ]
+sequence
+-----------------------------------------KSAVAGYCPNN-------GTWPENNASAG
+------VASPPNKIKGKYVQKVTVKK-G-------VVTAEMASTGLNKEIKRKKLCLWAKR-ENGSVKWF
+CTTKIDTK-----------------HLPSTCRDESSA--*
+>P1;gi|224488|prf||1106226J pillin [ score 110 E 6e-24 ] [ range 1 .. 105 ]
+sequence
+-----------------------------------------------YYLNH-------GEWPENN-TSA
+------GVASSDKIKGKYVKQVEVKN-G-------VVTATMNSSGVNKEIQGKRLSLWAKRED-GSVKWF
+CSNGINTK-----------------HLPSTCRDTSS---*
+>P1;gi|95394|pir||S19120 pilin (pilS5 locus copy 1) - Neisseria gono... [ score 110 E 7e-24 ] [ range 2 .. 113 ]
+sequence
+-----------------------------------------KSAVTEYYLNH-------GEWPKDND-SA
+------GVASASKIIGKYVKQVEVKN-G-------VVTAQMKSDGVNKEIKNKKLSLWAKR-ENGSVKWF
+CNDKIETK-----------------HLPSTCRD------*
+>P1;gi|21232529|ref|NP_638446.1| pilin [Xanthomonas campestris pv. c... [ score 110 E 8e-24 ] [ range 35 .. 146 ]
+sequence
+--------------------------ARSQVSEGLSLASGAKTAVAETYANT-------GAFPA-TNAAA
+------GLEAAANIKGKYVTSVTVG-------AGGIITAAFNT--ANAKLSGKNLVLTPTD-NNGSISWG
+CTNTIDQK-----------------YLPTSCRTAAAP--*
+>P1;gi|1381714|gb|AAB02759.1| pilin [Neisseria gonorrhoeae] [ score 109 E 9e-24 ] [ range 1 .. 110 ]
+sequence
+--------------------------------------------VAGYCLNH-------GEWPEDN-TSA
+------GVASPTDIKGKYVKSVTV--------AKGVVTAEMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGNAIETK-----------------HLPSTCRDESSA--*
+>P1;gi|95397|pir||S19123 hypothetical protein 1 (pilE1 3' region) - ... [ score 109 E 1e-23 ] [ range 1 .. 115 ]
+sequence
+------------------------------------------SAVTEYYPNN-------GKWPADNGA-A
+------GVASSSSIKGKYVKEVKVEN-G-------VVTATMNSSNVNKEIKDKRLSLW-GRRENGSVKWF
+CDGKIDTK-----------------HLPSTCRDTSSA--*
+>P1;gi|150325|gb|AAA25485.1| gonococcal pilin protien [ score 109 E 2e-23 ] [ range 1 .. 111 ]
+sequence
+-----------------------------------------------YYLNH-------GIWPKDN-TSA
+------GVASSSSIKGKYVKEVKVEN-G-------VVTATMNSSNVNKEIQGKRLSLWAKR-ENGSVKWF
+CNDGIETK-----------------HLPSTCRDEPNA--*
+>P1;gi|150313|gb|AAA25479.1| gonococcal pilin protien [ score 107 E 3e-23 ] [ range 1 .. 106 ]
+sequence
+-----------------------------------------------YYLNH-------GIWPKDN-TSA
+------GVASSSSIKGKYVKEVKVEN-G-------VVTATMNSSNVNKEIQGKRLSLWAKR-ENGSVKWF
+CDTGIDTK-----------------HLPSTCRDKAS---*
+>P1;gi|150317|gb|AAA25481.1| gonococcal pilin protien [ score 107 E 4e-23 ] [ range 1 .. 110 ]
+sequence
+-----------------------------------------------YYLNH-------GIWPKDN-TSA
+------GVASSSSIKGKYVKEVKVEN-G-------VVTATMNSSNVNKEIQDKRLSLWAKR-ENGSVKWF
+CNNGIETK-----------------HLPSTCRDEPNA--*
+>P1;gi|466413|gb|AAA21314.1| pilin [ score 107 E 5e-23 ] [ range 1 .. 106 ]
+sequence
+--------------------------------------------VTGYYLNN-------GKWPADNGA-A
+------GVASSDKIKGKYVQKVEV--------AKGVVTAQMASTGVNKEIQDKKLSLWAKRQD-GSVKWF
+CNNAIDTK-----------------HLPSTCRD------*
+>P1;gi|15677979|ref|NP_273090.1| pilS cassette [Neisseria meningitid... [ score 106 E 8e-23 ] [ range 3 .. 105 ]
+sequence
+------------------------------------------------------------------NDAA
+------GVASSSDIKGKYVEKVEVKN-G-------VVTATMLSSGVNKEIKGKKLSLWAKRQ-NGSVKWF
+CDDKINTK-----------------HLPSTCRDDSST--*
+>P1;gi|120391|sp|P27906|FMAX_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 106 E 9e-23 ] [ range 36 .. 160 ]
+sequence
+--------------------------ARSQAAEGLTLADGLKIRIADHLEN--------GSCTEDANAGA
+------GEKGNED-KGKYALAVIEGD-YAQNANGCKVVITYGQGTAGSKISKDTKVLELEQLVNGSYTQG
+DATTLDAK-----------------FIPNAVKKS-----*
+>P1;gi|1381707|gb|AAB02754.1| pilin [Neisseria gonorrhoeae] [ score 106 E 9e-23 ] [ range 1 .. 117 ]
+sequence
+-----------------------------------------KSAVAGYCPNH-------GTWPKDNGDAG
+------VASPADKIKGKYVQKVEV--------AKGVVTAEMKPSGVNKEIKGKKLSLWAKRED-GSVKWF
+CANAIETK-----------------HLPSTCRDESSAT-*
+>P1;gi|120387|sp|P11933|FMAG_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 105 E 1e-22 ] [ range 36 .. 161 ]
+sequence
+--------------------------ARTQVSEGVSLADGLKIRIADNL-QD-------GKCTSEGDPAS
+------GEVGNTDM-GKY-ALATIEG-TPDANNGCKVYGKGTAGDNISPLI-KGQMLVLNQLVNGSYDKD
+SSSTVKPK-----------------FLPKALKEAT----*
+>P1;gi|1381713|gb|AAB02758.1| pilin [Neisseria gonorrhoeae] [ score 106 E 1e-22 ] [ range 1 .. 116 ]
+sequence
+--------------------------------------------VAGYYLNH-------GEWPENND-KA
+------GVASASDIKGKYVKSVTV--------AKGVVTAEMASTGVNKEIQGKKLSLWAKR-ENGSVKWF
+CGTKIDTK-----------------HLPSTCRDESS---*
+>P1;gi|1381704|gb|AAB02751.1| pilin [Neisseria gonorrhoeae] [ score 106 E 1e-22 ] [ range 1 .. 116 ]
+sequence
+--------------------------------------------VAGYCLNH-------GEWPEDN-TSA
+------GVASPTDIKGKYVKSVTV--------AKGVVTAEMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CTDKINTK-----------------HLPSTCRDKSSA--*
+>P1;gi|150331|gb|AAA25490.1| pilin [ score 105 E 2e-22 ] [ range 1 .. 117 ]
+sequence
+-----------------------------------------KSAVTEYYLNN-------GTWPENNASAG
+------VASSAADIKGKYVESVTV--------AKGVVTAQMASSNVNNEIKRKKLCLWGKRQD-GSVKWF
+CKDKIETK-----------------HLPSTCRDKAS---*
+>P1;gi|9257119|pdb|1DZO|A Chain A, Truncated Pak Pilin From Pseudomo... [ score 104 E 3e-22 ] [ range 1 .. 121 ]
+sequence
+-------------------ALEGTEFARSEGASALASVNPLKTTVEEALSRG-------WSVKSGTGTED
+------ATKKEVPLG--VAADANKLG-TIAADGTADITLTFTMGGAGPKNKGKIITLTRTAADG---LWK
+CTSDQDEQ-----------------FIPKGC--------*
+>P1;gi|1381706|gb|AAB02753.1| pilin [Neisseria gonorrhoeae] [ score 104 E 4e-22 ] [ range 1 .. 113 ]
+sequence
+-----------------------------------------KSAVTGYCPNH-------GKWPKDN-TSA
+------GVASPAEIKGKYVKSVTV--------AKGVVTAQMNPSGVNNEIKDKKLSLWAKR-ENGSVKWF
+CGTAIETK-----------------HLPSTCRDESSA--*
+>P1;gi|479616|pir||S34941 fimbrial protein SC - Neisseria meningitid... [ score 102 E 2e-21 ] [ range 1 .. 108 ]
+sequence
+---------------------------------------------------H-------GEWPGDN-SSA
+------GVATSADIKGKYVQSVTVAN-G-------VITAQMASSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CTANIDTK-----------------HLPSTCRDDSSAS-*
+>P1;gi|1381719|gb|AAB02763.1| pilin [Neisseria gonorrhoeae] [ score 102 E 2e-21 ] [ range 1 .. 113 ]
+sequence
+------------------------------------------------YPNN-------GKWPANNGA-A
+------GVASASDIKGKYVESVTVEK-G-------VVTAKMLSSGVNKEIQGKKLSLWAKR-EAGSVKWF
+CKGKIDTK-----------------HLPSTCRDKSTA--*
+>P1;gi|150307|gb|AAA25476.1| gonococcal pilin protein [ score 101 E 2e-21 ] [ range 1 .. 109 ]
+sequence
+-----------------------------------------------YYLNH-------GIWPKDN-TSA
+------GVASSSSIKGKYVKEVKVEN-G-------VVTATMNSSNVNKEIQGKRLSLWAKR-ENGSVKWF
+CDGKIETK-----------------HLPSTCRD------*
+>P1;gi|7443330|pir||S43637 class II pilin - Neisseria meningitidis [ score 101 E 4e-21 ] [ range 5 .. 94 ]
+sequence
+------------------------------------------------------------------NDAA
+------GVASASDIKGKYVEKVEVKN-G-------VVTAEMKSSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CTDKIDTK-----------------HLPSTCRDAASA--*
+>P1;gi|224487|prf||1106226H pillin [ score 100 E 5e-21 ] [ range 1 .. 112 ]
+sequence
+-----------------------------------------------YYLNH-------GEWPKDN-TSA
+------GVASSDKIKGKYVQKVEV-------AKKGVVTATMASSNVNKEIKDKKLSLWAKRED-GSVKWF
+CGQKIDTK-----------------HLPSTCRD------*
+>P1;gi|95395|pir||S19121 pilin (pilS6 locus copy 1) - Neisseria gono... [ score 98 E 4e-20 ] [ range 1 .. 102 ]
+sequence
+--------------------------------------------------NH-------GKWPEN-KPAG
+------VASPASDIKGKYVQSVTVAN-G-------VVTAQMKSDGVNKEIKNKKLSLWA-RREAGSVKWF
+CNDKIETK-----------------HLPSTCR-------*
+>P1;gi|479617|pir||S34942 fimbrial protein SB1 - Neisseria meningiti... [ score 95 E 3e-19 ] [ range 1 .. 108 ]
+sequence
+---------------------------------------------------H-------GTWPKNN-TSA
+------GVATSADIKGKYVQSVTVAN-G-------VITAQMASSNVNNEIKSKKLSLWAKRQ-NGSVKWF
+CDDKINTK-----------------HLPSTCRDDSSAS-*
+>P1;gi|479615|pir||S34940 fimbrial protein SB - Neisseria meningitid... [ score 94 E 4e-19 ] [ range 1 .. 108 ]
+sequence
+---------------------------------------------------H-------GEWPGDN-SSA
+------GVATSADIKGKYVQSVTVAN-G-------VITAQMASSNVNNEIKSKKLSLWAKRQ-NGSVKWF
+CDDKINTK-----------------HLPSTCRDDSSAS-*
+>P1;gi|15677980|ref|NP_273091.1| large pilS cassette [Neisseria meni... [ score 93 E 9e-19 ] [ range 107 .. 221 ] [ duplicate a ]
+sequence
+----------------------------------------------EYYPNH-------GEWPKNN-TSA
+------GVASSSTIKGKYVKEVTVAN-G-------VITATMLSSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CTDKINTK-----------------HLPSTAPTRKST--*
+>P1;gi|15677980|ref|NP_273091.1| large pilS cassette [Neisseria meni... [ score 93 E 9e-19 ] [ range 3 .. 100 ] [ duplicate b ]
+sequence
+------------------------------------------------------------------NDAA
+------GVASSSKIKGKYVKEVTVAN-G-------VVTATMLSSGVNKEIQGKKLSLWAKRQ-NGSVKWF
+CNKKTNTK-----------------HLPSTCRDAASA--*
+>P1;gi|1381724|gb|AAB02767.1| pilin [Neisseria gonorrhoeae] [ score 93 E 1e-18 ] [ range 1 .. 108 ]
+sequence
+-----------------------------------------------------------GEWPKDNG-SA
+------GVASASTIKGKYVQKVEVTN-G-------VVTAQMASTGVNKEIKGKKLSLWARRQD-GSVKWF
+CDGKIDTK-----------------HLPSTCRDKSTA--*
+>P1;gi|120384|sp|P17825|FMAE_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 93 E 2e-18 ] [ range 36 .. 156 ]
+sequence
+--------------------------ARSQAAEGLTLADGLKIRIADHLEN--------GSCTEDANAGA
+------GEKGNQDIGGTYAQDATNLK-PEDKNG-CTVTITYGKGTAGAKISKDTKVLELEQLVNGSYTQG
+GATTLDAK-----------------FIPNA---------*
+>P1;gi|2773054|gb|AAB96661.1| fimbrial subunit protein precursor Fim... [ score 90 E 9e-18 ] [ range 36 .. 153 ]
+sequence
+--------------------------ARSQAAEGLTLADGLKIRIADHLEN--------GSCTEDAAAAS
+------GEKGNEDI-GKYGKAVISGT-YPDAENGCIVTITYGEGTVSKLIKGKDLILS--QLVNGSYTQ-
+SGGTVDPK-----------------FVPNA---------*
+>P1;gi|120385|sp|P17826|FMAF_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 89 E 3e-17 ] [ range 36 .. 156 ]
+sequence
+--------------------------ARSQAAEGLTLADGLKIRIADHLEN--------GSCMETANAGA
+------GEKGNQDI-GKYGLAEISGD-YDESENGCKVTITYGQGTAGEKIKGKTLILL--QLVNGSYTQG
+-GGDIDPK-----------------FVPNAVKK------*
+>P1;gi|1381709|gb|AAB02755.1| pilin [ score 86 E 1e-16 ] [ range 1 .. 98 ]
+sequence
+---------------------------------------------------------------------A
+------GVASSAEIKGKYVKSVTVAN-G-------VVTAEMASSGVNKEIKGKRLSLWARRQD-GSVKWF
+CGNAIETK-----------------HLPSTCRDEPTAT-*
+>P1;gi|120378|sp|P27689|FMA3_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 85 E 2e-16 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGDADPQS
+------GVVGNED-KGKYGLAKIEGD-YDASKNGCKVEITYGQGTAGDKISGKKLVLD--QLVNGSFVQG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|15793288|ref|NP_283110.1| truncated pilin [Neisseria meningit... [ score 85 E 4e-16 ] [ range 1 .. 98 ]
+sequence
+-------------------------------------------------------------------AAG
+------VASTATDIKGKYVEKVEV--------AKGVITAEMKSSGVNKEIQGKKLSLWAKRQ-AGSVKWF
+CAKKIDTK-----------------HLPSTCRDDSS---*
+>P1;gi|120381|sp|P02975|FMAA_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 84 E 5e-16 ] [ range 36 .. 158 ]
+sequence
+--------------------------ARSQAAEGLTLADGLKVRISDHL-ES-------GECKGDANPAS
+------G-SLGNDDKGKYALATIDGD-TADEKNGCKVVITYGQGTAGEKISGKKLVLD--QFVNGSYKYN
+GETDLELK-----------------FIPNAVKN------*
+>P1;gi|97357|pir||D41491 pilin precursor - Dichelobacter nodosus (st... [ score 84 E 5e-16 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKIRIAENL-QD-------GECKGPDADPA
+------SGVVGNQDKGKYALAEIKGD-YDESKNGCKVEIAYGQGTASKLITGKKLVLD--QLVNGSFVQG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|16118463|gb|AAL14432.1| fimbrial subunit [Dichelobacter nodosus] [ score 84 E 6e-16 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGDANQAS
+------GIVGNED-KGKYGLAKIDGE-YDASKNGCKVEITYGQGPAGDKISGKKLVLD--QLVNGSFIQG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|15054107|gb|AAG37437.1| fimbrial subunit [Dichelobacter nodosus] [ score 84 E 7e-16 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKSRIAENL-QD-------GECKGDADPQS
+------GVVGNED-KGKYALAKIDGT-YDQSKNGCKVEITYGQGTAEKLITGKKLVLD--QLVNGSFVQG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|97353|pir||B41491 pilin precursor - Dichelobacter nodosus (st... [ score 83 E 9e-16 ] [ range 36 .. 159 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGDADPAS
+------GVVGNED-KGKYALAKIDGT-YDQSKNGCKVEITYGQGTASKLITGKKLVLD--QLVNGSFIAG
+DDTDLADK-----------------FIPNAVKKA-----*
+>P1;gi|419603|pir||B60891 pilin - Dichelobacter nodosus (strain 234,... [ score 83 E 1e-15 ] [ range 29 .. 148 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QN-------GECKGDANTAS
+------GVVGNED-KGKYALAKIDGE-YDASKNGCKVEITYGQGTAGDKISGKKLVLD--QLVNGSFIAG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|5410485|gb|AAD43080.1| fimbrial subunit [Dichelobacter nodosu... [ score 83 E 1e-15 ] [ range 9 .. 128 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGPDANAA
+------SGVVGNEDKGKYGLAKIDGE-YDESKNGCKVEITYGQGTAGDKISGKKLVLD--QLVNGSFVQG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|16118461|gb|AAL14431.1| fimbrial subunit [Dichelobacter nodosus] [ score 83 E 1e-15 ] [ range 36 .. 158 ]
+sequence
+--------------------------ARSQAAEGLTLADGLKVRISDHL-KS-------GECKEDANAAA
+------G-SLGNDDKGKYALASIDGD-YADDKNGCKVVINYGQGTAGEKISGKKLTLD--QFVNGSYKYN
+GETDLELK-----------------FIPNAVKN------*
+>P1;gi|16118459|gb|AAL14430.1| fimbrial subunit [Dichelobacter nodosus] [ score 83 E 1e-15 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGDADPQS
+------GVVGNEN-KGKYALAKIDGE-YDASKNGCKVEITYGQGTAGDKISGKKLVLD--QLVNGSFIQG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|4929278|gb|AAD33929.1| fimbrial subunit [Dichelobacter nodosu... [ score 83 E 2e-15 ] [ range 9 .. 127 ]
+sequence
+--------------------------ARSQAAEGLTLADGLKIRIADHLEN--------GSCTE---AGA
+------GEKGNQDI-GKYGLAVISGT-YDESENGCVVTITYGSGTVSKLINGKTLIL--HQLVNGSYTQG
+-GGTIDAK-----------------FVPNAVKKA-----*
+>P1;gi|120375|sp|P27688|FMA0_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 81 E 4e-15 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGDADPQS
+------GVVGNEDI-GKYALAKIEGD-YAGAPNGCKVEITYGQGTASKLITGKKLVLD--QLVNGSFIAG
+DGTDLADK-----------------FMPNA---------*
+>P1;gi|120389|sp|P17827|FMAI_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 81 E 6e-15 ] [ range 36 .. 160 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKIRIAENL-QD-------GACKGDADPST
+------GVVGNEDV-GKFGKAVITDN-APGDENGCQVLITYGEGTVSSLIKGKKLQL--NQLVNGSYTQG
+DGTDLPAK-----------------FIPNAVKKS-----*
+>P1;gi|120380|sp|P27691|FMA7_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 81 E 6e-15 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGPDADPA
+------SGVVGNQDKGKYALAEIKGD-YDASKNGCQVEITYGQGTASKLITGKKLVLE--QLVNGSFIAG
+AGTDLADK-----------------FIPNA---------*
+>P1;gi|43415575|gb|EAD67115.1| unknown [environmental sequence] [ score 81 E 7e-15 ] [ range 37 .. 161 ]
+sequence
+---------------------------RAQVSEGLSFAAGAKVPVVDAYTSG-------GVAPANRVAAG
+------MIPMATDTRGSYVSSVEIVN-GR-------IDLTFGGSLAHQDIIGAALSLTPYETTGNTIVWR
+CGNTVNER-----------------YLPANCR-------*
+>P1;gi|120376|sp|P17823|FMA1_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 80 E 1e-14 ] [ range 36 .. 158 ]
+sequence
+--------------------------ARTQVSEGVSLADGLKIRIADNL-QD-------GDCTTKGDAST
+------GEVGNED-KGKY-ALATIEG-TPAANNGCLVYGKGTSGGSVSALINNT-ELVLAQLANGSYVKE
+-SATVKDK-----------------FLPKALKE------*
+>P1;gi|5410475|gb|AAD43075.1| fimbrial subunit [Dichelobacter nodosus] [ score 79 E 1e-14 ] [ range 9 .. 131 ]
+sequence
+--------------------------ARSQAAEGLTLADGLKVRISDHL-ES-------GECKEDANAAV
+------G-SLGNDDKGKYALASIDGD-YADDKNGCKVVINYGQGTAGEKISGKKLVLD--QFVNGSYKYN
+GETDLELK-----------------FIPNAVKN------*
+>P1;gi|16118457|gb|AAL14429.1| fimbrial subunit [Dichelobacter nodosus] [ score 79 E 1e-14 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGPDANQA
+------SGIVGNQDKGKYGLTKIDGE-YDASKNGCKAEITYGQGTAGDKISGKKLVLD--QLVNGSFIQG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|120377|sp|P17824|FMA2_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 79 E 2e-14 ] [ range 36 .. 158 ]
+sequence
+--------------------------ARTQVSEGVSLADGLKIRIADNL-QD-------GDCVTKGDSST
+------GEVGNED-KGKY-ALATILG-TPAQNNGCQVYGKGTSGGSVSALINNT-ELVLAQLANGSYKKE
+-SSTVKDK-----------------FLPKALKE------*
+>P1;gi|120379|sp|P27690|FMA6_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 79 E 2e-14 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGDADPAS
+------GVVGNKD-TGKY-ALAEIDG-TYDASNGCKVNITYGQGTAADKISGKKLVLD--QLVNGSFIQG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|7920704|gb|AAF70816.1| fimbrial subunit [Dichelobacter nodosus] [ score 79 E 3e-14 ] [ range 9 .. 133 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKIRIAENL-QD-------GACKGDADPST
+------GVVGNEDV-GKFGKAVITDN-APGDENGCQVLITYGEGTAGEKIKGKKLQL--NQLVNGSYTQG
+DGTDLPAK-----------------FIPNAVKKS-----*
+>P1;gi|5410483|gb|AAD43079.1| fimbrial subunit [Dichelobacter nodosu... [ score 78 E 3e-14 ] [ range 9 .. 128 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGPDANTA
+------SGVVGNEDKGKYGLAKIDGE-YDASKNGCKVEITYGQGTAGDKISGKKLVLD--QLVNGSFIAG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|15677977|ref|NP_273088.1| pilS cassette [Neisseria meningitid... [ score 78 E 4e-14 ] [ range 3 .. 62 ]
+sequence
+------------------------------------------------------------------NDAA
+------GVASSSTIKGKYVKEVEVKN-G-------VVTATMLSTGVNNEIKGKKLSLWAKRQ-AGSVKWF
+C--------------------------------------*
+>P1;gi|97355|pir||C41491 pilin precursor - Dichelobacter nodosus (st... [ score 78 E 4e-14 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGDADPQS
+------GVVGNQD-KGKYALAKIDGT-YDQSKNGCKVEITYGQGTASKLITGKKLVLE--QLVNGSFIAG
+AGTDLADK-----------------FIPNA---------*
+>P1;gi|5020119|gb|AAD38031.1| fimbrial subunit [Dichelobacter nodosu... [ score 74 E 4e-13 ] [ range 9 .. 128 ]
+sequence
+--------------------------ARSQAAEGVSLADGLKVRIAENL-QD-------GECKGDADPQS
+------GVVGNKD-TGKYALAEIDGT-YDASKNGCKVNITYGQGTAADKISGKKLVLD--QLVNGSFIQG
+DGTDLADK-----------------FIPNA---------*
+>P1;gi|417002|sp|P09829|FMM_MORNO FIMBRIAL PROTEIN PRECURSOR (PILIN)... [ score 71 E 4e-12 ] [ range 35 .. 150 ]
+sequence
+--------------------------ARAQVSEAFTLADGLKTSISTN-RQN-------GRCFADDTAAD
+------GV---DIITGKYGKATILEE-NPNTADGCGIYYEFNTTGVSDKLIGKTIALKADEKAGKLVLET
+VNSNVENK-----------------YLPSA---------*
+>P1;gi|15793289|ref|NP_283111.1| truncated pilin [Neisseria meningit... [ score 70 E 1e-11 ] [ range 1 .. 57 ]
+sequence
+---------------------------------------------------------------------A
+------GVATSSKIKGKYVKEVKVAN-G-------VITATMLSSGVNNEIKGKKLSPWAKRQ-AGSVKWF
+C--------------------------------------*
+>P1;gi|23029074|ref|ZP_00067440.1| COG4969: Tfp pilus assembly prote... [ score 69 E 2e-11 ] [ range 62 .. 164 ]
+sequence
+---------------------------RAKVSEGIGLAAAAKSAVSEYRISL-------AAYPTNNTLAG
+------L---PTQIASKYVSSVNVG------AGGIITVGYKAAAGVTA---ASTIIFRPTFA-TGTVDWT
+CTGTVQDS-----------------YRPSNCR-------*
+>P1;gi|15793290|ref|NP_283112.1| truncated pilin [Neisseria meningit... [ score 69 E 3e-11 ] [ range 1 .. 67 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------MASSNVNNEIKDKKLSLWAKRQD-GSVKWF
+CGNEIDTK-----------------HLPSTCRDAASA--*
+>P1;gi|44478933|gb|EAJ55710.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 35 .. 162 ]
+sequence
+--------------------------ARAQVTEGVNLTGGLKTCIAEAISDK-------GKAPNGSAYSG
+------GDAKNSKENGKFVNKIECDK-CGEEGTPIKIIAHFKSDGVASDIKSKKFAIGTTDGVN----WA
+CDTDLENR-----------------HLPGSCK-------*
+>P1;gi|44283560|gb|EAI18964.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 36 .. 180 ]
+sequence
+--------------------------ARTQVAEALSLAPVVKTAYEEYYSVH-------GALPPENKPSG
+------GRYSDQEMHSQYVRHVRART-REFWTGAEIMAANFSPGGISSKIAGKKFWL-LAIVDTGSLTWE
+CSQEILEE-----------------YLPSSC--------*
+>P1;gi|545132|gb|AAC60462.1| pilin [Pseudomonas aeruginosa] [ score 65 E 3e-10 ] [ range 35 .. 148 ]
+sequence
+--------------------------ARSEGASALATINPLKTTVEESLSRG-------QASTADTTYVG
+------VDATANKLG-------TIAV-TIGNNGAGTVTFTFAAGNSSPKNSGAIITLTRT--DAGS--WA
+CTSTQDEM-----------------FIPKGCK-------*
+>P1;gi|15677981|ref|NP_273092.1| pilS cassette [Neisseria meningitid... [ score 61 E 4e-09 ] [ range 1 .. 72 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------MASSGVNKEIKGRKLSLWAKRQ-AGSVKWF
+CGKKIDTK-----------------HLPSTCRDAASA--*
+>P1;gi|1562565|gb|AAB48592.1| KdpA [Kingella denitrificans] >gi|1562... [ score 60 E 8e-09 ] [ range 36 .. 144 ]
+sequence
+--------------------------ARAQATEGFKATSGLQTDIGVYAADK-------GNLTGVDSDSA
+------LTSQASALSGKYFSS----G-AATIGANGVITVSFN-NGANSG-QTMTLTPSLNTANGQITKWT
+CAGSIAAK-----------------RLPSSCR-------*
+>P1;gi|21464534|gb|AAM52059.1| type IV pilin structural subunit [Pse... [ score 59 E 2e-08 ] [ range 36 .. 154 ]
+sequence
+---------------------------RGQVTEAVSLGGGLKSPLAEYGADK-------NAWPAPTATPG
+------AGQLNATLVGKYSSVDSTIA-SGYPNGQ--ITVTMTQGKA----SGKKLTFS--TQDGGS-SWA
+CGNTIDAK-----------------YLPNACK-------*
+>P1;gi|43460937|gb|EAD85136.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 38 .. 161 ]
+sequence
+--------------------------ARTQVAEAFTLLGPVKQALTLYYQEN-------GAFPAGNHAAL
+------GIPSHGDYGASYVRQIRVLG-GG-NAGGIQVRFDTEANGVSPEIERRRFNMMPALSSGVITGWT
+CARRIDEA-----------------YI-KSC--------*
+>P1;gi|2618827|gb|AAC45886.1| ComP [Acinetobacter sp. BD413] [ score 59 E 2e-08 ] [ range 36 .. 146 ]
+sequence
+---------------------------RARVSEGLTAASSMKTTVSENILNA-------GALVAGTPSTA
+------GSSGVQEISASNATTNVATA-TCGASSAGQIIVTMDTTKA----KGANITLTPTYA-SGAVTWK
+CTTTSDKK-----------------YVPSECR-------*
+>P1;gi|23028295|ref|ZP_00066700.1| COG4969: Tfp pilus assembly prote... [ score 59 E 2e-08 ] [ range 37 .. 159 ]
+sequence
+---------------------------RAKIVDGLALVQELKGDVKEYHRYH-------NVFPA-TNAQA
+------GIPAANKLLSNFVTGVELEG-GAFH-----VTFGFKAG---ASLDGKVLTLRPA-VVMGSYTWV
+CKTDIDKS-----------------LLPSSCR-------*
+>P1;gi|34499664|ref|NP_903879.1| type IV pilin [Chromobacterium viol... [ score 58 E 5e-08 ] [ range 39 .. 154 ]
+sequence
+---------------------------RARVSEGLALADAAKTAVTEYYATN-------NAWASGTNTTY
+------GLAAS--ITGNSVSSINVL-------ANGVVQIAYNSTVSN----GALVDLVPT-VSAGSVQWY
+CTSQLSAN-----------------WVPSTCR-------*
+>P1;gi|625696|pir||A61472 hypothetical pilin protein, copy 1 - Neiss... [ score 56 E 2e-07 ] [ range 3 .. 69 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------MASSGVNNEIKDKKLSLWAKRQD-GSVKWF
+CDDKINTK-----------------HLPSTCRD------*
+>P1;gi|151463|gb|AAA25945.1| pilin [ score 55 E 4e-07 ] [ range 40 .. 152 ]
+sequence
+--------------------------ARSEGASALATINPLKTTVEESLSRG-------IAGSKGTTAST
+------ADTTYVGIDEKANKLGTVAV-TIKDTGDGTVKFTFATGQSSPKNAGKEITLNRTAEG----VWT
+CTSTQEEM-----------------FIPKGC--------*
+>P1;gi|120452|sp|P17416|FMZD_BACNO POSSIBLE MINOR FIMBRIAL PROTEIN P... [ score 54 E 4e-07 ] [ range 36 .. 158 ]
+sequence
+---------------------------RSQVTRVLMEAGELRLAV-EQCLND-------GTTTVGNGADP
+------RASGSNIISG---ASQNPEI-VIAANTGVVLTATFNNS-AASIIHGKK--LIWQRQKSGS--WY
+CHSNAAEK-----------------FLPSGCKDAS----*
+>P1;gi|14573303|gb|AAK68038.1| PilA [Pseudomonas aeruginosa] [ score 53 E 1e-06 ] [ range 35 .. 147 ]
+sequence
+--------------------------ARSEGASALATINPLKTTVEESLSRG-------SKIKIGTTAST
+------ATETYVGVEPDANKLGVIAV-AIEDSGAGDITFTFQSGTSSPKNATKVITLNRT-ADG---VWA
+CKSTQDPM-----------------FTPKGC--------*
+>P1;gi|44157011|gb|EAH43485.1| unknown [environmental sequence] [ score 53 E 1e-06 ] [ range 36 .. 88 ]
+sequence
+--------------------------ARSQVAEALNLIGPVKVAAAEYYSTT-------GNLPTSSQLET
+------SGVIPSAITGKYVSAV------------------------------------------------
+---------------------------------------*
+>P1;gi|3378199|gb|AAC28469.1| type IV pilin [Eikenella corrodens] [ score 52 E 2e-06 ] [ range 36 .. 148 ]
+sequence
+---------------------------RSQAVEGFKLTSGLRDDIASIVADT-------NAFPAPNGAIG
+------SIASSLD--GKYVQN---GG-VTVTADTGVITVLFDQG----VISGSNMQLIPMFNNANRIQWQ
+CGGTLNSR-----------------YLPSSCQ-------*
+>P1;gi|120453|sp|P17417|FMZH_BACNO POSSIBLE MINOR FIMBRIAL PROTEIN P... [ score 52 E 2e-06 ] [ range 36 .. 158 ]
+sequence
+---------------------------RSQVTRVLMEAGELRLAV-EQCLND-------GTTKIGNGQDP
+------RASGSNIISG---ASQNPEI-VIAANTGVVLTATFNNS-AASIIHGKK--LIWQRQKSGS--WY
+CHSNAAEK-----------------FLPSGCKDAS----*
+>P1;gi|120436|sp|P08015|FMP3_PSEAE FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 51 E 5e-06 ] [ range 35 .. 147 ]
+sequence
+--------------------------ARSEGASALATINPLKTTVEESLSRG-------IAGSKGTTAST
+------ADTTYVGIDEKANKLGTVAV-TIKDTGDGTIKFNFATGQSSPKNAGREITLNRTAEG----VWT
+CTSTQEEM-----------------FIPKGC--------*
+>P1;gi|10567795|gb|AAG18586.1| pilin major subunit [Pseudomonas fluo... [ score 50 E 9e-06 ] [ range 35 .. 130 ]
+sequence
+--------------------------ARAKVTVGLAEASSLKVPVED-LLNK-------GTSP--TAANT
+------GVPASSNNCTMSVS-------GDATAGTATVTCAIK--EAPSSIVGKTITLSR----AGTGVWS
+CSSNVAEE-----------------FLP-----------*
+>P1;gi|14573309|gb|AAK68042.1| PilA [Pseudomonas aeruginosa] [ score 49 E 3e-05 ] [ range 35 .. 154 ]
+sequence
+--------------------------SRSQVSRVMAEAGSLKTAV-EACLQD-------GRTAVGTAADP
+------GATGSSLLTGASQTSQTLPT-NTGVTTQTTIIATFG-NGASAAISGQT--LTWTRDVNGG--WS
+CATTVDAK-----------------FRPNGCTD------*
+>P1;gi|44478932|gb|EAJ55709.1| unknown [environmental sequence] [ score 48 E 4e-05 ] [ range 35 .. 147 ]
+sequence
+--------------------------ARSQVTEAVKLTGGLKACISQGINEK-------GLAPSNCGHVG
+------PIDKRSRSEGKYVDMLECGI-SIDKNNPVVIIAKFKNSGVSSQVNGETLAI--GTMDG--YNWV
+CGFSPNAE-----------------F-------------*
+>P1;gi|44964|emb|CAA38688.1| pilE [Neisseria gonorrhoeae] [ score 47 E 9e-05 ] [ range 1 .. 39 ]
+sequence
+------------------------------------------SAVTEYYLNN-------GKWRRQG--AA
+------GVASSSSIKGKYVKEVKVEN--------------------------------------------
+---------------------------------------*
+>P1;gi|482455|pir||A46566 pilin precursor - Dichelobacter nodosus (s... [ score 46 E 1e-04 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQVSRVMSETGQMRTAIETCVLDD-------GEFTAGTESTA
+------AATGQTGITIKY---------PVAADDEGNIVATFGRNAAAAI---KPQTLTWSRSKEG--TWT
+CATTVEAK-----------------FQPTGCKD------*
+>P1;gi|1562568|gb|AAB48594.1| KdpD [Kingella denitrificans] [ score 45 E 4e-04 ] [ range 41 .. 156 ]
+sequence
+---------------------------RAQAMEAFTLSDGLRNEIAIWAAEY-------HSFPD----AA
+------AIANNGYIKGKY----VSSG-GVSVGSNGRILVTFANGN----LSGQTMVLTPTNMVNNEIKWK
+CGSDAQER-----------------YLAVSCR-------*
+>P1;gi|120383|sp|P13253|FMAD_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 44 E 5e-04 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQVSRVMSETGQMRTAIETCVLDG-------GECLLDGDFTA
+------GTESTAAATGQ--AGITIKY-PVAADDEGNIVATFGRNAAAAI---KPQTLTWSRSKEG--TWT
+CATTVEAK-----------------FQPTGCKD------*
+>P1;gi|97346|pir||S15267 fimA protein - Dichelobacter nodosus >gi|39... [ score 44 E 7e-04 ] [ range 36 .. 155 ]
+sequence
+--------------------------ARSQVSRVMSETGQMRTAIETCLLDG-------GWTTSNLLAAA
+------GGSTTNEDPGQGGLNITYAL-GSTAEN--KIEATFGQ-NAAATLHGKKLTWTR----SPEATWS
+CSTDVDEK-----------------FKPTGCK-------*
+>P1;gi|30249287|ref|NP_841357.1| Fimbrial protein pilin:Bacterial ge... [ score 44 E 7e-04 ] [ range 36 .. 136 ]
+sequence
+--------------------------AKSKVTAGLAEISAGKTAFEERV---------------NNGDTV
+------GTDP------------TVIG-LKTPTSNCTITIECTLTNAPSQVSGKKITLTRTDG-----TWS
+CATDADNK-----------------YAPKSC-PGVTPTP*
+>P1;gi|2073462|emb|CAA73472.1| pilE [Neisseria meningitidis] [ score 222 E 3e-57 ] [ range 8 .. 165 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNNGEWPED-----
+NDKAGVASAS--DIKGKYVKSVTVA--------NGVVTATMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVTRTNDDTVADAKDGKEIDTKHLPSTCRDNFDA--*
+>P1;gi|1381710|gb|AAB02756.1| pilin [ score 213 E 1e-54 ] [ range 8 .. 164 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTGYYLNNGEWPED-----
+NTSAGVASPT--DIKGKYVKSVTVA--------KGVVTAEMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVTRTGDNDDTVADANNGINTKHLPSTCRDKHDAK-*
+>P1;gi|95386|pir||S15642 pilin (variant NGF6F) - Neisseria gonorrhoe... [ score 209 E 1e-53 ] [ range 1 .. 157 ]
+sequence
+FTLIELMIVIAIVGILAAVAFP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPKD-----
+NASAGVASAS--DIKGKYVEKVEVK--------NGVVTAQMKPSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQPVTRTDDDTVTAANDGKEIDTKHLPSTCRDTS----*
+>P1;gi|2921605|gb|AAC38437.1| pilus subunit [Neisseria gonorrhoeae] [ score 209 E 2e-53 ] [ range 8 .. 165 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTGYYLNNGKWPAD-----
+NGAAGVASPT--DIKGKYVKEVKVE--------NGVVTAQMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVTRTGDNDDTVADANNAIDTKHLPSTCRDKHDAK-*
+>P1;gi|95407|pir||S22064 pilin pilE precursor - Neisseria gonorrhoea... [ score 207 E 6e-53 ] [ range 1 .. 158 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGIWPEN-----
+NGAAGVASPS--DIKGKYVQSVTVA--------NGVVTAQMKSDGVNKEIKNKKLSLWAKREN-GSVKWF
+CGQPVTRAAKDDDAVTADGNKIDTKHLPSTCRDNFDA--*
+>P1;gi|2791857|gb|AAB96966.1| pilin [Neisseria gonorrhoeae] [ score 207 E 6e-53 ] [ range 1 .. 150 ]
+sequence
+--------VIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGKWPEN-----
+NTSAGVSSPT--DIKGKYVKEVEVK--------NGVVTATMASSNVNNEIKGKKLSLWARREN-GSVKWF
+CGQPVTRTDDDTVADAKDGKEIDTKHLPSTCRDNKDAK-*
+>P1;gi|95405|pir||S22102 fimbrial protein MS11-C3/MS11-G2 precursor ... [ score 207 E 7e-53 ] [ range 8 .. 168 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNNGIWPEK-----
+NTSAGVSSAS--DIKGKYVKSVAVA--------NGVVTATMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVTRTGDDTVADAKDSKEIDTKHLPSTCRDKSDAK-*
+>P1;gi|95404|pir||S22104 fimbrial protein MS11-E3 precursor - Neisse... [ score 207 E 8e-53 ] [ range 8 .. 169 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGIWPEN-----
+NGAAGVASPS--DIKGKYVQSVTVA--------NGVVTAQMKSDGVNKEIKNKKLSLWARREA-GSVKWF
+CGQPVTRDNAGTDAVTADTTEIDTKHLPSTCRDNFDAK-*
+>P1;gi|15675966|ref|NP_273084.1| pilin PilE [Neisseria meningitidis ... [ score 207 E 9e-53 ] [ range 8 .. 169 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPGN-----
+NTSAGVATSS--EIKGKYVKSVEVK--------NGVVTAQMASSNVNNEIKGKKLSLWAKRQN-GSVKWF
+CGQPVTRDDDVTAAAAANGKKIDTKHLPSTCRDASDA--*
+>P1;gi|1360951|pir||S57418 fimbrial protein MS11-N556 precursor - Ne... [ score 207 E 9e-53 ] [ range 8 .. 167 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGIWPEN-----
+NGAAGVSSPT--DIKGKYVQSVTVA--------NGVVTAQMKSDGVNKEIKNKKLSLWARRQD-GSVKWF
+CGQPVTRVTDDAVKDVTGNDKIETKHLPSTCRDNFDA--*
+>P1;gi|1553047|emb|CAA93253.1| pilin (PilE) [Neisseria gonorrhoeae] [ score 206 E 1e-52 ] [ range 8 .. 170 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGKWPEN-----
+NTSAGVSPPS--DIKGKYVQKVEVA--------KGVVTAEMASTGVNKEIKDKKLSLWAKRQD-GSVKWF
+CGQPVTRGADDVTKAGNDNEKINTKHLPSTCRDNFDA--*
+>P1;gi|19110404|gb|AAL82805.1| class I pilin [Neisseria meningitidis] [ score 206 E 1e-52 ] [ range 8 .. 163 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPGN-----
+NTSAGVASSS--TIKGKYVKEVTVA--------NGVVTATMLSSGVNKEIQGKKLSLWAKRQN-GSVKWF
+CGQPVTRAGTDDTVAADNTGNINTKHLPSTCRDASDA--*
+>P1;gi|78132|pir||S03091 fimbrial protein class I precursor - Neisse... [ score 206 E 2e-52 ] [ range 8 .. 166 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPGN-----
+NTSAGVATSS--EIKGKYVKSVEVK--------NGVVTATMLSSGVNKEIKGKKLSLWAKRQN-GSVKWF
+CGQPVTRNDTDAAVAADNTGNINTKHLPSTCRDASDA--*
+>P1;gi|2921593|gb|AAC38431.1| pilus subunit [Neisseria gonorrhoeae] [ score 205 E 3e-52 ] [ range 8 .. 169 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTGYYLNHGEWPED-----
+NTSAGVASPT--DIKGKYVKEVKVE--------NGVVTAQMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRDADDVKADGNNG--INTKHLPSTCRDKHDAK-*
+>P1;gi|120430|sp|P11764|FMM2_NEIGO Fimbrial protein P9-2 precursor (... [ score 205 E 4e-52 ] [ range 8 .. 166 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGIWPKD-----
+NTSAGVASSS--SIKGKYVKEVKVE--------NGVVTATMNSSNVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQPVTRNAKDTADATGNDGKIDTKHLPSTCRDNFDA--*
+>P1;gi|1360950|pir||S57416 fimbrial protein MS11-N474 precursor - Ne... [ score 204 E 4e-52 ] [ range 8 .. 167 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPKD-----
+NGAAGVSSPT--DIKGKYVQSVTVA--------NGVVTAQMKSDGVNKEIKNKKLSLWAKREN-GSVKWF
+CGQPVTRANDTVAADGTGNDKIETKHLPSTCRDNFDA--*
+>P1;gi|1553043|emb|CAA93251.1| PilE/pilin (PilE) [Neisseria gonorrho... [ score 204 E 4e-52 ] [ range 8 .. 164 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGIWPKD-----
+NTSAGVASSD--KIKGKYVQSVTVA--------KGVVTAEMASTGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQPVTRGAKDDDAVTADGNKIDTKHLPSTCRDNFDA--*
+>P1;gi|2921603|gb|AAC38436.1| pilus subunit [Neisseria gonorrhoeae] [ score 204 E 6e-52 ] [ range 8 .. 164 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTGYYLNNGEWPAD-----
+NGAAGVASAS--TIKGKYVQKVEVA--------KGVVTAQMASTGVNKEIQDKKLSLWAKRQD-GSVKWF
+CGQPVTRTGDNDDTVADANNAIDTKHLPSTCRDKHDAK-*
+>P1;gi|95402|pir||S22107 pilin pilE precursor - Neisseria gonorrhoea... [ score 204 E 7e-52 ] [ range 8 .. 166 ]
+sequence
+FTLIELMIVIAIVGILAAAALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNNGIWPEN-----
+NSAGVASSAA--DIKGKYVKSVTVA--------NGVVTATMLSSGVNNEIKGKKLSLWAARQD-GSVKWF
+CGQPVTRTNDDTVADAKDGKEIDTKHLPSTCRDTSSA--*
+>P1;gi|505555|emb|CAA47300.1| pilin [Neisseria gonorrhoeae] [ score 203 E 1e-51 ] [ range 8 .. 165 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGIWPED-----
+NTSAGVSSPT--DIKGKYVQSVTVA--------NGVVTAEMASTGVNKEIKGKKLSLWAKREN-GSVKWF
+CGQPVTRAAKDDDAVTADGNKIDTKHLPSTCRDTSSA--*
+>P1;gi|95387|pir||S15641 pilin (variant NGF6E) - Neisseria gonorrhoe... [ score 203 E 1e-51 ] [ range 1 .. 163 ]
+sequence
+FTLIELMIVIAIVGILAAVAFP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPKD-----
+NASAGVASAS--DIKGKYVEKVEVK--------KGVVTAEMKSDGVNKEIKGKRLSLWARRQD-GSVKWF
+CGQPVTRTDAVTADTTGKDKEIDTKHLPSTCRDEPNA--*
+>P1;gi|1073205|pir||S55496 fimbrial protein pilE precursor - Neisser... [ score 202 E 2e-51 ] [ range 8 .. 165 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPGD-----
+NSSAGVATSA--DIKGKYVKEVEVK--------NGVITAQMASSNVNNEIKGKKLSLWAKRQD-GSVKWF
+CGLPVARDDTDSATDVKADTTINTKHLPSTCRDDSSA--*
+>P1;gi|15793282|ref|NP_283104.1| fimbrial protein precursor (pilin) ... [ score 202 E 2e-51 ] [ range 8 .. 169 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPSN-----
+NTSAGVASST--DIKGKYVQSVEVK--------NGVVTATMASSNVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRTNDDVKADAANGKQIDTKHLPSTCRDAASA--*
+>P1;gi|7443331|pir||S40063 fimbrial protein class I - Neisseria meni... [ score 202 E 2e-51 ] [ range 1 .. 159 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPGN-----
+NTSAGVASSS--TIKGKYVKEVTVA--------NGVITATMLSSGVNKEIQGKKLSLWAKRQN-GSVKWF
+CGQPVTRNDTDAAVAADNTGNINTKHLPSTCRDASDA--*
+>P1;gi|95390|pir||S15638 pilin (variant NGF6B) - Neisseria gonorrhoe... [ score 202 E 3e-51 ] [ range 1 .. 154 ]
+sequence
+FTLIELMIVIAIVGILAAVAFP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPKD-----
+NASAGVASAS--DIKGKYVEKVEVK--------NGVVTAQMKPSGVNKEIQGKRLSLWARREA-GSVKWF
+CGQPVTRTTDDDAVAKDDTNAIDTKHLPSTCRD------*
+>P1;gi|2921589|gb|AAC38429.1| pilus subunit [Neisseria gonorrhoeae] ... [ score 201 E 4e-51 ] [ range 8 .. 169 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTGYYLNNGKWPAD-----
+NGAAGVASPT--DIKGKYVKEVKVE--------NGVVTAQMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRDADDVKADGNNG--INTKHLPSTCRDKHDAK-*
+>P1;gi|2145527|pir||S74318 fimbrial protein class I - Neisseria meni... [ score 201 E 5e-51 ] [ range 1 .. 159 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPGN-----
+NTSAGVATSS--EIKGKYVKSVEVK--------NGVITATMLSSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQPVTRTADTVAAAAKTADNINTKHLPSTCRDASDA--*
+>P1;gi|571504|gb|AAA53145.1| pilin monomer [ score 200 E 1e-50 ] [ range 8 .. 167 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPKN-----
+NTSAGVSPPS--DIKGKYVQSVTAA--------KASVTAQMASTGVNKEIKGKRLSLWGKREN-GSVKWF
+CGQPVDPRRNDDVKDAAADNGINTKHLPSTCRDNFDA--*
+>P1;gi|1553045|emb|CAA93252.1| pilin (PilE) [Neisseria gonorrhoeae] [ score 199 E 1e-50 ] [ range 8 .. 164 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPED-----
+NTSAGVSSPT--DIKGKYVKSVTVA--------KGVVTAEMASTGVNKEIKGKKLSLWAKREN-GSVKWF
+CGQPVTRAKADADAAGKDTTNIDTKHLPSTCRDEPTA--*
+>P1;gi|729530|sp|Q00046|FMD3_NEIGO Fimbrial protein MS11-D3A precurs... [ score 199 E 2e-50 ] [ range 8 .. 166 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGKWPEN-----
+NTSAGVSPPS--DIKGKYVKEVKVE--------NGVVTATMNSSGVNKEIQGKRLSLWGRREN-GSVKWF
+CGQPVTRADADADAAGKDTTNIDTKHLPSTCRDAASA--*
+>P1;gi|78120|pir||D24886 P(-)rp(+) fimbrial protein - Neisseria gono... [ score 199 E 3e-50 ] [ range 8 .. 166 ]
+sequence
+FTLIELMIVIAIVGILALVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNNGTWPEN-----
+NASAGVSPPS--DIKGKYVQKVEVA--------KGVVTATMASSNVNNEIKGKKLSLWAKREN-GSVKWF
+CGQPVTRAKADADAAGKDTTNIDTKHLPSTCRDKSDAK-*
+>P1;gi|729529|sp|Q00045|FMD1_NEIGO Fimbrial protein MS11-D1 precurso... [ score 198 E 4e-50 ] [ range 8 .. 162 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGIWPEN-----
+NPAGVASPAS--DIKGKYVQSVTVA--------NGVVTAQMKSDGVNKEIKNKKLSLWARREA-GSVKWF
+CGQPVTRDNAGTDAVTADTTEIDTKHLPSTCR-------*
+>P1;gi|19110406|gb|AAL82806.1| class I pilin [Neisseria meningitidis] [ score 198 E 4e-50 ] [ range 8 .. 166 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPGN-----
+NTSAGVASSS--TIKGKYVKEVTVA--------NGVITATMLSSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQPVTRTADTVAAAAKTADNINTKHLPSTCRDASDA--*
+>P1;gi|2921597|gb|AAC38433.1| pilus subunit [Neisseria gonorrhoeae] [ score 193 E 1e-48 ] [ range 8 .. 166 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQVSEAILLAEGQKSAVTGYYLNNGKWPAD-----
+NGAAGVASPT--DIKGKYVQKVEVA--------KGVVTAQMASTGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQPVKRDADDVKADAANA--IETKHLPSTCRDESSA--*
+>P1;gi|95391|pir||S15637 pilin (variant NGF6A) - Neisseria gonorrhoe... [ score 181 E 3e-45 ] [ range 1 .. 150 ]
+sequence
+FTLIELMIVIAIVGILAAVAFP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPKD-----
+NASAGVASAS--DIKGKYVEKVEVK--------NGVVTAQMKPSGVNKEIQGKRLSLWARREA-GSVKWF
+CGQPVTREPTAKPTTSPKTTPV-KKSKPSTCR-------*
+>P1;gi|95388|pir||S15640 pilin (variant NGF6D) - Neisseria gonorrhoe... [ score 178 E 3e-44 ] [ range 1 .. 129 ]
+sequence
+FTLIELMIVIAIVGILAAVAFP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPKD-----
+NASAGVASAS--DIKGKYVEKVEVK--------NGVVTAQMKPSGVNKEIQGKSLSLWARRQD-GSVKWF
+CGQPVTRADD-----------------------------*
+>P1;gi|95389|pir||S15639 pilin (variant NGF6C) - Neisseria gonorrhoe... [ score 170 E 6e-42 ] [ range 1 .. 129 ]
+sequence
+FTLIELMIVIAIVGILAAVAFP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGEWPKD-----
+NASAGVASAS--DIKGKYVEKVEVK--------NGVVTAQMTPSGVNKEIQGKSLSLWARRQD-RFVKWF
+CGQPVTRADD-----------------------------*
+>P1;gi|150299|gb|AAA25472.1| pilin [ score 159 E 2e-38 ] [ range 2 .. 116 ]
+sequence
+-------------------------------------------------SAVTEYYLNNGKWPEN-----
+NTSAGVSPPS--DIKGKYVKEVEVK--------NGVVTATMLSSGVNNEIKGKKLCLWARREN-GSVKWF
+CGQPVTRTDDDTVGDAKDGKEIDTKHLPSTCRDKSDAK-*
+>P1;gi|150333|gb|AAA25491.1| pilin [ score 157 E 1e-37 ] [ range 2 .. 116 ]
+sequence
+-------------------------------------------------SAVTEYYLNNGTWPEN-----
+NTSAGVSPPS--DIKGKYVKEVEVK--------NGVVTATMLSSGVNNEIKRKKLSLWGRREN-GSVKWF
+CGQPVTRTDDDTVADAKDGKEIDTKHLPSTCRDKSDAK-*
+>P1;gi|150297|gb|AAA25471.1| pilin [ score 156 E 2e-37 ] [ range 2 .. 116 ]
+sequence
+-------------------------------------------------SAVTEYYLNHGKWPEN-----
+NTSAGVSPPS--DIKGKYVKEVEVK--------NGVVTATMLSSGVNNEIKRKKLCLWARREN-RSVKWF
+CGQPVTRTDDDSVGDAKDGKEIDTKHLPSTCRDKSDAK-*
+>P1;gi|466401|gb|AAA21308.1| pilin >gi|466427|gb|AAA21320.1| pilin [ score 153 E 8e-37 ] [ range 1 .. 113 ]
+sequence
+---------------------------------------------------VTEYYLNHGEWPED-----
+NTSAGVSPPS--DIKGKYVKEVEVK--------NGVVTATMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVTRTNDDTVADAKDGKEIDTKHLPSTCRDTSSA--*
+>P1;gi|1381723|gb|AAB02766.1| pilin [Neisseria gonorrhoeae] [ score 150 E 9e-36 ] [ range 2 .. 129 ]
+sequence
+----------------------------------RAQVSEAILLAEGQKSAVTEYYLNHGIWPKD-----
+NTSAGVANPT--DIKGKYVESVTVT--------NGVVTAKMLSSGVNKEIQGKRLSLWAKREA-GSVKWF
+CGQPVKRTEANADAAGKDTTNINTKHLPSTCRDPFSA--*
+>P1;gi|2119889|pir||F39950 fimbrial protein pilS7 (variant A) - Neis... [ score 148 E 3e-35 ] [ range 2 .. 130 ]
+sequence
+----------------------------------RAQVSEAILLAEGQKSAVTEYYLNHGIWPKD-----
+NTSAGVSPPS--DIKGKYVQSVTVA--------NGVVTAQMKSDGVNKEIKNKKLSLWAKREN-GSVKWF
+CGQPVTRAAKDDDAVTADGNKIDTKHLPSTCRDTSSA--*
+>P1;gi|150327|gb|AAA25488.1| pilin [ score 146 E 2e-34 ] [ range 2 .. 116 ]
+sequence
+-------------------------------------------------SAVTEYYLNNGTWPEN-----
+NASAGVASPA--DIKGKYVQKVEVA--------KGVVTAEMASTGVNKEIKRKKLCLWARREN-GSVKWF
+CGQPVTRTDDDSVGDAKDGKEIDTKHLPSTCRDKSDAK-*
+>P1;gi|2228578|gb|AAB62813.1| class II pilin [Neisseria meningitidis] [ score 145 E 2e-34 ] [ range 8 .. 148 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQMSEALTLAEGQKSAVIEYYSDNGTFPNS-----
+NTSAGIAASN--EIKGKYVASVKVE--------GNAITATMNSSNVNKDIKGKTLVLVGKQNS-GSFSWG
+C----------------KKGSVDEKFLPSTCRTK-----*
+>P1;gi|150329|gb|AAA25489.1| pilin [ score 144 E 6e-34 ] [ range 2 .. 116 ]
+sequence
+-------------------------------------------------SAVTEYYLNNGTWPEN-----
+NASAGVASPA--DIKGKYVQKVEVA--------KGVVTAEMASTGVNKEIKRKKLCLWGKREN-GSVKWF
+CGQPVTRADDDSVADAKDGKEIDTKHLPSTCRDKSDAK-*
+>P1;gi|224486|prf||1106226G pillin [ score 144 E 7e-34 ] [ range 1 .. 111 ]
+sequence
+------------------------------------------------------YYLNHGIWPEN-----
+NTSAGVSPPS--DIKGKYVKEVEVK--------NGVVTATMLSSGVNNEIKGKKLSLWAKREN-GSVKWF
+CGQPVTRATKDDDAVTADGNKIDTKHLPSTCRDKSDAK-*
+>P1;gi|15793286|ref|NP_283108.1| truncated pilin [Neisseria meningit... [ score 144 E 7e-34 ] [ range 1 .. 120 ]
+sequence
+-----------------------------------------MLLTEGKKSAVTEYYLNHGIWPGD-----
+NNSAGVASSS--KIKGKYVKEVEVK--------NGVVTATMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRNDATDVAADSGNDKIDTKHLPSTCRDASS---*
+>P1;gi|1381714|gb|AAB02759.1| pilin [Neisseria gonorrhoeae] [ score 143 E 8e-34 ] [ range 1 .. 110 ]
+sequence
+---------------------------------------------------VAGYCLNHGEWPED-----
+NTSAGVASPT--DIKGKYVKSVTVA--------KGVVTAEMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRADNNGNITADNGNAIETKHLPSTCRDESSA--*
+>P1;gi|1381715|gb|AAB02760.1| pilin [Neisseria gonorrhoeae] [ score 143 E 9e-34 ] [ range 1 .. 127 ]
+sequence
+---------------------------------------EAILLAEGQKSAVTEYYLNHGIWPEN-----
+NDKAGVASSS--SIKGKYVKEVKVE--------NGVVTATMNSSNVNKEIKDKRLSLWAKREN-GSVKWF
+CGQPVKRANDDDVTDDKNNNGIDTKHLPSTCRDKSSA--*
+>P1;gi|1381727|gb|AAB02769.1| pilin [ score 143 E 9e-34 ] [ range 2 .. 138 ]
+sequence
+----------------------------------RAQVSEAILLAEGQKSAVTEYYLNHGTWPEN-----
+NTSAGVSSAT--DIKGKYVQSVTVA--------NGVVTAEMKSDGVNKEIQGKRLSLWARREA-GSVKWF
+CGQPVTRVTDDAGTDNGGKGKIDTKHLPSTCRDKSTAK-*
+>P1;gi|1381712|gb|AAB02757.1| pilin [Neisseria gonorrhoeae] [ score 143 E 9e-34 ] [ range 1 .. 125 ]
+sequence
+---------------------------------------EAILLAEGQKSAVTGYCPNHGIWPKD-----
+NTSAGVSSAA--DIKGKYVQKVEVN--------NGVVTATMASSNVNKEIQGKRLSLWAKREN-GSVKWF
+CGQPVTRDDDDVKADGTAGTKIDTKHLPSTCRDESS---*
+>P1;gi|466425|gb|AAA21319.1| pilin [ score 143 E 2e-33 ] [ range 1 .. 116 ]
+sequence
+---------------------------------------------------VTEYYLNHGKWPAD-----
+NTVAGASPPT--DIKGKYVKEVEVK--------NGVVTAKMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRDADDVKADGNNG--INTKHLPSTCRDKHDAK-*
+>P1;gi|95365|pir||S21822 hypothetical protein 1 (pilE1 3' region) - ... [ score 142 E 2e-33 ] [ range 2 .. 123 ]
+sequence
+-----------------------------------------ILLAEGQKSAVTEYYLNHGEWPED-----
+NTSAGVSSPT--DIKGKYVQSVTVA--------NGVVTAEMASTGVNKEIQGKRLSLWAKREN-GSVKWF
+CGQPVTRAAKDDDAVTADGNKIDTKHLPSTCRDTSSA--*
+>P1;gi|1381703|gb|AAB02750.1| pilin [Neisseria gonorrhoeae] [ score 142 E 2e-33 ] [ range 1 .. 132 ]
+sequence
+-----------------------------------AQVSEAILLAEGQKSAVTEYYLNHGEWPKD-----
+NGSAGVASAS--KIIGKYVKEVKVE--------NGVVTAQMASSNVNKEIKDKKLSLWAKREN-GSVKWF
+CGQPVKRTTDDVAKDDTAGTKIDTKHLPSTCRDESS---*
+>P1;gi|1381697|gb|AAB02747.1| pilin [ score 142 E 3e-33 ] [ range 1 .. 131 ]
+sequence
+---------------------------------------EAILLAEGQKSAVTGYYLNNGKWPAD-----
+NGAAGVASPT--DIKGKYVKEVKVE--------NGVVTAQMASSNVNKEIKDKKLSLWAKREN-GSVKWF
+CGQPVKRTEANAKADDTAGTKIDTKHLPSTCRDKHDAK-*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 142 E 3e-33 ] [ range 422 .. 558 ] [ duplicate a ]
+sequence
+--------------------------------TAIAQVSEAILLAEGQKSAVTEYYLNHGEWPKD-----
+NTSAGVASSD--KIKGKYVQKVEVA--------KGVVTATMASSNVNKEIKDKKLSLWARRQD-GSVKWF
+CGQPVTRVTDDAGTDNGGKGKIDTKHLPSTCRDKSTA--*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 142 E 3e-33 ] [ range 185 .. 302 ] [ duplicate b ]
+sequence
+---------------------------------------------SAVKSAVTGYCPNHGKWPKD-----
+NTSAGVASPA--EIKGKYVKSVTVA--------KGVVTAQMNPSGVNNEIKDKKLSLWAKREN-GSVKWF
+CGQPVTRTDDAAKDAVTADAKIETKHLPSTCRDESSA--*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 142 E 3e-33 ] [ range 71 .. 186 ] [ duplicate c ]
+sequence
+----------------------------------------------AVKSAVAGYCPNHGTWPEN-----
+NASAGVSSPT--DIKGKYVKSVTVA--------KGVVTAEMASTGVNKEIKGKKLSLWAKREN-GSVKWF
+CGQPVTRAKADADAAGKDTTNIDTKHLPSTCRDESSA--*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 142 E 3e-33 ] [ range 558 .. 678 ] [ duplicate d ]
+sequence
+----------------------------------------------AVKSAVAGYYLNHGEWPKD-----
+NDSAGVASAS--KIIGKYVKQVEVK--------NGVVTAEMASTGVNKEIKDKKLSLWAKRQD-GSVKWF
+CGQPVTRGADDVTKAGNDNEKINTKHLPSTCRDNFDA--*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 142 E 3e-33 ] [ range 301 .. 423 ] [ duplicate e ]
+sequence
+---------------------------------------------SAGKSAVAGYCPNHGTWPKD-----
+NGDAGVASPA--DIKGKYVQKVEVA--------KGVVTAEMASTGVNKEIKDKKLSLWAKRQD-GSVKWF
+CGQPVTRGADDVTKAGNDNEKINTKHLPSTCRDKSTA--*
+>P1;gi|78125|pir||A24788 pilin protein - Neisseria gonorrhoeae [ score 142 E 3e-33 ] [ range 1 .. 71 ] [ duplicate f ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------MASTGVNKEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRNDDDVTRDGTDGKDIETKHLPSTCRDESTA--*
+>P1;gi|150303|gb|AAA25474.1| gonococcal pilin protein [ score 142 E 3e-33 ] [ range 1 .. 106 ]
+sequence
+------------------------------------------------------YYLNHGEWPAN-----
+NGDAGVASPG--EIKGKYVKEVKVE--------NGVVTATMKSDGVNKEIQGKKLSLWAKREN-GSVKWF
+CGRPVKRTGADDVNDANDG--IDTKHLPSTCRDNFDA--*
+>P1;gi|1381705|gb|AAB02752.1| pilin [Neisseria gonorrhoeae] [ score 141 E 4e-33 ] [ range 2 .. 116 ]
+sequence
+-------------------------------------------------SAVAGYCPNHGKWPEN-----
+NTSAGVSPPS--DIKGKYVKEVEVK--------NGVVTATMLSSGVNNEIKGKKLSLWARREN-GSVKWF
+CGQPVTRADADADAAGKDTTNIDTKHLPSTCRDESSA--*
+>P1;gi|1381699|gb|AAB02748.1| pilin [ score 141 E 4e-33 ] [ range 1 .. 126 ]
+sequence
+--------------------------------------------AEGQKSAVTGYYLNNGKWPAD-----
+NGAAGVASPT--DIKGKYVKEVKVE--------NGVVTAQMASSNVNKEIQGKKLSLWAKREN-GSVKWF
+CGQPVKRTTDDVAKDDTAGTKIDTKHLPSTCRDKHDAK-*
+>P1;gi|7259484|gb|AAF43787.1| pilin [Neisseria lactamica] [ score 141 E 5e-33 ] [ range 8 .. 148 ]
+sequence
+FTLIELMIVIAIVGILAAVALP-----AYQDYTARAQMSEALTLAEGQKSAVVEYYSDNGTFPNS-----
+NASAGIANSS--DIKGKYVKSVAVT--------GNAITATMNASGVNKDIANKTLILVGKQNS-GSFEWT
+CQK----------------GDVADKFLPSSCRTK-----*
+>P1;gi|95347|pir||A39950 fimbrial protein pilE1 (variant B1) - Neiss... [ score 141 E 6e-33 ] [ range 2 .. 120 ]
+sequence
+-------------------------------------------------SAVTEYYLNHGKWPEN-----
+NTSAGVSPPS--DIKGKYVQKVEVA--------KGVVTAEMASTGVNKEIQGKRLSLWAKRQD-GSVKWF
+CGQPVTRGADDVTKAGNDNEKINTKHLPSTCRDNFDA--*
+>P1;gi|1381701|gb|AAB02749.1| pilin [ score 140 E 7e-33 ] [ range 1 .. 125 ]
+sequence
+------------------------------------------LLAEGQKSAVTEYYLNHGTWPEN-----
+NTSAGVSSAT--DIKGKYVQSVTVA--------NGVVTAEMKSDGVNKEIQGKRLSLWARREA-GSVKWF
+CGQPVKRDADDVKADGNNG--INTKHLPSTCRDKHDAK-*
+>P1;gi|466405|gb|AAA21310.1| pilin >gi|466407|gb|AAA21311.1| pilin [ score 140 E 7e-33 ] [ range 1 .. 116 ]
+sequence
+---------------------------------------------------VTEYYLNNGEWPED-----
+NTSAGVSPPS--DIKGKYVKEVEVK--------NGVVTAKMPSTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRDADDVKADGNNG--INTKHLPSTCRDKHDAK-*
+>P1;gi|1381704|gb|AAB02751.1| pilin [Neisseria gonorrhoeae] [ score 140 E 8e-33 ] [ range 1 .. 116 ]
+sequence
+---------------------------------------------------VAGYCLNHGEWPED-----
+NTSAGVASPT--DIKGKYVKSVTVA--------KGVVTAEMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRDADDVKADGKDTDKINTKHLPSTCRDKSSA--*
+>P1;gi|95394|pir||S19120 pilin (pilS5 locus copy 1) - Neisseria gono... [ score 140 E 8e-33 ] [ range 3 .. 117 ]
+sequence
+-------------------------------------------------SAVTEYYLNHGEWPKD-----
+NDSAGVASAS--KIIGKYVKQVEVK--------NGVVTAQMKSDGVNKEIKNKKLSLWAKREN-GSVKWF
+CGQPVTRANDTVAADGTGNDKIETKHLPSTCRDNFDA--*
+>P1;gi|1381716|gb|AAB02761.1| pilin [Neisseria gonorrhoeae] [ score 140 E 9e-33 ] [ range 2 .. 115 ]
+sequence
+-------------------------------------------------SAVTEYCPNHGEWPKD-----
+NDKAGVSPPS--NIKGKYVESVTVT--------NGVVTATMLSSGVNNEIKGKKLSLWAKRQA-GSVKWF
+CGQPVQRAKADDAVTADANNAIDTKHLPSTCRDTSSAK-*
+>P1;gi|1381695|gb|AAB02746.1| pilin [ score 140 E 1e-32 ] [ range 1 .. 123 ]
+sequence
+--------------------------------------------AEGQKSAVTEYYLNHGTWPEN-----
+NTSAGVSSAT--DIKGKYVQSVTVA--------NGVVTAEMKSDGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRDADDVKADGNNG--INTKHLPSTCRDKHDAK-*
+>P1;gi|15677974|ref|NP_273085.1| pilS cassette [Neisseria meningitid... [ score 140 E 1e-32 ] [ range 1 .. 125 ]
+sequence
+---------------------------------------EAILLAEGQKSAVTEYYLNHGEWPGN-----
+NSSAGVATSA--DIKGKYVKSVEVK--------NGVVTAQMASSNVNNEIKGKKLSLWAKRQA-GSVKWF
+CGLPVTRADDAVTAAATGTDKIDTKHLPSTCRDDSS---*
+>P1;gi|1381706|gb|AAB02753.1| pilin [Neisseria gonorrhoeae] [ score 140 E 1e-32 ] [ range 2 .. 113 ]
+sequence
+-------------------------------------------------SAVTGYCPNHGKWPKD-----
+NTSAGVASPA--EIKGKYVKSVTVA--------KGVVTAQMNPSGVNNEIKDKKLSLWAKREN-GSVKWF
+CGQPVTRNDAKADAKDDTVTAIETKHLPSTCRDESSA--*
+>P1;gi|1381693|gb|AAB02745.1| pilin [ score 139 E 2e-32 ] [ range 2 .. 127 ]
+sequence
+-------------------------------------ISEAILLAEGQKSAVTGYYLNNGKWPAD-----
+NGAAGVASPT--DIKGKYVKEVKVE--------NGVVTAQMASTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVTRNDAADDVKADAANAIETKHLPSTCRDESSA--*
+>P1;gi|150315|gb|AAA25480.1| gonococcal pilin protien [ score 139 E 2e-32 ] [ range 1 .. 111 ]
+sequence
+------------------------------------------------------YYLNHGIWPKD-----
+NTSAGVASSS--SIKGKYVKEVKVE--------NGVVTATMNSSNVNKEIQGKRLSLWAKREN-GSVKWF
+CGQPVTRADNDDVKDAAADNGIDTKHLPSTCRDNFDA--*
+>P1;gi|150325|gb|AAA25485.1| gonococcal pilin protien [ score 139 E 2e-32 ] [ range 1 .. 112 ]
+sequence
+------------------------------------------------------YYLNHGIWPKD-----
+NTSAGVASSS--SIKGKYVKEVKVE--------NGVVTATMNSSNVNKEIQGKRLSLWAKREN-GSVKWF
+CGQPVTRADNDDVKDAGNNDGIETKHLPSTCRDEPNAE-*
+>P1;gi|1381713|gb|AAB02758.1| pilin [Neisseria gonorrhoeae] [ score 137 E 6e-32 ] [ range 1 .. 116 ]
+sequence
+---------------------------------------------------VAGYYLNHGEWPEN-----
+NDKAGVASAS--DIKGKYVKSVTVA--------KGVVTAEMASTGVNKEIQGKKLSLWAKREN-GSVKWF
+CGQPVKRTTDDVAKDDTAGTKIDTKHLPSTCRDESS---*
+>P1;gi|466417|gb|AAA21316.1| pilin [ score 137 E 9e-32 ] [ range 1 .. 112 ]
+sequence
+---------------------------------------------------VTEYYLNHGTWPEN-----
+NTSAGVSSAT--DIKGKYVQSVTVA--------NGVVTAEMKSDGVNKEIQGKRLSLWAKRQD-GSVKWF
+CGQPVTRTGDNDDTVADANNAIDTKHLPSTCRDKSTAK-*
+>P1;gi|466413|gb|AAA21314.1| pilin [ score 136 E 1e-31 ] [ range 1 .. 111 ]
+sequence
+---------------------------------------------------VTGYYLNNGKWPAD-----
+NGAAGVASSD--KIKGKYVQKVEVA--------KGVVTAQMASTGVNKEIQDKKLSLWAKRQD-GSVKWF
+CGQPVTRTGDNDDTVADANNAIDTKHLPSTCRDKHDAK-*
+>P1;gi|1381720|gb|AAB02764.1| pilin [Neisseria gonorrhoeae] [ score 136 E 1e-31 ] [ range 2 .. 121 ]
+sequence
+-------------------------------------------------SAVAGYYPNHGKWPED-----
+NTSAGVSPPS--DIKGKYVQSVTVA--------NGVVTAEMKSDGVNKEIKGKKLSLWGRREN-GSVKWF
+CGQPVKRANNDAVTDDTTGNKIETKHLPSTCRDESSA--*
+>P1;gi|150293|gb|AAA25469.1| pilin [ score 136 E 1e-31 ] [ range 2 .. 116 ]
+sequence
+-------------------------------------------------SAVTEYYLNNGTWPEN-----
+NASAGVASPA--DIKGKYVQKVEVA--------KGVVTAEMASTGVNKEIKRKKLCLWGKREN-GSVKWF
+CGQPVTRAKADADGGGKDTTKIDTKHLPSTCRDKSDAK-*
+>P1;gi|466415|gb|AAA21315.1| pilin [ score 136 E 2e-31 ] [ range 1 .. 116 ]
+sequence
+---------------------------------------------------VTEYYLNNGEWPAD-----
+NTSAGVASPS--DIKGKYVKKVEVK--------NGVVTAKMPSTGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVKRDADDVKADGNNG--INTKHLPSTCRDKHDAK-*
+>P1;gi|15677979|ref|NP_273090.1| pilS cassette [Neisseria meningitid... [ score 136 E 2e-31 ] [ range 7 .. 104 ]
+sequence
+----------------------------------------------------------------------
+----GVASSS--DIKGKYVEKVEVK--------NGVVTATMLSSGVNKEIKGKKLSLWAKRQN-GSVKWF
+CGQPVTRNTDVAAANGKTDDKINTKHLPSTCRDDSS---*
+>P1;gi|95350|pir||C39950 fimbrial protein pilE1 (variants F3 and F7)... [ score 136 E 2e-31 ] [ range 2 .. 120 ]
+sequence
+-------------------------------------------------SAVTEYYLNNGIWPEN-----
+NGAAGVASPS--DIKGKYVQSVTVA--------NGVVTAQMKSDGVNKEIKNKKLSLWAKRQD-GSVKWF
+CGQPVTRGADDVTKAGNDNEKINTKHLPSTCRDNFDA--*
+>P1;gi|224488|prf||1106226J pillin [ score 136 E 2e-31 ] [ range 1 .. 108 ]
+sequence
+------------------------------------------------------YYLNHGEWPEN-----
+NTSAGVASSD--KIKGKYVKQVEVK--------NGVVTATMNSSGVNKEIQGKRLSLWAKRED-GSVKWF
+CGQPVTRDKADTVTDDNSNG-INTKHLPSTCRDTSDAK-*
+>P1;gi|224491|prf||1106226M pillin [ score 135 E 3e-31 ] [ range 1 .. 105 ]
+sequence
+------------------------------------------------------YYLNNGEWPKD-----
+NASAGVSSPT--DIKGKYVKEVEVK--------NGVVTATMKSDGVNKEIKNKKLSLWAKREN-GSVKWF
+CGQPVTRDNQANDTVADKDKEIETKHLPSTCRDK-----*
+>P1;gi|1381725|gb|AAB02768.1| pilin [Neisseria gonorrhoeae] [ score 135 E 3e-31 ] [ range 2 .. 114 ]
+sequence
+-------------------------------------------------SAVAGYYLNHGEWPEN-----
+NTSAGVASSD--KIKGKYVQKVEVA--------KGVVTAQMASTGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQPVTRNDDDVKADAANA--IETKHLPSTCRDESSA--*
+>P1;gi|150311|gb|AAA25478.1| gonococcal pilin protien [ score 135 E 4e-31 ] [ range 1 .. 113 ]
+sequence
+------------------------------------------------------YYLNHGIWPKD-----
+NTSAGVASSS--SIKGKYVKEVKVE--------NGVVTATMNSSNVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQPVTRDDAATADATGNDGKIDTKHLPSTCRDNFDA--*
+>P1;gi|150309|gb|AAA25477.1| gonococcal pilin protien [ score 134 E 5e-31 ] [ range 1 .. 106 ]
+sequence
+------------------------------------------------------YYLNHGEWPAN-----
+NGDAGVASPG--EIKGKYVKEVKVE--------NGVVTATMKSDGVNKEIQGKKLSLWAKREN-GSVKWF
+CGQPVTRGAGADTVTDVADTGIDTKHLPSTCRDKAS---*
+>P1;gi|466403|gb|AAA21309.1| pilin [ score 134 E 6e-31 ] [ range 1 .. 110 ]
+sequence
+---------------------------------------------------VTEYYLNHGIWPKD-----
+NTSAGVASAS--TIKGKYVQKVEVA--------KGVVTAQMASTGVNKEIQDKKLSLWAKRQD-GSVKWF
+CGQPVTRTGDNDDTVADANNAIDTKHLPSTCRDESSA--*
+>P1;gi|150307|gb|AAA25476.1| gonococcal pilin protein [ score 134 E 7e-31 ] [ range 1 .. 113 ]
+sequence
+------------------------------------------------------YYLNHGIWPKD-----
+NTSAGVASSS--SIKGKYVKEVKVE--------NGVVTATMNSSNVNKEIQGKRLSLWAKREN-GSVKWF
+CGQPVTRDDAATADATGNDGKIETKHLPSTCRDNFDA--*
+>P1;gi|15793284|ref|NP_283106.1| truncated pilin [Neisseria meningit... [ score 133 E 1e-30 ] [ range 1 .. 127 ]
+sequence
+-----------------------------------------MLLAEGQKSAVTEYYLNHGTWPSN-----
+NSDAGVASAT--DIKGKYVKEVKVE--------KGVITATMLSSGVNNEIKGKKLSLWAKRQA-GSVKWF
+CGQPVERNDAVTAATANGNGKIDTKHLPSTCRDAASA--*
+>P1;gi|224492|prf||1106226N pillin [ score 132 E 2e-30 ] [ range 1 .. 111 ]
+sequence
+------------------------------------------------------YYLNNGEWPEN-----
+NASAGVSPPT--DIKGKYVKEVEVK--------NGVVTATMKSDGVNKEIKNKKLSLWAKREN-GSVKWF
+CGQPVTRDNANDTVAADNSNGINTKHLPSTCRDTSDAK-*
+>P1;gi|466399|gb|AAA21307.1| pilin >gi|466423|gb|AAA21318.1| pilin [ score 132 E 3e-30 ] [ range 1 .. 110 ]
+sequence
+---------------------------------------------------VTGYYLNNGKWPAD-----
+NGAAGVASAS--TIKGKYVQKVEVA--------KGVVTAQMASTGVNKEIQDKKLSLWAKRQD-GSVKWF
+CGQPVTRTGDNDDTVADANNAIDTKHLPSTCRDESSA--*
+>P1;gi|224490|prf||1106226L pillin [ score 131 E 4e-30 ] [ range 1 .. 111 ]
+sequence
+------------------------------------------------------YYLNNGIWPEN-----
+NGAAGVSPPT--DIKGKYVKQVEVK--------NGVVTATMNSSGVNKEIQGKRLSLWAKREN-GSVKWF
+CGQPVTRDNNDTVADDNSNG-INTKHLPSTCRDTSDAK-*
+>P1;gi|150317|gb|AAA25481.1| gonococcal pilin protien [ score 131 E 5e-30 ] [ range 1 .. 111 ]
+sequence
+------------------------------------------------------YYLNHGIWPKD-----
+NTSAGVASSS--SIKGKYVKEVKVE--------NGVVTATMNSSNVNKEIQDKRLSLWAKREN-GSVKWF
+CGRPVTRADNDDVKDAGNNG-IETKHLPSTCRDEPNAE-*
+>P1;gi|95397|pir||S19123 hypothetical protein 1 (pilE1 3' region) - ... [ score 131 E 5e-30 ] [ range 1 .. 115 ]
+sequence
+-------------------------------------------------SAVTEYYPNNGKWPAD-----
+NGAAGVASSS--SIKGKYVKEVKVE--------NGVVTATMNSSNVNKEIKDKRLSLWGRREN-GSVKWF
+CGQPVTRNANDDTVTAGNDGKIDTKHLPSTCRDTSSA--*
+>P1;gi|1381707|gb|AAB02754.1| pilin [Neisseria gonorrhoeae] [ score 131 E 5e-30 ] [ range 2 .. 116 ]
+sequence
+-------------------------------------------------SAVAGYCPNHGTWPKD-----
+NGDAGVASPA--DIKGKYVQKVEVA--------KGVVTAEMKPSGVNKEIKGKKLSLWAKRED-GSVKWF
+CGQPVKRDADDVKADAANA--IETKHLPSTCRDESSA--*
+>P1;gi|150313|gb|AAA25479.1| gonococcal pilin protien [ score 131 E 5e-30 ] [ range 1 .. 106 ]
+sequence
+------------------------------------------------------YYLNHGIWPKD-----
+NTSAGVASSS--SIKGKYVKEVKVE--------NGVVTATMNSSNVNKEIQGKRLSLWAKREN-GSVKWF
+CGQPVTRDDAADTVTDVADTGIDTKHLPSTCRDKAS---*
+>P1;gi|1381719|gb|AAB02763.1| pilin [Neisseria gonorrhoeae] [ score 131 E 6e-30 ] [ range 1 .. 113 ]
+sequence
+-------------------------------------------------------YPNNGKWPAN-----
+NGAAGVASAS--DIKGKYVESVTVE--------KGVVTAKMLSSGVNKEIQGKKLSLWAKREA-GSVKWF
+CGQPVKRNDDDAGTDNGGKGKIDTKHLPSTCRDKSTA--*
+>P1;gi|23028295|ref|ZP_00066700.1| COG4969: Tfp pilus assembly prote... [ score 130 E 8e-30 ] [ range 8 .. 159 ]
+sequence
+FTLIELMIVVAIIGILAAVALP-----AYSQYVTRAKIVDGLALVQELKGDVKEYHRYHNVFPAT-----
+NAQAGIPAAN--KLLSNFVTGVELE--------GGAFHVTFGFK-AGASLDGKVLTLRPAVVM-GSYTWV
+CGYDEP--VMGMVAVGENKTDIDKSLLPSSCR-------*
+>P1;gi|15793287|ref|NP_283109.1| truncated pilin [Neisseria meningit... [ score 130 E 9e-30 ] [ range 1 .. 124 ]
+sequence
+-------------------------------------------MAEGQKSAVTEYYLNHGEWPAN-----
+NSSAGVTSAS--DIKGKYVEKVEVA--------NGVITAEMKSSGVNNEIKGKKLSLWTKRQD-GSVKWF
+CGQPVTRAANADDVAADGTNKIDTKHLPSTCRDASSA--*
+>P1;gi|224489|prf||1106226K pillin [ score 130 E 1e-29 ] [ range 1 .. 108 ]
+sequence
+------------------------------------------------------YYLNNGEWPEN-----
+NASAGVSSPT--DIKGKYVKQVEVK--------NGVVTATMKSDGVNKEIKNKKLSLWAKREN-GSVKWF
+CGQPVTRDNKAGDTVTDDNSNINTKHLPSTCRDTSS---*
+>P1;gi|43415575|gb|EAD67115.1| unknown [environmental sequence] [ score 129 E 2e-29 ] [ range 8 .. 161 ]
+sequence
+FTLIELMIVLTIIGILASLAVS-----AYQTYTVRAQVSEGLSFAAGAKVPVVDAYTSGGVAPAN-----
+RVAAGMIPAT--DTRGSYVSSVEIV--------NGRIDLTFGGSLAHQDIIGAALSLTPYETT-GTIVWR
+CGNPPPLGVFLSGGAGHIAPTVNERYLPANCR-------*
+>P1;gi|95395|pir||S19121 pilin (pilS6 locus copy 1) - Neisseria gono... [ score 129 E 2e-29 ] [ range 1 .. 102 ]
+sequence
+---------------------------------------------------------NHGKWPEN-----
+KPAGVASPAS--DIKGKYVQSVTVA--------NGVVTAQMKSDGVNKEIKNKKLSLWARREA-GSVKWF
+CGQPVTRVTDDAVKDVTGNDKIETKHLPSTCR-------*
+>P1;gi|7259486|gb|AAF43788.1| pilin [Neisseria cinerea] [ score 128 E 3e-29 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVIAIVGILAVVALP-----AYQDYTARAQMSEALTLAEGQKSAVVEYFSDKGVFPAN-----
+NAAAGIAAPT--EIKGKYVASVTVA--------KATITAKMNATGVNNDIKGKTLMLEGSQSA-GSFSWV
+CKK-------------GTSDSVDDKFLPSSCR-------*
+>P1;gi|15677976|ref|NP_273087.1| pilS cassette [Neisseria meningitid... [ score 128 E 3e-29 ] [ range 1 .. 119 ]
+sequence
+---------------------------------------EAILLVEGQKSAVTEYYLNHGEWPGD-----
+NSSAGVATSS--EIKGKYVKSVEVK--------NGVVTAQMASSNVNNEIKGKKLSLWAKRQN-GSVKWF
+CGQPVTRDDAVTAATGKGTANINTKHLPST---------*
+>P1;gi|15793285|ref|NP_283107.1| truncated pilin [Neisseria meningit... [ score 127 E 6e-29 ] [ range 1 .. 115 ]
+sequence
+-----------------------------------------MLLAEGQKSAVTEYYLNHGEWPSN-----
+NTSAGVATSS--KIKGKYVKEVKVA--------NGVITATMLSTGVNKEIQGKKLSLWAKRQA-GSVKWF
+CGQPVTRAAKDDVTAATGTDKIDTKHLPST---------*
+>P1;gi|150295|gb|AAA25470.1| pilin [ score 127 E 6e-29 ] [ range 2 .. 114 ]
+sequence
+-------------------------------------------------SAVAGYCPNNGTWPEN-----
+NASAGVSPPN--KIKGKYVQKVTVK--------KGVVTAEMASTGLNKEIKRKKLCLWAKREN-GSVKWF
+CGQPVTRAKADADAAGKDTTKIDTKHLPSTCRDESSA--*
+>P1;gi|15677975|ref|NP_273086.1| pilS cassette [Neisseria meningitid... [ score 126 E 1e-28 ] [ range 1 .. 119 ]
+sequence
+---------------------------------------EAILLAEGQKSAVTEYYLNHGEWPGN-----
+NSSAGVATSA--NIKGKYVEKVEVK--------NGVVTATMLSSGVNKEIQGKKLSLWAKRQD-GSVKWF
+YGQPVKRDNASADATAANGKQIDTKHLPST---------*
+>P1;gi|1381724|gb|AAB02767.1| pilin [Neisseria gonorrhoeae] [ score 126 E 2e-28 ] [ range 3 .. 108 ]
+sequence
+-------------------------------------------------------------WPKD-----
+NGSAGVASAS--TIKGKYVQKVEVT--------NGVVTAQMASTGVNKEIKGKKLSLWARRQD-GSVKWF
+CGQPVKRDDAATADATGNDGKIDTKHLPSTCRDKSTA--*
+>P1;gi|466411|gb|AAA21313.1| pilin [ score 125 E 2e-28 ] [ range 1 .. 113 ]
+sequence
+---------------------------------------------------VTGYYLNHGIWPAD-----
+NGAAGVASPT--DIKGKYVKEVKVE--------NGVVTAQMASSNVNKEIKDKKLSLWAKRQD-GSVKWF
+CGQPVKR-DAGAKADADAANAIETKHLPSTCRDESSA--*
+>P1;gi|224487|prf||1106226H pillin [ score 124 E 6e-28 ] [ range 1 .. 117 ]
+sequence
+------------------------------------------------------YYLNHGEWPKD-----
+NTSAGVASSD--KIKGKYVQKVEVK--------KGVVTATMASSNVNKEIKDKKLSLWAKRED-GSVKWF
+CGQPVTRAKAKDADDFTDDAKIDTKHLPSTCRDNFDAK-*
+>P1;gi|150331|gb|AAA25490.1| pilin [ score 123 E 1e-27 ] [ range 2 .. 120 ]
+sequence
+-------------------------------------------------SAVTEYYLNNGTWPEN-----
+NSAGVASSAA--DIKGKYVESVTVA--------KGVVTAQMASSNVNNEIKRKKLCLWGKRQD-GSVKWF
+CGQPVKRTANNDDSVAGDGTDIETKHLPSTCRDKSDAK-*
+>P1;gi|22978955|ref|ZP_00024691.1| COG4969: Tfp pilus assembly prote... [ score 122 E 2e-27 ] [ range 90 .. 233 ]
+sequence
+FTLIELMIVVAIVGILAVIAVP-----QYQDYVARAQFAEGLTLASAQKAAVVESFSQRGFCPSN-----
+SEYDGIPVSG--HISGSYVQSVIVG--------GCTITATFRTENVSPGLSGKTLTLTMGGSS-GSIAWL
+CKSDA-----------------ENRYIPRSC--------*
+>P1;gi|479616|pir||S34941 fimbrial protein SC - Neisseria meningitid... [ score 121 E 3e-27 ] [ range 1 .. 107 ]
+sequence
+----------------------------------------------------------HGEWPGD-----
+NSSAGVATSA--DIKGKYVQSVTVA--------NGVITAQMASSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQPVTRTDAAVTAASDTTANIDTKHLPSTCRDDSSA--*
+>P1;gi|44283560|gb|EAI18964.1| unknown [environmental sequence] [ score 121 E 5e-27 ] [ range 8 .. 182 ]
+sequence
+FTLIELMIVVAIIGVLAAIAIP-----QYENYVARTQVAEALSLAPVVKTAYEEYYSVHGALPEN-----
+KPSGGRYSDQ--EMHSQYVRHVRAR--------NSEAEAANFSPGISSKIAGKKFWLLAIVDT-GSLTWE
+CS-----CKRRQFHNCGDDQEILEEYLPSSCTN------*
+>P1;gi|150323|gb|AAA25484.1| gonococcal pilin protien [ score 121 E 5e-27 ] [ range 1 .. 111 ]
+sequence
+------------------------------------------------------YYLNNGIWPEN-----
+NTSAGVSSAT--DIKGKYVKEVKVE--------NGVVTATMASSNVNKEIKDKRLSLWAKRQA-GSVKWF
+CGQPVKRADNDDVAKDDAADKIDTKHLPSTCRDEPTA--*
+>P1;gi|479615|pir||S34940 fimbrial protein SB - Neisseria meningitid... [ score 121 E 7e-27 ] [ range 1 .. 107 ]
+sequence
+----------------------------------------------------------HGEWPGD-----
+NSSAGVATSA--DIKGKYVQSVTVA--------NGVITAQMASSNVNNEIKSKKLSLWAKRQN-GSVKWF
+CGQPVATATDVAAANGKTDDKINTKHLPSTCRDDSSA--*
+>P1;gi|479617|pir||S34942 fimbrial protein SB1 - Neisseria meningiti... [ score 120 E 1e-26 ] [ range 1 .. 107 ]
+sequence
+----------------------------------------------------------HGTWPKN-----
+NTSAGVATSA--DIKGKYVQSVTVA--------NGVITAQMASSNVNNEIKSKKLSLWAKRQN-GSVKWF
+CGQPVATATDVAAANGKTDDKINTKHLPSTCRDDSSA--*
+>P1;gi|15677980|ref|NP_273091.1| large pilS cassette [Neisseria meni... [ score 120 E 1e-26 ] [ range 108 .. 214 ] [ duplicate b ]
+sequence
+------------------------------------------------------YYPNHGEWPKN-----
+NTSAGVASSS--TIKGKYVKEVTVA--------NGVITATMLSSGVNKEIQGKKLSLWAKRQD-GSVKWF
+CGQPVTRNTDEVTAATPDTDKINTKHLPST---------*
+>P1;gi|533772|gb|AAA21317.1| pilin [ score 118 E 5e-26 ] [ range 1 .. 93 ]
+sequence
+---------------------------------------------------VTEYYLNHGEWPED-----
+NTSAGVSPPS--DIKGKYVKEVEVK--------NGVVTATMLSSGVNNEIKGKKLSLWAKRQD-GSVKWF
+CGQPVTRTNDDTVADGN----------------------*
+>P1;gi|15793288|ref|NP_283110.1| truncated pilin [Neisseria meningit... [ score 117 E 9e-26 ] [ range 8 .. 98 ]
+sequence
+----------------------------------------------------------------------
+--------AT--DIKGKYVEKVEVA--------KGVITAEMKSSGVNKEIQGKKLSLWAKRQA-GSVKWF
+CGQPVTRTNDDVKAATDTAKKIDTKHLPSTCRDDSS---*
+>P1;gi|21464534|gb|AAM52059.1| type IV pilin structural subunit [Pse... [ score 115 E 5e-25 ] [ range 7 .. 154 ]
+sequence
+FTLIELMIVVAIIGILAAVAIP-----AYQDYITRGQVTEAVSLGGGLKSPLAEYGADKNAWPTT-----
+ATPGAGQLNA--TLVGKYSSVDSTP--------NGQITVTM----TQGKASGKKLTF--STQD-GGSSWA
+CG------NASIDGFAGTGTTIDAKYLPNACK-------*
+>P1;gi|22978954|ref|ZP_00024690.1| COG4969: Tfp pilus assembly prote... [ score 113 E 1e-24 ] [ range 25 .. 167 ]
+sequence
+FTLIELMIVVAIIGILAGVAIP-----QYQDYIARSQFAEGMSLASGQKAGVIESFAAAGACPNN-----
+AAVDGVPVAS--AIKGSYVQSVTTG--------GCTIIAKFKDEGITRGLLGKQVTLTMGNAD-GSVTWQ
+CES-----------------SADKRYVPQAC--------*
+>P1;gi|14193664|gb|AAK56077.1| class II pilin [Neisseria meningitidis] [ score 111 E 7e-24 ] [ range 2 .. 127 ]
+sequence
+----QLMIVIAIVGILAAVALP-----AYQDYTARAQMSEALTLAEGQKSAVVEYYSDNGTFPAN-----
+NTSAGIAASS--TITGKYVSSVAVT--------AEAITAKMKKNGVNKDISEKTLVLVGKQNS-GSFSWT
+CQK------------------------------------*
+>P1;gi|21232528|ref|NP_638445.1| pilin [Xanthomonas campestris pv. c... [ score 109 E 2e-23 ] [ range 6 .. 144 ]
+sequence
+FTLIELMIVVAVIAILAAIALP-----AYQDYLVRAQVSEGLSLASGAKVAVEEFHWAKSASPST-----
+NIEAGLGSPE--SIKGKYVSSVTVE--------DGVITVAFSSGDASRSIRTSHLQLVPDSGA-GSTVWR
+CN--------------GSGTTIQSKYLPQACR-------*
+>P1;gi|34499664|ref|NP_903879.1| type IV pilin [Chromobacterium viol... [ score 107 E 6e-23 ] [ range 10 .. 154 ]
+sequence
+FTLIELMIVVAIVGILAAIAIP-----AYQDYTKRARVSEGLALADAAKTAVTEYYATNNAWATA-----
+PFNTTYGLAA--SITGNSVSSINVL--------ANGVVQIAYNSTVSN---GALVDLVPTVSA-GSVQWY
+C----TYTGSGTTAIAS-ASQLSANWVPSTCR-------*
+>P1;gi|729393|sp|Q07564|ECPC_EIKCO FIMBRIAL PROTEIN ECPC PRECURSOR (... [ score 106 E 2e-22 ] [ range 9 .. 145 ]
+sequence
+FTLIELMIVIAIIGILAAIALP-----AYQDYVARSQMSEAFNLAGGQKGAVSEYYSDKGVWP-------
+ADNAAAGIAA--TVNGKYVNSVVVT--------NGVITATMKSTGVAKGVQGKTLALKGTAND-GSFSWE
+CSSNA-----------------DAKYLPSSCRN------*
+>P1;gi|642650|gb|AAC41410.1| type 4 pilin >gi|18535594|gb|AAL12242.1... [ score 104 E 6e-22 ] [ range 7 .. 179 ]
+sequence
+FTLIELMIVVAIIGILAAVALP-----AYQDYTIRARVTEGVGLAASAKTLIGDSSATAGELAAS-----
+ARVWNAQAGN--AATSKYVTSVQIA--------TGEITVTFNAANVGNIPANSTLVFTPYVQN-GSIDWG
+CASDSNAVSSGTDRNALTAGTLPARFAPSECR-------*
+>P1;gi|21232529|ref|NP_638446.1| pilin [Xanthomonas campestris pv. c... [ score 100 E 1e-20 ] [ range 7 .. 141 ]
+sequence
+FTLIELMIVVAIIAILAAIALP-----AYQDYLARSQVSEGLSLASGAKTAVAETYANTGAFPAT-----
+NAAAGLEAAA--NIKGKYVTSVTVA--------GGIITAAFNT--ANAKLSGKNLVLTPTDNN-GSISWG
+C---------------TNGTTIDQKYLPTSCR-------*
+>P1;gi|729394|sp|Q07565|ECPD_EIKCO FIMBRIAL PROTEIN ECPD PRECURSOR (... [ score 96 E 3e-19 ] [ range 8 .. 151 ]
+sequence
+FTLIELMIVIAIIGILAAIALP-----AYQSYTARAQVSEAISLMDGLKSSVADNYFNSMICADN-----
+QTHFGIAQRS--RISGNYVESIHTR--------NCEMLATFKSTDAAAPIRGKTVLLSMKIVD-GGTVWN
+CSS----------------SDLANEFLPTACR-------*
+>P1;gi|15793290|ref|NP_283112.1| truncated pilin [Neisseria meningit... [ score 95 E 4e-19 ] [ range 1 .. 67 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------MASSNVNNEIKDKKLSLWAKRQD-GSVKWF
+CGQPVKRDAADADVTADSGNEIDTKHLPSTCRDAASA--*
+>P1;gi|16118461|gb|AAL14431.1| fimbrial subunit [Dichelobacter nodosus] [ score 95 E 4e-19 ] [ range 8 .. 145 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGLTLADGLKVRISDH-LKSGECKED-----
+ANAAAGSLGN--DDKGKYAKNADDK--------NGCKVVINYGQGTAGEIVGKKLTL-DQFVN-GSYKYN
+EGET-----------------------------------*
+>P1;gi|15677981|ref|NP_273092.1| pilS cassette [Neisseria meningitid... [ score 94 E 7e-19 ] [ range 1 .. 72 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------MASSGVNKEIKGRKLSLWAKRQA-GSVKWF
+CGQPVERDDDVTAAAAANGKKIDTKHLPSTCRDAASA--*
+>P1;gi|78122|pir||B24886 P(-)rp(-) fimbrial protein - Neisseria gono... [ score 94 E 1e-18 ] [ range 8 .. 76 ]
+sequence
+FTLIELMIVIAIVGILALVALP-----AYQDYTARAQVSEAILLAEGQKSAVTEYYLNHGKWPEN-----
+NTSAGVASP-------------------------------------------------------------
+---------------------------------------*
+>P1;gi|120381|sp|P02975|FMAA_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 93 E 2e-18 ] [ range 8 .. 145 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGLTLADGLKVRISDHLESGECKGDA-----
+NPASGSLGND--D-KGKYAKTADEK--------NGCKVVITYGQGTAGEIVGKKLVL-DQFVN-GSYKYN
+EGET-----------------------------------*
+>P1;gi|23029074|ref|ZP_00067440.1| COG4969: Tfp pilus assembly prote... [ score 93 E 2e-18 ] [ range 33 .. 164 ]
+sequence
+FTLIELMIVVAIIGILAAIALP-----AYNDYTTRAKVSEGIGLAAAAKSAVSEYRISLAAYPTN-----
+NTLAGL--PT--QIASKYVSSVNVG--------AGGIITVGY-KAAAGVTAASTIIFRPTFAT-GTVDWT
+C----------------TGGTVQDSYRPSNCR-------*
+>P1;gi|16930778|gb|AAL32049.1| type IV pilin PilA [Vibrio vulnificus] [ score 92 E 5e-18 ] [ range 13 .. 138 ]
+sequence
+FTLIELMIVVAIIGVLAAVAIP-----AYQNYVQKTEVASASATVRGLLTNIDMYQQENGGTFPN-----
+NANGGTSTMN--ALGTITLLPVGTS--------GGTATFAF----TEGTLKGKTASVQYSKNN--TTGWS
+CATKNVPTDS-----------------------------*
+>P1;gi|120389|sp|P17827|FMAI_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 91 E 7e-18 ] [ range 8 .. 156 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKIRIAENLQDGCKGPDA-----
+DPSTGVVGNE--DV-GKFGKAVGDE--------NGCQVLITYGEGVSSLIKGKKLQLN-QLVN-GSYT--
+---------------QGDGTDLPAKFIPNA---------*
+>P1;gi|2773054|gb|AAB96661.1| fimbrial subunit protein precursor Fim... [ score 91 E 8e-18 ] [ range 8 .. 139 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGLTLADGLKIRIADHLENGSCTEDA-----
+AAASGEKGNE--DI-GKYGKAVDAE--------NGCIVTITYGEGVSKLIKGKDLILS-QLVN-GSYT--
+---------------------------------------*
+>P1;gi|44478933|gb|EAJ55710.1| unknown [environmental sequence] [ score 91 E 8e-18 ] [ range 7 .. 162 ]
+sequence
+FTLIELMIVVAIIGILAAIAIP-----SYNDYTARAQVTEGVNLTGGLKTCIAEAISDKGKAPNA-----
+IEDCGAYSGG--DAKGKFVNKIECD--------KCGIIAHFKSDGVASDIKSKKFAI---GTT-DGVNWA
+CGKLTTPVD------VSGDTDLENRHLPGSCK-------*
+>P1;gi|120378|sp|P27689|FMA3_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 91 E 9e-18 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+DPQSGVVGNE--D-KGKYKTEAGDP--------NGCKVEITYGQGTAGDITGKKLVL-DQLVN-GSFV--
+---------------QGDGTDLADKFIPNA---------*
+>P1;gi|120385|sp|P17826|FMAF_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 91 E 1e-17 ] [ range 8 .. 153 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGLTLADGLKIRIADHLENGSCMETA-----
+NAGAGEKGNQ--DI-GKYGLAAKDE--------NGCKVTITYGQGVSKLIKGKTLILL-QLVN-GSYT--
+----------------QGGGDIDPKFVPNA---------*
+>P1;gi|15054107|gb|AAG37437.1| fimbrial subunit [Dichelobacter nodosus] [ score 90 E 2e-17 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKSRIAENLQDECKGPDA-----
+DPQSGVVGNE--D-KGKYATEAGDP--------NGCKVEITYGQGTAKLITGKKLVL-DQLVN-GSFV--
+---------------QGDGTDLADKFIPNA---------*
+>P1;gi|21243966|ref|NP_643548.1| fimbrillin [Xanthomonas axonopodis ... [ score 90 E 2e-17 ] [ range 9 .. 144 ]
+sequence
+FTLIELMIVIAIIAVLASIAIP-----QYQIYVAKSQVAAGLAEVSPGKTRYEI--LVNDSEGST-----
+LTSASAIGLT--ATATSRCSSISVA--------NGAAHAIDCTLRGNPRVNGAKLT-WARDAN-GI--WT
+CSTDLPLVDKDRFAPAS----------------------*
+>P1;gi|120375|sp|P27688|FMA0_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 89 E 3e-17 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+DPQSGVVGNE--DI-GKYALAAGAP--------NGCKVEITYGQGISKLITGKKLVL-DQLVN-GSF---
+--------------IAGDGTDLADKFMPNA---------*
+>P1;gi|120382|sp|P17822|FMAB_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 89 E 3e-17 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+NTASGVVGNE--D-KGKYKTEAGDP--------NGCKVEITYGQGTAGDITGKKLVL-DQLVN-GSF---
+--------------IAGDGTDLADKFIPNA---------*
+>P1;gi|16118469|gb|AAL14435.1| fimbrial subunit [Dichelobacter nodosus] [ score 89 E 3e-17 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+DPQSGVVGNE--D-KGKYATEAGDP--------NGCKVEITYGQGISKLITGKKLVL-DQLVN-GSFV--
+---------------QGDGTDLADKFIPNA---------*
+>P1;gi|97357|pir||D41491 pilin precursor - Dichelobacter nodosus (st... [ score 88 E 4e-17 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKIRIAENLQDECKGPDA-----
+DPASGVVGNQ--DIKGDYDESKTDA--------NGCKVEIAYGQGISKLITGKKLVL-DQLVN-GSFV--
+---------------QGDGTDLADKFIPNA---------*
+>P1;gi|16759141|ref|NP_454758.1| prepilin peptidase dependent protei... [ score 88 E 5e-17 ] [ range 7 .. 121 ]
+sequence
+FTLIELMVVIGIIAILSAIGIP-----AYQNYLRKAALTDMLQTFVPYRTAVELCALEHGGTSTC-----
+DAGVNGI-PS--PVITRYVSGMSVE--------KGVITLT-----GQESLSGLSVIMTPDNAN-GITGWT
+---------------------------------------*
+>P1;gi|97355|pir||C41491 pilin precursor - Dichelobacter nodosus (st... [ score 88 E 6e-17 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+DPQSGVVGNQ--D-KGKYATEAGDP--------NGCKVEITYGQGISKLITGKKLVLE-QLVN-GSF---
+--------------IAGAGTDLADKFIPNA---------*
+>P1;gi|97353|pir||B41491 pilin precursor - Dichelobacter nodosus (st... [ score 88 E 7e-17 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+DPASGVVGNE--D-KGKYATEAGDP--------NGCKVEITYGQGISKLITGKKLVL-DQLVN-GSF---
+--------------IAGDDTDLADKFIPNA---------*
+>P1;gi|16118467|gb|AAL14434.1| fimbrial subunit [Dichelobacter nodosus] [ score 87 E 1e-16 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+NQASGIVGNE--D-KGKYGLAAGDP--------NGCKVEITYGQGTAGDITGKKLVL-DQLVN-GSF---
+--------------IQGDGTDLADKFIPNA---------*
+>P1;gi|16118463|gb|AAL14432.1| fimbrial subunit [Dichelobacter nodosus] [ score 87 E 1e-16 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+NQASGIVGNE--D-KGKYGLAAGDP--------NGCKVEITYGQGISKLIPGKKLVL-DQLVN-GSF---
+--------------IQGDGTDLADKFIPNA---------*
+>P1;gi|120391|sp|P27906|FMAX_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 87 E 1e-16 ] [ range 8 .. 156 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGLTLADGLKIRIADHLENGSCTEDA-----
+NAGAGEKGNE--D-KGKYALAVEDK--------NGCKVVITYGQGTAGSIDTKVLELE-QLVN-GSYT--
+---------------QGDATTLDAKFIPNA---------*
+>P1;gi|16128101|ref|NP_414650.1| prelipin peptidase dependent protei... [ score 87 E 1e-16 ] [ range 7 .. 121 ]
+sequence
+FTLIELMVVIGIIAILSAIGIP-----AYQNYLRKAALTDMLQTFVPYRTAVELCALEHGGLDTC-----
+DGGSNGI-PS--PTTTRYVSAMSVA--------KGVVSLT-----GQESLNGLSVVMTPDNAN-GVTGWT
+---------------------------------------*
+>P1;gi|16118459|gb|AAL14430.1| fimbrial subunit [Dichelobacter nodosus] [ score 87 E 1e-16 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+DPQSGVVGNE--N-KGKYALAAGDP--------NGCKVEITYGQGTAGDITGKKLVL-DQLVN-GSF---
+--------------IQGDGTDLADKFIPNA---------*
+>P1;gi|16118465|gb|AAL14433.1| fimbrial subunit [Dichelobacter nodosus] [ score 87 E 1e-16 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+NQASGIVGNE--D-KGKYKTDAGDP--------NGCKVEITYGQGTAGDITGKKLVL-DQLVN-GSF---
+--------------IQGDGTDLADKFIPNA---------*
+>P1;gi|120380|sp|P27691|FMA7_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 87 E 1e-16 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+DPASGVVGNQ--D-KGKYALAAGDP--------NGCQVEITYGQGISKLITGKKLVLE-QLVN-GSF---
+--------------IAGAGTDLADKFIPNA---------*
+>P1;gi|120452|sp|P17416|FMZD_BACNO POSSIBLE MINOR FIMBRIAL PROTEIN P... [ score 87 E 2e-16 ] [ range 7 .. 158 ]
+sequence
+FTLIELMIVVAIIGVLASIALM-----QYQNFVVRSQVTRVLMEAGELRLAVEQCLNDGTTTVGN-----
+NECDPRASGS--NIISGASQVIAAN--------TGVVTATFNNSAASI-IHGKKL-IWQRQKS-GS--WY
+CHSNAA-----------------EKFLPSGCKYDAS---*
+>P1;gi|16123574|ref|NP_406887.1| putative prepilin peptidase depende... [ score 86 E 3e-16 ] [ range 13 .. 153 ]
+sequence
+FTLIELMVAVAIIAVLSGIGIP-----SYQRYIQKAALTDMLQAIVPYKMAVELCALEQSNLDSC-----
+NAGSNGIPAG--QVS-RYINAINIA--------KGVITL-----SGQHTLTGLTLAISPTRNN-GNLVW-
+-ARTCTATDSAMTDSCKAVFRFNDK-APSN---------*
+>P1;gi|10567795|gb|AAG18586.1| pilin major subunit [Pseudomonas fluo... [ score 85 E 4e-16 ] [ range 7 .. 124 ]
+sequence
+FTLIELLIVVAIIGILATFALP-----QYSKYQARAKVTVGLAEASSLKVPVEDLLNKGTSPTAA-----
+NT---GVPAS--SNNCTMSVSGDAT--------AGTATVTCAIKEAPSSIVGKTITLS---RA-GTGVWS
+CSSNV----------------------------------*
+>P1;gi|120420|sp|P17838|FMP1_PSEAE Fimbrial protein precursor (Pilin... [ score 85 E 4e-16 ] [ range 8 .. 139 ]
+sequence
+FTLIELMIVVAIIGILAAIAIP-----AYQDYTARAQLSERMTLASGLKTKVSDIFSQDGSCPAN-----
+TAATGIEKDT--DINGKYVAKVTTG--------GCTIVATMKASDVATPLRGKTLTLTGNADK-GSYTWA
+CTSN-----------------------------------*
+>P1;gi|44016823|gb|EAG67057.1| unknown [environmental sequence] [ score 85 E 4e-16 ] [ range 8 .. 162 ]
+sequence
+FTLIELMIVVAIIGILAAVALP-----AYQDYTTRAKVTEGLSLASAAKVAVAENAANGKPYGA------
+----GWIAPN----KTNNVEKVEIN--------EGTITYAQGIAGAGNPIDGPKVAFTGGTST-SSNIPT
+SGSISWNCRAAASQGVGVAGTINAKYTPAECR-------*
+>P1;gi|625696|pir||A61472 hypothetical pilin protein, copy 1 - Neiss... [ score 85 E 5e-16 ] [ range 2 .. 69 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------IMASSGVNNEIKDKKLSLWAKRQD-GSVKWF
+CGLPVARTDDDVKAATANGTDINTKHLPSTCRD------*
+>P1;gi|30249287|ref|NP_841357.1| Fimbrial protein pilin:Bacterial ge... [ score 85 E 6e-16 ] [ range 8 .. 129 ]
+sequence
+FTLIELMIVVAIIGILAAVAIP-----AYSDYQAKSKVTAGLAEISAGKTAFEERVNNGDTVGTD-----
+PTVIGLKTPT--------SNCTIVT--------SGTTIECTLTN-APSQVSGKKITLT--RTD-GT--WS
+C-----------------ATDADNKYAPKSC--------*
+>P1;gi|21233181|ref|NP_639098.1| fimbrial protein [Xanthomonas campe... [ score 84 E 8e-16 ] [ range 1 .. 133 ]
+sequence
+------MIGVVVFGIVAAIALP-----AYQDYTARAKVSQAIGALAPLKPQIAEFLEREGRCPTN-----
+D-DAGFHPPE--HYATGTLGIVRIT--------AQCGVEALLHMPDNAKLDGK--PLWLDLDQ-DASSWD
+CSS-----------------EIDDKFLPQDCR-------*
+>P1;gi|120453|sp|P17417|FMZH_BACNO POSSIBLE MINOR FIMBRIAL PROTEIN P... [ score 84 E 1e-15 ] [ range 7 .. 158 ]
+sequence
+FTLIELMIVVAIIGVLASTALM-----QYQNFVVRSQVTRVLMEAGELRLAVEQCLNDGTTKGSN-----
+IISGASQNPE--IVIAANTGVVQFP--------NPLTEETALTATFNNSIHGKKL-IWQRQKS-GS--WY
+CHSNAA-----------------EKFLPSGCKYDAS---*
+>P1;gi|44478932|gb|EAJ55709.1| unknown [environmental sequence] [ score 84 E 1e-15 ] [ range 7 .. 168 ]
+sequence
+FTLIELMIVVAIIGILAAIAIP-----SYKDYVARSQVTEAVKLTGGLKACISQGINEKGLAPSM-----
+SNCGHVGPID--KRSGKYVSPISID--------KNVIIAKFKNSGVSSQVNGETLAIGTM----DGYNWV
+CG---FSPNAEFGAKISANTSLSVRLLPGACKN------*
+>P1;gi|16330342|ref|NP_441070.1| general secretion pathway protein G... [ score 83 E 2e-15 ] [ range 24 .. 162 ]
+sequence
+FTLLELLVVVIILGVLGAMTLP-----NLFSQIGKAREAEAKQILSAIGQAQQSYFFEKASFAES-----
+NQALEISFQS--DISEPQLIGTDVA--------KSSATAT---NGVQQNARNFAMGVYYENQT-YRVV-L
+CQSPVPAETNSTEAPNNSSGD------------------*
+>P1;gi|22988088|ref|ZP_00033158.1| COG4969: Tfp pilus assembly prote... [ score 83 E 3e-15 ] [ range 94 .. 259 ]
+sequence
+FTLIELMIVLAIVGVIAAYAIP-----AYQDYLARSRVGEGLSLAASARLAVSENAAS-----GN-----
+AFSGGYASPP--ATRNVESIRVDDD--------TGQITVAF-TTRV-APAGSNTLTLVPSVQA-GALTWE
+CKTASSLPAPGAGPAPADAPSLASNLAPPECR-------*
+>P1;gi|9587173|gb|AAF89188.1| putative fimbrial subunit PilA [Actino... [ score 82 E 3e-15 ] [ range 33 .. 155 ]
+sequence
+FTLIELMIVIAIVAILATVAVP-----SYQNYTKKAAVSELLQASAPLRSEVELCIYNTGKAENC-----
+QNGIQADVAD--ASKQKYVKSTAVK--------GGVITVTGKGSLDKISY---TLTASGTAAS-G-VSWA
+CGN------------------------------------*
+>P1;gi|1562568|gb|AAB48594.1| KdpD [Kingella denitrificans] [ score 82 E 4e-15 ] [ range 12 .. 156 ]
+sequence
+FTLIELMIVIAIIGILAAIALP-----AYQEYVGRAQAMEAFTLSDGLRNEIAIWAAEYHSFPDN-----
+NGYIGLQAVV---LKGKYGGVSVGS--------NGRILVTFANGNLSGQTMVLTPTLNMVNNE-QIIKWK
+CGSDP-------------ANTAQERYLAVSCR-------*
+>P1;gi|43884734|gb|EAF96319.1| unknown [environmental sequence] [ score 82 E 4e-15 ] [ range 18 .. 134 ]
+sequence
+FSLIELMVVVAIIGILATVSVV-----AYSGYISSSKKTTMRSLMQAVALAESEWYAETGSYLTN-----
+SEDE-TCNPS--DATIETINENLFE--------DEDVIPDDLTMCVASAAGGGSFQIFAEKDN-GGT---
+---------------------------------------*
+>P1;gi|23466645|ref|ZP_00122233.1| COG4969: Tfp pilus assembly prote... [ score 82 E 5e-15 ] [ range 43 .. 158 ]
+sequence
+FTLIELMIVIAIVAILATIAIP-----SYQNYTKKAAITELLQASAPYRAEVELCVYNNDTNCNA-----
+GTNGIQAAIN--TPKGK-VKSITVK--------GGAITVT-----GNGNLKDITYTLTPTGDA-STVTWS
+---------------------------------------*
+>P1;gi|17545277|ref|NP_518679.1| TYPE 4 FIMBRIAL PILIN SIGNAL PEPTID... [ score 81 E 7e-15 ] [ range 15 .. 168 ]
+sequence
+FTLIELMIVVAIVGILAAIAIP-----AYQDYTVRARVTEGLSLAAQAKALVSENAANAQSDLS------
+VGSSVFTPTK--NVANLTIAGTGTV--------PGQITVTYTTAAG-----GGTLALVPTAAS-GPIMWT
+CYAQNKAQAASSVAPSGT-MSLAAKYAPAECR-------*
+>P1;gi|120387|sp|P11933|FMAG_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 81 E 7e-15 ] [ range 8 .. 150 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARTQVSEGVSLADGLKIRIADNLQDGKCTSEG-----
+DPASGEVGNT--DM-GKYALATKDP--------NGCKVKIEYGKGTAGDIKGQMLVLN-QLVN-GSYDKD
+SSSTVKP--------------------------------*
+>P1;gi|120379|sp|P27690|FMA6_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 81 E 9e-15 ] [ range 8 .. 155 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGVSLADGLKVRIAENLQDECKGPDA-----
+DPASGVVGNK--D-TGKYATAAGDP--------NGCKVNITYGQGTAADITGKKLVL-DQLVN-GSF---
+--------------IQGDGTDLADKFIPNA---------*
+>P1;gi|120377|sp|P17824|FMA2_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 80 E 2e-14 ] [ range 8 .. 141 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARTQVSEGVSLADGLKIRIADNLQDGDCVTKG-----
+DSSTGEVGNE--D-KGKYALATEDP--------NGCQVKIEYGKGTSGALINNTELVLAQLAN-GSYK--
+---------------------------------------*
+>P1;gi|32423754|gb|AAP81278.1| PilE [Pseudomonas aeruginosa] [ score 80 E 2e-14 ] [ range 7 .. 130 ]
+sequence
+FTLIELMIVVVIIAILAGIAYP-----SYDEYVKRGNRTEGQALLSEAAATQERYFSQNNTYITT-----
+QADIGGTTVK--SSTGKYSLTVDTV--------ANDGGYRLIANQAFNDLDCGNLTLTANGEK-GRT---
+---------------------------------------*
+>P1;gi|17545276|ref|NP_518678.1| PROBABLE TYPE 4 FIMBRIAL PILIN SIGN... [ score 79 E 3e-14 ] [ range 16 .. 173 ]
+sequence
+FTLIELMIVVAIIGILAALAIP-----AYQDYTIRSRVVEGLALAGQAKALVVENAANAQSSLSL-----
+GSASLPASKN--NIDSSTGEIAVVY--------APAVTEAGANTLVLTPYSGSS-SVFGNLQA-GSVLWV
+CAAAGKSMPVNTVTQRTTAT-LPPKYAPSECR-------*
+>P1;gi|120376|sp|P17823|FMA1_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 79 E 4e-14 ] [ range 8 .. 141 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARTQVSEGVSLADGLKIRIADNLQDGDCTTKG-----
+DASTGEVGNE--D-KGKYALATEEK--------NGCLVKIEYGKGTSGALINNTELVLAQLAN-GSYV--
+---------------------------------------*
+>P1;gi|120384|sp|P17825|FMAE_BACNO FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 78 E 6e-14 ] [ range 8 .. 156 ]
+sequence
+FTLIELMIVVAIIGILAAFAIP-----AYNDYIARSQAAEGLTLADGLKIRIADHLENGSCTEDA-----
+NAGAGEKGNQ--DIGGTYAQKPEDK--------NGCTVTITYGKGISKLIDTKVLELE-QLVN-GSYT--
+---------------QGGATTLDAKFIPNA---------*
+>P1;gi|44451170|gb|EAJ36080.1| unknown [environmental sequence] [ score 78 E 9e-14 ] [ range 1 .. 164 ]
+sequence
+--MIELMIVLAIVGVIAAYAIP-----AYQDYLARSRVGEGLALASSARLAVADNAASGASL--------
+--DGGYSPPA--ATRNVESVVIDGE--------TGQITVAFTARVAAAGTN--TLVLVPSAQA-GTIAWE
+CGKGASSLPAPGAGPPGDAATLPAKYAPAECR-------*
+>P1;gi|44083692|gb|EAH03880.1| unknown [environmental sequence] [ score 77 E 2e-13 ] [ range 6 .. 123 ]
+sequence
+FTLIELLIVVAIIGILATIGLP-----MYTKHQAKAKFTAGLAEISA-LKAGYEDAINQGTVPTL-----
+ALIGGTSPTA--NCTIEVTGDVASG--------AGSIRCEILDAPA--PVLGKTITLT---RS-ATTGWS
+CATTV----------------------------------*
+>P1;gi|28899297|ref|NP_798902.1| type IV pilin PilA [Vibrio parahaem... [ score 76 E 2e-13 ] [ range 12 .. 137 ]
+sequence
+FTLIELMIVVAIIGVLAAAAIP-----AYQNYVTRSEVTSGLATVKALITPAELHYQENGAAAAT-----
+LAQLGVDVAA--NDLGAIDSALAGG--------SPTLTFTF---DADSSIDGGILTFTRDAAT-G---WS
+CLPTAPAIAVDG---------------------------*
+>P1;gi|44418502|gb|EAJ13041.1| unknown [environmental sequence] [ score 76 E 3e-13 ] [ range 9 .. 125 ]
+sequence
+FTLIEVMIAVVIVGILASIAYP-----SYIDYVVKSGRSEGVAAVMKVANLQEQYYLDNRAYATD-----
+MTKLGLAASV--TEHGRYSLSSGTS--------SFTITATAQGSQASRDSTCATITITSAGVK-G-----
+---------------------------------------*
+>P1;gi|23058745|ref|ZP_00083777.1| COG4969: Tfp pilus assembly prote... [ score 75 E 5e-13 ] [ range 9 .. 124 ]
+sequence
+FTLIELLIVVAIIGILATIALP-----QYSKYQARAKVTAGIAEASALKVNFEDVINAGSTDPST-----
+NVNAGTTATQ--NCTLAASGKVADG--------TGTITCTLLNAPA--PVLGQTVTLTRTAAA-G---WS
+C--------------------------------------*
+>P1;gi|44145594|gb|EAH37525.1| unknown [environmental sequence] [ score 75 E 5e-13 ] [ range 11 .. 127 ]
+sequence
+FTLVELMIAVAIVGILAAIALP-----SYQAYVIRSNRAAAAACLNEFAQFMERNYTQNMRYPAG-----
+FALPQLQCAE--QLSARYFSSVDAA--------LGQRTYTL--QAVPTTLDCGTLTLKSAGRK-G-----
+---------------------------------------*
+>P1;gi|21244529|ref|NP_644111.1| fimbrial protein [Xanthomonas axono... [ score 75 E 5e-13 ] [ range 37 .. 168 ]
+sequence
+---VGVFVMVGVIGILAAIALP-----AYNDYLSRAKVAEAVGELAALKPQITEFLASEGRCPAN-----
+D-DTGFKPPE--QYASERLSSVRIG--------SECGIEAVLHAPKSARIDGKAVWLELDADA-GS--WR
+CSS-----------------EIDDTQLPPDCR-------*
+>P1;gi|26987370|ref|NP_742795.1| type IV pili prepilin PilA [Pseudom... [ score 74 E 9e-13 ] [ range 8 .. 123 ]
+sequence
+-TLIELMIVVAIIGILATIALP-----MYTNHQARSKAAAGLLEISALKTAMDLRLNDGKDVADV-----
+AALGGQPATA--HCAITASGKAADG--------SGSIVCTLVDAPANA--LGKALTLTRS-----TSGWA
+CTTD-----------------------------------*
+>P1;gi|37680962|ref|NP_935571.1| type IV pilin PilA [Vibrio vulnific... [ score 74 E 1e-12 ] [ range 14 .. 139 ]
+sequence
+FTLIELMIVVGIIGILSALAVP-----AYKSYVIKTEANTAVGIPRTLLSNIDLYIQEKGAFPET-----
+ANIADVGGAT--DMSGLALTKDGTT--------ATNGTLIFTISNGQASLNNKKIT--YTRTG-GG--WK
+CTHDIPTT-------------------------------*
+>P1;gi|21464528|gb|AAM52055.1| type IV pilin structural subunit [Pse... [ score 73 E 2e-12 ] [ range 7 .. 178 ]
+sequence
+FTLIELMIVVAIIGILAAIALP-----AYQDYTVRTRVSEGLVLAEPAKLMISTDGSASTADLTR-----
+ATTTWNQQSN--NLSSKYVTSVAGN--------TGVITITYVADQVGLPTAGNTLILSPYIND-GTIDWA
+CTSASNATATAQGFTGMAAGSVPQEFAPAQCR-------*
+>P1;gi|43460937|gb|EAD85136.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 10 .. 144 ]
+sequence
+FTLIELMIVVAIIGILAAIALP-----QYNKYIARTQVAEAFTLLGPVKQALTLYYQENGAFPAR-----
+HAALGIPSHG--DASADYVRQIRVL--------GGQVRFDTEANGVSPEIERRRFNMMPALSS-GVITWT
+CA-------------------------------------*
+>P1;gi|3378198|gb|AAC28468.1| type IV pilin [Eikenella corrodens] [ score 73 E 2e-12 ] [ range 9 .. 153 ]
+sequence
+FTLIELMIVIAIIGILAAIALP-----AYQDYTARAQATEGFKATAGLQTDLGAWRADRGSFPNA-----
+AANVIFDSAN--GLDGKYFAP-------------GGVTVTPDTGAINIAFDGKTMTITP------TVIAA
+SGQISTWTCAPGAANG-----IETRRLPTSCQ-------*
+>P1;gi|3378199|gb|AAC28469.1| type IV pilin [Eikenella corrodens] [ score 72 E 4e-12 ] [ range 7 .. 148 ]
+sequence
+FTLIELMIVIAIIGILAAIALP-----AYDSYVGRSQAVEGFKLTSGLRDDIASIVADTNAFPTA-----
+PNGAIGSIAS--SLDGKYVQTVTAD--------TGVITV-LFDQGV---ISGSNMQLIPMFNN-ANIQWQ
+CG-----------------GTLNSRYLPSSCQ-------*
+>P1;gi|544334|sp|P36643|FMWC_PSEPU FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 72 E 5e-12 ] [ range 8 .. 134 ]
+sequence
+-TLIELMIVVAIIGILATIAIP-----MYTNHQSRTKAAAGLLEISALKTAMDLRLNEGKDVADV-----
+GALGGQPATA--HCAITASGNAAAG--------TGSIVCTLVDAPA--TVVGKALTLTRS-----ATGWG
+C-----------------TTNIEEDLAPSGCK-------*
+>P1;gi|28868147|ref|NP_790766.1| type IV pilus biogenesis protein [P... [ score 72 E 5e-12 ] [ range 7 .. 128 ]
+sequence
+FTLIELMIVVAIVGILAAVAIP-----SYQNYAKKAAYTEVLAAMASVKTAVGVCAAQQGTVADC-----
+DTAAGVTLPS--GATTGAVNKMEIT--------ATSAAITATPNAFKGILTTDTCSLTPAIAA-A-----
+-GSPVTW--------------------------------*
+>P1;gi|4455001|gb|AAD21029.1| type IV-A pilin precursor PilA [Vibrio... [ score 72 E 6e-12 ] [ range 12 .. 151 ]
+sequence
+FTLIELMIVVAVIGVLAAIAIP-----QYQNYVKKSAIGVGLANITALKTNIEDYIATEGSFPAT-----
+TTAAGFTRLG--TVEGKIVIAPTAS--------GGTIKYTFDAGVVSSS----KIQL-ARDAN-G--LWT
+CSTTVTSEIAPKGCTAGAT--------------------*
+>P1;gi|15793429|ref|NP_283251.1| putative pilin [Neisseria meningiti... [ score 71 E 7e-12 ] [ range 7 .. 144 ]
+sequence
+FTLVELISVVLILSVLALIVYP-----SYRNYVEKAKINTVRAALLENAHFMEKFYLQNGRFKQT-----
+STKWPSLPIK--EAEGFCIRLNGIA--------RGALDSKFMLKAVAID-KDKNPFIIKMNEN--LVTFI
+CKKSASSCSDGLDYFKGNDKD------------------*
+>P1;gi|417002|sp|P09829|FMM_MORNO FIMBRIAL PROTEIN PRECURSOR (PILIN)... [ score 71 E 7e-12 ] [ range 7 .. 150 ]
+sequence
+FTLIELMIVIAIIGILAAIALP-----AYQDYIARAQVSEAFTLADGLKTSISTNRQNGRCFA-D-----
+GKDTAADGVD--IITGKYGKATILE--------ENPNTADFNTTGVSDKLIGKTIALKADEKA-GKLV--
+-----------LETVNSKTTNVENKYLPSA---------*
+>P1;gi|14573306|gb|AAK68040.1| PilA [Pseudomonas aeruginosa] [ score 153 E 6e-37 ] [ range 35 .. 147 ]
+sequence
+---------------------------------ARSEGASALATINPLKTTVEESLSR-GIASKIKIGTT
+ASTATETYVGVEPDANKLG-VIAVAIENS-GAGDITFTFQTG--TSSPKNATKVITLNRT-A---DGVWA
+CES-----------------TQDPMFTPKGC--------*
+>P1;gi|151463|gb|AAA25945.1| pilin [ score 150 E 4e-36 ] [ range 40 .. 154 ]
+sequence
+---------------------------------ARSEGASALATINPLKTTVEESLSR-GIASKILIGTT
+ASTADTTYVGIDEKANKLG-TVAVTIKD-TGDGTVKFTFATG--QSSPKNAGKEITLNRT-A---EGVWT
+CTS-----------------TQEEMFIPKGCNK------*
+>P1;gi|120436|sp|P08015|FMP3_PSEAE FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 149 E 1e-35 ] [ range 35 .. 148 ]
+sequence
+---------------------------------ARSEGASALATINPLKTTVEESLSR-GIASKILIGTT
+ASTADTTYVGIDEKANKLG-TVAVTIKD-TGDGTIKFNFATG--QSSPKNAGREITLNRT-A---EGVWT
+CTS-----------------TQEEMFIPKGCN-------*
+>P1;gi|545132|gb|AAC60462.1| pilin [Pseudomonas aeruginosa] [ score 147 E 4e-35 ] [ range 35 .. 147 ]
+sequence
+---------------------------------ARSEGASALATINPLKTTVEESLSR-GIAGEIKIGSQ
+ASTADTTYVGVDATANKLG-TIAVTIGN-NGAGTVTFTFAAG--NSSPKNSGAIITLTRTDA----GSWA
+CTS-----------------TQDEMFIPKGC--------*
+>P1;gi|6433978|emb|CAB60735.1| pseudopilin PilAII [Pseudomonas stutz... [ score 118 E 2e-26 ] [ range 40 .. 140 ]
+sequence
+----------------------------------RSTAASALAEITPAKAAFEQAISE-GHTVSSLPGF-
+--------IGIGASTNYCT-VTLI----ATATGSITCT-TQN--GMPDRFNGKTITIART-T---DGLWD
+CTS-----------------DLDSRYKPGKC--------*
+>P1;gi|4186121|emb|CAA10652.1| type IV pilin subunit [Pseudomonas st... [ score 79 E 2e-14 ] [ range 38 .. 139 ]
+sequence
+----------------------------------RSNAAAALAEITPGKIGFEQAINE-GKTPSL-----
+-TSTDEGYIGITDSTSYCD-VDL----DTAADGHIECT-AKG--GNAGKFDGKTITLNRT-A---DGEWS
+CAS-----------------TLDAKYKPGKCS-------*
+>P1;gi|1073087|pir||S52692 fimbrillin - Xanthomonas campestris >gi|7... [ score 55 E 4e-07 ] [ range 35 .. 133 ]
+sequence
+---------------------------------AKSQVTAGLAEINPGKTQYEVALNE-GKT--------
+-TVADITELGLKSPSERCT-IAPITALSATGT--IECTLKGN--T---QVVGKKVTLTR-AN---DGTWT
+CKT-----------------DALKKYAPAGC--------*
+>P1;gi|20522249|gb|AAM26730.1| pilin [Pseudomonas aeruginosa] [ score 53 E 1e-06 ] [ range 1 .. 23 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------DA---DGLWK
+CTS-----------------DQDEQFIPKGCSR------*
+>P1;gi|26987370|ref|NP_742795.1| type IV pili prepilin PilA [Pseudom... [ score 51 E 7e-06 ] [ range 35 .. 133 ]
+sequence
+---------------------------------ARSKAAAGLLEISALKTAMDLRLND-GKDV-------
+---ADVAALGGQPATAHCA-ITA-SGKAADGSGSIVCTLV----DAPANALGKALTLTRSTS---G--WA
+CTT-----------------DIEDDLAPKGC--------*
+>P1;gi|30249287|ref|NP_841357.1| Fimbrial protein pilin:Bacterial ge... [ score 50 E 2e-05 ] [ range 36 .. 129 ]
+sequence
+---------------------------------AKSKVTAGLAEISAGKTAFEERVNN-GDTVGT-----
+----DPTVIGLKTPTSNCT-IV-------TSGTTIECTLT----NAPSQVSGKKITLTRT-----DGTWS
+CAT-----------------DADNKYAPKSC--------*
+>P1;gi|44083692|gb|EAH03880.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 34 .. 132 ]
+sequence
+---------------------------------AKAKFTAGLAEISALKAGYEDAINQ-GVPTLALIGGT
+SPTANC--------------TIEVTGDVASGAGSIRCEIL----DAPAPVLGKTITLTRSAT---TG-WS
+CAT-----------------TVEPQYAAKGC--------*
+>P1;gi|15839131|ref|NP_299819.1| fimbrial protein [Xylella fastidios... [ score 48 E 4e-05 ] [ range 35 .. 145 ]
+sequence
+---------------------------------ARSQIAAALAEITPGKVQAEIRIAD-G----------
+QAATTPNAIGLRAPTPRCG-TIVVDIAPSAASA-ITCTMIGN--A---QVNNQTITLTRIAT---GGNWT
+CTT-----------------TAPAALTPAGCT-------*
+>P1;gi|22978955|ref|ZP_00024691.1| COG4969: Tfp pilus assembly prote... [ score 47 E 6e-05 ] [ range 118 .. 234 ]
+sequence
+---------------------------------ARAQFAEGLTLASAQKAAVVESFSR-GFC----PSNS
+YSEYDGIPVSGHISGSYVQ-SVIVGGSATEGGCTITATFRTE--NVSPGLSGKTLTLTMSSG---SIAWL
+CKS-----------------DAENRYIPRSCT-------*
+>P1;gi|10567795|gb|AAG18586.1| pilin major subunit [Pseudomonas fluo... [ score 47 E 7e-05 ] [ range 35 .. 135 ]
+sequence
+---------------------------------ARAKVTVGLAEASSLKVPVEDLLNK-G---------T
+SPTAANT--GVPASSNNC--TMSVSGDATAGTATVTC--AIK--EAPSSIVGKTITLSRAGT----GVWS
+CSS-----------------NVAEEFLPGGCT-------*
+>P1;gi|21243967|ref|NP_643549.1| fimbrillin [Xanthomonas axonopodis ... [ score 47 E 9e-05 ] [ range 35 .. 131 ]
+sequence
+---------------------------------AKSQVTAGLAELSPGKTQYETLLNE-G------KGTT
+LTTADAVGLQATSTTNRCS-AITVAPDATTGEQTNALSCTLA--GS-PRIVGKKITWAR-DT---NGVWT
+CST-----------------D------------------*
+>P1;gi|2801829|gb|AAB97527.1| fimbrillin [Xanthomonas citri] [ score 47 E 9e-05 ] [ range 35 .. 131 ]
+sequence
+---------------------------------AKSQVTAGLAELSPGKTQYETLLNE-G------KGTT
+LTTADAVGLQATSTTNRCS-AITVLAPDATAGEQTNALSCTL--AGSPRIVGKKITWAR-DT---NGVWT
+CST-----------------D------------------*
+>P1;gi|21243966|ref|NP_643548.1| fimbrillin [Xanthomonas axonopodis ... [ score 47 E 1e-04 ] [ range 37 .. 145 ]
+sequence
+---------------------------------AKSQVAAGLAEVSPGKTRYE-------ILVNDSEGST
+LTSASA--IGLTATASRCS-SISVLAPDANGAQAIDCTLRGN-----PRVNGAKLTWAR-DA---NGIWT
+CST-----------------DLKDRFAPASC--------*
+>P1;gi|12963196|gb|AAK11163.1| FimA precursor [Xanthomonas hyacinthi] [ score 47 E 1e-04 ] [ range 35 .. 139 ]
+sequence
+---------------------------------AKSQVSAGLAEITPGKVQAETRIAE-GKAV-------
+--TTTQADVGLQASTSRCG--IAVSVDPS-GAATLTCTLKGN--A---QINGQTIQWTRAAT---TGVWT
+CTT-----------------AVVEKLRPATC--------*
+>P1;gi|1073088|pir||S52693 fimbrillin - Xanthomonas campestris >gi|7... [ score 46 E 2e-04 ] [ range 35 .. 135 ]
+sequence
+---------------------------------AKAQLTAALAELRPGKTTIEAAVQD---------GTN
+PSVIDAPYIGLLSSTRCAR-VSAVL--SSTGVAEISCTLQ-----GSALVSGMDLKLRRS-A---DGGWI
+CDS-----------------AFDAKYRPAGC--------*
+>P1;gi|544334|sp|P36643|FMWC_PSEPU FIMBRIAL PROTEIN PRECURSOR (PILIN... [ score 45 E 4e-04 ] [ range 35 .. 133 ]
+sequence
+---------------------------------SRTKAAAGLLEISALKTAMDLRLNE-GKDV-------
+---ADVGALGGQPATAHCA-ITA-SGNAAAGTGSIVCTLV----DAPATVVGKALTLTRSAT---G--WG
+CTT-----------------NIEEDLAPSGC--------*

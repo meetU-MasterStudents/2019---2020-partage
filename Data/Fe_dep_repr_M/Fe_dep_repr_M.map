@@ -1,0 +1,572 @@
+>P1;2dtr
+structureX:2dtr:  65 : : 140 : :diphtheria toxin repressor:Corynebacterium diphtheriae: 2.0: 1.7
+TPTGRTLATAVMRKHRLAERLLTDIIGLDINKVHDEACRWEHVMSDEVERRLVKVLKDVSRSPFGNPIPG
+LDELGV*
+>P1;1fx7a
+structureX:1fx7:  65 :A: 140 :A:iron-dependent repressor:Mycobacterium tuberculosis: 2.00: 21.4
+TEKGRALAIAVMRKHRLAERLLVDVIGLPWEEVHAEACRWEHVMSEDVERRLVKVLNNPTTSPFGNPIPG
+LDELGV*
+>P1;gi|7110452|gb|AAF36925.1| transcriptional regulatory protein Dtx... [ score 121 E 5e-27 ] [ range 65 .. 140 ]
+sequence
+TDKGRDLAISVMRKHRLAERLLVDVIGLKWEDVHAEACRWEHVMSEEVERRLVVVLNNPTTSPYGNPIPG
+LDQLGL*
+>P1;gi|15827486|ref|NP_301749.1| iron dependent repressor [Mycobacte... [ score 118 E 2e-26 ] [ range 65 .. 139 ]
+sequence
+TTKGRAMAIAVMRKHRLAERLLVDVIGLPWEEVHAEACRWEHVMSEDVERRLIKVLNNPTTSPFGNPIPG
+LLDLG-*
+>P1;gi|21222784|ref|NP_628563.1| iron repressor [Streptomyces coelic... [ score 118 E 2e-26 ] [ range 65 .. 139 ]
+sequence
+TDEGRRLATRVMRKHRLAECLLVDVIGLEWEQVHAEACRWEHVMSEAVERRVLELLRHPTESPYGNPIPG
+LEELG-*
+>P1;gi|23019461|ref|ZP_00059171.1| COG1321: Mn-dependent transcripti... [ score 118 E 3e-26 ] [ range 56 .. 131 ]
+sequence
+TEEGRRLATQVMRKHRLAERLLVDIIGLPWEDVHVEACRWEHVISEAVEERLIGLLKEPWTCAHGNPIPG
+LDELGV*
+>P1;gi|10334814|gb|AAG16749.1| iron dependent regulatory protein [Rh... [ score 118 E 4e-26 ] [ range 67 .. 142 ]
+sequence
+TEKGRNLAVAVMRKHRLAERLLVDIIGLEWDQVHAEACRWEHVMSEDVERRLVEVLKNPTTSPYGNPIPG
+LADLGL*
+>P1;gi|1171105|gb|AAA86056.1| similar to the Corynebacterium dipther... [ score 118 E 4e-26 ] [ range 65 .. 140 ]
+sequence
+TDKGRALAVAVMRKHRLAERLLVDVIGLPWEDVHAEACRWEHVMSEEVERRLVQVLENPTTSPFGNPIPG
+LTELAV*
+>P1;gi|15609925|ref|NP_217304.1| sirR [Mycobacterium tuberculosis H3... [ score 117 E 5e-26 ] [ range 72 .. 143 ]
+sequence
+TDSGRRAALAMVRRHRLLETFLVNELGYRWDEVHDEAEVLEHAVSDRLMARIDAKLGFPQRDPHGDPIPG
+AD----*
+>P1;gi|44504840|gb|EAJ72743.1| unknown [environmental sequence] [ score 114 E 4e-25 ] [ range 80 .. 151 ]
+sequence
+TESGDCLAKIVIRRHRITERFLSEVLNLPWADVYKEASKWENVLSPLTEKAMLEILGNPTTGPFGNPIPY
+SN----*
+>P1;gi|25028368|ref|NP_738422.1| diptheria toxin repressor [Coryneba... [ score 113 E 1e-24 ] [ range 76 .. 151 ]
+sequence
+TPEGRALAIAVMRKHRLAERLLTDIIGLDIHKVHDEACRWEHVMSDEVERRLVEVLDDVTRSPFGNPIPG
+LADIGL*
+>P1;gi|23136455|ref|ZP_00118175.1| COG1321: Mn-dependent transcripti... [ score 112 E 2e-24 ] [ range 64 .. 132 ]
+sequence
+TKKGKKEALQIIRKHRLWEVFLVDKLKFHWDEVHDIAEQLEHIQSSVLISRLDEFLGNPAFDPHGDPIP-
+------*
+>P1;gi|22971735|ref|ZP_00018665.1| hypothetical protein [Chloroflexu... [ score 112 E 2e-24 ] [ range 82 .. 155 ]
+sequence
+TATGFQLAEAMVRRHRILEHFLVDVMGLPWHLIHEEAVRLEHTLSPVMEERIMALVGHATTCPHGNPIPG
+QNEV--*
+>P1;gi|43211792|gb|EAC71438.1| unknown [environmental sequence] [ score 111 E 3e-24 ] [ range 68 .. 139 ]
+sequence
+TSKGKSLARQVVRRHRLAERFLTDILGLSWAEAHHEAGKWEHVVSPRVEAAFIRMLEDPTTCPHGNPIPG
+SE----*
+>P1;gi|43502003|gb|EAE05767.1| unknown [environmental sequence] [ score 111 E 4e-24 ] [ range 2 .. 72 ]
+sequence
+-PKAKELATTIVRRHRLAERFLTDVLGWNWTDAHSEAGRWEHVISPTVEEAMLQALGDPDTCPHGNPIPG
+SN----*
+>P1;gi|19553124|ref|NP_601126.1| Mn-dependent transcriptional regula... [ score 111 E 5e-24 ] [ range 65 .. 140 ]
+sequence
+TPEGRSLAIAVMRKHRLAERLLTDIIGLDIHKVHDEACRWEHVMSDEVERRLVEVLDDVHRSPFGNPIPG
+LGEIGL*
+>P1;gi|23018165|ref|ZP_00057884.1| COG1321: Mn-dependent transcripti... [ score 111 E 6e-24 ] [ range 70 .. 141 ]
+sequence
+TPTGDKVALAVLRRHRLIELYLVEELGYSWDEVHDEAEVLEHVVSDRFVERIAERLGHPTVDPHGDPIPT
+SD----*
+>P1;gi|44469296|gb|EAJ48817.1| unknown [environmental sequence] [ score 110 E 6e-24 ] [ range 64 .. 135 ]
+sequence
+TQAGLCLAKIVSRRHRITERFLSEVLNLPWEDVYKESSRWENILSPTTEKAMLEILGNPTTGPFGNPIPY
+SN----*
+>P1;gi|44471158|gb|EAJ50086.1| unknown [environmental sequence] [ score 110 E 6e-24 ] [ range 68 .. 139 ]
+sequence
+TETGLCLAKCISRRHRITERFLSEILNLPWDQVYEETSRWENVLSPVTEKAMLKLLGYPNTGPFGNPIPY
+SN----*
+>P1;gi|43752048|gb|EAF30439.1| unknown [environmental sequence] [ score 110 E 7e-24 ] [ range 68 .. 139 ]
+sequence
+-AAGSKLALKIIRKHRLWEVFLVNHLNFKWDQVHEIAEQLEHIKSSELISRLDDFLGNPTIDPHGDPIP-
+-DENG-*
+>P1;gi|25027207|ref|NP_737261.1| putative regulatory protein [Coryne... [ score 110 E 8e-24 ] [ range 94 .. 167 ]
+sequence
+TATGRALALEMVRRHRLLETFLHDVLGYTWDEVHEDADLLEHAASDRLIARIDAHLGHPRRDPHGDPIPT
+AEGL--*
+>P1;gi|44080551|gb|EAH02157.1| unknown [environmental sequence] [ score 110 E 8e-24 ] [ range 66 .. 137 ]
+sequence
+--KGYLHAKIILRKHRLWETFLVKKLDFSWHEVHEIAEQLEHIKSDKLINKIDEFLDFPKYDPHGEPIPS
+KDGL--*
+>P1;gi|44358044|gb|EAI70464.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 69 .. 137 ]
+sequence
+TRTGQVLALRMIRRHRLIEQFLVQTLSMNWDEVHDEAEHMEHAVSDFLVDRIDEYLGKPDVDPHGDPIP-
+------*
+>P1;gi|22972770|ref|ZP_00019630.1| hypothetical protein [Chloroflexu... [ score 109 E 1e-23 ] [ range 41 .. 114 ]
+sequence
+TPAGERIALEVIRHHRLLELYLVEALGYSWDEVHEEAERLEHHISEKLEARIAERLGFPDFDPHGDPIPG
+IDGV--*
+>P1;gi|21222420|ref|NP_628199.1| iron dependent repressor [Streptomy... [ score 108 E 3e-23 ] [ range 65 .. 139 ]
+sequence
+TDTGRRLATRVMRKHRLAECLLVDVIGLEWEQVHAEACRWEHVMSEAVERRLLRLLRHPTESPYGNPIPG
+LEELG-*
+>P1;gi|19551873|ref|NP_599875.1| Mn-dependent transcriptional regula... [ score 108 E 4e-23 ] [ range 69 .. 142 ]
+sequence
+TEQGKTLAIDMVRRHRLLETFLHDVLGYTWDEVHADADLLEHAASDQLIERIDAHLGRPRKDPHGDPIPT
+AEGV--*
+>P1;gi|44091436|gb|EAH08005.1| unknown [environmental sequence] [ score 107 E 5e-23 ] [ range 24 .. 92 ]
+sequence
+TRAGKMLALRMIRRHRLIELFLLRTLDMTWDEVHDEAENMEHAVSDLLVDRIDAFLGFPDVDPHGDPIP-
+------*
+>P1;gi|28572287|ref|NP_789067.1| iron-dependent repressor [Tropherym... [ score 106 E 1e-22 ] [ range 57 .. 128 ]
+sequence
+TSKGRKIALSVVRKHRLAEVLLHDVVGLEWEHIHLEACRLEHVMSDHLEEHLRRILNNPSFTTYGTPIPP
+AD----*
+>P1;gi|38233226|ref|NP_938993.1| Putative diphtheria toxin repressor... [ score 106 E 1e-22 ] [ range 49 .. 122 ]
+sequence
+TEQGEALAKQMVRRHRLVEMFLFETLGFGWDEVHEEAEILEHAMTDKLLQRIDDHLGNPSRDPHGDPIPS
+EEGI--*
+>P1;gi|43485657|gb|EAD97578.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 17 .. 90 ]
+sequence
+TKEGEEIALRVIRKHRLWEVFLVEKLEFGWDEIHEIAEQLEHIKSSKLIDKLDAHLGFPKRDPHGDPIPD
+KNGI--*
+>P1;gi|2127411|pir||I40339 diptheria toxin repressor - Corynebacteri... [ score 106 E 2e-22 ] [ range 65 .. 140 ]
+sequence
+TPEGRSLAIAVMRNDRLAERLLTDIIGLDIHKVHDEACRWEHVMSDEVERRLVEVLDDVHRSPFGNPIPG
+LGEIGL*
+>P1;gi|43220361|gb|EAC75748.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 61 .. 132 ]
+sequence
+TKKGQKVAEDIAYRHNLSEYFLCNTLGIPWYEVHQHAHLLEHAMTPVVVKKLAEFLGNPEFCPHGTPMPG
+KE----*
+>P1;gi|23135644|ref|ZP_00117383.1| COG1321: Mn-dependent transcripti... [ score 104 E 6e-22 ] [ range 65 .. 135 ]
+sequence
+TSKGKKYGTDILRKHRLWETFLFQKLEFTWDEIHEVAEQLEHIQSAKLIEKLDKFLGHPTLDPHGDVIPT
+S-----*
+>P1;gi|24378700|ref|NP_720655.1| putative metal-dependent transcript... [ score 103 E 7e-22 ] [ range 62 .. 134 ]
+sequence
+TKKGQILASSLYRKHRLIEVFLMNHLNYTADEIHEEAEVLEHTVSDVFVERLDKFLNYPKVCPHGGTIPQ
+HGQ---*
+>P1;gi|16118833|gb|AAL14619.1| putative iron dependent repressor [En... [ score 103 E 7e-22 ] [ range 62 .. 135 ]
+sequence
+TDSGLIKASSLIRKHRLWEVFLVEHLDYNWNEVHDDAEVLEHVTSEQLADHLESYLNHPKHCPHGGIIPK
+KEQV--*
+>P1;gi|21674552|ref|NP_662617.1| iron-dependent repressor [Chlorobiu... [ score 103 E 7e-22 ] [ range 92 .. 163 ]
+sequence
+TPKGRQAACRTLRKRRLVETFLFKMAGYGIHELHEEACRLEHVISDRLSDALDRLLGYPMHDPHGHPIPA
+HD----*
+>P1;gi|15922357|ref|NP_378026.1| 211aa long hypothetical diphtheria ... [ score 103 E 7e-22 ] [ range 63 .. 134 ]
+sequence
+TAEGKKIAEKLIRAHRLSERLLTDIIGLDWIRAHQLAHRLEHIWPEDVVDKIDELLGKPLTCPHGHPIPG
+RE----*
+>P1;gi|22993237|ref|ZP_00037843.1| COG1321: Mn-dependent transcripti... [ score 103 E 1e-21 ] [ range 62 .. 135 ]
+sequence
+TASGLQKASSLIRKHRLWEVFLVEHLDYSWNEVHDDAEVLEHVTSEHLADHLENYLNHPEHCPHGGSIPK
+KEEV--*
+>P1;gi|44486635|gb|EAJ61165.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 18 .. 88 ]
+sequence
+TKEGQKVAEDIAYRHNLSEYFLCNTLGIPWYEVHQHAHLLEHAMTPMVVKKLAEFLGNPEFCPHGTPMPG
+K-----*
+>P1;gi|15807523|ref|NP_296259.1| iron dependent repressor, putative ... [ score 102 E 2e-21 ] [ range 65 .. 136 ]
+sequence
+TAEGERVALEVLRHHRLLELFLHRALGVPLDEVHDEAEALEHALSERLEARIAAWLGDPTHDPHGDPIPT
+LE----*
+>P1;gi|41408993|ref|NP_961829.1| hypothetical protein MAP2895 [Mycob... [ score 101 E 3e-21 ] [ range 1 .. 62 ]
+sequence
+----------MVRRHRLLETFLVNELGYAWDEVHDEAEVLEHAVSDRLVARIDAKLGFPQRDPHGDPIPA
+TD----*
+>P1;gi|15897577|ref|NP_342182.1| Iron-dependent repressor [Sulfolobu... [ score 101 E 4e-21 ] [ range 65 .. 132 ]
+sequence
+TEEGKRIAERLIKSHRLSERLLTDIVGVDWIRAHELAHRLEHIWPDDILERIDRLLGYPTTCPHGHPI--
+------*
+>P1;gi|29375587|ref|NP_814741.1| iron-dependent repressor [Enterococ... [ score 101 E 4e-21 ] [ range 62 .. 130 ]
+sequence
+TEKGLKKASTLIRKHRIWEVFLVEHLNYTWNDVHEEAEVLEHVTSQTLVNRLADYLNHPEFCPHGGVIP-
+------*
+>P1;gi|34540785|ref|NP_905264.1| iron dependent repressor, putative ... [ score 100 E 1e-20 ] [ range 71 .. 139 ]
+sequence
+TESGRKYALKVIRRHRLLEKYLSEHSGYEPSEWHTQACKEEHYLSDEEQERIAVRLGNPLFDPHGDPIP-
+------*
+>P1;gi|20093126|ref|NP_619201.1| iron dependent repressor [Methanosa... [ score 100 E 1e-20 ] [ range 67 .. 134 ]
+sequence
+TEKGAEEAVRIKRKHQVLETFLADVLDFDRKEAHREACELEHAVSDSVLERLYDFLGNPEYCPDGHPI--
+------*
+>P1;gi|43216625|gb|EAC73842.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 181 .. 254 ]
+sequence
+TPKGWETACRIVRNHRLWELYLTNEARYAPDHVHEDAEKIEHVLGEETVRRIERILSNPRRDPHGKLIPS
+QQDI--*
+>P1;gi|23051756|ref|ZP_00078471.1| COG1321: Mn-dependent transcripti... [ score 99 E 2e-20 ] [ range 64 .. 131 ]
+sequence
+TKQGTDQAIKIKRKHQVLETFLVDVLDFDRKEAHKEACELEHAVSDAVLEKIYEFLGCPEYCPDGNPI--
+------*
+>P1;gi|15903523|ref|NP_359073.1| Metalloregulator [Streptococcus pne... [ score 99 E 2e-20 ] [ range 62 .. 135 ]
+sequence
+TDLGLKLVSELYRKHRLIEVFLVHHLDYTSDQIHEEAEVLEHTVSDLFVERLDKLLGFPKTCPHGGTIPA
+KGEL--*
+>P1;gi|44512410|gb|EAJ77830.1| unknown [environmental sequence] [ score 99 E 3e-20 ] [ range 67 .. 137 ]
+sequence
+TRPGKVEALRIMRRHRILETYLCEKLGYSWHDVHQEAERLEHAASDNLVEQMSRALGAPSHDPHGAPIPT
+K-----*
+>P1;gi|15639160|ref|NP_218606.1| cation-activated repressor protein ... [ score 98 E 4e-20 ] [ range 68 .. 141 ]
+sequence
+TRKGAVFGSAVLRKHRLLESFLSQVLCLEAGVVHKEAEMLEHACSDELIDVIDRYLQYPTRDPHGQPIPR
+KDTL--*
+>P1;gi|15789756|ref|NP_279580.1| transcription repressor; SirR [Halo... [ score 98 E 4e-20 ] [ range 72 .. 143 ]
+sequence
+TPDGETVAVEVIRHHRLLESFLATHLDYDWDEVHDEADALEHHISEEFEDRLAEKLGDPTVDPHGDPIPN
+AD----*
+>P1;gi|15678242|ref|NP_275357.1| iron repressor [Methanothermobacter... [ score 98 E 5e-20 ] [ range 68 .. 139 ]
+sequence
+TDRGYRIARRITRKHRLLERFLHDVLGIKRERIHRQACEMEHSLSDDAERALCHLLNMPGECPDEKPIPA
+CE----*
+>P1;gi|21227136|ref|NP_633058.1| Transcriptional repressor [Methanos... [ score 98 E 5e-20 ] [ range 64 .. 131 ]
+sequence
+TEKGAEEAVRIKRKHQVLETFLAEVLDFDRREAHKEACELEHAVSDSVLERIYDFLGNPEYCPDGHPI--
+------*
+>P1;gi|6694218|gb|AAF25184.1| metalloregulator ScaR [Streptococcus g... [ score 98 E 5e-20 ] [ range 62 .. 135 ]
+sequence
+TDLGLKLVSDLYRKHRLIEVFLVHHLGYTTEEIHEEAEVLEHTVSDHFVERLDQLLDYPKACPHGGTIPA
+KGEL--*
+>P1;gi|28377808|ref|NP_784700.1| metal-dependent regulator [Lactobac... [ score 98 E 5e-20 ] [ range 62 .. 133 ]
+sequence
+TKKGIRYAETLVRKHRIWEDFLVDKLDYDLPDVHTEAEVLEHVTSERLVDSLEAFLGNPTHCPHGGAIPD
+KD----*
+>P1;gi|15834960|ref|NP_296719.1| ABC transporter, permease protein, ... [ score 97 E 7e-20 ] [ range 374 .. 444 ]
+sequence
+TDKGEAKAAKLVRAHRLWESYLVSELDFNKSKVHNFAEEMEHVLTDELDTTLSKMLQNPDYDPHKREIPK
+L-----*
+>P1;gi|42526731|ref|NP_971829.1| iron-dependent transcriptional regu... [ score 97 E 7e-20 ] [ range 67 .. 139 ]
+sequence
+TEKGKKYGLNILRRHRLIETFLFQTLKMDGKNIHNEAENLEHAASDLLIDKIDKYLGHPKRDPHGAMIPR
+KNQ---*
+>P1;gi|42887923|gb|EAB11103.1| unknown [environmental sequence] [ score 97 E 8e-20 ] [ range 88 .. 160 ]
+sequence
+TDSGFNEAEDIVRRHRLAECLVVGILNMDLTDAHQEAHRLEHGMSLAFQHHLAQTLDYPTRSPFGRAIPG
+SGE---*
+>P1;gi|22972485|ref|ZP_00019360.1| hypothetical protein [Chloroflexu... [ score 97 E 1e-19 ] [ range 78 .. 152 ]
+sequence
+TANGYLLARHLIVRHRLLERFLLDVVGVPWIFVHREAARLAPVVSPLFLERVVELTRHATVCPHGNPIPG
+RSDLA-*
+>P1;gi|15604788|ref|NP_219572.1| Integral Membrane Protein [Chlamydi... [ score 97 E 1e-19 ] [ range 374 .. 444 ]
+sequence
+TDKGLARAAKLVRAHRLWESYLVSQLDFNKNEVHHFAEEMEHVLTDELDSTLSQMLQDPDYDPHQREIPK
+R-----*
+>P1;gi|43216445|gb|EAC73749.1| unknown [environmental sequence] [ score 97 E 1e-19 ] [ range 72 .. 140 ]
+sequence
+---GRQSAEFIVRRHRLAERLVVDVLGMDLEYAYEEAHLLEHAISPKVEKRLIELLNHPTTGAFGQKIPG
+SN----*
+>P1;gi|15678956|ref|NP_276073.1| iron repressor [Methanothermobacter... [ score 96 E 2e-19 ] [ range 72 .. 140 ]
+sequence
+TDEGREIAEMVLRRHMILECFFHNVLGMDLDSSYEEASRMKHELFRETELALMRYLRNPARCPHGIPIP-
+------*
+>P1;gi|16752695|ref|NP_444962.1| ABC transporter, permease protein, ... [ score 96 E 2e-19 ] [ range 377 .. 447 ]
+sequence
+TKKGRSEALRLVRAHRLWESYLVNSLDFSKESVHELAEEIEHVLTEELDHTLTEILNDPCYDPHRQIIPN
+K-----*
+>P1;gi|43696539|gb|EAF03515.1| unknown [environmental sequence] [ score 95 E 3e-19 ] [ range 66 .. 136 ]
+sequence
+TAKGSGLADNIAYRHNLAEYFLCNSLKIPWFEVHMHAHKLEHAMTPLVVEKLAEFLGQPQFCPHGTPMPG
+Q-----*
+>P1;gi|45358194|ref|NP_987751.1| putatuve iron dependent repressor [... [ score 93 E 1e-18 ] [ range 66 .. 131 ]
+sequence
+--SGEKIAKETIRKHRIIEYFLTEILGLDLEFAQEEACKIEHAVSDKTIEKLYEFIDRPEKCPHGYKI--
+------*
+>P1;gi|11497861|ref|NP_069083.1| iron-dependent repressor (desR) [Ar... [ score 93 E 1e-18 ] [ range 38 .. 104 ]
+sequence
+TDKGRKKAEKIVRLHRLAERLLSDILGF--KDVEEHACKFEHLIDDEAEEAICTLLGHPQVCPHGRKIP-
+------*
+>P1;gi|43372625|gb|EAD51157.1| unknown [environmental sequence] [ score 93 E 1e-18 ] [ range 66 .. 136 ]
+sequence
+TQLGFEMAGNIAYRHNLAEDFLCNTLGIPWLEVHKYAHQLEHAMTPLVLEKLAEFLGKPEFCPHGTPMPG
+Q-----*
+>P1;gi|19745579|ref|NP_606715.1| putative metal-dependent transcript... [ score 93 E 2e-18 ] [ range 63 .. 130 ]
+sequence
+-DKGYALVANLYRKHRLIEVFLIRQLGYNTQEVHQEAEVLEHTVSDTFIDRLDKILDFPDFCPHGGTIP-
+------*
+>P1;gi|39996484|ref|NP_952435.1| iron-dependent repressor, putative ... [ score 92 E 3e-18 ] [ range 60 .. 127 ]
+sequence
+-PEGKDEGKRTVRRHRLAERLMMDVLNIRGDHAEDKACEFEHLLHEGVDAKVCTMLNHPATCPHGKPIP-
+------*
+>P1;gi|32477514|ref|NP_870508.1| manganese ABC transporter permease ... [ score 92 E 3e-18 ] [ range 407 .. 479 ]
+sequence
+TDVGRTEAESLVRSHRLWEQYLVTRVDLEGSRIHQKAHQLEHFTDRQLQDQLDHQTDSPEKDPHGSPIPS
+ASD---*
+>P1;gi|23053606|ref|ZP_00079799.1| COG1321: Mn-dependent transcripti... [ score 92 E 4e-18 ] [ range 116 .. 186 ]
+sequence
+-PEGKDEGKRTVRRHRLAERLMMDVFNIRGDSAEAKACEFEHLLHEEVDAKVCTMLNHPVTCPHGKPIPP
+GD----*
+>P1;gi|44469978|gb|EAJ49295.1| unknown [environmental sequence] [ score 92 E 4e-18 ] [ range 66 .. 136 ]
+sequence
+TQFGFEMAENIASRHNLAEDFLCNTLGIPWFEVHKHAHQLEHAMTPLVVEKLAEFLGKAEFCPHGTPMPG
+Q-----*
+>P1;gi|22537677|ref|NP_688528.1| iron-dependent transcriptional regu... [ score 91 E 5e-18 ] [ range 62 .. 134 ]
+sequence
+TKQGLLVVSDLYRKHRLVEVFLVNHLHYTADDIHEEAEVLEHTVSTTFVDQLEKLLDFPQFCPHGGTIPK
+KGE---*
+>P1;gi|14325183|dbj|BAB60108.1| hypohtetical protein [Thermoplasma v... [ score 90 E 1e-17 ] [ range 68 .. 136 ]
+sequence
+TDQGDIEANIFLRKHRTAEVLLSQCVGIEWDAVDREAMGIEHGMTEEIIHRVIERF-NAKRCPHGNPIPS
+------*
+>P1;gi|44502443|gb|EAJ71130.1| unknown [environmental sequence] [ score 90 E 2e-17 ] [ range 66 .. 136 ]
+sequence
+THLGFEMAENIAYRHNLAEDFLCNTLGIPWFEVHKHAHQLEHAMTPLVMEKLAEFLGKPEFCRHGTPMPG
+Q-----*
+>P1;gi|16081924|ref|NP_394331.1| iron-dependent transcription repres... [ score 88 E 4e-17 ] [ range 68 .. 135 ]
+sequence
+TPSGDREANRFLRKHRTAEILLSRCIGIPWERVDEEAMGIEHGMTEEIIQRTIERFG-VDRCPHGNPIP-
+------*
+>P1;gi|44330307|gb|EAI50803.1| unknown [environmental sequence] [ score 88 E 4e-17 ] [ range 58 .. 128 ]
+sequence
+TPSGFQLAARIKRREILLEILLTDVIGYDGD-VHGVACKMEHAVGADLESTLDSLLGYPEFSNEGKRIPS
+VD----*
+>P1;gi|23136452|ref|ZP_00118172.1| COG1108: ABC-type Mn2+/Zn2+ trans... [ score 88 E 5e-17 ] [ range 359 .. 427 ]
+sequence
+TNEGIERGKRIVRLHRLWEMYLSKNLLLPSDHVHDDAETIEHILTPELESRLEKSLNFPEVDPHEKKIP-
+------*
+>P1;gi|15674572|ref|NP_268746.1| putative metal-dependent transcript... [ score 87 E 9e-17 ] [ range 63 .. 130 ]
+sequence
+-DKGYALVANLYRKLRLIEVFLIHQLGYNTQEVHQEAEVLEHTVSDSFIDRLDKILDFPDFCPHGGTIP-
+------*
+>P1;gi|15673238|ref|NP_267412.1| metalloregulator [Lactococcus lacti... [ score 84 E 6e-16 ] [ range 65 .. 133 ]
+sequence
+TDLGNHEARFILKSHRVWETFLFEKVGYTMEEVHDEAENLEHASSPRLIESLYVLMGYPATDPHGSEIP-
+------*
+>P1;gi|27467326|ref|NP_763963.1| iron dependent repressor [Staphyloc... [ score 82 E 2e-15 ] [ range 63 .. 135 ]
+sequence
+TEEGLKQTLDIIKRHRLLELFLIEILQYNWEEVHQEAEILEHRISDLFVERLDKILNFPKTCPHGGVIPR
+GDQ---*
+>P1;gi|43216627|gb|EAC73843.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 82 .. 154 ]
+sequence
+-PAGRKLGLNILRRHRLLETFLVETLGLDWSEIHEEAEELEHAISEKVLERLDDFLGRPRHDPHGHPIPT
+KGGV--*
+>P1;gi|43442607|gb|EAD75984.1| unknown [environmental sequence] [ score 81 E 5e-15 ] [ range 69 .. 135 ]
+sequence
+TESGIEHGQMIKRRHRLSEVLLT-LLPFEGD-VHETACMMEHAIDDELEICLTKILGNPQFDPSGQKIP-
+------*
+>P1;gi|15923624|ref|NP_371158.1| hypothetical protein [Staphylococcu... [ score 81 E 8e-15 ] [ range 63 .. 135 ]
+sequence
+TEDGLTHTLDIIKRHRLLELFLIEILKYNWEEVHQEAEILEHRISDLFVERLDSLLNFPETCPHGGVIPR
+NNE---*
+>P1;gi|43252647|gb|EAC92020.1| unknown [environmental sequence] [ score 77 E 8e-14 ] [ range 53 .. 113 ]
+sequence
+TQLGFEMAENIAYRHNLAEDFLCNILGIPWFEVHKHAHQLEHAMTPLVVEKLAEFLGKPDF---------
+------*
+>P1;gi|21325300|dbj|BAB99921.1| Mn-dependent transcriptional regulat... [ score 77 E 9e-14 ] [ range 67 .. 135 ]
+sequence
+TPAGRDIAINVIRRRRIIETYLSEKLGLGAHELHGEADLLEHAVSPLVLEKMFQAVGYPTLDPHGDPIP-
+------*
+>P1;gi|43261103|gb|EAC96234.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 65 .. 121 ]
+sequence
+TKQGQHVADVIEHRFNILERFLTEILGVDNDEASEVACRMEHVLTRDVEHKLTTFLG-------------
+------*
+>P1;gi|22406628|ref|ZP_00001472.1| COG1321: Mn-dependent transcripti... [ score 72 E 4e-12 ] [ range 63 .. 130 ]
+sequence
+TKQGYSMAIPVIRKHRVSEVFAVKMLEVPWEYSHSAVMDIEHTIEDKYFDTFSKNLGNPLTCPHGNMI--
+------*
+>P1;gi|15922567|ref|NP_378236.1| 137aa long hypothetical transcripti... [ score 70 E 1e-11 ] [ range 69 .. 136 ]
+sequence
+TDEGKKAIDSLLRAHRVIETFLVKI-GLSPDQACNYTKQFDYSVPDEVIERIYEYLGKPEKCPHGENIP-
+------*
+>P1;gi|23111262|ref|ZP_00096957.1| COG1321: Mn-dependent transcripti... [ score 63 E 2e-09 ] [ range 65 .. 122 ]
+sequence
+TPEGRKLAKLTSNKHRILEKFFTQVLKLNADTAGVDACAIEHVISNDSIQAMEKFLRN------------
+------*
+>P1;gi|15668748|ref|NP_247547.1| iron dependent repressor [Methanoco... [ score 62 E 4e-09 ] [ range 63 .. 114 ]
+sequence
+TEKGIEEAKKILDKHKTIKIFLVEFLGLDEKTASEEACKLEHALSDEILERL------------------
+------*
+>P1;gi|14521277|ref|NP_126752.1| iron-dependent repressor [Pyrococcu... [ score 60 E 1e-08 ] [ range 63 .. 127 ]
+sequence
+TEEGKRIAEETYSKHVLLTEFFVNVLGIPPEIAEEDACQFEHYVSEVTVQRIREFISYQEHCPY------
+------*
+>P1;gi|32477515|ref|NP_870509.1| manganese ABC transporter permease ... [ score 60 E 1e-08 ] [ range 366 .. 435 ]
+sequence
+TKRGESEARRLTRRHRLWELYLIHHADIAPQRVDRDADAIEHVLEPETVAELESLLNMPT-DPH------
+------*
+>P1;gi|14590990|ref|NP_143065.1| hypothetical protein PH1163 [Pyroco... [ score 60 E 1e-08 ] [ range 63 .. 127 ]
+sequence
+TEEGRKIAEETYSKHILLTEFFTNVLGIPPEIAEEDACQFEHYVSEVTVKRIREFITYQENCPY------
+------*
+>P1;gi|43943087|gb|EAG27090.1| unknown [environmental sequence] [ score 60 E 2e-08 ] [ range 55 .. 121 ]
+sequence
+TEGGENVGSNMMRNSRLLEVLMDSALKVEIDE--EMVCGIEHHMNKQFTDALCTMLNHPRKCPHDHKIP-
+------*
+>P1;gi|18977223|ref|NP_578580.1| iron-dependent repressor [Pyrococcu... [ score 58 E 4e-08 ] [ range 51 .. 115 ]
+sequence
+TEKGLEVAKKTYSKHQLLTEFFINILGIPPEIAERDACQFEHYVSEVTVHRIREFISYQQECPY------
+------*
+>P1;gi|15894748|ref|NP_348097.1| Iron-dependent transcription repres... [ score 56 E 2e-07 ] [ range 62 .. 119 ]
+sequence
+TSKGEEKAKSIYERHRLLTKFFVETAKVEKAIAEEDACRIEHIISDETFQGIKEFLKD------------
+------*
+>P1;gi|22406897|ref|ZP_00001739.1| COG1321: Mn-dependent transcripti... [ score 56 E 2e-07 ] [ range 78 .. 144 ]
+sequence
+TPYGNTIYSEIIMAHRTLEVMLTK-SGVNSDRACEQIEKIDYLMDDTSIQKLFTSLGNPQTCPHGKPV--
+------*
+>P1;gi|43247632|gb|EAC89479.1| unknown [environmental sequence] >gi|... [ score 56 E 2e-07 ] [ range 56 .. 121 ]
+sequence
+-DSGEKVASSMIRNSRLLEVLMDSALKIDIDE--EMVCGIEHHMNKQFTDALCIMLKCPSKSPRGRDIP-
+------*
+>P1;gi|42525633|ref|NP_970731.1| iron-dependent transcriptional regu... [ score 55 E 4e-07 ] [ range 72 .. 127 ]
+sequence
+TKKGRAIAKDVRTRHNALRTFLTQVLKVDYEIADVDACEMEHAISKHTADKLYAYL--------------
+------*
+>P1;gi|44178025|gb|EAH54622.1| unknown [environmental sequence] [ score 55 E 5e-07 ] [ range 46 .. 111 ]
+sequence
+-ESGEKVAASMIRNSRLLEVLMDSSLKIEIDE--EMVCGIEHHMNKQFTDALCVMLKCPAKSPRGRDIP-
+------*
+>P1;gi|15899040|ref|NP_343645.1| Conserved hypothetical protein [Sul... [ score 55 E 5e-07 ] [ range 70 .. 137 ]
+sequence
+TNNGTRSINYLIKAHRVIEILLVNI-GIDKQTACEYSKQFDYLIPEEIIDKLYNYLGKPSYCPHGLEIP-
+------*
+>P1;gi|43838473|gb|EAF73473.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 32 .. 97 ]
+sequence
+-EPGEKVAASMIRNSRLLEVLMDSALKIDIDE--EMVCGIEHHMNKQFTDALCIMLKCPAKSPRGRDIP-
+------*
+>P1;gi|15615370|ref|NP_243673.1| transcriptional regulator [Bacillus... [ score 51 E 7e-06 ] [ range 63 .. 124 ]
+sequence
+TAKGKKIGKRLVYRHDLLEDFL-KMIGVDSDHIYEDVEGIEHHLSWDAIDRIGDLVQYFQEDP-------
+------*
+>P1;gi|11499566|ref|NP_070808.1| iron-dependent repressor (troR) [Ar... [ score 50 E 1e-05 ] [ range 71 .. 135 ]
+sequence
+-ERGKMEARAAVRMHRLIECLLAD-LGV--EDFCKEAEKIGMVAGSSLVDALEARYGDREFCPCGKRIP-
+------*
+>P1;gi|43129153|gb|EAC30419.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 72 .. 123 ]
+sequence
+TFKGQKIASKSKKRHNIVFNFLVN-LGLDKKTASEDAEGIEHHVSDKTLRKMD-----------------
+------*
+>P1;gi|20088921|ref|NP_614996.1| iron dependent repressor [Methanosa... [ score 48 E 5e-05 ] [ range 85 .. 145 ]
+sequence
+TEMGKEYAEFLIRRHRIL-SLLFTHYGLSTEEACAEVSRFEAFVSRDAVNKICNSMGHPMVG--------
+------*
+>P1;gi|23020231|ref|ZP_00059936.1| COG1321: Mn-dependent transcripti... [ score 48 E 6e-05 ] [ range 80 .. 124 ]
+sequence
+TEKGLEIAERVYERHKVLTDYLVS-LGVDEDVAKADACRIEHVISP------------------------
+------*
+>P1;gi|43134620|gb|EAC33137.1| unknown [environmental sequence] [ score 48 E 7e-05 ] [ range 72 .. 125 ]
+sequence
+TVKGQKIASESKKRHNIVYNFLIN-LGLDKNTAYEDAEGIEHHVSKKTLRKMDSF---------------
+------*
+>P1;gi|44405374|gb|EAJ04102.1| unknown [environmental sequence] [ score 47 E 8e-05 ] [ range 72 .. 125 ]
+sequence
+TFKGQKIASESKKRHNIVYNFLLN-LGLDKNTASEDAEGIEHHVSEKTLRKMDNF---------------
+------*
+>P1;gi|44078110|gb|EAH00784.1| unknown [environmental sequence] [ score 47 E 8e-05 ] [ range 154 .. 210 ]
+sequence
+TEAGAARGAQVARNHAIWEQYLISHADIAPSHVDWSVDQVEHVLSDELVSKLESQLR-------------
+------*
+>P1;gi|21402256|ref|NP_658241.1| HTH_DTXR, Helix-turn-helix diphteri... [ score 47 E 9e-05 ] [ range 63 .. 119 ]
+sequence
+TSKGKKIGERLVYRHELLEQFM-RIIGVDESKIYNDVEGIEHHLSWEAIDRIGDLVQY------------
+------*
+>P1;gi|23099355|ref|NP_692821.1| transcriptional regulator [Oceanoba... [ score 47 E 1e-04 ] [ range 63 .. 119 ]
+sequence
+TSKGKKIGERLVFRHELLEEFL-EIIGVNDENIYDDVEGIEHHLSWNSIDRIGDLVNY------------
+------*
+>P1;gi|34811006|pdb|1ON2|A Chain A, Bacillus Subtilis Manganese Tran... [ score 46 E 1e-04 ] [ range 63 .. 123 ]
+sequence
+TSKGKKIGKRLVYRHELLEQFL-RIIGVDEEKIYNDVEGIEHHLSWNSIDRIGDLVQYFEED--------
+------*
+>P1;gi|30022287|ref|NP_833918.1| Manganese transport transcription r... [ score 46 E 1e-04 ] [ range 63 .. 119 ]
+sequence
+TTKGKKIGERLVYRHDLLEQFM-RIIGVDESKIYNDVEGIEHHLSWEAIDRIGDLVQY------------
+------*
+>P1;gi|43830903|gb|EAF69712.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 74 .. 125 ]
+sequence
+--KGQKIASKSKKRHNIVLQFLIN-LGLDKNTASADAEGIEHHVSEKTLKKMYKF---------------
+------*
+>P1;gi|43607278|gb|EAE58380.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 4 .. 57 ]
+sequence
+TFKGQKIASESKKRHNIVYNFLLN-LGLDKNTASEDAEGIEHHVSQKTLKKMDNF---------------
+------*
+>P1;gi|44637823|gb|EAK65696.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 85 .. 138 ]
+sequence
+TEKGQRIAEMIKQKHILLEFF--EILGIGKEIANQDAEGIEHHLNPKTIRQIRKF---------------
+------*
+>P1;gi|21227434|ref|NP_633356.1| Iron-dependent repressor [Methanosa... [ score 46 E 2e-04 ] [ range 72 .. 132 ]
+sequence
+TDMGKAYAEFLVRRHRIL-SLLFTHYGLSTEEACAEVSRFEAFVSRNSVNKICSSMGHPMVG--------
+------*
+>P1;gi|42889879|gb|EAB12076.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 79 .. 126 ]
+sequence
+TGKGARDALRVVRNHRLWELFLIQYADIAPGKVDRDADAVEHILEPDI----------------------
+------*
+>P1;gi|16803917|ref|NP_465402.1| similar o transcriptional regulator... [ score 45 E 3e-04 ] [ range 63 .. 113 ]
+sequence
+TPKGTQMGKRLLERHALLESFLS-IIGVDPSHIYHDVEGIEHHLSWNSIDRI------------------
+------*
+>P1;gi|42851249|gb|EAA92939.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 72 .. 125 ]
+sequence
+TVKGQQIASKSKKRHNTVLKFLMN-LGIDQKTASADAEGIEHHVSEKTLKKMEKF---------------
+------*
+>P1;gi|21242781|ref|NP_642363.1| iron dependent repressor [Xanthomon... [ score 45 E 5e-04 ] [ range 87 .. 142 ]
+sequence
+TPAGEALAASSRQRHQIVERFLL-ALGIDEATARRDAEGIEHHVSEATVAAFAAFLD-------------
+------*
+>P1;gi|43555528|gb|EAE32541.1| unknown [environmental sequence] [ score 45 E 6e-04 ] [ range 45 .. 98 ]
+sequence
+TEEGQRVADMIKQKHILLEFF--EILGIGKEIANQDAEGIEHHLNPKTIRQIRKF---------------
+------*
+>P1;gi|23012605|ref|ZP_00052650.1| COG1321: Mn-dependent transcripti... [ score 45 E 6e-04 ] [ range 104 .. 157 ]
+sequence
+TAAGQALAEQSRERHRIVERFLC-ALGVSRETARRDAEGIEHHVSAETLDAFRRF---------------
+------*
+>P1;gi|43078055|gb|EAC05253.1| unknown [environmental sequence] [ score 44 E 7e-04 ] [ range 1 .. 25 ]
+sequence
+-----------------------------------------------VVEKLAEFLGNPEFCPHGTPMPG
+KE----*
+>P1;gi|16759754|ref|NP_455371.1| transcriptional regulator (iron dep... [ score 44 E 7e-04 ] [ range 95 .. 150 ]
+sequence
+TPEGEKLAQESRERHQIVENFLL-VLGVSPEIARRDAEGMEHHVSQETLDAFLAFTQ-------------
+------*
+>P1;gi|42878369|gb|EAB06400.1| unknown [environmental sequence] [ score 44 E 8e-04 ] [ range 1 .. 33 ]
+sequence
+----------------------------------------EHSISDVTEPLIVERLGNPTTSPFGAAIPG
+IGD---*
+>P1;gi|41718806|ref|ZP_00147763.1| hypothetical protein Mbur183501 [... [ score 44 E 0.001 ] [ range 67 .. 127 ]
+sequence
+TEKGKVYTHFILRRHRIL-SLMLNHYGLTPEESCKEVARFEGFVSKDAIDSICNSMGHPTFG--------
+------*
+>P1;gi|42827229|gb|EAA80953.1| unknown [environmental sequence] [ score 44 E 0.001 ] [ range 72 .. 125 ]
+sequence
+TMKGQKIASQSRKRHNIVYSFLIN-LGLDKKIAAEDAEGIEHHVSEKTLIKMEKF---------------
+------*
+>P1;gi|23052326|ref|ZP_00078983.1| COG1321: Mn-dependent transcripti... [ score 44 E 0.001 ] [ range 72 .. 132 ]
+sequence
+TELGMAYTQFLIRRHRILSLLLT-HYGLSSEEACSEVSRFEAFVSRDAINKICSSMGHPMFG--------
+------*
+>P1;gi|13541776|ref|NP_111464.1| Metal-dependent transcription regul... [ score 44 E 0.001 ] [ range 64 .. 130 ]
+sequence
+TIDGEEEYKRIVTVHRTLEVLYSR-SGIDADEACKKIGNFDFLVDYDDAKKISNALGNPKKCPHGKEI--
+------*
+>P1;gi|44306839|gb|EAI34525.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 76 .. 147 ]
+sequence
+SKKGAYLAKIISRRHRIIERFLSEVLDLPWDKVYKETKKWENILSPTTEEAMLKILGNPTTGPFGNPIPY
+SD----*
+>P1;gi|44455203|gb|EAJ38952.1| unknown [environmental sequence] [ score 106 E 9e-23 ] [ range 76 .. 147 ]
+sequence
+SKKGAYLAKIISRRHRIVERFLSEVLDLPWDKVYKETKKWENILSLVTEEAMLKILGNPTTGPFGNPIPY
+SN----*
+>P1;gi|43742980|gb|EAF25953.1| unknown [environmental sequence] [ score 101 E 5e-21 ] [ range 75 .. 146 ]
+sequence
+SEKGIYLAKMIARRHRIVERFLSEILNLPWEQVYIETKKWENVLSSVTEEAMLKILGNPKTGIFGNPIPY
+SN----*
+>P1;gi|29840201|ref|NP_829307.1| ABC transporter, permease protein, ... [ score 97 E 1e-19 ] [ range 372 .. 440 ]
+sequence
+SEKGKIEAKRLVRAHRLWECYLVHSLEFKEENVHVFAEEMEHVLTDELDYAITEMLDNPHYDPHDKLIP-
+------*
+>P1;gi|43442607|gb|EAD75984.1| unknown [environmental sequence] [ score 82 E 4e-15 ] [ range 69 .. 135 ]
+sequence
+TESGIEHGQMIKRRHRLSEVLLTL---LPFEDVHETACMMEHAIDDELEICLTKILGNPQFDPSGQKIP-
+------*
+>P1;gi|43485661|gb|EAD97581.1| unknown [environmental sequence] [ score 80 E 9e-15 ] [ range 111 .. 182 ]
+sequence
+SEQGIIEAKRVIRIHRLWELYMEKFMQIQADHVHESAESIEHIMTPELEAELLQIMGKPKNDPHQQTIPY
+ED----*
+>P1;gi|43316001|gb|EAD23763.1| unknown [environmental sequence] [ score 45 E 3e-04 ] [ range 66 .. 97 ]
+sequence
+TAKGSGLADDIAYRHNLAEYFLCNSLKIPWFE--------------------------------------
+------*
+>P1;gi|15789751|ref|NP_279575.1| iron-dependent repressor; TroR [Hal... [ score 45 E 4e-04 ] [ range 62 .. 122 ]
+sequence
+TEDGAARARDALQTYCILERFLANVLGVESFR--DEARQLEPVIDETVAERLDMIIDRKSQCP-------
+------*
+>P1;gi|44483338|gb|EAJ58935.1| unknown [environmental sequence] [ score 45 E 6e-04 ] [ range 85 .. 138 ]
+sequence
+TEKGQRIADMIKQKHGILLDFF-EILGIGKEIANQDAEGIEHHLNPKTIRQIRKF---------------
+------*
+>P1;gi|43961988|gb|EAG37356.1| unknown [environmental sequence] [ score 44 E 8e-04 ] [ range 95 .. 149 ]
+sequence
+TDAGRELAEACRRRHRIVVAFLLS-LGIDEETAERDAEGIEHHVSTTTLEAFEHAL--------------
+------*
+>P1;gi|44638697|gb|EAK66299.1| unknown [environmental sequence] [ score 44 E 0.001 ] [ range 1 .. 24 ]
+sequence
+-----------------------------------------------VVDKLAEFLGKPEFCPHGTPMPG
+Q-----*

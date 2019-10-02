@@ -1,0 +1,2424 @@
+>P1;1jj2e1
+structureX:1jj2:   1 :E:  79 :E:50S ribosomal protein L6p:Haloarcula marismortui: 2.40: 18.9
+PRVELEIPE---DVDAEQDHLDITVEGDN---GSVTRRLWYPDIDVSVDG-DTVVIESDEDNAKTMSTIG
+TFQSHIENMFHGVTEG-----------------*
+>P1;1rl6a1
+structureX:1rl6:   7 :A:  81 :A:50S ribosomal protein L6:Bacillus stearothermophilus: 2.00: 25.7
+---PIEIPA---GVTVTVNGNTVTVKGPK---GELTRTFH-PDMTITVEG-NVITVTRPSDEKHHRALHG
+TTRSLLANMVEGVSKG-----------------*
+>P1;1jj2e2
+structureX:1jj2:  80 :E: 172 :E:50S ribosomal protein L6p:Haloarcula marismortui: 2.40: 18.9
+WEYGMEVFYSHFPMQVNVEGDEVVIENFLGEKAPRRTTIH-GDTDVEIDG-EELTVSGP-----DIEAVG
+QTAADIEQLTRINDKDVRVFQDGVYITRKP---*
+>P1;1rl6a2
+structureX:1rl6:  82 :A: 170 :A:50S ribosomal protein L6:Bacillus stearothermophilus: 2.00: 25.7
+YEKALELVGV--GYRASKQGKKLVLSV--GYSHPVEIEPE-EGLEIEVPSQTKIIVKGA-----DKQRVG
+ELAANIRAVRPPEP----YKGKGIRYEGELVRL*
+>P1;gi|14520541|ref|NP_126016.1| LSU ribosomal protein L6P [Pyrococc... [ score 118 E 2e-26 ] [ range 8 .. 85 ]
+sequence
+-REEIEIPE---GVEVSVQGNTVKVKGPK---GEVERELFWPGVKIFVEG-GKVVIYKDFPRRKDVAIVR
+TFKAHINNMIKGVTEG-----------------*
+>P1;gi|12585561|sp|O59433|RL6_PYRHO 50S ribosomal protein L6P [ score 117 E 9e-26 ] [ range 8 .. 85 ]
+sequence
+-REEIEIPE---GVEVSVQDYNVKVKGPK---GEVEKKLFWPGVKIFVED-GKVVIYKDFPRRKDVAIVR
+TFKAHINNMIKGVTEG-----------------*
+>P1;gi|18978180|ref|NP_579537.1| LSU ribosomal protein L6P [Pyrococc... [ score 116 E 1e-25 ] [ range 8 .. 85 ]
+sequence
+-REEVEIPE---GVEVTVEGYKVKVKGPK---GELEREFFWPGIQIFTED-GNVVIYKDFPRRKDVAIAR
+TFAAHIRNMIKGVTEG-----------------*
+>P1;gi|45358978|ref|NP_988535.1| LSU ribosomal protein L6P [Methanoc... [ score 111 E 4e-24 ] [ range 8 .. 85 ]
+sequence
+-REEIEIPE---NVNVEINGSTVVVKSGA---KELKRELMYPGIEISTED-GKVVIECAFPRKAQTAIVG
+TYRSHIQNMITGVTDG-----------------*
+>P1;gi|15678050|ref|NP_275164.1| ribosomal protein L9 (E.coli L6) [M... [ score 109 E 1e-23 ] [ range 8 .. 84 ]
+sequence
+-REEIPIPD---GVDVTIDG-GVTVKGPK---WELSRKFNHSEISMAVED-DKVVLEVKFPKKKDKAMIG
+TVRAHISNMITGVTEG-----------------*
+>P1;gi|15790648|ref|NP_280472.1| 50S ribosomal protein L6P; Rpl6p [H... [ score 109 E 2e-23 ] [ range 3 .. 80 ]
+sequence
+-RVEIEIPD---DVTAEVDHLDLTVEGPE---GSVTRRLWYPDVDVSVED-DAVVVASEVDDAKTDSTVG
+TFESHVANMFHGVSEG-----------------*
+>P1;gi|20089958|ref|NP_616033.1| ribosomal protein L6p [Methanosarci... [ score 106 E 1e-22 ] [ range 9 .. 83 ]
+sequence
+----IEIPE---GVSVSLAQDVFTATGPK---GTVERKLWYPGIMIDVKD-GEVVVDAEYARKEQKAMVG
+TFASHIRNLVKGVNEG-----------------*
+>P1;gi|21228242|ref|NP_634164.1| LSU ribosomal protein L6P [Methanos... [ score 106 E 2e-22 ] [ range 9 .. 83 ]
+sequence
+----IEIPE---GVSVSLSQDVFTAKGPK---GTVERTFWYPGIKIEVRE-GEVVVDAESSRKEQKAMVG
+TFASHLKNLIIGVSEG-----------------*
+>P1;gi|23097589|ref|NP_691055.1| 50S ribosomal protein L6 [Oceanobac... [ score 105 E 3e-22 ] [ range 8 .. 82 ]
+sequence
+---PVEIPE---GVELKLDNNTVTVKGPK---GELSREL-HPDMKINIED-NVLTVERPSDHKEHRALHG
+TTRSLINNMVIGVSKG-----------------*
+>P1;gi|29246949|gb|EAA38527.1| GLP_108_35846_36403 [Giardia lamblia ... [ score 105 E 3e-22 ] [ range 7 .. 83 ]
+sequence
+--MTIKVPT---DVECTINKRVVTVKGKK---GTLVRDFSHAPLDITHAN-DTISVAVWFPRGKRNALPR
+TICSHIENMFKGVTYG-----------------*
+>P1;gi|15668648|ref|NP_247447.1| LSU ribosomal protein L6P (rplF) [M... [ score 105 E 4e-22 ] [ range 9 .. 85 ]
+sequence
+--ERVKIPE---NVQVEINNNEVVVKSGG---KELRRRFEHPKIVIKKEG-DEIVIFCEYPRRKDKAMVG
+TIRAHINNMIKGVTEG-----------------*
+>P1;gi|133009|sp|P14030|RL6_METVA 50S RIBOSOMAL PROTEIN L6P >gi|7111... [ score 103 E 9e-22 ] [ range 8 .. 85 ]
+sequence
+-REEIEIPG---NVSVEVNGSEVVVKSGA---KVLKRELAFPGIEIKMEN-EKVVVESTFPKKNQTAMVG
+TYRSHIQNMIKGVSEG-----------------*
+>P1;gi|41615035|ref|NP_963533.1| NEQ241 [Nanoarchaeum equitans Kin4-... [ score 103 E 1e-21 ] [ range 7 .. 81 ]
+sequence
+-KYEIPIPE---NVKVSYENNILKVSGPK---GEVERKFYHPLIKLSVND-NKIILETYFATRREKRLIN
+TWRSHIKNMLEGV--------------------*
+>P1;gi|23051992|ref|ZP_00078682.1| COG0097: Ribosomal protein L6P/L9... [ score 100 E 7e-21 ] [ range 8 .. 84 ]
+sequence
+---KIEIPE---GISVSFSQDDVTATGPL---GTVERKLWYPGIKIYVRD-GEVEVDAESSRKEQKAMVG
+TFTSHIKNLMKGVNEG-----------------*
+>P1;gi|28377847|ref|NP_784739.1| ribosomal protein L6 [Lactobacillus... [ score 100 E 1e-20 ] [ range 9 .. 82 ]
+sequence
+----IELPA---GVEVSQAGEVVTVKGPK---GTLTRNIA-SDITMTVEG-NEVKFTRPSDDYKMKALHG
+TTRANVNNMVEGVTKG-----------------*
+>P1;gi|15612712|ref|NP_241015.1| 50S ribosomal protein L6; ribosomal... [ score 99 E 2e-20 ] [ range 8 .. 82 ]
+sequence
+---PVEIPS---GVTVTVNGADVTVKGPK---GELKRTF-NPEIVVKVED-NTVVVERPSDKKEHRALHG
+TTRSLISNMVEGVSKG-----------------*
+>P1;gi|20094660|ref|NP_614507.1| Ribosomal protein L6 [Methanopyrus ... [ score 96 E 2e-19 ] [ range 29 .. 102 ]
+sequence
+--VEIEISQ------REDRRYEVTVKGPK---GEVTKEFYYPDVYLWVED-DEVVIAATRSNRRQKAILG
+MIKAYIENMQKGVTEG-----------------*
+>P1;gi|15897608|ref|NP_342213.1| LSU ribosomal protein L6AB (rpl6AB)... [ score 96 E 2e-19 ] [ range 7 .. 85 ]
+sequence
+-REEIEIPK---NVVVDLKGSIIKIKGPK---GEVVKDFSFAGIQISLDG-NKIVLETTFANRRKKAVFY
+SIVSHIKNMITGVTKG-----------------*
+>P1;gi|23022259|ref|ZP_00061875.1| COG0097: Ribosomal protein L6P/L9... [ score 95 E 3e-19 ] [ range 14 .. 91 ]
+sequence
+-RIPVAIPK---GVDVKLDNNTLTVKGQK---GTLTKQF-HKDMIIKVEG-DKIIVQRPSDEKKHKALHG
+LTRTLINNMVIGVTQG-----------------*
+>P1;gi|43572392|gb|EAE40997.1| unknown [environmental sequence] [ score 95 E 3e-19 ] [ range 6 .. 86 ]
+sequence
+-RIEVDLPE---GVNASLDEENLSVSGEK---GSLSRQFVDPKGQLFQEG-NTITVRIDMPRRKEKAMAG
+TWKAHIANMVKGVTPG-----------------*
+>P1;gi|23024313|ref|ZP_00063529.1| COG0097: Ribosomal protein L6P/L9... [ score 94 E 8e-19 ] [ range 9 .. 82 ]
+sequence
+----ITLPA---DVTVSQEGAVVTVKGPK---GELSREIVSA-ITMTVEG-NEVSFSRDSDDSKTRALHG
+TTRANVANMVEGVSEG-----------------*
+>P1;gi|16077199|ref|NP_388012.1| ribosomal protein L6 (BL8) [Bacillu... [ score 92 E 2e-18 ] [ range 9 .. 83 ]
+sequence
+----LEIPS---DVTVTLDNNTVAVKGPK---GELTRTF-HPDMEIKVED-NVLTVARPSDQKEHRALHG
+TTRSLLGNMVEGVSKG-----------------*
+>P1;gi|16804655|ref|NP_466140.1| ribosomal protein L6 [Listeria mono... [ score 91 E 5e-18 ] [ range 9 .. 82 ]
+sequence
+----IVIPA---GVTVTLNGSTATVKGPK---GELVKEF-NPEITIKIEG-NEINVSRPTDNKNHRALHG
+TTRAILNNMVVGVSEG-----------------*
+>P1;gi|15920626|ref|NP_376295.1| 186aa long hypothetical 50S ribosom... [ score 90 E 1e-17 ] [ range 8 .. 85 ]
+sequence
+--EEIEIPQ---GINVNIEGMKIKVKGPK---GEIEKDFSHSGIEIRKED-NKIVVETTFADRRKKAQFY
+SIIAHIENMFTGVTKG-----------------*
+>P1;gi|22406358|ref|ZP_00001208.1| COG0097: Ribosomal protein L6P/L9... [ score 90 E 2e-17 ] [ range 7 .. 84 ]
+sequence
+-KMELKIPE---GISLDIDGTVINVKGKL---GEASRNFRDKYVKVYKKE-NSIIIAVSKENKFTNGIIG
+TWYSELKLVFHGVSNG-----------------*
+>P1;gi|43172040|gb|EAC51591.1| unknown [environmental sequence] [ score 90 E 2e-17 ] [ range 8 .. 82 ]
+sequence
+---PINLPE---GVTVSVQGSNINVKGPK---GELNQKF-DPDFKISIDD-NILTIKRPSEIKRHKSLHG
+LYRSLINNCVVGVSEG-----------------*
+>P1;gi|15896368|ref|NP_349717.1| Ribosomal protein L6 [Clostridium a... [ score 89 E 2e-17 ] [ range 6 .. 83 ]
+sequence
+-KQPVEIPS---GVTVTVTDNVVTVKGTK---GQLEKA-MHKDMKIAVED-NKVVVTRPSDSKNHKALHG
+LTRALINNMVIGVTEG-----------------*
+>P1;gi|21398083|ref|NP_654068.1| Ribosomal_L6, Ribosomal protein L6 ... [ score 89 E 2e-17 ] [ range 9 .. 83 ]
+sequence
+----LEIPA---GVTITVEDNTVTVKGPK---GELTRTF-NADMLIKIEE-NTLTVERPSEQKEHRALHG
+TTRALIGNMVEGVTEG-----------------*
+>P1;gi|15674302|ref|NP_268475.1| 50S ribosomal protein L6 [Streptoco... [ score 89 E 2e-17 ] [ range 9 .. 82 ]
+sequence
+----ITMPA---GVELTNNNNVITVKGPK---GELTREF-NKNIEIKVEG-TEITVVRPNDSKEMKTIHG
+TTRANLNNMVVGVSEG-----------------*
+>P1;gi|15902248|ref|NP_357798.1| 50S Ribosomal protein L6 [Streptoco... [ score 89 E 3e-17 ] [ range 9 .. 82 ]
+sequence
+----IVLPA---GVELANNDNVVTVKGPK---GELTREFS-KDIEIRVEG-TEVTLHRPNDSKEMKTIHG
+TTRALLNNMVVGVSEG-----------------*
+>P1;gi|19704950|ref|NP_602445.1| LSU ribosomal protein L6P [Fusobact... [ score 87 E 9e-17 ] [ range 6 .. 82 ]
+sequence
+-KKPIAVPS---GVDFSVKDNVVTVKGPK---GTLTKEFNN-NITIKLED-GHITVERPNDEPFMRAIHG
+TTRALINNMVKGVHEG-----------------*
+>P1;gi|44591858|gb|EAK33066.1| unknown [environmental sequence] [ score 87 E 9e-17 ] [ range 18 .. 94 ]
+sequence
+-RRPIAIPQ---GVTIEINTGSITVKGPK---GELTQK-YHPEVKVTESE-GQIIVERYSDKKFHHALHG
+LTRSLIQNAIVGVTDG-----------------*
+>P1;gi|34764951|ref|ZP_00145287.1| LSU ribosomal protein L6P [Fusoba... [ score 87 E 1e-16 ] [ range 6 .. 82 ]
+sequence
+-KKPITVPS---GVDFSVKDNVVTVKGPK---GTLTKEF-NKNITIKLEN-GHITFERPNDEPFMRAIHG
+TTRALINNMIKGVHEG-----------------*
+>P1;gi|14600654|ref|NP_147171.1| 50S ribosomal protein L6 [Aeropyrum... [ score 86 E 2e-16 ] [ range 9 .. 86 ]
+sequence
+--ERVEVPE---GVTVSIDGMRVKVSGPK---GEVERDFSHAGVLIRLED-NSVVVESFFAKARQRALVG
+AIAGHIRNMIKGVQGG-----------------*
+>P1;gi|25010148|ref|NP_734543.1| ribosomal protein L6 [Streptococcus... [ score 86 E 2e-16 ] [ range 9 .. 82 ]
+sequence
+----ITLPA---GVEIINKDNVVTVKGPK---GELTREF-NKNIGITVEG-TEVTVTRPNDSKEMKTIHG
+TTRANLNNMVVGVSEG-----------------*
+>P1;gi|22973832|ref|ZP_00020310.1| hypothetical protein [Chloroflexu... [ score 85 E 3e-16 ] [ range 6 .. 83 ]
+sequence
+-KRPITVPK---GVQVTIEQNLVTVKGPK---GTLSQQL-HPEMIIRQEG-DVITVQRPSDGKLHRALHG
+LTRTLIHNMVVGVTQG-----------------*
+>P1;gi|15900161|ref|NP_344765.1| ribosomal protein L6 [Streptococcus... [ score 85 E 3e-16 ] [ range 9 .. 82 ]
+sequence
+----IVLPA---GVELANNDNVVTVKGSK---GELTREFS-KDIEIRVEG-TEITLHRPNDSKEMKTIHG
+TTRALLNNMVVGVSEG-----------------*
+>P1;gi|18311372|ref|NP_563306.1| 50S ribosomal protein L6 [Clostridi... [ score 85 E 4e-16 ] [ range 6 .. 83 ]
+sequence
+-KMPIAIPA---GVTVTVTENVVTVKGPK---GELVKA-MHKDINIAVED-AQVVVTRPSDVKEHRALHG
+LTRALLNNMVVGVSQG-----------------*
+>P1;gi|3914762|sp|O05637|RL6_SULAC 50S ribosomal protein L6P >gi|205... [ score 85 E 4e-16 ] [ range 10 .. 88 ]
+sequence
+-REEIQIPD---KVKVSLENNVLKVKGPK---GEVIKDFSYAGIRIQLNE-GKIILETTFADRRKKALLY
+SIIAHIKNMITGTING-----------------*
+>P1;gi|28212164|ref|NP_783108.1| LSU ribosomal protein L6P [Clostrid... [ score 85 E 4e-16 ] [ range 6 .. 83 ]
+sequence
+-RLPIAIPN---GVTVTVSENVVTVKGPK---GELTKT-MHPNIDIAIEE-NSVIVTRKNDEKQNRSLHG
+LTRSLVNNMVVGVTEG-----------------*
+>P1;gi|23137554|ref|ZP_00119259.1| COG0097: Ribosomal protein L6P/L9... [ score 85 E 4e-16 ] [ range 6 .. 83 ]
+sequence
+-KLPVTLPE---KVELSVSPSNVTVKGPK---GTLTQQ-VDVDIKVSVED-GKVVVARPTEQKRHKALHG
+LYRSLISNMVQGVSQG-----------------*
+>P1;gi|24380354|ref|NP_722309.1| 50S ribosomal protein L6 (BL10) [St... [ score 85 E 5e-16 ] [ range 9 .. 82 ]
+sequence
+----ITLPA---GVEVTNKDNVVTVKGPK---GELTREFP-KVIEIKIEG-TEVTLHRPNDSKEMKTIHG
+TARANLNNMVIGVSEG-----------------*
+>P1;gi|15674065|ref|NP_268240.1| 50S ribosomal protein L6 [Lactococc... [ score 84 E 6e-16 ] [ range 9 .. 82 ]
+sequence
+----IVIPA---GVSVEVNGATVTVKGPK---GELVRSFNE-NITLDIAE-NEITVKRPNDTKEMKMLHG
+TTRALLANMVEGVSTG-----------------*
+>P1;gi|43528322|gb|EAE18864.1| unknown [environmental sequence] [ score 84 E 8e-16 ] [ range 8 .. 82 ]
+sequence
+---PVLIPE---GVNVSLEDSVIKISGPN---GSLEFNFR-KEMIISQND-GSIIVKRGSDNREQKSLHG
+TTRQMINNMVIGVSEG-----------------*
+>P1;gi|20808645|ref|NP_623816.1| Ribosomal protein L6 [Thermoanaerob... [ score 84 E 1e-15 ] [ range 6 .. 83 ]
+sequence
+-RLPIPIPK---GVEVKVSDNVVTVKGAK---GTLEKKFP-PIVNIEVRD-GEVVVTRKGDDKEERAMHG
+TTRAIIANMVKGVTEG-----------------*
+>P1;gi|44521052|gb|EAJ83625.1| unknown [environmental sequence] [ score 81 E 5e-15 ] [ range 8 .. 82 ]
+sequence
+---PILLPE---GVSVIVNKSSINVKGPK---GEITQDF-DPDFSIKEKD-NLLLISRPSEQKRHKSLHG
+LYRALINNCVVGVSEG-----------------*
+>P1;gi|15925225|ref|NP_372759.1| 50S ribosomal protein L6 [Staphyloc... [ score 81 E 6e-15 ] [ range 9 .. 82 ]
+sequence
+----IDIPS---DVTVTFDGNHVTVKGPK---GELSRTLNE-RMTFKQEE-NTIEVVRPSDSKEDRTNHG
+TTRALLNNMVQGVSQG-----------------*
+>P1;gi|43522641|gb|EAE15994.1| unknown [environmental sequence] [ score 81 E 8e-15 ] [ range 6 .. 82 ]
+sequence
+-KEPISVPS---DVQISIQGRNVGVTGPK---GSLDLDL--PGIDVREED-GAVLVERPSDDRKNKALHG
+LTRSLINNMVIGVSEG-----------------*
+>P1;gi|34541526|ref|NP_906005.1| ribosomal protein L6 [Porphyromonas... [ score 80 E 9e-15 ] [ range 6 .. 82 ]
+sequence
+-KLPISIPA---GVTVSHKDEIVTVKGPK---GELS-QYVDPRITVVIEG-GMIHLERKTDDRIERSLHG
+LYRSLINNMVQGVSAG-----------------*
+>P1;gi|23038101|ref|ZP_00070285.1| COG0097: Ribosomal protein L6P/L9... [ score 80 E 1e-14 ] [ range 9 .. 82 ]
+sequence
+----ITIPT---GVEIKQEGDQVTVKGPK---GEITRSIA-SVISMNIEG-SEAKFSRPDDSNRNKALHG
+TTRANVANMIEGVSKG-----------------*
+>P1;gi|23112491|ref|ZP_00097967.1| COG0097: Ribosomal protein L6P/L9... [ score 80 E 1e-14 ] [ range 9 .. 85 ]
+sequence
+-KRPISIPG---GVDVNIEGNVVTVKGPK---GTLTKE-MHSLINIAVEE-QQIVVTRPDDQPLSRSLHG
+LTRTLVANMVEGVTKG-----------------*
+>P1;gi|27468726|ref|NP_765363.1| 50S ribosomal protein L6 [Staphyloc... [ score 80 E 2e-14 ] [ range 9 .. 82 ]
+sequence
+----IDIPS---DVTVTFDGSHVTVKGPK---GELERTLNE-RMTFKQEE-NTVEVVRPSDSKEDRTDHG
+TTRALLNNMVLGVSQG-----------------*
+>P1;gi|19114610|ref|NP_593698.1| 60s ribosomal protein l9-a. [Schizo... [ score 79 E 2e-14 ] [ range 9 .. 85 ]
+sequence
+--ETLTIPK---GVTVDIKARNVTVTGPR---GTLKQNLRHVDIEMKKQG-NTIKFIVWHGSRKHNACIR
+SVYSIINNMIIGVTQG-----------------*
+>P1;gi|18313300|ref|NP_559967.1| ribosomal protein L6 [Pyrobaculum a... [ score 79 E 3e-14 ] [ range 8 .. 89 ]
+sequence
+--EEVEIPK---GVSVSIERYIVKVKGPL---GEVTKEFKNTPVVMSLQD-GKIVMEVFKARKREYAILG
+TYKGILKNMFLGVTRG-----------------*
+>P1;gi|34391498|gb|AAN34938.1| ribosomal protein L9 [Danio rerio] [ score 79 E 3e-14 ] [ range 3 .. 80 ]
+sequence
+----VDIPD---NVTVSLKGRTVTVKGPR---GVLRREFNHINLELSKKQ-KKLRVDKWWGNRKELATVR
+TICSHVQNMIKGVTLG-----------------*
+>P1;gi|31202479|ref|XP_310188.1| ENSANGP00000011018 [Anopheles gambi... [ score 78 E 3e-14 ] [ range 14 .. 87 ]
+sequence
+------VPK---DVSVKVKARMVTVKGPR---GTLVKNFRHLPIDVYVHR-KKVTVEKWFGSKKELAAVR
+TVCSHIENMIKGVTKG-----------------*
+>P1;gi|6831637|sp|Q9ZI38|RL6_AQUPY 50S ribosomal protein L6 >gi|4165... [ score 78 E 4e-14 ] [ range 6 .. 86 ]
+sequence
+-KKPIPYPE---NVKVSYDEKEVTVEGPK---GKLELNI-HPDIKVTLNQ-QEIKLDRPSDRSFHKAIHG
+TMAALIKNMIKGVTEG-----------------*
+>P1;gi|23018348|ref|ZP_00058065.1| COG0097: Ribosomal protein L6P/L9... [ score 78 E 4e-14 ] [ range 6 .. 82 ]
+sequence
+-RQPISVPK---GVEVTIDGKDVKVKGPK---GEL-KHTVPPSITVTLED-GQVKVSRADDRPQTRSLHG
+LTRSLIANLIEGTSKG-----------------*
+>P1;gi|44628508|gb|EAK59258.1| unknown [environmental sequence] [ score 78 E 4e-14 ] [ range 8 .. 83 ]
+sequence
+---PIDIPS---GVDIKIEKELVTIKGPK---GTLQEKINSKEISINVEE-STLIVSRSNEDIEIKALHG
+LYRSLLNNMVTGVTDG-----------------*
+>P1;gi|43284505|gb|EAD08063.1| unknown [environmental sequence] [ score 78 E 5e-14 ] [ range 11 .. 85 ]
+sequence
+----IKLPE---GVSATIDGHNVTVAKDG---KSLTREFRHPRVEVRDSA-DGMEVFVNLPRRKEKALAG
+TWAAHLNNMVRGVDSG-----------------*
+>P1;gi|417672|sp|P33099|RL6_MICLU 50S RIBOSOMAL PROTEIN L6 >gi|32207... [ score 78 E 5e-14 ] [ range 6 .. 85 ]
+sequence
+-RLPITIPA---GVDVTIDGDRVSVKGPK---GQLEHSLPTP-ITATLEE-GQVTVARPDDERESRSLHG
+LTRTLISNMVEGVTNG-----------------*
+>P1;gi|3355662|emb|CAA08792.1| ribosomal protein L9 [Podocoryne carnea] [ score 78 E 6e-14 ] [ range 5 .. 80 ]
+sequence
+----VTIPE---GVSVKMDGRSITVKGPR---GSLHKSFHHLNLELTVNK-NTIRVDVWFALRKHLACLR
+TICSHIENMIKGVQFG-----------------*
+>P1;gi|2136121|pir||S65792 ribosomal protein L9, cytosolic - human >... [ score 77 E 8e-14 ] [ range 10 .. 87 ]
+sequence
+----VEIPE---NVDITLKGRTVIVKGPR---GTLRRDFNHINVELSLLG-KKLRVDKWWGNRKELATVR
+TICSHVQNMIKGVTLG-----------------*
+>P1;gi|43671299|gb|EAE90683.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 8 .. 83 ]
+sequence
+---PISIPS---GVDVKIEKNLVIVKGPK---GELDQKIASEDIVFDLSD-ENLTITRKNELIETKSMHG
+LYRALIANMVTGVTEG-----------------*
+>P1;gi|44386660|gb|EAI90942.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 9 .. 81 ]
+sequence
+----INIPE---GVALEVKENIITVKGKL---GELSQSF--DGVSFDISD-NTITVKRDSDSKDHKSKHG
+LYRSLVNNMVVGVSEG-----------------*
+>P1;gi|19075194|ref|NP_587694.1| 60s ribosomal protein l9 [Schizosac... [ score 77 E 1e-13 ] [ range 9 .. 85 ]
+sequence
+--ETLTIPE---GVSVDIKARLVTVKGPR---GVLKQNLRRVDIELKKQG-NTIKFIVWHGSRKHNACIR
+TAYSIINNMIIGVTQG-----------------*
+>P1;gi|38233134|ref|NP_938901.1| 50S ribosomal protein L6 [Corynebac... [ score 77 E 1e-13 ] [ range 6 .. 82 ]
+sequence
+-KAPIAIPS---GVDVKIDGQHVEVKGPK---GTLDLTIPEP-IVASIED-GQISVVRPDDHRKNRSLHG
+LSRSLVNNMVVGVTEG-----------------*
+>P1;gi|43552219|gb|EAE30877.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 9 .. 81 ]
+sequence
+----INIPE---GVTLEVKENVITVKGKL---GELSQEFN--GVSFDISD-SQVTVKRDTESKDHKSKHG
+LYRSLVNNMVIGVSEG-----------------*
+>P1;gi|44383995|gb|EAI88833.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 8 .. 83 ]
+sequence
+---PIEIPE---KVEINIDGNKINVKGPK---GELVTEVLEEKIKFEISD-NVLQFTRESDEKQVKSLHG
+LYRSLVANNIVGVSEG-----------------*
+>P1;gi|34872577|ref|XP_345601.1| similar to 60S RIBOSOMAL PROTEIN L9... [ score 76 E 2e-13 ] [ range 10 .. 87 ]
+sequence
+----VNIPE---NVDITLKGCTVIVKGPK---GTLRRDFNHINVELSLLG-KKLRVDKWWGNRKELATVR
+TICSHVQNMIKGVTLG-----------------*
+>P1;gi|19551775|ref|NP_599777.1| ribosomal protein L6 [Corynebacteri... [ score 75 E 3e-13 ] [ range 6 .. 82 ]
+sequence
+-KEPITIPS---GVETKIDGQLVEVKGPK---GTLNVNVPEP-ISVAVED-GKIVVTRPDDHRTNRSLHG
+LSRSLVNNLVVGVTEG-----------------*
+>P1;gi|25027106|ref|NP_737160.1| putative 50S ribosomal protein L6 [... [ score 75 E 3e-13 ] [ range 6 .. 82 ]
+sequence
+-KNPIAIPS---GVEVKIDGRLVDVKGPK---GNLNVTLPEP-ITASIEN-NEILVTRPDDHRNSRSMHG
+LSRSLVNNLVVGVTEG-----------------*
+>P1;gi|15644233|ref|NP_229285.1| ribosomal protein L6 [Thermotoga ma... [ score 75 E 3e-13 ] [ range 6 .. 89 ]
+sequence
+-KKPIVLPQ---GVTVEIKDNVVKVKGPK---GELSQEFL-PYVKIEVEG-NEVQIIRKSDWRKVKMFQG
+TYWSLIRNMVVGVTEG-----------------*
+>P1;gi|15829043|ref|NP_326403.1| 50S RIBOSOMAL PROTEIN L6 [Mycoplasm... [ score 75 E 4e-13 ] [ range 9 .. 82 ]
+sequence
+----IQIPS---GTEVKIDGSFFEVKGKL---GSLSR-LFSPFVNIKHEN-NQISVERLNELKPTKQLHG
+TTNALIANMVKGVSEG-----------------*
+>P1;gi|21223097|ref|NP_628876.1| 50S ribosomal protein L6 [Streptomy... [ score 75 E 4e-13 ] [ range 6 .. 83 ]
+sequence
+-KLPIAVPA---GVDVTIDGRTVSVKGPK---GSLTHTVVAP-IDIAKED-GVLNVTRPNDERQSKALHG
+LSRTLVANMITGVTQG-----------------*
+>P1;gi|42518444|ref|NP_964374.1| 50S ribosomal protein L6 [Lactobaci... [ score 75 E 4e-13 ] [ range 9 .. 80 ]
+sequence
+----IEVPE---KVTVTKNGDDITVKGPK---GELTR-YFDPRITFEQKD-GEIHFSRSSE--ADKALHG
+TERANLASMIEGVTDG-----------------*
+>P1;gi|24266971|gb|AAN52383.1| ribosomal protein L9 [Branchiostoma b... [ score 75 E 4e-13 ] [ range 8 .. 85 ]
+sequence
+--EEVKIPP---GITVSVNARVVTVKGPR---GTLKKSFKHLNVEMKMLG-KKLQVKKWFGNRKELACVR
+TVCSHVYNMIKGVTLG-----------------*
+>P1;gi|43074212|gb|EAC03378.1| unknown [environmental sequence] [ score 75 E 5e-13 ] [ range 6 .. 82 ]
+sequence
+-KTPIEIKS---GVEVVVNADSVEIKGPK---GTLAQSIPE-GIEVQKEE-ETIIVKRDNDLRETKALHG
+LVRSLLNNMVHGVTEG-----------------*
+>P1;gi|43559806|gb|EAE34686.1| unknown [environmental sequence] [ score 75 E 5e-13 ] [ range 9 .. 81 ]
+sequence
+----INIPE---GVTLEVKKNLITVKGKL---GELSQQF--DGVSFDISD-SQITVKRDSESKDHKSKHG
+LYRSLVNNMVVGVSEG-----------------*
+>P1;gi|42984253|gb|EAB59064.1| unknown [environmental sequence] [ score 75 E 5e-13 ] [ range 6 .. 82 ]
+sequence
+-KAPITIPD---GLSVEISDDMIKVSGKQ---GELTQQIPE-GIDIQVED-SVITVERADDSRQQRSLHG
+LARALVNNMVEGVSNG-----------------*
+>P1;gi|29831484|ref|NP_826118.1| putative ribosomal protein L6 [Stre... [ score 74 E 6e-13 ] [ range 6 .. 83 ]
+sequence
+-KLPITVPA---GVDVTIDGRTVQVKGPK---GSLSHTIAAPIEIAKGED-GVLNVTRPNDERQNKALHG
+LSRTLVANMITGVTQG-----------------*
+>P1;gi|43366671|gb|EAD48163.1| unknown [environmental sequence] [ score 74 E 6e-13 ] [ range 6 .. 82 ]
+sequence
+-KTPISIPT---SVDIAIDGANIEVKGPK---GSLNLVLTE-GISLTQED-ESLVVHRENDERQSKALHG
+LMRSIINNMIIGVTEG-----------------*
+>P1;gi|38080388|ref|XP_194223.2| similar to 60S ribosomal protein L9... [ score 74 E 7e-13 ] [ range 10 .. 87 ]
+sequence
+----VDIPE---NVEITLKGRTVIVKGPR---GTLRRDFNHINVELSLLG-KKLWVDKWWGNRKELATVR
+NICSHVQNMIKGVTLG-----------------*
+>P1;gi|21759391|sp|Q90YW0|RL9_ICTPU 60S ribosomal protein L9 >gi|152... [ score 74 E 7e-13 ] [ range 10 .. 87 ]
+sequence
+----VDIPD---NVDVTLKGRTVSVKGPR---GVLRREFNHINLELRKKQ-KKLRVDKWWGNRKELATVR
+TICSHVQNMIKGVTLG-----------------*
+>P1;gi|28436778|gb|AAH46581.1| Rpl9-prov protein [Xenopus laevis] [ score 73 E 1e-12 ] [ range 10 .. 87 ]
+sequence
+----VDIPQ---NVDISLKGRTVTVKGPR---GVLRKNFNHINVELCLMG-KKLRVDKWWGNRKELATVR
+TICSHVQNMVKGVTLG-----------------*
+>P1;gi|20880518|ref|XP_137555.1| similar to 60S ribosomal protein L9... [ score 73 E 1e-12 ] [ range 8 .. 87 ]
+sequence
+--ETVHIPE---NVDITLKGRTVIVKGPR---GTLQRDFNHISVELSLPG-KKLQVDKWWGNRKELATIR
+TIYSHVQNTIKGVTLG-----------------*
+>P1;gi|33594767|ref|NP_882410.1| 50S ribosomal protein L6 [Bordetell... [ score 73 E 1e-12 ] [ range 6 .. 82 ]
+sequence
+-KYPVELPK---GVEASIQPDQITVKGPL---GTLVQSLT-GDVNVAQED-GKLTFVVANDSRHANAMSG
+TLRALVANMVTGVSKG-----------------*
+>P1;gi|29348121|ref|NP_811624.1| 50S ribosomal protein L6 [Bacteroid... [ score 73 E 1e-12 ] [ range 6 .. 87 ]
+sequence
+-KLPISIPA---GVTVTLKDDVVTVKGPK---GELS-QYVNPAINVAIED-GHVTLTIDNPKQKH-AFHG
+LYRSLVHNMVVGVSEG-----------------*
+>P1;gi|44330436|gb|EAI50893.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 8 .. 82 ]
+sequence
+---PIQIPD---DVNISIEGNLVKVTGKK---GVLEFN-KHNAMEILEVD-GNLIVKRDSDGREQKSLHG
+TTRQIINNMVIGVSQG-----------------*
+>P1;gi|20862055|ref|XP_141567.1| similar to 60S ribosomal protein L9... [ score 73 E 2e-12 ] [ range 15 .. 92 ]
+sequence
+----VDIPE---NVEITLKGCTVIVKGPR---GTLQRDFNHINMELSLLG-KKLRVDKWWGNRKELATVR
+TICSHVQNMIKGATLG-----------------*
+>P1;gi|43305127|gb|EAD18341.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 8 .. 82 ]
+sequence
+---PINIPT---GVDVNITGNLVTIKGSK---GELSHNI-HPLIKVEQAD-NILKTSTKSNSKFAKALSG
+TTRALIQNIVTGVSEG-----------------*
+>P1;gi|37779100|gb|AAP20210.1| ribosomal protein L9 [Pagrus major] [ score 73 E 2e-12 ] [ range 10 .. 87 ]
+sequence
+----VDIPD---NVEVRLKGRTVIVKGPR---GKLVREFNHINLELSKKQ-KKLRVDKWWGNRKELATVR
+TICSHVQNMIKGVTLG-----------------*
+>P1;gi|29841009|gb|AAP06022.1| similar to XM_085215 similar to ribos... [ score 72 E 3e-12 ] [ range 8 .. 84 ]
+sequence
+--ESVKIPP---GIKAKAIKRVIYIKGPR---GSLKRDFKHLSLDIRVFS-KRIVVTKYFGNRKELAAVR
+TVCSHISNMIKGVTSG-----------------*
+>P1;gi|21759393|sp|Q963B7|RL9_SPOFR 60S ribosomal protein L9 >gi|149... [ score 72 E 3e-12 ] [ range 9 .. 85 ]
+sequence
+---KVKIPE---GLTVHVKSRLVTVKGPR---GVLKRNFKHLAVDIRMVN-PRVLVEKWFGSKKELAAVR
+TVCSHVENMIKGVTKG-----------------*
+>P1;gi|44005764|gb|EAG60973.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 6 .. 82 ]
+sequence
+-KNPIIIPD---GVNISVHDKNVTVKGSK---GELDFSLSLS-ISLNIDD-NAITVSYDESDQKSVALAG
+TTRSIINNMIIGVSVG-----------------*
+>P1;gi|44457614|gb|EAJ40685.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 6 .. 82 ]
+sequence
+-KSPINIPD---NVEFSINENIVKVKGSK---GEL--EFSLPEVSIEVQE-NVINVKYDEANQQSVALAG
+TTRSLVNNMIIGVSEG-----------------*
+>P1;gi|42526294|ref|NP_971392.1| ribosomal protein L6 [Treponema den... [ score 72 E 4e-12 ] [ range 6 .. 83 ]
+sequence
+-KMPVAIPA---GVKVNVANGIFTVEGPK---GKLSQDYHTEAVDFKIEG-DHVLVTRKDDELQTRAYHG
+LYRSLLNNMVTGVSTG-----------------*
+>P1;gi|41410280|ref|NP_963116.1| RplF [Mycobacterium avium subsp. pa... [ score 72 E 4e-12 ] [ range 6 .. 83 ]
+sequence
+-KQPVPVPA---GVDVTIDGQKVSVKGPK---GTLDLTVAEPITVSRNDD-GAIVVTRPNDERRNRSLHG
+LSRTLVSNLVTGVTQG-----------------*
+>P1;gi|3914761|sp|O02376|RL9_HAECO 60S ribosomal protein L9 >gi|2181... [ score 72 E 5e-12 ] [ range 10 .. 85 ]
+sequence
+----VDFPD---GVTFTVKNRVVHVTGPR---GTLKRDFRHLHMEMEVGK-NQLRVRKWFGVRKEIAAIR
+TVCSHIQNMIKGVTKG-----------------*
+>P1;gi|15807105|ref|NP_295834.1| ribosomal protein L6 [Deinococcus r... [ score 71 E 5e-12 ] [ range 33 .. 109 ]
+sequence
+-KQPIAVPS---GVTVNAQDGVFKVKGPK---GELTVP-YNTELTVRQDG-DQLLVERPSDAQKHRALHG
+LTRTLVANAVKGVSDG-----------------*
+>P1;gi|44636498|gb|EAK64796.1| unknown [environmental sequence] [ score 71 E 5e-12 ] [ range 6 .. 82 ]
+sequence
+-KSPINIPD---NVEFSMNENIVKVKGSK---GELEFTLPAS-VSIEVQE-NVINVKYDEANQKSVALAG
+TTRSLVNNMIIGVSEG-----------------*
+>P1;gi|33864013|ref|NP_895573.1| 50S ribosomal protein L6 [Prochloro... [ score 71 E 5e-12 ] [ range 6 .. 82 ]
+sequence
+-KNPIPIPD---KVAVTLDGLAVSVKGPK---GELSRTLPE-GVSVSQVE-NTIVVTPTSQKRKSRERHG
+LCRSLVANMVEGVSKG-----------------*
+>P1;gi|33241147|ref|NP_876089.1| Ribosomal protein L6P/L9E [Prochlor... [ score 71 E 6e-12 ] [ range 6 .. 82 ]
+sequence
+-KKPIPVPE---KVAVTLDGLLVTVKGPK---GELTRTLPE-GVTIDQTD-GLIIVSADSEKRKSRERHG
+LSRTLVANMIEGVNNG-----------------*
+>P1;gi|44248413|gb|EAH94748.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 6 .. 82 ]
+sequence
+-KQPILVPE---GVNVIIEDLSVQVKGPK---GALSVDI-HKDMNLDLKD-NTLLVSRPSDDRLHKSLHG
+TTRMILMNCINGVSDG-----------------*
+>P1;gi|44297265|gb|EAI28087.1| unknown [environmental sequence] [ score 71 E 7e-12 ] [ range 6 .. 84 ]
+sequence
+-KQPVDIPE---AVEANISDNLLKVKGPK---GELSLDLIN-DVSISIQD-GSVKITSNGKSRFSKAAAG
+TFRSLIQNMVIGVTEG-----------------*
+>P1;gi|34499626|ref|NP_903841.1| 50S ribosomal protein L6 [Chromobac... [ score 71 E 7e-12 ] [ range 6 .. 82 ]
+sequence
+-KNPVAIPA---GVEVKFGAADVTVKGAL---GSLSTALCN-DVEVKLDN-GQLTFAAKNDSKFARAMSG
+TLRALLNNMVNGVSKG-----------------*
+>P1;gi|43362996|gb|EAD46333.1| unknown [environmental sequence] [ score 71 E 7e-12 ] [ range 6 .. 82 ]
+sequence
+-KNPITIPD---SVDLSINENVVIVKGSK---GEL--DFVLPDISLDVAD-KVITIKYDEENQQSVALAG
+TSRSLINNMVIGVSEG-----------------*
+>P1;gi|44398324|gb|EAI99212.1| unknown [environmental sequence] [ score 71 E 7e-12 ] [ range 8 .. 82 ]
+sequence
+---EIIYSE---DVQVVMDGNIVKVKGPK---GSLERTIPE-GITINIDS-GKINVKRNSEEKRIKAFHG
+LTRSLVNNMVIGVKEG-----------------*
+>P1;gi|43698548|gb|EAF04508.1| unknown [environmental sequence] [ score 71 E 7e-12 ] [ range 6 .. 82 ]
+sequence
+-KLPINIPN---GVSVDINGQEVNIKGPK---GE-EKLVAHSTIKVIFKD-NEIICERNSEEPEVKAFHG
+LTRSLLNNCVIGVSTG-----------------*
+>P1;gi|44462195|gb|EAJ43868.1| unknown [environmental sequence] [ score 70 E 9e-12 ] [ range 2 .. 85 ]
+sequence
+PRENIALPD---GMAASIEGNTVTLSKEG---NNLSREFTHNRVSVNQAE-NGLEVFCSLPRRSEKAIAG
+TWAAHLRNMVKGLDEG-----------------*
+>P1;gi|23104454|ref|ZP_00090918.1| COG0097: Ribosomal protein L6P/L9... [ score 70 E 9e-12 ] [ range 6 .. 82 ]
+sequence
+-KNPVKLPA---GVEVKLAGQQLSVKGAK---GSLELN-VHPSVEVVQEA-GELRFAARNGDQQNRAMAG
+TTRALVNNMVIGVSQG-----------------*
+>P1;gi|22758894|gb|AAN05606.1| ribosomal protein L9 [Argopecten irra... [ score 70 E 9e-12 ] [ range 10 .. 85 ]
+sequence
+----VKIQP---GLTGSVKARKVTITGPR---GTLTRNFRHLAVDISMIG-NTIKVEKWYGKHKELAAVR
+TVCSHIENMMKGVTKG-----------------*
+>P1;gi|38050460|ref|XP_193447.2| similar to 60S ribosomal protein L9... [ score 70 E 1e-11 ] [ range 12 .. 86 ]
+sequence
+------IPE---NVEITLKGRTVIVKGPR---GTLRRDFNHINVELSKKK-KRLRVDKWWGNRKELATVR
+TICSNVQNMIKGVTLG-----------------*
+>P1;gi|38086985|ref|XP_136137.2| similar to 60S ribosomal protein L9... [ score 70 E 1e-11 ] [ range 10 .. 85 ]
+sequence
+----VDIPE---NVKITLKGHTVIVKGPG---GTLRRDFNHINMELSLLG-KKKTPGLTNGNRKELATVR
+TICSHVQNMIKGVTLG-----------------*
+>P1;gi|44169482|gb|EAH50106.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 8 .. 82 ]
+sequence
+---PVALPQ---GVEVSFNKGEVSVKGKL---GELKQEISE-GISIEVTE-NEVLLSRENETKDLKAKHG
+LYRSIVNNMVVGVSEG-----------------*
+>P1;gi|15642576|ref|NP_232209.1| ribosomal protein L6 [Vibrio choler... [ score 70 E 1e-11 ] [ range 6 .. 82 ]
+sequence
+-KAPVAIPA---GVEVKLNGQEITIKGAK---GELTR-VFHNGVVIAQED-NQLTFGPREGVANAWAQAG
+TARALVKNMVVGVTEG-----------------*
+>P1;gi|43348898|gb|EAD39382.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 6 .. 85 ]
+sequence
+-KQPIVIPE---SVEVNLADAEFTVKGPK---GELSLDLI-SDISVFLED-GSVKVSSNGKTRFSKAAAG
+TFRSLIQNMVIGVTEG-----------------*
+>P1;gi|33087067|gb|AAP92747.1| ribosomal L9-like protein [Oryza sati... [ score 70 E 1e-11 ] [ range 8 .. 86 ]
+sequence
+--ETMEIPE---GVTVQVAAKVVTVEGPR---GKLTRNFKHLDFQLLEGG-RKLQVDAWFGTRRTMAAIR
+TAISHVQNLITGVTKG-----------------*
+>P1;gi|43664230|gb|EAE87077.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 8 .. 80 ]
+sequence
+---PVALPT---GVDIKIEGLNLSVKGGK---GTLGLTLTD-GVGVNVEA-DTATITYEGDS--HRAMAG
+TTRSLLANMVKGVSEG-----------------*
+>P1;gi|6324262|ref|NP_014332.1| Protein component of the large (60S)... [ score 70 E 1e-11 ] [ range 9 .. 85 ]
+sequence
+---QIEIPE---GVTVSIKSRIVKVVGPR---GTLTKNLKHIDVTFTKVN-NQIKVAVHNGDRKHVAALR
+TVKSLVDNMITGVTKG-----------------*
+>P1;gi|44080687|gb|EAH02235.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 6 .. 82 ]
+sequence
+-KSPINIPD---NVEFSMNENIVKVKGSK---GELEFTLPVS-VSIEVQE-NVINVKYDEANQKSVALAG
+TTRSIVNNMIIGVSEG-----------------*
+>P1;gi|133010|sp|P04448|RL6_MYCCA 50S RIBOSOMAL PROTEIN L6 >gi|71115... [ score 70 E 2e-11 ] [ range 9 .. 83 ]
+sequence
+----LQIPN---GVEVKIAENNVTITGSK---GTLSKQFS-PLIKIEVEE-NKLITKRLNEQKHTKQLHG
+TTNSLLQGMLTGVSEG-----------------*
+>P1;gi|22297639|ref|NP_680886.1| 50S ribosomal protein L6 [Thermosyn... [ score 70 E 2e-11 ] [ range 6 .. 82 ]
+sequence
+-KRPIPLPK---NVTLTLDGQQVTVKGPK---GQLSR-VFPPEVNVVQEG-EAIVVKRRDDSRPAKERHG
+LCRTLLANMVEGVSQG-----------------*
+>P1;gi|27669155|ref|XP_234521.1| similar to 60S RIBOSOMAL PROTEIN L9... [ score 70 E 2e-11 ] [ range 9 .. 88 ]
+sequence
+--ETVDIPE---NVDITLKGCTVIVRDPR---GTLRRDFNHINVELSLLG-KKLCVDKWWGNSKELATVR
+TICSHVQNMIKGVTLG-----------------*
+>P1;gi|44495971|gb|EAJ66782.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 6 .. 82 ]
+sequence
+-KNPIPIPE---KVSVEISGMTVKVKGPK---GELERVLPD-GVSIAQAD-NAVTVSPNDSSRRSRERHG
+LSRTLVANMVEGVSKG-----------------*
+>P1;gi|43533907|gb|EAE21653.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 6 .. 82 ]
+sequence
+-KRPIQLVQ---DVEVKFINRVLEVKGPK---GELELQT-HSDVDLVIEN-NTLSVISSNEKITKTALIG
+TTWKLINNMIHGVSQG-----------------*
+>P1;gi|43524801|gb|EAE17092.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 6 .. 82 ]
+sequence
+-KSPISIPD---KVEFNNQNNVLSVSGPK---GKLLFTASN-KINITVVD-NKIEVSRANDSKEQRSLHG
+TTRQMIYNMIVGVTDG-----------------*
+>P1;gi|15827987|ref|NP_302250.1| 50S ribosomal protein L6 [Mycobacte... [ score 69 E 2e-11 ] [ range 6 .. 83 ]
+sequence
+-KQPIPVPA---GVDITIDGQNVLVKGPK---GTLDLTVAEPIMLARNDE-GAIVVTRPDNERRNRSLHG
+LSRTLVSNLVTGVTQG-----------------*
+>P1;gi|2119112|pir||JC6062 ribosomal protein L9 - fruit fly (Drosoph... [ score 69 E 2e-11 ] [ range 10 .. 85 ]
+sequence
+----VKIPK---DIKASVKARVVTITGTR---GTLKRTFKHLALDMYMPD-KTLKVEKWFGTKKELAAVR
+TVCSHIENMIKGVTFG-----------------*
+>P1;gi|9857052|emb|CAC04009.1| probable ribosomal protein L9 [Leishm... [ score 69 E 2e-11 ] [ range 10 .. 86 ]
+sequence
+----LQIPE---GVTVDVKGRKVTVTGKR---GTLTKDLTHLDLRVDKKN-RTFTVIRWFGSKIPIACLN
+TTKAHVQNMITGVTKG-----------------*
+>P1;gi|44514159|gb|EAJ79011.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 6 .. 82 ]
+sequence
+-KTPVLIPE---KVTVDFDGLTVTVKGPK---GELKR-LMPEGVSFDKKD-NTVVVSPTTTKIYSRQRHG
+LCRALIANMVEGVTQG-----------------*
+>P1;gi|27672225|ref|XP_224924.1| similar to 60S ribosomal protein L9... [ score 69 E 3e-11 ] [ range 46 .. 123 ]
+sequence
+----VDIPE---NVDITLKGRTAIVEGPR---GTLRRDFNHINVELSLLG-KKLRVDKWWGNGKELATVR
+TICSHVQNVIKGVTLG-----------------*
+>P1;gi|43971854|gb|EAG42756.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 6 .. 82 ]
+sequence
+-KNPITIPD---SVNLTTDNNVVSVKGSK---GEL--DFNMPSVSIEVNE-NIISIKYDDTNQKSIALAG
+TTRSIINNMIIGVTEG-----------------*
+>P1;gi|15606751|ref|NP_214131.1| ribosomal protein L06 [Aquifex aeol... [ score 69 E 3e-11 ] [ range 6 .. 86 ]
+sequence
+-KKPIPYPE---NVKVNYKEHKIVVEGPK---GKLELN-VHPDIKVTVNQ-QEIKLDRPTDRSFHKAIHG
+TMAALVKNMIKGVTEG-----------------*
+>P1;gi|43924856|gb|EAG17288.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 6 .. 82 ]
+sequence
+-KMPVTIPA---GVDVSVKSDQISVKGSG---GTLSLA-QNALVKVSSND-GKLSFEPANDSREANAMSG
+TIRQLVNNMVVGVSKG-----------------*
+>P1;gi|27690015|ref|XP_227018.1| similar to 60S RIBOSOMAL PROTEIN L9... [ score 69 E 3e-11 ] [ range 11 .. 87 ]
+sequence
+-----DIPE---NVDITLKGRTIILKGPR---GTLRRDFNHINVELSLLG-KKLRVDKWWGNRKELATLR
+TICSHLQNLIKGVTLG-----------------*
+>P1;gi|15607859|ref|NP_215233.1| rplF [Mycobacterium tuberculosis H3... [ score 69 E 3e-11 ] [ range 6 .. 83 ]
+sequence
+-KQPIPVPA---GVDVTIEGQSISVKGPK---GTLGLTVAEPIKVARNDD-GAIVVTRPDDERRNRSLHG
+LSRTLVSNLVTGVTQG-----------------*
+>P1;gi|17231693|ref|NP_488241.1| 50S ribosomal protein L6 [Nostoc sp... [ score 69 E 3e-11 ] [ range 6 .. 82 ]
+sequence
+-KRPITVPA---KVQVTIDGTKVVVKGPK---GELSRELP-ANVSVSQEG-ETLQVTRRDETRTSRQLHG
+LSRTLVANMVEGVSQG-----------------*
+>P1;gi|44642722|gb|EAK69375.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 6 .. 82 ]
+sequence
+-KNPVPVPD---KVTVSLDGLTVKVKGPK---GELERTLPD-GVSVSQEE-NTIVVAPSTTKRFSRERHG
+LCRTLVANMIEGVNNG-----------------*
+>P1;gi|11499493|ref|NP_070734.1| LSU ribosomal protein L6P (rpl6P) [... [ score 69 E 3e-11 ] [ range 24 .. 103 ]
+sequence
+----VEVPE---DVQLTIEGYTLKAVGPK---GENTRYLKYRGVFIEVGD-GKVRVYTTSPKKKHKAMVG
+TFAGHIENLITGVKEG-----------------*
+>P1;gi|23124114|ref|ZP_00106125.1| COG0097: Ribosomal protein L6P/L9... [ score 69 E 3e-11 ] [ range 6 .. 82 ]
+sequence
+-KRPITIPA---KVQVAINGTNIVVKGPK---GELSRTLRD-NVSLSQEG-EILHVNRRDETRTSKQLHG
+LSRTLVANMVEGVSQG-----------------*
+>P1;gi|43657888|gb|EAE83863.1| unknown [environmental sequence] [ score 68 E 3e-11 ] [ range 6 .. 82 ]
+sequence
+-KNPISIPS---GVEIKLDANTISVSGSK---G--KSDFEFPDVSAKHEN-DFIKVSYDESSSESTALAG
+TTRSLINNMVIGVSQG-----------------*
+>P1;gi|15594838|ref|NP_212627.1| ribosomal protein L6 (rplF) [Borrel... [ score 68 E 3e-11 ] [ range 6 .. 82 ]
+sequence
+-RLPIKIPD---AVKVDVKDNLVIVEGIR---GRLVQDIKDS-INVKVEN-GSVIVDRVLNDKKAKAYHG
+LYRSLIFNMVKGVTEG-----------------*
+>P1;gi|44272877|gb|EAI11794.1| unknown [environmental sequence] [ score 68 E 3e-11 ] [ range 6 .. 85 ]
+sequence
+-KQPVVIPE---AVEVNIADAEFTVKGPK---GELSLDLIN-DISVSLED-GAVKVSSDGKTRFSKAAAG
+TFRSLIQNMVIGVTEG-----------------*
+>P1;gi|45187583|ref|NP_983806.1| ADL290Wp [Eremothecium gossypii] >g... [ score 68 E 3e-11 ] [ range 10 .. 85 ]
+sequence
+----LDIPE---GVTVNIKSRVIKVTGPR---GTLEKNLKHIDVTFTKVS-NKITITVHNGDRKHVAALR
+TVKSLISNMITGVTKG-----------------*
+>P1;gi|43085933|gb|EAC09166.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 6 .. 82 ]
+sequence
+-KNPITIPD---NVDLNITENVVIVKGSK---GEL--DFVLPDISLDVAD-KVITIKYDEENQQSVALAG
+TSRSLINNMVIGVSEG-----------------*
+>P1;gi|43133812|gb|EAC32734.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 6 .. 82 ]
+sequence
+-KNPVSIPS---GVEIKLDAKSISVSGSK---G--KSDFTFPDVSAKHEN-DIITFSYDESSAESTALAG
+TTRSLINNMVIGVSEG-----------------*
+>P1;gi|44366216|gb|EAI76271.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 6 .. 82 ]
+sequence
+-KAPVTIPA---GVEVTLNGQELSIKGGK---GSLVRSI-HAGVEVTKED-NVLKFAPRDGIAGADAQAG
+TARALVNNMVIGVTQG-----------------*
+>P1;gi|43139565|gb|EAC35536.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 6 .. 82 ]
+sequence
+-KTPVLIPE---KVTVDFDGLTVTVKGPK---GELKR-LMPAGVSFDKKD-NTVVVSPTTTKISSRQRHG
+LCRALIANMVEGVSQG-----------------*
+>P1;gi|43095914|gb|EAC14081.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 8 .. 80 ]
+sequence
+---PVALPK---GVDIKIEGLNLSVKGGK---GTLDLTLTD-GVGVNVDE-DVATI--TFEGDSHRAMAG
+TTRSLLANMVKGVSEG-----------------*
+>P1;gi|21674983|ref|NP_663048.1| ribosomal protein L6 [Chlorobium te... [ score 68 E 4e-11 ] [ range 6 .. 82 ]
+sequence
+-KMPIRLAD---QAQVEVKENMINVTGPK---GALSQALVD-EVIVSVAD-GAVTVQRKDDSKRARAMHG
+LYRMLVSNMVEGVTKG-----------------*
+>P1;gi|33866613|ref|NP_898172.1| 50S ribosomal protein L6 [Synechoco... [ score 68 E 5e-11 ] [ range 6 .. 82 ]
+sequence
+-KNPVPVPD---KVTVSLDGLTVKVKGPK---GELERTLPD-GVSVSQDN-NCIVVAPSTSKRFSRERHG
+LCRTLVANMIEGVNNG-----------------*
+>P1;gi|43314112|gb|EAD22806.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 8 .. 84 ]
+sequence
+---PVSVPS---GVTVSIGSSEVKVEGPK---GALDFPLF-PEITAELVD-DKVVLQRTGGAKKASALHG
+LVRAHIANMVEGVTKG-----------------*
+>P1;gi|43188725|gb|EAC59875.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 6 .. 82 ]
+sequence
+-KTPVLIPE---KVTVDFDGLTVTVKGPK---GELKR-LMPDGVSFDKKD-NTVVVSPTTTKIYSRQRHG
+LCRALIANMVKGVTQG-----------------*
+>P1;gi|44363053|gb|EAI74151.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 8 .. 81 ]
+sequence
+---PILIPD---GVNVQINADELVVSGKL---GTLTQ--SYDTISVTQNE-NVLNVSRDADTNEHKSKHG
+LYRSLFANMITGVTEG-----------------*
+>P1;gi|44352869|gb|EAI66803.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 6 .. 85 ]
+sequence
+-KQPVVIPE---AVEVNIAENLFTVKGPK---GELSLDLIN-DISVSLED-GAVKVSSDGKTRFSKAAAG
+TFRSLIQNMVIGVTEG-----------------*
+>P1;gi|28897046|ref|NP_796651.1| ribosomal protein L6 [Vibrio paraha... [ score 68 E 6e-11 ] [ range 6 .. 82 ]
+sequence
+-KAPVAIPA---GVEVKLNGQEITVKGAK---GELTRVLNDA-VVIAQEE-NNLTFGPKEGVANAWAQAG
+TARALVNNMVVGVTEG-----------------*
+>P1;gi|44023836|gb|EAG70922.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 9 .. 82 ]
+sequence
+----IKIPD---DVTVTYGDGEFTAKGKN---GALSLKT-HTLIDINIEN-NEISFKSKNNSKFGRSIWG
+TTRANIANVIKGVSQG-----------------*
+>P1;gi|42545591|gb|EAA68434.1| hypothetical protein FG01154.1 [Gibbe... [ score 68 E 6e-11 ] [ range 67 .. 142 ]
+sequence
+----LEIPE---GVKVAIKSRIVTVEGPR---GKLVKDLSHLAVNFSTKK-NQISIEIHHGVRKNVATLR
+TVRTLINNLIIGVTKG-----------------*
+>P1;gi|15892914|ref|NP_360628.1| 50S ribosomal protein L6 [Rickettsi... [ score 67 E 7e-11 ] [ range 6 .. 82 ]
+sequence
+-KLPITIPE---GVKIGLNDLEVKISGPK---GELSKTFK-GNIAISLAE-NKLLVKPLAANKNARAMWG
+TARSIISNMVTGVKEG-----------------*
+>P1;gi|27364199|ref|NP_759727.1| Ribosomal protein L6P/L9E [Vibrio v... [ score 67 E 7e-11 ] [ range 6 .. 82 ]
+sequence
+-KAPVAIPA---GVEVKLNGQEITVKGAK---GELSRVINNA-VVIAQEE-NKLTFGPREGVANAWAQAG
+TARALVNNMVVGVTEG-----------------*
+>P1;gi|22998384|ref|ZP_00042465.1| COG0097: Ribosomal protein L6P/L9... [ score 67 E 7e-11 ] [ range 6 .. 82 ]
+sequence
+-KKPVVVPD---GVDLKINGTVVTAKGKL---GELTRQF-HEAITFAQEG-KEVNVAVSGTDKKSSSLWG
+LSRTLLDNMVVGVSQG-----------------*
+>P1;gi|15604490|ref|NP_221008.1| 50S RIBOSOMAL PROTEIN L6 (rplF) [Ri... [ score 67 E 7e-11 ] [ range 6 .. 82 ]
+sequence
+-KLPITIPE---GVKVGLNDLEVKISGPK---GELSKTFK-GNIAIIMEE-NKLVVKPLAVNKNARAMWG
+TARSIICNMITGVKEG-----------------*
+>P1;gi|39938701|ref|NP_950467.1| ribosomal protein L6 [Onion yellows... [ score 67 E 8e-11 ] [ range 9 .. 83 ]
+sequence
+----IEVPN---AVKVDIDRNFISVEGPK---GKLEYQFNH-RLTITNEN-KVITVKRPNDEIFMKKIHG
+TTRALLSNMVEGVSKG-----------------*
+>P1;gi|44403942|gb|EAJ03087.1| unknown [environmental sequence] [ score 67 E 9e-11 ] [ range 8 .. 83 ]
+sequence
+---PIVIPE---NVEVKLDDKKIFVKGSK---GELTTEILDERIKFEINE-GILKFTRESEDKSVKSLHG
+LYRSLVANNIIGVSEG-----------------*
+>P1;gi|20343107|ref|XP_110911.1| similar to 60S ribosomal protein L9... [ score 67 E 9e-11 ] [ range 10 .. 87 ]
+sequence
+----VNIPE---NVKITLKGRTVIMKGPR---GTLQRDFNHINVELSLLG-KKLRVDKWWGNRKELATIR
+NICSHVQNMIKSVTLG-----------------*
+>P1;gi|23014073|ref|ZP_00053910.1| COG0097: Ribosomal protein L6P/L9... [ score 67 E 9e-11 ] [ range 6 .. 82 ]
+sequence
+-KYPVSVPS---GVTVQITGPEVTVKGKL---GESKLTLRD-NVEVTLDG-NLIWVKPKNETKHARMMWG
+TTRAHLNNMVKGVSEG-----------------*
+>P1;gi|44328650|gb|EAI49633.1| unknown [environmental sequence] [ score 67 E 9e-11 ] [ range 6 .. 82 ]
+sequence
+-KNPVPVPE---KVTVSLDGLTVKVKGPK---GELERTLPE-GVSVSQDN-NTIVVSPTSTKRISRERHG
+LSRTLVANMIEGVNNG-----------------*
+>P1;gi|44041825|gb|EAG80814.1| unknown [environmental sequence] [ score 67 E 9e-11 ] [ range 6 .. 82 ]
+sequence
+-KKPISLPE---KVDVKFEGLSITVKGPK---GQLQRTLPD-GVSLSKNE-NTIVVKPINEKRQSREMHG
+LCRSLVANMVEGVSNG-----------------*
+>P1;gi|43441577|gb|EAD75664.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 6 .. 82 ]
+sequence
+-KSPVSIPS---GVEINLDARTISVSGAK---G--KSDFTFPDVSATHEN-DFIVVSYDESSSESIALAG
+TTRSLINNMVIGVSEG-----------------*
+>P1;gi|3122745|sp|O24703|RL6_SYNP6 50S ribosomal protein L6 >gi|2446... [ score 67 E 1e-10 ] [ range 6 .. 82 ]
+sequence
+-KRPIPIPA---KVSVAIDGRLVSVKGPK---GELSRELP-SGVVVTQED-GNIIVSRADESRLARQRHG
+LSRTLVANLVEGVDSG-----------------*
+>P1;gi|41052913|dbj|BAD07825.1| putative 60S ribosomal protein L9 [O... [ score 67 E 1e-10 ] [ range 2 .. 79 ]
+sequence
+-----EIPS---GVTVHVAAKVVTVEGPR---GKLTRNFKHLNLDLEVEG-RKLQVDAWFGTRRTMAAIR
+TAISHVQNLITGVTKG-----------------*
+>P1;gi|43079827|gb|EAC06135.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 6 .. 82 ]
+sequence
+-KNPILIPS---DVKVKFENNCVIINGPK---GSLSVS-YDSSLKINYED-NTLTIERPTDSRVHKSLHG
+TTRQLVFNAVKGTKEG-----------------*
+>P1;gi|6321291|ref|NP_011368.1| Protein component of the large (60S)... [ score 67 E 1e-10 ] [ range 9 .. 85 ]
+sequence
+---QIEVPE---GVTVSIKSRIVKVVGPR---GTLTKNLKHIDVTFTKVN-NQIKVAVHNGGRKHVAALR
+TVKSLVDNMITGVTKG-----------------*
+>P1;gi|44194338|gb|EAH63201.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 8 .. 82 ]
+sequence
+---PILLPD---GVSVIINKSSIIIKGPK---GEIVQDF-DPVFSIKEND-NMLLISRPSEQKRHKSLHG
+LYRSLINNCVIGVSEG-----------------*
+>P1;gi|44307798|gb|EAI35110.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 6 .. 82 ]
+sequence
+-KTPVLIPD---KVSVDFDGLTVTVKGPK---GELKRQMPE-GVSFDKKD-NTVVVSPTTTKIFSRQRHG
+LCRALIANMVEGVSQG-----------------*
+>P1;gi|44271612|gb|EAI10902.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 6 .. 82 ]
+sequence
+-KNPIKIVD---GVNVTVEGNLVTVKGSK---GELEFEMTES-ISLNIAE-DTITVGYDENIQQSIALAG
+TTRSIVNNMIIGVSEG-----------------*
+>P1;gi|23470620|ref|ZP_00125952.1| COG0097: Ribosomal protein L6P/L9... [ score 67 E 1e-10 ] [ range 6 .. 82 ]
+sequence
+-KNPVKLPS---GVEVKLVGQLLSVKGAK---GTLELNI-HSSVEVVVEA-GELRFVARNGDQQTRAMAG
+TTRALVNNMVQGVSQG-----------------*
+>P1;gi|43471994|gb|EAD90739.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 6 .. 82 ]
+sequence
+-KMPINIPS---GVNVEISGDLVTVKGPK---GEEKVKIPN-LVKVTNQN-QQIICNRENDEPQSRATHG
+LIRSLINNCVVGVSEG-----------------*
+>P1;gi|44298237|gb|EAI28764.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 6 .. 82 ]
+sequence
+-KNPVPIPS---GVEIKLDARTISVSGAK---G--KSDFTFPDVSAKHEN-DVIKVSYDESSIESTALAG
+TTRSLINNMVIGVSEG-----------------*
+>P1;gi|24213454|ref|NP_710935.1| ribosomal protein L6 [Leptospira in... [ score 67 E 1e-10 ] [ range 6 .. 82 ]
+sequence
+-KAEIKLPD---KVEVKQENANIKVKGPL---GELFTPIFE-GISVKTEN-GIVKLERSNEDQKVVALHG
+LTRALLMNCVKGVSQG-----------------*
+>P1;gi|28493507|ref|NP_787668.1| 50S ribosomal protein L6 [Tropherym... [ score 66 E 2e-10 ] [ range 26 .. 102 ]
+sequence
+-KLPIEIPV---GVEVCVNGRTVSITGPK---GSLYLDIAE-QIGVSVSD-GKVLVSRSDDSRTARALHG
+LTRALIANNVHGVLHG-----------------*
+>P1;gi|43691644|gb|EAF01033.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 6 .. 82 ]
+sequence
+-KNPVSVPS---GVEIKLDAKTISVSGSK---G--KSDFVFPDVSAKHEN-DVITVSYDESSSESTALAG
+TTRSLINNMVIGVSEG-----------------*
+>P1;gi|40643002|emb|CAD91427.1| ribosomal protein L9 [Crassostrea gi... [ score 66 E 2e-10 ] [ range 7 .. 83 ]
+sequence
+----VKIPK---GVSASVKARKVIIKGPR---GTLTRTFRHLAVDITMVG-KNTSHGREMVWQTQGAPVR
+TVCSHIENMIKGVTKG-----------------*
+>P1;gi|44172409|gb|EAH51643.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 6 .. 82 ]
+sequence
+-KRPIKLVQ---DVEVTFKNRVLEVKGPK---GKLELHT-HSEVDLVIEN-NTLSVINSNENITKTALIG
+TTWKLINNMIHGVSQG-----------------*
+>P1;gi|13541172|ref|NP_110860.1| 50S ribosomal protein L6 [Thermopla... [ score 66 E 2e-10 ] [ range 10 .. 84 ]
+sequence
+----IEIPK---DVKVGLSGTMLSMTFGN---KKLEKKFADNYVRLLVED-NKIKIVKSKNNSRERGIVG
+TWASEISNMVKGLKEG-----------------*
+>P1;gi|15599444|ref|NP_252938.1| 50S ribosomal protein L6 [Pseudomon... [ score 66 E 2e-10 ] [ range 6 .. 82 ]
+sequence
+-KNPVKLPA---GVEIKLAGQQLSIKGAK---GALELK-VHPSVEVIQDS-GELRFAARNGDQQTRAMAG
+TTRALVNNMVVGVSQG-----------------*
+>P1;gi|43506600|gb|EAE08024.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 6 .. 85 ]
+sequence
+-KQPVVIPE---AVEANISDNIFKVKGPK---GELSLDLIN-DISLAIED-DSVKVSSNGKSRFSKAAAG
+TFRSLIQNMVIGVTEG-----------------*
+>P1;gi|44382789|gb|EAI88001.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 4 .. 80 ]
+sequence
+-KNPVKLPA---GVEIKMSGQQLSVKGAK---GALELN-VHPSVEVIQES-GELRFAGRNGDQQTRAMAG
+TTRALVNNMVIGVSQG-----------------*
+>P1;gi|43902664|gb|EAG05675.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 8 .. 81 ]
+sequence
+---PIKVPE---GVNINLKNQKIIVSGKL---GSLEQDFH--DININLEN-NLITLSRNSEANDIKSKHG
+LYRSLINNMVTGVSSG-----------------*
+>P1;gi|28867869|ref|NP_790488.1| ribosomal protein L6 [Pseudomonas s... [ score 66 E 2e-10 ] [ range 6 .. 82 ]
+sequence
+-KNPVKLPS---GVEVKLVGQQLSVKGAK---GTLEL-IIHSSVEIVEEA-GELRFAARNGDQQTRAMAG
+TTRALVNNMVQGVSQG-----------------*
+>P1;gi|16125512|ref|NP_420076.1| ribosomal protein L6 [Caulobacter c... [ score 66 E 2e-10 ] [ range 9 .. 82 ]
+sequence
+----VAIPS---GVQVTLAGQTVTVKGPK---GQLSWTIAD-EVEVKQEG-AELLLAPRVDTKRAKGMWG
+LSRTLVANMVHGVTVG-----------------*
+>P1;gi|44439770|gb|EAJ28072.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 6 .. 82 ]
+sequence
+-KKPVELPS---GVSASVSGQTVEVKGPK---GTLEFNATD-DVTITMAD-NSVAVEPRGQSKRARQQWG
+MSRTMVANMVKGVSEG-----------------*
+>P1;gi|17547723|ref|NP_521125.1| PROBABLE 50S RIBOSOMAL SUBUNIT PROT... [ score 65 E 3e-10 ] [ range 6 .. 82 ]
+sequence
+-KAPIALPK---GAEVNFAGGLLTVKGPL---GTLTQAI-HNLVKVVIDN-GTITFSPADESREANALQG
+TMRALVANMVKGVTTG-----------------*
+>P1;gi|14091659|gb|AAK53811.1| 50S ribosomal protein L6 [Azospirillu... [ score 65 E 3e-10 ] [ range 9 .. 82 ]
+sequence
+----VPVPA---GVDVAVNGQLVTAKGKL---GSLSLTLID-DITAKLED-GKVVVAPANDSKRARVMWA
+TSRTLINNMVTGSQPG-----------------*
+>P1;gi|44127579|gb|EAH27533.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 6 .. 82 ]
+sequence
+-KTPVIIPE---KVTVDFDGLTVTVKGPK---GELKR-LMPEGVSFDKKE-NTVVVSPTTTKIYSRQRHG
+LCRALIANMVEGVTQG-----------------*
+>P1;gi|44192010|gb|EAH62083.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 6 .. 78 ]
+sequence
+-KTPVLIPE---KVTVDFDGLTVTVKGPK---GELKR-LMPDGVSFNKKD-NTVVVSPTTTKIYSRQRHG
+LCRALIANMVEG---------------------*
+>P1;gi|2507308|sp|P24316|RL6_THETH 50S ribosomal protein L6 >gi|1514... [ score 65 E 3e-10 ] [ range 6 .. 82 ]
+sequence
+-RLPIPVPK---GVSVEVAPGRVKVKGPK---GELEVPVS-PEMRVVVEE-GVVRVERPSDERRHKSLHG
+LTRTLIANAVKGVSEG-----------------*
+>P1;gi|144603|gb|AAA23157.1| chlanectin coding region [ score 65 E 3e-10 ] [ range 6 .. 83 ]
+sequence
+-RDPIVLPQ---GVEVSIQNDEISVKGPK---GSLTQVLA-KEVEIAVKG-NEVFVAVDRPGR----MQG
+LYWALIANMVKGVHTG-----------------*
+>P1;gi|43065066|gb|EAB98833.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 9 .. 81 ]
+sequence
+----IKIPQ---GVTVTLDSGRIAVKGPK---GTLERSF-HKDVSVSEKD-SALHVTIPADKPELGNFQG
+LTRSLIANMIEGVDK------------------*
+>P1;gi|44505306|gb|EAJ73057.1| unknown [environmental sequence] [ score 65 E 4e-10 ] [ range 8 .. 82 ]
+sequence
+---PVQLPK---GIEATVSDASVVVKGSK---GSLSLELHH-LVSVEKNE-ENLQVSGKDASRESGAMAG
+TFRSLINNMVLGVSEG-----------------*
+>P1;gi|26987210|ref|NP_742635.1| ribosomal protein L6 [Pseudomonas p... [ score 65 E 4e-10 ] [ range 6 .. 82 ]
+sequence
+-KNPVKLPS---GVEVKFAGQQLSVKGAK---GTLELN-VHSSVEVTEES-GELRFVARNGDQQARAMAG
+TTRALVNNMVQGVSQG-----------------*
+>P1;gi|28630274|gb|AAN73364.1| ribosomal protein L9 [Myxine glutinosa] [ score 65 E 4e-10 ] [ range 1 .. 61 ]
+sequence
+---------------------IVTVKGPR---GVLTRRFNHCNLEMTLMK-KKLRVDKWWGTRKELATVR
+TICSHVQNMIKGVTLG-----------------*
+>P1;gi|22979003|ref|ZP_00024737.1| COG0097: Ribosomal protein L6P/L9... [ score 65 E 4e-10 ] [ range 6 .. 82 ]
+sequence
+-KAPIALPK---GAEVNVAAGVLSVKGPL---GTLSQPI-HSLVKVNVAE-GTLTFEPADESREANALQG
+TMRALAANMVKGVTTG-----------------*
+>P1;gi|23029658|ref|ZP_00067979.1| COG0097: Ribosomal protein L6P/L9... [ score 65 E 4e-10 ] [ range 8 .. 82 ]
+sequence
+---PVQLPS---GVQVDLKGSDLSVKGSK---GAMSLS-VHSSVAVVQED-NVLTFAAKDGAKSSKAMAG
+TVRSLVNNMVTGVSVG-----------------*
+>P1;gi|39997934|ref|NP_953885.1| ribosomal protein L6 [Geobacter sul... [ score 65 E 5e-10 ] [ range 6 .. 82 ]
+sequence
+-KRPIEIPS---GVKVEFSDSVLTIEGPK---GKLSRQVMD-GVSLEITP-SSIEVKRADDGLKARSAHG
+LTRTLVNNMVVGVTKG-----------------*
+>P1;gi|44105952|gb|EAH15830.1| unknown [environmental sequence] [ score 65 E 5e-10 ] [ range 8 .. 82 ]
+sequence
+---KIKIPD---GVTVTLINGELTAKGKN---GELSIKT-HNLINIDIKN-DEVSFKSKNISKFGRSIWG
+TTRANVANVIEGVSQG-----------------*
+>P1;gi|44298510|gb|EAI28944.1| unknown [environmental sequence] [ score 65 E 6e-10 ] [ range 9 .. 82 ]
+sequence
+----IKIPD---GVTVTFVDGEFTAKGKN---GELSIKT-HNLISVNINN-DEISLNSKNNTKFGRSLWG
+TTRANVANVIKGVSEG-----------------*
+>P1;gi|44356069|gb|EAI68994.1| unknown [environmental sequence] [ score 64 E 6e-10 ] [ range 8 .. 82 ]
+sequence
+---PINVPD---TVNVSMSDNIVLVKGNK---GEL--DLSLPSISIDIKD-DVININYNSENQESVALAG
+TIRSVLNNMVVGVSEG-----------------*
+>P1;gi|34882043|ref|XP_223633.2| similar to 60S ribosomal protein L9... [ score 64 E 6e-10 ] [ range 12 .. 88 ]
+sequence
+------IPE---NVDITLKGRTLIVKGPR---GTLRRDFNHINVELSLFG-KKLHVDKWWRNRKELATLR
+TIRSRVQNMIKDVTLG-----------------*
+>P1;gi|44645061|gb|EAK71207.1| unknown [environmental sequence] [ score 64 E 6e-10 ] [ range 6 .. 82 ]
+sequence
+-KNPVQIPD---GVSVSYESNIVNVKGKN---GEM--NLSMPEVEIEINE-SLIQVKYDESSQQSVALAG
+TTRANINNMVIGVSDG-----------------*
+>P1;gi|44457614|gb|EAJ40685.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 8 .. 82 ]
+sequence
+---PINIPD---NVEFSINENIVKVKGSK---GELEFSLP-ESVSIEVQE-NVINVKYDEANQQSVALAG
+TTRSLVNNMIIGVSEG-----------------*
+>P1;gi|15642576|ref|NP_232209.1| ribosomal protein L6 [Vibrio choler... [ score 108 E 4e-23 ] [ range 8 .. 82 ]
+sequence
+---PVAIPA---GVEVKLNGQEITIKGAK---GELTRVFH-NGVVIAQED-NQLTFGPREGVANAWAQAG
+TARALVKNMVVGVTEG-----------------*
+>P1;gi|16077199|ref|NP_388012.1| ribosomal protein L6 (BL8) [Bacillu... [ score 107 E 8e-23 ] [ range 10 .. 83 ]
+sequence
+-----EIPS---DVTVTLNDNTVAVKGPK---GELTRTFH-PDMEIKVED-NVLTVARPSDQKEHRALHG
+TTRSLLGNMVEGVSKG-----------------*
+>P1;gi|22990743|ref|ZP_00035549.1| COG0097: Ribosomal protein L6P/L9... [ score 107 E 9e-23 ] [ range 9 .. 82 ]
+sequence
+----VVIPE---GVTVTQDGNNVTVKGPK---GELTRTFS-ADIKMNIEG-NEVTFTRPNDSKEMKTIHG
+TTRANFNNMVVGVSEG-----------------*
+>P1;gi|23018348|ref|ZP_00058065.1| COG0097: Ribosomal protein L6P/L9... [ score 106 E 1e-22 ] [ range 8 .. 82 ]
+sequence
+---PISVPK---GVEVTIDGKDVKVKGPK---GELKHTVP-PSITVTLED-GQVKVSRADDRPQTRSLHG
+LTRSLIANLIEGTSKG-----------------*
+>P1;gi|15603265|ref|NP_246339.1| RpL6 [Pasteurella multocida] >gi|12... [ score 106 E 1e-22 ] [ range 8 .. 82 ]
+sequence
+---PVSIPA---GVEVKLDGQLLTVKGKN---GELSRTIH-NAVEVKQDN-NELTFSPREGIVGADAQAG
+TARALVNAMVIGVTEG-----------------*
+>P1;gi|22297639|ref|NP_680886.1| 50S ribosomal protein L6 [Thermosyn... [ score 106 E 2e-22 ] [ range 8 .. 82 ]
+sequence
+---PIPLPK---NVTLTLDGQQVTVKGPK---GQLSRVFP-PEVNVVQEG-EAIVVKRRDDSRPAKERHG
+LCRTLLANMVEGVSQG-----------------*
+>P1;gi|34541526|ref|NP_906005.1| ribosomal protein L6 [Porphyromonas... [ score 105 E 3e-22 ] [ range 8 .. 82 ]
+sequence
+---PISIPA---GVTVSHKDEIVTVKGPK---GELSQYVD-PRITVVIEG-GMIHLERKTDDRIERSLHG
+LYRSLINNMVQGVSAG-----------------*
+>P1;gi|16120562|ref|NP_403875.1| 50S ribosomal protein L6 [Yersinia ... [ score 104 E 4e-22 ] [ range 8 .. 82 ]
+sequence
+---PVVIPA---GVEVKLNGQVISIKGKN---GELTRTVH-SAVEVKQEE-NTLTFAPREGAVDGWAQAG
+TTRALLNSMVIGVTEG-----------------*
+>P1;gi|16272734|ref|NP_438952.1| ribosomal protein L6 [Haemophilus i... [ score 104 E 4e-22 ] [ range 8 .. 82 ]
+sequence
+---PVNIPA---GVEVKLDGQLLTVKGKN---GELSRKIH-ESVEVKQDN-GQFTFTPREGFVEANAQSG
+TARALVNAMVIGVTEG-----------------*
+>P1;gi|44338288|gb|EAI56367.1| unknown [environmental sequence] [ score 104 E 5e-22 ] [ range 8 .. 82 ]
+sequence
+---PINVPD---NVELNIVDNIVKVKGSK---GELEFNLP-SSVSIENTE-NVLTVKYNEDDQQSVALAG
+TTRSIVNNMIIGVSEG-----------------*
+>P1;gi|43584502|gb|EAE47092.1| unknown [environmental sequence] [ score 103 E 9e-22 ] [ range 8 .. 82 ]
+sequence
+---PINVPD---NVEFNIVDNIVKVKGKK---GDLEFNLP-SSISIDNKE-NVLTVKYNEDDQQSVALAG
+TTRSIVNNMIIGVSEG-----------------*
+>P1;gi|44641587|gb|EAK68422.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 8 .. 82 ]
+sequence
+---PVSIPA---GVEVTLNEQTLTVKGAK---GSLTRVIN-NAVNVVIED-GVIKFLPVEGAVGAWAQAG
+TTRALVNNMVVGVSQG-----------------*
+>P1;gi|1173057|sp|P46181|RL6_BUCAK 50S RIBOSOMAL PROTEIN L6 >gi|6322... [ score 103 E 1e-21 ] [ range 8 .. 82 ]
+sequence
+---PVVIPA---GVEVKLNGQVISIKGKN---GELTRTVH-DAVIVKQEA-NALNFRPREGFRNAWAQAG
+TTRALLNAMVVGVTEG-----------------*
+>P1;gi|43362996|gb|EAD46333.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 8 .. 82 ]
+sequence
+---PITIPD---SVDLSINENVVIVKGSK---GELDFVLP-DTISLDVAD-KVITIKYDEENQQSVALAG
+TSRSLINNMVIGVSEG-----------------*
+>P1;gi|29374866|ref|NP_814019.1| ribosomal protein L6 [Enterococcus ... [ score 102 E 2e-21 ] [ range 9 .. 82 ]
+sequence
+----VVLPA---GVEIKQDGNNITVKGPK---GELTREFS-SDIKMNIEG-NEVTFIRPNDSKEMKTIHG
+TTRANFNNMVVGVSEG-----------------*
+>P1;gi|44252073|gb|EAH97533.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 8 .. 82 ]
+sequence
+---PIEIAD---GVTVNFNDGCLDVKGKV---GELKFDLP-ETVSLDIAD-NVITVKYDENNQQSVALAG
+TTRALVNNMIIGVSQG-----------------*
+>P1;gi|32034702|ref|ZP_00134840.1| COG0097: Ribosomal protein L6P/L9... [ score 102 E 3e-21 ] [ range 8 .. 82 ]
+sequence
+---PVNIPA---GVEVKLNGQLLTVKGKN---GELSREIH-NAVEVNQDA-NALTFVPRTGVANADAQAG
+TARALVNAMVIGVTEG-----------------*
+>P1;gi|23108404|ref|ZP_00094628.1| COG0097: Ribosomal protein L6P/L9... [ score 101 E 3e-21 ] [ range 8 .. 82 ]
+sequence
+---PVTIPS---GVTANIADGVLTVKGPK---GTLTLTLR-DEISYTVDG-DTILVKPANDTKGARAFWG
+MQRTLVDNLVTGVTQG-----------------*
+>P1;gi|43522641|gb|EAE15994.1| unknown [environmental sequence] [ score 101 E 4e-21 ] [ range 8 .. 82 ]
+sequence
+---PISVPS---DVQISIQGRNVGVTGPK---GSLDLDLP-GEIDVREED-GAVLVERPSDDRKNKALHG
+LTRSLINNMVIGVSEG-----------------*
+>P1;gi|33152939|ref|NP_874292.1| 50S ribosomal protein L6 [Haemophil... [ score 101 E 5e-21 ] [ range 8 .. 82 ]
+sequence
+---PVNIPA---GIEVKINGQLLTVKGKN---GELSREIH-NAVEVNQDA-NALTFVPREGVANADAQAG
+TARALVNAMVIGVTEG-----------------*
+>P1;gi|37523481|ref|NP_926858.1| 50S ribosomal protein L6 [Gloeobact... [ score 101 E 5e-21 ] [ range 8 .. 82 ]
+sequence
+---PIAIPP---KVEVTLDGRRVVVKGPK---GTLDLTLP-DSVEVVRED-GRLLVTRRGESRRAREQHG
+LGRTLVANMVTGVTTG-----------------*
+>P1;gi|43971854|gb|EAG42756.1| unknown [environmental sequence] [ score 101 E 5e-21 ] [ range 8 .. 82 ]
+sequence
+---PITIPD---SVNLTTDNNVVSVKGSK---GELDFNMP-SSVSIEVNE-NIISIKYDDTNQKSIALAG
+TTRSIINNMIIGVTEG-----------------*
+>P1;gi|23137554|ref|ZP_00119259.1| COG0097: Ribosomal protein L6P/L9... [ score 101 E 5e-21 ] [ range 8 .. 83 ]
+sequence
+---PVTLPE---KVELSVSSNLVTVKGPK---GTLTQQVD-VDIKVSVED-GKVVVARPTEQKRHKALHG
+LYRSLISNMVQGVSQG-----------------*
+>P1;gi|15803832|ref|NP_289866.1| 50S ribosomal subunit protein L6 [E... [ score 101 E 5e-21 ] [ range 8 .. 82 ]
+sequence
+---PVVVPA---GVDVKINGQVITIKGKN---GELTRTLN-DAVEVKHAD-NTLTFGPRDGYADGWAQAG
+TARALLNSMVIGVTEG-----------------*
+>P1;gi|32030990|ref|ZP_00133686.1| COG0097: Ribosomal protein L6P/L9... [ score 101 E 5e-21 ] [ range 8 .. 82 ]
+sequence
+---PVSIPA---GVEVKLDGQLLTVKGKN---GELSHTIH-NSVEVKQDN-NQLTFSPRVGIANADAQSG
+TARALVNAMVIGVNEG-----------------*
+>P1;gi|44298237|gb|EAI28764.1| unknown [environmental sequence] [ score 100 E 8e-21 ] [ range 8 .. 82 ]
+sequence
+---PVPIPS---GVEIKLDARTISVSGAK---GKSDFTFP-DSVSAKHEN-DVIKVSYDESSIESTALAG
+TTRSLINNMVIGVSEG-----------------*
+>P1;gi|39936298|ref|NP_948574.1| 50S ribosomal protein L6 [Rhodopseu... [ score 100 E 8e-21 ] [ range 8 .. 82 ]
+sequence
+---PVTVPS---GVTATVEGQTVKMKGPK---GQLQFVVH-DDVDVKFED-GAVKVAPRHETNRARALYG
+TARAQIANLVEGVTKG-----------------*
+>P1;gi|23468112|ref|ZP_00123673.1| COG0097: Ribosomal protein L6P/L9... [ score 100 E 9e-21 ] [ range 8 .. 82 ]
+sequence
+---PVSIPA---SVEVKLDGQLLTVKGKN---GELSRTIH-NSVEVKQDN-NQLTFSPRVGIANADAQSG
+TARALVNAMVIGVNEG-----------------*
+>P1;gi|37528528|ref|NP_931873.1| 50S ribosomal protein L6 [Photorhab... [ score 100 E 1e-20 ] [ range 8 .. 82 ]
+sequence
+---PVVIPT---DVEVKLDGQVISIKGKN---GELSRTIH-SAVEVKHAD-NQLTFAPRDGYVDGWAQAG
+TTRSLMNAMVIGVTEG-----------------*
+>P1;gi|43660805|gb|EAE85351.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 8 .. 82 ]
+sequence
+---PVELPS---GVSASVSGQTIEVKGPK---GTLEFSAT-DDVTITMSD-NSVAVEPRGQSKRARQQWG
+MSRTMVANMVKGVSEG-----------------*
+>P1;gi|43133812|gb|EAC32734.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 8 .. 82 ]
+sequence
+---PVSIPS---GVEIKLDAKSISVSGSK---GKSDFTFP-DSVSAKHEN-DIITFSYDESSAESTALAG
+TTRSLINNMVIGVSEG-----------------*
+>P1;gi|43441577|gb|EAD75664.1| unknown [environmental sequence] [ score 99 E 1e-20 ] [ range 8 .. 82 ]
+sequence
+---PVSIPS---GVEINLDARTISVSGAK---GKSDFTFP-DSVSATHEN-DFIVVSYDESSSESIALAG
+TTRSLINNMVIGVSEG-----------------*
+>P1;gi|29831484|ref|NP_826118.1| putative ribosomal protein L6 [Stre... [ score 99 E 1e-20 ] [ range 8 .. 83 ]
+sequence
+---PITVPA---GVDVTIDGRTVQVKGPK---GSLSHTIA-APIEIAKED-GVLNVTRPNDERQNKALHG
+LSRTLVANMITGVTQG-----------------*
+>P1;gi|41410280|ref|NP_963116.1| RplF [Mycobacterium avium subsp. pa... [ score 99 E 1e-20 ] [ range 8 .. 83 ]
+sequence
+---PVPVPA---GVDVTIDGQKVSVKGPK---GTLDLTVA-EPITVSNDD-GAIVVTRPNDERRNRSLHG
+LSRTLVSNLVTGVTQG-----------------*
+>P1;gi|43657888|gb|EAE83863.1| unknown [environmental sequence] [ score 99 E 1e-20 ] [ range 8 .. 82 ]
+sequence
+---PISIPS---GVEIKLDANTISVSGSK---GKSDFEFP-DSVSAKHEN-DFIKVSYDESSSESTALAG
+TTRSLINNMVIGVSQG-----------------*
+>P1;gi|43085933|gb|EAC09166.1| unknown [environmental sequence] [ score 100 E 2e-20 ] [ range 8 .. 82 ]
+sequence
+---PITIPD---NVDLNITENVVIVKGSK---GELDFVLP-DTISLDVAD-KVITIKYDEENQQSVALAG
+TSRSLINNMVIGVSEG-----------------*
+>P1;gi|43749128|gb|EAF28966.1| unknown [environmental sequence] [ score 100 E 2e-20 ] [ range 8 .. 82 ]
+sequence
+---PVELPS---GVSATVSGQTIEVKGPK---GTLNFSAT-DDVTISMAD-NSVAVEPRGQSKRARQQWG
+MSRTMVANMVKGVSEG-----------------*
+>P1;gi|22966107|ref|ZP_00013704.1| COG0097: Ribosomal protein L6P/L9... [ score 99 E 2e-20 ] [ range 25 .. 99 ]
+sequence
+---PVTVPA---GVTITVKDNVVTAKGKL---GEMTYTAA-GEVETRLED-NLIWVKPLSETKHARQQWG
+TTRARINNLVRGVSEG-----------------*
+>P1;gi|15607859|ref|NP_215233.1| rplF [Mycobacterium tuberculosis H3... [ score 99 E 2e-20 ] [ range 8 .. 83 ]
+sequence
+---PIPVPA---GVDVTIEGQSISVKGPK---GTLGLTVA-EPIKVRNDD-GAIVVTRPDDERRNRSLHG
+LSRTLVSNLVTGVTQG-----------------*
+>P1;gi|27380496|ref|NP_772025.1| 50S ribosomal protein L6 [Bradyrhiz... [ score 99 E 3e-20 ] [ range 8 .. 82 ]
+sequence
+---PVAVPS---GVTATVDGQTVKMKGPK---GQLQFVVH-DDVEVKLES-GQIKVKPRLETNRARALYG
+TARAQVANLVEGVTKG-----------------*
+>P1;gi|23042782|ref|ZP_00074141.1| COG0097: Ribosomal protein L6P/L9... [ score 99 E 3e-20 ] [ range 8 .. 82 ]
+sequence
+---PIPIPK---KVTITIEGQKVTVKGPL---GELSRVLP-PEIAVKEQE-NTIIVKPQEQSRRARQRYG
+LCRTLVANMVEGVSKG-----------------*
+>P1;gi|44645061|gb|EAK71207.1| unknown [environmental sequence] [ score 99 E 3e-20 ] [ range 8 .. 82 ]
+sequence
+---PVQIPD---GVSVSYESNIVNVKGKN---GEMNLSMP-ESVEIEINE-SLIQVKYDESSQQSVALAG
+TTRANINNMVIGVSDG-----------------*
+>P1;gi|43060437|gb|EAB96583.1| unknown [environmental sequence] [ score 98 E 3e-20 ] [ range 8 .. 82 ]
+sequence
+---PVEVPD---GVDLQIDGGAVKAKGKL---GELSLNVS-DDVQVSREA-NLIWVKPANNSKRARTMWG
+TTRSLINNIVFGVSAG-----------------*
+>P1;gi|44514159|gb|EAJ79011.1| unknown [environmental sequence] [ score 98 E 3e-20 ] [ range 8 .. 82 ]
+sequence
+---PVLIPE---KVTVDFDGLTVTVKGPK---GELKRLMP-EGVSFDKKD-NTVVVSPTTTKIYSRQRHG
+LCRALIANMVEGVTQG-----------------*
+>P1;gi|43147085|gb|EAC39254.1| unknown [environmental sequence] [ score 98 E 4e-20 ] [ range 8 .. 82 ]
+sequence
+---PINVPD---SVELNIVDNIVKVKGSK---GELEFNIP-SSVSIENKE-NVLTIKYNETDQQSVALAG
+TTRSIVNNMIIGASEG-----------------*
+>P1;gi|29348121|ref|NP_811624.1| 50S ribosomal protein L6 [Bacteroid... [ score 98 E 4e-20 ] [ range 8 .. 87 ]
+sequence
+---PISIPA---GVTVTLKDDVVTVKGPK---GELSQYVN-PAINVAIED-GHVTLTENEKEKQKHAFHG
+LYRSLVHNMVVGVSEG-----------------*
+>P1;gi|43691644|gb|EAF01033.1| unknown [environmental sequence] [ score 98 E 4e-20 ] [ range 8 .. 82 ]
+sequence
+---PVSVPS---GVEIKLDAKTISVSGSK---GKSDFVFP-DSVSAKHEN-DVITVSYDESSSESTALAG
+TTRSLINNMVIGVSEG-----------------*
+>P1;gi|15644233|ref|NP_229285.1| ribosomal protein L6 [Thermotoga ma... [ score 98 E 6e-20 ] [ range 8 .. 89 ]
+sequence
+---PIVLPQ---GVTVEIKDNVVKVKGPK---GELSQEFL-PYVKIEVEG-NEVWVIRKSDWRKVKMFQG
+TYWSLIRNMVVGVTEG-----------------*
+>P1;gi|44589640|gb|EAK31367.1| unknown [environmental sequence] [ score 98 E 6e-20 ] [ range 8 .. 82 ]
+sequence
+---PVTVPA---GVTITLNGQNLTVKGKN---GELTLNVN-PAVEVVIEG-NVLRTNPRDGIANADAQAG
+TARALINNLVTGVTEG-----------------*
+>P1;gi|33862100|ref|NP_893661.1| 50S ribosomal protein L6 [Prochloro... [ score 97 E 7e-20 ] [ range 8 .. 82 ]
+sequence
+---PVQIPE---KVSVDIKGLSITVKGPK---GELKRLMP-EGVNFDQKE-NQIVVTPATTKRYSRERHG
+LCRTLISNMVQGVTEG-----------------*
+>P1;gi|43188725|gb|EAC59875.1| unknown [environmental sequence] [ score 97 E 9e-20 ] [ range 8 .. 82 ]
+sequence
+---PVLIPE---KVTVDFDGLTVTVKGPK---GELKRLMP-DGVSFDKKD-NTVVVSPTTTKIYSRQRHG
+LCRALIANMVKGVTQG-----------------*
+>P1;gi|16329927|ref|NP_440655.1| 50S ribosomal protein L6 [Synechocy... [ score 97 E 1e-19 ] [ range 8 .. 82 ]
+sequence
+---PIPLPA---KVSVDIQGSHLSVKGPK---GSLERQLP-EKVIVAQEG-ETITVTRQDESRTARERHG
+LVRTLVANMVDGVAQG-----------------*
+>P1;gi|43139565|gb|EAC35536.1| unknown [environmental sequence] [ score 96 E 1e-19 ] [ range 8 .. 82 ]
+sequence
+---PVLIPE---KVTVDFDGLTVTVKGPK---GELKRLMP-AGVSFDKKD-NTVVVSPTTTKISSRQRHG
+LCRALIANMVEGVSQG-----------------*
+>P1;gi|44168253|gb|EAH49481.1| unknown [environmental sequence] [ score 96 E 2e-19 ] [ range 1 .. 75 ]
+sequence
+---PVLIPE---KVTVDFDGLTVIVKGPK---GELKRLMP-DGVSFDKKD-NTVVVSPTTTKIYSRQRHG
+LCRALIANMVEGVTQG-----------------*
+>P1;gi|44127579|gb|EAH27533.1| unknown [environmental sequence] [ score 96 E 2e-19 ] [ range 8 .. 82 ]
+sequence
+---PVIIPE---KVTVDFDGLTVTVKGPK---GELKRLMP-EGVSFDKKE-NTVVVSPTTTKIYSRQRHG
+LCRALIANMVEGVTQG-----------------*
+>P1;gi|43727176|gb|EAF18493.1| unknown [environmental sequence] [ score 96 E 2e-19 ] [ range 8 .. 82 ]
+sequence
+---PINILE---NVDFSINNNIVSAKGPK---GQLEFALS-DNIKVEILE-NKIFVKNIDDTQKGNAIWG
+TSRAIISNMVTGVSEG-----------------*
+>P1;gi|41690676|ref|ZP_00147208.1| hypothetical protein Psyc082001 [... [ score 96 E 2e-19 ] [ range 8 .. 82 ]
+sequence
+---PVTLPN---GVSVTLNDRQVEVKGKN---GNMSLRLH-ELVELKQED-DLIIFSPTVDSKEAMMHAG
+TMRSLLNNLVIGVNEG-----------------*
+>P1;gi|43348898|gb|EAD39382.1| unknown [environmental sequence] [ score 96 E 2e-19 ] [ range 8 .. 85 ]
+sequence
+---PIVIPE---SVEVNLADNLFTVKGPK---GELSLDLI-SDISVALED-GSVKVSSNGKTRFSKAAAG
+TFRSLIQNMVIGVTEG-----------------*
+>P1;gi|44519644|gb|EAJ82710.1| unknown [environmental sequence] [ score 96 E 2e-19 ] [ range 8 .. 82 ]
+sequence
+---PVELPS---GVSAAVSGQTIEVKGPK---GVRSFTAS-DDVTLAVEE-GKVVVSPRGKSKRARQQWG
+MSRTMVANCVTGVSEG-----------------*
+>P1;gi|15676084|ref|NP_273215.1| 50S ribosomal protein L6 [Neisseria... [ score 96 E 3e-19 ] [ range 8 .. 82 ]
+sequence
+---PVTVPA---GVEVKFGAEALVIKGKN---GELSFPLH-SDVAIEFND-GKLTFVANNSSKQANAMSG
+TARALVSNMVKGVSEG-----------------*
+>P1;gi|43322732|gb|EAD27056.1| unknown [environmental sequence] [ score 96 E 3e-19 ] [ range 8 .. 82 ]
+sequence
+---PVLLPK---GVEATVSEASVAVKGSK---GSLSLALH-HLVSVERDE-ENLKVSGKDASRESGAMAG
+TFRSLINNMVLGVSEG-----------------*
+>P1;gi|44383995|gb|EAI88833.1| unknown [environmental sequence] [ score 95 E 3e-19 ] [ range 8 .. 83 ]
+sequence
+---PIEIPE---KVEINIDGNKINVKGPK---GELTEVLE-EKIKFEISD-NVLQFTRESDEKQVKSLHG
+LYRSLVANNIVGVSEG-----------------*
+>P1;gi|43834238|gb|EAF71347.1| unknown [environmental sequence] [ score 95 E 3e-19 ] [ range 8 .. 82 ]
+sequence
+---PVIIPE---KVTVDFDGLTVIVKGPK---GELKRLMP-EGVSFDKKD-NTVVVSPTTTKIQSRQRHG
+LCRALIANMIEGVSQG-----------------*
+>P1;gi|45525095|ref|ZP_00176343.1| hypothetical protein Cwat368101 [... [ score 95 E 3e-19 ] [ range 8 .. 82 ]
+sequence
+---PIPLPN---KVTIDIKGQHIAVKGPK---GSLELDLP-SKVSVKQEG-ENVVVTTDDDSRTARERHG
+LSRTLVANMVEGVSKG-----------------*
+>P1;gi|44356069|gb|EAI68994.1| unknown [environmental sequence] [ score 95 E 4e-19 ] [ range 8 .. 82 ]
+sequence
+---PINVPD---TVNVSMSDNIVLVKGNK---GELDLSLP-SSISIDIKD-DVININYNSENQESVALAG
+TIRSVLNNMVVGVSEG-----------------*
+>P1;gi|44435727|gb|EAJ25263.1| unknown [environmental sequence] [ score 95 E 4e-19 ] [ range 8 .. 80 ]
+sequence
+---PVIIPE---GVTINIVDNLLEFKGSK---GELSLHVH-NSISFEMKD-NQITVKWSKD--IHRAMAG
+TMRSLINNCVIGVSEG-----------------*
+>P1;gi|15827987|ref|NP_302250.1| 50S ribosomal protein L6 [Mycobacte... [ score 95 E 4e-19 ] [ range 8 .. 83 ]
+sequence
+---PIPVPA---GVDITIDGQNVLVKGPK---GTLDLTVA-EPIMLRNDE-GAIVVTRPDNERRNRSLHG
+LSRTLVSNLVTGVTQG-----------------*
+>P1;gi|43427475|gb|EAD71046.1| unknown [environmental sequence] [ score 95 E 5e-19 ] [ range 8 .. 82 ]
+sequence
+---PISVPQ---GVQCDFVRPLLKVKGAK---GELTLNVH-ALVNFDQVD-NVISVSAVEDSKNSHIMSG
+TYRALINNMVLGVSEG-----------------*
+>P1;gi|44333729|gb|EAI53229.1| unknown [environmental sequence] >gi|... [ score 95 E 6e-19 ] [ range 8 .. 81 ]
+sequence
+---PITIPE---GVKVELNDNLVSVSGKN---GSMEFELV-KDVTVDISE-NEVLVSY-GDYQESVAMGG
+TTRAILNNMVVGVSQG-----------------*
+>P1;gi|6831637|sp|Q9ZI38|RL6_AQUPY 50S ribosomal protein L6 >gi|4165... [ score 95 E 6e-19 ] [ range 8 .. 86 ]
+sequence
+---PIPYPE---NVKVSYDEKEVTVEGPK---GKLELNIH-PDIKVTQQE-RWIKLDRPSDRSFHKAIHG
+TMAALIKNMIKGVTEG-----------------*
+>P1;gi|44192010|gb|EAH62083.1| unknown [environmental sequence] [ score 94 E 7e-19 ] [ range 8 .. 78 ]
+sequence
+---PVLIPE---KVTVDFDGLTVTVKGPK---GELKRLMP-DGVSFNKKD-NTVVVSPTTTKIYSRQRHG
+LCRALIANMVEG---------------------*
+>P1;gi|43698548|gb|EAF04508.1| unknown [environmental sequence] [ score 94 E 7e-19 ] [ range 8 .. 82 ]
+sequence
+---PINIPN---GVSVDINGQEVNIKGPK---GEEKLVAH-STIKVIFKD-NEIICERNSEEPEVKAFHG
+LTRSLLNNCVIGVSTG-----------------*
+>P1;gi|1076076|pir||S50001 ribosomal protein L6 - Streptomyces coeli... [ score 94 E 9e-19 ] [ range 8 .. 83 ]
+sequence
+---PHRVPA---GVDVTIDGRTVSVKGPK---GSLTHTVV-APIDIAKED-GVLNVTRPNDERQSKALHG
+LSRTLVANMITGVTQG-----------------*
+>P1;gi|43928490|gb|EAG19218.1| unknown [environmental sequence] [ score 94 E 9e-19 ] [ range 8 .. 82 ]
+sequence
+---PVRVPD---GVSIELLDGVLTAKGKL---GEQSLPIS-DQVDVSIKE-DIVTVTPKSETKRSRSMWG
+TTRARINNILTGVNEG-----------------*
+>P1;gi|44334126|gb|EAI53513.1| unknown [environmental sequence] [ score 93 E 1e-18 ] [ range 22 .. 96 ]
+sequence
+---PVELPS---NVQAEINGQTINVKGPK---GVRSFKAT-DDIELSVSD-SKVSVKPRGNSKRARQQWG
+MSRTQVANLVTGVTEG-----------------*
+>P1;gi|43095914|gb|EAC14081.1| unknown [environmental sequence] [ score 93 E 1e-18 ] [ range 8 .. 80 ]
+sequence
+---PVALPK---GVDIKIEGLNLSVKGGK---GTLDLTLT-DGVGVNVDE-DVATITFEGDS--HRAMAG
+TTRSLLANMVKGVSEG-----------------*
+>P1;gi|37912962|gb|AAR05294.1| ribosomal protein L6 [uncultured mari... [ score 93 E 1e-18 ] [ range 8 .. 82 ]
+sequence
+---PINIVD---GVNVNVTNESIEVKGKI---GEMSFDLP-ETISLEVIE-NIIHVKYDETKQQSIALAG
+TTRALVNNMIVGVSQG-----------------*
+>P1;gi|22956578|ref|ZP_00004333.1| COG0097: Ribosomal protein L6P/L9... [ score 93 E 2e-18 ] [ range 30 .. 104 ]
+sequence
+---PVPLPK---GVTASISGQSIEVKGPK---GTRSFSAT-DDVTLALDE-GSVKVTPRGTSKRARQQWG
+MVRSQVENLVTGVTSG-----------------*
+>P1;gi|17987055|ref|NP_539689.1| LSU ribosomal protein L6P [Brucella... [ score 93 E 2e-18 ] [ range 8 .. 82 ]
+sequence
+---PVPVPA---GVTASVEGQTVKAKGAK---GELSFVVH-DEVLVKMED-GAVRVDPRDQSREARSKWG
+MSRTMISNIFVGVKDG-----------------*
+>P1;gi|32475073|ref|NP_868067.1| 50S ribosomal protein L6 [Pirellula... [ score 92 E 2e-18 ] [ range 8 .. 84 ]
+sequence
+---PVAIPS---GVTVSIADRNIDVEGPK---GKLSFKHR-PEVKVAVDS-NQVIVSRDGDDRPSREFHG
+LTRAIVANMLVGVKDG-----------------*
+>P1;gi|15965124|ref|NP_385477.1| PROBABLE 50S RIBOSOMAL PROTEIN L6 [... [ score 92 E 2e-18 ] [ range 8 .. 82 ]
+sequence
+---PVQVPA---GVTANVDGQKVTAKGPK---GELFFVAN-DEVSVKLEN-NTVVVQPLNESKDARAKWG
+MSRTMIENILKGVKDG-----------------*
+>P1;gi|17935821|ref|NP_532611.1| 50S ribosomal protein L6 [Agrobacte... [ score 92 E 2e-18 ] [ range 8 .. 82 ]
+sequence
+---PVPVPA---GVTANVDGQKVTAKGPK---GELFFVAN-DDIQLKLED-NGVSVTPANGTKEARSKWG
+MSRTMIENIFKGVKDG-----------------*
+>P1;gi|44009157|gb|EAG62813.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 8 .. 82 ]
+sequence
+---PILLSE---NIDVSKEGNLIKAKGPL---GELKLEVI-DSINVEIDN-KLIKVTNSDNSQKGQAIWG
+TTRALINNMVKGVSEG-----------------*
+>P1;gi|44609184|gb|EAK45235.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 9 .. 82 ]
+sequence
+----IKIPD---GVTVTFIDGKFTAKGKN---GELSVKTH-NLINVDINN-DEINFKSKNNSKFGRSLWG
+TTRANVANVIKGVSEG-----------------*
+>P1;gi|43714923|gb|EAF12526.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 8 .. 82 ]
+sequence
+---PIEIPA---GVEVTLNGQEVTIKGAQ---GSLSRVVN-DAVELVKDE-SELRTNAREGVANSTAQAG
+TARALLQNMVVGVTKG-----------------*
+>P1;gi|15639197|ref|NP_218643.1| ribosomal protein L6 (rplF) [Trepon... [ score 92 E 3e-18 ] [ range 8 .. 82 ]
+sequence
+---PVSVPG---GVHVRVSSGVVEVEGPK---GVLSCAFL-PVVTVRVEQ-EYVIVARCDDSKRARACHG
+LYRKLLSNMVVGVSEG-----------------*
+>P1;gi|43836023|gb|EAF72236.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 8 .. 80 ]
+sequence
+---PVSIPE---SVNVTTEGQAINFKGPK---GEMTLEVH-ESVSFTHEE-NSLHVKWKKD--EDRAMAG
+TMRALINNYVKGVGEG-----------------*
+>P1;gi|11467456|ref|NP_043602.1| ribosomal protein L6 [Odontella sin... [ score 92 E 3e-18 ] [ range 8 .. 81 ]
+sequence
+---PIKIPA---NVDITCSGPDLTVKGKF---GTLHNTIP-DAIGIEEID-GSLIVNVKDNTRSNRALHG
+LYRTLINNMVTGVSE------------------*
+>P1;gi|43313213|gb|EAD22346.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 8 .. 82 ]
+sequence
+---PIVIPE---GVKIELKENLIRISGTK---GQQSWSIH-ANIKAEIKD-NTIIVDRIDNTPLSRSLHG
+TTRQILNNMVIGVSSG-----------------*
+>P1;gi|43369300|gb|EAD49474.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 9 .. 82 ]
+sequence
+----INIPD---NVKASIVDRVITVTGPK---GELSAELS-DDILVEISD-TEINVTPKSLEKKARSFWG
+LSRTIVSNLVTGVSEG-----------------*
+>P1;gi|44489898|gb|EAJ63353.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 8 .. 80 ]
+sequence
+---PVIIPE---SVTVTAEGNTLKFKGPK---GELNLDVH-ETVSFSIED-SNIQVIWKSG--EEAAMAG
+TMRSLINNYVLGVSEG-----------------*
+>P1;gi|14520541|ref|NP_126016.1| LSU ribosomal protein L6P [Pyrococc... [ score 92 E 3e-18 ] [ range 11 .. 85 ]
+sequence
+----IEIPE---GVEVSVQGNTVKVKGPK---GEVEREFW-PGVKIFVEG-GKVVIYKDFPRRKDVAIVR
+TFKAHINNMIKGVTEG-----------------*
+>P1;gi|44369767|gb|EAI78881.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 8 .. 80 ]
+sequence
+---PVVIPD---SVTVTAEGNTMKFKGPK---GELSLDVH-ESVGFSIED-SNIQIIWK--SKEEAAMAG
+TMRSLVNNYVLGVSEG-----------------*
+>P1;gi|15829043|ref|NP_326403.1| 50S RIBOSOMAL PROTEIN L6 [Mycoplasm... [ score 92 E 4e-18 ] [ range 9 .. 82 ]
+sequence
+----IQIPS---GTEVKIDGSFFEVKGKL---GSLSRLFS-PFVNIKHEN-NQISVERLNELKPTKQLHG
+TTNALIANMVKGVSEG-----------------*
+>P1;gi|43366522|gb|EAD48086.1| unknown [environmental sequence] [ score 91 E 4e-18 ] [ range 8 .. 80 ]
+sequence
+---PVIIPE---SVTVTAEGNTLKFKGPK---GELNLDVH-ESVSFSIED-SNIQVIWESG--EEAAMAG
+TMRSLINNYVLGVSEG-----------------*
+>P1;gi|44559487|gb|EAK10252.1| unknown [environmental sequence] [ score 91 E 6e-18 ] [ range 8 .. 84 ]
+sequence
+---PVVIPE---AVEANISENLLRVKGPK---GELSLNLI-NDVSVAIED-GSIKVSSNGKSGFPKAAAG
+TFRSLIQNMVVGVTEG-----------------*
+>P1;gi|44403942|gb|EAJ03087.1| unknown [environmental sequence] [ score 91 E 6e-18 ] [ range 8 .. 83 ]
+sequence
+---PIVIPE---NVEVKLDDKKIFVKGSK---GELTTEIL-DEIKFEINE-GILKFTRESEDKSVKSLHG
+LYRSLVANNIIGVSEG-----------------*
+>P1;gi|44259542|gb|EAI02589.1| unknown [environmental sequence] [ score 91 E 7e-18 ] [ range 8 .. 82 ]
+sequence
+---PVIIPK---DIEINISGQTLMMKGSK---GSLSMEIN-NEVQLEKQE-DVFKVQPRSKSKFSLAISG
+TTRALIANMVQGVSQG-----------------*
+>P1;gi|144603|gb|AAA23157.1| chlanectin coding region [ score 91 E 7e-18 ] [ range 8 .. 83 ]
+sequence
+---PIVLPQ---GVEVSIQNDEISVKGPK---GSLTQVLA-KEVEIAVKG-NEVFVAPAHVVDRPGRMQG
+LYWALIANMVKGVHTG-----------------*
+>P1;gi|42518444|ref|NP_964374.1| 50S ribosomal protein L6 [Lactobaci... [ score 91 E 8e-18 ] [ range 9 .. 80 ]
+sequence
+----IEVPE---KVTVTKNGDDITVKGPK---GELTRYFD-PRITFEQKD-GEIHFSRSSEA--DKALHG
+TERANLASMIEGVTDG-----------------*
+>P1;gi|43801074|gb|EAF55092.1| unknown [environmental sequence] [ score 91 E 8e-18 ] [ range 8 .. 82 ]
+sequence
+---PIHILD---NVDLSINENIVSVKGSK---GVLEFDIP-QSISLEIKE-NIINVKYDEADQQSVALAG
+TTRSLINNMIIGVTNG-----------------*
+>P1;gi|44596293|gb|EAK36139.1| unknown [environmental sequence] [ score 91 E 8e-18 ] [ range 8 .. 82 ]
+sequence
+---PVEIPE---GISLENKENNLVFTGKL---GEMSLQVH-EDVDIKQEE-NLISFAPNKDTKESLAITG
+TMRALAANMIQGVEVG-----------------*
+>P1;gi|44186048|gb|EAH58852.1| unknown [environmental sequence] [ score 90 E 9e-18 ] [ range 8 .. 80 ]
+sequence
+---PVIIPE---SVTVTAEGSTLKFKGPK---GELNLDVH-QSVSFSIED-SNIQVIWESG--EEAAMAG
+TMRSLINNYVLGVSEG-----------------*
+>P1;gi|23474534|ref|ZP_00129827.1| COG0097: Ribosomal protein L6P/L9... [ score 90 E 1e-17 ] [ range 8 .. 82 ]
+sequence
+---PIPVPS---GVEVKLGADVVEVKGPK---GSLTTPVS-PLLKYEIQD-GSVVITRVEETKKASAQHG
+LRRTLLANCIEGVSKG-----------------*
+>P1;gi|43586521|gb|EAE48105.1| unknown [environmental sequence] [ score 90 E 1e-17 ] [ range 8 .. 82 ]
+sequence
+---PIDVSE---NVDVSKVGNLIKAKGPL---GELEFRVA-DSVDVEISN-KVIKVSNNDNTQKGQAVWG
+TTRALISNMVKGVSEG-----------------*
+>P1;gi|44196464|gb|EAH64272.1| unknown [environmental sequence] [ score 90 E 1e-17 ] [ range 8 .. 82 ]
+sequence
+---PVLIPD---NVKLAIENGKVIVEGPK---GKDELIVN-KDISIIQED-NSITIKYDENISSHMAIAG
+TTRSLINNMVVGVDVG-----------------*
+>P1;gi|43472159|gb|EAD90821.1| unknown [environmental sequence] [ score 90 E 1e-17 ] [ range 8 .. 82 ]
+sequence
+---PIDIPS---GVDVKIDAGQISVKGPK---GSMHMPLV-AGVEIKQVE-SQLSFAPIKEMKNARSLWG
+LQRTLVNNLIIGVTNG-----------------*
+>P1;gi|25295040|pir||B84989 50S ribosomal protein L6 [imported] - Bu... [ score 90 E 1e-17 ] [ range 20 .. 93 ]
+sequence
+---PIVIPS---GVNVQLDLQDISIKGKY---GHLSRTIH-QSVKIEFLN-NQIIFSPRLGFSNGWAQAG
+TSRALVNSMIIGVSE------------------*
+>P1;gi|44461907|gb|EAJ43664.1| unknown [environmental sequence] [ score 90 E 1e-17 ] [ range 8 .. 78 ]
+sequence
+---PVDIPD---NVEANINNNLLTVKGPL---GEMKLDIH-GDVDVQIND-NIISV----NSNQNSAMAG
+TMRSLICNNVVGVSKG-----------------*
+>P1;gi|21672755|ref|NP_660822.1| 50S ribosomal protein L6 [Buchnera ... [ score 90 E 1e-17 ] [ range 21 .. 94 ]
+sequence
+---PILIPE---GIKIELNLQSISIKGKY---GYLSRIIH-DAVKVECLN-NKITFSIRSGFSDAWAQAG
+TSRALVNSMIIGVSK------------------*
+>P1;gi|43692442|gb|EAF01427.1| unknown [environmental sequence] [ score 90 E 2e-17 ] [ range 8 .. 82 ]
+sequence
+---PITIPD---NVNVDIKDNIVCVKGNK---GELDFTLS-KSISIDINN-NIITVKYNEKDQKSVALAG
+TSRSLLNNMIKGVSDG-----------------*
+>P1;gi|43854155|gb|EAF81268.1| unknown [environmental sequence] [ score 90 E 2e-17 ] [ range 8 .. 81 ]
+sequence
+---PITILE---GVKVELKDNLVSVSGKN---GSMEFELV-KDVTVDISE-NEILVSY-GDYQESVAMGG
+TTRAILNNMVVGVSQG-----------------*
+>P1;gi|15431303|ref|NP_000652.2| ribosomal protein L9; 60S ribosomal... [ score 179 E 1e-44 ] [ range 88 .. 184 ]
+sequence
+FRYKMRSVYAHFPINVVIQGSLVEIRNFLGEKYIRRVRMR-PGVACSVSK-DELILEGN-----DIELVS
+NSAALIQQATTVKNKDIRKFLDGIYVSEK----*
+>P1;gi|27694479|ref|XP_223318.1| similar to 60S RIBOSOMAL PROTEIN L9... [ score 173 E 1e-42 ] [ range 86 .. 182 ]
+sequence
+FHYKMRSVYAHFPINVVIQENLVEIRNFLGEKYIQRVQMR-TGVACSVSK-DELILEGN-----DIELVS
+NSAALIQQATTVKNKDIRKFLNGIYVSEK----*
+>P1;gi|34876483|ref|XP_225484.2| similar to 60S RIBOSOMAL PROTEIN L9... [ score 172 E 1e-42 ] [ range 109 .. 205 ]
+sequence
+FRYEMRSVDAHFPINVVIQENGSEIRNFLGEKHIRRVRMR-TGVACSVSK-DEIILEGN-----DIELVS
+NSVALIQQATTVKIKDIRKFLDGIYVSEK----*
+>P1;gi|27672225|ref|XP_224924.1| similar to 60S ribosomal protein L9... [ score 171 E 3e-42 ] [ range 124 .. 220 ]
+sequence
+FCYKMRSVYAHFPINVVIQGSLVEIRNFLGEKYIRRVWMR-TNVACSVSK-DELILEGN-----DIELVS
+NSAALIQQGTTVKNKDISKFLDGIYVSEK----*
+>P1;gi|38086541|ref|XP_141996.3| similar to 60S ribosomal protein L9... [ score 170 E 6e-42 ] [ range 219 .. 315 ]
+sequence
+FRYKMRSVYAHFPINVVIQGSLVEIQNFLGRKSIRRVRMR-TSVTCSVSK-DELILEGN-----DIELVS
+NSVPLIQQATAVKNKDIRKFLDGIYVSGK----*
+>P1;gi|20862055|ref|XP_141567.1| similar to 60S ribosomal protein L9... [ score 170 E 7e-42 ] [ range 93 .. 189 ]
+sequence
+FQYKMRSVYTHFPINVIIQGSLVEIRNFLSEKSIRRVRMR-TGVACSVSK-DELILEGN-----DIELVS
+NSAALIQQATTVKNKYIRKFLDGIYVSEK----*
+>P1;gi|38080388|ref|XP_194223.2| similar to 60S ribosomal protein L9... [ score 170 E 8e-42 ] [ range 88 .. 184 ]
+sequence
+FRYKMWFVYAHFPINVVIQGSLVEIRNFLGENYIHRVWMR-TGVACSVSK-DELILEGN-----DIELAS
+NSAALIQQATTVKNKDIRKFLDGIYVSEK----*
+>P1;gi|34391498|gb|AAN34938.1| ribosomal protein L9 [Danio rerio] [ score 170 E 1e-41 ] [ range 81 .. 174 ]
+sequence
+FRYKMRSVYAHFPINVVIQGSLVEIRNFLGEKYIRRVRMR-QGVACAVSK-DELVLEGN-----DIELVS
+TSAALIQQATTVKNKDIRKFLDGIYV-------*
+>P1;gi|34872577|ref|XP_345601.1| similar to 60S RIBOSOMAL PROTEIN L9... [ score 169 E 1e-41 ] [ range 88 .. 184 ]
+sequence
+FCYKMRSVYAHFPINVVIQGSLVEIRNFLGEKYIRRVQMR-TGVARSVSK-DELILEGN-----DIELVS
+NSAAVIQQATTVKNKDIRKFLDGIYVSEK----*
+>P1;gi|28630274|gb|AAN73364.1| ribosomal protein L9 [Myxine glutinosa] [ score 164 E 3e-40 ] [ range 62 .. 158 ]
+sequence
+FRYKMRSVYAHFPINVKDDGQLVEIRNFLGEKFIRRAQMR-PGVTCAVSK-DELILEGN-----DIELVS
+NSAALIQQSITVKKKGIRKFLDGIYVTEK----*
+>P1;gi|27666954|ref|XP_221450.1| similar to 60S RIBOSOMAL PROTEIN L9... [ score 163 E 6e-40 ] [ range 81 .. 177 ]
+sequence
+FRYKRRSVCAHFPINVVVQGSLVEIQNFLGEKYIRRVRMR-TSVACSVSK-DELILEGN-----GIELVS
+NSTALIQQATTVKNKDIRKFLDGIYVSEK----*
+>P1;gi|20880518|ref|XP_137555.1| similar to 60S ribosomal protein L9... [ score 162 E 1e-39 ] [ range 88 .. 184 ]
+sequence
+FCYRMRSVYAHFPINIVIQGSLVEIRNFLGEKSICRVRMR-TGVACSVSN-DALILEGN-----DVELVS
+NSAALIQQATAVKNKDLRKFLDGIYVSEK----*
+>P1;gi|27690015|ref|XP_227018.1| similar to 60S RIBOSOMAL PROTEIN L9... [ score 161 E 3e-39 ] [ range 88 .. 184 ]
+sequence
+FRYKKRSVHAHVPVNVIIQGSLVEIRNFLGEKYIRRVRMR-TGVACSVSK-NELILEGN-----DIELIS
+NSAALIQQATTVKNKDIRKSLDGIYVSEK----*
+>P1;gi|42545591|gb|EAA68434.1| hypothetical protein FG01154.1 [Gibbe... [ score 160 E 7e-39 ] [ range 143 .. 243 ]
+sequence
+FKYKMRYVYAHFPINVNVSQNEVEIRNFIGEKLVRRIVMH-PGVDVEASK-DELVLSGN-----SLENVS
+QSAADIQQICRVRNKDIRKFLDGLYVSEK----*
+>P1;gi|34882043|ref|XP_223633.2| similar to 60S ribosomal protein L9... [ score 160 E 9e-39 ] [ range 89 .. 185 ]
+sequence
+FRYKMRSVDAHFPINVVIQGSLVEIRNFLGEKYIRRVRMR-TGVACSVSK-DELVLEGS-----DIELVS
+NSAALIQQATAVKNKAIRKFVDGIRVSER----*
+>P1;gi|2119112|pir||JC6062 ribosomal protein L9 - fruit fly (Drosoph... [ score 158 E 2e-38 ] [ range 86 .. 182 ]
+sequence
+FQYKMRAVYAHFPINCVTSENNIEIRNFLGEKYIRRVEMA-PGVTVTAQK-DELIVEGN-----DIESVS
+GSAALIQQSTTVKNKDIRKFLDGLYVSEK----*
+>P1;gi|3355662|emb|CAA08792.1| ribosomal protein L9 [Podocoryne carnea] [ score 158 E 3e-38 ] [ range 81 .. 176 ]
+sequence
+FLYKMRSVYAHFPINLNIDGKTVEVRNYLGEKYIRVVKMR-NGVICKPSK-DEIIVEGN-----DIELVS
+NSAALINQCVRAKNKDIRKFLDGIYVSEK----*
+>P1;gi|38050460|ref|XP_193447.2| similar to 60S ribosomal protein L9... [ score 157 E 5e-38 ] [ range 87 .. 183 ]
+sequence
+FRYKMRSVDAHFPINILIQENLVEIRIFLGEKYIPRVRMR-TGVACSVSK-DELVLEKN-----DIELVS
+NSAALIQQATTVKNKVIRKFLDGIYVSEK----*
+>P1;gi|24266971|gb|AAN52383.1| ribosomal protein L9 [Branchiostoma b... [ score 157 E 7e-38 ] [ range 86 .. 182 ]
+sequence
+YRYKMRSVYAHFPINCTVEGNSVLIRNFLGEKVIRRVRMS-EDIKVSVSK-DELYVEGN-----DLEQVS
+RSAALIQQSTTVKNKDIRKFLDGIYVSER----*
+>P1;gi|21759393|sp|Q963B7|RL9_SPOFR 60S ribosomal protein L9 >gi|149... [ score 155 E 2e-37 ] [ range 86 .. 182 ]
+sequence
+FQYKMRSVYAHFPINVTTEGNSVEIRNFLGEKYIRRVKMA-PGVTVPKQK-DELIIEGN-----SLEDVS
+SSAALIQQSTTVKNKDIRKFLDGLYVSEK----*
+>P1;gi|6174959|sp|P49210|RL9_ORYSA 60S RIBOSOMAL PROTEIN L9 >gi|7440... [ score 155 E 2e-37 ] [ range 87 .. 183 ]
+sequence
+YRYKMRFVYAHFPINASITNSNIEIRNFLGEKKVRKVDML-EGVTIEKVK-DELVLDGN-----DIELVS
+RSAALINQKCHVKNKDIRKFLDGIYVSDK----*
+>P1;gi|31202479|ref|XP_310188.1| ENSANGP00000011018 [Anopheles gambi... [ score 155 E 3e-37 ] [ range 88 .. 184 ]
+sequence
+FQYKMRAVHAHFPINCVISENNVEIRNFLGEKHIRRVKMQ-PGVTVVKQK-DELVLEGN-----DIEAVS
+LSAALIQQSTTVHNKDIRKFLDGLYVSEK----*
+>P1;gi|14520541|ref|NP_126016.1| LSU ribosomal protein L6P [Pyrococc... [ score 154 E 3e-37 ] [ range 86 .. 177 ]
+sequence
+FTYKLKVVYSHFPITVKVQGDEVIIENFLGEKAPRRAKIL-PGVTVKVKG-QEIIVEGI-----DKEAVG
+QTAANIEQATRITKWDRRVFQDGIYIVEK----*
+>P1;gi|28630272|gb|AAN73363.1| ribosomal protein L9 [Branchiostoma l... [ score 154 E 5e-37 ] [ range 12 .. 105 ]
+sequence
+YRYKMRSVYAHFPINCTVEGNSVLIRNFLGEKVIRRVRMS-EGIKVSLSK-DELYLEGN-----DLELVS
+RSAALVQQSTTVKNKDIRKFLDGIYV-------*
+>P1;gi|11499493|ref|NP_070734.1| LSU ribosomal protein L6P (rpl6P) [... [ score 153 E 6e-37 ] [ range 104 .. 196 ]
+sequence
+FEYHLKVVYAHFPIKVRVEGNEVIIENFIGEKHPRRAKIV-GRAQVEISG-QDIYVRGI-----DIEECG
+QTAANLEQATKIKRKDPRVFQDGIYIVKKP---*
+>P1;gi|38083022|ref|XP_289978.2| similar to oocyte specific homeobox... [ score 153 E 7e-37 ] [ range 314 .. 408 ]
+sequence
+--YKIRSVYAHFPINVITQENLVETRNFLDEKYISRVQMR-TGVACPVSK-DELIHEGN-----NIELDS
+NSATQIQQATTVKNKGIRKFLDGLYMSEK----*
+>P1;gi|18978180|ref|NP_579537.1| LSU ribosomal protein L6P [Pyrococc... [ score 152 E 1e-36 ] [ range 86 .. 177 ]
+sequence
+FTYKLKVVYSHFPISVKVQGDEVIIENFLGEKAPRKAKIL-PGVTVKVRG-QEIIVEGI-----DKEAVG
+QTAANIEQATRITKWDRRIFQDGIYIVEK----*
+>P1;gi|22758894|gb|AAN05606.1| ribosomal protein L9 [Argopecten irra... [ score 152 E 1e-36 ] [ range 86 .. 182 ]
+sequence
+YLYKMRSVYAHFPINIAIGGHSVEVRNFLGEKYTRKVNML-PGVTFSTSK-DEFFIQGN-----DIELVS
+QSAALVQQSTTVKDKDIRKFLDGIYVSEK----*
+>P1;gi|15235114|ref|NP_192783.1| 60S ribosomal protein L9 (RPL90D) [... [ score 152 E 2e-36 ] [ range 91 .. 187 ]
+sequence
+FLYRMRFVYAHFPINASIDGNNIEIRNFLGEKKVRKVEML-DGVKIEKVK-DEIILEGN-----DIELVS
+RSCALINQKCHVKKKDIRKFLDGIYVSEK----*
+>P1;gi|18398753|ref|NP_564417.1| 60S ribosomal protein L9 (RPL90B) [... [ score 152 E 2e-36 ] [ range 91 .. 187 ]
+sequence
+FRYKMRFVYAHFPINASIDGKSIEIRNFLGEKKVRKVEML-DGVTIEKVK-DEIVLDGN-----DIELVS
+RSCALINQKCHVKKKDIRKFLDGIYVSEK----*
+>P1;gi|39582015|emb|CAE64446.1| Hypothetical protein CBG09153 [Caeno... [ score 152 E 2e-36 ] [ range 86 .. 182 ]
+sequence
+FRYKMRSVYAHFPINVTLQGNTVEIRNFLGEKIVRRVPLP-DGVTATISK-DEIIVEGN-----DVQFVS
+QAAARLQQSTAVKEKDIRKFLDGIYVSEK----*
+>P1;gi|2129720|pir||S71255 ribosomal protein L9, cytosolic - Arabido... [ score 151 E 3e-36 ] [ range 91 .. 188 ]
+sequence
+FRYKMRFVYAHFPINVSIDGSLIEIRNFLGEKKVRKVEML-DCSDPEKVK-DEIVLDGN-----DIELVS
+RSCALINQKCHVKKKDIRKFLDGIYVSEK----*
+>P1;gi|15668648|ref|NP_247447.1| LSU ribosomal protein L6P (rplF) [M... [ score 151 E 3e-36 ] [ range 86 .. 177 ]
+sequence
+FTYKLKIRYAHFPMKVSVKGNEVIIENFLGEKHPRRARIM-EGVTVKISG-EDVIVTGI-----DKEKVG
+QTAANIEQATRIKGRDPRVFQDGIYIVEK----*
+>P1;gi|15678050|ref|NP_275164.1| ribosomal protein L9 (E.coli L6) [M... [ score 150 E 6e-36 ] [ range 85 .. 176 ]
+sequence
+FRYRMKIVYAHFPMSVKVAGDKVVIENFLGERHPRTARFV-GDTKVQVKG-DEVEITGI-----NKEHVG
+QTMANIEQATKIKGRDPRVFQDGIYLVSK----*
+>P1;gi|32423007|ref|XP_331943.1| hypothetical protein [Neurospora cr... [ score 150 E 7e-36 ] [ range 86 .. 186 ]
+sequence
+FKYKMRYVYAHFPINVNVEKNEVEIRNFIGEKIVRRVVMQ-PGVDVEISK-DELVLSGN-----SLEGVS
+QSAADIQQICRVRNKDIRKFLDGIYVSEK----*
+>P1;gi|17554746|ref|NP_498660.1| ribosomal Protein, Large subunit (2... [ score 149 E 1e-35 ] [ range 86 .. 182 ]
+sequence
+FRYKMRSVYAHFPINVTLQGNTVEIRNFLGEKIVRRVPLP-EGVIATISK-DEIVVEGN-----DVQFVS
+QAAARIQQSTAVKEKDIRKFLDGIYVSEK----*
+>P1;gi|38104515|gb|EAA51069.1| hypothetical protein MG04829.4 [Magna... [ score 149 E 1e-35 ] [ range 86 .. 186 ]
+sequence
+YKYKMRYVYAHFPINVNVEKNEVEIRNFIGEKLVRRVAMQ-PGVEVEISK-DELILSGN-----SVEAVS
+QSAADIQQICKVRNKDIRKFLDGMYVSEK----*
+>P1;gi|19114610|ref|NP_593698.1| 60s ribosomal protein l9-a. [Schizo... [ score 149 E 2e-35 ] [ range 86 .. 182 ]
+sequence
+FRYKMRLVYAHFPININLTENGVEIRNFLGERITRVIKCL-PGVTVSISK-DEIILEGN-----SLENVS
+QSAANIKQICNVRNKDIRKFLDGIYVSER----*
+>P1;gi|34932611|ref|XP_225692.2| similar to 60S RIBOSOMAL PROTEIN L9... [ score 149 E 2e-35 ] [ range 86 .. 181 ]
+sequence
+FHYKMRPVDTYFPINVVIQGSLVEIRNFLGEQFIRRVRLR-TGVASQVQK-DESILEGN-----DIELVS
+NSAALIQQAPAVKNKDIRKVLDGICVSEK----*
+>P1;gi|23051992|ref|ZP_00078682.1| COG0097: Ribosomal protein L6P/L9... [ score 148 E 2e-35 ] [ range 85 .. 177 ]
+sequence
+FECKMTILYAHFPMQVKVDGKTLIIGNFLGEKKPRIAKIL-GETKVKVSG-NEVTVSGI-----NKEDVG
+QTAANIEQKTKIKRFDPRIFQDGIYIVQKP---*
+>P1;gi|4590398|gb|AAD26563.1| ribosomal protein homolog [Cryptospori... [ score 148 E 3e-35 ] [ range 87 .. 183 ]
+sequence
+FEYKMRLVYSHFPINSNINGSLIEIRNFLGEKRVRTVKML-PGVVVEKSK-DELIITGT-----DLELVS
+RSAALIHQCALARNKDIRKFLDGIYVSEK----*
+>P1;gi|21228242|ref|NP_634164.1| LSU ribosomal protein L6P [Methanos... [ score 148 E 3e-35 ] [ range 84 .. 175 ]
+sequence
+FECKMNIVYAHFPMQVKVEGKTLVIGNFLGEKKPRIAKIL-GETKVKVSG-NEIVVSGI-----NKEDVG
+QTAANIEQKTKIKRFDPRIFQDGIYIVQK----*
+>P1;gi|40747636|gb|EAA66792.1| conserved hypothetical protein [Asper... [ score 148 E 3e-35 ] [ range 86 .. 186 ]
+sequence
+FKYKMRYVYAHFPINVNIEKNDVEIRNFLGEKYVRRVVCQ-PGVEIIASK-DELQLSGN-----SLEAVS
+QSAADIQQICRVRNKDIRKFLDGLYVSEK----*
+>P1;gi|14600654|ref|NP_147171.1| 50S ribosomal protein L6 [Aeropyrum... [ score 147 E 5e-35 ] [ range 87 .. 178 ]
+sequence
+FRYKLKIMYSHFPINVKVEGDKFIISNFLGEKGLRIARIM-PGVKVQVKG-SDVIVEGI-----DVEKVA
+QTAANIELATKVKDKDRRKFMDGIYIYER----*
+>P1;gi|15790648|ref|NP_280472.1| 50S ribosomal protein L6P; Rpl6p [H... [ score 147 E 6e-35 ] [ range 81 .. 173 ]
+sequence
+WEYKLEVHYSHFPMQVDVEGEEVVIQNFLGEKAARRTQIR-GDTDVVVDD-EEVTLSGP-----SIEDVG
+QTAADIEQLTRVTDKDTRVFQDGVYIVEKP---*
+>P1;gi|45358978|ref|NP_988535.1| LSU ribosomal protein L6P [Methanoc... [ score 147 E 7e-35 ] [ range 86 .. 177 ]
+sequence
+FEYKLVIRYAHFPMKVSAKGNTVMIDNFLGEKYTRTAKIM-DGVTVKVSG-EDVVVSGA-----NKEFVG
+QTAANIEQATKVKGRDTRIFQDGIYIVEK----*
+>P1;gi|20089958|ref|NP_616033.1| ribosomal protein L6p [Methanosarci... [ score 145 E 2e-34 ] [ range 84 .. 175 ]
+sequence
+FECKMSIVYAHFPMQVKVDGKTLIIGNFLGEKKPRFAKII-GETKVKVSG-NDVTITGI-----NKEDVG
+QTAANIEQKTKIKRFDPRIFQDGIYIVQK----*
+>P1;gi|133009|sp|P14030|RL6_METVA 50S RIBOSOMAL PROTEIN L6P >gi|7111... [ score 144 E 5e-34 ] [ range 86 .. 177 ]
+sequence
+FEYKLVIRYAHFPMKVTFKGNTVIIDNFLGEKYPRTAKVM-EGVTVKVNG-EEVIVSGT-----NKEFVG
+QTAANIEQATKVKGRDTRIFQDGIYIVEK----*
+>P1;gi|20343107|ref|XP_110911.1| similar to 60S ribosomal protein L9... [ score 143 E 9e-34 ] [ range 88 .. 183 ]
+sequence
+FRYKMRSMYAHFPINVLSRRMTLWLKSEISVKIHRRVQMR-TGVACSVSK-NELILEGN-----DIELVS
+NSATLIQQATTVKNKDIRKCLDGIYVSEK----*
+>P1;gi|34873216|ref|XP_220747.2| similar to 60S ribosomal protein L9... [ score 143 E 1e-33 ] [ range 90 .. 183 ]
+sequence
+FHYKMRSVYAPFPIKVIIQENGSLVETRLGEKY--RVWMR-TGVACSVSK-KELILEGN-----DIELVS
+NSVALTQQVTTVKNKDIRKFLDGIYVSEK----*
+>P1;gi|29841009|gb|AAP06022.1| similar to XM_085215 similar to ribos... [ score 141 E 2e-33 ] [ range 85 .. 180 ]
+sequence
+YRYKLKSVYAHFPINMSAEGSKLEIRNFLGEKANKFVLME-AGVKVSATK-DEIQVEGN-----DIEKVA
+KCAALIQQSCRVRHKDIRKFLDGIYVSSK----*
+>P1;gi|6321291|ref|NP_011368.1| Protein component of the large (60S)... [ score 138 E 3e-32 ] [ range 86 .. 184 ]
+sequence
+YKYKMRYVYAHFPINVNIVEKDIEVRNFLGDKKIRNVPVR-DGVTIEFSK-DEIVLSGN-----SVEDVS
+QNAADLQQICRVRNKDIRKFLDGIYVSHK----*
+>P1;gi|6015604|emb|CAA65987.2| ribosomal protein L9 [Pisum sativum] [ score 137 E 4e-32 ] [ range 90 .. 188 ]
+sequence
+FRYKMRFVYADFPINASIDNKSIEIRNFLGEKKVRKVDLL-DGVSIEKVK-DEVVLDGN-----DIELVS
+RSCALIEQKCHVKKKDIRKFLDGIYVSEK----*
+>P1;gi|13541172|ref|NP_110860.1| 50S ribosomal protein L6 [Thermopla... [ score 137 E 5e-32 ] [ range 85 .. 176 ]
+sequence
+FQYEMKIDYSHFPMRVSVKGKTVVIENFFGERSPRTAEIV-GETQVSVKG-DRLFLNGP-----SKKDVG
+ETAANIERATIIKGFDPRVFQDGIYLISK----*
+>P1;gi|45187583|ref|NP_983806.1| ADL290Wp [Eremothecium gossypii] >g... [ score 137 E 6e-32 ] [ range 86 .. 184 ]
+sequence
+YKYKMRYVYAHFPINVNVVEKDIEIRNYLGDKRVRAVPVR-EGVSVEFSK-DEIVLSGT-----SIENVS
+QNAADIQQICRARNKDIRKFLDGIYVSEK----*
+>P1;gi|16082257|ref|NP_394711.1| probable 50S ribosomal protein L6 [... [ score 136 E 7e-32 ] [ range 85 .. 176 ]
+sequence
+FQYEMKIDYSHFPMRVSVKGKTVVIENFFGERSPRTAEIV-GDTTVTVKG-DRVYIAGI-----SKKDVG
+ETAANIERSTIIKGFDPRVFQDGIYLISK----*
+>P1;gi|44462195|gb|EAJ43868.1| unknown [environmental sequence] [ score 136 E 9e-32 ] [ range 86 .. 181 ]
+sequence
+FEYRLKAVFSHFPMTLKVDGNKFTITNMLGEKVPRVAKLP-SEVQVKIEK-SDIIVTGA-----DREKVG
+QSAANIERACKVKKRDPRVFQDGIYITSK----*
+>P1;gi|44623072|gb|EAK55271.1| unknown [environmental sequence] [ score 135 E 3e-31 ] [ range 91 .. 179 ]
+sequence
+---KMKIVFSHFPITVKVDGKTVLIENFQGERAPRKTKVW-GDTKVVPKG-DDVIITGH-----VLTDVS
+QTAAEIENGSRVKNKDHRVFLDGVYKFEK----*
+>P1;gi|15920626|ref|NP_376295.1| 186aa long hypothetical 50S ribosom... [ score 134 E 4e-31 ] [ range 86 .. 177 ]
+sequence
+YRYYLKIIYTHFPVTVKVSGNEVQIQNLIGEKNIRRAKIM-TGVKVNVKG-EDIIVEGQ-----DIEKVG
+QTAANIELASKITGYDRRVFADGIYIYKK----*
+>P1;gi|34869990|ref|XP_233230.2| similar to 60S RIBOSOMAL PROTEIN L9... [ score 134 E 5e-31 ] [ range 125 .. 221 ]
+sequence
+FSYKMRSVGAPSPINVVVRGSLVEIANFLGKNYIRRGQMR-IGVSCSVSK-DELILEGN-----DVELLS
+NLATLIQQATTVKNKGIRMFLDGTCVSEK----*
+>P1;gi|44623119|gb|EAK55306.1| unknown [environmental sequence] [ score 133 E 6e-31 ] [ range 91 .. 179 ]
+sequence
+---KMKIVFSHFPITVKVDGKTVLIENFQGERAARKTKIW-GDTKVVPKG-DDVIITGH-----VLTDVS
+QTAAEIENGSRVKNKDHRVFLDGVYKFEK----*
+>P1;gi|44300885|gb|EAI30550.1| unknown [environmental sequence] [ score 133 E 7e-31 ] [ range 91 .. 179 ]
+sequence
+---KMKVVFSHFPITVKAEGKQVLIENFQGERAPRKTNIW-GETKVVPKG-DDVIITGH-----VLTDVS
+QTAAEIENNSRVKNKDHRVFLDGIYKFEK----*
+>P1;gi|9857052|emb|CAC04009.1| probable ribosomal protein L9 [Leishm... [ score 133 E 8e-31 ] [ range 87 .. 183 ]
+sequence
+YRFKVRCAYAHFPINVSVDGQNIEVRNFLGEKRVRRQLVP-NTVKVSKVK-DEIVFDGN-----DLEQVS
+REAAVLHQMCLVKKKDIRKFLDGIYVQTK----*
+>P1;gi|42980609|gb|EAB57231.1| unknown [environmental sequence] [ score 133 E 8e-31 ] [ range 44 .. 132 ]
+sequence
+---KMKVVFSHFPITVKVEGKQVLIENFQGERAPRKTNIW-GETKVVPKG-DDVIITGH-----VLTDVS
+QTAAEIENGSRVKNKDHRVFLDGIYKFEK----*
+>P1;gi|23619181|ref|NP_705143.1| ribosomal protein L6 homologue, put... [ score 133 E 1e-30 ] [ range 87 .. 182 ]
+sequence
+FLYKMRLVHAHFPINSNIVDNNIEIRNYLGEKSVRFVKAL-PGVVIEKSK-DEIYVSGA-----DIENVS
+LTAALIHQSVLCRNKDIRKFLDGIYVSE-----*
+>P1;gi|23486980|gb|EAA20934.1| ribosomal protein L6, putative [Plasm... [ score 132 E 2e-30 ] [ range 85 .. 180 ]
+sequence
+FLYKMRLVHAHFPINSNIDNKLIEIRNYLGEKRVRFVKAL-PGVLIEKSK-DEIYVSGA-----DIENVS
+LTAALIHQSVLCRNKDIRKFLDGIYVSE-----*
+>P1;gi|43284505|gb|EAD08063.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 86 .. 181 ]
+sequence
+FEYKLKAVYSHFPMTIKVQGNEMTITNLFGEKVPRVAALW-SPADVEVKK-TDVTVIGA-----DREKVG
+QTAANIERACRIKKRDRRVFQDGIYIVSK----*
+>P1;gi|3914762|sp|O05637|RL6_SULAC 50S ribosomal protein L6P >gi|205... [ score 128 E 2e-29 ] [ range 89 .. 180 ]
+sequence
+YRYYLKVISTHFPISVKVSGDEVQVSNLIGEKNIRRAKIL-PGVKVTVKG-EDIVVEGS-----DIYNVA
+QTAANIESSTKIVGYDRRIFSDGIYIYKK----*
+>P1;gi|29246949|gb|EAA38527.1| GLP_108_35846_36403 [Giardia lamblia ... [ score 127 E 5e-29 ] [ range 84 .. 180 ]
+sequence
+FEYKMRLAYAHFPIAATVVDNNIEIRNFMHQIKTRRIECL-PGVTIAMSK-DELILRGI-----SIEDVS
+HTAARIHESLKVPNKDLRKFLDGCYVSSR----*
+>P1;gi|22406358|ref|ZP_00001208.1| COG0097: Ribosomal protein L6P/L9... [ score 126 E 8e-29 ] [ range 85 .. 172 ]
+sequence
+FKYEMKIDFTHFPMRVSVRGNELHVENFLGGKAPRIAKIK--NCKVSVKG-DRVIIEGI-----DKRDMG
+DTAANIERATYIKHFDARVFQDGIYL-------*
+>P1;gi|15897608|ref|NP_342213.1| LSU ribosomal protein L6AB (rpl6AB)... [ score 126 E 1e-28 ] [ range 86 .. 177 ]
+sequence
+YRYYLKIIYTHFPTSVKVVGNEVQITNLIGEKNTRRAQIL-EGVKVTVKG-EDIVVEGP-----NLEAVA
+QTAANIESASKISGFDRRIFSDGIFIYKK----*
+>P1;gi|13812319|ref|NP_113437.1| 60S ribosomal protein L9 [Guillardi... [ score 126 E 1e-28 ] [ range 87 .. 183 ]
+sequence
+FEYILQPIYAHFPINLSIDGSCLEIRNFLGEKRIRKIYMG-QGVKIEAKK-DEISVFGS-----DLNLVS
+LNAASIQQSCQAKNKDLRKFLDGIYIIMK----*
+>P1;gi|38078691|ref|XP_143986.2| similar to 60S RIBOSOMAL PROTEIN L9... [ score 121 E 2e-27 ] [ range 82 .. 174 ]
+sequence
+FCYEIKSL----PSNGVIQGSLDEIRNFLGEKYNGRVRMK-MGVDCSLSK-DELILEGN-----GIELVS
+NSAALIQQATKVRNKDIRKFLDGIYVPGK----*
+>P1;gi|20094660|ref|NP_614507.1| Ribosomal protein L6 [Methanopyrus ... [ score 121 E 2e-27 ] [ range 104 .. 198 ]
+sequence
+-EYKLKLVYSHFPPEVKVDQKEVYIENFMGENVPRVAEIP-ENTEVIVQG-QDIIVRGI-----DKEAVG
+QTAANLEQATYIKDRDPRVFQDGIYIVEK----*
+>P1;gi|19073999|ref|NP_584605.1| 60S RIBOSOMAL PROTEIN L9 [Encephali... [ score 120 E 9e-27 ] [ range 105 .. 200 ]
+sequence
+FAYTMKAVYNHFSINIKEDGKILLVKNFLGEKNVKRFRMR-GAARVRLDK-DTIVIEGP-----SLSDVS
+QSAGTITNECKAKNRDSRVFLDGIFVTER----*
+>P1;gi|41615035|ref|NP_963533.1| NEQ241 [Nanoarchaeum equitans Kin4-... [ score 110 E 1e-23 ] [ range 85 .. 184 ]
+sequence
+FVYRLKVCYTHFPMRVKLEGNKLIVENFLGEKAPKELPYL-DKVKVKIDE-TEIVVESP-----DKEKAG
+IVASMIEQSTRFKRKDRRRFTDGIWLYYK----*
+>P1;gi|18313300|ref|NP_559967.1| ribosomal protein L6 [Pyrobaculum a... [ score 101 E 3e-21 ] [ range 90 .. 189 ]
+sequence
+WRYKLKVIYTHFPMLVKVQGNQLVIENFLGRKSKITLNIP-KGVKVEVKK-EDIVIEGI-----DRELVS
+TFAAAVQAATELHG-DERPVVDGIYVV------*
+>P1;gi|40643002|emb|CAD91427.1| ribosomal protein L9 [Crassostrea gi... [ score 100 E 1e-20 ] [ range 84 .. 150 ]
+sequence
+FLYKMRSVYAHFPINCAVQGGSVEIRNFLGEKFVRKVGML-PGVSIKPSK-DEFILEGN-----DLEAVS
+---------------------------------*
+>P1;gi|27662920|ref|XP_234088.1| similar to 60S ribosomal protein L9... [ score 94 E 7e-19 ] [ range 60 .. 115 ]
+sequence
+---------------------------------------R-TGVACRVQK-NELILEGN-----DIELVS
+NSAALIQQATAVKNKDIRRFFDGIYVSKK----*
+>P1;gi|34861662|ref|XP_227807.2| similar to ribosomal protein L9; 60... [ score 84 E 7e-16 ] [ range 95 .. 138 ]
+sequence
+-------------------------------------------------G-GRINLEGN-----DIELVS
+NSAALIQQATTVKNKDIRKFLDSIYVSER----*
+>P1;gi|34527046|dbj|BAC85318.1| unnamed protein product [Homo sapiens] [ score 81 E 8e-15 ] [ range 83 .. 132 ]
+sequence
+FCYKMRSAYAHFPTDIVIQGSLVEIRNFLDEKYTRRVQMR-PGVACSVS---------------------
+---------------------------------*
+>P1;gi|44112993|gb|EAH19569.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 3 .. 57 ]
+sequence
+-------------------------------------RFG-GDTKVVPKG-DDVIITGH-----VLTDVS
+QTAAEIENGSRVKNKDHRVFLDGVYKFEK----*
+>P1;gi|34870310|ref|XP_345561.1| similar to ribosomal protein L9; 60... [ score 72 E 4e-12 ] [ range 94 .. 138 ]
+sequence
+------------------------------------------------QR-DELILEVN-----DIELVS
+NSRAPIQQATTVKNKDIRKFFDVIHVSKK----*
+>P1;gi|41149731|ref|XP_372474.1| similar to ribosomal protein L9 [Ho... [ score 58 E 7e-08 ] [ range 43 .. 117 ]
+sequence
+---------------VTLAGNKVR-RNLL-QFAPSIIVDA-KHDSPQAQK-DELILEGN-----YFELAS
+NSEALIQQAMAIENKAIRRAVGGSPVSEK----*
+>P1;gi|34867772|ref|XP_343998.1| similar to 60S RIBOSOMAL PROTEIN L9... [ score 48 E 4e-05 ] [ range 34 .. 59 ]
+sequence
+FHYRMRSVYAGFPTNVIIQENGSVIE--------------------------------------------
+---------------------------------*
+>P1;gi|43917890|gb|EAG13862.1| unknown [environmental sequence] [ score 142 E 2e-33 ] [ range 45 .. 132 ]
+sequence
+FERKLQLLGV--GYRAQAQGKVLNLTL--GFSHPVAYQLP-EGITVETPSQTEIVIKGI-----DKQLVG
+QVAANVRAFRPPEP----YKGKGVRYADEQVR-*
+>P1;gi|42837481|gb|EAA86214.1| unknown [environmental sequence] [ score 141 E 4e-33 ] [ range 83 .. 169 ]
+sequence
+YSKKLEINGV--GYRAQMKGNNIQLSL--GFSHDVNYETP-DGIKIETPTQTEIIISGI-----DKQKVG
+QVAAEIRSFRPPEP----YKGKGVKYEDEYI--*
+>P1;gi|43415685|gb|EAD67151.1| unknown [environmental sequence] [ score 141 E 4e-33 ] [ range 83 .. 169 ]
+sequence
+FSKKLEINGV--GYRAQMKGNNIQLSL--GFSHDVNYETP-DGIKIETPTQTEIIISGI-----DKQKVG
+QVAADIRAFRPPEP----YKGKGVKYENEYI--*
+>P1;gi|44381601|gb|EAI87214.1| unknown [environmental sequence] [ score 141 E 4e-33 ] [ range 83 .. 169 ]
+sequence
+FSKKLEINGV--GYRAQMKGNNIQLSL--GFSHDVNYETP-DGIKIETPSQTEIIISGI-----DKQKVG
+QVAAEIRAFRPPEP----YKGKGVKYEDEYI--*
+>P1;gi|43828826|gb|EAF68693.1| unknown [environmental sequence] [ score 140 E 6e-33 ] [ range 83 .. 169 ]
+sequence
+YSKKLEITGV--GYRAQMKGNNIQLSL--GFSHDVNYETP-DGIKIETPTQTEIIISGI-----DKQKVG
+QVAAEIRSFRPPEP----YKGKGVRYENEYI--*
+>P1;gi|43145041|gb|EAC38229.1| unknown [environmental sequence] [ score 140 E 8e-33 ] [ range 46 .. 133 ]
+sequence
+FEKRLELQGV--GYRAQAKGNQVSLQL--GFSHPVDYELP-EGISAETPSQTEIVISGN-----DKQQVG
+QVCAEIRGFRPPEP----YKGKGIRYQGEYVR-*
+>P1;gi|44596293|gb|EAK36139.1| unknown [environmental sequence] [ score 140 E 8e-33 ] [ range 83 .. 169 ]
+sequence
+FEKKLEINGV--GYRAALEGNTLNLSL--GFSHPVKHDLP-EGVTADLPSNTEIILKSM-----DKQLVG
+QVAAEIREYRPPEP----YKGKGVKYSDERI--*
+>P1;gi|34499626|ref|NP_903841.1| 50S ribosomal protein L6 [Chromobac... [ score 140 E 8e-33 ] [ range 83 .. 171 ]
+sequence
+FEKKLQLVGV--GYRAQAQGDTLNLSL--GFSHPVAHKMP-AGIKVETPTQTEILVKGA-----DKQLVG
+QVAAEIRAYRSPEP----YKGKGVRYADEVVVL*
+>P1;gi|23063771|ref|ZP_00088310.1| COG0097: Ribosomal protein L6P/L9... [ score 140 E 9e-33 ] [ range 44 .. 131 ]
+sequence
+FERKLQLVGV--GYKAQAKGQVLNLAL--GFSHPVDYELP-EGITAETPSQTDILIKGI-----DKQLVG
+QVAAEIRDFRPPEP----YKGKGVRYADEVVR-*
+>P1;gi|32030990|ref|ZP_00133686.1| COG0097: Ribosomal protein L6P/L9... [ score 140 E 9e-33 ] [ range 83 .. 171 ]
+sequence
+FTKKLQLVGV--GYRAQMKGNVLVLSL--GFSHPIDHVLP-AGVTAECPSQTEIVLKSA-----DKQLIG
+QVAADIRAYRRPEP----YKGKGVRYADEVVRM*
+>P1;gi|43322732|gb|EAD27056.1| unknown [environmental sequence] [ score 139 E 1e-32 ] [ range 83 .. 169 ]
+sequence
+FQKKLELQGV--GYRAKASGNIVNLTV--GYSHPIDYKLP-EGIKAETPSQTEIVITGV-----DKQLVG
+QVAAEIRDFRPPEP----YKGKGIRYADERV--*
+>P1;gi|43060437|gb|EAB96583.1| unknown [environmental sequence] [ score 138 E 2e-32 ] [ range 83 .. 169 ]
+sequence
+FEKKLEITGV--GYRAQVQGKNLVLQL--GHSHEIRYPIP-EGIKIDAPSQTEVVVSGI-----DNQKVG
+QVAAEIRSFRKPEP----YKGKGVRYADEMI--*
+>P1;gi|23108404|ref|ZP_00094628.1| COG0097: Ribosomal protein L6P/L9... [ score 138 E 2e-32 ] [ range 83 .. 169 ]
+sequence
+YTKVLEITGV--GYRANAQGKNLKLQL--GYSHDVDFPVP-EGIEIKTPDNTTVEISGI-----DKQKVG
+QVAAEIRRWRKPEP----YKGKGIKYRGEFI--*
+>P1;gi|43457261|gb|EAD83290.1| unknown [environmental sequence] [ score 138 E 2e-32 ] [ range 66 .. 152 ]
+sequence
+FEKKLEINGV--GYRAALEGNSLNLSL--GFSHPVIHELP-EGVTAELPSNTEIILKSM-----DKQLVG
+QVAAEIRDYRPPEP----YKGKGVKYADERI--*
+>P1;gi|43149473|gb|EAC40447.1| unknown [environmental sequence] [ score 138 E 3e-32 ] [ range 50 .. 137 ]
+sequence
+FQKTLLLVGV--GYRAKASGKKLELTL--GFSHPVHYELP-EQVEVETPSQTEVVLKSH-----DKQILG
+QVAAEIRAFRPPEP----YKGKGVKYADENIR-*
+>P1;gi|23029658|ref|ZP_00067979.1| COG0097: Ribosomal protein L6P/L9... [ score 138 E 3e-32 ] [ range 83 .. 170 ]
+sequence
+FEKKLQLVGV--GYRTKVTGNVLNLTL--GFSHPVDYVLP-EGVTAETPTQTEIVLKCS-----DKQLLG
+QVAAEIRAFRPPEP----YKGKGVRYADENVR-*
+>P1;gi|22956578|ref|ZP_00004333.1| COG0097: Ribosomal protein L6P/L9... [ score 138 E 3e-32 ] [ range 105 .. 191 ]
+sequence
+FKKELEISGV--GYRAQMAGNVLKLSL--GYSHDVNFEVP-AGVTVTTPKQTEITVEGI-----DQQLVG
+QVAANIREWRRPEP----YKGKGIRYKDEFI--*
+>P1;gi|44093150|gb|EAH08936.1| unknown [environmental sequence] >gi|... [ score 138 E 4e-32 ] [ range 82 .. 170 ]
+sequence
+FERKLTLVGV--GYRAQAQGDKLNLSL--GFSHPVVHQMP-EGVKAETPTQTEIVIKGI-----NKQQVG
+QVAAEVRGYRPPEP----YKGKGVRYSDEVVIL*
+>P1;gi|44297265|gb|EAI28087.1| unknown [environmental sequence] [ score 137 E 4e-32 ] [ range 85 .. 173 ]
+sequence
+YTKELELIGV--GYRAKSQGKTLNLTL--GFSHPVNYEIP-EGIEISTPSQTEITIAGI-----DKQKVG
+QVAAELRAIRPPEP----YKGKGVRYKDEQITL*
+>P1;gi|22982183|ref|ZP_00027477.1| COG0097: Ribosomal protein L6P/L9... [ score 137 E 5e-32 ] [ range 82 .. 170 ]
+sequence
+FERKLTLVGV--GYRAQAQGDKLNLSL--GFSHPVVHQMP-EGIKAETPTQTEIVIKGI-----NKQQVG
+QVAAEVRGYRPPEP----YKGKGVRYANEVVIL*
+>P1;gi|26987210|ref|NP_742635.1| ribosomal protein L6 [Pseudomonas p... [ score 137 E 6e-32 ] [ range 83 .. 170 ]
+sequence
+FERKLQLVGV--GYKAQAKGTVLNLAL--GFSHPVDYELP-AGITAETPSQTDILIKGI-----DKQLVG
+QVAAEIRDFRPPEP----YKGKGVRYADEVVR-*
+>P1;gi|41723124|ref|ZP_00150067.1| hypothetical protein Daro306501 [... [ score 137 E 6e-32 ] [ range 73 .. 159 ]
+sequence
+FERKLQLVGV--GYRAQAQGDTLNLSL--GFSHPVAHKMP-AGVKVECPTQTEILIKGS-----DKQQVG
+QVAAEIRAYRKPEP----YKGKGVRYADEVV--*
+>P1;gi|32034702|ref|ZP_00134840.1| COG0097: Ribosomal protein L6P/L9... [ score 137 E 6e-32 ] [ range 83 .. 170 ]
+sequence
+FTKKLQLVGV--GYRAQMKGNVVALSL--GYSHPIEHTLP-AGVTGECPSQTEIVLKSA-----DKQLIG
+QVAADIRAYRRPEP----YKGKGVRYSDEVVR-*
+>P1;gi|229631|prf||771348A ribosomal protein L6 [ score 137 E 6e-32 ] [ range 82 .. 169 ]
+sequence
+FTKKLELVGV--GYRAAVKGNVINLSL--GFSHPVDHQLP-AGITAECPTQTEIVLKGA-----DKQVIG
+QVAADLRAYRRPEP----YKGKGVRYADEVVR-*
+>P1;gi|43484395|gb|EAD96943.1| unknown [environmental sequence] [ score 137 E 7e-32 ] [ range 83 .. 169 ]
+sequence
+FEKKLEINGV--GYRATLEGNAINLSL--GFSHPIKHDLP-EGVTADLPSNTEIILKSM-----DKQLVG
+QVAAEIRDYRPPEP----YKGKGVKYSDERI--*
+>P1;gi|44534813|gb|EAJ93019.1| unknown [environmental sequence] [ score 137 E 7e-32 ] [ range 86 .. 174 ]
+sequence
+YVKELELIGV--GYRAKSQGKTLNLTL--GFSHPVNYEVP-EGIEISTPSQTEISISGM-----DKQKVG
+QVAAELRAIRPPEP----YKGKGVRYKGEQITL*
+>P1;gi|27468726|ref|NP_765363.1| 50S ribosomal protein L6 [Staphyloc... [ score 137 E 8e-32 ] [ range 83 .. 170 ]
+sequence
+YEKTLELVGV--GYRAQMQGKDLVLNV--GYSHPVEIKAE-EGITFAVEKNTTVKVSGV-----SKEQVG
+AIASNIRSVRPPEP----YKGKGIRYQGEYVR-*
+>P1;gi|37528528|ref|NP_931873.1| 50S ribosomal protein L6 [Photorhab... [ score 137 E 8e-32 ] [ range 83 .. 171 ]
+sequence
+FTKKLQLVGV--GYRAAVKGNVINMSL--GFSHPVDHELP-AGITAECPSQTEIVLKGA-----DKQVIG
+QVAAELRAYRRPEP----YKGKGVRYADEVVRI*
+>P1;gi|22979003|ref|ZP_00024737.1| COG0097: Ribosomal protein L6P/L9... [ score 136 E 1e-31 ] [ range 83 .. 171 ]
+sequence
+FERKLQLVGV--GYRAQLQGAALKLQL--GFSHDVIHEMP-EGVKAETPTQTEIIIKGA-----DKQKVG
+QVAAEVRAYRPPEP----YKGKGVRYADERVIL*
+>P1;gi|15603265|ref|NP_246339.1| RpL6 [Pasteurella multocida] >gi|12... [ score 136 E 1e-31 ] [ range 83 .. 171 ]
+sequence
+FTKKLQLVGV--GYRAQIKGNAVALSL--GFSHPVEHALP-AGITAECPSQTEIVLKGA-----DKQLIG
+QVAADIRAYRRPEP----YKGKGVRYADEVVRI*
+>P1;gi|43441577|gb|EAD75664.1| unknown [environmental sequence] [ score 136 E 1e-31 ] [ range 83 .. 170 ]
+sequence
+FQKTLILVGV--GYRAKASGKKLELTL--GFSHPVHYELP-EQVEVETPSQTEVVLKSH-----DKQVLG
+QVAAEIRAFRPPEP----YKGKGVKYSDENIR-*
+>P1;gi|43247344|gb|EAC89333.1| unknown [environmental sequence] [ score 136 E 1e-31 ] [ range 83 .. 170 ]
+sequence
+YEKKLEINGV--GYRAKLSTNKLELSL--GFSHPVQYQLP-EGVTAELPSQTEIVLKST-----DKQKIG
+QAAAEIRNFRPPEP----YKGKGVKYSDEIIR-*
+>P1;gi|43046133|gb|EAB89502.1| unknown [environmental sequence] [ score 136 E 1e-31 ] [ range 19 .. 105 ]
+sequence
+FEKKLEINGV--GYRASLEGNSINLSL--GFSHPIKHELP-EGVTAELPSNTEIILKSM-----DKQLVG
+QVASEIRDYRPPEP----YKGKGVKYSDERI--*
+>P1;gi|15793142|ref|NP_282964.1| 50S ribosomal protein L6 [Neisseria... [ score 136 E 1e-31 ] [ range 83 .. 169 ]
+sequence
+FEKRLQLIGV--GYRAQAQGKILNLSL--GFSHPIVYEMP-EGVSVQTPSQTEIVLTGS-----DKQVVG
+QVAAEIRAFRAPEP----YKGKGVRYVGEVV--*
+>P1;gi|28897046|ref|NP_796651.1| ribosomal protein L6 [Vibrio paraha... [ score 136 E 1e-31 ] [ range 83 .. 170 ]
+sequence
+FTKKLTLKGV--GYRAAIKGNAVGLTL--GFSHPVEHELP-AGIKAECPSQTEIVITGC-----DKQLVG
+QVAADIRSYRQPEP----YKGKGVRYADENVR-*
+>P1;gi|43305127|gb|EAD18341.1| unknown [environmental sequence] [ score 135 E 2e-31 ] [ range 83 .. 169 ]
+sequence
+FERKLEIIGV--GYRAAVSGKTLNLTL--GFSHPIAFKIP-EGITIETPSQTEVTIKGS-----DKQQVG
+QVAANIRAYRPPEP----YKGKGVRYLDERI--*
+>P1;gi|44248388|gb|EAH94724.1| unknown [environmental sequence] [ score 135 E 2e-31 ] [ range 83 .. 170 ]
+sequence
+FEKELEIQGV--GYQANMQGKRLVLAL--GFSHEIHFDPP-EGISIETNNRTEIKVSGI-----DKQLVG
+EVSAKIRSFKKPEP----FKGKGIRYKGEYVR-*
+>P1;gi|44589640|gb|EAK31367.1| unknown [environmental sequence] [ score 135 E 2e-31 ] [ range 83 .. 170 ]
+sequence
+YTQKLELVGV--GYRAKAEGKVLNLSL--GFSHPVAFEVP-AGITIETPSQTEVLVKGS-----DKQLVG
+QVAANIRAYRKPEP----YKGKGVRYANENVR-*
+>P1;gi|33152939|ref|NP_874292.1| 50S ribosomal protein L6 [Haemophil... [ score 135 E 2e-31 ] [ range 83 .. 170 ]
+sequence
+FTKKLQLVGV--GYRAQMKGNVVALSL--GYSHPIEHTLP-LGVTGECPSQTEIILKSA-----DKQLIG
+QVAADIRAYRRPEP----YKGKGVRYSDEVVR-*
+>P1;gi|44109512|gb|EAH17693.1| unknown [environmental sequence] [ score 135 E 2e-31 ] [ range 51 .. 138 ]
+sequence
+FERKLQLVGV--GYKAQAKGQVLNLAL--GFSHPIDYELP-EGVVAETPNQTEILIKGI-----DKQLVG
+QVAAEIRDFRRPEP----YKGKGVRYADEVVR-*
+>P1;gi|43472159|gb|EAD90821.1| unknown [environmental sequence] [ score 135 E 3e-31 ] [ range 83 .. 169 ]
+sequence
+FSKQLEINGV--GYRAQVKGSELVLNL--GFSHDVNYKIP-DGISITTEGQNQITISGT-----DKQKVG
+QVAAEIRSYRPPEP----YKGKGVKYKDEFI--*
+>P1;gi|18311372|ref|NP_563306.1| 50S ribosomal protein L6 [Clostridi... [ score 135 E 3e-31 ] [ range 84 .. 171 ]
+sequence
+FSKTLELNGV--GYRAQLQGKKLVMNL--GYSHPVEVEAV-DGVDFKLDGTTKVIVEGI-----DKEKVG
+AVAANIRSWRKPEP----YKGKGIKYSDEVIR-*
+>P1;gi|15599444|ref|NP_252938.1| 50S ribosomal protein L6 [Pseudomon... [ score 135 E 3e-31 ] [ range 83 .. 170 ]
+sequence
+FERKLQLVGV--GYKAQAKGQVLSLSL--GFSHPVDYELP-AGIVAETPSQTDILIKGI-----DKQLVG
+QVAAEIRDFRPPEP----YKGKGVRYADEVVR-*
+>P1;gi|44559487|gb|EAK10252.1| unknown [environmental sequence] [ score 134 E 5e-31 ] [ range 85 .. 173 ]
+sequence
+YVKELELIGV--GYRAKSQGKTLNLTL--GFSHPVNYEIP-EGIEVSTPSQTEVTIAGI-----DKQKVG
+QVAAELRAIRPPEP----YKGKGVRYKGEQITL*
+>P1;gi|43248528|gb|EAC89926.1| unknown [environmental sequence] [ score 134 E 5e-31 ] [ range 25 .. 111 ]
+sequence
+FEKKLEINGV--GYRATLEGNSINLNL--GFSHPIKHDLP-EGVTADLPSNTEIILKSM-----DKQLVG
+QVAAEIRDYRPPEP----YKGKGIKYSDERI--*
+>P1;gi|44259542|gb|EAI02589.1| unknown [environmental sequence] [ score 134 E 5e-31 ] [ range 83 .. 169 ]
+sequence
+FEKKLELVGV--GYRAQSQGKKLNLTL--GFSHPVVYEVP-EGIQIETPSQTEILVKGI-----DKQRVG
+QVAAEIRRFRPPEP----YKGKGVRYADENV--*
+>P1;gi|43854517|gb|EAF81440.1| unknown [environmental sequence] [ score 134 E 5e-31 ] [ range 2 .. 89 ]
+sequence
+FSKELEIIGV--GYQAQVQGSRLHLQL--GFSHDIYFDVP-DGIKVSANNRTEINVEGI-----DKQLVG
+AVAAKIRSFRPPEP----YKGKGIRYRGEYVR-*
+>P1;gi|27380496|ref|NP_772025.1| 50S ribosomal protein L6 [Bradyrhiz... [ score 134 E 6e-31 ] [ range 83 .. 169 ]
+sequence
+FEKKLEITGV--GYRAAMQGKNLQLAL--GYSHDVIYTIP-EGITITVPKPTEITVTGS-----DIQRVG
+QVAAEIRSYRPPEP----YKGKGVKYVGEFI--*
+>P1;gi|16329927|ref|NP_440655.1| 50S ribosomal protein L6 [Synechocy... [ score 133 E 6e-31 ] [ range 83 .. 170 ]
+sequence
+FERRLEIQGV--GYRAQAQGNKLTLNV--GYSKPVEMTMP-QGIEVKVENNTQVIVSGI-----DKELLG
+NTAAKIRAVRPPEP----YKGKGIRYQGEYVR-*
+>P1;gi|39936298|ref|NP_948574.1| 50S ribosomal protein L6 [Rhodopseu... [ score 133 E 6e-31 ] [ range 83 .. 169 ]
+sequence
+FEKKLEITGV--GYRAAMQGKKLQLAL--GYSHDVLYDIP-EGITITVPKPTEINVVGI-----DPQKVG
+QVAAEIRDYRPPEP----YKGKGVRYADEFI--*
+>P1;gi|23124114|ref|ZP_00106125.1| COG0097: Ribosomal protein L6P/L9... [ score 133 E 7e-31 ] [ range 83 .. 170 ]
+sequence
+FQRRLEIQGV--GYRAQLQGRNLVLNM--GYSHQVQIEPP-DGIQFAVEGTTNVIVSGY-----DKEIVG
+NTAAKIRAVRPPEP----YKGKGIRYAGEVVR-*
+>P1;gi|28212164|ref|NP_783108.1| LSU ribosomal protein L6P [Clostrid... [ score 133 E 8e-31 ] [ range 84 .. 171 ]
+sequence
+YEKKLELVGV--GYRAQLQGKKLVLNL--GFSHPVEIEAK-EGVEFQLDGTNKITVKGI-----DKELVG
+AVASDIRSWRKPEP----YKGKGIKYENEAIR-*
+>P1;gi|16272734|ref|NP_438952.1| ribosomal protein L6 [Haemophilus i... [ score 133 E 8e-31 ] [ range 83 .. 171 ]
+sequence
+FTKKLVLVGV--GYRAQLKGNAIALSL--GYSHPVEHTLP-VGITAECPSQTEIVLKGA-----DKQLIG
+QVAADIRAYRRPEP----YKGKGVRYADEVVRI*
+>P1;gi|16120562|ref|NP_403875.1| 50S ribosomal protein L6 [Yersinia ... [ score 133 E 8e-31 ] [ range 83 .. 170 ]
+sequence
+FTKKLQLVGV--GYRAAVKGNVVNLAL--GFSHPVDHELP-AGITAECPTQTEIVLKGA-----DKQVIG
+QVAADLRAYRRPEP----YKGKGVRYADEVVR-*
+>P1;gi|15642576|ref|NP_232209.1| ribosomal protein L6 [Vibrio choler... [ score 133 E 9e-31 ] [ range 83 .. 170 ]
+sequence
+FTKKLVLKGV--GYRAAMKGNAVGLTL--GFSHPVEHELP-AGVKAECPSQTEIVLTGC-----DKQVVG
+QVAADIRSYRAPEP----YKGKGIRYADENVR-*
+>P1;gi|44286569|gb|EAI20968.1| unknown [environmental sequence] [ score 133 E 9e-31 ] [ range 71 .. 158 ]
+sequence
+YEKKLELVGV--GYRAKASGKTLDLTL--GFSHPIKYELP-ESVSVETPSQTEIVLKSF-----DKQALG
+QTAAEIRAFRPPEP----YKGKGVRYSDERIK-*
+>P1;gi|23470620|ref|ZP_00125952.1| COG0097: Ribosomal protein L6P/L9... [ score 133 E 1e-30 ] [ range 83 .. 170 ]
+sequence
+FERKLQLVGV--GYKAQAKGTVLNLAL--GFSHPVDYELP-NGITAETPSQTDILIRGI-----DKQLVG
+QVAAEIRDFRRPEP----YKGKGVRYADEVVR-*
+>P1;gi|17547723|ref|NP_521125.1| PROBABLE 50S RIBOSOMAL SUBUNIT PROT... [ score 133 E 1e-30 ] [ range 83 .. 171 ]
+sequence
+FERKLTLVGV--GYRASLQGAALKLQL--GFSHDVIHEMP-EGVKAETPTQTEIIIKGS-----DKQKVG
+QVAAEVRGYRPPEP----YKGKGVRYANERVIL*
+>P1;gi|17231693|ref|NP_488241.1| 50S ribosomal protein L6 [Nostoc sp... [ score 133 E 1e-30 ] [ range 83 .. 170 ]
+sequence
+FQRRLEIQGV--GYRAQVQGRNLVLNM--GYSHQVQIEPP-DGIQFVVENNTNVIVSGY-----DKEIVG
+NTAAKVRAVRPPEP----YKGKGIRYAGEVVR-*
+>P1;gi|15837769|ref|NP_298457.1| 50S ribosomal protein L6 [Xylella f... [ score 133 E 1e-30 ] [ range 81 .. 167 ]
+sequence
+FERKLELVGV--GYRASMQGENLNLSL--GFSHPLVFVPP-EGITLLTPSQTEVVVQGI-----DKQRVG
+EVAAKIRSFRPPEP----YKGKGLKYAAEAI--*
+>P1;gi|44333729|gb|EAI53229.1| unknown [environmental sequence] >gi|... [ score 133 E 1e-30 ] [ range 82 .. 169 ]
+sequence
+FEKKLELVGV--GYRAKASGKTLDLTL--GFSHPIKYELP-ESVSAETPSQTEIVLKSH-----DKQVLG
+QVASEIRAFRPPEP----YKGKGVKYSDERIK-*
+>P1;gi|44309711|gb|EAI36435.1| unknown [environmental sequence] [ score 132 E 1e-30 ] [ range 83 .. 170 ]
+sequence
+FEKKLEINGV--GYRAKLSGDKLELSL--GFSHPVIYQLP-EGVNADVPSQTEVILKSA-----NKQLLG
+ETAAKIRSFRPPEP----YKGKGVKYAEERIK-*
+>P1;gi|22995989|ref|ZP_00040266.1| COG0097: Ribosomal protein L6P/L9... [ score 132 E 1e-30 ] [ range 81 .. 167 ]
+sequence
+FERKLELVGV--GYRASMQGKDLNLSL--GFSHPLLFVPP-EGITLLTPSQTEVVVQGI-----DKQRVG
+EVAAKIRNFRPPEP----YKGKGLKYATEAI--*
+>P1;gi|1173057|sp|P46181|RL6_BUCAK 50S RIBOSOMAL PROTEIN L6 >gi|6322... [ score 132 E 1e-30 ] [ range 83 .. 170 ]
+sequence
+FTKKLQLVGV--GYRAAVKGNVVNLAL--GFSHPIEHQLP-AGITAECPSQTEIVLKGV-----DKQVIG
+QAAADLRAYRRPEP----YKGKGVRYADEVVR-*
+>P1;gi|44356069|gb|EAI68994.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 83 .. 170 ]
+sequence
+FEKKLELIGV--GYRAKASGKLLELTL--GFSHPIKYQLP-DDVEVETPSQTEVILRSH-----NKQILG
+QAAAEIRAFRPPEP----YKGKGVRYSDEQVK-*
+>P1;gi|43303354|gb|EAD17429.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 23 .. 109 ]
+sequence
+YEKILELTGV--GYRAALKGNILNLQL--GFSHDINFQIP-EGVKIMVDKQNILKITGT-----DKQQVG
+MVAAEIKSLRPPEP----YKGKGIKEQGQYI--*
+>P1;gi|43971854|gb|EAG42756.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 83 .. 170 ]
+sequence
+FEKKLELIGV--GYRAKASGKLLELTL--GFSHPIKYQLP-EEVEVETPSQTEVILRSH-----NKQVLG
+QAAAEIRSFRPPEP----YKGKGVRYSDEQVK-*
+>P1;gi|22995903|ref|ZP_00040191.1| COG0097: Ribosomal protein L6P/L9... [ score 132 E 2e-30 ] [ range 81 .. 167 ]
+sequence
+FERKLELVGV--GYRASMQGKDLNLTL--GFSHPLVFVPP-EGITLLTPSQTEVVVQGI-----DKQRVG
+EVAAKIRSFRPPEP----YKGKGLKYAAEAI--*
+>P1;gi|44434508|gb|EAJ24422.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 83 .. 169 ]
+sequence
+FKKELEINGV--GYRAQLQGNTLKLNL--GLSHDVDFPIP-SDVTVSAPKPTQIIIEGI-----DPQRVG
+QVAANIREWRKPEP----YKGKGIKYIDEYI--*
+>P1;gi|43198806|gb|EAC64943.1| unknown [environmental sequence] [ score 132 E 3e-30 ] [ range 23 .. 109 ]
+sequence
+FTKKLEMNGV--GYRAALKGKTLELLL--GYSHPINYDIP-ENITVTVDKQNNIEIKGP-----DKQLVG
+QTAAEIRNFRGPEP----YKGKGIKYADEYI--*
+>P1;gi|43200441|gb|EAC65775.1| unknown [environmental sequence] [ score 132 E 3e-30 ] [ range 58 .. 147 ]
+sequence
+FEKRLEINGV--GYKAKVQGNKLVLNL--GYSHPIEHLIP-EGITVQMEKKNMIIVSGI-----DKQKVG
+QVAAEIRSYRKPEP----YKGKGIKYEDEYIR-*
+>P1;gi|43362996|gb|EAD46333.1| unknown [environmental sequence] [ score 132 E 3e-30 ] [ range 83 .. 170 ]
+sequence
+FEKKLELIGV--GYRAKASGKLLELTL--GFSHPVKYQLP-DEVEVETPSQTEVVLKSH-----NKQILG
+QAAAEIRSFRPPEP----YKGKGVRYADEHVK-*
+>P1;gi|43717051|gb|EAF13574.1| unknown [environmental sequence] [ score 131 E 3e-30 ] [ range 39 .. 125 ]
+sequence
+YEKTLELVGV--GYRAALKGKQLNLQL--GFSHDVNYDIP-ENIKISVEKQTILKISGP-----DKQEVG
+TVASEIRSFRPPEP----YKGKGIKEKGQYI--*
+>P1;gi|43096193|gb|EAC14212.1| unknown [environmental sequence] [ score 131 E 3e-30 ] [ range 45 .. 133 ]
+sequence
+YVKELELIGV--GYRAKSQGKILNLTL--GFSHPVNYEIP-EGIEVSTPSQTEVIIAGI-----DKQKVG
+QVAAELRAIRPPEP----YKGKGVRYKGEQITL*
+>P1;gi|43928490|gb|EAG19218.1| unknown [environmental sequence] [ score 131 E 3e-30 ] [ range 83 .. 170 ]
+sequence
+FTIDLEINGV--GYRAAVEGKDLVLSL--GFSHPVRYPIP-EDVTMKCERPTAISIHGG-----DKQKVG
+QLAAEIRAYRPPEP----FKGKGIKYADETIR-*
+>P1;gi|44230621|gb|EAH83357.1| unknown [environmental sequence] [ score 131 E 3e-30 ] [ range 68 .. 154 ]
+sequence
+FRKELEIQGV--GYRANIQGNNLKLSL--GYSHEVDFEVP-KDVKVTCPKPTEIVVEGI-----DQQAVG
+QVAANIREWRKPEP----YKGKGIRYKGEYI--*
+>P1;gi|43095914|gb|EAC14081.1| unknown [environmental sequence] [ score 131 E 3e-30 ] [ range 81 .. 168 ]
+sequence
+WEKKLVLNGV--GYRAKASGKTVNLTI--GLSHQVDYQLA-EGLSADTPSQTEIVISGI-----DKQAVG
+QAAAEIRSFRPPEP----YKGKGIRYADEYVR-*
+>P1;gi|43875610|gb|EAF91788.1| unknown [environmental sequence] [ score 131 E 3e-30 ] [ range 83 .. 169 ]
+sequence
+FSRKLEINGV--GYRAAMQGNKLVLSL--GFSHPVEMDIP-AGLTVAVENNTKINISGA-----DKQLLG
+QFASEVRSKRPPEP----FKGKGVKYAEEHI--*
+>P1;gi|13470566|ref|NP_102135.1| 50S ribosomal protein L6 [Mesorhizo... [ score 131 E 3e-30 ] [ range 83 .. 169 ]
+sequence
+FEKKLEITGV--GYRAAMQGKNLQLAL--GFSHDVVYETP-AGVTIAVPKPTEITVTGI-----DKQQVG
+QVAAEIREYRGPEP----YKGKGVRYAGEKI--*
+>P1;gi|23018348|ref|ZP_00058065.1| COG0097: Ribosomal protein L6P/L9... [ score 131 E 4e-30 ] [ range 83 .. 170 ]
+sequence
+YTKTLEISGV--GYRVQAKGRNLEFSL--GYSHPIVVEPP-EGITFRVEKPTLLHVEGI-----DKQKVG
+QVAADIRSLRKPDP----YKAKGIRYQGERIR-*
+>P1;gi|44252073|gb|EAH97533.1| unknown [environmental sequence] [ score 131 E 4e-30 ] [ range 83 .. 170 ]
+sequence
+FEKKLELKGV--GYRAKASGKLLELTL--GFSHPVKYQLP-DEVQVETPSQTEVVLKSH-----NKQILG
+QAAAEIRAFRPPEP----YKGKGVRYSDENVR-*
+>P1;gi|42518444|ref|NP_964374.1| 50S ribosomal protein L6 [Lactobaci... [ score 131 E 4e-30 ] [ range 81 .. 168 ]
+sequence
+YVKKLTLVGV--GYRAVAQGKKLTLNV--GYSHPVEFEAP-EGITVKTPSATSIEIEGI-----SKQVVG
+QFAAEIRDVRPPEP----YKGKGIRYEDEYVR-*
+>P1;gi|42984253|gb|EAB59064.1| unknown [environmental sequence] [ score 131 E 4e-30 ] [ range 83 .. 170 ]
+sequence
+FMKELNIVGV--GYRAQAKGNALELAL--GFSHPVQVEAP-EGVTFDVPEPTIIKVSGI-----DKQLVG
+QVAADIRALKKPEP----YKGKGIRYVDEYV--*
+>P1;gi|43628617|gb|EAE68896.1| unknown [environmental sequence] [ score 131 E 4e-30 ] [ range 83 .. 169 ]
+sequence
+FTKKLEMNGV--GYRAALKGQSLELML--GFSHPINYQIP-ENIKITVDKQNNIEISGP-----DKQTVG
+QTAAEIRSFRGPEP----YKGKGVKYVDEYI--*
+>P1;gi|21674983|ref|NP_663048.1| ribosomal protein L6 [Chlorobium te... [ score 131 E 4e-30 ] [ range 83 .. 170 ]
+sequence
+FTRKLEMSGV--GYRAELKGNLLALTL--GYSHMIYFQPP-AEIKIEVPDPTTVLVSGI-----DKALVG
+QIAAKIRSFRKPEP----YRGKGIKYEGEVIR-*
+>P1;gi|44382789|gb|EAI88001.1| unknown [environmental sequence] [ score 131 E 5e-30 ] [ range 81 .. 168 ]
+sequence
+FERKLQLVGV--GYKAQAKGQVLSLAL--GFSHPVDYELP-QGVTAETPSQTDILIKGV-----DKQLVG
+QVAAEIRDFRRPEP----YKGKGVRYSDEVVR-*
+>P1;gi|21241752|ref|NP_641334.1| 50S ribosomal protein L6 [Xanthomon... [ score 131 E 5e-30 ] [ range 81 .. 167 ]
+sequence
+FERKLELVGV--GYRAAMQGKDLSLAL--GFSHPLVFVAP-EGITLSTPTQTEIVVQGA-----DKQRVG
+EVAAKIRGFRPPEP----YKGKGVKYAGEVI--*
+>P1;gi|23104454|ref|ZP_00090918.1| COG0097: Ribosomal protein L6P/L9... [ score 131 E 5e-30 ] [ range 83 .. 169 ]
+sequence
+FERKLQLVGV--GYKAQAKGQVLSLAL--GFSHPVDYQLP-QGITAETPSQTDILIKGI-----DKQLVG
+QVAAEIRDFRRPEP----YKGKGVRYSDEVV--*
+>P1;gi|22998384|ref|ZP_00042465.1| COG0097: Ribosomal protein L6P/L9... [ score 131 E 5e-30 ] [ range 83 .. 169 ]
+sequence
+FSKQLEIQGV--GYRAAVKGRTLELSL--GFSHPVNYELP-NGLEATVEKNTLITVKGY-----DKEVLG
+QACAEIRSWRPPEP----YKGKGVRYVGEFV--*
+>P1;gi|44196464|gb|EAH64272.1| unknown [environmental sequence] [ score 130 E 5e-30 ] [ range 83 .. 170 ]
+sequence
+FEKKLELVGV--GYRAKLNGNTLDLTL--GFSHPIKHQLP-ENVTAETPSQTEIILKSH-----NKQLLG
+QTAAEIRAYRPPEP----YKGKGVKYADEQIK-*
+>P1;gi|44645061|gb|EAK71207.1| unknown [environmental sequence] [ score 130 E 5e-30 ] [ range 83 .. 170 ]
+sequence
+FEKKLELKGV--GYRAKASGQLLELTL--GFSHPVKYQLP-EDVKVETPSQTEVVLKSF-----NKQILG
+QAAAEIRSFRPPEP----YKGKGVRYSDENVR-*
+>P1;gi|43134994|gb|EAC33313.1| unknown [environmental sequence] [ score 130 E 5e-30 ] [ range 83 .. 169 ]
+sequence
+FSKKLEMNGV--GYRAALKGQNLELLL--GFSHPINYQIP-ENIKITVDKQNNIEITGP-----DKQRVG
+QTAAEIRRFRGPEP----YKGKGIKYADEYI--*
+>P1;gi|22966107|ref|ZP_00013704.1| COG0097: Ribosomal protein L6P/L9... [ score 130 E 5e-30 ] [ range 100 .. 186 ]
+sequence
+FSRKLELVGV--GYKAAAQGKVLKLSL--GFSHDVDFPIP-EDLKITTPAPNQIEISGV-----DKQRVG
+QIASEIRSYRSPEP----YKGKGVKYAGEQI--*
+>P1;gi|43065066|gb|EAB98833.1| unknown [environmental sequence] [ score 130 E 6e-30 ] [ range 83 .. 171 ]
+sequence
+FSKTLKLVGV--GYRAKLAGKDLDLTL--GFSHPVIYKVP-EGIEIKVEKQTTIVVSGV-----DKEQVG
+QTAADIRAYRKPEP----YHGKGVRYSDEHIAL*
+>P1;gi|42524362|ref|NP_969742.1| 50S ribosomal protein L6 [Bdellovib... [ score 130 E 6e-30 ] [ range 84 .. 171 ]
+sequence
+FSRGLELQGV--GYRANVAGKKLELSL--GFSHPVIFDIP-EGIEIKVEKQTSLTVNGP-----SKELVG
+QVAAKIRSFRPPEP----YLGKGVRYAGEQIR-*
+>P1;gi|43692442|gb|EAF01427.1| unknown [environmental sequence] [ score 130 E 6e-30 ] [ range 83 .. 170 ]
+sequence
+FEKKLELIGV--GYRAKATGKLLELSL--GFSHPIKYQLP-DEVEVETPSQTEVILKSH-----NKQILG
+QAAAEIRAFRPPEP----YKGKGVRYSDEQVK-*
+>P1;gi|44338288|gb|EAI56367.1| unknown [environmental sequence] [ score 130 E 7e-30 ] [ range 83 .. 169 ]
+sequence
+FEKKLELIGV--GYRAKASGKLLELTL--GFSHPIKYQLP-EEVEVETPSQTEVVLKSH-----DKQILG
+QAASEIRAFRPPEP----YKGKGVRYADEQV--*
+>P1;gi|28144880|gb|AAO32311.1| putative chloroplast 50S ribosomal pr... [ score 130 E 7e-30 ] [ range 129 .. 216 ]
+sequence
+FDKKLQLVGV--GYRAAVEGKDLVMNL--GFSHPVRMAVP-EGLKVKVEENTRIIVSGY-----DKSEIG
+QFAASIKKWRPPEP----YKGKGIRYADEVVR-*
+>P1;gi|45507554|ref|ZP_00159897.1| hypothetical protein Avar319101 [... [ score 130 E 7e-30 ] [ range 8 .. 95 ]
+sequence
+FQRRLEIQGV--GYRAQVQGRNLILNM--GYSHQVQIEPP-DGIQFAVENNTNVIVSGY-----DKEIVG
+NTAAKIRAVRPPEP----YKGKGIRYAGEVVR-*
+>P1;gi|44640933|gb|EAK67878.1| unknown [environmental sequence] [ score 130 E 8e-30 ] [ range 85 .. 171 ]
+sequence
+YSKTLELSGV--GYRAALKGKQLNLQL--GFSHDINFDIP-EGIKILVEKQNIIKISGS-----DKQEVG
+SIASKIKSFRPPEP----YKGKGIKEQGQYI--*
+>P1;gi|28377847|ref|NP_784739.1| ribosomal protein L6 [Lactobacillus... [ score 130 E 8e-30 ] [ range 83 .. 170 ]
+sequence
+FTKNLQLVGV--GYRAQLQGKKLVLSV--GYSHPVEFATP-ENLTVEVPDNTHINISGI-----GKQAVG
+DFAAEVRAVRSPEP----YKGKGIRYVDEYVR-*
+>P1;gi|27364199|ref|NP_759727.1| Ribosomal protein L6P/L9E [Vibrio v... [ score 130 E 8e-30 ] [ range 83 .. 170 ]
+sequence
+FTRKLILKGV--GYRAAIKGNAVGLTL--GFSHPVEHELP-AGIKAECPSQTEIVLTGC-----DKQLIG
+QVAADIRAYRAPEP----YKGKGIRYADENVR-*
+>P1;gi|17987055|ref|NP_539689.1| LSU ribosomal protein L6P [Brucella... [ score 130 E 9e-30 ] [ range 83 .. 169 ]
+sequence
+FEKKLEISGV--GYRAAMQGKNLQLSL--GFSHEVVYDVP-AGITVAVPKPTEIVVTGI-----DKQQVG
+QVAAEIREYRGPEP----YKGKGVKYAGEKI--*
+>P1;gi|43903141|gb|EAG05943.1| unknown [environmental sequence] [ score 130 E 9e-30 ] [ range 19 .. 105 ]
+sequence
+YEKNLELTGV--GYRAALKGNVLNLQL--GFSHDINFNIP-DGVKIQVEKQNFLKITGT-----DKQQVG
+MVAAEIKSLRPPEP----YKGKGIKEQGQYI--*
+>P1;gi|23097589|ref|NP_691055.1| 50S ribosomal protein L6 [Oceanobac... [ score 130 E 1e-29 ] [ range 83 .. 170 ]
+sequence
+FEKSLEIIGV--GYRAQKQGDKTVINA--GYSHPVELEAI-DGIEIEVPKNTQITVKGI-----DKELVG
+AIAANIRAIRPPEP----YKGKGIRYTDEYVR-*
+>P1;gi|44426064|gb|EAJ18541.1| unknown [environmental sequence] [ score 130 E 1e-29 ] [ range 83 .. 169 ]
+sequence
+FSKKLEMNGV--GYRATLKGKVLELML--GFSHPINYEIP-EDISVSVDKQNNIEIKGP-----NKQLVG
+QTAAEIRSFRGPEP----YKGKGIKYADEYI--*
+>P1;gi|44660335|gb|EAK79562.1| unknown [environmental sequence] [ score 130 E 1e-29 ] [ range 85 .. 171 ]
+sequence
+YKKTLELVGV--GYRAALKGKQLNLQL--GFSHDINFDIP-EGIKLNVEKQTIITISGS-----DKQEVG
+MIASKIKSLRPPEP----YKGKGIKEQGQYI--*
+>P1;gi|44330436|gb|EAI50893.1| unknown [environmental sequence] [ score 130 E 1e-29 ] [ range 83 .. 169 ]
+sequence
+FSKELEIIGV--GYQAQSQGQRLQLQL--GYSHEIIFDLP-DGITV-TANRTEVKIDGI-----DKQLVG
+AVAAKIRSFRPPEP----YKGKGIRYKDEYVR-*
+>P1;gi|43792868|gb|EAF50999.1| unknown [environmental sequence] [ score 130 E 1e-29 ] [ range 2 .. 88 ]
+sequence
+FAKELQIIGV--GYQAQVQGQRLQLQL--GFSHDIFFDMP-DGITI-TANRTEVKVEGI-----DKQLVG
+AVAAKIRSFRPPEP----YKGKGIRYKDEYVR-*
+>P1;gi|23003711|ref|ZP_00047363.1| COG0097: Ribosomal protein L6P/L9... [ score 129 E 1e-29 ] [ range 81 .. 168 ]
+sequence
+YVKKLTLVGV--GYRAVAQGKKLTLNV--GYSHPVVFEAP-EGVTVKTPSATSIEIEGI-----SKQVVG
+QFAAEIRDVRPPEP----YKGKGIRYEDEYVR-*
+>P1;gi|44652786|gb|EAK75491.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 82 .. 169 ]
+sequence
+WKKTLVLNGV--GYRAKATGGSLNLTL--GFSHPVDYSLP-EGVSAETPSQTEIVLQGV-----DKQKVG
+QAAANIRAFRPPEP----YKGKGIRYSDEHVR-*
+>P1;gi|41690676|ref|ZP_00147208.1| hypothetical protein Psyc082001 [... [ score 129 E 1e-29 ] [ range 83 .. 169 ]
+sequence
+FEKRLLLIGV--GYRAQATGNKVTLNV--GYSHPVEYTLP-EGVSAETPTQTEIVLKSN-----DKQQLG
+QAAANIRGFRPPEP----YKGKGIRYSDEHV--*
+>P1;gi|16801827|ref|NP_472095.1| ribosomal protein L6 [Listeria inno... [ score 129 E 1e-29 ] [ range 83 .. 170 ]
+sequence
+YEKKLELIGV--GYRAQKQGDKLVLNV--GYSHPVEFVAP-KGVEIEVPANTQVIVKGY-----NKEHVG
+ELAANIRAVRPPEP----YKGKGIRYEGEHVR-*
+>P1;gi|15827987|ref|NP_302250.1| 50S ribosomal protein L6 [Mycobacte... [ score 129 E 1e-29 ] [ range 84 .. 171 ]
+sequence
+YTVSMEIFGV--GYRAQLKGSNLEFAL--GYSHPVVIEAP-EGITFAVQSPTKFTITGI-----DKQKVG
+QISANIRRLRRPDP----YKGKGVRYEGEQIR-*
+>P1;gi|44334126|gb|EAI53513.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 97 .. 183 ]
+sequence
+FKKELEINGV--GYRALVQGNILKLSL--GFSHDIDFKIP-SEVKISCAKPTEILVEGI-----DQQVVG
+QVAAEIRNWRKPEP----YKGKGIRYKGEYI--*
+>P1;gi|16077199|ref|NP_388012.1| ribosomal protein L6 (BL8) [Bacillu... [ score 129 E 2e-29 ] [ range 84 .. 171 ]
+sequence
+FERGLELVGV--GYRASKSGNKLVLNV--GYSHPVEIVPE-EGIEIEVPSQTKVVVKGT-----DKERVG
+AIAANIRAVRSPEP----YKGKGIRYEGEVVR-*
+>P1;gi|22990743|ref|ZP_00035549.1| COG0097: Ribosomal protein L6P/L9... [ score 129 E 2e-29 ] [ range 83 .. 170 ]
+sequence
+FQKALELIGV--GYRAQLQGSKLVLNV--GYSHPVEITPP-AGVTVEVPANTQVIVKGA-----NKEEVG
+ELAANIRGTRPPEP----YKGKGIRYVGEYVR-*
+>P1;gi|15220443|ref|NP_172011.1| ribosomal protein L6 family protein... [ score 129 E 2e-29 ] [ range 126 .. 213 ]
+sequence
+FEKKLILVGV--GYRATVDGKELVLNL--GFSHPVKMQIP-DSLKVKVEENTRITVSGY-----DKSEIG
+QFAATVRKWRPPEP----YKGKGVKYSDEIVR-*
+>P1;gi|29374866|ref|NP_814019.1| ribosomal protein L6 [Enterococcus ... [ score 129 E 2e-29 ] [ range 83 .. 170 ]
+sequence
+FQKALELIGV--GYRAQVQGNKLTLNV--GYSHPVEMTAP-EGVTFEVPANTQVIVKGI-----NKEVVG
+ELAANIRGVRPPEP----YKGKGIRYVGEFVR-*
+>P1;gi|43924856|gb|EAG17288.1| unknown [environmental sequence] [ score 129 E 2e-29 ] [ range 83 .. 166 ]
+sequence
+FEKKLSLVGV--GYKAAAAGSKLNLAV--GYSHPVNIEMP-AGITVATPTPTEVVIKGA-----DRQRVG
+QIAAEIRAVRPPEP----YKGKGIRYAD-----*
+>P1;gi|33864013|ref|NP_895573.1| 50S ribosomal protein L6 [Prochloro... [ score 129 E 2e-29 ] [ range 83 .. 169 ]
+sequence
+YTRKLELIGV--GSRAQVKGKKLVVSA--GFSHPVEMDPP-EGVTFAVENNTNVTVSGA-----DKELVG
+NEAAKIRAIRPPEP----YKGKGIRYEGERI--*
+>P1;gi|43313213|gb|EAD22346.1| unknown [environmental sequence] [ score 128 E 2e-29 ] [ range 83 .. 170 ]
+sequence
+FEKELEIVGV--GYQASLEGNRLRLQI--GYSHDIYFDLP-EGIKV-TADRTIIRINGI-----DKQLVG
+SVASKIRSFRKPEP----YKGKGIRYKDEYIRI*
+>P1;gi|33866613|ref|NP_898172.1| 50S ribosomal protein L6 [Synechoco... [ score 128 E 2e-29 ] [ range 83 .. 169 ]
+sequence
+YSKSLEIVGV--GSRAQVKGKTLVVSA--GYSHPVEMEPP-EGITFKVENNTKVIVSGI-----DKELVG
+NEAAKVRAIRPPEP----YKGKGIKYEGERI--*
+>P1;gi|42920551|gb|EAB27345.1| unknown [environmental sequence] [ score 128 E 2e-29 ] [ range 35 .. 121 ]
+sequence
+FEKILELSGV--GYRAALKGTTLNLQL--GFSHDVNFQIP-DGIKVTVEKQTTIKIAGS-----DKQQVG
+MVASKIKSFRPPEP----YKGKGIKEKGQYV--*
+>P1;gi|44271612|gb|EAI10902.1| unknown [environmental sequence] [ score 128 E 2e-29 ] [ range 83 .. 170 ]
+sequence
+FEKKLELIGV--GYRAKASGKLLELTL--GFSHPIKYQLP-PEVEVETPSQTEVVLKSH-----NKQILG
+QAAAEIRAFRPPEP----YKGKGVRYADEQVK-*
+>P1;gi|44488493|gb|EAJ62420.1| unknown [environmental sequence] [ score 128 E 2e-29 ] [ range 64 .. 150 ]
+sequence
+FSKKLEIVGV--GSRAQVKGKNLVVSA--GYSHPVEMTPP-DGITYKVESNTNVTVSGI-----DKEIVG
+NEAAKIRSIRPPEP----YKGKGIKYHDERI--*
+>P1;gi|44519644|gb|EAJ82710.1| unknown [environmental sequence] [ score 128 E 2e-29 ] [ range 83 .. 169 ]
+sequence
+FKKELEIQGV--GYRAQMQGNVLKLNL--GLSHDVDYAAP-SDVTVTAPKQTEIVVEGV-----DAQRVG
+QVAANIREWRKPEP----YKGKGIRYKGEYI--*
+>P1;gi|42561255|ref|NP_975706.1| 50S RIBOSOMAL PROTEIN L6 [Mycoplasm... [ score 128 E 2e-29 ] [ range 84 .. 170 ]
+sequence
+FKKELQITGV--GYKAAVNGSKLNLSL--GYSHPVEFEIP-KGVEIQAVKPTELVISGI-----DKQLVG
+QVAANIRAYRKPEP----YKGKGIKYKNETI--*
+>P1;gi|15896368|ref|NP_349717.1| Ribosomal protein L6 [Clostridium a... [ score 128 E 2e-29 ] [ range 84 .. 171 ]
+sequence
+FSKTLQLVGV--GYKAQLKGKSLILNL--GYSHPIEVASI-EGVTFEIPDANTVVVKGI-----NKELVG
+SVAADIRTFRKPEP----YKGKGIKYSDEVIR-*
+>P1;gi|43633633|gb|EAE71469.1| unknown [environmental sequence] [ score 128 E 3e-29 ] [ range 85 .. 171 ]
+sequence
+FEKILELSGV--GYRAALKGKQLNLQL--GFSHDINFDIP-EDVKILVEKQTTIKISGV-----DKQKVG
+MVASKIKSFRPPEP----YKGKGIKEKGQYI--*
+>P1;gi|44501588|gb|EAJ70557.1| unknown [environmental sequence] [ score 128 E 3e-29 ] [ range 82 .. 168 ]
+sequence
+FSKTLELNGT--GYRASISGSKLKLEL--GYSHDINFDIP-EDIKIECPKQNIIKLTSI-----NKEKLG
+AAAAKIRSFRKPEP----FKGKGIKYSDEFI--*
+>P1;gi|44023836|gb|EAG70922.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 83 .. 169 ]
+sequence
+FTKEMELNGV--GYRAQVQGNKVVLSL--GFSHPVEMNIP-DGIKVTSEKPTELKLFGY-----NKQELG
+QFAANLRSKRPPEP----FKGKGIKYSNEYI--*
+>P1;gi|16125512|ref|NP_420076.1| ribosomal protein L6 [Caulobacter c... [ score 128 E 4e-29 ] [ range 83 .. 170 ]
+sequence
+FEESLELVGV--GYRAAMKGTALSLQL--GFSHDVDVAAP-AGVTFAVPKQTEIKIAGI-----DKQAVG
+EIAAKIRRIRPPEP----YKGKGVRYAGEKVR-*
+>P1;gi|44161035|gb|EAH45595.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 41 .. 127 ]
+sequence
+FSKEFEINGV--GYRAAVQGKVLKLSL--GYSHDVDFDIP-DNVKITCAKPTEIKVEGI-----DQQVVG
+EVAAKIRAWRAPEP----YKGKGIRYKGEYI--*
+>P1;gi|43074212|gb|EAC03378.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 83 .. 170 ]
+sequence
+YQKQLELVGV--GYRAQSKGNNLELQL--GFSHPVKYSAP-EGITLEVPSQTEINISGI-----DKQVVG
+QVAADIRALKKPEP----YKGKGIRYVGEHI--*
+>P1;gi|44182487|gb|EAH56966.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 83 .. 169 ]
+sequence
+FEKKLEINGV--GYRVKVSGTKIELSL--GYSHPVNYDLP-EGVSAEAPSQTELVLTSS-----NKQLLG
+DVASKIRSFRPPEP----YKGKGVKYSDERI--*
+>P1;gi|37912962|gb|AAR05294.1| ribosomal protein L6 [uncultured mari... [ score 128 E 4e-29 ] [ range 83 .. 170 ]
+sequence
+FEKKLELKGV--GYRAKASGKLLELTL--GFSHPVKYQLP-DEVEVETPSQTEVVLKSY-----NKQILG
+QAAAEIRAFRPPEP----YKGKGVRYSDENVR-*
+>P1;gi|44298510|gb|EAI28944.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 83 .. 169 ]
+sequence
+FTKMMELNGV--GYRAQVQGNKVVLNL--GYSHPVEMIIP-EGIKVTSEKPTELKLFGY-----NKQNLG
+QFAANLRSKRPPEP----FKGKGIKYSDEFI--*
+>P1;gi|11467731|ref|NP_050783.1| ribosomal protein L6 [Guillardia th... [ score 128 E 4e-29 ] [ range 83 .. 170 ]
+sequence
+FEKRLELQGV--GYRAQLQGKDLSLSV--GYSHPVVIKAP-TGINIAVENNTIVIISGI-----SKELVG
+QIASNIRSIKPPEP----YKGKGIRYVGEFVR-*
+>P1;gi|15607859|ref|NP_215233.1| rplF [Mycobacterium tuberculosis H3... [ score 128 E 4e-29 ] [ range 84 .. 171 ]
+sequence
+YTTKMEIFGV--GYRVQLKGSNLEFAL--GYSHPVVIEAP-EGITFAVQAPTKFTVSGI-----DKQKVG
+QIAANIRRLRRPDP----YKGKGVRYEGEQIR-*
+>P1;gi|43604961|gb|EAE57269.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 27 .. 113 ]
+sequence
+YEKTLELVGV--GYRASLKGNQLNLQL--GYSHDINFDIP-EGIKIVVEKQTTLKITGA-----DKQLVG
+SVASKIKTLRKIEP----YKGKGIREKGQYI--*
+>P1;gi|42997359|gb|EAB65594.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 85 .. 171 ]
+sequence
+YEKTLELVGV--GFRAALKGKQLNMQL--GFSHDINFDIP-EGIKIAVEKQTILKISGP-----DKQLVG
+MIASQIKSIRPPEP----YKGKGIKEKDEYI--*
+>P1;gi|43506658|gb|EAE08051.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 24 .. 110 ]
+sequence
+FSKNLEIRGV--GYQANMQGKYLVLQL--GYSHDIFFEPP-EEIEIKANK-TEITISGI-----NKQLVG
+EVSAKIRSFRTPEP----YKGKGIRYKDEYVK-*
+>P1;gi|43991103|gb|EAG53184.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 74 .. 161 ]
+sequence
+FTKELELNGV--GYKANQKGNVLELSL--GYSHTINFPIP-EDIKIEVPKPTFIKVSGV-----DKQRVG
+QVAANIREFRKPEP----FKGKGVKYKDEYIR-*
+>P1;gi|33594767|ref|NP_882410.1| 50S ribosomal protein L6 [Bordetell... [ score 127 E 4e-29 ] [ range 83 .. 169 ]
+sequence
+FERKLNLVGV--GYRAQIQGDAVKLQL--GFSHDVVHQLP-AGVKAECPTQTEIVIKGP-----NKQVVG
+QVAAEIRKYREPEP----YKGKGVRYADERV--*
+>P1;gi|43086825|gb|EAC09609.1| unknown [environmental sequence] [ score 127 E 4e-29 ] [ range 85 .. 171 ]
+sequence
+YEKILELTGV--GFRAALKGNVLNMQL--GFSHDINYDIP-EGIKIAVEKQTTLKISGP-----NKQQVG
+MVASQIKSIRPPEP----YKGKGIKEKGQYI--*
+>P1;gi|15612712|ref|NP_241015.1| 50S ribosomal protein L6; ribosomal... [ score 127 E 4e-29 ] [ range 83 .. 170 ]
+sequence
+FEKSLELVGV--GYRAQKSGQKLVLNV--GYSHPVEIVPE-KGIEIEVPSNTKVTVKGI-----DKERVG
+AVASNIRSVRLPEP----YKGKGIRYEGEYVR-*
+>P1;gi|3980237|emb|CAA79792.1| ribosomal protein L6 [Thermotoga mari... [ score 127 E 4e-29 ] [ range 90 .. 177 ]
+sequence
+YKKELEIVGI--GYRAQLQGNTLVMNL--GYAHPVVYEIP-SDVKIEVPAPNRIIVSGI-----DKQRVG
+QVAAEIRAFRPPNV----YTGKGIRYVGEVVR-*
+>P1;gi|29653605|ref|NP_819297.1| ribosomal protein L6 [Coxiella burn... [ score 127 E 4e-29 ] [ range 84 .. 172 ]
+sequence
+FQRKLVMVGV--GYRAKAEGKKLNLTV--GLSHPVNIEMP-EGITVETPSQTEIIVKGA-----DKQRVS
+QVAANIREIRPPEP----YKGKGIRYDNERVIL*
+>P1;gi|15965124|ref|NP_385477.1| PROBABLE 50S RIBOSOMAL PROTEIN L6 [... [ score 127 E 5e-29 ] [ range 83 .. 169 ]
+sequence
+YERKLEINGV--GYRASMQGKNLQLAL--GFSHDVVYQTP-EGITIAVPKPTEIVVSGI-----NKQQVG
+QVAAEIREYRGPEP----YKGKGVKYAEERI--*
+>P1;gi|43126749|gb|EAC29212.1| unknown [environmental sequence] [ score 127 E 5e-29 ] [ range 23 .. 109 ]
+sequence
+FSKKLEIVGV--GSRAQVKGKNLVVSA--GYSHPVEMIPP-DGITYKVEGNTNVTVSGI-----DKEIVG
+NEAAKIRSFRPPEP----YKGKGIKYHDERI--*
+>P1;gi|133010|sp|P04448|RL6_MYCCA 50S RIBOSOMAL PROTEIN L6 >gi|71115... [ score 127 E 5e-29 ] [ range 84 .. 170 ]
+sequence
+FKKELQITGV--GYKAAVNGSKLNLSL--GYSHPVEFEIP-DGVVIQAVKPTELAITGI-----DKQLVG
+QVAANIRAYRKPEP----YKGKGIKYKNETI--*
+>P1;gi|44636498|gb|EAK64796.1| unknown [environmental sequence] [ score 127 E 5e-29 ] [ range 83 .. 170 ]
+sequence
+FEKKLELKGV--GYRAKASGKLLELTL--GFSHPIKYQLP-EEVDVETPSQTEVVLKSH-----NKQILG
+QAAAEIRAFRPPEP----YKGKGVRYADEQVK-*
+>P1;gi|23038101|ref|ZP_00070285.1| COG0097: Ribosomal protein L6P/L9... [ score 127 E 5e-29 ] [ range 83 .. 170 ]
+sequence
+FKKNLELVGV--GYRASMQGDKLVLTV--GFSHPVEFEAR-EGLKVAVPDATHISIEGI-----SKQRVG
+DFAAEIRGVRPPEP----YKGKGIRYQGEIVR-*
+>P1;gi|43835953|gb|EAF72198.1| unknown [environmental sequence] [ score 127 E 5e-29 ] [ range 54 .. 140 ]
+sequence
+YEKILELSGV--GYRAALKGNVLNLQL--GFSHDINFDIP-DGVKIQVEKQIILKISGT-----DKQLVG
+TVASEIKSIRPPEP----YKGKGIKEQGQYI--*
+>P1;gi|42986952|gb|EAB60412.1| unknown [environmental sequence] [ score 127 E 5e-29 ] [ range 30 .. 116 ]
+sequence
+YEKILELSGV--GYRATLKGNVLNLQL--GFSHDINFNIP-EGVKILVEKQNILKISGT-----DKQQVG
+MVAAEIKSIRPPEP----YKGKGIKEQGQYI--*
+>P1;gi|15889228|ref|NP_354909.1| AGR_C_3532p [Agrobacterium tumefaci... [ score 127 E 6e-29 ] [ range 69 .. 155 ]
+sequence
+YERKLEINGV--GYRAALQGKNLQLAL--GFSHDVVYEPP-VGITIAVPKPTEIIVSGI-----NKQQVG
+QVAAEIREYRGPEP----YKGKGVKYAEERI--*
+>P1;gi|39997934|ref|NP_953885.1| ribosomal protein L6 [Geobacter sul... [ score 127 E 6e-29 ] [ range 83 .. 169 ]
+sequence
+FERALEINGV--GYRAEAKGDVLNLSL--GYSHPINYALP-AGIIVEVDKMTKLVVKGI-----DKELVG
+QTAAKIRSFRGPEP----YKGKGIKYADEKI--*
+>P1;gi|24213454|ref|NP_710935.1| ribosomal protein L6 [Leptospira in... [ score 127 E 6e-29 ] [ range 83 .. 169 ]
+sequence
+WEKNLEITGV--GYRAQKRGEDLVMSL--GFSHEVVYKAP-KGIKIDVQEQLKIKVSGI-----DKQLVG
+QVAADIRSKRPPEP----YKGKGIKYAEEFI--*
+>P1;gi|44008157|gb|EAG62277.1| unknown [environmental sequence] [ score 127 E 6e-29 ] [ range 50 .. 135 ]
+sequence
+YEKILELSGV--GYRAALKGNVLNLQL--GFSHDINFDIP-EGVKIQVEKQIILKITGN-----DKQQVG
+MVASQIKSLRPPEP----YKGKGIKEQGQY---*
+>P1;gi|43925044|gb|EAG17384.1| unknown [environmental sequence] [ score 127 E 6e-29 ] [ range 72 .. 158 ]
+sequence
+YNKTLELTGV--GYRASLKGNKLSMQL--GFSHDINFDIP-ETVKITVEKQTILKISGC-----DKQEVG
+MIASKIKSLRPPEP----YKGKGIKEQGQYI--*
+>P1;gi|43427475|gb|EAD71046.1| unknown [environmental sequence] [ score 127 E 7e-29 ] [ range 83 .. 171 ]
+sequence
+FTKTLKLKGV--GYRAQVSGKTVKLEL--GFSHPISYQLP-EGVSAQAKSPTELILESS-----DKQRLG
+QAAAEIRAFRPPEP----YKGKGVAYSDEIIRI*
+>P1;gi|22297639|ref|NP_680886.1| 50S ribosomal protein L6 [Thermosyn... [ score 127 E 7e-29 ] [ range 83 .. 178 ]
+sequence
+FTKKLEIQGV--GYRAQLQGKTLVLSM--GYSHPVEIVPP-EGITLEIEDNQIVLVSGI-----DKELVG
+NTSARIRAVRPPEP----YKGKGIRYMGEFVR-*
+>P1;gi|32475073|ref|NP_868067.1| 50S ribosomal protein L6 [Pirellula... [ score 127 E 7e-29 ] [ range 85 .. 173 ]
+sequence
+YEKKLEIVGV--GYLASISGDTLQLRV--GYANELHRKIP-TDLTVTCPDQTHVVIQGC-----DKQSVG
+QFAAEIRSLRKPEP----YKGKGIRYQGEQVKI*
+>P1;gi|15925225|ref|NP_372759.1| 50S ribosomal protein L6 [Staphyloc... [ score 127 E 7e-29 ] [ range 83 .. 170 ]
+sequence
+YVKVLELVGV--GYRAQMQGKDLILNV--GYSHPVEIKAE-ENITFSVEKNTVVKVEGI-----SKEQVG
+ALASNIRSVRPPEP----YKGKGIRYQGEYVR-*
+>P1;gi|23112491|ref|ZP_00097967.1| COG0097: Ribosomal protein L6P/L9... [ score 127 E 7e-29 ] [ range 86 .. 173 ]
+sequence
+FSKSLDMVGV--GYRAAKQGNKLVLSV--GKSHPVELIPF-EGIEVEVPAQNKIIVKGM-----DKELVG
+DFAAEIRKERPPEP----YKGKGIKYENEVVR-*
+>P1;gi|41410280|ref|NP_963116.1| RplF [Mycobacterium avium subsp. pa... [ score 127 E 8e-29 ] [ range 84 .. 171 ]
+sequence
+YTTKMEIFGV--GYRVQLKGSNLEFAL--GYSHPVVIEAP-EGITFAVQSPTKFSISGI-----DKQKVG
+QISANIRRLRRPDP----YKGKGVRYEGEQIR-*
+>P1;gi|43364273|gb|EAD46941.1| unknown [environmental sequence] [ score 127 E 8e-29 ] [ range 62 .. 148 ]
+sequence
+FSKTLELNGT--GYRASVSGSVLKLQL--GYSHDINYDIP-KEVKIECSKQNIIKLSSF-----DKEKLG
+AAAAKIRSFRKPEP----FKGKGIKYSDEFI--*
+>P1;gi|43744628|gb|EAF26731.1| unknown [environmental sequence] [ score 127 E 8e-29 ] [ range 35 .. 121 ]
+sequence
+YEKVLELTGV--GYRAALKGNVLNLQL--GFSHDINFDIP-EGIKINVEKQTILKISGN-----DKQKVG
+MTAANIKSIRPPEP----YKGKGIKEQGQYI--*
+>P1;gi|43765493|gb|EAF37205.1| unknown [environmental sequence] [ score 127 E 9e-29 ] [ range 45 .. 131 ]
+sequence
+YEKILELTGV--GFRAALKGNVLNMQL--GFSHDVNYDIP-AGIKIAVEKQTTLKISGS-----NKQQVG
+MVASQIKSIRPPEP----YKGKGIKEKGQYI--*
+>P1;gi|44063811|gb|EAG92865.1| unknown [environmental sequence] [ score 127 E 9e-29 ] [ range 85 .. 171 ]
+sequence
+YEKVLELSGV--GYRAALKGKVLNLQL--GFSHDINFDIP-DGIKILVEKQNIIKISGT-----DKQQVG
+MIAAEIRSIRPPEP----YKGKGIKEQGQYI--*
+>P1;gi|43314112|gb|EAD22806.1| unknown [environmental sequence] [ score 126 E 9e-29 ] [ range 85 .. 172 ]
+sequence
+FSKELEIQGV--GWNCKMSGSDLELSV--GFCHTVKVAPP-EGVKVELKSPTQIIVSGI-----DKQAVG
+QYAANIRRVRPPEP----YKGKGIRYVGEYVR-*
+>P1;gi|43841876|gb|EAF75193.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 29 .. 115 ]
+sequence
+YEKILELSGV--GFRSSMKGKQLNLQL--GFSHDINFDIP-EGIKILVEKQTIIKISGA-----DKQQVG
+MIAAQIKSLRPPEP----YKGKGIREQGQYI--*
+>P1;gi|44641587|gb|EAK68422.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 83 .. 170 ]
+sequence
+FERKLKLVGV--GYRAKLVGSDIDLTL--GFSHPLVHKLP-AGVTAECPSQTDIVLRGV-----DKQLIG
+QVAAEIRGYRPPEP----YKGKGVRYDDEEVR-*
+>P1;gi|44570268|gb|EAK17916.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 81 .. 167 ]
+sequence
+WKKSLKLIGV--GYRATSQGSNLELVV--GYSHPVKYPIP-EGIKIETPSQTEIVISGV-----DKQKVG
+QVASEIRSVRPPEP----YKGKGIRYSDENV--*
+>P1;gi|30248433|ref|NP_840503.1| Ribosomal protein L6 [Nitrosomonas ... [ score 126 E 1e-28 ] [ range 86 .. 174 ]
+sequence
+FEKKLLIIGV--GYKAQAAGNILNLNL--GFSHPVAYTVP-EGIKVETPSTTEILIKGI-----DKQKVG
+QVAAEVRSYRRPEP----YKGKGIRYFDEKVTI*
+>P1;gi|45529045|ref|ZP_00180200.1| hypothetical protein Mther188601 ... [ score 126 E 1e-28 ] [ range 9 .. 96 ]
+sequence
+FEKGLELVGV--GYRAAKQGNKLVLSV--GYSHPVEMVPG-EGLEIEVPAPNKVIVKGI-----DKEAVG
+ALAAKIRDVRPPEP----YKGKGIKYEGEYIR-*
+>P1;gi|44293190|gb|EAI25384.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 85 .. 171 ]
+sequence
+FEKVLELSGV--GYRAALKGKQLNLQV--GFSHDINFDIP-EDVKILVEKQTTIKISGI-----DKQKVG
+MIASKIKSFRPPEP----YKGKGIKEKGQYI--*
+>P1;gi|33862100|ref|NP_893661.1| 50S ribosomal protein L6 [Prochloro... [ score 126 E 1e-28 ] [ range 83 .. 169 ]
+sequence
+YEKKLEIVGV--GSRAQVKGKNLVVSA--GYSHPVEMTPP-DGITYKVESNTNVTVSGI-----DKEIVG
+NEAAKIRSIRPPEP----YKGKGIKYQDERI--*
+>P1;gi|15902248|ref|NP_357798.1| 50S Ribosomal protein L6 [Streptoco... [ score 126 E 1e-28 ] [ range 83 .. 170 ]
+sequence
+FKKELEMRGV--GYRAQLQGSKLVLAV--GKSHPDEVEAP-EGITFELPNPTTIVVSGI-----SKEVVG
+QTAAYVRSLRSPEP----YKGKGIRYVGEFVR-*
+>P1;gi|11467456|ref|NP_043602.1| ribosomal protein L6 [Odontella sin... [ score 126 E 1e-28 ] [ range 83 .. 170 ]
+sequence
+FQLTLNLQGV--GYRASVQGNSIILNL--GYSHPVELVIP-EGISVEVVQNTTINLKAC-----DKGNLG
+LFASNIRSWRPPEP----YKGKGILYKGEIVK-*
+>P1;gi|42957538|gb|EAB45727.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 85 .. 171 ]
+sequence
+YEKILELTGV--GFRAALKGNVLNMQL--GFSHDINYNIP-EGIKIAVEKQTTLKISGS-----NKQQVG
+MVASQIKSIRPPEP----YKGKGIKEKDQYI--*
+>P1;gi|44047757|gb|EAG83965.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 48 .. 134 ]
+sequence
+YEKILELNGV--GFRAALKGKQLNLQL--GFSHDINFDIP-EGIKVTVEKQTTIKIFGF-----DKQQVG
+MIAAEIKGLRPPEP----YKGKGIKEQGQYI--*
+>P1;gi|44001927|gb|EAG59005.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 19 .. 105 ]
+sequence
+YEKTLELVGV--GYRAALKGNQLNLQL--GYSHDINFDIP-EGIKIAVEKQTLLKITGS-----DKQLVG
+EVASKIKTLRKIEP----YKGKGVREKGQYV--*
+>P1;gi|44328650|gb|EAI49633.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 83 .. 169 ]
+sequence
+YSKALEIVGV--GSRAQVKGKTLVVSA--GYSHPVEMEAP-EGITFKVENNTKVIVSGI-----DKELVG
+NEAAKVRAIRPPEP----YKGKGIKYEGERI--*
+>P1;gi|45525095|ref|ZP_00176343.1| hypothetical protein Cwat368101 [... [ score 126 E 1e-28 ] [ range 83 .. 170 ]
+sequence
+FEKRLSIQGV--GYRAQAQGTKLTLNV--GYSNPVEMTMP-KGVNVKVENNTMVTVSGI-----NKEVVG
+NTAATIRAVRPPEP----YKGKGIRYVDEFVR-*
+>P1;gi|21398083|ref|NP_654068.1| Ribosomal_L6, Ribosomal protein L6 ... [ score 126 E 1e-28 ] [ range 84 .. 171 ]
+sequence
+FARGLELVGV--GYRAQKQGDKLVLSV--GYSHPVEMTPE-AGLEVEVPAPTKIVIKGI-----DKQRVG
+EFAANIRAVRAPEP----YKGKGIRYEGEVVR-*
+>P1;gi|43768626|gb|EAF38741.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 85 .. 171 ]
+sequence
+YEKTLELVGV--GFRASLKGKQLNMQL--GFSHDINFDIP-EGIKINVEKQTILKISGY-----DKQLVG
+EVSSKIKSIRPPEP----YKGKGIKEKGQYI--*
+>P1;gi|44080687|gb|EAH02235.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 83 .. 170 ]
+sequence
+FQKKLELKGV--GYRAKASGKLLELTL--GFSHPIKYQLP-EEVDVETPSQTEIVLKSH-----NKQILG
+QAAAEIRAFRPPEP----YKGKGVRYADEQVK-*
+>P1;gi|45531574|ref|ZP_00182614.1| hypothetical protein Exigu205501 ... [ score 125 E 2e-28 ] [ range 43 .. 130 ]
+sequence
+FAKTLDIQGV--GYRAQKQGNKIVLNL--GYSHPIEYTPE-QGIEVEVPTNTQIIVRGI-----SKERVG
+HVAALIRSYRQPEP----YKGKGIRYSDEVVR-*
+>P1;gi|43732110|gb|EAF20827.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 22 .. 108 ]
+sequence
+YEKTLELVGV--GYRAALKGNQLNLQL--GYSHDINFDIP-EGIKINVEKQTTLKISGA-----DKQQVG
+AIASKLKTLRKIEP----YKGKGVREKGQHI--*
+>P1;gi|23014073|ref|ZP_00053910.1| COG0097: Ribosomal protein L6P/L9... [ score 125 E 2e-28 ] [ range 83 .. 169 ]
+sequence
+FTVNLEINGV--GYRAAVEGKSLKLQL--GYSHDIEYPIP-ADVTMKCEKPTAISISGR-----DKRQVG
+QIAAEIRAFRGPEP----YKGKGIKYETETI--*
+>P1;gi|43919578|gb|EAG14656.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 83 .. 169 ]
+sequence
+FSKTLELNGT--GYRASISGNTLKLQL--GYSHDINYDIP-KEVKVECPKQTIIKLSSF-----NKEVLG
+ATAAKIRSYRKPEP----FKGKGIKYENEFI--*

@@ -1,0 +1,108 @@
+>P1;1bhp
+structureX:1bhp:   1 : :  45 : :beta-purothionin:Triticum aestivum: 1.7: -1
+KSCCKSTLGRNCYNLCRARGA--QKL-CANVCRCKLTSGLSCPKDFPK*
+>P1;2plh
+structureX:2plh:   1 : :  45 : :alpha-1-purothionin:Triticum aestivum: 2.5: 15.5
+KSCCRSTLGRNCYNLCRARGA--QKL-CAGVCRCKISSGLSCPKGFPK*
+>P1;1cbn
+structureX:1cbn:   1 : :  46 : :crambin:Crambe abyssinica: 0.83: 10.6
+TTCCPSIVARSNFNVCRLPGTPSEALICATYTGCIIIPGATCPGDYAN*
+>P1;gi|401185|sp|P21742|THNB_HORVU Beta-hordothionin precursor >gi|1... [ score 75 E 4e-13 ] [ range 28 .. 72 ]
+sequence
+KSCCRSTLGRNCYNLCRVRGA--QKL-CANACRCKLTSGLKCPSSFPK*
+>P1;gi|401184|sp|P32032|THN2_WHEAT Alpha-2-purothionin precursor >gi... [ score 75 E 5e-13 ] [ range 28 .. 72 ]
+sequence
+KSCCRTTLGRNCYNLCRSRGA--QKL-CSTVCRCKLTSGLSCPKGFPK*
+>P1;gi|4007745|emb|CAA65316.1| purothionin [Secale cereale] [ score 73 E 2e-12 ] [ range 28 .. 72 ]
+sequence
+KSCCKSTLGRNCYNLCRTRGA--QKL-CANFCRCKLISSTSCPKEFPK*
+>P1;gi|25755490|pir||VSBH2 alpha-hordothionin precursor - barley >gi... [ score 73 E 2e-12 ] [ range 25 .. 69 ]
+sequence
+KSCCRSTLGRNCYNLCRVRGA--QKL-CAGVCRCKLTSSGKCPTGFPK*
+>P1;gi|21069039|dbj|BAB93113.1| leaf thionin Asthi2 [Avena sativa] [ score 72 E 4e-12 ] [ range 29 .. 74 ]
+sequence
+KSCCKDTTARNCYNVCRIPGT--PPV-CATTCRCKIISGNKCPKDYPK*
+>P1;gi|246215|gb|AAB21529.1| thionin [Hordeum jubatum, Peptide, 137 ... [ score 68 E 6e-11 ] [ range 29 .. 74 ]
+sequence
+KSCCKNTTGRNCYNACRLPGT--PPV-CANLCGCKIISGPTCPRDYPK*
+>P1;gi|2507457|sp|P09618|THN6_HORVU Leaf-specific thionin BTH6 precu... [ score 68 E 6e-11 ] [ range 29 .. 74 ]
+sequence
+KSCCKDTLARNCYNTCRAGGS--RPV-CAGACRCKIISGPKCPSDYPK*
+>P1;gi|44888362|sp|Q42838|THN7_HORVU Thionin BTH7 precursor >gi|1209... [ score 68 E 8e-11 ] [ range 29 .. 74 ]
+sequence
+KSCCKNTTGRNCYNACRAGGS--RPV-CATACGCKIISGPTCPRDYPK*
+>P1;gi|21069037|dbj|BAB93112.1| leaf thionin Asthi1 [Avena sativa] [ score 66 E 2e-10 ] [ range 29 .. 74 ]
+sequence
+KSCCKDIMARNCYNVCRIPGT--PPV-CATTCRCKIISGNKCPKDYPK*
+>P1;gi|1351242|sp|P08772|THN3_HORVU Leaf-specific thionin DB4 precur... [ score 66 E 2e-10 ] [ range 29 .. 74 ]
+sequence
+KSCCKDTLARNCYNTCHAGGS--RPV-CAGACRCKIISGPKCPSDYPK*
+>P1;gi|44888508|sp|Q8H0Q5|THNX_HORVU Probable leaf thionin precursor... [ score 66 E 3e-10 ] [ range 29 .. 74 ]
+sequence
+KSCCKNTTGRNCYNACHAGGS--RPV-CATACGCKIISGPTCPRDYPK*
+>P1;gi|225958|prf||1404366A leaf specific thionin [ score 65 E 5e-10 ] [ range 29 .. 74 ]
+sequence
+KSCCKATLARNCYNTCHAGGS--RPV-CAGACRCKIISGPKCPSDYPK*
+>P1;gi|1006765|emb|CAA57353.1| Thionin class 1 [Tulipa gesneriana] [ score 59 E 2e-08 ] [ range 13 .. 58 ]
+sequence
+KSCCPSTAARNCYNVCRFPGT--PPV-CAATCGCKIITGTKCPPDYPK*
+>P1;gi|1006763|emb|CAA57352.1| Thionin class 1 [Tulipa gesneriana] [ score 59 E 3e-08 ] [ range 19 .. 64 ]
+sequence
+KSCCRNTTARNCYNVCRLPGT--PPV-CAATCDCKIISSGKCPPGYEK*
+>P1;gi|223458|prf||0807220B avenothionin beta [ score 57 E 1e-07 ] [ range 1 .. 45 ]
+sequence
+KSCCKNTLGRNCYNLCRARGA--PKL-CSTVCRCKLTSGLSCPKDFPK*
+>P1;gi|223457|prf||0807220A avenothionin alpha [ score 57 E 2e-07 ] [ range 1 .. 45 ]
+sequence
+KSCCRNTLGRNCYNLCRSRGA--PKL-CATVCRCKISSGLSCPKDFPK*
+>P1;gi|21069043|dbj|BAB93115.1| thionin Asthi4 [Avena sativa] [ score 56 E 3e-07 ] [ range 29 .. 74 ]
+sequence
+KSCCKSTTAINCYNVCRLAGA--PPV-CAGPCGCKLLDVTTCPSDWPK*
+>P1;gi|545032|gb|AAB29761.1| thionin precursor {clone Thi1Va12} [Vis... [ score 53 E 2e-06 ] [ range 27 .. 72 ]
+sequence
+KSCCRNTTGRNCYNACRVPGT--PPV-CASLCDCKIISGSKCPADYPR*
+>P1;gi|21069041|dbj|BAB93114.1| leaf thionin Asthi3 [Avena sativa] [ score 53 E 2e-06 ] [ range 30 .. 74 ]
+sequence
+-TCCKDDIARNCYNVCRIPGT--PTI-CANMCRCIITRRNECPNDYPK*
+>P1;gi|1006759|emb|CAA57350.1| thionin class 1 [Tulipa gesneriana] [ score 52 E 4e-06 ] [ range 19 .. 64 ]
+sequence
+KSCCRTTAARNCYNVCRLGGT--PQL-CARTCDCIHITTGNCPRSHPK*
+>P1;gi|100133|pir||S16099 viscotoxin - European mistletoe [ score 48 E 5e-05 ] [ range 27 .. 72 ]
+sequence
+KSCCPNTTGRNIYNACRLTGA--PPT-CAKLSGCKIISGSTCPSDYPK*
+>P1;gi|1076464|pir||S52554 thionin variant Thi2Ca11 - Abyssinian crambe [ score 48 E 5e-05 ] [ range 24 .. 68 ]
+sequence
+KSCCPSITARNTYNVCRLPGT--PPV-CASISGCKILSVTKCPSNLP-*
+>P1;gi|135791|sp|P08943|THNB_VISAL Viscotoxin B precursor [ score 47 E 1e-04 ] [ range 7 .. 52 ]
+sequence
+KSCCPNTTGRNIYNTCRLGGS--RER-CASLSGCKIISASTCPSDYPK*
+>P1;gi|1006767|emb|CAA57354.1| Thionin class 4 [Tulipa gesneriana] [ score 46 E 2e-04 ] [ range 19 .. 63 ]
+sequence
+KSCFPSTAAKYCYNACRLPGC--RPI-CAARCGCKIISSGNCPPGY--*
+>P1;gi|21069045|dbj|BAB93116.1| thionin Asthi5 [Avena sativa] [ score 45 E 4e-04 ] [ range 29 .. 73 ]
+sequence
+KSCCPSTSARNCYNVCRLTGT--RPR-CASLCGCKIVDG-TCPDGYSK*
+>P1;gi|135798|sp|P07504|THN_PYRPU Thionin >gi|82024|pir||A24074 pyru... [ score 44 E 6e-04 ] [ range 1 .. 47 ]
+sequence
+KSCCRNTWARNCYNVCRLPGS--REI-CAKKCDCKIISGTTCPSDYPK*
+>P1;gi|1076470|pir||S52550 thionin variant Thi2Ca6 - Abyssinian crambe [ score 77 E 9e-14 ] [ range 25 .. 70 ]
+sequence
+TTCCPSIVARSNFNVCRLPGTAEP--ICATDTGCIIIPGATCPGDYPN*
+>P1;gi|1076462|pir||S52545 thionin variant Thi2Ca1 - Abyssinian crambe [ score 77 E 1e-13 ] [ range 25 .. 70 ]
+sequence
+TTCCPSIVARSNFNVCRLPGTSEA--ICATYTGCIIIPGATCPGDYAN*
+>P1;gi|1076468|pir||S52548 thionin variant Thi2Ca4 - Abyssinian crambe [ score 73 E 2e-12 ] [ range 27 .. 70 ]
+sequence
+--CCPNTTARSNFNVCRLPGTAEP--ICATDTGCIIIPGATCPGDYPN*
+>P1;gi|1076469|pir||S52549 thionin variant Thi2Ca5 - Abyssinian cram... [ score 70 E 2e-11 ] [ range 9 .. 52 ]
+sequence
+--CCPNTTARSNFNVCRLPGTAEP--ICATDTGCIIIPGATCPGDYAN*
+>P1;gi|6226577|sp|P01542|CRAM_CRAAB Crambin >gi|442723|pdb|1CCM|   C... [ score 60 E 1e-08 ] [ range 1 .. 46 ]
+sequence
+TTCCPSIVARSNFNVCRLPGTPEA--LCATYTGCIIIPGATCPGDYAN*
+>P1;gi|69608|pir||KECX crambin - Abyssinian crambe >gi|229766|pdb|1C... [ score 60 E 1e-08 ] [ range 1 .. 46 ]
+sequence
+TTCCPSIVARSNFNVCRLPGTPEA--ICATYTGCIIIPGATCPGDYAN*
+>P1;gi|1076463|pir||S52553 thionin variant Thi2Ca10 - Abyssinian cra... [ score 49 E 3e-05 ] [ range 26 .. 69 ]
+sequence
+-SCCPSITARNTYNICRLPGTPRP--VCATLSGCIIQSDSTCKPPYP-*

@@ -1,0 +1,1176 @@
+>P1;1fvl
+structureX:1fvl:   1 : :  70 : :disintegrin flavoridin (platelet aggregation activation inhibitor):Trimeresurus flavoviridis: -1: -1
+GEECDCGSPSNPCCDAATCKLRPGAQCADGLCCDQCRFKKKRTICRIARGDFPDDRCTGLSNDCPRWNDL
+----*
+>P1;1n4ya
+structureN:1n4y:   1 :A:  68 :A:kistrin:Agkistrodon rhodostoma:-1:-1
+GKECDCSSPENPCCDAATCKLRPGAQCGEGLCCEQCKFSRAGKICRIPRGDMPDDRCTGQSADCPRYH--
+----*
+>P1;2ech
+structureX:2ech:   1 : :  49 : :disintegrin echistatin (platelet aggregation activation inhibitor):Echis carinatus: -1: -1
+-------------------------ECESGPCCRNCKFLKEGTICKRARGDDMDDYCNGKTCDCPRNPHK
+GPAT*
+>P1;gi|33391734|gb|AAQ17467.1| factor X activator heavy chain precur... [ score 101 E 4e-21 ] [ range 414 .. 482 ]
+sequence
+GEECDCGSPKDCCCDAATCKLTPGAECGNGLCCEKCKIKTAGTVCRRARDECDPEHCTGQSAECP-----
+----*
+>P1;gi|1086019|pir||S48160 metalloproteinase (EC 3.4.24.-) H-I precu... [ score 101 E 4e-21 ] [ range 415 .. 483 ]
+sequence
+GEECDCGSCRNPCCNATTCKLTPGSQCADGECCNQCRFRPARTECRRKIDDCDPEYCTGQSGECP-----
+----*
+>P1;gi|2231613|gb|AAC18911.1| metalloproteinase-disintegrin-like pro... [ score 101 E 5e-21 ] [ range 414 .. 482 ]
+sequence
+GEECDCGSPTNCCCDAATCKLTPGSQCADGVCCDQCRFTRAGTECRQAKDDCDADLCTGQSAECP-----
+----*
+>P1;gi|31742525|gb|AAG48931.5| hemorrhagic metalloproteinase HF3 [Bo... [ score 101 E 5e-21 ] [ range 414 .. 482 ]
+sequence
+GEECDCGSPRNCCCDAATCKLHSWVECESGECCDQCRFKGAGTECRAARSECDAESCTGQSADCP-----
+----*
+>P1;gi|7512197|pir||S55270 catrocollastatin precursor - western diam... [ score 101 E 5e-21 ] [ range 412 .. 480 ]
+sequence
+GEECDCGTPENCCCDAATCKLKSGSQCGHGDCCEQCKFSKSGTECRASMSECDPEHCTGQSSECP-----
+----*
+>P1;gi|21435683|gb|AAM51550.1| mocarhagin 1 [Naja mossambica mossamb... [ score 100 E 9e-21 ] [ range 419 .. 488 ]
+sequence
+GEECDCGSPEDCCCDAATCKLQHEAQCDSGECCEKCKFKGAGAECRAAKNDCDPELCTGRSAKCPK----
+----*
+>P1;gi|45331367|gb|AAS57937.1| acurhagin precursor [Deinagkistrodon ... [ score 100 E 9e-21 ] [ range 413 .. 481 ]
+sequence
+GEECDCGTPENCCCDAATCKLKSGSQCGHGDCCEQCKFRTSGTECRASMSECDPEHCTGQSSECP-----
+----*
+>P1;gi|25331213|pir||JC7530 vascular apoptosis-inducing protein 1 - ... [ score 100 E 1e-20 ] [ range 414 .. 481 ]
+sequence
+GEECDCGSCRDPCCDATTCKLRQGAQCAEGLCCDQCRFKGAGTECRAAKDECDADVCTGRSAEC------
+----*
+>P1;gi|17865171|gb|AAL47169.1| berythractivase [Bothrops erythromelas] [ score 100 E 1e-20 ] [ range 415 .. 483 ]
+sequence
+GEECDCGTPENCCCNATTCKLTPGSQCVEGLCCDQCRFRKTGTECRAAKHDCDPESCTGQSADCP-----
+----*
+>P1;gi|1364104|pir||S48169 metalloproteinase (EC 3.4.24.-) H-II prec... [ score 100 E 1e-20 ] [ range 362 .. 431 ]
+sequence
+GEECDCGSPANCCCDAASCKLHSWVECEFGHCCDQCRFKPAGTECRGIRSECDPEYCTGQSAECLR----
+----*
+>P1;gi|6006966|gb|AAF00693.1| cobrin precursor [Naja naja] [ score 99 E 2e-20 ] [ range 407 .. 475 ]
+sequence
+GEECDCGSPADCCCNATTCKLQHEAQCDSEECCEKCKFKGAGAECRAAKDDCDPELCTGQSAECP-----
+----*
+>P1;gi|14325767|dbj|BAB60682.1| vascular apoptosis-inducing protein ... [ score 99 E 3e-20 ] [ range 415 .. 482 ]
+sequence
+GEDCDCGSPADPCCDAATCKLRQGAQCAEGLCCDQCRFKAAGTECRAATDECDADLCTGRSAEC------
+----*
+>P1;gi|34335256|ref|NP_003808.1| a disintegrin and metalloproteinase... [ score 99 E 3e-20 ] [ range 413 .. 482 ]
+sequence
+GEECDCGECTNPCCDAHTCVLKPGFTCAEGECCESCQIKKAGSICRPAKDECDPEMCTGHSPACPK----
+----*
+>P1;gi|20530121|dbj|BAB92014.1| hemorrhagic metalloproteinase HR1b [... [ score 99 E 3e-20 ] [ range 413 .. 481 ]
+sequence
+GEECDCGSPENCCCDAASCKLHSWVKCESGECCDQCRFRTAGTECRAAESECDPESCTGQSADCP-----
+----*
+>P1;gi|41055343|ref|NP_956931.1| hypothetical protein MGC64059 [Dani... [ score 98 E 5e-20 ] [ range 412 .. 480 ]
+sequence
+GEECDCGTCNNPCCNATTCRLTEGARCAHGECCHNCQLKHTGSLCRKSAHDCDDEYCTGESAFCP-----
+----*
+>P1;gi|14423640|sp|Q9XSL6|AD28_MACFA ADAM 28 precursor (A disintegri... [ score 98 E 5e-20 ] [ range 419 .. 487 ]
+sequence
+GEDCDCGTSEECCCDAKTCKIKAGFQCTSGECCEKCQFKKAGMVCRPAKDECDPEMCDGKSGNCP-----
+----*
+>P1;gi|27465044|gb|AAN39540.1| metalloprotease [Gloydius halys] [ score 98 E 6e-20 ] [ range 414 .. 481 ]
+sequence
+GEDCDCGSPATCCCDAATCKLRQGAQCAEGLCCDQCRFKGAGTECRAATDECDADLCTGRSAEC------
+----*
+>P1;gi|28201767|sp|Q60411|AD02_CAVPO ADAM 2 precursor (A disintegrin... [ score 97 E 8e-20 ] [ range 395 .. 462 ]
+sequence
+GEDCDCGSCQDTCCDAATCRLKSTSRCAQGPCCNQCEFKTKGEVCRESTDECDPEYCNGSSGAC------
+----*
+>P1;gi|3510507|gb|AAC61846.1| metalloprotease-disintegrin [Xenopus l... [ score 97 E 1e-19 ] [ range 420 .. 488 ]
+sequence
+GEECDCGNPKDPCCEPGTCKLRSGAQCAYGTCCQNCGFSPGGTVCRAVANECDPEYCNGSSPFC------
+----*
+>P1;gi|6007789|gb|AAF01041.1| metalloproteinase precursor [Atractasp... [ score 97 E 1e-19 ] [ range 415 .. 482 ]
+sequence
+-EECDCGPPGECCCDAATCKLLPGAKCDSEECCEQCRFKGAGTECRAAKHDCDPERCTGQSAECP-----
+----*
+>P1;gi|34879072|ref|XP_224964.2| similar to metalloprotease/disinteg... [ score 97 E 1e-19 ] [ range 425 .. 494 ]
+sequence
+GEECDCGTPKDPCCEGSTCKLKSFAECAYGDCCKDCQFLPGGSMCRGKTSECDPEYCNGSSQFCP-----
+----*
+>P1;gi|13774088|gb|AAK38151.1| ADAM precursor [Strongylocentrotus pu... [ score 96 E 1e-19 ] [ range 434 .. 502 ]
+sequence
+GEECDCGTCSNDCCIPATCRLHENATCAVGECCEDCQLKKAGEVCRDLSNMCDPEYCTGLSAECP-----
+----*
+>P1;gi|11496994|ref|NP_068547.1| a disintegrin and metalloproteinase... [ score 96 E 1e-19 ] [ range 418 .. 486 ]
+sequence
+GEDCDCGTSEECCCDAKTCKIKATFQCALGECCEKCQFKKAGMVCRPAKDECDPEMCNGKSGNCP-----
+----*
+>P1;gi|26325692|dbj|BAC26600.1| unnamed protein product [Mus musculus] [ score 96 E 2e-19 ] [ range 403 .. 471 ]
+sequence
+GEQCDCGNSESCLCCSSDCVLKPGAQCAFGLCCKNCQFLKAGTVCRKEKNECDPEWCNGTSAECP-----
+----*
+>P1;gi|9945324|ref|NP_064697.1| a disintegrin and metalloprotease do... [ score 96 E 3e-19 ] [ range 412 .. 481 ]
+sequence
+GEECDCGECTNPCCDAHKCVLKPGFTCVEGECCESCQMKKEGVICRPAKNECDSEVCTGYSPECPK----
+----*
+>P1;gi|21955288|ref|NP_034215.1| a disintegrin and metalloprotease d... [ score 96 E 3e-19 ] [ range 403 .. 471 ]
+sequence
+GEQCDCGNSESCLCCSSDCVLKPGAQCAFGLCCKNCQFLKTGTVCREEKNECDPEWCNGTSAECP-----
+----*
+>P1;gi|20385542|gb|AAM21321.1| testase 4 [Mus musculus] [ score 95 E 3e-19 ] [ range 418 .. 486 ]
+sequence
+GEECDCGSTESCLCCSSDCVLKPGAQCAFGLCCKNCQFLKTGTVCREEKNECDPEWCNGTSAECP-----
+----*
+>P1;gi|6007787|gb|AAF01040.1| metalloproteinase precursor [Atractasp... [ score 95 E 3e-19 ] [ range 254 .. 322 ]
+sequence
+GEECDCGSPQECCCNATTCKLQHGAQCDSGECCDQCRLKGAGAECRAAMDECDPELCTGQSAECP-----
+----*
+>P1;gi|4501915|ref|NP_003807.1| a disintegrin and metalloproteinase ... [ score 95 E 3e-19 ] [ range 425 .. 493 ]
+sequence
+GEECDCGTPKDPCCEGSTCKLKSFAECAYGDCCKDCRFLPGGTLCRGKTSECDPEYCNGSSQFC------
+----*
+>P1;gi|27671032|ref|XP_224880.1| similar to testase 4 [Rattus norveg... [ score 95 E 4e-19 ] [ range 416 .. 485 ]
+sequence
+GEQCDCGNLESCLCCSKDCVLKPGAQCAFGLCCKNCQFLQTGTVCRKEKNECDPEWCNGTSPECPR----
+----*
+>P1;gi|7512248|pir||G02937 fertilin beta - crab-eating macaque >gi|9... [ score 95 E 5e-19 ] [ range 395 .. 469 ]
+sequence
+GEECDCGTQQNCCCDTATCRFKAGSNCAEGPCCENCLFMSQERVCRPSFDECDPEYCNGTSASCPENH--
+----*
+>P1;gi|6671511|ref|NP_031428.1| a disintegrin and metalloprotease do... [ score 94 E 7e-19 ] [ range 412 .. 481 ]
+sequence
+GEKCDCGECTNPCCDAHKCVLKPGFTCVEGECCESCQMKKEGAVCRLAKNECDSEVCTGYSPECPK----
+----*
+>P1;gi|20530119|dbj|BAB92013.1| hemorrhagic metalloproteinase HR1a [... [ score 94 E 8e-19 ] [ range 415 .. 483 ]
+sequence
+GEECDCGSPATCCCDAATCKLHSWVECESGECCEQCRFRTAGTECRARRSECDAESCTGHSADCP-----
+----*
+>P1;gi|38089215|ref|XP_356073.1| similar to ADAM 26 precursor (A dis... [ score 94 E 9e-19 ] [ range 403 .. 471 ]
+sequence
+GEECDCGSTESCLCCSSDCVLKPGAQCAFGLCCQDCQFLKTGTVCREEKNECDPEWCNGTSAECP-----
+----*
+>P1;gi|23956050|ref|NP_034212.1| a disintegrin and metalloprotease d... [ score 93 E 1e-18 ] [ range 422 .. 489 ]
+sequence
+-EDCDCGTPKECCCDARTCKIKAGFQCALGECCEKCQLKKPGVVCRAAKDECDPEVCDGKSSHCP-----
+----*
+>P1;gi|31201423|ref|XP_309659.1| ENSANGP00000003886 [Anopheles gambi... [ score 93 E 1e-18 ] [ range 464 .. 534 ]
+sequence
+GEQCDCGYCDNSCCDPRTCMLHSNASCATGECCDTCKPMIGGTVCRQADGECDPEYCSGESEYCP-----
+----*
+>P1;gi|1850327|gb|AAC51110.1| fertilin beta [ score 93 E 2e-18 ] [ range 395 .. 469 ]
+sequence
+GEECDCGTEQDCCCDIATCRFKAGSNCAEGPCCENCLFMSKERMCRPSFEECDPEYCNGSSASCPENH--
+----*
+>P1;gi|38089242|ref|XP_357876.1| similar to testase-7 [Mus musculus]... [ score 93 E 2e-18 ] [ range 417 .. 485 ]
+sequence
+GEQCDCGNSESCLCCSSNCVFKPGAKCAFGRCCKNCQFLKAGTVCRQEKNECDPEWCNGTSGECP-----
+----*
+>P1;gi|38089240|ref|XP_357875.1| similar to testase-6 [Mus musculus]... [ score 92 E 3e-18 ] [ range 418 .. 486 ]
+sequence
+GEQCDCGNSESCLCCSSDCVLKPGAKCAFGLCCKDCQFLQTGTVCRQEKNECDPEWCNGTSGECP-----
+----*
+>P1;gi|14194434|sp|O43506|AD20_HUMAN ADAM 20 precursor (A disintegri... [ score 92 E 4e-18 ] [ range 418 .. 486 ]
+sequence
+GEECDCGTIRQCACCLLNCTLHPGAACAFGICCKDCKFLPSGTLCRQQVGECDPEWCNGTSHQCP-----
+----*
+>P1;gi|34559177|gb|AAQ75369.1| disintegrin and metalloprotease domai... [ score 92 E 4e-18 ] [ range 429 .. 497 ]
+sequence
+GEECDCGSCPDPCCFAHNCSLRAGAQCAHGDCCAKCLLKSAGTPCRPAATDCDPEFCTGTSPYCP-----
+----*
+>P1;gi|34878583|ref|XP_344524.1| similar to ADAM 26 precursor (A dis... [ score 91 E 7e-18 ] [ range 1096 .. 1163 ] [ duplicate a ]
+sequence
+-EQCDCGNLESCLCCSEDCVLKPGAQCAFGLCCKDCQFLPTGTVCRKEKNECDPEWCNGSSHECP-----
+----*
+>P1;gi|34878583|ref|XP_344524.1| similar to ADAM 26 precursor (A dis... [ score 91 E 7e-18 ] [ range 465 .. 533 ] [ duplicate b ]
+sequence
+GEQCDCGNLESCSCYSEDCVLKPGAQCAFGLCCQDFQFLPTGTMCRKEKNESDPEWCNGSSHECP-----
+----*
+>P1;gi|283848|pir||A42972 coagulation factor X activating enzyme (EC... [ score 91 E 8e-18 ] [ range 224 .. 295 ]
+sequence
+GEECDCGSPANCCCDAATCKLKPGAECGNGLCCYQCKIKTAGTVCRRARDECDPEHCTGQSAECPR----
+----*
+>P1;gi|38372873|sp|O88839|AD15_MOUSE ADAM 15 precursor (A disintegri... [ score 91 E 9e-18 ] [ range 433 .. 502 ]
+sequence
+GEQCDCGECTDPCCDHFTCQLRPGAQCASGPCCQNCKLHPAGWLCRPPTDDCDPEFCPGDSSQCP-----
+----*
+>P1;gi|12855396|dbj|BAB30321.1| unnamed protein product [Mus musculus] [ score 91 E 9e-18 ] [ range 430 .. 498 ]
+sequence
+GEQCDCGSCADDPCCKPSCTLKDGAACAFGLCCLYCQIMPAGTVCRQEVNECDPEWCNGHSHKCP-----
+----*
+>P1;gi|2632096|emb|CAA75666.1| fertilin alpha-II [Saguinus oedipus] [ score 90 E 1e-17 ] [ range 456 .. 521 ]
+sequence
+-EQCDCGSACDPCCDP-TCTLKENAECSHGLCCLDCTFRRKGFLCRPTQDECDPEYCDGSSAECP-----
+----*
+>P1;gi|28565283|ref|NP_787953.1| a disintegrin and metalloprotease d... [ score 90 E 1e-17 ] [ range 415 .. 482 ]
+sequence
+-EQCDCGSCTNDLCCMSNCTLSTGSSCAFGLCCKNCQFLPSGTLCRKRDNICDPEWCNGTSHECP-----
+----*
+>P1;gi|24642363|ref|NP_523358.1| mind-meld CG9163-PA [Drosophila mel... [ score 90 E 2e-17 ] [ range 210 .. 278 ]
+sequence
+-EECDCGTFEECCCDGITCKLKSEAQCASGACCDQCRLRPKDYICRDSNNECDPEYCDGEIGQCP-----
+----*
+>P1;gi|542663|pir||S41607 atrolysin A (EC 3.4.24.1) - western diamon... [ score 90 E 2e-17 ] [ range 221 .. 289 ]
+sequence
+GEECDCGSCRDPCCDAATCKLHSWVECESGECCQQCKFTSAGNVCRPARSECDAESCTGQSADCP-----
+----*
+>P1;gi|2707928|emb|CAA75674.1| fertilin alpha-II [Papio anubis] [ score 90 E 2e-17 ] [ range 456 .. 521 ]
+sequence
+-EECDCGSACDPCCDP-TCTLKEHAECSHGLCCLDCTFRRKGFLCRPTQDECDPEYCDGSSAECP-----
+----*
+>P1;gi|24041040|ref|NP_694882.1| a disintegrin and metalloproteinase... [ score 89 E 2e-17 ] [ range 428 .. 496 ]
+sequence
+GEECDCGECRDLCCFAHNCSLRPGAQCAHGDCCVRCLLKPAGALCRQAMGDCDPEFCTGTSSHCP-----
+----*
+>P1;gi|9910118|ref|NP_064463.1| a disintegrin and metalloprotease do... [ score 89 E 2e-17 ] [ range 453 .. 518 ]
+sequence
+-EECDCGNACDPCCEP-TCTLKVGAQCSEGLCCYKCTFKKKGTLCRPAEDVCDPEYCNGITGECP-----
+----*
+>P1;gi|6651073|gb|AAF22163.1| disintegrin and metalloproteinase doma... [ score 89 E 2e-17 ] [ range 408 .. 476 ]
+sequence
+GEECDCGPLKHCACCLSNCTLTDGSTCAFGLCCKDCKFLPSGKVCRKEVNECDPEWCNGTSHKCP-----
+----*
+>P1;gi|28201766|sp|Q28660|AD02_RABIT ADAM 2 precursor (A disintegrin... [ score 89 E 2e-17 ] [ range 394 .. 465 ]
+sequence
+GEMCDCGTAEECCCNSATCRLEVGSQCAEGECCENCTFKERGQSCRPPVGECDFEYCNGTSALCP-----
+----*
+>P1;gi|32140188|ref|NP_859044.1| a disintegrin and metalloprotease d... [ score 89 E 2e-17 ] [ range 422 .. 489 ]
+sequence
+-EDCDCGTPKECCCDAETCKIKAGFQCALGECCEKCQLKKPGVVCRAAKDECDPEMCDGKSSHCP-----
+----*
+>P1;gi|33186796|tpe|CAD66453.1| TPA: testase-9 [Mus musculus] [ score 89 E 2e-17 ] [ range 430 .. 498 ]
+sequence
+GEQCDCGSAKNCACCKRSCTLKDGAACAFGLCCKYCQIMEAGTVCRKRDNECDPEWCNGHSHKCP-----
+----*
+>P1;gi|31559889|ref|NP_742124.2| a disintegrin and metalloproteinase... [ score 89 E 3e-17 ] [ range 450 .. 515 ]
+sequence
+-EECDCGSDCDPCCSP-TCTLKEGAQCSEGLCCYNCTFKKKGSLCRPAEDVCDPEYCDGSTQECP-----
+----*
+>P1;gi|44894227|gb|AAS48651.1| ADAM metalloprotease [Drosophila mela... [ score 89 E 3e-17 ] [ range 481 .. 552 ]
+sequence
+GEQCDCGLPEHCCCNAQTCMLHSNATCATGECCDTCRPKLAGSACREAENECDPEYCTGESEYCP-----
+----*
+>P1;gi|31881770|ref|NP_068566.2| a disintegrin and metalloproteinase... [ score 88 E 4e-17 ] [ range 411 .. 478 ]
+sequence
+-EECDCGSTEECRCCQSNCKLQPGANCSIGLCCHDCRFRPSGYVCRQEGNECDAEYCDGNSSSCP-----
+----*
+>P1;gi|44893836|gb|AAS48595.1| ADAM15 isoform 6b [Homo sapiens] [ score 88 E 5e-17 ] [ range 432 .. 501 ]
+sequence
+GEQCDCGDCVDPCCDSLTCQLRPGAQCASGPCCQNCQLRPSGWQCRPTRGDCDPEFCPGDSSQCP-----
+----*
+>P1;gi|27670055|ref|XP_224829.1| similar to testase-9 [Rattus norveg... [ score 88 E 6e-17 ] [ range 419 .. 486 ]
+sequence
+-EECDCGSCAQDVCCLENCTLVSGAACAAGECCQNCKFMPSGTVCRERNNPCDPEWCNGTSGACP-----
+----*
+>P1;gi|34878595|ref|XP_224891.2| similar to testase 2 [Rattus norveg... [ score 87 E 9e-17 ] [ range 430 .. 498 ]
+sequence
+GEQCDCGSAEMCACCKSSCTLKDGATCAFGLCCTHCRVMPSGTVCREQVNECDPEWCNGHSYKCP-----
+----*
+>P1;gi|31200441|ref|XP_309168.1| ENSANGP00000005363 [Anopheles gambi... [ score 87 E 9e-17 ] [ range 379 .. 448 ]
+sequence
+-EECDCGSATDPCCDGITCKLKKESQCATGPCCDKCILKPPGVICRDAHNECDPEYCNGESGQCP-----
+----*
+>P1;gi|33859704|ref|NP_081941.1| a disintegrin and metalloproteinase... [ score 87 E 1e-16 ] [ range 410 .. 477 ]
+sequence
+-EECDCGSKEDCLCCGPDCKWKEGVNCSSGLCCHKCNFLPSGYVCRKEVNECDEEYCDGTSGVCP-----
+----*
+>P1;gi|39596478|emb|CAE63097.1| Hypothetical protein CBG07388 [Caeno... [ score 87 E 1e-16 ] [ range 394 .. 463 ]
+sequence
+GEECDCGPCDNDCCDGSTCKLIGEAQCASGDCCDTCKPKPRATVCRAAVGICDDEFCNGETNDCP-----
+----*
+>P1;gi|38512117|gb|AAH61796.1| Adam15 protein [Rattus norvegicus] [ score 87 E 1e-16 ] [ range 434 .. 503 ]
+sequence
+GEQCDCGECTDPCCDYFTCQLRPGAQCASGPCCQNCKLQPAGWQCRLPTDDCDPEFCLGDSSQCP-----
+----*
+>P1;gi|6682839|dbj|BAA88903.1| ADAM 15 [Mus musculus] [ score 87 E 1e-16 ] [ range 433 .. 502 ]
+sequence
+GEQCDCGQCTDPCCDHFTCQLRPEAQCASGPCCQNCKLHPAGWLCRPPTDDCDPEFCPGDSSQCP-----
+----*
+>P1;gi|1877208|emb|CAA67753.1| fertilin beta [Homo sapiens] [ score 86 E 2e-16 ] [ range 395 .. 469 ]
+sequence
+GDEFDCGTEQDCCCDIATCRFKAGSNCAEGPCCENCLFMSKERMCRPSFEECDPEYCNGSSASCPENH--
+----*
+>P1;gi|2231331|gb|AAB62001.1| membrane anchored metalloprotease; dis... [ score 86 E 2e-16 ] [ range 392 .. 461 ]
+sequence
+GEKCDCGSVQECCCDPTSCKLRENGECLTGLCCKDCKLLPKGTLCRMPKTECDAEYCDGASNHCP-----
+----*
+>P1;gi|17551722|ref|NP_499680.1| UNCoordinated locomotion UNC-71, AD... [ score 86 E 3e-16 ] [ range 449 .. 517 ]
+sequence
+-EECDCGSCQDPCCDPLTCTLRPHAQCAHHKCCHRCELRKAGDTCRSSKSPCDAEQCDGKSGDCP-----
+----*
+>P1;gi|39588924|emb|CAE69554.1| Hypothetical protein CBG15766 [Caeno... [ score 86 E 3e-16 ] [ range 430 .. 498 ]
+sequence
+-EECDCGTCQDPCCDPLTCTLRPHAQCAHQKCCHRCELRKSGETCRSSKSPCDAEVCDGKSGDCP-----
+----*
+>P1;gi|17548204|ref|NP_510291.1| ADAM (disintegrin plus metalloprote... [ score 85 E 3e-16 ] [ range 390 .. 459 ]
+sequence
+GEECDCGPCDNHCCNGSTCKLIGEAECASGDCCDTCKPKPRATVCRAAIGICDDEYCNGETNDCP-----
+----*
+>P1;gi|34935328|ref|XP_234368.2| similar to metalloprotease-disinteg... [ score 85 E 4e-16 ] [ range 422 .. 489 ]
+sequence
+-EECDCGSCEQDPCCLFNCTLKPGAACAFGLCCKDCKFMLLGELCRAKINECDPEWCNGTSHQCP-----
+----*
+>P1;gi|28564477|emb|CAC84225.2| fertilin beta [Sus scrofa] [ score 85 E 5e-16 ] [ range 394 .. 464 ]
+sequence
+GEECDCGTPENCCCNQATCTLSAGSACATGPCCDSCSFMAKGQTCRLTLDECDLEYCNGSSAAC------
+----*
+>P1;gi|34873904|ref|XP_340917.1| similar to Adam11 protein [Rattus n... [ score 85 E 5e-16 ] [ range 1171 .. 1240 ]
+sequence
+GEECDCGSVQECCC--KKCTLTHDAMCSDGLCCRRCKYEPRGVSCREAVNECDAETCTGDSSQCP-----
+----*
+>P1;gi|5882220|gb|AAD55251.1| metalloproteinase-disintegrin ADAM22-3... [ score 84 E 6e-16 ] [ range 416 .. 484 ]
+sequence
+GEECDCGTPAECCC--KKCTLTQDSQCSDGLCCKKCKFQPMGTVCREAVNDCDRETCSGNSSQC------
+----*
+>P1;gi|28201764|sp|O77780|AD02_BOVIN ADAM 2 precursor (A disintegrin... [ score 84 E 8e-16 ] [ range 394 .. 464 ]
+sequence
+GEQCDCGNKKACCCVADTCRFQPGSACDTGLCCESCAFIPKGHICRGSTDECDHEYCNGSSAAC------
+----*
+>P1;gi|38089234|ref|XP_357873.1| similar to testase-8 [Mus musculus]... [ score 84 E 9e-16 ] [ range 431 .. 499 ]
+sequence
+GEQCDCGDCERDQCCNSRCALNDGAACAFGLCCLYCQIMPAGTVCREEVNECDPEWCNGHSHKCP-----
+----*
+>P1;gi|2144115|pir||I48100 ADAM 5 protein precursor - guinea pig >gi... [ score 84 E 1e-15 ] [ range 407 .. 477 ]
+sequence
+GEECDCGTLRNCCCDPMQCRMKKGAKCGTGPCCTDCQFQKANVLCRKSVDDCDDEYCNGRSGDC------
+----*
+>P1;gi|34879194|ref|XP_344539.1| a disintegrin and metalloprotease d... [ score 83 E 1e-15 ] [ range 376 .. 444 ]
+sequence
+-EQCDCGTLKNCCCDPMSCRLKSKAVCGSGECCQDCKVKPVNVLCRKSKNECDEEYCNGNDAYC------
+----*
+>P1;gi|38105143|gb|EAA51605.1| hypothetical protein MG03200.4 [Magna... [ score 83 E 2e-15 ] [ range 539 .. 611 ]
+sequence
+GEECDCGGPDNPCCDAKTCKLTSGSTCANEECCDQCKFASAGTVCRASIGSCDPETCSGTSGVCP-----
+----*
+>P1;gi|1079470|pir||S47656 tMDC II protein - crab-eating macaque >gi... [ score 83 E 2e-15 ] [ range 400 .. 470 ]
+sequence
+GEECDCGNKDNCCCDALTCRLKDNAQCGSGDCCKDCKFKPANTICRKSVDVECDEFCNGSYPYC------
+----*
+>P1;gi|14423631|sp|O42596|AD22_XENLA ADAM 22 precursor (A disintegri... [ score 83 E 2e-15 ] [ range 457 .. 526 ]
+sequence
+GEECDCGTIAECCC--KKCTLTQDSECSDGLCCSNCKFNPKEMLCREAVNDCDPETCTGNTSQCP-----
+----*
+>P1;gi|19114384|ref|NP_593472.1| probable zinc metallopeptidase, dis... [ score 82 E 2e-15 ] [ range 326 .. 402 ]
+sequence
+GEECDCGEDCNPCCDGKTCKLTKGSLCDDQQCCYQCHFKNAGTLCRQSTNPCDPEFCTGISSKCPNWDD-
+----*
+>P1;gi|14423635|sp|Q9R1V6|AD22_MOUSE ADAM 22 precursor (A disintegri... [ score 82 E 4e-15 ] [ range 453 .. 521 ]
+sequence
+GEECDCGTPAECCC--KKCTLTQDSQCSDGLCCKKCKFQPLGTVCREAVNDCDREICSGNSSQC------
+----*
+>P1;gi|20302105|ref|NP_620261.1| a disintegrin and metalloproteinase... [ score 82 E 4e-15 ] [ range 428 .. 496 ]
+sequence
+GEQCDCGSYADPCC-GSNCKLTAGSICDKELCCANCTYSPSGTLCRPIQNICDPEYCSGNNIFCP-----
+----*
+>P1;gi|1245061|gb|AAA93320.1| fertilin alpha subunit [ score 82 E 4e-15 ] [ range 454 .. 519 ]
+sequence
+-EQCDCGSDCDPCCDSM-CRLKDNAQCGYGLCCFRCKYRRKGFLCRSIRGNCDPEYCSGKSASCP-----
+----*
+>P1;gi|2134533|pir||I52361 testicular metalloproteinase-like, disint... [ score 81 E 5e-15 ] [ range 416 .. 483 ]
+sequence
+-EECDCGSFKQCRCCRSDCRLTPGSICHLGDCCTNCSFSAQGTLCRPIQNICDPEYCHGTTLTCP-----
+----*
+>P1;gi|26024338|ref|NP_742123.1| a disintegrin and metalloproteinase... [ score 81 E 6e-15 ] [ range 418 .. 483 ]
+sequence
+-EQCDCGSDCDKSCCDENCKLKGNSVCSTELCCFKCNFKKEGDVCRPADGPCDEEYCNGTSAACP-----
+----*
+>P1;gi|38073823|ref|XP_356606.1| similar to a disintegrin and metall... [ score 81 E 7e-15 ] [ range 430 .. 497 ]
+sequence
+-EQCDCGSQKACYCCGNDCRLTPGSICDKELCCANCTYSPSGTLCRPIQNICDPEYCNGTKYICP-----
+----*
+>P1;gi|42552591|gb|EAA75434.1| hypothetical protein FG11224.1 [Gibbe... [ score 81 E 9e-15 ] [ range 515 .. 587 ]
+sequence
+GEACDCGSDSNSCCDPDTCQLRSGAECSDGCCTDECRIASSGRICRASTGDCDPERCDGSSGQCP-----
+----*
+>P1;gi|31201425|ref|XP_309660.1| ENSANGP00000019737 [Anopheles gambi... [ score 81 E 1e-14 ] [ range 247 .. 317 ]
+sequence
+GEECDCGACENRCCDARTCRLREGAQCATGECCDTCQLREPAVPCRGQRSECDPEYCTGRSEYCP-----
+----*
+>P1;gi|27922986|dbj|BAC55944.1| acostatin alpha chain [Agkistrodon c... [ score 79 E 2e-14 ] [ range 49 .. 108 ]
+sequence
+--------PKNPCCDAATCKLTPGSQCAEGLCCDQCKFIKAGKICRRARGDNPDYRCTGQSGDCPRKH--
+----*
+>P1;gi|20070980|gb|AAH26169.1| A disintegrin and metalloprotease dom... [ score 79 E 2e-14 ] [ range 403 .. 471 ]
+sequence
+-EICDCGTEAQCCCDFRTCVLKDGAKCYKGLCCKDCQILQSGVECRPKAHPECDENCNGSSPEC------
+----*
+>P1;gi|30048415|gb|AAH51136.1| Adam18 protein [Mus musculus] [ score 79 E 3e-14 ] [ range 409 .. 479 ]
+sequence
+GEECDCGNETECCCDHETCRLKGSAQCGSGACCPTCELSASGTPCRKAVDPECDEYCDGSSSHC------
+----*
+>P1;gi|15991220|dbj|BAB69657.1| elegantin-1a precursor [Trimeresurus... [ score 117 E 8e-26 ] [ range 411 .. 477 ]
+sequence
+GEECDCGSPENPCCDAATCKLRPGAQCADGLCCDQCRFKKKRTICRRARGDNPDDRCTGQSADCPRN---
+----*
+>P1;gi|31322303|gb|AAP20640.1| metalloproteinase/disintegrin ussurin... [ score 117 E 8e-26 ] [ range 408 .. 474 ]
+sequence
+GEECDCDSPGNPCCDAATCKLRPGAQCAEGLCCEQCRFMKEGTVCRIARGDDMDDYCNGISAGCPRN---
+----*
+>P1;gi|13194760|gb|AAK15542.1| bothrostatin precursor [Bothrops jara... [ score 116 E 1e-25 ] [ range 407 .. 473 ]
+sequence
+GEECDCGTPGNPCCDAVTCKLRPGAQCAEGLCCDQCRFMKEGTVCRRARGDDMDDYCNGISAGCPRN---
+----*
+>P1;gi|469190|dbj|BAA06025.1| prepro-halystatin [Gloydius halys] [ score 116 E 1e-25 ] [ range 410 .. 476 ]
+sequence
+GEECDCGSPGNPCCDAATCKLRQGAQCAEGLCCDQCRFMKKGTVCRIARGDDMDDYCNGISAGCPRN---
+----*
+>P1;gi|15991222|dbj|BAB69658.1| elegantin-2a precursor [Trimeresurus... [ score 116 E 2e-25 ] [ range 411 .. 477 ]
+sequence
+GEECDCGSPENPCCDAATCKLRPGAQCADGLCCDQCRFIEEGIICRRARGDDLDDYCNGISGDCPRN---
+----*
+>P1;gi|4106003|gb|AAD02653.1| metalloprotease [Gloydius halys] [ score 115 E 2e-25 ] [ range 435 .. 501 ]
+sequence
+GEECDCGSPGNPCCDAATCKLRQGAQCAEGLCCDQCRFMKEGTICRRGRGDDLDDYCNGISAGCPRN---
+----*
+>P1;gi|31322301|gb|AAP20639.1| metalloproteinase/disintegrin saxin p... [ score 115 E 2e-25 ] [ range 413 .. 479 ]
+sequence
+GEECDCGTPANPCCDAATCKLRPGAQCAEGLCCDQCKFTRAGKICRRARGDNPDDRCTGQSSDCPRN---
+----*
+>P1;gi|4106005|gb|AAD02654.1| metalloprotease [Gloydius halys] [ score 115 E 4e-25 ] [ range 412 .. 478 ]
+sequence
+GVECDCGAPANPCCDAATCKLRPGAQCAEGLCCDQCRFMKEGTICRMARGDDMDDYCNGISAGCPRN---
+----*
+>P1;gi|118643|sp|P15503|DISA_TRIGA Putative venom metalloproteinase ... [ score 112 E 3e-24 ] [ range 410 .. 476 ]
+sequence
+GEDCDCGSPANPCCDAATCKLIPGAQCGEGLCCDQCSFIEEGTVCRIARGDDLDDYCNGRSAGCPRN---
+----*
+>P1;gi|30351114|gb|AAP23053.1| metalloproteinase [Trimeresurus jerdo... [ score 111 E 3e-24 ] [ range 411 .. 477 ]
+sequence
+GEECDCGSPSNPCCDVGTCKLSPGAQCADGLCCDQCRFKKKGKICRRARGDNPDDRCTGQSADCPRN---
+----*
+>P1;gi|4106007|gb|AAD02655.1| metalloprotease [Gloydius halys] [ score 108 E 4e-23 ] [ range 406 .. 472 ]
+sequence
+GKECDCGAPANPCCDAETCKLRPGQQCAEGLCCDQCRFMKEGTICQEAKGDWNDDTCNGISAGCPRN---
+----*
+>P1;gi|27922988|dbj|BAC55945.1| acostatin beta chain [Agkistrodon co... [ score 107 E 6e-23 ] [ range 413 .. 479 ]
+sequence
+GEESDFDAPANPCCDAATCKLTTGSQCADGLCCDQCKFMKEGTVCRRARGDDLDDYCNGISAGCPRN---
+----*
+>P1;gi|34329647|gb|AAQ63966.1| jerdonitin [Trimeresurus jerdonii] [ score 107 E 8e-23 ] [ range 411 .. 480 ]
+sequence
+GEDCDCGPPANCCCDAATCRLTPGSQCADGLCCDQCRFMKKGTICRIARGDDLDDYCNGISAGCPRN---
+----*
+>P1;gi|27461088|gb|AAL60587.1| metalloproteinase [Gloydius halys] [ score 106 E 1e-22 ] [ range 415 .. 484 ]
+sequence
+GEDCDCGPPANCCCDAATCRLTPGSQCAEGLCCEQCSFMKEGTVCRIARGDDLDDYCNGISAGCPRN---
+----*
+>P1;gi|27922992|dbj|BAC55947.1| piscivostatin beta chain [Agkistrodo... [ score 105 E 2e-22 ] [ range 413 .. 479 ]
+sequence
+GEESDFDAPANPCCDAATCKLTPGSQCAEGLCCDQCKFMKEGTVCHRAKGDDLDDYCNGISAGCPRN---
+----*
+>P1;gi|462320|sp|P34182|HRTE_CROAT Hemorrhagic metalloproteinase HT-... [ score 105 E 3e-22 ] [ range 408 .. 474 ]
+sequence
+GIECDCGSLENPCCYATTCKMRPGSQCAEGLCCDQCRFMKKGTVCRVSMVDRNDDTCTGQSADCPRN---
+----*
+>P1;gi|27805465|sp|Q90495|ECAR_ECHCA Ecarin precursor >gi|2134246|pi... [ score 102 E 2e-21 ] [ range 416 .. 486 ]
+sequence
+GEECDCGSPADCCCDAATCKLKPGAECGNGECCDKCKIRKAGTECRPARDDCDAEHCTGQSAECPRN---
+----*
+>P1;gi|32306931|gb|AAP78953.1| metalloprotease BOJUMET III [Bothrops... [ score 102 E 2e-21 ] [ range 173 .. 239 ]
+sequence
+GEECDCGAPENPCCDAATCKLRPGAQCAEGLCCDQCRFKGAGKICRRARGDNPDDRCTGQSADCPRN---
+----*
+>P1;gi|34861174|ref|XP_219470.2| similar to tubulin, gamma complex a... [ score 102 E 2e-21 ] [ range 1057 .. 1126 ]
+sequence
+GEQCDCGTPQDCCCNATTCQLAKGAECAHGACCHECKVKPAGELCRPMKDKCDEEFCDGQKPTCPE----
+----*
+>P1;gi|32967492|gb|AAP92424.1| prothrombin activator EoMP06 [Echis o... [ score 100 E 1e-20 ] [ range 315 .. 385 ]
+sequence
+GEECDCGSPEDCCCDAATCKLKPGAECGNGECCDNCKIRKAGTECRPARDDCDAEHCTGQSAECPRN---
+----*
+>P1;gi|5616485|gb|AAD45801.1| platelet aggregation inhibitor/metallo... [ score 100 E 2e-20 ] [ range 409 .. 475 ]
+sequence
+GKDYDRDSSANPCYDAATCKLNQGAQCTAGPCCDQGRFKEEGTICRRARGDDLDDYCNGISADCPRN---
+----*
+>P1;gi|13774088|gb|AAK38151.1| ADAM precursor [Strongylocentrotus pu... [ score 98 E 5e-20 ] [ range 434 .. 504 ]
+sequence
+GEECDCGTVEECCCIPATCRLHENATCAVGECCEDCQLKKAGEVCRDLSNMCDPEYCTGLSAECPAN---
+----*
+>P1;gi|34861700|ref|XP_238969.2| similar to meltrin alpha [Rattus no... [ score 97 E 6e-20 ] [ range 397 .. 467 ]
+sequence
+GEECDCGEPEECCCNATTCTLKPDAVCAHGQCCEDCQLKPPGTACRGSSNSCDPEFCTGTAPHCPAN---
+----*
+>P1;gi|18030088|gb|AAL56617.1| ADAM 12 [Coturnix coturnix] [ score 97 E 1e-19 ] [ range 448 .. 518 ]
+sequence
+GEECDWGSPDECCCNATTCTLRPGAVCAHGLCCEDCKLKPAGISCRESSNSCDPEFCTGASPHCPAN---
+----*
+>P1;gi|41055343|ref|NP_956931.1| hypothetical protein MGC64059 [Dani... [ score 97 E 1e-19 ] [ range 412 .. 481 ]
+sequence
+GEECDCGTVEECCCNATTCRLTEGARCAHGECCHNCQLKHTGSLCRKSAHDCDDEYCTGESAFCPE----
+----*
+>P1;gi|28201767|sp|Q60411|AD02_CAVPO ADAM 2 precursor (A disintegrin... [ score 96 E 2e-19 ] [ range 395 .. 462 ]
+sequence
+GEDCDCGSQEECCCDAATCRLKSTSRCAQGPCCNQCEFKTKGEVCRESTDECDPEYCNGSSGAC------
+----*
+>P1;gi|20137329|sp|Q28475|AD07_MACFA ADAM 7 precursor (A disintegrin... [ score 96 E 3e-19 ] [ range 413 .. 482 ]
+sequence
+GEECDCGPPQECCCDAHTCVLKPGFTCAEGECCESCQIKKAGSICRPAEDECDPEMCTGHSPACPK----
+----*
+>P1;gi|34879072|ref|XP_224964.2| similar to metalloprotease/disinteg... [ score 95 E 4e-19 ] [ range 425 .. 494 ]
+sequence
+GEECDCGTPKECCCEGSTCKLKSFAECAYGDCCKDCQFLPGGSMCRGKTSECDPEYCNGSSQFCP-----
+----*
+>P1;gi|3510507|gb|AAC61846.1| metalloprotease-disintegrin [Xenopus l... [ score 94 E 5e-19 ] [ range 420 .. 488 ]
+sequence
+GEECDCGNPKECCCEPGTCKLRSGAQCAYGTCCQNCGFSPGGTVCRAVANECDPEYCNGSSPFC------
+----*
+>P1;gi|1916617|gb|AAB51194.1| ADAM 13 [Xenopus laevis] [ score 94 E 5e-19 ] [ range 422 .. 492 ]
+sequence
+GEQCDCGEPEECCCNANNCTLKAGAQCAHGECCQDCKLKSAGTQCREMAGSCDPEFCTGDAPSCPSN---
+----*
+>P1;gi|20137479|sp|Q9H2U9|AD07_HUMAN ADAM 7 precursor (A disintegrin... [ score 94 E 7e-19 ] [ range 413 .. 482 ]
+sequence
+GEECDCGPAQECCCDAHTCVLKPGFTCAEGECCESCQIKKAGSICRPAKDECDPEMCTGHSPACPK----
+----*
+>P1;gi|4501915|ref|NP_003807.1| a disintegrin and metalloproteinase ... [ score 93 E 1e-18 ] [ range 425 .. 493 ]
+sequence
+GEECDCGTPKECCCEGSTCKLKSFAECAYGDCCKDCRFLPGGTLCRGKTSECDPEYCNGSSQFC------
+----*
+>P1;gi|11497040|ref|NP_003804.1| a disintegrin and metalloproteinase... [ score 92 E 3e-18 ] [ range 418 .. 486 ]
+sequence
+-EQCDCGSVQQCACCLLNCTLRPGAACAFGLCCKDCKFMPSGELCRQEVNECDPEWCNGTSHQCPE----
+----*
+>P1;gi|9945324|ref|NP_064697.1| a disintegrin and metalloprotease do... [ score 92 E 4e-18 ] [ range 412 .. 481 ]
+sequence
+GEECDCGPVQECCCDAHKCVLKPGFTCVEGECCESCQMKKEGVICRPAKNECDSEVCTGYSPECPK----
+----*
+>P1;gi|4557253|ref|NP_001100.1| a disintegrin and metalloproteinase ... [ score 91 E 5e-18 ] [ range 419 .. 488 ]
+sequence
+GEQCDCGPPEDCCCNSTTCQLAEGAQCAHGTCCQECKVKPAGELCRPKKDMCDEEFCDGRHPECPE----
+----*
+>P1;gi|2118144|pir||JC4880 fibrinolytic metalloproteinase (EC 3.4.24... [ score 91 E 8e-18 ] [ range 418 .. 474 ]
+sequence
+----------NPCCDPVTCQPRRGEHCVSGKCCRNCKFLRAGTVCKRAVGDDMDDYCTGISSDCPRN---
+----*
+>P1;gi|6671511|ref|NP_031428.1| a disintegrin and metalloprotease do... [ score 90 E 1e-17 ] [ range 412 .. 481 ]
+sequence
+GEKCDCGPVQECCCDAHKCVLKPGFTCVEGECCESCQMKKEGAVCRLAKNECDSEVCTGYSPECPK----
+----*
+>P1;gi|19343646|gb|AAH25584.1| A disintegrin and metalloprotease dom... [ score 90 E 1e-17 ] [ range 413 .. 482 ]
+sequence
+GEQCDCGTPQDCCCNATTCQLVKGAECASGTCCHECKVKPAGEVCRLSKDKCDEEFCDGRKPTCPE----
+----*
+>P1;gi|31201423|ref|XP_309659.1| ENSANGP00000003886 [Anopheles gambi... [ score 89 E 2e-17 ] [ range 464 .. 534 ]
+sequence
+GEQCDCGLPDYCCCDPRTCMLHSNASCATGECCDTCKPMIGGTVCRQADGECDPEYCSGESEYCP-----
+----*
+>P1;gi|28565283|ref|NP_787953.1| a disintegrin and metalloprotease d... [ score 89 E 2e-17 ] [ range 415 .. 482 ]
+sequence
+-EQCDCGSLRNCTCCMSNCTLSTGSSCAFGLCCKNCQFLPSGTLCRKRDNICDPEWCNGTSHECP-----
+----*
+>P1;gi|24041040|ref|NP_694882.1| a disintegrin and metalloproteinase... [ score 89 E 3e-17 ] [ range 428 .. 496 ]
+sequence
+GEECDCGPGQECCCFAHNCSLRPGAQCAHGDCCVRCLLKPAGALCRQAMGDCDPEFCTGTSSHCP-----
+----*
+>P1;gi|12855396|dbj|BAB30321.1| unnamed protein product [Mus musculus] [ score 89 E 3e-17 ] [ range 430 .. 498 ]
+sequence
+GEQCDCGSAKSCACCKPSCTLKDGAACAFGLCCLYCQIMPAGTVCRQEVNECDPEWCNGHSHKCP-----
+----*
+>P1;gi|41351495|dbj|BAD08341.1| meltrin epsilon [Gallus gallus] [ score 89 E 3e-17 ] [ range 436 .. 505 ]
+sequence
+GEQCDCGGLQHCRCCFHNCRLKPGAVCSVGQCCQKCHFHPSGHKCRSEVDECDPEYCNGTSEWCPE----
+----*
+>P1;gi|9910118|ref|NP_064463.1| a disintegrin and metalloprotease do... [ score 89 E 3e-17 ] [ range 453 .. 520 ]
+sequence
+-EECDCGNASHPCCEP-TCTLKVGAQCSEGLCCYKCTFKKKGTLCRPAEDVCDPEYCNGITGECPAN---
+----*
+>P1;gi|34860011|ref|XP_227500.2| similar to ADAM30 [Rattus norvegicus] [ score 88 E 4e-17 ] [ range 409 .. 479 ]
+sequence
+-EECDCGSEEECLCCGPDCKWKEGVNCSSGLCCHKCNFLPSGYVCREEENECDAEYCDGLSGFCPKDY--
+----*
+>P1;gi|34873904|ref|XP_340917.1| similar to Adam11 protein [Rattus n... [ score 88 E 4e-17 ] [ range 1171 .. 1242 ]
+sequence
+GEECDCGSVQECSNCCKKCTLTHDAMCSDGLCCRRCKYEPRGVSCREAVNECDAETCTGDSSQCPPN---
+----*
+>P1;gi|38372873|sp|O88839|AD15_MOUSE ADAM 15 precursor (A disintegri... [ score 88 E 5e-17 ] [ range 433 .. 502 ]
+sequence
+GEQCDCGFPDECCCDHFTCQLRPGAQCASGPCCQNCKLHPAGWLCRPPTDDCDPEFCPGDSSQCP-----
+----*
+>P1;gi|31559889|ref|NP_742124.2| a disintegrin and metalloproteinase... [ score 87 E 7e-17 ] [ range 450 .. 517 ]
+sequence
+-EECDCGSDSHPCCSP-TCTLKEGAQCSEGLCCYNCTFKKKGSLCRPAEDVCDPEYCDGSTQECPAN---
+----*
+>P1;gi|34935325|ref|XP_345698.1| a disintegrin and metalloprotease d... [ score 87 E 9e-17 ] [ range 1148 .. 1218 ] [ duplicate a ]
+sequence
+GEKCDCGSFKDCACCGTTCELTASSVCASGGCCQSCKFAPIGTVCRQKGGICDPEYCSGKSEHCPGN---
+----*
+>P1;gi|34935325|ref|XP_345698.1| a disintegrin and metalloprotease d... [ score 87 E 9e-17 ] [ range 430 .. 499 ] [ duplicate b ]
+sequence
+-EQCDCGTLKDCLCCGTNCQLIGSSTCAEGLCCQSCRFAPTGKVCRHTNGICDPEYCSGVSEHCPQN---
+----*
+>P1;gi|44893836|gb|AAS48595.1| ADAM15 isoform 6b [Homo sapiens] [ score 87 E 1e-16 ] [ range 432 .. 501 ]
+sequence
+GEQCDCGFLDDCCCDSLTCQLRPGAQCASGPCCQNCQLRPSGWQCRPTRGDCDPEFCPGDSSQCP-----
+----*
+>P1;gi|13259518|ref|NP_003465.2| a disintegrin and metalloprotease d... [ score 86 E 2e-16 ] [ range 435 .. 505 ]
+sequence
+GEECDCGEPEECCCNATTCTLKPDAVCAHGLCCEDCQLKPAGTACRDSSNSCDPEFCTGASPHCPAN---
+----*
+>P1;gi|27670055|ref|XP_224829.1| similar to testase-9 [Rattus norveg... [ score 86 E 2e-16 ] [ range 419 .. 487 ]
+sequence
+-EECDCGSLKLCACCLENCTLVSGAACAAGECCQNCKFMPSGTVCRERNNPCDPEWCNGTSGACPE----
+----*
+>P1;gi|20137548|sp|Q9R160|AD24_MOUSE ADAM 24 precursor (A disintegri... [ score 86 E 2e-16 ] [ range 417 .. 487 ]
+sequence
+GEQCDCGSSENCRCCMPSCTLRSKAKCDTGLCCHKCQIQPSGTLCRARENECDPEWCNGTSHECPE----
+----*
+>P1;gi|14423631|sp|O42596|AD22_XENLA ADAM 22 precursor (A disintegri... [ score 86 E 3e-16 ] [ range 457 .. 528 ]
+sequence
+GEECDCGTIAECAMCCKKCTLTQDSECSDGLCCSNCKFNPKEMLCREAVNDCDPETCTGNTSQCPAN---
+----*
+>P1;gi|38105143|gb|EAA51605.1| hypothetical protein MG03200.4 [Magna... [ score 86 E 3e-16 ] [ range 539 .. 613 ]
+sequence
+GEECDCGGPDNPCCDAKTCKLTSGSTCDEECCDRQCKFASAGTVCRASIGSCDPETCSGTSGVCPNN---
+----*
+>P1;gi|27923590|ref|NP_033750.1| a disintegrin and metalloprotease d... [ score 85 E 3e-16 ] [ range 432 .. 501 ]
+sequence
+-EKCDCGSVKDCTCCEVNCEFTQGSSCAAGGCCLSCKFAPTGTICRDKNGICDPEYCSGASEHCPGN---
+----*
+>P1;gi|9966766|ref|NP_065063.1| a disintegrin and metalloprotease do... [ score 85 E 3e-16 ] [ range 422 .. 490 ]
+sequence
+-EECDCGSVQECPCCFLNCTLRPAAACSFGLCCKDCKFMLLGELCRPKINECDPEWCNGTSHQCPE----
+----*
+>P1;gi|5882220|gb|AAD55251.1| metalloproteinase-disintegrin ADAM22-3... [ score 85 E 4e-16 ] [ range 416 .. 487 ]
+sequence
+GEECDCGTPAECVLCCKKCTLTQDSQCSDGLCCKKCKFQPMGTVCREAVNDCDRETCSGNSSQCAPN---
+----*
+>P1;gi|34935328|ref|XP_234368.2| similar to metalloprotease-disinteg... [ score 85 E 4e-16 ] [ range 422 .. 490 ]
+sequence
+-EECDCGSIRECPCCLFNCTLKPGAACAFGLCCKDCKFMLLGELCRAKINECDPEWCNGTSHQCPE----
+----*
+>P1;gi|38512117|gb|AAH61796.1| Adam15 protein [Rattus norvegicus] [ score 85 E 5e-16 ] [ range 434 .. 503 ]
+sequence
+GEQCDCGFPDECCCDYFTCQLRPGAQCASGPCCQNCKLQPAGWQCRLPTDDCDPEFCLGDSSQCP-----
+----*
+>P1;gi|6682839|dbj|BAA88903.1| ADAM 15 [Mus musculus] [ score 84 E 6e-16 ] [ range 433 .. 502 ]
+sequence
+GEQCDCGFPDDPCCDHFTCQLRPEAQCASGPCCQNCKLHPAGWLCRPPTDDCDPEFCPGDSSQCP-----
+----*
+>P1;gi|2144116|pir||I48101 ADAM 6 protein precursor - guinea pig >gi... [ score 84 E 6e-16 ] [ range 416 .. 486 ]
+sequence
+GELCDCGTFKQCYCCQTTCMFTAGSICDGQDCCTNCTYSPSGTLCRPIRNICDPEYCTGSQLTCPEN---
+----*
+>P1;gi|31200441|ref|XP_309168.1| ENSANGP00000005363 [Anopheles gambi... [ score 84 E 9e-16 ] [ range 379 .. 448 ]
+sequence
+-EECDCGSALDCCCDGITCKLKKESQCATGPCCDKCILKPPGVICRDAHNECDPEYCNGESGQCP-----
+----*
+>P1;gi|45220004|dbj|BAD12232.1| meltrin alpha [Bos taurus] [ score 83 E 2e-15 ] [ range 443 .. 513 ]
+sequence
+GEECDCGEPEECCCNATTCALKPDAVCAHGLCCENCRLKPAGTACRDPSNACDPEFCTGASPHCPAN---
+----*
+>P1;gi|14423635|sp|Q9R1V6|AD22_MOUSE ADAM 22 precursor (A disintegri... [ score 83 E 2e-15 ] [ range 453 .. 524 ]
+sequence
+GEECDCGTPAECALCCKKCTLTQDSQCSDGLCCKKCKFQPLGTVCREAVNDCDREICSGNSSQCAPN---
+----*
+>P1;gi|17551722|ref|NP_499680.1| UNCoordinated locomotion UNC-71, AD... [ score 83 E 2e-15 ] [ range 449 .. 517 ]
+sequence
+-EECDCGSRENCCCDPLTCTLRPHAQCAHHKCCHRCELRKAGDTCRSSKSPCDAEQCDGKSGDCP-----
+----*
+>P1;gi|38374140|gb|AAR19273.1| metalloprotease 4 [Bitis gabonica] [ score 82 E 2e-15 ] [ range 262 .. 318 ]
+sequence
+----------HPCCDPVTCKPKAWEHCISGPCCRDCKFLRPGTVCRVARGDWNDDFCTGRSSECESN---
+----*
+>P1;gi|20302105|ref|NP_620261.1| a disintegrin and metalloproteinase... [ score 82 E 3e-15 ] [ range 428 .. 496 ]
+sequence
+GEQCDCGSHKACYCCGSNCKLTAGSICDKELCCANCTYSPSGTLCRPIQNICDPEYCSGNNIFCP-----
+----*
+>P1;gi|27671318|ref|XP_224892.1| similar to ADAM 24 precursor (A dis... [ score 82 E 3e-15 ] [ range 417 .. 487 ]
+sequence
+GEECDCGSQRNSRCCLPTCILKSGAKCASGLCCNKCQIQPSGTLCRTKENECDPEWCNGTSKECPE----
+----*
+>P1;gi|39588924|emb|CAE69554.1| Hypothetical protein CBG15766 [Caeno... [ score 82 E 3e-15 ] [ range 430 .. 498 ]
+sequence
+-EECDCGTRENCCCDPLTCTLRPHAQCAHQKCCHRCELRKSGETCRSSKSPCDAEVCDGKSGDCP-----
+----*
+>P1;gi|38089234|ref|XP_357873.1| similar to testase-8 [Mus musculus]... [ score 81 E 5e-15 ] [ range 431 .. 499 ]
+sequence
+GEQCDCGCERDQCCN-SRCALNDGAACAFGLCCLYCQIMPAGTVCREEVNECDPEWCNGHSHKCP-----
+----*
+>P1;gi|2632092|emb|CAA75659.1| fertilin alpha protein [Pongo pygmaeus] [ score 81 E 5e-15 ] [ range 455 .. 522 ]
+sequence
+-EQCDCGSLRHPCCDE-NCILKAKAECSDGPCCHKCKFQRKGYPCRPSSRSCDPEFCNGTSALCPDN---
+----*
+>P1;gi|559299|dbj|BAA06026.1| prepro-halystatin 3 [Gloydius halys] [ score 81 E 7e-15 ] [ range 47 .. 113 ]
+sequence
+GEDCDCGAPANPCCDAATCKLRPGAQCAEGLCCDQCRFIKAGTVCRRARGDWNDNTCTGQSADCPRN---
+----*
+>P1;gi|2228590|gb|AAC09475.1| cellular disintegrin ADAM 6d; tMDCIVd ... [ score 81 E 9e-15 ] [ range 415 .. 484 ]
+sequence
+-EQCDCGSFKHCACCQSDCRFTPGSICDKQQCCTNCTYSPTSTLCRPVMNICDPEYCGGSTYTCPEN---
+----*
+>P1;gi|34876716|ref|XP_244124.2| similar to ADAM23 [Rattus norvegicus] [ score 81 E 1e-14 ] [ range 665 .. 735 ]
+sequence
+GEECDCGFHVECCC--KKCSLSNGAHCSDGPCCNNCLFQSRGYECRDAVNSCDTEYCTGDSGQCPPN---
+----*
+>P1;gi|19114384|ref|NP_593472.1| probable zinc metallopeptidase, dis... [ score 80 E 1e-14 ] [ range 326 .. 395 ]
+sequence
+GEECDCGEENNPCCDGKTCKLTKGSLCDDQQCCYQCHFKNAGTLCRQSTNPCDPEFCTGISSKCP-----
+----*
+>P1;gi|4501913|ref|NP_003803.1| a disintegrin and metalloproteinase ... [ score 79 E 2e-14 ] [ range 513 .. 583 ]
+sequence
+GEECDCGFHVECYLCCKKCSLSNGAHCSDGPCCNNCLFQPRGYECRDAVNECDTEYCTGDSGQCPPN---
+----*
+>P1;gi|3643793|gb|AAC42597.1| salmosin2 [Gloydius halys brevicaudus] [ score 79 E 3e-14 ] [ range 38 .. 104 ]
+sequence
+GKECDCGAPANPCCDAATCKLRPGEQCAEGLCCDQCRFMKEGTICQEAKGDWNDDTCTGQSADCPRN---
+----*
+>P1;gi|42552591|gb|EAA75434.1| hypothetical protein FG11224.1 [Gibbe... [ score 79 E 3e-14 ] [ range 515 .. 587 ]
+sequence
+GEACDCGSDWQCCCDPDTCQLRSGAECSDGCCTDECRIASSGRICRASTGDCDPERCDGSSGQCP-----
+----*
+>P1;gi|34861174|ref|XP_219470.2| similar to tubulin, gamma complex a... [ score 82 E 4e-15 ] [ range 1085 .. 1134 ]
+sequence
+-------------------------ECAHGACCHECKVKPAGELCRPMKDCDLEEFCDGQKPTCPEDAFQ
+QNGT*
+>P1;gi|26325692|dbj|BAC26600.1| unnamed protein product [Mus musculus] [ score 82 E 4e-15 ] [ range 431 .. 479 ]
+sequence
+-------------------------QCAFGLCCKNCQFLKAGTVCRKEKNCDLPEWCNGTSAECPGDVYK
+ADG-*
+>P1;gi|9910118|ref|NP_064463.1| a disintegrin and metalloprotease do... [ score 82 E 4e-15 ] [ range 478 .. 527 ]
+sequence
+-------------------------QCSEGLCCYKCTFKKKGTLCRPAEDCDLPEYCNGITGECPANSYM
+QDGT*
+>P1;gi|7340958|gb|AAF61189.1| metalloproteinase MD2 precursor [Deina... [ score 82 E 5e-15 ] [ range 421 .. 465 ]
+sequence
+-------------------------QCTAGPCCDQGRFKEEGTICRRARGDDLDDYCNGISGDCPRNPYH
+----*
+>P1;gi|27671032|ref|XP_224880.1| similar to testase 4 [Rattus norveg... [ score 81 E 8e-15 ] [ range 444 .. 492 ]
+sequence
+-------------------------QCAFGLCCKNCQFLQTGTVCRKEKNCDLPEWCNGTSPECPRDVYK
+EDG-*
+>P1;gi|21955288|ref|NP_034215.1| a disintegrin and metalloprotease d... [ score 81 E 9e-15 ] [ range 431 .. 479 ]
+sequence
+-------------------------QCAFGLCCKNCQFLKTGTVCREEKNCDLPEWCNGTSAECPGDVYK
+ADG-*
+>P1;gi|14794943|gb|AAK73517.1| metalloproteinase [Gloydius halys bre... [ score 80 E 1e-14 ] [ range 272 .. 316 ]
+sequence
+-------------------------QCAEGLCCDQCRFMKEGTICRRARGDDLDDYCNGISAGCPRNPFH
+----*
+>P1;gi|31559889|ref|NP_742124.2| a disintegrin and metalloproteinase... [ score 80 E 2e-14 ] [ range 475 .. 524 ]
+sequence
+-------------------------QCSEGLCCYNCTFKKKGSLCRPAEDCDLPEYCDGSTQECPANSYM
+QDGT*
+>P1;gi|2632096|emb|CAA75666.1| fertilin alpha-II [Saguinus oedipus] [ score 80 E 2e-14 ] [ range 481 .. 530 ]
+sequence
+-------------------------ECSHGLCCLDCTFRRKGFLCRPTQDCDLPEYCDGSSAECPADSYK
+QDGT*
+>P1;gi|38089215|ref|XP_356073.1| similar to ADAM 26 precursor (A dis... [ score 80 E 2e-14 ] [ range 431 .. 479 ]
+sequence
+-------------------------QCAFGLCCQDCQFLKTGTVCREEKNCDLPEWCNGTSAECPGDVYK
+ADG-*
+>P1;gi|34878583|ref|XP_344524.1| similar to ADAM 26 precursor (A dis... [ score 80 E 2e-14 ] [ range 1123 .. 1171 ] [ duplicate a ]
+sequence
+-------------------------QCAFGLCCKDCQFLPTGTVCRKEKNCDLPEWCNGSSHECPGDVYK
+EDG-*
+>P1;gi|34878583|ref|XP_344524.1| similar to ADAM 26 precursor (A dis... [ score 80 E 2e-14 ] [ range 493 .. 542 ] [ duplicate b ]
+sequence
+-------------------------QCAFGLCCQDFQFLPTGTMCRKEKNSDLPEWCNGSSHECPGDVYL
+LDGS*
+>P1;gi|20137476|sp|Q9H013|AD19_HUMAN ADAM 19 precursor (A disintegri... [ score 79 E 3e-14 ] [ range 456 .. 505 ]
+sequence
+-------------------------ECAHGSCCHQCKLLAPGTLCREARQCDLPEFCTGKSPHCPTNFYQ
+MDGT*
+>P1;gi|11497040|ref|NP_003804.1| a disintegrin and metalloproteinase... [ score 78 E 5e-14 ] [ range 446 .. 493 ]
+sequence
+--------------------------CAFGLCCKDCKFMPSGELCRQEVNCDLPEWCNGTSHQCPEDRYV
+QDG-*
+>P1;gi|13259518|ref|NP_003465.2| a disintegrin and metalloprotease d... [ score 78 E 5e-14 ] [ range 464 .. 511 ]
+sequence
+--------------------------CAHGLCCEDCQLKPAGTACRDSSNCDLPEFCTGASPHCPANVYL
+HDG-*
+>P1;gi|38089242|ref|XP_357876.1| similar to testase-7 [Mus musculus]... [ score 77 E 1e-13 ] [ range 445 .. 493 ]
+sequence
+-------------------------KCAFGRCCKNCQFLKAGTVCRQEKNCDLPEWCNGTSGECPGDVYK
+ADG-*
+>P1;gi|27670055|ref|XP_224829.1| similar to testase-9 [Rattus norveg... [ score 77 E 1e-13 ] [ range 447 .. 494 ]
+sequence
+--------------------------CAAGECCQNCKFMPSGTVCRERNNCDLPEWCNGTSGACPEDVYV
+EDG-*
+>P1;gi|45220004|dbj|BAD12232.1| meltrin alpha [Bos taurus] [ score 77 E 1e-13 ] [ range 472 .. 519 ]
+sequence
+--------------------------CAHGLCCENCRLKPAGTACRPSNACDLPEFCTGASPHCPANVYL
+HDG-*
+>P1;gi|13774088|gb|AAK38151.1| ADAM precursor [Strongylocentrotus pu... [ score 77 E 1e-13 ] [ range 463 .. 510 ]
+sequence
+--------------------------CAVGECCEDCQLKKAGEVCRDLSNCDLPEYCTGLSAECPANVYR
+QNG-*
+>P1;gi|2632092|emb|CAA75659.1| fertilin alpha protein [Pongo pygmaeus] [ score 77 E 1e-13 ] [ range 480 .. 529 ]
+sequence
+-------------------------ECSDGPCCHKCKFQRKGYPCRPSRSCDLPEFCNGTSALCPDNRHK
+QDGS*
+>P1;gi|18030088|gb|AAL56617.1| ADAM 12 [Coturnix coturnix] [ score 77 E 1e-13 ] [ range 477 .. 524 ]
+sequence
+--------------------------CAHGLCCEDCKLKPAGISCRESSNCDLPEFCTGASPHCPANVYL
+HDG-*
+>P1;gi|14194434|sp|O43506|AD20_HUMAN ADAM 20 precursor (A disintegri... [ score 77 E 1e-13 ] [ range 447 .. 494 ]
+sequence
+--------------------------CAFGICCKDCKFLPSGTLCRQQVGCDLPEWCNGTSHQCPDDVYV
+QDG-*
+>P1;gi|33859704|ref|NP_081941.1| a disintegrin and metalloproteinase... [ score 77 E 2e-13 ] [ range 438 .. 486 ]
+sequence
+--------------------------CSSGLCCHKCNFLPSGYVCRKEVNCDLEEYCDGTSGVCPDDSYK
+QDGT*
+>P1;gi|31881770|ref|NP_068566.2| a disintegrin and metalloproteinase... [ score 77 E 2e-13 ] [ range 439 .. 487 ]
+sequence
+--------------------------CSIGLCCHDCRFRPSGYVCRQENECDLAEYCDGNSSSCPNDVYK
+QDGT*
+>P1;gi|18030090|gb|AAL56618.1| ADAM 19 [Coturnix coturnix] [ score 76 E 2e-13 ] [ range 443 .. 491 ]
+sequence
+-------------------------ECAHGSCCHECKLMSPGTLCREKSGCDLPEYCTGQSPFCPSNSYQ
+IDG-*
+>P1;gi|3510507|gb|AAC61846.1| metalloprotease-disintegrin [Xenopus l... [ score 76 E 2e-13 ] [ range 449 .. 497 ]
+sequence
+-------------------------QCAYGTCCQNCGFSPGGTVCRAANECDLPEYCNGSSPFCQPDVYI
+QNG-*
+>P1;gi|14423640|sp|Q9XSL6|AD28_MACFA ADAM 28 precursor (A disintegri... [ score 76 E 3e-13 ] [ range 447 .. 495 ]
+sequence
+-------------------------QCTSGECCEKCQFKKAGMVCRPAKDCDLPEMCDGKSGNCPDDRFR
+ANG-*
+>P1;gi|38089240|ref|XP_357875.1| similar to testase-6 [Mus musculus]... [ score 76 E 3e-13 ] [ range 446 .. 494 ]
+sequence
+-------------------------KCAFGLCCKDCQFLQTGTVCRQEKNCDLPEWCNGTSGECPGDVYK
+ADG-*
+>P1;gi|11496994|ref|NP_068547.1| a disintegrin and metalloproteinase... [ score 76 E 3e-13 ] [ range 446 .. 494 ]
+sequence
+-------------------------QCALGECCEKCQFKKAGMVCRPAKDCDLPEMCNGKSGNCPDDRFQ
+VNG-*
+>P1;gi|34860011|ref|XP_227500.2| similar to ADAM30 [Rattus norvegicus] [ score 75 E 3e-13 ] [ range 437 .. 485 ]
+sequence
+--------------------------CSSGLCCHKCNFLPSGYVCREENECDLAEYCDGLSGFCPKDYYK
+QDGT*
+>P1;gi|1245061|gb|AAA93320.1| fertilin alpha subunit [ score 75 E 4e-13 ] [ range 479 .. 528 ]
+sequence
+-------------------------QCGYGLCCFRCKYRRKGFLCRSIRNCDLPEYCSGKSASCPPDAYK
+QDGT*
+>P1;gi|2735851|gb|AAB94016.1| trimutase precursor [Protobothrops muc... [ score 75 E 4e-13 ] [ range 436 .. 481 ]
+sequence
+-------------------------QCAEGLCCDQCRFKKKRTICRRARGDNPDDRCTGQSADCPRNGLY
+G---*
+>P1;gi|4557253|ref|NP_001100.1| a disintegrin and metalloproteinase ... [ score 75 E 4e-13 ] [ range 447 .. 496 ]
+sequence
+-------------------------QCAHGTCCQECKVKPAGELCRPKKDCDLEEFCDGRHPECPEDAFQ
+ENGT*
+>P1;gi|34559177|gb|AAQ75369.1| disintegrin and metalloprotease domai... [ score 75 E 5e-13 ] [ range 457 .. 506 ]
+sequence
+-------------------------QCAHGDCCAKCLLKSAGTPCRPATDCDLPEFCTGTSPYCPADVYL
+LDGS*
+>P1;gi|28565283|ref|NP_787953.1| a disintegrin and metalloprotease d... [ score 75 E 6e-13 ] [ range 443 .. 490 ]
+sequence
+--------------------------CAFGLCCKNCQFLPSGTLCRKRDNCDLPEWCNGTSHECPDDAYV
+EDG-*
+>P1;gi|1916617|gb|AAB51194.1| ADAM 13 [Xenopus laevis] [ score 74 E 7e-13 ] [ range 450 .. 499 ]
+sequence
+-------------------------QCAHGECCQDCKLKSAGTQCREAGSCDLPEFCTGDAPSCPSNVYK
+LDGS*
+>P1;gi|41055343|ref|NP_956931.1| hypothetical protein MGC64059 [Dani... [ score 74 E 7e-13 ] [ range 441 .. 488 ]
+sequence
+--------------------------CAHGECCHNCQLKHTGSLCRKAHDCDLDEYCTGESAFCPEDDYK
+MNG-*
+>P1;gi|28972033|dbj|BAC65470.1| mKIAA0021 protein [Mus musculus] [ score 74 E 8e-13 ] [ range 462 .. 510 ]
+sequence
+-------------------------ECAYGDCCKDCQFLPGGSMCRKTSECDVPEYCNGSSQFCPPDVFI
+QNG-*
+>P1;gi|1086019|pir||S48160 metalloproteinase (EC 3.4.24.-) H-I precu... [ score 74 E 8e-13 ] [ range 443 .. 491 ]
+sequence
+-------------------------QCADGECCNQCRFRPARTECRRIDDCDVPEYCTGQSGECPLDVFQ
+RNG-*
+>P1;gi|6680640|ref|NP_031426.1| a disintegrin and metalloprotease do... [ score 74 E 8e-13 ] [ range 462 .. 509 ]
+sequence
+--------------------------CAHGQCCEDCQLKPPGTACRGSSNCDLPEFCTGTAPHCPANVYL
+HDG-*
+>P1;gi|6651073|gb|AAF22163.1| disintegrin and metalloproteinase doma... [ score 74 E 9e-13 ] [ range 437 .. 484 ]
+sequence
+--------------------------CAFGLCCKDCKFLPSGKVCRKEVNCDLPEWCNGTSHKCPDDFYV
+EDG-*
+>P1;gi|24642363|ref|NP_523358.1| mind-meld CG9163-PA [Drosophila mel... [ score 74 E 1e-12 ] [ range 238 .. 287 ]
+sequence
+-------------------------QCASGACCDQCRLRPKDYICRDSNNCDLPEYCDGEIGQCPSDVFK
+KNGS*
+>P1;gi|6680642|ref|NP_031429.1| a disintegrin and metalloprotease do... [ score 74 E 1e-12 ] [ range 442 .. 491 ]
+sequence
+-------------------------ECASGTCCHECKVKPAGEVCRLSKDCDLEEFCDGRKPTCPEDAFQ
+QNGT*
+>P1;gi|31200441|ref|XP_309168.1| ENSANGP00000005363 [Anopheles gambi... [ score 73 E 1e-12 ] [ range 408 .. 456 ]
+sequence
+-------------------------QCATGPCCDKCILKPPGVICRDAHNCDLPEYCNGESGQCPPDVHK
+KNG-*
+>P1;gi|33391734|gb|AAQ17467.1| factor X activator heavy chain precur... [ score 73 E 1e-12 ] [ range 442 .. 490 ]
+sequence
+-------------------------ECGNGLCCEKCKIKTAGTVCRRARDCDVPEHCTGQSAECPADGFH
+ANG-*
+>P1;gi|4501915|ref|NP_003807.1| a disintegrin and metalloproteinase ... [ score 73 E 1e-12 ] [ range 454 .. 502 ]
+sequence
+-------------------------ECAYGDCCKDCRFLPGGTLCRKTSECDVPEYCNGSSQFCQPDVFI
+QNG-*
+>P1;gi|17865171|gb|AAL47169.1| berythractivase [Bothrops erythromelas] [ score 73 E 1e-12 ] [ range 443 .. 491 ]
+sequence
+-------------------------QCVEGLCCDQCRFRKTGTECRAAKDCDLPESCTGQSADCPMDDFQ
+RNG-*
+>P1;gi|9966766|ref|NP_065063.1| a disintegrin and metalloprotease do... [ score 73 E 1e-12 ] [ range 450 .. 497 ]
+sequence
+--------------------------CSFGLCCKDCKFMLLGELCRPINECDLPEWCNGTSHQCPEDGYV
+QDG-*
+>P1;gi|38089234|ref|XP_357873.1| similar to testase-8 [Mus musculus]... [ score 73 E 1e-12 ] [ range 460 .. 508 ]
+sequence
+--------------------------CAFGLCCLYCQIMPAGTVCREEVNCDLPEWCNGHSHKCPNDVYL
+LDGS*
+>P1;gi|34935325|ref|XP_345698.1| a disintegrin and metalloprotease d... [ score 73 E 1e-12 ] [ range 458 .. 506 ] [ duplicate a ]
+sequence
+--------------------------CAEGLCCQSCRFAPTGKVCRHTNGCDLPEYCSGVSEHCPQNFYI
+MDGT*
+>P1;gi|34935325|ref|XP_345698.1| a disintegrin and metalloprotease d... [ score 73 E 1e-12 ] [ range 1177 .. 1225 ] [ duplicate b ]
+sequence
+--------------------------CASGGCCQSCKFAPIGTVCRQKGGCDLPEYCSGKSEHCPGNFHI
+MDGT*
+>P1;gi|6752966|ref|NP_033746.1| a disintegrin and metalloprotease do... [ score 73 E 2e-12 ] [ range 456 .. 505 ]
+sequence
+-------------------------ECAHGSCCHQCKLVAPGTQCREQRQCDLPEFCTGKSPHCPTNYYQ
+MDGT*
+>P1;gi|31742525|gb|AAG48931.5| hemorrhagic metalloproteinase HF3 [Bo... [ score 73 E 2e-12 ] [ range 442 .. 490 ]
+sequence
+-------------------------ECESGECCDQCRFKGAGTECRAARECDIAESCTGQSADCPTDDFK
+RNG-*
+>P1;gi|4106001|gb|AAD02652.1| metalloprotease [Gloydius halys] [ score 73 E 2e-12 ] [ range 441 .. 489 ]
+sequence
+-------------------------QCGHGDCCEQCKFSKSGTECRESMECDPAEHCTGQSSECPADVFH
+KNG-*
+>P1;gi|20530121|dbj|BAB92014.1| hemorrhagic metalloproteinase HR1b [... [ score 73 E 2e-12 ] [ range 441 .. 489 ]
+sequence
+-------------------------KCESGECCDQCRFRTAGTECRAASECDIPESCTGQSADCPTDRFH
+RNG-*
+>P1;gi|28201767|sp|Q60411|AD02_CAVPO ADAM 2 precursor (A disintegrin... [ score 73 E 2e-12 ] [ range 424 .. 471 ]
+sequence
+--------------------------CAQGPCCNQCEFKTKGEVCRESTDCDLPEYCNGSSGACQEDLYV
+ING-*
+>P1;gi|24041040|ref|NP_694882.1| a disintegrin and metalloproteinase... [ score 73 E 2e-12 ] [ range 456 .. 505 ]
+sequence
+-------------------------QCAHGDCCVRCLLKPAGALCRQAMDCDLPEFCTGTSSHCPPDVYL
+LDGS*
+>P1;gi|34935328|ref|XP_234368.2| similar to metalloprotease-disinteg... [ score 73 E 2e-12 ] [ range 450 .. 497 ]
+sequence
+--------------------------CAFGLCCKDCKFMLLGELCRKINECDLPEWCNGTSHQCPEDGYV
+QDG-*
+>P1;gi|8132433|gb|AAF73288.1| metalloprotease-like, disintegrin-like... [ score 73 E 2e-12 ] [ range 484 .. 532 ]
+sequence
+-------------------------QCSDGLCCKKCKFQPMGTVCREANDCDIRETCSGNSSQCAPNIHK
+MDG-*
+>P1;gi|41351495|dbj|BAD08341.1| meltrin epsilon [Gallus gallus] [ score 73 E 2e-12 ] [ range 465 .. 513 ]
+sequence
+--------------------------CSVGQCCQKCHFHPSGHKCRSEVDCDLPEYCNGTSEWCPEDLHM
+QDGT*
+>P1;gi|433996|emb|CAA77783.1| Guinea pig PH-30 alpha [Cavia porcellus] [ score 73 E 2e-12 ] [ range 486 .. 534 ]
+sequence
+--------------------------CSNELCCSDCQYKNSGYLCRPSVGCDLPEYCTGQSGKCPLDTYK
+QDGT*
+>P1;gi|7512197|pir||S55270 catrocollastatin precursor - western diam... [ score 73 E 2e-12 ] [ range 440 .. 488 ]
+sequence
+-------------------------QCGHGDCCEQCKFSKSGTECRASMECDPAEHCTGQSSECPADVFH
+KNG-*
+>P1;gi|12855396|dbj|BAB30321.1| unnamed protein product [Mus musculus] [ score 72 E 3e-12 ] [ range 459 .. 507 ]
+sequence
+--------------------------CAFGLCCLYCQIMPAGTVCRQEVNCDLPEWCNGHSHKCPNDVYL
+LDGS*
+>P1;gi|2144116|pir||I48101 ADAM 6 protein precursor - guinea pig >gi... [ score 72 E 3e-12 ] [ range 445 .. 493 ]
+sequence
+--------------------------CDGQDCCTNCTYSPSGTLCRPIRNCDLPEYCTGSQLTCPENLYM
+QDGT*
+>P1;gi|2231613|gb|AAC18911.1| metalloproteinase-disintegrin-like pro... [ score 72 E 4e-12 ] [ range 442 .. 490 ]
+sequence
+-------------------------QCADGVCCDQCRFTRAGTECRQAKDCDMADLCTGQSAECPTDRFQ
+RNG-*
+>P1;gi|20137548|sp|Q9R160|AD24_MOUSE ADAM 24 precursor (A disintegri... [ score 72 E 4e-12 ] [ range 445 .. 495 ]
+sequence
+-------------------------KCDTGLCCHKCQIQPSGTLCRRENECDLPEWCNGTSHECPEDLFV
+QDGT*
+>P1;gi|27805465|sp|Q90495|ECAR_ECHCA Ecarin precursor >gi|2134246|pi... [ score 72 E 4e-12 ] [ range 444 .. 492 ]
+sequence
+-------------------------ECGNGECCDKCKIRKAGTECRPARDCDVAEHCTGQSAECPRNEFQ
+RNG-*
+>P1;gi|34878595|ref|XP_224891.2| similar to testase 2 [Rattus norveg... [ score 72 E 4e-12 ] [ range 459 .. 507 ]
+sequence
+--------------------------CAFGLCCTHCRVMPSGTVCREQVNCDLPEWCNGHSYKCPNDVYL
+LDGS*
+>P1;gi|45331367|gb|AAS57937.1| acurhagin precursor [Deinagkistrodon ... [ score 72 E 4e-12 ] [ range 441 .. 489 ]
+sequence
+-------------------------QCGHGDCCEQCKFRTSGTECRASMECDPAEHCTGQSSECPADVFH
+KNG-*
+>P1;gi|6006966|gb|AAF00693.1| cobrin precursor [Naja naja] [ score 72 E 5e-12 ] [ range 435 .. 483 ]
+sequence
+-------------------------QCDSEECCEKCKFKGAGAECRAAKDCDLPELCTGQSAECPTDVFQ
+RNG-*
+>P1;gi|28201766|sp|Q28660|AD02_RABIT ADAM 2 precursor (A disintegrin... [ score 72 E 5e-12 ] [ range 425 .. 473 ]
+sequence
+-------------------------QCAEGECCENCTFKERGQSCRPPVGCDLFEYCNGTSALCPDDIVI
+QNG-*
+>P1;gi|23956050|ref|NP_034212.1| a disintegrin and metalloprotease d... [ score 72 E 5e-12 ] [ range 449 .. 498 ]
+sequence
+-------------------------QCALGECCEKCQLKKPGVVCRAAKDCDLPEVCDGKSSHCPGDRFR
+VNGS*
+>P1;gi|27923590|ref|NP_033750.1| a disintegrin and metalloprotease d... [ score 72 E 5e-12 ] [ range 460 .. 508 ]
+sequence
+--------------------------CAAGGCCLSCKFAPTGTICRDKNGCDLPEYCSGASEHCPGNFYI
+MDGT*
+>P1;gi|14423631|sp|O42596|AD22_XENLA ADAM 22 precursor (A disintegri... [ score 72 E 5e-12 ] [ range 486 .. 534 ]
+sequence
+-------------------------ECSDGLCCSNCKFNPKEMLCREANDCDIPETCTGNTSQCPANIHK
+LDG-*
+>P1;gi|14423635|sp|Q9R1V6|AD22_MOUSE ADAM 22 precursor (A disintegri... [ score 72 E 5e-12 ] [ range 482 .. 530 ]
+sequence
+-------------------------QCSDGLCCKKCKFQPLGTVCREANDCDIREICSGNSSQCAPNVHK
+MDG-*
+>P1;gi|7512248|pir||G02937 fertilin beta - crab-eating macaque >gi|9... [ score 71 E 6e-12 ] [ range 427 .. 474 ]
+sequence
+--------------------------CAEGPCCENCLFMSQERVCRPSDECDLPEYCNGTSASCPENHFI
+QTG-*
+>P1;gi|4689408|gb|AAD27891.1| acutolysin e precursor [Deinagkistrodo... [ score 71 E 6e-12 ] [ range 440 .. 488 ]
+sequence
+-------------------------QCGHGKCCEQCKFRTSGTECRASMECDPAEHCTGQSSECPADVFH
+KNG-*
+>P1;gi|2134533|pir||I52361 testicular metalloproteinase-like, disint... [ score 71 E 6e-12 ] [ range 444 .. 492 ]
+sequence
+--------------------------CHLGDCCTNCSFSAQGTLCRPIQNCDLPEYCHGTTLTCPPDLYL
+QDGT*
+>P1;gi|34873904|ref|XP_340917.1| similar to Adam11 protein [Rattus n... [ score 71 E 7e-12 ] [ range 1201 .. 1248 ]
+sequence
+--------------------------CSDGLCCRRCKYEPRGVSCREAVNCDIAETCTGDSSQCPPNLHK
+LDG-*
+>P1;gi|1877208|emb|CAA67753.1| fertilin beta [Homo sapiens] [ score 71 E 7e-12 ] [ range 427 .. 474 ]
+sequence
+--------------------------CAEGPCCENCLFMSKERMCRPSEECDLPEYCNGSSASCPENHYV
+QTG-*
+>P1;gi|6007789|gb|AAF01041.1| metalloproteinase precursor [Atractasp... [ score 71 E 7e-12 ] [ range 442 .. 490 ]
+sequence
+-------------------------KCDSEECCEQCRFKGAGTECRAAKDCDMPERCTGQSAECPTDSFQ
+RNG-*
+>P1;gi|38073823|ref|XP_356606.1| similar to a disintegrin and metall... [ score 71 E 8e-12 ] [ range 458 .. 506 ]
+sequence
+--------------------------CDKELCCANCTYSPSGTLCRPIQNCDLPEYCNGTKYICPDDTYL
+QDGT*
+>P1;gi|32967492|gb|AAP92424.1| prothrombin activator EoMP06 [Echis o... [ score 70 E 1e-11 ] [ range 343 .. 391 ]
+sequence
+-------------------------ECGNGECCDNCKIRKAGTECRPARDCDVAEHCTGQSAECPRNEFQ
+RNG-*
+>P1;gi|33186796|tpe|CAD66453.1| TPA: testase-9 [Mus musculus] [ score 70 E 1e-11 ] [ range 459 .. 507 ]
+sequence
+--------------------------CAFGLCCKYCQIMEAGTVCRRDNECDLPEWCNGHSHKCPNDVYL
+LDGS*
+>P1;gi|2231331|gb|AAB62001.1| membrane anchored metalloprotease; dis... [ score 70 E 1e-11 ] [ range 421 .. 469 ]
+sequence
+-------------------------ECLTGLCCKDCKLLPKGTLCRPKTECDLAEYCDGASNHCPLDMYK
+QNG-*
+>P1;gi|995748|emb|CAA62600.1| atrolysin e [Protobothrops mucrosquama... [ score 70 E 1e-11 ] [ range 442 .. 487 ]
+sequence
+-------------------------QCAEGLCCDQCRFKKKRTICRRARGDNPDDRSTGQSADCPRNGLY
+G---*
+>P1;gi|20302105|ref|NP_620261.1| a disintegrin and metalloproteinase... [ score 70 E 1e-11 ] [ range 457 .. 505 ]
+sequence
+--------------------------CDKELCCANCTYSPSGTLCRPIQNCDLPEYCSGNNIFCPADTYL
+QDGT*
+>P1;gi|7512247|pir||I65253 disintegrin-like testicular metalloprotei... [ score 70 E 2e-11 ] [ range 425 .. 473 ]
+sequence
+--------------------------CHLGDCCTNCSFSAQGTLCRPIQNCDLPEYCYGTTLTCPPDFYL
+QDGT*
+>P1;gi|21435683|gb|AAM51550.1| mocarhagin 1 [Naja mossambica mossamb... [ score 70 E 2e-11 ] [ range 447 .. 495 ]
+sequence
+-------------------------QCDSGECCEKCKFKGAGAECRAAKNCDFPELCTGRSAKCPKDSFQ
+RNG-*
+>P1;gi|34335256|ref|NP_003808.1| a disintegrin and metalloproteinase... [ score 69 E 2e-11 ] [ range 442 .. 489 ]
+sequence
+--------------------------CAEGECCESCQIKKAGSICRPAKDCDFPEMCTGHSPACPKDQFR
+VNG-*
+>P1;gi|20530119|dbj|BAB92013.1| hemorrhagic metalloproteinase HR1a [... [ score 69 E 3e-11 ] [ range 443 .. 491 ]
+sequence
+-------------------------ECESGECCEQCRFRTAGTECRRRSECDIAESCTGHSADCPTDRFH
+RNG-*
+>P1;gi|44893835|gb|AAS48594.1| ADAM15 isoform 6a [Homo sapiens] [ score 69 E 3e-11 ] [ range 460 .. 509 ]
+sequence
+-------------------------QCASGPCCQNCQLRPSGWQCRPTRDCDLPEFCPGDSSQCPPDVSL
+GDG-*
+>P1;gi|27671318|ref|XP_224892.1| similar to ADAM 24 precursor (A dis... [ score 69 E 3e-11 ] [ range 445 .. 495 ]
+sequence
+-------------------------KCASGLCCNKCQIQPSGTLCRKENECDLPEWCNGTSKECPEDTFV
+QAGT*
+>P1;gi|32140188|ref|NP_859044.1| a disintegrin and metalloprotease d... [ score 69 E 3e-11 ] [ range 449 .. 497 ]
+sequence
+-------------------------QCALGECCEKCQLKKPGVVCRAAKDCDLPEMCDGKSSHCPVDRFR
+VNG-*
+>P1;gi|34876716|ref|XP_244124.2| similar to ADAM23 [Rattus norvegicus] [ score 69 E 3e-11 ] [ range 692 .. 741 ]
+sequence
+--------------------------CSDGPCCNNCLFQSRGYECRDAVNCDITEYCTGDSGQCPPNLHK
+QDG-*
+>P1;gi|20137329|sp|Q28475|AD07_MACFA ADAM 7 precursor (A disintegrin... [ score 68 E 4e-11 ] [ range 442 .. 489 ]
+sequence
+--------------------------CAEGECCESCQIKKAGSICRPAEDCDFPEMCTGHSPACPKDQFR
+VNG-*
+>P1;gi|26024338|ref|NP_742123.1| a disintegrin and metalloproteinase... [ score 68 E 4e-11 ] [ range 444 .. 492 ]
+sequence
+--------------------------CSTELCCFKCNFKKEGDVCRPADGCDLEEYCNGTSAACPSDRKA
+QDGS*
+>P1;gi|27883862|ref|NP_777479.1| a disintegrin and metalloprotease d... [ score 68 E 4e-11 ] [ range 458 .. 506 ]
+sequence
+--------------------------CDKELCCANCTYSPSGTLCRPIQNCDLPEYCSGSKFICPDDTYL
+QDGT*
+>P1;gi|39596478|emb|CAE63097.1| Hypothetical protein CBG07388 [Caeno... [ score 68 E 4e-11 ] [ range 421 .. 471 ]
+sequence
+-------------------------QCASGDCCDTCKPKPRATVCRAAVGCDLDEFCNGETNDCPADFFV
+QNG-*
+>P1;gi|28201764|sp|O77780|AD02_BOVIN ADAM 2 precursor (A disintegrin... [ score 68 E 6e-11 ] [ range 426 .. 473 ]
+sequence
+--------------------------CDTGLCCESCAFIPKGHICRGSTDCDLHEYCNGSSAACQEDVYV
+QDG-*
+>P1;gi|4501913|ref|NP_003803.1| a disintegrin and metalloproteinase ... [ score 68 E 6e-11 ] [ range 540 .. 589 ]
+sequence
+--------------------------CSDGPCCNNCLFQPRGYECRDAVNCDITEYCTGDSGQCPPNLHK
+QDG-*
+>P1;gi|31201423|ref|XP_309659.1| ENSANGP00000003886 [Anopheles gambi... [ score 68 E 7e-11 ] [ range 493 .. 541 ]
+sequence
+--------------------------CATGECCDTCKPMIGGTVCRQADGCDLPEYCSGESEYCPGDVFK
+RD--*
+>P1;gi|25331213|pir||JC7530 vascular apoptosis-inducing protein 1 - ... [ score 68 E 8e-11 ] [ range 442 .. 489 ]
+sequence
+-------------------------QCAEGLCCDQCRFKGAGTECRAAKDCDMADVCTGRSAEC-TDRFQ
+RNG-*
+>P1;gi|542663|pir||S41607 atrolysin A (EC 3.4.24.1) - western diamon... [ score 67 E 8e-11 ] [ range 249 .. 297 ]
+sequence
+-------------------------ECESGECCQQCKFTSAGNVCRPARECDIAESCTGQSADCPTDDFH
+RNG-*
+>P1;gi|38512117|gb|AAH61796.1| Adam15 protein [Rattus norvegicus] [ score 67 E 8e-11 ] [ range 462 .. 511 ]
+sequence
+-------------------------QCASGPCCQNCKLQPAGWQCRPTDDCDLPEFCLGDSSQCPPDIRL
+GDG-*
+>P1;gi|44894227|gb|AAS48651.1| ADAM metalloprotease [Drosophila mela... [ score 67 E 8e-11 ] [ range 511 .. 559 ]
+sequence
+--------------------------CATGECCDTCRPKLAGSACREANECDLPEYCTGESEYCPADVFR
+RD--*
+>P1;gi|38372873|sp|O88839|AD15_MOUSE ADAM 15 precursor (A disintegri... [ score 67 E 1e-10 ] [ range 461 .. 510 ]
+sequence
+-------------------------QCASGPCCQNCKLHPAGWLCRPTDDCDLPEFCPGDSSQCPSDIRL
+GDG-*
+>P1;gi|2228590|gb|AAC09475.1| cellular disintegrin ADAM 6d; tMDCIVd ... [ score 67 E 1e-10 ] [ range 443 .. 491 ]
+sequence
+--------------------------CDKQQCCTNCTYSPTSTLCRPVMNCDLPEYCGGSTYTCPENFYL
+QDGT*
+>P1;gi|14325767|dbj|BAB60682.1| vascular apoptosis-inducing protein ... [ score 67 E 1e-10 ] [ range 443 .. 490 ]
+sequence
+-------------------------QCAEGLCCDQCRFKAAGTECRAATDCDMADLCTGRSAEC-TDRFQ
+RNG-*
+>P1;gi|27465044|gb|AAN39540.1| metalloprotease [Gloydius halys] [ score 67 E 2e-10 ] [ range 442 .. 489 ]
+sequence
+-------------------------QCAEGLCCDQCRFKGAGTECRAATDCDMADLCTGRSAEC-TDRFQ
+RNG-*
+>P1;gi|6007787|gb|AAF01040.1| metalloproteinase precursor [Atractasp... [ score 67 E 2e-10 ] [ range 282 .. 330 ]
+sequence
+-------------------------QCDSGECCDQCRLKGAGAECRAAMDCDFPELCTGQSAECPTDLIQ
+RNG-*
+>P1;gi|28564477|emb|CAC84225.2| fertilin beta [Sus scrofa] [ score 66 E 2e-10 ] [ range 426 .. 473 ]
+sequence
+--------------------------CATGPCCDSCSFMAKGQTCRLTLDCDLLEYCNGSSAACQEDLYV
+QDG-*
+>P1;gi|2228592|gb|AAC09476.1| cellular disintegrin ADAM 6e; tMDCIVe ... [ score 66 E 2e-10 ] [ range 442 .. 490 ]
+sequence
+--------------------------CDKQQCCTNCTYSPTSTLCRPVMNCDLPEYCGGSTYTCPDNFYL
+QDGT*
+>P1;gi|2144115|pir||I48100 ADAM 5 protein precursor - guinea pig >gi... [ score 66 E 3e-10 ] [ range 436 .. 486 ]
+sequence
+-------------------------KCGTGPCCTDCQFQKANVLCRKSKDCDFDEYCNGRSGDCVHDTYA
+QNG-*
+>P1;gi|6671511|ref|NP_031428.1| a disintegrin and metalloprotease do... [ score 66 E 3e-10 ] [ range 441 .. 488 ]
+sequence
+--------------------------CVEGECCESCQMKKEGAVCRLAKNCDISEVCTGYSPECPKDEFQ
+ANG-*

@@ -1,0 +1,220 @@
+>P1;1dqia
+structureX:1dqi:   1 :A: 124 :A:superoxide reductase (oxidized state):Pyrococcus furiosus: 1.70: 20.3
+MISETIRSGDWKGEKHVPVIEYEREGELVKVKVQVGKEIPHPNTTEHHIRYIELYFLPEGENFVYQVGRV
+EFTAHGESVNGPNTSDVYTEPIAYFVLKTKKKGKLYALSYCNIHGLWENEVTLE*
+>P1;1dfx
+structureX:1dfx:  37 : : 125 : :desulfoferrodoxin:Desulfovibrio desulfuricans: 1.9: -1
+----VEGSTDGAMEKHVPVIEKVD----GGYLIKVGS-VPHPMEEKHWIEWIELLAD-------GRSYTK
+FLKPG-------------DAPEAFFAIDAS---KVTAREYCNLHGHWKAEN---*
+>P1;gi|14590918|ref|NP_142991.1| hypothetical protein PH1083 [Pyroco... [ score 190 E 7e-48 ] [ range 23 .. 137 ]
+sequence
+MLKETIRSGDWKGEKHVPVIEYEREGDLVKVEVSVGKEIPHPNTPEHHIAWIELYFHPEGGQFPILVGRV
+EFTNH---------SDPLTEPRAVFFFKTSKKGKLYALSYCNIHGLWENEVQLE*
+>P1;gi|11497956|ref|NP_069180.1| desulfoferrodoxin, putative [Archae... [ score 189 E 8e-48 ] [ range 2 .. 122 ]
+sequence
+---ELFQTADWKKEKHVPVIEVLREGGVVEVKVSVGKEIPHPNTTEHHIAWIELVFQPEGSKFPYVVGRA
+EFAAHGASVDGPNTSGVYTDPVAVFAFKAEKSGKLTAFSYCNIHGLWMGEATL-*
+>P1;gi|3914130|sp|O50258|NLR_DESGI Neelaredoxin (Superoxide dismutas... [ score 183 E 6e-46 ] [ range 5 .. 127 ]
+sequence
+---DMFQTADWKTEKHVPAIECDDADAFFPVTVSLGKEIAHPNTTEHHIRWIRCYFKPEGDKFSYEVGSF
+EFTAHGECAKGPNEGPVYTNHTVTFQLKIKTPGVLVASSFCNIHGLWESSKAV-*
+>P1;gi|15643423|ref|NP_228467.1| neelaredoxin [Thermotoga maritima] ... [ score 177 E 5e-44 ] [ range 3 .. 130 ]
+sequence
+-LSDFIKTEDFKKEKHVPVIEKVKKDEKVQIVVTVGKEIPHPNTTEHHIRWIKVFFQPDGDPYVYEVGRY
+EFNAHGESVQGPNIGAVYTEPTVTTVVKLNRSGTIIALSYCNIHGLWESKITVE*
+>P1;gi|14521101|ref|NP_126576.1| desulfoferrodoxin [Pyrococcus abyss... [ score 173 E 8e-43 ] [ range 4 .. 118 ]
+sequence
+MLKDTIKSGDWKGEKHVPVIEYEKEGDLVKVEVSVGKEIPHPNTPEHHIAWIELYFHPEDGQFPILVGRV
+AFTSH---------DDPLTEPRAVFFFKTKKKGKLYALSYCNIHGLWENEVQLE*
+>P1;gi|20808604|ref|NP_623775.1| Desulfoferrodoxin [Thermoanaerobact... [ score 158 E 3e-38 ] [ range 10 .. 125 ]
+sequence
+----LYQSGDWKGEKHVPVIEKVKKGEAFEVKVNIGEEIPHPNTLEHHIKWIKVYFQGEGDKFPVEIGNY
+NFTSHGEY-------GVFTEPEVTVKFKIEKSGTIYATSYCNIHGLWENSKEIK*
+>P1;gi|41614807|ref|NP_963305.1| NEQ011 [Nanoarchaeum equitans Kin4-... [ score 130 E 5e-30 ] [ range 9 .. 109 ]
+sequence
+--------------KHSPIIEIEKEGELYKITIEVGKEVKHPNEPSHHIQWVDLYFEPEGKEPTH-IARI
+EFKAHGEYNN-------YTEPKAIVYAKLEGKGKLIAISYCTLHGLWKTEKEL-*
+>P1;gi|23001652|ref|ZP_00045554.1| COG2033: Desulfoferrodoxin [Magne... [ score 122 E 2e-27 ] [ range 63 .. 160 ]
+sequence
+-------------DRHSPFISSAKAGEKFAVNVRMGNEYSHPDDTDHYIKSIQLF---NGTTLLAEANFV
+AGALGGTGAKG-------QAEVTFNVVPSGSKMRLTALSYCTKHGLWE------*
+>P1;gi|41719813|ref|ZP_00148674.1| hypothetical protein Mbur083701 [... [ score 117 E 5e-26 ] [ range 15 .. 123 ]
+sequence
+-----IEAESAMKEKHVPTIEILKKTEADLIRVIVGKETAHPNTVEHHIAWVELYGKKTGGE-VVNLGRV
+NFSPGN------------TKPDCWFKLENISEYKAFALGYCNIHGLWENCVEV-*
+>P1;gi|20092535|ref|NP_618610.1| desulfoferrodoxin [Methanosarcina a... [ score 112 E 2e-24 ] [ range 25 .. 124 ]
+sequence
+-------------KKHIPIIETIVAGEPFDVTVEVGI-IPHVMEEKHHIEWIELYLNDK------KIRRA
+ELSLENKKAEATFTVEADKS-------LAGKESKLRALENCNIHGLWEEFMTIK*
+>P1;gi|1706366|sp|P22076|DESR_DESDE Desulfoferrodoxin (Dfx) (Superox... [ score 98 E 2e-20 ] [ range 40 .. 124 ]
+sequence
+-------STDGAMEKHVPVIEKVDGGYLIKV-----GSVPHPMEEKHWIEWIEL--LADGRSY------T
+KFLKPGDA------------PEAFFAIDAS---KVTAREYCNLHGHWKAE----*
+>P1;gi|3913458|sp|Q46495|DESR_DESBR Desulfoferrodoxin (Dfx) (Superox... [ score 88 E 3e-17 ] [ range 41 .. 125 ]
+sequence
+-------TVDAAKEKHVPVIEKIDGGYKVKV-----GAVAHPMEEKHYIQWIEL--LADDKCY------T
+QFLKPG------------QAPEAVFLIEA---AKVVAREYCNIHGHWKAE----*
+>P1;gi|118461|sp|P20418|DESR_DESVH Desulfoferrodoxin (Dfx) >gi|66409... [ score 84 E 8e-16 ] [ range 41 .. 126 ]
+sequence
+-------TSDGAKEKHVPVIEKTANGYKVTV-----GSVAHPMEEKHWIEWIELV--ADGVSYK------
+KFLKPGDA------------PEAEFCIKAD---KVVAREYCNLHGHWKAEA---*
+>P1;gi|1352242|sp|P48345|DESR_DESVM Desulfoferrodoxin (Dfx) >gi|1020... [ score 80 E 7e-15 ] [ range 41 .. 124 ]
+sequence
+-------TSDGAKEKHVPVIEKTATGYKVKV-----GSVAHPMEETHWIEWIELI--ADGRSY------T
+RFLKPGDA------------PEAEFCIQAT---EVSAREYCNLHGHWKA-----*
+>P1;gi|11498439|ref|NP_069667.1| desulfoferrodoxin (dfx) [Archaeoglo... [ score 74 E 6e-13 ] [ range 39 .. 124 ]
+sequence
+-----VKTTDEGKEKHVPVIE--REGNKVYVKV---GSVAHPMEEQHYIEWIEVI--DDG-----CVHRK
+QLKPGD-------------EPKAEFTVMSD---RVSARAYCNIHGLWQS-----*
+>P1;gi|15668922|ref|NP_247726.1| desulfoferrodoxin, putative (rbo) [... [ score 71 E 4e-12 ] [ range 7 .. 113 ]
+sequence
+-INRMKEGTDFEK-KHTPFIECVKANDYFEVKISTG--IPHPMEDNHFIHWIELYM---GDLYLARVDFT
+QFMKPEVKL---MVKAPSKEHEKFI---------LRALMRCNLHGVWEYEKEI-*
+>P1;gi|21226734|ref|NP_632656.1| Desulfoferrodoxin [Methanosarcina m... [ score 71 E 5e-12 ] [ range 22 .. 144 ]
+sequence
+-------------KKHVPVIEAPEAGRPFEVAVTVG-SIPHVMEEKHFIEWVELYLHNK------LVGRK
+ELDPSGEKATVIFEVEADEALIAIKEIETGEKSVLRAVEKCNVHGIWEEYKKIE*
+>P1;gi|39995826|ref|NP_951777.1| desulfoferrodoxin ferrous iron-bind... [ score 68 E 4e-11 ] [ range 56 .. 156 ]
+sequence
+-------------QKHVPVIKAVKAGEPFTVEVAVG-EVVHPMGPTHWIQFIELNVGNE------PAGRV
+DMQPRG-----------FLSPKATFTVTIEGKITLVVNERCNLHGYWEGSIDI-*
+>P1;gi|9845224|gb|AAG00800.1| NAD+/- rubredoxin oxidoreductase Rbo [... [ score 67 E 6e-11 ] [ range 41 .. 124 ]
+sequence
+-------TVDVSKEKHVPVVTKVDGG--FKVTV---GSVSHPMEEKHYIEWIEL--QASG-QFLRQ----
+-------------HLEPGDAPEAFF---LTAASSATARAYCNLHGLWQG-----*
+>P1;gi|23055229|ref|ZP_00081344.1| COG2033: Desulfoferrodoxin [Geoba... [ score 67 E 1e-10 ] [ range 93 .. 189 ]
+sequence
+-------------QKHAPVIKAVKAGEPFTVEVTVGEQV-HPMGPTHWIEYIELNVGNE------PAGRI
+AMQPRG-----------FLHPKVTFTVVIPKEATLVAHQRCNLHGYWEG-----*
+>P1;gi|15678782|ref|NP_275899.1| rubredoxin oxidoreductase [Methanot... [ score 66 E 1e-10 ] [ range 40 .. 123 ]
+sequence
+------RRTDVGPEKHVPVVEETGTG----IRVKVG-EVPHPMEENHHIQWIEVIAGD-------MVYRK
+DLNPGD-------------NPEAEFPVEMASDFMVRI--YCNIHGLW-------*
+>P1;gi|15639809|ref|NP_219259.1| desulfoferrodoxin (rbo) [Treponema ... [ score 65 E 4e-10 ] [ range 42 .. 128 ]
+sequence
+-------TVDAAKEKHIPVVE--VHGHEVKVKV---GSVAHPMTPEHYIAWV-CLKTRKGIQL-------
+------------KELPVDGAPEVTFALTADDQ-VLEAYEFCNLHGVWSGK----*
+>P1;gi|15895715|ref|NP_349064.1| Desulfoferrodoxin [Clostridium acet... [ score 63 E 2e-09 ] [ range 41 .. 125 ]
+sequence
+-------TTDAAQEKHVPHIT--KNGNNIDVSV---GSVEHPMTPEHFIEWIILVSGD----------RL
+EMAK----------LTPDMKPRA--QFHNVTSGTVYA--YCNLHSLWKADI---*
+>P1;gi|42527260|ref|NP_972358.1| desulfoferrodoxin/neelaredoxin [Tre... [ score 62 E 3e-09 ] [ range 40 .. 128 ]
+sequence
+-----IGSVDAAKEKHVPVVE--VNGNTVKVKV---GSVAHPMTEEHHIAWV-CLKTEKGLQF-------
+------------KELAVTGAPEVEFSLTSDDK-VIEAYEFCNLHGVWSGK----*
+>P1;gi|45358720|ref|NP_988277.1| Desulfoferrodoxin, ferrous iron-bin... [ score 61 E 4e-09 ] [ range 17 .. 115 ]
+sequence
+-------------KKHVPMIECVKPDEIYEVKIHTAG-VEHPMEDGHFIQFIEL----NVEEYPLL--RV
+QLTQHSKPDVVVNIKAPNEEHK-------GRTIKLVATMFCNLHGLWKYEKEV-*
+>P1;gi|23473640|ref|ZP_00128936.1| COG2033: Desulfoferrodoxin [Desul... [ score 59 E 2e-08 ] [ range 6 .. 64 ]
+sequence
+--------------------------------------VEHPMTDKHWIQWIELI--ADGRSY------T
+KFLNPGET------------PEAEFCIKAD---KVTAREYCNLHGHWKTE----*
+>P1;gi|45529450|ref|ZP_00180595.1| hypothetical protein Mther139701 ... [ score 49 E 2e-05 ] [ range 3 .. 72 ]
+sequence
+-----------------------KVDGGFKVTV---GSVSHPMEEKHYIEWIEL--QASG-QFLRQ----
+-------------HLEPGDAPEAFF---LTAASSATARAYCNLHGLWQG-----*
+>P1;gi|3913458|sp|Q46495|DESR_DESBR Desulfoferrodoxin (Dfx) (Superox... [ score 153 E 9e-37 ] [ range 39 .. 126 ]
+sequence
+-----ENTVDAAKEKHVPVIEKID----GGYKVKVGA-VAHPMEEKHYIQWIELLAD-------DKCYTQ
+FLKPG-------------QAPEAVFLIEAA---KVVAREYCNIHGHWKAEN---*
+>P1;gi|1352242|sp|P48345|DESR_DESVM Desulfoferrodoxin (Dfx) >gi|1020... [ score 148 E 3e-35 ] [ range 39 .. 124 ]
+sequence
+-----EGTSDGAKEKHVPVIEKTA----TGYKVKVGS-VAHPMEETHWIEWIELIAD-------GRSYTR
+FLKPG-------------DAPEAEFCIQAT---EVSAREYCNLHGHWKA-----*
+>P1;gi|118461|sp|P20418|DESR_DESVH Desulfoferrodoxin (Dfx) >gi|66409... [ score 147 E 4e-35 ] [ range 39 .. 125 ]
+sequence
+-----EGTSDGAKEKHVPVIEKTA----NGYKVTVGS-VAHPMEEKHWIEWIELVAD-------GVSYKK
+FLKPG-------------DAPEAEFCIKAD---KVVAREYCNLHGHWKAE----*
+>P1;gi|28212038|ref|NP_782982.1| desulfoferrodoxin homolog [Clostrid... [ score 136 E 2e-31 ] [ range 54 .. 139 ]
+sequence
+----VENTVDAAVEKHVPVIEKIE----GGIRVKIGE-AEHPMIEEHYIEWIEVLTE-------NKVYRK
+HLKPG-------------EKPVAEFKLDEE---VVAAREYCNLHGLWK------*
+>P1;gi|11498439|ref|NP_069667.1| desulfoferrodoxin (dfx) [Archaeoglo... [ score 133 E 8e-31 ] [ range 41 .. 124 ]
+sequence
+-------TTDEGKEKHVPVIEREG----NKVYVKVGS-VAHPMEEQHYIEWIEVIDD-------GCVHRK
+QLKPG-------------DEPKAEFTVMSD---RVSARAYCNIHGLWQS-----*
+>P1;gi|9845224|gb|AAG00800.1| NAD+/- rubredoxin oxidoreductase Rbo [... [ score 133 E 8e-31 ] [ range 38 .. 124 ]
+sequence
+----VENTVDVSKEKHVPVVTKVD----GGFKVTVGS-VSHPMEEKHYIEWIELQAS-------GQFLRQ
+HLEPG-------------DAPEAFFLTAAS---SATARAYCNLHGLWQG-----*
+>P1;gi|15895715|ref|NP_349064.1| Desulfoferrodoxin [Clostridium acet... [ score 131 E 6e-30 ] [ range 38 .. 124 ]
+sequence
+----VANTTDAAQEKHVPHITKNG----NNIDVSVGS-VEHPMTPEHFIEWIILVSG-------DRLEMA
+KLTPD-------------MKPRAQFH-NVT---SGTVYAYCNLHSLWKAD----*
+>P1;gi|15678782|ref|NP_275899.1| rubredoxin oxidoreductase [Methanot... [ score 129 E 1e-29 ] [ range 38 .. 123 ]
+sequence
+----VARRTDVGPEKHVPVVEETG----TGIRVKVGE-VPHPMEENHHIQWIEVIAG-------DMVYRK
+DLNPG-------------DNPEAEFPVEAS---DFMVRIYCNIHGLW-------*
+>P1;gi|15639809|ref|NP_219259.1| desulfoferrodoxin (rbo) [Treponema ... [ score 124 E 5e-28 ] [ range 41 .. 128 ]
+sequence
+------GTVDAAKEKHIPVVEVHG----HEVKVKVGS-VAHPMTPEHYIAWVCLKTR-------KGIQLK
+ELPVD-------------GAPEVTFALTAD---DLEAYEFCNLHGVWSGK----*
+>P1;gi|42527260|ref|NP_972358.1| desulfoferrodoxin/neelaredoxin [Tre... [ score 120 E 7e-27 ] [ range 41 .. 128 ]
+sequence
+------GSVDAAKEKHVPVVEVNG----NTVKVKVGS-VAHPMTEEHHIAWVCLKTE-------KGLQFK
+ELAVT-------------GAPEVEFSLTSD---DIEAYEFCNLHGVWSGK----*
+>P1;gi|23473640|ref|ZP_00128936.1| COG2033: Desulfoferrodoxin [Desul... [ score 111 E 3e-24 ] [ range 1 .. 64 ]
+sequence
+--------------------------------MKVGA-VEHPMTDKHWIQWIELIAD-------GRSYTK
+FLNPG-------------ETPEAEFCIKAD---KVTAREYCNLHGHWKTE----*
+>P1;gi|13124805|sp|O58810|SOR_PYRHO Superoxide reductase (SOR) [ score 110 E 9e-24 ] [ range 8 .. 111 ]
+sequence
+-------SGDWKGEKHVPVIEYER----EGDLVKVKE-IPHPNTPEHHIAWIELYVG-------RVEFTN
+HSDPL-------------TEPRAVFFFKTS---KLYALSYCNIHGLWENE----*
+>P1;gi|14521101|ref|NP_126576.1| desulfoferrodoxin [Pyrococcus abyss... [ score 100 E 1e-20 ] [ range 11 .. 114 ]
+sequence
+-------SGDWKGEKHVPVIEYEK----EGDLVKVKE-IPHPNTPEHHIAWIELYVG-------RVAFTS
+HDDPL-------------TEPRAVKTKKKG---KLYALSYCNIHGLWENE----*
+>P1;gi|11497956|ref|NP_069180.1| desulfoferrodoxin, putative [Archae... [ score 98 E 5e-20 ] [ range 6 .. 119 ]
+sequence
+-------TADWKKEKHVPVIEVEG----GVVEVKVKE-IPHPNTTEHHIAWIELVVD-------GPNTSG
+VYTDP-------------VAVFAFKAEKSG---KLTAFSYCNIHGLWMGE----*
+>P1;gi|18977653|ref|NP_579010.1| superoxide reductase [Pyrococcus fu... [ score 93 E 2e-18 ] [ range 8 .. 120 ]
+sequence
+-------SGDWKGEKHVPVIEYER----EGELVKVKE-IPHPNTTEHHIRYIELYPE-------GENFVE
+FTAHG-------------EEPIAYFVLKTK---KLYALSYCNIHGLWENE----*
+>P1;gi|39995826|ref|NP_951777.1| desulfoferrodoxin ferrous iron-bind... [ score 90 E 1e-17 ] [ range 56 .. 152 ]
+sequence
+-------------QKHVPVITAPK----ATVEVAVGE-VVHPMGPTHWIQFIELNVG-------NEPAGR
+VMQPR-------------GSPKATFTVTIP---KEAANERCNLHGYWEG-----*
+>P1;gi|45358720|ref|NP_988277.1| Desulfoferrodoxin, ferrous iron-bin... [ score 86 E 1e-16 ] [ range 17 .. 112 ]
+sequence
+-------------KKHVPMIEKPD----EIYEVKIAG-VEHPMEDGHFIQFIELNVE-------EYPLLR
+VLTQH-------------SKPDVVVNIKAP---KLVATMFCNLHGLWKYE----*
+>P1;gi|15668922|ref|NP_247726.1| desulfoferrodoxin, putative (rbo) [... [ score 86 E 2e-16 ] [ range 18 .. 110 ]
+sequence
+-------------KKHTPFIEKAN----DYFEVKIST-IPHPMEDNHFIHWIELYMG-------DYLARV
+DFTQF-------------MKPEVKLMVKAP---SLRALMRCNLHGVWEYE----*
+>P1;gi|20092535|ref|NP_618610.1| desulfoferrodoxin [Methanosarcina a... [ score 84 E 8e-16 ] [ range 19 .. 118 ]
+sequence
+------NLTDGEK-KHIPIIETIV----AGVTVEVGI-IPHVMEEKHHIEWIELYLN-------DKKIRR
+LSLEN-------------KKAEATFTVEAS---KLRALENCNIHGLWE------*
+>P1;gi|23055229|ref|ZP_00081344.1| COG2033: Desulfoferrodoxin [Geoba... [ score 80 E 1e-14 ] [ range 93 .. 189 ]
+sequence
+-------------QKHAPVIKKAG----ETVEVTVGE-QVHPMGPTHWIEYIELNVG-------NEPAGR
+IMQPR-------------GHPKVTFTVVIP---KLVAHQRCNLHGYWEG-----*
+>P1;gi|20808604|ref|NP_623775.1| Desulfoferrodoxin [Thermoanaerobact... [ score 76 E 2e-13 ] [ range 13 .. 120 ]
+sequence
+-------SGDWKGEKHVPVIHKKG----EAFEVKVNE-IPHPNTLEHHIKWIKVYIG-------NYNFTS
+HGEYG-------------TEPEVTVKFKIE---KIYATSYCNIHGLWEN-----*
+>P1;gi|3914130|sp|O50258|NLR_DESGI Neelaredoxin (Superoxide dismutas... [ score 68 E 6e-11 ] [ range 9 .. 123 ]
+sequence
+-------TADWKTEKHVPAIEAAD----AFFPVTVKE-IAHPNTTEHHIRWIRCYVG-------SFEFTA
+HGEPN-------------EGPVVTFQLKIK---VLVASSFCNIHGLWES-----*
+>P1;gi|15643423|ref|NP_228467.1| neelaredoxin [Thermotoga maritima] ... [ score 67 E 1e-10 ] [ range 9 .. 123 ]
+sequence
+-------TEDFKKEKHVPVIEAPE----KQIVVTVGE-IPHPNTTEHHIRWIKVFVQ-------GPNIGA
+VYTEP-------------TVTTVVKLNRSG---TIIALSYCNIHGLWES-----*
+>P1;gi|41719813|ref|ZP_00148674.1| hypothetical protein Mbur083701 [... [ score 64 E 8e-10 ] [ range 20 .. 119 ]
+sequence
+----------AMKEKHVPTIETEA----DLIRVIVGE-TAHPNTVEHHIAWVELYTG-------GEVVVN
+FSPGN-------------TKPDCWFKLENI---SEYALGYCNIHGLWEN-----*
+>P1;gi|21226734|ref|NP_632656.1| Desulfoferrodoxin [Methanosarcina m... [ score 59 E 3e-08 ] [ range 15 .. 138 ]
+sequence
+-----ANLTEGEK-KHVPVIEAPE----MEVAVTVGS-IPHVMEEKHFIEWVELYLH-------NKLVRK
+ELDPS-------------GEKVATFEVEAD---ELRAVEKCNVHGIWE------*
+>P1;gi|41614807|ref|NP_963305.1| NEQ011 [Nanoarchaeum equitans Kin4-... [ score 55 E 3e-07 ] [ range 9 .. 106 ]
+sequence
+--------------KHSPIIEIEK----EGELYKIKE-VKHPNEPSHHIQWVDLYFE-------PEKAHG
+EYNNY-------------TEPKAIVYAKKG---KLIAISYCTLHGLWKTE----*

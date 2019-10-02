@@ -1,0 +1,324 @@
+>P1;1lkya
+structureX:1lky:  15 :A:  91 :A:Transcription factor ETV6, pointed domain:Homo Sapiens: 2.30: 23.2
+-----------------------------SIRLPAHLRLQPIYWSRDDVAQWLKWAENEFSLRPIDSNTF
+EMNGKALLLLTKEDFRYRSP-HSGDRLYELLQHILKQ---*
+>P1;1bqv
+structureN:1bqv:   1 : : 110 : :Ets-1, pointed domain and map kinase phosphorylation site:Mus musculus: -1: -1
+MECADVPLLTPSSKEMMSQALKATFSGFTKEQQRLGIPKDPRQWTETHVRDWVMWAVNEFSLKGVDFQKF
+CMSGAALCALGKECFLELAPDFVGDILWEHLEILQKEDVK*
+>P1;gi|34761802|gb|AAQ82054.1| TEL/JAK2 fusion protein [Danio rerio] [ score 130 E 9e-30 ] [ range 49 .. 123 ]
+sequence
+-------------------------------RLPAHLRMQPVFWSREDVCVWLRWAEREFALRPISSGSF
+QMNGKALLLLTKEDFRYRSP-HSGDVLYELLQHILKQ---*
+>P1;gi|3023730|sp|P97360|ETV6_MOUSE Transcription factor ETV6 (ETS-r... [ score 129 E 2e-29 ] [ range 48 .. 124 ]
+sequence
+-----------------------------SIHLPTHLRLQPIYWSRDDVAQWLKWAENEFSLRPIESNKF
+EMNGKALLLLTKEDFRYRSP-HSGDVLYELLQHILKQ---*
+>P1;gi|14133550|gb|AAK54061.1| ets variant gene 6 protein [Takifugu ... [ score 127 E 6e-29 ] [ range 47 .. 121 ]
+sequence
+-------------------------------RLPAHLRLQPVFWSRDDVAQWLRWAEKEFALRPITSGSF
+QMNGKPLLLLTKEDFRYRSP-HSGDVLYELLQHILKQ---*
+>P1;gi|26345232|dbj|BAC36266.1| unnamed protein product [Mus musculus] [ score 125 E 2e-28 ] [ range 65 .. 135 ]
+sequence
+------------------------------------IPKDPRQWTETHVRDWVMWAVNEFSLKGVDFHKF
+CMSGAALCALGKECFLALAP-FVGDILWEHLEILQKE---*
+>P1;gi|119648|sp|P13474|ETSA_CHICK Transforming protein p54/c-ets-1 ... [ score 124 E 5e-28 ] [ range 65 .. 135 ]
+sequence
+------------------------------------IPKDPQQWTETHVRDWVMWAVNEFSLKGVDFQKF
+CMNGAALCALGKECFLERPD-FVGDILWEHLEILQKE---*
+>P1;gi|6970608|gb|AAF25007.3| transcription factor ets [Homo sapiens] [ score 123 E 1e-27 ] [ range 42 .. 116 ]
+sequence
+-------------------------------KLPGRLRIQPALWSREDVLHWLRWAEQEYSLPCTAEHGF
+EMNGRALCILTKDDFRHRAP-SSGDVLYELLQYIKTQ---*
+>P1;gi|24649291|ref|NP_524461.2| pointed CG17077-PB [Drosophila mela... [ score 111 E 3e-24 ] [ range 177 .. 248 ]
+sequence
+-----------------------------------NITKDPREWTEEHVIYWLNWAKNEFSLVSMNLDPF
+YMKGRAMVDLGKEKFLITPP-FTGDILWEHLDILQK----*
+>P1;gi|6679807|ref|NP_032052.1| Friend leukemia integration 1 [Mus m... [ score 109 E 2e-23 ] [ range 126 .. 195 ]
+sequence
+------------------------------------VPADPTLWTQEHVRQWLEWAIKEYGLMEIDTSFF
+QMDGKELCKMNKEDFRATSA-YNTEVLLSHLSYLR-----*
+>P1;gi|3821248|emb|CAA76731.1| FLI-1 [Homo sapiens] [ score 107 E 7e-23 ] [ range 69 .. 138 ]
+sequence
+------------------------------------VPADPTLWTQEHVRQWLEWAIKEYSLMEIDTSFF
+QMDGKELCKMNKEDFRATTL-YNTEVLLSHLSYLR-----*
+>P1;gi|34864417|ref|XP_235979.2| similar to retrovirus integration s... [ score 106 E 1e-22 ] [ range 93 .. 162 ]
+sequence
+------------------------------------VPADPTLWTQEHVRQWLEWAIKEYGLMEIDTSFF
+QMDGKELCKMSKEDFRATSL-YNTEVLLSHLSYLR-----*
+>P1;gi|3869356|gb|AAC97200.1| ets domain protein [Gallus gallus] [ score 106 E 1e-22 ] [ range 1 .. 62 ]
+sequence
+--------------------------------------------SRDDVAQWLRWAEKEFSLRPIESNTF
+EMNGKALLLLTKEDFRYRSP-HSGDVLYELLQHILKQ---*
+>P1;gi|729524|sp|P41157|FLI1_XENLA Retroviral integration site prote... [ score 105 E 2e-22 ] [ range 125 .. 194 ]
+sequence
+------------------------------------VPADPALWSQDHVRQWLEWAIKEYGLVEIDCSLF
+QIDGKELCKMSKEDFRSTSI-YNTEVLLSHLNYLR-----*
+>P1;gi|33417211|gb|AAH55627.1| Zgc:5777174 protein [Danio rerio] [ score 103 E 1e-21 ] [ range 138 .. 207 ]
+sequence
+------------------------------------VPADPEVWTQDHVRQWVDWAIKEYALSDVDVSLF
+QLDGKALCKLSKEDMRITSA-YNTDILLSHLNYLR-----*
+>P1;gi|7305415|ref|NP_038919.1| SAM pointed domain containing ets tr... [ score 103 E 1e-21 ] [ range 132 .. 198 ]
+sequence
+-----------------------------------NITADPGDWSPGNVQKWLLWTEHQYRLPPAGKAFQ
+ELGGKELCAMSEEQFRQRAP-LGGDVLHAHLDI-------*
+>P1;gi|422835|pir||S29844 transforming protein fli, short splice for... [ score 97 E 7e-20 ] [ range 60 .. 129 ]
+sequence
+------------------------------------VPADATLVTQEHVRQWLEWAIKEYSLMEIDTSFF
+QMDGKELCKMNKEDFRATTL-YNTEVLLSHLSYLR-----*
+>P1;gi|24111240|ref|NP_571423.1| friend leukemia integration 1 [Dani... [ score 97 E 1e-19 ] [ range 125 .. 194 ]
+sequence
+------------------------------------VPADPSLWSPDHVRQWLDWAIKEYGLQEIDTAMF
+HTDGKELCKMSKDDFRLTSV-YNTEVLLSHLNYLR-----*
+>P1;gi|40806090|gb|AAR92036.1| transcription factor Erg [Strongyloce... [ score 96 E 2e-19 ] [ range 105 .. 173 ]
+sequence
+------------------------------------VPADPNMWTAEHVQQWVQWAVREYSLVDVQVSRF
+NMDGKHLCKMTRDDFRLTNN-LNVDVLISHLTFLK-----*
+>P1;gi|24650435|ref|NP_524523.2| Ets at 97D CG6338-PA [Drosophila me... [ score 80 E 1e-14 ] [ range 194 .. 266 ]
+sequence
+------------------------------IRL--KIPEAANEWTHAHVTYWLEWAVKQFELVGINMSDW
+QMNGQELCAMTHEEFNQKLP-DPGNIFWTHLQLLK-----*
+>P1;gi|40642811|emb|CAD58965.1| Ets protein [Ciona intestinalis] [ score 69 E 2e-11 ] [ range 2 .. 67 ]
+sequence
+----------------------------------------PLIWSPCHVTAWLEWVVNEYGLHHIDLTKF
+SVTGTELCRMNVEDLRYTTR-YNSEVLVQHLKFLK-----*
+>P1;gi|22024014|ref|NP_523786.2| modulator of the activity of Ets CG... [ score 58 E 5e-08 ] [ range 100 .. 165 ]
+sequence
+------------------------------------LPLDPRDWTRADVWKWLNMAVSEGLEVTAELQKF
+PMNGKALCLMSLDMYLCRVP-VGGKMLYRDF---------*
+>P1;gi|22760200|dbj|BAC11101.1| unnamed protein product [Homo sapiens] [ score 57 E 8e-08 ] [ range 51 .. 118 ]
+sequence
+----------------------------------------PEYWTKRHVWEWLQFCCDQYKLNCISFCNF
+NISGLQLCSMTQEEFVEAAG-LCGEYLYFILQNIRTQ---*
+>P1;gi|34857441|ref|XP_345410.1| similar to E74-like factor 5 [Rattu... [ score 57 E 1e-07 ] [ range 92 .. 159 ]
+sequence
+----------------------------------------PEYWTKRHVWEWLQFCCDQYKLNCISFCHF
+NISGLQLCSMTQEEFIEAAG-ICGEYLYFILQNIRSQ---*
+>P1;gi|34856593|ref|XP_215790.2| similar to EHF [Rattus norvegicus] [ score 52 E 3e-06 ] [ range 218 .. 285 ]
+sequence
+--------------------------------------IHPQYWTKYQVWEWLLLDTNQLDASCIPFQEF
+DISGEHLCSMSLQEFTRAAG-SAGQLLYSNLQHLK-----*
+>P1;gi|7512413|pir||JC7115 ets homologous factor, EHF protein - human [ score 52 E 4e-06 ] [ range 45 .. 112 ]
+sequence
+--------------------------------------IHPQYWTKYQVWEWLLLDTNQLDANCIPFQEF
+DINGEHLCSMSLQEFTRAAG-TAGQLLYSNLQHLK-----*
+>P1;gi|7496876|pir||T19655 hypothetical protein C33A11.4 - Caenorhab... [ score 50 E 8e-06 ] [ range 144 .. 206 ]
+sequence
+--------------------------------------KDPNEWLVDDVVAWMLDVAKRHNIPEMNMHKF
+AMSGQEMLTMSERCFIERDP-VFGNLIFN-----------*
+>P1;gi|39586706|emb|CAE65748.1| Hypothetical protein CBG10834 [Caeno... [ score 46 E 2e-04 ] [ range 160 .. 222 ]
+sequence
+------------------------------------LPTDFYLWTPEHGARWINEMCQQFTLQP-PRNCF
+-VTGRVLLGMSQKDFEMFLP-EGGDTLHAQLQ--------*
+>P1;gi|28317369|tpe|CAD29859.1| TPA: ETs transcription factor [Homo ... [ score 44 E 6e-04 ] [ range 63 .. 125 ]
+sequence
+---------------------------------------QPQFWSKTQVLDWISYQVNKYDASAIDFSRC
+DMDGATLCNCALEELRLVFG-PLGDQLHAQL---------*
+>P1;gi|127587|sp|P01105|MYBE_AVILE p135Gag-Myb-Ets transforming prot... [ score 206 E 1e-52 ] [ range 254 .. 363 ]
+sequence
+MECADVPLLTPSSKEMMSQALKATFSGFAKEQQRLGIPKDPQQWTETHVRDWVMWAVNEFSLKGVDFQKF
+CMNGAALCALGKECFLELAPDFVGDILWEHLEILQKEEAK*
+>P1;gi|6753782|ref|NP_035938.1| E26 avian leukemia oncogene 1, 5' do... [ score 200 E 4e-51 ] [ range 29 .. 138 ]
+sequence
+MECADVPLSTPSSKEMMSQALKSYFSGFTKEQQRRGIPKDPRQWTDTHVRDWVMWAVNEFSLKGVDFHKF
+CMSGAAVCALGKECFLELAPDFVGDILWEHLEILQKEDVK*
+>P1;gi|119649|sp|P18755|ET1A_XENLA C-ETS-1A protein >gi|103997|pir||... [ score 195 E 2e-49 ] [ range 27 .. 134 ]
+sequence
+MECADVPLLTPSSKEMMSQALRATFSRFTKEQQRLGIPIDPREWTDMHVREWVSWAVNEFTLKGVDFQKF
+CMSGAALCALGKECFLELAPDFVGDILWEHLEILQKDS--*
+>P1;gi|4885221|ref|NP_005230.1| v-ets erythroblastosis virus E26 onc... [ score 181 E 3e-45 ] [ range 67 .. 170 ]
+sequence
+----ELPLLTPCSKAVMSQALKATFSGFKKEQRRLGIPKNPWLWSEQQVCQWLLWATNEFSLVNVNLQRF
+GMNGQMLCNLGKERFLELAPDFVGDILWEHLEQMIKEN--*
+>P1;gi|45384342|ref|NP_990643.1| v-ets avian erythroblastosis virus ... [ score 180 E 5e-45 ] [ range 70 .. 173 ]
+sequence
+----ELPLLTPCSKAVMSQALKDTFSGFTKEQCRLGIPNNPWLWTEQHVCQWLAWATNEFSLANVNIHQF
+LMSGQDLCNLGKERFLELAPDYVGDILWEHLEQMIKDS--*
+>P1;gi|2842684|sp|Q91712|ET2B_XENLA C-ETS-2B protein >gi|542635|pir|... [ score 179 E 1e-44 ] [ range 67 .. 169 ]
+sequence
+----ELPLLTPCSKAVMSQALKDTFNGFAKERCRLGIPGNPWLWDENNVLQWLLWAAKEFSLENVNFQKF
+LMNGHELCSLGKERFLALAPDFVGDILWEHLEEMMKE---*
+>P1;gi|3046688|gb|AAC39261.1| transcription factor Ets-2 [Ovis aries] [ score 178 E 2e-44 ] [ range 23 .. 126 ]
+sequence
+----ELPLLTPCSKAVMSQALKATFSGFKKEQRRLGIPKSPWLWTEQQVCQWLLWATNEFSLVDVNLQRF
+GMTGQVLCNLGKERFLELAPDFVGDILWEHLEQMIKEN--*
+>P1;gi|119646|sp|P15037|ETS2_MOUSE C-ETS-2 protein >gi|7428547|pir||... [ score 177 E 3e-44 ] [ range 67 .. 170 ]
+sequence
+----ELPLLTPCSKAVMSQALKATFSGFQKEQRRLGIPKNPWLWSEQQVCQWLLWATNEFSLVNVNLHQF
+GMNGQMLCNLGKERFLELAPDFVGDILWEHLEQMIKEN--*
+>P1;gi|34867709|ref|XP_239510.2| similar to C-ETS-2 protein [Rattus ... [ score 177 E 5e-44 ] [ range 67 .. 170 ]
+sequence
+----ELPLLTPCSKAVMSQALKATFSGFHKEQRRLGIPKNPWLWNEQQVCQWLHWATNEFSLVNVNLQRF
+GMNGQMLCNLGKERFLELAPDFVGDILWEHLEQMIKEN--*
+>P1;gi|310662|gb|AAA30048.1| ETS homologue [ score 166 E 1e-40 ] [ range 103 .. 204 ]
+sequence
+-----VPPPTPGTNALMNACLRESFSSFKKEQERLGIPKDPSRWSECQVVAWVHWSIKEFSLEGVSINNF
+RISGRDLCTLPKTDFLSRAPPFMGDILWEHIDMLRKE---*
+>P1;gi|422446|pir||S33168 gene pointed protein splice form 2 - fruit... [ score 159 E 9e-39 ] [ range 147 .. 249 ]
+sequence
+-----LPPLTPGTNRKVNEVLKASFASWEKEVQKCNITKDPREWTEEHVIYWLNWAKNEFSLVSMNLDPF
+YMKGRAMVDLGKEKFLAITPPFTGDILWEHLDILQKD---*
+>P1;gi|29603488|dbj|BAC67709.1| Ets transcription factor [Halocynthi... [ score 148 E 2e-35 ] [ range 215 .. 314 ]
+sequence
+------PLVTPGTGAKINDAIRETFESFKTVIERNNMPKDPRQWSPYQVIEWTRWITGEFSIPSLDEGNF
+NIQGSVLCALRKEGFLKLCPPFVGEILLEHLEQLQK----*
+>P1;gi|31212431|ref|XP_315200.1| ENSANGP00000024104 [Anopheles gambi... [ score 147 E 4e-35 ] [ range 1 .. 102 ]
+sequence
+------PPLTPGTNKKLTEVLYASFASWEKEVQTFKITKDPRQWTAEHVLIWLNWSIKEFSLEGVNKEPF
+QMSGRDIVGLGREGFLAIAPPFTGDILWEHLEILQKD---*
+>P1;gi|34452721|ref|NP_002031.2| GA binding protein transcription fa... [ score 147 E 6e-35 ] [ range 152 .. 249 ]
+sequence
+--------ITTISDETSEQVTRAALEGYRKEQERLGIPYDPIQWSTDQVLHWVVWVMKEFSMTDIDLTTL
+NISGRELCSLNQEDFFQRVPR--GEILWSHLELLRK----*
+>P1;gi|3046690|gb|AAC39262.1| transcription factor GABP alpha subuni... [ score 144 E 4e-34 ] [ range 34 .. 131 ]
+sequence
+--------ITTISDETSEQVTRAALEGYRKEQERLGIPYDPIQWSTDQVLHWVVWVMKEFSMTDIHLTTL
+NISGRELCSLSQEDFFQRVPR--GEILWSHLELLRK----*
+>P1;gi|33417211|gb|AAH55627.1| Zgc:5777174 protein [Danio rerio] [ score 135 E 3e-31 ] [ range 113 .. 210 ]
+sequence
+-----------SYPEPRSSPQTATPPSSTTEEKRVIVPADPEVWTQDHVRQWVDWAIKEYALSDVDVSLF
+QLDGKALCKLSKEDMMRITSAYNTDILLSHLNYLRESS--*
+>P1;gi|4204471|gb|AAD13395.1| transcription factor E4TF1 [Takifugu r... [ score 134 E 4e-31 ] [ range 149 .. 242 ]
+sequence
+------------SDEASEQVTRAALEGYRKEQVRLGIPYDPVLWSADQVIHWAVWVMKEFNIDEMEIGSI
+HIPGRDLCSFSQEEFLQKVP--NGEILWSHLELLRK----*
+>P1;gi|34867845|ref|XP_344003.1| similar to GA binding protein alpha... [ score 133 E 7e-31 ] [ range 152 .. 244 ]
+sequence
+--------ITTISDETSEQVTRAALEGYRKEQERLGIPYDPIQWSTDQVLHWVVWVMKEFSMTDIDLTTL
+NISGRELCSLNQEDFFQRVPR--GEILWNVL---------*
+>P1;gi|28279944|gb|AAH44341.1| E4tf protein [Danio rerio] [ score 133 E 8e-31 ] [ range 174 .. 266 ]
+sequence
+-------------DETSEQVTRAALEGYRKEQVRLNIPYDPVQWTADQVIHWAVWVMKEFGIDEMEVGGI
+HIPGRQLCGFSQEEFLQRVPS--GEILWSHLELLRK----*
+>P1;gi|5420046|emb|CAB46566.1| erg [Xenopus laevis] [ score 130 E 6e-30 ] [ range 123 .. 206 ]
+sequence
+-----------------------SPPNMTTNERRVIVPADPTLWSTDHVRQWLEWAIKEYGLPDVDVLLF
+NIDGKELCKMTKEDFHRLTPSYNADILLSHLHYLRE----*
+>P1;gi|6679807|ref|NP_032052.1| Friend leukemia integration 1 [Mus m... [ score 130 E 8e-30 ] [ range 114 .. 199 ]
+sequence
+------------------------PPNMTTNERRVIVPADPTLWTQEHVRQWLEWAIKEYGLMEIDTSFF
+NMDGKELCKMNKEDFLRATSAYNTEVLLSHLSYLRESSL-*
+>P1;gi|7110593|ref|NP_002008.2| Friend leukemia virus integration 1 ... [ score 130 E 8e-30 ] [ range 114 .. 199 ]
+sequence
+------------------------PPNMTTNERRVIVPADPTLWTQEHVRQWLEWAIKEYSLMEIDTSFF
+NMDGKELCKMNKEDFLRATTLYNTEVLLSHLSYLRESSL-*
+>P1;gi|17887441|gb|AAL40889.1| erg isoform C-1-1 [Gallus gallus] [ score 129 E 1e-29 ] [ range 115 .. 197 ]
+sequence
+------------------------PPNMTTNERRVIVPADPTLWSTDHVRQWLEWAVKEYGLPDVDILLF
+NIDGKELCKMTKDDFQRLTPSYNADILLSHLHYLRE----*
+>P1;gi|34864417|ref|XP_235979.2| similar to retrovirus integration s... [ score 129 E 1e-29 ] [ range 81 .. 166 ]
+sequence
+------------------------PPNMTTNERRVIVPADPTLWTQEHVRQWLEWAIKEYGLMEIDTSFF
+NMDGKELCKMSKEDFLRATSLYNTEVLLSHLSYLRESSL-*
+>P1;gi|24111240|ref|NP_571423.1| friend leukemia integration 1 [Dani... [ score 127 E 4e-29 ] [ range 111 .. 197 ]
+sequence
+----------------------APPPNMTTNERRVIVPADPSLWSPDHVRQWLDWAIKEYGLQEIDTAMF
+HTDGKELCKMSKDDFLRLTSVYNTEVLLSHLNYLRESS--*
+>P1;gi|31209299|ref|XP_313616.1| ENSANGP00000003642 [Anopheles gambi... [ score 127 E 4e-29 ] [ range 132 .. 232 ]
+sequence
+-----------SAKENAAEPASGTGEAFKRDQQRLNIPDDPNEWTVAQVKHWIQWAVRTFNLNGIKLQDW
+SISGKELCELDLDDFKLKAPNDPGGLFWMHLELLRRHKI-*
+>P1;gi|729524|sp|P41157|FLI1_XENLA Retroviral integration site prote... [ score 127 E 4e-29 ] [ range 113 .. 197 ]
+sequence
+------------------------PPNMTTNERRVIVPADPALWSQDHVRQWLEWAIKEYGLVEIDCSLF
+NIDGKELCKMSKEDFLRSTSIYNTEVLLSHLNYLRDSS--*
+>P1;gi|40806090|gb|AAR92036.1| transcription factor Erg [Strongyloce... [ score 127 E 5e-29 ] [ range 74 .. 174 ]
+sequence
+---------TGSTPEERSASAGTTGRSPTTNEKRVIVPADPNMWTAEHVQQWVQWAVREYSLVDVQVSRF
+NMDGKHLCKMTRDDFSRLTNNLNVDVLISHLTFLKQ----*
+>P1;gi|3269303|emb|CAA75077.1| FLI transcription factor [Coturnix co... [ score 127 E 5e-29 ] [ range 114 .. 198 ]
+sequence
+------------------------PPNMTTNERRVIVPADPTLWTQEHVRQWLEWAIKEYGLMEIDTTFF
+NMDGKELCKMNKDDFLRTTSLYNTEVLLSHLSYLRESS--*
+>P1;gi|16197543|dbj|BAB69949.1| homolog of human ets-related gene (E... [ score 127 E 7e-29 ] [ range 122 .. 204 ]
+sequence
+------------------------PPNMTTNERRVIVPADPTLWSTDHVRQWLEWAVKEYGLLDVDVLLF
+NIDGKELCKMTKDDFQRLTPSYNADILLSHLHYLRE----*
+>P1;gi|24650435|ref|NP_524523.2| Ets at 97D CG6338-PA [Drosophila me... [ score 125 E 2e-28 ] [ range 187 .. 267 ]
+sequence
+-------------------------SKFKREQIRLKIPEAANEWTHAHVTYWLEWAVKQFELVGINMSDW
+QMNGQELCAMTHEEFNQKLPRDPGNIFWTHLQLLKE----*
+>P1;gi|182660|gb|AAA58479.1| alternate [ score 121 E 4e-27 ] [ range 113 .. 198 ]
+sequence
+------------------------PPNMTTNERRVIVPADATLVTQEHVRQWLEWAIKEYSLMEIDTSFF
+NMDGKELCKMNKEDFLRATTLYNTEVLLSHLSYLRESSL-*
+>P1;gi|7274372|gb|AAF44742.1| Ets transcription factor TEL2E [Homo s... [ score 106 E 1e-22 ] [ range 39 .. 116 ]
+sequence
+--------------------------GICKLPGRLRI--QPALWSREDVLHWLRWAEQEYSLPCTAEHGF
+EMNGRALCILTKDDFRHRAPS-SGDVLYELLQYIKTQ---*
+>P1;gi|41411205|emb|CAF22091.1| ETS activity modulator [Tribolium ca... [ score 100 E 1e-20 ] [ range 16 .. 97 ]
+sequence
+--------------------------GPTERWQRLNLPKDPRQWTREHVAQWINLVTQQHGLPEVPSSRF
+LMNGKALCLMSLGMFLSRVP-LGGKLLYKDFQL-------*
+>P1;gi|4105414|gb|AAD13802.1| ETS DNA binding protein Yan [Drosophil... [ score 99 E 2e-20 ] [ range 40 .. 117 ]
+sequence
+-----------------------------KTQLPPSLPSDPRLWSRDDVLDFLRFCVREFDLPKLDFDLF
+QMNGKALCLLTRADFGHRCPG-AGDVLHNVLQMLIIES--*
+>P1;gi|24581025|ref|NP_722766.1| anterior open CG3166-PA [Drosophila... [ score 97 E 7e-20 ] [ range 40 .. 117 ]
+sequence
+-----------------------------KTQLPPSLPSDPRLWSREDVLVFLRFCVREFDLPKLDFDLF
+QMNGKALCLLTRADFGHRCPG-AGDVLHNVLQMLIIES--*
+>P1;gi|40642811|emb|CAD58965.1| Ets protein [Ciona intestinalis] [ score 94 E 5e-19 ] [ range 2 .. 68 ]
+sequence
+----------------------------------------PLIWSPCHVTAWLEWVVNEYGLHHIDLTKF
+SVTGTELCRMNVEDLTRYTTRYNSEVLVQHLKFLKQ----*
+>P1;gi|6912580|ref|NP_036523.1| SAM pointed domain containing ets tr... [ score 92 E 2e-18 ] [ range 141 .. 208 ]
+sequence
+----------------------------------LNITADPMDWSPSNVQKWLLWTEHQYRLPPMGKAFQ
+ELAGKELCAMSEEQFRQRSP-LGGDVLHAHLDI-------*
+>P1;gi|7305415|ref|NP_038919.1| SAM pointed domain containing ets tr... [ score 92 E 3e-18 ] [ range 131 .. 198 ]
+sequence
+----------------------------------LNITADPGDWSPGNVQKWLLWTEHQYRLPGKAFQE-
+-LGGKELCAMSEEQFRQRAP-LGGDVLHAHLDI-------*
+>P1;gi|31415874|ref|NP_031987.2| ets variant gene 6 (TEL oncogene); ... [ score 91 E 5e-18 ] [ range 19 .. 124 ]
+sequence
+------PPESPVASHRSSTPLHTVPRALRMEEDSIHLPTQPIYWSRDDVAQWLKWAENEFSLRPIESNKF
+EMNGKALLLLTKEDFRYRSPH-SGDVLYELLQHILKQ---*
+>P1;gi|34761802|gb|AAQ82054.1| TEL/JAK2 fusion protein [Danio rerio] [ score 91 E 8e-18 ] [ range 37 .. 123 ]
+sequence
+-----------------------APNTARTEEETSRLPAQPVFWSREDVCVWLRWAEREFALRPISSGSF
+QMNGKALLLLTKEDFRYRSPH-SGDVLYELLQHILKQ---*
+>P1;gi|14133550|gb|AAK54061.1| ets variant gene 6 protein [Takifugu ... [ score 88 E 4e-17 ] [ range 21 .. 121 ]
+sequence
+-------PLPNSTSSPVHAP--AARPASRMEDEPARLPAQPVFWSRDDVAQWLRWAEKEFALRPITSGSF
+QMNGKPLLLLTKEDFRYRSPH-SGDVLYELLQHILKQ---*
+>P1;gi|31202147|ref|XP_310021.1| ENSANGP00000014555 [Anopheles gambi... [ score 79 E 2e-14 ] [ range 40 .. 116 ]
+sequence
+-----------------------------KTQLPPQLNTDPRIWGRDEVVVFLRFCEREFDLPKFDLDLF
+QMNGKALCVLTKNDLAERSPG-AGDVLHNVLQMLIRD---*
+>P1;gi|31200725|ref|XP_309310.1| ENSANGP00000018508 [Anopheles gambi... [ score 62 E 3e-09 ] [ range 190 .. 262 ]
+sequence
+----------------------------------LGISSDPKQWTTAKVHQWLELAMGKYFLPRLDAALF
+PENGAQLAALPLEEFVRRIPQ-GGDKLHGYLDLWKQ----*
+>P1;gi|4406284|gb|AAD19942.1| Ets4 transcription factor [Strongyloce... [ score 59 E 2e-08 ] [ range 97 .. 187 ]
+sequence
+-------------NEMMRLLMREMIPDILEDCHKLNLIPNVYCWTPEDVQKWLLCVANRFELGELEMGHF
+YINGPTLATLQDVDFRHRAPKC-GDILYSVVCLLK-----*
+>P1;gi|22024014|ref|NP_523786.2| modulator of the activity of Ets CG... [ score 57 E 1e-07 ] [ range 99 .. 162 ]
+sequence
+-----------------------------------GLPLDPRDWTRADVWKWLNMAVSE-GLEVTAEQKF
+PMNGKALCLMSLDMYLCRVPV-GGKMLY------------*
+>P1;gi|45446685|gb|AAF56746.2| CG5583-PA [Drosophila melanogaster] [ score 57 E 1e-07 ] [ range 270 .. 339 ]
+sequence
+----------------------------------LQISQDPNGWSPAQVHAWLRSTLAQFRLPPVAELHF
+CENGAALALLSEEEFVRRLPE-SGSTLHAQLEI-------*
+>P1;gi|17647397|ref|NP_523445.1| Ets at 21C CG2914-PA [Drosophila me... [ score 56 E 2e-07 ] [ range 111 .. 214 ]
+sequence
+-----LPLATPSSPHQAPSPRRNS-SDSNRSVSPVEVPVDPHAWTPEDIASWVRWATRKFKLPEPDIDRF
+PKDAQELCDLSRADFWVCASRRGGMLLAQHFAI-------*
+>P1;gi|27436883|ref|NP_036285.2| ets homologous factor isoform b; ep... [ score 56 E 2e-07 ] [ range 47 .. 112 ]
+sequence
+----------------------------------------PQYWTKYQVWEWLQLDTNQLDANCIPFQEF
+DINGEHLCSMSLQEFT-RAAGTAGQLLYSNLQHLK-----*
+>P1;gi|34856593|ref|XP_215790.2| similar to EHF [Rattus norvegicus] [ score 55 E 3e-07 ] [ range 220 .. 285 ]
+sequence
+----------------------------------------PQYWTKYQVWEWLQLDTNQLDASCIPFQEF
+DISGEHLCSMSLQEFT-RAAGSAGQLLYSNLQHLK-----*
+>P1;gi|39586706|emb|CAE65748.1| Hypothetical protein CBG10834 [Caeno... [ score 45 E 4e-04 ] [ range 157 .. 222 ]
+sequence
+---------------------------------KLGLPTDFYLWTPEHGARWINEMCQQFTLQ--PPRNC
+FVTGRVLLGMSQKDFEMFLPE-GGDTLHAQLQ--------*
+>P1;gi|17567253|ref|NP_509099.1| sterile alpha motif /Pointed domain... [ score 44 E 6e-04 ] [ range 164 .. 229 ]
+sequence
+---------------------------------KLGLPNDFYLWSSEHGARWINEMCMQFNLQ--PPRNC
+SITGIDLLGMSQKDFEMILPA-GGDTLHAQLQ--------*

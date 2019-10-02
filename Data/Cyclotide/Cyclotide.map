@@ -1,0 +1,21 @@
+>P1;1df6a
+structureN:1df6:   1 :A:  30 :A:Cycloviolacin O1:Viola odorata: -1: -1
+--------SCVYIPCTVTALLGCSCSNRVCYN-GIPCAE*
+>P1;1bh4
+structureN:1bh4:   1 : :  30 : :Circulin A:Chassalia parviflora: -1: -1
+-----CGESCVWIPCISAAL-GCSCKNKVCYRNGIP---*
+>P1;1k48a
+structureN:1k48:   8 :A:  36 :A:Kalata B1:Oldenlandia affinis: -1: -1
+NGLPVCGETCVGGTCNTP---GCTCSWPVCTR-------*
+>P1;gi|17433130|sp|P58457|KAB7_OLDAF Kalata B7 precursor >gi|1566774... [ score 60 E 2e-08 ] [ range 76 .. 103 ]
+sequence
+-GLPVCGETCTLGTCYTQ---GCTCSWPICKR-------*
+>P1;gi|17433127|sp|P58454|KAB2_OLDAF Kalata B2 precursor >gi|1566774... [ score 51 E 7e-06 ] [ range 67 .. 94 ] [ duplicate a ]
+sequence
+-GLPVCGETCFGGTCNTP---GCSCTWPICTR-------*
+>P1;gi|17433128|sp|P58455|KAB3_OLDAF Kalata B3/B6 precursor >gi|1566... [ score 47 E 1e-04 ] [ range 67 .. 95 ] [ duplicate a ]
+sequence
+-GLPTCGETCFGGTCNTP---GCSCSWPICTR-------*
+>P1;gi|17433128|sp|P58455|KAB3_OLDAF Kalata B3/B6 precursor >gi|1566... [ score 47 E 1e-04 ] [ range 122 .. 150 ] [ duplicate b ]
+sequence
+-GLPTCGETCFGGTCNTP---GCTCDWPICTR-------*

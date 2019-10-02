@@ -1,0 +1,828 @@
+>P1;1cgii
+structureX:1cgi:   1 :I:  56 :I:pancreatic secretory trypsin inhibitor:Homo sapiens: 2.30:19.50
+--DSLGREAKCYN---ELNGCTYEYRPVCGTDGDTYPNECVLCFENRKRQTSILIQKSGPC*
+>P1;1tgsi
+structureX:1tgs:   1 :I:  56 :I:pancreatic secretory trypsin inhibitor:Sus scrofa: 1.80:18.60
+--TSPQREATCTS---EVSGCPKIYNPVCGTDGITYSNECVLCSENKKRQTPVLIQKSGPC*
+>P1;1pce
+structureN:1pce:   1 : :  60 : :PEC-60:Sus scrofa:-1.00:-1.00
+EKQVFSRMPICEHM-TESPDCSRIYDPVCGTDGVTYESECKLCLARIENKQDIQIVKDGEC*
+>P1;2ovo
+structureX:2ovo:   1 : :  56 : :third domain ovomucoid inhibitor:Lophura nycthemera: 1.50:19.90
+---LAAVSVDCSE--YPKPACTMEYRPLCGSDNKTYGNKCNFCNAVVESNGTLTLSHFGKC*
+>P1;1ovoa
+structureX:1ovo:   1 :A:  56 :A:third domain ovomucoid inhibitor:Coturnix coturnix Japonica: 1.90:20.00
+---LAAVSVDCSE--YPKPACPKDYRPVCGSDNKTYSNKCNFCNAVVESNGTLTLNHFGKC*
+>P1;2bus
+structureN:2bus:   2 : :  57 : :seminal plasma proteinase inhibitor IIA:Bos taurus:-1.00:-1.00
+-----GAQVDCAEFKDPKVYCTRESNPHCGSNGETYGNKCAFCKAVMKSGGKINLKHRGKC*
+>P1;gi|671745|emb|CAA59046.1| hybrid PSTI-pIII [synthetic construct] [ score 111 E 3e-24 ] [ range 1 .. 56 ]
+sequence
+--DSLGREAKCYN---ELNGCTKIYDPVCGTDGNTYPNECVLCFENRKRQTSILIQKSGPC*
+>P1;gi|209169|gb|AAA72684.1| synthetic pancreatic secretory trypsin ... [ score 91 E 6e-18 ] [ range 1 .. 56 ]
+sequence
+--DSLGREAKCYN---ELNGCTKIYNPVCGTDGDTYPNECVLCFENRKRQTSILIQKSGPC*
+>P1;gi|6678105|ref|NP_033284.1| serine protease inhibitor, Kazal typ... [ score 86 E 2e-16 ] [ range 28 .. 80 ]
+sequence
+-----GKEASCHD---AVAGCPRIYDPVCGTDGITYANECVLCFENRKRIEPVLIRKGGPC*
+>P1;gi|6016390|sp|P81634|IPK1_HORSE Pancreatic secretory trypsin inh... [ score 84 E 9e-16 ] [ range 1 .. 56 ]
+sequence
+--DSLGREAKCNN---NAGGCTKIYNPVCGTDGNTYPNECMLCVENQKRQMPVLIQRSGPC*
+>P1;gi|6981578|ref|NP_036806.1| serine protease inhibitor, Kazal typ... [ score 83 E 2e-15 ] [ range 27 .. 79 ]
+sequence
+-----GKTPNCPK---QIMGCPRIYDPVCGTNGITYPSECSLCFENRKFGTSIHIQRRGTC*
+>P1;gi|124855|sp|P04542|IPK1_CANFA Pancreatic secretory trypsin inhi... [ score 77 E 1e-13 ] [ range 4 .. 57 ]
+sequence
+----LQRQANCNL---KVNGCNKIYNPICGSDGITYANECLLCLENKKRQTSILVEKSGPC*
+>P1;gi|6016391|sp|P81635|IPK1_MONDO Pancreatic secretory trypsin inh... [ score 76 E 2e-13 ] [ range 3 .. 55 ]
+sequence
+-----GRDANCNY---EFPGCPRNLEPVCGTDGNTYNNECLLCMENKKRDVPIRIQKDGPC*
+>P1;gi|4966317|gb|AAA88778.2| vitellogenin [Anolis pulchellus] [ score 75 E 4e-13 ] [ range 8 .. 54 ]
+sequence
+-----------PG---EKAACTLEYAPVCGSDGITYDNKCLFCVAKRDSGNTITIEREGPC*
+>P1;gi|462373|sp|P34953|IAC_MACFA Acrosin-trypsin inhibitor II precu... [ score 71 E 1e-11 ] [ range 26 .. 81 ]
+sequence
+---SKYKTPFCRY---QLPGCPRDFNPVCGTDMITYPNECTLCMKIRESGQNIKILRRGPC*
+>P1;gi|13959399|sp|Q9PSM2|IPK1_STRCA Pancreatic secretory trypsin in... [ score 70 E 1e-11 ] [ range 9 .. 63 ]
+sequence
+-----GTEAACYD---LKKGCAKIFDPVCGTDNILYSNECLLCFQNLQRKTNVRIKRRGTC*
+>P1;gi|28524303|ref|XP_283487.1| RIKEN cDNA 2310065D10 [Mus musculus] [ score 68 E 5e-11 ] [ range 112 .. 152 ] [ duplicate b ]
+sequence
+--------------------CPSDTSSVCGTDGKTYRSRCELCAENAKSQNHVDVKSEGEC*
+>P1;gi|10863911|ref|NP_066937.1| serine protease inhibitor, Kazal ty... [ score 64 E 1e-09 ] [ range 29 .. 84 ]
+sequence
+---SKYRTPNCQY---RLPGCPRHFNPVCGSDMSTYANECTLCMKIREGGHNIKIIRNGPC*
+>P1;gi|585657|sp|P37109|ISK4_PIG Serine protease inhibitor Kazal-typ... [ score 60 E 2e-08 ] [ range 33 .. 86 ]
+sequence
+------RMPICMT---ESPDCSRIYDPVCGTDGVTYESECKLCLARIENKQDIQIVKDGEC*
+>P1;gi|34304087|ref|NP_899107.1| RIKEN cDNA 1700007F22 [Mus musculus... [ score 60 E 2e-08 ] [ range 34 .. 86 ]
+sequence
+------RTPDCHF---DFPACPRNLNPVCGTDMNTYSNECTLCMKIREDGSHINIIKDEPC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 52 E 3e-06 ] [ range 369 .. 413 ] [ duplicate a ]
+sequence
+----------------QVVACTMIYDPVCATNGVTYASECTLCAHNLEQRTNLGKRKNGRC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 52 E 3e-06 ] [ range 21 .. 85 ] [ duplicate c ]
+sequence
+---AFGIEVNCSL---YASGCPRNLKPVCGTDGSTYSNECGICLYNREHGANVEKEYDGEC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 52 E 3e-06 ] [ range 303 .. 347 ] [ duplicate e ]
+sequence
+----------------AITACPFILQEVCGTDGVTYSNDCSLCAHNIELGTSVAKKHDGRC*
+>P1;gi|223464|prf||0807280A ovomucoid [ score 51 E 5e-06 ] [ range 87 .. 127 ] [ duplicate b ]
+sequence
+--------------------CNRAFNPVCGTDGVTYDNECLLCAHKVEQGASVDKRHDGEC*
+>P1;gi|227660|prf||1708290A secretory trypsin inhibitor [ score 51 E 7e-06 ] [ range 9 .. 61 ]
+sequence
+-----GTEAACYD---IRKGCTKNFDPVCGTDNVLYGNECLLV--QMERHTDVRIKNRGMC*
+>P1;gi|16519353|dbj|BAB70709.1| caltrin-like protein I [Cavia porcel... [ score 49 E 2e-05 ] [ range 36 .. 88 ]
+sequence
+--------PNCSR---YVQHCTKELDPVCGTDGHTYGNRCIFCSKQLESKGKFTFSHYGRC*
+>P1;gi|124763|sp|P01003|IOVO_COTJA Ovomucoid >gi|68728|pir||TIQJM ov... [ score 49 E 3e-05 ] [ range 22 .. 62 ] [ duplicate a ]
+sequence
+--------------------CPDELRLICGTDGVTYNHECMLCFYNKEYGTNISKEQDGEC*
+>P1;gi|223774|prf||0911204A inhibitor,acrosin [ score 49 E 4e-05 ] [ range 12 .. 61 ]
+sequence
+--------PDCKV---YTEACTREYNPICDSAAKTYSNECTFCNEKMNNDADIHFQHFGEC*
+>P1;gi|31225482|ref|XP_317577.1| ENSANGP00000010201 [Anopheles gambi... [ score 47 E 8e-05 ] [ range 48 .. 92 ]
+sequence
+-------------------ACPRIYDPVCGTDLSTYANRCMLCKAEEMAARSIRVLRRGAC*
+>P1;gi|124849|sp|P16226|IPSG_MELME Double-headed protease inhibitor,... [ score 47 E 9e-05 ] [ range 11 .. 68 ]
+sequence
+-----GRKVNCSK---YNAACSRHLDPVCGTDHRTYSNECMFCMLTQNKRFSVRILQDNNC*
+>P1;gi|42657247|ref|XP_376433.1| similar to caltrin-like protein I [... [ score 46 E 2e-04 ] [ range 47 .. 93 ]
+sequence
+-----------PD---YNADCPNVTAPVCASNGHTFQNECFFCVEQREFHYRIKFEKYGKC*
+>P1;gi|3913946|sp|P81481|IPSG_MUSLU Double-headed protease inhibitor... [ score 45 E 3e-04 ] [ range 11 .. 68 ]
+sequence
+-----GRKVDCFK---YNTACSRKWQPVCGTDHRTYSNECMFCMLTQNKRFPVRILQDNKC*
+>P1;gi|124847|sp|P01002|IPSG_CANFA Double-headed protease inhibitor,... [ score 45 E 4e-04 ] [ range 5 .. 64 ] [ duplicate b ]
+sequence
+---AIGREVDCSN---YKGACPRLHQPICGTDHKTYSNECMFCALTLNKKFEVRKLQDTAC*
+>P1;gi|3913944|sp|P81262|IPSG_UNCUN Double-headed protease inhibitor... [ score 45 E 4e-04 ] [ range 11 .. 68 ]
+sequence
+-----GRKVDCFK---YAFACTRHERPVCGTDHRTYSNECMFCMLTQNKGFGVRILQDNEC*
+>P1;gi|451254|gb|AAB28294.1| bikazin=Kazal-type proteinase inhibitor... [ score 45 E 5e-04 ] [ range 64 .. 111 ]
+sequence
+----------CTN---YSAICTMEYFPLCGSDGQEYSNKCLFCNEVVKRRGALFLAKYGQC*
+>P1;gi|124851|sp|P08479|IPSG_VULVU Double-headed protease inhibitor,... [ score 45 E 6e-04 ] [ range 5 .. 64 ]
+sequence
+---AIGREVDCSS---YKGACPRHLQPICGTDHNTYSNECMFCALTLNKEFEVRKLQDTAC*
+>P1;gi|45382977|ref|NP_990858.1| AGRIN protein [Gallus gallus] >gi|3... [ score 45 E 6e-04 ] [ range 76 .. 126 ]
+sequence
+-------QASCVC---KKTACPVVVAPVCGSDYSTYSNECELEKAQCNQQRRIKVISKGPC*
+>P1;gi|45505159|ref|NP_995313.1| protease inhibitor H [Homo sapiens]... [ score 44 E 7e-04 ] [ range 23 .. 80 ]
+sequence
+---SQGGQVDCQD---TKVYCTRESNPHCGSDGQTYGNKCAFCKAIVKSGGKISLKHPGKC*
+>P1;gi|24583739|ref|NP_723689.1| CG31704-PA [Drosophila melanogaster... [ score 44 E 7e-04 ] [ range 29 .. 68 ]
+sequence
+--------------------CPRNYDPVCGSDSVTYSNQCVLCL--IKEGRSITVEKKGRC*
+>P1;gi|1752805|dbj|BAA14008.1| sperm-activating protein [Clupea pall... [ score 76 E 2e-13 ] [ range 25 .. 78 ]
+sequence
+----PRIGIDCQG---YGSACTKEYRPICGSDDVTYENECLFCAAKRENRWGILVGHRGAC*
+>P1;gi|10863911|ref|NP_066937.1| serine protease inhibitor, Kazal ty... [ score 74 E 6e-13 ] [ range 29 .. 84 ]
+sequence
+---SKYRTPNCSQ---YLPGCPRHFNPVCGSDMSTYANECTLCMKIREGGHNIKIIRNGPC*
+>P1;gi|13959399|sp|Q9PSM2|IPK1_STRCA Pancreatic secretory trypsin in... [ score 70 E 2e-11 ] [ range 11 .. 63 ]
+sequence
+-------EAACSN---YKKGCAKIFDPVCGTDNILYSNECLLCFQNLQRKTNVRIKRRGTC*
+>P1;gi|29244400|ref|NP_808497.1| hypothetical protein A230091H23 [Mu... [ score 68 E 6e-11 ] [ range 107 .. 162 ]
+sequence
+-----RRQPDCDK---YRNQCTREWNPVCGTNGFTYSNECVFCNAKIAAKEKIDYRHFGPC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 67 E 1e-10 ] [ range 229 .. 282 ] [ duplicate a ]
+sequence
+----PTRKTTGGK---LLVRCPRILLPVCGTDGFTYDNECGICAHNAQHGTEVKKSHDGRC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 67 E 1e-10 ] [ range 290 .. 347 ] [ duplicate f ]
+sequence
+---------DCTQ---YLSNCPFILQEVCGTDGVTYSNDCSLCAHNIELGTSVAKKHDGRC*
+>P1;gi|34304087|ref|NP_899107.1| RIKEN cDNA 1700007F22 [Mus musculus... [ score 66 E 3e-10 ] [ range 31 .. 86 ]
+sequence
+---SQFRTPDCGH---DFPACPRNLNPVCGTDMNTYSNECTLCMKIREDGSHINIIKDEPC*
+>P1;gi|5803219|ref|NP_006837.1| serine protease inhibitor, Kazal typ... [ score 65 E 5e-10 ] [ range 90 .. 151 ] [ duplicate b ]
+sequence
+--TAPT-ELNCDD---FKKGCPDYYEAVCGTDGKTYDNRCALCAENAKTGSQIGVKSEGEC*
+>P1;gi|15451277|dbj|BAB64442.1| hypothetical protein [Macaca fascicu... [ score 61 E 7e-09 ] [ range 54 .. 115 ]
+sequence
+--TAPT-ELNCDD---FKNGCPDFYEAVCGTDGKTYGNRCELCAENAKTGSQIGVKSEGEC*
+>P1;gi|227660|prf||1708290A secretory trypsin inhibitor [ score 52 E 3e-06 ] [ range 11 .. 61 ]
+sequence
+-------EAACGN---YRKGCTKNFDPVCGTDNVLYGNECLLV--QMERHTDVRIKNRGMC*
+>P1;gi|27229257|ref|NP_084337.1| RIKEN cDNA 9230117E20 [Mus musculus... [ score 51 E 1e-05 ] [ range 47 .. 105 ]
+sequence
+-------QAFCSN---YGKSCPKTHKPVCGTDGKTYQNRCAFCQTAMERSLKLGFKHEGKC*
+>P1;gi|399021|sp|P25304|AGRI_RAT Agrin precursor >gi|279665|pir||AGR... [ score 49 E 2e-05 ] [ range 85 .. 137 ]
+sequence
+----PGR-ASCVC---KKNACPATVAPVCGSDASTYSNECELQRAQCNQQRRIRLLRQGPC*
+>P1;gi|42490751|ref|NP_067617.2| agrin [Mus musculus] [ score 47 E 8e-05 ] [ range 24 .. 76 ]
+sequence
+----PGR-ASCVC---KKNVCPAMVAPVCGSDASTYSNECELQRAQCNQQRRIRLLRQGPC*
+>P1;gi|41151826|ref|XP_372195.1| similar to agrin precursor [Homo sa... [ score 47 E 8e-05 ] [ range 190 .. 242 ] [ duplicate a ]
+sequence
+----PGR-ASCVC---KKSPCPSVVAPVCGSDASTYSNECELQRAQCSQQRRIRLLSRGPC*
+>P1;gi|41151826|ref|XP_372195.1| similar to agrin precursor [Homo sa... [ score 47 E 8e-05 ] [ range 485 .. 534 ] [ duplicate b ]
+sequence
+-------QAACEC----LQACSSLYDPVCGSDGVTYGSACELEATACTLGREIQVARKGPC*
+>P1;gi|27721531|ref|XP_217268.1| similar to Esophagus cancer-related... [ score 47 E 2e-04 ] [ range 41 .. 96 ]
+sequence
+-------KALCVK---NVQMCFKLSEPICGSNQVTYNGECHLCSEILFEDRTIIKVHDGPC*
+>P1;gi|124847|sp|P01002|IPSG_CANFA Double-headed protease inhibitor,... [ score 46 E 2e-04 ] [ range 65 .. 115 ] [ duplicate a ]
+sequence
+-------DIECTE---YSDMCTMDYRPLCGSDGKNYSNKCSFCNAVKKSRGTIFLAKHGEC*
+>P1;gi|31227062|ref|XP_317819.1| ENSANGP00000014954 [Anopheles gambi... [ score 46 E 3e-04 ] [ range 27 .. 71 ]
+sequence
+-------------------GCPRSYRPVCGTDLKTYSNQCVLINSNYGRKFGLKLLRDGHC*
+>P1;gi|124851|sp|P08479|IPSG_VULVU Double-headed protease inhibitor,... [ score 46 E 3e-04 ] [ range 65 .. 115 ] [ duplicate b ]
+sequence
+-------DIECTE---YSDMCTMDYRPLCGSDGKNYSNKCIFCNAVVRSRGTIFLAKHGEC*
+>P1;gi|124773|sp|P05595|IOVO_FRACO Ovomucoid >gi|86159|pir||G31438 o... [ score 46 E 3e-04 ] [ range 4 .. 53 ]
+sequence
+---------DCSE---YKPGCTMEYRPVCGSDNITYGNKCNFCNAVVKSNGTLTLSHFGKC*
+>P1;gi|123986|sp|P00999|IACA_PIG Seminal plasma acrosin inhibitor A1... [ score 44 E 7e-04 ] [ range 2 .. 57 ]
+sequence
+-----RKQPNCNV---YRSHCTRQMDPICGTNGKSYANPCIFCSEKGLRNQKFDFGHWGHC*
+>P1;gi|31202429|ref|XP_310163.1| ENSANGP00000020094 [Anopheles gambi... [ score 44 E 0.001 ] [ range 34 .. 83 ]
+sequence
+-----------YN---GVCACPKIYRPICGSDLITYANSCILCKVDSSYGKSVRILRDGEC*
+>P1;gi|33469115|ref|NP_035593.1| serine protease inhibitor, Kazal ty... [ score 98 E 4e-20 ] [ range 29 .. 86 ]
+sequence
+--LVFPRMPFCEHM-AELPNCPQTPNLICGTDGLTYENECHLCLTRMKTMKDIQIMKDGQC*
+>P1;gi|7657453|ref|NP_055286.1| serine protease inhibitor, Kazal typ... [ score 96 E 1e-19 ] [ range 28 .. 86 ]
+sequence
+-KLPFSRMPICEHM-VESPTCSQMSNLVCGTDGLTYTNECQLCLARIKTKQDIQIMKDGKC*
+>P1;gi|124853|sp|P11706|IPK1_ANGAN Probable pancreatic secretory pro... [ score 87 E 9e-17 ] [ range 2 .. 61 ]
+sequence
+EKSGLYRKPSCGEM-SAMHACPMNFAPVCGTDGNTYPNECSLCFQRQNTKTDILITKDDRC*
+>P1;gi|29244400|ref|NP_808497.1| hypothetical protein A230091H23 [Mu... [ score 84 E 1e-15 ] [ range 108 .. 162 ]
+sequence
+------RQPDCDKY-RTFPNCTREWNPVCGTNGFTYSNECVFCNAKIAAKEKIDYRHFGPC*
+>P1;gi|25090578|sp|P83039|ICHY_CAIMO Chymotrypsin inhibitor (DPCI) [ score 81 E 5e-15 ] [ range 9 .. 62 ]
+sequence
+------RRPVCGEM-AELLACPLVNLPVCGTDGNTYANECLLCVQKMKTRQDIRILNNGRC*
+>P1;gi|35766|emb|CAA68697.1| unnamed protein product [Homo sapiens] [ score 76 E 2e-13 ] [ range 33 .. 79 ]
+sequence
+-------------Y-NELNGCTKIYDPVCGTDGNTYPNECVLCFEGRKRQTSILIQKSGPC*
+>P1;gi|13959399|sp|Q9PSM2|IPK1_STRCA Pancreatic secretory trypsin in... [ score 74 E 7e-13 ] [ range 14 .. 63 ]
+sequence
+----------CSNY-DLKKGCAKIFDPVCGTDNILYSNECLLCFQNLQRKTNVRIKRRGTC*
+>P1;gi|124858|sp|P00997|IPK1_SHEEP Pancreatic secretory trypsin inhi... [ score 71 E 8e-12 ] [ range 2 .. 56 ]
+sequence
+---ILGREAKCTN---EVNGCPRIYNPVCGTDGVTYANECLLCMENKERQTPVLIQKSGPC*
+>P1;gi|442735|pdb|1CGJ|I Chain I, Alpha-Chymotrypsinogen Complex Wit... [ score 70 E 1e-11 ] [ range 10 .. 56 ]
+sequence
+-------------Y-NELNGCTLEYRPVCGTDGDTYPNECVLCFENRKRQTSILIQKSGPC*
+>P1;gi|124846|sp|P09656|IPK2_RAT Pancreatic secretory trypsin inhibi... [ score 70 E 1e-11 ] [ range 25 .. 79 ]
+sequence
+---VIGKKANCPN---TLVGCPRDYDPVCGTDGKTYANECILCFENRKFGTSIRIQRRGLC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 67 E 1e-10 ] [ range 355 .. 413 ] [ duplicate a ]
+sequence
+---------DCSKY-KTSTACTMIYDPVCATNGVTYASECTLCAHNLEQRTNLGKRKNGRC*
+>P1;gi|124757|sp|P01005|IOVO_CHICK Ovomucoid precursor (Allergen Gal... [ score 67 E 1e-10 ] [ range 161 .. 210 ] [ duplicate c ]
+sequence
+---------DCSEY-P-KPDCTAEDRPLCGSDNKTYGNKCNFCNAVVESNGTLTLSHFGKC*
+>P1;gi|124787|sp|P01004|IOVO_MELGA Ovomucoid >gi|68730|pir||TITKM ov... [ score 63 E 1e-09 ] [ range 136 .. 185 ] [ duplicate b ]
+sequence
+---------DCSEY-P-KPACTLEYRPLCGSDNKTYGNKCNFCNAVVESNGTLTLSHFGKC*
+>P1;gi|124787|sp|P01004|IOVO_MELGA Ovomucoid >gi|68730|pir||TITKM ov... [ score 63 E 1e-09 ] [ range 6 .. 61 ] [ duplicate c ]
+sequence
+-----SRFPNTEEG-KDVLVCTEDLRPICGTDGVTH-SECLLCAYNIEYGTNISKEHDGEC*
+>P1;gi|41151826|ref|XP_372195.1| similar to agrin precursor [Homo sa... [ score 62 E 3e-09 ] [ range 559 .. 599 ] [ duplicate c ]
+sequence
+--------------------CVALAQPVCGSDGHTYPSECMLHVHACTHQISLHVASAGPC*
+>P1;gi|41151826|ref|XP_372195.1| similar to agrin precursor [Homo sa... [ score 62 E 3e-09 ] [ range 923 .. 969 ] [ duplicate d ]
+sequence
+--------------------CPMLTCPVCGSDGVTYGNECQLKTIACRQGLQISIQSLGPC*
+>P1;gi|16519353|dbj|BAB70709.1| caltrin-like protein I [Cavia porcel... [ score 60 E 2e-08 ] [ range 33 .. 88 ]
+sequence
+-----SDRPNCSRY-VQLYMCTKELDPVCGTDGHTYGNRCIFCSKQLESKGKFTFSHYGRC*
+>P1;gi|227660|prf||1708290A secretory trypsin inhibitor [ score 59 E 4e-08 ] [ range 14 .. 61 ]
+sequence
+----------CGNY-DIRKGCTKNFDPVCGTDNVLYGNECLLV--QMERHTDVRIKNRGMC*
+>P1;gi|399021|sp|P25304|AGRI_RAT Agrin precursor >gi|279665|pir||AGR... [ score 57 E 8e-08 ] [ range 389 .. 429 ] [ duplicate a ]
+sequence
+--------------------CSGIYDPVCGSDGVTYGSVCELESMACTLGREIQVARRGPC*
+>P1;gi|28524303|ref|XP_283487.1| RIKEN cDNA 2310065D10 [Mus musculus] [ score 57 E 1e-07 ] [ range 943 .. 996 ] [ duplicate a ]
+sequence
+----------CKNY-RILPRCPKNLNPVCGDDGQTYSNPCMLCHENLMRQTNTRIHKQGAC*
+>P1;gi|124763|sp|P01003|IOVO_COTJA Ovomucoid >gi|68728|pir||TIQJM ov... [ score 57 E 1e-07 ] [ range 137 .. 186 ] [ duplicate b ]
+sequence
+---------DCSEY-P-KPACPKDYRPVCGSDNKTYSNKCNFCNAVVESNGTLTLNHFGKC*
+>P1;gi|223774|prf||0911204A inhibitor,acrosin [ score 56 E 2e-07 ] [ range 12 .. 61 ]
+sequence
+--------PDCKVY-TE--ACTREYNPICDSAAKTYSNECTFCNEKMNNDADIHFQHFGEC*
+>P1;gi|42490751|ref|NP_067617.2| agrin [Mus musculus] [ score 54 E 8e-07 ] [ range 328 .. 368 ] [ duplicate a ]
+sequence
+--------------------CSGGYDPVCGSDGVTYGSVCELESMACTLGREIRVARRGPC*
+>P1;gi|37182553|gb|AAQ89078.1| protease inhibitor H [Homo sapiens] [ score 53 E 2e-06 ] [ range 29 .. 80 ]
+sequence
+---------DCGEF-QDKVYCTRESNPHCGSDGQTYGNKCAFCKAIVKSGGKISLKHPGKC*
+>P1;gi|39590226|emb|CAE65964.1| Hypothetical protein CBG11147 [Caeno... [ score 52 E 3e-06 ] [ range 299 .. 354 ] [ duplicate a ]
+sequence
+-QLGVDRRPEC----RCSEQCSMNSAHVCGTDGKTYMNECFLKLAACKEQKDIIIWKRGNC*
+>P1;gi|39590226|emb|CAE65964.1| Hypothetical protein CBG11147 [Caeno... [ score 52 E 3e-06 ] [ range 457 .. 499 ] [ duplicate b ]
+sequence
+------------------PSCSDELKEVCGSDGITYANECKLRNTACMTQKDIFVKYNSVC*
+>P1;gi|17368331|sp|P82968|MCPI_MELCP Protease inhibitor (McaPI) [ score 52 E 4e-06 ] [ range 4 .. 45 ] [ duplicate b ]
+sequence
+-------------------ACSLIYAPVCGSDGKTYPSECSMEATACIDEVVITKVHDGPC*
+>P1;gi|124849|sp|P16226|IPSG_MELME Double-headed protease inhibitor,... [ score 52 E 4e-06 ] [ range 12 .. 68 ] [ duplicate a ]
+sequence
+------RKVNCSKY-NAKGACSRHLDPVCGTDHRTYSNECMFCMLTQNKRFSVRILQDNNC*
+>P1;gi|124849|sp|P16226|IPSG_MELME Double-headed protease inhibitor,... [ score 52 E 4e-06 ] [ range 72 .. 119 ] [ duplicate b ]
+sequence
+----------CTQY-SDM--CTMDYLPLCGSDGNNYSNKCLFCNAVLRSRGALFLAKHGQC*
+>P1;gi|5803219|ref|NP_006837.1| serine protease inhibitor, Kazal typ... [ score 52 E 4e-06 ] [ range 993 .. 1046 ] [ duplicate b ]
+sequence
+----------CKDY-RVLPRCPKDLKPVCGDDGQTYNNPCMLCHENLIRQTNTHIRSTGKC*
+>P1;gi|45382977|ref|NP_990858.1| AGRIN protein [Gallus gallus] >gi|3... [ score 51 E 6e-06 ] [ range 368 .. 418 ] [ duplicate b ]
+sequence
+------REPVCE----CQQVCQGRYDPVCGSDNRTYGNPCELNAMACVLKREIRVKHKGPC*
+>P1;gi|45382977|ref|NP_990858.1| AGRIN protein [Gallus gallus] >gi|3... [ score 51 E 6e-06 ] [ range 219 .. 273 ] [ duplicate c ]
+sequence
+-----PRTRRVELL-SRPENCPSKREPVCGDDGVTYASECVMGRTGAIRGLEIQKVRSGQC*
+>P1;gi|45382977|ref|NP_990858.1| AGRIN protein [Gallus gallus] >gi|3... [ score 51 E 6e-06 ] [ range 504 .. 548 ] [ duplicate d ]
+sequence
+--------------------CPRCLAQVCGTDGLTYDNRCELRAASCQQQKSIEVAKMGPC*
+>P1;gi|45382977|ref|NP_990858.1| AGRIN protein [Gallus gallus] >gi|3... [ score 51 E 6e-06 ] [ range 429 .. 483 ] [ duplicate e ]
+sequence
+---------ICEAE-TGRCVCPTESQPVCGTDGNTYGSECELHVRACTQQKNILVAAQGDC*
+>P1;gi|45382977|ref|NP_990858.1| AGRIN protein [Gallus gallus] >gi|3... [ score 51 E 6e-06 ] [ range 599 .. 633 ] [ duplicate f ]
+sequence
+--------------------------PVCGSDDVTYANECELKKTRCEKRQNLYVTSQGAC*
+>P1;gi|124748|sp|P05601|IOVO_ARBTO Ovomucoid >gi|86134|pir||I31438 o... [ score 51 E 6e-06 ] [ range 4 .. 53 ]
+sequence
+---------DCSDY-P-MPACTMEYRPVCGSDNKTYGNKCNFCNAVVESNGTLTLSHFGKC*
+>P1;gi|124765|sp|P05592|IOVO_CYRMO Ovomucoid >gi|86128|pir||E31443 o... [ score 51 E 9e-06 ] [ range 7 .. 56 ]
+sequence
+---------DCSEY-P-KPACTLEYVPICGSDNKTYGNKCNFCNAVVESNGTLTLSHFGKC*
+>P1;gi|7507775|pir||T16859 hypothetical protein T13C2.5 - Caenorhabd... [ score 51 E 1e-05 ] [ range 307 .. 362 ] [ duplicate a ]
+sequence
+-QLGVDRRPEC----KCSEQCTMNSAHVCGTDGKTYLNECFLKLAACKEQKDILVWKRGNC*
+>P1;gi|7507775|pir||T16859 hypothetical protein T13C2.5 - Caenorhabd... [ score 51 E 1e-05 ] [ range 465 .. 507 ] [ duplicate b ]
+sequence
+------------------PSCTDEFKEVCGSDGKTYSNECRLQNAACMAQKNIFVKYNSAC*
+>P1;gi|1708383|sp|P26461|IACS_PIG Sperm-associated acrosin inhibitor... [ score 51 E 1e-05 ] [ range 34 .. 88 ]
+sequence
+------KEPDCDVY-RSLFFCTREMDPICGTNGKSYANPCIFCSEKLGRNEKFDFGHWGHC*
+>P1;gi|3913944|sp|P81262|IPSG_UNCUN Double-headed protease inhibitor... [ score 50 E 2e-05 ] [ range 12 .. 68 ] [ duplicate a ]
+sequence
+------RKVDCFKY-NTKGACTRHERPVCGTDHRTYSNECMFCMLTQNKGFGVRILQDNEC*
+>P1;gi|3913944|sp|P81262|IPSG_UNCUN Double-headed protease inhibitor... [ score 50 E 2e-05 ] [ range 72 .. 119 ] [ duplicate b ]
+sequence
+----------CTQY-SDM--CTMEYLPLCGSDGKNYSNKCLFCNAVMGSRGALFLAKHGQC*
+>P1;gi|30520053|ref|NP_848788.1| RIKEN cDNA 9130207J01 gene [Mus mus... [ score 50 E 2e-05 ] [ range 83 .. 133 ]
+sequence
+------RHAECACM-DL---CKQHYKPVCGSDGEFYENHCEVHRAACLKKQKITIVHNEDC*
+>P1;gi|27229257|ref|NP_084337.1| RIKEN cDNA 9230117E20 [Mus musculus... [ score 50 E 2e-05 ] [ range 49 .. 105 ]
+sequence
+---------FCSNY-EKTLACPKTHKPVCGTDGKTYQNRCAFCQTAMERSGKLGFKHEGKC*
+>P1;gi|11360192|pir||T46283 hypothetical protein DKFZp566D234.1 - hu... [ score 50 E 2e-05 ] [ range 19 .. 59 ]
+sequence
+--------------------CKRHYKPVCGSDGEFYENHCEVHRAACLKKQKITIVHNEDC*
+>P1;gi|2494281|sp|Q90404|AGRI_DISOM Agrin >gi|11276921|pir||T43060 a... [ score 49 E 2e-05 ] [ range 214 .. 255 ]
+sequence
+--------------------CPKNKQKVCGSDGVTYANECQLKTIACRQGSVINILHQGPC*
+>P1;gi|3913946|sp|P81481|IPSG_MUSLU Double-headed protease inhibitor... [ score 49 E 3e-05 ] [ range 12 .. 68 ] [ duplicate a ]
+sequence
+------RKVDCFKY-NTTGACSRKWQPVCGTDHRTYSNECMFCMLTQNKRFPVRILQDNKC*
+>P1;gi|3913946|sp|P81481|IPSG_MUSLU Double-headed protease inhibitor... [ score 49 E 3e-05 ] [ range 72 .. 119 ] [ duplicate b ]
+sequence
+----------CPQY-SDM--CTMDYLPLCGSDGKNYSNKCLFCNAVLRSRGALFLAKHGQC*
+>P1;gi|123984|sp|P01001|IAC2_BOVIN Acrosin inhibitors IIA and IIB (B... [ score 49 E 3e-05 ] [ range 6 .. 57 ]
+sequence
+---------DCAEF-KDKVYCTRESNPHCGSNGETYGNKCAFCKAVMKSGGKINLKHRGKC*
+>P1;gi|1708523|sp|P52260|IOVO_GUTPU Ovomucoid >gi|625460|pir||C61494... [ score 49 E 4e-05 ] [ range 5 .. 54 ]
+sequence
+---------DCSEY-P-KPACTMEHRPLCGSDNQTYDNKCNFCNAVVESNGTLTLSHFGKC*
+>P1;gi|124847|sp|P01002|IPSG_CANFA Double-headed protease inhibitor,... [ score 49 E 4e-05 ] [ range 68 .. 115 ] [ duplicate a ]
+sequence
+----------CTEY-SDM--CTMDYRPLCGSDGKNYSNKCSFCNAVKKSRGTIFLAKHGEC*
+>P1;gi|124191|sp|P16895|IELA_ANESU Elastase inhibitor >gi|84385|pir|... [ score 49 E 4e-05 ] [ range 1 .. 48 ]
+sequence
+-----------------KPDCPLIYDPVCGSDGITYGNACMLLGASCRSDTPIELVHKGRC*
+>P1;gi|124766|sp|P05617|IOVO_DACNO Ovomucoid >gi|86094|pir||I31442 o... [ score 48 E 6e-05 ] [ range 6 .. 55 ]
+sequence
+---------DCSEH-P-KPACTLDYRPICGSDSKTYSNKCDFCNAVMDSNGTLTLSHFGKC*
+>P1;gi|37747556|gb|AAH59259.1| Agrn protein [Mus musculus] [ score 47 E 8e-05 ] [ range 89 .. 131 ]
+sequence
+-------------------TCPENSTKVCGSDGVTYGNECQLKTIACRQRLDISIQSLGPC*
+>P1;gi|124760|sp|P05591|IOVO_COLVI Ovomucoid >gi|483114|pir||C31446 ... [ score 47 E 8e-05 ] [ range 7 .. 56 ]
+sequence
+---------DCSEY-P-KPACMSEYRPLCGSDNKTYVNKCNFCNAVVESNGTLTLSHFGKC*
+>P1;gi|13096229|pdb|1DS3|I Chain I, Crystal Structure Of Omtky3-Ch2-... [ score 47 E 8e-05 ] [ range 2 .. 51 ]
+sequence
+---------DCSEY-P-KPACTADYRPLCGSDNKTYGNKCNFCNAVVESNGTLTLSHFGKC*
+>P1;gi|39930405|ref|NP_067411.1| transmembrane protein with EGF-like... [ score 47 E 9e-05 ] [ range 95 .. 135 ]
+sequence
+--------------------CHTNYIPVCGSNGDTYQNECFLRRAACKHQKDITVVARGPC*
+>P1;gi|21732435|emb|CAD38580.1| hypothetical protein [Homo sapiens] [ score 47 E 1e-04 ] [ range 66 .. 106 ]
+sequence
+--------------------CHTNYIPVCGSNGDTYQNECFLRRAACKHQKEITVIARGPC*
+>P1;gi|124851|sp|P08479|IPSG_VULVU Double-headed protease inhibitor,... [ score 47 E 1e-04 ] [ range 68 .. 115 ] [ duplicate a ]
+sequence
+----------CTEY-SDM--CTMDYRPLCGSDGKNYSNKCIFCNAVVRSRGTIFLAKHGEC*
+>P1;gi|86075|pir||G31444 ovomucoid 2, third domain - plumed whistlin... [ score 47 E 1e-04 ] [ range 5 .. 54 ]
+sequence
+---------DCSEY-PR-PDCTLEYMPLCGSDNKTYGNKCNFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|45383161|ref|NP_989833.1| hypothetical protein LOC395163 [Gal... [ score 47 E 1e-04 ] [ range 85 .. 134 ]
+sequence
+-------QPEC----RCVEDCKSSYMPVCGSDGKFYENHCQLHRASCLQRKKIYIIHSKDC*
+>P1;gi|42657247|ref|XP_376433.1| similar to caltrin-like protein I [... [ score 47 E 2e-04 ] [ range 28 .. 93 ]
+sequence
+-KRDFTRKPRCKMY-IPLADCPNVTAPVCASNGHTFQNECFFCVEQREFHYRIKFEKYGKC*
+>P1;gi|26326033|dbj|BAC26760.1| unnamed protein product [Mus musculus] [ score 46 E 2e-04 ] [ range 95 .. 135 ]
+sequence
+--------------------CNSDYVPVCGSNGESYQNECYLRQAACKQQSEILVVSEGSC*
+>P1;gi|124798|sp|P05607|IOVO_POLBI Ovomucoid >gi|86518|pir||A31441 o... [ score 46 E 2e-04 ] [ range 4 .. 53 ]
+sequence
+---------DCSEY-PQ-PTCTTEHRPVCGSNNETYGNKCNFCNAVVKSNGTLTVSHFGKC*
+>P1;gi|1708531|sp|P52250|IOVO_POLEM Ovomucoid >gi|625443|pir||G61588... [ score 46 E 2e-04 ] [ range 2 .. 51 ]
+sequence
+---------DCSEY-PQ-PACTTERRPVCGSNNKTYSNKCNFCNAVVKSNGTLTVSHFGKC*
+>P1;gi|124848|sp|P08480|IPSG_FELCA Double-headed protease inhibitor,... [ score 46 E 3e-04 ] [ range 7 .. 60 ] [ duplicate b ]
+sequence
+---------NCSQY-NRKGTCSKEWKPICGIDHKTYSNECMFCQLNQNKRFQLRKLHDNKC*
+>P1;gi|68726|pir||XTBO acrosin inhibitor II (PSTI type) - bovine [ score 46 E 3e-04 ] [ range 6 .. 55 ]
+sequence
+---------DCAEF-KDKVYCTRHSDPQCGSNGETYGNKCAFCKAVMKSGGKINLKHRG--*
+>P1;gi|14211145|gb|AAK57342.1| thrombin inhibitor infestin precursor... [ score 45 E 4e-04 ] [ range 7 .. 48 ]
+sequence
+-------------------ACPRVLHRVCGSDGNTYSNPCTLDCAKHEGKPDLVQVHEGPC*
+>P1;gi|124780|sp|P05578|IOVO_GYPCO Ovomucoid >gi|86105|pir||E31447 o... [ score 45 E 4e-04 ] [ range 5 .. 54 ]
+sequence
+---------DCSDY-P-KPVCSLEYMPLCGSDSKTYSNKCDFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|31202429|ref|XP_310163.1| ENSANGP00000020094 [Anopheles gambi... [ score 45 E 4e-04 ] [ range 39 .. 83 ]
+sequence
+-------------------ACPKIYRPICGSDLITYANSCILCKVDSSYGKSVQILRDGEC*
+>P1;gi|451254|gb|AAB28294.1| bikazin=Kazal-type proteinase inhibitor... [ score 45 E 4e-04 ] [ range 64 .. 111 ]
+sequence
+----------CTNY-SAI--CTMEYFPLCGSDGQEYSNKCLFCNEVVKRRGALFLAKYGQC*
+>P1;gi|1708510|sp|P52241|IOVO_AEPAR Ovomucoid >gi|625478|pir||A61588... [ score 45 E 4e-04 ] [ range 5 .. 54 ]
+sequence
+---------DCSDY-PT-HGCTLELKPICGSDNQTYSNKCGFCNAVAQSNGTLTLSHFGKC*
+>P1;gi|124776|sp|P05598|IOVO_FRAPO Ovomucoid >gi|86130|pir||B31441 o... [ score 45 E 5e-04 ] [ range 7 .. 56 ]
+sequence
+---------DCSEY-P-KPDCTTEERPLCGSDNKTYGNKCNFCNAVVESNGTLTLSHFGKC*
+>P1;gi|124777|sp|P05613|IOVO_FULAT Ovomucoid >gi|86543|pir||H31438 o... [ score 45 E 5e-04 ] [ range 5 .. 54 ]
+sequence
+---------DCSGY-PQ-PACSLEYVPFCGSDNKTYSNKCDFCNAVADSNGTLTLSHFGKC*
+>P1;gi|22049346|ref|XP_048786.4| KIAA1061 protein [Homo sapiens] [ score 45 E 5e-04 ] [ range 77 .. 133 ]
+sequence
+---VLSRKPECQ----CLEACRPSYVPVCGSDGRFYENHCKLHRAACLLGKRITVIHSKDC*
+>P1;gi|44572670|gb|EAK19637.1| unknown [environmental sequence] [ score 45 E 6e-04 ] [ range 109 .. 143 ]
+sequence
+--------------------CTQEWNPVCGIDGNTYPNTCY------ATCQYVVIAYEGEC*
+>P1;gi|632203|pir||S45677 proteinase inhibitor - signal crayfish >gi... [ score 44 E 7e-04 ] [ range 170 .. 221 ]
+sequence
+----------CKQQ-NQCPTCTQQYDPVCGTDGKTYGNSCELGVAACNNPQNLKIAYKGAC*
+>P1;gi|31227062|ref|XP_317819.1| ENSANGP00000014954 [Anopheles gambi... [ score 44 E 7e-04 ] [ range 27 .. 71 ]
+sequence
+-------------------GCPRSYRPVCGTDLKTYSNQCVLCNSNYGRKFGLKLLRDGHC*
+>P1;gi|123986|sp|P00999|IACA_PIG Seminal plasma acrosin inhibitor A1... [ score 44 E 8e-04 ] [ range 3 .. 57 ]
+sequence
+------KQPNCNVY-RSLFFCTRQMDPICGTNGKSYANPCIFCSEKGLRNQKFDFGHWGHC*
+>P1;gi|31238151|ref|XP_319718.1| ENSANGP00000019497 [Anopheles gambi... [ score 44 E 8e-04 ] [ range 24 .. 63 ]
+sequence
+------------------PACPANYLPVCGTDGKTYANECALE---CTVAPAVKVARSGEC*
+>P1;gi|1708520|sp|P52266|IOVO_GALAS Ovomucoid >gi|625463|pir||D61494... [ score 44 E 9e-04 ] [ range 5 .. 54 ]
+sequence
+---------DCSGY-PQS-ACPQDYVPFCGSDNKTYSNKCNFCNAVADSNGTLTLSHFGKC*
+>P1;gi|124799|sp|P05558|IOVO_RHEAM Ovomucoid >gi|86031|pir||H31442 o... [ score 44 E 0.001 ] [ range 5 .. 54 ]
+sequence
+---------DCSDH-P-KPVCSLEYMPLCGSDSKTYSNKCDFCNAVVESNGTLTLSHFGKC*
+>P1;gi|22759997|dbj|BAC11030.1| unnamed protein product [Homo sapiens] [ score 44 E 0.001 ] [ range 95 .. 135 ]
+sequence
+--------------------CNNDYVPVCGSNGESYQNECYLRQAACKQQSEILVVSEGSC*
+>P1;gi|124787|sp|P01004|IOVO_MELGA Ovomucoid >gi|68730|pir||TITKM ov... [ score 109 E 1e-23 ] [ range 64 .. 126 ] [ duplicate b ]
+sequence
+-----AVPMDCSR--YPNILCNKALNPVCGTDGVTYDNECVLCAHNLEQGTSVGKKHDGEC*
+>P1;gi|124757|sp|P01005|IOVO_CHICK Ovomucoid precursor (Allergen Gal... [ score 106 E 2e-22 ] [ range 90 .. 151 ] [ duplicate c ]
+sequence
+------VPMNCSS--YVMVLCNRAFNPVCGTDGVTYDNECLLCAHKVEQGASVDKRHDGGC*
+>P1;gi|223464|prf||0807280A ovomucoid [ score 103 E 9e-22 ] [ range 3 .. 62 ] [ duplicate b ]
+sequence
+--------VDCSR--FPNAVCNKDLRPICGTDGVTYNNECLLCAYSIEFGTNISKEHDGEC*
+>P1;gi|124796|sp|P05603|IOVO_PHACO Ovomucoid >gi|86517|pir||F31446 o... [ score 102 E 2e-21 ] [ range 1 .. 56 ]
+sequence
+---LAAVSVDCSE--YPKPACTMEYRPLCGSDNKTYGNKCNFCNAVVESNGTLTLNRFGQC*
+>P1;gi|124750|sp|P05585|IOVO_BONUM Ovomucoid [ score 102 E 2e-21 ] [ range 1 .. 56 ]
+sequence
+---LAAVSVDCSE--YPKPACTMEYRPLCGSDNKTYGNKCNFCNAVVESNGTLNLSHFGTC*
+>P1;gi|124774|sp|P05596|IOVO_FRAER Ovomucoid >gi|86160|pir||B31440 o... [ score 102 E 2e-21 ] [ range 2 .. 56 ]
+sequence
+----AAVSVDCSE--YPKPACTMEYRPVCGSDNITYGNKCNFCNAVVKSNGTLTLSHFGKC*
+>P1;gi|1708518|sp|P52244|IOVO_CORMO Ovomucoid >gi|625444|pir||G61589... [ score 98 E 6e-20 ] [ range 2 .. 54 ]
+sequence
+------VTVDCSD--YPKPVCTLDYMPLCGSDNKTYSNKCNFCNAVVDSNGTITLSHFGRC*
+>P1;gi|1708514|sp|P52259|IOVO_BAMTH Ovomucoid >gi|625453|pir||A61493... [ score 97 E 1e-19 ] [ range 1 .. 56 ]
+sequence
+---LAAVSVDCSE--YPKPECTAEERPICGSDNKTYGNKCNFCNAVVESNGTLTLRNFGKC*
+>P1;gi|1708539|sp|P52256|IOVO_TURME Ovomucoid >gi|625488|pir||D61589... [ score 96 E 2e-19 ] [ range 2 .. 54 ]
+sequence
+------VTVDCSD--YPKPVCTLDYMPLCGSDNTTYSNKCNFCNAVVDSNGTITLSHFGKC*
+>P1;gi|124766|sp|P05617|IOVO_DACNO Ovomucoid >gi|86094|pir||I31442 o... [ score 95 E 4e-19 ] [ range 2 .. 55 ]
+sequence
+-----ATQVDCSE--HPKPACTLDYRPICGSDSKTYSNKCDFCNAVMDSNGTLTLSHFGKC*
+>P1;gi|1708522|sp|P52246|IOVO_GUIGU Ovomucoid >gi|625485|pir||C61589... [ score 95 E 4e-19 ] [ range 3 .. 54 ]
+sequence
+-------TVDCSD--YPKPVCSLEYMPLCGSDNKTYGNKCNFCNAVADSNGTLTLSHFGKC*
+>P1;gi|1708536|sp|P52253|IOVO_SCYNO Ovomucoid >gi|625482|pir||B61589... [ score 95 E 5e-19 ] [ range 1 .. 52 ]
+sequence
+-------TVDCSD--YPKPVCTLEEMPLCGSDNKTYGNKCNFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|124742|sp|P05584|IOVO_ABUPI Ovomucoid >gi|86116|pir||D31444 o... [ score 94 E 7e-19 ] [ range 1 .. 56 ]
+sequence
+---LAPVNVDCSD--HPKPACLQEQKPLCGSDNKTYDNKCSFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|124786|sp|P05580|IOVO_MEGFR Ovomucoid >gi|86111|pir||C31439 o... [ score 93 E 1e-18 ] [ range 2 .. 54 ]
+sequence
+------VTVDCSD--YPKPSCTLEDKPLCGSDNQTYSNKCSFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|1708535|sp|P52252|IOVO_ROLRO Ovomucoid >gi|625484|pir||C61588... [ score 93 E 2e-18 ] [ range 1 .. 56 ]
+sequence
+---LAAVNVDCSG--YPKPACTMESRPICGSDNTTYSNKCNFCNAVVESNGTLTLSYPGVC*
+>P1;gi|124799|sp|P05558|IOVO_RHEAM Ovomucoid >gi|86031|pir||H31442 o... [ score 93 E 2e-18 ] [ range 3 .. 54 ]
+sequence
+-------TVDCSD--HPKPVCSLEYMPLCGSDSKTYSNKCDFCNAVVESNGTLTLSHFGKC*
+>P1;gi|1708515|sp|P52242|IOVO_CARME Ovomucoid >gi|625439|pir||E61589... [ score 93 E 2e-18 ] [ range 2 .. 54 ]
+sequence
+------VAVDCSD--YPKPVCSLDYMPLCGSDNTTYNNKCIFCNAVVDSNGTITLSHFGKC*
+>P1;gi|29726299|pdb|1IY6|A Chain A, Solution Structure Of Omsvp3 Var... [ score 92 E 2e-18 ] [ range 1 .. 54 ]
+sequence
+-----AVSVDCSE--YPKCACTMEYRPLCGSDNKTYGNKCNFCCAVVESNGTLTLSHFGKC*
+>P1;gi|124803|sp|P05611|IOVO_TURSY Ovomucoid >gi|86560|pir||C31437 o... [ score 92 E 4e-18 ] [ range 1 .. 53 ]
+sequence
+------VSVDCSE--YPKPGCMMERLPLCGSDNKTYNDKCNFCNAVVESNGTLTLNHFGEC*
+>P1;gi|124762|sp|P05600|IOVO_COTDE Ovomucoid >gi|86156|pir||I31441 o... [ score 91 E 5e-18 ] [ range 1 .. 52 ]
+sequence
+-------SVDCSE--YPKPACPKDYRPVCGSDNKTYGNKCNFCNAVVESNGTLTLNRFGKC*
+>P1;gi|124775|sp|P05597|IOVO_FRAFR Ovomucoid >gi|86161|pir||G31436 o... [ score 91 E 9e-18 ] [ range 1 .. 53 ]
+sequence
+------VSVDCSG--YPKPECTAEETPLCGSDNKTYRNKCNFCNAVVESNGTLTLRHFGKC*
+>P1;gi|124783|sp|P05581|IOVO_LEIOC Ovomucoid >gi|86112|pir||D31443 o... [ score 91 E 1e-17 ] [ range 2 .. 54 ]
+sequence
+------VTVDCSG--YPTHACTLELKPLCGSDNQTYSNKCGFCNAVAQSNGTLTLSHFGKC*
+>P1;gi|124790|sp|P05566|IOVO_NYCNY Ovomucoid >gi|86083|pir||F31436 o... [ score 89 E 2e-17 ] [ range 2 .. 54 ]
+sequence
+------VTVDCSD--YPKPVCSPENMPVCGSDSKTYSNKCDFCNAVADSNGTLTLSHFGKC*
+>P1;gi|124798|sp|P05607|IOVO_POLBI Ovomucoid >gi|86518|pir||A31441 o... [ score 89 E 3e-17 ] [ range 1 .. 53 ]
+sequence
+------VSVDCSE--YPQPTCTTEHRPVCGSNNETYGNKCNFCNAVVKSNGTLTVSHFGKC*
+>P1;gi|1708510|sp|P52241|IOVO_AEPAR Ovomucoid >gi|625478|pir||A61588... [ score 88 E 4e-17 ] [ range 2 .. 54 ]
+sequence
+------VIVDCSD--YPTHGCTLELKPICGSDNQTYSNKCGFCNAVAQSNGTLTLSHFGKC*
+>P1;gi|1708531|sp|P52250|IOVO_POLEM Ovomucoid >gi|625443|pir||G61588... [ score 88 E 5e-17 ] [ range 1 .. 51 ]
+sequence
+--------VDCSE--YPQPACTTERRPVCGSNNKTYSNKCNFCNAVVKSNGTLTVSHFGKC*
+>P1;gi|124788|sp|P05561|IOVO_NOTCI Ovomucoid >gi|86038|pir||B31437 o... [ score 84 E 7e-16 ] [ range 1 .. 51 ]
+sequence
+------VTVDCSG--YPKPACTLEYFPLCGSDNQTYANKCAFCNAVVEKN--VTLRHLGKC*
+>P1;gi|1708538|sp|P52254|IOVO_TINMA Ovomucoid >gi|625480|pir||B61587... [ score 83 E 2e-15 ] [ range 1 .. 51 ]
+sequence
+------VTVDCSG--YPKPACTAEYFPLCGSDNQTYSNKCAFCNAAVEKN--VTLGHFGEC*
+>P1;gi|124851|sp|P08479|IPSG_VULVU Double-headed protease inhibitor,... [ score 83 E 2e-15 ] [ range 63 .. 115 ]
+sequence
+-----ACDIECTE--YSD-MCTMDYRPLCGSDGKNYSNKCIFCNAVVRSRGTIFLAKHGEC*
+>P1;gi|1708527|sp|P52248|IOVO_NOTPE Ovomucoid >gi|625486|pir||D61587... [ score 82 E 2e-15 ] [ range 1 .. 51 ]
+sequence
+------VTVDCSG--YPKPACTLEYFPLCGSDNQTYANKCTFCNAVVEKN--VTLNHLGEC*
+>P1;gi|124771|sp|P05562|IOVO_EUDEL Ovomucoid >gi|86037|pir||E31439 o... [ score 80 E 1e-14 ] [ range 1 .. 51 ]
+sequence
+------VSIDCSG--YPKPACTLEFFPLCGSDNQTYSNKCAFCNAAVEKN--VTLNHIGEC*
+>P1;gi|1708534|sp|P52251|IOVO_RHYFU Ovomucoid >gi|625483|pir||C61587... [ score 80 E 1e-14 ] [ range 1 .. 51 ]
+sequence
+------VTVDCSG--YPKPDCTLESFPLCGSDNQTYSNKCAFCNAAVERN--VTLRHLGEC*
+>P1;gi|3913944|sp|P81262|IPSG_UNCUN Double-headed protease inhibitor... [ score 79 E 3e-14 ] [ range 68 .. 119 ]
+sequence
+------CDIECTQ--YSD-MCTMEYLPLCGSDGKNYSNKCLFCNAVMGSRGALFLAKHGQC*
+>P1;gi|3913946|sp|P81481|IPSG_MUSLU Double-headed protease inhibitor... [ score 77 E 7e-14 ] [ range 68 .. 119 ]
+sequence
+------CDIECPQ--YSD-MCTMDYLPLCGSDGKNYSNKCLFCNAVLRSRGALFLAKHGQC*
+>P1;gi|16519353|dbj|BAB70709.1| caltrin-like protein I [Cavia porcel... [ score 76 E 2e-13 ] [ range 27 .. 88 ]
+sequence
+----APSKVDCSR--YVQHMCTKELDPVCGTDGHTYGNRCIFCSKQLESKGKFTFSHYGRC*
+>P1;gi|124850|sp|P08481|IPSG_PANLE Double-headed protease inhibitor,... [ score 76 E 2e-13 ] [ range 60 .. 111 ]
+sequence
+------CQIECTN--YS-AICTMEYFPLCGSDGKVYSNKCSFCNEVVKRRGTLFLAKYGQC*
+>P1;gi|124848|sp|P08480|IPSG_FELCA Double-headed protease inhibitor,... [ score 76 E 2e-13 ] [ range 60 .. 111 ] [ duplicate a ]
+sequence
+------CQIECTN--YS-AICTMEYFPLCGSDGQEYSNKCLFCNEVVKRRGTLFLAKYGQC*
+>P1;gi|124848|sp|P08480|IPSG_FELCA Double-headed protease inhibitor,... [ score 76 E 2e-13 ] [ range 2 .. 60 ] [ duplicate b ]
+sequence
+----SPPEVNCSQ--YSGITCSKEWKPICGIDHKTYSNECMFCQLNQNKRFQLRKLHDNKC*
+>P1;gi|124849|sp|P16226|IPSG_MELME Double-headed protease inhibitor,... [ score 75 E 4e-13 ] [ range 68 .. 119 ]
+sequence
+------CDIECTQ--YSD-MCTMDYLPLCGSDGNNYSNKCLFCNAVLRSRGALFLAKHGQC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 71 E 6e-12 ] [ range 422 .. 472 ] [ duplicate a ]
+sequence
+----------CRE--FQKPICTMEYVPHCGSDGVTYSNRCFFCNAYVQSNRTLNLVSMAAC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 71 E 6e-12 ] [ range 156 .. 216 ] [ duplicate b ]
+sequence
+-------SVDCSK--YPSVACPRILSPVCGTDGFTYDNECGICAHNAEQRTHVSKKHDGKC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 71 E 6e-12 ] [ range 90 .. 150 ] [ duplicate c ]
+sequence
+------VMIDCSP--YLQVACPRILKPVCGSDSFTYDNECGICAYNAEHHTNISKLHDGEC*
+>P1;gi|14211875|ref|NP_115955.1| esophagus cancer-related gene-2 [Ho... [ score 71 E 8e-12 ] [ range 25 .. 85 ]
+sequence
+---LSPKKVDCSI--YKKIPCPITYLPVCGSDYITYGNECHLCTESLKSNGRVQFLHDGSC*
+>P1;gi|229546|prf||754238A inhibitor DSI-1,proteinase [ score 70 E 1e-11 ] [ range 63 .. 117 ]
+sequence
+-----ACDIECTE--YSD-MCTMDYRPLCGSDGKNYSNKCSFCNAV-KSRGTIFLAKHGEC*
+>P1;gi|229545|prf||753699A inhibitor,proteinase [ score 70 E 1e-11 ] [ range 63 .. 117 ]
+sequence
+-----ACDIECTE--YSD-MCTMDYRPLCGSDGKNYSNKCSFCNAVKSRGTIFALAKHGEC*
+>P1;gi|68726|pir||XTBO acrosin inhibitor II (PSTI type) - bovine [ score 69 E 3e-11 ] [ range 5 .. 55 ]
+sequence
+--------VDCAE--FPKVYCTRHSDPQCGSNGETYGNKCAFCKAVMKSGGKINLKHRG--*
+>P1;gi|223774|prf||0911204A inhibitor,acrosin [ score 69 E 4e-11 ] [ range 13 .. 61 ]
+sequence
+---------DCKV--YTE-ACTREYNPICDSAAKTYSNECTFCNEKMNNDADIHFQHFGEC*
+>P1;gi|123983|sp|P01000|IAC1_BOVIN Acrosin inhibitor I (BUSI-I) >gi|... [ score 68 E 6e-11 ] [ range 13 .. 61 ]
+sequence
+---------DCKV--YTE-ACTREYNPICDSAAKTYSNECTFCNEKMNNDADIHFNHFGEC*
+>P1;gi|29244400|ref|NP_808497.1| hypothetical protein A230091H23 [Mu... [ score 58 E 5e-08 ] [ range 111 .. 162 ] [ duplicate a ]
+sequence
+---------DCDK--YRTFPCTREWNPVCGTNGFTYSNECVFCNAKIAAKEKIDYRHFGPC*
+>P1;gi|29244400|ref|NP_808497.1| hypothetical protein A230091H23 [Mu... [ score 58 E 5e-08 ] [ range 32 .. 69 ] [ duplicate b ]
+sequence
+-------KIDCRP--YLDSKCTREYHPVCSTSGKTYCNKCTFCKA----------------*
+>P1;gi|27229257|ref|NP_084337.1| RIKEN cDNA 9230117E20 [Mus musculus... [ score 57 E 9e-08 ] [ range 50 .. 105 ]
+sequence
+----------CSN--YEKTSCPKTHKPVCGTDGKTYQNRCAFCQTAMERSGKLGFKHEGKC*
+>P1;gi|17368331|sp|P82968|MCPI_MELCP Protease inhibitor (McaPI) [ score 51 E 9e-06 ] [ range 100 .. 141 ] [ duplicate a ]
+sequence
+-------------------VCTLEYNPQCGTDGRTYGNPCQLKVAECESDGRITLDHPGEC*
+>P1;gi|17368331|sp|P82968|MCPI_MELCP Protease inhibitor (McaPI) [ score 51 E 9e-06 ] [ range 44 .. 93 ] [ duplicate b ]
+sequence
+-----PCETKCS------AACTKEYNPQCGTDGVTYANPCTLEYAKCKSDGEITFDHAGPC*
+>P1;gi|26330846|dbj|BAC29153.1| unnamed protein product [Mus musculus] [ score 50 E 1e-05 ] [ range 556 .. 601 ]
+sequence
+------VKVDCSE--YGEIFCTRENDPVRGPDGKTHGNKCAMCKAVFK-------------*
+>P1;gi|34879282|ref|XP_341608.1| similar to serine protease inhibito... [ score 49 E 3e-05 ] [ range 653 .. 698 ]
+sequence
+------VKVDCSE--FGELFCTRENDPVRGPDGKTHGNKCAMCKAVFE-------------*
+>P1;gi|123986|sp|P00999|IACA_PIG Seminal plasma acrosin inhibitor A1... [ score 47 E 9e-05 ] [ range 6 .. 57 ]
+sequence
+---------NCNV--YRSHFCTRQMDPICGTNGKSYANPCIFCSEKGLRNQKFDFGHWGHC*
+>P1;gi|24660923|ref|NP_729380.1| CG32354-PA [Drosophila melanogaster... [ score 44 E 7e-04 ] [ range 609 .. 650 ]
+sequence
+-------------------ICPREFEPVCGSDNKTYLNDCFLEIENCRANQTVNVNYYGAC*
+>P1;gi|21064953|gb|AAM29188.1| serine proteinase inhibitor PI-S [Neo... [ score 44 E 7e-04 ] [ range 33 .. 53 ]
+sequence
+-------------------ICSMEYDPVCGTDGKTYSNRC---------------------*
+>P1;gi|115545|sp|P22074|CALT_CAVPO Caltrin-like protein I >gi|112504... [ score 44 E 9e-04 ] [ range 3 .. 45 ]
+sequence
+----APSKVDCSR--YVQHMCTKELDPVCGTDGHTYGNRSIF-------------------*
+>P1;gi|124763|sp|P01003|IOVO_COTJA Ovomucoid >gi|68728|pir||TIQJM ov... [ score 107 E 7e-23 ] [ range 66 .. 127 ] [ duplicate b ]
+sequence
+------VPMDCSR--YPTILCTKDFSFVCGTDGVTYDNECMLCAHNVVQGTSVGKKHDGEC*
+>P1;gi|3913944|sp|P81262|IPSG_UNCUN Double-headed protease inhibitor... [ score 77 E 7e-14 ] [ range 13 .. 68 ] [ duplicate b ]
+sequence
+-------KVDCFK--YNTKACTRHERPVCGTDHRTYSNECMFCMLTQNKGFGVRILQDNEC*
+>P1;gi|3913946|sp|P81481|IPSG_MUSLU Double-headed protease inhibitor... [ score 76 E 2e-13 ] [ range 13 .. 68 ] [ duplicate b ]
+sequence
+-------KVDCFK--YSEFACSRKWQPVCGTDHRTYSNECMFCMLTQNKRFPVRILQDNKC*
+>P1;gi|124849|sp|P16226|IPSG_MELME Double-headed protease inhibitor,... [ score 74 E 1e-12 ] [ range 13 .. 51 ] [ duplicate b ]
+sequence
+-------KVNCSK--YSQFACSRHLDPVCGTDHRTYSNECMFCM-----------------*
+>P1;gi|124848|sp|P08480|IPSG_FELCA Double-headed protease inhibitor,... [ score 73 E 2e-12 ] [ range 2 .. 60 ] [ duplicate b ]
+sequence
+----SPPEVNCSQ--YNRKGCSKEWKPICGIDHKTYSNECMFCQLNQNKRFQLRKLHDNKC*
+>P1;gi|29244400|ref|NP_808497.1| hypothetical protein A230091H23 [Mu... [ score 72 E 3e-12 ] [ range 111 .. 162 ] [ duplicate a ]
+sequence
+---------DCDK--YRTNQCTREWNPVCGTNGFTYSNECVFCNAKIAAKEKIDYRHFGPC*
+>P1;gi|29244400|ref|NP_808497.1| hypothetical protein A230091H23 [Mu... [ score 72 E 3e-12 ] [ range 32 .. 71 ] [ duplicate b ]
+sequence
+-------KIDCRP--YSNDKCTREYHPVCSTSGKTYCNKCTFCKALR--------------*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 70 E 9e-12 ] [ range 90 .. 150 ] [ duplicate c ]
+sequence
+------VMIDCSP--YTMVACPRILKPVCGSDSFTYDNECGICAYNAEHHTNISKLHDGEC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 70 E 9e-12 ] [ range 24 .. 85 ] [ duplicate e ]
+sequence
+------IEVNCSL--YASVACPRNLKPVCGTDGSTYSNECGICLYNREHGANVEKEYDGEC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 70 E 9e-12 ] [ range 355 .. 413 ] [ duplicate f ]
+sequence
+---------DCSK--YKTVACTMIYDPVCATNGVTYASECTLCAHNLEQRTNLGKRKNGRC*
+>P1;gi|27229257|ref|NP_084337.1| RIKEN cDNA 9230117E20 [Mus musculus... [ score 66 E 2e-10 ] [ range 50 .. 105 ]
+sequence
+----------CSN--YEKKSCPKTHKPVCGTDGKTYQNRCAFCQTAMESLGKLGFKHEGKC*
+>P1;gi|34879282|ref|XP_341608.1| similar to serine protease inhibito... [ score 50 E 2e-05 ] [ range 187 .. 247 ] [ duplicate b ]
+sequence
+----APAKLNCEN--FKQRICPSDASAVCGTDGKTYPSRCHLCAENAKSQSHVEVKSEGEC*
+>P1;gi|124854|sp|P00996|IPK1_BOVIN Pancreatic secretory trypsin inhi... [ score 47 E 9e-05 ] [ range 15 .. 56 ]
+sequence
+-------------------GCPRIYNPVCGTDGVTYSNECLLCMENKERQTPVLIQKSGPC*
+>P1;gi|13959399|sp|Q9PSM2|IPK1_STRCA Pancreatic secretory trypsin in... [ score 47 E 1e-04 ] [ range 14 .. 63 ]
+sequence
+----------CSN--YDKKGCAKIFDPVCGTDNILYSNECLLCFQNLQRKTNVRIKRRGTC*
+>P1;gi|33590491|gb|AAQ22771.1| serine proteinase inhibitor [Procamba... [ score 45 E 4e-04 ] [ range 65 .. 118 ]
+sequence
+----------CSG--GSKPVCTLEYKPVCGTDGKTYSNRCALEVEACNNPQKLRIAYEGEC*
+>P1;gi|42657247|ref|XP_376433.1| similar to caltrin-like protein I [... [ score 45 E 5e-04 ] [ range 30 .. 93 ]
+sequence
+---------DFTR--WPKPRCKMDYNPVCASNGHTFQNECFFCVEQREFHYRIKFEKYGKC*
+>P1;gi|115545|sp|P22074|CALT_CAVPO Caltrin-like protein I >gi|112504... [ score 44 E 7e-04 ] [ range 13 .. 45 ]
+sequence
+---------NCSR--YVQHMCTKELDPVCGTDGHTYGNRSIF-------------------*
+>P1;gi|13897999|gb|AAK48526.1| silk protease inhibitor 2 precursor [... [ score 44 E 7e-04 ] [ range 23 .. 58 ]
+sequence
+-------------------VCTTEWDPVCGKDGKTYSNLCWL------NEAGVGLDHEGEC*
+>P1;gi|31213019|ref|XP_315453.1| ENSANGP00000014123 [Anopheles gambi... [ score 44 E 9e-04 ] [ range 472 .. 516 ]
+sequence
+----------CSK------ICPQEFEPVCGTDGKTYSNECFLSIENCRSRSMVQKKHVGPC*
+>P1;gi|124757|sp|P01005|IOVO_CHICK Ovomucoid precursor (Allergen Gal... [ score 96 E 3e-19 ] [ range 24 .. 86 ] [ duplicate b ]
+sequence
+-----GAEVDCSRFPNATLVCNKDLRPICGTDGVTYTNDCLLCAYSIEFGTNISKEHDGEC*
+>P1;gi|124747|sp|P05567|IOVO_ANSSE Ovomucoid >gi|86058|pir||G31443 o... [ score 95 E 4e-19 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSEY--PKPACTLEYMPLCGSDNQTYSNKCNFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|124764|sp|P05572|IOVO_CYGAT Ovomucoid >gi|86067|pir||B31446 o... [ score 95 E 4e-19 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSDY--PKPACTMEYMPLCGSDNKTYGNKCNFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|124789|sp|P05610|IOVO_NUMME Ovomucoid >gi|86119|pir||D31441 o... [ score 94 E 6e-19 ] [ range 2 .. 54 ]
+sequence
+------AAVDCSEY--PKPACTMEYRPLCGSDNKTYDNKCNFCNAVVESNGTLTLSHFGKC*
+>P1;gi|86075|pir||G31444 ovomucoid 2, third domain - plumed whistlin... [ score 94 E 1e-18 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSEY--PRPDCTLEYMPLCGSDNKTYGNKCNFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|1708516|sp|P52240|IOVO_CHACH Ovomucoid >gi|625458|pir||C61492... [ score 93 E 1e-18 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSDY--PKPACTLEYMPLCGSDNQTYSNKCSFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|1708533|sp|P52257|IOVO_PYGAD Ovomucoid >gi|625452|pir||A61492... [ score 93 E 2e-18 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSDY--PKPVCSLEYMPLCGSDSKTYSNKCNFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|1708532|sp|P52265|IOVO_POLPL Ovomucoid >gi|625473|pir||H61492... [ score 92 E 3e-18 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSEY--PKPVCSLEYMPLCGSDSQTYSNECNFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|37182553|gb|AAQ89078.1| protease inhibitor H [Homo sapiens] [ score 92 E 3e-18 ] [ range 25 .. 80 ]
+sequence
+-----GGQVDCGEFQDPKVYCTRESNPHCGSDGQTYGNKCAFCKAIVKSGGKISLKHPGKC*
+>P1;gi|124779|sp|P05612|IOVO_GRUCA Ovomucoid >gi|86540|pir||F31439 o... [ score 92 E 4e-18 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSDY--PKPACTLEYMPFCGSDSKTYSNKCNFCNAVVDSNGTLTLSHFGKC*
+>P1;gi|124800|sp|P05563|IOVO_SPHHU Ovomucoid >gi|86559|pir||H31441 o... [ score 91 E 5e-18 ] [ range 2 .. 54 ]
+sequence
+------ATIDCSDY--PKPVCSLEYMPLCGSDSKTYSNKCNFCNAVVDSNGTLILSHFGKC*
+>P1;gi|124770|sp|P05560|IOVO_DRONO Ovomucoid >gi|86030|pir||A31440 o... [ score 90 E 1e-17 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSDY--PKPVCSLEYMPLCGSDSKTYNNKCDFCNAVVESNGTLTLGHFGKC*
+>P1;gi|124801|sp|P05557|IOVO_STRCA Ovomucoid >gi|86035|pir||B31444 o... [ score 90 E 1e-17 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSDY--PKPVCPLDYMPLCGSDSKTYSNKCNFCNAVVESSGTLTLRHFGKC*
+>P1;gi|26389294|dbj|BAC25711.1| unnamed protein product [Mus musculus] [ score 90 E 1e-17 ] [ range 52 .. 105 ]
+sequence
+-------QINCGEFRDPKVFCTRESDPLCGSDGQTYGNKCAFCKALEKSSGKINLKHRGKC*
+>P1;gi|1708528|sp|P52249|IOVO_OPIHO Ovomucoid >gi|625445|pir||H61588... [ score 90 E 2e-17 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSDY--PKPACLLEYMPLCGSDNKTYDNKCSFCNAVVDSNGTLSLSHFGKC*
+>P1;gi|124782|sp|P05614|IOVO_LARRI Ovomucoid >gi|86085|pir||H31445 o... [ score 89 E 2e-17 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSDY--PKPACSLDYMPLCGSDSKTYSNKCNFCNAVVDSNGTLTLSHFEKC*
+>P1;gi|124749|sp|P05608|IOVO_ARGAR Ovomucoid >gi|86138|pir||C31443 o... [ score 89 E 2e-17 ] [ range 2 .. 54 ]
+sequence
+------AAVDCSE--HPKPACTLEDRPLCGSDNKIYSNKCDFCNAVLESNGTLTLSHFGKC*
+>P1;gi|124759|sp|P05579|IOVO_CIRAE Ovomucoid >gi|86106|pir||B31443 o... [ score 89 E 3e-17 ] [ range 2 .. 54 ]
+sequence
+------AIVDCSDY--PKPVCSLEYMPLCGSDSKTYSNKCDFCNAFVDSNGTLSLSHFGKC*
+>P1;gi|1708530|sp|P52264|IOVO_PODST Ovomucoid >gi|625472|pir||G61494... [ score 88 E 5e-17 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSDY--PQPVCMGDYMPLCGSDSKTYSNKCNFCNAVVDSNGTLTLNHFGKC*
+>P1;gi|124755|sp|P05559|IOVO_CASCA Ovomucoid >gi|86028|pir||C31436 o... [ score 88 E 5e-17 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSEY--PKPVCSPEYMPLCGSDSKTYNNKCDFCSAVVESNGTLTLGHFGKC*
+>P1;gi|124754|sp|P05616|IOVO_CARRE Ovomucoid >gi|86095|pir||A31438 o... [ score 87 E 7e-17 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSDY--PKPVCTLEDMPLCGSDNITYHNKCYFCNAVAHSNGTLTFSHFGKC*
+>P1;gi|124778|sp|P05615|IOVO_GEOCA Ovomucoid [ score 87 E 7e-17 ] [ range 2 .. 54 ]
+sequence
+------ASVNCSDY--PKPVCSLLYMPLCGSDNKTYGNKCNFCNAVADSNGTLTLSHFGKC*
+>P1;gi|124777|sp|P05613|IOVO_FULAT Ovomucoid >gi|86543|pir||H31438 o... [ score 86 E 2e-16 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSGY--PQPACSLEYVPFCGSDNKTYSNKCDFCNAVADSNGTLTLSHFGKC*
+>P1;gi|86097|pir||H31444 ovomucoid, third domain - greater roadrunne... [ score 86 E 3e-16 ] [ range 2 .. 54 ]
+sequence
+------ASVNCSDY--PKPVCSLLYMPLCGSDNKTYGNKCNFCNAVAHSNGTLTFSHFGKC*
+>P1;gi|16519353|dbj|BAB70709.1| caltrin-like protein I [Cavia porcel... [ score 84 E 1e-15 ] [ range 36 .. 88 ]
+sequence
+--------PNCSRYVQHLYMCTKELDPVCGTDGHTYGNRCIFCSKQLESKGKFTFSHYGRC*
+>P1;gi|1708520|sp|P52266|IOVO_GALAS Ovomucoid >gi|625463|pir||D61494... [ score 82 E 3e-15 ] [ range 2 .. 54 ]
+sequence
+------ATVDCSGY--PQSACPQDYVPFCGSDNKTYSNKCNFCNAVADSNGTLTLSHFGKC*
+>P1;gi|68726|pir||XTBO acrosin inhibitor II (PSTI type) - bovine [ score 81 E 1e-14 ] [ range 2 .. 55 ]
+sequence
+-----GAQVDCAEFKDPKVYCTRHSDPQCGSNGETYGNKCAFCKAVMKSGGKINLKHRG--*
+>P1;gi|29244400|ref|NP_808497.1| hypothetical protein A230091H23 [Mu... [ score 79 E 2e-14 ] [ range 109 .. 162 ] [ duplicate a ]
+sequence
+-------QPDCDKYRTFPNQCTREWNPVCGTNGFTYSNECVFCNAKIAAKEKIDYRHFGPC*
+>P1;gi|29244400|ref|NP_808497.1| hypothetical protein A230091H23 [Mu... [ score 79 E 2e-14 ] [ range 32 .. 69 ] [ duplicate b ]
+sequence
+-------KIDCRPYLDSNDKCTREYHPVCSTSGKTYCNKCTFCKA----------------*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 72 E 4e-12 ] [ range 422 .. 472 ] [ duplicate a ]
+sequence
+----------CREFQKVSPICTMEYVPHCGSDGVTYSNRCFFCNAYVQSNRTLNLVSMAAC*
+>P1;gi|1708509|sp|P10184|IOV7_CHICK Ovoinhibitor precursor >gi|86399... [ score 72 E 4e-12 ] [ range 155 .. 216 ] [ duplicate b ]
+sequence
+------GSVDCSKYPRTLVACPRILSPVCGTDGFTYDNECGICAHNAEQRTHVSKKHDGKC*
+>P1;gi|3913947|sp|P81482|IPSG_MARMT Double-headed protease inhibitor... [ score 70 E 1e-11 ] [ range 70 .. 119 ]
+sequence
+--------IECTQYSD---MCTMEYLPLCGSDGKNYSNKCLFCNAVMGSRGALFLAKHGQC*
+>P1;gi|3913946|sp|P81481|IPSG_MUSLU Double-headed protease inhibitor... [ score 68 E 5e-11 ] [ range 70 .. 119 ]
+sequence
+--------IECPQYSD---MCTMDYLPLCGSDGKNYSNKCLFCNAVLRSRGALFLAKHGQC*
+>P1;gi|124849|sp|P16226|IPSG_MELME Double-headed protease inhibitor,... [ score 66 E 2e-10 ] [ range 70 .. 119 ]
+sequence
+--------IECTQYSD---MCTMDYLPLCGSDGNNYSNKCLFCNAVLRSRGALFLAKHGQC*
+>P1;gi|123986|sp|P00999|IACA_PIG Seminal plasma acrosin inhibitor A1... [ score 66 E 3e-10 ] [ range 4 .. 57 ]
+sequence
+-------QPNCNVYRSHLFFCTRQMDPICGTNGKSYANPCIFCSEKGLRNQKFDFGHWGHC*
+>P1;gi|27229257|ref|NP_084337.1| RIKEN cDNA 9230117E20 [Mus musculus... [ score 63 E 2e-09 ] [ range 45 .. 105 ]
+sequence
+-----GFQAFCSNYEKTLASCPKTHKPVCGTDGKTYQNRCAFCQTAMESLGKLGFKHEGKC*
+>P1;gi|26331702|dbj|BAC29581.1| unnamed protein product [Mus musculus] [ score 62 E 2e-09 ] [ range 557 .. 601 ] [ duplicate a ]
+sequence
+-------KVDCSEYKRGEIFCTRENDPVRGPDGKTHGNKCAMCKAVFK-------------*
+>P1;gi|26331702|dbj|BAC29581.1| unnamed protein product [Mus musculus] [ score 62 E 2e-09 ] [ range 299 .. 340 ] [ duplicate b ]
+sequence
+----------CSEFQDGTLFCTRENDPIRGLDGKTHGNLCSMCQAFFK-------------*
+>P1;gi|26331702|dbj|BAC29581.1| unnamed protein product [Mus musculus] [ score 62 E 2e-09 ] [ range 427 .. 467 ] [ duplicate c ]
+sequence
+----------CSEFRNGMLMCTRENDPVVGPDGKRHSNKCAMCASVF--------------*
+>P1;gi|34879282|ref|XP_341608.1| similar to serine protease inhibito... [ score 61 E 7e-09 ] [ range 654 .. 698 ] [ duplicate a ]
+sequence
+-------KVDCSEFRGGELFCTRENDPVRGPDGKTHGNKCAMCKAVFE-------------*
+>P1;gi|34879282|ref|XP_341608.1| similar to serine protease inhibito... [ score 61 E 7e-09 ] [ range 522 .. 562 ] [ duplicate b ]
+sequence
+----------CSEFQDGMLICTRENDPVVGPDGKTHANKCAMCASVF--------------*
+>P1;gi|34879282|ref|XP_341608.1| similar to serine protease inhibito... [ score 61 E 7e-09 ] [ range 257 .. 293 ] [ duplicate d ]
+sequence
+----------CSDFRDGRLGCTRENDPIRGPDGRTHGNRCAMC------------------*
+>P1;gi|34879282|ref|XP_341608.1| similar to serine protease inhibito... [ score 61 E 7e-09 ] [ range 727 .. 771 ] [ duplicate e ]
+sequence
+------AKDECAQYKNGELSCTRESDPVRGADGKPYNNKCVMCKELL--------------*
+>P1;gi|123983|sp|P01000|IAC1_BOVIN Acrosin inhibitor I (BUSI-I) >gi|... [ score 55 E 4e-07 ] [ range 9 .. 61 ]
+sequence
+-----GFPPDCKVYTE---ACTREYNPICDSAAKTYSNECTFCNEKMNNDADIHFNHFGEC*
+>P1;gi|5803219|ref|NP_006837.1| serine protease inhibitor, Kazal typ... [ score 55 E 5e-07 ] [ range 632 .. 673 ] [ duplicate a ]
+sequence
+----------CDEFRRGKLFCTRENDPVRGPDGKTHGNKCAMCKAVFQ-------------*
+>P1;gi|5803219|ref|NP_006837.1| serine protease inhibitor, Kazal typ... [ score 55 E 5e-07 ] [ range 774 .. 816 ] [ duplicate b ]
+sequence
+----------CDEFRSGKLICTRESDPVRGPDGKTHGNKCTMCKEKLER------------*
+>P1;gi|5803219|ref|NP_006837.1| serine protease inhibitor, Kazal typ... [ score 55 E 5e-07 ] [ range 496 .. 536 ] [ duplicate c ]
+sequence
+----------CSEFRDGTLICTREHNPVRGPDGKMHGNKCAMCASVF--------------*
+>P1;gi|5803219|ref|NP_006837.1| serine protease inhibitor, Kazal typ... [ score 55 E 5e-07 ] [ range 161 .. 197 ] [ duplicate e ]
+sequence
+----------CSAFRDGRLGCTRENDPVLGPDGKTHGNKCAMC------------------*
+>P1;gi|5803219|ref|NP_006837.1| serine protease inhibitor, Kazal typ... [ score 55 E 5e-07 ] [ range 437 .. 478 ] [ duplicate f ]
+sequence
+----------CSEYRKGRLFCTRENDPIQGPDGKMHGNTCSMCEAFFQ-------------*
+>P1;gi|5803219|ref|NP_006837.1| serine protease inhibitor, Kazal typ... [ score 55 E 5e-07 ] [ range 912 .. 956 ] [ duplicate g ]
+sequence
+------AKDECSEFRNYELICPRENDPVHGADGKFYTNKCYMCRAVF--------------*
+>P1;gi|115545|sp|P22074|CALT_CAVPO Caltrin-like protein I >gi|112504... [ score 51 E 7e-06 ] [ range 12 .. 45 ]
+sequence
+--------PNCSRYVQHLYMCTKELDPVCGTDGHTYGNRSIF-------------------*
+>P1;gi|585657|sp|P37109|ISK4_PIG Serine protease inhibitor Kazal-typ... [ score 47 E 1e-04 ] [ range 38 .. 86 ]
+sequence
+------------EHMTESPDCSRIYDPVCGTDGVTYESECKLCLARIENKQDIQIVKDGEC*
+>P1;gi|15451277|dbj|BAB64442.1| hypothetical protein [Macaca fascicu... [ score 46 E 3e-04 ] [ range 331 .. 367 ] [ duplicate c ]
+sequence
+----------CSEYRKGKLACTRENDPIQGPDGKVHGNTCSMC------------------*
+>P1;gi|124191|sp|P16895|IELA_ANESU Elastase inhibitor >gi|84385|pir|... [ score 45 E 5e-04 ] [ range 1 .. 48 ]
+sequence
+-------KPDC------PLICTMQYDPVCGSDGITYGNACMLLGASCRSDTPIELVHKGRC*

@@ -1,0 +1,66 @@
+>P1;1k25a
+structureX:1k25: 632 :A: 692 :A:PBP2X from a highly penicillin-resistant clinical isolate:Streptococcus pneumoniae: 3.2: 23.5
+TESSYAMPSIKDISPGELAEALRRNIVQPIVVGTGTKIKETSVEEGTNLAPNQQVLLLSDK*
+>P1;1qmea
+structureX:1qme: 632 :A: 692 :A:penicillin-binding protein 2X:Streptococcus pneumoniae: 2.4: 19.7
+QQSPYPMPSVKDISPGDLAEELRRNLVQPIVVGTGTKIKNSSAEEGKNLAPNQQVLILSDK*
+>P1;gi|38142233|dbj|BAD00919.1| penicillin-binding protein 2X [Strep... [ score 121 E 4e-27 ] [ range 632 .. 692 ]
+sequence
+SQTSYAMPSIKDISPGDLAEELRRNIVQPIVVGTGTKIKETSVEEGTNLAPNQQVLLLSDK*
+>P1;gi|1553051|emb|CAA67012.1| penicillin-binding protein [Streptoco... [ score 120 E 1e-26 ] [ range 548 .. 608 ]
+sequence
+TESSYAMPSIKDISPGDLAEELRRNIVQPIVVGTGTKIKESSVEEGRNLSPNQQVLILSDK*
+>P1;gi|38142249|dbj|BAD00927.1| penicillin-binding protein 2X [Strep... [ score 119 E 2e-26 ] [ range 632 .. 692 ]
+sequence
+TESSYAMPSIKDISPGDLAEELRRNIVQPIVVGAGTKIKETSVEEGTNLAPNQQVLLLSDK*
+>P1;gi|1553055|emb|CAA67010.1| penicillin-binding protein [Streptoco... [ score 118 E 3e-26 ] [ range 548 .. 608 ]
+sequence
+SQTSYAMPSIKNISPGDLAEELRRNIVQPIVVGTGTKIKESSVEEGRNLSPNQQVLILSDK*
+>P1;gi|38142227|dbj|BAD00916.1| penicillin-binding protein 2X [Strep... [ score 118 E 4e-26 ] [ range 632 .. 692 ]
+sequence
+TESSYAMPSIKDISPGDLAEELRRNLVQPIVVGTGTKIKNSSAEEGKNLAPNQQVLILSDK*
+>P1;gi|38142269|dbj|BAD00937.1| penicillin-binding protein 2X [Strep... [ score 118 E 4e-26 ] [ range 632 .. 692 ]
+sequence
+TESSYAMPSIKDISPGDLAEELRRNIVQPIVIGAGTKIKNASIEEGKNLAPNQQVLLLSDK*
+>P1;gi|2982614|emb|CAA05299.1| penicillin-binding protein 2x [Strept... [ score 117 E 6e-26 ] [ range 549 .. 608 ]
+sequence
+-QSAYAMPSIKDISPGDLAEALRRNIVQPIVVGTGTKIKETSVEEGKNLAPNQQVLLLSDR*
+>P1;gi|47336|emb|CAA46264.1| penicillin binding protein 2x [Streptoc... [ score 117 E 7e-26 ] [ range 548 .. 608 ]
+sequence
+TESSYTMPSIKDISPGDLAEELRRNIVQPIVVGTGTKIKESSVEEGTSLAPNQQVLLLSDK*
+>P1;gi|98038|pir||S16626 penicillin-binding protein 2X - Streptococc... [ score 117 E 8e-26 ] [ range 558 .. 617 ]
+sequence
+-ESSYAMPSIKDISPGDLAEALRRNIVQPIVIGTGTKIKESSVEEGKNLVPNQQVLLLSDK*
+>P1;gi|38142201|dbj|BAD00903.1| penicillin-binding protein 2X [Strep... [ score 116 E 1e-25 ] [ range 633 .. 692 ]
+sequence
+-QSAYAMPSIKDISPGDLAEALRRNIVQPIVVGTGTKIKESSVEEGANLTPNQQVLILSDK*
+>P1;gi|25010351|ref|NP_734746.1| unknown [Streptococcus agalactiae N... [ score 97 E 1e-19 ] [ range 634 .. 693 ]
+sequence
+-QTKYKLSKIVGENPGHVAEELRRNLVQPIILGNGSKVSKVSKRPGANLAENEQLLVLTNK*
+>P1;gi|23098919|ref|NP_692385.1| penicillin-binding protein 2B [Ocea... [ score 53 E 2e-06 ] [ range 611 .. 664 ]
+sequence
+------MPDVVNKSTSEVEEEMTETGLNTIVVGEGSKVVSSSIEAGASVLPNEKVILITD-*
+>P1;gi|2149903|gb|AAC45633.1| penicillin-binding protein [Enterococc... [ score 49 E 4e-05 ] [ range 634 .. 683 ]
+sequence
+----------KNMTPAEALANAKVNGVDPVIIGDGEKIKKQSTPSGEKLMPNQKLILITN-*
+>P1;gi|29375573|ref|NP_814727.1| penicillin-binding protein C [Enter... [ score 48 E 6e-05 ] [ range 634 .. 683 ]
+sequence
+----------KNMTPAEALANAKVNGVDPVIIGDGEKIKKQSTPSGQTLMPNQKLILITN-*
+>P1;gi|21282793|ref|NP_645881.1| penicillin-binding protein 1 [Staph... [ score 46 E 3e-04 ] [ range 601 .. 655 ]
+sequence
+-----KVPDVEGQDKQKAIDNMSAKSLEPVTIGSGTQIKAQSIKAGNKVLPHSKVLLLTD-*
+>P1;gi|27467774|ref|NP_764411.1| penicillin-binding protein 1 [Staph... [ score 44 E 6e-04 ] [ range 595 .. 655 ]
+sequence
+SKTDYKVPNVQGDEVQKAEDSVNAQSLKPITIGNGKQIKQQSVKSGTKVLPHSKVMLMTD-*
+>P1;gi|38142229|dbj|BAD00917.1| penicillin-binding protein 2X [Strep... [ score 116 E 1e-25 ] [ range 633 .. 692 ]
+sequence
+-ESSYAMPSIKDISPGDLAEALRRNIVQPIVVGTGTKIKETSVEEGKNLAPNQQVLLLSDK*
+>P1;gi|28895373|ref|NP_801723.1| putative penicillin binding protein... [ score 104 E 4e-22 ] [ range 632 .. 692 ]
+sequence
+RQTTYKLPNFVGKNPGETSSELRRNLVQPVVLGTGSKIKKVSHQPGQTLTENQQVLILSDR*
+>P1;gi|24378943|ref|NP_720898.1| putative penicillin-binding protein... [ score 99 E 2e-20 ] [ range 630 .. 688 ]
+sequence
+QQTKYYLPNVIGKNPGNTADDLRQNLVHPIVLGTGNKIIKTSVSVGSNLKENQQVLLLT--*
+>P1;gi|15672849|ref|NP_267023.1| penicillin-binding protein [Lactoco... [ score 75 E 4e-13 ] [ range 644 .. 703 ]
+sequence
+KAGKVTIENYKGKDSGDTADSLRRTVLSPVIIGTGAKVTAQSIAEGEKVSANSRILLLTN-*

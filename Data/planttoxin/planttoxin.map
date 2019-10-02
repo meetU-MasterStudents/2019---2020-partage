@@ -1,0 +1,138 @@
+>P1;1gps
+structureN:1gps:   1 : :  47 : :gamma-1-p thionin:Tritium turgidum:-1.00:-1.00
+KICRRRSAGFKGPCM--SNKNCAQVCQQEGWGGGNCDGPFRRCKCIRQC*
+>P1;1gpt
+structureN:1gpt:   1 : :  47 : :gamma-1-p thionin:Hordeum vulgare:-1.00:-1.00
+RICRRRSAGFKGPCV--SNKNCAQVCMQEGWGGGNCDGPLRRCKCMRRC*
+>P1;1myn
+structureX:1myn:   1 : :  44 : :drosomycin:Drosophila melanogaster:-1:-1
+---DCLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSL-KCWCEG-C*
+>P1;gi|15226878|ref|NP_178321.1| plant defensin-fusion protein, puta... [ score 72 E 3e-12 ] [ range 31 .. 77 ]
+sequence
+RTCESKSHRFKGPCV--STHNCANVCHNEGFGGGKCRGFRRRCYCTRHC*
+>P1;gi|7939581|dbj|BAA95697.1| thionin like protein [Nicotiana tabacum] [ score 71 E 6e-12 ] [ range 32 .. 78 ]
+sequence
+RTCESQSHRFKGPCS--RDSNCATVCLTEGFSGGDCRGFRRRCFCTRPC*
+>P1;gi|15226872|ref|NP_178319.1| plant defensin-fusion protein, puta... [ score 70 E 1e-11 ] [ range 31 .. 77 ]
+sequence
+RTCESQSHRFKGTCV--SASNCANVCHNEGFVGGNCRGFRRRCFCTRHC*
+>P1;gi|4753797|emb|CAB42006.1| gamma-thionin [Lycopersicon esculentum] [ score 70 E 1e-11 ] [ range 26 .. 72 ]
+sequence
+RTCESQSHRFKGPCV--SEKNCASVCETEGFSGGDCRGFRRRCFCTRPC*
+>P1;gi|17066707|gb|AAL35366.1| defensin protein precursor [Capsicum ... [ score 70 E 2e-11 ] [ range 32 .. 78 ]
+sequence
+RTCESQSHRFKGVCA--SETNCASVCQTEGFSGGDCRGFRRRCFCTRPC*
+>P1;gi|22330359|ref|NP_176302.2| plant defensin-fusion protein, puta... [ score 69 E 3e-11 ] [ range 30 .. 76 ]
+sequence
+RTCETSSNLFNGPCL--SSSNCANVCHNEGFSDGDCRGFRRRCLCTRPC*
+>P1;gi|7488534|pir||T14395 proteinase inhibitor II - turnip >gi|1209... [ score 66 E 2e-10 ] [ range 31 .. 77 ]
+sequence
+RTCESKSHRFKGTCV--SSTNCGNVCHNEGFGGGKCRGFRVRCYCTRHC*
+>P1;gi|28624546|gb|AAL85480.1| defensin protein 1 [Prunus persica] [ score 64 E 8e-10 ] [ range 33 .. 79 ]
+sequence
+RTCESQSNRFKGTCV--STSNCASVCQTEGFPGGHCRGFRRRCFCTKHC*
+>P1;gi|17373811|sp|O65740|DEF2_CAPAN Defensin J1-2 precursor >gi|298... [ score 64 E 9e-10 ] [ range 28 .. 74 ]
+sequence
+RTCESQSHRFKGLCF--SKSNCGSVCHTEGFNGGHCRGFRRRCFCTRHC*
+>P1;gi|15226876|ref|NP_178320.1| plant defensin-fusion protein, puta... [ score 64 E 1e-09 ] [ range 31 .. 77 ]
+sequence
+RTCASQSQRFKGKCV--SDTNCENVCHNEGFPGGDCRGFRRRCFCTRNC*
+>P1;gi|11387188|sp|P82659|THGF_HELAN Flower-specific gamma-thionin p... [ score 63 E 1e-09 ] [ range 32 .. 78 ]
+sequence
+RTCESQSHKFKGTCL--SDTNCANVCHSERFSGGKCRGFRRRCFCTTHC*
+>P1;gi|7451427|pir||T06381 proteinase inhibitor - soybean >gi|533692... [ score 62 E 2e-09 ] [ range 33 .. 79 ]
+sequence
+RTCESQSHRFKGPCL--SDTNCGSVCRTERFTGGHCRGFRRRCFCTKHC*
+>P1;gi|3915102|sp|Q40901|THG_PETIN Gamma-thionin homolog PPT precurs... [ score 62 E 3e-09 ] [ range 32 .. 78 ]
+sequence
+RTCESQSHRFHGTCV--RESNCASVCQTEGFIGGNCRAFRRRCFCTRNC*
+>P1;gi|129350|sp|P20346|P322_SOLTU Probable protease inhibitor P322 ... [ score 61 E 6e-09 ] [ range 28 .. 74 ]
+sequence
+RHCESLSHRFKGPCT--RDSNCASVCETERFSGGNCHGFRRRCFCTKPC*
+>P1;gi|16225423|gb|AAL15885.1| putative gamma-thionin [Castanea sativa] [ score 60 E 2e-08 ] [ range 32 .. 78 ]
+sequence
+RTCESQSHRFKGPCV--RKSNCASVCQTEGFHGGQCRGFRRRCFCTKHC*
+>P1;gi|135784|sp|P20159|THG2_WHEAT Gamma-2 purothionin >gi|100844|pi... [ score 59 E 4e-08 ] [ range 1 .. 47 ]
+sequence
+KVCRQRSAGFKGPCV--SDKNCAQVCLQEGWGGGNCDGPFRRCKCIRQC*
+>P1;gi|134486|sp|P21924|SIA2_SORBI SMALL PROTEIN INHIBITOR OF INSECT... [ score 58 E 6e-08 ] [ range 1 .. 47 ]
+sequence
+RVCMGKSAGFKGLCM--RDQNCAQVCLQEGWGGGNCDGVMRQCKCIRQC*
+>P1;gi|11387095|sp|Q09198|SA21_SORBI Small protein inhibitor of inse... [ score 58 E 7e-08 ] [ range 1 .. 47 ]
+sequence
+RVCRRRSAGFKGLCM--SDHNCAQVCLQEGWGGGNCDGVMRQCKCIRQC*
+>P1;gi|1173437|sp|P21925|SIA3_SORBI SMALL PROTEIN INHIBITOR OF INSEC... [ score 57 E 7e-08 ] [ range 1 .. 47 ]
+sequence
+RVCRRRSAGFKGLCM--SDHNCAQVCLQEGWGGGNCDGVIRQCKCIRQC*
+>P1;gi|24306004|gb|AAN52490.1| defensin EGAD1 [Elaeis guineensis] [ score 57 E 1e-07 ] [ range 31 .. 77 ]
+sequence
+RTCESQSHKFQGTCL--RESNCANVCQTEGFQGGVCRGVRRRCFCTRLC*
+>P1;gi|2501196|sp|P81008|THG1_MAIZE Gamma-zeathionin 1 >gi|7451430|p... [ score 56 E 2e-07 ] [ range 1 .. 47 ]
+sequence
+RVCRRRSAGFKGVCM--SDHNCAQVCLQEGYGGGNCDGIMRQCKCIRQC*
+>P1;gi|7451428|pir||T02667 proteinase inhibitor - rice >gi|1620753|g... [ score 56 E 2e-07 ] [ range 34 .. 80 ]
+sequence
+RTCESQSHRFKGPCA--RKANCASVCNTEGFPDGYCHGVRRRCMCTKPC*
+>P1;gi|15242860|ref|NP_201171.1| plant defensin-fusion protein, puta... [ score 56 E 3e-07 ] [ range 27 .. 73 ]
+sequence
+RTCQSKSHHFKYMCT--SNHNCAIVCRNEGFSGGRCHGFHRRCYCTRLC*
+>P1;gi|10444372|gb|AAG17880.1| Kunitz trypsin inhibitor protein [Pha... [ score 54 E 9e-07 ] [ range 27 .. 73 ]
+sequence
+RVCESQSHGFKGACT--GDHNCALVCRNEGFSGGNCRGFRRRCFCTKIC*
+>P1;gi|15617410|dbj|BAB64929.1| defensin-like protein [Pyrus pyrifolia] [ score 54 E 1e-06 ] [ range 41 .. 87 ]
+sequence
+RTCEAASGKFKGMCF--SSNNCANTCAREKFDGGKCKGFRRRCMCTKKC*
+>P1;gi|2129842|pir||S51637 probable proteinase inhibitor SE60 precur... [ score 54 E 1e-06 ] [ range 29 .. 75 ]
+sequence
+RVCESQSHGFHGLCN--RDHNCALVCRNEGFSGGRCKGFRRRCFCTRIC*
+>P1;gi|32400845|gb|AAP80654.1| proteinase inhibitor Rgpi9 [Triticum ... [ score 52 E 3e-06 ] [ range 43 .. 89 ]
+sequence
+RKCESLSHRFAGLCL--RGHNCANVCRTEGFPGGKCRGASRRCFCTTHC*
+>P1;gi|18202534|sp|Q43413|DEF1_CAPAN Defensin J1-1 precursor >gi|117... [ score 52 E 4e-06 ] [ range 28 .. 74 ]
+sequence
+KICEALSGNFKGLCL--SSRDCGNVCRREGFTDGSCIGFRLQCFCTKPC*
+>P1;gi|24638243|sp|P83399|THGC_VIGUN Cp-thionin [ score 50 E 1e-05 ] [ range 1 .. 47 ]
+sequence
+RVCESQSHGFKGACT--GDHNCALVCRNEGFSGGNCRGFRRRCFCTLKC*
+>P1;gi|11596184|gb|AAG38520.1| proteinase inhibitor se60-like protei... [ score 50 E 1e-05 ] [ range 27 .. 73 ]
+sequence
+RVCQSQSHHFHGACF--SHHNCAFVCRNEGFSGGKCRGVRRRCFCSKLC*
+>P1;gi|7484442|pir||T14866 probable gamma-thionin precursor SPI1 - N... [ score 47 E 1e-04 ] [ range 34 .. 82 ]
+sequence
+RTCKTPSGKFKGVCA--SSNNCKNVCQTEGFPSGSCDFHVRKCYCSKPC*
+>P1;gi|1200228|emb|CAA65045.1| defensin [Capsicum annuum] [ score 47 E 2e-04 ] [ range 28 .. 73 ]
+sequence
+KICEALSGNFKGLCL--SSRDCGNVCRREGFTSGVCRGFPLKCFCRKP-*
+>P1;gi|1362092|pir||S57809 gamma-thionin-like protein precursor - to... [ score 46 E 4e-04 ] [ range 27 .. 73 ]
+sequence
+QICKAPSQTFPGLCF--MDSSCRKYCIKEKFTGGHCSKLQRKCLCTKPC*
+>P1;gi|8099186|gb|AAF72043.1| defensin CUA1 [Helianthus annuus] [ score 45 E 4e-04 ] [ range 2 .. 42 ]
+sequence
+------SHSFKGTCL--SDTNCANVCHSERFSGGKCRGFRRRCFCTTHC*
+>P1;gi|44887844|sp|Q8GTM0|DEF_NICAL Flower-specific defensin precurs... [ score 45 E 5e-04 ] [ range 26 .. 72 ]
+sequence
+RECKTESNTFPGICI--TKPPCRKACISEKFTDGHCSKILRRCLCTKPC*
+>P1;gi|401181|sp|P32026|THGF_TOBAC Flower-specific gamma-thionin pre... [ score 44 E 7e-04 ] [ range 26 .. 72 ]
+sequence
+RECKTESNTFPGICI--TKPPCRKACISEKFTDGHCSKLLRRCLCTKPC*
+>P1;gi|24656733|ref|NP_728860.1| CG32279-PA [Drosophila melanogaster... [ score 90 E 1e-17 ] [ range 63 .. 106 ]
+sequence
+---DCLSGKYKGPCAVWDNEMCRRICKEEGHISGHCSPSL-KCWCEG-C*
+>P1;gi|24656744|ref|NP_647803.1| CG10812-PA [Drosophila melanogaster... [ score 78 E 7e-14 ] [ range 26 .. 69 ]
+sequence
+---DCLSGRYGGPCAVWDNETCRRVCKEEGRSSGHCSPSL-KCWCEG-C*
+>P1;gi|24656738|ref|NP_728861.1| CG32283-PA [Drosophila melanogaster... [ score 76 E 2e-13 ] [ range 28 .. 71 ]
+sequence
+---DCLSGTFGGPCWAWSGEKCRRLCIEEGHVSGHCSGAM-KCWCEG-C*
+>P1;gi|24656741|ref|NP_728862.1| CG32282-PA [Drosophila melanogaster... [ score 74 E 1e-12 ] [ range 28 .. 71 ]
+sequence
+---DCPSGRFSGPCWAWDGEQCRRLCREEGRVSGHCSASL-KCWCEQ-C*
+>P1;gi|24656799|ref|NP_728873.1| CG32268-PA [Drosophila melanogaster... [ score 72 E 4e-12 ] [ range 27 .. 72 ]
+sequence
+---DCLSGRYRGPCAVWDNETCRRVCREEGRVSGHCSARL-QCWCEG-C*
+>P1;gi|15636903|dbj|BAB68214.1| drosomycin-like A [Drosophila triaur... [ score 71 E 6e-12 ] [ range 28 .. 71 ]
+sequence
+---DCLSGTFKGPCWAWSGEKCRRLCIEEGRVSGHCSGGS-KCWCEG-C*
+>P1;gi|24656794|ref|NP_728872.1| CG32274-PA [Drosophila melanogaster... [ score 70 E 1e-11 ] [ range 26 .. 69 ]
+sequence
+---DCLSGRYRGSCAVWHRKKCVDICQREGRTSGHCSPSL-KCWCEG-C*

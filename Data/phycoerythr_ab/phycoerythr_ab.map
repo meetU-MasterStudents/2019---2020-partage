@@ -1,0 +1,36 @@
+>P1;1qgwa
+structureX:1qgw:   1 :A:  76 :A:phycoerythrin alpha-3 chain:Chroomonas sp: 1.63: 14.9
+AMDSAKAPQITIFDHRGCSRAPKESTGGKAGGQDDEMMVKVASTKVTVSESDAAKKLQEFITFEKGIDGP
+FTSKN*
+>P1;1qgwb
+structureX:1qgw:   1 :B:  67 :B:phycoerythrin 545:Rhodomonas sp. cs 24: 1.63: 14.9
+AMDSAKAPVITIFDHRGCSRAPKEYTGAKAGGKDDEMMVKAQSVKIEVSTGTAEGVLATSLAKMT-----
+----K*
+>P1;gi|19702221|emb|CAC33091.2| phycoerythrin alpha-subunit 1 [Rhodo... [ score 130 E 9e-30 ] [ range 53 .. 128 ]
+sequence
+AMDSAKAPQITIFDHRGCSRAPKESTGAKAGGQDDEMMVKVASTKVTVSEADAAKKLQEFITFEKGIDGP
+FTSKN*
+>P1;gi|129977|sp|P23816|PH62_CHRSP Phycocyanin-645 alpha-2 chain (PC... [ score 97 E 1e-19 ] [ range 6 .. 65 ]
+sequence
+-----RAPYVEIFDARGCDAKNSQYTGPKSGDMNDDQCVKVSMAVPKVSEATAEKKRQEFLGFKE-----
+-----*
+>P1;gi|81177|pir||D22102 phycoerythrin-545 alpha-2 chain - Cryptomon... [ score 62 E 4e-09 ] [ range 1 .. 42 ]
+sequence
+AMDSAKAPVLTIFDHRGCSRAPKENT-SKSGGKDDEMLVKAQ----------------------------
+-----*
+>P1;gi|13162209|emb|CAC33093.1| phycoerythrin alpha-subunit 2 [Rhodo... [ score 100 E 1e-20 ] [ range 38 .. 104 ]
+sequence
+AMDSAKAPVITIFDHRGCSRAPKEYTGAKAGGKDDEMMVKAQSVKIEVSSGTAEGVLATALGKMS-----
+----K*
+>P1;gi|13162208|emb|CAC33092.1| phycoerythrin alpha-subunit 1 [Rhodo... [ score 97 E 1e-19 ] [ range 53 .. 112 ]
+sequence
+AMDSAKAPQITIFDHRGCSRAPKESTGAKAGGQDDEMMVKVASTKVSVSEADAAKKLAE-----------
+-----*
+>P1;gi|129976|sp|P23815|PH61_CHRSP Phycocyanin-645 alpha-1 chain (PC... [ score 90 E 1e-17 ] [ range 6 .. 65 ]
+sequence
+-----RTPVITIFDARGCKHANKEYTGPKAGGADDEMCVKVAMQKIAVAEDAAALVLKECLSEL------
+-----*
+>P1;gi|400764|sp|P30942|PHE1_RHOS2 Phycoerythrin alpha-1 chain [ score 64 E 1e-09 ] [ range 1 .. 44 ]
+sequence
+AMDSAKAPQITIFDHRGCSRAPKSETGGTA-TKDDQMMVKVSQV--------------------------
+-----*

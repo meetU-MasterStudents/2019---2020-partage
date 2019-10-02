@@ -1,0 +1,1048 @@
+>P1;1f7ua
+structureX:1f7u:   2 :A: 135 :A:arginyl-tRNA synthetase, cytoplasmic:Saccharomyces cerevisiae: 2.2: 19
+ASTANMISQLKKLSIAEPAVAKDSHPDVNIVDLMRNYISQELSKISGVDSSLIFPALEWTNTMERGDLLI
+PIPRL-RIKGANPKDLAVQWAEKFPCGDFLEKVEANGPFIQFFFNPQFLAKLVIPDILTRKEDYG*
+>P1;1iq0a
+structureX:1iq0:   1 :A:  95 :A:arginyl-tRNA synthetase:Thermus thermophilus: 2.30: 21.5
+----------------------------MLRRALEEAIAQALKEM-GVPVRL---KVARAPKDKPGDYGV
+PLFALAKELRKPPQAIAQELKDRLPLPEFVEEAVPVGGYLNFRLRTEALLREALRPK--------*
+>P1;gi|42555518|gb|EAA78361.1| hypothetical protein FG06576.1 [Gibbe... [ score 214 E 3e-55 ] [ range 2 .. 136 ]
+sequence
+ATDANALAQLQELGIDKVESYPNCHPDTNPVDIYRSHITSLLAPITGVDPSIIYPAIQWTQTLDKGDAIL
+AVPAL-RVKGKKPGELAEEWASKFPESPLIEKPTASGPFISFFFKADKLTNMLLPTIRKQASSYG*
+>P1;gi|45198315|ref|NP_985344.1| AFL206Cp [Eremothecium gossypii] >g... [ score 203 E 9e-52 ] [ range 51 .. 176 ]
+sequence
+--------QLAKLSIQAPTKMAGSHPEANVVDLIRNYITDELSRISGVAGPLIYEALEWTNTLERGDLLI
+PVPRL-RIKGSNPKDLAAEWAVAFPCGEYLDRVEANGSFIQFFFKPQFLFNVVVPDVLTRKEDYG*
+>P1;gi|40739562|gb|EAA58752.1| hypothetical protein AN6368.2 [Asperg... [ score 201 E 2e-51 ] [ range 2 .. 141 ]
+sequence
+ASTDSLPAAVESLSLQETSKFPNSYPSLNPVDVYREHISEHLSAITGIEAEKIYPRLQFTSTLDKGDLLL
+PVPSL-QIKGKSPADLSKELAEKFPESDLIHPPIAGGPHLQFFFKEKPLAQRVIGQIFKEKAAYG*
+>P1;gi|32416846|ref|XP_328901.1| probable cytosolic arginine--tRNA l... [ score 193 E 7e-49 ] [ range 6 .. 141 ]
+sequence
+APIDQLVKQVDGLNLAVKAKFPDTYPDLNLMDLYRAHLANVLSEVTGVDTAIIYPNLGWTSGLDKGDIAL
+PVPSL-RVKGKKPDELAQEWAAKFPDTDLFTKPTVSQIHLSFFVKASPLVNAVIPMVQHKGAEYG*
+>P1;gi|38100887|gb|EAA47950.1| hypothetical protein MG09080.4 [Magna... [ score 192 E 1e-48 ] [ range 6 .. 140 ]
+sequence
+--SIDQLATLAGLSLSEGSRFPNFYPESNPLDVYRAHLTNILQPITGVDPKIIYPAVQWTSSLDKGDLVV
+AAPAL-RVKGKKPDELVKEWSEKFPTDDLFEKPVVTGYFLQFWFKPDPLTRNLIPLIRELGDDYG*
+>P1;gi|19112869|ref|NP_596077.1| putative arginyl-trna synthetase, c... [ score 190 E 5e-48 ] [ range 2 .. 133 ]
+sequence
+ATSVDQISKLSTLGLQDLPVFREADIHHNPVDVYRSYISSELSKINGVDVSLIYPALETSISKDSADLNL
+PVPRL-RVKGK-PQELAQKWAEAFP-KDLVE-VTANGIFLRFNFNGPSLTKLILPIIWEQRENYG*
+>P1;gi|42547858|gb|EAA70701.1| hypothetical protein FG00755.1 [Gibbe... [ score 156 E 8e-38 ] [ range 717 .. 842 ]
+sequence
+---------LGKAGLDTPPEYPGADIVHNPQDIFRVYLAETIQKLTNCDRLVAYDAIQTSNVTGMGDLVV
+VAPRL-RLKDVNNEDLAKDLLQKLPRLPPFGCPIRDGIRLQVFFSPNTLSRLSLFYISDRNVSYG*
+>P1;gi|1174539|sp|P38714|SYRM_YEAST Arginyl-tRNA synthetase, mitocho... [ score 149 E 8e-36 ] [ range 69 .. 171 ]
+sequence
+-----------------------------PLDVLRLDISKALHDISGIDHSLILNALESTNSMDRGDLLL
+PLPKI-KV--ADPVAVANRWAIELSTHGCIGKVCAKGPFLQFFLDQRYLIQSTVPNILLQKGKYG*
+>P1;gi|15894328|ref|NP_347677.1| Arginyl-tRNA synthetase [Clostridiu... [ score 133 E 9e-31 ] [ range 3 .. 103 ]
+sequence
+---------------------------------YKKVIAERINKIVDMDVEALYKIIEIPPKKDMGDFAL
+PCFQF-KVLRKAPNAIAEEVCKKIDQSGF-EKVENLGPYINFFVDKADFAKETIESVLSERDNYG*
+>P1;gi|15903931|ref|NP_359481.1| Arginyl-tRNA synthetase(arginine--t... [ score 125 E 2e-28 ] [ range 4 .. 103 ]
+sequence
+----------------------------------KELIASELSSIDSLDQEAILKLLETPKNSEMGDIAF
+PAFSL-KVERKAPQMIAAELAEKMNSQAF-EKVVATGPYVNFFLDKSAISAQVLQAVTTEKEHY-*
+>P1;gi|29376964|ref|NP_816118.1| arginyl-tRNA synthetase [Enterococc... [ score 116 E 9e-26 ] [ range 4 .. 105 ]
+sequence
+----------------------------------KEIVAKALHDVLNMDQ--IEQLLENPKSVDHGDVAF
+PAFSL-KIYRKAPQQIAAELAEKIDGTNF-EKIEVVGPYLNFFMNKEAVSQAVIGEVVKEKNNYG*
+>P1;gi|28210674|ref|NP_781618.1| arginyl-tRNA synthetase [Clostridiu... [ score 112 E 2e-24 ] [ range 3 .. 103 ]
+sequence
+---------------------------------YKELISERLSSIIELPIEDIEKLIEIPPKPEMGDFAF
+PCFQL-KTFRKAPNMIAEELKDKFDKSNF-EKVENLGPYLNFFVDKSIFSKNVIEKILEEKDKYG*
+>P1;gi|22992166|ref|ZP_00036829.1| COG0018: Arginyl-tRNA synthetase ... [ score 110 E 5e-24 ] [ range 28 .. 105 ]
+sequence
+--------------------------------------------------------LENPKSAEHGDVAF
+PAFSL-KVYRKAPQQIAADLAEKIDSANF-EKIEVVGPYLNFFMNKELISKKVLQTVVKEKEHYG*
+>P1;gi|21911345|ref|NP_665613.1| putative arginyl-tRNA synthetase [S... [ score 109 E 1e-23 ] [ range 4 .. 103 ]
+sequence
+----------------------------------KTLIASEIAKVVELEQDAIFNLLETPKNSDMGDLAF
+PAFSL-KVLRKAPQMIASELAEQIDESQF-EKVVAVGPYINFFLDKAKISSQVLEQVITAGSDY-*
+>P1;gi|18310643|ref|NP_562577.1| arginine-tRNA ligase [Clostridium p... [ score 105 E 2e-22 ] [ range 3 .. 103 ]
+sequence
+---------------------------------YKKLVAERIKEHVDLELENIEKLIEIPPKPEMGDFAF
+PCFQL-KVMRKAPNMIAAELAEKINKEGF-ERVECLGPYLNFFVDKVAFSKNIISKVLEEGDKYG*
+>P1;gi|15674020|ref|NP_268195.1| arginyl-tRNA synthetase [Lactococcu... [ score 99 E 2e-20 ] [ range 4 .. 105 ]
+sequence
+----------------------------------KQLVSQALSAIDGVGVEQIAAIIEKPKSSDLGDLAF
+PAFQL-KTLRKSPQIIAGEIAEKIDTKGF-EKVIAVGPYVNFFLDKNATASEVIREVLTEGEHYG*
+>P1;gi|22538237|ref|NP_689088.1| arginyl-tRNA synthetase [Streptococ... [ score 98 E 3e-20 ] [ range 4 .. 103 ]
+sequence
+----------------------------------KHLIASEIQKVVDMEQSTILSLLETPKNSSMGDLAF
+PAFSL-KTLRKAPQIIASDIAEQI-KSDQFEKVEAVGPYVNFFLDKAAISSQVLKQVLSDGSAY-*
+>P1;gi|30262191|ref|NP_844568.1| arginyl-tRNA synthetase [Bacillus a... [ score 97 E 9e-20 ] [ range 3 .. 105 ]
+sequence
+---------------------------------YKTQFAESLSNINELTQQQILDLIETPKQDEFGDAAF
+PCFSL-KQYKKSPAIIAKEVAEKL-SDPFFTKVEAVGPYVNVFFNRDTVSDAVLKTILAEKEEYG*
+>P1;gi|24380431|ref|NP_722386.1| putative arginyl-tRNA synthase [Str... [ score 94 E 7e-19 ] [ range 7 .. 103 ]
+sequence
+-------------------------------------IAKEIAAIVALEQETILNLLEKPKKSSMGDLAF
+PTFSL-KTMRKAPQIIASELVGQINNS-YFEKVEAVGPYINFFLNKSEISAQVLKEVIKKREDY-*
+>P1;gi|45532449|ref|ZP_00183455.1| hypothetical protein Exigu115401 ... [ score 87 E 6e-17 ] [ range 3 .. 105 ]
+sequence
+---------------------------------YKQQYAQVLHDVIGLSQEEIEQLIEQPKHEDHGDLAF
+PCFQL-KAFRKAPMMIATELAEKIDN-PLFSNVQAAGPYVNVFLNREVVSREIIKRVLEEQQAYG*
+>P1;gi|28378123|ref|NP_785015.1| arginine--tRNA ligase [Lactobacillu... [ score 81 E 4e-15 ] [ range 3 .. 104 ]
+sequence
+---------------------------------YKQLVAALAPALPDLTQEAILDKIEQPKTSKQGDLAF
+PTFTL-KTLHKAPQMIASDIVEKVDSSDF-EKVVAMGPYVNFFFKKDAFAADILNQVLSNGGHFG*
+>P1;gi|23003636|ref|ZP_00047292.1| COG0018: Arginyl-tRNA synthetase ... [ score 81 E 4e-15 ] [ range 9 .. 109 ]
+sequence
+---------------------------------FKQKVVDLVSEQVDLPKEKIAMLIERPKNAKMGDYAF
+PAFAL-KIEHKNPALIAKEIAEKISDDNF-TSIEAVGPYVNFAIDHAKLVNATLNDVLTEKDHFG*
+>P1;gi|23024387|ref|ZP_00063601.1| COG0018: Arginyl-tRNA synthetase ... [ score 80 E 9e-15 ] [ range 7 .. 104 ]
+sequence
+-------------------------------------IVEALNAVTDLTLQEISEKLEAPKSSDLGDVAF
+PTFTL-KTLHKAPQLIAADIVAAIDQEGF-EKVVATGPYVNFFLDKVATSNQVLKTVFDLEGAYG*
+>P1;gi|42518608|ref|NP_964538.1| arginyl-tRNA synthetase [Lactobacil... [ score 78 E 3e-14 ] [ range 3 .. 103 ]
+sequence
+---------------------------------FKQKVVDLVSEQVDLPKEKISMLIERPKNPKMGDYAF
+PAFAL-KIEHKNPALIAKDIAEKISDDNF-TSIQAVGPYVNFAIDHAKLVNATLNDVLTEKEHFG*
+>P1;gi|42526483|ref|NP_971581.1| arginyl-tRNA synthetase [Treponema ... [ score 71 E 7e-12 ] [ range 12 .. 115 ]
+sequence
+-------------------------------------IADTLNGIAPETCDKILPNIETPPNPEMGDVAF
+PLFTF-KSFKSSPAKIASDVCARLLENEDIKKPKAIGPYLNVFLAKGDLASNVLDKVLKEKENYG*
+>P1;gi|44621890|gb|EAK54386.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 19 .. 115 ]
+sequence
+-------------------------------------------------TSEIKALIEQPPDAEMGDFAL
+PCFSF-KKLRRSPKQIAEELENLLPEHSPFSRIKAFGPYLNFFLDPETLARELLPSIF-QKSSTG*
+>P1;gi|44262791|gb|EAI04855.1| unknown [environmental sequence] [ score 67 E 7e-11 ] [ range 15 .. 108 ]
+sequence
+----------------------------------------------------IKALIEQPPDAEMGDFAL
+PCFSF-KKLRRSPKQISEEL-EKFPSEDPFSRIKAFGPYLNFFLDPETLARELLPSSF-QKSSKG*
+>P1;gi|43542420|gb|EAE25942.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 11 .. 98 ]
+sequence
+------------------------------------------------DTSEIIGLIEHPPNLELGDYAL
+PCFSF-KTLRRSPVVIAFDLAEKLQSNSPFTQIQARGPYLNFTVSSSAVAEVVLPDIF--NGNY-*
+>P1;gi|15643850|ref|NP_228899.1| arginyl-tRNA synthetase [Thermotoga... [ score 64 E 5e-10 ] [ range 2 .. 105 ]
+sequence
+-----------------------------LVNAIRQKVSEVISKAYGSEIEF---EVEIPPRKEFGDLNV
+AMKLA-KTLKKNPREIAQEIVKSLDEDPSFDRIEIMGPFINFFLSNELL-RGVVKTVLEKKDEYG*
+>P1;gi|23100470|ref|NP_693937.1| arginine-tRNA ligase [Oceanobacillu... [ score 62 E 3e-09 ] [ range 34 .. 115 ]
+sequence
+-------------------------------------------------------ILEKPKDKAHGDFAI
+AMQLA-RVAKKAPRQIADDIASKLNKSEAVEKVEIAGPFINFFMKQDFLG-EVIDTVLSAGDNYG*
+>P1;gi|15616370|ref|NP_244675.1| arginyl-tRNA synthetase [Bacillus h... [ score 61 E 4e-09 ] [ range 34 .. 115 ]
+sequence
+-------------------------------------------------------ILETPKEKAHGDFAT
+MAMQL-RVAKKAPRLIAEELTAKLDRKAAIEKIEIAGPFINFFLDNSYL-REMIPTVLRAESAYG*
+>P1;gi|15639817|ref|NP_219267.1| arginyl-tRNA synthetase (argS) [Tre... [ score 61 E 5e-09 ] [ range 3 .. 115 ]
+sequence
+----------------------------DLCEMWRHAVARVLSQLQGPAVEPVEGAMEEPPEPGMGDIAF
+PLFLF-RVRR-SPAQLAQQLCTLLDTSMCYGTPQARGPYLNVFLNKECVAAHTLDAIFAQGERYG*
+>P1;gi|43684977|gb|EAE97648.1| unknown [environmental sequence] [ score 60 E 6e-09 ] [ range 12 .. 101 ]
+sequence
+-------------------------------------------------TSEIKALIEQPPDAEMGDFAL
+PCFSF-KKLRRSPKQIAEELENLLATEPPFSRIKAFGPYLHFFLDPETLARELLPSI--------*
+>P1;gi|23037870|ref|ZP_00070066.1| COG0018: Arginyl-tRNA synthetase ... [ score 60 E 1e-08 ] [ range 2 .. 104 ]
+sequence
+----------------------------NFTHIIAEKINQTLENTFDLD--KLEKLVEKPKDLNRGDYAF
+PTFSL-SAKHEAPQKIALKIADEIDRTNFAN-VKAVGPYVNFFIQRVEFTNQLLKEILL-NDDFG*
+>P1;gi|23104852|ref|ZP_00091312.1| COG0018: Arginyl-tRNA synthetase ... [ score 59 E 2e-08 ] [ range 22 .. 119 ]
+sequence
+-------------------------------DTIRQLIQQALTRLTGVLPAGLTPAIQVENTKDHGDFAI
+AMMLA-KPAGLKPRQLAEKLVAALPADASVSKVEIAGPFLNFFQNSDALARRL------------*
+>P1;gi|20808887|ref|NP_624058.1| Arginyl-tRNA synthetase [Thermoanae... [ score 59 E 2e-08 ] [ range 39 .. 119 ]
+sequence
+--------------------------------------------------------VEEPKEKQHGDLAF
+AMVMA-REAKMAPRKIAEIIASKMNTSGFIEKVEVAGPFINFFLNQNFLI-ETLKLIHKRGKDYG*
+>P1;gi|18977752|ref|NP_579109.1| arginyl-tRNA synthetase [Pyrococcus... [ score 59 E 3e-08 ] [ range 33 .. 111 ]
+sequence
+-----------------------------------------------------------TPSPELGDFGT
+PVFQL-RLLRKSPLIIAQEIAEKFNKNKPKEKAIAVNGYVNFFLDYPQISKLVIEAILGYGTEYG*
+>P1;gi|16080786|ref|NP_391614.1| arginyl-tRNA synthetase [Bacillus s... [ score 59 E 3e-08 ] [ range 19 .. 115 ]
+sequence
+--------------------------------VLKAGLAEE-SQIPNV-------VLETPKDKTHGDYNM
+AMQLA-RVAKKAPRQIAEEIVAHFDGKASIEKLDIAGPFINFYMNNQYLTKL-IPSVLEAGEAYG*
+>P1;gi|21227450|ref|NP_633372.1| Arginyl-tRNA synthetase [Methanosar... [ score 59 E 3e-08 ] [ range 36 .. 108 ]
+sequence
+----------------------------------------------------------------HADLAS
+AAFRL-AIHRQNPKDLASRIAVEIPEGSFIGKVSAAGPYINFFAGKHYL-NGTVNAVLKEKEKFG*
+>P1;gi|45358589|ref|NP_988146.1| Arginyl-tRNA synthetase [Methanococ... [ score 58 E 3e-08 ] [ range 1 .. 105 ]
+sequence
+------------------------------MDVENLIITTLKDKVKGLTGNEMDIRLDEPPAINMGDYST
+NIFRL-KDLKKAPKMIAEDIANSLSILG-IERIEAVNGYINFFMNYSDFSKETVSKISDEKENFG*
+>P1;gi|15613397|ref|NP_241700.1| arginine-tRNA ligase [Bacillus halo... [ score 58 E 3e-08 ] [ range 6 .. 92 ]
+sequence
+-------------------------------------ISEELARILSLKEDEVERLLEIPPQETLGDLAF
+PCFTL-KTKRKAPPFIAAELEAAFLEHKEVT-AKATGGYVNFFFHRETVAGQLFQ----------*
+>P1;gi|44643421|gb|EAK70025.1| unknown [environmental sequence] [ score 57 E 6e-08 ] [ range 1 .. 107 ]
+sequence
+---------------------------------MKSHIQSLLQTIESFKQQGILPAVDRTKDKSHGDLAL
+AMMLT-KAAGKNPRELAQLIIDNLPASAYVAKVEIAGPFINFFIDDSALANQLQAAISDE-----*
+>P1;gi|44513039|gb|EAJ78257.1| unknown [environmental sequence] [ score 57 E 6e-08 ] [ range 1 .. 110 ]
+sequence
+---------------------------------MKEHIHHLLQTVANLKSAGVLPALEARVQVDHGDLAT
+NLAML-LAKRKNPRELAAAIIEHLPASDLIAKVEIAGPFINFFFDQRWLAGQVEAMVTSANAN--*
+>P1;gi|43209194|gb|EAC70140.1| unknown [environmental sequence] [ score 57 E 6e-08 ] [ range 6 .. 85 ]
+sequence
+--------------------------------------------------------LQESKDKEHGDYAI
+AMILA-KTLSRNPKDLAEQISKEFPLDEQILKVEVAGPFINFFVSEETHSK-ILMTINLEKEKYG*
+>P1;gi|30023394|ref|NP_835025.1| Arginyl-tRNA synthetase [Bacillus c... [ score 56 E 1e-07 ] [ range 35 .. 115 ]
+sequence
+--------------------------------------------------------LESPKDKTNGDFNM
+AMQLA-RVAKKAPRMIAEELVANFDKKASIEKIEIAGPFINFYMDNSYLTDL-IPTIVNAGEAYG*
+>P1;gi|26991765|ref|NP_747190.1| arginyl-tRNA synthetase [Pseudomona... [ score 56 E 2e-07 ] [ range 3 .. 100 ]
+sequence
+-------------------------------DTIRQLIQQALTQLDGVLPEGLSPAIQVENARDHGDFAI
+AMMLA-KPAGMKPRDLAEKLINALPASADISKVEIAGPFLNFFQNTDALANRL------------*
+>P1;gi|24375609|ref|NP_719652.1| arginyl-tRNA synthetase [Shewanella... [ score 55 E 3e-07 ] [ range 1 .. 107 ]
+sequence
+---------------------------------MKSHIQSLLQTIESFKQQGILPAVDRTKDKSHGDLAT
+NVAMM-KAAGKNPRELAQLIIDNLPASAYVAKVEIAGPFINFFIDDSALANQLQAAIGDE-----*
+>P1;gi|15792499|ref|NP_282322.1| arginyl-tRNA synthetase [Campylobac... [ score 55 E 3e-07 ] [ range 1 .. 82 ]
+sequence
+---------------------------------MKSIIFNEIKKILECDF-----ALENPKDKNLAHFAT
+PAFSL-KELKKSPMLIASDLASKFQNHDCFESVEAVNGYLNFRISKTFL----------------*
+>P1;gi|44245005|gb|EAH92188.1| unknown [environmental sequence] [ score 54 E 5e-07 ] [ range 32 .. 111 ]
+sequence
+--------------------------------------------------------IEYSRDASHGDFAI
+AMVLA-KMLDCNPRELANKITKNIPKTDLVKNVEIAGPFINFFLSQNSY-QSVVLDILKRGDLYG*
+>P1;gi|15668412|ref|NP_247208.1| arginyl-tRNA synthetase (argS) [Met... [ score 54 E 5e-07 ] [ range 2 .. 108 ]
+sequence
+------------------------DIKSNIINALKEVISKEICKEIDIK-------LDKTPNLELGDYSV
+ICFRL-KELKKNPKIIAEELVDKLKAMNIVKEIKAVNGYINFYIDYNKFAKNLMEEIDKKGNNYG*
+>P1;gi|44164718|gb|EAH47584.1| unknown [environmental sequence] [ score 54 E 6e-07 ] [ range 30 .. 110 ]
+sequence
+-------------------------------------------------------NIQENKEKEHGDLAI
+ALVLA-KPLGKNPKEIADQIKDNFFTDEDITKVEVAGPFINFFLSKKS-HGSVLKEISVEKDSYG*
+>P1;gi|28872251|ref|NP_794870.1| arginyl-tRNA synthetase [Pseudomona... [ score 54 E 6e-07 ] [ range 3 .. 100 ]
+sequence
+-------------------------------DTIRQLIQQALTRLVGVLPEGLTPAIQVENARDHGDFAI
+AMMLA-KPAGMKPRDLAEKLIAALPADEQVSKVEIAGPFLNFFQNTAALASRL------------*
+>P1;gi|42781300|ref|NP_978547.1| arginyl-tRNA synthetase [Bacillus c... [ score 53 E 1e-06 ] [ range 36 .. 100 ]
+sequence
+---------------------------------YKKQFAESLSNINELTQKQILDLIETPKQDEFGDVAF
+PCFSL-KQYKKSPAIIAKEVAEKLSD---------------------------------------*
+>P1;gi|44644153|gb|EAK70571.1| unknown [environmental sequence] [ score 52 E 2e-06 ] [ range 5 .. 78 ]
+sequence
+--------------------------------------------------------------KEHGDLAI
+ALVLA-KPLGKNPKEIADQIKANFFTDEDITKVEVAGPFINFFLSKKS-HGSVLKEISVKKDNYG*
+>P1;gi|44391521|gb|EAI94423.1| unknown [environmental sequence] [ score 52 E 2e-06 ] [ range 5 .. 95 ]
+sequence
+------------------------------------------SGIDDLDYQI---KLQENKGKEHGDYAI
+AMILA-KSLGRNPKDLAENISKNFKLDDQILKIEVAGPFINFFVSELTHS-EILRTIDSEKDKYG*
+>P1;gi|32044426|ref|ZP_00141527.1| COG0018: Arginyl-tRNA synthetase ... [ score 52 E 3e-06 ] [ range 3 .. 100 ]
+sequence
+-------------------------------DTIRQLIQQALDQLTGTLPAGLTPDIQVENTKDHGDFAI
+AMMLA-KPAGMKPRDLAARLVEAIPAHEQLAKVEIAGPFLNFFQDHVWLAASL------------*
+>P1;gi|23469727|ref|ZP_00125061.1| COG0018: Arginyl-tRNA synthetase ... [ score 51 E 5e-06 ] [ range 3 .. 92 ]
+sequence
+-------------------------------DTIRQLIQQALTRLVGVLPEGLTPAIQVENARDHGDFAI
+AMMLA-KPAGMKPRDLAEKLIAALPADQQISKVEIAGPFLNFFQN--------------------*
+>P1;gi|23822211|sp|Q9PGZ9|SYR_XYLFA Arginyl-tRNA synthetase (Arginin... [ score 50 E 6e-06 ] [ range 33 .. 112 ]
+sequence
+--------------------------------------------------------VERPKTRKHGDFAT
+NVAML-KATGSNPRLLAQTLVAALPTSADIARIEIAGPFINFHLHPVAYQRETI-NVLKQDNDYG*
+>P1;gi|44597811|gb|EAK37207.1| unknown [environmental sequence] [ score 50 E 7e-06 ] [ range 10 .. 110 ]
+sequence
+-----------------------------------KLIVEELIKKSDV-GDIKYKILQENKDKEHGDYAS
+NIAMI-LAKDENPKNLAKQISEEFLLDEDILKVEVAGPFINFFVSQATHA-EILKDIDSEKGKYG*
+>P1;gi|29655291|ref|NP_820983.1| arginyl-tRNA synthetase [Coxiella b... [ score 50 E 9e-06 ] [ range 34 .. 117 ]
+sequence
+------------------------------------------------------PVIKITHTTDHGDFAL
+ALTLS-KAAGMSPHALAEKIVEALPPSGQITEVEIAGPFINFFVTEGSY-QTVVSSILKAGKDYG*
+>P1;gi|23059275|ref|ZP_00084258.1| COG0018: Arginyl-tRNA synthetase ... [ score 50 E 1e-05 ] [ range 59 .. 156 ]
+sequence
+-------------------------------DTIRQLIQQALTQLVGVLPEGLTPAIQVENARDHGDFAI
+AMMLA-KPAGMKPRDLAEKIIAALPADENVTKAEIAGPFINFFQNTQALASRL------------*
+>P1;gi|15679444|ref|NP_276561.1| arginyl-tRNA synthetase [Methanothe... [ score 50 E 1e-05 ] [ range 10 .. 106 ]
+sequence
+----------------------------------RDSITAALEKL-GIKVPPEIK-LEEPPNPQLGDLAS
+TV-SF-ELAGKAPIEITADIMSVIETPEIFETIESKGPYINFFVDYGRFSSRLLESIQ---DDYG*
+>P1;gi|44452824|gb|EAJ37285.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 1 .. 80 ]
+sequence
+--------------------------------------------------------MQENKDKEHGDYAS
+NIAMI-LAKDLNSKDLADQISNEFPLDNQILKVEVAGPFINFFVSKETHAQ-VLNTIDLEKEKYG*
+>P1;gi|34556632|ref|NP_906447.1| ARGINYL-TRNA SYNTHETASE [Wolinella ... [ score 49 E 3e-05 ] [ range 19 .. 97 ]
+sequence
+--------------------------------------------------------LEKPKDKNHGHYAT
+PAFSL-KELKKNPALIAQELSKKLSEIEVFESVQSVGGYINFRLKQGFLAQASL--ALSQGREFG*
+>P1;gi|30248381|ref|NP_840451.1| Arginyl-tRNA synthetase [Nitrosomon... [ score 48 E 3e-05 ] [ range 23 .. 114 ]
+sequence
+---------------------------------------QVLPDEVGVQIELLRPKL-----ADHGDYNL
+AMKLA-RRLRRNPLELAKALIGALPDSSCVEKAVAGGGFINFFLKKTA-KQQFLHAVLQAGDSFG*
+>P1;gi|41719302|ref|ZP_00148206.1| hypothetical protein Mbur136801 [... [ score 48 E 4e-05 ] [ range 45 .. 109 ]
+sequence
+----------------------------------------------------------------------
+-AFRL-SVAKQSPKDVAEKIAGEIPKGSFVEKVEALGPYLNIWAGRNFIEGTVL-AIREQKEAFG*
+>P1;gi|20094195|ref|NP_614042.1| Arginyl-tRNA synthetase [Methanopyr... [ score 48 E 4e-05 ] [ range 18 .. 122 ]
+sequence
+---------------------------------IRTSIRDAISSVYEVDELIEVPIDENPPV-EGADLAT
+PVASL-KELDENPRELAETIVEESDLDDFVEKAWVEGPFINLKLDRSQYAALTLRSIFYYGEEYG*
+>P1;gi|44581974|gb|EAK26023.1| unknown [environmental sequence] [ score 48 E 4e-05 ] [ range 2 .. 81 ]
+sequence
+--------------------------------------------------------IEQPPNPELGDYAL
+PCFIF-NTLRRSPSVIASELADKLQKHAPFTQIQARGPYLNFTVSAAAVAEAVLPNIFH--GNY-*
+>P1;gi|15921521|ref|NP_377190.1| 623aa long hypothetical arginyl-tRN... [ score 48 E 4e-05 ] [ range 2 .. 99 ]
+sequence
+----------------------------NPIKEVKLEFAKILSERLSIDQNKIYENFEYPPKEQMGDVSL
+PLPTV-----TKNKELLN--ISDFPSGGLIREIKKAGIYINGVINESELFKLIFTNF---PEDYG*
+>P1;gi|23001310|ref|ZP_00045218.1| COG0018: Arginyl-tRNA synthetase ... [ score 48 E 5e-05 ] [ range 37 .. 117 ]
+sequence
+--------------------------------------------------------VERPKDKSHGDFSI
+NTAMV-LAKRMKPRDLAQRLVDALPSGGVVSRCEIAGPFINFFVTPERL-RGVVADVLQRGGSYG*
+>P1;gi|16804599|ref|NP_466084.1| arginyl tRNA synthetase [Listeria m... [ score 47 E 6e-05 ] [ range 35 .. 115 ]
+sequence
+--------------------------------------------------------LEVPKDKKHGDYNI
+AMQLA-RVAKKAPRQIAESIVPELKKDNLIKEVEIAGPFINFYLDNAYLTDLV-PVILTEDKKYG*
+>P1;gi|14520895|ref|NP_126370.1| arginyl-tRNA synthetase [Pyrococcus... [ score 47 E 7e-05 ] [ range 2 .. 111 ]
+sequence
+-----------------------------------------LSRVKEGAREKIIKVIESTPSPELGDFGT
+PVFKL-RVMKKPPFQIAEELKKELPEG--IREVRAINGYVNFFVDYGYLARQLIVEVLEKGDRFG*
+>P1;gi|20088942|ref|NP_615017.1| arginyl-tRNA synthetase [Methanosar... [ score 47 E 7e-05 ] [ range 31 .. 106 ]
+sequence
+-------------------------------------------------------------TSSHADLAS
+VAFRL-SIHKQNPKELASRIAIEIPEGSYIGEVSAAGPYINF-LAGRHYMDETVTAVREEKEKFG*
+>P1;gi|43796797|gb|EAF53017.1| unknown [environmental sequence] [ score 47 E 8e-05 ] [ range 1 .. 80 ]
+sequence
+--------------------------------------------------------MQENKDKEHGDYAI
+AMILA-KNLATNPKNLAEQISKDFPLDDDILKVEVAGPFINFFVSEATHA-EVLKKIDSEKVKYG*
+>P1;gi|43600598|gb|EAE55150.1| unknown [environmental sequence] [ score 47 E 8e-05 ] [ range 2 .. 78 ]
+sequence
+-----------------------------------------------------------PKNSDFGDFAL
+PLQFL-KLLSSNPMEIAENLVSLLPDCKEIEKLIANPGFINFSLSKNWINNE-IKMILTREKDYG*
+>P1;gi|16801767|ref|NP_472035.1| arginyl tRNA synthetase [Listeria i... [ score 47 E 9e-05 ] [ range 35 .. 115 ]
+sequence
+--------------------------------------------------------LEVPKDKKHGDYNI
+AMQLA-RVAKKAPRQIAESIVPELKDTKLIKEVEIAGPFINFYLDNAYLTDLV-PVILTEDKKYG*
+>P1;gi|22970675|ref|ZP_00017722.1| hypothetical protein [Chloroflexu... [ score 47 E 1e-04 ] [ range 1 .. 55 ]
+sequence
+----------------------------------------------------------------------
+------------PVRLAADLATAIPPDSLIGEVTATGAFLNFTLHPQRLAAAVMAEIETYGDAYG*
+>P1;gi|44379096|gb|EAI85426.1| unknown [environmental sequence] [ score 46 E 1e-04 ] [ range 16 .. 95 ]
+sequence
+--------------------------------------------------------IQDNKEKEYGDLAV
+ALVLA-KPLKRNPREIAEEIKVKFITDKEIVKVDVAGPFINFFLSKES-HGAILKDISIQKNNFG*
+>P1;gi|22538237|ref|NP_689088.1| arginyl-tRNA synthetase [Streptococ... [ score 131 E 4e-30 ] [ range 4 .. 94 ]
+sequence
+------------------------------KHLIASEIQKVVPDM-EQSTIL---SLLETPKNSMGDLAF
+PAFSLAKTLRKAPQIIASDIAEQIKSDQF-EKVEAVGPYVNFFLDKAAISSQVLK----------*
+>P1;gi|19746992|ref|NP_608128.1| putative arginyl-tRNA synthetase [S... [ score 127 E 6e-29 ] [ range 4 .. 93 ]
+sequence
+------------------------------KTLIASEIAKVVPEL-EQDAIF---NLLETPKNSMGDLAF
+PAFSLAKVLRKAPQMIASELAEQIDESQF-EKVVAVGPYINFFLDKAKISSQVL-----------*
+>P1;gi|15807552|ref|NP_296288.1| arginyl-tRNA synthetase [Deinococcu... [ score 127 E 7e-29 ] [ range 3 .. 94 ]
+sequence
+-----------------------------LKAQLKAAVEQAAHQM-GMPVDA---AIQETPANKPGDYGT
+PAFQMAKAAGGNPAQIAAQLAQTVVLPAGIRRVEATGPFLNFFLDAGAFVRGVV-----------*
+>P1;gi|15903931|ref|NP_359481.1| Arginyl-tRNA synthetase(arginine--t... [ score 116 E 1e-25 ] [ range 4 .. 94 ]
+sequence
+------------------------------KELIASELSSIIDSL-DQEAIL---KLLETPKNEMGDIAF
+PAFSLAKVERKAPQMIAAELAEKMNSQAF-EKVVATGPYVNFFLDKSAISAQVLQ----------*
+>P1;gi|9295534|gb|AAF86984.1| ArgS [Lactococcus lactis subsp. lactis] [ score 115 E 3e-25 ] [ range 4 .. 95 ]
+sequence
+----------------------------------KQLVSQALSAL-GVEQIA---AIIEKPKSSDGDLAF
+PAFQLAKTLRKSPQIIAGEIAEKIDTK-GFEKVIAVGPYVNFFLDKNATASEVIR----------*
+>P1;gi|15606252|ref|NP_213630.1| arginyl-tRNA synthetase [Aquifex ae... [ score 109 E 2e-23 ] [ range 1 .. 91 ]
+sequence
+-----------------------------MKELVKEKVLKALKEL-TQVENF---KVEKPKEEAHGDLAS
+NAFLLARELKKPPVNIAQELADFLSKDETFKSVEAVKGFINFRF-SEDFLKE-------------*
+>P1;gi|24380431|ref|NP_722386.1| putative arginyl-tRNA synthase [Str... [ score 107 E 4e-23 ] [ range 5 .. 94 ]
+sequence
+-------------------------------RLIAKEIAAIVPAL-EQETIL---NLLEKPKSSMGDLAF
+PTFSLAKTMRKAPQIIASELVGQINNS-YFEKVEAVGPYINFFLNKSEISAQVLK----------*
+>P1;gi|44621890|gb|EAK54386.1| unknown [environmental sequence] [ score 103 E 9e-22 ] [ range 19 .. 105 ]
+sequence
+----------------------------------------------TSEIKA---LIEQPPDAEMGDFAL
+PCFSFSKKLRRSPKQIAEELENLLT-PEHSERIKAFGPYLNFFLDPETLARELL-----------*
+>P1;gi|28210674|ref|NP_781618.1| arginyl-tRNA synthetase [Clostridiu... [ score 101 E 3e-21 ] [ range 4 .. 92 ]
+sequence
+------------------------------KELISERLSSIIELP-IEDIEK---LIEIPPKPEMGDFAF
+PCFQLAKTFRKAPNMIAEELKDKFDKSNF-EKVENLGPYLNFFVDKSIFSKNVI-----------*
+>P1;gi|15668412|ref|NP_247208.1| arginyl-tRNA synthetase (argS) [Met... [ score 101 E 3e-21 ] [ range 10 .. 97 ]
+sequence
+--------------------------------ALKEVIS---KEI-CKEIDI---KLDKTPNLELGDYSV
+NCFRLAKELKKNPKIIAEELVDKLKAMEGVKEIKAVNGYINFYIDYNKFAKNLM-----------*
+>P1;gi|18310643|ref|NP_562577.1| arginine-tRNA ligase [Clostridium p... [ score 101 E 5e-21 ] [ range 4 .. 92 ]
+sequence
+------------------------------KKLVAERIKEHV-DL-ELENIE---KLIEPPKPEMGDFAF
+PCFQLAKVMRKAPNMIAAELAEKINK-EGFERVECLGPYLNFFVDKVAFSKNII-----------*
+>P1;gi|15894328|ref|NP_347677.1| Arginyl-tRNA synthetase [Clostridiu... [ score 99 E 3e-20 ] [ range 4 .. 92 ]
+sequence
+------------------------------KKVIAERINKIV-DM-DVEALY---KIIEPPKKDMGDFAL
+PCFQFAKVLRKAPNAIAEEVCKKIDQS-GFEKVENLGPYINFFVDKADFAKETI-----------*
+>P1;gi|29376964|ref|NP_816118.1| arginyl-tRNA synthetase [Enterococc... [ score 97 E 8e-20 ] [ range 4 .. 94 ]
+sequence
+----------------------------------KEIVAKALHEL-TMDQIE---QLLENPKSDHGDVAF
+PAFSLAKIYRKAPQQIAAELAEKIDGTNF-EKIEVVGPYLNFFMNKEAVSQAVI-----------*
+>P1;gi|44262791|gb|EAI04855.1| unknown [environmental sequence] [ score 97 E 1e-19 ] [ range 14 .. 98 ]
+sequence
+------------------------------------------------EIKA---LIEQPPDAEMGDFAL
+PCFSFSKKLRRSPKQISEELEKFL-APEPSERIKAFGPYLNFFLDPETLARELL-----------*
+>P1;gi|22992166|ref|ZP_00036829.1| COG0018: Arginyl-tRNA synthetase ... [ score 95 E 3e-19 ] [ range 4 .. 95 ]
+sequence
+------------------------------KDLVAKAVYDAVKDL-TLEQVE---QLLENPKAEHGDVAF
+PAFSLAKVYRKAPQQIAADLAEKIDSANF-EKIEVVGPYLNFFMNKELISKKVLQ----------*
+>P1;gi|28378123|ref|NP_785015.1| arginine--tRNA ligase [Lactobacillu... [ score 93 E 1e-18 ] [ range 4 .. 93 ]
+sequence
+------------------------------KQLVAAALAPALPDL-TQEAIL---KIEQPKTSKQGDLAF
+PTFTLAKTLHKAPQMIASDIVEKVDSSDF-EKVVAMGPYVNFFFKKDAFAADIL-----------*
+>P1;gi|23024387|ref|ZP_00063601.1| COG0018: Arginyl-tRNA synthetase ... [ score 93 E 1e-18 ] [ range 6 .. 94 ]
+sequence
+--------------------------------QIVEALNAVLTDL-TLQEIS---EKLEAPKSSDGDVAF
+PTFTLAKTLHKAPQLIAADIVAAID-QEGFEKVVATGPYVNFFLDKVATSNQVLK----------*
+>P1;gi|34556632|ref|NP_906447.1| ARGINYL-TRNA SYNTHETASE [Wolinella ... [ score 92 E 2e-18 ] [ range 18 .. 86 ]
+sequence
+--------------------------------------------------------VLEKPKDKHGHYAT
+PAFSLAKELKKNPALIAQELSKKLSEIEVFESVQSVGGYINFRLKQGFLDAQA------------*
+>P1;gi|45532449|ref|ZP_00183455.1| hypothetical protein Exigu115401 ... [ score 92 E 2e-18 ] [ range 4 .. 95 ]
+sequence
+----------------------------------KQQYAQVLHDL-SQEEIE---QLIEQPKHEHGDLAF
+PCFQLAKAFRKAPMMIATELAEKIDNPLFS-NVQAAGPYVNVFLNREVVSREIIK----------*
+>P1;gi|21400045|ref|NP_656030.1| tRNA-synt_1d, tRNA synthetases clas... [ score 88 E 4e-17 ] [ range 18 .. 95 ]
+sequence
+-------------------------------------------EL-TQQQIL---DLIETPKDEFGDAAF
+PCFSLAKQYKKSPAIIAKEVAEKLSDP-FFTKVEAVGPYVNVFFNRDTVSDAVLK----------*
+>P1;gi|18977752|ref|NP_579109.1| arginyl-tRNA synthetase [Pyrococcus... [ score 83 E 2e-15 ] [ range 5 .. 100 ]
+sequence
+-----------------------------IKSEIKRTIEGIVREM-APDEDI---QFVDTPSPELGDFGT
+PAFQLARLLRKSPLIIAQEIAEKFNKPKEVKKAIAVNGYVNFFLDYPQISKLVI-----------*
+>P1;gi|43684977|gb|EAE97648.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 12 .. 98 ]
+sequence
+----------------------------------------------TSEIKA---LIEQPPDAEMGDFAL
+PCFSFSKKLRRSPKQIAEELENLLSEDQIFSRIKAFGPYLHFFLDPETLARELL-----------*
+>P1;gi|45358589|ref|NP_988146.1| Arginyl-tRNA synthetase [Methanococ... [ score 82 E 3e-15 ] [ range 20 .. 92 ]
+sequence
+----------------------------------------------GNEMDI---RLDEPPAINMGDYST
+NIFRLAKDLKKAPKMIAEDIANSLS-ILGIERIEAVNGYINFFMNYSDFSKE-------------*
+>P1;gi|23003636|ref|ZP_00047292.1| COG0018: Arginyl-tRNA synthetase ... [ score 81 E 6e-15 ] [ range 10 .. 98 ]
+sequence
+----------------------------------KQKVVDLVSEL-PKEKIA---MLIERPKNKMGDYAF
+PAFALAKIEHKNPALIAKEIAEKISDDNFT-SIEAVGPYVNFAIDHAKLVNATL-----------*
+>P1;gi|15613397|ref|NP_241700.1| arginine-tRNA ligase [Bacillus halo... [ score 79 E 2e-14 ] [ range 1 .. 92 ]
+sequence
+----------------------------MLAQMISEELARILSLK-EDEVER---LLEIPPQETLGDLAF
+PCFTLAKTKRKAPPFIAAELAAFLEHKEVTAK--ATGGYVNFFFHRETVAGQLFQ----------*
+>P1;gi|43542420|gb|EAE25942.1| unknown [environmental sequence] [ score 78 E 4e-14 ] [ range 12 .. 90 ]
+sequence
+----------------------------------------------TSEIIG---LIEHPPNLELGDYAL
+PCFSFSKTLRRSPVVIAFDLAEKLQKNSPFTQIQARGPYLNFTVSSSAVAEVVL-----------*
+>P1;gi|42518608|ref|NP_964538.1| arginyl-tRNA synthetase [Lactobacil... [ score 78 E 6e-14 ] [ range 4 .. 92 ]
+sequence
+----------------------------------KQKVVDLVSEL-PKEKIS---MLIERPKNKMGDYAF
+PAFALAKIEHKNPALIAKDIAEKISDDNFT-SIQAVGPYVNFAIDHAKLVNATL-----------*
+>P1;gi|15679444|ref|NP_276561.1| arginyl-tRNA synthetase [Methanothe... [ score 77 E 1e-13 ] [ range 1 .. 98 ]
+sequence
+----------------------------MFRYIEKEAITAALEKL-GVPPEI---KLEEPPNPQLGDLAS
+TVFELAGKLRRAPIEITADIMSVIETPEIFETIESKGPYINFFVDYGRFSSRLL-----------*
+>P1;gi|15643850|ref|NP_228899.1| arginyl-tRNA synthetase [Thermotoga... [ score 76 E 2e-13 ] [ range 1 .. 95 ]
+sequence
+----------------------------MLVNAIRQKVSEVIKAY-GSEIEF---EVEIPPRKEFGDLST
+NAMKLAKTLKKNPREIAQEIVKSLDEDPSFDRIEIMGPFINFFL-SNELLRGVVK----------*
+>P1;gi|15616370|ref|NP_244675.1| arginyl-tRNA synthetase [Bacillus h... [ score 74 E 6e-13 ] [ range 7 .. 104 ]
+sequence
+-----------------------------MKQQLREEIVVAVKAA-GLATDE---TILETPKEKHGDFAT
+NAMQLARVAKKAPRLIAEELTAKLDKRAAIEKIEIAGPFINFFLD-NSYLREMI-----------*
+>P1;gi|14520895|ref|NP_126370.1| arginyl-tRNA synthetase [Pyrococcus... [ score 74 E 6e-13 ] [ range 10 .. 100 ]
+sequence
+------------------------------REKIIKVIESLAPGW-KGEIEF---K--DTPSPELGDFGT
+PAFKLARVMKKPPFQIAELIVEELKKPEGIREVRAINGYVNFFVDYGYLARQLI-----------*
+>P1;gi|15792499|ref|NP_282322.1| arginyl-tRNA synthetase [Campylobac... [ score 74 E 9e-13 ] [ range 1 .. 85 ]
+sequence
+-----------------------------MKSIIFNEIKKIL------ECDF---ALENPKDKNLAHFAT
+PAFSLAKELKKSPMLIASDLASKFQNHDCFESVEAVNGYLNFRISK-TFLNEL------------*
+>P1;gi|23037870|ref|ZP_00070066.1| COG0018: Arginyl-tRNA synthetase ... [ score 73 E 2e-12 ] [ range 5 .. 95 ]
+sequence
+-------------------------------HIIAEKINQTLEDL-DKLEKL----VEKPKDLNRGDYAF
+PTFSLSAKFHEAPQKIALKIADEIDRTNFA-NVKAVGPYVNFFIQRVEFTNQLLK----------*
+>P1;gi|42526483|ref|NP_971581.1| arginyl-tRNA synthetase [Treponema ... [ score 72 E 4e-12 ] [ range 29 .. 104 ]
+sequence
+------------------------------------------------PEQI---NIETPPNPEMGDVAF
+PLFTFAKSFKSSPAKIASDVCARLLENEDIKKYKAIGPYLNVFLAKGDLASNVL-----------*
+>P1;gi|23100470|ref|NP_693937.1| arginine-tRNA ligase [Oceanobacillu... [ score 72 E 4e-12 ] [ range 11 .. 104 ]
+sequence
+-----------------------------LKEQIHHAVIHAELAT-EDQVPD---IILEKPKDKHGDFAT
+NAMQLARVAKKAPRQIADDIASKLNKSESVEKVEIAGPFINFFM-KQDFLGEVI-----------*
+>P1;gi|15639817|ref|NP_219267.1| arginyl-tRNA synthetase (argS) [Tre... [ score 71 E 6e-12 ] [ range 7 .. 104 ]
+sequence
+----------------------------MWRHAVARVLSQLQPAV-EPVEGA---QLEEPPEPGMGDIAF
+PLFLFAKRVRRSPAQLAQQLCTLLEEDTSYGTPQARGPYLNVFLNKECVAAHTL-----------*
+>P1;gi|14591265|ref|NP_143342.1| arginyl-tRNA synthetase [Pyrococcus... [ score 69 E 3e-11 ] [ range 5 .. 100 ]
+sequence
+-----------------------------IRESVEEIIKEIAPQW-EGEIEL---K--ETPDPKLGDFGT
+PAFKLAKLLKRPPIEIAEKIVEKLKLPEGIKDVKAVNGYINVFIDYPHFARILI-----------*
+>P1;gi|43951639|gb|EAG31720.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 11 .. 94 ]
+sequence
+-------------------------------ELLQKAIKKSFPEA-TKDIYN---QIGKPPNPKMGHFAY
+PCFPLAKSFKMSPAAIAQKIAENIEENTLFESCQAQGPYLNVFISS-------------------*
+>P1;gi|32266208|ref|NP_860240.1| arginyl-tRNA synthetase [Helicobact... [ score 67 E 1e-10 ] [ range 1 .. 83 ]
+sequence
+-----------------------------MHHHIKALLQSAL-NI-KNTIDI---VLERPKNKDLGHFAT
+PALSLAKIEKTNPKLIAEEIAKILTNYAEFEKVETLNGFVNLTLST-------------------*
+>P1;gi|30023394|ref|NP_835025.1| Arginyl-tRNA synthetase [Bacillus c... [ score 66 E 2e-10 ] [ range 10 .. 96 ]
+sequence
+----------------------------LIKEEIQAAVLKAELAT-EEQIPN---VVLESPKDKNGDFST
+NAMQLARVAKKAPRMIAEELANFDKAKASIEKIEIAGPFINFYMD--------------------*
+>P1;gi|16804599|ref|NP_466084.1| arginyl tRNA synthetase [Listeria m... [ score 66 E 3e-10 ] [ range 11 .. 96 ]
+sequence
+-----------------------------LIEHIKQAVVQALEET-EVPEIL----LEVPKDKKHGDYST
+NAMQLARVAKKAPRQIAESIVPELKKDNLIKEVEIAGPFINFYLD--------------------*
+>P1;gi|20808887|ref|NP_624058.1| Arginyl-tRNA synthetase [Thermoanae... [ score 66 E 3e-10 ] [ range 9 .. 109 ]
+sequence
+------------------------------KEEIKDVVLKALNEA-KKEQDV---EVEEPKEKQHGDLAT
+NAMVMAREAKMAPRKIAEIIASKMNTSGFIEKVEVAGPFINFFLNQN-FLIETLK----------*
+>P1;gi|42523502|ref|NP_968882.1| argS [Bdellovibrio bacteriovorus HD... [ score 65 E 5e-10 ] [ range 14 .. 100 ]
+sequence
+--------------------------------LLKDAIGRAYPDF-SASEDK---ALVNPPKSDLGDLAF
+GCFILAKALKTAPPQVATAVAAQMKGA----TAVAAGPYINIRFDEQTHGEQVL-----------*
+>P1;gi|16080786|ref|NP_391614.1| arginyl-tRNA synthetase [Bacillus s... [ score 64 E 7e-10 ] [ range 10 .. 102 ]
+sequence
+----------------------------VLKEEIKAAVLKAGLAE-ESQIPN---VVLETPKDKHGDYST
+NAMQLARVAKKAPRQIAEEIVAHFDKKASIEKLDIAGPFINFYMNNQYLTK--------------*
+>P1;gi|15611371|ref|NP_223022.1| ARGINYL-TRNA SYNTHETASE [Helicobact... [ score 64 E 7e-10 ] [ range 1 .. 81 ]
+sequence
+-----------------------------MHTLIKGVLEEIL------EAEV---IIEYPKDREHGHYAT
+PAFNLAKVFKKSPLAIAEELALKIKTQGFFDRVVACKGYINFTL---------------------*
+>P1;gi|43556680|gb|EAE33103.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 12 .. 85 ]
+sequence
+----------------------------------------------TSEIKA---LIEQPPDAEMGDFAL
+PCFSFSKKLRRSPKQIAEEL-EKLLAPEPSERIKAFGPYLN------------------------*
+>P1;gi|44643421|gb|EAK70025.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 8 .. 100 ]
+sequence
+----------------------------LLEQTIESFKQQGILPA-DFEARI---QVDRTKDKSHGDLAT
+NAMMLTKAAGKNPRELAQLIIDNLPASAYVAKVEIAGPFINFFIDDSALANQL------------*
+>P1;gi|44164718|gb|EAH47584.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 1 .. 92 ]
+sequence
+-----------------------------MKEKIQENLKGILGDL-IKEFDI---NIQENKEKEHGDLAS
+NALVLAKPLGKNPKEIADQIKDNFFTDEDITKVEVAGPFINFFLSK-------------------*
+>P1;gi|43209194|gb|EAC70140.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 3 .. 72 ]
+sequence
+--------------------------------------------------KI---KLQESKDKEHGDYAS
+NAMILAKTLSRNPKDLAEQISKEFPLDEQILKVEVAGPFINFFVSEETHSK--------------*
+>P1;gi|42781300|ref|NP_978547.1| arginyl-tRNA synthetase [Bacillus c... [ score 62 E 3e-09 ] [ range 51 .. 101 ]
+sequence
+-------------------------------------------EL-TQKQIL---DLIETPKDEFGDVAF
+PCFSLAKQYKKSPAIIAKEVAEKLSDP--------------------------------------*
+>P1;gi|30248381|ref|NP_840451.1| Arginyl-tRNA synthetase [Nitrosomon... [ score 61 E 6e-09 ] [ range 16 .. 108 ]
+sequence
+--------------------------------LLDQAARQVLPD--EVGVQI---ELLRPKLADHGDYSS
+NAMKLARRLRRNPLELAKALIGALPDSSCVEKAVAGGGFINFFLKKTAFLHAVLQ----------*
+>P1;gi|42848672|gb|EAA91673.1| unknown [environmental sequence] [ score 61 E 6e-09 ] [ range 12 .. 65 ]
+sequence
+----------------------------------------------TSEIKA---LIEQPPDAEMGDFAL
+PCFSFSKKLRRSPKQIAEELENLL-APEPSEDQI-------------------------------*
+>P1;gi|15608432|ref|NP_215808.1| argS [Mycobacterium tuberculosis H3... [ score 61 E 7e-09 ] [ range 6 .. 102 ]
+sequence
+-----------------------------LAELLKATAAAVLAER-GLDASA---LVERPRIPEHGDYAS
+NAMQLAKKVGTNPRELAGWLAEALTKVDGIASAEVAGPFINMRLETAAQAKVV------------*
+>P1;gi|44270114|gb|EAI09886.1| unknown [environmental sequence] [ score 61 E 9e-09 ] [ range 28 .. 92 ]
+sequence
+---------------------------------------------------I---EINRTTDTSHGDLYT
+NAMKLAKILKKSPMLIAEEIMKNLEAIDSIEKIEATPGYINFFLTKS------------------*
+>P1;gi|23822211|sp|Q9PGZ9|SYR_XYLFA Arginyl-tRNA synthetase (Arginin... [ score 60 E 1e-08 ] [ range 1 .. 102 ]
+sequence
+-----------------------------MKAPLRALICQGIEAL-TLPPDF---VVERPKTRKHGDFAT
+NAMLLSKATGSNPRLLAQTLVAALPTSADIARIEIAGPFINFHLHPVAYQRETI-----------*
+>P1;gi|44245005|gb|EAH92188.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 1 .. 101 ]
+sequence
+-----------------------------MKKQLQELINQSLQTL-KQKNDI---KIEYSRDASHGDFAT
+NAMVLAKMLDCNPRELANKITKNIPKTDLVKNVEIAGPFINFFLSQNSYQSVVL-----------*
+>P1;gi|23104852|ref|ZP_00091312.1| COG0018: Arginyl-tRNA synthetase ... [ score 60 E 1e-08 ] [ range 20 .. 119 ]
+sequence
+-----------------------------MKDTIRQLIQQALTRL-TDDGVL---QVENTKDKSHGDFAS
+NAMMLAKPAGLKPRQLAEKLVAALPADASVSKVEIAGPFLNFFQNSDALARRL------------*
+>P1;gi|44513039|gb|EAJ78257.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 7 .. 100 ]
+sequence
+-------------------------------HLLEQTVAN-LKSA-GVEARV---QVDRCKEKAHGDLAT
+NAMLLAKPARKNPRELAAAIIEHLPASDLIAKVEIAGPFINFFFDQRWLAGQV------------*
+>P1;gi|39996911|ref|NP_952862.1| arginyl-tRNA synthetase [Geobacter ... [ score 60 E 1e-08 ] [ range 15 .. 109 ]
+sequence
+----------------------------LVREALERSFADGTLAS-GHVPDI---VVEKPALEEHGDFAT
+AAMLMAKAEKKAPRAIAEIIITHLNDRELVESVEIAGPFINFRMRTSAWCR-VLR----------*
+>P1;gi|11498499|ref|NP_069727.1| arginyl-tRNA synthetase (argS) [Arc... [ score 59 E 2e-08 ] [ range 6 .. 77 ]
+sequence
+-------------------------------------IEEVIKAL-GEYGDK---KFLR--ESEHADLAS
+TAFKLAKERKKSPKEIADEIVENLVESEYIGSVESVNGYINFF----------------------*
+>P1;gi|21672856|ref|NP_660921.1| arginyl-tRNA synthetase [Chlorobium... [ score 59 E 2e-08 ] [ range 1 .. 95 ]
+sequence
+-----------------------------MRAFFLPFIQDALQKA-GIETDI---QIDKPNDKKFGDFST
+NAFLVAKEARKNPRELAGQLIGLLDFPEGVTKTEVAGPFINFHLAPAFFMRSA------------*
+>P1;gi|21233284|ref|NP_639201.1| arginyl-tRNA synthetase [Xanthomona... [ score 59 E 2e-08 ] [ range 1 .. 102 ]
+sequence
+-----------------------------MKAQLRALIGQGIEAL-TLPPDF---VVERPKTREHGDFAT
+NAMLLAKAARSNPRALAQALLAALPASDDVARVEIAGPFINFHLTPAAYQREVI-----------*
+>P1;gi|33591373|ref|NP_879017.1| arginyl-tRNA synthetase [Bordetella... [ score 59 E 3e-08 ] [ range 47 .. 132 ]
+sequence
+--------------------------------LIQAAVAQCLPEA-QAQV-----QLERPKVAAHGDIAT
+NAMQLAKPARRNPRELAQGIVDALMAQELIQDAEIAGPFINFRLTPAA-----------------*
+>P1;gi|15836752|ref|NP_297440.1| arginyl-tRNA synthetase [Xylella fa... [ score 59 E 3e-08 ] [ range 29 .. 126 ]
+sequence
+-----------------------------LRALICQGIEATLPTN-TLPPDF---VVERPKTRKHGDFAT
+NAMLLSKATGSNPRLLAQTLVAALPTSADIARIEIAGPFINFHLHPVAYQRETI-----------*
+>P1;gi|31544216|ref|NP_852794.1| ArgS [Mycoplasma gallisepticum R] >... [ score 58 E 4e-08 ] [ range 8 .. 87 ]
+sequence
+---------------------------------IKTQIDHALKQL-NLPTDV---LIQQTKNIQFGDFSS
+NAMVLSKRQNKNPQEIAKQIIEQLNPNEFEKITFSKPGFINFFL---------------------*
+>P1;gi|44442035|gb|EAJ29621.1| unknown [environmental sequence] [ score 58 E 6e-08 ] [ range 24 .. 87 ]
+sequence
+--------------------------------------------------------VERTRDSSHGDFTS
+NALRLAKSLKKNPRELANEIIKYIPKNNSIKKIQVAGPFMNFYLDDSA-----------------*
+>P1;gi|44461926|gb|EAJ43680.1| unknown [environmental sequence] [ score 57 E 8e-08 ] [ range 14 .. 87 ]
+sequence
+---------------------------------------------------I---SIQDNKENQYGDLAS
+NALVLAKPLKRNPKEIAEEIKGKFITDKEIVKVDVAGPFINFFLSKEAILRDI------------*
+>P1;gi|44597811|gb|EAK37207.1| unknown [environmental sequence] [ score 57 E 9e-08 ] [ range 9 .. 100 ]
+sequence
+-----------------------------LKLIVEELIKK--SDV-GIKYKI---RLQENKDKEHGDYAS
+NAMILAKDLSENPKNLAKQISEEFLLDEDILKVEVAGPFINFFV-SQATHAEILK----------*
+>P1;gi|15835354|ref|NP_297113.1| arginyl-tRNA synthetase [Chlamydia ... [ score 57 E 1e-07 ] [ range 8 .. 97 ]
+sequence
+-----------------------------LTSLCSSAIRQAFPEL-E-ELTL---DITPSTKEHFGHYQC
+NAMKLARALRKSPRAIAEEIVAHIPATPFSSIEIAGAGFINFTFSKEFLANQL------------*
+>P1;gi|44012259|gb|EAG64528.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 3 .. 97 ]
+sequence
+-----------------------------IKELLSSKTQAAMVAL-GLPADT---NTAVTTKVEFGDYQI
+NAMAAAKLLKTNPRALAQQLVQQLDLADMAEKVEIAGPFINVTLRKDWLAAQLV-----------*
+>P1;gi|43796797|gb|EAF53017.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 1 .. 70 ]
+sequence
+--------------------------------------------------------MQENKDKEHGDYAS
+NAMILAKNLATNPKNLAEQISKDFPLDDDILKVEVAGPFINFFV-SEATHAEVLK----------*
+>P1;gi|43196086|gb|EAC63570.1| unknown [environmental sequence] [ score 56 E 1e-07 ] [ range 24 .. 87 ]
+sequence
+--------------------------------------------------------VERTRDSSHGDFTS
+NALRLAKSLKKNPRELANEIIKYIPRNNSIKKIEVAGPFMNFYLDDSA-----------------*
+>P1;gi|21282300|ref|NP_645388.1| arginyl-tRNA synthetase [Staphyloco... [ score 56 E 1e-07 ] [ range 11 .. 94 ]
+sequence
+-----------------------------LVEEIAASINKAGLAD-EIP-DI---KIEVPKDTKNGDYAT
+NAMVLTKIAKRNPREIAQAIVDNLDEKAHVKQIDIAGPFINFYLD--------------------*
+>P1;gi|21244635|ref|NP_644217.1| arginyl-tRNA synthetase [Xanthomona... [ score 56 E 2e-07 ] [ range 11 .. 108 ]
+sequence
+----------------------------LLRALIGQGIEATLPAD-TLPPDF---VVERPKTREHGDFAT
+NAMLLAKAARSNPRALAQALLAALPASDDVAKVEIAGPFINFHLAPTAYQREV------------*
+>P1;gi|23501763|ref|NP_697890.1| arginyl-tRNA synthetase [Brucella s... [ score 56 E 2e-07 ] [ range 32 .. 104 ]
+sequence
+--------------------------------------------------RI---GVEPPRDASHGDIAT
+NAMVLSKAVGQNPRELAARIAEALKADEDVESVDVAGPFINLRLKASYWQRELL-----------*
+>P1;gi|7476032|pir||T09994 arginine-tRNA ligase (EC 6.1.1.19) - Myco... [ score 56 E 2e-07 ] [ range 143 .. 234 ]
+sequence
+-----------------------------LAELLKTTAIVVLAER-GLPQTV---TVERPRNPEHGDYSS
+NAMQLGKKVGANPLELAGWLAEVLAQAGGIADVEVAGPFINMRLDASA-----------------*
+>P1;gi|32044426|ref|ZP_00141527.1| COG0018: Arginyl-tRNA synthetase ... [ score 56 E 2e-07 ] [ range 1 .. 92 ]
+sequence
+-----------------------------MKDTIRQLIQQALDQL-GLTPDI---QVENTKDRSHGDFAS
+NAMMLAKPAGMKPRDLAARLVEAIPAHEQLAKVEIAGPFLNFFQD--------------------*
+>P1;gi|44391521|gb|EAI94423.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 14 .. 85 ]
+sequence
+---------------------------------------------------I---KLQENKGKEHGDYAS
+NAMILAKSLGRNPKDLAENISKNFKLDDQILKIEVAGPFINFFV-SELTHSEILR----------*
+>P1;gi|37526009|ref|NP_929353.1| Arginyl-tRNA synthetase (Arginine-t... [ score 56 E 2e-07 ] [ range 3 .. 94 ]
+sequence
+-----------------------------IQAILSEKVSQALIAA-GAPADA---HIRQSAKAQFGDYQA
+NVMAAAKKVGMPPRQLAEKVVNLLNLQGIASKVEIAGPFINIFLDKAWIAA--------------*
+>P1;gi|21307601|gb|AAK59398.1| Arg-tRNA synthetase [Myxococcus xanthus] [ score 55 E 3e-07 ] [ range 10 .. 96 ]
+sequence
+------------------------------RAAFAQALANALGVP-AADIEA---QV-KPAEPAHGDLSF
+ATFPLAKAQKKAPPAIAAGLAQSLSVPGL--EIKAVGPYVNARFPTLPFTAEVI-----------*
+>P1;gi|5834360|gb|AAD53926.1| arginyl-tRNA synthetase [Zymomonas mob... [ score 55 E 4e-07 ] [ range 37 .. 108 ]
+sequence
+--------------------------------------------------RV---AVEPPRDPSHGDLAI
+NAMVLAKAAKTAPRALAEKLVESLSQLEGVESVEIAGPFINIRLTDDCWRKEL------------*
+>P1;gi|27467298|ref|NP_763935.1| arginyl-tRNA synthetase [Staphyloco... [ score 55 E 4e-07 ] [ range 11 .. 94 ]
+sequence
+-----------------------------LIEEIEASIRKANLAE-DIPEI----KIEIPKDTKNGDYSS
+NAMVLTKIAKRNPREIAQAIVDHLDTSAHVKQVDIAGPFINFYLD--------------------*
+>P1;gi|26554064|ref|NP_757998.1| arginyl tRNA synthetase [Mycoplasma... [ score 55 E 4e-07 ] [ range 10 .. 110 ]
+sequence
+-----------------------------IKDLIKDAVKDKFKIT-IDLNDF---VVDKAKSIEFGDFYS
+NAMILASKLKKNPILIAEEICEYLKKTNLFESTEAVKPYINVFLSKSDLFKQINKDK--------*
+>P1;gi|27379868|ref|NP_771397.1| arginyl-tRNA synthetase [Bradyrhizo... [ score 54 E 5e-07 ] [ range 41 .. 111 ]
+sequence
+--------------------------------------------------------VVEPPRDSHGDMAT
+NAMVLAKEAKAKPRDLAEQIAERLRADALIAKVDVAGPFINLTLKPAAWA-EALR----------*
+>P1;gi|44298095|gb|EAI28666.1| unknown [environmental sequence] [ score 54 E 5e-07 ] [ range 3 .. 95 ]
+sequence
+-----------------------------MEEKIKCLIINALAE--SQEIDL---ELSRNSNNEHGDFSS
+NALKLGAKLKTPPMTIAEEIVSSLEASDELERVEFVKPFINFYLSAE------------------*
+>P1;gi|26991765|ref|NP_747190.1| arginyl-tRNA synthetase [Pseudomona... [ score 54 E 6e-07 ] [ range 1 .. 100 ]
+sequence
+-----------------------------MKDTIRQLIQQALTQL-GLSPAI---QVENARDKTHGDFAS
+NAMMLAKPAGMKPRDLAEKLINALPASADISKVEIAGPFLNFFQNTDALANRL------------*
+>P1;gi|15602416|ref|NP_245488.1| ArgS [Pasteurella multocida] >gi|13... [ score 54 E 6e-07 ] [ range 11 .. 82 ]
+sequence
+--------------------------------------------------DA---LVRQSAKVQFGDYQA
+NIMAAAKKLGRNPREFAQQVIEQLDLSEIAEKIEIAGPFINLFLDKNWLAEQI------------*
+>P1;gi|44351436|gb|EAI65756.1| unknown [environmental sequence] [ score 54 E 8e-07 ] [ range 4 .. 86 ]
+sequence
+-----------------------------IKKYLSEIVADALAKL-NVQSNI---IIEKSSNTNFGDYST
+NALSLSKQLKNSPLKIAEDIGNLLKIDKNIEYSVTKPGFLNFF----------------------*
+>P1;gi|16122285|ref|NP_405598.1| arginyl-tRNA synthetase [Yersinia p... [ score 54 E 9e-07 ] [ range 3 .. 96 ]
+sequence
+-----------------------------IQALLSDKVSQALIAA-GAPADA---QVRQSAKAQFGDYQA
+NVMAVAKKLGMQPRQLAERVVELLDLTGIASKIEIAGPFINIFLDRQWVAEKV------------*
+>P1;gi|16760859|ref|NP_456476.1| arginyl-tRNA synthetase [Salmonella... [ score 53 E 1e-06 ] [ range 3 .. 96 ]
+sequence
+-----------------------------IQALLSEKVSQAMIAA-GAPADC---QVRQSAKVQFGDYQA
+NMMAVAKKLGMAPRQLAEQVLTHLDLSGIASKVEIAGPFINIFLEPAFLAEQV------------*
+>P1;gi|29655291|ref|NP_820983.1| arginyl-tRNA synthetase [Coxiella b... [ score 53 E 1e-06 ] [ range 7 .. 96 ]
+sequence
+-----------------------------MKQQIETLLNQAIERL-EVTPVI---KITHTTDPQHGDFAT
+NALTLSKAAGMSPHALAEKIVEALPPSGQITEVEIAGPFINFF----------------------*
+>P1;gi|23007480|ref|ZP_00049333.1| COG0018: Arginyl-tRNA synthetase ... [ score 53 E 1e-06 ] [ range 33 .. 125 ]
+sequence
+------------------------------REALESLISGRLPEG-LDLSRV---LVEPPRDPSHGDLAT
+NALVLAKEAKQNPKALGEALAEELRDPRVSEASVAGPGFINLRLVPEVF-HEVIR----------*
+>P1;gi|33866849|ref|NP_898408.1| arginyl-tRNA synthetase [Synechococ... [ score 53 E 2e-06 ] [ range 15 .. 110 ]
+sequence
+-----------------------------LDAQLRAAMQRAFPVA-DAVLDP---QLAPASKPEFGDFQA
+NALPLAKPLKQAPRQIATAIVEQLQADSGFEPQIAGPGFINLTIRPERLAAEV------------*
+>P1;gi|28872251|ref|NP_794870.1| arginyl-tRNA synthetase [Pseudomona... [ score 53 E 2e-06 ] [ range 1 .. 100 ]
+sequence
+-----------------------------MKDTIRQLIQQALTRL-GLTPAI---QVENARDKTHGDFAS
+NAMMLAKPAGMKPRDLAEKLIAALPADEQVSKVEIAGPFLNFFQNTAALASRL------------*
+>P1;gi|15644947|ref|NP_207117.1| arginyl-tRNA synthetase (argS) [Hel... [ score 53 E 2e-06 ] [ range 1 .. 81 ]
+sequence
+-----------------------------MHTLIK-----GILEE-ILEEEV---IVEYPKDREHGHYAT
+PAFNLAKVFKKSPLAIAEELALKISTHELFDSVVACKGYINFTL---------------------*
+>P1;gi|44010875|gb|EAG63772.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 1 .. 93 ]
+sequence
+-----------------------------MKEKIKESLYSIIIDL-HDEFEI---SIQDNKEKEYGDLAS
+NALVLAKPLKRNPREIAEEIKIKFITDKEIVKVDVAGPFINFFLSKE------------------*
+>P1;gi|23001310|ref|ZP_00045218.1| COG0018: Arginyl-tRNA synthetase ... [ score 52 E 2e-06 ] [ range 5 .. 102 ]
+sequence
+-----------------------------MRQSIEELMEHALAEG-VIPADA---KVERPKDKSHGDFSI
+NAMVLAKQARMKPRDLAQRLVDALPSGQGVSRCEIAGPFINFFVTPERL----------------*
+>P1;gi|13357838|ref|NP_078112.1| arginyl tRNA synthetase [Ureaplasma... [ score 52 E 2e-06 ] [ range 1 .. 99 ]
+sequence
+----------------------------MITQKISEELNKALAKM-GQETKI---LVDKTKNIKFGDFYT
+NAMILSKKNNKSSLEIAKEIANNFEQDLFLEVNLQPPGFLNFKLDHENLLKQI------------*
+>P1;gi|44404688|gb|EAJ03624.1| unknown [environmental sequence] [ score 52 E 2e-06 ] [ range 9 .. 69 ]
+sequence
+--------------------------------------------------------IDRPANLEHGDYAT
+NLLRLTKQFKNNPMVIANQIVSEWPETDFVSDVVAAPGFINFKLD--------------------*
+>P1;gi|23059275|ref|ZP_00084258.1| COG0018: Arginyl-tRNA synthetase ... [ score 52 E 3e-06 ] [ range 57 .. 156 ]
+sequence
+-----------------------------MKDTIRQLIQQALTQL-GLTPAI---QVENARDKTHGDFAS
+NAMMLAKPAGMKPRDLAEKIIAALPADENVTKAEIAGPFINFFQNTQALASRL------------*
+>P1;gi|15605181|ref|NP_219967.1| Arginyl tRNA Transferase [Chlamydia... [ score 52 E 4e-06 ] [ range 8 .. 97 ]
+sequence
+-----------------------------LTSLCSAAIHQAFPEL-E-ELTL---DITPSTKEHFGHYQC
+NAMKLARVLHKSPRAIAESIVAHIPPTPFSSIEIAGAGFINFTFSKEFLASQL------------*
+>P1;gi|7674353|sp|Q9X5M0|SYR_MYCSM Arginyl-tRNA synthetase (Arginine... [ score 51 E 5e-06 ] [ range 6 .. 97 ]
+sequence
+-----------------------------LAELLKATAAAVLTEH-DLDVAA---LVERPRNPEHGDYAT
+NALQLGKKVGVNPRELAGWLATALTAADGIAVAEVAGPFVNLRIEASA-----------------*
+>P1;gi|43232609|gb|EAC81889.1| unknown [environmental sequence] [ score 51 E 5e-06 ] [ range 1 .. 98 ]
+sequence
+-----------------------------MKQVIAGLIDSALKTL-DVQPNI---MVENTRDKSHGDYAS
+NALTLAKPARCNPRQLAEKLVAALPQSDNLTRTEIAGPFINFFISEASTSS--------------*
+>P1;gi|29829462|ref|NP_824096.1| putative arginyl tRNA synthetase [S... [ score 51 E 6e-06 ] [ range 12 .. 106 ]
+sequence
+-------------------------------RAVRCAVDEGELSV-AVPVRA---VVTPPGPGGCGDYAT
+NALQLARPAGRPPRQVAEILRPHLSRTAGVAGVEITGPFLNIHLEAAALVREIL-----------*
+>P1;gi|22978759|ref|ZP_00024501.1| COG0018: Arginyl-tRNA synthetase ... [ score 51 E 6e-06 ] [ range 8 .. 105 ]
+sequence
+--------------------------------QLAAAFTDAVRAL-A-PADA---NLERPKAAAHGDLAC
+NAMQVAKSLKTNPRELAQKVVDAVKADALVAALEIAGPFINLRLSPEARA-EVLR----------*
+>P1;gi|43234506|gb|EAC82850.1| unknown [environmental sequence] [ score 51 E 7e-06 ] [ range 34 .. 94 ]
+sequence
+-------------------------------------------------------AVEPPRDPSHGDMAT
+NAMVLSKSAKKNPREIAETLANRLSNVDIIENSQVAGPFLNLRI---------------------*
+>P1;gi|24113254|ref|NP_707764.1| arginine tRNA synthetase [Shigella ... [ score 51 E 7e-06 ] [ range 3 .. 97 ]
+sequence
+-----------------------------IQALLSEKVRQAMIAA-GAPADC---QIRQSAKVQFGDYQA
+NMMAVAKKLGMAPRQLAEQVLTHLDLNGIASKVEIAGPFINIFLDP-AFLAEHVQ----------*
+>P1;gi|44599715|gb|EAK38563.1| unknown [environmental sequence] [ score 51 E 7e-06 ] [ range 7 .. 95 ]
+sequence
+---------------------------------IKELIVTALKSQ-GMEVGL---ELSRNKNNEHGDFSS
+NALKLSGKLKRSPMVVAEEIINSIHVSDELERTEFVKPFINFYLSAE------------------*
+>P1;gi|22298368|ref|NP_681615.1| arginyl-tRNA-synthetase [Thermosyne... [ score 51 E 9e-06 ] [ range 12 .. 98 ]
+sequence
+---------------------------------LRRALQAALPLD-TYPQPL---LV-PASQVKFGDYQS
+NCLSLAKQLGKAPRELAQEVVPHLEVEDLCQPVEIAGPFLNFRLKPEFLAATL------------*
+>P1;gi|43937322|gb|EAG23978.1| unknown [environmental sequence] [ score 51 E 9e-06 ] [ range 6 .. 108 ]
+sequence
+-----------------------------LEEALNRAFIKVFPEE-DRSSKS---NLVPASKPEFGDFQI
+NCLSLAKEIKQPPRDIAQQIADQLQKDSDFVKIIAGPGFINLSINSNTLISEI------------*
+>P1;gi|43971792|gb|EAG42720.1| unknown [environmental sequence] [ score 51 E 9e-06 ] [ range 8 .. 103 ]
+sequence
+-----------------------------LETQLRGAMQRAFPEA-EAVLDP---QLAPASKPEFGDFQA
+NALPLAKPLKQAPRQIATAIVEQLQADTAFEPQIAGPGFINLTIRPERLAAEV------------*
+>P1;gi|44580193|gb|EAK24814.1| unknown [environmental sequence] [ score 51 E 9e-06 ] [ range 11 .. 75 ]
+sequence
+---------------------------------------------------L---ELSRNKNNDHGDFSS
+NALKLSGKLKRSPMVIAEEIVSSIQFFDGLERTEFVKPFINFYLSAE------------------*
+>P1;gi|37679228|ref|NP_933837.1| arginyl-tRNA synthetase [Vibrio vul... [ score 50 E 1e-05 ] [ range 3 .. 96 ]
+sequence
+-----------------------------IQALINDKVSQALEAA-GAPTGA---AVRQSAKPQFGDYQA
+NVMGVAKQLGTNPREFAQKVLDVLDLDGIASKTEIAGPFINIFLSEEFLAKQA------------*
+>P1;gi|43550661|gb|EAE30102.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 1 .. 90 ]
+sequence
+-----------------------------MKERLISLIESALDTL-TLPADA---KIDRTRDKSHGDFAT
+NALMLAKPAGMKPRDLAEKLIAALPNDSAVAKVDIAGPFINFF----------------------*
+>P1;gi|44452824|gb|EAJ37285.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 1 .. 64 ]
+sequence
+--------------------------------------------------------MQENKDKEHGDYAS
+NAMILAKDLSLNSKDLADQISNEFPLDNQILKVEVAGPFINFFVSKET-----------------*
+>P1;gi|39938941|ref|NP_950707.1| arginyl-tRNA synthetase [Onion yell... [ score 50 E 1e-05 ] [ range 7 .. 91 ]
+sequence
+------------------------------KSKIQNVIQKVLLE------EL---ILQEQLENDKFDFSL
+PLFAYAKKTKTNPHIIFENIKKNLVTINEIQELMFLNGFLNIKLKRASLAYEIL-----------*
+>P1;gi|38233629|ref|NP_939396.1| arginyl-tRNA synthetase [Corynebact... [ score 50 E 1e-05 ] [ range 6 .. 97 ]
+sequence
+-----------------------------LSQLIKQTAIDVLSAR-ELPETV---VVERPRNPEHGDYAT
+NALQIAKKVGMNPRELGQVLADSLAANTAIDEASIAGPFINIRLAAAA-----------------*
+>P1;gi|37523848|ref|NP_927225.1| arginyl-tRNA synthetase [Gloeobacte... [ score 50 E 1e-05 ] [ range 6 .. 98 ]
+sequence
+-----------------------------LQQQLAESIYTALGQL-GQLTQL---VVEKPKVPEHGDYAT
+PAMSLAKPCRLAPLAIAEAIASYLASDEIGVEV-AKPGFINLRL---------------------*
+>P1;gi|44523107|gb|EAJ85017.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 20 .. 79 ]
+sequence
+----------------------------------------------------------------HGDVAL
+PCHSLAGILKKAPQEIAKQISELVASDQSFAIVSSMSGFVNITAKPEWLSKRL------------*
+>P1;gi|45510714|ref|ZP_00163046.1| hypothetical protein Avar085701 [... [ score 50 E 2e-05 ] [ range 5 .. 99 ]
+sequence
+------------------------------QEQLKVKLEQALAAF-GDEVDP---ILVTASNPKFGDYQA
+NALSLSKKLGQPPRAIASAIVEKLDVSEICETPEIAGPFINLKLKTAYLEAQL------------*
+>P1;gi|17545006|ref|NP_518408.1| PROBABLE ARGINYL-TRNA SYNTHETASE (A... [ score 49 E 2e-05 ] [ range 12 .. 99 ]
+sequence
+--------------------------------LLSDAVGTLLPEG-TNRPEI---VLERPKQAAHGDIAC
+NALQLAKPLGTNPRELANRIADGIRADARGQRVEIAGPFINLRLSPTA-----------------*
+>P1;gi|23130371|ref|ZP_00112188.1| COG0018: Arginyl-tRNA synthetase ... [ score 49 E 2e-05 ] [ range 8 .. 99 ]
+sequence
+-----------------------------LKVQLEQALVAAFGAD-FAGVDP---ILVSASNPKFGDYQA
+NALSLSKKLGKQPRAIAGAIVEKLDVSEICEPPEIAGPFINLKLKTAYLEAQL------------*
+>P1;gi|23467319|ref|ZP_00122902.1| COG0018: Arginyl-tRNA synthetase ... [ score 49 E 2e-05 ] [ range 7 .. 93 ]
+sequence
+---------------------------------LSNKIKQAMRQA-GADEDA---LVKPSGKPQFGDYQA
+NIMATAKKLGLNPRDFAQKVLDLIDLKNIAEKMEIAGPFINIFLDKNWLA---------------*
+>P1;gi|44512806|gb|EAJ78093.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 13 .. 76 ]
+sequence
+-----------------------------------------------------------TEDLKNGHYTS
+NCMVLASNLKLNPKELSTTLVEKLNNLNIFEKVESAGPFINITLKREDFLS--------------*
+>P1;gi|17231209|ref|NP_487757.1| arginyl-tRNA-synthetase [Nostoc sp.... [ score 49 E 2e-05 ] [ range 5 .. 99 ]
+sequence
+------------------------------QEQLKIKLEQALAAF-GDEVDP---ILVSASNPKFGDYQA
+NALSLSKKLGQQPRAIASAIVEKLDVSEICEKPEIAGPFINLKLKTAYLEAQL------------*
+>P1;gi|23121524|ref|ZP_00103790.1| COG0018: Arginyl-tRNA synthetase ... [ score 49 E 2e-05 ] [ range 42 .. 105 ]
+sequence
+--------------------------------------------------------LEEPREKQHGDWAT
+NAMVLTKQARKAPRDIATILIKHLDTEGTFASEIAGPGFINFRLDPN------------------*
+>P1;gi|39935919|ref|NP_948195.1| arginyl-tRNA synthetase [Rhodopseud... [ score 49 E 3e-05 ] [ range 23 .. 111 ]
+sequence
+----------------------------------AALIEEGALPA-GIDLSR---VVVEPPKDSHGDMAT
+NAMVLAKDAKAKPRDLADKIADKLRAEELIDQVAIAGPFINLTLKP-AVWAEALR----------*
+>P1;gi|25027832|ref|NP_737886.1| putative arginyl-tRNA synthetase [C... [ score 49 E 3e-05 ] [ range 14 .. 97 ]
+sequence
+--------------------------------AVEVLTSRDLDAS-MLPEQI---VVERPRNPEHGDYAT
+NALQVAKKVGVTPRDLGTWLAEALAADDSIDSAEIAGPFINIRLAAAA-----------------*
+>P1;gi|6320548|ref|NP_010628.1| Cytoplasmic arginyl-tRNA synthetase;... [ score 49 E 3e-05 ] [ range 34 .. 124 ]
+sequence
+----------------------------LMRNYISQELSKISGVD-SSLIFP---ALEWTNTMERGDLLI
+PIPRL-RIKGANPKDLAVQWAEKFPCGDFLEKVEANGPFIQFFFNPQFLAKLVI-----------*
+>P1;gi|44090953|gb|EAH07739.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 34 .. 94 ]
+sequence
+-------------------------------------------------------AVEPPRDPLHGDMAT
+NAMVLSKSAKKNPREIAENLANRLSNVDIIEHLQVAGPFLNLRI---------------------*
+>P1;gi|22956656|ref|ZP_00004404.1| COG0018: Arginyl-tRNA synthetase ... [ score 49 E 3e-05 ] [ range 37 .. 100 ]
+sequence
+-------------------------------------------------------AVEPPRDPAHGDMST
+NAMVLAKPSGKPPRTIAEALATRLAADPRISSAEVAGPFLNLRLRPA------------------*
+>P1;gi|20094195|ref|NP_614042.1| Arginyl-tRNA synthetase [Methanopyr... [ score 48 E 4e-05 ] [ range 18 .. 112 ]
+sequence
+-----------------------------IRTSIRDAIS-SVYEV-DELIEV---PIDENPPVEGADLAT
+PALSLAKELDENPRELAETIVEESDLDDFVEKAWVEGPFINLKLDRSQYAALTLR----------*
+>P1;gi|43288871|gb|EAD10292.1| unknown [environmental sequence] [ score 48 E 4e-05 ] [ range 8 .. 86 ]
+sequence
+------------------------------------------SDL-EIPGTG---LVERPQKSENGDFAF
+PL-RVAKSVKKPPLEIAQIIADSFEIGGCVGAVVAPPGFINFKLSSDWLQEQV------------*
+>P1;gi|21227450|ref|NP_633372.1| Arginyl-tRNA synthetase [Methanosar... [ score 48 E 4e-05 ] [ range 13 .. 104 ]
+sequence
+---------------------------------LKEAIRKAGFEV-EDSE-L---QFETSP---HADLAS
+AAFRLAGIHRQNPKDLASRIVSAVEIPEFIGKVSAAGPYINFFAGKNGTVNAVLKEK--------*
+>P1;gi|44094660|gb|EAH09744.1| unknown [environmental sequence] [ score 48 E 4e-05 ] [ range 8 .. 103 ]
+sequence
+-----------------------------LEAQLRSAMQQAFPEA-DAELNP---ALSPASKPEFGDFQA
+NSLALAKPLKQAPRQIAGAIVEQLNNPEFSALAEAAGPFINITLKPTVLAAEV------------*
+>P1;gi|15794600|ref|NP_284422.1| arginyl-tRNA synthetase [Neisseria ... [ score 48 E 5e-05 ] [ range 27 .. 96 ]
+sequence
+--------------------------------------------------------LQPTKNAEHGDFQI
+NVMGAAKKAKQNPRELAQKVAEALADNAVIESAEVAGPFINLRLRPE-FLAQNIQ----------*
+>P1;gi|17553208|ref|NP_498035.1| aRginyl aa-tRNA syntheTase (80.9 kD... [ score 48 E 5e-05 ] [ range 133 .. 228 ]
+sequence
+-----------------------------LQSLFKKAIEDAFPGL-DVP--L---LLAETPNPQFGDYQC
+NAMPIAAKLKKRPGDVAKEIQAKLPKIDFVEKIDVMAGFINIFLNTDYLRRQI------------*
+>P1;gi|23026257|ref|ZP_00064743.1| COG0018: Arginyl-tRNA synthetase ... [ score 48 E 5e-05 ] [ range 3 .. 95 ]
+sequence
+-----------------------------IRNLLNDRVKSAMNDA-GIPADY---SLAVSKKAGFGDYQA
+NAMGAAKALKTNPREVAQKIIDNLDLNGIASKVEIAGPFINIHLDPKWLAQQ-------------*
+>P1;gi|22987476|ref|ZP_00032555.1| COG0018: Arginyl-tRNA synthetase ... [ score 48 E 5e-05 ] [ range 6 .. 102 ]
+sequence
+------------------------------KHTLETLLADTVKQV-AVSPTI---TLERPKVAAHGDVAC
+NAMQLAKPLRANPRQLAQQIVDALLAQPGVEAAEVAGPFINLRL---------------------*
+>P1;gi|43258137|gb|EAC94728.1| unknown [environmental sequence] [ score 48 E 6e-05 ] [ range 5 .. 66 ]
+sequence
+--------------------------------LIRKELEVVLNEL-GAPVSI---TLERPRDPSHGDLST
+NALTLAKRLDRSPREIAEEIASKMDL---------------------------------------*
+>P1;gi|44449147|gb|EAJ34545.1| unknown [environmental sequence] [ score 48 E 6e-05 ] [ range 19 .. 102 ]
+sequence
+--------------------------------QVAEATQGATEAA-FVSPTI---TLERPKVAAHGDVAC
+NAMQLAKPLRANPRQLAQQIVDALQAKGLVDAAEVAGPFINLRL---------------------*
+>P1;gi|23053437|ref|ZP_00079646.1| COG0018: Arginyl-tRNA synthetase ... [ score 48 E 6e-05 ] [ range 39 .. 109 ]
+sequence
+--------------------------------------------------------IEKPAHAEHGDFAT
+VAMSMAKAERKAPRVIAETIVKHIESGIIGGIDIAGPGFINFRIKNEAWSRTL------------*
+>P1;gi|23336003|ref|ZP_00121233.1| COG0018: Arginyl-tRNA synthetase ... [ score 48 E 6e-05 ] [ range 4 .. 107 ]
+sequence
+-------------------------------EALSELISSIAHEL-IPPVDL---AVMRPKDRAHGDWAS
+NAMQLAKKAGMKPRDLAEPFAAALAEADGIAKVEVAGPFINITLDSASAAAVV------------*
+>P1;gi|27262256|gb|AAN87409.1| Arginyl-tRNA synthetase [Heliobacillu... [ score 48 E 6e-05 ] [ range 37 .. 97 ]
+sequence
+-------------------------------------------------------ALEVPREKQHGDFAT
+NAMTMAKQARMNPRQLAEKIVAHIDRGDWLKDVQIAGPFINFTL---------------------*
+>P1;gi|9715730|emb|CAC01600.1| putative arginyl-tRNA synthetase [Ana... [ score 48 E 6e-05 ] [ range 5 .. 99 ]
+sequence
+------------------------------QEQLKLKLTQALAAF-GTDTDP---ILVSASNPKFGDYQA
+NALSLSKKLGKQPRIIAGEIVSKLDVSDICEPPEIAGPFINLKLQTSYLEAQL------------*
+>P1;gi|44382759|gb|EAI87978.1| unknown [environmental sequence] [ score 47 E 6e-05 ] [ range 22 .. 106 ]
+sequence
+-----------------------------------------LPEQ-AINESS---FVVESPKNEDGDLST
+NCMVLSKDLSQPPIKIAEILKTSLEKYSEFEQLEVAKPFLNFRVNKSVFLSEKL-----------*
+>P1;gi|23469727|ref|ZP_00125061.1| COG0018: Arginyl-tRNA synthetase ... [ score 47 E 7e-05 ] [ range 1 .. 90 ]
+sequence
+-----------------------------MKDTIRQLIQQALTRL-GLTPAI---QVENARDKTHGDFAS
+NAMMLAKPAGMKPRDLAEKLIAALPADQQISKVEIAGPFLNFF----------------------*
+>P1;gi|33864335|ref|NP_895895.1| Arginyl-tRNA synthetase [Prochloroc... [ score 47 E 8e-05 ] [ range 17 .. 119 ]
+sequence
+-----------------------------LESQLRAAIDRAFPEA-GTGLDP---QLAPASKPEFGDFAN
+AALPLAKPLKQPPRQIAAAIVDQLMVDTAFTAIIAGPGFINLTVRPECLAAEV------------*
+>P1;gi|43717717|gb|EAF13893.1| unknown [environmental sequence] [ score 47 E 9e-05 ] [ range 3 .. 98 ]
+sequence
+-----------------------------IRSLLSQRMEAAFTAL-GLSGQA---LLQSASRPEFGDYQA
+NVMAAAKRAGQNPREVAQAIIDAIDLDGIASDLSVAGPFINITLAPEFIANAVTSPQ--------*
+>P1;gi|43736284|gb|EAF22827.1| unknown [environmental sequence] [ score 47 E 9e-05 ] [ range 1 .. 85 ]
+sequence
+----------------------------MADHTNKEEINKII-------EKY---SISITETLKNGHITT
+NCMVAASNLKLNPIELASKLVEKLNLLNLFETVETAGPFINITLRREDFVS--------------*
+>P1;gi|43248348|gb|EAC89840.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 10 .. 107 ]
+sequence
+-----------------------------LVEVVKNKAAEKSVEI-SEEILN---QIEINDEESHGDYST
+SCLKLAKTFSMNPREIAESLVEHLTLPSIKSLAVEGAGFINVFLEKSLLLKEIVR----------*
+>P1;gi|43529786|gb|EAE19580.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 24 .. 104 ]
+sequence
+-----------------------------------------LPEG-TDGVRI---SVDPPRDPEHGDLTT
+NAMVLANPAGLKPRELAESLAERLRAQDGIATVDVAGPFINLRLH-DDYWRDLLR----------*
+>P1;gi|43662298|gb|EAE86104.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 1 .. 80 ]
+sequence
+-----------------------------MIEEIRNKIANALKLL-YSSVDI---EINRTTDKSHGDLYT
+NAMKLAKIVKKNPLNIAEEIRDHISLNEEVVKIESV-----------------------------*
+>P1;gi|22968465|ref|ZP_00016052.1| COG0018: Arginyl-tRNA synthetase ... [ score 47 E 1e-04 ] [ range 24 .. 96 ]
+sequence
+-----------------------------------------LPEG-LETGRV---AVEPPREAAHGDMAT
+NAMVLAKPAGLAPRAVAEMLVEKLVGVDGIVAAETAGPFINLRLDP-------------------*
+>P1;gi|43582778|gb|EAE46213.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 9 .. 91 ]
+sequence
+--------------------------------LFEEIKSSNLKGV-TKASQI---EVFEPKNIEFGDWTS
+NCMKLAANSEDNPRQIAEKLIKNLTKNDWVTKIEIAGGFLNFYLTSE------------------*
+>P1;gi|34222755|sp|Q8KPU9|SYR_SYNP7 Arginyl-tRNA synthetase (Arginin... [ score 46 E 2e-04 ] [ range 27 .. 99 ]
+sequence
+-------------------------------------------------TDP---LLVPATNPKFGDYQS
+NAMSLAKQLGQPPRAIAETLVQNLNLADLCEPAIAGPGFINFTLQPSYLVAQL------------*
+>P1;gi|44563741|gb|EAK13355.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 1 .. 99 ]
+sequence
+-----------------------------MLHNLKKSLFEILIKI-DKNVSI---NFEETLFDKKGDFTT
+NALKFSKIFGKNPNQLADIILKSINLNNF-EKVEIAGPFINFFLKDESFNPQLFNNK--------*
+>P1;gi|43323177|gb|EAD27264.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 26 .. 102 ]
+sequence
+--------------------------------------------------NI---SFEFPRDTSHGDFST
+NALVLSKKLKMNLDQIFLEVKKFFEDSGDFKDIVAKSGFINFFVKDNDFIREVLK----------*
+>P1;gi|44184302|gb|EAH57923.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 3 .. 95 ]
+sequence
+-----------------------------MEEKIKGLIINALAES-QNEIGL---ELSRNTNNDHGDFSS
+NALKLASKFKSPPMKLAEEIIGSLETPAELELAECVKPFINFYLSAE------------------*
+>P1;gi|44643063|gb|EAK69678.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 9 .. 106 ]
+sequence
+-----------------------------LEALLADSVKQVAHAL--KGADA---ALERPKVAAHGDVAC
+NAMQLAKPLGTNPRQLAEQIVAALTAQPGVEAAEIAGPFINLRL---------------------*
+>P1;gi|41408568|ref|NP_961404.1| ArgS [Mycobacterium avium subsp. pa... [ score 46 E 2e-04 ] [ range 6 .. 97 ]
+sequence
+-----------------------------LAELLRNTAAAVLAER-GLDAAA---LVERPRNPEHGDYAS
+NALQLGKKVGANPRELAGWLAAALAETDGIASAEVAGPFINLRLEASA-----------------*
+>P1;gi|44573921|gb|EAK20518.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 25 .. 100 ]
+sequence
+------------------------------------------------PVSF---SV-ESAKPGFGDITC
+NAFLLSKQLKKSPQEISKELSKKFDHIPQIKNVESASGYLNFNIDYTQFTNLVI-----------*
+>P1;gi|44381403|gb|EAI87080.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 41 .. 98 ]
+sequence
+-----------------------------------------------------------------GHLTT
+NCMVAASTLKSKPNELANNLKEKLIKLDFFQDVQSAGPFINIFLKRNDFVS--------------*
+>P1;gi|41719302|ref|ZP_00148206.1| hypothetical protein Mbur136801 [... [ score 46 E 2e-04 ] [ range 45 .. 86 ]
+sequence
+----------------------------------------------------------------------
+-AFRLASVAKQSPKDVAEKIAGEIVIPKFVEKVEALGPYLN------------------------*
+>P1;gi|43804831|gb|EAF56969.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 1 .. 67 ]
+sequence
+--------------------------------------------------------------PEFGDFQI
+NCLSLAKEIKQSPRDIAKQIADQLQKDNDFVKIIAGPGFINLSINSKTLISEI------------*
+>P1;gi|20088942|ref|NP_615017.1| arginyl-tRNA synthetase [Methanosar... [ score 46 E 3e-04 ] [ range 11 .. 84 ]
+sequence
+---------------------------------LKEAILKVGFEV-EDSE-------LQFETSSHADLAS
+RAFRLASIHKQNPKELASRIVSAIEIPEGIGEVSAAGPYINF-----------------------*
+>P1;gi|43584149|gb|EAE46915.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 1 .. 80 ]
+sequence
+-----------------------------MIEEIRNKIANALRLL-VASVNI---EINRTSDKSHGDLYT
+NAMKLAKIVKKNPLNIAEEIRDQITLNNEIVKIESV-----------------------------*
+>P1;gi|21223713|ref|NP_629492.1| putative arginyl tRNA synthetase [S... [ score 46 E 3e-04 ] [ range 12 .. 107 ]
+sequence
+-------------------------------HAVRRAVDAGELSV-AVPTRA---VVAPPGPGGCGDYAT
+GALQLARPAGQPPFRVAEVLRPYLVGTDGITDVVLTGPFLNISLDRAALVAEILR----------*
+>P1;gi|43879612|gb|EAF93780.1| unknown [environmental sequence] [ score 45 E 3e-04 ] [ range 16 .. 84 ]
+sequence
+-----------------------------------------------KKQSF---GIEIPQKSGFGDISS
+NAMVLAKTFKTSPIKLAKLIQNELIKKNFIKKVEVVNPFINIFFYKE------------------*
+>P1;gi|16332034|ref|NP_442762.1| arginyl-tRNA-synthetase [Synechocys... [ score 45 E 4e-04 ] [ range 36 .. 101 ]
+sequence
+-------------------------------------------------------------NPKFGDFQC
+NALPLAKQLGQPPRAIAMEIVDKVNLSEICEPLTIAGPFINIKLLPDYLGEQLIK----------*
+>P1;gi|43545842|gb|EAE27638.1| unknown [environmental sequence] [ score 45 E 4e-04 ] [ range 19 .. 86 ]
+sequence
+------------------------------------------------EVGL---ELSRNKNNEHGDFSS
+NALKLSGKLKRSPMDVAEEIAEALDEIERTE--IAKPGFINFYLSSE------------------*
+>P1;gi|16273477|ref|NP_439728.1| arginyl-tRNA synthetase [Haemophilu... [ score 45 E 5e-04 ] [ range 7 .. 96 ]
+sequence
+---------------------------------LSDKIKQALAGA-DQSCDA---LIRQSGKPQFGDYQA
+NIMAAAKKLGLNPREFAQKVLDNLQLSDIAEKLEIAGPFINIFLNPTWLTTEI------------*
+>P1;gi|44523444|gb|EAJ85263.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 3 .. 95 ]
+sequence
+-----------------------------MEEKIKGLIIDALAES-QNEIGL---ELSRNANNDHGDFSS
+NALKLASKLKSPPMKLAEEIIGSLETPAELELAECVKPFINFYLSAE------------------*
+>P1;gi|24214388|ref|NP_711869.1| arginyl-tRNA synthetase [Leptospira... [ score 44 E 5e-04 ] [ range 25 .. 114 ]
+sequence
+-----------------------------LEESVNSLIS-SFPEV-EKETKI---KIEYSRDEKFGDYST
+-SFALSKLLKRNPIQVSKELVEILQKTDLFEKVDFTPPFVNFRISTSFLL---------------*
+>P1;gi|39591721|emb|CAE71299.1| Hypothetical protein CBG18188 [Caeno... [ score 44 E 5e-04 ] [ range 130 .. 225 ]
+sequence
+-----------------------------LQSLFKKAIEDAFPGL-DVP--L---LLAETPNPQFGDYAM
+PIAAILKAINKKPGDVGKEIHAKLPEIDFVEKIVMPAGFINVFLNADYLRKQI------------*
+>P1;gi|42876388|gb|EAB05410.1| unknown [environmental sequence] [ score 44 E 6e-04 ] [ range 9 .. 91 ]
+sequence
+--------------------------------LFEEIKSSNLKGV-TKASQI---EVFEPKNIEFGDWTS
+NCMKLAANSEDNPRQIAEKLIRSLTKNDWITKIEIAGGFLNFYLTSE------------------*
+>P1;gi|28897635|ref|NP_797240.1| arginyl-tRNA synthetase [Vibrio par... [ score 44 E 6e-04 ] [ range 3 .. 96 ]
+sequence
+-----------------------------IQALINDKVSQALEGA-PAGSPA---AVRQSAKPQFGDYQA
+NVMGVAKKLGTNPREFAQKVLDVLDLDGIASKTEIAGPFINIFLSEEFLAKQA------------*
+>P1;gi|33239664|ref|NP_874606.1| Arginyl-tRNA synthetase [Prochloroc... [ score 44 E 7e-04 ] [ range 13 .. 110 ]
+sequence
+------------------------------QRALNTAFPEAASQV-KESGDF---LLVAATKPEFGDFQI
+NALALARIIKKSPRQIAEILIKQLESNEVFKAIIAGPGFINLTLQNTCLINEI------------*
+>P1;gi|44628383|gb|EAK59173.1| unknown [environmental sequence] [ score 44 E 8e-04 ] [ range 3 .. 70 ]
+sequence
+------------------------------------------------EIGL---ELSRNAKNDRGDFSS
+NALKLASKLKSPPMKLAEQIIGSLETPAELELAECVKPFINFYLSAE------------------*
+>P1;gi|43552717|gb|EAE31128.1| unknown [environmental sequence] [ score 44 E 8e-04 ] [ range 5 .. 91 ]
+sequence
+------------------------------------------KEL-NIEKNF---NIEIPPVEYNFDLST
+NAMILAKKTKKNPKIIAEKIKSYLFADKDFKKIEIAGPFLNIKLTDSSLQKTILK----------*
+>P1;gi|23042683|ref|ZP_00074049.1| COG0018: Arginyl-tRNA synthetase ... [ score 44 E 0.001 ] [ range 6 .. 93 ]
+sequence
+-------------------------------EQLKSRFDKALTAF-GQDTDP---MIVSTTNPKFGDYQC
+NAMSLAKKLKDKPKAIATQIINNLNINDYFYPPEIAGPFINLSLKPE------------------*
+>P1;gi|43752752|gb|EAF30801.1| unknown [environmental sequence] [ score 44 E 0.001 ] [ range 11 .. 105 ]
+sequence
+---------------------------------IKQIVLRNNKEL-NIKKNL---NIEIPPVEYNFDLST
+NAMILAKKTKKNPKIIANKIKSYLDCKDFKEIVIAGPGFLNIKLTNNSLQKTIL-----------*

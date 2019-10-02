@@ -1,0 +1,711 @@
+>P1;1wgta1
+structureX:1wgt:   2 :A:  43 :A:agglutinin isolectin 3 (wga3):Triticum aestivum: 1.9: 19.1
+-RCGEQGSGMECPNNLCCSQYGYCGMGGDYCGK--GCQNGACWTS*
+>P1;1wgta3
+structureX:1wgt:  87 :A: 129 :A:agglutinin isolectin 3 (wga3):Triticum aestivum: 1.9: 19.1
+IKCGSQAGGKLCPNNLCCSQWGYCGLGSEFCGE--GCQNGACSTD*
+>P1;1wgta2
+structureX:1wgt:  44 :A:  86 :A:agglutinin isolectin 3 (wga3):Triticum aestivum: 1.9: 19.1
+KRCGSQAGGKTCPNNHCCSQYGHCGFGAEYCGA--GCQGGPCRAD*
+>P1;1wgta4
+structureX:1wgt: 130 :A: 171 :A:agglutinin isolectin 3 (wga3):Triticum aestivum: 1.9: 19.1
+KPCGKDAGGRVCTNNYCCSKWGSCGIGPGYCGA--GCQSGGCDG-*
+>P1;1hev
+structureX:1hev:   1 : :  43 : :hevein (major hevein):Hevea brasiliensis: -1: -1
+EQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQS-NCK-D*
+>P1;gi|10047221|dbj|BAB13369.1| class I chitinase [Psophocarpus tetr... [ score 68 E 6e-11 ] [ range 17 .. 55 ]
+sequence
+-QCGRQAGGGVCPGGLCCSKFGWCGSTAEYCGE--GCQS-QCW--*
+>P1;gi|227774|prf||1710349A basic chitinase [ score 64 E 1e-09 ] [ range 35 .. 73 ]
+sequence
+-QCGRQAGGALCPNGLCCSEFGWCGNTEPYCKQ--PCCQSQC---*
+>P1;gi|30844168|gb|AAP35269.1| hevein-like antimicrobial peptide [Eu... [ score 62 E 4e-09 ] [ range 23 .. 60 ]
+sequence
+-QCGRQAGNRRCANNLCCSQYGYCGRTNEYCSQ--GCQS------*
+>P1;gi|40747460|gb|EAA66616.1| hypothetical protein AN0517.2 [Asperg... [ score 61 E 7e-09 ] [ range 79 .. 118 ]
+sequence
+-ECGQYAGQSDCPVNVCCSEFGYCGVTSDFCGD--GCQKNS----*
+>P1;gi|5689134|dbj|BAA82826.1| basic endochitinase [Arabis gemmifera] [ score 61 E 7e-09 ] [ range 35 .. 73 ]
+sequence
+-QCGRQAGGALCPNGLCCSEFGWCGNTEPYCKQ--PGSQSQC---*
+>P1;gi|1403522|emb|CAA40474.1| chitinase [Phaseolus vulgaris] [ score 58 E 6e-08 ] [ range 23 .. 59 ]
+sequence
+------AQNCGCAEGLCCSQYGYCGTGEDYCGT--GCQQGPCTTA*
+>P1;gi|23200602|dbj|BAC16357.1| hevein-like protein [Eutrema wasabi] [ score 58 E 7e-08 ] [ range 23 .. 65 ]
+sequence
+-QCGRQAGGQTCPGGICCSQWGYCGTTADYCSP--NCQSN-CWAS*
+>P1;gi|7435369|pir||T14344 chitinase (EC 3.2.1.14) EP3-2/H1, class I... [ score 56 E 2e-07 ] [ range 22 .. 58 ]
+sequence
+------AQNCNCAAGLCCSKYGYCGTTSDYCGE--GCQAGPCTNS*
+>P1;gi|15224321|ref|NP_181890.1| chitinase, putative [Arabidopsis th... [ score 56 E 3e-07 ] [ range 29 .. 67 ]
+sequence
+----QQCGTTGCAANLCCSRYGYCGTTDAYCGT--GCRSGPCSSS*
+>P1;gi|38345417|emb|CAD41540.2| OSJNBb0091E11.8 [Oryza sativa (japon... [ score 55 E 5e-07 ] [ range 27 .. 61 ]
+sequence
+------AQNCGCQDGYCCSQWGYCGTTEAYCGQ--GCQSGPCW--*
+>P1;gi|1362076|pir||S57476 chitinase class 4 - cowpea (fragment) >gi... [ score 55 E 6e-07 ] [ range 3 .. 37 ]
+sequence
+------AQNCGCAEGLCCSQYGYCGTGEEYCGT--GCQQGPCT--*
+>P1;gi|7798650|gb|AAF69779.1| class I chitinase [Arabis glabra] [ score 54 E 9e-07 ] [ range 1 .. 39 ]
+sequence
+--CGRQAGGALCPNGRCCSKYGYCGNNELYCKP--DCQSN-CW--*
+>P1;gi|2306811|gb|AAB65776.1| class IV endochitinase [Vitis vinifera] [ score 54 E 9e-07 ] [ range 20 .. 56 ]
+sequence
+------AQNCGCASGLCCSKYGYCGTGSDYCGD--GCQSGPCDSS*
+>P1;gi|7435370|pir||T14345 chitinase (EC 3.2.1.14) EP3-3/E7, class I... [ score 54 E 1e-06 ] [ range 20 .. 56 ]
+sequence
+------AQNCNCAAGLCCSKHGYCGTTSDYCGE--GCQAGPCTNT*
+>P1;gi|7435371|pir||T14348 probable chitinase (EC 3.2.1.14) EP3B/E6,... [ score 53 E 2e-06 ] [ range 20 .. 56 ]
+sequence
+------AQNCNCTAGLCCSKHGYCGTTSDYCGE--GCQAGPCTNT*
+>P1;gi|15224310|ref|NP_181886.1| chitinase, putative [Arabidopsis th... [ score 53 E 2e-06 ] [ range 26 .. 57 ]
+sequence
+--------NCDCAPNLCCSQFGYCGTTADYCGS--TCQSGPC---*
+>P1;gi|4138900|gb|AAD03614.1| agglutinin isolectin I precursor [Urti... [ score 52 E 3e-06 ] [ range 25 .. 64 ]
+sequence
+-RCGSQGGGGTCPALWCCSIWGWCGDSEPYCGR--TCE-NKCWS-*
+>P1;gi|33414046|gb|AAP03085.1| class IV chitinase [Galega orientalis] [ score 52 E 4e-06 ] [ range 32 .. 68 ]
+sequence
+------AQNCGCAAGVCCSQYGYCGNGDPYCGT--GCKQGPCYGS*
+>P1;gi|38105968|gb|EAA52331.1| hypothetical protein MG05023.4 [Magna... [ score 52 E 4e-06 ] [ range 310 .. 352 ]
+sequence
+---GRCGGDVTCSDGSCCSRYGWCGSTADHCNA--GCQSGQCT--*
+>P1;gi|40557195|gb|AAR87869.1| class IV chitinase precursor [Medicag... [ score 51 E 6e-06 ] [ range 32 .. 66 ]
+sequence
+------AQNCGCAEGVCCSQYGYCGNGDAYCGT--GCKQGPCY--*
+>P1;gi|283037|pir||A42424 chitinase (EC 3.2.1.14) A - maize [ score 51 E 7e-06 ] [ range 25 .. 58 ]
+sequence
+------AQNCGCQPNFCCSKFGYCGTTDAYCGD--GCQSGPC---*
+>P1;gi|15529119|gb|AAK97763.1| chitinase-B1 [Sorghum bicolor] [ score 51 E 8e-06 ] [ range 28 .. 61 ]
+sequence
+------AQNCGCQAGYCCSKFGYCGTTDDYCGD--GCQSGPC---*
+>P1;gi|15213848|gb|AAK92198.1| chitinase-B [Saccharum officinarum] [ score 51 E 8e-06 ] [ range 17 .. 50 ]
+sequence
+------AQNCGCQPNYCCSKFGYCGTTDDYCGD--GCQSGPC---*
+>P1;gi|30793457|dbj|BAC76691.1| chitinase [Oryza sativa (japonica cu... [ score 51 E 8e-06 ] [ range 29 .. 63 ]
+sequence
+------AQNCGCQSNMCCSKWGYCGTGKDYCGD--GCRSGPCY--*
+>P1;gi|116333|sp|P29023|CHIB_MAIZE Endochitinase B precursor (Seed c... [ score 51 E 8e-06 ] [ range 20 .. 53 ]
+sequence
+------AQNCGCQPNVCCSKFGYCGTTDEYCGD--GCQSGPC---*
+>P1;gi|113506|sp|P02876|AGI2_WHEAT Agglutinin isolectin 2 precursor ... [ score 50 E 1e-05 ] [ range 29 .. 70 ] [ duplicate a ]
+sequence
+-RCGEQGSNMECPNNLCCSQYGYCGMGGDYCGK--GCQNGACWTS*
+>P1;gi|2570164|dbj|BAA22967.1| chitinase [Chenopodium amaranticolor] [ score 51 E 1e-05 ] [ range 24 .. 60 ]
+sequence
+------AQNCGCASGVCCSQYGYCGNGDAYCGK--GCQQGPCYSS*
+>P1;gi|15213852|gb|AAK92200.1| chitinase-B [Sorghum halepense] [ score 50 E 1e-05 ] [ range 18 .. 51 ]
+sequence
+------AQNCGCQAGYCCSKFGYCGTTDEYCGD--GCQSGPC---*
+>P1;gi|42551499|gb|EAA74342.1| hypothetical protein FG05847.1 [Gibbe... [ score 50 E 2e-05 ] [ range 350 .. 388 ]
+sequence
+-RCGSRHGGATCRGEFCCSQNGWCGSTDAHCGR--GCQ-------*
+>P1;gi|40740845|gb|EAA60035.1| hypothetical protein AN9447.2 [Asperg... [ score 50 E 2e-05 ] [ range 754 .. 788 ]
+sequence
+--CG-LAKGTRCPAGTCCSIYGNCGTGDDFCLA--ACDSN-----*
+>P1;gi|4584552|emb|CAA53544.1| chitinase [Beta vulgaris subsp. vulga... [ score 50 E 2e-05 ] [ range 24 .. 57 ]
+sequence
+------AQNCGCASNLCCSRFGFCGSTDAYCGE--GCREGPC---*
+>P1;gi|33359619|gb|AAQ17050.1| class IV chitinase Chia4-Pa1 [Picea a... [ score 50 E 2e-05 ] [ range 26 .. 60 ]
+sequence
+------AQNCGCATGLCCSQYGYCGTTSAYCGK--GCKTGPCY--*
+>P1;gi|2570166|dbj|BAA22968.1| chitinase [Chenopodium amaranticolor] [ score 49 E 2e-05 ] [ range 24 .. 60 ]
+sequence
+------AQNCGCASGLCCSKYGYCGTTAAYCGD--GCKQGPCYSS*
+>P1;gi|33359615|gb|AAQ17048.1| class IV chitinase Chia4-Pa1.3 [Picea... [ score 49 E 3e-05 ] [ range 26 .. 62 ]
+sequence
+------AQNCGCATGVCCSQYGYCGTTSAYCGK--GCKSGPCYSS*
+>P1;gi|15229342|ref|NP_187123.1| hevein-like protein (HEL) [Arabidop... [ score 49 E 3e-05 ] [ range 23 .. 65 ]
+sequence
+-QCGRQGGGRTCPGNICCSQYGYCGTTADYCSP--NCQSN-CWGS*
+>P1;gi|113508|sp|P15312|AGI_HORVU Root-specific lectin precursor >gi... [ score 48 E 5e-05 ] [ range 28 .. 69 ] [ duplicate a ]
+sequence
+-RCGEQGSNMECPNNLCCSQYGYCGMGGDYCGK--GCQNGACYTS*
+>P1;gi|2570160|dbj|BAA22965.1| chitinase [Chenopodium amaranticolor] [ score 48 E 5e-05 ] [ range 24 .. 58 ]
+sequence
+------AQNCGCASGLCCSKYGYCGTTKAYCGD--GCKQGPCY--*
+>P1;gi|322881|pir||A44039 chitinase (EC 3.2.1.14) I, acidic - Japane... [ score 48 E 6e-05 ] [ range 11 .. 35 ]
+sequence
+----------------CCSQHGYCGNSYDYCGP--GCQAGPCW--*
+>P1;gi|1076693|pir||S51678 chitinase (EC 3.2.1.14) class I - Europea... [ score 48 E 7e-05 ] [ range 20 .. 51 ]
+sequence
+-----------CAPNLCCSQFGYCGSDAAYCGE--GCRSGPCYGS*
+>P1;gi|33359617|gb|AAQ17049.1| class IV chitinase Chia4-Pa1.1 [Picea... [ score 47 E 9e-05 ] [ range 26 .. 60 ]
+sequence
+------AQNCGCASGVCCSQFGYCGTTSAYCGK--GCKSGPCY--*
+>P1;gi|7435352|pir||T09131 chitinase (EC 3.2.1.14) - white spruce >g... [ score 47 E 1e-04 ] [ range 26 .. 60 ]
+sequence
+------AQNCGCASGVCCSQYGYCGTTSAYCGK--GCKSGPCY--*
+>P1;gi|1168935|sp|P42820|CHIP_BETVU Acidic endochitinase SP2 precurs... [ score 46 E 2e-04 ] [ range 27 .. 61 ]
+sequence
+------AQNCGCAPNLCCSNFGFCGTGTPYCGV--GCQSGPC---*
+>P1;gi|15224312|ref|NP_181887.1| chitinase, putative [Arabidopsis th... [ score 46 E 2e-04 ] [ range 29 .. 57 ]
+sequence
+-----------CAPNLCCSQFGYCGTDDAYCGV--GCRSGPC---*
+>P1;gi|30691147|gb|AAO17294.1| chitinase [Ficus carica] [ score 46 E 3e-04 ] [ range 28 .. 67 ]
+sequence
+-RCGPNYGNPGCSEGRCCSVHGWCGGGANYCSG--GNCDYQCW--*
+>P1;gi|4689402|gb|AAD27888.1| lectin [Oryza rufipogon] [ score 45 E 5e-04 ] [ range 4 .. 44 ] [ duplicate b ]
+sequence
+--CGKQNNGMICPHNLCCSQFGYCGLGRDYCGT--GCQSGACCSS*
+>P1;gi|2306813|gb|AAB65777.1| class IV endochitinase [Vitis vinifera] [ score 44 E 9e-04 ] [ range 20 .. 49 ]
+sequence
+------AQNCGCASGLCCSKYGYRGTGSDYCGD--GCQ-------*
+>P1;gi|9187661|emb|CAB97002.1| putative class I chitinase [Phaseolus... [ score 74 E 7e-13 ] [ range 27 .. 65 ]
+sequence
+VQCGTEAGGALCPRGLCCSQWGWCGSTIDYCGP--GCQSQC----*
+>P1;gi|33414052|gb|AAP03088.1| class Ia chitinase [Galega orientalis] [ score 74 E 1e-12 ] [ range 28 .. 68 ]
+sequence
+-QCGRQAGGALCPGGLCCSKFGWCGSTGDYCGD--GCQSQCSGS-*
+>P1;gi|626030|pir||JC2252 chitinase (EC 3.2.1.14) class I, CH16 prec... [ score 72 E 3e-12 ] [ range 22 .. 62 ]
+sequence
+-QCGSQAGGALCPNCLCCSQYGWCGSTSAYCGS--GCQSQCSGS-*
+>P1;gi|1781042|emb|CAA71402.1| chitinase [Medicago truncatula] [ score 72 E 4e-12 ] [ range 25 .. 65 ]
+sequence
+-ECGKQAGGALCPGGLCCSKFGWCGSTGDYCGD--GCQSQCSGS-*
+>P1;gi|7435364|pir||T03239 probable chitinase (EC 3.2.1.14) precurso... [ score 72 E 4e-12 ] [ range 34 .. 72 ]
+sequence
+-QCGAQAGGARCPNCLCCSRWGWCGSTSDFCGD--GCQSQCS---*
+>P1;gi|1705813|sp|P51613|CHIB_VITVI Basic endochitinase precursor >g... [ score 71 E 6e-12 ] [ range 22 .. 62 ]
+sequence
+-QCGGQAGGRVCPGGACCSKFGWCGNTADYCGS--GCQSQCSST-*
+>P1;gi|1076741|pir||S54806 chitinase (EC 3.2.1.14) class I precursor... [ score 71 E 7e-12 ] [ range 22 .. 60 ]
+sequence
+-QCGSQARGALCPNCLCCSQYGWCGSTSAYCGS--GCQSQCS---*
+>P1;gi|481896|pir||S39979 chitinase (EC 3.2.1.14) - rice [ score 71 E 1e-11 ] [ range 34 .. 72 ]
+sequence
+-QCGAQAGGARCPNCLCCSRWGWCGTTSDFCGD--GCQSQCS---*
+>P1;gi|7435365|pir||T03026 chitinase (EC 3.2.1.14), acidic - maize >... [ score 69 E 2e-11 ] [ range 23 .. 61 ]
+sequence
+-QCGSQAGGALCPNCLCCSQFGWCGS-SDYCGS--GCQSQCSA--*
+>P1;gi|13124019|sp|Q41596|CHI1_THECC Endochitinase 1 precursor >gi|9... [ score 69 E 2e-11 ] [ range 23 .. 65 ]
+sequence
+-QCGRQAGGALCPGGLCCSQFGWCGNTDDYCKN--GCQSQCSGS-*
+>P1;gi|3334147|sp|Q39799|CHI1_GOSHI Endochitinase 1 precursor >gi|74... [ score 68 E 4e-11 ] [ range 24 .. 62 ]
+sequence
+-QCGRQAGGALCPGGLCCSQFGWCGSTADYCTP--GCQSQC----*
+>P1;gi|30844170|gb|AAP35270.1| hevein-like antimicrobial peptide [Eu... [ score 67 E 9e-11 ] [ range 23 .. 62 ]
+sequence
+-QCGRQAGNRRCPNNLCCSQFGYCGRTNEYCGF--GCQSNC----*
+>P1;gi|116314|sp|P08252|CHI1_TOBAC Endochitinase A precursor (CHN-A)... [ score 66 E 2e-10 ] [ range 25 .. 63 ]
+sequence
+-QCGSQAGGARCPSGLCCSKFGWCGNTNDYCGP--GCQSQC----*
+>P1;gi|5689134|dbj|BAA82826.1| basic endochitinase [Arabis gemmifera] [ score 66 E 3e-10 ] [ range 35 .. 73 ]
+sequence
+-QCGRQAGGALCPNGLCCSEFGWCGNTEPYCKP--GSQSQC----*
+>P1;gi|544011|sp|Q05538|CHIC_LYCES Basic 30 kDa endochitinase precur... [ score 65 E 5e-10 ] [ range 24 .. 62 ]
+sequence
+-QCGSQAGGALCASGLCCSKFGWCGNTNEYCGP--GCQSQC----*
+>P1;gi|116321|sp|P24091|CHI2_TOBAC Endochitinase B precursor (CHN-B)... [ score 65 E 6e-10 ] [ range 25 .. 63 ]
+sequence
+-QCGSQAGGARCASGLCCSKFGWCGNTNDYCGP--GCQSQC----*
+>P1;gi|584928|sp|Q09023|CHI2_BRANA Endochitinase CH25 precursor >gi|... [ score 65 E 6e-10 ] [ range 22 .. 63 ]
+sequence
+-QCGRQAGGALCPNGLCCSEFGWCGDTEAYCKP--GCQSQCGGT-*
+>P1;gi|1705808|sp|P52404|CHI2_SOLTU Endochitinase 2 precursor >gi|21... [ score 64 E 8e-10 ] [ range 20 .. 58 ]
+sequence
+-QCGSQAGGALCASGLCCSKFGWCGNTNDYCGP--GCQSQC----*
+>P1;gi|44894349|gb|AAS48696.1| basic class I chitinase [Musa acuminata] [ score 64 E 9e-10 ] [ range 27 .. 69 ]
+sequence
+-QCGRQAGGALCASGLCCSQFGWCGNTDDYCGE--GCQSQC----*
+>P1;gi|40740982|gb|EAA60172.1| hypothetical protein AN5077.2 [Asperg... [ score 64 E 1e-09 ] [ range 100 .. 139 ] [ duplicate a ]
+sequence
+-ECGEFAANAGCPLNVCCSQYGFCGTTADFCGD--GCQSNC----*
+>P1;gi|40740982|gb|EAA60172.1| hypothetical protein AN5077.2 [Asperg... [ score 64 E 1e-09 ] [ range 62 .. 98 ] [ duplicate b ]
+sequence
+--CGPD---SPCSNGACCGESGWCGYGPTYCGD--GCQSNCDAT-*
+>P1;gi|1705805|sp|P52403|CHI1_SOLTU Endochitinase 1 precursor >gi|21... [ score 64 E 1e-09 ] [ range 20 .. 58 ]
+sequence
+-QCGSQAGGALCASGLCCSKFGWCGDTNDYCGP--GCQSQC----*
+>P1;gi|1705809|sp|P52405|CHI3_SOLTU Endochitinase 3 precursor >gi|62... [ score 64 E 1e-09 ] [ range 20 .. 58 ]
+sequence
+-QCGSQAGGALCAPGLCCSKFGWCGNTNDYCGP--GCQSQC----*
+>P1;gi|38602823|dbj|BAD02547.1| putative class I chitinase [Cryptome... [ score 63 E 2e-09 ] [ range 26 .. 63 ]
+sequence
+--CGSQAGGAVCPGGLCCSQYGWCGNTPDHCRP--GCQSQC----*
+>P1;gi|38603377|dbj|BAD02824.1| putative class I chitinase [Taxodium... [ score 62 E 3e-09 ] [ range 26 .. 63 ]
+sequence
+--CGRQAGGAVCPGGLCCSQYGWCGNTPAHCQP--GCQSQC----*
+>P1;gi|123062|sp|P02877|HEVE_HEVBR Pro-hevein precursor (Major hevei... [ score 62 E 4e-09 ] [ range 19 .. 58 ]
+sequence
+-QCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSP--NCQSNC----*
+>P1;gi|116349|sp|P05315|CHIT_SOLTU Endochitinase precursor >gi|82262... [ score 60 E 2e-08 ] [ range 29 .. 66 ]
+sequence
+--CGSQGGGKACASGQCCSKFGWCGNTNDYCGS--GCQSQC----*
+>P1;gi|42557355|dbj|BAD11073.1| pathogenesis-related protein 4b [Cap... [ score 59 E 4e-08 ] [ range 21 .. 63 ]
+sequence
+-QCGRQRGGALCGGNLCCSQFGWCGSTPEYCSP--GCQSQCSGS-*
+>P1;gi|139698|sp|P09761|WIN1_SOLTU Wound-induced protein WIN1 precur... [ score 58 E 7e-08 ] [ range 27 .. 69 ]
+sequence
+-QCGRQKGGALCSGNLCCSQFGWCGSTPEFCSP--GCQSRCTGT-*
+>P1;gi|15224321|ref|NP_181890.1| chitinase, putative [Arabidopsis th... [ score 57 E 9e-08 ] [ range 30 .. 66 ]
+sequence
+-QCGTTG----CAANLCCSRYGYCGTTDAYCGT--GCRSGPCSS-*
+>P1;gi|6048743|gb|AAF02299.1| chitinase [Brassica juncea] [ score 57 E 1e-07 ] [ range 73 .. 112 ] [ duplicate a ]
+sequence
+-QCGRQSAGALCPNGLCCSEAGWCGTTEAYCGH--GCQSQC----*
+>P1;gi|15224319|ref|NP_181889.1| glycoside hydrolase family 19 prote... [ score 55 E 5e-07 ] [ range 31 .. 66 ]
+sequence
+--CGTNG----CKGNMCCSRWGYCGTTKAYCGT--GCQSGPCNS-*
+>P1;gi|230392|pdb|1WGC|A Chain A, Wheat Germ Agglutinin (Isolectin 1... [ score 53 E 2e-06 ] [ range 87 .. 129 ] [ duplicate a ]
+sequence
+IKCGSQAGGKLCPNNLCCSQWGFCGLGSEFCGG--GCQSGACSTD*
+>P1;gi|113508|sp|P15312|AGI_HORVU Root-specific lectin precursor >gi... [ score 52 E 3e-06 ] [ range 113 .. 155 ] [ duplicate a ]
+sequence
+IKCGSQAGGKLCPNNLCCSQWGYCGLGSEFCGE--GCQGGACSTD*
+>P1;gi|113506|sp|P02876|AGI2_WHEAT Agglutinin isolectin 2 precursor ... [ score 52 E 4e-06 ] [ range 114 .. 156 ] [ duplicate a ]
+sequence
+IKCGSQSGGKLCPNNLCCSQWGFCGLGSEFCGG--GCQSGACSTD*
+>P1;gi|38109881|gb|EAA55685.1| hypothetical protein MG01336.4 [Magna... [ score 50 E 2e-05 ] [ range 463 .. 506 ] [ duplicate a ]
+sequence
+-RCGSAFGNAICPDGNCCSVAGWCGSSSAHCGN--GCQSGNCNS-*
+>P1;gi|38109881|gb|EAA55685.1| hypothetical protein MG01336.4 [Magna... [ score 50 E 2e-05 ] [ range 517 .. 558 ] [ duplicate b ]
+sequence
+-RCGKDFGNTVCPDGGCCSSAGWCGSSTAHCGT--GCQSGCS---*
+>P1;gi|16903133|gb|AAL30422.1| hevein-like protein [Sambucus nigra] [ score 48 E 5e-05 ] [ range 28 .. 74 ]
+sequence
+-RCGSSVGNPPCAPGRCCSIFGWCGGGPSYCGS--NCQNGARSTD*
+>P1;gi|15229342|ref|NP_187123.1| hevein-like protein (HEL) [Arabidop... [ score 48 E 5e-05 ] [ range 23 .. 62 ]
+sequence
+-QCGRQGGGRTCPGNICCSQYGYCGTTADYCSP--TCQSNC----*
+>P1;gi|12657622|dbj|BAB21577.1| lectin-C [Phytolacca americana] [ score 48 E 7e-05 ] [ range 48 .. 84 ] [ duplicate a ]
+sequence
+--CGVRASGRVCPDGYCCSQWGYCGTTEEYCGK--GCQSQC----*
+>P1;gi|12657622|dbj|BAB21577.1| lectin-C [Phytolacca americana] [ score 48 E 7e-05 ] [ range 129 .. 166 ] [ duplicate b ]
+sequence
+-RCGKDFGGRLCTEDMCCSQYGWCGLTDDHCED--GCQSQC----*
+>P1;gi|113509|sp|P11219|AGI_ORYSA Lectin precursor (Agglutinin) >gi|... [ score 48 E 8e-05 ] [ range 115 .. 154 ] [ duplicate a ]
+sequence
+IKCGRNANGELCPNNMCCSQWGYCGLGSEFCGN--GCQSGAC---*
+>P1;gi|4689400|gb|AAD27887.1| lectin [Oryza sativa subsp. japonica] [ score 47 E 8e-05 ] [ range 88 .. 127 ] [ duplicate a ]
+sequence
+IKCGSNANGELCPNNMCCSQWGYCGLGSEFCGN--GCQSGAC---*
+>P1;gi|39837086|emb|CAE84954.1| chitin binding protein [Debaryomyces... [ score 48 E 8e-05 ] [ range 166 .. 208 ]
+sequence
+-ECGPLAPGSKCPLNACCSEFGFCGLTAEFCKK--SCFSNC----*
+>P1;gi|40745012|gb|EAA64168.1| hypothetical protein AN2462.2 [Asperg... [ score 47 E 1e-04 ] [ range 801 .. 844 ]
+sequence
+-KCG---GKVSCIGGMCCGGKGYCGNTTEYCGE--GCQPNACESD*
+>P1;gi|40747947|gb|EAA67103.1| hypothetical protein AN8481.2 [Asperg... [ score 47 E 1e-04 ] [ range 65 .. 104 ]
+sequence
+---GEFAERAKCPLNVCCPKFGFCGTTKDFCGN--KEVKRPSCSD*
+>P1;gi|31071313|emb|CAD91890.1| chitin-binding protein [Pichia inosi... [ score 47 E 1e-04 ] [ range 803 .. 836 ]
+sequence
+-ECRPQAPGDTCPLNACCSEFGFCGLTSEFC--------------*
+>P1;gi|18653442|gb|AAL77433.1| chitinase [Brassica juncea] [ score 46 E 2e-04 ] [ range 21 .. 58 ] [ duplicate b ]
+sequence
+-QCGHQAGRALFPNSLRCSEAGWCGDTEPYCGS--GCQSQC----*
+>P1;gi|15182972|gb|AAK84437.1| extracellular chitinase [Blumeria gra... [ score 45 E 3e-04 ] [ range 307 .. 352 ]
+sequence
+--CGPKTS-TFCATGMCCSSAGFCGNTDEYCGS--GCNEIPIS--*
+>P1;gi|42551925|gb|EAA74768.1| hypothetical protein FG11117.1 [Gibbe... [ score 45 E 4e-04 ] [ range 261 .. 282 ]
+sequence
+-----------CPLNVCCSKHGYCGTTKDFCGS------------*
+>P1;gi|1280376|gb|AAA98236.1| antifungal protein >gi|1280378|gb|AAA9... [ score 45 E 4e-04 ] [ range 27 .. 64 ]
+sequence
+-QCGSQARGRLCGNGLCCSQWGYCGSTAAYCGA--GCQSQC----*
+>P1;gi|40747492|gb|EAA66648.1| hypothetical protein AN0549.2 [Asperg... [ score 45 E 4e-04 ] [ range 112 .. 141 ]
+sequence
+---GDYADSPKCPLNVCCSKFGFCGTTKEFCGT------------*
+>P1;gi|5902771|sp|P81591|AMP_PHANI Antimicrobial protein PN-AMP (PN-... [ score 45 E 4e-04 ] [ range 2 .. 39 ]
+sequence
+-QCGRQASGRLCGNRLCCSQWGYCGSTASYCGA--GCQSQC----*
+>P1;gi|116317|sp|P25765|CHI2_ORYSA Basic endochitinase 2 precursor >... [ score 74 E 9e-13 ] [ range 22 .. 62 ]
+sequence
+EQCGSQAGGAVCPNCLCCSQFGWCGSTSDYCGA--GCQSQCSR--*
+>P1;gi|116347|sp|P06215|CHIT_PHAVU Endochitinase precursor >gi|16933... [ score 73 E 1e-12 ] [ range 28 .. 72 ]
+sequence
+EQCGRQAGGALCPGGNCCSQFGWCGSTTDYCGP--GCQGGPSPA-*
+>P1;gi|544004|sp|P36361|CHI5_PHAVU Endochitinase CH5B precursor >gi|... [ score 69 E 2e-11 ] [ range 27 .. 71 ]
+sequence
+EQCGRQAGGALCPGGNCCSQFGWCGSTTDYCGK--DCQGGPSPA-*
+>P1;gi|1362075|pir||S57482 chitinase class 1 - cowpea (fragment) >gi... [ score 69 E 2e-11 ] [ range 25 .. 71 ]
+sequence
+EQCGSQAGGALCPGGLCCSQFGWCGSTDDYCGK--GCQGQPAPSD*
+>P1;gi|38707244|gb|AAR27240.1| class I chitinase [Phaseolus vulgaris] [ score 67 E 1e-10 ] [ range 27 .. 71 ]
+sequence
+EQCGRQAGGALCPGGNCSSQFGWCGSTTDYCGK--DCQGGPSPA-*
+>P1;gi|626031|pir||JC2253 chitinase (EC 3.2.1.14) class I, CH6 - ric... [ score 67 E 2e-10 ] [ range 18 .. 59 ]
+sequence
+EQCGSQAGGALCPNCLCCSQYGWCGSTSDYCGA--GCSGG-----*
+>P1;gi|3892724|emb|CAA10189.1| class I chitinase [Cicer arietinum] [ score 63 E 1e-09 ] [ range 24 .. 56 ]
+sequence
+EQCGKQAGGALCPGGLCCSKFGWCGSTSDYCGD------------*
+>P1;gi|1705807|sp|P21226|CHI2_PEA Endochitinase A2 precursor >gi|136... [ score 62 E 4e-09 ] [ range 21 .. 53 ]
+sequence
+EQCGTQAGGALCPGGLCCSKFGWCGSTSEYCGD------------*
+>P1;gi|7435366|pir||T09687 chitinase (EC 3.2.1.14) class I - alfalfa... [ score 62 E 5e-09 ] [ range 24 .. 56 ]
+sequence
+EQCGKQAGGALCPGGLCCSKFGWCGSTGEYCGD------------*
+>P1;gi|544011|sp|Q05538|CHIC_LYCES Basic 30 kDa endochitinase precur... [ score 61 E 6e-09 ] [ range 23 .. 69 ]
+sequence
+EQCGSQAGGALCASGLCCSKFGWCGNTNEYCGP--GCPGGPGPS-*
+>P1;gi|1705809|sp|P52405|CHI3_SOLTU Endochitinase 3 precursor >gi|62... [ score 60 E 1e-08 ] [ range 19 .. 65 ]
+sequence
+EQCGSQAGGALCAPGLCCSKFGWCGNTNDYCGP--GCPGGPGPS-*
+>P1;gi|1705805|sp|P52403|CHI1_SOLTU Endochitinase 1 precursor >gi|21... [ score 60 E 1e-08 ] [ range 19 .. 65 ]
+sequence
+EQCGSQAGGALCASGLCCSKFGWCGDTNDYCGP--GCPGGPGPS-*
+>P1;gi|30844172|gb|AAP35271.1| chitinase [Euonymus europaeus] [ score 59 E 3e-08 ] [ range 20 .. 49 ]
+sequence
+EQCGRQAGGALCPGGQCCSQYGWCGTTNEY---------------*
+>P1;gi|1705808|sp|P52404|CHI2_SOLTU Endochitinase 2 precursor >gi|21... [ score 59 E 3e-08 ] [ range 19 .. 59 ]
+sequence
+EQCGSQAGGALCASGLCCSKFGWCGNTNDYCGP--GNCQSQCP--*
+>P1;gi|113506|sp|P02876|AGI2_WHEAT Agglutinin isolectin 2 precursor ... [ score 54 E 7e-07 ] [ range 71 .. 113 ] [ duplicate a ]
+sequence
+KRCGSQAGGATCPNNHCCSQYGHCGFGAEYCGA--GCQGGPCRAD*
+>P1;gi|113508|sp|P15312|AGI_HORVU Root-specific lectin precursor >gi... [ score 54 E 1e-06 ] [ range 70 .. 112 ] [ duplicate a ]
+sequence
+KRCGTQAGGKTCPNNHCCSQWGYCGFGAEYCGA--GCQGGPCRAD*
+>P1;gi|230392|pdb|1WGC|A Chain A, Wheat Germ Agglutinin (Isolectin 1... [ score 53 E 2e-06 ] [ range 44 .. 86 ] [ duplicate a ]
+sequence
+KRCGSQAGGATCTNNQCCSQYGYCGFGAEYCGA--GCQGGPCRAD*
+>P1;gi|2597826|emb|CAA74930.1| class IV chitinase [Arabidopsis thali... [ score 53 E 2e-06 ] [ range 26 .. 63 ]
+sequence
+----TKAQNCGCSSELCCSQFGFCGNTSDYCGV--GCQQGPCFA-*
+>P1;gi|113509|sp|P11219|AGI_ORYSA Lectin precursor (Agglutinin) >gi|... [ score 52 E 4e-06 ] [ range 72 .. 114 ]
+sequence
+QRCGSQGGGATCSNNQCCSQYGYCGFGSEYCGS--GCQNGPCRAD*
+>P1;gi|15529119|gb|AAK97763.1| chitinase-B1 [Sorghum bicolor] [ score 49 E 4e-05 ] [ range 29 .. 62 ]
+sequence
+QNCGCQAG-------YCCSKFGYCGTTDDYCGD--GCQSGPCR--*
+>P1;gi|15224308|ref|NP_181885.1| chitinase, putative [Arabidopsis th... [ score 49 E 4e-05 ] [ range 32 .. 66 ]
+sequence
+QNCG-------CASDFCCSKYGYCGTTDEFCGE--GCQAGPCRS-*
+>P1;gi|33413754|gb|AAM95447.1| class IV chitinase [Vitis vinifera] [ score 49 E 4e-05 ] [ range 26 .. 58 ]
+sequence
+QDCG-------CSSDQCCSQWGYCGTGDDYCGT--GCQSGPC---*
+>P1;gi|15213852|gb|AAK92200.1| chitinase-B [Sorghum halepense] [ score 48 E 5e-05 ] [ range 19 .. 52 ]
+sequence
+QNCGCQAG-------YCCSKFGYCGTTDEYCGD--GCQSGPCR--*
+>P1;gi|584929|sp|Q06209|CHI4_BRANA Basic endochitinase CHB4 precurso... [ score 48 E 5e-05 ] [ range 25 .. 58 ]
+sequence
+QNCG-------CAPNLCCSQFGYCGSTDAYCGT--GCRSGPCR--*
+>P1;gi|38110982|gb|EAA56623.1| hypothetical protein MG06594.4 [Magna... [ score 48 E 6e-05 ] [ range 302 .. 341 ]
+sequence
+--CGANTFNK-CAEGDCCSQYGFCGNTAAHCGT--GCQFGYGKCD*
+>P1;gi|2129790|pir||S65778 chitinase class IV precursor - rape (frag... [ score 45 E 6e-04 ] [ range 18 .. 51 ]
+sequence
+QNCG-------CASGLCCSSAGYCGTTDAYCGE--GCKEGPCK--*
+>P1;gi|40745012|gb|EAA64168.1| hypothetical protein AN2462.2 [Asperg... [ score 44 E 8e-04 ] [ range 800 .. 844 ]
+sequence
+---GKCGGKVSCIGGMCCGGKGYCGNTTEYCGE--GCQAGYCESD*
+>P1;gi|113508|sp|P15312|AGI_HORVU Root-specific lectin precursor >gi... [ score 54 E 1e-06 ] [ range 156 .. 197 ]
+sequence
+KPCGKAAGGKVCTNNYCCSKWGSCGIGPGYCGA--GCQSGGCDG-*
+>P1;gi|38371990|gb|AAR18735.1| chitinase; BoCHI1 [Bambusa oldhamii] [ score 52 E 3e-06 ] [ range 23 .. 61 ]
+sequence
+--CGSQAGGATCPDCLCCSQWGYCGSTADYCGD--GCQS-QCDG-*
+>P1;gi|6164585|gb|AAF04453.1| chitinase [Poa pratensis] [ score 51 E 6e-06 ] [ range 23 .. 64 ]
+sequence
+--CGSQAGGATCPNCLCCSKFGFCGNTSDYCGT--GCQSNGCSG-*
+>P1;gi|6164588|gb|AAF04454.1| chitinase [Poa pratensis] [ score 50 E 2e-05 ] [ range 23 .. 64 ]
+sequence
+--CGSQAGGATCPNCLCCSKFGFCGTTSDYCGT--GCQSNGCSG-*
+>P1;gi|626031|pir||JC2253 chitinase (EC 3.2.1.14) class I, CH6 - ric... [ score 49 E 2e-05 ] [ range 20 .. 62 ]
+sequence
+--CGSQAGGALCPNCLCCSQYGWCGSTSDYCGA--GSESGGCAG-*
+>P1;gi|21780274|gb|AAM77665.1| chitinase KBchit5-3-1 [Leucaena leuco... [ score 48 E 5e-05 ] [ range 26 .. 64 ]
+sequence
+--CGSQAGGALCPGGLCCSQFGWCGSNNDYCGP--GCQS-QCDG-*
+>P1;gi|481478|pir||S38670 chitinase (EC 3.2.1.14) - wheat >gi|416029... [ score 48 E 7e-05 ] [ range 23 .. 64 ]
+sequence
+--CGSQAGGATCPNCLCCSKFGFCGSTSDYCGN--GCQSNGCSG-*
+>P1;gi|30844168|gb|AAP35269.1| hevein-like antimicrobial peptide [Eu... [ score 48 E 7e-05 ] [ range 24 .. 58 ]
+sequence
+--CGRQAGNRRCANNLCCSQYGYCGRTNEYC-----CTSQGC---*
+>P1;gi|139699|sp|P09762|WIN2_SOLTU Wound-induced protein WIN2 precur... [ score 48 E 9e-05 ] [ range 28 .. 64 ]
+sequence
+--CGRQRGGALCGNNLCCSQFGWCGSTPEYCSQ--GCQS------*
+>P1;gi|42557355|dbj|BAD11073.1| pathogenesis-related protein 4b [Cap... [ score 47 E 1e-04 ] [ range 22 .. 58 ]
+sequence
+--CGRQRGGALCGGNLCCSQFGWCGSTPEYCSQ--GCQS------*
+>P1;gi|3334147|sp|Q39799|CHI1_GOSHI Endochitinase 1 precursor >gi|74... [ score 47 E 2e-04 ] [ range 25 .. 60 ]
+sequence
+--CGRQAGGALCPGGLCCSQFGWCGSTADYCTV--GCQS------*
+>P1;gi|7442143|pir||T07729 wound-induced protein (clone TAB7) - toma... [ score 46 E 2e-04 ] [ range 18 .. 54 ]
+sequence
+--CGRQRGGRLCGGNLCCSQFGWCGSTPEYCSQ--GCQS------*
+>P1;gi|2506281|sp|P11955|CHI1_HORVU 26 kDa endochitinase 1 precursor... [ score 46 E 2e-04 ] [ range 22 .. 62 ]
+sequence
+--CGSQAGGATCPNCLCCSRFGWCGSTP-YCGD--GCQSSGCGG-*
+>P1;gi|44894349|gb|AAS48696.1| basic class I chitinase [Musa acuminata] [ score 46 E 2e-04 ] [ range 28 .. 67 ]
+sequence
+--CGRQAGGALCASSLCCSQFGWCGNTDDYCGS--GCQS------*
+>P1;gi|13124019|sp|Q41596|CHI1_THECC Endochitinase 1 precursor >gi|9... [ score 46 E 3e-04 ] [ range 24 .. 60 ]
+sequence
+--CGRQAGGALCPGGLCCSQFGWCGNTDDYCEN--GCQS------*
+>P1;gi|139698|sp|P09761|WIN1_SOLTU Wound-induced protein WIN1 precur... [ score 46 E 3e-04 ] [ range 28 .. 64 ]
+sequence
+--CGRQKGGALCSGNLCCSQFGWCGSTPEFCSQ--GCQS------*
+>P1;gi|632736|gb|AAB29960.1| CBP20 [Nicotiana tabacum] [ score 45 E 4e-04 ] [ range 24 .. 60 ]
+sequence
+--CGRQRGGALCSGNLCCSQFGWCGSTPEYCSQ--GCQS------*
+>P1;gi|7798662|gb|AAF69785.1| class I chitinase [Arabis lignifera] [ score 44 E 7e-04 ] [ range 6 .. 41 ]
+sequence
+--CGRQAGGALCPNGLCCSEFGWCGDTEPYCQP--GCQS------*
+>P1;gi|6601327|gb|AAF18934.1| wound-induced protein CBP1 precursor [... [ score 44 E 7e-04 ] [ range 25 .. 61 ]
+sequence
+--CGRQRGGAVCSGSLCCSQYGWCGSTPEYCSQ--GCQS------*
+>P1;gi|584928|sp|Q09023|CHI2_BRANA Endochitinase CH25 precursor >gi|... [ score 44 E 8e-04 ] [ range 23 .. 58 ]
+sequence
+--CGRQAGGALCPNGLCCSEFGWCGDTEAYCQP--GCQS------*
+>P1;gi|42546196|gb|EAA69039.1| hypothetical protein FG02354.1 [Gibbe... [ score 44 E 0.001 ] [ range 313 .. 345 ]
+sequence
+-----------CPAGSCCAASGWCGSTPAHCGT--GCQSGKCDG-*
+>P1;gi|13124019|sp|Q41596|CHI1_THECC Endochitinase 1 precursor >gi|9... [ score 85 E 3e-16 ] [ range 22 .. 62 ]
+sequence
+EQCGRQAGGALCPGGLCCSQFGWCGNTDDYCKKENGCQS-QC---*
+>P1;gi|116347|sp|P06215|CHIT_PHAVU Endochitinase precursor >gi|16933... [ score 81 E 9e-15 ] [ range 28 .. 66 ]
+sequence
+EQCGRQAGGALCPGGNCCSQFGWCGSTTDYCGP--GCQS-QC---*
+>P1;gi|44894349|gb|AAS48696.1| basic class I chitinase [Musa acuminata] [ score 80 E 9e-15 ] [ range 26 .. 69 ]
+sequence
+EQCGRQAGGALCASGLCCSQFGWCGNTDDYCGSQEGCQS-QC---*
+>P1;gi|30844170|gb|AAP35270.1| hevein-like antimicrobial peptide [Eu... [ score 80 E 1e-14 ] [ range 22 .. 63 ]
+sequence
+QQCGRQAGNRRCPNNLCCSQFGYCGRTNEYCCTGFGCQS-NCR--*
+>P1;gi|21426919|gb|AAM49597.2| chitinase [Leucaena leucocephala] [ score 80 E 1e-14 ] [ range 25 .. 63 ]
+sequence
+EQCGRQAGGALCPGRLCCSQFGWCGSTNDYCGP--GCQS-QC---*
+>P1;gi|5689118|dbj|BAA82818.1| basic endochitinase [Arabidopsis thal... [ score 80 E 1e-14 ] [ range 34 .. 73 ]
+sequence
+EQCGRQAGGALCPNGLCCSEFGWCGNTEPYCK-QPGCQS-QC---*
+>P1;gi|4206074|gb|AAD11408.1| hevein-like protein [Sambucus nigra] [ score 80 E 1e-14 ] [ range 30 .. 69 ]
+sequence
+-QCGRDAGGALCHDNLCCSFWGFCGSTYQYC--EDGCQS-QCR-D*
+>P1;gi|17932712|emb|CAC81812.1| putative chitinase [Musa acuminata] [ score 80 E 2e-14 ] [ range 24 .. 62 ]
+sequence
+EQCGRQAGGALCPGGLCCSQFGWCGNTDPYCGKD--CQS-QC---*
+>P1;gi|3201547|emb|CAB01591.1| endochitinase [Persea americana] [ score 80 E 2e-14 ] [ range 26 .. 64 ]
+sequence
+EQCGRQAGGALCPGGLCCSQFGWCGSTSDYCGPT--CQS-QC---*
+>P1;gi|544015|sp|P36907|CHIX_PEA Endochitinase precursor >gi|2118033... [ score 80 E 2e-14 ] [ range 24 .. 63 ]
+sequence
+EQCGSQAGGAVCPNGLCCSKFGFCGSTDPYCG--DGCQS-QCK--*
+>P1;gi|3334147|sp|Q39799|CHI1_GOSHI Endochitinase 1 precursor >gi|74... [ score 80 E 2e-14 ] [ range 23 .. 62 ]
+sequence
+EQCGRQAGGALCPGGLCCSQFGWCGSTADYC-TVPGCQS-QC---*
+>P1;gi|30844168|gb|AAP35269.1| hevein-like antimicrobial peptide [Eu... [ score 79 E 2e-14 ] [ range 22 .. 63 ]
+sequence
+QQCGRQAGNRRCANNLCCSQYGYCGRTNEYCCTSQGCQS-QCR--*
+>P1;gi|1362075|pir||S57482 chitinase class 1 - cowpea (fragment) >gi... [ score 79 E 2e-14 ] [ range 25 .. 63 ]
+sequence
+EQCGSQAGGALCPGGLCCSQFGWCGSTDDYCG--KGCQS-QC---*
+>P1;gi|4960049|gb|AAD34596.1| endochitinase precursor [Humulus lupulus] [ score 78 E 5e-14 ] [ range 20 .. 58 ]
+sequence
+EQCGRQAGGALCPNGLCCSQHGWCGTTSDYCAA--GCQS-QC---*
+>P1;gi|23496435|dbj|BAB40817.2| endochitinase MCHT-2 [Cucumis melo] [ score 78 E 6e-14 ] [ range 21 .. 60 ]
+sequence
+EQCGRQANGALCPNNLCCSQFGFCGDTDDYCK--NGCQS-QCR--*
+>P1;gi|7798646|gb|AAF69777.1| class I chitinase [Arabis fecunda] [ score 78 E 6e-14 ] [ range 23 .. 62 ]
+sequence
+EQCGRQAGGALCPNGLCCSEFGWCGDTEPYCK-QPGCQS-QC---*
+>P1;gi|561873|gb|AAA51377.1| chitinase [ score 77 E 8e-14 ] [ range 24 .. 62 ]
+sequence
+EQCGSQAGGALCPNCLCCSSYGWCGSTSDYCG--DGCQS-QC---*
+>P1;gi|1354129|gb|AAB01895.1| endochitinase >gi|1359600|emb|CAA64868... [ score 77 E 9e-14 ] [ range 19 .. 57 ]
+sequence
+EQCGRQAGGAACANNLCCSQFGWCGNTAEYCGA--GCQS-QC---*
+>P1;gi|30793455|dbj|BAC76690.1| chitinase [Oryza sativa (japonica cu... [ score 77 E 9e-14 ] [ range 33 .. 72 ]
+sequence
+EQCGRQAGGARCPNRLCCSRWGWCGLTDDYCK--GGCQS-QCR--*
+>P1;gi|11344587|dbj|BAB18519.1| seed chitinase-a [Secale cereale] [ score 77 E 1e-13 ] [ range 20 .. 58 ]
+sequence
+EQCGSQAGGATCPNCLCCSRFGWCGSTSDYCG--DGCQS-QC---*
+>P1;gi|5689134|dbj|BAA82826.1| basic endochitinase [Arabis gemmifera] [ score 77 E 1e-13 ] [ range 34 .. 73 ]
+sequence
+EQCGRQAGGALCPNGLCCSEFGWCGNTEPYCK-QPGSQS-QC---*
+>P1;gi|7435357|pir||T07838 chitinase (EC 3.2.1.14) - cucurbit >gi|32... [ score 77 E 1e-13 ] [ range 20 .. 58 ]
+sequence
+EQCGRQANGALCPNRLCCSQFGWCGNTDEYCK--NNCQS-QC---*
+>P1;gi|33414050|gb|AAP03087.1| class Ib chitinase [Galega orientalis] [ score 77 E 1e-13 ] [ range 25 .. 64 ]
+sequence
+EQCGSQANGAVCPNGLCCSQFGYCGNTDQYCGA--GCQS-QCK--*
+>P1;gi|544004|sp|P36361|CHI5_PHAVU Endochitinase CH5B precursor >gi|... [ score 77 E 1e-13 ] [ range 27 .. 65 ]
+sequence
+EQCGRQAGGALCPGGNCCSQFGWCGSTTDYCGKD--CQS-QC---*
+>P1;gi|388361|gb|AAA34214.1| chitinase [ score 77 E 1e-13 ] [ range 22 .. 60 ]
+sequence
+EQCGSQAGGAVCPVGLCCSKFGWCGSTNEYCG--DGCQS-QC---*
+>P1;gi|33414054|gb|AAP03089.1| class Ib chitinase 2 [Galega orientalis] [ score 77 E 1e-13 ] [ range 25 .. 64 ]
+sequence
+EQCGSQANGAVCPNGLCCSKFGWCGNTDPWCG--DGCQS-QCK--*
+>P1;gi|1345776|sp|P29031|CHIB_POPTR Acidic endochitinase WIN6.2B pre... [ score 76 E 2e-13 ] [ range 22 .. 60 ]
+sequence
+EQCGQQAGDALCPGGLCCSSYGWCGTTADYCG--DGCQS-QC---*
+>P1;gi|7798638|gb|AAF69773.1| class I chitinase [Arabis blepharophylla] [ score 76 E 2e-13 ] [ range 17 .. 56 ]
+sequence
+EQCGRQAGGALCPGGLCCSEFGWCGDTDPYCK-QPGCQS-QC---*
+>P1;gi|227774|prf||1710349A basic chitinase [ score 76 E 2e-13 ] [ range 34 .. 73 ]
+sequence
+EQCGRQAGGALCPNGLCCSEFGWCGNTEPYCK-QPCCQS-QC---*
+>P1;gi|3126963|gb|AAC16010.1| acidic chitinase [Elaeagnus umbellata] [ score 76 E 2e-13 ] [ range 23 .. 61 ]
+sequence
+QQCGQQLGGALCSGGLCCSQWGYCGNTDPYCG--DGCQS-QC---*
+>P1;gi|7798648|gb|AAF69778.1| class I chitinase [Arabis glabra] [ score 76 E 2e-13 ] [ range 17 .. 56 ]
+sequence
+EQCGRQAGGALCPNGLCCSEFGWCGDTEAYCKV-PGCQS-QC---*
+>P1;gi|7435361|pir||T04484 probable chitinase (EC 3.2.1.14) - barley... [ score 75 E 3e-13 ] [ range 28 .. 66 ]
+sequence
+QQCGSQAGGATCPNCLCCSRFGYCGSTSDYCGA--GCQS-QC---*
+>P1;gi|116314|sp|P08252|CHI1_TOBAC Endochitinase A precursor (CHN-A)... [ score 75 E 3e-13 ] [ range 24 .. 63 ]
+sequence
+EQCGSQAGGARCPSGLCCSKFGWCGNTNDYCGPG-NCQS-QC---*
+>P1;gi|6573210|gb|AAF17593.1| chitinase class I [Glycine max] >gi|12... [ score 75 E 4e-13 ] [ range 24 .. 63 ]
+sequence
+EQCGTQAGGALCPNRLCCSKFGWCGDTDSYCG--EGCQS-QCK--*
+>P1;gi|14575525|emb|CAC42881.1| putative class I chitinase [Hevea br... [ score 75 E 4e-13 ] [ range 1 .. 39 ]
+sequence
+EQCGRQAGGALCPGGLCCSQYGWCANTPEYCGS--GCQS-QC---*
+>P1;gi|6562381|emb|CAB62537.1| pseudo-hevein [Hevea brasiliensis] [ score 75 E 4e-13 ] [ range 1 .. 42 ]
+sequence
+EQCGRQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQS-NCK--*
+>P1;gi|544011|sp|Q05538|CHIC_LYCES Basic 30 kDa endochitinase precur... [ score 75 E 6e-13 ] [ range 23 .. 62 ]
+sequence
+EQCGSQAGGALCASGLCCSKFGWCGNTNEYCGPG-NCQS-QC---*
+>P1;gi|139699|sp|P09762|WIN2_SOLTU Wound-induced protein WIN2 precur... [ score 75 E 6e-13 ] [ range 26 .. 66 ]
+sequence
+QQCGRQRGGALCGNNLCCSQFGWCGSTPEYCSPSQGCQS-QC---*
+>P1;gi|116321|sp|P24091|CHI2_TOBAC Endochitinase B precursor (CHN-B)... [ score 74 E 6e-13 ] [ range 24 .. 63 ]
+sequence
+EQCGSQAGGARCASGLCCSKFGWCGNTNDYCGPG-NCQS-QC---*
+>P1;gi|7442143|pir||T07729 wound-induced protein (clone TAB7) - toma... [ score 74 E 7e-13 ] [ range 16 .. 57 ]
+sequence
+QQCGRQRGGRLCGGNLCCSQFGWCGSTPEYCSPSQGCQS-QCR--*
+>P1;gi|6601327|gb|AAF18934.1| wound-induced protein CBP1 precursor [... [ score 74 E 7e-13 ] [ range 23 .. 63 ]
+sequence
+QQCGRQRGGAVCSGSLCCSQYGWCGSTPEYCSPSQGCQS-QC---*
+>P1;gi|7442144|pir||T04098 CBP20 preproprotein - common tobacco >gi|... [ score 74 E 7e-13 ] [ range 23 .. 63 ]
+sequence
+QQCGRQRGGALCSGNLCCIQFGWCGSTQEYCSPSQGCQS-QC---*
+>P1;gi|1705808|sp|P52404|CHI2_SOLTU Endochitinase 2 precursor >gi|21... [ score 74 E 8e-13 ] [ range 19 .. 58 ]
+sequence
+EQCGSQAGGALCASGLCCSKFGWCGNTNDYCGPG-NCQS-QC---*
+>P1;gi|632736|gb|AAB29960.1| CBP20 [Nicotiana tabacum] [ score 74 E 8e-13 ] [ range 22 .. 62 ]
+sequence
+QQCGRQRGGALCSGNLCCSQFGWCGSTPEYCSPSQGCQS-QC---*
+>P1;gi|38603377|dbj|BAD02824.1| putative class I chitinase [Taxodium... [ score 74 E 9e-13 ] [ range 24 .. 63 ]
+sequence
+ENCGRQAGGAVCPGGLCCSQYGWCGNTPAHCQV-PGCQS-QC---*
+>P1;gi|116323|sp|P29059|CHI3_TOBAC Endochitinase 3 precursor >gi|821... [ score 74 E 9e-13 ] [ range 24 .. 63 ]
+sequence
+EQCGKQAGGARCPSGMCCSNFGWCGNTQDYCGPGK-CQS-QC---*
+>P1;gi|38602823|dbj|BAD02547.1| putative class I chitinase [Cryptome... [ score 74 E 1e-12 ] [ range 24 .. 63 ]
+sequence
+ENCGSQAGGAVCPGGLCCSQYGWCGNTPDHCRV-PGCQS-QC---*
+>P1;gi|38707244|gb|AAR27240.1| class I chitinase [Phaseolus vulgaris] [ score 74 E 1e-12 ] [ range 27 .. 65 ]
+sequence
+EQCGRQAGGALCPGGNCSSQFGWCGSTTDYCGKD--CQS-QC---*
+>P1;gi|10880381|emb|CAC14015.1| chitinase [Vitis vinifera] [ score 74 E 1e-12 ] [ range 23 .. 61 ]
+sequence
+EQCGRQAGGALCSGGLCCSQYGYCGSTSAYCST--GCQS-QC---*
+>P1;gi|7798678|gb|AAF69793.1| class I chitinase [Arabis parishii] [ score 74 E 1e-12 ] [ range 10 .. 49 ]
+sequence
+EQCGRQAGGAPCPNGLCRSEFGWCGDTEPYCK-QPGCQS-QC---*
+>P1;gi|1705809|sp|P52405|CHI3_SOLTU Endochitinase 3 precursor >gi|62... [ score 74 E 1e-12 ] [ range 19 .. 58 ]
+sequence
+EQCGSQAGGALCAPGLCCSKFGWCGNTNDYCGPG-NCQS-QC---*
+>P1;gi|7435359|pir||T07000 chitinase (EC 3.2.1.14) class I precursor... [ score 74 E 1e-12 ] [ range 20 .. 59 ]
+sequence
+EQCGRQAGGAPCAAGLCCSNVGWCGNTDDYCGPGK-CQS-QC---*
+>P1;gi|1705805|sp|P52403|CHI1_SOLTU Endochitinase 1 precursor >gi|21... [ score 74 E 1e-12 ] [ range 19 .. 58 ]
+sequence
+EQCGSQAGGALCASGLCCSKFGWCGDTNDYCGPG-NCQS-QC---*
+>P1;gi|12407647|gb|AAG53609.1| 31.7 kDa class I endochitinase-antifr... [ score 73 E 2e-12 ] [ range 21 .. 59 ]
+sequence
+EQCGSQAGGATCPNCLCCSKFGFCGSTSEYCG--DGCQS-QC---*
+>P1;gi|1705810|sp|P52406|CHI4_SOLTU Endochitinase 4 precursor >gi|21... [ score 72 E 3e-12 ] [ range 19 .. 58 ]
+sequence
+EQCGKQAGGARCAAGLCCSNFGWCGNTNDYCGPGK-CQS-QC---*
+>P1;gi|166345|gb|AAA32641.1| chitinase >gi|738925|prf||2001449A chit... [ score 72 E 3e-12 ] [ range 18 .. 56 ]
+sequence
+QQCGSQAGGALCSNRLCCSKFGYCGSTDPYCGT--GCQS-QC---*
+>P1;gi|3126965|gb|AAC16011.1| basic chitinase [Elaeagnus umbellata] [ score 72 E 4e-12 ] [ range 24 .. 62 ]
+sequence
+EQCGNQAGGKVCPGGQCCSQYGWCGTTDEYCK--KGCQS-KC---*
+>P1;gi|1705811|sp|P16579|CHI6_POPTR Acidic endochitinase WIN6 precur... [ score 71 E 8e-12 ] [ range 23 .. 60 ]
+sequence
+EQCGRQAGDALCPGGLCCSSYGWCGTTVDYCGI--GCQS-Q----*
+>P1;gi|7798630|gb|AAF69769.1| class I chitinase [Arabis drummondii] ... [ score 70 E 2e-11 ] [ range 10 .. 49 ]
+sequence
+EQCGRQAGGVFCPNGLCCSEFGWCGDTEPYCK-QPGCQS-QC---*
+>P1;gi|7798656|gb|AAF69782.1| class I chitinase [Halimolobos perplex... [ score 70 E 2e-11 ] [ range 1 .. 36 ]
+sequence
+----RQAGGALCPNGLCCSEWGWCGNTEPYCK-QPGCQS-QC---*
+>P1;gi|18146827|dbj|BAB82472.1| chitinase 2 [Triticum aestivum] [ score 70 E 2e-11 ] [ range 28 .. 66 ]
+sequence
+EQCGSQAGGAKCADCLCCSQFGFCGTTSDYCGPR--CQS-QC---*
+>P1;gi|7798636|gb|AAF69772.1| class I chitinase [Arabis gunnisoniana] [ score 67 E 1e-10 ] [ range 1 .. 36 ]
+sequence
+----RQAGGAFCPNGLCCSEFGWCGDTEPYCK-QPGCQS-QC---*
+>P1;gi|116349|sp|P05315|CHIT_SOLTU Endochitinase precursor >gi|82262... [ score 67 E 1e-10 ] [ range 27 .. 66 ]
+sequence
+QNCGSQGGGKACASGQCCSKFGWCGNTNDYCGSG-NCQS-QC---*
+>P1;gi|2586141|gb|AAB82773.1| ripening-associated protein [Musa acum... [ score 67 E 2e-10 ] [ range 14 .. 52 ]
+sequence
+EQCGRQAGGALCPGGLCCSQYGWCGNTDPYCG--QGCAS-QC---*
+>P1;gi|166343|gb|AAA32640.1| chitinase [ score 66 E 3e-10 ] [ range 14 .. 52 ]
+sequence
+QQCGSQGSGALCSNGLCCSQYGYCGNGGPYCGT--GCQS-QC---*
+>P1;gi|116338|sp|P29032|CHIC_POPTR Acidic endochitinase WIN6.2C prec... [ score 65 E 4e-10 ] [ range 23 .. 60 ]
+sequence
+EQCGRQAGDALCPGGLCCSFYGWCGTTVDYCG--DGCQS-Q----*
+>P1;gi|7798650|gb|AAF69779.1| class I chitinase [Arabis glabra] [ score 64 E 1e-09 ] [ range 1 .. 38 ]
+sequence
+--CGRQAGGALCPNGRCCSKYGYCGNNELYCKLPD-CQS-NC---*
+>P1;gi|6048743|gb|AAF02299.1| chitinase [Brassica juncea] [ score 62 E 4e-09 ] [ range 21 .. 61 ] [ duplicate b ]
+sequence
+EQCGSQSEGALCPNGLCCSEAGWCGTTEAYCG--HGCQS-QC---*
+>P1;gi|99652|pir||A33985 wound-inducible chitinase homolog win8 prec... [ score 59 E 3e-08 ] [ range 26 .. 65 ]
+sequence
+-QCGSQAGNATCPNDLCCSSGGYCGLTVAYCCA--GCVS-QCR-N*
+>P1;gi|18478476|gb|AAL73184.1| antifungal protein [Capsicum annuum] [ score 59 E 4e-08 ] [ range 21 .. 60 ]
+sequence
+QNCGRQAGRRVCANRLCCSQFGFCGTTREYCGA--GCQS-NCR--*
+>P1;gi|13276769|emb|CAC34265.1| hypothetical protein [Pichia etchell... [ score 54 E 1e-06 ] [ range 177 .. 229 ]
+sequence
+-ECGPLASGDLCPNKACCSQYGFCGTTSEFCDKKSGCYS-NC---*
+>P1;gi|23496445|dbj|BAC20284.1| acidic class I chitinase [Citrus jam... [ score 54 E 1e-06 ] [ range 23 .. 58 ]
+sequence
+QNCGS---GVVCPGGECCSQYGWCGLTTDHCC--EGCQS-NC---*
+>P1;gi|125727|sp|P09805|KTXA_KLULA Killer toxin alpha/beta subunits ... [ score 53 E 2e-06 ] [ range 318 .. 370 ]
+sequence
+-ECGPLAPGAKCPLNACCSEFGFCGLTKDYCDKTDGCFS-NC---*
+>P1;gi|1280380|gb|AAA98238.1| antifungal protein >gi|1657706|gb|AAB1... [ score 50 E 1e-05 ] [ range 26 .. 65 ]
+sequence
+QQCGRQASGRLCGNGLCCSQWGYCGSTAAYCGA--GCQS-QCK--*
+>P1;gi|16903133|gb|AAL30422.1| hevein-like protein [Sambucus nigra] [ score 50 E 2e-05 ] [ range 29 .. 66 ]
+sequence
+--CGSSVGNPPCAPGRCCSIFGWCGGGPSYCS-GSNCQY-SC---*
+>P1;gi|38105596|gb|EAA52004.1| hypothetical protein MG03599.4 [Magna... [ score 48 E 7e-05 ] [ range 384 .. 417 ]
+sequence
+--CGSGVGS--CAGDLCCSQYGYCGQEPEYCGA--GCQW-Q----*
+>P1;gi|18653442|gb|AAL77433.1| chitinase [Brassica juncea] [ score 48 E 7e-05 ] [ range 77 .. 115 ] [ duplicate a ]
+sequence
+EQCGHQAKGALCLNGLCRSKDGYCGTTEPYCG--RGCQS-EC---*
+>P1;gi|18653442|gb|AAL77433.1| chitinase [Brassica juncea] [ score 48 E 7e-05 ] [ range 21 .. 58 ] [ duplicate b ]
+sequence
+-QCGHQAGRALFPNSLRCSEAGWCGDTEPYCGS--GCQS-QC---*
+>P1;gi|39837091|emb|CAE84958.1| chitin binding protein [Pichia acaciae] [ score 47 E 9e-05 ] [ range 164 .. 216 ]
+sequence
+-ECGPLAPGDLCPLNACCSEFGFCGLTSEFCDKTEGCFS-NC---*
+>P1;gi|1280376|gb|AAA98236.1| antifungal protein >gi|1280378|gb|AAA9... [ score 47 E 9e-05 ] [ range 26 .. 65 ]
+sequence
+QQCGSQARGRLCGNGLCCSQWGYCGSTAAYCGA--GCQS-QCK--*
+>P1;gi|39837086|emb|CAE84954.1| chitin binding protein [Debaryomyces... [ score 46 E 2e-04 ] [ range 166 .. 208 ]
+sequence
+-ECGPLAPGSKCPLNACCSEFGFCGLTAEFC-EKKSCFS-NC---*
+>P1;gi|15182972|gb|AAK84437.1| extracellular chitinase [Blumeria gra... [ score 45 E 4e-04 ] [ range 315 .. 339 ]
+sequence
+-----------CATGMCCSSAGFCGNTDEYCNNCLG---------*
+>P1;gi|38109881|gb|EAA55685.1| hypothetical protein MG01336.4 [Magna... [ score 45 E 4e-04 ] [ range 47 .. 84 ]
+sequence
+--CGSQGGSTRCPLNVCCSVAGYCGTSDAYCLPSNGCQ-------*
+>P1;gi|5902771|sp|P81591|AMP_PHANI Antimicrobial protein PN-AMP (PN-... [ score 45 E 4e-04 ] [ range 1 .. 40 ]
+sequence
+QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGA--GCQS-QCR--*
+>P1;gi|31071313|emb|CAD91890.1| chitin-binding protein [Pichia inosi... [ score 45 E 6e-04 ] [ range 803 .. 855 ]
+sequence
+-ECRPQAPGTTCPLNACCSEFGFCGLTSEFCNNKPGCLT-NC---*

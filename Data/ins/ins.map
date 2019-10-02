@@ -1,0 +1,1020 @@
+>P1;2ins
+structureX:2ins:   2 :B:  21 :A:insulin:Bos taurus: 2.50:18.00
+----VNQHLCGSHLVEALYLVCGERGFFYTPKA------------GIVEQCCASVCSLYQLENYCN----
+----*
+>P1;4ins
+structureX:4ins:   1 :B:  21 :A:insulin:Sus scrofa: 1.50:15.30
+---FVNQHLCGSHLVEALYLVCGERGFFYTPKA------------GIVEQCCTSICSLYQLENYCN----
+----*
+>P1;2gf1
+structureN:2gf1:   1 : :  70 : :insulin-like growth factor 1:Homo sapiens:-1.00:-1.00
+----GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKP
+AKSA*
+>P1;1igl
+structureN:1igl:   1 : :  67 : :insulin-like growth factor 2:Homo sapiens:-1.00:-1.00
+-AYRPSETLCGGELVDTLQFVCGDRGFYFSRPAS--RVSRRS--RGIVEECCFRSCDLALLETYCA--TP
+AKSE*
+>P1;1bom
+structureN:1bom:  -1 :B:  20 :A:bombyxin-II:Bombyx mori:-1.00:-1.00
+-QPQAVHTYCGRHLARTLADLCWEAGVD-----------------GIVDECCLRPCSVDVLLSYC-----
+----*
+>P1;6rlx
+structureX:6rlx:  -2 :B:  20 :B:relaxin:Homo sapiens: 1.50:18.70
+SWMEEVIKLCGRELVRAQIAICGMSTW---------------LYSALANKCCHVGCTKRSLARFC-----
+----*
+>P1;gi|2497407|sp|Q62587|INS_PSAOB Insulin precursor >gi|1370283|emb... [ score 89 E 3e-17 ] [ range 26 .. 110 ]
+sequence
+----VNQHLCGSHLVEALYLVCGERGFFYTPKR------------GIVEQCCTGICSLYQLENYCN----
+----*
+>P1;gi|86565|pir||JQ0362 insulin - North American opossum [ score 87 E 1e-16 ] [ range 2 .. 51 ]
+sequence
+----VNQHLCGSHLVEALYLVCGERGFFYTPKA------------GIVEQCCNSICSLYQLETYCN----
+----*
+>P1;gi|69330|pir||INAQ insulin - American alligator [ score 87 E 1e-16 ] [ range 3 .. 51 ]
+sequence
+-----NQRLCGSHLVDALYLVCGERGFFYSPKG------------GIVEQCCHNTCSLYQLENYCN----
+----*
+>P1;gi|12644021|sp|P81025|INS_ORENI Insulin precursor >gi|4558782|gb... [ score 87 E 1e-16 ] [ range 29 .. 113 ]
+sequence
+------QHLCGSHLVDALYLVCGDRGFFYNPKR------------GIVEECCHKPCTIFDLQNYCN----
+----*
+>P1;gi|213445|gb|AAA49414.1| preproinsulin >gi|223664|prf||0906264A ... [ score 87 E 1e-16 ] [ range 26 .. 105 ]
+sequence
+------QHLCGSHLVDALYLVCGEKGFFYTPKR------------GIVEQCCHRPCNIFDLQNYCN----
+----*
+>P1;gi|34576545|ref|NP_908941.1| insulin-like growth factor 1 [Mus m... [ score 86 E 2e-16 ] [ range 35 .. 93 ]
+sequence
+------ETLCGAELVDALQFVCGPRGFYFNPQT------------GIVDECCFRSCDLRRLEMYC-----
+----*
+>P1;gi|124254|sp|P07456|IGF2_BOVIN Insulin-like growth factor II pre... [ score 85 E 4e-16 ] [ range 5 .. 60 ]
+sequence
+-----SETLCGGELVDTLQFVCGDRGFYFSRPR------------GIVEECCFRSCDLALLETYC-----
+----*
+>P1;gi|7438595|pir||S44470 insulin I2 - North American paddlefish (P... [ score 85 E 4e-16 ] [ range 3 .. 52 ]
+sequence
+-----NQHLCGSHLVEALYLVCGERGFFYTPKV------------GIVEQCCHSPCSLYDLENYCN----
+----*
+>P1;gi|14571867|gb|AAK67297.1| IGFII-GFP fusion protein [synthetic c... [ score 85 E 5e-16 ] [ range 106 .. 163 ]
+sequence
+------ETLCGGELVDALQFVCEDRGFYFSQNR------------GIVEECCFRSCDLNLLEQYC-----
+----*
+>P1;gi|30349722|gb|AAP22173.1| insulin-like growth factor 2 [Gallus ... [ score 84 E 6e-16 ] [ range 19 .. 74 ]
+sequence
+------ETLCGGELVDTLQFVCGDRGFYFSRNR------------GIVEECCFRSCDLALLETYC-----
+----*
+>P1;gi|482755|pir||A61125 insulin - American eel [ score 84 E 8e-16 ] [ range 4 .. 51 ]
+sequence
+------QHLCGSHLVEALYLVCGSNGFFFNPKD------------GIVEQCCHKPCSIFDLQNYCN----
+----*
+>P1;gi|14571865|gb|AAK67296.1| SIGF1-GFP fusion protein [synthetic c... [ score 84 E 8e-16 ] [ range 163 .. 219 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFSKPR------------GIVDECCFQSCELRRLEMYC-----
+----*
+>P1;gi|224256|prf||1012293A insulin-like growth factor II precursor [ score 84 E 9e-16 ] [ range 3 .. 58 ]
+sequence
+-----SETLCGGELVDTLQFVCSDRGFYFSRPR------------GIVEECCFRSCDLALLETYC-----
+----*
+>P1;gi|124513|sp|P12706|INS1_XENLA Insulin 1 precursor >gi|69332|pir... [ score 84 E 1e-15 ] [ range 25 .. 106 ]
+sequence
+----VNQHLCGSHLVEALYLVCGDRGFFYYPKR------------GIVEQCCHSTCSLFQLESYCN----
+----*
+>P1;gi|124526|sp|P12707|INS2_XENLA Insulin 2 precursor >gi|69333|pir... [ score 84 E 1e-15 ] [ range 26 .. 106 ]
+sequence
+-----NQHLCGSHLVEALYLVCGDRGFFYYPKR------------GIVEQCCHSTCSLFQLENYCN----
+----*
+>P1;gi|13517221|gb|AAK28710.1| preproinsulin [Chitala chitala] [ score 83 E 1e-15 ] [ range 26 .. 111 ]
+sequence
+-----NQHLCGSHLVEALYLVCGERGFFYNPKR------------GIVEQCCHRPCNIFDQNQYCN----
+----*
+>P1;gi|13517225|gb|AAK28712.1| preproinsulin [Pantodon buchholzi] [ score 83 E 2e-15 ] [ range 26 .. 110 ]
+sequence
+-----SQHLCGSHLVDALYMVCGEKGFFYQPKR------------GIVEQCCHHPCNIFDLQNYCN----
+----*
+>P1;gi|69354|pir||INLMS insulin - sea lamprey [ score 83 E 2e-15 ] [ range 10 .. 57 ]
+sequence
+-------HLCGSHLVEALYVVCGDRGFFYTPKT------------GIVEQCCHRKCSIYDMENYCN----
+----*
+>P1;gi|69345|pir||INGXA insulin - alligator gar [ score 83 E 2e-15 ] [ range 3 .. 52 ]
+sequence
+-----NQHLCGSHLVEALYLVCGEKGFFYNPKV------------GIVEQCCHKPCTIYELENYCN----
+----*
+>P1;gi|69340|pir||INON insulin [validated] - pink salmon >gi|69341|p... [ score 82 E 2e-15 ] [ range 4 .. 50 ]
+sequence
+------QHLCGSHLVDALYLVCGEKGFFYNPK-------------GIVEQCCHKPCNIFDLQNYCN----
+----*
+>P1;gi|14161273|gb|AAK54684.1| preproinsulin [Hiodon alosoides] [ score 82 E 3e-15 ] [ range 26 .. 110 ]
+sequence
+-----SQHLCGSHLVDALYMVCGEKGFFYQPKR------------GIVEQCCHRPCNIFDLNQYCN----
+----*
+>P1;gi|2135956|pir||I67610 insulin-like growth factor II, domains A-... [ score 82 E 3e-15 ] [ range 29 .. 87 ]
+sequence
+-----SETLCGGELVDTLQFVCGDRGFYFSRSR------------GIVEECCFRSCDLALLETYC-----
+----*
+>P1;gi|69331|pir||INRS insulin - western diamondback rattlesnake [ score 82 E 3e-15 ] [ range 3 .. 51 ]
+sequence
+-----NQRLCGSHLVEALFLICGERGFYYSPRS------------GIVEQCCENTCSLYQLENYCN----
+----*
+>P1;gi|13517227|gb|AAK28713.1| preproinsulin [Osteoglossum bicirrhosum] [ score 82 E 3e-15 ] [ range 27 .. 111 ]
+sequence
+-----SQRLCGSHLVDALYMVCGDRGFFYSPKR------------GIVEQCCHRPCNIFDLQNYCN----
+----*
+>P1;gi|87954|pir||S02423 insulin-like growth factor II precursor, sp... [ score 82 E 3e-15 ] [ range 29 .. 87 ]
+sequence
+-----SETLCGGELVDTLQFVCGDRGFYFRRSR------------GIVEECCFRSCDLALLETYC-----
+----*
+>P1;gi|16024934|gb|AAL11445.1| insulin-like growth factor 2 [Xenopus... [ score 82 E 4e-15 ] [ range 61 .. 116 ]
+sequence
+------ETLCGGELVDTLQFVCGDRGFYFSPNR------------GIVDVCCFKSCDLELLETYC-----
+----*
+>P1;gi|28848784|gb|AAO47743.1| preproinsulin-like growth factor II [... [ score 82 E 4e-15 ] [ range 53 .. 110 ]
+sequence
+------ETLCGGELVDALQFVCDDRGFYFSQNR------------GIVEECCFRSCDLNLLEQYC-----
+----*
+>P1;gi|16551381|gb|AAL25799.1| prepro-insulin-like growth factor-II ... [ score 82 E 4e-15 ] [ range 51 .. 108 ]
+sequence
+------ETLCGGELVDALQFVCGDRGFYFSQNR------------GIVEECCFNSCNLALLEQYC-----
+----*
+>P1;gi|37993620|gb|AAR06904.1| insulin-like growth factor II [Mugil ... [ score 82 E 5e-15 ] [ range 53 .. 110 ]
+sequence
+------ETLCGGELVDALQFVCGDRGFYFTQSS------------GIVEECCFRSCNLHLLEQYC-----
+----*
+>P1;gi|21431657|gb|AAF69129.2| insulin-like growth factor 2 precurso... [ score 82 E 5e-15 ] [ range 5 .. 61 ]
+sequence
+-----SETLCGGELVDTLQFVCGDRGFYFRSKK------------GIVEECCFSSCDLAVLETYC-----
+----*
+>P1;gi|85933|pir||JQ0359 insulin - colubrid snake (Zaocys dhumnades) [ score 82 E 5e-15 ] [ range 3 .. 51 ]
+sequence
+-----NQRLCGSHLVEALFLICGERGFYYSPRT------------GIVEQCCENTCSLYELENYCN----
+----*
+>P1;gi|45357122|gb|AAS58520.1| preproinsulin-like growth factor II [... [ score 82 E 5e-15 ] [ range 53 .. 110 ]
+sequence
+------ETLCGGELVDALQFVCEDRGFYFNQNR------------GIVEECCFRSCDLNLLEQYC-----
+----*
+>P1;gi|21686548|gb|AAM74952.1| IGF II [Pelvicachromis pulcher] [ score 81 E 5e-15 ] [ range 13 .. 70 ]
+sequence
+------ETLCGGELVDALQFVCEDRGFYFSRPR------------GIVEECCFRSCDLNLLEQYC-----
+----*
+>P1;gi|7438597|pir||S61361 insulin - Amphiuma tridactylum [ score 81 E 6e-15 ] [ range 3 .. 52 ]
+sequence
+-----NQYLCGSHLVEALFLVCGDRGFFYSPKR------------GIVEQCCHNTCSLNQLENYCN----
+----*
+>P1;gi|69351|pir||INDF insulin - spiny dogfish (tentative sequence) [ score 81 E 7e-15 ] [ range 3 .. 53 ]
+sequence
+-----SQHLCGSHLVEALYFVCGPKGFYYLPKV------------GIVEHCCHNTCSLYDLEGYCN----
+----*
+>P1;gi|2133793|pir||S66484 insulin-like growth factor II precursor -... [ score 81 E 8e-15 ] [ range 53 .. 110 ]
+sequence
+----LEETLCGSELVDTLQFICAERGFYFVSKR------------GIVEECCFRSCDLLILETYC-----
+----*
+>P1;gi|2894577|emb|CAA17123.1| insulin-like growth factor II precurs... [ score 80 E 9e-15 ] [ range 53 .. 110 ]
+sequence
+------ETLCGGELVDALQFVCEDRGFYFTQNR------------GIVEECCFRSCDLKLMEQYC-----
+----*
+>P1;gi|18031882|gb|AAL06080.1| insulin-like growth factor 2b precurs... [ score 80 E 1e-14 ] [ range 42 .. 97 ]
+sequence
+------ETLCGGELVDTLQFVCGEDGFYISPQR------------GIVEECCFRSCELHLLQQYC-----
+----*
+>P1;gi|22830883|dbj|BAC15764.1| Insulin-like growth factor precursor... [ score 80 E 2e-14 ] [ range 55 .. 112 ]
+sequence
+-----SETLCGSELVDALQFVCGDRGFYFRPKK------------GIVEECCFSKCDLRLLEMYC-----
+----*
+>P1;gi|213441|gb|AAB59948.1| insulin-like growth factor I precursor ... [ score 79 E 2e-14 ] [ range 21 .. 79 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFSKNR------------GIVDECCFQSCELRRLEMYC-----
+----*
+>P1;gi|21700197|gb|AAM75746.1| insulin-like growth factor 2 precurso... [ score 79 E 4e-14 ] [ range 51 .. 108 ]
+sequence
+------ETLCGGELVDALQFVCEDRGFYFSQNR------------GIVEECCFSSCNLALLEQYC-----
+----*
+>P1;gi|2981815|pdb|1SJU|  Mini-Proinsulin, Single Chain Insulin Anal... [ score 79 E 4e-14 ] [ range 2 .. 50 ]
+sequence
+----VNQHLCGSDLVEALYLVCGERGFFYTDK-------------GIVEQCCTSICSLYQLENYCN----
+----*
+>P1;gi|69337|pir||INTO2 insulin 2 - toadfish (tentative sequence) [ score 79 E 4e-14 ] [ range 5 .. 50 ]
+sequence
+------QHLCGSHLVDALYLVCGDRGFFYN--S------------GIVEQCCHRPCDKFDLQSYCN----
+----*
+>P1;gi|103795|pir||S15426 insulin - bowfin [ score 77 E 8e-14 ] [ range 3 .. 52 ]
+sequence
+-----SQHLCGSHLVEALFLVCGESGFFYNPKS------------GIVEQCCLKPCTIYEMEKYCN----
+----*
+>P1;gi|8571480|gb|AAF76900.1| insulin-like growth factor 2 [Trichosu... [ score 77 E 8e-14 ] [ range 7 .. 66 ]
+sequence
+-----SETLCGGELVDTLQFVCGDRGFYFSLNR------------GIVEECCFRSCDLALLETYC-----
+----*
+>P1;gi|208433|gb|AAA72203.1| insulin-like growth factor [ score 77 E 9e-14 ] [ range 3 .. 61 ]
+sequence
+------QALCGAELVDALYLVCGDRGFYFNPQT------------GIVDECCFRSCDLRRLEMYC-----
+----*
+>P1;gi|208429|gb|AAA72201.1| insulin-like growth factor I [ score 77 E 1e-13 ] [ range 3 .. 61 ]
+sequence
+------ETLCGAELVDALYLVCGDRGFYFNPQT------------GIVDECCFRSCDLRRLEMYC-----
+----*
+>P1;gi|13517223|gb|AAK28711.1| preproinsulin [Gnathonemus petersii] [ score 77 E 1e-13 ] [ range 4 .. 87 ]
+sequence
+------QHLCGSHLVEALFLVCGERGFFFNPKR------------GIVEQCCHHPCNIFDLNQYCN----
+----*
+>P1;gi|124266|sp|P22618|IGF_MYXGL Insulin-like growth factor precurs... [ score 76 E 2e-13 ] [ range 39 .. 102 ]
+sequence
+----LSETLCGSELVDTLQFVCDDRGFFFVPRK------------GIVEECCFKGCSLRLLEMYC-----
+----*
+>P1;gi|3158361|gb|AAC17494.1| insulin-like growth factor I [Oreochro... [ score 75 E 3e-13 ] [ range 47 .. 103 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFNKPR------------GIVDECCFQSCELQRLEMYC-----
+----*
+>P1;gi|34016863|gb|AAQ56592.1| insulin-like growth factor I [Ictalur... [ score 75 E 3e-13 ] [ range 45 .. 103 ]
+sequence
+------ETLCGAELVDTLQFVCGDRGFYFSKNR------------GIVDECCFQSCELKRLEMYC-----
+----*
+>P1;gi|69352|pir||IPRYM insulin precursor - marbled electric ray (fr... [ score 75 E 4e-13 ] [ range 3 .. 68 ]
+sequence
+-----SQHLCGSHLVEALYFVCGPKGFYYLPKS------------GIVEHCCHNTCSLFDLEGYCN----
+----*
+>P1;gi|2133792|pir||S66485 insulin-like growth factor I precursor - ... [ score 75 E 5e-13 ] [ range 27 .. 84 ]
+sequence
+------ETLCGAELVDALQFVCGDRGFYFNPHR------------GIVNECCFQSCDLKLLEMYC-----
+----*
+>P1;gi|1170518|sp|P41694|IGF2_MUSVI Insulin-like growth factor II pr... [ score 74 E 9e-13 ] [ range 29 .. 85 ]
+sequence
+-----SETLCGGELVDTLQFVCGDRGFYFRSSR------------GIVEECCFRSCDLALLETYC-----
+----*
+>P1;gi|41353205|gb|AAS01183.1| preproinsulin-like growth factor I [E... [ score 73 E 2e-12 ] [ range 47 .. 103 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFSKPR------------GIVDECCFQSCELRRLEMNC-----
+----*
+>P1;gi|69307|pir||INEL insulin - elephant [ score 89 E 3e-17 ] [ range 1 .. 51 ]
+sequence
+---FVNQHLCGSHLVEALYLVCGERGFFYTPKT------------GIVEQCCTGVCSLYQLENYCN----
+----*
+>P1;gi|18376637|dbj|BAB84110.1| preproinsulin [Felis catus] [ score 89 E 3e-17 ] [ range 25 .. 110 ]
+sequence
+---FVNQHLCGSHLVEALYLVCGERGFFYTPKR------------GIVEQCCASVCSLYQLEHYCN----
+----*
+>P1;gi|9506817|ref|NP_062003.1| insulin 2 [Rattus norvegicus] >gi|12... [ score 88 E 5e-17 ] [ range 25 .. 110 ]
+sequence
+---FVKQHLCGSHLVEALYLVCGERGFFYTPKR------------GIVDQCCTSICSLYQLENYCN----
+----*
+>P1;gi|69320|pir||INCB insulin - Chinchilla brevicaudata [ score 87 E 7e-17 ] [ range 1 .. 51 ]
+sequence
+---FVNKHLCGSHLVDALYLVCGDRGFFYTPMA------------GIVDQCCTSICTLYQLENYCN----
+----*
+>P1;gi|124553|sp|P10604|INS_AOTTR Insulin precursor >gi|104987|pir||... [ score 85 E 3e-16 ] [ range 25 .. 108 ]
+sequence
+---FVNQHLCGPHLVEALYLVCGERGFFYAPKR------------GVVDQCCTSICSLYQLQNYCN----
+----*
+>P1;gi|69321|pir||INPQ insulin - crested porcupine [ score 85 E 4e-16 ] [ range 1 .. 51 ]
+sequence
+---FVNQHLCGSHLVEALYLVCGNDGFFYRPKA------------GIVDQCCTGVCSLYQLQNYCN----
+----*
+>P1;gi|9408409|gb|AAF87285.1| preproinsulin [Rana pipiens] [ score 82 E 2e-15 ] [ range 24 .. 106 ]
+sequence
+---FDNQYLCGSHLVEALYMVCGDRGFFYSPKP------------GIVEQCCHNTCSLYDLENYCN----
+----*
+>P1;gi|7438596|pir||S63590 insulin - duckbill platypus [ score 82 E 2e-15 ] [ range 1 .. 51 ]
+sequence
+---FPNQHLCGSHLVEALYLVCGEKGFYYIPRM------------GIVEECCKGVCSMYQLENYCN----
+----*
+>P1;gi|8569480|pdb|3LRI|A Chain A, Solution Structure And Backbone D... [ score 72 E 3e-12 ] [ range 11 .. 74 ]
+sequence
+---FVNRTLCGAELVDALQFVCGDRGFYFNKQT------------GIVDECCFRSCDLRRLEMYC-----
+----*
+>P1;gi|34576545|ref|NP_908941.1| insulin-like growth factor 1 [Mus m... [ score 126 E 2e-28 ] [ range 33 .. 102 ]
+sequence
+----GPETLCGAELVDALQFVCGPRGFYFNKPTGYGSSIRRAPQTGIVDECCFRSCDLRRLEMYCAPLKP
+TKAA*
+>P1;gi|14571865|gb|AAK67296.1| SIGF1-GFP fusion protein [synthetic c... [ score 125 E 2e-28 ] [ range 161 .. 228 ]
+sequence
+----GPETLCGAELVDTLQFVCGERGFYFSKPTGYGPNARRS--RGIVDECCFQSCELRRLEMYCAPAKT
+SKAA*
+>P1;gi|124253|sp|P16501|IGF1_XENLA Insulin-like growth factor I prec... [ score 122 E 3e-27 ] [ range 49 .. 118 ]
+sequence
+----GPETLCGAELVDTLQFVCGDRGFYFSKPTGYGSNNRRSHHRGIVDECCFQSCDFRRLEMYCAPAKP
+AKSA*
+>P1;gi|1708431|sp|P51462|IGF1_COTJA Insulin-like growth factor I pre... [ score 120 E 6e-27 ] [ range 20 .. 89 ]
+sequence
+----GPETLCGAELVDALQFVCGDRGFYFSKPTGYGSSSRRLHHKGIVDECCFQSCDLRRLEMYCAPIKP
+PKSA*
+>P1;gi|213441|gb|AAB59948.1| insulin-like growth factor I precursor ... [ score 119 E 2e-26 ] [ range 19 .. 88 ]
+sequence
+----GPETLCGAELVDTLQFVCGERGFYFSKPTGYGPSSRRSHNRGIVDECCFQSCELRRLEMYCAPVKS
+GKAA*
+>P1;gi|208429|gb|AAA72201.1| insulin-like growth factor I [ score 116 E 2e-25 ] [ range 1 .. 70 ]
+sequence
+----GPETLCGAELVDALYLVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKP
+AKSA*
+>P1;gi|14571867|gb|AAK67297.1| IGFII-GFP fusion protein [synthetic c... [ score 115 E 2e-25 ] [ range 106 .. 169 ]
+sequence
+------ETLCGGELVDALQFVCEDRGFYFSRPTSRGSN-RRPQNRGIVEECCFRSCDLNLLEQYCA--KP
+AKS-*
+>P1;gi|30578403|ref|NP_849197.1| insulin-like growth factor 1; Insul... [ score 115 E 3e-25 ] [ range 23 .. 92 ]
+sequence
+----GPETLCGAELVDALQFVCGPRGFYFNKPTGYGSSIRRAPQTGIVDECCFRSCDLRRLEMYCVRCKP
+TKSA*
+>P1;gi|9457240|gb|AAB37702.2| insulin-like growth factor I subtype E... [ score 115 E 3e-25 ] [ range 62 .. 130 ]
+sequence
+----GPETLCGAELVDTLQFVCGDRGFYFSKPTGYGPSSRRSHNRGIVDECCFQSCELRRLEMYCAPVKP
+GKT-*
+>P1;gi|34016863|gb|AAQ56592.1| insulin-like growth factor I [Ictalur... [ score 114 E 5e-25 ] [ range 43 .. 111 ]
+sequence
+----GPETLCGAELVDTLQFVCGDRGFYFSKPTGYGPNSRRLHNRGIVDECCFQSCELKRLEMYCAPVKS
+GKA-*
+>P1;gi|208433|gb|AAA72203.1| insulin-like growth factor [ score 113 E 1e-24 ] [ range 1 .. 70 ]
+sequence
+----GPQALCGAELVDALYLVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKP
+AKSA*
+>P1;gi|8569480|pdb|3LRI|A Chain A, Solution Structure And Backbone D... [ score 112 E 2e-24 ] [ range 14 .. 83 ]
+sequence
+----GPRTLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRACQTGIVDECCFRSCDLRRLEMYCAPLKP
+AKSA*
+>P1;gi|28848782|gb|AAO47742.1| preproinsulin-like growth factor I [S... [ score 111 E 5e-24 ] [ range 45 .. 112 ]
+sequence
+----GPETLCGAELVDTLQFVCGERGFYFSKPTGYGPNSRRP--RGIVDECCFQSCELRRLEMYCAPAKT
+SKAA*
+>P1;gi|37993618|gb|AAR06903.1| insulin-like growth factor I [Mugil c... [ score 108 E 3e-23 ] [ range 45 .. 111 ]
+sequence
+----GPETLCGAELVDTLQFVCGDRGFYFSKPTGYGPNARRS--RGIVDECCFQSCELRRLEMYCAPAKT
+NKS-*
+>P1;gi|41353205|gb|AAS01183.1| preproinsulin-like growth factor I [E... [ score 107 E 8e-23 ] [ range 45 .. 112 ]
+sequence
+----GPETLCGAELVDTLQFVCGERGFYFSKPTGYGPNVRRS--RGIVDECCFQSCELRRLEMNCAPAKT
+SKAA*
+>P1;gi|551232|emb|CAA55831.1| ubiquitous insulin-like growth factor-... [ score 107 E 8e-23 ] [ range 1 .. 70 ]
+sequence
+----GPETLCGAELVDTLQFVCGERRVHFSKPTGYGPSSRRSHNRGIVDECCFQSCELRRLEMYCAPVKS
+GKAA*
+>P1;gi|2894577|emb|CAA17123.1| insulin-like growth factor II precurs... [ score 106 E 1e-22 ] [ range 53 .. 116 ]
+sequence
+------ETLCGGELVDALQFVCEDRGFYFSRPTSRGSS-RRTQNRGIVEECCFRSCDLKLMEQYCA--KP
+AKS-*
+>P1;gi|16551381|gb|AAL25799.1| prepro-insulin-like growth factor-II ... [ score 105 E 2e-22 ] [ range 51 .. 114 ]
+sequence
+------ETLCGGELVDALQFVCGDRGFYFSRPTSRLSS-RRSQNRGIVEECCFNSCNLALLEQYCA--KP
+AKS-*
+>P1;gi|21700197|gb|AAM75746.1| insulin-like growth factor 2 precurso... [ score 105 E 3e-22 ] [ range 51 .. 114 ]
+sequence
+------ETLCGGELVDALQFVCEDRGFYFSRPTSR-SNSRRSQNRGIVEECCFSSCNLALLEQYCA--KP
+AKS-*
+>P1;gi|1808660|emb|CAA71789.1| prepro insulin-like growth factor I [... [ score 104 E 4e-22 ] [ range 45 .. 110 ]
+sequence
+----GPETLCGAELVDTLQFVCGERGFYFNKPTGYGPSARRS--RGIVDECCFQSCELQRLEMYCAPVKT
+PK--*
+>P1;gi|1083924|pir||A53697 insulin-like growth factor I, brain-speci... [ score 102 E 1e-21 ] [ range 44 .. 110 ]
+sequence
+----GPYTLCRAELVDSLQFVCGQRGFYFSRPMGYGSSTCWTHNRGILDKCCFQSCQLRWIEMYCAAFEP
+S---*
+>P1;gi|2230767|emb|CAA71694.1| pro-insulin like growth factor IA (IG... [ score 102 E 3e-21 ] [ range 1 .. 69 ]
+sequence
+----GPETLCGAELVDP-SVVCGPRGFYFNKPTGYGSSIRRAPQTGIVDECCFRSCDLRRLEMYCAPLKP
+TKAA*
+>P1;gi|37993620|gb|AAR06904.1| insulin-like growth factor II [Mugil ... [ score 101 E 3e-21 ] [ range 53 .. 116 ]
+sequence
+------ETLCGGELVDALQFVCGDRGFYFSRPTSRG-NNRRTQSSGIVEECCFRSCNLHLLEQYCA--KP
+AKS-*
+>P1;gi|2133792|pir||S66485 insulin-like growth factor I precursor - ... [ score 100 E 9e-21 ] [ range 26 .. 90 ]
+sequence
+-----PETLCGAELVDALQFVCGDRGFYFNKPAGYRSSVRR-PHRGIVNECCFQSCDLKLLEMYCA--KP
+QRA-*
+>P1;gi|8571480|gb|AAF76900.1| insulin-like growth factor 2 [Trichosu... [ score 99 E 3e-20 ] [ range 8 .. 72 ]
+sequence
+------ETLCGGELVDTLQFVCGDRGFYFSLPGRPLSRVSRRLNRGIVEECCFRSCDLALLETYCA--TP
+AKS-*
+>P1;gi|2135956|pir||I67610 insulin-like growth factor II, domains A-... [ score 97 E 9e-20 ] [ range 30 .. 93 ]
+sequence
+------ETLCGGELVDTLQFVCGDRGFYFSDFQRPASRVSRRS-RGIVEECCFRSCDLALLETYCA--TP
+AKS-*
+>P1;gi|30349722|gb|AAP22173.1| insulin-like growth factor 2 [Gallus ... [ score 97 E 1e-19 ] [ range 19 .. 75 ]
+sequence
+------ETLCGGELVDTLQFVCGDRGFYFSRPVGR---NNRRINRGIVEECCFRSCDLALLETYCA----
+----*
+>P1;gi|1364191|emb|CAA37620.1| unnamed protein product [Bos taurus] [ score 97 E 1e-19 ] [ range 1 .. 61 ]
+sequence
+------ETLCGGELVDTLQFVCGDRGFYFSRPSSRINRRS----RGIVEECCFRSCDLALLETYCA--TP
+AKS-*
+>P1;gi|18031882|gb|AAL06080.1| insulin-like growth factor 2b precurs... [ score 96 E 2e-19 ] [ range 42 .. 103 ]
+sequence
+------ETLCGGELVDTLQFVCGEDGFYISRPNR---SNSRRPQRGIVEECCFRSCELHLLQQYCA--KP
+VKS-*
+>P1;gi|3158368|gb|AAC17496.1| insulin-like growth factor II [Oreochr... [ score 96 E 2e-19 ] [ range 53 .. 116 ]
+sequence
+------ETLFGGKLVDALQFVCEDRSFYFSRPTSRG-NNRRPQTRGIVEECLFCSCDLNLLEQYCA--KP
+AKS-*
+>P1;gi|16024934|gb|AAL11445.1| insulin-like growth factor 2 [Xenopus... [ score 96 E 2e-19 ] [ range 61 .. 122 ]
+sequence
+------ETLCGGELVDTLQFVCGDRGFYFSTNNGR---SNRRPNRGIVDVCCFKSCDLELLETYCA--KP
+TKN-*
+>P1;gi|6754310|ref|NP_034644.1| insulin-like growth factor 2 [Mus mu... [ score 93 E 1e-18 ] [ range 27 .. 90 ]
+sequence
+----GPETLCGGELVDTLQFVCSDRGFYFSRPSSRANRRS----RGIVEECCFRSCDLALLETYCA--TP
+AKS-*
+>P1;gi|4558029|pdb|1B9G|A Chain A, Insulin-Like-Growth-Factor-1 [ score 93 E 2e-18 ] [ range 1 .. 57 ]
+sequence
+----GPETLCGAELVDALQFVCGDRGFYFN-------------KPGIVDECCFRSCDLRRLEMYCAPLKP
+AKSA*
+>P1;gi|21431657|gb|AAF69129.2| insulin-like growth factor 2 precurso... [ score 91 E 4e-18 ] [ range 6 .. 67 ]
+sequence
+------ETLCGGELVDTLQFVCGDRGFYFGRSP---SRTNRRSKKGIVEECCFSSCDLAVLETYCA--TP
+AKS-*
+>P1;gi|22830883|dbj|BAC15764.1| Insulin-like growth factor precursor... [ score 91 E 7e-18 ] [ range 56 .. 118 ]
+sequence
+------ETLCGSELVDALQFVCGDRGFYFVRHPSSRSHGR--PKKGIVEECCFSKCDLRLLEMYCA--KP
+AKS-*
+>P1;gi|12644021|sp|P81025|INS_ORENI Insulin precursor >gi|4558782|gb... [ score 91 E 8e-18 ] [ range 27 .. 113 ]
+sequence
+----GPQHLCGSHLVDALYLVCGDRGFFYNPEVTFKDQMEMMVKRGIVEECCHKPCTIFDLQNYCN----
+----*
+>P1;gi|2133793|pir||S66484 insulin-like growth factor II precursor -... [ score 89 E 2e-17 ] [ range 55 .. 119 ]
+sequence
+------ETLCGSELVDTLQFICAERGFYFVSKVVG---RRSRQNRGIVEECCFRSCDLLILETYCAPPEA
+ARS-*
+>P1;gi|9973534|sp|Q9W7R2|INS_VERMO Insulin precursor >gi|5381267|dbj... [ score 88 E 4e-17 ] [ range 28 .. 115 ]
+sequence
+-----PQHLCGAHLVDALYLVCGERGFFYTPKRAFKDQMEMMVKRGIVEQCCHKPCNIFDLQNYCN----
+----*
+>P1;gi|124638|sp|P01341|INS_LOPPI Insulin precursor >gi|69346|pir||I... [ score 87 E 1e-16 ] [ range 29 .. 116 ]
+sequence
+------QHLCGSHLVDALYLVCGDRGFFYNPKRAFKDQMEMMVKRGIVEQCCHRPCNIFDLQNYCN----
+----*
+>P1;gi|13517219|gb|AAK28709.1| preproinsulin [Catostomus commersoni] [ score 86 E 1e-16 ] [ range 26 .. 108 ]
+sequence
+-----PQHLCGSHLVDALYLVCGPTGFFYNPKRAFKDHAELIRKRGIVEQCCHRPCNIFDLEKYCN----
+----*
+>P1;gi|124266|sp|P22618|IGF_MYXGL Insulin-like growth factor precurs... [ score 86 E 2e-16 ] [ range 41 .. 108 ]
+sequence
+------ETLCGSELVDTLQFVCDDRGFFFHVPPRRGAHRRSRARKGIVEECCFKGCSLRLLEMYCA--RP
+SKA-*
+>P1;gi|124594|sp|P01335|INS_CYPCA Insulin precursor >gi|69334|pir||I... [ score 86 E 2e-16 ] [ range 26 .. 108 ]
+sequence
+-----PQHLCGSHLVDALYLVCGPTGFFYNPKRAFKDHAEVIRKRGIVEQCCHKPCSIFELQNYCN----
+----*
+>P1;gi|213445|gb|AAA49414.1| preproinsulin >gi|223664|prf||0906264A ... [ score 86 E 2e-16 ] [ range 26 .. 105 ]
+sequence
+------QHLCGSHLVDALYLVCGEKGFFYNEEYPFKDQTEMMVKRGIVEQCCHRPCNIFDLQNYCN----
+----*
+>P1;gi|462404|sp|P33717|IGF2_CHICK Insulin-like growth factor II (IG... [ score 83 E 2e-15 ] [ range 5 .. 65 ]
+sequence
+------ETLCGGELVDTLQFVCGDRGFYFSRPVGR----NNRRINGIVEECCFRSCDLALLATYCA--TP
+AKS-*
+>P1;gi|124526|sp|P12707|INS2_XENLA Insulin 2 precursor >gi|69333|pir... [ score 83 E 2e-15 ] [ range 27 .. 106 ]
+sequence
+------QHLCGSHLVEALYLVCGDRGFFYYPKIKRQPQEYQKMKRGIVEQCCHSTCSLFQLENYCN----
+----*
+>P1;gi|9408409|gb|AAF87285.1| preproinsulin [Rana pipiens] [ score 82 E 3e-15 ] [ range 27 .. 106 ]
+sequence
+------QYLCGSHLVEALYMVCGDRGFFYSPRSRRQSQAFQKRKPGIVEQCCHNTCSLYDLENYCN----
+----*
+>P1;gi|124588|sp|P01313|INS_CRILO Insulin precursor >gi|2137094|pir|... [ score 82 E 3e-15 ] [ range 28 .. 110 ]
+sequence
+------QHLCGSHLVEALYLVCGERGFFYTPKSRRGVEDPQVQKRGIVDQCCTSICSLYQLENYCN----
+----*
+>P1;gi|2497407|sp|Q62587|INS_PSAOB Insulin precursor >gi|1370283|emb... [ score 82 E 4e-15 ] [ range 28 .. 110 ]
+sequence
+------QHLCGSHLVEALYLVCGERGFFYTPKFRRGVDDPQMPKRGIVEQCCTGICSLYQLENYCN----
+----*
+>P1;gi|45382573|ref|NP_990553.1| proinsulin [Gallus gallus] >gi|1245... [ score 81 E 4e-15 ] [ range 28 .. 107 ]
+sequence
+------QHLCGSHLVEALYLVCGERGFFYSPKARRDVEQPLKVKRGIVEQCCHNTCSLYQLENYCN----
+----*
+>P1;gi|124513|sp|P12706|INS1_XENLA Insulin 1 precursor >gi|69332|pir... [ score 81 E 5e-15 ] [ range 27 .. 106 ]
+sequence
+------QHLCGSHLVEALYLVCGDRGFFYYPKVKRQPQEYQKMKRGIVEQCCHSTCSLFQLESYCN----
+----*
+>P1;gi|13517217|gb|AAK28708.1| preproinsulin [Ambloplites rupestris] [ score 81 E 7e-15 ] [ range 3 .. 91 ]
+sequence
+-----PQHLCGSHLVDALYLVCGDRGFFYNPKRAFKDQMEMMVKRGIVEQCCHHPCNIFDLGRYCN----
+----*
+>P1;gi|13517227|gb|AAK28713.1| preproinsulin [Osteoglossum bicirrhosum] [ score 81 E 8e-15 ] [ range 28 .. 111 ]
+sequence
+------QRLCGSHLVDALYMVCGDRGFFYSPKSRYKEQGELKVKRGIVEQCCHRPCNIFDLQNYCN----
+----*
+>P1;gi|1103534|emb|CAA92276.1| IGF2 [Bos taurus] [ score 80 E 1e-14 ] [ range 8 .. 68 ]
+sequence
+------ETLCGGELVDTLQFVCGDPPFYFSRPSSRINRRS----RGIVEECCFRSCDLALLETYCA--TP
+AKS-*
+>P1;gi|266362|sp|P30407|INS_CERAE Insulin precursor >gi|283935|pir||... [ score 80 E 2e-14 ] [ range 28 .. 110 ]
+sequence
+------QHLCGSHLVEALYLVCGERGFFYTPKTRREAEDPQLQKRGIVEQCCTSICSLYQLENYCN----
+----*
+>P1;gi|13517225|gb|AAK28712.1| preproinsulin [Pantodon buchholzi] [ score 79 E 2e-14 ] [ range 27 .. 110 ]
+sequence
+------QHLCGSHLVDALYMVCGEKGFFYQPKTPYKDQGDLKVKRGIVEQCCHHPCNIFDLQNYCN----
+----*
+>P1;gi|9506815|ref|NP_062002.1| insulin 1; Insulin [Rattus norvegicu... [ score 79 E 3e-14 ] [ range 28 .. 110 ]
+sequence
+------QHLCGPHLVEALYLVCGERGFFYTPKSRREVEDPQVPKRGIVDQCCTSICSLYQLENYCN----
+----*
+>P1;gi|9506817|ref|NP_062003.1| insulin 2 [Rattus norvegicus] >gi|12... [ score 79 E 3e-14 ] [ range 28 .. 110 ]
+sequence
+------QHLCGSHLVEALYLVCGERGFFYTPMSRREVEDPQRQKRGIVDQCCTSICSLYQLENYCN----
+----*
+>P1;gi|124511|sp|P01325|INS1_MOUSE Insulin 1 precursor >gi|625279|pi... [ score 79 E 3e-14 ] [ range 28 .. 108 ]
+sequence
+------QHLCGPHLVEALYLVCGERGFFYTPKSRREVEDPQRQKRGIVDQCCTSICSLYQLENYCN----
+----*
+>P1;gi|18542389|gb|AAL75568.1| insulin-like growth factor 1 [Trichos... [ score 78 E 5e-14 ] [ range 40 .. 86 ]
+sequence
+----GPETLCGAELVDALQFVCGERGFYFSKPTGYGSSSRRLHHTGIVDEC-------------------
+----*
+>P1;gi|14161273|gb|AAK54684.1| preproinsulin [Hiodon alosoides] [ score 78 E 5e-14 ] [ range 27 .. 110 ]
+sequence
+------QHLCGSHLVDALYMVCGEKGFFYQPKTPYKDQGDLKVKRGIVEQCCHRPCNIFDLNQYCN----
+----*
+>P1;gi|124365|sp|P22334|ILP_BRACL Insulin-like peptide precursor >gi... [ score 78 E 8e-14 ] [ range 25 .. 108 ]
+sequence
+------EYLCGSTLADVLSFVCGNRG-YNSQPRRSGAMPHIRRRRGLVEECCYNVCDYSQLESYCNPYST
+APA-*
+>P1;gi|124553|sp|P10604|INS_AOTTR Insulin precursor >gi|104987|pir||... [ score 77 E 9e-14 ] [ range 28 .. 108 ]
+sequence
+------QHLCGPHLVEALYLVCGERGFFYAPKTRREAEDLQMQKRGVVDQCCTSICSLYQLQNYCN----
+----*
+>P1;gi|69335|pir||INCD insulin - cod (Gadus sp.) [ score 77 E 1e-13 ] [ range 4 .. 51 ]
+sequence
+-----PQHLCGSHLVDALYLVCGDRGFFYNPK-------------GIVDQCCHRPCDIFDLQNYCN----
+----*
+>P1;gi|13517223|gb|AAK28711.1| preproinsulin [Gnathonemus petersii] [ score 76 E 2e-13 ] [ range 4 .. 87 ]
+sequence
+------QHLCGSHLVEALFLVCGERGFFFNPEYRYKEQAEVKVKRGIVEQCCHHPCNIFDLNQYCN----
+----*
+>P1;gi|13517221|gb|AAK28710.1| preproinsulin [Chitala chitala] [ score 76 E 3e-13 ] [ range 27 .. 111 ]
+sequence
+------QHLCGSHLVEALYLVCGERGFFYNPKMPFKDQGDVKMKRGIVEQCCHRPCNIFDQNQYCN----
+----*
+>P1;gi|1708500|sp|P01318|INS_SHEEP Insulin precursor >gi|405982|gb|A... [ score 76 E 3e-13 ] [ range 28 .. 105 ]
+sequence
+------QHLCGSHLVEALYLVCGERGFFYTPKARREVEGPQPQKRGIVEQCCAGVCSLYQLENYCN----
+----*
+>P1;gi|69339|pir||INTU2 insulin 2 - tuna [ score 75 E 4e-13 ] [ range 4 .. 51 ]
+sequence
+-----PQHLCGSHLVDALYLVCGDRGFFYNPK-------------GIVEQCCHKPCNIFDLQNYCN----
+----*
+>P1;gi|69336|pir||INTF1 insulin 1 - toadfish (tentative sequence) [ score 75 E 5e-13 ] [ range 4 .. 51 ]
+sequence
+-----PQHLCGSHLVDALYLVCGDRGFFYNPK-------------GIVEQCCHRPCDIFDLQSYCN----
+----*
+>P1;gi|15787614|gb|AAL06242.1| insulin-like growth factor 3 [Xenopus... [ score 75 E 5e-13 ] [ range 58 .. 115 ]
+sequence
+------ELLCGSELVDILQFICGPTGFYVSK----GASFRNRNRPGIVEECCFCGCSVAILESYCAAP--
+----*
+>P1;gi|18376637|dbj|BAB84110.1| preproinsulin [Felis catus] [ score 75 E 5e-13 ] [ range 28 .. 110 ]
+sequence
+------QHLCGSHLVEALYLVCGERGFFYTPKARREAEDLQGQKRGIVEQCCASVCSLYQLEHYCN----
+----*
+>P1;gi|69352|pir||IPRYM insulin precursor - marbled electric ray (fr... [ score 74 E 6e-13 ] [ range 4 .. 68 ]
+sequence
+------QHLCGSHLVEALYFVCGPKGFYYLPKAAGYSKHQNGGISGIVEHCCHNTCSLFDLEGYCN----
+----*
+>P1;gi|69338|pir||INFIS insulin - shorthorn sculpin [ score 74 E 8e-13 ] [ range 3 .. 50 ]
+sequence
+-----PQHLCGSHLVDALYLVCGDRGFFYNPK-------------GIVEQCCHRPCNIRVLENYCN----
+----*
+>P1;gi|69354|pir||INLMS insulin - sea lamprey [ score 73 E 2e-12 ] [ range 7 .. 57 ]
+sequence
+----GGTHLCGSHLVEALYVVCGDRGFFYTPS-----------KTGIVEQCCHRKCSIYDMENYCN----
+----*
+>P1;gi|13646958|dbj|BAB41098.1| insulin like growth factor I [Cynops... [ score 73 E 2e-12 ] [ range 30 .. 72 ]
+sequence
+----GSETLCGAELVDALQFVCGDRGFYFSKATGYGLNSRRTSHRGI-----------------------
+----*
+>P1;gi|124547|sp|P01333|INS_ANAPL Insulin precursor >gi|69328|pir||I... [ score 73 E 2e-12 ] [ range 4 .. 81 ]
+sequence
+------QHLCGSHLVEALYLVCGERGFFYSPKTAADVQHEEYQAAGIVEQCCENPCSLYQLENYCN----
+----*
+>P1;gi|12643999|sp|P13190|INS_CALMI Insulin precursor [ score 73 E 2e-12 ] [ range 4 .. 89 ]
+sequence
+------QRLCGSHLVDALYFVCGERGFFYSPKPYRQQLAGSKMKRGIVEQCCHNTCSLVNLEGYCN----
+----*
+>P1;gi|7438597|pir||S61361 insulin - Amphiuma tridactylum [ score 73 E 3e-12 ] [ range 4 .. 52 ]
+sequence
+------QYLCGSHLVEALFLVCGDRGFFYSPKA-----------RGIVEQCCHNTCSLNQLENYCN----
+----*
+>P1;gi|56710|emb|CAA25427.1| pot. MSA-precursor [Rattus norvegicus] ... [ score 127 E 4e-29 ] [ range 36 .. 102 ]
+sequence
+-AYRPSETLCGGELVDTLQFVCSDRGFYFSRPSS--RANRRS--RGIVEECCFRSCDLALLETYCA--TP
+AKSE*
+>P1;gi|14571867|gb|AAK67297.1| IGFII-GFP fusion protein [synthetic c... [ score 127 E 7e-29 ] [ range 105 .. 170 ]
+sequence
+-----AETLCGGELVDALQFVCEDRGFYFSRPTS--RGSNRN--RGIVEECCFRSCDLNLLEQYCA--KP
+AKSE*
+>P1;gi|6754310|ref|NP_034644.1| insulin-like growth factor 2 [Mus mu... [ score 124 E 4e-28 ] [ range 25 .. 91 ]
+sequence
+-AYGPGETLCGGELVDTLQFVCSDRGFYFSRPSS--RANRRS--RGIVEECCFRSCDLALLETYCA--TP
+AKSE*
+>P1;gi|21686548|gb|AAM74952.1| IGF II [Pelvicachromis pulcher] [ score 120 E 7e-27 ] [ range 11 .. 77 ]
+sequence
+----PAETLCGGELVDALQFVCEDRGFYFSRPTS--RGNNRR--RGIVEECCFRSCDLNLLEQYCA--KP
+AKSE*
+>P1;gi|1289271|emb|CAA65862.1| insulin-like growth factor II [Oncorh... [ score 119 E 2e-26 ] [ range 52 .. 117 ]
+sequence
+-----AETLCGGELVDALQFVCEDRGFYFSRPTS--RSNSRN--RGIVEECCFRSCDLNLLEQYCA--KP
+AKSE*
+>P1;gi|30349722|gb|AAP22173.1| insulin-like growth factor 2 [Gallus ... [ score 119 E 2e-26 ] [ range 14 .. 81 ]
+sequence
+-AYGTAETLCGGELVDTLQFVCGDRGFYFSRPVG--RNNRRN--RGIVEECCFRSCDLALLETYCA--KS
+VKSE*
+>P1;gi|16551381|gb|AAL25799.1| prepro-insulin-like growth factor-II ... [ score 117 E 5e-26 ] [ range 50 .. 115 ]
+sequence
+-----AETLCGGELVDALQFVCGDRGFYFSRPTS--RLSSRN--RGIVEECCFNSCNLALLEQYCA--KP
+AKSE*
+>P1;gi|28848784|gb|AAO47743.1| preproinsulin-like growth factor II [... [ score 116 E 1e-25 ] [ range 52 .. 117 ]
+sequence
+-----AETLCGGELVDALQFVCDDRGFYFSRPTS--RGNSRN--RGIVEECCFRSCDLNLLEQYCA--KP
+AKSE*
+>P1;gi|16024934|gb|AAL11445.1| insulin-like growth factor 2 [Xenopus... [ score 116 E 1e-25 ] [ range 56 .. 123 ]
+sequence
+-AYRATETLCGGELVDTLQFVCGDRGFYFSTNNG--RSNRRN--RGIVDVCCFKSCDLELLETYCA--KP
+TKNE*
+>P1;gi|21700197|gb|AAM75746.1| insulin-like growth factor 2 precurso... [ score 116 E 2e-25 ] [ range 50 .. 115 ]
+sequence
+-----AETLCGGELVDALQFVCEDRGFYFSRPTS--RSNSRN--RGIVEECCFSSCNLALLEQYCA--KP
+AKSE*
+>P1;gi|2894577|emb|CAA17123.1| insulin-like growth factor II precurs... [ score 116 E 2e-25 ] [ range 53 .. 117 ]
+sequence
+------ETLCGGELVDALQFVCEDRGFYFSRPTS--RGSSRN--RGIVEECCFRSCDLKLMEQYCA--KP
+AKSE*
+>P1;gi|8571480|gb|AAF76900.1| insulin-like growth factor 2 [Trichosu... [ score 115 E 4e-25 ] [ range 3 .. 73 ]
+sequence
+-AYRPSETLCGGELVDTLQFVCGDRGFYFSLPGS--RVSRRN--RGIVEECCFRSCDLALLETYCA--TP
+AKSE*
+>P1;gi|14571865|gb|AAK67296.1| SIGF1-GFP fusion protein [synthetic c... [ score 113 E 1e-24 ] [ range 163 .. 224 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFSKPTG--YNARRS--RGIVDECCFQSCELRRLEMYCA---P
+AKT-*
+>P1;gi|37993620|gb|AAR06904.1| insulin-like growth factor II [Mugil ... [ score 112 E 1e-24 ] [ range 52 .. 117 ]
+sequence
+-----AETLCGGELVDALQFVCGDRGFYFSRPTS--RGNNRR--SGIVEECCFRSCNLHLLEQYCA--KP
+AKSE*
+>P1;gi|1103534|emb|CAA92276.1| IGF2 [Bos taurus] [ score 110 E 8e-24 ] [ range 3 .. 69 ]
+sequence
+-AYRPSETLCGGELVDTLQFVCGDPPFYFSRPSS--RINRRS--RGIVEECCFRSCDLALLETYCA--TP
+AKSE*
+>P1;gi|21431657|gb|AAF69129.2| insulin-like growth factor 2 precurso... [ score 108 E 3e-23 ] [ range 5 .. 68 ]
+sequence
+-----SETLCGGELVDTLQFVCGDRGFYFGRSPS--RTNRRK--KGIVEECCFSSCDLAVLETYCA--TP
+AKSE*
+>P1;gi|18031882|gb|AAL06080.1| insulin-like growth factor 2b precurs... [ score 108 E 3e-23 ] [ range 42 .. 104 ]
+sequence
+------ETLCGGELVDTLQFVCGEDGFYISRPNR--SNSRRP--RGIVEECCFRSCELHLLQQYCA--KP
+VKSE*
+>P1;gi|3158368|gb|AAC17496.1| insulin-like growth factor II [Oreochr... [ score 107 E 5e-23 ] [ range 52 .. 117 ]
+sequence
+-----AETLFGGKLVDALQFVCEDRSFYFSRPTS--RGNNRR--RGIVEECLFCSCDLNLLEQYCA--KP
+AKSE*
+>P1;gi|462404|sp|P33717|IGF2_CHICK Insulin-like growth factor II (IG... [ score 106 E 1e-22 ] [ range 1 .. 66 ]
+sequence
+--YGTAETLCGGELVDTLQFVCGDRGFYFSRPVG--RNNRRI--NGIVEECCFRSCDLALLATYCA--TP
+AKSE*
+>P1;gi|2133793|pir||S66484 insulin-like growth factor II precursor -... [ score 105 E 3e-22 ] [ range 52 .. 116 ]
+sequence
+---RLEETLCGSELVDTLQFICAERGFYFSKVVG--RRSRQN--RGIVEECCFRSCDLLILETYCA--VP
+PEA-*
+>P1;gi|34576545|ref|NP_908941.1| insulin-like growth factor 1 [Mus m... [ score 103 E 1e-21 ] [ range 35 .. 101 ]
+sequence
+------ETLCGAELVDALQFVCGPRGFYFNKPTG--YGSSIR--RGIVDECCFRSCDLRRLEMYCA--KP
+TKA-*
+>P1;gi|1170518|sp|P41694|IGF2_MUSVI Insulin-like growth factor II pr... [ score 102 E 1e-21 ] [ range 25 .. 92 ]
+sequence
+-AYRPSETLCGGELVDTLQFVCGDRGFYFRPASR--VSRRSS--RGIVEECCFRSCDLALLETYCA--TP
+AKSE*
+>P1;gi|124253|sp|P16501|IGF1_XENLA Insulin-like growth factor I prec... [ score 101 E 4e-21 ] [ range 51 .. 117 ]
+sequence
+------ETLCGAELVDTLQFVCGDRGFYFSKPTG--YGSNHH--RGIVDECCFQSCDFRRLEMYCA--KP
+AKS-*
+>P1;gi|22830883|dbj|BAC15764.1| Insulin-like growth factor precursor... [ score 101 E 4e-21 ] [ range 53 .. 119 ]
+sequence
+---RASETLCGSELVDALQFVCGDRGFYFVRHPS--SRSRPK--KGIVEECCFSKCDLRLLEMYCA--KP
+AKSE*
+>P1;gi|213441|gb|AAB59948.1| insulin-like growth factor I precursor ... [ score 100 E 7e-21 ] [ range 21 .. 84 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFSKPTG--YGRSHN--RGIVDECCFQSCELRRLEMYCA---P
+VKS-*
+>P1;gi|2133792|pir||S66485 insulin-like growth factor I precursor - ... [ score 100 E 7e-21 ] [ range 27 .. 91 ]
+sequence
+------ETLCGAELVDALQFVCGDRGFYFNKPAG--YRSRPH--RGIVNECCFQSCDLKLLEMYCA--KP
+QRAD*
+>P1;gi|2569961|emb|CAA73162.1| insulin-like growth factor [Myoxoceph... [ score 100 E 7e-21 ] [ range 47 .. 110 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFSKPGG--YNARRS--RGIVDECCFQSCELRRLEMYCA--PP
+KTSK*
+>P1;gi|28848782|gb|AAO47742.1| preproinsulin-like growth factor I [S... [ score 100 E 9e-21 ] [ range 47 .. 108 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFSKPTG--YNSRRP--RGIVDECCFQSCELRRLEMYCA---P
+AKT-*
+>P1;gi|34016863|gb|AAQ56592.1| insulin-like growth factor I [Ictalur... [ score 99 E 2e-20 ] [ range 45 .. 108 ]
+sequence
+------ETLCGAELVDTLQFVCGDRGFYFSKPTG--YGPNHN--RGIVDECCFQSCELKRLEMYCA---P
+VKS-*
+>P1;gi|4104007|gb|AAD01917.1| prepro-insulin-like growth factor I [A... [ score 98 E 6e-20 ] [ range 47 .. 107 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFSKPGG--PNARRS--RGIVDECCFQSCELRRLEMYCA---P
+AKT-*
+>P1;gi|30578403|ref|NP_849197.1| insulin-like growth factor 1; Insul... [ score 97 E 1e-19 ] [ range 25 .. 91 ]
+sequence
+------ETLCGAELVDALQFVCGPRGFYFNKPTG--YGSSIR--RGIVDECCFRSCDLRRLEMYCV--KP
+TKS-*
+>P1;gi|9457240|gb|AAB37702.2| insulin-like growth factor I subtype E... [ score 96 E 1e-19 ] [ range 64 .. 130 ]
+sequence
+------ETLCGAELVDTLQFVCGDRGFYFSKPTG--YGRSHN--RGIVDECCFQSCELRRLEMYCA--KP
+GKT-*
+>P1;gi|1808660|emb|CAA71789.1| prepro insulin-like growth factor I [... [ score 96 E 3e-19 ] [ range 47 .. 108 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFNKPTG--YGARRS--RGIVDECCFQSCELQRLEMYCA---P
+VKT-*
+>P1;gi|41353205|gb|AAS01183.1| preproinsulin-like growth factor I [E... [ score 96 E 3e-19 ] [ range 47 .. 108 ]
+sequence
+------ETLCGAELVDTLQFVCGERGFYFSKPTG--YGPNRS--RGIVDECCFQSCELRRLEMNCA---P
+AKT-*
+>P1;gi|124266|sp|P22618|IGF_MYXGL Insulin-like growth factor precurs... [ score 95 E 4e-19 ] [ range 40 .. 109 ]
+sequence
+-----SETLCGSELVDTLQFVCDDRGFFFRRGAH--RRSRAR--KGIVEECCFKGCSLRLLEMYCA--RP
+SKAE*
+>P1;gi|3982553|gb|AAC83443.1| insulin-like growth factor-I [Carassiu... [ score 94 E 5e-19 ] [ range 47 .. 113 ]
+sequence
+------ETLCGAELVDTLQFVCGDRGFYFSKPTG--YGPNHN--RGIVDECCFQSCELRRLEMYCA--KP
+GKT-*
+>P1;gi|208429|gb|AAA72201.1| insulin-like growth factor I [ score 93 E 1e-18 ] [ range 3 .. 69 ]
+sequence
+------ETLCGAELVDALYLVCGDRGFYFNKPTG--YGSSSR--RGIVDECCFRSCDLRRLEMYCA--KP
+AKS-*
+>P1;gi|227566|prf||1707201A insulin-like growth factor 1 [ score 92 E 4e-18 ] [ range 1 .. 69 ]
+sequence
+---GPTE-LCGAELVDALQFVCGDRGFYFNKPTG--YGSSSR--RGIVDECCFRSCDLRRLEMYCA--KP
+AKS-*
+>P1;gi|208433|gb|AAA72203.1| insulin-like growth factor [ score 91 E 6e-18 ] [ range 3 .. 69 ]
+sequence
+------QALCGAELVDALYLVCGDRGFYFNKPTG--YGSSSR--RGIVDECCFRSCDLRRLEMYCA--KP
+AKS-*
+>P1;gi|15787614|gb|AAL06242.1| insulin-like growth factor 3 [Xenopus... [ score 90 E 1e-17 ] [ range 55 .. 118 ]
+sequence
+---RSKELLCGSELVDILQFICGPTGFYVSKGAS--FRNRNR--PGIVEECCFCGCSVAILESYCA--AP
+VTN-*
+>P1;gi|1083924|pir||A53697 insulin-like growth factor I, brain-speci... [ score 89 E 3e-17 ] [ range 47 .. 105 ]
+sequence
+-------TLCRAELVDSLQFVCGQRGFYFSRPSS--TCWTHN--RGILDKCCFQSCQLRWIEMYCA----
+----*
+>P1;gi|7532878|gb|AAF63265.1| insulin-like growth factor 1; igf-1 [C... [ score 88 E 5e-17 ] [ range 2 .. 61 ]
+sequence
+------ETLCGAELVDTLQFVCGDRGFYFSKPTS--SRRSHN--RGIVDECCFQSCELRRLEMYCA----
+----*
+>P1;gi|69349|pir||INFI insulin precursor - spotted ratfish (fragment... [ score 86 E 1e-16 ] [ range 2 .. 58 ]
+sequence
+----PTQRLCGSHLVDALYFVCGERGFFYSPKPI--RELEPL--LGIVEQCCHNTCSLANLEGYC-----
+----*
+>P1;gi|124588|sp|P01313|INS_CRILO Insulin precursor >gi|2137094|pir|... [ score 85 E 3e-16 ] [ range 26 .. 109 ]
+sequence
+----VNQHLCGSHLVEALYLVCGERGFFYTPKSR--RVAQQK--RGIVDQCCTSICSLYQLENYC-----
+----*
+>P1;gi|551232|emb|CAA55831.1| ubiquitous insulin-like growth factor-... [ score 85 E 4e-16 ] [ range 3 .. 66 ]
+sequence
+------ETLCGAELVDTLQFVCGERRVHFSKPTG--YGRSHN--RGIVDECCFQSCELRRLEMYCA---P
+VKS-*
+>P1;gi|30584395|gb|AAP36446.1| Homo sapiens insulin [synthetic const... [ score 85 E 4e-16 ] [ range 26 .. 109 ]
+sequence
+----VNQHLCGSHLVEALYLVCGERGFFYTPKTR--RGSLQK--RGIVEQCCTSICSLYQLENYC-----
+----*
+>P1;gi|6680463|ref|NP_032413.1| insulin II [Mus musculus] >gi|124519... [ score 85 E 5e-16 ] [ range 26 .. 109 ]
+sequence
+----VKQHLCGSHLVEALYLVCGERGFFYTPMSR--RVAQQK--RGIVDQCCTSICSLYQLENYC-----
+----*
+>P1;gi|9408409|gb|AAF87285.1| preproinsulin [Rana pipiens] [ score 83 E 1e-15 ] [ range 26 .. 105 ]
+sequence
+-----NQYLCGSHLVEALYMVCGDRGFFYSPRSR--RFQKRK--PGIVEQCCHNTCSLYDLENYC-----
+----*
+>P1;gi|2230767|emb|CAA71694.1| pro-insulin like growth factor IA (IG... [ score 83 E 2e-15 ] [ range 3 .. 68 ]
+sequence
+------ETLCGAELVDP-SVVCGPRGFYFNKPTG--YGSSIR--RGIVDECCFRSCDLRRLEMYCA--KP
+TKA-*
+>P1;gi|124513|sp|P12706|INS1_XENLA Insulin 1 precursor >gi|69332|pir... [ score 83 E 2e-15 ] [ range 25 .. 105 ]
+sequence
+----VNQHLCGSHLVEALYLVCGDRGFFYYPKVK--RYQKMK--RGIVEQCCHSTCSLFQLESYC-----
+----*
+>P1;gi|2497407|sp|Q62587|INS_PSAOB Insulin precursor >gi|1370283|emb... [ score 83 E 2e-15 ] [ range 26 .. 109 ]
+sequence
+----VNQHLCGSHLVEALYLVCGERGFFYTPKFR--RVARQK--RGIVEQCCTGICSLYQLENYC-----
+----*
+>P1;gi|124526|sp|P12707|INS2_XENLA Insulin 2 precursor >gi|69333|pir... [ score 83 E 3e-15 ] [ range 26 .. 105 ]
+sequence
+-----NQHLCGSHLVEALYLVCGDRGFFYYPKIK--RYQKMK--RGIVEQCCHSTCSLFQLENYC-----
+----*
+>P1;gi|124511|sp|P01325|INS1_MOUSE Insulin 1 precursor >gi|625279|pi... [ score 82 E 3e-15 ] [ range 26 .. 107 ]
+sequence
+----VKQHLCGPHLVEALYLVCGERGFFYTPKSR--RVARQK--RGIVDQCCTSICSLYQLENYC-----
+----*
+>P1;gi|13517227|gb|AAK28713.1| preproinsulin [Osteoglossum bicirrhosum] [ score 82 E 3e-15 ] [ range 27 .. 110 ]
+sequence
+-----SQRLCGSHLVDALYMVCGDRGFFYSPKSR--REAEPK--RGIVEQCCHRPCNIFDLQNYC-----
+----*
+>P1;gi|13517219|gb|AAK28709.1| preproinsulin [Catostomus commersoni] [ score 81 E 7e-15 ] [ range 27 .. 107 ]
+sequence
+------QHLCGSHLVDALYLVCGPTGFFYNPKSG--PENERK--RGIVEQCCHRPCNIFDLEKYC-----
+----*
+>P1;gi|1708500|sp|P01318|INS_SHEEP Insulin precursor >gi|405982|gb|A... [ score 80 E 1e-14 ] [ range 26 .. 104 ]
+sequence
+----VNQHLCGSHLVEALYLVCGERGFFYTPKAR--REPPQK--RGIVEQCCAGVCSLYQLENYC-----
+----*
+>P1;gi|18376637|dbj|BAB84110.1| preproinsulin [Felis catus] [ score 80 E 1e-14 ] [ range 26 .. 109 ]
+sequence
+----VNQHLCGSHLVEALYLVCGERGFFYTPKAR--REAEQK--RGIVEQCCASVCSLYQLEHYC-----
+----*
+>P1;gi|124553|sp|P10604|INS_AOTTR Insulin precursor >gi|104987|pir||... [ score 80 E 1e-14 ] [ range 26 .. 107 ]
+sequence
+----VNQHLCGPHLVEALYLVCGERGFFYAPKTR--REAEQK--RGVVDQCCTSICSLYQLQNYC-----
+----*
+>P1;gi|115182|sp|P26742|BXB8_BOMMO Bombyxin B-8 precursor (BBX-B8) (... [ score 80 E 2e-14 ] [ range 20 .. 87 ]
+sequence
+-AQEVARTYCGSHLADTLADLCAQYAPYFWQKAY--LGSRGK--RGVVDECCFRPCTLDVLASYC-----
+----*
+>P1;gi|213445|gb|AAA49414.1| preproinsulin >gi|223664|prf||0906264A ... [ score 79 E 2e-14 ] [ range 25 .. 104 ]
+sequence
+-----AQHLCGSHLVDALYLVCGEKGFFYSPKSA--KENEEK--RGIVEQCCHRPCNIFDLQNYC-----
+----*
+>P1;gi|9973534|sp|Q9W7R2|INS_VERMO Insulin precursor >gi|5381267|dbj... [ score 79 E 2e-14 ] [ range 27 .. 114 ]
+sequence
+----PPQHLCGAHLVDALYLVCGERGFFYTPKEN--EVAEVK--RGIVEQCCHKPCNIFDLQNYC-----
+----*
+>P1;gi|12644021|sp|P81025|INS_ORENI Insulin precursor >gi|4558782|gb... [ score 79 E 3e-14 ] [ range 24 .. 112 ]
+sequence
+-AVGGPQHLCGSHLVDALYLVCGDRGFFYNPRRG--FLPPKK--RGIVEECCHKPCTIFDLQNYC-----
+----*
+>P1;gi|12643999|sp|P13190|INS_CALMI Insulin precursor [ score 79 E 3e-14 ] [ range 2 .. 88 ]
+sequence
+----PTQRLCGSHLVDALYFVCGERGFFYSPKQI--RGSKMK--RGIVEQCCHNTCSLVNLEGYC-----
+----*
+>P1;gi|13991923|gb|AAK51558.1| preproinsulin [Catla catla] [ score 79 E 4e-14 ] [ range 24 .. 107 ]
+sequence
+---GAPQHLCGSHLVDALYLVCGPTGFFYNPKET--EVADRK--RGIVEQCCHKPCSIFELQNYC-----
+----*
+>P1;gi|14161273|gb|AAK54684.1| preproinsulin [Hiodon alosoides] [ score 78 E 6e-14 ] [ range 26 .. 109 ]
+sequence
+-----SQHLCGSHLVDALYMVCGEKGFFYQPKTK--RDVDPK--RGIVEQCCHRPCNIFDLNQYC-----
+----*
+>P1;gi|13517225|gb|AAK28712.1| preproinsulin [Pantodon buchholzi] [ score 78 E 7e-14 ] [ range 26 .. 109 ]
+sequence
+-----SQHLCGSHLVDALYMVCGEKGFFYQPKTK--RDVDPK--RGIVEQCCHHPCNIFDLQNYC-----
+----*
+>P1;gi|124365|sp|P22334|ILP_BRACL Insulin-like peptide precursor >gi... [ score 78 E 8e-14 ] [ range 24 .. 100 ]
+sequence
+-----AEYLCGSTLADVLSFVCGNRG-YNSQPRR--SVSRRR--RGLVEECCYNVCDYSQLESYC-----
+----*
+>P1;gi|4558198|pdb|1ZEI|A Chain A, Cross-Linked B28 Asp Insulin >gi|... [ score 76 E 2e-13 ] [ range 2 .. 52 ]
+sequence
+----VNQHLCGSHLVEALYLVCGERGFFYTDKAA----------KGIVEQCCTSICSLYQLENYC-----
+----*
+>P1;gi|7438594|pir||S44469 insulin I1 - North American paddlefish (P... [ score 76 E 2e-13 ] [ range 3 .. 51 ]
+sequence
+-----NQHLCGSHLVEALYLVCGERGFFYTPN---------K--VGIVEQCCHSPCSLYHLENYC-----
+----*
+>P1;gi|115168|sp|P26727|BXA4_BOMMO Bombyxin A-4 precursor (BBX-A4) (... [ score 76 E 2e-13 ] [ range 21 .. 92 ]
+sequence
+-QPQGVHTYCGRHLARTLADLCWERGKR-----------------GIVDECCLRPCSVDVLLSYC-----
+----*
+>P1;gi|115177|sp|P26737|BXB3_BOMMO Bombyxin B-3 precursor (BBX-B3) (... [ score 76 E 3e-13 ] [ range 22 .. 89 ]
+sequence
+-EQEVARTYCGAHLANTLADLCFSRGKR-----------------GVVDECCFRPCTLDVLLSYC-----
+----*
+>P1;gi|115167|sp|P26726|BXA3_BOMMO Bombyxin A-3 precursor (BBX-A3) (... [ score 74 E 6e-13 ] [ range 21 .. 92 ]
+sequence
+-QPQGVHTYCGRHLARTLANLCWERGKR-----------------GIVDECCLRPCSVDVLLSYC-----
+----*
+>P1;gi|9972779|sp|Q17194|BXBA_BOMMO Bombyxin B-10 precursor (BBX-B10... [ score 74 E 7e-13 ] [ range 20 .. 86 ]
+sequence
+--QEVAHTYCGRHLADTLADLCFSRGKR-----------------SVVDECCFRPCTLDVLLSYC-----
+----*
+>P1;gi|2133589|pir||S69483 bombyxin A-8 precursor - silkworm (strain... [ score 74 E 7e-13 ] [ range 21 .. 89 ]
+sequence
+-QPQEVHTYCGRHLARTMADLCWEAGVR-----------------GIVDECCLRPCSVDVLLSYC-----
+----*
+>P1;gi|115182|sp|P26742|BXB8_BOMMO Bombyxin B-8 precursor (BBX-B8) (... [ score 74 E 7e-13 ] [ range 21 .. 87 ]
+sequence
+--QEVARTYCGSHLADTLADLCFSRGKR-----------------GVVDECCFRPCTLDVLASYC-----
+----*
+>P1;gi|2133599|pir||S69487 bombyxin B-7 precursor - silkworm (strain... [ score 74 E 9e-13 ] [ range 23 .. 89 ]
+sequence
+--QEVARTYCGRHLADTLADLCFGRGKR-----------------GVVDECCFRPCTLDVLLSYC-----
+----*
+>P1;gi|115173|sp|P26732|BXA9_BOMMO Bombyxin A-9 precursor (BBX-A9) (... [ score 74 E 1e-12 ] [ range 21 .. 92 ]
+sequence
+-QPQAVHTYCGRHLARTLADLCWEAGVR-----------------GIVDECCLRPCSVDVLLSYC-----
+----*
+>P1;gi|115180|sp|P26740|BXB6_BOMMO Bombyxin B-6 precursor (BBX-B6) (... [ score 71 E 6e-12 ] [ range 23 .. 89 ]
+sequence
+--QEVARTYCGRDLADTLADLCFSRGKR-----------------GVVDECCFRPCTLDVLLSYC-----
+----*
+>P1;gi|9972743|sp|O61271|BXG1_BOMMO Bombyxin G-1 precursor (BBX-G1) ... [ score 66 E 2e-10 ] [ range 20 .. 90 ]
+sequence
+-QQEVARRYCGRHLAVTMADLCFGVQFD-----------------GIADECCLVPCTTNVLSSYC-----
+----*
+>P1;gi|115184|sp|P15410|BXC1_BOMMO Bombyxin C-1 precursor (BBX-C1) (... [ score 65 E 4e-10 ] [ range 20 .. 89 ]
+sequence
+--QTASQFYCGDFLARTMSSLCWSRGKR-----------------GIVDECCYRPCTIDVLMSYC-----
+----*
+>P1;gi|115187|sp|P26736|BXD1_BOMMO Bombyxin D-1 precursor (BBX-D1) (... [ score 65 E 4e-10 ] [ range 21 .. 90 ]
+sequence
+---EEGHIYCGRYLAYKMADLCWERGKR-----------------GIADECCLQPCTNDVLLSYC-----
+----*
+>P1;gi|115179|sp|P26739|BXB5_BOMMO Bombyxin B-5 precursor (BBX-B5) (... [ score 62 E 3e-09 ] [ range 22 .. 88 ]
+sequence
+-EQEVARTYCGRHLANILAYVCFGVEKR-----------------GVVDECCFRPCKLEVLKSYC-----
+----*
+>P1;gi|115186|sp|P26735|BXC2_BOMMO Bombyxin C-2 precursor (BBX-C2) (... [ score 60 E 1e-08 ] [ range 20 .. 89 ]
+sequence
+--QTASQFYCGDFLARTMSILCWSRGKR-----------------GIVDECCYRPCTTDVLKLYC-----
+----*
+>P1;gi|12644159|sp|P21808|BXE1_BOMMO Bombyxin E-1 precursor (BBX-E1)... [ score 60 E 1e-08 ] [ range 21 .. 98 ]
+sequence
+-EANVAHHYCGRHLANTLADLCWDTSKR-----------------GVVDECCIQPCTLDVLATYC-----
+----*
+>P1;gi|2133582|pir||S69480 bombyxin A-10 precursor - silkworm >gi|21... [ score 60 E 2e-08 ] [ range 21 .. 82 ]
+sequence
+-QPQAVHTYCGRHLARTLADLCWERGQR-----------------GIVDECCLRP---------------
+----*
+>P1;gi|12643702|sp|P91896|BXF1_BOMMO Bombyxin F-1 precursor (BBX-F1)... [ score 55 E 5e-07 ] [ range 24 .. 95 ]
+sequence
+----GSRRYCGRHLAQTMAVLCWGRKKR-----------------GIIDECCLQACTRDVLLSYC-----
+----*
+>P1;gi|461663|sp|P33722|BXB2_SAMCY Bombyxin B-2 homolog precursor >g... [ score 52 E 3e-06 ] [ range 22 .. 91 ]
+sequence
+----GARRYCGRVLADTLAYLCWQRGKR-----------------GVVDECCYNSCTLDVLLSYC-----
+----*
+>P1;gi|14571867|gb|AAK67297.1| IGFII-GFP fusion protein [synthetic c... [ score 46 E 2e-04 ] [ range 105 .. 163 ]
+sequence
+-----AETLCGGELVDALQFVCEDRGFR-----------------GIVEECCFRSCDLNLLEQYC-----
+----*
+>P1;gi|14571865|gb|AAK67296.1| SIGF1-GFP fusion protein [synthetic c... [ score 46 E 3e-04 ] [ range 164 .. 219 ]
+sequence
+-------TLCGAELVDTLQFVCGERGFR-----------------GIVDECCFQSCELRRLEMYC-----
+----*
+>P1;gi|2133793|pir||S66484 insulin-like growth factor II precursor -... [ score 44 E 6e-04 ] [ range 56 .. 110 ]
+sequence
+-------TLCGSELVDTLQFICAERGFR-----------------GIVEECCFRSCDLLILETYC-----
+----*
+>P1;gi|30349722|gb|AAP22173.1| insulin-like growth factor 2 [Gallus ... [ score 44 E 7e-04 ] [ range 18 .. 74 ]
+sequence
+-----AETLCGGELVDTLQFVCGDRGFR-----------------GIVEECCFRSCDLALLETYC-----
+----*
+>P1;gi|224256|prf||1012293A insulin-like growth factor II precursor [ score 44 E 7e-04 ] [ range 5 .. 58 ]
+sequence
+-------TLCGGELVDTLQFVCSDRGFR-----------------GIVEECCFRSCDLALLETYC-----
+----*
+>P1;gi|38257353|sp|O09210|BXRB_AGRCO Bombyxin-related peptide B prec... [ score 44 E 7e-04 ] [ range 24 .. 93 ]
+sequence
+--------YCGRHLSETLAYMCWRRGKR-----------------GVVEECCYQSCTLDELLTYC-----
+----*
+>P1;gi|2118614|pir||S42784 relaxin - gorilla (fragments) [ score 77 E 8e-14 ] [ range 2 .. 57 ]
+sequence
+SWKDDVIKLCGRELVRAQIAICGMSTW---------------SYSALANKCCHVGCTKRSLARFC-----
+----*
+>P1;gi|1710080|sp|P51454|REL1_PANTR Prorelaxin H1 precursor >gi|5427... [ score 74 E 1e-12 ] [ range 7 .. 41 ] [ duplicate a ]
+sequence
+SWMDEVIKLCGRELVRAQIAICGMSTW---------------SKRSLSQE--------------------
+----*
+>P1;gi|1710080|sp|P51454|REL1_PANTR Prorelaxin H1 precursor >gi|5427... [ score 74 E 1e-12 ] [ range 145 .. 166 ] [ duplicate b ]
+sequence
+-------------------------------------------YVALFEKCCLIGCTKRSLANYC-----
+----*
+>P1;gi|20143933|ref|NP_604390.1| relaxin 2 isoform 1 preproprotein; ... [ score 71 E 6e-12 ] [ range 26 .. 60 ] [ duplicate a ]
+sequence
+SWMEEVIKLCGRELVRAQIAICGMSTW---------------SKRSLSQE--------------------
+----*
+>P1;gi|5902052|ref|NP_008842.1| relaxin 1 preproprotein; relaxin H1;... [ score 71 E 6e-12 ] [ range 27 .. 60 ] [ duplicate a ]
+sequence
+-WKDDVIKLCGRELVRAQIAICGMSTW---------------SKRSLSQE--------------------
+----*
+>P1;gi|2118613|pir||S42778 relaxin - gorilla (fragments) [ score 70 E 2e-11 ] [ range 3 .. 57 ]
+sequence
+-WKDDVIKLCGCELVRAQIAICGMSTW---------------SYVALFEKCCLIGCTKRSLAKYC-----
+----*
+>P1;gi|1710081|sp|P51455|REL2_PANTR Prorelaxin H2 precursor >gi|5427... [ score 70 E 2e-11 ] [ range 7 .. 41 ] [ duplicate a ]
+sequence
+SWMDEVIKLCGRELVRAQIAICGKSTW---------------SKRSLSQE--------------------
+----*
+>P1;gi|132301|sp|P19884|RELX_MACMU Prorelaxin precursor >gi|86640|pi... [ score 60 E 2e-08 ] [ range 27 .. 60 ] [ duplicate a ]
+sequence
+-WMDDVIKACGRELVRAQIAICGKSTL---------------GKRSLNQE--------------------
+----*
+>P1;gi|132301|sp|P19884|RELX_MACMU Prorelaxin precursor >gi|86640|pi... [ score 60 E 2e-08 ] [ range 163 .. 185 ] [ duplicate b ]
+sequence
+------------------------------------------LYMTLSNKCCHIGCTKKSLAKFC-----
+----*
+>P1;gi|542738|pir||S42781 relaxin - orangutan (fragment) >gi|415993|... [ score 52 E 4e-06 ] [ range 2 .. 33 ]
+sequence
+SWMDEVIKVCGRELVRVQIAICGMSTL---------------DKRSL-----------------------
+----*
+>P1;gi|415951|emb|CAA81741.1| relaxin precursor [Gorilla gorilla] [ score 51 E 8e-06 ] [ range 3 .. 33 ]
+sequence
+-WKDDVIKLCGCELVRAQIAICGMSTW---------------SKRSL-----------------------
+----*
+>P1;gi|108182|pir||A32201 relaxin - Bryde's whale (fragments) [ score 48 E 5e-05 ] [ range 4 .. 54 ]
+sequence
+---NDLIKACGRELVRLWVEICGSVSW---------------LRMTLSEKCCQVGCIRKDIARLC-----
+----*
+>P1;gi|108180|pir||B32201 relaxin - minke whale (fragments) [ score 48 E 8e-05 ] [ range 4 .. 54 ]
+sequence
+---NDLIKACGRELVRLWVEICGSVRW---------------LRMTLSEKCCQVGCIRKDIARLC-----
+----*
+>P1;gi|1071946|pir||A49739 relaxin - horse (fragments) [ score 46 E 2e-04 ] [ range 4 .. 48 ]
+sequence
+---DDVIKACGRELARLRIEICGSLSW-----------------KQLSHKCCYWGCTRKELARQC-----
+----*
+>P1;gi|11991650|gb|AAG42318.1| prorelaxin precursor [Otolemur crassi... [ score 45 E 5e-04 ] [ range 167 .. 188 ]
+sequence
+-------------------------------------------YMSPLQKCCRIGCTKRSLARFC-----
+----*

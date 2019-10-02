@@ -1,0 +1,201 @@
+>P1;1tpn
+structureX:1tpn:   1 : :  50 : :tissue plasminogen activator:Homo sapiens: -1: -1
+SYQVICRDEKTQMIYQQHQSWLRPVLRSNRVEYCWCN---SGRAQCHSVPVKS*
+>P1;1fbr1
+structureX:1fbr:   1 : :  46 : :fibronectin (fn), fourth domain:Homo sapiens: -1: -1
+--AEKCFDHAAGTSYVVGETWEKPYQG-WMMVDCTCLGEGSGRITCTSR----*
+>P1;1fbr2
+structureX:1fbr:  47 : :  93 : :fibronectin (fn), fifth domain:Homo sapiens: -1: -1
+---NRCNDQDTRTSYRIGDTWSKKDNR-GNLLQCICTGNGRGEWKCERHT--S*
+>P1;gi|19880364|gb|AAM00297.1| T-plasminogen activator [Sus scrofa] [ score 107 E 7e-23 ] [ range 36 .. 85 ]
+sequence
+SYRVTCRDEKTQMIYQQHQSWLRPLLRGNRVEHCWCN---DGQTQCHSVPVKS*
+>P1;gi|27806481|ref|NP_776571.1| plasminogen activator, tissue [Bos ... [ score 104 E 7e-22 ] [ range 37 .. 86 ]
+sequence
+SYKVTCRDGKTQMTYRQHDSWLRPLLRGNQVEHCWCD---GGRAQCHSVPVRS*
+>P1;gi|34786061|gb|AAH57967.1| Plasminogen activator, tissue [Mus mu... [ score 101 E 3e-21 ] [ range 33 .. 82 ]
+sequence
+SYRATCRDEPTQTTYQQHQSWLRPMLRSSRVEYCRCN---SGLVQCHSVPVRS*
+>P1;gi|1351380|sp|P15638|URT2_DESRO Salivary plasminogen activator a... [ score 100 E 8e-21 ] [ range 37 .. 86 ]
+sequence
+AYGVACRDEKTQMIYQQQESWLRPEVRSKRVEHCRCD---RGLAQCHTVPVKS*
+>P1;gi|1351379|sp|P98119|URT1_DESRO Salivary plasminogen activator a... [ score 97 E 1e-19 ] [ range 37 .. 86 ]
+sequence
+AYGVACKDEITQMTYRRQESWLRPEVRSKRVEHCQCD---RGQARCHTVPVNS*
+>P1;gi|20384670|gb|AAK40240.1| tissue-type plasminogen activator [Or... [ score 96 E 3e-19 ] [ range 37 .. 86 ]
+sequence
+SFRVTCVDQQTQLTYQRRESWLRPGLRGNRVEYCRCS---SGGPRCHSVPVQS*
+>P1;gi|13094662|gb|AAK11956.1| neonatal thrombolytic agent alpha-for... [ score 87 E 2e-16 ] [ range 2 .. 41 ]
+sequence
+---ASCRDEKTQMIYQQHQSWLRPVLRSNRVEYCWCN---SGRAQC-------*
+>P1;gi|530160|gb|AAA41812.1| plasminogen activator [ score 84 E 7e-16 ] [ range 33 .. 82 ]
+sequence
+SYRATCRDEQTQTTYQQHQSWLRPMLRGNRVEYCRCN---SGLAQCHSVPVRS*
+>P1;gi|38197313|gb|AAH61654.1| MGC68672 protein [Xenopus laevis] [ score 55 E 6e-07 ] [ range 30 .. 75 ]
+sequence
+SYKSLCIEHSSGRIYKLGDTWLRPA--GKRTEFCRCE---NGLSRCHSVPV--*
+>P1;gi|38372875|sp|P11276|FINC_MOUSE Fibronectin precursor (FN) [ score 104 E 5e-22 ] [ range 184 .. 229 ] [ duplicate a ]
+sequence
+--AEKCFDHAAGTSYVVGETWEKPYQG-WMMVDCTCLGEGNGRITCTSR----*
+>P1;gi|38372875|sp|P11276|FINC_MOUSE Fibronectin precursor (FN) [ score 104 E 5e-22 ] [ range 96 .. 137 ] [ duplicate b ]
+sequence
+---ETCFDKYTGNTYKVGDTYERPKDS--MIWDCTCIGAGRGRISCT------*
+>P1;gi|38372875|sp|P11276|FINC_MOUSE Fibronectin precursor (FN) [ score 104 E 5e-22 ] [ range 2294 .. 2337 ] [ duplicate c ]
+sequence
+---DSCFDPYTVSHYAIGEEWERLSDA-GFKLTCQCLGFGSGHFRCDS-----*
+>P1;gi|9506703|ref|NP_062016.1| fibronectin 1 [Rattus norvegicus] >g... [ score 104 E 5e-22 ] [ range 2294 .. 2337 ] [ duplicate c ]
+sequence
+---DSCFDPYTVSHYAVGEEWERLSDS-GFKLTCQCLGFGSGHFRCDS-----*
+>P1;gi|34365170|emb|CAE45932.1| hypothetical protein [Homo sapiens] [ score 103 E 8e-22 ] [ range 95 .. 136 ] [ duplicate b ]
+sequence
+---ETCFDKYTGNTYRVGDTYERPKDS--MIWDCTCIGAGRGRISCT------*
+>P1;gi|34365170|emb|CAE45932.1| hypothetical protein [Homo sapiens] [ score 103 E 8e-22 ] [ range 2295 .. 2338 ] [ duplicate c ]
+sequence
+---DSCFDPYTVSHYAVGDEWERMSES-GFKLLCQCLGFGSGHFRCDS-----*
+>P1;gi|462100|sp|P07589|FINC_BOVIN Fibronectin (FN) >gi|72066|pir||F... [ score 101 E 5e-21 ] [ range 152 .. 197 ] [ duplicate a ]
+sequence
+--AEKCFDQAAGTSYVVGETWEKPYQG-WMMVDCTCLGEGSGRITCTSR----*
+>P1;gi|462100|sp|P07589|FINC_BOVIN Fibronectin (FN) >gi|72066|pir||F... [ score 101 E 5e-21 ] [ range 2083 .. 2126 ] [ duplicate c ]
+sequence
+---DSCFDPYTVSHYAIGEEWERLSDS-GFKLSCQCLGFGSGHFRCDS-----*
+>P1;gi|2497976|sp|Q91740|FINC_XENLA Fibronectin precursor >gi|214134... [ score 100 E 9e-21 ] [ range 186 .. 231 ] [ duplicate a ]
+sequence
+--AERCYDNTAGTSYVVGQTWEKPYQG-WMMVDCTCLGEGNGRITCSSK----*
+>P1;gi|2497976|sp|Q91740|FINC_XENLA Fibronectin precursor >gi|214134... [ score 100 E 9e-21 ] [ range 98 .. 139 ] [ duplicate b ]
+sequence
+---ETCFDKYTGVSYRVGETYERPKD--NMIWDCTCIGAGRGRISCT------*
+>P1;gi|2497976|sp|Q91740|FINC_XENLA Fibronectin precursor >gi|214134... [ score 100 E 9e-21 ] [ range 2299 .. 2342 ] [ duplicate c ]
+sequence
+---DTCYDTFSGAHYSVGQEWERMSES-GFRLWCKCLGYGSGHFRCDS-----*
+>P1;gi|30722344|emb|CAD91166.1| hypothetical protein [Homo sapiens] [ score 100 E 1e-20 ] [ range 272 .. 317 ] [ duplicate a ]
+sequence
+--AEKCFDHAAGTSYVVGGTWEKPYQG-WMMVDCTCLGEGSGRITCTSR----*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 99 E 2e-20 ] [ range 176 .. 221 ] [ duplicate a ]
+sequence
+--ADACYDNTAGTSYMVGETWEKPYQG-WMIVDCTCLGEGSGRITCTSR----*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 99 E 2e-20 ] [ range 88 .. 129 ] [ duplicate b ]
+sequence
+---ETCYDKVNSRSYRVGETYERPKDG--MIWDCTCIGSARGKISCT------*
+>P1;gi|2497972|sp|Q28377|FINC_HORSE Fibronectin (FN) >gi|1272418|gb|... [ score 50 E 2e-05 ] [ range 416 .. 460 ] [ duplicate a ]
+sequence
+--ADSCFDPYTVSHYAIGEEWERLSES-GFKLSCQCLGFGSGHFRCDS-----*
+>P1;gi|27734655|sp||P11722_2 [Segment 2 of 2] Fibronectin (FN) >gi|9... [ score 49 E 3e-05 ] [ range 1124 .. 1167 ] [ duplicate a ]
+sequence
+---DTCYDTYTGSFYSIGEEWERLSET-GFKLWCQCLGFGSGHFRCDS-----*
+>P1;gi|27734655|sp||P11722_2 [Segment 2 of 2] Fibronectin (FN) >gi|9... [ score 49 E 3e-05 ] [ range 1171 .. 1204 ] [ duplicate b ]
+sequence
+-----CHDN--GVNYKIGEKWDRQGEN-GQMIDCTCLGNGKG-----------*
+>P1;gi|2208910|dbj|BAA20523.1| fibronectin [Oryctolagus cuniculus] [ score 48 E 4e-05 ] [ range 233 .. 276 ]
+sequence
+---DSCFDPYTVTHYAVGEEWERLSES-GFKLSCQCLGFGSGHFKCDS-----*
+>P1;gi|204156|gb|AAA41166.1| fibronectin 1 [ score 48 E 7e-05 ] [ range 619 .. 662 ]
+sequence
+---DSCFDPYTVSHYAVGEEWERLSDS-AFKLTCQCLGFGSGHFRCDS-----*
+>P1;gi|1272416|gb|AAC48613.1| fibronectin [ score 45 E 4e-04 ] [ range 205 .. 244 ]
+sequence
+---EWCHDN--GVNYKIGEKWDRQGEN-GQMMSCTCLGNGKGEFKC-------*
+>P1;gi|34365170|emb|CAE45932.1| hypothetical protein [Homo sapiens] [ score 110 E 1e-23 ] [ range 2335 .. 2384 ] [ duplicate b ]
+sequence
+----RCDSSDNGVNYKIGEKWDRQGEN-GQMMSCTCLGNGKGEFKCDPHE--A*
+>P1;gi|34365170|emb|CAE45932.1| hypothetical protein [Homo sapiens] [ score 110 E 1e-23 ] [ range 559 .. 601 ] [ duplicate c ]
+sequence
+---DQCQDSETGTFYQIGDSWEKYVH--GVRYQCYCYGRGIGEWHCQP-----*
+>P1;gi|34365170|emb|CAE45932.1| hypothetical protein [Homo sapiens] [ score 110 E 1e-23 ] [ range 475 .. 508 ] [ duplicate d ]
+sequence
+-----------GVMYRIGDQWDKQHDM-GHMMRCTCVGNGRGEWTC-------*
+>P1;gi|34365170|emb|CAE45932.1| hypothetical protein [Homo sapiens] [ score 110 E 1e-23 ] [ range 139 .. 181 ] [ duplicate e ]
+sequence
+---NRCH--EGGQSYKIGDTWRRPHET-GYMLECVCLGNGKGEWTCKP-----*
+>P1;gi|34365170|emb|CAE45932.1| hypothetical protein [Homo sapiens] [ score 110 E 1e-23 ] [ range 516 .. 557 ] [ duplicate f ]
+sequence
+---DQCIVDD--ITYNVNDTFHKRHEE-GHMLNCTCFGQGRGRWKCDP-----*
+>P1;gi|462100|sp|P07589|FINC_BOVIN Fibronectin (FN) >gi|72066|pir||F... [ score 109 E 2e-23 ] [ range 528 .. 570 ] [ duplicate c ]
+sequence
+---DQCQDSETRTFYQIGDSWEKYL-Q-GVRYQCYCYGRGIGEWACQP-----*
+>P1;gi|31874109|emb|CAD97964.1| hypothetical protein [Homo sapiens] ... [ score 109 E 2e-23 ] [ range 605 .. 646 ] [ duplicate f ]
+sequence
+---DQCIVDD--ITYNVNDTFHKRHEE-GHMLNCTCFGQGRGKWKCDP-----*
+>P1;gi|28479106|ref|XP_129845.3| fibronectin 1 [Mus musculus] [ score 107 E 8e-23 ] [ range 230 .. 275 ] [ duplicate a ]
+sequence
+---NRCNDQDTRTSYRIGDTWSKKDNR-GNLLQCVCTGNGRGEWKCERHA---*
+>P1;gi|28479106|ref|XP_129845.3| fibronectin 1 [Mus musculus] [ score 107 E 8e-23 ] [ range 559 .. 601 ] [ duplicate b ]
+sequence
+---DQCQDSETRTFYQIGDSWEKFVH--GVRYQCYCYGRGIGEWHCQP-----*
+>P1;gi|28479106|ref|XP_129845.3| fibronectin 1 [Mus musculus] [ score 107 E 8e-23 ] [ range 475 .. 512 ] [ duplicate d ]
+sequence
+-----------GVMYRIGDQWDKQHDL-GHMMRCTCVGNGRGEWACIPYS---*
+>P1;gi|28479106|ref|XP_129845.3| fibronectin 1 [Mus musculus] [ score 107 E 8e-23 ] [ range 140 .. 182 ] [ duplicate e ]
+sequence
+---NRCH--EGGQSYKIGDKWRRPHET-GYMLECLCLGNGKGEWTCKP-----*
+>P1;gi|9506703|ref|NP_062016.1| fibronectin 1 [Rattus norvegicus] >g... [ score 106 E 1e-22 ] [ range 475 .. 512 ] [ duplicate d ]
+sequence
+-----------GVMYRIGDQWDKQHDL-GHMMRCTCVGNGRGQWACIPYS---*
+>P1;gi|2497976|sp|Q91740|FINC_XENLA Fibronectin precursor >gi|214134... [ score 106 E 1e-22 ] [ range 232 .. 278 ] [ duplicate a ]
+sequence
+---NRCNDQDTKTSYRIGDTWSKTDTR-GNLLQCICTGNGRGEWKCERHS--S*
+>P1;gi|2497976|sp|Q91740|FINC_XENLA Fibronectin precursor >gi|214134... [ score 106 E 1e-22 ] [ range 2339 .. 2385 ] [ duplicate b ]
+sequence
+----RCDSSDNGVNHRIGEKWDRRGEN-GQMMSCTCLGNGKGEFKCEP-----*
+>P1;gi|2497976|sp|Q91740|FINC_XENLA Fibronectin precursor >gi|214134... [ score 106 E 1e-22 ] [ range 560 .. 602 ] [ duplicate c ]
+sequence
+---DQCQDTETRQFYQIGDSWEK-HLQ-GVQYQCYCYGKGIGEWHCQP-----*
+>P1;gi|2497976|sp|Q91740|FINC_XENLA Fibronectin precursor >gi|214134... [ score 106 E 1e-22 ] [ range 476 .. 509 ] [ duplicate d ]
+sequence
+-----------GVMYRVGDQWDKQHDQ-GHMMRCTCVGNGRGEWSC-------*
+>P1;gi|2497976|sp|Q91740|FINC_XENLA Fibronectin precursor >gi|214134... [ score 106 E 1e-22 ] [ range 523 .. 557 ] [ duplicate f ]
+sequence
+-----------GLTYNVNSSFTKLHEE-GHMMNCTCFGQGRGRWKCD------*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 106 E 2e-22 ] [ range 222 .. 268 ] [ duplicate a ]
+sequence
+---NRCNDQDTRTSYRIGDTWSKTDSR-GHVLQCLCTGNGRGEWKCERHA--S*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 106 E 2e-22 ] [ range 2335 .. 2384 ] [ duplicate b ]
+sequence
+----RCDSSDSGHNYRIGEKWDRRAEN-GHMMSCTCLGNGKGEFKCEPHE--S*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 106 E 2e-22 ] [ range 471 .. 505 ] [ duplicate c ]
+sequence
+-----------GVMYRVGDQWDRRHDL-GHMMRCTCVGNGRGEWSC-------*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 106 E 2e-22 ] [ range 132 .. 174 ] [ duplicate d ]
+sequence
+---NRCH--EGGHSYKIGDTWQRPHDT-GYMLECVCLGNGKGEWTCKP-----*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 106 E 2e-22 ] [ range 556 .. 601 ] [ duplicate e ]
+sequence
+---DQCQEPETRVFYQIGESWDKLI-Q-GIHYRCYCYGNGIGELSCEPQH--S*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 106 E 2e-22 ] [ range 522 .. 553 ] [ duplicate f ]
+sequence
+--------------YEVNQTFTKRHDE-GYTMNCTCFGQGRGRWKCD------*
+>P1;gi|27227743|emb|CAD59389.1| migration stimulation factor FN70+ [... [ score 94 E 1e-18 ] [ range 229 .. 275 ] [ duplicate a ]
+sequence
+---NRCNDQDTRTSYRIGDTWRKKDNR-GNLLQCICTGNGRGEWKCERHT--S*
+>P1;gi|32400929|gb|AAP80678.1| fibronectin variant 3 [Danio rerio] [ score 79 E 2e-14 ] [ range 221 .. 270 ]
+sequence
+----RCDSSDSGNNYRIGEKWERRAEN-GHLMSCTCLGNGKGEFKCEPHD--S*
+>P1;gi|2497975|sp|Q91289|FINC_PLEWA Fibronectin (FN) >gi|414183|emb|... [ score 69 E 3e-11 ] [ range 1204 .. 1245 ] [ duplicate a ]
+sequence
+---------DSGLNYRVGEKWDRSGEN-GQMMSCTCLGEWKGEFKCEPHE--A*
+>P1;gi|2497975|sp|Q91289|FINC_PLEWA Fibronectin (FN) >gi|414183|emb|... [ score 69 E 3e-11 ] [ range 1155 .. 1205 ] [ duplicate b ]
+sequence
+---DTCYDITTGSSYSIGQEWERMSES-GFKLWCRCLGLGSGHFKCDSHD--S*
+>P1;gi|86262|pir||A29355 fibronectin - chicken (fragment) [ score 68 E 4e-11 ] [ range 978 .. 1020 ] [ duplicate a ]
+sequence
+----RCDSSDNGVNYKIGEKWDRQGEN-GQMIDCTCLGNGKGEF---------*
+>P1;gi|27734654|sp||P11722_1 [Segment 1 of 2] Fibronectin (FN) >gi|7... [ score 68 E 6e-11 ] [ range 3 .. 45 ]
+sequence
+---DQCQDSETRTFYQIGDSWEKYVH--GVRYQCYCYGRGIGEWHCQP-----*
+>P1;gi|2497974|sp|Q91400|FINC_NOTVI FIBRONECTIN >gi|2134028|pir||I51... [ score 58 E 6e-08 ] [ range 146 .. 188 ] [ duplicate a ]
+sequence
+---DQCQDSETRQFYQIGDSWEK-HVQ-GVRYQCYSIGRGIGEWHCQP-----*
+>P1;gi|2497974|sp|Q91400|FINC_NOTVI FIBRONECTIN >gi|2134028|pir||I51... [ score 58 E 6e-08 ] [ range 62 .. 95 ] [ duplicate b ]
+sequence
+-----------GVMYRVGVQVDKQHDQ-GHMMRCTCVGNGRGEWNC-------*
+>P1;gi|2497974|sp|Q91400|FINC_NOTVI FIBRONECTIN >gi|2134028|pir||I51... [ score 58 E 6e-08 ] [ range 109 .. 143 ] [ duplicate c ]
+sequence
+-----------GITYDVNHTFTKRHEE-GHMMNCTCYGQGRGWWKCD------*
+>P1;gi|16305073|gb|AAL16960.1| fibronectin [Ambystoma mexicanum] [ score 57 E 9e-08 ] [ range 18 .. 51 ] [ duplicate a ]
+sequence
+-----------GVMYRVGDQWDKPHEQ-GHMMRCTCVGNGRGEWNC-------*
+>P1;gi|16305073|gb|AAL16960.1| fibronectin [Ambystoma mexicanum] [ score 57 E 9e-08 ] [ range 102 .. 141 ] [ duplicate b ]
+sequence
+---DQCQDSETRQFYQIGDSWEKHVH--GVRYQCYCYGREIGEWH--------*
+>P1;gi|16305073|gb|AAL16960.1| fibronectin [Ambystoma mexicanum] [ score 57 E 9e-08 ] [ range 65 .. 99 ] [ duplicate c ]
+sequence
+-----------GITYDVNYTFTKRHEE-GHMMNCTCYGQGRGRWKCD------*

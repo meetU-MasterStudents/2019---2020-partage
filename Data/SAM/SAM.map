@@ -1,0 +1,696 @@
+>P1;1b4fa
+structureX:1b4f:   6 :A:  79 :A:EPHB2 receptor SAM domain:Homo sapiens: 1.95: 22.8
+PDYTSFNTVDEWLEAIKMGQYKESFANAGFTSFDVVSQMMMEDILRVGVTLAGHQKKILNSIQVMRAQMN
+QIQS*
+>P1;1b0xa
+structureX:1b0x: 910 :A: 981 :A:EPH receptor SAM domain:Escherichia coli: 2.00: 22.9
+FSAVV--SVGDWLQAIKMDRYKDNFTAAGYTTLEAVVHMSQDDLARIGITAITHQNKILSSVQAMRTQMQ
+QMHG*
+>P1;gi|12230900|sp|P28693|EPB2_CHICK Ephrin type-B receptor 2 precur... [ score 145 E 2e-34 ] [ range 928 .. 1001 ]
+sequence
+PDYTSFNTVDEWLDAIKMSQYKESFASAGFTTFDIVSQMTVEDILRVGVTLAGHQKKILNSIQVMRAQMN
+QIQS*
+>P1;gi|12229805|sp|Q07498|EPB3_CHICK Ephrin type-B receptor 3 (Tyros... [ score 142 E 3e-33 ] [ range 912 .. 982 ]
+sequence
+PDYTTFTTVGDWLDAIKMGRYKENFVNAGFASFDLVAQMTAEDLLRIGVTLAGHQKKILSSIQDMRLQMN
+Q---*
+>P1;gi|6002427|dbj|BAA84732.1| EphB [Lethenteron reissneri] [ score 142 E 3e-33 ] [ range 277 .. 350 ]
+sequence
+PDFASFGSVDEWLDAIKMGRYKDNFASAGFTSFDLVSRMTAEDILRIGVTLAGHQKKILNSIQTMRVQMN
+QIQT*
+>P1;gi|6002419|dbj|BAA84728.1| EphB [Eptatretus burgeri] [ score 140 E 7e-33 ] [ range 277 .. 350 ]
+sequence
+PDVTSFATVDEWLDAIKMGRYKENFANAGFSSFDVVSRMTAEDILRIGVTLAGHQKKILNSIQTMRVQMN
+QIQT*
+>P1;gi|1708164|sp|P54753|EPB3_HUMAN Ephrin type-B receptor 3 precurs... [ score 140 E 9e-33 ] [ range 922 .. 992 ]
+sequence
+PDYTTFTTVGDWLDAIKMGRYKESFVSAGFASFDLVAQMTAEDLLRIGVTLAGHQKKILSSIQDMRLQMN
+Q---*
+>P1;gi|4758282|ref|NP_004431.1| ephrin receptor EphA7; ephrin type-A... [ score 139 E 2e-32 ] [ range 920 .. 992 ]
+sequence
+PDFTTFCSVGEWLQAIKMERYKDNFTAAGYNSLESVARMTIEDVMSLGITLVGHQKKIMSSIQTMRAQML
+HLH-*
+>P1;gi|19705437|ref|NP_599158.1| EphA7 [Rattus norvegicus] >gi|17066... [ score 138 E 3e-32 ] [ range 920 .. 992 ]
+sequence
+PDFTAFCSVGEWLQAIKMERYKDNFTAAGYNSLESVARMTIDDVMSLGITLVGHQKKIMSSIQTMRAQML
+HLH-*
+>P1;gi|2134387|pir||I50612 protein-tyrosine kinase (EC 2.7.1.112) Ce... [ score 137 E 5e-32 ] [ range 876 .. 949 ]
+sequence
+PDFTAFTSVEDWLSAVKMSQYRDNFLSAGFTSLQLVAQMTSEDLLRIGVTLAGHQKKILNSIQSMRVQMS
+QSPT*
+>P1;gi|8134449|sp|Q91571|EPBA_XENLA Ephrin type-B receptor 1A precur... [ score 136 E 1e-31 ] [ range 909 .. 982 ]
+sequence
+PDISAFTSVDDWLSAIKMGQYRDNFLSSGFTSLQLVAQMTSEDLLRIGITLAGHQKKILNSIQSMRVQIT
+QSPT*
+>P1;gi|27721289|ref|XP_217250.1| similar to Ephrin type-B receptor 1... [ score 136 E 2e-31 ] [ range 908 .. 981 ]
+sequence
+PDFTAFTTVDDWLSAIKMVQYRDSFLTAGFTSLQLVTQMTSEDLLRIGVTLAGHQKKILSSIHSMRVQMN
+QSPS*
+>P1;gi|8134450|sp|Q91736|EPBB_XENLA Ephrin type-B receptor 1B (Tyros... [ score 135 E 2e-31 ] [ range 826 .. 899 ]
+sequence
+PDISAFTSVDDWLSAIKMGQYRDNFLSSGFTSLHVVAQMTSEDLLRIGITLAGHQKKILNSIQSMRVQIS
+QSPT*
+>P1;gi|12229808|sp|Q91735|EPB3_XENLA Ephrin type-B receptor 3 precur... [ score 135 E 2e-31 ] [ range 898 .. 968 ]
+sequence
+PDYTTFPTVSDWLEAIKMGQYQENFLSAGFTSFHLVAQMTAEDLLRIGVTLAGHQKKLLNSVQDMRLQMS
+Q---*
+>P1;gi|2137692|pir||I49071 protein kinase - mouse (fragment) >gi|595... [ score 133 E 1e-30 ] [ range 862 .. 932 ]
+sequence
+PDYTTFTTGCDWLDAIKMRRYKESFVGAGFASFDLVAQMTAEDLLRIGVTLVGHQKKILCSIQDMRLQMN
+Q---*
+>P1;gi|4758284|ref|NP_004432.1| ephrin receptor EphB1 precursor; eph... [ score 132 E 2e-30 ] [ range 908 .. 981 ]
+sequence
+PDFTAFTTVDDWLSAIKMVQYRDSFLTAGFTSLQLVTQMTSEDLLRIGITLAGHQKKILNSIHSMRVQIS
+QSPT*
+>P1;gi|2739062|gb|AAB94603.1| EphB2-tyrosine kinase receptor [Xenopu... [ score 131 E 3e-30 ] [ range 739 .. 812 ]
+sequence
+PAYTSLSRGDEWLDAIKMAQYKESFANAGFTSFDVISQMCMEDILRVGVTLAGHQKKILNSLQVMRAQMN
+QIQS*
+>P1;gi|45382149|ref|NP_990112.1| Cek8 [Gallus gallus] >gi|2833208|sp... [ score 130 E 7e-30 ] [ range 908 .. 980 ]
+sequence
+PEFSAVVSVSDWLQAIKMERYKDNFTAAGYTTLEAVVHMNQDDLARIGITAITHQNKILSSVQAMRSQMQ
+QMH-*
+>P1;gi|33304157|gb|AAQ02586.1| EphA4 [synthetic construct] [ score 130 E 7e-30 ] [ range 908 .. 980 ]
+sequence
+PEFSAVVSVGDWLQAIKMDRYKDNFTAAGYTTLEAVVHVNQEDLARIGITAITHQNKILSSVQAMRTQMQ
+QMH-*
+>P1;gi|34328113|ref|NP_031962.2| Eph receptor A4; rabbit [Mus muscul... [ score 130 E 8e-30 ] [ range 908 .. 980 ]
+sequence
+PEFSAVVSVGDWLQAIKMDRYKDNFTAAGYTTLEAVVHMSQDDLARIGITAITHQNKILSSVQAMRTQMQ
+QMH-*
+>P1;gi|8134440|sp|Q91845|EP4A_XENLA Ephrin type-A receptor 4A precur... [ score 130 E 1e-29 ] [ range 908 .. 980 ]
+sequence
+PEWSQVASVLDWLQAIKMERYKDNFTAAGYTSLEAVVHVNQDDLTRIGISSPSHQNKILSSVQGMRTQMQ
+QIQ-*
+>P1;gi|6002421|dbj|BAA84729.1| EphC1 [Eptatretus burgeri] [ score 129 E 2e-29 ] [ range 275 .. 346 ]
+sequence
+PEYTMFCSVSEWLEAIKMGRYKENFTNAGYVAWTSVAQMTLEDLQRVGVTLAGHQKRILTSIQALRAQLA
+NV--*
+>P1;gi|27694714|gb|AAH43626.1| Pag protein [Xenopus laevis] [ score 128 E 3e-29 ] [ range 908 .. 980 ]
+sequence
+PEWSQVASVLDWLQAIKMERYKDNFTAAGYTSLEAVVHVNQDDLTRIGISSPSHQNKILSSVQGMRTQLQ
+QMQ-*
+>P1;gi|6002423|dbj|BAA84730.1| EphC2 [Eptatretus burgeri] [ score 127 E 7e-29 ] [ range 276 .. 344 ]
+sequence
+PEYTTFYSVAEWLEAIKMGEYKENFINAGYVSWSSVAHMTLEDLRRVGVTLAGHQKRIMTSIQALRTQM-
+----*
+>P1;gi|2833209|sp|Q07497|EPB5_CHICK Ephrin type-B receptor 5 precurs... [ score 125 E 2e-28 ] [ range 926 .. 998 ]
+sequence
+PDFPSLSNAHEWLDAIKMGRYKENFDQAGLITFDVISRMTLEDLQRIGITLVGHQKKILNSIQLMKVHLN
+QLE-*
+>P1;gi|6679661|ref|NP_031964.1| Eph receptor A6 [Mus musculus] >gi|2... [ score 125 E 2e-28 ] [ range 957 .. 1029 ]
+sequence
+PEYPLFVTVGDWLDSIKMGQYKSNFMAAGFTTFDLISRMSIDDIRRIGVILIGHQRRIVSSIQTLRLHMM
+HIQ-*
+>P1;gi|32528301|ref|NP_004435.3| ephrin receptor EphB4 precursor; he... [ score 125 E 2e-28 ] [ range 904 .. 971 ]
+sequence
+PHYSAFGSVGEWLRAIKMGRYEESFAAAGFGSFELVSQISAEDLLRIGVTLAGHQKKILASVQHMKSQ--
+----*
+>P1;gi|8134439|sp|Q91694|EP4B_XENLA Ephrin type-A receptor 4B precur... [ score 121 E 4e-27 ] [ range 907 .. 979 ]
+sequence
+PEWSQVASVLDWLQASKWKRYKDNFTAAGYTSLEAVVHVNQDDLTRIGISSPSHQNKILSSVQGMRTQLQ
+QMQ-*
+>P1;gi|6002429|dbj|BAA84733.1| EphC [Lethenteron reissneri] [ score 121 E 5e-27 ] [ range 276 .. 344 ]
+sequence
+PEYTMFCSVGEWLDDIKMGRYKENFTNAGLVSWPAVAQMTPEDLQKVNVTLAGHQKRIMTSIQTLRSQL-
+----*
+>P1;gi|495473|gb|AAA20598.1| tyrosine kinase [ score 120 E 6e-27 ] [ range 904 .. 971 ]
+sequence
+PHYSAFGSVGEWLRAIKMGRYEARFAAAGFGSFELVSQISAEDLLRIGVTLAGHQKKILASVQHMKSQ--
+----*
+>P1;gi|6002425|dbj|BAA84731.1| EphA [Eptatretus burgeri] [ score 120 E 8e-27 ] [ range 276 .. 348 ]
+sequence
+-DNPAVRTVPEWLEAIKMGRYADNFAAAGYTTLDSVAQLDADGLVRIGITLIGHQKKILSNIQTMKAEML
+DLHS*
+>P1;gi|2137278|pir||I48953 eph-related receptor protein tyrosine kin... [ score 119 E 2e-26 ] [ range 904 .. 969 ]
+sequence
+PHYSAFGSVVEWLRAIKMGRYEESFAAAGFGSFEMVSQISAEDLLRIGVTLAGHQKKILASVQHMK----
+----*
+>P1;gi|6679659|ref|NP_031963.1| Eph receptor A5; eck-like sequence 1... [ score 118 E 2e-26 ] [ range 805 .. 870 ]
+sequence
+----AYRSVGEWLEAIKMGRYTEIFMENGYSSMDAVAQVTLEDLRRLGVTLVGHQKKIMSSLQEMKVQM-
+----*
+>P1;gi|24119222|ref|NP_705944.1| epha4b; Eph receptor a4b; eph-like ... [ score 118 E 4e-26 ] [ range 904 .. 975 ]
+sequence
+PEF-SVSTVDEWLDAINMGQYKDNFANAGYVSLDSILYISMCELSKMDVTLVGHQKKILSAVQSLHAQGT
+HVQ-*
+>P1;gi|18859329|ref|NP_571492.1| eph-like receptor tyrosine kinase 8... [ score 115 E 3e-25 ] [ range 903 .. 970 ]
+sequence
+PPLSHCSSVADWLRAIKMERYEDAFMQAGFTAIQHITHISTEDLLRIGVTLAGHQKKILSSVQTLRIH--
+----*
+>P1;gi|18858599|ref|NP_571489.1| eph receptor B4a; eph-like receptor... [ score 113 E 1e-24 ] [ range 914 .. 978 ]
+sequence
+---SSCGTVGDWLRAIKMERYEETFLQAGYTSMQLVTHINTEDLLRLGITLAGHQKKILSSIEALGIQ--
+----*
+>P1;gi|32967311|ref|NP_004422.2| ephrin receptor EphA2; epithelial c... [ score 113 E 1e-24 ] [ range 902 .. 972 ]
+sequence
+-EGVPFRTVSEWLESIKMQQYTEHFMAAGYTAIEKVVQMTNDDIKRIGVRLPGHQKRIAYSLLGLKDQVN
+TV--*
+>P1;gi|1706570|sp|Q03145|EPA2_MOUSE Ephrin type-A receptor 2 precurs... [ score 111 E 5e-24 ] [ range 903 .. 973 ]
+sequence
+-EGVPFRTVSEWLESIKMQQYTEHFMVAGYTAIEKVVQMSNEDIKRIGVRLPGHQKRIAYSLLGLKDQVN
+TV--*
+>P1;gi|34398273|gb|AAQ67231.1| Eph receptor [Manduca sexta] [ score 110 E 1e-23 ] [ range 933 .. 1002 ]
+sequence
+PDLIQFASVEEWLECIKMSRYVEKFRAGGVTDMDAVVDLTVLQLASLGVTLVGHQKKIMNSVQSMRAHIR
+----*
+>P1;gi|24308430|ref|NP_571170.1| eph-like kinase 1; eph-like recepto... [ score 108 E 3e-23 ] [ range 911 .. 980 ]
+sequence
+----AVNTVEDWLDLIKMGQYKEHFSSAGYVTLDSVLYVSSSELDKMGVELAGHQKKILSSIQCLQAHGT
+QVQ-*
+>P1;gi|2137726|pir||I48974 receptor-protein tyrosine kinase - mouse ... [ score 108 E 4e-23 ] [ range 901 .. 971 ]
+sequence
+-EGVPFRTVSEWLESIKIEQYTEHFMVAGYTAIEKVVQMSNEDIKRIGVRLPGHQKRIAYSLLGLKDQVN
+TV--*
+>P1;gi|482917|emb|CAA81796.1| receptor tyrosine kinase eph [Homo sap... [ score 106 E 1e-22 ] [ range 626 .. 690 ]
+sequence
+-DGIPYRTVSEWLESIRMKRYILHFHSAGLDTMECVLELTAEDLTQMGITLPGHQKRILCSIQGFK----
+----*
+>P1;gi|10047365|gb|AAG12206.1| receptor tyrosine kinase EphA1 [Mus m... [ score 106 E 1e-22 ] [ range 912 .. 976 ]
+sequence
+-DGIPYRSVSEWLESIRMKRYILHFRSAGLDTMECVLELTAEDLTQMGITLPGHQKRILCSIQGFK----
+----*
+>P1;gi|6689572|emb|CAB65513.1| eph receptor tyrosine kinase [Xenopus... [ score 103 E 1e-21 ] [ range 741 .. 805 ]
+sequence
+PHYSSFSSVSEWLHAIKMGRYEDGFRNAGFTTFSRVQNISTEDLLRMGVTLAGHQKN-LSSLQQIH----
+----*
+>P1;gi|45383436|ref|NP_989691.1| protein tyrosine kinase EphA9 [Gall... [ score 102 E 3e-21 ] [ range 904 .. 968 ]
+sequence
+-DGIPYRSIPEWLESIPMKRYISNFRTAGLDTMESILDLTAEDLKQMGVSLPGHQKRILCSIQGFK----
+----*
+>P1;gi|31982461|ref|NP_031706.2| Eph receptor B6; chicken eph/elk re... [ score 100 E 1e-20 ] [ range 939 .. 1008 ]
+sequence
+-DFPCLDSPQAWLSAIGLECYQDNFSKFGLSTFSDVAQLSLEDLPGLGITLAGHQKKLLHNIQLLQQHLR
+Q---*
+>P1;gi|42734371|ref|NP_571490.1| eph-like receptor tyrosine kinase 6... [ score 100 E 1e-20 ] [ range 909 .. 973 ]
+sequence
+-DGAPFRSVDEWLESIKMAQYRETFALAGIKSIDQVLRLKIEDIGNIGVRLAGHQKRIAYSILGLQ----
+----*
+>P1;gi|546282|gb|AAB30438.1| rtk1 product/receptor tyrosine kinase [... [ score 99 E 3e-20 ] [ range 1 .. 66 ]
+sequence
+-------SVADWLQAINMERYRDNFTAAGYTTPEAVVHMTQEDMTRIGISTAAHQDKILNSAQGMLSQMQ
+QMQ-*
+>P1;gi|34871174|ref|XP_233522.2| similar to Eph-like receptor tyrosi... [ score 97 E 8e-20 ] [ range 712 .. 782 ]
+sequence
+--FPSFGSVGAWLEALDLCRYKDNFSAAGYGSLEAVTEMTAQDLGSLGISSAEHREALLSGISALQTRVL
+QLQ-*
+>P1;gi|3861464|emb|CAA05500.1| Eph receptor tyrosine kinase [Xenopus... [ score 97 E 1e-19 ] [ range 903 .. 973 ]
+sequence
+-EGMPFRTIAEWLDSIKMQQYTEFFMASPYNSMDKIILMNQEDIKHLGIRQTGHQKRIAFSILGLKEHAS
+TM--*
+>P1;gi|125387|sp|P29320|EPA3_HUMAN Ephrin type-A receptor 3 precurso... [ score 94 E 8e-19 ] [ range 909 .. 975 ]
+sequence
+-DISTFRTTGDWLNGVRTAHCKEIFTGVEYSSCDTIAKISTDDMKKVGVTVVGPQKKIISSIKALETQ--
+----*
+>P1;gi|18150838|dbj|BAA81719.3| protein tyrosine kinase [Ephydatia f... [ score 93 E 1e-18 ] [ range 822 .. 887 ]
+sequence
+-----YQSIEAWLEAIKMDRYVQNFHSQGLKSIQDVLLLAEEDLRGMGVAIPGHVNKIMSSVRGAHQQMQ
+R---*
+>P1;gi|45382181|ref|NP_990761.1| receptor tyrosine kinase [Gallus ga... [ score 92 E 3e-18 ] [ range 909 .. 975 ]
+sequence
+-DISAFRTAGDWLNGFRTGQCKGIFTGVEYSSCDTIAKISTDDMKKVGVTVVGPQKKIVSSIKTLETH--
+----*
+>P1;gi|24648917|ref|NP_732703.1| CG31163-PB [Drosophila melanogaster... [ score 92 E 3e-18 ] [ range 5 .. 64 ] [ duplicate a ]
+sequence
+------NIVCEWLRALGLAQYAESFLDNGYDDLEICKQVGDPDLDAIGVENPAHRHKLLKSIRSLR----
+----*
+>P1;gi|24648917|ref|NP_732703.1| CG31163-PB [Drosophila melanogaster... [ score 92 E 3e-18 ] [ range 743 .. 802 ] [ duplicate b ]
+sequence
+------CSVEDLLIRIGLKEYTSVFVLNGYEDLELFKELEPADLDYLGILNQEHRAKLLTAVQLLH----
+----*
+>P1;gi|38648757|gb|AAH63282.1| EPHA3 protein [Homo sapiens] [ score 91 E 6e-18 ] [ range 909 .. 975 ]
+sequence
+-DITTFRTTGDWLNGVWTAHCKEIFTGVEYSSCDTIAKISTDDMKKVGVTVVGPQKKIISSIKALETQ--
+----*
+>P1;gi|1754761|gb|AAB39376.1| ZDK1=MDK1 receptor protein tyrosine ki... [ score 91 E 8e-18 ] [ range 370 .. 423 ]
+sequence
+PDFTSFRLVSEWLEAIKMERYMDNFTAAGYSSLESVARMTIEDVMSLGNLLGGP----------------
+----*
+>P1;gi|34867401|ref|XP_346415.1| hypothetical protein XP_346414 [Rat... [ score 90 E 1e-17 ] [ range 910 .. 976 ]
+sequence
+-DIATFHTTGDWLNGMRTAHCKEIFTGVEYSSCDTIAKISTDDMKKVGVTVVGPQKKIISSIKALETQ--
+----*
+>P1;gi|31208025|ref|XP_312979.1| ENSANGP00000022857 [Anopheles gambi... [ score 90 E 1e-17 ] [ range 5 .. 64 ]
+sequence
+------NIVCEWLRALGLGQYAESFLDNGYDDLEICKQVGDPDLDAIGVQNPAHRSKLLKSVRLLR----
+----*
+>P1;gi|4758292|ref|NP_004436.1| ephrin receptor EphB6 precursor [Hom... [ score 88 E 4e-17 ] [ range 931 .. 991 ]
+sequence
+-DFPCLDSPQAWLSAIGLECYQDNFSKFGLCTFSDVAQLSLEDLPALGITLAGHQKKLLHHI--------
+----*
+>P1;gi|41196232|ref|XP_371851.1| similar to RIKEN cDNA E130306M17 ge... [ score 88 E 5e-17 ] [ range 331 .. 392 ]
+sequence
+------NIVYEWLKALQLPQYAESFVDNGYDDLEVCKQIGDPDLDAIGVLAPAHRRRILEAVRRLREQ--
+----*
+>P1;gi|24648931|ref|NP_651018.1| CG13859-PA [Drosophila melanogaster... [ score 88 E 6e-17 ] [ range 5 .. 70 ]
+sequence
+------NIVCEWLRTIGLAHYGESFLENGYDELEICKQIGEIDLDAIGVDNPSHRGKLLKSVRMLREKGA
+AI--*
+>P1;gi|31088914|ref|NP_852063.1| RIKEN cDNA C030032C09 [Mus musculus... [ score 86 E 2e-16 ] [ range 37 .. 99 ] [ duplicate a ]
+sequence
+----PVQTVGQWLESIGLPQYENHLMANGFDSVQFMGSNVMEDLLEIGILNSGHRQRILQAIQLL-----
+----*
+>P1;gi|5052337|gb|AAD38508.1| Eph receptor tyrosine kinase [Drosophi... [ score 84 E 1e-15 ] [ range 1017 .. 1078 ]
+sequence
+-----FISTDLWLEHIKMSRYCHHFKEANLINAQQISRLTAQQLSDMGITLVGHQKKILHQARQLDT---
+----*
+>P1;gi|37360258|dbj|BAC98107.1| mKIAA1139 protein [Mus musculus] [ score 81 E 7e-15 ] [ range 578 .. 641 ] [ duplicate a ]
+sequence
+PNYIPVDLL-EWLCALGLPQYHKQLVSSGYDSMGLVADLTWEELQEIGVNKLGHQKKLMLGVKRL-----
+----*
+>P1;gi|26329743|dbj|BAC28610.1| unnamed protein product [Mus musculus] [ score 80 E 8e-15 ] [ range 15 .. 77 ] [ duplicate a ]
+sequence
+----PVQTGGQWLESIGLPQYENHLMANGFDSVQFMGSNVVEDLLEIGILNSGHRQRILQAIQLL-----
+----*
+>P1;gi|37360318|dbj|BAC98137.1| mKIAA1306 protein [Mus musculus] [ score 80 E 1e-14 ] [ range 469 .. 522 ]
+sequence
+-----------WLSMIGLAQYYKVLVDNGYENIDFITDITWEDLQEIGITKLGHQKKLMLAVRKL-----
+----*
+>P1;gi|18079216|ref|NP_065815.1| CASK interacting protein 1 [Homo sa... [ score 80 E 1e-14 ] [ range 470 .. 532 ] [ duplicate b ]
+sequence
+-EGKSSEAVSQWLTAFQLQLYAPNFISAGYD-LPTISRMTPEDLTAIGVTKPGHRKKIAAEISGL-----
+----*
+>P1;gi|18093104|ref|NP_542421.1| cask-interacting protein 1 [Rattus ... [ score 80 E 1e-14 ] [ range 472 .. 534 ] [ duplicate b ]
+sequence
+-EGKSAEAVSQWLATFQLQLYAPNFTSAGYD-LPTISRMTPEDLTAIGVTKPGHRKKITAEISGL-----
+----*
+>P1;gi|31200407|ref|XP_309151.1| ENSANGP00000018517 [Anopheles gambi... [ score 77 E 1e-13 ] [ range 251 .. 307 ] [ duplicate b ]
+sequence
+--------ISEWLMEIHFHEYTYLFLEAGYD-LPTIARMTPEDLTAIGIRKPNHRERLKRHIDALK----
+----*
+>P1;gi|24653764|ref|NP_611009.1| CG12424-PA [Drosophila melanogaster... [ score 73 E 2e-12 ] [ range 322 .. 383 ] [ duplicate a ]
+sequence
+PHFVP-GSIEEWLQLLRLEEYIQPLLEQNYKTVRDVTQVTWEDLEDIGIVKLGHQKKILLAIK-------
+----*
+>P1;gi|24653764|ref|NP_611009.1| CG12424-PA [Drosophila melanogaster... [ score 73 E 2e-12 ] [ range 262 .. 317 ] [ duplicate b ]
+sequence
+----------DWLLEMKHEEYAQLFIAAGYD-LPTIARMTPEDLTAIGIKNPHHRERIKQRIDKLQV---
+----*
+>P1;gi|1706629|sp|P54757|EPA5_RAT Ephrin type-A receptor 5 precursor... [ score 69 E 2e-11 ] [ range 968 .. 1005 ]
+sequence
+----AYRSVGEWLEATKMGRYTEIFMENGYSSMDAVAQVTLE----------------------------
+----*
+>P1;gi|1504038|dbj|BAA13218.1| similar to human ankyrin 1(S08275) [H... [ score 67 E 7e-11 ] [ range 746 .. 805 ] [ duplicate a ]
+sequence
+-------SVGEWLESIGLQQYESKLLLNGFDDVHFLGSNVMEDLRDIGISDPQHRRKLLQAARSL-----
+----*
+>P1;gi|1504038|dbj|BAA13218.1| similar to human ankyrin 1(S08275) [H... [ score 67 E 7e-11 ] [ range 814 .. 875 ] [ duplicate b ]
+sequence
+-DGNSPPSVPSWLDSLGLQDYVHSFLSSGYSSIDTVKNLWELELVNVKVQLLGHRKRIIASL--------
+----*
+>P1;gi|37359852|dbj|BAC97904.1| mKIAA0229 protein [Mus musculus] [ score 67 E 1e-10 ] [ range 725 .. 784 ] [ duplicate a ]
+sequence
+-------SVGEWLESIGLQQYESKLLLNGFDDVRFLGSNVMEDLREIGISDPQHRRKLLQAARSL-----
+----*
+>P1;gi|37359852|dbj|BAC97904.1| mKIAA0229 protein [Mus musculus] [ score 67 E 1e-10 ] [ range 793 .. 854 ] [ duplicate b ]
+sequence
+-DGVSPTSVPSWLDSLGLQDYVHSFLSSGYSSIDTVKNLWELELVNVKVHLLGHRKRIIASL--------
+----*
+>P1;gi|34852246|ref|XP_228027.2| hypothetical protein XP_228027 [Rat... [ score 66 E 2e-10 ] [ range 833 .. 894 ] [ duplicate b ]
+sequence
+-DGVSPASVPSWLDSLGLQDYIHSFLSSGYSSIDTVKNLWELELVNVKVHLLGHRKRIIASL--------
+----*
+>P1;gi|16209620|gb|AAL14195.1| receptor protein tyrosine kinase vari... [ score 64 E 8e-10 ] [ range 883 .. 919 ]
+sequence
+-------------------------------SLKIVARENGGDLLRIGVTLAGHQKKILASVQHMKSQ--
+----*
+>P1;gi|15225548|ref|NP_182094.1| sterile alpha motif (SAM) domain-co... [ score 60 E 1e-08 ] [ range 244 .. 300 ]
+sequence
+--------VLKWLRSLGLAKYEDVFIREEID-WDTLQSLTEEDLLSIGITSLGPRKKIVNALSGVR----
+----*
+>P1;gi|33859566|ref|NP_034697.1| inositol polyphosphate phosphatase-... [ score 60 E 2e-08 ] [ range 1201 .. 1254 ]
+sequence
+---------GAWLRAIGLERYEEGLVHNGWDDLEFLSDITEEDLEEAGVQDPAHKRLLLDTLQ-------
+----*
+>P1;gi|17540370|ref|NP_501477.1| diacylglycerol kinase (4J407) [Caen... [ score 58 E 5e-08 ] [ range 1171 .. 1235 ]
+sequence
+--YWTSEEVCAWLSSIGMSEYGSTFRKNDIQGSELM-HLERSDIMDIGITKIGHVKRLQSAIVDLRAQ--
+----*
+>P1;gi|30349082|gb|AAP31439.1| Hypothetical protein C46H3.2b [Caenor... [ score 58 E 6e-08 ] [ range 205 .. 256 ] [ duplicate a ]
+sequence
+-----------WLDSINMSNYLAVFLKQGYD-LQTIARCTPADLLSLGIKNPDHRKKLMSDIHS------
+----*
+>P1;gi|30349082|gb|AAP31439.1| Hypothetical protein C46H3.2b [Caenor... [ score 58 E 6e-08 ] [ range 264 .. 334 ] [ duplicate b ]
+sequence
+PSVVPNNSLREWLHAIALAEYIPMFESQRYTSVSDVLDLQWEDFEDIGVKRLGHLKRFGLTIKKLKDHQR
+H---*
+>P1;gi|24649103|ref|NP_651078.1| CG17625-PA [Drosophila melanogaster... [ score 57 E 9e-08 ] [ range 4 .. 62 ]
+sequence
+------RAVRDWLVLLTMEKYIGKFLERGYDSIERCKLIIVSDLIMLGVDNPAHRKLLLEGVRFL-----
+----*
+>P1;gi|16263440|ref|NP_436233.1| putative adenylate cyclase [Sinorhi... [ score 56 E 2e-07 ] [ range 3 .. 61 ]
+sequence
+--------IAAWLRSLGLEEYASAFRDNDIDA-QLLLHLKAEDLKELGVASIGHRRKLIDAIADLRDE--
+----*
+>P1;gi|34864733|ref|XP_343198.1| similar to E2a-Pbx1-associated prot... [ score 56 E 2e-07 ] [ range 107 .. 146 ]
+sequence
+-------SVAEWLDSIELGDYTKAFLINGYTSMDLLKKIWELELINL-----------------------
+----*
+>P1;gi|31208029|ref|XP_312981.1| ENSANGP00000020309 [Anopheles gambi... [ score 55 E 3e-07 ] [ range 389 .. 451 ]
+sequence
+---SCPTSVEELLLRIGLKEYTSVFVLNGYEDLELFKELEPSDLDYLGIGNTEHRAKILAAVQLLH----
+----*
+>P1;gi|39581260|emb|CAE60006.1| Hypothetical protein CBG03505 [Caeno... [ score 55 E 4e-07 ] [ range 1192 .. 1256 ]
+sequence
+--YWTCEEVCAWLQSIGLSEYQTTFRKNDIQGSELM-HLERSDIMDIGIVKIGHVKRLQSAITELRAQ--
+----*
+>P1;gi|27381818|ref|NP_773347.1| bll6707 [Bradyrhizobium japonicum] ... [ score 55 E 4e-07 ] [ range 6 .. 60 ]
+sequence
+--------IAEWLEKLGLGQYAERFVQNG-VDMGVLPELMDEDFDKLGVLL-GHRRKMLRAIADL-----
+----*
+>P1;gi|39595485|emb|CAE60523.1| Hypothetical protein CBG04143 [Caeno... [ score 55 E 5e-07 ] [ range 286 .. 337 ] [ duplicate a ]
+sequence
+-----------WLDSIHLSQYLALFLKQGYD-LQTIARCTPADLLTLGIKNPDHRKKIMMDIHS------
+----*
+>P1;gi|39595485|emb|CAE60523.1| Hypothetical protein CBG04143 [Caeno... [ score 55 E 5e-07 ] [ range 345 .. 411 ] [ duplicate b ]
+sequence
+PHVVPNNNLREWLQAIALAEYIPLFESQKYKTVQDVLDLQWEDFEDIGVKRLGHLKRFGLTIKKLKE---
+----*
+>P1;gi|26331890|dbj|BAC29675.1| unnamed protein product [Mus musculus] [ score 55 E 6e-07 ] [ range 13 .. 72 ]
+sequence
+----------DFLMSINLEQYLLHFREFGFYTVRDCTSINDSVLHQIGISPTGHRRRILKQLQMIFSKMQ
+----*
+>P1;gi|34878832|ref|XP_341603.1| similar to ARF-GAP, RHO-GAP, ankyri... [ score 55 E 6e-07 ] [ range 12 .. 64 ]
+sequence
+-----------WLAAVHLEQYADTFRRHGLATAGAAQRLGHEELRHLGISATGHRKRILRLLQS------
+----*
+>P1;gi|34878015|ref|XP_223437.2| similar to PARX protein [Rattus nor... [ score 55 E 6e-07 ] [ range 11 .. 72 ]
+sequence
+--------IQDFLMSINLEQYLLHFQEFGFYTVKDCTSINDNVLHQIGISPTGHRRRILKQLQMIFSKMQ
+----*
+>P1;gi|25147076|ref|NP_509620.2| ankyrin (XK235) [Caenorhabditis ele... [ score 53 E 1e-06 ] [ range 911 .. 965 ]
+sequence
+--------VSEWLNFIGLQDYISNFVGAGY---KHMAKLTEIDLMQLGVTRPGHIARMLHS---------
+----*
+>P1;gi|24582090|ref|NP_608979.2| CG9098-PA [Drosophila melanogaster]... [ score 52 E 2e-06 ] [ range 47 .. 107 ]
+sequence
+-------SISEWLDLLELQQYEGNL--QEFSTVDDVVDITDKELKQFGVR-GAHRQRMVNSLLGVRAKRR
+Q---*
+>P1;gi|26343231|dbj|BAC35272.1| unnamed protein product [Mus musculus] [ score 52 E 3e-06 ] [ range 12 .. 64 ]
+sequence
+-----------WLALVHLEQYADTFRRHGLATAGAAQHLGHEELRHLGISATGHRKRIL---RLLRA---
+----*
+>P1;gi|12644420|sp|Q16760|KDGD_HUMAN Diacylglycerol kinase, delta (D... [ score 51 E 7e-06 ] [ range 1131 .. 1186 ]
+sequence
+--------VAAWLEHLSLCEYKDIFTRHDIRGSEL-LHLERRDLKDLGVTKVGHMKRILCGIKEL-----
+----*
+>P1;gi|34858812|ref|XP_341896.1| similar to KIAA0782 protein [Rattus... [ score 51 E 7e-06 ] [ range 10 .. 68 ]
+sequence
+-------SVAEWLRALHLEQYTALFEQHGLVWATECQGLSDASLVDMGMNLPGHRRRILAGLHRAH----
+----*
+>P1;gi|28571569|ref|NP_731190.2| CG31187-PA [Drosophila melanogaster... [ score 50 E 9e-06 ] [ range 1797 .. 1856 ]
+sequence
+----SVNEVVTWLETMQLSEYVDSFLKNDIRGKELLT-LGRRDLKDLGVVKVGHVKRILQAIKDL-----
+----*
+>P1;gi|34864922|ref|XP_345813.1| similar to E2a-Pbx1-associated prot... [ score 50 E 1e-05 ] [ range 37 .. 70 ]
+sequence
+----PVQTVGQWLESIGLPQYENHLTANGFDNVQFMVR--------------------------------
+----*
+>P1;gi|4758282|ref|NP_004431.1| ephrin receptor EphA7; ephrin type-A... [ score 137 E 5e-32 ] [ range 922 .. 993 ]
+sequence
+FTTFC--SVGEWLQAIKMERYKDNFTAAGYNSLESVARMTIEDVMSLGITLVGHQKKIMSSIQTMRAQML
+HLHG*
+>P1;gi|19705437|ref|NP_599158.1| EphA7 [Rattus norvegicus] >gi|17066... [ score 137 E 5e-32 ] [ range 922 .. 993 ]
+sequence
+FTAFC--SVGEWLQAIKMERYKDNFTAAGYNSLESVARMTIDDVMSLGITLVGHQKKIMSSIQTMRAQML
+HLHG*
+>P1;gi|12229805|sp|Q07498|EPB3_CHICK Ephrin type-B receptor 3 (Tyros... [ score 136 E 1e-31 ] [ range 914 .. 982 ]
+sequence
+YTTFT--TVGDWLDAIKMGRYKENFVNAGFASFDLVAQMTAEDLLRIGVTLAGHQKKILSSIQDMRLQMN
+Q---*
+>P1;gi|38614379|gb|AAH62924.1| Ephb2 protein [Mus musculus] [ score 136 E 1e-31 ] [ range 955 .. 1025 ]
+sequence
+YTSFN--TVDEWLEAIKMGQYKESFANAGFTSFDVVSQMMMEDILRVGVTLAGHQKKILNSIQVMRAQMN
+QIQ-*
+>P1;gi|6002427|dbj|BAA84732.1| EphB [Lethenteron reissneri] [ score 135 E 2e-31 ] [ range 279 .. 349 ]
+sequence
+FASFG--SVDEWLDAIKMGRYKDNFASAGFTSFDLVSRMTAEDILRIGVTLAGHQKKILNSIQTMRVQMN
+QIQ-*
+>P1;gi|12230900|sp|P28693|EPB2_CHICK Ephrin type-B receptor 2 precur... [ score 135 E 3e-31 ] [ range 930 .. 1000 ]
+sequence
+YTSFN--TVDEWLDAIKMSQYKESFASAGFTTFDIVSQMTVEDILRVGVTLAGHQKKILNSIQVMRAQMN
+QIQ-*
+>P1;gi|1708164|sp|P54753|EPB3_HUMAN Ephrin type-B receptor 3 precurs... [ score 134 E 4e-31 ] [ range 924 .. 992 ]
+sequence
+YTTFT--TVGDWLDAIKMGRYKESFVSAGFASFDLVAQMTAEDLLRIGVTLAGHQKKILSSIQDMRLQMN
+Q---*
+>P1;gi|45382149|ref|NP_990112.1| Cek8 [Gallus gallus] >gi|2833208|sp... [ score 133 E 8e-31 ] [ range 910 .. 981 ]
+sequence
+FSAVV--SVSDWLQAIKMERYKDNFTAAGYTTLEAVVHMNQDDLARIGITAITHQNKILSSVQAMRSQMQ
+QMHG*
+>P1;gi|6002419|dbj|BAA84728.1| EphB [Eptatretus burgeri] [ score 133 E 1e-30 ] [ range 280 .. 349 ]
+sequence
+-TSFA--TVDEWLDAIKMGRYKENFANAGFSSFDVVSRMTAEDILRIGVTLAGHQKKILNSIQTMRVQMN
+QIQ-*
+>P1;gi|33304157|gb|AAQ02586.1| EphA4 [synthetic construct] [ score 133 E 1e-30 ] [ range 910 .. 981 ]
+sequence
+FSAVV--SVGDWLQAIKMDRYKDNFTAAGYTTLEAVVHVNQEDLARIGITAITHQNKILSSVQAMRTQMQ
+QMHG*
+>P1;gi|2134387|pir||I50612 protein-tyrosine kinase (EC 2.7.1.112) Ce... [ score 132 E 2e-30 ] [ range 878 .. 946 ]
+sequence
+FTAFT--SVEDWLSAVKMSQYRDNFLSAGFTSLQLVAQMTSEDLLRIGVTLAGHQKKILNSIQSMRVQMS
+Q---*
+>P1;gi|12229808|sp|Q91735|EPB3_XENLA Ephrin type-B receptor 3 precur... [ score 129 E 1e-29 ] [ range 900 .. 968 ]
+sequence
+YTTFP--TVSDWLEAIKMGQYQENFLSAGFTSFHLVAQMTAEDLLRIGVTLAGHQKKLLNSVQDMRLQMS
+Q---*
+>P1;gi|8134450|sp|Q91736|EPBB_XENLA Ephrin type-B receptor 1B (Tyros... [ score 129 E 1e-29 ] [ range 829 .. 896 ]
+sequence
+-SAFT--SVDDWLSAIKMGQYRDNFLSSGFTSLHVVAQMTSEDLLRIGITLAGHQKKILNSIQSMRVQIS
+Q---*
+>P1;gi|27721289|ref|XP_217250.1| similar to Ephrin type-B receptor 1... [ score 128 E 3e-29 ] [ range 910 .. 978 ]
+sequence
+FTAFT--TVDDWLSAIKMVQYRDSFLTAGFTSLQLVTQMTSEDLLRIGVTLAGHQKKILSSIHSMRVQMN
+Q---*
+>P1;gi|8134449|sp|Q91571|EPBA_XENLA Ephrin type-B receptor 1A precur... [ score 127 E 5e-29 ] [ range 912 .. 979 ]
+sequence
+-SAFT--SVDDWLSAIKMGQYRDNFLSSGFTSLQLVAQMTSEDLLRIGITLAGHQKKILNSIQSMRVQIT
+Q---*
+>P1;gi|4758284|ref|NP_004432.1| ephrin receptor EphB1 precursor; eph... [ score 126 E 2e-28 ] [ range 910 .. 978 ]
+sequence
+FTAFT--TVDDWLSAIKMVQYRDSFLTAGFTSLQLVTQMTSEDLLRIGITLAGHQKKILNSIHSMRVQIS
+Q---*
+>P1;gi|6002421|dbj|BAA84729.1| EphC1 [Eptatretus burgeri] [ score 125 E 2e-28 ] [ range 277 .. 343 ]
+sequence
+YTMFC--SVSEWLEAIKMGRYKENFTNAGYVAWTSVAQMTLEDLQRVGVTLAGHQKRILTSIQALRAQL-
+----*
+>P1;gi|8134440|sp|Q91845|EP4A_XENLA Ephrin type-A receptor 4A precur... [ score 125 E 3e-28 ] [ range 910 .. 981 ]
+sequence
+WSQVA--SVLDWLQAIKMERYKDNFTAAGYTSLEAVVHVNQDDLTRIGISSPSHQNKILSSVQGMRTQMQ
+QIQG*
+>P1;gi|2137692|pir||I49071 protein kinase - mouse (fragment) >gi|595... [ score 124 E 5e-28 ] [ range 864 .. 932 ]
+sequence
+YTTFT--TGCDWLDAIKMRRYKESFVGAGFASFDLVAQMTAEDLLRIGVTLVGHQKKILCSIQDMRLQMN
+Q---*
+>P1;gi|27694714|gb|AAH43626.1| Pag protein [Xenopus laevis] [ score 124 E 5e-28 ] [ range 910 .. 981 ]
+sequence
+WSQVA--SVLDWLQAIKMERYKDNFTAAGYTSLEAVVHVNQDDLTRIGISSPSHQNKILSSVQGMRTQLQ
+QMQG*
+>P1;gi|6002423|dbj|BAA84730.1| EphC2 [Eptatretus burgeri] [ score 123 E 1e-27 ] [ range 278 .. 344 ]
+sequence
+YTTFY--SVAEWLEAIKMGEYKENFINAGYVSWSSVAHMTLEDLRRVGVTLAGHQKRIMTSIQALRTQM-
+----*
+>P1;gi|31560596|ref|NP_034274.2| Eph receptor B4 [Mus musculus] >gi|... [ score 123 E 1e-27 ] [ range 906 .. 971 ]
+sequence
+YSAFG--SVGEWLRAIKMGRYEESFAAAGFGSFEVVSQISAEDLLRIGVTLAGHQKKILASVQHMKSQ--
+----*
+>P1;gi|2739062|gb|AAB94603.1| EphB2-tyrosine kinase receptor [Xenopu... [ score 122 E 2e-27 ] [ range 741 .. 811 ]
+sequence
+YTSLS--RGDEWLDAIKMAQYKESFANAGFTSFDVISQMCMEDILRVGVTLAGHQKKILNSLQVMRAQMN
+QIQ-*
+>P1;gi|2833209|sp|Q07497|EPB5_CHICK Ephrin type-B receptor 5 precurs... [ score 121 E 3e-27 ] [ range 928 .. 997 ]
+sequence
+FPSLS--NAHEWLDAIKMGRYKENFDQAGLITFDVISRMTLEDLQRIGITLVGHQKKILNSIQLMKVHLN
+QL--*
+>P1;gi|20893175|ref|XP_147261.1| Eph receptor A6 [Mus musculus] [ score 121 E 4e-27 ] [ range 959 .. 1029 ]
+sequence
+YPLFV--TVGDWLDSIKMGQYKSNFMAAGFTTFDLISRMSIDDIRRIGVILIGHQRRIVSSIQTLRLHMM
+HIQ-*
+>P1;gi|6002429|dbj|BAA84733.1| EphC [Lethenteron reissneri] [ score 120 E 6e-27 ] [ range 278 .. 344 ]
+sequence
+YTMFC--SVGEWLDDIKMGRYKENFTNAGLVSWPAVAQMTPEDLQKVNVTLAGHQKRIMTSIQTLRSQL-
+----*
+>P1;gi|6002425|dbj|BAA84731.1| EphA [Eptatretus burgeri] [ score 119 E 2e-26 ] [ range 278 .. 347 ]
+sequence
+-PAVR--TVPEWLEAIKMGRYADNFAAAGYTTLDSVAQLDADGLVRIGITLIGHQKKILSNIQTMKAEML
+DLH-*
+>P1;gi|495473|gb|AAA20598.1| tyrosine kinase [ score 118 E 3e-26 ] [ range 906 .. 971 ]
+sequence
+YSAFG--SVGEWLRAIKMGRYEARFAAAGFGSFELVSQISAEDLLRIGVTLAGHQKKILASVQHMKSQ--
+----*
+>P1;gi|2137278|pir||I48953 eph-related receptor protein tyrosine kin... [ score 117 E 6e-26 ] [ range 906 .. 969 ]
+sequence
+YSAFG--SVVEWLRAIKMGRYEESFAAAGFGSFEMVSQISAEDLLRIGVTLAGHQKKILASVQHMK----
+----*
+>P1;gi|34872126|ref|XP_342953.1| eph and elk-related kinase [Rattus ... [ score 115 E 3e-25 ] [ range 915 .. 981 ]
+sequence
+-------TVGDWLDSIRMGRYRDHFAAGGYSSLGMVLHMNAQDVRALGITLMGHQKKILGSIQTMRSQLS
+CTQG*
+>P1;gi|8134439|sp|Q91694|EP4B_XENLA Ephrin type-A receptor 4B precur... [ score 115 E 4e-25 ] [ range 909 .. 980 ]
+sequence
+WSQVA--SVLDWLQASKWKRYKDNFTAAGYTSLEAVVHVNQDDLTRIGISSPSHQNKILSSVQGMRTQLQ
+QMQG*
+>P1;gi|6679663|ref|NP_031965.1| Eph receptor A8 [Mus musculus] >gi|2... [ score 113 E 7e-25 ] [ range 933 .. 999 ]
+sequence
+-------TVGDWLDSIRMGRYRDHFAAGGYSSLGMVLRMNAQDVRALGITLMGHQKKILGSIQTMRAQLS
+STQG*
+>P1;gi|18858599|ref|NP_571489.1| eph receptor B4a; eph-like receptor... [ score 112 E 3e-24 ] [ range 914 .. 978 ]
+sequence
+-SSCG--TVGDWLRAIKMERYEETFLQAGYTSMQLVTHINTEDLLRLGITLAGHQKKILSSIEALGIQ--
+----*
+>P1;gi|32967311|ref|NP_004422.2| ephrin receptor EphA2; epithelial c... [ score 110 E 9e-24 ] [ range 906 .. 972 ]
+sequence
+---FR--TVSEWLESIKMQQYTEHFMAAGYTAIEKVVQMTNDDIKRIGVRLPGHQKRIAYSLLGLKDQVN
+TV--*
+>P1;gi|18859329|ref|NP_571492.1| eph-like receptor tyrosine kinase 8... [ score 108 E 3e-23 ] [ range 906 .. 970 ]
+sequence
+-SHCS--SVADWLRAIKMERYEDAFMQAGFTAIQHITHISTEDLLRIGVTLAGHQKKILSSVQTLRIH--
+----*
+>P1;gi|6002433|dbj|BAA84735.1| Eph2 [Branchiostoma belcheri] [ score 108 E 4e-23 ] [ range 270 .. 336 ]
+sequence
+-PVLP--TVPQWLDSMKMGRYRDNFTNGGYSSMDLVMKMNIRDLQGIGVTMLAHQKKILNSIQNLHTQLS
+----*
+>P1;gi|1706570|sp|Q03145|EPA2_MOUSE Ephrin type-A receptor 2 precurs... [ score 107 E 6e-23 ] [ range 907 .. 973 ]
+sequence
+---FR--TVSEWLESIKMQQYTEHFMVAGYTAIEKVVQMSNEDIKRIGVRLPGHQKRIAYSLLGLKDQVN
+TV--*
+>P1;gi|974708|gb|AAA93525.1| Eph receptor tyrosine kinase [ score 107 E 6e-23 ] [ range 247 .. 309 ]
+sequence
+YSSFS--SVSEWLHAIKMGRYEDGFRNAGFTTFSRVQNISTEDLLRMGVTLAGHQKKILSSLQQI-----
+----*
+>P1;gi|2137726|pir||I48974 receptor-protein tyrosine kinase - mouse ... [ score 104 E 4e-22 ] [ range 905 .. 971 ]
+sequence
+---FR--TVSEWLESIKIEQYTEHFMVAGYTAIEKVVQMSNEDIKRIGVRLPGHQKRIAYSLLGLKDQVN
+TV--*
+>P1;gi|34398273|gb|AAQ67231.1| Eph receptor [Manduca sexta] [ score 103 E 8e-22 ] [ range 938 .. 1002 ]
+sequence
+---FA--SVEEWLECIKMSRYVEKFRAGGVTDMDAVVDLTVLQLASLGVTLVGHQKKIMNSVQSMRAHIR
+----*
+>P1;gi|10047365|gb|AAG12206.1| receptor tyrosine kinase EphA1 [Mus m... [ score 103 E 1e-21 ] [ range 916 .. 976 ]
+sequence
+---YR--SVSEWLESIRMKRYILHFRSAGLDTMECVLELTAEDLTQMGITLPGHQKRILCSIQGFK----
+----*
+>P1;gi|339717|gb|AAA36747.1| tyrosine kinase receptor precursor (put... [ score 102 E 2e-21 ] [ range 923 .. 983 ]
+sequence
+---YR--TVSEWLESIRMKRYILHFHSAGLDTMECVLELTAEDLTQMGITLPGHQKRILCSIQGFK----
+----*
+>P1;gi|6002431|dbj|BAA84734.1| Eph1 [Branchiostoma belcheri] [ score 101 E 3e-21 ] [ range 274 .. 338 ]
+sequence
+---YS--SVPEWLDSLSLGRYTENFLKAGFTNLDCVAKITLRELQSIGVTMIGHQKKIMNSVQMLRAQAS
+----*
+>P1;gi|31982461|ref|NP_031706.2| Eph receptor B6; chicken eph/elk re... [ score 101 E 5e-21 ] [ range 940 .. 1008 ]
+sequence
+FPCLD--SPQAWLSAIGLECYQDNFSKFGLSTFSDVAQLSLEDLPGLGITLAGHQKKLLHNIQLLQQHLR
+Q---*
+>P1;gi|45383436|ref|NP_989691.1| protein tyrosine kinase EphA9 [Gall... [ score 100 E 1e-20 ] [ range 908 .. 969 ]
+sequence
+---YR--SIPEWLESIPMKRYISNFRTAGLDTMESILDLTAEDLKQMGVSLPGHQKRILCSIQGFKE---
+----*
+>P1;gi|34871174|ref|XP_233522.2| similar to Eph-like receptor tyrosi... [ score 99 E 2e-20 ] [ range 712 .. 782 ]
+sequence
+FPSFG--SVGAWLEALDLCRYKDNFSAAGYGSLEAVTEMTAQDLGSLGISSAEHREALLSGISALQTRVL
+QLQ-*
+>P1;gi|3861464|emb|CAA05500.1| Eph receptor tyrosine kinase [Xenopus... [ score 97 E 8e-20 ] [ range 907 .. 973 ]
+sequence
+---FR--TIAEWLDSIKMQQYTEFFMASPYNSMDKIILMNQEDIKHLGIRQTGHQKRIAFSILGLKEHAS
+TM--*
+>P1;gi|42734371|ref|NP_571490.1| eph-like receptor tyrosine kinase 6... [ score 97 E 1e-19 ] [ range 913 .. 973 ]
+sequence
+---FR--SVDEWLESIKMAQYRETFALAGIKSIDQVLRLKIEDIGNIGVRLAGHQKRIAYSILGLQ----
+----*
+>P1;gi|45382181|ref|NP_990761.1| receptor tyrosine kinase [Gallus ga... [ score 96 E 2e-19 ] [ range 911 .. 975 ]
+sequence
+-SAFR--TAGDWLNGFRTGQCKGIFTGVEYSSCDTIAKISTDDMKKVGVTVVGPQKKIVSSIKTLETH--
+----*
+>P1;gi|125387|sp|P29320|EPA3_HUMAN Ephrin type-A receptor 3 precurso... [ score 96 E 2e-19 ] [ range 911 .. 975 ]
+sequence
+-STFR--TTGDWLNGVRTAHCKEIFTGVEYSSCDTIAKISTDDMKKVGVTVVGPQKKIISSIKALETQ--
+----*
+>P1;gi|38648757|gb|AAH63282.1| EPHA3 protein [Homo sapiens] [ score 93 E 2e-18 ] [ range 911 .. 975 ]
+sequence
+-TTFR--TTGDWLNGVWTAHCKEIFTGVEYSSCDTIAKISTDDMKKVGVTVVGPQKKIISSIKALETQ--
+----*
+>P1;gi|34867401|ref|XP_346415.1| hypothetical protein XP_346414 [Rat... [ score 93 E 2e-18 ] [ range 912 .. 976 ]
+sequence
+-ATFH--TTGDWLNGMRTAHCKEIFTGVEYSSCDTIAKISTDDMKKVGVTVVGPQKKIISSIKALETQ--
+----*
+>P1;gi|4758292|ref|NP_004436.1| ephrin receptor EphB6 precursor [Hom... [ score 90 E 9e-18 ] [ range 932 .. 991 ]
+sequence
+FPCLD--SPQAWLSAIGLECYQDNFSKFGLCTFSDVAQLSLEDLPALGITLAGHQKKLLHHI--------
+----*
+>P1;gi|31203311|ref|XP_310604.1| ENSANGP00000007421 [Anopheles gambi... [ score 89 E 2e-17 ] [ range 990 .. 1051 ]
+sequence
+---FI--STDLWLEGIKMSRYSQHFKEAGLVTAQQLSRLTAQQLSDMGITLVGHQKKILHQARQIDT---
+----*
+>P1;gi|1754761|gb|AAB39376.1| ZDK1=MDK1 receptor protein tyrosine ki... [ score 84 E 7e-16 ] [ range 372 .. 444 ]
+sequence
+FTSFR--LVSEWLEAIKMERYMDNFTAAGYSSLESVARMTIEDVMSLGNLLGGPSEEDHEQYTDYESQML
+HLHG*
+>P1;gi|31200407|ref|XP_309151.1| ENSANGP00000018517 [Anopheles gambi... [ score 81 E 7e-15 ] [ range 318 .. 377 ] [ duplicate a ]
+sequence
+----G--SIDEWLRLLRLEEYVQPLLAQGYQTVHDVTQLTWEDLEDIGIVKLGHQKKILLAIKRVK----
+----*
+>P1;gi|37360258|dbj|BAC98107.1| mKIAA1139 protein [Mus musculus] [ score 70 E 9e-12 ] [ range 516 .. 571 ] [ duplicate a ]
+sequence
+--------IHNWLSEFQLEGYTAHFLQAGY-DVPTISRMTPEDLTAIGVTKPGHRKKIASEIAQL-----
+----*
+>P1;gi|1706629|sp|P54757|EPA5_RAT Ephrin type-A receptor 5 precursor... [ score 65 E 3e-10 ] [ range 968 .. 1005 ]
+sequence
+--AYR--SVGEWLEATKMGRYTEIFMENGYSSMDAVAQVTLE----------------------------
+----*
+>P1;gi|31088914|ref|NP_852063.1| RIKEN cDNA C030032C09 [Mus musculus... [ score 59 E 2e-08 ] [ range 40 .. 99 ] [ duplicate a ]
+sequence
+-------TVGQWLESIGLPQYENHLMANGFDSVQFMGSMEDQDLLEIGILNSGHRQRILQAIQLL-----
+----*
+>P1;gi|31088914|ref|NP_852063.1| RIKEN cDNA C030032C09 [Mus musculus... [ score 59 E 2e-08 ] [ range 113 .. 169 ] [ duplicate b ]
+sequence
+----T--SVAEWLDSIELGDYTKAFLINGYTSMDLLKKIWELELINVKISLIGHRKRILASL--------
+----*
+>P1;gi|4929321|gb|AAD33951.1| E2a-Pbx1-associated protein [Homo sapi... [ score 58 E 3e-08 ] [ range 594 .. 650 ] [ duplicate b ]
+sequence
+----T--SVAEWLDSIELGDYTKAFLINGYTSMDLLKKIWEVELINVKINLIGHRKRILASL--------
+----*
+>P1;gi|39596149|emb|CAE69786.1| Hypothetical protein CBG16074 [Caeno... [ score 58 E 6e-08 ] [ range 901 .. 968 ]
+sequence
+---FF--YVSEWLNFIGLQDYISNFVAAGYKHMTKLTEIDWDKLMQLGITRPGHIARILHSFKKAEDEKR
+Q---*
+>P1;gi|16118245|gb|AAL12170.1| ARAP2 [Homo sapiens] [ score 56 E 2e-07 ] [ range 11 .. 74 ]
+sequence
+--------IKDFLMSINLEQYLLHFHESGFTTVKDCAAINDSLLQKIGISPTGHRRRILKQLQIILSKMQ
+DI--*
+>P1;gi|16263319|ref|NP_436112.1| putative adenylate cyclase [Sinorhi... [ score 55 E 4e-07 ] [ range 33 .. 97 ]
+sequence
+--------IGAWLRDQGLGQYEGTFRQNDI-DPEVLRHLTAEDLIGVGVASVGHRRKLLAAIAALREVAE
+QPSG*
+>P1;gi|37359852|dbj|BAC97904.1| mKIAA0229 protein [Mus musculus] [ score 53 E 1e-06 ] [ range 725 .. 784 ] [ duplicate b ]
+sequence
+-------SVGEWLESIGLQQYESKLLLNGFDDVRFLGSMEEQDLREIGISDPQHRRKLLQAARSL-----
+----*
+>P1;gi|1504038|dbj|BAA13218.1| similar to human ankyrin 1(S08275) [H... [ score 53 E 1e-06 ] [ range 746 .. 805 ] [ duplicate b ]
+sequence
+-------SVGEWLESIGLQQYESKLLLNGFDDVHFLGSMEEQDLRDIGISDPQHRRKLLQAARSL-----
+----*
+>P1;gi|25147076|ref|NP_509620.2| ankyrin (XK235) [Caenorhabditis ele... [ score 53 E 2e-06 ] [ range 908 .. 965 ]
+sequence
+---FF--YVSEWLNFIGLQDYISNFVGAGYKHMAKLTEIDWDTLMQLGVTRPGHIARMLHS---------
+----*
+>P1;gi|31198021|ref|XP_307958.1| ENSANGP00000013418 [Anopheles gambi... [ score 53 E 2e-06 ] [ range 1607 .. 1665 ]
+sequence
+---VG--EVVTWLEAMQLAEYVDSFIKNDIRGKELLT-LARRDLKDLGVTKVGHVKRILQAIKDL-----
+----*
+>P1;gi|38087796|ref|XP_355966.1| similar to ARF-GAP, RHO-GAP, ankyri... [ score 51 E 8e-06 ] [ range 5 .. 68 ]
+sequence
+YDAAL--SVAEWLRALHLEQYTALFEQHGLVWATECQGLSDAGLLDMGMHLPGHRRRILAGLHRAH----
+----*
+>P1;gi|29788751|ref|NP_821077.1| diacylglycerol kinase, eta isoform ... [ score 50 E 2e-05 ] [ range 1156 .. 1211 ]
+sequence
+--------VAAWLDLLNLGEYKDIFIRHDIRGAEL-LHLERRDLKDLGIPKVGHVKRILQGIKEL-----
+----*
+>P1;gi|21264337|ref|NP_071926.4| ARF-GAP, RHO-GAP, ankyrin repeat an... [ score 50 E 2e-05 ] [ range 12 .. 64 ]
+sequence
+-----------WLATVHLEQYADTFRRHGLATAGAARGLGHEELKQLGISATGHRKRILRLLQT------
+----*
+>P1;gi|31874458|emb|CAD97798.1| hypothetical protein [Homo sapiens] [ score 48 E 6e-05 ] [ range 588 .. 649 ]
+sequence
+--CIS--SVSDWLISIGLPMYAGTLSTAGFSTLSQVPSLSHTCLQEAGITEERHIRKLLSAARLFK----
+----*

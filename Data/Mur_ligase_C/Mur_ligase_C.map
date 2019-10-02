@@ -1,0 +1,3240 @@
+>P1;1fgs
+structureX:1fgs: 297 : : 425 : :folylpolyglutamate synthase:Lactobacillus casei: 2.4: -1
+-WPARLEKISDT--PLIVIDG-AHNPDGINGLITALKQLFSQPITVIAGYA-------AMADRLTAAF--
+---STVYLVPVPG-------TPRGRLKDSWQEALAASLNDVP---DQPIVITG--SL----YLASAVRQT
+LLG------*
+>P1;1gg4a
+structureX:1gg4: 313 :A: 447 :A:UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase:Escherichia coli: 2.30: 20.3
+-VPGRLFPIQLAENQLLLDDSYNANVGST-AAVQVLA--EPGYRVLVVGDAELGAESEACHVQVGEAAKA
+AGIDRVLSVGKQSHAISTASG-VGEHFADKTALITRLKLLIAEQQVITILVKG--SRSA----AEEVVRA
+LQ-------*
+>P1;4uaga
+structureX:4uag: 298 :A: 437 :A:UDP-N-acetylmuramoylalanine--D-glutamate ligase:Escherichia coli: 1.66: 19
+GLPHRFEVVLEHNGVRWINDSKATNVGSTEAALNGLH--VDGTLHLLLGGDGK----SADFSPLARYLNG
+-DNVRLYCFGRDGAQLAALRPEVAEQTETMEQAMRLLAPRV--QPGDMVLLSPACASLDQFKNFEQRGNE
+FARLAKELG*
+>P1;gi|16803591|ref|NP_465076.1| similar to Folyl-polyglutamate synt... [ score 134 E 5e-31 ] [ range 296 .. 425 ]
+sequence
+-WPGRMEKIISN--PFIMLDG-AHNPEGIKTFAHSVQKYPGPKKIIVKNYQ-------EMLAMLKSIP--
+---NAEIILTTFD-------YPRAMMAEDWQQALNNLYETET---NTKIFITG--SL----YFISEVRKY
+LL-------*
+>P1;gi|16800654|ref|NP_470922.1| similar to Folyl-polyglutamate synt... [ score 132 E 1e-30 ] [ range 296 .. 425 ]
+sequence
+-WPGRMELLDVK--PFIMLDG-AHNPEGVTTFANSIKTYPGHKKIIVKNYQ-------EMIALLKTIP--
+---DTEILLTTFD-------YPRAMTNPNWKQALDDIKEIKN---DTKFFVTG--SL----YFISEVRKY
+LL-------*
+>P1;gi|23038215|ref|ZP_00070388.1| COG0285: Folylpolyglutamate synth... [ score 119 E 2e-26 ] [ range 277 .. 396 ]
+sequence
+-WPARMEKISKD--PLIILDG-AHNIQGIATLNDSLKEYGDREQLIVFGHL-------KKKNISVASF--
+---SDLPLATVFE-------TAESSSYKEWHWQLDDLLREIK---KQMIVVTG--SL----YFVSQARAY
+L--------*
+>P1;gi|22991263|ref|ZP_00036002.1| COG0285: Folylpolyglutamate synth... [ score 118 E 2e-26 ] [ range 313 .. 444 ]
+sequence
+-WPGRMERLSNE--PLVVLDG-AHNTHAMNRLVENLKKEFKGQINILFSAL-------EMLERLQQVP--
+---NVHIYLTTFE-------HPKASIVSLWQFGLADILEKMT---NEDLVVTG--SL----YFISEVRHL
+LI-------*
+>P1;gi|15902311|ref|NP_357861.1| Dihydrofolate synthetase [Streptoco... [ score 118 E 3e-26 ] [ range 296 .. 429 ]
+sequence
+-WPGRLEIVSRD--PLMILDG-AHNPHAIKALLVTLQERFADLFTCIKTKA-------LMLDLLGAMP--
+---DTEHFADSRA-------TDESVLKEDWHDFLEQNVTDKK---EEKQIVTG--SL----YFLSQVRVY
+LM-------*
+>P1;gi|21402503|ref|NP_658488.1| Mur_ligase, Mur ligase family, cata... [ score 117 E 4e-26 ] [ range 299 .. 430 ]
+sequence
+-WVGRFEKLQSN--PDIIIDG-AHNPEGIESLVKTVESHYKDK-NVIVLFT-------ALGDKQLETI--
+---ADEIIFTTFA-------FDRALVFENWKEAIDTKVEMIG---ENDVIITG--SL----YFISEVRKY
+IR-------*
+>P1;gi|15673139|ref|NP_267313.1| folylpolyglutamate synthase [Lactoc... [ score 117 E 5e-26 ] [ range 293 .. 423 ]
+sequence
+-WPARMEKLGEK--PLILLDG-AHNVHAMNRLLENLSSEFPKKITIIFSIS-------QMIKMLQTVK--
+---NSHLILTTFD-------YPKAELAPSWELALVRAQKNAE---DDLLLVTG--SL----YFSSQVREF
+L--------*
+>P1;gi|15900224|ref|NP_344828.1| dihydrofolate synthetase [Streptoco... [ score 117 E 6e-26 ] [ range 296 .. 429 ]
+sequence
+-WPGRLEIVSRD--PLMILDG-AHNPHAIKALLVTLQERFADLFTCIKTKA-------LMLDLLGAMP--
+---VTEHFADSRA-------TDENVLKEDWHDFLEQNLTDKK---EEKQIVTG--SL----YFLSQVRAY
+LM-------*
+>P1;gi|28211898|ref|NP_782842.1| folylpolyglutamate synthase; dihydr... [ score 117 E 6e-26 ] [ range 296 .. 429 ]
+sequence
+-WPGRLEILKTN--PLVVIDG-AHNLDGITKLKESIKQYFRNKLILIIGIL-------TDKDRTITPI--
+---ANKVIAVTPN-------SYRGKTSEDYKEAYVKALAYCE---DDMILICG--SL----YMIGDMRKI
+IR-------*
+>P1;gi|29377392|ref|NP_816546.1| FolC family protein [Enterococcus f... [ score 116 E 9e-26 ] [ range 300 .. 431 ]
+sequence
+-WPARMERLSDE--PLIVLDG-AHNDHAVKRLVENLRKEFPQHIHILFSAL-------ATKDVLKQVP--
+---NAHLYLTSFD-------YPKAEIVSLWQFGLGEILEKMS---DDLLLVTG--SL----YFVSQVREL
+LL-------*
+>P1;gi|23112115|ref|ZP_00097645.1| COG0285: Folylpolyglutamate synth... [ score 116 E 1e-25 ] [ range 321 .. 453 ]
+sequence
+-WPGRLELLSLK--PKVLIDG-AHNVDGAHALAKALNIFQRQRLVLCLGML-------GDKERILVPL--
+---ADEVIITKPN-------SPRSGNWEYLHELVKEKGKPVK---EDMLCVTG--SL----YMIAEARQA
+LL-------*
+>P1;gi|20807265|ref|NP_622436.1| Folylpolyglutamate synthase [Thermo... [ score 115 E 2e-25 ] [ range 295 .. 426 ]
+sequence
+-WPGRLEVMKKR--PYVVIDG-AHNPQGMTVLKESLKLFNYRRLILVIGML-------KDKDKMLNII--
+---TPVADVIITT-------TPLSDRADQIDKAVNEALKMAG---EEDVLFCG--SL----YMIGHVRKL
+LRG------*
+>P1;gi|24935316|gb|AAN64309.1| FolC protein [Lactococcus lactis subs... [ score 115 E 2e-25 ] [ range 293 .. 423 ]
+sequence
+-WPARMEKLGEN--PLILLDG-AHNVHAMNRLLENLKEFPDKKITIIFSIR-------QMIKMLQTVK--
+---NSRLILTTFD-------YPKAELAPSWELAIVRAQKALE---DELLLITG--SL----YFSSQVREF
+L--------*
+>P1;gi|28378903|ref|NP_785795.1| folylpolyglutamate synthase [Lactob... [ score 115 E 2e-25 ] [ range 299 .. 434 ]
+sequence
+-WPGRFERLNQD--PLIMIDG-AHNEPAVTELAATLSERFGQQIVYVI-FA-------VLADKQPATD--
+---PTMLAHEMPN-------GRTAEVFDNWQAALMQTLQEMS---DDALLLTG--SL----YFISDVRAY
+---------*
+>P1;gi|16079860|ref|NP_390686.1| folyl-polyglutamate synthetase [Bac... [ score 113 E 8e-25 ] [ range 299 .. 429 ]
+sequence
+-WPGRLELVQEH--PPVYLDG-AHNEEGVEKLAETMKQRFANRISVVFSYQ-------NMIKRLETIA--
+---HAIHFAS-FD-------FPRASLAKDLSEISNKSWSEDP---DEIVLITG--SL----YFISDIRKR
+L--------*
+>P1;gi|19745894|ref|NP_607030.1| putative folyl-polyglutamate synthe... [ score 113 E 9e-25 ] [ range 292 .. 411 ]
+sequence
+-WPGRFEFIQ----PNLLLDG-AHNPDSIAKLKSLLQEEFPKRP-IHILFA-------GLKDLLAQLD--
+---TFEVSVTTFD-------FPEANLLEDYRDWLQGSVT--S---DELFVVTG--SL----YFISEVRQY
+CL-------*
+>P1;gi|39997464|ref|NP_953415.1| folC bifunctional protein [Geobacte... [ score 103 E 7e-22 ] [ range 240 .. 372 ]
+sequence
+-WPGRMELFSGA--PRVLLDG-AHNPDGARALAESLADYPRRRLIVVTGVM-------ADKDPVLPLA--
+---HEVVAVTERG-------LDAGRLAETVAEGLALARQRAG---EQDILVCG--SL----FTVGEARAI
+LL-------*
+>P1;gi|18310900|ref|NP_562834.1| folyl-polyglutamate synthetase [Clo... [ score 102 E 2e-21 ] [ range 295 .. 428 ]
+sequence
+-WIGRMEVLNEN--PLVVIDG-AHNIDGIRNLRNSIDKYFNKNITLILGVL-------EMVEEITRGV--
+---DKVVIVE-PH-------SDRAEKFKDYKEAYNKAYSFTN---DDDLLICG--SL----YMVGDMRKA
+IR-------*
+>P1;gi|44322707|gb|EAI45413.1| unknown [environmental sequence] [ score 100 E 6e-21 ] [ range 289 .. 424 ]
+sequence
+-FPGRMEKISDG--KLLYLDG-SHNEDAASNLNETINQLTNKKLCIILGMI-------NTKDPILSKF--
+---DKIDALTVIT-------IPNEERADSIQEALANLNNNYQ---DARILICG--SL----YLAGKV---
+---------*
+>P1;gi|27468256|ref|NP_764893.1| folylpolyglutamate synthase [Staphy... [ score 99 E 2e-20 ] [ range 293 .. 418 ]
+sequence
+-WTGRIEQVKEQ--PLMVIDG-AHNNESIDALVDTIRHYYGRKIDILFSAI-------KMINKLNDIA--
+---SKFYIAD-FE-------FPKALAKEEIAEELKLDNENYE---GDGLIITG--SL----YFISEVKAK
+I--------*
+>P1;gi|44039130|gb|EAG79408.1| unknown [environmental sequence] [ score 98 E 3e-20 ] [ range 78 .. 210 ]
+sequence
+--PGRFEIISNS--PLVILDG-AHNPPGALAAAETLQSSFNGNRTLIIGMT-------EEKDNLNASE--
+---FTSIIATQAS-------SPRSMTAELLSEALIEALSASS---EEDIIFTG--SM----YVVGAIREA
+---------*
+>P1;gi|16081726|ref|NP_394109.1| tetrahydrofolylpolyglutamate syntha... [ score 98 E 4e-20 ] [ range 286 .. 414 ]
+sequence
+-WPGRLEIISRD--PLIIIDA-AHNPPAVNKMANTFRKVFTKKPLIVAGIL-------SDKDHVIRQI--
+---SDRIIFTTPE-------FSEARVIPDPIDAVNEAAKRS-----DFVLVTG--SI----YLIGAVKEY
+---------*
+>P1;gi|18266360|gb|AAL67521.1| folyl-polyglutamate synthetase [Bacil... [ score 97 E 8e-20 ] [ range 30 .. 161 ]
+sequence
+-WPGRFEKVLNK--PLVYIDG-AHNKEGMERLAETISSHFGRNIHVCFSAL-------KMIRKIESFA--
+---SSIHF-TSFD-------FPRA---ESAQKLFEQSTADYK---DEDIVITG--SL----YFISAVRAA
+L--------*
+>P1;gi|15924652|ref|NP_372186.1| folylpolyglutamate synthase [Staphy... [ score 95 E 3e-19 ] [ range 293 .. 418 ]
+sequence
+-WTGRIEQVHDK--PLIILDG-AHNSESIDALIDTIKQYHDKEKVDIKPIN-------EMVKHLSLIA--
+---HTFY-ATEFD-------FPKAQLVDDYVEFIKNYQGDT-------LVITG--SL----YFISEVKSK
+L--------*
+>P1;gi|19704349|ref|NP_603911.1| Folylpolyglutamate synthase; Dihydr... [ score 94 E 7e-19 ] [ range 283 .. 415 ]
+sequence
+-WQCRFEVYFKN--PLVIFDG-AHNLAGVEELIKIVKQHFSKEVTVLVSIL-------KDKDRLNEIS--
+---SNIVLTSIPD-------NPRASTAKELYDYVENKKDEYE---EDPIICCG--SF----YILIKLKEG
+LNG------*
+>P1;gi|42526594|ref|NP_971692.1| folylpolyglutamate synthetase, puta... [ score 94 E 8e-19 ] [ range 308 .. 442 ]
+sequence
+--PARFELLSDN--PEIIIDG-AHTKNSIALCMSTYTELVKEKGTLIFACA-------EDKNVMVPFF--
+---KTKIIVTIPG-------ASKKSNPDIFQEGLKASKNEII---EQPLLITG--SF----YLAAEAKRI
+---------*
+>P1;gi|23053576|ref|ZP_00079769.1| COG0285: Folylpolyglutamate synth... [ score 93 E 2e-18 ] [ range 283 .. 415 ]
+sequence
+-WPGRMEYFAGP--PRIIFDG-AHNPAGALALAESLAGVPRRRLIVVVGVM-------GDKDAALLPL--
+---TDEVVAVTPA-------VERGLSSAELAEGLAMARNMAA---DDLILVCG--SL----FTVGEARSA
+LL-------*
+>P1;gi|23022001|ref|ZP_00061640.1| COG0285: Folylpolyglutamate synth... [ score 91 E 4e-18 ] [ range 292 .. 425 ]
+sequence
+-WPGRLEILKKE--PIFLIDG-AHNAEGAKTLSEFLKTYFPKKIVFIIGVL-------KDKDEVCAPL--
+---AEDIITVTPN-------SDRALPAETLAQAVEKSLKIAP---KDGVICAG--SL----YYIGEIRSV
+LM-------*
+>P1;gi|14324984|dbj|BAB59910.1| folylpolyglutamate synthase [Thermop... [ score 91 E 8e-18 ] [ range 265 .. 391 ]
+sequence
+-WPGRLEIIDRS--PLVIIDA-AHNPPAANKMVRTVKKVFNREPTIVAGIL-------SDKDVLRQLS--
+---GKIIFTTPEE-------KERAVDPNILMAQYGNLFRKKV---DDFVFVTG--SI----YLIGVIR--
+---------*
+>P1;gi|22537275|ref|NP_688126.1| folylpolyglutamate synthase [Strept... [ score 90 E 1e-17 ] [ range 292 .. 413 ]
+sequence
+-WVGRTELIF----PNVMIDG-AHNNESVDALVQVIKKYQQKNVHILFAAI-------NTKESMLESL--
+---SSIVSVTSFD-------YPKSINLDDWKKWLHDINLTSD---KDFYVITG--SL----YFISQVRQE
+LL-------*
+>P1;gi|22405657|ref|ZP_00000530.1| COG0285: Folylpolyglutamate synth... [ score 89 E 2e-17 ] [ range 296 .. 425 ]
+sequence
+-WPSRFEVISRE--PLVIMDS-SHNPPAAHALVETFSNFVTQKPVLLIGML-------DDKDSILRKL--
+---SDSVILTTPD-------EPRSLDPDALAEAYNFAIQNYS-----CVLVTG--SM----YLVGMLKKY
+L--------*
+>P1;gi|15895664|ref|NP_349013.1| Folylpolyglutamate synthase [Clostr... [ score 89 E 2e-17 ] [ range 297 .. 429 ]
+sequence
+-WKGRLEVLKSN--PLVVVDG-AHNSDGILKLKESIGVHFKKRLILILGIL-------ADKEELITKD--
+---AYKIITVSPH-------NNRAEAEKDYKRAYEKAISYYK---EDMILICG--SL----YMIGDMIKL
+I--------*
+>P1;gi|15615599|ref|NP_243903.1| folyl-polyglutamate synthetase [Bac... [ score 89 E 2e-17 ] [ range 297 .. 428 ]
+sequence
+-WIGRFEKISEA--PLTFVDG-AHNEEGMKALAELLALHFPRFVMAVTKEK-------EMKALLAPDL--
+---PASFTFTTFE-------FERAQKAEDWKVAIRRERESCK---NEMVIICG--SL----YFISKVRAF
+LL-------*
+>P1;gi|43888120|gb|EAF97961.1| unknown [environmental sequence] [ score 88 E 4e-17 ] [ range 86 .. 220 ]
+sequence
+--PARIEWISDS--PPIILDA-AHNVASMESLVKTLSDQSSLPKKRVLVFA-------ASADKQLDFF--
+---SDIVLTRYAT-------NPRARLRKAWREPHVAASPTEG---KGLLCIAG--SF----FLATEVRAV
+L--------*
+>P1;gi|24379409|ref|NP_721364.1| putative folyl-polyglutamate synthe... [ score 88 E 4e-17 ] [ range 292 .. 414 ]
+sequence
+-WIGRTEFIKDN----LMIDG-AHNNESVAALVELLKEQYDKKIHILFAAI-------NMLKQLNQF---
+----TDLTVTTFS-------YPDALPLKDYKLWLKRLSKAQR---DDFYVITG--SL----YFISQVRKV
+LL-------*
+>P1;gi|23023986|ref|ZP_00063212.1| COG0285: Folylpolyglutamate synth... [ score 87 E 7e-17 ] [ range 269 .. 389 ]
+sequence
+---GRFELIA----PNIMVDG-AHNAQGLRALYKSLSVAYPKKITLIIG-S-------LMDKNVTAEF--
+---NNIVLVPFTG--------PNGRPSLSIEQTLKQAVEKST---ADLTVLTG--SL----YFISEVRE-
+---------*
+>P1;gi|44630681|gb|EAK60787.1| unknown [environmental sequence] [ score 87 E 8e-17 ] [ range 254 .. 388 ]
+sequence
+--PARIEWISDS--PPIILDA-AHNVASMESLVKTLSDQSGLPKKRVLVFA-------ASADKQLDFF--
+---SDIVLTRYAA-------NPRARLRKAWREPHVAASPTEG---KGLLCIAG--SF----FLATEVRAA
+L--------*
+>P1;gi|13345182|gb|AAK19241.1| putative folylpolyglutamate synthetas... [ score 85 E 4e-16 ] [ range 292 .. 414 ]
+sequence
+-WPGRLELI--R--PNLMIDG-AHNNESIAVLTQLLEEKYDRDIEILFAAI-------NTKDQMLSQL--
+---SQFVSVTTFD-------DFRAERVQTYQEWLEQVDLDNP---KQLYLITG--SL----YFITYVRKY
+IL-------*
+>P1;gi|13345177|gb|AAK19237.1| putative folylpolyglutamate synthetas... [ score 85 E 4e-16 ] [ range 292 .. 414 ]
+sequence
+-WPGRLELI--R--PNLMIDG-AHNNESIAVLTQLLEEKYDRDIEILFAAI-------NTKDQMLSQL--
+---SQFVSVTTFD-------DFRAVQLEDYQEWVEQADLDNP---KKLYLITG--SL----YFITYVRKY
+IL-------*
+>P1;gi|34763488|ref|ZP_00144431.1| FOLYLPOLYGLUTAMATE SYNTHASE; DIHY... [ score 84 E 6e-16 ] [ range 283 .. 415 ]
+sequence
+-WQCRFEVYSKN--PLVIFDG-AHNLAGVEELTKIVKQHFSKEVTVLVSIL-------KDKDRLSMFK--
+---KSIILTSIPN-------NPRASTAKELYDYVENKKDEYE---EDPIICCG--SF----YILIKLKEG
+LNG------*
+>P1;gi|42518884|ref|NP_964814.1| hypothetical protein LJ0959 [Lactob... [ score 84 E 7e-16 ] [ range 289 .. 414 ]
+sequence
+--PGRYDVIQTS--PEIIVDG-AHNLQAMENLLNLVRKKKKGQIYVLLGMM-------KDKDPVTKLF--
+---KDEVTLTRID-------YPRAEYKENFEEAYTSLKNKLQ---DDMLLVTG--SF----YLVGAVLNY
+C--------*
+>P1;gi|39938493|ref|NP_950259.1| folylpolyglutamate synthase [Onion ... [ score 84 E 7e-16 ] [ range 303 .. 432 ]
+sequence
+--PARMQKLNSN--PLIILDG-AHNVHAIRKLVQTIKQFSNYRISILFSAL-------EMLYQLLKIP--
+---KAHIYLTTFN-------HPNSDWQDKLKDFLQQNQTQNC---KDLLLIIG--SL----YFASEV---
+---------*
+>P1;gi|24379294|ref|NP_721249.1| putative folyl-polyglutamate synthe... [ score 82 E 2e-15 ] [ range 292 .. 412 ]
+sequence
+-WPGRCELLQAN----LLLDG-AHNIDAITKLIQVLKDSFRDK-TIHILFA-------GLKDLSVTSF--
+---DFFEALPLEN-------YPLSYPRDNWKNWITQATAH-S---DHLYVVTG--SF----YFISQVRNH
+LI-------*
+>P1;gi|15675079|ref|NP_269253.1| putative folyl-polyglutamate synthe... [ score 81 E 4e-15 ] [ range 292 .. 412 ]
+sequence
+-WLGRTELLA----PNLMIDG-AHNNESVAALVAVLKNYNDKKLHILFGAI-------DTKDMLVALE--
+---QIGDLVTSFH-------YPNAYPLEDFKDFLALRKHAKA---DDFFVITG--SL----YFISEIRQY
+---------*
+>P1;gi|22970554|ref|ZP_00017618.1| hypothetical protein [Chloroflexu... [ score 77 E 1e-13 ] [ range 299 .. 432 ]
+sequence
+-WPGRFELIAGP--PRILIDG-AHNGDSAQKLWQAISELPHRQFILVLGTS-------RDKDIALAPQ--
+---AAHVIITRSN-------HPKAMDLDRIAEALATAQALAE---DDLICVTG--SL----FVVGAAREA
+L--------*
+>P1;gi|23002588|ref|ZP_00046263.1| COG0285: Folylpolyglutamate synth... [ score 76 E 2e-13 ] [ range 289 .. 414 ]
+sequence
+--PGRYDIVQTV--PKIIVDG-AHNLQAMTNLLHLIRKENQGQIYILLGMM-------KDKDLTNLFK--
+---DEKVTLTRID-------YPRANYEENFKIAYTNLKNKKP---HDILLVTG--SF----YLVGAVLNY
+C--------*
+>P1;gi|44481801|gb|EAJ57895.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 119 .. 254 ]
+sequence
+-FPGRMQKIENG--KLLYLDG-SHNVDAAFNLNKTLKNLPEKKLCIIIGMI-------NTKDPYIRQF--
+---SNCFSITTIT-------IPSEENASSISEAVKSVNEANE---NTRILICG--SL----YLAGKV---
+---------*
+>P1;gi|15900133|ref|NP_344737.1| dihydrofolate synthetase, putative ... [ score 75 E 2e-13 ] [ range 284 .. 410 ]
+sequence
+-WAGRLERI--R--PQIYLDG-AHNLPALTRLAEFIKEQEGYRPQILFGSL-------KRKDLTEKLP--
+---QVELKVTGFD-------YQGADIVSSYREFISDFEERAD---AQDLLVTG--SL----YFISEVRGY
+LL-------*
+>P1;gi|15642940|ref|NP_227981.1| folylpolyglutamate synthase/dihydro... [ score 75 E 2e-13 ] [ range 294 .. 419 ]
+sequence
+---GRFEILEKN--GKMILDG-AHNPHGAESLVRSLKLYFNEPLSLVIGIL-------DDKNRYTGIF--
+---ERVIVTRVP--------SPRMKNVEVIEDPLEAI--EST---ERATVVTG--SL----FLVGYVREF
+L--------*
+>P1;gi|23099513|ref|NP_692979.1| folyl-polyglutamate synthase [Ocean... [ score 74 E 5e-13 ] [ range 288 .. 414 ]
+sequence
+--PGRLEKIHSN--PSIIVDG-AHNMEGIHSLIDTIKRQDSKSGHHIKDVR-------NMINCLQSDL--
+---SN-VNVTTFD-------HVRAPSFEDWKKYLETIFEN-K---DECYYITG--SL----HFISLVKQY
+---------*
+>P1;gi|12655906|gb|AAK00649.1| FolC-FolP fusion protein [Halobacteri... [ score 73 E 1e-12 ] [ range 291 .. 419 ]
+sequence
+-WPGRFEVMGAD--PVVVLDG-AHNPGACGAVAETVAEFDYDRLLTVFGAM-------HDKDHMAAAL--
+---PTDVLAAVFE-------DAGAGTVSAVESAVADAIAEAT---DDLVLVAG--SL----FAVAEAR--
+---------*
+>P1;gi|44257199|gb|EAI00999.1| unknown [environmental sequence] [ score 72 E 2e-12 ] [ range 288 .. 419 ]
+sequence
+---GRFQYLSKS--PDIILDV-AHNEDAARSLSDNIKKIGYDKIIVVLGVL-------ADKDVIVEPF--
+---SSLVDHGTIN-------SERGMNSDEIKFRINSIYKNMK---DSLLLVYG--SF----YTVSEALKA
+---------*
+>P1;gi|15902222|ref|NP_357772.1| Dihydrofolate:folylpolyglutamate sy... [ score 72 E 2e-12 ] [ range 286 .. 412 ]
+sequence
+-WAGRLERI--R--PQIYLDG-AHNLPALTRLVEFIKEQEGYRPQILFGSL-------KRKDLTENLP--
+---QVELKMTGFD-------Y-QGSLDESYREFISSFEERAD---AQDLLVTG--SL----YFISEVRGY
+LL-------*
+>P1;gi|17228521|ref|NP_485069.1| folylpolyglutamate synthase [Nostoc... [ score 71 E 4e-12 ] [ range 283 .. 411 ]
+sequence
+-WPGRMQWITQN--HKLLIDG-AHNPAAAHVLRNYVDTLNNQSVTWVMGML-------STKDHLLRPN--
+---DQLYLVPVPD-------NNSAQTFSNLPLAIETAFN-ST---DNLVVLCG--SL----YLIGH----
+---------*
+>P1;gi|44098580|gb|EAH11883.1| unknown [environmental sequence] [ score 71 E 5e-12 ] [ range 74 .. 200 ]
+sequence
+--PGRFQIVSES--PRVILDV-AHNPHAAEYLTGRLKMLPKKRVLAVIGML-------HDKDILKSVV--
+---DDWYCAPLEG--------PRGATAEAWHAALADAR---P---EDTVLVCG--SF----HTVAHVMEV
+---------*
+>P1;gi|44404965|gb|EAJ03824.1| unknown [environmental sequence] [ score 70 E 9e-12 ] [ range 62 .. 188 ]
+sequence
+---GRYQIVKAN--PEIILDV-AHNEDAANKLKSNLEKYPKKKTRAVIGVL-------KDKDPLISSV--
+---DKWYCATI-D-------SERGMNAKEIATRLEGSAKNCN---EDRILIYG--SF----YTVSE----
+---------*
+>P1;gi|44574723|gb|EAK21078.1| unknown [environmental sequence] [ score 70 E 9e-12 ] [ range 281 .. 412 ]
+sequence
+-WPGRLEIINKH--KKIILDG-SHNIDGADKLNEFLKTE-KIKPIVLFGML-------NNKNKIKKRV--
+---SKVLAIEIPD-------EKNSFKTKQINEICNEQINNIN---DALYLITG--SL----YLIGKIRKK
+LL-------*
+>P1;gi|28379660|ref|NP_786552.1| folylpolyglutamate synthase [Lactob... [ score 69 E 2e-11 ] [ range 303 .. 447 ]
+sequence
+--PGRLTVLQEQ--PVIIADG-AHNPDGMAALVASVKQLLGRKLIWIVGVL-------QDKAKMLAEL--
+---ADVLITNTPA-------NPETKLADTITDALTQAQQQAS---NSAIIVTG--SF----YVIRELQQA
+---------*
+>P1;gi|16765692|ref|NP_461307.1| multifunctional folylpolyglutamate ... [ score 69 E 2e-11 ] [ range 287 .. 414 ]
+sequence
+--PGRFQIVSES--PRVIFDV-AHNPHAAEYLTGRLKMLPKRRVLAVIGML-------HDKDILKSVV--
+---DDWYCAPLEG--------PRGATAEAWQAAIDAAQ---P---EDTVLVCG--SF----HTVAHVMEV
+I--------*
+>P1;gi|44185487|gb|EAH58558.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 45 .. 180 ]
+sequence
+-WPCRMEVIEES--QQIVLDG-AHTYESIKLVMDSVTKLFKNKFGVLLGLS-------KDKDNLISSY--
+---DPDYIKLIKS-------HPKALVADSIQDAIETIRNDLG---AGDLILSG--SL----FSCAEVREY
+LL-------*
+>P1;gi|28898962|ref|NP_798567.1| folylpolyglutamate synthase/dihydro... [ score 69 E 2e-11 ] [ range 288 .. 411 ]
+sequence
+---GRMQVLQHE--PEIVLDV-AHNPHSAEYLVEKVKTHYAGKIHVVIAML-------HDKDIKATLA--
+---ALKPIATSLT-------GPRAATADELVEAFESALSSAS---NDLVLVAG--SF----HTVGEV---
+---------*
+>P1;gi|43486277|gb|EAD97900.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 146 .. 278 ]
+sequence
+-WPGRLEIIKEK--PTIYLDG-AHNIDGAKIIRNFLKESNSKAW-IILGML-------NSKKNLSNSV--
+---EGVVAIEIPN-------EKNSILTSQIKLNCKKINVFCK---EEKIIITG--SL----YLVGNIRKK
+IL-------*
+>P1;gi|44365604|gb|EAI75844.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 41 .. 169 ]
+sequence
+-WPGRIEKVKKN--KYVIFDG-SHNLSGADKLNKYLKE-NRVRPNVIFGML-------NNKNILKKNI--
+---DTLYPIKIPD-------EQNAYTQKDIHKIINKLLMKNS---NKYILITG--SL----YLVGKIRK-
+---------*
+>P1;gi|34497973|ref|NP_902188.1| folylpolyglutamate synthase/dihydro... [ score 69 E 3e-11 ] [ range 284 .. 416 ]
+sequence
+-WPGRFQVLPGR--PAVVLDV-GHNPHAVKAMAAALKQLFAENRYAVFSML-------ADKDMMAVVE--
+---FDHWLVAGLD-------MPRGQSGEAIASALKNALSRAG---DDRIVVFG--SF----HTVAEVEAV
+---------*
+>P1;gi|43921929|gb|EAG15774.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 11 .. 146 ]
+sequence
+-FPGRFEQIKKG--KLLYLDG-SHNSDAAHNINQSLISMPPKDLCIIIGML-------NSKDYIKQFS--
+---NIKEIKTIPD-------EENSELKDSIEDAIKSLANSNP---NARILICG--SL----YLAGQV---
+---------*
+>P1;gi|43830112|gb|EAF69321.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 195 .. 323 ]
+sequence
+-WPGRIEKVKKN--KYVIFDG-SHNLSGADKLNKYLKE-TGIRPNVIFGML-------NNKNILKKNI--
+---DTLYPIKIPD-------EQNAYTQKEIHKIINKLLMKNP---NKYILITG--SL----YLIGKIRK-
+---------*
+>P1;gi|27365337|ref|NP_760865.1| Folylpolyglutamate synthase; Dihydr... [ score 68 E 4e-11 ] [ range 274 .. 397 ]
+sequence
+---GRMQVLQTA--PLILLDV-AHNPHSAEYLVTQLQSRYQGKIHAVIGML-------KDKDIKSTL---
+-----EVLAPVTT-------GPRAATAEELIQYLQALSQAQS---DEIVLVVG--SF----HTVGEV---
+---------*
+>P1;gi|44422945|gb|EAJ16388.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 124 .. 242 ]
+sequence
+--PGRYEVISDN--PILIIDV-SHNIHSIETLIKNFQKNPDKKVNILLGML-------KEKNPLLKIA--
+---KKIYLTEVPN--------PRTFDPNKVIELLKNKRISYK---KDDFILTG--SI----YLIG-----
+---------*
+>P1;gi|44004683|gb|EAG60375.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 128 .. 250 ]
+sequence
+-WTGKLKELVKN--NRLIIDG-SHNEDGARVLNEYLETL-DCNKHIIIGMM-------ANKDKYISYF--
+---KNISSLTTVD-------IPNVKYKKSIQEAI-LSINLKE---NDLLIITG--SL----YLSGE----
+---------*
+>P1;gi|22999512|ref|ZP_00043489.1| COG0285: Folylpolyglutamate synth... [ score 68 E 5e-11 ] [ range 310 .. 440 ]
+sequence
+-WPGRLERVGDA--PEVWLDG-AHNPAGAQVCADFFRQYGRVD---VMLFA-------LMADKDVAEL--
+---VKTVVVVEPV-------GGRSMAAEAWRAGVTAETAPST---EQKILVSG--SL----YLVGEVKKL
+L--------*
+>P1;gi|42969750|gb|EAB51844.1| unknown [environmental sequence] [ score 67 E 6e-11 ] [ range 162 .. 293 ]
+sequence
+-WPGRLEIINKN--KKIIFDG-SHNIDGAKKLKEFLKTQ-RIKPTVLFGML-------KKIDDFLNII--
+---KNILAIKIPD-------EDNSNNVKSAIKFINNSNQKI-------FLITG--SL----YLVGKVRKK
+FL-------*
+>P1;gi|43142305|gb|EAC36884.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 32 .. 167 ]
+sequence
+-WPARMQKLRTG--PIVWLDG-GHNPAAGKALASHLSNHNKKPTVLICGML-------KTKDVYLSPF--
+---SDVVAVSIPN-------GIKSKSFRSVSEGIQFVANQFP---NCQVLICG--SL----YLAGHI---
+---------*
+>P1;gi|21673102|ref|NP_661167.1| folylpolyglutamate synthase [Chloro... [ score 67 E 1e-10 ] [ range 248 .. 376 ]
+sequence
+---ARLERIADK--PVVMLDV-SHNPEGMQKTAQSILELRNRFLYVIIGVA-------ADKDHIAPIA--
+---DEIVAVDLPV-------SSRHSAAEAL-EFLDQRVE--P---EDMILVTG--SF----YLSGEV---
+---------*
+>P1;gi|44029437|gb|EAG74013.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 147 .. 282 ]
+sequence
+-WPARMQKLSTG--PIVWLDG-GHNPAAGKALASYLSNQNKKPTVLICGML-------KTKDVLSPFL--
+---NLVEFLAAVS-------IPKEQNFRSISEGVQFVANQFP---NYRVLICG--SL----YLAGHI---
+---------*
+>P1;gi|22959958|ref|ZP_00007603.1| COG0285: Folylpolyglutamate synth... [ score 66 E 2e-10 ] [ range 446 .. 581 ]
+sequence
+-WPARMQRLRQG--PLLWLDG-GHNPAGGAAVAATLSRMAPRPTHLICGML-------NTKDPLAPHV--
+---TRLHAVSIPG-------EANTLTAPSVADALASIAAENP---AARVLICG--SL----YLAGAI---
+---------*
+>P1;gi|37527056|ref|NP_930400.1| FolC bifunctional protein [Includes... [ score 66 E 2e-10 ] [ range 295 .. 424 ]
+sequence
+--PGRFQIVREK--PLLILDV-AHNPHAAAYLVQKLAQLPRQPGSRIVGML-------GDKDILSQQI--
+---NEWYCAPLTG-------QPRTDVESAWHQAMVDA---DE---QDIVVVCG--SF----HTVVHVMEA
+L--------*
+>P1;gi|44613877|gb|EAK48591.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 285 .. 428 ]
+sequence
+-WPARLDLLETG--PLIWLDG-GHNSHAAIAIADAMKALDKKKLILIVGML-------NTKDPFKNIT--
+---DTVIAIKIPD-------NNNSHEPEDLHNALAYTRKYLD---DSKILICG--SL----YLAGYAVKI
+HRG------*
+>P1;gi|43997610|gb|EAG56648.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 67 .. 202 ]
+sequence
+-WPARMQKLSTG--PIVWLDG-GHNPAAGKALASYLSNQNKKPTVLVCGML-------KTKDVYLSPF--
+---SNLVAVSIPN-------EENTLPADEISEGIQFVANQFP---NCQVLICG--SL----YLAGHI---
+---------*
+>P1;gi|44644541|gb|EAK70843.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 207 .. 350 ]
+sequence
+-WPARLDHLETG--PLIWIDG-GHNSHAAIAIADAMRALDKKRLILIIGML-------NTKDPFQNIT--
+---DTVIAIEIPD-------NTNSHKPEDFHSALAYARKYFD---DSKILICG--SL----YLAGYAMKI
+HRG------*
+>P1;gi|15793864|ref|NP_283686.1| bifunctional folylpolyglutamate syn... [ score 65 E 3e-10 ] [ range 292 .. 424 ]
+sequence
+--PGRFQVLPGR--PLTVLDV-GHNPHAARALRRSLNLAFAQKRTAVFSML-------SDKDIVKDQF--
+---DEWYIAP-LD-------VPRGMTLESLQEAYRAAASKAG---EDRIVVFG--SF----HTVADVMSV
+L--------*
+>P1;gi|44544163|gb|EAJ99484.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 104 .. 235 ]
+sequence
+-WPGRIEKVKKN--KYIIFDG-SHNLAGAEKLNKYLKDIEIRP-NVIFGML-------NNKKILKKNI--
+---NTLYPIKIPD-------EKNAYTQKEIYNIINQLLMNDP---NKYILITG--SL----YLVGKIRKK
+YL-------*
+>P1;gi|38234356|ref|NP_940123.1| Mur ligase family protein [Coryneba... [ score 65 E 4e-10 ] [ range 355 .. 490 ]
+sequence
+--PGRLERVRTA--PTVFIDA-AHNPHGAAALGKALERDFDSRLIGVVAVL-------GDKDRALEPH--
+---LSEIVVTTNS-------SPRALAADDLAEAVELAVELAE---DTGVIVTG--SV----VTAGEAR--
+---------*
+>P1;gi|43577474|gb|EAE43518.1| unknown [environmental sequence] [ score 65 E 4e-10 ] [ range 46 .. 174 ]
+sequence
+-WPGRIEKVKKN--KYLIFDG-SHNLSGADKLNKYLNE-TKIRPNVIFGML-------NNKNILKKNI--
+---DTLYPIKIPA-------EKNAYTQREIHKIINKLLMRNP---NKYILITG--SL----YLIGKIRK-
+---------*
+>P1;gi|15802862|ref|NP_288889.1| dihydrofolate:folylpolyglutamate sy... [ score 65 E 4e-10 ] [ range 287 .. 414 ]
+sequence
+--PGRFQIVSES--PRVIFDV-AHNPHAAEYLTGRMKTLPKNRVLAVIGML-------HDKDILKSVV--
+---DDWYCAPLEG--------PRGKSFDSVAQAWDAAMADAK---EDTVLVCG--SF----HTVAHVMEV
+I--------*
+>P1;gi|15641016|ref|NP_230647.1| folylpolyglutamate synthase/dihydro... [ score 65 E 4e-10 ] [ range 289 .. 412 ]
+sequence
+---GRMQVISHQ--PTIVLDV-AHNPHSAHYLVQQLTQRYPERIHLVFGML-------HDKDIASTVV--
+---ELSPAVTYPA-------SPRAATAAQLCQAFEAALTQAG---AQDIVVAG--SF----HTVGEV---
+---------*
+>P1;gi|2120881|pir||S63583 tetrahydrofolylpolyglutamate synthase (EC... [ score 65 E 5e-10 ] [ range 292 .. 424 ]
+sequence
+--PGRFQVLPGR--PLTVLDV-GHNPHAARALRRNLNLAYAQKRTAVFSML-------SDKDIVKDQF--
+---DEWYIAP-LD-------VPRGMTADALKAKLAAASKAGE---DDRIVVFG--SF----HTVADVMSV
+L--------*
+>P1;gi|44151971|gb|EAH40933.1| unknown [environmental sequence] [ score 64 E 5e-10 ] [ range 129 .. 253 ]
+sequence
+-WPGRIQKLSDK--PDIIFDV-AHNSEGIQALSDSIKNLYNKKYLIIKQIF-------SDLKHLVKIF--
+---DETIITETK--------IRNSMPAKEIYQSVNLKNKIII---NDLLVIAG--SH----YF-------
+---------*
+>P1;gi|16122973|ref|NP_406286.1| putative FolC bifunctional protein ... [ score 64 E 6e-10 ] [ range 299 .. 432 ]
+sequence
+--PGRFQVVSEQ--PLLILDV-AHNPHAARYLVNRLAQVINGKVRAVVGML-------SDKDIAGTLA--
+---CAEHLVSARQ-------F--SDVETAWRQAMQDA---DT---QDVVIVCG--SF----HTVAHVMAA
+L--------*
+>P1;gi|43810107|gb|EAF59556.1| unknown [environmental sequence] [ score 64 E 6e-10 ] [ range 96 .. 227 ]
+sequence
+-WPGRLEIIAYN--KKIILDG-SHNIDGAKKLNEFLKIKQIKPI-VIFGML-------NNKKILNIIK--
+---NQIVKILAIQ-------IPNEKNAKNINEVLKYIRK--S---DQKILITG--SL----YLVGKIRKK
+FL-------*
+>P1;gi|23138124|ref|ZP_00119809.1| COG0285: Folylpolyglutamate synth... [ score 64 E 7e-10 ] [ range 303 .. 425 ]
+sequence
+---GRWQIISQK--PLTILDA-AHNEAGITLSMQQL-QLYHKSIHIVIGMV-------KDKDLSLLPV--
+---QATYYFCQAD-------SPRAMPAAELQTAAAARKNAAP---DDVIWIGG--SL----YVLGE----
+---------*
+>P1;gi|45512519|ref|ZP_00164085.1| hypothetical protein Selo021801 [... [ score 64 E 8e-10 ] [ range 278 .. 403 ]
+sequence
+-WPGRLQWLDQG--RRLLIDG-AHNPEAAIALRQAVDQLPNQSITWLIGML-------RAKDTLLRSG--
+---DRCIAIPVPD-------HDIASTAADWAEGLAIAQTY-----PEAIVFCG--SL----YLLGD----
+---------*
+>P1;gi|44147155|gb|EAH38405.1| unknown [environmental sequence] [ score 64 E 8e-10 ] [ range 26 .. 146 ]
+sequence
+---GKLKNICKD--NRLYLDG-SHNPLGAKALNEYLNTH-DCKKHLILGMM-------SNKDHYLSKF--
+---KNISSITTID-------YPNINYKKSIEEAL-ESLNLNK---DDLIMITG--SL----YLAGE----
+---------*
+>P1;gi|44490653|gb|EAJ63848.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 7 .. 127 ]
+sequence
+---GKLKNFFKD--NRLYLDG-SHNPLGARALNEYLNTL-DCKKHLILGMM-------SNKDHYLSNF--
+---NNISSITTID-------YPNVTYKKSIEEAL-LSLNPEK---DDLIMITG--SL----YLAGE----
+---------*
+>P1;gi|42894283|gb|EAB14314.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 162 .. 280 ]
+sequence
+---GKLKDLCKN--NKIFVDG-SHNPLGAKVLNKYLNN-FNCNKHIILGMM-------ANKDKYISYF--
+---KNITSLTTVD-------FPNAQFRDSIKEAL-TKLNLEE---NDIVLITG--SF----YLAGEV---
+---------*
+>P1;gi|43353893|gb|EAD41803.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 146 .. 277 ]
+sequence
+---GRVEVISRD--PTIILDG-LHTPLAALRFKETLVELGIDKSVIVVGFL-------EGKQRELVCP--
+---GDDVIVTTPP-------GPRASIAPSVKNAVQRAVGMAK---DSSIFIVG--SL----YTVASARAH
+LL-------*
+>P1;gi|146365|gb|AAA23966.1| dedC protein [ score 63 E 1e-09 ] [ range 287 .. 415 ]
+sequence
+--PGRFQIVSES--PRVIFDV-AHNPHAAEYLTGRMKALPKNGRVLVIGML-------HDKDILKSVV--
+---DDWYCAPLEG--------PRGATAEQLLEHLGNGKEPKA---EDTVLVCG--SF----HTVAHVMEV
+I--------*
+>P1;gi|27375859|ref|NP_767388.1| folylpolyglutamate synthase [Bradyr... [ score 63 E 1e-09 ] [ range 297 .. 438 ]
+sequence
+-WPARMELLSWG--PEIWLDG-GHNAEGAAAALGDLEERVSRPLVVIAGMM-------ANKD-AQAFL--
+---ANIIAVPIPD-------TENAMPADRLADAIEAALRALS---KPRILITG--SL----YLAGHV---
+---------*
+>P1;gi|44243770|gb|EAH91337.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 10 .. 130 ]
+sequence
+---GKLKNICKD--NKLYIDG-SHNPLGAKALNEFLNTL-DYKKHLIIGMM-------SNKDHYLSKF--
+---NNISSITTID-------IPNQSYKKSIEEALI-SLNQDK---DNLIMITG--SL----YLAGE----
+---------*
+>P1;gi|44355119|gb|EAI68346.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 219 .. 339 ]
+sequence
+---GKLKDLVKN--NMLIVDG-SHNQHGAQVLNEYLQTLNCNK-HVILGMM-------ANKDKYISYF--
+---KDISSITTID-------IPNKELKDQYQESIDQAIKSVP---NDILIITG--SL----YLAGEV---
+---------*
+>P1;gi|29831995|ref|NP_826629.1| putative folylpolyglutamate synthas... [ score 62 E 2e-09 ] [ range 312 .. 451 ]
+sequence
+--PGRLEVVRRS--PTVVLDA-AHNPAGARATAEAVGEAFDSRLIGVVGAS-------GDKNVFEPIF--
+---AEVVIVEVFG-------EDRVQVEPRLDDALEAAITEFA---GGGVLVTG--SV----ITVGEAR-L
+LLG------*
+>P1;gi|44441659|gb|EAJ29374.1| unknown [environmental sequence] [ score 62 E 2e-09 ] [ range 284 .. 408 ]
+sequence
+---GKLKKLANN--HKLFVDG-SHNPLGAKALNQYLQSLNCNK-HIIIGMM-------ANKDHNEYMF--
+---KDISSVTTID-------IPNQQYKDNINEAIK-SISLKE---NDIILITG--SL----YLAGEILKL
+---------*
+>P1;gi|28572444|ref|NP_789224.1| folylpolyglutamate synthase [Trophe... [ score 62 E 2e-09 ] [ range 298 .. 348 ]
+sequence
+--PGRLQIISKN--PVVLLDA-AHNPHAAKHLAIALDEFFSGKIVFILAFL-------SDKD--------
+----------------------------------------------------------------------
+---------*
+>P1;gi|16330491|ref|NP_441219.1| folyl-polyglutamate synthetase [Syn... [ score 62 E 3e-09 ] [ range 282 .. 418 ]
+sequence
+-WPGRLQWVDYN--QKILLDG-AHNPAAAKALANLVDQSDNYLPTIVMGML-------STKEHLLRPG--
+---DRLLLVPVPD-------HDSGDLPLAWQESLEKTNEN-S---EQLTVLCG--SL----YLVG-----
+---------*
+>P1;gi|23016128|ref|ZP_00055887.1| COG0285: Folylpolyglutamate synth... [ score 62 E 3e-09 ] [ range 339 .. 477 ]
+sequence
+-WPARLQRLTKG--PLVWLDG-GHNPHAAEAIAQHARSWRDKPLMGVFGIL-------STKDPLAARF--
+---HTLRTISIPG-------EAASLSAEDVEAAIAELVSAST---DARILICG--SL----YLAGTV---
+---------*
+>P1;gi|15609584|ref|NP_216963.1| folC [Mycobacterium tuberculosis H3... [ score 62 E 4e-09 ] [ range 336 .. 479 ]
+sequence
+--PGRLERMRSA--PTVFIDA-AHNPAGASALAQTLAHEFDFRFLVVLSVL-------GDKDVLEPVF--
+---DSVV-VTHNG-------SPRARTAENLRDAIDVATSLVS---RTGIVITG--SV----VTAGAAR--
+---------*
+>P1;gi|43134634|gb|EAC33146.1| unknown [environmental sequence] [ score 61 E 4e-09 ] [ range 210 .. 301 ]
+sequence
+--PGRFQYLQHS--PDIILDV-AHNEDAAKSLATNIKRLGYKNIHVVLGIL-------ADKDVYSIVK--
+---PFSLLVNTIS-------SERGMNAEEIKFRIKSLFKNK-----------------------------
+---------*
+>P1;gi|32474140|ref|NP_867134.1| folylpolyglutamate synthase/dihydro... [ score 61 E 5e-09 ] [ range 384 .. 520 ]
+sequence
+---ARLERLSDD--RVVLLDT-AHNADSIEAMLNVLNQRMAGRRRLCKNVL-------AMLQRMQPHF--
+---DQWTLTRYEG-------NPRFVPVDDLNAAVQNAVNSLN---TDVLVICG--SF----FLAAEIRPW
+L--------*
+>P1;gi|23129295|ref|ZP_00111127.1| COG0285: Folylpolyglutamate synth... [ score 61 E 5e-09 ] [ range 182 .. 320 ]
+sequence
+-WPGRMQWTTNN--HKILLDG-AHNTAAAQVLVDSLDAVNPKPITWVMGMF-------SDKDHLLRPG--
+---DRLFLVPIPL-------SDRQIHPDLFTALEVAISTTST---DDLIVLCG--SL----YLVGD----
+---------*
+>P1;gi|2125896|emb|CAA73511.1| folylpolyglutamate synthase [Streptom... [ score 61 E 7e-09 ] [ range 303 .. 442 ]
+sequence
+--PGRMEVVRRS--PTVVLDA-AHNPAGARVTAEAVGEAFQSRLIGVVGAS-------ADKNVLLEAF--
+---EPVVAVEVFG-------DDRVQVEPRLPDALEAAITEFA---GGGVLVTG--SV----ITVGEARLL
+LR-------*
+>P1;gi|44451879|gb|EAJ36644.1| unknown [environmental sequence] [ score 61 E 7e-09 ] [ range 289 .. 406 ]
+sequence
+------ELVKDH--KL-YVDG-SHNPLGAKVLNEYLESL-DCNKHIILGMM-------ANKDHYMSFF--
+---KDISTLTTID-------IPNGELKDNYKESIEDAIKSIP---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|44145450|gb|EAH37447.1| unknown [environmental sequence] [ score 60 E 8e-09 ] [ range 102 .. 223 ]
+sequence
+---GKLKDLVKD--NLFLISG-DHNEDGARVLNEYLKSLNCRK-HIIIGMM-------KNKDKYISYF--
+---KDIASLTTVD-------IPNVNYKESIEDAIK-SINLNQ---GDLLLITG--SL----YLCSEV---
+---------*
+>P1;gi|16127771|ref|NP_422335.1| FolC bifunctional protein [Caulobac... [ score 60 E 8e-09 ] [ range 288 .. 427 ]
+sequence
+-WPARFQRLTAG--PLLWLDG-GHNPHAVSRAVADLAARDGRPVALISGLL-------ANKDAFRGVA--
+---TKVFTVTFEG-------HARASACDSVAEALDRALQLEP---APHILICG--SL----YLAGDV---
+---------*
+>P1;gi|23019060|ref|ZP_00058773.1| COG0285: Folylpolyglutamate synth... [ score 60 E 9e-09 ] [ range 311 .. 449 ]
+sequence
+--PGRLEIVRTS--PTVLVDA-AHNPAGMAATGEAVRESFTDRLVGVVAVL-------ADKDEPLEPL--
+---LDEIVVTVNS-------SPRALPVDRLREAIDQAVALAE---RDAVLITG--SV----VTAGDAIHL
+L--------*
+>P1;gi|23026708|ref|ZP_00065181.1| COG0285: Folylpolyglutamate synth... [ score 60 E 1e-08 ] [ range 280 .. 421 ]
+sequence
+---GRFEVIAAQ--GNVVLDV-AHNAMAMELLAKNIAKYVGENVTCVLGMM-------ADKNIAASLA--
+---SLLPIVSIPD-------NKRAATAEYLREVLAAALNECK---PNLVVVCG--SF----FTVCNAKQY
+L--------*
+>P1;gi|37520857|ref|NP_924234.1| folyl-polyglutamate synthetase [Glo... [ score 60 E 1e-08 ] [ range 236 .. 362 ]
+sequence
+--PGRLEPMGVQ--QWVWLDG-AHNPE---KLAYLVRQLHGRPAVVLFGAL-------AMLKILSRLA--
+---RTLVLCPIPG-------FERVEPAPNPEAALAFALRRQP---DQIVVVTG--SL----YLVGRLR--
+---------*
+>P1;gi|15639331|ref|NP_218780.1| folylpolyglutamate synthetase (folC... [ score 59 E 2e-08 ] [ range 345 .. 479 ]
+sequence
+--PARFEIMQED--PLIVIDG-AHTTQSIRCACRTFSSLLPSAQ-YILLFA-------CAADKAVSQF--
+---ASEIFLTIPG-------TSKADIQKTYHAFISRALSFAQ---RKALLAIG--SF----YLAAEVKRI
+---------*
+>P1;gi|43302827|gb|EAD17155.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 113 .. 230 ]
+sequence
+--PGRYEKVNS-----FLLDC-AHNPQAINHLLSKNNTYNK----IIIGMM-------SDKDLELLPQ--
+---ESEILLCKLK-------TPRAAKTEYLAEICNEIGKNYV---EDQTLITG--SF----YTVAEARTY
+L--------*
+>P1;gi|42561458|ref|NP_975909.1| dihydrofolate:folylpolyglutamate sy... [ score 59 E 2e-08 ] [ range 251 .. 359 ]
+sequence
+---GRFTTLQTF--PNIIIDG-AHNVDGIKKLIQSVKSLNKEFIVLYASYL-------KSLELLDKNF--
+---KEVYICEF-------------DYLKSWSIKHINYKNKIK---DWKIIICG--SL----YFI------
+---------*
+>P1;gi|23465914|ref|NP_696517.1| folylpolyglutamate synthase [Bifido... [ score 59 E 2e-08 ] [ range 302 .. 441 ]
+sequence
+--PGRIEQIRTS--PTIILDG-GHNVNAAEALRKAIEESYDFKQ-LVGVVA-------MMRDKLEPIL--
+---SSVVVVDVFG-------RDRANLPDAIQTAVN--MVDAE---DELVLICG--SF----VTAGDAR--
+---------*
+>P1;gi|15607020|ref|NP_214402.1| folylpolyglutamate synthetase [Aqui... [ score 59 E 3e-08 ] [ range 279 .. 400 ]
+sequence
+-WEGRMEVLREK--PLLMVDA-SHNPYSVVKVVKTVKKHFPE---VKVAYS-------SLKGKLRNLT--
+---EEIYLLPI-D-------YYRAEDVKNLEKFAKEMGFKTK---EEDMLIIG--SI----YLIGEVKKY
+---------*
+>P1;gi|43794351|gb|EAF51755.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 1 .. 119 ]
+sequence
+-----MKDIIKN--NRLLLDG-SHNEDGSRVLNEYLQTL-DCKKHVILGMM-------ANKDKYISYF--
+---KDIASITTID-------IPNVQYKKSIEEAI-QSIPLKE---DDLLIITG--SL----YLSGE----
+---------*
+>P1;gi|42956060|gb|EAB45018.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 107 .. 235 ]
+sequence
+-WPGRLENIKKK--IPIYLDG-SHNIEGAEQLNFFLKSK-NKKVWVILGMM-------NLIDFLKIIK--
+---NRIEGVIAIK-------IPKEKNSFDPHEILNLVENNIK---PELLLITG--SL----YLVGKIR--
+---------*
+>P1;gi|29654217|ref|NP_819909.1| FolC bifunctional protein [Coxiella... [ score 59 E 3e-08 ] [ range 277 .. 411 ]
+sequence
+--PGRFEWIQTP--APIVFDV-AHNPQATAYLSEQLRKTDHAGRTLVVGML-------RDKDPMLPCI--
+---DQWYAGTLSE-------SRGATNFDSVADAFKKAVEDCP---QDRIVVFG--SF----YTVAMAKEV
+LLG------*
+>P1;gi|22297734|ref|NP_680981.1| folylpolyglutamate synthase [Thermo... [ score 59 E 3e-08 ] [ range 285 .. 410 ]
+sequence
+-WPGRLQWLHQG--RQLLIDG-AHNAPAAAYLRQYVDQLGWTEVTWVVGIL-------ANKDHLLRAG--
+---DRLWLVPVPD-------HASARLFNDVAKALDRAGDRC--------VVCG--SL----YLIARV---
+---------*
+>P1;gi|37520643|ref|NP_924020.1| folylpolyglutamate synthase [Gloeob... [ score 58 E 4e-08 ] [ range 280 .. 403 ]
+sequence
+-WPGRYQWLGER----LLLDG-AHNEDSAVYLRRYLDTLHPKESIRIVGIL-------ESKDALLRPG--
+---DAFVAVPVPD-------APPERLASMAQEALQLS---DT---EQLTVIAG--SL----YLAGAV---
+---------*
+>P1;gi|44450003|gb|EAJ35168.1| unknown [environmental sequence] [ score 58 E 4e-08 ] [ range 183 .. 300 ]
+sequence
+------EFVKDH--KLFV-DG-SHNPLGAKVLNEYLESL-DCNKHIILGMM-------ANKDHYMSFF--
+---KDIATLTTID-------IPNKELKDNYKQSIEEAIKSIP---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|15827773|ref|NP_302036.1| folylpolyglutamate synthase [Mycoba... [ score 58 E 4e-08 ] [ range 334 .. 414 ]
+sequence
+--PGRLERMRSA--PTVFIDA-AHNPAGANALARTLSDEFNRTLVGVLSVL-------ANKDVILAAL--
+---ELVIVVTDNG-------SPRALDVES-----------------------------------------
+---------*
+>P1;gi|43611553|gb|EAE60525.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 47 .. 178 ]
+sequence
+-WPGRLEIISNN--KKIILDG-SHNIDGAEKLKNYLKLKKIKP-DVLFGML-------NNKKILNTIK--
+---NQITNVLAIK-------IPNENNAKNMNEALKYIKKSDQ---K-ILLITG--SL----YLVGKIRAK
+FL-------*
+>P1;gi|44546746|gb|EAK01259.1| unknown [environmental sequence] [ score 58 E 6e-08 ] [ range 108 .. 228 ]
+sequence
+---GKLKDLVKN--NKLILDS-SHNPGGSKALNEYLDTL-DCKKHIIIGMM-------ANKDKYIAYF--
+---KDIASLTTID-------IPNVQYKKNIKDAI-QSITFEE---NDLLVITG--SL----YLSGE----
+---------*
+>P1;gi|43926718|gb|EAG18293.1| unknown [environmental sequence] [ score 58 E 6e-08 ] [ range 117 .. 238 ]
+sequence
+---GKLKDLCKN--NQLFVDG-SHNPLGAKVLNDYLQTL-KCKKHIILGMM-------ANKDHYISYF--
+---KNISSLTTID-------FPNLNYEKSVEDALKKISTD-N---DDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|44482354|gb|EAJ58268.1| unknown [environmental sequence] [ score 58 E 6e-08 ] [ range 1 .. 110 ]
+sequence
+-----------------MLDG-SHNEDGARVLNEYLQTL-DCNKHFIIGMM-------SNKEKYISHF--
+---KDISSLTTVD-------IPNAKYEDNVEKAIK-SLTLKE---NDMLIITG--SL----YLAGEI---
+---------*
+>P1;gi|43884155|gb|EAF96037.1| unknown [environmental sequence] [ score 57 E 6e-08 ] [ range 8 .. 134 ]
+sequence
+---GKIKNLAKN--NKILVDG-SHNPLGAKVLSKYLSNLNCKK-HIILGMM-------KNKDHEKYIF--
+---FKEVLLTTID-------IPNQENKKSVQEAI-TSLELNE---DDIIIITG--SL----YLAGEVLKL
+---------*
+>P1;gi|43502682|gb|EAE06104.1| unknown [environmental sequence] [ score 57 E 7e-08 ] [ range 214 .. 250 ]
+sequence
+--PGRLETVAAN--PLVVLDG-AHNEDAARALVSALPEIFPE----------------------------
+----------------------------------------------------------------------
+---------*
+>P1;gi|42824911|gb|EAA79786.1| unknown [environmental sequence] [ score 57 E 7e-08 ] [ range 15 .. 139 ]
+sequence
+----------------LVLDG-GHNADALEALALQLEDWQLKNTTVILGMS-------GDKPVLIPML--
+---EKIFIACPFD-------SPRSKPKELLRFLHVEIGSEKK---ENPLVVCG--SF----YLAGEVMKL
+L--------*
+>P1;gi|44501234|gb|EAJ70327.1| unknown [environmental sequence] [ score 57 E 7e-08 ] [ range 57 .. 174 ]
+sequence
+------ELVKNN--KLLV-DG-SHNPLGAKVLNKYLESL-NCNIHIILGMM-------SNKDHYMSYF--
+---KNISSLTTID-------IPNVRYKESIIDAIK-SIPVKE---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|32491060|ref|NP_871314.1| folC [Wigglesworthia glossinidia en... [ score 57 E 7e-08 ] [ range 286 .. 415 ]
+sequence
+--PGRFQIINKK--PFIILDV-AHNPSSAKHLAKKIK-RIKKNFSIIIGML-------SDKDIKNTLK--
+---YFIKIIDISE-------FPRGASCEEISIFLNKINIATK---KDCILIFG--SF----YTIS-----
+---------*
+>P1;gi|44337859|gb|EAI56061.1| unknown [environmental sequence] [ score 57 E 8e-08 ] [ range 186 .. 309 ]
+sequence
+--PGRFEIVSTE--PLKIIDG-AHNVESLNALLSFCSSNSEKGFDIYIGMK-------KDKNTIEEKF--
+---LNIFLIEDNS-------FFAQENKKVFEDFLNFSTRTIK---DNPSILTG--SL----YLVGEYKK-
+---------*
+>P1;gi|44607342|gb|EAK43962.1| unknown [environmental sequence] [ score 57 E 8e-08 ] [ range 106 .. 228 ]
+sequence
+---GKLKDLVKN--NKIYIDG-SHNPLGASVLSKHLNSL-DCNKHIILGMM-------NNKNHVISSL--
+---TTVDIQNQPN-------AINGEYKKSIKEAIK-SIELKN---NDIIIITG--SL----YLAGEV---
+---------*
+>P1;gi|44480520|gb|EAJ56912.1| unknown [environmental sequence] [ score 57 E 8e-08 ] [ range 296 .. 419 ]
+sequence
+---GRLEQVSEQ--PLILLDV-AHNPHAARFLVKQLTPIVAGKRVALCGML-------KDKDIVSPLI--
+---DTWYLVSLQG--------ERGANASLLRQTLAQDTKALP---DDVVIVFG--SF----YTVA-----
+---------*
+>P1;gi|44623045|gb|EAK55250.1| unknown [environmental sequence] [ score 57 E 8e-08 ] [ range 33 .. 154 ]
+sequence
+---GKIKDLCKN--NKIYIDG-SHNPLGSKVLNEYLETLNCNK-HIILGMM-------SNKDKYISYF--
+---KNISSLTTID-------IPNEDLKKKISKFHDAHFKKSE---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|43609953|gb|EAE59716.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 74 .. 204 ]
+sequence
+-WPGRLQIIKKN--QKYYVDG-AHNSYSINQLIKSLKELNSGKYKTIFGYK-------KMLNEISKIS--
+---DALLLVTKFT-------NIKIIEFESVEEAIKYTKN--K---NDTFLVTG--SL----SVAAEALES
+L--------*
+>P1;gi|44442119|gb|EAJ29682.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 283 .. 404 ]
+sequence
+---GKIKNLCKN--NKIFVDG-SHNPLGAKALNKYLETLNCNK-HVIIGMM-------SNKDKNISTL--
+---TTIDIPNQPN-------FPNISYKQTIEEAIK-SLPISN---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|44098476|gb|EAH11827.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 70 .. 191 ]
+sequence
+---GRLKNLCLN--NKLFIDG-SHNPLGAIVLNNFINKIHG-NVHIILGMM-------NNKNHYISYF--
+---KNISSLTTID-------IPNQNYKKSIEEALK-SISLSK---DDVVLITG--SL----YLAGEV---
+---------*
+>P1;gi|43709241|gb|EAF09715.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 73 .. 194 ]
+sequence
+---GKLKDLVKD--NLFLISG-DHNEDGARVLNEYLKSLNCKK-HVIIGMM-------DNKEHEKYIN--
+---HFKDIASITN-------IPNVNYKENIEEAIK-SINLNQ---GDILLITG--SL----YLCSEV---
+---------*
+>P1;gi|44013194|gb|EAG65038.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 254 .. 293 ]
+sequence
+---GRFEVLGSN--PLVVVDG-AHNPPGAQAAAQTLNQSFSSRWKI------------------------
+----------------------------------------------------------------------
+---------*
+>P1;gi|39933152|ref|NP_945428.1| putative folylpolyglutamate synthas... [ score 57 E 1e-07 ] [ range 292 .. 433 ]
+sequence
+-WPARMQRITSG--KLLWLDG-GHNADGAAAALGDLEERVSRPLVLIAGMM-------ANKDNFTGLT--
+---RHLIAVSIPN-------RDRVELADDVRAALRASLAYEL---PPRILITG--SL----YLAGHV---
+---------*
+>P1;gi|42830655|gb|EAA82739.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 45 .. 175 ]
+sequence
+-WPGRLQVVKKN--QKYYVDG-AHNSYSIKQLIKSLKELNSGKYKTIFGYK-------KMLDEISNIS--
+---DTLLLVTKFT-------NIKILEFESVEKAIKHTKN--K---NDTYLVTG--SL----SVAAEALES
+L--------*
+>P1;gi|44478101|gb|EAJ55123.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 106 .. 229 ]
+sequence
+--PGRFEEVSKN--PIKIIDG-AHNASSLETLFSFIEEHTTGDFDIYIGMK-------KMNKIFTKNF--
+---NQIYLISFFE-------QTKRSDFDNYENGITYKVATIG---DNPSILTG--SL----YLVGKYKK-
+---------*
+>P1;gi|43965976|gb|EAG39548.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 165 .. 285 ]
+sequence
+---GKIKDLIKN--NQLLLDG-SHNEDGARVLNEYLQTL-DCNKHFIIGMM-------SNKDKYISYF--
+---KDISSLTTVD-------IPNKKLKEKFKNVLNKTLSLKK---NDILIITG--SL----YLAGE----
+---------*
+>P1;gi|42997010|gb|EAB65408.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 56 .. 188 ]
+sequence
+-WPARSQFISKG--KLIILDG-AHNVSGAKALSKVLSSI-DTEWQLIFGYL-------KTLNELKSIT--
+---QKIITTEITG-------QENSQLFEIIQKPVDKSKNLYE---KLNVCICG--SL----YLAGE----
+---------*
+>P1;gi|44505153|gb|EAJ72954.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 296 .. 417 ]
+sequence
+---GKLKDLVKD--NLFLISG-DHNEDGARVLNEYLKSLNCKK-HVIIGMM-------DNKEKYINHF--
+---NDIASITTVD-------IPNVNYKESIEDAIK-SINLNQ---GDLLLITG--SL----YLCSEV---
+---------*
+>P1;gi|43303073|gb|EAD17278.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 134 .. 255 ]
+sequence
+---GKIKDLCKN--NKIFVDG-SHNPLGAKVLNEYLESLNCNK-HIILGMM-------SNKDHNESSL--
+---TTIDIPNQPN-------FPNINYKESVQDAIKAI-SLSS---NDIVLITG--SL----YLAGEV---
+---------*
+>P1;gi|43145719|gb|EAC38572.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 27 .. 148 ]
+sequence
+---GKIKDLCKN--NKIFVDG-SHNPLGAKALNKYLETLNCNK-HVIIGMM-------SNKDHNEYMF--
+---KNISSLTTVD-------IPNKELKDSYKQTIEDAIKSVP---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|44127802|gb|EAH27653.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 70 .. 202 ]
+sequence
+-WPARSQFIKKG--KLIILDG-AHNVSGAKALSKVLSSI-DTKWQLIFGYL-------KTINELKSIT--
+---QKIITTEITG-------QENSELFEIIQKPVDKSKNLYE---KLNVCICG--SL----YLAGE----
+---------*
+>P1;gi|44471200|gb|EAJ50124.1| unknown [environmental sequence] [ score 56 E 1e-07 ] [ range 296 .. 419 ]
+sequence
+---GRLEQVNEQ--PLILLDV-AHNPHAARFLVKQLTLVTGKRVFALCGML-------KDKDIVSPLI--
+---DTWYLVSLQG--------ERGANASLLRQTLAQDTQIQP---DDVVIVFG--SF----YTVA-----
+---------*
+>P1;gi|43817795|gb|EAF63400.1| unknown [environmental sequence] [ score 56 E 1e-07 ] [ range 61 .. 178 ]
+sequence
+------ELVKNN--KLLV-DG-SHNPLGAKVLNEYLESLNCNK-HIILGMM-------SNKDKNISSL--
+---TTIDIPNQPN-------SIKGKVLKNYKESIIDAIKSIP---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|45526374|ref|ZP_00177580.1| hypothetical protein Cwat237701 [... [ score 56 E 1e-07 ] [ range 277 .. 406 ]
+sequence
+-WLGRIQWIKHN--HSILIDG-AHNPAAAKMLRNYVDTL-DKSVIWIMGML-------STKEHLLRAK--
+---DSLYLVPVPD-------HSTAKPEKNIFSALEKATNEQS---QQVIVIAG--SL----YLIGH----
+---------*
+>P1;gi|42829062|gb|EAA81896.1| unknown [environmental sequence] [ score 56 E 1e-07 ] [ range 1 .. 117 ]
+sequence
+--------------PKIIYDG-AHNPASATALKETIKDYPDYEVGFIFGFL-------EDKDILNAEL--
+---STQYAA--IG-------GVKAEPLE-LREAYEKAKNWAG---NRIIIITG--SL----YLA------
+---------*
+>P1;gi|43077038|gb|EAC04740.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 132 .. 253 ]
+sequence
+---GKLKNLVKN--NRLFVDG-SHNPLGAKAINKYLESLNCDK-HIIIGMM-------NNKDHYMSYF--
+---KNIATLTTVD-------IPNVQYKKSIIEAIK-SIPIKQ---NDMILITG--SL----YLAGEV---
+---------*
+>P1;gi|44147574|gb|EAH38631.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 58 .. 180 ]
+sequence
+---GNLKKLINK--NKLIIDG-SHNALGGKVLSEYFESINNKK-HLIVGMM-------SNKDHLNNFI--
+---NKISSLTTVD-------IPNQQYKNSIKEAL-TSLDLKE---NDVAIITG--SL----YLAGEV---
+---------*
+>P1;gi|44471102|gb|EAJ50049.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 282 .. 411 ]
+sequence
+--PGRQQTISDS--PLVVVDV-AHNPQATTAMQDWLNRYDVSQMRVVVGML-------KDKAPLATLN--
+---AKWYVASTSG--------PRGCKAEVLENALVNAGTTIE---NELILVFG--SF----VTVADV---
+---------*
+>P1;gi|43522903|gb|EAE16130.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 142 .. 279 ]
+sequence
+-WPARVQHLQRG--PFVWLDG-GHNAAAGETLASVAAEWDGRPLFLIFGML-------DSKDPLASHI--
+---QGLYAVAIPG-------EEASSVADALREIVSL---KAP---PARILICG--SL----YLAGQV---
+---------*
+>P1;gi|32412700|ref|XP_326830.1| hypothetical protein ( (AL451017) r... [ score 56 E 2e-07 ] [ range 254 .. 399 ]
+sequence
+-WPGRLQKIDLF--PIILLDG-AHNSQSAEVLAGYVNKHYSQSITWVLAAS-------KGKDVDSIMP--
+---SDHVTAVQFG-------QVDGMPWDDVRAALEWASKAAG---DKPIVVAG--SL----YLVSSV---
+---------*
+>P1;gi|24374589|ref|NP_718632.1| FolC bifunctional protein [Shewanel... [ score 56 E 2e-07 ] [ range 295 .. 418 ]
+sequence
+---GRLEQVSEQ--PLILLDV-AHNPHAARFLVKQLTPIVAGKRVALCGML-------KDKDIVSPLI--
+---DTWYLVTLTQ-------ETKACEFEDIATAWTALKAQIP---DDVVIVFG--SF----YTVA-----
+---------*
+>P1;gi|44585184|gb|EAK28281.1| unknown [environmental sequence] [ score 55 E 2e-07 ] [ range 157 .. 274 ]
+sequence
+------ELVKKN--KLLV-DG-SHNPLGAKVLNEYLESLNCNK-HIILGMM-------SNKDHYMSYF--
+---KNISSLTTID-------IPNVQYRDSIIDAIK-SIPVKE---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|44577299|gb|EAK22869.1| unknown [environmental sequence] [ score 55 E 2e-07 ] [ range 297 .. 419 ]
+sequence
+---GKLKDLVKK--NKIYIDG-SHNPLGASVLSKHLNSLECNK-HVILGMM-------NNKDHIISYF--
+---KDKISVDIPN-------QPNANYKKSIKEAIS-SIDLKD---KDIIIITG--SL----YLAGEV---
+---------*
+>P1;gi|23010586|ref|ZP_00051223.1| COG0285: Folylpolyglutamate synth... [ score 55 E 3e-07 ] [ range 416 .. 557 ]
+sequence
+-WPGRLERMPKD--AELWLDG-GHNADGGRILAAALGERSDAPLVLIVGLL-------GTKDNFTGLA--
+---RSLIAVPITG-------QVAARPAEEVADGLTASIAPSV---EAAVLICG--SL----YLAGAV---
+---------*
+>P1;gi|44519569|gb|EAJ82663.1| unknown [environmental sequence] [ score 55 E 4e-07 ] [ range 276 .. 405 ]
+sequence
+---GRFQEIKYG--KLIYVDG-SHNELGSKVLNEFLETLNCNK-HIIIGMM-------ANKEKYLAYF--
+---KNISSITTID-------IPNVQFKKSIQEAIS-SCKLYE---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|44366102|gb|EAI76188.1| unknown [environmental sequence] [ score 55 E 4e-07 ] [ range 288 .. 420 ]
+sequence
+-WPARSQLINKG--KLIILDG-AHNVSGAKALSKVLSSI-DTKWQLIFGYL-------KTLNELKSIT--
+---QKIITTEITG-------QENSELFDIIQKKLYEAIEIAS---QNKLCICG--SL----YLAGE----
+---------*
+>P1;gi|28207562|gb|AAO32150.1| dihidrofolate synthase; folylpolyglut... [ score 55 E 4e-07 ] [ range 291 .. 432 ]
+sequence
+-WPGRLERMPKD--AELWLDG-GHNADGGRILAAAMADLGERPLVLIVGLL-------GTKDNFVGLA--
+---RSLVAVPITG-------QMAARPAEEVAEIVEAALAALA---DTRVLICG--SL----YLAGAV---
+---------*
+>P1;gi|23108486|ref|ZP_00094706.1| COG0285: Folylpolyglutamate synth... [ score 55 E 4e-07 ] [ range 250 .. 376 ]
+sequence
+-WPARLQRLGHG--PLIWLDG-GHNPDAGRAIARHLEGQP--PVHLIMGML-------ANKDPILRPL--
+---ADISVVPAPG-------HDAHKPEDTVPEALAAL---PP---EGDVLIVG--SL----YLAGEV---
+---------*
+>P1;gi|43126925|gb|EAC29304.1| unknown [environmental sequence] [ score 55 E 4e-07 ] [ range 30 .. 152 ]
+sequence
+---GKLKNIAKN--NKLLIDG-AHNCLGAKVLSDYLDTIESNK-HIIIGMM-------SNKEHFKNKI--
+---NSITTVDIPN-------QPNSSYKNSIEDALK-ALKLEE---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|43784259|gb|EAF46659.1| unknown [environmental sequence] [ score 55 E 4e-07 ] [ range 107 .. 236 ]
+sequence
+-WPGRIHQIRRN--NITILDG-AHNDDSAYVLNQYLTKKSIGKWNLIIGML-------QNRDILKNHI--
+---NKVFAMSIPE-------VESSYSPDEIAQNLENALRLAE---EDPLLITG--SL----YLAG-----
+---------*
+>P1;gi|43459622|gb|EAD84481.1| unknown [environmental sequence] [ score 55 E 5e-07 ] [ range 41 .. 166 ]
+sequence
+---GRFEIINRN--PLKILDG-AHNIDGFIKTIEDYEKVYSKNIENIISYL-------KAKKQYNTFF--
+---NQQNPDKFID-------FLKSENIDY--KIVELSTFSSN---KNPSILLG--SL----YLIGEYKKR
+II-------*
+>P1;gi|43546515|gb|EAE27971.1| unknown [environmental sequence] [ score 55 E 5e-07 ] [ range 71 .. 199 ]
+sequence
+-FPGRLEKYLKN--IPVFLDG-AHNVAGAEQLYDFFKNH-KKNRWLIIGML-------NNKDKIKKIV--
+---KGVIAIKIPD--------EKNSYKNNITQANIFLKEIVK---PDEIIISG--SL----YLLGKVK--
+---------*
+>P1;gi|44391012|gb|EAI94054.1| unknown [environmental sequence] [ score 54 E 5e-07 ] [ range 152 .. 274 ]
+sequence
+---GKLKDLVKN--NKIYIDG-SHNPLGASVLSKHLNSLECNK-HIILGMM-------SNKNHINYFK--
+---DKISSLTTVD-------IPNVNYKKSIKEAI-NSIDLKD---NDIIIITG--SL----YLAGEA---
+---------*
+>P1;gi|44439789|gb|EAJ28085.1| unknown [environmental sequence] [ score 54 E 5e-07 ] [ range 284 .. 405 ]
+sequence
+---GKLKKLVKN--NTLLISG-DHNPDGARVVNEYLQTLDCDK-HIILGMM-------SNKDHYISYF--
+---KNISTLTTID-------IPNVQYKEDIFDAIK-SISVKK---NDVILITG--SL----YLAGEI---
+---------*
+>P1;gi|43943016|gb|EAG27055.1| unknown [environmental sequence] [ score 54 E 5e-07 ] [ range 2 .. 112 ]
+sequence
+----------------LIIDG-THNEDGARVLNEYLQSLNCNK-HIIISMM-------ANKEKDVSSI--
+---TTIDLKTQPN-------SPNVQYQRSIEQAIK-SINLKE---GDLILITG--SL----YGAAEV---
+---------*
+>P1;gi|44564876|gb|EAK14151.1| unknown [environmental sequence] [ score 54 E 6e-07 ] [ range 279 .. 407 ]
+sequence
+-WPGRLQQIKSG--KNIYLDG-FHNIDGMKALIKSLTK--NRKILICKKYI-------QMLSNLSNHF--
+---NKIIVVITED-------LLPKYLKLYFANSLTDSFKMIN---KTTIYFGG--SL----YFIGEV---
+---------*
+>P1;gi|15963784|ref|NP_384137.1| PROBABLE FOLC BIFUNCTIONAL PROTEIN ... [ score 54 E 6e-07 ] [ range 295 .. 438 ]
+sequence
+-WPGRLQRLAGG--RLIWIDG-GHNPHVIAEAMATFEERDPRPLFLIIGMI-------NTKEPIGYFK--
+---AFLDLVPVHG-------SDAGLDPSSVAEALGQIAELTD---EDPVLIGG--SL----YLVGDV---
+---------*
+>P1;gi|43381462|gb|EAD55617.1| unknown [environmental sequence] [ score 54 E 7e-07 ] [ range 175 .. 296 ]
+sequence
+---GKLKELVRN--NRFIVDG-SHNEGGAKALNEYLQTL-DCNKHVIIGMM-------ANKEKDISSI--
+---TTIDLKTQPN-------SISGKYQPDIKQAIK-SINLKK---GDLLLITG--SL----YGAAEV---
+---------*
+>P1;gi|43131856|gb|EAC31757.1| unknown [environmental sequence] [ score 54 E 7e-07 ] [ range 31 .. 152 ]
+sequence
+---GKLKNLCKN--NKIFVDG-SHNALGAKVLNEYLDNLNCKK-HIILGMM-------ANKNHYMSFF--
+---KNISSLTTVD-------IPNHSYKSSIFEAIK-SINLSN---NDIILITG--SL----YLAGEV---
+---------*
+>P1;gi|44503720|gb|EAJ71995.1| unknown [environmental sequence] [ score 54 E 7e-07 ] [ range 38 .. 158 ]
+sequence
+---GKIKDLVKN--NRLILDS-SHNPGGAKVLNEYLQTL-DCNKHVIIGMM-------ANKDKYISYF--
+---KNISSLTTID-------IPNKELKDKFKDFIKDAIQSIP---NDLLLITG--SL----YLSGE----
+---------*
+>P1;gi|43042832|gb|EAB87912.1| unknown [environmental sequence] [ score 54 E 7e-07 ] [ range 15 .. 144 ]
+sequence
+---ARLEEIKSG--KLLIIDS-SHNPGGSKSLNDYLQTLNCNK-HVIIGMM-------NNKDKFISYF--
+---KDISSLTVID-------IPNQVNAENIEQALKD-LQLNQ---NDIVIITG--SI----YLTGEV---
+---------*
+>P1;gi|43674630|gb|EAE92387.1| unknown [environmental sequence] [ score 54 E 7e-07 ] [ range 61 .. 182 ]
+sequence
+---GKIKDLVKN--NKLIVDG-SHNEDGARVLNEYLQTLNCNK-HIIVGMM-------TNKEKDISSI--
+---TTIDLKTQTN-------SPNVQYQPDLEQAIK-SIDCKE---GDLILITG--SL----YGAAEV---
+---------*
+>P1;gi|43616470|gb|EAE62936.1| unknown [environmental sequence] [ score 54 E 7e-07 ] [ range 120 .. 204 ]
+sequence
+-WPGRLEIINKN--KKIILDG-SHNIDGADKLNEFLKNK-RIKPTVLFGML-------NNKNKIKKRV--
+---SKVLAIKIPD-------EKNAFKTKQIKE--------------------------------------
+---------*
+>P1;gi|9758056|dbj|BAB08519.1| folylpolyglutamate synthase-like prot... [ score 54 E 9e-07 ] [ range 340 .. 474 ]
+sequence
+----------------VLLDG-AHTKESARALKEMIKKDFPEKRLVVVAMA-------SDKDHVSLKP--
+---EAVILTEIRS-------TESSVLKESWIKALKLAYKILS---DDMVIVTG--SL----HIVSSV---
+---------*
+>P1;gi|43126602|gb|EAC29142.1| unknown [environmental sequence] [ score 54 E 1e-06 ] [ range 3 .. 124 ]
+sequence
+---GKLKNLVKD--NTLIIDS-SHNPDGSKSLNEYLQTLNCNK-HVIIGMM-------DNKDKFISYF--
+---KDISSLTVID-------IPNKKLKESFSQNIEQALKDLK---NDIVIITG--SI----YLTGEV---
+---------*
+>P1;gi|43225046|gb|EAC78108.1| unknown [environmental sequence] [ score 54 E 1e-06 ] [ range 131 .. 252 ]
+sequence
+---GKLKDLVKN--NKLIIDS-SHNPGGSKAINEYLQTLNCNK-HVIVGMM-------ENKDKFINYF--
+---KNISSLTVID-------IPNQNYVKNIEQALK-ALQLEK---NDIILITG--SI----YLAGEM---
+---------*
+>P1;gi|44411022|gb|EAJ08010.1| unknown [environmental sequence] [ score 54 E 1e-06 ] [ range 317 .. 441 ]
+sequence
+----------------LILDG-GHNADALEALALQLEDWQLTNTTVILGMS-------GDKPVLIPML--
+---EKIFIACPFD-------SPRSKPKELLRFLHVEIGSEKK---ENPLVVCG--SF----YLAGEVMNL
+L--------*
+>P1;gi|44309136|gb|EAI36038.1| unknown [environmental sequence] [ score 54 E 1e-06 ] [ range 71 .. 192 ]
+sequence
+---GRLKKLCLK--NKLFVDG-SHNPLGAIVLNNFINKIHG-NVHIILGMM-------NNKNHYISYF--
+---KNISSLTTID-------IPNQNYKNSIEEALK-SLSLSK---DDVVLITG--SL----YLAGEV---
+---------*
+>P1;gi|44000290|gb|EAG58119.1| unknown [environmental sequence] [ score 53 E 1e-06 ] [ range 1 .. 109 ]
+sequence
+------------------VDG-SHNEDGARALNEYLQSL-DCNKHVIIGMM-------TNKEKNISSI--
+---TTIDLKTQPN-------SPNVQYQPDIEQAIK-SINLKE---GDLLLFTG--SL----YGAAEV---
+---------*
+>P1;gi|44280751|gb|EAI17080.1| unknown [environmental sequence] [ score 53 E 1e-06 ] [ range 59 .. 181 ]
+sequence
+---GNLKRLINN--NTLIVDG-SHNALGGKVLSEYLESIENKK-HLIVGMM-------SNKNHLDNFI--
+---NKISSLTTVD-------IPNQKYKNSVKEAL-ESLELKE---NDIAIITG--SL----YLAGEV---
+---------*
+>P1;gi|43575182|gb|EAE42341.1| unknown [environmental sequence] [ score 53 E 1e-06 ] [ range 129 .. 264 ]
+sequence
+---GRLQKISKG--RLILIDG-AHNPLAASVVKKYLENLTKRKIIMILGMM-------ANKEKFIEIF--
+---KNKIDIITID-------IPNSKTETSIKSALKNIAKKND---SAIIFCTG--SL----YFVGEI---
+---------*
+>P1;gi|43014922|gb|EAB74225.1| unknown [environmental sequence] [ score 53 E 1e-06 ] [ range 81 .. 203 ]
+sequence
+---GKLKDLVKQ--NKIYIDG-SHNPLGASVLCKHLNSLECNK-HIILGMM-------NNKNHIKDKI--
+---SSLTTVDIPN-------QPNANYKKSINEAIK-SIDLKD---NDIIIITG--SL----YLAGEA---
+---------*
+>P1;gi|44111560|gb|EAH18798.1| unknown [environmental sequence] [ score 53 E 1e-06 ] [ range 9 .. 146 ]
+sequence
+-WPARMQKIGNN--FEIWLDG-GHNIHASEIISEILDNWNDDPLVLVLGMV-------KGKDKLINKL--
+---NLLIILPIDD-------HQYIQPYENVDEAIELTKKKVF---RGKVLICG--SL----YLAGQ----
+---------*
+>P1;gi|44476653|gb|EAJ54112.1| unknown [environmental sequence] [ score 53 E 1e-06 ] [ range 5 .. 122 ]
+sequence
+------ELVKNN--KFIV-DG-SHNEGGAKALNEYLQSL-DCNKHVIIGMM-------ANKEKDISSI--
+---TTIDLKTQPN-------SISGKYQPDIKQAIK-SINLKE---GDLLLFTG--SL----YGAAEV---
+---------*
+>P1;gi|23023602|ref|ZP_00062835.1| COG0285: Folylpolyglutamate synth... [ score 53 E 1e-06 ] [ range 306 .. 435 ]
+sequence
+---GRMN-YHAD--KNILFDA-AHNVDGIQGLVSALNSHLKIKPTLILGVL-------EMLDEIIPFV--
+---QRVITVTPNN-------KTRALSADELADASAAIVRESS---QALIVVTG--SF----YTLSAI---
+---------*
+>P1;gi|44403616|gb|EAJ02846.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 288 .. 414 ]
+sequence
+---GRMQQLQSA--PLVIVDV-AHNPHSAAYLAAQLRKMPTGVRRAVVGML-------KDKDMLDGLI--
+---GEWYLASLTG--------PRATTFDSVQAYAAALAASSP---DDMVIVFG--SF----YTVADI---
+---------*
+>P1;gi|44261964|gb|EAI04299.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 281 .. 331 ]
+sequence
+-WPGRLEVINKN--KKIILDG-SHNIDGADKLNEFLKTE-RIKPIVLFGML-------NNKK--------
+----------------------------------------------------------------------
+---------*
+>P1;gi|45520481|ref|ZP_00172011.1| hypothetical protein Mflag214601 ... [ score 52 E 2e-06 ] [ range 290 .. 417 ]
+sequence
+---GRFQLCRHQ--PQVILDV-AHNPHAAWALASNLVQHPVVGRTLVFSML-------ADKDIVVQAT--
+---APHVDAWYRG-------AEASQLRDSVAQASSRQVSMHA---DDRIIVFG--SF----FTVADI---
+---------*
+>P1;gi|43021709|gb|EAB77575.1| unknown [environmental sequence] [ score 52 E 2e-06 ] [ range 11 .. 125 ]
+sequence
+----------------IWLDG-GHNPAAGEAIAAHLSKLKPRPTYAICGML-------NTKDPLASQI--
+---DKLFGISIPD-------EDNSKSCDSLESAFKLIKQNTE---NPRIIICG--SL----YLAGHV---
+---------*
+>P1;gi|15892702|ref|NP_360416.1| folylpolyglutamate synthase [EC:6.3... [ score 52 E 2e-06 ] [ range 284 .. 426 ]
+sequence
+-WPARIEKIGDN--VQIWIDV-AHNNSGAQVLANWMRDNLKSSIYLILGMT-------KNRN-IEEFC--
+---SYFKDLTIKG-------YPLSSASDSLEEAISDIKKING---DNKIIITG--SL----YLASDFYKL
+L--------*
+>P1;gi|44289125|gb|EAI22695.1| unknown [environmental sequence] [ score 52 E 2e-06 ] [ range 275 .. 325 ]
+sequence
+-WPGRLEKVKDK--IPVYLDG-AHNIDGAKKLLNFFKQK-KQKVWIIIGML-------NNKN--------
+----------------------------------------------------------------------
+---------*
+>P1;gi|44454310|gb|EAJ38312.1| unknown [environmental sequence] [ score 52 E 2e-06 ] [ range 290 .. 417 ]
+sequence
+--PGRMQWLSKT--PGVLLDV-AHNPQSAGYLAAQLQFIKGRRVHLLVGML-------KDKDHSLAPF--
+---HSLHLVNLPG-------ARGADLESGYQQAL---LSLQA---NDLLVIFG--SF----VTVSAV---
+---------*
+>P1;gi|15616787|ref|NP_239999.1| folylpolyglutamate synthase; dihydr... [ score 52 E 3e-06 ] [ range 281 .. 405 ]
+sequence
+--PGRFQVISTF--PYIIVDV-AHNPNAAFYLSQKIDEINTGKIYAVVGIL-------KDKDILGIID--
+---PTAPLKTIRT-------ATKHELKKSIEIAYKKALILKK---EDAIIIFG--SF----LTVSE----
+---------*
+>P1;gi|45190296|ref|NP_984550.1| AEL310Cp [Eremothecium gossypii] >g... [ score 52 E 3e-06 ] [ range 260 .. 400 ]
+sequence
+-WPGRLQQVEYD--PL-LFDG-AHNPCAAEELARFLNERYRGPLIYVLAVT-------CEIDALLAPP--
+---HDRVFATSFG-------AVESMPWEDVAAAHVSAVADRG---DANLVVCG--SL----YLVGE----
+---------*
+>P1;gi|15678558|ref|NP_275673.1| UDP-N-acetylmuramyl tripeptide synt... [ score 52 E 3e-06 ] [ range 545 .. 622 ]
+sequence
+--PGRFQELSES--PRIILDY-AHNPAGVRAVMQDLR--GKGRLIVVNTVA-------SDGDREIAAI--
+---LKDADVVIPA-------SYAARRASDI----------------------------------------
+---------*
+>P1;gi|42836531|gb|EAA85734.1| unknown [environmental sequence] [ score 52 E 3e-06 ] [ range 100 .. 230 ]
+sequence
+-WMGRLQKINEG--SLIFIDG-SHNFEGSIVIKKFLNKRKFTKWTLIVGMM-------NNKDIIKDKI--
+---HEVYVIPIQD-------GIRVNYFPSLEKALKIS---DP---EVPLLVTG--SL----YLVGE----
+---------*
+>P1;gi|23335417|ref|ZP_00120653.1| COG0285: Folylpolyglutamate synth... [ score 52 E 3e-06 ] [ range 333 .. 417 ]
+sequence
+--PGRIEQIRTS--PTIILDG-GHNVNAAEALRKAIEESYDFKQ-LVGVVA-------MMRDKLEPIL--
+---SSVVVTENSW-------RERVMPADELEK--------------------------------------
+---------*
+>P1;gi|34540282|ref|NP_904761.1| folylpolyglutamate synthase [Porphy... [ score 52 E 3e-06 ] [ range 300 .. 423 ]
+sequence
+---GRWQQLAEQ--PRIVCDT-GHNEDGFRLITEQLRRQTYRQLRIVFGMV-------NDKD-ITAVL--
+---AAVYYFTRAS-------VDRALPEDDLREALEAARREAA---DDFIFVGG--SN----FIVAD----
+---------*
+>P1;gi|43142776|gb|EAC37115.1| unknown [environmental sequence] [ score 52 E 3e-06 ] [ range 67 .. 209 ]
+sequence
+-WPARLQNLRTG--PLIWLDG-GHNMAAGQAMANFLSKPFDGKNYLICGMI-------NSKDPFRKVL--
+---SGVIGIKIPN-------EGSSRTKDDISFAVKKILSRDT---NQRILIGG--SL----YLSGHV---
+---------*
+>P1;gi|44387950|gb|EAI91895.1| unknown [environmental sequence] [ score 52 E 4e-06 ] [ range 323 .. 411 ]
+sequence
+---GRLEQIKEL--PNIFLDY-AHTPEALKTAINALKEHYKKKITVVFGRK-------LMGKIANQLC--
+---NKVIITD--D-------NPRNESPKIIREQI------------------------------------
+---------*
+>P1;gi|37523061|ref|NP_926438.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 52 E 4e-06 ] [ range 330 .. 424 ]
+sequence
+--PGRMERVSDD--IAVIVDY-AHTPDGLRKLLEATRPFVRGRLICVFGCG-------GDRDRIAAEL--
+---SDLPVVTS-D-------NPRTENPEAI---LDDILAGIP----------------------------
+---------*
+>P1;gi|34580413|ref|ZP_00141893.1| folylpolyglutamate synthase [Rick... [ score 52 E 4e-06 ] [ range 284 .. 426 ]
+sequence
+-WPARIEKIEDN--VQIWIDV-AHNNSGAQVLANWMRDNLKSSIYLILGMT-------KNRN-IEEFC--
+---SYFKDLTIKG-------YPLSHSAETIHEAISDIKKING---DNKIIITG--SL----YLASDFYKL
+L--------*
+>P1;gi|42546438|gb|EAA69281.1| hypothetical protein FG10379.1 [Gibbe... [ score 52 E 4e-06 ] [ range 291 .. 436 ]
+sequence
+--PGRLETVRDS--PDILVDG-AHNMLGIEALASYVDKRPDVPVTWVMGML-------EIIDKLVQPH--
+---DNFAMVEFSQ-------GPRSLLPPDISAALPWAVAKSE---GGPVVVTG--SL----YLIRQ----
+---------*
+>P1;gi|23308932|ref|NP_601576.2| folylpolyglutamate synthase [Coryne... [ score 52 E 4e-06 ] [ range 315 .. 450 ]
+sequence
+--PGRLERLRSA--PTVFIDA-AHNPHGAAALGAALDRDFERRLIGVIGVL-------CDKDALDAYD--
+---LAEYAREIYG-------DERVHVQEDLAGAVELAIELAE---DTDVVITG--SI----VTAGDAR--
+---------*
+>P1;gi|40854|emb|CAA38863.1| UDP-MurNac-pentapeptide presynthetase (... [ score 196 E 1e-49 ] [ range 313 .. 447 ]
+sequence
+-VPGRLFPIQLAENQLLLDDSYNANVGSM-AAVQVLA--EPGYRVLVVGDMELGAESEACHVQVGEAAKA
+AGIDRVLSVGKQSHAISTASG-VGEHFADKTALITRLKLLIAEQQVITILVKG--SRSA----MEEVVRA
+LQ-------*
+>P1;gi|26246019|ref|NP_752058.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 195 E 2e-49 ] [ range 313 .. 447 ]
+sequence
+-VPGRLFPIKLAENQLLLDDSYNANVGSM-AAVQVLA--EPGYRVLVVGDMELGAESEACHVQVGEAAKA
+AGIDRVLSVGKQSHAISTASG-VGEHFSDKTALIARLKSLIAEQQVITILVKG--SRSA----MEEVVRA
+LQ-------*
+>P1;gi|16763514|ref|NP_459129.1| D-alanine-D-alanine ligase [Salmone... [ score 185 E 2e-46 ] [ range 313 .. 447 ]
+sequence
+-VPGRLFPIQLSENQLVLDDAYNANVGSM-AAVQVLS--EPGYRVLVVGDMELGAESEACHLQVGEAAKA
+AGIDRVLSTGKLSQAISHASG-VGEHFADKAALIARLHALLQEQPMMTILVKG--SRSA----AMEVVHA
+LQ-------*
+>P1;gi|37527522|ref|NP_930866.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 171 E 2e-42 ] [ range 320 .. 454 ]
+sequence
+-VPGRLFPINLAEGKLLLDDTYNANVGSM-VAVQVLS--QPGYRVLVVGDGALGEQSADYHRQIGETVAS
+CGINSVFSVGKLSIHVSEASG-CGQHFADKAALIATLVPLLQQHKVFSVLVKG--SRTT----MEDVVHA
+LQ-------*
+>P1;gi|16120879|ref|NP_404192.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 171 E 2e-42 ] [ range 319 .. 453 ]
+sequence
+-VPGRLFPVPLAEGQLLLDDSYNANVGSM-AAAQVLA--EPGYRVMVVGDMELGETAADCHRQVGEAAKL
+AGVDKVLSVGTLSQILSSASG-NGEHFQDQNTLSTRVNALLNEYPVITVLIKG--SRSA----AMEVVRA
+LQ-------*
+>P1;gi|43967481|gb|EAG40386.1| unknown [environmental sequence] [ score 166 E 7e-41 ] [ range 197 .. 322 ]
+sequence
+-VPGRLFPITLAENQLLLDDSYNANVGSM-AAVQVLS--EPGYRVLVVGDMELGTESAACHRQVGEAAKA
+AGLDRVLSTGVLSAEISRASG-VGEHLSDKASLVARLRELTAEHKIITILVKG--SRSA----A------
+---------*
+>P1;gi|17547567|ref|NP_520969.1| PROBABLE UDP-N-ACETYLMURAMOYLALANYL... [ score 159 E 1e-38 ] [ range 328 .. 460 ]
+sequence
+-VKGRLQRKPGHHGGLVIDDTYNANPDSV-AAIDALA--TPAPRWLVLGDMEVGTQGPAFHREIGAYARE
+RGIDAVLATGELARHMVEAFG-GGRHFASAEALIEQGVPAIAPG--ATVLVKG--SRFM----RMEIVDA
+L--------*
+>P1;gi|44039087|gb|EAG79385.1| unknown [environmental sequence] [ score 157 E 6e-38 ] [ range 56 .. 188 ]
+sequence
+-VKGRLQRKQGTHGGLVIDDTYNANPDSM-AAIDALV--TPAPRWLVLGDMEVGSKGPAFHEEIGAYARA
+RGIDAVLATGELARHTVDAFG-PGQHFASAEDLIEHGVPAIAP--AATVLVKG--SRFM----RMEIVEA
+L--------*
+>P1;gi|44236677|gb|EAH86857.1| unknown [environmental sequence] [ score 156 E 1e-37 ] [ range 313 .. 443 ]
+sequence
+-VKGRINVTVASDKLRLIDDTYNANSEST-AAIDLLA--YPGFRVLVFGDMELGADARLYHEEVGLYAKQ
+KGINLLFTLGVLSQSASDLFG-QGAHFSSRQQLIQKLSPILDEQSSSTVLVKG--SRSA----KMELV--
+---------*
+>P1;gi|30248990|ref|NP_841060.1| murF; UDP-N-acetylmuramoylalanyl-D-... [ score 150 E 5e-36 ] [ range 317 .. 451 ]
+sequence
+-VPGRLQKKTGLNRSVLIDDTYNANPDSM-AALNVLA--EPGKKILIIGDMELGADTATFHHRIGQQAAS
+AGVDILLALGESSRQAVAGFG-RGQHFADLDTLLEKAKSCLDEQHVF-VLVKG--SRFM----QMEVIEQ
+LQ-------*
+>P1;gi|15616838|ref|NP_240050.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 150 E 6e-36 ] [ range 314 .. 443 ]
+sequence
+-VSKRLESIILEPNKILIDDTYNSNVSSM-SAIKVLE--MPGYKILVTGDMELGENSMMYHQMIGNTANS
+SAINKIFSIGDMSSEITKIFN-NGKHFLNKKKLSEYLKNVFLKKKKITILVKG--SRST----KMEKV--
+---------*
+>P1;gi|16273060|ref|NP_439292.1| UDP-MurNAc-pentapeptide synthetase ... [ score 150 E 7e-36 ] [ range 315 .. 452 ]
+sequence
+-VKGRLFPIQVTPNLLLLDDTYNANKDSC-AAIDVLK--GYAFRILCVGDMELGENSLAIHREVGQYINL
+VNLDLVCSYGNESAVISEAVS--GKHFTDKTEMVDFLVPLIQQNKKVVVLGKG--SRSM----KMEVIYS
+LK-------*
+>P1;gi|15602003|ref|NP_245075.1| MurF [Pasteurella multocida] >gi|12... [ score 147 E 4e-35 ] [ range 318 .. 455 ]
+sequence
+-VKGRLYPVQPCDNLLLLDDTYNANVDSQ-SAIRVLK--YDAFRILVVGDMELGENSQICHQQVAECAKA
+AKLERVYSFGSESAVISQAC--LGKHFTDKAELTQLLSEKLKENQKIVLLAKG--SRMQ----MEDVINT
+LR-------*
+>P1;gi|44591113|gb|EAK32519.1| unknown [environmental sequence] [ score 147 E 4e-35 ] [ range 316 .. 453 ]
+sequence
+-VKGRLQVKQAIAGSLVVDDTYNANPDSM-AAIDVLA--QPAPRVLVIGDMEVGDEGPAFHREVGAYARE
+RGIDVLFALGEASRDACTAYG-DARHFDDVGALVEALLAA-GYGAQATLLVKG--SRYM----KMEVVDA
+L--------*
+>P1;gi|22982610|ref|ZP_00027854.1| COG0770: UDP-N-acetylmuramyl pent... [ score 147 E 4e-35 ] [ range 318 .. 451 ]
+sequence
+-VKGRLQVKQGVAGATVIDDTYNANPDSM-AAIDVLA--RPAPRVLVMGDMEVGDNGPAFHREIGAYARD
+RGIDALYAMGDASRDACTAYG-NAHHVADIGTLVAQLQQA-GFGPAATLLVKG--SRFM----QMERV--
+---------*
+>P1;gi|34499802|ref|NP_904017.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 146 E 9e-35 ] [ range 314 .. 445 ]
+sequence
+--KGRLQIKQSPRGLTVIDDSYNANPDSM-KAIDVLA--GPGPRCFVMGDGELGEAAPALHAEVGEHARL
+RGIEQLFALGEASRAVQAFGG-AGQGFDSIDELLECLDSRLASG--TAVLVKG--SRFM----RMEVVEH
+L--------*
+>P1;gi|44280110|gb|EAI16655.1| unknown [environmental sequence] [ score 146 E 1e-34 ] [ range 316 .. 449 ]
+sequence
+-VKGRLQVKRTLAGATVIDDTYNANPDSM-AAIDVLA--RESPRVLVMGDMEVGDNGPAFHREIGAYAKE
+RGIDALYAMGDASRDACTAYG-PGHHVADIGTLVAQLQQA-AFGSAATLLVKG--SRFM----QMERV--
+---------*
+>P1;gi|41724930|ref|ZP_00151740.1| hypothetical protein Daro158901 [... [ score 145 E 1e-34 ] [ range 314 .. 443 ]
+sequence
+-VKGRLQRRTGKQGAEILDDTYNANPDSV-AGIDVLA--ATGRKLLVLGDMEIGEASGQYHDEIGGYAKS
+QGIDRLFALGEAAQQAVRNFG-EGKHYCNVDKLIAAVDKEL--GPETTVLVKG--SRFM----KMERVA-
+---------*
+>P1;gi|44604113|gb|EAK41633.1| unknown [environmental sequence] [ score 145 E 2e-34 ] [ range 310 .. 442 ]
+sequence
+-VKGR-FCVQRWGGLTLVDDTYNASVESV-AGIDALA--MSGYKVLVFGDMELGEESAEQHARVGRHASE
+RGLDAVLTVGEQSRHTADAA--AGRHFDNKASLFEVLAQMINTHQEIAILVKG--ARSR----MEDIVEM
+VK-------*
+>P1;gi|22977735|ref|ZP_00023521.1| COG0770: UDP-N-acetylmuramyl pent... [ score 144 E 3e-34 ] [ range 323 .. 459 ]
+sequence
+-VKGRLQVKHTPAGTVVIDDTYNANPDSM-AAIDVLA--GFAPRLLVLGDMEVGDQGPMFHTEIGAYARE
+RGIDALWATGELAHAVQAYGG-GARYFARAEDLAQALEAD-KEGTVAAVLVKG--SRFM----RMERVDA
+L--------*
+>P1;gi|15676328|ref|NP_273464.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 144 E 3e-34 ] [ range 316 .. 453 ]
+sequence
+-IKGRLNVKSGIKGATLIDDTYNANPDSM-AAIDVLA--MPAPRIFVMGDMELGEEAAAMHAEVGAYARD
+QGIEAAYFVGDNSVEAAEKFG-AGLWFAAKDPLIQVLRHDLPE--RATVLVKG--SRFM----MEEVVEA
+LE-------*
+>P1;gi|33593958|ref|NP_881602.1| Possible murein precusor biosynthes... [ score 144 E 4e-34 ] [ range 799 .. 925 ]
+sequence
+-VAGRMQHRQMSDGTVLIDDTYNANPDSA-AAIDVLA--RPAPRALVLGDMEVGDNGPAMHREVGDYARE
+HGIDALITLGEASRDAAHAFG-PAARAASVDEVVAALRGL----RPSSILIKG--SRFM----RMERV--
+---------*
+>P1;gi|23466545|ref|ZP_00122133.1| COG0770: UDP-N-acetylmuramyl pent... [ score 143 E 9e-34 ] [ range 322 .. 454 ]
+sequence
+-VKGRLFPIEPCPNLLLLDDTYNANVSSK-SAIDVLR--QYDKRIFAVGDMELGGNSVSCHKQVADFAQM
+ANLDLVVSFGTQSAVISSACD--GVHFSDKTELVNYIIPIIQQKQKVVLLVKG--ARCM----QMEDV--
+---------*
+>P1;gi|37678794|ref|NP_933403.1| UDP-N-acetylmuramyl pentapeptide sy... [ score 143 E 1e-33 ] [ range 314 .. 446 ]
+sequence
+-VKGRVDVQQLSDNIKLIDDSYNASVPAM-AAVDLLS--FTGQRWLVLGYMELGNESLALHRQVGEHAAP
+LNFEHVLTYGEDTRIISQLCG--GKHFSDHGELIEYIKQNLANENEATVLVKG--ANSA----GMSKVAA
+---------*
+>P1;gi|15599612|ref|NP_253106.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 142 E 1e-33 ] [ range 320 .. 450 ]
+sequence
+-VKGRAVAQLTASGLRVIDDSYNANPASM-AAIDILS--GSGRTVLVLGDMELGSWAEQAHREVGAYA-A
+GKVSALYAVGPLMAHAVQAFG-AGRHFADQASLIGALA---TEQPTTTILIKG--SRSA----AMDVVAA
+L--------*
+>P1;gi|42631436|ref|ZP_00156974.1| COG0770: UDP-N-acetylmuramyl pent... [ score 142 E 1e-33 ] [ range 315 .. 452 ]
+sequence
+-VKGRLFPIQVTPNLLLLDDTYNANKDSC-AAIDVLS--YDAFLILCVADMELGENSLAIHREVGQYVNL
+VNLDLVCSYGNESAVISEAV--LGKHFTDKTEMVDFLVPLIQQNKKVVVLGKG--SRSM----KMEVIYS
+LK-------*
+>P1;gi|11761331|dbj|BAB19198.1| MurF [Shewanella violacea] [ score 142 E 2e-33 ] [ range 313 .. 445 ]
+sequence
+-VKGRMLPTQLGR-VRVIDDSYNANPAST-AAVDWLH--EEGHRCLVLGDGELGDNAPLLHTELGELARQ
+KGLDSLLTLGELSANASSAFG-VDGYISLELLLEDLIKNIKQLQGNVTVLVKG--SRSA----RMEVVEA
+L--------*
+>P1;gi|29653482|ref|NP_819174.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 141 E 3e-33 ] [ range 311 .. 443 ]
+sequence
+-VKGRLVEQKGYRGAIIIDDSYNANPLSV-AAIAVLA--RPGHSVLVLGDMELGQGAEQFHQEIGKRAFE
+AGVKQLYCYGTLTKHTANAFG-KNRHFDNQEKLLTALKNDL--NANAVVLVKG--SLSM----RMNIAHA
+L--------*
+>P1;gi|32033802|ref|ZP_00134087.1| COG0770: UDP-N-acetylmuramyl pent... [ score 140 E 4e-33 ] [ range 174 .. 309 ]
+sequence
+-VKGRLYPVEVNDHCLFIDDTYNANVDSM-KAVSVLK--NPAFRIFAVGDMELGGESEACHQQVADFVRE
+ANLDLVVSFGKQSAVISH--D-TAHHFTDKQAMHDFLLPIIAEKQPLVLLAKG--SRSQ----KMETISA
+L--------*
+>P1;gi|26988067|ref|NP_743492.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 140 E 5e-33 ] [ range 316 .. 447 ]
+sequence
+-VKGRTVAQIAPNGVRVIDDSYNANPTSM-AAIDILA--GSGRTVLVLGDGELGQWAEEGHRQVGDYARG
+K-VDALYAVGNMTHAVKAFGA-NGRHFATQAELIDAVSAENASD--TTILIKG--SRSA----AMEVVAA
+L--------*
+>P1;gi|42947689|gb|EAB40841.1| unknown [environmental sequence] [ score 140 E 6e-33 ] [ range 163 .. 286 ]
+sequence
+----RLTKTKWIRGSILIDDSYNANPDSK-KSIDLLS--CYKKRFFILGDMELGRYRKKLHKNIGEYANA
+KGIDFLIGYGELAYAIESFGK-NGVFFKKEEELKTYLKEKVTSKDV--ILIKG--SRGM----KME----
+---------*
+>P1;gi|44286820|gb|EAI21137.1| unknown [environmental sequence] [ score 140 E 6e-33 ] [ range 318 .. 446 ]
+sequence
+-VKGRMQPTQLGR-VRLIDDSYNANPVSV-AAIAWLK--ESENRCLVLGDGELGDNAPLLHAELGQLAKQ
+QGIDALFCTGTLTQYTSQAFG--AEHHDSVATLVEKLIKHINQLPGVTVLVKG--SRSA----AMERV--
+---------*
+>P1;gi|44351970|gb|EAI66136.1| unknown [environmental sequence] [ score 139 E 1e-32 ] [ range 285 .. 414 ]
+sequence
+---GRCEIKKL-KNMTIIDDTYNANLEST-AAIDYLS--GNGRRILIFGDMELGKESRNQHIKVGQKCAD
+SDLDIVFTVGNESVATDESIS-SGLHFNTKEDLIKKLKAEVMDGD--KILVKG--SRGM----AMETI--
+---------*
+>P1;gi|43135377|gb|EAC33502.1| unknown [environmental sequence] [ score 139 E 1e-32 ] [ range 87 .. 210 ]
+sequence
+----RQIKHKWLKGSTLIDDSYNANPDST-KSIDLLS--NYNKKILLLGDMELGTFKKKLHKEIGEYAKS
+KGINKLIAFGELTHSIEAFGK-NGIFFNDEANLKNYLRKNITSKNV--ILIKG--SRGM----KME----
+---------*
+>P1;gi|23103638|ref|ZP_00090116.1| COG0770: UDP-N-acetylmuramyl pent... [ score 139 E 1e-32 ] [ range 316 .. 447 ]
+sequence
+-VKGRAVAQFAPSGVRVIDDSYNANPASM-AAIDILA--GSGRTLLALGDMELGAWAEEGHRQVGAYA-A
+GKVDALYAVGPMTHAVAAFGK-GGRHFADQAGLLEALCSE--QHPDTTILIKG--SRSA----AMDIVSA
+L--------*
+>P1;gi|43130687|gb|EAC31188.1| unknown [environmental sequence] [ score 139 E 1e-32 ] [ range 89 .. 217 ]
+sequence
+----RLLPRAGYAGALVIDDAYNANPAAT-AAIKTLA--SPGRKILVMGEMSLGDMADVRHQEVAQWAQE
+ASIDALYAVGELCRSMSQAFG-EGYHFVSKQALIEALRSTLAADDV--VLVKG--SRGS----AMDTVAA
+---------*
+>P1;gi|44205852|gb|EAH69436.1| unknown [environmental sequence] [ score 137 E 4e-32 ] [ range 83 .. 206 ]
+sequence
+----RQVKYKWLKGSTLIDDSYNANPDST-KSIDLLS--NYNNKVLLLGDMELGRYKNKLHKEVGKYAKS
+KGISKLIAYGNLTHSIDGFGK-NGVFFDDETNLKNYLRKNITSNNV--ILIKG--SRGM----KME----
+---------*
+>P1;gi|33151487|ref|NP_872840.1| UDP-MurNAc-pentapeptide synthetase ... [ score 137 E 4e-32 ] [ range 321 .. 451 ]
+sequence
+-VKGRLCPLPINRYCLLIDDTYNANVDSM-KAVQVLK--NYAFRIFAVADMELGKDSVACHQEVADFVRE
+AELDLVVSFGKESAVISNQST---HHFTDKQAMHNFLMPIIAEKQPLVLLAKG--SRSQ----KMET---
+---------*
+>P1;gi|23061172|ref|ZP_00086031.1| COG0770: UDP-N-acetylmuramyl pent... [ score 137 E 7e-32 ] [ range 316 .. 447 ]
+sequence
+-VKGRTVAQLAKNGMRVIDDTYNANPTSM-AAVDILA--GSGRTVLVLGDGELGDWAEQGHRDVGEYARG
+K-VSALYAVGPNMHAVSAFGN-EAQHFGTQAELIQALGAE--QDTNTTILIKG--SRSA----AMEIVAA
+L--------*
+>P1;gi|23468791|ref|ZP_00124126.1| COG0770: UDP-N-acetylmuramyl pent... [ score 136 E 8e-32 ] [ range 359 .. 490 ]
+sequence
+-VKGRAVAQIASNGTRVIDDTYNANPASI-AAVDILT--GTGRTVLVLGDGELGDWAEQGHREVGAYA-A
+GKVSALYAVGPMTHAVSAFGE-HAYHFASQAELIAALGAE--QDPDTTLLIKG--SRSA----AMEVVAA
+L--------*
+>P1;gi|27468598|ref|NP_765235.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 136 E 1e-31 ] [ range 318 .. 450 ]
+sequence
+----RMERHESSNNVTVINDAYNASPTSM-AAIDTLS--MKGRKILILADVELGPNSQLMHKQVGEYLKD
+KNIDVLYTFGKEASYIYDFVK-EAKYFDNKDQLIQTLISQVKPED--KVLVKG--SRGM----KEEVVDA
+L--------*
+>P1;gi|44356551|gb|EAI69362.1| unknown [environmental sequence] [ score 135 E 1e-31 ] [ range 14 .. 137 ]
+sequence
+----RQVKYKWLKGSTLIDDSYNANPDST-KSIDLLS--NYNKKVLLLGDMELGRYKNKLHKEVGEYAKS
+KGISKLIAFGNLTHSIDGFGK-NGIFFNDETKLKNYLRKNITSKNV--ILIKG--SRGM----KME----
+---------*
+>P1;gi|44184604|gb|EAH58093.1| unknown [environmental sequence] [ score 135 E 1e-31 ] [ range 119 .. 242 ]
+sequence
+----RQIKSKWIKGATLIDDTYNANPDST-KSIDLLS--NYKKTVLVLGDMELGRYKNKLHKEIGKYAKA
+KGINILLGYGNLTKQTTDIFG-KGIFFKKEDDLKAYLKENITSKDV--ILIKG--SRGM----KME----
+---------*
+>P1;gi|44204360|gb|EAH68611.1| unknown [environmental sequence] [ score 135 E 1e-31 ] [ range 130 .. 253 ]
+sequence
+----RQRILSWRNKSTLIDDTYNANPESV-KSIDVLS--ESGRKIFVFGDMELGRFRKKLHVDIGSYAKN
+SKIDILITFGELSKFASSGFK-KSYNFYNEEQLKEFIANFVKKNDI--VLIKG--SRGM----RME----
+---------*
+>P1;gi|44237755|gb|EAH87592.1| unknown [environmental sequence] [ score 134 E 3e-31 ] [ range 317 .. 440 ]
+sequence
+----RQKILSWRNKSTLIDDTYNANPESA-KSIDVLS--ESGRKIFIFGDMELGRFRKKLHVDVGSYAKN
+SKIDILITFGELSKYASSGFK-KSYNFYNEEQLKEFIANFIKKNDI--VLIKG--SRGM----KME----
+---------*
+>P1;gi|23029057|ref|ZP_00067423.1| COG0770: UDP-N-acetylmuramyl pent... [ score 134 E 4e-31 ] [ range 331 .. 461 ]
+sequence
+--KGRMQLARVNEKLTVIDDTYNASPGSK-AAIDYAA--QFERSAIVLGDMELGEMRNSAHEEIGRYAQQ
+KQIKQLWCTGEASRFTAQGYG-PAKWFEDKEQLKQALPMLCSSE--VVVLVKG--SRST----RMEIVNA
+L--------*
+>P1;gi|44512852|gb|EAJ78128.1| unknown [environmental sequence] [ score 133 E 6e-31 ] [ range 317 .. 440 ]
+sequence
+----RQRILSWRNKSTLIDDTYNANPESV-KSIDVLS--ESGRKIFIFGDMELGRFRKKLHMDIGSYAKN
+SKIDILITFGELSKFASSGFK-KSYNFYNEEQLKAFIADFIKKNDI--VLIKG--SRGM----KME----
+---------*
+>P1;gi|44594890|gb|EAK35117.1| unknown [environmental sequence] [ score 133 E 7e-31 ] [ range 192 .. 327 ]
+sequence
+-VKGRSRAFSVSRDITVVDDTYNANPDSM-AAIQVLA--EPGPQLLVMGDMEVGDQGPQFHAEAGALARE
+AGIPTMFVLGAQSVHAASAYG-DGRHFNEMAALQDAVRNALP--TVGSVLVKG--SRFM----KMEVVEA
+I--------*
+>P1;gi|43690002|gb|EAF00189.1| unknown [environmental sequence] [ score 133 E 7e-31 ] [ range 87 .. 217 ]
+sequence
+--KGRC-EVKNNGSYVVIDDTYNANLEST-AAIDYLS--GEGKKIFIFGDMELGDLSVDQHMAVGRKCDE
+INLEAVLTYGNHAQSTTETIK-INHHFKTKAELSEFASEIISPKD--KVLVKG--SRGM----KMETI--
+---------*
+>P1;gi|44632089|gb|EAK61779.1| unknown [environmental sequence] [ score 133 E 8e-31 ] [ range 318 .. 442 ]
+sequence
+----RQRKTKWLNGSTLIDDTYNANPDST-KSIDLLC--NYNKKILILGDMELGKFTKNLHKEIGIYAKE
+KGIDNFLGFGNLTKVAVDAFG-KGFFFNGEKDLKAYIKDNISSKDI--ILIKG--SRGM----KME----
+---------*
+>P1;gi|45520614|ref|ZP_00172142.1| hypothetical protein Mflag203101 ... [ score 133 E 9e-31 ] [ range 311 .. 444 ]
+sequence
+-VKGRLQRKPGRHGALLIDDTYNANPASM-AAIDVLA--SSGKRLLVVGDMELGENEAALHAELGAYAKA
+AGVDALHALGRLSAGAVEAYG-PGASHHETVE-GLAAALLPALDADTTVLVKG--SRFM----RMEVIDL
+LQ-------*
+>P1;gi|44356275|gb|EAI69154.1| unknown [environmental sequence] [ score 133 E 1e-30 ] [ range 311 .. 440 ]
+sequence
+---GRCNVKHFND-ITIIDDTYNANLASS-AALEYLS--SDGRRIFVFGDMELGKTSNEQHRRVGERCSE
+LGIDSVYTIGNYTKHTGSAIR-NGVHFNSKKSLIDSLKEDIQAGD--KILFKG--SRSM----AMEKV--
+---------*
+>P1;gi|28871547|ref|NP_794166.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 132 E 1e-30 ] [ range 317 .. 448 ]
+sequence
+-VKGRAVAQIASNGVRVIDDTYNANPGSI-AAVDILT--GTGRTVLVLGDGELGEWAEQGHHDVGAYA-A
+GKVSALYAVGPMTHAVSAFGE-HAYHFASQAELIAALGAE--QDPNTTLLIKG--SRSA----AMEVVAA
+L--------*
+>P1;gi|43557565|gb|EAE33536.1| unknown [environmental sequence] [ score 131 E 2e-30 ] [ range 18 .. 142 ]
+sequence
+----RQIKSKWINGSVLIDDTYNANPDST-KSIDLLS--NYNKTVLILGDMELGRYKKQLHKEVGVYAKK
+RGINIILGYGDLTKYAVDGFG-KAIFFKDEENLKSYLRENITSKDV--ILIKG--SRGM----KMEK---
+---------*
+>P1;gi|44342024|gb|EAI59014.1| unknown [environmental sequence] [ score 131 E 3e-30 ] [ range 280 .. 410 ]
+sequence
+--KGRC-EVKNNGSYIIIDDTYNANLEST-AAIDYLS--GQGEKVFIFGDMELGDVSREQHIAIGKKCDE
+MELSAVLTYGKETIATSESVK-INQHFDSKEELIDFLQKIIKSND--KILIKG--SRGM----RMETI--
+---------*
+>P1;gi|32490959|ref|NP_871213.1| murF [Wigglesworthia glossinidia en... [ score 130 E 4e-30 ] [ range 319 .. 453 ]
+sequence
+--KRRLFPIFLNKNKIIIDDSYNANVGSM-SAISVLN--NPGYKIIIIGDIELGKQKEIIHKNIGFFISK
+SKINKVFSIGYLSYFSSIFSK-KGKHFYNIDYLISETIKMISRYPIITVLIKG--SNKT----AYNIVKM
+LQ-------*
+>P1;gi|44548799|gb|EAK02701.1| unknown [environmental sequence] [ score 130 E 6e-30 ] [ range 318 .. 441 ]
+sequence
+----RQIKSKWINGSTLIDDTYNANPDST-KSIDLLS--NYKKTVLVLGDMELGRYKKKLHKEIGIYAKK
+KGINTILGYGDLTKYTIEGFG-KGRFFKDEKNLKFYLKENITSKDV--ILMKG--SRGM----KME----
+---------*
+>P1;gi|21283734|ref|NP_646822.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 130 E 6e-30 ] [ range 318 .. 450 ]
+sequence
+----RMEQHTLENDITVINDAYNASPTSM-AAIDTLS--TTGRRILILGDVELGENSKEMHIGVGNYLEE
+KHIDVLYTFGNEAKYIYDSGQ-KAQHFNSKDDMIEVLTSDLKAHD--RVLVKG--SRGM----KEEVVNA
+L--------*
+>P1;gi|44263043|gb|EAI05023.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 304 .. 433 ]
+sequence
+---GRC-EVKNNGSYVVIDDTYNANLEST-AAIDYLS--GEGKKIFIFGDMELGDLSVNQHMAVGKKCDE
+INLEAVLTYGNHTYSTNEAVK-INHHFKTKTELAEFASEIISPHD--KVLVKG--SRGM----EMETI--
+---------*
+>P1;gi|28897230|ref|NP_796835.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 128 E 2e-29 ] [ range 316 .. 451 ]
+sequence
+-VKGRVDVEQLSSTIKLIDDSYNASVPAM-AAVDLLA--FHGQRWLILGNMELGEESLALHRQVGEHAAP
+QKFEHVLTYGADAKIISELC--HGIHFETHQEMIDYIKQHLDQTDQHTILVKG--ANGA----RMEVAAA
+LK-------*
+>P1;gi|27904703|ref|NP_777829.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 128 E 2e-29 ] [ range 320 .. 449 ]
+sequence
+-LKNRLQIIRLNKYKTIINDTYNANTASM-VAIKILE--NSGYKLFVAGDMELGKNDVLYHKIIGNTIYN
+SNINEVFSIGKLSKEISIASK-KGHHFYNSDELLKNLKNKLLNKKIITILVKA--SRSE----KLDVI--
+---------*
+>P1;gi|44451509|gb|EAJ36395.1| unknown [environmental sequence] [ score 127 E 4e-29 ] [ range 1 .. 123 ]
+sequence
+-----------NGKITIIDDTYNANVEST-AAIDYLS--GNGKKIFIFGDMELGEFSTKQHSDVGKKCKE
+VELSAVLTIGRETIATDNEFD-IHKHFDNKNDLISYYNEICEKNDQ--VLIKG--SRGM----QMEKI--
+---------*
+>P1;gi|43291126|gb|EAD11401.1| unknown [environmental sequence] [ score 127 E 4e-29 ] [ range 121 .. 249 ]
+sequence
+--KGRC-RILNYKSITIIDDTYNANLESC-AAIDYLA--GDGRKIVVLGDMELGDASKEQHEKLGLKCSE
+ASLDAVFTIGKYTQSVIKGVP-INMYYDDRGALVSYLKSELKDND--KILFKG--SRGM----KME----
+---------*
+>P1;gi|15642402|ref|NP_232035.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 127 E 5e-29 ] [ range 314 .. 446 ]
+sequence
+-VKGRVDMAQLRDDITLIDDSYNASVPAM-AAVELLS--FSAVRWLILGNMELGDESLALHQQVGEHAAP
+FGFEFVLTYGKDAKVISDLC--QGHHFATHQDMMTFIEQHIEQQQGRTLLVKG--ANSA----GMSKIAA
+---------*
+>P1;gi|33519612|ref|NP_878444.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 127 E 5e-29 ] [ range 316 .. 449 ]
+sequence
+-LPGRLYPILNDGKLLLLDDTYNSNVGSM-EAINVLS--MPGYRILVISDMELGERAIQYHYYIARLISE
+SKIDQILTIGNISYLISKNCK-EGKHFHNKNKLIRYLNNILFQNTYISILVKG--SRSF----QMERI--
+---------*
+>P1;gi|43247086|gb|EAC89200.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 146 .. 277 ]
+sequence
+--KGRGQIYSLSKGIVLIDDTYNANPESK-AAIDNLA--RKGRRIFIFGDMELGENEIDLHKEIASYC-E
+GKIDGIICYGDLAKNTSKSIS-LRLHFDNKDALVAEVCSLLENDDI--IMLKG--SRSM----ELDSVA-
+---------*
+>P1;gi|45517266|ref|ZP_00168818.1| hypothetical protein Raeut392401 ... [ score 125 E 2e-28 ] [ range 1 .. 123 ]
+sequence
+---------------MVIDDTYNANPDSM-AAIDVLA--GAAPRLLVIGDMEVGDQGPAFHTEIGGYAQA
+LGIEALWATGELATHAVQAFG-AGRHFERAADLARALEEDAGGTKAGAVLVKG--SRFM----RMERVAA
+L--------*
+>P1;gi|44477414|gb|EAJ54635.1| unknown [environmental sequence] [ score 123 E 1e-27 ] [ range 17 .. 150 ]
+sequence
+--PGRGEILSL-NKVKIIDDSYNANPESV-AALDHLS--CEYRKFFVFGDMELGDDEESFHTEVGQYAVE
+KA-DILFTVGKLAKNASNNFA-LSLHFNDNFSLLEKLNELLTDGDI--VLIKG--SRSM----QLDLINE
+LK-------*
+>P1;gi|44512490|gb|EAJ77884.1| unknown [environmental sequence] [ score 122 E 1e-27 ] [ range 172 .. 305 ]
+sequence
+-IEGRFYTLYSKNKSMIIDDSYNANPESM-KSRQLAS--YSKNRIFVMGDMELGVNSQKHHQSIFKLSKQ
+LGIEFLFYMGKYGEDAKQIFG-DNCYTSDNNEIVQKLKKI--SDEDSTILIKA--SRFM----NFDIVKE
+LK-------*
+>P1;gi|43478788|gb|EAD94130.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 122 .. 250 ]
+sequence
+--KGRC-RILNYKSITIIDDTYNANLESC-AAIDYLT--GNGRKIVVLGDMELGNASKEQHEKLGLKCSD
+AGLDAVFTIGQEMKYASVISG-VSLHHEDRRDLISDLKSELKDND--KILFKG--SRGM----KME----
+---------*
+>P1;gi|44574335|gb|EAK20796.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 146 .. 272 ]
+sequence
+----RLSVHRSIRNSILIDDSYNSNPSSM-KSIDLIS--LKNYRKLVFGEMELGEDSSFLHADVYQYAKD
+K-VDYFFCIGKEWEDIKITSK-ANTIFSDHDDLYKAVKELIKQDTV--ILVKG--SRST----KMDIVA-
+---------*
+>P1;gi|43952352|gb|EAG32115.1| unknown [environmental sequence] [ score 118 E 3e-26 ] [ range 179 .. 293 ]
+sequence
+----RLSPRSWINKSIIINDSYNANPESS-AGVDSLN--FEGRKIIILGDMELGNDSKLFHEEAGQYALN
+AGIESLFSFGNHSKYASMVFG-KGKHFDDENELKLFIKNNISIGDLVYI---------------------
+---------*
+>P1;gi|42520932|ref|NP_966847.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 115 E 2e-25 ] [ range 368 .. 501 ]
+sequence
+--KGRGNIHKVKCNKKLIDDSYNASPASM-KAIKTLS--SNQRKVALLGDMELGDESIEFHTDLVKIITE
+NNIDKVYTVGKFMHELLPDNI-RGTHFNDSNQLKSDLANIIQNND--AILVKG--SRGM----KMDLI--
+---------*
+>P1;gi|44277106|gb|EAI14655.1| unknown [environmental sequence] [ score 113 E 6e-25 ] [ range 226 .. 362 ]
+sequence
+-LKGRGNHI-HNNGYLIIDDTYNANLDSK-QGIDSFS--CKGRKFLIIGDMELGDKKKIHHLELGKYINN
+HKIDFVFGIGKEIQAINNSQI-YSRYFKNKFFLINFLKLELKKGD--SIYLKA--SRSM----CEDIVEQ
+L--------*
+>P1;gi|22972588|ref|ZP_00019458.1| hypothetical protein [Chloroflexu... [ score 113 E 8e-25 ] [ range 337 .. 472 ]
+sequence
+----RLRIVPGQHGTTIIDDTYNAAPLST-AALQVLA--EKGRRIAVLGEMELGAASVEGHQQVGA-AAA
+TMADVLVAVGRQAHTMAEAAR-SAGMPDNNEAAINLLNRYIQPGD--HLLIKG--SRGV----QMEIVAA
+LQ-------*
+>P1;gi|21398191|ref|NP_654176.1| Mur_ligase_C, Mur ligase family, E ... [ score 112 E 2e-24 ] [ range 110 .. 247 ]
+sequence
+----RMEIVKTDSGLTIINDAYNASPTAM-EAMNGLD--GFSKKIVVLGDMELGDQEVQFHYEVGKLIDP
+AKISYVFTYGKLGAQIAEGAK-INKAYDNKEELVKELQAVVDTKDV--VLVKA--SRGM----KEEVITM
+LK-------*
+>P1;gi|23113873|ref|ZP_00099213.1| COG0770: UDP-N-acetylmuramyl pent... [ score 111 E 3e-24 ] [ range 323 .. 456 ]
+sequence
+------QQIYHVNEVAVIDDSYNSSPGAK-SSLSVLA--GAGRRVAVLADMELGEYSRQAHFEVGVCAAE
+NGVDILLTVGQEAKAVAEGAG-IDCRVLDNNQAAEELKSFLSPGD--AVLVKG--SRGM----TEEIVRA
+L--------*
+>P1;gi|22999607|ref|ZP_00043578.1| COG0770: UDP-N-acetylmuramyl pent... [ score 111 E 3e-24 ] [ range 330 .. 467 ]
+sequence
+--KGRGSVEHGQVGCRILNDTYNANVGAM-EALSHMA--PAPQRIAVLGDMELGEAADTLHAELAQTILA
+LGIQRIFLAGPHMAALYQASS-PGLHYADPVALAKDLSHYVGHGD--AVLVKG--SRGM----RMEVVEA
+L--------*
+>P1;gi|42779347|ref|NP_976594.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 111 E 4e-24 ] [ range 321 .. 458 ]
+sequence
+----RMEIVKTNSGLTIINDAYNASPTAM-EAMNGLD--GFSKKIVVLGDMELGDQEVQFHYEVGKLIDP
+AKISYVFTYGKLGAQIAEGAK-INKAYDNKEELVKELQAVVDAKDV--VLIKA--SRGM----KEEVITM
+LK-------*
+>P1;gi|18310843|ref|NP_562777.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 110 E 6e-24 ] [ range 321 .. 450 ]
+sequence
+----RLELIK-KDGFSILNDCYNSSPAVK-SAIDVMK--EGKRRIAVLGTMELGHKSEEAHEEIGKYAKE
+NGIEKVLCFGNFSENIKEGYG-EGCVYENKEELIKDLLNIICDGDI--ILVKA--SRSL----KEEITKA
+L--------*
+>P1;gi|44335887|gb|EAI54749.1| unknown [environmental sequence] [ score 110 E 8e-24 ] [ range 1 .. 120 ]
+sequence
+---------------LIIDDSYNATPESM-KSRQLAS--YSNNRIFVMGDMELGINSQKHHQSIFKFSKQ
+LGIEYLFYMGEYRQDAELIFG-ENCYTSDNMNEIVK-KLIKTSGEDSTILVKA--SRFM----NFDIVKE
+LK-------*
+>P1;gi|15837396|ref|NP_298084.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 110 E 9e-24 ] [ range 320 .. 457 ]
+sequence
+-VPGRQVAHALPGGAVLIDDSYNANPGSL-VAIDTLT--AAGPGWLVLGDMELGLEGVALHAAAGRRARQ
+AKVARLYALGELSAVAAREFG-EGGHFADHDALAAVLLRHVPDGVLPRVLVKG--SRGS----AMDIVGA
+L--------*
+>P1;gi|21672879|ref|NP_660944.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 109 E 1e-23 ] [ range 343 .. 464 ]
+sequence
+------------GGIVVLNDTYNANPDSV-RALDTLA--CRGRRIAVLGDMELGDNSAIEHESIGRYIRQ
+LPLDACLTLGDAAQLICEQAG-GRCHFGTMDELRGFLSEYVQPGD--ALLFKG--SRGM----KLELAA-
+---------*
+>P1;gi|30018495|ref|NP_830126.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 109 E 1e-23 ] [ range 317 .. 454 ]
+sequence
+----RMEIVKTNSGLTIINDAYNASPTAM-EAMNGLD--GFAKKIVVLGDMELGDQEVQFHYEVGKLIDP
+AKISHVFTYGRLGAQIAEGAK-INKAYDNKEELVKDLQAVVDVKDV--VLIKA--SRGM----KEEVITM
+LK-------*
+>P1;gi|28199738|ref|NP_780052.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 109 E 1e-23 ] [ range 320 .. 457 ]
+sequence
+-VAGRQVAHALPGGAVLIDDSYNANPGSL-VAIDTLA--ASGPGWLVLGDMELGLEGVALHAAAGRRARQ
+AKVARLYALGELSAVAAREFG-EGGHFADHDALAAVLLMHVPGGVPPRVLVKG--SRGS----AMDIVGA
+L--------*
+>P1;gi|44272176|gb|EAI11306.1| unknown [environmental sequence] [ score 108 E 2e-23 ] [ range 1 .. 88 ]
+sequence
+---------------------------------------------LVFGDMELGADARLYHEEVGLYAKQ
+KGINLLFTLGVLSQSASDLFG-QGAHFSSRQQLIQKLSPILDEQSDATVLVKG--SRSA----KMELV--
+---------*
+>P1;gi|43257373|gb|EAC94350.1| unknown [environmental sequence] [ score 108 E 2e-23 ] [ range 3 .. 105 ]
+sequence
+-------------------------------AIKTLC--NTGRRYMVLGDMELGNDAKKFHEEVGTLSQK
+SGIDGLFTIGKLSNNASNAFG-KGAHFDNYDDLEKSLVKILDKH--STVLVKG--SRSM----KMEIVNT
+L--------*
+>P1;gi|42781309|ref|NP_978556.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 108 E 2e-23 ] [ range 314 .. 447 ]
+sequence
+----RFQFLTAKTGFTIINDAWNASPSSM-KALQKLN--AYEKKIIVIGDMELGKEAKTYHREIGKMLNE
+ESIQYVFTYGALSEIVAEEAR-KNYHFDNKDEIAEEILKVITKKDV--VLLKG--SRGM----AEEIV--
+---------*
+>P1;gi|16077524|ref|NP_388338.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 108 E 2e-23 ] [ range 315 .. 451 ]
+sequence
+----RLELIKTDSGLSIINDAYNASPTSM-AAIQLLE--GYGKKMLVLGDMELGDLEETFHKECGAVISP
+DKIDRVFTYGKLGAFIAEGAL-KHFHYTEKKDLLQAVKENASKGDL--ILFKA--SRGM----KEEIVKD
+L--------*
+>P1;gi|15606186|ref|NP_213563.1| UDP-MURNAC-pentapeptide sythetase [... [ score 108 E 2e-23 ] [ range 303 .. 439 ]
+sequence
+-VEGRMKVFNL-KNFILIDDTYNANPVSL-RAIKSVG--AFKRKVFILGDMELGEHSKELHEEVGRLLNT
+KGIRLAIFYGDEMKYAYDSFN-KSKKFYTKEEMLQFIEENLKEFEGCAVLIKG--SRGM----KEEVVDF
+LR-------*
+>P1;gi|43994373|gb|EAG54941.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 205 .. 278 ]
+sequence
+-VPGRLFPIQLAENQLLLDDSYNANVGSM-AAVQVLS--EPGYRVLVVGDMELGAESEACHVQVGVAAKA
+AGIDR-----------------------------------------------------------------
+---------*
+>P1;gi|44134450|gb|EAH31347.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 206 .. 303 ]
+sequence
+----RQIKSKWYRGSTLIDDTYNANPDST-KSIDLLG--NYKKRTLILGDMELGKYKKKLHREVGEYANA
+KGIDVLLGYGDLTRHTIKSFG-YGFHFENEDD--------------------------------------
+---------*
+>P1;gi|44282416|gb|EAI18197.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 306 .. 435 ]
+sequence
+-VKGRFYSYISSNKSIVIDDSYNANPESM-KSSQLKN--FKENKIFIMGDMELGDKSLDHHLSVFKLAKD
+IDVKYLLYMGKYKNEAKSIFG-DSCRFDDIIKLIGYARSI--SDESTVVLIKA--SRFM----NFDIIA-
+---------*
+>P1;gi|40713142|emb|CAE53342.1| murF-like protein [Actinoplanes teic... [ score 105 E 2e-22 ] [ range 317 .. 444 ]
+sequence
+----RLELRDIAGGVTLLNDSYNASPGST-AALDALA--EGGRRVAVLGQMELGDESEAEHRAVGEYAAA
+RA-DVVVTVGEAVRPLAVGAG-EAVAVADNGAAVDWLRGHLAPGDV--VLVKA--SRGA----RLDEVAA
+---------*
+>P1;gi|43369409|gb|EAD49528.1| unknown [environmental sequence] [ score 104 E 3e-22 ] [ range 1 .. 104 ]
+sequence
+------------------------------AAIDYLS--GNGRRILIFGDMELGKEARNQHIKVGEKCSG
+SDLDIVFTVGDESIATDESIS-GGLHFNTKEELIKKLRAEVTDGD--KILVKG--SRGM----AMETI--
+---------*
+>P1;gi|43556229|gb|EAE32877.1| unknown [environmental sequence] [ score 103 E 7e-22 ] [ range 109 .. 234 ]
+sequence
+----RLSLKNYINGGTLIDDTYNSNPESM-KNLVSLN--ETRKKVLIAGEMELGNNAEEFHKDVCLFASE
+K-IDYFLCIGEMWQKLEYYSG-NGKIFRNKEDLLEHLNTIPLQDPI--IMVKG--SRST----KMNEIA-
+---------*
+>P1;gi|43288351|gb|EAD10022.1| unknown [environmental sequence] [ score 103 E 8e-22 ] [ range 162 .. 300 ]
+sequence
+--KWRSYVVE-KEGVRVYNDAYNANPASM-AALQSLK--EKGCRIAVLGDMELGEGSKEAHFELGRNAQL
+FGINRLVAVGEFSEDIAAGAK-CIHAFPDRKSIAALLKEVLREGDM--VLVKG--SRGI----AENVVKE
+L--------*
+>P1;gi|23130025|ref|ZP_00111846.1| COG0770: UDP-N-acetylmuramyl pent... [ score 102 E 2e-21 ] [ range 311 .. 446 ]
+sequence
+---GRSQRFTLPNDVIILDETYNAAPEAM-ASLQLLA--DTKRKIAVLGAMELGERSQQLHQRVGETVRK
+LNLDGLLVLGEDAEAMSAEGI-PSECFATHAELVARLKTFVQTGD--RLLFKA--AHSV----GDRVVNQ
+LR-------*
+>P1;gi|43389038|gb|EAD58823.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 157 .. 239 ]
+sequence
+-LPGRMNVTQHRPDYWVLNDTYNANPAST-AALTTLA--CEGYRLAVLGEMRLGPDSESLHEQIGCKAKE
+LGIDALWGFGEDMA--------------------------------------------------------
+---------*
+>P1;gi|45529501|ref|ZP_00180645.1| hypothetical protein Mther134401 ... [ score 102 E 2e-21 ] [ range 325 .. 458 ]
+sequence
+----RQDLRPGPGGSLVFNDAYNANPESM-AALQALA--LPGRRVAVLGAMELGPAEVELHRRVGRFAAA
+RGLYRLITVGELAGEIAAGAL-EAGMPADQVFAEEAAGHLRGLGHGDVVLFKG--SRLT----GMEKVLA
+I--------*
+>P1;gi|43989604|gb|EAG52375.1| unknown [environmental sequence] [ score 101 E 3e-21 ] [ range 1 .. 101 ]
+sequence
+-------------------------------AVDILA--ASGRTVLVLGDMELGEWAEQGHRDVGRHA-A
+GKVDVLYAVGPLMRFAVEEFG-KGRHFVDQAELIEALR---AEQAGSTLLIKG--SRSA----AMDVVAA
+L--------*
+>P1;gi|15895397|ref|NP_348746.1| UDP-N-acetylmuramyl pentapeptide sy... [ score 101 E 3e-21 ] [ range 314 .. 446 ]
+sequence
+----RLDIVNG-ENIVIVDDSYNASPDSM-AAIDVTK--NGNRRIAVLGTMELGEKSYESHKEVGAYAKE
+NNIDELLVVGEFSKAYLDGYK-DKENFSTNEELLKFVKTDIRKGDIF--LIKA--SRLM----KENIVTK
+LK-------*
+>P1;gi|44396436|gb|EAI97915.1| unknown [environmental sequence] [ score 101 E 3e-21 ] [ range 29 .. 154 ]
+sequence
+----RLAISNSLRGSILIDDSYNSNPASL-KAVDSLE--GKRKKICILGDMELGSNSQKIHQEMYEYISE
+R-VDQIFCIGEEWSTCSPNEK-QDLIFENQDDLYSHLISIINKKTI--LLVKG--SRST----RMDLLA-
+---------*
+>P1;gi|23054333|ref|ZP_00080490.1| COG0770: UDP-N-acetylmuramyl pent... [ score 101 E 4e-21 ] [ range 320 .. 453 ]
+sequence
+----RRFNLEEVGDVILIDDSYNANPASM-AALTTLR--EAGRRVAVLGDMELGEGAEEAHRQLGLLAAT
+C-VDRLYVMGGMAGIVAAGAL-EGGLADDAVTVATSHDAIVADLRRTTILVKG--SRGL----AMDRVA-
+---------*
+>P1;gi|23137801|ref|ZP_00119505.1| COG0770: UDP-N-acetylmuramyl pent... [ score 100 E 5e-21 ] [ range 298 .. 425 ]
+sequence
+----RSQIVKTEKNEVIL-DSYNANPTSM-AAIENFA--QKENKVVILGDMELGEESEVEHANIGALLNL
+LTDTKIILIGKNMAAASKECT-AAAYMDTKEAAVNFLVSNQILN--STILLKG--SRGM----GLESLMP
+L--------*
+>P1;gi|43561189|gb|EAE35372.1| unknown [environmental sequence] [ score 100 E 5e-21 ] [ range 171 .. 297 ]
+sequence
+----RLSIHRSIANSILIDDSYNSNPASM-KSIDVLD--NQYKKICLFGEMELAEDSTFLHSDIYQYA-E
+GKVDYFFCLGEDWKDIKGSNK-TNKVLSSHEELYEIAKELINENTVT--LVKG--SRST----RMDLVA-
+---------*
+>P1;gi|43116208|gb|EAC24099.1| unknown [environmental sequence] [ score 100 E 6e-21 ] [ range 82 .. 207 ]
+sequence
+----RLAISNSLRGSILIDDSYNSNPASL-KAVDSLE--GKRKKICILGDMELGSDSQKIHQEMYEYISE
+R-VDQIFCIGDEWSACSPNEK-QDLFFENQNDLYSHLISTIDKKSI--LLVKG--SRST----RMDLLA-
+---------*
+>P1;gi|44418162|gb|EAJ12770.1| unknown [environmental sequence] [ score 100 E 8e-21 ] [ range 301 .. 429 ]
+sequence
+----RSQKIQLKDKKIIL-DAYNANPSSM-ESAIKNF--YKKFKLLIIGDMELGLYSKSAHSNIVELIKT
+LSFDRVITVGKTFFKINKTPN-FFMKFNSTNELIKYIKSNKIKESN--ILIKG--SRST----LEKIIKH
+L--------*
+>P1;gi|39936596|ref|NP_948872.1| putative UDP-N-acetylmuramoylalanyl... [ score 100 E 1e-20 ] [ range 325 .. 465 ]
+sequence
+---GRGVRKPLPVGSTLIDESYNANPASM-AALGVLS--GQGRRIAVLGDMELGPRGPELHRGLEEAVRA
+NGIDLVFCCGPLMRDALSSGK-RGGYAGDAAALESQVVAAIRAGDV--VMVKG--SLGS----RMKIVTA
+LE-------*
+>P1;gi|44283677|gb|EAI19044.1| unknown [environmental sequence] [ score 99 E 3e-20 ] [ range 72 .. 197 ]
+sequence
+----RLAISNSLRGSILIDDSYNSNPASL-KAVDLLE--GKRKKICILGDMELGSDSHEIHQEMYDYISE
+R-VDQVFCIGDEWSTCSPNEK-RDLIFENQDDLYSHLISAIDKKTI--ILVKG--SRST----RMDLLA-
+---------*
+>P1;gi|23114019|ref|ZP_00099345.1| COG0770: UDP-N-acetylmuramyl pent... [ score 98 E 4e-20 ] [ range 340 .. 480 ]
+sequence
+----RLELQPGPGGSTLISDVYNANPTSM-ASLQVLK--ERGSTLAILGEMELGQSCRAGHYEVGQTVAD
+LGISELITVGPLAEEIARGAL-EKHSFPEREGAIKKARELLAGLNQGTVLIKA--SRGM----KMEVTRA
+LR-------*
+>P1;gi|44638505|gb|EAK66164.1| unknown [environmental sequence] [ score 98 E 4e-20 ] [ range 92 .. 221 ]
+sequence
+----RFKIINLKNDNVIINDTYNANPDST-IAINKIF--YKKKKIAILGSMELGEESSKEHQSVSSYLKK
+NEFKEVYSYGPNSNDYKKNLD-KNTNFKNHNEIEKYINLNSTQNTV--ILVKG--SRGM----KMEKI--
+---------*
+>P1;gi|21241546|ref|NP_641128.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 98 E 5e-20 ] [ range 323 .. 488 ]
+sequence
+-VAGRQIAQTLPNGAVLIDDSYNANPGSA-AIDALAA--AQGEGWLVLGDMELGAEGVALHAAAGRRARA
+AKLQRLYALGELSAAAAQAFG-EGRVFATHAELIDALQADLQEHAVITILVKG--SRGS----AMDRV--
+---------*
+>P1;gi|44298371|gb|EAI28851.1| unknown [environmental sequence] [ score 97 E 5e-20 ] [ range 49 .. 175 ]
+sequence
+----RLSIHKSIANSILIDDSYNSNPASM-GSIDLIA--NNYKKICLFGGMELAEGSSLLHLEVYEYAKG
+K-VDYFHCIGEEWNAIQDSNT-NFKIFSSHEKLYESVKDLI--NVDTVILVKG--SRST----RMDIVA-
+---------*
+>P1;gi|43911730|gb|EAG10597.1| unknown [environmental sequence] [ score 97 E 6e-20 ] [ range 5 .. 101 ]
+sequence
+-------------------------------SIDLLS--NYKKTVLVLGDMELGKYKKKLHKEIGIYAKE
+KGIKTFIGYGKLAKEMVKGYG-KGFFFENEEGLKNYLKTNLTSKDV--ILIKG--SRGM----KME----
+---------*
+>P1;gi|44497206|gb|EAJ67622.1| unknown [environmental sequence] [ score 96 E 1e-19 ] [ range 59 .. 199 ]
+sequence
+---GRGNRVKLITGDELIDESYNASPVSM-AALQLLK--NNGRRIAVLGDMELGQQSLSLHQGLSNHIKE
+AGIDMVFSSGKLMESLYKILP-ENIHWSKQSELTNFLISELKAGDV--VMVKG--SGSG----MGKVVRG
+LE-------*
+>P1;gi|43334575|gb|EAD32813.1| unknown [environmental sequence] [ score 94 E 4e-19 ] [ range 152 .. 280 ]
+sequence
+--PGRGELI-NKNGIVFIDDTYNSNFASC-AGIDSVV--KGNKKILVLGDMELGNATEEEHIKLGKLIDS
+VNIDAVFGFGDYIKYTLDAIK-SNEHCNDKNELSKSLKQYHNSGDI--VYVKG--SRCM----KME----
+---------*
+>P1;gi|23014460|ref|ZP_00054275.1| COG0770: UDP-N-acetylmuramyl pent... [ score 94 E 5e-19 ] [ range 321 .. 461 ]
+sequence
+--KGRGQRRRVEMDGDLIDESYNASPVSM-AAIAALA--SGGRRIAVLGDMELGPQGPMLHASMAETVER
+WNIDLVFTAGILTHDALAEQR-RGGHAADSDAVSALVKAAVRPGDV--VMVKG--SAGS----RMRVVNA
+L--------*
+>P1;gi|44211205|gb|EAH72391.1| unknown [environmental sequence] [ score 94 E 5e-19 ] [ range 222 .. 326 ]
+sequence
+--PGRGEIFSLNKFK-IIDDSYNANPESK-AALDHLS--GYNRKFFVFGDMELGANEEIFHKKIGQYAVE
+KA-DILFTVGKLAKNASNNFA-LSLHFNDNFSLLEK----------------------------------
+---------*
+>P1;gi|22966868|ref|ZP_00014463.1| COG0770: UDP-N-acetylmuramyl pent... [ score 94 E 6e-19 ] [ range 333 .. 461 ]
+sequence
+---GRRQSVSLGGDGAIIDDAYNASPESV-AALTTLS--MTGRRIAVLGDMELGPQAAKLHADLAKISVE
+RGIDLVYTAGPLMHDALPASR-RGGHAPDADALTPLVLAALRPGDV--VMVKG--SKG------------
+---------*
+>P1;gi|43520955|gb|EAE15150.1| unknown [environmental sequence] [ score 93 E 9e-19 ] [ range 1 .. 88 ]
+sequence
+---------------------------------------------FVFGDMELGNTSDEQHRRVGERCSE
+LGIDSVYTIGDYTKHTGYAIR-NGVHFNSKKSLIDSLKEDIQAGD--KILFKG--SRGM----AMEKV--
+---------*
+>P1;gi|23018037|ref|ZP_00057757.1| COG0770: UDP-N-acetylmuramyl pent... [ score 92 E 2e-18 ] [ range 328 .. 462 ]
+sequence
+----RMEVTERPDGVTIVNDAYNANPESM-AALRTLA--ASGRRAFVLGHMELGSAHRTEHERIGRLVTE
+SGVDVLITVGEQAASIADGAG-ETVTVADVTEAVAVLKERLRPKDI--VMLKG--SRVA----GLEQVA-
+---------*
+>P1;gi|16330763|ref|NP_441491.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 92 E 2e-18 ] [ range 311 .. 436 ]
+sequence
+--KGRARRYQWGQDVVLLDETYNAGLESM-ASLDLLA--NTKRRLAVLGAMELGDYGPTFHQRVGAKVKA
+LGLDGLFLLANDAIAAGANGV-ETQSFSDGPSLVAALKTTLQPGD--RLLFKA--SNS------------
+---------*
+>P1;gi|23011653|ref|ZP_00051948.1| COG0770: UDP-N-acetylmuramyl pent... [ score 92 E 2e-18 ] [ range 52 .. 176 ]
+sequence
+----------------LIDESYNANPASI-AAFATLA--GKGRRIAVLGDMELGAAGEAHHRELAEAVAA
+NGIDLVFTAGPLMAHLFEAAV-RGTAAPKAAELTDAVLATLRPGD--AVMVKG--SNSM----RMQIVEA
+VK-------*
+>P1;gi|37521967|ref|NP_925344.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 92 E 3e-18 ] [ range 303 .. 434 ]
+sequence
+---GRSRVIALEGDVQLIDETYNSAPESA-AALAWLA--GPGRRIAVLGQMELGEFSRELHRVLGEHCRR
+LALDEVVVLGEDTEALLAGAG-PAVQLADHRAVAAYLADRVRPGD--RLLFKA--SRAV----GLERVLA
+---------*
+>P1;gi|44404653|gb|EAJ03600.1| unknown [environmental sequence] [ score 90 E 6e-18 ] [ range 318 .. 397 ]
+sequence
+----RQMKSKWIKGSTLINDTYNANPDST-KSIDLLS--NYKKTVLVLGDMELGRYKNKLHKEIGKYAKA
+KGINKLLGYGNLTK--------------------------------------------------------
+---------*
+>P1;gi|15889382|ref|NP_355063.1| AGR_C_3808p [Agrobacterium tumefaci... [ score 90 E 8e-18 ] [ range 322 .. 463 ]
+sequence
+-VKGRGQRHHLTINGLLIDESYNANPASM-AAIAVLA--ETGRRVAVLGDMEMGEFSAQLHEELAGPLLA
+AGIEHVWLAGEAMAALRDALP-DSIWFPTTAELTDFALQWVQPGD--ALMVKS--SLGL----GGKIVAA
+L--------*
+>P1;gi|43422821|gb|EAD69507.1| unknown [environmental sequence] [ score 90 E 1e-17 ] [ range 141 .. 279 ]
+sequence
+---GRSYALKLGSNFTVIDESYNASPASV-SALKVLK--ESGRRIAVLGDMELGRREQVLHAALSEDVIK
+AGVSVVFTIGSRMLYLSQASI-SRHHFDNARAAIEPLLEGINQGDV--ILIKG--SFAI----QMGIVSA
+LR-------*
+>P1;gi|43722346|gb|EAF16155.1| unknown [environmental sequence] [ score 89 E 2e-17 ] [ range 160 .. 278 ]
+sequence
+--------IIKIDNKNVILDAYNANPTSV-EAIQSFK--NKGTKALVLGDMELGENSAIEHKKIIDLADG
+LNIDICIFIGEEFFKVRQDSV-KNIFFKTKEDFYELGDVIKEEN----ILIKG--SRGM----KMEDI--
+---------*
+>P1;gi|45505478|ref|ZP_00157858.1| hypothetical protein Avar544301 [... [ score 89 E 3e-17 ] [ range 311 .. 441 ]
+sequence
+---GRSQRFSLPNDVLILDETYNAAPEAM-LAALQLL--ADKRKIAVLGAMELGERSAQLHQRVGETVRN
+LKLDGLLVLGEDAEAISAEGI-PSECFATHADLVARLTTFVQGGD--RVLFKA--AHSV----GLDRV--
+---------*
+>P1;gi|43927031|gb|EAG18462.1| unknown [environmental sequence] [ score 89 E 3e-17 ] [ range 42 .. 164 ]
+sequence
+---------------TIIDDSYNSNPAST-AALNNLN--CTGKKILVLGDMELGKDSLKIHKEFKTTIEE
+INLGIIFTVGKYMKALNKSLN-KNYHEDDLNEVFLSLKALVKNGDL--ILIKG--SNSM----KEIVIKM
+---------*
+>P1;gi|43146998|gb|EAC39209.1| unknown [environmental sequence] [ score 88 E 3e-17 ] [ range 87 .. 227 ]
+sequence
+-VSGRFEWKRLDEG-WLIDDSYNANPGSL-QSIRFMH--PKMPLIAVIGPMELGENAEQLHKEVGEFIYD
+SGCKKLLVLGEGWKNAGGPKD-DAKRFESLEELQKDFQQDWDQKSI--VLVKG--SRSA----AMERVKA
+I--------*
+>P1;gi|34763170|ref|ZP_00144137.1| Histidinol-phosphatase; UDP-N-ace... [ score 88 E 5e-17 ] [ range 478 .. 611 ]
+sequence
+----RFQEIKI-GNDIYINDAYNASPMSM-AAIDTLN--EDKYKIAILGDMELGENEVDYHMDVLNYLLD
+KKIKLIYLYGERMKKAYDIFM-KNKYYPTKEGIVESLKNIKMDK---VILLKA--SRGI----KEEIIK-
+---------*
+>P1;gi|21220568|ref|NP_626347.1| putative UDP-N-acetylmuramoylalanyl... [ score 87 E 7e-17 ] [ range 321 .. 456 ]
+sequence
+----RMEVTERPDGVTVVNDAYNANPEST-AALRALV--GKGRRWAVLGKMELGDEALAEHDAVGRLAVR
+LNVSKLVAVGQLGAYNEGSWG-ESVHVSDAQAAVDLLRSELRPGDV--VLVKA--SRSV----GLESVA-
+---------*
+>P1;gi|27808668|sp|O33804|MURF_STRTO Probable UDP-N-acetylmuramoyl-t... [ score 87 E 8e-17 ] [ range 314 .. 443 ]
+sequence
+--PWRMELRDLACGATLLNDSYNANPDST-AALDALS--EGGRRIAVLGEMELGDGSEAEHR-AVGAYAA
+ARADVVVAVGEAARPLADGAG-EAVVLAGNDAAVDWLRDHLAAGDV--VLVKA--SRGA----RLDEVAA
+---------*
+>P1;gi|29375433|ref|NP_814587.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 87 E 8e-17 ] [ range 314 .. 454 ]
+sequence
+--KNRTEWLKAANGAEILSDVYNANPTAM-DSFSKMS--KVGKRIAVLGDMELGPDSAAMHQAMAQHLAP
+DAIEEVFLYGSEMAYLADAPA-NIHSFKEKNELIEAVKKVLQPEDM--VVLKG--SNGM----GLEVIDA
+L--------*
+>P1;gi|29349052|ref|NP_812555.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 86 E 1e-16 ] [ range 307 .. 428 ]
+sequence
+----RSQLKKTDDNTLII-DAYNANPTSM-AALQNFR--NMEHKMLILGDMELGAESAAEHQKIADYLKE
+CAFEKVWLVGDQFAAAEHSF----QTYPNVQEVIKELEADKPKG--YTILIKG--SNGI----KLSSV--
+---------*
+>P1;gi|43344955|gb|EAD37616.1| unknown [environmental sequence] [ score 86 E 1e-16 ] [ range 18 .. 152 ]
+sequence
+-LKGRFHTTYMKE-WILIDDTYNANPSSF-QSVNNLY--PSNRKIVVCGKMELGKKSHELHQQVGINMVK
+NGVQILLGLGKEIESIKEGGK-SAKQFTEIDDLLNYFRNEQKPGDI--VLVKG--SRSA----RME----
+---------*
+>P1;gi|22956842|ref|ZP_00004575.1| COG0770: UDP-N-acetylmuramyl pent... [ score 86 E 1e-16 ] [ range 337 .. 467 ]
+sequence
+----------------LIDDAFNANPASM-AALELLA--AAGRRIAILGDMELGPTEAELHRAVADHPAL
+AEIALVHCVGPRMRALHEALQ-RGEWVETAAELVPRARLLVDAGDI--VLVKG--SKGI----KVSVVDA
+LR-------*
+>P1;gi|23003342|ref|ZP_00047007.1| COG0770: UDP-N-acetylmuramyl pent... [ score 86 E 1e-16 ] [ range 165 .. 301 ]
+sequence
+----RMQWKKGDVGEAIMDDVYNSNPTAV-KAVQVMV--QDGRRIAVLGDMELGDESAELHASLANALDP
+AIINELYLYGPEMKNLYDAPA-ANLHYYPQDEMIDDLKNDIKPADI--VMLKG--SHGM----HLEKV--
+---------*
+>P1;gi|43119876|gb|EAC25865.1| unknown [environmental sequence] [ score 85 E 2e-16 ] [ range 34 .. 166 ]
+sequence
+---GDLNIIKLKEKKILIDESYNSNPLSQ-FAINKFN--SSGRKLILLGDMELGKYSKKLHVEAAQYINA
+AKIDKVYVYGKETFNNIKLQK-RGKILNSKKDILNFIINDIKNGEY--LMIKG--SNST----GLNKI--
+---------*
+>P1;gi|44509906|gb|EAJ76139.1| unknown [environmental sequence] [ score 85 E 2e-16 ] [ range 249 .. 383 ]
+sequence
+---GRGSIKKINSSQILIDDGYNANPAST-AALSTLG--KKKRRIAILGDMELGPSEIDYHKKIASCADL
+YKLDCIHTVGPLMHDILPEEK-RGFHFKKSIDVVPLLDTILKGGD--CLLIKA--SLSV----GMKVIA-
+---------*
+>P1;gi|44259615|gb|EAI02638.1| unknown [environmental sequence] [ score 85 E 2e-16 ] [ range 202 .. 323 ]
+sequence
+----RSEIIKINNKNVIL-DAYNANPTSV-EAIKSFK--NKGTKALVLGDMEQGENSEIEHKKIIDIADE
+LNIDRCIFIGEEFFKLKQDSV-KNIFFKTKEDFYEFGDIIREEN----ILIKG--SRGM----QLEDV--
+---------*
+>P1;gi|42916028|gb|EAB25085.1| unknown [environmental sequence] [ score 85 E 3e-16 ] [ range 113 .. 246 ]
+sequence
+---GKISKIKLKNKVILIDESYNSNPLSL-FSIKKFH--NKSKKILILSDMELGKFSKKLHIQVSDVINN
+SNIDKVHVYGKHIRHTIQTQK-KGKIFNNKNEILNFIKNKIGNNNY--LMIKG--SNST----GLNTIA-
+---------*
+>P1;gi|42524585|ref|NP_969965.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 85 E 3e-16 ] [ range 326 .. 458 ]
+sequence
+---GRNQLVHLKSGAQMIFDAYNANPDSM-KALKLLT--VPGRKVGVFGQMELGSASANLHEELGTWVGQ
+AGFDKVYFIGDDADAFAKGLS-SAGY--KNLALIEKLAGFLKTGDIAV--VKA--SRGT----KLE----
+---------*
+>P1;gi|44379705|gb|EAI85878.1| unknown [environmental sequence] [ score 85 E 4e-16 ] [ range 311 .. 442 ]
+sequence
+---GRFNKIKGINDCTIIDSTYNANPASK-ASIDSLS--IPGDHLMIMGEMELGNDSFNHHLDVISYAIN
+KGTSKIFLKCSFSDKIKERYD-KNIIFDNIDELKNLIYPVLNSNSV--ILVKA--SRFM----REEITKI
+LE-------*
+>P1;gi|19704793|ref|NP_604355.1| Histidinol-phosphatase; UDP-N-acety... [ score 84 E 4e-16 ] [ range 478 .. 609 ]
+sequence
+----RFQEIKIGED-IYINDAYNASPMSM-AAIDTLN--EDKYKVAILGDMELGDNEIDYHIDVLNYLLD
+KKIKLIYLYGERMKKAYNMFM-KSKYYPTKEGIVESLKNIKMEK---VILLKA--SRGT----ALEDI--
+---------*
+>P1;gi|22299096|ref|NP_682343.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 84 E 4e-16 ] [ range 312 .. 447 ]
+sequence
+---GRGGRYRLEPDILLLDETYNAGLESM-AALHLLS--LPGQRLAVLGPMELGAFSLSFHEQVGATVAQ
+LDLDGLFILGEEGAALAQGAG-PTQQFGSHEELVEYLLRELQAGD--RLLFKA--SHAV----ADRVVNQ
+LR-------*
+>P1;gi|43677051|gb|EAE93608.1| unknown [environmental sequence] [ score 84 E 5e-16 ] [ range 29 .. 169 ]
+sequence
+-VSGRFEWKRLDEG-WLIDDSYNANPGSL-KSIRFMH--PKTPLIAVIGPMELGENAKQFHSEVGEVIYH
+SGCKKLLVLGEGWKNAGGLKE-DAKRFESLDELQNDFQQDWDQKNI--VLVKG--SRSA----AMERVKA
+I--------*
+>P1;gi|29832660|ref|NP_827294.1| putative UDP-N-acetylmuramoylalanyl... [ score 84 E 7e-16 ] [ range 321 .. 457 ]
+sequence
+----RMEVTERPDGVTVVNDAYNANPESA-LRALAAM--GKGRRWAVLGKMELGDEALAEHDAVGRLAVR
+LNVGKLVAVGEASWLQLGAYN-EGVHVSDAQAAVDLLRSELRPGDV--VLVKA--SRSV----GLESVAQ
+---------*
+>P1;gi|5834374|gb|AAD53940.1| UDP-N-acetylmuramoylalanyl-D-glutamyl-... [ score 84 E 8e-16 ] [ range 319 .. 444 ]
+sequence
+---GQRFDIPVGDGSIVIDESYNANPASM-AAIKALE--NEKRRIVLLGDMELGQNSAAYHRALADPLSH
+AKVDHVLLVGQEMAALEEAGK-IACRIEKADQAEALLDEILKADDI--LLVKG--SNS------------
+---------*
+>P1;gi|44295749|gb|EAI27082.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 310 .. 376 ]
+sequence
+--PGRC-EIKKSKNMTFIDDTYNANVEST-AAIDYLS--GNGRRILIFGDMELGDDSKNQHIKVGQKC--
+----------------------------------------------------------------------
+---------*
+>P1;gi|42518356|ref|NP_964286.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 83 E 1e-15 ] [ range 314 .. 450 ]
+sequence
+----RMQWKKGDVGEAIMDDVYNSNPIAV-KAVQVMV--EDGRRIAVLGDMELGDESADLHASLAASLDP
+AIINELYLYGPEMKNLYDAPA-ENLHYYPQDQMIDDLKNDIKPADI--VMLKG--SHGM----HLEKV--
+---------*
+>P1;gi|43527563|gb|EAE18477.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 126 .. 266 ]
+sequence
+-VSGRFEWKRLDEG-WLIDDSYNANPGSF-RGVQSIR--FMYPKILVIGPMELGENEEQFHKEVGEFIYH
+SGCKKLLVLGEGWKNAGGPKD-DAKRFESLEELQKDFQQDWDQKSI--VLVKG--SRSA----AMERVKA
+I--------*
+>P1;gi|43956012|gb|EAG34112.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 1 .. 77 ]
+sequence
+-------------------------------------------------------DARLYHEEVGLYAKQ
+TGINHLFTLGVLSQNASELFH-AGAHFSSRSQLVAKLAPFLTGSAEVSILVKG--SRSA----RMELV--
+---------*
+>P1;gi|22991766|ref|ZP_00036458.1| COG0770: UDP-N-acetylmuramyl pent... [ score 83 E 1e-15 ] [ range 69 .. 199 ]
+sequence
+------------NGAAILSDVYNANPTAM-GLVKNLP--TKGRRIAVLADMELGKESLNMHAQMSEHIDP
+EKFAMIFLYGEQMHALKEELN-QKYVFYEKNKLIDAIKQNL--EATDSIMLKG--SNSM----GLEVVEQ
+LQ-------*
+>P1;gi|44389550|gb|EAI93014.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 55 .. 177 ]
+sequence
+------------EKSILIDDTYNANLGSM-IALNEIA--KNNRKVLIFGEMELGVFSESLHNKLYDYLIS
+LNIGLVVFIGNKTKQLYKLCI-ECIWIENITDSCEDIIFNLI-KPRDCILVKG--SRHM----KMEII--
+---------*
+>P1;gi|44270070|gb|EAI09858.1| unknown [environmental sequence] [ score 82 E 2e-15 ] [ range 316 .. 450 ]
+sequence
+---GRGSIKKINSSQILIDDGYNANPVSS-AALDTLG--KKKRRIAILGDMELGSSEIDYHKKIASFDVL
+SKLDCIHTVGPLMHHILPEEK-RGFHFKKSIDVVPLLDKILKGGD--CLLIKA--SLSV----GMKVIA-
+---------*
+>P1;gi|15805794|ref|NP_294492.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 82 E 2e-15 ] [ range 286 .. 405 ]
+sequence
+-VPGGRYRL-HPGRFTVIDDAYNASPAVR-AALDALG--EVGRRISVLGRMELGPTERELHAEVGSYARE
+QA-DLTYGVGEFAQELGE------RAFATVPELLADLLNEVRDGDI--VLVKA--SRG------------
+---------*
+>P1;gi|44070956|gb|EAG96825.1| unknown [environmental sequence] [ score 82 E 2e-15 ] [ range 19 .. 151 ]
+sequence
+---GDLNSVKLNKKKFLIDESYNSNPLSQ-FALNKLN--NSKRKLILLGDMELGKYSKKLHSEAAKHIND
+TKIDRVYVYGKEVIETFNKQK-KGKILNSKKDILNFIRNDIKDGEY--LMIKG--SNST----GLNKI--
+---------*
+>P1;gi|44582426|gb|EAK26339.1| unknown [environmental sequence] [ score 82 E 2e-15 ] [ range 272 .. 367 ]
+sequence
+--PGRGEILSLNKFK-IIDDSYNANPESK-AALDHLS--QECRKFFVFGDMELGANEEILHKKVGQYAVG
+KT-DILLTVGKLAKNASNNFA-LSLHF-------------------------------------------
+---------*
+>P1;gi|16799923|ref|NP_470191.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 82 E 3e-15 ] [ range 315 .. 454 ]
+sequence
+--KSRLEWITTKSGARILNDAYNSSPTAL-KTVMHMD--SKGKKYLVLADMELGDLSTKLHQESAEVLEN
+DTIEKIFLYGEAMKAAKIGQG-KVQHFDTKESLETALLSEINGNEW--ILVKG--SYGM----GLDVVEN
+L--------*
+>P1;gi|44001005|gb|EAG58498.1| unknown [environmental sequence] [ score 81 E 4e-15 ] [ range 72 .. 198 ]
+sequence
+-IPGRGNLIKINNSISVIDDSYNSNPTSL-KNSIYFK--TKKNKILVLGDMELGKFSKNRHTEIGKYLKT
+FKFKRIYLVGKKTKEIYKQIQ-STKYFENISIFSKNFKNVLMENSI--IMFKA--SNG------------
+---------*
+>P1;gi|44034548|gb|EAG76872.1| unknown [environmental sequence] [ score 81 E 4e-15 ] [ range 134 .. 258 ]
+sequence
+---GDLNSVKLNKKKILIDESYNSNPLSL-KALNKLN--NSKRKLILLGDMELGKYSKKLHSEAAQYIND
+TKIDRVYVYGKEVTEAFNKQK-RGKILNSKKDILNFIRNDIKDGEY--LMIKG--S--------------
+---------*
+>P1;gi|15672324|ref|NP_266498.1| D-Ala-D-Ala adding enzyme [Lactococ... [ score 81 E 4e-15 ] [ range 310 .. 440 ]
+sequence
+--------KKAKNGADLLSDVYNANPTAM-RLIQAIN--ENGRKIAVLADMELGPSAAQLHKDILKSIDF
+NKIDKVYLYGEMMKNLAEISK-AVSYFTDLDLLTESLSADLKPTDQ--VLFKG--SNSM----KLEVVEK
+L--------*
+>P1;gi|44193695|gb|EAH62944.1| unknown [environmental sequence] [ score 81 E 5e-15 ] [ range 56 .. 168 ]
+sequence
+---------------ILIDDSYNSNPASL-KSFSKLK--VTGKKFLVLGDMELGKESKEIHKGLGTKIEK
+LQFNVLYTVGKNMFEMSKVLK-NKYHEDNLDQIAENILKTIESGD--AILLKA--SNS------------
+---------*
+>P1;gi|16802897|ref|NP_464382.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 81 E 6e-15 ] [ range 315 .. 454 ]
+sequence
+--KSRLEWITTKSGARILNDAYNSSPTAL-KTVMHMD--SSGKKYLVLADMELGDLSTKLHQESAEVLEN
+DTIQKVFLYGDAMKASKIGQG-KVHHFDTKESLETALLSEIKGNEW--ILVKG--SYGM----GLDVVEN
+L--------*
+>P1;gi|23098922|ref|NP_692388.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 80 E 6e-15 ] [ range 318 .. 454 ]
+sequence
+----RFELETGINGVHIINDAYNASATSM-ASIQVME--GFQNKVLVLGDIELGTYSEHYHRSIAEVI-D
+SRISEIYTYGEQAFYIYDEIK-VNVHYKQREDVVPSLKEHLNNQTL--ILFKA--SRGM----KFEMIKE
+LQ-------*
+>P1;gi|44278112|gb|EAI15321.1| unknown [environmental sequence] [ score 80 E 6e-15 ] [ range 111 .. 233 ]
+sequence
+----RSQLAYSKSNEIII-DCYNANPSSM-AALKSIA--NNKNKVVILGDMELGEDSQKEHQTLLNLAKK
+YKLE-VYAVGEIFNSIQSDII-KNKFKTSDQALKHFTKNPIKN---SIILVKG--SRGI----ALEKL--
+---------*
+>P1;gi|15892834|ref|NP_360548.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 80 E 7e-15 ] [ range 315 .. 444 ]
+sequence
+--KGRGEIINI-QNCRVICDYYNASPQSM-AALEYLK--QAENKTAIIGDMELGENSKRLHEKLVQYILD
+AACSKVYLVGVNTKYINDAKI-AKKYFKNVDELITHITDLFEGNEL--ILIKG--SRGV----KLDKI--
+---------*
+>P1;gi|27381717|ref|NP_773246.1| bll6606 [Bradyrhizobium japonicum] ... [ score 80 E 9e-15 ] [ range 322 .. 441 ]
+sequence
+---------QAVGGVTVIDDSFNGNPASV-AAASLQA--RNGRRIAVLGDMELGDDAPSYHTGLTKHLD-
+-GIDGVYCVGPLMRHLFESGK-ALGWHDDPATLKPEVASLLKAGDV--VVVKG--SKKM-----------
+---------*
+>P1;gi|23040863|ref|ZP_00072355.1| COG0770: UDP-N-acetylmuramyl pent... [ score 80 E 9e-15 ] [ range 323 .. 465 ]
+sequence
+-LPGRARKYDLKNDIVILDESYNAGLESM-AALNLLA--EPGKRIAVLGTMELGNKSILFHQQVGNVVKN
+LNIDGLFILADFEEAKAMATG-AALQFNAHHNLAKYLQEFLQPGD--RVLFKA--SHSV----ELNKVVE
+L--------*
+>P1;gi|19553362|ref|NP_601364.1| UDP-N-acetylmuramyl pentapeptide sy... [ score 80 E 1e-14 ] [ range 350 .. 489 ]
+sequence
+----RMDVKTRADGVTIINDSYNANPDSM-AGIAALA--YSGRSWAVLGQMELGDDASEAHAELGAELAK
+YNVQELVAVGENLAESAASLG-VSTHVSDVDAALELLAGHIKRDDV--VLVKA--SNAD----RLRVAEA
+L--------*
+>P1;gi|24214164|ref|NP_711645.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 80 E 1e-14 ] [ range 329 .. 464 ]
+sequence
+-----------NGKYSVINDTYNANYESM-ISADQLA--DGKEFYAVLGDMELGEYSKEFHKKLGKKCSE
+QNLKGLYTFGTDSFWIQEEFR-FSEHFPGTQELIHKFLQTIPEGSI--VLAKA--SRGI----QLERVEA
+L--------*
+>P1;gi|34581457|ref|ZP_00142937.1| UDP-N-acetylmuramoylalanyl-D-glut... [ score 80 E 1e-14 ] [ range 315 .. 444 ]
+sequence
+--KGRGEIINI-QNCRVICDYYNASPQSM-AALEYLK--QAENKTAIIGDMELGENSKRLHEKLVQYILD
+AACSKVYLVGVNTKYINDLSK-IAKYFKNVDELITHITDLFEGNEL--ILIKG--SRGV----KLDKI--
+---------*
+>P1;gi|44581758|gb|EAK25876.1| unknown [environmental sequence] [ score 80 E 1e-14 ] [ range 39 .. 171 ]
+sequence
+---GDLNIINLKEKKILIDESYNSNPLSQ-FAINKLS--KSKSKLILLGDMELGKYSKKLHIEAARYVNS
+TNIDKVYVYGKETFNKIKPQK-RGKILNSKKDILNFMINDIKNGDY--LMIKG--SNST----GLNKI--
+---------*
+>P1;gi|43248729|gb|EAC90028.1| unknown [environmental sequence] [ score 79 E 1e-14 ] [ range 223 .. 303 ]
+sequence
+-VNGRFRSYISSKKAIIIDDSYNANPESM-KSLDQLK--QYNNKIFVMGDMELGKKSREHHLSIFKTAKT
+QNIMYLFYMGKY----------------------------------------------------------
+---------*
+>P1;gi|25028613|ref|NP_738667.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 79 E 1e-14 ] [ range 374 .. 501 ]
+sequence
+----RMDVRTRPDGVTVINDSYNANPDSM-AGVAALA--YSARRWAVLGQMELGDEAVQEHRALGAELAK
+YHVERLIAVGDNCRALEQAAA-LGVRTDDAASAVDLLRHQVRDGDV--VLVKA--S--------------
+---------*
+>P1;gi|33862674|ref|NP_894234.1| Cytoplasmic peptidoglycan synthetas... [ score 79 E 2e-14 ] [ range 329 .. 464 ]
+sequence
+-VPGGRSRRLKVGNFTVLDETYNASPEAV-AALELLA--QPGRHFAVLGTMELGDQSVALHRQVAERAVQ
+VGLDGLVVVAAGAEAEAMATA-AGAVVANPEQAAQPLQAWLEAGDV--VLLKA--SRGV----ALEKLIP
+L--------*
+>P1;gi|43210253|gb|EAC70670.1| unknown [environmental sequence] [ score 79 E 2e-14 ] [ range 27 .. 151 ]
+sequence
+---------KGSKKITIIDESYNSNPLSK-FALDSTN--KNNKKFLLIGNMELGKFSKKLHIQIAKYINN
+SKVNKIYAYGKLTKHTFNKLK-PGKMLNNRMDILNLINKELPNKSF--LMVKG--SNST----GLNKI--
+---------*
+>P1;gi|28211293|ref|NP_782237.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 79 E 2e-14 ] [ range 321 .. 459 ]
+sequence
+----RLDMVEGKKFNIV-DDSYNASPDSM-AAIEVLC--NSKRKFAVLGTMELGEEAYRAHREIGKYAGE
+KSVN-LIVLGSFSKAYIEGYL-EGLEAKDKEEVINYLDINLNSEDV--VLFKA--SRSE----HEEMVES
+FK-------*
+>P1;gi|43374509|gb|EAD52111.1| unknown [environmental sequence] [ score 79 E 2e-14 ] [ range 5 .. 132 ]
+sequence
+---GDISKIRINNKLIFIDESYNSNPMSV-KSA-VLN--YDGKRVLILGDMELGKFSKSLHKNIAKYINN
+SKIDIVHVVGKDTYYNLSKNK-KGLILKRNYEIIDLIKNQLNDKD--HLMIKG--SNST-----------
+---------*
+>P1;gi|15827430|ref|NP_301693.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 79 E 2e-14 ] [ range 358 .. 499 ]
+sequence
+----RMQVTTRADGVTVIDDTYNANPDSM-AGLQALA--QPGRSWAVLGEMELGEDSITEHDRIGRLAVR
+LDVSRLVVVGNAMHRGAVMEG-ETVNVADPAAALTLLRAEVRPGDV--VLIKA--SHS------------
+---------*
+>P1;gi|43657153|gb|EAE83496.1| unknown [environmental sequence] [ score 79 E 2e-14 ] [ range 146 .. 280 ]
+sequence
+-LPGRGQIIKINHRTFVIDDSYNANPDSM-KA--ALS--NNYQTILIIGDMELGRISKQSHKELIPAIKK
+INPNILITLGHYTKYLCNELS-PSVSYYSIETLLEDIKKILKPKQL--ILIKG--SNGT-----------
+---------*
+>P1;gi|16126796|ref|NP_421360.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 79 E 3e-14 ] [ range 323 .. 445 ]
+sequence
+--------IRIPGGATLVDESYNANPVSM-AALKTLG--AAGRRVVALTDMELGEGSAQFHAELAEPIAA
+ANVDAVFLAGVHMKSLWEATR-RGGYAEVAEKLTSVLAGAVQPGDV--VMVKG--SNGS----K------
+---------*
+>P1;gi|15618808|ref|NP_225094.1| Muramoyl-DAP Ligase [Chlamydophila ... [ score 79 E 3e-14 ] [ range 316 .. 441 ]
+sequence
+------FEHSMRNGMQVINDAYNACPEAM-AALDALS--DGGKIILILGHMELGRYSEEGHALVAEKAAS
+RG-DMIFFIGEKWIVLKSYSC-EVSFFSSAQDVKDILKQVARYGDV--ILLKG--SRAL----ALE----
+---------*
+>P1;gi|43058847|gb|EAB95784.1| unknown [environmental sequence] [ score 78 E 3e-14 ] [ range 1 .. 128 ]
+sequence
+--------IKLKHKKILIDESYNSNPLSQ-FALNKLS--KSKRKIVLLGDMELGKYSKKLHKEAAQYIND
+TKIDKVYVYGKETFNKITPQK-KGKILNSKKDILNFMINDIKNGEY--LMIKG--SNST----GLNKI--
+---------*
+>P1;gi|41407999|ref|NP_960835.1| MurF [Mycobacterium avium subsp. pa... [ score 78 E 4e-14 ] [ range 354 .. 492 ]
+sequence
+----RMQVSTRGDGVTVIDDAYNANPDSM-AGLQALA--EPGRSWAVLGEMELGDDAIAEHDRIGRLAVR
+LDVSRLVVVGTAMHHGASADK-GAVNVPDAEAALELLRAELQPGDV--VLVKA--S--------------
+---------*
+>P1;gi|22094897|gb|AAM92032.1| MurF [Flavobacterium johnsoniae] [ score 78 E 4e-14 ] [ range 299 .. 421 ]
+sequence
+----RSQLLKKGSNEIIL-DAYNANPSSM-AAITNFL--ENQNKIMILGDMELGNESHEEHKAIVDSLSN
+QNKSKCYLIGKSFYENKISNE-NIQFYETFDAFAAYLKTI--EFKDNTILIKG--SRGM----ALE----
+---------*
+>P1;gi|44353774|gb|EAI67425.1| unknown [environmental sequence] [ score 78 E 4e-14 ] [ range 2 .. 100 ]
+sequence
+----------------------------K-AALDVLC--QQGKKVAILGDMELGRFRKKLHIDLGDYAKI
+HGVNCLIGYGDLRHTVFAFGN-NGFFFKDKLELVNFLKKNLKGKE--KILLKG--SRSM----RME----
+---------*
+>P1;gi|43653128|gb|EAE81420.1| unknown [environmental sequence] [ score 78 E 4e-14 ] [ range 35 .. 167 ]
+sequence
+---GDLNIIKLKEKKILIDESYNSNPLSQ-FALNKLS--KSKRKLILLGDMELGKYSKKLHIEAARNINA
+TKIDKVYVYGKETFNKIKPQK-RGKILNSKKDILNFMINDIKNGEY--LMIKG--SNST----GLNKI--
+---------*
+>P1;gi|44010034|gb|EAG63298.1| unknown [environmental sequence] [ score 78 E 5e-14 ] [ range 1 .. 128 ]
+sequence
+--------IKLKEKKILIDESYNSNPLSQ-FAISKLN--SSKRKLILLGDMELGKYSKKLHIKAAQYINA
+AKIDKVYVYGRETFNKIKPQK-RGRILNSKKDILNFIKNDIKNGEY--LMIKG--SNST----GLNKI--
+---------*
+>P1;gi|43125027|gb|EAC28374.1| unknown [environmental sequence] [ score 78 E 5e-14 ] [ range 264 .. 329 ]
+sequence
+--PGRCN-VKHCNGVTIIDDTYNANLASS-AAIDYLS--GNGRKILVFGDMELGNSSNEQHRRIGQK---
+----------------------------------------------------------------------
+---------*
+>P1;gi|43541969|gb|EAE25711.1| unknown [environmental sequence] [ score 77 E 5e-14 ] [ range 1 .. 74 ]
+sequence
+----------------------------------------------------------EQHRRVGEKCSE
+LGIDSVYTIGDYTKYTDSAIR-NGVHFNSKKSLIDCLKEDIQAGD--KILFKG--SRGM----AMEKV--
+---------*
+>P1;gi|44657313|gb|EAK78006.1| unknown [environmental sequence] [ score 77 E 6e-14 ] [ range 34 .. 165 ]
+sequence
+---GNLFKINFDKKSILVDESYNSNPLSL-FAIDNVK--TKRKKILILSDMELGKFSKKLHIDSARYINK
+TKIDKVYVYGKYVKDTFKNNK-KGEIFKNKNEIYHFVRKNIDNNHHF--MFKG--SNST----GLQEV--
+---------*
+>P1;gi|44604207|gb|EAK41707.1| unknown [environmental sequence] [ score 77 E 8e-14 ] [ range 50 .. 179 ]
+sequence
+-IEGRGNTFNLNKSLSIIDESFNANPNSM-EAIISFS--NLKRKVLFIGDMELGKFSENYHKKIAQLINN
+TSIDIVYAVGEEIRYLIDFQK-KGALFQNVDQVILNLQDLFNNND--TVMFKA--S--------------
+---------*
+>P1;gi|43431153|gb|EAD72244.1| unknown [environmental sequence] [ score 76 E 1e-13 ] [ range 12 .. 134 ]
+sequence
+----RSQIKKSERGNYLILDAYNANPSSM-LAVDLLL--YKGNKLFILGDMELGSVSEEEHIKVIKKIHN
+AGCKAIF-IGQE--FLKYSNT-IYPFFESVDQLIE--SSKLESVYNCKILIKG--SRSV----KLEKLE-
+---------*
+>P1;gi|15834757|ref|NP_296516.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 76 E 1e-13 ] [ range 318 .. 444 ]
+sequence
+------FEQQEHNGIRIINDAYNASPDAM-AALDAVS--EGGKTVFILGHMELGRYSDECHIAVARKAVT
+KA-HVVFFVGEKWEVVSDANC-QIEFYGSVSEIMHVVKSLVRRGDV--VLLKG--SRSL----ELET---
+---------*
+>P1;gi|44302948|gb|EAI31933.1| unknown [environmental sequence] [ score 76 E 1e-13 ] [ range 47 .. 179 ]
+sequence
+---GDLNIIKLKEKKIFIDESYNSNPLSQ-FAINKFN--NSSRKLILLGDMELGKYSKKLHTEAAKYINA
+TKIDKVYVYGKETFNKIKPQK-RGKILISKKDILNFIINDIKNGEY--LMIKG--SNAT----GLNKI--
+---------*
+>P1;gi|44033123|gb|EAG76085.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 99 .. 223 ]
+sequence
+----RSQIIYKNGNEIIL-DAYNANPSSM-AALINFY--NKNSKIAILGDMELGNESHEEHKKIIEQALN
+YHDVETFFIGKYFYKAQISSK-HLKYFENFEDFSNFLNPILNSL----ILIKG--SRGM----ALERI--
+---------*
+>P1;gi|44111254|gb|EAH18637.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 24 .. 159 ]
+sequence
+-VPGGRNRRLQQGGLTLLDETYNASPVLA-ALELLAA--QPGRRFAVLGTMELGERSLELHREVAARAVQ
+LGLDGLVIVGVAMAEVAESLP-RLQLVSSPEDAASPLSTWLASGDV--LLLKA--SRGV----ALERLIP
+L--------*
+>P1;gi|29840626|ref|NP_829732.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 76 E 2e-13 ] [ range 317 .. 442 ]
+sequence
+------FEQSMRNGIQVINDAYNACPEAM-AALDAIS--ESGKIILILGHMELGNYSEEGHTIVAKKA-L
+SKASIIFFIGEKWQHVLNYGS-CEVSFHPSAQGIEELKKVVQQGDI--VLLKG--SRSL----ALE----
+---------*
+>P1;gi|17986858|ref|NP_539492.1| UDP-N-ACETYLMURAMOYLALANYL-D-GLUTAM... [ score 76 E 2e-13 ] [ range 336 .. 470 ]
+sequence
+-------VLQHPEGATLIDESYNANPTSM-AALSLLH--STGRRIAVLGDMELGRQSGKLHADLARPIVD
+AEVNTLFIGGSEMSVLKNAEI-QTEYRQSTDELLPLVVKAVRPGDV--VMVKS--SRTG----FSKIVKA
+L--------*
+>P1;gi|15965933|ref|NP_386286.1| PROBABLE UDP-N-ACETYLMURAMOYLALANYL... [ score 75 E 3e-13 ] [ range 323 .. 463 ]
+sequence
+--KGRGLRHRLRGHLTVIDESYNANPASM-AAISLLA--PGGRRIAVLGDMEMGEHSAAVHAALAGPVVE
+AGIADVWLAGPEMAHLRDALP-PEVHRDVVGDLTAYALGAVSAGDV--VMVKS--SKGT----CAKIVQA
+L--------*
+>P1;gi|44452842|gb|EAJ37297.1| unknown [environmental sequence] [ score 75 E 3e-13 ] [ range 363 .. 481 ]
+sequence
+---GDLNLIKLKEKKILIDESYNSNPLSQ-FALNKLS--KSKRKLILLGDMELGKYSKKLHLEAARYVNA
+TKIDKVYVYGKETFNKIKPQK-RGKIFNSKKDILNFMINDIKNGEI------------------------
+---------*
+>P1;gi|44530888|gb|EAJ90294.1| unknown [environmental sequence] [ score 75 E 3e-13 ] [ range 243 .. 367 ]
+sequence
+----------GKKNLTIIDESYNSNPLSK-FALDRFK--DSKKKFILIGNMELGKFSKKLHIKIAKYINK
+SNINKTHVYGNYTKHTFNKLK-PGKILNNKLEILNLIKKQLPNNSF--LMIKG--SNST----GLNKI--
+---------*
+>P1;gi|43931221|gb|EAG20675.1| unknown [environmental sequence] [ score 75 E 3e-13 ] [ range 25 .. 160 ]
+sequence
+-IPGGRNRRLQQGGLTLLDETYNASPELA-ALDLLAD--QPGRRFAVLGTMELGDRSIELHQQVAARAAA
+LKLDGVVLVGQAMANVASGLD-RLALVATPEAAAAPLGQWLQAGDV--VLLKA--SRGV----ALERLIP
+L--------*
+>P1;gi|44526273|gb|EAJ87180.1| unknown [environmental sequence] [ score 75 E 4e-13 ] [ range 313 .. 422 ]
+sequence
+-------------------DAYNANPTSM-AAISNFE--NMNNRVLILGEMELGKYSDHEHQKIVDFVKN
+KDYSRVYLVGDNFSKCNTEGE-YFFKFSNTEELAQ--SDSFKSLKNMNILVKG--SRGL----KLEK---
+---------*
+>P1;gi|33865536|ref|NP_897095.1| Cytoplasmic peptidoglycan synthetas... [ score 75 E 4e-13 ] [ range 310 .. 445 ]
+sequence
+-IPGGRNRRLQQGGLTLLDETYNASPELA-ALDLLAD--QPGRRFAVLGTMELGDRSIELHQQVAARAAA
+LKLDGVVLVGQAMANVVSCLD-RLALVATPEAAAVPLGQWLQAGDV--VLLKA--SRGV----ALERLIP
+L--------*
+>P1;gi|15643008|ref|NP_228050.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 75 E 4e-13 ] [ range 290 .. 415 ]
+sequence
+-VPGRFNVRE-KKGVLIVDDTYNASPEAQ-TSIELLR--FPGKKFAVVGAMELGERSKEFHEELGERLNV
+LDGVYVFLSEPEAEWIKSKKI-ILKS-DDPEKIAKDLATRVKKGDV--VLFKA--SRAV----RIERV--
+---------*
+>P1;gi|43135297|gb|EAC33463.1| unknown [environmental sequence] [ score 74 E 4e-13 ] [ range 2 .. 118 ]
+sequence
+------------------DESYNSNPLSL-KSINKFN--NPKKKILLLGDMELGKFSKKLHIEAAEAINK
+SKFSKLYVYGKDIRYTFNTQN-RGRILNSEEDIVKFLRNDLNDKDY--LMIKG--SNST----GLNKI--
+---------*
+>P1;gi|43994638|gb|EAG55074.1| unknown [environmental sequence] [ score 74 E 4e-13 ] [ range 34 .. 157 ]
+sequence
+---GKFYRIKRYNKIFLIDESYNANPSST-SAIKSFS--KKNRKYFIFGDMELGKKTKDYHKLISQEINS
+SDVDKTFTYGKNTLTTDKKGN-ILQHLSDFDFLM---KDFIQNNDY--IMIKG--S--------------
+---------*
+>P1;gi|44014241|gb|EAG65614.1| unknown [environmental sequence] [ score 74 E 5e-13 ] [ range 50 .. 170 ]
+sequence
+-----------NKKTIIIDDSYNANPASM-AALKNFN--NLRLKVVIIGDMELGKRSTEMHLDLVPILKN
+INPNLLLTVGKYTKKIHDQLK-LNCHYFEINQLIREIRQFIKPNQI--ILLKG--SNGT-----------
+---------*
+>P1;gi|44604210|gb|EAK41709.1| unknown [environmental sequence] [ score 74 E 6e-13 ] [ range 275 .. 404 ]
+sequence
+-IEGRGNTFNLNKSLSIINESFNANPNSM-AAIISFN--NLNRKVLFIGDMELGRFSENYHKKIAQLINN
+TSIDIVYAVGEEIRYLIDFQK-KGALFQNVDQVILNLQDLFDNNDV--VMLKA--S--------------
+---------*
+>P1;gi|15615133|ref|NP_243436.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 74 E 7e-13 ] [ range 310 .. 448 ]
+sequence
+--KMRLEKIEGQKGALLLNDAYNASPTSM-AAIKTLK--NYEKKVAVLGDIELGIDEEALHRSVADEITE
+PITTAVL-VGEKGQWIADSNI-PFVSFVEKEEATDYIEGLLDGKTV--VLFKA--SRGL----ELEIVDK
+LK-------*
+>P1;gi|15841649|ref|NP_336686.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 74 E 7e-13 ] [ range 345 .. 487 ]
+sequence
+----RMQVTTRGDGVTVIDDAYNANPDSM-AGLQALA--ATRRSWAVLGEMELGEDAIAEHDRIGRLAVR
+LDVSRLVVVGTHGAVLEEAWG-SGEATADHGA--DRTAVNVADGDGDVVLVKA--S--------------
+---------*
+>P1;gi|42899799|gb|EAB17049.1| unknown [environmental sequence] [ score 74 E 9e-13 ] [ range 74 .. 196 ]
+sequence
+----RSQKLSI-QNIPFILDAYNANPSSM-EAIKAFS--EKKNKLVVLGDMELGSQTQKEHENILNLSLE
+LEIDRIYTIGIRFAQTCIEDD-TIQKF---ESLEEFTKAFEKNKIPFNVLIKG--SRSM----QLE----
+---------*
+>P1;gi|24379080|ref|NP_721035.1| putative D-Ala-D-Ala adding enzyme;... [ score 74 E 9e-13 ] [ range 313 .. 451 ]
+sequence
+--------KKAANGADILSDVYNANPTAM-KLIIPAN--NGGKKIAVLADMELGDSELALHAAMIASLDP
+AVIDRIFLFGPLMQALADSVG-KWYYFAQADQ-VDELTEQIQKGPNDQILLKG--SNSM----KLQVVEC
+LE-------*
+>P1;gi|44084925|gb|EAH04528.1| unknown [environmental sequence] [ score 74 E 9e-13 ] [ range 53 .. 201 ]
+sequence
+--PGRKIVKKFKKKFKFIDESYNANPLSM-SAIRNMN--YYKRKIVFLGDMELGDKSRKFHKELVSIINK
+SDIDKVFVYGKYIRETFKFSK-KGKIFNNFREANDHFNKIINNNDL--LMVKG--SNAT----KKEIVSA
+L--------*
+>P1;gi|28377406|ref|NP_784298.1| UDP-N-acetylmuramoylalanyl-D-glutam... [ score 73 E 1e-12 ] [ range 322 .. 452 ]
+sequence
+--------LTGYRGEAILSDVYNSNP--T-AARRVLA--AKGQRIAVLGDMELGDQSDALHMSLASELDP
+ATIASVYLNGEHMRALAEAGA-VHYYQTDQQQLIADLTATVSADDQ--VLLKG--SHGI----HLEKV--
+---------*
+>P1;gi|43319975|gb|EAD25689.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 71 .. 203 ]
+sequence
+---GR-NKIFKSIKTTIYDESYNASPESV-KAIKNLI--EKPRKFFIFGSMELGEESEKHHKEIFNLINN
+SDIEKCLFIKKNGKIYSNYLK-DKKKFLVLNNIKDVPKEINKSKKGDSILIKG--SRCW----QLEKIIE
+L--------*
+>P1;gi|16759121|ref|NP_454738.1| UDP-N-acetylmuramoyl-L-alanine:D-gl... [ score 203 E 5e-52 ] [ range 299 .. 438 ]
+sequence
+GLAHRFQLALEHNGVRWINDSKATNVGSTEAALNGLH--VDGTLHLLLGGDGK----SADFSPLARYLTG
+-DRIRLYCFGRDGAQLAALRPEIAQQTETMEEAMRLLAPHV--QPGDMVLLSPACASLDQFKNFEQRGDV
+FTRLAKELG*
+>P1;gi|44375351|gb|EAI82613.1| unknown [environmental sequence] [ score 200 E 6e-51 ] [ range 110 .. 249 ]
+sequence
+GLAHRFQLVLEHNGVRWINDSKATNVGSTEAALNGLH--LDGTLYLLLGGDGK----SADFTPLSRYLTG
+-DNVRLYCFGRDGAQLAALRPDVAVQTETMEQAMRQIAPQV--VAGDMVLLSPACASLDQFKNFEQRGDI
+FARLAKELG*
+>P1;gi|37527520|ref|NP_930864.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 190 E 6e-48 ] [ range 297 .. 436 ]
+sequence
+GLDHRFQLARLNKGVRWINDSKATNVGSTMAALDGLN--LEGTLYLLLGGDGK----SADFSPLKPFLCG
+-NKVQLYCFGRDGKQLAQLRPEIATLTETMEQAIRDIAPRL--VAGDMVLLSPACASLDQFRNFEQRGHE
+FTRLAEELG*
+>P1;gi|16120881|ref|NP_404194.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 188 E 2e-47 ] [ range 299 .. 438 ]
+sequence
+GLPHRFQLVLERHGVRWINDSKATNVGSTEAALDGLQ--VDGTLHLLLGGDGK----SADFSGLTHFLQG
+-DRIKVYCFGRDGGQLAALRPDVSQLTETMAQAMALVAKVV--LPGDRVLLSPACASLDQFRSFEHRGNE
+FARLAEELG*
+>P1;gi|32033800|ref|ZP_00134085.1| COG0771: UDP-N-acetylmuramoylalan... [ score 181 E 2e-45 ] [ range 56 .. 193 ]
+sequence
+GLNHRFQAVKTNDGVRWVNDSKATNVGSTVAALNGLQ--VAGTLYLLLGGDGK----AADFSELKPLINK
+-PNIVCYCFGQDGAQLAALSSQSV-LVETMQQAIEQIRPQL--KKGDMVLLSPACASLDQFKNFEERGQV
+FVKLAQEV-*
+>P1;gi|23466543|ref|ZP_00122131.1| COG0771: UDP-N-acetylmuramoylalan... [ score 176 E 9e-44 ] [ range 297 .. 432 ]
+sequence
+GLAHRFQLAYQKDDVRWINDSKATNVGSTVAALTGLY--VANKLHLLLGGDGK----SADFSELATLINQ
+-PHIYCYCFGQDGKELAALSVQ-SQLFDTMEQAIEAIRPNL--QQGDMVLLSPACASLDQFKSFEHRGDV
+FSDLAK---*
+>P1;gi|33151489|ref|NP_872842.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 174 E 3e-43 ] [ range 297 .. 433 ]
+sequence
+GLAHRFQRVPTNDGVCWVNDSKATNVGSTVAALNGLP--LSGTLYLLLGGDGK----GADFSMLKALVNQ
+-PHIVCYCFGKDGKSLAELTTNSV-LVDTMQQAIEQIRPLV--KQGDMVLLSPACASLDQFNNFEERGDM
+FARLAQQ--*
+>P1;gi|42631438|ref|ZP_00156976.1| COG0771: UDP-N-acetylmuramoylalan... [ score 174 E 4e-43 ] [ range 299 .. 434 ]
+sequence
+GLDHRFQLVHQANGIRWINDSKATNVGSTVAALAGLY--IEGKLHLLLGGDGK----GADFSELAELINQ
+-PHIICYCFGRDGAQLAKFSSQ-SYLFETMEQAIEFLRPTL--QSGDMVLLSPACASLDQFASFEKRGEE
+FTHLAQ---*
+>P1;gi|37678796|ref|NP_933405.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 168 E 2e-41 ] [ range 304 .. 440 ]
+sequence
+GLTHRCQVVADNRGIKWVNDSKATNLASTQAALSGLN--CAGKLYLLVGGDGK----GADFSPLKPILAQ
+-LNLQLCCFGADGDQFMPLHA-SATRFERMEDVIEHISPQL--QSGDMVMLSPACASFDQFSNFMARGDR
+FAELARQ--*
+>P1;gi|15602005|ref|NP_245077.1| MurD [Pasteurella multocida] >gi|30... [ score 168 E 3e-41 ] [ range 297 .. 432 ]
+sequence
+GLDHRFQLAHFAHGVRWVNDSKATNVGSTVAALTGLQ--LNGTLHLLLGGDGK----GADFSELASLINQ
+-PNIICYCFGQDGEQLAALSPR-SQRFSTMEEAINALRPTL--SAGDMVLLSPACASLDQFSSFEQRGDE
+FTRLAK---*
+>P1;gi|15642400|ref|NP_232033.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 166 E 7e-41 ] [ range 329 .. 465 ]
+sequence
+GLTHRCQVVADNHGIKWVNDSKATNVASTLAALSGLK--IEGQLYLLVGGVGK----GADFTPLAPVLAT
+-LPVQLCCFGVDGHQFMPLHP-SARFYDSMESIIRSIRPQL--KSGDMVLLSPACASFDQFKNFMARGDI
+FAQLARQ--*
+>P1;gi|29653489|ref|NP_819181.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 166 E 8e-41 ] [ range 300 .. 442 ]
+sequence
+GIRHRCQWVRKYKEIDYYNDSKGTNVGATRAAIESLA--AKGQLILIAGGQGK----GADFSPLKDVVKR
+-YVKQVILIGEDAPLLEKTLKEIIKHADSMNEAVKRSTQAA--KAGDIVLLSPACASFDMFTNYEHRGDV
+FTETVEAL-*
+>P1;gi|44236679|gb|EAH86859.1| unknown [environmental sequence] [ score 165 E 1e-40 ] [ range 301 .. 439 ]
+sequence
+-LPHRCQLVLDHKAVRWVNDSKATNVGATLAAIAGLE--VSGKLILIAGGDGK----GADFSELATVLNN
+-DVDHLITLGQDGPAIAALKAGSFE-VKDLMAAVKTAAQLA--TANDLVLLSPACASLDMFKNYEDRGQQ
+FAAAVQKV-*
+>P1;gi|44037840|gb|EAG78694.1| unknown [environmental sequence] [ score 164 E 2e-40 ] [ range 72 .. 210 ]
+sequence
+-LPHRCQLVLDNKGVRWVNDSKATNVGATLAAIAGLE--VKGKLILIAGGDGK----GADFSELATVLNT
+-DVDHLITLGQDGPAIAALKAGSFE-VKDLMAAVKTAAQLA--TADDLVLLSPACASLDMFKNYEDRGQQ
+FAAAVQKV-*
+>P1;gi|44098409|gb|EAH11789.1| unknown [environmental sequence] [ score 164 E 2e-40 ] [ range 58 .. 197 ]
+sequence
+GLPHRLENVLTIQGVNYINDSKATNVNAVFYALDSMN--SQT--VWIVGGVDK----GNDYSELLPLVRE
+-KVKAIICLGVDNKKIIETFSPIVDETESMEEAVKISRKIA--EKKDTVLLSPACASFDLFKDYEDRGNQ
+FKEAIRNL-*
+>P1;gi|30316124|sp|Q9F1N2|MURD_SHEVI UDP-N-acetylmuramoylalanine--D-... [ score 163 E 5e-40 ] [ range 299 .. 436 ]
+sequence
+GLAHRCELVANIAAVAYVNDSKATNVGATVAALEGLG--EHGDIILIVGGDGK----GADFTPLETVFN-
+-KVAHLITLGKDGDKIAALK-EHSHKADSMADAVKQAAELA--TAGDIVLLSPACASLDMYKNFMARGDD
+FRQLAQAL-*
+>P1;gi|23107184|ref|ZP_00093489.1| COG0771: UDP-N-acetylmuramoylalan... [ score 163 E 5e-40 ] [ range 293 .. 429 ]
+sequence
+GLPHRMERVAEANGVLFVNDSKATNPASTAPALGA-----YPRIHWILGGLPK----SDNLDECAPYFD-
+-HVVAAYTIGEAGPRFAEILEPVVTRSEMLCDAVRQAMEAA--QPGDVVMLSPACASFDQFRDFEARGDS
+FRQIVEAL-*
+>P1;gi|23468789|ref|ZP_00124124.1| COG0771: UDP-N-acetylmuramoylalan... [ score 163 E 6e-40 ] [ range 305 .. 445 ]
+sequence
+GLEHRCQWLREHDGVHYYNDSKATNVGAALAAIEGLD--IDGKLVLIAGGDGK----GADFSGLRAPVAR
+-HCRAAVLLGRDAELIAQALGDAVPRVDTVQAAVEHSAKLA--QCGDAVLLSPACASLDMFKNYEERGRV
+FAQAVE---*
+>P1;gi|23029059|ref|ZP_00067425.1| COG0771: UDP-N-acetylmuramoylalan... [ score 163 E 6e-40 ] [ range 313 .. 454 ]
+sequence
+GLPHRCQWVANKNGVTYINDSKATNIGSAQAAIEGLA--GQKNIVLIAGGDGK----GADFSSLGKVINQ
+-YVSAVVLIGVDAPKIQAVVDPMCVKAQTLNAAVKQAALLA--KSGDLVLLSPACASLDMFANYEARGHE
+FALTVAEV-*
+>P1;gi|44644661|gb|EAK70922.1| unknown [environmental sequence] [ score 162 E 1e-39 ] [ range 206 .. 345 ]
+sequence
+GVEHRLEKVLKIENVQYINDSKATNVNATFFALESME--TPT--VWIVGGVDK----GNDYTELMSLVNE
+-KVKAIVCLGVDNKKIIDSFNNIVDETSSMEQAVKVAQKLA--EKGDTVLLSPACASFDLFENYEDRGNK
+FKSAVRGL-*
+>P1;gi|43771266|gb|EAF40093.1| unknown [environmental sequence] [ score 162 E 1e-39 ] [ range 171 .. 309 ]
+sequence
+GVPHRLEKVSEINGVTYINDSKATNLDAVQVALKSF----SQPVILLLGGMDK----GGDFRSLLPHTHK
+-YLKTVIAFGQAKEIILLAVGDAVRSTSAMNEALSLAQNYS--QPGDIVLLSPGCASFDQFDNFEQRGNH
+FKKLVNTI-*
+>P1;gi|32490957|ref|NP_871211.1| murD [Wigglesworthia glossinidia en... [ score 161 E 2e-39 ] [ range 300 .. 438 ]
+sequence
+GLPHRFQIIHKKNNISWINDSKSTNVSSTIAALSSIK--IKGNIHLLLGGDSK----KANLLPLMKIIRN
+-KKIKLYCFGKDAYLLSKISTD-SFINDTLYHSMIKIKENL--NHGDIVLLSPACSSLDQFKNFKERGEK
+FTKLAQKIG*
+>P1;gi|22999609|ref|ZP_00043580.1| COG0771: UDP-N-acetylmuramoylalan... [ score 161 E 2e-39 ] [ range 312 .. 450 ]
+sequence
+GLPHRMAWVRRMDGVTYINDSKGTNVGAVLEAIPSF----PEGVVLIAGGKAK----KTDFSPLIPLLQK
+-YVRHLILIGTATEEMAAMFQAVVQRATSMEDAVQIAQQVA--QPGETVLLSPACASFDMFLNFEDRGRR
+FCQAVEAL-*
+>P1;gi|33593956|ref|NP_881600.1| putative peptidoglycan synthesis pr... [ score 161 E 2e-39 ] [ range 363 .. 502 ]
+sequence
+GEPHRAELVRSIGDVDYINDSKGTNVGATVAALEGL----GQQVVLIAGGQGK----GQDFSPLVPVVRR
+-HARAVVLIGVDGAAIGKVLEPTCAAAADMREAVRRAAELA--QPGDAVLLSPACASFDMFRNYPHRGEV
+FAAEVREL-*
+>P1;gi|27904701|ref|NP_777827.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 161 E 2e-39 ] [ range 302 .. 440 ]
+sequence
+GLPHRCQKVYKNNNITWINDSKSTNIASTKSAIQSIN--TKGKIRLILGGDKK----SSNLNLLKPILKN
+-NAIVIYCYGKDKKELFNLYPHKSKIFETLQEVMQHISVQV--QPGDVVLLSPACSSLDQFSGFEERGNT
+FVKLIQEL-*
+>P1;gi|28897232|ref|NP_796837.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 161 E 2e-39 ] [ range 299 .. 435 ]
+sequence
+GLTHRCQVVADNRGVKWVNDSKATNIASTMAALSGLE--STGKLYLLVGGVGK----GADFTPLKPIFAT
+-LNLQLCCFGLDGDDFMPLH-ESAIRFNTMEDVIQQISSQL--KSGDMVMLSPACASFDQFDNFMARGDA
+FAVLAQK--*
+>P1;gi|21672497|ref|NP_660564.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 161 E 2e-39 ] [ range 301 .. 439 ]
+sequence
+GLPHRFQTVHINNNISWINDSKSTNVDSTKAALKNLK--IKGTIWLLLGGDGK----SSNFNILKKYFEK
+-IKIKIYCFGKDGLNLSKLCKKKSIYTKTLKQAIILISKKI--QPGDVVLLSPGCSSKDQFSNFEERGNL
+FIKLSKEI-*
+>P1;gi|23054335|ref|ZP_00080492.1| COG0771: UDP-N-acetylmuramoylalan... [ score 161 E 2e-39 ] [ range 309 .. 447 ]
+sequence
+GLPHRMELVRELAGVRYYEDSKATNVGSVEKALASFN-----DITLIAGGKDK----GGSYAPLAPLVTE
+-RVRHMVLIGEAKERMARELGSLTDMATTLEEAVELAASLT--EPGGVVLFSPACSSFDMFRDYEERAQR
+FRAAVNALG*
+>P1;gi|15599610|ref|NP_253104.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 161 E 3e-39 ] [ range 305 .. 447 ]
+sequence
+GLAHRCQWVRERQGVSYYDDSKATNVGAALAAIEGLD--IDGKLVLLAGGDGK----GADFHDLREPVAR
+-FCRAVVLLGRDAGLIAQALGNAVPLVRTLDEAVRQAAELA--REGDAVLLSPACASLDMFKNFEERGRL
+FAKAVEEL-*
+>P1;gi|28871545|ref|NP_794164.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 161 E 3e-39 ] [ range 305 .. 445 ]
+sequence
+GLEHRCQWLRERNGVDYYNDSKATNVGAALAAIEGLD--IGGKLVLIAGGDGK----GADFSGLRAPVAK
+-YCRAAVLLGRDAELIAQALGDAVPRVDTVQAAAERSAELA--QRGDAVLLSPACASLDMFKNYEERGRV
+FAQAVE---*
+>P1;gi|44086215|gb|EAH05184.1| unknown [environmental sequence] [ score 160 E 4e-39 ] [ range 1 .. 137 ]
+sequence
+--PHRLEKVSEINGVTYINDSKATNLDAVQVALKSF----SQPVILLLGGMDK----GGDFRSLLPHTHK
+-YLKTVIAFGQAKEIILLAVGDAVRSTSAMNEALSIAQNYS--QPGDIVLLSPGCASFDQFDNFEHRGNH
+FRELVNTI-*
+>P1;gi|43514486|gb|EAE11975.1| unknown [environmental sequence] [ score 160 E 4e-39 ] [ range 21 .. 163 ]
+sequence
+GLPHRCQWVRDISGIGFYNDSKGTNVGATMAAIEGLR--ITGHVVLIAGGVAK----GADFSSLVPVLNR
+-WAKGLVLIGQDAEAVASSRDISTNFAIDMQDAVAIAKKKA--SPGDVVLLSPACASFDMFRDFQHRGQE
+FIDSVENL-*
+>P1;gi|26988069|ref|NP_743494.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 160 E 5e-39 ] [ range 307 .. 446 ]
+sequence
+GLAHRCQWVRERNGVNWYDDSKATNVGAALAAIEGLD--IEGKLVLIAGGDGK----GAEFTALREPVKR
+-FCRAVVLLGRDAERLAEALGDAVPRVKTLDDAVQQCAELA--QAGDAVLLSPACASLDMFKNFEERGRL
+FAQAA----*
+>P1;gi|30248992|ref|NP_841062.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 160 E 7e-39 ] [ range 320 .. 457 ]
+sequence
+GLPHRMQKVAEFNGVTFYDDSKSTNIGSAVAALNGFR----KNVILIAGGDGK----GQDFSPLEQPVSK
+-HVRSVVLLGRDADKVAQASNVPIHRVTTMDEAVQVSFLLA--EHGDVVLLSPACASLDMFNNYIHRAEV
+FTAAVR---*
+>P1;gi|45529503|ref|ZP_00180647.1| hypothetical protein Mther134601 ... [ score 158 E 1e-38 ] [ range 312 .. 448 ]
+sequence
+-VPHRLEPVAEINGVCYINDSKGTNPEATMKAINAY----SNPLVLIAGGRNK----GSDFTLLAQQMAG
+-RVKHLVLVGEAARELEQAARKSIYLAPDFASAVREAAGAA--RPGDIVMLSPACASWDMFKNYEERGDV
+FKSLV----*
+>P1;gi|43774237|gb|EAF41594.1| unknown [environmental sequence] [ score 158 E 2e-38 ] [ range 6 .. 145 ]
+sequence
+GLPHRLEKFLKIQGVNYINDSKATNVNAAYYALDSMQ--SPT--IWIAGGVDK----GNDYSDLLPIVRE
+-KVKAIICLGIDNTKIMETFKPVIEETESITEAVKVANKIA--VKKDNVLLSPACASYDLFENYEDRGNQ
+FKDAVRNL-*
+>P1;gi|20808074|ref|NP_623245.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 158 E 2e-38 ] [ range 306 .. 448 ]
+sequence
+GVEHRIEFVAEIEGIKFYNDSKGTNPDASIKAIQALK----TPIVLIAGGYDK----GSEFDEFVKTFDK
+-KVRKLILIGQTAQKIKKTAEEDIFLVDSLEEAVRKAYEVA--EKGDSVLLSPACASWDMFKNFEERGKA
+FKKAVMDL-*
+>P1;gi|23114021|ref|ZP_00099347.1| COG0771: UDP-N-acetylmuramoylalan... [ score 157 E 4e-38 ] [ range 309 .. 447 ]
+sequence
+GVEHRQEVVGTYEGILFINDSKGTNPDAAEKALYAFE----EPIVLIAGGKNK----GLDFHDFMKTVKE
+-QVKSLVLVGSAAAEMEQAAKDHYLRAETFAEAVELAIAEA--EPGNVVLLSPACTSWDMFKSYEERGEF
+FKELVR---*
+>P1;gi|44295753|gb|EAI27085.1| unknown [environmental sequence] [ score 157 E 4e-38 ] [ range 227 .. 365 ]
+sequence
+GVPHRLEKVAEINNIIYINDSKATNLDAVNVALQSL----SQPIILLLGGLDK----GSDFRSLLPHTHK
+-YLKTVIAFGQAKELILLAIRDAVRSTSAMDEALSLAQNYS--QPGDIILLSPGCASFDQFDNFEHRGDY
+FKDLVNTM-*
+>P1;gi|29840624|ref|NP_829730.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 156 E 6e-38 ] [ range 278 .. 411 ]
+sequence
+--PHRIEYLGEKDGVSYINDSKATTMSSVEKAL--IA--VKENVIVILGGRNK----GSDFTSLIPILTQ
+-TVKHIVAMGECRNEIAQALSGSLTQARDLQEAVSMAQSIA--QPGDVILLSPGCASFDQFRSFEERGDC
+FRQLV----*
+>P1;gi|23103640|ref|ZP_00090118.1| COG0771: UDP-N-acetylmuramoylalan... [ score 156 E 7e-38 ] [ range 305 .. 444 ]
+sequence
+GLPHRCQWLRDVREVGYYDDSKATNVGAALAAIEGLD--IAGKLVLIAGGDGK----GADFSSLRRPVAE
+-HCRAVVLLGRDAGRIAVVLDGAVPLVRTLEEAVERSASLA--EAGDAVLLSPACASLDMFRNFEERGRL
+FAQAV----*
+>P1;gi|21672877|ref|NP_660942.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 156 E 8e-38 ] [ range 326 .. 464 ]
+sequence
+GVEHRQELAGNACGLNWINDSKATSVNALRQALQS----VPAGMVLIAGGRDK----GNDYSAIADLVRE
+-KVACIVAIGESRRKIADAFRGVTPVVESLAEAVELARQNA--RPGASVLFSPACSSFDMFRDFEDRGRQ
+FKQLVREL-*
+>P1;gi|45520616|ref|ZP_00172144.1| hypothetical protein Mflag203301 ... [ score 156 E 1e-37 ] [ range 307 .. 446 ]
+sequence
+GLPHRVQWVADIDGVSFYDDSKGTNVGATVAALHGLN----RKLVLIAGGDGK----GQDFAALRAPVAK
+-HARAVVLIGRDAGVIADALQELLEYGDTLEEAVVKAFNLA--DRGDAVLLSPACASLDMFRNYVHRAEV
+FVKAVTDL-*
+>P1;gi|27262262|gb|AAN87412.1| UDP-N-acetylmuramoylalanine--D-glutam... [ score 156 E 1e-37 ] [ range 57 .. 196 ]
+sequence
+-VEHRMEPVGMVNGVEYINDSKGTNPDASIKAIESY----DKPIVLIAGGKNK----GSDFRELASLIKE
+-RVKAVVLVGQAAPILEEALRSSGTRVQTFAETVAEASKLA--QPGDVVLLSPACASLDMFPNYEERGRV
+FKELVRQL-*
+>P1;gi|34540387|ref|NP_904866.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 156 E 1e-37 ] [ range 312 .. 450 ]
+sequence
+-VPHRLEKIARVKGVDYINDSKATNVNSTWYALESMK----TRVILILGGTDK----GNDYTDIENLVLS
+-KVDGLIFLGIDNEKLHKFFDGKISRIASMHEAVSLAYKMA--SKGDTVLLSPACASFDLFQNYEDRGDQ
+FRKEVLNL-*
+>P1;gi|39998162|ref|NP_954113.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 156 E 1e-37 ] [ range 309 .. 446 ]
+sequence
+GLPHRMELVRELNGVRYFEDSKATNVGSVEKALASFN-----DITLIAGGKDK----GGSYAPLAGLVAE
+-RVRHMILIGEAKDRMARELGHLTDMAVTLEDAVELAASLT--QPGGVVLFSPACSSFDMFRDYEERAQR
+FRAAVDAL-*
+>P1;gi|43277226|gb|EAD04382.1| unknown [environmental sequence] [ score 155 E 1e-37 ] [ range 30 .. 168 ]
+sequence
+GLEHRLEWVCSQDGIDYINDSKGTNVGSVCKSLKIF----DRPIILIAGGKDK----NADLSPLKKIMKE
+-KVKHLVLIGETRGKFRNMLNGSYDESDSLEDAVHKAKGKA--EKGDVILFSPGCASFDMFKDFIDRGNQ
+FKSIVNNL-*
+>P1;gi|16078584|ref|NP_389403.1| UDP-N-acetylmuramoylalanine D-gluta... [ score 155 E 2e-37 ] [ range 311 .. 450 ]
+sequence
+GVKHRLQYVTTVNGRKFYNDSKATNILATSKALSAF----DKPVILLAGGLDR----GNGFDDLKPYMK-
+-HVKAVLTFGQTAPKLEKLGNELVKRVDNVEQAVSAAFALS--NEGDVILLSPACASWDQFKTFEERGDM
+FIDAVHML-*
+>P1;gi|15607039|ref|NP_214421.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 154 E 2e-37 ] [ range 272 .. 409 ]
+sequence
+GLPHRLEFLGNFNGVEVYNDSKSTTPHALMHALKTFP---DNSVILIVGGKDK----GADFYSLRHIVQK
+-KVKIALAIGETKEKIKDSWKDITEVCNTLEEAVKLAREVS--KLGNVVLFSPACSSFDMFRNYEERGEK
+FKELVE---*
+>P1;gi|15616836|ref|NP_240048.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 154 E 2e-37 ] [ range 302 .. 439 ]
+sequence
+-LPHRFQIIKNEKGVRWINDSKSTNVNSTQVALNSIK--TTGTIRLLLGGDSK----SANFNILKNIFRT
+-LKIKIYCFGRDGIKLSKICEKKSIYVENLKKAVILISKQV--KSGDTVLLSPGCSSLGQFSNFEERGNL
+FIKLIKEI-*
+>P1;gi|30022001|ref|NP_833632.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 154 E 3e-37 ] [ range 310 .. 449 ]
+sequence
+GVKHRLEYVTTINNRKFYNDSKATNMLATEKALSAFT----QPIVLLAGGLDR----GNEFDDLIPYFK-
+-NVKAIVTFGQTAPKLVRAAEKIIESVDTLDEAVVKAYAHS--KDGDVVLLSPACASWDQFKTFEERGDI
+FIQAVHKL-*
+>P1;gi|28378801|ref|NP_785693.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 154 E 4e-37 ] [ range 312 .. 452 ]
+sequence
+GVRHRTQYVETYQDRQFYNDSKATNLVSTEMALKGF----DQPVILLAGGLDR----GNTFEKLAPALKA
+-HVKTLIVFGETAEKMADAGRQDIEFTDNCETAVPIAWQHS--QAGDIIMLSPACASWDQYPNFEVRGDR
+FIKAIEQL-*
+>P1;gi|15794942|ref|NP_284764.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 153 E 5e-37 ] [ range 306 .. 445 ]
+sequence
+GLPHRVEKIGEKNGVVFIDDSKGTNVGATAAAIAGLQ----NPLFVILGGMGK----GQDFTPLRDALAG
+-KAKGVFLIGVDAPQIRRDLDGCMTDCATLEEAVQKAYAQA--EAGDIVLLSPACASFDMFKGYAHRSEV
+FIGAFKAL-*
+>P1;gi|44436514|gb|EAJ25818.1| unknown [environmental sequence] [ score 153 E 6e-37 ] [ range 304 .. 443 ]
+sequence
+GLPHRLENFLKIQGVNYINDSKATNVNAAYFALDSMT--SPT--VWIAGGVDK----GNDYSELLPIVRE
+-KVKAIICLGIDNTKLLETFKPISEETESIDEAVKIASKIA--EKKDNVLLSPACASFDLFENYEDRGNQ
+FKQAVRNL-*
+>P1;gi|23040065|ref|ZP_00071597.1| COG0771: UDP-N-acetylmuramoylalan... [ score 153 E 6e-37 ] [ range 305 .. 443 ]
+sequence
+GVPHRLEYICRWNGVDFINDSKATNYDAAAMGLKALV----APILLIAGGEAK----EGNDNDWLRQIKE
+-KVVFVLLIGSAAEFLAKRLQKIYEIVENMERAVIRGAALS--KKYDTVLLSPACASFDQYQNFEERGEV
+FRQL-----*
+>P1;gi|44642554|gb|EAK69246.1| unknown [environmental sequence] [ score 153 E 7e-37 ] [ range 299 .. 436 ]
+sequence
+GLSHRCEVVGVKGGVTYVNDSKATNVGATVAALDGLS--DHGDIILIAGGDGK----GADFSPLAEPLT-
+-KVTHLITLGRDGNKIAALKEG-AIKVDSMAAAVAKAAQLA--TSGDIVLLSPACASLDMYSNFMARGDD
+FRSQVEQL-*
+>P1;gi|42524582|ref|NP_969962.1| murD [Bdellovibrio bacteriovorus HD... [ score 153 E 8e-37 ] [ range 323 .. 460 ]
+sequence
+GLPHRIEYVRKVGGVMFYNDSKATNVHAVLRALDTF----DENVILIAGGKDT----NLNYEPLRTSVKR
+-KVKTLILVGEAKERINRDLGDFSETFGTFEEAVLIAYQKS--RIGDVVLLSPGCSSFDMFDSFEERGDY
+FKEIVRK--*
+>P1;gi|22297617|ref|NP_680864.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 153 E 9e-37 ] [ range 312 .. 454 ]
+sequence
+GVPHRLERIRQWREVEWINDSKATNYDAAEIGLRS----VTGPVILIAGGQAK----KGDDRPWLNLIQE
+-KAAWVLLIGEAAPQFAQRLEAIYEIMETLDRAVAAAAELV--TPIKTVLFSPGCASFDQYQNFEERGDH
+FRQLCLEL-*
+>P1;gi|43258688|gb|EAC95010.1| unknown [environmental sequence] [ score 153 E 1e-36 ] [ range 134 .. 272 ]
+sequence
+GLEHRLEWVCSQDGVDFINDSKGTNVGSAYKSLNTF----DRPIILIAGGKDK----NADFSSLKKIMKK
+-KVKHLILIGETRPKFRSLLNGSYEESDSLKDAVHKAKEKA--DKGDVVLLSPACASFDMFTDYIDRGNQ
+FKSIVKNL-*
+>P1;gi|44523943|gb|EAJ85598.1| unknown [environmental sequence] [ score 152 E 1e-36 ] [ range 354 .. 491 ]
+sequence
+--PHRCVEIARVNDIRYIDDSKATNIGATVAALEGLA--IQGKLILIAGGDAK----GADMASLSPYLNK
+-YVSHVFALGKDAHLFDKSFA-HTTRVATMKDAVKAATRLA--APCDVVLLSPACASLDMFKNYMHRGDV
+FKQDVHDL-*
+>P1;gi|23137499|ref|ZP_00119205.1| COG0771: UDP-N-acetylmuramoylalan... [ score 152 E 1e-36 ] [ range 311 .. 448 ]
+sequence
+--PHRLEFVGSIYGVKFVNDSKATNVDSVWYALDSMK----TPVVLIVGGVDK----GNDYSQIEALVKE
+-KVHTVVALGKDNSKFASMVSEIKE-AHSMVEAIRIAHDSA--KKGDTVLLSPACASFDLFKNYEDRGTQ
+FRNLVIEL-*
+>P1;gi|43550223|gb|EAE29881.1| unknown [environmental sequence] [ score 152 E 2e-36 ] [ range 45 .. 183 ]
+sequence
+-IPHRLEHFLTIQKVKYINDSKATNVNSAFYALDSF----DGPIVWIAGGVDK----GNNYDDLIPMVSS
+-KVKAIICLGKDNNKLIDVFSDVIVSTDKISDAVSSAYKIS--KPGDVVLLSPACASFDLFKSFEDRGDQ
+FKEEVRKL-*
+>P1;gi|15836434|ref|NP_300958.1| muramoylalanine-glutamate ligase [C... [ score 151 E 2e-36 ] [ range 278 .. 413 ]
+sequence
+---HRLEYLGKKDGVHYINDSKATTVTAVEKAL--MA--VGKDVIVILGGKDK----GGDFPALASVLSQ
+-TTKHVIAMGECRQTIADALSEKIPLTKDLQEAVSIAQTIA--QEGDTVLLSPGCASFDQFQSFKERGAY
+FKLLIREM-*
+>P1;gi|44286818|gb|EAI21135.1| unknown [environmental sequence] [ score 151 E 2e-36 ] [ range 299 .. 436 ]
+sequence
+GLSHRCEVVGVKAGVTYVNDSKATNVGATVAALDGLS--DHGDIILIAGGDGK----GADFSPLVEPLT-
+-KVTHLITLGRDGNKIAALKEG-AIKVDSMAAAVAKAAELA--TSGDIVLLSPACASLDMYSNFMARGDD
+FRSQVEQL-*
+>P1;gi|29348859|ref|NP_812362.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 151 E 2e-36 ] [ range 273 .. 413 ]
+sequence
+GVEHRLEKVARVRGIDFINDSKATNVNSCWYALQSMT--TKT--VLILGGKDK----GNDYTEIEDLVRE
+-KCSALVYLGLHNEKLHAFFDPVADVQTGMKDAVEAAYKLA--KKGETVLLSPCCASFDLFKSYEDRGDQ
+FKKYVREL-*
+>P1;gi|15605491|ref|NP_220277.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 151 E 2e-36 ] [ range 277 .. 409 ]
+sequence
+--PHRMEYLGQKQGIHYINDSKATTVSATETAL--LG--VGNQAIVILGGRNK----GCTFSSLLPALRK
+-AAKSVVAMGECAQEIARDLEEFVTVVKNLSEALLCAEEQA--VPGDVIVLSPACASFDQFRSYEERGAM
+FKQLV----*
+>P1;gi|15676332|ref|NP_273468.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 151 E 2e-36 ] [ range 306 .. 445 ]
+sequence
+GLPHRVEKIGEKNGVVFIDDSKGTNVGATAAAIAGLQ----NPLFVILGGMGK----GQDFTPLRDALVG
+-KAKGVFLIGVDAPQIRRDLDGCGTDCATLGEAVQTAYAQA--EAGDIVLLSPACASFDMFKGYAHRSEV
+FIEAFKAL-*
+>P1;gi|45508786|ref|ZP_00161123.1| hypothetical protein Avar217801 [... [ score 151 E 2e-36 ] [ range 310 .. 452 ]
+sequence
+GVAHRLEHICTWQGIDFINDSKATNYDAAEVGLASVK--S--PVILIAGGEAK----PGDDAAWLAKIQG
+-QTSAVLLIGNAAPAFAQRLQEIYEIVETMEQAVRRSLDLA--KQAPVVLLSPACASFDQYPNFEARGDH
+FRQLCLEL-*
+>P1;gi|43204404|gb|EAC67761.1| unknown [environmental sequence] [ score 151 E 2e-36 ] [ range 141 .. 279 ]
+sequence
+GLEHRLEWVCNQDGIDFINDSKGTNVGSVCKSLNTF----DRPIILIAGGKDK----NIDFSGLKKIIKK
+-KVKYLILIGETKQKFKSILNGNYEESDSLVEAVRLAKTKA--KKGDVVLLSPACASFDMFEDYIDRGNQ
+FKSIVKRL-*
+>P1;gi|23014458|ref|ZP_00054273.1| COG0771: UDP-N-acetylmuramoylalan... [ score 151 E 3e-36 ] [ range 311 .. 452 ]
+sequence
+GLAHRQELVGEDHGIAWINDSKATNADAVEKAL---V--CYEHIYWILGGQAK----EGGIASLERHF-G
+-RIQHAFLIGEASEAFAATLEGKVRYTRTLANAVAAARNLA--VPGAVVLLSPACASWDQFKSFEDRGDT
+FRDLVQAFG*
+>P1;gi|44230747|gb|EAH83427.1| unknown [environmental sequence] [ score 151 E 4e-36 ] [ range 126 .. 262 ]
+sequence
+-IDHRLEFVAKINDVTYINDSKATNVNSTWYALESVN--TD--VVLIMGGVDK----GNDYEMLKDLVKS
+-KVKAIVCLGKDNKRIHDAFEDVIVNTFSAEEAVQVAYHLA--KKGSTVLLSPACASFDLFKSYEDRGNQ
+FKAAVK---*
+>P1;gi|44042469|gb|EAG81159.1| unknown [environmental sequence] [ score 150 E 6e-36 ] [ range 5 .. 140 ]
+sequence
+GLPHRSQIVAEAGGVTYVNDSKATNVDSAAKALSAFK-----RIRWICGGLEK----EGGVSALSD-AAG
+-AVVKAYVIGREAAGFAIQLSGVTEVCTTMEEAVRRAASDA--EAGDTVLLAPAAASFDQYDSFERRGED
+FMAQVAKV-*
+>P1;gi|33519614|ref|NP_878446.1| UDP-N-acetylmuramoyl-L-alanine:D-gl... [ score 150 E 6e-36 ] [ range 302 .. 444 ]
+sequence
+GLSHRFQLVYKNRNVCWINDSKATNVGATKEAINNTI--IDGNLHLLLGGDGK----LANFFELSCLIKH
+-YAIHLYCFGKDGVCLTQSGFNDVFLSNNIIDAMYIISRRV--QRKDIVLLSPACASLDQFSSFRARGNL
+FTYLAQRLG*
+>P1;gi|17231604|ref|NP_488152.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 149 E 1e-35 ] [ range 309 .. 451 ]
+sequence
+GVAHRLEHICTWEGIDFINDSKATNYDAAEVGLASVK--S--PVVLIAGGEAK----PGDDTAWLAKIQA
+-QTSAVLLIGSAAPAFAQRLKEVYEIVETMEKAVRRSLELA--KQAPVVLLSPACASFDQYPNFEARGDH
+FRELCLEL-*
+>P1;gi|30263914|ref|NP_846291.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 149 E 1e-35 ] [ range 310 .. 449 ]
+sequence
+GVKHRLEYVTTINNRKFYNDSKATNMLATEKALSAFT----QPTVLLAGGLDR----GNEFDDLIPYFK-
+-NVKAIVTFGQTAPKLVRAAEKAIESVDTLDEAVVKAYAHS--TDGDVILLSPACASWDQFKTFEERGDI
+FIQAVHKL-*
+>P1;gi|44385195|gb|EAI89864.1| unknown [environmental sequence] [ score 149 E 1e-35 ] [ range 185 .. 322 ]
+sequence
+--PHRCVEVARVNSVRYIDDSKATNIGATIAALEGIS--IAGKLLLIAGGDAK----GADISSLAPYLTQ
+-YVSHVFALGKDAHLFAQSFA-HTTQVATMKEAVKGALRLA--APGDAVLLSPACASIDMFKNYMHRGEM
+FKQTVHDL-*
+>P1;gi|43155694|gb|EAC43515.1| unknown [environmental sequence] [ score 148 E 2e-35 ] [ range 14 .. 157 ]
+sequence
+GVPHRLERIRELSGITYYNDSKATNYDASLVALQSLE----RPLVVLAGGRAK----RGEPGAWLEALRR
+-KAAAVVLFGEARSTFSELLPGVIEQQEHLDQALPLARRLA--EQLNCVLLSPACASFDQYRDFEVRGDH
+FRQLVEAM-*
+>P1;gi|43407103|gb|EAD64774.1| unknown [environmental sequence] [ score 148 E 2e-35 ] [ range 53 .. 194 ]
+sequence
+--EHRCELVAEWEGVRFYNDSKATNVHALVSALRSMQ--AARNVWLIAGGQGK----GMDYQAAASAVGE
+-RVKEAWLIGASAAEIQSAWSPFCNLVADLIEAIAEAGRNA--APGDVVLLSPACASFDMFDSYQHRGNQ
+FRAAVTE--*
+>P1;gi|42998206|gb|EAB65990.1| unknown [environmental sequence] [ score 148 E 2e-35 ] [ range 121 .. 264 ]
+sequence
+GVPHRLERIRELSGITYYNDSKATNYDASLVALQSLE----RPLVVLAGGRAK----RGEPGAWLEALGQ
+-KAAAVVLFGEAQSTFRELLPGVIEQQEHLDQALPLARRLA--EQHNCVLLSPACASFDQYRDFEVRGDH
+FRQLVEAM-*
+>P1;gi|15924173|ref|NP_371707.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 148 E 2e-35 ] [ range 307 .. 440 ]
+sequence
+GIEHRLQYVGTNRTNKYYNDSKATNTLATQFALNSFN----QPIIWLCGGLDR----GNEFDELIPYM-E
+-NVRAMVVFGQTKAKFAKLQGKSVIEANNVEDAVDKVQDII--EPNDVVLLSPACASWDQYSTFEERGEK
+FIE------*
+>P1;gi|22977733|ref|ZP_00023519.1| COG0771: UDP-N-acetylmuramoylalan... [ score 148 E 3e-35 ] [ range 357 .. 496 ]
+sequence
+GEPHRVEWVATIDEVEYFDDSKGTNVGATVAALSGL----DKHVVLIAGGEGK----GQDFSPLVAPVAQ
+-YARAVVLIGKDAGALREALGATGKDAGSLEEAVEKSASLA--EAGDVVLLSPACASLDMFRNYVHRAQV
+FRGAVEEL-*
+>P1;gi|44342021|gb|EAI59011.1| unknown [environmental sequence] [ score 148 E 3e-35 ] [ range 198 .. 336 ]
+sequence
+GIEHRLEKVVINNGVAYYNDSKATNIESVIAAIQSF----SNSVILILGGKDK----DSNFVELIPFIKH
+-NVKKIISYGQASKKIAIALRDAVEQVSSLRDAVEVCHKSA--VPGDIVLLSPGCASFDQFNNYEERGNE
+FKKIVNEM-*
+>P1;gi|44280101|gb|EAI16647.1| unknown [environmental sequence] [ score 148 E 3e-35 ] [ range 43 .. 182 ]
+sequence
+GEPHRVELIASIEGIDYVDDSKGTNVGATVAALDGLA----QRAVLIAGGDGK----GQDFEPLAAPVMR
+-WCRAVMLIGRDAPQIRAALEDTGIAMTTLEEATRAATALA--QPGDAVLLSPACASFDMFKGYAHRAAV
+FRSTVEEI-*
+>P1;gi|16801208|ref|NP_471476.1| similar to UDP-N-acetylmuramoylalan... [ score 147 E 4e-35 ] [ range 311 .. 449 ]
+sequence
+GVEHRTQFVVEWQGRKFYNDSKATNILATQSALKGFK----NPVVLLAGGLDR----GNSFDELLPFFK-
+-NVKSLIVFGETADKIGKIAGIEVHYVDDVEAAVPVAYRES--APGDIILLSPACASWDQYRTFEVRGNA
+YMDAISEL-*
+>P1;gi|22993224|ref|ZP_00037830.1| COG0771: UDP-N-acetylmuramoylalan... [ score 147 E 4e-35 ] [ range 63 .. 203 ]
+sequence
+GVPHRTQYVGEIQGRKFYNDSKATNILATKMALSGFE--TSK-VVLLAGGLDR----GNTFDELIPSLKG
+--IKAMVVFGQTKEKLKKAGIETIVTADSVEQAVPLALENS--TDGDVVLLSPANASWDQYPNFETRGNR
+FMEAVNRL-*
+>P1;gi|43403632|gb|EAD63635.1| unknown [environmental sequence] [ score 147 E 4e-35 ] [ range 101 .. 238 ]
+sequence
+--PHRCVEIACVNDIRYIDDSKATNIGATIAALEGLA--IQGKLILIAGGDAK----GADIASLSPYLTK
+-YVSHVFALGKDAHLFEKSFA-HTTRVATMKDAVKAATRLA--APGDVVLLSPACASLDMFKNYMHRGDV
+FKQDVHDL-*
+>P1;gi|16804075|ref|NP_465560.1| similar to UDP-N-acetylmuramoylalan... [ score 147 E 6e-35 ] [ range 311 .. 449 ]
+sequence
+GVEHRTQFVVEWQGRKFYNDSKATNILATQSALKGFK----NPVVLLAGGLDR----GNSFDELLPFFK-
+-NVKTLIVFGETADKIGKIAGIEVHYVDNVEAAVPVAYRES--APGDIILLSPACASWDQYRTFEVRGNA
+YMDAIGEL-*
+>P1;gi|16330305|ref|NP_441033.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 146 E 6e-35 ] [ range 309 .. 445 ]
+sequence
+GVPHRLEPICTINGVQFINDSKATNYDAAEVGLSSMK----GPTILIAGGEAK----EGDDQAWLAQIRQ
+-KAVAVLLIGDAAPNFATRLKENYEIVETMANAVQRGLELA--SKNNAVLLSPACASFDQYNSFEERGED
+FR-------*
+>P1;gi|34499800|ref|NP_904015.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 146 E 6e-35 ] [ range 309 .. 448 ]
+sequence
+GLAHRVELVDEFDGIAFIDDSKGTNVGATEAALNGMT----RQVVLIAGGDGK----GQDFAPLKPACQR
+-IARAVLLIGRDAGRIEAALEDSGERCDTLEEATRRAAALA--RPGDVVLLSPACASLDMFKNYAHRAQV
+FIDTVAAV-*
+>P1;gi|44363805|gb|EAI74643.1| unknown [environmental sequence] [ score 146 E 6e-35 ] [ range 38 .. 171 ]
+sequence
+-LAHRSQWVDEIKGVAFINDSKATNVDATIHALKTFK-----NVHLILGGRAK----EDNFCRLQDSMK-
+-NISRIYLIGEAASLIANLEGHEIEQFDTLNDAFDSAISIA--TQGDTILFSPACASFDQYLNFEERGKH
+FISLVKE--*
+>P1;gi|15643006|ref|NP_228048.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 146 E 7e-35 ] [ range 290 .. 426 ]
+sequence
+-LPHRMEYLGQIDGRHFYNDSKATSTHAVLGALSNFD-----KVVLIMCGIGK----KENYSLFVEKASP
+-KLKHLIMFGEISKELAPFVGKIPHSVENMEEAFEKAMEVS--EKGDVILLSPGGASFDMYENYAKRGEH
+FREIFKRHG*
+>P1;gi|44591115|gb|EAK32521.1| unknown [environmental sequence] [ score 146 E 8e-35 ] [ range 349 .. 488 ]
+sequence
+GEAHRVEVIATIDDVDYVDDSKGTNVGATVAALDGLA----QKIVLIAGGDGK----GQDFAPLVAPVAR
+-WCRAVMLIGRDAPAIRDTLAETGVDHATLEGAVHAAAELA--EPGDAVLLSPACASLDMFRNYAHRADV
+FRAAVDEI-*
+>P1;gi|45525088|ref|ZP_00176337.1| hypothetical protein Cwat372201 [... [ score 146 E 1e-34 ] [ range 313 .. 455 ]
+sequence
+GVPHRLEYITTIDGIDFINDSKATNYDAAEVGL--LS--VKSPAILIAGGEGK----EGDDNKWIAQIKS
+-KAAKVLLIGEAAENFAKRLHDSYEILETMDKAVELTIGRE--VKAKVVLLSPACASFDQYRSFEHRGDD
+FKELCQKL-*
+>P1;gi|23130374|ref|ZP_00112191.1| COG0771: UDP-N-acetylmuramoylalan... [ score 146 E 1e-34 ] [ range 341 .. 480 ]
+sequence
+GVPHRLEHICTWEGIDFINDSKATNYDAAEVGLASVK--S--PAILIAGGEAK----AGDDTGWLAQIQT
+-KAAAVLLIGSAAPAFAQRLQEVYEIVETMERAVPRSAELA--KQAPVVLLSPACASFDQYPNFEVRGDR
+FRELC----*
+>P1;gi|44356273|gb|EAI69152.1| unknown [environmental sequence] [ score 146 E 1e-34 ] [ range 319 .. 458 ]
+sequence
+GVEHRLEHVEFINNVEYINDSKATNIQSVIVAIESFR----KPIVLILGGYNK----GADFRLLLPHIKS
+-HVRDIISYGDAGGQINTELGDAVVQVTNLSSAVKKAHSLA--APGDIVLLSPGCASYDEFENFEVRGVF
+FKSIVKEL-*
+>P1;gi|41724932|ref|ZP_00151742.1| hypothetical protein Daro159101 [... [ score 145 E 2e-34 ] [ range 309 .. 448 ]
+sequence
+GLPHRVETVAEIGGVLYVDDSKGTNVGATLAAIEGM----GRKVAIVLGGDGK----GQDFSPLKPALEK
+-HGRAVALIGRDAAAIGMALEGSGVPTRDMEAAVLWLAAQA--QAGDCVLLSPACASLDMYRNYAHRAQA
+FIDAVEGL-*
+>P1;gi|15834759|ref|NP_296518.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 145 E 2e-34 ] [ range 295 .. 426 ]
+sequence
+---HRMEYLGEKCGVHYINDSKATTVRATEKAL--LS--IGSRAIVILGGRNK----GYSFVSLLPSLRR
+-FAKSVVAMGECAQEIAQDLDGFVTVVRNLHEALLCAEEQA--IPGDVVLLSPACASFDQFRSYEERGAI
+FKQLV----*
+>P1;gi|42937818|gb|EAB35900.1| unknown [environmental sequence] [ score 145 E 2e-34 ] [ range 13 .. 153 ]
+sequence
+GLDHRYKRVAIYKGIEFINDSKATNLGALKSALENY---TDETVVLIAGGEGK----GSRFEEFSKIIDG
+-KLKTLIVMGRDGGRLAVISERLTYQVSSIEEAVKKGFEIA--NEGDTILLSPACASLDMFKNFEERGQR
+FEFAVRQL-*
+>P1;gi|23098924|ref|NP_692390.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 145 E 2e-34 ] [ range 309 .. 448 ]
+sequence
+GVKHRLEFVGVINGRYIYNDSKATNILATKKALAAFN----KNVVLLAGGLDR----GNTFEELIPYLH-
+-HVKAMVVFGETAGKLKAANIPVIEKALDVQHAVEVAFALT--DEQDTILLSPACASWDQYKTFEERGDM
+FIQALHRL-*
+>P1;gi|42824237|gb|EAA79440.1| unknown [environmental sequence] [ score 145 E 2e-34 ] [ range 30 .. 164 ]
+sequence
+GLAHRSQKIATFNGITFINDSKATNVESAVMSLNAFE-----NIRWICGGQQK----DGGLSKLNS-VTQ
+-KVKRAYVIGAEAENISKQLTCENVVCSDMRKAVECAVKDS--ESGDVVLLAPAASSFDQYDNFERRGED
+FAEQVERI-*
+>P1;gi|37523301|ref|NP_926678.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 145 E 2e-34 ] [ range 297 .. 439 ]
+sequence
+GVPHRLEAVGEYRGVRFINDSKATNYDAALVGLTA----VPAPSVLIAGGQAK----TGESGPWLRAIAE
+-RCASVVLIGEAAPLFEKWLRRAVYTAHTLERAVPMAFERA--QGAQCVLFSPACASFDQFRNFEERGDR
+FRALIAAL-*
+>P1;gi|44604104|gb|EAK41625.1| unknown [environmental sequence] [ score 144 E 3e-34 ] [ range 38 .. 177 ]
+sequence
+GLPHRARFVREVNGVRWINDSKATNVGATLAAVAGVR--VKGRLLLLAGGQGK----GQDFGPVQALLGS
+-QIDHMYCFGQDAEVLLAL-GEQTERVADLDAAVAKAAADA--RPGDWVLLAPACASLDQFKSFEARGDR
+FTELVQKL-*
+>P1;gi|3122406|sp|O07669|MURD_ENTHR UDP-N-acetylmuramoylalanine--D-g... [ score 144 E 3e-34 ] [ range 316 .. 456 ]
+sequence
+GVPHRTQYVGEFQGRKFYNDSKATNILATKMALSGFQ--LDQ-LVLIAGGLDR----GNSFDELIPALKG
+--IKALITFGETQNRLEDAGKKVIKTAENAEAAVPIALELS--EEGDSILLSPANASWDQYPNFEIRGER
+FMEAVNKL-*
+>P1;gi|43160919|gb|EAC46048.1| unknown [environmental sequence] [ score 144 E 4e-34 ] [ range 129 .. 267 ]
+sequence
+-VEHRLEHFLTINKVKYVNDSKATNVNATFYALNSFK----KPIVWIVGGVDK----GNDYSQLVPLVKS
+-NVTAIICLGSDNDKIISTFSKLIVSTNKMVDAVKSAYDIS--KQGDIVLLSPACASFDLFENFEQRGNL
+FKDQVRKL-*
+>P1;gi|29375575|ref|NP_814729.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 144 E 4e-34 ] [ range 311 .. 451 ]
+sequence
+GVPHRTQFVGEVQQRRFYNDSKATNILATEMALSGFD---NQKLLLLAGGLDR----GNSFDELVPALLG
+--LKAIVLFGETKEKLAEAAKKANIETENVQTAVTIAFDYS--EKDDTILLSPACASWDQYPNFEVRGEA
+FMQAVQQL-*
+>P1;gi|27467776|ref|NP_764413.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 144 E 4e-34 ] [ range 307 .. 439 ]
+sequence
+GIDHRLQYIGTNRTNKYYNDSKATNTLATQFALNSF----DQPIIWLCGGLDR----GNEFDELIPYM-E
+-NVRVMVVFGETQDKFAKLQGKYVIKATDVEDAVDKIQDIV--EPNDVVLLSPACASWDQYHTFEERGEK
+FI-------*
+>P1;gi|43891648|gb|EAF99828.1| unknown [environmental sequence] [ score 144 E 4e-34 ] [ range 2 .. 144 ]
+sequence
+-VPHRLERIREFSGITFYNDSKATNYDASLVALQSLE----RPLVVLAGGRAK----RGEPGAWLEALHH
+-TAAAVVLFGEARSTFSELLPGVIEQQEHLDQALPLARRLA--EQLNCVLLSPACASFDQYRDFEVRGDH
+FRQLVEAM-*
+>P1;gi|43555009|gb|EAE32288.1| unknown [environmental sequence] [ score 143 E 5e-34 ] [ range 3 .. 138 ]
+sequence
+-------WIRDLSGVSFYNDSKGTNVGATVAAIEGLR--IKGDVILIAGGLAK----GADFSPLVPAINK
+-WAKELVLIGEDAEEMASCKNIPTNFARDMDDAVGIANEKA--SPGDAVLLSPACASFDMYRNFQHRGQV
+FMKSVGNL-*
+>P1;gi|44213943|gb|EAH73935.1| unknown [environmental sequence] [ score 143 E 6e-34 ] [ range 107 .. 241 ]
+sequence
+GLAHRSQKIATFNGITFINDSKATNVESARMSLNA-----HDNIRWICGGQQK----DGGLSKLNSVI-Q
+-NVKRAYIIGAEAEDISKQLTCENVVCSDMQKAVECAVKDS--ESGDVVLLAPAASSFDQYDNFERRGED
+FAEQVKRI-*
+>P1;gi|45513147|ref|ZP_00164713.1| hypothetical protein Selo088301 [... [ score 143 E 8e-34 ] [ range 312 .. 455 ]
+sequence
+GIAHRLERVATWQGIELINDSKATNYDAAWVGLQA----VPGPTILIAGGEAK----QGDDQAWLDLIQA
+-KARAVLLIGSAAPLFARRLAEVVENAETLDRAVPRAVELA--QSLDAVLLSPACASFDQYPNFEARGDH
+FRRCAQAI-*
+>P1;gi|4009480|gb|AAC95449.1| D-glutamic acid adding enzyme MurD [St... [ score 143 E 9e-34 ] [ range 309 .. 448 ]
+sequence
+GVKHRLQFVDDIKGVKFYNDSKSTNILATQKALSGFD--NSK-VVLIAGGLDR----GNEFDELVPDITG
+--LKKMVILGQSAERVKRAADKAYVEATDIADATRKAYELA--TQGDVVLLSPANASWDMYANFEVRGDL
+FIDTVAEL-*
+>P1;gi|28493193|ref|NP_787354.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 143 E 9e-34 ] [ range 387 .. 524 ]
+sequence
+--PHRTEVVAKEMGVMWVNDSKATNPHAVIASLSNF-----SRVILIFGGLMK----GVDVSGIFDRFYE
+-TIKAVVVIGKNQSFVGNIKCKIPDSNDPMSEAVAAADLLA--TPGDTVLLSPGGSSFDQFESYEHRGNC
+FINAVKDL-*
+>P1;gi|22956845|ref|ZP_00004578.1| COG0771: UDP-N-acetylmuramoylalan... [ score 143 E 1e-33 ] [ range 399 .. 534 ]
+sequence
+GLPHRSQTVGEKGGVRFVNDSKATNVDSAAKALQAF-----PKIRWIAGGLGK----DGGIVALQPHL-G
+-SVVKAYLIGHSARDFAQIGATDHEICETMERAVARAAEEA--QPGEVVLLAPAAASFDQYPNFEKRGED
+FMEKVKAL-*
+>P1;gi|44213053|gb|EAH73427.1| unknown [environmental sequence] [ score 142 E 1e-33 ] [ range 93 .. 237 ]
+sequence
+GLRHRFELVNEVNGVRFINDSKATNVSATESALRNFE--SKEQVILILGGDAK----GVDLSLLEISISK
+-RVFGLVILALDPAPLLELRCGIETFATSMEEAVKEAYRLV--NDAKNVVLSPACASFDLFTDYQERGRS
+FEAAVKKL-*
+>P1;gi|44584176|gb|EAK27579.1| unknown [environmental sequence] [ score 142 E 2e-33 ] [ range 140 .. 280 ]
+sequence
+GLDHRYKRVAIYEGIEFINDSKATNLGALKSALENY---THETVVLIAGGEGK----GSRFEEFSEIIDG
+-KLKTLIVMGRDGGRLAVISERLNIQVSSIEEAVEKGFEIA--NEGDTVLLSPACASLDMFKNFEERGQR
+FEFAVRQL-*
+>P1;gi|45517264|ref|ZP_00168816.1| hypothetical protein Raeut392201 ... [ score 142 E 2e-33 ] [ range 1 .. 135 ]
+sequence
+-----MEWVATIDEVEYFDDSKGTNVGATVAALSGL----DKRVVLIAGGEGK----GQDFSPLAAPVAQ
+-YARAVVLIGRAAGELRDALQGSGASAATLEEAVNKAAELA--EGGDVVLLSPACASLDMFRNYVHRAEV
+FRSAVEEL-*
+>P1;gi|2149895|gb|AAC45626.1| D-glutamic acid adding enzyme [Staphyl... [ score 141 E 2e-33 ] [ range 307 .. 441 ]
+sequence
+GIEHRLQYVGTNRTNKYYNDSKATNTLATQFALNSFN----QPIIWLCGGLDR----GNEFDELIPYM--
+-ENVSREWLYSDSRKLSLLQGKSVIEANNVEDAVDKVQDII--EPNDVVLLSPACASWDQYSTFEERGEK
+FIE------*
+>P1;gi|21220566|ref|NP_626345.1| putative UDP-N-acetylmuramoylalanin... [ score 141 E 3e-33 ] [ range 327 .. 470 ]
+sequence
+---HRIAHVADVDGVAYVDDSKATNTHATEASLAAYE--S---IVWIAGGLAK----GATFDELVAGAAK
+-RLRGAVLIGADRALIREALARHAPEVPAMLQAVQEARRLA--RPGDTVLLAPACASMDMFTNYNQRGDA
+FAQAVRELG*
+>P1;gi|23002590|ref|ZP_00046265.1| COG0771: UDP-N-acetylmuramoylalan... [ score 141 E 3e-33 ] [ range 229 .. 369 ]
+sequence
+GATHRLQYVMTYNDRKIYNDSKSTNIEAATVAIPSFK--EPE--VLIAGGLDR----GFMFDSLVPLFKK
+-YVKSIVLYGEDAARKAGIKDIVI--VNTLQEAVPRAYELS--EAGDVILFSPACASWDQFNTFEERGDF
+FVKFIKEL-*
+>P1;gi|24379029|ref|NP_720984.1| putative D-glutamic acid adding enz... [ score 141 E 4e-33 ] [ range 309 .. 448 ]
+sequence
+GVKHRLQSLGNIAGVKFYNDSKSTNILATQKALSGFD--NSK-VILIAGGLDR----GNEFDELVPDIKG
+--LKKMIILGESAPRLAAVQAGVTYNAKDVAQATRIAFQEA--SPGDVVLLSPANASWDMYKNFEVRGDE
+FITTFKSL-*
+>P1;gi|18311441|ref|NP_563375.1| UDP-N-acetylmuramoylalanine D-gluta... [ score 140 E 4e-33 ] [ range 313 .. 458 ]
+sequence
+GVHHRCEFIREVDGVKYYNDSIASTPTRTLAGLKAFE----KPVILLAGGYDK----HVPFEPLAYEGYE
+-KIKAIVLFGVTKEKIKAAFKRLEEEKESLEEVVNIAKSIA--ESGDIITLSPACASFDMFKNFEVRGDK
+FKEIVNNI-*
+>P1;gi|28209980|ref|NP_780924.1| UDP-N-acetylmuramoylalanine-d-gluta... [ score 140 E 5e-33 ] [ range 319 .. 464 ]
+sequence
+GVEHRLEFVKEIQEVKYFNDSIASSPTRTLAALQSF----DRPVILIAGGYDK----KISFEVLAKEGIS
+-HIKHLILLGDTKYKIEEAFKKVISICNSIEEAINIAKENG--ESGDVVTLSPACASFDMFKNFEERGNK
+FKSIIRNL-*
+>P1;gi|15615130|ref|NP_243433.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 140 E 5e-33 ] [ range 309 .. 448 ]
+sequence
+GVEHRLQFVGTAFERKWYNDSKATNILSTTAAIQSFT----DPIVLLAGGLDR----GNSFDDLIPAL-Q
+-KVKAVVLFGETKHKLAQAAMEAGVETERVEDAVRKALDVS--ANGDVILLSPACASWDQYRTFEERGEA
+FVTSIEGL-*
+>P1;gi|15673572|ref|NP_267746.1| UDP-N-acetylmuramoylalanine D-gluta... [ score 139 E 1e-32 ] [ range 309 .. 448 ]
+sequence
+GVKHRLQYLGEIDGRKVYNDSKATNILATQKALSGFD--NSK-LWLLAGGLDR----GNGFEELEKDL-Q
+-DLKGMVVFGQTANKLRLTAEKLVFDSENVAKALEEILPQT--QAGDTILLSPACASWDQYKTFEERGDL
+FIQAFENL-*
+>P1;gi|22536654|ref|NP_687505.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 139 E 1e-32 ] [ range 309 .. 448 ]
+sequence
+GVKHRLQSLGKVHGISFYNDSKSTNILATQKALSGFD---NTKVILIAGGLDR----GNEFDELIPDITG
+-LKHMVVLGESASRVKRAAQKAGVTYSDALDDAVHKAYEVA--QQGDVILLSPANASWDMYKNFEVRGDE
+FIDTFESL-*
+>P1;gi|43276450|gb|EAD03996.1| unknown [environmental sequence] [ score 139 E 1e-32 ] [ range 1 .. 135 ]
+sequence
+----RLEKVRTEGGVTFYNDSKATNLDSVKVAIKSFE--S--PIILIIGGRNK----GGSFKELKSLFPN
+-RVKLVIAIGEAADEIEKYKSPPVQKAISMASAVSLAYKNS--IKGDIVLLSPGCTSFDMFKNFEERGNI
+FKKEVMRL-*
+>P1;gi|44052437|gb|EAG86541.1| unknown [environmental sequence] [ score 139 E 2e-32 ] [ range 32 .. 172 ]
+sequence
+GLVHRQEAVAIVDGVAYVNDSKATNDEAAARALACFN-----NVYWILGGRPK----KVDLAACMPHLN-
+-RVRHAYLIGEAAVTFSQVLDGKVPFSLSLDAAVVAAHEQA--LPRPIVALSPACASFDQFASFEARGEV
+FKSLVEAL-*
+>P1;gi|43173289|gb|EAC52219.1| unknown [environmental sequence] [ score 138 E 2e-32 ] [ range 116 .. 256 ]
+sequence
+GLPHRLEAVGEIDGIRFINDSKATNGEAAARALSSYQ-----NIYWIVGGIAK----EDGLEPTFPWLD-
+-RVAHGFLIGEAAETFAETLSERGNQVTDLGTAIANAFEQA--WTAGVVLLSPACASFDQFSNFALRGDR
+FRELATAI-*
+>P1;gi|44163545|gb|EAH46949.1| unknown [environmental sequence] [ score 138 E 2e-32 ] [ range 44 .. 199 ]
+sequence
+-LPHRLEPVADRAGVLWINDSKATNVAATRSALSSL----DRSVILLLGGKDK----GEDFAQLTEAMRG
+-RARIVVGYGAAGNELSALRVGINEEEESLEDVVVSARNWA--ESGDVVLLSPACSSFDMYENYEHRGQH
+FTLLARA--*
+>P1;gi|29832662|ref|NP_827296.1| putative UDP-N-acetylmuramoylalanin... [ score 138 E 2e-32 ] [ range 323 .. 466 ]
+sequence
+---HRIAHVADVDGVTYIDDSKATNTHAAEASLAA-----YGSIVWIAGGLAK----GASFDELVAKSAQ
+-RLRGVVLIGADRALIREALARHAPEVPAMPAAVQEARRLA--VAGDTVLLAPACASMDMFANYNKRGDA
+FAEAVRGLG*
+>P1;gi|44616689|gb|EAK50558.1| unknown [environmental sequence] [ score 138 E 2e-32 ] [ range 77 .. 218 ]
+sequence
+--PHRFEFLGNINGINFINDSKATNIDAMLKAIRSIK--NNGDIHLICGGDLK----NQKITSLNLNEVK
+-KVTSAIIFGKDKEIIYRSINQFAECVSDLKEAVHLAIKLS--KEGDCIMLSPACSSLDMYKDYAERGNE
+FKKIVSNL-*
+>P1;gi|10566906|dbj|BAB16028.1| MurD [Streptococcus pyogenes] [ score 138 E 2e-32 ] [ range 296 .. 428 ]
+sequence
+GVKHRLQRVGQIKDITFYNDSKSTNILATQKALSGFD---NSRLILIAGGLDR----GNEFDDLVPDLLG
+--LKQMIILGESAERMKRAANKSYLEARNVAEATELAFKLA--QTGDTILLSPANASWDMYPNFEVRGDE
+F--------*
+>P1;gi|2149905|gb|AAC45635.1| D-glutamic acid adding enzyme [Enteroc... [ score 138 E 3e-32 ] [ range 311 .. 451 ]
+sequence
+GVPHRTQFVGEVQQRRFYNDSKATNFLATEMALSGFD---NQKLLLLAGGLDR----GNSFDELVPALLG
+--LKAIVLFGETKKKLAEAAKETILFAENVQTAVTIAFDYS--EKDDTILLSPACASWDQYPNFEVRGEA
+FMQAVQQL-*
+>P1;gi|27381715|ref|NP_773244.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 138 E 3e-32 ] [ range 319 .. 459 ]
+sequence
+GLAHRMEQVGRRGNVLFVNDSKGTNADATAHALSSF-----ADIFWIAGGKPK----AGGITSLTGFF-P
+-RIRKAYLIGEAAQEFSGTLGTQVEISQTLDVAVEHAARDA--EASGVVLLSPACASFDQYRNFEIRGTK
+FRELVQAL-*
+>P1;gi|43107410|gb|EAC19758.1| unknown [environmental sequence] [ score 137 E 4e-32 ] [ range 116 .. 256 ]
+sequence
+-LPHRFEVLEKVNDVTYVNDSKATNFDATLKSIESLN--QEGNIYLICGGDLK----EQNLSMENALIFK
+-EIKKCFIYGKDKDLIKEFLSNFCVSCADLDSAYSLAKEES--QIGDLVLLSPACSSTDMFKDYRERGHK
+FKELVE---*
+>P1;gi|16126795|ref|NP_421359.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 137 E 4e-32 ] [ range 322 .. 461 ]
+sequence
+GLAHRMETVGKIGKVRFVNDSKATNADAARQAMSS-----YPKFYWIAGGVAK----AGGIDDLKDLFPR
+-IAK-AYLIGEAAEPFSWTLAGKAECVLSLEKAVQQAYADA--AASGIVLLSPACASFDQFSDFEARGEA
+FRAAVNGL-*
+>P1;gi|43911359|gb|EAG10397.1| unknown [environmental sequence] [ score 137 E 5e-32 ] [ range 7 .. 150 ]
+sequence
+GVPHRLEPVGRIGNAQVFNDSKATNYDAAAVGLKAMQ----GPVVVLAGGSTK----QGDASGWLEELNR
+-KACSVVLFGAGAEELHGLLTRRTELTSAVEEAVRSA--EA--LGASSLLLSPACASFDQYKDFEARGDH
+FKQLIHQV-*
+>P1;gi|22982612|ref|ZP_00027856.1| COG0771: UDP-N-acetylmuramoylalan... [ score 137 E 6e-32 ] [ range 357 .. 496 ]
+sequence
+GEPHRVELIASIDGIDYVDDSKGTNVGATVAALDGLA----QRVVLIAGGDGK----GQDFEPLAAPVMR
+-WCRAVMLIGRDAPQIRAALEDTGIAMTTLEEATRAAAALA--QPGDAVLLSPACASFDMFKGYAHRAAV
+FRGTVEEI-*
+>P1;gi|23502304|ref|NP_698431.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 136 E 7e-32 ] [ range 316 .. 457 ]
+sequence
+GLAHRMEQVGRRGKVLFVNDSKATNAEATAPALSSF----PQNIYWIVGGVPK----AGGINSLTAFF-P
+-RVAKAYLIGEAAAQFAATLGGAVEISDTLAHAAGDAGNDA--APEPVVLLSPACASFDQFQNFEKRGDA
+FRDAVLAL-*
+>P1;gi|23037122|ref|ZP_00069334.1| COG0771: UDP-N-acetylmuramoylalan... [ score 136 E 8e-32 ] [ range 295 .. 433 ]
+sequence
+GLEHRLEAVGVIKERTVYNDSKATDIEATQKALASFK----EPINLIAGGLDR----GDDLNRLVPNFK-
+-NVVSLITYGQTKNKLQSAGEKAGIKVDTLKEAVAKAKELS--RPGQVLLFSPAAASWDQFPNFEIRGEE
+FKKMIKN--*
+>P1;gi|44379711|gb|EAI85883.1| unknown [environmental sequence] [ score 136 E 1e-31 ] [ range 296 .. 432 ]
+sequence
+-LPHRIEKIASLDNVDWYNDSKSTNCESTIAALNTLE--KD--IILIIGGSHK----IIDYKYLSEEINQ
+-RVKKIIFVGQNKEILKSKLSLKIDSYDDYEDAVNLIMSLV--SPGDKVLLSPASPSFDMFNNFEHRGDT
+FKKVVKK--*
+>P1;gi|34580522|ref|ZP_00142002.1| UDP-N-acetylmuramoylalanine--D-gl... [ score 135 E 2e-31 ] [ range 351 .. 490 ]
+sequence
+-LPHRMQYIGSINNISFYNDSKATNAISAVQSIKALD-----NIYWLAGGIPK----EGGIEEIKPYF-S
+-HIKKAYFYGQAKEIFANTAKNIVDFCDNLEQAFDLAYKDA--VGDNAILLAPSCSSYDQFKNFEERGEL
+FIKLCSIL-*
+>P1;gi|44481638|gb|EAJ57783.1| unknown [environmental sequence] [ score 135 E 2e-31 ] [ range 325 .. 460 ]
+sequence
+GLPHRAELVRKINEVSFINDSKATNMDS---ALKSIM--TYDRIRWIVGGQKK----DGDKVNIESQ-KK
+-KIKKIYLIGSSSFELSKSFDGMYSMCINLDNAVERAFKDS--EPGDTILFAPGCASFDQFENFEKRGEK
+FCELVNFL-*
+>P1;gi|23475888|ref|ZP_00131154.1| COG0771: UDP-N-acetylmuramoylalan... [ score 135 E 2e-31 ] [ range 335 .. 469 ]
+sequence
+-LEHRLEKVDEVAGVLFVNDSKSTTVDSMKAALESF----DRPVLLLCGGKWK----GGDLVSLIPVVRR
+-HAKAVGLFGASREIFEHAWADVVPMSHDLQTAFRRMTAMA--QPGDVVLMSPATSSYDLYSNYKERGGD
+FKRNV----*
+>P1;gi|42521700|ref|NP_967080.1| murD [Bdellovibrio bacteriovorus HD... [ score 134 E 2e-31 ] [ range 272 .. 413 ]
+sequence
+GLVHRLESVGTYKGIRFINDSKATAMDSTAAAHDTLS--KPGRLWLLLGGRDK----NLPWQDLKALGNL
+-KDIEFVFFGECR-EIAQTKSTLGRSFARLGEALCDILGSA--KPGDTVLLSPGGTSLDEFKSFEDRGNY
+FKKCVSE--*
+>P1;gi|43291046|gb|EAD11365.1| unknown [environmental sequence] [ score 134 E 3e-31 ] [ range 148 .. 288 ]
+sequence
+GLAHRMEFVATIDGISFINDSKATNFAATARALSSFE-----NIFWVAGGRSK----LGSSDIIHDHLN-
+-NIKAAFIYGECADKICNDINKKVKVTEAVSAAMDCAKNET--IEDKVVLFSPACSSFDQFVNFEARGDE
+FKKLVNFL-*
+>P1;gi|15896442|ref|NP_349791.1| UDP-N-acetylmuramoylalanine D-gluta... [ score 134 E 3e-31 ] [ range 316 .. 461 ]
+sequence
+GVEHRREFVRELDGVKYYNDSIASSPTRTISGLNAYE----RPVILIAGGYDK----HIPFEPLAEKGYD
+-KIKVLILMGATKNKIKETFDKVIILSDNLEEAVCEAKKVA--TNGDIVTLSPACASFDSFPNFEVRGNK
+FKEIVNNL-*
+>P1;gi|42520684|ref|NP_966599.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 134 E 4e-31 ] [ range 361 .. 500 ]
+sequence
+GLRHRNELLGKIRNVFFVNDSKATNAKSSEKAILSYE-----NINWIAGGRSK----KGGIESLSKHFT-
+-RVRKAFLIGESTEAFANVMENKVDYVKNLEDAFRLAFEEA--LNSATILLSPACASFDQWKNFEERGEA
+FCRMFENL-*
+>P1;gi|23024796|ref|ZP_00063991.1| COG0771: UDP-N-acetylmuramoylalan... [ score 133 E 5e-31 ] [ range 308 .. 445 ]
+sequence
+GVAHRLQYLFTAGDVKYYNDSKATDIEATQTALDSFD--CPT--IWIGGGLER----GDDLERLLPNLK-
+-NVKAVIAVGETQQKIVTLAREAGKAVTDVEHAAPVAVQLA--SPGDVVLLSPAQASWDQYSSFEERGDN
+FVASLKE--*
+>P1;gi|44306276|gb|EAI34162.1| unknown [environmental sequence] [ score 133 E 7e-31 ] [ range 37 .. 172 ]
+sequence
+GLEHRFEHFISYNGIDFINDSKSTNIDSAKKALESI----SEKIVLILGGIPK----EDDFSDIS-LFKK
+-SILKIIVYGEASHKIYNSLPKSIERIEKFEDAVQVAINSA--VENSVVLLSPACASFDQFDNYKERGKK
+FKNIVE---*
+>P1;gi|15889380|ref|NP_355061.1| AGR_C_3803p [Agrobacterium tumefaci... [ score 133 E 8e-31 ] [ range 316 .. 456 ]
+sequence
+GLKHRMQPVGRRGNVTFVNDSKATNADAAAPALSSFD-----RIYWIAGGLPK----AGGITSLSPLFPR
+-IAK-AYLIGEAAAEFAATLGEAVEISGTLDKAVQHAAADA--EKGNVVMLSPACASFDQYKNFEIRGDS
+FVAQVAAL-*
+>P1;gi|33865066|ref|NP_896625.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 132 E 1e-30 ] [ range 314 .. 457 ]
+sequence
+GVPHRLEPVGRIGNAQVFNDSKATNYDAAAVGLKAMQ----GPVVVLAGGSTK----QGDATGWLEELNR
+-KACAVVLFGAGTEELANFTGELTRRTD-LTSAVEEAVRSA--EAATSLLLSPACASFDQYRDFEARGDH
+FKQLIHQV-*
+>P1;gi|17547565|ref|NP_520967.1| PROBABLE UDP-N-ACETYLMURAMOYLALANIN... [ score 132 E 1e-30 ] [ range 399 .. 538 ]
+sequence
+GEPHRVELIAAFDDIEFFDDSKGTNVGATVAALSGL----SKRVVLIAGGDGK----GQDFSPLAAPVAQ
+-YARAVVLIGRDAPRIAALADSGVELVETLEAAVQEAAARA--QAGDAVLLSPACASFDMFRNYEHRAQV
+FHEAVAAL-*
+>P1;gi|43025309|gb|EAB79356.1| unknown [environmental sequence] [ score 132 E 1e-30 ] [ range 16 .. 157 ]
+sequence
+--PHRFEHLEMVGGVNFINDSKATNLDATLKAISAME--KIGDIYLICGGDLK----GQEIASKDLQEIK
+-SLKKVFIFGKDKELIFNTLRQYAHCVQDLKEALKEAVKLS--KNDDCVLFSPACSSLDMFKDYKDRGET
+FKRLLKDL-*
+>P1;gi|33240888|ref|NP_875830.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 131 E 2e-30 ] [ range 321 .. 463 ]
+sequence
+GITHRLEKVDKIIDIDIFNDSKATNFDSAEIGLKA----TSAPVILIAGGLSK----QGIYLDWINQIKE
+-KVCAVILIGESRVKLQHLIKSHGFRYEKLDKAVDKAIKLG--VKFKSILFSPGCASFDQYSNFEERGDH
+FKKLIKE--*
+>P1;gi|43545137|gb|EAE27282.1| unknown [environmental sequence] [ score 131 E 4e-30 ] [ range 70 .. 207 ]
+sequence
+GLEHRQEIVLENKKMMIINDSKATNFESLIPALKN-----YKNIYLICGGLAK----DHNIKILDRYINQ
+-LVVVFIIGLNENPFLNYFKDKITHYVKNLSLAVKMAVSRA--KSNNTILFSPGAASFDQFKNFEMRGKR
+FKKLIK---*
+>P1;gi|34558807|gb|AAQ75152.1| UDP-N-acetylmuramoylalanine--D-glutam... [ score 130 E 4e-30 ] [ range 264 .. 401 ]
+sequence
+---HRQEEILDKRGRLWVDDSKATNIDASIRAIEVY---SSNYIRLILGGVYK----GADLEPYFKFLSS
+-KELKLYIIGENSSNLKELADRYGIECHTIGRAVEMIDREM--SDGDISLLSPASASFDQFKSYKDRGEQ
+FKKAVATL-*
+>P1;gi|44574338|gb|EAK20799.1| unknown [environmental sequence] [ score 130 E 5e-30 ] [ range 291 .. 429 ]
+sequence
+---HRFEMIEDEEGVLHINDSKATNFSATVQSIESLN--KEGDIYLLCGGDFK----SQSIDKVKATIFN
+-DIKKCFIFGKDKKILEELLSDFTDCCDSLDDGYFLAKQES--TNGDIILLSPACASIDMFKDYQDRGNR
+FKELMK---*
+>P1;gi|15604275|ref|NP_220791.1| UDP-N-ACETYLMURAMOYLALANINE--D-GLUT... [ score 130 E 5e-30 ] [ range 304 .. 441 ]
+sequence
+-LHHRMQYIGSINNISFYNDSKATN---AISALQSIK--ALDNIYWLAGGIPK----EGGIEGIKPYFN-
+-KIKKAYFYGQAKAMFANTAKNIIDFCDNLEYAFNIAYKDA--VSDTTILLAPSCSSYDQFKNFEERGEL
+FIKLSK---*
+>P1;gi|44139607|gb|EAH34211.1| unknown [environmental sequence] [ score 130 E 7e-30 ] [ range 110 .. 253 ]
+sequence
+GVPHRLEHLGTLAGASVFNDSKATNYDAAEVGLRAVQ----EPVVVLAGGQTK----QGDASGWLKQLHT
+-KACCLILFGAGANELTSLAKAAGYQCLELESAVSLSVTAV--QQASSLLLSPACASFDQYPDFEARGEH
+FRSLIQPL-*
+>P1;gi|44315771|gb|EAI40583.1| unknown [environmental sequence] [ score 130 E 7e-30 ] [ range 163 .. 301 ]
+sequence
+-LPHRLEFCYQKNNITFINDSKATNAEAT---INALE--KYRNIYWIAGGIGK----TDGVKATLKHLKN
+-VNK-CYLIGKSKKDFFETLNSKIDCTENLSKALKEIFKET--LNKSTVLLSPAASSFDQFLNFESRGNA
+FKSLISEI-*
+>P1;gi|43204793|gb|EAC67951.1| unknown [environmental sequence] [ score 129 E 9e-30 ] [ range 144 .. 275 ]
+sequence
+-LPHRLQRVASCGKVQFINDSKATNGIAAAKALTSFN-----DIYWVAGGLAK----QDGLSPTMPHL-G
+-AVKKAYLIGTAAPTFATSLSGICPVCDSLEQATRAAFDDA--SDGGTILLAPAAASFDQFPNFGARGDE
+F--------*
+>P1;gi|44659930|gb|EAK79362.1| unknown [environmental sequence] [ score 129 E 9e-30 ] [ range 3 .. 132 ]
+sequence
+-------YLGSKEGVGWHNDSKSTTPHSVAAAVQGFE-----NVILIVGGRNK----GIDLSPLGD-LKK
+-HLKLVIAIGEASEEIQGIFTNITPVSNTMEEAVNLAESQS--REGDSVILSPGCASFDWYRNYSERGDD
+FTKLVNEI-*
+>P1;gi|44645008|gb|EAK71168.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 157 .. 297 ]
+sequence
+GLPHRTELIHEYKNIQYINDSKATNADAAKQAL---T--IYNNIYWILGGVEK----YGGISQITQYF-S
+-KIKKAYLIGESAESLSTTLKIEYENCVTLRNAINRSTKDA--EKSKTILFSPACASFDQYKNFEERGLE
+FTTIVGEV-*
+>P1;gi|44223005|gb|EAH79038.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 108 .. 251 ]
+sequence
+GVPHRLEPLGRIRNAQVFNDSKATNYDAAAVGLKAMQ----GPVVVLAGGSTK----QGDATGWLEELNR
+-KACAVVLFGAGAEELHGLLTRRRDLTSAVEEAVRSA--EA--LGASSLLLSPACASFDQYRDFAARGDH
+FKQLIHQV-*
+>P1;gi|33863701|ref|NP_895261.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 129 E 1e-29 ] [ range 314 .. 454 ]
+sequence
+GVPHRLEQLGHIQQMSVYNDSKATNYDAACVGLKA----VPPPAVVLAGGQTK----QGDASGWLKQLDQ
+-NACAVILFGAGASELQELIKTSGHCCSNLNAAVTLAIPLE--RQAACLLLSPACASFDQYQDFEARGEH
+FRSLI----*
+>P1;gi|44557451|gb|EAK08762.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 322 .. 463 ]
+sequence
+-LPHRMETIYKNNDLEIINDSKATNFDSSIAGISSIE----GQIIIIAGGRLK----GNEYSEWIKVLKK
+-KVKCVFLFGESSKVLKMFKKNIFEFSE-LKELLNFVFHYL--QNNGTLLFSPSCSSFDQFKNYEERGDY
+FKKLISE--*
+>P1;gi|44274213|gb|EAI12715.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 177 .. 318 ]
+sequence
+-LPHRMETIFQCNELEIINDSKATNFDSSVAGINAIK----GSPIIISGGRLK----NGDYNEWVKIINK
+-KAKAVFLFGESSQTLKKLIIEGGFKNDDLSEVINYAYSYI--KNNETLLFSPSCSSFDQFRDYEHRGDI
+FKKLIHE--*
+>P1;gi|19553360|ref|NP_601362.1| UDP-N-acetylmuramoylalanine-D-gluta... [ score 128 E 2e-29 ] [ range 320 .. 457 ]
+sequence
+---HRGQVVAEHDGVHFIDNSKATNPHAADSALAG-----HDSVIWVVGGQLK----GADIAPLVKKHEQ
+-RIKAALVLGADRAEIVAALKEHAEPFEAMEEIVTEAFSIS--EPGDTVLLAPAAASLDMFKGMGQRGDL
+FA-------*
+>P1;gi|44396264|gb|EAI97789.1| unknown [environmental sequence] [ score 127 E 3e-29 ] [ range 303 .. 444 ]
+sequence
+-LPHRMEYFYKNNNFHFINDSKSTNIESTLAALRSFE--S--PIVLILGGRSK----TDNFSDIINFIKE
+-KDIKLIVYGDAGKHFENYNESYTNFTKNLSDVVNKLKIIL--GKFDNILFSPACSSFDQFENYEKRGEF
+FKKIIKN--*
+>P1;gi|44225234|gb|EAH80290.1| unknown [environmental sequence] [ score 126 E 7e-29 ] [ range 104 .. 245 ]
+sequence
+-LPHRMETIYKNDNLEIINDSKATNFDSSIAGISSIE----GQIIIIAGGRLK----GNEYSEWIKLLKK
+-KVKCVFLFGESSKVLKMFKKNIFEFSE-LKELLNFVFHYL--QNNGTLLFSPSCSSFDQFKNYEERGDY
+FKKLISE--*
+>P1;gi|43163163|gb|EAC47177.1| unknown [environmental sequence] [ score 126 E 8e-29 ] [ range 2 .. 137 ]
+sequence
+--PHRYQHVLKHDRLTFINDSKATNLTALKYALN--Q--TSGPCVLILCGDPD----KEQYDS---YETS
+-DPSKIYIFGKHAEEISNKLKKILFHNQDLSLVMKSIFEEV--HRHTTILFSPGHPSGQDYKNFEERGEH
+FIKLVMNL-*
+>P1;gi|43030694|gb|EAB81984.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 87 .. 225 ]
+sequence
+GLPHRFEIFLRKNNITFINDSKATSFRATQYALSGLK-----NIYWILGGQPK----KKDKIILSK-LKK
+-NIIKCYLIGKNIDFFKKQISGKVDFTKNLDNSLKKILKDI--KLEQSIILSPAAASFDQFSNFEKRGEE
+FKRLCK---*
+>P1;gi|33861920|ref|NP_893481.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 125 E 1e-28 ] [ range 323 .. 464 ]
+sequence
+-LPHRMETIFQRDELEIINDSKATNFDSSVAGINAIK----GSPIIISGGRLK----NGDSIEWVKIINK
+-KAKAVFLFGESSQTLKKLILEGGFKNDDLSEVINYAYSYI--KNNETLLFSPSCSSFDQFRDYEQRGDI
+FKKLIYE--*
+>P1;gi|43120126|gb|EAC25994.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 8 .. 147 ]
+sequence
+GLEHRQELVAITNGCRFINDSKATNANATARALE-----CNNNIIWIAGGRAK----EGGIEELNSYF-S
+-KILHVFLIGESANEFAQTLEGKAPYTISIENAIELAIKED--KPC-VVLLSPACSSFDQFPDFEARGKT
+FRDTVKNI-*
+>P1;gi|43392181|gb|EAD59880.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 4 .. 143 ]
+sequence
+GLPHRLELVYLNKKYRIINNSKSTNLESL---VNSIK--NYKNINLIVGGRPK----DKKFKKLLRY-KN
+-RIKKIYLIGESSKFISKELKDKIELCYNLDRALKKIFKKE--KKFINILLSPGCASFDQFKNFEERGNE
+FKRLVKKI-*
+>P1;gi|23465882|ref|NP_696485.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 124 E 3e-28 ] [ range 325 .. 472 ]
+sequence
+---HRIETVAEAGSVRFVDDSKATNGHAARASLSSFP--A-KSVIWIAGGLAK----GSRFEDLVKDQAH
+-TIKAAVIIGKDQEAFASQAPDIPDNDTVMDRAVEACGTYA--AAGDIVLMAPACASMDQFKSYADRGNR
+FAAAAK---*
+>P1;gi|44102346|gb|EAH13934.1| unknown [environmental sequence] [ score 124 E 3e-28 ] [ range 53 .. 194 ]
+sequence
+-LPHRMETIFQHNKLEIINDSKATNFDSSVAGINAIK----GSPIIISGGRLK----NGDSIEWVKIINK
+-KAKAVFLFGESSQTLKKLILEGGFKNDDLSEVINYAYSYI--NNNETLLFSPSCSSFDQFRDYEQRGDI
+FKKLIHE--*
+>P1;gi|43554014|gb|EAE31787.1| unknown [environmental sequence] [ score 124 E 4e-28 ] [ range 87 .. 225 ]
+sequence
+-LPHRLEFCYRKNNITFINDSKATNAEAT---INALE--KYRNIYWIAGGIGK----TDGVKATLKHLKN
+-VNK-CYLIGKSKKDFFETLNSKIDCTDNLTNALEEIFKET--LNKSTVLLSPAASSFDEFLNFENRGNA
+FKSLISEI-*
+>P1;gi|22972590|ref|ZP_00019460.1| hypothetical protein [Chloroflexu... [ score 124 E 5e-28 ] [ range 315 .. 457 ]
+sequence
+-VEHRLELVATIDGVRYINDTTATNP--SATAAALAT--VAGPIVLIAGGADK----DLDLAYLADTIAQ
+-GAAAVVLLGSATPRLQTLLSQCAPQFADLSTAVATARSLA--QPGGAILLSPGCASFGMFRNEFHRGEA
+FRQIVREL-*
+>P1;gi|43064291|gb|EAB98452.1| unknown [environmental sequence] [ score 124 E 5e-28 ] [ range 42 .. 183 ]
+sequence
+-LPHRMETIYKSNDLEIINDSKATNFDSSIAGISSIE----GQIIIIAGGRLK----GNDYSEWIKVLKK
+-KVKCVFLFGESSKVLKMFKKNIFEFSE-LKELLNFVFHYL--KNNGTLLFSPSCSSFDQFKNYEERGDY
+FKKLISE--*
+>P1;gi|24213538|ref|NP_711019.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 123 E 5e-28 ] [ range 297 .. 456 ]
+sequence
+GLPHRFQIAGEKLGISFINDSKSTNLHSMLAGMATWK--NIDQTCLILGGRPK----QEDLKPLYNFLIR
+-GIGCVVLFGEARATIKNIIGEKLYCVENLNDTFEIFKKGL--NKDIIIRLSPACASFDQYKNFEERGNH
+FLSLVND--*
+>P1;gi|34558322|ref|NP_908137.1| UDP-N-ACETYLMURAMOYLALANINE-D-GLUTA... [ score 123 E 6e-28 ] [ range 261 .. 393 ]
+sequence
+---HKIEEFTDGLGRLWVDDSKATNVDAANEAVKRYE---GRFVHLILGGDDK----GADLTPLFELLEG
+-RSLQIYAIGSNALKIERLAKEACKVCERLEKAVEAIRQNL--KANEVALLSPAAASLDQFSSYKERGDS
+FKR------*
+>P1;gi|19704790|ref|NP_604352.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 123 E 8e-28 ] [ range 310 .. 452 ]
+sequence
+-LEHRTELFFNYGKLKFINDSKATNVDSTKFAIQA-----NKNSILICGGYDK----GVDLAPLAEMIKE
+-NIKEVYLIGVIADKIENELKKVIHKLVNIENSLQDMRKRF--TKDEVILLSPATSSYDQFNSFEHRGKV
+FKELVLKI-*
+>P1;gi|44130056|gb|EAH28900.1| unknown [environmental sequence] [ score 122 E 1e-27 ] [ range 27 .. 166 ]
+sequence
+GLPHRFEIFLKRSGITFINDSKATSFKATESALTDLK-----NIYWILGGLPK----KADKISISRY-KK
+-NIIKCYLIGKNINFFKNIKNKLVFSKKSVIKILKDCKLEK--QKNKFVLLSPAAASFDQFSNFEKRGEE
+FKRLCNK--*
+>P1;gi|42964812|gb|EAB49364.1| unknown [environmental sequence] [ score 122 E 1e-27 ] [ range 97 .. 236 ]
+sequence
+GLKYRQQIIFDNNYLTVINDSKSTSLASSESLLKNLK-----NVYWILCGIPK----KQDRFNLTK-FQC
+-KNFKGYIFGKYQLEFSKILKKFKNIKDTLNQIFLEIKNNK--REKNTILFSPAGASFDNFKNFEDRGLY
+FNQIIKK--*
+>P1;gi|44646783|gb|EAK72155.1| unknown [environmental sequence] [ score 122 E 1e-27 ] [ range 19 .. 160 ]
+sequence
+-LPHRMETIYKNNDLEIINDSKATNFDSSIAGINSIE----GQIIIISGGRLK----GNKYGEWIKVLKK
+-KVKCVFLFGESSKALKIFKKDIFEFSE-LKDLLNFVFNYL--QNGGTLLFSPSCSSFDQFKNYEERGDH
+FKKLIIE--*
+>P1;gi|44347130|gb|EAI62604.1| unknown [environmental sequence] [ score 122 E 1e-27 ] [ range 305 .. 440 ]
+sequence
+GLEHRFEFLKSFNSIDYINDSKSTNVDSTVKALKSIT----KKVVLILGGIPK----ENDFNEILLY-KS
+-KFLKIVVYGEAKDLIYDSLSQEVEKIHSFDDAVHIAIKNA--IKDSVVLLSPGCASFDQFNNYEERGIK
+YKNIIE---*
+>P1;gi|42845649|gb|EAA90202.1| unknown [environmental sequence] [ score 122 E 1e-27 ] [ range 46 .. 187 ]
+sequence
+-LPHRMETIYKNNDLEIINDSKATNFDSSIAGISSIE----GQIIIIAGGRLK----GNEYSEWIKVLKK
+-KVKCVFLFGESSKVLKMFKKNIFEFSE-LKELINYVFNYM--QNNGTLLFSPSCSSFDQFKNYEERGDY
+FKKLISE--*
+>P1;gi|44448410|gb|EAJ34027.1| unknown [environmental sequence] [ score 122 E 2e-27 ] [ range 48 .. 188 ]
+sequence
+GLNYRQQIVFDKKDLTIINDSKSTSFASSENILNNLN-----DVYWILGGIPK----KNDKFKLSK-IKC
+-KNIKAFIFGSYRNKFHKVLKKYKTLNETLRAIFLEIKDQE--IKKNIIFFSPAGASFDSFKNFEDRGNY
+FNKIVKKL-*
+>P1;gi|42969198|gb|EAB51570.1| unknown [environmental sequence] [ score 122 E 2e-27 ] [ range 115 .. 255 ]
+sequence
+GLKYRQQIIFKNKNLTIINDSKSTSFASSENLLKSFK-----DIYWILGGIPK----KGDKFKLSKK-NC
+-KNFKAYIFGNYHKEFSKNLKKIVKNFKNLKDTLSKIFLNI--KKKNIILFSPAGASFDSFKNFEDRGLY
+FNKLVKKL-*
+>P1;gi|43455765|gb|EAD82547.1| unknown [environmental sequence] [ score 121 E 2e-27 ] [ range 51 .. 186 ]
+sequence
+GLEHRFEFLKSFNSIDYINDSKSTNVDSTVKALKSIT----KKVVLILGGIPK----ENDFNDILLH-KS
+-KILKIVVYGEAKDMIYDSLSQEVEVLKIHEDAVHLAIQNA--TKDSVVLLSPACASFDQFNSYEERGIK
+YKNIIE---*
+>P1;gi|43383469|gb|EAD56626.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 6 .. 143 ]
+sequence
+GLKHRHEIFFKTRKYIFINDSKATSFEASKKAI---L--KNNDIVWILGGLPK----IGDKINI-RLIKN
+-RVLHAFIFGNNTKFFSNILKGKINFTKNLEDIVTLISKKI--KKKITILFSPASASFDQYRDFEERGDV
+FKRYVKN--*
+>P1;gi|15594930|ref|NP_212719.1| UDP-N-acetylmuramoylalanine--D-glut... [ score 121 E 3e-27 ] [ range 308 .. 451 ]
+sequence
+GIEHRLEFVKSVQNVMFYNDTASTIPESTVLSVKSLK--KDNRINLIVGGTDK----ELDFLSFSKIADI
+-VRTWILIRGSATVKIIKILEKSSIQFDSLRDAVNYAFKIS--SPGDIVLFSPASASFELFNNEFDRGLQ
+FKNLVNNLG*
+>P1;gi|44577686|gb|EAK23137.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 281 .. 420 ]
+sequence
+GLAHRHEIFLKKNNKIFINDSKATSFQSSKFALQS-----NKNIFWIVGGMPK----LGDKFKLGK-LKN
+-NIVKSYIVGKHMGIFKAQLNRKVDFSKTLNNAFKDIKNIV--DKKITILLSPASASYDQFKNFEERGNK
+FKILVKN--*
+>P1;gi|43276545|gb|EAD04042.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 1 .. 134 ]
+sequence
+----RIELVKHDNNINWYNDSKSTNTASTKAALQHL----DKDIILILGGALK----KMDYKILSELINE
+-KVKLLVFIGENKNYIKKQLNTPVIDAHSITDAVLISRDNA--SNKDNILFSPASPSFDMFKNFEERGEA
+FKKAIKN--*
+>P1;gi|44502816|gb|EAJ71378.1| unknown [environmental sequence] [ score 121 E 4e-27 ] [ range 287 .. 426 ]
+sequence
+GLDFRQQIIFDKKNLTIINDSKSTSFASSENMLKNLN-----DVYWILGGIPK----KGDKFKLSKIM-C
+-KNMKAYIFGSHHREFIKILKNKIKNFKNLQETLKVIFSEI--NQKNIIFFSPAGASFDSFKNFEDRGYY
+FNQIIKK--*
+>P1;gi|44082356|gb|EAH03148.1| unknown [environmental sequence] [ score 120 E 5e-27 ] [ range 64 .. 203 ]
+sequence
+GLKYRQQIIFDNNYLTIINDSKSTSIASSENLLRNLK-----NVYWILCGIPK----KGDKFNLTK-FQC
+-KNFKGYIFGKHQIEFSKNLKNKIKKFKNLKETLNKIFLEI--KKKNTILFSPAGASFDNFKNFEDRGLY
+FNQIIKK--*
+>P1;gi|43739918|gb|EAF24537.1| unknown [environmental sequence] [ score 120 E 5e-27 ] [ range 3 .. 142 ]
+sequence
+GLQHRHEVFYKKKNKIFINDSKATSFQATKFALES-----NRNILWIVGGLPK----IGDKFKL-KNLKE
+-NIIKTYIIGKHLKKFKNELSGKFEVSKTLKKAVNSIFKDM--KKRLTILLSPASASYDQFKNFEERGSQ
+FKALIKN--*
+>P1;gi|15611513|ref|NP_223164.1| UDP-N-ACETYLMURAMOYLALANINE--D-GLUT... [ score 120 E 5e-27 ] [ range 285 .. 419 ]
+sequence
+---HKMEEFRDKQGRLWVDDSKATNIDATLQALKTFK---NQKIHLILGGDIK----GVNLTPLFEEFKN
+-YKISLYAIGSSASIIQALALEFNVSCQKLEKAVQEIKSVL--LQNEVALLSPSAASLDQFSSYKERGEK
+FKAFV----*
+>P1;gi|43200658|gb|EAC65890.1| unknown [environmental sequence] [ score 120 E 6e-27 ] [ range 41 .. 180 ]
+sequence
+GLPHRLELVFLNRKYCIINNSKSTNLESL---VNSIK--NYTNIKLILGGRAK----DKKFKRLLNY-KN
+-RIKKIYLIGESSNFISKELENKIELCNTLQNAIKKIFLDI--KQFTNILFSPGCASFDQFKNFEERGNE
+FKKLVKKI-*
+>P1;gi|43471544|gb|EAD90508.1| unknown [environmental sequence] [ score 120 E 7e-27 ] [ range 150 .. 263 ]
+sequence
+GVPHRLEKVSDINGVTYINDSKATNLDAVQVALESF----SQPIILLLGGMDK----GGDFRSLLPHTHK
+-YLKTVIAFGQAKEIILLAVGGVVRSTSAMNEALSLAQNYS--QPGDIVLLSP-----------------
+---------*
+>P1;gi|44347126|gb|EAI62601.1| unknown [environmental sequence] [ score 119 E 8e-27 ] [ range 165 .. 322 ]
+sequence
+GLEHRYEIFKEIDNLTFINDSKSTNGHSLQSALNNCD--GYNNVALILGGRSK----KINYSQYMNFLNR
+-NYLRVIAYGEAAQEIKDNLPRIIDTFEKFDDAVKRAIDIA--NDFKAVLLSPACSSFDQFKSFEERGNQ
+FKKIVE---*
+>P1;gi|43121585|gb|EAC26687.1| unknown [environmental sequence] [ score 119 E 8e-27 ] [ range 19 .. 158 ]
+sequence
+GLKHRHETFYKKNNKTFINDSKATSFTASRFALKN-----NKNILWIVGGLPK----IGDRFQL-EEVKK
+-NIIKAYVIGKYTNYFKRFLKGKIESCKTLNNAVNSIFKDI--NNKITVLLSPASASYDQFKNFGDRGEK
+FKKLIKN--*
+>P1;gi|25028611|ref|NP_738665.1| putative UDP-N-acetylmuramoyl-L-ala... [ score 119 E 9e-27 ] [ range 325 .. 465 ]
+sequence
+---HRGQVVAEDHGVQFIDNSKATNPHAADTALAG-----RESVIWIVGGQLK----GADISELVATHAH
+-RIKAALVLGADRAEIAMIRTDSTDPVAAMRELVDHAFRFA--EPGDCVLLAPAAASLDMYKGMGQRGDI
+FAEAV----*
+>P1;gi|44359304|gb|EAI71388.1| unknown [environmental sequence] [ score 119 E 1e-26 ] [ range 72 .. 211 ]
+sequence
+GLKYRQQIIFDNNYLTIINDSKSTSIASSENLLKNLK-----NVYWILCGIPK----KKDKFNLTK-FQC
+-KNFKGYIFGKHQEEFSKTIKKFKNLKDTLNQIFLEIKHTK--RVKNIILFSPAGASFDNFKNFEDRGLY
+FNQIIKK--*
+>P1;gi|43690094|gb|EAF00239.1| unknown [environmental sequence] [ score 119 E 1e-26 ] [ range 99 .. 230 ]
+sequence
+-LEHRYEKIDFKGNIKFINDSKATNFHAVTNAIN-----RSKNIILILHGLTK----NIPSEELK--LTS
+-DVKKIFVQSEMNLDLNKFNGKKI-IYNSINEIKNLIKNEM--EDGDTVLFSCGGASFNDFKNYKDRGKF
+FKNIVKEI-*

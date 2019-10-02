@@ -1,0 +1,808 @@
+>P1;7gata
+structureX:7gat:   1 :A:  66 :A:nitrogen regulatory protein area:Emericella nidulans: -1: -1
+MKNGEQNGPTTCTNCFTQTTPVWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIKKRNRNSAN-----
+S*
+>P1;3gata
+structureX:3gat:   1 :A:  66 :A:erythroid transcription factor (GATA-1):Gallus gallus: -1: -1
+KRA-----GTVCSNCQTSTTTLWRRSPMGDPVCNACGLYYKLHQVNRPLTMRKDGIQTRNRKVSSKGKKR
+R*
+>P1;1gnf
+structureX:1gnf: 198 : : 243 : :erythroid transcription factor (GATA-1):Mus musculus: -1: -1
+-----GSEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIR-------------------
+-*
+>P1;gi|2494688|sp|Q92269|NRFA_PENUR Nitrogen regulatory protein NRFA... [ score 127 E 5e-29 ] [ range 654 .. 719 ]
+sequence
+-KNGDPNGPTTCTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIKKRNRSSAN-----
+T*
+>P1;gi|37781291|gb|AAP35028.1| GATA transcription factor alpha [Aste... [ score 125 E 3e-28 ] [ range 404 .. 469 ] [ duplicate a ]
+sequence
+LQSGSRREGIVCANCHTTTTTLWRRNKEGEPVCNACGLYYKLHSVNRPLAMKKDGIQTRKRKPKG-----
+S*
+>P1;gi|3182912|sp|O13412|AREA_ASPNG Nitrogen regulatory protein areA... [ score 124 E 4e-28 ] [ range 665 .. 730 ]
+sequence
+-KNGEQSGPTTCTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIKKRNRSSAN-----
+S*
+>P1;gi|2133281|pir||S51493 major nitrogen regulation protein - Penic... [ score 124 E 6e-28 ] [ range 649 .. 716 ]
+sequence
+LKNGSTNAGPACTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIKKRNRSSAN-----
+T*
+>P1;gi|45446505|gb|AAF55261.2| CG3992-PA [Drosophila melanogaster] [ score 122 E 1e-27 ] [ range 794 .. 857 ]
+sequence
+--SASKRAGLSCSNCHTTHTSLWRRNPAGEPVCNACGLYYKLHSVPRPLTMKKDTIQKRKRKPKG-----
+T*
+>P1;gi|31198001|ref|XP_307948.1| ENSANGP00000021808 [Anopheles gambi... [ score 122 E 2e-27 ] [ range 430 .. 492 ] [ duplicate a ]
+sequence
+---GNRRSGVTCANCQTTTTTLWRRNNQGDPVCNACGLYYKLHSVNRPLTMKKDGIQTRKRKPKS-----
+S*
+>P1;gi|42549819|gb|EAA72662.1| AREA_GIBFU Nitrogen regulatory protei... [ score 122 E 3e-27 ] [ range 678 .. 740 ]
+sequence
+---SDGNAPTTCTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIKKRNRGSGT-----
+N*
+>P1;gi|12082800|gb|AAG48616.1| nitrogen response factor NRF1 [Clados... [ score 121 E 4e-27 ] [ range 664 .. 727 ]
+sequence
+---GDNSGPTSCTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIKKRNRGSGN-----
+S*
+>P1;gi|25136582|gb|AAN65464.1| major nitrogen regulatory protein [Co... [ score 121 E 6e-27 ] [ range 690 .. 752 ]
+sequence
+---GESSTPTTCTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIKKRNRGSGA-----
+S*
+>P1;gi|22651761|gb|AAM63546.1| transcription factor GATA-4 [Sus scrofa] [ score 120 E 7e-27 ] [ range 212 .. 264 ] [ duplicate b ]
+sequence
+------SEGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGISRPL------IKPQRRLSAS-----
+-*
+>P1;gi|128352|sp|P19212|NIT2_NEUCR Nitrogen catabolic enzyme regulat... [ score 119 E 1e-26 ] [ range 729 .. 797 ]
+sequence
+LQGAAGNTPTTCTNCFTQTTPLWRRNPDGQPLCNACGLFLKLHGVVRPLSLKTDVIKKRNRGSGA-----
+S*
+>P1;gi|40288197|ref|NP_005248.2| GATA binding protein 6; GATA-bindin... [ score 119 E 2e-26 ] [ range 385 .. 437 ] [ duplicate b ]
+sequence
+------SESRECVNCGSIQTPLWRRDGTGHYLCNACGLYSKMNGLSRPL------IKPQKRVPSS-----
+-*
+>P1;gi|24644977|ref|NP_731211.1| grain CG9656-PA [Drosophila melanog... [ score 118 E 3e-26 ] [ range 310 .. 370 ] [ duplicate a ]
+sequence
+LQSAAKRAGTSCANCKTTTTTLWRRNASGEPVCNACGLYYKLHNVNRPLTMKKEGIQTRNR---------
+-*
+>P1;gi|24644977|ref|NP_731211.1| grain CG9656-PA [Drosophila melanog... [ score 118 E 3e-26 ] [ range 254 .. 309 ] [ duplicate b ]
+sequence
+----QREEGRECVNCGATSTPLWRRDGTGHYLCNACGLYYKMNGQNRPL------IKPKRRLTLQ-----
+S*
+>P1;gi|45382241|ref|NP_990751.1| GATA-6 transcription factor [Gallus... [ score 118 E 4e-26 ] [ range 176 .. 228 ] [ duplicate b ]
+sequence
+------SESRECVNCGSIQTPLWRRDGTGNYLCNACGLYTKMNGLSRPL------IKPQKRVPSS-----
+-*
+>P1;gi|30519592|emb|CAB43400.2| transcription factor gata5 [Danio re... [ score 117 E 6e-26 ] [ range 230 .. 293 ] [ duplicate a ]
+sequence
+LQSTSRRAGLCCTNCHTSTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKESIQTRKRKPK------
+-*
+>P1;gi|30519592|emb|CAB43400.2| transcription factor gata5 [Danio re... [ score 117 E 6e-26 ] [ range 183 .. 238 ] [ duplicate b ]
+sequence
+--------GRECVNCGSISTPLWRRDGTGHYLCNACGLYHKMNGINRPLIKPQKRLQSTSRRAG------
+-*
+>P1;gi|24647326|ref|NP_650516.2| CG10278-PA [Drosophila melanogaster... [ score 117 E 7e-26 ] [ range 531 .. 593 ]
+sequence
+---NNRRNGVTCANCQTNSTTLWRRNNEGNPVCNACGLYYKLHNMNRPLSMKKEGIQKRKRKPKN-----
+N*
+>P1;gi|18858731|ref|NP_571309.1| GATA-binding protein 1 [Danio rerio... [ score 117 E 8e-26 ] [ range 231 .. 287 ] [ duplicate b ]
+sequence
+----SPPEARECVNCGATATPLWRQDGTGHYLCNACGLYHKMNGQNRPLPKKRLIVSKR-----------
+-*
+>P1;gi|7649393|emb|CAB88873.1| GATA transcription factor [Aedes aegy... [ score 116 E 1e-25 ] [ range 668 .. 731 ] [ duplicate a ]
+sequence
+--SSARRVGLQCSNCNTMNTSLWRRNQVGEPVCNACGLYYKLHNVNRPLAMKKDNIQSRKRKPKG-----
+S*
+>P1;gi|2494690|sp|Q01168|NUT1_MAGGR Nitrogen regulatory protein NUT1... [ score 116 E 2e-25 ] [ range 654 .. 717 ]
+sequence
+--NQGGDAPTTCTNCATQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIKKRNRGSGS-----
+N*
+>P1;gi|15824330|gb|AAL09304.1| transcription factor GATA-6 [Sus scrofa] [ score 116 E 2e-25 ] [ range 241 .. 290 ] [ duplicate b ]
+sequence
+-----------CVNCGSIQTPLWRRDGTGHYLCNRCGLYSKMNGLSGPLIKPQKPVPSSRR---------
+-*
+>P1;gi|18858733|ref|NP_571286.1| GATA-binding protein 3 [Danio rerio... [ score 116 E 2e-25 ] [ range 301 .. 360 ] [ duplicate a ]
+sequence
+--SAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRK--------
+-*
+>P1;gi|1078989|pir||S53811 BmGATA beta isoform 2 - silkworm (fragmen... [ score 115 E 2e-25 ] [ range 71 .. 121 ] [ duplicate b ]
+sequence
+--------GRECVNCGAIHTPLWHRDGTGHYLCNACGLYNKMNGMNRPLKQPRRLVRQR-----------
+-*
+>P1;gi|120969|sp|P23768|GA1B_XENLA GATA binding factor-1B (Transcrip... [ score 115 E 2e-25 ] [ range 227 .. 283 ] [ duplicate a ]
+sequence
+----SKRAGTQCSNCHTSTTTLWRRNAGGDPVCNACGLYYKLHNVNRPLTMKKEGIQTRNR---------
+-*
+>P1;gi|120969|sp|P23768|GA1B_XENLA GATA binding factor-1B (Transcrip... [ score 115 E 2e-25 ] [ range 173 .. 229 ] [ duplicate b ]
+sequence
+----QSTEDRECVNCGATVTPLWRRDLSGHYLCNACGLYHKMNGQNRPLPKKRLIISKR-----------
+-*
+>P1;gi|120966|sp|P23767|GA1A_XENLA GATA binding factor-1A (Transcrip... [ score 115 E 3e-25 ] [ range 171 .. 227 ] [ duplicate b ]
+sequence
+----QSTEDRECVNCGATVTPLWRRDMSGHYLCNACGLYHKMNGQNRPLPKKRLIVSKR-----------
+-*
+>P1;gi|31982351|ref|NP_032116.3| GATA binding protein 2; GATA-bindin... [ score 115 E 3e-25 ] [ range 340 .. 398 ] [ duplicate a ]
+sequence
+--SAARRAGTCCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQTRNR---------
+-*
+>P1;gi|39588438|emb|CAE72789.1| Hypothetical protein CBG20056 [Caeno... [ score 115 E 3e-25 ] [ range 276 .. 336 ] [ duplicate b ]
+sequence
+---GAGTEDRECVNCGVHATPLWRRDGSGNYLCNACGLYFKMNHQARPLVKPKKRQQNAQKRTG------
+-*
+>P1;gi|39748630|dbj|BAD04991.1| hematopietic transcription factor GA... [ score 115 E 3e-25 ] [ range 285 .. 341 ] [ duplicate a ]
+sequence
+----SKRAGTQCANCHTSTTTLWRRNANGEPVCNACGLYFKLHNVNRPLTMKKEGIQTRNR---------
+-*
+>P1;gi|37595582|gb|AAQ94635.1| Gata6 protein [Danio rerio] [ score 114 E 6e-25 ] [ range 342 .. 404 ] [ duplicate a ]
+sequence
+--SSSRRIGLSCANCQTSTTTLWRRNAEGEPVCNACGLYTKLHGVPRPLAMKKEGIQTRKRKPKS-----
+-*
+>P1;gi|8096353|dbj|BAA96108.1| transcription factor ScGATA-6 [Schizo... [ score 114 E 6e-25 ] [ range 953 .. 1009 ]
+sequence
+-------PPILCTNCQTTNTPLWRRDPEGQPLCNACGLFYKLHGVVRPLSLKTDVIKKRNRASG------
+-*
+>P1;gi|284114|pir||A41782 transcription factor GATA-2 (version 2) - ... [ score 114 E 7e-25 ] [ range 284 .. 335 ] [ duplicate b ]
+sequence
+------SEGRECVNCGATATPLWRRDGTGHYLCNACGFYHKMKGQNRPL------IKPKRRLSA------
+-*
+>P1;gi|12644402|sp|Q10280|GAF1_SCHPO Transcription factor gaf1 (Gaf-... [ score 113 E 1e-24 ] [ range 625 .. 689 ]
+sequence
+-RANATNPTPTCTNCQTRTTPLWRRSPDGQPLCNACGLFMKINGVVRPLSLKTDVIKKRNRGVGT-----
+S*
+>P1;gi|31198003|ref|XP_307949.1| ENSANGP00000006261 [Anopheles gambi... [ score 112 E 2e-24 ] [ range 167 .. 231 ] [ duplicate a ]
+sequence
+-QTATRRLGLCCTNCGTRTTTLWRRNNDGEPVCNACGLYFKLHGVNRPLAMRKDGIQTRKRKPKK-----
+T*
+>P1;gi|120960|sp|P23770|GAT2_XENLA Transcription factor xGATA-2 (GAT... [ score 112 E 2e-24 ] [ range 257 .. 313 ] [ duplicate b ]
+sequence
+-KSRSCSEGRECVNCGATATPLWRRDGTGHYLCNACGLYHKMNGQNRPL------IKPKRRLSA------
+-*
+>P1;gi|31559064|gb|AAP50501.1| nitrogen regulatory GATA-factor [Cand... [ score 112 E 2e-24 ] [ range 497 .. 554 ]
+sequence
+---AASNTGVSCTNCGTKTTPLWRRNPQGQPLCNACGLFLKLHGVVRPLSLKTDVIKKRQR---------
+-*
+>P1;gi|2494686|sp|Q91678|GA6A_XENLA Transcription factor xGATA-6A (G... [ score 111 E 3e-24 ] [ range 228 .. 288 ] [ duplicate a ]
+sequence
+---SSRRIGLACANCHTSTTTLWRRNTEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKRKPK------
+-*
+>P1;gi|38569869|gb|AAR24452.1| GATA transcription factor [Nematostel... [ score 111 E 4e-24 ] [ range 262 .. 320 ] [ duplicate a ]
+sequence
+--SAARRAGTSCANCHTTQTTLWRRNQNGDPVCNACGLYWKLHAVNRPLSMKKDGIQTRNR---------
+-*
+>P1;gi|3702856|gb|AAC62960.1| GATA transcription factor [Strongyloce... [ score 110 E 7e-24 ] [ range 266 .. 323 ]
+sequence
+---SAKRTGTSCANCQATATTLWRRNPNGDPVCNACGLYYKLHGVNRPLTMKKEGIQTRNR---------
+-*
+>P1;gi|17539618|ref|NP_501708.1| Erythroid-Like Transcription factor... [ score 110 E 9e-24 ] [ range 255 .. 307 ] [ duplicate b ]
+sequence
+-----------CVNCGVHNTPLWRRDGSGNYLCNACGLYFKMNHHARPLVKPKKRQQNAQKRTG------
+-*
+>P1;gi|45198587|ref|NP_985616.1| AFR069Cp [Eremothecium gossypii] >g... [ score 109 E 2e-23 ] [ range 34 .. 95 ]
+sequence
+---GAGAGCPVCQNCHTSTTPLWRRDEHGAVLCNACGLFLKLHGRPRPISLKTDVIKSRNRKAGH-----
+-*
+>P1;gi|33439249|gb|AAQ18783.1| GATA transcription factor [Haemonchus... [ score 109 E 2e-23 ] [ range 233 .. 297 ]
+sequence
+-QNSQRRQGLVCSNCGGTNTTLWRRNAEGEPVCNACGLYYKLHNVQRPPTMKKDGLQTRKRKAKS-----
+-*
+>P1;gi|45199031|ref|NP_986060.1| AFR513Cp [Eremothecium gossypii] >g... [ score 107 E 5e-23 ] [ range 283 .. 340 ]
+sequence
+-----GKPDTKCSNCMTKTTPLWRRGPQGDPLCNACGLFLKLHGVVRPLSLKTDVIKKRQRGS-------
+-*
+>P1;gi|42551569|gb|EAA74412.1| hypothetical protein FG05073.1 [Gibbe... [ score 106 E 1e-22 ] [ range 77 .. 134 ]
+sequence
+---GSGSTMPTCHNCSTSTTPLWRRDEYGAVLCNACGLFLKLHGRPRPISLKTDVIKSRNR---------
+-*
+>P1;gi|14318498|ref|NP_116632.1| activator of transcription of nitro... [ score 106 E 1e-22 ] [ range 301 .. 363 ]
+sequence
+--NTSSNPDIKCSNCTTSTTPLWRKDPKGLPLCNACGLFLKLHGVTRPLSLKTDIIKKRQRSSTK-----
+-*
+>P1;gi|3702858|gb|AAC62961.1| GATA transcription factor [Strongyloce... [ score 105 E 3e-22 ] [ range 48 .. 112 ] [ duplicate a ]
+sequence
+LQSGSRREGITCANCHTSTTTLWRRNKDGEPVCNACGLYFKLHGVNRPLAMKKDGIQTRKRKPKN-----
+-*
+>P1;gi|3702858|gb|AAC62961.1| GATA transcription factor [Strongyloce... [ score 105 E 3e-22 ] [ range 1 .. 54 ] [ duplicate b ]
+sequence
+--------GRECVNCGAISTPLWRRDGTGHYLCNACGLYHKMNGYNRPLIKNPRRLQSGSRR--------
+-*
+>P1;gi|25146629|ref|NP_509755.2| Erythroid-Like Transcription factor... [ score 103 E 8e-22 ] [ range 228 .. 291 ]
+sequence
+--SASRRQGLVCSNCNGTNTTLWRRNAEGDPVCNACGLYFKLHHIPRPTSMKKEGLQTRKRKSKS-----
+-*
+>P1;gi|731074|sp|P40349|URB1_USTMA Siderophore biosynthesis regulato... [ score 103 E 1e-21 ] [ range 478 .. 536 ] [ duplicate a ]
+sequence
+-------GALRCTNCQTTTTPLWRRDEDGNNICNACGLYHKLHGTHRPIGMKKSVIKRRKRIPAN-----
+A*
+>P1;gi|731074|sp|P40349|URB1_USTMA Siderophore biosynthesis regulato... [ score 103 E 1e-21 ] [ range 334 .. 376 ] [ duplicate b ]
+sequence
+-------AGMRCSNCGVTSTPLWRRAPDGSTICNACGLYIKSHSTHRSAS--------------------
+-*
+>P1;gi|32415912|ref|XP_328434.1| hypothetical protein ( (AF087130) s... [ score 102 E 3e-21 ] [ range 271 .. 331 ] [ duplicate a ]
+sequence
+VQSQNTTVVIACQNCGTTITPLWRRDEAGHTICNACGLYYKLHGVHRPVTMKKAIIKRRKR---------
+-*
+>P1;gi|39587930|emb|CAE67949.1| Hypothetical protein CBG13549 [Caeno... [ score 101 E 4e-21 ] [ range 279 .. 338 ]
+sequence
+--DSSNSGGSRCSNCSTTKTTAWRRDLAGKLVCNACGLYYRLHRTHRPVHMRKDFIQQRFRR--------
+-*
+>P1;gi|1132421|gb|AAA86091.1| zg2 [ score 101 E 6e-21 ] [ range 1 .. 55 ] [ duplicate b ]
+sequence
+--NSAQRG-AECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPL------IKPKRRLSA------
+-*
+>P1;gi|45198755|ref|NP_985784.1| AFR237Wp [Eremothecium gossypii] >g... [ score 100 E 9e-21 ] [ range 321 .. 382 ]
+sequence
+--DGCTKPQTQCFNCKTFKTPLWRRDLQGNTLCNACGLFQKLHGTMRPLSLKSDVIKKRNTKKR------
+-*
+>P1;gi|38110480|gb|EAA56189.1| hypothetical protein MG01840.4 [Magna... [ score 100 E 9e-21 ] [ range 105 .. 155 ] [ duplicate b ]
+sequence
+--SNQTPSGQVCSNCGTTQTPLWRRSPQGATICNACGLYLKARNAARPTNLKR-----------------
+-*
+>P1;gi|2494691|sp|Q92259|SREP_PENCH GATA factor SREP >gi|7493940|pir... [ score 100 E 1e-20 ] [ range 231 .. 287 ] [ duplicate a ]
+sequence
+----ASNTLVACQNCGTTVTPLWRRDEQGHPICNACGLYYKLHGCYRPTNMKKSIIKRRKR---------
+-*
+>P1;gi|4585213|gb|AAD25328.1| siderophore biosynthesis repressor SRE... [ score 100 E 1e-20 ] [ range 244 .. 300 ] [ duplicate a ]
+sequence
+----EGNMLVACQNCGTTVTPLWRRDENGHPICNACGLYYKLHGSYRPTTMKKTIIKRRKR---------
+-*
+>P1;gi|42554279|gb|EAA77122.1| hypothetical protein FG09565.1 [Gibbe... [ score 99 E 3e-20 ] [ range 250 .. 309 ] [ duplicate a ]
+sequence
+-QNPNATVVIACQNCGTTITPLWRRDESGHTICNACGLYYKLHGVHRPMTMKKSTIKRRKR---------
+-*
+>P1;gi|42554279|gb|EAA77122.1| hypothetical protein FG09565.1 [Gibbe... [ score 99 E 3e-20 ] [ range 98 .. 145 ] [ duplicate b ]
+sequence
+-----GSQGQVCSNCGTTRTPLWRRSPQGATICNACGLYLKARNASRPTSLKR-----------------
+-*
+>P1;gi|19113848|ref|NP_592936.1| GATA-type transcription factor fami... [ score 99 E 3e-20 ] [ range 170 .. 225 ] [ duplicate a ]
+sequence
+---------TFCQNCATTNTPLWRRDESGNPICNACGLYYKIHGVHRPVTMKKAIIKRRKRLVFN-----
+-*
+>P1;gi|13620173|emb|CAC36427.1| GATA transcription factor [Botryotin... [ score 98 E 4e-20 ] [ range 266 .. 326 ] [ duplicate a ]
+sequence
+LQAQNTTVVVACQNCGTTITPLWRRDESGHTICNACGLYYKLHGVHRPVTMKKSIIKRRKR---------
+-*
+>P1;gi|17539620|ref|NP_500143.1| EGg Laying defective EGL-18, Protru... [ score 97 E 1e-19 ] [ range 258 .. 316 ]
+sequence
+--SGDPNA-ARCSNCRTDKTTAWRRDAEGKLVCNPCGLYYRLHKVRRPIEMRKNHIQQRYRR--------
+-*
+>P1;gi|171600|gb|AAA34645.1| GLN3 protein [ score 96 E 1e-19 ] [ range 300 .. 358 ]
+sequence
+-----KKPLIQCFNCKTFKTPLWRRSPEGNTLCNACGLFQKLHGTMRPLSLKSDVIKKRISKKR------
+-*
+>P1;gi|6322351|ref|NP_012425.1| GATA zinc finger protein and Dal80p ... [ score 96 E 1e-19 ] [ range 123 .. 182 ]
+sequence
+--SNDANVPV-CKNCLTSTTPLWRRDEHGAMLCNACGLFLKLHGKPRPISLKTDVIKSRNRKS-------
+-*
+>P1;gi|25151968|ref|NP_500144.2| Erythroid-Like Transcription factor... [ score 93 E 1e-18 ] [ range 257 .. 315 ]
+sequence
+---SANSSISKCSNCSTIKTTAWRRDLEGKLVCNACGLYYRLHRTHRPVHMRKDFIQQRFRR--------
+-*
+>P1;gi|4752|emb|CAA42757.1| UGA43 [Saccharomyces cerevisiae] [ score 92 E 3e-18 ] [ range 29 .. 77 ]
+sequence
+---------PTCQNCFTVKTPLWRRDEHGTVLCNACGLFLKLHGEPRPISLKTDTIKS------------
+-*
+>P1;gi|21745321|gb|AAM77345.1| transcription factor SFU1 [Candida al... [ score 90 E 1e-17 ] [ range 178 .. 235 ] [ duplicate a ]
+sequence
+----ESSLAIACFNCGTTITPLWRRDDAGNTICNACGLFYRLHGSHRPIKMKRPTIKRRKRN--------
+-*
+>P1;gi|21745321|gb|AAM77345.1| transcription factor SFU1 [Candida al... [ score 90 E 1e-17 ] [ range 54 .. 102 ] [ duplicate b ]
+sequence
+----QPTDGQQCSNCGTTKTPLWRRAPDGTLICNACGLYYRSNNTHRPVNLKR-----------------
+-*
+>P1;gi|39590429|emb|CAE66168.1| Hypothetical protein CBG11406 [Caeno... [ score 89 E 3e-17 ] [ range 192 .. 245 ]
+sequence
+---------TSCSNCGTRETKLWRRNEQGEPECNSCNLYERTKGVKRPATLWNKPTIKRRRRP-------
+-*
+>P1;gi|19173465|ref|NP_597268.1| SIMILAR TO GATA BINDING FACTOR-1 [E... [ score 89 E 3e-17 ] [ range 8 .. 57 ]
+sequence
+-----------CSNCNTTATPLWRRADDGSYLCNACGLYYKIHGRKRPISFKADSGKSRMR---------
+-*
+>P1;gi|19075466|ref|NP_587966.1| transcription factor gata-type [Sch... [ score 88 E 5e-17 ] [ range 364 .. 412 ] [ duplicate b ]
+sequence
+----------VCFNCGVTETPLWRRTSDKNFLCNACGLYNKQYGVMRPLSPRNKGSSK------------
+-*
+>P1;gi|39590435|emb|CAE66175.1| Hypothetical protein CBG11413 [Caeno... [ score 86 E 2e-16 ] [ range 149 .. 207 ]
+sequence
+---------SVCSNCGTRQTTLWRRTDSGAIECNGCSLYFRKNGVQRPADLCNKQILKRNRRPRA-----
+S*
+>P1;gi|13785803|gb|AAK39509.1| atypical GATA protein TRPS1 [Xenopus ... [ score 84 E 5e-16 ] [ range 627 .. 691 ]
+sequence
+-----RGSGVFCANCLTTKTSLWRKNANGGYVCNACGLYQKLHSTPRPLNIIKQIIRRRTRKRLN-----
+-*
+>P1;gi|15990428|gb|AAH15577.1| GATA2 protein [Homo sapiens] >gi|1751... [ score 79 E 2e-14 ] [ range 326 .. 384 ]
+sequence
+--NGQNRPLIKPKRRLTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQTRNR---------
+-*
+>P1;gi|14602571|gb|AAH09797.1| GATA1 protein [Homo sapiens] [ score 76 E 3e-13 ] [ range 251 .. 292 ] [ duplicate b ]
+sequence
+----SKRAGTQCTNCQTTTTTLWRRNASGDPVCNACGLYYKLHHQH------------------------
+-*
+>P1;gi|42760033|emb|CAE01390.1| tuber borchii white collar-1 [Tuber ... [ score 67 E 1e-10 ] [ range 820 .. 870 ]
+sequence
+-RKGVDQLEKDCANCHTRVTPEWRRGPSGKDLCNSCGLYAKLIGRVSPRT--------------------
+-*
+>P1;gi|14917059|sp|Q01371|WC1_NEUCR White collar 1 protein (WC1) >gi... [ score 67 E 1e-10 ] [ range 924 .. 990 ]
+sequence
+-RKGGGNMVRDCANCHTRNTPEWRRGPSGNDLCNSCGLWAKQTGRVSPRTSSRGGNGDSMSKKSN-----
+S*
+>P1;gi|11358938|pir||JC7336 zinc-finger protein - Arabidopsis thalia... [ score 66 E 3e-10 ] [ range 210 .. 259 ]
+sequence
+-------PEISCTHCGSKCTPMMRRGPSGRTLCNACGLFWANRGTLRDLSKKTE----------------
+-*
+>P1;gi|27803064|emb|CAD60767.1| unnamed protein product [Podospora a... [ score 63 E 1e-09 ] [ range 860 .. 928 ]
+sequence
+-RKGGGNMVRDCANCHTRNTPEWRRGPSGQDLCNSCGLRWAKQGRVSPRNSNRGGAQSKKSNS-------
+-*
+>P1;gi|31324448|gb|AAP47230.1| GATA-factor [Emericella nidulans] [ score 56 E 2e-07 ] [ range 786 .. 816 ]
+sequence
+----------SCAMCGTRTTPEWRRGPSGNDLCNSCGLRW------------------------------
+-*
+>P1;gi|21537322|gb|AAM61663.1| flowering protein CONSTANS, putative ... [ score 54 E 8e-07 ] [ range 213 .. 260 ]
+sequence
+-----QKPEVLCRHCGTSETPMMRRGPDGRTLCNACGLMWANKGTLRDLS--------------------
+-*
+>P1;gi|31324461|gb|AAP47576.1| GATA-factor [Emericella nidulans] >gi... [ score 53 E 1e-06 ] [ range 375 .. 412 ]
+sequence
+----------KCADCGTSDSPEWRKGPEGKTLCNACGLRWAKMGKKR-----------------------
+-*
+>P1;gi|34897256|ref|NP_909974.1| putative zinc finger protein [Oryza... [ score 53 E 1e-06 ] [ range 24 .. 61 ]
+sequence
+--------PKACTDCHTTKTPLWRGGPSGKSLCNACGIRYRKKRR-------------------------
+-*
+>P1;gi|6323785|ref|NP_013856.1| Similar to GATA-family of DNA bindin... [ score 53 E 2e-06 ] [ range 472 .. 522 ]
+sequence
+-----------CFHCGETETPEWRKGPYGRTLCNACGLFYRK--VTKKFGSKSSNLLLRYRRS-------
+-*
+>P1;gi|15233971|ref|NP_195015.1| zinc finger (GATA type) family prot... [ score 53 E 2e-06 ] [ range 191 .. 241 ]
+sequence
+---GESGGGRRCLHCATEKTPQWRTGPMGKTLCNACGVRYKLVPEYRPAS--------------------
+-*
+>P1;gi|34906096|ref|NP_914395.1| P0020E09.8 [Oryza sativa (japonica ... [ score 53 E 2e-06 ] [ range 17 .. 56 ]
+sequence
+------NGSKACADCHTTKTPLWRGGPGGKSLCNACGIRYRKRRR-------------------------
+-*
+>P1;gi|32412334|ref|XP_326647.1| hypothetical protein [Neurospora cr... [ score 53 E 2e-06 ] [ range 383 .. 434 ]
+sequence
+-RRGRAAPPGRCHSCNRIDTPEWRRGPDGRTLCNACGLHYAKLERKRQLEQR------------------
+-*
+>P1;gi|13174240|gb|AAK14414.1| putative zinc finger protein [Oryza s... [ score 52 E 2e-06 ] [ range 213 .. 253 ]
+sequence
+---------SKCQNCGTSETPAMRRGPAGRTLCNACGLMWANKGTLR-----------------------
+-*
+>P1;gi|34912080|ref|NP_917387.1| P0671D01.19 [Oryza sativa (japonica... [ score 52 E 3e-06 ] [ range 116 .. 154 ]
+sequence
+---AAASAPRRCANCDTTSTPLWRNGPRGKSLCNACGIRYK-----------------------------
+-*
+>P1;gi|8778844|gb|AAF79843.1| T6D22.9 [Arabidopsis thaliana] [ score 52 E 4e-06 ] [ range 296 .. 339 ] [ duplicate a ]
+sequence
+----------KCTHCETTKTPQWREGPSGKTLCNACGVRFRLVPEYRPAS--------------------
+-*
+>P1;gi|8778844|gb|AAF79843.1| T6D22.9 [Arabidopsis thaliana] [ score 52 E 4e-06 ] [ range 733 .. 775 ] [ duplicate b ]
+sequence
+-----------CTHCETITTPQWRQGPSGKTLCNACGVRFKLVPEYRPAS--------------------
+-*
+>P1;gi|38104151|gb|EAA50762.1| hypothetical protein MG04521.4 [Magna... [ score 51 E 6e-06 ] [ range 499 .. 536 ]
+sequence
+----------VCTDCGTLDSPEWRKGPSGKTLCNACGLRWAKKEKKR-----------------------
+-*
+>P1;gi|1617552|gb|AAB16914.1| NsdD [Emericella nidulans] >gi|1737171... [ score 51 E 7e-06 ] [ range 390 .. 432 ]
+sequence
+-RRGKAAPPGRCHSCNRAETPEWRRGPDGRTLCNACGLYAKL----------------------------
+-*
+>P1;gi|42547813|gb|EAA70656.1| CGPB_FUSSO Cutinase gene palindrome-b... [ score 51 E 8e-06 ] [ range 398 .. 435 ]
+sequence
+----------VCTDCGTLDSPEWRKGPQGKTLCNACGLRWAKREKKR-----------------------
+-*
+>P1;gi|42733754|gb|AAS38686.1| similar to Dictyostelium discoideum (... [ score 51 E 8e-06 ] [ range 494 .. 543 ]
+sequence
+-----KSKGTYCIFCGTMETPEWRKGPGGHTLCNACGLHYAKN------------IKKENQNNGG-----
+S*
+>P1;gi|15236131|ref|NP_194345.1| zinc finger (GATA type) family prot... [ score 51 E 9e-06 ] [ range 189 .. 228 ]
+sequence
+-QNGYNNDCVICSDCNTTKTPLWRSGPRGKSLCNACGI--------------------------------
+-*
+>P1;gi|18403600|ref|NP_564593.1| zinc finger (GATA type) family prot... [ score 50 E 1e-05 ] [ range 216 .. 264 ]
+sequence
+----AQHQEISCRHCGEKSTPMMRRGPAGRTLCNACGLMWANKGAFRDLS--------------------
+-*
+>P1;gi|28274798|gb|AAO34709.1| RfeH [Penicillium chrysogenum] [ score 50 E 1e-05 ] [ range 302 .. 340 ]
+sequence
+-----GDSALRCHSCNRSETPEWRRGPDGRTLCNACGLYAKL----------------------------
+-*
+>P1;gi|40288197|ref|NP_005248.2| GATA binding protein 6; GATA-bindin... [ score 137 E 7e-32 ] [ range 438 .. 502 ] [ duplicate a ]
+sequence
+RRL-----GLSCANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKRKPKNINKSK
+-*
+>P1;gi|22651761|gb|AAM63546.1| transcription factor GATA-4 [Sus scrofa] [ score 136 E 2e-31 ] [ range 265 .. 329 ] [ duplicate a ]
+sequence
+RRV-----GLSCANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQTRKRKPKNLNKSK
+-*
+>P1;gi|24647320|ref|NP_732098.1| serpent CG3992-PB [Drosophila melan... [ score 135 E 3e-31 ] [ range 731 .. 782 ] [ duplicate b ]
+sequence
+--------GRECVNCGAISTPLWRRDNTGHYLCNACGLYMKMNGMNRPL------IKQPRRLSASK----
+-*
+>P1;gi|17136408|ref|NP_476685.1| pannier CG3978-PA [Drosophila melan... [ score 134 E 4e-31 ] [ range 166 .. 221 ] [ duplicate b ]
+sequence
+--------GRECVNCGAISTPLWRRDGTGHYLCNACGLYHKMNGMNRPL------IKPSKRLVSATATRR
+-*
+>P1;gi|37781291|gb|AAP35028.1| GATA transcription factor alpha [Aste... [ score 134 E 4e-31 ] [ range 357 .. 410 ] [ duplicate b ]
+sequence
+--------GRECVNCGAISTPLWRRDGTGHYLCNACGLYHKMNGMSRPLIKPQRRLQSGSRR--------
+-*
+>P1;gi|18858731|ref|NP_571309.1| GATA-binding protein 1 [Danio rerio... [ score 134 E 5e-31 ] [ range 286 .. 349 ] [ duplicate a ]
+sequence
+KRA-----GTQCANCHTSTTTLWRRNASGEPVCNACGLYFKLHNVNRPLTMKKDGIQTRNRKVSNRNKK-
+-*
+>P1;gi|18858731|ref|NP_571309.1| GATA-binding protein 1 [Danio rerio... [ score 134 E 5e-31 ] [ range 238 .. 286 ] [ duplicate b ]
+sequence
+-----------CVNCGATATPLWRQDGTGHYLCNACGLYHKMNGQNRPL------IRPKKRLIVSK----
+-*
+>P1;gi|33416800|gb|AAH55963.1| Gata-5b protein [Xenopus laevis] [ score 134 E 6e-31 ] [ range 232 .. 296 ] [ duplicate a ]
+sequence
+RRA-----GLCCTNCHTSTTTLWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQTRKRKPKNIGKGK
+-*
+>P1;gi|31198001|ref|XP_307948.1| ENSANGP00000021808 [Anopheles gambi... [ score 133 E 1e-30 ] [ range 375 .. 433 ] [ duplicate b ]
+sequence
+-----------CVNCGSSDTPLWRRDIVGHTLCNACALYTRQNGTNRPPNRSQKAKQTVKTPPA-QGNRR
+-*
+>P1;gi|7110597|ref|NP_032119.1| GATA binding protein 5; GATA-binding... [ score 132 E 2e-30 ] [ range 244 .. 308 ] [ duplicate a ]
+sequence
+RRS-----GLCCSNCHTATTTLWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQTRKRKPENPAKIK
+-*
+>P1;gi|7110597|ref|NP_032119.1| GATA binding protein 5; GATA-binding... [ score 132 E 2e-30 ] [ range 193 .. 245 ] [ duplicate b ]
+sequence
+--------GRECVNCGALSTPLWRRDGTGHYLCNACGLYHKMNGVNRPLVRPQKRLSSSRR---------
+-*
+>P1;gi|45382623|ref|NP_990795.1| erythroid-specific transcription fa... [ score 132 E 3e-30 ] [ range 110 .. 158 ] [ duplicate b ]
+sequence
+-----------CVNCGATATPLWRRDGTGHYLCNACGLYHRLNGQNRPL------IRPKKRLLVSK----
+-*
+>P1;gi|39588438|emb|CAE72789.1| Hypothetical protein CBG20056 [Caeno... [ score 131 E 4e-30 ] [ range 333 .. 397 ] [ duplicate a ]
+sequence
+KRT-----GIECVNCHTNNTTLWRRNGEGHPVCNACGLYYKLHKVERPMAMKKEGIQTRNRKLSSKGQRR
+-*
+>P1;gi|7649393|emb|CAB88873.1| GATA transcription factor [Aedes aegy... [ score 130 E 1e-29 ] [ range 616 .. 672 ] [ duplicate b ]
+sequence
+--------GRECVNCGAIQTPLWRRDGTGHYLCNACGLYHKMNGMNRPL------VKQPRRLVKEPSSAR
+R*
+>P1;gi|37595582|gb|AAQ94635.1| Gata6 protein [Danio rerio] [ score 128 E 3e-29 ] [ range 297 .. 345 ] [ duplicate b ]
+sequence
+-----------CVNCGSMSTPLWRRDGTGHFLCNACGLYSKMNGLSRPL------IKPQKRMSSSR----
+-*
+>P1;gi|120969|sp|P23768|GA1B_XENLA GATA binding factor-1B (Transcrip... [ score 127 E 9e-29 ] [ range 180 .. 228 ] [ duplicate b ]
+sequence
+-----------CVNCGATVTPLWRRDLSGHYLCNACGLYHKMNGQNRPL------IRPKKRLIISK----
+-*
+>P1;gi|3183008|sp|P70005|GA6B_XENLA Transcription factor xGATA-6B (G... [ score 127 E 9e-29 ] [ range 182 .. 230 ] [ duplicate b ]
+sequence
+-----------CVNCGSVQTPLWRRDGTGHYLCNACGLYSKMNGLSRPL------IKPQKRVPSSR----
+-*
+>P1;gi|19386566|gb|AAL86577.1| GATA-3 [Raja eglanteria] [ score 126 E 1e-28 ] [ range 255 .. 307 ] [ duplicate b ]
+sequence
+--T-----GRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPL------IKPKRRLSAAR----
+-*
+>P1;gi|17539618|ref|NP_501708.1| Erythroid-Like Transcription factor... [ score 126 E 1e-28 ] [ range 304 .. 368 ] [ duplicate a ]
+sequence
+KRT-----GIECVNCRTNTTTLWRRNGEGHPVCNACGLYFKLHKVERPITMKKDGIQTRNRKLSAKGSRR
+-*
+>P1;gi|120966|sp|P23767|GA1A_XENLA GATA binding factor-1A (Transcrip... [ score 126 E 1e-28 ] [ range 178 .. 226 ] [ duplicate b ]
+sequence
+-----------CVNCGATVTPLWRRDMSGHYLCNACGLYHKMNGQNRPL------IRPKKRLIVSK----
+-*
+>P1;gi|18858735|ref|NP_571311.1| GATA-binding protein 4 [Danio rerio... [ score 126 E 1e-28 ] [ range 215 .. 279 ] [ duplicate a ]
+sequence
+RRV-----GLSCTNCQPTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKRKPKNISKTK
+-*
+>P1;gi|2494686|sp|Q91678|GA6A_XENLA Transcription factor xGATA-6A (G... [ score 126 E 2e-28 ] [ range 182 .. 230 ] [ duplicate b ]
+sequence
+-----------CVNCGSVQTPLWRRDGTGHFLCNACGLYSKMNGLSRPL------IKPQKRVPSSR----
+-*
+>P1;gi|1289502|gb|AAC52841.1| transcription factor GATA-6 [ score 121 E 4e-27 ] [ range 1 .. 49 ] [ duplicate b ]
+sequence
+-----------CVNCGSIQTPLWRRDGTGHYLCNACGLYSKMNALSRPL------IKPQKRVPSSR----
+-*
+>P1;gi|38569869|gb|AAR24452.1| GATA transcription factor [Nematostel... [ score 120 E 8e-27 ] [ range 214 .. 265 ] [ duplicate b ]
+sequence
+--------GRECVNCGATSTPLWRRDGSGHYLCNACGLYHKMNGSSRPL------IKPKRRLSAAR----
+-*
+>P1;gi|23094291|emb|CAD45643.1| GATAa protein [Ciona intestinalis] [ score 119 E 1e-26 ] [ range 146 .. 206 ]
+sequence
+---------QVCSNCSTTVTTLWRRSPDGNPVCNACGLYQKLHGVPRPRTMKKDSIQTRKRKPKGQGKVK
+-*
+>P1;gi|1078989|pir||S53811 BmGATA beta isoform 2 - silkworm (fragmen... [ score 119 E 2e-26 ] [ range 135 .. 198 ] [ duplicate a ]
+sequence
+KRP-----GTMCTNCQTTATSLWRRNVQGETVCNACGLYFKLHNVNRPLTMKKDSIQTRKRKPKNSNIK-
+-*
+>P1;gi|7496911|pir||T19677 hypothetical protein C33D3.1 - Caenorhabd... [ score 116 E 1e-25 ] [ range 11 .. 58 ] [ duplicate b ]
+sequence
+-RK-----RLVCSNCNGTNTTLWRRKAEGDPVCNACGLYFKLHHVTRPIPMKKN----------------
+-*
+>P1;gi|30851257|gb|AAH52653.1| GATA binding protein 1 [Mus musculus] [ score 111 E 4e-24 ] [ range 252 .. 317 ] [ duplicate a ]
+sequence
+KRA-----GTQCTNCQTTTTTLWRRNASGDPVCNACGLYFKLHQVNRPLTMRKDGIQTRNRKASGKGKKK
+R*
+>P1;gi|38106639|gb|EAA52922.1| hypothetical protein MG06050.4 [Magna... [ score 110 E 6e-24 ] [ range 186 .. 239 ]
+sequence
+----------TCQNCGTSTTPLWRRDEHGAVLCNACGLFLKLHGRPRPISLKTDVIKSRNRVKS------
+-*
+>P1;gi|12232017|gb|AAG49351.1| GATA factor AREB gamma [Aspergillus n... [ score 110 E 8e-24 ] [ range 140 .. 201 ]
+sequence
+----------ICQNCGTSKTPLWRRDELGSVLCNACGLFLKLHGRPRPISLKTDVIKSRNRKTAGQGPKR
+K*
+>P1;gi|1913781|dbj|BAA18948.1| DNA-binding protein [Zygosaccharomyce... [ score 109 E 1e-23 ] [ range 244 .. 303 ]
+sequence
+---------TKCTHCHTRTTPLWRRDPMGNPLCNACGLFLKLHGVVRPLSLKTDVIKKRQRNTNGNKVK-
+-*
+>P1;gi|32415912|ref|XP_328434.1| hypothetical protein ( (AF087130) s... [ score 109 E 2e-23 ] [ range 114 .. 179 ] [ duplicate b ]
+sequence
+--A-----GQVCSNCGTTHTPLWRRSPQGAIICNACGLYLKARNAARPANIRRPVMASNVRQAAAKLSPK
+K*
+>P1;gi|24583358|ref|NP_609383.2| CG5034-PA [Drosophila melanogaster]... [ score 109 E 2e-23 ] [ range 690 .. 751 ]
+sequence
+---------MSCSNCGTLTTTIWRRSVRGEMVCNACGLYFKLHGVNRPHSMRRDTIHTRRRRPKELERSK
+K*
+>P1;gi|3004634|gb|AAC09045.1| GATA transcription factor [Penicillium... [ score 108 E 3e-23 ] [ range 16 .. 76 ]
+sequence
+----------VCQNCGTSTTPLWRRDELGSVLCNACGLFLKLHGRPRPISLKTDVIKSRNRVKTGQGPKR
+K*
+>P1;gi|17998698|ref|NP_536721.1| GATA binding protein 5; transcripti... [ score 108 E 3e-23 ] [ range 237 .. 301 ] [ duplicate a ]
+sequence
+RRA-----GLCCTNCHTTNTTLWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQTRKRKPKTIAKAR
+-*
+>P1;gi|14285349|sp|Q9HEV5|ASD4_NEUCR GATA type zinc finger protein a... [ score 108 E 4e-23 ] [ range 15 .. 68 ]
+sequence
+----------TCQNCATSTTPLWRRDEMGQVLCNACGLFLKLHGRPRPISLKTDVIKSRNRVKT------
+-*
+>P1;gi|2494691|sp|Q92259|SREP_PENCH GATA factor SREP >gi|7493940|pir... [ score 104 E 5e-22 ] [ range 91 .. 143 ] [ duplicate b ]
+sequence
+--------GHSCSNCGTKSTPLWRRSPTGAMICNACGLYLKARNVARPT--------KRNRMQSEGAEK-
+-*
+>P1;gi|13620173|emb|CAC36427.1| GATA transcription factor [Botryotin... [ score 104 E 6e-22 ] [ range 114 .. 160 ] [ duplicate b ]
+sequence
+-QS-----NQIC-NCGTTRTPLWRRSPQGATICNACGLYQKARNASRPTNLKRP----------------
+-*
+>P1;gi|39587929|emb|CAE67948.1| Hypothetical protein CBG13548 [Caeno... [ score 101 E 3e-21 ] [ range 237 .. 292 ]
+sequence
+-----------CSNCHTDKTTAWRRDSEGKLVCNPCGLYYRLHKVRRPIEMRKNHIQQRYRRKNKEK---
+-*
+>P1;gi|39596444|emb|CAE63063.1| Hypothetical protein CBG07341 [Caeno... [ score 95 E 3e-19 ] [ range 227 .. 285 ]
+sequence
+---------SICSNCKTRETTLWRRNGEGGVECNACNLYFRKNNRKRPLSLRKDGIMKRNRRPRTESP--
+-*
+>P1;gi|19075466|ref|NP_587966.1| transcription factor gata-type [Sch... [ score 93 E 1e-18 ] [ range 417 .. 463 ] [ duplicate a ]
+sequence
+---------LVCANCSSTKTSLWRKDRHGQTVCNACGLYARLHGHNRPIGLKKNKI--------------
+-*
+>P1;gi|17559258|ref|NP_506475.1| ENDoderm determining END-1, transcr... [ score 86 E 2e-16 ] [ range 134 .. 193 ]
+sequence
+--T-----NSVCSNCRTRETTLWRRTDSGAIECNGCSLYFRKNGIQRPAELCRKTIMKRNRRPRA-----
+-*
+>P1;gi|17558128|ref|NP_504283.1| transcription factor GATA-2 (5F251)... [ score 83 E 2e-15 ] [ range 142 .. 197 ]
+sequence
+----------CCSHCSTTTTTLWRKNDEGNLECNACNLYYRHNKVKRPLSLCKQKPTTRKRRQAKK----
+-*
+>P1;gi|43853549|gb|EAF80968.1| unknown [environmental sequence] [ score 81 E 7e-15 ] [ range 66 .. 107 ]
+sequence
+RVA-----PTRCTNCGTSTTSLWRRDGAGAPVCNACGLYHRLHGKPR-----------------------
+-*
+>P1;gi|17559260|ref|NP_506480.1| ENDoderm determining END-3, transcr... [ score 77 E 7e-14 ] [ range 177 .. 232 ]
+sequence
+---------SSCSNCGCRETKLWRRNEQGETECNPCNLYERVKGHKRPQHLNKPAAKRRRRPVA------
+-*
+>P1;gi|19073947|ref|NP_584553.1| GATA ZINC FINGER TRANSCRIPTION FACT... [ score 74 E 9e-13 ] [ range 126 .. 171 ]
+sequence
+----------ICSNCSTTSTPSWRRGDQGKLLCNACGLYQKLHGRTRPYTVTAGG---------------
+-*
+>P1;gi|38105525|gb|EAA51943.1| hypothetical protein MG03538.4 [Magna... [ score 56 E 3e-07 ] [ range 953 .. 1020 ]
+sequence
+RSA-----GLVCANCHTRSTPEWRRGPSGQDLCNSCGLWAKQVGRVSPRTSSRGGGTKDDSNSRKSNSP-
+-*
+>P1;gi|6323785|ref|NP_013856.1| Similar to GATA-family of DNA bindin... [ score 54 E 1e-06 ] [ range 472 .. 530 ]
+sequence
+-----------CFHCGETETPEWRKGPYGTTLCNACGLFYR--KVTKKFGSKSSNLLLRYRRSIDLANDR
+R*
+>P1;gi|42733755|gb|AAS38687.1| similar to Dictyostelium discoideum (... [ score 54 E 1e-06 ] [ range 461 .. 497 ]
+sequence
+----------VCRNCKTTETPEWRKGPDGKSLCNACGLHYAKN-VKR-----------------------
+-*
+>P1;gi|37625017|gb|AAQ96332.1| transcription factor GATA-1 [Raja egl... [ score 52 E 3e-06 ] [ range 22 .. 50 ]
+sequence
+KRA-----GTLCANCHTSTTTLWRRNISGDPVCN------------------------------------
+-*
+>P1;gi|1685115|gb|AAB36702.1| putative transcription factor [Dictyos... [ score 52 E 3e-06 ] [ range 290 .. 344 ]
+sequence
+--A-----PRSCEFCGSSQTPTWRRGPSGKSLCNACGIKWRLKG--------KDGIFKPSQKQQNRQKP-
+-*
+>P1;gi|15226388|ref|NP_180401.1| zinc finger (GATA type) family prot... [ score 52 E 4e-06 ] [ range 215 .. 247 ]
+sequence
+---------LKCTHCETTTTPQWREGPNGKTLCNACGIRFR-----------------------------
+-*
+>P1;gi|6063555|dbj|BAA85415.1| similar to Arabidopsis thaliana DNA c... [ score 51 E 7e-06 ] [ range 188 .. 254 ]
+sequence
+-----------CGHCQTTETPQWRVGPDGSTLCNACGIRYRIDHLYRPSTFGSDGYSNRHRKVVKLREKK
+R*
+>P1;gi|11358938|pir||JC7336 zinc-finger protein - Arabidopsis thalia... [ score 49 E 3e-05 ] [ range 212 .. 259 ]
+sequence
+---------ISCTHCGISSTPMMRRGPSGRTLCNACGLFWANRGTLRDLSKKTE----------------
+-*
+>P1;gi|22213209|gb|AAM94549.1| putative zinc finger protein, 3'-part... [ score 49 E 3e-05 ] [ range 62 .. 106 ] [ duplicate a ]
+sequence
+--------GLQCRHCGTTETPQWRHGPEGHTLCNACSMRYKLVPEYRPL---------------------
+-*
+>P1;gi|22213209|gb|AAM94549.1| putative zinc finger protein, 3'-part... [ score 49 E 3e-05 ] [ range 232 .. 267 ] [ duplicate b ]
+sequence
+-RA-----GRECAHCGTTKTPAWRLGPDSRKLCNACGNKYR-----------------------------
+-*
+>P1;gi|39582233|emb|CAE64184.1| Hypothetical protein CBG08810 [Caeno... [ score 49 E 4e-05 ] [ range 133 .. 154 ]
+sequence
+-----------CANCSTTETSLWRKNEEGDLEC-------------------------------------
+-*
+>P1;gi|10644754|gb|AAG21385.1| GATA-type transcription factor [Caeno... [ score 48 E 4e-05 ] [ range 113 .. 165 ]
+sequence
+----------QCSNCSVTETIRWRRSKEG-IQCNACFIYQRKYNKTRPVT-AVNKYQKRKLKV-------
+-*
+>P1;gi|33188461|ref|NP_002043.2| GATA binding protein 4; GATA-bindin... [ score 100 E 1e-20 ] [ range 212 .. 256 ] [ duplicate a ]
+sequence
+------SEGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLIK-------------------
+-*
+>P1;gi|6978877|ref|NP_036896.1| GATA binding protein 1; GATA-binding... [ score 98 E 6e-20 ] [ range 255 .. 295 ] [ duplicate b ]
+sequence
+--------GTQCTNCQTTTTTLWRRNASGDPVCNACGLYYKLHQVNRPL---------------------
+-*
+>P1;gi|1169844|sp|P43691|GAT4_CHICK Transcription factor GATA-4 (GAT... [ score 97 E 7e-20 ] [ range 152 .. 196 ] [ duplicate a ]
+sequence
+------SEGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLFK-------------------
+-*
+>P1;gi|120966|sp|P23767|GA1A_XENLA GATA binding factor-1A (Transcrip... [ score 97 E 1e-19 ] [ range 229 .. 269 ] [ duplicate b ]
+sequence
+--------GTQCSNCHTSTTTLWRRNASGDPVCNACGLYYKLHNVNRPL---------------------
+-*
+>P1;gi|1169806|sp|P43695|GA5A_XENLA Transcription factor xGATA-5A (G... [ score 97 E 1e-19 ] [ range 179 .. 222 ] [ duplicate a ]
+sequence
+-------EGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGMNRPLIK-------------------
+-*
+>P1;gi|120960|sp|P23770|GAT2_XENLA Transcription factor xGATA-2 (GAT... [ score 97 E 1e-19 ] [ range 321 .. 358 ] [ duplicate b ]
+sequence
+-----------CANCQTSTTTLWRRNANGDPVCNACGLYYKLHNVNRPL---------------------
+-*
+>P1;gi|40538758|ref|NP_571308.1| GATA-binding protein 2 [Danio rerio... [ score 97 E 1e-19 ] [ range 325 .. 362 ] [ duplicate b ]
+sequence
+-----------CANCQTTTTTLWRRNGNGDPVCNACGLYYKLHNVNRPL---------------------
+-*
+>P1;gi|3702856|gb|AAC62960.1| GATA transcription factor [Strongyloce... [ score 96 E 2e-19 ] [ range 216 .. 260 ] [ duplicate a ]
+sequence
+------TEGRECVNCGATSTPLWRRDGNGHYLCNACGLYHKMNGQNRPLIK-------------------
+-*
+>P1;gi|18858735|ref|NP_571311.1| GATA-binding protein 4 [Danio rerio... [ score 94 E 1e-18 ] [ range 164 .. 206 ] [ duplicate a ]
+sequence
+--------GRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLVK-------------------
+-*
+>P1;gi|45382243|ref|NP_990752.1| GATA-5 transcription factor [Gallus... [ score 93 E 1e-18 ] [ range 182 .. 224 ] [ duplicate a ]
+sequence
+-------DGRECVNCGAMSTPLWRKDGTGHYLCNACGLYHKMNGINRPLK--------------------
+-*
+>P1;gi|45382243|ref|NP_990752.1| GATA-5 transcription factor [Gallus... [ score 93 E 1e-18 ] [ range 239 .. 276 ] [ duplicate b ]
+sequence
+-----------CTNCHTTNTTLWRRNAEGEPVCNACGLYMKLHGVPRPL---------------------
+-*
+>P1;gi|183000|gb|AAA35870.1| Gata3 enhancer-binding protein [ score 92 E 3e-18 ] [ range 259 .. 303 ] [ duplicate a ]
+sequence
+------TEGRECVNCGATSTPLWRRDGTGHYLCRRCGLYHKMNGQNRPLIK-------------------
+-*
+>P1;gi|45361689|ref|NP_989422.1| zinc-finger transcription factor Ga... [ score 92 E 4e-18 ] [ range 370 .. 407 ] [ duplicate b ]
+sequence
+-----------CANCHTTTTTLWRRNTEGEPVCNACGLYMKLHGVPRPL---------------------
+-*
+>P1;gi|3218331|emb|CAA07052.1| nitrogen response regulator [Metarhiz... [ score 91 E 6e-18 ] [ range 657 .. 700 ]
+sequence
+-----GGAPTTCTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPL---------------------
+-*
+>P1;gi|2494688|sp|Q92269|NRFA_PENUR Nitrogen regulatory protein NRFA... [ score 90 E 2e-17 ] [ range 660 .. 702 ]
+sequence
+------AGPTTCTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPL---------------------
+-*
+>P1;gi|8648977|emb|CAB94842.1| GATA-4 zinc-finger transcription fact... [ score 86 E 2e-16 ] [ range 61 .. 98 ] [ duplicate b ]
+sequence
+-----------CANCQTTTTTLWRRNAEGKPVCNACGLYMKLHGVPRPL---------------------
+-*
+>P1;gi|42566590|gb|AAS21059.1| GATA factor [Nematostella vectensis] [ score 86 E 3e-16 ] [ range 54 .. 94 ] [ duplicate b ]
+sequence
+--------GTSCANCHTTQTTLWRRNQNGDPVCNACGLYWMLHAVNRPL---------------------
+-*
+>P1;gi|19113848|ref|NP_592936.1| GATA-type transcription factor fami... [ score 85 E 5e-16 ] [ range 9 .. 50 ] [ duplicate b ]
+sequence
+--------GQSCSNCHKTTTSLWRRGPDNSLLCNACGLYQKHRKHARPVK--------------------
+-*
+>P1;gi|11359321|pir||T43298 transcription factor gaf2 - fission yeas... [ score 82 E 5e-15 ] [ range 172 .. 209 ] [ duplicate a ]
+sequence
+-----------CQNCATTNTPKWRRDESGNPICNACGLYYKIHGVHRPV---------------------
+-*
+>P1;gi|39585508|emb|CAE70591.1| Hypothetical protein CBG17257 [Caeno... [ score 81 E 6e-15 ] [ range 236 .. 282 ]
+sequence
+-----GSASRRCSNCNGTNTTLWRRNAEGDPVCNACGLYFKLHHIARP----------------------
+-*
+>P1;gi|25146629|ref|NP_509755.2| Erythroid-Like Transcription factor... [ score 81 E 7e-15 ] [ range 227 .. 273 ]
+sequence
+-----GSASRRCSNCNGTNTTLWRRNAEGDPVCNACGLYFKLHHIPRP----------------------
+-*
+>P1;gi|31197997|ref|XP_307946.1| ENSANGP00000021653 [Anopheles gambi... [ score 81 E 1e-14 ] [ range 154 .. 194 ]
+sequence
+--------GLQCSNCNTTNTSLWRRNQVGEPVCNACGLYYKLHNVNRPL---------------------
+-*
+>P1;gi|39590427|emb|CAE66166.1| Hypothetical protein CBG11404 [Caeno... [ score 71 E 7e-12 ] [ range 189 .. 225 ]
+sequence
+-----------CSNCGTRETKLWRRNEQGVPECNSCNLYERTKGVKRP----------------------
+-*
+>P1;gi|14917059|sp|Q01371|WC1_NEUCR White collar 1 protein (WC1) >gi... [ score 56 E 3e-07 ] [ range 928 .. 972 ]
+sequence
+-----GNMVRDCANCHTRNTPEWRRGPSGNRLCNSCGLWAKQTGRVSP----------------------
+-*
+>P1;gi|42554470|gb|EAA77313.1| hypothetical protein FG07941.1 [Gibbe... [ score 55 E 3e-07 ] [ range 884 .. 928 ]
+sequence
+-----GNVVRDCANCHTRNTPEWRRGPSGQRLCNSCGLWAKQTGRVSP----------------------
+-*
+>P1;gi|42760033|emb|CAE01390.1| tuber borchii white collar-1 [Tuber ... [ score 55 E 4e-07 ] [ range 830 .. 868 ]
+sequence
+-----------CANCHTRVTPEWRRGPSGKRLCNSCGLYAKLIGRVSP----------------------
+-*
+>P1;gi|38105525|gb|EAA51943.1| hypothetical protein MG03538.4 [Magna... [ score 54 E 8e-07 ] [ range 959 .. 999 ]
+sequence
+---------RDCANCHTRSTPEWRRGPSGQRLCNSCGLWAKQVGRVSP----------------------
+-*
+>P1;gi|27803064|emb|CAD60767.1| unnamed protein product [Podospora a... [ score 54 E 8e-07 ] [ range 864 .. 897 ]
+sequence
+-----GNMVRDCANCHTRNTPEWRRGPSGQRLCNSCGL--------------------------------
+-*
+>P1;gi|15230631|ref|NP_190103.1| zinc finger (GATA type) family prot... [ score 54 E 1e-06 ] [ range 111 .. 147 ]
+sequence
+-----GITDKSCSHCGTRKTPLWREGPRGATLCNACGMRYR-----------------------------
+-*
+>P1;gi|15239503|ref|NP_197955.1| zinc finger (GATA type) family prot... [ score 53 E 2e-06 ] [ range 215 .. 251 ]
+sequence
+-----GAEERRCLHCATDKTPQWRTGPMGKTLCNACGVRYK-----------------------------
+-*
+>P1;gi|45188122|ref|NP_984345.1| ADR249Wp [Eremothecium gossypii] >g... [ score 52 E 3e-06 ] [ range 530 .. 565 ]
+sequence
+-----GASAGVCLHCQERDTPEWRRGPYGNTLCNACGLFY------------------------------
+-*
+>P1;gi|34909448|ref|NP_916071.1| OSJNBa0014K08.18 [Oryza sativa (jap... [ score 51 E 7e-06 ] [ range 260 .. 294 ]
+sequence
+-------EGRRCLHCETDKTPQWRTGPMGKTLCNACGVRYK-----------------------------
+-*
+>P1;gi|15241967|ref|NP_200497.1| zinc finger (GATA type) family prot... [ score 50 E 1e-05 ] [ range 230 .. 262 ]
+sequence
+---------RVCSDCNTTKTPLWRSGPRGKSLCNACGIRQR-----------------------------
+-*
+>P1;gi|15234463|ref|NP_195380.1| zinc finger (GATA type) family prot... [ score 50 E 1e-05 ] [ range 74 .. 107 ]
+sequence
+--------ARRCANCDTTSTPLWRNGPRGKSLCNACGIRFK-----------------------------
+-*
+>P1;gi|15239343|ref|NP_201433.1| zinc finger (GATA type) family prot... [ score 50 E 1e-05 ] [ range 249 .. 281 ]
+sequence
+---------RKCSHCGVQKTPQWRAGPMGKTLCNACGVRYK-----------------------------
+-*
+>P1;gi|15229571|ref|NP_189047.1| GATA transcription factor 1 (GATA-1... [ score 50 E 2e-05 ] [ range 193 .. 226 ]
+sequence
+--------GRKCQHCGAEKTPQWRAGPAGKTLCNACGVRYK-----------------------------
+-*
+>P1;gi|28274798|gb|AAO34709.1| RfeH [Penicillium chrysogenum] [ score 49 E 2e-05 ] [ range 302 .. 337 ]
+sequence
+-----GDSALRCHSCNRSETPEWRRGPDGRTLCNACGLHY------------------------------
+-*
+>P1;gi|37572451|dbj|BAC98495.1| AG-motif binding protein-5 [Nicotian... [ score 49 E 3e-05 ] [ range 240 .. 272 ]
+sequence
+---------RKCQHCEMTKTPQWRAGPMGKTLCNACGVRYK-----------------------------
+-*
+>P1;gi|37572443|dbj|BAC98491.1| AG-motif binding protein-1 [Nicotian... [ score 49 E 3e-05 ] [ range 241 .. 273 ]
+sequence
+---------RKCQHCEITKTPQWRAGPMGKTLCNACGVRYK-----------------------------
+-*
+>P1;gi|15224164|ref|NP_179429.1| zinc finger (GATA type) family prot... [ score 49 E 3e-05 ] [ range 88 .. 123 ]
+sequence
+------SLPRRCASCDTTSTPLWRNGPKGKSLCNACGIRFK-----------------------------
+-*
+>P1;gi|40743704|gb|EAA62892.1| hypothetical protein AN3436.2 [Asperg... [ score 49 E 3e-05 ] [ range 787 .. 814 ]
+sequence
+-----------CAMCGTRTTPEWRRGPSGNRLCNSCGL--------------------------------
+-*
+>P1;gi|20466648|gb|AAM20641.1| GATA transcription factor 3 [Arabidop... [ score 49 E 3e-05 ] [ range 180 .. 212 ]
+sequence
+---------RRCSHCGTNNTPQWRTGPVGKTLCNACGVRFK-----------------------------
+-*
