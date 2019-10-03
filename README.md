@@ -43,7 +43,7 @@ Tools: directory containing a PDB parser (in Python) and a script to weight sequ
 # Data for training and testing (Data)
 
 
-1009 directories corresponding to 1009 families from HOMSTRAD.
+## 1009 directories corresponding to 1009 families from HOMSTRAD.
 
 For each family:
 
@@ -57,7 +57,7 @@ For each family:
 
 ### Please note that the master sequence is named by its PDB code in the MAP file. It may not be the first sequence appearing in the file!
 
-398 test sequences ("queries") contained in the file queries398.multifasta. The name of each query sequence is as follows:
+## 398 test sequences ("queries") contained in the file queries398.multifasta. The name of each query sequence is as follows:
 
 >gluts | Q09596.1 | NP_001254267.1 | 98.0%
 
