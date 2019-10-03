@@ -32,6 +32,14 @@ CCMPRED: method to predict protein-protein contact by extracting coevolution sig
 
 ****
 **** 
+# Helper data and tools (Codes)
+
+Params: directory containing values for the DOPE statistical potential. 
+
+Tools: directory containing a PDB parser (in Python) and a script to weight sequences based on their similarity (in Perl).
+
+****
+**** 
 # Data for training and testing (Data)
 
 
