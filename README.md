@@ -26,7 +26,7 @@ SBROD: coarse-grained statistical potential to evaluate 3D models quality (can b
 
 ## For structural annotations (secondary structure, solvent accessibility, contacts... predicted from sequence)
 
-ReviewSA: book chapter reviewing methods to predict secondary structure, solvent accessibility, torsional angles and contact maps, from sequenc information) 
+ReviewSA: book chapter reviewing methods to predict secondary structure, solvent accessibility, torsional angles and contact maps, from sequence information) 
 
 CCMPRED: method to predict protein-protein contact by extracting coevolution signals (co-occurring patterns of mutations across sequences)
 
