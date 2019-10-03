@@ -31,7 +31,6 @@ ReviewSA: book chapter reviewing methods to predict secondary structure, solvent
 CCMPRED: method to predict protein-protein contact by extracting coevolution signals (co-occurring patterns of mutations across sequences)
 
 ****
-**** 
 # Helper data and tools (Codes)
 
 Params: directory containing values for the DOPE statistical potential. 
@@ -39,7 +38,6 @@ Params: directory containing values for the DOPE statistical potential.
 Tools: directory containing a PDB parser (in Python) and a script to weight sequences based on their similarity (in Perl).
 
 ****
-**** 
 # Data for training and testing (Data)
 
 
