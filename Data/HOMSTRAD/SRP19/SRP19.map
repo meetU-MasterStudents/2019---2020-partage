@@ -1,0 +1,404 @@
+>P1;1kvva
+structureN:1kvv:   1 :A: 104 :A:SRP19:Archaeoglobus fulgidus: -1: -1
+--------MKESVVWTVNLDSKKSRAEGRRIPRRFAVPNVKLHELVEASKELGLKFRAE---EKKYPKSW
+W-EEGGRVVVEKR-----------GTKTKLMIELARKIAEIREQKREQKKDKKKKKK*
+>P1;1jida
+structureX:1jid:   5 :A: 118 :A:Signal recognition particle 19 kDa protein:Homo sapiens: 1.80: 18.6
+AARSPADQDRFICIYPAYLNNKKTIAEGRRIPISKAVENPTATEIQDVCSAVGLNVFLEKNKMYSREWNR
+DVQYRGRVRVQLKQEDGSLCLVQFPSRKSVMLYAAEMIPKLK--TR-----------*
+>P1;gi|23048874|ref|ZP_00076241.1| COG1400: Signal recognition parti... [ score 127 E 7e-29 ] [ range 10 .. 102 ]
+sequence
+------------VIWPVYLDQTKSRSSGRIISRKNAIKEPQLNEIKEAARQLGLNPEVE---PKAYPKSW
+W-EVSGRVLVDDN-----------GPKTVIAKQIALAIKKMRGPESSAK--------*
+>P1;gi|21227659|ref|NP_633581.1| Signal recognition particle SEC65 s... [ score 121 E 3e-27 ] [ range 8 .. 100 ]
+sequence
+------------VIWPAYIDQTKSRSSGRIISRKNSIKEPHLNEIKEAARQLGLNPEVE---EKAYPKSW
+W-EVSGRVLVDDN-----------GPKSVIAKQIALAIKKMRGQEVPAK--------*
+>P1;gi|15790392|ref|NP_280216.1| signal recognition particle; Srp19 ... [ score 121 E 3e-27 ] [ range 1 .. 92 ]
+sequence
+--------MVENVIWPAYFDAALSRRDGRRVPMELAVEEPSIDEIATAVQQVGYDAVVE---DVAYPRRH
+W-DAAGRVLVDAD-----------DAKNTLVQAVAAYVGALRD--------------*
+>P1;gi|11498857|ref|NP_070086.1| signal recognition particle, subuni... [ score 119 E 2e-26 ] [ range 1 .. 95 ]
+sequence
+--------MKECVVWTVNLDSKKSRAEGRRIPRRFAVPNVKLHELVEACKELGLKFRAE---EKKYPKSW
+W-EEGGRVVVEKR-----------GTKTKLMIELARKIAEIREQKREQ---------*
+>P1;gi|20089190|ref|NP_615265.1| signal recognition particle, 19 kDa... [ score 115 E 2e-25 ] [ range 10 .. 102 ]
+sequence
+------------VIWPAYIDQTRSRSNGRIISRKNAVKEPHLNEIKDAAKNLGLNPEVE---EKAYPKSW
+W-EVSGRVLVDDR-----------GPKSVIAKQISLEIRKKRGKGVPAK--------*
+>P1;gi|15678193|ref|NP_275308.1| signal recognition particle 19 kDa ... [ score 110 E 9e-24 ] [ range 4 .. 91 ]
+sequence
+------------IIWPTYLDSRKSRSEGRRVPLEYAVESPTASEILRAARKLQLEASME---DRAYPPSW
+W-ESSGRVVVEYN-----------GKKSELLPKIARLVRSSRKR-------------*
+>P1;gi|14600956|ref|NP_147482.1| signal recognition particle [Aeropy... [ score 109 E 1e-23 ] [ range 16 .. 111 ]
+sequence
+---------RRIILWPAYFDSTLPRRLGRRVPRDMGVPSPKPEDVAEAARRAGFEAVVE---ESSYPRLW
+W-RVRRRIVVPED-----------VSKTDIIKAVATELRKIAAARRKR---------*
+>P1;gi|38103515|gb|EAA50202.1| hypothetical protein MG03961.4 [Magna... [ score 106 E 1e-22 ] [ range 76 .. 164 ]
+sequence
+-------------LYPVYFDATRTRAEGRRVKRSEAVPNPLAREIAQACGNLQLQALFE---PTKTHPRD
+W-ANPGRVKVKVK-----------GSKHHLYLLVAKHLRE-----------------*
+>P1;gi|41718887|ref|ZP_00147838.1| hypothetical protein Mbur179501 [... [ score 103 E 8e-22 ] [ range 10 .. 96 ]
+sequence
+------------VIWPANLDKSRSRKGGRIISRKSSLEAPLLRELTAAAEKLNLNPEVE---DKKYPRTW
+W-ESSGRILVDNN-----------EAKTMVARKIAKTIKEARG--------------*
+>P1;gi|20094987|ref|NP_614834.1| 19 kDa subunit of the signal recogn... [ score 100 E 2e-20 ] [ range 15 .. 102 ]
+sequence
+-----------IVVWPAYFDADRSRSEGRKVPKRLAVRNPRLTELRHIAEKLGLNPKVQ---DKRYPKRW
+W-DDKGRLIVDKV-----------ESKRKTLLMIAEKLKERRE--------------*
+>P1;gi|18313996|ref|NP_560663.1| signal recognition particle [Pyroba... [ score 99 E 2e-20 ] [ range 8 .. 94 ]
+sequence
+------------ILWLVYIDASVPRSRGRVLPRGLAVEKPSLKEVVQALEELGYKFQVP---DKKYPPLW
+F-EEKGYVVVETN-----------EKIREIASKVAGKIREMR---------------*
+>P1;gi|45358670|ref|NP_988227.1| Signal recognition particle protein... [ score 96 E 2e-19 ] [ range 1 .. 78 ]
+sequence
+--------MKEIILWPAYIDLKRTKNEGRKVPKEIAIQNPKLKEIASKIKKMGLEYSVE---NKKYPKES
+W-EICGYIKVKVD-----------ESTSKL---------------------------*
+>P1;gi|21730695|pdb|1L9A|A Chain A, Crystal Structure Of Srp19 In Co... [ score 96 E 2e-19 ] [ range 2 .. 84 ]
+sequence
+------------IIWPSYIDKKKSRREGRKVPEELAIEKPSLKDIEKALKKLGLEPKIR---DKRYPRQH
+W-EIAGRVEVDYK-----------GNKLCLLKEIAKIIK------------------*
+>P1;gi|15669223|ref|NP_248028.1| signal recognition particle, subuni... [ score 95 E 4e-19 ] [ range 2 .. 84 ]
+sequence
+------------IIWPSYIDKKKSRREGRKVPEELAIEKPSLKDIEKALKKLGLEPKIR---DKRYPRQH
+W-EICGCVEVDYK-----------GNKLQLLKEICKIIK------------------*
+>P1;gi|23320899|gb|AAN15926.1| signal recognition particle component... [ score 93 E 1e-18 ] [ range 1 .. 92 ]
+sequence
+--------MVENVIYPAYLDASLSRSEGRRVAQSAAVEAPTVDEIAKAVQQVGYDAVIE---DKRYSRE-
+F-ETRGRVLVNDD-----------ATKNDIVQAVAAYVGILRD--------------*
+>P1;gi|40746029|gb|EAA65185.1| hypothetical protein AN0642.2 [Asperg... [ score 88 E 6e-17 ] [ range 62 .. 154 ]
+sequence
+-------------LYPVYFDKTRTRAEGRKVGTELAVENPLARDIVDAVQMLGLRVGFE---PEKLHPKD
+W-ANPGRVRVDEN-----------GNKHHLYILIAQYLKA-----------------*
+>P1;gi|42551594|gb|EAA74437.1| hypothetical protein FG05153.1 [Gibbe... [ score 84 E 5e-16 ] [ range 80 .. 142 ]
+sequence
+-------------LYPVYFDASRSRAEGRRVSAELAVKDPLAREIANACSRLRLQTLFE---PEKVHPKD
+W-ANPGRVKV-----------------------------------------------*
+>P1;gi|32404260|ref|XP_322743.1| hypothetical protein [Neurospora cr... [ score 84 E 6e-16 ] [ range 126 .. 192 ]
+sequence
+-------------LYPCYFDATRSRAEGRRVSKELAVPNPLATEIVNACAQLRLSVVLE---AGKLHPKD
+W-ANPGRVKVNLK-----------E--------------------------------*
+>P1;gi|1174433|sp|P41922|SC65_YARLI Signal recognition particle SEC6... [ score 76 E 1e-13 ] [ range 123 .. 217 ]
+sequence
+------------IVYPVYFDKNKTVGEGRRVPLELAVENPLGQTIAEACKMLTLPSIYE---AHKTHPKD
+W-ANPGRVRVQLK-----------DNKRHLFRLIAQYMKE-----------------*
+>P1;gi|3024581|sp|O13475|SC65_KLULA SIGNAL RECOGNITION PARTICLE SEC6... [ score 74 E 8e-13 ] [ range 5 .. 96 ]
+sequence
+-------------LYPCYFDTRRTHAQGRRAPKDLCVENPLAKTIADAARSLGIPSIFE---GSKTHPQD
+F-GNPGRVRVKEN-----------GKKRVLMKRIGEYLKS-----------------*
+>P1;gi|45190892|ref|NP_985146.1| AER289Wp [Eremothecium gossypii] >g... [ score 73 E 1e-12 ] [ range 92 .. 183 ]
+sequence
+------------ILYPCYFDKNRTHAQGRQVPLELAVANPLAKTIADACRELEVLCVFE---GEKTHPQD
+F-GNPGRVRVKEN-----------GKKRWLMKNVAKYLQE-----------------*
+>P1;gi|19075958|ref|NP_588458.1| putative signal recognition particl... [ score 72 E 2e-12 ] [ range 1 .. 86 ]
+sequence
+--------MPSIILYPIYFDKSRPRRF-RCVPKDKAILNPLAKNIADVVRDLGYKCKLE---PLKTHPAD
+W-VNPGRVVLPEK-----------IQKKYVINEIAKVL-------------------*
+>P1;gi|43543110|gb|EAE26287.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 4 .. 94 ]
+sequence
+---------KHIVLYPEYFDFNLKRSEGRRIPINIAVKRPNVDELYSITKNIGTEVKKS---PKSHPSNW
+A-AESGSINLFYD-----------GKKMELLHKIGKELKNLRKTE------------*
+>P1;gi|6323531|ref|NP_013602.1| signal recognition particle subunit,... [ score 69 E 2e-11 ] [ range 100 .. 194 ]
+sequence
+------------VLYPCYFDINRSHKEGRRVPKELAVENPLAKTMADAVRELGILCIFE---GEKCHPQD
+F-GNPGRIRVKFK-----------GGKRQLMKAVGEYMK------------------*
+>P1;gi|23508854|ref|NP_701522.1| signal recognition particle 19 kd p... [ score 68 E 4e-11 ] [ range 37 .. 127 ]
+sequence
+------------IIYPNYLNKKKKVNEGRRINLKYCVSDPTVDEIALACKELNVSYVIE---KKKYYPRD
+W-LIEGRIRIKDI-----------LNKFELMKKIGLKLQTIK---------------*
+>P1;gi|31419453|gb|AAH53168.1| Unknown (protein for MGC:63961) [Dani... [ score 68 E 6e-11 ] [ range 17 .. 119 ]
+sequence
+-------------IYPAYINSKKTLAEGRRIPTDKAVENPTCAEIQGVLSAAGLNVHVE---NSMYPREW
+N-RDRGRVRVDKF-----------TSRKDVMFYVAEMIPKLKSRTQK----------*
+>P1;gi|3334324|sp|O14415|SC65_CANAL SIGNAL RECOGNITION PARTICLE SEC6... [ score 67 E 8e-11 ] [ range 95 .. 190 ]
+sequence
+------------IIYPCYFDINRSHKQGRRVSIDRAVENPLATTISDACRRLGLPVFLE---LDKTHPQD
+F-GNPGRVKVPKL-----------QTKRVLFNVIAEYLSE-----------------*
+>P1;gi|23481304|gb|EAA17622.1| SRP19 protein, putative [Plasmodium y... [ score 66 E 2e-10 ] [ range 20 .. 111 ]
+sequence
+-----------NIIYPNYLNKKKKIKEGRKININFCVPDPSVHEISLACKELNIPCVIE---QNKCYPRD
+W-LVEGRVRIKEN-----------GKTNKLMRQIGSKLQTIK---------------*
+>P1;gi|44254113|gb|EAH98905.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 8 .. 100 ]
+sequence
+------------VIWLDYFNKTLPRNKGRRLSKEKCVFDPSLKELIDASNSAGLQPKEE---QVRYPKRP
+Y-VRSGYIVLPKT-----------EKKTTMLEKISQKLVSKRAKQSKQ---------*
+>P1;gi|44618155|gb|EAK51685.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 8 .. 100 ]
+sequence
+------------VIWLDYFNKTLPRNKGRRLSKEKCVFDPSLKELIDASNAAGLQPKEE---QVRYPKRP
+Y-VRSGYIVLPKK-----------EKKTTMLEKISQKLVSKRAKQSKQ---------*
+>P1;gi|19173407|ref|NP_597210.1| SIGNAL RECOGNITION PARTICLE (SRP) S... [ score 64 E 1e-09 ] [ range 8 .. 105 ]
+sequence
+-------------LYPIYMDSARSLSEGRKYRKEICVQRPRYHEIKNALEKLEIEYTDE---PSKKHPRD
+F-FNSGRFRIKKE-----------YGRLFVIEGISQTIAELRSKPGSSEETSREKQ-*
+>P1;gi|32563713|ref|NP_490855.2| ribonucleoprotein complex SRP, Srp1... [ score 63 E 1e-09 ] [ range 16 .. 118 ]
+sequence
+-----------IVIYPAYIDKKKTAKQGRKISQILAVENPTSVEIHDVLAAVGFNPLLE---RTKYPRRD
+F-EVQGRVRVQKH-----------EQKTEIFKMVAEMIPKLKTRQ------------*
+>P1;gi|39589499|emb|CAE74528.1| Hypothetical protein CBG22282 [Caeno... [ score 63 E 1e-09 ] [ range 36 .. 137 ]
+sequence
+------------VIYPAYIDKKKTSKQGRKISKLLAVENPTSVEIHDVLAAVGFNPLLE---RTKYPRRD
+F-EVQGRVRVQLK-----------NTRDEVFKMVAEMIPKLKTRQ------------*
+>P1;gi|1711506|sp|P49963|SR19_DROME SIGNAL RECOGNITION PARTICLE 19 K... [ score 63 E 1e-09 ] [ range 29 .. 131 ]
+sequence
+-------------IYPAYINRKKTRQEGRRLPKENCVDNPSYIEIRDAVSVSNLQFLME---NKKYCRSE
+M-EFRGRVRVQLR-----------NTRESIMLHIASKIPQLKTRQNK----------*
+>P1;gi|8778511|gb|AAF79519.1| F21D18.11 [Arabidopsis thaliana] [ score 63 E 1e-09 ] [ range 10 .. 90 ]
+sequence
+---------KWVVIYPVYINSKKTVAEGRRISVSKSCENPNCIEISDCCKHLKLPSAVE---DKAYPRDF
+M-QV-GRVRVQKR-----------EDGTLLNPAI-----------------------*
+>P1;gi|1711507|sp|P49964|SR19_ORYSA SIGNAL RECOGNITION PARTICLE 19 K... [ score 62 E 2e-09 ] [ range 12 .. 117 ]
+sequence
+---------KWNVIYPVYLNSKKTVAEGRRIASGKACPDPTCVEIADCCSHLKIPHAIE---DKAYPRDF
+F-QV-GRVRVKDD-----------GSKKQLMIQIAELVPKHHGRTKKQE--------*
+>P1;gi|42916729|gb|EAB25434.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 4 .. 92 ]
+sequence
+---------KPLVIYPEYFDFNLKRSEGRKVPVNISVKRPNIDELYSITKDIGTDVKKS---SKSHPSNW
+S-AELGSINLFYE-----------GKKMALLHKIGKELKNLRK--------------*
+>P1;gi|33356688|ref|NP_126119.2| signal recognition particle, subuni... [ score 62 E 3e-09 ] [ range 5 .. 103 ]
+sequence
+--------MSKFVIWTSELDSRLSKKYGRVVPRNLAVERPSIEEIEEAAKSLGFKVVER---EKLNPKLD
+L-RTYGRIIIESP-----------YGKAKTLKIIAQKIRELRRRR------------*
+>P1;gi|42931739|gb|EAB32900.1| unknown [environmental sequence] [ score 61 E 6e-09 ] [ range 7 .. 100 ]
+sequence
+-----------IVVWLDYFNKTLPRKKGRRLPKEKCIFDPSLKELIDATKAAGIEPETE---DQRFPKRP
+Y-VRSGYIVLEKK-----------STKTSIMNKISEKLVSKRTKDSKK---------*
+>P1;gi|13384948|ref|NP_079803.1| signal recognition particle 19 [Mus... [ score 61 E 6e-09 ] [ range 16 .. 121 ]
+sequence
+-----------IFIYPAYLNNKKTIAEGRRIPISKAVENPTATEIQDVCSAVGLNAFLE---NKMYSREW
+N-RDRGRVRVQLK-----------QSRKSVMLYVAEMIPKLKTRTQK----------*
+>P1;gi|14591603|ref|NP_143685.1| hypothetical protein PHS054 [Pyroco... [ score 61 E 7e-09 ] [ range 1 .. 99 ]
+sequence
+--------MGRFVVWPCELDSRLSRKYGRIIPKNLAIEKPSLDEIIEVAETLNLKIVER---EKLNPRLS
+L-RTYGRIIIESP-----------YGKVKTLRLIAQKIREFRRRR------------*
+>P1;gi|24659997|ref|NP_477135.2| Signal recognition particle protein... [ score 60 E 9e-09 ] [ range 26 .. 128 ]
+sequence
+-------------IYPAYINRKKTRQEGRRLPKENCVDNPSYIEIRDVLSVSNLQFLME---NKKYCRSE
+M-EFRGRVRVQLR-----------NTRESIMLHIASKIPQLKTRQNK----------*
+>P1;gi|18978266|ref|NP_579623.1| hypothetical protein PF1894 [Pyroco... [ score 60 E 1e-08 ] [ range 1 .. 98 ]
+sequence
+--------MGRFVVWPSELDSRLSRKYGRIVPRSIAVESPRVEEIVRAAEELKFKVVEE---DKLNPRLS
+L-RTFGMIVLESP-----------YGKSKSLKLIAQKIREFRRR-------------*
+>P1;gi|31234562|ref|XP_319081.1| ENSANGP00000013412 [Anopheles gambi... [ score 59 E 2e-08 ] [ range 43 .. 108 ]
+sequence
+-------------IYPAYINRKKSRQEGRRIPKQYCVDDPSPQEIRDVLQALNMNVLVE---LKQYPRER
+S-RERGRIRV-----------------------------------------------*
+>P1;gi|24159062|pdb|1MFQ|B Chain B, Crystal Structure Analysis Of A ... [ score 58 E 4e-08 ] [ range 1 .. 72 ]
+sequence
+--------MRFICIYPAYLNNKKTIAEGRRIPISKAVENPTATEIQDVCSAVGLNVFLE---NKMYSREW
+N-RDRGRVRV-----------------------------------------------*
+>P1;gi|27728702|gb|AAO18673.1| signal recognition particle 19 kDa pr... [ score 56 E 2e-07 ] [ range 16 .. 82 ]
+sequence
+-------------IYPAYINSRKTIPQGRRIPQEKGVDNPTATEIRDVLQAGGFNIVLE---NKAYTRRD
+Q-NLRGRVRV-----------------------------------------------*
+>P1;gi|29247126|gb|EAA38699.1| GLP_516_41354_41704 [Giardia lamblia ... [ score 54 E 8e-07 ] [ range 3 .. 100 ]
+sequence
+---------KACIIYPRYMDSEASLKDGRRLGLEHSVPRPSLAEIEAAVRKVYPSAQVR---DKRYPKGA
+V-EAHGYLKIDKE-----------GGKLELLKSLQKHIVEAR---------------*
+>P1;gi|15221088|ref|NP_175250.1| signal recognition particle 19 kDa ... [ score 54 E 9e-07 ] [ range 10 .. 110 ]
+sequence
+---------KWVVIYPVYINSKKTVAEGRRISVSKSCENPNCIEISDCCKHLKLPSAVE---DKAYPRDF
+M-QV-GRVRVQLK-----------TSRKHLMQKIAELVP--RHPER-----------*
+>P1;gi|19920000|gb|AAM08441.1| similar to Arabidopsis thaliana (Mous... [ score 54 E 9e-07 ] [ range 22 .. 83 ]
+sequence
+------------IVYPNHINSELTKEKGRKVSKEHGVKNPTLPEIAEATAQLGLPCIIE---TSKYPKEF
+F--LRGRL-------------------------------------------------*
+>P1;gi|13541387|ref|NP_111075.1| Signal recognition particle 19 kDa ... [ score 48 E 4e-05 ] [ range 3 .. 83 ]
+sequence
+-----------CALYLQYFNKDLPRSKGRRLPKKI-LQNFTEERLRSILEEARISYEVR---ECRYPRVP
+W-QPSKMYVLDSN-----------LKKTSILKLIEKKL-------------------*
+>P1;gi|12846431|dbj|BAB27165.1| unnamed protein product [Mus musculus] [ score 213 E 9e-55 ] [ range 5 .. 118 ]
+sequence
+AARSPADQDRFICIYPAYLNNKKTIAEGRRIPISKAVENPTATEIQDVCSAVGLNAFLEKNKMYSREWNR
+DVQFRGRVRVQLKQEDGSLCLVQFPSRKSVMLYVAEMIPKLK--TR-----------*
+>P1;gi|31419453|gb|AAH53168.1| Unknown (protein for MGC:63961) [Dani... [ score 192 E 1e-48 ] [ range 7 .. 116 ]
+sequence
+---NPADKERFLCIYPAYINSKKTLAEGRRIPTDKAVENPTCAEIQGVLSAAGLNVHVE-NSMYPREWNR
+DVQFRGRVRVQLKMEDGSFCQDKFTSRKDVMFYVAEMIPKLK--SR-----------*
+>P1;gi|39589499|emb|CAE74528.1| Hypothetical protein CBG22282 [Caeno... [ score 186 E 7e-47 ] [ range 24 .. 136 ]
+sequence
+ASEALSNPKRWVVIYPAYIDKKKTSKQGRKISKLLAVENPTSVEIHDVLAAVGFNPLLERTKCYPRDGER
+DFEVQGRVRVQLKNDDGTPKHTQ-KTRDEVFKMVAEMIPKLK--TR-----------*
+>P1;gi|32563713|ref|NP_490855.2| ribonucleoprotein complex SRP, Srp1... [ score 185 E 2e-46 ] [ range 5 .. 117 ]
+sequence
+ASEPLSSQKRWIVIYPAYIDKKKTAKQGRKISQILAVENPTSVEIHDVLAAVGFNPLLERTKCYPRDGER
+DFEVQGRVRVQLKNDDGTAKHEQ-KTRDEIFKMVAEMIPKLK--TR-----------*
+>P1;gi|27728702|gb|AAO18673.1| signal recognition particle 19 kDa pr... [ score 176 E 1e-43 ] [ range 5 .. 116 ]
+sequence
+--KPFSDKDRFICIYPAYINSRKTIPQGRRIPQEKGVDNPTATEIRDVLQAGGFNIVLE-NKAYTREFHR
+DQNLRGRVRVQLKNDDGSAVNDKYPNRKSVYLYVAETIPKLK--TR-----------*
+>P1;gi|1711507|sp|P49964|SR19_ORYSA SIGNAL RECOGNITION PARTICLE 19 K... [ score 167 E 6e-41 ] [ range 8 .. 112 ]
+sequence
+-----SSIKKWNVIYPVYLNSKKTVAEGRRIASGKACPDPTCVEIADCCSHLKIPHAIELDKAYPRDFF-
+---QVGRVRVQLKKDDGSPVNPAIKTKKQLMIQIAELVPKHH--GR-----------*
+>P1;gi|24659997|ref|NP_477135.2| Signal recognition particle protein... [ score 166 E 9e-41 ] [ range 19 .. 125 ]
+sequence
+------DMERWICIYPAYINRKKTRQEGRRLPKENCVDNPSYIEIRDVLSVSNLQFLME-NKKYCRENSS
+EMEFRGRVRVQLRNVDGTLYNNDFPTRESIMLHIASKIPQLK--TR-----------*
+>P1;gi|15221088|ref|NP_175250.1| signal recognition particle 19 kDa ... [ score 164 E 4e-40 ] [ range 7 .. 110 ]
+sequence
+------NIKKWVVIYPVYINSKKTVAEGRRISVSKSCENPNCIEISDCCKHLKLPSAVEIDKAYPRDF--
+--MQVGRVRVQLKREDGTLLNPAITSRKHLMQKIAELVPRHP--ER-----------*
+>P1;gi|31234562|ref|XP_319081.1| ENSANGP00000013412 [Anopheles gambi... [ score 163 E 9e-40 ] [ range 35 .. 142 ]
+sequence
+-----SDRERWVCIYPAYINRKKSRQEGRRIPKQYCVDDPSPQEIRDVLQALNMNVLVEL-KQYPRERSR
+ELQCRGRIRVQLRNDDGAPLNSEYATRDSVLLHLGKTIPLLK--SR-----------*
+>P1;gi|1711506|sp|P49963|SR19_DROME SIGNAL RECOGNITION PARTICLE 19 K... [ score 162 E 2e-39 ] [ range 25 .. 128 ]
+sequence
+---------RWICIYPAYINRKKTRQEGRRLPKENCVDNPSYIEIRDAVSVSNLQFLME-NKKYCRENSS
+EMEFRGRVRVQLRNVDGTLYNIDFPTRESIMLHIASKIPQLK--TR-----------*
+>P1;gi|40746029|gb|EAA65185.1| hypothetical protein AN0642.2 [Asperg... [ score 161 E 3e-39 ] [ range 56 .. 157 ]
+sequence
+-------PKSYQCLYPVYFDKTRTRAEGRKVGTELAVENPLARDIVDAVQMLGLRVGFEPEKLHPKDWAN
+P----GRVRVQLKDENGEPVNSQIKNKHHLYILIAQYLKAHP--T------------*
+>P1;gi|8778511|gb|AAF79519.1| F21D18.11 [Arabidopsis thaliana] [ score 152 E 2e-36 ] [ range 7 .. 107 ]
+sequence
+------NIKKWVVIYPVYINSKKTVAEGRRISVSKSCENPNCIEISDCCKHLKLPSAVEIDKAYPRDF--
+--MQVGRVRVQLKREDGTLLNPAITSKYHLMLSLSDFL-------------------*
+>P1;gi|3334324|sp|O14415|SC65_CANAL SIGNAL RECOGNITION PARTICLE SEC6... [ score 148 E 2e-35 ] [ range 91 .. 193 ]
+sequence
+--------DQFQIIYPCYFDINRSHKQGRRVSIDRAVENPLATTISDACRRLGLPVFLELDKTHPQDFGN
+P----GRVKVLFKADNGKLINPKLQTKRVLFNVIAEYLSEHP--T------------*
+>P1;gi|1174433|sp|P41922|SC65_YARLI Signal recognition particle SEC6... [ score 143 E 8e-34 ] [ range 116 .. 221 ]
+sequence
+-----SDFKDWQIVYPVYFDKNKTVGEGRRVPLELAVENPLGQTIAEACKMLTLPSIYEAHKTHPKDWAN
+P----GRVRVQLKDDPGLPPHS-VKNKRHLFRLIAQYMKEHP--TK-----------*
+>P1;gi|45190892|ref|NP_985146.1| AER289Wp [Eremothecium gossypii] >g... [ score 142 E 1e-33 ] [ range 82 .. 186 ]
+sequence
+--EDLADLKRFQILYPCYFDKNRTHAQGRQVPLELAVANPLAKTIADACRELEVLCVFEGEKTHPQDFGN
+P----GRVRVLLK-ENGKAAG-KYANKRWLMKNVAKYLQEHP--T------------*
+>P1;gi|32404260|ref|XP_322743.1| hypothetical protein [Neurospora cr... [ score 142 E 2e-33 ] [ range 118 .. 222 ]
+sequence
+-----SAYKSFQCLYPCYFDATRSRAEGRRVSKELAVPNPLATEIVNACAQLRLSVVLEAGKLHPKDWAN
+P----GRVKVNLKEENGKLKN-----KHHLYILVAEHLKKHP--T------------*
+>P1;gi|3024581|sp|O13475|SC65_KLULA SIGNAL RECOGNITION PARTICLE SEC6... [ score 135 E 1e-31 ] [ range 2 .. 99 ]
+sequence
+----------FQMLYPCYFDTRRTHAQGRRAPKDLCVENPLAKTIADAARSLGIPSIFEGSKTHPQDFGN
+P----GRVRVLIK-ENGKPFVSGIDNKRVLMKRIGEYLKSHP--T------------*
+>P1;gi|42551594|gb|EAA74437.1| hypothetical protein FG05153.1 [Gibbe... [ score 135 E 2e-31 ] [ range 66 .. 171 ]
+sequence
+----PASADRFQCLYPVYFDASRSRAEGRRVSAELAVKDPLAREIANACSRLRLQTLFEPEKVHPKDWAN
+P----GRVKVGLKKSSGHPV----KNKHHLYRLVAEHLRDNP--T------------*
+>P1;gi|6323531|ref|NP_013602.1| signal recognition particle subunit,... [ score 132 E 2e-30 ] [ range 96 .. 198 ]
+sequence
+--------KRFQVLYPCYFDINRSHKEGRRVPKELAVENPLAKTMADAVRELGILCIFEGEKCHPQDFGN
+P----GRIRVLFK-ENGQLIGAATKGKRQLMKAVGEYMKRHP--T------------*
+>P1;gi|38103515|gb|EAA50202.1| hypothetical protein MG03961.4 [Magna... [ score 125 E 2e-28 ] [ range 73 .. 160 ]
+sequence
+----------FQCLYPVYFDATRTRAEGRRVKRSEAVPNPLAREIAQACGNLQLQALFEPTKTHPRDWAN
+P----GRVKVKVKGSG----NQHVKNKHHLYLLVAK---------------------*
+>P1;gi|32398768|emb|CAD98478.1| SRP19-domain protein [Cryptosporidiu... [ score 122 E 2e-27 ] [ range 94 .. 184 ]
+sequence
+------------------VGNNNTKSSGRLSSLIHCVEDPTIAEIAEVCIQLGIPCKVE-----SKRYSK
+DCRTLGRVRFQLFDESGRAFNDRILTKKILLNQIGIMIPKLK--NR-----------*
+>P1;gi|23508854|ref|NP_701522.1| signal recognition particle 19 kd p... [ score 118 E 3e-26 ] [ range 31 .. 127 ]
+sequence
+------DYSRWKIIYPNYLNKKKKVNEGRRINLKYCVSDPTVDEIALACKELNVSYVIEKKKYYPRDW--
+--LIEGRIRIKLPNQNNDILN-----KFELMKKIGLKLQTIK---------------*
+>P1;gi|23481304|gb|EAA17622.1| SRP19 protein, putative [Plasmodium y... [ score 111 E 3e-24 ] [ range 15 .. 112 ]
+sequence
+------DISRWNIIYPNYLNKKKKIKEGRKININFCVPDPSVHEISLACKELNIPCVIEQNKCYPRDW--
+--LVEGRVRIKIPIENGK------TNKFALMRQIGSKLQTIK--T------------*
+>P1;gi|20094987|ref|NP_614834.1| 19 kDa subunit of the signal recogn... [ score 96 E 2e-19 ] [ range 12 .. 100 ]
+sequence
+-------KDR-IVVWPAYFDADRSRSEGRKVPKRLAVRNPRLTELRHIAEKLGLNPKVQRDKRYPKRWW-
+-------------DDKGRLIVDKVESKRKTLLMIAE---KLK--ER-----------*
+>P1;gi|23320899|gb|AAN15926.1| signal recognition particle component... [ score 95 E 4e-19 ] [ range 5 .. 87 ]
+sequence
+------------VIYPAYLDASLSRSEGRRVAQSAAVEAPTVDEIAKAVQQVGYDAVIERDKRYSREF--
+--ETRGRVLVN---------NADDATKNDIVQAVAAYV-------------------*
+>P1;gi|15678193|ref|NP_275308.1| signal recognition particle 19 kDa ... [ score 92 E 3e-18 ] [ range 3 .. 68 ]
+sequence
+-----------LIIWPTYLDSRKSRSEGRRVPLEYAVESPTASEILRAARKLQLEASMESDRAYPPSWW-
+--ESSGRVVV-----------------------------------------------*
+>P1;gi|19920000|gb|AAM08441.1| similar to Arabidopsis thaliana (Mous... [ score 88 E 4e-17 ] [ range 18 .. 102 ]
+sequence
+--------KKWYIVYPNHINSELTKEKGRKVSKEHGVKNPTLPEIAEATAQLGLPCIIETSKGYPKEFF-
+---LRGRLRINFFCDGTTPRNPHIPN-------------------------------*
+>P1;gi|15790392|ref|NP_280216.1| signal recognition particle; Srp19 ... [ score 84 E 6e-16 ] [ range 5 .. 74 ]
+sequence
+------------VIWPAYFDAALSRRDGRRVPMELAVEEPSIDEIATAVQQVGYDAVVERDVAYPRRHWD
+---AAGRVLVKDADD------------------------------------------*
+>P1;gi|23048874|ref|ZP_00076241.1| COG1400: Signal recognition parti... [ score 82 E 3e-15 ] [ range 9 .. 94 ]
+sequence
+-----------LVIWPVYLDQTKSRSSGRIISRKNAIKEPQLNEIKEAARQLGLNPEVEPHKAYPKSWW-
+--EVSGRVLV---DDNG----PKTVIAKQIALAIKKM--------------------*
+>P1;gi|21227659|ref|NP_633581.1| Signal recognition particle SEC65 s... [ score 81 E 5e-15 ] [ range 7 .. 93 ]
+sequence
+-----------LVIWPAYIDQTKSRSSGRIISRKNSIKEPHLNEIKEAARQLGLNPEVEPEKAYPKSWW-
+--EVSGRVLV---DDNG--------PKSVIAKQIALAIKKMR---------------*
+>P1;gi|20089190|ref|NP_615265.1| signal recognition particle, 19 kDa... [ score 81 E 7e-15 ] [ range 9 .. 74 ]
+sequence
+-----------LVIWPAYIDQTRSRSNGRIISRKNAVKEPHLNEIKDAAKNLGLNPEVEPEKAYPKSWW-
+--EVSGRVLV-----------------------------------------------*
+>P1;gi|21730695|pdb|1L9A|A Chain A, Crystal Structure Of Srp19 In Co... [ score 78 E 5e-14 ] [ range 2 .. 69 ]
+sequence
+------------IIWPSYIDKKKSRREGRKVPEELAIEKPSLKDIEKALKKLGLEPKIYRDKRYPRQHW-
+--EIAGRVEVDYK--------------------------------------------*
+>P1;gi|19075958|ref|NP_588458.1| putative signal recognition particl... [ score 75 E 3e-13 ] [ range 4 .. 94 ]
+sequence
+-----------IILYPIYFDKSRPR-RFRCVPKDKAILNPLAKNIADVVRDLGYKCKLEPLKTHPADWVN
+P----GRV---------EMVLPEKIQKKYVINEIAKVLPTVK--T------------*
+>P1;gi|15669223|ref|NP_248028.1| signal recognition particle, subuni... [ score 74 E 7e-13 ] [ range 2 .. 69 ]
+sequence
+------------IIWPSYIDKKKSRREGRKVPEELAIEKPSLKDIEKALKKLGLEPKIYRDKRYPRQHW-
+--EICGCVEVDYK--------------------------------------------*
+>P1;gi|45358670|ref|NP_988227.1| Signal recognition particle protein... [ score 74 E 8e-13 ] [ range 4 .. 78 ]
+sequence
+-----------IILWPAYIDLKRTKNEGRKVPKEIAIQNPKLKEIASKIKKMGLEYSVENKKSYPKESW-
+--EICGYIKVKVDESTSKL--------------------------------------*
+>P1;gi|19173407|ref|NP_597210.1| SIGNAL RECOGNITION PARTICLE (SRP) S... [ score 74 E 9e-13 ] [ range 7 .. 93 ]
+sequence
+------------CLYPIYMDSARSLSEGRKYRKEICVQRPRYHEIKNALEKLEIEYTDEPSKKHPRDFFN
+----SGRFRI--KKEYGRLF---------VIEGISQTIAELR--SK-----------*
+>P1;gi|34452010|gb|AAQ72471.1| SEC65p [Pichia pastoris] [ score 70 E 9e-12 ] [ range 1 .. 64 ]
+sequence
+--------------------------------------------ILDACRYLDIPCILEPEKTHPQDFGN
+P----GRVRVAIK-ESGKYLDEQYKTKRKLIQLVGQFLVEHP--T------------*
+>P1;gi|41718887|ref|ZP_00147838.1| hypothetical protein Mbur179501 [... [ score 68 E 4e-11 ] [ range 9 .. 74 ]
+sequence
+-----------LVIWPANLDKSRSRKGGRIISRKSSLEAPLLRELTAAAEKLNLNPEVEADKKYPRTWW-
+--ESSGRILV-----------------------------------------------*
+>P1;gi|11498857|ref|NP_070086.1| signal recognition particle, subuni... [ score 67 E 6e-11 ] [ range 5 .. 89 ]
+sequence
+------------VVWTVNLDSKKSRAEGRRIPRRFAVPNVKLHELVEACKELGLKFRAE-EKKYPKSWW-
+-------------EEGGRVVVEKRGTKTKLMIELARKIAEIR---------------*
+>P1;gi|14600956|ref|NP_147482.1| signal recognition particle [Aeropy... [ score 63 E 2e-09 ] [ range 16 .. 87 ]
+sequence
+---------RRIILWPAYFDSTLPRRLGRRVPRDMGVPSPKPEDVAEAARRAGFEAVVE-ESSYPRLWWR
+---VRRRIVVLAPED------------------------------------------*
+>P1;gi|43543110|gb|EAE26287.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 3 .. 62 ]
+sequence
+--------DKHIVLYPEYFDFNLKRSEGRRIPINIAVKRPNVDELYSITKNIGTEVK-KSPKSHPSNWA-
+---------------------------------------------------------*
+>P1;gi|42931739|gb|EAB32900.1| unknown [environmental sequence] [ score 55 E 5e-07 ] [ range 7 .. 96 ]
+sequence
+-----------IVVWLDYFNKTLPRKKGRRLPKEKCIFDPSLKELIDATKAAGIE---------PTETED
+QVRFPKRPYVR----SGYIVLEKKSTKTSIMNKISEKLVSKR--TK-----------*
+>P1;gi|18313996|ref|NP_560663.1| signal recognition particle [Pyroba... [ score 54 E 8e-07 ] [ range 8 .. 66 ]
+sequence
+------------ILWLVYIDASVPRSRGRVLPRGLAVEKPSLKEVVQALEELGYKFQVFPDKKYPPLWFE
+E--------------------------------------------------------*
+>P1;gi|14591603|ref|NP_143685.1| hypothetical protein PHS054 [Pyroco... [ score 54 E 9e-07 ] [ range 3 .. 73 ]
+sequence
+---------RF-VVWPCELDSRLSRKYGRIIPKNLAIEKPSLDEIIEVAETLNLKIVVDREKLNPRLSGI
+DEELRGRI-------------------------------------------------*
+>P1;gi|18978266|ref|NP_579623.1| hypothetical protein PF1894 [Pyroco... [ score 54 E 9e-07 ] [ range 3 .. 68 ]
+sequence
+---------RF-VVWPSELDSRLSRKYGRIVPRSIAVESPRVEEIVRAAEELKFKVIVEEDKLNPRLSGI
+DEELR----------------------------------------------------*
+>P1;gi|29247126|gb|EAA38699.1| GLP_516_41354_41704 [Giardia lamblia ... [ score 53 E 1e-06 ] [ range 6 .. 61 ]
+sequence
+------------IIYPRYMDSEASLKDGRRLGLEHSVPRPSLAEIEAAVRKVSAQVLADRDKRYPK----
+---------------------------------------------------------*
+>P1;gi|33356688|ref|NP_126119.2| signal recognition particle, subuni... [ score 53 E 2e-06 ] [ range 4 .. 102 ]
+sequence
+------NMSKF-VIWTSELDSRLSKKYGRVVPRNLAVERPSIEEIEEAAKSLGFKVLVEREKLNPKLSGI
+DEDLRTYGRIIIESPYGKAKTLKI---------IAQKIRELR--RR-----------*
+>P1;gi|42916729|gb|EAB25434.1| unknown [environmental sequence] [ score 52 E 2e-06 ] [ range 3 .. 62 ]
+sequence
+--------DKPLVIYPEYFDFNLKRSEGRKVPVNISVKRPNIDELYSITKDIGTDVK-KSSKSHPSNWS-
+---------------------------------------------------------*
+>P1;gi|44618155|gb|EAK51685.1| unknown [environmental sequence] [ score 51 E 5e-06 ] [ range 7 .. 89 ]
+sequence
+-----------VVIWLDYFNKTLPRNKGRRLSKEKCVFDPSLKELIDASNAAGLQPKTEEQVRYPK---R
+PYVRSGYI-VLPKKEKKTTMLEKISQK------------------------------*

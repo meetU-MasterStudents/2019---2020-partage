@@ -1,0 +1,1053 @@
+>P1;1zaa1
+structureX:1zaa:  3 :C: 33 :C:zinc-finger (ZIF268, domain 1):Mus musculus:2.10:18.20
+------RPYACPVESCDRRFSRSDELTRHI-RI-HTGQK*
+>P1;1zaa2
+structureX:1zaa: 34 :C: 61 :C:zinc-finger (ZIF268, domain 2):Mus musculus:2.10:18.20
+-------PFQCRI--CMRNFSRSDHLTTHI-RT-HTGEK*
+>P1;1zaa3
+structureX:1zaa: 62 :C: 87 :C:zinc-finger (ZIF268, domain 3):Mus musculus:2.10:18.20
+-------PFACDI--CGRKFARSDERKRHT-KI-HLR--*
+>P1;1ard
+structureN:1ard: 102 : : 130 : :zinc-finger (transcription factor ADR1):Saccharomyces cerevisiae:-1.00:-1.00
+------RSFVCEV--CTRAFARQEHLKRHY-RS-HTNEK*
+>P1;1znf
+structureN:1znf:   1 : :  25 : :zinc-finger (XFIN, 31st domain):Xenopus laevis:-1.00:-1.00
+--------YKCGL--CERSFVEKSALSRHQ-RV-HKN--*
+>P1;2drp2
+structureX:2drp: 137 :A: 165:A:zinc-finger (tramtrack, domain 2):Drosophila melanogaster:2.80:19.30
+----NVKVYPCPF--CFKEFTRKDNMTAHV-KIIHK---*
+>P1;3znf
+structureN:3znf:   1 : :  30 : :zinc-finger (enhancer binding protein):Homo sapiens:-1.00:-1.00
+------RPYHCSY--CNFSFKTKGNLTKHMKSKAHSKK-*
+>P1;5znf
+structureN:5znf:   1 : :  30 : :zinc-finger (ZFY-6T):Homo sapiens:-1.00:-1.00
+------KTYQCQY--CEYRSADSSNLKTHIKTK-HSKEK*
+>P1;1bboN
+structureX:1bbo:   1 : :  27 : :human enhancer-binding protein mbp-1 mutant with cys 11 replaced by abu (c11abu) (nmr, 60 structures):Synthetic peptide based on the human (homo sapiens) sequence:-1:-100
+-------KYICEE--CGIRCKKPSMLKKHI-RT-HTDV-*
+>P1;2drp1
+structureX:2drp: 103 :A: 136 :A:zinc-finger (tramtrack, domain 1):Drosophila melanogaster:2.80:19.30
+FTKEGEHTYRCKV--CSRVYTHISNFCRHY-VTSHKR--*
+>P1;1paa
+structureX:1paa: 130 : : 159 : :zinc-finger (transcription factor adr1:Saccharomyces cerevisiae:-1:-1
+------KAYACGL--CNRAFTRRDLLIRHAQKI-HSGNL*
+>P1;1sp1
+structureX:1sp1:   1 : :  29 : :sp1f3:Homo sapiens:-1:-1
+------KKFACPE--CPKRFMRSDHLSKHI--KTHQNKK*
+>P1;1sp2
+structureX:1sp2:   1 : :  31 : :sp1f2:Homo sapiens:-1:-1
+------RPFMCTWSYCGKRFTRSDELQRHK--RTHTGEK*
+>P1;1zfd
+structureX:1zfd:  39 : :  70 : :swi5:Saccharomyces cerevisiae:-1:-1
+-----DRPYSCDHPGCDKAFVRNHDLIRHK-KS-HQEKA*
+>P1;1znm
+structureX:1znm:   2 : :  28 : :yy1:Homo sapiens:-1:-100
+--------FQCTF--CGKRFSLDFNLKTHV-KI-HTG--*
+>P1;gi|7673684|gb|AAF66986.1| early growth response protein [Xenopus... [ score 75 E 4e-13 ] [ range 304 .. 334 ]
+sequence
+------RPYGCPVESCDRRFSRSDELTRHI-RI-HTGQK*
+>P1;gi|26332310|dbj|BAC29885.1| unnamed protein product [Mus musculus] [ score 75 E 5e-13 ] [ range 334 .. 364 ]
+sequence
+------RPYACPVESCDRHFSRSDELTRHI-RI-HTGQK*
+>P1;gi|280969|pir||B43819 immediate-early transcription factor Egr-3... [ score 72 E 3e-12 ] [ range 242 .. 272 ]
+sequence
+------RPHACPAEGCDRRFSRSDELTRHL-RI-HTGHK*
+>P1;gi|105902|pir||A40492 early growth response 2 protein (EGR2) - h... [ score 71 E 8e-12 ] [ range 338 .. 368 ]
+sequence
+------RPYPCPAEGCDRRFSRSDELTRHI-RI-HTGHK*
+>P1;gi|39581358|emb|CAE69255.1| Hypothetical protein CBG15303 [Caeno... [ score 70 E 1e-11 ] [ range 373 .. 403 ]
+sequence
+------RPYKCPRDGCDRRFSRSDELTRHI-RI-HTGQK*
+>P1;gi|29422186|gb|AAO84516.1| zinc finger protein [Phalacrocorax pe... [ score 70 E 1e-11 ] [ range 208 .. 238 ]
+sequence
+------RPYACPVESCDRRVLRSDELTRHI-RI-HTGQK*
+>P1;gi|39596618|emb|CAE63237.1| Hypothetical protein CBG07600 [Caeno... [ score 69 E 2e-11 ] [ range 364 .. 394 ]
+sequence
+------RPYKCPREGCDKRFSRSDELTRHI-RI-HTGQK*
+>P1;gi|6272256|emb|CAB60137.1| early growth response protein 1(Egr-1... [ score 69 E 3e-11 ] [ range 135 .. 165 ]
+sequence
+------RPYACPVESCDRCFSRSDELTRHI-RI-HTGQK*
+>P1;gi|3098287|gb|AAC24497.1| erythroid kruppel-like factor EKLF [Mu... [ score 69 E 3e-11 ] [ range 303 .. 333 ]
+sequence
+------KPYACSWDGCDWRFARSDELTRHY-RK-HTGHR*
+>P1;gi|1552996|gb|AAC51108.1| erythroid-specific transcription facto... [ score 69 E 4e-11 ] [ range 307 .. 337 ]
+sequence
+------KPYACTWEGCGWRFARSDELTRHY-RK-HTGQR*
+>P1;gi|4336209|gb|AAD17696.1| intestinal-enriched Kruppel-like facto... [ score 69 E 4e-11 ] [ range 390 .. 420 ]
+sequence
+------KPYKCTWEGCDWRFARSDELTRHY-RK-HTGAK*
+>P1;gi|17543652|ref|NP_500019.1| predicted CDS, early growth respons... [ score 67 E 1e-10 ] [ range 304 .. 334 ]
+sequence
+------RPYKCPRDECDKKFSRSDELTRHI-RI-HTGQK*
+>P1;gi|34851427|ref|XP_222473.2| similar to erythroid transcription ... [ score 66 E 2e-10 ] [ range 321 .. 351 ]
+sequence
+------KPYACSWDGCNWRFARSDELTRHY-RK-HTGHR*
+>P1;gi|34849500|gb|AAH58293.1| Egr2a protein [Danio rerio] [ score 66 E 2e-10 ] [ range 270 .. 300 ]
+sequence
+------RPYPCPAEGCDRRFSRSDELTRHV-RI-HTGHK*
+>P1;gi|21483360|gb|AAM52655.1| HL07808p [Drosophila melanogaster] >g... [ score 66 E 3e-10 ] [ range 515 .. 545 ]
+sequence
+------KPYKCSWEGCEWRFARSDELTRHY-RK-HTGAK*
+>P1;gi|24580653|ref|NP_722636.1| CG4427-PA [Drosophila melanogaster]... [ score 65 E 4e-10 ] [ range 291 .. 321 ]
+sequence
+------RPFICKWENCDKRFSRSDELSRHK-RT-HTGEK*
+>P1;gi|37547100|ref|XP_060880.9| similar to dJ675G8.1 (novel zinc fi... [ score 65 E 5e-10 ] [ range 1158 .. 1188 ]
+sequence
+------KPYVCDVEGCTWKFARSDELNRHK-KR-HTGER*
+>P1;gi|10181102|ref|NP_065621.1| early growth response 4 [Mus muscul... [ score 64 E 1e-09 ] [ range 370 .. 400 ] [ duplicate a ]
+sequence
+------KAFACPVESCVRSFARSDELNRHL-RI-HTGHK*
+>P1;gi|10181102|ref|NP_065621.1| early growth response 4 [Mus muscul... [ score 64 E 1e-09 ] [ range 400 .. 428 ] [ duplicate b ]
+sequence
+------KPFQCRI--CLRNFSRSDHLTTHV-RT-HTGEK*
+>P1;gi|10181102|ref|NP_065621.1| early growth response 4 [Mus muscul... [ score 64 E 1e-09 ] [ range 428 .. 456 ] [ duplicate c ]
+sequence
+------KPFACDV--CGRRFARSDEKKRHS-KV-HLKQK*
+>P1;gi|32492560|gb|AAP85368.1| Aa1017 [Rattus norvegicus] [ score 64 E 1e-09 ] [ range 731 .. 761 ]
+sequence
+------KPYRCSWEGCEWRFARSDELTRHF-RK-HTGAK*
+>P1;gi|39585945|emb|CAE68234.1| Hypothetical protein CBG13908 [Caeno... [ score 64 E 1e-09 ] [ range 210 .. 240 ]
+sequence
+------RPFICPRPDCGKRFCRNDHLQRHM-RI-HTGQR*
+>P1;gi|549833|sp|Q05215|EGR4_HUMAN Early growth response protein 4 (... [ score 64 E 1e-09 ] [ range 408 .. 436 ] [ duplicate b ]
+sequence
+------KPFQCRI--CLRNFSRSDHLTSHV-RT-HTGEK*
+>P1;gi|39580545|emb|CAE74677.1| Hypothetical protein CBG22482 [Caeno... [ score 64 E 1e-09 ] [ range 441 .. 471 ]
+sequence
+------KPYECSWPGCDWRFARSDELTRHY-RK-HTGDR*
+>P1;gi|6005980|ref|NP_009181.1| Kruppel-like factor 8; zinc finger p... [ score 64 E 1e-09 ] [ range 302 .. 332 ]
+sequence
+------KPYKCTWDGCSWKFARSDELTRHF-RK-HTGIK*
+>P1;gi|17553706|ref|NP_497632.1| kruppel-like factor (3D967) [Caenor... [ score 63 E 1e-09 ] [ range 442 .. 472 ]
+sequence
+------KPYECSWDGCDWRFARSDELTRHY-RK-HTGDR*
+>P1;gi|417357|sp|Q00911|EGR4_RAT Early growth response protein 4 (EG... [ score 63 E 2e-09 ] [ range 370 .. 400 ] [ duplicate a ]
+sequence
+------KAFACPVESCVRTFARSDELNRHL-RI-HTGHK*
+>P1;gi|18858937|ref|NP_571011.1| Kruppel-like factor d [Danio rerio]... [ score 62 E 3e-09 ] [ range 310 .. 340 ]
+sequence
+------KPYHCTWDGCGWKFARSDELTRHF-RK-HTGQK*
+>P1;gi|34877385|ref|XP_223423.2| Kruppel-like factor 3 [Rattus norve... [ score 62 E 3e-09 ] [ range 287 .. 317 ]
+sequence
+------KPYKCTWEGCTWKFARSDELTRHF-RK-HTGIK*
+>P1;gi|27374305|gb|AAO01055.1| CG9895-PA [Drosophila pseudoobscura] [ score 62 E 4e-09 ] [ range 332 .. 362 ]
+sequence
+------KPYVCTWEGCIWRFARSDELTRHY-RK-HTGVK*
+>P1;gi|14994695|gb|AAK76993.1| kruppel-like factor 4 [Danio rerio] [ score 62 E 4e-09 ] [ range 353 .. 383 ]
+sequence
+------KPYHCSWEGCGWKFARSDELTRHY-RK-HTGHR*
+>P1;gi|37544868|gb|AAM75147.1| Krueppel-like factor 15 [Danio rerio] [ score 62 E 4e-09 ] [ range 375 .. 405 ] [ duplicate a ]
+sequence
+------KPFACTWPGCDWRFSRSDELSRHR-RS-HSGVK*
+>P1;gi|37544868|gb|AAM75147.1| Krueppel-like factor 15 [Danio rerio] [ score 62 E 4e-09 ] [ range 405 .. 429 ] [ duplicate b ]
+sequence
+------KPYQCPV--CEKKFARSDHLSKHI-KV-H----*
+>P1;gi|3913630|sp|Q60793|KLF4_MOUSE Kruppel-like factor 4 (Gut enric... [ score 62 E 5e-09 ] [ range 419 .. 449 ]
+sequence
+------KPYHCDWDGCGWKFARSDELTRHY-RK-HTGHR*
+>P1;gi|34875517|ref|XP_224461.2| similar to AP-2rep transcription fa... [ score 62 E 5e-09 ] [ range 533 .. 563 ]
+sequence
+------KPYKCTWEGCTWKFARSDELTRHY-RK-HTGVK*
+>P1;gi|6680580|ref|NP_032478.1| Kruppel-like factor 2 (lung) [Mus mu... [ score 61 E 6e-09 ] [ range 299 .. 329 ]
+sequence
+------KPYHCNWEGCGWKFARSDELTRHY-RK-HTGHR*
+>P1;gi|18858931|ref|NP_571931.1| Kruppel-like factor 2a; etID35223.2... [ score 61 E 6e-09 ] [ range 292 .. 322 ]
+sequence
+------KPYHCSWEGCGWKFARSDELTRHF-RK-HTGHR*
+>P1;gi|18858933|ref|NP_571932.1| Kruppel-like factor 2b [Danio rerio... [ score 61 E 7e-09 ] [ range 308 .. 338 ]
+sequence
+------KPYHCNWEGCGWKFARSDELTRHF-RK-HTGHR*
+>P1;gi|32766608|gb|AAH54963.1| Klf7-prov protein [Xenopus laevis] [ score 61 E 7e-09 ] [ range 238 .. 268 ]
+sequence
+------KPYKCSWEGCEWRSARSDELTRHY-RK-HTGAK*
+>P1;gi|17369939|sp|Q9Y7G2|MIG1_CANAL Regulatory protein MIG1 >gi|468... [ score 60 E 1e-08 ] [ range 57 .. 84 ] [ duplicate a ]
+sequence
+------KPHACTFPGCVKRFSRSDELTRHL-RI-HT---*
+>P1;gi|17369939|sp|Q9Y7G2|MIG1_CANAL Regulatory protein MIG1 >gi|468... [ score 60 E 1e-08 ] [ range 29 .. 57 ] [ duplicate b ]
+sequence
+------RPYKCTF--CDKAFHRLEHQTRHI-RT-HTGEK*
+>P1;gi|88887|pir||A29635 transcription factor Sp1 - human (fragment)... [ score 61 E 1e-08 ] [ range 565 .. 595 ]
+sequence
+------RPFMCTWSYCGKRFTRSDELQRHK-RT-HTGEK*
+>P1;gi|27668872|ref|XP_224722.1| similar to Kruppel-like factor 2 (L... [ score 61 E 1e-08 ] [ range 296 .. 326 ]
+sequence
+------KPYHCNWDGCGWKFARSDELTRHY-RK-HTGHR*
+>P1;gi|31339152|dbj|BAC77069.1| AP-2 repressor [Xenopus laevis] [ score 60 E 2e-08 ] [ range 300 .. 330 ]
+sequence
+------KPYKCTWLGCTWKFARSDELTRHF-RK-HTGVK*
+>P1;gi|37544866|gb|AAM75146.1| Krueppel-like factor 15 [Xenopus laevis] [ score 60 E 2e-08 ] [ range 331 .. 361 ]
+sequence
+------KPFACTWPGCGWRFSRSDELSRHR-RS-HSGVK*
+>P1;gi|6754452|ref|NP_034766.1| Kruppel-like factor 12 [Mus musculus... [ score 59 E 2e-08 ] [ range 345 .. 375 ]
+sequence
+------KPYKCTWEGCTWKFGRSDELTRHY-RK-HTGVK*
+>P1;gi|17561338|ref|NP_507995.1| predicted CDS, kruppel-like factor ... [ score 59 E 2e-08 ] [ range 281 .. 311 ]
+sequence
+------KPYPCEWPGCSWRFARSDELTRHY-RK-HTGAK*
+>P1;gi|30387628|ref|NP_848134.1| TGFB inducible early growth respons... [ score 59 E 2e-08 ] [ range 412 .. 442 ]
+sequence
+------KPFTCSWDGCDKKFARSDELSRHR-RT-HTGEK*
+>P1;gi|7305515|ref|NP_038700.1| trans-acting transcription factor 1 ... [ score 59 E 2e-08 ] [ range 655 .. 685 ]
+sequence
+------RPFMCNWSYCGKRFTRSDELQRHK-RT-HTGEK*
+>P1;gi|21355195|ref|NP_651232.1| CG5669-PA [Drosophila melanogaster]... [ score 59 E 2e-08 ] [ range 768 .. 798 ]
+sequence
+------RPFVCSWAFCGKRFTRSDELQRHR-RT-HTGEK*
+>P1;gi|31209519|ref|XP_313726.1| ENSANGP00000016909 [Anopheles gambi... [ score 59 E 3e-08 ] [ range 462 .. 492 ]
+sequence
+------RPFICNWGTCGKRFTRSDELQRHR-RT-HTGEK*
+>P1;gi|13592117|ref|NP_112397.1| TGFB inducible early growth respons... [ score 59 E 3e-08 ] [ range 397 .. 427 ]
+sequence
+------KPFSCSWKGCERRFARSDELSRHR-RT-HTGEK*
+>P1;gi|45382955|ref|NP_989935.1| transcription factor [Gallus gallus... [ score 59 E 3e-08 ] [ range 627 .. 657 ]
+sequence
+------RPFICGWMLCGKRFTRSDELQRHK-RT-HTGEK*
+>P1;gi|14994693|gb|AAK76992.1| kruppel like factor 12 [Danio rerio] [ score 59 E 3e-08 ] [ range 271 .. 301 ]
+sequence
+------KPYKCMWEGCTWKFARSDELTRHY-RK-HTGVK*
+>P1;gi|4507503|ref|NP_003588.1| TGFB inducible early growth response... [ score 59 E 4e-08 ] [ range 422 .. 452 ]
+sequence
+------KPFNCSWDGCDKKFARSDELSRHR-RT-HTGEK*
+>P1;gi|18091787|gb|AAL58086.1| specificity protein 3 large isoform [... [ score 58 E 5e-08 ] [ range 581 .. 611 ]
+sequence
+------RPFVCNWMYCGKRFTRSDELQRHR-RT-HTGEK*
+>P1;gi|477133|pir||A48143 HF-1 regulatory element binding protein - rat [ score 58 E 5e-08 ] [ range 671 .. 701 ]
+sequence
+------RPFICNWMFCGKRFTRSDELQRHR-RT-HTGEK*
+>P1;gi|45382965|ref|NP_989934.1| transcription factor [Gallus gallus... [ score 58 E 6e-08 ] [ range 639 .. 669 ]
+sequence
+------RPFVCNWMFCGKRFTRSDELQRHR-RT-HTGEK*
+>P1;gi|31196549|ref|XP_307222.1| ENSANGP00000014593 [Anopheles gambi... [ score 58 E 6e-08 ] [ range 299 .. 329 ]
+sequence
+------RPFNCKWPDCGRRFSRSDELSRHK-RT-HTGEK*
+>P1;gi|17543652|ref|NP_500019.1| predicted CDS, early growth respons... [ score 64 E 1e-09 ] [ range 335 .. 362 ]
+sequence
+-------PFQCRI--CMRRFSRSDHLTTHV-RT-HTGEK*
+>P1;gi|17550662|ref|NP_510462.1| early growth response 2 (XP467) [Ca... [ score 62 E 3e-09 ] [ range 402 .. 429 ]
+sequence
+-------PFQCRI--CMRAFSRSDHLTTHV-RT-HTGEK*
+>P1;gi|39581358|emb|CAE69255.1| Hypothetical protein CBG15303 [Caeno... [ score 61 E 9e-09 ] [ range 404 .. 431 ]
+sequence
+-------PFQCRI--CSRAFSRSDHLTTHV-RT-HTGEK*
+>P1;gi|13386506|ref|NP_077742.1| Wilms tumor 1 isoform B [Homo sapie... [ score 60 E 1e-08 ] [ range 382 .. 409 ]
+sequence
+-------PFQCKA--CQRKFSRSDHLKTHT-RT-HTGEK*
+>P1;gi|7634683|dbj|BAA94793.1| Wilms' tumor suppression gene 1 [Gall... [ score 59 E 3e-08 ] [ range 350 .. 377 ]
+sequence
+-------PFQCKT--CQRKFSRSDHLKTHT-RT-HTGEK*
+>P1;gi|31234192|ref|XP_319020.1| ENSANGP00000014798 [Anopheles gambi... [ score 59 E 4e-08 ] [ range 220 .. 247 ]
+sequence
+-------PYSCKV--CGQIFSRSDHLSTHQ-RT-HTGEK*
+>P1;gi|37978|emb|CAA35956.1| Krueppel-like zinc-finger protein [Homo... [ score 58 E 6e-08 ] [ range 508 .. 534 ]
+sequence
+-------PFQCKT--CQRKFSRSDHLKTHT-RT-HTGK-*
+>P1;gi|482301|pir||A38080 Wilms tumor susceptibility protein WT1 - h... [ score 57 E 1e-07 ] [ range 382 .. 408 ]
+sequence
+-------PFQCKA--CQRKFSRSDHLKTHT-RT-HTGK-*
+>P1;gi|14029519|gb|AAK52719.1| Wilms' tumor suppressor 1a [Oncorhync... [ score 56 E 2e-07 ] [ range 322 .. 349 ]
+sequence
+-------PFQCET--CQRKFSRSDHLKTHT-RT-HTGEK*
+>P1;gi|17137036|ref|NP_477062.1| klumpfuss CG12296-PA [Drosophila me... [ score 56 E 2e-07 ] [ range 653 .. 680 ]
+sequence
+-------PYTCKV--CGQVFSRSDHLSTHQ-RT-HTGEK*
+>P1;gi|34223990|gb|AAQ63159.1| early growth response protein [Lethen... [ score 55 E 4e-07 ] [ range 19 .. 46 ]
+sequence
+-------PFQCRI--CMRSFSRSDHLTTHV-RT-HTGEK*
+>P1;gi|14029523|gb|AAK52721.1| Wilms' tumor suppressor 1b variant [O... [ score 55 E 6e-07 ] [ range 350 .. 376 ]
+sequence
+-------PFQCET--CQRKFSRSDHLKTHT-RT-HTGK-*
+>P1;gi|39584481|emb|CAE72619.1| Hypothetical protein CBG19812 [Caeno... [ score 53 E 2e-06 ] [ range 390 .. 417 ]
+sequence
+-------PYSCPT--CNQVFSRSDHLSTHL-RT-HTGEK*
+>P1;gi|119246|sp|P26634|EGR2_DUSTH Early growth response protein 2 (... [ score 52 E 4e-06 ] [ range 26 .. 53 ]
+sequence
+-------PFQCAI--CMRNFSRSDHLTTHI-RT-HTGEK*
+>P1;gi|22506635|dbj|BAC10628.1| Wilms' tumor suppressor 1 [Oryzias l... [ score 52 E 5e-06 ] [ range 343 .. 369 ]
+sequence
+-------PFECET--CQRKFSRSDHLKTHT-RT-HTGK-*
+>P1;gi|85485|pir||PQ0233 finger protein Krox-24 - zebra fish (fragme... [ score 51 E 8e-06 ] [ range 26 .. 53 ]
+sequence
+-------PFQCRI--CMRNFRRSDHLTTHI-RT-HTGEK*
+>P1;gi|7510691|pir||T15127 hypothetical protein ZC328.2 - Caenorhabd... [ score 51 E 9e-06 ] [ range 388 .. 415 ]
+sequence
+-------PFKCED--CGRFFSRSDHLRTHR-RT-HTDEK*
+>P1;gi|41350649|gb|AAS00545.1| zinc finger transcription factor KRAB... [ score 50 E 1e-05 ] [ range 143 .. 170 ]
+sequence
+-------PYKCPE--CGKSFSRSDHLTTHQ-RT-HTGEK*
+>P1;gi|3402199|emb|CAA16491.1| Wilms tumour gene [Takifugu rubripes] [ score 50 E 2e-05 ] [ range 350 .. 375 ]
+sequence
+--------FECET--CQRRFARSDHLKTHT-RT-HTGK-*
+>P1;gi|38104737|gb|EAA51262.1| hypothetical protein MG08784.4 [Magna... [ score 49 E 3e-05 ] [ range 18 .. 44 ]
+sequence
+--------FQCGI--CARSYSRADHLTRHI-RS-HTQHK*
+>P1;gi|39585945|emb|CAE68234.1| Hypothetical protein CBG13908 [Caeno... [ score 47 E 1e-04 ] [ range 242 .. 268 ]
+sequence
+--------FQCQT--CLRAFSRSDHLAKHE-RT-HSSDK*
+>P1;gi|24647940|ref|NP_732330.1| glass CG7672-PB [Drosophila melanog... [ score 47 E 1e-04 ] [ range 492 .. 519 ]
+sequence
+-------PFRCPI--CDRRFSQSSSVTTHM-RT-HSGER*
+>P1;gi|21955124|ref|NP_660281.1| zinc finger protein 31 [Homo sapien... [ score 47 E 1e-04 ] [ range 643 .. 670 ] [ duplicate a ]
+sequence
+-------PYKCDT--CMKSFSRSSHFIAHQ-RI-HTGEK*
+>P1;gi|21955124|ref|NP_660281.1| zinc finger protein 31 [Homo sapien... [ score 47 E 1e-04 ] [ range 836 .. 863 ] [ duplicate b ]
+sequence
+-------PYECAE--CGKSFSKSSTLANHQ-RT-HTGEK*
+>P1;gi|38082060|ref|XP_354990.1| similar to Zinc finger protein 213 ... [ score 47 E 2e-04 ] [ range 381 .. 408 ]
+sequence
+-------PFSCSE--CGKSFSRSAYLADHQ-RI-HTGEK*
+>P1;gi|21389593|ref|NP_653291.1| zinc finger protein 582 [Homo sapie... [ score 46 E 2e-04 ] [ range 394 .. 421 ]
+sequence
+-------PYQCKV--CGRAFKRVSHLTVHY-RI-HTGEK*
+>P1;gi|26327001|dbj|BAC27244.1| unnamed protein product [Mus musculus] [ score 46 E 2e-04 ] [ range 424 .. 451 ]
+sequence
+-------PYQCNM--CPKAFRRSSHLLRHQ-RT-HTGDK*
+>P1;gi|31241077|ref|XP_320962.1| ENSANGP00000019211 [Anopheles gambi... [ score 46 E 2e-04 ] [ range 183 .. 210 ]
+sequence
+-------PYRCEI--CQRKFTQLSHLQQHI-RT-HTGDK*
+>P1;gi|87437|pir||S10397 finger protein kox1 - human (fragment) [ score 46 E 3e-04 ] [ range 321 .. 348 ]
+sequence
+-------PFECKD--CGKCFSRSSHLYSHQ-RT-HTGEK*
+>P1;gi|34862844|ref|XP_234862.2| similar to zinc finger protein [Rat... [ score 46 E 3e-04 ] [ range 621 .. 648 ]
+sequence
+-------PFVCKT--CGKAFSRSDYLINHK-RI-HTGEK*
+>P1;gi|13592117|ref|NP_112397.1| TGFB inducible early growth respons... [ score 45 E 4e-04 ] [ range 398 .. 427 ]
+sequence
+-------PFSCKG--CERRFARSDELSRHR-RT-HTGEK*
+>P1;gi|21750942|dbj|BAC03871.1| unnamed protein product [Homo sapiens] [ score 45 E 5e-04 ] [ range 249 .. 276 ]
+sequence
+-------PYECEE--CGKSFSRSSHLAQHQ-RT-HTGEK*
+>P1;gi|6677607|ref|NP_033579.1| zinc finger protein 29 [Mus musculus... [ score 45 E 6e-04 ] [ range 305 .. 332 ]
+sequence
+-------PFQCAE--CGKSFSRSPNLIAHQ-RT-HTGEK*
+>P1;gi|13879288|gb|AAH06618.1| Zinc finger protein 61 [Mus musculus] [ score 45 E 6e-04 ] [ range 366 .. 393 ]
+sequence
+-------PFKCDA--CGKSFSRSSHLRSHQ-RV-HTGEK*
+>P1;gi|8050899|gb|AAF71790.1| ZNF180 [Homo sapiens] [ score 45 E 6e-04 ] [ range 380 .. 407 ]
+sequence
+-------PYECSE--CGKSFSRSSHLVSHQ-RT-HTGEK*
+>P1;gi|3043638|dbj|BAA25483.1| KIAA0557 protein [Homo sapiens] [ score 45 E 6e-04 ] [ range 337 .. 364 ]
+sequence
+-------PYTCPE--CGKGFSKTSHLTKHQ-RT-HTGER*
+>P1;gi|14349043|emb|CAC41280.1| neurotrophin receptor interacting fa... [ score 45 E 6e-04 ] [ range 763 .. 790 ]
+sequence
+-------PYQCQH--CGKAFRQSSHLTRHV-RI-HTGER*
+>P1;gi|4336209|gb|AAD17696.1| intestinal-enriched Kruppel-like facto... [ score 45 E 7e-04 ] [ range 421 .. 444 ]
+sequence
+-------PFQCMV--CQRSFSRSDHLALHM-KR-H----*
+>P1;gi|24308297|ref|NP_077819.1| zinc finger protein 306; zinc finge... [ score 45 E 7e-04 ] [ range 425 .. 452 ]
+sequence
+-------PYQCSM--CGKAFRRSSHLLRHQ-RI-HTGDK*
+>P1;gi|290214|gb|AAA28395.1| DNA-binding protein isoform II [ score 44 E 8e-04 ] [ range 250 .. 277 ]
+sequence
+-------PFHCGY--CEKSFSVKDYLTKHI-RT-HTGEK*
+>P1;gi|739242|prf||2002362A Sp1 protein [ score 44 E 8e-04 ] [ range 390 .. 417 ]
+sequence
+-------PYACPI--CSKKFSRSDHLSKHK-KT-HFKDK*
+>P1;gi|34855773|ref|XP_218463.2| similar to hypothetical protein FLJ... [ score 44 E 9e-04 ] [ range 663 .. 690 ]
+sequence
+-------PFQCQQ--CSKAFRQRSHLTQHQ-RI-HTGEK*
+>P1;gi|41054281|ref|NP_956062.1| myoneurin [Danio rerio] >gi|2827835... [ score 44 E 0.001 ] [ range 499 .. 526 ]
+sequence
+-------PYQCTL--CTRSFRQGNQLKTHM-RI-HTGEK*
+>P1;gi|24647825|ref|NP_524395.2| stripe CG7847-PA [Drosophila melano... [ score 63 E 2e-09 ] [ range 1093 .. 1118 ]
+sequence
+-------PFSCDI--CGRKFARSDEKKRHA-KV-HLK--*
+>P1;gi|18858601|ref|NP_571323.1| early growth response 1 [Danio reri... [ score 63 E 3e-09 ] [ range 368 .. 393 ]
+sequence
+-------PFACEI--CGRKFARSDERKRHT-KI-HMR--*
+>P1;gi|105902|pir||A40492 early growth response 2 protein (EGR2) - h... [ score 62 E 5e-09 ] [ range 397 .. 422 ]
+sequence
+-------PFACDY--CGRKFARSDERKRHT-KI-HLR--*
+>P1;gi|18858603|ref|NP_571072.1| early growth response 2b; krox-20 [... [ score 61 E 9e-09 ] [ range 356 .. 381 ]
+sequence
+-------PFACDF--CGRKFARSDERKRHT-KI-HLR--*
+>P1;gi|18996779|gb|AAL83211.1| zinc finger transcription factor Egr/... [ score 61 E 1e-08 ] [ range 395 .. 420 ]
+sequence
+-------PFQCDT--CGRKFARSDERKRHT-KI-HLR--*
+>P1;gi|31317228|ref|NP_004421.2| early growth response 3; zinc finge... [ score 59 E 2e-08 ] [ range 332 .. 357 ]
+sequence
+-------PFACEF--CGRKFARSDERKRHA-KI-HLK--*
+>P1;gi|34849500|gb|AAH58293.1| Egr2a protein [Danio rerio] [ score 56 E 2e-07 ] [ range 329 .. 354 ]
+sequence
+-------PFSCDF--CGRKFARSDERRRHT-KI-HQR--*
+>P1;gi|17550662|ref|NP_510462.1| early growth response 2 (XP467) [Ca... [ score 56 E 3e-07 ] [ range 430 .. 453 ]
+sequence
+-------PFSCDI--CGRKFARSDERKRHT-KV-H----*
+>P1;gi|39581358|emb|CAE69255.1| Hypothetical protein CBG15303 [Caeno... [ score 53 E 2e-06 ] [ range 432 .. 455 ]
+sequence
+-------PFSCEI--CGRKFARSDERKRHV-KV-H----*
+>P1;gi|17543652|ref|NP_500019.1| predicted CDS, early growth respons... [ score 52 E 5e-06 ] [ range 363 .. 388 ]
+sequence
+-------PYSCDI--CGKKFARCDERTRHT-KI-HKK--*
+>P1;gi|34223990|gb|AAQ63159.1| early growth response protein [Lethen... [ score 47 E 2e-04 ] [ range 47 .. 72 ]
+sequence
+-------PFSCDA--CGRRFARSDERKRHT-KI-HAK--*
+>P1;gi|6322588|ref|NP_012661.1| Product of gene unknown; Zms1p [Sacc... [ score 65 E 5e-10 ] [ range 149 .. 177 ]
+sequence
+------RPFLCPT--CTRGFVRQEHLKRHQ-HS-HTREK*
+>P1;gi|19114200|ref|NP_593288.1| zinc finger protein; C2H2 type [Sch... [ score 65 E 6e-10 ] [ range 68 .. 96 ]
+sequence
+------KQYVCET--CTRAFARLEHLKRHI-RS-HTNEK*
+>P1;gi|45190763|ref|NP_985017.1| AER159Cp [Eremothecium gossypii] >g... [ score 64 E 7e-10 ] [ range 78 .. 106 ]
+sequence
+------RPFLCPV--CTRGFARQEHLKRHQ-RS-HTNEK*
+>P1;gi|6323559|ref|NP_013630.1| Hypothetical ORF; Yml081wp [Saccharo... [ score 64 E 7e-10 ] [ range 59 .. 87 ]
+sequence
+------RPFLCHI--CTRGFVRQEHLKRHQ-RA-HTNEK*
+>P1;gi|1438949|gb|AAB04132.1| cutinase G-box binding protein [ score 63 E 2e-09 ] [ range 419 .. 448 ]
+sequence
+------KTFVCDL--CNRRFRRQEHLKRHY-RS-HTQEK*
+>P1;gi|45201268|ref|NP_986838.1| AGR172Wp [Eremothecium gossypii] >g... [ score 63 E 2e-09 ] [ range 47 .. 75 ]
+sequence
+------RLFVCHT--CTRAFARQEHLIRHK-RS-HTNEK*
+>P1;gi|42546624|gb|EAA69467.1| hypothetical protein FG02743.1 [Gibbe... [ score 62 E 4e-09 ] [ range 43 .. 71 ]
+sequence
+------RPHVCGT--CTRSFARLEHLKRHE-RS-HTKEK*
+>P1;gi|40747614|gb|EAA66770.1| hypothetical protein AN9492.2 [Asperg... [ score 58 E 1e-07 ] [ range 57 .. 85 ]
+sequence
+------RPHGCTT--CGRSFARLEHLKRHE-RS-HTKEK*
+>P1;gi|38101945|gb|EAA48843.1| hypothetical protein MG00501.4 [Magna... [ score 56 E 2e-07 ] [ range 418 .. 447 ]
+sequence
+------KAFKCEL--CDRRFRRQEHLKRHY-RS-HTQDK*
+>P1;gi|40745616|gb|EAA64772.1| hypothetical protein AN1652.2 [Asperg... [ score 56 E 2e-07 ] [ range 457 .. 486 ]
+sequence
+------KTFVCNL--CSRRFRRQEHLKRHY-RS-HTQDK*
+>P1;gi|2133268|pir||S61908 DNA-binding protein amdA - Emericella nid... [ score 55 E 4e-07 ] [ range 21 .. 49 ]
+sequence
+------KSLSCEY--CNRSFARLEHLQRHL-RT-HTKEK*
+>P1;gi|32422853|ref|XP_331870.1| hypothetical protein [Neurospora cr... [ score 54 E 1e-06 ] [ range 444 .. 473 ]
+sequence
+------KTFKCDI--CNRRFRRQEHLKRHH-RS-HTQDK*
+>P1;gi|19112509|ref|NP_595717.1| glucose mediated repressor of inv1 ... [ score 49 E 2e-05 ] [ range 24 .. 52 ]
+sequence
+------RPYKCPL--CTKAFYRLEHQTRHI-RT-HTGEK*
+>P1;gi|40740294|gb|EAA59484.1| hypothetical protein AN4013.2 [Asperg... [ score 49 E 3e-05 ] [ range 6 .. 30 ]
+sequence
+----------CNI--CDRRFKKTEHFKRHE-RS-HTKEK*
+>P1;gi|42549155|gb|EAA71998.1| hypothetical protein FG08798.1 [Gibbe... [ score 49 E 4e-05 ] [ range 9 .. 36 ]
+sequence
+-------PFQCHF--CPKTFGRQEHLARHV-RA-HTREK*
+>P1;gi|6320866|ref|NP_010945.1| Probable transcriptional repressor i... [ score 48 E 6e-05 ] [ range 15 .. 43 ]
+sequence
+------RPFRCEI--CSRGFHRLEHKKRHG-RT-HTGEK*
+>P1;gi|45185631|ref|NP_983347.1| ACL057Wp [Eremothecium gossypii] >g... [ score 48 E 6e-05 ] [ range 458 .. 487 ]
+sequence
+------KPFGCEY--CERRFKRQEHLKRHI-RS-HMGEK*
+>P1;gi|38102126|gb|EAA49002.1| hypothetical protein MG00660.4 [Magna... [ score 48 E 7e-05 ] [ range 28 .. 56 ]
+sequence
+------KTLPCKY--CSKRFRRVEHVQRHE-RT-HTKEK*
+>P1;gi|45185318|ref|NP_983035.1| ABR089Cp [Eremothecium gossypii] >g... [ score 48 E 8e-05 ] [ range 502 .. 531 ]
+sequence
+------KPFKCQE--CTKAFRRSEHLKRHI-RS-HSSDR*
+>P1;gi|38101807|gb|EAA48715.1| hypothetical protein MG00373.4 [Magna... [ score 48 E 9e-05 ] [ range 28 .. 56 ]
+sequence
+------RKYKCQF--CNRAFSRSEHRSRHE-RS-HTKER*
+>P1;gi|22762042|dbj|BAC11803.1| Ste12-like transcription factor [Col... [ score 47 E 1e-04 ] [ range 568 .. 598 ]
+sequence
+------KSHSCPT--CGRLFKRLEHLKRHV-RT-HTQER*
+>P1;gi|6321229|ref|NP_011306.1| Involved in repression, along with M... [ score 47 E 1e-04 ] [ range 15 .. 43 ]
+sequence
+------RPFRCDT--CHRGFHRLEHKKRHL-RT-HTGEK*
+>P1;gi|11359344|pir||T43532 zinc finger protein rsv1 - fission yeast... [ score 47 E 1e-04 ] [ range 2 .. 30 ]
+sequence
+------KSYECPF--CKRVFHRQEHQVRHI-RS-HTGEK*
+>P1;gi|19114465|ref|NP_593553.1| hypothetical C2H2 TYPE Zinc finger ... [ score 46 E 2e-04 ] [ range 421 .. 450 ]
+sequence
+------KSFVCPE--CSKKFKRSEHLRRHI-RS-HTSEK*
+>P1;gi|6323680|ref|NP_013751.1| Transcription factor. Multicopy supp... [ score 46 E 2e-04 ] [ range 645 .. 674 ]
+sequence
+------KPFHCHI--CPKSFKRSEHLKRHV-RS-HSNER*
+>P1;gi|32403626|ref|XP_322426.1| hypothetical protein ( (AY027529) S... [ score 46 E 2e-04 ] [ range 589 .. 619 ]
+sequence
+------KSHSCPI--CGRVFKRLEHLKRHV-RT-HTQER*
+>P1;gi|23346737|gb|AAL33631.4| catabolite repressor CreT [Talaromyce... [ score 46 E 2e-04 ] [ range 81 .. 109 ]
+sequence
+------RPYKCPL--CDRAFHRLEHQTRHI-RT-HTGEK*
+>P1;gi|416840|sp|Q01981|CREA_EMENI DNA-binding protein creA (Carbon ... [ score 46 E 2e-04 ] [ range 62 .. 90 ]
+sequence
+------RPYKCPL--CERAFHRLEHQTRHI-RT-HTGEK*
+>P1;gi|1077705|pir||S50633 hypothetical protein YER130c - yeast (Sac... [ score 46 E 3e-04 ] [ range 387 .. 416 ]
+sequence
+------KQFGCEF--CDRRFKRQEHLKRHV-RS-HMCEK*
+>P1;gi|13398338|gb|AAK21854.1| homeodomain transcription factor StlA... [ score 46 E 4e-04 ] [ range 551 .. 581 ]
+sequence
+------KSHSCPI--CGRLFKRLEHLKRHV-RT-HTQER*
+>P1;gi|14211891|ref|NP_115964.1| Kruppel-like zinc finger protein GL... [ score 46 E 4e-04 ] [ range 233 .. 261 ]
+sequence
+------KPHRCPT--CSKSFSRLENLKIHN-RS-HTGEK*
+>P1;gi|20891599|ref|XP_148147.1| GLI-Kruppel family member GLI5 [Mus... [ score 45 E 4e-04 ] [ range 261 .. 289 ]
+sequence
+------KPHRCPT--CNKSFSRLENLKIHN-RS-HTGEK*
+>P1;gi|4545300|gb|AAD22484.1| C2H2-type zinc finger protein Mhy1p [Y... [ score 45 E 4e-04 ] [ range 229 .. 258 ]
+sequence
+------KTFVCTH--CQRRFRRQEHLKRHF-RS-HTREK*
+>P1;gi|24647825|ref|NP_524395.2| stripe CG7847-PA [Drosophila melano... [ score 45 E 4e-04 ] [ range 1064 .. 1092 ]
+sequence
+------KPFQCRI--CMRSFSRSDHLTTHI-RT-HTGEK*
+>P1;gi|42554921|gb|EAA77764.1| CREA_GIBFU DNA-binding protein creA (... [ score 45 E 5e-04 ] [ range 62 .. 90 ]
+sequence
+------RPYKCPL--CDKAFHRLEHQTRHI-RT-HTGEK*
+>P1;gi|37726867|gb|AAR02349.1| STE-12 alpha [Cryptococcus bacillispo... [ score 45 E 5e-04 ] [ range 510 .. 540 ]
+sequence
+------KGFSCPL--CGRQFKRLEHLKRHV-RT-HTQER*
+>P1;gi|1709030|sp|P50898|MIG1_KLULA Regulatory protein MIG1 >gi|2147... [ score 45 E 5e-04 ] [ range 24 .. 52 ]
+sequence
+------RPYVCPI--CQRGFHRLEHQTRHI-RT-HTGER*
+>P1;gi|32411755|ref|XP_326358.1| hypothetical protein [Neurospora cr... [ score 45 E 5e-04 ] [ range 38 .. 66 ]
+sequence
+------RKYKCQF--CARAFSRSEHRSRHE-RS-HTKER*
+>P1;gi|6322788|ref|NP_012861.1| Transcription factor. Multicopy supp... [ score 45 E 5e-04 ] [ range 571 .. 600 ]
+sequence
+------KPFKCKD--CEKAFRRSEHLKRHI-RS-HSTER*
+>P1;gi|1709031|sp|P52288|MIG1_KLUMA Regulatory protein MIG1 >gi|1150... [ score 44 E 7e-04 ] [ range 30 .. 58 ]
+sequence
+------RPYMCPI--CHRGFHRLEHQTRHI-RT-HTGER*
+>P1;gi|16754844|emb|CAD10675.2| Mig1 protein [Debaryomyces occidenta... [ score 44 E 7e-04 ] [ range 22 .. 50 ]
+sequence
+------RPYKCPM--CGKAFHRLEHQTRHI-RT-HTGEK*
+>P1;gi|45198989|ref|NP_986018.1| AFR471Cp [Eremothecium gossypii] >g... [ score 44 E 7e-04 ] [ range 20 .. 48 ]
+sequence
+------RPYVCPI--CARAFHRLEHQTRHI-RT-HTGEK*
+>P1;gi|2826519|gb|AAC01955.1| STE12alpha [Filobasidiella neoformans] [ score 44 E 8e-04 ] [ range 507 .. 537 ]
+sequence
+------KGFSCPL--CGRLFKRLEHLKRHV-RT-HTQER*
+>P1;gi|40746118|gb|EAA65274.1| hypothetical protein AN0096.2 [Asperg... [ score 44 E 8e-04 ] [ range 45 .. 69 ]
+sequence
+----------CSI--CQSTFRRPEHLKRHF-RS-HTKEK*
+>P1;gi|7493948|pir||S70704 carbon catabolite repressor cre1 - fungus... [ score 44 E 8e-04 ] [ range 61 .. 89 ]
+sequence
+------RPYKCPL--CEKAFHRLEHQTRHI-RT-HTGEK*
+>P1;gi|19702234|gb|AAL93213.1| Kruppel-like zinc finger protein GLIS... [ score 44 E 9e-04 ] [ range 233 .. 261 ]
+sequence
+------KPHRCPT--CNKSFSRLEKLKIHN-RS-HTGEK*
+>P1;gi|13507041|gb|AAK28411.1| Gli-Kruppel zinc-finger protein NKL i... [ score 44 E 9e-04 ] [ range 223 .. 251 ]
+sequence
+------RPHCCPT--CHKSFSRLENLKIHN-RS-HTGEK*
+>P1;gi|31208627|ref|XP_313280.1| ENSANGP00000010462 [Anopheles gambi... [ score 69 E 2e-11 ] [ range 710 .. 738 ]
+sequence
+----NVKVYPCPF--CLKEFTRKDNMTAHV-KIIHK---*
+>P1;gi|7444516|pir||S22293 zinc finger protein AT-BP2 - rat (fragmen... [ score 76 E 3e-13 ] [ range 78 .. 107 ]
+sequence
+------RPYHCTY--CNFSFKTKGNLTKHMKSKAHSKK-*
+>P1;gi|34875438|ref|XP_225241.2| human immunodeficiency virus type I... [ score 75 E 5e-13 ] [ range 506 .. 535 ] [ duplicate b ]
+sequence
+------RPYPCVT--CGFSFKTKSNLYKHKKSHAHTIK-*
+>P1;gi|29421200|dbj|BAB13381.2| KIAA1555 protein [Homo sapiens] [ score 70 E 1e-11 ] [ range 1789 .. 1818 ] [ duplicate a ]
+sequence
+------RPYVCKH--CHFAFKTKGNLTKHMKSKAHSKK-*
+>P1;gi|29421200|dbj|BAB13381.2| KIAA1555 protein [Homo sapiens] [ score 70 E 1e-11 ] [ range 227 .. 256 ] [ duplicate b ]
+sequence
+------RPYPCGP--CGFSFKTKSNLYKHRKSHAHRIK-*
+>P1;gi|31198563|ref|XP_308229.1| ENSANGP00000020719 [Anopheles gambi... [ score 70 E 1e-11 ] [ range 943 .. 972 ]
+sequence
+------RPYSCQY--CSFHFKTKGNLTKHMKSKSHYKK-*
+>P1;gi|13162314|ref|NP_077051.1| human immunodeficiency virus type 1... [ score 69 E 2e-11 ] [ range 1816 .. 1845 ] [ duplicate a ]
+sequence
+------RPYVCKL--CNFAFKTKGNLTKHMKSKAHMKK-*
+>P1;gi|13162314|ref|NP_077051.1| human immunodeficiency virus type 1... [ score 69 E 2e-11 ] [ range 215 .. 244 ] [ duplicate b ]
+sequence
+------RPYPCIP--CGFSFKTKSNLYKHRKSHAHAIK-*
+>P1;gi|1079150|pir||A56922 transcription factor shn - fruit fly (Dro... [ score 69 E 3e-11 ] [ range 1843 .. 1872 ]
+sequence
+------RPFTCSH--CNFSFKTKGNLTKHMQSKTHFKK-*
+>P1;gi|34871132|ref|XP_233464.2| similar to DNA binding protein Rc [... [ score 69 E 4e-11 ] [ range 1877 .. 1906 ] [ duplicate a ]
+sequence
+------RPYVCRH--CHFAFKTKGNLTKHMKSKAHSKK-*
+>P1;gi|42734251|emb|CAF31488.1| Hypothetical protein T05A10.1j [Caen... [ score 65 E 3e-10 ] [ range 1365 .. 1394 ]
+sequence
+------RAFNCTA--CNFSFKTKGNLTKHLSSKTHQRR-*
+>P1;gi|1079151|pir||A56923 transcription factor shn - fruit fly (Dro... [ score 65 E 4e-10 ] [ range 1796 .. 1825 ]
+sequence
+------RPFTCSH--CNFSFKTKGNLTKEMQSKTHFKK-*
+>P1;gi|39594956|emb|CAE70824.1| Hypothetical protein CBG17595 [Caeno... [ score 64 E 1e-09 ] [ range 1668 .. 1697 ]
+sequence
+------RAFNCNA--CNFSFKTKGNLTKHLSSKTHQRR-*
+>P1;gi|34880695|ref|XP_346319.1| similar to sex-determining protein ... [ score 66 E 3e-10 ] [ range 728 .. 756 ]
+sequence
+------KPYECQY--CEYRSADSSNLKTHVKTK-HSKE-*
+>P1;gi|226572|prf||1602245A ZFX gene [ score 64 E 7e-10 ] [ range 573 .. 601 ]
+sequence
+------KPYQCQY--CEYRSADSSNLKTHVKTK-HSKE-*
+>P1;gi|141637|sp|P08048|ZFY_HUMAN Zinc finger Y-chromosomal protein ... [ score 64 E 9e-10 ] [ range 570 .. 598 ]
+sequence
+------KPYQCQY--CEYRSADSSNLKTHIKTK-HSKE-*
+>P1;gi|16416471|gb|AAL18260.1| X-linked zinc finger protein [Bos tau... [ score 63 E 2e-09 ] [ range 569 .. 597 ]
+sequence
+------KPYQCQY--CEYRSANSSNLKTHVKTK-HSKE-*
+>P1;gi|549834|sp|Q01611|ZFY1_XENLA Zinc finger Y-chromosomal protein... [ score 62 E 3e-09 ] [ range 563 .. 591 ]
+sequence
+------KPYLCQY--CDYRSADSSNLKTHVKTK-HSKE-*
+>P1;gi|31544058|ref|NP_033566.2| zinc finger autosomal protein [Mus ... [ score 60 E 2e-08 ] [ range 511 .. 539 ]
+sequence
+------KPYECQY--CEYRSTDSSNLKTHVKTK-HSKE-*
+>P1;gi|31981918|ref|NP_033596.2| zinc finger protein 1, Y linked [Mu... [ score 59 E 3e-08 ] [ range 552 .. 580 ]
+sequence
+------KPYECQY--CEYKSADSSNLKTHIKSK-HSKE-*
+>P1;gi|17981605|gb|AAL51084.1| X-linked zinc finger protein [Homo sa... [ score 57 E 1e-07 ] [ range 312 .. 340 ]
+sequence
+------KPYQCQY--CEYRSADSSNLKTHVKTM-HSKE-*
+>P1;gi|18377589|gb|AAL67136.1| zinc finger protein ZFX isoform 4 [Ho... [ score 55 E 3e-07 ] [ range 261 .. 289 ]
+sequence
+------KPYQCQY--CEYRSADPSNLKTHVKTK-HSKE-*
+>P1;gi|283840|pir||PC1143 finger protein Zfc - American alligator (f... [ score 54 E 9e-07 ] [ range 164 .. 192 ]
+sequence
+------KPYECQY--CEYRSADSPNLKTHIKTK-HSKE-*
+>P1;gi|9623280|gb|AAF90094.1| zinc finger protein Zfy [Panthera leo] [ score 53 E 2e-06 ] [ range 161 .. 189 ]
+sequence
+------RPYQCQY--CEYRSADSSNLKTHVKTK-HSKE-*
+>P1;gi|2576293|emb|CAA05202.1| Zfx [Eublepharis macularius] [ score 53 E 2e-06 ] [ range 127 .. 155 ]
+sequence
+------KPYECQY--CEYRSADSSNLKTHVKTR-HSKE-*
+>P1;gi|2576315|emb|CAA05204.1| Zfx [Natrix domestica] >gi|2576317|em... [ score 53 E 2e-06 ] [ range 127 .. 155 ]
+sequence
+------KPYQCQY--CEYRSADSSNLKTHVKTR-HSKE-*
+>P1;gi|9623268|gb|AAF90088.1| zinc finger protein Zfy [Lynx lynx] [ score 53 E 3e-06 ] [ range 161 .. 189 ]
+sequence
+------KPYQCQY--CEYRSADSSNLKTHVKSK-HSKE-*
+>P1;gi|4808989|gb|AAD30045.1| zinc finger protein [Equus caballus] [ score 52 E 3e-06 ] [ range 102 .. 130 ]
+sequence
+------KPYHCQY--CEYRSADSSNLKTHVKTK-HSKE-*
+>P1;gi|9623222|gb|AAF90065.1| zinc finger protein Zfx [Prionailurus ... [ score 52 E 4e-06 ] [ range 162 .. 190 ]
+sequence
+------KPYQCQY--CEYRSADSSNLITHVKTK-HSKE-*
+>P1;gi|2623616|gb|AAB86470.1| Y-linked zinc finger protein [Canis fa... [ score 50 E 1e-05 ] [ range 95 .. 123 ]
+sequence
+------KPYQCQY--CEYRSADSSNLKTHLKTK-HIKE-*
+>P1;gi|15451943|ref|NP_068838.2| zinc finger protein 6; zinc finger ... [ score 50 E 1e-05 ] [ range 541 .. 566 ]
+sequence
+------KPYQCQY--CIFRCADQSNLKTHIKSK-H----*
+>P1;gi|9650907|dbj|BAA28277.2| There is the high possiblility that t... [ score 49 E 3e-05 ] [ range 161 .. 189 ]
+sequence
+------KPYECQY--CEYKSANSSNLKTHIKTK-HNKE-*
+>P1;gi|2623614|gb|AAB86469.1| X-linked zinc finger protein [Canis fa... [ score 49 E 4e-05 ] [ range 95 .. 123 ]
+sequence
+------KPYQCQY--CEYRSADSSSLKTLFKTK-HSKE-*
+>P1;gi|30843282|gb|AAO21832.1| autosomal zinc finger protein [Mus ma... [ score 47 E 9e-05 ] [ range 132 .. 160 ]
+sequence
+------KPYECQY--CEYRSTDSSILKTHVKTK-HSKE-*
+>P1;gi|228036|prf||1715321B ZFX gene [ score 47 E 1e-04 ] [ range 18 .. 46 ]
+sequence
+------KPYQCQY--CEYSSADSSNLKTHVKTK-HSKE-*
+>P1;gi|34881202|ref|XP_228451.2| similar to transcription factor znf... [ score 45 E 6e-04 ] [ range 313 .. 338 ]
+sequence
+------KPYQCQY--CVFRCADQSNLKTHIKSK-H----*
+>P1;gi|30843280|gb|AAO21831.1| autosomal zinc finger protein [Mus sp... [ score 44 E 9e-04 ] [ range 132 .. 160 ]
+sequence
+------KPYECQY--CKYRSTDSSILKNHVKTK-HSKE-*
+>P1;gi|1079150|pir||A56922 transcription factor shn - fruit fly (Dro... [ score 64 E 1e-09 ] [ range 1816 .. 1842 ]
+sequence
+-------RYVCSE--CGIRCKKPSMLKKHI-RT-HTDV-*
+>P1;gi|42734251|emb|CAF31488.1| Hypothetical protein T05A10.1j [Caen... [ score 63 E 2e-09 ] [ range 1338 .. 1364 ]
+sequence
+-------RYICDR--CGIRCKKPSMLKKHI-KS-HTDV-*
+>P1;gi|29421200|dbj|BAB13381.2| KIAA1555 protein [Homo sapiens] [ score 63 E 3e-09 ] [ range 1762 .. 1788 ]
+sequence
+-------KYVCEE--CGIRCKKPSMLKKHI-RT-HTDV-*
+>P1;gi|31198563|ref|XP_308229.1| ENSANGP00000020719 [Anopheles gambi... [ score 63 E 3e-09 ] [ range 916 .. 942 ]
+sequence
+-------KYVCNE--CGIRCKKPSMLKKHI-RT-HTDV-*
+>P1;gi|6754478|ref|NP_034787.1| human immunodeficiency virus type I ... [ score 62 E 4e-09 ] [ range 1719 .. 1745 ]
+sequence
+-------RYVCEE--CGIRCKKPSMLKKHI-RT-HTDV-*
+>P1;gi|39594956|emb|CAE70824.1| Hypothetical protein CBG17595 [Caeno... [ score 61 E 9e-09 ] [ range 1641 .. 1667 ]
+sequence
+-------RYICDR--CGIRCKKPSMLKKHI-KS-HTDI-*
+>P1;gi|1079151|pir||A56923 transcription factor shn - fruit fly (Dro... [ score 59 E 3e-08 ] [ range 1769 .. 1795 ]
+sequence
+-------RYVCSE--CGIRCKKFSMLKKHI-RT-HTDV-*
+>P1;gi|31208627|ref|XP_313280.1| ENSANGP00000010462 [Anopheles gambi... [ score 77 E 2e-13 ] [ range 677 .. 709 ]
+sequence
+-TKEGDHVYRCKV--CARVYTHISNFCRHY-VTSHKR--*
+>P1;gi|6320422|ref|NP_010502.1| Controls the expression of ADH2, per... [ score 69 E 2e-11 ] [ range 130 .. 159 ]
+sequence
+------KPYPCGL--CNRCFTRRDLLIRHAQKI-HSGNL*
+>P1;gi|45201268|ref|NP_986838.1| AGR172Wp [Eremothecium gossypii] >g... [ score 63 E 1e-09 ] [ range 75 .. 103 ]
+sequence
+------KPYICGI--CDRRFSRRDLLLRHAHKL-HGGS-*
+>P1;gi|3318788|pdb|2ADR|  Adr1 Dna-Binding Domain From Saccharomyces... [ score 54 E 1e-06 ] [ range 29 .. 58 ]
+sequence
+------KPYPCGL--CNRAFTRRDLLIRHAQKI-HSGNL*
+>P1;gi|575722|emb|CAA86657.1| unnamed protein product [Saccharomyces... [ score 48 E 6e-05 ] [ range 87 .. 113 ]
+sequence
+------KPFLCVF--CGRCFARRDLVLRHQHKL-HS---*
+>P1;gi|6322588|ref|NP_012661.1| Product of gene unknown; Zms1p [Sacc... [ score 48 E 6e-05 ] [ range 177 .. 203 ]
+sequence
+------KPYLCIF--CGRCFARRDLVLRHQQKL-HA---*
+>P1;gi|45190763|ref|NP_985017.1| AER159Cp [Eremothecium gossypii] >g... [ score 48 E 9e-05 ] [ range 106 .. 132 ]
+sequence
+------KPFLCAF--CGRCFARRDLVLRHQQKL-HA---*
+>P1;gi|42546624|gb|EAA69467.1| hypothetical protein FG02743.1 [Gibbe... [ score 47 E 1e-04 ] [ range 71 .. 99 ]
+sequence
+------KPFECPE--CSRCFARRDLLLRHQQKL-HQSS-*
+>P1;gi|40747614|gb|EAA66770.1| hypothetical protein AN9492.2 [Asperg... [ score 46 E 2e-04 ] [ range 85 .. 110 ]
+sequence
+------KPFECPD--CSRCFARRDLLLRHQQKL-H----*
+>P1;gi|41056247|ref|NP_956418.1| Unknown (protein for MGC:64226) [Da... [ score 74 E 1e-12 ] [ range 634 .. 662 ]
+sequence
+------KRFECPE--CSKRFMRSDHLSKHI--KTHQNKK*
+>P1;gi|477133|pir||A48143 HF-1 regulatory element binding protein - rat [ score 74 E 1e-12 ] [ range 701 .. 729 ]
+sequence
+------KRFECPE--CSKRFMRSDHLSKHV--KTHQNKK*
+>P1;gi|41134015|ref|XP_371581.1| similar to zinc finger protein Sp5 ... [ score 73 E 3e-12 ] [ range 354 .. 382 ]
+sequence
+------KRFACPE--CGKRFMRSDHLAKHV--KTHQNKK*
+>P1;gi|18091787|gb|AAL58086.1| specificity protein 3 large isoform [... [ score 71 E 5e-12 ] [ range 611 .. 639 ]
+sequence
+------KKFVCPE--CSKRFMRSDHLAKHI--KTHQNKK*
+>P1;gi|16555380|gb|AAL23671.1| Sp3 transcription factor [Fundulus he... [ score 69 E 4e-11 ] [ range 543 .. 571 ]
+sequence
+------KKFVCSE--CSKRFMRSDHLAKHI--KTHQNKK*
+>P1;gi|45360833|ref|NP_989092.1| hypothetical protein MGC76071 [Xeno... [ score 65 E 3e-10 ] [ range 330 .. 358 ]
+sequence
+------KRFVCPE--CGKRFMRSDHLAKHV--KTHQNKK*
+>P1;gi|17978563|gb|AAL47217.1| Sp1-like zinc-finger protein XSPR-1 [... [ score 65 E 7e-10 ] [ range 329 .. 357 ]
+sequence
+------KRFVCPE--CGKRFMKSDHLAKHV--KTHENKK*
+>P1;gi|34873528|ref|XP_220916.2| similar to Sp2 transcription factor... [ score 64 E 9e-10 ] [ range 742 .. 770 ]
+sequence
+------KRFECAQ--CQKRFMRSDHLTKHY--KTHLGTK*
+>P1;gi|5069468|gb|AAB39513.3| Sp1 transcription factor [Sus scrofa] [ score 64 E 1e-09 ] [ range 154 .. 182 ]
+sequence
+------KKFACPE--CPKRFIRSDHLSKHI--KTHQNKK*
+>P1;gi|39812496|ref|NP_874359.2| Sp8 transcription factor isoform 1 ... [ score 63 E 2e-09 ] [ range 432 .. 456 ]
+sequence
+------KRFACPV--CNKRFMRSDHLSKHV--KTH----*
+>P1;gi|40788946|dbj|BAA05923.2| KIAA0048 [Homo sapiens] [ score 63 E 2e-09 ] [ range 597 .. 625 ]
+sequence
+------KRFECAQ--CQKRFMRSDHLTKHY--KTHLVTK*
+>P1;gi|21355195|ref|NP_651232.1| CG5669-PA [Drosophila melanogaster]... [ score 63 E 3e-09 ] [ range 798 .. 822 ]
+sequence
+------KRFQCQE--CNKKFMRSDHLSKHI--KTH----*
+>P1;gi|38074811|ref|XP_355337.1| similar to Hypothetical sp-like zin... [ score 62 E 4e-09 ] [ range 390 .. 414 ]
+sequence
+------KRFACPV--CNKRFMRSDHLSKHI--KTH----*
+>P1;gi|30725832|ref|NP_851304.1| Sp5 transcription factor [Danio rer... [ score 62 E 5e-09 ] [ range 320 .. 348 ]
+sequence
+------KRFVCPD--CCKRFMRSDHLAKHV--KTHQNKK*
+>P1;gi|24640869|ref|NP_572579.2| CG1343-PA [Drosophila melanogaster]... [ score 62 E 5e-09 ] [ range 419 .. 446 ]
+sequence
+------KRFACPV--CNKRFMRSDHLAKHV--KTHNGT-*
+>P1;gi|35902791|ref|NP_919352.1| Sp5 transcription factor-like; SP1-... [ score 62 E 5e-09 ] [ range 308 .. 336 ]
+sequence
+------KRFGCQQ--CGKRFMRSDHLSKHV--KTHQSRK*
+>P1;gi|17978559|gb|AAL47216.1| Sp1-like zinc-finger protein XSPR-2 [... [ score 61 E 9e-09 ] [ range 236 .. 264 ]
+sequence
+------KRFGCQE--CGKRFMRSDHLSKHT--KTHQNKK*
+>P1;gi|31209519|ref|XP_313726.1| ENSANGP00000016909 [Anopheles gambi... [ score 61 E 1e-08 ] [ range 492 .. 516 ]
+sequence
+------KRFECVE--CNKKFMRSDHLSKHI--RTH----*
+>P1;gi|30913325|sp|Q8IXZ3|SP8_HUMAN Transcription factor Sp8 >gi|242... [ score 60 E 1e-08 ] [ range 390 .. 414 ]
+sequence
+------KRFACPV--CNKRFMRSDRLSKHV--KTH----*
+>P1;gi|34979121|gb|AAQ83696.1| Sp-like zinc finger protein [Triboliu... [ score 60 E 2e-08 ] [ range 373 .. 399 ]
+sequence
+------KRFACPI--CNKRFMRSDHLAKHV--KTHNG--*
+>P1;gi|5851948|emb|CAB55429.1| C2H2 zinc finger transcription factor... [ score 59 E 3e-08 ] [ range 248 .. 275 ]
+sequence
+------KRFACPV--CNKRFMRGDHLAKHV--KTHNGT-*
+>P1;gi|34863381|ref|XP_234008.2| similar to TGFB inducible early gro... [ score 54 E 9e-07 ] [ range 471 .. 499 ]
+sequence
+------KKFVCPV--CDRRFMRSDHLTKHA--RRHMTTK*
+>P1;gi|13592117|ref|NP_112397.1| TGFB inducible early growth respons... [ score 52 E 4e-06 ] [ range 427 .. 455 ]
+sequence
+------KKFACPM--CDRRFMRSDHLTKHA--RRHLSAK*
+>P1;gi|43729750|gb|EAF19727.1| unknown [environmental sequence] [ score 51 E 6e-06 ] [ range 35 .. 59 ]
+sequence
+------KRFACPQ--CNKRFMRSDHLAKHA--KTH----*
+>P1;gi|4107013|dbj|BAA36292.1| PEM-4 [Ciona savignyi] [ score 51 E 6e-06 ] [ range 492 .. 520 ]
+sequence
+------KRFVCPT--CDRRFMRSDHLTKHM--KRHSGNR*
+>P1;gi|39546766|gb|AAR28109.1| transcription factor osterix [Danio r... [ score 51 E 6e-06 ] [ range 358 .. 382 ]
+sequence
+------KKFTCLL--CNKRFTRSDHLSKHQ--KTH----*
+>P1;gi|24580653|ref|NP_722636.1| CG4427-PA [Drosophila melanogaster]... [ score 51 E 9e-06 ] [ range 321 .. 349 ]
+sequence
+------KKFQCSV--CQKKFMRSDHLSKHV--KRHNKDK*
+>P1;gi|34856352|ref|XP_344904.1| similar to Krueppel-like factor 13 ... [ score 50 E 2e-05 ] [ range 218 .. 244 ]
+sequence
+------KKFSCPI--CEKRFMRSDHLTKHA--RRHAN--*
+>P1;gi|34873530|ref|XP_343962.1| similar to Kruppel like factor [Rat... [ score 48 E 4e-05 ] [ range 351 .. 375 ]
+sequence
+------KKFPCAV--CSRVFMRSDHLAKHM--KTH----*
+>P1;gi|22902136|ref|NP_690599.1| osterix [Homo sapiens] >gi|30913318... [ score 48 E 6e-05 ] [ range 352 .. 376 ]
+sequence
+------KKFTCLL--CSKRFTRSDHLSKHQ--RTH----*
+>P1;gi|37544868|gb|AAM75147.1| Krueppel-like factor 15 [Danio rerio] [ score 48 E 7e-05 ] [ range 405 .. 429 ]
+sequence
+------KPYQCPV--CEKKFARSDHLSKHI--KVH----*
+>P1;gi|31196549|ref|XP_307222.1| ENSANGP00000014593 [Anopheles gambi... [ score 47 E 1e-04 ] [ range 329 .. 353 ]
+sequence
+------KKFVCHV--CERRFMRSDHLSKHV--KRH----*
+>P1;gi|20162554|ref|NP_619638.1| Kruppel-like factor 14; BTE-binding... [ score 47 E 1e-04 ] [ range 253 .. 277 ]
+sequence
+------KRFSCPL--CPKQFSRSDHLTKHA--RRH----*
+>P1;gi|17509949|ref|NP_493353.1| transcription factor (1N948) [Caeno... [ score 47 E 1e-04 ] [ range 193 .. 221 ]
+sequence
+------KRFACNH--CGKKFMRSDHLTKHE--RTHQSNR*
+>P1;gi|21666597|gb|AAM73769.1| stress response element binding prote... [ score 46 E 3e-04 ] [ range 439 .. 465 ]
+sequence
+------KPFECNE--CGKKFSRSDNLAQHA--RTHAG--*
+>P1;gi|739242|prf||2002362A Sp1 protein [ score 45 E 4e-04 ] [ range 391 .. 413 ]
+sequence
+--------YACPI--CSKKFSRSDHLSKHK--KTH----*
+>P1;gi|26336609|dbj|BAC31987.1| unnamed protein product [Mus musculus] [ score 45 E 5e-04 ] [ range 184 .. 208 ]
+sequence
+------KRFPCPL--CTKRFTRSDHLTKHA--RRH----*
+>P1;gi|19114465|ref|NP_593553.1| hypothetical C2H2 TYPE Zinc finger ... [ score 45 E 6e-04 ] [ range 421 .. 450 ]
+sequence
+------KSFVCPE--CSKKFKRSEHLRRHI--RSHTSEK*
+>P1;gi|1017724|gb|AAC59863.1| BTEB [ score 45 E 7e-04 ] [ range 249 .. 273 ]
+sequence
+------KQFRCPL--CEKRFMRSDHLTKHA--RRH----*
+>P1;gi|39582956|emb|CAE73021.1| Hypothetical protein CBG20386 [Caeno... [ score 45 E 8e-04 ] [ range 193 .. 221 ]
+sequence
+------KRFSCNH--CGKKFMRSDHLTKHE--RTHTSSR*
+>P1;gi|37544866|gb|AAM75146.1| Krueppel-like factor 15 [Xenopus laevis] [ score 44 E 0.001 ] [ range 361 .. 385 ]
+sequence
+------KPYQCAV--CEKKFARSDHLSKHI--KVH----*
+>P1;gi|45382965|ref|NP_989934.1| transcription factor [Gallus gallus... [ score 81 E 1e-14 ] [ range 639 .. 669 ]
+sequence
+------RPFVCNWMFCGKRFTRSDELQRHR--RTHTGEK*
+>P1;gi|477133|pir||A48143 HF-1 regulatory element binding protein - rat [ score 81 E 1e-14 ] [ range 671 .. 701 ]
+sequence
+------RPFICNWMFCGKRFTRSDELQRHR--RTHTGEK*
+>P1;gi|18091787|gb|AAL58086.1| specificity protein 3 large isoform [... [ score 81 E 1e-14 ] [ range 581 .. 611 ]
+sequence
+------RPFVCNWMYCGKRFTRSDELQRHR--RTHTGEK*
+>P1;gi|41056247|ref|NP_956418.1| Unknown (protein for MGC:64226) [Da... [ score 79 E 2e-14 ] [ range 604 .. 634 ]
+sequence
+------RPFVCNWIFCGKRFTRSDELQRHR--RTHTGEK*
+>P1;gi|7305515|ref|NP_038700.1| trans-acting transcription factor 1 ... [ score 79 E 2e-14 ] [ range 655 .. 685 ]
+sequence
+------RPFMCNWSYCGKRFTRSDELQRHK--RTHTGEK*
+>P1;gi|21355195|ref|NP_651232.1| CG5669-PA [Drosophila melanogaster]... [ score 79 E 4e-14 ] [ range 768 .. 798 ]
+sequence
+------RPFVCSWAFCGKRFTRSDELQRHR--RTHTGEK*
+>P1;gi|40788946|dbj|BAA05923.2| KIAA0048 [Homo sapiens] [ score 77 E 2e-13 ] [ range 567 .. 597 ]
+sequence
+------RPFVCNWFFCGKRFTRSDELQRHA--RTHTGDK*
+>P1;gi|31209519|ref|XP_313726.1| ENSANGP00000016909 [Anopheles gambi... [ score 76 E 2e-13 ] [ range 462 .. 492 ]
+sequence
+------RPFICNWGTCGKRFTRSDELQRHR--RTHTGEK*
+>P1;gi|45382955|ref|NP_989935.1| transcription factor [Gallus gallus... [ score 76 E 2e-13 ] [ range 627 .. 657 ]
+sequence
+------RPFICGWMLCGKRFTRSDELQRHK--RTHTGEK*
+>P1;gi|24640869|ref|NP_572579.2| CG1343-PA [Drosophila melanogaster]... [ score 73 E 2e-12 ] [ range 389 .. 419 ]
+sequence
+------RPFVCNWLFCGKRFTRSDELQRHL--RTHTGEK*
+>P1;gi|41134015|ref|XP_371581.1| similar to zinc finger protein Sp5 ... [ score 72 E 3e-12 ] [ range 324 .. 354 ]
+sequence
+------RPFVCNWLFCGKSFTRSDELQRHL--RTHTGEK*
+>P1;gi|17978563|gb|AAL47217.1| Sp1-like zinc-finger protein XSPR-1 [... [ score 70 E 2e-11 ] [ range 299 .. 329 ]
+sequence
+------RPFICNWLFCGKSFTRSDELQRHL--RTHTGEK*
+>P1;gi|39546766|gb|AAR28109.1| transcription factor osterix [Danio r... [ score 69 E 2e-11 ] [ range 328 .. 358 ]
+sequence
+------RPFVCNWLFCGKRFTRSDELERHV--RTHTREK*
+>P1;gi|24580653|ref|NP_722636.1| CG4427-PA [Drosophila melanogaster]... [ score 69 E 2e-11 ] [ range 291 .. 321 ]
+sequence
+------RPFICKWENCDKRFSRSDELSRHK--RTHTGEK*
+>P1;gi|34863381|ref|XP_234008.2| similar to TGFB inducible early gro... [ score 67 E 1e-10 ] [ range 441 .. 471 ]
+sequence
+------KPFTCSWDGCDKKFARSDELSRHR--RTHTGEK*
+>P1;gi|4507503|ref|NP_003588.1| TGFB inducible early growth response... [ score 67 E 1e-10 ] [ range 422 .. 452 ]
+sequence
+------KPFNCSWDGCDKKFARSDELSRHR--RTHTGEK*
+>P1;gi|34873530|ref|XP_343962.1| similar to Kruppel like factor [Rat... [ score 67 E 2e-10 ] [ range 321 .. 351 ]
+sequence
+------RPFVCNWLFCGKRFTRSDELQRHL--QTHTGTK*
+>P1;gi|37544866|gb|AAM75146.1| Krueppel-like factor 15 [Xenopus laevis] [ score 67 E 2e-10 ] [ range 331 .. 361 ]
+sequence
+------KPFACTWPGCGWRFSRSDELSRHR--RSHSGVK*
+>P1;gi|13592117|ref|NP_112397.1| TGFB inducible early growth respons... [ score 67 E 2e-10 ] [ range 397 .. 427 ]
+sequence
+------KPFSCSWKGCERRFARSDELSRHR--RTHTGEK*
+>P1;gi|31196549|ref|XP_307222.1| ENSANGP00000014593 [Anopheles gambi... [ score 66 E 2e-10 ] [ range 299 .. 329 ]
+sequence
+------RPFNCKWPDCGRRFSRSDELSRHK--RTHTGEK*
+>P1;gi|37544868|gb|AAM75147.1| Krueppel-like factor 15 [Danio rerio] [ score 66 E 2e-10 ] [ range 375 .. 405 ]
+sequence
+------KPFACTWPGCDWRFSRSDELSRHR--RSHSGVK*
+>P1;gi|17978559|gb|AAL47216.1| Sp1-like zinc-finger protein XSPR-2 [... [ score 65 E 3e-10 ] [ range 206 .. 236 ]
+sequence
+------RPFICNWMLCGKSFTRSDELQRHL--RTHTGEK*
+>P1;gi|45387677|ref|NP_991195.1| hypothetical protein zgc:77358 [Dan... [ score 65 E 5e-10 ] [ range 180 .. 210 ]
+sequence
+------RPFVCNWLFCGKRFTRSDELQRHL--QTHTGAK*
+>P1;gi|1552996|gb|AAC51108.1| erythroid-specific transcription facto... [ score 65 E 6e-10 ] [ range 307 .. 337 ]
+sequence
+------KPYACTWEGCGWRFARSDELTRHY--RKHTGQR*
+>P1;gi|4336209|gb|AAD17696.1| intestinal-enriched Kruppel-like facto... [ score 65 E 6e-10 ] [ range 390 .. 420 ]
+sequence
+------KPYKCTWEGCDWRFARSDELTRHY--RKHTGAK*
+>P1;gi|20162554|ref|NP_619638.1| Kruppel-like factor 14; BTE-binding... [ score 65 E 6e-10 ] [ range 223 .. 253 ]
+sequence
+------RPFSCDWLDCDKKFTRSDELARHY--RTHTGEK*
+>P1;gi|6005980|ref|NP_009181.1| Kruppel-like factor 8; zinc finger p... [ score 64 E 8e-10 ] [ range 302 .. 332 ]
+sequence
+------KPYKCTWDGCSWKFARSDELTRHF--RKHTGIK*
+>P1;gi|39585945|emb|CAE68234.1| Hypothetical protein CBG13908 [Caeno... [ score 64 E 8e-10 ] [ range 210 .. 240 ]
+sequence
+------RPFICPRPDCGKRFCRNDHLQRHM--RIHTGQR*
+>P1;gi|4107013|dbj|BAA36292.1| PEM-4 [Ciona savignyi] [ score 64 E 9e-10 ] [ range 462 .. 492 ]
+sequence
+------KPFKCQWESCGKCFARSDELSRHR--RTHTGEK*
+>P1;gi|34856352|ref|XP_344904.1| similar to Krueppel-like factor 13 ... [ score 64 E 1e-09 ] [ range 188 .. 218 ]
+sequence
+------RPFACSWQECNKKFARSDELARHY--RTHTGEK*
+>P1;gi|26336609|dbj|BAC31987.1| unnamed protein product [Mus musculus] [ score 63 E 2e-09 ] [ range 154 .. 184 ]
+sequence
+------RPFACDWPGCDKKFARSDELARHH--RTHTGEK*
+>P1;gi|21483360|gb|AAM52655.1| HL07808p [Drosophila melanogaster] >g... [ score 63 E 2e-09 ] [ range 515 .. 545 ]
+sequence
+------KPYKCSWEGCEWRFARSDELTRHY--RKHTGAK*
+>P1;gi|17509949|ref|NP_493353.1| transcription factor (1N948) [Caeno... [ score 62 E 3e-09 ] [ range 163 .. 193 ]
+sequence
+------KPFACDWQHCNKKFTRSDELQRHR--RTHTGEK*
+>P1;gi|18858937|ref|NP_571011.1| Kruppel-like factor d [Danio rerio]... [ score 62 E 3e-09 ] [ range 310 .. 340 ]
+sequence
+------KPYHCTWDGCGWKFARSDELTRHF--RKHTGQK*
+>P1;gi|43729750|gb|EAF19727.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 5 .. 35 ]
+sequence
+------RPFVCNWLLCGKRFTRSDELQRHL--RTHTGEK*
+>P1;gi|39580545|emb|CAE74677.1| Hypothetical protein CBG22482 [Caeno... [ score 62 E 3e-09 ] [ range 441 .. 471 ]
+sequence
+------KPYECSWPGCDWRFARSDELTRHY--RKHTGDR*
+>P1;gi|4929495|gb|AAD34020.1| transcription factor NSLP1 [Homo sapiens] [ score 62 E 4e-09 ] [ range 196 .. 226 ]
+sequence
+------RPFACSWQDCNKKFARSDELARHY--RTHTGEK*
+>P1;gi|39582956|emb|CAE73021.1| Hypothetical protein CBG20386 [Caeno... [ score 62 E 4e-09 ] [ range 163 .. 193 ]
+sequence
+------KPFACDWQHCNKRFTRSDELQRHR--RTHTGEK*
+>P1;gi|24639758|ref|NP_572185.1| CG2932-PA [Drosophila melanogaster]... [ score 62 E 4e-09 ] [ range 225 .. 255 ]
+sequence
+------KPYVCSWPDCVWRFSRSDELARHK--RSHSGVK*
+>P1;gi|3098287|gb|AAC24497.1| erythroid kruppel-like factor EKLF [Mu... [ score 62 E 4e-09 ] [ range 303 .. 333 ]
+sequence
+------KPYACSWDGCDWRFARSDELTRHY--RKHTGHR*
+>P1;gi|31339152|dbj|BAC77069.1| AP-2 repressor [Xenopus laevis] [ score 62 E 5e-09 ] [ range 300 .. 330 ]
+sequence
+------KPYKCTWLGCTWKFARSDELTRHF--RKHTGVK*
+>P1;gi|34851427|ref|XP_222473.2| similar to erythroid transcription ... [ score 62 E 5e-09 ] [ range 321 .. 351 ]
+sequence
+------KPYACSWDGCNWRFARSDELTRHY--RKHTGHR*
+>P1;gi|2897954|gb|AAC03462.1| EZF [Homo sapiens] [ score 62 E 5e-09 ] [ range 415 .. 445 ]
+sequence
+------KPYHCDWDGCGWKFARSDELTRHY--RKHTGHR*
+>P1;gi|4557375|ref|NP_001197.1| basic transcription element binding ... [ score 61 E 6e-09 ] [ range 171 .. 201 ]
+sequence
+------RPFPCTWPDCLKKFSRSDELTRHY--RTHTGEK*
+>P1;gi|39583119|emb|CAE60659.1| Hypothetical protein CBG04311 [Caeno... [ score 61 E 6e-09 ] [ range 199 .. 229 ]
+sequence
+------KPFVCKWPNCSWKFARSDELTRHM--RKHTGDK*
+>P1;gi|34877385|ref|XP_223423.2| Kruppel-like factor 3 [Rattus norve... [ score 61 E 6e-09 ] [ range 287 .. 317 ]
+sequence
+------KPYKCTWEGCTWKFARSDELTRHF--RKHTGIK*
+>P1;gi|33585854|gb|AAH55956.1| Biklf-A protein [Xenopus laevis] [ score 61 E 7e-09 ] [ range 358 .. 388 ]
+sequence
+------KPYHCNWEGCGWKFARSDELTRHF--RKHTGHR*
+>P1;gi|17553706|ref|NP_497632.1| kruppel-like factor (3D967) [Caenor... [ score 61 E 8e-09 ] [ range 442 .. 472 ]
+sequence
+------KPYECSWDGCDWRFARSDELTRHY--RKHTGDR*
+>P1;gi|6680580|ref|NP_032478.1| Kruppel-like factor 2 (lung) [Mus mu... [ score 61 E 8e-09 ] [ range 299 .. 329 ]
+sequence
+------KPYHCNWEGCGWKFARSDELTRHY--RKHTGHR*
+>P1;gi|27668872|ref|XP_224722.1| similar to Kruppel-like factor 2 (L... [ score 61 E 8e-09 ] [ range 296 .. 326 ]
+sequence
+------KPYHCNWDGCGWKFARSDELTRHY--RKHTGHR*
+>P1;gi|32404132|ref|XP_322679.1| hypothetical protein [Neurospora cr... [ score 60 E 1e-08 ] [ range 9 .. 39 ] [ duplicate a ]
+sequence
+------RPFLCDWQGCGKRFNRKSDLQRHH--RIHTNER*
+>P1;gi|32404132|ref|XP_322679.1| hypothetical protein [Neurospora cr... [ score 60 E 1e-08 ] [ range 39 .. 69 ] [ duplicate b ]
+sequence
+------RPYGCNWQDCGKRFIQRSALTVHL--RTHTGEK*
+>P1;gi|18858935|ref|NP_571798.1| Kruppel-like factor 4; blood island... [ score 60 E 1e-08 ] [ range 354 .. 384 ]
+sequence
+------KPYHCSWEGCGWKFARSDELTRHY--RKHTGHR*
+>P1;gi|34875517|ref|XP_224461.2| similar to AP-2rep transcription fa... [ score 60 E 1e-08 ] [ range 533 .. 563 ]
+sequence
+------KPYKCTWEGCTWKFARSDELTRHY--RKHTGVK*
+>P1;gi|13994287|ref|NP_114124.1| BTE-binding protein 4; dopamine rec... [ score 60 E 2e-08 ] [ range 155 .. 185 ]
+sequence
+------RPFACDWQGCDKKFARSDELARHH--RTHTGEK*
+>P1;gi|27374305|gb|AAO01055.1| CG9895-PA [Drosophila pseudoobscura] [ score 60 E 2e-08 ] [ range 332 .. 362 ]
+sequence
+------KPYVCTWEGCIWRFARSDELTRHY--RKHTGVK*
+>P1;gi|18858931|ref|NP_571931.1| Kruppel-like factor 2a; etID35223.2... [ score 60 E 2e-08 ] [ range 292 .. 322 ]
+sequence
+------KPYHCSWEGCGWKFARSDELTRHF--RKHTGHR*
+>P1;gi|32492560|gb|AAP85368.1| Aa1017 [Rattus norvegicus] [ score 59 E 2e-08 ] [ range 731 .. 761 ]
+sequence
+------KPYRCSWEGCEWRFARSDELTRHF--RKHTGAK*
+>P1;gi|28603700|gb|AAO47882.1| GM01315p [Drosophila melanogaster] [ score 59 E 3e-08 ] [ range 137 .. 167 ] [ duplicate a ]
+sequence
+------KPFVCSEPKCGKGFTRSDELNRHL--RTHTGEK*
+>P1;gi|28603700|gb|AAO47882.1| GM01315p [Drosophila melanogaster] [ score 59 E 3e-08 ] [ range 344 .. 372 ] [ duplicate b ]
+sequence
+------RPFYCR--QCEKRFKRQDDLNRHI--RTHTGEK*
+>P1;gi|17535315|ref|NP_495344.1| MUscle Attachment abnormal MUA-1, k... [ score 59 E 3e-08 ] [ range 252 .. 282 ]
+sequence
+------KPFVCKWQNCSWKFARSDELTRHM--RKHTGDK*
+>P1;gi|24647825|ref|NP_524395.2| stripe CG7847-PA [Drosophila melano... [ score 59 E 3e-08 ] [ range 1034 .. 1064 ]
+sequence
+------RPYACPVENCDRRFSRSDELTRHI--RIHTGQK*
+>P1;gi|6754452|ref|NP_034766.1| Kruppel-like factor 12 [Mus musculus... [ score 58 E 5e-08 ] [ range 345 .. 375 ]
+sequence
+------KPYKCTWEGCTWKFGRSDELTRHY--RKHTGVK*
+>P1;gi|39585358|emb|CAE61680.1| Hypothetical protein CBG05624 [Caeno... [ score 58 E 5e-08 ] [ range 238 .. 268 ]
+sequence
+------KPYPCEWPGCSWRFARSDELTRHY--RKHTGAK*
+>P1;gi|14994693|gb|AAK76992.1| kruppel like factor 12 [Danio rerio] [ score 58 E 8e-08 ] [ range 271 .. 301 ]
+sequence
+------KPYKCMWEGCTWKFARSDELTRHY--RKHTGVK*
+>P1;gi|4503493|ref|NP_001955.1| early growth response 1; G0S30; nerv... [ score 57 E 9e-08 ] [ range 336 .. 366 ]
+sequence
+------RPYACPVESCDRRFSRSDELTRHI--RIHTGQK*
+>P1;gi|32766608|gb|AAH54963.1| Klf7-prov protein [Xenopus laevis] [ score 57 E 1e-07 ] [ range 238 .. 268 ]
+sequence
+------KPYKCSWEGCEWRSARSDELTRHY--RKHTGAK*
+>P1;gi|37547100|ref|XP_060880.9| similar to dJ675G8.1 (novel zinc fi... [ score 57 E 1e-07 ] [ range 1158 .. 1188 ]
+sequence
+------KPYVCDVEGCTWKFARSDELNRHK--KRHTGER*
+>P1;gi|18858601|ref|NP_571323.1| early growth response 1 [Danio reri... [ score 57 E 1e-07 ] [ range 309 .. 339 ]
+sequence
+------RPYACPVETCDRRFSRSDELTRHI--RIHTGQK*
+>P1;gi|34872550|ref|XP_213050.2| similar to Kruppel-like factor 4 (g... [ score 57 E 2e-07 ] [ range 422 .. 452 ]
+sequence
+------KPYHRDWDGCGWKFARSDELTRHY--RKHTGHR*
+>P1;gi|280969|pir||B43819 immediate-early transcription factor Egr-3... [ score 56 E 2e-07 ] [ range 242 .. 272 ]
+sequence
+------RPHACPAEGCDRRFSRSDELTRHL--RIHTGHK*
+>P1;gi|6321229|ref|NP_011306.1| Involved in repression, along with M... [ score 56 E 2e-07 ] [ range 43 .. 72 ]
+sequence
+------KPHHCAFPGCGKSFSRSDELKRHM--RTHTGQ-*
+>P1;gi|39596618|emb|CAE63237.1| Hypothetical protein CBG07600 [Caeno... [ score 56 E 2e-07 ] [ range 364 .. 394 ]
+sequence
+------RPYKCPREGCDKRFSRSDELTRHI--RIHTGQK*
+>P1;gi|45200900|ref|NP_986470.1| AGL197Wp [Eremothecium gossypii] >g... [ score 68 E 5e-11 ] [ range 701 .. 731 ]
+sequence
+-----DRPFRCDHEGCTKAFVRNHDLIRHK-KT-HAEK-*
+>P1;gi|6323160|ref|NP_013232.1| Transcription factor that activates ... [ score 65 E 6e-10 ] [ range 630 .. 660 ]
+sequence
+-----DRPYSCDFPGCTKAFVRNHDLIRHK-IS-HNAK-*
+>P1;gi|31419009|gb|AAH53307.1| Unknown (protein for MGC:64207) [Dani... [ score 54 E 8e-07 ] [ range 293 .. 319 ]
+sequence
+--------FQCTF--CGKRFSLDFNLRTHV-RI-HTG--*
+>P1;gi|24661643|ref|NP_648317.1| CG3445-PA [Drosophila melanogaster]... [ score 54 E 1e-06 ] [ range 559 .. 585 ]
+sequence
+--------FECTF--CGKRFSLDFNLRTHV-RI-HTG--*
+>P1;gi|30142720|ref|NP_839997.1| RIKEmembrane-bound transcription fa... [ score 53 E 2e-06 ] [ range 317 .. 343 ]
+sequence
+--------YQCTF--CGRHFSLDFNLRTHV-RI-HTG--*
+>P1;gi|2565032|gb|AAD08633.1| transcription activator/repressor prot... [ score 52 E 3e-06 ] [ range 311 .. 337 ]
+sequence
+--------FQCTF--CGKRFSLDFNLRTHL-RI-HTG--*
+>P1;gi|192941|gb|AAA37521.1| delta-transcription factor [ score 51 E 6e-06 ] [ range 353 .. 379 ]
+sequence
+--------FQCTF--CGKRFSLDFNLRTHV-GI-HTG--*
+>P1;gi|31419659|gb|AAH53399.1| Zfp42 protein [Mus musculus] [ score 51 E 9e-06 ] [ range 227 .. 253 ]
+sequence
+--------YQCTF--CGKRFSLDFNLRTHI-RI-HTG--*
+>P1;gi|17865167|gb|AAL47167.1| putative zinc finger protein 42 [Homo... [ score 49 E 2e-05 ] [ range 245 .. 271 ]
+sequence
+--------FRCTF--CGKRFSLDFNLRTHV-RI-HTG--*

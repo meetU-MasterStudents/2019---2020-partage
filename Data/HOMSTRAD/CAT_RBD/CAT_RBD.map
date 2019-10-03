@@ -1,0 +1,333 @@
+>P1;1l1ca
+structureN:1l1c:   1 :A:  55 :A:Transcription antiterminator LicT, RNA binding domain:Bacillus subtilis: -1: -1
+MKIAKVINNNVISVVNEQGKELVVMGRGLAFQKKSGDDVDEARIEKVFTLD-NKDV*
+>P1;1auua
+structureN:1auu:   1 :A:  55 :A:Antiterminator protein, SacY, RNA binding domain:Bacillus Subtilis: -1: -1
+MKIKRILNHNAIVVKDQN-EEKILLGAGIAFNKKKNDIVDPSKIEKTFIRKDTPDY*
+>P1;gi|16801592|ref|NP_471860.1| similar to transcription antitermin... [ score 84 E 7e-16 ] [ range 1 .. 55 ]
+sequence
+MIIKKILNNNVVIAEGKSGKESVVMGRGLAFQKKLGDEVEVSKIEKTFVME-THEL*
+>P1;gi|114108|sp|P26211|ARBG_ERWCH Beta-glucoside operon antitermina... [ score 84 E 7e-16 ] [ range 1 .. 55 ]
+sequence
+MKIAKILNNNVVTVMDEQNNEQVVMGRGLGFKKRPGDTVNAALIEKIFSLR-SSEL*
+>P1;gi|29377085|ref|NP_816239.1| transcriptional antiterminator, bgl... [ score 83 E 1e-15 ] [ range 1 .. 53 ]
+sequence
+MRIEKVLNNNVVLSRNEQGEEIVYMGRGLAFQKKIGDTINPDYVEKEFVLK-DS--*
+>P1;gi|16804474|ref|NP_465959.1| similar to transcription antitermin... [ score 83 E 1e-15 ] [ range 1 .. 55 ]
+sequence
+MIIKKILNNNVVIAEGKSGKESVVMGRGLAFQKKIGDEVEVANIEKTFVME-THEL*
+>P1;gi|16131591|ref|NP_418179.1| BglG [Escherichia coli K12] >gi|114... [ score 83 E 1e-15 ] [ range 3 .. 57 ]
+sequence
+MQITKILNNNVVVVIDDQQREKVVMGRGIGFQKRAGERINSSGIEKEYALS-SHEL*
+>P1;gi|45181607|gb|AAS55457.1| BglT [Pectobacterium carotovorum subs... [ score 82 E 4e-15 ] [ range 1 .. 55 ]
+sequence
+MKIAKILNNNVVTVIDENNNESVVMGRGLGFKKHSGDLLDETLIERVFVMK-SGEL*
+>P1;gi|23466182|ref|NP_696785.1| transcription antiterminator simila... [ score 81 E 8e-15 ] [ range 1 .. 55 ]
+sequence
+MEILRVFNNNVVLAKGGDGGEVILTGRGLGFQAKPGQTVDESKVVRTFVLD-GRD-*
+>P1;gi|23336282|ref|ZP_00121505.1| COG3711: Transcriptional antiterm... [ score 80 E 1e-14 ] [ range 8 .. 59 ]
+sequence
+MEILRVFNNNVVLAKGGDGGEVILTGRGLGFQAKPGQTVDESKVVRTFVPS-D---*
+>P1;gi|27463667|gb|AAO15903.1| transcription antiterminator protein ... [ score 79 E 3e-14 ] [ range 1 .. 52 ]
+sequence
+MKVLRVLNNNVVLAI-KDGAEVVLTGWGVGFQKKPGEDVDQSKVTQVFVPE-NN--*
+>P1;gi|22991207|ref|ZP_00035953.1| COG3711: Transcriptional antiterm... [ score 78 E 4e-14 ] [ range 24 .. 78 ]
+sequence
+MLIEKVLNNNVVITRDERDREMIVMGKGLAFKKKVGDPILDSCIDKKFQLT-NDGL*
+>P1;gi|22536953|ref|NP_687804.1| transcriptional antiterminator LicT... [ score 78 E 7e-14 ] [ range 1 .. 54 ]
+sequence
+MIIKRVLNHNAVISVTHQGLDVLLMGKGIAFKKRIGDRINSDAIEKSFVLK-NSD-*
+>P1;gi|30022138|ref|NP_833769.1| Transcription antiterminator, BglG ... [ score 77 E 9e-14 ] [ range 5 .. 57 ]
+sequence
+LEIKKVLNNNVIIASHPEHEEVVVIGKGIGFGKKAKDVLEQEQIEKMFVLK-NE--*
+>P1;gi|15901052|ref|NP_345656.1| transcription antiterminator LacT [... [ score 77 E 9e-14 ] [ range 3 .. 55 ]
+sequence
+-RILNPMNHNVSLVRNDKGEEVIVIGKGIAFGKKKGDLIAENQVEKIFRMK-TEE-*
+>P1;gi|38233740|ref|NP_939507.1| Putative transcription antiterminat... [ score 77 E 9e-14 ] [ range 1 .. 51 ]
+sequence
+MQILRVFNNNVVLAR-RDDEEVIVTGRGLGFQAKTGDDVDPTKVVRVFVPA-D---*
+>P1;gi|22990724|ref|ZP_00035531.1| COG3711: Transcriptional antiterm... [ score 77 E 1e-13 ] [ range 1 .. 53 ]
+sequence
+MKIDKILNNNVVISKNGFGEEVVCMGKGLAFQKKIGDEISPEAVQKEFVLR-DS--*
+>P1;gi|19745689|ref|NP_606825.1| putative transcription antiterminat... [ score 77 E 1e-13 ] [ range 1 .. 54 ]
+sequence
+MLIKRVLNHNAAISTNHQGLDILLMGKGIAFGKKVGDSIELNAIETSFVLK-NSD-*
+>P1;gi|15903115|ref|NP_358665.1| Antiterminator protein [Streptococc... [ score 76 E 2e-13 ] [ range 3 .. 55 ]
+sequence
+-RILNPMNHNVSLVRNDKGEEVIIIGKGIAFGKRKGDLIAENQVEKIFRMK-TEE-*
+>P1;gi|28377736|ref|NP_784628.1| transcription antiterminator [Lacto... [ score 76 E 2e-13 ] [ range 1 .. 53 ]
+sequence
+MRIKKVLNNNAFITHNDDHQEMIVIGKAIAYGKHFNDTVDESKVYKMFTPI-SR--*
+>P1;gi|16080858|ref|NP_391686.1| transcriptional antiterminator [Bac... [ score 76 E 3e-13 ] [ range 1 .. 53 ]
+sequence
+MKIYKVLNNNAAL-IKEDDQEKIVMGPGIAFQKKKNDLIPMNKVEKIFVVR-DEN-*
+>P1;gi|25011374|ref|NP_735769.1| Unknown [Streptococcus agalactiae N... [ score 75 E 6e-13 ] [ range 3 .. 55 ]
+sequence
+-RVLNPMNHNVALARNEKGEELVIVGKGIIFGKRKGDFVPKDKVEKVFRMK-TEE-*
+>P1;gi|28379829|ref|NP_786721.1| transcription antiterminator [Lacto... [ score 74 E 1e-12 ] [ range 1 .. 53 ]
+sequence
+MRIKKVFNNNVLLAE-KNGREVVLIGKGIGFKKHTGDDVEQQQITKIYTPE-GDN-*
+>P1;gi|23002944|ref|ZP_00046615.1| COG3711: Transcriptional antiterm... [ score 74 E 1e-12 ] [ range 1 .. 50 ]
+sequence
+MKITRILNNSAVISENQDHEEIIALGKGIAYGKKVGDEFDKQKIYKIFTP------*
+>P1;gi|15894685|ref|NP_348034.1| Transcriptional antiterminator (Bgl... [ score 73 E 1e-12 ] [ range 1 .. 54 ]
+sequence
+MTIKKIFNNNAIIAENSDKHEFVVMGCGIAFKKNIGEKVDERLIEKTFILK-GKD-*
+>P1;gi|1737500|gb|AAB38977.1| transcription antiterminator [Geobacil... [ score 73 E 1e-12 ] [ range 4 .. 56 ]
+sequence
+LRIHKILNKNAVVVLDD-GKEKIVMGAGIAFQKRKNDIIPPAKIEKIFVME-EEN-*
+>P1;gi|7159049|gb|AAF37608.1| BglG [Shigella sonnei] [ score 73 E 2e-12 ] [ range 3 .. 57 ]
+sequence
+MQITKILNNNVVVVTDDQQREKVVMGRGIGFQKCAGERINSSGIEKEYALS-SHEL*
+>P1;gi|16804810|ref|NP_466295.1| similar to transcription antitermin... [ score 73 E 2e-12 ] [ range 1 .. 52 ]
+sequence
+MRIERILNNNIVSAISEDAQELLILGKGLGFNSKVGDPINESKIEKVFELK-D---*
+>P1;gi|42519783|ref|NP_965713.1| hypothetical protein LJ0542 [Lactob... [ score 72 E 3e-12 ] [ range 1 .. 54 ]
+sequence
+MKIIRVLNNSAVIIENQEHEEIIALGKGIAYGKKAGDEFDKQKIYKIFTPL-SDN-*
+>P1;gi|6016464|sp|P24401|LACT_LACCA Transcription antiterminator lac... [ score 72 E 3e-12 ] [ range 3 .. 54 ]
+sequence
+-KIAQIFNNNVALVDLDNRGQAVVRGRGIAFQKRRGDVIPTKQIEKIFYLA-NE--*
+>P1;gi|23002331|ref|ZP_00046008.1| COG3711: Transcriptional antiterm... [ score 72 E 4e-12 ] [ range 4 .. 56 ]
+sequence
+-RIVQILNNNVAIVHTRNNKQNIVMGRGVAFHKQKGDLIQEENVDKVFEIR-DKN-*
+>P1;gi|16804825|ref|NP_466310.1| transcription antiterminator [Liste... [ score 72 E 5e-12 ] [ range 2 .. 56 ]
+sequence
+LRVKRVFNNNTILVHDSNGLEKIVIGKGISFNKRVGNIISEEAVEKTFIVD-SPEI*
+>P1;gi|15902548|ref|NP_358098.1| Transcriptional antiterminator (Bgl... [ score 72 E 5e-12 ] [ range 1 .. 54 ]
+sequence
+MIIKRILNHNAVIAQSKKDIDILLFGRGIAFGRKIGDKVNPIDIEKSFFLK-NRD-*
+>P1;gi|42519187|ref|NP_965117.1| hypothetical protein LJ1262 [Lactob... [ score 71 E 9e-12 ] [ range 4 .. 54 ]
+sequence
+--IKRVLNNNAVVATDKHKQTLVALGNGIAFHKKAGEVIGEERVEKVFYPK-NE--*
+>P1;gi|23023950|ref|ZP_00063177.1| COG3711: Transcriptional antiterm... [ score 70 E 1e-11 ] [ range 1 .. 53 ]
+sequence
+MLVKRIFNNNVLLAENSE-QELVIVGRGVGFKQKIGNTVDSSKIEKTYYPQ-DEN-*
+>P1;gi|7304840|gb|AAC05712.2| regulatory protein [Clostridium longis... [ score 70 E 1e-11 ] [ range 4 .. 55 ]
+sequence
+--IKKIFNNNSVLALDSEKREIVILGCGIAFKKKVNDKVSEDNVEKTFILK-QKD-*
+>P1;gi|37524588|ref|NP_927932.1| Cryptic beta-glucoside bgl operon a... [ score 69 E 2e-11 ] [ range 2 .. 55 ]
+sequence
+LTIVKLINNNVVLAIDENNNEVILMDKGIGFNRKKGDRLNVQDVAKVFTVE-KND-*
+>P1;gi|4704716|gb|AAD28229.1| transcription antiterminator; BglR [En... [ score 69 E 3e-11 ] [ range 1 .. 53 ]
+sequence
+MKVKKIINNNVAL-IDRGGNEAIIYMTGIAFKKKVGQRINDSEIEKTYVLD-SKD-*
+>P1;gi|15893713|ref|NP_347062.1| Transcriptional antiterminator licT... [ score 69 E 3e-11 ] [ range 1 .. 55 ]
+sequence
+MVIKKILNNSAVTTIDDATREKVIMGKGIAFQKKPGDILNEEKIEKIFSIE-NQN-*
+>P1;gi|16080893|ref|NP_391721.1| transcriptional antiterminator [Bac... [ score 68 E 4e-11 ] [ range 1 .. 51 ]
+sequence
+MKIKRILNHNA-IVVKDQNEEKILLGAGIAFNKKKNDIVDPSKIEKTFIRK-D---*
+>P1;gi|22002640|gb|AAM82756.1| transcriptional antiterminator [Klebs... [ score 68 E 6e-11 ] [ range 1 .. 55 ]
+sequence
+MQIAKVLNNNVVVVLDEHRREQVVMGRGLAFQKRPGDVLDDSKIEKVFALQ-SDEL*
+>P1;gi|22992910|ref|ZP_00037528.1| COG3711: Transcriptional antiterm... [ score 62 E 3e-09 ] [ range 4 .. 48 ]
+sequence
+--IKKVLNSSVVLVE-ENGKEMIALGKGIGFGQKAGDEISGDKVDKIF--------*
+>P1;gi|15613408|ref|NP_241711.1| transcriptional antiterminator [Bac... [ score 62 E 5e-09 ] [ range 4 .. 53 ]
+sequence
+--VKKALNNNVLIAEHPSYDEVVLIGKGLGFGKRPGDEVAGESAEKFFVLK-D---*
+>P1;gi|22993353|ref|ZP_00037955.1| COG3711: Transcriptional antiterm... [ score 62 E 5e-09 ] [ range 1 .. 52 ]
+sequence
+MKIKKIFNQNAVLV-DDGGQEKVAIGKGIGFDRKRNDLIFDRDVERIFVME-PE--*
+>P1;gi|2154723|emb|CAA72077.1| transcription antiterminator [Bacillu... [ score 61 E 7e-09 ] [ range 7 .. 57 ]
+sequence
+--VKKVLNNNVLIASHHKYSEVVLIGKGIGFGKKQDDVIEDKGYDKMFILK-DE--*
+>P1;gi|42519702|ref|NP_965632.1| hypothetical protein LJ0623 [Lactob... [ score 61 E 8e-09 ] [ range 1 .. 53 ]
+sequence
+MIFLKTFNNSAALVQDDQGQEQVVLGKGVGFGLKKGDKIDESKVERRFIAN-SH--*
+>P1;gi|29376081|ref|NP_815235.1| transcription antiterminator, bglG ... [ score 61 E 9e-09 ] [ range 1 .. 54 ]
+sequence
+MKIKKVLNQNAVLVLDE-GQEKVAVGKGVGFNKTKNDVLSRQLVERMFVME-PEGL*
+>P1;gi|23003469|ref|ZP_00047131.1| COG3711: Transcriptional antiterm... [ score 60 E 2e-08 ] [ range 19 .. 71 ]
+sequence
+LLIKRVFNNNSALVELGNNREAVVVGNGIAFKKTEGKEIDTSKVENIFYLE-NS--*
+>P1;gi|23099338|ref|NP_692804.1| transcriptional antiterminator [Oce... [ score 58 E 5e-08 ] [ range 6 .. 57 ]
+sequence
+--VKKPLNNNVLIAQDNYQNEVVLIGSGIGFNFKENDSVEEEFVEKLFVLR-DQE-*
+>P1;gi|28379539|ref|NP_786431.1| transcription antiterminator [Lacto... [ score 58 E 6e-08 ] [ range 2 .. 50 ]
+sequence
+LRIKKVLNSSVVLVTDEHDQEFILLGKGIGYGKKTGAVIMDGDFNQVFV-------*
+>P1;gi|28379842|ref|NP_786734.1| transcription antiterminator [Lacto... [ score 57 E 9e-08 ] [ range 3 .. 50 ]
+sequence
+-KFLKNFNNNAALVVDDQDVEWIVIGNGVGFGKHQGDQIDDQKIQRRFV-------*
+>P1;gi|15612860|ref|NP_241163.1| transcription antiterminator (BigG ... [ score 57 E 1e-07 ] [ range 1 .. 55 ]
+sequence
+MKVVKVYNNNVVSVLNEQKQELIVTGRGIGFQKKRGDELEEEKIDKVFSLK-DRAV*
+>P1;gi|27467957|ref|NP_764594.1| transcription antiterminator [Staph... [ score 53 E 1e-06 ] [ range 6 .. 57 ]
+sequence
+--ITKTLNNNVIIC-TKNHQEVVLIGKGIGFNKKVGMTVQENAIEKIYKLE-QQE-*
+>P1;gi|22991063|ref|ZP_00035826.1| COG3711: Transcriptional antiterm... [ score 53 E 1e-06 ] [ range 21 .. 71 ]
+sequence
+--VMKKLNHNAVL-IDDDGIEKIAMGKGIGFSAKVSKPFDVEDADKLFVLD-SKE-*
+>P1;gi|28377718|ref|NP_784610.1| transcription antiterminator [Lacto... [ score 53 E 2e-06 ] [ range 1 .. 49 ]
+sequence
+MRVVKKINNNVVVCLDQHGEELVAFGKGLGFQKVPYELTDMTKVTMTFY-------*
+>P1;gi|2632149|emb|CAA74358.1| antiterminator [Staphylococcus carnosus] [ score 51 E 9e-06 ] [ range 6 .. 58 ]
+sequence
+--IEKTLNNNVIICTDENHHEVVLIGKGIGFNKKKGMELSDSMIDKVYKLE-QK--*
+>P1;gi|15894634|ref|NP_347983.1| Transcriptional antiterminator (Bgl... [ score 50 E 1e-05 ] [ range 9 .. 61 ]
+sequence
+-KIIKVLNNNVLFVL-QNNKEKILFERGIGFGKKIDDLISDTHVEKVFSIE-NEN-*
+>P1;gi|18309055|ref|NP_560989.1| probable transcription antiterminat... [ score 50 E 1e-05 ] [ range 10 .. 62 ]
+sequence
+-EVKRSFNNNIVLV-DDDEKEIILFAKGIGFNCKKGSIIPENNIEKIFTIQ-DEN-*
+>P1;gi|15893859|ref|NP_347208.1| SACPA operon antiterminator (sacT) ... [ score 50 E 1e-05 ] [ range 6 .. 51 ]
+sequence
+--VKKALNNNVVIAV-KDKYEFIIVGKGIGFNAKKGSRIPENKIENVFI-------*
+>P1;gi|2197103|gb|AAB61291.1| antiterminator homolog [Escherichia co... [ score 47 E 1e-04 ] [ range 20 .. 71 ]
+sequence
+MIIEKVMNNNCVQA-SMNGQEVIISGPGVGYNKKYGMLVPEHPANRIFYVR-NE--*
+>P1;gi|15613344|ref|NP_241647.1| transcription antiterminator (BigG ... [ score 45 E 6e-04 ] [ range 1 .. 30 ]
+sequence
+------------------------MGKGIGFQAKSGDPVDKTKIEKIFTLN-SQE-*
+>P1;gi|38233740|ref|NP_939507.1| Putative transcription antiterminat... [ score 90 E 9e-18 ] [ range 1 .. 54 ]
+sequence
+MQILRVFNNNVVLARRDD-EEVIVTGRGLGFQAKTGDDVDPTKVVRVFVPADGRD-*
+>P1;gi|27463667|gb|AAO15903.1| transcription antiterminator protein ... [ score 90 E 1e-17 ] [ range 1 .. 54 ]
+sequence
+MKVLRVLNNNVVLAIKDG-AEVVLTGWGVGFQKKPGEDVDQSKVTQVFVPENNRD-*
+>P1;gi|16080858|ref|NP_391686.1| transcriptional antiterminator [Bac... [ score 83 E 2e-15 ] [ range 1 .. 54 ]
+sequence
+MKIYKVLNNNAALIKEDD-QEKIVMGPGIAFQKKKNDLIPMNKVEKIFVVRDENE-*
+>P1;gi|1737500|gb|AAB38977.1| transcription antiterminator [Geobacil... [ score 82 E 2e-15 ] [ range 4 .. 57 ]
+sequence
+LRIHKILNKNAVVVLDDG-KEKIVMGAGIAFQKRKNDIIPPAKIEKIFVMEEENE-*
+>P1;gi|551875|gb|AAA57135.1| BglR [ score 81 E 8e-15 ] [ range 1 .. 54 ]
+sequence
+MKIKKVLNNNVVIAQNDN-EETILMSLGLGFGKKAGEVVEDKKIEKIFALKVTPE-*
+>P1;gi|23336282|ref|ZP_00121505.1| COG3711: Transcriptional antiterm... [ score 80 E 1e-14 ] [ range 8 .. 62 ]
+sequence
+MEILRVFNNNVVLAKGDG-GEVILTGRGLGFQAKPGQTVDESKVVRTFVPSDGRD-*
+>P1;gi|29377085|ref|NP_816239.1| transcriptional antiterminator, bgl... [ score 79 E 3e-14 ] [ range 1 .. 53 ]
+sequence
+MRIEKVLNNNVVLSRNQG-EEIVYMGRGLAFQKKIGDTINPDYVEKEFVLKDS---*
+>P1;gi|30022138|ref|NP_833769.1| Transcription antiterminator, BglG ... [ score 78 E 5e-14 ] [ range 5 .. 59 ]
+sequence
+LEIKKVLNNNVIIASHEH-EEVVVIGKGIGFGKKAKDVLEQEQIEKMFVLKNERD-*
+>P1;gi|114108|sp|P26211|ARBG_ERWCH Beta-glucoside operon antitermina... [ score 78 E 7e-14 ] [ range 1 .. 53 ]
+sequence
+MKIAKILNNNVVTVMDQN-NEQVVMGRGLGFKKRPGDTVNAALIEKIFSLRSS---*
+>P1;gi|15673443|ref|NP_267617.1| beta-glucoside operon antiterminato... [ score 77 E 1e-13 ] [ range 6 .. 58 ]
+sequence
+-KIKKVLNNNVVIAQNDN-EETILMGLGLGFGKKAGEVVEDKKIEKIFALKVTSE-*
+>P1;gi|16131591|ref|NP_418179.1| BglG [Escherichia coli K12] >gi|114... [ score 77 E 1e-13 ] [ range 3 .. 52 ]
+sequence
+MQITKILNNNVVVVIDDQ-QEKVVMGRGIGFQKRAGERINSSGIEKEYAL------*
+>P1;gi|16801592|ref|NP_471860.1| similar to transcription antitermin... [ score 77 E 1e-13 ] [ range 1 .. 51 ]
+sequence
+MIIKKILNNNVVIAEKSG-KESVVMGRGLAFQKKLGDEVEVSKIEKTFVME-----*
+>P1;gi|16804474|ref|NP_465959.1| similar to transcription antitermin... [ score 75 E 5e-13 ] [ range 1 .. 51 ]
+sequence
+MIIKKILNNNVVIAEKSG-KESVVMGRGLAFQKKIGDEVEVANIEKTFVME-----*
+>P1;gi|42519187|ref|NP_965117.1| hypothetical protein LJ1262 [Lactob... [ score 74 E 7e-13 ] [ range 4 .. 56 ]
+sequence
+--IKRVLNNNAVVATDKH-KQTLVLGNGIAFHKKAGEVIGEERVEKVFYPKNEKD-*
+>P1;gi|22993353|ref|ZP_00037955.1| COG3711: Transcriptional antiterm... [ score 74 E 8e-13 ] [ range 1 .. 50 ]
+sequence
+MKIKKIFNQNAVLVDDGG-QEKVAIGKGIGFDRKRNDLIFDRDVERIFVME-----*
+>P1;gi|22536953|ref|NP_687804.1| transcriptional antiterminator LicT... [ score 74 E 1e-12 ] [ range 1 .. 53 ]
+sequence
+MIIKRVLNHNAVIVTHQG-LDVLLMGKGIAFKKRIGDRINSDAIEKSFVLKNS---*
+>P1;gi|28379829|ref|NP_786721.1| transcription antiterminator [Lacto... [ score 72 E 2e-12 ] [ range 1 .. 50 ]
+sequence
+MRIKKVFNNNVLLAEKNG-REVVLIGKGIGFKKHTGDDVEQQQITKIYTPE-----*
+>P1;gi|16080959|ref|NP_391787.1| transcriptional antiterminator (Bgl... [ score 72 E 4e-12 ] [ range 1 .. 52 ]
+sequence
+MKIAKVINNNVIVVNEQG-KELVVMGRGLAFQKKSGDDVDEARIEKVFTLDN----*
+>P1;gi|22990724|ref|ZP_00035531.1| COG3711: Transcriptional antiterm... [ score 70 E 9e-12 ] [ range 1 .. 53 ]
+sequence
+MKIDKILNNNVVISKNGG-EEVVCMGKGLAFQKKIGDEISPEAVQKEFVLRDS---*
+>P1;gi|7159049|gb|AAF37608.1| BglG [Shigella sonnei] [ score 68 E 5e-11 ] [ range 3 .. 52 ]
+sequence
+MQITKILNNNVVVVTDDQ-QEKVVMGRGIGFQKCAGERINSSGIEKEYAL------*
+>P1;gi|15902548|ref|NP_358098.1| Transcriptional antiterminator (Bgl... [ score 67 E 8e-11 ] [ range 1 .. 52 ]
+sequence
+MIIKRILNHNAVIAQSKK-DIDILLGRGIAFGRKIGDKVNPIDIEKSFFLKN----*
+>P1;gi|19745689|ref|NP_606825.1| putative transcription antiterminat... [ score 66 E 3e-10 ] [ range 1 .. 53 ]
+sequence
+MLIKRVLNHNAAISTHQG-LDILLMGKGIAFGKKVGDSIELNAIETSFVLKNS---*
+>P1;gi|6016464|sp|P24401|LACT_LACCA Transcription antiterminator lac... [ score 65 E 5e-10 ] [ range 3 .. 54 ]
+sequence
+-KIAQIFNNNVALVDLDN-RQAVVRGRGIAFQKRRGDVIPTKQIEKIFYLANE---*
+>P1;gi|15893713|ref|NP_347062.1| Transcriptional antiterminator licT... [ score 63 E 1e-09 ] [ range 1 .. 56 ]
+sequence
+MVIKKILNNSAVTTIDDA-TEKVIMGKGIAFQKKPGDILNEEKIEKIFSIENQNE-*
+>P1;gi|22992910|ref|ZP_00037528.1| COG3711: Transcriptional antiterm... [ score 62 E 3e-09 ] [ range 4 .. 54 ]
+sequence
+--IKKVLNSSVVLVEENG-KEMIALGKGIGFGQKAGDEISGDKVDKIFLPFEEK--*
+>P1;gi|28377736|ref|NP_784628.1| transcription antiterminator [Lacto... [ score 61 E 6e-09 ] [ range 1 .. 50 ]
+sequence
+MRIKKVLNNNAFITHDDH-QEMIVIGKAIAYGKHFNDTVDESKVYKMFTP------*
+>P1;gi|2154723|emb|CAA72077.1| transcription antiterminator [Bacillu... [ score 61 E 7e-09 ] [ range 7 .. 59 ]
+sequence
+--VKKVLNNNVLIAHHKY-SEVVLIGKGIGFGKKQDDVIEDKGYDKMFILKDEKE-*
+>P1;gi|15613408|ref|NP_241711.1| transcriptional antiterminator [Bac... [ score 61 E 7e-09 ] [ range 4 .. 56 ]
+sequence
+--VKKALNNNVLIAEHSY-DEVVLIGKGLGFGKRPGDEVAGESAEKFFVLKDAKE-*
+>P1;gi|4704716|gb|AAD28229.1| transcription antiterminator; BglR [En... [ score 61 E 8e-09 ] [ range 1 .. 53 ]
+sequence
+MKVKKIINNNVALIDRGG-NEAIIYMTGIAFKKKVGQRINDSEIEKTYVL-DSKD-*
+>P1;gi|15901052|ref|NP_345656.1| transcription antiterminator LacT [... [ score 60 E 1e-08 ] [ range 3 .. 54 ]
+sequence
+-RILNPMNHNVSLVRDKG-EEVIVIGKGIAFGKKKGDLIAENQVEKIFRMKTE---*
+>P1;gi|7304840|gb|AAC05712.2| regulatory protein [Clostridium longis... [ score 59 E 3e-08 ] [ range 4 .. 52 ]
+sequence
+--IKKIFNNNSVLALDSE-KEIVILGCGIAFKKKVNDKVSEDNVEKTFILK-----*
+>P1;gi|15903115|ref|NP_358665.1| Antiterminator protein [Streptococc... [ score 58 E 4e-08 ] [ range 3 .. 54 ]
+sequence
+-RILNPMNHNVSLVRDKG-EEVIIIGKGIAFGKRKGDLIAENQVEKIFRMKTE---*
+>P1;gi|23002944|ref|ZP_00046615.1| COG3711: Transcriptional antiterm... [ score 58 E 4e-08 ] [ range 1 .. 50 ]
+sequence
+MKITRILNNSAVISENQH-EEIIALGKGIAYGKKVGDEFDKQKIYKIFTP------*
+>P1;gi|42519783|ref|NP_965713.1| hypothetical protein LJ0542 [Lactob... [ score 58 E 5e-08 ] [ range 1 .. 50 ]
+sequence
+MKIIRVLNNSAVIIENQH-EEIIALGKGIAYGKKAGDEFDKQKIYKIFTP------*
+>P1;gi|23002331|ref|ZP_00046008.1| COG3711: Transcriptional antiterm... [ score 56 E 2e-07 ] [ range 4 .. 54 ]
+sequence
+-RIVQILNNNVAIVHRNN-KQNIVMGRGVAFHKQKGDLIQEENVDKVFEIRD----*
+>P1;gi|37524588|ref|NP_927932.1| Cryptic beta-glucoside bgl operon a... [ score 56 E 2e-07 ] [ range 4 .. 56 ]
+sequence
+--IVKLINNNVVLAIDEN-NEVILMDKGIGFNRKKGDRLNVQDVAKVFVEKNDR--*
+>P1;gi|42519702|ref|NP_965632.1| hypothetical protein LJ0623 [Lactob... [ score 56 E 2e-07 ] [ range 1 .. 49 ]
+sequence
+MIFLKTFNNSAALVQDQG-QEQVVLGKGVGFGLKKGDKIDESKVERRFI-------*
+>P1;gi|23003469|ref|ZP_00047131.1| COG3711: Transcriptional antiterm... [ score 55 E 4e-07 ] [ range 19 .. 71 ]
+sequence
+LLIKRVFNNNSALVEGNN-REAVVVGNGIAFKKTEGKEIDTSKVENIFYLENS---*
+>P1;gi|23099338|ref|NP_692804.1| transcriptional antiterminator [Oce... [ score 55 E 4e-07 ] [ range 5 .. 55 ]
+sequence
+-IVKKPLNNNVLIAQDNQ-NEVVLIGSGIGFNFKENDSVEEEFVEKLFVLRD----*
+>P1;gi|25011374|ref|NP_735769.1| Unknown [Streptococcus agalactiae N... [ score 54 E 9e-07 ] [ range 2 .. 54 ]
+sequence
+---YRVLNHNVALARNEG-EELVIVGKGIIFGKRKGDFVPKDKVEKVFRMKTE---*
+>P1;gi|27467957|ref|NP_764594.1| transcription antiterminator [Staph... [ score 53 E 2e-06 ] [ range 6 .. 54 ]
+sequence
+--ITKTLNNNVIICTKNH-QEVVLIGKGIGFNKKVGMTVQENAIEKIYKLE-----*
+>P1;gi|15893859|ref|NP_347208.1| SACPA operon antiterminator (sacT) ... [ score 53 E 2e-06 ] [ range 6 .. 51 ]
+sequence
+--VKKALNNNVVIAVKDK-YEFIIVGKGIGFNAKKGSRIPENKIENVFI-------*
+>P1;gi|18309055|ref|NP_560989.1| probable transcription antiterminat... [ score 53 E 2e-06 ] [ range 10 .. 61 ]
+sequence
+-EVKRSFNNNIVLVDDDE-KEIILFAKGIGFNCKKGSIIPETNIEKIFTIQDE---*
+>P1;gi|15894634|ref|NP_347983.1| Transcriptional antiterminator (Bgl... [ score 53 E 2e-06 ] [ range 9 .. 60 ]
+sequence
+-KIIKVLNNNVLFVLQNN-KEKILFERGIGFGKKIDDLISDTHVEKVFSIENE---*
+>P1;gi|28379842|ref|NP_786734.1| transcription antiterminator [Lacto... [ score 52 E 4e-06 ] [ range 3 .. 50 ]
+sequence
+-KFLKNFNNNALVVDDQD-VEWIVIGNGVGFGKHQGDQIDDQKIQRRFV-------*
+>P1;gi|22991063|ref|ZP_00035826.1| COG3711: Transcriptional antiterm... [ score 51 E 9e-06 ] [ range 21 .. 71 ]
+sequence
+--VMKKLNHNAVLIDDDG-IEKIAMGKGIGFSAKVSKPFDVEDADKLFVL-DSKE-*
+>P1;gi|2197103|gb|AAB61291.1| antiterminator homolog [Escherichia co... [ score 50 E 1e-05 ] [ range 20 .. 71 ]
+sequence
+MIIEKVMNNNCVQASMNG-QEVIISGPGVGYNKKYGMLVPEHPANRIFYVRNE---*
+>P1;gi|2632149|emb|CAA74358.1| antiterminator [Staphylococcus carnosus] [ score 50 E 1e-05 ] [ range 6 .. 60 ]
+sequence
+--IEKTLNNNVIICTDEN-QEVVLIGKGIGFNKKKGELSDSVMIDKVYKLEQKKD-*
+>P1;gi|28377718|ref|NP_784610.1| transcription antiterminator [Lacto... [ score 49 E 2e-05 ] [ range 1 .. 49 ]
+sequence
+MRVVKKINNNVVVCLDQG-EELVAFGKGLGFQKVPYELTDMTKVTMTFY-------*
+>P1;gi|15612860|ref|NP_241163.1| transcription antiterminator (BigG ... [ score 48 E 5e-05 ] [ range 1 .. 52 ]
+sequence
+MKVKVYNNNVVSVLNEQK-QELIVTGRGIGFQKKRGDELEEEKIDKVFSLKD----*

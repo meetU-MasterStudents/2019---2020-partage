@@ -1,0 +1,136 @@
+>P1;1pgx
+structureX:1pgx:   8 : :  77 : :protein G domain B2:Streptococcus sp.: 1.70:19.10
+-----------ELTPAVTTYKLVINGK-TLKGETTTKAVDAETAEKAFKQYANDN---GVDGVWTYDDAT
+KTFTVTEMVTEVPVA*
+>P1;2gb1
+structureN:2gb1:   1 : :  56 : :protein G domain B1:Streptomyces griseus:-1.00:-1.00
+-----------------MTYKLILNGK-TLKGETTTEAVDAATAEKVFKQYANDN---GVDGEWTYDDAT
+KTFTVTE--------*
+>P1;1gb4
+structureX:1gb4:   1 : :  57 : :protein G domain B1:Streptococcus sp.: -1: -1
+----------------MTTFKLIINGK-TLKGEITIEAVDAAEAEKIFKQYANDN---GIDGEWTYDDAT
+KTFTVTE--------*
+>P1;2ptl
+structureX:2ptl:   1 : :  78 : :protein L domain B1:Peptostreptococcus magnus: -1: -1
+ENKEETPETPETDSEEEVTIKANLIFANGSTQTAEFKGTF-EKATSEAYAYADTLKKDNGEYTVDVADKG
+YTLNIKFAG------*
+>P1;gi|124268|sp|P19909|SPG2_STRSG Immunoglobulin G binding protein ... [ score 118 E 2e-26 ] [ range 366 .. 427 ] [ duplicate b ]
+sequence
+-----------ELTPAVTTYKLVINGK-TLKGETTTEAVDAATAEKVFKQYANDN---GVDGEWTYDDAT
+KTFTVTE--------*
+>P1;gi|628934|pir||S42574 streptococcal surface protein - Streptococ... [ score 114 E 6e-25 ] [ range 427 .. 488 ] [ duplicate b ]
+sequence
+-----------ELTPALTTYKLIVKGN-TFSGETTTKAVDAETAEKAFKQYANEN---GVYGEWSYDDAT
+KTFTVTE--------*
+>P1;gi|628934|pir||S42574 streptococcal surface protein - Streptococ... [ score 114 E 6e-25 ] [ range 357 .. 418 ] [ duplicate c ]
+sequence
+-----------ELTPALTTYKLIVKGN-TFSGETTTKAIDAATAEKEFKQYATAN---GVDGEWSYDDAT
+KTFTVTE--------*
+>P1;gi|628934|pir||S42574 streptococcal surface protein - Streptococ... [ score 114 E 6e-25 ] [ range 287 .. 348 ] [ duplicate d ]
+sequence
+-----------ELTPALTTYKLIVKGN-TFSGETTTKAVDAETAEKAFKQYATAN---NVDGEWSYDDAT
+KTFTVTE--------*
+>P1;gi|628934|pir||S42574 streptococcal surface protein - Streptococ... [ score 114 E 6e-25 ] [ range 217 .. 278 ] [ duplicate e ]
+sequence
+-----------ELTPALTTYKLVVKGN-TFSGETTTKAIDTATAEKEFKQYATAN---NVDGEWSYDDAT
+KTFTVTE--------*
+>P1;gi|15824801|gb|AAL09476.1| Mig precursor [Streptococcus dysgalac... [ score 111 E 3e-24 ] [ range 497 .. 564 ] [ duplicate a ]
+sequence
+-----------ELTPALTTYKLVINGK-TLKGETTTKAVDVETAEKAFKQYANEN---GVDGVWTYDDAT
+KTFTVTEMVTEIP--*
+>P1;gi|973189|gb|AAA86832.1| cell surface protein precursor [ score 106 E 1e-22 ] [ range 293 .. 360 ] [ duplicate a ]
+sequence
+-----------ELTPALTTYRLVIKGV-TFSGETATKAVDAATAEQAFRQYANDN---GVTGEWAYDAAT
+KTFTVTEALEESP--*
+>P1;gi|973189|gb|AAA86832.1| cell surface protein precursor [ score 106 E 1e-22 ] [ range 221 .. 282 ] [ duplicate b ]
+sequence
+-----------ELTPALTSYKLVIKGA-TFSGETATKAVDAAVAEQTFRDYANKN---GVDGVWAYDAAT
+KTFTVTE--------*
+>P1;gi|38141777|dbj|BAD00711.1| cell surface protein precursor [Stre... [ score 105 E 3e-22 ] [ range 297 .. 364 ] [ duplicate a ]
+sequence
+-----------ELTPALTTYRLVIKGV-TFSGETATKAVDAATAEQTFRQYANDN---GITGEWAYDTAT
+KTFTVTEALEESP--*
+>P1;gi|581662|emb|CAA37410.1| Protein G' [Streptococcus sp. 'group G'] [ score 95 E 5e-19 ] [ range 1 .. 45 ] [ duplicate c ]
+sequence
+-----------------------------MKGETTTEAVDAATAEKVFKQYANDN---GVDGEWTYDDAT
+KTFTVTE--------*
+>P1;gi|15988267|pdb|1FD6|A Chain A, Delta0: A Computationally Design... [ score 88 E 4e-17 ] [ range 1 .. 57 ]
+sequence
+----------------MTTFKLIINGK-TLKGETTTEAVDAATAEKVFKQYANDN---GIDGEWTYDDAT
+KTFTVTE--------*
+>P1;gi|24159072|pdb|1MHX|A Chain A, Crystal Structures Of The Redesi... [ score 87 E 1e-16 ] [ range 8 .. 65 ]
+sequence
+---------------AMDTYKLFIVIG-DRVVVVTTEAVDAATAEKVFKQYANDN---GVDGEWTYDDAA
+KTFTVTE--------*
+>P1;gi|15988266|pdb|1FCL|A Chain A, Delta1.5: A Computationally Desi... [ score 84 E 6e-16 ] [ range 1 .. 56 ]
+sequence
+-----------------TTFKLIINGK-TLKGETTTEAVDAATAEKVLKQYINDN---GIDGEWTYDDAT
+KTWTVTE--------*
+>P1;gi|24159073|pdb|1MI0|A Chain A, Crystal Structure Of The Redesig... [ score 80 E 1e-14 ] [ range 8 .. 65 ]
+sequence
+---------------AMDTYKLVIVLN-GTTFTYTTEAVDAATAEKVFKQYANDN---GVDGEWTYADAT
+KTFTVTE--------*
+>P1;gi|21465426|pdb|1EM7|A Chain A, Helix Variant Of The B1 Domain F... [ score 80 E 1e-14 ] [ range 1 .. 56 ]
+sequence
+-----------------TTYKLILNGK-TLKGETTTEAVDAETAERVFKEYAKKN---GVDGEWTYDDAT
+KTFTVTE--------*
+>P1;gi|38492880|pdb|1Q10|A Chain A, Ensemble Of 40 Structures Of The... [ score 86 E 2e-16 ] [ range 1 .. 56 ]
+sequence
+-----------------MQYKVILNGK-TLKGETTTEAVDAATAEKVVKQFFNDN---GVDGEWTYDDAT
+KTFTVTE--------*
+>P1;gi|34810871|pdb|1P7E|A Chain A, Gb3 Solution Structure Obtained ... [ score 86 E 2e-16 ] [ range 1 .. 56 ]
+sequence
+-----------------MQYKLVINGK-TLKGETTTKAVDAETAEKAFKQYANDN---GVDGVWTYDDAT
+KTFTVTE--------*
+>P1;gi|551988|gb|AAA26600.1| BBXM [ score 64 E 8e-10 ] [ range 238 .. 279 ]
+sequence
+------------------TYKLILNGK-TLKGETTTEAVDAATARSFFPILENSS---SVPGD-------
+---------------*
+>P1;gi|538879|pir||A42808 Ig light chain-binding protein precursor -... [ score 137 E 4e-32 ] [ range 170 .. 245 ] [ duplicate b ]
+sequence
+--KFAGKEKTPEEPKEEVTIKANLIYADGKTQTAEFKGTF-EEATAEAYRYADALKKDNGEYTVDVADKG
+YTLNIKFAG------*
+>P1;gi|538879|pir||A42808 Ig light chain-binding protein precursor -... [ score 137 E 4e-32 ] [ range 242 .. 317 ] [ duplicate c ]
+sequence
+--KFAGKEKTPEEPKEEVTIKANLIYADGKTQTAEFKGTF-EEATAEAYRYADLLAKENGKYTVDVADKG
+YTLNIKFAG------*
+>P1;gi|538879|pir||A42808 Ig light chain-binding protein precursor -... [ score 137 E 4e-32 ] [ range 314 .. 389 ] [ duplicate d ]
+sequence
+--KFAGKEKTPEEPKEEVTIKANLIYADGKTQTAEFKGTF-AEATAEAYRYADLLAKENGKYTADLEDGG
+YTINIRFAG------*
+>P1;gi|538879|pir||A42808 Ig light chain-binding protein precursor -... [ score 137 E 4e-32 ] [ range 394 .. 462 ] [ duplicate e ]
+sequence
+---------EKPEEKEQVTIKENIYFEDGTVQTATFKGTF-AEATAEAYRYADLLSKEHGKYTADLEDGG
+YTINIRFAG------*
+>P1;gi|16975344|pdb|1JML|A Chain A, Conversion Of Monomeric Protein ... [ score 110 E 6e-24 ] [ range 10 .. 72 ]
+sequence
+---------------EEVTIKANLIFANGSTQTAEFKGTF-EKATSEAYAYADTLKKDNGEWTVDVVPKA
+YTLNIKFAG------*
+>P1;gi|2126571|pir||S54396 protein L precursor - Peptostreptococcus ... [ score 104 E 8e-22 ] [ range 247 .. 317 ] [ duplicate a ]
+sequence
+-------EKETPEPEEEVTIKANLIFADGSTQNAEFKGTF-AKAVSDAYAYADALKKDNGEYTVDVADKG
+LTLNIKFAG------*
+>P1;gi|2126571|pir||S54396 protein L precursor - Peptostreptococcus ... [ score 104 E 8e-22 ] [ range 465 .. 537 ] [ duplicate b ]
+sequence
+----ET-PETPEEPKEEVTIKVNLIFADGKTQTAEFKGTF-EEATAEAYRYADLLAKVNGEYTADLEDGG
+YTINIKFAG------*
+>P1;gi|2126571|pir||S54396 protein L precursor - Peptostreptococcus ... [ score 104 E 8e-22 ] [ range 320 .. 389 ] [ duplicate c ]
+sequence
+-------EK-PEEPKEEVTIKVNLIFADGKTQTAEFKGTF-EEATAKAYAYADLLAKENGEYTADLEDGG
+NTINIKFAG------*
+>P1;gi|2126571|pir||S54396 protein L precursor - Peptostreptococcus ... [ score 104 E 8e-22 ] [ range 391 .. 463 ] [ duplicate d ]
+sequence
+----ET-PETPEEPKEEVTIKVNLIFADGKIQTAEFKGTF-EEATAKAYAYANLLAKENGEYTADLEDGG
+NTINIKFAG------*
+>P1;gi|28373655|pdb|1MHH|E Chain E, Antibody-Antigen Complex >gi|283... [ score 103 E 1e-21 ] [ range 1 .. 62 ]
+sequence
+----------------EVTIKVNLIFADGKIQTAEFKGTF-EEATAEAYRYAALLAKVNGEWTADLEDGG
+NHMNIKFAG------*
+>P1;gi|18655716|pdb|1KH0|A Chain A, Accurate Computer Base Design Of... [ score 102 E 2e-21 ] [ range 1 .. 65 ]
+sequence
+---------------EEVTIKANLIFANGSTQTAEFKGTK-EKALSEVLAYADTLKKDNGEWTIDVTNGV
+IILNIKFAG------*
+>P1;gi|15825715|pdb|1HEZ|E Chain E, Antibody-Antigen Complex [ score 102 E 2e-21 ] [ range 1 .. 61 ]
+sequence
+----------------EVTIKVNLIFADGKIQTAEFKGTF-EEATAEAYRYADLLAKVNGEYTADLEDGG
+NHMNIKFA-------*

@@ -1,0 +1,15 @@
+>P1;1edn
+structureX:1edn:   1 : :  21 : :endothelin-1 (et-1):Homo sapiens: 2.18: 19.9
+CSCSSLMDKECVYFCHLDIIW*
+>P1;1srb
+structureX:1srb:   1 : :  21 : :sarafotoxins s6b:Atractaspis engaddensis: -1: -1
+CSCKDMTDKECLYFCHQDVIW*
+>P1;gi|28201161|dbj|BAC56713.1| preproendothelin-2 [Canis familiaris] [ score 51 E 1e-05 ] [ range 49 .. 69 ]
+sequence
+CSCSSWLDKECVYFCHLDIIW*
+>P1;gi|6978793|ref|NP_036681.1| endothelin 2; Endothelin isopeptide ... [ score 46 E 2e-04 ] [ range 47 .. 67 ]
+sequence
+CSCNSWLDKECVYFCHLDIIW*
+>P1;gi|18858581|ref|NP_571594.1| endothelin 1 [Danio rerio] >gi|8990... [ score 45 E 6e-04 ] [ range 41 .. 61 ]
+sequence
+CSCASFLDKECVYFCHLDIIW*

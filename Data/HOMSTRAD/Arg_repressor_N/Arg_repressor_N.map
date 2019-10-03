@@ -1,0 +1,428 @@
+>P1;1aoy
+structureX:1aoy:   1 : :  78 : :arginine repressor:Escherichia coli: -1: -1
+MRSSAKQEELVKAFKALLKEEKFSSQGEIVAALQEQGFDNINQSKVSRMLTKFGAVRTRNAKMEMVYCLP
+A------------ELGVPTT*
+>P1;1b4aa
+structureX:1b4a:   4 :A:  78 :A:arginine repressor:Bacillus stearothermophilus: 2.5: 22.4
+-------GQRHIKIREIIMSNDIETQDELVDRLREAGF-NVTQATVSRDIKEMQLVKVPMANGRYKYSLP
+SDQRFNPLQKLKR-------*
+>P1;gi|31339989|sp|Q9KUT4|ARGR_VIBCH Arginine repressor [ score 156 E 1e-37 ] [ range 1 .. 77 ]
+sequence
+MRNVDKQDNLVRAFKALLKEERFGSQGDIVEALKNEGFDNINQSKVSRMLTKFGAVRTRNAKMEMVYCLP
+A------------ELGVPT-*
+>P1;gi|37678650|ref|NP_933259.1| arginine repressor [Vibrio vulnific... [ score 154 E 4e-37 ] [ range 55 .. 131 ]
+sequence
+MRPSEKQDNLVRAFKALLKEERFGSQGEIVEALKQEGFENINQSKVSRMLTKFGAVRTRNAKMEMVYCLP
+T------------ELGVPT-*
+>P1;gi|31339968|sp|Q87SU8|ARGR_VIBPA Arginine repressor [ score 153 E 8e-37 ] [ range 1 .. 77 ]
+sequence
+MRNSEKQDNLVRAFKALLKEESFGSQGEIVDALKQQGFESINQSKVSRMLTKFGAVRTRNAKMEMVYCLP
+A------------ELGVPT-*
+>P1;gi|16762119|ref|NP_457736.1| arginine repressor [Salmonella ente... [ score 152 E 2e-36 ] [ range 1 .. 78 ]
+sequence
+MRSSAKQEELVRAFKALLKEEKFSSQGEIVLALQDQGFENINQSKVSRMLTKFGAVRTRNAKMEMVYCLP
+A------------ELGVPTT*
+>P1;gi|44106377|gb|EAH16054.1| unknown [environmental sequence] [ score 152 E 2e-36 ] [ range 1 .. 78 ]
+sequence
+MRASAKQEELVKAFKALLKEEKFSSQGEIVQALQEQGFENINQSKVSRMLTKFGAVRTRNAKMEMVYCLP
+A------------ELGVPTT*
+>P1;gi|16123663|ref|NP_406976.1| arginine repressor [Yersinia pestis... [ score 150 E 7e-36 ] [ range 1 .. 78 ]
+sequence
+MRNPAKQEDLIKAFKALLKEEKFSSQGEIVLALQEEGFENINQSKVSRMLTKFGAVRTRNAKMEMVYCLP
+A------------ELGVPTT*
+>P1;gi|31195163|ref|XP_306529.1| ENSANGP00000001361 [Anopheles gambi... [ score 149 E 2e-35 ] [ range 1 .. 78 ]
+sequence
+MKHNDKQEKLAKAFKALLKEERFGSQAEIVTALQEMGFENINQSKVSRMLSRFGAVRTRNAKMEMVYCLP
+V------------ELGVPTT*
+>P1;gi|37528367|ref|NP_931712.1| Arginine repressor [Photorhabdus lu... [ score 146 E 9e-35 ] [ range 1 .. 77 ]
+sequence
+MRTPSKQEDLVKAFKALLKEEKFSSQGEIVTALLEEGFENINQSKVSRMLTKFGAVRTRNAKMEMVYCLP
+A------------ELGVPT-*
+>P1;gi|44503674|gb|EAJ71965.1| unknown [environmental sequence] [ score 146 E 2e-34 ] [ range 1 .. 77 ]
+sequence
+MQPQDKQEALVKAFKSLLKEENFGSQGEIVDALKEQGFDNISQSKVSRMLSKFGAVRTRNAKQEMVYCLP
+A------------EMGVPT-*
+>P1;gi|24372358|ref|NP_716400.1| arginine repressor [Shewanella onei... [ score 145 E 3e-34 ] [ range 1 .. 77 ]
+sequence
+MQTTKNQDDLVRIFKAILKEERFGSQSEIVTALQAEGFTNINQSKVSRMLSKFGAVRTRNAKQEMVYCLP
+A------------ELGVPT-*
+>P1;gi|44307965|gb|EAI35218.1| unknown [environmental sequence] [ score 142 E 1e-33 ] [ range 1 .. 78 ]
+sequence
+MTKQSKQEALIQAFKSLLKEERFGSQSDIVDALKAEGFDNISQSKVSRMLSKYGAVRTRNAKQEMVYCLP
+P------------ELGVPTT*
+>P1;gi|43903725|gb|EAG06259.1| unknown [environmental sequence] [ score 142 E 1e-33 ] [ range 1 .. 77 ]
+sequence
+MPATRNQDELVKTFKAILKEERFGSQSEIVNALQTEGFGNINQSKVSRMLSKFGAVRTRNAKQEMVYCLP
+A------------ELGVPT-*
+>P1;gi|24412843|emb|CAD54759.1| arginine repressor [Moritella profunda] [ score 139 E 2e-32 ] [ range 2 .. 75 ]
+sequence
+---SEKQDLLVKAFKGLLKEEHLGSQGEIVDALKEQGFDSVNQSKVSRMLSKFGAVRTRNAKDEMVYCLP
+A------------ELGVPT-*
+>P1;gi|15602414|ref|NP_245486.1| ArgR [Pasteurella multocida] >gi|12... [ score 139 E 2e-32 ] [ range 29 .. 102 ]
+sequence
+----EKQDNLLNAFKELLAQERFGSQSEIVQALQELGFTQINQSKVSRMLTKFGAVRTRNTRMEMVYCLP
+N------------ELSVPNT*
+>P1;gi|44261078|gb|EAI03662.1| unknown [environmental sequence] [ score 135 E 2e-31 ] [ range 2 .. 76 ]
+sequence
+--ANAKQEQLIKAFKEILKAESYGSQGEIVDALKAQGFDNISQSKISRMLSKFGAVRTRNARGDMVYCLP
+P------------ELGMPT-*
+>P1;gi|23467018|ref|ZP_00122603.1| COG1438: Arginine repressor [Haem... [ score 133 E 1e-30 ] [ range 3 .. 77 ]
+sequence
+---NEKADSLVNAFKELLSQESFGSQSEIVSALQQMGFTHVNQSKVSRMLTKFGAVRTRNTRMEMVYCLP
+N------------ELSVPNT*
+>P1;gi|42628832|ref|ZP_00154385.1| COG1438: Arginine repressor [Haem... [ score 132 E 2e-30 ] [ range 3 .. 73 ]
+sequence
+-------DNLTRAFKELLNQERFGSQSEIVDALKKQGFTGINQSKISRMLSKFGAVRTRNTKMEMVYCLP
+N------------ELSVPNT*
+>P1;gi|33151503|ref|NP_872856.1| arginine repressor [Haemophilus duc... [ score 124 E 6e-28 ] [ range 2 .. 75 ]
+sequence
+----EKLDRLSEAFKMLLKQEKCSSQSEIVTALQALGFKNINQSKVSRMLSKFGAIRTRNTKMEMVYQLP
+T------------ELSIPTT*
+>P1;gi|26251154|ref|NP_757194.1| Hypothetical protein [Escherichia c... [ score 109 E 2e-23 ] [ range 30 .. 101 ]
+sequence
+---SAKEKKQLAVCQRLITEKSYLSQEEIRRDLQNHGFDSISQSTVSRLLKLLGVIKIRNTKGQKIYSVN
+P------------QLLP---*
+>P1;gi|16763263|ref|NP_458880.1| putative transcriptional regulator ... [ score 103 E 8e-22 ] [ range 8 .. 76 ]
+sequence
+---SAKEQQQLAVCQRLISEKSYLSQEEIRRDLQNEGFEGISQSTVSRLLKLLGAIKIRNAKGQKIYSVN
+P------------Q------*
+>P1;gi|29653823|ref|NP_819515.1| arginine repressor [Coxiella burnet... [ score 101 E 5e-21 ] [ range 3 .. 78 ]
+sequence
+-RKSDPQKPLTEAVKTLLWTEKITKQDELVTKLRQQGYD-INQSKISRLLRKLLAIKVKNEEGQTVYTLS
+K------------EPLPPST*
+>P1;gi|43993454|gb|EAG54461.1| unknown [environmental sequence] [ score 88 E 7e-17 ] [ range 8 .. 76 ]
+sequence
+---STKEQKQLAICQRLISEKSYLSQEALRRDLQHHGFTGISQSTVSRLLKLLGAIKIRNTKGQKIYSVN
+P------------Q------*
+>P1;gi|31195461|ref|XP_306678.1| ENSANGP00000000701 [Anopheles gambi... [ score 69 E 3e-11 ] [ range 10 .. 82 ]
+sequence
+---QEPDLAQLDACRQIIGQHCYSTQEEIRRELSERGFADISQSTISRLLRRLGVAKAQNANGKKVYTLV
+D------------EQLEP--*
+>P1;gi|43458704|gb|EAD84024.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 1 .. 65 ]
+sequence
+MSKSQRQYLLAK----ILEEQAVSSQAKLVELLKSEGVD-VTQATLSRDLEELGAVKVRVPVGDSVYAIP
+--------------------*
+>P1;gi|15675892|ref|NP_270066.1| putative arginine repressor [Strept... [ score 49 E 3e-05 ] [ range 1 .. 71 ]
+sequence
+MNKMERQQQI----KRIIQAEHIGTQEDIKNHLQKEGI-VVTQATLSRDLREIGLLKLRDEQGKLYYSLS
+E------------PVATP--*
+>P1;gi|15618117|ref|NP_224402.1| Arginine Repressor [Chlamydophila p... [ score 46 E 3e-04 ] [ range 9 .. 73 ]
+sequence
+-----------EALKEILRLEGAATQEELCAKLLAQGFAT-TQSSVSRWLRKIQAVKVAGERGAR-YSLP
+S------------STEKTTT*
+>P1;gi|25012093|ref|NP_736488.1| Unknown [Streptococcus agalactiae N... [ score 45 E 4e-04 ] [ range 1 .. 69 ]
+sequence
+MNNKNKIERQ-KRIKRLIQSGQIGTQEEIKLHLKNEGID-VTQATLSRDLREIGLLKLRSPEGKLYYSLS
+T-------------------*
+>P1;gi|29349170|ref|NP_812673.1| arginine repressor, transcriptional... [ score 45 E 4e-04 ] [ range 3 .. 67 ]
+sequence
+-----KKANRLDAIKMIISSKEVGSQEELLQELNREGFE-LTQATLSRDLKQLKVAKAASMNGKYVYVLP
+N-------------------*
+>P1;gi|22538236|ref|NP_689087.1| arginine repressor ArgR, putative [... [ score 45 E 5e-04 ] [ range 1 .. 66 ]
+sequence
+MNKIERQKRI----KRLIQSGQIGTQEEIKLHLKNEGID-VTQATLSRDLREIGLLKLRSPEGKLYYSLS
+T-------------------*
+>P1;gi|4127534|emb|CAA09426.1| arginine repressor [Geobacillus stear... [ score 135 E 2e-31 ] [ range 4 .. 78 ]
+sequence
+-------GQRHIKIREIIMNHEIETQDELVDMLKKAGF-NVTQATVSRDIKELQLVKVPMANGRYKYSLP
+SDQRFNPTQKLKR-------*
+>P1;gi|30022257|ref|NP_833888.1| Arginine repressor, argR [Bacillus ... [ score 133 E 1e-30 ] [ range 4 .. 78 ]
+sequence
+-------GQRHIKIREIIANKEIETQDELVDILRNEGF-NVTQATVSRDIKELHLVKVPLHDGRYKYSLP
+ADQRFNPLQKLKR-------*
+>P1;gi|15615340|ref|NP_243643.1| transcriptional regulator of argini... [ score 130 E 7e-30 ] [ range 4 .. 78 ]
+sequence
+-------GQRHIKIREIIANNDVETQDELVEQLKAAGY-NVTQATVSRDIKELHLVKVPMMDGRYKYSLP
+ADQRFNPLQKLKR-------*
+>P1;gi|16079481|ref|NP_390305.1| transcriptional regulator [Bacillus... [ score 130 E 7e-30 ] [ range 4 .. 78 ]
+sequence
+-------GQRHIKIREIITSNEIETQDELVDMLKQDGY-KVTQATVSRDIKELHLVKVPTNNGSYKYSLP
+ADQRFNPLSKLKR-------*
+>P1;gi|8134308|sp|O86130|ARGR_BACLI Arginine repressor >gi|3687414|e... [ score 127 E 7e-29 ] [ range 4 .. 78 ]
+sequence
+-------GQRHIKIREIITANEIETQDELVDILKKDGY-NVTQATVSRDIKELHLVKVPTNNGSYKYSLP
+ADQRFNPLSKLKR-------*
+>P1;gi|16800472|ref|NP_470740.1| similar to arginine repressor [List... [ score 125 E 3e-28 ] [ range 4 .. 78 ]
+sequence
+-------GHRHIIIRELITSNEIDTQEDLVELLLERDV-KVTQATVSRDIKELHLVKVPTQTGGYKYSLP
+ADNSFNPHQKLKR-------*
+>P1;gi|45532124|ref|ZP_00183140.1| hypothetical protein Exigu150001 ... [ score 123 E 1e-27 ] [ range 4 .. 78 ]
+sequence
+-------GQRLIKIREIITQSEIETQDELVEELRNAGY-KVTQATVSRDIKELHLVKVPLNDGRYKYSLP
+ADQRFNPLGKLRR-------*
+>P1;gi|23099330|ref|NP_692796.1| arginine repressor [Oceanobacillus ... [ score 121 E 5e-27 ] [ range 5 .. 78 ]
+sequence
+--------QRHIKIRELITENIIETQDELVDSLKALDF-NVTQATVSRDIKELQLVKVPTTTGQYKYSLP
+ADQRFNPLQKLKR-------*
+>P1;gi|15924510|ref|NP_372044.1| arginine repressor [Staphylococcus ... [ score 114 E 5e-25 ] [ range 7 .. 79 ]
+sequence
+---------RHIKIREIISNEQIETQDELVKRLNDYDL-NVTQATVSRDIKELQLIKVPIPSGQYVYSLP
+NDRKFHPLEKLGR-------*
+>P1;gi|39931129|sp|Q8CP40|ARGR_STAEP Arginine repressor [ score 113 E 9e-25 ] [ range 7 .. 79 ]
+sequence
+---------RHIKIREIISNEQIETQDELVKRLNEYDL-NVTQATVSRDIKELQLIKVPAPTGQYVYSLP
+NDRRYHPLEKLGR-------*
+>P1;gi|23112379|ref|ZP_00097869.1| COG1438: Arginine repressor [Desu... [ score 105 E 3e-22 ] [ range 4 .. 78 ]
+sequence
+--------RRQMKIQEIINNQVIHTQEELAELLRKAGF-DVTQATVSRDIKEMGLIKVPTSEDDYRYAVP
+TAQPLSTPDRLKR-------*
+>P1;gi|28378305|ref|NP_785197.1| arginine catabolic regulator [Lacto... [ score 102 E 3e-21 ] [ range 5 .. 78 ]
+sequence
+--------ERQRYIKRLLSSNEIERQEDFVKLLRAEDI-DVTQATISRDIKDMQLVKVPSATGGYHYSMP
+VQKQMDTEKKLKR-------*
+>P1;gi|45530086|ref|ZP_00181222.1| hypothetical protein Mther080701 ... [ score 99 E 2e-20 ] [ range 4 .. 78 ]
+sequence
+--------QRQQLILKLIASTPIATQDQLARELRRRGL-RVTQATVSRDIKELGLIKVPAGENLYRYAAP
+PGQRLNPYGRLQR-------*
+>P1;gi|29375565|ref|NP_814719.1| transcriptional regulator, ArgR fam... [ score 97 E 7e-20 ] [ range 6 .. 78 ]
+sequence
+---------RHRLITRLLTEKNIQKQEDFVNYLQEKGV-AVTQATISRDIKDMKLIKVPSAEGGYRYSLP
+LETQANTSAKLAK-------*
+>P1;gi|44563117|gb|EAK12914.1| unknown [environmental sequence] [ score 96 E 2e-19 ] [ range 7 .. 80 ]
+sequence
+--------QRQKLIADFIDSGNISSQNQLKGMLKKNGT-VITQATLSRDLNELGAIKKRLKNGRLVYLLP
+KNQDNNAQYKIAK-------*
+>P1;gi|23020877|ref|ZP_00060570.1| COG1438: Arginine repressor [Clos... [ score 96 E 2e-19 ] [ range 5 .. 75 ]
+sequence
+---------RQAKILEIIDKEVIETQEEIADRLKKAGM-EVTQATISRDIKELRLIKVMTEDGRYKYAPF
+NSTDNTVFNRL---------*
+>P1;gi|43458704|gb|EAD84024.1| unknown [environmental sequence] [ score 95 E 3e-19 ] [ range 5 .. 80 ]
+sequence
+--------QRQYLLAKILEEQAVSSQAKLVELLKSEGV-DVTQATLSRDLEELGAVKVRVPVGDSVYAIP
+DNERVLPVDYLRR-------*
+>P1;gi|44494508|gb|EAJ65797.1| unknown [environmental sequence] [ score 95 E 3e-19 ] [ range 7 .. 80 ]
+sequence
+--------QRQKLIANFIDSGNVSSQNQLKGMLKKNGV-IITQATLSRDLNELGAVKKRLKNGKLVYLLP
+KNQDNNAQYKIAK-------*
+>P1;gi|21673939|ref|NP_662004.1| arginine repressor [Chlorobium tepi... [ score 94 E 7e-19 ] [ range 6 .. 76 ]
+sequence
+---------RQKKIRELIENHEVSGQQELLGMLEKEGI-VVAQATLSRDFAEMGVVRNRTSDGGYRLAVP
+EEPQVDIIKGL---------*
+>P1;gi|42558192|dbj|BAD11100.1| ArgR-like protein [Thermus thermophi... [ score 93 E 1e-18 ] [ range 6 .. 80 ]
+sequence
+--------ERHRAIQEIVRREEIGTQKELVERLRQLGF-EVTQATVSRDIAELGLARIALGKGRHRYVLP
+ADLPENAYEELKR-------*
+>P1;gi|15643139|ref|NP_228182.1| arginine repressor [Thermotoga mari... [ score 93 E 2e-18 ] [ range 7 .. 81 ]
+sequence
+--------RRQELIRKIIHEKKISNQFQIVEELKKYGI-KAVQPTVARDLKEIGAVKIMDESGNYVYKLL
+DETPVDPWKELKR-------*
+>P1;gi|28378140|ref|NP_785032.1| arginine catabolic regulator [Lacto... [ score 93 E 2e-18 ] [ range 5 .. 76 ]
+sequence
+--------ERQAVIEQLISEYPIATQEELMAKLKAEGI-AATQATISRDIREMQIVKTPDEHGQTRYAIF
+KTTNKNEQDRL---------*
+>P1;gi|15805768|ref|NP_294465.1| arginine repressor/activator [Deino... [ score 92 E 3e-18 ] [ range 24 .. 98 ]
+sequence
+--------QRQKRIQDIILRESVSTQAELVKLLAKEGV-QVTQATVSRDINELRLVRVPIGKGRHRYALA
+QGGDSDIEEQLAR-------*
+>P1;gi|18310798|ref|NP_562732.1| probable arginine repressor [Clostr... [ score 92 E 3e-18 ] [ range 4 .. 75 ]
+sequence
+--------KRHSKIIEIIKSTAIETQEELAEELKKAGF-DVTQATVSRDIKNLKLVKKQDNKGHYRYTII
+EEEKNEMVDRL---------*
+>P1;gi|23024259|ref|ZP_00063477.1| COG1438: Arginine repressor [Leuc... [ score 91 E 5e-18 ] [ range 16 .. 88 ]
+sequence
+---------RQKALLSLIKEHPVGRQEDIVAYFEKIGE-KVTQATISRDINELGLIKVPNSHDGFLYHLP
+KSDDRPYLQRLRR-------*
+>P1;gi|22536679|ref|NP_687530.1| arginine repressor ArgR, putative [... [ score 91 E 6e-18 ] [ range 5 .. 69 ]
+sequence
+--------ERLNLIKQIVLNHAVETQHELLRRLEAYGV-TLTQATISRDMNEIGIIKVPSAKGRYIYGLS
+NEND----------------*
+>P1;gi|41207548|gb|AAR99642.1| AhrC [Lactococcus lactis subsp. cremo... [ score 91 E 7e-18 ] [ range 5 .. 68 ]
+sequence
+--------ERLNFIAQFIRENEIKTQEELVNTLLTHGI-DVTQATVSRDIKSLALIKVPAESGGYRYDLP
+KNK-----------------*
+>P1;gi|28211238|ref|NP_782182.1| arginine repressor [Clostridium tet... [ score 91 E 7e-18 ] [ range 5 .. 76 ]
+sequence
+---------RHEKILELIERKDIETQEELAEELRKSGI-EITQATVSRDIKELKLIKVLGEQGKYKYAAI
+VKNENDLSDKLA--------*
+>P1;gi|7380852|emb|CAB85499.1| arginine repressor [Thermotoga neapol... [ score 91 E 7e-18 ] [ range 7 .. 81 ]
+sequence
+--------RRQELIKKIIHEKRISNQFQIVEELKKYGI-KAVQPTIARDLKEIGAVKIMDESGNYVYRLL
+DETPVDPWKELKR-------*
+>P1;gi|28895576|ref|NP_801926.1| putative arginine repressor [Strept... [ score 90 E 1e-17 ] [ range 7 .. 69 ]
+sequence
+---------RHRLIRSLISETTIHTQQELQERLQKNGI-TITQATLSRDMKELNLVKVTSGNDTHYEALA
+ISQ-----------------*
+>P1;gi|15903128|ref|NP_358678.1| Transcriptional regulator of argini... [ score 90 E 1e-17 ] [ range 5 .. 67 ]
+sequence
+--------ERLEKIRRLVTDYQIGTQEEIVEHLKEAGI-TATQATVSRDIKELGIVKIPLRDNTYVYELP
+KS------------------*
+>P1;gi|23016981|ref|ZP_00056724.1| COG1438: Arginine repressor [Ther... [ score 90 E 2e-17 ] [ range 16 .. 77 ]
+sequence
+---------RHAKITELLTKYAVRSQNELARLLAEEGV-QVTQATLSRDLDELGAVKLRTVDGNLVYVLP
+GE------------------*
+>P1;gi|41407464|ref|NP_960300.1| ArgR [Mycobacterium avium subsp. pa... [ score 89 E 2e-17 ] [ range 15 .. 77 ]
+sequence
+---------RQARIVAILSSAQVRSQSELAALLADEGI-EVTQATLSRDLEELGAVKLRGADGGVVYMVP
+ED------------------*
+>P1;gi|15895344|ref|NP_348693.1| Arginine repressor, argR [Clostridi... [ score 89 E 2e-17 ] [ range 5 .. 62 ]
+sequence
+---------RHTKILEIINLKDIETQEELAEELRRSGM-EVTQATVSRDIKELKLIKVLSSKGRYKYA--
+--------------------*
+>P1;gi|22538236|ref|NP_689087.1| arginine repressor ArgR, putative [... [ score 89 E 2e-17 ] [ range 5 .. 74 ]
+sequence
+--------ERQKRIKRLIQSGQIGTQEEIKLHLKNEGI-DVTQATLSRDLREIGLLKLRSPEGKLYYSLS
+TSNRFSP-------------*
+>P1;gi|29833309|ref|NP_827943.1| putative repressor of arg regulon [... [ score 89 E 2e-17 ] [ range 21 .. 87 ]
+sequence
+---------RHRRIVDILNRQPVRSQSQLAKLLADDGL-SVTQATLSRDLDELNAVKIRNNDGDLIYAVP
+SEGGFRT-------------*
+>P1;gi|15675892|ref|NP_270066.1| putative arginine repressor [Strept... [ score 89 E 3e-17 ] [ range 5 .. 74 ]
+sequence
+--------ERQQQIKRIIQAEHIGTQEDIKNHLQKEGI-VVTQATLSRDLREIGLLKLRDEQGKLYYSLP
+VATPFSP-------------*
+>P1;gi|21220074|ref|NP_625853.1| arginine repressor [Streptomyces co... [ score 89 E 3e-17 ] [ range 22 .. 88 ]
+sequence
+---------RHRRIVDILNRQAVRSQSQLAKLLADDGL-TVTQATLSRDLDELNAVKIRNTDGDLIYAVP
+SEGGFRT-------------*
+>P1;gi|42779551|ref|NP_976798.1| arginine repressor [Bacillus cereus... [ score 89 E 4e-17 ] [ range 5 .. 78 ]
+sequence
+--------KRQRLIKQFVKEYEIEKQERLVELLAKKDV-LVTQATVSRDIRELNVTKVPSQEGLMIYKIF
+SEEHLQTDIKLKK-------*
+>P1;gi|15827741|ref|NP_302004.1| arginine repressor [Mycobacterium l... [ score 88 E 4e-17 ] [ range 17 .. 79 ]
+sequence
+---------RQARIVAILSSTSVRSQSELATLLADDGI-DVTQATLSRDLEELGAVKLRGADGGVVYVVP
+ED------------------*
+>P1;gi|29374753|ref|NP_813905.1| transcriptional regulator, ArgR fam... [ score 88 E 4e-17 ] [ range 5 .. 75 ]
+sequence
+--------KRQTMIKRLVTENEIHTQSELLALLEKENI-HTTQATISRDIRELNLNKVDNGQGEAYYRIL
+NNSALRPKYK----------*
+>P1;gi|30018613|ref|NP_830244.1| Arginine repressor, argR [Bacillus ... [ score 88 E 4e-17 ] [ range 5 .. 78 ]
+sequence
+--------KRQRLIKQFVKEYEIDKQERLVELLAKKDV-LVTQATVSRDIRELNLTKVPSQEGLMIYKVF
+SEEHLQTDIKLKK-------*
+>P1;gi|15902837|ref|NP_358387.1| Arginine repressor [Streptococcus p... [ score 87 E 7e-17 ] [ range 6 .. 74 ]
+sequence
+--------HRHQLIRALITKNKIHTQAELQALLAKNDI-QVTQATLSRDIKNMNLSKVREEDSAYY--VL
+NNGSISKWEK----------*
+>P1;gi|15608795|ref|NP_216173.1| argR [Mycobacterium tuberculosis H3... [ score 87 E 7e-17 ] [ range 21 .. 83 ]
+sequence
+---------RQARIVAILSSAQVRSQNELAALLAAEGI-EVTQATLSRDLEELGAVKLRGADGGTIYVVP
+ED------------------*
+>P1;gi|24380427|ref|NP_722382.1| putative transcriptional regulator ... [ score 87 E 9e-17 ] [ range 6 .. 67 ]
+sequence
+---------RQNKIKQIIRSKHIGTQEELKHQLELEKV-FVTQATLSRDMRELGLFKSRDKEGYLYYEIP
+EN------------------*
+>P1;gi|20807750|ref|NP_622921.1| Arginine repressor [Thermoanaerobac... [ score 87 E 9e-17 ] [ range 6 .. 77 ]
+sequence
+---------RHAKILEIISEKEIETQEELAAELQKRGI-DVTQATVSRDIKELRLIKVLTEDGRYKYAPM
+TKVDTNISERL---------*
+>P1;gi|15675400|ref|NP_269574.1| putative repressor protein [Strepto... [ score 87 E 1e-16 ] [ range 5 .. 67 ]
+sequence
+--------ERLELIKKMVLTHPIETQHDLLRLLAEHGL-ELTQATISRDMNEIGIVKIPSGSGRYIYGLS
+QD------------------*
+>P1;gi|44622485|gb|EAK54824.1| unknown [environmental sequence] [ score 85 E 2e-16 ] [ range 7 .. 80 ]
+sequence
+--------QRQKLIADLIEEGKITSQNQLKGMLKKEGI-SITQATLSRDLTEIGASKKRDSNNNLKYILP
+KDDVNNAQKSIAK-------*
+>P1;gi|17371489|sp|P95721|ARGR_STRCL Arginine repressor >gi|7328266|... [ score 85 E 3e-16 ] [ range 21 .. 81 ]
+sequence
+---------RHRRIVDILNRQPVRSQSQLAKLLADNGL-SVTQATLSRDLDELGAVKIRNTMARLIYAVP
+A-------------------*
+>P1;gi|24379062|ref|NP_721017.1| putative arginine repressor [Strept... [ score 85 E 3e-16 ] [ range 5 .. 67 ]
+sequence
+--------ERLELIKKIVLENEIETQKELVKLLENEGL-QATQATISRDINEVGIIKVPASNSRYIYGLS
+KE------------------*
+>P1;gi|1321790|emb|CAA66368.1| ahrC [Clostridium perfringens] [ score 85 E 4e-16 ] [ range 9 .. 73 ]
+sequence
+---------RHEVILDIIESKCICKQEELIIELKECGI-NVTQATLSRDLHEMNIIRKSFENHEHRYIVT
+KEDKF---------------*
+>P1;gi|24940640|gb|AAN65260.1| ArcR [Streptococcus gordonii] [ score 85 E 4e-16 ] [ range 7 .. 62 ]
+sequence
+---------RHRLIRSLIMEKKVHTQQELQELLEANGV-IVTQSTLSRDMKALNLVKVTENNISYY----
+--------------------*
+>P1;gi|29375274|ref|NP_814427.1| arginine repressor [Enterococcus fa... [ score 84 E 7e-16 ] [ range 5 .. 78 ]
+sequence
+--------ERQRLIKQLIMQQEIETQDELITRLEEIGV-RATQATVSRDIREMSIVKTHGADGRVKYAIF
+SQQGTSSEEKLR--------*
+>P1;gi|22990457|ref|ZP_00035310.1| COG1438: Arginine repressor [Ente... [ score 84 E 9e-16 ] [ range 8 .. 74 ]
+sequence
+--------QRQALIRQIITEQPIGTQEELLARLHEAGA-DVTQATISRDIREMKLVKSQNENKIVRYTLF
+NQPSVS--------------*
+>P1;gi|14349114|emb|CAC41339.1| putative arginine repressor [Enteroc... [ score 84 E 1e-15 ] [ range 5 .. 75 ]
+sequence
+--------KRQTMIKRLVTENEIQTQSELLALLEKENI-HTTQATISGDIRELNLNKVDNGQGEAYYRIL
+NNSALRPKYK----------*
+>P1;gi|44150567|gb|EAH40298.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 7 .. 80 ]
+sequence
+--------QRQKLIADLIEEGKITSQNQLKGILKNNGI-SITQATLSRDLTEIGASKKRDSKNNLKYILP
+KDDINNAQKSIAK-------*
+>P1;gi|44553267|gb|EAK05883.1| unknown [environmental sequence] [ score 81 E 5e-15 ] [ range 7 .. 80 ]
+sequence
+--------QRQKIIADLIDEGKITSQNQLKGILNKKGI-PITQATLSRDLSEIGATKKRNSNNDLKYILP
+KDDINNAQKSISR-------*
+>P1;gi|22538294|ref|NP_689145.1| transcriptional regulator, ArgR fam... [ score 81 E 6e-15 ] [ range 7 .. 81 ]
+sequence
+---------RHQLIRSLVSETKVRTQHELRELLEKNGV-SVTQATLSRDMKELNLIKVNESSDNTYYEIH
+SISQKRWEERLR--------*
+>P1;gi|19855068|sp|O85175|ARGR_CORGL Arginine repressor >gi|4104875|... [ score 76 E 2e-13 ] [ range 21 .. 99 ]
+sequence
+---------RQALILQILDKQKVTSQVQLSELLLDEGI-DITQATLSRDLDELGARKVRPDGGRAYYAIA
+REDLRGPSEKLRR-------*
+>P1;gi|25028087|ref|NP_738141.1| arginine repressor [Corynebacterium... [ score 75 E 4e-13 ] [ range 32 .. 110 ]
+sequence
+---------RQALIVQILNRQRVTSQVQLSELLLDEGI-DITQATLSRDLDELGARKVRPDRGRAFYAIP
+VDTTIGPQEKLRR-------*
+>P1;gi|15674021|ref|NP_268196.1| arginine catabolic regulator [Lacto... [ score 73 E 1e-12 ] [ range 5 .. 62 ]
+sequence
+--------KRLEIIKEIVTNNKISTQEELQSLLLERGV-EVTQATLSRDIRKLNIIKKRD-KGESFYS--
+--------------------*
+>P1;gi|38233762|ref|NP_939529.1| Arginine repressor [Corynebacterium... [ score 72 E 3e-12 ] [ range 11 .. 74 ]
+sequence
+---------RQALILDLLEQNQVSSQMQLSELLKQRGV-DITQGTLSRDLDELGAKKIRPNGGRAFYAVG
+TSED----------------*
+>P1;gi|23024388|ref|ZP_00063602.1| COG1438: Arginine repressor [Leuc... [ score 70 E 9e-12 ] [ range 15 .. 78 ]
+sequence
+--------ERQKLILDIIQDNIIASQEELLAQLIKHGV-ETTQTTVSRDIRAMNIIRQKSDSGQLRYQQL
+NDT-----------------*
+>P1;gi|39753481|gb|AAR30327.1| ArcR [Streptococcus ratti] [ score 69 E 2e-11 ] [ range 8 .. 69 ]
+sequence
+---------RQSKIKKIIKLKSIGTQEELKRQLELEKV-FATQATLSRDMRELGLFKSRDKEGRLYYEIP
+EN------------------*
+>P1;gi|23335289|ref|ZP_00120526.1| COG1438: Arginine repressor [Bifi... [ score 68 E 5e-11 ] [ range 17 .. 75 ]
+sequence
+---------RLSAIEQALATHIITSQSQLSKILIDEGI-AVTQATLSRDLDEMHAVKTRLKDGTVAYAV-
+--------------------*
+>P1;gi|15901894|ref|NP_346498.1| transcriptional repressor, putative... [ score 67 E 9e-11 ] [ range 6 .. 67 ]
+sequence
+---------RHQLIKKMITEEKLSTQKEIQDRLEAHNV-CVTQTTLSRDLREIGLTKVK-KNDMVYYVLV
+NET-----------------*
+>P1;gi|29374754|ref|NP_813906.1| transcriptional regulator, ArgR fam... [ score 67 E 1e-10 ] [ range 6 .. 76 ]
+sequence
+---------RQSLIKEIIQTTVIHSQNELLRELKKREI-NVAQATISRDLWELKVVKALDESGEMRLTIF
+E--QFTSLEERKK-------*
+>P1;gi|34540781|ref|NP_905260.1| transcriptional regulator, putative... [ score 65 E 3e-10 ] [ range 4 .. 68 ]
+sequence
+--------KRLDAIRRHILRSEISTQEELQTALLSEDI-PVSQATLSRDLEILGIEKSASPSGKKVYILP
+RDNR----------------*
+>P1;gi|43686196|gb|EAE98265.1| unknown [environmental sequence] [ score 65 E 4e-10 ] [ range 1 .. 48 ]
+sequence
+----------------------------------KNGT-VITQATLSRDLSEIGAIKKRLKNGRLVYLLP
+KNQDNNAQYKIAK-------*
+>P1;gi|19847955|emb|CAD29193.1| putative arginine repressor [Microco... [ score 62 E 3e-09 ] [ range 10 .. 72 ]
+sequence
+---------RQAAIREILATRGIRSQAEPSDALGDRGL-SVTQGTLSRDLVDLGAVWRRGPAG-MVYALP
+AEGD----------------*
+>P1;gi|43326325|gb|EAD28753.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 1 .. 52 ]
+sequence
+-------------------------------LLASEGV-EASQASVSRDLDELGAVKLRAG-GRTVYAIP
+ETQRTVPLEALRR-------*
+>P1;gi|29840302|ref|NP_829408.1| arginine repressor [Chlamydophila c... [ score 56 E 2e-07 ] [ range 9 .. 76 ]
+sequence
+-----------KALKEILNEEGASTQEEICEKLSSLGI-ATTQSSVSRWLKKVHAIKIPGDKGA-RYSLP
+PSIDDSSIKHL---------*
+>P1;gi|16767708|ref|NP_463323.1| putative arginine repressor [Salmon... [ score 52 E 3e-06 ] [ range 13 .. 81 ]
+sequence
+--------QQLAVCQRLISEKSYLSQEEIRRDLQNEGF-EISQSTVSRLLKLLGAIKIRNTKGQKIYSVN
+PQRRPSP-------------*
+>P1;gi|42520325|ref|NP_966240.1| arginine repressor, putative [Wolba... [ score 50 E 1e-05 ] [ range 10 .. 53 ]
+sequence
+-------------ILNIIQNHEILEQSDLQTLLKERGH-NIPQATLSRKLKKLKIAKV------------
+--------------------*
+>P1;gi|22990307|ref|ZP_00035194.1| COG1438: Arginine repressor [Ente... [ score 50 E 2e-05 ] [ range 3 .. 39 ]
+sequence
+-----------------------------------YGV-TATQATISRDIRDLKIVKAPDENGVSRFVLF
+REK-----------------*
+>P1;gi|43993454|gb|EAG54461.1| unknown [environmental sequence] [ score 44 E 9e-04 ] [ range 12 .. 78 ]
+sequence
+--------QKQLAIQRLISEKSYLSQEALRRDLQHHGF-TISQSTVSRLLKLLGAIKIRNTKGQKIYSVN
+PQSR----------------*

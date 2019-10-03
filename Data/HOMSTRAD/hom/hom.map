@@ -1,0 +1,1464 @@
+>P1;1ftz
+structureX:1ftz:  -1 : :  68 : :fushi tarazu homeodomain:Drosophila melanogaster:-1:-1
+MDSKRTRQTYTRYQTLELEKEFHFN---RYITRRRRIDIANALS---------------------LSERQ
+IKIWFQNRRMKSKKDR----TLDSSPEH*
+>P1;1hom
+structureN:1hom:   0 : :  67 : :antennapedia homeodomain:Drosophila melanogaster:-1.00:-1.00
+M-RKRGRQTYTRYQTLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKENKTKGEPG-----*
+>P1;2hdda
+structureX:2hdd:   5 :A:  59 :A:segmentation polarity protein engrailed:Drosophila melanogaster: 1.9: 20.5
+------RTAFSSEQLARLKREFNEN---RYLTERRRQQLSSELG---------------------LNEAQ
+IKIWFKNKRAKIKKS-------------*
+>P1;1ftt
+structureX:1ftt:   0 : :  67 : :thyroid transcription factor 1 homeodomain:Rattus norvegicus:-1:-1
+MRRKR-RVLFSQAQVYELERRFKQQ---KYLSAPEREHLASMIH---------------------LTPTQ
+VKIWFQNHRYKMKRQAKDKAAQQ-----*
+>P1;1nk3p
+structureX:1nk3: 108 :P: 170 :P:vnd-nk-2 homeodomain:Drosophila melanogaster:-1: -1
+KKRKR-RVLFTKAQTYELERRFRQQ---RYLSAPEREHLASLIR---------------------LTPTQ
+VKIWFQNHRYKTKRAQNE----------*
+>P1;1akha
+structureX:1akh:  77 :A: 125 :A:mating-type protein A-1:Saccharomyces cerevisiae: 2.5: 20.1
+---------ISPQARAFLEEVFRRK---QSLNSKEKEEVAKKCG---------------------ITPLQ
+VRVWFINKRMRS----------------*
+>P1;1b8ib
+structureX:1b8i: 205 :B: 259 :B:homeobox protein extradenticle:Drosophila melanogaster: 2.40: 22.4
+------RRNFSKQASEILNEYFYSHLSNPYPSEEAKEELARKCG---------------------ITVSQ
+VSNWFGNKRIRYKKN-------------*
+>P1;1lfb
+structureX:1lfb:  13 : :  89 : :transcription factor LFB homeodomain:Rattus rattus: 2.80:21.20
+------RFKWGPASQQILFQAYERQ---KNPSKEERETLVEECNRAECIQRGVSPSQAQGLGSNLVTEVR
+VYNWFANRRKEEAFRH------------*
+>P1;gi|34395628|sp|Q24645|HMAN_DROSU Homeotic antennapedia protein >... [ score 163 E 6e-40 ] [ range 312 .. 378 ]
+sequence
+-ERKRGRQTYTRYQTLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKEN----KTKGEP--*
+>P1;gi|798833|emb|CAA54348.1| DmCDS [Drosophila melanogaster] [ score 163 E 1e-39 ] [ range 323 .. 387 ]
+sequence
+-ETKRQRTSYTRYQTLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKEH----KMAS----*
+>P1;gi|17137270|ref|NP_477201.1| Deformed CG2189-PA [Drosophila mela... [ score 161 E 4e-39 ] [ range 364 .. 430 ]
+sequence
+MEPKRQRTAYTRHQILELEKEFHYN---RYLTRRRRIEIAHTLV---------------------LSERQ
+IKIWFQNRRMKWKKDN----KLPNT---*
+>P1;gi|8182211|gb|AAB28662.2| Hoxa-4 [Mus sp.] >gi|9488660|gb|AAB307... [ score 160 E 7e-39 ] [ range 179 .. 244 ]
+sequence
+-EPKRSRTAYTRQQVLELEKEFHFN---RYLTRRRRIEIAHTLC---------------------LSERQ
+VKIWFQNRRMKWKKDH----KLPNT---*
+>P1;gi|4322038|gb|AAD15929.1| homeobox protein [Petromyzon marinus] [ score 159 E 1e-38 ] [ range 226 .. 290 ]
+sequence
+-EGKRSRTAYTRYQTLELEKEFHFN---RYLTRRRRIEVANALC---------------------LSERQ
+IKIWFQNRRMKWKKDN----KLKS----*
+>P1;gi|3445428|emb|CAA07498.1| homeobox protein [Cupiennius salei] [ score 157 E 5e-38 ] [ range 132 .. 198 ]
+sequence
+IEPKRQRTAYTRHQILELEKEFHFN---RYLTRRRRIEIAHALC---------------------LSERQ
+IKIWFQNRRMKWKKDN----KLPNT---*
+>P1;gi|27374286|gb|AAO01040.1| ftz-PA [Drosophila pseudoobscura] [ score 157 E 7e-38 ] [ range 286 .. 354 ]
+sequence
+-DSKRTRQTYTRYQTLELEKEFHFN---RYITRRRRVDIANALS---------------------LSERQ
+IKIWFQNRRMKSKKDR----TLEGSPEH*
+>P1;gi|21886813|ref|NP_032295.1| homeo box B6 [Mus musculus] >gi|123... [ score 156 E 1e-37 ] [ range 145 .. 212 ]
+sequence
+-SGRRGRQTYTRYQTLELEKEFHYN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKES----KLLSASQ-*
+>P1;gi|18858835|ref|NP_571193.1| homeo box B4a; homeobox gene B-4 [D... [ score 155 E 3e-37 ] [ range 150 .. 215 ]
+sequence
+-EPKRSRTAYTRQQVLELEKEFHYN---RYLTRRRRVEIAHTLC---------------------LSERQ
+IKIWFQNRRMKWKKDH----KLPNT---*
+>P1;gi|13489077|ref|NP_076919.1| homeobox protein A6; homeobox prote... [ score 155 E 3e-37 ] [ range 156 .. 221 ]
+sequence
+---RRGRQTYTRYQTLELEKEFHFN---RYLTRRRRIEIANALC---------------------LTERQ
+IKIWFQNRRMKWKKEN----KLINSTQ-*
+>P1;gi|32307801|gb|AAP79297.1| hox4 [Saccoglossus kowalevskii] [ score 154 E 4e-37 ] [ range 183 .. 248 ]
+sequence
+-EHKRTRTAYTRYQVLELEKEFHFN---RYLTRRRRIEIAHALG---------------------LTERQ
+IKIWFQNRRMKWKKDH----NLPNT---*
+>P1;gi|14916600|sp|Q9PWD2|HXA4_MORSA Homeobox protein Hox-A4 >gi|566... [ score 153 E 6e-37 ] [ range 150 .. 213 ]
+sequence
+---KRSRTAYTRQQALELEKEFHFN---RYLTRRRRVEIAHTMC---------------------LSERQ
+VKIWFQNRRMKWKKEH----KLPNT---*
+>P1;gi|1346304|sp|P48590|HMFT_DROHY Segmentation protein fushi taraz... [ score 153 E 7e-37 ] [ range 282 .. 350 ]
+sequence
+-DSKRTRQTYSRYQTLELEKEFHFN---RYITRRRRMDIAHALN---------------------LSERQ
+IKIWFQNRRMKSKKDR----TLEASPDH*
+>P1;gi|14916584|sp|Q9IA11|HXD5_HETFR Homeobox protein Hox-D5 >gi|727... [ score 153 E 7e-37 ] [ range 175 .. 240 ]
+sequence
+LEGKRTRTAYTRYQTLELEKEFHYN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKDN----KLKS----*
+>P1;gi|4322040|gb|AAD15930.1| homeobox protein [Petromyzon marinus] [ score 153 E 7e-37 ] [ range 161 .. 225 ]
+sequence
+-DRRRGRQTYSRYQTLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKEH----NIPS----*
+>P1;gi|3023938|sp|Q91771|HB7A_XENLA Homeobox protein Hox-B7 A (XlHbo... [ score 153 E 9e-37 ] [ range 139 .. 207 ]
+sequence
+-DRKRGRQTYTRYQTLELEKEFHFN---RYLTRRRRIEIAHVLC---------------------LTERQ
+IKIWFQNRRMKWKKEN----KASSPSSN*
+>P1;gi|34484444|gb|AAQ72844.1| HoxB6b [Sphoeroides nephelus] [ score 151 E 4e-36 ] [ range 154 .. 221 ]
+sequence
+-SGRRGRQTYTRYQTLELEKEFHFN---RYLTRRRRIEISHALC---------------------LTERQ
+IKIWFQNRRMKWKKEN----KLLNPSK-*
+>P1;gi|7527478|gb|AAF63162.1| fushi tarazu-like protein [Archegozete... [ score 150 E 6e-36 ] [ range 197 .. 261 ]
+sequence
+---KRTRQTYTRYQTLELEKEFHFN---RYLTRRRRIEIAHSLG---------------------LTERQ
+IKIWFQNRRMKAKKEN----KIKVDP--*
+>P1;gi|38016605|gb|AAR07636.1| transcription factor Hox5 [Ptychodera... [ score 150 E 6e-36 ] [ range 149 .. 217 ]
+sequence
+MEAKRSRTAYTRYQTLELEKEFHFN---RYLTRRRRIEIAHALG---------------------LSERQ
+IKIWFQNRRMKWKKEH----NVKSISQ-*
+>P1;gi|16508129|gb|AAL17914.1| homeobox protein hox4x [Petromyzon ma... [ score 150 E 1e-35 ] [ range 298 .. 358 ]
+sequence
+------RTAYTRHQALELEKEFHFN---RYLTRRRRVEVANALC---------------------LSERQ
+IKIWFQNRRMKWKKDH----RLPNT---*
+>P1;gi|14916596|sp|Q9IA24|HXA6_HETFR Homeobox protein Hox-A6 >gi|727... [ score 149 E 2e-35 ] [ range 152 .. 217 ]
+sequence
+---RRGRQTYTRFQTLELEKEFHFN---RYLTRRRRIEIANALC---------------------LTERQ
+IKIWFQNRRMKWKKEN----KLLNTTE-*
+>P1;gi|18150505|gb|AAL61642.1| Hox4w [Petromyzon marinus] [ score 149 E 2e-35 ] [ range 186 .. 249 ]
+sequence
+---KRSRTAYTRQQVLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKDH----KLPNT---*
+>P1;gi|1079215|pir||S50067 homeotic protein Hox-6 - Florida lancelet... [ score 148 E 2e-35 ] [ range 133 .. 197 ]
+sequence
+-EKKRGRQTYTRYQTLELEKEFHFN---KYLTRKRRIEIAHLLG---------------------LTERQ
+IKIWFQNRRMKWKKEN----KIPS----*
+>P1;gi|22316135|emb|CAD44457.1| SI:dZ227H09.2 (homeo box protein B6b... [ score 148 E 2e-35 ] [ range 148 .. 211 ]
+sequence
+---RRGRQTYTRFQTLELEKEFHFN---RYLTRRRRIEISHALC---------------------LTERQ
+IKIWFQNRRMKWKKEN----KAVNS---*
+>P1;gi|27665528|ref|XP_235702.1| similar to homeo box C5 [Rattus nor... [ score 148 E 3e-35 ] [ range 154 .. 218 ]
+sequence
+-DGKRSRTSYTRYQTLELEKEFHFN---RYLTRRRRIEIANNLC---------------------LNERQ
+IKIWFQNRRMKWKKDS----KMKS----*
+>P1;gi|5002502|dbj|BAA78622.1| AmphiHox4 [Branchiostoma floridae] [ score 148 E 3e-35 ] [ range 170 .. 235 ]
+sequence
+-DTKRSRTAYTRQQVLELEKEFHFN---RYLTRRRRIEIAHSLG---------------------LTERQ
+IKIWFQNRRMKWKKDN----RLPNT---*
+>P1;gi|37625188|gb|AAQ95789.1| HOXD4 [Xenopus laevis] [ score 148 E 3e-35 ] [ range 127 .. 192 ]
+sequence
+-EPKRSRTAYTRQQVLELEKEFHFN---RYLTRRRRIEIAHSLC---------------------LSECQ
+IKIWFQNRRMKWKKDH----KLPNT---*
+>P1;gi|585281|sp|Q08624|HXC4_MOUSE Homeobox protein Hox-C4 (Hox-3.5)... [ score 148 E 4e-35 ] [ range 155 .. 220 ]
+sequence
+-EPKRSRTAYTRQQVLELEKEFHYN---RYLTRRRRIEIAHSLC---------------------LSERQ
+IKIWFQNRRMKWKKDH----RLPNT---*
+>P1;gi|2564231|emb|CAA05151.1| Hox 5 [Ciona intestinalis] [ score 147 E 7e-35 ] [ range 142 .. 205 ]
+sequence
+--SKRTRTAYTRYQTLELEKEFHYN---RYLTRRRRIEVAHTLC---------------------LTERQ
+IKIWFQNRRMKWKKEN----KLSS----*
+>P1;gi|38016607|gb|AAR07637.1| transcription factor Hox6 [Ptychodera... [ score 147 E 8e-35 ] [ range 149 .. 216 ]
+sequence
+-DQRRGRQTYTRYQTLELEKEFHFN---RYLTRRRRIEIAHALG---------------------LTERQ
+IKIWFQNRRMKWKKEQ----KMSDSKP-*
+>P1;gi|26984635|emb|CAD59112.1| SI:dZ254O17.2 (homeo box protein B7a... [ score 146 E 1e-34 ] [ range 144 .. 205 ]
+sequence
+-DRKRGRQTYSRYQTLELEKEFHFN---RYLSRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKEN----K-------*
+>P1;gi|85790|pir||S00992 homeotic protein Hox 1 - African clawed frog [ score 146 E 1e-34 ] [ range 140 .. 205 ]
+sequence
+-DRRRGRQIYSRYQTLELEKEFHFN---RYLTRRRRIEIANALC---------------------LTERQ
+IKIWFQNRRMKWKKES----NLSST---*
+>P1;gi|2352536|gb|AAB69194.1| LOX20 homeodomain protein [Helobdella ... [ score 145 E 2e-34 ] [ range 18 .. 83 ]
+sequence
+VDNKRTRTSYTRHQTLELEKEFHFN---RYLSRRRRIEIAHVLN---------------------LSERQ
+IKIWFQNRRMKWKKDH------PNHP--*
+>P1;gi|2582183|gb|AAB82458.1| LOX6 [Hirudo medicinalis] [ score 145 E 3e-34 ] [ range 95 .. 158 ]
+sequence
+---KRARTSYSRYQTLELEKEFHFN---RYLNGRRRIEIAHSLG---------------------LTERQ
+IKIWFQNRRMKWKKDN----RMPNS---*
+>P1;gi|24266676|gb|AAN52288.1| Hoxb3a protein [Morone saxatilis] [ score 145 E 3e-34 ] [ range 219 .. 282 ]
+sequence
+-SSKRARTAYTSAQLVELEKEFHFN---RYLCRPRRVEMANLLN---------------------LSERQ
+IKIWFQNRRMKYKKDQ----KLK-----*
+>P1;gi|3581956|emb|CAA64693.1| DthoxE [Girardia tigrina] [ score 144 E 5e-34 ] [ range 225 .. 288 ]
+sequence
+-DHKRSRQTYTRYQTLELEKEFHFN---KYLTRRRRIEIAHALS---------------------LTERQ
+IKIWFQNRRMKWKKDH----NIP-----*
+>P1;gi|8650523|gb|AAF78248.1| Hox5 [Haliotis rufescens] [ score 143 E 7e-34 ] [ range 195 .. 258 ]
+sequence
+-ETKRSRTSYTRHQTLELEKEFHYN---KYLTRRRRIEIAHALN---------------------LTERQ
+IKIWFQNRRMKWKKEH----KLS-----*
+>P1;gi|7689357|gb|AAF67745.1| homeodomain protein TgHBox4 [Tripneust... [ score 143 E 8e-34 ] [ range 224 .. 290 ]
+sequence
+-SGRKKRCPYTKFQTLELEKEFLFN---MYLTRDRRLEIARLLS---------------------LTERQ
+VKIWFQNRRMKMKKQN----RAQNYP--*
+>P1;gi|4760768|dbj|BAA77403.1| PLOX3-Dj [Dugesia japonica] [ score 143 E 1e-33 ] [ range 236 .. 303 ]
+sequence
+-DSKRNRTAYTRQQILELEKEFHFN---KYLTRKRRIEIAQSLQ---------------------LSERQ
+VKIWFQNRRMKWKKDH----HLPGNKQ-*
+>P1;gi|6166223|sp|O57374|HXD4_BRARE Homeobox protein Hox-D4 >gi|2736... [ score 142 E 2e-33 ] [ range 145 .. 210 ]
+sequence
+-EPKRSRTAYTRQQVLELEKEFHFN---RYLTRRRRIESAHTLS---------------------LSERQ
+IKIWFQNRRMKWKKDH----KLPNT---*
+>P1;gi|18858853|ref|NP_571605.1| homeo box C6b; homeobox gene Y-6 [D... [ score 142 E 2e-33 ] [ range 134 .. 198 ]
+sequence
+-DRRRGRQIYSRYQTLELEKEFHYN---RYLTRRRRIEIANTLC---------------------LSERQ
+IKIWFQNRRMKWKKES----NLTS----*
+>P1;gi|21362265|ref|NP_034591.1| homeo box B8 [Mus musculus] >gi|276... [ score 142 E 2e-33 ] [ range 146 .. 211 ]
+sequence
+--RRRGRQTYSRYQTLELEKEFLFN---PYLTRKRRIEVSHALG---------------------LTERQ
+VKIWFQNRRMKWKKEN----NKDKFP--*
+>P1;gi|3581946|emb|CAA64696.1| homeodomain protein [Girardia tigrina] [ score 142 E 2e-33 ] [ range 172 .. 234 ]
+sequence
+-NNKRTRQTYTRHQTLELEKEFHFN---KYLTRRRRIEIAHTLI---------------------LTERQ
+IKIWFQNRRMKWKKEH----NI------*
+>P1;gi|34484440|gb|AAQ72842.1| HoxD4b [Sphoeroides nephelus] [ score 142 E 3e-33 ] [ range 155 .. 220 ]
+sequence
+-EPKRLRTAYTRQQVLELEKEFHFS---RYLTRRRRVEVAHTLC---------------------LSERQ
+VKVWFQNRRMRWKKDN----KLPNT---*
+>P1;gi|27525473|emb|CAD59669.1| putative homeobox protein 4 [Ciona i... [ score 141 E 3e-33 ] [ range 108 .. 173 ]
+sequence
+-SGKRPRTAYTRHQVLELEKEFHYN---RYLTRRRRIEIALGLC---------------------LSERQ
+VKIWFQNRRMKWKKDH----KLPNT---*
+>P1;gi|22316134|emb|CAD44456.1| SI:dZ227H09.1 (homeo box protein B8b... [ score 141 E 3e-33 ] [ range 145 .. 210 ]
+sequence
+--RRRGRQTYSRYQTLELEKEFLFN---PYLTRKRRIEVSHALA---------------------LTERQ
+VKIWFQNRRMKWKKEH----NKDKFP--*
+>P1;gi|1708286|sp|P50901|HOX3_BRAFL Homeobox protein HOX3 >gi|477494... [ score 140 E 6e-33 ] [ range 136 .. 197 ]
+sequence
+---KRARTAYTSAQLVELEKEFHFN---RYLCRPRRVEMAAMLN---------------------LTERQ
+IKIWFQNRRMKYKKEQ----KVK-----*
+>P1;gi|2911356|gb|AAC04332.1| homeobox protein HoxQ8 [Petromyzon mar... [ score 140 E 9e-33 ] [ range 174 .. 239 ]
+sequence
+--RRRGRQTYSRFQTLELEKEFLFN---PYLTRKRRIEVSHALG---------------------LTERQ
+VKIWFQNRRMKWKKEN----NKDSFP--*
+>P1;gi|21389051|gb|AAM50460.1| Diva [Sacculina carcini] [ score 139 E 1e-32 ] [ range 221 .. 283 ]
+sequence
+VTAKRTRQSYTRYQTLELEKEFRTN---RYLTRRRRIEIARTVA---------------------LTERQ
+IKIWFQNRRMKAKKEH----K-------*
+>P1;gi|34873483|ref|XP_220894.2| similar to Homeobox protein Hox-B2 ... [ score 139 E 2e-32 ] [ range 142 .. 208 ]
+sequence
+--SRRLRTAYTNTQLLELEKEFHFN---KYLCRPRRVEIAALLD---------------------LTERQ
+VKVWFQNRRMKHKRQT----QHREPPD-*
+>P1;gi|400018|sp|P23463|HXD8_MOUSE Homeobox protein Hox-D8 (Hox-4.3)... [ score 139 E 2e-32 ] [ range 195 .. 260 ]
+sequence
+--RRRGRQTYSRFQTLELEKEFLFN---PYLTRKRRIEVSHTLA---------------------LTERQ
+VKIWFQNRRMKWKKEN----NKDKFP--*
+>P1;gi|9967824|emb|CAC06383.1| Antennapedia protein [Apis mellifera] [ score 167 E 9e-41 ] [ range 270 .. 336 ]
+sequence
+--RKRGRQTYTRYQTLELEKEFHYN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKENKSKGTPG-----*
+>P1;gi|6754234|ref|NP_034585.1| homeobox protein A7 [Mus musculus] >... [ score 161 E 4e-39 ] [ range 129 .. 193 ]
+sequence
+--RKRGRQTYTRYQTLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKEHKDESQ-------*
+>P1;gi|18307792|gb|AAL67685.1| antennapedia [Artemia franciscana] [ score 159 E 2e-38 ] [ range 269 .. 335 ]
+sequence
+--RKRGRQTYTRFQTLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKENKSKVDSG-----*
+>P1;gi|21322228|ref|NP_034590.1| homeo box B7 [Mus musculus] >gi|123... [ score 158 E 2e-38 ] [ range 137 .. 202 ]
+sequence
+--RKRGRQTYTRYQTLELEKEFHYN---RYLTRRRRIEIAHTLC---------------------LTERQ
+IKIWFQNRRMKWKKENKTSG-PG-----*
+>P1;gi|123319|sp|P09080|HMB1_TRIGR Homeobox protein HB1 (TGHBOX1) >g... [ score 153 E 6e-37 ] [ range 189 .. 253 ]
+sequence
+--RKRCRQTYTRYQTLELEKEFHFN---RYLTRRRRIELSHLLG---------------------LTERQ
+IKIWFQNRRMKYKKESKNKEE-------*
+>P1;gi|24647534|ref|NP_732176.1| abdominal A CG10325-PB [Drosophila ... [ score 150 E 9e-36 ] [ range 398 .. 462 ]
+sequence
+--RRRGRQTYTRFQTLELEKEFHFN---HYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKLKKELRAVKE-------*
+>P1;gi|969086|gb|AAA84412.1| UBXIB [ score 150 E 1e-35 ] [ range 294 .. 359 ]
+sequence
+L-RRRGRQTYTRYQTLELEKEFHTN---HYLTRRRRIEMAHALC---------------------LTERQ
+IKIWFQNRRMKLKKEIQAIKE-------*
+>P1;gi|14916602|sp|Q9PWD4|HXA7_MORSA Homeobox protein Hox-A7 >gi|566... [ score 150 E 1e-35 ] [ range 126 .. 188 ]
+sequence
+--RKRGRQTYSRYQTLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LSERQ
+IKIWFQNRRMKWKKDHKEE---------*
+>P1;gi|2209200|gb|AAB61442.1| LOX5 [Helobdella robusta] [ score 147 E 7e-35 ] [ range 263 .. 329 ]
+sequence
+--QKRTRQTYTRYQTLELEKEFYSN---RYLTRRRRIEIAHSLA---------------------LSERQ
+IKIWFQNRRMKWKKENNVQKLTG-----*
+>P1;gi|38004412|gb|AAR07505.1| Abd-A-like protein [Schistosoma mansoni] [ score 145 E 2e-34 ] [ range 513 .. 577 ]
+sequence
+--RRRGRQTYSRYQTLELEKEFQYS---HYLTRRRRIEIAHNLC---------------------LTERQ
+IKIWFQNRRMKLKKERQQIKE-------*
+>P1;gi|27374286|gb|AAO01040.1| ftz-PA [Drosophila pseudoobscura] [ score 143 E 7e-34 ] [ range 288 .. 352 ]
+sequence
+---KRTRQTYTRYQTLELEKEFHFN---RYITRRRRVDIANALS---------------------LSERQ
+IKIWFQNRRMKSKKDRTLEGSP------*
+>P1;gi|1346304|sp|P48590|HMFT_DROHY Segmentation protein fushi taraz... [ score 143 E 1e-33 ] [ range 284 .. 348 ]
+sequence
+---KRTRQTYSRYQTLELEKEFHFN---RYITRRRRMDIAHALN---------------------LSERQ
+IKIWFQNRRMKSKKDRTLEASP------*
+>P1;gi|22316134|emb|CAD44456.1| SI:dZ227H09.1 (homeo box protein B8b... [ score 143 E 1e-33 ] [ range 145 .. 210 ]
+sequence
+--RRRGRQTYSRYQTLELEKEFLFN---PYLTRKRRIEVSHALA---------------------LTERQ
+VKIWFQNRRMKWKKEHNKDKFP------*
+>P1;gi|21362261|ref|NP_034596.1| homeo box C8 [Mus musculus] >gi|348... [ score 142 E 2e-33 ] [ range 149 .. 215 ]
+sequence
+--RRSGRQTYSRYQTLELEKEFLFN---PYLTRKRRIEVSHALG---------------------LTERQ
+VKIWFQNRRMKWKKENNKDKLPG-----*
+>P1;gi|72257|pir||WJFFFT fushi tarazu segmentation protein - fruit f... [ score 141 E 3e-33 ] [ range 258 .. 322 ]
+sequence
+---KRTRQTYTRYQTLELEKEFHFN---RYITRRRRIDIANALS---------------------LSERQ
+IKIWFQNRRMKSKKDRTLDSSP------*
+>P1;gi|7689357|gb|AAF67745.1| homeodomain protein TgHBox4 [Tripneust... [ score 141 E 5e-33 ] [ range 226 .. 290 ]
+sequence
+---RKKRCPYTKFQTLELEKEFLFN---MYLTRDRRLEIARLLS---------------------LTERQ
+VKIWFQNRRMKMKKQNRAQNYP------*
+>P1;gi|18858851|ref|NP_571198.1| homeo box C6a; homeobox gene C-6 [D... [ score 140 E 7e-33 ] [ range 142 .. 209 ]
+sequence
+--RRRGRQIYSRYQTLELEKEFHFN---RYLTRRRRIEIANALC---------------------LTERQ
+IKIWFQNRRMKWKKENLTSTVPG-----*
+>P1;gi|539421|pir||B40722 homeotic protein lin-32 - Caenorhabditis e... [ score 140 E 8e-33 ] [ range 201 .. 262 ]
+sequence
+---KRQRTAYTRNQVLELEKEFHTH---KYLTRKRRIEVAHSLM---------------------LTERQ
+VKIWFQNRRMKHKKENKDK---------*
+>P1;gi|3581955|emb|CAA64692.1| homeodomain protein [Girardia tigrina] [ score 139 E 1e-32 ] [ range 262 .. 326 ]
+sequence
+--KRRGRQTYSRHQTLELEKEFQFN---HYLTRRRRIEIAHNLC---------------------LSERQ
+IKIWFQNRRMKLKKERQQIRE-------*
+>P1;gi|4204923|gb|AAD10852.1| hox homeobox transcription factor HOXB... [ score 138 E 4e-32 ] [ range 189 .. 251 ]
+sequence
+---KRARTAYTSAHVVELEKEFHFN---RYLCRPRRVEMANLLN---------------------LSERQ
+IKIWFQNRRMKYKKDQKAKG--------*
+>P1;gi|37029992|gb|AAQ88098.1| hox protein Dfd [Schistosoma mansoni] [ score 138 E 4e-32 ] [ range 217 .. 279 ]
+sequence
+---KRTRTAYTRQQILELEKEFHYN---KYLTRKRRLEIAHTLT---------------------LSERQ
+IKIWFQNRRMKWKKEHHLPG--------*
+>P1;gi|17136284|ref|NP_476613.1| labial CG1264-PA [Drosophila melano... [ score 121 E 6e-27 ] [ range 505 .. 558 ]
+sequence
+------RTNFTNKQLTELEKEFHFN---RYLTRARRIEIANTLQ---------------------LNETQ
+VKIWFQNRRMKQKK--------------*
+>P1;gi|214247|gb|AAA49745.1| homeobox gene; putative [ score 118 E 4e-26 ] [ range 205 .. 258 ]
+sequence
+------RTNFTTKQLTELEKEFHFN---KYLTRARRIEIANSLQ---------------------LNDTQ
+VKIWFQNRRMKQKK--------------*
+>P1;gi|31219094|ref|XP_316751.1| ENSANGP00000016140 [Anopheles gambi... [ score 117 E 8e-26 ] [ range 21 .. 74 ]
+sequence
+------RTAFTSSQLVELEKEFHSN---RYLCRPRRIELTRKLA---------------------LTERQ
+IKIWFQNRRMKHKK--------------*
+>P1;gi|27689075|ref|XP_220896.1| similar to homeotic protein Hox 2.9... [ score 117 E 8e-26 ] [ range 203 .. 256 ]
+sequence
+------RTNFTTRQLTELEKEFHFN---KYLSRARRVEIAATLE---------------------LNETQ
+VKIWFQNRRMKQKK--------------*
+>P1;gi|6912416|ref|NP_034597.1| homeo box D1 [Mus musculus] >gi|2322... [ score 116 E 1e-25 ] [ range 232 .. 285 ]
+sequence
+------RTNFSTKQLTELEKEFHFN---KYLTRARRIEIANCLQ---------------------LNDTQ
+VKIWFQNRRMKQKK--------------*
+>P1;gi|38016621|gb|AAR07644.1| transcription factor Lox2 [Ptychodera... [ score 116 E 1e-25 ] [ range 154 .. 207 ]
+sequence
+------RTAYTRSQLLELEKEFHFN---KYISRPRRIELAAMLN---------------------LTERH
+IKIWFQNRRMKFKK--------------*
+>P1;gi|399997|sp|P31259|HXB1_CHICK Homeobox protein Hox-B1 (Ghox-lab... [ score 116 E 1e-25 ] [ range 217 .. 270 ]
+sequence
+------RTNFTTKQLTELEKEFHFN---KYLTRARRVEIAATLE---------------------LNETQ
+VKIWFQNRRMKQKK--------------*
+>P1;gi|3036961|dbj|BAA25399.1| CsNKX [Ciona savignyi] [ score 129 E 1e-29 ] [ range 370 .. 435 ]
+sequence
+-RRKP-RVLFSQAQVFELERRFKQQ---RYLSAPEREHLAQMLK---------------------LTSTQ
+VKIWFQNRRYKCKRMRQDKTLE------*
+>P1;gi|4218156|emb|CAA08756.1| TTF-1 [Ciona intestinalis] [ score 128 E 3e-29 ] [ range 201 .. 267 ]
+sequence
+-RRKR-RVLFSQAQVFELERRFKQQ---KYLSAPEREHLAQMIH---------------------LTPTQ
+VKIWFQNHRYKNKRSLKDKQTQE-----*
+>P1;gi|27923815|sp|Q8TAU0|NK23_HUMAN Homeobox protein Nkx-2.3 (Homeo... [ score 128 E 5e-29 ] [ range 148 .. 213 ]
+sequence
+-RRKP-RVLFSQAQVFELERRFKQQ---RYLSAPEREHLASSLK---------------------LTSTQ
+VKIWFQNRRYKCKRQRQDKSLE------*
+>P1;gi|14916593|sp|Q9IA21|HXA3_HETFR Homeobox protein Hox-A3 >gi|727... [ score 127 E 6e-29 ] [ range 169 .. 230 ]
+sequence
+--KRA-RTAYTSAQLVELEKEFHFN---RYLCRPRRVEMANLLN---------------------LTERQ
+IKIWFQNRRMKYKKDQKAK---------*
+>P1;gi|5916192|gb|AAD55934.1| homeoprotein CH-Hox3 [Chaetopterus var... [ score 126 E 1e-28 ] [ range 140 .. 205 ]
+sequence
+--KRA-RTAYTSAQLVELEKEFHFN---RYLCRPRRIEMAALLN---------------------LTERQ
+IKIWFQNRRMKYKKEQKQKTGEK-----*
+>P1;gi|417131|sp|Q00401|HMH2_DUGTI Homeobox protein DTH-2 >gi|422328... [ score 126 E 1e-28 ] [ range 133 .. 199 ]
+sequence
+-RRKR-RILFSQAQIYELERRFKQQ---KYLSAPEREHLANLIN---------------------LTPTQ
+VKIWFQNHRYKCKRSQKDKEKEQ-----*
+>P1;gi|41148451|ref|XP_070619.7| similar to homeobox protein NKX2-6 ... [ score 126 E 1e-28 ] [ range 318 .. 383 ]
+sequence
+-RRKP-RVLFSQAQVLALERRFKQQ---RYLSAPEREHLASALQ---------------------LTSTQ
+VKIWFQNRRYKCKRQRQDKSLE------*
+>P1;gi|1708118|sp|P50219|HB9_HUMAN Homeobox protein HB9 >gi|507425|g... [ score 125 E 2e-28 ] [ range 243 .. 310 ]
+sequence
+--RRP-RTAFTSQQLLELEHQFKFN---KYLSRPKRFEVATSLM---------------------LTETQ
+VKIWFQNRRMKWKRKAKEQAAQE-----*
+>P1;gi|22135577|gb|AAM93268.1| NK2.1 homeodomain protein [Ptychodera... [ score 125 E 2e-28 ] [ range 161 .. 227 ]
+sequence
+-RRKR-RVLFSQAQVYELERRFKQQ---KYLSAPEREHLASLIN---------------------LTPTQ
+VKIWFQNHRYKMKRQQKDRTMTE-----*
+>P1;gi|3598976|gb|AAC35350.1| homeobox protein Nkx2-1 [Branchiostoma... [ score 125 E 3e-28 ] [ range 155 .. 217 ]
+sequence
+-RRKR-RVLFSQAQVYELERRFKQQ---KYLSAPEREHLAQLIN---------------------LTPTQ
+VKIWFQNHRYKCKRQDKER---------*
+>P1;gi|5916190|gb|AAD55933.1| homeoprotein CH-Hox2 [Chaetopterus var... [ score 125 E 4e-28 ] [ range 143 .. 204 ]
+sequence
+--RRL-RTAYTNTQLLELEKEFHFN---KYLCRPRRIEIAASLD---------------------LTERQ
+VKVWFQNRRMKFKRQSQGK---------*
+>P1;gi|32307789|gb|AAP79291.1| nkx2-1 [Saccoglossus kowalevskii] [ score 124 E 7e-28 ] [ range 149 .. 215 ]
+sequence
+-RRKR-RVLFSQAQVYELERRYKQQ---KYLSAPEREHLASLIN---------------------LTPTQ
+VKIWFQNHRYKTKRQTKDRTMQE-----*
+>P1;gi|3777535|gb|AAC64924.1| homeodomain protein; MNR2 [Gallus gallus] [ score 123 E 1e-27 ] [ range 154 .. 215 ]
+sequence
+--RRP-RTAFTSQQLLELENQFKLN---KYLSRPKRFEVATSLM---------------------LTETQ
+VKIWFQNRRMKWKRSRKAK---------*
+>P1;gi|3650214|dbj|BAA33413.1| Thyroid Transcription Factor-1 [Haloc... [ score 123 E 1e-27 ] [ range 276 .. 340 ]
+sequence
+-RRKR-RVLFSQAQVFELERRFKQQ---KYLSAPEREHLAQMIR---------------------LTPTQ
+VKIWFQNHRYKNKRALKENGS-------*
+>P1;gi|14010239|gb|AAK51912.1| Hox3 [Folsomia candida] [ score 123 E 1e-27 ] [ range 7 .. 66 ]
+sequence
+--KRA-RTAYTSAQLVELEKEFHYN---RYLCRPRRIEMASLLS---------------------LTERQ
+IKIWFQNRRMKYKKELK-----------*
+>P1;gi|6679068|ref|NP_032726.1| NK2 transcription factor related, lo... [ score 122 E 2e-27 ] [ range 137 .. 202 ]
+sequence
+-RRKP-RVLFSQAQVYELERRFKQQ---RYLSAPERDQLASVLK---------------------LTSTQ
+VKIWFQNRRYKCKRQRQDQTLE------*
+>P1;gi|4583562|emb|CAB40561.1| homeoprotein [Ciona intestinalis] [ score 122 E 2e-27 ] [ range 368 .. 433 ]
+sequence
+--KRE-RTAYTNSQLVELEKEFHFS---HYLCRPRRIELAQGLG---------------------LTERQ
+IKIWFQNRRMKFKKEQKQKAVLQ-----*
+>P1;gi|27525477|emb|CAD59671.1| putative homeobox protein Hox10 [Cio... [ score 122 E 2e-27 ] [ range 255 .. 316 ]
+sequence
+--RKK-RVPYTKYQLLELEKEFHYN---QYLSRERRLEVAKSVK---------------------LTDRQ
+VKIWFQNRRMKWKKERREE---------*
+>P1;gi|21356351|ref|NP_648164.1| extra-extra CG8254-PA [Drosophila m... [ score 122 E 2e-27 ] [ range 440 .. 502 ]
+sequence
+--RRP-RTAFTSQQLLELEKQFKQN---KYLSRPKRFEVASGLM---------------------LSETQ
+VKIWFQNRRMKWKR---SKKAQQ-----*
+>P1;gi|7504250|pir||T22698 hypothetical protein F55B12.1 - Caenorhab... [ score 121 E 6e-27 ] [ range 83 .. 146 ]
+sequence
+-RRKR-RVLFSQAQVYELERRFKQA---KYLTAPEREQLANSIR---------------------LTPTQ
+VKIWFQNHRYKCKRQEKEKA--------*
+>P1;gi|11225250|gb|AAG33015.1| Mnx homeodomain protein [Branchiostom... [ score 120 E 6e-27 ] [ range 156 .. 217 ]
+sequence
+--RRP-RTAFTSQQLLELEKYFKEN---KYLSRPKRFEVATALM---------------------LTETQ
+VKIWFQNRRMKWKRSKKAK---------*
+>P1;gi|45356810|gb|AAS58444.1| NK2.2 [Strongylocentrotus purpuratus] [ score 120 E 7e-27 ] [ range 242 .. 304 ]
+sequence
+-KRKR-RVLFSKAQTYELERRFRQQ---RYLSAPEREHLASIIR---------------------LSPTQ
+VKIWFQNHRYKLKRARQEK---------*
+>P1;gi|462297|sp|Q00400|HMH1_DUGTI Homeobox protein DTH-1 >gi|422327... [ score 120 E 7e-27 ] [ range 377 .. 442 ]
+sequence
+-KRKR-RVLFSKKQILELERHFRQK---KYLSAPEREHLANLIG---------------------LSPTQ
+VKIWFQNHRYKMKRAHHEKALE------*
+>P1;gi|24371274|ref|NP_571496.1| NK2 transcription factor related 5;... [ score 120 E 8e-27 ] [ range 141 .. 206 ]
+sequence
+-RRKP-RVLFSQAQVYELERRFKQQ---KYLSAPERDHLANVLK---------------------LTSTQ
+VKIWFQNRRYKCKRQRQDQTLE------*
+>P1;gi|11602838|gb|AAG38875.1| cardiac homeobox transcription factor... [ score 120 E 1e-26 ] [ range 137 .. 202 ]
+sequence
+-RRKP-RVLFSQAQVYELERRFKQQ---RYLSPAERDQLASVLK---------------------LTSTQ
+VKIWFQNRRYKCKRQRQDQTLE------*
+>P1;gi|38305291|gb|AAR16188.1| Hox class homeodomain-containing prot... [ score 119 E 1e-26 ] [ range 118 .. 177 ]
+sequence
+--KRA-RTAYTSAQLVELEKEFHFN---QYLCRPRRIEMAALLN---------------------LSERQ
+IKIWFQNRRMRFKKEKK-----------*
+>P1;gi|24119201|ref|NP_571607.1| homeo box A9a; homeobox gene X-9 [D... [ score 119 E 2e-26 ] [ range 185 .. 249 ]
+sequence
+--RKK-RCPYTKHQILELEKEFLFN---TYLTRDRRYEVARLLN---------------------LTERQ
+VKIWFQNRRMKMKKFNKNETKE------*
+>P1;gi|17137534|ref|NP_477350.1| brain-specific homeobox CG10604-PA ... [ score 119 E 2e-26 ] [ range 132 .. 194 ]
+sequence
+-RRKA-RTVFSDPQLSGLEKRFEGQ---RYLSTPERVELATALG---------------------LSETQ
+VKTWFQNRRMKHKKQLRRR---------*
+>P1;gi|10129669|emb|CAC08327.1| Distal-less [Ciona intestinalis] [ score 118 E 2e-26 ] [ range 57 .. 117 ]
+sequence
+--RKP-RTIYSSLQLQALNRRFQQT---QYLALPERAELAATLG---------------------LTQTQ
+VKIWFQNRRSKCKKLMKQ----------*
+>P1;gi|798833|emb|CAA54348.1| DmCDS [Drosophila melanogaster] [ score 119 E 2e-26 ] [ range 325 .. 384 ]
+sequence
+--KRQ-RTSYTRYQTLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKEHK-----------*
+>P1;gi|14149641|ref|NP_034586.1| homeobox protein A9 [Mus musculus] ... [ score 118 E 3e-26 ] [ range 206 .. 271 ]
+sequence
+--RKK-RCPYTKHQTLELEKEFLFN---MYLTRDRRYEVARLLN---------------------LTERQ
+VKIWFQNRRMKMKKINKDRAKDE-----*
+>P1;gi|31207989|ref|XP_312961.1| ENSANGP00000020300 [Anopheles gambi... [ score 118 E 3e-26 ] [ range 168 .. 248 ]
+sequence
+-RRKR-RVLFTQAQVYELERRFKQQ---KYLSAPEREHLASLIH---------------------LTPTQ
+VKIWFQNHRYKCKRQAKEKAMAE-----*
+>P1;gi|22087144|gb|AAM90855.1| Amphink2-tin [Branchiostoma floridae] [ score 118 E 4e-26 ] [ range 124 .. 189 ]
+sequence
+-RRKP-RVLFSQAQVFELERRFKQQ---RYLSAPEREQLAQMLK---------------------LTSTQ
+VKIWFQNRRYKCKRQRTDKTLE------*
+>P1;gi|38016601|gb|AAR07634.1| transcription factor Hox1 [Ptychodera... [ score 117 E 5e-26 ] [ range 251 .. 313 ]
+sequence
+------RTNFTNKQLTELEKEFHFN---KYLTRARRVEIAAMLG---------------------LNETQ
+VKIWFQNRRMKQKKRYKEPAFGQ-----*
+>P1;gi|11992381|gb|AAG41495.1| homeodomain protein DlxA [Petromyzon ... [ score 117 E 5e-26 ] [ range 204 .. 264 ]
+sequence
+--RKP-RTIYSSFQLAALQRRFQQT---QYLALPERAELAASLG---------------------LTQTQ
+VKIWFQNRRSKFKKLGKN----------*
+>P1;gi|18858557|ref|NP_571372.1| distal-less homeobox gene 2b; dista... [ score 117 E 6e-26 ] [ range 126 .. 186 ]
+sequence
+--RKP-RTIYSSFQLAALQRRFQKT---QYLALPERAELAASLG---------------------LTQTQ
+VKIWFQNRRSKFKKLWKN----------*
+>P1;gi|2495288|sp|P70118|IPF1_MESAU Insulin promoter factor 1 (IPF-1... [ score 117 E 7e-26 ] [ range 147 .. 210 ]
+sequence
+--KRT-RTAYTRAQLLELEKEFLFN---KYISRPRRVELAVMLN---------------------LTERH
+IKIWFQNRRMKWKKEEDKKRS-------*
+>P1;gi|18859105|ref|NP_571494.1| NK2 transcription factor related 7 ... [ score 117 E 8e-26 ] [ range 123 .. 189 ]
+sequence
+LRRKP-RVLFSQTQVFELERRFKQQ---RYLSAPERDHLALALK---------------------LTSTQ
+VKIWFQNRRYKCKRQRQDKSLE------*
+>P1;gi|11992387|gb|AAG41498.1| homeodomain protein DlxD [Petromyzon ... [ score 117 E 8e-26 ] [ range 117 .. 180 ]
+sequence
+--RKP-RTIYSSLQLQALNRRFQQT---QYLALPERAELAASLG---------------------LTQTQ
+VKIWFQNKRSKYKKLMKAGGA-------*
+>P1;gi|18150503|gb|AAL61641.1| Hox1w [Petromyzon marinus] [ score 117 E 8e-26 ] [ range 302 .. 364 ]
+sequence
+------RTNFSTKQLTELEKEFHFN---KYLTRARRVEIAAALQ---------------------LNETQ
+VKIWFQNRRMKQKKREKEGHSLQ-----*
+>P1;gi|31199517|ref|XP_308706.1| ENSANGP00000021432 [Anopheles gambi... [ score 117 E 8e-26 ] [ range 110 .. 173 ]
+sequence
+--RKP-RTIYSSLQLQQLNRRFQRT---QYLALPERAELAASLG---------------------LTQTQ
+VKIWFQNRRSKYKKMMKAAQA-------*
+>P1;gi|33859582|ref|NP_035050.1| NK2 transcription factor related, l... [ score 117 E 8e-26 ] [ range 50 .. 115 ]
+sequence
+-QRKS-RVLFSQAQVLALERRFKQQ---RYLTAPEREHLASALQ---------------------LTSTQ
+VKIWFQNRRYKSKSQRQDQTLE------*
+>P1;gi|11992385|gb|AAG41496.1| homeodomain protein DlxB [Petromyzon ... [ score 116 E 9e-26 ] [ range 75 .. 134 ]
+sequence
+--RKP-RTIYSSFQLAALQRRFERT---QYLALPERAELAASLG---------------------LTQTQ
+VKIWFQNRRSKFKRLVK-----------*
+>P1;gi|5002498|dbj|BAA78620.1| AmphiHox1 [Branchiostoma floridae] [ score 116 E 1e-25 ] [ range 208 .. 265 ]
+sequence
+------RTNFTTKQLTELEKEFHYN---KYLTRARRVEIAAALN---------------------LNETQ
+VKIWFQNRRMKQKKREKE----------*
+>P1;gi|1170292|sp|P43697|NK22_MESAU Homeobox protein Nkx-2.2 (Homeob... [ score 116 E 1e-25 ] [ range 128 .. 193 ]
+sequence
+-KRKR-RVLFSKAQTYELERRFRQQ---RYLSAPEREHLASLIR---------------------LTPTQ
+VKIWFQNHRYKMKRARAEKGME------*
+>P1;gi|5916188|gb|AAD55932.1| homeoprotein CH-Hox1 [Chaetopterus var... [ score 116 E 1e-25 ] [ range 219 .. 276 ]
+sequence
+------RTNFTNKQLTELEKEFHFN---KYLTRARRIEIAAALG---------------------LNETQ
+VKIWFQNRRMKQKKRMKE----------*
+>P1;gi|123281|sp|P09071|HXA7_XENLA Homeobox protein Hox-A7 (XlHbox-3... [ score 116 E 1e-25 ] [ range 122 .. 187 ]
+sequence
+-RKRG-RQTYTRYQTLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LTERQ
+IKIWFQNRRMKWKKEHKEESDQ------*
+>P1;gi|6252935|dbj|BAA86254.1| HOXA9B [Oryzias latipes] [ score 116 E 2e-25 ] [ range 184 .. 245 ]
+sequence
+--RKK-RCPYTKHQILELEKEFLFN---MYLPRDRRYEVARLLN---------------------LTERQ
+VKIWFQNRRMKMKKENKDR---------*
+>P1;gi|4322080|gb|AAD15949.1| homeobox protein [Danio rerio] [ score 116 E 2e-25 ] [ range 191 .. 255 ]
+sequence
+--RKK-RCPYTKYQTLELEKEFLFN---MYLTRDRRHEVARLLN---------------------LTERQ
+VKIWFQNRRMKMKKMNKDQPKE------*
+>P1;gi|1708273|sp|P50223|HMXX_CHICK Homeobox protein GHOX-7 (CHOX-7)... [ score 116 E 2e-25 ] [ range 162 .. 223 ]
+sequence
+--RKP-RTPFTTAQLLALERKFRQK---QYLSIAERAEFSSSLS---------------------LTETQ
+VKIWFQNRRAKAKRLQEAE---------*
+>P1;gi|5830236|emb|CAB54537.1| DLX3 homeodomain containing protein [... [ score 115 E 2e-25 ] [ range 128 .. 188 ]
+sequence
+--RKP-RTIYSSYQLAALQRRFQKA---QYLALPERAELAAQLG---------------------LTQTQ
+VKIWFQNRRSKFKKLYKN----------*
+>P1;gi|4104152|gb|AAD01958.1| homeodomain protein [Branchiostoma flo... [ score 123 E 1e-27 ] [ range 155 .. 217 ]
+sequence
+KKRKR-RVLFSKAQTYELERRFRQQ---RYLSAPEREHLARLIR---------------------LTPTQ
+VKIWFQNHRYKCKRAQKE----------*
+>P1;gi|33859672|ref|NP_056554.1| gastrulation brain homeobox 1 [Mus ... [ score 118 E 4e-26 ] [ range 315 .. 375 ]
+sequence
+KSRRR-RTAFTSEQLLELEKEFHCK---KYLSLTERSQIAHALK---------------------LSEVQ
+VKIWFQNRRAKWKRIK------------*
+>P1;gi|6680766|ref|NP_031550.1| bagpipe homeobox gene 1 homolog [Mus... [ score 116 E 1e-25 ] [ range 205 .. 265 ]
+sequence
+RKKRS-RAAFSHAQVFELERRFNHQ---RYLSGPERADLAASLK---------------------LTETQ
+VKIWFQNRRYKTKRRQ------------*
+>P1;gi|41149484|ref|XP_372433.1| similar to brain-specific homeodoma... [ score 116 E 1e-25 ] [ range 184 .. 243 ]
+sequence
+RRRKA-RTVFSDSQLSGLEKRFEIQ---RYLSTPERVELATALS---------------------LSETQ
+VKTWFQNRRMKHKKQ-------------*
+>P1;gi|10185809|gb|AAG14451.1| Bar homeobox protein XBH2 [Xenopus la... [ score 116 E 2e-25 ] [ range 176 .. 235 ]
+sequence
+KPRKA-RTAFSDHQLAQLERSFERQ---KYLSVQDRMELAASLN---------------------LTDTQ
+VKTWYQNRRTKWKRQ-------------*
+>P1;gi|28519039|ref|XP_144466.2| similar to BarH-class homeodomain t... [ score 115 E 3e-25 ] [ range 228 .. 287 ]
+sequence
+KPRKA-RTAFSDHQLNQLERSFERQ---KYLSVQDRMDLAAALN---------------------LTDTQ
+VKTWYQNRRTKWKRQ-------------*
+>P1;gi|34786941|emb|CAD37942.1| homeobox protein HOXb1 [Suberites do... [ score 115 E 4e-25 ] [ range 152 .. 214 ]
+sequence
+KKRRP-RALFSHAQVFELERRFAVQ---KYLTAHEREQLASMLH---------------------LTETQ
+VKIWFQNRRYKNKRQQIE----------*
+>P1;gi|20530834|gb|AAK93792.1| homeodomain protein EmxB [Branchiosto... [ score 114 E 6e-25 ] [ range 159 .. 220 ]
+sequence
+KPKRI-RTAFTPSQLLRLEHAFEKN---HYVVGQERKHLAHSLS---------------------LTETQ
+VKVWFQNRRTKHKREQQ-----------*
+>P1;gi|34500401|gb|AAQ73813.1| bagpipe [Drosophila melanogaster] >gi... [ score 114 E 6e-25 ] [ range 174 .. 234 ]
+sequence
+RKKRS-RAAFSHAQVFELERRFAQQ---RYLSGPERSEMAKSLR---------------------LTETQ
+VKIWFQNRRYKTKRKQ------------*
+>P1;gi|24159066|pdb|1MH3|A Chain A, Maltose Binding-A1 Homeodomain P... [ score 96 E 2e-19 ] [ range 372 .. 420 ]
+sequence
+---------ISPQARAFLEQVFRRK---QSLNSKEKEEVAKKCG---------------------ITPLQ
+VRVWFINKRMRS----------------*
+>P1;gi|15238078|ref|NP_199548.1| homeobox-leucine zipper protein 2 (... [ score 86 E 2e-16 ] [ range 134 .. 182 ]
+sequence
+---------LSKDQSAFLEETFKEH---NTLNPKQKLALAKKLN---------------------LTARQ
+VEVWFQNRRART----------------*
+>P1;gi|25487873|pir||T52374 homeobox-leucine zipper protein [importe... [ score 84 E 6e-16 ] [ range 143 .. 191 ]
+sequence
+---------LSKDQSAILEDSFKEH---NTLNPKQKLALAKRLG---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|15227754|ref|NP_179865.1| homeobox-leucine zipper protein 9 (... [ score 83 E 2e-15 ] [ range 117 .. 165 ]
+sequence
+---------LTKQQSALLEESFKDH---STLNPKQKQVLARQLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|21592922|gb|AAM64872.1| homeobox-leucine zipper protein HAT1 ... [ score 83 E 2e-15 ] [ range 139 .. 187 ]
+sequence
+---------LSKDQSAVLEDTFKEH---NTLNPKQKLALAKKLG---------------------LTARQ
+VEVWFQNRRART----------------*
+>P1;gi|22326632|ref|NP_196289.2| homeobox-leucine zipper protein 14 ... [ score 82 E 3e-15 ] [ range 194 .. 242 ]
+sequence
+---------LSKDQSAFLEDSFKEH---STLNPKQKIALAKQLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|25487870|pir||T52375 homeobox-leucine zipper protein PHZ1 [im... [ score 81 E 6e-15 ] [ range 156 .. 204 ]
+sequence
+---------LTKDQSAILEESFKEH---NTLNPKQKIALAKRLG---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|7446246|pir||T09784 homeobox leucine zipper protein Hb-2, deh... [ score 81 E 8e-15 ] [ range 152 .. 200 ]
+sequence
+---------LTKAQSALLEESFKHH---STLNPKQKQDLARELK---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|15235712|ref|NP_195493.1| homeobox-leucine zipper protein 22 ... [ score 81 E 9e-15 ] [ range 130 .. 178 ]
+sequence
+---------LTKQQSALLEDNFKLH---STLNPKQKQALARQLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|127409|sp|P09091|MTA0_YEAST Mating-type protein A-1, incomple... [ score 80 E 1e-14 ] [ range 77 .. 124 ]
+sequence
+---------ISPQARAFLEQVFRRK---QSLNSKEKEEVAKKCG---------------------ITPLQ
+VRVWVCNMRIK-----------------*
+>P1;gi|29028870|gb|AAO64814.1| At5g06710 [Arabidopsis thaliana] [ score 80 E 1e-14 ] [ range 194 .. 242 ]
+sequence
+---------LSKDQSAFLKDSFKEH---STLNPKQKIALAKQLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|8919876|emb|CAB96199.1| hypothetical protein [Capsella rubella] [ score 80 E 2e-14 ] [ range 134 .. 182 ]
+sequence
+---------LSKDQSAILEETFKDH---STLNPKQKQALAKQLG---------------------LRARQ
+VEVWFQNRRART----------------*
+>P1;gi|37536862|ref|NP_922733.1| homeodomain leucine zipper protein ... [ score 79 E 2e-14 ] [ range 161 .. 209 ]
+sequence
+---------LSKDQAAVLEDTFKEH---NTLNPKQKAALARQLN---------------------LKPRQ
+VEVWFQNRRART----------------*
+>P1;gi|7415620|dbj|BAA93463.1| homeobox protein PpHB4 [Physcomitrell... [ score 79 E 3e-14 ] [ range 21 .. 69 ]
+sequence
+---------LSKEQSALLEESFKEH---STLNPKQKNALAKQLG---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|10643642|gb|AAG21094.1| a1p [Kluyveromyces lactis] >gi|397223... [ score 79 E 3e-14 ] [ range 162 .. 210 ]
+sequence
+---------IKHESRGILEKIFKVK---QCPNTSERLYIAQKLD---------------------LTPSQ
+VRIWFTNKRMRA----------------*
+>P1;gi|3868831|dbj|BAA34236.1| CRHB2 [Ceratopteris richardii] [ score 79 E 3e-14 ] [ range 197 .. 245 ]
+sequence
+---------LSKEQSALLEESFKEH---STLNPKQKSLLAKQLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|27311238|gb|AAO00684.1| Hypothetical protein [Oryza sativa (j... [ score 79 E 3e-14 ] [ range 131 .. 179 ]
+sequence
+---------LTKEQSALLEDRFREH---STLNPKQKVALAKQLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|25457630|pir||T52373 homeobox protein THOM1 [imported] - toma... [ score 79 E 3e-14 ] [ range 131 .. 179 ]
+sequence
+---------LSKEQAAVLEETFKEH---NTLNPKQKLALSKQLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|5006859|gb|AAD37700.1| homeodomain leucine zipper protein [Or... [ score 78 E 5e-14 ] [ range 74 .. 122 ]
+sequence
+---------LSKEQSSFLEDSFKEH---STLTPKQKSDLANRLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|45187479|ref|NP_983702.1| ADL394Cp [Eremothecium gossypii] >g... [ score 78 E 7e-14 ] [ range 47 .. 95 ]
+sequence
+---------LPKEPKEFLESVFERK---RCPNAKERRAIAEKCG---------------------LTPIQ
+IRIWFTNKRMRS----------------*
+>P1;gi|37530370|ref|NP_919487.1| putative homeobox protein HAT22 [Or... [ score 78 E 7e-14 ] [ range 98 .. 146 ]
+sequence
+---------LSKEQSALLEDRFKEH---STLNPKQKVALAKQLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|7446242|pir||T07614 homeobox-leucine zipper protein homolog h... [ score 76 E 2e-13 ] [ range 118 .. 166 ]
+sequence
+---------LSKDQSIVLEESFKEH---NTLNPKQKLALAKQLG---------------------LRARQ
+VEVWFQNRRART----------------*
+>P1;gi|3868833|dbj|BAA34237.1| CRHB3 [Ceratopteris richardii] [ score 76 E 3e-13 ] [ range 62 .. 110 ]
+sequence
+---------LSKEQSALLEESFKEY---NTLNSKQKSALAKQLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|15232311|ref|NP_191598.1| homeobox-leucine zipper protein 3 (... [ score 75 E 4e-13 ] [ range 166 .. 214 ]
+sequence
+---------LSKEQALVLEETFKEH---STLNPKQKMALAKQLN---------------------LRTRQ
+VEVWFQNRRART----------------*
+>P1;gi|3868845|dbj|BAA34243.1| CRHB9 [Ceratopteris richardii] [ score 75 E 5e-13 ] [ range 83 .. 131 ]
+sequence
+---------LSKEESALLEEKFEEH---STLTPKQKNALAKQLN---------------------LQPRQ
+VEVWFQNRRART----------------*
+>P1;gi|18034437|gb|AAL57493.1| homeodomain leucine zipper protein CP... [ score 74 E 7e-13 ] [ range 140 .. 188 ]
+sequence
+---------LSKEQAVVLEETFKEH---STLNPKEKIALAKQLN---------------------LMPRQ
+VEVWFQNRRART----------------*
+>P1;gi|15225368|ref|NP_182018.1| homeobox-leucine zipper protein 4 (... [ score 74 E 7e-13 ] [ range 167 .. 215 ]
+sequence
+---------LSKDQALVLEETFKEH---STLNPKQKLALAKQLN---------------------LRARQ
+VEVWFQNRRART----------------*
+>P1;gi|39722385|emb|CAE84419.1| MATa1 transcription factor [Pichia a... [ score 74 E 8e-13 ] [ range 129 .. 177 ]
+sequence
+---------IPESSKELLEKAFKVK---RFPNSKERERIARECG---------------------ISPLQ
+VRVWFTNKRARS----------------*
+>P1;gi|45199161|ref|NP_986190.1| AFR643Cp [Eremothecium gossypii] >g... [ score 74 E 9e-13 ] [ range 47 .. 95 ]
+sequence
+---------LPKETKEFLESVFERK---RWPNAKERRAIAEKCG---------------------LTPIQ
+IRIWFTNKRMRS----------------*
+>P1;gi|39722363|emb|CAE84400.1| MATa1 protein [Kluyveromyces delphen... [ score 74 E 1e-12 ] [ range 69 .. 117 ]
+sequence
+---------IDKKTKDMLNKVYEQK---QYLTKEEREFVAKKCN---------------------LTPLQ
+VRVWFANKRIRN----------------*
+>P1;gi|25453563|pir||T52350 homeobox protein HAT3 [imported] - Arabi... [ score 74 E 1e-12 ] [ range 166 .. 214 ]
+sequence
+---------LSKEQALVLEETFKEH---STLNPKQKMALAKQLN---------------------LRTRQ
+VEVWFQNRRQRT----------------*
+>P1;gi|3868847|dbj|BAA34244.1| CRHB10 [Ceratopteris richardii] [ score 74 E 1e-12 ] [ range 64 .. 112 ]
+sequence
+---------LTKEQSAFLEESFKEH---STFNPKQKSALAKQLN---------------------FRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|7489329|pir||T12616 homeobox protein - common sunflower >gi|1... [ score 73 E 2e-12 ] [ range 99 .. 147 ]
+sequence
+---------LTKAQSGLLEEAFKLH---TTLNPKQKQELARDLK---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|7489311|pir||T09783 dehydration-inducible homeobox leucine zi... [ score 73 E 2e-12 ] [ range 46 .. 94 ]
+sequence
+---------LSKEQSAFLEEHYKLH---NSLNPNQKFALAKQLN---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|30677923|ref|NP_178252.2| homeobox-leucine zipper protein 17 ... [ score 72 E 3e-12 ] [ range 143 .. 191 ]
+sequence
+---------LTREQSRLLEDSFRQN---HTLNPKQKEVLAKHLM---------------------LRPRQ
+IEVWFQNRRARS----------------*
+>P1;gi|5006849|gb|AAD37695.1| homeodomain leucine zipper protein [Or... [ score 71 E 5e-12 ] [ range 98 .. 146 ]
+sequence
+---------LSKDQAAVLEECFKTH---STLNPKQKVALANRLG---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|34911664|ref|NP_917179.1| putative homeodomain-leucine zipper... [ score 71 E 8e-12 ] [ range 169 .. 217 ]
+sequence
+---------LSKEQSRLLEESFRLN---HTLTPKQKEALAIKLK---------------------LRPRQ
+VEVWFQNRRART----------------*
+>P1;gi|20271001|gb|AAM18493.1| HAT4 [Arabidopsis lyrata subsp. petraea] [ score 71 E 9e-12 ] [ range 35 .. 83 ]
+sequence
+---------LSKDQSVILEETFKDH---STLNPKQKQALAKQLG---------------------LRARQ
+VEVWFQNRRART----------------*
+>P1;gi|45191057|ref|NP_985311.1| AER456Wp [Eremothecium gossypii] >g... [ score 69 E 4e-11 ] [ range 2 .. 50 ]
+sequence
+---------LPKETKEFLESVFERK---RCPNAKERRAIAEKCG---------------------LTPIQ
+IRIWFTNKRMRS----------------*
+>P1;gi|18034441|gb|AAL57495.1| homeodomain leucine zipper protein CP... [ score 63 E 2e-09 ] [ range 77 .. 124 ]
+sequence
+---------LTAEQVHLLEKSFEAE---NKLEPERKAELAKKLG---------------------LQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|37573050|dbj|BAC98578.1| homeodomain leucine zipper protein [... [ score 63 E 2e-09 ] [ range 90 .. 137 ]
+sequence
+---------LTAEQVQMLERSFEEE---NKLEPERKTELARRLG---------------------MAPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|15148920|gb|AAK84887.1| homeodomain leucine zipper protein HD... [ score 63 E 2e-09 ] [ range 10 .. 57 ]
+sequence
+---------LSSEQVHLLEKSFEEE---NKLEPERKTQLAKKLG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|15232122|ref|NP_186796.1| homeobox-leucine zipper protein 5 (... [ score 62 E 3e-09 ] [ range 72 .. 119 ]
+sequence
+---------LTTEQVHLLEKSFETE---NKLEPERKTQLAKKLG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|18034445|gb|AAL57497.1| homeodomain leucine zipper protein CP... [ score 62 E 4e-09 ] [ range 96 .. 143 ]
+sequence
+---------LSSDQVRFLDKSFEVD---NKLEPERKVQLAKELG---------------------LQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|18034443|gb|AAL57496.1| homeodomain leucine zipper protein CP... [ score 61 E 1e-08 ] [ range 84 .. 131 ]
+sequence
+---------LSADQVRYLEKTFDQD---NKLEPERKAKLAKDLG---------------------LQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|15148918|gb|AAK84886.1| homeodomain leucine zipper protein HD... [ score 61 E 1e-08 ] [ range 90 .. 137 ]
+sequence
+---------LTSEQVQFLERNFEVE---NKLEPERKVQLAKELG---------------------LQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|7415624|dbj|BAA93465.1| homeobox protein PpHB6 [Physcomitrell... [ score 60 E 1e-08 ] [ range 111 .. 150 ]
+sequence
+-----------------LERNFEME---NKLEPERKMQLAKELG---------------------LRPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|3868841|dbj|BAA34241.1| CRHB7 [Ceratopteris richardii] [ score 60 E 2e-08 ] [ range 58 .. 105 ]
+sequence
+---------LTVEQINFLEMSFKED---NKLEPERKACIAKQLG---------------------VRPRQ
+VAIWFQNRRVR-----------------*
+>P1;gi|7446244|pir||T14332 homeotic protein - carrot >gi|1435021|dbj... [ score 60 E 2e-08 ] [ range 44 .. 91 ]
+sequence
+---------LKADQIQFLEKSFETD---NKLEPERKVQLAKELG---------------------LQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|30698765|ref|NP_177248.3| homeobox-leucine zipper protein, pu... [ score 59 E 3e-08 ] [ range 73 .. 121 ]
+sequence
+---------LTKEQSHLLEESFIQN---HTLTPKQKKDLATFLK---------------------LSQRQ
+VEVWFQNRRARS----------------*
+>P1;gi|7446256|pir||T07734 homeotic protein VAHOX1 - tomato >gi|1161... [ score 59 E 3e-08 ] [ range 94 .. 141 ]
+sequence
+---------LTDNQVQFLEKSFGEE---NKLEPERKVQLAKELG---------------------LQPRQ
+IAIWFQNRRAR-----------------*
+>P1;gi|5006853|gb|AAD37697.1| homeodomain leucine zipper protein [Or... [ score 59 E 4e-08 ] [ range 55 .. 102 ]
+sequence
+---------LSVEQVRALERSFEVE---NKLEPERKARLARDLG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|42409030|dbj|BAD10283.1| putative homeodomain leucine zipper ... [ score 57 E 1e-07 ] [ range 47 .. 94 ]
+sequence
+---------LSVEQVRALERSFETE---NKLEPERKARLARDLG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|3868837|dbj|BAA34239.1| CRHB5 [Ceratopteris richardii] [ score 57 E 1e-07 ] [ range 55 .. 102 ]
+sequence
+---------LTMEQINILEMKFKED---VELEPERKTLIAKQLG---------------------LRPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|8778855|gb|AAF79854.1| T7N9.11 [Arabidopsis thaliana] [ score 57 E 1e-07 ] [ range 72 .. 119 ]
+sequence
+---------LTPIQLRLLEESFEEE---KRLEPDRKLWLAEKLG---------------------LQPSQ
+VAVWFQNRRAR-----------------*
+>P1;gi|5531484|emb|CAB51059.1| OCL1 homeobox protein [Zea mays] [ score 57 E 1e-07 ] [ range 91 .. 137 ]
+sequence
+----------TPQQIQELEALFKEC---PHPDEKQRGELSKRLG---------------------LDPRQ
+VKFWFQNRRTR-----------------*
+>P1;gi|7415618|dbj|BAA93462.1| homeobox protein PpHB3 [Physcomitrell... [ score 57 E 1e-07 ] [ range 62 .. 108 ]
+sequence
+----------TKAQLRVLEDTFERL---QRPNAHQKSTLAMELG---------------------VQPRQ
+VEVWFQNRRAR-----------------*
+>P1;gi|6091551|gb|AAF01764.2| homeodomain-leucine zipper protein 56 ... [ score 56 E 2e-07 ] [ range 24 .. 71 ]
+sequence
+---------LSVDQVKALEKNFEVE---NKLEPDRKLKLAQELG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|7446295|pir||T06112 homeotic protein T5J17.230 - Arabidopsis ... [ score 56 E 2e-07 ] [ range 70 .. 117 ]
+sequence
+---------LKVDQVKALEKNFELE---NKLEPERKTKLAQELG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|18034439|gb|AAL57494.1| homeodomain leucine zipper protein CP... [ score 56 E 2e-07 ] [ range 50 .. 98 ]
+sequence
+---------LSNEQVKALEKYFEVE---NKLEPERKVKLAQELG---------------------LQPRQ
+VAVWFQNRRARS----------------*
+>P1;gi|7488922|pir||T14330 homeotic protein - carrot >gi|1435019|dbj... [ score 56 E 2e-07 ] [ range 93 .. 140 ]
+sequence
+---------LTVDQVKYLEKSFEVE---NKLEPDRKVQLAKDLG---------------------LQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|27531102|dbj|BAC54164.1| homeobox protein Pphb7 long form [Ph... [ score 56 E 2e-07 ] [ range 100 .. 147 ]
+sequence
+---------LSLEQVRSLERNFEVE---NKLEPERKMQLAKELG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|33146844|dbj|BAC79833.1| homeodomain protein-like [Oryza sati... [ score 56 E 2e-07 ] [ range 66 .. 113 ]
+sequence
+---------LSDEQVEMLELSFREE---RKLETGRKVHLASELG---------------------LDPKQ
+VAVWFQNRRAR-----------------*
+>P1;gi|20069127|gb|AAM09689.1| amphimox [Branchiostoma floridae] [ score 56 E 3e-07 ] [ range 153 .. 199 ]
+sequence
+----------TKQQIMELENEFRHH---NYLTRLRRYEIAVKLD---------------------LTERQ
+VKVWFQNRRMK-----------------*
+>P1;gi|15233048|ref|NP_191674.1| homeobox-leucine zipper family prot... [ score 56 E 3e-07 ] [ range 118 .. 162 ]
+sequence
+----------TPKQIQDLESVFKEC---AHPDEKQRLDLSRRLN---------------------LDPRQ
+VKFWFQNRR-------------------*
+>P1;gi|33391193|gb|AAQ17211.1| paired and homeobox transcription fac... [ score 56 E 3e-07 ] [ range 252 .. 298 ]
+sequence
+----------TPEQTDLLEQLFEKT---PYPDATTREEIAKKTN---------------------LSEAR
+VQVWFSNRRAK-----------------*
+>P1;gi|37533686|ref|NP_921145.1| putative homeodomain leucine zipper... [ score 56 E 3e-07 ] [ range 59 .. 106 ]
+sequence
+---------LAAEQVRALERSFEAD---NKLDPERKARIARDLR---------------------LHPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|7415622|dbj|BAA93464.1| homeobox protein PpHB5 [Physcomitrell... [ score 56 E 3e-07 ] [ range 108 .. 147 ]
+sequence
+-----------------LEKNFEAE---NKLEPERKMRLAKELG---------------------LRPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|22651698|gb|AAM48290.1| homeodomain protein Hfi22 [Nicotiana ... [ score 56 E 3e-07 ] [ range 23 .. 70 ]
+sequence
+---------LSVEQVKALEKNFEVE---NKLEPERKVKLAQELG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|7415630|dbj|BAA93468.1| homeobox protein PpHB9 [Physcomitrell... [ score 56 E 4e-07 ] [ range 80 .. 127 ]
+sequence
+---------LSFDQVQSLERSFELE---NKLEPERKLQLAKELG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|38344373|emb|CAD41424.2| OSJNBb0032E06.7 [Oryza sativa (japon... [ score 55 E 4e-07 ] [ range 112 .. 156 ]
+sequence
+----------TPQQIQELEAMFKEC---PHPDEKQRAELSKRLG---------------------LEPRQ
+VKFWFQNRR-------------------*
+>P1;gi|34902432|ref|NP_912562.1| Unknown protein [Oryza sativa (japo... [ score 55 E 4e-07 ] [ range 54 .. 93 ]
+sequence
+-----------------LERSFDTD---NKLDPDRKARIARDLG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|37534178|ref|NP_921391.1| putative homeotic protein [Oryza sa... [ score 55 E 5e-07 ] [ range 108 .. 155 ]
+sequence
+---------LSVEQVRTLERSFESG---NKLEPERKAQLARALG---------------------LQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|1167986|gb|AAB03566.1| Xbr-1a [ score 55 E 5e-07 ] [ range 167 .. 211 ]
+sequence
+------------DQISTLEKTFQKH---RYLGASERRKLAAKLQ---------------------LSEVQ
+IKTWFQNRRMK-----------------*
+>P1;gi|30685207|ref|NP_568309.2| homeobox-leucine zipper protein 7 (... [ score 55 E 5e-07 ] [ range 127 .. 166 ]
+sequence
+-----------------LEKSFELG---NKLEPERKMQLAKALG---------------------LQPRQ
+IAIWFQNRRAR-----------------*
+>P1;gi|29367373|gb|AAO72559.1| homeodomain leucine zipper protein-li... [ score 55 E 5e-07 ] [ range 80 .. 127 ]
+sequence
+----------TEEQIRSLESMFHHH---AKLEPREKAELARELG---------------------LQPRQ
+VAIWFQNKRAR-----------------*
+>P1;gi|19071644|gb|AAL84311.1| putative DNA-binding protein [Oryza s... [ score 54 E 6e-07 ] [ range 142 .. 181 ]
+sequence
+-----------------LEKNFELG---NKLEPERKMQLARALG---------------------LQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|1403587|emb|CAA67093.1| homeobox protein [Xenopus laevis] [ score 54 E 7e-07 ] [ range 184 .. 228 ]
+sequence
+------------DQISTLEKTFQKH---RYLGASERQKLAAKLQ---------------------LSEVQ
+IKTWFQNRRMK-----------------*
+>P1;gi|5006857|gb|AAD37699.1| homeodomain leucine zipper protein [Or... [ score 54 E 7e-07 ] [ range 57 .. 103 ]
+sequence
+----------SEEQIKSLESMFATQ---TKLEPRQKLQLARELG---------------------LQPRQ
+VAIWFQNKRAR-----------------*
+>P1;gi|123392|sp|P22711|HMTI_DROME Muscle-specific homeobox protein ... [ score 54 E 8e-07 ] [ range 316 .. 356 ]
+sequence
+-----------------LECRFRLK---KYLTGAEREIIAQKLN---------------------LSATQ
+VKIWFQNRRYKS----------------*
+>P1;gi|7657180|ref|NP_055283.1| VENT-like homeobox 2; hemopoietic pr... [ score 54 E 8e-07 ] [ range 106 .. 145 ]
+sequence
+-----------------LEGVFQHH---QYLSPLERKRLAREMQ---------------------LSEVQ
+IKTWFQNRRMK-----------------*
+>P1;gi|39592099|emb|CAE75319.1| Hypothetical protein CBG23291 [Caeno... [ score 54 E 9e-07 ] [ range 115 .. 159 ]
+sequence
+----------SPQQVHVLEHKFGSN---KYLSASDREQLAKSIN---------------------LTPTQ
+VKIWFQNQR-------------------*
+>P1;gi|3868849|dbj|BAA34245.1| CRHB11 [Ceratopteris richardii] [ score 54 E 1e-06 ] [ range 32 .. 79 ]
+sequence
+---------LTAEQVNFLETSFSMD---LKLEPERKAHLAKQLG---------------------IQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|630531|pir||S44615 mab-5 posterior-specific homeotic protein ... [ score 54 E 1e-06 ] [ range 278 .. 324 ]
+sequence
+----------SRSQTLELEKEFHYH---KYLTRKRRQEISETLH---------------------LTERQ
+VKIWFQNRRMK-----------------*
+>P1;gi|43332698|gb|EAD31866.1| unknown [environmental sequence] [ score 54 E 1e-06 ] [ range 50 .. 96 ]
+sequence
+----------SEDAKVLLETIFSAD---SFPTLAVRNQLASQLG---------------------IDPRQ
+VQIWFQNRRQR-----------------*
+>P1;gi|15224190|ref|NP_179445.1| homeobox-leucine zipper family prot... [ score 54 E 1e-06 ] [ range 65 .. 112 ]
+sequence
+---------LSDEQVRMLEISFEDD---HKLESERKDRLASELG---------------------LDPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|7415616|dbj|BAA93461.1| homeobox protein PpHB2 [Physcomitrell... [ score 54 E 1e-06 ] [ range 145 .. 184 ]
+sequence
+-----------------LELNFEVE---NKLEPERKMQLAKELG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|2707268|gb|AAB92245.1| homeobox-containing protein Wariai [Di... [ score 54 E 1e-06 ] [ range 170 .. 217 ]
+sequence
+----------SPDQLKLLEKIFMAH---QHPNLNLRSQLAVELH---------------------MTARS
+VQIWFQNRRAKA----------------*
+>P1;gi|15238405|ref|NP_201334.1| homeobox-leucine zipper protein 5 (... [ score 54 E 1e-06 ] [ range 79 .. 123 ]
+sequence
+------------EQVKALEKNFEID---NKLEPERKVKLAQELG---------------------LQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|37051335|dbj|BAC81669.1| homeodomain protein Hex [Ciona savig... [ score 54 E 1e-06 ] [ range 266 .. 312 ]
+sequence
+----------SNEQTAELEKKFDGQ---KYLSPPERKKLAKTLQ---------------------LSERQ
+VKTWFQNRRAK-----------------*
+>P1;gi|42562138|ref|NP_564041.2| homeobox-leucine zipper family prot... [ score 54 E 1e-06 ] [ range 29 .. 73 ]
+sequence
+----------TPHQIQRLESTFNEC---QHPDEKQRNQLSRELG---------------------LAPRQ
+IKFWFQNRR-------------------*
+>P1;gi|18481701|gb|AAL73523.1| OCL5 protein [Sorghum bicolor] [ score 53 E 1e-06 ] [ range 114 .. 151 ]
+sequence
+-----------------LEAFFKEY---PHPDDKQRKELSRELG---------------------LEPLQ
+VKFWFQNKR-------------------*
+>P1;gi|8920421|emb|CAB96422.1| OCL2 protein [Zea mays] [ score 53 E 1e-06 ] [ range 34 .. 77 ]
+sequence
+-----------PRQIEQLEAMFKEF---HHPDEKQRAQLSRQLG---------------------LDPRQ
+VKFWFQNRR-------------------*
+>P1;gi|38016613|gb|AAR07640.1| transcription factor Hox11/13b [Ptych... [ score 53 E 1e-06 ] [ range 131 .. 171 ]
+sequence
+-----------------LEKAFQQN---AYLTRERRQKYSQQLN---------------------LTERQ
+VKIWFQNRRMKS----------------*
+>P1;gi|3868843|dbj|BAA34242.1| CRHB8 [Ceratopteris richardii] [ score 53 E 2e-06 ] [ range 28 .. 75 ]
+sequence
+---------LTAEQVNFLEMSFNID---LKLEPERKALLAKKLG---------------------IRPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|15148916|gb|AAK84885.1| homeodomain leucine zipper protein HD... [ score 53 E 2e-06 ] [ range 17 .. 64 ]
+sequence
+---------LSVDQVKALEKNFEVE---NKLEPDRKVKLAQELG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|6502544|gb|AAF14351.1| homeobox protein HB1 [Glomus intraradi... [ score 53 E 2e-06 ] [ range 11 .. 57 ]
+sequence
+----------TRQQLKVLEETFRTT---QKPDGNVRKSLALQLN---------------------MTPRN
+VQVWFQNRRAK-----------------*
+>P1;gi|8920423|emb|CAB96423.1| OCL3 protein [Zea mays] [ score 53 E 2e-06 ] [ range 128 .. 172 ]
+sequence
+----------TPQQIQELEAVFKEC---PHPDEKQRMELSKRLN---------------------LESRQ
+VKFWFQNRR-------------------*
+>P1;gi|15219456|ref|NP_177479.1| homeobox-leucine zipper family prot... [ score 53 E 2e-06 ] [ range 42 .. 84 ]
+sequence
+------------QQIQRLESSFKEC---PHPDEKQRNQLSRELG---------------------LAPRQ
+IKFWFQNRR-------------------*
+>P1;gi|15222452|ref|NP_177136.1| homeobox-leucine zipper protein 13 ... [ score 53 E 2e-06 ] [ range 89 .. 136 ]
+sequence
+---------LNMEQVKTLEKNFELG---NKLEPERKMQLARALG---------------------LQPRQ
+IAIWFQNRRAR-----------------*
+>P1;gi|18399966|ref|NP_565536.1| homeobox-leucine zipper protein 6 (... [ score 53 E 2e-06 ] [ range 66 .. 113 ]
+sequence
+---------LSINQVKALEKNFELE---NKLEPERKVKLAQELG---------------------LQPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|1435022|dbj|BAA05625.1| DNA-binding protein [Daucus carota] [ score 53 E 2e-06 ] [ range 104 .. 151 ]
+sequence
+---------LNMEQVRTLEKSFEMG---NKLEPDRKLELARALG---------------------LQPRQ
+IAIWFQNRRAR-----------------*
+>P1;gi|9621907|gb|AAF89581.1| paired-box transcription factor [Branc... [ score 53 E 2e-06 ] [ range 197 .. 243 ]
+sequence
+----------TPEQLEELEKAFERT---HYPDIYTREELAQRTK---------------------LTEAR
+VQVWFSNRRAR-----------------*
+>P1;gi|15234508|ref|NP_195392.1| homeobox-leucine zipper family prot... [ score 53 E 2e-06 ] [ range 60 .. 107 ]
+sequence
+---------LTDEQVNMLEMSFGDE---HKLESERKDRLAAELG---------------------LDPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|12851777|dbj|BAB29163.1| unnamed protein product [Mus musculus] [ score 52 E 2e-06 ] [ range 155 .. 201 ]
+sequence
+----------SNDQTVELEKKFETQ---KYLSPPERKRLAKMLQ---------------------LSERQ
+VKTWFQNRRAK-----------------*
+>P1;gi|3868835|dbj|BAA34238.1| CRHB4 [Ceratopteris richardii] [ score 52 E 2e-06 ] [ range 57 .. 104 ]
+sequence
+---------LTVDQVKYLEMNFTMD---FKLEPERKALIAKELG---------------------LRPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|14572594|emb|CAC42831.1| MOX-2 protein [Gallus gallus] [ score 52 E 3e-06 ] [ range 193 .. 239 ]
+sequence
+----------TKEQIRELEAEFAHH---NYLTRLRRYEIAVNLD---------------------LTERQ
+VKVWFQNRRMK-----------------*
+>P1;gi|38106920|gb|EAA53160.1| hypothetical protein MG07437.4 [Magna... [ score 52 E 3e-06 ] [ range 230 .. 278 ]
+sequence
+---------LTHQQTRFLMSEFAKQ---PHPDAAHRERLSREIG---------------------LSPRQ
+VQVWFQNRRAK-----------------*
+>P1;gi|17647491|ref|NP_523863.1| gooseberry CG3388-PA [Drosophila me... [ score 52 E 3e-06 ] [ range 193 .. 239 ]
+sequence
+----------SNDQIDALERIFART---QYPDVYTREELAQSTG---------------------LTEAR
+VQVWFSNRRAR-----------------*
+>P1;gi|7500165|pir||T21552 hypothetical protein F29F11.5 - Caenorhab... [ score 52 E 3e-06 ] [ range 204 .. 244 ]
+sequence
+-----------------LERRFRSQ---KYLSAPEREALAMQIR---------------------LTPTQ
+VKIWFQNHRYKT----------------*
+>P1;gi|6723679|emb|CAB67118.1| homeodomain protein [Lycopersicon esc... [ score 52 E 3e-06 ] [ range 59 .. 103 ]
+sequence
+------------DQVQALEKIFEVD---NKLDPDRKVKIAQELG---------------------LQPRQ
+IAIWFQNRRAR-----------------*
+>P1;gi|15232066|ref|NP_186771.1| homeobox-leucine zipper protein, pu... [ score 52 E 3e-06 ] [ range 94 .. 138 ]
+sequence
+------------EQVKALEKSFELG---NKLEPERKIQLAKALG---------------------MQPRQ
+IAIWFQNRRAR-----------------*
+>P1;gi|33355394|gb|AAQ16127.1| homeodomain protein BNLGHi6863 [Gossy... [ score 52 E 3e-06 ] [ range 91 .. 128 ]
+sequence
+-----------------LEAVFKEC---PHPDDKQRMKLSQELG---------------------LKPRQ
+VKFWFQNRR-------------------*
+>P1;gi|39593401|emb|CAE64871.1| Hypothetical protein CBG09671 [Caeno... [ score 52 E 3e-06 ] [ range 212 .. 252 ]
+sequence
+-----------------LERRFRTQ---KYLSAPEREALAMQIR---------------------LTPTQ
+VKIWFQNHRYKT----------------*
+>P1;gi|4416345|gb|AAD20328.1| homeodomain protein Not [Strongylocent... [ score 52 E 3e-06 ] [ range 295 .. 341 ]
+sequence
+----------TQEQLERLEQEFDRQ---QYMVGSERLYLAAELN---------------------LSESQ
+VKVWFQNRRIK-----------------*
+>P1;gi|15240052|ref|NP_201471.1| homeobox-leucine zipper family prot... [ score 52 E 3e-06 ] [ range 75 .. 122 ]
+sequence
+---------LTDEQVNMLEYSFGNE---HKLESGRKEKIAGELG---------------------LDPRQ
+VAVWFQNRRAR-----------------*
+>P1;gi|37536560|ref|NP_922582.1| putative homeobox-leucine zipper pr... [ score 52 E 3e-06 ] [ range 79 .. 118 ]
+sequence
+---------LSKDQAAVLEDTFNKH---NTLNPKQKAALARQLN---------------------LKPRQ
+TEV-------------------------*
+>P1;gi|19070143|gb|AAL83725.1| homeodomain protein HB2 [Picea abies] [ score 52 E 3e-06 ] [ range 34 .. 78 ]
+sequence
+----------TPQQIQELEALFKEC---PHPDEKQRLDISKRLN---------------------LETRQ
+VKLWFQNRR-------------------*
+>P1;gi|17552740|ref|NP_498700.1| C.Elegans Homeobox (ceh-23) [Caenor... [ score 52 E 4e-06 ] [ range 226 .. 265 ]
+sequence
+-----------------LEDMFKGQ---MYVVGAERENLAQRLG---------------------LSPSQ
+VRIWFQNRRSK-----------------*
+>P1;gi|38636822|dbj|BAD03062.1| putative OCL5 protein [Oryza sativa ... [ score 52 E 4e-06 ] [ range 182 .. 219 ]
+sequence
+-----------------LEAFFKEC---PHPDDKQRKELSRELG---------------------LEPLQ
+VKFWFQNKR-------------------*
+>P1;gi|2133367|pir||S62747 homeotic protein A-beta-V6 - bracket fung... [ score 52 E 4e-06 ] [ range 105 .. 145 ]
+sequence
+----------------VLEEYLKHN---AYPSPIDKQRLAEQEG---------------------MSYRQ
+VHVWFQNRRAR-----------------*
+>P1;gi|5031277|gb|AAD38144.1| homeobox leucine zipper protein [Prunu... [ score 52 E 4e-06 ] [ range 39 .. 85 ]
+sequence
+----------SDEQIRLLESIFEAD---SKLEPRRKVQVARELG---------------------LQPRQ
+VAIWFQNRRAR-----------------*
+>P1;gi|17569001|ref|NP_508131.1| hematopoietically expressed homeobo... [ score 52 E 4e-06 ] [ range 177 .. 221 ]
+sequence
+------------EQTDALEHKFDSH---KYLSPQERKKLAKSLS---------------------LSERQ
+VKTWFQNRRAK-----------------*
+>P1;gi|45382607|ref|NP_990583.1| probox protein [Gallus gallus] >gi|... [ score 52 E 4e-06 ] [ range 152 .. 198 ]
+sequence
+----------SNEQTIELEKKFETQ---KYLSPPERKRLAKLLQ---------------------LSERQ
+VKTWFQNRRAK-----------------*
+>P1;gi|123239|sp|P22544|HM1D_DROAN Homeobox protein B-H1 >gi|103027|... [ score 52 E 4e-06 ] [ range 346 .. 385 ]
+sequence
+-----------------LEKSFERQ---KYLSVQERQELAHKLD---------------------LSDCQ
+VKTWYQNRRTK-----------------*
+>P1;gi|28628705|gb|AAO49317.1| abdominal B [Sacculina carcini] [ score 52 E 4e-06 ] [ range 268 .. 315 ]
+sequence
+----------SKYQTLELEKEFLFN---AYVSKQKRWELARNLN---------------------LTERQ
+VKIWFQNRRMKN----------------*
+>P1;gi|13242291|ref|NP_077361.1| hematopoietically expressed homeobo... [ score 52 E 4e-06 ] [ range 146 .. 192 ]
+sequence
+----------SNDQTIELEKKFETQ---KYLSPPERKRLAKMLQ---------------------LSERQ
+VKTWFQNRRAK-----------------*
+>P1;gi|27731487|ref|XP_218605.1| similar to Homeobox protein DBX1 [R... [ score 52 E 4e-06 ] [ range 192 .. 235 ]
+sequence
+-------------QRKALEKTFQKQ---KYISKPDRKKLASKLG---------------------LKDSQ
+VKIWFQNRRMK-----------------*
+>P1;gi|8567384|ref|NP_059491.1| pre B-cell leukemia transcription fa... [ score 52 E 5e-06 ] [ range 252 .. 301 ]
+sequence
+----------SKQATEVLNEYFYSH---PYPSEEAKEELAKKCG---------------------ITVSQ
+VSNWFGNKRIR-----------------*
+>P1;gi|454798|gb|AAA16288.1| homeobox protein [ score 52 E 5e-06 ] [ range 54 .. 92 ]
+sequence
+-----------------LEKEFHYN---QYLSRERRQEVAKAVS---------------------LSDRQ
+VKIWFQNRRM------------------*
+>P1;gi|31208971|ref|XP_313452.1| ENSANGP00000020249 [Anopheles gambi... [ score 52 E 5e-06 ] [ range 294 .. 334 ]
+sequence
+-----------------LEKKFREK---QYLSIAERAEFSSSLR---------------------LTETQ
+VKIWFQNRRAKA----------------*
+>P1;gi|15228625|ref|NP_191748.1| homeobox-leucine zipper protein 12 ... [ score 52 E 5e-06 ] [ range 35 .. 81 ]
+sequence
+----------SEEQIKSLELIFESE---TRLEPRKKVQVARELG---------------------LQPRQ
+VAIWFQNKRAR-----------------*
+>P1;gi|17737409|ref|NP_523556.1| paired CG6716-PA [Drosophila melano... [ score 51 E 5e-06 ] [ range 198 .. 244 ]
+sequence
+----------SASQLDELERAFERT---QYPDIYTREELAQRTN---------------------LTEAR
+IQVWFSNRRAR-----------------*
+>P1;gi|38016615|gb|AAR07641.1| transcription factor Hox11/13c [Ptych... [ score 51 E 5e-06 ] [ range 169 .. 208 ]
+sequence
+-----------------LEKEFQQN---MYLTRDRRTRLAQTLN---------------------LTERQ
+VKIWFQNRRMK-----------------*
+>P1;gi|32307773|gb|AAP79283.1| developing brain homeobox [Saccogloss... [ score 51 E 6e-06 ] [ range 175 .. 221 ]
+sequence
+----------SDAQRKGLEKKFQQQ---KYISKPDRRKLASKLG---------------------LKDSQ
+VKIWFQNRRMK-----------------*
+>P1;gi|283370|pir||A42094 regulator protein bW2 - smut fungus (Ustil... [ score 51 E 6e-06 ] [ range 143 .. 189 ]
+sequence
+----------DSEAVRILEQAFKHS---PNITPAEKFRLSEVTG---------------------LKPKQ
+VTIWFQNRRNR-----------------*
+>P1;gi|25386233|pir||F86396 hypothetical protein T2P11.15 - Arabidop... [ score 51 E 6e-06 ] [ range 102 .. 150 ]
+sequence
+---------LNMEQLKALEKDFELG---NKLESDRKLELARALG---------------------LQPRQ
+IAIWFQNRRARS----------------*
+>P1;gi|24647903|ref|NP_650701.1| CG18599-PA [Drosophila melanogaster... [ score 51 E 6e-06 ] [ range 324 .. 370 ]
+sequence
+----------TPEQLECLEAEFERQ---QYMVGPERLYLAHTLK---------------------LTEAQ
+VKVWFQNRRIK-----------------*
+>P1;gi|2147484|pir||S71477 homeotic protein, ovule-specific - Phalae... [ score 51 E 6e-06 ] [ range 104 .. 141 ]
+sequence
+-----------------MEAFFKEC---PHPDDKQRKALSKELG---------------------LEPLQ
+VKFWFQNKR-------------------*
+>P1;gi|2331219|gb|AAB67611.1| NK-2 class homeobox transcription fact... [ score 51 E 6e-06 ] [ range 194 .. 231 ]
+sequence
+-----------------LGKKFKDQ---KYLSASERDQIANKLN---------------------LTPTQ
+VKIWFQNKR-------------------*
+>P1;gi|13272286|gb|AAK17070.1| homeodomain type 2 mating protein a2-... [ score 51 E 6e-06 ] [ range 161 .. 202 ]
+sequence
+----------------LLEKYFEYN---AYPSVRDRERLARKSM---------------------MTPRQ
+IEVWFQNHRSRA----------------*
+>P1;gi|34865611|ref|XP_234179.2| similar to NK2 homeodomain transcri... [ score 51 E 6e-06 ] [ range 202 .. 246 ]
+sequence
+----------SKAQTLELERRFRQQ---RYLSAPEREQLARLLR---------------------LTPTQ
+VKIWFQNHR-------------------*
+>P1;gi|13346176|gb|AAK19610.1| BNLGHi8377 [Gossypium hirsutum] [ score 51 E 7e-06 ] [ range 117 .. 154 ]
+sequence
+-----------------MEALFKES---PHPDEKQRQQLSKQLG---------------------LAPRQ
+VKFWFQNRR-------------------*
+>P1;gi|13752409|gb|AAK38646.1| homeodomain protein JUBEL2 [Hordeum v... [ score 115 E 3e-25 ] [ range 348 .. 404 ]
+sequence
+------QRGLPERSVTVLRAWLFEHFLHPYPTDGDKQMLAKQTG---------------------LTRNQ
+VSNWFINARVRLWK--------------*
+>P1;gi|13752407|gb|AAK38645.1| homeodomain protein JUBEL1 [Hordeum v... [ score 113 E 9e-25 ] [ range 537 .. 593 ]
+sequence
+------QRGLPERSVSILRSWLFEHFLHPYPSDADKHLLARQTG---------------------LSRNQ
+VSNWFINARVRLWK--------------*
+>P1;gi|34908294|ref|NP_915494.1| putative homeodomain protein [Oryza... [ score 113 E 1e-24 ] [ range 374 .. 430 ]
+sequence
+------QRGLPERAVSVLRAWLFEHFLHPYPTDGDKQMLAKQTG---------------------LTRNQ
+VSNWFINARVRLWK--------------*
+>P1;gi|13877517|gb|AAK43836.1| BEL1-like homeodomain 1 [Arabidopsis ... [ score 112 E 3e-24 ] [ range 389 .. 445 ]
+sequence
+------QRGLPERAVSVLRAWLFEHFLHPYPKDSDKHMLAKQTG---------------------LTRSQ
+VSNWFINARVRLWK--------------*
+>P1;gi|31746344|emb|CAC82981.1| putative BEL1-like protein [Gnetum g... [ score 111 E 4e-24 ] [ range 590 .. 646 ]
+sequence
+------QRGLPERAVSVLRAWLFEHFLHPYPTDADKHMLARQTG---------------------LSRSQ
+VSNWFINARVGLWK--------------*
+>P1;gi|22652119|gb|AAN03623.1| BEL1-related homeotic protein 13 [Sol... [ score 110 E 6e-24 ] [ range 345 .. 401 ]
+sequence
+------QRGLPERSVNILRAWLFEHFLHPYPSDADKHLLARQTG---------------------LSRNQ
+VSNWFINARVRLWK--------------*
+>P1;gi|34902566|ref|NP_912629.1| Putative homeodomain protein [Oryza... [ score 110 E 7e-24 ] [ range 620 .. 676 ]
+sequence
+------QRGLPESAVSVLRAWLFEHFLHPYPKDSEKLMLARQTG---------------------LSRGQ
+VSNWFINARVRLWK--------------*
+>P1;gi|42528295|gb|AAS18416.1| benzothiadiazole-induced homeodomain ... [ score 110 E 8e-24 ] [ range 385 .. 441 ]
+sequence
+------QRGLPENSVSILRAWLFEHFLHPYPKDSEKLMLARQTG---------------------LTRSQ
+ISNWFINARVRLWK--------------*
+>P1;gi|23397273|gb|AAN31918.1| putative homeodomain protein [Arabido... [ score 109 E 2e-23 ] [ range 353 .. 408 ]
+sequence
+-------RGLPERAVTVLRAWLFDHFLHPYPTDTDKLMLAKQTG---------------------LSRNQ
+VSNWFINARVRVWK--------------*
+>P1;gi|22652127|gb|AAN03627.1| BEL1-related homeotic protein 30 [Sol... [ score 108 E 3e-23 ] [ range 395 .. 451 ]
+sequence
+------QRGLPESSVSVLRAWLFEHFLHPYPKDSDKIMLARQTG---------------------LTRSQ
+VSNWFINARVRLWK--------------*
+>P1;gi|339895|gb|AAA36764.1| E2A/PRL fusion protein [ score 108 E 4e-23 ] [ range 357 .. 414 ]
+sequence
+------RRNFNKQATEILNEYFYSHLSNPYPSEEAKEELAKKCG---------------------ITVSQ
+VSNWFGNKRIRYKKN-------------*
+>P1;gi|37536420|ref|NP_922512.1| putative homeodomain protein [Oryza... [ score 108 E 5e-23 ] [ range 328 .. 384 ]
+sequence
+------QRGLPERAVSILRAWLFEHFLHPYPSDVDKHILARQTG---------------------LSRSQ
+VANWFINARVRLWK--------------*
+>P1;gi|15223627|ref|NP_173400.1| homeobox-leucine zipper family prot... [ score 107 E 1e-22 ] [ range 355 .. 411 ]
+sequence
+------QRGLPENSVSVLRAWLFEHFLHPYPKESEKIMLAKQTG---------------------LSKNQ
+VANWFINARVRLWK--------------*
+>P1;gi|34896838|ref|NP_909763.1| putative homeodomain protein [Oryza... [ score 107 E 1e-22 ] [ range 264 .. 319 ]
+sequence
+-------RGLPEDAVGVLRAWLFDHFLHPYPNDNEKLMLAVATG---------------------LSRTQ
+ISNWFINARVRLWK--------------*
+>P1;gi|22652121|gb|AAN03624.1| BEL1-related homeotic protein 14 [Sol... [ score 106 E 1e-22 ] [ range 300 .. 356 ]
+sequence
+------QRGLPERSVSVLRAWLFEHFLHPYPSDVDKHILARQTG---------------------LSRSQ
+VSNWFINARVRLWK--------------*
+>P1;gi|15149472|ref|NP_079521.1| pre-B-cell leukemia transcription f... [ score 105 E 2e-22 ] [ range 214 .. 271 ]
+sequence
+------RRNFSKQATEVLNEYFYSHLNNPYPSEEAKEELARKGG---------------------LTISQ
+VSNWFGNKRIRYKKN-------------*
+>P1;gi|15226313|ref|NP_180366.1| homeodomain-containing protein [Ara... [ score 105 E 3e-22 ] [ range 428 .. 484 ]
+sequence
+------QRGLPERAVAVLRAWLFDHFLHPYPTDSDKQMLATQTG---------------------LSRNQ
+VSNWFINARVRLWK--------------*
+>P1;gi|38490517|emb|CAD57735.1| homothorax [Tribolium castaneum] [ score 105 E 3e-22 ] [ range 338 .. 391 ]
+sequence
+------RGIFPKVATNILRAWLFQHLTHPYPSEDQKKQLAQDTG---------------------LTILQ
+VNNWFINARRR-----------------*
+>P1;gi|34877688|ref|XP_341419.1| similar to pre-B-cell leukemia tran... [ score 105 E 3e-22 ] [ range 528 .. 585 ]
+sequence
+------RRNFSKQATEVLNEYFYSHLSNPYPSEETKEELARKGG---------------------ITVSQ
+VSNWFGNKRIRYKKN-------------*
+>P1;gi|1495714|emb|CAA61896.1| mTGIF protein [Mus musculus] [ score 104 E 5e-22 ] [ range 39 .. 93 ]
+sequence
+------RGNLPKESVQILRDWLYEHRYNAYPSEQEKALLSQQTH---------------------LSTLQ
+VCNWFINARRRL----------------*
+>P1;gi|15236156|ref|NP_195187.1| homeodomain-containing protein [Ara... [ score 104 E 5e-22 ] [ range 318 .. 374 ]
+sequence
+------QRGLPENSVLILRAWLFEHFLHPYPKDSDKIMLARQTG---------------------LSRGQ
+VSNWFINARVRLWK--------------*
+>P1;gi|15238073|ref|NP_198957.1| homeodomain protein (BEL1) [Arabido... [ score 104 E 5e-22 ] [ range 395 .. 451 ]
+sequence
+------QRGLPERAVTTLRAWLFEHFLHPYPSDVDKHILARQTG---------------------LSRSQ
+VSNWFINARVRLWK--------------*
+>P1;gi|11463941|dbj|BAB18584.1| CRKNOX2 [Ceratopteris richardii] [ score 103 E 7e-22 ] [ range 315 .. 371 ]
+sequence
+------KGKLPREARQMLLDWWTQHYKWPYPSEAEKTALAESTG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|33604041|gb|AAH56317.1| Unknown (protein for MGC:65739) [Dani... [ score 103 E 8e-22 ] [ range 265 .. 318 ]
+sequence
+------RGIFPKVATNIMRAWLFQHLTHPYPSEEQKRQLSQDTG---------------------LTILQ
+VNNWFINARRR-----------------*
+>P1;gi|15222227|ref|NP_177674.1| BEL1-like homeodomain 3 protein (BL... [ score 103 E 1e-21 ] [ range 350 .. 406 ]
+sequence
+------QRGLPENSVSILRAWLFEHFLHPYPKESEKIMLSKQTG---------------------LSKNQ
+VANWFINARVRLWK--------------*
+>P1;gi|25407870|pir||C84670 probable homeodomain transcription facto... [ score 103 E 1e-21 ] [ range 232 .. 288 ]
+sequence
+------QRGLPEKAVSVLRSWLFEHFLHPYPRDLDKVMLAKQTG---------------------LTKSQ
+VSNWFINARVRMWK--------------*
+>P1;gi|28797555|gb|AAO47087.1| homeodomain-containing protein [Ventu... [ score 103 E 1e-21 ] [ range 310 .. 363 ]
+sequence
+------RGVLPKQATSIMRAWLFHHLVHPYPTEDEKRQIASQTN---------------------LTLLQ
+VNNWFINARRR-----------------*
+>P1;gi|25154693|ref|NP_741526.1| C.Elegans Homeobox, UNCoordinated l... [ score 103 E 2e-21 ] [ range 355 .. 408 ]
+sequence
+------RGIFPKQATNRLRQWLFQNLTHPYPSEEQKKQLAKETG---------------------LTILQ
+VNNWFINARRR-----------------*
+>P1;gi|18859237|ref|NP_571966.1| pbx/knotted 1 homeobox 1.1 [Danio r... [ score 102 E 2e-21 ] [ range 270 .. 323 ]
+sequence
+------RGVLPKQATNVMRSWLFQHIAHPYPTEEEKKQIATQTN---------------------LTLLQ
+VNNWFINARRR-----------------*
+>P1;gi|39593950|emb|CAE70060.1| Hypothetical protein CBG16494 [Caeno... [ score 102 E 2e-21 ] [ range 192 .. 249 ]
+sequence
+------RRNFSKQATEVLNEYFYGHLSNPYPSEEAKEDLARQCN---------------------ITVSQ
+VSNWFGNKRIRYKKN-------------*
+>P1;gi|34897808|ref|NP_910250.1| P0514G12.24 [Oryza sativa (japonica... [ score 102 E 2e-21 ] [ range 125 .. 181 ]
+sequence
+------QRGLPERAVAVLRAWLFEHFLHPYPNDVDKHILARQTG---------------------LSRSQ
+VSNWFINARVRLWK--------------*
+>P1;gi|45383672|ref|NP_989557.1| PBX/knotted 1 homeobox 2 [Gallus ga... [ score 102 E 2e-21 ] [ range 291 .. 344 ]
+sequence
+------RGVLPKHATNIMRSWLFQHLMHPYPTEDEKRQIAAQTN---------------------LTLLQ
+VNNWFINARRR-----------------*
+>P1;gi|18859217|ref|NP_571687.1| pre-B-cell leukemia transcription f... [ score 102 E 2e-21 ] [ range 256 .. 313 ]
+sequence
+------RRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELAKQCS---------------------ITVSQ
+VSNWFGNKRIRYKKN-------------*
+>P1;gi|40745696|gb|EAA64852.1| hypothetical protein AN2020.2 [Asperg... [ score 101 E 4e-21 ] [ range 189 .. 243 ]
+sequence
+------RGNLPKPVTEILKAWFHAHLDHPYPSEEDKQMLMSRTG---------------------LTINQ
+ISNWFINARRRH----------------*
+>P1;gi|4240539|gb|AAD13611.1| knotted class 1 homeodomain protein li... [ score 101 E 5e-21 ] [ range 208 .. 264 ]
+sequence
+------KGKLPKDARTVLLEWWNTHYRWPYPTEEDKVRLAAMTG---------------------LDPKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|2052385|gb|AAC51243.1| homeobox-containing protein [Homo sapi... [ score 101 E 5e-21 ] [ range 262 .. 315 ]
+sequence
+------RGVLPKHATNVMRSWLFQHIGHPYPTEDEKKQIAAQTN---------------------LTLLQ
+VNNWFINARRR-----------------*
+>P1;gi|21361246|ref|NP_071873.1| Iroquois related homeobox 6 [Mus mu... [ score 101 E 6e-21 ] [ range 147 .. 203 ]
+sequence
+------RKNATRESTSALKAWLHEHRKNPYPTKGEKIMLAIITK---------------------MTLTQ
+VSTWFANARRRLKK--------------*
+>P1;gi|42570557|ref|NP_850951.2| homeobox transcription factor (KNAT... [ score 101 E 6e-21 ] [ range 250 .. 306 ]
+sequence
+------KGKLPREARQALLDWWNLHYKWPYPTEGDKIALADATG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|41054649|ref|NP_955861.1| TG interacting factor [Danio rerio]... [ score 100 E 7e-21 ] [ range 40 .. 94 ]
+sequence
+------RGNLPKESVQILRDWLYQHRYNAYPSEQEKALLSKQTH---------------------LSTLQ
+VCNWFINARRRL----------------*
+>P1;gi|15983781|gb|AAL10487.1| At2g16400/F16F14.10 [Arabidopsis thal... [ score 100 E 8e-21 ] [ range 289 .. 345 ]
+sequence
+------QRGLPDSSVLVLRAWLFEHFLHPYPKDSDKIMLARQTG---------------------LSRGQ
+VSNWFINARVRLWK--------------*
+>P1;gi|4589880|dbj|BAA76903.1| homeobox 9 [Nicotiana tabacum] [ score 100 E 8e-21 ] [ range 247 .. 303 ]
+sequence
+------KGKLPREARQILLNWWTTHYKWPYPTEGEKICLAESTG---------------------LDPKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|32307785|gb|AAP79289.1| iroquois [Saccoglossus kowalevskii] [ score 100 E 9e-21 ] [ range 142 .. 198 ]
+sequence
+------RKNATRETTSTLKAWLYEHRKNPYPTKGEKIMLAIITK---------------------MTLTQ
+VSTWFANARRRLKK--------------*
+>P1;gi|11141881|ref|NP_068581.1| TGFB-induced factor 2; TGF(beta)-in... [ score 100 E 9e-21 ] [ range 22 .. 76 ]
+sequence
+------RGNLPKESVKILRDWLYLHRYNAYPSEQEKLSLSGQTN---------------------LSVLQ
+ICNWFINARRRL----------------*
+>P1;gi|3327269|dbj|BAA31698.1| PKn1 [Ipomoea nil] [ score 100 E 1e-20 ] [ range 256 .. 312 ]
+sequence
+------KGKLPKDARQILLEWWKGHYRWPYPTEDDKISLAELTG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|7446248|pir||T02783 probable homeotic protein - rice >gi|2935... [ score 100 E 1e-20 ] [ range 223 .. 279 ]
+sequence
+------KGKLPKDARSALMDWWNTHYRWPYPTEEDKVRLAAMTG---------------------LDPKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|3327271|dbj|BAA31699.1| PKn2 [Ipomoea nil] [ score 100 E 1e-20 ] [ range 243 .. 299 ]
+sequence
+------KGKLPKEARQTLLDWWSDHYKWPYPTEADKIALAESTG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|15234005|ref|NP_195024.1| homeobox protein (ATH1) [Arabidopsi... [ score 100 E 2e-20 ] [ range 376 .. 432 ]
+sequence
+------QRGLPEKSVSVLRNWMFQNFLHPYPKDSEKHLLAIRSG---------------------LTRSQ
+VSNWFINARVRLWK--------------*
+>P1;gi|20302758|gb|AAM18882.1| unknown [Branchiostoma floridae] [ score 100 E 2e-20 ] [ range 152 .. 209 ]
+sequence
+------RRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELARKCG---------------------ITVSQ
+VSNWFGNKRIRFKKN-------------*
+>P1;gi|34905510|ref|NP_914102.1| putative knotted1-type homeobox pro... [ score 99 E 2e-20 ] [ range 214 .. 270 ]
+sequence
+------KGKLPKDARSALLEWWNTHYRWPYPTEEDKLRLAARTG---------------------LDPKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|42552449|gb|EAA75292.1| hypothetical protein FG05475.1 [Gibbe... [ score 99 E 2e-20 ] [ range 316 .. 369 ]
+sequence
+------RGNLPKETTDKLRAWFVAHLQHPYPTEDEKQDLMRQTG---------------------LQMNQ
+ISNWFINARRR-----------------*
+>P1;gi|39930475|ref|NP_150366.1| iroquois homeobox protein 2 [Homo s... [ score 99 E 2e-20 ] [ range 118 .. 174 ]
+sequence
+------RKNATRDATATLKAWLNEHRKNPYPTKGEKIMLAIITK---------------------MTLTQ
+VSTWFANARRRLKK--------------*
+>P1;gi|25386225|pir||A96729 homeotic protein (ATK1), 26548-32058 [im... [ score 99 E 2e-20 ] [ range 235 .. 291 ]
+sequence
+------KGKLPREARQALLDWWNVHNKWPYPTEGDKISLAEETG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|7581979|emb|CAB88029.1| knotted1-like homeobox protein [Dendr... [ score 99 E 3e-20 ] [ range 208 .. 264 ]
+sequence
+------KGKLPKEARQILFEWWTAHYKWPYPTEADKIALAEATG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|20977642|gb|AAM28231.1| knotted-1-like protein 1 [Helianthus ... [ score 98 E 4e-20 ] [ range 270 .. 326 ]
+sequence
+------KGKLPKEARQQLLDWWTRHYKWPYPSEAQKLALAESTG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|1212885|emb|CAA64486.1| araucan homeoprotein [Drosophila mela... [ score 98 E 4e-20 ] [ range 258 .. 314 ]
+sequence
+------RKNATRESTATLKAWLNEHKKNPYPTKGEKIMLAIITK---------------------MTLTQ
+VSTWFANARRRLKK--------------*
+>P1;gi|39580157|emb|CAE56772.1| Hypothetical protein CBG24578 [Caeno... [ score 98 E 6e-20 ] [ range 567 .. 617 ]
+sequence
+---------FSKEAITKFRAWLFQNLAHPYPSEEQKKQLAKETG---------------------LTILQ
+VNNWFINARRR-----------------*
+>P1;gi|17564920|ref|NP_504232.1| C.Elegans Homeobox, UNCoordinated l... [ score 97 E 7e-20 ] [ range 399 .. 449 ]
+sequence
+---------FSKEAITKFRAWLFHNLTHPYPSEEQKKQLAKETG---------------------LTILQ
+VNNWFINARRR-----------------*
+>P1;gi|39583206|emb|CAE61424.1| Hypothetical protein CBG05292 [Caeno... [ score 97 E 8e-20 ] [ range 188 .. 244 ]
+sequence
+------RKNFSRQSTEILNNYFQAHITHPYPTEQEKEELARQCN---------------------ISVGQ
+VSNWFGNKRIRYKK--------------*
+>P1;gi|1170312|sp|P46608|HMB1_SOYBN Homeobox protein SBH1 >gi|629614... [ score 97 E 8e-20 ] [ range 287 .. 343 ]
+sequence
+------KGKLPKEARQQLLEWWNRHYKWPYPSESQKLALAESTG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|7446251|pir||T07777 probable homeobox protein H1 - potato >gi... [ score 97 E 8e-20 ] [ range 267 .. 323 ]
+sequence
+------KGKLPKEARQMLLAWWDDHFRWPYPTEADKNSLAESTG---------------------LDPKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|4589884|dbj|BAA76905.1| homeobox 22 [Nicotiana tabacum] [ score 97 E 8e-20 ] [ range 242 .. 298 ]
+sequence
+------KGKLPKEARQMLLAWWNDHYRWPYPTEADKNSLAESTG---------------------LDPKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|18859015|ref|NP_571972.1| myeloid ecotropic viral integration... [ score 97 E 1e-19 ] [ range 265 .. 318 ]
+sequence
+------RGIFPKVASTIMIPWVFQHLTHPYPSEEQKRQLSQDTG---------------------LTILQ
+VNNWFINARRR-----------------*
+>P1;gi|17505915|ref|NP_492533.1| homeobox protein (1K114) [Caenorhab... [ score 97 E 1e-19 ] [ range 119 .. 175 ]
+sequence
+------KRNATREATAPLKDWLHSHRKNPYPSKADKVMLAVGTG---------------------MTLTQ
+VSTWFANARRRLKK--------------*
+>P1;gi|18389212|gb|AAL67665.1| invaginata [Antirrhinum majus] [ score 97 E 1e-19 ] [ range 258 .. 314 ]
+sequence
+------KGKLPKEARQQLLDWWSRHYKWPYPSESQKLALAEQTG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|11463937|dbj|BAB18582.1| CRKNOX1 [Ceratopteris richardii] [ score 97 E 1e-19 ] [ range 397 .. 453 ]
+sequence
+------KGKLPKNAREKLLDWWNQHYKWPYPSEAEKAALAETTG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|31323445|gb|AAP47024.1| bell-like homeodomain protein 1 [Lyco... [ score 97 E 1e-19 ] [ range 305 .. 360 ]
+sequence
+-------RGLPETSVAFLRSWLFEHFLHPYPNDSEKLMLSSQTG---------------------LSKNQ
+VSNWFINARVRLWK--------------*
+>P1;gi|31323449|gb|AAP47026.1| bell-like homeodomain protein 4 [Lyco... [ score 96 E 2e-19 ] [ range 229 .. 285 ]
+sequence
+------QRGLPERSVSVLRAWMFQNFLHPYPKDAEKQLLAVKSG---------------------LTRSQ
+VSNWFINARVRLWK--------------*
+>P1;gi|5103727|dbj|BAA79225.1| knotted1-type homeobox protein OSH43 ... [ score 96 E 2e-19 ] [ range 233 .. 289 ]
+sequence
+------KGKLPKEARQKLLHWWELHYKWPYPSEMEKMTLAQTTG---------------------LDQKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|40538948|gb|AAR87205.1| putative KNOX class homeodomain prote... [ score 96 E 2e-19 ] [ range 236 .. 289 ]
+sequence
+---------LPRDARHKLLQWWHLHYRWPYPSEAEKAALAESTG---------------------LDKKQ
+VTNWFINQRKRHWK--------------*
+>P1;gi|40538935|gb|AAR87192.1| putative KNOTTED-1-like homeobox prot... [ score 96 E 2e-19 ] [ range 226 .. 282 ]
+sequence
+------KGKLPRDARQKLLHWWQLHYRWPYPSELEKAALAESTG---------------------LDAKQ
+INNWFINQRKRHWK--------------*
+>P1;gi|833625|emb|CAA51488.1| LFB1 /HNF1 [Xenopus laevis] [ score 167 E 5e-41 ] [ range 101 .. 177 ]
+sequence
+------RFKWGPASQQILFQAYERQ---KNPSKEEREALVEECNRAECLQRGVSPSQAQGLGSNLVTEVR
+VYNWFANSGKEEAFRH------------*
+>P1;gi|35902826|ref|NP_919353.1| wu:fc23f06 [Danio rerio] >gi|179330... [ score 164 E 3e-40 ] [ range 248 .. 323 ]
+sequence
+------RFKWGPASQEILYQAYERQ---KNPSKEEREALVEECNRAECVQRGVSPSKAHGLGSNLVTEVR
+VYNWFANRRKEEAFR-------------*
+>P1;gi|6647562|sp|Q91474|HNF1_SALSA Hepatocyte nuclear factor 1 (HNF... [ score 162 E 3e-39 ] [ range 192 .. 268 ]
+sequence
+------RFKWGPASQQILFHAYERQ---RNPSKEEREGLVEECNRAECLQRGVSPSQLAGLGSNLVTEVR
+VYNWFANRRKEEAFRH------------*
+>P1;gi|25092678|ref|NP_739570.1| transcription factor 1; hepatocyte ... [ score 159 E 1e-38 ] [ range 190 .. 266 ]
+sequence
+------RFKWGPASLQILFQAYERQ---KNPSKEEREGLVEECNRAECLQRGVSPSQLAGLGSNLVTEVR
+VYNWFANRRKEEAFRH------------*
+>P1;gi|417136|sp|Q03365|HNFB_PIG Hepatocyte nuclear factor 1-beta (H... [ score 157 E 7e-38 ] [ range 235 .. 311 ]
+sequence
+------RFKWGPASQQILYQAYDRQ---KNPSKEEREALVEECNRAECLQRGVSPSKAHGLGSNLVTEVR
+VYNWFANRRKEEAFR-------------*
+>P1;gi|34875755|ref|XP_343992.1| similar to Hepatocyte nuclear facto... [ score 71 E 5e-12 ] [ range 155 .. 188 ]
+sequence
+---------------------------------------------------GSPPPKPHGLGSNLVTEVR
+VYNWFANRRKEEAFR-------------*

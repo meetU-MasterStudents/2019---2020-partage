@@ -1,0 +1,332 @@
+>P1;1cwva3
+structureX:1cwv: 503 :A: 596 :A:invasin:Yersinia pseudotuberculosis: 2.30: 22.4
+----LT---LTAAVIGDGAPANGKTAITVEFTVADFEGKPLAGQ-EVVITTNNGALPNKITEKTDANGVA
+RIALTNTTDGVTVVTAEVEGQRQ------SVDTHFVKG*
+>P1;1cwva1
+structureX:1cwv: 597 :A: 692 :A:invasin:Yersinia pseudotuberculosis: 2.30: 22.4
+---TIAADKSTLAAVPTSIIADGLMASTITLELKDTYGDPQAGA-NVAFDTT--LG-NMGVITDHNDGTY
+SAPLTSTTLGVATVTVKVDGAAFSVP---SVTVNFT--*
+>P1;1cwva2
+structureX:1cwv: 693 :A: 795 :A:invasin:Yersinia pseudotuberculosis: 2.30: 22.4
+ADPIPDAGRSSFTVSTPDILADGTMSSTLSFVPVDKNGHFISGMQGLSFTQNGVPV-SISPITEQPD-SY
+TATVVGNSVGDVTITPQVDTLIL---STLQKKISLFPV*
+>P1;gi|124714|sp|P19196|INVA_YEREN Invasin >gi|96966|pir||S11442 inv... [ score 121 E 5e-27 ] [ range 452 .. 540 ]
+sequence
+---------ITSEVTDDGALADGRTPITVKFTVTNIDSTPVAEQ-EGVITTSNGALPSKVTKKTDAQGVI
+SIALTSFTVGVSVVTLDIQGQQA------TVDVRF---*
+>P1;gi|1073725|pir||S54216 invasin - Yersinia enterocolitica (strain... [ score 120 E 6e-27 ] [ range 452 .. 540 ]
+sequence
+---------ITSEVTDDGALADGRTPITVKFTVTNIDGTPVAEQ-EGVITTSNGALPSKVTKKTDAQGVI
+SIALTSFTVGGSVVTLDIQGQQA------TVDVRF---*
+>P1;gi|40850644|gb|AAR96042.1| tetR(C)-invasin fusion protein [Chlam... [ score 117 E 7e-26 ] [ range 282 .. 371 ]
+sequence
+----------TINILKNNQPANNQDQAEVIFTIVDAHNNPIPNF-AVTATASNQATLDTVPSTTDASGQI
+RVSLKNNRSGITEVTATSNNTSS------TAKLEFLP-*
+>P1;gi|12188894|emb|CAC21552.1| intimin zeta [Escherichia coli] >gi|... [ score 103 E 1e-21 ] [ range 663 .. 744 ] [ duplicate a ]
+sequence
+-----------INADKKTAKANGSDAITYTVKVMK-DGKPLSAQ-DVTFTATLGTL-SKSTEKTDANGYA
+KVTLTSKTTGKSLVSARISGSAI------DVK------*
+>P1;gi|12188894|emb|CAC21552.1| intimin zeta [Escherichia coli] >gi|... [ score 103 E 1e-21 ] [ range 567 .. 650 ] [ duplicate b ]
+sequence
+---------------KTSAKADNADTITYTA-VVKKNGVTQANV-PVSFNIVSGATLSAKSANTNSSGKV
+TVTLKSDKPGQVVVSAKTAEMTS------ALNAHAV--*
+>P1;gi|22653335|gb|AAN04015.1| intimin alpha 2 [Escherichia coli] [ score 102 E 2e-21 ] [ range 667 .. 744 ] [ duplicate a ]
+sequence
+---------------KTTAVANGKDAITYTVKVMK-NGQPVSGE-EVTFTKTLGTL-SKPTEKTDANGYA
+KVTLTSATQGKSLVSARVSDVAV------DVK------*
+>P1;gi|22653335|gb|AAN04015.1| intimin alpha 2 [Escherichia coli] [ score 102 E 2e-21 ] [ range 567 .. 637 ] [ duplicate b ]
+sequence
+---------------KTSAKADGNEAITYTATVKK-NGVAQANV-PVSFNIVSGAVLSANSANTNGSGKA
+TVTLKSDKPGQVVVSAK---------------------*
+>P1;gi|18265954|gb|AAL67424.1| zeta intimin [Escherichia coli] >gi|1... [ score 102 E 2e-21 ] [ range 567 .. 650 ] [ duplicate b ]
+sequence
+---------------KTSAKADGNDTITYTA-VVKKNGVTQANV-PVSFNIVSGATLSAKSANTNSSGKV
+TVTLKSDKPGQVVVSAKTAEMTS------ALNAHAV--*
+>P1;gi|119099|sp|P19809|EAE_ECO27 Intimin (Attaching and effacing pr... [ score 100 E 6e-21 ] [ range 667 .. 744 ] [ duplicate a ]
+sequence
+---------------KTTAVANGQDAITYTVKVMKGD-KPVSNQ-EVTFTTTLGKLSNS-TEKTDTNGYA
+KVTLTSTTPGKSLVSARVSDVAV------DVK------*
+>P1;gi|15384864|emb|CAC59748.1| intimin-kappa [Escherichia coli] [ score 91 E 8e-18 ] [ range 667 .. 744 ] [ duplicate a ]
+sequence
+---------------KTTAVANGQDAITYTVKVMK-NGQPLSGE-EVTFFTDFGAL-DKTKVTTDQSGYA
+TVKLSSSTSGKAIVRAKVSDVDT------EVK------*
+>P1;gi|15384864|emb|CAC59748.1| intimin-kappa [Escherichia coli] [ score 91 E 8e-18 ] [ range 567 .. 637 ] [ duplicate b ]
+sequence
+---------------KTSAKADGTEAITYTATVKK-NGVAQANV-PVSFNIVSGAVLSANSANTNSSGKA
+TVTLTSNKPGQVVVSAK---------------------*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 555 .. 641 ] [ duplicate a ]
+sequence
+------------ATTIDNATANGIATNTVQATVTDGDGQPIIGQ-LINFAVNTQATLSTTEARTGANGTA
+STTLTHTVSGVSRVSVTLGSSSR------SVDTTFV--*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 649 .. 743 ] [ duplicate b ]
+sequence
+---------ITAAVTTNDSVANGSDTNVVRAKVTDAYTNAVANQ-SVIFSASNGATVIDQTVITNAEGIA
+DSTLTNTTAGVSVVTATLGGQSQ------QVDTTFKPG*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 1042 .. 1133 ] [ duplicate c ]
+sequence
+----IT---LTAPV--NGAVADGADTNQVDALVEDANGNPITGA-AVVFSSANGATILSSTMNTGVNGVA
+STLLTHTVAGTSNVVATVDTVNA------NIDTTFVAG*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 1331 .. 1422 ] [ duplicate d ]
+sequence
+----IT---LTAPV--NGAVADGADTNQVDALVEDANGNPITGA-AVVFSSANGATILSSTMNTGVNGVA
+STFLTHTVAGTSNVVATIGSVTE------NIDTAFVAG*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 1926 .. 2011 ] [ duplicate e ]
+sequence
+-------------VIVDDAVADNLDKNEVHARVTDAKGNVLSGQ-TVIFTSGNGAAITTVNGISDGDGLT
+KATLTHTLAGTSVVTARVGNRVQ------SKDTTFI--*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 2625 .. 2717 ] [ duplicate f ]
+sequence
+----------TLMVVDNNALADGVTRNQVRAHVVDSTGNSVADM-AVTFTANRGAQLSKVTVLTDNNGDA
+VNTLTNSLVGVTVVTAKLGGTPL------TVDTVFTAG*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 1235 .. 1326 ] [ duplicate g ]
+sequence
+----IT---LTAPV--NGAVADGADTNQVDALVQDANGNAITGA-AVVFSSANGADIIAPTMNTGVNGVA
+STLLTHTVAGTSNVVATIDTISA------NIDTAFVAG*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 944 .. 1037 ] [ duplicate h ]
+sequence
+-----T---ITLTVPVNGAVANGVNTNSVQAVVSDSGGNPVTGA-TVVFSSTNAAQVTTVIGTTGVDGIA
+TATLTNTVAGTSNVVATIDTVNA------NIDTAFVAG*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 1137 .. 1230 ] [ duplicate i ]
+sequence
+-----T---ITLTTPVNGAVADGANSNSVQAVVSDSDGNPVTGA-AVVFSSANAAQITTVIGTTGADGIA
+TATLTNTVAGTSNVVATIDTVNA------NIDTAFVAG*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 1427 .. 1519 ] [ duplicate j ]
+sequence
+----IT---LTAPV--NGAVADGVNTNSVQAVVSDSDGNAVTGA-TVVFSSANAAQITTVIGTTGADGIA
+TATLTNTVAGTSNVVATIDTVNA------NIDTTFVAG*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 848 .. 940 ] [ duplicate k ]
+sequence
+----------TLAAIDNNAKADGTDTNVVRAWVVDANGNSVPGV-SVTFDAGNGAVLAQNPVVTDRNGYA
+ENTLTNLAIGTTTVKATTVTDGQ------TVNTHFVAG*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 2721 .. 2796 ] [ duplicate l ]
+sequence
+-----T---LTLVTTVNNAFADNSATNTVQATLKDVSGNPIVGE-VVAFAASNGATITATDGVSNANGIV
+LATLTNGTAGVSTV------------------------*
+>P1;gi|16124072|ref|NP_407385.1| putative invasin [Yersinia pestis] ... [ score 89 E 3e-17 ] [ range 2026 .. 2113 ] [ duplicate m ]
+sequence
+-------------ITRNNALADGVATNAARVIVTDANGNPVPSM-FVGYTSDNGALLTPTSGMTDSSGTF
+STTFTHTTAGISKVTAAIMGISQ------TKDAVFI--*
+>P1;gi|45443055|ref|NP_994594.1| putative invasin [Yersinia pestis b... [ score 88 E 6e-17 ] [ range 1235 .. 1326 ] [ duplicate c ]
+sequence
+----IT---LTAPV--NGAVADGADTNQVDALVEDANGNPITGA-AVVFSSANGATILSSTMNTGVNGVA
+STLLTHTVAGTSNVVATVDTVNA------NIDTAFVPG*
+>P1;gi|1706558|sp|P52869|EAEA_HAFAL Intimin (Outer membrane protein)... [ score 86 E 1e-16 ] [ range 8 .. 77 ]
+sequence
+---------------KTTAVANGKDAVTYTVKVMK-DGKPLSGE-EVTFTTTLGTL-SKSTEKTNTNGYR
+KVSLTSANQGKSLVSASV--------------------*
+>P1;gi|22653337|gb|AAN04016.1| intimin beta 2 [Escherichia coli] [ score 85 E 4e-16 ] [ range 667 .. 748 ]
+sequence
+---------------KTTAKANGSDAVTYTVKVMKG-GTPVSGQ-KVTFSKDFGTL-DKTEATTDQNGYA
+TVKLSSSTPGKAIVSAKVSDVDT------EVKATTV--*
+>P1;gi|1947048|gb|AAB52913.1| intimin [ score 85 E 4e-16 ] [ range 667 .. 745 ] [ duplicate a ]
+sequence
+---------------KTTAVANNQDAITYTVKVME-NGQPLSGE-EVTFFTDFGAL-DKTKVTTDQSGYA
+TVKLSSSTSGKAIVRAKVSDVDT------EVK------*
+>P1;gi|1169454|sp|Q07591|EAE_CITFR Intimin (Attaching and effacing p... [ score 82 E 3e-15 ] [ range 660 .. 741 ] [ duplicate a ]
+sequence
+-----------IKVDKTIATADNKDTIEYTVKVMKG-GNPISGQ-KVTFSKDFGTL-NKTEATTDQNGYA
+TVKLSSGTPGKAIVSAKVSEVNT------EVK------*
+>P1;gi|1169454|sp|Q07591|EAE_CITFR Intimin (Attaching and effacing p... [ score 82 E 3e-15 ] [ range 564 .. 634 ] [ duplicate b ]
+sequence
+---------------KTSAKADNSDTITYTATVKK-NGVAQANV-PVSFNIVSGATLSAKSANTNSSGKA
+TVTLKSDKPGQVVVSAK---------------------*
+>P1;gi|33341968|emb|CAE18113.1| intimin nu [Escherichia coli] [ score 81 E 4e-15 ] [ range 5 .. 82 ]
+sequence
+---------------KTTAVANGKDAITYTVKVMK-NGQPLSGE-EVTFTKTLGTL-SKSIEKTDANGYA
+KVTLTSVTQGKSLVSARVSDVAV------DVK------*
+>P1;gi|2809548|gb|AAB97764.1| intimin [Escherichia coli] [ score 81 E 4e-15 ] [ range 668 .. 749 ] [ duplicate a ]
+sequence
+---------------KTTAKADGSDAITYTVRVMK-EGAPVVDQ-KVTFSKDFGTL-NKTEATTDQNGYA
+TVKLSSNTPGKAIVSAKVSGVGT------EVKATTV--*
+>P1;gi|2809548|gb|AAB97764.1| intimin [Escherichia coli] [ score 81 E 4e-15 ] [ range 567 .. 638 ] [ duplicate b ]
+sequence
+---------------KTSAKADGIEAITYTATVKK-NGVAQANV-PVTFSIVSGATLGANSARTDGNGKA
+TVTLKSTTAGQVVVSVK---------------------*
+>P1;gi|1389879|gb|AAC32030.1| intimin [Escherichia coli] >gi|1389883... [ score 81 E 5e-15 ] [ range 567 .. 637 ] [ duplicate b ]
+sequence
+---------------KTSAKADGIEAITYTATVKK-NGVAQANV-PVTFSIVSGATLGANSARTDGNGKA
+TVTLKSATPGQVVVSAK---------------------*
+>P1;gi|22653339|gb|AAN04017.1| intimin lambda [Escherichia coli] [ score 76 E 2e-13 ] [ range 667 .. 744 ] [ duplicate a ]
+sequence
+---------------KTTAVANGKDAIKYTVKVMKS-GQPVKGY-DVTFLTTAGNL-SKTKELTDKDGYA
+TVNLTSNAAGKAVVSAKVSDVNT------EVK------*
+>P1;gi|22653339|gb|AAN04017.1| intimin lambda [Escherichia coli] [ score 76 E 2e-13 ] [ range 567 .. 637 ] [ duplicate b ]
+sequence
+---------------KTSAKADNADTITYTATVKK-NGVAQANA-PVTFSIVSGATLGANSAKTDSNGKA
+TVTLKSSTPGQIVVSAK---------------------*
+>P1;gi|41334|emb|CAA77642.1| EHEC attaching and effacing (Eae) prote... [ score 72 E 3e-12 ] [ range 667 .. 740 ] [ duplicate a ]
+sequence
+---------------KTTAVANGKDAIKYTVKVMK-NGQPVNNQ-SVTFSTNFGMFKSQTQATTGNDGRA
+TITLTSSSAGKATVSATVS-------------------*
+>P1;gi|41334|emb|CAA77642.1| EHEC attaching and effacing (Eae) prote... [ score 72 E 3e-12 ] [ range 567 .. 646 ] [ duplicate b ]
+sequence
+---------------KTSAKADNADTITYTATVKKNGNVPVSFN-IVSGTATLGANS----AKTDANGKA
+TVTLKSSTPGQVVVSAKTAEMSS------ALN------*
+>P1;gi|15384862|emb|CAC59747.1| intimin-jota [Escherichia coli] [ score 70 E 9e-12 ] [ range 667 .. 744 ] [ duplicate a ]
+sequence
+---------------KTTAVANGKDAVTYTVKVMK-NGLPEKGH-VVTFSTDLGKL-NLQTVATDKDGFA
+SVTLTSDSVGKAVVSAKVSEAGS------VVN------*
+>P1;gi|15384862|emb|CAC59747.1| intimin-jota [Escherichia coli] [ score 70 E 9e-12 ] [ range 567 .. 637 ] [ duplicate b ]
+sequence
+---------------KTSAKADGTEAITYTATVKKNGNVPVSFN-IVSGTATLGANS----AKTDANGKA
+TVTLKSSTPGQVVVSAK---------------------*
+>P1;gi|13897564|gb|AAK48434.1| intimin type gamma [Escherichia coli] [ score 70 E 1e-11 ] [ range 667 .. 742 ] [ duplicate a ]
+sequence
+---------------KTTAVANGNDAVTYTVKVMK-EGQPVQGH-SVAFTTNFGMFNGKSQATTGSDGRA
+TITLTSSSAGKATVSATVSG------------------*
+>P1;gi|13897564|gb|AAK48434.1| intimin type gamma [Escherichia coli] [ score 70 E 1e-11 ] [ range 567 .. 637 ] [ duplicate b ]
+sequence
+---------------KTSAKADGTEAITYTATVKKNGNVPVSFN-IVSGTATLGANS----ATTDANGKA
+TVTLKSSTPGQVILSAK---------------------*
+>P1;gi|11037701|gb|AAG27704.1| intimin type epsilon [Escherichia coli] [ score 68 E 6e-11 ] [ range 659 .. 745 ] [ duplicate a ]
+sequence
+---------------KTTAKANGSDAITYIVKVMK-NNQPEANH-SVTFSTNFGNLSNTQIVKTDKDGRA
+TVKLTSGVAGNAVVSAKVSEVNT------EVKAPEVK-*
+>P1;gi|11037701|gb|AAG27704.1| intimin type epsilon [Escherichia coli] [ score 68 E 6e-11 ] [ range 559 .. 629 ] [ duplicate b ]
+sequence
+---------------KTSAKADNVDTITYTATVKK-NGVAQANA-PVTFSIVSGATLGANSAKTDGNGKA
+TVTLKSGTPGQVVVSAK---------------------*
+>P1;gi|18958225|emb|CAC81930.1| intimin eta [Escherichia coli] [ score 66 E 2e-10 ] [ range 667 .. 748 ] [ duplicate a ]
+sequence
+---------------KTTAKADGSDAITYTVKVMK-NNQPEANH-SVTFSTNFGDLSNTQIVKTDKDGRA
+TVKLTSGVAGNAIVSAKVSEVNT------EVK------*
+>P1;gi|18958225|emb|CAC81930.1| intimin eta [Escherichia coli] [ score 66 E 2e-10 ] [ range 567 .. 637 ] [ duplicate b ]
+sequence
+---------------KTSAKADGTEAITYTATVKK-NGVAQANV-PVSFDIVSGATLSARSATTNSSGKA
+TVTLKSSKPGQVVVSAK---------------------*
+>P1;gi|22653333|gb|AAN04014.1| intimin epsilon 2 [Escherichia coli] [ score 65 E 6e-10 ] [ range 667 .. 753 ] [ duplicate a ]
+sequence
+---------------KTTAKANGSDAITYTVKVMK-NNQPEVNH-SVTFSTNFGNLSQTQIVQTDKDGKA
+TVKLTSGSEGSAVVSAKVSEVNT------EVKASEVK-*
+>P1;gi|22653333|gb|AAN04014.1| intimin epsilon 2 [Escherichia coli] [ score 65 E 6e-10 ] [ range 567 .. 637 ] [ duplicate b ]
+sequence
+---------------KTSAKADNTDTITYTAMVKKNGNVPVSFN-IVSGTATLGANS----AKTDANGKA
+TVTLKSSTPGQVVVSAK---------------------*
+>P1;gi|22653331|gb|AAN04013.1| intimin jota 2 [Escherichia coli] [ score 63 E 1e-09 ] [ range 667 .. 737 ]
+sequence
+---------------KTTAKADGVDAILYTVKVMK-NGVPEKGQ-VVAFSTNLGKL-NLQTVETNKDGLA
+SVTLTSVSVGKAVVSAKVS-------------------*
+>P1;gi|15800012|ref|NP_286024.1| putative adhesin [Escherichia coli ... [ score 63 E 2e-09 ] [ range 1003 .. 1088 ] [ duplicate a ]
+sequence
+-------------VKVNNQLANGQSANQITLTVVDTYGNPLQGQ-EVTLTLPQGVTSKTNTVTTNAAGKA
+DIELMSTVAGEHNISASVNGAQK------TVTVKF---*
+>P1;gi|15800012|ref|NP_286024.1| putative adhesin [Escherichia coli ... [ score 63 E 2e-09 ] [ range 1203 .. 1297 ] [ duplicate b ]
+sequence
+-----------IEVIGNYALADGNAKQTYKVTVTDANNNLLKDS-EVTLTASNLVLTPNGTAKTNEQGQA
+IFTATTTVAAKYTLTAKVQESTK------TAESKFV--*
+>P1;gi|15800012|ref|NP_286024.1| putative adhesin [Escherichia coli ... [ score 63 E 2e-09 ] [ range 1108 .. 1184 ] [ duplicate c ]
+sequence
+-------------------VANGKDAFTLTANVEDKNGNPVPGS-LVTFNLPRGVKPDNVWVKANDEGKA
+ELQVVSVTAGTYEITASAGNSQP------S--------*
+>P1;gi|26246313|ref|NP_752352.1| Putative adhesin [Escherichia coli ... [ score 63 E 2e-09 ] [ range 1003 .. 1088 ] [ duplicate a ]
+sequence
+-------------VKVNNQLANGQSANQITLTVVDSYGNPLQGQ-EVTLTLPQGVTSKTNTVTTNAAGKV
+DIELMSTVAGELEIEASVKNSQK------TVKVKF---*
+>P1;gi|26246313|ref|NP_752352.1| Putative adhesin [Escherichia coli ... [ score 63 E 2e-09 ] [ range 1202 .. 1262 ] [ duplicate b ]
+sequence
+----------SIEVIGNRAVADGKTKQTYKVTVTDANNNLLKDS-EVTLTASNLVLTPNGTATTNEQGQA
+--------------------------------------*
+>P1;gi|12247837|gb|AAG50050.1| intimin [Escherichia coli] [ score 61 E 7e-09 ] [ range 23 .. 109 ]
+sequence
+---------------KTTAKANGSDAITYTVKVMK-NNQPEANH-SVTFSTNFGKLSNTQTVKTDENGKA
+TVKLTSGAEGSAVVSAKVSEINT------EVKAPEVK-*
+>P1;gi|33341966|emb|CAE18112.1| eae [Escherichia coli] [ score 60 E 1e-08 ] [ range 3 .. 75 ]
+sequence
+------------------AVANGQDAITYTVKVMK-DGQPVQGH-SVTFSTNFGIFNGKSQATTGNDGRA
+TITLTSSSAGKATVSATVSG------------------*
+>P1;gi|21634404|gb|AAM63404.1| gamma intimin [Escherichia coli] [ score 60 E 2e-08 ] [ range 44 .. 119 ]
+sequence
+---------------KTTAVANGQDAVTYTVKVMK-DGKPVQGH-SVAFSTNFGMFNGKATAITGSDGRA
+TITLTSNSAGKATVSAAVSG------------------*
+>P1;gi|22126485|ref|NP_669908.1| putative adhesin [Yersinia pestis K... [ score 58 E 6e-08 ] [ range 698 .. 779 ] [ duplicate a ]
+sequence
+----------------NGQVADGESTNSVQLTVVDKFGNTVPGV-DVAFTTDIGAIISEVTP-TDANGVA
+TAKIISSQAKSHTVKATLNRKEQ------TVEVNFI--*
+>P1;gi|22126485|ref|NP_669908.1| putative adhesin [Yersinia pestis K... [ score 58 E 6e-08 ] [ range 588 .. 678 ] [ duplicate b ]
+sequence
+-----T---SSLQIITNGSLADDTDANQIRAVVVDAYGNKLSGV-QVNFTVGNNA---KITETTDKQGGV
+TAAITSTKAGTYTVTAELNGVTQ------QIDVNFIP-*
+>P1;gi|22126485|ref|NP_669908.1| putative adhesin [Yersinia pestis K... [ score 58 E 6e-08 ] [ range 787 .. 871 ] [ duplicate c ]
+sequence
+---------ITANVEVDGQVA-GSGTNQVQALVVDKKGNPVANM-TVNFTATNGVVVETTSAKTDENGKV
+TTNLSMTNVGISTVTATMINS-----------------*
+>P1;gi|27525978|emb|CAC81744.1| intimin [Escherichia coli] [ score 56 E 2e-07 ] [ range 14 .. 100 ]
+sequence
+---------------KTTAKANGSDAITYTVKVMK-NNQPEANH-SVTFSTNFGNLSNTQIVKTDKDGRA
+TVKLTSGVAGNAIVSAKVSEVNT------EVKAPEVK-*
+>P1;gi|38091808|emb|CAE53386.1| intimin omicron [Escherichia coli] >... [ score 55 E 3e-07 ] [ range 1 .. 53 ]
+sequence
+-----------------------------------------SGE-EVTFTTTLGTL-SKSTEKTNTNGYA
+KVTLTSTNQGKSLVSASVSNAAV------DVK------*
+>P1;gi|16129922|ref|NP_416485.1| hypothetical protein b1978 [Escheri... [ score 51 E 5e-06 ] [ range 1484 .. 1571 ] [ duplicate a ]
+sequence
+---------ITLAASKDPVIADNNDLTTLTATVADTEGNAIANT-EVTFTKANFTLSDGGKVITDAEGKA
+KVTLKGTKAGAHTVTASMTGGKS---------------*
+>P1;gi|16129922|ref|NP_416485.1| hypothetical protein b1978 [Escheri... [ score 51 E 5e-06 ] [ range 1582 .. 1671 ] [ duplicate b ]
+sequence
+-----T---LTANVTEDNFIANNVGMTRLQATVTDGNGNPLANE-AVTFTSASFTLGQGGSAITDINGKA
+EVTLSGTKSGTYPVTVSVNN------------------*
+>P1;gi|15804908|ref|NP_290949.1| putative invasin [Escherichia coli ... [ score 50 E 1e-05 ] [ range 900 .. 995 ] [ duplicate a ]
+sequence
+---------MTLNAGSGSAIANNTNIVTLTASVKDVYGHPLPDE-DVKFTMTGNFTLSSETARTDANGDA
+VVTLRGTKAGEFTVTATLNNTVA------YQQVTFI--*
+>P1;gi|15804908|ref|NP_290949.1| putative invasin [Escherichia coli ... [ score 50 E 1e-05 ] [ range 807 .. 893 ] [ duplicate b ]
+sequence
+----------------DTIIAGNSQGSTLTAIITDFHNNPLKDM-KVNFVAPGGSQLDNTTATTDQSGIV
+RVHLTSSKAGSYSVDASLENIHQ------SVTITVVP-*
+>P1;gi|15804908|ref|NP_290949.1| putative invasin [Escherichia coli ... [ score 50 E 1e-05 ] [ range 1011 .. 1089 ] [ duplicate c ]
+sequence
+----------------NSIVAGNSTGSTLTATILDAYQNPLKDQ-LVTF-QSNDVTLSETEVTTNTLGQA
+TVTMTSNIAGQHNVVVSRKAQAS------DNKT-----*
+>P1;gi|43928800|gb|EAG19378.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 87 .. 174 ]
+sequence
+------------NLTKDNALADGKQSNVAVVTLTDPYGNALSGY-TITL-----ALPSQVKATTDAKGEA
+RFSLTSSTPGTYEVTLNVGNISS------SLSVTF---*
+>P1;gi|15802461|ref|NP_288487.1| putative invasin [Escherichia coli ... [ score 48 E 4e-05 ] [ range 1761 .. 1848 ] [ duplicate b ]
+sequence
+---------ISLAASKDPVIANNNDLTTLTATVADTEGNAIANS-EVTFTRANFTLGDGGKVVTDTEGKA
+KVTLKGTKAGAHTVTASMAGGKS---------------*
+>P1;gi|15802461|ref|NP_288487.1| putative invasin [Escherichia coli ... [ score 48 E 4e-05 ] [ range 1143 .. 1231 ] [ duplicate c ]
+sequence
+---------VTLNIPAQQVVTNNSDSVQLTATVKDPSNHPVAGI-TVNFTAANFTLENNGIAITQANGEA
+HVTLKGKKAGTHTVTATLGNNNA------S--------*
+>P1;gi|15802461|ref|NP_288487.1| putative invasin [Escherichia coli ... [ score 48 E 4e-05 ] [ range 1346 .. 1442 ] [ duplicate d ]
+sequence
+---------VTLNIPAQQVVTNNSDSVQLTATVKDPSNHPVAGI-TVNFTAANFTLENNGIAITQANGEA
+HVTLKGKKAGTHTVTATLNNTSD------SQPVTFV--*
+>P1;gi|15643408|ref|NP_228452.1| clostripain-related protein [Thermo... [ score 48 E 6e-05 ] [ range 29 .. 114 ]
+sequence
+-----------STIIADNETHIAGRYAFVDVQVLDEYGLPVSGE-DVSFYVD-GAFLG--EATTDTSGVA
+RIGFFSPSEKTYTFTAVAGGVSR------SFDVSFTK-*
+>P1;gi|15832029|ref|NP_310802.1| hypothetical protein ECs2775 [Esche... [ score 48 E 6e-05 ] [ range 857 .. 933 ] [ duplicate b ]
+sequence
+---------------KNEVVADGNDSATMTATVRDAKGNLLNDV-KVTFNVNSAAAKLSQTEVNSHDGIA
+TATLTSLKNGDYTVTASVSSGSQ---------------*
+>P1;gi|15832029|ref|NP_310802.1| hypothetical protein ECs2775 [Esche... [ score 48 E 6e-05 ] [ range 751 .. 843 ] [ duplicate c ]
+sequence
+----------TLSASNNGVLANENAANTVSVNVADEGSNPINDH-TVTFAVLSGSATSQNTAKTDVNGLA
+TFDLKSSKQEDNTVEVTLNGVKQ------TLIVSFV--*
+>P1;gi|37525981|ref|NP_929325.1| hypothetical protein [Photorhabdus ... [ score 47 E 9e-05 ] [ range 126 .. 208 ]
+sequence
+---------------KNNAWTKGADENKVVATVYDRLGNGIKNQ-EITFYADSGATVVPSSGMTDKDGKI
+TASIQSSRAGEVILMAQAGAIEK------AIAMCF---*
+>P1;gi|22653331|gb|AAN04013.1| intimin jota 2 [Escherichia coli] [ score 49 E 2e-05 ] [ range 658 .. 750 ]
+sequence
+------ASITEIKASKTTAKADGVDAILYTVKVMKN-GVPEKGQ-VVAFSTN--LG-NLQTVETNKDGLA
+SVTLTSVSVGKAVVSAKVSEAGSVIN---ADAVNF---*
+>P1;gi|15384862|emb|CAC59747.1| intimin-jota [Escherichia coli] [ score 46 E 2e-04 ] [ range 658 .. 750 ]
+sequence
+------ASITEIKADKTTAVANGKDAVTYTVKVMKN-GLPEKGH-VVTFSTD--LG-NLQTVATDKDGFA
+SVTLTSDSVGKAVVSAKVSEAGSVVN---ADAVNF---*
+>P1;gi|15804908|ref|NP_290949.1| putative invasin [Escherichia coli ... [ score 45 E 5e-04 ] [ range 1301 .. 1391 ]
+sequence
+----------SVVASPDTITADGIDSSTITSRVEDDYGFPVEGV-DISLDTK--VV-NIPTTRTDQSGQV
+TATITSTLAETLTVNVQVPGTANQSA---TITL-----*
+>P1;gi|726319|gb|AAA96352.1| invasin [ score 209 E 2e-53 ] [ range 694 .. 796 ]
+sequence
+ADPIPDAGRSSFTVSTPDILADGTMSSTLSFVPVDKNGHFISGMQGLSFTQNGVPV-SISPITEQPD-SY
+TATVVGNTAGDVTITPLVDTLIL---STLQKKISLFPV*
+>P1;gi|124714|sp|P19196|INVA_YEREN Invasin >gi|96966|pir||S11442 inv... [ score 188 E 2e-47 ] [ range 545 .. 643 ]
+sequence
+----PDVTNSSFNVSPSDIVADGSMQSILTFVPRNKNNEFVSGITDLEFIQSGVPV-TISPVTENAD-NY
+TASVVGNSVGDVDITPQVGGESL---DLLQKRITLYPV*

@@ -1,0 +1,30 @@
+>P1;1skz2
+structureX:1skz:  59 : : 110 : :antistasin (Xa-proclotting enzyme inhibitor):Haementeria officinalis: 1.9: 21.7
+KATCDISECPEGMMCSRLTNKCDCKIDINCRKTCPNGLKRDKLGCEY-CECRP---*
+>P1;1skz1
+structureX:1skz:   7 : :  58 : :antistasin (Xa-proclotting enzyme inhibitor):Haementeria officinalis: 1.9: 21.7
+--GCEEAGCPEGSACNIITDRCTCS-GVRCRVHCPHGFQRSRYGCEF-CKCRLEPM*
+>P1;1bx7
+structureX:1bx7:   3 : :  53 : :hirustasin:Hirudo medicinalis: 1.20: -1
+GNTCGGETCSAAQVCLK--GKCVCN-EVHCRIRCKYGLKKDENGCEYPCSCAKA--*
+>P1;gi|159217|gb|AAA29192.1| antistasin [ score 74 E 1e-12 ] [ range 24 .. 75 ]
+sequence
+--GCEEAGCPEGSACNIITDRCTCS-GVRCREHCPHGFQRSRYGCEF-CKCILEPM*
+>P1;gi|790590|gb|AAA65645.1| ghilanten [Haementeria ghilianii] [ score 70 E 2e-11 ] [ range 8 .. 59 ]
+sequence
+--GCEEAGCPEGSACNIITDRCTCS-GVRCRVYCSHGFQRSRYGCEV-CRCRTEPM*
+>P1;gi|244011|gb|AAB21233.1| ghilanten [Haementeria ghilianii=South ... [ score 67 E 1e-10 ] [ range 7 .. 58 ]
+sequence
+--GCEEAGCPEGSACNIITDRCTCP-EVRCRVYCSHGFQRSRYGCEV-CRCRTEPM*
+>P1;gi|4096732|gb|AAD09442.1| guamerin [Hirudo nipponia] [ score 62 E 3e-09 ] [ range 17 .. 63 ]
+sequence
+---CGEKTCSPAQVCLN--NECVCT-AIRCMIFCPNGFKVDENGCEYPCTCAD---*
+>P1;gi|9954880|pdb|1C9P|B Chain B, Complex Of Bdellastasin With Porc... [ score 61 E 6e-09 ] [ range 10 .. 57 ]
+sequence
+---CGPVTCSGAQMCEV--DKCVCS-DLHCKVKCEHGFKKDDNGCEYACICADA--*
+>P1;gi|1170126|sp|P46443|GUAM_HIRNI Guamerin >gi|2147436|pir||A57537... [ score 58 E 7e-08 ] [ range 12 .. 57 ]
+sequence
+---CGEKTCSPAQVCLN--NECACT-AIRCMIFCPNGFKVDENGCEYPCTCA----*
+>P1;gi|6093716|sp|P81499|PIGU_HIRNI Piguamerin [ score 45 E 4e-04 ] [ range 3 .. 48 ]
+sequence
+---CGGKTCSEAQVCKD--GKCVCV-IGQCRKYCPNGFKKDENGCTFPCTCA----*

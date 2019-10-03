@@ -1,0 +1,906 @@
+>P1;2fn2
+structureX:2fn2:   1 : :  59 : :fibronectin (fn):Homo sapiens: -1: -1
+VLVQTRGGNSNGALCHFPFLYNNHNYTDCTSEGRRDNMKWCGTTQNYDADQKFGFCPMA*
+>P1;1pdc
+structureX:1pdc:  -4 : :  42 : :seminal plasma protein pdc-109 (domain B):Bos taurus: -1: -1
+DY----------AKCVFPFIYGGKKYETCTKIGSM-WMSWCSLSPNYDKDRAWKYC---*
+>P1;gi|34365361|emb|CAE46002.1| hypothetical protein [Homo sapiens] [ score 122 E 2e-27 ] [ range 94 .. 148 ] [ duplicate b ]
+sequence
+-VTQTYGGNSNGEPCVLPFTYNGRTFYSCTTEGRQDGHLWCSTTSNYEQDQKYSFC---*
+>P1;gi|9506703|ref|NP_062016.1| fibronectin 1 [Rattus norvegicus] >g... [ score 119 E 2e-26 ] [ range 406 .. 464 ] [ duplicate a ]
+sequence
+VLVQTRGGNSNGALCHFPFLYSNRNYSDCTSEGRRDNMKWCGTTQNYDADQKFGFCPMA*
+>P1;gi|283800|pir||A43908 fibronectin - African clawed frog [ score 115 E 4e-25 ] [ range 408 .. 465 ] [ duplicate a ]
+sequence
+-LVQTRGGNSNGALCNFPFLYNNLNYTDCTSEGRQDSMKWCGTTANYDADQKFGFCPMA*
+>P1;gi|283800|pir||A43908 fibronectin - African clawed frog [ score 115 E 4e-25 ] [ range 351 .. 402 ] [ duplicate b ]
+sequence
+----TFGGNANGEPCAIPFTHDGKTYYSCTSEGRQDGKLWCATTSNYDSDKKYSFC---*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 115 E 4e-25 ] [ range 402 .. 460 ] [ duplicate a ]
+sequence
+VVVTTRGGNSNGALCQFPFLYNGRNYTDCTADGRRDGMKWCGTTYNFDKEQRFGFCPMA*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 115 E 4e-25 ] [ range 345 .. 397 ] [ duplicate b ]
+sequence
+---QVYGGTSGGEPCAFPFVFMGETFYSCTSEGRNDGQLWCSTSSDFEKDYKYSFC---*
+>P1;gi|7305277|ref|NP_038627.1| matrix metalloproteinase 9; Gel B; G... [ score 113 E 1e-24 ] [ range 216 .. 272 ] [ duplicate a ]
+sequence
+VVIPTYYGNSNGAPCHFPFTFEGRSYSACTTDGRNDGTPWCSTTADYDKDGKFGFCP--*
+>P1;gi|7305277|ref|NP_038627.1| matrix metalloproteinase 9; Gel B; G... [ score 113 E 1e-24 ] [ range 276 .. 330 ] [ duplicate b ]
+sequence
+--LYTEHGNGEGKPCVFPFIFEGRSYSACTTKGRSDGYRWCATTANYDQDKLYGFCP--*
+>P1;gi|7305277|ref|NP_038627.1| matrix metalloproteinase 9; Gel B; G... [ score 113 E 1e-24 ] [ range 339 .. 389 ] [ duplicate c ]
+sequence
+------GGNSAGELCVFPFVFLGKQYSSCTSDGRRDGRLWCATTSNFDTDKKWGFCP--*
+>P1;gi|729178|sp|P41246|MM09_RABIT 92 kDa type IV collagenase precur... [ score 113 E 1e-24 ] [ range 216 .. 272 ] [ duplicate a ]
+sequence
+VVVPTYFGNADGAPCHFPFTFEGRSYTACTTDGRSDGMAWCSTTADYDTDRRFGFCP--*
+>P1;gi|729178|sp|P41246|MM09_RABIT 92 kDa type IV collagenase precur... [ score 113 E 1e-24 ] [ range 276 .. 330 ] [ duplicate b ]
+sequence
+--LYTQDGNADGKPCEFPFIFQGRTYSACTTDGRSDGHRWCATTASYDKDKLYGFCP--*
+>P1;gi|729178|sp|P41246|MM09_RABIT 92 kDa type IV collagenase precur... [ score 113 E 1e-24 ] [ range 339 .. 389 ] [ duplicate c ]
+sequence
+------GGNSAGELCVFPFVFLGKEYSSCTSEGRRDGRLWCATTSNFDSDKKWGFCP--*
+>P1;gi|10443048|emb|CAC10459.1| bA465L10.4 (matrix metalloproteinase... [ score 110 E 6e-24 ] [ range 216 .. 272 ] [ duplicate a ]
+sequence
+VVVPTRFGNADGAACHFPFIFEGRSYSACTTDGRSDGLPWCSTTANYDTDDRFGFCP--*
+>P1;gi|10443048|emb|CAC10459.1| bA465L10.4 (matrix metalloproteinase... [ score 110 E 6e-24 ] [ range 276 .. 330 ] [ duplicate b ]
+sequence
+--LYTQDGNADGKPCQFPFIFQGQSYSACTTDGRSDGYRWCATTANYDRDKLFGFCP--*
+>P1;gi|10443048|emb|CAC10459.1| bA465L10.4 (matrix metalloproteinase... [ score 110 E 6e-24 ] [ range 338 .. 389 ] [ duplicate c ]
+sequence
+-----MGGNSAGELCVFPFTFLGKEYSTCTSEGRGDGRLWCATTSNFDSDKKWGFCP--*
+>P1;gi|13591993|ref|NP_112317.1| matrix metalloproteinase 9 (gelatin... [ score 110 E 7e-24 ] [ range 218 .. 273 ] [ duplicate a ]
+sequence
+-VVPTYFGNANGAPCHFPFTFEGRSYLSCTTDGRNDGKPWCGTTADYDTDRKYGFCP--*
+>P1;gi|13591993|ref|NP_112317.1| matrix metalloproteinase 9 (gelatin... [ score 110 E 7e-24 ] [ range 277 .. 331 ] [ duplicate b ]
+sequence
+--LYTEHGNGDGKPCVFPFIFEGHSYSACTTKGRSDGYRWCATTANYDQDKLYGFCP--*
+>P1;gi|13591993|ref|NP_112317.1| matrix metalloproteinase 9 (gelatin... [ score 110 E 7e-24 ] [ range 336 .. 390 ] [ duplicate c ]
+sequence
+--VTVTGGNSAGEMCVFPFVFLGKQYSTCTGEGRSDGRLWCATTSNFDADKKWGFCP--*
+>P1;gi|1705984|sp|P50282|MM09_RAT 92 kDa type IV collagenase precurs... [ score 110 E 7e-24 ] [ range 277 .. 331 ] [ duplicate b ]
+sequence
+--LYTEHGNGDGKPCVFPFIFEGHSYSACTTKGRSDGYRWCATTANYDQDKADGFCP--*
+>P1;gi|1514961|dbj|BAA11523.1| gelatinase-b [Cynops pyrrhogaster] [ score 110 E 1e-23 ] [ range 217 .. 273 ] [ duplicate a ]
+sequence
+VVVKTRFGNANGAACKFPFKFNGNSYSSCTSEGRTDGLLWCSTTTDYDKDKKYGFCP--*
+>P1;gi|1514961|dbj|BAA11523.1| gelatinase-b [Cynops pyrrhogaster] [ score 110 E 1e-23 ] [ range 276 .. 331 ] [ duplicate b ]
+sequence
+-LLYTYGGNSDGDKCVFPFIFDGDSYDACTKEGRSDGYRWCATTDNFDKDKKYGFCP--*
+>P1;gi|1514961|dbj|BAA11523.1| gelatinase-b [Cynops pyrrhogaster] [ score 110 E 1e-23 ] [ range 339 .. 389 ] [ duplicate c ]
+sequence
+------GGNSQGDPCVFPFVFLEKTYHSCTSDGRGDRKLWCATTSSYDSDRKWGFCP--*
+>P1;gi|31419581|gb|AAH53292.1| Unknown (protein for MGC:64165) [Dani... [ score 109 E 1e-23 ] [ range 219 .. 273 ] [ duplicate a ]
+sequence
+--IQTRYGNAEGAMCHFPFLFEGTSYSTCTTEGRTDGLPWCSTTADYDKDKKFGFCP--*
+>P1;gi|31419581|gb|AAH53292.1| Unknown (protein for MGC:64165) [Dani... [ score 109 E 1e-23 ] [ range 339 .. 389 ] [ duplicate b ]
+sequence
+------GGNSEGEPCHFPFTFLGNTYSSCTSEGRNDGKLWCGTTSNYDTDKKWGFCP--*
+>P1;gi|31419581|gb|AAH53292.1| Unknown (protein for MGC:64165) [Dani... [ score 109 E 1e-23 ] [ range 276 .. 331 ] [ duplicate c ]
+sequence
+-LLFTFDGNSNEAPCVFPFVFDGKKYDSCTTEGRNDGYRWCSTTANFDTDKKYGFCP--*
+>P1;gi|14917012|sp|O18733|MM09_CANFA 92 kDa type IV collagenase prec... [ score 109 E 1e-23 ] [ range 216 .. 272 ] [ duplicate a ]
+sequence
+VVVPTHFGNADGAPCHFPFTFEGRSYSACTTDGRSDDTPWCSTTADYDTDRRFGFCP--*
+>P1;gi|14917012|sp|O18733|MM09_CANFA 92 kDa type IV collagenase prec... [ score 109 E 1e-23 ] [ range 276 .. 330 ] [ duplicate b ]
+sequence
+--LYAQDGNGDGKPCVFPFTFEGRSYSTCTTDGRSDGYRWCSTTADYDQDKLYGFCP--*
+>P1;gi|14917012|sp|O18733|MM09_CANFA 92 kDa type IV collagenase prec... [ score 109 E 1e-23 ] [ range 339 .. 389 ] [ duplicate c ]
+sequence
+------GGNSAGEPCVFPFIFLGKQYSTCTREGRGDGHLWCATTSNFDRDKKWGFCP--*
+>P1;gi|4996455|dbj|BAA78479.1| matrix metalloproteinase-2 [Oncorhync... [ score 109 E 2e-23 ] [ range 275 .. 331 ] [ duplicate a ]
+sequence
+-LLFTLGGNADGAPCKFPFTFQGENYDGCTTQGRDDGYRWCATTENYDNDKSYGFCPE-*
+>P1;gi|4996455|dbj|BAA78479.1| matrix metalloproteinase-2 [Oncorhync... [ score 109 E 2e-23 ] [ range 334 .. 388 ] [ duplicate b ]
+sequence
+--MSTVGGNSEGSPCVFPFTFLGDTYDSCTASGRSDGKMWCASTKSYDDDRKWGFCP--*
+>P1;gi|4996455|dbj|BAA78479.1| matrix metalloproteinase-2 [Oncorhync... [ score 109 E 2e-23 ] [ range 217 .. 272 ] [ duplicate c ]
+sequence
+-VVKVKFGNAEGEFCKFPFMFMGKEYNSCTNQGRDDGFLWCSTTYNFDDDGKYGFCP--*
+>P1;gi|7688731|gb|AAF67517.1| matrix metalloproteinase-2 [Canis fami... [ score 108 E 3e-23 ] [ range 251 .. 306 ] [ duplicate a ]
+sequence
+--LFTMGGNADGQPCKFPFRFQGTSYDSCTTEGRTDGYRWCGTTEDYDRDKKYGFCPE-*
+>P1;gi|7688731|gb|AAF67517.1| matrix metalloproteinase-2 [Canis fami... [ score 108 E 3e-23 ] [ range 309 .. 363 ] [ duplicate b ]
+sequence
+--MSTIGGNSEGAPCVFPFTFLGNKHESCTSAGRSDGKVWCATTANYDDDRKWGFCP--*
+>P1;gi|7688731|gb|AAF67517.1| matrix metalloproteinase-2 [Canis fami... [ score 108 E 3e-23 ] [ range 192 .. 247 ] [ duplicate c ]
+sequence
+-VVRVKYGNADGEYCKFPFLFNGREYTSCTDTGRSDGFLWCSTTYNFEKDGKYGFCP--*
+>P1;gi|1352705|sp|P49260|PA2R_RABIT 180 KD SECRETORY PHOSPHOLIPASE A... [ score 108 E 3e-23 ] [ range 164 .. 218 ]
+sequence
+--LYTRKGNAHGTPCMFPFQYNHQWHHECTREGRQDDSLWCATTSRYERDEKWGFCP--*
+>P1;gi|1705979|sp|P50757|MM02_RABIT 72 kDa type IV collagenase precu... [ score 108 E 3e-23 ] [ range 337 .. 391 ] [ duplicate b ]
+sequence
+--MSTIGGNSEGAPCVFPFTFLGNKYESCTSAGRSDGKMWCATSTNYDDDRKWGFCP--*
+>P1;gi|11342666|ref|NP_004521.1| matrix metalloproteinase 2 prepropr... [ score 108 E 4e-23 ] [ range 337 .. 391 ] [ duplicate b ]
+sequence
+--MSTVGGNSEGAPCVFPFTFLGNKYESCTSAGRSDGKMWCATTANYDDDRKWGFCP--*
+>P1;gi|45382789|ref|NP_989998.1| 75 kDa gelatinase [Gallus gallus] >... [ score 108 E 4e-23 ] [ range 275 .. 330 ] [ duplicate a ]
+sequence
+-LLYTNGGNSDGSPCVFPFIFDGASYDTCTTDGRSDGYRWCATTANFDQDKKYGFCP--*
+>P1;gi|45382789|ref|NP_989998.1| 75 kDa gelatinase [Gallus gallus] >... [ score 108 E 4e-23 ] [ range 218 .. 272 ] [ duplicate b ]
+sequence
+--VKTRYGNANGASCHFPFIFEGRSYSRCITEGRTDGMLWCATTASYDADKTYGFCP--*
+>P1;gi|45382789|ref|NP_989998.1| 75 kDa gelatinase [Gallus gallus] >... [ score 108 E 4e-23 ] [ range 338 .. 388 ] [ duplicate c ]
+sequence
+------GGNSQGDPCVFPFTFLGQSYSARTSQGRQDGKLWCATTSNYDTDKKWGFCP--*
+>P1;gi|13591991|ref|NP_112316.1| matrix metalloproteinase 2 (72 KDa ... [ score 108 E 4e-23 ] [ range 337 .. 391 ] [ duplicate b ]
+sequence
+--MSTVGGNSEGAPCVFPFTFLGNKYESCTSAGRNDGKVWCATTTNYDDDRKWGFCP--*
+>P1;gi|15419710|gb|AAK97133.1| gelatinase A [Sus scrofa] [ score 108 E 4e-23 ] [ range 338 .. 392 ] [ duplicate b ]
+sequence
+--MSTVGGNSEGAPCVFPFTFLGNKHESCTSAGRSDGKLWCATTANYDDDRKWGFCP--*
+>P1;gi|15419710|gb|AAK97133.1| gelatinase A [Sus scrofa] [ score 108 E 4e-23 ] [ range 221 .. 276 ] [ duplicate c ]
+sequence
+-VVRVKYGNADGEYCKFPFSFNGKEYNSCTDTGRSDGFLWCSTTYNFDKDGKYGFCP--*
+>P1;gi|6539524|dbj|BAA85769.2| gelatinase A [Oryzias latipes] [ score 107 E 5e-23 ] [ range 278 .. 334 ] [ duplicate a ]
+sequence
+-LLFTLGGNGDGAPCKFPFTFQGKQYDSCTTEGRDDGYRWCATTEDYDRDTSYGFCPE-*
+>P1;gi|6539524|dbj|BAA85769.2| gelatinase A [Oryzias latipes] [ score 107 E 5e-23 ] [ range 337 .. 391 ] [ duplicate b ]
+sequence
+--MSTVGGNGEGSPCVFPFTFLGDTYESCTTSGRSDGKMWCATTKSYDDDRKWGFCP--*
+>P1;gi|6539524|dbj|BAA85769.2| gelatinase A [Oryzias latipes] [ score 107 E 5e-23 ] [ range 220 .. 275 ] [ duplicate c ]
+sequence
+-VVKAKFGNADGEFCKFPFLFMGTEYKSCTAQGRDDGFLWCSTTYNFDEDGKYGFCP--*
+>P1;gi|1352704|sp|P49259|PA2R_BOVIN 180 kDa secretory phospholipase ... [ score 107 E 5e-23 ] [ range 166 .. 220 ]
+sequence
+--LYTIKGNAHGTPCMFPFQYNQQWHHECTREGREDNLLWCATTSRYERDEKWGFCP--*
+>P1;gi|37620187|ref|NP_932333.1| matrix metalloproteinase 2; Gelatin... [ score 107 E 6e-23 ] [ range 278 .. 334 ] [ duplicate a ]
+sequence
+-LLFTLGGNADGAPCKFPFTFQGDKYDSCTTSGRDDGYRWCATTEDYDKDKTYGFCPE-*
+>P1;gi|37620187|ref|NP_932333.1| matrix metalloproteinase 2; Gelatin... [ score 107 E 6e-23 ] [ range 220 .. 275 ] [ duplicate b ]
+sequence
+-VVKVKYGNAEGEFCKFPFLFMGKEYNSCTSQGRDDGFLWCSTTYNFDDDGKYGFCP--*
+>P1;gi|37620187|ref|NP_932333.1| matrix metalloproteinase 2; Gelatin... [ score 107 E 6e-23 ] [ range 337 .. 391 ] [ duplicate c ]
+sequence
+--MSTSGGNSDGAPCVFPFKFLGDSYDSCTTSGRNDGKMWCAVTKSFDDDRKWGFCP--*
+>P1;gi|27807447|ref|NP_777170.1| matrix metalloproteinase 2 (72 KDa ... [ score 107 E 6e-23 ] [ range 338 .. 392 ] [ duplicate c ]
+sequence
+--MSTVGGNSEGAPCVLPFTFLGNKHESCTSAGRSDGKLWCATTSNYDDDRKWGFCP--*
+>P1;gi|37694086|gb|AAQ98971.1| gelatinase A [Meleagris gallopavo] [ score 107 E 6e-23 ] [ range 275 .. 330 ] [ duplicate a ]
+sequence
+--LFTMGGNGDGQPCKFPFKFQGQSYDQCTTEGRTDGYRWCGTTEDYDRDKKYGFCPE-*
+>P1;gi|37694086|gb|AAQ98971.1| gelatinase A [Meleagris gallopavo] [ score 107 E 6e-23 ] [ range 217 .. 274 ] [ duplicate b ]
+sequence
+-VVRVKYGNADGEYCKFPFWFNGKEYNSCTDAGRNDGFLWCSTTQDFDADGKYGFCPMS*
+>P1;gi|37694086|gb|AAQ98971.1| gelatinase A [Meleagris gallopavo] [ score 107 E 6e-23 ] [ range 333 .. 387 ] [ duplicate c ]
+sequence
+--MSTVGGNSEGAPCVFPFIFLGNKYDSCTSAGRNDGKLWCASTSSYDDDRKWGFCP--*
+>P1;gi|27807437|ref|NP_777169.1| matrix metalloproteinase 9 (gelatin... [ score 107 E 6e-23 ] [ range 216 .. 272 ] [ duplicate a ]
+sequence
+VVIPTYFGNAKGAACHFPFTFEGRSYSACTTDGRSDDMLWCSTTADYDADRQFGFCP--*
+>P1;gi|27807437|ref|NP_777169.1| matrix metalloproteinase 9 (gelatin... [ score 107 E 6e-23 ] [ range 276 .. 330 ] [ duplicate b ]
+sequence
+--LYTQDGNADGKPCVFPFTFQGRTYSACTSDGRSDGYRWCATTANYDQDKLYGFCP--*
+>P1;gi|27807437|ref|NP_777169.1| matrix metalloproteinase 9 (gelatin... [ score 107 E 6e-23 ] [ range 339 .. 389 ] [ duplicate c ]
+sequence
+------GGNAAGELCVFPFTFLGKEYSACTREGRNDGHLWCATTSNFDKDKKWGFCP--*
+>P1;gi|13366100|dbj|BAB39390.1| matrix metalloproteinase 9 [Cyprinus... [ score 107 E 7e-23 ] [ range 219 .. 273 ] [ duplicate a ]
+sequence
+--IQTRYGNAEGAMCHFPFLFEGTSYSSCTTDGRTDGIPWCATTADYDKDKIFGFCP--*
+>P1;gi|13366100|dbj|BAB39390.1| matrix metalloproteinase 9 [Cyprinus... [ score 107 E 7e-23 ] [ range 339 .. 389 ] [ duplicate b ]
+sequence
+------GGNSEGEPCQFPFIFLDKTYTSCTSEGRGDGKLWCATTSNYDTDKKWGFCP--*
+>P1;gi|13366100|dbj|BAB39390.1| matrix metalloproteinase 9 [Cyprinus... [ score 107 E 7e-23 ] [ range 276 .. 331 ] [ duplicate c ]
+sequence
+-LLFTFDGNSNEAPCVFPFVFLGVKYDSCTTDGRTDGYRWCATTANFDTDKKYGFCP--*
+>P1;gi|15718389|dbj|BAB68366.1| gelatinase [Paralichthys olivaceus] [ score 107 E 7e-23 ] [ range 219 .. 273 ] [ duplicate a ]
+sequence
+--VKTLYGNADGAMCHFPFTFEGKSYTSCTTDGRTDNLPWCATTADYSRDGKYGFCP--*
+>P1;gi|15718389|dbj|BAB68366.1| gelatinase [Paralichthys olivaceus] [ score 107 E 7e-23 ] [ range 276 .. 331 ] [ duplicate b ]
+sequence
+-LLYTVGGNADGAKCVFPFVFLEKEYDSCTKEGRSDGYRWCATTANFDQDQKYGFCP--*
+>P1;gi|15718389|dbj|BAB68366.1| gelatinase [Paralichthys olivaceus] [ score 107 E 7e-23 ] [ range 339 .. 388 ] [ duplicate c ]
+sequence
+------GGNSEGEPCHFPFVFLGKEYDSCTSEGREDGKLWCSTTDNYDEDAKWGFC---*
+>P1;gi|5305383|gb|AAD41624.1| gelatinase B [Xenopus laevis] [ score 107 E 1e-22 ] [ range 216 .. 271 ] [ duplicate a ]
+sequence
+-VVKTRFGNAEGALCRFPFTFDGQSFSTCTTAGRSDGLPWCSTTPNYDQDKKYGFCP--*
+>P1;gi|5305383|gb|AAD41624.1| gelatinase B [Xenopus laevis] [ score 107 E 1e-22 ] [ range 275 .. 329 ] [ duplicate b ]
+sequence
+--LYTYGGNSNGQPCVLPFIFDGVSYNGCTKEGRQDGYRWCSTTANFDQDKKYGFCP--*
+>P1;gi|5305383|gb|AAD41624.1| gelatinase B [Xenopus laevis] [ score 107 E 1e-22 ] [ range 337 .. 387 ] [ duplicate c ]
+sequence
+------GGNSQGEPCVFPFTFLGKIHNSCTTDGRDDRKLWCATTSNYDLDSKWGFCP--*
+>P1;gi|6116886|dbj|BAA85770.1| gelatinase B [Oryzias latipes] [ score 106 E 1e-22 ] [ range 219 .. 274 ] [ duplicate a ]
+sequence
+-VVKTYYGNADGAMCHFPFVFGGKTYTSCTSEGRADKLPWCSTTDDYDRDGKYGFCP--*
+>P1;gi|6116886|dbj|BAA85770.1| gelatinase B [Oryzias latipes] [ score 106 E 1e-22 ] [ range 277 .. 332 ] [ duplicate b ]
+sequence
+-LLYTIGGNSDGAKCVFPFVFLGDEYDSCTTEGRRDGYRWCATTSNYDQDKKYGFCP--*
+>P1;gi|6116886|dbj|BAA85770.1| gelatinase B [Oryzias latipes] [ score 106 E 1e-22 ] [ range 338 .. 390 ] [ duplicate c ]
+sequence
+----TIGGNAEGEPCHFPFEFLGKEYDSCTSEGRGDGKLWCGTTASYDDDKKWGFCP--*
+>P1;gi|19923389|ref|NP_031392.2| phospholipase A2 receptor 1, 180kDa... [ score 106 E 2e-22 ] [ range 168 .. 222 ]
+sequence
+--LHTIKGNTHGMPCMFPFQYNHQWHHECTREGREDDLLWCATTSRYERDEKWGFCP--*
+>P1;gi|15718387|dbj|BAB68365.1| gelatinase [Paralichthys olivaceus] [ score 105 E 2e-22 ] [ range 279 .. 335 ] [ duplicate a ]
+sequence
+-LLFTMGGNAEGSPCKFPFTFQGEKYDGCTTQGRDDGYRWCATTEDYDRDKSYGFCPE-*
+>P1;gi|15718387|dbj|BAB68365.1| gelatinase [Paralichthys olivaceus] [ score 105 E 2e-22 ] [ range 221 .. 276 ] [ duplicate b ]
+sequence
+-VVKVKFGNADGEFCKFPFLFMGTEYDSCTSQGRDDGFLWCSTTYNFDDDGKYGFCP--*
+>P1;gi|15718387|dbj|BAB68365.1| gelatinase [Paralichthys olivaceus] [ score 105 E 2e-22 ] [ range 338 .. 392 ] [ duplicate c ]
+sequence
+--MSTVGGNAEGSPCVFPFTFLGDTYESCTSSGRSDGKMWCASTKSYDDDRKWGFCP--*
+>P1;gi|20857527|ref|XP_127076.1| Sel1 (suppressor of lin-12) 1 homol... [ score 105 E 2e-22 ] [ range 110 .. 164 ]
+sequence
+-VLTAIEGTAHGEPCHFPFLFLDKEYDECTSDGREDGRLWCATTYDYKTDEKWGFC---*
+>P1;gi|8176611|dbj|BAA96389.1| MMP-9 [Bos taurus] [ score 105 E 3e-22 ] [ range 276 .. 324 ] [ duplicate b ]
+sequence
+--LYTQDGNADGKPCVFPFTFQGRTYSACTSDGRSDGYRWCATTANYDRDK--------*
+>P1;gi|6679365|ref|NP_032893.1| phospholipase A2, group IB, pancreas... [ score 105 E 4e-22 ] [ range 169 .. 223 ]
+sequence
+--LYTLKGNAHGMPCVFPFQFKGHWHHDCIREGQKEHLLWCATTSRYEEDEKWGFCP--*
+>P1;gi|34854717|ref|XP_215737.2| similar to phospholipase A2 recepto... [ score 105 E 4e-22 ] [ range 161 .. 215 ]
+sequence
+--IYTLKGNAHGMPCVFPFQFKGQWHHECIREGHKEHLLWCATTSRYEEDEKWGFCP--*
+>P1;gi|5420369|emb|CAB46656.1| matrix metalloproteinase-2 [Equus cab... [ score 105 E 4e-22 ] [ range 229 .. 283 ] [ duplicate b ]
+sequence
+--MSTVGGNSEGAPCVFPFTFLGNKHEGCTSAGRSDGKMWCATTANYDDDRKWGFCP--*
+>P1;gi|6851089|gb|AAF29413.1| SEL1L [Homo sapiens] >gi|17646138|gb|A... [ score 104 E 7e-22 ] [ range 120 .. 168 ]
+sequence
+-------GTAHGEPCHFPFLFLDKEYDECTSDGREDGRLWCATTYDYKADEKWGFC---*
+>P1;gi|20160306|emb|CAC85923.1| matrix metalloproteinase 9 [Oncorhyn... [ score 102 E 2e-21 ] [ range 219 .. 273 ] [ duplicate a ]
+sequence
+--VKTSFGNAEGALCHFPFSFGGKQYSTCTTEGRSDNLPWCATTADYGRDKKFGFCP--*
+>P1;gi|20160306|emb|CAC85923.1| matrix metalloproteinase 9 [Oncorhyn... [ score 102 E 2e-21 ] [ range 276 .. 331 ] [ duplicate b ]
+sequence
+-LLYTFDGNSNGKACVFPFVFLGETYEGCTTEGRSDGYRWCSTTENFDKDKKFGFCP--*
+>P1;gi|20160306|emb|CAC85923.1| matrix metalloproteinase 9 [Oncorhyn... [ score 102 E 2e-21 ] [ range 339 .. 388 ] [ duplicate c ]
+sequence
+------GGNSEGEPCHFPFVFLGNKYDSCTSEGRGDGRLWCATTSNFDTDTKWGFC---*
+>P1;gi|18031736|gb|AAL01591.1| matrix metalloproteinase [Xenopus lae... [ score 101 E 6e-21 ] [ range 274 .. 330 ] [ duplicate a ]
+sequence
+-LLFTLTGNAEGKPCKFPFKFQGNTYNSCTTEGRTDGYRWCATTEDYDKDKMYGFCPE-*
+>P1;gi|18031736|gb|AAL01591.1| matrix metalloproteinase [Xenopus lae... [ score 101 E 6e-21 ] [ range 333 .. 387 ] [ duplicate b ]
+sequence
+--LSTVGGNAEGSPCVFPFTFLGNKYDSCTSSGRSDGKLWCASSSNYDDDRKWGFCP--*
+>P1;gi|18031736|gb|AAL01591.1| matrix metalloproteinase [Xenopus lae... [ score 101 E 6e-21 ] [ range 216 .. 271 ] [ duplicate c ]
+sequence
+-VVKVKYGNADGEFCNFPFLFNDKEYNSCTDSGRSDGFLWCSTTYDFDKDGKYGFCP--*
+>P1;gi|6678934|ref|NP_032652.1| mannose receptor, C type 2; novel le... [ score 100 E 8e-21 ] [ range 174 .. 229 ]
+sequence
+--VYTIQGNSHGKPCTIPFKYDNQWFHGCTSTGREDGHLWCATTQDYGKDERWGFCPI-*
+>P1;gi|34877265|ref|XP_225585.2| similar to macrophage mannose recep... [ score 95 E 3e-19 ] [ range 448 .. 503 ]
+sequence
+--MYSLLGNANGAVCAFPFKFENKWYADCTSAGRSDGWLWCGTTTDYDTDKLFGFCPL-*
+>P1;gi|4505245|ref|NP_002429.1| mannose receptor C type 1 precursor;... [ score 95 E 3e-19 ] [ range 156 .. 211 ]
+sequence
+--MYTLLGNANGATCAFPFKFENKWYADCTSAGRSDGWLWCGTTTDYDTDKLFGYCPL-*
+>P1;gi|27127271|gb|AAN86816.1| preprogelatinase A [Silurus asotus] [ score 94 E 7e-19 ] [ range 276 .. 331 ] [ duplicate a ]
+sequence
+--LFTQGINSEGGPCKLPFIFQAENYDGCITSGRDDGYRECAITENWDNDKSYGFCPE-*
+>P1;gi|27127271|gb|AAN86816.1| preprogelatinase A [Silurus asotus] [ score 94 E 7e-19 ] [ range 217 .. 272 ] [ duplicate b ]
+sequence
+IVLKIKEGNIAGEGCKFPFAIQGIEYQSCT-EGRDEGWLECATIYDFDENGKYSECP--*
+>P1;gi|41393811|gb|AAS02156.1| yolk sac IgY receptor precursor [Gall... [ score 94 E 1e-18 ] [ range 165 .. 216 ]
+sequence
+---YTLLGNSFGFPCVFPFKYNNKWYYECTRDGKE--FEWCATTSYYEQDEKWGFCP--*
+>P1;gi|33090213|gb|AAP93901.1| DEC-205/CD205 protein [Bos taurus] [ score 94 E 1e-18 ] [ range 157 .. 209 ]
+sequence
+--IYTRDGNSFGRPCEFPFLVNGTWHHECIFDGDHSG-PWCATTLNYEYDQQWGIC---*
+>P1;gi|4505053|ref|NP_002340.1| lymphocyte antigen 75 [Homo sapiens]... [ score 92 E 4e-18 ] [ range 157 .. 209 ]
+sequence
+--IYTRDGNSYGRPCEFPFLIDGTWHHDCILDEDHSG-PWCATTLNYEYDRKWGIC---*
+>P1;gi|34922594|sp|Q920P9|LY75_MESAU Lymphocyte antigen 75 precursor... [ score 91 E 5e-18 ] [ range 157 .. 209 ]
+sequence
+--IYTRDGNSYGRPCEFPFLVGETWHHDCIRDENHSG-PWCATTLNYEYDQKWGIC---*
+>P1;gi|1546822|gb|AAB08429.1| metalloproteinase 9 [Canis familiaris] [ score 90 E 1e-17 ] [ range 43 .. 93 ] [ duplicate a ]
+sequence
+------GGNSAGELCVFPFVFLGKEYSTCTSDGRRDGRLWCATTSNFDTDKKWGFCP--*
+>P1;gi|1546822|gb|AAB08429.1| metalloproteinase 9 [Canis familiaris] [ score 90 E 1e-17 ] [ range 1 .. 34 ] [ duplicate b ]
+sequence
+-----------------------RSYSPCTTEGRSDGYRWCATTANYDQDKLYGFCP--*
+>P1;gi|15028452|gb|AAK81722.1| DEC-205 [Mus musculus] [ score 90 E 1e-17 ] [ range 157 .. 209 ]
+sequence
+--IYTRDGNSYGRPCEFPFLIGETWYHDCIHDEDHSG-PWCATTLSYEYDQKWGIC---*
+>P1;gi|180359|gb|AAA51986.1| coagulation factor XII [ score 90 E 1e-17 ] [ range 23 .. 75 ]
+sequence
+---HTVVLTVTGEPCHFPFQYHRQLYHKCTHKGRPGPQPWCATTPNFDQDQRWGYC---*
+>P1;gi|16506702|gb|AAL23910.1| mannose-6-phosphate/insulin-like grow... [ score 89 E 2e-17 ] [ range 1860 .. 1919 ]
+sequence
+VILRYTDGTEDGDTCVFPFTYNGKSYEECTAEGRTK--AWCATTPNYDRDHKWGFC---*
+>P1;gi|7715870|gb|AAF68173.1| mannose 6-phosphate/insulin-like growt... [ score 89 E 2e-17 ] [ range 1888 .. 1933 ]
+sequence
+--------TEDGDACVFPFTYNGKSYEECTTEGKAK--AWCATTPNYDRDHKWGFC---*
+>P1;gi|2497974|sp|Q91400|FINC_NOTVI FIBRONECTIN >gi|2134028|pir||I51... [ score 89 E 2e-17 ] [ range 1 .. 51 ]
+sequence
+--------NSNGASCHFPFLYNNRNYTDCTSEGRRDSMKWCGTTLNLYADQKFGFCPMA*
+>P1;gi|20151028|pdb|1KS0|A Chain A, The First Fibronectin Type Ii Mo... [ score 89 E 3e-17 ] [ range 2 .. 56 ]
+sequence
+--IPVKYGNADGEYCKFPFLFNGKEYNSCTDTGRSDGFLWCSTTYNFEKDGKYGFCP--*
+>P1;gi|12584829|gb|AAG59847.1| gelatinase A [Ovis aries] [ score 89 E 3e-17 ] [ range 1 .. 44 ]
+sequence
+-------------PCVFPFTFLGNKHESCTSAGRSDGKLWCATTSNYDDDRKWGFCP--*
+>P1;gi|1352407|sp|Q04962|FA12_CAVPO Coagulation factor XII precursor... [ score 89 E 3e-17 ] [ range 35 .. 87 ]
+sequence
+---FTVGLTVTGEPCYFPFQYNRQLYHHCIHKGRPGPRPWCATTPNFDQDQQWAYC---*
+>P1;gi|14647155|gb|AAK71869.1| mannose-6-phosphate/insulin-like grow... [ score 88 E 5e-17 ] [ range 1829 .. 1888 ]
+sequence
+VILSYMNGDSAGEPCVFPFIFNGKSYEECVVEGRAK--LWCSTTANYDRDHEWGFC---*
+>P1;gi|27805933|ref|NP_776777.1| insulin-like growth factor 2 recept... [ score 88 E 7e-17 ] [ range 1906 .. 1951 ]
+sequence
+--------TEDGEPCVFPFVFNGKSYEECVVESRA--RLWCATTANYDRDHEWGFC---*
+>P1;gi|32967634|gb|AAH55018.1| Igf2r protein [Mus musculus] [ score 87 E 1e-16 ] [ range 18 .. 61 ]
+sequence
+----------DGEPCVFPFIYKGKSYDECVLEGRAK--LWCSKTANYDRDHEWGFC---*
+>P1;gi|14647149|gb|AAK71866.1| mannose-6-phosphate/insulin-like grow... [ score 86 E 2e-16 ] [ range 1830 .. 1873 ]
+sequence
+----------EGVPCVFPFIFNGKSYEECVVEGRAK--LWCSTTANYDRDREWGFC---*
+>P1;gi|14647151|gb|AAK71867.1| mannose-6-phosphate/insulin-like grow... [ score 86 E 2e-16 ] [ range 1846 .. 1889 ]
+sequence
+----------EGDPCVFPFLFNGKSYEECVVESRAK--LWCATTANYDRDHEWGFC---*
+>P1;gi|14647153|gb|AAK71868.1| mannose-6-phosphate/insulin-like grow... [ score 86 E 2e-16 ] [ range 1846 .. 1891 ]
+sequence
+--------TEDGRPCVFPFLYNGKSYYECVVGNRAK--LWCATTANYDRDRKWGFC---*
+>P1;gi|16506695|gb|AAL23907.1| mannose-6-phosphate/insulin-like grow... [ score 86 E 2e-16 ] [ range 1838 .. 1883 ]
+sequence
+--------TEEGDPCVFPFTLNGKSYEECVLEGRA--RLWCATTADYDRDHEWGFC---*
+>P1;gi|14647143|gb|AAK71863.1| mannose-6-phosphate/insulin-like grow... [ score 85 E 3e-16 ] [ range 1854 .. 1902 ]
+sequence
+--------TEEGDPCVFPFTFNGKSYEECVLENRV--RLWCATTANYDRDREWGFCRQS*
+>P1;gi|4504611|ref|NP_000867.1| insulin-like growth factor 2 recepto... [ score 85 E 4e-16 ] [ range 1899 .. 1942 ]
+sequence
+----------DGVPCVFPFIFNGKSYEECIIESRAK--LWCSTTADYDRDHEWGFC---*
+>P1;gi|4504383|ref|NP_001519.1| HGF activator preproprotein [Homo sa... [ score 85 E 4e-16 ] [ range 97 .. 151 ]
+sequence
+---QAQALTEDGRPCRFPFRYGGRMLHACTSEGSA-HRKWCATTHNYDRDRAWGYCVEA*
+>P1;gi|29612425|gb|AAH49867.1| F12 protein [Mus musculus] [ score 85 E 5e-16 ] [ range 48 .. 100 ]
+sequence
+---PTVVLTVDGRLCHFPFQYHRQLHHKCIHKRRPGSRPWCATTPNFDEDQQWGYC---*
+>P1;gi|14647147|gb|AAK71865.1| mannose-6-phosphate/insulin-like grow... [ score 84 E 7e-16 ] [ range 1817 .. 1876 ]
+sequence
+VILKYLNGTEQGDPCVFPFIYHGKSYYDCIREDKAK--PWCATTANYDIDQKWGYC---*
+>P1;gi|6981078|ref|NP_036888.1| insulin-like growth factor 2 recepto... [ score 84 E 8e-16 ] [ range 1886 .. 1931 ]
+sequence
+--------TEDGEPCVFPFIYKGETYDECVLEGRAK--LWCSKTANYDRDHEWGFC---*
+>P1;gi|1352406|sp|P98140|FA12_BOVIN Coagulation factor XII precursor... [ score 84 E 8e-16 ] [ range 26 .. 78 ]
+sequence
+---HTVVLTVTGEPCHFPFQYHRQLHHKCIHRGRPGPQPWCATTPNFEKDQRWAYC---*
+>P1;gi|26353764|dbj|BAC40512.1| unnamed protein product [Mus musculus] [ score 84 E 9e-16 ] [ range 691 .. 734 ]
+sequence
+----------DGEPCVFPFIYKGKSYDECVLEGRAK--LWCSKTANYNRDHEWGFC---*
+>P1;gi|44889469|gb|AAS48370.1| hepatocyte growth factor activator [C... [ score 84 E 9e-16 ] [ range 102 .. 149 ]
+sequence
+----------DGQPCRFPFRYGGRMLHACTSEGSA-HRKWCATTHNYDRDRAWGYCVQA*
+>P1;gi|14647145|gb|AAK71864.1| mannose-6-phosphate/insulin-like grow... [ score 84 E 1e-15 ] [ range 1838 .. 1884 ]
+sequence
+----------EGDPCVFPFTFKGKSYEECVVENRAK--LWCSTTSDYDRDHEWGFCRQS*
+>P1;gi|16506700|gb|AAL23909.1| mannose-6-phosphate/insulin-like grow... [ score 82 E 2e-15 ] [ range 1898 .. 1957 ]
+sequence
+VILKYLNGTEQGDPCVFPFIYLGKSYDYCIREDRPK--PWCATTENYDKHQKWGYC---*
+>P1;gi|4165317|dbj|BAA37148.1| FXII [Sus scrofa] [ score 81 E 6e-15 ] [ range 36 .. 88 ]
+sequence
+---HTVVLTVTGEPCHFPFQYYRQLYYKCIQRGQRGPRPWCATTPNFEKDQRWAYC---*
+>P1;gi|34878479|ref|XP_341241.1| hepatocyte growth factor activator ... [ score 80 E 1e-14 ] [ range 135 .. 181 ]
+sequence
+-----------GQPCRFPFRYGGRMLHSCSSEGSA-YRKWCATTHNYDRDRAWGYCAEA*
+>P1;gi|45384454|ref|NP_990301.1| cation-independent mannose-6-phosph... [ score 80 E 1e-14 ] [ range 1862 .. 1924 ]
+sequence
+VILQYTGGTEKGELCVFPFKYKGKSYDKCITE--EKNRPWCATTVDYQGDGKWGFCVNA*
+>P1;gi|18044173|gb|AAH19376.1| Hepatocyte growth factor activator [M... [ score 80 E 1e-14 ] [ range 102 .. 145 ]
+sequence
+-----------GQPCRFPFRYGGRMLHSCTSEGSA-YRKWCATTHNYDRDRAWGYC---*
+>P1;gi|33386552|emb|CAD62254.1| epididymal sperm binding protein E12... [ score 76 E 2e-13 ] [ range 179 .. 223 ] [ duplicate a ]
+sequence
+-----------GFPCHFPFNYKNKNYFNCTTKGSKENLLWCATSYNYDQDHTWVYC---*
+>P1;gi|33386552|emb|CAD62254.1| epididymal sperm binding protein E12... [ score 76 E 2e-13 ] [ range 70 .. 115 ] [ duplicate b ]
+sequence
+----------DYPRCVFPFIYRGRSHRNCIVEGSFFGKLWCSVTSSFDEKQQWKYC---*
+>P1;gi|33386552|emb|CAD62254.1| epididymal sperm binding protein E12... [ score 76 E 2e-13 ] [ range 120 .. 168 ] [ duplicate c ]
+sequence
+-----YGGNSFSKPCIFPSKYRNHIISECLED--ESNKLWCPTTENMDMDGKWSLC---*
+>P1;gi|33386552|emb|CAD62254.1| epididymal sperm binding protein E12... [ score 76 E 2e-13 ] [ range 29 .. 66 ] [ duplicate d ]
+sequence
+--------------CVFPFNYKGFTYFSCTRTNSLS--PWCATRAVY--DGQWKYC---*
+>P1;gi|11024571|emb|CAC14265.1| epididymal secretory protein (E12a) ... [ score 75 E 3e-13 ] [ range 217 .. 261 ] [ duplicate a ]
+sequence
+-----------GFPCHFPFSYKNKNYYNCIGKGTKENLTWCATSYNYDRDHTWVYC---*
+>P1;gi|11024571|emb|CAC14265.1| epididymal secretory protein (E12a) ... [ score 75 E 3e-13 ] [ range 108 .. 153 ] [ duplicate b ]
+sequence
+----------DYPRCIFPFIFRGKSHNSCITEGSFLRRLWCSVTSSFDENQQWKYC---*
+>P1;gi|11024571|emb|CAC14265.1| epididymal secretory protein (E12a) ... [ score 75 E 3e-13 ] [ range 158 .. 206 ] [ duplicate c ]
+sequence
+-----YGGNSFSKPCIFPSIFRNSTIFECMED--ENNKLWCPTTENMDEDGKWSLC---*
+>P1;gi|14582386|gb|AAK69481.1| seminal plasma protein-like protein [... [ score 74 E 7e-13 ] [ range 179 .. 223 ] [ duplicate a ]
+sequence
+-----------GFPCHFPFNYKNKNYFNCTNKGSKENLVWCATSYNYDQDHTWAYC---*
+>P1;gi|14582386|gb|AAK69481.1| seminal plasma protein-like protein [... [ score 74 E 7e-13 ] [ range 70 .. 115 ] [ duplicate b ]
+sequence
+----------DYPRCIFPFIYRGKAYNSCISQGSFLGSLWCSVTSVFDEKQQWKFC---*
+>P1;gi|14582386|gb|AAK69481.1| seminal plasma protein-like protein [... [ score 74 E 7e-13 ] [ range 120 .. 168 ] [ duplicate c ]
+sequence
+-----YGGNSLRKPCIFPSIYRNNVVSDCMED--ESNKLWCPTTENMDKDGKWSFC---*
+>P1;gi|11024576|emb|CAC14267.1| epididymal secretory protein (E12) [... [ score 74 E 1e-12 ] [ range 176 .. 220 ] [ duplicate a ]
+sequence
+-----------GFPCHFPFNYKNKNYFNCTNKGSKENLVWCATSYNYDQDHTWVYC---*
+>P1;gi|28477110|ref|XP_284265.1| similar to Seminal plasma protein H... [ score 73 E 2e-12 ] [ range 85 .. 131 ]
+sequence
+---------SDYAPCAFPFWYRHMIYWDCTEDGEVFGKKWCSLTPNYNKDQVWKYC---*
+>P1;gi|4063501|gb|AAC98311.1| epididymal protein 52 [Oryctolagus cun... [ score 70 E 9e-12 ] [ range 423 .. 468 ] [ duplicate a ]
+sequence
+----------DRARCVFPFIFEGHVYKDCITKGSLFRMAWCSLSPYYDHDKAWKYC---*
+>P1;gi|4063501|gb|AAC98311.1| epididymal protein 52 [Oryctolagus cun... [ score 70 E 9e-12 ] [ range 382 .. 419 ] [ duplicate b ]
+sequence
+--------------CVFPFTFGNKKHFDCTVEGSIFH--WCSLTDKYS--GKWKYC---*
+>P1;gi|34873647|ref|XP_225172.2| similar to coagulation factor XII (... [ score 68 E 3e-11 ] [ range 111 .. 149 ]
+sequence
+-----------------PLWYHRRLYHKCIHKGQPGSRPWCATTPNFDEDQQWGYC---*
+>P1;gi|40644082|emb|CAE46517.1| seminal plasma protein 2 precursor [... [ score 67 E 2e-10 ] [ range 85 .. 130 ] [ duplicate a ]
+sequence
+----------DYAKCFFPFVYRGRTYHTCTTDGSFFLIPWCSVTPNYDRDGGWKYC---*
+>P1;gi|40644082|emb|CAE46517.1| seminal plasma protein 2 precursor [... [ score 67 E 2e-10 ] [ range 44 .. 81 ] [ duplicate b ]
+sequence
+--------------CVFPFKYQGRQYYDCTRT--DSFHRWCSLTENYS--GKWRYC---*
+>P1;gi|28849953|ref|NP_777267.1| seminal plasma 30K protein [Bos tau... [ score 64 E 9e-10 ] [ range 142 .. 183 ]
+sequence
+--------------CVFPFIYRKKSYESCTRVHSFFWRRWCSLTSNYDRDKAWKYC---*
+>P1;gi|28849949|ref|NP_777265.1| seminal vesicle secretion 8; semina... [ score 63 E 2e-09 ] [ range 95 .. 140 ] [ duplicate a ]
+sequence
+----------DYAKCVFPFIYEGKSYDTCIIIGSTFMNYWCSLSSNYDEDGVWKYC---*
+>P1;gi|28849949|ref|NP_777265.1| seminal vesicle secretion 8; semina... [ score 63 E 2e-09 ] [ range 54 .. 91 ] [ duplicate b ]
+sequence
+--------------CVFPFIYGNKKYFDCTLHGSL--FLWCSLDADYT--GRWKYC---*
+>P1;gi|27923988|sp|P80964|PB1_PIG Seminal plasma protein pB1 precurs... [ score 62 E 3e-09 ] [ range 85 .. 130 ]
+sequence
+----------DYARCALPFIFRGKEYDSCIKEGSVFSKYWCPVTPNYDQDRAWRYC---*
+>P1;gi|134452|sp|P02784|SFP1_BOVIN Seminal plasma protein PDC-109 pr... [ score 61 E 8e-09 ] [ range 90 .. 134 ]
+sequence
+----------DYAKCVFPFIYGGKKYETCTKIG-SMWMSWCSLSPNYDKDRAWKYC---*
+>P1;gi|89765|pir||A29156 seminal fluid protein A3 - bovine [ score 60 E 9e-09 ] [ range 70 .. 115 ] [ duplicate a ]
+sequence
+----------DYAKCVFPFIYEGKSYDTCIKIGSTFMNYWCSLSSNYDEDGVWKYC---*
+>P1;gi|1168021|gb|AAB35156.1| HSP-1=seminal plasma major protein [ho... [ score 60 E 1e-08 ] [ range 67 .. 121 ]
+sequence
+--IQVRYCAADYAKCAFPFVYRGQTYDRCTTDGSLFRISWCSVTPNYDHHGAWKYC---*
+>P1;gi|12061026|gb|AAG48349.1| insulin-like growth factor type II re... [ score 48 E 5e-05 ] [ range 146 .. 172 ]
+sequence
+--------TEDGEPCVFPFLFNGKSYEECVVESRA------------------------*
+>P1;gi|11342666|ref|NP_004521.1| matrix metalloproteinase 2 prepropr... [ score 87 E 1e-16 ] [ range 345 .. 390 ] [ duplicate a ]
+sequence
+EG----------APCVFPFTFLGNKYESCTSAGSD-GKMWCATTANYDDDRKWGFC---*
+>P1;gi|11342666|ref|NP_004521.1| matrix metalloproteinase 2 prepropr... [ score 87 E 1e-16 ] [ range 287 .. 332 ] [ duplicate b ]
+sequence
+EG----------QPCKFPFRFQGTSYDSCTTEGRD-GYRWCGTTEDYDRDKKYGFC---*
+>P1;gi|11342666|ref|NP_004521.1| matrix metalloproteinase 2 prepropr... [ score 87 E 1e-16 ] [ range 229 .. 274 ] [ duplicate c ]
+sequence
+DG----------EYCKFPFLFNGKEYNSCTDTGSD-GFLWCSTTYNFEKDGKYGFC---*
+>P1;gi|27805933|ref|NP_776777.1| insulin-like growth factor 2 recept... [ score 85 E 3e-16 ] [ range 1908 .. 1951 ]
+sequence
+DG----------EPCVFPFVFNGKSYEECVVE-SR-ARLWCATTANYDRDHEWGFC---*
+>P1;gi|45382789|ref|NP_989998.1| 75 kDa gelatinase [Gallus gallus] >... [ score 85 E 3e-16 ] [ range 284 .. 329 ] [ duplicate a ]
+sequence
+DG----------SPCVFPFIFDGASYDTCTTDGSD-GYRWCATTANFDQDKKYGFC---*
+>P1;gi|45382789|ref|NP_989998.1| 75 kDa gelatinase [Gallus gallus] >... [ score 85 E 3e-16 ] [ range 343 .. 387 ] [ duplicate b ]
+sequence
+-G----------DPCVFPFTFLGQSYSARTSQGRD-GKLWCATTSNYDTDKKWGFC---*
+>P1;gi|45382789|ref|NP_989998.1| 75 kDa gelatinase [Gallus gallus] >... [ score 85 E 3e-16 ] [ range 227 .. 271 ] [ duplicate c ]
+sequence
+-G----------ASCHFPFIFEGRSYSRCITEGRD-GMLWCATTASYDADKTYGFC---*
+>P1;gi|15419710|gb|AAK97133.1| gelatinase A [Sus scrofa] [ score 85 E 4e-16 ] [ range 346 .. 391 ] [ duplicate a ]
+sequence
+EG----------APCVFPFTFLGNKHESCTSAGSD-GKLWCATTANYDDDRKWGFC---*
+>P1;gi|15419710|gb|AAK97133.1| gelatinase A [Sus scrofa] [ score 85 E 4e-16 ] [ range 288 .. 333 ] [ duplicate b ]
+sequence
+DG----------QPCKFPFRFQGTSYNSCTTEGRD-GYRWCGTTEDYDRDKKYGFC---*
+>P1;gi|15419710|gb|AAK97133.1| gelatinase A [Sus scrofa] [ score 85 E 4e-16 ] [ range 230 .. 275 ] [ duplicate c ]
+sequence
+DG----------EYCKFPFSFNGKEYNSCTDTGSD-GFLWCSTTYNFDKDGKYGFC---*
+>P1;gi|16506702|gb|AAL23910.1| mannose-6-phosphate/insulin-like grow... [ score 85 E 4e-16 ] [ range 1876 .. 1919 ]
+sequence
+DG----------DTCVFPFTYNGKSYEECTAEGRT--KAWCATTPNYDRDHKWGFC---*
+>P1;gi|1813503|gb|AAB41692.1| gelatinase A [Rattus norvegicus] [ score 85 E 4e-16 ] [ range 345 .. 390 ] [ duplicate a ]
+sequence
+EG----------APCVFPFTFLGNKYESCTSAGSD-GKVWCATTTNYDDDRKWGFC---*
+>P1;gi|1813503|gb|AAB41692.1| gelatinase A [Rattus norvegicus] [ score 85 E 4e-16 ] [ range 229 .. 274 ] [ duplicate c ]
+sequence
+DG----------EYCKFPFLFNGREYSSCTDTGSD-GFLWCSTTYNFEKDGKYGFC---*
+>P1;gi|14917012|sp|O18733|MM09_CANFA 92 kDa type IV collagenase prec... [ score 85 E 4e-16 ] [ range 344 .. 388 ] [ duplicate a ]
+sequence
+-G----------EPCVFPFIFLGKQYSTCTREGRD-GHLWCATTSNFDRDKKWGFC---*
+>P1;gi|14917012|sp|O18733|MM09_CANFA 92 kDa type IV collagenase prec... [ score 85 E 4e-16 ] [ range 284 .. 329 ] [ duplicate b ]
+sequence
+DG----------KPCVFPFTFEGRSYSTCTTDGSD-GYRWCSTTADYDQDKLYGFC---*
+>P1;gi|14917012|sp|O18733|MM09_CANFA 92 kDa type IV collagenase prec... [ score 85 E 4e-16 ] [ range 226 .. 271 ] [ duplicate c ]
+sequence
+DG----------APCHFPFTFEGRSYSACTTDGSD-DTPWCSTTADYDTDRRFGFC---*
+>P1;gi|5738156|gb|AAD50275.1| matrix metalloproteinase-9 [Canis fami... [ score 85 E 5e-16 ] [ range 284 .. 329 ] [ duplicate b ]
+sequence
+DG----------KPCVFPFTFEGRSYSTCTTDGSD-GYRWCSTTGDYDQDKLYGFC---*
+>P1;gi|14647155|gb|AAK71869.1| mannose-6-phosphate/insulin-like grow... [ score 85 E 5e-16 ] [ range 1846 .. 1888 ]
+sequence
+-G----------EPCVFPFIFNGKSYEECVVEGRA--KLWCSTTANYDRDHEWGFC---*
+>P1;gi|188672|gb|AAA59866.1| mannose 6-phosphate receptor [ score 85 E 6e-16 ] [ range 1899 .. 1942 ]
+sequence
+DG----------VPCVFPFIFNGKSYEECIIE-SR-AKLWCSTTADYDRDHEWGFC---*
+>P1;gi|6116886|dbj|BAA85770.1| gelatinase B [Oryzias latipes] [ score 85 E 6e-16 ] [ range 286 .. 331 ] [ duplicate a ]
+sequence
+DG----------AKCVFPFVFLGDEYDSCTTEGRD-GYRWCATTSNYDQDKKYGFC---*
+>P1;gi|6116886|dbj|BAA85770.1| gelatinase B [Oryzias latipes] [ score 85 E 6e-16 ] [ range 344 .. 389 ] [ duplicate b ]
+sequence
+EG----------EPCHFPFEFLGKEYDSCTSEGRD-GKLWCGTTASYDDDKKWGFC---*
+>P1;gi|6116886|dbj|BAA85770.1| gelatinase B [Oryzias latipes] [ score 85 E 6e-16 ] [ range 228 .. 273 ] [ duplicate c ]
+sequence
+DG----------AMCHFPFVFGGKTYTSCTSEGRD-KLPWCSTTDDYDRDGKYGFC---*
+>P1;gi|1705979|sp|P50757|MM02_RABIT 72 kDa type IV collagenase precu... [ score 84 E 6e-16 ] [ range 345 .. 390 ] [ duplicate a ]
+sequence
+EG----------APCVFPFTFLGNKYESCTSAGSD-GKMWCATSTNYDDDRKWGFC---*
+>P1;gi|1705979|sp|P50757|MM02_RABIT 72 kDa type IV collagenase precu... [ score 84 E 6e-16 ] [ range 287 .. 332 ] [ duplicate b ]
+sequence
+DG----------QPCKFPFRFQGTSYSSCTTEGRD-GYRWCGTTEDYDRDKKYGFC---*
+>P1;gi|1705979|sp|P50757|MM02_RABIT 72 kDa type IV collagenase precu... [ score 84 E 6e-16 ] [ range 229 .. 274 ] [ duplicate c ]
+sequence
+DG----------EYCKFPFLFNGKEYTSCTDTGSD-GFLWCSTTYNFEKDGKYGFC---*
+>P1;gi|13591991|ref|NP_112316.1| matrix metalloproteinase 2 (72 KDa ... [ score 84 E 7e-16 ] [ range 345 .. 390 ] [ duplicate a ]
+sequence
+EG----------APCVFPFTFLGNKYESCTSAGRD-GKVWCATTTNYDDDRKWGFC---*
+>P1;gi|7688731|gb|AAF67517.1| matrix metalloproteinase-2 [Canis fami... [ score 84 E 8e-16 ] [ range 317 .. 362 ] [ duplicate a ]
+sequence
+EG----------APCVFPFTFLGNKHESCTSAGSD-GKVWCATTANYDDDRKWGFC---*
+>P1;gi|7688731|gb|AAF67517.1| matrix metalloproteinase-2 [Canis fami... [ score 84 E 8e-16 ] [ range 259 .. 304 ] [ duplicate b ]
+sequence
+DG----------QPCKFPFRFQGTSYDSCTTEGRD-GYRWCGTTEDYDRDKKYGFC---*
+>P1;gi|7688731|gb|AAF67517.1| matrix metalloproteinase-2 [Canis fami... [ score 84 E 8e-16 ] [ range 201 .. 246 ] [ duplicate c ]
+sequence
+DG----------EYCKFPFLFNGREYTSCTDTGSD-GFLWCSTTYNFEKDGKYGFC---*
+>P1;gi|14647153|gb|AAK71868.1| mannose-6-phosphate/insulin-like grow... [ score 84 E 1e-15 ] [ range 1848 .. 1891 ]
+sequence
+DG----------RPCVFPFLYNGKSYYECV-VGNR-AKLWCATTANYDRDRKWGFC---*
+>P1;gi|12584829|gb|AAG59847.1| gelatinase A [Ovis aries] [ score 84 E 1e-15 ] [ range 1 .. 43 ]
+sequence
+-------------PCVFPFTFLGNKHESCTSAGSD-GKLWCATTSNYDDDRKWGFC---*
+>P1;gi|27807447|ref|NP_777170.1| matrix metalloproteinase 2 (72 KDa ... [ score 83 E 2e-15 ] [ range 346 .. 391 ] [ duplicate a ]
+sequence
+EG----------APCVLPFTFLGNKHESCTSAGSD-GKLWCATTSNYDDDRKWGFC---*
+>P1;gi|27807447|ref|NP_777170.1| matrix metalloproteinase 2 (72 KDa ... [ score 83 E 2e-15 ] [ range 288 .. 333 ] [ duplicate b ]
+sequence
+DG----------QPCKFPFRFQGTSYDSCTTEGRD-GYRWCGTTEDYDRDKEYGFC---*
+>P1;gi|27807447|ref|NP_777170.1| matrix metalloproteinase 2 (72 KDa ... [ score 83 E 2e-15 ] [ range 230 .. 275 ] [ duplicate c ]
+sequence
+DG----------EYCKFPFRFNGKEYTSCTDTGSD-GFLWCSTTYNFDKDGKYGFC---*
+>P1;gi|15718389|dbj|BAB68366.1| gelatinase [Paralichthys olivaceus] [ score 83 E 2e-15 ] [ range 285 .. 330 ] [ duplicate a ]
+sequence
+DG----------AKCVFPFVFLEKEYDSCTKEGSD-GYRWCATTANFDQDQKYGFC---*
+>P1;gi|15718389|dbj|BAB68366.1| gelatinase [Paralichthys olivaceus] [ score 83 E 2e-15 ] [ range 343 .. 388 ] [ duplicate b ]
+sequence
+EG----------EPCHFPFVFLGKEYDSCTSEGRD-GKLWCSTTDNYDEDAKWGFC---*
+>P1;gi|15718389|dbj|BAB68366.1| gelatinase [Paralichthys olivaceus] [ score 83 E 2e-15 ] [ range 227 .. 272 ] [ duplicate c ]
+sequence
+DG----------AMCHFPFTFEGKSYTSCTTDGRD-NLPWCATTADYSRDGKYGFC---*
+>P1;gi|729178|sp|P41246|MM09_RABIT 92 kDa type IV collagenase precur... [ score 83 E 2e-15 ] [ range 344 .. 388 ] [ duplicate a ]
+sequence
+-G----------ELCVFPFVFLGKEYSSCTSEGRD-GRLWCATTSNFDSDKKWGFC---*
+>P1;gi|729178|sp|P41246|MM09_RABIT 92 kDa type IV collagenase precur... [ score 83 E 2e-15 ] [ range 226 .. 271 ] [ duplicate b ]
+sequence
+DG----------APCHFPFTFEGRSYTACTTDGSD-GMAWCSTTADYDTDRRFGFC---*
+>P1;gi|729178|sp|P41246|MM09_RABIT 92 kDa type IV collagenase precur... [ score 83 E 2e-15 ] [ range 284 .. 329 ] [ duplicate c ]
+sequence
+DG----------KPCEFPFIFQGRTYSACTTDGSD-GHRWCATTASYDKDKLYGFC---*
+>P1;gi|37694086|gb|AAQ98971.1| gelatinase A [Meleagris gallopavo] [ score 83 E 2e-15 ] [ range 341 .. 386 ] [ duplicate a ]
+sequence
+EG----------APCVFPFIFLGNKYDSCTSAGRD-GKLWCASTSSYDDDRKWGFC---*
+>P1;gi|37694086|gb|AAQ98971.1| gelatinase A [Meleagris gallopavo] [ score 83 E 2e-15 ] [ range 283 .. 328 ] [ duplicate b ]
+sequence
+DG----------QPCKFPFKFQGQSYDQCTTEGRD-GYRWCGTTEDYDRDKKYGFC---*
+>P1;gi|37694086|gb|AAQ98971.1| gelatinase A [Meleagris gallopavo] [ score 83 E 2e-15 ] [ range 226 .. 271 ] [ duplicate c ]
+sequence
+DG----------EYCKFPFWFNGKEYNSCTDAGRD-GFLWCSTTQDFDADGKYGFC---*
+>P1;gi|13591993|ref|NP_112317.1| matrix metalloproteinase 9 (gelatin... [ score 82 E 3e-15 ] [ range 285 .. 330 ] [ duplicate a ]
+sequence
+DG----------KPCVFPFIFEGHSYSACTTKGSD-GYRWCATTANYDQDKLYGFC---*
+>P1;gi|13591993|ref|NP_112317.1| matrix metalloproteinase 9 (gelatin... [ score 82 E 3e-15 ] [ range 345 .. 389 ] [ duplicate b ]
+sequence
+-G----------EMCVFPFVFLGKQYSTCTGEGSD-GRLWCATTSNFDADKKWGFC---*
+>P1;gi|13591993|ref|NP_112317.1| matrix metalloproteinase 9 (gelatin... [ score 82 E 3e-15 ] [ range 228 .. 272 ] [ duplicate c ]
+sequence
+-G----------APCHFPFTFEGRSYLSCTTDGRD-GKPWCGTTADYDTDRKYGFC---*
+>P1;gi|45383321|ref|NP_989751.1| matrix metalloproteinase 2 [Gallus ... [ score 82 E 3e-15 ] [ range 226 .. 271 ] [ duplicate c ]
+sequence
+DG----------EYCKFPFWFNGKEYNSCTDAGRD-GFLWCSTTKDFDADGKYGFC---*
+>P1;gi|1514961|dbj|BAA11523.1| gelatinase-b [Cynops pyrrhogaster] [ score 82 E 3e-15 ] [ range 285 .. 330 ] [ duplicate a ]
+sequence
+DG----------DKCVFPFIFDGDSYDACTKEGSD-GYRWCATTDNFDKDKKYGFC---*
+>P1;gi|1514961|dbj|BAA11523.1| gelatinase-b [Cynops pyrrhogaster] [ score 82 E 3e-15 ] [ range 344 .. 388 ] [ duplicate b ]
+sequence
+-G----------DPCVFPFVFLEKTYHSCTSDGRD-RKLWCATTSSYDSDRKWGFC---*
+>P1;gi|1514961|dbj|BAA11523.1| gelatinase-b [Cynops pyrrhogaster] [ score 82 E 3e-15 ] [ range 228 .. 272 ] [ duplicate c ]
+sequence
+-G----------AACKFPFKFNGNSYSSCTSEGRD-GLLWCSTTTDYDKDKKYGFC---*
+>P1;gi|14647151|gb|AAK71867.1| mannose-6-phosphate/insulin-like grow... [ score 82 E 3e-15 ] [ range 1846 .. 1889 ]
+sequence
+EG----------DPCVFPFLFNGKSYEECVVE-SR-AKLWCATTANYDRDHEWGFC---*
+>P1;gi|31419581|gb|AAH53292.1| Unknown (protein for MGC:64165) [Dani... [ score 82 E 3e-15 ] [ range 287 .. 330 ] [ duplicate a ]
+sequence
+------------APCVFPFVFDGKKYDSCTTEGRD-GYRWCSTTANFDTDKKYGFC---*
+>P1;gi|31419581|gb|AAH53292.1| Unknown (protein for MGC:64165) [Dani... [ score 82 E 3e-15 ] [ range 343 .. 388 ] [ duplicate b ]
+sequence
+EG----------EPCHFPFTFLGNTYSSCTSEGRD-GKLWCGTTSNYDTDKKWGFC---*
+>P1;gi|31419581|gb|AAH53292.1| Unknown (protein for MGC:64165) [Dani... [ score 82 E 3e-15 ] [ range 227 .. 272 ] [ duplicate c ]
+sequence
+EG----------AMCHFPFLFEGTSYSTCTTEGRD-GLPWCSTTADYDKDKKFGFC---*
+>P1;gi|27807437|ref|NP_777169.1| matrix metalloproteinase 9 (gelatin... [ score 82 E 3e-15 ] [ range 344 .. 388 ] [ duplicate a ]
+sequence
+-G----------ELCVFPFTFLGKEYSACTREGRD-GHLWCATTSNFDKDKKWGFC---*
+>P1;gi|27807437|ref|NP_777169.1| matrix metalloproteinase 9 (gelatin... [ score 82 E 3e-15 ] [ range 284 .. 329 ] [ duplicate b ]
+sequence
+DG----------KPCVFPFTFQGRTYSACTSDGSD-GYRWCATTANYDQDKLYGFC---*
+>P1;gi|27807437|ref|NP_777169.1| matrix metalloproteinase 9 (gelatin... [ score 82 E 3e-15 ] [ range 227 .. 271 ] [ duplicate c ]
+sequence
+-G----------AACHFPFTFEGRSYSACTTDGSD-DMLWCSTTADYDADRQFGFC---*
+>P1;gi|2143744|pir||S62907 gelatinase B (EC 3.4.24.35) precursor - rat [ score 82 E 4e-15 ] [ range 345 .. 389 ] [ duplicate a ]
+sequence
+-G----------EMCVFPFVFLGKQYSTCTSEGSD-GRLWCATTSNFDADKKWGFC---*
+>P1;gi|2143744|pir||S62907 gelatinase B (EC 3.4.24.35) precursor - rat [ score 82 E 4e-15 ] [ range 285 .. 330 ] [ duplicate b ]
+sequence
+DG----------KPCVFPFIFEGHSYSACTTKGSD-GYRWCATTANYDQDKADGFC---*
+>P1;gi|32766503|gb|AAH54947.1| Mmp2-prov protein [Xenopus laevis] [ score 82 E 4e-15 ] [ range 341 .. 386 ] [ duplicate a ]
+sequence
+EG----------SPCVFPFTFLGNKYDSCTSSGSD-GKLWCASSSNYDDDRKWGFC---*
+>P1;gi|32766503|gb|AAH54947.1| Mmp2-prov protein [Xenopus laevis] [ score 82 E 4e-15 ] [ range 283 .. 328 ] [ duplicate b ]
+sequence
+EG----------KPCKFPFKFQGNTYNSCTTEGRD-GYRWCATTEDYDKDKMYGFC---*
+>P1;gi|32766503|gb|AAH54947.1| Mmp2-prov protein [Xenopus laevis] [ score 82 E 4e-15 ] [ range 225 .. 270 ] [ duplicate c ]
+sequence
+DG----------EFCNFPFLFNDKEYNSCTDSGSD-GFLWCSTTYDFDKDGKYGFC---*
+>P1;gi|539600|pir||A34458 gelatinase B (EC 3.4.24.35) precursor - human [ score 82 E 4e-15 ] [ range 344 .. 388 ] [ duplicate a ]
+sequence
+-G----------ELCVFPFTFLGKEYSTCTSEGRD-GRLWCATTSNFDSDKKWGFC---*
+>P1;gi|539600|pir||A34458 gelatinase B (EC 3.4.24.35) precursor - human [ score 82 E 4e-15 ] [ range 284 .. 329 ] [ duplicate b ]
+sequence
+DG----------KPCQFPFIFQGQSYSACTTDGSD-GYRWCATTANYDRDKLFGFC---*
+>P1;gi|539600|pir||A34458 gelatinase B (EC 3.4.24.35) precursor - human [ score 82 E 4e-15 ] [ range 226 .. 271 ] [ duplicate c ]
+sequence
+DG----------AACHFPFIFEGRSYSACTTDGSD-GLPWCSTTANYDTDDRFGFC---*
+>P1;gi|12835973|dbj|BAB23442.1| unnamed protein product [Mus musculus] [ score 82 E 5e-15 ] [ range 344 .. 388 ] [ duplicate a ]
+sequence
+-G----------ELCVFPFVFLGKQYSSCTSDGRD-GRLWCATTSNFDTDKKWGFC---*
+>P1;gi|12835973|dbj|BAB23442.1| unnamed protein product [Mus musculus] [ score 82 E 5e-15 ] [ range 284 .. 329 ] [ duplicate b ]
+sequence
+EG----------KPCVFPFIFEGRSYSACTTKGSD-GYRWCATTANYDQDKLYGFC---*
+>P1;gi|12835973|dbj|BAB23442.1| unnamed protein product [Mus musculus] [ score 82 E 5e-15 ] [ range 227 .. 271 ] [ duplicate c ]
+sequence
+-G----------APCHFPFTFEGRSYSACTTDGRD-GTPWCSTTADYDKDGKFGFC---*
+>P1;gi|6539524|dbj|BAA85769.2| gelatinase A [Oryzias latipes] [ score 81 E 7e-15 ] [ range 345 .. 390 ] [ duplicate a ]
+sequence
+EG----------SPCVFPFTFLGDTYESCTTSGSD-GKMWCATTKSYDDDRKWGFC---*
+>P1;gi|6539524|dbj|BAA85769.2| gelatinase A [Oryzias latipes] [ score 81 E 7e-15 ] [ range 287 .. 332 ] [ duplicate b ]
+sequence
+DG----------APCKFPFTFQGKQYDSCTTEGRD-GYRWCATTEDYDRDTSYGFC---*
+>P1;gi|6539524|dbj|BAA85769.2| gelatinase A [Oryzias latipes] [ score 81 E 7e-15 ] [ range 229 .. 274 ] [ duplicate c ]
+sequence
+DG----------EFCKFPFLFMGTEYKSCTAQGRD-GFLWCSTTYNFDEDGKYGFC---*
+>P1;gi|37620187|ref|NP_932333.1| matrix metalloproteinase 2; Gelatin... [ score 80 E 9e-15 ] [ range 345 .. 390 ] [ duplicate a ]
+sequence
+DG----------APCVFPFKFLGDSYDSCTTSGRD-GKMWCAVTKSFDDDRKWGFC---*
+>P1;gi|37620187|ref|NP_932333.1| matrix metalloproteinase 2; Gelatin... [ score 80 E 9e-15 ] [ range 287 .. 332 ] [ duplicate b ]
+sequence
+DG----------APCKFPFTFQGDKYDSCTTSGRD-GYRWCATTEDYDKDKTYGFC---*
+>P1;gi|37620187|ref|NP_932333.1| matrix metalloproteinase 2; Gelatin... [ score 80 E 9e-15 ] [ range 229 .. 274 ] [ duplicate c ]
+sequence
+EG----------EFCKFPFLFMGKEYNSCTSQGRD-GFLWCSTTYNFDDDGKYGFC---*
+>P1;gi|5420369|emb|CAB46656.1| matrix metalloproteinase-2 [Equus cab... [ score 80 E 1e-14 ] [ range 237 .. 282 ] [ duplicate a ]
+sequence
+EG----------APCVFPFTFLGNKHEGCTSAGSD-GKMWCATTANYDDDRKWGFC---*
+>P1;gi|5420369|emb|CAB46656.1| matrix metalloproteinase-2 [Equus cab... [ score 80 E 1e-14 ] [ range 121 .. 166 ] [ duplicate c ]
+sequence
+DG----------EYCKFPFLFNGKEYTSCTDTGSD-GFLWCSTTYNFDKDGKYGFC---*
+>P1;gi|34784688|gb|AAH57745.1| MGC69080 protein [Xenopus laevis] [ score 80 E 1e-14 ] [ range 284 .. 328 ] [ duplicate b ]
+sequence
+-G----------QPCVLPFIFDGVSYNGCTKEGRD-GYRWCSTTANFDQDKKYGFC---*
+>P1;gi|34784688|gb|AAH57745.1| MGC69080 protein [Xenopus laevis] [ score 80 E 1e-14 ] [ range 225 .. 270 ] [ duplicate c ]
+sequence
+EG----------ALCRFPFTFDGQSFSTCTTAGSD-GLPWCSTTTNYDQDKKYGFC---*
+>P1;gi|5305383|gb|AAD41624.1| gelatinase B [Xenopus laevis] [ score 80 E 1e-14 ] [ range 225 .. 270 ] [ duplicate b ]
+sequence
+EG----------ALCRFPFTFDGQSFSTCTTAGSD-GLPWCSTTPNYDQDKKYGFC---*
+>P1;gi|20160306|emb|CAC85923.1| matrix metalloproteinase 9 [Oncorhyn... [ score 80 E 2e-14 ] [ range 343 .. 388 ] [ duplicate a ]
+sequence
+EG----------EPCHFPFVFLGNKYDSCTSEGRD-GRLWCATTSNFDTDTKWGFC---*
+>P1;gi|20160306|emb|CAC85923.1| matrix metalloproteinase 9 [Oncorhyn... [ score 80 E 2e-14 ] [ range 286 .. 330 ] [ duplicate b ]
+sequence
+-G----------KACVFPFVFLGETYEGCTTEGSD-GYRWCSTTENFDKDKKFGFC---*
+>P1;gi|20160306|emb|CAC85923.1| matrix metalloproteinase 9 [Oncorhyn... [ score 80 E 2e-14 ] [ range 227 .. 272 ] [ duplicate c ]
+sequence
+EG----------ALCHFPFSFGGKQYSTCTTEGSD-NLPWCATTADYGRDKKFGFC---*
+>P1;gi|14647145|gb|AAK71864.1| mannose-6-phosphate/insulin-like grow... [ score 80 E 2e-14 ] [ range 1838 .. 1881 ]
+sequence
+EG----------DPCVFPFTFKGKSYEECVVE-NR-AKLWCSTTSDYDRDHEWGFC---*
+>P1;gi|16506700|gb|AAL23909.1| mannose-6-phosphate/insulin-like grow... [ score 79 E 2e-14 ] [ range 1915 .. 1957 ]
+sequence
+-G----------DPCVFPFIYLGKSYDYCIRE-DR-PKPWCATTENYDKHQKWGYC---*
+>P1;gi|13366100|dbj|BAB39390.1| matrix metalloproteinase 9 [Cyprinus... [ score 80 E 2e-14 ] [ range 343 .. 388 ] [ duplicate a ]
+sequence
+EG----------EPCQFPFIFLDKTYTSCTSEGRD-GKLWCATTSNYDTDKKWGFC---*
+>P1;gi|13366100|dbj|BAB39390.1| matrix metalloproteinase 9 [Cyprinus... [ score 80 E 2e-14 ] [ range 287 .. 330 ] [ duplicate b ]
+sequence
+------------APCVFPFVFLGVKYDSCTTDGRD-GYRWCATTANFDTDKKYGFC---*
+>P1;gi|13366100|dbj|BAB39390.1| matrix metalloproteinase 9 [Cyprinus... [ score 80 E 2e-14 ] [ range 227 .. 272 ] [ duplicate c ]
+sequence
+EG----------AMCHFPFLFEGTSYSSCTTDGRD-GIPWCATTADYDKDKIFGFC---*
+>P1;gi|34365361|emb|CAE46002.1| hypothetical protein [Homo sapiens] [ score 79 E 2e-14 ] [ range 104 .. 148 ] [ duplicate a ]
+sequence
+-G----------EPCVLPFTYNGRTFYSCTTEGRD-GHLWCSTTSNYEQDQKYSFC---*
+>P1;gi|34365361|emb|CAE46002.1| hypothetical protein [Homo sapiens] [ score 79 E 2e-14 ] [ range 164 .. 208 ] [ duplicate b ]
+sequence
+-G----------ALCHFPFLYNNHNYTDCTSEGRD-NMKWCGTTQNYDADQKFGFC---*
+>P1;gi|15718387|dbj|BAB68365.1| gelatinase [Paralichthys olivaceus] [ score 79 E 3e-14 ] [ range 346 .. 391 ] [ duplicate a ]
+sequence
+EG----------SPCVFPFTFLGDTYESCTSSGSD-GKMWCASTKSYDDDRKWGFC---*
+>P1;gi|15718387|dbj|BAB68365.1| gelatinase [Paralichthys olivaceus] [ score 79 E 3e-14 ] [ range 288 .. 333 ] [ duplicate b ]
+sequence
+EG----------SPCKFPFTFQGEKYDGCTTQGRD-GYRWCATTEDYDRDKSYGFC---*
+>P1;gi|15718387|dbj|BAB68365.1| gelatinase [Paralichthys olivaceus] [ score 79 E 3e-14 ] [ range 230 .. 275 ] [ duplicate c ]
+sequence
+DG----------EFCKFPFLFMGTEYDSCTSQGRD-GFLWCSTTYNFDDDGKYGFC---*
+>P1;gi|14647147|gb|AAK71865.1| mannose-6-phosphate/insulin-like grow... [ score 79 E 3e-14 ] [ range 1834 .. 1876 ]
+sequence
+-G----------DPCVFPFIYHGKSYYDCIREDKA--KPWCATTANYDIDQKWGYC---*
+>P1;gi|2497976|sp|Q91740|FINC_XENLA Fibronectin precursor >gi|214134... [ score 79 E 3e-14 ] [ range 358 .. 402 ] [ duplicate a ]
+sequence
+-G----------EPCAIPFTHDGKTYYSCTSEGRD-GKLWCATTSNYDSDKKYSFC---*
+>P1;gi|2497976|sp|Q91740|FINC_XENLA Fibronectin precursor >gi|214134... [ score 79 E 3e-14 ] [ range 418 .. 462 ] [ duplicate b ]
+sequence
+-G----------ALCNFPFLYNNLNYTDSTSEGRD-SMKWCGTTANYDADQKFGFC---*
+>P1;gi|462100|sp|P07589|FINC_BOVIN Fibronectin (FN) >gi|72066|pir||F... [ score 79 E 3e-14 ] [ range 326 .. 370 ] [ duplicate a ]
+sequence
+-G----------EPCVLPFTYNGKTFYSCTTEGRD-GHLWCSTTSNYEQDQKYSFC---*
+>P1;gi|4996455|dbj|BAA78479.1| matrix metalloproteinase-2 [Oncorhync... [ score 79 E 3e-14 ] [ range 342 .. 387 ] [ duplicate a ]
+sequence
+EG----------SPCVFPFTFLGDTYDSCTASGSD-GKMWCASTKSYDDDRKWGFC---*
+>P1;gi|4996455|dbj|BAA78479.1| matrix metalloproteinase-2 [Oncorhync... [ score 79 E 3e-14 ] [ range 284 .. 329 ] [ duplicate b ]
+sequence
+DG----------APCKFPFTFQGENYDGCTTQGRD-GYRWCATTENYDNDKSYGFC---*
+>P1;gi|4996455|dbj|BAA78479.1| matrix metalloproteinase-2 [Oncorhync... [ score 79 E 3e-14 ] [ range 226 .. 271 ] [ duplicate c ]
+sequence
+EG----------EFCKFPFMFMGKEYNSCTNQGRD-GFLWCSTTYNFDDDGKYGFC---*
+>P1;gi|283800|pir||A43908 fibronectin - African clawed frog [ score 79 E 3e-14 ] [ range 418 .. 462 ] [ duplicate b ]
+sequence
+-G----------ALCNFPFLYNNLNYTDCTSEGRD-SMKWCGTTANYDADQKFGFC---*
+>P1;gi|38372875|sp|P11276|FINC_MOUSE Fibronectin precursor (FN) [ score 78 E 5e-14 ] [ range 417 .. 461 ] [ duplicate b ]
+sequence
+-G----------ALCHFPFLYNNRNYTDCTSEGRD-NMKWCGTTQNYDADQKFGFC---*
+>P1;gi|9967440|dbj|BAB12403.1| SEL1L [Mesocricetus auratus] [ score 78 E 6e-14 ] [ range 124 .. 168 ]
+sequence
+-G----------EPCHFPFLFLDKEYDECTSDGRD-GRLWCATTYDYKTDEKWGFC---*
+>P1;gi|6851089|gb|AAF29413.1| SEL1L [Homo sapiens] >gi|17646138|gb|A... [ score 78 E 7e-14 ] [ range 124 .. 168 ]
+sequence
+-G----------EPCHFPFLFLDKEYDECTSDGRD-GRLWCATTYDYKADEKWGFC---*
+>P1;gi|4063501|gb|AAC98311.1| epididymal protein 52 [Oryctolagus cun... [ score 76 E 2e-13 ] [ range 423 .. 468 ] [ duplicate a ]
+sequence
+DR----------ARCVFPFIFEGHVYKDCITKGSL-FRMWCSLSPYYDHDKAWKYC---*
+>P1;gi|4063501|gb|AAC98311.1| epididymal protein 52 [Oryctolagus cun... [ score 76 E 2e-13 ] [ range 381 .. 419 ] [ duplicate b ]
+sequence
+-------------KCVFPFTFGNKKHFDCTVEGSI-FH-WCSLTDKYS--GKWKYC---*
+>P1;gi|28849953|ref|NP_777267.1| seminal plasma 30K protein [Bos tau... [ score 76 E 3e-13 ] [ range 138 .. 183 ]
+sequence
+DE----------PECVFPFIYRKKSYESCTRVHSF-FRRWCSLTSNYDRDKAWKYC---*
+>P1;gi|9506703|ref|NP_062016.1| fibronectin 1 [Rattus norvegicus] >g... [ score 75 E 3e-13 ] [ range 357 .. 401 ] [ duplicate a ]
+sequence
+-G----------EPCVLPFHYNGRTFYSCTTEGRD-GHLWCSTTSNYEQDQKYSFC---*
+>P1;gi|9506703|ref|NP_062016.1| fibronectin 1 [Rattus norvegicus] >g... [ score 75 E 3e-13 ] [ range 417 .. 461 ] [ duplicate b ]
+sequence
+-G----------ALCHFPFLYSNRNYSDCTSEGRD-NMKWCGTTQNYDADQKFGFC---*
+>P1;gi|40644082|emb|CAE46517.1| seminal plasma protein 2 precursor [... [ score 74 E 6e-13 ] [ range 85 .. 130 ]
+sequence
+DY----------AKCFFPFVYRGRTYHTCTTDGSF-FLPWCSVTPNYDRDGGWKYC---*
+>P1;gi|28849949|ref|NP_777265.1| seminal vesicle secretion 8; semina... [ score 73 E 2e-12 ] [ range 95 .. 140 ]
+sequence
+DY----------AKCVFPFIYEGKSYDTCIIIGST-FMNWCSLSSNYDEDGVWKYC---*
+>P1;gi|8176611|dbj|BAA96389.1| MMP-9 [Bos taurus] [ score 72 E 2e-12 ] [ range 284 .. 324 ] [ duplicate a ]
+sequence
+DG----------KPCVFPFTFQGRTYSACTSDGSD-GYRWCATTANYDRDK--------*
+>P1;gi|40644078|emb|CAE46515.1| seminal plasma protein 1 precursor [... [ score 72 E 3e-12 ] [ range 100 .. 145 ]
+sequence
+DY----------AKCAFPFVYRGQTYDRCTTDGSL-FRSWCSVTPNYDHHGAWKYC---*
+>P1;gi|27923988|sp|P80964|PB1_PIG Seminal plasma protein pB1 precurs... [ score 72 E 3e-12 ] [ range 85 .. 130 ]
+sequence
+DY----------ARCALPFIFRGKEYDSCIKEGSV-FKYWCPVTPNYDQDRAWRYC---*
+>P1;gi|1546822|gb|AAB08429.1| metalloproteinase 9 [Canis familiaris] [ score 72 E 3e-12 ] [ range 48 .. 92 ] [ duplicate a ]
+sequence
+-G----------ELCVFPFVFLGKEYSTCTSDGRD-GRLWCATTSNFDTDKKWGFC---*
+>P1;gi|1546822|gb|AAB08429.1| metalloproteinase 9 [Canis familiaris] [ score 72 E 3e-12 ] [ range 1 .. 33 ] [ duplicate b ]
+sequence
+-----------------------RSYSPCTTEGSD-GYRWCATTANYDQDKLYGFC---*
+>P1;gi|28477110|ref|XP_284265.1| similar to Seminal plasma protein H... [ score 71 E 8e-12 ] [ range 86 .. 131 ]
+sequence
+DY----------APCAFPFWYRHMIYWDCTEDGEF-GKKWCSLTPNYNKDQVWKYC---*
+>P1;gi|11024571|emb|CAC14265.1| epididymal secretory protein (E12a) ... [ score 70 E 1e-11 ] [ range 108 .. 153 ] [ duplicate a ]
+sequence
+DY----------PRCIFPFIFRGKSHNSCITEGSF-LRRWCSVTSSFDENQQWKYC---*
+>P1;gi|11024571|emb|CAC14265.1| epididymal secretory protein (E12a) ... [ score 70 E 1e-11 ] [ range 217 .. 261 ] [ duplicate b ]
+sequence
+-G----------FPCHFPFSYKNKNYYNCIGKGKE-NLTWCATSYNYDRDHTWVYC---*
+>P1;gi|11024571|emb|CAC14265.1| epididymal secretory protein (E12a) ... [ score 70 E 1e-11 ] [ range 166 .. 206 ] [ duplicate c ]
+sequence
+-------------PCIFPSIFRNSTIFECMEDENN--KLWCPTTENMDEDGKWSLC---*
+>P1;gi|89765|pir||A29156 seminal fluid protein A3 - bovine [ score 70 E 2e-11 ] [ range 70 .. 115 ]
+sequence
+DY----------AKCVFPFIYEGKSYDTCIKIGST-FMNWCSLSSNYDEDGVWKYC---*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 69 E 3e-11 ] [ range 353 .. 397 ] [ duplicate a ]
+sequence
+-G----------EPCAFPFVFMGETFYSCTSEGRD-GQLWCSTSSDFEKDYKYSFC---*
+>P1;gi|18858683|ref|NP_571595.1| fibronectin 1 [Danio rerio] >gi|342... [ score 69 E 3e-11 ] [ range 413 .. 457 ] [ duplicate b ]
+sequence
+-G----------ALCQFPFLYNGRNYTDCTADGRD-GMKWCGTTYNFDKEQRFGFC---*
+>P1;gi|11024576|emb|CAC14267.1| epididymal secretory protein (E12) [... [ score 68 E 7e-11 ] [ range 176 .. 220 ] [ duplicate b ]
+sequence
+-G----------FPCHFPFNYKNKNYFNCTNKGSE-NLVWCATSYNYDQDHTWVYC---*
+>P1;gi|14582386|gb|AAK69481.1| seminal plasma protein-like protein [... [ score 67 E 1e-10 ] [ range 179 .. 223 ] [ duplicate b ]
+sequence
+-G----------FPCHFPFNYKNKNYFNCTNKGSE-NLVWCATSYNYDQDHTWAYC---*
+>P1;gi|34854717|ref|XP_215737.2| similar to phospholipase A2 recepto... [ score 66 E 2e-10 ] [ range 170 .. 214 ]
+sequence
+-G----------MPCVFPFQFKGQWHHECIREGKE-HLLWCATTSRYEEDEKWGFC---*
+>P1;gi|33386552|emb|CAD62254.1| epididymal sperm binding protein E12... [ score 66 E 2e-10 ] [ range 70 .. 115 ] [ duplicate a ]
+sequence
+DY----------PRCVFPFIYRGRSHRNCIVEGSF-FKLWCSVTSSFDEKQQWKYC---*
+>P1;gi|33386552|emb|CAD62254.1| epididymal sperm binding protein E12... [ score 66 E 2e-10 ] [ range 179 .. 223 ] [ duplicate b ]
+sequence
+-G----------FPCHFPFNYKNKNYFNCTTKGSE-NLLWCATSYNYDQDHTWVYC---*
+>P1;gi|1352705|sp|P49260|PA2R_RABIT 180 KD SECRETORY PHOSPHOLIPASE A... [ score 65 E 3e-10 ] [ range 173 .. 217 ]
+sequence
+-G----------TPCMFPFQYNHQWHHECTREGRD-DSLWCATTSRYERDEKWGFC---*
+>P1;gi|6679365|ref|NP_032893.1| phospholipase A2, group IB, pancreas... [ score 65 E 3e-10 ] [ range 178 .. 222 ]
+sequence
+-G----------MPCVFPFQFKGHWHHDCIREGKE-HLLWCATTSRYEEDEKWGFC---*
+>P1;gi|45384454|ref|NP_990301.1| cation-independent mannose-6-phosph... [ score 65 E 3e-10 ] [ range 1879 .. 1921 ]
+sequence
+-G----------ELCVFPFKYKGKSYDKCITEEKN--RPWCATTVDYQGDGKWGFC---*
+>P1;gi|19923389|ref|NP_031392.2| phospholipase A2 receptor 1, 180kDa... [ score 65 E 3e-10 ] [ range 177 .. 221 ]
+sequence
+-G----------MPCMFPFQYNHQWHHECTREGRD-DLLWCATTSRYERDEKWGFC---*
+>P1;gi|41393811|gb|AAS02156.1| yolk sac IgY receptor precursor [Gall... [ score 65 E 4e-10 ] [ range 173 .. 215 ]
+sequence
+-G----------FPCVFPFKYNNKWYYECTRDGKE-FE-WCATTSYYEQDEKWGFC---*
+>P1;gi|1352704|sp|P49259|PA2R_BOVIN 180 kDa secretory phospholipase ... [ score 65 E 6e-10 ] [ range 175 .. 219 ]
+sequence
+-G----------TPCMFPFQYNQQWHHECTREGRD-NLLWCATTSRYERDEKWGFC---*
+>P1;gi|4503629|ref|NP_000496.1| coagulation factor XII precursor; Ha... [ score 65 E 6e-10 ] [ range 44 .. 88 ]
+sequence
+-G----------EPCHFPFQYHRQLYHKCTHKGRP-GQPWCATTPNFDQDQRWGYC---*
+>P1;gi|1352407|sp|Q04962|FA12_CAVPO Coagulation factor XII precursor... [ score 64 E 9e-10 ] [ range 43 .. 87 ]
+sequence
+-G----------EPCYFPFQYNRQLYHHCIHKGRP-GRPWCATTPNFDQDQQWAYC---*
+>P1;gi|34877265|ref|XP_225585.2| similar to macrophage mannose recep... [ score 60 E 1e-08 ] [ range 457 .. 501 ]
+sequence
+-G----------AVCAFPFKFENKWYADCTSAGSD-GWLWCGTTTDYDTDKLFGFC---*
+>P1;gi|477362|pir||A48925 mannose receptor precursor, macrophage - m... [ score 60 E 2e-08 ] [ range 165 .. 209 ]
+sequence
+-G----------AVCAFPFKFENKWYADCTSAGSD-GWLWCGTTTDYDKDKLFGFC---*
+>P1;gi|29612425|gb|AAH49867.1| F12 protein [Mus musculus] [ score 59 E 2e-08 ] [ range 55 .. 100 ]
+sequence
+DG----------RLCHFPFQYHRQLHHKCIHKRRP-GRPWCATTPNFDEDQQWGYC---*
+>P1;gi|4505245|ref|NP_002429.1| mannose receptor C type 1 precursor;... [ score 59 E 3e-08 ] [ range 165 .. 209 ]
+sequence
+-G----------ATCAFPFKFENKWYADCTSAGSD-GWLWCGTTTDYDTDKLFGYC---*
+>P1;gi|4165317|dbj|BAA37148.1| FXII [Sus scrofa] [ score 59 E 4e-08 ] [ range 44 .. 88 ]
+sequence
+-G----------EPCHFPFQYYRQLYYKCIQRGQR-GRPWCATTPNFEKDQRWAYC---*
+>P1;gi|33090213|gb|AAP93901.1| DEC-205/CD205 protein [Bos taurus] [ score 58 E 6e-08 ] [ range 166 .. 209 ]
+sequence
+-G----------RPCEFPFLVNGTWHHECIFDGDH-SGPWCATTLNYEYDQQWGIC---*
+>P1;gi|4505053|ref|NP_002340.1| lymphocyte antigen 75 [Homo sapiens]... [ score 57 E 9e-08 ] [ range 166 .. 209 ]
+sequence
+-G----------RPCEFPFLIDGTWHHDCILDEDH-SGPWCATTLNYEYDRKWGIC---*
+>P1;gi|10946900|ref|NP_067464.1| coagulation factor XII (Hageman fac... [ score 57 E 1e-07 ] [ range 43 .. 88 ]
+sequence
+DG----------RLCHFPFQYHRQLHHKCIHKRRP-GRPWCATTPNFDENQQWGYC---*
+>P1;gi|6678934|ref|NP_032652.1| mannose receptor, C type 2; novel le... [ score 57 E 1e-07 ] [ range 183 .. 227 ]
+sequence
+-G----------KPCTIPFKYDNQWFHGCTSTGRD-GHLWCATTQDYGKDERWGFC---*
+>P1;gi|1352406|sp|P98140|FA12_BOVIN Coagulation factor XII precursor... [ score 56 E 3e-07 ] [ range 34 .. 78 ]
+sequence
+-G----------EPCHFPFQYHRQLHHKCIHRGRP-GQPWCATTPNFEKDQRWAYC---*
+>P1;gi|34922594|sp|Q920P9|LY75_MESAU Lymphocyte antigen 75 precursor... [ score 56 E 3e-07 ] [ range 166 .. 209 ]
+sequence
+-G----------RPCEFPFLVGETWHHDCIRDENH-SGPWCATTLNYEYDQKWGIC---*
+>P1;gi|34873647|ref|XP_225172.2| similar to coagulation factor XII (... [ score 55 E 5e-07 ] [ range 111 .. 149 ]
+sequence
+-----------------PLWYHRRLYHKCIHKGQP-GRPWCATTPNFDEDQQWGYC---*
+>P1;gi|15028452|gb|AAK81722.1| DEC-205 [Mus musculus] [ score 53 E 2e-06 ] [ range 166 .. 209 ]
+sequence
+-G----------RPCEFPFLIGETWYHDCIHDEDH-SGPWCATTLSYEYDQKWGIC---*
+>P1;gi|2497974|sp|Q91400|FINC_NOTVI FIBRONECTIN >gi|2134028|pir||I51... [ score 52 E 3e-06 ] [ range 4 .. 48 ]
+sequence
+-G----------ASCHFPFLYNNRNYTDCTSEGRD-SMKWCGTTLNLYADQKFGFC---*

@@ -1,0 +1,156 @@
+>P1;1aiw
+structureX:1aiw:   1 : :  62 : :endoglucanase z:Erwinia chrysanthemi: -1: -1
+MGDCANANVYPNWVSKDWAGGQPTHNEAGQSIVYKGNLYTANW-YTA---SVPGSD-SSWTQVGSCN*
+>P1;1e15a
+structureX:1e15: 449 :A: 498 :A:chitinase B:Serratia marcescens: 1.9: 18.3
+PIM--TAPAYVPG----------TTYAQGALVSYQGYVWQTKWGYIT---SAPGSD-SAWLKVGR-V*
+>P1;1ed7a
+structureX:1ed7: 655 :A: 698 :A:chitinase A1:Bacillus circulans: -1: -1
+--------AWQVN----------TAYTAGQLVTYNGKTYKCLQPHTSLAGWEPSNVPALWQL-----*
+>P1;gi|23027970|ref|ZP_00066395.1| COG3693: Beta-1,4-xylanase [Micro... [ score 105 E 3e-22 ] [ range 511 .. 572 ]
+sequence
+VASCDGVNEYPSWTAKDWSGGDYNHANSGDYMSYQGVLYRANW-YTA---TVPGSD-SSWTRVGDCN*
+>P1;gi|3687412|emb|CAA76775.1| cellulase [Pseudoalteromonas haloplan... [ score 103 E 1e-21 ] [ range 435 .. 494 ]
+sequence
+--DCNGINAYPNWVNKDYSGGPFTHNNTDDKMQYQGNAYSANW-YTN---SLPGSD-ASWTLLYTCN*
+>P1;gi|45356857|gb|AAS58467.1| cellulase [Pseudoalteromonas sp. MB-1] [ score 103 E 1e-21 ] [ range 433 .. 492 ]
+sequence
+--DCNGINAYPNWVKKDYSAGPFTHNKTDDKMQYQGNAYSANW-YTT---SIPGSD-ASWTLIYSCN*
+>P1;gi|30025853|gb|AAP04424.1| CelX [psychrophilic marine bacterium ... [ score 102 E 3e-21 ] [ range 433 .. 492 ]
+sequence
+--DCNGINTYPNWVNKDYSDGPFTHNNTDDKMQYQGNAYSANW-YTN---SLPGSD-ASWTLLYTCN*
+>P1;gi|28900687|ref|NP_800342.1| chitodextrinase [Vibrio parahaemoly... [ score 94 E 6e-19 ] [ range 997 .. 1053 ]
+sequence
+--DTAGLVTYPNLPQTDWA-GNPSHANQGDKVIHNGVVYQANW-WTA---SEPGSD-GSWATV--CN*
+>P1;gi|22208527|gb|AAM94336.1| chitinase B [Vibrio harveyi] [ score 93 E 1e-18 ] [ range 996 .. 1052 ]
+sequence
+--DTTGLVTYPDFPQTDWQ-GNPSHANQGDKVIHNGVVYQANW-WTA---SEPGSD-GSWSTV--CN*
+>P1;gi|27367228|ref|NP_762755.1| Uncharacterized protein contain chi... [ score 91 E 5e-18 ] [ range 436 .. 489 ]
+sequence
+-GLCADFNVYPDWTRGDHATG-------GDIMVHKNIAYSAVY-WTQ---SVPGSD-SSWSLHLNCD*
+>P1;gi|37676945|ref|NP_937341.1| conserved hypothetical protein [Vib... [ score 90 E 1e-17 ] [ range 456 .. 509 ]
+sequence
+-GLCAEFNVYPDWTRGDHATG-------GDIMVHKNIAYSAVY-WTQ---SIPGSD-SSWSLHLNCD*
+>P1;gi|23027011|ref|ZP_00065474.1| COG3325: Chitinase [Microbulbifer... [ score 81 E 9e-15 ] [ range 1086 .. 1143 ]
+sequence
+-GDCSNASAYPNFPQKDWA-GNPSHANAGDRMTHNNALYEAKW-WTS---ATPGT--SDWDLV----*
+>P1;gi|7521919|pir||T30933 chitinase (EC 3.2.1.14) A - Pseudoalterom... [ score 64 E 8e-10 ] [ range 997 .. 1051 ]
+sequence
+----ADIPVYPNFPQTDWA-GNPSHAAGGDLMVASTAVYKAKW-WTS---TEPGTS-ADWDSV----*
+>P1;gi|15641086|ref|NP_230718.1| chitinase, putative [Vibrio cholera... [ score 61 E 6e-09 ] [ range 1038 .. 1085 ]
+sequence
+----NGLKVYPEFPRGDHAAG-------GDQLIHNGSVWQANW-WTN---STPSSD-ASWKAV----*
+>P1;gi|44591212|gb|EAK32614.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 687 .. 732 ]
+sequence
+--------AYPTWPQGD-------HANGGDRMTNNKAVWQANW-WTS---SEPAGD-GSWKLVCS--*
+>P1;gi|22652066|gb|AAN03597.1| chitinase [Serratia liquefaciens] [ score 100 E 7e-21 ] [ range 449 .. 498 ]
+sequence
+PIM--SAPAYVAG----------TTYNQGALVSYLGYVWQTKWGFIT---SVPGSD-SAWLKVGR-V*
+>P1;gi|11360555|pir||T43916 chitinase A [imported] - Pyrococcus koda... [ score 46 E 2e-04 ] [ range 83 .. 128 ]
+sequence
+-----SYPKYEPG----------KTYNQGDVVEYNGKIWRVKY-WTQ---SVPGSD-DSWELVGD-V*
+>P1;gi|21222251|ref|NP_628030.1| putative dioxygenase [Streptomyces ... [ score 82 E 4e-15 ] [ range 250 .. 291 ]
+sequence
+---------WASG----------HAYTSGDRVTYGGRSYRCLQAHTAMTGWEPPNVPALWQ------*
+>P1;gi|32141136|ref|NP_733527.1| putative bifunctional protein [Stre... [ score 79 E 3e-14 ] [ range 1023 .. 1064 ]
+sequence
+---------WQLG----------ATYAAGDVVSYNGVSYRCIQGHTAYPGWEPPNVPALWQ------*
+>P1;gi|927653|dbj|BAA09831.1| chitinase [Kurthia zopfii] [ score 79 E 3e-14 ] [ range 655 .. 698 ]
+sequence
+--------AWQAN----------TAYTVGQLVTYSGKTYKCLQSHTSLPGWEPSNVPALWQV-----*
+>P1;gi|282349|pir||A41961 chitinase (EC 3.2.1.14) D - Bacillus circu... [ score 78 E 7e-14 ] [ range 34 .. 75 ]
+sequence
+---------WQAG----------TAYKQGDLVTYLNKDYECIQPHTALTGWEPSNVPALWK------*
+>P1;gi|8347777|gb|AAF74782.1| chitinase [Bacillus circulans] [ score 77 E 1e-13 ] [ range 655 .. 698 ]
+sequence
+--------AWQAN----------TAYVVGQLVTYNGKTYKCLQSHTFLTGWEPSNVAALWEL-----*
+>P1;gi|1256698|gb|AAC09387.1| chitinase [Serratia marcescens] [ score 76 E 2e-13 ] [ range 436 .. 478 ]
+sequence
+---------WQNN----------HSYKAGDVVSYKGKKYTCIQAHTSNAGWTPDAAFTLWQL-----*
+>P1;gi|4587324|dbj|BAA76716.1| Family 19 chitinase (pRYA1 ORF) [Aero... [ score 75 E 3e-13 ] [ range 25 .. 69 ]
+sequence
+--------AWQEG----------TTYTAGTFVSYNGHDYKCLVTHTAYAGWTPSGTPTLWQ------*
+>P1;gi|44885888|dbj|BAD12045.1| chitinase [Clostridium paraputrificum] [ score 75 E 4e-13 ] [ range 639 .. 682 ]
+sequence
+--------AWEAW----------VSYKTGDIVSYNGKNYTCRQGHTSLVGWEPSNVQALWSL-----*
+>P1;gi|1709805|sp|P52320|PRTC_STRGR Serine protease C precursor (SGP... [ score 74 E 7e-13 ] [ range 414 .. 455 ]
+sequence
+---------WAVG----------TAYAAGATVTYGGATYRCLQAHTAQPGWTPADVPALWQ------*
+>P1;gi|21223051|ref|NP_628830.1| putative serine protease precursor ... [ score 74 E 9e-13 ] [ range 420 .. 461 ]
+sequence
+---------WAAG----------TVYQPGDTVTYGGATFRCLQGHQAYAGWEPPNVPALWQ------*
+>P1;gi|2126244|pir||S65764 chitinase (EC 3.2.1.14) precursor - Aerom... [ score 74 E 1e-12 ] [ range 30 .. 74 ]
+sequence
+--------AWQEG----------TTYTAGTVVTYNGHDYQSLVTHTAYVGWTPSSTPTLWK------*
+>P1;gi|34498778|ref|NP_902993.1| carbohydrate-binding protein [Chrom... [ score 73 E 1e-12 ] [ range 337 .. 379 ]
+sequence
+---------WREG----------VAYTVGQIVSYQGRRYRCLQGHTAWAGWTPSTQPALW-------*
+>P1;gi|34498047|ref|NP_902262.1| carbohydrate-binding protein [Chrom... [ score 73 E 2e-12 ] [ range 340 .. 383 ]
+sequence
+--------AWREG----------VAYAVGQVVSYQNRRYRCLQAHTAWAGWTPSTTPALW-------*
+>P1;gi|2126242|pir||S65762 chitinase (EC 3.2.1.14) precursor - Aerom... [ score 72 E 4e-12 ] [ range 27 .. 71 ]
+sequence
+--------AWQEG----------NTYTAGTVVTYNGHDYQALVTHTAYVGWNPSSTPTLWK------*
+>P1;gi|2126243|pir||S65763 chitinase (EC 3.2.1.14) precursor - Aerom... [ score 70 E 2e-11 ] [ range 28 .. 72 ]
+sequence
+--------AWQEG----------STYTAGTVVSYGGHDYQALVTHTAYAGWNPASTPTLWK------*
+>P1;gi|34496009|ref|NP_900224.1| probable carbohydrate-binding prote... [ score 70 E 2e-11 ] [ range 335 .. 379 ]
+sequence
+--------SWKEG----------GKYAAGQVVSYQGRSYRCLQAHTAWAGWTPSTQSTLWQ------*
+>P1;gi|29827541|ref|NP_822175.1| putative serine protease [Streptomy... [ score 69 E 3e-11 ] [ range 413 .. 454 ]
+sequence
+---------WAAG----------RVYEVGAQVTYAGVTYQCLQSHQAQGVWQPAATPALWQ------*
+>P1;gi|21219350|ref|NP_625129.1| putative serine protease [Streptomy... [ score 68 E 5e-11 ] [ range 414 .. 456 ]
+sequence
+--------AWTAG----------RVYEVGTTVSYDGVRYRCLQSHQAQGVGSPASVPALWQ------*
+>P1;gi|23472220|ref|ZP_00127547.1| COG3469: Chitinase [Pseudomonas s... [ score 68 E 5e-11 ] [ range 743 .. 783 ]
+sequence
+---------WKTN----------TDYVKGDKVMYAGASYICLNPHHSQTDWYPGGAPTLW-------*
+>P1;gi|37681086|ref|NP_935695.1| deacetylase DA1 [Vibrio vulnificus ... [ score 67 E 1e-10 ] [ range 398 .. 438 ] [ duplicate a ]
+sequence
+---------WQVN----------TTYSTGAYVLHQGTVYKAVTSHTAQADWAPSATSSLW-------*
+>P1;gi|37681086|ref|NP_935695.1| deacetylase DA1 [Vibrio vulnificus ... [ score 67 E 1e-10 ] [ range 447 .. 486 ] [ duplicate b ]
+sequence
+---------WMLN----------VEYAQGDVVSYKGVRYLVNVPHVSQVTWTPDTQNTL--------*
+>P1;gi|34498390|ref|NP_902605.1| probable chitinase A [Chromobacteri... [ score 63 E 2e-09 ] [ range 29 .. 71 ]
+sequence
+---------WAEG----------TAYKVGDVVSYNNANYTALVAHTAYVGWNPAASPTLW-------*
+>P1;gi|15641293|ref|NP_230925.1| hypothetical protein VC1280 [Vibrio... [ score 60 E 2e-08 ] [ range 339 .. 379 ] [ duplicate a ]
+sequence
+---------WSVG----------KTYQAGEYVLYQGVVYKAVISHTAQQDWAPSSTSSLW-------*
+>P1;gi|15641293|ref|NP_230925.1| hypothetical protein VC1280 [Vibrio... [ score 60 E 2e-08 ] [ range 388 .. 427 ] [ duplicate b ]
+sequence
+---------WTLN----------VSYEQGDIVNYKGKRYLVSVPHVSQQDWTPDTQNTL--------*
+>P1;gi|15597496|ref|NP_250990.1| chitinase [Pseudomonas aeruginosa P... [ score 59 E 2e-08 ] [ range 439 .. 479 ]
+sequence
+---------WREN----------QAYRVDDGVTYEGLRYLCLQAHTSNSGWTPPVAFTLW-------*
+>P1;gi|2126241|pir||I39540 chitinase (EC 3.2.1.14) II precursor - Ae... [ score 58 E 4e-08 ] [ range 496 .. 541 ]
+sequence
+--------AWAEG----------NTYTAGTCASYGGKDYVAQVTHTAYVGWNPAATPTLWKL-----*
+>P1;gi|12698093|dbj|BAB21759.1| deacetylase DA1 [Vibrio alginolyticu... [ score 58 E 8e-08 ] [ range 335 .. 375 ] [ duplicate a ]
+sequence
+---------WQVG----------NNYSAGDYVLHLGTVYQAVTSHTAQQDWAPSPTSSLW-------*
+>P1;gi|12698093|dbj|BAB21759.1| deacetylase DA1 [Vibrio alginolyticu... [ score 58 E 8e-08 ] [ range 384 .. 423 ] [ duplicate b ]
+sequence
+---------WTQN----------VSYKQGDVVTYQGLRYLVNVPHVSQADWTPNSQNTL--------*
+>P1;gi|2126245|pir||S65765 chitinase (EC 3.2.1.14) precursor - Aerom... [ score 58 E 8e-08 ] [ range 32 .. 75 ]
+sequence
+---------WAEG----------NTYTAGTIVYYNGHDYKAAVTHTAYAGWNPSSTPTLWQ------*
+>P1;gi|28867630|ref|NP_790249.1| chitinase [Pseudomonas syringae pv.... [ score 52 E 3e-06 ] [ range 556 .. 598 ]
+sequence
+---------WAPG----------VQYQAGNEVTHQGISYRCLQSHKSIPEWSPPGSASLW-------*
+>P1;gi|17230981|ref|NP_487529.1| unknown protein [Nostoc sp. PCC 712... [ score 52 E 4e-06 ] [ range 54 .. 95 ]
+sequence
+---------WAMN----------VEYMSGDVVIFQGSRFQCITSHTSFADWNPTAAPSLW-------*
+>P1;gi|6649589|gb|AAF21468.1| chitinase Chi67 [Doohwaniella chitinas... [ score 50 E 1e-05 ] [ range 37 .. 79 ]
+sequence
+--------AWAEG----------NTYTANSLASYQSTNYKALVTHTAYVGWNPAASPTL--------*
+>P1;gi|458468|gb|AAA83223.1| chitinase [ score 50 E 1e-05 ] [ range 55 .. 98 ]
+sequence
+---------WQEG----------GTYNAGTVVTYLGGNYTALVTQTDHVGWNPVSTPSLWS------*
+>P1;gi|4115619|dbj|BAA36459.1| chitinase [Aeromonas sp. 10S-24] [ score 47 E 1e-04 ] [ range 29 .. 71 ]
+sequence
+---------WQPD----------TTYAAGTIVYYQGHDYKALVTQTDYTGWNP-TVASLWQ------*
+>P1;gi|16120646|ref|NP_403959.1| putative oxidoreductase [Yersinia p... [ score 44 E 7e-04 ] [ range 634 .. 678 ]
+sequence
+--------AWVLN----------GSYAVGDVVSNLGKLWRCIQSHVAYPLWAPGTNGTLW-------*

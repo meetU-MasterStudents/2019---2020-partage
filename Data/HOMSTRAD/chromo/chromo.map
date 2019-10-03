@@ -1,0 +1,1044 @@
+>P1;1g6za
+structureX:1g6z:  -2 :A:  69 :A:Clr4 Protein:Schizosaccharomyces pombe: -1: -1
+------------------ISSPKQEEYEVERIVDEKLDRNGAVKLYRIRWLNYSSRSDTWEPPENLS-GC
+SAVLAEWKRRKRRLKGSNS-*
+>P1;1ap0
+structureX:1ap0:   8 : :  80 : :chromobox protein homolog 1, (Chromo) Domain:mus musculus: -1: -1
+HMVEEVLEEEEE-------------EYVVEKVLDRRVVKG--KVEYLLKWKGFSDEDNTWEPEENL--DC
+PDLIAEFLQSQKTAHETDKS*
+>P1;1dz1a
+structureX:1dz1: 102 :A: 171 :A:chromobox protein homolog 1, C Terminal (Shadow Chromo) Domain:mus musculus: -1: -1
+------HMKEESEKPRGFAR-----GLEPERIIGATDSSG--ELMFLMKWKNSD--EADLVPAKEANVKC
+PQVVISFYEERLTWH-----*
+>P1;gi|38565937|gb|AAH62123.1| Cdyl protein [Mus musculus] [ score 115 E 3e-25 ] [ range 4 .. 67 ]
+sequence
+-----------------------EELYEVESIVDKRKNKKGKTE-YLVRWKGYDSEDDTWEPEQHLV-NC
+EEYIHDFNRRERQKEGS---*
+>P1;gi|32479358|gb|AAP83844.1| chromodomain Y-like protein [Macaca f... [ score 111 E 4e-24 ] [ range 4 .. 65 ]
+sequence
+-----------------------EELYEVERIVDKRKNKKGKTE-YLVRWKGYDSEDDTWEPEQHLV-NC
+EEYIHDFNRREKQKE-----*
+>P1;gi|37546616|ref|XP_016548.3| similar to Testis-specific chromodo... [ score 111 E 4e-24 ] [ range 4 .. 62 ]
+sequence
+------------------------QEFEVEAIVDKRQDKNGNTQ-YLVRWKGYDKQDDTWEPEQHLM-NC
+EKCVHDFNRRQTEKQ-----*
+>P1;gi|15886859|emb|CAC85627.1| Y chromosomal chromodomain protein [... [ score 111 E 6e-24 ] [ range 4 .. 62 ]
+sequence
+------------------------QEFEVETIVDQRQDKNGNT-VYLVRWKGYDKQDDTWEPEHHLM-NC
+EKCIHDFNRRQTEKQ-----*
+>P1;gi|6753398|ref|NP_034011.1| chromodomain protein, Y chromosome-l... [ score 109 E 2e-23 ] [ range 55 .. 116 ]
+sequence
+-------------------------ETQVESIVDKRKNKKGKTE-YLVRWKGYDSEDDTWEPEQHLV-NC
+EEYIHDFNRRERQKEGS---*
+>P1;gi|32479360|gb|AAP83845.1| chromodomain Y protein [Pan troglodytes] [ score 106 E 1e-22 ] [ range 1 .. 58 ]
+sequence
+-------------------------EFEVETIVDKRQDKKGNTQ-YLVRWKGYDKQDDTWEPEQHLM-KC
+EKCVHDFNRRQAEKQ-----*
+>P1;gi|32479352|gb|AAP83841.1| chromodomain Y-like protein 2 [Macaca... [ score 96 E 2e-19 ] [ range 5 .. 72 ]
+sequence
+------------------------DLYEVERIVDKRKNKKGKWE-YLIRWKGYGSTEDTWEPEHHLL-HC
+EEFIDEFNKDKRIKSGKQS-*
+>P1;gi|38102905|gb|EAA49684.1| hypothetical protein MG08599.4 [Magna... [ score 95 E 4e-19 ] [ range 679 .. 738 ]
+sequence
+------------------------EAYEVEKILDSSVDADTKQLMYLVKWKDYASSENTWEPKKNLS-GA
+SEVIKKFNATKKSEE-----*
+>P1;gi|33086538|gb|AAP92581.1| Ab2-008 [Rattus norvegicus] [ score 95 E 4e-19 ] [ range 861 .. 917 ]
+sequence
+--------------------EDGEDVFEVERILDMKCE--GGKNLYKVRWKGYTSDDDTWEPEVHLE-DC
+KEVLLEFRKK----------*
+>P1;gi|32479356|gb|AAP83843.1| chromodomain Y-like protein 2 [Mus mu... [ score 94 E 6e-19 ] [ range 5 .. 72 ]
+sequence
+------------------------DLYEVERIVDKRKNKKGKWE-YLIRWKGYGSTEDTWEPEHHLL-HC
+EEFIDEFNKDKRVKSGKQA-*
+>P1;gi|10946132|gb|AAG24792.1| pol protein [Glomerella cingulata] [ score 89 E 3e-17 ] [ range 1122 .. 1181 ]
+sequence
+------------------IVEDNEREYEVERIIDHS-DAFGEELHFLVKWLGYGHEDNTWEPQSNLT-GA
+KEELEEYWKQ----------*
+>P1;gi|34851949|ref|XP_226511.2| similar to chromodomain Y-like prot... [ score 89 E 3e-17 ] [ range 3 .. 67 ]
+sequence
+---------------------------QVERIVDKRKNKKGKWE-YLIRWKGYGSTEDTWEPEHHLL-HC
+EEFIDEFNKDKKVKSGKQA-*
+>P1;gi|37813156|gb|AAR04354.1| Pol [Phanerochaete chrysosporium] [ score 88 E 4e-17 ] [ range 88 .. 141 ]
+sequence
+------------------------EEYEVKQIVDAQPDSEGHV-MYRVQWRGYNEHSDIWEYLPNLK-HA
+MAKVKQFHKK----------*
+>P1;gi|7109239|gb|AAF36692.1| programmed DNA degradation protein 3 [... [ score 83 E 1e-15 ] [ range 14 .. 77 ]
+sequence
+-----------------------QQEYEVEKIIKTKYDDQLRTNLYLVKWKGYADHLNTWEPEWNLE-NS
+KEILNDFKKKNKHSLNQN--*
+>P1;gi|13097657|gb|AAH03542.1| Unknown (protein for IMAGE:3611719) [... [ score 83 E 2e-15 ] [ range 56 .. 112 ]
+sequence
+--------------------EDGEDVFEVEKILDMKTE--GGKVLYKVRWKGYTSDDDTWEPEIHLE-DC
+KEVLLEFRKK----------*
+>P1;gi|40743703|gb|EAA62891.1| hypothetical protein AN2616.2 [Asperg... [ score 71 E 6e-12 ] [ range 797 .. 857 ]
+sequence
+---------------------DDDDRYEVERIVDRKPHLVGRVIKYLVRWKGYGSEDDWWLTKEQLE-GA
+EELVHDYNK-----------*
+>P1;gi|32417860|ref|XP_329408.1| predicted protein [Neurospora crass... [ score 70 E 1e-11 ] [ range 205 .. 259 ]
+sequence
+-------------------------EYEVEAIVDSIINAETMEHVYFVKWKGYPSSENTWEPKQNLQ-GA
+TELLRKFNADQ---------*
+>P1;gi|6650019|gb|AAF21678.1| pol polyprotein [Cladosporium fulvum] [ score 67 E 7e-11 ] [ range 1163 .. 1211 ]
+sequence
+-----------------------ENEFEVEKILDKKGQR------YLVKWKGYDESENTWEPRINLA-NC
+YQLLRQFQK-----------*
+>P1;gi|2133292|pir||S60179 pol polyprotein homolog - fungus (Fusariu... [ score 67 E 9e-11 ] [ range 1234 .. 1291 ]
+sequence
+------------------------EVYEAEAIRDTR--KINGQREYLIKWKNYPENENTWEPPKHLV-NA
+QRLLKDFHQRARKKE-----*
+>P1;gi|38108609|gb|EAA54603.1| hypothetical protein MG05395.4 [Magna... [ score 66 E 3e-10 ] [ range 560 .. 615 ]
+sequence
+------------------IEIDAEQTYDVERILDHRRN-HGKTE-YLVKWENYGHEENTWEPLNHLQ-DC
+QEPLRQY-------------*
+>P1;gi|8648963|emb|CAB94835.1| heterochromatin protein [Leptinotarsa... [ score 64 E 6e-10 ] [ range 148 .. 198 ]
+sequence
+-------------------------EFVVEKILAQEFDVSTKQFMFLVKWKGYSMVHNTWEPLEHLT-HC
+SLLLTQF-------------*
+>P1;gi|27529842|dbj|BAC53936.1| chromomethylase-like protein [Nicoti... [ score 63 E 2e-09 ] [ range 290 .. 345 ]
+sequence
+------------------------EIFEVEQLLEKEKNKPG--LYFKVRWKGYGQEEDTWEPIEGLD-GC
+QEKIKDF-------------*
+>P1;gi|21355721|ref|NP_651093.1| CG6990-PA [Drosophila melanogaster]... [ score 62 E 4e-09 ] [ range 4 .. 66 ]
+sequence
+----------------------NEPNFVVERIMDKRITSEGKVEYY-IKWRGYTSADNTWEPEENC--DC
+PNLIQKFERAKSKKRG----*
+>P1;gi|14583094|gb|AAK69757.1| chromomethylase CMT2 [Arabidopsis tha... [ score 61 E 7e-09 ] [ range 784 .. 839 ]
+sequence
+------------------------EEYEVEKLVDGDPDKTGKNGLFKVHWKGYRSDEDTWELAEELS-NC
+QDAIREF-------------*
+>P1;gi|20977600|gb|AAM28227.1| DNA methyltransferase 105 [Zea mays] [ score 60 E 1e-08 ] [ range 443 .. 504 ]
+sequence
+------------------------DEFVVQKLIGIRYDGTGRKKYFKVQWEGYGPEEDTWEPIDNLS-DC
+PLKIREFVQEGRKRK-----*
+>P1;gi|26353408|dbj|BAC40334.1| unnamed protein product [Mus musculus] [ score 60 E 2e-08 ] [ range 35 .. 91 ]
+sequence
+------------------VSKKNLYDFEVEYLCDYKKIRE--QEYYLVKWRGYPDSENTWEPRQNLK--C
+IRVLKQFHK-----------*
+>P1;gi|34933418|ref|XP_217594.2| similar to position-effect variegat... [ score 59 E 2e-08 ] [ range 157 .. 213 ]
+sequence
+------------------VSKKNLYDFEVEYLCDYKKIRE--QEYYLVKWRGYPDSENTWEPRQNLK--C
+VRILKQFHK-----------*
+>P1;gi|19114578|ref|NP_593666.1| chromo domain protein; required for... [ score 59 E 2e-08 ] [ range 16 .. 64 ]
+sequence
+--------------------ETDADVYEVEDILADRVNKNG-INEYYIKWAGYDWYDNTWEPEQNLF-GA
+E-------------------*
+>P1;gi|1297185|gb|AAA98912.1| theoretical protein with similarity to... [ score 59 E 4e-08 ] [ range 256 .. 310 ]
+sequence
+-------------------------EFEVEKFLGMFGDPQGKTLQLMVRWKGYNSSYDTWEPYSGLG-NC
+KEKLKEY-------------*
+>P1;gi|23480227|gb|EAA16848.1| chromodomain protein [Plasmodium yoel... [ score 58 E 6e-08 ] [ range 6 .. 59 ]
+sequence
+------------------------EEFEIGDILDVKRKKNG--FIYLVKWKGYSDDENTWEPESNLL-H-
+---LTDFKKKMEYLK-----*
+>P1;gi|32414963|ref|XP_327961.1| predicted protein [Neurospora crass... [ score 58 E 7e-08 ] [ range 38 .. 97 ]
+sequence
+---------------------DPDEEFEVEDILLEELDDDGK-QVYLVKWERYPLEQCTWEPEDNLG-D-
+-ELIEMWREKQLRQE-----*
+>P1;gi|4507321|ref|NP_003164.1| suppressor of variegation 3-9 homolo... [ score 57 E 7e-08 ] [ range 35 .. 91 ]
+sequence
+------------------ISKRNLYDFEVEYLCDYKKIRE--QEYYLVKWRGYPDSESTWEPRQNLK--C
+VRILKQFHK-----------*
+>P1;gi|9409736|emb|CAB98198.1| SU(VAR)3-9; putative heterochromatin ... [ score 56 E 2e-07 ] [ range 135 .. 186 ]
+sequence
+----------------------KSQEFIIEKILDFKF--QEGKEYFHIKWKGWPDSENTWEPIENLD-NC
+PEVLTEF-------------*
+>P1;gi|38108791|gb|EAA54757.1| hypothetical protein MG05548.4 [Magna... [ score 56 E 2e-07 ] [ range 1087 .. 1150 ]
+sequence
+----------------------REREYEVEEILDETRGRGGRRLKYIVRWAGYS--EPTTEPADYLE-NA
+AQLVKNFHRRYPHKPG----*
+>P1;gi|266545|sp|P30658|CBX2_MOUSE Chromobox protein homolog 2 (Modi... [ score 56 E 2e-07 ] [ range 4 .. 69 ]
+sequence
+------------------LSSVGEQVFAAECILSKRL-RKGKLE-YLVKWRGWSSKHNSWEPEENIL-D-
+PRLLLAFQKKEHEKEVQN--*
+>P1;gi|2766715|gb|AAB95486.1| chromomethylase [Arabidopsis arenosa] ... [ score 56 E 3e-07 ] [ range 322 .. 376 ]
+sequence
+-------------------------EFEVEKFVGIVFDPKGKTLHLKVRWKGYSPKYDTWEPYSGLG-NC
+KEKLKEY-------------*
+>P1;gi|31197819|ref|XP_307857.1| ENSANGP00000018710 [Anopheles gambi... [ score 56 E 3e-07 ] [ range 17 .. 71 ]
+sequence
+--------------------SDTEEEYVVEKIVDRR-ERKGKVE-YLLKWKGYDSGSNSWEPRENL--DC
+PELIKAFEQ-----------*
+>P1;gi|35902802|ref|NP_919354.1| chromobox homolog 2 (Drosophila Pc ... [ score 56 E 3e-07 ] [ range 9 .. 66 ]
+sequence
+-----------------------EQVFDAECILNKRT-RKGKLE-YLVKWRGWSSKHNSWEPQENLL-DP
+RLLVA-FNKREQEKE-----*
+>P1;gi|37530390|ref|NP_919497.1| putative DNA cytosine methyltransfe... [ score 55 E 4e-07 ] [ range 413 .. 474 ]
+sequence
+------------------------DEFVVEKLAGICYGGSGRELYFKVQWKGYGREEDTWEPIENLR-DC
+PLKIKEFVQEGYRRK-----*
+>P1;gi|15222449|ref|NP_177135.1| chromomethylase 3 (CMT3) [Arabidops... [ score 54 E 7e-07 ] [ range 376 .. 435 ]
+sequence
+--------------------EDDGEVFTVDKIVGISPKKLLKRGLYLVRWLNYDDSHDTWEPIEGLS-NC
+RGKIEEF-------------*
+>P1;gi|37625078|gb|AAQ95736.1| neuronal pentraxin with chromo domain... [ score 54 E 9e-07 ] [ range 8 .. 65 ]
+sequence
+-----------------------ERVFAAESIIKRRI-RKGRIE-YLVKWKGWAIKYSTWEPEENIL-D-
+SRLIAAFEQKERERE-----*
+>P1;gi|34877323|ref|XP_344634.1| similar to Histone-lysine N-methylt... [ score 54 E 1e-06 ] [ range 103 .. 157 ]
+sequence
+------------------ITKRNLNNYEVEYLCDYKVVK--GVEYYLVKWKGWPDSTNTWEPLWNLR--C
+PQLLQQF-------------*
+>P1;gi|34902318|ref|NP_912505.1| Putative DNA cytosine methyltransfe... [ score 54 E 1e-06 ] [ range 555 .. 611 ]
+sequence
+-----------------------EDIFDVEELLEICYGDPSNTLWFKVRWKGYDPSYDTWEPIDGLS-DC
+PERIKEF-------------*
+>P1;gi|17536159|ref|NP_495652.1| clr4p like (37.7 kD) (2I148) [Caeno... [ score 53 E 1e-06 ] [ range 22 .. 77 ]
+sequence
+------------------------EIFEVEKILAHKVTDNL--LVLQVRWLGYGADEDTWEPEEDLQ-EC
+SEVVAEYYKKLK--------*
+>P1;gi|31543790|ref|NP_073561.2| suppressor of variegation 3-9 homol... [ score 53 E 2e-06 ] [ range 110 .. 169 ]
+sequence
+------------------ITKRNLNNYEVEYLCDYKVAK--GVEYYLVKWKGWPDSTNTWEPLRNLR--C
+PQLLRQFSDDKK--------*
+>P1;gi|15217223|gb|AAK92567.1| Putative polycomb protein [Oryza sativa] [ score 53 E 2e-06 ] [ range 107 .. 157 ]
+sequence
+--------------------------YEIEDIRRRRLRK--GKLQYLVKWRGWPESANTWEPLENLS-AC
+SDIIDAFEMR----------*
+>P1;gi|17985985|ref|NP_536794.1| rhino CG10683-PA [Drosophila melano... [ score 53 E 2e-06 ] [ range 19 .. 71 ]
+sequence
+---------------------DHVEEYVVEKILGKRF-VNGRPQV-LVKWSGFPNENNTWEPLENVG-NC
+MKLVSDF-------------*
+>P1;gi|13021690|gb|AAK11516.1| DNA cytosine methyltransferase MET2a ... [ score 53 E 2e-06 ] [ range 439 .. 500 ]
+sequence
+------------------------DEFVVEKLVGICYGGSDRENYFKVQWEGYGPEEDTWEPIDNLS-DC
+PQKIREFHKRK---------*
+>P1;gi|45382847|ref|NP_989974.1| chromobox protein (CHCB2) [Gallus g... [ score 53 E 2e-06 ] [ range 12 .. 71 ]
+sequence
+------------------VEEAEPEEFVVEKVLDRRV-VNGKVEYYL-KWKGFTDADNTWEPEENL--DC
+PELIEAFLNSQK--------*
+>P1;gi|40743013|gb|EAA62203.1| hypothetical protein AN5253.2 [Asperg... [ score 53 E 2e-06 ] [ range 383 .. 438 ]
+sequence
+------------------------EHWEVESILDSRWERRGRRLKYTVKWVGYD--DPTEEPAEYLT-HA
+KQLVQNFHRR----------*
+>P1;gi|38110542|gb|EAA56245.1| hypothetical protein MG01897.4 [Magna... [ score 52 E 2e-06 ] [ range 765 .. 823 ]
+sequence
+-------------------IDEEQDIWEAEKLLAKR--RRGREIQYLVKWKGFPDDDNTWEPTKNIF-D-
+KHLIKSFNSSSR--------*
+>P1;gi|23508895|ref|NP_701563.1| chromodomain protein [Plasmodium fa... [ score 52 E 2e-06 ] [ range 6 .. 59 ]
+sequence
+------------------------EEFEIGDILEIKKKKNG--FIYLVKWKGYSDDENTWEPESNLI-H-
+---LTTFKKKMESLK-----*
+>P1;gi|157026|gb|AAA28402.1| C1A9 antigen [ score 52 E 4e-06 ] [ range 18 .. 80 ]
+sequence
+--------------------EEEEEEYAVEKIIDRRV-RKGKVEYYL-KWKGYPETENTWEPENNL--DC
+QDLIQQYEASRKDEEKS---*
+>P1;gi|123479|sp|P29227|HP1_DROVI Heterochromatin protein 1 (HP1) >g... [ score 52 E 4e-06 ] [ range 18 .. 70 ]
+sequence
+--------------------EEEEEEYAVEKILDRRV-RKGKVEYYL-KWKGYAETENTWEPEGNL--DC
+QDLIQQY-------------*
+>P1;gi|43618568|gb|EAE63939.1| unknown [environmental sequence] [ score 52 E 4e-06 ] [ range 12 .. 86 ]
+sequence
+------------------------EEFEVEAILDYEASVFQRHGKYLVKWKNWDESNNTWEPTQNLM-GC
+GEKLKEFYTKR---------*
+>P1;gi|39591827|emb|CAE71405.1| Hypothetical protein CBG18315 [Caeno... [ score 51 E 5e-06 ] [ range 13 .. 74 ]
+sequence
+---------------------PKDNVFMVEKVLDKRSGKAGREE-FLIQWQGFPASDSSWEPRENLQ--C
+EEFEKEFAKREK--------*
+>P1;gi|7488929|pir||T14294 polycomb-like protein - carrot >gi|310790... [ score 51 E 6e-06 ] [ range 55 .. 113 ]
+sequence
+--------------------------FEIEHIRRKRV-KKGEVQ-YLVKWRGWPESANTWEPVEHLE-AV
+PDVVDAFEQRQSGKHKSS--*
+>P1;gi|1519343|gb|AAB61683.1| Pdd1p [Tetrahymena thermophila] >gi|15... [ score 51 E 6e-06 ] [ range 43 .. 103 ]
+sequence
+--------------------EEEEDQYEVEKILDSRFNPKTKQKEYLVKWENWPIEDSTWEPYEHLS-NV
+KEIVQAFEKKQK--------*
+>P1;gi|16519033|gb|AAL25116.1| heterochromatin protein 1-like protei... [ score 51 E 7e-06 ] [ range 93 .. 158 ]
+sequence
+--------------------------YEIET-VRRRRTVKGKV-YYLIKWRGWPESANTWEPETNLS-SC
+TDIIDAYERRRKRKFGA---*
+>P1;gi|25091325|sp|Q9H5I1|SU92_HUMAN Histone-lysine N-methyltransfer... [ score 51 E 7e-06 ] [ range 39 .. 93 ]
+sequence
+------------------ITKRNLNNYEVEYLCDYKVVKD--MEYYLVKWKGWPDSTNTWEPLQNLK--C
+PLLLQQF-------------*
+>P1;gi|15625407|gb|AAL04059.1| like heterochromatin protein LHP1 [Ar... [ score 51 E 8e-06 ] [ range 101 .. 177 ]
+sequence
+---------------------PKLDEYEIEAIRRKRV-RKGKVQ-YLIKWRGWPETANTWEPLENLQ-SI
+ADVIDAFRKRKRKYAGPHS-*
+>P1;gi|6434313|emb|CAB54267.2| C. elegans HPL-2 protein (correspondi... [ score 51 E 8e-06 ] [ range 11 .. 74 ]
+sequence
+------------------IEDPKDNVFMVEKVLDKRTGKAGRDE-FLIQWQGFPESDSSWEPRENLQ--C
+VEMLDEFEREFSKRE-----*
+>P1;gi|3860185|gb|AAC72981.1| Polycomb homolog Pc1 [Xenopus laevis] [ score 51 E 1e-05 ] [ range 9 .. 69 ]
+sequence
+-----------------------EQVFAAECILSKRLRK--GTAEYLVKWRGWSSKHNSWEPEENIL-DP
+RLLVA-FQKREQEKELRN--*
+>P1;gi|38106372|gb|EAA52688.1| predicted protein [Magnaporthe grisea... [ score 51 E 1e-05 ] [ range 315 .. 367 ]
+sequence
+-------------------------------ILDCKFDKGLNRQMYLVRWAGQPETEDSWELIEHLT-ED
+IELVVEYKKEQSTKQ-----*
+>P1;gi|43381873|gb|EAD55824.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 2 .. 54 ]
+sequence
+--------------------------YEVGSILDRRQQPGAGVE-YRIRWRGFGAEYDSWEPAANL--YC
+ADLVEQFERSRR--------*
+>P1;gi|28302266|gb|AAH46570.1| Cbx3-prov protein [Xenopus laevis] [ score 50 E 1e-05 ] [ range 12 .. 71 ]
+sequence
+------------------VEEAEPEEFVVEKVMDRRV-VNGKVEYYL-KWKGFTDSDNTWEPEENL--DC
+PELIEAFLNSQK--------*
+>P1;gi|40746626|gb|EAA65782.1| hypothetical protein AN0376.2 [Asperg... [ score 50 E 1e-05 ] [ range 1295 .. 1357 ]
+sequence
+------------------IIVNGEKEYMVEKILDERPRRRGHRLEYLVKWSGYARP--TWEAATALE-EA
+QA-LDEWLDRTKQ-------*
+>P1;gi|33943725|gb|AAQ55544.1| Chriz [Drosophila erecta] [ score 50 E 1e-05 ] [ range 211 .. 280 ]
+sequence
+------------------IDSKTEQRTEVEKIVAKRFNPRRKTHEYLVKWVDRSHHENTWEVMANLE-RV
+PYFLQMFEKQLARQKLS---*
+>P1;gi|12858011|dbj|BAB31173.1| unnamed protein product [Mus musculus] [ score 50 E 1e-05 ] [ range 13 .. 79 ]
+sequence
+-------------------SSEDEEEYVVEKVLDRRMVK--GQVEYLLKWKGFSEEHNTWEPEKNL--DC
+PELISEFMRKKKMKEGENN-*
+>P1;gi|38101495|gb|EAA48450.1| hypothetical protein MG00108.4 [Magna... [ score 50 E 1e-05 ] [ range 229 .. 289 ]
+sequence
+-----------------------EPEFVVDKVLASRLFGRSKTLQYQVAWQGCDP-DDTWYPAENFK-NS
+ATALDDFHKKYKDAAG----*
+>P1;gi|21903397|sp|Q9HC52|CBX8_HUMAN Chromobox protein homolog 8 (Po... [ score 50 E 2e-05 ] [ range 8 .. 65 ]
+sequence
+-----------------------ERVFAAEALLKRRI-RKGRME-YLVKWKGWSQKYSTWEPEENIL-DA
+R-LLAAFEEREREME-----*
+>P1;gi|15929016|gb|AAH14967.1| CBX4 protein [Homo sapiens] >gi|37678... [ score 50 E 2e-05 ] [ range 8 .. 63 ]
+sequence
+-----------------------EHVFAVESIEKKRI-RKGRVE-YLVKWRGWSPKYNTWEPEENIL-DP
+RLLIA-FQNRERQ-------*
+>P1;gi|33943723|gb|AAQ55543.1| Chriz [Drosophila mauritiana] [ score 49 E 2e-05 ] [ range 215 .. 277 ]
+sequence
+---------------------DQRTEEPVEKIVAKRFNPRRKTHEYLVKWVDRSHHENTWEVMANLE-RV
+PYFLQMFEKQLARQK-----*
+>P1;gi|40746598|gb|EAA65754.1| hypothetical protein AN0348.2 [Asperg... [ score 49 E 2e-05 ] [ range 17 .. 79 ]
+sequence
+------------------VESEQASEYFVDTIL-AEYEFAEDDIRYLVKWDGYDIHRCTWEPKGNFN-NV
+HETLLEWEEKKQR-------*
+>P1;gi|43179903|gb|EAC55534.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 14 .. 51 ]
+sequence
+-----------------------EEEFSVEKVMDKRVGKNGKIE-YLLKWRGYGDEDNTWSP--------
+--------------------*
+>P1;gi|7485422|pir||T05039 hypothetical protein F13C5.190 - Arabidop... [ score 49 E 3e-05 ] [ range 784 .. 840 ]
+sequence
+------------------------EEYEVEKLVDDKTGKNG--LKFKVHWKGYRSDEDTWELAEEL----
+-RYMLQNNVKKR--------*
+>P1;gi|39585928|emb|CAE68217.1| Hypothetical protein CBG13888 [Caeno... [ score 49 E 3e-05 ] [ range 3 .. 65 ]
+sequence
+----------------------KEPQYLVQAVLEHRRNKKSRKNEYLIKWLGYDHTHNSWEPEDNIN-DD
+VAIADYFADKKREKEG----*
+>P1;gi|2134187|pir||I51693 XPolycomb - African clawed frog >gi|10865... [ score 49 E 4e-05 ] [ range 8 .. 63 ]
+sequence
+-----------------------EHVFAVESIEKKRI-RKGRVE-YLVKWRGWSSKYNTWEPEENIL-DP
+RLLVA-FQNRERQ-------*
+>P1;gi|31240209|ref|XP_320518.1| ENSANGP00000015659 [Anopheles gambi... [ score 48 E 4e-05 ] [ range 251 .. 312 ]
+sequence
+-------------------------EEEVEKILAKRFSPIIKMHEYLVKWARMTNDQNTWEPLTHLH-SC
+QSILEHFKQKEQR-------*
+>P1;gi|24645300|ref|NP_649878.1| CG8120-PA [Drosophila melanogaster]... [ score 48 E 5e-05 ] [ range 25 .. 82 ]
+sequence
+------------------------EEYIVERILDRRH--YMGQLQYLVKWLDYSDEDNTWESAADL--DC
+HSLIDSIESQKSLKRG----*
+>P1;gi|43722544|gb|EAF16258.1| unknown [environmental sequence] [ score 48 E 5e-05 ] [ range 6 .. 65 ]
+sequence
+------------------------EKYVVDKVVNKRTNRNGRVE-YLIKWKGYDDKDNTWEPRENL--DC
+EDLIEEFEKIQKSEE-----*
+>P1;gi|45360481|ref|NP_988907.1| hypothetical protein MGC76213 [Xeno... [ score 48 E 5e-05 ] [ range 13 .. 74 ]
+sequence
+-------------------SSSEEEEYVVEKVLDRRVVK--GQVEFLLKWKGFSEEHNTWEPDRNL--DC
+PELISEFMKKYKKVK-----*
+>P1;gi|24640713|ref|NP_572521.2| CG7041-PA [Drosophila melanogaster]... [ score 48 E 5e-05 ] [ range 3 .. 68 ]
+sequence
+-------------------------EFSVERVEDKRT-VNGRTEYYL-KWKGYPRSENTWEPVENL--DC
+PDLIANFNKKETKKRLSTS-*
+>P1;gi|38074891|ref|XP_356668.1| similar to chromobox homolog 3; het... [ score 48 E 6e-05 ] [ range 22 .. 81 ]
+sequence
+------------------VEEAEPEEFVVEKVLDHRV-VNGKVE-YFLKWKGFTDADNPWEPEENL--DC
+PELTEAFLNSQK--------*
+>P1;gi|43231844|gb|EAC81506.1| unknown [environmental sequence] [ score 47 E 7e-05 ] [ range 60 .. 117 ]
+sequence
+--------------------SDDEEEPVPEKLVDACIKKNGKVILFRVKWAGYPDSANTWEPAENLA-GY
+VDMILQF-------------*
+>P1;gi|30704391|gb|AAH51773.1| Chromobox homolog 7 [Homo sapiens] [ score 47 E 1e-04 ] [ range 8 .. 67 ]
+sequence
+-----------------------EQVFAVESIRKKRV-RKGKVE-YLVKWKGWPPKYSTWEPEEHIL-DP
+RLVMA-YEEKEERDRAS---*
+>P1;gi|17737701|ref|NP_524199.1| Polycomb CG32443-PA [Drosophila mel... [ score 47 E 1e-04 ] [ range 25 .. 65 ]
+sequence
+-------------------------VYAAEKIIQKRVKK--GVVEYRVKWKGWNQRYNTWEPEVNIL-D-
+--------------------*
+>P1;gi|17552718|ref|NP_498862.1| C.Elegans Chromodomain protein (33.... [ score 47 E 1e-04 ] [ range 3 .. 47 ]
+sequence
+---------------------DGSELYTVESILEHRK-KKGKSEFY-IKWLGYDHTHNSWEPKENIV-D-
+--------------------*
+>P1;gi|38089724|ref|XP_287872.2| similar to chromobox homolog 3; het... [ score 47 E 1e-04 ] [ range 22 .. 81 ]
+sequence
+------------------VEEAEPEEFVVEKVLNRRV-VNGKVE-YFLKWKGFTDADNPWEPEENL--DC
+PELIEAFLNSQK--------*
+>P1;gi|43121179|gb|EAC26498.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 43 .. 83 ]
+sequence
+-----------------------EEEYLVEKVIDRKEER--GKVLYQVRWQDYDESHDTWEPRDHL----
+--------------------*
+>P1;gi|43257414|gb|EAC94370.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 56 .. 108 ]
+sequence
+------------------------EVFEVDFLMAHRATAKGTTE-YKVRWKGFKAKHDTWEPAENII-D-
+TVLVADYERR----------*
+>P1;gi|24647050|ref|NP_524357.2| Suppressor of variegation 3-9 CG647... [ score 46 E 2e-04 ] [ range 214 .. 272 ]
+sequence
+---------------------PPKGEYVVERI--ECVEMDQYQPVFFVKWLGYHDSENTWESLANVA-DC
+AE-MEKFVERHQQL------*
+>P1;gi|39588347|emb|CAE72698.1| Hypothetical protein CBG19922 [Caeno... [ score 46 E 2e-04 ] [ range 1 .. 72 ]
+sequence
+------------------MSSDEEEEFEIGAILDKLIDKQGKFKHYLVHWKGYTVQDRTWEPESNLK---
+--------------------*
+>P1;gi|39583187|emb|CAE61405.1| Hypothetical protein CBG05267 [Caeno... [ score 45 E 4e-04 ] [ range 44 .. 92 ]
+sequence
+--------------------------YTVERILARR--KIGKRLEYMVKWKNFAEHQSTWEPADNL--NC
+PRLVAAFER-----------*
+>P1;gi|39586316|emb|CAE66727.1| Hypothetical protein CBG12076 [Caeno... [ score 45 E 4e-04 ] [ range 29 .. 75 ]
+sequence
+--------------------------YEVEKVIGTS--NKGNTIYFEVKWKGFPSEENTQEPEFRLT--C
+DDKILSY-------------*
+>P1;gi|40747565|gb|EAA66721.1| hypothetical protein AN9541.2 [Asperg... [ score 45 E 5e-04 ] [ range 332 .. 397 ]
+sequence
+------------------ILVNNEEEYYVDSVLDKRWKKRGGRWEYLVKWTGWAKP--TWEPAHELE-ET
+EAAQAYELQQEQQKE-----*
+>P1;gi|31216147|ref|XP_316176.1| ENSANGP00000005918 [Anopheles gambi... [ score 44 E 7e-04 ] [ range 2 .. 43 ]
+sequence
+------------------------RVYAAEKIMKKRI-RAGKAE-YHVKWKGWSQRHNTWEPEENIL-D-
+--------------------*
+>P1;gi|23478236|gb|EAA15377.1| ERYTHROCYTE MEMBRANE PROTEIN PFEMP3 [... [ score 44 E 7e-04 ] [ range 53 .. 108 ]
+sequence
+---------------------DHTEVFEVEKIIMARYKLDSKKKKFLIKWKNYDSDDNTWEPFENLS---
+--------------------*
+>P1;gi|45387905|ref|NP_991312.1| polycomb 2 [Danio rerio] >gi|282076... [ score 44 E 9e-04 ] [ range 8 .. 63 ]
+sequence
+-----------------------EHVFAVEGIEKKRL-RKGRME-YLVKWRGWSPKYNTWEPEENIL-DP
+RLLVA-FQNRERQ-------*
+>P1;gi|21903396|sp|Q13185|CBX3_HUMAN Chromobox protein homolog 3 (He... [ score 104 E 6e-22 ] [ range 20 .. 87 ]
+sequence
+---KKVEEAEPE-------------EFVVEKVLDRRVVNG--KVEYFLKWKGFTDADNTWEPEENL--DC
+PELIEAFLNSQKAGKEKD--*
+>P1;gi|266545|sp|P30658|CBX2_MOUSE Chromobox protein homolog 2 (Modi... [ score 102 E 2e-21 ] [ range 1 .. 66 ]
+sequence
+--MEELSSVGEQ-------------VFAAECILSKRLRKG--KLEYLVKWRGWSSKHNSWEPEENI--LD
+PRLLLAF---QKKEHEKE--*
+>P1;gi|38089724|ref|XP_287872.2| similar to chromobox homolog 3; het... [ score 102 E 2e-21 ] [ range 20 .. 87 ]
+sequence
+---KKVEEAEPE-------------EFVVEKVLNRRVVNG--KVEYFLKWKGFTDADNPWEPEENL--DC
+PELIEAFLNSQKAGKEKD--*
+>P1;gi|45382847|ref|NP_989974.1| chromobox protein (CHCB2) [Gallus g... [ score 102 E 2e-21 ] [ range 10 .. 78 ]
+sequence
+---KKVEEAEPE-------------EFVVEKVLDRRVVNG--KVEYYLKWKGFTDADNTWEPEENL--DC
+PELIEAFLNSQKAGKEKTD-*
+>P1;gi|38074891|ref|XP_356668.1| similar to chromobox homolog 3; het... [ score 100 E 6e-21 ] [ range 20 .. 87 ]
+sequence
+---KKVEEAEPE-------------EFVVEKVLDHRVVNG--KVEYFLKWKGFTDADNPWEPEENL--DC
+PELTEAFLNSQKAGKEKD--*
+>P1;gi|29468101|gb|AAO39117.1| heterochromatin protein 1 gamma [Xeno... [ score 100 E 1e-20 ] [ range 10 .. 79 ]
+sequence
+---KKVEEAEPE-------------EFVVEKVMDRRVVNG--KVEYYLKWKGFTDSDNTWEPEENL--DC
+PELIEAFLNSQKAGKEKPDS*
+>P1;gi|35902802|ref|NP_919354.1| chromobox homolog 2 (Drosophila Pc ... [ score 100 E 1e-20 ] [ range 1 .. 66 ]
+sequence
+--MEELSAVGEQ-------------VFDAECILNKRTRKG--KLEYLVKWRGWSSKHNSWEPQENL--LD
+PRLLVAFNKREQEKE-----*
+>P1;gi|37625078|gb|AAQ95736.1| neuronal pentraxin with chromo domain... [ score 96 E 2e-19 ] [ range 2 .. 62 ]
+sequence
+----ELSAVGER-------------VFAAESIIKRRIRKG--RIEYLVKWKGWAIKYSTWEPEENI--LD
+SRLIAAFEQKER--------*
+>P1;gi|3860185|gb|AAC72981.1| Polycomb homolog Pc1 [Xenopus laevis] [ score 94 E 5e-19 ] [ range 1 .. 66 ]
+sequence
+--MEELSAVGEQ-------------VFAAECILSKRLRKG--TAEYLVKWRGWSSKHNSWEPEENI--LD
+PRLLVAFQKREQEKE-----*
+>P1;gi|157026|gb|AAA28402.1| C1A9 antigen [ score 93 E 1e-18 ] [ range 18 .. 83 ]
+sequence
+-------EEEEE-------------EYAVEKIIDRRVRKG--KVEYYLKWKGYPETENTWEPENNL--DC
+QDLIQQYEASRKDEEKSAAS*
+>P1;gi|15929016|gb|AAH14967.1| CBX4 protein [Homo sapiens] >gi|37678... [ score 92 E 3e-18 ] [ range 2 .. 65 ]
+sequence
+----ELPAVGEH-------------VFAVESIEKKRIRKG--RVEYLVKWRGWSPKYNTWEPEENI--LD
+PRLLIAFQNRERQEQ-----*
+>P1;gi|21903397|sp|Q9HC52|CBX8_HUMAN Chromobox protein homolog 8 (Po... [ score 92 E 3e-18 ] [ range 2 .. 65 ]
+sequence
+----ELSAVGER-------------VFAAEALLKRRIRKG--RMEYLVKWKGWSQKYSTWEPEENI--LD
+ARLLAAFEEREREME-----*
+>P1;gi|2134187|pir||I51693 XPolycomb - African clawed frog >gi|10865... [ score 91 E 5e-18 ] [ range 2 .. 65 ]
+sequence
+----ELPAVGEH-------------VFAVESIEKKRIRKG--RVEYLVKWRGWSSKYNTWEPEENI--LD
+PRLLVAFQNRERQEQ-----*
+>P1;gi|123479|sp|P29227|HP1_DROVI Heterochromatin protein 1 (HP1) >g... [ score 91 E 8e-18 ] [ range 18 .. 77 ]
+sequence
+-------EEEEE-------------EYAVEKILDRRVRKG--KVEYYLKWKGYAETENTWEPEGNL--DC
+QDLIQQYELSRKDE------*
+>P1;gi|38075513|ref|XP_356703.1| similar to chromobox homolog 3; het... [ score 90 E 1e-17 ] [ range 20 .. 86 ]
+sequence
+---KKVEEAEPE-------------EFVVEKVLD-RLVNG--KVECFLKWKGFTDADNPWEPEENL--DC
+PELTEAFLNSQKAGKEKD--*
+>P1;gi|21355721|ref|NP_651093.1| CG6990-PA [Drosophila melanogaster]... [ score 89 E 2e-17 ] [ range 4 .. 67 ]
+sequence
+---------NEP-------------NFVVERIMDKRITEG--KVEYYIKWRGYTSADNTWEPEENC--DC
+PNLIQKFEESRAKSKKRGE-*
+>P1;gi|22135459|gb|AAM93210.1| chromdomain-containing protein CRD101... [ score 89 E 2e-17 ] [ range 57 .. 125 ]
+sequence
+----EPPKLAEG-------------YFEIEAIRRRRLRKG--QLQYLVKWRGWPESANTWEPLENL--KC
+SDIVDAFNKRSRSPRSCGK-*
+>P1;gi|32479358|gb|AAP83844.1| chromodomain Y-like protein [Macaca f... [ score 89 E 3e-17 ] [ range 4 .. 66 ]
+sequence
+----------EE-------------LYEVERIVDKRKKKG--KTEYLVRWKGYDSEDDTWEPEQHL--NC
+EEYIHDFNRRHTEKQKES--*
+>P1;gi|45387905|ref|NP_991312.1| polycomb 2 [Danio rerio] >gi|282076... [ score 87 E 7e-17 ] [ range 2 .. 65 ]
+sequence
+----ELPAVGEH-------------VFAVEGIEKKRLRKG--RMEYLVKWRGWSPKYNTWEPEENI--LD
+PRLLVAFQNRERQEQ-----*
+>P1;gi|40018618|ref|NP_954548.1| chromobox 7 [Rattus norvegicus] >gi... [ score 87 E 8e-17 ] [ range 2 .. 63 ]
+sequence
+----ELSAIGEQ-------------VFAVESIRKKRVRKG--KVEYLVKWKGWPPKYSTWEPEEHI--LD
+PRLVMAYEEKEEK-------*
+>P1;gi|42475459|dbj|BAD10924.1| truncated Pol [Tricholoma matsutake] [ score 87 E 8e-17 ] [ range 526 .. 580 ]
+sequence
+--------EGEP-------------QYEVESILDSHLRRG--KLQYLVHWKGYGYEENSWVEESDV--NA
+PWLIKEFHRR----------*
+>P1;gi|31197819|ref|XP_307857.1| ENSANGP00000018710 [Anopheles gambi... [ score 86 E 2e-16 ] [ range 18 .. 73 ]
+sequence
+--------DTEE-------------EYVVEKIVDRRERKG--KVEYLLKWKGYDSGSNSWEPRENL--DC
+PELIKAFEQSR---------*
+>P1;gi|24640713|ref|NP_572521.2| CG7041-PA [Drosophila melanogaster]... [ score 86 E 3e-16 ] [ range 3 .. 62 ]
+sequence
+-------------------------EFSVERVEDKRTVNG--RTEYYLKWKGYPRSENTWEPVENL--DC
+PDLIANFEESLKNNKKETK-*
+>P1;gi|37546616|ref|XP_016548.3| similar to Testis-specific chromodo... [ score 86 E 3e-16 ] [ range 3 .. 64 ]
+sequence
+----------SQ-------------EFEVEAIVDKRQDKG--NTQYLVRWKGYDKQDDTWEPEQHL--NC
+EKCVHDFNRRQTEKQKK---*
+>P1;gi|17985985|ref|NP_536794.1| rhino CG10683-PA [Drosophila melano... [ score 85 E 3e-16 ] [ range 12 .. 72 ]
+sequence
+-LVDAPPNDHVE-------------EYVVEKILGKRFVNG--RPQVLVKWSGFPNENNTWEPLENV--NC
+MKLVSDFE------------*
+>P1;gi|31216147|ref|XP_316176.1| ENSANGP00000005918 [Anopheles gambi... [ score 85 E 4e-16 ] [ range 1 .. 62 ]
+sequence
+----------DR-------------VYAAEKIMKKRIRAG--KAEYHVKWKGWSQRHNTWEPEENI--LD
+QRLIEIFEKSVRGSSTPKR-*
+>P1;gi|15625407|gb|AAL04059.1| like heterochromatin protein LHP1 [Ar... [ score 84 E 6e-16 ] [ range 98 .. 167 ]
+sequence
+---EERPKLDEG-------------FYEIEAIRRKRVRKG--KVQYLIKWRGWPETANTWEPLENL--QS
+ADVIDAFEGSLKPGKPGRK-*
+>P1;gi|16519033|gb|AAL25116.1| heterochromatin protein 1-like protei... [ score 84 E 6e-16 ] [ range 86 .. 148 ]
+sequence
+------PKLAEG-------------FYEIETVRRRRTVKG--KVYYLIKWRGWPESANTWEPETNL--SC
+TDIIDAYEESLKSGK-----*
+>P1;gi|5002510|dbj|BAA78625.1| Pol (reverse transcriptase-RNase H-in... [ score 84 E 6e-16 ] [ range 977 .. 1030 ]
+sequence
+--------EGEP-------------QYEVKSILDSRLHRG--KLQYLVHWKGYGYEENSWVEESDI--NA
+PRLIKEFHR-----------*
+>P1;gi|6912292|ref|NP_036249.1| chromobox homolog 5 (HP1 alpha homol... [ score 84 E 6e-16 ] [ range 15 .. 79 ]
+sequence
+--------EDEE-------------EYVVEKVLDRRVVKG--QVEYLLKWKGFSEEHNTWEPEKNL--DC
+PELISEFMKKYKKMKEGENN*
+>P1;gi|45383494|ref|NP_989663.1| chromobox homolog 1 (HP1 beta homol... [ score 84 E 9e-16 ] [ range 10 .. 80 ]
+sequence
+--VEEVLEEEEE-------------EYVVEKVLDRRVVKG--KVEYLLKWKGFSDEDNTWEPEENL--DC
+PDLIAEFLQSQKTAHESEKS*
+>P1;gi|34870132|ref|XP_344068.1| similar to Chromobox protein homolo... [ score 83 E 1e-15 ] [ range 146 .. 210 ] [ duplicate b ]
+sequence
+---KRVEDAEPE-------------EFVVEKVLNHCVVN------YFVKWKGFTDADNTLVPGENL--DC
+PELIEALLHSRKAVNYFVK-*
+>P1;gi|32479360|gb|AAP83845.1| chromodomain Y protein [Pan troglodytes] [ score 82 E 2e-15 ] [ range 1 .. 60 ]
+sequence
+-------------------------EFEVETIVDKRQKKG--NTQYLVRWKGYDKQDDTWEPEQHL--KC
+EKCVHDFNRRQAEKQKK---*
+>P1;gi|38110542|gb|EAA56245.1| hypothetical protein MG01897.4 [Magna... [ score 82 E 2e-15 ] [ range 765 .. 823 ]
+sequence
+------IDEEQD-------------IWEAEKLLAKRRRGR--EIQYLVKWKGFPDDDNTWEPTKNI--FD
+KHLIKSFNSSSR--------*
+>P1;gi|17568757|ref|NP_510199.1| heterochromatin Protein Like (20.8 ... [ score 82 E 3e-15 ] [ range 31 .. 85 ]
+sequence
+-------ESSSN-------------VFVVEKVLNKRLTRG--GSEYYIKWQGFPESECSWEPIENL--QC
+DRMIQEYEK-----------*
+>P1;gi|7488929|pir||T14294 polycomb-like protein - carrot >gi|310790... [ score 82 E 4e-15 ] [ range 38 .. 114 ]
+sequence
+-MENEVPELPEG-------------FFEIEHIRRKRVKKG--EVQYLVKWRGWPESANTWEPVEHL--EA
+PDVVDAFEQRQSGKHKSSK-*
+>P1;gi|2133292|pir||S60179 pol polyprotein homolog - fungus (Fusariu... [ score 81 E 6e-15 ] [ range 1232 .. 1295 ]
+sequence
+---------GPE-------------VYEAEAIRDTRKING--QREYLIKWKNYPENENTWEPPKHL--NA
+QRLLKDFHQRARKKERRPK-*
+>P1;gi|9409736|emb|CAB98198.1| SU(VAR)3-9; putative heterochromatin ... [ score 81 E 6e-15 ] [ range 135 .. 191 ]
+sequence
+---------KSQ-------------EFIIEKILDFKFQEG--KEYFHIKWKGWPDSENTWEPIENL--DC
+PEVLTEFLVNQE--------*
+>P1;gi|15886859|emb|CAC85627.1| Y chromosomal chromodomain protein [... [ score 81 E 7e-15 ] [ range 3 .. 64 ]
+sequence
+----------SQ-------------EFEVETIVDQRQDKG--NTVYLVRWKGYDKQDDTWEPEHHL--NC
+EKCIHDFNRRQTEKQKK---*
+>P1;gi|33086538|gb|AAP92581.1| Ab2-008 [Rattus norvegicus] [ score 81 E 9e-15 ] [ range 860 .. 924 ]
+sequence
+------EEDGED-------------VFEVERILDMKCEGG--KNLYKVRWKGYTSDDDTWEPEVHL--DC
+KEVLLEF--RKKVAENKAK-*
+>P1;gi|32479356|gb|AAP83843.1| chromodomain Y-like protein 2 [Mus mu... [ score 79 E 2e-14 ] [ range 5 .. 68 ]
+sequence
+-----------D-------------LYEVERIVDKRKKKG--KWEYLIRWKGYGSTEDTWEPEHHL--LC
+EEFIDEFNGIHLSKDKRVKS*
+>P1;gi|24645300|ref|NP_649878.1| CG8120-PA [Drosophila melanogaster]... [ score 79 E 2e-14 ] [ range 22 .. 78 ]
+sequence
+--------EETE-------------EYIVERILDRRHYMG--QLQYLVKWLDYSDEDNTWESAADL--DC
+HSLI-DSIESQKS-------*
+>P1;gi|32479352|gb|AAP83841.1| chromodomain Y-like protein 2 [Macaca... [ score 79 E 2e-14 ] [ range 5 .. 68 ]
+sequence
+-----------D-------------LYEVERIVDKRKKKG--KWEYLIRWKGYGSTEDTWEPEHHL--LC
+EEFIDEFNGLHVSKDKRIKS*
+>P1;gi|38102905|gb|EAA49684.1| hypothetical protein MG08599.4 [Magna... [ score 79 E 3e-14 ] [ range 678 .. 742 ]
+sequence
+----------SE-------------AYEVEKILDSSVDTK--QLMYLVKWKDYASSENTWEPKKNL--SA
+SEVIKKFNATKKSEEPVAK-*
+>P1;gi|15217223|gb|AAK92567.1| Putative polycomb protein [Oryza sativa] [ score 78 E 4e-14 ] [ range 99 .. 166 ]
+sequence
+-----PPKLAEG-------------YYEIEDIRRRRLRKG--KLQYLVKWRGWPESANTWEPLENL--SC
+SDIIDAFEMRLQSPRPGRK-*
+>P1;gi|34870094|ref|XP_221854.2| similar to chromobox homolog 3; het... [ score 78 E 5e-14 ] [ range 247 .. 310 ] [ duplicate a ]
+sequence
+---KRAEEAEPE-------------EFVVEKVLNHCVVN------YFVKWKGFTDADNTWVPGENL--DC
+PELIEALLHSQKAGENLD--*
+>P1;gi|34870094|ref|XP_221854.2| similar to chromobox homolog 3; het... [ score 78 E 5e-14 ] [ range 148 .. 211 ] [ duplicate b ]
+sequence
+---KRVEEAEHE-------------EFVVEKVPNHCVVN------YFVKWKGFTDADNTWVPGENL--DC
+PELIEALLHSRKAGKEND--*
+>P1;gi|34870094|ref|XP_221854.2| similar to chromobox homolog 3; het... [ score 78 E 5e-14 ] [ range 72 .. 131 ] [ duplicate c ]
+sequence
+---KRVEEAEPE-------------EFVVEKVLNHCVVN------YFVKWKGFTHAYNTWVPGENL--DC
+PELIEALLHSRKAE------*
+>P1;gi|38108609|gb|EAA54603.1| hypothetical protein MG05395.4 [Magna... [ score 77 E 1e-13 ] [ range 558 .. 617 ]
+sequence
+---ETIEIDAEQ-------------TYDVERILDHRRNHG--KTEYLVKWENYGHEENTWEPLNHL--DC
+QEPLRQYYQ-----------*
+>P1;gi|39583187|emb|CAE61405.1| Hypothetical protein CBG05267 [Caeno... [ score 74 E 6e-13 ] [ range 44 .. 98 ]
+sequence
+--------------------------YTVERILARRKIGK--RLEYMVKWKNFAEHQSTWEPADNL--NC
+PRLVAAFERNRESGY-----*
+>P1;gi|43381873|gb|EAD55824.1| unknown [environmental sequence] [ score 74 E 7e-13 ] [ range 2 .. 56 ]
+sequence
+--------------------------YEVGSILDRRQQPG--GVEYRIRWRGFGAEYDSWEPAANL--YC
+ADLVEQFERSRRSG------*
+>P1;gi|34851949|ref|XP_226511.2| similar to chromodomain Y-like prot... [ score 74 E 8e-13 ] [ range 4 .. 63 ]
+sequence
+----------------------------VERIVDKRKKKG--KWEYLIRWKGYGSTEDTWEPEHHL--LC
+EEFIDEFNGLHLPKDKKVKS*
+>P1;gi|39591827|emb|CAE71405.1| Hypothetical protein CBG18315 [Caeno... [ score 74 E 8e-13 ] [ range 9 .. 77 ]
+sequence
+----KMDDPKDN-------------VFMVEKVLDKRSGKG--REEFLIQWQGFPASDSSWEPRENL--QC
+IDLLEEFEKEFAKREKPSR-*
+>P1;gi|17552718|ref|NP_498862.1| C.Elegans Chromodomain protein (33.... [ score 74 E 8e-13 ] [ range 1 .. 58 ]
+sequence
+------MADGSE-------------LYTVESILEHRKKKG--KSEFYIKWLGYDHTHNSWEPKENI--VD
+PTLIEAFFTRE---------*
+>P1;gi|21655247|gb|AAM28241.1| chromatin modulator polycomb protein ... [ score 74 E 1e-12 ] [ range 1 .. 58 ]
+sequence
+--MEEAPAGPGE-------------VFAAEKILKKRYKKG--RAEYLVKWQGYSSKFNTWEPVENI--LD
+ERLLQSF-------------*
+>P1;gi|6650019|gb|AAF21678.1| pol polyprotein [Cladosporium fulvum] [ score 74 E 1e-12 ] [ range 1159 .. 1220 ]
+sequence
+------EPEAEN-------------EFEVEKILDK---KG--Q-RYLVKWKGYDESENTWEPRINL--NC
+YQLLRQFQKWRQDSRKQE--*
+>P1;gi|13097657|gb|AAH03542.1| Unknown (protein for IMAGE:3611719) [... [ score 73 E 2e-12 ] [ range 55 .. 119 ]
+sequence
+------EEDGED-------------VFEVEKILDMKTEGG--KVLYKVRWKGYTSDDDTWEPEIHL--DC
+KEVLLEF--RKKIAENKAK-*
+>P1;gi|9409731|emb|CAB98196.1| heterochromatin protein [Clytus arietis] [ score 73 E 2e-12 ] [ range 140 .. 207 ]
+sequence
+-------ETYSK-------------EFVVEKILAQEFNQA--QLMFLVKWKGYAVQQSTWEPLEHL--HC
+TQLLTQFLAETLGTQVFDK-*
+>P1;gi|41054315|ref|NP_956040.1| chromobox homolog 1 (Drosophila HP1... [ score 73 E 2e-12 ] [ range 37 .. 107 ]
+sequence
+--VEDVVEEEEE-------------EYVVEKVLDRRVVKG--RVEYLLKWKGFSEEDNTWEPEDNL--DC
+PDLIAEYMTKHKINDDKKES*
+>P1;gi|6434313|emb|CAB54267.2| C. elegans HPL-2 protein (correspondi... [ score 72 E 2e-12 ] [ range 10 .. 76 ]
+sequence
+----KIEDPKDN-------------VFMVEKVLDKRTGKG--RDEFLIQWQGFPESDSSWEPRENL--QC
+VEMLDEFEREFSKREKP---*
+>P1;gi|13357212|ref|NP_076262.1| RIKEN cDNA 4930548G07 [Mus musculus... [ score 72 E 3e-12 ] [ range 37 .. 101 ]
+sequence
+------EEDGED-------------VFEVERILDMKCEGG--KNLYKVRWKGYTSEDDTWEPEVHL--DC
+KEVLLEF--RKKLAENKAK-*
+>P1;gi|18859937|ref|NP_573229.1| CG8289-PA [Drosophila melanogaster]... [ score 72 E 3e-12 ] [ range 228 .. 290 ]
+sequence
+--------DPEK-------------QWEVEKILDHVATKE--GDMFKIRWKKYGPKDDSWEPSKNL--AC
+DALIEKFMRKQATQENVD--*
+>P1;gi|4530297|gb|AAD21972.1| heterochromatin-specific nonhistone pr... [ score 71 E 5e-12 ] [ range 1 .. 48 ]
+sequence
+--------------------------------------KD--KVEYLLKWKGFSDEDNTWEPEENL--DC
+LDLIAEFLQSQKTAHETDKS*
+>P1;gi|43722544|gb|EAF16258.1| unknown [environmental sequence] [ score 71 E 7e-12 ] [ range 1 .. 65 ]
+sequence
+------MDEEVE-------------KYVVDKVVNKRTRNG--RVEYLIKWKGYDDKDNTWEPRENL--DC
+EDLIEEFEKIQKSEE-----*
+>P1;gi|27707306|ref|XP_217581.1| similar to Histone-lysine N-methylt... [ score 70 E 2e-11 ] [ range 35 .. 94 ]
+sequence
+-----VSKKNVY-------------DFEVEFLCDYKKIRE--QEYYLVKWRGYPDSENTWEPRHNL--KC
+VRILKKFHKDLE--------*
+>P1;gi|38109264|gb|EAA55160.1| hypothetical protein MG06817.4 [Magna... [ score 70 E 2e-11 ] [ range 393 .. 450 ]
+sequence
+---------NKD-------------IWEVEKLLAKWGPKR--KSKYLVKWKGFPDEDNTWEPQVYI--S-
+EDLIKNFESTFEGNH-----*
+>P1;gi|24654498|ref|NP_611240.1| CG18186-PA [Drosophila melanogaster... [ score 69 E 3e-11 ] [ range 15 .. 82 ]
+sequence
+------VKEKSS-------------EYIVEKFLGKRYLRG--RPQYLTKWEGYPIEQCTWEPLENL--KC
+MTLIADYEAELFQQSREKKN*
+>P1;gi|19172978|ref|NP_597529.1| CHROMOBOX PROTEIN [Encephalitozoon ... [ score 68 E 4e-11 ] [ range 3 .. 55 ]
+sequence
+---------GAD-------------IYTVDRIVGDRKKKG--VKQYLVKWEGYPDSENTWEDEKNI--FS
+KELIKEYEE-----------*
+>P1;gi|34810341|pdb|1PDQ|A Chain A, Polycomb Chromodomain Complexed ... [ score 68 E 5e-11 ] [ range 7 .. 72 ]
+sequence
+HHHDNATDDPVD-------------VYAAEKIIQKRVKKG--VVEYRVKWKGWNQRYNTWEPEVNI--LD
+RRLIDIYEQTNK--------*
+>P1;gi|8648963|emb|CAB94835.1| heterochromatin protein [Leptinotarsa... [ score 67 E 7e-11 ] [ range 139 .. 209 ]
+sequence
+---NKANATYKK-------------EFVVEKILAQEVSTK--QFMFLVKWKGYSMVHNTWEPLEHL--HC
+SLLLTQFLAESLGSQVLD--*
+>P1;gi|39591680|emb|CAE71258.1| Hypothetical protein CBG18138 [Caeno... [ score 67 E 9e-11 ] [ range 4 .. 58 ]
+sequence
+-----------E-------------LYTVEAILEHRKRKG--KNEFYIKWSGYDHSHNSWEPEKNI--VD
+PTLIELFFEKEET-------*
+>P1;gi|20977600|gb|AAM28227.1| DNA methyltransferase 105 [Zea mays] [ score 67 E 1e-10 ] [ range 441 .. 498 ]
+sequence
+---------DKD-------------EFVVQKLIGIRYRKK--GVYFKVQWEGYGPEEDTWEPIDNL--DC
+PLKIREFVQ-----------*
+>P1;gi|19114578|ref|NP_593666.1| chromo domain protein; required for... [ score 67 E 1e-10 ] [ range 16 .. 60 ]
+sequence
+-------ETDAD-------------VYEVEDILADRVNKN--GIEYYIKWAGYDWYDNTWEPEQNL----
+--------------------*
+>P1;gi|37681749|gb|AAQ97752.1| chromobox homolog 8 [Danio rerio] [ score 67 E 1e-10 ] [ range 2 .. 57 ]
+sequence
+----ELSAVGER-------------VFAAESIIKRRIRRG--RMEYLVKWKGWSQKYSTWEPEENI--LD
+ERLFAAF-------------*
+>P1;gi|23508895|ref|NP_701563.1| chromodomain protein [Plasmodium fa... [ score 66 E 2e-10 ] [ range 5 .. 61 ]
+sequence
+----------DE-------------EFEIGDILEIKKKKN--GFIYLVKWKGYSDDENTWEPESNL--IH
+LTTFKKKMESLKTN------*
+>P1;gi|23480227|gb|EAA16848.1| chromodomain protein [Plasmodium yoel... [ score 66 E 3e-10 ] [ range 5 .. 60 ]
+sequence
+----------DE-------------EFEIGDILDVKRKKN--GFIYLVKWKGYSDDENTWEPESNL--LH
+LTDFKKKMEYLKS-------*
+>P1;gi|10946132|gb|AAG24792.1| pol protein [Glomerella cingulata] [ score 65 E 5e-10 ] [ range 1122 .. 1168 ]
+sequence
+-----IVEDNER-------------EYEVERIIDHSDAFG--ELHFLVKWLGYGHEDNTWEPQSNL----
+--------------------*
+>P1;gi|13021690|gb|AAK11516.1| DNA cytosine methyltransferase MET2a ... [ score 64 E 6e-10 ] [ range 437 .. 494 ]
+sequence
+---------DKD-------------EFVVEKLVGICYREN--GIYFKVQWEGYGPEEDTWEPIDNL--DC
+PQKIREFVQ-----------*
+>P1;gi|39583195|emb|CAE61413.1| Hypothetical protein CBG05277 [Caeno... [ score 64 E 7e-10 ] [ range 884 .. 924 ]
+sequence
+-----------D-------------EHKIESILKRRTRKG--QKELFVKWYGYPDKFNSWIPDTNL--N-
+--------------------*
+>P1;gi|43257414|gb|EAC94370.1| unknown [environmental sequence] [ score 64 E 8e-10 ] [ range 52 .. 108 ]
+sequence
+-------KEDPE-------------VFEVDFLMAHRTAKG--TTEYKVRWKGFKAKHDTWEPAENI--ID
+TVLVADYERR----------*
+>P1;gi|6425168|gb|AAC33526.2| pol polyprotein [Takifugu rubripes] [ score 64 E 9e-10 ] [ range 1116 .. 1172 ]
+sequence
+----QVLSDGEP-------------VWSVNKLLAVRRRGR--GFQYLVDWVGYGPEDQSWVPPSYL--AD
+PSLLEDFL------------*
+>P1;gi|27529842|dbj|BAC53936.1| chromomethylase-like protein [Nicoti... [ score 63 E 2e-09 ] [ range 286 .. 348 ]
+sequence
+-------DEQGE-------------IFEVEQLLEKEKNKP--GLYFKVRWKGYGQEEDTWEPIEGL--DC
+QEKIKDFVAK----------*
+>P1;gi|32417860|ref|XP_329408.1| predicted protein [Neurospora crass... [ score 63 E 2e-09 ] [ range 202 .. 259 ]
+sequence
+---------PKG-------------EYEVEAIVDSIINAE--TMEYFVKWKGYPSSENTWEPKQNL--QA
+TELLRKFNADQ---------*
+>P1;gi|37530390|ref|NP_919497.1| putative DNA cytosine methyltransfe... [ score 63 E 2e-09 ] [ range 411 .. 468 ]
+sequence
+---------EKD-------------EFVVEKLAGICYRED--GLYFKVQWKGYGREEDTWEPIENL--DC
+PLKIKEFVQ-----------*
+>P1;gi|32414963|ref|XP_327961.1| predicted protein [Neurospora crass... [ score 58 E 4e-08 ] [ range 35 .. 103 ]
+sequence
+-----VQHDPDE-------------EFEVEDILLEELDDG--KQVYLVKWERYPLEQCTWEPEDNL--GD
+-ELIEEKQLRQEAGEEEP--*
+>P1;gi|40743703|gb|EAA62891.1| hypothetical protein AN2616.2 [Asperg... [ score 58 E 4e-08 ] [ range 797 .. 858 ]
+sequence
+--------DDDD-------------RYEVERIVDRRKRKP--VIKYLVRWKGYGSEDDWWLTKEQL--EA
+EELVHDYNKN----------*
+>P1;gi|39579405|emb|CAE56395.1| Hypothetical protein CBG24082 [Caeno... [ score 58 E 5e-08 ] [ range 235 .. 273 ]
+sequence
+----------EN-------------KYHIEKILKRRTRNG--KREVLVKWYGYPEKFNSWIPES------
+--------------------*
+>P1;gi|3719261|gb|AAC78328.1| heterochromatin-associated protein 1-l... [ score 58 E 5e-08 ] [ range 3 .. 64 ]
+sequence
+-----------K-------------VYEVENIIGHRKKGS--QIEYHIQWKGYSLKQATYEPAKNI--LD
+KNMLKKYQQKHLLSNDKPQT*
+>P1;gi|34902318|ref|NP_912505.1| Putative DNA cytosine methyltransfe... [ score 57 E 7e-08 ] [ range 554 .. 614 ]
+sequence
+---------PED-------------IFDVEELLEICYGKN--GLWFKVRWKGYDPSYDTWEPIDGL--DC
+PERIKEFVEK----------*
+>P1;gi|42566945|ref|NP_193637.2| chromomethylase 2 (CMT2) [Arabidops... [ score 57 E 1e-07 ] [ range 831 .. 893 ]
+sequence
+-------DSDSE-------------EYEVEKLVDDKTGKN--GLKFKVHWKGYRSDEDTWELAEEL--NC
+QDAIREFVTS----------*
+>P1;gi|11359019|pir||T43745 clr4 protein - fission yeast (Schizosacc... [ score 57 E 1e-07 ] [ range 1 .. 62 ]
+sequence
+------MSPKQE-------------EYEVERIVDEKLRNG--AVKYRIRWLNYSSRSDTWEPPENL--SC
+SAVLAEWKRRKR--------*
+>P1;gi|39586316|emb|CAE66727.1| Hypothetical protein CBG12076 [Caeno... [ score 57 E 1e-07 ] [ range 20 .. 79 ]
+sequence
+----KTEAAGNI-------------QYEVEKVIGTSNKGN--TIYFEVKWKGFPSEENTQEPEFRL--TC
+DDKILSYLVRR---------*
+>P1;gi|43179903|gb|EAC55534.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 14 .. 52 ]
+sequence
+----------EE-------------EFSVEKVMDKRVKNG--KIEYLLKWRGYGDEDNTWSPR-------
+--------------------*
+>P1;gi|39579557|emb|CAE56414.1| Hypothetical protein CBG24106 [Caeno... [ score 54 E 6e-07 ] [ range 325 .. 366 ]
+sequence
+----------KD-------------EHKIENIIKRRTRKG--VKELFVKWYGYPDKFNSWIPDTNL--N-
+--------------------*
+>P1;gi|42550811|gb|EAA73654.1| hypothetical protein FG04328.1 [Gibbe... [ score 54 E 7e-07 ] [ range 84 .. 141 ]
+sequence
+-----TEHDSEE-------------PFNVSAVLAAWEVEG--SLRYLIEWEGYDLSEATWEPRENL--ND
+I-IIEEWEETK---------*
+>P1;gi|17536159|ref|NP_495652.1| clr4p like (37.7 kD) (2I148) [Caeno... [ score 54 E 1e-06 ] [ range 14 .. 83 ]
+sequence
+---EAREGKSDE-------------IFEVEKILAHKVTDN--LLVLQVRWLGYGADEDTWEPEEDL--QA
+SEVVAEYYKKLKVTDKTE--*
+>P1;gi|40747565|gb|EAA66721.1| hypothetical protein AN9541.2 [Asperg... [ score 54 E 1e-06 ] [ range 336 .. 397 ]
+sequence
+---------NEE-------------EYYVDSVLDKRWKKG--RWEYLVKWTGWAKP--TWEPAHEL--EE
+TEAAQAYELQQEQQKE----*
+>P1;gi|19113600|ref|NP_596808.1| pleiotrophic transcriptional silenc... [ score 54 E 1e-06 ] [ range 173 .. 230 ]
+sequence
+----------DE-------------EFAVEMILDSRMKKD--GFQYYLKWEGYDDSDNTWNDEEDC--AC
+LELIDAYWESR---------*
+>P1;gi|15222449|ref|NP_177135.1| chromomethylase 3 (CMT3) [Arabidops... [ score 53 E 1e-06 ] [ range 376 .. 435 ]
+sequence
+-------EDDGE-------------VFTVDKIVGKKLLKR--GLYLKVRWLNYDDSHDTWEPIEGL--NC
+RGKIEEF-------------*
+>P1;gi|1297185|gb|AAA98912.1| theoretical protein with similarity to... [ score 53 E 2e-06 ] [ range 251 .. 310 ]
+sequence
+-------ELEPG-------------EFEVEKFLGQGTGEK--TLQLMVRWKGYNSSYDTWEPYSGL--NC
+KEKLKEY-------------*
+>P1;gi|2367675|gb|AAC48336.1| Pol [Dictyostelium discoideum] [ score 52 E 2e-06 ] [ range 967 .. 1028 ]
+sequence
+--MPEPEEMDEA-------------SYEVESILNHDKVKK----MYLVKFKGYPEPE--WIREVDT--DC
+EELVREYNNVQKKQ------*
+>P1;gi|9367746|emb|CAB97489.1| putative heterochromatin protein [Dro... [ score 52 E 2e-06 ] [ range 211 .. 268 ]
+sequence
+-----VKKPPKG-------------EYVVERIECVEVDQY--QPVFFVKWLGYKDSANTWESLANV--DC
+AQM-EEFVER----------*
+>P1;gi|39578934|emb|CAE56208.1| Hypothetical protein CBG23832 [Caeno... [ score 52 E 2e-06 ] [ range 373 .. 407 ]
+sequence
+----------KE-------------EYKIEKILKRRTRKG--VKEIFVKWYGYPEKFNSW----------
+--------------------*
+>P1;gi|31240209|ref|XP_320518.1| ENSANGP00000015659 [Anopheles gambi... [ score 52 E 3e-06 ] [ range 251 .. 310 ]
+sequence
+-------------------------EEEVEKILAKRFSPK--MHEYLVKWARMTNDQNTWEPLTHL--SC
+QSILEHFEVQLAKQKE----*
+>P1;gi|39580273|emb|CAE69665.1| Hypothetical protein CBG15913 [Caeno... [ score 51 E 5e-06 ] [ range 249 .. 283 ]
+sequence
+----------KE-------------EYKIEKILKRRTRKG--VKEMFVKWYGYPEKFNSW----------
+--------------------*
+>P1;gi|17509835|ref|NP_493293.1| HASI family member (1N686) [Caenorh... [ score 51 E 5e-06 ] [ range 350 .. 386 ]
+sequence
+----------KE-------------EYKIEEVLKRRTRKG--IKEIFVKWYGYPDKFNSWIP--------
+--------------------*
+>P1;gi|40747845|gb|EAA67001.1| hypothetical protein AN8576.2 [Asperg... [ score 51 E 6e-06 ] [ range 1374 .. 1431 ]
+sequence
+---------GEK-------------EYMVEKILDRRYGRG--RLEYLVKWSGYARP--TWEAATAL--EE
+AQALDEWLDRTK--------*
+>P1;gi|39585928|emb|CAE68217.1| Hypothetical protein CBG13888 [Caeno... [ score 51 E 7e-06 ] [ range 3 .. 64 ]
+sequence
+---------KEP-------------QYLVQAVLEHRRNKK--KNEYLIKWLGYDHTHNSWEPEDNI--ND
+DVAIADYFADKKREKE----*
+>P1;gi|32408877|ref|XP_324918.1| predicted protein [Neurospora crass... [ score 51 E 7e-06 ] [ range 414 .. 480 ]
+sequence
+------IEEPTD-------------SWVVKELLDQWVTEH--GVKYLVLWEGWPPDQNTWEPEDNI--DD
+QGLIKTYLKKKESG------*
+>P1;gi|42553942|gb|EAA76785.1| hypothetical protein FG07102.1 [Gibbe... [ score 51 E 7e-06 ] [ range 356 .. 417 ]
+sequence
+---ERDEEAYED-------------YTKVERVVAVRDGDD--GTEYLVKWKGLTYEECTWEIASDI--SD
+QDQIDQYLDR----------*
+>P1;gi|38503415|sp|P45975|SUV9_DROME Histone-lysine N-methyltransfer... [ score 51 E 7e-06 ] [ range 215 .. 275 ]
+sequence
+---------PKG-------------EYVVERIECVEMDQY--QPVFFVKWLGYHDSENTWESLANV--DC
+AEM-EKFVERHQQLYET---*
+>P1;gi|1519343|gb|AAB61683.1| Pdd1p [Tetrahymena thermophila] >gi|15... [ score 51 E 8e-06 ] [ range 40 .. 105 ]
+sequence
+----DTEEEEED-------------QYEVEKILDSRFKTK--QKEYLVKWENWPIEDSTWEPYEHL--NV
+KEIVQAFEKKQKAN------*
+>P1;gi|38104231|gb|EAA50830.1| hypothetical protein MG04589.4 [Magna... [ score 50 E 1e-05 ] [ range 428 .. 501 ]
+sequence
+-LDREREQDAYD-------------DYTVERIVAVRDGDG--QKEYLVKWKGLQYDECTWEPSDLI--SS
+EDKIDQFTTRSRRSWQSDR-*
+>P1;gi|39596076|emb|CAE69712.1| Hypothetical protein CBG15981 [Caeno... [ score 50 E 1e-05 ] [ range 22 .. 74 ]
+sequence
+----------KQ-------------NYEIDTIIKSRSIGN--KKEYLIKWKGYDHVWNSWLAESEL--NS
+PRILTEFL------------*
+>P1;gi|20502992|gb|AAM22701.1| Putative CAO protein [Oryza sativa (j... [ score 50 E 2e-05 ] [ range 319 .. 371 ]
+sequence
+-------------------------EYAVEAVVNKREGEG--KWEYLVKW--VDIEEATWEPAENV--DA
+-ELLQEFEQRQ---------*
+>P1;gi|40746598|gb|EAA65754.1| hypothetical protein AN0348.2 [Asperg... [ score 49 E 2e-05 ] [ range 17 .. 85 ]
+sequence
+-----VESEQAS-------------EYFVDTILAYEFAED--DIRYLVKWDGYDIHRCTWEPKGNF--NH
+ETLLEWEEKKQRIAEGKE--*
+>P1;gi|43618568|gb|EAE63939.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 2 .. 91 ]
+sequence
+-MSKKSTNLLKE-------------EFEVEAILDYEQRHG--K--YLVKWKNWDESNNTWEPTQNL--MC
+GEKLKEFYTKRVAERE----*
+>P1;gi|17540120|ref|NP_501231.1| chromo domain containing protein (3... [ score 49 E 3e-05 ] [ range 76 .. 140 ]
+sequence
+--VTKQSDDSSG-------------EYAVERVLAHRKVKG--SPLYLVQWKGYPHNSEMWEEDLD---NC
+KDLLAAYKKHQE--------*
+>P1;gi|38101495|gb|EAA48450.1| hypothetical protein MG00108.4 [Magna... [ score 49 E 3e-05 ] [ range 228 .. 292 ]
+sequence
+---------GEP-------------EFVVDKVLASRLRSK--TLQYQVAWQGCDP-DDTWYPAENF--NS
+ATALDDFHKKYKDAAGPPK-*
+>P1;gi|23478236|gb|EAA15377.1| ERYTHROCYTE MEMBRANE PROTEIN PFEMP3 [... [ score 49 E 3e-05 ] [ range 51 .. 107 ]
+sequence
+------EPDHTE-------------VFEVEKIIMARYNLD--NFEFLIKWKNYDSDDNTWEPFENL----
+--------------------*
+>P1;gi|2766715|gb|AAB95486.1| chromomethylase [Arabidopsis arenosa] ... [ score 49 E 4e-05 ] [ range 316 .. 376 ]
+sequence
+------MELSAG-------------EFEVEKFVGKGTGEK--TLHLKVRWKGYSPKYDTWEPYSGL--NC
+KEKLKEY-------------*
+>P1;gi|38108108|gb|EAA54189.1| hypothetical protein MG02174.4 [Magna... [ score 48 E 4e-05 ] [ range 1288 .. 1325 ]
+sequence
+--IDASEDTNEE-------------EWEVERVISSRVLRG--VLQYQVQWRGWDP---------------
+--------------------*
+>P1;gi|17986031|ref|NP_523441.1| kismet CG3696-PA [Drosophila melano... [ score 48 E 6e-05 ] [ range 1925 .. 2002 ]
+sequence
+NIFENIEDEPQD-------------FTEVDRVLDMSVHTD--ETHYLVKWKSLPYEDCTWELEEDV--D-
+NDKIEQYLRFNKIPQRSE--*
+>P1;gi|12620394|gb|AAG60684.1| gag-protease [Takifugu rubripes] [ score 48 E 7e-05 ] [ range 642 .. 690 ]
+sequence
+--------------------------YRVRRILDVRRRGR--EFQFLIEWEGYGPMRRSWAPRLFI--LD
+SDLSRDFYR-----------*
+>P1;gi|32411587|ref|XP_326274.1| hypothetical protein [Neurospora cr... [ score 47 E 7e-05 ] [ range 511 .. 569 ]
+sequence
+-------ADKDE-------------QYEIDKILGRRTKHG--RLEYLIKWKGYRNQWNSYVLRPSL--NA
+SDLVYDY-------------*
+>P1;gi|13786691|pdb|1G6Z|A Chain A, Solution Structure Of The Clr4 C... [ score 47 E 8e-05 ] [ range 1 .. 63 ]
+sequence
+-----ISSPKQE-------------EYEVERIVDEKLDRN--GKLYRIRWLNYSSRSDTWEPPENL--SC
+SAVLAEWKRRKR--------*
+>P1;gi|40747675|gb|EAA66831.1| hypothetical protein AN9429.2 [Asperg... [ score 47 E 9e-05 ] [ range 226 .. 264 ]
+sequence
+---------GEK-------------EYIVEKILDKRYRRG--HLEYLVKWSGYARP--TWE---------
+--------------------*
+>P1;gi|43337003|gb|EAD33984.1| unknown [environmental sequence] [ score 47 E 9e-05 ] [ range 31 .. 74 ]
+sequence
+---------EPS-------------EYKIEKILRRKRIRG--RKMALVKWVGYSDKFNQWIPEDEI--TD
+--------------------*
+>P1;gi|32416988|ref|XP_328972.1| hypothetical protein [Neurospora cr... [ score 47 E 1e-04 ] [ range 340 .. 396 ]
+sequence
+---DKTTEDGEE-------------LWELNEVVASRFMYG--KLYYQVSWKGWS-KDEYWYPASDL--KC
+PYLLVEF-------------*
+>P1;gi|7493955|pir||T18350 probable pol polyprotein - rice blast fun... [ score 47 E 1e-04 ] [ range 1268 .. 1331 ]
+sequence
+--------EPEE-------------VWAVEAILAAKGRGG--GRQVLVKWQGYDNP--TWEPLELM--TD
+TRALDEFEARWGGVHTND--*
+>P1;gi|17543776|ref|NP_502797.1| HASI (4P602) [Caenorhabditis elegan... [ score 47 E 1e-04 ] [ range 306 .. 341 ]
+sequence
+---------PDA-------------QYRIEKILATRTVRG--KKQHLVRWDGYGAEFDSW----------
+--------------------*
+>P1;gi|33943723|gb|AAQ55543.1| Chriz [Drosophila mauritiana] [ score 46 E 2e-04 ] [ range 222 .. 282 ]
+sequence
+----------------------------VEKIVAKRFRRK--THEYLVKWVDRSHHENTWEVMANL--RV
+PYFLQMFEKRQKLTREK---*
+>P1;gi|43231844|gb|EAC81506.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 55 .. 107 ]
+sequence
+--EEDEESDDEE-------------EPVPEKLVDACIKKN--GILFRVKWAGYPDSANTWEPAENL----
+--------------------*
+>P1;gi|38089687|ref|XP_284439.2| RIKEN cDNA 1810014J18 [Mus musculus] [ score 46 E 2e-04 ] [ range 757 .. 829 ]
+sequence
+HFLADMEEEPPD-------------YVEVDRILDKDTGES--VIYYLVKWCSLPYEDSTWELKEDV--DL
+AK-IEEFEQLQAS-------*
+>P1;gi|41054315|ref|NP_956040.1| chromobox homolog 1 (Drosophila HP1... [ score 137 E 7e-32 ] [ range 129 .. 196 ]
+sequence
+--------KDEQDKPRGFAR-----GLDPERIIGATDSSG--ELMFLMKWKNSD--EADLVPAKEANVKC
+PQVVISFYEERLTWH-----*
+>P1;gi|4530297|gb|AAD21972.1| heterochromatin-specific nonhistone pr... [ score 131 E 5e-30 ] [ range 72 .. 139 ]
+sequence
+--------KEESEKPRGFAR-----GLEPERIIGATDSSG--EVMFLMKWKNSN--EADLVPAKEASVKC
+PQVVISFYEERLTWH-----*
+>P1;gi|29468101|gb|AAO39117.1| heterochromatin protein 1 gamma [Xeno... [ score 130 E 5e-30 ] [ range 99 .. 166 ]
+sequence
+--------RESVDKPRGFAR-----ALDPERIIGATDSSG--ELMFLMKWKDSD--EADLVPAKEANVKC
+PQVVIAFYEERLTWH-----*
+>P1;gi|7416937|gb|AAF62370.1| heterochromatin-like protein 1 [Homo s... [ score 130 E 8e-30 ] [ range 108 .. 175 ]
+sequence
+--------RDAVDKPRGFAR-----GLDPERIIGATDSSG--ELMFLMKWKDSD--EADLVLAKEANMKC
+PQIVIAFYEERLTWH-----*
+>P1;gi|4585819|emb|CAB40898.1| chromobox protein [Oryzias latipes] [ score 128 E 2e-29 ] [ range 26 .. 93 ]
+sequence
+--------KDMAEKPRGFAR-----NLEPERIIGATDSSG--ELMFLMKWKDSD--EADLVPAREANTRC
+PQVVISFYEERLTWH-----*
+>P1;gi|29468455|gb|AAO39118.1| heterochromatin protein 1 alpha [Xeno... [ score 127 E 6e-29 ] [ range 116 .. 183 ]
+sequence
+--------RESNDIARGFER-----GLEPEKIIGATDSCG--ELMFLMKWKDSD--EADLVLAKEANLKC
+PQIVIAFYEERLTWH-----*
+>P1;gi|45383494|ref|NP_989663.1| chromobox homolog 1 (HP1 beta homol... [ score 125 E 2e-28 ] [ range 104 .. 171 ]
+sequence
+--------KEESEKPRGFAR-----GFEPERIIGATDSSG--ELMFLMKWKNSD--EADLVPAKEANIKC
+PQVVISFYEERLTWH-----*
+>P1;gi|12584628|emb|CAC27399.1| chromobox protein [Platichthys flesus] [ score 125 E 2e-28 ] [ range 39 .. 106 ]
+sequence
+--------KDVAEKPRGFAR-----SLDPERIIGATDSSG--ELMFLMKWKDSD--EADLVPAREANTRS
+PQVVISFYEERLTWH-----*
+>P1;gi|16768330|gb|AAL28384.1| GM01918p [Drosophila melanogaster] [ score 122 E 1e-27 ] [ range 87 .. 153 ]
+sequence
+---------EEQKKLIGFER-----GLEASKILGATDSSG--HLMFLMKWKGSD--HADLVPAKLANTRC
+PQVVIQFYEERLTWH-----*
+>P1;gi|12858011|dbj|BAB31173.1| unnamed protein product [Mus musculus] [ score 119 E 2e-26 ] [ range 109 .. 175 ]
+sequence
+---------QSNDIARGFER-----GLEPEKIIGATDSCG--DLMFLMKWKDTD--EADLVLAKEANVKC
+PQIVIAFYEERLTWH-----*
+>P1;gi|38074891|ref|XP_356668.1| similar to chromobox homolog 3; het... [ score 118 E 4e-26 ] [ range 108 .. 175 ]
+sequence
+--------RDAADKPRGFAR-----GLDPEGIIGATDSSG--ELVFLMKWKDSD--GAGLVLPKEANMKR
+PQVVIDFYEERLTWH-----*
+>P1;gi|31228747|ref|XP_318105.1| ENSANGP00000017634 [Anopheles gambi... [ score 117 E 5e-26 ] [ range 77 .. 143 ]
+sequence
+--------KATSDKKVGFDR-----GLIPEEIIGATDEHG--KLMFLMKWKNAA--NADLVPAEQANVKC
+PQIVIKFYESRLTW------*
+>P1;gi|38089724|ref|XP_287872.2| similar to chromobox homolog 3; het... [ score 116 E 1e-25 ] [ range 108 .. 175 ]
+sequence
+--------RDAADKPRGFAR-----ALDPEGIIGATDSSA--ELVFLMKWKDSD--GAGLVLPKEANMKC
+PQMVIAFYEERLTWH-----*
+>P1;gi|38075513|ref|XP_356703.1| similar to chromobox homolog 3; het... [ score 115 E 3e-25 ] [ range 107 .. 174 ]
+sequence
+--------RDAADKPRGFAR-----GLDPERMIGATDSSG--ELVFLMKWKDSD--GAGLVLPKEANMKR
+PQVVIDFYKERLTWH-----*
+>P1;gi|123479|sp|P29227|HP1_DROVI Heterochromatin protein 1 (HP1) >g... [ score 109 E 2e-23 ] [ range 149 .. 208 ]
+sequence
+----------------GFDR-----GLEAEKILGASDNNG--RLTFLIQFKGVD--QAEMVPSTVANVKI
+PQMVIRFYEERLSWY-----*
+>P1;gi|24581686|ref|NP_608842.1| CG15636-PA [Drosophila melanogaster... [ score 108 E 4e-23 ] [ range 14 .. 77 ]
+sequence
+-----------VKQRNGFDL-----GLEPLRILGACNWSG--KLTFLMQWKGCD--EAGLVPAEVLNVRC
+PQMVISFYEERIVF------*
+>P1;gi|31197819|ref|XP_307857.1| ENSANGP00000018710 [Anopheles gambi... [ score 105 E 2e-22 ] [ range 138 .. 203 ]
+sequence
+---------EAVEELNGFEK-----GYVPEKILGATEGDN--ELLFLIQWKDKD--KAQLVKSKEARKHC
+PQLVIDFYEERLIW------*
+>P1;gi|38074928|ref|XP_357207.1| similar to modifier 1 [Mus musculus] [ score 101 E 4e-21 ] [ range 22 .. 88 ]
+sequence
+---------KEKSKAARFCQ-----GLKPRTVIRATDLTA--ELMLFKNYKSSK--RLPWTFFEEANAKC
+PQAVKFFHEERLAWH-----*
+>P1;gi|21355721|ref|NP_651093.1| CG6990-PA [Drosophila melanogaster]... [ score 97 E 7e-20 ] [ range 73 .. 134 ]
+sequence
+---------EEIQKLRGYER-----GLELAEIVGATDVTG--DIKYLVRWQFCD--EFDLVPSAQIVEKD
+PQMLIDYFQK----------*
+>P1;gi|24645300|ref|NP_649878.1| CG8120-PA [Drosophila melanogaster]... [ score 89 E 2e-17 ] [ range 108 .. 166 ]
+sequence
+-----------------FNH-----GFTAQEILKGAKNNG--EISFLIRFWHLD--QPQVVPSGIAYVEI
+PQMVLKFYENHCNFH-----*
+>P1;gi|27477793|ref|XP_210557.1| similar to heterochromatin-specific... [ score 87 E 7e-17 ] [ range 43 .. 112 ]
+sequence
+--------KKSSEKPRGALP-----WVLSHRLELPTPVER--EPMFLMKWKASN--EADLASAKEANVKC
+SQIDISLCEERPVWY-----*
+>P1;gi|17568757|ref|NP_510199.1| heterochromatin Protein Like (20.8 ... [ score 72 E 4e-12 ] [ range 119 .. 171 ]
+sequence
+-------------------------GKTLKTIIGITKAPG--ELHFLCKFSD-D--SVHLIPLREANVRF
+PSQVIKFYETRLV-------*
+>P1;gi|34873487|ref|XP_340886.1| similar to Chromobox protein homolo... [ score 70 E 1e-11 ] [ range 114 .. 149 ]
+sequence
+----------QSEKPRGFAR-----GLEPERIIGATDSSG--ELMFLMKWSSS-----------------
+--------------------*
+>P1;gi|25149949|ref|NP_499372.2| heterochromatin Protein Like, HP1 (... [ score 54 E 9e-07 ] [ range 120 .. 166 ]
+sequence
+-------------------------------IVGLTKGPG--ELHFLCKFSD-D--TARLLPAKEVNSRY
+PSQVIRYYESKLT-------*
+>P1;gi|34870134|ref|XP_344069.1| similar to heterochromatin-like pro... [ score 48 E 4e-05 ] [ range 87 .. 150 ]
+sequence
+---------------------------------------------YFVKWKGFT--DADWVPAKEANMKW
+PQIVIAFYEEWLTWH-----*

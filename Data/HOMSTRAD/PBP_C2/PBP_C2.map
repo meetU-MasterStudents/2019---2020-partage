@@ -1,0 +1,81 @@
+>P1;1k25a
+structureX:1k25: 693 :A: 750 :A:PBP2X from a highly penicillin-resistant clinical isolate:Streptococcus pneumoniae: 3.2: 23.5
+VEEIPDMYGWKKETAETFAKWLDIELEFEGSGSVVQKQDVRTNTAIKNIKKIKLTLGD*
+>P1;1qmea
+structureX:1qme: 693 :A: 750 :A:penicillin-binding protein 2X:Streptococcus pneumoniae: 2.4: 19.7
+AEEVPDMYGWTKETAETLAKWLNIELEFQGSGSTVQKQDVRANTAIKDIKKITLTLGD*
+>P1;gi|6689313|emb|CAB65441.1| penicillin binding protein 2x [Strept... [ score 111 E 4e-24 ] [ range 609 .. 666 ]
+sequence
+VEEIPDMYGWKKETAETFAKWLDIELEFEGSGSVVQKQDVRANTAIKDIKKITLTLGD*
+>P1;gi|6689321|emb|CAB65445.1| penicillin binding protein 2x [Strept... [ score 111 E 5e-24 ] [ range 609 .. 665 ]
+sequence
+VEEIPDMYGWKKETAETFAKWLNIELEFEGSGSTVQKQDVRANTAIKDIKKITLTLG-*
+>P1;gi|38142269|dbj|BAD00937.1| penicillin-binding protein 2X [Strep... [ score 110 E 9e-24 ] [ range 693 .. 750 ]
+sequence
+VEEIPDMYGWTKTTAEAFSKWLNIELEFEGSGSTVQKQDVRANTAIKDIKKITLTLGD*
+>P1;gi|38142253|dbj|BAD00929.1| penicillin-binding protein 2X [Strep... [ score 108 E 3e-23 ] [ range 693 .. 750 ]
+sequence
+VEEIPDMYGWTKATAEAFSKWLNIELVFEGSGSTVQKQDVRANTAIKDIKKITLTLGD*
+>P1;gi|98038|pir||S16626 penicillin-binding protein 2X - Streptococc... [ score 107 E 5e-23 ] [ range 618 .. 675 ]
+sequence
+VEEIPDMYGWKKETAEAFAKWLDIELEFEGSGSIVQQQDVRANTTIKNIKNIKLTLGD*
+>P1;gi|10178942|emb|CAC08465.1| penicillin binding protein 2x [Strep... [ score 106 E 1e-22 ] [ range 616 .. 671 ]
+sequence
+VEEIPDMYGWKKGTAETFAKWLDIKLEFEGSGSVVQKQDVRTNTAIKNIKKIKLTL--*
+>P1;gi|21910937|ref|NP_665205.1| putative penicillin binding protein... [ score 88 E 5e-17 ] [ range 666 .. 722 ]
+sequence
+--EVPDMYGWTKSNVKTFAKWTGIDISFKGTDSRVMKQSVDVGKSLKKIKKMTITLGD*
+>P1;gi|24378943|ref|NP_720898.1| putative penicillin-binding protein... [ score 85 E 5e-16 ] [ range 692 .. 749 ]
+sequence
+-DTMPDMYGWSKKNVKKFEDWTGIKVTFKGKKSKVTEQSVKVGSKLKNLKKIRITLGE*
+>P1;gi|15672849|ref|NP_267023.1| penicillin-binding protein [Lactoco... [ score 84 E 8e-16 ] [ range 709 .. 763 ]
+sequence
+---MPDMYDWSKKEVEQLANWFGIKVTYEGSGNKVLTQSIETSTNVKKGQTLTVKMGN*
+>P1;gi|25010351|ref|NP_734746.1| unknown [Streptococcus agalactiae N... [ score 68 E 5e-11 ] [ range 696 .. 752 ]
+sequence
+--ELPDMYGWSKANVEQFAKWTGIKVTYKGSTSKVRKQSIDVGKSINKIKKIKITIGD*
+>P1;gi|23037124|ref|ZP_00069336.1| COG0768: Cell division protein Ft... [ score 48 E 4e-05 ] [ range 660 .. 711 ]
+sequence
+---MPNMNGWSISDVSTFASLTGIKLSYSGAG-KVISQSISAKSTIKKGENLGVKL--*
+>P1;gi|29375573|ref|NP_814727.1| penicillin-binding protein C [Enter... [ score 48 E 6e-05 ] [ range 688 .. 738 ]
+sequence
+---MPDLTGWSKSDVTKFGDLLGLTVEFKGEG-YVTKQSIAAETEITE-KKLTVTL--*
+>P1;gi|27467774|ref|NP_764411.1| penicillin-binding protein 1 [Staph... [ score 45 E 6e-04 ] [ range 659 .. 711 ]
+sequence
+--TMPDMTGWTKEDVLAFEDLTKIKVSTKGNG-FVTNQSISKGQIIKNKDKIEVSL--*
+>P1;gi|21282793|ref|NP_645881.1| penicillin-binding protein 1 [Staph... [ score 44 E 0.001 ] [ range 659 .. 709 ]
+sequence
+--TMPDMSGWTKEDVIAFENLTNIKVNLKGSG-FVSHQSISKGQKLTEKDKIDV----*
+>P1;gi|4009488|gb|AAC95456.1| penicillin-binding protein 2x [Strepto... [ score 117 E 8e-26 ] [ range 693 .. 750 ]
+sequence
+AEEVPDMYGWTKETAETFAKWLNIELEFEGSGSTVQKQDVRANTAIKDIKKITLTLGD*
+>P1;gi|98037|pir||S16627 penicillin-binding protein 2X - Streptococc... [ score 113 E 9e-25 ] [ range 618 .. 675 ]
+sequence
+AEEVPDMYGWTKATAEAFSKWLNIELEFEGSGSTVQKQDVRANTAIKDIKKITLTLGD*
+>P1;gi|18309546|ref|NP_561480.1| stage V sporulation protein D [Clos... [ score 83 E 2e-15 ] [ range 674 .. 727 ]
+sequence
+---IPDFKNYSKESAEKLLNQLGLIGEFVGEGPSVTKQSISPDEVVNGNSKITLTLG-*
+>P1;gi|18310862|ref|NP_562796.1| stage V sporulation protein D [Clos... [ score 54 E 9e-07 ] [ range 674 .. 725 ]
+sequence
+---VPDFRKLNKEEAEEILKYLGLKGEFEGEG-EIKEQSISAGEIIKSGDKIKFKL--*
+>P1;gi|42518894|ref|NP_964824.1| penicillin-binding protein 2B [Lact... [ score 48 E 5e-05 ] [ range 665 .. 715 ]
+sequence
+----PNMVGWSEDEVNSFMTTTDIPITINGKG-KVTKQSIPAGKVIDKNSKLSVNL--*
+>P1;gi|23003795|ref|ZP_00047441.1| COG0768: Cell division protein Ft... [ score 48 E 8e-05 ] [ range 665 .. 715 ]
+sequence
+----PNMVGWTESEVNSFMTTTDIPITINGKG-KVTKQSIPSGKVIDKNSKLSVNL--*
+>P1;gi|45531296|ref|ZP_00182353.1| hypothetical protein Exigu234301 ... [ score 48 E 9e-05 ] [ range 286 .. 339 ]
+sequence
+---MPDITGWSQRDVKKLVSLYDLKLDVIGKG-FVTKQSARTGTLVKENGKLTVELAE*
+>P1;gi|16804078|ref|NP_465563.1| similar to penicillin-binding prote... [ score 46 E 2e-04 ] [ range 663 .. 713 ]
+sequence
+----PDMVTWSKDDALKVSEITGIPFEFSGNG-YVKSQSVSAGSVINSETKMKITL--*
+>P1;gi|16801211|ref|NP_471479.1| similar to penicillin-binding prote... [ score 46 E 3e-04 ] [ range 663 .. 713 ]
+sequence
+----PDMVNWSKVDALKVSEITGIPFEFSGNG-YVKSQSVSAGSVINSETKMEITL--*
+>P1;gi|28211295|ref|NP_782239.1| stage V sporulation protein D [Clos... [ score 45 E 4e-04 ] [ range 672 .. 723 ]
+sequence
+---VPDIRGYTIENASKLLNSLGLKITYSGSG-LIYEQSVKEDEEVPKGTTIHVKL--*
+>P1;gi|15895399|ref|NP_348748.1| Stage V sporulation protein D, spoV... [ score 44 E 7e-04 ] [ range 672 .. 723 ]
+sequence
+---VPNLTGYSKKEAEETLKSLGLDFKISGDG-VVESQSIDAGKQVNKGTVLTLKL--*

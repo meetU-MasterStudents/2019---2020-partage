@@ -1,0 +1,42 @@
+>P1;1f4na
+structureX:1f4n:   1 :A:  59 :A:regulatory protein rop:Escherichia coli: 1.90: 20.4
+GTKQEKTILNMARFIRSQALTILEKANELD--ADEIADIAESIHDHADEIYRSALARFGDD*
+>P1;1rpo
+structureX:1rpo:   1 : :  61 : :regulatory protein rop:Escherichia coli: 1.4: 18.9
+MTKQEKTALNMARFIRSQTLTLLEKLNELADAADEQADICESLHDHADELYRSCLARFGDD*
+>P1;gi|32455385|ref|NP_862266.1| RNA I modulator [Erwinia amylovora]... [ score 46 E 2e-04 ] [ range 2 .. 59 ]
+sequence
+-TKLESAALNMAKFIRAQSLLLLEKLDVLD--LDDEAAECEKLHEQAEVLYRKVSNRISED*
+>P1;gi|4775490|emb|CAB42617.1| Rom protein [Klebsiella oxytoca] [ score 44 E 7e-04 ] [ range 2 .. 55 ]
+sequence
+-TKQQKTALNMAKFIQHQSLLLLEKLNELD--LDVEADLCEKLHDDAEHLFRTLSSR----*
+>P1;gi|2995429|emb|CAA76521.1| Rom [Enterobacter cloacae] [ score 90 E 1e-17 ] [ range 1 .. 59 ]
+sequence
+MTKQEKTALNMARFIRGQTLTLLEKLNEL--DADELADICESLHDHADELYRSCLARFGDD*
+>P1;gi|58024|emb|CAA38109.1| lmrop protein [synthetic construct] [ score 90 E 1e-17 ] [ range 90 .. 120 ] [ duplicate b ]
+sequence
+-SKQEKTALNMARFIRSQTLTLLEKLNELAKG-----------------------------*
+>P1;gi|2343281|gb|AAB97963.1| RNA one modulator [Pantoea agglomerans] [ score 70 E 1e-11 ] [ range 1 .. 59 ]
+sequence
+MTRQESAALNMAKFIRAQTLLLLERLEQM--DLDEAAGCCEHLHDQAEALYAMLNAQIGEE*
+>P1;gi|7960013|gb|AAF71175.1| Rom-like protein [Escherichia coli] [ score 69 E 2e-11 ] [ range 1 .. 56 ]
+sequence
+MNKQQQTALNMARFIKSQSLTLLEKLDAL--DADEQAAMCERLHELAEELQNSIQVRF---*
+>P1;gi|15743560|ref|NP_277063.1| unknown [Citrobacter rodentium] >gi... [ score 69 E 3e-11 ] [ range 1 .. 56 ]
+sequence
+MNKQQQAVLNMAGFIKSQSLTLLEKLDAL--DADEQATMCEKLHELAEELQNSIQTRF---*
+>P1;gi|16082682|ref|NP_395229.1| putative replication regulatory pro... [ score 69 E 3e-11 ] [ range 1 .. 56 ]
+sequence
+MNKQQQTALNMARFIRSQSLILLEKLDAL--DADEQAAMCERLHELAEELQNSIQARF---*
+>P1;gi|10957077|ref|NP_061808.1| putative RNA one modulator protein ... [ score 60 E 1e-08 ] [ range 1 .. 55 ]
+sequence
+MKKQEATAINMAKFIKAQLLILLEKLNEL--DLDERANECEQLHDLAEQLHRHLREQ----*
+>P1;gi|32455385|ref|NP_862266.1| RNA I modulator [Erwinia amylovora]... [ score 47 E 1e-04 ] [ range 1 .. 59 ]
+sequence
+MTKLESAALNMAKFIRAQSLLLLEKLDVLDLDDE--AAECEKLHEQAEVLYRKVSNRISED*
+>P1;gi|26245324|gb|AAM82815.1| Rop protein [Erwinia pyrifoliae] [ score 46 E 2e-04 ] [ range 1 .. 58 ]
+sequence
+MNKQETTTLNMAKFIRGQTLLLLEKLDVLDLDDE--AADCEKLHEQAEALYQKLSGRLSE-*
+>P1;gi|4775490|emb|CAB42617.1| Rom protein [Klebsiella oxytoca] [ score 45 E 4e-04 ] [ range 1 .. 55 ]
+sequence
+MTKQQKTALNMAKFIQHQSLLLLEKLNELDLDVE--ADLCEKLHDDAEHLFRTLSSR----*

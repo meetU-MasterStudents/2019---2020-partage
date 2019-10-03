@@ -1,0 +1,645 @@
+>P1;1chc
+structureX:1chc:   1 : :  59 : :immediate early protein:Equine herpesvirus type 1: -1: -1
+MATVA--ERCPICLEDPSNYSMALPCLHAFCYVCITRWIRQNP-TCPLCKVPVE--SVVHTIES*
+>P1;1bor
+structureX:1bor:   1 : :  56 : :transcription factor pml-1:Homo sapiens: -1: -1
+EE-EFQFLRCQQCQAEAKCPKLL-PCLHTLCSGCLEAS----GMQCPICQAPW--PLGADTPAL*
+>P1;1rmd
+structureX:1rmd:  17 : :  77 : :v(D)J recombination activating protein 1:Mus musculus: 2.10: 20.9
+PAHFVKSISCQICEHILADPVET-SCKHLFCRICILRCLKVMGSYCPSCRYPCFPTDLESPV--*
+>P1;gi|9629792|ref|NP_045280.1| 63 [Equine herpesvirus 4] >gi|112782... [ score 103 E 1e-21 ] [ range 3 .. 60 ]
+sequence
+-AVDA--ERCPICLEDPSNYSMALPCLHAFCYVCITRWIRQNP-TCPLCKVPVN--SVVHTIES*
+>P1;gi|2502079|gb|AAB80763.1| immediate early protein; ICP0 [Feline ... [ score 97 E 8e-20 ] [ range 1 .. 58 ]
+sequence
+MADMG--DHCPICLDPMNDLTFTMPCLHKFCYSCLSRWVGLNN-KCPLCKTSVT--SLIHSIE-*
+>P1;gi|27370731|gb|AAH37141.1| Topors protein [Mus musculus] [ score 96 E 2e-19 ] [ range 98 .. 155 ]
+sequence
+-ASPD--SKCPICLDRFDNVSYLDRCLHKFCFRCVQEWSKNKA-ECPLCKQPFD--SIFHSVRA*
+>P1;gi|40787930|ref|NP_954951.1| BICP0 immediate-early transactivato... [ score 95 E 3e-19 ] [ range 21 .. 72 ]
+sequence
+---------CCICLDVITGAARALPCLHAFCLACIRRWLEGRP-TCPLCKAPVR--SLIHSVAS*
+>P1;gi|266331|sp|P29836|ICP0_BHV1K Trans-acting transcriptional prot... [ score 95 E 4e-19 ] [ range 13 .. 64 ]
+sequence
+---------CCICLDAITGAARALPCLHAFCLACIRRWLEGRP-TCPLCKAPVQ--SLIHSVAS*
+>P1;gi|7707279|dbj|BAA95211.1| infected cell protein 0 [Canine herpe... [ score 92 E 3e-18 ] [ range 1 .. 57 ]
+sequence
+MADEE--YNCTICLEPPKNMTVTMSCLHKFCYDCLSEWTKVSN-TCPLCKSIIQ--SMIHSI--*
+>P1;gi|20130141|ref|NP_611388.1| CG15104-PA [Drosophila melanogaster... [ score 90 E 1e-17 ] [ range 102 .. 153 ]
+sequence
+---------CAICLSRCRRKCFTDSCMHQFCFKCLCEWSKIKP-ECPLCKQPFR--TIIHNVRT*
+>P1;gi|93140|pir||A40505 early protein EP0 - suid herpesvirus 1 (str... [ score 87 E 1e-16 ] [ range 46 .. 97 ]
+sequence
+---------CPICLDVAATEAQTLPCMHKFCLDCIQRWTLTST-ACPLCKARVT--SILHHVDS*
+>P1;gi|9625935|ref|NP_040183.1| transactivator [Human herpesvirus 3]... [ score 84 E 7e-16 ] [ range 16 .. 70 ]
+sequence
+----D--NTCTICMSTVSDLGKTMPCLHDFCFVCIRAWTSTSV-QCPLCRCPVQ--SILHKIVS*
+>P1;gi|13242456|ref|NP_077475.1| transactivator [Cercopithecine herp... [ score 84 E 8e-16 ] [ range 19 .. 70 ]
+sequence
+---------CAICMSAISGLGKTLPCLHDFCFVCIQTWTSTSA-QCPLCRTVVS--SILHNITS*
+>P1;gi|21592718|gb|AAM64667.1| putative peroxisome assembly protein ... [ score 82 E 2e-15 ] [ range 326 .. 369 ]
+sequence
+--------KCTLCLST-RQHPTATPCGHVFCWSCIMEWCNENQ-ECPLCRTPNT----------*
+>P1;gi|7576235|emb|CAB87983.1| Pex10p [Arabidopsis thaliana] [ score 82 E 3e-15 ] [ range 326 .. 369 ]
+sequence
+--------KCTLCLST-RQHPTATPCGHVFCWSCIMEWCNEKQ-ECPLCRTPNT----------*
+>P1;gi|45190991|ref|NP_985245.1| AER390Wp [Eremothecium gossypii] >g... [ score 82 E 3e-15 ] [ range 259 .. 309 ]
+sequence
+ISEQS--RKCILCLADMTDPS-CLPCGHMFCWACVMQWCNERN-ECPLCRQHCT--K-------*
+>P1;gi|39597072|emb|CAE59299.1| Hypothetical protein CBG02634 [Caeno... [ score 81 E 5e-15 ] [ range 44 .. 96 ]
+sequence
+--EPS--EECSVCRNEMIDTTVLSDCVHEFCYDCIIGWLTKGP-FCPMCKTPVK--FI------*
+>P1;gi|34394186|dbj|BAC84638.1| putative Peroxisome assembly protein... [ score 81 E 8e-15 ] [ range 334 .. 377 ]
+sequence
+--------KCTLCLST-RQNPTATTCGHVFCWSCIMEWCNEKP-ECPLCRTPIT----------*
+>P1;gi|24797089|ref|NP_722540.1| peroxisome biogenesis factor 10 iso... [ score 80 E 1e-14 ] [ range 293 .. 341 ]
+sequence
+---------CTLCLEE-RRHPTATPCGHLFCWECITAWCSSKA-ECPLCRFPPQ--KLIY----*
+>P1;gi|38106685|gb|EAA52959.1| hypothetical protein MG06087.4 [Magna... [ score 80 E 1e-14 ] [ range 342 .. 388 ]
+sequence
+--------ECTICMDDLSDEATVLPCKHFFHGECVTIWLKEHN-TCPICRTPME----------*
+>P1;gi|38079072|ref|XP_131847.2| similar to Peroxisome assembly prot... [ score 80 E 1e-14 ] [ range 353 .. 401 ]
+sequence
+---------CTLCLEE-RRHSTATPCGHLFCWECITEWCNTKT-ECPLCRFPPQ--KLVY----*
+>P1;gi|42544892|gb|EAA67735.1| hypothetical protein FG01971.1 [Gibbe... [ score 80 E 2e-14 ] [ range 507 .. 554 ]
+sequence
+--------ECTICIDEMKDMATFLPCSHWFHEECVTLWLKEHN-TCPICRTPIE--K-------*
+>P1;gi|38101539|gb|EAA48487.1| hypothetical protein MG00145.4 [Magna... [ score 79 E 2e-14 ] [ range 391 .. 433 ]
+sequence
+-------RRCTLCLEGLRDPS-ATPCGHVFCWSCIGDWVREKP-ECPLCRRE------------*
+>P1;gi|32408379|ref|XP_324671.1| hypothetical protein [Neurospora cr... [ score 79 E 2e-14 ] [ range 310 .. 356 ]
+sequence
+--------ECTICIDDMGEEVTVLPCKHWFHGECVTLWLKEHN-TCPICRMPIE----------*
+>P1;gi|9049374|dbj|BAA99413.1| PEX10 [Yarrowia lipolytica] [ score 79 E 2e-14 ] [ range 322 .. 369 ]
+sequence
+--EAS--RACTLCLSYISAPA-CTPCGHFFCWDCISEWVREKP-ECPLCRQGVR----------*
+>P1;gi|39597073|emb|CAE59300.1| Hypothetical protein CBG02635 [Caeno... [ score 79 E 2e-14 ] [ range 18 .. 75 ]
+sequence
+MPADD--LQCTICLSSFSQECRVNGCNHAFCFSCISEWVTQRP-SCPMCRHDIE--KIFY----*
+>P1;gi|32420539|ref|XP_330713.1| hypothetical protein [Neurospora cr... [ score 78 E 6e-14 ] [ range 377 .. 423 ]
+sequence
+---------CTLCLEELKDPA-ATQCGHVFCWSCIGDWVREKP-ECPLCRR--E--TMVQHI--*
+>P1;gi|40743584|gb|EAA62774.1| hypothetical protein AN5681.2 [Asperg... [ score 78 E 6e-14 ] [ range 320 .. 362 ]
+sequence
+-------RKCTLCLESFKDPSVTT-CGHVFCWTCVCDWVREKP-ECPLCRQE------------*
+>P1;gi|45269467|gb|AAS56114.1| YDR265W [Saccharomyces cerevisiae] [ score 78 E 6e-14 ] [ range 281 .. 328 ]
+sequence
+--EAS--RKCILCLMNMSDPSCA-PCGHLFCWSCLMSWCKERP-ECPLCRQHCQ----------*
+>P1;gi|21356709|ref|NP_650112.1| CG6923-PA [Drosophila melanogaster]... [ score 77 E 8e-14 ] [ range 1182 .. 1233 ]
+sequence
+--EDA--EKCAICLNEIENEVRRLPCMHLFHTDCVDQWLVTNK-HCPICRVDIE--T-------*
+>P1;gi|5174653|ref|NP_005968.1| ring finger protein 6 isoform 1; RIN... [ score 77 E 1e-13 ] [ range 626 .. 676 ]
+sequence
+-SELG--KICSVCISDTGNKLRQLPCMHEFHIHCIDRWLSENC-TCPICRQPV-----------*
+>P1;gi|21392032|gb|AAM48370.1| LD44641p [Drosophila melanogaster] [ score 76 E 2e-13 ] [ range 484 .. 527 ]
+sequence
+---------CPICHDAF-NTPTVLECGHIFCDECVQTWFKREQ-TCPMCRAKVS--D-------*
+>P1;gi|23612351|ref|NP_703931.1| c3h4-type ring finger protein, puta... [ score 76 E 2e-13 ] [ range 289 .. 333 ]
+sequence
+--------ECNICFDDVRD-PVVTKCGHLFCWLCLSAWIKKNN-DCPVCKAEVS--K-------*
+>P1;gi|38345315|emb|CAE03385.2| OSJNBa0004N05.9 [Oryza sativa (japon... [ score 76 E 2e-13 ] [ range 679 .. 730 ]
+sequence
+-SNIE--EPCAVCLDNPSDTIRRLPCFHMFHKECIDEWLRRKK-LCPVCKSGIT----------*
+>P1;gi|43538640|gb|EAE24019.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 108 .. 152 ]
+sequence
+---EG--KKCALCLS-PHDAATATPCGHVFCWDCVASWCAQKP-ECPLCRAP------------*
+>P1;gi|40744434|gb|EAA63610.1| hypothetical protein AN3039.2 [Asperg... [ score 76 E 2e-13 ] [ range 29 .. 83 ]
+sequence
+---VS--DPCVICLEPISEPAVAISCNHAFDFLCLVNWLEQRR-NCPLCKSEVS--SVKYEL--*
+>P1;gi|27662122|ref|XP_221888.1| similar to RIKEN cDNA 1200013I08 [R... [ score 76 E 2e-13 ] [ range 609 .. 659 ]
+sequence
+-SELG--KVCSVCISDAGNKLRQLPCLHEFHIHCIDRWLSENC-TCPVCRRPV-----------*
+>P1;gi|7496831|pir||T15741 hypothetical protein C32D5.10 - Caenorhab... [ score 76 E 3e-13 ] [ range 36 .. 88 ]
+sequence
+--EPE--EECSVCKNEIIDTTSLSDCCHEFCYDCIVGWLTKGP-FCPMCKTPVS--FI------*
+>P1;gi|32421149|ref|XP_331018.1| predicted protein [Neurospora crass... [ score 74 E 7e-13 ] [ range 47 .. 102 ]
+sequence
+VAEAD--DCCVICLDSISEPCTAMPCAHSFDFVCLVSWLQEHP-NCPLCKAAIY--KVRY----*
+>P1;gi|2605922|gb|AAB84205.1| ring finger protein [Brevicoryne brass... [ score 74 E 1e-12 ] [ range 44 .. 98 ]
+sequence
+-STPD--TQCSICLDDLTNKCHSDTCWHLFCFDCLVRWSNSQA-TCPLCKKHFT--SIHHS---*
+>P1;gi|28571958|ref|NP_651894.3| CG1937-PA [Drosophila melanogaster]... [ score 73 E 1e-12 ] [ range 289 .. 331 ]
+sequence
+---------CIICREDMVNHSKKLPCGHIFHTTCLRSWFQRQQ-TCPTCRLNI-----------*
+>P1;gi|18390437|ref|NP_563717.1| zinc finger (C3HC4-type RING finger... [ score 73 E 2e-12 ] [ range 587 .. 634 ]
+sequence
+-------ETCVICLETPKDTIRHLPCLHKFHKDCIDPWLGRSK-SCPVCKSSVT----------*
+>P1;gi|28829862|gb|AAL96747.2| similar to Plasmodium falciparum. Hyp... [ score 73 E 2e-12 ] [ range 29 .. 74 ]
+sequence
+--------KCSICLNSPKNPRFCPRCSALFCLECIDRWIISNP-TCPACRDTLT--S-------*
+>P1;gi|42542558|gb|AAH66378.1| Unknown (protein for MGC:77306) [Dani... [ score 72 E 2e-12 ] [ range 303 .. 355 ]
+sequence
+--EAG--DICPICQADFKQ-PRVLVCQHIFCEECIAQWLNQER-TCPLCRTVIT--DKVHK---*
+>P1;gi|21357847|ref|NP_647624.1| CG7864-PA [Drosophila melanogaster]... [ score 72 E 2e-12 ] [ range 245 .. 284 ]
+sequence
+--------QCILCLEPRSDSS-LTPCGHIFCWSCLLEWLEERD-ECPLCR--------------*
+>P1;gi|24762824|ref|NP_726508.1| goliath CG2679-PB [Drosophila melan... [ score 72 E 2e-12 ] [ range 299 .. 347 ]
+sequence
+---DS--DCCAICIEAPTDTIRILPCKHEFHKNCIDPWLIEHR-TCPMCKLDV-----------*
+>P1;gi|32416406|ref|XP_328681.1| hypothetical protein [Neurospora cr... [ score 72 E 3e-12 ] [ range 707 .. 751 ]
+sequence
+-------EECPICIDPLSN-PIITHCKHVFCRGCIDKVIEVQQ-KCPMCRAPLS----------*
+>P1;gi|2501730|sp|Q00940|PEXA_PICAN Peroxisome assembly protein PER8... [ score 72 E 3e-12 ] [ range 240 .. 287 ]
+sequence
+--EAS--RTCMLCLSPMKDPS-CGECGHVFCWKCVLDWVKERQ-ECPLCRAKMR----------*
+>P1;gi|16805229|ref|NP_473257.1| binding protein, putative; hypothet... [ score 71 E 6e-12 ] [ range 1129 .. 1176 ]
+sequence
+-------KKCCICCENHNDNVIFLPCTHNFHKQCILKWISKNT-TCPLCKIDLR----------*
+>P1;gi|30679440|ref|NP_187176.2| zinc finger (C3HC4-type RING finger... [ score 71 E 6e-12 ] [ range 20 .. 82 ]
+sequence
+-------DPCPICLGQFLRESYLDTCFHKFCFNCIKQWIKSSV-TCPLCKTENL--SIIHNYD-*
+>P1;gi|15231124|ref|NP_191431.1| zinc finger (C3HC4-type RING finger... [ score 71 E 6e-12 ] [ range 139 .. 188 ]
+sequence
+--EDD--KRCSVCLEDPKETVMLTPCKHMFHEECIVPWLKTKG-QCPVCRFVI-----------*
+>P1;gi|34932458|ref|XP_225701.2| similar to ring finger protein [Rat... [ score 71 E 8e-12 ] [ range 357 .. 409 ]
+sequence
+-SDTD--EKCTICLSEDGEDVRRLPCMHLFHQLCVDQWLAMSK-KCPICRVDIE--T-------*
+>P1;gi|31207817|ref|XP_312875.1| ENSANGP00000014712 [Anopheles gambi... [ score 71 E 8e-12 ] [ range 337 .. 379 ]
+sequence
+---------CIICREDMVSNSKKLPCGHIFHTACLRSWFQRQQ-TCPTCRLNI-----------*
+>P1;gi|23479801|gb|EAA16532.1| similar to CG8974 gene product-relate... [ score 71 E 9e-12 ] [ range 311 .. 355 ]
+sequence
+--------ECNICFDDVRD-PVVTRCGHLFCWFCLSAWIKKNI-DCPVCKAEVT--K-------*
+>P1;gi|32413242|ref|XP_327101.1| hypothetical protein [Neurospora cr... [ score 71 E 1e-11 ] [ range 421 .. 467 ]
+sequence
+--------KCVICVDEMTDKATLLPCNHFFHGECVTPWLKVHN-TCPVCRRSVE----------*
+>P1;gi|14017837|dbj|BAB47439.1| KIAA1810 protein [Homo sapiens] [ score 70 E 1e-11 ] [ range 250 .. 296 ]
+sequence
+---MD--NVCIICREEMVTGAKRLPCNHIFHTSCLRSWFQRQQ-TCPTCRMDV-----------*
+>P1;gi|17561408|ref|NP_505969.1| RING zinc finger containing protein... [ score 70 E 1e-11 ] [ range 285 .. 336 ]
+sequence
+LAAMD--ATCIICREEMTASPKRLPCSHVFHAHCLRSWFQRQQ-TCPTCRTDI-----------*
+>P1;gi|32404682|ref|XP_322954.1| hypothetical protein ( (AL451013) c... [ score 70 E 1e-11 ] [ range 1135 .. 1191 ]
+sequence
+-SDEE--RMCVICQSPFS-IGVLTVCGHQFCKECITMWFTTHH-NCPVCKRPLH--SNLHNIT-*
+>P1;gi|39592530|emb|CAE63607.1| Hypothetical protein CBG08098 [Caeno... [ score 70 E 2e-11 ] [ range 358 .. 403 ]
+sequence
+---EE--QQCTVCHEDLT-YPIRLECSHVFCKSCIETWLDLKI-TCPMCRAEV-----------*
+>P1;gi|31214492|ref|XP_315856.1| ENSANGP00000017420 [Anopheles gambi... [ score 70 E 2e-11 ] [ range 46 .. 94 ]
+sequence
+--------KCAICLGKCRQPAFANSCKHQFCFRCLLEWSKVKP-ECPLCKQRFL--SIVY----*
+>P1;gi|31205271|ref|XP_311584.1| ENSANGP00000016080 [Anopheles gambi... [ score 69 E 2e-11 ] [ range 305 .. 351 ]
+sequence
+-------DCCAICIEPVTDVIRVLPCKHEFHKVCIDPWLLEHR-TCPMCKMDI-----------*
+>P1;gi|39592081|emb|CAE75301.1| Hypothetical protein CBG23271 [Caeno... [ score 69 E 2e-11 ] [ range 285 .. 336 ]
+sequence
+LSAMD--ATCIICREEMTSSPKRLPCSHVFHAHCLRSWFQRQQ-TCPTCRTDI-----------*
+>P1;gi|13124535|sp|Q9WTV7|RN12_MOUSE RING finger protein 12 (LIM dom... [ score 69 E 2e-11 ] [ range 544 .. 592 ]
+sequence
+-------KTCSVCITEYTDKLRKLPCSHEFHVHCIDRWLSENS-TCPICRRAVL--S-------*
+>P1;gi|19173466|ref|NP_597269.1| hypothetical protein [Encephalitozo... [ score 69 E 3e-11 ] [ range 191 .. 235 ]
+sequence
+---------CIICLEDFEDYVRSLDCGHAFHKECVDRWLRKNF-VCPICRSKM-----------*
+>P1;gi|34913558|ref|NP_918126.1| OSJNBa0086A10.8 [Oryza sativa (japo... [ score 69 E 3e-11 ] [ range 182 .. 235 ]
+sequence
+----G--KPCGICLDDLLTTPVRLPCGHAFHGQCIAGWLLEGR-TCPMCRRDFS--RLV-----*
+>P1;gi|17532249|ref|NP_495279.1| ring finger protein (2G644) [Caenor... [ score 69 E 4e-11 ] [ range 67 .. 118 ]
+sequence
+--------QCTICLSTFSQECRIEGCNHSFCFSCISEWVSLRP-SCPMCRKDVD--KVSY----*
+>P1;gi|31981195|ref|NP_067515.2| ring finger protein 130; g1-related... [ score 68 E 5e-11 ] [ range 262 .. 308 ]
+sequence
+-------DHCAVCIESYKDVVRVLPCKHVFHKSCVDPWLSEHC-TCPMCKLNI-----------*
+>P1;gi|44890354|gb|AAH66677.1| Unknown (protein for MGC:77108) [Dani... [ score 68 E 5e-11 ] [ range 291 .. 333 ]
+sequence
+---------CIICREEMVTGAKKLPCNHIFHSSCLRSWFQRQQ-TCPTCRMDV-----------*
+>P1;gi|15221860|ref|NP_173311.1| zinc finger (C3HC4-type RING finger... [ score 68 E 6e-11 ] [ range 173 .. 217 ]
+sequence
+-------ERCTICLEEFNDKVMTLPCGHEFDDECVLTWFETNH-DCPLCRF-------------*
+>P1;gi|43551711|gb|EAE30632.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 3 .. 48 ]
+sequence
+---------CSICMSDITNE-VTTPCNHSFCNGCLTNWLLSKS-SCPMCRYKIG--DIH-----*
+>P1;gi|37515175|gb|AAQ91892.1| Hypothetical protein ZC13.1b [Caenorh... [ score 68 E 6e-11 ] [ range 333 .. 380 ]
+sequence
+---EE--QPCAVCHGDLLQ-PIKLECTHVFCKFCIETWLDQKS-TCPICRAEVT--K-------*
+>P1;gi|22761039|dbj|BAC11430.1| unnamed protein product [Homo sapiens] [ score 67 E 7e-11 ] [ range 265 .. 313 ]
+sequence
+---DA--ENCAVCIENFKDIIRILPCKHIFHRICIDPWLLDHR-TCPMCKLDV-----------*
+>P1;gi|34878992|ref|XP_223565.2| similar to RIKEN cDNA 0610009J22 [R... [ score 67 E 7e-11 ] [ range 324 .. 377 ]
+sequence
+----A--ETCAVCLDYFCNKLRVLPCKHEFHRDCVDPWLMLQQ-TCPLCKFNVL--GNHYS---*
+>P1;gi|34896014|ref|NP_909351.1| ESTs AU075348(C11252),C98151(C0804)... [ score 67 E 8e-11 ] [ range 439 .. 484 ]
+sequence
+---DD--GKCAICLEEYKDNSLILKCNHDFHTDCVKKWLKEKN-SCPICK--------------*
+>P1;gi|19115091|ref|NP_594179.1| C3HC4 type (RING finger) protein [S... [ score 67 E 8e-11 ] [ range 391 .. 440 ]
+sequence
+--DEE--GECTICMEKINDDVIQLPCKHYFHENCIKPWLRVNG-TCAICRAPV-----------*
+>P1;gi|29788758|ref|NP_060904.2| ring finger protein 130; goliath pr... [ score 67 E 1e-10 ] [ range 262 .. 308 ]
+sequence
+-------DHCAVCIESYKDVVRILPCKHVFHKSCVDPWLSEHC-TCPMCKLNI-----------*
+>P1;gi|18413797|ref|NP_568096.1| zinc finger (C3HC4-type RING finger... [ score 67 E 1e-10 ] [ range 365 .. 406 ]
+sequence
+---------CAICQEKMH-TPILLRCKHMFCEDCVSEWFERER-TCPLCRALV-----------*
+>P1;gi|23509437|ref|NP_702104.1| hypothetical protein [Plasmodium fa... [ score 67 E 1e-10 ] [ range 298 .. 340 ]
+sequence
+---------CIICRDDLKEGSKKLSCSHIFHVDCLKSWFIQQQ-TCPICRTEI-----------*
+>P1;gi|20845712|ref|XP_129803.1| expressed sequence AV037261 [Mus mu... [ score 67 E 1e-10 ] [ range 261 .. 309 ]
+sequence
+---DA--ENCAVCIENFKDVIRILPCKHIFHRICIDPWLLDHR-TCPMCKLDV-----------*
+>P1;gi|15233298|ref|NP_191112.1| zinc finger (C3HC4-type RING finger... [ score 66 E 2e-10 ] [ range 198 .. 257 ]
+sequence
+-ANES--KKCSVCLEQVTEIVRTLPCLHQFHAGCIDPWLRQQG-TCPVCKFRAH--S-------*
+>P1;gi|34328198|ref|NP_035406.2| ring finger protein 12 [Mus musculu... [ score 66 E 2e-10 ] [ range 544 .. 592 ]
+sequence
+-------KTCSVCITEYTNKLRKLPCSHEYHVHCIDRWLSENS-TCPICRRAVL--S-------*
+>P1;gi|34905296|ref|NP_913995.1| P0577B11.19 [Oryza sativa (japonica... [ score 66 E 2e-10 ] [ range 240 .. 285 ]
+sequence
+--------ECNICFESAKD-PVVTPCGHLFCWPCIYQWLSEHS-DCPVCKGEV-----------*
+>P1;gi|15228830|ref|NP_191828.1| zinc finger (C3HC4-type RING finger... [ score 66 E 2e-10 ] [ range 108 .. 159 ]
+sequence
+--SPL--EECSVCLSEFDDEGRVLPCGHVFHVDCIDTWFRSRS-SCPLCRAPVQ----------*
+>P1;gi|34894514|ref|NP_908582.1| P0551A11.21 [Oryza sativa (japonica... [ score 66 E 2e-10 ] [ range 147 .. 193 ]
+sequence
+---------CAVCLAEFGDKARALPCGHRFHVECIDAWFRENS-TCPLCRADVE----------*
+>P1;gi|33411674|dbj|BAC81443.1| XRnf12C [Xenopus laevis] [ score 66 E 2e-10 ] [ range 769 .. 815 ]
+sequence
+-------KTCSVCITEYTNKLRKLPCSHEYHIHCIDRWLSENS-TCPICRRAV-----------*
+>P1;gi|11358193|pir||T50499 hypothetical protein T22D6.80 - Arabidop... [ score 66 E 2e-10 ] [ range 309 .. 352 ]
+sequence
+---------CAVCKDEMNNKAVQLPCNHKYHSECIVPWLKVRN-TCPVCRYE------------*
+>P1;gi|7486979|pir||T10649 hypothetical protein T13K14.230 - Arabido... [ score 66 E 3e-10 ] [ range 597 .. 638 ]
+sequence
+--------KCPICLS-LYNSAVSLSCNHVFCNACIVKSMKMDA-TCPVCKIP------------*
+>P1;gi|31207677|ref|XP_312805.1| ENSANGP00000016627 [Anopheles gambi... [ score 66 E 3e-10 ] [ range 23 .. 73 ]
+sequence
+--EDS--EKCTICLSEIDNDVRRLPCMHLFHKDCVDQWLVTNK-HCPICRVDIE----------*
+>P1;gi|19113005|ref|NP_596213.1| Zinc finger, C3HC4 type, ring finge... [ score 66 E 3e-10 ] [ range 103 .. 153 ]
+sequence
+---MD--LTCPICYDDMNENATKMPCGHIFGKNCLQKWLENHC-TCPLCRKEV-----------*
+>P1;gi|31198785|ref|XP_308340.1| ENSANGP00000010918 [Anopheles gambi... [ score 66 E 3e-10 ] [ range 123 .. 164 ]
+sequence
+----S--DNCAICWEKM-ETARKLPCAHLFHNSCLQSWLEQDT-SCPTCR--------------*
+>P1;gi|9631443|ref|NP_048276.1| ORF MSV205 tryptophan repeat gene fa... [ score 66 E 3e-10 ] [ range 479 .. 523 ]
+sequence
+-------EDCIICLSNEQNNFTKTMCNHIFHKKCIDIWLNNNN-TCPMCRRQI-----------*
+>P1;gi|30689641|ref|NP_568462.2| zinc finger (C3HC4-type RING finger... [ score 66 E 3e-10 ] [ range 463 .. 517 ]
+sequence
+--DDD--VKCSICQEEDGDEVGTLPCQHKYHVSCAQQWLRMKN-WCPICKTSAE--SQPH----*
+>P1;gi|21645888|gb|AAM71248.1| ring-H2 zinc finger protein [Zea mays] [ score 65 E 3e-10 ] [ range 98 .. 147 ]
+sequence
+--------ECAVCLSEVGDKVRTLPCSHGFHVECIDMWFHSHD-TCPLCRAPVG--DL------*
+>P1;gi|42409383|dbj|BAD10697.1| unknown protein [Oryza sativa (japon... [ score 65 E 4e-10 ] [ range 67 .. 120 ]
+sequence
+VSEPA--TACAICKDDLAAPARRLPCGHLYHSECIVQWLEMRN-SCPVCRSRLP--S-------*
+>P1;gi|15219895|ref|NP_173666.1| zinc finger (C3HC4-type RING finger... [ score 65 E 4e-10 ] [ range 117 .. 161 ]
+sequence
+--------ECPVCLNEFEDTLRLIPCCHVFHPGCIDAWLRSQT-TCPLCRA-------------*
+>P1;gi|38106976|gb|EAA53210.1| hypothetical protein MG07487.4 [Magna... [ score 65 E 4e-10 ] [ range 1188 .. 1235 ]
+sequence
+--EES--RICPICQTEITNGVMTM-CGHQFDKDCLLEWLKRAP-NCPTCKRGVQ----------*
+>P1;gi|32493110|gb|AAP85546.1| putative RING-H2 zinc finger protein ... [ score 65 E 5e-10 ] [ range 30 .. 78 ]
+sequence
+----D--DACSICLEAFSDPSTLTGCKHEFHLQCILEWCQRSS-QCPMCWQPIS----------*
+>P1;gi|5931955|gb|AAD56722.1| autocrine motility factor receptor [Ho... [ score 65 E 5e-10 ] [ range 334 .. 379 ]
+sequence
+LAVNN--DDCAICWDSM-QAARKLPCGHLFHNSCLRSWLEQDT-SCPTCR--------------*
+>P1;gi|9633890|ref|NP_052029.1| gp143R [Rabbit fibroma virus] >gi|46... [ score 65 E 5e-10 ] [ range 170 .. 225 ]
+sequence
+----G--EECAICMEPIYNKSVLSHCNHIFCIECIDRWKKQNN-KCPVCRTIFI--SV------*
+>P1;gi|38564242|gb|AAR23700.1| At1g65040 [Arabidopsis thaliana] [ score 65 E 5e-10 ] [ range 285 .. 333 ]
+sequence
+LSSND--ATCIICREEMT-SAKKLVCGHLFHVHCLRSWLERQN-TCPTCRALV-----------*
+>P1;gi|28393716|gb|AAO42269.1| putative RING-H2 zinc finger protein ... [ score 65 E 5e-10 ] [ range 143 .. 198 ]
+sequence
+--------ECSVCLNEFEDTLRLIPCCHVFHPGCIDAWLRSHT-TCPLCRAPGE--SIV-----*
+>P1;gi|7670362|dbj|BAA95033.1| unnamed protein product [Mus musculus] [ score 65 E 5e-10 ] [ range 273 .. 321 ]
+sequence
+---DG--DSCAVCIEKPNDLVRILTCNHIFHKTCVDPWLLEHR-TCPMCKCDI-----------*
+>P1;gi|15220366|ref|NP_176889.1| zinc finger (C3HC4-type RING finger... [ score 64 E 6e-10 ] [ range 300 .. 351 ]
+sequence
+---------CIICWTEFSSSRGILPCGHRFCYSCIQKWARKKT-TCPLCKSNFI--TI------*
+>P1;gi|43132666|gb|EAC32157.1| unknown [environmental sequence] [ score 65 E 6e-10 ] [ range 26 .. 73 ]
+sequence
+-------KECLICLDEIGGMAVKLPCGHLYHRACVVEWLSKHC-TCPVCRYEVE----------*
+>P1;gi|37805183|gb|AAH60333.1| MGC68459 protein [Xenopus laevis] [ score 64 E 6e-10 ] [ range 330 .. 371 ]
+sequence
+----S--DDCAICWDSM-QSARKLPCGHLFHNSCLRSWLEQDT-SCPTCR--------------*
+>P1;gi|27721149|ref|XP_236533.1| similar to hypothetical protein FLJ... [ score 64 E 6e-10 ] [ range 273 .. 321 ]
+sequence
+---DG--DSCAVCIEKPNDVVRILTCNHIFHKTCVDPWLLEHR-TCPMCKCDI-----------*
+>P1;gi|15234736|ref|NP_192444.1| zinc finger (C3HC4-type RING finger... [ score 64 E 6e-10 ] [ range 155 .. 206 ]
+sequence
+-------EPCSICLESLVSGPTRMTCSHVFHNGCLLEWLKRKN-TCPLCRTEIY--D-------*
+>P1;gi|21355757|ref|NP_649859.1| CG11982-PA [Drosophila melanogaster... [ score 64 E 6e-10 ] [ range 252 .. 294 ]
+sequence
+--------QCSICWDDFKETVRKLPCSHLYHENCIVPWLNLHS-TCPICR--------------*
+>P1;gi|15227643|ref|NP_180545.1| zinc finger (C3HC4-type RING finger... [ score 64 E 6e-10 ] [ range 259 .. 303 ]
+sequence
+-------EMCSICLEEFDDSIVALPCGHEFDDECALKWFETNH-DCPLCRF-------------*
+>P1;gi|34911538|ref|NP_917116.1| P0421H07.18 [Oryza sativa (japonica... [ score 64 E 7e-10 ] [ range 255 .. 304 ]
+sequence
+---DD--QECCICLAQYKEEVRQLPCTHMFHLKCVDRWLRIIS-SCPLCKQELS----------*
+>P1;gi|4928401|gb|AAD33583.1| RING-H2 zinc finger protein ATL5 [Arab... [ score 64 E 7e-10 ] [ range 108 .. 159 ]
+sequence
+--SPL--EECSVCLSEFEDEGRVLPCCHVFHVDCIDTWFRSRS-SCPLCRAPVQ----------*
+>P1;gi|15233281|ref|NP_188230.1| zinc finger (C3HC4-type RING finger... [ score 64 E 7e-10 ] [ range 280 .. 333 ]
+sequence
+-ATPE--ETCIICREEMTN-AKKLICGHLFHVHCLRSWLERQQ-TCPTCRALV-----------*
+>P1;gi|15230241|ref|NP_188523.1| zinc finger (C3HC4-type RING finger... [ score 64 E 7e-10 ] [ range 156 .. 201 ]
+sequence
+---------CAVCLLEFGDYVRTLPCFHAFHLECIDEWLRSHP-NCPLCRTAI-----------*
+>P1;gi|42545863|gb|EAA68706.1| hypothetical protein FG00316.1 [Gibbe... [ score 64 E 8e-10 ] [ range 348 .. 399 ]
+sequence
+--TSG--QQCSICTEDFKEDVRVLPCKHQFHPACIDPWLNVSG-TCPLCRYDLR----------*
+>P1;gi|19112973|ref|NP_596181.1| zf-C3HC4 ring finger protein [Schiz... [ score 64 E 8e-10 ] [ range 522 .. 569 ]
+sequence
+----D--ERCLVCLSELNDECRRLKCNHFFHRECIDQWLSSQN-SCPLCRT-------------*
+>P1;gi|31200325|ref|XP_309110.1| ENSANGP00000020505 [Anopheles gambi... [ score 64 E 8e-10 ] [ range 244 .. 291 ]
+sequence
+---PG--RNCALCMDTA-QAITVTQCGHLFCWQCILHWLDQRQ-VCPICRESVK--K-------*
+>P1;gi|15239865|ref|NP_199155.1| zinc finger (C3HC4-type RING finger... [ score 64 E 8e-10 ] [ range 135 .. 184 ]
+sequence
+----S--QECSVCLSEFQDERIIPNCSHLFHIDCIDVWLQNNA-NCPLCRTRVS----------*
+>P1;gi|15239131|ref|NP_199108.1| zinc finger (C3HC4-type RING finger... [ score 64 E 9e-10 ] [ range 633 .. 679 ]
+sequence
+---DA--EPCCVCQEEYTEGEGTLECGHEFHSQCIKEWLKQKN-LCPICKT-------------*
+>P1;gi|15226628|ref|NP_182278.1| zinc finger (C3HC4-type RING finger... [ score 64 E 9e-10 ] [ range 103 .. 162 ]
+sequence
+--EEK--EECSVCLSEFEDEGRLLPCGHSFHVDCIDTWFRSRS-TCPLCRAPVQ--PPFQVIET*
+>P1;gi|42549233|gb|EAA72076.1| hypothetical protein FG08499.1 [Gibbe... [ score 64 E 1e-09 ] [ range 610 .. 663 ]
+sequence
+--------ECVVCLEEYVDGVMSLPCGHEFHVECITPWLTRRR-TCPICKGDVR--SLAH----*
+>P1;gi|31215747|ref|XP_316088.1| ENSANGP00000012621 [Anopheles gambi... [ score 64 E 1e-09 ] [ range 130 .. 175 ]
+sequence
+--------ECNICLDTAKDAVVSM-CGHLFCWPCIHQWMNGRN-TCPVCKSSIS--K-------*
+>P1;gi|13752371|gb|AAK38637.1| ring finger-H2 protein [Xenopus laevis] [ score 64 E 1e-09 ] [ range 866 .. 917 ]
+sequence
+--DTE--EKCTICLSEEGEDVRRLPCMHLFHQVCVDQWLITNK-KCPICRVDID--T-------*
+>P1;gi|15226553|ref|NP_179155.1| zinc finger (C3HC4-type RING finger... [ score 64 E 1e-09 ] [ range 654 .. 699 ]
+sequence
+-------EPCCICQEEYGDNLGTLKCGHEFHKDCIKQWVMIKN-LCPICKTE------------*
+>P1;gi|7486783|pir||T05064 hypothetical protein M3E9.170 - Arabidops... [ score 64 E 1e-09 ] [ range 224 .. 272 ]
+sequence
+--SES--LQCSICLDDFGSEAKEMPCKHKFHIRCIVPWLELHS-SCPVCRYE------------*
+>P1;gi|45382265|ref|NP_990159.1| LIM domain interacting RING finger ... [ score 64 E 1e-09 ] [ range 537 .. 583 ]
+sequence
+-------KTCSVCITEYTNKLRKLPCSHEYHVHCIARWLSENS-TCPICRRAV-----------*
+>P1;gi|18092342|gb|AAL59234.1| ring-H2 zinc finger protein [Zea mays] [ score 64 E 1e-09 ] [ range 98 .. 147 ]
+sequence
+--------ECAVCLSEVGEKVRTLPCSHGFHVECIDMWFHSHD-TCPLCRAPVG--DL------*
+>P1;gi|38345496|emb|CAD41707.2| OSJNBa0010D21.9 [Oryza sativa (japon... [ score 64 E 1e-09 ] [ range 614 .. 661 ]
+sequence
+-SVEE--EPCCICQEEDGDDLGTLDCGHDFHVGCVRQWLVVKN-TCPICK--------------*
+>P1;gi|39581463|emb|CAE67993.1| Hypothetical protein CBG13603 [Caeno... [ score 64 E 1e-09 ] [ range 432 .. 481 ]
+sequence
+--EED--DTCTVCLNNFGESIRKLPCNHLFHPECIYKWLDINK-KCPMCREEI-----------*
+>P1;gi|6324561|ref|NP_014630.1| Ubiquitin-protein ligase for endopla... [ score 64 E 1e-09 ] [ range 343 .. 403 ]
+sequence
+-ANDD--NICIICMDELNKKPKRLPCGHILHLSCLKNWMERSQ-TCPICRLPV-----------*
+>P1;gi|15236699|ref|NP_193525.1| zinc finger (C3HC4-type RING finger... [ score 64 E 1e-09 ] [ range 1053 .. 1098 ]
+sequence
+---------CSICLGEFNESLRLLPCNHTFHVVCIDRWLKSHS-NCPLCRAKI-----------*
+>P1;gi|40741249|gb|EAA60439.1| hypothetical protein AN4637.2 [Asperg... [ score 64 E 1e-09 ] [ range 677 .. 724 ]
+sequence
+--------ECVVCLEEYIDGVMSLPCGHEFHVECITPWLTRRR-TCPICKGDV-----------*
+>P1;gi|7662486|ref|NP_055716.1| ring finger protein 44 [Homo sapiens... [ score 63 E 1e-09 ] [ range 380 .. 427 ]
+sequence
+---------CVVCFSDFRQLLRVLPCNHEFHTKCVDKWLKANR-TCPICRADAS--EV------*
+>P1;gi|24636593|dbj|BAC22752.1| CiGl [Ciona intestinalis] [ score 63 E 1e-09 ] [ range 247 .. 298 ]
+sequence
+-SNTS--EQCAICLEVFNEELRVIPCSHEFHKHCVDPWLKEKL-TCPLCNFNI-----------*
+>P1;gi|24645397|ref|NP_649902.2| CG9381-PA [Drosophila melanogaster]... [ score 63 E 1e-09 ] [ range 772 .. 813 ]
+sequence
+---------CVVCMCDFRQLLRVLPCSHEFHAKCVDKWLRSNR-TCPICR--------------*
+>P1;gi|15228322|ref|NP_190386.1| hypoxia-responsive family protein /... [ score 63 E 1e-09 ] [ range 207 .. 254 ]
+sequence
+---------CAVCLNEFSDTLRLLPCSHAFHLHCIDTWLLSNS-TCPLCRRSLS--T-------*
+>P1;gi|20466834|gb|AAM20734.1| unknown protein [Arabidopsis thaliana] [ score 63 E 1e-09 ] [ range 440 .. 485 ]
+sequence
+-------EPCTICQESFKNEEKTLDCGHEYHAECLEKWLIVKN-VCPICKSE------------*
+>P1;gi|34851554|ref|XP_222474.2| similar to KIAA1214 protein [Rattus... [ score 63 E 1e-09 ] [ range 161 .. 207 ]
+sequence
+-------DNCAVCIEKPSDVVRILPCRHLFHKSCVDPWLLDHR-TCPMCKMNI-----------*
+>P1;gi|6729030|gb|AAF27026.1| putative RING-H2 zinc finger protein A... [ score 63 E 2e-09 ] [ range 121 .. 165 ]
+sequence
+--------ECAICLNEFEDTLRLLPCDHVFHPHCIDAWLEAHV-TCPVCRA-------------*
+>P1;gi|34785396|gb|AAH57411.1| Unknown (protein for MGC:63893) [Dani... [ score 63 E 2e-09 ] [ range 327 .. 372 ]
+sequence
+LAANN--DDCAICWDSMT-TARKLPCGHLFHNSCLRSWLEQDT-SCPTCR--------------*
+>P1;gi|15220938|ref|NP_175785.1| zinc finger (C3HC4-type RING finger... [ score 63 E 2e-09 ] [ range 119 .. 168 ]
+sequence
+--------ECAVCLSDLGDKARVLPCNHGFHVDCIDMWFQSHS-TCPLCRNTVG--SV------*
+>P1;gi|40788314|dbj|BAA31621.2| KIAA0646 protein [Homo sapiens] [ score 63 E 2e-09 ] [ range 403 .. 452 ]
+sequence
+--------QCIICSEYFI-EAVTLNCAHSFCSYCINEWMKRKI-ECPICRKDIK--SKTYSL--*
+>P1;gi|9633779|ref|NP_051857.1| m143R [Myxoma virus] >gi|6523998|gb|... [ score 63 E 2e-09 ] [ range 170 .. 225 ]
+sequence
+----G--EECAICMEPVYAKPVLSHCNHVFCIECIDRWKKQNN-KCPVCRTIFV--SV------*
+>P1;gi|42553289|gb|EAA76132.1| hypothetical protein FG07413.1 [Gibbe... [ score 63 E 2e-09 ] [ range 1092 .. 1148 ]
+sequence
+-SNEP--RMCVICQTPFT-IGVLTVCGHQFCKECIKLWFKSHH-NCPVCKMELK--SNLHDIT-*
+>P1;gi|25407810|pir||H85474 hypothetical protein AT4g40070 [imported... [ score 63 E 2e-09 ] [ range 122 .. 169 ]
+sequence
+--------ECAICLNELEDHVRLLPCNHLFHIDCIDTWLYSHA-TCPVCRSNLT----------*
+>P1;gi|23451086|gb|AAN32654.1| RING-H2 protein [Medicago sativa] [ score 63 E 2e-09 ] [ range 83 .. 128 ]
+sequence
+---------CAVCLSKFNDLLRLLPCCHAFHTECIDAWLASNQ-TCPLCRSSV-----------*
+>P1;gi|34872998|ref|XP_340876.1| similar to RIKEN cDNA 0610013E23 [R... [ score 63 E 2e-09 ] [ range 511 .. 559 ]
+sequence
+-SDMD--GICPICQAEF-QKPVLLFCQHIFCEECITLWFNREK-TCPLCRTVIS----------*
+>P1;gi|15219561|ref|NP_174766.1| zinc finger (C3HC4-type RING finger... [ score 63 E 2e-09 ] [ range 127 .. 171 ]
+sequence
+--------ECAICLNEFEDEETLPPCSHAFHASCIDVWLSSRS-TCPVCRA-------------*
+>P1;gi|42554847|gb|EAA77690.1| hypothetical protein FG09828.1 [Gibbe... [ score 63 E 2e-09 ] [ range 641 .. 681 ]
+sequence
+-------EECAICYDNPNDPVITT-CKHVFCRGCIIRAIQIQH-KCPMCR--------------*
+>P1;gi|30424858|ref|NP_780435.1| RIKEN cDNA 4930555P18 [Mus musculus... [ score 62 E 2e-09 ] [ range 542 .. 589 ]
+sequence
+--EID--DVCAICYHEFTTSARITPCNHYFHALCLRKWLYIQD-TCPMCHQKV-----------*
+>P1;gi|7498826|pir||T16028 hypothetical protein F10D7.5 - Caenorhabd... [ score 62 E 3e-09 ] [ range 768 .. 824 ]
+sequence
+--NEG--DECTICMDAPVN-SVLYTCGHMMCFECGRRLLTTKG-TCPICRAPVQ--DVIKTYKS*
+>P1;gi|30017403|ref|NP_835188.1| promyelocytic leukemia [Mus musculu... [ score 112 E 3e-24 ] [ range 54 .. 109 ]
+sequence
+QE-EFQFLRCPSCQAQAKCPKLL-PCLHTLCSGCLEAP----GLQCPICKAPG--QADANGEAL*
+>P1;gi|34863668|ref|XP_236296.2| similar to promyelocytic leukemia p... [ score 111 E 4e-24 ] [ range 72 .. 127 ]
+sequence
+KE-EFQFLRCPGCQTQAKCPKLL-PCLHTLCSGCLEAP----GLQCPICQAPG--SANANAEAL*
+>P1;gi|12407375|gb|AAG53476.1| tripartite motif protein TRIM3 isofor... [ score 85 E 4e-16 ] [ range 18 .. 63 ]
+sequence
+-----QFLVCSICLDRYQCPKVL-PCLHTFCERCLQSL----TLSCPVCR--------------*
+>P1;gi|13446227|ref|NP_056086.1| tripartite motif-containing 2; trip... [ score 85 E 5e-16 ] [ range 19 .. 64 ]
+sequence
+-----QFLICSICLERYKNPKVL-PCLHTFCERCLQSL----TLSCPVCR--------------*
+>P1;gi|33468961|ref|NP_061368.1| tripartite motif protein 3; ring fi... [ score 83 E 2e-15 ] [ range 18 .. 63 ]
+sequence
+-----QFLVCSICLDRYRCPKVL-PCLHTFCERCLQSL----TLSCPVCR--------------*
+>P1;gi|39585013|emb|CAE62664.1| Hypothetical protein CBG06802 [Caeno... [ score 66 E 2e-10 ] [ range 39 .. 85 ]
+sequence
+-----QLLTCPICLDRYKQPKLL-PCQHTFCYPCLESC----ALKCPECRA-------------*
+>P1;gi|22024206|ref|NP_611390.2| CG15105-PA [Drosophila melanogaster... [ score 57 E 1e-07 ] [ range 2 .. 53 ]
+sequence
+-E-QFQLLTCCVCLDRYRIPKLL-PCQHSFCEPCMEGL----QVKCPECRA-------------*
+>P1;gi|31199355|ref|XP_308625.1| ENSANGP00000018884 [Anopheles gambi... [ score 52 E 3e-06 ] [ range 2 .. 53 ]
+sequence
+-E-QFQLLTCCVCLDRYRNPKLL-PCQHSFCEPCMDGL----QVKCPECRA-------------*
+>P1;gi|28278996|gb|AAH45615.1| A130009K11Rik protein [Mus musculus] [ score 52 E 4e-06 ] [ range 18 .. 71 ]
+sequence
+------FLACKICLEQLHTPKTL-PCLHTYCQDCLAQL----DIRCPECREIV--PVPAEGVA-*
+>P1;gi|33869766|gb|AAH05847.2| TRIM56 protein [Homo sapiens] [ score 51 E 5e-06 ] [ range 117 .. 170 ]
+sequence
+------FLACKICLEQLRAPKTL-PCLHTYCQDCLAQL----AVRCPECRETV--PVPPEGVA-*
+>P1;gi|32564296|ref|NP_493768.3| NHL domain containing (nhl-3) [Caen... [ score 50 E 2e-05 ] [ range 22 .. 83 ]
+sequence
+------FLTCSTCLYTYRKPKLL-PCSHSVCLFCVQPP----TLRCPLCRCPI--PAGG-----*
+>P1;gi|7508991|pir||T32840 hypothetical protein W04H10.3 - Caenorhab... [ score 49 E 2e-05 ] [ range 110 .. 171 ]
+sequence
+------FLTCSTCLYTYRKPKLL-PCSHSVCLFCVQPP----TLRCPLCREVC--PIPAGG---*
+>P1;gi|1399466|gb|AAB03270.1| zinc finger protein [ score 49 E 3e-05 ] [ range 80 .. 118 ]
+sequence
+---------CPVCLDYYMLPVTI-PCGHTFCRYCIRLL----GKKCPVCR--------------*
+>P1;gi|34872516|ref|XP_216592.2| similar to hypothetical protein FLJ... [ score 48 E 8e-05 ] [ range 23 .. 64 ]
+sequence
+-------LVCPLCHTQYEHPCLL-DCFHDFCAGCLRGR----ALSCPLCQ--------------*
+>P1;gi|42542558|gb|AAH66378.1| Unknown (protein for MGC:77306) [Dani... [ score 47 E 1e-04 ] [ range 307 .. 346 ]
+sequence
+--------ICPICQADFKQPRVL-VCQHIFCEECIAQW----LNQCPLCR--------------*
+>P1;gi|26324804|dbj|BAC26156.1| unnamed protein product [Mus musculu... [ score 47 E 1e-04 ] [ range 13 .. 59 ]
+sequence
+---------CSICLGRYRDPVTL-PCGHSFCGNCIQSC----EKSCPECRQPF--PEGA-----*
+>P1;gi|38079060|ref|XP_131865.3| similar to hypothetical protein FLJ... [ score 47 E 1e-04 ] [ range 23 .. 64 ]
+sequence
+-------LVCPLCHGQYERPCLL-DCFHDFCTGCLRGR----ALSCPLCQ--------------*
+>P1;gi|30842804|ref|NP_851594.1| tripartite motif protein 50 [Rattus... [ score 47 E 1e-04 ] [ range 14 .. 57 ]
+sequence
+-------LQCPICLEVFKEPLML-QCGHSYCKNCLDSL----SLRCPVCR--------------*
+>P1;gi|29465650|gb|AAL91072.1| tripartite motif protein 50 isoform b... [ score 46 E 1e-04 ] [ range 13 .. 57 ]
+sequence
+------WLQCPICLEVFKEPLML-QCGHSYCKGCLVSL----SLRCPVCR--------------*
+>P1;gi|14149754|ref|NP_075722.1| tripartite motif protein 13; ret fi... [ score 46 E 2e-04 ] [ range 8 .. 63 ]
+sequence
+-------LTCPICCSLFDDPRVL-PCSHNFCKKCLEGL----PFKCPTCRKET--SA-------*
+>P1;gi|27436877|ref|NP_775107.1| tumor suppressor TSBF1; mouse RING ... [ score 46 E 2e-04 ] [ range 8 .. 61 ]
+sequence
+-------LTCPICYSIFEDPRVL-PCSHTFCRNCLEAS----GLKCPNCRS-------------*
+>P1;gi|29465654|gb|AAL91074.1| tripartite motif protein 50 [Sus scrofa] [ score 46 E 3e-04 ] [ range 14 .. 57 ]
+sequence
+-------LQCPVCLEVFKEPLML-QCGHSYCKGCLLSL----SLRCPVCR--------------*
+>P1;gi|24660416|ref|NP_729296.1| CG32369-PA [Drosophila melanogaster... [ score 46 E 3e-04 ] [ range 176 .. 221 ]
+sequence
+-E-DFDPLMCPLCSDILRCPVTT-NCGHTFCRQCCETI----T-QCNICQVRF--P--------*
+>P1;gi|28317023|gb|AAO39531.1| RE22018p [Drosophila melanogaster] >g... [ score 45 E 4e-04 ] [ range 5 .. 43 ]
+sequence
+-------LRCPTCKQLYANPVLL-PCFHALCLGC--AL----DIQTPY--SPG--SA-------*
+>P1;gi|553878|gb|AAA37320.1| B-raf oncogene [ score 44 E 0.001 ] [ range 51 .. 80 ]
+sequence
+---------CAVCHQQSRVPKLL-PCLHSFCQRCLPAP--------------------------*
+>P1;gi|34857519|ref|XP_345222.1| similar to RIKEN cDNA 2310035M22 [R... [ score 44 E 0.001 ] [ range 8 .. 61 ]
+sequence
+-------LTCPICYSIFDDPRVL-PCSHTFCRNCLQAS----GLKCPNCRS-------------*
+>P1;gi|26345516|dbj|BAC36409.1| unnamed protein product [Mus musculus] [ score 44 E 0.001 ] [ range 27 .. 54 ]
+sequence
+---------CPTCLRLFKVPRLL-PCLHTVCTTCLEKL--------------------------*
+>P1;gi|4557841|ref|NP_000439.1| recombination activating gene 1 [Hom... [ score 133 E 1e-30 ] [ range 284 .. 344 ]
+sequence
+PEHFVKSISCQICEHILADPVET-NCKHVFCRVCILRCLKVMGSYCPSCRYPCFPTDLESPV--*
+>P1;gi|34223813|gb|AAQ63075.1| recombination activating gene 1 [Onda... [ score 132 E 2e-30 ] [ range 241 .. 301 ]
+sequence
+PAPFVKAISCQICEHILADPVET-TCKHVFCRICILRCLKVMGSYCPSCRYPCFPTDLESPV--*
+>P1;gi|34597850|gb|AAP03682.1| recombination activating protein 1 [B... [ score 132 E 2e-30 ] [ range 248 .. 308 ]
+sequence
+PVDFIKSISCQICEHILADPVET-TCRHLFCRTCILKCIKVMGSYCPSCWYPCFPTDLVTPV--*
+>P1;gi|34223831|gb|AAQ63084.1| recombination activating gene 1 [Iren... [ score 130 E 6e-30 ] [ range 252 .. 312 ]
+sequence
+PEHFVKSISCRICEHILADPVET-SCKHVFCRICLLRCLKVMGSYCPSCRYPCFPTDLESPV--*
+>P1;gi|27544470|dbj|BAC54968.1| recombination activating protein 1 [... [ score 130 E 1e-29 ] [ range 284 .. 344 ]
+sequence
+PAHFVKSISCQICEHILADPVET-SCKHVFCRICILRCLKVMGSSCPSCHYPCFPTDLESPV--*
+>P1;gi|4973163|gb|AAD34952.1| recombination activating protein 1 [Ti... [ score 129 E 1e-29 ] [ range 253 .. 313 ]
+sequence
+PADFIKSISCQVCEHILADPVET-TCRHLFCRTCILKCIKVMGSYCPSCWYPCFPTDLVSPV--*
+>P1;gi|18845830|gb|AAL18092.1| recombination activating protein 1 [A... [ score 129 E 1e-29 ] [ range 248 .. 308 ]
+sequence
+PEDFIKSLSCQICEHILADPVET-TCRHLFCRTCILKCIKVMGSYCPSCWYPCFPTDLEIPV--*
+>P1;gi|37932537|gb|AAP76408.1| RAG1 protein [Ratufa bicolor] [ score 129 E 2e-29 ] [ range 253 .. 313 ]
+sequence
+PAHFVKSISCQICEHILADPVET-SCKHVFCRICILRCLKIMGSYCPSCQYPCFPTDLETPV--*
+>P1;gi|34223807|gb|AAQ63072.1| recombination activating gene 1 [Loph... [ score 129 E 2e-29 ] [ range 248 .. 308 ]
+sequence
+PEAFVKSISCQICEHILADPVET-SCKHLFCRICILRCLKVMGSYCPTCRYPCFPLDLVSPV--*
+>P1;gi|18845948|gb|AAL18151.1| recombination activating protein 1 [T... [ score 129 E 2e-29 ] [ range 243 .. 303 ]
+sequence
+PIDFIKSISCQICDHILADPVET-TCRHLFCRTCILKCIKLMGSYCPSCWYPCFPTDLVTPV--*
+>P1;gi|34597816|gb|AAP03665.1| recombination activating protein 1 [C... [ score 129 E 3e-29 ] [ range 248 .. 308 ]
+sequence
+PAHFIKSISCQICEHILADPVET-TCRHLFCRICILKCIKAMGSYCPSCWYPCFPTDLVTPV--*
+>P1;gi|18845922|gb|AAL18138.1| recombination activating protein 1 [P... [ score 128 E 3e-29 ] [ range 248 .. 308 ]
+sequence
+PVDFIKAISCQICEHILADPVET-VCRHLFCRTCILKCLKVMGSYCPSCWYPCFPTDLVTPV--*
+>P1;gi|18845854|gb|AAL18104.1| recombination activating protein 1 [C... [ score 127 E 7e-29 ] [ range 248 .. 308 ]
+sequence
+PVDFIKSISCQICEHILADPVET-TCRHLFCRTCILKCIRVLGSYCPSCWYPCFPTDLVIPV--*
+>P1;gi|18845900|gb|AAL18127.1| recombination activating protein 1 [O... [ score 127 E 7e-29 ] [ range 248 .. 308 ]
+sequence
+PVDFIKSLSCQICDHILADPVET-TCRHLFCRTCILKCIRVMGSYCPSCLYPCFPTDLVTPV--*
+>P1;gi|4973161|gb|AAD34950.1| recombination activating protein 1 [Al... [ score 127 E 7e-29 ] [ range 253 .. 313 ]
+sequence
+PVDFVKAISCQICEHILSDPVET-TCRHLFCRTCILKCLKVMGSYCPSCLYPCFPTDLVTPV--*
+>P1;gi|18845916|gb|AAL18135.1| recombination activating protein 1 [P... [ score 127 E 9e-29 ] [ range 248 .. 308 ]
+sequence
+PADFIKSISCQICEHVLADPVEA-TCRHLFCRTCILKCIKVMGSYCPSCWYPCFPTDLVTPV--*
+>P1;gi|18845866|gb|AAL18110.1| recombination activating protein 1 [F... [ score 127 E 9e-29 ] [ range 248 .. 308 ]
+sequence
+PIDFIKSISCQICDHILADPVET-TCRHLFCRTCILKCIKVVGSYCPSCWYPCFPTDLVTPV--*
+>P1;gi|18845936|gb|AAL18145.1| recombination activating protein 1 [R... [ score 127 E 9e-29 ] [ range 248 .. 308 ]
+sequence
+PVDFIKSVSCQICDHILADPVET-TCRHLFCRTCILKCIRIMGSYCPSCWYPCFPPDLVTPV--*
+>P1;gi|131826|sp|P24271|RAG1_CHICK V(D)J recombination activating pr... [ score 126 E 1e-28 ] [ range 280 .. 340 ]
+sequence
+PADFIKSISCQICEHILADPVET-TCRHLFCRTCILSCIRVMGCYCPSCWYPCFPTDLVTPV--*
+>P1;gi|18845860|gb|AAL18107.1| recombination activating protein 1 [D... [ score 126 E 1e-28 ] [ range 248 .. 308 ]
+sequence
+PVDFIKSISCQICDHILADPVET-TCRHLFCKTCVLKCIRVMGSYCPSCWYPCFPTDLVTPV--*
+>P1;gi|1262924|gb|AAB51657.1| recombination-activating protein [ score 125 E 3e-28 ] [ range 288 .. 347 ]
+sequence
+PVDFVKAISCQICEHILTDPVET-TCKHLFCRTCILRCLKVMGSYCPSCQYPCFSTDVESP---*
+>P1;gi|14041609|emb|CAC20851.2| V(D)J recombinase subunit [Pleurodel... [ score 125 E 3e-28 ] [ range 318 .. 378 ]
+sequence
+PEDFIKSISCAVCQHILADPVQT-TCKHLFCRICLLKCLKLMGSYCPSCKYPCFPTDLATPV--*
+>P1;gi|13345171|gb|AAK19233.1| recombination activating protein 1 [L... [ score 124 E 7e-28 ] [ range 286 .. 343 ]
+sequence
+---LVKSISCQICEHILADPVET-SCKHVFCRICILMCLKVMGSYCPSCQYPCFPTDLESPV--*
+>P1;gi|2501723|sp|Q91829|RAG1_XENLA V(D)J recombination activating p... [ score 122 E 2e-27 ] [ range 285 .. 345 ]
+sequence
+PSDFVKSVSCLVCEHILSDPVQT-SCKHLFCRICILKYIKLMGCYCPSCKYPCFPTDLTVPV--*
+>P1;gi|30314388|gb|AAP12390.1| recombination activating protein 1 [C... [ score 117 E 5e-26 ] [ range 126 .. 186 ]
+sequence
+PVHFVKSISCQICEHILADPVET-SCKHVFCRICILRCLKVMGSYCPSCQYPCFPSDLESPV--*
+>P1;gi|30314366|gb|AAP12379.1| recombination activating protein 1 [D... [ score 117 E 6e-26 ] [ range 123 .. 183 ]
+sequence
+PVHFVKSISCQICEHILADPVVT-SCKHVFCRICILRCLKVMGSYCPSCQYPCFPTDLESPV--*
+>P1;gi|30314354|gb|AAP12373.1| recombination activating protein 1 [L... [ score 117 E 9e-26 ] [ range 126 .. 186 ]
+sequence
+PAHFVKSVSCQVCEHILADPVET-SCKHVFCRICILRCFKVMGNYCPSCRYPCFPTDLESPV--*
+>P1;gi|30314368|gb|AAP12380.1| recombination activating protein 1 [T... [ score 116 E 2e-25 ] [ range 126 .. 186 ]
+sequence
+PVHFVKSISCQICEHILADPVVT-TCKHVFCRICILRCLKVLGSYCPSCRYPCFPTDLESPV--*
+>P1;gi|34100856|gb|AAQ57540.1| recombination activating protein 1 [T... [ score 116 E 2e-25 ] [ range 106 .. 166 ]
+sequence
+PEHFMKSISCQICEHILADPVET-SCKHVFCRVCILRCLKVMGSYCPSCQYPCFPTDLESPV--*
+>P1;gi|30314378|gb|AAP12385.1| recombination activating protein 1 [O... [ score 115 E 2e-25 ] [ range 126 .. 186 ]
+sequence
+PVHFVKSISCQICEHILADPVET-NCKHVFCRICILRCLKVMGSYCPSCQYPCFPTDLESPV--*
+>P1;gi|34100864|gb|AAQ57544.1| recombination activating protein 1 [O... [ score 115 E 2e-25 ] [ range 107 .. 167 ]
+sequence
+PAPFVKSISCQICEHILADPVET-SCKHVFCRVCILRCLKVMGSYCPSCQYPCFPTDLESPV--*
+>P1;gi|30314352|gb|AAP12372.1| recombination activating protein 1 [O... [ score 115 E 2e-25 ] [ range 121 .. 181 ]
+sequence
+PEHFVKSISCQICEHILTDPVET-NCKHVFCRICILRCLKVMGSYCPSCQYPCFPTDLESPV--*
+>P1;gi|34100844|gb|AAQ57534.1| recombination activating protein 1 [E... [ score 115 E 3e-25 ] [ range 106 .. 166 ]
+sequence
+PAHFVKSVSCQICGHILTDPVQT-SCKHVFCRICILRCLKVMGSYCPSCRYACFPTDLESPV--*
+>P1;gi|34100852|gb|AAQ57538.1| recombination activating protein 1 [C... [ score 114 E 4e-25 ] [ range 106 .. 166 ]
+sequence
+PVHFVQSISCQICEHILADPVET-TCKHVFCRICILRCLKVMGSYCPSCQHPCFPTDLESPV--*
+>P1;gi|30314386|gb|AAP12389.1| recombination activating protein 1 [E... [ score 114 E 4e-25 ] [ range 105 .. 165 ]
+sequence
+PVHFVKSISCQICKHILADPVET-SCKHVFCRICILRCLKVMGSYCPSCQYPCFSTDLESPV--*
+>P1;gi|34100874|gb|AAQ57549.1| recombination activating protein 1 [D... [ score 114 E 5e-25 ] [ range 103 .. 163 ]
+sequence
+PVHFVKSISCQICEHILADPVET-SCKHVFCRICILRCLKVMGSYCPSCRYPCFSSDLGSPV--*
+>P1;gi|30314382|gb|AAP12387.1| recombination activating protein 1 [D... [ score 114 E 6e-25 ] [ range 106 .. 166 ]
+sequence
+PVHFLKSISCQICEHILADPVET-SCKHVFCRICILRCLKVTGSYCPSCRYPCFPTDLESPV--*
+>P1;gi|34100870|gb|AAQ57547.1| recombination activating protein 1 [M... [ score 114 E 7e-25 ] [ range 107 .. 167 ]
+sequence
+PVHFVKAISCRICEHILADPVET-SCKHVFCRICILRCLKVMGSYCPSCQYPCFPTDLESPV--*

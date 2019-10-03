@@ -1,0 +1,75 @@
+>P1;2dtr
+structureX:2dtr:   4 : :  64 : :diphtheria toxin repressor:Corynebacterium diphtheriae: 2.0: 1.7
+---LVDTTEMYLRTIYELEEEGVTPLRARIAERLEQSGPTVSQTVARMERDGLVVVASDRSLQM*
+>P1;1fx7a
+structureX:1fx7:   1 :A:  64 :A:iron-dependent repressor:Mycobacterium tuberculosis: 2.00: 21.4
+MNELVDTTEMYLRTIYDLEEEGVTPLRARIAERLDQSGPTVSQTVSRMERDGLLRVAGDRHLEL*
+>P1;gi|23019461|ref|ZP_00059171.1| COG1321: Mn-dependent transcripti... [ score 93 E 2e-18 ] [ range 1 .. 55 ]
+sequence
+---------MYLRTIFELEEEGIVPLRARIAERLRQSGPTVSQTVARMERDGLVRVENDRHLVM*
+>P1;gi|44469978|gb|EAJ49295.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 10 .. 65 ]
+sequence
+--------EEYLLVLYKLQRDGEKAKSLTLANRLDKGAPTVHATVGRMQRDGLIKVNRSKEIQL*
+>P1;gi|43372625|gb|EAD51157.1| unknown [environmental sequence] [ score 91 E 6e-18 ] [ range 10 .. 65 ]
+sequence
+--------EEYLVVLYKLQRDGEKAKSVTLANSLDTSAPTVHATVGRMQRDGLIKVNRSKEIQL*
+>P1;gi|43220361|gb|EAC75748.1| unknown [environmental sequence] [ score 84 E 7e-16 ] [ range 5 .. 60 ]
+sequence
+--------EEYLLTVYNIGRSGEQAKAVTLANRLETSPPTVHATISRMQRDGLVDVKKSKVVTL*
+>P1;gi|44502443|gb|EAJ71130.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 10 .. 65 ]
+sequence
+--------EEYLLVIYKLQRNGEKAKSVTLANSHDTSAPTVHATVGWMQRDGLIKVNRSKEIQL*
+>P1;gi|43211792|gb|EAC71438.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 13 .. 66 ]
+sequence
+--------EEYCETIFELAEDGIDVIQARIVERLEVSRPAVSEMIRKMDGAGLIKMVGNKVL--*
+>P1;gi|43696539|gb|EAF03515.1| unknown [environmental sequence] [ score 54 E 1e-06 ] [ range 7 .. 65 ]
+sequence
+-----EVVEEYLLEIYILNQAGEKVKANKLAAALNSKPSTVFATLQRMKRDDLVKINRSKEITL*
+>P1;gi|44348276|gb|EAI63422.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 30 .. 85 ]
+sequence
+--------EDYVEMIYELINEKGEARSVDLAERFGVSNPTVNASIQRLQKDGLVQTMPYRSIFL*
+>P1;gi|44455203|gb|EAJ38952.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 26 .. 70 ]
+sequence
+------------EAIYHLHEVGIEVKQTRVAEWLDVSRANVSQVIGRMQNNGLVELS-------*
+>P1;gi|44471158|gb|EAJ50086.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 18 .. 64 ]
+sequence
+------------EAIFHLQEVGIEIKQTRVAEWIGVSRANVSQVVGRMQNSGLIEMNDD-----*
+>P1;gi|44504840|gb|EAJ72743.1| unknown [environmental sequence] [ score 49 E 4e-05 ] [ range 30 .. 76 ]
+sequence
+------------EAIYHLQEVGIDLKKTRVADWLQTSRANVSQVIGRMQNSGLVDFGEN-----*
+>P1;gi|15789756|ref|NP_279580.1| transcription repressor; SirR [Halo... [ score 48 E 6e-05 ] [ range 10 .. 61 ]
+sequence
+---LSDVMEDYLKSIYNLEREHEPPIASTIAEYLDVTPPTVTSMAEKLESRGLI----------*
+>P1;gi|44469296|gb|EAJ48817.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 14 .. 63 ]
+sequence
+------------EAIFHLKEAGIELKKTRVADWLGSSRANVSQVIGRMQNSGLVDFGEDLEL--*
+>P1;gi|43742980|gb|EAF25953.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 25 .. 68 ]
+sequence
+------------EAIFHLSEVGIEVKQTRVADWLSVSRANVSQVIGRMQNSGLIEM--------*
+>P1;gi|15827486|ref|NP_301749.1| iron dependent repressor [Mycobacte... [ score 114 E 7e-25 ] [ range 1 .. 64 ]
+sequence
+MNDLVDTTEMYLRTIYDLEEEGVTPLRARIAERLEQSGPTVSQTVSRMERDGLLRVAGNRHLEL*
+>P1;gi|1171105|gb|AAA86056.1| similar to the Corynebacterium dipther... [ score 112 E 2e-24 ] [ range 1 .. 64 ]
+sequence
+MNDLVDTTEMYLRTIYDLEEEGVVPLRARIAERLDQSGPTVSQTVSRMERDGLLHVAGDRHLEL*
+>P1;gi|7110452|gb|AAF36925.1| transcriptional regulatory protein Dtx... [ score 111 E 5e-24 ] [ range 1 .. 64 ]
+sequence
+MKDLVDTTEMYLRTIYDLEEEGVVPLRARIAERLEQSGPTVSQTVARMERDGLLMVAGDRHLEL*
+>P1;gi|21222420|ref|NP_628199.1| iron dependent repressor [Streptomy... [ score 107 E 7e-23 ] [ range 1 .. 64 ]
+sequence
+MSRLIDTTEMYLRTVLELEEEGVVPLRARIAEHLDQSGPTVSQTVARMERDGLLRIAADRHLEL*
+>P1;gi|19553124|ref|NP_601126.1| Mn-dependent transcriptional regula... [ score 107 E 8e-23 ] [ range 1 .. 64 ]
+sequence
+MKDLVDTTEMYLRTIYELEEEGIVPLRARIAERLEQSGPTVSQTVARMERDGLVHVSPDRSLEM*
+>P1;gi|29830398|ref|NP_825032.1| putative iron dependent regulatory ... [ score 105 E 2e-22 ] [ range 1 .. 64 ]
+sequence
+MSGLIDTTEMYLRTILELEEEGVVPMRARIAERLDQSGPTVSQTVARMERDGLVAVASDRHLEL*
+>P1;gi|28493079|ref|NP_787240.1| iron-dependent repressor ideR [Trop... [ score 104 E 4e-22 ] [ range 1 .. 65 ]
+sequence
+MNDLVDTTEMYLRTIVNLEEEGISPIKARISERIGHTAPTVFQTIARMQRDGLLVVSSNKSLIL*
+>P1;gi|21222784|ref|NP_628563.1| iron repressor [Streptomyces coelic... [ score 104 E 5e-22 ] [ range 1 .. 64 ]
+sequence
+MSGLIDTTEMYLRTILELEEEGVVPMRARIAERLDQSGPTVSQTVARMERDGLVSVAADRHLEL*
+>P1;gi|44306839|gb|EAI34525.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 26 .. 69 ]
+sequence
+------------EAIYHLNEVGIEVKQTRVAEWLGVSRANVSQVIGRMQNNGLVEL--------*

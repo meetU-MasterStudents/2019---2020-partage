@@ -1,0 +1,1065 @@
+>P1;1jt6a
+structureX:1jt6:   2 :A:  68 :A:hypothetical transcriptional regulator in QACA 5'region:Staphylococcus aureus: 2.54: 20.9
+--NLKDKILGVAKELFIKNGYNATTTGEIVKLSESSKGNLYYHFKTKENLFLEILNIEESKWQEQWKKE*
+>P1;2tct
+structureX:2tct:   2 : :  67 : :tetracycline repressor protein class D:Escherichia coli: 2.1: 18
+ARLNRESVIDAALELLNETGIDGLTTRKLAQKLGIEQPTLYWHVKNKRALLDALAVEILARHHDYS---*
+>P1;gi|29831244|ref|NP_825878.1| putative TetR-family transcriptiona... [ score 88 E 6e-17 ] [ range 11 .. 72 ]
+sequence
+--DTRQRIQDVALELFSEQGYEKTSLREIAEHLDVTKAALYYHFKTKEEILISLFEDLTRPLDE-----*
+>P1;gi|29828065|ref|NP_822699.1| putative TetR-family transcriptiona... [ score 87 E 1e-16 ] [ range 6 .. 71 ]
+sequence
+--DAREKILTAAQSLIELRGYSALGTAEICKVAGVPKGSFYYFFESKEALALAVLDEHWATQRREWTR-*
+>P1;gi|44339744|gb|EAI57408.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 14 .. 80 ]
+sequence
+--DIRDKLLSAARERFLNTPYSKVTTREIAELAGSNLAMIHYYFGSKEGLYKAVLGDVAEPLDQAWHDE*
+>P1;gi|16759457|ref|NP_455074.1| potential acrAB operon repressor [S... [ score 86 E 2e-16 ] [ range 12 .. 72 ]
+sequence
+---TRQHILDVALRLFSQQGVSATSLAEIANAAGVTRGAIYWHFKNKSDLFSEIWELSESNIGE-----*
+>P1;gi|21224401|ref|NP_630180.1| A-factor receptor homolog [Streptom... [ score 85 E 3e-16 ] [ range 10 .. 74 ]
+sequence
+---TRATIIGAAADLFDRRGYESTTLSEIVAHAGVTKGALYFHFAAKEDLAHAILEIQSRTSRRLAKD-*
+>P1;gi|15893330|ref|NP_346679.1| Transcriptional regulator TetR/AcrR... [ score 85 E 4e-16 ] [ range 4 .. 69 ]
+sequence
+---TKNAIFKSALMIFSKNGYDGATMDEIASNAKVAKGTLYYHFKSKEEIFKYVISEGMNVIREEMEQE*
+>P1;gi|43901284|gb|EAG04905.1| unknown [environmental sequence] [ score 85 E 4e-16 ] [ range 3 .. 66 ]
+sequence
+---TRDRIIHSATELFNDQGERNITTNHIAAHLGISPGNLYYHFRNKEDIIHSIFDQYARHLSDSFT--*
+>P1;gi|21224586|ref|NP_630365.1| gamma-butyrolactone binding protein... [ score 85 E 5e-16 ] [ range 10 .. 65 ]
+sequence
+---TRQTILDAAAQVFEKQGYQAATITEILKVAGVTKGALYFHFQSKEELALGVFDAQE----------*
+>P1;gi|21221796|ref|NP_627575.1| putative tetR-family regulator [Str... [ score 84 E 6e-16 ] [ range 12 .. 80 ]
+sequence
+--DTRQRIQDVALGLFAEQGYEKTSLREIAESLDVTKAALYYHFKTKEEILVSIFEDLSRPLEDEWGRE*
+>P1;gi|16128448|ref|NP_414997.1| acrAB operon repressor [Escherichia... [ score 84 E 8e-16 ] [ range 12 .. 72 ]
+sequence
+---TRQHILDVALRLFSQQGVSSTSLGEIAKAAGVTRGAIYWHFKDKSDLFSEIWELSESNIGE-----*
+>P1;gi|28377824|ref|NP_784716.1| transcription regulator (putative) ... [ score 84 E 8e-16 ] [ range 13 .. 70 ]
+sequence
+-----QAILDTARELFLRNGYDATSTRDIANAIGITQPALYHHFKDKEVIFLAVITTVGAEIR------*
+>P1;gi|15640360|ref|NP_229987.1| transcriptional reguator, TetR fami... [ score 84 E 9e-16 ] [ range 34 .. 97 ]
+sequence
+---TKDRIVHAALELFNQQGERNITTNHIAAHIEISPGNLYYHFRNKQEIVRDIFALYSAELIERFT--*
+>P1;gi|21224630|ref|NP_630409.1| transcriptional regulator [Streptom... [ score 84 E 9e-16 ] [ range 10 .. 74 ]
+sequence
+---TRATIVRAAADLFDRHGYESTSLSEIVAHAGVTKGALYFHFAAKEDLAHAIMEMQSRTFRRLAND-*
+>P1;gi|28899610|ref|NP_799215.1| transcriptional reguator, TetR fami... [ score 84 E 1e-15 ] [ range 3 .. 66 ]
+sequence
+---TRDKIVYAALELFNQHGERNITTNHIADHIEISPGNLYYHFRNKQEIVREIFALYSAELLERFT--*
+>P1;gi|23011113|ref|ZP_00051576.1| COG1309: Transcriptional regulato... [ score 83 E 2e-15 ] [ range 6 .. 74 ]
+sequence
+---TRQQIVDTADRLFYEHGFEATSFADIAKEVGLSRGNFYYHFKTKDEILDAVIAQRMSNTRAAWEQD*
+>P1;gi|29375381|ref|NP_814535.1| transcriptional regulator, TetR fam... [ score 82 E 2e-15 ] [ range 14 .. 75 ]
+sequence
+---TRQIILSVASELFMTKGFKNTSTREIALKANITQPNLYHHFKNKKELYLAVIEELTSRVQEE----*
+>P1;gi|44285612|gb|EAI20335.1| unknown [environmental sequence] [ score 82 E 2e-15 ] [ range 7 .. 68 ]
+sequence
+---TKDKILQASIELFNQQGERCITTNHIAAHLGISPGNLYYHFRNKEDIVRNIFREYAKLLENR----*
+>P1;gi|42781739|ref|NP_978986.1| transcriptional regulator, TetR fam... [ score 82 E 2e-15 ] [ range 12 .. 74 ]
+sequence
+----KEIIAEKATELFSLKGYTRTSIDNIAKASGYSKGHIYYHYKNKEELFVYLAKDSMRNWHDKWE--*
+>P1;gi|21234241|ref|NP_639852.1| putative lactone-dependent transcri... [ score 83 E 2e-15 ] [ range 30 .. 94 ]
+sequence
+---TRAQILEAASEIFASRGYRGASVKDVAERVGMTKGAVYFHFPSKESLAIAVVEEHYARWPAAMEE-*
+>P1;gi|23018495|ref|ZP_00058211.1| COG1309: Transcriptional regulato... [ score 83 E 2e-15 ] [ range 173 .. 237 ]
+sequence
+--DRRTQIIKVATELFREKGYYATSLDDIADRIGFTKPAIYYYFKSKEDVLFAIVNSIVDEALERFH--*
+>P1;gi|44390563|gb|EAI93713.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 3 .. 66 ]
+sequence
+---TRDKIIYASLELFNEHGERNITTNHIAAHLNMSPGNLYYHFRNKEDIIQSIFSLYEAHLESGFQ--*
+>P1;gi|44002677|gb|EAG59413.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 12 .. 72 ]
+sequence
+---TRQHILDVALRMFSQQGVSSTSLAEIAKAAGVTRGAIYWHFKNKSDLFSEIWELAKPNIDE-----*
+>P1;gi|21220186|ref|NP_625965.1| putative tetR transcriptional regul... [ score 82 E 3e-15 ] [ range 68 .. 127 ]
+sequence
+-----QRLLAAATRLFAEQGYDRTSVQEIVEAAGVTKGALYHYFGSKDDLLHEVYARVLRLQQER----*
+>P1;gi|26251111|ref|NP_757151.1| Putative conserved protein [Escheri... [ score 82 E 4e-15 ] [ range 34 .. 97 ]
+sequence
+--SLKEKLLLCAVNEFAEYGYEGARVDNIVKAAGCSKQTVYHHFGNKENLFIEVL---EYTWNDIRQKE*
+>P1;gi|16801620|ref|NP_471888.1| similar to transcription regulator ... [ score 82 E 5e-15 ] [ range 14 .. 77 ]
+sequence
+---TRRKILDTARDLFMEKGYRAVSTREIAKIAKITQPALYHHFEDKESLYIEVVRELTQNIQVEMH--*
+>P1;gi|34495891|ref|NP_900106.1| acrab operon repressor [Chromobacte... [ score 81 E 6e-15 ] [ range 12 .. 76 ]
+sequence
+---TRQQLLDAAEQLFSEQGVSRTTLAEIATAAGLTRGAVYWHFQNKLDLYRAMLDRVSPSFDDMREQ-*
+>P1;gi|2342430|dbj|BAA21859.1| FarA [Streptomyces sp.] [ score 81 E 7e-15 ] [ range 10 .. 68 ]
+sequence
+---TRQAILSAAARVFDERGYQAATISEILTVAGVTKGALYFHFQSKEDLAQGVLTAQNEDL-------*
+>P1;gi|4240425|gb|AAD13556.1| LanK [Streptomyces cyanogenus] [ score 81 E 8e-15 ] [ range 11 .. 62 ]
+sequence
+--NTRDKIQSVALELFIERGYEKTSMREIAEGLGITKAALYYHFKAKEEILVAI---------------*
+>P1;gi|23471465|ref|ZP_00126795.1| COG1309: Transcriptional regulato... [ score 81 E 8e-15 ] [ range 111 .. 166 ]
+sequence
+---TRERIVQTSLELFNQQGERSVTTNHIAAHMEISPGNLYYHFANKQAIIAELFSEYE----------*
+>P1;gi|42779583|ref|NP_976830.1| transcriptional regulator, TetR fam... [ score 80 E 9e-15 ] [ range 8 .. 73 ]
+sequence
+---IKKEIAYKAESLFSQKGYAATSMEEICEITERSKGSIYYHFKSKEELFLFVVKQHTYDWLEKWNEK*
+>P1;gi|27364673|ref|NP_760201.1| Transcriptional regulator [Vibrio v... [ score 80 E 9e-15 ] [ range 3 .. 66 ]
+sequence
+---TREKIVHAALELFNQHGERSITTNHIADHIDISPGNLYYHFRNKQEIVREIFALYAQELIERFT--*
+>P1;gi|29833155|ref|NP_827789.1| putative TetR-family transcriptiona... [ score 80 E 9e-15 ] [ range 17 .. 76 ]
+sequence
+-----QRLLAAATRLFADRGYDRTSVQEIVEAAGVTKGALYHYFGSKDDLLHEVYARVLRVQQER----*
+>P1;gi|20091767|ref|NP_617842.1| transcriptional regulator, TetR fam... [ score 80 E 1e-14 ] [ range 15 .. 79 ]
+sequence
+----REDIINAAEKLFFSRGYDNVSMDEIASEVELSKPALYYYFKDKESLFFAVVNRGVKIFRDITTEE*
+>P1;gi|11356708|pir||T44586 gamma-butyrolactone receptor protein tyl... [ score 80 E 1e-14 ] [ range 10 .. 64 ]
+sequence
+---TRRTIVAAAAAVFDELGYEATTIAEILKRSGVTKGALYFHFTSKEQLAQEVLTSQ-----------*
+>P1;gi|39997760|ref|NP_953711.1| transcriptional regulator, TetR fam... [ score 80 E 1e-14 ] [ range 16 .. 69 ]
+sequence
+---VRRRLLAAATELFTVKGYAATSVREIVEAAGVSKPVLYYWFGNKEGIYLELMTE------------*
+>P1;gi|44451194|gb|EAJ36104.1| unknown [environmental sequence] [ score 80 E 1e-14 ] [ range 12 .. 72 ]
+sequence
+---TRNRILDAAEHVFFEKGVSHTSLADIAQHAGVTRGAIYWHFANKSELFDAMFDRVFLPIDE-----*
+>P1;gi|6002942|gb|AAF00218.1| regulatory protein [Streptomyces fradiae] [ score 80 E 1e-14 ] [ range 6 .. 74 ]
+sequence
+--STRQKIQEVALELFVEQGYEKTSLRGIAERLNVTKPAIYYHFQTKEAILISLFQDLGQPLAEIWAQE*
+>P1;gi|13539230|emb|CAC35723.1| putative AcrR protein [Enterobacter ... [ score 80 E 1e-14 ] [ range 12 .. 68 ]
+sequence
+---TRQLILDVALRLFSQQGVSSTSLAAIAKAAGVTRGAIYWHFKNKSDLFNEIWSLSDA---------*
+>P1;gi|17061768|gb|AAK07686.1| autoregulator receptor protein [Strep... [ score 79 E 2e-14 ] [ range 10 .. 64 ]
+sequence
+---TRRAILVAAAEVFDEVGYEAATISEILKRSGLTKGALYFHFASKEELAQGVLAEQ-----------*
+>P1;gi|28209852|ref|NP_780796.1| transcriptional regulator, tetR fam... [ score 79 E 2e-14 ] [ range 4 .. 65 ]
+sequence
+---TKKLIFKAAIKIFSQNGYNGTTMDDIAKEANVAKGTLYYHFKSKEEIFKFIINEGMNIISEK----*
+>P1;gi|43289628|gb|EAD10670.1| unknown [environmental sequence] [ score 79 E 2e-14 ] [ range 15 .. 74 ]
+sequence
+----KQRILKGALEVFKSNGLEGATMDQIAQQSGFGKATLYYYFKSKEDVFSAIL---EDGWENIWE--*
+>P1;gi|43897095|gb|EAG02700.1| unknown [environmental sequence] [ score 80 E 2e-14 ] [ range 3 .. 63 ]
+sequence
+---TRDRIIEASLQLFNEQGERAVTTNHIAAHLGMSPGNLYYHFRNKQQIIAELFERYAAEAEQ-----*
+>P1;gi|41406892|ref|NP_959728.1| hypothetical protein MAP0794 [Mycob... [ score 80 E 2e-14 ] [ range 7 .. 59 ]
+sequence
+--DTRERIQQVARELFSQRGVQRTSLQDIADRLGITKPALYYHFPSREDLVRSIL--------------*
+>P1;gi|22983741|ref|ZP_00028913.1| COG1309: Transcriptional regulato... [ score 79 E 2e-14 ] [ range 12 .. 72 ]
+sequence
+---TRNSILDAAERVFFEKGVSRTSLADIAQAAGVTRGAIYWHFAHKSDLFTEMFDRVLLPLDE-----*
+>P1;gi|39995315|ref|NP_951266.1| transcriptional regulator, TetR fam... [ score 79 E 3e-14 ] [ range 3 .. 67 ]
+sequence
+---TRERIIETAITLFNEKGTKAVTTNHIAAAMEISPGNLYYHFRNKEEIIRAIFDQMDAVGFEDYEQ-*
+>P1;gi|23111901|ref|ZP_00097464.1| COG1309: Transcriptional regulato... [ score 79 E 3e-14 ] [ range 5 .. 65 ]
+sequence
+--STKQEILKTAKDLFNQRGFNAVSLRDISGVMGISKGNLTYHFKKKEDIIEAILDEMSGQYR------*
+>P1;gi|42964396|gb|EAB49150.1| unknown [environmental sequence] [ score 79 E 3e-14 ] [ range 12 .. 76 ]
+sequence
+---TRERILEAAESVFADNGYHEALVDEIGQRTSISKGGLYFHFPSKEDLFFAVMDRLADKLVSRAEK-*
+>P1;gi|29830248|ref|NP_824882.1| putative gamma-butyrolactone recept... [ score 79 E 3e-14 ] [ range 10 .. 75 ]
+sequence
+---TRQTILVAAAEVFDEVGYEAATISDVLKRSGVTKGALYFHFTSKQELAQAVLAEQVASLPRVPEQE*
+>P1;gi|41408839|ref|NP_961675.1| hypothetical protein MAP2741c [Myco... [ score 78 E 4e-14 ] [ range 14 .. 71 ]
+sequence
+----RERVLTAAYELFSRRGIRAVGTDEVIARAGVARATLYRHFATKNDLVLAVLQRREELW-------*
+>P1;gi|26991683|ref|NP_747108.1| transcriptional regulator, TetR fam... [ score 79 E 4e-14 ] [ range 3 .. 59 ]
+sequence
+---TRDRILECALQLFNQQGEPNVSTLEIANELGISPGNLYYHFHGKEPLVLGLFERFEE---------*
+>P1;gi|29335761|dbj|BAC66444.1| butyrolactone autoregulator receptor... [ score 79 E 4e-14 ] [ range 10 .. 64 ]
+sequence
+---TRRKILVVAASVFDQVGYEAATISDILDQSGLTKGALYFHFGSKEELAQAVLAEQ-----------*
+>P1;gi|22959146|ref|ZP_00006803.1| COG1309: Transcriptional regulato... [ score 79 E 4e-14 ] [ range 15 .. 73 ]
+sequence
+-----ETILDAALEVFSAQGFRGATLDQIAEVAGLSKPNLLYYFPSKEAIHLALLSRLLETWLD-----*
+>P1;gi|44286678|gb|EAI21041.1| unknown [environmental sequence] [ score 78 E 5e-14 ] [ range 2 .. 66 ]
+sequence
+--NTKEKIIHTSISLFNENGERAITTNHIASSLGMSPGNLYYHFKNKEDIIRHIFALYRDHLSTHFK--*
+>P1;gi|23025214|ref|ZP_00064372.1| COG1309: Transcriptional regulato... [ score 78 E 5e-14 ] [ range 16 .. 71 ]
+sequence
+----RQQIIEAATTIFLSKGFEQTTTRDIAKKVNISQPALYHHFGDKESLFVEVISRVGE---------*
+>P1;gi|23060517|ref|ZP_00085417.1| COG1309: Transcriptional regulato... [ score 78 E 5e-14 ] [ range 22 .. 74 ]
+sequence
+----KELILRAASEEFADKGFAATKTSDIAAKAGLPKPNVYYYFKSKENLYREVLES------------*
+>P1;gi|23465833|ref|NP_696436.1| possible TetR-type transcriptional ... [ score 78 E 6e-14 ] [ range 10 .. 71 ]
+sequence
+---TRTRILDAAQRLFMAQGYEHTSIQDIVDELGLSKGAIYHHFKSKEAILEELTNRDNNMQDD-----*
+>P1;gi|481591|pir||S38906 hypothetical protein 4 - Clostridium paste... [ score 78 E 6e-14 ] [ range 4 .. 65 ]
+sequence
+---TKDNIFYSAIKVFSNNGYNGATMDEIASNAGVAKGTLYYHFKSKEEIFKYIIEEGVNLMKNE----*
+>P1;gi|10835922|gb|AAG23849.1| PhaD [Pseudomonas resinovorans] [ score 77 E 7e-14 ] [ range 3 .. 56 ]
+sequence
+---TRDRILECALDLFNRNGEPNVTTLEIATELGISPGNLYYHFHGKEPLVMELFAR------------*
+>P1;gi|22976827|ref|ZP_00022673.1| COG1309: Transcriptional regulato... [ score 77 E 7e-14 ] [ range 7 .. 64 ]
+sequence
+----RDRILDTAARLFYRDGYRGTGIDRIIAESGVAKMSLYRHFPSKNDLIVAYLESRHDYW-------*
+>P1;gi|20806602|ref|NP_621773.1| Transcriptional regulator [Thermoan... [ score 77 E 7e-14 ] [ range 3 .. 69 ]
+sequence
+--STKERIFKAALETFSKRGFYKATMDEIAEAAGVAKGTLYYHFKSKDDILDFLIDEGIKRLKQQAIEE*
+>P1;gi|32455940|ref|NP_862398.1| putative transcriptional repressor ... [ score 77 E 8e-14 ] [ range 27 .. 84 ]
+sequence
+----RERIMATARRLFYTRGINATGIDLVIAEVGVAKGSMYHHFGNKQALVVAYLQQEEATW-------*
+>P1;gi|16123293|ref|NP_406606.1| putative tetR-family transcriptiona... [ score 77 E 8e-14 ] [ range 12 .. 72 ]
+sequence
+---TRQQILDAAVREFSAHGVSRTSLTDIAIAAGVTRGAIYWHFKNKVDLFNEVWELSESKIDQ-----*
+>P1;gi|15888886|ref|NP_354567.1| AGR_C_2887p [Agrobacterium tumefaci... [ score 77 E 9e-14 ] [ range 14 .. 70 ]
+sequence
+--STRDRILDAALDLFNGRGPDRVTTAEIAEAVKINEGNLYYHFRTKELLVLALFARFE----------*
+>P1;gi|41407830|ref|NP_960666.1| hypothetical protein MAP1732c [Myco... [ score 77 E 9e-14 ] [ range 24 .. 86 ]
+sequence
+----RERILDAATEIAAERGYEATSIGLVSAKCGLPASSIYWHFKNKDDLIAAVIERSFADWRKAWQ--*
+>P1;gi|15606341|ref|NP_213720.1| transcriptional regulator (TetR/Acr... [ score 77 E 1e-13 ] [ range 3 .. 67 ]
+sequence
+---TKERILEVSKELFFEKGYQGTSVEEIVKRANLSKGAFYFHFKSKEELITEIIERTHKKIISLFEE-*
+>P1;gi|43927901|gb|EAG18920.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 4 .. 73 ]
+sequence
+--NKRDQLLNTAENLFYREGYHATGIDRILAESGVAKMTLYKHFKSKDELILAVLEARHERLRERATR-*
+>P1;gi|23061030|ref|ZP_00085901.1| COG1309: Transcriptional regulato... [ score 77 E 1e-13 ] [ range 11 .. 72 ]
+sequence
+---KREAIIQAAITEFRTNGFEVTSMDKIAATAGVSKRTVYNHFPSKEELFAEILNQLWARISTE----*
+>P1;gi|23474105|ref|ZP_00129400.1| COG1309: Transcriptional regulato... [ score 77 E 1e-13 ] [ range 14 .. 66 ]
+sequence
+---TRQLLLDCALTVFLRKGYSATTLNDIAEEANLTRGAVYWHFKNKVDVFSAVMD-------------*
+>P1;gi|22966243|ref|ZP_00013840.1| COG1309: Transcriptional regulato... [ score 77 E 1e-13 ] [ range 4 .. 68 ]
+sequence
+----RERLIETAITLFASEGFHATGIDRILAEAGVAKMTLYRHFRSKDDLILAALDRHWRHWLEER---*
+>P1;gi|23061471|ref|ZP_00086316.1| COG1309: Transcriptional regulato... [ score 76 E 2e-13 ] [ range 6 .. 62 ]
+sequence
+--SIRERILAAASEEFAANGFDATQTRDIAARAGVPKANLYYYFQSKENLYGKVL--------------*
+>P1;gi|28871439|ref|NP_794058.1| transcriptional regulator, TetR fam... [ score 76 E 2e-13 ] [ range 12 .. 72 ]
+sequence
+---TRSQILEAAEQAFYERGVARTTLADIATLAGVTRGAIYWHFNNKADLVQAMLDSLQEPLDE-----*
+>P1;gi|28872258|ref|NP_794877.1| transcriptional regulator PhaD [Pse... [ score 76 E 2e-13 ] [ range 3 .. 56 ]
+sequence
+---TRDRILECALTLFNQQGEPNVSTLEIANEMGISPGNLYYHFHGKEPLILGLFER------------*
+>P1;gi|23016164|ref|ZP_00055923.1| COG1309: Transcriptional regulato... [ score 76 E 2e-13 ] [ range 38 .. 97 ]
+sequence
+----REDLVEAALRLFLRDGFHATGIAAILDEAGLTKMTLYHHFKSKEELIVAALELRDRRFRD-----*
+>P1;gi|15807142|ref|NP_295871.1| transcriptional regulator, TetR fam... [ score 76 E 2e-13 ] [ range 22 .. 74 ]
+sequence
+---TRERIQTEAARLFVASGYHGVSMREVAEAVGVTKPALYHHYADKEALFLAMLD-------------*
+>P1;gi|15827358|ref|NP_301621.1| putative TetR-family transcriptiona... [ score 76 E 2e-13 ] [ range 41 .. 98 ]
+sequence
+----RGQLLIVASDVFVDHGYHAAGMDEIADRAGVSKPVLYQHFSSKLELYLAVLERHMNNL-------*
+>P1;gi|23501187|ref|NP_697314.1| transcriptional regulator, TetR fam... [ score 76 E 2e-13 ] [ range 29 .. 92 ]
+sequence
+----RRLILDAALDVFSAYGFRGSTIDQIAEKAGMSKPNLLYYFPRKQNIYVTVLEDTLATWLEPFED-*
+>P1;gi|15793976|ref|NP_283798.1| putative tetR-family transcriptiona... [ score 76 E 2e-13 ] [ range 10 .. 71 ]
+sequence
+--NTYTRIIDASLALFNEEGERNISTNHIAAHLGISPGNLYYHFRNKDEIIVQLFKRYSEALLE-----*
+>P1;gi|44438051|gb|EAJ26886.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 3 .. 62 ]
+sequence
+----QERILAGALTVFKDKGLEGATMDEIANSSGFGKATLYYYFKSKEEVLSAIL---EDGWQNIWE--*
+>P1;gi|42990195|gb|EAB62025.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 15 .. 74 ]
+sequence
+----KDRILSGALSVFKSKGLEGATMDEIAIQSGFGKATLYYYFKSKEDVFSAIL---EDGWIKIWE--*
+>P1;gi|44414997|gb|EAJ10637.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 17 .. 74 ]
+sequence
+------RILDGALTVFKEKGLDGATMDQIANSSGFGKATLYYYFKSKEEVLSAIL---EDGWQNIWE--*
+>P1;gi|27377507|ref|NP_769036.1| transcriptional regulatory protein ... [ score 76 E 2e-13 ] [ range 40 .. 96 ]
+sequence
+-----EAILTAARRLFGTQGFAATTMDEIAEGASVAKGAVYHHFRTKEAVFEAVFDLVSRDL-------*
+>P1;gi|40787313|gb|AAR90230.1| hypothetical protein PDK3.089 [Rhodoc... [ score 76 E 3e-13 ] [ range 10 .. 65 ]
+sequence
+---TRAQIVRGAAEMFDKSGFEGASLVEILEAAGMTKGALYFHFRSKEDLARHIIAEQH----------*
+>P1;gi|21223539|ref|NP_629318.1| putative tetR-family transcriptiona... [ score 76 E 3e-13 ] [ range 23 .. 76 ]
+sequence
+----RNQLLGAAQEVFVAQGYHAAAMDDIAERAGVSKPVLYQHFPGKLDLYLALLDQH-----------*
+>P1;gi|30795054|ref|NP_851504.1| putative TetR family receptor prote... [ score 75 E 3e-13 ] [ range 10 .. 62 ]
+sequence
+---TRRAVLEAAATVFAEHGYAAATVADILKVAGLTKGALYFHFPSKEALARGILE-------------*
+>P1;gi|1361433|pir||A57507 virginiae butanolide-binding protein - St... [ score 75 E 3e-13 ] [ range 18 .. 73 ]
+sequence
+---TRQAIVRAAASVFDEYGFEAATVAEILSRASVTKGAMYFHFASKEELARGVLAEQT----------*
+>P1;gi|4062971|dbj|BAA36203.1| PhaD [Pseudomonas sp. 61-3] [ score 75 E 3e-13 ] [ range 3 .. 61 ]
+sequence
+---TRDRILECALQLFNQKGEPNVSTMEVANEMGISPGNLYYHFHGKEPLILGLFERFQAEL-------*
+>P1;gi|23029372|ref|ZP_00067717.1| COG1309: Transcriptional regulato... [ score 75 E 4e-13 ] [ range 14 .. 69 ]
+sequence
+-----NRLMDVAQAMFVKNGYHGVAVDKIIAQTGVSKGTFFYHFKSKEDLAQRLLERYFER--------*
+>P1;gi|15596701|ref|NP_250195.1| probable transcriptional regulator ... [ score 75 E 4e-13 ] [ range 3 .. 68 ]
+sequence
+--SIRERILRAASEEFADKGFAATKTSDIAARAGLPKPNVYYYFQSKENLYRCVLESIVEPLLQ-----*
+>P1;gi|37519363|gb|AAQ92183.1| TetR-like putative regulatory protein... [ score 75 E 4e-13 ] [ range 12 .. 75 ]
+sequence
+---TRSQILEAAEKAFYERGVARTTLADIATLAGVTRGAIYWHFSNKADLVQAMLDTLHEPLDEMAK--*
+>P1;gi|32044434|ref|ZP_00141535.1| COG1309: Transcriptional regulato... [ score 75 E 4e-13 ] [ range 3 .. 61 ]
+sequence
+---TRDRILECSLLLFNEQGEPNVSTLEIANELGISPGNLYYHFHGKEPLVMALFERFQAEL-------*
+>P1;gi|43929045|gb|EAG19504.1| unknown [environmental sequence] [ score 75 E 5e-13 ] [ range 24 .. 77 ]
+sequence
+---TRDRILQAARELVLEEGASRLTLDAVVVRAGLSKGAFLYHFKTKRDLFVTLIDE------------*
+>P1;gi|23469140|ref|ZP_00124475.1| COG1309: Transcriptional regulato... [ score 75 E 5e-13 ] [ range 9 .. 61 ]
+sequence
+----KELILRAASEEFADKGFAASKTSDIAAKAGVPKPNVYYYFKSKENLYREVLES------------*
+>P1;gi|33592731|ref|NP_880375.1| putative TetR-family transcriptiona... [ score 75 E 5e-13 ] [ range 11 .. 73 ]
+sequence
+--NIRDTIIERAAAMFARQGYSETSIGDIARACECSKSRLYHYFDSKEAVLRDMLTTHVDSLLER----*
+>P1;gi|23129097|ref|ZP_00110930.1| COG1309: Transcriptional regulato... [ score 75 E 5e-13 ] [ range 14 .. 75 ]
+sequence
+---TRTRILQAAQRLFASQGFDGTTTRDLAQAAGVAEGTLFRHFPNKKAILVEVA---TSGWVEILTD-*
+>P1;gi|21224638|ref|NP_630417.1| putative tetR-family regulatory pro... [ score 75 E 5e-13 ] [ range 8 .. 66 ]
+sequence
+---TRRSLLEAAAQLFAEQGYAATSVNDISARSGRTSGAVYFHYTGKEGIAVAVIEDRFATW-------*
+>P1;gi|23008817|ref|ZP_00050101.1| COG1309: Transcriptional regulato... [ score 75 E 5e-13 ] [ range 37 .. 96 ]
+sequence
+----REAVLDAGLEVFSTVGLHGASLDQIAERAGLSKTNLLYYFPTKEDLYIAVLRRVLDVWLD-----*
+>P1;gi|33594104|ref|NP_881748.1| TetR-family transcriptional regulat... [ score 75 E 6e-13 ] [ range 17 .. 66 ]
+sequence
+----RDEILRAAAELFMEFGYAATSIDAVAQRLGSTKGRIYHHYRSKADLFFDV---------------*
+>P1;gi|15011955|gb|AAK77645.1| HydR [Clostridium difficile] [ score 75 E 6e-13 ] [ range 9 .. 70 ]
+sequence
+--NSKEKIIQSAFSLFSSKGYDSTSTQDIINLSGLSRGAMYHHFKTKEDILRSVTKELYSQMNN-----*
+>P1;gi|39748130|gb|AAR30170.1| putative gamma-butyrolactone binding ... [ score 75 E 6e-13 ] [ range 14 .. 69 ]
+sequence
+-------ILKAAAEVFDSHGYEAATIGEILRRAGVTKGALYFHFPSKQALAEGVLEQQFSVIR------*
+>P1;gi|33520754|gb|AAQ21214.1| putative repressor for the acrAB gene... [ score 74 E 6e-13 ] [ range 12 .. 70 ]
+sequence
+---TRNHIIDAAIKRFSEHGVANTSLADIAAGAGVTRGAIYWHFKNKTDLLNEIWTQSESGL-------*
+>P1;gi|23058408|ref|ZP_00083471.1| COG1309: Transcriptional regulato... [ score 74 E 6e-13 ] [ range 12 .. 72 ]
+sequence
+---TRSQILEAAEKAFYERGVARTTLSDIATLAGVTRGAIYWHFSNKADLLQAMLDTLHEPLDE-----*
+>P1;gi|44610121|gb|EAK45907.1| unknown [environmental sequence] [ score 74 E 7e-13 ] [ range 43 .. 101 ]
+sequence
+---KRTRIMDAALSLFSKNGVSGTTVEQVSELANVSKSNLLYYFKSKEGLYLSVITHLLDVW-------*
+>P1;gi|16264253|ref|NP_437045.1| putative transcriptional regulator ... [ score 74 E 7e-13 ] [ range 5 .. 77 ]
+sequence
+--STRNLIVEEADALFYESGFEATSFAEIAKAVGISRGNFYHHFKTKDDILDAVIARRMDGWQTEGED-*
+>P1;gi|25029466|ref|NP_739520.1| putative transcription regulator [C... [ score 74 E 7e-13 ] [ range 10 .. 70 ]
+sequence
+--DTRQRFITAARELFLEQGFGRTSMNQVAQRAGGSRANLYLHFRNKPDLMLALMQEVEPGIR------*
+>P1;gi|15595564|ref|NP_249058.1| probable transcriptional regulator ... [ score 74 E 8e-13 ] [ range 7 .. 63 ]
+sequence
+---TRDRIAQASLELFNAQGERSVTTNHIATHLGISPGNLYYHYPNKQAIIAELFAEYES---------*
+>P1;gi|21234245|ref|NP_639856.1| putative lactone-dependent transcri... [ score 74 E 8e-13 ] [ range 9 .. 70 ]
+sequence
+---TRDQVLDAAAEEFALHGYAGTNLATVAVRTGMTKGALYGHFPSKKALADELVSQSTETWNTI----*
+>P1;gi|34496166|ref|NP_900381.1| probable transcriptional regulator,... [ score 74 E 8e-13 ] [ range 7 .. 66 ]
+sequence
+--NKRQGLVAAATEVFVERGYEAASMSEISARAGGSKATLYNYFPSKEALFLDVMRSLTTEL-------*
+>P1;gi|21221776|ref|NP_627555.1| putative transcriptional regulator ... [ score 74 E 8e-13 ] [ range 22 .. 75 ]
+sequence
+--DTRDRILTTAREEFSERGYEKTSVRGIAKAAGVDPALVHHYFGTKEQVFEAAIE-------------*
+>P1;gi|17229433|ref|NP_485981.1| transcriptional regulator [Nostoc s... [ score 74 E 9e-13 ] [ range 14 .. 75 ]
+sequence
+---TRTKILQAALKLFASQGFDGTTTRDLAQAAGVAEGTLFRHFPNKKAILVEVA---TAGWVDILTD-*
+>P1;gi|34557590|ref|NP_907405.1| PUTATIVE TRANSCRIPTIONAL REGULATOR ... [ score 74 E 9e-13 ] [ range 7 .. 66 ]
+sequence
+----RDEILNTALKLFNEQGSANVSTRHIAEAMGISPGNLYYYFPHKEAIIHAILDRAEALFEE-----*
+>P1;gi|23010424|ref|ZP_00051118.1| COG1309: Transcriptional regulato... [ score 74 E 9e-13 ] [ range 22 .. 83 ]
+sequence
+--DKRRQILEGARQVFMASGFDGASMGEIARAAGVSKGTLYVYFDSKEALFEALTTEEKEGLAE-----*
+>P1;gi|24528006|emb|CAD33733.1| putative UidR transriptional regulat... [ score 74 E 9e-13 ] [ range 25 .. 88 ]
+sequence
+---TRQQIARAALEEFSAQGFARASISNISKRAGVAKGTVYNYFPTKELLFEAVLKEFIATVRTELE--*
+>P1;gi|13346174|gb|AAK19609.1| PhaD [Pseudomonas nitroreducens] [ score 74 E 9e-13 ] [ range 3 .. 60 ]
+sequence
+---TRERILQTALQLFNEQGEPNVSTLEIANELDISPGNLYYHFHGKEPLVLELFERFQSE--------*
+>P1;gi|45358403|ref|NP_987960.1| Transcriptional regulator, TetR Fam... [ score 74 E 1e-12 ] [ range 2 .. 54 ]
+sequence
+--DTRDQIIENSRDIFFKKGYNETSLLEIAKKCNISKGGLYHYFNKKEDLFLEVI--------------*
+>P1;gi|15679074|ref|NP_276191.1| transcriptional regulator related p... [ score 73 E 1e-12 ] [ range 14 .. 63 ]
+sequence
+----REQIIRAAEKAFFARGYDRVTMDEIAEEAEVNKALLYYYFKNKESLFFAV---------------*
+>P1;gi|17402514|dbj|BAB78722.1| phaD [Pseudomonas chlororaphis] [ score 74 E 1e-12 ] [ range 3 .. 61 ]
+sequence
+---TRDRILECALQLFNHKGEPNVSTMEVANEMGISPGNLYYHFHGKEPLVLGLFERFQNEL-------*
+>P1;gi|23017794|ref|ZP_00057517.1| COG1309: Transcriptional regulato... [ score 74 E 1e-12 ] [ range 22 .. 82 ]
+sequence
+----RRQLLAAAQQVFVERGYHAAAMDEIAERAGVSKPVLYQHFPGKLELYLALLEQHSEALVEK----*
+>P1;gi|22970123|ref|ZP_00017270.1| hypothetical protein [Chloroflexu... [ score 74 E 1e-12 ] [ range 10 .. 68 ]
+sequence
+---IRNRIIDEAARLIVAYGYDGIAMREIAEAVGLSKAGLYHHFRDKEDLLVAVLT----NWADEM---*
+>P1;gi|13474033|ref|NP_105601.1| transcriptional regulator (TetR fam... [ score 74 E 1e-12 ] [ range 33 .. 87 ]
+sequence
+---KRSQIIDGARRVFIEKGFEAASMNDITREAGVSKGTIYVYFANKEELFEALIEEE-----------*
+>P1;gi|15966205|ref|NP_386558.1| PUTATIVE TRANSCRIPTION REGULATOR PR... [ score 74 E 1e-12 ] [ range 21 .. 79 ]
+sequence
+-----EQILEAALEVFSANGFRGSTIDQIADVAGMSKPNLLYYFRTKEAMHRALIDRVLDTWLD-----*
+>P1;gi|19552090|ref|NP_600092.1| transcriptional regulator [Coryneba... [ score 74 E 1e-12 ] [ range 19 .. 73 ]
+sequence
+--NPREEILDASAELFTRQGFATTSTHQIADAVGIRQASLYYHFPSKTEIFLTLLKS------------*
+>P1;gi|14521663|ref|NP_127139.1| hypothetical protein [Pyrococcus ab... [ score 74 E 1e-12 ] [ range 2 .. 53 ]
+sequence
+--DTRDKLVKAAKRLFAEKGFYRTTVDDIVKAAGVAKGTFYLYFSSKEEIIKEV---------------*
+>P1;gi|28867649|ref|NP_790268.1| transcriptional reguator, TetR fami... [ score 74 E 1e-12 ] [ range 7 .. 62 ]
+sequence
+---TRERIVQASLELFNQQGERCITTNHIAAHMEISPGNLYYHFANKQVIIAELFTQYE----------*
+>P1;gi|13471610|ref|NP_103176.1| probable transcriptional regulator ... [ score 74 E 1e-12 ] [ range 17 .. 75 ]
+sequence
+---KRELILEAALEVFSTHGFRGSTIDQIAEAAGMSKPNLLYYFRRKEDIHETLMQRLLDTW-------*
+>P1;gi|41409406|ref|NP_962242.1| hypothetical protein MAP3308 [Mycob... [ score 74 E 1e-12 ] [ range 41 .. 98 ]
+sequence
+----RGQLLVVASDVFVDRGYHAAGMDEIADRAGVSKPVLYQHFTSKLELYLAVLARHVENL-------*
+>P1;gi|33600782|ref|NP_888342.1| Putative TetR-family regulatory pro... [ score 73 E 1e-12 ] [ range 8 .. 71 ]
+sequence
+--STREIILETAEQLFAQQGHDGTSMRQITSAAGVNLAAVNYHFGSKEALVQAVLKRRLEEVNRER---*
+>P1;gi|22979922|ref|ZP_00025636.1| COG1309: Transcriptional regulato... [ score 73 E 1e-12 ] [ range 64 .. 117 ]
+sequence
+---TRNRILDAAEAVFHARGVARPSLADIAEAAGVTRGAIYWHFKNKSDVFAAMCDR------------*
+>P1;gi|44622977|gb|EAK55202.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 6 .. 65 ]
+sequence
+---TRDRIVAESLALFNGQGERNVTTNHIAAHLGISPGNLYYHFRNKQMIIAELFAQYEAQVD------*
+>P1;gi|22993375|ref|ZP_00037976.1| COG1309: Transcriptional regulato... [ score 73 E 1e-12 ] [ range 8 .. 63 ]
+sequence
+--DTQQKILKEATDLFMSKGYLGTSTREIAQKVGITQPNLYHYFGDKEKLYTAVLENH-----------*
+>P1;gi|41407067|ref|NP_959903.1| CprA [Mycobacterium avium subsp. pa... [ score 73 E 1e-12 ] [ range 10 .. 72 ]
+sequence
+---TRQKILDSAIEVFGEVGYAAAGWSTIIERTGMTKGALYHHFDSKESLASNIIEEGSDRLLSAF---*
+>P1;gi|33594203|ref|NP_881847.1| putative TetR-family trasncriptiona... [ score 73 E 1e-12 ] [ range 24 .. 88 ]
+sequence
+----RERILEEAARLFARSGYENSSVADLAAAIGVSKAALYHYFPTKQDIYDAIILETLAGLLQAVTRE*
+>P1;gi|19554245|ref|NP_602247.1| transcriptional regulator [Coryneba... [ score 73 E 2e-12 ] [ range 11 .. 66 ]
+sequence
+---TRQRFIDVAHELFLEHGYGSTSMNQIAQAAGGSRANLYLHFRNKPDLMMAKMRELE----------*
+>P1;gi|27380850|ref|NP_772379.1| transcriptional regulatory protein ... [ score 72 E 2e-12 ] [ range 22 .. 81 ]
+sequence
+----RGRLLSAATHLFCKNGINATGIDAIIEEAGTAKTTLYKLFGSKTNLVNAVLESEGKQWRE-----*
+>P1;gi|23108102|ref|ZP_00094343.1| COG1309: Transcriptional regulato... [ score 73 E 2e-12 ] [ range 24 .. 75 ]
+sequence
+-----NRILDVAEELFARKGYGATSLRDIASQVGLQQPGLYKHFSGKEDLYRQVYER------------*
+>P1;gi|43944045|gb|EAG27599.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 33 .. 83 ]
+sequence
+---KRERILQAAEALFDRQGYANTTMEQIVQQLGVTKPYVYYYFHNKQEIFETL---------------*
+>P1;gi|39936363|ref|NP_948639.1| possible transcriptional regulator,... [ score 73 E 2e-12 ] [ range 13 .. 74 ]
+sequence
+---KREAVLRTAVHLFLEQGYHRATLNEVAERLNITKPALYNYFRSKEEILFECWALGQEQVDEI----*
+>P1;gi|15610344|ref|NP_217724.1| hypothetical protein Rv3208 [Mycoba... [ score 73 E 2e-12 ] [ range 41 .. 98 ]
+sequence
+----RGQLLVVASDVFVDRGYHAAGMDEIADRAGVSKPVLYQHFSSKLELYLAVLHRHVENL-------*
+>P1;gi|44403753|gb|EAJ02943.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 12 .. 70 ]
+sequence
+----REQIIQAALGCFIERGFHQTGMRDIAAAAGVSLGNLYNHFARKEELIALIASLEAAELQ------*
+>P1;gi|39937398|ref|NP_949674.1| transcriptional regulator, TetR fam... [ score 73 E 2e-12 ] [ range 17 .. 69 ]
+sequence
+---TRDRIVAAAAKLFYSEGIRAVGVDAVAEKAGVTKRTLYYHFRSKDDLVAAYLE-------------*
+>P1;gi|44431266|gb|EAJ22158.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 14 .. 66 ]
+sequence
+--DKRQAILETALRLFVDQGFHGTSTASIAKQAGVATGTLFHHFPTKEALMESLF--------------*
+>P1;gi|44471587|gb|EAJ50453.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 16 .. 68 ]
+sequence
+--DKRQAILETALRLFIDQGFHGTSTASIAKQAGVATGTLFHHFPTKEALMENLF--------------*
+>P1;gi|29832646|ref|NP_827280.1| putative TetR-family transcriptiona... [ score 73 E 2e-12 ] [ range 35 .. 103 ]
+sequence
+---TRQKLYEAAVTLIAEQGFSATTVDEIAERAGVAKGTVYYNFASKSVLFEELLGLLTASLREAAEK-*
+>P1;gi|17546805|ref|NP_520207.1| PUTATIVE TRANSCRIPTION REGULATOR PR... [ score 73 E 2e-12 ] [ range 13 .. 89 ]
+sequence
+---TRDRILEVSLRLFNELGEPNVTTTTIAEELEISPGNLYYHFRNKDDIINSIFDDHKATLDETW---*
+>P1;gi|41407083|ref|NP_959919.1| hypothetical protein MAP0985 [Mycob... [ score 73 E 2e-12 ] [ range 14 .. 73 ]
+sequence
+----RQQLIGIARSLFAERGYEGTSIEEIALRANVSKPVVYEHFGGKEGLYAVVVDREMSALLD-----*
+>P1;gi|15802032|ref|NP_288054.1| repressor for uid operon [Escherich... [ score 73 E 2e-12 ] [ range 12 .. 76 ]
+sequence
+---TRTRILNAAREIFSENGFHSASMKAICKSCAISPGTLYHHFISKEALIQAIILQDQERALARFRE-*
+>P1;gi|23102957|ref|ZP_00089452.1| COG1309: Transcriptional regulato... [ score 73 E 2e-12 ] [ range 11 .. 75 ]
+sequence
+---TRENILATAERLFLRNGVAHTSLEQIARASGVTRGAVYWHFQNKSHLLNEILDQVRPRPEQIAER-*
+>P1;gi|26988121|ref|NP_743546.1| transcriptional regulator TtgR [Pse... [ score 73 E 2e-12 ] [ range 12 .. 69 ]
+sequence
+---TRAQIIEAAERAFYKRGVARTTLADIAELAGVTRGAIYWHFNNKAELVQALLDSLHET--------*
+>P1;gi|26991795|ref|NP_747220.1| transcriptional regulator, TetR fam... [ score 72 E 2e-12 ] [ range 7 .. 63 ]
+sequence
+---TRERIVQNSLELFNQQGERSVSTNHIAAHMEISPGNLYYHFPNKQAIIALLFSQYEA---------*
+>P1;gi|34499377|ref|NP_903592.1| probable transcription regulator, T... [ score 72 E 2e-12 ] [ range 41 .. 89 ]
+sequence
+------EILDAALTLFVEKGYLATKMEDIARAAGVTKGTPYLYFQNKEEIFKAVV--------------*
+>P1;gi|42527109|ref|NP_972207.1| transcriptional regulator, TetR fam... [ score 72 E 3e-12 ] [ range 8 .. 68 ]
+sequence
+---TKNRILECAKEEFLRNGFEKAQVGEIAKTANVTTGAIYRHFKNKEELFFTLIEDYEYTLD------*
+>P1;gi|23099919|ref|NP_693385.1| transcriptional regulator [Oceanoba... [ score 72 E 3e-12 ] [ range 10 .. 60 ]
+sequence
+----KERILQVAEELFMKKGYRTVTTREISTKCKISQPALYYHYPDKQSLYIAML--------------*
+>P1;gi|16077337|ref|NP_388150.1| transcriptional regulator [Bacillus... [ score 72 E 3e-12 ] [ range 5 .. 68 ]
+sequence
+--DSREKILSAATRLFQLQGYYGTGLNQIIKESGAPKGSLYYHFPGKEQLAIEAVNEMKEYIRQK----*
+>P1;gi|15805761|ref|NP_294458.1| transcriptional regulator, TetR fam... [ score 72 E 3e-12 ] [ range 16 .. 75 ]
+sequence
+-----ERLLAAAREVFLEQGVSATT-SAIARRAEVSEGTLFKRFATKEELFEAAMGLHEYRWRTE----*
+>P1;gi|23472191|ref|ZP_00127518.1| COG1309: Transcriptional regulato... [ score 72 E 3e-12 ] [ range 9 .. 61 ]
+sequence
+----REAIIDAAASVFLEMGYERASMNEVTKRMGGSKATIYSYFPSKEELFIAVVNR------------*
+>P1;gi|1742915|dbj|BAA08617.1| A-factor receptor [Streptomyces griseus] [ score 72 E 3e-12 ] [ range 14 .. 73 ]
+sequence
+-------IVDAAASVFDDYGYERAAISEILRRAKVTKGALYFHFASKEAIAQAIMDEQTSTV--EFEQE*
+>P1;gi|22977372|ref|ZP_00023180.1| COG1309: Transcriptional regulato... [ score 72 E 3e-12 ] [ range 12 .. 75 ]
+sequence
+---TRDRILDVSLRLFNELGEPNVTTTTIAEAMEISPGNLYYHFRNKDDIINSIFVRFEQEMERRLK--*
+>P1;gi|41408467|ref|NP_961303.1| hypothetical protein MAP2369c [Myco... [ score 72 E 3e-12 ] [ range 16 .. 70 ]
+sequence
+---VRDRILDAAAKVFAAEGFAGATIDAIGQAAGFTKGAVYSNFESKDELFLALLDRE-----------*
+>P1;gi|29831258|ref|NP_825892.1| putative TetR-family transcriptiona... [ score 72 E 3e-12 ] [ range 24 .. 76 ]
+sequence
+---TRDRILEAAREEFSERGYEKTSVRGIAKAAGVDSALVHHYFGTKEQVFEAAIE-------------*
+>P1;gi|44214782|gb|EAH74406.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 19 .. 71 ]
+sequence
+---KRRAILEAAKSLFLRNGYDGSSMDAIAAEAGVSKLTVYSHFTDKETLFSAAIK-------------*
+>P1;gi|16077738|ref|NP_388552.1| similar to transcriptional regulato... [ score 72 E 3e-12 ] [ range 4 .. 53 ]
+sequence
+---KKERIIKTSIRLFAKKGFAATTIQEIASECGISKGAFYLHFKSKEALLLS----------------*
+>P1;gi|16304838|emb|CAC95193.1| hypothetical transcriptional regulat... [ score 72 E 3e-12 ] [ range 21 .. 79 ]
+sequence
+-----EQILEAALDVFSASGFRGSTIDQIAEVAGMSKPNLLYYFRTKEAMHRALIDRVLYTWLE-----*
+>P1;gi|15598770|ref|NP_252264.1| probable transcriptional regulator ... [ score 72 E 3e-12 ] [ range 11 .. 63 ]
+sequence
+---TRTAILLAAEELFLEKGVSHTSLEQIARAAGVTRGAVYWHFQNKAHLFNEMLN-------------*
+>P1;gi|15966653|ref|NP_387006.1| PUTATIVE TRANSCRIPTION REGULATOR PR... [ score 72 E 3e-12 ] [ range 39 .. 93 ]
+sequence
+---KRERILDGAKRVFMRSSFDAASMNDITREAGVSKGTLYVYFENKEDLFTALIARE-----------*
+>P1;gi|15608159|ref|NP_215535.1| hypothetical protein Rv1019 [Mycoba... [ score 72 E 3e-12 ] [ range 7 .. 66 ]
+sequence
+----RHQLIGIARSLFAERGYDGTSIEEIAQRANVSKPVVYEHFGGKEGLYAVVVDREMSALLD-----*
+>P1;gi|15643788|ref|NP_228836.1| transcriptional regulator, TetR fam... [ score 72 E 3e-12 ] [ range 3 .. 67 ]
+sequence
+--SKRDAILKAAVEVFGKKGYDRATTDEIAEKAGVAKGLIFHYFKNKEELYYQAYMSVTEKLQKEFE--*
+>P1;gi|17973458|gb|AAL32124.1| regulatory protein AcrR [Proteus mira... [ score 72 E 3e-12 ] [ range 12 .. 61 ]
+sequence
+---TRQQIIDAALRLFTVQGVSATSLSDIATEAGVTRGAIYWHFKNKVDLFTE----------------*
+>P1;gi|16125025|ref|NP_419589.1| transcriptional regulator, TetR fam... [ score 72 E 3e-12 ] [ range 81 .. 139 ]
+sequence
+----RQAILDAAREVFGELGYDAATVRDIIRRTGLASGTFYNYYKSKEEVFEALADDGARRFR------*
+>P1;gi|44309320|gb|EAI36164.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 12 .. 65 ]
+sequence
+---TRCHIMSTALDLFCSHGLAKTSLTDIARAAELTRGAIYWHFKNKEELFVSLWEE------------*
+>P1;gi|15607379|ref|NP_214752.1| hypothetical protein Rv0238 [Mycoba... [ score 72 E 3e-12 ] [ range 15 .. 73 ]
+sequence
+-----QQMLDAAVQMFSVNGYHETSMDAIAAEAQISKPMLYLYYGSKEDLFGACLNREMSRFID-----*
+>P1;gi|39936606|ref|NP_948882.1| transcriptional regulator, TetR fam... [ score 72 E 3e-12 ] [ range 18 .. 72 ]
+sequence
+---KRRQILDGARAVFLEFGFDGASMGEIARAAGVSKGTLYVYFADKNSLFCEIVEQE-----------*
+>P1;gi|29832740|ref|NP_827374.1| putative TetR-family transcriptiona... [ score 72 E 4e-12 ] [ range 8 .. 58 ]
+sequence
+----RRELLDTAAEVFAEQGYNATTVRKIADHAGMLAGSLYYHFDSKESMLEEIL--------------*
+>P1;gi|45519493|ref|ZP_00171044.1| hypothetical protein Raeut233901 ... [ score 72 E 4e-12 ] [ range 12 .. 75 ]
+sequence
+---TRDRILDVSLRLFNEVGEPNVTTTTIAEAMEISPGNLYYHFRNKDDIINSIFVLFEQEMERRLK--*
+>P1;gi|41407066|ref|NP_959902.1| hypothetical protein MAP0968 [Mycob... [ score 72 E 4e-12 ] [ range 28 .. 84 ]
+sequence
+---TRQQILRAASHQFARRPYHDVGLDDILAEAELTKGAMYFHFKSKHALAVAIIESQTA---------*
+>P1;gi|43355916|gb|EAD42815.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 11 .. 62 ]
+sequence
+---TRLQIMSVALELFARQGIAATSLTGIARAAGVTRGAIYWHFKNKWDLFDAIW--------------*
+>P1;gi|15963944|ref|NP_384297.1| PUTATIVE TRANSCRIPTION REGULATOR PR... [ score 72 E 4e-12 ] [ range 11 .. 63 ]
+sequence
+---TRQKILCAAERMFYKKGVPNTTLEEVAKEAGVTRGAIYWHFANKTDLFLALYE-------------*
+>P1;gi|44450999|gb|EAJ35913.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 9 .. 70 ]
+sequence
+---TRERILELSLKLFNEIGEPNVTTTTIAEEMEISPGNLYYHFRNKDDIINSIFAQFEQQIERR----*
+>P1;gi|44172735|gb|EAH51807.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 48 .. 106 ]
+sequence
+---KRSAIMEAALDVFSRYGLHGTSLDQVASQADVSKTNLLYYFASKEDLYINVLRQLMDVW-------*
+>P1;gi|43151768|gb|EAC41559.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 28 .. 85 ]
+sequence
+----REQVMTQARKVFMDRGYHAAGMDEIADAAGVTKPVLYQHFPSKLELYLALLDRGIEEL-------*
+>P1;gi|22979322|ref|ZP_00025047.1| COG1309: Transcriptional regulato... [ score 72 E 4e-12 ] [ range 24 .. 77 ]
+sequence
+-----QELVAAALDLFVERGYAATRLEDVAAAAGVSKGTVYLYFANKEELFKTVVRENM----------*
+>P1;gi|23107604|ref|ZP_00093877.1| COG1309: Transcriptional regulato... [ score 72 E 4e-12 ] [ range 16 .. 76 ]
+sequence
+---VRARILDAAQAEFMAEGFAAASTNRILERFGGSKPTMFRHFPTKRALFEAVVGRIAERWRD-----*
+>P1;gi|37527710|ref|NP_931055.1| acrAB operon repressor [Photorhabdu... [ score 72 E 4e-12 ] [ range 12 .. 72 ]
+sequence
+---TRQQIIDAAIKEFSERGVSATSLTDIATTAGVTRGAIYWHFKNKVDLFSEACRITDSKIDE-----*
+>P1;gi|29830111|ref|NP_824745.1| putative TetR-family transcriptiona... [ score 72 E 4e-12 ] [ range 32 .. 91 ]
+sequence
+----RQQLLEIGRTLFAAKGFEGTSVEEIAAKAGVSKPVVYEHFGGKEGLYAVVVDREMRRLLD-----*
+>P1;gi|44436298|gb|EAJ25665.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 12 .. 73 ]
+sequence
+---IQHRILEVATKQFVQFGYRKTSISDIADRAGIGKGSLYLHFESKQELF---LSCQLEEQRDIYEQ-*
+>P1;gi|27379144|ref|NP_770673.1| transcriptional regulatory protein ... [ score 72 E 4e-12 ] [ range 13 .. 69 ]
+sequence
+----RRQILEAALACFAENGFHQTGMADIVKRSGLSHGAVYLYFRSKDDLIEALADDRHRR--------*
+>P1;gi|10945820|gb|AAG24649.1| PhaD [Alcanivorax borkumensis] [ score 72 E 4e-12 ] [ range 3 .. 62 ]
+sequence
+--STKARILETSLVLFNRQGERNVTTNHIAEALGISPGNLYYHFRNKGVIVSALFDRYQQQL-------*
+>P1;gi|15966033|ref|NP_386386.1| PUTATIVE TRANSCRIPTION REGULATOR PR... [ score 72 E 4e-12 ] [ range 6 .. 59 ]
+sequence
+--NTRERIVSAASKLFYAEGIRAVGVDAVAEAAGVTKRTLYYHFKSKDDLIAAYLE-------------*
+>P1;gi|23059267|ref|ZP_00084250.1| COG1309: Transcriptional regulato... [ score 72 E 4e-12 ] [ range 5 .. 61 ]
+sequence
+-----ERILECALQLFNEKGEPNVSTMEVANEMGISPGNLYYHFHGKEPLILGLFERFQNDL-------*
+>P1;gi|44551556|gb|EAK04698.1| unknown [environmental sequence] [ score 72 E 5e-12 ] [ range 5 .. 63 ]
+sequence
+---TRAHLLAAAKRLFVERGFGATSLRDIAAEAGYTQGAFYSNFASKEELFVELMQERSRTQ-------*
+>P1;gi|21244186|ref|NP_643768.1| transcriptional regulator [Xanthomo... [ score 72 E 5e-12 ] [ range 24 .. 75 ]
+sequence
+---KRAAILGAARTMFMEQGYAGVSMDGIAAQAGVSKLTVYSHFGDKESLFSEAI--------------*
+>P1;gi|38233443|ref|NP_939210.1| Putative tetR family regulatory pro... [ score 72 E 5e-12 ] [ range 21 .. 73 ]
+sequence
+----REEILDASAELFTTQGFATTSTHQIADAVGIRQASLYYHFPSKTEIFLTLLQS------------*
+>P1;gi|15889655|ref|NP_355336.1| AGR_C_4325p [Agrobacterium tumefaci... [ score 71 E 5e-12 ] [ range 19 .. 79 ]
+sequence
+---KQETILEAALSVFSTNGFRGSTIDQIAEAAGMSKPNVLYYFRTKEAMHRALIERVLDTWLD-----*
+>P1;gi|44157262|gb|EAH43619.1| unknown [environmental sequence] [ score 71 E 5e-12 ] [ range 25 .. 81 ]
+sequence
+----RQRILSAATDAFAAQGLDGARVDEIADRAGINKRMLYHYFGNKDDLFAAVLDQLYET--------*
+>P1;gi|44246531|gb|EAH93356.1| unknown [environmental sequence] [ score 71 E 5e-12 ] [ range 16 .. 68 ]
+sequence
+--DKRQAILDTALSLFVSQGFHATSTASIAKQAGVATGTLFHHFPTKEMLMESLF--------------*
+>P1;gi|15605818|ref|NP_213195.1| transcriptional regulator (TetR/Acr... [ score 71 E 5e-12 ] [ range 8 .. 69 ]
+sequence
+---TRERIIKAAAKEFAEKGFYNTQISHIVESAGVARGTFYIYFKSKEEVFEEILKKVVEDLKER----*
+>P1;gi|15607114|ref|NP_214496.1| transcriptional regulator (TetR/Acr... [ score 71 E 5e-12 ] [ range 13 .. 77 ]
+sequence
+--DTKEKILSSALKLFSKKGFKETTIKDIAKEVGITEGAIYRHFTSKEEIIKSLLESITKELRHKLE--*
+>P1;gi|20089261|ref|NP_615336.1| transcriptional regulator, TetR fam... [ score 71 E 6e-12 ] [ range 13 .. 74 ]
+sequence
+-----QEIIDTAKALFMENGFDKTQISDIAKRMNVAQGLVYHYFKSKTEMLYAVIDELAEEKQKEME--*
+>P1;gi|30577679|emb|CAD18970.1| putative lactone-dependent transcrip... [ score 71 E 6e-12 ] [ range 14 .. 73 ]
+sequence
+----RDKVLDAAREEFAERGYRDARIDAIAERAGLTRGAVYSNFPGKRALYFAVLAALAERVPE-----*
+>P1;gi|23104661|ref|ZP_00091123.1| COG1309: Transcriptional regulato... [ score 71 E 6e-12 ] [ range 121 .. 172 ]
+sequence
+---TRQRILESAARLFALEGFERVSIEAITREAGLTRGAFYHHFSSKTELYGEAI--------------*
+>P1;gi|43969603|gb|EAG41532.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 7 .. 60 ]
+sequence
+---TREGILSAAARLFRYEGYHATTMRDIAQEAGIEAGSIYYHFQSKDQILSDVLDL------------*
+>P1;gi|40850644|gb|AAR96042.1| tetR(C)-invasin fusion protein [Chlam... [ score 112 E 3e-24 ] [ range 3 .. 67 ]
+sequence
+-KLQREAVIRTALELLNDVGMEGLTTRRLAERLGVQQPALYWHFKNKRALLDALAEAMLTINHTHS---*
+>P1;gi|10957270|ref|NP_058294.1| tetracycline repressor protein [Sal... [ score 111 E 5e-24 ] [ range 3 .. 67 ]
+sequence
+SRLDKSKVINSALELLNEVGIEGLTTRKLAQKLGVEQPTLYWHVKNKRALLDALAIEMLDRHHTH----*
+>P1;gi|4557929|pdb|1A6I|  Tet Repressor, Class D Variant [ score 109 E 2e-23 ] [ range 1 .. 66 ]
+sequence
+SRLDKSKVINSALELLNEVGIEGLTTRKLAQKLGVEQPTLYWHVKNKRALLDALAVEILARHHDYS---*
+>P1;gi|4104706|gb|AAD12754.1| repressor protein [Proteus mirabilis] [ score 107 E 6e-23 ] [ range 2 .. 66 ]
+sequence
+AKLDKEQVIDNALILLNEVGMEGLTTRKLAQKLGVEQPTLYWHVKNKRALLDALAETILQKHHHH----*
+>P1;gi|32029346|ref|ZP_00132379.1| hypothetical protein [Haemophilus... [ score 106 E 2e-22 ] [ range 2 .. 66 ]
+sequence
+AKLDKEQVIDNALILLNEVGIEGLTTRKLAQKIGVEQPTLYWHVKNKRALLDALAETILQKHHHH----*
+>P1;gi|16151347|emb|CAC80726.1| tetracycline repressor protein TetR(... [ score 105 E 4e-22 ] [ range 3 .. 67 ]
+sequence
+ARLDKKRVIESALALLDEVGMEGLTTRKLAQKLNIEQPSLYWHVKNKRALLDALSVEILLRHHDH----*
+>P1;gi|44590940|gb|EAK32348.1| unknown [environmental sequence] [ score 104 E 4e-22 ] [ range 6 .. 71 ]
+sequence
+ARLTRDTVLRAALELLDEVGIDGLSTRKLAERLGVQSPTLYWHFKNKGELLDAMAEAIMLERHDAS---*
+>P1;gi|24021293|gb|AAN40999.1| truncated tetracycline resistance rep... [ score 103 E 7e-22 ] [ range 12 .. 76 ]
+sequence
+-KLQPNTVIRAALDLLNEVGVDGLTTRKLAERLGVQQPALYWHFRNKRALLDALAEAMLAENHTHS---*
+>P1;gi|4063854|gb|AAC98495.1| tetracycline repressor protein [Salmon... [ score 103 E 1e-21 ] [ range 3 .. 67 ]
+sequence
+-KLDKGTVIAAALELLNEVGMDSLTTRKLAERLKVQQPALYWHFQNKRALLDALAEAMLAERHTRS---*
+>P1;gi|1729900|sp|P51561|TER8_PASMU Tetracycline repressor protein c... [ score 103 E 1e-21 ] [ range 2 .. 66 ]
+sequence
+AKLDKEQVIDDALILLNEVGIEGLTTRNVAQKIGVEQPTLYWHVKNKRALLDALAETILQKHHHH----*
+>P1;gi|4585569|gb|AAD25537.1| tetracycline resistance repressor [Pse... [ score 102 E 3e-21 ] [ range 3 .. 67 ]
+sequence
+-KLDKGTVIAAALELLNEVGMDSLTTRKLAERLRVQQPALYWHFPSKRALLDALAEAMLTERHTRS---*
+>P1;gi|73098|pir||RPECR1 tet repressor protein (Tn 1721) - Escherich... [ score 100 E 2e-20 ] [ range 3 .. 67 ]
+sequence
+-KLQPNTVIRAALDLLNEVGVDGLTTRKLAERLGVQQPALYWHFRNKRALLDALAEAMLAENHSTS---*
+>P1;gi|17937894|ref|NP_534683.1| transcriptional regulator, TetR fam... [ score 99 E 2e-20 ] [ range 5 .. 63 ]
+sequence
+----RDRIVDEALRLLNEVGIDKLSTRKLAERLGVQQPALYWHFRNKAELLDAINSEMLLRYH------*
+>P1;gi|1729899|sp|P51560|TER7_VIBAN Tetracycline repressor protein c... [ score 97 E 8e-20 ] [ range 3 .. 67 ]
+sequence
+-KLDKGTVIAAGLELLNEVGMDSLTTRKLAERLKVQQPALYWHFQNKRALLDALPEAMLRERHTRS---*
+>P1;gi|135592|sp|P21337|TER5_ECOLI Tetracycline repressor protein cl... [ score 94 E 8e-19 ] [ range 2 .. 67 ]
+sequence
+ARLSLDDVISMALTLLDSEGLEGLTTRKLAQSLKIEQPTLYWHVRNKQTLMNMLSEAILAKHHTRS---*
+>P1;gi|16605599|emb|CAC81917.1| tetracycline repressor protein TetR(... [ score 93 E 1e-18 ] [ range 2 .. 67 ]
+sequence
+ARLSLDDVISMALTLLDREGLEGLTTRNVAQSLKIEQPTLYWHVRNKQTLMNMLSEAILAKHHTRS---*
+>P1;gi|38234146|ref|NP_939913.1| Putative tetR-family transcriptiona... [ score 89 E 4e-17 ] [ range 2 .. 66 ]
+sequence
+-QLSKESIISASLDILDSYGLADMTMRRLATHLGVAPGALYWHFKNKQALIDAIARHIMAPLIDAS---*
+>P1;gi|29829922|ref|NP_824556.1| putative TetR-family transcriptiona... [ score 89 E 4e-17 ] [ range 8 .. 67 ]
+sequence
+-KLDKKQVVETALRLLNEAGLDGLTLRAIAKELNVQAPALYWHFKNKQALLDEMATEMYRR--------*
+>P1;gi|17158099|ref|NP_478095.1| TetR protein [Corynebacterium gluta... [ score 87 E 1e-16 ] [ range 6 .. 71 ]
+sequence
+ARLDRAAVLRGARHVLNNTGIDGFTTRALAAHLRVQQPALYWHFRTKAHLLGSLAADVLDREHHAS---*
+>P1;gi|10956602|ref|NP_052572.1| tetracycline repressor protein TetR... [ score 87 E 1e-16 ] [ range 7 .. 71 ]
+sequence
+-RLDRTSVLLGARQVLDETGLDGFTTRALAAHLQVQQPGLYWHFRTKAELLAALASDVLDREHHAS---*
+>P1;gi|21226046|ref|NP_631825.1| putative TetR-family transcriptiona... [ score 87 E 1e-16 ] [ range 5 .. 67 ]
+sequence
+--ITRERIVTAALELLDDQGMDALTVRTLASRLDVRPSALYWHVRNKQELLDEMATEVMRRVADA----*
+>P1;gi|21223246|ref|NP_629025.1| putative tetR-family transcriptiona... [ score 85 E 3e-16 ] [ range 7 .. 67 ]
+sequence
+APLDRRRVADTALKLLNEVGLDGLTLRAIARELDVKAPALYWHFKDKQALLDEMATEMYRR--------*
+>P1;gi|25028565|ref|NP_738619.1| putative regulatory protein [Coryne... [ score 85 E 6e-16 ] [ range 104 .. 162 ]
+sequence
+-QLNRGTIIDAALSILNSYGLADMTMRRVAKQLDVAPGALYWHFKNKQELIGATARRILE---------*
+>P1;gi|13472079|ref|NP_103646.1| probable tetracycline repressor pro... [ score 83 E 2e-15 ] [ range 8 .. 68 ]
+sequence
+-PLDRAKVVATALGLLGEVGLEGLTVRRLAKELDVQNPTLYWHIKDKQALVDEMADALLAAW-------*
+>P1;gi|43137535|gb|EAC34548.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 18 .. 75 ]
+sequence
+--LTKPDVVRAGVEILDAYGLGDLSMRRLAERLGVKAGALYWHVANKQSLLAAVSDEILA---------*
+>P1;gi|21324876|dbj|BAB99499.1| Transcriptional regulator [Corynebac... [ score 82 E 3e-15 ] [ range 2 .. 60 ]
+sequence
+-QLSKESIIGAAVSILSEFGLSDMTMRRVAKQLNVAPGALYWHFKNKQELIDATSRYLLA---------*
+>P1;gi|29375378|ref|NP_814532.1| transcriptional regulator, TetR fam... [ score 82 E 4e-15 ] [ range 4 .. 61 ]
+sequence
+-KLSKDTIIAAAFSLLEKSTLEQLSMRKVAKQLGVQAPAIYWYFKNKQALLQSMAEAI-----------*
+>P1;gi|44453069|gb|EAJ37456.1| unknown [environmental sequence] [ score 81 E 8e-15 ] [ range 14 .. 75 ]
+sequence
+----RSALIEAATARLSEHGVDSLSLRKLAEDAGVSRTAPYHHFKDKSALLSAIAAKGFSDWHTAA---*
+>P1;gi|21218803|ref|NP_624582.1| putative transcriptional regulator ... [ score 80 E 9e-15 ] [ range 13 .. 78 ]
+sequence
+ARLDRARTVQTALDLLNESGLDTLTMRRLAQAMDVQAGALYRYFAAKQDLLTAMAEHMVDGVADAA---*
+>P1;gi|29827029|ref|NP_821663.1| putative TetR-family transcriptiona... [ score 80 E 2e-14 ] [ range 13 .. 69 ]
+sequence
+-PLNRDRVLRAAVALADATGIDALSMRRLAQELDVVPMALYKHVANKEELLDGMADAV-----------*
+>P1;gi|21218806|ref|NP_624585.1| putative tetR-family transcriptiona... [ score 80 E 2e-14 ] [ range 3 .. 52 ]
+sequence
+-KMNRETVITEALDLLDEVGLDGVSTRRLAKRLGVEQPSLYWYFRTKRDLL------------------*
+>P1;gi|43746095|gb|EAF27442.1| unknown [environmental sequence] [ score 79 E 2e-14 ] [ range 19 .. 77 ]
+sequence
+----RSALLDAAAKRLAEHGVDSLSLRKLAEDAGVSRTAPYHHFKDKSALLSAIAAKGFSDWH------*
+>P1;gi|29827118|ref|NP_821752.1| putative TetR-family transcriptiona... [ score 79 E 3e-14 ] [ range 17 .. 79 ]
+sequence
+-PLTEAGICTSALRLIDADGVEALTMRKLAAALDANPMSLYHHVPNKEALLGGVARMVGARFRT-----*
+>P1;gi|29833131|ref|NP_827765.1| putative TetR-family transcriptiona... [ score 78 E 4e-14 ] [ range 22 .. 83 ]
+sequence
+-RLTR--ILDACADLLDEVGYDALSTRAVALRAGVPIGSVYRFFGNKRAMADALAERNFERYTDR----*
+>P1;gi|42780231|ref|NP_977478.1| transcriptional regulator, TetR fam... [ score 78 E 4e-14 ] [ range 7 .. 66 ]
+sequence
+---TSQNIVEASFKLMAEHGIEKMSLSMIAKEVGISKPAIYYHFSSKEALVDFLFEEIFSGYH------*
+>P1;gi|15805746|ref|NP_294443.1| transcriptional regulator, TetR fam... [ score 78 E 5e-14 ] [ range 28 .. 84 ]
+sequence
+AKLSRESVLDAAQQLVEEQGAEALTMRTLAERLEVRPSSLYRHFAHREALLWAIGEQ------------*
+>P1;gi|41406196|ref|NP_959032.1| hypothetical protein MAP0098c [Myco... [ score 78 E 7e-14 ] [ range 26 .. 85 ]
+sequence
+-PITRAAVLASALEIIDRDGVDGLSMRRLGEAVGRDPMALYRHVPNKAAVLDGVVEMVFER--------*
+>P1;gi|15964204|ref|NP_384557.1| HYPOTHETICAL PROTEIN [Sinorhizobium... [ score 77 E 1e-13 ] [ range 31 .. 80 ]
+sequence
+--LSRERIVATAVELLDAQGIDGLTMRRLADRLGSGVMSLYWHVDNKEDVFD-----------------*
+>P1;gi|23019689|ref|ZP_00059398.1| COG1309: Transcriptional regulato... [ score 77 E 1e-13 ] [ range 9 .. 66 ]
+sequence
+--LSRTRIQEAALALVDRDGLQGLSMRKLAQELNVQAPSLYSYYRTKEELLNDVVDRITA---------*
+>P1;gi|22991755|ref|ZP_00036448.1| COG1309: Transcriptional regulato... [ score 77 E 1e-13 ] [ range 4 .. 61 ]
+sequence
+-KLSQAIIIQAAFDILAEQALSQLSMRNIANRIHVQAPALYWYFKNKQQLLQKMAETM-----------*
+>P1;gi|24213155|ref|NP_710636.1| Transcriptional regulator, tetR fam... [ score 74 E 6e-13 ] [ range 14 .. 68 ]
+sequence
+--LNRENIVQVAMEILQEKGIDGLSMRKIAEKLNCSVASPYSHFTSQEEIIQVLIAK------------*
+>P1;gi|12862300|dbj|BAB32408.1| VarR [Streptomyces virginiae] [ score 74 E 8e-13 ] [ range 36 .. 95 ]
+sequence
+--LDRERIVAAAVRLLDEQGDAKFTMRVLATELGVTPMSVYWYIANKDDLLDAVAAEI-----------*
+>P1;gi|7481450|pir||T36734 probable tetR-family transcription regula... [ score 74 E 9e-13 ] [ range 22 .. 83 ]
+sequence
+-RLTR--ILDACADLLDEVGYDALSTRAVALRADVPIGSVYRFFGNKRQMADALAQRNLERYAER----*
+>P1;gi|29833141|ref|NP_827775.1| putative TetR-family transcriptiona... [ score 73 E 2e-12 ] [ range 9 .. 67 ]
+sequence
+--LSTDRIVDAARALVDAEGLAAVSTRRLAAELGVSGPSLYNHFRTKDQILEAVADSVSAQ--------*
+>P1;gi|29827117|ref|NP_821751.1| putative TetR-family transcriptiona... [ score 72 E 4e-12 ] [ range 17 .. 73 ]
+sequence
+-PLTKDGICAMALQLIDADGVEALTMRKLATALDANPMSLYHHVPNKDAVLRGVAHRV-----------*
+>P1;gi|21220197|ref|NP_625976.1| putative transcriptional regulator ... [ score 72 E 4e-12 ] [ range 9 .. 67 ]
+sequence
+--LSTDRIVETARALVDAEGLAAVSTRRLAAELGVSGPSLYNHFRTKDEILEAVADSVSAQ--------*
+>P1;gi|15840084|ref|NP_335121.1| transcriptional regulator, putative... [ score 72 E 5e-12 ] [ range 27 .. 87 ]
+sequence
+AKLSRESIVEGALTFLDREGWDSLTINALATQLGTKGPSLYNHVDSLEDLRRAVRIRVIDD--------*
+>P1;gi|41410237|ref|NP_963073.1| hypothetical protein MAP4139 [Mycob... [ score 71 E 6e-12 ] [ range 24 .. 84 ]
+sequence
+AKLSREGIIDGALTFLDREGWDALTINALATQLGTKGPSLYNHVDSLEDLRRAVRIRVIDD--------*
+>P1;gi|23119470|ref|ZP_00102544.1| COG1309: Transcriptional regulato... [ score 71 E 6e-12 ] [ range 6 .. 66 ]
+sequence
+AMSTEEKILNAAARLLEEHGAEAVTTRSVCQAAGVTAPTLYHHFGDKNGLVRALVDRGIAE--------*
+>P1;gi|39936033|ref|NP_948309.1| probable transcriptional regulator,... [ score 71 E 6e-12 ] [ range 23 .. 77 ]
+sequence
+---TRARMIEAAIEVFGSVGYDGATTRQLAERAGVNQAAIPYHFGGKRELYVAAAQAI-----------*
+>P1;gi|27377365|ref|NP_768894.1| transcriptional regulatory protein ... [ score 70 E 1e-11 ] [ range 13 .. 69 ]
+sequence
+APTTRERILSEALNLFAQSGYGGASMRELARRVGIRESSLYNHFAGKAAILEAIVAE------------*
+>P1;gi|29832982|ref|NP_827616.1| putative TetR-family transcriptiona... [ score 70 E 1e-11 ] [ range 20 .. 78 ]
+sequence
+--LTRDEVLDSAADLVKRHGPAALTMRGLAAELGTAVTSIYWHVGNRESLLDALVERTVAD--------*
+>P1;gi|43821218|gb|EAF65032.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 9 .. 75 ]
+sequence
+AKLTKPKISEIALHLFAEQGYAAVSMRQIASKVGLQVGALYNYFPDKQAILSELMEKLLKSWH------*
+>P1;gi|21223453|ref|NP_629232.1| putative transcriptional regulatory... [ score 70 E 2e-11 ] [ range 30 .. 89 ]
+sequence
+-PLTQDRIVVTALGILDAEGLDALSMRRLAQELKTGHASLYAHVGNRDELLDLVFDIVLTE--------*
+>P1;gi|13472716|ref|NP_104283.1| transcriptional regulator [Mesorhiz... [ score 69 E 2e-11 ] [ range 17 .. 77 ]
+sequence
+----RSELVAAAHKLVQEEGYEGLTIRKLAKRVGYAPMSVYSYFADKQDILFALAEETLARR-------*
+>P1;gi|27364504|ref|NP_760032.1| Transcriptional regulator TetR fami... [ score 68 E 4e-11 ] [ range 10 .. 70 ]
+sequence
+----QQQILAAAEKLIAESGFQGLSMSKLAKEAGVAAGTIYRYFDDKEHLLDELRLRITQRVATA----*
+>P1;gi|15807811|ref|NP_285466.1| transcriptional regulator, TetR fam... [ score 68 E 4e-11 ] [ range 13 .. 71 ]
+sequence
+--LSAEKITRQALDTLHRDGLDGLSIRKLAAELGVSPKSLYHYFPTKEDLLQGVYSEILRE--------*
+>P1;gi|21225499|ref|NP_631278.1| putative TetR-family transcriptiona... [ score 68 E 5e-11 ] [ range 14 .. 64 ]
+sequence
+-PLSRERIVGAAVELLDTVGERGLTFRALAERLATGPGAIYWHITGKAELLG-----------------*
+>P1;gi|2792330|gb|AAC01726.1| RifQ [Amycolatopsis mediterranei] [ score 68 E 6e-11 ] [ range 27 .. 88 ]
+sequence
+SELDREKIVATAVRVLDAEGDAKFSMRLLAEELNVTPMSVYWYVANKDDLLDAVAGEI-----------*
+>P1;gi|32398349|emb|CAD61038.1| putative transcriptional regulator [... [ score 67 E 8e-11 ] [ range 12 .. 67 ]
+sequence
+----REALLERAMEIIEEAGVDGLSLRQLARDVNVSHGAPAKHFRDKQALVDAMALAGFE---------*
+>P1;gi|29826745|ref|NP_821379.1| putative TetR-family transcriptiona... [ score 67 E 1e-10 ] [ range 11 .. 67 ]
+sequence
+-RAERERIVATARELAEQQGWDAVTTRRLAERIEYSQPVLYSHFRGKREIIGAVALE------------*
+>P1;gi|43561741|gb|EAE35652.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 9 .. 77 ]
+sequence
+AKLTKPKISEIALHLFAERGYAAVSMRQIASKVGLQVGALYNYFPDKQAILSELMENLLQTWHKR----*
+>P1;gi|16127348|ref|NP_421912.1| transcriptional regulator, TetR fam... [ score 66 E 2e-10 ] [ range 20 .. 75 ]
+sequence
+----REEILDAALTLFSQKGVQAVSTRQIAEIAGISQPALYAYFATKDDIAAELCVRAFA---------*
+>P1;gi|23036953|ref|ZP_00069173.1| COG1309: Transcriptional regulato... [ score 66 E 2e-10 ] [ range 3 .. 58 ]
+sequence
+-KLSKKNILDEATQLIKQKGIDSVSLTDIARVLGTSHAALYKYFPNKNALLSALAQE------------*
+>P1;gi|21226073|ref|NP_631852.1| putative TetR-family transcriptiona... [ score 66 E 3e-10 ] [ range 8 .. 67 ]
+sequence
+AVADRAQIMSAARELLDAEGPDALSMRRIAERVGIRAPSLYKHFADKAALVAGLQAQGL----------*
+>P1;gi|13476539|ref|NP_108109.1| transcription regulator [Mesorhizob... [ score 65 E 3e-10 ] [ range 13 .. 69 ]
+sequence
+-RLSREMIEDAAFEVIEKEGLAGFSMRKLAAALGCEAMSIYHHFPSVAHLHEALVDRL-----------*
+>P1;gi|44328126|gb|EAI49285.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 16 .. 72 ]
+sequence
+---TREKILFESAKLFARQGYVGTSTREITEAVGISQPGLYRHFNSKEEIILALGDAILD---------*
+>P1;gi|32034373|ref|ZP_00134563.1| COG1309: Transcriptional regulato... [ score 65 E 3e-10 ] [ range 5 .. 62 ]
+sequence
+-------ILSAAELLIAKEGLQNLSMRKIASEAGIATGTLYLYFKTKDELLDCLAEQLHERYYRY----*
+>P1;gi|40805148|gb|AAR91917.1| truncated MtrR [Neisseria meningitidis] [ score 65 E 4e-10 ] [ range 11 .. 68 ]
+sequence
+---TKEHLMLAALETFYRKGIARTSLNEIAQAAGVTRGALYWHFKNKEDLFDALFQRICDD--------*
+>P1;gi|34557590|ref|NP_907405.1| PUTATIVE TRANSCRIPTIONAL REGULATOR ... [ score 65 E 5e-10 ] [ range 3 .. 69 ]
+sequence
+SPSRRDEILNTALKLFNEQGSANVSTRHIAEAMGISPGNLYYYFPHKEAIIHAIAEALFEEVYD-----*
+>P1;gi|12744834|gb|AAK06798.1| putative repressor simReg2 [Streptomy... [ score 65 E 5e-10 ] [ range 29 .. 85 ]
+sequence
+--LSRDQIVRAAVKVADTEGVEAASMRRVAAELGAGTMSLYYYVPTKEDLVELMVDEVI----------*
+>P1;gi|29827423|ref|NP_822057.1| putative TetR-family transcriptiona... [ score 64 E 6e-10 ] [ range 21 .. 77 ]
+sequence
+----RRRIVEAAVELLENGGPDAMSTRAVAAAAGMQPPAIYRLFGDKEGLLEAVAEHGYAQ--------*
+>P1;gi|43777461|gb|EAF43223.1| unknown [environmental sequence] [ score 64 E 7e-10 ] [ range 10 .. 68 ]
+sequence
+----KKELLDCALKMCERDGYTKLSIRSLAKESNVSQTAPYRHFKTKEDLYAEVAIEGFNKIH------*
+>P1;gi|27364673|ref|NP_760201.1| Transcriptional regulator [Vibrio v... [ score 64 E 7e-10 ] [ range 3 .. 66 ]
+sequence
+---TREKIVHAALELFNQHGERSITTNHIADHIDISPGNLYYHFRNKQEIVREIAQELIERFT------*
+>P1;gi|15672235|ref|NP_266409.1| transcription regulator [Lactococcu... [ score 64 E 8e-10 ] [ range 27 .. 80 ]
+sequence
+------RVLQASLELFASQGFEATTSQQIAKRAGVSVGSVYHTFPTKQAILVAVLAPIFE---------*
+>P1;gi|23112090|ref|ZP_00097624.1| COG1309: Transcriptional regulato... [ score 63 E 1e-09 ] [ range 9 .. 58 ]
+sequence
+----KESLVITAISLINEKGLQGLSTREVAKREGVSEATIFKHFKSKNELVSAV---------------*
+>P1;gi|44473513|gb|EAJ51929.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 10 .. 66 ]
+sequence
+----KEELVNCAVNMCERDGYTKLSIRSLAKESNVSQTAPYRHFKTKQELYAAVAKEGFDK--------*
+>P1;gi|29826832|ref|NP_821466.1| putative TetR-family transcriptiona... [ score 64 E 1e-09 ] [ range 4 .. 57 ]
+sequence
+-----ERIVSTALQIVDDEGADALSMRTLAQRLGSGTATLYRHFDNRAALVAHVVDRMF----------*
+>P1;gi|16126443|ref|NP_421007.1| transcriptional regulator, TetR fam... [ score 64 E 1e-09 ] [ range 22 .. 75 ]
+sequence
+--LSRA-LIDAARKILETEGPAALSLRAVAREAGVSPAAPYHHFKDKAELLEAVAHE------------*
+>P1;gi|32306891|gb|AAP78950.1| hypothetical repressor protein [Acine... [ score 63 E 1e-09 ] [ range 11 .. 66 ]
+sequence
+AKVTVDTIIEAGFISVALHGMSGTTTRHIADIAGVSVGSLYEYFKNKEEIYDAMAA-------------*
+>P1;gi|44540204|gb|EAJ96696.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 10 .. 64 ]
+sequence
+----KQELIDCACRLCERDGYTKLSIRSLAKESGVSQTAPYRHFKTKEALYASVATEGF----------*
+>P1;gi|21222749|ref|NP_628528.1| putative tetR family transcriptiona... [ score 63 E 1e-09 ] [ range 35 .. 90 ]
+sequence
+--LTLERIVEVAVEVADRDGLGAVSMRRIATELGTGTMSLYRYVPGKGELLDLMLDRV-----------*
+>P1;gi|30261783|ref|NP_844160.1| transcriptional regulator, TetR fam... [ score 63 E 1e-09 ] [ range 8 .. 61 ]
+sequence
+---NKEKLLQAAKEIIAEHGMEKLTLKAVAESAQVTQGTVYYHFKTKDQLLLEVTEA------------*
+>P1;gi|44570068|gb|EAK17776.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 9 .. 63 ]
+sequence
+----REELIRCASNLCHQYGYEKLSLRSIAKEANVSQTAPYRHFETKESLLAAVATNGF----------*
+>P1;gi|17231138|ref|NP_487686.1| transcriptional regulator [Nostoc s... [ score 63 E 1e-09 ] [ range 11 .. 64 ]
+sequence
+----RKELLSKCFDLFAEKGYGSITMRQIAQGLNVSTGTLYHYFPSKQTLFEQLVEEI-----------*
+>P1;gi|42997101|gb|EAB65457.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 9 .. 65 ]
+sequence
+----RSELIRCACTLCEEHGHDKISLRGIAKEANVSQTAPYRHFETKESLLAAVAAHGFVE--------*
+>P1;gi|15925568|ref|NP_373102.1| hypothetical protein [Staphylococcu... [ score 63 E 2e-09 ] [ range 5 .. 54 ]
+sequence
+AKENRQRIEEIAHKLFDEEGVENISMNRIAKELGIGMGTLYRHFKDKSDL-------------------*
+>P1;gi|29829950|ref|NP_824584.1| putative TetR-family transcriptiona... [ score 63 E 2e-09 ] [ range 26 .. 87 ]
+sequence
+---TRALILETAMRLFQERGYDKTTMRAIAKEAGVSVGNAYYYFAGKEHLIQGFYDRIAAEHQEA----*
+>P1;gi|23126907|ref|ZP_00108788.1| COG1309: Transcriptional regulato... [ score 63 E 2e-09 ] [ range 13 .. 67 ]
+sequence
+----RNKLIAIATELLSEEGAHSLSLRKISQRAGVSHNAPYMHFADKEAVLAAIAEEGF----------*
+>P1;gi|28896814|ref|NP_796419.1| transcriptional regulator, TetR fam... [ score 63 E 2e-09 ] [ range 10 .. 66 ]
+sequence
+----RDQILAAAEQLIAESGFQGLSMQKLANEAGVAAGTIYRYFSDKEHLLEEVRLNVAKR--------*
+>P1;gi|15672131|ref|NP_266305.1| transcription regulator [Lactococcu... [ score 63 E 2e-09 ] [ range 3 .. 56 ]
+sequence
+---TREKILGKTEEFILENGIEKLTISKIAKELNISQPAIYKHFKSKDELLTILALR------------*
+>P1;gi|29830736|ref|NP_825370.1| putative TetR-family transcriptiona... [ score 63 E 2e-09 ] [ range 36 .. 84 ]
+sequence
+--LDRERITRATMRLLDAEGLAKFSMRRLAAELNVTAMSVYWYVDTKDDLL------------------*
+>P1;gi|44499809|gb|EAJ69374.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 10 .. 68 ]
+sequence
+----KQELIDCACKLCERDGYTKLSIRTLAKESGVSQTAPYRHFETKEALYASVATDGFKKLH------*
+>P1;gi|15004732|ref|NP_149192.1| HTH transcriptional regulator TetR ... [ score 63 E 2e-09 ] [ range 6 .. 53 ]
+sequence
+--LTKEKIIQIAFSLADEIGLDKVTFQKLAEKLDIKSPSLYNHFSNMSDL-------------------*
+>P1;gi|28899610|ref|NP_799215.1| transcriptional reguator, TetR fami... [ score 63 E 2e-09 ] [ range 3 .. 66 ]
+sequence
+---TRDKIVYAALELFNQHGERNITTNHIADHIEISPGNLYYHFRNKQEIVREISAELLERFT------*
+>P1;gi|24215490|ref|NP_712971.1| Transcriptional regulator, tetR fam... [ score 62 E 3e-09 ] [ range 2 .. 66 ]
+sequence
+AKDTRDLILKTSLKLFSEQGYHGTTMRQVASKAGISLGLAYRYFDSKEAILEGIIEKILKRY-------*
+>P1;gi|23018263|ref|ZP_00057981.1| COG1309: Transcriptional regulato... [ score 62 E 3e-09 ] [ range 6 .. 64 ]
+sequence
+AGLSRERIVAEALRIIDGMGLRSLTMRRLGDALNVEAMAIYHHFPGKEQLYSAIVEYI-----------*
+>P1;gi|30021052|ref|NP_832683.1| Transcriptional repressor Bm3R1 [Ba... [ score 62 E 4e-09 ] [ range 2 .. 55 ]
+sequence
+AKNKQEDIFDAAMQLFAERGYDGTTIPMIAEKAKVGAGTIYRYFENKEALVNSL---------------*
+>P1;gi|43901284|gb|EAG04905.1| unknown [environmental sequence] [ score 62 E 4e-09 ] [ range 3 .. 60 ]
+sequence
+---TRDRIIHSATELFNDQGERNITTNHIAAHLGISPGNLYYHFRNKEDIIHSIFDQ-YARH-------*
+>P1;gi|43330348|gb|EAD30701.1| unknown [environmental sequence] [ score 62 E 4e-09 ] [ range 10 .. 68 ]
+sequence
+----KEELIRYACNICEKQGFTKLSIRSLAKESNVSQSAPYRHFETKEDLYAAVAEKGFENLH------*
+>P1;gi|43191222|gb|EAC61119.1| unknown [environmental sequence] [ score 62 E 4e-09 ] [ range 14 .. 72 ]
+sequence
+---TKAQILENARKLFATHGYDGTSIRQLTASLDITPAALYYHFASKNDVLEGLAERL----HDGS---*
+>P1;gi|34497839|ref|NP_902054.1| probable transcriptional regulator,... [ score 62 E 5e-09 ] [ range 8 .. 55 ]
+sequence
+---TYDRIIQESLKLFNEQGERSITTNHIAAHLGISPGNLYYHFRNKEEIV------------------*
+>P1;gi|15640360|ref|NP_229987.1| transcriptional reguator, TetR fami... [ score 62 E 5e-09 ] [ range 34 .. 97 ]
+sequence
+---TKDRIVHAALELFNQQGERNITTNHIAAHIEISPGNLYYHFRNKQEIVRDISAELIERFT------*
+>P1;gi|44016645|gb|EAG66964.1| unknown [environmental sequence] [ score 61 E 5e-09 ] [ range 9 .. 72 ]
+sequence
+AESTRAAILDAAEVLFFQHGVSRTTLEKIALAANVTRGAIYWHFQNKADLFNAMLERVRLPFHH-----*
+>P1;gi|22986480|ref|ZP_00031576.1| COG1309: Transcriptional regulato... [ score 61 E 5e-09 ] [ range 34 .. 90 ]
+sequence
+----RERILDAARRIVMREGFAALSMRKIADAIEYSPATLYLHFASRDEIAQALCAEGYAQ--------*
+>P1;gi|23107100|ref|ZP_00093413.1| COG1309: Transcriptional regulato... [ score 61 E 6e-09 ] [ range 27 .. 83 ]
+sequence
+----RRDLLDAGREYVRQHGHHGLSIRTLAQQVGVSPGAPYHHFPDRRSLLLALAIEGFEE--------*
+>P1;gi|21223226|ref|NP_629005.1| putative tetR-family transcriptiona... [ score 61 E 6e-09 ] [ range 20 .. 78 ]
+sequence
+---TRALILETAMRLFQERGYDRTTMRAIAQEAGVSVGNAYYYFAGKEHLIQGFYDRIAAEH-------*
+>P1;gi|42941156|gb|EAB37589.1| unknown [environmental sequence] [ score 61 E 6e-09 ] [ range 14 .. 69 ]
+sequence
+---TREDIINSAIEVIAKYGRDGASILEITKVAKVANGTFYYHFKNKEELLDTIGERIL----------*
+>P1;gi|16329804|ref|NP_440532.1| unknown protein [Synechocystis sp. ... [ score 61 E 6e-09 ] [ range 43 .. 96 ]
+sequence
+---THDRILKGALKLFGTKGYEGTTTKDLAQAANVAEGTLFRYFTNKKAILVEVATA------------*
+>P1;gi|27381351|ref|NP_772880.1| transcriptional regulatory protein ... [ score 61 E 6e-09 ] [ range 40 .. 99 ]
+sequence
+---DRERIVDEAIRFFAEHGFEG-QTRELAKRLGITHSAIYRHFPSKEALIERVYQEVLSRW-------*
+>P1;gi|43847447|gb|EAF77989.1| unknown [environmental sequence] [ score 61 E 6e-09 ] [ range 10 .. 68 ]
+sequence
+----KQELISCASKICERDGYTKLSIRSLAKESNVSQTAPYRHFKTKEDLYAEIAREGFNNLH------*
+>P1;gi|21232115|ref|NP_638032.1| transcriptional regulator [Xanthomo... [ score 61 E 7e-09 ] [ range 9 .. 68 ]
+sequence
+----RDTIVQAASEVFLELGFEGASMSQIAARVGGSKRTLYGYFGSKEELFVAVAKDMSDRYFD-----*
+>P1;gi|21243572|ref|NP_643154.1| transcriptional regulator [Xanthomo... [ score 61 E 7e-09 ] [ range 9 .. 68 ]
+sequence
+----REAIVQAASEVFLELGFEGASMSQIAARVGGSKRTLYGYFPSKEELFVAVANDMSDRYFD-----*
+>P1;gi|21222428|ref|NP_628207.1| putative tetR family transcriptiona... [ score 61 E 8e-09 ] [ range 32 .. 88 ]
+sequence
+--LDRDRITGVTVRLLDTEGLTGFSMRRLAAELNVTAMSVYWYVDTKDQLLELALDAVF----------*
+>P1;gi|39998151|ref|NP_954102.1| transcriptional regulator, TetR fam... [ score 61 E 8e-09 ] [ range 13 .. 70 ]
+sequence
+--LFRQEILDAARELFSQIGYERFSMRKLAAKIEHSPTTIYLYFRDKDDLLYSLCEELFA---------*
+>P1;gi|33595322|ref|NP_882965.1| conserved hypothetical protein [Bor... [ score 61 E 8e-09 ] [ range 14 .. 66 ]
+sequence
+---TRENLLRLAARIFSAQGYSGTTMRSIAQQAGIETASIYYHFPSKEDLVDEVME-------------*
+>P1;gi|30795064|ref|NP_851514.1| putative TetR family receptor prote... [ score 61 E 8e-09 ] [ range 40 .. 96 ]
+sequence
+--LDRQRITDVTVRMLDHDGLEKLSMRRLAAELNVTAMSLYWYVDTKDDLLELVLDAAF----------*
+>P1;gi|23130350|ref|ZP_00112167.1| COG1309: Transcriptional regulato... [ score 61 E 9e-09 ] [ range 8 .. 61 ]
+sequence
+---TRQRLIQAALELFSAQGVSATTTRQIAEKAEVNEVTLFRNFGNKHGLLLAVLEE------------*
+>P1;gi|28869835|ref|NP_792454.1| transcriptional regulator, TetR fam... [ score 61 E 9e-09 ] [ range 15 .. 68 ]
+sequence
+-----ERIVATALEAVDEVGAQAFNMRMLAERLGSGTATLYRHFASKDEILIYVVDSVL----------*
+>P1;gi|44300830|gb|EAI30514.1| unknown [environmental sequence] [ score 60 E 9e-09 ] [ range 10 .. 64 ]
+sequence
+----KQELIDCACRLCERDGYTKLSIRTLAKESGVSQTAPYRHFETKEALYASVAQDGF----------*
+>P1;gi|44586929|gb|EAK29496.1| unknown [environmental sequence] [ score 60 E 9e-09 ] [ range 10 .. 66 ]
+sequence
+----KKELLTCAFKMCERDGYTKLSIRSLAKESKVSQTAPYRHFKTKEDLFAEVAAEGFNR--------*
+>P1;gi|43730175|gb|EAF19926.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 1 .. 57 ]
+sequence
+----KTELLSCAYKMCERDGYTKLSIRSLAKESNVSQTAPYRHFKTKEDLYAEVAAEGFNR--------*
+>P1;gi|16802966|ref|NP_464451.1| similar to transcription regulator ... [ score 60 E 1e-08 ] [ range 27 .. 74 ]
+sequence
+------RIVAASIELFAEKGYAGTSTNEIAKKAGVAEGTIFRHYKTKKDLLMAI---------------*
+>P1;gi|44285803|gb|EAI20461.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 11 .. 71 ]
+sequence
+-KLTQAQILEKAEELLVSEGFHAMSMRKVADSCGISTGNLTYHFASKNELIDAIISSVFEKY-------*
+>P1;gi|13473858|ref|NP_105426.1| transcriptional regulator [Mesorhiz... [ score 60 E 1e-08 ] [ range 18 .. 75 ]
+sequence
+--LTRAVLVQAALKLFGRQGFDGTSTREIAAEAQANIGSIAYHFGGKEGLRAAVADYIVE---------*
+>P1;gi|29826989|ref|NP_821623.1| putative TetR-family transcriptiona... [ score 60 E 1e-08 ] [ range 14 .. 66 ]
+sequence
+---TRERIIEAALHVLETEGIAALTIRRIATDVEYSAPVVYQHFANKDALVLELVA-------------*
+>P1;gi|43733350|gb|EAF21413.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 7 .. 66 ]
+sequence
+----KEELISSACTMCEATGHDHMSLRSIAKEANVSQTAPYRHFKTKESLLAEVSKRGFEELTD-----*
+>P1;gi|30022727|ref|NP_834358.1| Transcriptional regulator IcaR [Bac... [ score 60 E 1e-08 ] [ range 4 .. 64 ]
+sequence
+---TKQKVIDAAISLFNTKGYDGTSVRDIAKRADVNVANISYYFAGKQGLLEQLITDFLEGYIH-----*
+>P1;gi|20091770|ref|NP_617845.1| transcriptional regulator, TetR fam... [ score 60 E 1e-08 ] [ range 16 .. 75 ]
+sequence
+----KKRIVEAGLEVMYEKGYCNTTMEDIARRLDVSKPALYRYFKNKDELVIESANYLQTQYRD-----*
+>P1;gi|44344777|gb|EAI60973.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 22 .. 77 ]
+sequence
+---DRKQIIKVAKELFTAHGYEGVSMRKVAEKAECQPSMLYTIFSNKRQLLHFIWEDVF----------*
+>P1;gi|44377153|gb|EAI84006.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 14 .. 69 ]
+sequence
+---TREDIIKSAIKVIAKYGRDAASILEITKVAKVANGTFYYHFKNKEELLDAIGERIL----------*
+>P1;gi|15890783|ref|NP_356455.1| AGR_L_1315p [Agrobacterium tumefaci... [ score 60 E 1e-08 ] [ range 21 .. 79 ]
+sequence
+-RADRERIIAAARMLAERDGWASVTVRRLAQEIEYSQPVLYAHFENRDAIVGAVALEGF----------*
+>P1;gi|23472013|ref|ZP_00127341.1| COG1309: Transcriptional regulato... [ score 60 E 1e-08 ] [ range 38 .. 91 ]
+sequence
+-----ERIIATALEAVDEVGAQAFNMRMLAERLESGTATLYRHFASKDEILVYVVDSVL----------*
+>P1;gi|37522074|ref|NP_925451.1| TetR family transcriptional regulat... [ score 60 E 2e-08 ] [ range 25 .. 82 ]
+sequence
+-----ERILPAATEVFAEVGYEAATTHGIAERAETAVGSLYQFFPDKRALFKALEQRHIERVH------*
+>P1;gi|15595564|ref|NP_249058.1| probable transcriptional regulator ... [ score 60 E 2e-08 ] [ range 7 .. 64 ]
+sequence
+---TRDRIAQASLELFNAQGERSVTTNHIATHLGISPGNLYYHYPNKQAII----AELFAEYESH----*
+>P1;gi|15807142|ref|NP_295871.1| transcriptional regulator, TetR fam... [ score 60 E 2e-08 ] [ range 22 .. 87 ]
+sequence
+---TRERIQTEAARLFVASGYHGVSMREVAEAVGVTKPALYHHYADKEALFLAMALATLARLVEHA---*
+>P1;gi|43568867|gb|EAE39215.1| unknown [environmental sequence] [ score 60 E 2e-08 ] [ range 11 .. 61 ]
+sequence
+---TRQTVLEAALKLFSRDGYSLTTLSRIAKEAGCSRGPIYWHFENKDDLYEAV---------------*
+>P1;gi|6560606|gb|AAF16682.1| efflux pump regulator SrpR [Pseudomona... [ score 60 E 2e-08 ] [ range 12 .. 62 ]
+sequence
+---TRQRIIDAALEVFVAQGVSDATLDQIARKAGVTRGAVYWHFNGKLEVLQAV---------------*
+>P1;gi|37520373|ref|NP_923750.1| TetR family transcriptional regulat... [ score 60 E 2e-08 ] [ range 25 .. 82 ]
+sequence
+-----DSILDAAAEIFAEVGYEAATTNAIAARAKTSIGSLYQFFPDKQAIFRALDARYCLQLH------*
+>P1;gi|43262460|gb|EAC96934.1| unknown [environmental sequence] [ score 60 E 2e-08 ] [ range 14 .. 72 ]
+sequence
+---TKTQILENARKLFAIHGYDGTSIRQLTASLDITPAALYYHFASKNDVLEGLAAKL----HDTS---*
+>P1;gi|43310006|gb|EAD20776.1| unknown [environmental sequence] [ score 60 E 2e-08 ] [ range 9 .. 65 ]
+sequence
+----KEELISSACKICEAEGHDHMSLRSIAKEANVSQTAPYRHFKTKESLLAEVSKRGFDE--------*
+>P1;gi|41408492|ref|NP_961328.1| hypothetical protein MAP2394 [Mycob... [ score 60 E 2e-08 ] [ range 24 .. 83 ]
+sequence
+--INPDDIITGAFELAEQVSIDNLSMPLLGKHLGVGVTSIYWYFRKKDDLLNAMTDRALSKY-------*
+>P1;gi|23128988|ref|ZP_00110824.1| COG1309: Transcriptional regulato... [ score 60 E 2e-08 ] [ range 4 .. 64 ]
+sequence
+SPLTPERILDAAEEVLCRYGLAKATVVDVARFLEVSHGTIYRHFPSKAALRDAVAERWLHR--------*
+>P1;gi|43463961|gb|EAD86672.1| unknown [environmental sequence] [ score 60 E 2e-08 ] [ range 11 .. 66 ]
+sequence
+-KLRQERILSSALEVFKANGLDGATMDSIAEKAGFGKATLYYYFSSKEEVFLGIMEE------------*
+>P1;gi|23336603|ref|ZP_00121812.1| COG1309: Transcriptional regulato... [ score 59 E 2e-08 ] [ range 62 .. 109 ]
+sequence
+------RILDAARRIVERDGVDGLTIRALSAQADVSPTSIYQHIGGKQAVCDAL---------------*
+>P1;gi|23472033|ref|ZP_00127361.1| COG1309: Transcriptional regulato... [ score 59 E 2e-08 ] [ range 20 .. 72 ]
+sequence
+----REAILLAARNIAQSQGYNGLNFRDLAAQVGIKPASIYYHFPSKADLGVAVARR------------*
+>P1;gi|44465958|gb|EAJ46465.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 10 .. 64 ]
+sequence
+----KQELIDCACKMCERDGYTKLSIRSLAKESNVSQTAPYRHFKTKEDLYAEIAKEGF----------*
+>P1;gi|23129831|ref|ZP_00111654.1| COG1309: Transcriptional regulato... [ score 59 E 2e-08 ] [ range 10 .. 61 ]
+sequence
+--LTRIRLIEAASQVFASLGVQGATTREIARVAGVNEVTLFRHFASKEQLLGAV---------------*
+>P1;gi|15608493|ref|NP_215869.1| hypothetical protein Rv1353c [Mycob... [ score 59 E 2e-08 ] [ range 16 .. 75 ]
+sequence
+--INPEDIISGAFELAQQVSIDNLSMPLLGKHLGVGVTSIYWYFRKKDDLLNAMTDRALSKY-------*
+>P1;gi|39997792|ref|NP_953743.1| transcriptional regulator, TetR fam... [ score 59 E 3e-08 ] [ range 19 .. 72 ]
+sequence
+----RDEIVRAALELIAEHGFHGAPMALIAERAGVGAGTIYRYFENKDVLINEMYQEL-----------*
+>P1;gi|44557716|gb|EAK08959.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 21 .. 75 ]
+sequence
+---TRRRIIEAAVELFGEHGFEGASTRDIAALAGVNAPALQYYFENKEGVYRACVEAL-----------*
+>P1;gi|17544731|ref|NP_518133.1| PUTATIVE ACRAB OPERON REPRESSOR TRA... [ score 59 E 3e-08 ] [ range 12 .. 66 ]
+sequence
+---TRNRILDAAEEVFYVRGVARTSLSDIAQAAGVTRGAIYWHFRNKADVFAAMCERV-----------*
+>P1;gi|44294630|gb|EAI26334.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 3 .. 53 ]
+sequence
+----RVELVKCAENLCKKHGYEKLSLRAIAKEANVSQTAPYRHFKTKNDLLAEVA--------------*
+>P1;gi|28377199|ref|NP_784091.1| transcription regulator (putative) ... [ score 59 E 3e-08 ] [ range 20 .. 78 ]
+sequence
+-RITRTQILAAALDLFAEKGYEEVGTREIAERAGVAEGTLFHNFVNKNGILDAIMQPI-----------*

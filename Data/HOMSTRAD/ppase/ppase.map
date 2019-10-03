@@ -1,0 +1,2772 @@
+>P1;2prd
+structureX:2prd:   1 : : 174 : :inorganic pyrophosphatase:Thermus aquaticus: 2.0: 15.3
+-------------------------ANLK-SLPVGDKAP-EVVHMVIEVPRGS-GNKYEYDPD--LGAIK
+LD------RVLPG---AQFYPGDYGFIPSTLAE------------DGDPLDGLVLSTYPLLPGVVVEVRV
+VGLLLMEDEKGGDAKVIGVVA--EDQRLDHIQDIGDVP---EGVKQEIQHFFETYKALEAKKGKWVKVT-
+---GWRDRKAALEEVRACIARYKG----------------------------------------------
+--------*
+>P1;1obwa
+structureX:1obw:   1 :A: 175 :A:inorganic pyrophosphatase:Escherichia coli: 1.9: 17.6
+--------------------------SLL-NVPAGKDLP-EDIYVVIEIPANADPIKYEIDKE--SGALF
+VD------RFMST---AMFYPCNYGYINHTLSL------------DGDPVDVLVPTPYPLQPGSVTRCRP
+VGVLKMTDEAGEDAKLVAVPHSKLSKEYDHIKDVNDLP---ELLKAQIAHFFEHYKDLEK--GKWVKVE-
+---GWENAEAAKAEIVASFERAKNK---------------------------------------------
+--------*
+>P1;1qeza
+structureX:1qez:1002 :A:1171 :A:inorganic pyrophosphatase:Sulfolobus acidocaldarius: 2.7: 19.7
+------------------------------KLSPGKNAP-DVVNVLVEIPQGS-NIKYEYDDE--EGVIK
+VD------RVLYT---SMNYPFNYGFIPGTLEE------------DGDPLDVLVITNYQLYPGSVIEVRP
+IGILYMKDEEGEDAKIVAVPKDKTDPSFSNIKDINDLP---QATKNKIVHFFEHYKELEP--GKYVKIS-
+---GWGSATEAKNRIQLAIKRVS-----------------------------------------------
+--------*
+>P1;1wgja
+structureX:1wgj:   1 :A: 282 :A:inorganic pyrophosphatase:Saccharomyces cerevisiae: 2.0: 17.2
+TYTTRQIGAKNTLEYKVYIEKDGKPVSAFHDIPLYADKENNIFNMVVEIPRWT-NAKLEITKEETLNPII
+QDTKKGKLRFVRNCFPHHGYIHNYGAFPQTWEDPNVSHPETKAVGDNDPIDVLEIGETIAYTGQVKQVKA
+LGIMALLDEGETDWKVIAIDI--NDPLAPKLNDIEDVEKYFPGLLRATNEWFRIYKIPD---GKPENQFA
+FSGEAKNKKYALDIIKETHDSWKQLIAGKSSDSKGIDLTNVTLPDTPTYSKAASDAIPPASLKADAPIDK
+SIDKWFFI*
+>P1;gi|23102043|ref|ZP_00088572.1| COG0221: Inorganic pyrophosphatas... [ score 248 E 4e-65 ] [ range 160 .. 332 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANH-APKYEIDKD--SDCLF
+VD------RFMAT---PMFYPANYGYIPNTLAD------------DGDPLDVLVVTPYPVVPGSVIRARP
+VGVLHMTDESGGDAKLIAVPH--DKLLYQHVKEYTDLP---ALLLEQIKHFFENYKDLE--KGKWVKVE-
+---GWGDAEAARAEILKAVAAYQ-----------------------------------------------
+--------*
+>P1;gi|26251130|ref|NP_757170.1| Inorganic pyrophosphatase [Escheric... [ score 241 E 5e-63 ] [ range 2 .. 174 ]
+sequence
+--------------------------SLL-NVPAGKDLP-EDIYVVIEIPANA-DPKYEIDKE--SGALF
+VD------RFMST---AMFYPCNYGYINHTLSL------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGEDAKLIAVPH--TKKEYDHIKDVNDLP---ELLKAQIAHFFEHYKDLE--KGKWVKVE-
+---GWENAEAAKAEIVASFERAK-----------------------------------------------
+--------*
+>P1;gi|16123667|ref|NP_406980.1| inorganic pyrophosphatase [Yersinia... [ score 241 E 6e-63 ] [ range 2 .. 174 ]
+sequence
+--------------------------SLN-QVPAGKDLP-EDIYVVIEIPANA-DPKYEIDKE--TGSLF
+VD------RFMST---AMFYPCNYGYINNTLSL------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGEDAKLVAVPH--SKKEYDHVKDVQDLP---ELLKAQIKHFFEHYKDLE--TGKWVKVD-
+---GWEDAAAAKAEILSSFERAK-----------------------------------------------
+--------*
+>P1;gi|16331023|ref|NP_441751.1| inorganic pyrophosphatase [Synechoc... [ score 239 E 3e-62 ] [ range 66 .. 233 ]
+sequence
+--------------------------DLS-RIPAQPKA--GLINVLIEIPAGS-KNKYEFDKD--MNCFA
+LD------RVLYS---SVQYPYDYGFIPNTLAD------------DGDPLDGMVIMDQPTFPGCVITARP
+IGMLEMIDGGDRDEKILCVPA--KDPRYTYVKSINDLA---GHRLDEIAEFFRSYKNLEK---KVTEIL-
+---GWKDVDAVLPLVEECVKNYK-----------------------------------------------
+--------*
+>P1;gi|22994574|ref|ZP_00039072.1| COG0221: Inorganic pyrophosphatas... [ score 238 E 4e-62 ] [ range 49 .. 220 ]
+sequence
+---------------------------LE-LVNAGNNLP-EEINVIIEIPKDS-EPKYEVDKA--SGAIF
+VD------RILST---PMRYPCNYGYVPNTLCG------------DGDPVDVMVVLPLPLVPGSVVRCRP
+VGVLQMKDEAGNDEKLLAVPV--SKSGYSHIEDINQVS---AHWLERIGHFFEHYKDLE--EGKWVEID-
+---GWGNATTAKQILTSAVQRYK-----------------------------------------------
+--------*
+>P1;gi|37528370|ref|NP_931715.1| inorganic pyrophosphatase (pyrophos... [ score 237 E 9e-62 ] [ range 2 .. 172 ]
+sequence
+--------------------------SLN-LVPAGKELP-EDIYVIIEIPANA-DPKYEIDKE--SGALF
+VD------RFMST---TMFYPCNYGYINNTLSL------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDESGEDAKLVAVPH--SKKEYDHIKDVNDLP---ELLRAQITHFFEHYKDLE--KGKWVKVD-
+---GWDNVEAAKAEIISSFER-------------------------------------------------
+--------*
+>P1;gi|4033424|sp|O48556|IPYR_MAIZE Soluble inorganic pyrophosphatas... [ score 237 E 1e-61 ] [ range 40 .. 204 ]
+sequence
+------------------------------DLEIGPDAP-AVFNVVVEITKGS-KVKYELDKK--TGLIK
+VD------RVLYS---SVVYPHNYGFVPRTLCE------------DNDPMDVLVLMQEPVVPGSFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEYRHYNDISELS---PHRLQEIKRFFEDYKKNENKE---VAVD-
+---AFLPATTAREAIQYSMDLY------------------------------------------------
+--------*
+>P1;gi|16763234|ref|NP_458851.1| inorganic pyrophosphatase [Salmonel... [ score 236 E 1e-61 ] [ range 2 .. 172 ]
+sequence
+--------------------------SLL-NVPAGKELP-EDIYVVIEIPANA-DPKYEVDKE--SGALF
+VD------RFMST---AMFYPCNYGYINHTLSL------------DGDPVDVLVPTPYPLQPGAVIRCRP
+VGVLKMTDESGEDAKLVAVPH--TKKEYDHIKDVNDLP---ELLKAQITHFFEHYKDLE--KGKWVKVD-
+---GWDNAEAAKAEIVASFER-------------------------------------------------
+--------*
+>P1;gi|38345829|emb|CAD41934.2| OSJNBa0070M12.12 [Oryza sativa (japo... [ score 235 E 3e-61 ] [ range 39 .. 203 ]
+sequence
+------------------------------DLEIGPGAP-AVFNVVVEITKGS-KVKYELDKK--TGLIK
+VD------RVLYS---SVVYPHNYGFIPRTLCE------------DNDPMDVLVLMQEPVIPGSFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEYRHYNDISELS---PHRLQEIKRFFEDYKKNENKE---VAVD-
+---AFLPANTARDAIQYSMDLY------------------------------------------------
+--------*
+>P1;gi|32034233|ref|ZP_00134444.1| COG0221: Inorganic pyrophosphatas... [ score 235 E 3e-61 ] [ range 3 .. 174 ]
+sequence
+---------------------------LE-NVPAGKELP-DDIYVVIEIPANA-DPKYEVDKE--TGTLF
+VD------RFMST---AMFYPANYGYVNHTLSS------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGGDAKVVAVPH--TKKEYDHIKDVNDLP---ALLKAQIQHFFESYKALEA--GKWVKVE-
+---GWGDVNEARQEILESFERAK-----------------------------------------------
+--------*
+>P1;gi|23469950|ref|ZP_00125284.1| COG0221: Inorganic pyrophosphatas... [ score 234 E 4e-61 ] [ range 2 .. 175 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANH-APKYEIDKD--SDCLF
+VD------RFMAT---PMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVTPGSVIRARP
+VGILHMTDDGGGDAKVIAVPH--DKQLYVDVKEYTDLP---PLLLEQIKHFFENYKDLE--KGKWVKIE-
+---GWGNADAARAEITKSVAAYKG----------------------------------------------
+--------*
+>P1;gi|31196223|ref|XP_307059.1| ENSANGP00000000911 [Anopheles gambi... [ score 234 E 8e-61 ] [ range 2 .. 173 ]
+sequence
+--------------------------SLN-LVPAGKSLP-DDIYVIIEIPQNA-DPKYEVDKD--SGAIF
+VD------RFMST---PMFYPCNYGYVNATLSL------------DGDPVDVLVPTPYPLLAGSVIRCRP
+VGVLKMTDESGEDAKIVAVPH--SKKQYDHIKDVNDLP---ELLRAQIQHFFERYKELEA--GKWVKVE-
+---GWGDKAAAEAEIISSAERY------------------------------------------------
+--------*
+>P1;gi|28867950|ref|NP_790569.1| inorganic pyrophosphatase [Pseudomo... [ score 233 E 1e-60 ] [ range 2 .. 175 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANH-APKYEIDKD--TDCLF
+VD------RFMAT---PMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVTPGSVIRARP
+VGILHMTDDGGGDAKVIAVPH--DKQLYVDVKEYTDLP---ALLLEQIKHFFENYKDLE--KGKWVKIE-
+---GWGNADAARAEIMKSVEAFKG----------------------------------------------
+--------*
+>P1;gi|41053143|dbj|BAD08086.1| inorganic pyrophosphatase [Oryza sat... [ score 233 E 2e-60 ] [ range 40 .. 204 ]
+sequence
+------------------------------DLEIGPGAP-AVFNCVVEIPRGS-KVKYELDKA--TGLIK
+VD------RVLYS---SVVYPHNYGFIPRTLCE------------DGDPMDVLVLMQEQVVPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEYRHFRDIKEIP---PHRLQEIRRFFEDYKKNENKE---VAVN-
+---EFLPAEDAINAIKYSMDLY------------------------------------------------
+--------*
+>P1;gi|23028943|ref|ZP_00067314.1| COG0221: Inorganic pyrophosphatas... [ score 232 E 2e-60 ] [ range 2 .. 174 ]
+sequence
+--------------------------SLN-LVPTGKKVP-DEVNVIIEIPMGG-EPKYEIDKD--SGALF
+VD------RVLGT---SMRYPCNYGYVPHTLCG------------DGDPVDVLVYMDRPLVHGSVINCRP
+IGVLKMTDESGEDAKIVAVPV--SKSIYDNVQSIEDLP---EIATRQIAHFFEHYKDLEA--GKWVKVE-
+---GWEGVAAAKQEILDSVANYE-----------------------------------------------
+--------*
+>P1;gi|2851632|sp|O05545|IPYR_GLUOX Inorganic pyrophosphatase (Pyrop... [ score 232 E 3e-60 ] [ range 5 .. 176 ]
+sequence
+--------------------------DVS-KISPGKDLP-NDINVVIEIPQGS-QVKYEVDKD--SGALV
+VD------RFLFT---PHAYPAAYGFIPGTLGR------------DGDPADALVLTPAAVVPGSVIRARP
+IGMLKMEDESGQDEKIICVPA--RKPQFSNVHSVDDLP---EITKKAITHFFERYKDLE--PNKWVKVT-
+---GWADKAEAGKVIMEALAAAK-----------------------------------------------
+--------*
+>P1;gi|27364163|ref|NP_759691.1| Inorganic pyrophosphatase [Vibrio v... [ score 231 E 6e-60 ] [ range 2 .. 174 ]
+sequence
+--------------------------SLN-NVPAGKSLP-DDLYVVIEIPANA-DPKYEVDKE--SGAVF
+VD------RFMSA---PMFYPCNYGYVNHTLSL------------DGDPVDVLVPTPYPLMPGSVIRCRP
+VGVLKMTDESGEDAKVVAVPH--SKKEYDHIQDVNDLP---ELLKAQITHFFERYKELES--GKWVKVD-
+---GWEDVEAARKEILDSYQRAQ-----------------------------------------------
+--------*
+>P1;gi|22299426|ref|NP_682673.1| soluble inorganic pyrophosphatase [... [ score 231 E 7e-60 ] [ range 14 .. 182 ]
+sequence
+--------------------------DLS-RIPAQPK-P-GVVNVLVEIAGGS-RNKYEFDKE--MKVFA
+LD------RVLYS---AVVYPYDYGFIPNTLAD------------DGDPLDGLVMMDEPTFPGCVIPARP
+IGMLEMIDSGDRDEKILCVPV--DDPRYAEVKSLKDIA---PHRLEEIAEFFRTYKNLQK---KVTEIL-
+---GWQDVDAVQPLVEKCIKAYKG----------------------------------------------
+--------*
+>P1;gi|15599226|ref|NP_252720.1| inorganic pyrophosphatase [Pseudomo... [ score 231 E 7e-60 ] [ range 2 .. 174 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANH-APKYEIDKD--TDCLF
+VD------RFMAT---PMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVAPGSVIRARP
+VGVLHMTDEAGGDAKLIAVPH--DKLLYKDVKEYTDLP---ALLLEQIKHFFENYKDLE--KGKWVKVE-
+---GWGNADAARAEITKAVAAFQ-----------------------------------------------
+--------*
+>P1;gi|17936536|ref|NP_533326.1| inorganic pyrophosphatase [Agrobact... [ score 230 E 9e-60 ] [ range 3 .. 174 ]
+sequence
+---------------------------ID-AISIGKNPP-DDINVIVEVPVGG-HPKYEMDKD--AGALI
+VD------RFLYT---PMTYPGNYGFVPHTLSD------------DGDPIDVLICNTRPLVPGCVINVRP
+IGVMIMEDDGGKDEKILAVPA--PKQRYDKVHNYTDLP---EITLKQIEHFFEHYKDLE--PGKWVKMG-
+---GWQDVDVAKKLIVEAIERYK-----------------------------------------------
+--------*
+>P1;gi|26987276|ref|NP_742701.1| inorganic pyrophosphatase [Pseudomo... [ score 230 E 1e-59 ] [ range 2 .. 175 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANH-APKYEIDKD--SDTLF
+VD------RFMAT---PMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVAPGSVIRARP
+VGVLNMTDDGGGDAKVIAVPH--DKQLYVDVKEYTDLP---ALLIQQIEHFFANYKDLE--KGKWVKIE-
+---GWEGADAARAAITKSVAAYKG----------------------------------------------
+--------*
+>P1;gi|15642540|ref|NP_232173.1| inorganic pyrophosphatase [Vibrio c... [ score 230 E 1e-59 ] [ range 2 .. 174 ]
+sequence
+--------------------------SLN-NVPAGKSLP-DDIYVVIEIPANA-DPKYEVDKE--SGAVF
+VD------RFMSA---PMFYPCNYGYVNHTLSL------------DGDPVDVLVPTPYPLIPGSVIRCRP
+VGVLKMTDESGEDAKVVAVPH--TKKEYDHIQDVNDLP---ALLKAQITHFFERYKELES--GKWVKVD-
+---GWEDAASARAEILSSYERAQ-----------------------------------------------
+--------*
+>P1;gi|15966840|ref|NP_387193.1| PROBABLE INORGANIC PYROPHOSPHATASE ... [ score 230 E 1e-59 ] [ range 3 .. 174 ]
+sequence
+---------------------------ID-AISIGKNPP-EDVNVIVEVPVGG-HPKYEMDKE--AGTLV
+VD------RFLYT---PMTYPGNYGFVPHTLSD------------DGDPIDVLICNTRPLVPGCVINVRP
+IGVMMMEDNSGQDEKIIAVPS--AHKRYDKVHDYTDLP---EITLKQIEHFFEHYKDLE--PGKWVKIF-
+---GWKDASMAKQLIREAVERAK-----------------------------------------------
+--------*
+>P1;gi|41725237|ref|ZP_00151995.1| hypothetical protein Daro015901 [... [ score 229 E 3e-59 ] [ range 3 .. 173 ]
+sequence
+---------------------------LN-NVPSGKSLP-DDFNVIIEISAHS-EPKYEVDKE--SGAIF
+VD------RFMST---SMHYPCNYGYIPHTIAG------------DGDPVDVLVVAPFSLPPGVVVRCRP
+LGQLSMTDEGGNDAKLLAVPV--DKPLYKDAKSIEDMP---ELLRKQISHFFEHYKDLE--PGKWVKVN-
+---GWEDIDAARKEVMEGVQRY------------------------------------------------
+--------*
+>P1;gi|28897085|ref|NP_796690.1| inorganic pyrophosphatase [Vibrio p... [ score 228 E 5e-59 ] [ range 2 .. 174 ]
+sequence
+--------------------------SLN-HVPAGKSLP-EDIYVVIEIPANA-DPKYEVDKD--SGAVF
+VD------RFMSA---PMFYPCNYGYVNNTLSL------------DGDPVDVLVPTPYPLMPGSVIRCRP
+VGVLKMTDESGEDAKVVAVPH--SKKEYEHIQDVGDIP---ELLKAQITHFFERYKELES--GKWVKVD-
+---GWADVEAAKAEILQSYERAQ-----------------------------------------------
+--------*
+>P1;gi|15678291|ref|NP_275406.1| inorganic pyrophosphatase [Methanot... [ score 227 E 8e-59 ] [ range 5 .. 171 ]
+sequence
+----------------------------K-DIEPGPSVP-EVVYAVVEIPKGS-RNKYEYHKD--LQAFA
+LD------RVLYS---AVFYPAEYGIIPRTLYD------------DGDPMDILVLMDEPTFPGCIIESRP
+IGLLRMIDGGDQDDKILAVPV--ADPHFADVKDISDIP---EHNLKEIANFFETYKKLEGKKTETL----
+---GWEGAEKAFEAVNHSIELYR-----------------------------------------------
+--------*
+>P1;gi|44476598|gb|EAJ54073.1| unknown [environmental sequence] [ score 227 E 8e-59 ] [ range 2 .. 174 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANH-APKYEIDHD--TDCLM
+VD------RFMAT---PMFYPANYGFIPHTLAD------------DGDPLDVLVVTPYPVAPGSVIRARP
+VGVLHMSDEAGGDAKLVAVPH--DKLLYKDVQEYTDLP---ALLIEQIKHFFENYKDLE--KGKWVKVE-
+---GWGGAEEARGLINKAVAAYQ-----------------------------------------------
+--------*
+>P1;gi|23062057|ref|ZP_00086862.1| COG0221: Inorganic pyrophosphatas... [ score 226 E 1e-58 ] [ range 2 .. 175 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANH-APKYEIDKD--SDCLF
+VD------RFMAT---PMFYPANYGYIPNTLAD------------DGDPLDVLVVTPYPVAPGSVIRARP
+VGILNMTDDGGGDAKVIAVPH--DKQLYVDVKEYTDLP---ALLIQQIEHFFANYKDLE--KGKWVKIE-
+---GWDGADAARAAITKSVAAYKG----------------------------------------------
+--------*
+>P1;gi|25290346|pir||C86141 protein T25K16.5 [imported] - Arabidopsi... [ score 226 E 2e-58 ] [ range 38 .. 220 ]
+sequence
+------------------------------DLEIGPGAP-QIFNVVVEITKGS-KVKYELDKK--TGLIK
+VD------RILYS---SVVYPHNYGFVPRTLCE------------DNDPIDVLVIMQEPVLPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCV--DDPEYKHYTDIKELP---PHRLSEIRRFFEDCSTNKKNENKEVAVN-
+---DFLPSESAVEAIQYSMDLY------------------------------------------------
+--------*
+>P1;gi|22972567|ref|ZP_00019438.1| hypothetical protein [Chloroflexu... [ score 226 E 2e-58 ] [ range 11 .. 175 ]
+sequence
+------------------------------DLEPGPDVP-NVIHVVVEIPKGS-RNKYEFDKR--IGAFR
+LD------RVLYS---AVQYPGDYGFMPQTYYD------------DGDPLDVLVMTNLPTFPGCIVEARP
+LGLFRMLDKGEPDDKVLAVLQ--YDPFFADYHNYTALP---AHYLREVEHFFTVYKDLEGSRVEPV----
+---GWESADVARERIQYSIDRY------------------------------------------------
+--------*
+>P1;gi|81645|pir||S13379 inorganic diphosphatase (EC 3.6.1.1) - Arab... [ score 226 E 2e-58 ] [ range 44 .. 209 ]
+sequence
+------------------------------DLEIGPEAP-TVFNCAVEISKGG-KVKYELDKN--SGLIK
+VD------RVLYS---SIVYPHNYGFIPRTICE------------DSDPMDVLVLMQEPVLTGSFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEFRHYRDIKELP---PHRLAEIRRFFEDYKKNENKK---VDVE-
+---AFLPAQAAIDAIKDSMDLYE-----------------------------------------------
+--------*
+>P1;gi|44416790|gb|EAJ11847.1| unknown [environmental sequence] [ score 225 E 3e-58 ] [ range 2 .. 174 ]
+sequence
+--------------------------SLS-QVAAGKNLP-DEINVIIEIPANA-DPKYEVDKD--TGTVW
+VD------RFMAT---PMFYPCNYGFVNHTLSL------------DGDPVDVLVPTPYPLVPGAVIKCRP
+VAVLKMADESGEDAKVLAVPI--SKKIYDNIQDLDDVP---ELLKNQIQHFFERYKELE--PGKWVKVI-
+---GWGDKAEAKAEIVSSFERAQ-----------------------------------------------
+--------*
+>P1;gi|33597226|ref|NP_884869.1| inorganic pyrophosphatase [Bordetel... [ score 225 E 4e-58 ] [ range 2 .. 176 ]
+sequence
+--------------------------SLD-RVAPGKKLP-DDFNVIIEIPMNA-DPKYEVDKE--SGAIF
+VD------RFMLT---AMHYPCNYGYIPQTLSE------------DGDPADVLVLTPFPIQIGAVVRCRA
+IGVLEMDDESGGDAKLLAVPI--EKPPYRNIKSYEDLP---AEDVSRIQHFFEHYKDLE--KGKWVKVK-
+---GWKGVDAAHEEIVRSAERYKG----------------------------------------------
+--------*
+>P1;gi|16124303|ref|NP_418867.1| inorganic pyrophosphatase [Caulobac... [ score 222 E 3e-57 ] [ range 2 .. 173 ]
+sequence
+--------------------------DLS-KIAVGVNPP-YDLNAIIEIPQGG-EPKYEIDKE--SGALM
+VD------RFLHT---AMFYPANYGFIPHTLAD------------DGDPADIMVVGPTPVVPGAIIRCRP
+IGTLMMVDEAGSDEKILAVPV--DKPFYTGVTSWRDLP---TILTEQIAHFFQHYKDLE--KGKSTKIS-
+---GWADPDETAEIIRTAIKRY------------------------------------------------
+--------*
+>P1;gi|13473502|ref|NP_105069.1| inorganic pyrophosphatase [Mesorhiz... [ score 222 E 3e-57 ] [ range 3 .. 174 ]
+sequence
+---------------------------IE-AIATGKNPP-EDVNVIIEVPIGG-EPKYEMDKE--AGTLF
+VD------RFLHT---SMRYPGNYGFVPHTLSG------------DGDPIDVLVCNTRALVPGCVINVRP
+IGVLVMEDNAGQDEKVIAVPS--PKLRYENVTEYTHLP---EITRQQVQHFFEHYKDLE--PGKWVKIE-
+---GWHDSKYAKKMIVDAIERAK-----------------------------------------------
+--------*
+>P1;gi|15614167|ref|NP_242470.1| inorganic pyrophosphatase [Bacillus... [ score 221 E 5e-57 ] [ range 5 .. 163 ]
+sequence
+--------------------------------------P-KVIEAFIEIPTGS-QNKYEYDKE--RGVFK
+LD------RVLFS---PMFYPAEYGYIENTLAL------------DGDPLDVLVIVSNPTFPGCVIDAKV
+LGFLNMIDGGEEDQKLIAVPT--EDPRFKDVNSLNDLP---KHKLDEIAHFFKTYKDLEGKK---TEVG-
+---AYEDAEAAAKLIDECFARYKG----------------------------------------------
+--------*
+>P1;gi|14010721|ref|NP_114207.1| unknown [Pseudomonas syringae pv. m... [ score 221 E 5e-57 ] [ range 5 .. 173 ]
+sequence
+------------------------------DIPAGNAIP-DDFFTVIEIPANH-SPKYEVDKP--SGQIF
+VD------RFLST---PMFYPANYGFIPNTLSD------------DGDPLDVLVICPYPVSPGVVIRSRP
+VGVMYMTDEAGADAKVIAVPH--EKSMYSNVKECSDLP---ALLLAQIQHFFENYKALE--PGKWVKMG-
+---RWGSADEAREDIRKSVAAY------------------------------------------------
+--------*
+>P1;gi|34498827|ref|NP_903042.1| inorganic diphosphatase [Chromobact... [ score 220 E 1e-56 ] [ range 2 .. 173 ]
+sequence
+--------------------------NLA-SIGPGKDMP-GDFNVVIEISANA-APKYEFDKD--WNTLV
+VD------RFMGT---SMMYPANYGFVPQTLAG------------DGDPVDVLVVTPFPLPPGVVVRCRA
+LGLIKMEDDGGVDAKLVAVPV--EKPMYKSIQKLEDLP---ELLRNQMVHFFEHYKDLE--KGKWVKIQ-
+---GWGTLEDAKTELVEGIERF------------------------------------------------
+--------*
+>P1;gi|34908590|ref|NP_915642.1| P0505D12.23 [Oryza sativa (japonica... [ score 219 E 2e-56 ] [ range 39 .. 201 ]
+sequence
+------------------------------DLDTGADAP-AVFNVVVEISKGS-KVKYELDKK--TGFIM
+VD------RVLYS---SVVYPHNYGFIPRTLCE------------DNDPMDVLVLMQEPVIPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCV--DDPEYRHYNDLSELS---PHRVQEIRRFFEDYKKNENKE---VAVN-
+---EVLPVTAARDAIQYSIS--------------------------------------------------
+--------*
+>P1;gi|27375659|ref|NP_767188.1| inorganic pyrophosphatase [Bradyrhi... [ score 219 E 2e-56 ] [ range 3 .. 174 ]
+sequence
+---------------------------ID-AISIGKNVP-QDVNVIIEVPVGG-EPKYEMDKE--AGTLV
+VD------RFLYT---PMRYPGNYGFIPHTLSD------------DGDPCDVLIINTRAIIPGAVMSVRP
+VGVLFMEDEAGGDEKILAVPS--SKQRYDKVKSYSDLP---DITLQQIQHFFEHYKDLE--KGKWVKIL-
+---RWGGPEDAHKLILEGIEREK-----------------------------------------------
+--------*
+>P1;gi|17231062|ref|NP_487610.1| inorganic pyrophosphatase [Nostoc s... [ score 218 E 4e-56 ] [ range 2 .. 169 ]
+sequence
+--------------------------DLS-RIPAQPK-P-GVINILIEIAGGS-QNKYEFDKD--LEAFA
+LD------RVLYS---SVKYPYDYGFVPNTLAD------------DGDPLDGMVIIDEPTFPGCVIAARP
+IGFLEMIDGGDRDEKILAVPD--KDPRYAHVKSLNDVA---PHRLDEIAEFFRSYKNLEK---KVTQIL-
+---GWQDVDQVKALVDQSIKAYK-----------------------------------------------
+--------*
+>P1;gi|34558091|ref|NP_907906.1| INORGANIC PYROPHOSPHATASE [Wolinell... [ score 218 E 5e-56 ] [ range 2 .. 173 ]
+sequence
+--------------------------NIE-KICYGEN-P-DKLNAVIEIPYGS-NIKYEIDKE--SGAVV
+VD------RVMYS---AMFYPANYGFVPNTLAD------------DGDPADILVLNEYPLQAGSVIKCRL
+IGVLVMEDEAGMDEKLLAVPV--TDPRYEGIQTYQDLP---KITLDKIKNFFETYKMLE--PNKWVRVK-
+---EFKDKDEAAALLEKAIKAYGG----------------------------------------------
+--------*
+>P1;gi|23130472|ref|ZP_00112287.1| COG0221: Inorganic pyrophosphatas... [ score 217 E 6e-56 ] [ range 2 .. 170 ]
+sequence
+--------------------------DLS-RIPAQPK-P-GLINVLIEITGGS-KNKYEYDKE--LEAFA
+LD------RVLYS---SVKYPYDYGFVPNTLAD------------DGDPLDGMVIIDEPTFPGCIIAARP
+IGFLEMIDGGDRDEKILCVPD--KDPRYTQVKSLKDVA---PHRLDEIAEFFRSYKNLEK---KVTEIL-
+---GWQDVDKVAALVEKSVKAYRG----------------------------------------------
+--------*
+>P1;gi|37523796|ref|NP_927173.1| inorganic pyrophosphatase [Gloeobac... [ score 217 E 1e-55 ] [ range 3 .. 169 ]
+sequence
+--------------------------DLS-KIPARPK-E-GLINVLVEIPGRS-HNKFEFDKD--LGIFT
+LD------RVLYA---AVYYPGDYGFVPNTLAD------------DGDPLDGLVLMDEPTFTGCLIAARP
+IGVLGMIDSGEGDEKILCVPV--KDPRYAGVKDLSDIA---QHRLDEIAEFFATYKRLEK---KVTEIT-
+---GWQGVEVAQQLVDKAIAAY------------------------------------------------
+--------*
+>P1;gi|4033417|sp|O23979|IPYR_HORVD Soluble inorganic pyrophosphatas... [ score 216 E 2e-55 ] [ range 43 .. 205 ]
+sequence
+------------------------------DLEIGPGAP-AVFNVVVEITKGS-KVKYELDKK--TGLIK
+VD------RVLYS---SVVYPHNYGFIPRTLCE------------DNDPMDVLVLMQEPVIPGSFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEYRHYTSVSLLP---R--LQEIKR-LEDYKKNENKE---VAVD-
+---AFLPATTAREAIQYSMDLY------------------------------------------------
+--------*
+>P1;gi|15827013|ref|NP_301276.1| putative inorganic pyrophosphatase ... [ score 215 E 4e-55 ] [ range 3 .. 158 ]
+sequence
+------------------------------------------FDVTIEIPKGQ-RNKYEVDHK--TGRVR
+LD------RYLYT---PMAYPTDYGFIEDTLGE------------DGDPLDALVLLPEPLFPGVLVEARP
+VGMFRMVDEHGGDDKVLCVPV--NDHRWDHIHGIIDVP---TFELDAIKHFFVHYKDLE--PGKFVKAA-
+---DWVGRDEAEAEVQRSVERFK-----------------------------------------------
+--------*
+>P1;gi|32491229|ref|NP_871483.1| ppa [Wigglesworthia glossinidia end... [ score 215 E 4e-55 ] [ range 2 .. 175 ]
+sequence
+--------------------------NLN-SVPAGEKLP-NDIYAIIEIPTNS-NPKYEVDKK--TGILF
+VN------RFIPT---SMFYPCNYGYINHTISL------------DGDPLDILVPTPYPVLHGSVIRCNP
+IGVLKMIDESGEDAKIIAMPH--QKLLANNIKNIDDIS---NLMKSQISHFFEHYKDLEKK--KWTKVI-
+---SWEDVKSAEKEILSSFNRKK-----------------------------------------------
+--------*
+>P1;gi|15610764|ref|NP_218145.1| ppa [Mycobacterium tuberculosis H37... [ score 215 E 4e-55 ] [ range 3 .. 158 ]
+sequence
+------------------------------------------FDVTIEIPKGQ-RNKYEVDHE--TGRVR
+LD------RYLYT---PMAYPTDYGFIEDTLGD------------DGDPLDALVLLPQPVFPGVLVAARP
+VGMFRMVDEHGGDDKVLCVPA--GDPRWDHVQDIGDVP---AFELDAIKHFFVHYKDLE--PGKFVKAA-
+---DWVDRAEAEAEVQRSVERFK-----------------------------------------------
+--------*
+>P1;gi|39933488|ref|NP_945764.1| inorganic pyrophosphatase [Rhodopse... [ score 214 E 5e-55 ] [ range 3 .. 174 ]
+sequence
+---------------------------ID-AIPVGVNPP-YDVNVIIEVPVGG-EPKYEMDKA--AGTLV
+VD------RFLYT---AMHYPGNYGFIPHTLSD------------DGDPCDVLVANTRGIVPGAVMSVRP
+VGVLYMSDEAGHDEKIIAVPS--SKQRYDRIKTYSDLP---EITLAQFQHFFEHYKDLE--PGKWVKVV-
+---RWGGADEAHKLILEGLDRAK-----------------------------------------------
+--------*
+>P1;gi|20091497|ref|NP_617572.1| inorganic pyrophosphatase [Methanos... [ score 213 E 1e-54 ] [ range 8 .. 163 ]
+sequence
+----------------------------------------QVESVLIEIPKGS-RNKYEYDKE--KKVIK
+FD------RMLFS---SMVYPCDYGFFPDTLAL------------DGDPLDALVLTWEPTFPGCVIDVHP
+VALLDMKDDKGRDEKILCVPE--TDPLWNYIETLEQVP---PHLLKEIVHFFETYKNLE---GKHVIVI-
+---GWEGLDAAVDMLREAKSRY------------------------------------------------
+--------*
+>P1;gi|43746276|gb|EAF27529.1| unknown [environmental sequence] [ score 213 E 1e-54 ] [ range 2 .. 165 ]
+sequence
+--------------------------DLS-SIPPSP-MK-GIVNIVVEIPAGS-RNKYEYCSD--AGLMA
+LD------RVLHS---SVRYPFDYGFIPNTLAD------------DGAPLDAMVIMDEPTFAGCLIKARP
+IGVLDMHDCGAYDGKLLCVPV--ANPRQANIVSINQIA---PNQLEDVAEFFRTSKGLD---GRTVQID-
+---GWRDFDVVENLLKSCI---------------------------------------------------
+--------*
+>P1;gi|44335446|gb|EAI54453.1| unknown [environmental sequence] [ score 213 E 1e-54 ] [ range 2 .. 166 ]
+sequence
+--------------------------DLS-SIPPSP-MN-GIVNIVVEIPAGS-RNKYEYCSE--AGIMA
+LD------RVLHS---SVRYPFDYGFIPNTLAD------------DGAPLDAMVIMDEPTFAGCLIKARP
+IGVLDMHDCGAYDGKLLCVPM--ANPRQANIVSINQIA---PNQLEDVAEFFRTSKGLD---GRTVQID-
+---GWRDFDVVENLLKSCMA--------------------------------------------------
+--------*
+>P1;gi|33239961|ref|NP_874903.1| Inorganic pyrophosphatase [Prochlor... [ score 212 E 3e-54 ] [ range 2 .. 169 ]
+sequence
+--------------------------DLT-PLSPSPSL--GLVNLVVEIPAGS-RNKYEYFAE--AGTMA
+LD------RVLHS---SVRYPFDYGFIPNTLAE------------DGAPLDAMVIMEEPTFAGCLIKARP
+IGVLDMHDSGAYDGKLLCVPV--ADPRQKGITSIRQIA---PNQLEDVAEFFRTYKSLE---GRVVVID-
+---GWRDHDVVDDLLQTCIDARK-----------------------------------------------
+--------*
+>P1;gi|21244167|ref|NP_643749.1| inorganic pyrophosphatase [Xanthomo... [ score 212 E 3e-54 ] [ range 3 .. 173 ]
+sequence
+---------------------------LE-LVTSGKNLP-EEINVVIEIPKDS-EPKYEVDKA--SGAIF
+VD------RILST---PMRYPCNYGYVPNTLCG------------DGDPADVLVVLPLPLVPGSVVRCRP
+VGVLRMSDEAGSDEKILAVPI--EKSGYAHIEDINQVS---SHWMERIGHFFEHYKDLE--KGKWVKLD-
+---GWGGAAEAKRILTESVERY------------------------------------------------
+--------*
+>P1;gi|25808517|gb|AAN74385.1| inorganic pyrophosphatase [Helicobact... [ score 211 E 6e-54 ] [ range 2 .. 173 ]
+sequence
+--------------------------NLD-QLEVSHDA--SVLSVVIEISKHS-NIKYELDKE--SGALM
+VD------RVLYG---AQNYPANYGFVPNTLGS------------DGDPVDALVLSDVAFQAGSVVKARL
+VGVLNMEDESGMDEKLLALPI--DDPTHSYVKDINDLS---KHTLDKIKHFFETYKDLE--PNKWVKVK-
+---GFENKESAIKVLEKAIKAYQG----------------------------------------------
+--------*
+>P1;gi|18564757|emb|CAC81009.2| soluble inorganic pyrophosphatase [A... [ score 211 E 6e-54 ] [ range 2 .. 168 ]
+sequence
+--------------------------DLS-RIPAQPK-P-GVINILIEIAGGS-QNKYEFDKD--LEAFA
+LD------RVLYS---SVKYPYDYGFVPNTLAD------------DGDPLDGMVIIDEPTFPGCVIAARP
+IGFLEMIDGGDRDEKILAVPD--KDPRYAHRKSLNDVA---PHRLDEIAEFFRSYKNLEKKVTQSV----
+---GWQDVDQVKALVDHPVKAY------------------------------------------------
+--------*
+>P1;gi|43729808|gb|EAF19752.1| unknown [environmental sequence] [ score 211 E 6e-54 ] [ range 2 .. 165 ]
+sequence
+--------------------------DLS-SIPPSP-MK-GIVNIIVEIPSGS-RNKYEYCSD--AGIMA
+LD------RVLHS---SVRYPFDYGFIPNTLAD------------DGAPLDAMVIMDEPTFAGCLIKARP
+IGVLDMHDCGAYDGKLLCVPM--ANPRQANIVSINQIA---PNQLEDVAEFFRTSKGLD---GRTVQID-
+---GWRDFDVVENLLKSCI---------------------------------------------------
+--------*
+>P1;gi|23110666|ref|ZP_00096819.1| COG0221: Inorganic pyrophosphatas... [ score 211 E 7e-54 ] [ range 3 .. 174 ]
+sequence
+---------------------------ID-MIPTGDNPP-ESLNVIIEVPVGG-EPKYEFDKA--SGALF
+VD------RILHT---PMRYPANYGFVPHTLSP------------DGDPLDALVIARSPFVAGSVVRARP
+IAVLNLEDEHGGDEKLVCVPV--DSPYYSDVKERDDLP---EIVMQQIEHFFTHYKDLE--KDKWVRVG-
+---TWGDAEDAKRITIEAIERAK-----------------------------------------------
+--------*
+>P1;gi|28493121|ref|NP_787282.1| inorganic pyrophosphatase [Trophery... [ score 211 E 7e-54 ] [ range 7 .. 163 ]
+sequence
+----------------------------------------QTLTAIVEIPRGS-RSKYEIDKK--TGRLF
+LD------RVVST---AFGYPTNYGFIENTLAL------------DGDPIDALILVQNQLFPGVALHIRP
+VGVLHMTDDGGEDDKVLCVAL--KDPYCDHINDLDDVP---KHVLNQIEHFFQHYKDLE--EGKWVKLG-
+---AWNGKDKAIEIITEGLSRF------------------------------------------------
+--------*
+>P1;gi|38234570|ref|NP_940337.1| inorganic pyrophosphatase [Coryneba... [ score 210 E 9e-54 ] [ range 3 .. 158 ]
+sequence
+------------------------------------------IEVTIEIPKGS-RNKYEVDHE--TGKVY
+LD------RYLFT---PMAYPLDYGFIDHTLGE------------DGDPLDALVILPEPVFPGVIVKARP
+LGVFKMTDEAGGDDKLLCV-I--DDPRWDHLQDIQDVS---SFLRDEIEHFFVHYKDLE--PNKEVTGS-
+---GWGDKAEAEKIHAESIERYQG----------------------------------------------
+--------*
+>P1;gi|23135798|ref|ZP_00117533.1| COG0221: Inorganic pyrophosphatas... [ score 209 E 2e-53 ] [ range 6 .. 170 ]
+sequence
+------------------------------DVSFGDESP-SIVQCIIEIPSGS-KAKYELDKE--SGLLR
+LD------RVLFS---SVHYPANYGFIPRTYCD------------DKDPLDVLVISQVEVVPFCIVNAKV
+IGVMRMLDGGEKDDKIIAVAA--DDISVKHYNDISDLP---PHTILEVQRFFEDYKKLENKK---VVVE-
+---DFLGREEALRIVNESIELY------------------------------------------------
+--------*
+>P1;gi|4033421|sp|O22537|IPYR_ORYSA Soluble inorganic pyrophosphatas... [ score 209 E 2e-53 ] [ range 40 .. 204 ]
+sequence
+------------------------------DLEIGPGAP-AVFNCVVEIPRGS-KVKCELDKA--TGLIK
+VD------RVLYS---SVVYPHNYGFIPRTLCE------------DGDPMDVLVLMQEQVVPGCFLRARA
+IGLMPMIDQGEKDDKIIAVRA--DDLNTATSGTSRKSP---FTAFKRSAVFFEDYKKNENKE---VAVN-
+---EFFPAEDAINAIKYSMDFY------------------------------------------------
+--------*
+>P1;gi|33861068|ref|NP_892629.1| Inorganic pyrophosphatase [Prochlor... [ score 207 E 9e-53 ] [ range 2 .. 164 ]
+sequence
+--------------------------DLS-LIPPSP-MK-GIVNLVVEIPAGS-RNKYEYCSQ--AGIME
+LD------RILHS---SVRYPFDYGFVPNTLAD------------DGSPLDAMVIMDEPTFAGCLIKARP
+IGVLDMHDCGKYDGKLLCVPI--SNPRQENIISINQIA---PNQLEDVAEFFRTSKGLD---GRTVQID-
+---GWRDFEVVEELLRKC----------------------------------------------------
+--------*
+>P1;gi|15889917|ref|NP_355598.1| AGR_C_4822p [Agrobacterium tumefaci... [ score 207 E 1e-52 ] [ range 5 .. 153 ]
+sequence
+---------------------------------------------------GH-PIKYEMDKD--AGALI
+VD------RFLYT---PMTYPGNYGFVPHTLSD------------DGDPIDVLICNTRPLVPGCVINVRP
+IGVMIMEDDGGKDEKILAVPA--PKQRYDKVHNYTDLP---EITLKQIEHFFEHYKDLE--PGKWVKMG-
+---GWQDVDVAKKLIVEAIERYK-----------------------------------------------
+--------*
+>P1;gi|23050602|ref|ZP_00077482.1| COG0221: Inorganic pyrophosphatas... [ score 204 E 1e-51 ] [ range 5 .. 160 ]
+sequence
+----------------------------------------QVESVIVEIPKGS-RNKFEYDNE--KRLIK
+FD------RMLSS---SMVYPSDYGFFPDTLSL------------DGDPLDAMVLTWEPTFPGCVIEVYL
+VALFDMEDYKGRDQKILCVPK--NDPMWNYIESVDQVP---PHLFKEITHFFQTYKNLDK---KQVKVI-
+---GWKSLETAVAVLQEAKDRY------------------------------------------------
+--------*
+>P1;gi|20138579|sp|P58733|IPYR_PSEAO Inorganic pyrophosphatase (Pyro... [ score 202 E 4e-51 ] [ range 2 .. 169 ]
+sequence
+--------------------------DLS-RIPPQPKA--GILNVLIEIPAGS-KNKYEFDKD--LNAFA
+LD------RVLYS---SVQYPYDYGFVPITLAD------------DGDPLDGMVIMVPPTFPG-VATARP
+IGMLQMVDGGDRDEKFLCVPA--KDPRYTYVKSANDLA---GHRLDEIFEFFRSYKNLFKKP---TEFF-
+---GWKGDVAGLPLVEECVKNY------------------------------------------------
+--------*
+>P1;gi|44349489|gb|EAI64339.1| unknown [environmental sequence] [ score 201 E 5e-51 ] [ range 24 .. 186 ]
+sequence
+-----------------------------------DSSN-TIINTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDVIVGVTEPLIPGSIVEARI
+IGVMKFDDGGEVDDKVIAVLA--DDKRMDHISSYEDLG---DHWLKETKYYWEHYKDL--KKPGTCTVN-
+---GFFGIEEAVKVIKDCEERYK-----------------------------------------------
+--------*
+>P1;gi|43360106|gb|EAD44922.1| unknown [environmental sequence] [ score 200 E 9e-51 ] [ range 24 .. 186 ]
+sequence
+-----------------------------------DSTN-RVINTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDVIVSVTEPLIPGSIVEARI
+IGVMKFDDGGEVDDKVIAVLA--DDKRMDHISSYEDLG---EHWLKETKYYWEHYKDL--KKPGTCTVN-
+---GFFGIEEAVKVIKDCEDRYK-----------------------------------------------
+--------*
+>P1;gi|44593242|gb|EAK34011.1| unknown [environmental sequence] [ score 200 E 1e-50 ] [ range 13 .. 153 ]
+sequence
+--------------------------SLL-NVPAGKDLP-EDIYVVIEIPANA-DPKYEVDKE--SGALF
+VD------RFMST---AMFYPCNYGYINHTLSL------------DGDPVDVLVPTPYPLEPGSVIRCRP
+VGVLKMTDESGEDAKLVAVPH--TKKEYDHIKDVTDLP---ELLKAQITHFFEHY---------------
+----------------------------------------------------------------------
+--------*
+>P1;gi|33863525|ref|NP_895085.1| Inorganic pyrophosphatase [Prochlor... [ score 199 E 2e-50 ] [ range 2 .. 169 ]
+sequence
+--------------------------D-L-SSLLPSPSP-GLVNLLVEIPAGS-RNKYEYFDE--AGVMA
+LD------RVLHS---SVRYPFDYGFIPNTLAE------------DGAPLDAMVIMEEPTFAGCLIRARP
+IGVLDMHDSGAYDGKLLCVPV--ADPRQRSISSIRQIS---ASQLEDVAEFFRTYKNLE---GRVVDIG-
+---GWRDSEAVEPLLETCAKAAQ-----------------------------------------------
+--------*
+>P1;gi|15789550|ref|NP_279374.1| inorganic pyrophosphatase; Ipp [Hal... [ score 197 E 6e-50 ] [ range 2 .. 172 ]
+sequence
+-------------------------ANLE-DLETGPDAP-DVIYAVVECLKGE-RNKYEYDKD--IPGVV
+LD------RVLHS---NVHYPSDYGFIPQSYYD------------DGDPFDVLVLVEDQTFPGCVIEARP
+VALMEMDDDGEQDDKVIAVPE--EDPRYDDVEDVDDLT---DQQKAEIAEFFETYKNLEAD--KETAVL-
+---GWGDAQAAKDAIEHAQDLY------------------------------------------------
+--------*
+>P1;gi|44123619|gb|EAH25330.1| unknown [environmental sequence] [ score 197 E 8e-50 ] [ range 24 .. 186 ]
+sequence
+-----------------------------------DRTK-SVVNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIIVGVTEPLVPGSIVESRI
+IGVMKFDDGGEVDDKVIAVLA--DDKRMDHIRTFDDLG---EHWLKETKYYWEHYKDL--KKPGTCTVN-
+---GFYGIEEAVKVIQDCESRYQ-----------------------------------------------
+--------*
+>P1;gi|44278352|gb|EAI15475.1| unknown [environmental sequence] [ score 197 E 8e-50 ] [ range 2 .. 165 ]
+sequence
+--------------------------DLS-AIPAQPNI--GLLHVVVEVPAGG-RNKYEYLPV--PGLMG
+LD------RVLHP---SVQYPFDYGFVPNTLAE------------DGSPLDAMVVMEEPTFPGCLILTRP
+IGMLEVIDNGRFDAKVLCVPA--NDPHLDRMSNLGQIS---AQQLEDIAEFFRTHRGLD---GRMTEIQ-
+---GWSEGLPVLEHIKRCI---------------------------------------------------
+--------*
+>P1;gi|33861051|ref|NP_892612.1| putative inorganic pyrophosphatase ... [ score 197 E 8e-50 ] [ range 24 .. 186 ]
+sequence
+-----------------------------------DNTK-SIVNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIIVGVTEPLVPGSIVESRI
+IGVMKFDDGGEVDDKVIAVLS--DDKRMDHIHTFEDLG---EHWLNETKYYWEHYKDL--KKPGTCTVN-
+---GFYGIEEAVKVIQDCESRYQ-----------------------------------------------
+--------*
+>P1;gi|15676541|ref|NP_273684.1| inorganic pyrophosphatase [Neisseri... [ score 196 E 1e-49 ] [ range 2 .. 173 ]
+sequence
+-------------------------ADFN-QITPGDVDG-GIINVVNEIPAGS-NHKIEWNRK--LAAFQ
+LD------RVEPA---IFAKPTNYGFIPQTLDE------------DGDELDVLLVTEQPLATGVFLEARV
+IGVMKFVDDGEVDDKIVCVPA--DDRNNGNYKTLSDLP---QQLIKQIEFHFNHYKDL--KKAGTTKVE-
+---SWGDAEEAKKVIKESIERW------------------------------------------------
+--------*
+>P1;gi|44493457|gb|EAJ65086.1| unknown [environmental sequence] [ score 193 E 1e-48 ] [ range 24 .. 185 ]
+sequence
+-----------------------------------DEAE-LRLNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIIVGVTEPLIPGSIVEARI
+IGVMTFDDGGEVDDKVIAVLA--DDKRMDHIKSWEDLG---EHWKKETTYYWEHYKDL--KKPGTCSVN-
+---GFFGTEKAVEIIKSCEARY------------------------------------------------
+--------*
+>P1;gi|42837771|gb|EAA86354.1| unknown [environmental sequence] [ score 193 E 2e-48 ] [ range 16 .. 185 ]
+sequence
+---------------------------LH-ILPAANESE-LRVNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCLPRTWDE------------DGDPLDIIVNVTEPLVPGSIVEARI
+IGIMTFDDGGEVDDKVIGVIA--DDKRMDHIQSFEQLG---KHWINETTYYWEHYKDL--KKPGTCTVN-
+---GFFGVEKAVQIIKSCEERY------------------------------------------------
+--------*
+>P1;gi|33866320|ref|NP_897879.1| putative inorganic pyrophosphatase ... [ score 192 E 4e-48 ] [ range 24 .. 185 ]
+sequence
+-----------------------------------DEAE-LRLNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIIVNVTEPLVPGSIVEARI
+IGVMTFDDGGEVDDKVIAVLA--DDKRMDHIKSFEDLG---EHWKKETTYYWEHYKDL--KKPGTCSVN-
+---GFFGTEKAVEIIKGCEARY------------------------------------------------
+--------*
+>P1;gi|33863543|ref|NP_895103.1| putative inorganic pyrophosphatase ... [ score 191 E 5e-48 ] [ range 24 .. 185 ]
+sequence
+-----------------------------------DESE-LRLNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIIVSVTEPLVPGSIVEARI
+IGIMTFDDGGEVDDKVIAVLA--DDKRMDHITSFEQLG---EQWLKETQYYWEHYKDL--KKPGTCRVN-
+---GFLGVQKAVEIIKACEARY------------------------------------------------
+--------*
+>P1;gi|23335625|ref|ZP_00120859.1| COG0221: Inorganic pyrophosphatas... [ score 191 E 7e-48 ] [ range 3 .. 158 ]
+sequence
+----------------------------------------ETFNVVVEIPRGS-KNKYEVDHE--TGRVF
+LD------RTLFT---AMGYPDDYGYIDGTLGE------------DGDPLDALVMIPNSVFPGCVVECRA
+VGLYHMVDEAGGDDKVLCVPA---DVRFDDIKDIDDVN---EYHKAEIKHFFEQYKALEPGKE-VLPGD-
+---YWTGADAAEKEIIAARER-------------------------------------------------
+--------*
+>P1;gi|42560943|ref|NP_975394.1| inorganic pyrophosphatase [Mycoplas... [ score 187 E 1e-46 ] [ range 4 .. 160 ]
+sequence
+----------------------------------------NVISMVVEIPKGS-SNKYEVDEK--TKRIK
+LD------RVLYG---ANFYPGEYGMIENTLDW------------DGDPLDVISLCTYPTLPGVEVNVRI
+LGSIKMVDAGEVDTKLFGVFN--DDPRFKEYQTLNDVP---KHYRDEIENFFLQYKALQN---KVVKIN-
+---GWGTLDEALEELEECKSRFE-----------------------------------------------
+--------*
+>P1;gi|41689550|ref|ZP_00146083.1| hypothetical protein Psyc104201 [... [ score 186 E 1e-46 ] [ range 2 .. 174 ]
+sequence
+-------------------------ADFN-KIDAGDVDG-GIINVVVEIPTGS-SHKIEWNRE--LAVFE
+LD------RVDPQ---IFAKPCNYGFIPQTLDE------------DGDELDALIITEQPLPTGIFLKAKV
+IGVMKFVDDGEVDDKIVVVPA--DDRDTGNYNSLADLP---KQLINQLEFHFSHYKDL--KKPGTTVVE-
+---SWGDVEEAKEVIKESIQRWK-----------------------------------------------
+--------*
+>P1;gi|42630430|ref|ZP_00155970.1| COG0221: Inorganic pyrophosphatas... [ score 186 E 2e-46 ] [ range 2 .. 173 ]
+sequence
+-------------------------ADFN-QITPGDVDA-GIINVVNEIPEGS-CHKIEWNRK--VAAFQ
+LD------RVEPA---IFAKPTNYGFIPQTLDE------------DGDELDVLLITRQPLATGVFLEAKV
+IGVMKFVDGGEVDDKIVCVPA--DDRDTGNYNSLADLP---ANLIKQIEFHFNNYKAL--KKPGSTKVT-
+---HWGDVEEAKEVIRESIKRW------------------------------------------------
+--------*
+>P1;gi|13357875|ref|NP_078149.1| inorganic pyrophosphatase [Ureaplas... [ score 184 E 8e-46 ] [ range 3 .. 157 ]
+sequence
+------------------------------------------LNVTIEIPKNS-NIKYEYDRA--TKEIM
+VD------RILHG---SMVYPHNYGFLKEALDY------------DGDELDVLVFADQAFQPGIKVPARV
+LGAMKMIDGGETDTKLLAVID--VDPRYKHINNFKDIP---LHWLAEVQDFFENYKNLQNKK---VKIL-
+---GFEDEIWAQKEYEECVLLMK-----------------------------------------------
+--------*
+>P1;gi|39938631|ref|NP_950397.1| inorganic pyrophosphatase [Onion ye... [ score 182 E 4e-45 ] [ range 4 .. 171 ]
+sequence
+---------------------------LH-DINPERITK-EEFIVVIEISQGS-KKKYEIDKE--TGLLL
+LD------RFLTT---AFRYPINYGFVPLTHCE------------DNDPLDVLVLSQEILDPMTLVKCRP
+LGVIKMIDNDELDEKVIAVPV--FDKYFSHLQDLKDMP---LPMIAEIKHFFENYKALEKKK---VVIE-
+---AIQDKQAAFSAIETSLLTYQ-----------------------------------------------
+--------*
+>P1;gi|32409301|ref|XP_325131.1| hypothetical protein [Neurospora cr... [ score 178 E 4e-44 ] [ range 225 .. 410 ]
+sequence
+-----------------------------------------ILNMVVEIPRWT-NAKQEISKE--LNPIK
+QD------RNCFP---HKGYLWNYGAFPQTWEG------------DNDPLDVCEIGELVGYTGQVKQVKV
+LGVMALLDEEETDWKVIVIDV--NDPLAPKLNDVEDVE---RHLIRATNEWFRIYKIPDGKPENQFAFT-
+---GCKNKTYAMDVVRECNEAWE-----------------------------------------------
+--------*
+>P1;gi|31544479|ref|NP_853057.1| Ppa [Mycoplasma gallisepticum R] >g... [ score 178 E 4e-44 ] [ range 11 .. 162 ]
+sequence
+--------------------------------------------VTIEIPKGS-NIKYEYDRK--TDQIS
+VD------RILYG---SEVYPHNYGFIKEALDW------------DGDELDCLVVANQAFQPGVVVPVRI
+LGMMGMVDSGETDNKLIGVIA--CDKRFENIRSLKDLG---AHALKEIKGFFETYKLLQNKK---VLVK-
+---GFKELDSAIHEYKNCVSLM------------------------------------------------
+--------*
+>P1;gi|12045211|ref|NP_073022.1| inorganic pyrophosphatase (ppa) [My... [ score 177 E 7e-44 ] [ range 5 .. 160 ]
+sequence
+-----------------------------------------LIDVIVEIPKNS-KIKYEYDRQ--TGQIR
+VD------RILFG---SESYPQNYGFIKNTLDW------------DGDELDCFIFADQPFLPATVVPTRI
+VGALEMIDDGEIDTKLLGVID--CDPRYKEINQISDLP---KHRIEEILIFLKTYKLLQK---KTVIIK-
+---GLKDVCWAKKEYEICLQLMK-----------------------------------------------
+--------*
+>P1;gi|34860589|ref|XP_227690.2| similar to RIKEN cDNA 1110013G13 [R... [ score 177 E 1e-43 ] [ range 93 .. 283 ]
+sequence
+-----------------------------------DEYK-ASFNMVVEIPRWT-NAKMEIEEP--LNPIK
+QD------RLRYT---PNIFPWNYGALPQTWCG------------DNDPIDVCEIGSKVLSRGDVVHVKI
+LGTLALIDQSETDWKIIAINV--NDPEAEKFHDIDDVK---PGYLEATVNWFRLYKVPDGKPENKFAFN-
+---GFKNKAFALEVINSAHEHWK-----------------------------------------------
+--------*
+>P1;gi|124871|sp|P13998|IPYR_KLULA Inorganic pyrophosphatase (Pyroph... [ score 177 E 1e-43 ] [ range 38 .. 228 ]
+sequence
+-----------------------------------DEAN-GIFNMVVEIPRWT-NAKLEIDTK--KGKLR
+FV------RNCFP---HHGYIHNYGAFPQTWEG------------DNDPLDVLEIGEQVAYTGQVKQVKV
+LGVMALLDEGETDWKVIAIDI--NDPLAPKLNDIEDVE---KHLLRATNEWFRIYKIPDGKPENQFAFS-
+---GAKNKKYTLDVIRECNEAWK-----------------------------------------------
+--------*
+>P1;gi|22203753|ref|NP_666253.1| inorganic pyrophosphatase 2 [Mus mu... [ score 176 E 1e-43 ] [ range 81 .. 271 ]
+sequence
+-----------------------------------DEYE-NLFNMVVEIPRWT-NAKMEIEEP--LNPIK
+QD------KLRYT---PNIFPWNYGALPQTWCG------------DNDPIDVCEIGSKVLSRGDVVHVKI
+LGTLALIDQSETDWKIIAINV--NDPEAEKFHDIDDVK---PGYLEATLNWFRLYKVPDGKPENKFAFN-
+---GFKNKAFALDVINSAHERWK-----------------------------------------------
+--------*
+>P1;gi|45190621|ref|NP_984875.1| AER015Cp [Eremothecium gossypii] >g... [ score 176 E 2e-43 ] [ range 38 .. 227 ]
+sequence
+-----------------------------------DEEN-QIFNMVVEIPRWT-NAKLEIDTK--KGKLR
+YV------RNCFP---HHGYIHNYGAFPQTWEG------------DNDPLDVLEIGETIAYTGQVKQVKV
+LGVMALLDEGETDWKIIVIDV--HDPLAPKLNDIEDVE---KHLLRATNEWFRIYKIPDGKPENQFAFS-
+---GAKNRKYALDVIRECHEAW------------------------------------------------
+--------*
+>P1;gi|43508494|gb|EAE08972.1| unknown [environmental sequence] [ score 175 E 5e-43 ] [ range 2 .. 133 ]
+sequence
+--------------------------DLH-QLPPSP-SP-GLVNLIVEIPAGS-RNKYEYSAE--AGVMV
+LD------RVMHS---SVRYPFDYGFIPNTLAE------------DGSPLDAMVIMAEPTFAGCLIKARP
+IGVLDLHDRNVYDGKILCVPD--ADPRQDEIRSIRQIA---ASQLEDVAE--------------------
+----------------------------------------------------------------------
+--------*
+>P1;gi|3122291|sp|O13505|IPYR_PICPA Inorganic pyrophosphatase (Pyrop... [ score 174 E 6e-43 ] [ range 38 .. 227 ]
+sequence
+-----------------------------------DESK-KVLNMVVEVPRWT-NAKLEISKE--KGKLR
+FV------RNCFP---HHGYIHNYGAFPQTWEG------------DNDPLDVCEIGERS-YTGQVKQVKV
+LGVMALLDEGETDWKVIVIDI--NDPLAPKLNDIEDVE---KHLLRATNEWFRIYKIPDGKPENQFAFS-
+---GCKNKKYAEEVIQECREAWE-----------------------------------------------
+--------*
+>P1;gi|43395046|gb|EAD60799.1| unknown [environmental sequence] [ score 174 E 6e-43 ] [ range 1 .. 144 ]
+sequence
+-------------------------------------------------PAGG-RNKYEYLPA--PGLMG
+LD------RVLHP---SVQYPFDYGFVPNTLAD------------DGSPLDAMVVMEEPTFPGCLILTRP
+IGMLEVIDNGRFDAKILCVPA--NDPHLDRMSNLGQIS---AQQLEDIAEFFRTHRGLD---GRMTEIQ-
+---GWSEGLPVFEHIKRCI---------------------------------------------------
+--------*
+>P1;gi|29171702|ref|NP_789845.1| inorganic pyrophosphatase 2 isoform... [ score 174 E 7e-43 ] [ range 86 .. 276 ]
+sequence
+-----------------------------------DEYE-NLFNMIVEIPRWT-NAKMEINPI--KQYVK
+DG------KLRYV---ANIFPWNYGTLPQTWEG------------DNDPIDVCEIGSKILSCGEVIHVKI
+LGILALIDEGETDWKLIAINA--NDPEASKFHDIDDVK---PGYLEATLNWFRLYKVPDGKPENQFAFN-
+---GFKNKAFALEVIKSTHQCWK-----------------------------------------------
+--------*
+>P1;gi|16123667|ref|NP_406980.1| inorganic pyrophosphatase [Yersinia... [ score 279 E 2e-74 ] [ range 2 .. 175 ]
+sequence
+--------------------------SLN-QVPAGKDLP-EDIYVVIEIPANADPIKYEIDKE--TGSLF
+VD------RFMST---AMFYPCNYGYINNTLSL------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGEDAKLVAVPHSKLTKEYDHVKDVQDLP---ELLKAQIKHFFEHYKDLET--GKWVKVD-
+---GWEDAAAAKAEILSSFERAKK----------------------------------------------
+--------*
+>P1;gi|16763234|ref|NP_458851.1| inorganic pyrophosphatase [Salmonel... [ score 279 E 2e-74 ] [ range 2 .. 176 ]
+sequence
+--------------------------SLL-NVPAGKELP-EDIYVVIEIPANADPIKYEVDKE--SGALF
+VD------RFMST---AMFYPCNYGYINHTLSL------------DGDPVDVLVPTPYPLQPGAVIRCRP
+VGVLKMTDESGEDAKLVAVPHTKLSKEYDHIKDVNDLP---ELLKAQITHFFEHYKDLEK--GKWVKVD-
+---GWDNAEAAKAEIVASFERAAKK---------------------------------------------
+--------*
+>P1;gi|23102043|ref|ZP_00088572.1| COG0221: Inorganic pyrophosphatas... [ score 279 E 2e-74 ] [ range 160 .. 333 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANHAPIKYEIDKD--SDCLF
+VD------RFMAT---PMFYPANYGYIPNTLAD------------DGDPLDVLVVTPYPVVPGSVIRARP
+VGVLHMTDESGGDAKLIAVPHDKLTVLYQHVKEYTDLP---ALLLEQIKHFFENYKDLEK--GKWVKVE-
+---GWGDAEAARAEILKAVAAYQK----------------------------------------------
+--------*
+>P1;gi|37528370|ref|NP_931715.1| inorganic pyrophosphatase (pyrophos... [ score 276 E 1e-73 ] [ range 2 .. 176 ]
+sequence
+--------------------------SLN-LVPAGKELP-EDIYVIIEIPANADPIKYEIDKE--SGALF
+VD------RFMST---TMFYPCNYGYINNTLSL------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDESGEDAKLVAVPHSKLTKEYDHIKDVNDLP---ELLRAQITHFFEHYKDLEK--GKWVKVD-
+---GWDNVEAAKAEIISSFERAAKK---------------------------------------------
+--------*
+>P1;gi|27364163|ref|NP_759691.1| Inorganic pyrophosphatase [Vibrio v... [ score 273 E 1e-72 ] [ range 2 .. 176 ]
+sequence
+--------------------------SLN-NVPAGKSLP-DDLYVVIEIPANADPIKYEVDKE--SGAVF
+VD------RFMSA---PMFYPCNYGYVNHTLSL------------DGDPVDVLVPTPYPLMPGSVIRCRP
+VGVLKMTDESGEDAKVVAVPHSKLSKEYDHIQDVNDLP---ELLKAQITHFFERYKELES--GKWVKVD-
+---GWEDVEAARKEILDSYQRAQNK---------------------------------------------
+--------*
+>P1;gi|15642540|ref|NP_232173.1| inorganic pyrophosphatase [Vibrio c... [ score 271 E 3e-72 ] [ range 2 .. 176 ]
+sequence
+--------------------------SLN-NVPAGKSLP-DDIYVVIEIPANADPIKYEVDKE--SGAVF
+VD------RFMSA---PMFYPCNYGYVNHTLSL------------DGDPVDVLVPTPYPLIPGSVIRCRP
+VGVLKMTDESGEDAKVVAVPHTKISKEYDHIQDVNDLP---ALLKAQITHFFERYKELES--GKWVKVD-
+---GWEDAASARAEILSSYERAQNK---------------------------------------------
+--------*
+>P1;gi|32034233|ref|ZP_00134444.1| COG0221: Inorganic pyrophosphatas... [ score 271 E 6e-72 ] [ range 3 .. 175 ]
+sequence
+---------------------------LE-NVPAGKELP-DDIYVVIEIPANADPIKYEVDKE--TGTLF
+VD------RFMST---AMFYPANYGYVNHTLSS------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGGDAKVVAVPHTKLSKEYDHIKDVNDLP---ALLKAQIQHFFESYKALEA--GKWVKVE-
+---GWGDVNEARQEILESFERAKK----------------------------------------------
+--------*
+>P1;gi|15603056|ref|NP_246128.1| Ppa [Pasteurella multocida] >gi|134... [ score 270 E 8e-72 ] [ range 3 .. 175 ]
+sequence
+---------------------------LE-TVPAGKALP-DDIYVVIEIPANSDPIKYEVDKE--SGALF
+VD------RFMAT---AMFYPANYGYVNNTLSL------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGSDAKVVAVPHSKLTKEYDHIKDVNDLP---ALLKAQIQHFFESYKALEA--GKWVKVD-
+---GWEGVDAARQEILDSFERAKK----------------------------------------------
+--------*
+>P1;gi|23467355|ref|ZP_00122937.1| COG0221: Inorganic pyrophosphatas... [ score 270 E 9e-72 ] [ range 3 .. 175 ]
+sequence
+---------------------------LE-NVPAGKALP-DDIYVVIEIPANSDPIKYEVDKE--SGALF
+VD------RFMAT---AMFYPANYGYVNNTLSS------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGGDAKVVAVPHTKLSKEYDHIKDVDDLP---ALLKAQIQHFFESYKALEA--GKWVKVD-
+---GWEGVESARQEILESFERAKK----------------------------------------------
+--------*
+>P1;gi|28897085|ref|NP_796690.1| inorganic pyrophosphatase [Vibrio p... [ score 270 E 1e-71 ] [ range 2 .. 176 ]
+sequence
+--------------------------SLN-HVPAGKSLP-EDIYVVIEIPANADPIKYEVDKD--SGAVF
+VD------RFMSA---PMFYPCNYGYVNNTLSL------------DGDPVDVLVPTPYPLMPGSVIRCRP
+VGVLKMTDESGEDAKVVAVPHSKISKEYEHIQDVGDIP---ELLKAQITHFFERYKELES--GKWVKVD-
+---GWADVEAAKAEILQSYERAQNK---------------------------------------------
+--------*
+>P1;gi|33151420|ref|NP_872773.1| inorganic pyrophosphatase [Haemophi... [ score 269 E 2e-71 ] [ range 3 .. 175 ]
+sequence
+---------------------------LE-NVPAGKALP-DDIYVVIEIPANSDPIKYEVDKE--SGSLF
+VD------RFMST---AMFYPANYGYVNHTLSS------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGGDAKVVAVPHTKLTKEYDHIKDVNDLP---ALLKAQIQHFFESYKALEV--GKWVKVE-
+---GWGDVNEARQEILDSFERAKK----------------------------------------------
+--------*
+>P1;gi|31196223|ref|XP_307059.1| ENSANGP00000000911 [Anopheles gambi... [ score 266 E 2e-70 ] [ range 2 .. 176 ]
+sequence
+--------------------------SLN-LVPAGKSLP-DDIYVIIEIPQNADPIKYEVDKD--SGAIF
+VD------RFMST---PMFYPCNYGYVNATLSL------------DGDPVDVLVPTPYPLLAGSVIRCRP
+VGVLKMTDESGEDAKIVAVPHSKLTKQYDHIKDVNDLP---ELLRAQIQHFFERYKELEA--GKWVKVE-
+---GWGDKAAAEAEIISSAERYAAK---------------------------------------------
+--------*
+>P1;gi|22994574|ref|ZP_00039072.1| COG0221: Inorganic pyrophosphatas... [ score 265 E 2e-70 ] [ range 49 .. 221 ]
+sequence
+---------------------------LE-LVNAGNNLP-EEINVIIEIPKDSEPVKYEVDKA--SGAIF
+VD------RILST---PMRYPCNYGYVPNTLCG------------DGDPVDVMVVLPLPLVPGSVVRCRP
+VGVLQMKDEAGNDEKLLAVPVSKIFSGYSHIEDINQVS---AHWLERIGHFFEHYKDLEE--GKWVEID-
+---GWGNATTAKQILTSAVQRYKD----------------------------------------------
+--------*
+>P1;gi|22986978|ref|ZP_00032064.1| COG0221: Inorganic pyrophosphatas... [ score 264 E 8e-70 ] [ range 29 .. 202 ]
+sequence
+--------------------------SFN-HVPAGKDLP-QDFNVIIEIPAQSDPVKYEADKE--TGLLH
+VD------RFIST---GMRYPANYGYIPQTLSG------------DGDPVDVLVITPFPLLAGSVVRARA
+LGMLQMTDESGVDAKLVAVPHDKVCPMTADLKSIDDVP---AYLKDQIKHFFEQYKALEK--GKWVKVD-
+---GWAGIEAAHKEITDGAANYKK----------------------------------------------
+--------*
+>P1;gi|17547068|ref|NP_520470.1| INORGANIC PYROPHOSPHATASE PROTEIN [... [ score 261 E 4e-69 ] [ range 2 .. 175 ]
+sequence
+--------------------------SFN-NVSPGKDIP-NDFNVIIEIPAQSDPVKYEADKE--TGLLH
+VD------RFVGT---GMRYPANYGFIPQTLAG------------DGDPVDVLVVTPFPLVHGCVVRCRT
+LGMLKMTDESGQDAKLVAVPVNKLSPATAHMTDLSDIG---QNLLDQIKHFFEQYKALEP--GKWVKVE-
+---GWGGIEEAHKEIVDGVANYKK----------------------------------------------
+--------*
+>P1;gi|28867950|ref|NP_790569.1| inorganic pyrophosphatase [Pseudomo... [ score 260 E 8e-69 ] [ range 2 .. 174 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANHAPIKYEIDKD--TDCLF
+VD------RFMAT---PMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVTPGSVIRARP
+VGILHMTDDGGGDAKVIAVPHDKLSQLYVDVKEYTDLP---ALLLEQIKHFFENYKDLEK--GKWVKIE-
+---GWGNADAARAEIMKSVEAFK-----------------------------------------------
+--------*
+>P1;gi|44416790|gb|EAJ11847.1| unknown [environmental sequence] [ score 260 E 1e-68 ] [ range 2 .. 176 ]
+sequence
+--------------------------SLS-QVAAGKNLP-DEINVIIEIPANADPIKYEVDKD--TGTVW
+VD------RFMAT---PMFYPCNYGFVNHTLSL------------DGDPVDVLVPTPYPLVPGAVIKCRP
+VAVLKMADESGEDAKVLAVPISKLTKIYDNIQDLDDVP---ELLKNQIQHFFERYKELEP--GKWVKVI-
+---GWGDKAEAKAEIVSSFERAQQK---------------------------------------------
+--------*
+>P1;gi|23028943|ref|ZP_00067314.1| COG0221: Inorganic pyrophosphatas... [ score 259 E 2e-68 ] [ range 2 .. 176 ]
+sequence
+--------------------------SLN-LVPTGKKVP-DEVNVIIEIPMGGEPIKYEIDKD--SGALF
+VD------RVLGT---SMRYPCNYGYVPHTLCG------------DGDPVDVLVYMDRPLVHGSVINCRP
+IGVLKMTDESGEDAKIVAVPVSKITSIYDNVQSIEDLP---EIATRQIAHFFEHYKDLEA--GKWVKVE-
+---GWEGVAAAKQEILDSVANYEKE---------------------------------------------
+--------*
+>P1;gi|15599226|ref|NP_252720.1| inorganic pyrophosphatase [Pseudomo... [ score 259 E 2e-68 ] [ range 2 .. 175 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANHAPIKYEIDKD--TDCLF
+VD------RFMAT---PMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVAPGSVIRARP
+VGVLHMTDEAGGDAKLIAVPHDKLSVLYKDVKEYTDLP---ALLLEQIKHFFENYKDLEK--GKWVKVE-
+---GWGNADAARAEITKAVAAFQK----------------------------------------------
+--------*
+>P1;gi|4033423|sp|O34955|IPYR_LEGPN Inorganic pyrophosphatase (Pyrop... [ score 259 E 2e-68 ] [ range 2 .. 173 ]
+sequence
+--------------------------SLM-EIPSGRDVP-NEVNVIIEIPMHGEPVKYEVDKK--TGALF
+VD------RFMTT---AMFYPTNYGYIPNTLSE------------DGDPVDVLVITPVPLISGAVISCRA
+VGMLKMTDESGVDAKILAVPTTKLSKMYQSMQTYQDIP---QHLLLSIEHFFKHYKDLEE--GKWVKVE-
+---GWVGPDAAREEITSSINRY------------------------------------------------
+--------*
+>P1;gi|23469950|ref|ZP_00125284.1| COG0221: Inorganic pyrophosphatas... [ score 258 E 3e-68 ] [ range 2 .. 174 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANHAPIKYEIDKD--SDCLF
+VD------RFMAT---PMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVTPGSVIRARP
+VGILHMTDDGGGDAKVIAVPHDKLSQLYVDVKEYTDLP---PLLLEQIKHFFENYKDLEK--GKWVKIE-
+---GWGNADAARAEITKSVAAYK-----------------------------------------------
+--------*
+>P1;gi|41725237|ref|ZP_00151995.1| hypothetical protein Daro015901 [... [ score 258 E 5e-68 ] [ range 3 .. 175 ]
+sequence
+---------------------------LN-NVPSGKSLP-DDFNVIIEISAHSEPVKYEVDKE--SGAIF
+VD------RFMST---SMHYPCNYGYIPHTIAG------------DGDPVDVLVVAPFSLPPGVVVRCRP
+LGQLSMTDEGGNDAKLLAVPVDKLTPLYKDAKSIEDMP---ELLRKQISHFFEHYKDLEP--GKWVKVN-
+---GWEDIDAARKEVMEGVQRYND----------------------------------------------
+--------*
+>P1;gi|26987276|ref|NP_742701.1| inorganic pyrophosphatase [Pseudomo... [ score 257 E 9e-68 ] [ range 2 .. 174 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANHAPIKYEIDKD--SDTLF
+VD------RFMAT---PMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVAPGSVIRARP
+VGVLNMTDDGGGDAKVIAVPHDKLSQLYVDVKEYTDLP---ALLIQQIEHFFANYKDLEK--GKWVKIE-
+---GWEGADAARAAITKSVAAYK-----------------------------------------------
+--------*
+>P1;gi|44418325|gb|EAJ12883.1| unknown [environmental sequence] [ score 256 E 1e-67 ] [ range 2 .. 175 ]
+sequence
+--------------------------SFN-NVPAGKDLP-QDFNVIIEIPAQSDPVKYEADKE--TGLLH
+VD------RFIST---GMRYPANYGYIPQTLSG------------DGDPVDVLVITPFPLLAGSVVRARA
+LGMLQMTDESGVDAKLVAVPHDKVCPMTATLKSLDDVP---AYLKDQIKHFFEQYKALEK--GKWVKVE-
+---GWADIDAAHKEISEGVANYKK----------------------------------------------
+--------*
+>P1;gi|44451067|gb|EAJ35980.1| unknown [environmental sequence] [ score 255 E 3e-67 ] [ range 2 .. 175 ]
+sequence
+--------------------------SFN-HVPAGKDLP-QDFNVIIEIPAQSDPVKYEADKE--LGLLV
+VD------RFIGT---GMRYPVNYGYIPQTLSG------------DGDPVDVLVITPFPLLAGSIVRSRV
+LGMLQMTDESGVDAKLVAVPHDKVCPMTANLKSIDDVP---EYLKDQIKHFFEQYKALEK--GKWVKVE-
+---GWAGIEAAHKEITDGAANYKK----------------------------------------------
+--------*
+>P1;gi|33597226|ref|NP_884869.1| inorganic pyrophosphatase [Bordetel... [ score 254 E 5e-67 ] [ range 2 .. 175 ]
+sequence
+--------------------------SLD-RVAPGKKLP-DDFNVIIEIPMNADPVKYEVDKE--SGAIF
+VD------RFMLT---AMHYPCNYGYIPQTLSE------------DGDPADVLVLTPFPIQIGAVVRCRA
+IGVLEMDDESGGDAKLLAVPIEKLYPPYRNIKSYEDLP---AEDVSRIQHFFEHYKDLEK--GKWVKVK-
+---GWKGVDAAHEEIVRSAERYAK----------------------------------------------
+--------*
+>P1;gi|22976202|ref|ZP_00022100.1| COG0221: Inorganic pyrophosphatas... [ score 254 E 6e-67 ] [ range 2 .. 175 ]
+sequence
+--------------------------SFN-LVSPGKDLP-NDFNVIIEISAQSDPVKYEADKE--TGLLF
+VD------RFIGT---GMRYPANYGFIPQTLSG------------DGDPVDVLVITPFPILAGAVVRCRA
+LGMLKMTDESGVDAKLVAIPVDKLCPATAHMKGLSDVP---QNTLDQIKHFFENYKALEA--GKWVKVE-
+---GWAGIEEAHKEISDGVANFKK----------------------------------------------
+--------*
+>P1;gi|44476598|gb|EAJ54073.1| unknown [environmental sequence] [ score 254 E 6e-67 ] [ range 2 .. 175 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANHAPIKYEIDHD--TDCLM
+VD------RFMAT---PMFYPANYGFIPHTLAD------------DGDPLDVLVVTPYPVAPGSVIRARP
+VGVLHMSDEAGGDAKLVAVPHDKLTVLYKDVQEYTDLP---ALLIEQIKHFFENYKDLEK--GKWVKVE-
+---GWGGAEEARGLINKAVAAYQK----------------------------------------------
+--------*
+>P1;gi|29839343|sp|Q8GQS5|IPYR_AQUPY Inorganic pyrophosphatase (Pyro... [ score 254 E 7e-67 ] [ range 3 .. 174 ]
+sequence
+---------------------------YK-DLPPGKNPP-EDIYVVIEIPQGSG-IKYELDKD--TGVIF
+VD------RFLFT---AMYYPFNYGFIPQTLAD------------DGDPVDVLVISREPVAPGSVMRCRP
+IGMLEMRDEEGIDTKLIAVPHEKLDPTYSDIKTVDQLP---EIIRERIKHFFEHYKELEP--GKWVKVE-
+---NWRGLQDAIEEIKKGIENYKK----------------------------------------------
+--------*
+>P1;gi|23062057|ref|ZP_00086862.1| COG0221: Inorganic pyrophosphatas... [ score 253 E 1e-66 ] [ range 2 .. 174 ]
+sequence
+--------------------------SYS-KIPAGKDLP-NDIYVAIEIPANHAPIKYEIDKD--SDCLF
+VD------RFMAT---PMFYPANYGYIPNTLAD------------DGDPLDVLVVTPYPVAPGSVIRARP
+VGILNMTDDGGGDAKVIAVPHDKLSQLYVDVKEYTDLP---ALLIQQIEHFFANYKDLEK--GKWVKIE-
+---GWDGADAARAAITKSVAAYK-----------------------------------------------
+--------*
+>P1;gi|15606686|ref|NP_214066.1| inorganic pyrophosphatase [Aquifex ... [ score 253 E 1e-66 ] [ range 3 .. 174 ]
+sequence
+---------------------------YD-QLPPGKNPP-EDIYVVIEIPQGS-AVKYELDKD--TGVIF
+VD------RFLFT---AMYYPFNYGFVPQTLAD------------DGDPVDVLVISREPVVPGAVMRCRP
+IGMLEMRDEAGIDTKVIAVPHEKLDPSYSNIKTVDNLP---EIVREKIKHFFEHYKELEP--GKWVKVE-
+---NWKGLQDAIEEIKKGIENYKK----------------------------------------------
+--------*
+>P1;gi|17936536|ref|NP_533326.1| inorganic pyrophosphatase [Agrobact... [ score 253 E 2e-66 ] [ range 6 .. 176 ]
+sequence
+-------------------------------ISIGKNPP-DDINVIVEVPVGGHPIKYEMDKD--AGALI
+VD------RFLYT---PMTYPGNYGFVPHTLSD------------DGDPIDVLICNTRPLVPGCVINVRP
+IGVMIMEDDGGKDEKILAVPAPKLTQRYDKVHNYTDLP---EITLKQIEHFFEHYKDLEP--GKWVKMG-
+---GWQDVDVAKKLIVEAIERYKTQ---------------------------------------------
+--------*
+>P1;gi|45520644|ref|ZP_00172172.1| hypothetical protein Mflag206201 ... [ score 251 E 7e-66 ] [ range 1 .. 168 ]
+sequence
+-------------------------------MPAGKDIP-NDFNVIIEISMRGEPIKFEVDKD--SGALF
+VD------RFMGT---SMHYPCNYGYIPQTLSE------------DGDPVDVLVITPIPLQPGVVIRCRA
+IGVLTMEDDGGVDAKVLAVPLDKICPQYKDIKSYQDIP---EFQLAPIAHFFEHYKDLEK--GKWVKVG-
+---EWKGPEDAKAEIVAGVERF------------------------------------------------
+--------*
+>P1;gi|15966840|ref|NP_387193.1| PROBABLE INORGANIC PYROPHOSPHATASE ... [ score 251 E 7e-66 ] [ range 6 .. 176 ]
+sequence
+-------------------------------ISIGKNPP-EDVNVIVEVPVGGHPIKYEMDKE--AGTLV
+VD------RFLYT---PMTYPGNYGFVPHTLSD------------DGDPIDVLICNTRPLVPGCVINVRP
+IGVMMMEDNSGQDEKIIAVPSAHLTKRYDKVHDYTDLP---EITLKQIEHFFEHYKDLEP--GKWVKIF-
+---GWKDASMAKQLIREAVERAKTK---------------------------------------------
+--------*
+>P1;gi|14010721|ref|NP_114207.1| unknown [Pseudomonas syringae pv. m... [ score 248 E 4e-65 ] [ range 2 .. 176 ]
+sequence
+--------------------------SYT-DIPAGNAIP-DDFFTVIEIPANHSPIKYEVDKP--SGQIF
+VD------RFLST---PMFYPANYGFIPNTLSD------------DGDPLDVLVICPYPVSPGVVIRSRP
+VGVMYMTDEAGADAKVIAVPHEKLSSMYSNVKECSDLP---ALLLAQIQHFFENYKALEP--GKWVKMG-
+---RWGSADEAREDIRKSVAAYNLK---------------------------------------------
+--------*
+>P1;gi|13473502|ref|NP_105069.1| inorganic pyrophosphatase [Mesorhiz... [ score 247 E 9e-65 ] [ range 6 .. 175 ]
+sequence
+-------------------------------IATGKNPP-EDVNVIIEVPIGGEPIKYEMDKE--AGTLF
+VD------RFLHT---SMRYPGNYGFVPHTLSG------------DGDPIDVLVCNTRALVPGCVINVRP
+IGVLVMEDNAGQDEKVIAVPSPKLTLRYENVTEYTHLP---EITRQQVQHFFEHYKDLEP--GKWVKIE-
+---GWHDSKYAKKMIVDAIERAKK----------------------------------------------
+--------*
+>P1;gi|27375659|ref|NP_767188.1| inorganic pyrophosphatase [Bradyrhi... [ score 246 E 2e-64 ] [ range 6 .. 176 ]
+sequence
+-------------------------------ISIGKNVP-QDVNVIIEVPVGGEPIKYEMDKE--AGTLV
+VD------RFLYT---PMRYPGNYGFIPHTLSD------------DGDPCDVLIINTRAIIPGAVMSVRP
+VGVLFMEDEAGGDEKILAVPSSKLTQRYDKVKSYSDLP---DITLQQIQHFFEHYKDLEK--GKWVKIL-
+---RWGGPEDAHKLILEGIEREKKK---------------------------------------------
+--------*
+>P1;gi|34498827|ref|NP_903042.1| inorganic diphosphatase [Chromobact... [ score 245 E 3e-64 ] [ range 2 .. 173 ]
+sequence
+--------------------------NLA-SIGPGKDMP-GDFNVVIEISANAAPIKYEFDKD--WNTLV
+VD------RFMGT---SMMYPANYGFVPQTLAG------------DGDPVDVLVVTPFPLPPGVVVRCRA
+LGLIKMEDDGGVDAKLVAVPVEKLCPMYKSIQKLEDLP---ELLRNQMVHFFEHYKDLEK--GKWVKIQ-
+---GWGTLEDAKTELVEGIERF------------------------------------------------
+--------*
+>P1;gi|17986360|ref|NP_538994.1| INORGANIC PYROPHOSPHATASE [Brucella... [ score 245 E 3e-64 ] [ range 2 .. 176 ]
+sequence
+--------------------------NID-AISIGSNPP-EDVNVIIEVPVGGQPIKYEMDKK--AGALI
+VD------RFLYT---PMTYPGNYGFVPHTLSE------------DGDPIDVLVCNTRPLIPGCVINVRP
+IGVLVMEDNSGKDEKIIAVPSPHLTRRYEKIHDYTDMP---EITLKQIAHFFEHYKDLEP--GKWVKIG-
+---DWGDEDYARKFIVEAIERAKGK---------------------------------------------
+--------*
+>P1;gi|15616710|ref|NP_239922.1| inorganic pyrophosphatase [Buchnera... [ score 244 E 8e-64 ] [ range 2 .. 175 ]
+sequence
+--------------------------NLN-KIVAGDDIP-NDIYVIIEISSNSSPIKYEVDKK--SGMLF
+VD------RFIPT---PMFYPCNYGYINHTLSL------------DGDPLDVLVPSHYPIKSSCVIHCKP
+IGILNMQDESGDDAKIIAVPKSKICQEYKNINDISDIS---ELLKKQITHFFQNYKTLEK--EKWVEII-
+---GWGNCQDAKLEINDAYNRAKK----------------------------------------------
+--------*
+>P1;gi|16124303|ref|NP_418867.1| inorganic pyrophosphatase [Caulobac... [ score 243 E 9e-64 ] [ range 3 .. 175 ]
+sequence
+---------------------------LS-KIAVGVNPP-YDLNAIIEIPQGGEPVKYEIDKE--SGALM
+VD------RFLHT---AMFYPANYGFIPHTLAD------------DGDPADIMVVGPTPVVPGAIIRCRP
+IGTLMMVDEAGSDEKILAVPVDKLHPFYTGVTSWRDLP---TILTEQIAHFFQHYKDLEK--GKSTKIS-
+---GWADPDETAEIIRTAIKRYNE----------------------------------------------
+--------*
+>P1;gi|23015814|ref|ZP_00055580.1| COG0221: Inorganic pyrophosphatas... [ score 242 E 2e-63 ] [ range 36 .. 206 ]
+sequence
+---------------------------LK-KIPIGKNPP-RDVNVVIEIPLRGDPVKYEICKE--SGAMF
+VD------RFLNT---AMYYPVNYGFVPHTLSA------------DGDPVDVMVVGRIPVAVGSVMRSRP
+IGVLLMEDEAGMDEKILAVPHAKLHPFYDGVNSYEDLP---KILVQQIEHFFVHYKDLEV--GKWVQLK-
+---GWGGPERAGQIIQESIDRA------------------------------------------------
+--------*
+>P1;gi|32491229|ref|NP_871483.1| ppa [Wigglesworthia glossinidia end... [ score 242 E 3e-63 ] [ range 2 .. 175 ]
+sequence
+--------------------------NLN-SVPAGEKLP-NDIYAIIEIPTNSNPIKYEVDKK--TGILF
+VN------RFIPT---SMFYPCNYGYINHTISL------------DGDPLDILVPTPYPVLHGSVIRCNP
+IGVLKMIDESGEDAKIIAMPHQKLLAGYNNIKNIDDIS---NLMKSQISHFFEHYKDLEK--KKWTKVI-
+---SWEDVKSAEKEILSSFNRKK-----------------------------------------------
+--------*
+>P1;gi|1708545|sp|P51064|IPYR_BARBA Inorganic pyrophosphatase (Pyrop... [ score 241 E 7e-63 ] [ range 2 .. 174 ]
+sequence
+--------------------------NIK-EIPIGNNPP-EDVNVIIEVPVDSQPVKYEMDKK--SGSLF
+VD------RFIST---SMVYPGNYGFIPHTLSE------------DSDPIDVLVCNTRPLIPGCVINVRP
+IGALIMEDDGGKDEKIIAVPTPKLTQQYIGIHDYTDLT---ENILKKIEHFFKHYKDLEA--GKWAKIE-
+---GWRDKNFARELIQQAIERAK-----------------------------------------------
+--------*
+>P1;gi|39933488|ref|NP_945764.1| inorganic pyrophosphatase [Rhodopse... [ score 240 E 9e-63 ] [ range 6 .. 175 ]
+sequence
+-------------------------------IPVGVNPP-YDVNVIIEVPVGGEPIKYEMDKA--AGTLV
+VD------RFLYT---AMHYPGNYGFIPHTLSD------------DGDPCDVLVANTRGIVPGAVMSVRP
+VGVLYMSDEAGHDEKIIAVPSSKLTQRYDRIKTYSDLP---EITLAQFQHFFEHYKDLEP--GKWVKVV-
+---RWGGADEAHKLILEGLDRAKK----------------------------------------------
+--------*
+>P1;gi|21672373|ref|NP_660440.1| inorganic pyrophosphatase [Buchnera... [ score 239 E 2e-62 ] [ range 2 .. 175 ]
+sequence
+--------------------------NLN-LIKAGNNIP-SDIYVIIEISSNSSPIKYEVDKQ--SGVLF
+VD------RFIPT---PMFYPCNYGYINETLSL------------DGDPLDVLVPSPYPIQSNVVINCKP
+VGILKMHDESGNDAKIIAVPNDKVSKEYENINDISDIS---ELLKKQISHFFQYYKTLEK--EKWVEII-
+---GWGDHHEAKLEIKNSYDRAKK----------------------------------------------
+--------*
+>P1;gi|33519568|ref|NP_878400.1| inorganic pyrophosphatase [Candidat... [ score 238 E 4e-62 ] [ range 2 .. 176 ]
+sequence
+--------------------------TID-QIPAGNNIP-EDIYVIIEIPLHSHPIKYEIDKI--TGAIF
+VN------RFIAT---PMFYPCNYGYINHTLSL------------DGDPIDVLVPTPYPLLIGSVIHCRP
+IGMLEMTDESGEDSKIIAVPDNSVSQEYSAIHDINHLS---KLTRNQISHFFKYYKDLES--KKWVEIK-
+---AWKHVEDSKIEILNSFKRAKNK---------------------------------------------
+--------*
+>P1;gi|14601561|ref|NP_148101.1| inorganic pyrophosphatase [Aeropyru... [ score 238 E 4e-62 ] [ range 36 .. 205 ]
+sequence
+----------------------------L-KIGPGDEAP-DVVNVVIEIPMNSS-VKYEFDKE--ACIVK
+VD------RFLYT---SMVYPFNYGFIPGTLEE------------DGDPVDVLVISREPVAPGSLIEAVP
+VAVLDMEDEEGPDSKVVAVPKAKLDPLFASYKDVGDIP---DALKSKIKHFFEHYKELEP--GKWVRVT-
+---GWRPAADAKEIIRRAIERYK-----------------------------------------------
+--------*
+>P1;gi|23110666|ref|ZP_00096819.1| COG0221: Inorganic pyrophosphatas... [ score 238 E 5e-62 ] [ range 6 .. 174 ]
+sequence
+-------------------------------IPTGDNPP-ESLNVIIEVPVGGEPVKYEFDKA--SGALF
+VD------RILHT---PMRYPANYGFVPHTLSP------------DGDPLDALVIARSPFVAGSVVRARP
+IAVLNLEDEHGGDEKLVCVPVDSTFPYYSDVKERDDLP---EIVMQQIEHFFTHYKDLEK--DKWVRVG-
+---TWGDAEDAKRITIEAIERAK-----------------------------------------------
+--------*
+>P1;gi|29653966|ref|NP_819658.1| inorganic pyrophosphatase [Coxiella... [ score 237 E 5e-62 ] [ range 5 .. 174 ]
+sequence
+-------------------------------VSAGKGI--DDFNVIIEIPANGGEVKYEYDKE--LGFLT
+VD------RFMPT---SMRYPCNYGFVPSTLAQ------------DGDPLDVLVLTPVPVQPGVLMRVRA
+LGIMKMEDEAGEDSKVLAVPVVKACRAYEAIQSLKDIS---SLLLDAISHFFERYKDLEP--NKWAKVK-
+---GWEDKEAAKKEFEASIVRFKEK---------------------------------------------
+--------*
+>P1;gi|27904587|ref|NP_777713.1| inorganic pyrophosphatase [Buchnera... [ score 237 E 5e-62 ] [ range 2 .. 175 ]
+sequence
+--------------------------TLN-TVLSGKNIP-EDIYVIIEISAHSNPIKYEVNKD--LGLLF
+VD------RFIPV---PMFYPCNYGFINKTKSN------------DGDPLDVLVHTPYPILPGSIIRCKP
+IGVLNMFDESGEDYKIIAIPHPKVCLEYSSINDICHLS---PTLKQQIIHFFKHYKNLEN--NKWVKII-
+---GWENKKNAEKIILSACEKFHK----------------------------------------------
+--------*
+>P1;gi|21244167|ref|NP_643749.1| inorganic pyrophosphatase [Xanthomo... [ score 237 E 6e-62 ] [ range 3 .. 173 ]
+sequence
+---------------------------LE-LVTSGKNLP-EEINVVIEIPKDSEPVKYEVDKA--SGAIF
+VD------RILST---PMRYPCNYGYVPNTLCG------------DGDPADVLVVLPLPLVPGSVVRCRP
+VGVLRMSDEAGSDEKILAVPIEKIFSGYAHIEDINQVS---SHWMERIGHFFEHYKDLEK--GKWVKLD-
+---GWGGAAEAKRILTESVERY------------------------------------------------
+--------*
+>P1;gi|15892820|ref|NP_360534.1| inorganic pyrophosphatase [EC:3.6.1... [ score 235 E 3e-61 ] [ range 5 .. 171 ]
+sequence
+------------------------------KIKAKANNY-E-INVIIEIPMNSGPIKYEFDKE--SGAIF
+VD------RFMQT---TMSYPCNYGFIPHTLSN------------DGDPVDVLVVAHHPVVPGSVIKCRA
+VGVLMMEDESGLDEKIIAVPTSKLDITFDHIKELDDLC---DMLKQRIVHFFEHYKDLEK--GKWVKVT-
+---GWENKSKADALINEGIDR-------------------------------------------------
+--------*
+>P1;gi|15604440|ref|NP_220958.1| INORGANIC PYROPHOSPHATASE (ppa) [Ri... [ score 233 E 1e-60 ] [ range 3 .. 171 ]
+sequence
+---------------------------IK-KIKAKANN--NEINVIIEIPMNSGPIKYEFDKE--SGALF
+VD------RFMQT---TMSYPCNYGFIPDTLSN------------DGDPVDVLVVAHHPVVPGSVIKCRA
+IGVLMMEDESGLDEKIIAVPTSKLDITFDHIKELDDLC---EMLKKRIVHFFEHYKDLEK--GKWVKVT-
+---GWGDKVKAETLIKEGIDR-------------------------------------------------
+--------*
+>P1;gi|15899143|ref|NP_343748.1| Inorganic pyrophosphatase, putative... [ score 232 E 3e-60 ] [ range 1 .. 171 ]
+sequence
+----------------------------M-KLGPGKKAP-DEINVFIEIPMGS-NIKYEYDEE--EDIIK
+VD------RVLYT---SMVYPFNYGFIPETLEE------------DGDPLDVLVLGNYSLMPGTVIEARP
+IGMIYMRDEEGEDAKVIAVPRNKTDPSFSNINDVKDLP---EAIRNKIVHFFEHYKELEP--NKWVKIS-
+---GWGSVAEAKERIKKAIERKKQ----------------------------------------------
+--------*
+>P1;gi|22966455|ref|ZP_00014051.1| COG0221: Inorganic pyrophosphatas... [ score 231 E 7e-60 ] [ range 3 .. 170 ]
+sequence
+---------------------------IK-KIPVGKNPP-QDVNVIIEIPLLADPVKYEVDKE--SGAMF
+VD------RFLHT---AMHYPCNYGFVPHTLSD------------DGDPVDVMVVGRIPVAVGSVMRTRP
+VGVLYMEDEAGRDEKILGVPHSKLYPYHDNVNNFGDLR---PIELRRIEHFFAHYKDLEE--GKWVKIL-
+---GWGNYKEAWDVIERGI---------------------------------------------------
+--------*
+>P1;gi|44593242|gb|EAK34011.1| unknown [environmental sequence] [ score 228 E 3e-59 ] [ range 13 .. 153 ]
+sequence
+--------------------------SLL-NVPAGKDLP-EDIYVVIEIPANADPIKYEVDKE--SGALF
+VD------RFMST---AMFYPCNYGYINHTLSL------------DGDPVDVLVPTPYPLEPGSVIRCRP
+VGVLKMTDESGEDAKLVAVPHTKLSKEYDHIKDVTDLP---ELLKAQITHFFEHY---------------
+----------------------------------------------------------------------
+--------*
+>P1;gi|20094886|ref|NP_614733.1| Inorganic pyrophosphatase [Methanop... [ score 228 E 5e-59 ] [ range 6 .. 174 ]
+sequence
+----------------------------K-DLEPGPNPP-DVVYAVIEIPRGSRN-KYEYDEE--RGFFK
+LD------RVLYS---PFHYPLDYGFIPRTLYD------------DGDPLDILVIMQDPTFPGCVIEARP
+IGLMKMLDDSDQDDKVLAVPTE--DPRFKDVKDLDDVP---KHLLDEIAHMFSEYKRLE---GKETEVL-
+---GWEGADAAKEAIVHAIELYEEE---------------------------------------------
+--------*
+>P1;gi|26451240|dbj|BAC42722.1| putative inorganic pyrophosphatase [... [ score 226 E 1e-58 ] [ range 42 .. 208 ]
+sequence
+------------------------------DLEIGPEAP-LVFNVVVEITKGSK-VKYELDKK--TGLIK
+VD------RILYS---SVVYPHNYGFIPRTLCE------------DNDPLDVLVLMQEPVLPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCAD--DPEYKHFTDIKQLA---PHRLQEIRRFFENYKKNEN---KKVAVN-
+---DFLPSESAHEAIQYSMDLYAE----------------------------------------------
+--------*
+>P1;gi|40642617|emb|CAC83001.1| soluble pyrophosphatase [Beta vulgaris] [ score 222 E 2e-57 ] [ range 48 .. 214 ]
+sequence
+------------------------------DLEIGPNAP-EICNCVVEIPKGSK-VKYELDKK--TGLIM
+VD------RILYS---SVVYPHNYGFIPRTLCE------------DGDPMDVLVLMQEPVVPGRFLRARA
+IGLMPMIDQGEKDDKIIAVCAD--DPEVRHYTDINQLP---PHRLAEIRRFFEDYKKNEN---KEVAVN-
+---EFLPAQIAHDAIQHSMDLYAE----------------------------------------------
+--------*
+>P1;gi|42521059|ref|NP_966974.1| inorganic pyrophosphatase [Wolbachi... [ score 222 E 2e-57 ] [ range 3 .. 167 ]
+sequence
+---------------------------LS-KITAGPNA----VNVVIEISANAEPVKYEFNKE--FRLLQ
+VD------RFLST---SMTYPCNYGFVPNTCAG------------DGDPVDVLVLTQFPLASSVLISVRP
+IGALLTKDEKGEDEKILAVPVSSVDSYYDNIKDYSDLS---KSLLDKITHFFSHYKDLEK--GKTVAVG-
+---EWVGVEEAKKIIEKSR---------------------------------------------------
+--------*
+>P1;gi|15678291|ref|NP_275406.1| inorganic pyrophosphatase [Methanot... [ score 221 E 4e-57 ] [ range 5 .. 173 ]
+sequence
+----------------------------K-DIEPGPSVP-EVVYAVVEIPKGSRN-KYEYHKD--LQAFA
+LD------RVLYS---AVFYPAEYGIIPRTLYD------------DGDPMDILVLMDEPTFPGCIIESRP
+IGLLRMIDGGDQDDKILAVPVA--DPHFADVKDISDIP---EHNLKEIANFFETYKKLE---GKKTETL-
+---GWEGAEKAFEAVNHSIELYRKK---------------------------------------------
+--------*
+>P1;gi|5669924|gb|AAD46520.1| soluble inorganic pyrophosphatase [Pop... [ score 221 E 5e-57 ] [ range 41 .. 207 ]
+sequence
+------------------------------DLEIGPGAP-HIFNVVVEITKGSK-VKYELDKK--TGLIK
+VD------RILYS---SVVYPHNYGFIPRTLCE------------DNDPLDVLVLMQEPVLPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCAD--DPEYKHYTDIKELA---PHRLSEIRRFFEDYKKNEN---KEVAVN-
+---DFLPSNTAVEAIQYSMDLYAE----------------------------------------------
+--------*
+>P1;gi|42543708|pdb|1UDE|A Chain A, Crystal Structure Of The Inorgan... [ score 221 E 6e-57 ] [ range 23 .. 190 ]
+sequence
+------------------------------DLEPGPNVP-EVVYALIEIPKGSRN-KYELDKE--TGLLK
+LD------RVLYT---PFHYPVDYGIIPRTWYE------------DGDPFDIMVIMREPTYPLTIIEARP
+IGLFKMIDSGDKDYKVLAVPVE--DPYFKDWKDISDVP---KAFLDEIAHFFKRYKELE---GKEIIVE-
+---GWEGAEAAKREILRAIEMYKEK---------------------------------------------
+--------*
+>P1;gi|14571673|emb|CAC42763.1| soluble inorganic pyrophosphatase [C... [ score 219 E 2e-56 ] [ range 14 .. 180 ]
+sequence
+------------------------------DLHPGNDAP-NFVSCVIEIPRGSK-VKYELDKD--TGLCF
+VD------RILYS---SVVYPHNYGFVPKTLCE------------DGDPLDVLVLMQEPVVPMCFLRAKP
+IGVMQMLDQGERDDKLIAVHAD--DPEYKGFTDISQLP---PHRLAEIKRFFEDYKKNEH---KEVVVD-
+---DFLGAEEAKKVVKDSLNMYQE----------------------------------------------
+--------*
+>P1;gi|15234191|ref|NP_192057.1| inorganic pyrophosphatase, putative... [ score 219 E 2e-56 ] [ range 42 .. 208 ]
+sequence
+------------------------------DLEIGPGAP-VIFNVVIEISKGSK-VKYELDKK--TGLIK
+VD------RILYS---SVVYPHNYGFVPRTLCE------------DNDPIDVLVIMQEPVLPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCVD--DPEYKHITNINELP---PHRLSEIRRFFEDYKKNEN---KEVAVN-
+---DFLQPGPAIEAIQYSMDLYAE----------------------------------------------
+--------*
+>P1;gi|15791998|ref|NP_281821.1| inorganic pyrophosphatase [Campylob... [ score 218 E 4e-56 ] [ range 2 .. 172 ]
+sequence
+--------------------------NLS-KIKIG-DIP-NKINAVIEIPYGS-NIKYEIDKD--SGAIM
+VD------RVMAS---AIFYPANYGFIANTLAD------------DGDPVDILVLNEYPIQAGAVIPCRL
+IGVLIMEDESGMDEKLLAVPNSKIDARYDNIKTYTDLP---QATLNKIKNFFETYKILEP--NKWVKVQ-
+---DFKDEKAAIEILEKAIKNYK-----------------------------------------------
+--------*
+>P1;gi|21221836|ref|NP_627615.1| putative inorganic pyrophosphatase ... [ score 217 E 5e-56 ] [ range 2 .. 160 ]
+sequence
+-----------------------------------------EFDVTIEIPKGSRN-KYEVDHE--TGRIR
+LD------RRLFT---STAYPTDYGFVENTLGE------------DGDPLDALVILDEPTFPGCLIRCRA
+IGMFRMTDEAGGDDKLLCVP--STDPRVEHLRDIHHVS---EFDRLEIQHFFEVYKDLEP--GKSVEGA-
+---DWVGRTEAEAEIERSYKRFKDQ---------------------------------------------
+--------*
+>P1;gi|32267347|ref|NP_861379.1| inorganic pyrophosphatase [Helicoba... [ score 217 E 8e-56 ] [ range 3 .. 165 ]
+sequence
+------------------------------------ENP-NKINVIIEIPYGS-NIKYEVDKE--SGLVV
+VD------RVMYG---AMFYPANYGFVPNTLAD------------DGDPVDVLVLNSYPLQAGSMIASRL
+IGVLIMEDESGMDEKLIAVPVSKIDPSFEKIQSLADLP---QITLDRIKNFFETYKTLEP--NKWVKVK-
+---EYKDKTAAQEILDKSIKAYK-----------------------------------------------
+--------*
+>P1;gi|2500047|sp|Q43187|IPYR_SOLTU Soluble inorganic pyrophosphatas... [ score 216 E 2e-55 ] [ range 37 .. 203 ]
+sequence
+------------------------------DLEIGPEAP-SVFNVVIEISKGSK-VKYELDKK--TGLIK
+VD------RILYS---SVVYPQNYGFIPRTLCE------------DNDPMDVLVLMQEPVLPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCAD--DPEYRHYTDIKQLP---PHRLAEIRRFFEDYKKNEN---KDVAVD-
+---DFLPPNSAVNAIQYSMDLYAE----------------------------------------------
+--------*
+>P1;gi|23019094|ref|ZP_00058806.1| COG0221: Inorganic pyrophosphatas... [ score 215 E 3e-55 ] [ range 5 .. 171 ]
+sequence
+-------------------------------VVRGAENS-MEFDVTIEIPKGERN-KYEMDHE--TGRIR
+LD------RMLFT---STSYPADYGFIEGTLGD------------DGDPLDALVLLKQPTFPGCMIRCRA
+IGMFRMRDEAGGDDKVLCVPAT--DPRMEHLRDIHHVN---EFERLEIQHFFTVYKDLEP--GKSVEGA-
+---IWVGRHEAEQEIKNSIKRAAE----------------------------------------------
+--------*
+>P1;gi|2500045|sp|P77992|IPYR_THELI Inorganic pyrophosphatase (Pyrop... [ score 214 E 5e-55 ] [ range 6 .. 173 ]
+sequence
+------------------------------DLEPGPEVP-EVVYALIEIPKGSRN-KYELDKK--TGLIK
+LD------RVLYS---PFHYPVDYGIIPQTWYD------------DDDPFDIMVIMREPTYPGVLIEARP
+IGLFKMIDSGDKDYKVLAVPVE--DPYFNDWKDISDVP---KAFLDEIAHFFQRYKELQ---GKEIIVE-
+---GWENAEKAKQEILRAIELYKEK---------------------------------------------
+--------*
+>P1;gi|25808567|gb|AAN74410.1| inorganic pyrophosphatase [Helicobact... [ score 214 E 9e-55 ] [ range 2 .. 172 ]
+sequence
+--------------------------NLE-KLEISHDA--NALCVVIEISKHS-NIKYELDKE--SGALM
+VD------RVLYG---AQNYPANYGFVPNTLGS------------DGDPVDALVLSDVAFQAGSVVKARL
+VGVLNMEDESGMDEKLLALPIDKIDPTHSYVKDINDLS---KHTLDKIKHFFETYKDLEP--NKWVKVK-
+---GFENKESAIKVLEKAIKAYQ-----------------------------------------------
+--------*
+>P1;gi|29831204|ref|NP_825838.1| putative inorganic pyrophosphatase ... [ score 213 E 1e-54 ] [ range 2 .. 160 ]
+sequence
+-----------------------------------------EFDVTIEIPKGSRN-KYEVDHE--TGRIR
+LD------RRLFT---STSYPADYGFVENTLGE------------DGDPLDALVILDEPTFPGCLIKCRA
+IGMFRMTDEAGGDDKLLCVPAH--DPRVEHLRDIHHVS---EFDRLEIQHFFEVYKDLEP--GKSVEGA-
+---NWVGRTDAEAEIERSYKRLKEQ---------------------------------------------
+--------*
+>P1;gi|21542101|sp|Q974Y8|IPYR_SULTO Inorganic pyrophosphatase (Pyro... [ score 213 E 1e-54 ] [ range 1 .. 172 ]
+sequence
+----------------------------M-KLSPGKKAP-DEVNVLIEIPLGS-NIKYEYDEE--EEVVK
+VD------RILYT---SMVYPFNYGFIPGTLEE------------DGDPLDVLVISNYPLLPGTAIEVRP
+IGILYMRDEEGEDAKIIAVPKDKVDPTFSNIKDIIDLP---QAIKDKINHFFEHYKELEP--GKWVKIS-
+---GWGGVSEAKTRINEAIKRANSK---------------------------------------------
+--------*
+>P1;gi|15231849|ref|NP_190930.1| inorganic pyrophosphatase, putative... [ score 212 E 2e-54 ] [ range 42 .. 208 ]
+sequence
+------------------------------DLEIGPEAP-IIFNCVVEIGKGSK-VKYELDKT--TGLIK
+VD------RILYS---SVVYPHNYGFIPRTLCE------------DSDPIDVLVIMQEPVIPGCFLRAKA
+IGLMPMIDQGEKDDKIIAVCAD--DPEYRHYNDISELP---PHRMAEIRRFFEDYKKNEN---KEVAVN-
+---DFLPATAAYDAVQHSMDLYAD----------------------------------------------
+--------*
+>P1;gi|14521882|ref|NP_127358.1| thermostable inorganic pyrophosphat... [ score 212 E 3e-54 ] [ range 6 .. 173 ]
+sequence
+------------------------------DLEPGPNVP-EVVYALIEIPKGSRN-KYELDKK--TGLLK
+LD------RVLYS---PFFYPVDYGIIPRTWYD------------DDDPFDIMVIMREPTYPLTIIEARP
+IGLFKMIDSGDKDYKVLAVPVE--DPYFKDWKDIDDVP---KAFLDEIAHFFKRYKELQ---GKEIIVE-
+---GWEGAEAAKREILRAIELYKEK---------------------------------------------
+--------*
+>P1;gi|41406533|ref|NP_959369.1| Ppa [Mycobacterium avium subsp. par... [ score 212 E 3e-54 ] [ range 2 .. 160 ]
+sequence
+-----------------------------------------EFDVTIEILKGQRN-KYEVNHE--TGRLR
+LD------RYLYT---AMAYPTDYGFIEDTLGE------------DGDPLDAMVLLPQSVFPGVIVEARP
+VGMFRMTDEKGGDDKVLCVPAG--DHRWEHIQDIGDVP---EFELDVIKHFFVHYKDLEP--GKFVKAA-
+---DWVGRAEAEAEVQRSIERFKAQ---------------------------------------------
+--------*
+>P1;gi|18976629|ref|NP_577986.1| inorganic pyrophosphatase (pyrophos... [ score 212 E 3e-54 ] [ range 6 .. 173 ]
+sequence
+------------------------------DLEPGPDVP-EVVYAIIEIPKGSRN-KYELDKK--TGLLK
+LD------RVLYS---PFFYPVDYGIIPRTWYE------------DDDPFDIMVIMREPVYPLTIIEARP
+IGLFKMIDSGDKDYKVLAVPVE--DPYFKDWKDIDDVP---KAFLDEIAHFFKRYKELQ---GKEIIVE-
+---GWEGAEAAKREILRAIEMYKEK---------------------------------------------
+--------*
+>P1;gi|21227543|ref|NP_633465.1| Inorganic pyrophosphatase [Methanos... [ score 211 E 6e-54 ] [ range 19 .. 174 ]
+sequence
+-------------------------------------------CVLIEIPQGSRN-KYEYDKE--RKVIR
+FD------RMLFS---SIVYPCDYGFFPDTLAL------------DGDPLDAMVLMWEPTFPGCVIDVHP
+VAMLDMEDDKGRDEKILCVPQR--DPLWNYIKTIEQVP---PHLLKEITHFFETYKNLER---KDVVVY-
+---GWRDLETARKVIQEAKDRYTEQ---------------------------------------------
+--------*
+>P1;gi|42522167|ref|NP_967547.1| unnamed protein product [Bdellovibr... [ score 209 E 1e-53 ] [ range 6 .. 173 ]
+sequence
+------------------------------DLSPGEKAP-EVVTALIEIPAGSK-TKFELDKV--SGLLK
+VD------RVLYS---SVHYPANYGFIPRTYCG------------DHDPLDILVLGQAQVYPLSIMRARP
+VGCMRMLDQGEMDDKVIAVHED--DPEMAHIHSIKDLA---PHQLKEIRNFFEIYKGLEN---KKVEVE-
+---GFHDLPETLKIIKEAFDLYKQE---------------------------------------------
+--------*
+>P1;gi|6752884|gb|AAF27918.1| soluble inorganic pyrophosphatase [Mal... [ score 208 E 4e-53 ] [ range 54 .. 220 ]
+sequence
+------------------------------DLEIGPGAP-KIFNCVIEIPKGSK-VKYELDKK--TGLIK
+GD------RILDS---SVVYPHNYGFIPRTLCE------------DNDPLGCLDIMQEPVVPGCFLRAKA
+IGLMPMIDQGEKDDQIIAVCAD--DPEYRHYNDIKELP---PHRLAEIRRFFEDYKKNEN---KEVAVD-
+---DFLPASTAFDAIQHSMNLYAD----------------------------------------------
+--------*
+>P1;gi|3913939|sp|O05724|IPYR_BACST Inorganic pyrophosphatase (Pyrop... [ score 208 E 4e-53 ] [ range 7 .. 164 ]
+sequence
+-----------------------------------------IVEAFIEIPTGSQN-KYEFDKE--RGIFK
+LD------RVLYS---PMFYPAEYGYLQNTLAL------------DGDPLDILVITTNPTFPGCVIDTRV
+IGYLNMVDSGEEDAKLIGVPVE--DPRFDEVRSIEDLP---QHKLKEIAHFFERYKDLQ---GKRTEIG-
+---TWEGPEAAAKLIDECIARYNEQ---------------------------------------------
+--------*
+>P1;gi|25029102|ref|NP_739156.1| putative inorganic pyrophosphatase ... [ score 208 E 5e-53 ] [ range 2 .. 157 ]
+sequence
+-----------------------------------------SVEVTVEIPKGSRN-KYEIDHE--TGKVY
+LD------RYLFT---PMAYPLDYGFIDHTLGE------------DGDPMDALVILPESVFPNVIVKSRV
+IGVFKMTDEAGGDDKLLAVLD---DPRYDHIQDISDVS---DFLKDEIEHFFVHYKDLEK--GKHVDGS-
+---GWGDKAEAEQILADSIERYK-----------------------------------------------
+--------*
+>P1;gi|43973250|gb|EAG43503.1| unknown [environmental sequence] [ score 206 E 2e-52 ] [ range 2 .. 146 ]
+sequence
+------------------------------------------------------PVKYEVDKE--TGAIF
+VD------RILST---PMRYPCNYGYVPSTLCG------------DGDPADVLVVLPLPLVPGSVVRCRP
+VGVLKMSDEAGSDEKILAVPVSKIFSGYAHVEDIAQVS---SHWLERIGHFFEHYKDLEK--GKWVKLD-
+---GWGGAAEAKQILIEAHQR-------------------------------------------------
+--------*
+>P1;gi|19553894|ref|NP_601896.1| inorganic pyrophosphatase [Coryneba... [ score 204 E 5e-52 ] [ range 2 .. 157 ]
+sequence
+-----------------------------------------SIEVTVEIPKGSRN-KYEIDHE--TGKVY
+LD------RYLFT---PMAYPLDYGYIDHTLGE------------DGDPLDALVILPESVFPAVVVKSRI
+IGVFKMTDEAGGDDKLLSVLD---DPRYDHIQDISDVS---DFLKDEIEHFFVHYKDLEK--GKHVDGS-
+---GWGDKAEAEKIHAEAIDRYK-----------------------------------------------
+--------*
+>P1;gi|16081524|ref|NP_393878.1| inorganic pyrophosphatase [Thermopl... [ score 204 E 6e-52 ] [ range 7 .. 174 ]
+sequence
+------------------------------SVPVGPKPP-EEVYVIVEIPRGSR-VKYEIAKD--FPGML
+VD------RVLYS---SVVYPVDYGLIPRTLYY------------DGDPMDVMVLISQPTFPGAIMKVRP
+IGMMKMVDQGETDNKILAVFDK--DPNVSYIKDLKDVN---AHLLDEIANFFSTYKILEK---KETKVL-
+---GWEGKEAALKEIEVSIKMYEEK---------------------------------------------
+--------*
+>P1;gi|4033421|sp|O22537|IPYR_ORYSA Soluble inorganic pyrophosphatas... [ score 204 E 1e-51 ] [ range 40 .. 204 ]
+sequence
+------------------------------DLEIGPGAP-AVFNCVVEIPRGSK-VKCELDKA--TGLIK
+VD------RVLYS---SVVYPHNYGFIPRTLCE------------DGDPMDVLVLMQEQVVPGCFLRARA
+IGLMPMIDQGEKDDKIIAVRADDLNTATSGTSRKSPFT---AFKRSAV--FFEDYKKNEN---KEVAVN-
+---EFFPAEDAINAIKYSMDFY------------------------------------------------
+--------*
+>P1;gi|23335625|ref|ZP_00120859.1| COG0221: Inorganic pyrophosphatas... [ score 203 E 1e-51 ] [ range 3 .. 162 ]
+sequence
+----------------------------------------ETFNVVVEIPRGSKN-KYEVDHE--TGRVF
+LD------RTLFT---AMGYPDDYGYIDGTLGE------------DGDPLDALVMIPNSVFPGCVVECRA
+VGLYHMVDEAGGDDKVLCVPA---DVRFDDIKDIDDVN---EYHKAEIKHFFEQYKALEP--GKEVLPG-
+---DWTGADAAEKEIIAARERLANE---------------------------------------------
+--------*
+>P1;gi|23042325|ref|ZP_00073720.1| COG0221: Inorganic pyrophosphatas... [ score 203 E 1e-51 ] [ range 3 .. 170 ]
+sequence
+---------------------------LS-LIPAQPK-P-GLINVLIEITGGSKN-KYEFDKD--LQAFA
+LD------RVLYS---SVQYPYDYGFVPNTLAD------------DGDPLDGIVIMDEPTFPGCVIPARP
+VGMLEMIDGGDRDEKILCVPDK--DPRYTEVKSLKDVA---HHRLEEIAEFFRTYKNLEK---KVTEIL-
+---GWKDVEHVMPLVEKCVKAASK----------------------------------------------
+--------*
+>P1;gi|7436031|pir||T07399 probable inorganic diphosphatase (EC 3.6.... [ score 201 E 5e-51 ] [ range 42 .. 209 ]
+sequence
+------------------------------DLEIEPDAP-QIFNVVIEISKGSK-VKYELDKK--TGLIK
+VD------RVLYS---SVVYPHNYGFIPRTLCE------------DSDPLDVLVIMQEPITSGDFLRAKA
+IGVMPMIDQGEKDEKIIAVCAD--DPEYKDYADINELP---PHRLAEIRRFFEDYKKNEN---KEVAVN-
+---DFLPSDKAFEAVQHSQDLYAD----------------------------------------------
+--------*
+>P1;gi|30961759|gb|AAP39996.1| inorganic pyrophosphatase [Helicobact... [ score 201 E 8e-51 ] [ range 1 .. 141 ]
+sequence
+-------------------------------------------CVVIEISKHS-NIKYELDKE--SGALM
+VD------RVLYG---AQNYPANYGFVPNTLGA------------DGDPVDVLVLSDMAFQAGSVVKARL
+IGVLNMEDESGMDEKLLALPVDKVDPTHSYVKDINDLS---KHTLDKIKHFFETYKDLEP--NKWVKVK-
+---GFEN---------------------------------------------------------------
+--------*
+>P1;gi|18564757|emb|CAC81009.2| soluble inorganic pyrophosphatase [A... [ score 200 E 1e-50 ] [ range 3 .. 168 ]
+sequence
+---------------------------LS-RIPAQPK-P-GVINILIEI-AGGSQNKYEFDKD--LEAFA
+LD------RVLYS---SVKYPYDYGFVPNTLAD------------DGDPLDGMVIIDEPTFPGCVIAARP
+IGFLEMIDGGDRDEKILAVPDK--DPRYAHRKSLNDVA---PHRLDEIAEFFRSYKNLEK---KVTQSV-
+---GWQDVDQVKALVDHPVKAY------------------------------------------------
+--------*
+>P1;gi|44334463|gb|EAI53768.1| unknown [environmental sequence] [ score 198 E 4e-50 ] [ range 31 .. 196 ]
+sequence
+-----------------------------------KDAP-NEVHMAVEIPAGSI-TKYEINEE---GLVF
+VD------RFQSM---PVAYPANYGSLPRTLGG------------DDDPLDALVLTREALHPGVLIKFRP
+VAVLRMIDGGEADEKIIGVPSSDVDPTYDKILDVDDLP---LIERQRIEAFFSVYKQLPE--GKKVELN-
+---GYGNAAEARKLIEEALERFQKK---------------------------------------------
+--------*
+>P1;gi|24216739|ref|NP_714220.1| Soluble inorganic pyrophosphatase [... [ score 197 E 8e-50 ] [ range 7 .. 173 ]
+sequence
+------------------------------DISPGDQNP-EIVNGVIEIKRGSRA-KYEVDKE--YGILK
+LD------RVLYS---SFYYPANYGFIPQSYCG------------DQDPLDILVLSQVELEPLCLVKAKV
+IGVMRMLDSGEEDDKIIAVAANDMS--VNHINDISELP---PHFTLELKHFFEDYKKLEN---KTVVIE-
+---EFQNAILARKIVLDSLELYKK----------------------------------------------
+--------*
+>P1;gi|13542020|ref|NP_111708.1| Inorganic pyrophosphatase [Thermopl... [ score 196 E 2e-49 ] [ range 7 .. 166 ]
+sequence
+-----------------------------------EDFP-ESFYVMIEIPMGS-NCKYEYKEE--LDNIV
+LD------RVLFT---AMTYPANYGFALDTRGK------------DGDPLDVLVFSSVSINPGIIVRCRA
+IGVAEMNDEEGEDNKILAVPVDKVDPASSIVRNESDIP---EYQKDKLKHFFEHYKELEK--GKFMKFH-
+---GFKGRDEAVKQLAEAR---------------------------------------------------
+--------*
+>P1;gi|44053643|gb|EAG87206.1| unknown [environmental sequence] [ score 196 E 2e-49 ] [ range 2 .. 134 ]
+sequence
+--------------------------SYD-KIPAGKDIP-NDIYVAIEIPANHAPIKYEIDKD--SSALF
+VD------RFMAT---PMFYPANYGYIPNTLAD------------DGDPLDVLVVTPHPVAPGSVIRARP
+VGVLHMTDDGGGDAKLIAVPHDKLTVLYRDIKEYTDLP---ELLIQQ-----------------------
+----------------------------------------------------------------------
+--------*
+>P1;gi|41615246|ref|NP_963744.1| NEQ461 [Nanoarchaeum equitans Kin4-... [ score 194 E 7e-49 ] [ range 2 .. 160 ]
+sequence
+-----------------------------------------EVYAFIEVPKGS-NVKYEY--E--DGKLK
+VD------RILYG---AMFYPYNYGFIPETLEE------------DGDPLDVLVITEEPLVPGSYIKVKP
+IGVLVTEDEKGVDRKIIAVPVKKVDPIYGEIEDISELK---EGIKLKIKHFFERYKELEP--GKFVKVK-
+---EFLGKEEAEKIIKQAQENYKKQ---------------------------------------------
+--------*
+>P1;gi|44283754|gb|EAI19098.1| unknown [environmental sequence] [ score 194 E 7e-49 ] [ range 3 .. 170 ]
+sequence
+---------------------------LS-SIPPSP-MK-GIVNIIVEIPAGSRN-KYEYCSV--AGIMA
+LD------RVLHS---SVRYPFDYGFIPNTLAD------------DGAPLDAMVIMDEPTFAGCLIKARP
+IGVLDMHDCGAYDGKLLCVPIA--NPRQDNIVSINQIA---PNQLEDVAEFFRTSKGLD---GRTVQID-
+---GWRDFDVVENLLKSCIPLKKK----------------------------------------------
+--------*
+>P1;gi|42837771|gb|EAA86354.1| unknown [environmental sequence] [ score 192 E 4e-48 ] [ range 14 .. 185 ]
+sequence
+--------------------------NLL-HIPAFANES-ERVNTIVELNSNTIN-KYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCLPRTWDE------------DGDPLDIIVNVTEPLVPGSIVEARI
+IGIMTFDDGGEVDDKVIGVIAD--DKRMDHIQSFEQLG---KHWINETTYYWEHYKDLKK--PGTCTVN-
+---GFFGVEKAVQIIKSCEERY------------------------------------------------
+--------*
+>P1;gi|33866320|ref|NP_897879.1| putative inorganic pyrophosphatase ... [ score 191 E 4e-48 ] [ range 14 .. 185 ]
+sequence
+--------------------------NLL-HVPAFADEA-ERLNTIVELNSNTIN-KYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIIVNVTEPLVPGSIVEARI
+IGVMTFDDGGEVDDKVIAVLAD--DKRMDHIKSFEDLG---EHWKKETTYYWEHYKDLKK--PGTCSVN-
+---GFFGTEKAVEIIKGCEARY------------------------------------------------
+--------*
+>P1;gi|44493457|gb|EAJ65086.1| unknown [environmental sequence] [ score 191 E 4e-48 ] [ range 14 .. 185 ]
+sequence
+--------------------------NLL-HVPAFADEA-ERLNTIVELNSNTIN-KYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIIVGVTEPLIPGSIVEARI
+IGVMTFDDGGEVDDKVIAVLAD--DKRMDHIKSWEDLG---EHWKKETTYYWEHYKDLKK--PGTCSVN-
+---GFFGTEKAVEIIKSCEARY------------------------------------------------
+--------*
+>P1;gi|33863543|ref|NP_895103.1| putative inorganic pyrophosphatase ... [ score 189 E 2e-47 ] [ range 14 .. 185 ]
+sequence
+--------------------------NLL-HVPAFADES-ERLNTIVELNSNTIN-KYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIIVSVTEPLVPGSIVEARI
+IGIMTFDDGGEVDDKVIAVLAD--DKRMDHITSFEQLG---EQWLKETQYYWEHYKDLKK--PGTCRVN-
+---GFLGVQKAVEIIKACEARY------------------------------------------------
+--------*
+>P1;gi|43808355|gb|EAF58679.1| unknown [environmental sequence] [ score 189 E 3e-47 ] [ range 5 .. 171 ]
+sequence
+----------------------------N-KIPIGSNFP-DIVNCIIEIPKGTSA-KYEYNEE--LDIFQ
+LA------RCLYS---SMIYTASYGFIPQTYAL------------DDDPLDVIVYNNIPIQTGAMVEVIP
+IATLDMTDNGSKDYKIVGVPTSHV----REYRNLKDLE---AHWVSTTLNFFSHYKDLE---DKVVEVD-
+---GWLSKSKTKKIIIEAHKRHNAK---------------------------------------------
+--------*
+>P1;gi|42630430|ref|ZP_00155970.1| COG0221: Inorganic pyrophosphatas... [ score 186 E 1e-46 ] [ range 8 .. 176 ]
+sequence
+-------------------------------LTPGDVDA-GIINVVNEIPEGSCH-KIEWNRK--VAAFQ
+LD------RVEPA---IFAKPTNYGFIPQTLDE------------DGDELDVLLITRQPLATGVFLEAKV
+IGVMKFVDGGEVDDKIVCVPADDRDTG-NAYNSLADLP---ANLIKQIEFHFNNYKALKK--PGSTKVT-
+---HWGDVEEAKEVIRESIKRWNER---------------------------------------------
+--------*
+>P1;gi|33239944|ref|NP_874886.1| Inorganic pyrophosphatase [Prochlor... [ score 185 E 5e-46 ] [ range 14 .. 185 ]
+sequence
+--------------------------NLL-HVPAFADES-LRVNTIVELNSNTIN-KYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIIVGVTEPLIPGSIVEARI
+IGIMTFDDGGEVDDKVIAVIAD--DKRLDHITSYELLG---EHWINETTYYWEHYKDLKK--PGTCTVN-
+---GFFGIEKAVEIIKTCERRY------------------------------------------------
+--------*
+>P1;gi|22406079|ref|ZP_00000936.1| COG0221: Inorganic pyrophosphatas... [ score 185 E 5e-46 ] [ range 8 .. 166 ]
+sequence
+-----------------------------------ENFP-DSFYVFIEIPQGG-NTKLEYKFD--VENIV
+LD------RILFT---SMVYPTNYGFVLNTKAK------------DEDPLDVLVISSVPMPSGAIVKCRA
+IGIAEMSDEEGSDNKVIAVPLDKVDPMSKEYTDIKDVP---DAVKDKIKHFFQHYKELEK--GKFMTFH-
+---DFKGKDEAIKQIKES----------------------------------------------------
+--------*
+>P1;gi|44412917|gb|EAJ09252.1| unknown [environmental sequence] [ score 183 E 1e-45 ] [ range 1 .. 148 ]
+sequence
+--------------------------------------------------------KYETDAK--TGFIV
+AD------RFQSM---PVAYPANYGSLTQSLAG------------DGDPLDVIFYTRAPLAPGTLIKLRA
+IGVLKMIDGGEKDDKIVAVPASKIDPTYDNIKELSDLP---KIEVQRLESFFRVYKDLPE--GKKVELN-
+---GFNDAATAKQEIKQAWDAWKEK---------------------------------------------
+--------*
+>P1;gi|43625168|gb|EAE67213.1| unknown [environmental sequence] [ score 182 E 3e-45 ] [ range 3 .. 110 ]
+sequence
+---------------------------FD-NIPAGKNPP-EDIYVAIEIPANSSPVKYELDKD--MGALL
+VD------RFMAT---PMFYPANYGFIPHTLAD------------DGDPLDVLVVTPYPIQAGSVIRCRP
+VGVLNMEDEAGGDAKLVAVP--------------------------------------------------
+----------------------------------------------------------------------
+--------*
+>P1;gi|37534198|ref|NP_921401.1| putative soluble inorganic pyrophos... [ score 180 E 2e-44 ] [ range 40 .. 187 ]
+sequence
+--------------------------SLS-KCCIGPGAP-QVFNVVVEITKGSK-VKYELDKK--TGMIK
+VD------RVLYS---SVVYPHNYGFIPRTLCE------------DGDPMDVLVLMQ-------------
+---------GEKDDKIIAVCVD--DPEFRHFNDLKELS---PHRLAEIRRFFEDYKKNEN---KEVAVN-
+---DFLPPATAQEAIKYSMDLYAE----------------------------------------------
+--------*
+>P1;gi|44328990|gb|EAI49864.1| unknown [environmental sequence] [ score 176 E 1e-43 ] [ range 3 .. 168 ]
+sequence
+---------------------------LS--RLSPSPSS-GLVNLLVEIPAGSRN-KYRFSHS--TGLMV
+LD------RVLHS---SIRYPFDYGFVPNTLAA------------DGSPLDAMVIMAEPTFAGCLIRARP
+IGLLDLKDNNVDDAKLLCVP--DADPGQREIHSIRQIA---PAQLEEVAEFFRTCRSFE---GRSIEVS-
+---GWRDAGSVPALLDQCIQAA------------------------------------------------
+--------*
+>P1;gi|26553892|ref|NP_757826.1| inorganic pyrophosphatase [Mycoplas... [ score 176 E 2e-43 ] [ range 3 .. 158 ]
+sequence
+------------------------------------------LNVTIEIPKKS-NVKYEYDRK--TNQIS
+VD------RILFG---TEVYPHNYGFIKEALDW------------DGDELDALVIADQSFLPGIIVPAKI
+IGAMEMIDDGETDTKLISV--IDCDPRYKHINNLSDLG---EHTLKEIQNFFETYKLLQN---KKVVIK-
+---GFKDSAWATKEYNECVELMKK----------------------------------------------
+--------*
+>P1;gi|26251130|ref|NP_757170.1| Inorganic pyrophosphatase [Escheric... [ score 244 E 4e-64 ] [ range 6 .. 173 ]
+sequence
+-------------------------------VPAGKDLP-EDIYVVIEIPAND-PIKYEIDKE--SGALF
+VD------RFMST---AMFYPCNYGYINHTLSL------------DGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGEDAKLIAVPHTKLSKEYDHIKDVNDLP---ELLKAQIAHFFEHYKDLEK--GKWVKVE-
+---GWENAEAAKAEIVASFERA------------------------------------------------
+--------*
+>P1;gi|43934616|gb|EAG22527.1| unknown [environmental sequence] [ score 231 E 6e-60 ] [ range 5 .. 173 ]
+sequence
+------------------------------KIPAGKDLP-NDIYVAIEIPANA-PIKYEIDKD--SDCLF
+VD------RFMAT---PMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVTPGSVIRARP
+VGILNMTDDGGGDAKVIAVPHDKLSQLYVDVKEYTDLP---PLLLEQIKHFFENYKDLEK--GKWVKID-
+---GWGNADAARAEIMKSVAAY------------------------------------------------
+--------*
+>P1;gi|16331023|ref|NP_441751.1| inorganic pyrophosphatase [Synechoc... [ score 214 E 5e-55 ] [ range 71 .. 232 ]
+sequence
+---------------------------------PAQPKA-GLINVLIEIPAGS-KNKYEFDKD--MNCFA
+LD------RVLYS---SVQYPYDYGFIPNTLAD------------DGDPLDGMVIMDQPTFPGCVITARP
+IGMLEMIDGGDRDEKILCVPAK--DPRYTYVKSINDLA---GHRLDEIAEFFRSYKNLEK---KVTEIL-
+---GWKDVDAVLPLVEECVKNY------------------------------------------------
+--------*
+>P1;gi|22299426|ref|NP_682673.1| soluble inorganic pyrophosphatase [... [ score 210 E 1e-53 ] [ range 19 .. 180 ]
+sequence
+---------------------------------PAQPKP-GVVNVLVEIAGGS-RNKYEFDKE--MKVFA
+LD------RVLYS---AVVYPYDYGFIPNTLAD------------DGDPLDGLVMMDEPTFPGCVIPARP
+IGMLEMIDSGDRDEKILCVPVD--DPRYAEVKSLKDIA---PHRLEEIAEFFRTYKNLQK---KVTEIL-
+---GWQDVDAVQPLVEKCIKAY------------------------------------------------
+--------*
+>P1;gi|23042325|ref|ZP_00073720.1| COG0221: Inorganic pyrophosphatas... [ score 207 E 8e-53 ] [ range 5 .. 169 ]
+sequence
+-------------------------------LIPAQPKP-GLINVLIEITGGS-KNKYEFDKD--LQAFA
+LD------RVLYS---SVQYPYDYGFVPNTLAD------------DGDPLDGIVIMDEPTFPGCVIPARP
+VGMLEMIDGGDRDEKILCVP--DKDPRYTEVKSLKDVA---HHRLEEIAEFFRTYKNLEK---KVTEIL-
+---GWKDVEHVMPLVEKCVKAAS-----------------------------------------------
+--------*
+>P1;gi|17231062|ref|NP_487610.1| inorganic pyrophosphatase [Nostoc s... [ score 201 E 4e-51 ] [ range 7 .. 168 ]
+sequence
+---------------------------------PAQPKP-GVINILIEIAGGS-QNKYEFDKD--LEAFA
+LD------RVLYS---SVKYPYDYGFVPNTLAD------------DGDPLDGMVIIDEPTFPGCVIAARP
+IGFLEMIDGGDRDEKILAVP--DKDPRYAHVKSLNDVA---PHRLDEIAEFFRSYKNLEK---KVTQIL-
+---GWQDVDQVKALVDQSIKAY------------------------------------------------
+--------*
+>P1;gi|23130472|ref|ZP_00112287.1| COG0221: Inorganic pyrophosphatas... [ score 199 E 2e-50 ] [ range 7 .. 168 ]
+sequence
+---------------------------------PAQPKP-GLINVLIEITGGS-KNKYEYDKE--LEAFA
+LD------RVLYS---SVKYPYDYGFVPNTLAD------------DGDPLDGMVIIDEPTFPGCIIAARP
+IGFLEMIDGGDRDEKILCVP--DKDPRYTQVKSLKDVA---PHRLDEIAEFFRSYKNLEK---KVTEIL-
+---GWQDVDKVAALVEKSVKAY------------------------------------------------
+--------*
+>P1;gi|37523796|ref|NP_927173.1| inorganic pyrophosphatase [Gloeobac... [ score 198 E 3e-50 ] [ range 8 .. 169 ]
+sequence
+---------------------------------PARPKE-GLINVLVEIPGRS-HNKFEFDKD--LGIFT
+LD------RVLYA---AVYYPGDYGFVPNTLAD------------DGDPLDGLVLMDEPTFTGCLIAARP
+IGVLGMIDSGEGDEKILCVPVK--DPRYAGVKDLSDIA---QHRLDEIAEFFATYKRLEK---KVTEIT-
+---GWQGVEVAQQLVDKAIAAY------------------------------------------------
+--------*
+>P1;gi|23050001|ref|ZP_00076996.1| COG0221: Inorganic pyrophosphatas... [ score 197 E 6e-50 ] [ range 15 .. 177 ]
+sequence
+--------------------------------SDGMTER-QVESVLIEIPKGS-RNKYEYDKE--KKVIK
+YD------RMLFS---SMVYPSDYGFFPDTLAL------------DGDPLDAMVLTWEPTFPGCIIDVHL
+VALFDMEDDKGRDQKILCVP--KNDPMWNYIETVEQVP---PHLFKEITNFFQTYKNLEE---KRVKVI-
+---GWKDLETAVAVLQEAKDRY------------------------------------------------
+--------*
+>P1;gi|18564757|emb|CAC81009.2| soluble inorganic pyrophosphatase [A... [ score 192 E 2e-48 ] [ range 7 .. 168 ]
+sequence
+---------------------------------PAQPKP-GVINILIEIAGGS-QNKYEFDKD--LEAFA
+LD------RVLYS---SVKYPYDYGFVPNTLAD------------DGDPLDGMVIIDEPTFPGCVIAARP
+IGFLEMIDGGDRDEKILAVP--DKDPRYAHRKSLNDVA---PHRLDEIAEFFRSYKNLEK---KVTQSV-
+---GWQDVDQVKALVDHPVKAY------------------------------------------------
+--------*
+>P1;gi|33861068|ref|NP_892629.1| Inorganic pyrophosphatase [Prochlor... [ score 191 E 4e-48 ] [ range 5 .. 164 ]
+sequence
+-------------------------------LIPPSPMK-GIVNLVVEIPAGS-RNKYEYCSQ--AGIME
+LD------RILHS---SVRYPFDYGFVPNTLAD------------DGSPLDAMVIMDEPTFAGCLIKARP
+IGVLDMHDCGKYDGKLLCVPIS--NPRQENIISINQIA---PNQLEDVAEFFRTSKGLD---GRTVQID-
+---GWRDFEVVEELLRKC----------------------------------------------------
+--------*
+>P1;gi|15676541|ref|NP_273684.1| inorganic pyrophosphatase [Neisseri... [ score 191 E 4e-48 ] [ range 8 .. 172 ]
+sequence
+-------------------------------LTPGDVDG-GIINVVNEIPAGS-NHKIEWNRK--LAAFQ
+LD------RVEPA---IFAKPTNYGFIPQTLDE------------DGDELDVLLVTEQPLATGVFLEARV
+IGVMKFVDDGEVDDKIVCVPADDRNNG-NAYKTLSDLP---QQLIKQIEFHFNHYKDLKK--AGTTKVE-
+---SWGDAEEAKKVIKESIER-------------------------------------------------
+--------*
+>P1;gi|44349489|gb|EAI64339.1| unknown [environmental sequence] [ score 186 E 1e-46 ] [ range 24 .. 185 ]
+sequence
+-----------------------------------DSSN-TIINTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDVEIVGTEPLIPGSIVEARI
+IGVMKFDDGGEVDDKVIAVLAD--DKRMDHISSYEDLG---DHWLKETKYYWEHYKDLKK--PGTCTVN-
+---GFFGIEEAVKVIKDCEERY------------------------------------------------
+--------*
+>P1;gi|43360106|gb|EAD44922.1| unknown [environmental sequence] [ score 185 E 3e-46 ] [ range 24 .. 185 ]
+sequence
+-----------------------------------DSTN-RVINTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDVEIVSTEPLIPGSIVEARI
+IGVMKFDDGGEVDDKVIAVLAD--DKRMDHISSYEDLG---EHWLKETKYYWEHYKDLKK--PGTCTVN-
+---GFFGIEEAVKVIKDCEDRY------------------------------------------------
+--------*
+>P1;gi|33861051|ref|NP_892612.1| putative inorganic pyrophosphatase ... [ score 185 E 4e-46 ] [ range 24 .. 185 ]
+sequence
+-----------------------------------DNTK-SIVNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIEIVGTEPLVPGSIVESRI
+IGVMKFDDGGEVDDKVIAVL--SDDKRMDHIHTFEDLG---EHWLNETKYYWEHYKDLKK--PGTCTVN-
+---GFYGIEEAVKVIQDCESRY------------------------------------------------
+--------*
+>P1;gi|43808355|gb|EAF58679.1| unknown [environmental sequence] [ score 184 E 5e-46 ] [ range 6 .. 167 ]
+sequence
+------------------------------KIPIGSNFP-DIVNCIIEIPKGT-SAKYEYNEE--LDIFQ
+LA------RCLYS---SMIYTASYGFIPQTYAL------------DDDPLDVIVYNNIPIQTGAMVEVIP
+IATLDMTDNGSKDYKIVGVPTSHV-REYRNLKDLE------AHWVSTTLNFFSHYKDLE---DKVVEVD-
+---GWLSKSKTKKIIIEAHKR-------------------------------------------------
+--------*
+>P1;gi|44123619|gb|EAH25330.1| unknown [environmental sequence] [ score 184 E 8e-46 ] [ range 29 .. 185 ]
+sequence
+-----------------------------------------VVNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIEIVGTEPLVPGSIVESRI
+IGVMKFDDGGEVDDKVIAVLAD--DKRMDHIRTFDDLG---EHWLKETKYYWEHYKDLKK--PGTCTVN-
+---GFYGIEEAVKVIQDCESRY------------------------------------------------
+--------*
+>P1;gi|44278352|gb|EAI15475.1| unknown [environmental sequence] [ score 181 E 6e-45 ] [ range 7 .. 169 ]
+sequence
+---------------------------------PAQPNI-GLLHVVVEVPAGG-RNKYEYLPV--PGLMG
+LD------RVLHP---SVQYPFDYGFVPNTLAE------------DGSPLDAMVVMEEPTFPGCLILTRP
+IGMLEVIDNGRFDAKVLCVPAN--DPHLDRMSNLGQIS---AQQLEDIAEFFRTHRGLD---GRMTEIQ-
+---GWSEGLPVLEHIKRCITAAS-----------------------------------------------
+--------*
+>P1;gi|42837771|gb|EAA86354.1| unknown [environmental sequence] [ score 179 E 3e-44 ] [ range 30 .. 185 ]
+sequence
+------------------------------------------VNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCLPRTWDE------------DGDPLDIEIVNTEPLVPGSIVEARI
+IGIMTFDDGGEVDDKVIGVIAD--DKRMDHIQSFEQLG---KHWINETTYYWEHYKDLKK--PGTCTVN-
+---GFFGVEKAVQIIKSCEERY------------------------------------------------
+--------*
+>P1;gi|44493457|gb|EAJ65086.1| unknown [environmental sequence] [ score 177 E 8e-44 ] [ range 30 .. 185 ]
+sequence
+------------------------------------------LNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIEIVGTEPLIPGSIVEARI
+IGVMTFDDGGEVDDKVIAVLAD--DKRMDHIKSWEDLG---EHWKKETTYYWEHYKDLKK--PGTCSVN-
+---GFFGTEKAVEIIKSCEARY------------------------------------------------
+--------*
+>P1;gi|33866320|ref|NP_897879.1| putative inorganic pyrophosphatase ... [ score 176 E 1e-43 ] [ range 30 .. 185 ]
+sequence
+------------------------------------------LNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIEIVNTEPLVPGSIVEARI
+IGVMTFDDGGEVDDKVIAVLAD--DKRMDHIKSFEDLG---EHWKKETTYYWEHYKDLKK--PGTCSVN-
+---GFFGTEKAVEIIKGCEARY------------------------------------------------
+--------*
+>P1;gi|43757030|gb|EAF32956.1| unknown [environmental sequence] [ score 176 E 1e-43 ] [ range 3 .. 156 ]
+sequence
+------------------------------------NEN-DDIDVVIEIPYKS-NVKYEIKKN--E--LQ
+VD------RVLST---AMFYPGNYGYIPHTLAG------------DGDPVDVLIINETPFYPTSHIRCKV
+LGMLFTTDEKGEDQKVLALPISKVDPSYSNINDISDIN---DSKLELIKNFYENYKKLEK--NKTVTVK-
+---DYFNKADTIKFIK------------------------------------------------------
+--------*
+>P1;gi|41689550|ref|ZP_00146083.1| hypothetical protein Psyc104201 [... [ score 176 E 1e-43 ] [ range 8 .. 172 ]
+sequence
+-------------------------------LDAGDVDG-GIINVVVEIPTGS-SHKIEWNRE--LAVFE
+LD------RVDPQ---IFAKPCNYGFIPQTLDE------------DGDELDALIITEQPLPTGIFLKAKV
+IGVMKFVDDGEVDDKIVVVPADDRDTG-NAYNSLADLP---KQLINQLEFHFSHYKDLKK--PGTTVVE-
+---SWGDVEEAKEVIKESIQR-------------------------------------------------
+--------*
+>P1;gi|33863543|ref|NP_895103.1| putative inorganic pyrophosphatase ... [ score 176 E 2e-43 ] [ range 30 .. 185 ]
+sequence
+------------------------------------------LNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIEIVSTEPLVPGSIVEARI
+IGIMTFDDGGEVDDKVIAVLAD--DKRMDHITSFEQLG---EQWLKETQYYWEHYKDLKK--PGTCRVN-
+---GFLGVQKAVEIIKACEARY------------------------------------------------
+--------*
+>P1;gi|33239944|ref|NP_874886.1| Inorganic pyrophosphatase [Prochlor... [ score 175 E 3e-43 ] [ range 30 .. 185 ]
+sequence
+------------------------------------------VNTIVELNSNT-INKYELITE--TGHLK
+LD------RVGYS---SLAYPFAYGCIPRTWDE------------DGDPLDIEIVGTEPLIPGSIVEARI
+IGIMTFDDGGEVDDKVIAVIAD--DKRLDHITSYELLG---EHWINETTYYWEHYKDLKK--PGTCTVN-
+---GFFGIEKAVEIIKTCERRY------------------------------------------------
+--------*
+>P1;gi|20138579|sp|P58733|IPYR_PSEAO Inorganic pyrophosphatase (Pyro... [ score 174 E 1e-42 ] [ range 7 .. 169 ]
+sequence
+---------------------------------PPQPKA-GILNVLIEIPAGS-KNKYEFDKD--LNAFA
+LD------RVLYS---SVQYPYDYGFVPITLAD------------DGDPLDGMVIMVPPTFPG-VATARP
+IGMLQMVDGGDRDEKFLCVPAK--DPRYTYVKSANDLA---GHRLDEIFEFFRSYKNLFK---KPTEFF-
+---GWKGDVAGLPLVEECVKNY------------------------------------------------
+--------*
+>P1;gi|230265|pdb|1PYP|  Inorganic Pyrophosphatase (E.C.3.6.1.1) [ score 423 E 1e-117 ] [ range 1 .. 281 ]
+sequence
+TYTTRQIGAKNTLEYKVYIEKDGKPVSAFHDIPLYADKEDNIFNMVVEIPRWT-NAKLEITKEETLNPII
+QNTK-GKLRFVRNCFPHHGYIHNYGAFPQTWEDPNVSHPETKAVGDNNPIDVLQIGETIAYTGQVKEVKA
+LGIMALLDEGETDWKVIAIDI--NDPLAPKLNDIEDVEKYFPGLLRATDEWFRIYKIPD---GKPENQFA
+FSGEAKNKKYALDIIKETHNSWKQLIAGKSSDSKGIDLTNVTLPDTPTYSKAASDAIPPASPKADAPIDK
+SIDKWFFI*
+>P1;gi|3122291|sp|O13505|IPYR_PICPA Inorganic pyrophosphatase (Pyrop... [ score 419 E 1e-116 ] [ range 2 .. 281 ]
+sequence
+SYSTRQIGAANTLENRVFIEKDGQVVSPFHDIPLYADESKKVLNMVVEVPRWT-NAKLEISKEEKLNPIL
+QDTKKGKLRFVRNCFPHHGYIHNYGAFPQTWEDPNVTHPETKAKGDNDPLDVCEIGERS-YTGQVKQVKV
+LGVMALLDEGETDWKVIVIDI--NDPLAPKLNDIEDVEKHMPGLLRATNEWFRIYKIPD---GKPENQFA
+FSGECKNKKYAEEVIQECREAWEKLIFGKTSPG-EIDLTNTTLQSTPSFSPSATSAVPTASPAAPAKIDQ
+SIDKWFYI*
+>P1;gi|124871|sp|P13998|IPYR_KLULA Inorganic pyrophosphatase (Pyroph... [ score 418 E 1e-116 ] [ range 2 .. 283 ]
+sequence
+SYTTRQVGAKNSLDYKVYIEKDGKPISAFHDIPLYADEANGIFNMVVEIPRWT-NAKLEITKEEPLNPII
+QDTKKGKLRFVRNCFPHHGYIHNYGAFPQTWEDPNESHPETKAVGDNDPLDVLEIGEQVAYTGQVKQVKV
+LGVMALLDEGETDWKVIAIDI--NDPLAPKLNDIEDVEKHLPGLLRATNEWFRIYKIPD---GKPENQFA
+FSGEAKNKKYTLDVIRECNEAWKKLISGKSADAKKIDLTNTTLSDTATYSAEAASAVPAANVLPDEPIDK
+SIDKWFFI*
+>P1;gi|45190621|ref|NP_984875.1| AER015Cp [Eremothecium gossypii] >g... [ score 418 E 1e-116 ] [ range 2 .. 283 ]
+sequence
+SYTTRQIGAKNTLDYRVFIEKAGKVVSPFHDIPLYADEENQIFNMVVEIPRWT-NAKLEITKEEAMNPII
+QDTKKGKLRYVRNCFPHHGYIHNYGAFPQTWEDPNVAHPETKAYGDNDPLDVLEIGETIAYTGQVKQVKV
+LGVMALLDEGETDWKIIVIDV--HDPLAPKLNDIEDVEKHLPGLLRATNEWFRIYKIPD---GKPENQFA
+FSGEAKNRKYALDVIRECHEAWCQLVAGKAADDKKVSLANSTLQESVAYAPEVAAAVPAANPLPDAPIDK
+SIDKWFFI*
+>P1;gi|13785197|emb|CAC37330.1| inorganic pyrophosphatase [Zygosacch... [ score 416 E 1e-115 ] [ range 2 .. 283 ]
+sequence
+TYTTRQIGAKNTLDYKLFIEKDGKPVSPFHDIPLYADEDKQIFNMVVEIPRWT-NAKLEITKEENLNPII
+QDTKKGKLRYVRNCFPHHGYIHNYGAFPQTWEDPNVVHPETKAVGDNDPVDVLEIGETIGYTGQVKQVKV
+LGIMALLDEGETDWKVIAIDV--NDPLAPKLHDIEDVEKYFPGQLRATNEWFRIYKIPD---GKPENQFA
+FSGEAKNKKYALDIIRETHESWKQLIHGQVSDSKGISLTNTTLTDTPTYSAAAASEVPSASPQPDAPVDK
+SVDKWFFI*
+>P1;gi|40744363|gb|EAA63539.1| conserved hypothetical protein [Asper... [ score 415 E 1e-115 ] [ range 2 .. 282 ]
+sequence
+SYTVRKIGQPYTLEHRVYIEKDGQPVSPFHDIPLYANAEKTVLNMIVEIPRWT-NAKQEISKEEFLNPIK
+QDTKKGKLRFVRNCFPHKGYLWNYGAFPQTWEDPNVVHPETKAKGDNDPLDVCEIGELVGYPGQVKQVKV
+LGVMALLDEEETDWKVIVIDV--NDPLAPKLNDIEDVERHLPGLLRATNEWFRIYKIPD---GKPENQFA
+FSGEAKNKKYAEEVIHECADAWEKLVSGKS-DRGDISLANSTLGNSDSVDSSKLASIPRGENLPPAPIDG
+TIDKWFFI*
+>P1;gi|32409301|ref|XP_325131.1| hypothetical protein [Neurospora cr... [ score 414 E 1e-114 ] [ range 185 .. 465 ]
+sequence
+-YSVRKVGAPYTLEHRVYIEKDGVPVSPFHDIPLYANAEQTILNMVVEIPRWT-NAKQEISKEELLNPIK
+QDTKKGKLRFVRNCFPHKGYLWNYGAFPQTWEDPNSIHPETKAKGDNDPLDVCEIGELVGYTGQVKQVKV
+LGVMALLDEEETDWKVIVIDV--NDPLAPKLNDVEDVERHLPGLIRATNEWFRIYKIPD---GKPENQFA
+FTGECKNKTYAMDVVRECNEAWERLITGKTAPGG-VSTTNVTVQHSSSRVAPDQPPLPPNENLPPAPIDS
+SIDKWFFI*
+>P1;gi|19114548|ref|NP_593636.1| inorganic pyrophosphatase (EC 3.6.1... [ score 409 E 1e-113 ] [ range 4 .. 284 ]
+sequence
+-YTTREVGALNTLDYQVYVEKNGTPISSWHDIPLYANAEKTILNMVVEIPRWT-QAKLEITKEATLNPIK
+QDTKKGKLRFVRNCFPHHGYIWNYGAFPQTYEDPNVVHPETKAKGDSDPLDVCEIGEARGYTGQVKQVKV
+LGVMALLDEGETDWKVIVIDV--NDPLAPKLNDIEDVERHMPGLIRATNEWFRIYKIPD---GKPENSFA
+FSGECKNRKYAEEVVRECNEAWERLITGKTDAKSDFSLVNVSVTGSVANDPSVSSTIPPAQELAPAPVDP
+SVHKWFYI*
+>P1;gi|38110188|gb|EAA55947.1| hypothetical protein MG01598.4 [Magna... [ score 405 E 1e-112 ] [ range 5 .. 285 ]
+sequence
+-FTVRKVAAPNTLEHRVYIEKDGVPVSPFHDIPLYANAEQTILNMVVEIPRWT-NAKLEISKDELLNPIK
+QDIKKGKLRYVRNCFPHKGYLWNYGAFPQTWEDPNAVHPETKAKGDNDPLDVCEIGELVGYTGQVKQVKV
+LGVMALLDEEETDWKVIVIDV--NDPLASKLNDVEDVERHLPGLLRATNEWFRIYKIPD---GKPENQFA
+FTGECKNKKYAMDVIRECAEAWEKLITGKTQPG-DVSTTNLSVSQSPSRVAAEQPPLPPHEELAPAKIDA
+SIDKWFFI*
+>P1;gi|42545885|gb|EAA68728.1| conserved hypothetical protein [Gibbe... [ score 398 E 1e-110 ] [ range 5 .. 285 ]
+sequence
+-YTVRKVAAPNTLEHRVYVEKDGQPVSPFHDIPLYANQEQTILNMVVEIPRWT-NAKLEISKEELLNPIK
+QDIKKGKLRYVRNCFPHKGYLWNYGAFPQTWEDPNTVHPETKAKGDNDPLDVCEIGELVGYPGQIKQVKV
+LGVMALLDEEETDWKVIVIDV--NDPLASKLNDVEDVERHLPGLLRATNEWFRIYKIPD---GKPENQFA
+FTGECKNKDYALDVVRECAEAWERLVTGKTPAGG-VSTTNVTVQHSPTRVSPDQPPLPAHEEVPAEKIDA
+SIDKWFFI*
+>P1;gi|38181963|gb|AAH61581.1| PP protein [Homo sapiens] [ score 393 E 1e-108 ] [ range 34 .. 315 ]
+sequence
+-FSTEERAAPFSLEYRVFLKNEGQYISPFHDIPIYADK--DVFHMVVEVPRWS-NAKMEIATKDPLNPIK
+QDVKKGKLRYVANLFPYKGYIWNYGAIPQTWEDPGHNDKHTGCCGDNDPIDVCEIGSKVCARGEIIGVKV
+LGILAMIDEGETDWKVIAINV--DDPDAANYNDINDVKRLKPGYLEATVDWFRRYKVPD---GKPENEFA
+FNAEFKDKDFAIDIIKSTHDHWKALVTKKT-NGKGISCMNTTLSESPFAARAIVDALPPPCESACT-VPT
+DVDKWFH-*
+>P1;gi|32450373|gb|AAH54303.1| PP protein [Xenopus laevis] [ score 391 E 1e-107 ] [ range 21 .. 304 ]
+sequence
+SYSVEQRAKANSLEYRLFFKNCGQYISPFHDIPMFADEAKAIFNMVVEVPRWT-NAKMEIATKDPLNPIK
+QDVKKGKLRYVANVFPHKGYIWNYGALPQTWENPTHIDENTGFGGDNDPIDVCDIGSKVCERGEVIKVKI
+LGTLALIDEGETDWKIIAINA--DDPEASLYNDIEDIRRLKPNYLESTVDWFRRYKVPD---GKPENQFA
+FDAEFKNKDFAINIIKSTHEHWKALVT-KKVEGGEINCVNVTVQDSPFFSKAEDKATPPC--GPPSPVSE
+DVDKWYY-*
+>P1;gi|41152260|ref|NP_957027.1| hypothetical protein MGC73156 [Dani... [ score 385 E 1e-106 ] [ range 2 .. 285 ]
+sequence
+SYSVEERGRENTPQYRVYFKNAGKYISPFHDIPIYANETENIFNAVVEVPRWT-NAKMEIATKDALNPLK
+QDVKKGNLRYVSNVFPHKGYIWNYGAIPQTWEDPGHRDGDTGCCGDNDPIDICDIGSEVCSRGQVIQVKV
+LGTLALIDEGETDWKVLVINT--EDPEAGQYNDIEDIRRLKPGYLEATLDWFRRYKVPD---GKPENQFG
+FSGEFQSRDFAIKTVQDTHSFWKALICKKT-DAGELSCMNTSMCDSPYYSTSQAEAIVHSTYGDPEPIPS
+SADKWFY-*
+>P1;gi|31205467|ref|XP_311684.1| ENSANGP00000025314 [Anopheles gambi... [ score 385 E 1e-106 ] [ range 47 .. 330 ]
+sequence
+-YQIAERGAPNSTDYRVYFKNNGQSISPLHDIPLYANDERTVYNMVVEVPRWT-NAKMEISLGEGLNPIK
+QDVKKGKLRFVANCFPHHGYIWNYGAFPQTWENPDHLDADTGCKGDNDPIDVLEIGSRIAKRGEVLQVKI
+LGTIALIDEGETDWKIITINV--NDPLADQVNDIGDVETVFPGLLRASVEWFKIYKIPD---GKPENQFA
+FNGDAKDAAFATKTVAETHRFWQQLVN-KEVDNNGISCLNTTVDGSPYANDAADEVFAKSATGGPEPVSE
+ALDKWHYI*
+>P1;gi|34852506|ref|XP_215416.2| similar to RIKEN cDNA 2010317E03 [R... [ score 382 E 1e-105 ] [ range 3 .. 285 ]
+sequence
+SFSSEERAAPFTLEYRVFIKNEGQYISPFHDVPIYADK--DVFHMVVEVPRWS-NAKMEIATKDPLNPIK
+QDVKKGKLRYVANLFPYKGYIWNYGAIPQTWEDPGHSDEHTGCCGDNDPIDVCEIGSKVCARGEIIRVKV
+LGILAMIDEGETDWKVIAINV--DDPDAANYHDISDVERLKPGYLEATVDWFRRYKVPD---GKPENEFA
+FNAEFKNKEFAVDIIKNTHDYWKALVTKKT-DGKGISCMNTTVSESPFAAKAIVDALPPPCESACA-LPM
+DVDKWFH-*
+>P1;gi|27754065|ref|NP_080714.2| pyrophosphatase [Mus musculus] >gi|... [ score 382 E 1e-105 ] [ range 4 .. 285 ]
+sequence
+-FSSEERAAPFTLEYRVFLKNEGQYISPFHDVPIYADK--DVFHMVVEVPRWS-NAKMEIATKDPLNPIK
+QDVKKGKLRYVANLFPYKGYIWNYGAIPQTWEDPGHSDKHTGCCGDNDPIDVCEIGSKVCARGEIIRVKV
+LGILAMIDEGETDWKVIAINV--DDPDAANYKDISDVERLKPGYLEATVDWFRRYKVPD---GKPENEFA
+FNAEFKNKDFAVDIIKSTHDYWKALVTKKT-DGKGISCMNTTVSESPFAAKAIVDALPPPCESACS-LPT
+DVDKWFH-*
+>P1;gi|22203753|ref|NP_666253.1| inorganic pyrophosphatase 2 [Mus mu... [ score 382 E 1e-105 ] [ range 30 .. 328 ]
+sequence
+-YRTEELGHPRSQDYRLFFKHAGHYISPFHDIPLKADEYENLFNMVVEIPRWT-NAKMEIATEEPLNPIK
+QDIKNGKLRYTPNIFPHKGYIWNYGALPQTWEDPHLRDKSTDCCGDNDPIDVCEIGSKVLSRGDVVHVKI
+LGTLALIDQSETDWKIIAINV--NDPEAEKFHDIDDVKKFKPGYLEATLNWFRLYKVPD---GKPENKFA
+FNGEFKNKAFALDVINSAHERWKEMVM-KKCDKGAISCVNVHICDSPFHARSLVESVPTPSMNKESNVEE
+EV--WHFL*
+>P1;gi|585322|sp|P37980|IPYR_BOVIN Inorganic pyrophosphatase (Pyroph... [ score 381 E 1e-104 ] [ range 3 .. 285 ]
+sequence
+SFSSEERAAPFTLEYRVFLKNEGQYISPFHDIPIYADKE--VFHMVVEVPRWS-NAKMEIATKDPLNPIK
+QDVKKGKLRYVANLFPYKGYIWNYGAIPQTWEDPGHNDKHTGCCGDNDPIDVCEIGSKVCARGEIIRVKV
+LGILAMIDEGETDWKVIAINV--EDPDAANYNDINDVKRLKPGYLEATVDWFRRYKVPD---GKPENEFA
+FNAEFKDKNFAIDIIESTHDYWRALVTKKT-DGKGISCMNTTVSESPFAAKAIVDALPPPCESACT-IPT
+DVDKWFH-*
+>P1;gi|26353394|dbj|BAC40327.1| unnamed protein product [Mus musculus] [ score 379 E 1e-104 ] [ range 5 .. 284 ]
+sequence
+---TARSGRPFTLEYRVFLKNEGQYISPFHDVPIYADK--DVFHMVVEVPRWS-NAKMEIATKDPLNPIK
+QDVKKGKLRYVANLFPYKGYIWNYGAIPQTWEDPGHSDKHTGCCGDNDPIDVCEIGSKVCARGEIIRVKV
+LGILAMIDEGETDWKVIAINV--DDPDAANYKDISDVERLKPGYLEATVDWFRRYKVPD---GKPENEFA
+FNAEFKNKDFAVDIIKSTHDYWKALVTKKT-DGKGISCMNTTVSESPFAAKAIVDALPPPCESACS-LPT
+DVDKWFH-*
+>P1;gi|44889057|sp|Q18680|IPYR_CAEEL Probable inorganic pyrophosphat... [ score 379 E 1e-104 ] [ range 126 .. 405 ]
+sequence
+-YEAVERGSLYSLDYRVYIKGPQGIVSPWHDIPLFANKDKRVYNMIVEIPRWT-NAKMEMATKEPFSPIK
+QDEKKGVARFVHNIFPHKGYIWNYGALPQTWEDPNHVVPDTGAKGDNDPIDVIEVGSKVAGRGAVLQVKV
+LGTLALIDEGETDWKLVAIDV--NDENADKLNDIDDVEKVYPGLLAASVEWFRNYKIPA---GKPANEFA
+FNGEFKNREYAEKVIDETNEYWKTLI--KEANPSLNTVSRVPEAVHQGTDEAAATAIATPEHGANAPLPG
+DVDKWHFV*
+>P1;gi|34860589|ref|XP_227690.2| similar to RIKEN cDNA 1110013G13 [R... [ score 378 E 1e-104 ] [ range 42 .. 340 ]
+sequence
+-YRTEELGHPRSKDYRLFFKHAGHYISPFHDIPLKADEEHGIFNMVVEIPRWT-NAKMEIATEEPLNPIK
+QDTKNGRLRYTPNIFPHKGYIWNYGALPQTWEDPHLKDKSTNCCGDNDPIDVCEIGSKVLSRGDVVHVKI
+LGTLALIDQSETDWKIIAINV--NDPEAEKFHDIDDVKKFKPGYLEATVNWFRLYKVPD---GKPENKFA
+FNGEFKNKAFALEVINSAHEHWKEMVM-KKCDKGAISCVNVHICDSPFHARSLVESIPTPSMSKESSVEE
+EV--WHFL*
+>P1;gi|5738218|gb|AAD50298.1| inorganic pyrophosphatase [Torpedo mar... [ score 377 E 1e-103 ] [ range 2 .. 284 ]
+sequence
+-YRVEERGRALSNSYRLFFRNDGQIVSPFHDIPLWASESQNVFNMVVEVPRWT-NAKMEIATKEPLNPIK
+QDIKKGNLRYVANIFPHKGYIWNYGALPQTWEDPNHTDELTGCAGDNDPIDVCEIGTKVCTRGEVIQVKV
+LGILAMIDEGETDWKIIAIDV--KDPEEDKFNDIEDVKDVKPGYLEATVDWFRRYKVPD---GKPENQFA
+FDCEFKDKDLAIDVIKCTHTFWKALIM-KTPPTGEIKCTNTTVKNSPTDAAALVGKLPGFEAGDSTPVD-
+-VDKWWY-*
+>P1;gi|29420791|dbj|BAC66617.1| inorganic pyrophosphatase [Ascaris s... [ score 374 E 1e-102 ] [ range 79 .. 358 ]
+sequence
+-YSVEEKGSLYTTDYRVFFKGPNGYISPWHDIPLFADEAKKVYNMIVEIPRWT-NAKMEMATKEPMSPIK
+QDIKKGAVRFVDNVFPHHGYIWNYGALPQTWEDPAHVDKETNTKGDNDPIDIVEIGSKIHKRGDVVQVKV
+VGTLALIDEGETDWKLVGIDV--SDRAAAEINSTEDVEKHFPGLLRATQEWFRVYKIPT---GKPANQFG
+FDGQYKDAEFAHKIIAETHEFWKKLIKEASPSNTESNVEGAAHPSSQEAWKKIVDSQPAIGKPHE--IPA
+TLDRWHFI*
+>P1;gi|6841470|gb|AAF29088.1| HSPC124 [Homo sapiens] [ score 363 E 2e-99 ] [ range 4 .. 316 ]
+sequence
+-YHTEERGQPCSQNYRLFFKNTGHYISPFHDIPLKVDEYENLFNMIVEIPRWT-NAKMEIATKEPMNPIK
+QYVKDGKLRYVANIFPYKGYIWNYGTLPQTWEDPHEKDKSTNCFGDNDPIDVCEIGSKILSCGEVIHVKI
+LGILALIDEGETDWKLIAINA--NDPEASKFHDIDDVKKFKPGYLEATLNWFRLYKVPD---GKPENQFA
+FNGEFKNKAFALEVIKSTHQCWKALLM-KNCNGGAINCTNVQISDSPFRARSLVESV-SSSPNKESNEEE
+QV--WHFL*
+>P1;gi|45445401|gb|AAF47227.2| CG4634-PA [Drosophila melanogaster] [ score 361 E 1e-98 ] [ range 52 .. 335 ]
+sequence
+-YETVEKGAKNSPSYSLYFKKCGNVISPMHDIPLYANEEKTIYNMVVEVPRWT-NAKMEISLKTPMNPIK
+QDIKKGKLRFVANCFPHKGYIWNYGALPQTWENPDHIEPSTGCKGDNDPIDVIEIGYRVAKRGDVLKVKV
+LGTIALIDEGETDWKIIAIDV--NDPLASKVNDIADVDQYFPGLLRATVEWFKIYKIPD---GKPENQFA
+FNGDAKNADFANTIIAETHKFWQNLVH-QSPASGSISTTNIT-------NRNSEHVIPKEEALAEAPVSD
+TVDTWHFI*
+>P1;gi|39585749|emb|CAE59951.1| Hypothetical protein CBG03439 [Caeno... [ score 358 E 8e-98 ] [ range 69 .. 348 ]
+sequence
+-YQAVERGSLYSLDYRVFIKGPQGIVSPWHDIPLFADKEKSVYNMIVEIPRWT-NAKMEMATKEPFSPIK
+QDEKKGVARFVHNIFPHKGYIWNYGALPQTWEDPNHVVPDTGAKGDNDPIDVIEIGSKVAGRGAVLQVKV
+LGTLALIDEGETDWKLVAIDV--NDENADKLNDINDVEKIYPGLLAASVEWFRNYKIPA---GKPANEFA
+FNGEFKNREYAEKVIAETNEFWKALMKEASPALNTVSRVPEAV-HQATDDSAAAAIAATPEHGPSVALPG
+DVDKWHFV*
+>P1;gi|45387739|ref|NP_991225.1| hypothetical protein zgc:77715 [Dan... [ score 335 E 9e-91 ] [ range 7 .. 250 ]
+sequence
+-----------------------------------------IFNMVVEVPRWS-NAKMEIATKEPLNPIR
+QDVKKGKLRYVANVFPHKGYIWNYGALPQTWEDPKHTDKETMCCGDNDPIDVCEIGSKVCVTGQVIQVKV
+LGILGLIDEGETDWKVIAINV--EDPDSSSLNSIEDVRKIKPGHLEATVDWFKKYKVPD---GKPENQFA
+FNGQFKDKDFAIEVIKSTHSYWKALVMRKKMKDDEIVCQNSSLCDSPSDEEASAVVETTAEYGEPLPVSP
+EVDKWHFL*
+>P1;gi|6323923|ref|NP_013994.1| Mitochondrial inorganic pyrophosphat... [ score 330 E 2e-89 ] [ range 34 .. 310 ]
+sequence
+-FSTIQQGSKYTLGFKKYLTLNGEVGSFFHDVPLDLNEHEKTVNMIVEVPRWT-TGKFEISKELRFNPIV
+QDTKNGKLRFVNNIFPYHGYIHNYGAIPQTWEDPTIEHKLGKCKGDNDPLDCCEIGSDVLEMGSIKKVKV
+LGSLALIDDGELDWKVIVIDV--NDPLSSKIDDLEKIEEYFPGILDTTREWFRKYKVPA---GKPLNSFA
+FHEQYQNSNKTIQTIKKCHNSWKNLISGSLQEK---------YDNLPNTERAGNGVTLEDSVKPPSQIPP
+EVQKWYYV*
+>P1;gi|32420753|ref|XP_330820.1| hypothetical protein ( related to I... [ score 328 E 1e-88 ] [ range 32 .. 333 ]
+sequence
+-YTLSKSGRPYTLSHKIYFDDDGKPISPFHDIPLFHSRSQQVYNMIVEIPRWS-QTKFEISRSLPLNPIV
+QDVRPNQPRFVPNLFPYKGYPWNYGCLPQTWESPHYKGPGPGARGDNDPIDACEIGTRVAYTGEVKQVKV
+LGVLGLVDAGEMDWKVLVVDV--RDKLAQKVDDIKDVERECPGLLEATRDWFTWYGVPE---GRKKNRFA
+LGGEWKGREYAVGVIKECEEMWKELVKGEVEGSEDVCLKNTTLDGTPGKVDPESVKLPPNEDLPPAEVEQ
+DLEEVAYV*
+>P1;gi|45190886|ref|NP_985140.1| AER283Wp [Eremothecium gossypii] >g... [ score 327 E 2e-88 ] [ range 33 .. 302 ]
+sequence
+-YSTVVRGAKYSQDYAQYVLPNGETGSYFHDIPLGLDLEHREVNMVVEVPRWS-NGKFEISRTEDFNPIK
+QDVKNGKPRFVNNIYPFKGYIHNYGAIPQTWENP-AAEGLPGLNGDNDPLDCCEIGSAVFGTGEVRRVKV
+LGSLALIDDGELDWKVIVIDC--EDPKSAELNTLDDVRRVFPRLLDDTITWFRNYKIPT---GKPANKFA
+FDSEYQPVEKTLGVIQECHSSWKDLIDGKVQYHK-----------LPNTTRAGKNVRMEEYKLPDAQIPP
+AVDIWYHV*
+>P1;gi|19074643|ref|NP_586149.1| INORGANIC PYROPHOSPHATASE [Encephal... [ score 314 E 2e-84 ] [ range 3 .. 276 ]
+sequence
+AYSTVRVGKKYSPSFKVYVTQDGKIVSPFHDIPLYMSGNREIVSVVNEIPRFE-NGKFEINKEEAFNPIK
+QDIKKGWPRFVKNVFPMKGYLWNYGALPQTWENPHEVDRHTGARGDNDPLDVIEIGRKRKEVGEVYQAKV
+LGSIALVDEGECDWKVVVIDV--NDEKAKEINDIEDVRKVYEGLLEQTIFWFKNYKVPD---GKPKNNFA
+LDGKYMDKKFTVGIIKSAYENWCGMINSKSD-------TNICKENSTLMDKVDSPAIIQED-LSDEEVPE
+CVHQFEFI*
+>P1;gi|40747338|gb|EAA66494.1| hypothetical protein AN0395.2 [Asperg... [ score 311 E 1e-83 ] [ range 35 .. 319 ]
+sequence
+--SLRTVGARNTLDWRIWLEHNKQPISFWHDVPLYPHPPRQIINFVVEIPRNT-DGKIEIRRSEPLNPIF
+HDERDGSPRYVESVWPHKSYPFLYGSIPQTWESPNFKHDFTKEPGDNDPVDLFDIGQDQGFTGQVKQVKI
+LGALALNDGGETDWKVLGIDV--RDPIAGLVDDFKDVEKYRPGLIASYRNWFTTYKVAR---GDSLIPIV
+-NNTYVNATFAASVVQQSHGYWLDLVSG-TVDSNEINYNQTSRPDIAVSFVSRSNATAHFDLPAERPAPE
+RFEQWFYL*
+>P1;gi|42544672|gb|EAA67515.1| hypothetical protein FG10414.1 [Gibbe... [ score 304 E 1e-81 ] [ range 33 .. 318 ]
+sequence
+SLTLREVGARNTPDWRVWLEKDGQPISFWHDVPLYPEKGNNIVSYVVEIPRWT-DGKIETRRDEPLNPIF
+HDDKKNKVRFVESVWPHKSYPFHYGSIPQTWESPNFDHDFTGYPGDNDPIDLFDISEVPAHVGQVKSVKV
+LGGLALNDGGETDWKVIGIDT--KDPLAQLVESVEDLEKYRPGLAKTFYNWFTYYKVPR---GDDVLEIV
+-GGDYQNAKFMAKTIKSSHGDWQDLVRGK-VDSNEINYNQTSSKSYKSYVKSKD-----ATKKFGLPVEP
+KIDLWYYL*
+>P1;gi|14571671|emb|CAC42762.1| inorganic pyrophosphatase precursor ... [ score 302 E 8e-81 ] [ range 45 .. 279 ]
+sequence
+AYSVEEKGPKDSLEYRMFFKQGAKEVSCWHEIPLYAGDGH--LHYICEIPKET-SAKMEVATDEPRTPIK
+QDVKKGKLRF----YPYN-INWNYGMLPQTWEDPGHTDATLGAAGDNDPVDVVEIGAAAAKRGGVYKVKP
+VGVLAMIDDGELDWKVIAISA--DDPKAALCNDVEDVEKHFPGEIQKVLEWFRDYKIPD---GKPANKFG
+YDNKCMNKEFTLNVIKETHEAYVKLKSGARANSEELSL--------------------------------
+--------*
+>P1;gi|19114240|ref|NP_593328.1| inorganic pyrophosphatase [Schizosa... [ score 300 E 3e-80 ] [ range 11 .. 280 ]
+sequence
+-FRSKITGKLNTPDFRVYCYKNNKPISFFHDVPLTSDK--DTFNMVTEIPRWT-QAKCEISLTSPFHPIK
+QDLKNGKLRYVANSFPYHGFIWNYGALPQTWEDPNVIDSRTKMKGDGDPLDVCEIGGSIGYIGQIKQVKV
+LGALGLIDQGETDWKILAIDI--NDPRAKLLNDISDVQNLMPRLLPCTRDWFAIYKIPD---GKPKNRFF
+FDGNYLPKSDALDIIAQCHQHWKDLINKINSLKEEVSQNVSNYPSFPYF---------------------
+--------*
+>P1;gi|15242465|ref|NP_196527.1| inorganic pyrophosphatase family pr... [ score 289 E 4e-77 ] [ range 67 .. 299 ]
+sequence
+---VQEEGPAESLDYRVFFDGSGKKVSPWHDIPLTLG--DGVFNFIVEIPKES-KAKMEVATDEDFTPIK
+QDTKKGKLRY----YPYN-INWNYGLLPQTWEDPSHANSEVGCFGDNDPVDVVEIGETQRKIGDILKIKP
+LAALAMIDEGELDWKIVAISL--DDPKAHLVNDVEDVEKHFPGTLTAIRDWFRDYKIPD---GKPANRFG
+LGDKPANKDYALKIIQETNESWAKLVK-RSVDAGDLSL--------------------------------
+--------*
+>P1;gi|32329340|gb|AAP74702.1| acidocalcisomal pyrophosphatase [Tryp... [ score 273 E 2e-72 ] [ range 170 .. 407 ]
+sequence
+---VHEKGEMYTPSYRVYFFRDERQVSPWHDIPLYVRDPMNRYNFICEIPKWT-RAKFEIATGESFNPIK
+QDIKNGVPRF----YKHGDMMWNYGAFPQTWESTEVLF-EAGVTGDNDPVDAVEIGMTQFKVGQVSAVKV
+LGVLGMIDEGKMDWKVVCISH--NDPICRFMKDIHDVPKFLPGCLDAIREWFRVYKICQ---GGEASHFA
+FDGEFKDKEYAMKVIDESHNMWHNLLK-------------------------------------------
+--------*
+>P1;gi|32329336|gb|AAP74700.1| acidocalcisomal pyrophosphatase [Leis... [ score 270 E 2e-71 ] [ range 200 .. 439 ]
+sequence
+----KEEGEIFTPSYRVYFKDTGRRVSPWHDIPLYVRDPANRYNFICEIPKWT-RAKFEIATDEPFNPIK
+QDIKNGVPRF----YKHGDMMWNYGAFPQTWESTEVIF-EDGVSGDNDPIDGVEIGMRQMRVGEVHPVRI
+LGVLGMIDDGQMDWKVICMSV--NDPVARFIKDIDDIPKFLPGCLDALREWFRVYKICQ---GGVENKFA
+FNGEYKDKTYAMKVVDESHYMWENLRKIKK----------------------------------------
+--------*
+>P1;gi|32189785|ref|NP_859515.1| inorganic pyrophosphatase [Leishman... [ score 263 E 4e-69 ] [ range 23 .. 259 ]
+sequence
+-YNTTEEGPAGSKAWRMFYKATDTIVSAWHGLPLYAGASADVLTCVTEIPKGT-RAKLELSKEEPYNPIK
+QDIFKSKEGHPLRYFSYGDMPFNYGFLPRTWEDPVHIDPNTKCSGDGDPVDVVHIG-TPHRVGTYGPVRI
+LGVLGLIDEGETDWKIIVESV--SATAGEGYGTLSKVPQELQAT---IIDWFENYKVPD---GKKRNEFA
+FNKAIKDAETALSIVAQCASQYNALMEGKCANPG------------------------------------
+--------*
+>P1;gi|41053143|dbj|BAD08086.1| inorganic pyrophosphatase [Oryza sat... [ score 243 E 3e-63 ] [ range 16 .. 208 ]
+sequence
+--------PPAALNERILSSMSQKHVHPWHDLEIGPGAPA-VFNCVVEIPRGS-KVKYEL----------
+-DKATGLIKVDRVLYSSVVYPHNYGFIPRTLCE------------DGDPMDVLVLMQEQVVPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEYRHFRDIKEIP---PHRLQEIRRFFEDYK-------KNENKEV
+AVNEFLPAEDAINAIKYSMDLYGAYI--------------------------------------------
+--------*
+>P1;gi|38345829|emb|CAD41934.2| OSJNBa0070M12.12 [Oryza sativa (japo... [ score 240 E 2e-62 ] [ range 19 .. 207 ]
+sequence
+------------LNERILSSLSRRSVHPWHDLEIGPGAPA-VFNVVVEITKGS-KVKYEL----------
+-DKKTGLIKVDRVLYSSVVYPHNYGFIPRTLCE------------DNDPMDVLVLMQEPVIPGSFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEYRHYNDISELS---PHRLQEIKRFFEDYK-------KNENKEV
+AVDAFLPANTARDAIQYSMDLYAQYI--------------------------------------------
+--------*
+>P1;gi|4033424|sp|O48556|IPYR_MAIZE Soluble inorganic pyrophosphatas... [ score 240 E 3e-62 ] [ range 20 .. 208 ]
+sequence
+------------LNERILSSLSRRSVHPWHDLEIGPDAPA-VFNVVVEITKGS-KVKYEL----------
+-DKKTGLIKVDRVLYSSVVYPHNYGFVPRTLCE------------DNDPMDVLVLMQEPVVPGSFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEYRHYNDISELS---PHRLQEIKRFFEDYK-------KNENKEV
+AVDAFLPATTAREAIQYSMDLYAQYI--------------------------------------------
+--------*
+>P1;gi|40642617|emb|CAC83001.1| soluble pyrophosphatase [Beta vulgaris] [ score 240 E 4e-62 ] [ range 28 .. 216 ]
+sequence
+------------LNQRIISSMSRRSVHPWHDLEIGPNAPE-ICNCVVEIPKGS-KVKYEL----------
+-DKKTGLIMVDRILYSSVVYPHNYGFIPRTLCE------------DGDPMDVLVLMQEPVVPGRFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDP---EVRHYTDINQLPPHRLAEIRRFFEDYK-------KNENKEV
+AVNEFLPAQIAHDAIQHSMDLYAEYI--------------------------------------------
+--------*
+>P1;gi|26451240|dbj|BAC42722.1| putative inorganic pyrophosphatase [... [ score 239 E 4e-62 ] [ range 22 .. 210 ]
+sequence
+------------LNERILSTLSRRSVHPWHDLEIGP-EAPLVFNVVVEITKGS-KVKYEL----------
+-DKKTGLIKVDRILYSSVVYPHNYGFIPRTLCE------------DNDPLDVLVLMQEPVLPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDP---EYKHFTDIKQLAPHRLQEIRRFFENYKKNE---NKKV----
+AVNDFLPSESAHEAIQYSMDLYAEYI--------------------------------------------
+--------*
+>P1;gi|5669924|gb|AAD46520.1| soluble inorganic pyrophosphatase [Pop... [ score 238 E 1e-61 ] [ range 12 .. 209 ]
+sequence
+---VETKHQAPRLNERILSSLSRRTVHPWHDLEIGPGAPH-IFNVVVEITKGS-KVKYEL----------
+-DKKTGLIKVDRILYSSVVYPHNYGFIPRTLCE------------DNDPLDVLVLMQEPVLPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDP---EYKHYTDIKELAPHRLSEIRRFFEDYK-------KNENKEV
+AVNDFLPSNTAVEAIQYSMDLYAEYI--------------------------------------------
+--------*
+>P1;gi|2500047|sp|Q43187|IPYR_SOLTU Soluble inorganic pyrophosphatas... [ score 231 E 8e-60 ] [ range 17 .. 205 ]
+sequence
+------------LNERILSSISRRSVHPWHDLEIGP-EAPSVFNVVIEISKGS-KVKYEL----------
+-DKKTGLIKVDRILYSSVVYPQNYGFIPRTLCE------------DNDPMDVLVLMQEPVLPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEYRHYTDIK---QLPPHRLAEIRRFFEDYK-------KNENKDV
+AVDDFLPPNSAVNAIQYSMDLYAEYI--------------------------------------------
+--------*
+>P1;gi|15231849|ref|NP_190930.1| inorganic pyrophosphatase, putative... [ score 231 E 2e-59 ] [ range 21 .. 210 ]
+sequence
+-----------TLNERILSSMSHRSVHPWHDLEIGP-EAPIIFNCVVEIGKGS-KVKYEL----------
+-DKTTGLIKVDRILYSSVVYPHNYGFIPRTLCE------------DSDPIDVLVIMQEPVIPGCFLRAKA
+IGLMPMIDQGEKDDKIIAVCA--DDPEYRHYNDISELP---PHRMAEIRRFFEDYK-------KNENKEV
+AVNDFLPATAAYDAVQHSMDLYADYV--------------------------------------------
+--------*
+>P1;gi|21595532|gb|AAM66110.1| putative inorganic pyrophosphatase [A... [ score 231 E 2e-59 ] [ range 23 .. 213 ]
+sequence
+-----------TLNERNFFTHRSSAAHPWHDLEIGP-EAPTVFNCVVEISKGG-KVKYEL----------
+-DKNSGLIKVDRVLYSSIVYPHNYGFIPRTICE------------DSDPMDVLVLMQEPVLTGSFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEFRHYRDIKELP---PHRLAEIRRFFEDYKKNE---NKKVD---
+-VEAFLPAQAAIDAIKDSMDLYAAYIK-------------------------------------------
+--------*
+>P1;gi|15234191|ref|NP_192057.1| inorganic pyrophosphatase, putative... [ score 229 E 4e-59 ] [ range 22 .. 210 ]
+sequence
+------------LNERILSSLSKRSVHPWHDLEIGPGAP-VIFNVVIEISKGS-KVKYEL----------
+-DKKTGLIKVDRILYSSVVYPHNYGFVPRTLCE------------DNDPIDVLVIMQEPVLPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCV--DDP---EYKHITNINELPPHRLSEIRRFFEDYK-------KNENKEV
+AVNDFLQPGPAIEAIQYSMDLYAEYI--------------------------------------------
+--------*
+>P1;gi|25290346|pir||C86141 protein T25K16.5 [imported] - Arabidopsi... [ score 229 E 6e-59 ] [ range 18 .. 224 ]
+sequence
+------------LNERILSSLSRRSVHPWHDLEIGPGAP-QIFNVVVEITKGS-KVKYEL----------
+-DKKTGLIKVDRILYSSVVYPHNYGFVPRTLCE------------DNDPIDVLVIMQEPVLPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCV--DDPEYKHYTDIKELP---PHRLSEIRRFFEDCILTN---KKNENKEV
+AVNDFLPSESAVEAIQYSMDLYAEYI--------------------------------------------
+--------*
+>P1;gi|81645|pir||S13379 inorganic diphosphatase (EC 3.6.1.1) - Arab... [ score 229 E 7e-59 ] [ range 23 .. 220 ]
+sequence
+-----------TLNERNFFTHRSAAAHPWHDLEIGP-EAPTVFNCAVEISKGG-KVKYEL----------
+-DKNSGLIKVDRVLYSSIVYPHNYGFIPRTICE------------DSDPMDVLVLMQEPVLTGSFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEFRHYRDIKELP---PHRLAEIRRFFEDYKKNE---NKKVD---
+-VEAFLPAQAAIDAIKDSMDLY-ELTSKLACNANE-----------------------------------
+--------*
+>P1;gi|6752884|gb|AAF27918.1| soluble inorganic pyrophosphatase [Mal... [ score 226 E 5e-58 ] [ range 34 .. 222 ]
+sequence
+------------LNERILSSMTRRSIHPWHDLEIGPGAPK-IFNCVIEIPKGS-KVKYEL----------
+-DKKTGLIKGDRILDSSVVYPHNYGFIPRTLCE------------DNDPLGCLDIMQEPVVPGCFLRAKA
+IGLMPMIDQGEKDDQIIAVCA--DDPEYRHYNDIKELP---PHRLAEIRRFFEDYK-------KNENKEV
+AVDDFLPASTAFDAIQHSMNLYADYI--------------------------------------------
+--------*
+>P1;gi|34908590|ref|NP_915642.1| P0505D12.23 [Oryza sativa (japonica... [ score 223 E 4e-57 ] [ range 19 .. 202 ]
+sequence
+------------LNERILSSLSRRSVHPWHDLDTGADAPA-VFNVVVEISKGS-KVKYEL----------
+-DKKTGFIMVDRVLYSSVVYPHNYGFIPRTLCE------------DNDPMDVLVLMQEPVIPGCFLRARA
+IGLMPMIDQGEKDDKIIAVCV--DDPEYRHYNDLSELS---PHRVQEIRRFFEDYK-------KNENKEV
+AVNEVLPVTAARDAIQYSISA-------------------------------------------------
+--------*
+>P1;gi|7436031|pir||T07399 probable inorganic diphosphatase (EC 3.6.... [ score 220 E 3e-56 ] [ range 22 .. 211 ]
+sequence
+------------LNERILSSMTRRSVHPWHDLEIEPDAP-QIFNVVIEISKGS-KVKYEL----------
+-DKKTGLIKVDRVLYSSVVYPHNYGFIPRTLCE------------DSDPLDVLVIMQEPITSGDFLRAKA
+IGVMPMIDQGEKDEKIIAVCA--DDP---EYKDYADINELPPHRLAEIRRFFEDYK-------KNENKEV
+AVNDFLPSDKAFEAVQHSQDLYADYI--------------------------------------------
+--------*
+>P1;gi|4033417|sp|O23979|IPYR_HORVD Soluble inorganic pyrophosphatas... [ score 219 E 6e-56 ] [ range 23 .. 209 ]
+sequence
+------------LNERILSSLSGGGAHPWHDLEIGPGAPA-VFNVVVEITKGS-KVKYEL----------
+-DKKTGLIKVDRVLYSSVVYPHNYGFIPRTLCE------------DNDPMDVLVLMQEPVIPGSFLRARA
+IGLMPMIDQGEKDDKIIAVCA--DDPEYRHYS--TSVSLLP--RLQEIKR-LEDYK-------KNENKEV
+AVDAFLPATTAREAIQYSMDLYAQYI--------------------------------------------
+--------*
+>P1;gi|14571673|emb|CAC42763.1| soluble inorganic pyrophosphatase [C... [ score 214 E 2e-54 ] [ range 6 .. 186 ]
+sequence
+----------------------GTASHPWHDLHPGNDAP-NFVSCVIEIPRGS-KVKYELDKD-------
+----TGLCFVDRILYSSVVYPHNYGFVPKTLCE------------DGDPLDVLVLMQEPVVPMCFLRAKP
+IGVMQMLDQGERDDKLIAVHA--DDP---EYKGFTDISQLPPHRLAEIKRFFEDYKKNE---HKEV----
+VVDDFLGAEEAKKVVKDSLNMYQEHYVPRK----------------------------------------
+--------*
+>P1;gi|42522167|ref|NP_967547.1| unnamed protein product [Bdellovibr... [ score 213 E 4e-54 ] [ range 1 .. 173 ]
+sequence
+-------------------------MNPWHDLSPG-EKAPEVVTALIEIPAGS-KTKFEL----------
+-DKVSGLLKVDRVLYSSVHYPANYGFIPRTYC------------GDHDPLDILVLGQAQVYPLSIMRARP
+VGCMRMLDQGEMDDKVIAVHE--DDPEMAHIHSIKDL---APHQLKEIRNFFEIYKGLE---NKKVEVEG
+F----HDLPETLKIIKEAFDLYKQE---------------------------------------------
+--------*
+>P1;gi|4033421|sp|O22537|IPYR_ORYSA Soluble inorganic pyrophosphatas... [ score 209 E 8e-53 ] [ range 16 .. 204 ]
+sequence
+--------PPAALNERILSSMSQKHVHPWHDLEIGPGAPA-VFNCVVEIPRGS-KVKCEL----------
+-DKATGLIKVDRVLYSSVVYPHNYGFIPRTLCE------------DGDPMDVLVLMQEQVVPGCFLRARA
+IGLMPMIDQGEKDDKIIAV-------RADDLNTATSSRKSPFTAFKRSAVFFEDYK-------KNENKEV
+AVNEFFPAEDAINAIKYSMDFY------------------------------------------------
+--------*
+>P1;gi|23135798|ref|ZP_00117533.1| COG0221: Inorganic pyrophosphatas... [ score 208 E 1e-52 ] [ range 1 .. 170 ]
+sequence
+-------------------------MNPWHDVS-FGDESPSIVQCIIEIPSGS-KAKYELDKES------
+-----GLLRLDRVLFSSVHYPANYGFIPRTYCD------------DKDPLDVLVISQVEVVPFCIVNAKV
+IGVMRMLDGGEKDDKIIAVAA--DDISVKHYNDISDLP---PHTILEVQRFFEDYKKLE---NKKV----
+VVEDFLGREEALRIVNESIELY------------------------------------------------
+--------*
+>P1;gi|23478151|gb|EAA15315.1| inorganic pyrophosphatase, putative [... [ score 206 E 5e-52 ] [ range 5 .. 250 ]
+sequence
+-YMLKYNNQLNQTDFNIYFQNNDKYISPWHDIDLMN--SDGTYNMIVEIPKYN-YIKLEIKLTEKYNVIK
+QDTKKGKLRYY-----HNSIYWNYGALPRTYEYPKHIDQQIFFTGDDDPLDVIDIGSNSLKMGQIAPVKI
+LGAFTLIDEGQLDWKIIAINK--YDENYSNINNLEDIEKYYPHTLNLMIEWFRSYKMAD---SKKLN--I
+ISKKLYNKKDSENLIKKVHDYYLEFLKDIKQFSLSSSCEST-----------------------------
+--------*
+>P1;gi|43332438|gb|EAD31732.1| unknown [environmental sequence] [ score 203 E 2e-51 ] [ range 4 .. 168 ]
+sequence
+----------------------------------------------------------------------
+---KKGKLR----DYPYN-INWNYGMLPQTWEDPKHVHPTMDVKGDNDPVDVVEIGSTQLEMGSVTSVKP
+LGVYAMIDEGELDWKVICIST--SDPKASQINDVADVEKHMPGELEKIRVWFRDYKTPD---GKPQNMFG
+LDDRCMPSAYAKDVIEETHEFYNALKSGKRSNDEELSL--------------------------------
+--------*
+>P1;gi|16805247|ref|NP_473275.1| inorganic pyrophosphatase, putative... [ score 200 E 4e-50 ] [ range 107 .. 310 ]
+sequence
+------------------------PISPWHHIDLKND--DGTYNMIVEITKYN-YIKLEIQLREKFNVIK
+QDKKKGKLRYY-----HNSIYWNYGALPQTYEYPKHIYQNKSFTGDNDPLDILDIGSACLKIGQVVPVKI
+LGAFTLIDEGELDWKIIAINK--EDKHYEDINSLSDIEKYYPHTLSLLLEWFRSYKMAD---TKKLN--L
+ISKQLYDKKESEDLIMKTHHYYLEF---------------------------------------------
+--------*
+>P1;gi|24216739|ref|NP_714220.1| Soluble inorganic pyrophosphatase [... [ score 198 E 9e-50 ] [ range 2 .. 178 ]
+sequence
+-------------------------VHPWHDISPG-DQNPEIVNGVIEIKRGS-RAKYEVDKEY------
+-----GILKLDRVLYSSFYYPANYGFIPQSYC------------GDQDPLDILVLSQVELEPLCLVKAKV
+IGVMRMLDSGEEDDKIIAVAA--NDM---SVNHINDISELPPHFTLELKHFFEDYKKLE---NKTV----
+VIEEFQNAILARKIVLDSLELYKKTFPKK-----------------------------------------
+--------*
+>P1;gi|22972567|ref|ZP_00019438.1| hypothetical protein [Chloroflexu... [ score 196 E 4e-49 ] [ range 9 .. 183 ]
+sequence
+----------------------------WHDLEPGPDVP-NVIHVVVEIPKGS-RNKYEF----------
+-DKRIGAFRLDRVLYSAVQYPGDYGFMPQTYYD------------DGDPLDVLVMTNLPTFPGCIVEARP
+LGLFRMLDKGEPDDKVLAVLQ--YDPFFADYHNYTALPAHY---LREVEHFFTVYKDLE---GSRVEPVG
+W----ESADVARERIQYSIDRYWDMRAGRV----------------------------------------
+--------*
+>P1;gi|20094886|ref|NP_614733.1| Inorganic pyrophosphatase [Methanop... [ score 194 E 2e-48 ] [ range 2 .. 175 ]
+sequence
+-------------------------MNLWKDLEPGPNPPD-VVYAVIEIPRGS-RNKYEY----------
+-DEERGFFKLDRVLYSPFHYPLDYGFIPRTLYD------------DGDPLDILVIMQDPTFPGCVIEARP
+IGLMKMLDDSDQDDKVLAVPT--EDPRFKDVKDLDDVPKH---LLDEIAHMFSEYKRLE---GKETEVLG
+WEGADAAKEHAIELYEEEH---------------------------------------------------
+--------*
+>P1;gi|42543708|pdb|1UDE|A Chain A, Crystal Structure Of The Inorgan... [ score 194 E 2e-48 ] [ range 16 .. 194 ]
+sequence
+-----------------------HMMNPFHDLEPGPNVPE-VVYALIEIPKGS-RNKYELDKE-------
+----TGLLKLDRVLYTPFHYPVDYGIIPRTWYE------------DGDPFDIMVIMREPTYPLTIIEARP
+IGLFKMIDSGDKDYKVLAVPV--EDPYFKDWKDISDVPKAF---LDEIAHFFKRYKELE---GKEIIVEG
+WEG----AEAAKREILRAIEMYKEKFGKK-----------------------------------------
+--------*
+>P1;gi|21227543|ref|NP_633465.1| Inorganic pyrophosphatase [Methanos... [ score 193 E 3e-48 ] [ range 14 .. 171 ]
+sequence
+--------------------------------------ERQVECVLIEIPQGS-RNKYEYDKERKV----
+-------IRFDRMLFSSIVYPCDYGFFPDTL------------ALDGDPLDAMVLMWEPTFPGCVIDVHP
+VAMLDMEDDKGRDEKILCVPQ--RDPL---WNYIKTIEQVPPHLLKEITHFFETYKNLE---RKDVVVYG
+W----RDLETARKVIQEAKDRY------------------------------------------------
+--------*
+>P1;gi|44349489|gb|EAI64339.1| unknown [environmental sequence] [ score 193 E 3e-48 ] [ range 17 .. 195 ]
+sequence
+-----------------------------HILNAFTDSSNTIINTIVELNSNT-INKYELITE-------
+----TGHLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDVEIVGTEPLIPGSIVEARI
+IGVMKFDDGGEVDDKVIAVLA--DDKRMDHISSYEDLGDHW---LKETKYYWEHYK--D---LKKPGTCT
+VNGFF-GIEEAVKVIKDCEERYKKEIDPKLVN--------------------------------------
+--------*
+>P1;gi|15678291|ref|NP_275406.1| inorganic pyrophosphatase [Methanot... [ score 192 E 8e-48 ] [ range 1 .. 175 ]
+sequence
+-------------------------MNLWKDIEPGPSVPE-VVYAVVEIPKGS-RNKYEYHKDLQ-----
+------AFALDRVLYSAVFYPAEYGIIPRTLYD------------DGDPMDILVLMDEPTFPGCIIESRP
+IGLLRMIDGGDQDDKILAVPV--ADPHFADVKDISDIPEHN---LKEIANFFETYKKLE---GKKTETLG
+WEG----AEKAFEAVNHSIELYRKKYM-------------------------------------------
+--------*
+>P1;gi|44493457|gb|EAJ65086.1| unknown [environmental sequence] [ score 191 E 1e-47 ] [ range 17 .. 195 ]
+sequence
+-----------------------------HVLPAFADEAELRLNTIVELNSNT-INKYELITE-------
+----TGHLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDIEIVGTEPLIPGSIVEARI
+IGVMTFDDGGEVDDKVIAVLA--DDKRMDHIKSWEDLGEHWK---KETTYYWEHYK--D---LKKPGTCS
+VNGFFGTEK-AVEIIKSCEARYMAEIDPKLVD--------------------------------------
+--------*
+>P1;gi|43360106|gb|EAD44922.1| unknown [environmental sequence] [ score 191 E 1e-47 ] [ range 17 .. 195 ]
+sequence
+-----------------------------HILNAFTDSTNRVINTIVELNSNT-INKYELITE-------
+----TGHLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDVEIVSTEPLIPGSIVEARI
+IGVMKFDDGGEVDDKVIAVLA--DDKRMDHISSYEDLGEHW---LKETKYYWEHYK--D---LKKPGTCT
+VNGFF-GIEEAVKVIKDCEDRYKKEIDPKLVN--------------------------------------
+--------*
+>P1;gi|33863543|ref|NP_895103.1| putative inorganic pyrophosphatase ... [ score 191 E 2e-47 ] [ range 17 .. 195 ]
+sequence
+-----------------------------HVLPAFADESELRLNTIVELNSNT-INKYELITE-------
+----TGHLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDIEIVSTEPLVPGSIVEARI
+IGIMTFDDGGEVDDKVIAVLA--DDKRMD---HITSFEQLGEQWLKETQYYWEHYK--D---LKKPGTCR
+VNG-FLGVQKAVEIIKACEARYLAEIDPKLVD--------------------------------------
+--------*
+>P1;gi|22299426|ref|NP_682673.1| soluble inorganic pyrophosphatase [... [ score 190 E 2e-47 ] [ range 7 .. 181 ]
+sequence
+----------------------GHPAMSIDLSRIPAQPKPGVVNVLVEIAGGS-RNKYEFDKEMKV----
+-------FALDRVLYSAVVYPYDYGFIPNTLAD------------DGDPLDGLVMMDEPTFPGCVIPARP
+IGMLEMIDSGDRDEKILCVPV--DDPRYAEVKSLKDI---APHRLEEIAEFFRTYKNLQ---KKVTEILG
+W----QDVDAVQPLVEKCIKAYK-----------------------------------------------
+--------*
+>P1;gi|2500045|sp|P77992|IPYR_THELI Inorganic pyrophosphatase (Pyrop... [ score 190 E 3e-47 ] [ range 1 .. 176 ]
+sequence
+-------------------------MNPFHDLEPGPEVPE-VVYALIEIPKGS-RNKYEL----------
+-DKKTGLIKLDRVLYSPFHYPVDYGIIPQTWYD------------DDDPFDIMVIMREPTYPGVLIEARP
+IGLFKMIDSGDKDYKVLAVPV--EDPYFNDWKDISDVPKAF---LDEIAHFFQRYKELQ---GKEIIVEG
+WENAEKAKQEILRAIELYKEKFKK----------------------------------------------
+--------*
+>P1;gi|16331023|ref|NP_441751.1| inorganic pyrophosphatase [Synechoc... [ score 189 E 6e-47 ] [ range 70 .. 233 ]
+sequence
+---------------------------------IPAQPKAGLINVLIEIPAGS-KNKYEFDKD-------
+----MNCFALDRVLYSSVQYPYDYGFIPNTLAD------------DGDPLDGMVIMDQPTFPGCVITARP
+IGMLEMIDGGDRDEKILCVPA--KDPRYTYVKSINDLAGH---RLDEIAEFFRSYKNLE---KKVTEILG
+W----KDVDAVLPLVEECVKNYK-----------------------------------------------
+--------*
+>P1;gi|33866320|ref|NP_897879.1| putative inorganic pyrophosphatase ... [ score 189 E 7e-47 ] [ range 17 .. 195 ]
+sequence
+-----------------------------HVLPAFADEAELRLNTIVELNSNT-INKYELITE-------
+----TGHLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDIEIVNTEPLVPGSIVEARI
+IGVMTFDDGGEVDDKVIAVLA--DDKRMDHIKSFEDLGEHWK---KETTYYWEHYK--D---LKKPGTCS
+VNGFFGTEK-AVEIIKGCEARYMAEIDPKLVD--------------------------------------
+--------*
+>P1;gi|18976629|ref|NP_577986.1| inorganic pyrophosphatase (pyrophos... [ score 188 E 8e-47 ] [ range 1 .. 177 ]
+sequence
+-------------------------MNPFHDLEPGPDVPE-VVYAIIEIPKGS-RNKYEL----------
+-DKKTGLLKLDRVLYSPFFYPVDYGIIPRTWYE------------DDDPFDIMVIMREPVYPLTIIEARP
+IGLFKMIDSGDKDYKVLAVPV--EDPYFKDWKDIDDVPKAF---LDEIAHFFKRYKELQ---GKEIIVEG
+WEG----AEAAKREILRAIEMYKEKFGKK-----------------------------------------
+--------*
+>P1;gi|14521882|ref|NP_127358.1| thermostable inorganic pyrophosphat... [ score 188 E 1e-46 ] [ range 1 .. 177 ]
+sequence
+-------------------------MNPFHDLEPGPNVPE-VVYALIEIPKGS-RNKYEL----------
+-DKKTGLLKLDRVLYSPFFYPVDYGIIPRTWYD------------DDDPFDIMVIMREPTYPLTIIEARP
+IGLFKMIDSGDKDYKVLAVPV--EDPYFKDWKDIDDVPKAF---LDEIAHFFKRYKELQ---GKEIIVEG
+WEG----AEAAKREILRAIELYKEKFGSK-----------------------------------------
+--------*
+>P1;gi|15614167|ref|NP_242470.1| inorganic pyrophosphatase [Bacillus... [ score 187 E 2e-46 ] [ range 4 .. 162 ]
+sequence
+--------------------------------------EPKVIEAFIEIPTGS-QNKYEYDKE-------
+----RGVFKLDRVLFSPMFYPAEYGYIENTL------------ALDGDPLDVLVIVSNPTFPGCVIDAKV
+LGFLNMIDGGEEDQKLIAVPT--EDPRFKDVNSLNDLPKHK---LDEIAHFFKTYKDLE---GKKTE---
+-VGAYEDAEAAAKLIDECFARYK-----------------------------------------------
+--------*
+>P1;gi|20091497|ref|NP_617572.1| inorganic pyrophosphatase [Methanos... [ score 186 E 4e-46 ] [ range 6 .. 165 ]
+sequence
+--------------------------------------ERQVESVLIEIPKGS-RNKYEYDKEKKV----
+-------IKFDRMLFSSMVYPCDYGFFPDTL------------ALDGDPLDALVLTWEPTFPGCVIDVHP
+VALLDMKDDKGRDEKILCVPE--TDPL---WNYIETLEQVPPHLLKEIVHFFETYKNLE---GKHVIVIG
+WEG----LDAAVDMLREAKSRYLE----------------------------------------------
+--------*
+>P1;gi|33861051|ref|NP_892612.1| putative inorganic pyrophosphatase ... [ score 186 E 6e-46 ] [ range 17 .. 195 ]
+sequence
+-----------------------------HILDAFTDNTKSIVNTIVELNSNT-INKYELITE-------
+----TGHLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDIEIVGTEPLVPGSIVESRI
+IGVMKFDDGGEVDDKVIAVLS--DDKRMDHIHTFEDLGEHW---LNETKYYWEHYK--D---LKKPGTCT
+VNG-FYGIEEAVKVIQDCESRYQKEIEPKLVD--------------------------------------
+--------*
+>P1;gi|16081524|ref|NP_393878.1| inorganic pyrophosphatase [Thermopl... [ score 185 E 7e-46 ] [ range 3 .. 179 ]
+sequence
+--------------------------SFYHSVPVGPKPPEEVY-VIVEIPRGS-RVKYEIAKDFP-----
+-----GML-VDRVLYSSVVYPVDYGLIPRTLYY------------DGDPMDVMVLISQPTFPGAIMKVRP
+IGMMKMVDQGETDNKILAVFD--KDPNVSYIKDLKDVNAH---LLDEIANFFSTYKILE---KKETKVLG
+WEG----KEAALKEIEVSIKMYEEKYGKKN----------------------------------------
+--------*
+>P1;gi|29171698|ref|NP_789842.1| inorganic pyrophosphatase 2 isoform... [ score 185 E 8e-46 ] [ range 4 .. 43 ] [ duplicate b ]
+sequence
+-YHTEERGQPCSQNYRLFFKNTGHYISPFHDIPLKVNSKE------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------*
+>P1;gi|29839343|sp|Q8GQS5|IPYR_AQUPY Inorganic pyrophosphatase (Pyro... [ score 185 E 1e-45 ] [ range 3 .. 174 ]
+sequence
+----------------------------YKDLPPGKNPPEDIY-VVIEIPQGS-GIKYELDKD-------
+----TGVIFVDRFLFTAMYYPFNYGFIPQTLAD------------DGDPVDVLVISREPVAPGSVMRCRP
+IGMLEMRDEEGIDTKLIAVP---HEKLDPTYSDIKTVDQLPEIIRERIKHFFEHYKELE------PGKWV
+KVENWRGLQDAIEEIKKGIENYKK----------------------------------------------
+--------*
+>P1;gi|23050001|ref|ZP_00076996.1| COG0221: Inorganic pyrophosphatas... [ score 183 E 3e-45 ] [ range 20 .. 179 ]
+sequence
+--------------------------------------ERQVESVLIEIPKGS-RNKYEYDKEKKV----
+-------IKYDRMLFSSMVYPSDYGFFPDTL------------ALDGDPLDAMVLTWEPTFPGCIIDVHL
+VALFDMEDDKGRDQKILCVPK--NDPM---WNYIETVEQVPPHLFKEITNFFQTYKNLE---EKRVKVIG
+W----KDLETAVAVLQEAKDRYIE----------------------------------------------
+--------*
+>P1;gi|23019094|ref|ZP_00058806.1| COG0221: Inorganic pyrophosphatas... [ score 183 E 3e-45 ] [ range 15 .. 175 ]
+sequence
+------------------------------------------FDVTIEIPKGE-RNKYEM----------
+-DHETGRIRLDRMLFTSTSYPADYGFIEGTLGD------------DGDPLDALVLLKQPTFPGCMIRCRA
+IGMFRMRDEAGGDDKVLCVPA--TDPRMEHLRDIHHVNEF--ERL-EIQHFFTVYKDLE---GKSVEGAI
+WVGRHEAEQEIKNSIKRAAESGQQ----------------------------------------------
+--------*
+>P1;gi|37534198|ref|NP_921401.1| putative soluble inorganic pyrophos... [ score 183 E 5e-45 ] [ range 3 .. 189 ]
+sequence
+----EEKKTPC-LNERILSSLSKRSVHSWHDLEIAGPGAPQVFNVVVEITKGS-KVKYEL----------
+-DKKTGMIKVDRVLYSSVVYPHNYGFIPRTLCE------------DGDPMDVLVLM--------------
+--------QGEKDDKIIAVCV--DDPEFRHFNDLKELS---PHRLAEIRRFFEDYK-------KNENKEV
+AVNDFLPPATAQEAIKYSMDLYAEYI--------------------------------------------
+--------*
+>P1;gi|42837771|gb|EAA86354.1| unknown [environmental sequence] [ score 183 E 5e-45 ] [ range 17 .. 195 ]
+sequence
+-----------------------------HILPAFANESELRVNTIVELNSNT-INKYELITE-------
+----TGHLKLDRVGYSSLAYPFAYGCLPRTWDE------------DGDPLDIEIVNTEPLVPGSIVEARI
+IGIMTFDDGGEVDDKVIGVIA--DDKRMD---HIQSFEQLGKHWINETTYYWEHYK--D---LKKPGTCT
+VNGFF-GVEKAVQIIKSCEERYLSEIDPNLIN--------------------------------------
+--------*
+>P1;gi|33239944|ref|NP_874886.1| Inorganic pyrophosphatase [Prochlor... [ score 181 E 1e-44 ] [ range 17 .. 195 ]
+sequence
+-----------------------------HVLPAFADEGSLRVNTIVELNSNT-INKYELITE-------
+----TGHLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDIEIVGTEPLIPGSIVEARI
+IGIMTFDDGGEVDDKVIAVIA--DDKR---LDHITSYELLGEHWINETTYYWEHYK--D---LKKPGTCT
+VNGFF-GIEKAVEIIKTCERRYLSEIEPQLVD--------------------------------------
+--------*
+>P1;gi|23050602|ref|ZP_00077482.1| COG0221: Inorganic pyrophosphatas... [ score 181 E 2e-44 ] [ range 3 .. 162 ]
+sequence
+--------------------------------------ERQVESVIVEIPKGS-RNKFEY----------
+-DNEKRLIKFDRMLSSSMVYPSDYGFFPDTL------------SLDGDPLDAMVLTWEPTFPGCVIEVYL
+VALFDMEDYKGRDQKILCVPK--NDPM---WNYIESVDQVPPHLFKEITHFFQTYKNLD---KKQVKVIG
+W----KSLETAVAVLQEAKDRYAE----------------------------------------------
+--------*
+>P1;gi|44123619|gb|EAH25330.1| unknown [environmental sequence] [ score 180 E 2e-44 ] [ range 17 .. 187 ]
+sequence
+-----------------------------HILDAFTDRTKSVVNTIVELNSNT-INKYELITE-------
+----TGHLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDIEIVGTEPLVPGSIVESRI
+IGVMKFDDGGEVDDKVIAVLA--DDKRMDHIRTFDDLGEHW---LKETKYYWEHYK--D---LKKPGTCT
+VNG-FYGIEEAVKVIQDCESRYQK----------------------------------------------
+--------*
+>P1;gi|15606686|ref|NP_214066.1| inorganic pyrophosphatase [Aquifex ... [ score 179 E 4e-44 ] [ range 6 .. 174 ]
+sequence
+-------------------------------LPPGKNPPEDIY-VVIEIPQGS-AVKYELDKD-------
+----TGVIFVDRFLFTAMYYPFNYGFVPQTLAD------------DGDPVDVLVISREPVVPGAVMRCRP
+IGMLEMRDEAGIDTKVIAVP---HEKLDPSYSNIKTVDNLPEIVREKIKHFFEHYKELE------PGKWV
+KVENWKGLQDAIEEIKKGIENYKK----------------------------------------------
+--------*
+>P1;gi|3913939|sp|O05724|IPYR_BACST Inorganic pyrophosphatase (Pyrop... [ score 179 E 6e-44 ] [ range 4 .. 163 ]
+sequence
+--------------------------------------ENKIVEAFIEIPTGS-QNKYEFDKE-------
+----RGIFKLDRVLYSPMFYPAEYGYLQNTL------------ALDGDPLDILVITTNPTFPGCVIDTRV
+IGYLNMVDSGEEDAKLIGVPV--EDPRFDEVRSIEDLPQHK---LKEIAHFFERYKDLQ---GKRTE---
+-IGTWEGPEAAAKLIDECIARYNE----------------------------------------------
+--------*
+>P1;gi|34558091|ref|NP_907906.1| INORGANIC PYROPHOSPHATASE [Wolinell... [ score 179 E 8e-44 ] [ range 10 .. 171 ]
+sequence
+-------------------------------------ENPDKLNAVIEIPYGS-NIKYEIDKES------
+-----GAVVVDRVMYSAMFYPANYGFVPNTLAD------------DGDPADILVLNEYPLQAGSVIKCRL
+IGVLVMEDEAGMDEKLLAVPV--T-KIDPRYEGIQTYQDLPKITLDKIKNFFETYKMLE------PNKWV
+RVKEFKDKDEAAALLEKAIKAY------------------------------------------------
+--------*
+>P1;gi|17547068|ref|NP_520470.1| INORGANIC PYROPHOSPHATASE PROTEIN [... [ score 178 E 9e-44 ] [ range 6 .. 168 ]
+sequence
+-------------------------VSPGKDIP-------NDFNVIIEIPAQS-DVKYE-----------
+ADKETGLLHVDRFVGTGMRYPANYGFIPQTL------------AGDGDPVDVLVVTPFPLVHGCVVRCRT
+LGMLKMTDESGQDAKLVAVPV--N-KLSPATAHMTDLSDIGQNLLDQIKHFFEQYKALE---GKWVKVEG
+WGGIEEAHKEIVD---------------------------------------------------------
+--------*
+>P1;gi|33239961|ref|NP_874903.1| Inorganic pyrophosphatase [Prochlor... [ score 178 E 2e-43 ] [ range 5 .. 169 ]
+sequence
+--------------------------------PLSPSPSLGLVNLVVEIPAGS-RNKYEYFAE-------
+----AGTMALDRVLHSSVRYPFDYGFIPNTLAE------------DGAPLDAMVIMEEPTFAGCLIKARP
+IGVLDMHDSGAYDGKLLCVPV--ADPR---QKGITSIRQIAPNQLEDVAEFFRTYKSLE---GRVV---V
+IDG-WRDHDVVDDLLQTCIDARK-----------------------------------------------
+--------*
+>P1;gi|22986978|ref|ZP_00032064.1| COG0221: Inorganic pyrophosphatas... [ score 176 E 5e-43 ] [ range 20 .. 202 ]
+sequence
+------------------FHPHQRALMSFNHVPAGKDLPQD-FNVIIEIPAQS-DVKYE-----------
+ADKETGLLHVDRFISTGMRYPANYGYIPQTL------------SGDGDPVDVLVITPFPLLAGSVVRARA
+LGMLQMTDESGVDAKLVAVPH--DCPMTADLKSIDDVPAYLK---DQIKHFFEQYKALE---GKWVKVDG
+WAG----IEAAHKEITDGAANYKK----------------------------------------------
+--------*
+>P1;gi|15791998|ref|NP_281821.1| inorganic pyrophosphatase [Campylob... [ score 176 E 5e-43 ] [ range 12 .. 172 ]
+sequence
+---------------------------------------PNKINAVIEIPYGS-NIKYEIDKDS------
+-----GAIMVDRVMASAIFYPANYGFIANTLAD------------DGDPVDILVLNEYPIQAGAVIPCRL
+IGVLIMEDESGMDEKLLAVP---NSKIDARYDNIKTYTDLPQATLNKIKNFFETYKILE------PNKWV
+KVQDFKDEKAAIEILEKAIKNYK-----------------------------------------------
+--------*
+>P1;gi|32267347|ref|NP_861379.1| inorganic pyrophosphatase [Helicoba... [ score 176 E 6e-43 ] [ range 3 .. 165 ]
+sequence
+-------------------------------------ENPNKINVIIEIPYGS-NIKYEVDKES------
+-----GLVVVDRVMYGAMFYPANYGFVPNTLAD------------DGDPVDVLVLNSYPLQAGSMIASRL
+IGVLIMEDESGMDEKLIAVPV---SKIDPSFEKIQSLADLPQITLDRIKNFFETYKTLE------PNKWV
+KVKEYKDKTAAQEILDKSIKAYK-----------------------------------------------
+--------*
+>P1;gi|22994574|ref|ZP_00039072.1| COG0221: Inorganic pyrophosphatas... [ score 176 E 7e-43 ] [ range 52 .. 224 ]
+sequence
+-------------------------------VNAGNNLPEEI-NVIIEIPKDS-EVKYEV----------
+-DKASGAIFVDRILSTPMRYPCNYGYVPNTLC------------GDGDPVDVMVVLPLPLVPGSVVRCRP
+VGVLQMKDEAGNDEKLLAVPV---SKIFSGYSHIEDINQVSAHWLERIGHFFEHYKDLE------EGKWV
+EIDGWGNATTAKQILTSAVQRYKDTLP-------------------------------------------
+--------*
+>P1;gi|25808597|gb|AAN74425.1| inorganic pyrophosphatase [Helicobact... [ score 175 E 9e-43 ] [ range 6 .. 173 ]
+sequence
+---------------------------------LEVSHDADSLCVVIEISKHS-NIKYELDKES------
+-----GALMVDRVLYGAQNYPANYGFVPNTLGS------------DGDPVDALVLSDVAFQAGSVVKARL
+VGVLNMEDESGMDEKLLALPI--DDPTHSYVKDIDDLSKH---TLDKIKHFFETYKDLE------PNKWV
+KVKGFENKESAIKVLEKAIKAYQD----------------------------------------------
+--------*
+>P1;gi|37523796|ref|NP_927173.1| inorganic pyrophosphatase [Gloeobac... [ score 175 E 9e-43 ] [ range 7 .. 169 ]
+sequence
+---------------------------------IPARPKEGLINVLVEIPGRS-HNKFEFDKDL------
+-----GIFTLDRVLYAAVYYPGDYGFVPNTLAD------------DGDPLDGLVLMDEPTFTGCLIAARP
+IGVLGMIDSGEGDEKILCVPV--KDPRYAGVKDLSDIAQH---RLDEIAEFFATYKRLE---KKVTEITG
+WQG----VEVAQQLVDKAIAAY------------------------------------------------
+--------*
+>P1;gi|14601561|ref|NP_148101.1| inorganic pyrophosphatase [Aeropyru... [ score 175 E 9e-43 ] [ range 41 .. 205 ]
+sequence
+-----------------------------------GDEAPDVVNVVIEIPMNS-SVKYEFDKEACI----
+-------VKVDRFLYTSMVYPFNYGFIPGTLEE------------DGDPVDVLVISREPVAPGSLIEAVP
+VAVLDMEDEEGPDSKVVAVPK---AKLDPLFASYKDVGDIPDALKSKIKHFFEHYKELE------PGKWV
+RVTGWRPAADAKEIIRRAIERYK-----------------------------------------------
+--------*
+>P1;gi|28493121|ref|NP_787282.1| inorganic pyrophosphatase [Trophery... [ score 175 E 1e-42 ] [ range 7 .. 158 ]
+sequence
+----------------------------------------QTLTAIVEIPRGS-RSKYEI----------
+-DKKTGRLFLDRVVSTAFGYPTNYGFIENTL------------ALDGDPIDALILVQNQLFPGVALHIRP
+VGVLHMTDDGGEDDKVLCVAL--KDPYCDHINDLDDVPKH---VLNQIEHFFQHYKDLE------EGKWV
+KLGAWNGKDKAIEIITE-----------------------------------------------------
+--------*
+>P1;gi|29831204|ref|NP_825838.1| putative inorganic pyrophosphatase ... [ score 174 E 2e-42 ] [ range 3 .. 159 ]
+sequence
+------------------------------------------FDVTIEIPKGS-RNKYEV----------
+-DHETGRIRLDRRLFTSTSYPADYGFVENTLGE------------DGDPLDALVILDEPTFPGCLIKCRA
+IGMFRMTDEAGGDDKLLCVPA--HDPRVEHLRDIHHVSEF--DRL-EIQHFFEVYKDLE---GKSVEGAN
+WVG----RTDAEAEIERSYKRLKE----------------------------------------------
+--------*
+>P1;gi|23102043|ref|ZP_00088572.1| COG0221: Inorganic pyrophosphatas... [ score 174 E 3e-42 ] [ range 150 .. 329 ]
+sequence
+--------------FRPFLEN--QSMS-YSKIPAGKDLPNDIY-VAIEIPANA-PIKYEIDKDSDC----
+-------LFVDRFMATPMFYPANYGYIPNTLAD------------DGDPLDVLVVTPYPVVPGSVIRARP
+VGVLHMTDESGGDAKLIAVPH--DKLLYQHVKEYTDLPAL---LLEQIKHFFENYKDLE---GKWVKVEG
+WGDAEAARAEILKAVA------------------------------------------------------
+--------*
+>P1;gi|21221836|ref|NP_627615.1| putative inorganic pyrophosphatase ... [ score 173 E 4e-42 ] [ range 3 .. 159 ]
+sequence
+------------------------------------------FDVTIEIPKGS-RNKYEV----------
+-DHETGRIRLDRRLFTSTAYPTDYGFVENTLGE------------DGDPLDALVILDEPTFPGCLIRCRA
+IGMFRMTDEAGGDDKLLCVPS--TDPRVEHLRDIHHVSEF--DRL-EIQHFFEVYKDLE---GKSVEGAD
+WVGRTEAEAE----IERSYKRFKD----------------------------------------------
+--------*
+>P1;gi|22976202|ref|ZP_00022100.1| COG0221: Inorganic pyrophosphatas... [ score 172 E 6e-42 ] [ range 6 .. 163 ]
+sequence
+-------------------------VSPGKDLP-------NDFNVIIEISAQS-DVKYE-----------
+ADKETGLLFVDRFIGTGMRYPANYGFIPQTL------------SGDGDPVDVLVITPFPILAGAVVRCRA
+LGMLKMTDESGVDAKLVAIPV--D-KLCPATAHMKGLSDVPQNTLDQIKHFFENYKALE---GKWVKVEG
+WAG-----------IEEAH---------------------------------------------------
+--------*
+>P1;gi|23042325|ref|ZP_00073720.1| COG0221: Inorganic pyrophosphatas... [ score 172 E 7e-42 ] [ range 6 .. 164 ]
+sequence
+---------------------------------IPAQPKPGLINVLIEITGGS-KNKYEFDKDLQ-----
+------AFALDRVLYSSVQYPYDYGFVPNTLAD------------DGDPLDGIVIMDEPTFPGCVIPARP
+VGMLEMIDGGDRDEKILCVPD--KDPRYTEVKSLKDVAHH---RLEEIAEFFRTYKNLE---KKVTEILG
+W----KDVEHVMPLVEKC----------------------------------------------------
+--------*
+>P1;gi|41615246|ref|NP_963744.1| NEQ461 [Nanoarchaeum equitans Kin4-... [ score 171 E 2e-41 ] [ range 3 .. 159 ]
+sequence
+------------------------------------------VYAFIEVPKGS-NVKYEY----------
+---EDGKLKVDRILYGAMFYPYNYGFIPETLEE------------DGDPLDVLVITEEPLVPGSYIKVKP
+IGVLVTEDEKGVDRKIIAVPV---KKVDPIYGEIEDISELKEGIKLKIKHFFERYKELE------PGKFV
+KVKEFLGKEEAEKIIKQAQENYKK----------------------------------------------
+--------*
+>P1;gi|1708546|sp|P50308|IPYR_SULAC Inorganic pyrophosphatase (Pyrop... [ score 170 E 4e-41 ] [ range 10 .. 167 ]
+sequence
+---------------------------------------PDVVNVLVEIPQGS-NIKYEYDDEE------
+-----GVIKVDRVLYTSMNYPFNYGFIPGTLEE------------DGDPLDVLVITNYQLYPGSVIEVRP
+IGILYMKDEEGEDAKIVAVPK--D-KTDPSFSNIKDINDLPQATKNKIVHFFEHYKELE---GKYVKISG
+WGSATEAKNRIQLAIK------------------------------------------------------
+--------*
+>P1;gi|15838762|ref|NP_299450.1| inorganic pyrophosphatase [Xylella ... [ score 170 E 4e-41 ] [ range 6 .. 178 ]
+sequence
+-------------------------------VNAGNNLPEEI-NVIIEIPKDS-EVKYEV----------
+-DKASGAIFVDRILSTPMRYPCNYGYVPNTLC------------GDGDPVDVMVVLPLPLVPGSVVRCRP
+VGVLQMKDEAGNDEKLLAVPV---SKIFSGYSHIEDINQVSAHWLERIGHFFEHYKDLE---GKWVEIDG
+WG----NATTAKQILTNAVQRYKDTLP-------------------------------------------
+--------*
+>P1;gi|23130472|ref|ZP_00112287.1| COG0221: Inorganic pyrophosphatas... [ score 169 E 6e-41 ] [ range 6 .. 166 ]
+sequence
+---------------------------------IPAQPKPGLINVLIEITGGS-KNKYEYDKELE-----
+------AFALDRVLYSSVKYPYDYGFVPNTLAD------------DGDPLDGMVIIDEPTFPGCIIAARP
+IGFLEMIDGGDRDEKILCVPD--KDPRYTQVKSLKDV---APHRLDEIAEFFRSYKNLE---KKVTEILG
+WQDVDKVAALVEKSVK------------------------------------------------------
+--------*
+>P1;gi|15899143|ref|NP_343748.1| Inorganic pyrophosphatase, putative... [ score 168 E 1e-40 ] [ range 8 .. 171 ]
+sequence
+-------------------------------------KAPDEINVFIEIPMGS-NIKYEYDEEEDI----
+-------IKVDRVLYTSMVYPFNYGFIPETLEE------------DGDPLDVLVLGNYSLMPGTVIEARP
+IGMIYMRDEEGEDAKVIAVPR--N-KTDPSFSNINDVKDLPEAIRNKIVHFFEHYKELE------PNKWV
+KISGWGSVAEAKERIKKAIERKKQ----------------------------------------------
+--------*
+>P1;gi|17231062|ref|NP_487610.1| inorganic pyrophosphatase [Nostoc s... [ score 168 E 1e-40 ] [ range 6 .. 169 ]
+sequence
+---------------------------------IPAQPKPGVINILIEIAGGS-QNKYEFDKDLE-----
+------AFALDRVLYSSVKYPYDYGFVPNTLAD------------DGDPLDGMVIIDEPTFPGCVIAARP
+IGFLEMIDGGDRDEKILAVPD--KDPRYAHVKSLNDV---APHRLDEIAEFFRSYKNLE---KKVTQILG
+W----QDVDQVKALVDQSIKAYK-----------------------------------------------
+--------*
+>P1;gi|2851632|sp|O05545|IPYR_GLUOX Inorganic pyrophosphatase (Pyrop... [ score 168 E 2e-40 ] [ range 9 .. 171 ]
+sequence
+-------------------------ISPGKDLP-------NDINVVIEIPQGS-QVKYEVDKDS------
+-----GALVVDRFLFTPHAYPAAYGFIPGTLGR------------DGDPADALVLTPAAVVPGSVIRARP
+IGMLKMEDESGQDEKIICVPA--RKPQFSNVHSVDDLPEI---TKKAITHFFERYKDLE------PNKWV
+KVTGWADKAEAGKVIMEA----------------------------------------------------
+--------*
+>P1;gi|43746276|gb|EAF27529.1| unknown [environmental sequence] [ score 167 E 3e-40 ] [ range 6 .. 146 ]
+sequence
+---------------------------------IPPSPMKGIVNIVVEIPAGS-RNKYEYCSD-------
+----AGLMALDRVLHSSVRYPFDYGFIPNTLAD------------DGAPLDAMVIMDEPTFAGCLIKARP
+IGVLDMHDCGAYDGKLLCVPV--ANPRQA---NIVSINQIAPNQLEDVAEFFRTSKGLD---GRTV----
+----------------------------------------------------------------------
+--------*
+>P1;gi|44335446|gb|EAI54453.1| unknown [environmental sequence] [ score 166 E 4e-40 ] [ range 6 .. 165 ]
+sequence
+---------------------------------IPPSPMNGIVNIVVEIPAGS-RNKYEYCSE-------
+----AGIMALDRVLHSSVRYPFDYGFIPNTLAD------------DGAPLDAMVIMDEPTFAGCLIKARP
+IGVLDMHDCGAYDGKLLCVPM--ANPRQA---NIVSINQIAPNQLEDVAEFFRTSKGLD---GRTVQIDG
+WRDF----DVVENLLKSCM---------------------------------------------------
+--------*
+>P1;gi|45520644|ref|ZP_00172172.1| hypothetical protein Mflag206201 ... [ score 166 E 5e-40 ] [ range 2 .. 161 ]
+sequence
+--------------------------------PAGKDIPND-FNVIIEISRGE-PIKFEVDKDS------
+-----GALFVDRFMGTSMHYPCNYGYIPQTLSE------------DGDPVDVLVITPIPLQPGVVIRCRA
+IGVLTMEDDGGVDAKVLAVPL--D-KICPQYKDIKSYQDIPEFQLAPIAHFFEHYKDLE------KGKWV
+KVGEWKGPEDAKAEI-------------------------------------------------------
+--------*
+>P1;gi|23028943|ref|ZP_00067314.1| COG0221: Inorganic pyrophosphatas... [ score 166 E 7e-40 ] [ range 1 .. 171 ]
+sequence
+--------------------------MSLNLVPTGKKVPDEV-NVIIEIPMGG-EIKYEIDKDS------
+-----GALFVDRVLGTSMRYPCNYGYVPHTLC------------GDGDPVDVLVYMDRPLVHGSVINCRP
+IGVLKMTDESGEDAKIVAVPV---SKITSIYDNVQSIEDLPEIATRQIAHFFEHYKDLE---GKWVKVEG
+WEGVAAAKQEILDSVA------------------------------------------------------
+--------*
+>P1;gi|44418325|gb|EAJ12883.1| unknown [environmental sequence] [ score 165 E 8e-40 ] [ range 1 .. 175 ]
+sequence
+--------------------------MSFNNVPAGKDLPQD-FNVIIEIPAQS-DVKYE-----------
+ADKETGLLHVDRFISTGMRYPANYGYIPQTL------------SGDGDPVDVLVITPFPLLAGSVVRARA
+LGMLQMTDESGVDAKLVAVPH--DCPMTATLKSLDDVPAYLK---DQIKHFFEQYKALE------KGKWV
+KVEGWADIDAAHKEISEGVANYKK----------------------------------------------
+--------*
+>P1;gi|33863525|ref|NP_895085.1| Inorganic pyrophosphatase [Prochlor... [ score 165 E 9e-40 ] [ range 6 .. 151 ]
+sequence
+---------------------------------LLPSPSPGLVNLLVEIPAGS-RNKYEYFDE-------
+----AGVMALDRVLHSSVRYPFDYGFIPNTLAE------------DGAPLDAMVIMEEPTFAGCLIRARP
+IGVLDMHDSGAYDGKLLCVPV--ADPR---QRSISSIRQISASQLEDVAEFFRTYKNLE---GRVVDIGG
+W---------------------------------------------------------------------
+--------*
+>P1;gi|44451067|gb|EAJ35980.1| unknown [environmental sequence] [ score 165 E 1e-39 ] [ range 1 .. 175 ]
+sequence
+--------------------------MSFNHVPAGKDLPQD-FNVIIEIPAQS-DVKYE-----------
+ADKELGLLVVDRFIGTGMRYPVNYGYIPQTL------------SGDGDPVDVLVITPFPLLAGSIVRSRV
+LGMLQMTDESGVDAKLVAVPH--DCPMTANLKSIDDVPEYLK---DQIKHFFEQYKALE---GKWVKVEG
+WAG----IEAAHKEITDGAANYKK----------------------------------------------
+--------*
+>P1;gi|44132247|gb|EAH30110.1| unknown [environmental sequence] [ score 164 E 1e-39 ] [ range 3 .. 150 ]
+sequence
+----------------------------------------------------------------------
+--TETGHLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDIEIVSTEPLVPGSIVEARI
+IGVMTFDDGGEVDDKVIAVLA--DDKRMDHIKSFEDLGEHWK---KETTYYWEHYK--D---LKKPGTCT
+VNGFFGTEK-AVEIIKSCEARYLQEIAPKLVD--------------------------------------
+--------*
+>P1;gi|15789550|ref|NP_279374.1| inorganic pyrophosphatase; Ipp [Hal... [ score 164 E 2e-39 ] [ range 5 .. 173 ]
+sequence
+----------------------------WEDLETGPDAPD-VIYAVVECLKGE-RNKYEYDKDIPGVV--
+---------LDRVLHSNVHYPSDYGFIPQSYYD------------DGDPFDVLVLVEDQTFPGCVIEARP
+VALMEMDDDGEQDDKVIAVPE--EDPR---YDDVEDVDDLTDQQKAEIAEFFETYKNLE---ADKETAVL
+GWGDAQAAKDAIEHAQDLYD--------------------------------------------------
+--------*
+>P1;gi|33861068|ref|NP_892629.1| Inorganic pyrophosphatase [Prochlor... [ score 164 E 2e-39 ] [ range 6 .. 151 ]
+sequence
+---------------------------------IPPSPMKGIVNLVVEIPAGS-RNKYEYC---------
+--SQAGIMELDRILHSSVRYPFDYGFVPNTLAD------------DGSPLDAMVIMDEPTFAGCLIKARP
+IGVLDMHDCGKYDGKLLCVPI--SNPR---QENIISINQIAPNQLEDVAEFFRTSKGLD---GRTVQIDG
+W---------------------------------------------------------------------
+--------*
+>P1;gi|18564757|emb|CAC81009.2| soluble inorganic pyrophosphatase [A... [ score 164 E 2e-39 ] [ range 6 .. 151 ]
+sequence
+---------------------------------IPAQPKPGVINILIEIAGGS-QNKYEFDKDLE-----
+------AFALDRVLYSSVKYPYDYGFVPNTLAD------------DGDPLDGMVIIDEPTFPGCVIAARP
+IGFLEMIDGGDRDEKILAVPD--KDPRYAHRKSLNDV---APHRLDEIAEFFRSYKNLE---KKVTQSVG
+W---------------------------------------------------------------------
+--------*
+>P1;gi|17936536|ref|NP_533326.1| inorganic pyrophosphatase [Agrobact... [ score 163 E 3e-39 ] [ range 6 .. 174 ]
+sequence
+-------------------------------ISIGKNPPDDI-NVIVEVPVGG-HIKYEMDKD-------
+----AGALIVDRFLYTPMTYPGNYGFVPHTLSD------------DGDPIDVLICNTRPLVPGCVINVRP
+IGVMIMEDDGGKDEKILAVPA--PKLRYDKVHNYTDLPEI---TLKQIEHFFEHYKDLE------PGKWV
+KMGGWQDVDVAKKLIVEAIERYK-----------------------------------------------
+--------*
+>P1;gi|15827013|ref|NP_301276.1| putative inorganic pyrophosphatase ... [ score 163 E 4e-39 ] [ range 3 .. 159 ]
+sequence
+------------------------------------------FDVTIEIPKGQ-RNKYEV----------
+-DHKTGRVRLDRYLYTPMAYPTDYGFIEDTLGE------------DGDPLDALVLLPEPLFPGVLVEARP
+VGMFRMVDEHGGDDKVLCVPV--NDHRWDHIHGIIDVPTF---ELDAIKHFFVHYKDLE------PGKFV
+KAADWVGRDEAEAEVQRSVERFKA----------------------------------------------
+--------*
+>P1;gi|15610764|ref|NP_218145.1| ppa [Mycobacterium tuberculosis H37... [ score 163 E 4e-39 ] [ range 3 .. 159 ]
+sequence
+------------------------------------------FDVTIEIPKGQ-RNKYEV----------
+-DHETGRVRLDRYLYTPMAYPTDYGFIEDTLGD------------DGDPLDALVLLPQPVFPGVLVAARP
+VGMFRMVDEHGGDDKVLCVPA--GDPRWDHVQDIGDVPAF---ELDAIKHFFVHYKDLE------PGKFV
+KAADWVDRAEAEAEVQRSVERFKA----------------------------------------------
+--------*
+>P1;gi|39938631|ref|NP_950397.1| inorganic pyrophosphatase [Onion ye... [ score 163 E 5e-39 ] [ range 1 .. 176 ]
+sequence
+-------------------------MNILHDINP-ERITKEEFIVVIEISQGS-KKKYEIDKE-------
+----TGLLLLDRFLTTAFRYPINYGFVPLTHCE------------DNDPLDVLVLSQEILDPMTLVKCRP
+LGVIKMIDNDELDEKVIAVPV--FDKYFSHLQDLKDMPLPM---IAEIKHFFENYKALE---KKKV----
+VIEAIQDKQAAFSAIETSLLTYQKVIKP------------------------------------------
+--------*
+>P1;gi|1708545|sp|P51064|IPYR_BARBA Inorganic pyrophosphatase (Pyrop... [ score 163 E 5e-39 ] [ range 5 .. 175 ]
+sequence
+------------------------------EIPIGNNPPEDV-NVIIEVPVDS-QVKYEM----------
+-DKKSGSLFVDRFISTSMVYPGNYGFIPHTLSE------------DSDPIDVLVCNTRPLIPGCVINVRP
+IGALIMEDDGGKDEKIIAVPT---PKLTQQYIGIHDYTDLTENILKKIEHFFKHYKDLE------AGKWA
+KIEGWRDKNFARELIQQAIERAKA----------------------------------------------
+--------*
+>P1;gi|43728940|gb|EAF19324.1| unknown [environmental sequence] [ score 163 E 6e-39 ] [ range 17 .. 157 ]
+sequence
+-----------------------------HILNAFTDSSNTIVNTIVELNSNT-INKYELITE-------
+----TGHLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDVEIVSTEPLIPGSIVEARI
+IGVMKFDDGGEVDDKVIAVLA--DDKRM---NHISSFEDLGEHWLKETKYYWEHYKDL------------
+----------------------------------------------------------------------
+--------*
+>P1;gi|14010721|ref|NP_114207.1| unknown [Pseudomonas syringae pv. m... [ score 161 E 2e-38 ] [ range 1 .. 173 ]
+sequence
+--------------------------MSYTDIPAGNAIPDDFF-TVIEIPANS-PIKYEV----------
+-DKPSGQIFVDRFLSTPMFYPANYGFIPNTLSD------------DGDPLDVLVICPYPVSPGVVIRSRP
+VGVMYMTDEAGADAKVIAVP---HEKLSSMYSNVKECSDLPALLLAQIQHFFENYKALE------PGKWV
+KMGRWGSADEAREDIRKSVAAY------------------------------------------------
+--------*
+>P1;gi|16123667|ref|NP_406980.1| inorganic pyrophosphatase [Yersinia... [ score 160 E 3e-38 ] [ range 1 .. 173 ]
+sequence
+--------------------------MSLNQVPAGKDLPEDIY-VVIEIPANA-DIKYEIDKE-------
+----TGSLFVDRFMSTAMFYPCNYGYINNTL------------SLDGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGEDAKLVAVP---HSKLTKEYDHVKDVQDLPELLKAQIKHFFEHYKDLE---GKWVKVDG
+WEDAAAAKAEILSSFERA----------------------------------------------------
+--------*
+>P1;gi|30961759|gb|AAP39996.1| inorganic pyrophosphatase [Helicobact... [ score 160 E 4e-38 ] [ range 2 .. 141 ]
+sequence
+--------------------------------------------VVIEISKHS-NIKYELDKES------
+-----GALMVDRVLYGAQNYPANYGFVPNTL------------GADGDPVDVLVLSDMAFQAGSVVKARL
+IGVLNMEDESGMDEKLLALPV--DDPTHSYVKDINDLSKH---TLDKIKHFFETYKDLE------PNKWV
+KVKGFEN---------------------------------------------------------------
+--------*
+>P1;gi|20138579|sp|P58733|IPYR_PSEAO Inorganic pyrophosphatase (Pyro... [ score 160 E 4e-38 ] [ range 6 .. 180 ]
+sequence
+---------------------------------IPPQPKAGILNVLIEIPAGS-KNKYEFDKDL------
+-----NAFALDRVLYSSVQYPYDYGFVPIT----------NNLADDGDPLDGMVIMVPPTFPG-VATARP
+IGMLQMVDGGDRDEKFLCVPA--KDPRYTYVKSANDLAGH---RLDEIFEFFRSYKNLF---KKPTEFFG
+WKGDVAGLPLVEECVKNYYKTYCKNDHGK-----------------------------------------
+--------*
+>P1;gi|4033423|sp|O34955|IPYR_LEGPN Inorganic pyrophosphatase (Pyrop... [ score 159 E 4e-38 ] [ range 5 .. 173 ]
+sequence
+------------------------------EIPSGRDVPNEV-NVIIEIPMGE-PVKYEV----------
+-DKKTGALFVDRFMTTAMFYPTNYGYIPNTLSE------------DGDPVDVLVITPVPLISGAVISCRA
+VGMLKMTDESGVDAKILAVPT--T-KLSKMYQSMQTYQDIPQHLLLSIEHFFKHYKDLE---GKWVKVEG
+WVGPDAAREE----ITSSINRY------------------------------------------------
+--------*
+>P1;gi|17986360|ref|NP_538994.1| INORGANIC PYROPHOSPHATASE [Brucella... [ score 159 E 5e-38 ] [ range 6 .. 174 ]
+sequence
+-------------------------------ISIGSNPPEDV-NVIIEVPVGG-QIKYEM----------
+-DKKAGALIVDRFLYTPMTYPGNYGFVPHTLSE------------DGDPIDVLVCNTRPLIPGCVINVRP
+IGVLVMEDNSGKDEKIIAVPH--LTRRYEKIHDYTDMPEI---TLKQIAHFFEHYKDLE------PGKWV
+KIGDWGDEDYARKFIVEAIERAK-----------------------------------------------
+--------*
+>P1;gi|38234570|ref|NP_940337.1| inorganic pyrophosphatase [Coryneba... [ score 159 E 6e-38 ] [ range 3 .. 157 ]
+sequence
+------------------------------------------IEVTIEIPKGS-RNKYEV----------
+-DHETGKVYLDRYLFTPMAYPLDYGFIDHTLGE------------DGDPLDALVILPEPVFPGVIVKARP
+LGVFKMTDEAGGDDKLLCV-I--DDPRWDHLQDIQDVSSF---LRDEIEHFFVHYKDLE------PNKEV
+TGSGWGDKAEAEKIHAESIERYQ-----------------------------------------------
+--------*
+>P1;gi|15966840|ref|NP_387193.1| PROBABLE INORGANIC PYROPHOSPHATASE ... [ score 159 E 6e-38 ] [ range 6 .. 174 ]
+sequence
+-------------------------------ISIGKNPPEDV-NVIVEVPVGG-HIKYEMDKE-------
+----AGTLVVDRFLYTPMTYPGNYGFVPHTLSD------------DGDPIDVLICNTRPLVPGCVINVRP
+IGVMMMEDNSGQDEKIIAVPS--ATKRYDKVHDYTDLPEI---TLKQIEHFFEHYKDLE---GKWVKIFG
+W----KDASMAKQLIREAVERAK-----------------------------------------------
+--------*
+>P1;gi|44064843|gb|EAG93445.1| unknown [environmental sequence] [ score 159 E 7e-38 ] [ range 1 .. 144 ]
+sequence
+----------------------------------------------------------------------
+------HLKLDRVGYSSLAYPFAYGCIPRTWDE------------DGDPLDIEIVGTEPLIPGSIVEARI
+IGVMKFDDGGEVDDKVIAVLA--DDKRMDHISSFKDLGEHW---LKETKYYWEHYK--D---LKKPGTCT
+VNGFF-GIEEAVEVIKDCEDRYKKEIDPKLVN--------------------------------------
+--------*
+>P1;gi|15804817|ref|NP_290858.1| inorganic pyrophosphatase [Escheric... [ score 159 E 8e-38 ] [ range 6 .. 173 ]
+sequence
+-------------------------------VPAGKDLPEDIY-VVIEIPANA-DIKYEIDKES------
+-----GALFVDRFMSTAMFYPCNYGYINHTL------------SLDGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGEDAKLVAVP---HSKLSKEYDHIKDVNDLPELLKAQIAHFFEHYKDLE---GKWVKVEG
+WENAEAAKAEIVASFERA----------------------------------------------------
+--------*
+>P1;gi|29653966|ref|NP_819658.1| inorganic pyrophosphatase [Coxiella... [ score 158 E 1e-37 ] [ range 14 .. 173 ]
+sequence
+------------------------------------------FNVIIEIPAGG-EVKYEYDKEL------
+-----GFLTVDRFMPTSMRYPCNYGFVPSTL------------AQDGDPLDVLVLTPVPVQPGVLMRVRA
+LGIMKMEDEAGEDSKVLAVPV--V-KACRAYEAIQSLKDISSLLLDAISHFFERYKDLE------PNKWA
+KVKGWEDKEAAKKEFEASIVRFKE----------------------------------------------
+--------*
+>P1;gi|22999346|ref|ZP_00043332.1| COG0221: Inorganic pyrophosphatas... [ score 157 E 2e-37 ] [ range 13 .. 205 ]
+sequence
+--------------------------HPWHGLDVGPDLFPEVVHAYIEITPFD-MVKYEV----------
+-DKTSGYLRVDRPHRSSSQPPALYGFVPRTYCGGRVKALSPNTKGDGDPLDICVISERPIKTEVILNARV
+LGGMQMIDGGEADDKIIAVLA--NDNVWGGLKDITEVPKVLTERL---HHYFSTYKMVP---GH-ENEIT
+VDLTY-GREHALKVIKAACDDYIDMYGG------------------------------------------
+--------*
+>P1;gi|43934616|gb|EAG22527.1| unknown [environmental sequence] [ score 158 E 2e-37 ] [ range 1 .. 171 ]
+sequence
+--------------------------MSYSKIPAGKDLPNDIY-VAIEIPANA-PIKYEIDKDSDC----
+-------LFVDRFMATPMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVTPGSVIRARP
+VGILNMTDDGGGDAKVIAVPH--D-KLSQLYVDVKEYTDLPPLLLEQIKHFFENYKDLE---GKWVKIDG
+WGNADAARAEIMKSVA------------------------------------------------------
+--------*
+>P1;gi|4033696|sp|P38576|IPYR_THETH Inorganic pyrophosphatase (Pyrop... [ score 158 E 2e-37 ] [ range 10 .. 174 ]
+sequence
+-----------------------------------GDKAPEVVHMVIEVPRGS-GNKYEYDPDL------
+-----GAIKLDRVLPGAQFYPGDYGFIPSTLAE------------DGDPLDGLVLSTYPLLPGVVVEVRV
+VGLLLMEDEKGGDAKVIGVVA--ED---QRLDHIQDIGDVPEGVKQEIQHFFETYKALE---AKK-GKWV
+KVTGWRDRKAALEEVRACIARYK-----------------------------------------------
+--------*
+>P1;gi|23469950|ref|ZP_00125284.1| COG0221: Inorganic pyrophosphatas... [ score 157 E 2e-37 ] [ range 1 .. 174 ]
+sequence
+--------------------------MSYSKIPAGKDLPNDIY-VAIEIPANA-PIKYEIDKDSDC----
+-------LFVDRFMATPMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVTPGSVIRARP
+VGILHMTDDGGGDAKVIAVPH--D-KLSQLYVDVKEYTDLPPLLLEQIKHFFENYKDLE------KGKWV
+KIEGWGNADAARAEITKSVAAYK-----------------------------------------------
+--------*
+>P1;gi|41725237|ref|ZP_00151995.1| hypothetical protein Daro015901 [... [ score 156 E 3e-37 ] [ range 1 .. 176 ]
+sequence
+--------------------------MALNNVPSGKSLPDD-FNVIIEISAHS-EVKYEVDKES------
+-----GAIFVDRFMSTSMHYPCNYGYIPHT------------IAGDGDPVDVLVVAPFSLPPGVVVRCRP
+LGQLSMTDEGGNDAKLLAVPV--D-KLTPLYKDAKSIEDMPELLRKQISHFFEHYKDLE---GKWVKVNG
+WEDIDAARKEVMEGVQRYNDA-------------------------------------------------
+--------*
+>P1;gi|15599226|ref|NP_252720.1| inorganic pyrophosphatase [Pseudomo... [ score 156 E 4e-37 ] [ range 1 .. 171 ]
+sequence
+--------------------------MSYSKIPAGKDLPNDIY-VAIEIPANA-PIKYEIDKD-------
+----TDCLFVDRFMATPMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVAPGSVIRARP
+VGVLHMTDEAGGDAKLIAVPH--D-KLSVLYKDVKEYTDLPALLLEQIKHFFENYKDLE---GKWVKVEG
+WGNADAARAEITKAVA------------------------------------------------------
+--------*
+>P1;gi|44476598|gb|EAJ54073.1| unknown [environmental sequence] [ score 156 E 6e-37 ] [ range 1 .. 175 ]
+sequence
+--------------------------MSYSKIPAGKDLPNDIY-VAIEIPANA-PIKYEI----------
+-DHDTDCLMVDRFMATPMFYPANYGFIPHTLAD------------DGDPLDVLVVTPYPVAPGSVIRARP
+VGVLHMSDEAGGDAKLVAVPH--D-KLTVLYKDVQEYTDLPALLIEQIKHFFENYKDLE---GKWVKVEG
+WGG----AEEARGLINKAVAAYQK----------------------------------------------
+--------*
+>P1;gi|37528370|ref|NP_931715.1| inorganic pyrophosphatase (pyrophos... [ score 156 E 6e-37 ] [ range 1 .. 173 ]
+sequence
+--------------------------MSLNLVPAGKELPEDIY-VIIEIPANA-DIKYEIDKES------
+-----GALFVDRFMSTTMFYPCNYGYINNTL------------SLDGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDESGEDAKLVAVP---HSKLTKEYDHIKDVNDLPELLRAQITHFFEHYKDLE---GKWVKVDG
+WDNVEAAKAEIISSFERA----------------------------------------------------
+--------*
+>P1;gi|15603056|ref|NP_246128.1| Ppa [Pasteurella multocida] >gi|134... [ score 156 E 6e-37 ] [ range 6 .. 173 ]
+sequence
+-------------------------------VPAGKALPDDIY-VVIEIPANS-DIKYEVDKES------
+-----GALFVDRFMATAMFYPANYGYVNNTL------------SLDGDPVDVLVPTPYPLQPGSVIRCRP
+VGVLKMTDEAGSDAKVVAVP---HSKLTKEYDHIKDVNDLPALLKAQIQHFFESYKALE---GKWVKVDG
+WEGVDAARQEILDSFERA----------------------------------------------------
+--------*
+>P1;gi|41406533|ref|NP_959369.1| Ppa [Mycobacterium avium subsp. par... [ score 156 E 6e-37 ] [ range 3 .. 159 ]
+sequence
+------------------------------------------FDVTIEILKGQ-RNKYEV----------
+-NHETGRLRLDRYLYTAMAYPTDYGFIEDTLGE------------DGDPLDAMVLLPQSVFPGVIVEARP
+VGMFRMTDEKGGDDKVLCVPA--GDHRWEHIQDIGDVPEF---ELDVIKHFFVHYKDLE------PGKFV
+KAADWVGRAEAEAEVQRSIERFKA----------------------------------------------
+--------*
+>P1;gi|26553892|ref|NP_757826.1| inorganic pyrophosphatase [Mycoplas... [ score 156 E 7e-37 ] [ range 3 .. 177 ]
+sequence
+------------------------------------------LNVTIEIPKKS-NVKYEY----------
+-DRKTNQISVDRILFGTEVYPHNYGFIKEALD------------WDGDELDALVIADQSFLPGIIVPAKI
+IGAMEMIDDGETDTKLISVID--CDPRYKHINNLSDLGEH---TLKEIQNFFETYKLLQ---NKKV----
+VIKGFKDSAWATKEYNECVELMKKY--GKMDKDEFVNKMKKEHPE-------------------------
+--------*
+>P1;gi|28867950|ref|NP_790569.1| inorganic pyrophosphatase [Pseudomo... [ score 156 E 7e-37 ] [ range 1 .. 171 ]
+sequence
+--------------------------MSYSKIPAGKDLPNDIY-VAIEIPANA-PIKYEIDKD-------
+----TDCLFVDRFMATPMFYPANYGFIPNTLAD------------DGDPLDVLVVTPYPVTPGSVIRARP
+VGILHMTDDGGGDAKVIAVPH--D-KLSQLYVDVKEYTDLPALLLEQIKHFFENYKDLE---GKWVKIEG
+WGNADAARAEIMKSVE------------------------------------------------------
+--------*
+>P1;gi|41689550|ref|ZP_00146083.1| hypothetical protein Psyc104201 [... [ score 155 E 8e-37 ] [ range 1 .. 176 ]
+sequence
+-------------------------MADFNKILDAGDVDGGIINVVVEIPTGS-SHKIEWNRELAV----
+-------FELDRVDPQIFAKPCNYGFIPQTLDE------------DGDELDALIITEQPLPTGIFLKAKV
+IGVMKFVDDGEVDDKIVVVPA--DDRTGNAYNSLADLPKQLINQLEFHFSHYKDLKKPG---TTVVESWG
+DVEEAK------EVIKESIQRWKDL---------------------------------------------
+--------*
+>P1;gi|23015814|ref|ZP_00055580.1| COG0221: Inorganic pyrophosphatas... [ score 155 E 8e-37 ] [ range 39 .. 214 ]
+sequence
+-------------------------------IPIGKNPPRDV-NVVIEIPRGD-PVKYEICKES------
+-----GAMFVDRFLNTAMYYPVNYGFVPHTL------------SADGDPVDVMVVGRIPVAVGSVMRSRP
+IGVLLMEDEAGMDEKILAVPH--AKPFYDGVNSYEDLPKI---LVQQIEHFFVHYKDLE---GKWVQLKG
+WGGP----ERAGQIIQESIDRAIAAKPKKK----------------------------------------
+--------*

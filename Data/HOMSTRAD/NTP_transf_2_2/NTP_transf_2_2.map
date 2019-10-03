@@ -1,0 +1,410 @@
+>P1;1fa0b
+structureX:1fa0: 352 :B: 530 :B:poly(A) polymerase:Saccharomyces cerevisiae: 2.60: 23.3
+NDFFFRYKFYLEITAYTRGSDEQHLKWSGLVESKVRLLVMKLEVLAGIKIAHPFTKPFESSYCCPTEDDY
+EMIQDKYGSHKTETALNALKLVT------------PKAYLSTMYIGLDFNK------VDIHIPCTEFVNL
+CRSFNEDYGDHKVFNLALRFVKGYDLPDEVFDENEKRPS*
+>P1;1fa0a
+structureX:1fa0: 352 :A: 523 :A:poly(A) polymerase:Saccharomyces cerevisiae: 2.60: 23.3
+NDFFFRYKFYLEITAYTRGSDEQHLKWSGLVESKVRLLVMKLEVLAGIKIAHPFTKPFESSYCCPTEDDY
+EMIQD------------KLKLVTDENKEEESIKDAPKAYLSTMYIGLDFNIENKKEKVDIHIPCTEFVNL
+CRSFNEDYGDHKVFNLALRFVKGYDLPDEVFD-------*
+>P1;1f5aa
+structureX:1f5a: 365 :A: 498 :A:poly(A) polymerase:Bos taurus: 2.50: 21.9
+PNFFQKYKHYIVLLASAP-TEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAK---------
+-------------------------------------EEFRTWVIGLVFK--------DLTYDIQSFTDT
+VYRQAIN-SKFEVDKIAA-HVKRKQLHQLLP--------*
+>P1;gi|45185228|ref|NP_982945.1| ABL002Cp [Eremothecium gossypii] >g... [ score 230 E 1e-59 ] [ range 352 .. 527 ]
+sequence
+HDFFYKYKFYLTVMASTKGSDEQHLKWSGLVESKLRLLVLKLEVLSGINLAHPYTKPFESTYAYKTEEQY
+KEIFDNYGTHKTEDVLKKYTEVT------------NKVHITTMYIGLNIKK------IDIHVPCQEFFNL
+CRSFQE-YEDTETFSLVIKYVKLYDLPDHVYDEGEQRP-*
+>P1;gi|5771506|gb|AAD51407.1| unknown [Candida albicans] [ score 221 E 4e-57 ] [ range 351 .. 527 ]
+sequence
+HDFFFRYKFYLCIVAATRSTYAEHLKYSGMVESKLRLLVQKLELVEGIELAHPYVKSFENGYYCDNAEEA
+HEIMNLYGTSKAENNDNNKENVE------------NKVHMTKLFIGLKLKK------LDIQYPCAEFFNI
+CKGWQ-DFDSEKHF-IQIKNVKLYDLSDDVYVDGETRP-*
+>P1;gi|19112154|ref|NP_595362.1| poly A polymerase; Nucleotidyltrans... [ score 203 E 1e-51 ] [ range 351 .. 540 ]
+sequence
+HDFFHRYKHYLTITAAAKTAEAQ-LKWAGLVESKLRHLVTRLELVDAIALAHPFNKGFDKVYNCSSEEEA
+QQVASAYESSKADGSENGEKQIF------------P-VYTTTCYIGLELKR------LDISWPTQEFYEL
+CKKW--DKYDDTLMNVFIKNTKNTALPDEVFEPGEERP-*
+>P1;gi|40746747|gb|EAA65903.1| hypothetical protein AN0874.2 [Asperg... [ score 187 E 8e-47 ] [ range 359 .. 555 ]
+sequence
+HSFFTNYKYYLGVTASSRTKEAESV-WSGLVESKVRHLVGALDRKPTIAVAHPFPKGFERIHIVSNEEEA
+EAVKNKYQDKGTKTTTDEIKDAA------------HQAYTTTYYIGLELKP------VDISSDAQFFKSM
+CTSW-PGY-QPGINDLSITHVRNYDLPEDLFQEGEARPT*
+>P1;gi|38110655|gb|EAA56342.1| hypothetical protein MG06313.4 [Magna... [ score 171 E 3e-42 ] [ range 232 .. 447 ]
+sequence
+HTFFTKFKYYIQVIAASKDKE-SHKLWSGFVESKVRLLVQGLERHESIAVARPFIKGYDRSHRYYDDSQF
+NQIQDKNGTHKDEVAIKGFKGPS------------SDMYTTTFYIGLEL-R------PDLSFQVNDFKWL
+CAKYKEDLTELCFVN--IKDLRSFALPDDIFGPGETKP-*
+>P1;gi|9453844|dbj|BAB03278.1| poly A polymerase [Drosophila melanog... [ score 148 E 4e-35 ] [ range 174 .. 307 ]
+sequence
+-SFFYRYRHFIVLLVNSQTAD-DHLEWCGLVESKVRLLIGNLERNPHIALAHVNPKCFESQNNSGNEDDL
+KQSQGNQSA------------VT------------SAPFCSMWFIGLEFER------SELNVDLTESI--
+-QNFTEHVMMHGVN---IKMLK-----------------*
+>P1;gi|31210613|ref|XP_314273.1| ENSANGP00000018635 [Anopheles gambi... [ score 137 E 8e-32 ] [ range 368 .. 497 ]
+sequence
+-SFFYRYRHFIVLLVTSSNAD-DHLEWCGLVESKIRYLIQNLERNQHINLAHVNPKCYEQH---------
+--------EQNSATTLNGADG-K------------PTPFCSLWFIGLEFER------SELNVDLTESI--
+-QSFTDSVHKHAVMKIEARHVR-----------------*
+>P1;gi|19073993|ref|NP_584599.1| POLY (A) POLYMERASE TYPE 1 [Encepha... [ score 137 E 1e-31 ] [ range 352 .. 483 ]
+sequence
+SDFFSRYRLFVEVLAMS-SCEEDFPKWEGYLESKIRILASKFEAVDDVLYAIPFPKAFRVA-----EESI
+EKIGPRMEGMKKCTAF----------------------FIAIDVIPVKGKK------VIVEQQVKEFIEF
+VREYEASGMRIEVNSLKRKDVQGF---------------*
+>P1;gi|37202114|ref|NP_064529.3| poly(A) polymerase beta (testis spe... [ score 122 E 2e-27 ] [ range 367 .. 475 ]
+sequence
+-SFFQKYKHYIVLLA-SASTEKQHLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAPKENPDMEEF
+R---------------------------------------TMWVIGLGLKK------PDLSIDLTYDI--
+-QSFTDTVYRQAVNS------------------------*
+>P1;gi|13365529|dbj|BAB39138.1| poly(A) polymerase [Carassius auratus] [ score 122 E 2e-27 ] [ range 367 .. 480 ]
+sequence
+-NFFQKYKHYIVLTA-SASTEENHLEWIGLVESKIRVLVGNLERNEYITLAHVNPQSFPGSKENHNENE-
+--------------------------------------FVSMWFIGISFKK------LDVNIDLTYDI--
+-QSFTDTVYRQASNINMLKD-------------------*
+>P1;gi|41054866|ref|NP_956915.1| hypothetical protein MGC63762 [Dani... [ score 122 E 4e-27 ] [ range 367 .. 480 ]
+sequence
+-NFFQQYRHYIVLTA-SASTEENHLEWIGLVESKIRVLVGNLERNEYITLAHVNPQSFPGSKENRNEND-
+--------------------------------------FVSMWFIGISFKK------LDVNIDLTYDI--
+-QSFTDTVYRQASNINMLKD-------------------*
+>P1;gi|27662566|ref|XP_221938.1| similar to testis-specific poly(A) ... [ score 121 E 5e-27 ] [ range 367 .. 508 ]
+sequence
+-SFFQKYKHYIVLLA-SAPTEKQHLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAPKENVDKEEF
+R---------------------------------------TMWVIGLVLKK------PELSIDLTYDI--
+-QSFTDTVYRQAINSIAAMHLRRKELPNHVLQKKET---*
+>P1;gi|3127182|gb|AAC16061.1| poly(A) polymerase II [Gallus gallus] [ score 120 E 1e-26 ] [ range 248 .. 392 ]
+sequence
+-NFFQKYKHYIVLLA-SAPTEKQRLEWVGLVESKIRILVGNLEKNEFITLAHVNPQSFPAPKENPDKEEY
+R---------------------------------------TMWVIGLVFKK------TELSVDLTYDI--
+-QSFTDTVYRQAINSIAARHVKRKQLPNHVLQKKKKHST*
+>P1;gi|38303906|gb|AAH61931.1| Pap protein [Xenopus laevis] [ score 112 E 2e-24 ] [ range 363 .. 471 ]
+sequence
+-NFFQKYKHYILLLA-SAPTEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAPSENSEKEEF
+R---------------------------------------TMWVIGLVFKK------MELSVDLTYDI--
+-QSFTDTVYRQAINS------------------------*
+>P1;gi|1709571|sp|P51004|PAP1_XENLA Poly(A) polymerase type 1 (PAP) ... [ score 111 E 6e-24 ] [ range 348 .. 456 ]
+sequence
+-NFFQKYKHYILLLA-SAPTEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPRSFPAPSENMEKEEF
+R---------------------------------------TMWVIGLVFKK------MELSVDLTYDI--
+-QSFTDTVDRQAINS------------------------*
+>P1;gi|34879222|ref|XP_223690.2| similar to RIKEN cDNA 9630006B20 [R... [ score 109 E 2e-23 ] [ range 365 .. 478 ]
+sequence
+-NFFQKYRHYIVLTA-SASTEENHLEWVGLVESKIRVLVGNLERNEFITLAHVNPQSFP-----------
+----GNKEHHKANN------------------------YVSMWFLGIIFRR------VEVNIDLTYDI--
+-QSFTDTVYRQANNINMLKD-------------------*
+>P1;gi|108862|pir||S18642 polynucleotide adenylyltransferase (EC 2.7... [ score 109 E 3e-23 ] [ range 366 .. 474 ]
+sequence
+-NFFQKYQHDIVLLA-SAPTEKQRLEWVGLVESKIRILVGSLEKNEFMTLAHVNPQSFPAPKENPDKEEF
+R---------------------------------------TMWVIGLVFNK------TELSVDLTYDI--
+-QSFTDTVYRQAINS------------------------*
+>P1;gi|32421863|ref|XP_331375.1| hypothetical protein [Neurospora cr... [ score 105 E 4e-22 ] [ range 355 .. 453 ] [ duplicate a ]
+sequence
+HTFFTNFKFYLTVISSGRTKEAQN-TWSGFVESRVRVLVQKLELHPSIALARPFNKGYDRVHRCKTDAQV
+EEIQTTYMVKPTDIAANGSAKND------------SKV--------------------------------
+---------------------------------------*
+>P1;gi|32421863|ref|XP_331375.1| hypothetical protein [Neurospora cr... [ score 105 E 4e-22 ] [ range 491 .. 586 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------PEDNSV
+KPEANDYDEDKVKLEDIPEKEPE------------LEIYTTNHYIGLQLKS------LDLSREVDDFKAM
+CTS--NDIFKAELMGLTIQHVRNFDLPDDVFEPGET---*
+>P1;gi|17565368|ref|NP_505683.1| poly polymerase (73.6 kD) (5K925) [... [ score 77 E 1e-13 ] [ range 362 .. 491 ]
+sequence
+-NFFSRYKHFIALI-MAAPNEEEELNYGGFLESRIRLLVQSLERNQDIIIAHNDPKPSPNAKFDVNPE--
+------------------------------------NKRVTVWFIGLEFKT------LDLTNEIQRFKEL
+QASNVKGIGPNCQVQIDMFYVKRNSL-------------*
+>P1;gi|17533995|ref|NP_496524.1| poly polymerase   family member (2M... [ score 76 E 3e-13 ] [ range 369 .. 489 ]
+sequence
+-NFFSRYKHFIS-LSMTAETEKDELAFGGFFESRIRQLVLILEKNQGIKLAHINPKKFKAAK--------
+------------------------------------DPKKSVWFIGLQFKN------LDLTKDIQQFIDY
+QAKSVKDIEANCAVETDFSYVKRSDL-------------*
+>P1;gi|17536297|ref|NP_496067.1| poly polymerase   family member (2J... [ score 61 E 7e-09 ] [ range 364 .. 453 ]
+sequence
+-NFFSKYHHFIALKLKAESVKEE-LAFGGFFESRIRQLVQILEKNQVIQVAQINPRKFKDVK--------
+------------------------------------DPKKSIWFIGLEFKN------VDLTSDIQQFK--
+---------------------------------------*
+>P1;gi|42562141|ref|NP_173240.2| nucleotidyltransferase family prote... [ score 61 E 1e-08 ] [ range 359 .. 489 ]
+sequence
+--FFEAYKNYLQIDISAANVDDLR-KWKGWVESRLRQLTLKIERHFKMLHCHPHPHDFQDTSRPLHCSYF
+MGLQRKQGVPAA-----------------------------------EGEQ------FDIRRTVEEFKHT
+VNAYT--LWIPG-MEISVGHIKRRSLPNFVF-PGGVRPS*
+>P1;gi|39593343|emb|CAE64813.1| Hypothetical protein CBG09607 [Caeno... [ score 61 E 1e-08 ] [ range 363 .. 460 ]
+sequence
+--FFSRYKHYIGISDHGYIHRRRGIELWRFLESRIRLLVQSLERNQDILIAH------------------
+------NDTNKHRPSPNAKFDVR------------PETRITIWFIGLEFAE------LDLTSEIQRF---
+---------------------------------------*
+>P1;gi|42570181|ref|NP_849562.2| nucleotidyltransferase family prote... [ score 55 E 5e-07 ] [ range 369 .. 501 ]
+sequence
+--FFEAYKNYLQVDIVAADAE-DLLAWKGWVESRFRQLTLKIERTNGMLMCHPQPNEY-----VDTARQF
+LHCAFFMGLQRAEGVG-----------------------------GQECQQ------FDIRGTVDEFVNM
+YMFWKPG------MDVFVSHVRRRQLPPFVFPNGYRRP-*
+>P1;gi|30682917|ref|NP_850071.1| nucleotidyltransferase family prote... [ score 52 E 3e-06 ] [ range 371 .. 502 ]
+sequence
+--FFEAYKNYLQVDVLAADAE-DLLAWKGWVESRFRQLTLKIERTNGMLMCHPQPNEY-----VDTSKQF
+RHCAFFMGLQRADG-----------------------------FGGQECQQ------FDIRGTVDEFVNM
+YMFWRPGMDVH------VSHVRRRQLPSFVFPNGYKR--*
+>P1;gi|32488774|emb|CAE04327.1| OSJNBb0016D16.18 [Oryza sativa (japo... [ score 49 E 3e-05 ] [ range 353 .. 411 ]
+sequence
+-NFFGAYKSYLQVDVTVTGGEEDDLEWKGWVESRLRLLSARVEATSGMLLCHLHPQPY------------
+----------------------------------------------------------------------
+---------------------------------------*
+>P1;gi|45185228|ref|NP_982945.1| ABL002Cp [Eremothecium gossypii] >g... [ score 227 E 5e-59 ] [ range 352 .. 521 ]
+sequence
+HDFFYKYKFYLTVMASTKGSDEQHLKWSGLVESKLRLLVLKLEVLSGINLAHPYTKPFESTYAYKTEEQY
+KEIFD------------KYTEVTNENKDDESLKGMEKVHITTMYIGLNIAVDEK-KKIDIHVPCQEFFNL
+CRSFQE-YEDTETFSLVIKYVKLYDLPDHVYD-------*
+>P1;gi|19112154|ref|NP_595362.1| poly A polymerase; Nucleotidyltrans... [ score 205 E 3e-52 ] [ range 351 .. 534 ]
+sequence
+HDFFHRYKHYLTITAAAKTAEAQ-LKWAGLVESKLRHLVTRLELVDAIALAHPFNKGFDKVYNCSSEEEA
+QQVTD------------HEKLANDTVNEEKADNTESKAYTTTCYIGLE--LEKKKKRLDISWPTQEFYEL
+CKKW--DKYDDTLMNVFIKNTKNTALPDEVFE-------*
+>P1;gi|3334283|sp|O42617|PAP_CANAL Poly(A) polymerase (PAP) (Polynuc... [ score 191 E 3e-48 ] [ range 351 .. 518 ]
+sequence
+HSFFYKYKFYLCVVAASIDSAEEHKKWSGFIESKLRQLVLKLEVAEGVEIAHPYVKDFSNTFILDDKNAE
+DIIED------------FLRTLSDSDKDDEEFK---KIRLTKYYIGLDLNLTKSSRKLDIQYPCAEFYSI
+CKGSTS--FTEGVNFIQIKNVKLHELSNDVYE-------*
+>P1;gi|40746747|gb|EAA65903.1| hypothetical protein AN0874.2 [Asperg... [ score 187 E 7e-47 ] [ range 359 .. 548 ]
+sequence
+HSFFTNYKYYLGVTASSRTKEAESV-WSGLVESKVRHLVGALDRKPTIAVAHPFPKGFERIHIVSNEEEA
+EAVKN------------GSLKYQDKGTKTETDTDVPGAYTTTYYIGLELKPPGASRSLDISSDAQFFKSM
+CTSW-PGY-QPGINDLSITHVRNYDLPEDLFQ-------*
+>P1;gi|9453844|dbj|BAB03278.1| poly A polymerase [Drosophila melanog... [ score 134 E 7e-31 ] [ range 174 .. 294 ]
+sequence
+-SFFYRYRHFIVLLVNSQTAD-DHLEWCGLVESKVRLLIGNLERNPHIALAHVNPKCFEKGQSANNSQNN
+SGNED------------DLK---QSQGNQSAVTSAP--FCSMWFIGLEFERS-ENLNVDLTESIQNFTE-
+---------------------------------------*
+>P1;gi|38110655|gb|EAA56342.1| hypothetical protein MG06313.4 [Magna... [ score 131 E 7e-30 ] [ range 232 .. 440 ]
+sequence
+HTFFTKFKYYIQVIAASKDKE-SHKLWSGFVESKVRLLVQGLERHESIAVARPFIKGYDRSHRYYDDSQF
+NQILE------------GANLCQDKDPQPEAKPEVPKGPSSDMYIGLEL-------RPDLSFQVNDFKWL
+CYDWAKYKEDTELCFVNIKDLRSFALPDDIF--------*
+>P1;gi|17865669|sp|P51003|PAP_HUMAN Poly(A) polymerase alpha (PAP) (... [ score 127 E 7e-29 ] [ range 366 .. 454 ]
+sequence
+-NFFQKYKHYIVLLA-SAPTEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAPKENPDKEEF
+RMWVI------------GLVFKKTENSENLSV--------------------------------------
+---------------------------------------*
+>P1;gi|6473835|dbj|BAA87187.1| PolyA polymerase [Schizosaccharomyces... [ score 126 E 1e-28 ] [ range 119 .. 196 ]
+sequence
+HDFFHRYKHYLTITAAAKTAEAQ-LKWAGLVESKLRHLVTRLELVDAIALAHPFNKGFDKVYNCSSEEEA
+QQVAS------------GVTL-------------------------------------------------
+---------------------------------------*
+>P1;gi|21914853|ref|NP_035242.1| poly (A) polymerase alpha [Mus musc... [ score 124 E 4e-28 ] [ range 366 .. 454 ]
+sequence
+-NFFQKYKHYIVLLA-SAPTEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAPKESPDREEF
+RMWVI------------GLVFKKTENSENLSV--------------------------------------
+---------------------------------------*
+>P1;gi|9910588|ref|NP_064327.1| poly (A) polymerase beta (testis spe... [ score 122 E 2e-27 ] [ range 367 .. 455 ]
+sequence
+-SFFQKYKHYIVLLA-SAPTEKQHLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAPKETADKEEF
+RMWVI------------GLVLKKPENSEILSI--------------------------------------
+---------------------------------------*
+>P1;gi|42550867|gb|EAA73710.1| hypothetical protein FG05389.1 [Gibbe... [ score 122 E 2e-27 ] [ range 357 .. 454 ]
+sequence
+HSFFTAYKYYISVISAAK-TKESHTIWSGYVESKVRMLVQKLEQHQSIALAHPFNKGYERQHRCQNEKEI
+EAVQE------------GLDFLSKEDTEPTTIKIEPAV--------------------------------
+---------------------------------------*
+>P1;gi|34879222|ref|XP_223690.2| similar to RIKEN cDNA 9630006B20 [R... [ score 112 E 2e-24 ] [ range 365 .. 462 ]
+sequence
+-NFFQKYRHYIVLTA-SASTEENHLEWVGLVESKIRVLVGNLERNEFITLAHVNPQSFPG-----NKEHH
+KANN----------------------------------YVSMWFLGIIFRVENESVNIDLTYDIQSF---
+---------------------------------------*
+>P1;gi|31210613|ref|XP_314273.1| ENSANGP00000018635 [Anopheles gambi... [ score 107 E 8e-23 ] [ range 368 .. 471 ]
+sequence
+-SFFYRYRHFIVLLVTSSNAD-DHLEWCGLVESKIRYLIQNLERNQHINLAHVNPKCY---------EQH
+E--QN------------SATTLNGADGK-------PTPFCSLWFIGLEFERS-ENLNVDLTESIQSF---
+---------------------------------------*
+>P1;gi|32421863|ref|XP_331375.1| hypothetical protein [Neurospora cr... [ score 105 E 4e-22 ] [ range 499 .. 582 ] [ duplicate b ]
+sequence
+-------------------------------------------------------------------EAN
+DYDED------------KVKLEDIPEKEPE-----LEIYTTNHYIGLQL-VEGA-KSLDLSREVDDFKAM
+CTS--NDIFKAELMGLTIQHVRNFDLPDDVFE-------*
+>P1;gi|17565368|ref|NP_505683.1| poly polymerase (73.6 kD) (5K925) [... [ score 79 E 3e-14 ] [ range 362 .. 460 ]
+sequence
+-NFFSRYKHFIALI-MAAPNEEEELNYGGFLESRIRLLVQSLERNQDIIIAH---------------NDP
+NKHKP------------SPNAKFDVNPENK--------RVTVWFIGLEFA--EHAKTLDLTNEIQRFK--
+---------------------------------------*
+>P1;gi|17533995|ref|NP_496524.1| poly polymerase   family member (2M... [ score 74 E 1e-12 ] [ range 369 .. 458 ]
+sequence
+-NFFSRYKHFISL-SMTAETEKDELAFGGFFESRIRQLVLILEKNQGIKLAHINPKKFKAA---------
+------------------------KDPKK-----------SVWFIGLQFDENVKN--LDLTKDIQQFK--
+---------------------------------------*
+>P1;gi|39593343|emb|CAE64813.1| Hypothetical protein CBG09607 [Caeno... [ score 61 E 1e-08 ] [ range 363 .. 460 ]
+sequence
+--FFSRYKHYIGISDHGYIHRRRGIELWRFLESRIRLLVQSLERNQDILIAH---------------NDT
+NKHRP------------SPNAKFDVRPENT--------RITIWFIGLEFA--EHATNLDLTSEIQRF---
+---------------------------------------*
+>P1;gi|17536297|ref|NP_496067.1| poly polymerase   family member (2J... [ score 59 E 3e-08 ] [ range 364 .. 453 ]
+sequence
+-NFFSKYHHFIALKLKAESVKEE-LAFGGFFESRIRQLVQILEKNQVIQVAQINPRKF------------
+--------------------------------KDVKDPKKSIWFIGLEFVANVKN--VDLTSDIQQFK--
+---------------------------------------*
+>P1;gi|42562141|ref|NP_173240.2| nucleotidyltransferase family prote... [ score 59 E 3e-08 ] [ range 359 .. 482 ]
+sequence
+--FFEAYKNYLQIDISAANVDDLR-KWKGWVESRLRQLTLKIERHFKMLHCHPHPHDFQDTSR-------
+------------------------------------PLHCS-YFMGLQRKQGVEGEQFDIRRTVEEFKHT
+VNAWIPG------MEISVGHIKRRSLPNFVF--------*
+>P1;gi|7488023|pir||T10692 polynucleotide adenylyltransferase homolo... [ score 49 E 3e-05 ] [ range 368 .. 493 ]
+sequence
+--FFEAYKNYLQVDIVAADAE-DLLAWKGWVESRFRQLTLKIERTNGMLMCHPQP---------------
+----------------------------NEYVDTARQFLHCAFFMGLQRAEGVGGQQFDIRGTVDEFVNM
+YMFWKPG------MDVFVSHVRRRQLPPFVF--------*
+>P1;gi|23489018|gb|EAA21462.1| poly(A) polymerase III [Plasmodium yo... [ score 46 E 2e-04 ] [ range 474 .. 591 ]
+sequence
+-DLFKTYKHFLHIQIMG-TNELIYNLWKGWIESKIRLLFKKLETINELKI-RPFPKFY------------
+------------------------------TYKKDKFYYCSSFFIALIFFFKNPYDNFNLSYAIRDFIDI
+VLNWPQKNKYTNSFKINISYQK-----------------*
+>P1;gi|23612334|ref|NP_703914.1| poly(A) polymerase PAP, putative [P... [ score 45 E 7e-04 ] [ range 458 .. 575 ]
+sequence
+-DLFSTYKHFLHIQIMGIN-EFIYNSWKGWIESKIRLLFKKLETINELKI-----RPFPKFYFYKKEKSY
+--------------------------------------YCSSFFIALIFFYKNPYENFNLSYAIRDFIDI
+ALNWPQKVKYPNAFKINIMYQK-----------------*
+>P1;gi|34879222|ref|XP_223690.2| similar to RIKEN cDNA 9630006B20 [R... [ score 200 E 6e-51 ] [ range 364 .. 497 ]
+sequence
+PNFFQKYRHYIVLTASAS-TEENHLEWVGLVESKIRVLVGNLERNEFITLAHVNPQSFPGN---------
+-------------------------------------KEHHMWFLGIIFR--------DLTYDIQSFTDT
+VYRQANN-INMLKDGMAT-HVKKKQLHHYLP--------*
+>P1;gi|13365529|dbj|BAB39138.1| poly(A) polymerase [Carassius auratus] [ score 199 E 9e-51 ] [ range 366 .. 499 ]
+sequence
+PNFFQKYKHYIVLTASAS-TEENHLEWIGLVESKIRVLVGNLERNEYITLAHVNPQSFPGS---------
+-------------------------------------KENHMWFIGISFK--------DLTYDIQSFTDT
+VYRQASN-INMLKDGMAT-HVKKKQLHHYLP--------*
+>P1;gi|41054866|ref|NP_956915.1| hypothetical protein MGC63762 [Dani... [ score 198 E 3e-50 ] [ range 366 .. 499 ]
+sequence
+PNFFQQYRHYIVLTASAS-TEENHLEWIGLVESKIRVLVGNLERNEYITLAHVNPQSFPGS---------
+-------------------------------------KENRMWFIGISFK--------DLTYDIQSFTDT
+VYRQASN-INMLKDGMAT-HVKKKQLHHYLP--------*
+>P1;gi|28207949|emb|CAD62628.1| unnamed protein product [Homo sapiens] [ score 188 E 3e-47 ] [ range 392 .. 525 ]
+sequence
+PNFFQKYKHYIVLLASAP-TEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAP---------
+-------------------------------------KENTMWVIGLVFK--------DLTYDIQSFTDT
+VYRQAIN-SKMEVDMAAM-HVKRKQLHQLLP--------*
+>P1;gi|21914853|ref|NP_035242.1| poly (A) polymerase alpha [Mus musc... [ score 186 E 7e-47 ] [ range 365 .. 498 ]
+sequence
+PNFFQKYKHYIVLLASAP-TEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAP---------
+-------------------------------------KESTMWVIGLVFK--------DLTYDIQSFTDT
+VYRQAIN-SKMLDMKIAA-HVKRKQLHQLLP--------*
+>P1;gi|3127182|gb|AAC16061.1| poly(A) polymerase II [Gallus gallus] [ score 186 E 8e-47 ] [ range 247 .. 380 ]
+sequence
+PNFFQKYKHYIVLLASAP-TEKQRLEWVGLVESKIRILVGNLEKNEFITLAHVNPQSFPAP---------
+-------------------------------------KENTMWVIGLVFK--------DLTYDIQSFTDT
+VYRQAIN-SKMFEMDMAR-HVKRKQLHQLLP--------*
+>P1;gi|38303906|gb|AAH61931.1| Pap protein [Xenopus laevis] [ score 184 E 3e-46 ] [ range 362 .. 495 ]
+sequence
+PNFFQKYKHYILLLASAP-TEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPEK---------
+-------------------------------------EEFRMWVIGLVFK--------DLTYDIQSFTDT
+VYRQAIN-SKMEMKIAAM-HVKRKQLHQLLP--------*
+>P1;gi|1709571|sp|P51004|PAP1_XENLA Poly(A) polymerase type 1 (PAP) ... [ score 181 E 2e-45 ] [ range 347 .. 480 ]
+sequence
+PNFFQKYKHYILLLASAP-TEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPRSFPEK---------
+-------------------------------------EEFRMWVIGLVFK--------DLTYDIQSFTDT
+VDRQAIN-SKMEMKIAAM-HVKRKQLHQLQP--------*
+>P1;gi|27662566|ref|XP_221938.1| similar to testis-specific poly(A) ... [ score 180 E 5e-45 ] [ range 366 .. 499 ]
+sequence
+PSFFQKYKHYIVLLASAP-TEKQHLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAP---------
+-------------------------------------KENTMWVIGLVLK--------DLTYDIQSFTDT
+VYRQAIN-SKMFEMDMAM-HLRRKELHQLLP--------*
+>P1;gi|37202114|ref|NP_064529.3| poly(A) polymerase beta (testis spe... [ score 179 E 8e-45 ] [ range 366 .. 499 ]
+sequence
+PSFFQKYKHYIVLLASAS-TEKQHLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAP---------
+-------------------------------------KENTMWVIGLGLK--------DLTYDIQSFTDT
+VYRQAVN-SKMFEMGMAV-HLRRKELHQLLP--------*
+>P1;gi|108862|pir||S18642 polynucleotide adenylyltransferase (EC 2.7... [ score 177 E 4e-44 ] [ range 365 .. 498 ]
+sequence
+PNFFQKYQHDIVLLASAP-TEKQRLEWVGLVESKIRILVGSLEKNEFMTLAHVNPQSFPAP---------
+-------------------------------------KENTMWVIGLVFV--------DLTYDIQSFTDT
+VYRQAIN-SKMEVDMAAM-HVKRKQLHQLLP--------*
+>P1;gi|31210613|ref|XP_314273.1| ENSANGP00000018635 [Anopheles gambi... [ score 169 E 1e-41 ] [ range 367 .. 505 ]
+sequence
+PSFFYRYRHFIVLLVTSS-NADDHLEWCGLVESKIRYLIQNLERNQHINLAHVNPKCYEQH---------
+-------------------------------------EQCSLWFIGLEFE--------DLTESIQSFTDS
+VHKHAVH-IKLLKDGMAR-HVRRKQLTQYL---------*
+>P1;gi|9453844|dbj|BAB03278.1| poly A polymerase [Drosophila melanog... [ score 164 E 3e-40 ] [ range 173 .. 326 ]
+sequence
+PSFFYRYRHFIVLLVNSQ-TADDHLEWCGLVESKVRLLIGNLERNPHIALAHVNPKCFEFK---------
+-------------------------------------KGCSMWFIGLEFE--------DLTESIQNFTEH
+VMMHGVN-IKMLKEGMAR-HVKRKQLSLYL---------*
+>P1;gi|17565368|ref|NP_505683.1| poly polymerase (73.6 kD) (5K925) [... [ score 161 E 3e-39 ] [ range 362 .. 495 ]
+sequence
+-NFFSRYKHFIALIMAAP-NEEEELNYGGFLESRIRLLVQSLERNQDIIIAHNDPNKHPEN---------
+-------------------------------------KRVTVWFIGLEFA--------DLTNEIQRFKTN
+VELQASN-VKCQVQIDMF-YVKRNSLIQVI---------*
+>P1;gi|17533995|ref|NP_496524.1| poly polymerase   family member (2M... [ score 159 E 2e-38 ] [ range 369 .. 493 ]
+sequence
+-NFFSRYKHFISLSMTAE-TEKDELAFGGFFESRIRQLVLILEKNQGIKLAHINPKKFKAA---------
+-------------------------------------KDPKVWFIGLQFD--------DLTKDIQQFKRN
+IDYQAIE-ANCAVETDFS-YVKRSDLAQTI---------*
+>P1;gi|17536297|ref|NP_496067.1| poly polymerase   family member (2J... [ score 144 E 4e-34 ] [ range 364 .. 488 ]
+sequence
+-NFFSKYHHFIALKLKAE-SVKEELAFGGFFESRIRQLVQILEKNQVIQVAQINPRKFKDV---------
+-------------------------------------KDPKIWFIGLEFV--------DLTSDIQQFKMN
+IDRQSMS-VKCQVETDFT-YEKRSNLINII---------*
+>P1;gi|39593343|emb|CAE64813.1| Hypothetical protein CBG09607 [Caeno... [ score 137 E 4e-32 ] [ range 363 .. 496 ]
+sequence
+--FFSRYKHYIGISDHGY-IHRRRIELWRFLESRIRLLVQSLERNQDILIAHNDTNKHPEN---------
+-------------------------------------TRITIWFIGLEFA--------DLTSEIQRFRTN
+VELQASG-VKSQVEIDMF-YMKRTRLFSII---------*
+>P1;gi|45185228|ref|NP_982945.1| ABL002Cp [Eremothecium gossypii] >g... [ score 94 E 4e-19 ] [ range 353 .. 417 ]
+sequence
+-DFFYKYKFYLTVMASTK-SDEQHLKWSGLVESKLRLLVLKLEVLSGINLAHPYTKPFEST---------
+-------------------------------------YAYKT----------------------------
+---------------------------------------*
+>P1;gi|19112154|ref|NP_595362.1| poly A polymerase; Nucleotidyltrans... [ score 93 E 2e-18 ] [ range 352 .. 414 ]
+sequence
+-DFFHRYKHYLTITAAAK-TAEAQLKWAGLVESKLRHLVTRLELVDAIALAHPFNKGFDKV---------
+-------------------------------------YNCS-----------------------------
+---------------------------------------*
+>P1;gi|40746747|gb|EAA65903.1| hypothetical protein AN0874.2 [Asperg... [ score 91 E 3e-18 ] [ range 362 .. 417 ]
+sequence
+--FTNDYKYYLGVTASSR-TKEAESVWSGLVESKVRHLVGALDRKPTIAVAHPFPKGFE-----------
+----------------------------------------------------------------------
+---------------------------------------*
+>P1;gi|42550867|gb|EAA73710.1| hypothetical protein FG05389.1 [Gibbe... [ score 89 E 1e-17 ] [ range 360 .. 420 ]
+sequence
+--FTAGYKYYISVISAAK-TKESHTIWSGYVESKVRMLVQKLEQHQSIALAHPFNKGYERQ---------
+-------------------------------------HRC------------------------------
+---------------------------------------*
+>P1;gi|32421863|ref|XP_331375.1| hypothetical protein [Neurospora cr... [ score 76 E 1e-13 ] [ range 358 .. 420 ]
+sequence
+--FTNGFKFYLTVISSGR-TKEAQNTWSGFVESRVRVLVQKLELHPSIALARPFNKGYDRV---------
+-------------------------------------HRCKT----------------------------
+---------------------------------------*
+>P1;gi|38110655|gb|EAA56342.1| hypothetical protein MG06313.4 [Magna... [ score 75 E 3e-13 ] [ range 235 .. 295 ]
+sequence
+--FTKDFKYYIQVIAASK-DKESHKLWSGFVESKVRLLVQGLERHESIAVARPFIKGYDRS---------
+-------------------------------------HRY------------------------------
+---------------------------------------*
+>P1;gi|42570181|ref|NP_849562.2| nucleotidyltransferase family prote... [ score 66 E 2e-10 ] [ range 369 .. 489 ]
+sequence
+--FFEAYKNYLQVDIVAA-DAEDLLAWKGWVESRFRQLTLKIERDNGMLMCHPQPNEYVDT---------
+-------------------------------------ARHCAFFMGLQRA--------EGVQECQQFRGT
+VDRQEVN-MYMFMDVFVS-HVRRRQL-------------*
+>P1;gi|30682917|ref|NP_850071.1| nucleotidyltransferase family prote... [ score 65 E 3e-10 ] [ range 371 .. 491 ]
+sequence
+--FFEAYKNYLQVDVLAA-DAEDLLAWKGWVESRFRQLTLKIERDNGMLMCHPQPNEYVDT---------
+-------------------------------------SRHCAFFMGLQRA--------DGGQECQQFRGT
+VDRQEVN-MYMFMDVHVS-HVRRRQL-------------*
+>P1;gi|42562141|ref|NP_173240.2| nucleotidyltransferase family prote... [ score 61 E 7e-09 ] [ range 359 .. 477 ]
+sequence
+--FFEAYKNYLQIDISAA-NVDDLRKWKGWVESRLRQLTLKIERHFKMLHCHPHPHDFQDT---------
+-------------------------------------SRPCSYFMGLQRK--------DIRRTVEEFKHT
+VNAYTLW-IP-GMEISVG-HIKRRSL-------------*
+>P1;gi|32488774|emb|CAE04327.1| OSJNBb0016D16.18 [Oryza sativa (japo... [ score 54 E 8e-07 ] [ range 353 .. 486 ]
+sequence
+-NFFGAYKSYLQVTVTGG-EEDDLREWKGWVESRLRLLSARVEADSGMLLCHLHPQPYPHN---------
+-------------------------------------ERTSSFFVGLSLF--------DLRATTEGFKEE
+VYMYDY--WRPGMEVAVA-HVRRKDLPSYV---------*
+>P1;gi|23489018|gb|EAA21462.1| poly(A) polymerase III [Plasmodium yo... [ score 47 E 1e-04 ] [ range 474 .. 570 ]
+sequence
+-DLFKTYKHFLHIQIMGT-NELIYNLWKGWIESKIRLLFKKLETINELKI-RPFPKFYTYK---------
+-------------------------------------KDCSSFFIALIFF--------NLSYAIRDFIDI
+V--------------------------------------*
+>P1;gi|23612334|ref|NP_703914.1| poly(A) polymerase PAP, putative [P... [ score 45 E 4e-04 ] [ range 458 .. 552 ]
+sequence
+-DLFSTYKHFLHIQIMGI-NEFIYNSWKGWIESKIRLLFKKLETINELKI-RPFPKFYFYK---------
+-------------------------------------KECSSFFIALIFF--------NLSYAIRDFID-
+---------------------------------------*
+>P1;gi|43445183|gb|EAD77214.1| unknown [environmental sequence] [ score 44 E 0.001 ] [ range 2 .. 124 ]
+sequence
+------------VTVSAK-TEEDFKKWEGWVGSRVKLLIQGIENTNGQMLAHPGTARYKDP---------
+-------------------------------------EKHVILFLGLVAM--------NLNPAVEQFQMM
+VDRATGE-SNW-VPGMAA-HMKKKNLPSFL---------*

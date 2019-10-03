@@ -1,0 +1,912 @@
+>P1;1i5hw
+structureX:1i5h: 450 :W: 499 :W:RNEDD4 WWIII domain-Renac Bp2 peptide complex:Rattus norvegicus: -1: -1
+GSPVDSNDLGPLPPGWEERTHT-DGRVFFINHNIKKTQWEDPRMQNVAITG*
+>P1;1pina
+structureX:1pin:   6 :A:  39 :A:peptidyl-prolyl cis-trans isomerase NIMA-interacting 1:Homo sapiens: 1.35: 22.3
+----------KLPPGWEKRMSRSSGRVYYFNHITNASQWERPSG-------*
+>P1;1e0la
+structureX:1e0l:   1 :A:  37 :A:formin binding protein Fbp 28:Mus musculus: -1: -1
+G--------ATAVSEWTEYKTA-DGKTYYYNNRTLESTWEKPQELK-----*
+>P1;1eg4a
+structureX:1eg4:  47 :A:  84 :A:dystrophin:Homo sapiens: 2.00: 19.7
+-PASQHFLSTSVQGPWERAISPN-KVPYYINHETQTTCWD-----------*
+>P1;gi|34864340|ref|XP_343428.1| neural precursor cell expressed, de... [ score 99 E 2e-20 ] [ range 526 .. 574 ] [ duplicate a ]
+sequence
+-TPVDSNDLGPLPPGWEERTHT-DGRVFFINHNIKKTQWEDPRMQNVAITG*
+>P1;gi|34864340|ref|XP_343428.1| neural precursor cell expressed, de... [ score 99 E 2e-20 ] [ range 479 .. 511 ] [ duplicate b ]
+sequence
+-----------LPPGWEEKQDD-RGRSYYVDHNSKTTTWSKPTMQ------*
+>P1;gi|34864340|ref|XP_343428.1| neural precursor cell expressed, de... [ score 99 E 2e-20 ] [ range 322 .. 352 ] [ duplicate c ]
+sequence
+----------PLPPGWEERQDV-LGRTYYVNHESRTTQWKRP---------*
+>P1;gi|2137588|pir||I83196 NEDD-4 ORF - mouse (fragment) [ score 96 E 3e-19 ] [ range 246 .. 291 ] [ duplicate a ]
+sequence
+----DSNDLGPLPPGWEERTHT-DGRVFFINHNIKKTQWEDPRLQNVAITG*
+>P1;gi|24665984|ref|NP_730282.1| CG7555-PC [Drosophila melanogaster]... [ score 92 E 3e-18 ] [ range 403 .. 447 ] [ duplicate a ]
+sequence
+-----EDDLGPLPEGWEERVHT-DGRVFYIDHNTRTTQWEDPRLSNPNIAG*
+>P1;gi|24665984|ref|NP_730282.1| CG7555-PC [Drosophila melanogaster]... [ score 92 E 3e-18 ] [ range 239 .. 277 ] [ duplicate b ]
+sequence
+--PFPTGGHDALPAGWEERQDA-NGRTYYVNHTARTTQWDRP---------*
+>P1;gi|24665984|ref|NP_730282.1| CG7555-PC [Drosophila melanogaster]... [ score 92 E 3e-18 ] [ range 345 .. 388 ] [ duplicate c ]
+sequence
+-PPMEQNEEEPLPPRWSMQVAP-NGRTFFIDHASRRTTWIDPR--------*
+>P1;gi|38257151|ref|NP_940682.1| neural precursor cell expressed, de... [ score 92 E 4e-18 ] [ range 816 .. 860 ] [ duplicate a ]
+sequence
+-----SNDLGPLPPGWEERTHT-DGRIFYINHNIKRTQWEDPRLENVAITG*
+>P1;gi|38257151|ref|NP_940682.1| neural precursor cell expressed, de... [ score 92 E 4e-18 ] [ range 768 .. 805 ] [ duplicate b ]
+sequence
+---------GFLPKGWEVRHAP-NGRPFFIDHNTKTTTWEDPRLKIPA---*
+>P1;gi|38257151|ref|NP_940682.1| neural precursor cell expressed, de... [ score 92 E 4e-18 ] [ range 697 .. 729 ] [ duplicate c ]
+sequence
+-----------LPPGWEEKQDE-RGRSYYVDHNSRTTTWTKPTVQ------*
+>P1;gi|38257151|ref|NP_940682.1| neural precursor cell expressed, de... [ score 92 E 4e-18 ] [ range 532 .. 569 ] [ duplicate d ]
+sequence
+---QQQQEPSPLPPGWEERQDI-LGRTYYVNHESRRTQWKRP---------*
+>P1;gi|2347056|emb|CAA03915.1| Nedd4 protein [Xenopus laevis] [ score 91 E 5e-18 ] [ range 536 .. 584 ] [ duplicate a ]
+sequence
+-ASLNPNDLGPLPPGWEERIHM-DGRTFYIDHNTKITQWEDPRLQNPAITG*
+>P1;gi|2347056|emb|CAA03915.1| Nedd4 protein [Xenopus laevis] [ score 91 E 5e-18 ] [ range 495 .. 526 ] [ duplicate b ]
+sequence
+-----------LPPGWEMRIAP-NGRPFFIDHNTKTTTWEDPRL-------*
+>P1;gi|2347056|emb|CAA03915.1| Nedd4 protein [Xenopus laevis] [ score 91 E 5e-18 ] [ range 383 .. 416 ] [ duplicate c ]
+sequence
+-----------LPSGWEERKDA-KGRTYYVNHNNRTTTWTRPIVQH-----*
+>P1;gi|2347056|emb|CAA03915.1| Nedd4 protein [Xenopus laevis] [ score 91 E 5e-18 ] [ range 191 .. 227 ] [ duplicate d ]
+sequence
+----------PMPPGWEEKVDN-LGRTYYVNHNNKSTQWQRPSLIDVA---*
+>P1;gi|34932068|ref|XP_214557.2| similar to ubiquitin-protein ligase... [ score 91 E 5e-18 ] [ range 718 .. 766 ] [ duplicate a ]
+sequence
+-ASLNPNDLGPLPPGWEERIHL-DGRTFYIDHNSKITQWEDPRLQNPAITG*
+>P1;gi|34932068|ref|XP_214557.2| similar to ubiquitin-protein ligase... [ score 91 E 5e-18 ] [ range 275 .. 307 ] [ duplicate c ]
+sequence
+----------PLPPGWEEKVDN-LGRTYYVNHNNRSTQWHRPSL-------*
+>P1;gi|21619660|gb|AAH32597.1| NEDD4L protein [Homo sapiens] [ score 91 E 8e-18 ] [ range 476 .. 524 ] [ duplicate a ]
+sequence
+-TSLNPNDLGPLPPGWEERIHL-DGRTFYIDHNSKITQWEDPRLQNPAITG*
+>P1;gi|21619660|gb|AAH32597.1| NEDD4L protein [Homo sapiens] [ score 91 E 8e-18 ] [ range 194 .. 226 ] [ duplicate c ]
+sequence
+----------PLPPGWEEKVDN-LGRTYYVNHNNRTTQWHRPSL-------*
+>P1;gi|34870386|ref|XP_221895.2| similar to RIKEN cDNA 4930431E10 [R... [ score 91 E 1e-17 ] [ range 784 .. 826 ]
+sequence
+---VNCDELGPLPPGWEVRSTV-SGRIYFVDHNNRTTQFTDPRLHHI----*
+>P1;gi|31207705|ref|XP_312819.1| ENSANGP00000003206 [Anopheles gambi... [ score 88 E 5e-17 ] [ range 626 .. 671 ] [ duplicate a ]
+sequence
+----SDDNLGPLPEGWEERVHS-DGRTFFIDHNTRTTQWDDPRLSNPKIAG*
+>P1;gi|31207705|ref|XP_312819.1| ENSANGP00000003206 [Anopheles gambi... [ score 88 E 5e-17 ] [ range 245 .. 276 ] [ duplicate b ]
+sequence
+---------DALPPGWEVRQDP-VGRMYYVNHIARTTQWERP---------*
+>P1;gi|31207705|ref|XP_312819.1| ENSANGP00000003206 [Anopheles gambi... [ score 88 E 5e-17 ] [ range 577 .. 608 ] [ duplicate c ]
+sequence
+-----------LPPGWAVQVAS-NGRLFFIDHINKTTSWVDPRT-------*
+>P1;gi|19401480|gb|AAL87621.1| late domain-interacting protein 1 [Ga... [ score 87 E 7e-17 ] [ range 510 .. 558 ] [ duplicate a ]
+sequence
+-ASLNPNDLGPLPPGWEERIHL-DGRTFYIDHNNKITQWEDPRLQNPAITG*
+>P1;gi|31317292|ref|NP_065162.1| Smad ubiquitination regulatory fact... [ score 87 E 8e-17 ] [ range 235 .. 270 ] [ duplicate b ]
+sequence
+----------ELPEGYEQRTTV-QGQVYFLHTQTGVSTWHDPRIPSP----*
+>P1;gi|14010861|ref|NP_114087.1| neural precursor cell expressed, de... [ score 87 E 1e-16 ] [ range 420 .. 468 ] [ duplicate a ]
+sequence
+-ASLNPNDLGPLPPGWEGRIHL-DGRTFYIDHNSKITQWEDPRLQNPAITG*
+>P1;gi|31204757|ref|XP_311327.1| ENSANGP00000021314 [Anopheles gambi... [ score 86 E 2e-16 ] [ range 486 .. 530 ] [ duplicate a ]
+sequence
+-----EDGLAPLPEGWEERVHS-DGRIFFIDHNTRTTQWEDPRLSIPNIAG*
+>P1;gi|31204757|ref|XP_311327.1| ENSANGP00000021314 [Anopheles gambi... [ score 86 E 2e-16 ] [ range 433 .. 464 ] [ duplicate b ]
+sequence
+-----------LPAGWSMQLAP-NGRVFFIDHNERKTSWVDPRT-------*
+>P1;gi|7288611|gb|AAF45194.1| ubiquitin-protein ligase Nedd4 [Orycto... [ score 86 E 3e-16 ] [ range 372 .. 421 ] [ duplicate a ]
+sequence
+-APLDSSDLGPLPPGWEERTHT-DGRIFYINHNIKKTQWEDPRLQNAAITG*
+>P1;gi|7288611|gb|AAF45194.1| ubiquitin-protein ligase Nedd4 [Orycto... [ score 86 E 3e-16 ] [ range 321 .. 366 ] [ duplicate b ]
+sequence
+-PQLAEVEQGFLPKGWEVRHAP-NGSPFFIDHNTKTTTWEDPRLKIPA---*
+>P1;gi|7288611|gb|AAF45194.1| ubiquitin-protein ligase Nedd4 [Orycto... [ score 86 E 3e-16 ] [ range 257 .. 289 ] [ duplicate c ]
+sequence
+-----------LPPGWEEKQDE-RGRSYYVDHNSRTTTWTKPAVQ------*
+>P1;gi|39589476|emb|CAE74505.1| Hypothetical protein CBG22256 [Caeno... [ score 85 E 4e-16 ] [ range 366 .. 409 ] [ duplicate a ]
+sequence
+------DEIGALPPGWEQRVHV-DGRVFFIDHNRRRTQWEDPRFENENIAG*
+>P1;gi|39589476|emb|CAE74505.1| Hypothetical protein CBG22256 [Caeno... [ score 85 E 4e-16 ] [ range 310 .. 352 ] [ duplicate b ]
+sequence
+GHDEEEEDDLRLPDGWDMQVAP-NGRTFFIDHRTKTTTWTDPRT-------*
+>P1;gi|39589476|emb|CAE74505.1| Hypothetical protein CBG22256 [Caeno... [ score 85 E 4e-16 ] [ range 173 .. 202 ] [ duplicate c ]
+sequence
+-----------IPQGWEEREDG-NGRTVYINHALRTTQFTPP---------*
+>P1;gi|12232397|ref|NP_073576.1| E3 ubiquitin ligase SMURF2 [Homo sa... [ score 84 E 6e-16 ] [ range 289 .. 330 ] [ duplicate a ]
+sequence
+-SNINCEELGPLPPGWEIRNTA-TGRVYFVDHNNRTTQFTDPRL-------*
+>P1;gi|12232397|ref|NP_073576.1| E3 ubiquitin ligase SMURF2 [Homo sa... [ score 84 E 6e-16 ] [ range 146 .. 188 ] [ duplicate b ]
+sequence
+GQVVDCSRLNDLPDGWEERRTA-SGRIQYLNHITRTTQWERP---------*
+>P1;gi|12232397|ref|NP_073576.1| E3 ubiquitin ligase SMURF2 [Homo sa... [ score 84 E 6e-16 ] [ range 253 .. 283 ] [ duplicate c ]
+sequence
+-----------LPEGYEQRTTQ-QGQVYFLHTQTGVSTWHDPR--------*
+>P1;gi|17865628|sp|Q9PUN2|SUF1_XENLA Smad ubiquitination regulatory ... [ score 84 E 8e-16 ] [ range 273 .. 315 ]
+sequence
+---VNCDDLGSLPAGWEVRTTV-SGRIYFVDHNNRTTQFTDPRLHHI----*
+>P1;gi|31238690|ref|XP_319824.1| ENSANGP00000016497 [Anopheles gambi... [ score 84 E 9e-16 ] [ range 467 .. 512 ] [ duplicate a ]
+sequence
+---EEDDGLGPLPDGWEKRVQP-DNRVYFVNHKNRTTQWEDPRTQGQEVS-*
+>P1;gi|31238690|ref|XP_319824.1| ENSANGP00000016497 [Anopheles gambi... [ score 84 E 9e-16 ] [ range 508 .. 549 ] [ duplicate b ]
+sequence
+GQEVSMLAEGPLPPGWEIRYTA-NGERFFVDHNNRKTTFEDPR--------*
+>P1;gi|31238690|ref|XP_319824.1| ENSANGP00000016497 [Anopheles gambi... [ score 84 E 9e-16 ] [ range 394 .. 424 ] [ duplicate c ]
+sequence
+----------PLPAGWEQRRDP-RGRVYYVDHNTRTTTWQRP---------*
+>P1;gi|31238690|ref|XP_319824.1| ENSANGP00000016497 [Anopheles gambi... [ score 84 E 9e-16 ] [ range 357 .. 392 ] [ duplicate d ]
+sequence
+--PIDDE---PLPAGWEMRVDK-FGRRYYVDHNTRSTYWEKP---------*
+>P1;gi|34859086|ref|XP_230770.2| similar to ubiquitin protein ligase... [ score 83 E 2e-15 ] [ range 436 .. 475 ] [ duplicate a ]
+sequence
+------DPLGPLPPGWEKRTDS-NGRVYFVNHNTRITQWEDPRSQGQ----*
+>P1;gi|34859086|ref|XP_230770.2| similar to ubiquitin protein ligase... [ score 83 E 2e-15 ] [ range 320 .. 358 ] [ duplicate b ]
+sequence
+--PLNTVSQAPLPPGWEQRVDQ-HGRVYYVDHVEKRTTWDRP---------*
+>P1;gi|34859086|ref|XP_230770.2| similar to ubiquitin protein ligase... [ score 83 E 2e-15 ] [ range 356 .. 396 ] [ duplicate c ]
+sequence
+------DRPEPLPPGWERRVDN-MGRIYYVDHFTRTTTWQRPTLESVR---*
+>P1;gi|34859086|ref|XP_230770.2| similar to ubiquitin protein ligase... [ score 83 E 2e-15 ] [ range 480 .. 517 ] [ duplicate d ]
+sequence
+----------PLPEGWEMRFTV-DGIPYFVDHNRRATTYIDPRTGKSAL--*
+>P1;gi|24580994|ref|NP_722755.1| Suppressor of deltex CG4244-PD [Dro... [ score 83 E 2e-15 ] [ range 41 .. 85 ] [ duplicate a ]
+sequence
+----DEDALGPLPDGWEKKIQS-DNRVYFVNHKNRTTQWEDPRTQGQEVS-*
+>P1;gi|24580994|ref|NP_722755.1| Suppressor of deltex CG4244-PD [Dro... [ score 83 E 2e-15 ] [ range 81 .. 122 ] [ duplicate b ]
+sequence
+GQEVSLINEGPLPPGWEIRYTA-AGERFFVDHNTRRTTFEDPR--------*
+>P1;gi|34867075|ref|XP_216361.2| similar to WW domain-containing pro... [ score 82 E 2e-15 ] [ range 84 .. 124 ] [ duplicate a ]
+sequence
+----ENDPYGPLPPGWEKRVDS-TDRVYFVNHNTKTTQWEDPRTQG-----*
+>P1;gi|37537897|sp|Q96J02|ITCH_HUMAN Itchy homolog E3 ubiquitin prot... [ score 82 E 3e-15 ] [ range 479 .. 516 ] [ duplicate b ]
+sequence
+----------PLPEGWEMRFTV-DGIPYFVDHNRRTTTYIDPRTGKSAL--*
+>P1;gi|17136524|ref|NP_476753.1| Suppressor of deltex CG4244-PB [Dro... [ score 82 E 3e-15 ] [ range 396 .. 426 ] [ duplicate c ]
+sequence
+----------PLPPGWEIRKDG-RGRVYYVDHNTRKTTWQRP---------*
+>P1;gi|17136524|ref|NP_476753.1| Suppressor of deltex CG4244-PB [Dro... [ score 82 E 3e-15 ] [ range 358 .. 394 ] [ duplicate d ]
+sequence
+-QPADDE---PLPAGWEIRLDQ-YGRRYYVDHNTRSTYWEKP---------*
+>P1;gi|37590632|gb|AAH59201.1| Unknown (protein for MGC:66401) [Dani... [ score 82 E 5e-15 ] [ range 273 .. 315 ]
+sequence
+---VSCEELGPLPPGREIRSTV-SGRIYFVDHNNRTTQFTDPRLHHI----*
+>P1;gi|32563663|ref|NP_490865.3| NEDD4 ubiquitin-protein ligase, exp... [ score 81 E 5e-15 ] [ range 318 .. 361 ] [ duplicate a ]
+sequence
+------DEIGALPAGWEQRVHA-DGRVFFIDHNRRRTQWEDPRFENENIAG*
+>P1;gi|32563663|ref|NP_490865.3| NEDD4 ubiquitin-protein ligase, exp... [ score 81 E 5e-15 ] [ range 261 .. 302 ] [ duplicate b ]
+sequence
+GHVEEEEDELRLPDGWDMQVAP-NGRTFFIDHRTKTTTWTDPR--------*
+>P1;gi|32563663|ref|NP_490865.3| NEDD4 ubiquitin-protein ligase, exp... [ score 81 E 5e-15 ] [ range 169 .. 198 ] [ duplicate c ]
+sequence
+-----------MPQGWEEREDG-NGRTVYVNHALRTTQFTPP---------*
+>P1;gi|13385304|ref|NP_080106.1| WW domain-containing protein 2; WW ... [ score 81 E 7e-15 ] [ range 400 .. 440 ] [ duplicate a ]
+sequence
+----DHDPLGPLPPGWEKR-QD-NGRVYYVNHNTRTTQWEDPRTQGM----*
+>P1;gi|13385304|ref|NP_080106.1| WW domain-containing protein 2; WW ... [ score 81 E 7e-15 ] [ range 331 .. 361 ] [ duplicate b ]
+sequence
+----------PLPPGWEKRTDP-RGRFYYVDHNTRTTTWQRP---------*
+>P1;gi|13385304|ref|NP_080106.1| WW domain-containing protein 2; WW ... [ score 81 E 7e-15 ] [ range 300 .. 331 ] [ duplicate c ]
+sequence
+---------DALPAGWEQRELP-NGRVYYVDHNTKTTTWERP---------*
+>P1;gi|13385304|ref|NP_080106.1| WW domain-containing protein 2; WW ... [ score 81 E 7e-15 ] [ range 446 .. 476 ] [ duplicate d ]
+sequence
+-----------LPPGWEMKYTS-EGVRYFVDHNTRTTTFKDPR--------*
+>P1;gi|26328859|dbj|BAC28168.1| unnamed protein product [Mus musculus] [ score 81 E 1e-14 ] [ range 77 .. 113 ] [ duplicate b ]
+sequence
+----------PLPPGWERRVDD-RGRVYYVDHNTRTTTWQRPTMESVR---*
+>P1;gi|26328859|dbj|BAC28168.1| unnamed protein product [Mus musculus] [ score 81 E 1e-14 ] [ range 192 .. 230 ] [ duplicate c ]
+sequence
+----------PLPEGWEIRYTR-EGVRYFVDHNTRTTTFKDPRNGKSSVT-*
+>P1;gi|26328859|dbj|BAC28168.1| unnamed protein product [Mus musculus] [ score 81 E 1e-14 ] [ range 46 .. 75 ] [ duplicate d ]
+sequence
+-----------LPSGWEQRKDP-HGRTYYVDHNTRTTTWERP---------*
+>P1;gi|20129347|ref|NP_609171.1| CG7221-PA [Drosophila melanogaster]... [ score 80 E 1e-14 ] [ range 6 .. 52 ]
+sequence
+----DTDSEDELPPGWEERATD-DGTVCYVNQQGKTSQWTHPRTRSKRITG*
+>P1;gi|19112585|ref|NP_595793.1| ubiquitin--protein ligase [Schizosa... [ score 80 E 1e-14 ] [ range 356 .. 399 ] [ duplicate a ]
+sequence
+-QPQSLSHLGPLPSGWEMRLTN-SARVYFVDHNTKTTTWDDPRLPS-----*
+>P1;gi|19112585|ref|NP_595793.1| ubiquitin--protein ligase [Schizosa... [ score 80 E 1e-14 ] [ range 301 .. 346 ] [ duplicate b ]
+sequence
+----QSDSGNDLPFGWEMRYTD-TGRPYFVDHNTRTTTWVDPRNPLVRPNG*
+>P1;gi|19112585|ref|NP_595793.1| ubiquitin--protein ligase [Schizosa... [ score 80 E 1e-14 ] [ range 232 .. 267 ] [ duplicate c ]
+sequence
+-----EDQYGRLPPGWERRADS-LGRTYYVDHNTRTTTWTRP---------*
+>P1;gi|2947232|gb|AAC05370.1| membrane associated guanylate kinase 2... [ score 77 E 8e-14 ] [ range 295 .. 339 ]
+sequence
+--PEDNEEPDPLPDNWEMAYTE-KGEVYFIDHNTKTTSWLDPRLAKKA---*
+>P1;gi|45187818|ref|NP_984041.1| ADL055Cp [Eremothecium gossypii] >g... [ score 77 E 1e-13 ] [ range 335 .. 373 ] [ duplicate a ]
+sequence
+-----TSGLGELPPGWEQRYTP-EGRAYFVDHNTRTTTWVDPRRQ------*
+>P1;gi|45187818|ref|NP_984041.1| ADL055Cp [Eremothecium gossypii] >g... [ score 77 E 1e-13 ] [ range 392 .. 430 ] [ duplicate b ]
+sequence
+------SQLGPLPSGWEMRLTN-TARVYFVDHNTKTTTWDDPRLPS-----*
+>P1;gi|45187818|ref|NP_984041.1| ADL055Cp [Eremothecium gossypii] >g... [ score 77 E 1e-13 ] [ range 234 .. 271 ] [ duplicate c ]
+sequence
+-----EDQYGRLPPGWERRTDN-FGRTYYVDHNTRTTTWKRPTL-------*
+>P1;gi|16758422|ref|NP_446073.1| activin receptor interacting protei... [ score 77 E 1e-13 ] [ range 295 .. 339 ]
+sequence
+--PEENEDSDPLPDNWEMAYTE-KGEVYFIDHNTKTTSWLDPRLAKKA---*
+>P1;gi|31200911|ref|XP_309403.1| ENSANGP00000008278 [Anopheles gambi... [ score 77 E 1e-13 ] [ range 508 .. 550 ] [ duplicate a ]
+sequence
+-QNLTTETLGPLPHGWEQRKTA-SGRVYFVDHNNRTTQFTDPRIN------*
+>P1;gi|31200911|ref|XP_309403.1| ENSANGP00000008278 [Anopheles gambi... [ score 77 E 1e-13 ] [ range 157 .. 186 ] [ duplicate b ]
+sequence
+-----------LPRGWEERSAQ-NGRTYYVNHYTKTTQWSRP---------*
+>P1;gi|41053891|ref|NP_957207.1| similar to WW domain containing oxi... [ score 76 E 2e-13 ] [ range 10 .. 49 ] [ duplicate a ]
+sequence
+---EDTDSEDELPPGWEERSTK-DGWVYYANHEEMKTQWEHPKT-------*
+>P1;gi|41053891|ref|NP_957207.1| similar to WW domain containing oxi... [ score 76 E 2e-13 ] [ range 57 .. 89 ] [ duplicate b ]
+sequence
+---------GALPYGWEQETDD-KGQIFYVDHINKRKTYFDPR--------*
+>P1;gi|31221223|ref|XP_317022.1| ENSANGP00000019266 [Anopheles gambi... [ score 76 E 2e-13 ] [ range 7 .. 53 ]
+sequence
+----ESDSEDELPPAWEERATS-DGFVYYVNHQSKSTQWTHPRTGKKRVSG*
+>P1;gi|6934274|gb|AAF31693.1| WW-domain oxidoreductase [Mus musculus] [ score 76 E 2e-13 ] [ range 11 .. 57 ] [ duplicate a ]
+sequence
+----DTDSEDELPPGWEERTTK-DGWVYYANHTEEKTQWEHPKTKRKRVAG*
+>P1;gi|6934274|gb|AAF31693.1| WW-domain oxidoreductase [Mus musculus] [ score 76 E 2e-13 ] [ range 57 .. 90 ] [ duplicate b ]
+sequence
+---------GDLPYGWEQETDE-NGQVFFVDHINKRTTYLDPRL-------*
+>P1;gi|2130196|pir||S66562 ubiquitin-protein ligase (EC 6.3.2.19) - ... [ score 76 E 2e-13 ] [ range 280 .. 322 ] [ duplicate b ]
+sequence
+-SNATTAGSGELPPGWEQRYTP-EGRPYFVDHNTRTTTWVDPRRQ------*
+>P1;gi|2130196|pir||S66562 ubiquitin-protein ligase (EC 6.3.2.19) - ... [ score 76 E 2e-13 ] [ range 201 .. 242 ] [ duplicate c ]
+sequence
+-----EDQYGRLPPGWERRTDN-LGRTYYVDHNTRSTTWIRPNLSSVA---*
+>P1;gi|11272426|pir||T49744 probable ubiquitin-protein ligase [impor... [ score 76 E 3e-13 ] [ range 334 .. 368 ] [ duplicate b ]
+sequence
+---------GELPAGWEQRFTP-EGRPYFVDHNTRTTTWVDPRRQ------*
+>P1;gi|11272426|pir||T49744 probable ubiquitin-protein ligase [impor... [ score 76 E 3e-13 ] [ range 235 .. 270 ] [ duplicate c ]
+sequence
+-----EDSMGRLPAGWERREDH-LGRTYYVDHNSRTTSWNRP---------*
+>P1;gi|38111301|gb|EAA56900.1| hypothetical protein MG07255.4 [Magna... [ score 76 E 3e-13 ] [ range 309 .. 343 ] [ duplicate b ]
+sequence
+---------GELPPGWEQRFTP-EGRPYFVDHNTRTTTWVDPRRQ------*
+>P1;gi|38111301|gb|EAA56900.1| hypothetical protein MG07255.4 [Magna... [ score 76 E 3e-13 ] [ range 202 .. 237 ] [ duplicate c ]
+sequence
+-----EDAQGRLPAGWERREDN-LGRTYYVDHNTRTTSWNRP---------*
+>P1;gi|6320972|ref|NP_011051.1| involved in ubiquitin-mediated prote... [ score 75 E 3e-13 ] [ range 327 .. 365 ] [ duplicate b ]
+sequence
+-----TSGLGELPSGWEQRFTP-EGRAYFVDHNTRTTTWVDPRRQ------*
+>P1;gi|34328051|ref|NP_034497.1| BAI1-associated protein 1; guanylat... [ score 75 E 4e-13 ] [ range 296 .. 336 ] [ duplicate a ]
+sequence
+-----EDNLGPLPENWEMAYTE-NGEVYFIDHNTKTTSWLDPRCLNK----*
+>P1;gi|34328051|ref|NP_034497.1| BAI1-associated protein 1; guanylat... [ score 75 E 4e-13 ] [ range 340 .. 384 ] [ duplicate b ]
+sequence
+--PLEECEDDELPAGWEKIEDP-VYGVYYVDHINRKTQYENPVLEAKR---*
+>P1;gi|17647573|ref|NP_523779.1| lethal with a checkpoint kinase CG4... [ score 75 E 4e-13 ] [ range 558 .. 596 ] [ duplicate a ]
+sequence
+------DAIGPLPSGWEQRKTA-SGRVYFVDHNNRTTQFTDPRLSG-----*
+>P1;gi|17647573|ref|NP_523779.1| lethal with a checkpoint kinase CG4... [ score 75 E 4e-13 ] [ range 158 .. 203 ] [ duplicate b ]
+sequence
+GPSEDDSSEDSLPEGWEERRTD-NGRVYYVNHATKSTQWDRPRQPGV----*
+>P1;gi|15278182|gb|AAK94064.1| MAGI-1B alpha beta [Homo sapiens] [ score 75 E 4e-13 ] [ range 353 .. 396 ] [ duplicate b ]
+sequence
+---EELDSELELPAGWEKIEDP-VYGIYYVDHINRKTQYENPVLEAKR---*
+>P1;gi|42547127|gb|EAA69970.1| conserved hypothetical protein [Gibbe... [ score 75 E 4e-13 ] [ range 322 .. 356 ] [ duplicate b ]
+sequence
+---------GELPPGWEQRWTP-EGRPYFVDHNTRTTTWVDPRRQ------*
+>P1;gi|31231634|ref|XP_318557.1| ENSANGP00000019612 [Anopheles gambi... [ score 75 E 4e-13 ] [ range 27 .. 67 ]
+sequence
+----DEDGLGPLPPKWEKAFTD-SGEVYFIDHNTGTSHWLDPRLSK-----*
+>P1;gi|40746366|gb|EAA65522.1| hypothetical protein AN1339.2 [Asperg... [ score 75 E 5e-13 ] [ range 339 .. 373 ] [ duplicate b ]
+sequence
+---------GELPPGWEQRTTP-EGRPYFVDHNTRTTTWVDPRRQ------*
+>P1;gi|40746366|gb|EAA65522.1| hypothetical protein AN1339.2 [Asperg... [ score 75 E 5e-13 ] [ range 227 .. 262 ] [ duplicate c ]
+sequence
+-----EDNQGRLPAGWERREDN-LGRTYYVDHNTRTTTWNRP---------*
+>P1;gi|39585877|emb|CAE61291.1| Hypothetical protein CBG05115 [Caeno... [ score 74 E 9e-13 ] [ range 323 .. 362 ] [ duplicate a ]
+sequence
+------DPLGPLPEGWEKRQDP-NGRMYFVNHVNRTTQWEDPRTQG-----*
+>P1;gi|39585877|emb|CAE61291.1| Hypothetical protein CBG05115 [Caeno... [ score 74 E 9e-13 ] [ range 256 .. 286 ] [ duplicate b ]
+sequence
+----------PLPAGWEMRRDP-RGRVYYVDHNTRTTTWQRP---------*
+>P1;gi|39585877|emb|CAE61291.1| Hypothetical protein CBG05115 [Caeno... [ score 74 E 9e-13 ] [ range 223 .. 255 ] [ duplicate c ]
+sequence
+-----------LPEGWEMRFDQ-YGRKYYVDHTTKSTTWERPSTQ------*
+>P1;gi|39585877|emb|CAE61291.1| Hypothetical protein CBG05115 [Caeno... [ score 74 E 9e-13 ] [ range 367 .. 399 ] [ duplicate d ]
+sequence
+----------PLPDGWEMRFTE-QGVPFFIDHHSKTTTYNDPRT-------*
+>P1;gi|38091327|ref|XP_109956.3| cDNA sequence BC037006 [Mus musculus] [ score 74 E 1e-12 ] [ range 7 .. 44 ] [ duplicate a ]
+sequence
+----------PLPEGWEEARDF-DGKVYYIDHRNRTTSWIDPRDRNLAL--*
+>P1;gi|38091327|ref|XP_109956.3| cDNA sequence BC037006 [Mus musculus] [ score 74 E 1e-12 ] [ range 117 .. 151 ] [ duplicate b ]
+sequence
+---------DELPLGWEEAYDP-QVGDYFIDHNTKTTQIEDPRVQ------*
+>P1;gi|19114838|ref|NP_593926.1| putative ubiquitin-protein ligase [... [ score 74 E 1e-12 ] [ range 240 .. 279 ]
+sequence
+-------EKGPLPAGWEMRLSE-DYHVYFVDHSTKTTTWSDPRDNVVA---*
+>P1;gi|28573643|ref|NP_726414.2| CG4005-PB [Drosophila melanogaster]... [ score 71 E 7e-12 ] [ range 255 .. 295 ]
+sequence
+-SPIQLNQLGALPPGWEQAKTN-DGQIYYLNHTTKSTQWEDP---------*
+>P1;gi|29789058|ref|NP_056053.1| KIBRA protein [Homo sapiens] >gi|27... [ score 71 E 7e-12 ] [ range 7 .. 40 ] [ duplicate a ]
+sequence
+----------PLPEGWEEARDF-DGKVYYIDHTNRTTSWIDPRDR------*
+>P1;gi|25143391|ref|NP_740775.1| ubiquitin-protein ligase with C2 an... [ score 71 E 8e-12 ] [ range 321 .. 360 ] [ duplicate a ]
+sequence
+------DPLGPLPEGWEKRQDP-NSRMYFVNHVNRTTQWEDPRTQG-----*
+>P1;gi|25143391|ref|NP_740775.1| ubiquitin-protein ligase with C2 an... [ score 71 E 8e-12 ] [ range 254 .. 284 ] [ duplicate b ]
+sequence
+----------PLPQGWEMRRDP-RGRVYYVDHNTRTTTWQRP---------*
+>P1;gi|25143391|ref|NP_740775.1| ubiquitin-protein ligase with C2 an... [ score 71 E 8e-12 ] [ range 367 .. 399 ] [ duplicate c ]
+sequence
+----------PLPDGWEMRFTE-QGVPFFIDHQSKTTTYNDPRT-------*
+>P1;gi|25143391|ref|NP_740775.1| ubiquitin-protein ligase with C2 an... [ score 71 E 8e-12 ] [ range 221 .. 253 ] [ duplicate d ]
+sequence
+-----------LPDGWEMRFDQ-YGRKYYVDHTTKSTTWERPSTQ------*
+>P1;gi|7512314|pir||JE0209 brain-specific angiogenesis inhibitor-ass... [ score 71 E 1e-11 ] [ range 296 .. 336 ] [ duplicate a ]
+sequence
+-----EDNLGFLPENWEMAYTE-NGEVYFIDHNTKTTSWLDPRCLNK----*
+>P1;gi|20806117|ref|NP_620784.1| scaffolding protein SLIPR [Rattus n... [ score 70 E 1e-11 ] [ range 293 .. 333 ] [ duplicate a ]
+sequence
+------ENLEPLPKNWEMAYTD-TGTIYFIDHNTKTTTWLDPRLCKKA---*
+>P1;gi|20806117|ref|NP_620784.1| scaffolding protein SLIPR [Rattus n... [ score 70 E 1e-11 ] [ range 335 .. 373 ] [ duplicate b ]
+sequence
+-APEDCED-GELPYGWEKIEDP-QYGTYYVDHLNQKTQFENP---------*
+>P1;gi|34879888|ref|XP_228858.2| similar to KIAA1280 protein [Rattus... [ score 70 E 2e-11 ] [ range 60 .. 93 ] [ duplicate a ]
+sequence
+----------PLPAGWEEARDY-DGRVFYIDHNTRQTSWIDPRDR------*
+>P1;gi|34879888|ref|XP_228858.2| similar to KIAA1280 protein [Rattus... [ score 70 E 2e-11 ] [ range 106 .. 140 ] [ duplicate b ]
+sequence
+---------DELPLGWETVYDK-QIGIYYMDHINKLTQIEDPREQ------*
+>P1;gi|15928514|gb|AAH14733.1| Yap protein [Mus musculus] [ score 69 E 2e-11 ] [ range 211 .. 248 ] [ duplicate a ]
+sequence
+-----NSASGPLPDGWEQAMTQ-DGEVYYINHKNKTTSWLDPRL-------*
+>P1;gi|15928514|gb|AAH14733.1| Yap protein [Mus musculus] [ score 69 E 2e-11 ] [ range 157 .. 188 ] [ duplicate b ]
+sequence
+----------PLPAGWEMAKTS-SGQRYFLNHNDQTTTWQDPR--------*
+>P1;gi|26326059|dbj|BAC26773.1| unnamed protein product [Mus musculus] [ score 70 E 2e-11 ] [ range 241 .. 281 ] [ duplicate a ]
+sequence
+------ENLEPLPKNWEMAYTD-TGMIYFIDHNTKTTTWLDPRLCKKA---*
+>P1;gi|23398532|gb|AAH38235.1| YAP1 protein [Homo sapiens] [ score 69 E 3e-11 ] [ range 218 .. 263 ] [ duplicate a ]
+sequence
+-PPVQQNMMGPLPDGWEQAMTQ-DGEIYYINHKNKTTSWLDPRL-------*
+>P1;gi|23398532|gb|AAH38235.1| YAP1 protein [Homo sapiens] [ score 69 E 3e-11 ] [ range 172 .. 203 ] [ duplicate b ]
+sequence
+----------PLPAGWEMAKTS-SGQRYFLNHIDQTTTWQDPR--------*
+>P1;gi|45219842|gb|AAH67050.1| Unknown (protein for MGC:91333) [Mus ... [ score 69 E 3e-11 ] [ range 11 .. 44 ] [ duplicate a ]
+sequence
+----------PLPRGWEEARDY-DGKVFYIDHNTRRTSWIDPRDR------*
+>P1;gi|45219842|gb|AAH67050.1| Unknown (protein for MGC:91333) [Mus ... [ score 69 E 3e-11 ] [ range 57 .. 91 ] [ duplicate b ]
+sequence
+---------DELPWGWEAGFDP-QIGAYYIDHINKTTQIEDPRKQ------*
+>P1;gi|10047345|dbj|BAB13460.1| KIAA1634 protein [Homo sapiens] [ score 69 E 3e-11 ] [ range 39 .. 79 ] [ duplicate a ]
+sequence
+------ETLEPLPKNWEMAYTD-TGMIYFIDHNTKTTTWLDPRLCKKA---*
+>P1;gi|20304109|ref|NP_611551.1| CG30388-PA [Drosophila melanogaster... [ score 68 E 7e-11 ] [ range 289 .. 327 ] [ duplicate a ]
+sequence
+------DGLGPLPPKWETAYTE-RGELYFIDHNTGTSHWLDPRLSK-----*
+>P1;gi|20304109|ref|NP_611551.1| CG30388-PA [Drosophila melanogaster... [ score 68 E 7e-11 ] [ range 338 .. 376 ] [ duplicate b ]
+sequence
+--------EDELPYGWEKIEDS-MYGMYFIDHVNRRTQYENPVLEAKR---*
+>P1;gi|29841429|gb|AAP06461.1| hypothetical protein with C2 domain,H... [ score 66 E 2e-10 ] [ range 2 .. 37 ]
+sequence
+------NSKEPLPPGWEMRYDE-SGQFYFVDHNTRSTQWEHP---------*
+>P1;gi|17551664|ref|NP_509789.1| ubiquitin-protein ligase (XL313) [C... [ score 63 E 2e-09 ] [ range 211 .. 258 ]
+sequence
+-TPQDVEQL-PMPQGWEMCYDS-DGVRYFKDHNSKTTTWDDPRLKQQEQTG*
+>P1;gi|11357608|pir||T47801 hypothetical protein F24G16.40 - Arabido... [ score 62 E 3e-09 ] [ range 509 .. 540 ]
+sequence
+----------PLPPGWEKRADV-TGKSYYIDHNTKTTTWSHP---------*
+>P1;gi|17541162|ref|NP_502221.1| interacting protein 1 (4M493) [Caen... [ score 62 E 5e-09 ] [ range 129 .. 163 ]
+sequence
+-------SEGLLPPNWETAYTE-NGDKYFIDHNTGTTTWDDPR--------*
+>P1;gi|34851668|ref|XP_214669.2| similar to WW domain-containing pro... [ score 61 E 8e-09 ] [ range 83 .. 111 ] [ duplicate b ]
+sequence
+-----------------EKRQD-NGRVYYVNHNTRTTQWEDPRTQGM----*
+>P1;gi|27696285|gb|AAH43807.1| Bag3-A protein [Xenopus laevis] [ score 60 E 1e-08 ] [ range 20 .. 59 ]
+sequence
+-----SNDNQPLPPGWEMKLDP-TGWSFFVDHNNRSTTWTDPRLQ------*
+>P1;gi|34528063|dbj|BAC85511.1| unnamed protein product [Homo sapiens] [ score 58 E 5e-08 ] [ range 494 .. 535 ]
+sequence
+-------DMDCLPYGWEEAYTA-DGIKYFINHVTQTTSWIHPVMSVLNLS-*
+>P1;gi|6755692|ref|NP_035635.1| syntaxin binding protein 4 [Mus musc... [ score 57 E 7e-08 ] [ range 498 .. 539 ]
+sequence
+-------DMDCLPYGWEEAYTA-DGIKYFINHVTQTTSWIHPVMSALNLS-*
+>P1;gi|31212411|ref|XP_315190.1| ENSANGP00000020991 [Anopheles gambi... [ score 57 E 1e-07 ] [ range 47 .. 97 ]
+sequence
+-QPEGDSSEDELPPGWSVDYTL-RGRKYYIDHNTKTTHWAHPLDRKALPTG*
+>P1;gi|20520999|dbj|BAA20780.2| KIAA0322 [Homo sapiens] [ score 57 E 1e-07 ] [ range 838 .. 868 ] [ duplicate a ]
+sequence
+----------PLPPNWEARIDS-HGRVFYVDHVNRTTTWQRP---------*
+>P1;gi|20520999|dbj|BAA20780.2| KIAA0322 [Homo sapiens] [ score 57 E 1e-07 ] [ range 1027 .. 1059 ] [ duplicate b ]
+sequence
+----------ELPRGWEIKTDQ-QGKSFFVDHNSRATTFIDPRI-------*
+>P1;gi|7504875|pir||T33637 hypothetical protein H09G03.2 - Caenorhab... [ score 57 E 1e-07 ] [ range 24 .. 54 ]
+sequence
+-----------LPYGWEQAKDN-DGNTYYIDHLNRTTTYTDPR--------*
+>P1;gi|23346569|ref|NP_694770.1| HECT type E3 ubiquitin ligase [Mus ... [ score 56 E 2e-07 ] [ range 806 .. 836 ] [ duplicate a ]
+sequence
+----------PLPPNWEARIDS-HGRVFYVDHINRTTTWQRP---------*
+>P1;gi|23346569|ref|NP_694770.1| HECT type E3 ubiquitin ligase [Mus ... [ score 56 E 2e-07 ] [ range 996 .. 1028 ] [ duplicate b ]
+sequence
+----------ELPRGWEIKTDH-QGKSFFVGHNSRATTFIDPRI-------*
+>P1;gi|6855417|emb|CAB71182.1| hypothetical protein L5341.02 [Leishm... [ score 56 E 2e-07 ] [ range 651 .. 685 ]
+sequence
+-------GLKKLPPSWEEHFTN-DGRRYFIDTATQTTTWKDPR--------*
+>P1;gi|34876206|ref|XP_225450.2| similar to HECT type E3 ubiquitin l... [ score 56 E 2e-07 ] [ range 996 .. 1028 ] [ duplicate b ]
+sequence
+----------ELPRGWEIKTDH-QGKSFFVDHNSRATTFIDPRI-------*
+>P1;gi|45382559|ref|NP_990574.1| Yes-associated protein (65kDa) [Gal... [ score 56 E 2e-07 ] [ range 170 .. 201 ]
+sequence
+----------PLPPGWEMAKTP-SGQRYFLNHIDQTTTWQDPR--------*
+>P1;gi|39582138|emb|CAE60815.1| Hypothetical protein CBG04520 [Caeno... [ score 56 E 3e-07 ] [ range 198 .. 238 ]
+sequence
+-TPQDVEQL-PMPHGWEICYDS-EGHRYYKDHNSKTTTWNDPRL-------*
+>P1;gi|24640853|ref|NP_572574.1| CG3003-PB [Drosophila melanogaster]... [ score 56 E 3e-07 ] [ range 634 .. 664 ] [ duplicate a ]
+sequence
+----------PLPPAWEARMDS-HGRIFYIDHTTRTTSWQRP---------*
+>P1;gi|24640853|ref|NP_572574.1| CG3003-PB [Drosophila melanogaster]... [ score 56 E 3e-07 ] [ range 796 .. 828 ] [ duplicate b ]
+sequence
+----------ELPSCWETKLDQ-SGKQFFIDHQHRRTSFMDPRL-------*
+>P1;gi|5868898|gb|AAD16122.2| BAG-family molecular chaperone regulat... [ score 56 E 4e-07 ] [ range 18 .. 56 ]
+sequence
+-------DRDPLPPGWEIKIDP-TGWPFFVDHNSRTTTWNDPRVPS-----*
+>P1;gi|14730213|ref|XP_038999.1| KIAA1301 protein [Homo sapiens] [ score 55 E 4e-07 ] [ range 986 .. 1018 ] [ duplicate a ]
+sequence
+----------ELPRGWEMKHDH-QGKAFFVDHNSRTTTFIDPRL-------*
+>P1;gi|31204783|ref|XP_311340.1| ENSANGP00000021374 [Anopheles gambi... [ score 55 E 6e-07 ] [ range 130 .. 160 ] [ duplicate a ]
+sequence
+----------PLPPAWEARMDS-HGRIFYIDHATRTTSWQRP---------*
+>P1;gi|31204783|ref|XP_311340.1| ENSANGP00000021374 [Anopheles gambi... [ score 55 E 6e-07 ] [ range 300 .. 332 ] [ duplicate b ]
+sequence
+----------ELPSGWETKLDQ-SGKQFFIDHVNRRTSFIDPRL-------*
+>P1;gi|28208168|dbj|BAC56858.1| DWWA [Dictyostelium discoideum] [ score 55 E 6e-07 ] [ range 521 .. 555 ] [ duplicate b ]
+sequence
+-----------LPNGWEVRQDQ-FGRVFYVDHINRATTWTRPTVKHP----*
+>P1;gi|13346498|ref|NP_056287.1| transcriptional co-activator with P... [ score 54 E 8e-07 ] [ range 119 .. 156 ]
+sequence
+----DVTDELPLPPGWEMTFTA-TGQRYFLNHIEKITTWQDPR--------*
+>P1;gi|39580239|emb|CAE72968.1| Hypothetical protein CBG20305 [Caeno... [ score 54 E 9e-07 ] [ range 55 .. 85 ]
+sequence
+-----------LPYGWEQAKDN-DGNTYYIDHLNRATTYTDPR--------*
+>P1;gi|31204415|ref|XP_311156.1| ENSANGP00000020454 [Anopheles gambi... [ score 54 E 1e-06 ] [ range 165 .. 198 ]
+sequence
+----------ELPFGWEESYDP-QIGTYYINHNTQTTQLEDPRLQ------*
+>P1;gi|24646899|ref|NP_650386.1| CG7552-PA [Drosophila melanogaster]... [ score 52 E 4e-06 ] [ range 55 .. 86 ]
+sequence
+----------PLPDGWDIAKDF-DGKTYYIDHINKKTTWLDPR--------*
+>P1;gi|18044160|gb|AAH19377.1| Sav1 protein [Mus musculus] [ score 52 E 5e-06 ] [ range 197 .. 231 ]
+sequence
+-----SEDL-PLPPGWSVDWTM-RGRKYYIDHNTNTTHWSHP---------*
+>P1;gi|31196705|ref|XP_307300.1| ENSANGP00000014426 [Anopheles gambi... [ score 51 E 6e-06 ] [ range 16 .. 54 ]
+sequence
+---VQTND---LPYGWEKAIDQ-KGQPYYINHLNKTTTYEEPIRHH-----*
+>P1;gi|7259613|gb|AAF43897.1| prolyl isomerase Pin1 [Xenopus laevis] [ score 51 E 9e-06 ] [ range 3 .. 37 ]
+sequence
+-------DEEKLPPGWEKRMSS-SGRVYYFNHMTNASQWERP---------*
+>P1;gi|22549305|gb|AAM97280.1| scaffold protein salvador [Drosophila... [ score 51 E 9e-06 ] [ range 424 .. 454 ]
+sequence
+----------PLPPGWATQYTL-HGRKYYIDHNAHTTHWNHP---------*
+>P1;gi|7507645|pir||T25886 hypothetical protein T10H10.3 - Caenorhab... [ score 51 E 1e-05 ] [ range 84 .. 123 ]
+sequence
+-SSCDCSSDIPLPENWAVEFTT-ENQPYYVDHANRRTHWVHP---------*
+>P1;gi|5453898|ref|NP_006212.1| protein (peptidyl-prolyl cis/trans i... [ score 50 E 1e-05 ] [ range 3 .. 37 ]
+sequence
+-------DEEKLPPGWEKRMSS-SGRVYYFNHITNASQWERP---------*
+>P1;gi|9257171|pdb|1E0M|A Chain A, Prototype Ww Domain [ score 50 E 1e-05 ] [ range 4 .. 37 ]
+sequence
+-----------LPPGWDEYKTH-NGKTYYYNHNTKTSTWTDPRMSS-----*
+>P1;gi|18158839|pdb|1JMQ|A Chain A, Yap65 (L30k Mutant) Ww Domain In... [ score 50 E 1e-05 ] [ range 8 .. 39 ]
+sequence
+----------PLPAGWEMAKTS-SGQRYFKNHIDQTTTWQDPR--------*
+>P1;gi|31247992|ref|XP_316599.1| ENSANGP00000011440 [Anopheles gambi... [ score 49 E 3e-05 ] [ range 16 .. 47 ]
+sequence
+-----------LPPGWDCKYDS-TGRYYYVNLFTKTTQWEDPR--------*
+>P1;gi|27663608|ref|XP_216609.1| similar to protein (peptidyl-prolyl... [ score 48 E 5e-05 ] [ range 3 .. 37 ]
+sequence
+-------DEEKLPSGWEKRMSS-SGRVYYFNHITNASQWERP---------*
+>P1;gi|25151127|ref|NP_508418.2| salvador (XC902) [Caenorhabditis el... [ score 48 E 5e-05 ] [ range 158 .. 196 ]
+sequence
+--PCHCSSDIPLPENWAVEFTT-ENQPYYVDHANRRTHWVHP---------*
+>P1;gi|29745946|ref|XP_045712.5| KIAA0316 gene product [Homo sapiens] [ score 48 E 6e-05 ] [ range 24 .. 71 ]
+sequence
+-PPSGTWGLSQVPPGWEMTANR-DGRDYFINHMTQAIPFDDPRLESCQI--*
+>P1;gi|43409436|gb|EAD65539.1| unknown [environmental sequence] [ score 48 E 6e-05 ] [ range 24 .. 53 ]
+sequence
+-----------IPQGWEKRQHS-DGRYYYVDHSTRTTHWNPP---------*
+>P1;gi|39591116|emb|CAE58896.1| Hypothetical protein CBG02143 [Caeno... [ score 47 E 8e-05 ] [ range 209 .. 244 ]
+sequence
+-----SSDHLPLPENWAVEYTT-ENQPYYVDHTNRRTHWVHP---------*
+>P1;gi|34857701|ref|XP_216228.2| similar to BAI1-associated protein ... [ score 47 E 9e-05 ] [ range 347 .. 390 ]
+sequence
+---EELDSELELPAGWEKIEDP-VYGVYYVDHINRKTQYENPVLEAKR---*
+>P1;gi|24648200|ref|NP_732427.1| dystrophin CG31175-PC [Drosophila m... [ score 47 E 9e-05 ] [ range 2467 .. 2510 ]
+sequence
+----NSGTIGPLPPPWERATTA-ANVPYYIDHERETTHWDHP---------*
+>P1;gi|13183552|gb|AAK15256.1| dystrophin-like protein DLP2 [Drosoph... [ score 47 E 1e-04 ] [ range 2837 .. 2880 ]
+sequence
+----NSGTIGPLPPPWERATTA-ANVPYYIDHERQTTHWDHP---------*
+>P1;gi|24646897|ref|NP_650385.1| CG12600-PA [Drosophila melanogaster... [ score 47 E 2e-04 ] [ range 96 .. 128 ]
+sequence
+---------DELPMGWEESYDP-NIGPYYINHLAQSTQLEDPR--------*
+>P1;gi|43808373|gb|EAF58687.1| unknown [environmental sequence] [ score 45 E 6e-04 ] [ range 214 .. 246 ]
+sequence
+---------GQLPAGWEQRINS-TGHPFYIDHNTRTTHWQSP---------*
+>P1;gi|41152183|ref|NP_957042.1| hypothetical protein MGC73206 [Dani... [ score 77 E 1e-13 ] [ range 6 .. 39 ]
+sequence
+----------KLPSGWEKRMSRSSGRVYYFNHITNASQWERPSG-------*
+>P1;gi|7259613|gb|AAF43897.1| prolyl isomerase Pin1 [Xenopus laevis] [ score 74 E 6e-13 ] [ range 6 .. 37 ]
+sequence
+----------KLPPGWEKRMSRSSGRVYYFNHMTNASQWERP---------*
+>P1;gi|20912285|ref|XP_141408.1| similar to Peptidyl-prolyl cis-tran... [ score 70 E 1e-11 ] [ range 5 .. 37 ]
+sequence
+----------KLPPGWKKYMSRSSGREYYFNHITNASQWERPS--------*
+>P1;gi|44276218|gb|EAI14057.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 210 .. 241 ]
+sequence
+-----------LPPGWEEKVDPSSGKTYYVNHNDQTTHWDRPN--------*
+>P1;gi|5453900|ref|NP_006213.1| protein (peptidyl-prolyl cis/trans i... [ score 69 E 3e-11 ] [ range 6 .. 39 ]
+sequence
+----------KLPPGWEKRMSRPSGRGYYFNHITNPSQWERPSG-------*
+>P1;gi|39584693|emb|CAE72446.1| Hypothetical protein CBG19616 [Caeno... [ score 65 E 4e-10 ] [ range 6 .. 36 ]
+sequence
+-----------LPPGWEKRQSRTNDRVYYFNTATGQSQWERP---------*
+>P1;gi|7448078|pir||T08426 Pin1 protein homolog dodo - fruit fly (Dr... [ score 65 E 6e-10 ] [ range 6 .. 38 ]
+sequence
+----------QLPDGWEKRTSRSTGMSYYLNMYTKESQWDQPT--------*
+>P1;gi|17537729|ref|NP_494393.1| predicted CDS, NIMA-interacting 1 (... [ score 64 E 6e-10 ] [ range 6 .. 36 ]
+sequence
+-----------LPAGWEKRQSRSNDRVYYFNTATGRSQWERP---------*
+>P1;gi|13385304|ref|NP_080106.1| WW domain-containing protein 2; WW ... [ score 61 E 9e-09 ] [ range 407 .. 435 ] [ duplicate a ]
+sequence
+-----------LPPGWEKRQD--NGRVYYVNHNTRTTQWEDP---------*
+>P1;gi|34915030|ref|NP_918862.1| P0458A05.20 [Oryza sativa (japonica... [ score 59 E 4e-08 ] [ range 343 .. 373 ]
+sequence
+-----------LPPGWEERFDSVTGKSFYIDHNTRTTTWEHP---------*
+>P1;gi|31204757|ref|XP_311327.1| ENSANGP00000021314 [Anopheles gambi... [ score 59 E 4e-08 ] [ range 253 .. 284 ] [ duplicate a ]
+sequence
+----------ELPQGWEERQD-ANGRTYYVNHVARSTQWERPT--------*
+>P1;gi|31204757|ref|XP_311327.1| ENSANGP00000021314 [Anopheles gambi... [ score 59 E 4e-08 ] [ range 492 .. 521 ] [ duplicate b ]
+sequence
+-----------LPEGWEERV-HSDGRIFFIDHNTRTTQWEDP---------*
+>P1;gi|39585877|emb|CAE61291.1| Hypothetical protein CBG05115 [Caeno... [ score 58 E 5e-08 ] [ range 328 .. 358 ] [ duplicate a ]
+sequence
+-----------LPEGWEKRQDPNTGRMYFVNHVNRTTQWEDP---------*
+>P1;gi|11357608|pir||T47801 hypothetical protein F24G16.40 - Arabido... [ score 58 E 6e-08 ] [ range 510 .. 540 ]
+sequence
+-----------LPPGWEKRADAVTGKSYYIDHNTKTTTWSHP---------*
+>P1;gi|31207705|ref|XP_312819.1| ENSANGP00000003206 [Anopheles gambi... [ score 58 E 9e-08 ] [ range 633 .. 662 ] [ duplicate b ]
+sequence
+-----------LPEGWEERV-HSDGRTFFIDHNTRTTQWDDP---------*
+>P1;gi|24665984|ref|NP_730282.1| CG7555-PC [Drosophila melanogaster]... [ score 58 E 1e-07 ] [ range 409 .. 438 ] [ duplicate b ]
+sequence
+-----------LPEGWEERV-HTDGRVFYIDHNTRTTQWEDP---------*
+>P1;gi|31200911|ref|XP_309403.1| ENSANGP00000008278 [Anopheles gambi... [ score 57 E 1e-07 ] [ range 156 .. 187 ]
+sequence
+----------QLPRGWEER-SAQNGRTYYVNHYTKTTQWSRPT--------*
+>P1;gi|31209253|ref|XP_313593.1| ENSANGP00000014025 [Anopheles gambi... [ score 56 E 2e-07 ] [ range 39 .. 69 ]
+sequence
+------------PEGWEKRTSRSTGMTYYLNVYTKESQWDPPT--------*
+>P1;gi|25143393|ref|NP_740776.1| ubiquitin-protein ligase with C2 an... [ score 55 E 5e-07 ] [ range 326 .. 356 ] [ duplicate a ]
+sequence
+-----------LPEGWEKRQDPNTSRMYFVNHVNRTTQWEDP---------*
+>P1;gi|28208168|dbj|BAC56858.1| DWWA [Dictyostelium discoideum] [ score 54 E 9e-07 ] [ range 326 .. 357 ] [ duplicate a ]
+sequence
+----------KLPDGWESRIDPVSGKVFYLNHNNKTTSWISP---------*
+>P1;gi|19112585|ref|NP_595793.1| ubiquitin--protein ligase [Schizosa... [ score 54 E 1e-06 ] [ range 366 .. 395 ] [ duplicate b ]
+sequence
+-----------LPSGWEMRLTNSA-RVYFVDHNTKTTTWDDP---------*
+>P1;gi|38257151|ref|NP_940682.1| neural precursor cell expressed, de... [ score 54 E 1e-06 ] [ range 822 .. 851 ] [ duplicate b ]
+sequence
+-----------LPPGWEER-THTDGRIFYINHNIKRTQWEDP---------*
+>P1;gi|31238690|ref|XP_319824.1| ENSANGP00000016497 [Anopheles gambi... [ score 53 E 2e-06 ] [ range 475 .. 504 ] [ duplicate b ]
+sequence
+-----------LPDGWEKRVQPDN-RVYFVNHKNRTTQWEDP---------*
+>P1;gi|2347056|emb|CAA03915.1| Nedd4 protein [Xenopus laevis] [ score 53 E 3e-06 ] [ range 546 .. 575 ] [ duplicate b ]
+sequence
+-----------LPPGWEERI-HMDGRTFYIDHNTKITQWEDP---------*
+>P1;gi|43480552|gb|EAD95016.1| unknown [environmental sequence] [ score 53 E 3e-06 ] [ range 21 .. 51 ]
+sequence
+-----------LPPGWESRLDPVTGRTFYIDHNTKTTSWALP---------*
+>P1;gi|21619660|gb|AAH32597.1| NEDD4L protein [Homo sapiens] [ score 52 E 4e-06 ] [ range 486 .. 515 ] [ duplicate c ]
+sequence
+-----------LPPGWEERI-HLDGRTFYIDHNSKITQWEDP---------*
+>P1;gi|32469607|sp|Q62940|NED4_RAT Ubiquitin-protein ligase Nedd-4 >... [ score 52 E 5e-06 ] [ range 461 .. 490 ] [ duplicate b ]
+sequence
+-----------LPPGWEER-THTDGRVFFINHNIKKTQWEDP---------*
+>P1;gi|17136524|ref|NP_476753.1| Suppressor of deltex CG4244-PB [Dro... [ score 51 E 7e-06 ] [ range 479 .. 508 ] [ duplicate b ]
+sequence
+-----------LPDGWEKKI-QSDNRVYFVNHKNRTTQWEDP---------*
+>P1;gi|14010861|ref|NP_114087.1| neural precursor cell expressed, de... [ score 50 E 1e-05 ] [ range 430 .. 459 ] [ duplicate d ]
+sequence
+-----------LPPGWEGRI-HLDGRTFYIDHNSKITQWEDP---------*
+>P1;gi|41053891|ref|NP_957207.1| similar to WW domain containing oxi... [ score 50 E 2e-05 ] [ range 17 .. 47 ]
+sequence
+----------ELPPGWEER-STKDGWVYYANHEEMKTQWEHP---------*
+>P1;gi|39589476|emb|CAE74505.1| Hypothetical protein CBG22256 [Caeno... [ score 49 E 2e-05 ] [ range 371 .. 400 ]
+sequence
+-----------LPPGWEQRV-HVDGRVFFIDHNRRRTQWEDP---------*
+>P1;gi|7288611|gb|AAF45194.1| ubiquitin-protein ligase Nedd4 [Orycto... [ score 49 E 3e-05 ] [ range 383 .. 412 ] [ duplicate b ]
+sequence
+-----------LPPGWEER-THTDGRIFYINHNIKKTQWEDP---------*
+>P1;gi|34870386|ref|XP_221895.2| similar to RIKEN cDNA 4930431E10 [R... [ score 49 E 3e-05 ] [ range 792 .. 821 ]
+sequence
+-----------LPPGWEVR-STVSGRIYFVDHNNRTTQFTDP---------*
+>P1;gi|19401480|gb|AAL87621.1| late domain-interacting protein 1 [Ga... [ score 49 E 3e-05 ] [ range 520 .. 549 ] [ duplicate d ]
+sequence
+-----------LPPGWEERI-HLDGRTFYIDHNNKITQWEDP---------*
+>P1;gi|34906966|ref|NP_914830.1| P0004D12.24 [Oryza sativa (japonica... [ score 49 E 4e-05 ] [ range 177 .. 208 ] [ duplicate a ]
+sequence
+----------ELPPGWVEAKDPTSGASYFYNQSTGTTQWDRP---------*
+>P1;gi|34906966|ref|NP_914830.1| P0004D12.24 [Oryza sativa (japonica... [ score 49 E 4e-05 ] [ range 225 .. 256 ] [ duplicate b ]
+sequence
+-----------LPENWEEALDQSTGQKYYYNTNTQATQWEPPT--------*
+>P1;gi|32563663|ref|NP_490865.3| NEDD4 ubiquitin-protein ligase, exp... [ score 48 E 8e-05 ] [ range 323 .. 352 ]
+sequence
+-----------LPAGWEQRV-HADGRVFFIDHNRRRTQWEDP---------*
+>P1;gi|37360314|dbj|BAC98135.1| mKIAA1301 protein [Mus musculus] [ score 47 E 1e-04 ] [ range 692 .. 722 ]
+sequence
+-----------LPPNWEARID-SHGRIFYVDHVNRTTTWQRPT--------*
+>P1;gi|43111310|gb|EAC21702.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 103 .. 133 ]
+sequence
+-----------LPAGWESRIDPASGKTFYVNLVTKTTAWELP---------*
+>P1;gi|43808373|gb|EAF58687.1| unknown [environmental sequence] [ score 47 E 2e-04 ] [ range 62 .. 94 ] [ duplicate a ]
+sequence
+----------QLPAGWEQRVNISTGHPYYVDHSTQSTQWEPPT--------*
+>P1;gi|43808373|gb|EAF58687.1| unknown [environmental sequence] [ score 47 E 2e-04 ] [ range 215 .. 247 ] [ duplicate e ]
+sequence
+----------QLPAGWEQRINISTGHPFYIDHNTRTTHWQSPT--------*
+>P1;gi|42555474|gb|EAA78317.1| hypothetical protein FG06532.1 [Gibbe... [ score 46 E 3e-04 ] [ range 6 .. 38 ]
+sequence
+-----------LPPGWEVRHSNSKNLPYYFNSAEKLSRWEPPSG-------*
+>P1;gi|34979129|gb|AAQ83700.1| peptidyl-prolyl cis/trans isomerase [... [ score 45 E 5e-04 ] [ range 9 .. 40 ]
+sequence
+-----------LPSGWEVRHSNSKNLPYYFNPITKESRWEPPS--------*
+>P1;gi|30580514|sp|O60045|SSP1_NEUCR Peptidyl-prolyl cis-trans isome... [ score 45 E 6e-04 ] [ range 9 .. 41 ]
+sequence
+-----------LPEDWEVRHSQSKNLPYYFNSATKTSRWEPPSG-------*
+>P1;gi|42854739|gb|EAA94655.1| unknown [environmental sequence] [ score 44 E 7e-04 ] [ range 34 .. 65 ]
+sequence
+-----------LPDGWTERKLQRTGQTYYVNKETGESVWEHPS--------*
+>P1;gi|12655856|gb|AAK00626.1| peptidyl prolyl cis/trans isomerase [... [ score 44 E 8e-04 ] [ range 8 .. 40 ]
+sequence
+-----------LPPNWTIRVSRSHNKEYFLNQSTNESSWDPPYG-------*
+>P1;gi|13774959|gb|AAK39107.1| zinc finger protein 2 [Trypanosoma br... [ score 44 E 9e-04 ] [ range 19 .. 49 ]
+sequence
+----------QLPPGWQMAYS-VEGEVYYIDHNTRTTHWKIP---------*
+>P1;gi|28302209|gb|AAH46714.1| TCERG1 protein [Xenopus laevis] [ score 75 E 5e-13 ] [ range 368 .. 404 ] [ duplicate a ]
+sequence
+G--------ATILSEWSEYKTA-DGKTYYYNNRTLESTWDKPQELK-----*
+>P1;gi|28302209|gb|AAH46714.1| TCERG1 protein [Xenopus laevis] [ score 75 E 5e-13 ] [ range 110 .. 139 ] [ duplicate b ]
+sequence
+---------------WVENKTP-DGKVYYYNARTRESAWSKPDGVK-----*
+>P1;gi|34879270|ref|XP_225983.2| similar to transcription elongation... [ score 74 E 9e-13 ] [ range 137 .. 166 ] [ duplicate b ]
+sequence
+---------------WVENKTP-DGKVYYYNARTRESAWTKPDGVK-----*
+>P1;gi|38198633|ref|NP_938171.1| transcription elongation regulator ... [ score 71 E 9e-12 ] [ range 346 .. 382 ] [ duplicate a ]
+sequence
+G--------ALGTSDWAEFKTP-EGKSYYYNKHTQETTWDKPEELR-----*
+>P1;gi|38198633|ref|NP_938171.1| transcription elongation regulator ... [ score 71 E 9e-12 ] [ range 141 .. 170 ] [ duplicate b ]
+sequence
+---------------WVENKSP-EGKVYYYNARTRESSWTKPEGVK-----*
+>P1;gi|15636898|dbj|BAB68206.1| formin binding protein 11-related pr... [ score 68 E 5e-11 ] [ range 341 .. 374 ] [ duplicate b ]
+sequence
+----------LSKCPWKEYKSD-SGKPYYYNSQTKESRWAKPKEL------*
+>P1;gi|34854838|ref|XP_215739.2| similar to formin binding protein 1... [ score 67 E 1e-10 ] [ range 202 .. 237 ] [ duplicate a ]
+sequence
+---------SLLKSMWTEHKSP-DGRTYYYNTETKQSTWEKPDDLK-----*
+>P1;gi|31222666|ref|XP_317209.1| ENSANGP00000011993 [Anopheles gambi... [ score 67 E 1e-10 ] [ range 58 .. 90 ]
+sequence
+------------VNEWSEHKTP-EGRTYYYNSITKQSLWEKPDEMK-----*
+>P1;gi|19920620|ref|NP_608738.1| CG3542-PA [Drosophila melanogaster]... [ score 66 E 2e-10 ] [ range 53 .. 84 ]
+sequence
+------------STEWTEHKAP-DGRPYYYNQNTKQSSWEKPEAL------*
+>P1;gi|8656003|gb|AAF78276.1| Contains similarity to formin binding ... [ score 66 E 2e-10 ] [ range 230 .. 265 ] [ duplicate b ]
+sequence
+---------ADASTVWKEFTTP-EGKKYYYNKVTKESKWTIPEDLK-----*
+>P1;gi|18150431|gb|AAL61622.1| FCA gamma [Brassica napus] [ score 66 E 3e-10 ] [ range 573 .. 601 ]
+sequence
+---------------WTEHTSP-DGFKYYYNGQTGESKWEKPEEM------*
+>P1;gi|32482123|gb|AAP84412.1| FCA protein [Triticum aestivum] [ score 65 E 4e-10 ] [ range 613 .. 644 ]
+sequence
+-----------STCNWTEHTSP-EGFKYYYNSITRESKWEKPEE-------*
+>P1;gi|34913470|ref|NP_918082.1| putative formin binding protein [Or... [ score 65 E 5e-10 ] [ range 240 .. 273 ] [ duplicate a ]
+sequence
+----------TSSSDWQEHTSA-DGKKYYYNKKTRQSSWEKPAEL------*
+>P1;gi|34913470|ref|NP_918082.1| putative formin binding protein [Or... [ score 65 E 5e-10 ] [ range 280 .. 315 ] [ duplicate b ]
+sequence
+---------ADASTEWKEFTTQ-EGRKYYYNKVTKQSKWTIPDELK-----*
+>P1;gi|15230916|ref|NP_188601.1| FF domain-containing protein / WW d... [ score 65 E 5e-10 ] [ range 205 .. 237 ] [ duplicate a ]
+sequence
+-----------ALTDWVEHTSA-DGRKYFFNKRTKKSTWEKPVEL------*
+>P1;gi|15230916|ref|NP_188601.1| FF domain-containing protein / WW d... [ score 65 E 5e-10 ] [ range 244 .. 279 ] [ duplicate b ]
+sequence
+---------ADARTDWKEHSSP-DGRKYYYNKITKQSTWTMPEEMK-----*
+>P1;gi|32364119|gb|AAP80210.1| FCA-like protein [Triticum aestivum] [ score 64 E 1e-09 ] [ range 368 .. 395 ]
+sequence
+---------------WTEHTSP-EGFKYYYNSTTRESKWEKPEE-------*
+>P1;gi|32482390|gb|AAP84384.1| FCA protein [Triticum aestivum] [ score 64 E 1e-09 ] [ range 617 .. 644 ]
+sequence
+---------------WTEHTSP-EGFKYYYNSMTRESKWEKPEE-------*
+>P1;gi|32364104|gb|AAP80203.1| FCA-like protein [Triticum aestivum] [ score 63 E 1e-09 ] [ range 365 .. 392 ]
+sequence
+---------------WTEHTSP-EGFKYYYNSITRESEWEKPEE-------*
+>P1;gi|32482125|gb|AAP84413.1| FCA protein [Triticum aestivum] [ score 63 E 1e-09 ] [ range 611 .. 638 ]
+sequence
+---------------WTEHTSP-EGFKYYYNSITRKSKWEKPEE-------*
+>P1;gi|34555650|gb|AAQ74973.1| flowering time control protein isofor... [ score 63 E 1e-09 ] [ range 514 .. 541 ]
+sequence
+---------------WTEHTSP-EGFKYYYNSITRESKWDKPEE-------*
+>P1;gi|2204089|emb|CAB05388.1| FCA gamma [Arabidopsis thaliana] [ score 63 E 2e-09 ] [ range 597 .. 625 ]
+sequence
+---------------WTEHTSP-DGFKYYYNGLTGESKWEKPEEM------*
+>P1;gi|32482130|gb|AAP84415.1| FCA protein [Triticum aestivum] [ score 63 E 2e-09 ] [ range 623 .. 650 ]
+sequence
+---------------WAEHTSP-EGFKYYYNSITRESKWEKPEE-------*
+>P1;gi|38198625|ref|NP_938170.1| formin binding protein 3 [Danio rer... [ score 62 E 3e-09 ] [ range 109 .. 141 ] [ duplicate a ]
+sequence
+------------KSVWTEHKSL-DGKIYYYNTETKQSTWEKPDELK-----*
+>P1;gi|38198625|ref|NP_938170.1| formin binding protein 3 [Danio rer... [ score 62 E 3e-09 ] [ range 148 .. 181 ] [ duplicate b ]
+sequence
+----------LSKCPWKEYKSD-TGKPYYYNSQTKESRWTKPKEL------*
+>P1;gi|32364094|gb|AAP80198.1| FCA-like protein [Triticum aestivum] [ score 62 E 3e-09 ] [ range 365 .. 392 ]
+sequence
+---------------WTEHTSP-GGFKYYYNSITRESKWEKPEE-------*
+>P1;gi|32482096|gb|AAP84401.1| FCA protein [Triticum aestivum] [ score 62 E 4e-09 ] [ range 615 .. 642 ]
+sequence
+---------------WTEHTPP-EGFKYYYNSITRESKWEKPEE-------*
+>P1;gi|32482116|gb|AAP84410.1| FCA protein [Triticum aestivum] [ score 62 E 4e-09 ] [ range 600 .. 627 ]
+sequence
+---------------WTKHTSP-EGFKYYYNSITRESKWEKPEE-------*
+>P1;gi|32364100|gb|AAP80201.1| FCA-like protein [Triticum aestivum] [ score 61 E 5e-09 ] [ range 365 .. 392 ]
+sequence
+---------------WTEHTSP-EGFKHYYNSITRESKWEKPEE-------*
+>P1;gi|32364085|gb|AAP80194.1| FCA-like protein [Triticum aestivum] [ score 61 E 1e-08 ] [ range 365 .. 392 ]
+sequence
+---------------WTEHTSP-EGFKYYYNSITRESKWVKPEE-------*
+>P1;gi|32364121|gb|AAP80211.1| FCA-like protein [Triticum aestivum] [ score 60 E 2e-08 ] [ range 366 .. 393 ]
+sequence
+---------------WTEHTSP-EGFKYYYNSITRESKWEKLEE-------*
+>P1;gi|32364070|gb|AAP80187.1| FCA-like protein [Triticum aestivum] [ score 58 E 6e-08 ] [ range 366 .. 393 ]
+sequence
+---------------WTEHTSP-EGFKYYYNSITRESKREKPEE-------*
+>P1;gi|39590817|emb|CAE65190.1| Hypothetical protein CBG10063 [Caeno... [ score 57 E 1e-07 ] [ range 80 .. 113 ]
+sequence
+-----------AESEWSEHPHT-DGRSYYYNKITKQSSWVKPDALK-----*
+>P1;gi|6325410|ref|NP_015478.1| Hypothetical ORF; Ypr152cp [Saccharo... [ score 56 E 2e-07 ] [ range 4 .. 30 ]
+sequence
+--------------EWQEFKTP-AGKKYYYNKNTKQSRWEKP---------*
+>P1;gi|7767653|gb|AAF69150.1| F27F5.2 [Arabidopsis thaliana] [ score 54 E 8e-07 ] [ range 187 .. 240 ] [ duplicate b ]
+sequence
+-----------SASDWQEHTSA-DGRKYYYNKRTKQSNWEKPLEL------*
+>P1;gi|34192866|gb|AAH50398.1| HYPC protein [Homo sapiens] [ score 54 E 1e-06 ] [ range 98 .. 127 ] [ duplicate a ]
+sequence
+---------------WSEHVAP-DGRIYYYNADDKQSVWEKPSVLK-----*
+>P1;gi|34192866|gb|AAH50398.1| HYPC protein [Homo sapiens] [ score 54 E 1e-06 ] [ range 139 .. 167 ] [ duplicate b ]
+sequence
+---------------WKEYKSD-TGKPYYYNNQSKESRWTRPKDL------*
+>P1;gi|31207465|ref|XP_312699.1| ENSANGP00000020635 [Anopheles gambi... [ score 53 E 1e-06 ] [ range 267 .. 297 ]
+sequence
+------------VGDWSEHVSS-SGKKYYYNCKTEVSQWEKPRE-------*
+>P1;gi|31228540|ref|XP_318073.1| ENSANGP00000003488 [Anopheles gambi... [ score 53 E 2e-06 ] [ range 159 .. 191 ]
+sequence
+------------ATVWSEHTAP-DGRMFYYNASKGESVWEKPQALR-----*
+>P1;gi|9055244|ref|NP_061256.1| huntington yeast partner C [Mus musc... [ score 53 E 2e-06 ] [ range 139 .. 167 ] [ duplicate b ]
+sequence
+---------------WKEYKSD-TGKPYYYNNQSQESRWTRPKDL------*
+>P1;gi|43847821|gb|EAF78172.1| unknown [environmental sequence] [ score 52 E 4e-06 ] [ range 26 .. 57 ]
+sequence
+-------------SKWTEHKAP-DGRTYYYNSVTKQSAWEKPICMK-----*
+>P1;gi|42553940|gb|EAA76783.1| hypothetical protein FG07100.1 [Gibbe... [ score 52 E 5e-06 ] [ range 12 .. 43 ] [ duplicate a ]
+sequence
+------------ASAWQEHHTP-DGRAYYYNTTTKATQWTKPEDM------*
+>P1;gi|42553940|gb|EAA76783.1| hypothetical protein FG07100.1 [Gibbe... [ score 52 E 5e-06 ] [ range 50 .. 82 ] [ duplicate b ]
+sequence
+---------ALANQPWKEYTAE-GGRKYWYNTETKQSSWEMPD--------*
+>P1;gi|30690648|ref|NP_850472.1| flowering time control protein-rela... [ score 51 E 5e-06 ] [ range 406 .. 434 ]
+sequence
+--------------DWSEHTCP-NGNKYYFHCITCESTWEKPDE-------*
+>P1;gi|44254269|gb|EAH99004.1| unknown [environmental sequence] [ score 51 E 6e-06 ] [ range 212 .. 240 ]
+sequence
+---------------WTEHTAP-EGYVYYYNSRTGVSQWERPMEL------*
+>P1;gi|39590279|emb|CAE66017.1| Hypothetical protein CBG11210 [Caeno... [ score 51 E 7e-06 ] [ range 225 .. 253 ]
+sequence
+---------------WSEFSAP-DGRKYYYNSITQENTWEKPKAL------*
+>P1;gi|23346503|ref|NP_694725.1| WW domain-containing protein 4 [Mus... [ score 51 E 7e-06 ] [ range 131 .. 162 ]
+sequence
+-----------SADDWSEHISS-SGKKYYYNCRTEVSQWEKPKE-------*
+>P1;gi|19115878|ref|NP_594966.1| hypothetical WW domain-containing p... [ score 51 E 1e-05 ] [ range 31 .. 64 ] [ duplicate a ]
+sequence
+----------TVASDWHEVKTE-DSRVYYYNSVTRKSVWEKPEEL------*
+>P1;gi|19115878|ref|NP_594966.1| hypothetical WW domain-containing p... [ score 51 E 1e-05 ] [ range 77 .. 106 ] [ duplicate b ]
+sequence
+---------------WKEYATA-DGKKYWYNVNTRESVWDIPDEYK-----*
+>P1;gi|28573212|ref|NP_788585.1| CG33097-PA [Drosophila melanogaster... [ score 50 E 1e-05 ] [ range 294 .. 326 ]
+sequence
+------------AAEWSEHRAP-DGRPYYFHAGRGESVWEKPQALR-----*
+>P1;gi|25395572|pir||F88196 protein ZK1127.9 [imported] - Caenorhabd... [ score 49 E 2e-05 ] [ range 267 .. 295 ]
+sequence
+---------------WNEFNAP-DGRKYYFNSITQENTWEKPKAL------*
+>P1;gi|38104247|gb|EAA50843.1| hypothetical protein MG04602.4 [Magna... [ score 49 E 3e-05 ] [ range 21 .. 49 ] [ duplicate a ]
+sequence
+---------------WQEHRTA-DGRLYYYNSATKVTQWTKPEDM------*
+>P1;gi|38104247|gb|EAA50843.1| hypothetical protein MG04602.4 [Magna... [ score 49 E 3e-05 ] [ range 56 .. 88 ] [ duplicate b ]
+sequence
+---------ALANQPWKEYTAE-GGRKYWYNTETKQSSWEMPE--------*
+>P1;gi|6322840|ref|NP_012913.1| U1 snRNP protein involved in splicin... [ score 49 E 3e-05 ] [ range 2 .. 32 ]
+sequence
+-------------SIWKEAKDA-SGRIYYYNTLTKKSTWEKPKEL------*
+>P1;gi|23490366|gb|EAA22161.1| RNA recognition motif, putative [Plas... [ score 49 E 3e-05 ] [ range 102 .. 133 ]
+sequence
+------------KNIWQKHVTS-DGHPYYYNSITGHSQWEKPKEI------*
+>P1;gi|24642705|ref|NP_573187.1| CG8949-PA [Drosophila melanogaster]... [ score 49 E 4e-05 ] [ range 285 .. 313 ]
+sequence
+--------------DWSEHVSS-SGKMYYYNCKTEISQWEKPKE-------*
+>P1;gi|23612783|ref|NP_704322.1| RNA-binding protein, putative [Plas... [ score 48 E 4e-05 ] [ range 100 .. 131 ]
+sequence
+------------KNVWQKHVTT-DGHPYYYNSVTGHSQWEKPKEM------*
+>P1;gi|32420109|ref|XP_330498.1| hypothetical protein [Neurospora cr... [ score 48 E 5e-05 ] [ range 16 .. 44 ] [ duplicate a ]
+sequence
+---------------WQDHRTP-DGRVYYYNSLTRVTQWTKPEEL------*
+>P1;gi|32420109|ref|XP_330498.1| hypothetical protein [Neurospora cr... [ score 48 E 5e-05 ] [ range 51 .. 83 ] [ duplicate b ]
+sequence
+---------ALANQPWKEYTAE-GGKKYWYNTETKQSSWEMPE--------*
+>P1;gi|45198835|ref|NP_985864.1| AFR317Cp [Eremothecium gossypii] >g... [ score 48 E 6e-05 ] [ range 3 .. 29 ]
+sequence
+---------------WKRAKSE-DGKAYYYNTETNETTWDKPD--------*
+>P1;gi|23491203|gb|EAA22796.1| Drosophila melanogaster CG3542 gene p... [ score 48 E 9e-05 ] [ range 157 .. 186 ]
+sequence
+---------------WCEMVAK-NGRKYYYNTITKNSKWDKPDELK-----*
+>P1;gi|40746686|gb|EAA65842.1| hypothetical protein AN1249.2 [Asperg... [ score 47 E 1e-04 ] [ range 11 .. 42 ] [ duplicate a ]
+sequence
+------------ASLWQEARTP-EGRAYYYNVQTKATQWTKPVEL------*
+>P1;gi|40746686|gb|EAA65842.1| hypothetical protein AN1249.2 [Asperg... [ score 47 E 1e-04 ] [ range 49 .. 84 ] [ duplicate b ]
+sequence
+---------ALANQPWKEYTAE-GGRKYWSNSETKESTWEMPEAYK-----*
+>P1;gi|34874540|ref|XP_341361.1| WW domain binding protein 4 (formin... [ score 46 E 2e-04 ] [ range 164 .. 195 ]
+sequence
+-----------AKAIWVEGLSE-DGYTYYYNTETGESKWEKPDD-------*
+>P1;gi|11994195|dbj|BAB01298.1| unnamed protein product [Arabidopsis... [ score 46 E 3e-04 ] [ range 299 .. 330 ]
+sequence
+-------------TDWALVSTN-DGKKYYYNNKTKVSSWQIPAEVK-----*
+>P1;gi|23619111|ref|NP_705073.1| hypothetical protein [Plasmodium fa... [ score 46 E 3e-04 ] [ range 261 .. 290 ]
+sequence
+---------------WVEMVAK-NGRKFYYNSITKCSKWEKPNELK-----*
+>P1;gi|22028154|gb|AAH34851.1| WW domain binding protein 4 [Mus musc... [ score 45 E 7e-04 ] [ range 166 .. 197 ]
+sequence
+-----------AKAVWVEGLSE-DGYTYYYNTETGESKWEKPED-------*
+>P1;gi|85436|pir||A41130 dystrophin homolog - Pacific electric ray (... [ score 89 E 3e-17 ] [ range 245 .. 282 ]
+sequence
+-PTSQHFLSTSVQGPWERAISPN-KVPYYINHQTQTTCWD-----------*
+>P1;gi|45384284|ref|NP_990630.1| dystrophin [Gallus gallus] >gi|1186... [ score 89 E 3e-17 ] [ range 3044 .. 3081 ]
+sequence
+-PTSQHFLTTSVQGPWERAISPN-KVPYYINHETQTTCWD-----------*
+>P1;gi|6005938|ref|NP_009055.1| utrophin; dystrophin-related protein... [ score 88 E 7e-17 ] [ range 2804 .. 2841 ]
+sequence
+-PSSQHFLSTSVQLPWQRSISHN-KVPYYINHQTQTTCWD-----------*
+>P1;gi|32441707|emb|CAD67583.1| putative utrophin [Takifugu rubripes] [ score 88 E 8e-17 ] [ range 2920 .. 2957 ]
+sequence
+-PSSQHFLSTSVQLPWQRAVSQN-KVPYYINHQTQTTCWD-----------*
+>P1;gi|20985496|ref|XP_142131.1| similar to dystrophin-related prote... [ score 86 E 2e-16 ] [ range 532 .. 569 ]
+sequence
+-PGSQHFLSTSVQVPWERAISPN-KVPYYINHQAQTTCWD-----------*
+>P1;gi|6981696|ref|NP_037202.1| utrophin; utrophin (homologous to dy... [ score 86 E 2e-16 ] [ range 2791 .. 2828 ]
+sequence
+-PCSQHFLSTSVQLPWQRSISHN-KVPYYINHQTQTTCWD-----------*
+>P1;gi|4503393|ref|NP_001930.1| dystrophin related protein 2 [Homo s... [ score 83 E 2e-15 ] [ range 341 .. 378 ]
+sequence
+-PGSQHFLSSSVQVPWERAISPN-KVPYYINHQAQTTCWD-----------*
+>P1;gi|45383916|ref|NP_034208.1| dystrophin related protein 2 [Mus m... [ score 83 E 2e-15 ] [ range 344 .. 381 ]
+sequence
+-PGSQHFLSTSVQVPWERAFSPN-KVPYYINHQAQTTCWD-----------*
+>P1;gi|3334856|emb|CAA11279.1| SuDp98 protein [Strongylocentrotus pu... [ score 83 E 2e-15 ] [ range 177 .. 214 ]
+sequence
+-PQSQHFLRASVQHPWERAVAAN-KVPYFINHGTETTHWD-----------*
+>P1;gi|13699250|gb|AAK38376.1| dystrophin [Danio rerio] [ score 76 E 3e-13 ] [ range 492 .. 527 ]
+sequence
+---SQNFLHASVESPLERSISPN-NVPYYINHQTQTTCWD-----------*
+>P1;gi|17506447|ref|NP_492946.1| DYStrophin related (417.4 kD) (dys-... [ score 71 E 9e-12 ] [ range 3039 .. 3077 ]
+sequence
+-PTSEHFLNQSVTLPWQRAISSN-LLPYYIEQTSEKTQWE-----------*
+>P1;gi|31236643|ref|XP_319450.1| ENSANGP00000002882 [Anopheles gambi... [ score 68 E 8e-11 ] [ range 382 .. 413 ]
+sequence
+-------LEKSVQIPWERAVTPA-NVPYYINHERESTHWD-----------*
+>P1;gi|13183552|gb|AAK15256.1| dystrophin-like protein DLP2 [Drosoph... [ score 66 E 2e-10 ] [ range 2847 .. 2878 ]
+sequence
+-------LGQSVKPPWERATTAA-NVPYYIDHERQTTHWD-----------*
+>P1;gi|24648200|ref|NP_732427.1| dystrophin CG31175-PC [Drosophila m... [ score 66 E 2e-10 ] [ range 2477 .. 2508 ]
+sequence
+-------LGQSVKPPWERATTAA-NVPYYIDHERETTHWD-----------*
+>P1;gi|30315803|emb|CAD67584.1| putative dystrophin [Takifugu rubripes] [ score 65 E 5e-10 ] [ range 2989 .. 3019 ]
+sequence
+--------HGSVESPFEQGISPN-NVPYYINHQTQTTCWD-----------*

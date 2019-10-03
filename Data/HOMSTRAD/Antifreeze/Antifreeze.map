@@ -1,0 +1,104 @@
+>P1;3rdn
+structureX:3rdn:   1 : :  73 : :antifreeze peptide RD3:Rhigophila dearborni: -1: -1
+-NKASVVANQLIPINTALTLIMMKAEVVTPMGIPAEEIPNLVGMQVNRAVPLGTTLMPDMVKNYEDGTTS
+PGLK*
+>P1;1msi
+structureX:1msi:   0 : :  65 : :antifreeze glycoprotein QAE:Macrozoarces americanus: 1.25: 19.8
+AAQASVVANQLIPINTALTLVMMRSEVVTPVGIPAEDIPRLVSMQVNRAVPLGTTLMPDMVKGYAA----
+----*
+>P1;1ops
+structureX:1ops:   2 : :  65 : :antifreeze glycoprotein SP2:Macrozoarces americanus: 2.00: 20.4
+--SQSVVATQLIPMNTALTPAMMEGKVTNPIGIPFAEMSQLVGKQVNTPVAKGQTLMPNMVKTYAA----
+----*
+>P1;gi|543811|sp|P35753|ANP3_RHIDE Antifreeze peptide RD3 >gi|107926... [ score 113 E 8e-25 ] [ range 74 .. 134 ] [ duplicate b ]
+sequence
+----SVVANQLIPINTALTLVMMKAEEVSPKGIPSEEISKLVGMQVNRAVYLDQTLMPDMVKNYE-----
+----*
+>P1;gi|671698|gb|AAC59699.1| type III antifreeze peptide >gi|671702|... [ score 112 E 2e-24 ] [ range 1 .. 70 ]
+sequence
+----SVVANQLIPINTALTLVMMKAEEVSPKGIPAEEIPKLVGMQVNRAVYLDQTLMPDMVKNYEDGTTC
+PGIK*
+>P1;gi|671692|gb|AAB60609.1| pre-antifreeze peptide RD2 >gi|671694|g... [ score 103 E 2e-21 ] [ range 23 .. 86 ]
+sequence
+-NKASVVANQLIPINTALTLIMMKAEVVTPMGIPAEDIPRIIGMQVNRAVPLGTTLMPDMVKNYE-----
+----*
+>P1;gi|4930271|pdb|9AME|A Chain A, Type Iii Antifreeze Protein Isofo... [ score 97 E 9e-20 ] [ range 2 .. 66 ]
+sequence
+-NQASVVANQLIPINTALTLVMMRSEVVTPVGIPAEDIPRLVGMQVNRAVPLGTTLMPDMVKGYAA----
+----*
+>P1;gi|113887|sp|P24028|ANP1_LYCPO Antifreeze protein LP >gi|72036|p... [ score 95 E 3e-19 ] [ range 1 .. 64 ]
+sequence
+-NKASVVANQLIPINTALTLVMMRAEVVTPAGIPAEDIPRLVGLQVNRAVLIGTTLMPDMVKGYA-----
+----*
+>P1;gi|113885|sp|P12416|ANP1_ANALU Antifreeze protein type III precu... [ score 103 E 2e-21 ] [ range 21 .. 86 ]
+sequence
+SASQSVVATQLIPINTALTPIMMKGQVVNPAGIPFAEMSQIVGKQVNRPVAKDETLMPNMVKTYRA----
+----*
+>P1;gi|210960|gb|AAA74891.1| antifreeze protein [ score 102 E 2e-21 ] [ range 22 .. 87 ]
+sequence
+ASQQSVVATQLIPINTALTPIMMKGQVVNPAGIPFAEMSQIVGKQVNRAVAKDETLMPNMVKTYRA----
+----*
+>P1;gi|113903|sp|P19607|ANP5_MACAM Antifreeze glycoprotein lambda OP... [ score 100 E 9e-21 ] [ range 21 .. 85 ]
+sequence
+-ASQSVVATQLIPINTALTPVMMEGKVTNPIGIPFAEMSQIVGKQVNTPVAKGQTLMPNMVKTYAA----
+----*
+>P1;gi|113893|sp|P19606|ANP3_MACAM Antifreeze glycoprotein lambda OP... [ score 99 E 2e-20 ] [ range 21 .. 84 ]
+sequence
+SANQSVVATQLIPINTALTLVMMTTRVIYPTGIPAEDIPRLVSMQVNQAVPMGTTLMPDMVKFY------
+----*
+>P1;gi|113923|sp|P19605|ANPE_MACAM Antifreeze glycoprotein C10 precu... [ score 99 E 3e-20 ] [ range 21 .. 85 ]
+sequence
+-ASQSVVATQLIPMNSALTPVMMEGKVTNPIGIPFAEMSQMVGKQVNRPVAKGQTIMPNMVKTYAA----
+----*
+>P1;gi|113888|sp|P07457|ANP1_MACAM Antifreeze glycoprotein SP1-C pre... [ score 98 E 4e-20 ] [ range 21 .. 85 ]
+sequence
+-ASQSVVATQLIPINTALTPAMMEGKVTNPIGIPFAEMSQIVGKQVNTPVAKGQTLMPNMVKTYVA----
+----*
+>P1;gi|4930268|pdb|8AME|A Chain A, Type Iii Antifreeze Protein Isofo... [ score 97 E 9e-20 ] [ range 1 .. 66 ]
+sequence
+ANQASVVANQLIPISTHLTLVMMRSEVVTPVGIPAEDIPRLVSMQVNRAVPLGTTLMPDMVKGYAA----
+----*
+>P1;gi|4930269|pdb|8MSI|A Chain A, Type Iii Antifreeze Protein Isofo... [ score 94 E 1e-18 ] [ range 1 .. 66 ]
+sequence
+ANQASVVANQLIPISTALTLVMMRSEVVTPVGIPAEDIPRLVSMTVNRAVPLGTTLMPDMVKGYAA----
+----*
+>P1;gi|4930211|pdb|3AME|A Chain A, Type Iii Antifreeze Protein Isofo... [ score 93 E 1e-18 ] [ range 1 .. 66 ]
+sequence
+ANQASVVANTLIPINTALTLVMMRSEVVTPVGIPAEDIPRLVSMTVNRAVPLGTTLMPDMVKGYAA----
+----*
+>P1;gi|3891669|pdb|6MSI|  Type Iii Antifreeze Protein Isoform Hplc 12 [ score 92 E 3e-18 ] [ range 2 .. 66 ]
+sequence
+-AQASVVANQLIPINTRLTLVMMRSEVVTPVGIPAEDIPALVSMQVNRAVPLGTTLMPDMVKGYAA----
+----*
+>P1;gi|113911|sp|P19612|ANP9_MACAM Antifreeze glycoprotein SP3(HPLC ... [ score 92 E 4e-18 ] [ range 1 .. 64 ]
+sequence
+--SQSVVATQLIPMNTALTPAMMEGKVTNPIGIPFAEMSQIVGKQVNRIVAKGQTLMPNMVKTYAA----
+----*
+>P1;gi|113891|sp|P12101|ANP2_AUSBR Antifreeze peptide AB2 >gi|85632|... [ score 92 E 3e-18 ] [ range 1 .. 62 ]
+sequence
+--TKSVVANQLIPINTALTLVMMKAEEVSPKGIPAEEIPRLVGMQVNRAVYLDETLMPDMVKNY------
+----*
+>P1;gi|41351113|gb|AAH65584.1| Wu:fb73c01 protein [Danio rerio] [ score 92 E 3e-18 ] [ range 293 .. 353 ]
+sequence
+---KSVVAKTSIPKGTELTLDMLAVKVAEPKGVAPEEIFQLVGKKVTTDVEEDESITEDVVDSY------
+----*
+>P1;gi|113886|sp|P12100|ANP1_AUSBR Antifreeze peptide AB1 >gi|85631|... [ score 85 E 3e-16 ] [ range 1 .. 62 ]
+sequence
+--TKSVVASQLIPINTALTPAMMKAKEVSPKGIPAEEMSKIVGMQVNRAVNLDETLMPDMVKTY------
+----*
+>P1;gi|17939512|gb|AAH19315.1| N-acetylneuraminic acid phosphate syn... [ score 74 E 8e-13 ] [ range 293 .. 353 ]
+sequence
+---KSVVAKVKIPEGTILTMDMLTVKVGEPKGYPPEDIFNLVGKKVLVTVEEDDTIMEELVDNH------
+----*
+>P1;gi|27714479|ref|XP_216398.1| similar to N-acetylneuraminic acid ... [ score 70 E 1e-11 ] [ range 293 .. 352 ]
+sequence
+---KSVVAKVKIPAGTILTLDMLTVKVGEPKGYPPEDIFNLVGKKVLVTIEEDDTVMEESVES-------
+----*
+>P1;gi|16716467|ref|NP_444409.1| N-acetylneuraminic acid synthase (s... [ score 69 E 2e-11 ] [ range 293 .. 354 ]
+sequence
+---KSVVAKVKIPAGTTLTLDMLTVKVGEPKGYPPEDIFNLAGKKVLVTIEEDDTVMEESVESHS-----
+----*
+>P1;gi|27717843|ref|XP_234991.1| similar to N-acetylneuraminic acid ... [ score 62 E 3e-09 ] [ range 168 .. 227 ]
+sequence
+---KSVVAQVKIPAGTILTLDILTVKVGEPKGYPPEDIFNLVGKMVLVTIEEDDTVLEESVQS-------
+----*

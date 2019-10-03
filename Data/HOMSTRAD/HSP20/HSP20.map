@@ -1,0 +1,2140 @@
+>P1;1shsa
+structureX:1shs:  33 :A: 147 :A:small heat shock protein:Methanococcus jannaschii: 2.9: 21.6
+---------------------------TGIQISGK-----GFMPISIIEGDQHIKVIAWLPGVNKEDIIL
+NAV-GDTLEIRAKRSPLMITESERIIYSEIPEEEEIYRTIKLPATVKEENASAKFENGVLSVILPKAESS
+IKK------GINIE-*
+>P1;1gmea
+structureX:1gme:   2 :A: 151 :A:heat shock protein 16.9b:Triticum aestivum: 2.7: 23.1
+SIVRRSNVFDPFADLWADPFDTFRSIVPAISGGGSETAAFANARMDWKETPEAHVFKADLPGVKKEEVKV
+EVEDGNVLVVSGERTKEKEDKNDKWHRVERS-SGKFVRRFRLLEDAKVEEVKAGLENGVLTVTVPKA---
+-EVKKPEVKAIQISG*
+>P1;gi|22998229|ref|ZP_00042346.1| COG0071: Molecular chaperone (sma... [ score 140 E 5e-33 ] [ range 40 .. 143 ]
+sequence
+------------------------------------------MRVDIREDENQIMIKADLPGMTQQDISV
+DVD-NGTLTISGERKFDDEQNRDGYHRIE-RAYGRFSRSFQLPNTTDTGNIAAKYQNGVLEVTLPKLDEA
+KPR------SIQVE-*
+>P1;gi|39995645|ref|NP_951596.1| heat shock protein, Hsp20 family [G... [ score 138 E 3e-32 ] [ range 38 .. 145 ]
+sequence
+---------------------------------GA-----WQPPVDIFEDENAVIIKAELPGIDQKDIEV
+RIE-DNTLTIRGERKHEEEVRKENYHRVE-RYYGSFQRSFSIPATIDQEKVRASSDKGVLTITLPKREEV
+KPK------QITVE-*
+>P1;gi|23056387|ref|ZP_00082416.1| COG0071: Molecular chaperone (sma... [ score 136 E 1e-31 ] [ range 31 .. 145 ]
+sequence
+---------------------------SGEELREG-----VWPPVDIFEDENGVVIKAELPGIDQKDIEV
+KIE-DNTLTIRGERKHDQEVKKENYHRVE-RYYGSFMRSFSLPTTIDRDTVKAVCDKGILTITLPRREET
+KPK------QINVE-*
+>P1;gi|45358247|ref|NP_987804.1| Heat shock protein Hsp20 [Methanoco... [ score 135 E 2e-31 ] [ range 41 .. 154 ]
+sequence
+----------------------------GLEISGK-----GFMPITLIEGDETIKIIALVPGINKDDIVI
+NAI-GETLELRAKRAPMAIMESEKIIYSEVPEDEEVYKTIKLPAPVKEGNSSAKFENGMLIVTLPKAEKA
+KRT------GIDIE-*
+>P1;gi|44244464|gb|EAH91797.1| unknown [environmental sequence] [ score 134 E 4e-31 ] [ range 34 .. 143 ]
+sequence
+--------------------------------AGQ-----NWVPVDIRENDASFILTADIPGLTKSDIDL
+LID-DNTLKISGKREYNNTDDNVEYHYQE-RTHGSFQRSFKLPISVDEENISATFKSGILTVVLPKTEEA
+QPK------QRTIK-*
+>P1;gi|20808928|ref|NP_624099.1| Molecular chaperone (small heat sho... [ score 132 E 1e-30 ] [ range 40 .. 143 ]
+sequence
+------------------------------------------PRVDIVESETEIVATAELPGVDKKDIEI
+NVY-DNILEIKGQTSVDEEKEDKNYYIRE-RYYGSFARRIELPAEVDPERTTAKFENGILKITMPKLHPS
+KPK------KRRID-*
+>P1;gi|42524139|ref|NP_969519.1| probable HspC2 heat shock protein [... [ score 132 E 1e-30 ] [ range 36 .. 146 ]
+sequence
+---------------------------SALTRAGF-----DFSPVDVEEKDNAYLVSADLPGMKKDEIKV
+ELN-DNILTISGERTRESKSEGG---YSE-RSYGRFQRSFTLPVQVNSEKIEAHFEDGVLQITVPKAEGA
+RSH------SIKI--*
+>P1;gi|22984806|ref|ZP_00029942.1| COG0071: Molecular chaperone (sma... [ score 132 E 2e-30 ] [ range 39 .. 145 ]
+sequence
+----------------------------------------AFPQVNIGATDDTIEIVAFAPGMTAADLEV
+SID-KGLLTISGERKPPVSDDIDRKIYAQERFAGAFRRVIELPQNVNPDKVQARYVDGCLCVTVGKRESS
+TPR------SITVQ-*
+>P1;gi|44293566|gb|EAI25635.1| unknown [environmental sequence] [ score 130 E 5e-30 ] [ range 40 .. 143 ]
+sequence
+------------------------------------------PAVDVKETDDLFLITADIPGLTKKDVKV
+NIT-DGKMTISGDAQVGADEENSRYHYRE-RRYGSFKRTFNLPESVNEEKISASFKNGILEVELPKHENV
+LPK------ERVIK-*
+>P1;gi|21673476|ref|NP_661541.1| heat shock protein, Hsp20 family [C... [ score 130 E 7e-30 ] [ range 18 .. 127 ]
+sequence
+---------------------------SGSQMAVA-----PSFKVDISEDENAYHLDAELPGIAKEQIAL
+NIE-DDVLTIKAERTHKEEEKKKNYHRVE-RTYGSFSRSFNIGEIIDQEHIGATYDNGVLHVTLPKTQPA
+KKT------K-----*
+>P1;gi|27383072|ref|NP_774601.1| blr7961 [Bradyrhizobium japonicum] ... [ score 129 E 1e-29 ] [ range 68 .. 171 ]
+sequence
+------------------------------------------PAVDVTESDKAYEITAELPGMDEKDIEV
+NVA-NDGLTIKGEKKFEREEKQKDYYVSE-RRYGSFERHFGLPKDVEADKIEASFRNGVLKVTLPKTAEA
+QKP------AKKIE-*
+>P1;gi|27379748|ref|NP_771277.1| blr4637 [Bradyrhizobium japonicum] ... [ score 129 E 1e-29 ] [ range 66 .. 168 ]
+sequence
+------------------------------------------PAVDVAESDKAYEITAELPGLDEKNIDI
+KVA-NGGLTIKGEKREETEEKNKDYYVSE-RRYGTFERYFTLPESVNADKIEATFKNGVLKVVLPKTEEA
+QKP------AKTI--*
+>P1;gi|44419355|gb|EAJ13889.1| unknown [environmental sequence] [ score 128 E 3e-29 ] [ range 75 .. 185 ]
+sequence
+-------------------------------FSSS-----RFQPIDVVDEGPVLRVTAELPGMEREDLKV
+SVE-DGAIVLRGEKRQDVRSE-ENGCYRLERAHGSFVRTIPMPENADPDHTLAKFDNGVLTLTVPKSEPA
+RSA------SRTIE-*
+>P1;gi|13472078|ref|NP_103645.1| small heat shock protein HspC [Meso... [ score 127 E 6e-29 ] [ range 58 .. 164 ]
+sequence
+-------------------------------LAGT-----GWPSVEISETDKDIRVTAEIPGMEEKDIEV
+LLD-DGVLTLRGEKHSETDDKERQF---SERFYGRFERRIPIGFEVAEDKVAADFRNGVLSVSLPKSEKA
+QSK------AKRI--*
+>P1;gi|22990362|ref|ZP_00035236.1| COG0071: Molecular chaperone (sma... [ score 127 E 6e-29 ] [ range 31 .. 135 ]
+sequence
+-----------------------------------------YPKVDLVENEKEYKLTADMPGCDKEDTTV
+EYS-DNTLTISANHESHTEDKEDGNYVRKERHSVSYKRSFYLP-NVDEEKITGTFKNGVLKLVLPKTAYQ
+PKE------TKKIE-*
+>P1;gi|23129193|ref|ZP_00111026.1| COG0071: Molecular chaperone (sma... [ score 127 E 7e-29 ] [ range 53 .. 165 ]
+sequence
+----------------------------GGERSGF-----IFSPAELEETDDAIRLRLEVPGLEAKDINV
+EAT-PESISITGERKTETKSEENGITRSEFR-YGKFQRVIPLPSQIQNDKVQAEYKNGILQLTLPKAESE
+KHK------AVKV--*
+>P1;gi|32476351|ref|NP_869345.1| heat shock protein, HSP20 family [P... [ score 126 E 1e-28 ] [ range 46 .. 148 ]
+sequence
+-----------------------------------------FPALNVWEDEGTVYVEAELPGFNSEQLEI
+YVD-ANQLTLKGERSAPEM--EGGTWHRQERGFGSFHRTMELPADVDADQVSAEFQHGILKITLPKSETA
+KPR------RIEV--*
+>P1;gi|16264546|ref|NP_437338.1| putative small heat shock protein, ... [ score 125 E 1e-28 ] [ range 61 .. 163 ]
+sequence
+----------------------------------------GWPSVEVSDRDKEIKVTAELPGLDEKVVEL
+SLS-DGVLSLRGEKRAETEDQENQF---SERYYGRFERRIALGYEVDESKVNATFRNGVLTVTLPKTEQA
+QSK------AKRI--*
+>P1;gi|22984808|ref|ZP_00029944.1| COG0071: Molecular chaperone (sma... [ score 126 E 1e-28 ] [ range 75 .. 183 ]
+sequence
+--------------------------------SSW-----FQPRIDVVDDGDVLRITAELPGMDRGDLQT
+SIE-EGVLVLRGEKKQDTRSE-ENGCYRLERSYGAFTRTIPLPDGVDVDKVDAKFDKGVLTVRLPKTDSA
+RPT------IRKVE-*
+>P1;gi|44592491|gb|EAK33505.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 39 .. 150 ]
+sequence
+----------------------------------------AFPQVNIGATDDAIEIVAFAPGLKAADIDV
+SID-KGLLIISGERKPARVVRDDTRTYAQERFTGSFRRVIELPQNADPERVQARYTNGCLSVTVGKREAS
+RPR------AITVQ-*
+>P1;gi|27380345|ref|NP_771874.1| small heat shock protein [Bradyrhiz... [ score 125 E 3e-28 ] [ range 56 .. 162 ]
+sequence
+-------------------------------LSGL-----GWPQIDIDETDKEVRITAELPGLEEKDVSL
+EIA-NGVLSISGEKKSESEDKARRF---SERYYGRFERRIPL-EGIDEDKVSAAFKNGVLTITVPKSAEA
+KNR------RIAI--*
+>P1;gi|44561784|gb|EAK11940.1| unknown [environmental sequence] [ score 124 E 3e-28 ] [ range 31 .. 146 ]
+sequence
+----------------------------GIRAVRP-----GFPALNVGATDGAIEIVAFAPGMAAADFDV
+SID-KDLLTISGERKPAPRGEGDDRTYAQERFHGAFRRVVELPRDADPDQVSARYENGCLLIRVGRREAS
+KPR------AITVQ-*
+>P1;gi|23104028|ref|ZP_00090498.1| COG0071: Molecular chaperone (sma... [ score 125 E 3e-28 ] [ range 94 .. 206 ]
+sequence
+------------------------------ELSGQ-----GMPAVDIDDKGTAYEISAELPGMHERDIEV
+KLS-SGCLTIRGEKKEEYEDRKKNAYVAE-RYYGSFQRSFALPPEVDAGRIEARFDKGVLTLSLPKKAEA
+AEK------SIPIK-*
+>P1;gi|44599070|gb|EAK38102.1| unknown [environmental sequence] [ score 124 E 4e-28 ] [ range 17 .. 129 ]
+sequence
+-------------------------------FSAS-----EFQPIDVTDEGDALRIVAELPGMTRDDIEL
+EVI-DDMLIVSGDKRFESTSEEQG-CYRVERSFGHFQRAVPLPAGIDLDRAEARFENGMLTLRVPKAEPS
+AKR------RIEIK-*
+>P1;gi|23020006|ref|ZP_00059713.1| COG0071: Molecular chaperone (sma... [ score 123 E 5e-28 ] [ range 45 .. 151 ]
+sequence
+---------------------------------GG-----NQIKVDIRENDKEYILEADIPGVDKENITV
+EVN-GDVLTISAKWDEQTEIKKENYLRRE-RRASSMSRSFTL-ENVDSDRITAKHENGVLTLILPKKEPS
+RGR------RINI--*
+>P1;gi|39935960|ref|NP_948236.1| possible small heat shock protein [... [ score 123 E 5e-28 ] [ range 58 .. 161 ]
+sequence
+----------------------------------------GWPKLEITDGDKELKIAAAVPGLEEKDIEV
+LLD-DGTLTIRGEKTSSTEAKDKQF---SEHFYGKFERRIPLDVAVAADQVSASFKNGVLTVTLPKAEPS
+PST------AKRIE-*
+>P1;gi|39997505|ref|NP_953456.1| heat shock protein, Hsp20 family [G... [ score 123 E 6e-28 ] [ range 38 .. 147 ]
+sequence
+-------------------------------VTSR-----RFPLVNFSEDEGYIYIEALVPGVDPKDVDL
+SVL-RNTVTISGERKPFVQSEGQIVHRSELG-SGKFSRTLELPTDIDPGKITAQCKDGILRIALAKAEHA
+KPK------KIEIK-*
+>P1;gi|23021133|ref|ZP_00060819.1| COG0071: Molecular chaperone (sma... [ score 123 E 6e-28 ] [ range 34 .. 143 ]
+sequence
+-------------------------------FSRA-----TAPRVDVFETEKDVVVKAEIPGVSKEDLNV
+YVD-ENSIRLSGETKRDTEYKNE-HIYRTERYYGSFSRTIPLPVEVKSEQAKAEYKDGILTVTVPKVETT
+QMK------GKKID-*
+>P1;gi|23004715|ref|ZP_00047905.1| COG0071: Molecular chaperone (sma... [ score 123 E 6e-28 ] [ range 56 .. 165 ]
+sequence
+----------------------------GASAFSG-----GWPNVEISDGEKEIKVTAEVPGLEEKDIEV
+LLD-DGVLTLKGEKRSETEDKDRQF---SERFYGRFERRIPLGYEVKDDKVDARFRNGVLTVTLPKSEKA
+QSQ------VKRI--*
+>P1;gi|19112883|ref|NP_596091.1| heat shock protein 16 [Schizosaccha... [ score 123 E 7e-28 ] [ range 30 .. 143 ]
+sequence
+------------------------------QIPGE-----LSPSIDVHEGKDTVSVDVELPGVKKEDVQV
+HYD-SGKLTISGEVVNERKNESEGNQRWSERRFGSFSRTITIPAKIDADRIEANFSNGLLTVTLPKVEKS
+QKK------QIAIK-*
+>P1;gi|44419353|gb|EAJ13887.1| unknown [environmental sequence] [ score 123 E 9e-28 ] [ range 30 .. 146 ]
+sequence
+---------------------------SSIRASRF-----GFPQINIGVTDDSIEIVAFAPGVDSAALDV
+SID-KGLLTIGGERKPAQPDGGERRTYAQERFAGTFRRVIELPEAADPDKVQARYENGCLSISIGKRESS
+RPR------AIAVQ-*
+>P1;gi|22986821|ref|ZP_00031910.1| COG0071: Molecular chaperone (sma... [ score 123 E 1e-27 ] [ range 38 .. 147 ]
+sequence
+----------------------------------S-----AFPQINIGTTDDTIDIVAFAPGIDPKQLEV
+SID-KGLLTIAGERAAVTPDASDERHYARERFSGAFRRVIELPQHADPDKVEARYVNGCLCITVGKRESS
+RPR------AITVQ-*
+>P1;gi|23473481|ref|ZP_00128777.1| COG0071: Molecular chaperone (sma... [ score 122 E 1e-27 ] [ range 95 .. 194 ]
+sequence
+------------------------------------------PALDIQETDKLYKISLEVPGVEEKDIQI
+TLD-NDVLLVRGEKRQEQETKDGGFHRVE-RSYGSFQRALNLPADANQDTIKAAFKNGVLTITMEKREAC
+APK------Q-----*
+>P1;gi|39997772|ref|NP_953723.1| heat shock protein, Hsp20 family [G... [ score 122 E 2e-27 ] [ range 44 .. 151 ]
+sequence
+--------------------------------TGE-----LMPAVDMFEEGEHLVVKAELPGISRDDLNL
+RIV-DGNLIISGEKRSGETVERSNYLRLE-RHHGSFTRTLRLPDGLDTEHIKASFRDGILDVRIPKTEST
+V-R------QITVE-*
+>P1;gi|45522312|ref|ZP_00173827.1| hypothetical protein Mflag011001 ... [ score 122 E 2e-27 ] [ range 74 .. 181 ]
+sequence
+-----------------------------SEWPGL-----LKPALDIQETDKQYKISLEVPGVEEKDIQI
+TLD-NDVLLVRGEKRQEQESKDGGFHRVE-RSYGSFQRALNLPADANQDTIKAAFKNGVLTITMEKREAS
+TPK------Q-----*
+>P1;gi|22986514|ref|ZP_00031609.1| COG0071: Molecular chaperone (sma... [ score 121 E 3e-27 ] [ range 38 .. 141 ]
+sequence
+------------------------------------------IKVDVTESDSAYTVKAELPGVDKKDIDV
+KID-GNLVSISAKVERNQEMKEGERVIRRERYAGAVSRAFSLASEVDESAAAAEYKDGVLSLTLPKKAAS
+ERK------RLQI--*
+>P1;gi|22970128|ref|ZP_00017273.1| hypothetical protein [Chloroflexu... [ score 121 E 3e-27 ] [ range 32 .. 139 ]
+sequence
+--------------------------------NGS-----LVPALDLSETADAYHIEMAVPGMTADQLNI
+TFE-NNVLTISGEITQSSDRKERQYHVTE-RRFGRFSRSIRLPNQIHPDRIEARLENGVLTVTVPKAEEI
+KPR------KIAV--*
+>P1;gi|21674781|ref|NP_662846.1| heat shock protein, Hsp20 family [C... [ score 121 E 4e-27 ] [ range 38 .. 139 ]
+sequence
+-------------------------------------------KVDISEDEKAIYLSADIPGVKKEDVKV
+SIE-DDVISISAERTQEEEEKKKNYHRVE-RSWGSLSRSFTIGDNVDSDNITANYDNGVLKVVIPKKEPE
+QKK------SKEI--*
+>P1;gi|22984785|ref|ZP_00029921.1| COG0071: Molecular chaperone (sma... [ score 120 E 5e-27 ] [ range 70 .. 177 ]
+sequence
+----------------------------------------AFPEINIGSTDDTIEIVAFAPGLDPAQLDV
+SID-KGLLIISGERKNLERSRNDEVRYVQERFSGSFRRVIELPQQADPDKVEARYTNGCLKISVGKLEAS
+KPR------AITVQ-*
+>P1;gi|42522487|ref|NP_967867.1| small heat shock protein [Bdellovib... [ score 120 E 6e-27 ] [ range 47 .. 152 ]
+sequence
+----------------------------------S-----LMPSSELVEEEKNYLLKVDLPGIKKEDVKV
+EVE-GDRLTIRAERRSEKEEKSKKRYFSEI-SYGSCMRSFALPQSIDEKKVDAKFENGVLSVTIPKTTES
+KSK------QISV--*
+>P1;gi|45506822|ref|ZP_00159172.1| hypothetical protein Avar411501 [... [ score 120 E 6e-27 ] [ range 40 .. 152 ]
+sequence
+----------------------------GGEKVGF-----AFVPAELEEKDDAIHLKLEVPGLEANDIHV
+EAT-PESISITGERKSETKMEENGITRSEFR-YGKFQRVIPLPSLIQNDKVQAEYKNGILRLTVPKAESE
+RNK------VVKV--*
+>P1;gi|23114786|ref|ZP_00100070.1| COG0071: Molecular chaperone (sma... [ score 120 E 7e-27 ] [ range 47 .. 152 ]
+sequence
+----------------------------------S-----GQMRVDVRENEKEFIVEAELPGVNKEEIQI
+DCT-EDRLTITVQKTESTEEQKDNYIRKE-RKASSMARSFAI-ANIRHEEITAKYENGLLTVTLPKHEKT
+APK------GKKID-*
+>P1;gi|17229301|ref|NP_485849.1| heat shock protein, class I [Nostoc... [ score 120 E 8e-27 ] [ range 40 .. 152 ]
+sequence
+----------------------------GAEKVGF-----AFVPAELEEKDDAIHLKLEVPGLEATDIHV
+EAT-PESISITGERKSETKTEENGITRSEFR-YGKFQRVIPLPSLIQNDKVQAEYKNGILRLTVPKAESE
+RNK------VVKV--*
+>P1;gi|44418970|gb|EAJ13504.1| unknown [environmental sequence] [ score 119 E 1e-26 ] [ range 40 .. 143 ]
+sequence
+------------------------------------------MKIDVTESDEAYKVNAELPGVAKDDIDV
+QVT-GSTVSINAKERNKEQKEGERVIRRE-RYSGAVSRSFSLSGEIDDANATATYQDGVLSLTLPKKAPV
+AQK------KLSI--*
+>P1;gi|34496632|ref|NP_900847.1| probable small heat shock protein [... [ score 118 E 2e-26 ] [ range 36 .. 141 ]
+sequence
+------------------------------------------IKMDVKETGEAYQVEAELPGVGKEDIHV
+EID-GALVTIKAEIKQFDQQGKDERSLRSERYYGLVSRSFQLPQEIDRDAAGAKYENGVLSLTLPKRRNS
+VGQ------RLRIE-*
+>P1;gi|23106254|ref|ZP_00092708.1| COG0071: Molecular chaperone (sma... [ score 118 E 2e-26 ] [ range 119 .. 229 ]
+sequence
+----------------------------GREMAS-------MPAVDIVDQDKAILISAELPGMDEQNIEL
+KVC-NGNLMLKGEKREEREENSQGLYLSE-RSYGAFQRSFALPDSVDADNIEAHFDKGVLTITLPKRPEA
+QQS------ERAIE-*
+>P1;gi|43676706|gb|EAE93439.1| unknown [environmental sequence] [ score 118 E 2e-26 ] [ range 22 .. 124 ]
+sequence
+------------------------------------------PEIDIKESDNLFTIKADIPGLTKKDIKI
+SVK-GDQLTISGERKKIIDNENDHYHYRE-RSVGKFNRSFNLPESINKDKIHASFKNGILSIELEKHEEI
+VPK------EMEI--*
+>P1;gi|23009110|ref|ZP_00050281.1| COG0071: Molecular chaperone (sma... [ score 118 E 2e-26 ] [ range 14 .. 121 ]
+sequence
+---------------------------------GS-----GEAKSDMVETDNAIEVSIELPGMEMKDIEV
+TVN-DDMLTVKGEKKIERQVEKKGYYLSE-RSYGAIYRTIPLPPGVDGEKAQASFKNGVLTIKLPQTPEA
+QAK------IKRID-*
+>P1;gi|26989952|ref|NP_745377.1| heat shock protein, HSP20 family [P... [ score 118 E 2e-26 ] [ range 120 .. 228 ]
+sequence
+----------------------------------H-----GMPAMDISELAEEYRISAELPGVDAKDIEI
+KLV-NGNLLIRGEKKEEVDEKRKEYHLSE-RHYGSFERVFQLPRGVDAEKIDAQFDKGVLLVHLPKRAEA
+PEK------VIPIK-*
+>P1;gi|45526077|ref|ZP_00177290.1| hypothetical protein Cwat272901 [... [ score 118 E 3e-26 ] [ range 42 .. 144 ]
+sequence
+------------------------------------------PSAELSETDEAVMLKLELPGVKAEDVDI
+QAT-KEAIYITGERKKETKSEENGVTRSEFR-YGKFSRFIGLPALIDNTKISAEYKDGILNLTLPKAEEE
+KHK------VVKI--*
+>P1;gi|13472177|ref|NP_103744.1| small heat shock protein [Mesorhizo... [ score 118 E 3e-26 ] [ range 62 .. 163 ]
+sequence
+-----------------------------------------WPGVEFSETDEEIRLTAEIPGLDENDVEV
+MLD-DGVLTLRGEKKAETEDKDRQF---SERYYGRFERRFGLGREVEDDKVAATFKNGVLTVTLPKTKRA
+QAN------AKRI--*
+>P1;gi|24214264|ref|NP_711745.1| class I heat shock protein (HSP20) ... [ score 117 E 5e-26 ] [ range 29 .. 136 ]
+sequence
+---------------------------------GS-----AYPALNIYKGNDSVTITALIPGIDPEKLEI
+TVS-GNQLHLSGEAVTNEPKTTQGNNRVE-RFHGKFKRVLELPTEVDSEKANAEFKNGVLTLTLPIRESV
+KPR------KIQIQ-*
+>P1;gi|17544919|ref|NP_518321.1| PUTATIVE SMALL HEAT SHOCK PROTEIN [... [ score 117 E 5e-26 ] [ range 37 .. 139 ]
+sequence
+-------------------------------------------KVDVTESDTAYSVVAEIPGAKKEDIDV
+TVD-RGTVMISAKERQSEKKEGERVIRSE-RYSGSMQRMFTLEAGVDENKVEATYESGLLRVTLPKKEVS
+PQQ------RITI--*
+>P1;gi|17227782|ref|NP_484330.1| small heat shock protein [Nostoc sp... [ score 117 E 5e-26 ] [ range 41 .. 143 ]
+sequence
+------------------------------------------PAAELHETAEVIYLKLELPGIDAKDVDL
+QVT-DKAVYISGERKSETKTEDKGVFKSEF-QYGKFQRVIPLPARIQNTNVTAEYKDGILNLTLPKAEVE
+KNK------VVKI--*
+>P1;gi|45505830|ref|ZP_00158197.1| hypothetical protein Avar507501 [... [ score 117 E 5e-26 ] [ range 41 .. 143 ]
+sequence
+------------------------------------------PAAEIHETAEAIHLKLELPGIDAKDVDL
+QVT-DKAVYISGERKSETKTEDKGVVKSEF-QYGKFQRVIPLPTRIQNTNVKAEYKDGILNLTLPKAEAE
+KNK------VVKV--*
+>P1;gi|44633691|gb|EAK62889.1| unknown [environmental sequence] [ score 117 E 6e-26 ] [ range 42 .. 149 ]
+sequence
+----------------------------------S-----GWPAVDIKEEKNCFLIVADVPGINPKDIEI
+TME-NGVLTVKGERHLDAEDSDENYKRVE-RMNGTFYRRFSLPDTADGERIEAKGSNGVLEITIPKHEKV
+LPR------RIEVK-*
+>P1;gi|23051173|ref|ZP_00077963.1| COG0071: Molecular chaperone (sma... [ score 116 E 8e-26 ] [ range 40 .. 152 ]
+sequence
+-----------------------------SRFGNE-----AFSPLDVMEEDEKVVVTTDLPGVDREDVEL
+NLR-DNVLVISAGKGKEEEAEKEGYLRKE-RSFMRYYREIPLPDGVTEEGTTAQLKNGVLTVTLPKTKSV
+AGK------RIEIE-*
+>P1;gi|28379177|ref|NP_786069.1| small heat shock protein [Lactobaci... [ score 116 E 1e-25 ] [ range 31 .. 139 ]
+sequence
+-------------------------------LNAH-----VGMKTDVVEHDDDYTVTAELPGFDKDAITV
+KYA-DEWLTIRAHRSQDDRNDDGRVLHRE-RMDADFTRKFHLTNVVREE-IQAHYQAGLLTVTLPKTVAD
+SEG------KIEIQ-*
+>P1;gi|22984796|ref|ZP_00029932.1| COG0071: Molecular chaperone (sma... [ score 116 E 1e-25 ] [ range 22 .. 133 ]
+sequence
+-------------------------------FSSS-----RFQPIDVVDEGKILRVTIELPGMEREDLSV
+SVE-DGALVLRGEKKQDVHSEEDG-CYRLERAYGVFTRTIPMPDNADPDHALAKFDKGVLTLTVPKRERS
+ASR------TIDI--*
+>P1;gi|27380332|ref|NP_771861.1| small heat shock protein [Bradyrhiz... [ score 116 E 1e-25 ] [ range 57 .. 158 ]
+sequence
+----------------------------------------GWPSVEFNETDKEVKVIAELPGIEQKDVEV
+ELA-DGVLTISGEKKSETKDKERRF---SERYYGRFERRIPV-DDVDQDKVAASFKDGILTVTLPKSPTE
+QRK------VKRI--*
+>P1;gi|21241905|ref|NP_641487.1| low molecular weight heat shock pro... [ score 116 E 1e-25 ] [ range 44 .. 146 ]
+sequence
+------------------------------------------PRVDIKEEVNHFVLYADLPGIDPSQIEV
+QMD-KGILSIRGERKSESSTETERFSRIE-RRYGSFHRRFALPDSADADGITAAGRNGVLEIRIPKRPAA
+TPR------RIQV--*
+>P1;gi|23127648|ref|ZP_00109513.1| COG0071: Molecular chaperone (sma... [ score 116 E 1e-25 ] [ range 40 .. 142 ]
+sequence
+------------------------------------------PAAELQETDDAIYLKLELPGLEAKDLDI
+QVT-EDAVHISGERKSETQIQNNGTTKSEF-YYGKFQRVIPLSARVQNTNVTADYKNGILNLTLPKSERE
+KNK------VVKV--*
+>P1;gi|22997469|ref|ZP_00041699.1| COG0071: Molecular chaperone (sma... [ score 115 E 1e-25 ] [ range 76 .. 178 ]
+sequence
+------------------------------------------PRVDIKEEPNQFVLYADLPGIDPADIEV
+QMD-KGILSIKGERKTESSSQTEHFSRIE-RRYGSFHRRFALPDSADADGITASGSHGVLRILIPKQAAT
+TPR------RIQV--*
+>P1;gi|20092390|ref|NP_618465.1| small heat shock protein, class I [... [ score 115 E 2e-25 ] [ range 40 .. 152 ]
+sequence
+-----------------------------SRYAGG-----TFAPLDVAEEDNKVIVTTDLPGINRENIEL
+SLK-DNFLVISASKGKEEENEKEGYLRKE-RSFMRYYREIPLPKGVTEEGATAQLKNGVLTVTMPKTEAL
+TEK------RIPIE-*
+>P1;gi|22984794|ref|ZP_00029930.1| COG0071: Molecular chaperone (sma... [ score 115 E 3e-25 ] [ range 11 .. 118 ]
+sequence
+--------------------------------------------VNIGTTDDSIEIVAFAPGINAAELDV
+SID-KGLLTIAGERKPARDTRDDSRTYAQERFAGAFRRVIELPQNADPDKVQAHYANGCLSITVGKREAS
+RPR------AITVQ-*
+>P1;gi|29654474|ref|NP_820166.1| heat shock protein, Hsp20 family [C... [ score 114 E 3e-25 ] [ range 31 .. 148 ]
+sequence
+---------------------------TGGELSSE-----WSPHIDIKDEGQNYLICADIPGVDPKKIQV
+SME-NNILTIKGERETEAKEKSEGYLRIE-RTKGAFLRQFTLPESVDAESIKAKSKHGVLEITIPKAQPP
+RTK------KIEIE-*
+>P1;gi|23130287|ref|ZP_00112104.1| COG0071: Molecular chaperone (sma... [ score 114 E 4e-25 ] [ range 41 .. 143 ]
+sequence
+------------------------------------------PAAELKETEDAIHLKVELPGIETKDLDL
+QVT-ENAVYLSGERKSEAKSEEKGVIKSEFH-YGKFQRVIPLPTRIQNTNVKADYKDGILNLTLPKAEEE
+KNK------VVKV--*
+>P1;gi|43354051|gb|EAD41884.1| unknown [environmental sequence] [ score 114 E 4e-25 ] [ range 38 .. 142 ]
+sequence
+-----------------------------------------YPAVDIEETEKKFILSADMPGLKKKEVTI
+DIH-DGIITIKGERMNEDKSSFDGYSMHE-RQFGSFNRSFRLPDNVNEDKIAAKFDNGELLITLPKTKEI
+KPE------GRQIK-*
+>P1;gi|41722891|ref|ZP_00149857.1| hypothetical protein Daro337201 [... [ score 113 E 5e-25 ] [ range 1 .. 103 ]
+sequence
+--------------------------------------------MDVKEEGDSYLVHAELPGVKKEDIHV
+VVD-GNQVSISAETKQEKEVKEGDRVLRSERYFGKVSRSFLLEQDLDDTKATAKFNDGVLELTLPKRTAS
+PNK------KLNIE-*
+>P1;gi|548963|sp|Q06823|SP21_STIAU SPORE PROTEIN SP21 >gi|625656|pir... [ score 114 E 5e-25 ] [ range 54 .. 156 ]
+sequence
+------------------------------------------PAFEVRETKEAYIFKADLPGVDEKDIEV
+TLT-GDRVSVSGKREREKREESERFYAYE-RTFGSFSRAFTLPEGVDGDNVRADLKNGVLTLTLPKRPEV
+QPK------RIQV--*
+>P1;gi|44246207|gb|EAH93092.1| unknown [environmental sequence] [ score 114 E 5e-25 ] [ range 38 .. 142 ]
+sequence
+-----------------------------------------YPAVDIEETEKEFILSADMPGLKKKEVTI
+DIH-DGIITIKGERMNEDKSSFNGYRMHE-RQFGSFNRSFRLPDNVNEDKIAAKFDNGELLITLPKTKEI
+KPE------GRQIK-*
+>P1;gi|15643142|ref|NP_228185.1| heat shock protein, class I [Thermo... [ score 114 E 5e-25 ] [ range 41 .. 144 ]
+sequence
+------------------------------------------PDMDVYETDDEVVIEVEIPGIDRKDVKI
+TVE-ENILKISGEKKLEREQKGKNYYYVE-RSAGKFERAIRLPDYVDVEKIKAEYKNGVLTIRVPKKEER
+KKK------VIEVE-*
+>P1;gi|26990032|ref|NP_745457.1| heat shock protein, HSP20 family [P... [ score 113 E 8e-25 ] [ range 40 .. 151 ]
+sequence
+-------------------------------LASG-----AFPAINVASTPSSMEVYAFVPGVDPSDIDL
+QIH-RGLLSISGERRPARSTQEGNSVYANERYAGPFKRTVSLNDQVDTDKVEAHYRDGVLRISLPRREAL
+QPK------RIVIQ-*
+>P1;gi|43771480|gb|EAF40204.1| unknown [environmental sequence] [ score 113 E 9e-25 ] [ range 14 .. 125 ]
+sequence
+-----------------------------SEVKGR-----AFIPVEISEGNDAIDLKVEIPGLDAKDLDI
+QVT-AEEVKIRGQRRQETTTEESGRTRSEFG-YGAFERVISLPAAVQNQQVKADYKDGILHLHLPLAEPE
+KNR------VVKV--*
+>P1;gi|21226585|ref|NP_632507.1| Small heat shock protein [Methanosa... [ score 113 E 1e-24 ] [ range 49 .. 152 ]
+sequence
+------------------------------------------PLTDVAEEDNKVIVTTDLPGIDKENVEL
+NLR-ENLLVISAQKGKEEETEKEGYLRKE-RSFMRYYREIPLPDNVTEDGATAQLKNGVLTVTLPKTKDV
+TEK------RIQIE-*
+>P1;gi|26990030|ref|NP_745455.1| heat shock protein, putative [Pseud... [ score 112 E 1e-24 ] [ range 19 .. 126 ]
+sequence
+--------------------------------SNW-----GLLAGDLYEDGERIVVRLEIPGMVKEDLNL
+EVR-GDTLIIRGEKRVEQE-QGNGHYRVRQCTFGSFRRTFRLPAEVIAEQASARCNNGVLRIELPKQARA
+SGR------RIEV--*
+>P1;gi|44504489|gb|EAJ72502.1| unknown [environmental sequence] [ score 112 E 1e-24 ] [ range 39 .. 141 ]
+sequence
+------------------------------------------PAVDIVEDKDKFVLSADFPGFEKKNINL
+NVE-DGVLKLSAQKDDKNVSDGSFKI--QERQASAIQRSFTLPDTILEDKISAKYKNGTLQVSLPKAEEV
+KPE------SRSIK-*
+>P1;gi|15838825|ref|NP_299513.1| low molecular weight heat shock pro... [ score 113 E 1e-24 ] [ range 45 .. 147 ]
+sequence
+------------------------------------------PRVDIKEEPNQFVLYADLPGIDPADIEV
+QMD-KGILSIKGERKTESSSQTEHFSRIE-RRYGSFHRRFALPDSADADGITASGSHGVLSIFIPKRAAT
+TPR------RIQV--*
+>P1;gi|23130701|ref|ZP_00112514.1| COG0071: Molecular chaperone (sma... [ score 113 E 1e-24 ] [ range 50 .. 152 ]
+sequence
+------------------------------------------PPAEIHETSDAFKLRIELPGLKPDDLDV
+KVS-PEAVEISGERRFETTTEEKGIRRSEFR-YGSFGRIIPLSTRIQNDKVQAEFKDGVLCLTLPKAQSE
+QNR------VVKV--*
+>P1;gi|43456314|gb|EAD82824.1| unknown [environmental sequence] [ score 112 E 1e-24 ] [ range 41 .. 144 ]
+sequence
+------------------------------------------PDVDIKETDKDFVLTANIPGFTKNDIKI
+NVG-EKLLTISGDK-QEEVNESENYYHFRERSTGAFHRSFKLPNTVNEDKIKATFKDGVLMIEMEKHKEI
+LPK------EKEIK-*
+>P1;gi|23005757|ref|ZP_00048416.1| COG0071: Molecular chaperone (sma... [ score 112 E 1e-24 ] [ range 31 .. 137 ]
+sequence
+--------------------------------ARA-----AFPAVNVWQGPEAVGVTAELPGIEPGDIEI
+SVK-DNVLTLSGERKAPEVLDGARWHRNE-RSFGRFSRTIRLPFAASDDKVEARMTNGVLRIVISRPEEE
+KPK------KIE---*
+>P1;gi|1848096|emb|CAA67831.1| heat shock protein [Oenococcus oeni] [ score 112 E 2e-24 ] [ range 44 .. 148 ]
+sequence
+------------------------------------------MRTDISENDKEYGLKIELPGLDKKDIKI
+DYS-NDNLTVSGSSKAEEKDKKNNVVRSE-RRYGNYSRSYYVP-GVDENKISAKYENGILNLTLPKSDES
+QTH------HIEIQ-*
+>P1;gi|23129687|ref|ZP_00111513.1| COG0071: Molecular chaperone (sma... [ score 112 E 2e-24 ] [ range 41 .. 143 ]
+sequence
+------------------------------------------PAAELHETDDAIILLLELPGLEAKDLDI
+QVT-EDAVHISGERKSETKTENNGTTSSEF-YYGKFQGVIPLKARIQNTNVTADYKDGILNLTLPKSEQE
+KNK------VVKV--*
+>P1;gi|21230505|ref|NP_636422.1| low molecular weight heat shock pro... [ score 112 E 2e-24 ] [ range 44 .. 144 ]
+sequence
+------------------------------------------PRVDIKEEANQFVLYADLPGIDPSQIEV
+QMD-KGILSIKGERKSESSSETERFSRIE-RRYGSFHRRFALPDSADADGITADGRNGVLEIRIPKRPAA
+TPR------RI----*
+>P1;gi|30250014|ref|NP_842084.1| Heat shock hsp20 (alpha crystallin)... [ score 112 E 2e-24 ] [ range 39 .. 141 ]
+sequence
+------------------------------------------PAVDIKEESDKFIVHADLPGVKPEAIDV
+TTE-NGVLTIKGEKQTEARTEKEGYKRVE-RTHGSFYRRFSLPDTADLGAISAVTKDGVLVVTIPKREAV
+QPK------KVSV--*
+>P1;gi|21227521|ref|NP_633443.1| Small heat shock protein [Methanosa... [ score 111 E 3e-24 ] [ range 44 .. 153 ]
+sequence
+---------------------------------GK-----VYTPIDIKEEDDKLLVTTDLPGINKEDVEI
+NLK-EDMLEISAKSGKEKESEEEGYLRRE-RAYTQFYRAVRLPSSVREEGACAKMDNGVLTIMLPKAKEE
+PKK------KIEIE-*
+>P1;gi|23052669|ref|ZP_00079294.1| COG0071: Molecular chaperone (sma... [ score 111 E 4e-24 ] [ range 44 .. 153 ]
+sequence
+---------------------------------GK-----VYTPIDIKEEDDKLLVTTDLPGINKEDVQI
+NLK-EDILEISAKTGKEKETEEEGYLRRE-RAYTQFYRAVRLPASVKEEGSTAKMENGVLTITLPKMQEE
+LTK------KIAIE-*
+>P1;gi|43201104|gb|EAC66119.1| unknown [environmental sequence] [ score 111 E 4e-24 ] [ range 39 .. 141 ]
+sequence
+------------------------------------------PAVDIVEDKDKFVLSADFPGFEKKNINL
+NVE-DGVLKLSAQKDDKNVSDGSFKI--QERQASTIQRSFTLPDTILEDKISAKYKNGMLQVSLPKIEEV
+KPE------SRSIK-*
+>P1;gi|8671873|gb|AAF78436.1| Contains similarity to 17.6 KD class I... [ score 111 E 4e-24 ] [ range 290 .. 400 ]
+sequence
+-------------------------------VAAF-----TNAKVDWRETPEAHVFKADLPGLRKEEVKV
+EVE-DNILQISGERSNENEEKNDKWHRVE-RSSGKFTRRFRLPENAKMEEIKASMENGVLSVTVPKVPEK
+KPE------VKSID-*
+>P1;gi|22298416|ref|NP_681663.1| 16.6 kDa small heat shock protein m... [ score 111 E 4e-24 ] [ range 40 .. 142 ]
+sequence
+------------------------------------------PAAELEETPEALLLKVELPGMDPKDIDV
+QVT-AEAVSISGERKSETKTETEGMKRTEFR-YGKFQRVIPLPVRIQNTSVKAEYKDGILHLTLPKAEEE
+KNR------VVKV--*
+>P1;gi|23123620|ref|ZP_00105694.1| COG0071: Molecular chaperone (sma... [ score 110 E 8e-24 ] [ range 41 .. 143 ]
+sequence
+------------------------------------------PSAEIQETPDAVHLKVEIPGVDPKDLDV
+QVS-PEAVSISGERKSEIKTEERGITRTEFR-YGRFQRVIPLPSRVQHDKVEAEYKDGILKLRLPKAEED
+RNK------VVKV--*
+>P1;gi|18978255|ref|NP_579612.1| small heat shock protein [Pyrococcu... [ score 110 E 9e-24 ] [ range 51 .. 163 ]
+sequence
+------------------------------ERVGE-----VWPFVDIFDNGDEFVITAELPGVRKEDIKV
+RVT-EDTVYIEATVKREKELEREGAVRIE-RYFTGYRRAIRLPEEVIPEKAKAKYNNGVLEIRVPKKHPT
+KKE------SEGFE-*
+>P1;gi|42526539|ref|NP_971637.1| Hsp20/alpha crystallin family prote... [ score 110 E 9e-24 ] [ range 39 .. 144 ]
+sequence
+----------------------------------------GMPSVDIRETEKAYVMEVDLPGYSEKDVEI
+SLK-DRLMTISSSKKEEKEDKGAEYIIKE-RSSRHFMRRFTLPEDINSDEVSAKFENGVLVVNIPRKPDT
+QPK------QIEIK-*
+>P1;gi|20089032|ref|NP_615107.1| small heat shock protein [Methanosa... [ score 109 E 1e-23 ] [ range 44 .. 153 ]
+sequence
+---------------------------------GK-----VYTPIDIMEEDDKLVVTTDLPGINKEDVEI
+NLK-EDMLEISAKTGEEKETEEEGYLRKE-RAYTQFYRAVRLPVGVKEEGSTAKMENGVLTISLPKAQEE
+PKK------KIEIE-*
+>P1;gi|23618982|ref|NP_704944.1| small heat shock protein, putative ... [ score 109 E 1e-23 ] [ range 104 .. 191 ]
+sequence
+------------------------------------------PAMDVLDKEKHLEIKMDVPGLNKEDVQI
+NLD-DGKLEISGEKKSHEQKDEQQRYYIKERCESSFYRSFTLPENVSEDEIKATFKDGVL----------
+---------------*
+>P1;gi|16329588|ref|NP_440316.1| 16.6 kDa small heat shock protein, ... [ score 109 E 1e-23 ] [ range 41 .. 144 ]
+sequence
+------------------------------------------PKAELTETEEAYVLKLELPGMDPDNLDI
+QAA-RDAVTVSGDRQDTHSTEKDGVRRTEFR-YGSFRRVIPVPGAIQNTEVKANYDAGILTLTLPKVEEA
+KNK------VVKVQ-*
+>P1;gi|34557661|ref|NP_907476.1| hypothetical protein WS1299 [Woline... [ score 109 E 2e-23 ] [ range 30 .. 142 ]
+sequence
+----------------------------GAKSNLR-----GFAPVNTREEEKGYFIEVDLPGVQKEDIHI
+DVK-ENTLSITGERKLKEEVKEENYYKVES-FFGKFQRSFTLPENVDSDAITAQSKDGVLEIFIPKTAPK
+DAK------RIAI--*
+>P1;gi|16263058|ref|NP_435851.1| probable HspC2 heat shock protein [... [ score 108 E 3e-23 ] [ range 68 .. 173 ]
+sequence
+------------------------------------------PAVDLAETEKTYEITCELPGMEEKDIEV
+AIS-NGTLTIRGEKQEEKKENKKEYVLSE-RRYGSFQRTFRMPDGVDTEKIAAKFSKSVLSITLPKTPEA
+QQR------KIQIK-*
+>P1;gi|23030057|ref|ZP_00068324.1| COG0071: Molecular chaperone (sma... [ score 107 E 5e-23 ] [ range 107 .. 211 ]
+sequence
+------------------------------------------PTVDVSGDKTHYHISLDVPGLSESDISI
+DVS-NDVLTIRGSK-EEKAEQNEKHVYRMERRYGSFQRTLSLPSDANTDDITAQLKDGVLNLVIAKKDVP
+PEK------RIPI--*
+>P1;gi|23017855|ref|ZP_00057577.1| COG0071: Molecular chaperone (sma... [ score 107 E 5e-23 ] [ range 117 .. 217 ]
+sequence
+------------------------------------------PLADLSETEDAYLVEVEVPGVSREDISI
+DLS-GTELVITGERK---EREREGWFRHRTRSVGRFHYAVTLPRDIDPDGVDATLSQGVLTVRIPKSKAL
+KPR------RIAI--*
+>P1;gi|45524952|ref|ZP_00176208.1| hypothetical protein Cwat385601 [... [ score 107 E 6e-23 ] [ range 42 .. 144 ]
+sequence
+------------------------------------------PAAELTETDGALHLKLEIPGMSAKDLDI
+QVM-VDKVAIVGERKAETNTSENGNTRSEFR-YGKFQRVIPLPVRIENTNVTADYKDGILHLNLPKSNEE
+RNK------VVKV--*
+>P1;gi|23023320|ref|ZP_00062557.1| COG0071: Molecular chaperone (sma... [ score 107 E 7e-23 ] [ range 35 .. 140 ]
+sequence
+------------------------------------------IKTDVIEKDDRFTVTAELAGVNKDDINI
+DYK-NDQLLISAKRDEFKDTDHDGNILQSERTYGSVSRAYYLP-GVDSSKITAKFANGELRVELPKATEQ
+SST------NIKID-*
+>P1;gi|23017567|ref|ZP_00057292.1| COG0071: Molecular chaperone (sma... [ score 107 E 7e-23 ] [ range 74 .. 183 ]
+sequence
+-------------------------------ISPT-----TWTPADLLEDDKSYIVEAEVPGMSKDDINI
+QVS-GNELIISG--KVEEQEKEGVRAHRRMRRYGEFEYRTVLPGEIDAEGVRAKLDNGVLTVTAPKSAHE
+RPR------HVAIE-*
+>P1;gi|14520633|ref|NP_126108.1| small heat shock protein [Pyrococcu... [ score 106 E 1e-22 ] [ range 55 .. 161 ]
+sequence
+----------------------------------W-----REPFVDIFDRGDEFVVIAELPGVRKEDIKV
+RVT-EDSVYIEATVRREKELEEEGAVRIE-RYYSGYRRVIRLPEEVIPEKAKAKYNNGVLEIRIPKKQPT
+KKE------GEGFE-*
+>P1;gi|1771143|emb|CAA96463.1| orf [Lactobacillus delbrueckii] [ score 106 E 1e-22 ] [ range 8 .. 123 ]
+sequence
+------------------------------QMDSH-----AFRNIDVAEDEHEYTVKIDVPGMSKDDIHL
+SYT-DGILTISAHRSTFKDDDKKKNLLRQERSEGSVSRSFSLP-NVDKKGISAKLDGGVLTVTLPKVAPE
+ENA------TITIE-*
+>P1;gi|123556|sp|P27880|HS12_MEDSA 18.2 kDa class I heat shock prote... [ score 106 E 1e-22 ] [ range 46 .. 155 ]
+sequence
+--------------------------------SAF-----VSTRVDWKETPEAHVFKADLPGMKKEEVKV
+EIE-DDVLQISGERSVEKEDKNDQWHRLE-RSSGKFMRRFRLPENAKMDQVKAAMENGVLTVTVPKEEVK
+KPE------VKTID-*
+>P1;gi|44335408|gb|EAI54427.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 47 .. 136 ]
+sequence
+------------------------------------------------ENEKEYYLTMDFPGMSKDDIEV
+TFD-NNRLKISGQRKSDK---------YDSYKYGKMERTFSVPSNVETDKISAKIDNGVLKVLLPKAKSS
+LGR------KISVK-*
+>P1;gi|29827233|ref|NP_821867.1| putative heat shock protein [Strept... [ score 105 E 2e-22 ] [ range 30 .. 132 ]
+sequence
+------------------------------------------MPMDAYRDGDQYVIAFDLPGIDPDALDI
+DVE-RNMLTVRAERRPLPRSESAQTELSE-RPLGVFSRQLVLADTLDTERICADYEAGVLTLRIPIAERA
+KPR------KISV--*
+>P1;gi|15896945|ref|NP_350294.1| Molecular chaperone (small heat sho... [ score 105 E 2e-22 ] [ range 39 .. 150 ]
+sequence
+-------------------------------FNGN-----AGFKVDIKEDDDKYTVAADLPGVKKDNIEL
+QYE-NNYLTINAKRDDIVETKDDNNNFRRERSYGELRRSFYV-DNIDDSKIDASFLDGVLRITLPKKVKG
+KGR------RIDI--*
+>P1;gi|123560|sp|P12811|HS2C_CHLRE CHLOROPLAST HEAT SHOCK 22 KD PROT... [ score 105 E 2e-22 ] [ range 37 .. 154 ]
+sequence
+---------------------------TSAGKAGH-----THAPMDIIESPTAFELHADAPGMGPDDVKV
+ELQ-EGVLMVTGERKSHTTKEAGGKVWRSERTAYSFSRAFSLPENANPDGITAAMDKGVLVVTVPKREPP
+APK------RIAV--*
+>P1;gi|34902028|ref|NP_912360.1| shock protein, low molecular weight... [ score 105 E 2e-22 ] [ range 44 .. 157 ]
+sequence
+-----------------------------SDAAAF-----AGARIDWKETPEVHVFKADVPGLKKEEVKV
+EVD-DNILQISGERSREQEEKSDKWHRVE-RSSGKFLRRFRLPENTKPEQIKASMENGVLTVTVPKEEPK
+KPK------SIQI--*
+>P1;gi|14591591|ref|NP_143673.1| hypothetical protein PH1842 [Pyroco... [ score 105 E 3e-22 ] [ range 58 .. 168 ]
+sequence
+--------------------------------TGE-----VWPFVDIFDRGDELVVIAELPGVRKEDIKV
+RVT-EDSVYIEAIVRREKELEEEGAVRVE-RYYSGYRRVIRLPEEVIPEKAKAKYNNGVLEIRIPKKNPT
+KKE------GEGFE-*
+>P1;gi|10956519|ref|NP_049441.1| stress response homolog Hsp [Bacill... [ score 105 E 3e-22 ] [ range 35 .. 142 ]
+sequence
+---------------------------------GI-----GGIRVDVHETENEVVATCDLPGLEKEDVDI
+DIQ-NNRLSISGSIKRTNEIKEENMLKKE-RYTGRFQRMITLPSPVSHDGVKATYKNGILEITMPKVAKD
+VKK------KIDV--*
+>P1;gi|28379699|ref|NP_786591.1| small heat shock protein [Lactobaci... [ score 105 E 3e-22 ] [ range 44 .. 147 ]
+sequence
+-------------------------------------------KTDIKENDDQYTMKVDIPGIDKQNIAL
+KYR-DGTLSIAVKRSISDESDKDGNIIASERQTGRFGRQYSLPD-VDVDKIEARYENGVLQLTLPKKAAA
+DTH------HIEIQ-*
+>P1;gi|42861957|gb|EAA98219.1| unknown [environmental sequence] >gi|... [ score 104 E 4e-22 ] [ range 47 .. 136 ]
+sequence
+------------------------------------------------ENEKEYYLTMDVPGMSKDDIEV
+TFD-SNRLKISGQRK------SDKYDSYE---YGKLERTFSVPSNVETDKISAKIDNGVLKVLLPKAKSS
+LGR------KISVK-*
+>P1;gi|2921236|gb|AAC64906.1| first small heat shock protein [Strept... [ score 104 E 4e-22 ] [ range 44 .. 150 ]
+sequence
+-----------------------------------------FIKTDIHETDNEYLVEAELPGIPKEDIQV
+TYE-NGVLTISGQQQIDAVNEDKKGNLIRSERNLTSVRRQYLLENVKEDEIKASYSDGVLKVTLPKSNKE
+IKK------SISIE-*
+>P1;gi|44604478|gb|EAK41903.1| unknown [environmental sequence] [ score 104 E 5e-22 ] [ range 47 .. 136 ]
+sequence
+------------------------------------------------ENEKEYYLTMDVPGMSKNDVEV
+TFD-SNRLKISGQRK------SDKYNSYE---YGKMERTFSVPSNVETDKISAKIDNGVLKVLLPKAKSS
+LGR------KISVK-*
+>P1;gi|28212053|ref|NP_782997.1| heat shock protein, molecular chape... [ score 104 E 5e-22 ] [ range 45 .. 144 ]
+sequence
+---------------------------------------------DLKETNNEYIIEADLPGISKDAVKV
+NYS-NNNLVISAKREDIIENKDENYIRRE-RSYGEFKRAFYV-DNVDENNIKASFKNGVLRINLTKLEDT
+TKA------RKQIE-*
+>P1;gi|41059801|gb|AAR99375.1| small heat shock protein [Prunus pers... [ score 104 E 5e-22 ] [ range 49 .. 151 ]
+sequence
+--------------------------------------------IDWKETPEAHIFIADLPGLKKEEVKV
+EVD-DGVLHISGERSREQEEKNDKWHRIE-RSTGKFSRRFRLPDNAKIDQVKASMENGVLTVTVPKEEEK
+RPQ------VKAID-*
+>P1;gi|15806134|ref|NP_294838.1| heat shock protein, HSP20 family [D... [ score 103 E 6e-22 ] [ range 42 .. 151 ]
+sequence
+----------------------------GAQTTRF-----A-PPVDVHEDEQGLELTLDIPGVKPEDIQI
+EAE-NQTLTVQAERRYSR--GEGRTAHRVERAYGTFTRTFSVPAKYDLTKVEADFDHGTLNLRVPRSEAA
+QKR------SISV--*
+>P1;gi|23473725|ref|ZP_00129020.1| COG0071: Molecular chaperone (sma... [ score 103 E 8e-22 ] [ range 49 .. 150 ]
+sequence
+----------------------------------------AFPPLNIGEDDSAVYVRALVPGAGMDDLEL
+IIT-DKTLSLKGELKPV-----QGRYYRQERPTGPFQRVITVGVPIDRDAVRATLRNGVLEVVLPKHTGQ
+RPQ------TIRID-*
+>P1;gi|41407794|ref|NP_960630.1| Hsp18_1 [Mycobacterium avium subsp.... [ score 103 E 8e-22 ] [ range 27 .. 132 ]
+sequence
+--------------------------------ARP-----AVMPMDAWRDGDQFVVEFDLPGVNADSLDL
+DVE-RNVLTVRAER---PDLDQNREMVSAERPRGVFSRQLFLGDNLDTDKIEANYHDGVLRLTIPVAEKA
+KPR------RIEI--*
+>P1;gi|34902016|ref|NP_912354.1| putative class I low-molecular-weig... [ score 103 E 1e-21 ] [ range 46 .. 159 ]
+sequence
+-----------------------------SETAAF-----AGARIDWKETPEAHVFKADVPGLKKEEVKV
+EVD-DNILQISGERNKEQEEKTDQWHRVE-RSSGKFLRRFRLPDNAKPEQIKASMENGVLTVTVPKEEAK
+KPK------SIQI--*
+>P1;gi|42518267|ref|NP_964197.1| hypothetical protein LJ0181 [Lactob... [ score 103 E 1e-21 ] [ range 44 .. 149 ]
+sequence
+------------------------------------------MQSDVAETDKDYIVKVDMPGMDKKDIKV
+SYK-DGVLNVSGSRDSFDNDNNNGNVLHRERSVGHIQRSYRIPD-VDSKEISAKDVNGVLTITLPKTEED
+KEN------TINIE-*
+>P1;gi|6137142|gb|AAF04352.1| low molecular weight heat stress prote... [ score 102 E 1e-21 ] [ range 34 .. 142 ]
+sequence
+----------------------------------P-----NFIKTDIHETDNEYLVEAELPGIPKENIQV
+TYE-NGVLTISGQRQIDAVNEDKKKLIRSERSLTSVQRQYLL-ENVKEDEIKASYSDGVLKVTLPKSNKE
+IKK------SISIE-*
+>P1;gi|15790716|ref|NP_280540.1| small heat shock protein; Hsp1 [Hal... [ score 102 E 2e-21 ] [ range 66 .. 171 ]
+sequence
+------------------------------------------PNVDVIESEAEVVVMIEVPGFSKDEITV
+QAD-ASNLYVTAERSNDPIEGDDNVLLRECPD--RLERAITLPNYIDPGEATAEHVDGVCHVTVPKDEAE
+RQH------EIAFQ-*
+>P1;gi|23475620|ref|ZP_00130904.1| COG0071: Molecular chaperone (sma... [ score 102 E 2e-21 ] [ range 45 .. 141 ]
+sequence
+--------------------------------------------LNIVEDDENYYVDLLVPAVDPENIDL
+TIS-DKNLIIRGE-----VEKEAGKFFRQERGYGSFQRVITLNAPVDRDAVQATCENGILRVVLPKSEAV
+KPR------KIAI--*
+>P1;gi|15222395|ref|NP_172220.1| 17.8 kDa class I heat shock protein... [ score 102 E 2e-21 ] [ range 50 .. 148 ]
+sequence
+--------------------------------------------VDWKETAEAHVFKADLPGMKKEEVKV
+EIE-DDVLKISGERHVEKEEKQDTWHRVE-RSSGQFSRKFKLPENVKMDQVKASMENGVLTVTVPKVEEA
+KKK------A-----*
+>P1;gi|15606500|ref|NP_213880.1| small heat shock protein (class I) ... [ score 102 E 3e-21 ] [ range 41 .. 142 ]
+sequence
+------------------------------------------PPVEVYETDKEVVIKMDLPGVKKEDIEI
+TVK-ENAVHVRAERKEEKEEKTENIIRAE-RFYGVIERVIPLPVEVDPEKAEAKYENGVLEIRIPKVHVE
+KEK------KIK---*
+>P1;gi|11499553|ref|NP_070795.1| small heat shock protein (hsp20-2) ... [ score 101 E 3e-21 ] [ range 38 .. 140 ]
+sequence
+------------------------------------------MPVDVIDEGEQIRVVADLPGFSKEDLEI
+YFE-DGDLVIKAEKKEEFEEKKGEYLRRE-RRMGKVYRRIALPAGLDIDAVKAKYNNGVLEITIPKLKKD
+-RK------AVQIE-*
+>P1;gi|38344541|emb|CAD40969.2| OSJNBa0027P08.9 [Oryza sativa (japon... [ score 102 E 3e-21 ] [ range 78 .. 180 ]
+sequence
+--------------------------------------------VDWRETGDAHEVVVDVPGMRKEDLRV
+EVE-DNVLRISGERRREETTEQKGGGHREERSYGRFWRQLRLPDNADLDSIAASLDNGVLTVRFRKLAPD
+QIK------G-----*
+>P1;gi|5420092|emb|CAB46549.1| putative small heat shock protein [St... [ score 102 E 3e-21 ] [ range 46 .. 154 ]
+sequence
+----------------------------------P-----NLIKTDIHETDNEYFVEAELPGIPKEDIQI
+NYE-NGVLTISGQRQIDAATEDKKGKLIRNERSLTSVRRQYLLENVKEDEIKASYSDGILKVTLPKSNKE
+IKT------SIPIE-*
+>P1;gi|4185756|gb|AAD09182.1| cytosolic I small heat shock protein H... [ score 101 E 3e-21 ] [ range 45 .. 147 ]
+sequence
+--------------------------------------------VDWKETPTEHVIKADLPGLKKEEVHV
+QVE-GDTLSISGQRKHEEVQKTDTWHRVE-RSSGQFMRKFRLPENANLEQISAQVQDGVLTVKIPKLEKQ
+KPH------SRTIE-*
+>P1;gi|29827000|ref|NP_821634.1| putative heat shock protein [Strept... [ score 101 E 3e-21 ] [ range 31 .. 133 ]
+sequence
+------------------------------------------MPMDAYREGEEYVIAFDLPGVSADAIDI
+DVE-RNMLTVKAERRPVTKADDAQMELSE-RPLGAFSRQLVLADTLDTEHIKADYDAGVLTLRIPIAERA
+KPR------KIAI--*
+>P1;gi|21592809|gb|AAM64758.1| heat shock protein, putative [Arabido... [ score 101 E 4e-21 ] [ range 48 .. 146 ]
+sequence
+--------------------------------------------VDWKETAEAHVFKADLPGMKKEEVKV
+EIE-DDVLKISGERHVEKEEKQDTWHRVE-RSSGGFSRKFRLPENVKMDQVKASMENGVLTVTVPKVETN
+KKK------A-----*
+>P1;gi|10956199|ref|NP_051024.1| low molecular weight heat stress pr... [ score 101 E 4e-21 ] [ range 46 .. 154 ]
+sequence
+----------------------------------S-----NLIKTDIHETDNEYVVEAELPGIPKEDIQV
+NYE-NGVLTISGQRQIDAAIEDKKGKLIHSERSLTSVRRQYLLENVKEDEIKASYSDGILKVTLPKSNKE
+IKT------SIPIE-*
+>P1;gi|123544|sp|P05478|HS16_SOYBN 18.5 kDa class I heat shock prote... [ score 101 E 4e-21 ] [ range 49 .. 158 ]
+sequence
+--------------------------------SAF-----VSTRVDWKETPEAHVFKADIPGLKKEEVKV
+QIE-DDVLQISGERNVEKEDKNDTWHRVE-RSSGKFMRRFRLPENAKVEQVKASMENGVLTVTVPKEEVK
+KPD------VKAIE-*
+>P1;gi|23043810|ref|ZP_00075034.1| COG0071: Molecular chaperone (sma... [ score 101 E 4e-21 ] [ range 33 .. 135 ]
+sequence
+------------------------------------------PAVEIHENNDAIDLRLEIPGLEVKDLDV
+QVT-AEAVEIKGKRRQETETQEQNLVRSEFH-YGAFQRRISLPVRVQNNLVKADYKDGILHIHLPKSEAD
+KNQ------VVKV--*
+>P1;gi|4838149|gb|AAD30865.1| seed maturation protein PM31 [Glycine ... [ score 101 E 4e-21 ] [ range 47 .. 147 ]
+sequence
+--------------------------------------------VDWRETDKAHIFRADLPGVKKEDLKV
+QVE-ENILQISGERVKEKEDQNDKWHRVE-RQCGSFLRRFRLPEDANPNQISCTLENGVLNVTVPKVEK-
+KPE------NKNV--*
+>P1;gi|15925377|ref|NP_372911.1| hypothetical protein [Staphylococcu... [ score 100 E 5e-21 ] [ range 39 .. 128 ]
+sequence
+---------------------------------------------NIYETDELYYLEAELAGVNKEDISI
+DFN-NNTLTIQATRSAKYKSEQ---LILDERNFESLMRQFDFEA-VDKQHITASFENGLLTITLPKIKPS
+---------------*
+>P1;gi|2495334|sp|Q95661|HS2C_LYCES Small heat shock protein, chloro... [ score 100 E 5e-21 ] [ range 128 .. 233 ]
+sequence
+--------------------------------TGE-----IRTPWDIHDDENEIKMRFDMPGLSKEDVKV
+SVE-NDMLVIKGEHKKE---EDGRDKHSWGRNYSSYDTRLSLPDNVVKDKIKAELKNGVLFISIPKTEVE
+K-K------VIDVQ-*
+>P1;gi|42942712|gb|EAB38359.1| unknown [environmental sequence] [ score 100 E 6e-21 ] [ range 41 .. 152 ]
+sequence
+----------------------------GVSFNKG-----AYPKVNVYEYDDKVGIVAEIPGLDKSNVSV
+EVE-EDVLIISGDKHGFDS--DGGKCITRELKQSAFTRSFNLGEYLDGSKVSAKFKDGMLSISIPKKEPE
+QPK------KHSVK-*
+>P1;gi|10956202|ref|NP_051028.1| low molecular weight heat stress pr... [ score 100 E 6e-21 ] [ range 34 .. 142 ]
+sequence
+----------------------------------S-----NLIKTDIHETDNEYIVEAELPGISKDNIQV
+TYE-DGVLTISGQQQIDTVDEDKKGKLIRSERSLTSVRRQYLLENVKEDEIKASYSDGILKVTLPKSNKE
+IKK------SIPIE-*
+>P1;gi|43553425|gb|EAE31498.1| unknown [environmental sequence] [ score 100 E 8e-21 ] [ range 2 .. 92 ]
+sequence
+-------------------------------------------------------ISADIPGLTKKDINI
+EVS-DDVLSITGERTEDKVEDSDLYHYRE-RSRGTFTRSFHLPESVDEKKISANFKDGILNIELPKTKVI
+EPK------SRKIK-*
+>P1;gi|10802712|gb|AAG23578.1| small heat-shock protein [Carboxydoth... [ score 100 E 8e-21 ] [ range 14 .. 114 ]
+sequence
+----------------------------------------------IFEEGADVVVRAEIPGLNKEDLEV
+IVE-PESLTLRGEIRDERERKQERFYRSE-RYYGKFSRTIALPAEVEPDHARASYQNGILEVRMKKSGKN
+NPR------ARRIE-*
+>P1;gi|42524973|ref|NP_970353.1| low molecular weight heat shock pro... [ score 100 E 9e-21 ] [ range 46 .. 135 ]
+sequence
+---------------------------------------------EVTESDDHYLLSVDLPGFKKENINI
+EMN-GNLLTISGERK-----RDEKVI-------GTFSRSFTVPDTVDGAKIEAHHEDGVLSIYLPKAPLA
+KAQ------RIEIQ-*
+>P1;gi|19075661|ref|NP_588161.1| putative heat shock protein 16-Hsp2... [ score 100 E 1e-20 ] [ range 34 .. 135 ]
+sequence
+------------------------------------------PALELRETEDTIEVDVEVPGIDKQNLKV
+DLH-GSKLTISGERKKPEEEKAGPLIRWSERCVGAFSRTITLPQPVDEKLIHASLNNGILSIVMKKKNPE
+FTT------RI----*
+>P1;gi|123554|sp|P27879|HS11_MEDSA 18.1 kDa class I heat shock prote... [ score 100 E 1e-20 ] [ range 31 .. 140 ]
+sequence
+--------------------------------SAF-----VSTRIDWKETPEAHVFKADLPGLKKEEVKV
+EIE-DDVLQISGERNVEKEDKNDQWHRVE-RSSGKFMRRFRLPENAKMDQVKAAMENGVLTVTVPKEEIK
+KPE------VKSIE-*
+>P1;gi|39997504|ref|NP_953455.1| heat shock protein, Hsp20 family [G... [ score 100 E 1e-20 ] [ range 30 .. 130 ]
+sequence
+------------------------------------------PAVNIIETEEGLVLTADIPGAAKETLDV
+NVE-KGILTISAPVSHEMP---GTTAYREF-ELASYYRQFSIPESLDHEKAKAEYVNGILTLRVPKAEAA
+KPK------RIAVQ-*
+>P1;gi|43451697|gb|EAD80514.1| unknown [environmental sequence] [ score 99 E 1e-20 ] [ range 4 .. 107 ]
+sequence
+------------------------------------------PSVDIIENENEFELTADLPGLDKKDVNL
+SLQ-EGVLKLTA--DQKTNNDSKDAYWLRERYSKTYARSFTLPNNVVEEKINASFKNGSLKVILPKEEEV
+KPK------KIKI--*
+>P1;gi|23112524|ref|ZP_00097997.1| COG0071: Molecular chaperone (sma... [ score 99 E 2e-20 ] [ range 42 .. 144 ]
+sequence
+--------------------------------------------VDVEETADQVFVTAEIPGLEKEDLHI
+EVD-EKLLTISGEIKRAAST-SERSSHHTERYYGKFSRTLTLPAVVKADGSHASYKNGILELSFLKDRHP
+AAR------TIEVD-*
+>P1;gi|4884483|emb|CAB43207.1| putative small heat shock protein [St... [ score 99 E 2e-20 ] [ range 34 .. 142 ]
+sequence
+----------------------------------S-----NLIKTDIHETDNEYLVEAELPGIPKENIQV
+TYE-DGVLTISGQQQIDTVDEDKKGKLIRSERSSTSLRRQYLLENVKEDEIKASYSDGILKVTLPKSNKE
+IKK------SIPIE-*
+>P1;gi|224545|prf||1107298A protein,small heat shock [ score 99 E 2e-20 ] [ range 39 .. 151 ]
+sequence
+-----------------------------AENSAF-----VSTRVDWKETPEAHVFKADIPGLKKEEVKV
+QIE-DDVLQISGERNVEKEDKNDTWHRVE-RSSGKFTRRFRLPENAKVNEVKASMENGVLTVTVPKEEVK
+KPN------VKAIE-*
+>P1;gi|4185760|gb|AAD09184.1| cytosolic II small heat shock protein ... [ score 99 E 2e-20 ] [ range 37 .. 142 ]
+sequence
+-------------------------------------------AVDVKELPDAYIFVADMPGLKSADVKV
+QLE-DNVLVIGGTRKREEPDPKVKYIRME-RNSGSFMRKFTLPQNSNLDKIAASCVNGILTVTVPKIEPA
+KPR------TIEV--*
+>P1;gi|28377077|ref|NP_783969.1| small heat shock protein [Lactobaci... [ score 99 E 2e-20 ] [ range 36 .. 140 ]
+sequence
+-------------------------------------------KTDINETDDQYQVKVDVPGIDKQDVKL
+DYR-DNVLSIKVQKDSFVDHEDDQNIVMNERHTGTLQRQYMLP-NVAANKITASQADGVLTITLPKTQPS
+ANG------QIEIQ-*
+>P1;gi|23003569|ref|ZP_00047227.1| COG0071: Molecular chaperone (sma... [ score 99 E 2e-20 ] [ range 44 .. 149 ]
+sequence
+------------------------------------------MQSDVAETDKDYIVKVDMPGMDKKDIKV
+SYK-DGILNVSGSRDSFDNDDKNGNLIHRERSVGHIQRSYRIPD-VDSKEISAKDIDGVLTITLPKTEED
+KEN------TITIE-*
+>P1;gi|21068488|emb|CAC81965.1| small heat-shock protein [Funaria hy... [ score 98 E 3e-20 ] [ range 41 .. 144 ]
+sequence
+-------------------------------------------QIDWRETPEAHIFKADLPGLKKEEVKV
+QVD-GKTLEISGERRKEEVHKDDTWHRVE-RAHGSFLRRFRLPDNSNVEAVEAQVQDGVLTVTIPKIQKP
+KPQ------VRQIE-*
+>P1;gi|42781354|ref|NP_978601.1| heat shock protein, Hsp20 family [B... [ score 98 E 3e-20 ] [ range 40 .. 145 ]
+sequence
+-------------------------------------------KVDVHEQSDKYTVKADLPGFQKENIQV
+EFE-QDVLTIQATNHNEVEEKNENGIYRKERSIGSVTRRFNF-QQVEEENVKANYKDGVLTIELPKLKEE
+KKT------TINIE-*
+>P1;gi|295614|gb|AAA79010.1| heat shock protein 26 [ score 98 E 3e-20 ] [ range 83 .. 206 ]
+sequence
+--------------------------------SGF-----GFPPVDILDHDNNYELKVVVPGVKKKDIDI
+EYN-KNQILVSGEIPSTLNEESKDKVKVKESSSGKFKRVITLPDGVDADNIKADYANGVLTLTVPKLKPQ
+KDK------KIEV--*
+>P1;gi|23336406|ref|ZP_00121625.1| COG0071: Molecular chaperone (sma... [ score 98 E 4e-20 ] [ range 39 .. 166 ]
+sequence
+----------------------------------------NMMTTDVRETDKGYDVDIDMPGFKKEDINL
+ELN-NGYLTVSASRCSEHEDKDSGKWLRRERYMGSCSRSFYVGEDVKESDIHASYRNGTLCIQVPKMQAE
+SKH------QIAIE-*
+>P1;gi|34902026|ref|NP_912359.1| unknown protein [Oryza sativa (japo... [ score 98 E 4e-20 ] [ range 44 .. 158 ]
+sequence
+---------------------------TSSETAAF-----AGARIDWKETPEAHVFKADVPGLKEEVKVE
+VED-GNVLQISGERSKEQEEKTDKWHRVE-RSSGKFLRRFRLPENTKPEQIKASMENGVLTVTVPKEEPK
+KPD------VKSIQ-*
+>P1;gi|123538|sp|P04793|HS13_SOYBN 17.5 kDa class I heat shock prote... [ score 98 E 5e-20 ] [ range 38 .. 150 ]
+sequence
+-----------------------------AENSAF-----VNTRVDWKETPEAHVFEADIPGLKKEEVKV
+QIE-DDVLQISGERNLEKEDKNDTWHRVE-RSSGNFMRRFRLPENAKVEQVKASMENGVLTVTVPKEEVK
+KPD------VKAIE-*
+>P1;gi|4185748|gb|AAD09178.1| cytosolic I small heat shock protein H... [ score 98 E 5e-20 ] [ range 49 .. 151 ]
+sequence
+--------------------------------------------IDWRETPEAHVFKADLPGLKKEEVKV
+QVV-EGTLEISGERKKEEVQKGDTWHRVE-RAQGSFMRRFRLPEGTNVDEVKAQVQDGVLTVTIPKLQKP
+KPQ------VRQIE-*
+>P1;gi|41407796|ref|NP_960632.1| Hsp18_2 [Mycobacterium avium subsp.... [ score 98 E 5e-20 ] [ range 32 .. 135 ]
+sequence
+----------------------------------P-----ALVPMDAWRDGEKFVVEFDLPGVLPESLDV
+NVE-HDVLTVRAER--PAIDEDRNGVVSERPR-GVFSRQVYLGHGLDTDNIHADYVDGVLRLTIPVAEAA
+KPR------KIEV--*
+>P1;gi|123540|sp|P04795|HS15_SOYBN 17.6 kDa class I heat shock prote... [ score 98 E 5e-20 ] [ range 39 .. 151 ]
+sequence
+-----------------------------AENSAF-----VNTRVDWKETQEAHVLKADIPGLKKEEVKV
+QIE-DDVLQISGERNVEKEDKND-TWHRVDRSSGKFMRRFRLPENAKVEQVKACMENGVLTVTIPKEEVK
+KSD------VKPIE-*
+>P1;gi|7441298|pir||S72546 heat shock protein 17.0 - pearl millet >g... [ score 97 E 7e-20 ] [ range 40 .. 149 ]
+sequence
+--------------------------------AAF-----AAARIDWKETPEAHVFKADLPGKKEEVKVE
+VED-GNVLVISGQRSKEKEDKNDRWHRVE-RSSGQFMRRFRLPGNAKVDQVKAGLENGVLTVTVPKAEEK
+KPE------VKAIE-*
+>P1;gi|2911276|gb|AAC39360.1| LMW heat shock protein [Fragaria x ana... [ score 97 E 7e-20 ] [ range 38 .. 152 ]
+sequence
+---------------------------TAGDTSAF-----AQTRIDWKETPEAHVFKADLPGKKEEVKVE
+LEE-GNVLQISGERSKEQEEKNDKWHRVE-RSSGKFVRRFRLPDNAKVDQVKAAMENGVLTVTVPKAPEP
+KPQ------VKSID-*
+>P1;gi|8250122|emb|CAB93514.1| HSP17.x protein [Brassica oleracea] [ score 97 E 7e-20 ] [ range 15 .. 125 ]
+sequence
+-------------------------------MAAF-----TNARVDWKETPEAHVFKADLPGLMKEEVKV
+EVE-DNILQISGERSKENEEKNDKWHRLE-RASGKFMRRFKLPENAKMEEVKATMENGVLTVTVPKAPEK
+KPE------VKSID-*
+>P1;gi|23137380|ref|ZP_00119087.1| COG0071: Molecular chaperone (sma... [ score 97 E 8e-20 ] [ range 37 .. 129 ]
+sequence
+------------------------------------------PAVNIKESAENFVIEVAAPGMNKKDFNV
+QVD-GNVLTIRSEKTTEKEDANNEKYTTREFSYQSFVRTFNLPKDIDTDKIEAKYEDGVLHVLIP-----
+---------------*
+>P1;gi|34895642|ref|NP_909170.1| putative 16.9 kDa heat shock protei... [ score 97 E 8e-20 ] [ range 42 .. 146 ]
+sequence
+--------------------------------------------VDWKETPTAHVFTADLPGVRKDQAKV
+EVE-DGVLVISGERAREEDVDGKNDERHVERSSGKFQRRFRLPRGARVDQVSASMDNGVLTVTVPKEETK
+KPQ------LKAI--*
+>P1;gi|4185754|gb|AAD09181.1| cytosolic I small heat shock protein H... [ score 97 E 1e-19 ] [ range 49 .. 151 ]
+sequence
+--------------------------------------------IDWRETPEAHIFKADLPGLTKEEVKV
+QVL-EGTLEICGERKKEEVQKSD-TWHRMERAQGSFMRRFRLPEGTNTDDVKAQVQDGVLTVTVPKVQKP
+KPQ------VRQIE-*
+>P1;gi|232278|sp|P30222|HS2C_PETHY Small heat shock protein, chlorop... [ score 97 E 1e-19 ] [ range 135 .. 234 ]
+sequence
+--------------------------------TGE-----IRAPWDIKDDENEIKMRFDMPGLSKEEVKV
+SVE-DDVLVIKGEHKKEESGKDD----SWGRNYSSYDTRLSLPDNVDKDKVKAELKNGVLLISIPKTKVE
+KK-------------*
+>P1;gi|32476352|ref|NP_869346.1| heat shock protein SP21 [Pirellula ... [ score 97 E 1e-19 ] [ range 4 .. 105 ]
+sequence
+------------------------------------------PRFDIWEGEQALTLLGDLPGVEPENLDI
+QFE-NRLLTVRG--RVTRHVEADRYLQSEY-EVGDFQRSFTIGEKIDAAGITAELKDGVLTLHLPKSEEA
+KPR------RIEVQ-*
+>P1;gi|5070146|gb|AAD39038.1| putative HSP20 [Mycobacterium smegmatis] [ score 96 E 1e-19 ] [ range 38 .. 143 ]
+sequence
+------------------------------------------PAAEVTRDGEDAVVSVELPGVDGKDVNV
+EVD-RGRLVIHGERRDERSEESDGRTYSEVR-YGSFRREFKLPAHVTGDAVTASYDAGVLKVRVAGAAGE
+QPQ------RIAIE-*
+>P1;gi|477111|pir||A48113 heat shock protein HSP22.7 - garden pea [ score 96 E 1e-19 ] [ range 77 .. 175 ]
+sequence
+--------------------------------------------VDWKETPEGHVIMVDVPGLKKDDIKI
+EVE-ENVLRVSGERKKEEDKKGDHWHRVE-RSYGKFWRQFKLPQNVDLDSVKAKMENGVLTLTLHKLSHD
+KIK------G-----*
+>P1;gi|32452375|emb|CAD59401.1| putative heat shock protein 20_1 [Pr... [ score 96 E 1e-19 ] [ range 20 .. 128 ]
+sequence
+------------------------------QAPSA-----AAIPMDLYSGDDAFVAKIDLPGVDPDSIDI
+DVD-DRTLTVRAERRPE---EAEAQWLVRERPAGIFARQLTLGRGLATDRIEAGYADGVLTLTIPVAEES
+KPR------KIQV--*
+>P1;gi|24214263|ref|NP_711744.1| class II heat shock protein (HSP20)... [ score 96 E 2e-19 ] [ range 28 .. 124 ]
+sequence
+------------------------------------------PRVDIYSDEENIYLLADLPGVEEKDVQV
+QLE-KDQLIISGKTSNKDIQGELR--YSEFR-TGEYKRTFTLTESVEEDRISAVYKNGVLNLTLPKRKPL
+TKK------------*
+>P1;gi|44355932|gb|EAI68889.1| unknown [environmental sequence] [ score 96 E 2e-19 ] [ range 26 .. 129 ]
+sequence
+------------------------------------------PAAEVLETDAAFQIAVELPGAAKDSIDV
+KAT-DRSLVISAERVQPEGERDGEALVSEFR-YGSWSRSFRFPKGIQRDELKASYRDGLLRITAPKAESN
+AAV------SITVE-*
+>P1;gi|30262274|ref|NP_844651.1| heat shock protein, Hsp20 family [B... [ score 96 E 2e-19 ] [ range 40 .. 145 ]
+sequence
+-------------------------------------------KVDVHEQSDKYTVKADLPGFQKENIQV
+EFE-QDVLTIQATNHNEVEEKNENGTYRKERSIGSVTRRFSF-KQVEEENVRANYKDGVLTIELPKLKEE
+KKT------TINIE-*
+>P1;gi|43881066|gb|EAF94518.1| unknown [environmental sequence] [ score 96 E 2e-19 ] [ range 36 .. 133 ]
+sequence
+------------------------------------------PSVNTIENDDSFEIDLAVPGMKKDDFSI
+ELD-NNVLIISSETSNNVSNEN---LRLNEFNYSSFQRSFKVPESVNLDKIKGSYKNGILKILLPKNKDS
+ISK------S-----*
+>P1;gi|4185758|gb|AAD09183.1| cytosolic I small heat shock protein H... [ score 96 E 2e-19 ] [ range 41 .. 144 ]
+sequence
+-------------------------------------------QIDWRETPEAQSSKADLPGLKKEEVKV
+QVD-GKTLEISGERRKEEVHKDDTWHRVE-RAHGSFLRRFRLPDNSNVEAVEAQVQDGVLTVTIPKIQKP
+KPQ------VRQIE-*
+>P1;gi|38564191|dbj|BAD02411.1| heat shock protein 30 [Aspergillus o... [ score 96 E 2e-19 ] [ range 41 .. 166 ]
+sequence
+------------------------------------------PRFDVRETDDAYHFDGELPGISQKDIDI
+QFS-DQTLVIKGEREKETEGESKEVVKKEERSVGEFHRTFTFPSRVDQENVKASLKNGILSLVVPKAAAY
+TGK------KITIE-*
+>P1;gi|41409799|ref|NP_962635.1| Hsp [Mycobacterium avium subsp. par... [ score 95 E 2e-19 ] [ range 40 .. 130 ]
+sequence
+------------------------------------------PAAEIVKDGDDAIVRVELPGVDVDDVQV
+ELD-RGRLVIRGEHRDEHAEEKDGRTLREIR-YGSFHRSFQLPGHVTDDDITASYDAGVLTVRV------
+---------------*
+>P1;gi|7441319|pir||T14381 heat-shock protein 17.6, low molecular we... [ score 95 E 2e-19 ] [ range 44 .. 154 ]
+sequence
+-------------------------------VAAF-----TNAKVDWRETPEAHVFKADLPGLKEEVKVE
+VED-GNILQISGERSSENEEKSDRWHRVE-RSSGKFMRRFKLPENAKVDEVKASMENGVLSVTVPKMAER
+KPE------VKSID-*
+>P1;gi|15678879|ref|NP_275996.1| heat shock protein, class I [Methan... [ score 95 E 3e-19 ] [ range 43 .. 145 ]
+sequence
+-------------------------------------------SMDVMETDDAIIIKTDLPGVKKEDINI
+ELT-ENTISISAVFEEEVEIKEADFIKKE-RKYGEAKREMRLPEKIRVEDASAKFENGVLTVELPKVEVK
+KKQ------TLKVE-*
+>P1;gi|100883|pir||S23212 heat shock protein 17.2 - maize >gi|22335|... [ score 95 E 3e-19 ] [ range 35 .. 149 ]
+sequence
+---------------------------TNSETAAF-----ASARIDWKETPEAHVFKADLPGKKEEVKVE
+VED-GNVLVISGQRSREKEDKDDKWHRVE-RSSGQFIRRFRLPDDAKVDQVKAGLENGVLTVTVPKAEEK
+KPE------VKAIE-*
+>P1;gi|30020348|ref|NP_831979.1| Small heat shock protein [Bacillus ... [ score 95 E 3e-19 ] [ range 40 .. 145 ]
+sequence
+-------------------------------------------KVDVHEQSGKYTVKADLPGFQKENIQV
+DFE-QDILTIQATNHNEVDEKNENGTYRKERSIGSVTRRFNF-KQVEEENVKANYKDGVLTIELPKLEKS
+SKT------TINIE-*
+>P1;gi|25987073|gb|AAN74536.1| chloroplast low molecular weight heat... [ score 95 E 3e-19 ] [ range 131 .. 240 ]
+sequence
+------------------------------------------MPWDIMEDDKEVKMRFDMPGLSRDEVKV
+MVE-DDTLVIRGEHKKEAGEEGQGDGWWKERSVSSYDMRLTLPDECDKSQVRAELKNGVLLVTVPKTETE
+-RK------VIDVQ-*
+>P1;gi|21227357|ref|NP_633279.1| putative heat shock protein [Methan... [ score 95 E 4e-19 ] [ range 87 .. 174 ]
+sequence
+------------------------------------------PLIDVLESEEVVHVIAEMPGIDKENIQL
+NAT-DLILDI--------ETLDGNPKYSE---------RVELPVKVDPQSARATYKNGVLEVTFNKMESS
+SRT------SINIE-*
+>P1;gi|7441301|pir||T04171 heat shock protein - rice >gi|1763972|gb|... [ score 95 E 4e-19 ] [ range 37 .. 146 ]
+sequence
+--------------------------------AAF-----ANARVDWKETPESHVFKADLPGKKEEVKVE
+VEE-GNVLVISGQRSKEKEDKNDKWHRVE-RSSGQFMRRFRLPENAKVDQVKASMENGVLTVTVPKAEVN
+KPE------VKAIE-*
+>P1;gi|34902024|ref|NP_912358.1| unknown protein [Oryza sativa (japo... [ score 95 E 4e-19 ] [ range 39 .. 152 ]
+sequence
+-----------------------------SDAAAF-----AGARIDWKETPEAHVFKADVPGLKEEVKVE
+VED-GNVLQISGERIKEQEEKTDKWHRVE-RSSGKFLRRFRLPENTKPEQIKASMENGVLTVTVPKEEPK
+KPK------SIQI--*
+>P1;gi|13473956|ref|NP_105524.1| small heat-shock protein [Mesorhizo... [ score 95 E 4e-19 ] [ range 47 .. 156 ]
+sequence
+------------------------------EVSRL-----EFPAVNAFVNQDGVIITAELPGVRSEDLDI
+LIH-RDSVTLSGERQAEAEDARRGYHRRERRQ-GRFVRTVSLPFLVDPNNVGANLINGLLTLGLPRAEED
+KPK------RIHV--*
+>P1;gi|25987075|gb|AAN74537.1| chloroplast low molecular weight heat... [ score 94 E 5e-19 ] [ range 132 .. 241 ]
+sequence
+------------------------------------------MPWDIVEDDKEVKMRFDMPGLSRDEVKV
+MVE-DDTLVIRGEHKKEVSEEGQGDGWWKERSVSSYDMRLALPDECDKSQVRAELKNGVLLVSVPKTETE
+-RK------VIDVQ-*
+>P1;gi|123534|sp|P02519|HS11_SOYBN 17.3 kDa class I heat shock prote... [ score 94 E 5e-19 ] [ range 38 .. 151 ]
+sequence
+-----------------------------AENSAF-----VSTRVDWKETPEAHVFKADIPGLKKEEVKL
+EIQ-DGVLQISGERNVEKEDKNDTWHRVE-RSSGKLVRRFRLPENAKVDQVKASMENGVLTVTVPKEEIK
+KPK------AIDI--*
+>P1;gi|81639|pir||JQ0351 heat shock protein 17 - Arabidopsis thalian... [ score 94 E 6e-19 ] [ range 43 .. 153 ]
+sequence
+-------------------------------VAAF-----TNAKVDWRETPEAHVFKADVPGLKEEVKVE
+VED-GNILQISGERSSENEEKSDTWHRVE-RSSGKFMRRFRLPENAKVEEVKASMENGVLSVTVPKVQES
+KPE------VKSID-*
+>P1;gi|4456758|emb|CAB36910.1| heat shock protein 17.4 [Quercus suber] [ score 94 E 6e-19 ] [ range 40 .. 151 ]
+sequence
+------------------------------ETTAF-----ATARIDWKETPEAHIFKADLPGLKEEVKVE
+VED-GNVLQISGERSKEHEEKNDKWHRVE-RSCGKFMRRFRLPENAKVDQVKANMENGVLTVMVPKEEQK
+KPA------VKAIE-*
+>P1;gi|7441294|pir||S71567 small heat-shock protein class I, 18.6K -... [ score 94 E 6e-19 ] [ range 46 .. 161 ]
+sequence
+---------------------------SSSETSSF-----VNANVDWRETNDAHVFKADVPGLKKEEVKV
+EVE-DDVLQISGERNKESEEKGDTWHRVE-RSSGKFVRRFRLPENAKVDQVKAAMENGVLTVTVPKVEVK
+KPK------SIQI--*
+>P1;gi|15238509|ref|NP_200780.1| 18.1 kDa class I heat shock protein... [ score 94 E 6e-19 ] [ range 46 .. 156 ]
+sequence
+-------------------------------VAAF-----TNARVDWKETPEAHVFKADLPGLKEEVKVE
+VED-KNVLQISGERSKENEEKNDKWHRVE-RASGKFMRRFRLPENAKMEEVKATMENGVLTVVVPKAPEK
+KPQ------VKSID-*
+>P1;gi|7441307|pir||T02018 heat shock protein 26a, chloroplast - com... [ score 94 E 6e-19 ] [ range 131 .. 238 ]
+sequence
+-----------------------------SSAVGE-----IRAPWDIKDDENEIKMRFDMPGLSKDEVKV
+SVE-DDLLVIKGEYKKEETGDDN----SWGRNYSSYDTRLSLPDNVEKDKIKAELKNGVLFISIPKTKVE
+K-K------VIDVQ-*
+>P1;gi|15613043|ref|NP_241346.1| small heat shock protein [Bacillus ... [ score 94 E 6e-19 ] [ range 39 .. 143 ]
+sequence
+------------------------------------------PKMDVHETDHEVILECDIPGLEKEDLQI
+DVE-PRSVRIEGRIKRSKEVHDERFYRRE-REIGHFRRVVPLPAEVAEDDIRAAYRNGVLEVRMRKRLDD
+RRR------TIDVE-*
+>P1;gi|39997503|ref|NP_953454.1| heat shock protein, Hsp20 family [G... [ score 94 E 7e-19 ] [ range 51 .. 149 ]
+sequence
+----------------------------------S-----GGPLLDMHETADELIIRAEVPGLKNDDFSV
+GIV-GRRLTIKGEKNIVRERKGGDGCLISECRYGSFARTLQLPYEIDEKAIAADLKHGVLTIRLPKPEK-
+---------------*
+>P1;gi|44490683|gb|EAJ63867.1| unknown [environmental sequence] [ score 94 E 8e-19 ] [ range 39 .. 139 ]
+sequence
+------------------------------------------PAVDILEDKTKFELKADFPGFERKNISL
+SVE-DGLLKLAA----VQNNDADSNYTINERRSGNIERSFTLPDSVLPEKISAKYKNGTLLINIPKAKEI
+KPE------VNKIK-*
+>P1;gi|13568405|dbj|BAB40930.1| small heat shock protein [Thermococc... [ score 93 E 1e-18 ] [ range 60 .. 144 ]
+sequence
+---------------------------------------------DIFDRGDRFVITVELPGVRKEDIKL
+RVT-EDTVYIEAQMRREKELEQEGAIRIE-RYYSGYRRVIRLPEEVIPEKAKARYNNGVLEI--------
+---------------*
+>P1;gi|21950718|gb|AAM78595.1| small heat shock protein [Laccaria bi... [ score 93 E 1e-18 ] [ range 49 .. 154 ]
+sequence
+------------------------------------------PRMDLHEDKEKNLVTAEFPGSKKEDVHL
+EIH-NGRLVVSVENKISEEHDESGYAVRE-RRYGKFSRTLQLPQGVKDDEIKAGMEDGVLTVTFPKSAEL
+APK------KISI--*
+>P1;gi|23473905|ref|ZP_00129200.1| COG0071: Molecular chaperone (sma... [ score 93 E 1e-18 ] [ range 32 .. 137 ]
+sequence
+------------------------------------------PKVDIYGTDKEYVVEVDLPGIEEKDLSV
+ELK-DDVLILSAEKKHEEKTEEKGYYRVE-RSYGSFRRVLNVPDDADKEGINAKLNKGVLRITMPKAIET
+ESR------KIAIE-*
+>P1;gi|4996284|dbj|BAA78385.1| heat shock protein 26 [Oryza sativa] [ score 92 E 2e-18 ] [ range 127 .. 237 ]
+sequence
+--------------------------------TGE-----VRMPWDVMEDDKEVRMRFDMPGLSREEVKV
+MVE-DDALVIRGEHKKEEGEGAEGSGDGKERSVSSYDMRLALPDECDKSKVRAELKNGVLLVTVPKTEVE
+-RK------VIDVQ-*
+>P1;gi|7441293|pir||S72544 heat shock protein 17.9 - pearl millet >g... [ score 92 E 2e-18 ] [ range 42 .. 156 ]
+sequence
+---------------------------TSSETAAF-----AGARIDWKETPEAHVFKADVPALKEEVKVE
+VED-GNVLQISGERNKEQEEKTDTWHRVE-RSSGKFMRRFRLPENAKTDQIRASMENGVLTVTVPKEEVK
+KPE------VKSIQ-*
+>P1;gi|8250119|emb|CAB93512.1| HSP17.7-a protein [Brassica oleracea] [ score 92 E 2e-18 ] [ range 44 .. 154 ]
+sequence
+-------------------------------VAAF-----TNAKVDWRETAEAHVFKADLPGLKEEVKVE
+VED-GNILKISGERSSENEEKSDKWHRVE-RSSGKFMRRFKLPENAKVDEVKASMENGVLSVTVPKMPER
+KPE------VKSMD-*
+>P1;gi|6601538|gb|AAF19022.1| chloroplast-localized small heat shock... [ score 92 E 2e-18 ] [ range 141 .. 243 ]
+sequence
+-------------------------------------------PWDVKEDNESFRLRFDMPGLGKDEVKV
+YVE-DGDLVIKGAHRAEEQKENN----WSSRSYGSYNTRMTLPENVKIDEVKAELKNGVLQVVVPKSKEE
+PKK------NINVE-*
+>P1;gi|2495336|sp|Q53595|HS18_STRAL 18 KD HEAT SHOCK PROTEIN (HSP 18... [ score 92 E 2e-18 ] [ range 25 .. 132 ]
+sequence
+--------------------------------SRP-----TAMPMDACREGDTYVVSFDLPGVDPEAIEI
+DIE-RNMLTVKAERGPAGNAEHVRMEVAE-RPLGVFSRQLVLADTLDTEQVRADYDAGVLTLRIPIAERA
+KRR------RVKV--*
+>P1;gi|41409366|ref|NP_962202.1| Hsp18_3 [Mycobacterium avium subsp.... [ score 92 E 2e-18 ] [ range 23 .. 128 ]
+sequence
+--------------------------------TRP-----AVMPMDAWREGEHFVVEFDLPGIDAESLDI
+DIE-RNVLTVRAERPALDPSRE---MLATERPRGVFSRELVLGDNLDTDKIEASYRDGVLSLHIPVAEKA
+KPR------KIAV--*
+>P1;gi|23049573|ref|ZP_00076684.1| COG0071: Molecular chaperone (sma... [ score 92 E 3e-18 ] [ range 88 .. 175 ]
+sequence
+------------------------------------------PLIDVLETEEEVHVIAEIPGIEKEDIRL
+NAT-DLILDI--------ETINGNPKYSE---------RVELPVKVDPQSAKATYKNGVLEVTFKRLESS
+SQT------SINIE-*
+>P1;gi|15234985|ref|NP_192763.1| 22.0 kDa ER small heat shock protei... [ score 92 E 3e-18 ] [ range 73 .. 177 ]
+sequence
+--------------------------------------------VDWKETAEGHEIMLDIPGLKKDEVKI
+EVE-ENVLRVSGERKREEEKKGDQWHRVE-RSYGKFWRQFKLPDNVDMESVKAKLENGVLTINLTKLSPE
+KPR------VVNI--*
+>P1;gi|44056409|gb|EAG88748.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 23 .. 130 ]
+sequence
+-----------------------------------------YPKVNVINHEECVEIEAAIPGMDSDDIDV
+EIT-DSVLTIQGSSNQISGIRDDQYVKREIKKS-SFKRSFSLNDNLDSEDITASFNNGILTLKIPKIVPA
+KPR------KIKI--*
+>P1;gi|7441324|pir||T09611 heat shock protein, low molecular weight ... [ score 92 E 3e-18 ] [ range 59 .. 162 ]
+sequence
+--------------------------------------------IDWKETPEAHVFRADLPGVTKEEVKV
+EVE-EGVLQISGERRSRESEEKNDKWHRVERSSGKFLRRFRLPENTKMDEVKATMENGVLTVCVPKVEQR
+RPE------VKSIE-*
+>P1;gi|7441326|pir||T09256 heat shock protein 17.1 - white spruce >g... [ score 92 E 3e-18 ] [ range 42 .. 132 ]
+sequence
+-------------------------------------------PVDVKEYPNSYVFIVDMPGLKSNDIKV
+QVE-DNILNISGERKRNEKEEGEVKYIRMERRVGKFMRKFSLPADCNLEAISAACQDGVLTVTV------
+---------------*
+>P1;gi|2133410|pir||S58210 bradyzoite-specific protein hsp30/bag1 - ... [ score 92 E 3e-18 ] [ range 119 .. 229 ]
+sequence
+------------------------------------------PRVDVESKKKEMIILADLPGLQKDDVTI
+EVD-NGAIVIKGEKTSEKVDDGKTKNILTERVSGYFARRFQLPSNYKPDGISAAMDNGVLRVTI-KVEDS
+AKQ------QISVK-*
+>P1;gi|15614835|ref|NP_243138.1| heat shock protein class I (low mol... [ score 91 E 5e-18 ] [ range 43 .. 144 ]
+sequence
+------------------------------------------IPIRQYEKGEQFIIEAELPGVSKNQIQL
+DVF-PQYVRIRIHEEEVLEMEDEKGIYSKSISSQARERVIPFPYPVQEGDIKARLRNGLLTIAIPNH---
+-RK------RINIE-*
+>P1;gi|7441299|pir||T07031 low molecular weight heat shock protein h... [ score 91 E 5e-18 ] [ range 76 .. 183 ]
+sequence
+--------------------------------------------VDWKETAEGHVISIDVPGLKKDDIKI
+EIE-ENVLRVSGERKKEEEKNDEQNHWHVERSYGKFWRQFRLPENADIDTMKAKLENGVLTISFAKLSAD
+RPK------VVSIE-*
+>P1;gi|22984795|ref|ZP_00029931.1| COG0071: Molecular chaperone (sma... [ score 91 E 6e-18 ] [ range 31 .. 133 ]
+sequence
+------------------------------------------PAVDVFEDSQGITLWADLPGVTKDKLDV
+KVH-DGNLYIEAE-AVVPTPAGLRLQHAEIRES-RFARAFSLSPDFDTSKIDANLQDGVLKLTIPRRDEA
+RPR------RIEVQ-*
+>P1;gi|8671873|gb|AAF78436.1| Contains similarity to 17.6 KD class I... [ score 216 E 6e-56 ] [ range 257 .. 403 ]
+sequence
+---RRTNVFDPFSLDVFDPFEGFLTPSGLANAPAMDVAAFTNAKVDWRETPEAHVFKADLPGLRKEEVKV
+EVEDGNILQISGERSNENEEKNDKWHRVERS-SGKFTRRFRLPENAKMEEIKASMENGVLSVTVPKV---
+-PEKKPEVKSIDISG*
+>P1;gi|123545|sp|P12810|HS11_WHEAT 16.9 kDa class I heat shock prote... [ score 213 E 7e-55 ] [ range 2 .. 151 ]
+sequence
+SIVRRSNVFDPFADLWADPFDTFRSIVPAISGGSSETAAFANARVDWKETPEAHVFKVDLPGVKKEEVKV
+EVEDGNVLVVSGERSREKEDKNDKWHRVERS-SGKFVRRFRLPEDAKVEEVKAGLENGVLTVTVPKA---
+-EVKKPEVKAIEISG*
+>P1;gi|445136|prf||1908436B heat shock protein 16.9 [ score 209 E 8e-54 ] [ range 2 .. 150 ]
+sequence
+SIVRRTNVFDPFADLWADPFDTFRSIVPAISGGTSETAAFANARVDWKETPEAHVFKADLPGVKKEEVKV
+EVEDGNVLVVSGERTKEEEDKNDKWHRVERS-SGKFVRRFRLPEDAKVGEVKAGLENGVLTVTVPKA---
+-EVKKPEVKAIEIS-*
+>P1;gi|1536911|emb|CAA69172.1| 17 kDa class I small heat shock prote... [ score 206 E 8e-53 ] [ range 2 .. 150 ]
+sequence
+SIVRRSNAFDPFADLWADPFDTFRSIVPAFSGN-SETAAFANARVDWKETPEAHVFKADLPGVKKEEVKV
+EVEDGNVLVVSGERTKEKEDKNDKWHRVERS-SGKFVRRFRLPEDAKVEEVKAGLENGVLTVTVPKT---
+-EVKKPEVKAIEISG*
+>P1;gi|34902016|ref|NP_912354.1| putative class I low-molecular-weig... [ score 198 E 1e-50 ] [ range 2 .. 161 ]
+sequence
+SLIRRSNVFDPFSLDLWDPFDGFPFGSGGSRGASSETAAFAGARIDWKETPEAHVFKADVPGLKKEEVKV
+EVDDGNILQISGERNKEQEEKTDQWHRVERS-SGKFLRRFRLPDNAKPEQIKASMENGVLTVTVPKE---
+-EAKKPDVKSIQISG*
+>P1;gi|7441293|pir||S72544 heat shock protein 17.9 - pearl millet >g... [ score 197 E 3e-50 ] [ range 2 .. 159 ]
+sequence
+SLIRRSNVFDPFSLDLWDPFEGFPSLFPSFPRTSSETAAFAGARIDWKETPEAHVFKADVPALKKEEVKV
+EVEDGNVLQISGERNKEQEEKTDTWHRVERS-SGKFMRRFRLPENAKTDQIRASMENGVLTVTVPKE---
+-EVKKPEVKSIQISG*
+>P1;gi|100883|pir||S23212 heat shock protein 17.2 - maize >gi|22335|... [ score 197 E 4e-50 ] [ range 2 .. 152 ]
+sequence
+SLVRRSNVFDPFSMDLWDPFDTFRSIVPSATSTNSETAAFASARIDWKETPEAHVFKADLPGVKKEEVKV
+EVEDGNVLVISGQRSREKEDKDDKWHRVERS-SGQFIRRFRLPDDAKVDQVKAGLENGVLTVTVPKA---
+-EEKKPEVKAIEISG*
+>P1;gi|123556|sp|P27880|HS12_MEDSA 18.2 kDa class I heat shock prote... [ score 197 E 4e-50 ] [ range 11 .. 158 ]
+sequence
+---RRSNVFDPFSLDVWDPFKDFPFNNSALSASFRENSAFVSTRVDWKETPEAHVFKADLPGMKKEEVKV
+EIEDDRVLQISGERSVEKEDKNDQWHRLERS-SGKFMRRFRLPENAKMDQVKAAMENGVLTVTVPKE---
+-EVKKPEVKTIDISG*
+>P1;gi|41059801|gb|AAR99375.1| small heat shock protein [Prunus pers... [ score 196 E 5e-50 ] [ range 9 .. 154 ]
+sequence
+---RRSNVFDPFSLDIWDPLEGLGTL-ANIPPSARETTAIANTRIDWKETPEAHIFIADLPGLKKEEVKV
+EVDDGKVLHISGERSREQEEKNDKWHRIERS-TGKFSRRFRLPDNAKIDQVKASMENGVLTVTVPKE---
+-EEKRPQVKAIDISG*
+>P1;gi|15408722|dbj|BAB64125.1| putative 16.9 kDa heat shock protein... [ score 196 E 1e-49 ] [ range 2 .. 149 ]
+sequence
+SLVRRSNVFDPFADFW-DPFDGFRSLVPATSD--RDTAAFANARVDWKETPESHVFKADLPGVKKEEVKV
+EVEEGNVLVISGQRSKEKEDKNDKWHRVERS-SGQFMRRFRLPENAKVDQVKASMENGVLTVTVPKA---
+-EVKKPEVKAIEISG*
+>P1;gi|34902028|ref|NP_912360.1| shock protein, low molecular weight... [ score 193 E 5e-49 ] [ range 2 .. 159 ]
+sequence
+SLIRRGNAFDPFSLDLWDPVDGFPFGSGGFPRANSDAAAFAGARIDWKETPEVHVFKADVPGLKKEEVKV
+EVDDGNILQISGERSREQEEKSDKWHRVERS-SGKFLRRFRLPENTKPEQIKASMENGVLTVTVPKE---
+-EPKKPDVKSIQISG*
+>P1;gi|224545|prf||1107298A protein,small heat shock [ score 193 E 8e-49 ] [ range 11 .. 154 ]
+sequence
+---RRSNVFDPFSLDMWDPFKDFHVPTSSVS---AENSAFVSTRVDWKETPEAHVFKADIPGLKKEEVKV
+QIEDDRVLQISGERNVEKEDKNDTWHRVERS-SGKFTRRFRLPENAKVNEVKASMENGVLTVTVPKE---
+-EVKKPNVKAIEISG*
+>P1;gi|123544|sp|P05478|HS16_SOYBN 18.5 kDa class I heat shock prote... [ score 192 E 9e-49 ] [ range 11 .. 161 ]
+sequence
+---RRNNVFDPFSLDVWDPFKDFPFPSASFPEFSRENSAFVSTRVDWKETPEAHVFKADIPGLKKEEVKV
+QIEDDKVLQISGERNVEKEDKNDTWHRVERS-SGKFMRRFRLPENAKVEQVKASMENGVLTVTVPKE---
+-EVKKPDVKAIEISG*
+>P1;gi|169799|gb|AAA33910.1| 16.9 kDa heat shock protein >gi|1540872... [ score 192 E 1e-48 ] [ range 2 .. 150 ]
+sequence
+SLVRRSNVFDPFSLDLWDPFDSFRSVVPATSDN--DTAAFANARIDWKETPESHVFKADLPGVKKEEVKV
+EVEEGNVLVISGQRSKEKEDKNDKWHRVERS-SGQFMRRFRLPENAKVDQVKAGMENGVLTVTVPKA---
+-EVKKPEVKAIEISG*
+>P1;gi|7441298|pir||S72546 heat shock protein 17.0 - pearl millet >g... [ score 191 E 2e-48 ] [ range 2 .. 152 ]
+sequence
+SLVSRSSVFDPFSMDLWDPFDSFRSIVQSAGSPDSDTAAFAAARIDWKETPEAHVFKADLPGVKKEEVKV
+EVEDGNVLVISGQRSKEKEDKNDRWHRVERS-SGQFMRRFRLPGNAKVDQVKAGLENGVLTVTVPKA---
+-EEKKPEVKAIEISG*
+>P1;gi|2911276|gb|AAC39360.1| LMW heat shock protein [Fragaria x ana... [ score 191 E 2e-48 ] [ range 10 .. 155 ]
+sequence
+---RRSNVFDPFSLDTWDPFQGFGPLMNSSSTAG-DTSAFAQTRIDWKETPEAHVFKADLPGLKKEEVKV
+ELEEGNVLQISGERSKEQEEKNDKWHRVERS-SGKFVRRFRLPDNAKVDQVKAAMENGVLTVTVPKA---
+-PEPKPQVKSIDISG*
+>P1;gi|123538|sp|P04793|HS13_SOYBN 17.5 kDa class I heat shock prote... [ score 191 E 2e-48 ] [ range 11 .. 153 ]
+sequence
+---RRSNVFDPFSLDVWDPFKDFHFPTS----LSAENSAFVNTRVDWKETPEAHVFEADIPGLKKEEVKV
+QIEDDRVLQISGERNLEKEDKNDTWHRVERS-SGNFMRRFRLPENAKVEQVKASMENGVLTVTVPKE---
+-EVKKPDVKAIEISG*
+>P1;gi|34902024|ref|NP_912358.1| unknown protein [Oryza sativa (japo... [ score 191 E 3e-48 ] [ range 2 .. 154 ]
+sequence
+SMIRRSNVFDPFSLDLWDPFDGFPFGSGSFPRANSDAAAFAGARIDWKETPEAHVFKADVPGLKKEEVKV
+EVEDGNVLQISGERIKEQEEKTDKWHRVERS-SGKFLRRFRLPENTKPEQIKASMENGVLTVTVPKE---
+-EPKKPDVKSIQITG*
+>P1;gi|34902026|ref|NP_912359.1| unknown protein [Oryza sativa (japo... [ score 190 E 4e-48 ] [ range 2 .. 161 ]
+sequence
+SLIRRSNVFDPFSLDLWDPFDGFPFIFPSFPGTSSETAAFAGARIDWKETPEAHVFKADVPGLKKEEVKV
+EVEDGNVLQISGERSKEQEEKTDKWHRVERS-SGKFLRRFRLPENTKPEQIKASMENGVLTVTVPKE---
+-EPKKPDVKSIQVTG*
+>P1;gi|4456758|emb|CAB36910.1| heat shock protein 17.4 [Quercus suber] [ score 190 E 5e-48 ] [ range 9 .. 154 ]
+sequence
+---RRSNVFDPFSLDIWDPFEGF-SAVASVPPSARETTAFATARIDWKETPEAHIFKADLPGLKKEEVKV
+EVEDGNVLQISGERSKEHEEKNDKWHRVERS-CGKFMRRFRLPENAKVDQVKANMENGVLTVMVPKE---
+-EQKKPAVKAIEISG*
+>P1;gi|40646966|gb|AAQ19680.1| chloroplast small heat shock protein ... [ score 188 E 2e-47 ] [ range 11 .. 159 ]
+sequence
+---RRSNIFDPVSLDLWDPFEGFPSTIANTPSSARETSAFPNARIDWKETPQAHIFKVDVPGIKREEVKV
+QVEEGRILQITGERSREQEEKNDQWHRMERS-SGKFLRRFRLPENTKMGEIKAAMENGVLTVTVPKE---
+-EEKRSEVKAIDISG*
+>P1;gi|123534|sp|P02519|HS11_SOYBN 17.3 kDa class I heat shock prote... [ score 188 E 2e-47 ] [ range 11 .. 153 ]
+sequence
+---RRSSVFDPFSLDVWDPFKDF----PFPSSLSAENSAFVSTRVDWKETPEAHVFKADIPGLKKEEVKL
+EIQDGRVLQISGERNVEKEDKNDTWHRVERS-SGKLVRRFRLPENAKVDQVKASMENGVLTVTVPKE---
+-EIKKPDVKAIDISG*
+>P1;gi|15238509|ref|NP_200780.1| 18.1 kDa class I heat shock protein... [ score 187 E 4e-47 ] [ range 11 .. 159 ]
+sequence
+---RRSNVFDPFSQDLWDPFEGFFTPSSALANASRDVAAFTNARVDWKETPEAHVFKADLPGLKKEEVKV
+EVEDKNVLQISGERSKENEEKNDKWHRVERA-SGKFMRRFRLPENAKMEEVKATMENGVLTVVVPKA---
+-PEKKPQVKSIDISG*
+>P1;gi|25044839|gb|AAM28293.1| class-1 LMW heat shock protein [Anana... [ score 186 E 5e-47 ] [ range 2 .. 156 ]
+sequence
+SLVRRSNIFDPFSLDLWEPFEGFPSFPRPSASFPAETASFAGARIDWKETPEAHVFKADLPGVKKEEVKV
+EVEEGNVLQISGERTREKEEKNDTWHRVERS-SGKFLRRFRLPDNAKVDQVKAAMENGVLTVTVPKE---
+-DVKKPQVKSVQISG*
+>P1;gi|16930753|gb|AAL32036.1| small heat shock protein [Retama raetam] [ score 186 E 7e-47 ] [ range 12 .. 158 ]
+sequence
+---RRTNVFDPFSLDIWDPFQDFPLRTIAPSGFDTETAAVANTRIDWKETPEAHVFKADLPGLKKEEVKV
+EVEEGRVLQISGERTKEKEDKNDTWHRVECS-AGRFLRRFRLPENAKVEQVKASLENGVLTVTVPKE---
+-EVKKPDVKPVQITG*
+>P1;gi|123540|sp|P04795|HS15_SOYBN 17.6 kDa class I heat shock prote... [ score 185 E 1e-46 ] [ range 12 .. 154 ]
+sequence
+----RSNVFDPFSLDMWDPFKDFHVPTSSVS---AENSAFVNTRVDWKETQEAHVLKADIPGLKKEEVKV
+QIEDDRVLQISGERNVEKEDKNDTWHRVDRS-SGKFMRRFRLPENAKVEQVKACMENGVLTVTIPKE---
+-EVKKSDVKPIEISG*
+>P1;gi|71495|pir||CYPZ77 heat shock protein (clone DChsp17.7) - carrot [ score 185 E 1e-46 ] [ range 11 .. 157 ]
+sequence
+---RRSNVFDPFSLDVWDPFKDFPLVTSSASEFGKETAAFVNTHIDWKETPQAHVFKADLPGLKKEEVKV
+ELEEGKVLQISGERNKEKEEKNDKWHRVERS-SGKFLRRFRLPENAKVDEVKAAMANGVLTVTVPKV---
+-EIKKPEVKAIDISG*
+>P1;gi|3819743|emb|CAA08908.1| cytosolic class I small heat-shock pr... [ score 185 E 2e-46 ] [ range 9 .. 154 ]
+sequence
+---RRSNVFDPFSLDIWDPFEGF-SAVANVPPSARETTAFATARIDWKETPEAHIFKADLPGLKKEEVKV
+EVEDGNVLQISGERSKEHEEKNDKWHRVERS-CGKFLRRFRLPENAKVEQVKANMENGVLTVIVPKE---
+-EQKKTEVKSIEISG*
+>P1;gi|7441297|pir||S72545 heat shock protein 16.9 - pearl millet >g... [ score 184 E 3e-46 ] [ range 2 .. 150 ]
+sequence
+SLVRRGNVFDPFSMDLWDPFDNFRSIVP--SSSSSDTAAFANARIDWKETPEVHVFKADLPGVKKEEVKV
+EVEDGNVLVISGQRSKEKEDKNDRWHRVERS-SGQFVRRFRLPEDAKTDQVNAGLENGVLTVTVPKA---
+-EGKKPEVKAIEISG*
+>P1;gi|2130018|pir||S71566 heat shock protein, 17.7K - common sunflo... [ score 183 E 5e-46 ] [ range 13 .. 156 ]
+sequence
+-----SNIFDPFSSEIWDPFQGLSSVINNLPESSRETTAIANTRIDWKETPEAHVFKADLPGLKKEEVKV
+EVEEGRVLQISGERSRENVEKNDKWHRMERS-SGKFLRRFRLPENAKMDQVKAAMENGVLTVTVPKA---
+-EVKKPEVKAIDIS-*
+>P1;gi|7441300|pir||T06449 probable heat shock protein - garden pea ... [ score 183 E 5e-46 ] [ range 10 .. 155 ]
+sequence
+---RRTNAFDPFSLDLWDPFQNF-QLARSATGTTNETAAFANAHIDWKETPEAHVFKADLPGVKKEEVKV
+EIEEDRVLKISGERKTEKEDKNDTWHRVERS-QGSFLRRFRLPENAKVDQVKAAMENGVLTVTVPKE---
+-EVKKPEAKPIQITG*
+>P1;gi|422000|pir||S24396 heat shock protein, low molecular weight (... [ score 183 E 7e-46 ] [ range 2 .. 154 ]
+sequence
+SMIRRSNVFDPFSLDLWDPFDGFPFGSGSFPRANSDAAAFAGARIDWKETPEAHVFKADVPGLKKEEVKV
+EVEDGNVSRSAGERIKEQEEKTDKWHRVERS-SGKFLRRFRLPENTKPEQIKASMENGVLTVTVPKE---
+-EPKKPDVKSIQITG*
+>P1;gi|7441319|pir||T14381 heat-shock protein 17.6, low molecular we... [ score 183 E 7e-46 ] [ range 11 .. 157 ]
+sequence
+---RRTNVFDPFSLDLYDPFEGFLTPSGMTNATSKDVAAFTNAKVDWRETPEAHVFKADLPGLKKEEVKV
+EVEDGNILQISGERSSENEEKSDRWHRVERS-SGKFMRRFKLPENAKVDEVKASMENGVLSVTVPKM---
+-AERKPEVKSIDISG*
+>P1;gi|2738511|gb|AAC01560.1| heat shock protein 16.5 [Agrostis stol... [ score 183 E 9e-46 ] [ range 2 .. 150 ]
+sequence
+SIVRWSNVFDPFSDLWADPFDAFRSILPAASGNH-DTAAFVNARMDWKETPEAHVFKADLPGVKKEEVKV
+EVEGGNVLVVSGERKGEG-GQERQVATLERS-SGKFVRRFRLPENAKVEEVKAGLENGVLTVTVPKA---
+-EVKKPEVKAIEISG*
+>P1;gi|7441303|pir||T05739 probable heat shock protein 17 - barley >... [ score 181 E 2e-45 ] [ range 2 .. 151 ]
+sequence
+SIVRRSNVLDPFADLWADPLDTFRSIFPAISGGNSET-AVRERRMDWKRRLEAHVFKADLPGVKKEEVKV
+EVEDGNVLIVSGERTKEKEDKNDKWHRVERR-SGKFVRPFRLPEDGKVDEVKAGLENGVLTVTVPKA---
+-EVKKPEVKAIEISG*
+>P1;gi|11276924|pir||T46833 heat-shock protein, low molecular weight... [ score 181 E 2e-45 ] [ range 11 .. 159 ]
+sequence
+---RRSNIFDPFSLNIWDPFEGFPGTVANIPTSTRETAAFSSARIDWKETPESHVFKVDLPGIKKEEVKV
+EVEEGRVLQISGERSREQEEKNDKWHSMERS-SGKFLRRFRLPENIKMEEIKATMENGVLTVTVPKM---
+-EEKKPEVKAIDISG*
+>P1;gi|18073562|emb|CAC84406.1| 17.6 kDa heat-shock protein [Heliant... [ score 181 E 2e-45 ] [ range 11 .. 155 ]
+sequence
+---RRSSVFDPFSLDVWDPFRDFP--ISSSSDVSRETSALVNARVDWKETPEAHVFKADLPGIKKEEVKV
+EVEDGNILQITGERNVEKEDKNDKWHRVERS-SGKFTRRFRLPENAKMDQVKAAMENGVLTITVPKE---
+-EVKKPDVKSIEISG*
+>P1;gi|18073561|emb|CAC84405.1| 20.5 kDa heat-shock protein [Heliant... [ score 181 E 2e-45 ] [ range 11 .. 154 ]
+sequence
+---RRSSIFDPFSLYVWDPFRDFP--ISTSSEVSRETSALVNARVDWKETPEAHVFKADLPGIKKEEVKV
+EVEDGNILQITGERNVEKEDKNDKWHRVERS-SGKFTRRFRLPENAKMDQVKAAMENGVLTITVPKE---
+-EAKKPDVKSIEIS-*
+>P1;gi|123554|sp|P27879|HS11_MEDSA 18.1 kDa class I heat shock prote... [ score 179 E 6e-45 ] [ range 1 .. 142 ]
+sequence
+---------DPFSLDVWDPFKDFPFTNSALSASSQENSAFVSTRIDWKETPEAHVFKADLPGLKKEEVKV
+EIEDDRVLQISGERNVEKEDKNDQWHRVERS-SGKFMRRFRLPENAKMDQVKAAMENGVLTVTVPKE---
+-EIKKPEVKSIEIS-*
+>P1;gi|81639|pir||JQ0351 heat shock protein 17 - Arabidopsis thalian... [ score 179 E 1e-44 ] [ range 11 .. 156 ]
+sequence
+---RRTNVFDPFSLDVWDPFEGF--LTPGLTNAPADVAAFTNAKVDWRETPEAHVFKADVPGLKKEEVKV
+EVEDGNILQISGERSSENEEKSDTWHRVERS-SGKFMRRFRLPENAKVEEVKASMENGVLSVTVPKV---
+-QESKPEVKSIDISG*
+>P1;gi|7441324|pir||T09611 heat shock protein, low molecular weight ... [ score 179 E 1e-44 ] [ range 11 .. 165 ]
+sequence
+---QRSNVFDPFSLDIWDPFQGFPFSTGALSDTARETSQLANTRIDWKETPEAHVFRADLPGVTKEEVKV
+EVEEGRVLQISGERSRESEEKNDKWHRVERS-SGKFLRRFRLPENTKMDEVKATMENGVLTVCVPKV---
+-EQRRPEVKSIEISG*
+>P1;gi|8250119|emb|CAB93512.1| HSP17.7-a protein [Brassica oleracea] [ score 177 E 4e-44 ] [ range 11 .. 157 ]
+sequence
+---RRTNVFDPFSLDLYDPFEGFLTPSGMTNTTSKDVAAFTNAKVDWRETAEAHVFKADLPGLKKEEVKV
+EVEDGNILKISGERSSENEEKSDKWHRVERS-SGKFMRRFKLPENAKVDEVKASMENGVLSVTVPKM---
+-PERKPEVKSMDISG*
+>P1;gi|15222395|ref|NP_172220.1| 17.8 kDa class I heat shock protein... [ score 177 E 5e-44 ] [ range 12 .. 157 ]
+sequence
+---RRSNIFDPFSLDVWDPFKELQFP----SSLSGETSAITNARVDWKETAEAHVFKADLPGMKKEEVKV
+EIEDDSVLKISGERHVEKEEKQDTWHRVERS-SGQFSRKFKLPENVKMDQVKASMENGVLTVTVPKV---
+-EEAKKKVKSIDISG*
+>P1;gi|25809052|gb|AAN74634.1| heat shock protein [Pisum sativum] [ score 176 E 7e-44 ] [ range 11 .. 158 ]
+sequence
+---RRSNVYDPFSLDVWDPLKDFPFPSSALSASFRENSAFVSTRVDWKETPEAHVFKADLPGLKKEEVKV
+EVEDDRVLQISGERSVEKEDKNDEWHRVERS-SGKFLRRFRLPENAKMGQVKASMENGVLTVTVPKE---
+-EIKKPDVKSIEISG*
+>P1;gi|7441294|pir||S71567 small heat-shock protein class I, 18.6K -... [ score 175 E 2e-43 ] [ range 11 .. 163 ]
+sequence
+---RRTNCFDPFSLDVWDPFEGFPFNNNNFGRSSSETSSFVNANVDWRETNDAHVFKADVPGLKKEEVKV
+EVEDDRVLQISGERNKESEEKGDTWHRVERS-SGKFVRRFRLPENAKVDQVKAAMENGVLTVTVPKV---
+-EVKKPDVKSIQISG*
+>P1;gi|3582434|dbj|BAA33062.1| low-molecular-weight heat shock prote... [ score 175 E 2e-43 ] [ range 11 .. 157 ]
+sequence
+---RRSNAFDPFSLELWDPFFSNTVANLSGSSSAREASAFANARIDWKETPEAHIFKADVPGLKKEEVKV
+EVEEGKVLQISGERSKEKEEKNDTWHRVERS-SGKFLRSFRLPENAKVDQVKAAMENGVLTVTVPKV---
+-EEKKAEVKSIQISG*
+>P1;gi|4836473|gb|AAD30454.1| 17.6 kD class I small heat shock prote... [ score 174 E 2e-43 ] [ range 12 .. 154 ]
+sequence
+---RSSSMFDPFSI---DVFDPFRELGFPGTNSG-ESSAFANTRIDWKETPEAHVFKADLPGLKKEEVKV
+EVEEDRVLQISGERNVEKEDKNDKWHRVERS-SGKFMRRFRLPENAKMDQVKASMENGVLTVTVPKE---
+-EVKKPEVKSIEISG*
+>P1;gi|4836469|gb|AAD30452.1| 17.7 kD class I small heat shock prote... [ score 174 E 3e-43 ] [ range 12 .. 154 ]
+sequence
+---RSSSMFDPFSI---DVFDPFRELGFPSTNSG-ESSAFANTRIDWKETPEAHVFKVDLPGLKKEEVKV
+EVEEDRVLQISGERNVEKEDKNDKWHRMERS-SGKFMRRFRLPENAKMDQVKASMENGVLTVTVPKE---
+-EVKKPEVKSIEISG*
+>P1;gi|15227552|ref|NP_180511.1| 17.6 kDa class I small heat shock p... [ score 174 E 3e-43 ] [ range 12 .. 153 ]
+sequence
+---RRSNIFDPFSLDVWDPFKELTS-----SSLSRENSAIVNARVDWRETPEAHVFKADLPGLKKEEVKV
+EIEEDSVLKISGERHVEKEDKNDTWHRVERS-SGQFTRRFRLPENVKMDQVKAAMENGVLTVTVPKA---
+-ETKKADVKSIQISG*
+>P1;gi|1213073|emb|CAA53286.1| heat shock protein 17.8 [Oryza sativa] [ score 174 E 4e-43 ] [ range 2 .. 160 ]
+sequence
+SLIRRSNVFDPFSLDLWDPFDGFPTIFPSFPGTSSETAAFAGARIDWKETPE-HVFKADVPGLKKEEVKV
+EVEDGNVSRSAGEASKEQEEKTDKWHRVEAS-SGKFLRRFRLPENTKPEQIKASMENGVLTVTVPKE---
+-EPKKPDVKSIQVTG*
+>P1;gi|3341464|emb|CAA12387.1| Hsp20.1 protein [Lycopersicon peruvia... [ score 174 E 4e-43 ] [ range 12 .. 154 ]
+sequence
+---RSSSMFDPFSI---DVFDPFRELGFPGTN-SRETSAFANTRIDWKETPEAHVFKADLPGLKKEEVKV
+EIEEDRVLQISGERNVEKEDKNDTWHRVERS-SGKFMRRFRLPENAKMDQVKASMENGVLTVTVPKE---
+-EVKKPDVKSIEISG*
+>P1;gi|123555|sp|P19243|HS11_PEA 18.1 kDa class I heat shock protein... [ score 173 E 6e-43 ] [ range 11 .. 158 ]
+sequence
+---RRSNVFDPFSLDVWDPLKDFPSNSSPSASFPRENPAFVSTRVDWKETPEAHVFKADLPGLKKEEVKV
+EVEDDRVLQISGERSVEKEDKNDEWHRVERS-SGKFLRRFRLPENAKMDKVKASMENGVLTVTVPKE---
+-EIKKAEVKSIEISG*
+>P1;gi|8250122|emb|CAB93514.1| HSP17.x protein [Brassica oleracea] [ score 171 E 2e-42 ] [ range 1 .. 128 ]
+sequence
+-----------------DPFEGL-----LTPSSARDMAAFTNARVDWKETPEAHVFKADLPGLMKEEVKV
+EVEDKNILQISGERSKENEEKNDKWHRLERA-SGKFMRRFKLPENAKMEEVKATMENGVLTVTVPKA---
+-PEKKPEVKSIDISG*
+>P1;gi|3336892|emb|CAA12389.1| Hsp20.0 protein [Lycopersicon peruvia... [ score 171 E 2e-42 ] [ range 12 .. 154 ]
+sequence
+---RSTSVFDPFSI---DVFDPFKELGFTVSNSG-ETSAFANTRIDWKETPEAHVFKADLPGLKKEEVKV
+EVEEDRVLQISGERNVEKEDKNDTWHRVERS-SGKFMRRFRLPENAKMDQVKASMENGVLTVTVPKE---
+-EVNNPDVKSIEISG*
+>P1;gi|3334765|emb|CAA12388.1| Hsp19.9 protein [Lycopersicon peruvia... [ score 171 E 3e-42 ] [ range 12 .. 154 ]
+sequence
+---RSSSMFDPFSI---DVFDPFRELGFPGTNSG-ETSAFANTRIDWKETPEAHVFKADLPGLKLEEVKV
+EVEEDRVLQISGERNMEKEDKNDKWQRVERS-SGKFMRRFRLPENAKMDQVKASMENGVLTVTVPKE---
+-EMKKPDVKSIEISG*
+>P1;gi|34895642|ref|NP_909170.1| putative 16.9 kDa heat shock protei... [ score 170 E 4e-42 ] [ range 2 .. 150 ]
+sequence
+SLVRSGNVLDPMSDFWADPFGAVRSL-------AERCPVLTNVRVDWKETPTAHVFTADLPGVRKDQAKV
+EVEDGGVLVISGERAREEDKNDERWHHVERS-SGKFQRRFRLPRGARVDQVSASMDNGVLTVTVPKE---
+-ETKKPQLKAIPISG*
+>P1;gi|21592809|gb|AAM64758.1| heat shock protein, putative [Arabido... [ score 169 E 7e-42 ] [ range 12 .. 155 ]
+sequence
+---RRNNIFDPFSLDVWDPFKELQFPSPS-------SSAIANARVDWKETAEAHVFKADLPGMKKEEVKV
+EIEDDSVLKISGERHVEKEEKQDTWHRVERS-SGGFSRKFRLPENVKMDQVKASMENGVLTVTVPKV---
+-EKKKAQVKSIDISG*
+>P1;gi|4185748|gb|AAD09178.1| cytosolic I small heat shock protein H... [ score 168 E 1e-41 ] [ range 9 .. 153 ]
+sequence
+---RGSSILDPFGSVW-DPFSVLEN--GPSRRFASDAHAVANTRIDWRETPEAHVFKADLPGLKKEEVKV
+QVVEGRTLEISGERKKEEVQKGDTWHRVERA-QGSFMRRFRLPEGTNVDEVKAQVQDGVLTVTIPKL---
+-QKPKPQVRQIEIA-*
+>P1;gi|7441323|pir||T03958 heat shock protein 18p - common tobacco >... [ score 167 E 5e-41 ] [ range 11 .. 159 ]
+sequence
+---RRSNIFDPFSLDIFDPFEGFPGTVANVPSSARETSAFANARIDWKETPDSHIFKMDVPGIKKEEVKV
+EVEEGRVLQISGERSREQEEKNDTWHRMERS-SGKFMRRFRLPGNAKMEEIKAAMENGVLTVTVPKE---
+-EEKKSEVKAIDISG*
+>P1;gi|232272|sp|P30693|HS11_HELAN 17.6 kDa class I heat shock prote... [ score 166 E 7e-41 ] [ range 12 .. 153 ]
+sequence
+----RSNIFDPFSLDTWDPFQGIISTEPA-----RETAAIVNARIDWKETPEAHVLKADLPGMKKEEVKV
+EVEDGRVLQISGERCREQEEKDDTWHRVERS-SGKFIRRFRLPENAKMDEVKAMMENGVLTVVVPKE---
+-EEKKPMVKAIDISG*
+>P1;gi|462322|sp|Q05832|HS11_CHERU 18.3 kDa class I heat shock prote... [ score 166 E 1e-40 ] [ range 13 .. 160 ]
+sequence
+---RRSNIFDPFSDEIWDPFFGLPSTLSTVPRSAAETAAFANARIDWKETPEAHVFKADLPGVKKEEVKV
+EVEDGNVLRISGQRAREKEEKNDTWHRVERS-SGQFMRKFRLPENAKVDQVKAGMENGVLTVTVPKN---
+-EAPKPQVKAINV--*
+>P1;gi|4185754|gb|AAD09181.1| cytosolic I small heat shock protein H... [ score 164 E 4e-40 ] [ range 9 .. 153 ]
+sequence
+---RGNSVFDPFGSVW-DPFTVLES--GPSRQLASDVQAVASTRIDWRETPEAHIFKADLPGLTKEEVKV
+QVLEGRTLEICGERKKEEVQKSDTWHRMERA-QGSFMRRFRLPEGTNTDDVKAQVQDGVLTVTVPKV---
+-QKPKPQVRQIEIA-*
+>P1;gi|21068486|emb|CAC81964.1| small heat-shock protein [Pseudotsug... [ score 163 E 7e-40 ] [ range 11 .. 161 ]
+sequence
+---RSSSAFDPFSLDVWDPFRAFTDLAAGGPSGVNEASAVANTQIDWKETPEAHIFKADLPGLKKEEVKI
+ELEEGRILQISGERSKEEEQKNDKWHRIERS-HGKFLRRFRLPDNAKVEEIKAAMENGVLTVTVKEP---
+-EPQPPQPKSIEISG*
+>P1;gi|123552|sp|P27397|HS12_DAUCA 18.0 kDa class I heat shock prote... [ score 162 E 8e-40 ] [ range 11 .. 159 ]
+sequence
+---RRSNVLNPFSLDIWDPFQDYPLITSSGSEFGKETAAFANTHIDWKETPQAHVFKADLPGLKKEEVKV
+EVEEGKVLQISGERNKEKEEKNNKWHRVEFS-SGKFLRRFRLPENANVDEVKAGMENGVLTVTVPKV---
+-EMKKPEVKSIHISG*
+>P1;gi|7441295|pir||S71768 low molecular weight heat shock protein, ... [ score 161 E 3e-39 ] [ range 11 .. 161 ]
+sequence
+---RSSSAFDPFSLDVWDPFRAFTDLSGGGPSGVNEASAVANTQIDWKETPEAHIFKADLPGLKKEEVKI
+ELEEGRILQISGERSKEEEQKNDKWHRIERS-RGKFLRRFRLPDNAKVEEIKAAMENGVLTVTVKQP---
+-EPQPPQPKSIEISG*
+>P1;gi|7441296|pir||S71769 low molecular weight heat-shock protein, ... [ score 160 E 4e-39 ] [ range 11 .. 161 ]
+sequence
+---RSSSAFDPFSLDVWDPFRAFTDLAAGGPSGVNEASAIANTQIDWKETPEAHIFKADLPGLKKEEVKI
+ELEEGRILQISGERSKEEEQKNNKWHRIERS-RGKFLRRFRLPDNAKVEEIKAAMENGVLTVTVKQP---
+-EPQPPQPKSIEISG*
+>P1;gi|21068488|emb|CAC81965.1| small heat-shock protein [Funaria hy... [ score 157 E 3e-38 ] [ range 13 .. 146 ]
+sequence
+---------------FFDPFDLSLLESGPSRQFARDAHAVANTQIDWRETPEAHIFKADLPGLKKEEVKV
+QLVDGKTLEISGERRKEEVHKDDTWHRVERA-HGSFLRRFRLPDNSNVEAVEAQVQDGVLTVTIPKI---
+-QKPKPQVRQIEIA-*
+>P1;gi|6969974|gb|AAF34133.1| low molecular weight heat shock protei... [ score 156 E 7e-38 ] [ range 8 .. 160 ]
+sequence
+---RRSSVFDPFSLNLWDPFKDFPFPSSSSLSFSRENSAFVNTRVDWKETPEAHVFKADVPGLKKEEVKV
+EVEDDRVLKISGERNVEEEDKNDKWYRVERS-SGKFLRRFQLPENAKVDQIKAAMENGVLSVTVPKA---
+-ELKNVDVRAIEISG*
+>P1;gi|4185756|gb|AAD09182.1| cytosolic I small heat shock protein H... [ score 156 E 8e-38 ] [ range 7 .. 148 ]
+sequence
+---RRNNIWN-----MPDPMDIMMNFFEDTPARSRDAHALASTNVDWKETPTEHVIKADLPGLKKEEVHV
+QVEGDRTLSISGQRKHEEVQKTDTWHRVERS-SGQFMRKFRLPENANLEQISAQVQDGVLTVKIPKL---
+-EKQKPHSRTIEI--*
+>P1;gi|477111|pir||A48113 heat shock protein HSP22.7 - garden pea [ score 151 E 2e-36 ] [ range 41 .. 181 ]
+sequence
+-----------LSDLWSDRFDPFRVLIPYGVEKHEPSITLSHARVDWKETPEGHVIMVDVPGLKKDDIKI
+EVEENRVLRVSGERKKEEDKKGDHWHRVERS-YGKFWRQFKLPQNVDLDSVKAKMENGVLTLTLHKL---
+-KIKGPRMVSI----*
+>P1;gi|4838149|gb|AAD30865.1| seed maturation protein PM31 [Glycine ... [ score 151 E 3e-36 ] [ range 13 .. 152 ]
+sequence
+------------SRDWCDPSSPFTDLWDPRRVGDADTSSLAHAHVDWRETDKAHIFRADLPGVKKEDLKV
+QVEENKILQISGERVKEKEDQNDKWHRVERQ-CGSFLRRFRLPEDANPNQISCTLENGVLNVTVPKV---
+-EKKPKNVRQIDV--*
+>P1;gi|15234985|ref|NP_192763.1| 22.0 kDa ER small heat shock protei... [ score 150 E 4e-36 ] [ range 38 .. 177 ]
+sequence
+-----------LSDLWLDRFDPFKILERIPLGLERDTSALSPARVDWKETAEGHEIMLDIPGLKKDEVKI
+EVEENGVLRVSGERKREEEKKGDQWHRVERS-YGKFWRQFKLPDNVDMESVKAKLENGVLTINLTKL---
+-SPEKPRVVNI----*
+>P1;gi|4185758|gb|AAD09183.1| cytosolic I small heat shock protein H... [ score 149 E 1e-35 ] [ range 13 .. 146 ]
+sequence
+---------------FFDPFDLSLLESGPSRQFARDAHAVPNTQIDWRETPEAQSSKADLPGLKKEEVKV
+QLVDGKTLEISGERRKEEVHKDDTWHRVERA-HGSFLRRFRLPDNSNVEAVEAQVQDGVLTVTIPKI---
+-QKPKPQVRQIEIA-*
+>P1;gi|7441299|pir||T07031 low molecular weight heat shock protein h... [ score 148 E 2e-35 ] [ range 44 .. 183 ]
+sequence
+------------ANTFLDPFKVLEQIPFGLENREETTLPLSIARVDWKETAEGHVISIDVPGLKKDDIKI
+EIEENRVLRVSGERKKEEEDEQNHWHCVERS-YGKFWRQFRLPENADIDTMKAKLENGVLTISFAKL---
+-SADRPKVVSIE---*
+>P1;gi|232282|sp|P30236|HS41_SOYBN 22.0 kDa class IV heat shock prot... [ score 147 E 5e-35 ] [ range 38 .. 173 ]
+sequence
+------------SDRFPDPFRVLEHIPFGVDKDEASM-AMSPARVDWKETPEGHVIMLDVPGLKREEIKV
+EVEENRVLRVSGERKKEEEKKGDHWHRVERS-YGKFWRQFRLPQNVDLDSVKAKLENGVLTLTLDKL---
+-KIKGPRVVSI----*
+>P1;gi|4185760|gb|AAD09184.1| cytosolic II small heat shock protein ... [ score 142 E 1e-33 ] [ range 4 .. 143 ]
+sequence
+----------PLFQILSFPDELEKSLNPQSQKYVRDTKAMVSTAVDVKELPDAYIFVADMPGLKSADVKV
+QLENDNVLVIGGTRKREEPDPKVKYIRMERN-SGSFMRKFTLPQNSNLDKIAASCVNGILTVTVPKI---
+-PPPEPKPRTIEVT-*
+>P1;gi|38344541|emb|CAD40969.2| OSJNBa0027P08.9 [Oryza sativa (japon... [ score 140 E 4e-33 ] [ range 52 .. 190 ]
+sequence
+----------------ADPFRILEHVPFGFDRD--DVAMLSMARVDWRETGDAHEVVVDVPGMRKEDLRV
+EVEDNRVLRISGERRREEKGGGDHWHREERS-YGRFWRQLRLPDNADLDSIAASLDNGVLTVRFRKL---
+-QIKGPRVVGIASAG*
+>P1;gi|15643142|ref|NP_228185.1| heat shock protein, class I [Thermo... [ score 138 E 2e-32 ] [ range 5 .. 145 ]
+sequence
+---RREDIFRPFRELQREIDRLFDDFFRTE---VRPAKEFFAPDMDVYETDDEVVIEVEIPGIDRKDVKI
+TVEE-NILKISGEKKLEREQKGKNYYYVERS-AGKFERAIRLPDYVDVEKIKAEYKNGVLTIRVPKK---
+-EERKKKVIEVEV--*
+>P1;gi|45522312|ref|ZP_00173827.1| hypothetical protein Mflag011001 ... [ score 135 E 2e-31 ] [ range 54 .. 189 ]
+sequence
+--------------LFDDAFRGFGFPTLAMPRWPSEWPGLLKPALDIQETDKQYKISLEVPGVEEKDIQI
+TL-DNDVLLVRGEKRQEQESKDGGFHRVERS-YGSFQRALNLPADANQDTIKAAFKNGVLTITMEKR---
+-EASTPKGRSIPING*
+>P1;gi|14009833|gb|AAK51797.1| small heat shock protein HSP17.8 [Tri... [ score 134 E 2e-31 ] [ range 46 .. 162 ]
+sequence
+----------------------------------RDARAMAATPADVKELPGAYAFVVDMPGLGSGDIKV
+QVEDERVLVISGERRRE-EKEDAKYLRMERR-MGKMMRKFVLPENADMEKISAVCRDGVLTVSLEKL---
+-ETKKPKTIQVQVA-*
+>P1;gi|11276926|pir||T46658 small heat shock protein [validated] - T... [ score 134 E 3e-31 ] [ range 5 .. 140 ]
+sequence
+---RREDIFRPFRELQREIDRLFDDFFR--------TEVRPAPDMDVFETDDEVVIEVEIPGIDRKDVQI
+TVEE-NILKISGEKKLEREQKGKNYYYVERS-AGKFERAIRLPDYVDVEKIKAEYKNGVLTIRVPKK---
+-EERKKKVIEVEV--*
+>P1;gi|20808928|ref|NP_624099.1| Molecular chaperone (small heat sho... [ score 134 E 4e-31 ] [ range 2 .. 144 ]
+sequence
+SLMRRG------RDWWDWPFDINIRNLPSIFNFPSLSGLFSRPRVDIVESETEIVATAELPGVDKKDIEI
+NVYD-NILEIKGQTSVDEEKEDKNYYIRERY-YGSFARRIELPAEVDPERTTAKFENGILKITMPKL---
+-HPSKPKKRRIDI--*
+>P1;gi|23473481|ref|ZP_00128777.1| COG0071: Molecular chaperone (sma... [ score 134 E 5e-31 ] [ range 67 .. 202 ]
+sequence
+--------------LFDDAFRGFGFPALAMPRWPSDWPGLLKPALDIQETDKLYKISLEVPGVEEKDIQI
+TL-DNDVLLVRGEKRQEQETKDGGFHRVERS-YGSFQRALNLPADANQDTIKAAFKNGVLTITMEKR---
+-EAAPKQGRSIPING*
+>P1;gi|2129835|pir||S65051 low molecular weight heat shock protein p... [ score 133 E 5e-31 ] [ range 37 .. 180 ]
+sequence
+-----------LADLWSDPFRVLEQIPFGVDKDETFTALSSHARVDWKETPEGHVIMLDVPGLKRDEIKI
+EVEGNRVLRVSGERKREEEKEGDHWHRVERS-YGKSWRQFKVPDNVDLDSVKAKMENGVLTLTMNKL---
+-SPDKVKPRLVSIAG*
+>P1;gi|27379748|ref|NP_771277.1| blr4637 [Bradyrhizobium japonicum] ... [ score 132 E 1e-30 ] [ range 36 .. 170 ]
+sequence
+-------IFDDFGNFWNRPFRSLARLERDFS------KSISAPAVDVAESDKAYEITAELPGLDEKNIDI
+KVANGG-LTIKGEKREETEEKNKDYYVSERR-YGTFERYFTLPESVNADKIEATFKNGVLKVVLPKT---
+-EEAQKPAKTINV--*
+>P1;gi|27380332|ref|NP_771861.1| small heat shock protein [Bradyrhiz... [ score 131 E 2e-30 ] [ range 19 .. 162 ]
+sequence
+---RRTEVDNPFLSLHREMNRLFDDVFRGVDGQFAPPATMGWPSVEFNETDKEVKVIAELPGIEQKDVEV
+ELADG-VLTISGEKKSETKDKERRF--SERY-YGRFERRIPV-DDVDQDKVAASFKDGILTVTLPKS---
+-PTEQRKVKRIAING*
+>P1;gi|629873|pir||JC2207 Lim11 protein - trumpet lily >gi|431172|db... [ score 131 E 3e-30 ] [ range 90 .. 203 ]
+sequence
+-----------------------------------DAGAMASTAADVKDLPAAYVFVVDMPGVGSGDLKV
+KVEGDNVLLISGERKREEE---GVYLCIERR-VGKLTKMFVLPENANTEAVSAVCKDGVLTVTVEKR---
+-EPKKPKVIEVKVA-*
+>P1;gi|15408720|dbj|BAB64123.1| P0443D08.1 [Oryza sativa (japonica c... [ score 131 E 3e-30 ] [ range 6 .. 139 ]
+sequence
+-------LFDTLAFDAWNPFSIFGTTVAADAWLASDTSAFANTYIESRETAEAYVFRADLPGVKKEEVRV
+EVDEGNVLVITGERSVRREEKGQRSHHIERS-CATFFGRFHLPDDAVVDLVRASMDGGMLTVTVPKV---
+-VTDK----------*
+>P1;gi|22970128|ref|ZP_00017273.1| hypothetical protein [Chloroflexu... [ score 129 E 9e-30 ] [ range 7 .. 142 ]
+sequence
+--------WDPFRELLDDTF--FTGFTGVLPRNGSLVPA-----LDLSETADAYHIEMAVPGMTADQLNI
+TFEN-NVLTISGEITQSSDRKERQYHVTERR-FGRFSRSIRLPNQIHPDRIEARLENGVLTVTVPKA---
+-EEIKPRKIAVNVA-*
+>P1;gi|22998229|ref|ZP_00042346.1| COG0071: Molecular chaperone (sma... [ score 129 E 1e-29 ] [ range 8 .. 144 ]
+sequence
+-----------------DPFRNVRTLQNEINRLFDHNWEEPNMRVDIREDENQIMIKADLPGMTQQDISV
+DVDNGT-LTISGERKFDDEQNRDGYHRIERA-YGRFSRSFQLPNTTDTGNIAAKYQNGVLEVTLPKL---
+-DEAKPRSIQVEV--*
+>P1;gi|37933812|gb|AAP73794.1| 17.7 kDa heat shock protein [Carica p... [ score 127 E 3e-29 ] [ range 30 .. 138 ]
+sequence
+------------------------SFNAPTRTYVRDAKAMAATPADAKEYPNSYVFVIDMPGLKSGDIKV
+QVEDDNVLQISGERKREEEKDGVKYLRMERR-IGKFMRKFSLPDNANTDAISAVCQDGVLTVTV------
+---------------*
+>P1;gi|7488921|pir||T14303 heat shock protein (clone Gea41) - carrot... [ score 127 E 3e-29 ] [ range 36 .. 153 ]
+sequence
+-------------------------------GRTERSHGTCNMRIDWKETPDD-VFKADMPALKKEEVKV
+EVEEGRVLQISGERSREQEEKNDKYHRVERS-SGKFLRRFRLPENVKMEEVKACMENGVLTVTVRKW---
+-RRRSRNVKAIDISG*
+>P1;gi|2129834|pir||S65050 low molecular weight heat shock protein p... [ score 127 E 4e-29 ] [ range 43 .. 181 ]
+sequence
+---------DPFGILEQNPFNNIPNI-----RGGAETLALA--RADWKETPSAHVIVLDLPGMKKKDVKI
+EVEESRVLRISEEEEEEEEVEGEKWHRAERT-NGKFMRQFRLPVNADLEKVTARLENGVLRITVGKG---
+-EDKKRQPKVIDIA-*
+>P1;gi|7768313|emb|CAB90682.1| heat shock protein 17a.1 [Quercus sub... [ score 127 E 5e-29 ] [ range 3 .. 110 ]
+sequence
+-------------DIW-DPFEGF-SAVASVPPSARETTAFATARIDWKETPEAHIFKADLPGLKKEEVKV
+EVEDGNVLQISGERSKEHEEKNDKWHRVERS-CGKFMRRFRLPENAKVDQVKAN----------------
+---------------*
+>P1;gi|123580|sp|P05477|HS21_SOYBN 17.9 kDa class II heat shock prot... [ score 127 E 5e-29 ] [ range 42 .. 140 ]
+sequence
+----------------------------------RDAKAMAATPADVKEYPNSYVFEIDMPGLKSGDIKV
+QVEDDNLLLICGERKRDEEKEGAKYLRMERR-VGKLMRKFVLPENANTDAISAVCQDGVLSVTV------
+---------------*
+>P1;gi|7441326|pir||T09256 heat shock protein 17.1 - white spruce >g... [ score 127 E 6e-29 ] [ range 18 .. 132 ]
+sequence
+--------------------DDLERILHAPTRSMRDTEATASTPVDVKEYPNSYVFIVDMPGLKSNDIKV
+QVEDENILNISGERKREKEEGEVKYIRMERR-VGKFMRKFSLPADCNLEAISAACQDGVLTVTV------
+---------------*
+>P1;gi|1170365|sp|P46516|HS21_HELAN 17.9 kDa class II heat shock pro... [ score 126 E 6e-29 ] [ range 43 .. 141 ]
+sequence
+----------------------------------RDARAMAATPADVKECPNSYVFIVDMPGLKSGDIKV
+QVERDNVLVISGKRNREEEKEGVKYVRMERR-MGKFMKKFALPEDANTDKISAICQDGVLTVTV------
+---------------*
+>P1;gi|7441327|pir||T09253 heat shock protein 17.0 - white spruce >g... [ score 126 E 8e-29 ] [ range 17 .. 133 ]
+sequence
+------------------PDDLEKLLNAPTHSYMRDTKAMASTPVDVKEYPNSYVFIIDMPGLKSNDIKV
+QVEDENVLNISGERKRNEKDEEGKYIRMERR-VGKFMRKFTLPADCNLEAISAACQDGVLTVTV------
+---------------*
+>P1;gi|21673476|ref|NP_661541.1| heat shock protein, Hsp20 family [C... [ score 126 E 9e-29 ] [ range 8 .. 132 ]
+sequence
+-----------------DPMRLFDDI-----WSGSQMAVAPSFKVDISEDENAYHLDAELPGIAKEQIAL
+NIED-DVLTIKAERTHKEEEKKKNYHRVERT-YGSFSRSFNIGEIIDQEHIGATYDNGVLHVTLPKT---
+-QPAK-KTKEIPIN-*
+>P1;gi|27383072|ref|NP_774601.1| blr7961 [Bradyrhizobium japonicum] ... [ score 126 E 9e-29 ] [ range 36 .. 172 ]
+sequence
+-------LFEDFDDFWRRPFRSLAGFERNLAQKLVSTPA-----VDVTESDKAYEITAELPGMDEKDIEV
+NVANDG-LTIKGEKKFEREEKQKDYYVSERR-YGSFERHFGLPKDVEADKIEASFRNGVLKVTLPKT---
+-AEAQKPAKKIEV--*
+>P1;gi|44293566|gb|EAI25635.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 14 .. 145 ]
+sequence
+-------------------FDEMDNMVSSVFGSDWNFPAKHAPAVDVKETDDLFLITADIPGLTKKDVKV
+NITDGK-MTISGDAQVGADEENSRYHYRERR-YGSFKRTFNLPESVNEEKISASFKNGILEVELPKH---
+-ENVLPKERVIKVN-*
+>P1;gi|43354051|gb|EAD41884.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 6 .. 143 ]
+sequence
+--------WNPNRSLISD-FDRIFDNMFNIDIPIRSKGNSYYPAVDIEETEKKFILSADMPGLKKKEVTI
+DIHDG-IITIKGERMNEDKSSFDGYSMHERQ-FGSFNRSFRLPDNVNEDKIAAKFDNGELLITLPKT---
+-KEIKPEGRQIKI--*
+>P1;gi|42524139|ref|NP_969519.1| probable HspC2 heat shock protein [... [ score 125 E 1e-28 ] [ range 17 .. 146 ]
+sequence
+----------------SDLFSQFQDFINEFDRGESSALTRASPSVDVEEKDNAYLVSADLPGMKKDEIKV
+ELND-NILTISGERTRESKSEGG---YSERS-YGRFQRSFTLPVQVNSEKIEAHFEDGVLQITVPKA---
+-EGARSHSIKI----*
+>P1;gi|39995645|ref|NP_951596.1| heat shock protein, Hsp20 family [G... [ score 125 E 2e-28 ] [ range 6 .. 147 ]
+sequence
+--------YSPFRDMM-NMQEQMNRLLDSKQGGEELREGAWQPPVDIFEDENAVIIKAELPGIDQKDIEV
+RIED-NTLTIRGERKHEEEVRKENYHRVERY-YGSFQRSFSIPATIDQEKVRASSDKGVLTITLPKR---
+-EEVKPKQITVEVT-*
+>P1;gi|21674781|ref|NP_662846.1| heat shock protein, Hsp20 family [C... [ score 125 E 2e-28 ] [ range 9 .. 142 ]
+sequence
+---------DPLK-MFEDVFN--ERLTPFISSMGSMMA--PAFKVDISEDEKAIYLSADIPGVKKEDVKV
+SIED-DVISISAERTQEEEEKKKNYHRVERS-WGSLSRSFTIGDNVDSDNITANYDNGVLKVVIPKK---
+-EPEQKKSKEIAVS-*
+>P1;gi|548963|sp|Q06823|SP21_STIAU SPORE PROTEIN SP21 >gi|625656|pir... [ score 124 E 2e-28 ] [ range 12 .. 160 ]
+sequence
+STPQRTREWDPFQQMQELMWDPFELANHPWFANRQGPPAFV-PAFEVRETKEAYIFKADLPGVDEKDIEV
+TLT-GDRVSVSGKREREKREESERFYAYERT-FGSFSRAFTLPEGVDGDNVRADLKNGVLTLTLPKR---
+-PEVQPKRIQVASSG*
+>P1;gi|44246207|gb|EAH93092.1| unknown [environmental sequence] [ score 124 E 4e-28 ] [ range 6 .. 144 ]
+sequence
+--------WNPNRSLISD-FDRIFDNMFNIDIPIHPKENSYYPAVDIEETEKEFILSADMPGLKKKEVTI
+DIHDG-IITIKGERMNEDKSSFNGYRMHERQ-FGSFNRSFRLPDNVNEDKIAAKFDNGELLITLPKT---
+-KEIKPEGRQIKIS-*
+>P1;gi|8918494|dbj|BAA97658.1| small heat shock protein [Lycopersico... [ score 123 E 6e-28 ] [ range 44 .. 176 ]
+sequence
+------------ANTFLDPFKVLEQIPFGLENTL-------LARVDWKETAKGHVISVEVPGLNKDDIKI
+EIEENRVLRVSGKKEEEKNDEENHWHCVERS-HGKFWRQFRLPENADIDTMKAKLENGVLTISFAKL---
+-SADRPKVVSIE---*
+>P1;gi|4321188|gb|AAD15628.1| low molecular weight heat-shock protei... [ score 123 E 7e-28 ] [ range 28 .. 150 ]
+sequence
+--FRENHLQDPFSDL---PFSTLSTLFPHSPFGSS-----VNTRLDWRETPRAHVLKASLPGFVDEDVLV
+ELQDDRVLQVSVE-------------------SGKFVSRFKVPDDAMLDQLKASMHNGVLTVTIPKA---
+-EASRPTVRTIEISG*
+>P1;gi|232278|sp|P30222|HS2C_PETHY Small heat shock protein, chlorop... [ score 123 E 7e-28 ] [ range 100 .. 240 ]
+sequence
+-------LLDPMS-----PMRTMRQMMDTMDRLFEDTMTFPRAPWDIKDDENEIKMRFDMPGLSKEEVKV
+SVED-DVLVIKGEHKKEESGKDDSW---GRN-YSSYDTRLSLPDNVDKDKVKAELKNGVLLISIPKT---
+-KVEK-KVTDVEI--*
+>P1;gi|5257560|gb|AAD41409.1| cytosolic class II low molecular weigh... [ score 123 E 8e-28 ] [ range 12 .. 153 ]
+sequence
+-------LFSTLQHIMDFTDEPDKSFNAPTRTYVRDAKAMASTPADVKEYPNSYVFVVDMPGLKSGDIKV
+QVEDDNVLLITGERKREEEKEGAKYVRMERR-VGKFMRKFVLPENANVEAISAVCQDGVLTVTVEKL---
+-PPPEPKKKTIEV--*
+>P1;gi|23004715|ref|ZP_00047905.1| COG0071: Molecular chaperone (sma... [ score 123 E 8e-28 ] [ range 20 .. 167 ]
+sequence
+--VLRDGDRDPFLSLFDDVFRGFGSNLPSLVGASAFSGGWPN--VEISDGEKEIKVTAEVPGLEEKDIEV
+LLDDG-VLTLKGEKRSETEDKDRQF--SERF-YGRFERRIPLGYEVKDDKVDARFRNGVLTVTLPKS---
+-EKAQSQVKRIAI--*
+>P1;gi|44244464|gb|EAH91797.1| unknown [environmental sequence] [ score 122 E 9e-28 ] [ range 14 .. 144 ]
+sequence
+-------------------FDNMDRMVQTIFDNDFYPATAGQPAVDIRENDASFILTADIPGLTKSDIDL
+LIDD-NTLKISGKREYNNTDDNVEYHYQERT-HGSFQRSFKLPISVDEENISATFKSGILTVVLPKT---
+-EEAQPKQRTIKI--*
+>P1;gi|123560|sp|P12811|HS2C_CHLRE CHLOROPLAST HEAT SHOCK 22 KD PROT... [ score 122 E 1e-27 ] [ range 14 .. 156 ]
+sequence
+---------DPF---FTEMDRAVNRMINNALGVAPTSAGKAHAPMDIIESPTAFELHADAPGMGPDDVKV
+ELQEG-VLMVTGERKHTTKEAGGKVWRSERT-AYSFSRAFSLPENANPDGITAAMDKGVLVVTVPKR---
+-EPAKPEPKRIAVTG*
+>P1;gi|3639075|gb|AAC36312.1| cytosolic class II small heat shock pr... [ score 122 E 1e-27 ] [ range 38 .. 152 ]
+sequence
+----------------------------------RDAKAMAATPVDVKEYPDSYVFVVDMPGLKSGDIKV
+QVEEDNVLLISGERKREEEKEGVKFIRMERR-VGKFMRKFSLPENANTDAISAVCQDGSLTVTVQKL---
+-PPPEPKKKTIQV--*
+>P1;gi|13472177|ref|NP_103744.1| small heat shock protein [Mesorhizo... [ score 122 E 1e-27 ] [ range 21 .. 167 ]
+sequence
+----RGDDMDPFLSLHRNVNRLFDEVFRGFDTGRMAPLNGTWPGVEFSETDEEIRLTAEIPGLDENDVEV
+MLDDG-VLTLRGEKKAETEDKDRQF--SERY-YGRFERRFGLGREVEDDKVAATFKNGVLTVTLPKT---
+-KRAQANAKRIAING*
+>P1;gi|2495334|sp|Q95661|HS2C_LYCES Small heat shock protein, chloro... [ score 122 E 1e-27 ] [ range 92 .. 235 ]
+sequence
+-------VLDPMS-----PMRTMRQMIDTMDRLFEDTMTFPRTPWDIHDDENEIKMRFDMPGLSKEDVKV
+SVEN-DMLVIKGEHKKEEDGRDK--HSWGRN-YSSYDTRLSLPDNVVKDKIKAELKNGVLFISIPKT---
+-EVEK-KVIDVQIN-*
+>P1;gi|23056387|ref|ZP_00082416.1| COG0071: Molecular chaperone (sma... [ score 122 E 1e-27 ] [ range 8 .. 146 ]
+sequence
+------------------PFGDLRNLQEQMNRGEELREGVWQPPVDIFEDENGVVIKAELPGIDQKDIEV
+KIED-NTLTIRGERKHDQEVKKENYHRVERY-YGSFMRSFSLPTTIDRDTVKAVCDKGILTITLPRR---
+-EETKPKQINVEV--*
+>P1;gi|23005757|ref|ZP_00048416.1| COG0071: Molecular chaperone (sma... [ score 121 E 2e-27 ] [ range 10 .. 137 ]
+sequence
+----------------SDPFALMRSMMRDLDRGFWPPARAAFPAVNVWQGPEAVGVTAELPGIEPGDIEI
+SVKD-NVLTLSGERKAPEVLDGARWHRNERS-FGRFSRTIRLPFAASDDKVEARMTNGVLRIVISRP---
+-EEEKPKKIE-----*
+>P1;gi|22997469|ref|ZP_00041699.1| COG0071: Molecular chaperone (sma... [ score 121 E 3e-27 ] [ range 54 .. 178 ]
+sequence
+-------------------FDRFFEHNGDTDESAVVTAQWV-PRVDIKEEPNQFVLYADLPGIDPADIEV
+QMDKG-ILSIKGERKTESSSQTEHFSRIERR-YGSFHRRFALPDSADADGITASGSHGVLRILIPKQ---
+-AATTPRRIQV----*
+>P1;gi|32401095|gb|AAP80744.1| class I heat shock protein [Kandelia ... [ score 121 E 3e-27 ] [ range 1 .. 133 ]
+sequence
+-----------------DPLDGFFSVANVPFNSANEAAAFANARFDWKETPEAHVFKADLPGLKKEEVKV
+EVEEGRILQISGERRKEQEEKNDKWHRLERS-SGKFLRRFRLPENAKMYQVKASMENGVLTITVPKE---
+-EEKKPEVEAIEI--*
+>P1;gi|23129193|ref|ZP_00111026.1| COG0071: Molecular chaperone (sma... [ score 120 E 4e-27 ] [ range 21 .. 166 ]
+sequence
+--FRDTESWEPFRELQRQMNRLFDRLMPTTNGGERSGFIFS-PAAELEETDDAIRLRLEVPGLEAKDINV
+EATPESI-SITGERKTETKSEENGITRSEFR-YGKFQRVIPLPSQIQNDKVQAEYKNGILQLTLPKA---
+-ESEKHKAVKVN---*
+>P1;gi|23021133|ref|ZP_00060819.1| COG0071: Molecular chaperone (sma... [ score 120 E 5e-27 ] [ range 4 .. 144 ]
+sequence
+-----------MSLISWNPFREVDSISRDMETFFERSPRATAPRVDVFETEKDVVVKAEIPGVSKEDLNV
+YV-DENSIRLSGETKRDTEYKNEHIYRTERY-YGSFSRTIPLPVEVKSEQAKAEYKDGILTVTVPKV---
+-ETTQMKGKKIDI--*
+>P1;gi|22984808|ref|ZP_00029944.1| COG0071: Molecular chaperone (sma... [ score 120 E 6e-27 ] [ range 47 .. 184 ]
+sequence
+----------------SDPWRVMRELLHDPFAGGAFSSSWFQPRIDVVDDGDVLRITAELPGMDRGDLQT
+SIEEG-VLVLRGEKKQDTRSEENGCYRLERS-YGAFTRTIPLPDGVDVDKVDAKFDKGVLTVRLPKT---
+-DSARPTIRKVEI--*
+>P1;gi|7441305|pir||T07417 heat shock protein 20, chromoplast-associ... [ score 119 E 7e-27 ] [ range 92 .. 234 ]
+sequence
+-------VLDPMS-----PMRTMRQMIDTMDRLFEDTMIPGRTPWDIHDDENEIKMRFDMPGLSKEDVKV
+SVEN-DMLVIKGEHKKEEDGRDK--HSWGRN-YSSYDTRLSLPDNVVKDKIKAELKNGVLFISIPKT---
+-EVEK-KVIDVQIN-*
+>P1;gi|7441307|pir||T02018 heat shock protein 26a, chloroplast - com... [ score 119 E 7e-27 ] [ range 98 .. 240 ]
+sequence
+-------LLDPMS-----PMRTMRQMMDTMDRLLEDTMTFPRAPWDIKDDENEIKMRFDMPGLSKDEVKV
+SVED-DLLVIKGEYKKEETGDDNSW---GRN-YSSYDTRLSLPDNVEKDKIKAELKNGVLFISIPKT---
+-KVEK-KVIDVQIN-*
+>P1;gi|15239846|ref|NP_196763.1| 17.6 kDa  class II heat shock prote... [ score 119 E 8e-27 ] [ range 37 .. 136 ]
+sequence
+----------------------------------RDAKAMAATPADVIEHPNAYAFVVDMPGIKGDEIKV
+QVENDNVLVVSGERQREKENEGVKYVRMERR-MGKFMRKFQLPENADLDKISAVCHDGVLKVTV------
+---------------*
+>P1;gi|13472078|ref|NP_103645.1| small heat shock protein HspC [Meso... [ score 119 E 9e-27 ] [ range 21 .. 168 ]
+sequence
+----REGDRDPFSRLVDDMFRGFESRLPSMGRFS--LAGTGWPSVEISETDKDIRVTAEIPGMEEKDIEV
+LLDDG-VLTLRGEKHSETDDKERQF--SERF-YGRFERRIPIGFEVAEDKVAADFRNGVLSVSLPKS---
+-EKAQSKAKRIPIGG*
+>P1;gi|23106254|ref|ZP_00092708.1| COG0071: Molecular chaperone (sma... [ score 119 E 9e-27 ] [ range 94 .. 230 ]
+sequence
+--------FDRISPFWPMGRSAFGSLMEPFGRAGREMASM--PAVDIVDQDKAILISAELPGMDEQNIEL
+KVCNGN-LMLKGEKREEREENSQGLYLSERS-YGAFQRSFALPDSVDADNIEAHFDKGVLTITLPKR---
+-PEAQQSERAIEI--*
+>P1;gi|29654474|ref|NP_820166.1| heat shock protein, Hsp20 family [C... [ score 119 E 1e-26 ] [ range 13 .. 148 ]
+sequence
+-----------LSHLQQDINRLFEPFGWATGGELWDAFSSEWPHIDIKDEGQNYLICADIPGVDPKKIQV
+SMEN-NILTIKGERETEAKEKSEGYLRIERT-KGAFLRQFTLPESVDAESIKAKSKHGVLEITIPKA---
+-QPPRTKKIEIE---*
+>P1;gi|27380345|ref|NP_771874.1| small heat shock protein [Bradyrhiz... [ score 119 E 1e-26 ] [ range 20 .. 163 ]
+sequence
+----RGADVNPFLTLHREMNRMFDEVFRGFDGSSRGLSGLGWPQIDIDETDKEVRITAELPGLEEKDVSL
+EIANG-VLSISGEKKSESEDKARRF--SERY-YGRFERRIPL-EGIDEDKVSAAFKNGVLTITVPKS---
+-AEAKN-VRRIAIN-*
+>P1;gi|21241905|ref|NP_641487.1| low molecular weight heat shock pro... [ score 119 E 1e-26 ] [ range 22 .. 146 ]
+sequence
+-------------------FDRFFEQNGDTDESAVVTAQWV-PRVDIKEEVNHFVLYADLPGIDPSQIEV
+QMDKG-ILSIRGERKSESSTETERFSRIERR-YGSFHRRFALPDSADADGITAAGRNGVLEIRIPKR---
+-PAATPRRIQV----*
+>P1;gi|43676706|gb|EAE93439.1| unknown [environmental sequence] [ score 119 E 2e-26 ] [ range 22 .. 127 ]
+sequence
+------------------------------------------PEIDIKESDNLFTIKADIPGLTKKDIKI
+SVK-GDQLTISGERKKIIDNENDHYHYRERS-VGKFNRSFNLPESINKDKIHASFKNGILSIELEKH---
+-EEIVPKEMEISIS-*
+>P1;gi|15838825|ref|NP_299513.1| low molecular weight heat shock pro... [ score 118 E 2e-26 ] [ range 23 .. 147 ]
+sequence
+-------------------FDRFFEHNGDTDESAVVTAQWV-PRVDIKEEPNQFVLYADLPGIDPADIEV
+QMDKG-ILSIKGERKTESSSQTEHFSRIERR-YGSFHRRFALPDSADADGITASGSHGVLSIFIPKR---
+-AATTPRRIQV----*
+>P1;gi|32476351|ref|NP_869345.1| heat shock protein, HSP20 family [P... [ score 118 E 2e-26 ] [ range 19 .. 151 ]
+sequence
+--------WNELSQLSREMDRLFSR------GGSSPTSVVTFPALNVWEDEGTVYVEAELPGFNSEQLEI
+YV-DANQLTLKGERSA-PEMEGGTWHRQERG-FGSFHRTMELPADVDADQVSAEFQHGILKITLPKS---
+-ETAKPRRIEVRSN-*
+>P1;gi|42526539|ref|NP_971637.1| Hsp20/alpha crystallin family prote... [ score 118 E 2e-26 ] [ range 2 .. 144 ]
+sequence
+------NSLSLFSPSFTDVFDALDRSLGPNFGVFAPNASCGMPSVDIRETEKAYVMEVDLPGYSEKDVEI
+SLKD-RLMTISSSKKEEKEDKGAEYIIKERS-SRHFMRRFTLPEDINSDEVSAKFENGVLVVNIPRK---
+-PDTQPKQIEIK---*
+>P1;gi|15558864|emb|CAC69548.1| heat shock protein 17d [Quercus suber] [ score 118 E 2e-26 ] [ range 3 .. 109 ]
+sequence
+-------------DVW-DPFEGFAQL-SSHSNFPSETSSFAAAKVDWKETPNAHVFKADVPGLKKEEVKV
+EIEEGRVLQISGERSQEQEEKSDTWHRVERS-SGRFSRRFRLPENAKVEEVKA-----------------
+---------------*
+>P1;gi|25987069|gb|AAN74534.1| chloroplast low molecular weight heat... [ score 117 E 3e-26 ] [ range 90 .. 234 ]
+sequence
+---------DPMS-----PMRTMRQMLDTMDRLFDDTVGFPTTRWDIMEDDKEVKMRFDMPGLSRDEVKV
+MVEDDT-LVIRGEHKKEAGEGQGDGWWKERS-VSSYDMRLSLPDECDKSQVRAELKNGVLLVTVPKT---
+-ETER-KVIDVQV--*
+>P1;gi|6601538|gb|AAF19022.1| chloroplast-localized small heat shock... [ score 117 E 3e-26 ] [ range 95 .. 241 ]
+sequence
+-----------FFDVW-DPFKSLRQMLNTVDRLFDDPFFSAAPPWDVKEDNESFRLRFDMPGLGKDEVKV
+YVEDGDLVIKGAHRAEEQKENNW----SSRS-YGSYNTRMTLPENVKIDEVKAELKNGVLQVVVPKS---
+-KEE-PKKNVIDIN-*
+>P1;gi|42522487|ref|NP_967867.1| small heat shock protein [Bdellovib... [ score 117 E 4e-26 ] [ range 9 .. 152 ]
+sequence
+---RERSLANPFREFGRRIDRLLNELMELRSGTLGEDMSL-MPSSELVEEEKNYLLKVDLPGIKKEDVKV
+EVE-GDRLTIRAERRSEKEEKSKKRYFSEIS-YGSCMRSFALPQSIDEKKVDAKFENGVLSVTIPKT---
+-TESKSKQISV----*
+>P1;gi|45505830|ref|ZP_00158197.1| hypothetical protein Avar507501 [... [ score 117 E 4e-26 ] [ range 41 .. 145 ]
+sequence
+------------------------------------------PAAEIHETAEAIHLKLELPGIDAKDVDL
+QVTDKAVY-ISGERKSETKTEDKGVVKSEFQ-YGKFQRVIPLPTRIQNTNVKAEYKDGILNLTLPKA---
+-EAEKNKVVKVNI--*
+>P1;gi|232275|sp|Q01544|HS21_PHANI 17.2 kDa class II heat shock prot... [ score 117 E 4e-26 ] [ range 38 .. 154 ]
+sequence
+-----------------------------------DAKAMAATPADVKEYPNSYVFIIDMPGLKSGDIKV
+QVDGDNVLSISGRKREAEEKEGAKYVRMERR-VGKLMRKFVLPENANKEKITAVCQDGVLTVTVPPP---
+-EPKKPRTIEVKI--*
+>P1;gi|232276|sp|Q01545|HS22_PHANI 18.8 kDa class II heat shock prot... [ score 117 E 5e-26 ] [ range 43 .. 148 ]
+sequence
+-----------------------------IRAYVRDAKAMAATPADVKEYPNSYVFIADMPGVKAAEIKV
+QVEDDNVLVVSGERTEREKDEKDKYLRMERR-VGKFMRKFVLPENANVEAINAVYQDGVLQVTV------
+---------------*
+>P1;gi|17227782|ref|NP_484330.1| small heat shock protein [Nostoc sp... [ score 117 E 5e-26 ] [ range 41 .. 145 ]
+sequence
+------------------------------------------PAAELHETAEVIYLKLELPGIDAKDVDL
+QVTDKAVY-ISGERKSETKTEDKGVFKSEFQ-YGKFQRVIPLPARIQNTNVTAEYKDGILNLTLPKA---
+-EVEKNKVVKINI--*
+>P1;gi|2738887|gb|AAC01570.1| low molecular weight heat shock protei... [ score 117 E 5e-26 ] [ range 114 .. 232 ]
+sequence
+------------------------SPRQPFSGDGERAPRM---PWDIMEDDKEVKMRFDMPGLSRDEVKV
+MVEDDT-LVIRGEHKKEGEGQGDGWWK-ERS-VSSYDMRLSLPDECDKSQVRAELKNGVLLVTVPKT---
+-ETER-KVIDVQV--*
+>P1;gi|16264546|ref|NP_437338.1| putative small heat shock protein, ... [ score 117 E 6e-26 ] [ range 21 .. 167 ]
+sequence
+----RDNDRNPFLALHREMDDAFRSFETRLPISGFSGFAGGWPSVEVSDRDKEIKVTAELPGLDEKVVEL
+SLSDG-VLSLRGEKRAETEDQENQF--SERY-YGRFERRIALGYEVDESKVNATFRNGVLTVTLPKT---
+-EQAQSKAKRIAING*
+>P1;gi|43456314|gb|EAD82824.1| unknown [environmental sequence] [ score 117 E 6e-26 ] [ range 15 .. 146 ]
+sequence
+--------------------DDFDKMIDSIFNPVWNIPKLNAPDVDIKETDKDFVLTANIPGFTKNDIKI
+NVGE-KLLTISGDKQEEVNESENYYHFRERS-TGAFHRSFKLPNTVNEDKIKATFKDGVLMIEMEKH---
+-KEILPKEKEIKIN-*
+>P1;gi|30250014|ref|NP_842084.1| Heat shock hsp20 (alpha crystallin)... [ score 116 E 8e-26 ] [ range 17 .. 141 ]
+sequence
+--------------------RELERARDDMATEGASAIAEWAPAVDIKEESDKFIVHADLPGVKPEAIDV
+TTENG-VLTIKGEKQTEARTEKEGYKRVERT-HGSFYRRFSLPDTADLGAISAVTKDGVLVVTIPKR---
+-EAVQPKKVSV----*
+>P1;gi|6601536|gb|AAF19021.1| chloroplast-localized small heat shock... [ score 116 E 9e-26 ] [ range 86 .. 237 ]
+sequence
+----RRDLTSSLFDIW-DPFIGDRSLKQMLPFFGSPPSATARTPWDVKEDADAYKLRFDMPGLSKEEVKV
+SVEDGD-LVIRGEHNAEDQ-KEDSW--SSRS-YGSYNTRMALPEDALFEDIKAELKNGVLYVVVPKS---
+-KKAQKKVLDINV--*
+>P1;gi|41053044|dbj|BAD07974.1| putative heat shock protein 16.9 [Or... [ score 116 E 1e-25 ] [ range 33 .. 170 ]
+sequence
+------DIMEPFMDAISLTAFAAAPSAAAAAAGVPSTAS-----MDWKETAAAHVFMADMPGVRREEVRV
+EVEEEKVLRISGQRARAAEEKGERWHRVERS-SERFVRTVRLPPNANTDGVHAALDNGVLTITIPKD---
+-NDRKPHARIIPIT-*
+>P1;gi|2129610|pir||S71248 heat shock protein 17.7 - Arabidopsis tha... [ score 116 E 1e-25 ] [ range 9 .. 146 ]
+sequence
+----------PIFSILEDMLEAPEEQTEKTRNNPSDAKAMAATPADVIEHPDAYVFAVDMPGIKGDEIQV
+QIENENVLVVSGKRQRDKENEGVKFVRMERR-MGKFMRKFQLPDNADLEKISPACNGGVLEVTNPKL---
+-PPPEPR--------*
+>P1;gi|7441328|pir||T07602 heat shock protein 17.6 - tomato >gi|1773... [ score 115 E 1e-25 ] [ range 27 .. 139 ]
+sequence
+--------------------DSDKSVNAPSRNYVRDAKAMAATPADVKEYPNSYVFVVDMPGLKSGDIKV
+QVEEDNVLLISGERKREEEKEGAKFIRMERR-VGKFMRKFSLPENANTDAISAVCQDGVLTVTV------
+---------------*
+>P1;gi|21230505|ref|NP_636422.1| low molecular weight heat shock pro... [ score 115 E 1e-25 ] [ range 22 .. 144 ]
+sequence
+----------------------FDRFFEQSGDTDESAVVTAQPRVDIKEEANQFVLYADLPGIDPSQIEV
+QMDKG-ILSIKGERKSESSSETERFSRIERR-YGSFHRRFALPDSADADGITADGRNGVLEIRIPKR---
+-PAATPRRI------*
+>P1;gi|123553|sp|P24632|HS22_MAIZE 17.8 kDa class II heat shock prot... [ score 115 E 1e-25 ] [ range 47 .. 145 ]
+sequence
+----------------------------------RDARAMAATPADVKELPGAYAFVVDMPGLGTGDIRV
+QVEDERVLVVSGERRREEREDDAKYLRMERR-MGKFMRKFVLPDNADVDKVAAVCRDGVLTVTV------
+---------------*
+>P1;gi|25987073|gb|AAN74536.1| chloroplast low molecular weight heat... [ score 115 E 2e-25 ] [ range 90 .. 241 ]
+sequence
+---------DPMS-----PMRTMRQMLDTMDRLFDDTVGFPTTRWDIMEDDKEVKMRFDMPGLSRDEVKV
+MVEDDT-LVIRGEHKKEAEGQGDGWWK-ERS-VSSYDMRLTLPDECDKSQVRAELKNGVLLVTVPKT---
+-ETER-KVIDVQV--*
+>P1;gi|23123620|ref|ZP_00105694.1| COG0071: Molecular chaperone (sma... [ score 115 E 2e-25 ] [ range 6 .. 144 ]
+sequence
+----------------WEPFREVESLQRQLNRLFDEIAPTGRPSAEIQETPDAVHLKVEIPGVDPKDLDV
+QVSPEAV-SISGERKSEIKTEERGITRTEFR-YGRFQRVIPLPSRVQHDKVEAEYKDGILKLRLPKA---
+-EEDRNKVVKVN---*
+>P1;gi|15240308|ref|NP_198583.1| 15.7 kDa class I-related small heat... [ score 115 E 2e-25 ] [ range 6 .. 134 ]
+sequence
+--------------IFLYPFRRFQEWSRS------------TALIDWMESNNSHIFKINVPGYNKEDIKV
+QIEEGNVLSIRGEGIKEEKKENLVWHVAERE-ASEFLRRIELPENVKVDQVKAYVENGVLTVVVPKD---
+-TSSKSKVRNVNIT-*
+>P1;gi|22298416|ref|NP_681663.1| 16.6 kDa small heat shock protein m... [ score 114 E 3e-25 ] [ range 2 .. 145 ]
+sequence
+ALVR----WEPFREIQRQMNRLFDELIPLTERRSDLSFLPAA---ELEETPEALLLKVELPGMDPKDIDV
+QVT-AEAVSISGERKSETKTETEGMKRTEFR-YGKFQRVIPLPVRIQNTSVKAEYKDGILHLTLPKA---
+-EEEKNRVVKVSLA-*
+>P1;gi|15239849|ref|NP_196764.1| 17.7 kDa class II heat shock protei... [ score 114 E 3e-25 ] [ range 9 .. 137 ]
+sequence
+----------PIFSILEDMLEAPEEQTEKTRNNPSDAKAMAATPADVIEHPDAYVFAVDMPGIKGDEIQV
+QIENENVLVVSGKRQRDKENEGVKFVRMERR-MGKFMRKFQLPDNADLEKISAACNDGVLKVTI------
+---------------*
+>P1;gi|100790|pir||S16525 heat shock protein 17.3 - wheat >gi|21807|... [ score 114 E 3e-25 ] [ range 42 .. 138 ]
+sequence
+----------------------------------RDARAMAATPADVKELPGAYAFVVDMPGLGSGDIKV
+QVEDERVLVISGERRRE-EKEDAKYLRMERR-MGKLMRKFVLPENADMEKISP-CRDGVLTVTV------
+---------------*
+>P1;gi|17229301|ref|NP_485849.1| heat shock protein, class I [Nostoc... [ score 114 E 3e-25 ] [ range 6 .. 154 ]
+sequence
+--------WEPFREIEREPFREMDTLQRQINRDGAEKVGFAFPAAELEEKDDAIHLKLEVPGLEATDIHV
+EATPESI-SITGERKSETKTEENGITRSEFR-YGKFQRVIPLPSLIQNDKVQAEYKNGILRLTVPKA---
+-ESERNKVVKVNI--*
+>P1;gi|10956519|ref|NP_049441.1| stress response homolog Hsp [Bacill... [ score 114 E 3e-25 ] [ range 6 .. 143 ]
+sequence
+--------YDPFRQL-SNMRREFDRFFSELPISFDNEHGIGGIRVDVHETENEVVATCDLPGLKKEDVDI
+DIQN-NRLSISGSIKRTNEIKEENMLKKERY-TGRFQRMITLPSPVSHDGVKATYKNGILEITMPK----
+--VAKDVKKKIDVS-*
+>P1;gi|39935960|ref|NP_948236.1| possible small heat shock protein [... [ score 114 E 3e-25 ] [ range 23 .. 162 ]
+sequence
+---------DPFLSLHREMNRLFDDVFRGFDAGTLAPFSTGWPKLEITDGDKELKIAAAVPGLEEKDIEV
+LLDDGT-LTIRGEKTSSTEAKDKQF--SEHF-YGKFERRIPLDVAVAADQVSASFKNGVLTVTLPKA---
+-EPSPSTAKRIEI--*
+>P1;gi|44633691|gb|EAK62889.1| unknown [environmental sequence] [ score 114 E 4e-25 ] [ range 46 .. 149 ]
+sequence
+------------------------------------------PAVDIKEEKNCFLIVADVPGINPKDIEI
+TMENG-VLTVKGERHLDAEDSDENYKRVERM-NGTFYRRFSLPDTADGERIEAKGSNGVLEITIPKH---
+-EKVLPRRIEVK---*
+>P1;gi|23127648|ref|ZP_00109513.1| COG0071: Molecular chaperone (sma... [ score 114 E 4e-25 ] [ range 11 .. 143 ]
+sequence
+-------------------FNTLESYINGLLGDTRVPSSVKVPAAELQETDDAIYLKLELPGLEAKDLDI
+QVTEDAV-HISGERKSETQIQNNGTTKSEFY-YGKFQRVIPLSARVQNTNVTADYKNGILNLTLPKS---
+-EREKNKVVKVN---*
+>P1;gi|29827000|ref|NP_821634.1| putative heat shock protein [Strept... [ score 114 E 4e-25 ] [ range 6 .. 144 ]
+sequence
+-----------------DPFRELDRLTQQLLNTTGTWSRPSAMPMDAYREGEEYVIAFDLPGVSADAIDI
+DVE-RNMLTVKAERRPVTKADDAQMELSERP-LGAFSRQLVLADTLDTEHIKADYDAGVLTLRIPIA---
+-ERAKPRKIAIEISG*
+>P1;gi|45506822|ref|ZP_00159172.1| hypothetical protein Avar411501 [... [ score 114 E 5e-25 ] [ range 6 .. 154 ]
+sequence
+--------WEPFREIEREPFREIDTLQRQINRNGGEKVGFAFPAAELEEKDDAIHLKLEVPGLEANDIHV
+EATPESI-SITGERKSETKMEENGITRSEFR-YGKFQRVIPLPSLIQNDKVQAEYKNGILRLTVPKA---
+-ESERNKVVKVNI--*
+>P1;gi|2326354|emb|CAA67022.1| LMW heat shock protein [Arabidopsis t... [ score 113 E 6e-25 ] [ range 56 .. 210 ]
+sequence
+SVPRRRGDF--FSDVF-DPFSPTRSVSPLLSATRGMGASGARRGWDIKEKDDALYLRIDMPGLSREDVKL
+ALEQDT-LVLRGEGKNEE----DGGEQGESG-NRRFTSRIGLPDKIKIDEIKAEMKNGVLKVVIPKK---
+-EQERNDVRQIEIN-*
+>P1;gi|15234240|ref|NP_194497.1| 25.3 kDa small heat shock protein, ... [ score 113 E 6e-25 ] [ range 85 .. 226 ]
+sequence
+-------LLDPLSQMLDTMDRMFEDTMPSGRNRGGSGVSEIRAPWDIKEEEHEIKMRFDMPGLSKEDVKI
+SVED-NVLVIKGEQKKEDSDDSW----SGRS-VSSYGTRLQLPDNCEKDKIKAELKNGVLFITIPKT---
+-KVER-KVIDVQI--*
+>P1;gi|123549|sp|P24631|HS21_MAIZE 17.5 kDa class II heat shock prot... [ score 113 E 8e-25 ] [ range 45 .. 142 ]
+sequence
+----------------------------------ADARAMAVTPADVKELPGAYAFVVDMPGLGTGDIKV
+QVEDERVLVISG-ERRREEREDAKYLRMERR-MGKFMRKFVLPDNADMDKISAVCRDGVLTVTV------
+---------------*
+>P1;gi|15558862|emb|CAC69547.1| heat shock protein 17c [Quercus suber] [ score 113 E 8e-25 ] [ range 3 .. 104 ]
+sequence
+-------------DIW-DPFDG-------LFTSVRETSSFSNVRIDWKETPEAHVFKADLPGLKKEEVKV
+EVEEGRVLQISGERSKEQEEKNEKWHRVERS-SGKFLRRFRLPQNAKIDEVKAS----------------
+---------------*
+>P1;gi|6319546|ref|NP_009628.1| heat shock protein 26; Hsp26p [Sacch... [ score 113 E 8e-25 ] [ range 62 .. 207 ]
+sequence
+-------LYDPRDETLDDWFDNDLSLFPSGFGFPRSVA----VPVDILDHDNNYELKVVVPGVKKKDIDI
+EYHNKNQILVSGEIPSTNEESKDKVKVKESS-SGKFKRVITLPDGVDADNIKADYANGVLTLTVPKL---
+-KPQKNHVKKIEVS-*
+>P1;gi|44419355|gb|EAJ13889.1| unknown [environmental sequence] [ score 112 E 9e-25 ] [ range 51 .. 186 ]
+sequence
+--------WRAMEEFLHDPFAGNGTLER---WFGDFSSSRFQPRIDVVDEGPVLRVTAELPGMEREDLKV
+SVEDG-AIVLRGEKRQDVRSEENGCYRLERA-HGSFVRTIPMPENADPDHTLAKFDNGVLTLTVPKS---
+-EPARSASRTIEI--*
+>P1;gi|23017567|ref|ZP_00057292.1| COG0071: Molecular chaperone (sma... [ score 112 E 1e-24 ] [ range 51 .. 183 ]
+sequence
+--------FPEFEELY----DRMGRLLESAFGEPIISPTTWTPFADLLEDDKSYIVEAEVPGMSKDDINI
+QVS-GNELIISG-KVEEQEKEGVRAHRRMRR-YGEFEYRTVLPGEIDAEGVRAKLDNGVLTVTAPKS---
+-AHERPRHVAIE---*
+>P1;gi|45526077|ref|ZP_00177290.1| hypothetical protein Cwat272901 [... [ score 112 E 1e-24 ] [ range 9 .. 144 ]
+sequence
+---------------WTEMNALQRQINQLFDDGVLTTSAIFAPSAELSETDEAVMLKLELPGVKAEDVDI
+QATKE-AIYITGERKKETKSEENGVTRSEFR-YGKFSRFIGLPALIDNTKISAEYKDGILNLTLPKA---
+-EEEKHKVVKI----*
+>P1;gi|4028567|gb|AAC96314.1| heat shock protein HSP26 [Triticum aes... [ score 112 E 1e-24 ] [ range 90 .. 237 ]
+sequence
+---------DPMSPMMRQMLDTMDRLFPTARRSPAAASEMPRMPWDIMEDDKEVKMRFDMPGLSRKEVKV
+MVE-GDALVIRGEHKKEQVEGGDGWWK-ERS-VSSYDMRLALPDECDKSQVRAELKNGVLLVSVPKR---
+-ETER-KVIDVQV--*
+>P1;gi|123563|sp|P09887|HS2C_SOYBN Chloroplast small heat shock prot... [ score 112 E 1e-24 ] [ range 27 .. 180 ]
+sequence
+--PRRTAMISPFGILWS-PMRSMRQILDTMDRVFEDTMTFPRAPWDIKDEEHEIRMRFDMPGLAKEDVKV
+SVED-DMLVIKGGHKSEQEHGGDDSWSS-RT-YSSYDTRLKLPDNCEKDKVKAELKNGVLYITIPKT---
+-KVER-KVIDVQV--*
+>P1;gi|34557661|ref|NP_907476.1| hypothetical protein WS1299 [Woline... [ score 112 E 1e-24 ] [ range 6 .. 142 ]
+sequence
+--------FDPLRDLKEIERRFLTPFGEGGEGGAKSNLRGFAPVVNTREEEKGYFIEVDLPGVQKEDIHI
+DVKE-NTLSITGERKLKEEVKEENYYKVESF-FGKFQRSFTLPENVDSDAITAQSKDGVLEIFIPKT---
+-APKDAKRIAI----*
+>P1;gi|25987075|gb|AAN74537.1| chloroplast low molecular weight heat... [ score 112 E 2e-24 ] [ range 77 .. 242 ]
+sequence
+--PRRTG-FDPFGLVPMSPMRTMRQMLDTMDRLFDDAVGFPTTRWDIVEDDKEVKMRFDMPGLSRDEVKV
+MVEDDT-LVIRGEHKKEAEGQGDGWWK-ERS-VSSYDMRLALPDECDKSQVRAELKNGVLLVSVPKT---
+-ETER-KVIDVQV--*
+>P1;gi|23104028|ref|ZP_00090498.1| COG0071: Molecular chaperone (sma... [ score 112 E 2e-24 ] [ range 73 .. 205 ]
+sequence
+----RKALRNPFG---HGPFDSEPQWSRELSGQG-------MPAVDIDDKGTAYEISAELPGMHERDIEV
+KLSSG-CLTIRGEKKEEYEDRKKNAYVAERY-YGSFQRSFALPPEVDAGRIEARFDKGVLTLSLPKK---
+-AEALGAEKSIPI--*
+>P1;gi|629871|pir||JC2212 hypothetical 17.2K protein, LIM12 - trumpe... [ score 112 E 2e-24 ] [ range 42 .. 153 ]
+sequence
+-----------------------------------DARAMPAAATDIKDMPGAYVFIIDMPGVESEEIKI
+DVEEGNMLVISG--ERKREEEEERYLEMQRR-MGKMMRKFKLLENANSGAISAVCKNGVLTVTVEKL---
+-PSQEPKAIEIKIA-*
+>P1;gi|7441332|pir||T09684 heat shock protein 17K - alfalfa >gi|1552... [ score 111 E 2e-24 ] [ range 42 .. 160 ]
+sequence
+----------------------------------RDAKAMAATPADVKENPNSYVFVIDMPGLKSGDIKV
+QVEDDNVLVISGERKREEEKEGGKYLRMERR-VGKFMRKFVLPENPNTDAVSPVCQDGVLTVTVQKL---
+-RPKKPRTIEVQIA-*
+>P1;gi|44258589|gb|EAI01926.1| unknown [environmental sequence] [ score 111 E 3e-24 ] [ range 10 .. 146 ]
+sequence
+------NSLRPFSIGFDDMFDQFESMLGNGSLGVQTNYPPYNIR---KAGKDKYAIEVAVAGFNKDDVEV
+EYEDNLLTVKTKDVKRTEEKEGDEVIHRGIS-QRSFARSFTIADDVKVNG--AELKDGLLTISCEKI---
+-IPEIKKKRLIEI--*
+>P1;gi|23130287|ref|ZP_00112104.1| COG0071: Molecular chaperone (sma... [ score 111 E 3e-24 ] [ range 23 .. 146 ]
+sequence
+-------------------FDEETLPSAFLERGYSRVPA-----AELKETEDAIHLKVELPGIETKDLDL
+QVTE-NAVYLSGERKSEAKSEEKGVIKSEFH-YGKFQRVIPLPTRIQNTNVKADYKDGILNLTLPKA---
+-EEEKNKVVKVNLA-*
+>P1;gi|43317918|gb|EAD24678.1| unknown [environmental sequence] [ score 111 E 3e-24 ] [ range 10 .. 146 ]
+sequence
+------NSLRPFSIGFDDMFDQFESML----GNGSLTVQSNYPPYNIKAGKDKYAIEVAVAGFNKDDVEV
+EYEDNLLTVKTKEVKRSEEKDGNEVIHRGIS-QRSFARSFTIADDVKVNG--AELKDGLLTISCEKI---
+-IPEIKKKRLIEI--*
+>P1;gi|22990362|ref|ZP_00035236.1| COG0071: Molecular chaperone (sma... [ score 111 E 3e-24 ] [ range 8 .. 137 ]
+sequence
+-----RDMFPDFNDVFSPAFNDFLGVS-------------SYPKVDLVENEKEYKLTADMPGCDKEDTTV
+EYSD-NTLTISANHESHTEDKEDGNYVRERH-SVSYKRSFYLP-NVDEEKITGTFKNGVLKLVLPKT---
+-AYQPKETKKIELN-*
+>P1;gi|4028569|gb|AAC96315.1| heat shock protein HSP26 [Triticum aes... [ score 110 E 4e-24 ] [ range 92 .. 242 ]
+sequence
+---------DPMS-----PMRTMRQMLDTMDRLFDDAVGFPTARWDIMEDDKEVKMRFDMPGLSREEVKV
+MVE-GDALVIRGEHKKEAAEGGDGWWK-ERS-VSSYDMRLALPDECDKSQVRAELKNGVLLVSVPKR---
+-ETER-KVIDVKV--*
+>P1;gi|44599070|gb|EAK38102.1| unknown [environmental sequence] [ score 110 E 4e-24 ] [ range 2 .. 128 ]
+sequence
+--------------------DPFGGRGPLGSWFGDFSASEFQPRIDVTDEGDALRIVAELPGMTRDDIEL
+EVID-DMLIVSGDKRFESTSEEQGCYRVERS-FGHFQRAVPLPAGIDLDRAEARFENGMLTLRVPKA---
+-TGEPSAKRRIEI--*
+>P1;gi|23336406|ref|ZP_00121625.1| COG0071: Molecular chaperone (sma... [ score 110 E 4e-24 ] [ range 13 .. 167 ]
+sequence
+-----------FSDLFDDPF--FEGW-RNTDNTMSAVMPANMMTTDVRETDKGYDVDIDMPGFKKEDINL
+ELNNGY-LTVSASRCSEHEDKSGKWLRRERY-MGSCSRSFYVGEDVKESDIHASYRNGTLCIQVPKM---
+-Q-AQPQVESIAIEG*
+>P1;gi|4185762|gb|AAD09185.1| cytosolic II small heat shock protein ... [ score 110 E 5e-24 ] [ range 47 .. 159 ]
+sequence
+-----------------------------------------ATPVDVKEIKDAYLFVADVPGLQKTDIEV
+QVENENVLTMRGKRKVNEKEEDTKFIRMERS-PVKLLRKFTLPSDANADAITANCVDGVLTVTVPKI---
+-PPPEPKSKTVQIA-*
+>P1;gi|123536|sp|P02520|HS12_SOYBN Class I heat shock protein >gi|71... [ score 110 E 5e-24 ] [ range 1 .. 74 ]
+sequence
+----------------------------------------------------------------------
+------ILQISGERNVEKEDKNDTWHRVERS-SGKFMRSFRLPDNAKVDQVKASMENGVLTVTVPKE---
+-EIKKPDVKAIEISG*
+>P1;gi|44583528|gb|EAK27107.1| unknown [environmental sequence] [ score 110 E 5e-24 ] [ range 10 .. 146 ]
+sequence
+------NSLRPFSIGFDDMFDQFESMLGNGSLAVQSNYPPYNIR---KAGKDKYAIEVAVAGFNKDDVEV
+EYEDNLLTVKTKEVKRSEEKDGDEVIHRGIS-QRSFARSFTIADDVKVNG--ARLKDGLLTISCEKI---
+-IPEIKKKRLIEI--*
+>P1;gi|43056931|gb|EAB94830.1| unknown [environmental sequence] [ score 110 E 7e-24 ] [ range 10 .. 146 ]
+sequence
+------NSLRPFSIGFDDMFDQFESMLGNGSLAVQSNYPPYNIR---KAGKDKYAIEVAVAGFNKDDVEV
+EYEDNLLTVKTKDIKRSEEKNGDEVIHRGIS-QRSFARSFTIADDVKVNG--AELKDGLLTISCEKI---
+-IPEIKKKRLIEI--*
+>P1;gi|23030057|ref|ZP_00068324.1| COG0071: Molecular chaperone (sma... [ score 110 E 7e-24 ] [ range 71 .. 212 ]
+sequence
+--------------LFDDVFSSFG--FPSLGARFADANLLTNPTVDVSGDKTHYHISLDVPGLSESDISI
+DVSN-DVLTIRGSKEEKAEQNEKHVYRMERR-YGSFQRTLSLPSDANTDDITAQLKDGVLNLVIAKK---
+-DVPPEDVKRIPIN-*
+>P1;gi|4996284|dbj|BAA78385.1| heat shock protein 26 [Oryza sativa] [ score 110 E 7e-24 ] [ range 75 .. 238 ]
+sequence
+--PRRSSAFDPMSQMLDTMDRMFDDVALGFPATPRRSLATGEVRMPWDEDDKEVRMRFDMPGLSREEVKV
+MVED-DALVIRGEHKKEEGEGAEGSGDKERS-VSSYDMRLALPDECDKSKVRAELKNGVLLVTVPKT---
+-EVER-KVIDVQV--*
+>P1;gi|28379699|ref|NP_786591.1| small heat shock protein [Lactobaci... [ score 109 E 8e-24 ] [ range 10 .. 147 ]
+sequence
+-----NDLFDRLND-WTKMDDLVNGFGRTFLNAGSHGSVL---KTDIKENDDQYTMKVDIPGIDKQNIAL
+KYRDGTLSIVKRDSISDESDKDGNIIASERQ-TGRFGRQYSLPD-VDVDKIEARYENGVLQLTLPKK---
+-AAADTHHIEIQ---*
+>P1;gi|17544919|ref|NP_518321.1| PUTATIVE SMALL HEAT SHOCK PROTEIN [... [ score 109 E 9e-24 ] [ range 2 .. 139 ]
+sequence
+SQLRR---YDPFAIEPAG--DIFQGLLRSFRGGMDSALPF---KVDVTESDTAYSVVAEIPGAKKEDIDV
+TVDRGTVMISAKVERQSEKKEGERVIRSERY-SGSMQRMFTLEAGVDENKVEATYESGLLRVTLPKK---
+-EVSPQQRITI----*
+>P1;gi|34906270|ref|NP_914482.1| putative heat shock protein, 18K - ... [ score 109 E 9e-24 ] [ range 87 .. 189 ]
+sequence
+----------------------------------RDARAMAATPADVKDLPGAYAFVVDMPGLKSSDIKV
+QVEEERLLVISRGGGEEEKEESCKYLRMERR-MGKFMRKFVLPDNADVDKISAVCQDGVLTVTV------
+---------------*
+>P1;gi|23017855|ref|ZP_00057577.1| COG0071: Molecular chaperone (sma... [ score 109 E 1e-23 ] [ range 81 .. 217 ]
+sequence
+--------WDPFRELHTQLHRWMDSVLERTSGLTADPLSWS-PLADLSETEDAYLVEVEVPGVSREDISI
+DLS-GTELVITGERK-EREREGWFRHRT-RS-VGRFHYAVTLPRDIDPDGVDATLSQGVLTVRIPKS---
+-KALKPRRIAI----*
+>P1;gi|43201104|gb|EAC66119.1| unknown [environmental sequence] [ score 109 E 1e-23 ] [ range 16 .. 143 ]
+sequence
+----------------------FDRMINDIFNDGWNFSALNSPAVDIVEDKDKFVLSADFPGFEKKNINL
+NVEDG-VLKLSAQ-KDDKNVSDGSFKIQERQ-ASTIQRSFTLPDTILEDKISAKYKNGMLQVSLPKI---
+-EEVKPESRSIKIN-*
+>P1;gi|22984796|ref|ZP_00029932.1| COG0071: Molecular chaperone (sma... [ score 109 E 1e-23 ] [ range 3 .. 133 ]
+sequence
+-------------DFVHDPFAARGALER---WFGDFSSSRFQPRIDVVDEGKILRVTIELPGMEREDLSV
+SVEDG-ALVLRGEKKQDVHSEEDGCYRLERA-YGVFTRTIPMPDNADPDHALAKFDKGVLTLTVPKR---
+-EQLRSASRTIDI--*
+>P1;gi|729762|sp|Q08275|HS23_MAIZE 17.0 kDa class II heat shock prot... [ score 109 E 1e-23 ] [ range 38 .. 135 ]
+sequence
+----------------------------------RDARAMAATPADVKELAGAYAFVVDMPGLSTGDIRV
+QVEDERVLVISG-ERRREEREDAKYLRMERR-MGKFMRKFVLPDNADVDKVAAVCRDGVLTVTV------
+---------------*
+>P1;gi|44504489|gb|EAJ72502.1| unknown [environmental sequence] [ score 109 E 1e-23 ] [ range 16 .. 143 ]
+sequence
+----------------------FDRMINDIFNDGWNFSALNSPAVDIVEDKDKFVLSADFPGFEKKNINL
+NVEDG-VLKLSAQ-KDDKNVSDGSFKIQERQ-ASAIQRSFTLPDTILEDKISAKYKNGTLQVSLPKA---
+-EEVKPESRSIKIN-*
+>P1;gi|44055266|gb|EAG88117.1| unknown [environmental sequence] [ score 109 E 1e-23 ] [ range 25 .. 161 ]
+sequence
+------NSLRPFSIGFDDMFDQFESMLGGNGVAVQSNYPPYNIR---KAGKDKYAIEVALAGFNKDDVEV
+EYEDNLLTVKTKQVKSTEKKDGDEIIHRGIS-QRSFARSFTISDDVKVGD--AELKDGLLTISCEKI---
+-VPEAKKKRLIEI--*
+>P1;gi|42872340|gb|EAB03426.1| unknown [environmental sequence] [ score 109 E 1e-23 ] [ range 10 .. 146 ]
+sequence
+------NSLRPFSIGFDDMFDQFESMLGNGSLGVQTNYPPYNIR---KAGKDNFLIEIAIAGFNKDDVEV
+EYEDNLLTVKTKDVKRTEEKEGDEVIHRGIS-QRSFARSFTIADDVKVNG--AELKDGLLTISCEKI---
+-IPEMKKKRLIEI--*
+>P1;gi|44502211|gb|EAJ70973.1| unknown [environmental sequence] [ score 109 E 1e-23 ] [ range 25 .. 161 ]
+sequence
+------NSLRPFSIGFDDMFDQFESML----GNGSLAVQGNYPPYNIKAGKDKYAIEVAVAGFNKNDVEV
+EYEDNLLTVKTKQVKSTEKKDGEEIIHRGIS-QRSFARSFTIADDVKVGD--AELKDGLLTISCEKI---
+-VPEAKKKRLIEI--*

@@ -1,0 +1,189 @@
+>P1;1wjda
+structureN:1wjd:   1 :A:  55 :A:HIV-1 integrase, N-terminal Zn binding domain:Human Immunodeficiency Virus type 1: -1: -1
+FLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLKGEAMHGQVD*
+>P1;1e0ea
+structureN:1e0e:   1 :A:  46 :A:HIV-2 integrase, N-terminal HHCC domain:Human Immunodeficiency Virus type 2 (Isolate Rod): -1: -1
+FLEKIEPAQEEHEKYHSNVKELSHKFGIPNLVARQIVNSCAQCQQK---------*
+>P1;gi|18699194|gb|AAL78454.1| pol protein [Human immunodeficiency v... [ score 140 E 9e-33 ] [ range 716 .. 770 ]
+sequence
+FLEGIDKAQEEHEKYHSNWKAMASDFNLPPIVAKEIVASCDKCQLKGEAMHGQVD*
+>P1;gi|22596410|gb|AAN03182.1| pol protein [Human immunodeficiency v... [ score 139 E 1e-32 ] [ range 718 .. 772 ]
+sequence
+FLDGIDKAQEEHERYHSNWRAMAHDFNIPPVVAKEIVASCDKCQIKGEAMHGQVD*
+>P1;gi|32261456|gb|AAP76521.1| gag-pol fusion polyprotein precursor ... [ score 139 E 1e-32 ] [ range 1143 .. 1197 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMADEFNLPPIVAKEIVACCDKCQLKGEAMHGQVD*
+>P1;gi|41056787|gb|AAR98769.1| pol protein [Human immunodeficiency v... [ score 110 E 9e-24 ] [ range 743 .. 788 ]
+sequence
+FLEKIEPAQEEHEKYHSNVKELSHKFGLPKLVARQIVNTCAQCQQK---------*
+>P1;gi|1072794|pir||S53092 pol polyprotein - human immunodeficiency ... [ score 110 E 1e-23 ] [ range 763 .. 808 ]
+sequence
+FLEKIEPAQEEHEKYHSNVKELSHKFGLPQLVARQIVNTCAQCQQK---------*
+>P1;gi|4007993|gb|AAC95341.1| pol polyprotein [Human immunodeficienc... [ score 110 E 1e-23 ] [ range 763 .. 808 ]
+sequence
+FLEKIEPAQEEHEKYHSNVKELSHKFGLPNLVARQIVNTCAQCQQK---------*
+>P1;gi|130622|sp|P17757|POL_HV2D1 POL polyprotein [Contains: Proteas... [ score 109 E 2e-23 ] [ range 781 .. 826 ]
+sequence
+FLEKIEPAQEEHEKYHSNIKELTHKFGIPQLVARQIVNTCAQCQQK---------*
+>P1;gi|1339799|gb|AAB01352.1| pol polyprotein [ score 108 E 3e-23 ] [ range 767 .. 812 ]
+sequence
+FLEKIEPAQEEHEKYHSNVKELSHKFGLPKLVARQIVNTCTQCQQK---------*
+>P1;gi|995586|gb|AAC54467.1| reverse transcriptase >gi|1583078|prf||... [ score 107 E 6e-23 ] [ range 760 .. 805 ]
+sequence
+FLEKIEPAQEEHEKYHNNVKELVHKFGIPQLVARQIVNSCDKCQQK---------*
+>P1;gi|325766|gb|AAA43942.1| pol polyprotein [ score 106 E 1e-22 ] [ range 761 .. 806 ]
+sequence
+FLEKIEPAQEEHEKYHGNVKELVHKFGLPQLVAKQIVNSCDKCQQK---------*
+>P1;gi|130625|sp|P15833|POL_HV2D2 POL polyprotein [Contains: Proteas... [ score 106 E 1e-22 ] [ range 763 .. 808 ]
+sequence
+FLEKIEPAQEEHEKYHGNVKELVHKFGIPQLVAKQIVNSCDKCQQK---------*
+>P1;gi|130627|sp|P12451|POL_HV2SB POL polyprotein [Contains: Proteas... [ score 106 E 1e-22 ] [ range 743 .. 788 ]
+sequence
+FLERIEPAQEEHGKYHSNVKELAHKFGLPNLVARQIVNTCAQCQQK---------*
+>P1;gi|1346747|sp|P18042|POL_HV2G1 POL polyprotein [Contains: Protea... [ score 106 E 1e-22 ] [ range 757 .. 802 ]
+sequence
+FLERIEPAQEEHEKYHSNMKELTHKFGIPQLVARQIVNTCAQCQQK---------*
+>P1;gi|22596223|gb|AAN03016.1| pol protein [Human immunodeficiency v... [ score 106 E 2e-22 ] [ range 715 .. 760 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMAHDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|1845206|gb|AAB47781.1| pol polyprotein [Human immunodeficienc... [ score 105 E 3e-22 ] [ range 584 .. 629 ]
+sequence
+FLEKIEPAQEEHEKYHSNIKELIHKFGIPQLVARQIVNTCAQCQQK---------*
+>P1;gi|26245470|gb|AAN77398.1| pol protein [Human immunodeficiency v... [ score 105 E 3e-22 ] [ range 718 .. 763 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASEFNLPPIVAKEIVASCDKCQQK---------*
+>P1;gi|22596555|gb|AAN03311.1| pol protein [Human immunodeficiency v... [ score 104 E 5e-22 ] [ range 711 .. 756 ]
+sequence
+FLDGIDKAQEEHERYHSNWRAMASDFNLPPVVAKEIVASCDKCQQK---------*
+>P1;gi|38491687|gb|AAR22077.1| pol protein [Human immunodeficiency v... [ score 104 E 7e-22 ] [ range 720 .. 765 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|17046673|gb|AAL34698.1| pol protein [Human immunodeficiency v... [ score 103 E 8e-22 ] [ range 724 .. 769 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASEFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|38491734|gb|AAR22118.1| pol protein [Human immunodeficiency v... [ score 103 E 8e-22 ] [ range 715 .. 760 ]
+sequence
+FLDGIDKAQEEHERYHSNWRAMASDFNLPPIVAKEIVASCDKCQQK---------*
+>P1;gi|22596369|gb|AAN03146.1| pol protein [Human immunodeficiency v... [ score 103 E 9e-22 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHERYHSNWRAMASDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|14530238|gb|AAK65971.1| pol protein [Human immunodeficiency v... [ score 103 E 9e-22 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHERYHSNWRAMAHDFNLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|3252968|gb|AAD12115.1| pol protein [Human immunodeficiency vi... [ score 103 E 1e-21 ] [ range 712 .. 757 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDQCQLK---------*
+>P1;gi|2281654|gb|AAB64164.1| polymerase polyprotein [Human immunode... [ score 103 E 1e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEDHEKYHSNWRAMASDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|13569239|gb|AAK30982.1| pol polyprotein [Human immunodeficien... [ score 103 E 1e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASDFNLPPIVAKEIVASCDQCQLK---------*
+>P1;gi|15553608|gb|AAL01951.1| integrase [Human immunodeficiency vir... [ score 103 E 1e-21 ] [ range 1 .. 46 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASDFGLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|13569289|gb|AAK31027.1| pol polyprotein [Human immunodeficien... [ score 103 E 1e-21 ] [ range 712 .. 757 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCNQCQQK---------*
+>P1;gi|130628|sp|P05962|POL_HV2NZ POL polyprotein [Contains: Proteas... [ score 103 E 1e-21 ] [ range 743 .. 788 ]
+sequence
+FLEKIEPAQEEHEKYHSNIKELSHKFGIPKLVARQIVNTCAHVQQK---------*
+>P1;gi|38892783|gb|AAR27773.1| pol protein [Human immunodeficiency v... [ score 103 E 1e-21 ] [ range 712 .. 757 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASEFNLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|13569219|gb|AAK30964.1| pol polyprotein [Human immunodeficien... [ score 103 E 1e-21 ] [ range 712 .. 757 ]
+sequence
+FLDGIDKAQEEHEKYHNNWRAMASEFNLPPVVAKEIVASCDKCQQK---------*
+>P1;gi|3252920|gb|AAD12072.1| pol protein [Human immunodeficiency vi... [ score 103 E 1e-21 ] [ range 721 .. 766 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASDFNLPPIVAKEIVASCGQCQQK---------*
+>P1;gi|8920152|emb|CAB96338.1| gag-pol fusion polyprotein precursor ... [ score 103 E 1e-21 ] [ range 1158 .. 1203 ]
+sequence
+FLDGIEKAQEEHERYHSNWKAMASDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|22596432|gb|AAN03201.1| pol protein [Human immunodeficiency v... [ score 103 E 1e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHERYHSNWKAMASDFNLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|5733943|gb|AAD49781.1| Pol polyprotein [Human immunodeficienc... [ score 103 E 1e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHERYHSNWRAMASDFNLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|22596329|gb|AAN03110.1| pol protein [Human immunodeficiency v... [ score 103 E 2e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHERYHSNWKAMASDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|5668924|gb|AAD46076.1| pol protein [Human immunodeficiency vi... [ score 103 E 2e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHEKYHNNWRAMASDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|32261495|gb|AAP76556.1| gag-pol fusion polyprotein precursor ... [ score 103 E 2e-21 ] [ range 997 .. 1042 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASEFNLPPIVAKEIVASCDKCQVK---------*
+>P1;gi|7462011|pir||T09440 pol polyprotein - human immunodeficiency ... [ score 103 E 2e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEDHEKYHSNWKAMASDFNLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|7452900|emb|CAB86366.1| POL protein [Human immunodeficiency v... [ score 103 E 2e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHERYHSNWRAMASEFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|37935582|gb|AAO65555.1| pol protein [Human immunodeficiency v... [ score 103 E 2e-21 ] [ range 718 .. 763 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMANEFNLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|22596535|gb|AAN03293.1| pol protein [Human immunodeficiency v... [ score 103 E 2e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEDHERYHSNWRAMASDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|38892671|gb|AAR27673.1| pol protein [Human immunodeficiency v... [ score 103 E 2e-21 ] [ range 712 .. 757 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASEFNLPPVVAKEIVASCDKCQIK---------*
+>P1;gi|17046919|gb|AAL34919.1| pol protein [Human immunodeficiency v... [ score 103 E 2e-21 ] [ range 718 .. 763 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRSMASDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|17046743|gb|AAL34761.1| pol protein [Human immunodeficiency v... [ score 103 E 2e-21 ] [ range 712 .. 757 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMANEFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|3114555|gb|AAD03174.1| pol polyprotein [Human immunodeficienc... [ score 103 E 2e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHEKYHNNWRAMASDFNIPPVVAKEIVASCDKCQLK---------*
+>P1;gi|130623|sp|P18096|POL_HV2BE POL polyprotein [Contains: Proteas... [ score 103 E 2e-21 ] [ range 763 .. 808 ]
+sequence
+FLEKIEPAQEEHEKYHSIIKELTHKFGIPLLVARQIVNSCAQCQQK---------*
+>P1;gi|8920374|emb|CAB96407.1| Gag-Pol fusion polyprotein precursor ... [ score 103 E 2e-21 ] [ range 1149 .. 1194 ]
+sequence
+FLDGIDKAQEEHEKYHNNWKAMASDFNLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|130612|sp|P18802|POL_HV1ND POL polyprotein [Contains: Proteas... [ score 102 E 2e-21 ] [ range 715 .. 760 ]
+sequence
+FLDGIDKAQEEHEKYHNNWRAMASDFNLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|38491658|gb|AAR22051.1| pol protein [Human immunodeficiency v... [ score 102 E 2e-21 ] [ range 718 .. 763 ]
+sequence
+FLDGIDKAQEEHERYHSNWRAMASDFNLPPVVAKQIVASCDKCQLK---------*
+>P1;gi|3286887|emb|CAA08029.1| DNA polymerase [Human immunodeficienc... [ score 102 E 2e-21 ] [ range 13 .. 58 ]
+sequence
+FLEKIEPAQEEHEKYHSNVRELSHKFGLPKLVARQIVNTCAQCQQK---------*
+>P1;gi|27227852|dbj|BAC45025.1| pol protein [Human immunodeficiency ... [ score 102 E 2e-21 ] [ range 712 .. 757 ]
+sequence
+FLDGIDKAQEEHERYHSNWRAMASDFNLPPIVAKEIVASCDQCQLK---------*
+>P1;gi|1899136|gb|AAC57016.1| pol protein [Human immunodeficiency vi... [ score 102 E 2e-21 ] [ range 712 .. 757 ]
+sequence
+FLDEIDKAQEEHERYHSNWRAMAHDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|1478058|gb|AAB51137.1| pol protein [Human immunodeficiency vi... [ score 102 E 2e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHERYHSNWKAMASDFNLPPIVAKEIVASCDKCQMK---------*
+>P1;gi|38491781|gb|AAR22160.1| pol protein [Human immunodeficiency v... [ score 102 E 2e-21 ] [ range 722 .. 767 ]
+sequence
+FLDGIEKAQEEHEKYHNNWRAMASDFNLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|23986222|gb|AAL12183.1| pol polyprotein [Human immunodeficien... [ score 102 E 2e-21 ] [ range 712 .. 757 ]
+sequence
+FLDGIDKAQEDHEKYHSNWRAMASDFNLPPIVAKEIVASCDQCQLK---------*
+>P1;gi|30027255|gb|AAP06258.1| pol protein [Human immunodeficiency v... [ score 102 E 2e-21 ] [ range 716 .. 761 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRTMASDFNLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|38892610|gb|AAR27619.1| pol protein [Human immunodeficiency v... [ score 102 E 2e-21 ] [ range 712 .. 757 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASEFNLPSIVAKEIVASCDKCQQK---------*
+>P1;gi|4324757|gb|AAD17021.1| gag-pol polyprotein [Human immunodefic... [ score 102 E 2e-21 ] [ range 1140 .. 1185 ]
+sequence
+FLDGIDKAQEEHEKYHNNWRAMASEFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|22596273|gb|AAN03061.1| pol protein [Human immunodeficiency v... [ score 102 E 2e-21 ] [ range 715 .. 760 ]
+sequence
+FLDGIDKAQEDHEKYHSNWRAMASDFGLPPVVAKEIVASCDKCQLK---------*
+>P1;gi|14571891|gb|AAK67310.1| pol protein [Human immunodeficiency v... [ score 102 E 2e-21 ] [ range 708 .. 753 ]
+sequence
+FLDGIDKAQEEHERYHSNWRAMAQDFNLPPIVAKEIVASCDKCQLK---------*
+>P1;gi|37725245|gb|AAR02308.1| pol protein [Human immunodeficiency v... [ score 102 E 2e-21 ] [ range 726 .. 771 ]
+sequence
+FLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQIK---------*

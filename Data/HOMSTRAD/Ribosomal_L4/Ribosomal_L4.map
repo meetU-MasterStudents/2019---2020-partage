@@ -1,0 +1,2556 @@
+>P1;1dmga
+structureX:1dmg:   2 :A: 226 :A:50S ribosomal protein L4:Thermotoga maritima: 1.70: 20.8
+AQVDLLNVKGEKVGTLEISDFVFNIDPNYDVMWRYVDMQLSD----------------------------
+----------------------------WSKKLNKKMKKLALRSALSVKYRE-------------NKLLV
+LDDLKLERPKTKSLKEILQNLQLSD-------------------------KKTLIVLPWKEEGYMNVKLS
+GRNLPDVKVIIADNPNNSKNGEKAVRIDGLNVFDMLK----YDYLVLTRDMVSKIEEVLG*
+>P1;1jj2c
+structureX:1jj2:   1 :C: 246 :C:50S ribosomal protein L4e:Haloarcula marismortui: 2.40: 18.9
+MQATIYDLDGNTDGEVDLPD-VFETPVRSDLIGKAVRAAQANRKQDYGSDEYAGLRTPAESFGSGRGQAH
+VPKLDGRARRVPQAVKGRSAHPPKTEKDRSLDLNDKERQLAVRSALAATADADLVADRGHEFDRDEVPVV
+VSDDFEDLVKTQEVVSLLEALDVHADIDRADETKIKAGQGSARGRKYRRPASILFVTSD------EPSTA
+ARNLAGADVATAS---------------EVNTEDLAPGGAPGRLTVFTESALAEVAER--*
+>P1;gi|45529031|ref|ZP_00180186.1| hypothetical protein Mther187101 ... [ score 176 E 1e-43 ] [ range 3 .. 206 ]
+sequence
+-RVALYNIQGQQVGEVDLDDSVFGGEVNEAVLHDAVVMQLRD----------------------------
+----------------------------YGYRLPKKVRRLALRSALASKVRD-------------GNIIV
+LDELKMEKPRTKDMAHILKNLNAEN--------------------------KALVVTATRE---PNVELS
+ARNLPGVRFLTSD---------------GINVYDLLA----HDKLVITKDAVARVQEVL-*
+>P1;gi|132978|sp|P28601|RL4_BACST 50S ribosomal protein L4 >gi|42147... [ score 174 E 5e-43 ] [ range 3 .. 206 ]
+sequence
+-KVALYNQNGQTVGEIELNDAVFGIEPNKHVLFEAVIMQPRS----------------------------
+----------------------------YSYKLPKKVRRLAIKSALSSKVLE-------------NDIVV
+LDQLSLEAPKTKEMVKILNNLSV-D-------------------------RKALIVT---DELNENVYLS
+ARNIPGVKVVPA---------------NGINVLDVLN----HDKLVITKAAVEKVEEVL-*
+>P1;gi|15612698|ref|NP_241001.1| 50S ribosomal protein L4; ribosomal... [ score 168 E 5e-41 ] [ range 3 .. 206 ]
+sequence
+-KVALYNQAGSQVGDIELSDAVFGIEPNENVLHDAVVMQPRS----------------------------
+----------------------------YSYKLPKKVRRLAIKSALSSKVKA-------------EEIVV
+LESLALEAPKTKEMASILSGLSV-D-------------------------RKALVVTADYND---NVALS
+ARNIPGVTFVTA---------------EGVNVLDVIK----HDKLIITKDAVEKVEEVL-*
+>P1;gi|45531561|ref|ZP_00182601.1| hypothetical protein Exigu204201 ... [ score 160 E 1e-38 ] [ range 3 .. 206 ]
+sequence
+-KVALLNQTGTQVGDIELADAVFGIEPNEAVVYDAIVMQPRS----------------------------
+----------------------------YAYKLPKKVRRLALRSALSSKVAN-------------NEFIV
+LEGLTIDAPKTKDMISVFAALSIE--------------------------RKVLVVTADYNET---VVLS
+TRNIPGVTVVDA---------------AGVNVLDLVA----HDKVIFTKDAVARVEEVL-*
+>P1;gi|15925239|ref|NP_372773.1| 50S ribosomal protein L4 [Staphyloc... [ score 159 E 3e-38 ] [ range 2 .. 207 ]
+sequence
+ANYDVLKLDGTKSGSIELSDAVFGIEPNNSVLFEAINLQPRS----------------------------
+----------------------------YAYKMPKKMRRLALRSALSFKAQE-------------NGLTV
+VDAFNFEAPKTKEFKNVLSTLE-QP-------------------------KKVLVVT---ENEDVNVELS
+ARNIPGVQVTTA---------------QGLNVLDITN----ADSLVITEAAAKKVEEVLG*
+>P1;gi|30018381|ref|NP_830012.1| LSU ribosomal protein L1E/L4P [Baci... [ score 155 E 4e-37 ] [ range 3 .. 206 ]
+sequence
+-KVTVYNQTGSQVGEIELAEAIFGIEPNEAVLFEAVMMQPRS----------------------------
+----------------------------YAYKLPKKVRRLAIKSALATKVVE-------------NNIVV
+LEDLVLNAPKTKDMLAVLKGLTVE--------------------------KKALIVTADANES---VELS
+ARNIPGVTVITAD---------------GVNVLDVLH----HDKLIMTKAAVEKVEEVL-*
+>P1;gi|27468741|ref|NP_765378.1| 50S ribosomal protein L4 [Staphyloc... [ score 151 E 5e-36 ] [ range 2 .. 206 ]
+sequence
+ANYDVLKVDGSKSGSVELNDAVFAIEPNNSVLFEAINLQPRS----------------------------
+----------------------------YAYKMPKKMRRLALRSALSFKVQE-------------NSFTI
+VDTFGFEAPKTKEFKNVLTTLE-QP-------------------------KKVLVVT---ENEDVNVELS
+ARNIPGVQVTTA---------------QGLNVLDLTS----ADSVIITEAAAKKVEEVL-*
+>P1;gi|23006443|ref|ZP_00048760.1| COG0088: Ribosomal protein L4 [Ma... [ score 150 E 8e-36 ] [ range 3 .. 205 ]
+sequence
+-KLDITTLDGGSAGSVELNEAIFGLEPRADILQRMVRYQLRD----------------------------
+----------------------------HSHDLPKKVRALALKHALSTKAKA-------------STLIV
+VDDIKVDSHKTKAMIERFEKLGLSS-------------------------A----LIIGGSEVDENFGRA
+ARAIPKIDVL---------------PVQGINVYDILR----RDTLVLTRAAVDALEER--*
+>P1;gi|28212174|ref|NP_783118.1| LSU ribosomal protein L1E(= L4P) [C... [ score 150 E 1e-35 ] [ range 4 .. 205 ]
+sequence
+--VGLFNKEGQKVGDFQLSDKVFGVEVNKEVLHQVIVAQLRD----------------------------
+----------------------------YSMAIPKSMKRVAMKSALSSKVQE-------------NEIVI
+LESLEADAPKTKEIVKMLAAFNA---------------------------KKTLIVT---EESNKNIYKS
+ARNIEGVTVL---------------PVNNINVYDILR----YDKFIITKDAVSKIEEVY-*
+>P1;gi|16077185|ref|NP_387998.1| ribosomal protein L4 [Bacillus subt... [ score 150 E 2e-35 ] [ range 3 .. 206 ]
+sequence
+-KVALYNQNGSTAGDIELNASVFGIEPNESVVFDAILMQPRS----------------------------
+----------------------------YSYKLPKKVRRLAIKSVLSSKVID-------------NNIIV
+LEDLTLDTAKTKEMAAILKGLSVE--------------------------KKALIVTADANEA---VALS
+ARNIPGVTVVEA---------------NGINVLDVVN----HEKLLITKAAVEKVEEVL-*
+>P1;gi|23097575|ref|NP_691041.1| 50S ribosomal protein L4 [Oceanobac... [ score 147 E 7e-35 ] [ range 3 .. 206 ]
+sequence
+-KVALLKQDGSNVGDIELNDSVFGIEPNTHVLHEAVVMQPRS----------------------------
+----------------------------YSYKLPKKVRRLALRSALSSKVNE-------------ESLLV
+LENISIDAPKTKEIVNILKGLQV-D-------------------------AKALIVLSEKDET---VIRS
+ANNLQNVTVLT---------------VEELNILDLLM----HDKLIITKDAAEKAGEVL-*
+>P1;gi|20808659|ref|NP_623830.1| Ribosomal protein L4 [Thermoanaerob... [ score 147 E 1e-34 ] [ range 3 .. 204 ]
+sequence
+-KVPVYNVKGEQVGEIELKDSVFGVPVNVAVMHQAVVPKPRD----------------------------
+----------------------------YSYKLPKKVKRLALKSALSSKVRD-------------NEIIV
+LDEFKLEQPKTKKVAELLKNFNA---------------------------KSALIVVPQGE---KNVELS
+ARNMPNAKALYANL---------------LNTYDVLK----YEKFIITKDAVAIVEEV--*
+>P1;gi|15674288|ref|NP_268461.1| 50S ribosomal protein L4 [Streptoco... [ score 143 E 2e-33 ] [ range 2 .. 206 ]
+sequence
+ANVKLFDQTGKEVSSVELNDAIFGIEPNESVVFDVVISQPRS----------------------------
+----------------------------YGYKLPQKVRRLALKSVYSAKVAE-------------DKFVA
+VEGLSFAAPKTAEFAKVLSALSIDT-------------------------KVLVLV----EEGNEFAALS
+ARNLPNVTVATAATA---------------SVLDIVN----ADKLLVTKEAISTIEEVL-*
+>P1;gi|29374852|ref|NP_814005.1| ribosomal protein L4 [Enterococcus ... [ score 142 E 3e-33 ] [ range 3 .. 206 ]
+sequence
+-NVALFKQDGTQNGEITLNEEIFGIEPNESVVYDAIIMQPRS----------------------------
+----------------------------YSYKFPKKVRRLAMKSVLSDKVAE-------------NNLVA
+VEGLSFDAPKTKEFKQVLANLSI-D-------------------------TKVLVVL---ENGNDFAALS
+ARNLPNVSVVTSDN---------------VSVLDVVS----ANKVLATQTALTQIEEVL-*
+>P1;gi|23104440|ref|ZP_00090904.1| COG0088: Ribosomal protein L4 [Az... [ score 142 E 4e-33 ] [ range 72 .. 269 ]
+sequence
+-----LNVNGAQA--IEVSERTFGGEFNETLVHQAVVAYLAN----------------------------
+----------------------------HDQKLNKKMYRAALRSILSELVRQ-------------ERLVV
+VEDFAVDAPKTKSLVSKLGGLGLSD------------------------------VLIVSDAVDQNLYLA
+ARNLPHVDV---------------RDVLGSDPVSLIA----YDKVLITVPAVKKFEELLG*
+>P1;gi|15900146|ref|NP_344750.1| ribosomal protein L4 [Streptococcus... [ score 141 E 6e-33 ] [ range 2 .. 206 ]
+sequence
+ANVTLFDQTGKEAGQVVLSDAVFGIEPNESVVFDVIISQPRS----------------------------
+----------------------------YGYKLPQKVRRLALKSVYSEKVAE-------------NKFVA
+VDALSFTAPKTAEFAKVLAALSI-D-------------------------SKVLVIL---EEGNEFAALS
+ARNLPNVKVATATTA---------------SVLDIAN----SDKLLVTQAAISKIEEVL-*
+>P1;gi|22536244|ref|NP_687095.1| ribosomal protein L4 [Streptococcus... [ score 140 E 9e-33 ] [ range 2 .. 206 ]
+sequence
+ANVKLFDQTGKEVSSVELNEAIFGIEPNESVVFDVVISQPRS----------------------------
+----------------------------YGYKLPQKVRRLALKSVYSAKVAE-------------DKFVA
+VENLSFAAPKTAEFASVLSALSI-D-------------------------SKVLVIL---EEGNEFAALS
+ARNLPNVTVATATTA---------------SVLDIVN----ADKLLVTKEAISTIEGVL-*
+>P1;gi|23502109|ref|NP_698236.1| ribosomal protein L4 [Brucella suis... [ score 140 E 2e-32 ] [ range 3 .. 204 ]
+sequence
+--LTITTLEGKDAGKVKLNEEIFGLDPRDDILQRVVRWQLRN----------------------------
+----------------------------HDHDLPKKVRALGLRHALSAKAKA-------------SDLII
+IDDLASADAKTKQLVSQFAKLGLEN-------------------------A----LLIGGAEIDANFQRA
+ASNIPNIDVL---------------PVQGINVYDILR----RGKLVLSKAAVEALEER--*
+>P1;gi|23014087|ref|ZP_00053924.1| COG0088: Ribosomal protein L4 [Ma... [ score 139 E 2e-32 ] [ range 2 .. 205 ]
+sequence
+-KTNVISLDNQTVGEIELADEIFGLPVRGDILFRAVNWQLRS----------------------------
+----------------------------HAHDLPKKVRKLALKTALSAKVAD-------------GKLIV
+VDNATAGSPKTKDLAARLGKLGLSS-----------------------------VLFIDGAAVDGNFALA
+SRNIPYVDVL---------------PQQGANVYDILR----RETLVLTKDAVAALEARL-*
+>P1;gi|28377833|ref|NP_784725.1| ribosomal protein L4 [Lactobacillus... [ score 139 E 4e-32 ] [ range 4 .. 206 ]
+sequence
+--VALFKQDGTQNGDVTLNDAVFGVEPNENVVFDAILMQPRS----------------------------
+----------------------------YSYKLPKKVMRLALKSVLSQKVLD-------------NSLVA
+VDSLAFDAPKTKDFVNVLNNLNVDT-------------------------KTLVLV----EEDNEKAALA
+GRNLPNVKILKA---------------KGVNVLDVAN----SDKLVVTQKALDQLEEAL-*
+>P1;gi|42518430|ref|NP_964360.1| 50S ribosomal protein L4 [Lactobaci... [ score 138 E 4e-32 ] [ range 2 .. 204 ]
+sequence
+ANLEIIDQKGKSAGNVDLNEEIFGIEPNESVVFDAIIRQPRS----------------------------
+----------------------------YKMDMPRKARRLAMKSVLSQKVAD-------------NDLII
+LDQLTLEAPKTKELKAILDNANVSG--------------------------KVLVVSD-----DKNVQLS
+GKNLPKVKVV---------------PVNGLNVVDAVD----YQKLVLTQDAIKRIEEVL-*
+>P1;gi|15674080|ref|NP_268255.1| 50S ribosomal protein L4 [Lactococc... [ score 138 E 4e-32 ] [ range 2 .. 207 ]
+sequence
+AKVSLFKQDGSQAGEVTLNDSVFGIEPNESVVFDVVISQPRS----------------------------
+----------------------------YAYKLPQKVRQLALKSVYSTKVAD-------------GKLIA
+VDTLDFTAPKTAEFAKVISALSIE--------------------------RKVLVVLP--NEGNEFAELS
+ARNLANVKVTTANSA---------------SVLDIVS----ADKLLVVQSALTQIEEVL-*
+>P1;gi|19704965|ref|NP_602460.1| LSU ribosomal protein L1E [Fusobact... [ score 138 E 6e-32 ] [ range 2 .. 209 ]
+sequence
+AVLNIYNLAGEQTGTVEVNDAVFGIEPNKVVLHEVLTAELRS----------------------------
+----------------------------YEKKVNKKVRNLALRSALSAKVAA-------------GNVLV
+LDYDGIETPKTKVIVNLVNKVDAKQ-------------------------KQLFVVGDLIKD--YNLYLS
+ARNLENAVILQPNE---------------IGVYWLLK----QEKVILTKEALATVEEVLG*
+>P1;gi|16801841|ref|NP_472109.1| ribosomal protein L4 [Listeria inno... [ score 136 E 2e-31 ] [ range 3 .. 206 ]
+sequence
+-KLSLLKQDGTNAGEITLNDTVFGIEPNEKVVVDVILSQPRS----------------------------
+----------------------------YAYKLPKKVRRLAIKSILSSKVNE-------------EKLVV
+LEGLTFDAPKTKEFAAFLKNISV-D-------------------------TKALIVVAGESE---NVELS
+ARNLQGITVIPA---------------ESISVLEVAK----HDKLIITKAAVEKVEEVL-*
+>P1;gi|22966121|ref|ZP_00013718.1| COG0088: Ribosomal protein L4 [Rh... [ score 136 E 2e-31 ] [ range 2 .. 205 ]
+sequence
+-KCDVKTLDGKDAGSIELSDSVFGLPVRTDLLHRMVRWQLRS----------------------------
+----------------------------HAHDLNKKVRKLGLKTALSAKAQA-------------GQLIV
+LDQAISESGKTKDLLAQLKVLGLE---------------------------KVLFI--DGPEVNEKFALA
+ARNIIGLDVL---------------PQQGANVYDILR----RDTLVLTKEAVKHLEERL-*
+>P1;gi|23029670|ref|ZP_00067991.1| COG0088: Ribosomal protein L4 [Mi... [ score 135 E 3e-31 ] [ range 2 .. 203 ]
+sequence
+-ELSIATPQGAK-GTVSVSEAAFGREFNQDLVHQAVVAEPRD----------------------------
+----------------------------HSQKLNKKMYRAAIRCILSELARQ-------------ERLVV
+VEEFDLDAPKTKDLVQKLAQFDLAD------------------------------VLIIGEDVSENLYLA
+ARNLHKVDV---------------RDVNGLDPVSLIR----FDKVVVTVAALKKLEEVL-*
+>P1;gi|39936312|ref|NP_948588.1| 50S ribosomal protein L4 [Rhodopseu... [ score 135 E 4e-31 ] [ range 2 .. 204 ]
+sequence
+-ELKVTTLEGKEAGSVQLSDEIFGLEPRSDIIQRCVIWQLRS----------------------------
+----------------------------HAIDLPKKVRVLALRHALSAKAKG-------------GGLIV
+LDKAELEAAKTKTLVGHFSGLGLES-------------------------A----LIIDGAEVNNGFAAA
+ARNIPNIDVL---------------PVQGINVYDILR----RKKLVLTKAAVDALEAR--*
+>P1;gi|27380510|ref|NP_772039.1| 50S ribosomal protein L4 [Bradyrhiz... [ score 134 E 9e-31 ] [ range 16 .. 218 ]
+sequence
+-ELKVTTLEGKEAGSVQLSDAIFGLEPRQDIIARCVQWQLRS----------------------------
+----------------------------HATDLPKKVRALALKHALSAKAKD-------------GDLLV
+IDKAALEAAKTKALLGHFSGLGLTN-------------------------A----LIIDGAELNNGFAAA
+ARNIPNMDVL---------------PIQGINVYDILR----RQKLVLTKAAIDALEAR--*
+>P1;gi|26987196|ref|NP_742621.1| ribosomal protein L4 [Pseudomonas p... [ score 133 E 2e-30 ] [ range 87 .. 200 ]
+sequence
+--------------------------------------RPQD----------------------------
+----------------------------HSQKLNKKMYRAALRSILAELVRS-------------DRLVV
+VQDFAVEAPKTKDLLNKLNGMGLSD------------------------------VLIVSDAVDQNLYLA
+ARNLPHVDV---------------RDVQGSDPVSLIA----YEKVLITVSAVKKFEELLG*
+>P1;gi|28897032|ref|NP_796637.1| ribosomal protein L4 [Vibrio paraha... [ score 132 E 3e-30 ] [ range 87 .. 199 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGAMKSILSELVRQ-------------ERLIV
+VDNFSVEAPKTKELVAKLKELELTD---------------------------ALIVT---SEVDENLFLA
+ARNLYKVD---------------ARDVAGIDPVSLIA----FDKVVMTAEAVKQVEEML-*
+>P1;gi|15965110|ref|NP_385463.1| PROBABLE 50S RIBOSOMAL PROTEIN L4 [... [ score 132 E 3e-30 ] [ range 7 .. 204 ]
+sequence
+------TLEGKDAGKVSLSDAIFGLEPREDIIARVVRWQLRS----------------------------
+----------------------------HAHDLPKKIRALGLRHALSAKLKA-------------EDIIV
+IDDLVANEAKTKALAGAFASLGLTN-------------------------A----LIIGGAEIEGNFKLA
+AQNIPNVDVL---------------PVQGINVYDILR----RGKLVLSKAAVEALEER--*
+>P1;gi|22956506|ref|ZP_00004269.1| COG0088: Ribosomal protein L4 [Rh... [ score 132 E 4e-30 ] [ range 17 .. 220 ]
+sequence
+-KAEVIKLDASPAGSIELDDAIFGLEPRADILHRVVRWQPRS----------------------------
+----------------------------HAHDLNKKFRALGLKHALSSKATT-------------GNLIV
+LEDIALAEGKTAMLAKAVKELGW---------------------------KRVLVI--DGADINENFAKA
+ARNLEGVDVLPS---------------IGANVYDILK----RDTLVITKAGVEALEARL-*
+>P1;gi|15896382|ref|NP_349731.1| Ribosomal protein L4 [Clostridium a... [ score 132 E 5e-30 ] [ range 4 .. 205 ]
+sequence
+--VEVFNKEGKKVEDIELSEKVFGAKISESALHQVVVAQLRD----------------------------
+----------------------------YRISIPKSMRRTAMLSALTSKVND-------------KEMIV
+LDELKIDAPKTKEIVKMLNAFEA---------------------------KKALIVVA---ESDQNVYKS
+VRNIQGAAVIPANN---------------LNVYDILK----YDKFIVTKEAVSKIEEVY-*
+>P1;gi|23057715|ref|ZP_00082878.1| COG0088: Ribosomal protein L4 [Ps... [ score 132 E 5e-30 ] [ range 87 .. 200 ]
+sequence
+--------------------------------------RPQD----------------------------
+----------------------------HSQKLNKKMYRAAMRSILAELVRT-------------DRLVV
+VQDFAVETPKTKDLLGKLNNMSLTD------------------------------VLIVSDAVDQNLYLA
+ARNLPHVDV---------------RDVQGSDPVSLIA----YDKVLITVSAVKKFEELLG*
+>P1;gi|15889241|ref|NP_354922.1| AGR_C_3553p [Agrobacterium tumefaci... [ score 131 E 5e-30 ] [ range 2 .. 204 ]
+sequence
+-ELNVKTLEGKDAGKVSLSDEIFGLDPRQDILARMVRWQLRS----------------------------
+----------------------------HAHDLPKKVRALALRHALSAKLKA-------------EELII
+VDQLVASEAKTKALLGSFASLGLTN-------------------------A----LVIGGAELDGNFKLA
+AQNIPNVDVL---------------PVQGINVYDILR----RGKLVLSKAAVEALEER--*
+>P1;gi|23470607|ref|ZP_00125939.1| COG0088: Ribosomal protein L4 [Ps... [ score 131 E 5e-30 ] [ range 87 .. 200 ]
+sequence
+--------------------------------------RPQD----------------------------
+----------------------------HTQKLNKKMYRAALRSILAELVRT-------------DRLVV
+VQDFAVEAPKTKDLLNKLTGMGLTD------------------------------VLIVSDAVDQNLYLA
+ARNLPHVDV---------------RDVQGSDPVSLIA----YDKVLITVSAVKKFEELLG*
+>P1;gi|44050000|gb|EAG85207.1| unknown [environmental sequence] [ score 131 E 8e-30 ] [ range 87 .. 200 ]
+sequence
+--------------------------------------RPQD----------------------------
+----------------------------HSQKLNKKMYRAALRSILAELVRT-------------DRLVV
+VQDFAVESPKTKDLLGKLNNMSLTD------------------------------VLIVSEAVDQNLYLA
+ARNLPHVDV---------------RDVQGSDPVSLIA----YDKVLITVSAVKKFEELLG*
+>P1;gi|27364214|ref|NP_759742.1| Ribosomal protein L4 [Vibrio vulnif... [ score 130 E 1e-29 ] [ range 87 .. 199 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGAMKSILSELVRQ-------------ERLIV
+VDNFSVEAPKTKELVAKLKELELND---------------------------VLIVTGEVDE---NLFLA
+ARNLYKVD---------------ARDVAGIDPVSLIA----FNKVLMTADAVKQVEEML-*
+>P1;gi|44366213|gb|EAI76269.1| unknown [environmental sequence] [ score 130 E 1e-29 ] [ range 88 .. 200 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGAIRSILSELVRQ-------------ERLIV
+VEKFGIEAPKTKELIAKLKEMELTD---------------------------VLIVTAEVDE---NLFLA
+ARNLYKVDV---------------RDVAGIDPVSLIA----FDKVLMTADAVKQIEEML-*
+>P1;gi|43051446|gb|EAB92133.1| unknown [environmental sequence] [ score 130 E 2e-29 ] [ range 2 .. 205 ]
+sequence
+-KCDVITLANKKSGSVELDDSVFGVAVRNDILSRMVNYQLRS----------------------------
+----------------------------HSFSLNKKVRKLALKTALSSKQAE-------------GNLII
+LDDAKCKEAKTKGLSEQLLAMGL---------------------------KSALIVSGPT--VDKNFVKA
+AANIPLIDVL---------------PQQGANVYDILR----RDKLVLTKEAVTHLVERL-*
+>P1;gi|16125498|ref|NP_420062.1| ribosomal protein L4 [Caulobacter c... [ score 129 E 2e-29 ] [ range 2 .. 205 ]
+sequence
+-KLDVIKLDGGKAGSVDLDDAIFGIEIRGDILQRVVTWQLRS----------------------------
+----------------------------HAFDLPKKIRALALRHALSSKAKA-------------GSLVV
+VDSVALTEAKTAALRATFDKIGLKN-------------------------A----LVIAGPEVDANFKLA
+ARNIPNVDVLPN---------------AGLNVYDVLR----RQTLVLTKDAVEAISAR--*
+>P1;gi|16120548|ref|NP_403861.1| 50S ribosomal protein L4 [Yersinia ... [ score 129 E 2e-29 ] [ range 88 .. 200 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGALKSILSELVRQ-------------DRLII
+VEKFSVEAPKTKLLAQKLKDMALED---------------------------VLIVTG---ELDENLFLA
+ARNLYKVDV---------------RDVAGIDPVSLIA----FDKVVMTADAVKQVEEML-*
+>P1;gi|43935761|gb|EAG23140.1| unknown [environmental sequence] [ score 129 E 3e-29 ] [ range 3 .. 207 ]
+sequence
+-KVEVVKLPSGKDGTIELSESVFGLEPRKDILHRVVRWQLRS----------------------------
+----------------------------HTHDLNKKVRSLGLKHALSSKLGS-------------GDLVI
+IDKAVIKEGKTKALRKNIQSFG----------------------------KKKLLIIDGPT-VDKNFSMA
+VKNMPNVDLLPS---------------AGANVYDILK----KDILVLTKSGVEALHERLG*
+>P1;gi|15642590|ref|NP_232223.1| ribosomal protein L4 [Vibrio choler... [ score 129 E 3e-29 ] [ range 87 .. 199 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGAMKSILSELVRQ-------------ERLIV
+VENFSVEAPKTKALVAKLKELELND---------------------------VLIVTGEVDE---NLFLA
+ARNLYKVDV---------------RDVTGIDPVSLIA----FDKVLMTAAAVKQVEEML-*
+>P1;gi|37528542|ref|NP_931887.1| 50S ribosomal protein L [Photorhabd... [ score 128 E 4e-29 ] [ range 88 .. 200 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGALKSILSELVRQ-------------DRLIV
+VEKFSVEAPKTKLLVQKLKEMALED------------------------------VLIITNEVDENLFLA
+ARNLYKVDV---------------RDVAGIDPVSLIA----FDKVVMTADAVKQVEEML-*
+>P1;gi|15803846|ref|NP_289880.1| 50S ribosomal subunit protein L4, r... [ score 128 E 4e-29 ] [ range 88 .. 200 ]
+sequence
+--------------------------------------RPQD----------------------------
+----------------------------HSQKVNKKMYRGALKSILSELVRQ-------------DRLIV
+VEKFSVEAPKTKLLAQKLKDMALED---------------------------VLIITG---ELDENLFLA
+ARNLHKVDVRDAT---------------GIDPVSLIA----FDKVVMTADAVKQVEEML-*
+>P1;gi|22998290|ref|ZP_00042390.1| COG0088: Ribosomal protein L4 [Ma... [ score 128 E 4e-29 ] [ range 3 .. 206 ]
+sequence
+-QVPVKDANNQEVRSTELNESVFGREIRADLLGMAVNYQLRD----------------------------
+----------------------------YSHKLNKKVRKLALQTALSVKASS-------------EEMVV
+VDKLELASIKTKEMKALLSTLGAAR-------------------------STFLVV----KELSNEIVLS
+ARNIPNVMV---------------ADVDGVNVYDLLR----YEKLVITEEAVRSLEEKL-*
+>P1;gi|33152957|ref|NP_874310.1| 50S ribosomal protein L4 [Haemophil... [ score 128 E 5e-29 ] [ range 87 .. 199 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGAIKSILSELVRQ-------------ERLVV
+VEKFEVEAPKTKFLVQKLKDLALND---------------------------ALIITASLDE---NLFLA
+ARNLYKVDV---------------RDVQGIDPVSLIA----FDKVVITTDAVKQIEEML-*
+>P1;gi|2500232|sp|P55836|RL4_ACTAC 50S RIBOSOMAL PROTEIN L4 >gi|1841... [ score 128 E 6e-29 ] [ range 87 .. 199 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGAIKSILSELVRQ-------------DRLVV
+VDKFEIDAPKTKVLVQKLKELALED---------------------------VLIITASLDE---NLFLA
+ARNLYKVDV---------------RDAQGIDPVSLIA----FDKVVVTVDAVKQIEEML-*
+>P1;gi|13470552|ref|NP_102121.1| 50S ribosomal protein L4 [Mesorhizo... [ score 128 E 6e-29 ] [ range 3 .. 204 ]
+sequence
+--LKITTLGGKDAGKVKLSEEIFGLDPREDILQRVVRWQLRS----------------------------
+----------------------------HEHDLPKNVRALGLKHALSAKAKS-------------ASIIV
+IDELKLTEAKTKALIANFATLGLSN-------------------------A----LVIGGAELDKNFKLA
+ATNIPNIDVL---------------PIQGINVYDILR----RGTLVLSKAAVEALEER--*
+>P1;gi|43707642|gb|EAF08915.1| unknown [environmental sequence] [ score 128 E 7e-29 ] [ range 1 .. 194 ]
+sequence
+-----------KTGSIELNEDIFGVEVRSDVLARAVRWQLRS----------------------------
+----------------------------HAHRLPKKFRKLALKCALSSKQAD-------------GALVI
+IENSEVKSSKTKDFVKTLDKLGWG---------------------------KVLII--EGQQINDNLAKA
+ANNIVGLDVLPTV---------------GANVYDILR----RDTLVLTKDAVAQLTERL-*
+>P1;gi|15603279|ref|NP_246353.1| RpL4 [Pasteurella multocida] >gi|12... [ score 127 E 7e-29 ] [ range 87 .. 199 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGAIKSILSELVRQ-------------DRLIV
+VEKFEVEAPKTKVLVQKLKELALED---------------------------VLIITASLDE---NLFLA
+ARNLYKVDV---------------RDVQGIDPVSLIA----FDKVVVTVDAVKQIEEML-*
+>P1;gi|32035714|ref|ZP_00135595.1| COG0088: Ribosomal protein L4 [Ac... [ score 127 E 1e-28 ] [ range 87 .. 199 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGAIKSILSELVRQ-------------ERLVV
+VEKFEIEAPKTKVLVQKLKDLALND---------------------------ALIITANLDE---NLFLA
+ARNLYKVDV---------------RDVQGIDPVSLIA----FDKVVITADAVKQIEEML-*
+>P1;gi|24371830|ref|NP_715872.1| ribosomal protein L4 [Shewanella on... [ score 126 E 2e-28 ] [ range 91 .. 200 ]
+sequence
+-----------------------------------------D----------------------------
+----------------------------HSQKVNKKMYRGALKSILSELVRQ-------------DRLVV
+VESFSVEAPKTKELKAKLKAMNLED------------------------------VLIVTSEVDENLFLA
+ARNLYKVDV---------------RDVAGLDPVSLIA----FNTVLVTADAVKQIEEML-*
+>P1;gi|16272719|ref|NP_438937.1| ribosomal protein L4 [Haemophilus i... [ score 126 E 2e-28 ] [ range 87 .. 199 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGAIKSILSELVRQ-------------DRLVV
+VEKFELDAPKTKVLVQKLKDLAVED---------------------------ALIITASLDE---NLFLA
+ARNLYKVDV---------------RDVQGIDPVSLIA----FDKVIVTVDAVKQIEEIL-*
+>P1;gi|44251004|gb|EAH96837.1| unknown [environmental sequence] [ score 126 E 2e-28 ] [ range 36 .. 238 ]
+sequence
+-KVNLINIETEKTSSEDLQDEFFGLDPRKDILHRVVTWQLRD----------------------------
+----------------------------HSTKLPKKIRKLGLRHALSAKAKN-------------NELIL
+VDGNFSDLSKTKSIKDKIEKLDLSN---------------------------SLIVNNFDNDNP--FIKA
+AKNIKNIEFL---------------KVDGINVYDILN----NQKLIITKDSLNNIVER--*
+>P1;gi|15599458|ref|NP_252952.1| 50S ribosomal protein L4 [Pseudomon... [ score 126 E 3e-28 ] [ range 87 .. 200 ]
+sequence
+--------------------------------------KPRS----------------------------
+----------------------------HEQKLNKKMYRAALRSILAELVRL-------------DRLVV
+VADFAVDAPKTKGLVAKLDTLGLKD---------------------------VLIVTDGVDE---NLYLA
+ARNLAHVDV---------------RDVQGSDPVSLIA----YDKVLVTVSAVKKFEELLG*
+>P1;gi|44079225|gb|EAH01410.1| unknown [environmental sequence] [ score 125 E 4e-28 ] [ range 2 .. 205 ]
+sequence
+-KCDIIDLASKKKGAISLDQKVFGVEVRQDILARAVRWQLRS----------------------------
+----------------------------HSLSLPKKVRRLAMKCALSAKHAD-------------GKLVI
+LDSADITSFKTKDLVQQLATLGWE---------------------------KALIIDGI--EVNDNLARA
+ASNIVGLDVLPSS---------------GANVYDILR----RDVLVLTQDAVARLTERL-*
+>P1;gi|44339297|gb|EAI57080.1| unknown [environmental sequence] [ score 125 E 4e-28 ] [ range 83 .. 200 ]
+sequence
+---------------------------------RAFAAKPRD----------------------------
+----------------------------FDQKVNKKMYRGAIKSILSELIRQ-------------DRLVV
+VEKFGVDAPKTKALISALNEYELND---------------------------VLIVTPEVDE---NLFLA
+ARNLYKVDV---------------RDVAGIDPVSLIA----FEKVLMTADAVKQLEEAL-*
+>P1;gi|22297626|ref|NP_680873.1| 50S ribosomal protein L4 [Thermosyn... [ score 125 E 5e-28 ] [ range 82 .. 209 ]
+sequence
+-------------------------------LWRIFGPKPRD----------------------------
+----------------------------YSQKMNRKERRLALRTALMSRVED---------------LIV
+VQDFALPRPKTKELVTALQRWGIEP-------------------------EQKVLLLAA--DITETVALS
+ARNVPTLKLLRADQ---------------LNVFDLLY----ADRIVATTGAIAKIQEVYG*
+>P1;gi|44347699|gb|EAI63015.1| unknown [environmental sequence] [ score 125 E 5e-28 ] [ range 10 .. 200 ]
+sequence
+-------------GALEVSEATFGREFNEALVHQVVVAKPQD----------------------------
+----------------------------HSQKVNRKMYRGAIKSILSELVRQ-------------ERLIV
+VESFGLEAPKTKELVAKLKELELKD------------------------------VLIVTEEVDENLFLS
+ARNLYKVD---------------TRDVAGIDPVSLIA----FDKVLITAAAVKQLEEAL-*
+>P1;gi|44633049|gb|EAK62446.1| unknown [environmental sequence] [ score 125 E 5e-28 ] [ range 2 .. 204 ]
+sequence
+-KVNLVNIETEKTSSEDLQDEFFGLDPRKDILHRVVTWQLRD----------------------------
+----------------------------HSTKLPKKIRKLGLRHALSAKAKN-------------NELII
+VDGNFSDLSKTKTIKDKIEKLELNN---------------------------SLIVNNF--ENNNPFVKA
+AKNLKNVEFLKAD---------------GINVYDILN----NEKLVITKDSLNSIVER--*
+>P1;gi|43569058|gb|EAE39314.1| unknown [environmental sequence] [ score 124 E 8e-28 ] [ range 25 .. 136 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------YSKKLNKKMYRAAIKSIFSELVRQ-------------NRLVA
+IEKPVLEKPKTKEIASFLNEFSL---------------------------SKVLIII---DELDMNLYLS
+ARNIPNVDVIT---------------VREINPVNLLK----PQKVAVTSEALKQIEEW--*
+>P1;gi|34499640|ref|NP_903855.1| 50S ribosomal protein L4 [Chromobac... [ score 124 E 9e-28 ] [ range 2 .. 203 ]
+sequence
+-ELNVINTQGKAVGSLQVSDALFGREYNEALVHQVVTAFLAN----------------------------
+----------------------------HSTKVNRKMYRAGIATILSQLVRD-------------ERLIV
+VDDLSVASPKTKEFVGAVQPMGLE---------------------------QALFIT---NELSENLYLS
+SRNLPNMLVIEAVQA---------------DPYSLLR----FKKTVITRDAVKQLEE---*
+>P1;gi|23108390|ref|ZP_00094614.1| COG0088: Ribosomal protein L4 [No... [ score 124 E 9e-28 ] [ range 2 .. 204 ]
+sequence
+-KVQVLNLDGTAKGEVELSDDVFGLEPRADILHRVVTWQLRE----------------------------
+----------------------------FNISLNKKVRALGLKMALSSKAKA-------------G-LVV
+VDNLDVDA-KTKALVGQLAKANWG--------------------------KKVLVI--DGEGVNDNFAKA
+ARNIVGVNVLPA---------------IGANVYDILK----HDTLVLTRAAVEKLEAR--*
+>P1;gi|44532409|gb|EAJ91321.1| unknown [environmental sequence] [ score 123 E 1e-27 ] [ range 2 .. 205 ]
+sequence
+-KCQVKDFNNKAKGQIELNDNVFGIEPRKDILARTVNWQLRS----------------------------
+----------------------------HGYKLPKKIRKLALKCALSSKQVD-------------GKLLV
+LDNFEV-SGKTKDLLKTIEKFGL----------------------------KSVLFIDGPNQNTA-FAQA
+SSNIPKCDFLPS---------------AGANVYDILR----RDYLVLSREAVQHLEERLG*
+>P1;gi|29348135|ref|NP_811638.1| 50S ribosomal protein L4 [Bacteroid... [ score 123 E 1e-27 ] [ range 2 .. 207 ]
+sequence
+-EVNVYNIKGEDTGKVTLNESIFGIEPNDHAIYRVFGPKPRD----------------------------
+----------------------------YFFKLNKKVKTLARKSALSYKVQN-------------NALIV
+VEDFVFEAPKTKDFVAMTKNLKVSD-------------------------KKLLVILP---EANKNVYLS
+ARNIEGANV---------------QTVSGLNTYRVLN----AGVVVLTENSLKAIDNIL-*
+>P1;gi|33594752|ref|NP_882395.1| 50S ribosomal protein L4 [Bordetell... [ score 123 E 2e-27 ] [ range 80 .. 205 ]
+sequence
+-------------------------------LWRFPNSPEEN----------------------------
+----------------------------FSQKVNKKMYRAGIRSILSQLARE-------------DRVAV
+VDTFTLESPKTKLAAAKLKSLGLDS---------------------------VLIITDNVDE---NVYLA
+TRNLPHVAVVEPRYA---------------DPLSLIH----YKKVLITKPAIAQLEEMLG*
+>P1;gi|37912951|gb|AAR05283.1| ribosomal protein L4 [uncultured mari... [ score 122 E 2e-27 ] [ range 91 .. 201 ]
+sequence
+---------------------------------------PRD----------------------------
+----------------------------YSKKINKKMYRAAIRSIFSELLRQ-------------GRLVA
+IEKPVLDKPKTKEIVSLLNEFSL---------------------------SKVLIII---DELDMNLYLS
+TRNIPNVDVIT---------------VREINPVNLLK----ANKVAVTADAFKQIEEW--*
+>P1;gi|1350752|sp|P49226|RL4_MORMO 50S RIBOSOMAL PROTEIN L4 >gi|1037... [ score 122 E 3e-27 ] [ range 87 .. 199 ]
+sequence
+--------------------------------------KPQD----------------------------
+----------------------------HSQKVNKKMYRGALKSILSELVRQ-------------DRLII
+VEKFAVEAPKTKLLVQKLKDMALED------------------------------VMIVTHEVDENLFLA
+ARNLYKVDV---------------RDVTAIDPVSLIA----FGKVVMTAEAVKQVEEML-*
+>P1;gi|16329940|ref|NP_440668.1| 50S ribosomal protein L4 [Synechocy... [ score 121 E 5e-27 ] [ range 82 .. 209 ]
+sequence
+-------------------------------LWRIFGPKPRD----------------------------
+----------------------------YSQKMNRKERRLALRTAIASRA---------------DNMVV
+VEAFQFSQPKTKELATALTRWGAKP-------------------------EKRVLLI--LDEIPENVFLS
+GRNIPYLKILRADN---------------LNIYDVLV----ADTIVATATALEKIQEVYG*
+>P1;gi|43775439|gb|EAF42201.1| unknown [environmental sequence] [ score 121 E 6e-27 ] [ range 40 .. 151 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------YSKKINKKMYRAAIRSIFSELLRQ-------------EKLVG
+IEKPVLEKPKTKEIANLLKQFSLT---------------------------KVLIIT---EEPDINLYLS
+ARNIPNVDVI---------------SVREINPVILLK----SNKVAVTADALKQIEEW--*
+>P1;gi|45525159|ref|ZP_00176405.1| hypothetical protein Cwat364401 [... [ score 121 E 7e-27 ] [ range 82 .. 208 ]
+sequence
+-------------------------------LWRIFGPKPRD----------------------------
+----------------------------FSKKMNRKERRLALRTAIASRVED---------------MIV
+VENFTLPQPKTKELASALARWGVES-------------------------EKVALVLL---EAGDNIYLS
+ARNLCFVKILRADS---------------LNVYDLLN----ADKIVITSESLSKIQEVY-*
+>P1;gi|44237926|gb|EAH87720.1| unknown [environmental sequence] [ score 120 E 9e-27 ] [ range 2 .. 173 ]
+sequence
+-KLDVLNINGSKNSTITLDDSVFGIEPNHHVVHQAVTSELSN----------------------------
+----------------------------YNKKTTKKMRRLARKSVLSDRVKN-------------GKFIV
+IDDISLEEPKTKLLIDLLSKLDLSD-------------------------QKITLLVDSEK---SNLFLA
+ARNIPNI-----------------------------------------------------*
+>P1;gi|45507567|ref|ZP_00159910.1| hypothetical protein Avar320401 [... [ score 120 E 1e-26 ] [ range 82 .. 208 ]
+sequence
+-------------------------------LWRIFGPKPRD----------------------------
+----------------------------FDLKMNRKERRLALRTALVSRI---------------DDLIL
+VEEFELSRPKTKDLVAAFTRWGAEE-------------------------SKILLIL---SEFPENVYLS
+ARNIENLKLIAADQ---------------LNVYDLLH----ADKIVVTTSALEKIQEVY-*
+>P1;gi|41726314|ref|ZP_00153072.1| hypothetical protein Daro132301 [... [ score 120 E 1e-26 ] [ range 77 .. 207 ]
+sequence
+---------------------------NGSPLWRFPNSPEEN----------------------------
+----------------------------FSQKVNKKMFRAGMAAILSELARQ-------------DRLVV
+IDDLSVDAPKTKLFTQKLKSMGLEG-------------------------NLLVI----TDELNENLYLS
+SRNLPNVLVLEAQEA---------------DPVSLVR----FAKVLVTKNAVAKFEEMWG*
+>P1;gi|43465205|gb|EAD87313.1| unknown [environmental sequence] [ score 120 E 1e-26 ] [ range 62 .. 172 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------YSKKINKKMYKAALRSIFSELLRQ-------------EKLIA
+IEHPKIKNPKTKEMVSFLSKLSLEN------------------------------VLIITDEIDKNLHLA
+SRNIPHVNVVTTAE---------------INPVMLLK----PHKVAITPAAFKKIEE---*
+>P1;gi|43509159|gb|EAE09306.1| unknown [environmental sequence] [ score 120 E 1e-26 ] [ range 90 .. 201 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------FSKKINKKMYRAAIKSIFSELVRQ-------------NRLVA
+IEKPVLEKPKTKEIANFLNEFSL---------------------------SKVLIII---DELDINLYLS
+ARNIPNVDVIT---------------VREINPINLLK----PQKVAVTSEALKQIEEW--*
+>P1;gi|44473717|gb|EAJ52075.1| unknown [environmental sequence] [ score 119 E 2e-26 ] [ range 90 .. 201 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------FSKKINKKMYRAAIKSIFSELVRQ-------------NRLVA
+IEKPVLEKPKTKEIASFLKEFSL---------------------------SKVLIIT---EELDINLYLS
+ARNIPNVEVIT---------------VREINPINLLK----PQKVAVTSEALKQIEEW--*
+>P1;gi|44489365|gb|EAJ62986.1| unknown [environmental sequence] [ score 119 E 2e-26 ] [ range 92 .. 204 ]
+sequence
+--------------------------------------KPRD----------------------------
+----------------------------YSKKINKKMFRGAMRSIFSELVRQ-------------KRFIC
+VDEFDVAESKTKLVKDKLDKLGL---------------------------KEALIITEGLSE---NLYLG
+VRNIPKVDVMDTNE---------------IDPYSLIG----FEKVLITQTAVEKVEEWL-*
+>P1;gi|44530799|gb|EAJ90233.1| unknown [environmental sequence] [ score 119 E 2e-26 ] [ range 2 .. 204 ]
+sequence
+-KLKVIKINGASAGSVELGDDIFGLDPRVDILHRVVRWQPRS----------------------------
+----------------------------HAHDLPKKVRTLGLKHALSAKAKE-------------GALVI
+IDKAT-ASGKTAELAKQVKELGW---------------------------KKALVI--DGAEVNNDFAQA
+ARNIEGLDILPT---------------IGANVYDILK----RDTLVLTKAGVEALEARL-*
+>P1;gi|44211529|gb|EAH72573.1| unknown [environmental sequence] [ score 119 E 2e-26 ] [ range 2 .. 204 ]
+sequence
+-KLKVIKIDGASAGSVELVDEIFGLDPRVDILHRVVRWQPRS----------------------------
+----------------------------HAHDLPKKVRTLGLKHALSAKAKE-------------GALVV
+LDKAT-ASGKTSELAKQVKELGW----------------------------KRALVIDGV-EVNGEFAQA
+ARNIEGLDILPT---------------IGANVYDILK----RDTLVLTKAGVEALEARL-*
+>P1;gi|44517115|gb|EAJ80966.1| unknown [environmental sequence] [ score 118 E 3e-26 ] [ range 90 .. 201 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------FSKKINKKMYRAAIKSIFSELVRQ-------------NRLVA
+IEKPVLEKPKTKEIANFLKEFSL---------------------------SKVLIII---DELDMNLYLS
+ARNIPNVDVIT---------------VKEINPVNLIK----SHKVAVTSEALKQIEEW--*
+>P1;gi|44482841|gb|EAJ58597.1| unknown [environmental sequence] [ score 118 E 3e-26 ] [ range 90 .. 201 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------FTKKVNKKMYRAAIKSIFSELVRQ-------------NRLVA
+IEKPVLEKPKTKEIANFLKEFSL---------------------------SKVLIII---DELDMNLYLS
+ARNIPNVDVIT---------------VREINPVNLIK----SNKVAVTSEALKQIEEW--*
+>P1;gi|43187805|gb|EAC59440.1| unknown [environmental sequence] [ score 118 E 4e-26 ] [ range 47 .. 158 ]
+sequence
+--------------------------------------RPRN----------------------------
+----------------------------FSKKINKKMYRAAIKSIFSELVRQ-------------NRLVA
+IEKPVLEKPKTKEIANFLNEFSL---------------------------SKVLIIM---DELDTNLYLS
+ARNIPNVDVIT---------------VREINPINLLK----PQKVAVTSEALKLIEEW--*
+>P1;gi|43598865|gb|EAE54292.1| unknown [environmental sequence] [ score 118 E 4e-26 ] [ range 90 .. 201 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------FSKKINKKMYRAAIKSIFSELVRQ-------------NRLVA
+IEKPVLKKPKTKEIASFLNEFSL---------------------------SKVLIIT---DELDMNLYLS
+ARNIPNVDVIT---------------VREINPVNLLK----PQKVAVTGEALKQIEEW--*
+>P1;gi|45513658|ref|ZP_00165224.1| hypothetical protein Selo142301 [... [ score 118 E 4e-26 ] [ range 82 .. 209 ]
+sequence
+-------------------------------LWRIFGPKPRD----------------------------
+----------------------------YSVKMNRKERRLALRTALISRSAD---------------LVV
+VQEFQISRPKTRDVAEALTRWGVEP-------------------------GKVLLITADRDQ---NVELS
+VRNLPNVKLITATN---------------LNIFDLLN----ADRIVSTSAALEKIQEVYG*
+>P1;gi|15605617|ref|NP_212990.1| ribosomal protein L04 [Aquifex aeol... [ score 118 E 5e-26 ] [ range 2 .. 193 ]
+sequence
+-----------KIGDVEVRDDVFNVKVKKHVLWEVVKWQLRD----------------------------
+----------------------------YEYPLPKRVRKLGLKMALSDKARN-------------NAIIF
+VDNIDLKKPKTKKAIEFLKNLGVEK-------------------------EKVLVVIPEKADV---LYKS
+FRNLPNVRVLLP---------------EGLNVYDVLW----ANKLVIQKDCLDRI-----*
+>P1;gi|41690662|ref|ZP_00147194.1| hypothetical protein Psyc080601 [... [ score 118 E 5e-26 ] [ range 82 .. 199 ]
+sequence
+---------------------------------RAFAAKPQD----------------------------
+----------------------------WSQKVNRKMYRGAMQCILAELIRQ-------------ERLIL
+VEEISVSGPKTKELIAKLNELGAP---------------------------RALIVT---KEVDENLYLA
+ARNIPHVNVLDTSE---------------VDPVSLIA----FDKVIMSVEAAKQFEEAL-*
+>P1;gi|43767161|gb|EAF38023.1| unknown [environmental sequence] [ score 118 E 6e-26 ] [ range 90 .. 201 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------FSKKINKKMYRAAIKSIFSELVRQ-------------NRLVA
+IEKPVLKKPKTKEIANFLNEFSL---------------------------SKVLIIT---DELDMNLYLS
+ARNIPNVDVI---------------SVREINPINLLK----PQKVAVTSEALKQIEEW--*
+>P1;gi|43681732|gb|EAE95994.1| unknown [environmental sequence] [ score 118 E 6e-26 ] [ range 40 .. 150 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------YSKKINKKMYKAALRSIFSELLRQ-------------EKLVA
+VEHPKIKNPKTKEMVSFLSKLSLEN------------------------------VLIITDEIDKNLHLA
+SRNIPHVNVVTTSE---------------INPVMLLK----PHKVAITPAAFKKIEE---*
+>P1;gi|23124125|ref|ZP_00106136.1| COG0088: Ribosomal protein L4 [No... [ score 118 E 6e-26 ] [ range 92 .. 220 ]
+sequence
+-------------------------------LWRIFGPKPRD----------------------------
+----------------------------FDLKLNRKERRLALRTAFVGRI---------------DDLIV
+VEEFELSRPKTKDLVAALARWGVVP-------------------------ESKALLILSEIADTDNVYLS
+ARNIENLKLIAANQ---------------LNVFDLLH----ADKIVVTASALEKIQEVY-*
+>P1;gi|44186995|gb|EAH59372.1| unknown [environmental sequence] [ score 117 E 8e-26 ] [ range 2 .. 200 ]
+sequence
+-KLDLLNAENKK-SDVQISETTFGKDFNESLVHQAVVTYLAD----------------------------
+----------------------------YSKKINKKMYRAAISSIFSELHRQ-------------DRLVA
+IQQPKFEAPKTKEMNSFLQQFDL---------------------------KNVLIIL---DEMDTNMYLS
+ARNIPNVDVVT---------------VKEINPVILLR----SEKVAVTPAAFKLIE----*
+>P1;gi|43031527|gb|EAB82403.1| unknown [environmental sequence] [ score 117 E 9e-26 ] [ range 2 .. 191 ]
+sequence
+----------------ELNEGMFGLEPRSDILNKVVRWQLRS----------------------------
+----------------------------HAFSLNKKVRSLGLKHALSAKYTS-------------GKLVI
+LEKAELKNEKTQDFAKAIKKLGWG---------------------------RTLVIGNGETPTGQNFIKA
+SRNIPSVDVL---------------PVEGINVYDVLK----KDTLVLTKAAVVALEER--*
+>P1;gi|23042769|ref|ZP_00074128.1| COG0088: Ribosomal protein L4 [Tr... [ score 117 E 1e-25 ] [ range 82 .. 209 ]
+sequence
+-------------------------------LWRIFGPKPRD----------------------------
+----------------------------YSHKMNRKEKRLALSTAFQS--RS-------------EDLIV
+IEDLSFTKPKTKELVQAITRWGIDQ-------------------------AKIVLVLPEKQE---NVYLS
+GRNIAKLKIILANN---------------LNIYDILA----ADKIIATVTAIAKIQEVYG*
+>P1;gi|37519655|ref|NP_923032.1| 50S ribosomal protein L4 [Gloeobact... [ score 117 E 1e-25 ] [ range 82 .. 210 ]
+sequence
+-------------------------------LWRIFGPKPRD----------------------------
+----------------------------FEIKMNRKERRLALRTALQSRVED---------------LIV
+VDEFELAAPKTRELVQAFERWGVDM-------------------------ASQSILLILR-ERQTNTYLS
+ARNLPNVKVITAGN---------------LNVRDLLA----TDWIVVTGPALELIKETYG*
+>P1;gi|7674307|sp|Q9ZI49|RL4_AQUPY 50S ribosomal protein L4 >gi|4165... [ score 117 E 1e-25 ] [ range 2 .. 193 ]
+sequence
+-----------KIGDVEVRDDVFNVKVKKHVLWEVVKWQLRD----------------------------
+----------------------------YEYPLPKKVRKLGLKMALSDKAQN-------------DAIMF
+VDNIDLEQPKTKKAVEFLKNLGVDK-------------------------ETLLIVIPEKNEV---LYKS
+FRNLQNVRVLLP---------------EGLNVYDVLW----ANKLVIHKECLDRI-----*
+>P1;gi|43102781|gb|EAC17456.1| unknown [environmental sequence] [ score 117 E 1e-25 ] [ range 41 .. 153 ]
+sequence
+---------------------------------------PRD----------------------------
+----------------------------FTQKVNRKMYRGAMRSMLSELVRQ-------------DRLLL
+TEKFSVSAPKTKELVAKLDKLKLGS---------------------------ALIVVEGFDRD---LLLA
+ARNLPAVEV---------------QDAQSVDPVNLIK----YDKVLMTVAAVKLLEERLG*
+>P1;gi|43019222|gb|EAB76308.1| unknown [environmental sequence] [ score 117 E 1e-25 ] [ range 2 .. 204 ]
+sequence
+-KLKVIKIDGASAGSVELGDEIFGLDPRVDILHRVVRWQPRS----------------------------
+----------------------------HAHDLPKKVRTLGLKHALSAKAKE-------------GALVI
+LDKAT-ASGKTSELAKQVKELGW---------------------------KRALVI--DGAEVNGDFAQA
+AKNIEGLDILPT---------------IGANVYDILK----RDTLVLTKAGVEALEARL-*
+>P1;gi|39938687|ref|NP_950453.1| ribosomal protein L4 [Onion yellows... [ score 117 E 2e-25 ] [ range 3 .. 206 ]
+sequence
+-KINILNQQGDFVSEKVLATTVFDIKPNQQVLYDVVNAQPRD----------------------------
+----------------------------YSVKVNQKVRSLALKSALSLQAKN-------------NQLVV
+VDNINLATHKTKDFQQMLQKLNITS-------------------------KSLIVVTQMTEQ----LALA
+SRNLSYITLETAS---------------HASVYQILN----CKQLVLTAAAVNYFEEVL-*
+>P1;gi|44430776|gb|EAJ21810.1| unknown [environmental sequence] [ score 117 E 2e-25 ] [ range 82 .. 199 ]
+sequence
+---------------------------------RAFAARPRD----------------------------
+----------------------------FSQKVNKKMYRAAMRSILSELLRE-------------DRLVV
+LDKFDIKQPKTKEFKKLTKKLKADS---------------------------ALIVNDKFDE---NLFLS
+SRNIKN---------------MEYSEVSSINPVSLMK----YEKVIINVESLKIIEERL-*
+>P1;gi|29653591|ref|NP_819283.1| ribosomal protein L4 [Coxiella burn... [ score 117 E 2e-25 ] [ range 81 .. 204 ]
+sequence
+-------------------------------LWRAFAAKPRD----------------------------
+----------------------------FTQKVNRKMYRSAMASILSELIRR-------------EQLVV
+VDSLKLNEPKTRELKESLKKLNLGN---------------------------VLIIIDGDD---RNINLA
+SRNMVGVSVCDAL---------------HVDPVSLVA----AENIVVTVDAVKRLEERL-*
+>P1;gi|30248419|ref|NP_840489.1| Ribosomal protein L4/L1e [Nitrosomo... [ score 116 E 2e-25 ] [ range 81 .. 205 ]
+sequence
+-------------------------------LWRFPNKPTEN----------------------------
+----------------------------FKQKLNRKMYRAGMCTIFSELLRN-------------NKLVA
+IDEFQIEMPKTKVCLQKLKNYQLEN------------------------------VMIITSEIDSNLYLA
+SRNLPNLKVV---------------EVDLIDPVSLLA----YDNVVITRDTVNKIENVL-*
+>P1;gi|44259538|gb|EAI02586.1| unknown [environmental sequence] [ score 116 E 2e-25 ] [ range 82 .. 199 ]
+sequence
+---------------------------------RAFAARPRN----------------------------
+----------------------------FSQKVNKKMYRAAMRSILSELLRE-------------DRLVV
+LDKFDIKQPKTKEFKKLTEKLKADS---------------------------ALIVNDKFDE---NLFLS
+SRNIKNIE---------------YSDVSSINPVSLMK----YEKVIINVESLKIIEERL-*
+>P1;gi|3122740|sp|O06114|RL4_MYCSM 50S RIBOSOMAL PROTEIN L4 >gi|2113... [ score 116 E 2e-25 ] [ range 4 .. 202 ]
+sequence
+-KVDVKTPAGKTDGSVELPAELFDVEPNIALMHQVVTAQLRD----------------------------
+----------------------------YSQRTPKKMIAAALRGALSDRARN-------------DRIHA
+VTELEGQTPSTKSAKTFLGTLT-EN-------------------------KKVLVVIGRTDEVG---AKS
+VRNLPGVHVISPDQ---------------LNTYDVLN----ADDVVFSVEALN-------*
+>P1;gi|34541540|ref|NP_906019.1| ribosomal protein L4 [Porphyromonas... [ score 115 E 3e-25 ] [ range 2 .. 205 ]
+sequence
+-ELSVYNIKGEDTGKVVLDDSIFAIEPNDHAIYRVFGPRPRN----------------------------
+----------------------------YSFKLNKKLKALARRSALSYKAKN-------------NEIIV
+VEDFNFDAPKTKAFKAISAALKVGE-------------------------KKVLYVLP---EVNKNVYLS
+ARNLPNTNLILANL---------------INTYTVLA----SKNLVLTERSVAVVNE---*
+>P1;gi|22978506|ref|ZP_00024257.1| COG0088: Ribosomal protein L4 [Ra... [ score 115 E 4e-25 ] [ range 81 .. 205 ]
+sequence
+-------------------------------LWRFPNSPEEN----------------------------
+----------------------------FSQKVNKKMFRAGMRSIYSQLARE-------------GRINV
+VDGFAVDAPKTKLLADKFKAMGLDS------------------------------VLIITDNLDENLYLA
+SRNLPNVAVVEPR---------------HADPLSLVH----YKKVLVTKAAVAQIEELL-*
+>P1;gi|43857040|gb|EAF82609.1| unknown [environmental sequence] [ score 115 E 4e-25 ] [ range 21 .. 129 ]
+sequence
+---------------------------------------PRD----------------------------
+----------------------------YSKKINKKMYRAAISSIFSELHRQ-------------ERLVA
+IEQPKFEAPKTKEMNNFLEQFNL---------------------------KNVLIIL---DEMDTNLYLS
+ARNIPHVDIVT---------------VKEINPVILLR----SEKVAVTPAAFKLIE----*
+>P1;gi|22982022|ref|ZP_00027347.1| COG0088: Ribosomal protein L4 [Bu... [ score 115 E 5e-25 ] [ range 81 .. 205 ]
+sequence
+-------------------------------LWRFPNSPEEN----------------------------
+----------------------------FSHKVNKKMHRAGLCSIFSQLARE-------------GRISV
+VDELTLEAPKTKLLAEKFKAMGLDS---------------------------VLVITDTVDE---NLYLA
+SRNLAHVAVVEPRYA---------------DPLSLIY----FKKILITKAAVAQIEELL-*
+>P1;gi|34849394|gb|AAP58893.1| ribosomal protein L4 [Spiroplasma kun... [ score 115 E 6e-25 ] [ range 97 .. 207 ]
+sequence
+----------------------------------------------------------------------
+----------------------------YLKHVNKKVRKLAIKSAFSLKVQD-------------KNIMI
+IDQFGIDKPSTKAMVKVLNNLKVNG-------------------------EKLLIITTEGDEVN---FKS
+SRNIEKVNIITS---------------AGINIYDLLN----ANKLLVTEQAIKAIEEVY-*
+>P1;gi|44375673|gb|EAI82878.1| unknown [environmental sequence] [ score 114 E 6e-25 ] [ range 81 .. 205 ]
+sequence
+-------------------------------LWRFPNSPEEN----------------------------
+----------------------------FSHKVNKKMHRAGLCSIFSQLARE-------------GRLSV
+VEDIILEAPKTKLLAEKFKTMGLDS---------------------------VLIITDTVDE---NLYLA
+SRNLPHVAIVEPRYA---------------DPLSLIY----FKKVLVTKAAVAQIEELL-*
+>P1;gi|15617117|ref|NP_240330.1| 50S ribosomal protein L4 [Buchnera ... [ score 114 E 7e-25 ] [ range 92 .. 200 ]
+sequence
+----------------------------------------------------------------------
+----------------------------HSQKVNKKMYRGALKSIFSELIRQ-------------KRLIV
+FENFSLDAPKTKLLVQKLKDINLKN------------------------------VLIVTNKIDNNLFLA
+SRNLYSVDV---------------KDVHSIDPVSLIA----FDHVVITVEAVKRIEEIL-*
+>P1;gi|15676070|ref|NP_273201.1| 50S ribosomal protein L4 [Neisseria... [ score 114 E 7e-25 ] [ range 81 .. 203 ]
+sequence
+-------------------------------LWRFPNKPDEN----------------------------
+----------------------------FTQKVNRKMYRAGMATILSQLTRD-------------ERLFA
+IEALTAETPKTKVFAEQVKNLGLEQ------------------------------VLFVTKQLDENVYLA
+SRNLPNVLVLEAQQ---------------VDPYSLLR----YKKVIITKDAVAQLEE---*
+>P1;gi|44021831|gb|EAG69822.1| unknown [environmental sequence] [ score 114 E 7e-25 ] [ range 49 .. 169 ]
+sequence
+----------------------------------VFGPKPRS----------------------------
+----------------------------YELDMNRKERRLALRTALMSRSED-------------MVVVK
+AFGDKLAKPKTKEVLSALERWGIAG-------------------------TKVLMVLA---DISDNVKLS
+VRNLPELKLIAADQ---------------LNVFDLLN----AKKLVLSEDALAKIQEVYG*
+>P1;gi|43331184|gb|EAD31110.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 5 .. 206 ]
+sequence
+----ILNLKNNEVGTIELDENIFGQKILPDILHQYVRYQNRD----------------------------
+----------------------------HSFNLNKKERKLALKSALSSKLNE-------------NKLFI
+IDTFKIDSHKTKDLN---KNLKYFD-------------------------YNSALFIYEKEGVDKNFKLA
+SSNIPKISIL---------------NQNGINVKDIIT----FDKVFIEQNCLEEISKRL-*
+>P1;gi|21674997|ref|NP_663062.1| ribosomal protein L4 [Chlorobium te... [ score 113 E 2e-24 ] [ range 2 .. 208 ]
+sequence
+-ELKVLNIQGAETGEVTLNDEIFAVEVSEHAMYLDVKAILAN----------------------------
+----------------------------YDQKVNRKVKQLARRSALSAKAAA-------------GQIVV
+VDDFSFEAIKTRPVADMLKNLGLAE-------------------------KKTLLMMPHHDNV---VSTS
+GRNIEKLNVMVADQA---------------STYDILN----SQVVLFQKGALQKIEETLG*
+>P1;gi|43956648|gb|EAG34462.1| unknown [environmental sequence] [ score 113 E 2e-24 ] [ range 5 .. 201 ]
+sequence
+-----IEISGTGDKSVELSDVVFGCDYNEPLVHQVVTAKPRS----------------------------
+----------------------------YAQKVNKKMYRGAIRTIFSELLRS-------------GRLLL
+VEDFVTSTPKTKEFKQKLAQIGVDD-------------------------C--LIIGKGIDE---NTLLA
+SRNIPKVFV---------------AEWVAVDPVLLLS----YQKVVLTQSALPEVEE---*
+>P1;gi|43881754|gb|EAF94864.1| unknown [environmental sequence] [ score 113 E 2e-24 ] [ range 82 .. 201 ]
+sequence
+---------------------------------RIFGPRPRN----------------------------
+----------------------------YHFKINVKVKRLARKSAFSYKAKS-------------KDILV
+LEDLNYDTPKTKEFISLMSSLKLQD-------------------------DKILLVLGTQNDQ---VYKS
+ARNLKKVKVVTADT---------------LNTFDLLN----AKKVVLSESSLEKIENIL-*
+>P1;gi|21230365|ref|NP_636282.1| 50S ribosomal protein L4 [Xanthomon... [ score 112 E 3e-24 ] [ range 6 .. 200 ]
+sequence
+---------TGSNNKVSVSDAVFGREFSEDLVHQVVVAKPRS----------------------------
+----------------------------FEQKVNRKMYRAAICAIFSELNRQ-------------GRLMI
+VDSFDIEATKTKGLIEKLKGMDVG--------------------------KRPLIVT---EEASEHLYLS
+ARNLPYVQV---------------RDVQGLDPVALVG----ADTVVITADAVKKVEEWL-*
+>P1;gi|21241738|ref|NP_641320.1| 50S ribosomal protein L4 [Xanthomon... [ score 112 E 4e-24 ] [ range 6 .. 200 ]
+sequence
+---------TGSNNKVSVSDAVFGREFSEDLVHQVVVAKPRS----------------------------
+----------------------------FEQKVNRKMYRAAICAIFSELNRQ-------------GRLMI
+VDAFDLEATKTKGLIEKLKGLEVG--------------------------KRPLIVT---EEASEHLYLS
+ARNLPYVQV---------------RDVQGLDPVALVG----ADTVVITADAVKKVEEWL-*
+>P1;gi|43462491|gb|EAD85919.1| unknown [environmental sequence] [ score 112 E 5e-24 ] [ range 71 .. 188 ]
+sequence
+-----------------------------------MGPVPRD----------------------------
+----------------------------HSFSLNKKERKLALKSALSSKFNE-------------NNIVF
+LDKLEITTHKTKYLVSMLNKFEFN----------------------------SALFVYGDEKLNENFKKA
+SSNIPRISLL---------------NCNGINVKDLIS----SQKVFIDEKSVAQITKKL-*
+>P1;gi|42922676|gb|EAB28391.1| unknown [environmental sequence] [ score 111 E 5e-24 ] [ range 1 .. 190 ]
+sequence
+---------------IDLDESIFGLPARADLLHRAVNWQLRS----------------------------
+----------------------------HAHGLTKKVRRLALKTALSSKQAD-------------GKLVV
+LESATSKDGKTSALSRQFRGLGWDS-------------------------A----LVIAGADVDENFAQA
+ISNIREVDVLPQT---------------GANVYDILR----RDKLVLTKDAVEQLQERL-*
+>P1;gi|39997948|ref|NP_953899.1| ribosomal protein L4 [Geobacter sul... [ score 111 E 6e-24 ] [ range 2 .. 205 ]
+sequence
+ATIDVFDISKNKVGVMDLNDNVFNGEVKEYLIHEAIKVQLAN----------------------------
+----------------------------YNLSMNKKARKAAVRSALSMLYKE-------------NKLSV
+LDSFTLPSISTKGFVTVLKAFDL---------------------------AKTLVVV---DEPNLNLELS
+ARNVKDVKVLKA---------------EHLNVFDIVK----YNNIIVTQSAVRTIEGVL-*
+>P1;gi|43300374|gb|EAD15953.1| unknown [environmental sequence] [ score 111 E 8e-24 ] [ range 65 .. 192 ]
+sequence
+-------------------------NPLYKGGGRVFGPRVRD----------------------------
+----------------------------YNISLNSKTKKIAKCSALSYKTKD-------------NTLFV
+VDSFKMKAPKTKEYVEILKDLKVTE-------------------------GHSLLVTESTNEE---LYKS
+GRNLQNTQVIGAAE---------------LNTYEIMK----AKNIVFEEAAIVKLEENL-*
+>P1;gi|44494837|gb|EAJ66028.1| unknown [environmental sequence] [ score 110 E 9e-24 ] [ range 2 .. 206 ]
+sequence
+-KKQVVNLENKKIKDIEIDGSIFGIKILPDIIHQYIRYQNRD----------------------------
+----------------------------HSFSLNKKEKKLALKSALSSKLYE-------------NEIII
+LDKLEVKTHKTKELISNLNNFDFN----------------------------SALFVFGDEKINDNFKKA
+SSNIPHVSTL---------------NCSGINVKDLIT----NHKIFIDEKSIDQLTKRL-*
+>P1;gi|17547737|ref|NP_521139.1| PROBABLE 50S RIBOSOMAL PROTEIN L4 (... [ score 110 E 1e-23 ] [ range 81 .. 205 ]
+sequence
+-------------------------------LWRFPNSPEEN----------------------------
+----------------------------FSQKVNKKMYRAGMRSIYSQLARE-------------GRINV
+VDSLSVDAPKTKLLADKFRAMGLDS------------------------------VLVITDNLDENLFLA
+SRNLAHVLVVEPR---------------HADPLSLVH----YKKVLVTKAAVAQIEELL-*
+>P1;gi|43252144|gb|EAC91773.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 37 .. 149 ]
+sequence
+---------------------------------------VRS----------------------------
+----------------------------HAYKLPKKIRKLALKSALSSKQVE-------------GKLLV
+LENFNV-SGKTKELVKAIQKFGL----------------------------KSVLFIDGPNQNQAFLQ-A
+AKNIPKCDFLPSV---------------GANVYDILR----RDYLVLSREAVQNLEERLG*
+>P1;gi|44486982|gb|EAJ61403.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 24 .. 135 ]
+sequence
+----------------------------------------RS----------------------------
+----------------------------HSFKLPKKVRRLALKTALSSKKSD-------------GNLFV
+IDNVTLDKPSTASLVASFKSLGWGS-----------------------------VLIVQGNDLDKNFSYS
+IRNIPKADVI---------------SVNGINVYDILR----KDVLVLTREAAEILEERL-*
+>P1;gi|33866600|ref|NP_898159.1| 50S ribosomal protein L4 [Synechoco... [ score 110 E 2e-23 ] [ range 89 .. 209 ]
+sequence
+----------------------------------VFGPKPRT----------------------------
+----------------------------YNLAMNRKERRLALRTALMARVED-------------VTVVK
+DFGTSLEAPKTKEITDALGRLGIAD-------------------------AKVLIVLTEPSDV---VRRS
+VRNLEKVKLIAANQ---------------LNVFDLLH----ANALVLGEDALATIQEVYG*
+>P1;gi|44244534|gb|EAH91844.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 80 .. 204 ]
+sequence
+-------------------------------LWRAFASSNRD----------------------------
+----------------------------YAKKINKKMYRAAIKSILSELFRQ-------------ERILA
+LSKPKLKAPKTKEMVKVLKENKLEK-------------------------ESILFIL---DEIDLNFHLS
+ARNIPNVEVAT---------------VKEINPVLLLR----SEKVVIVPEAFKLIEDW--*
+>P1;gi|43714738|gb|EAF12428.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 73 .. 189 ]
+sequence
+-----------------------------------PKGELAY----------------------------
+----------------------------KKRKLNKNEKRLSIASIISEKNKH-------------KNLIV
+FDDFKNEIKKTKDMNLIIKKFDITN-------------------------SLIIL----DKSSKNNIERS
+VRNIPNIKV---------------TDVNHFSAFDIVK----FKKIVLTESSVKELEKRY-*
+>P1;gi|43460763|gb|EAD85050.1| unknown [environmental sequence] [ score 109 E 3e-23 ] [ range 2 .. 206 ]
+sequence
+-KKQVVNLENKKVKDLDINTNVFGIKLLPDIIHQYIRYQNRD----------------------------
+----------------------------HSFSLNKKEKKLAIKSALSSKLLE-------------DNIIF
+LDTLEIKNHKTKELVTKLNNFNFN----------------------------TALFVYGDEKIDDNFKKA
+SSNIPHVSIL---------------SCSGINVKDLIS----NHKIFIDEKSVDQITKRL-*
+>P1;gi|6919958|sp|O80361|RK4_TOBAC 50S RIBOSOMAL PROTEIN L4, CHLOROP... [ score 109 E 3e-23 ] [ range 133 .. 253 ]
+sequence
+----------------------------------VFGPKPKD----------------------------
+----------------------------WSVKINKKEKRLAISTALSS--AS-------------ENTIV
+VEEFKFEKPKTKEFIDLMRRWGLDP-------------------------KKSLFLMTDVSD---NVILS
+SRNIGTLKMLTPRT---------------LNLFDILD----SEKLVLTKSAVDFLNERYG*
+>P1;gi|22998171|ref|ZP_00042306.1| COG0088: Ribosomal protein L4 [Xy... [ score 108 E 4e-23 ] [ range 83 .. 201 ]
+sequence
+----------------------------------AFAAKPRS----------------------------
+----------------------------FSQKVNRKQYRSAICSIFSELNRQ-------------GRLKV
+VDAFDVEVSKTKAFAEKIKSLELVG-------------------------SSLLIV---SDEISECLSLS
+SRNLPCVDV---------------RSVQALDPVALVG----SDVVVLTVGAVKKIEEWL-*
+>P1;gi|43513789|gb|EAE11621.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 5 .. 115 ]
+sequence
+----------------------------------------RD----------------------------
+----------------------------YSKKVNRKMFRGAMRSIFSELIRQ-------------ERFIC
+IDEFDVTESKTRLVKDKLNKFGL---------------------------KEALIITEGLSE---NLYLG
+VRNIPKVDVMDTNE---------------LNPYSLVG----FEKILITQAAVEKVEEWL-*
+>P1;gi|42944040|gb|EAB39031.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 2 .. 206 ]
+sequence
+-KISVLNLKNKSVGDINLDSNIFGVKTFPDLIHQYIRYQNRD----------------------------
+----------------------------HSFNLNKKEKKLALKSALSTKFTD-------------EKVVI
+IDTFEIKSFKTKELHS---DLKLFD-------------------------YKSALFIHSESGIDKNFKLA
+SANIPKVSIL---------------NQKGINVKDLIS----FDKIFIEQKSINEITKRL-*
+>P1;gi|42929227|gb|EAB31603.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 56 .. 172 ]
+sequence
+-----------------------------------PKGQSAY----------------------------
+----------------------------KKRKLNKSEKRLSIASLISEKKKN-------------DNLII
+FSDFGSEIKKTKEMNNILKKFEILN-------------------------SLIIL----DKNSKDKIEKS
+IRNIPNIKV---------------TDVNHFSAFDIVK----FKKVVFTESSVKELEKRY-*
+>P1;gi|43855777|gb|EAF82043.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 54 .. 170 ]
+sequence
+-----------------------------------PKGELAY----------------------------
+----------------------------KKRKLNKSEKKLSIVSLISEKNKN-------------NNLLI
+FSDFSSEIKKTKEMSIILKKFEIND-------------------------SLIIL----DKNSKQNIEKS
+ARNIPNIKI---------------TDINHFSAFDLVK----FKKIVFTESSVKELEKRY-*
+>P1;gi|21672769|ref|NP_660836.1| 50S ribosomal protein L4 [Buchnera ... [ score 108 E 5e-23 ] [ range 88 .. 200 ]
+sequence
+--------------------------------------KPQS----------------------------
+----------------------------HSQKINKKMYRGALKSIFSELIRQ-------------KRLII
+FEKFSLDLPKTNLLVKKLKEIKLNN------------------------------VLILTKEIENNLFLA
+SRNLYSVDV---------------KDVCSMDPVSLIA----FEHIIITVAALKKVEEML-*
+>P1;gi|15892928|ref|NP_360642.1| 50S ribosomal protein L4 [Rickettsi... [ score 108 E 5e-23 ] [ range 2 .. 206 ]
+sequence
+-KTKILSLANEEVGEISLNEDIFAVEIRDDIIKQVIDWQVRS----------------------------
+----------------------------HATKLPKKVRKLGLIHALSEKCAE-------------GKLLV
+IDSLKLDKPKTSALVNILNKFQ----------------------------GKSFFVIDG-NEVDINFSLA
+AKNIYN---------------TVIVPQIGANVYDIIR----HEYVLLSQEAVSVLEERL-*
+>P1;gi|43955157|gb|EAG33658.1| unknown [environmental sequence] [ score 108 E 6e-23 ] [ range 47 .. 164 ]
+sequence
+-----------------------------------MGPQNRD----------------------------
+----------------------------HSFSLNKKEKKMALKSALSIKLSE-------------DKIIF
+LDSLEIKSHKTKDLNKKLEKFNF----------------------------QSALFIHDNNENNVNFIRA
+SSNIPRLSLLL---------------EKGLNVKDIIS----YDKIFIEKNALEQIKKRL-*
+>P1;gi|18311386|ref|NP_563320.1| 50S ribosomal protein L4 [Clostridi... [ score 108 E 6e-23 ] [ range 3 .. 167 ]
+sequence
+-KVGLFNKEGQQVGDIQLNEQVFGVEVNKYALHQVVVAQLRD----------------------------
+----------------------------YRMSIPKSMRKVAMTSALTSKVAD---------------MVV
+LEDLTFEAPKTKEAVKMLNAFEA---------------------------KKTLIITA---EVNENVYKS
+ARNI--------------------------------------------------------*
+>P1;gi|33864000|ref|NP_895560.1| 50S ribosomal protein L4 [Prochloro... [ score 108 E 7e-23 ] [ range 90 .. 209 ]
+sequence
+-----------------------------------FGPKPRT----------------------------
+----------------------------YNLAMNRKERRLALRTALMARIED---------------VIV
+VKDFSLKVPKTREISDALIRLGLAD-------------------------AKVLIILSTPSEI---IRRS
+VRNLEKVKLIAADQ---------------LNVFDLLH----ANSLVLSEEALAKIQEVYG*
+>P1;gi|44069559|gb|EAG96055.1| unknown [environmental sequence] [ score 108 E 7e-23 ] [ range 44 .. 161 ]
+sequence
+----------------------------------AFGPVVRS----------------------------
+----------------------------HNSSLPKKVRRLALKTALSSKQLN-------------GQLVV
+LDEAKVETSKTSELVKKIEKLNWGN-----------------------------VLLIDGGEIDQNFLRA
+SKNIANFDILPT---------------IGANVYDILR----HDTLVITRLGVDMLQERL-*
+>P1;gi|43851432|gb|EAF79927.1| unknown [environmental sequence] [ score 108 E 7e-23 ] [ range 59 .. 176 ]
+sequence
+-----------------------------------MGPVQRD----------------------------
+----------------------------HSFSLNKKEKKLALKSALSSKLLE-------------DNIVF
+LDTLEIKNHKTKELASKLNNFNFN----------------------------TALFVYGDEKIDDNFKKA
+SSNIPHVSIL---------------SCSGINVKDLIS----NHKIFIDEKSVDQIIKRL-*
+>P1;gi|43652263|gb|EAE80999.1| unknown [environmental sequence] [ score 107 E 1e-22 ] [ range 24 .. 141 ]
+sequence
+-----------------------------------MGPQNRD----------------------------
+----------------------------HSFNLNKKEKKLALKSALSTKFID-------------NKIVI
+IDTFEIKSFKTKELYSDLKQF---N-------------------------YKSALFIHSESGIDKNFKLA
+SANIPKVSIL---------------NQKGINVKDLIS----FDKIFIEQKSINEITKRL-*
+>P1;gi|15837755|ref|NP_298443.1| 50S ribosomal protein L4 [Xylella f... [ score 107 E 1e-22 ] [ range 83 .. 201 ]
+sequence
+----------------------------------AFAAKPRS----------------------------
+----------------------------FSQKVNRKQYRSAICSIFSELNRQ-------------GRLKV
+VDAFDVEVSKTKVFAEKIKSLEVVG-------------------------SRLLIVSDGISEC---LSLS
+SRNLPCVDV---------------RSVQALDPVALVG----SDVVVLTVGAVKKIEEWL-*
+>P1;gi|21553676|gb|AAM62769.1| 50S ribosomal protein L4 [Arabidopsis... [ score 107 E 1e-22 ] [ range 93 .. 293 ]
+sequence
+----VTNFQNEEKGFMVLAGDVFDVPIRKDIIHNVVRWQLRS----------------------------
+----------------------------HAIKMNKQVRRLGLKIALTARAAE-------------GKLLV
+FDDLGLPTHKTKNIVNYYNQME-NT-------------------------KKVLVVEGGP--IDEKLKLA
+TQNLHYVNIIPS---------------IGLNVYSILL----HDTLVMSRDAVNKIVER--*
+>P1;gi|44402649|gb|EAJ02171.1| unknown [environmental sequence] [ score 107 E 1e-22 ] [ range 2 .. 204 ]
+sequence
+-KIKSLNISNKSVKEITLNKEIFGIVPREDIVARVIRWQLAS----------------------------
+----------------------------HSHRLNKKVRKLGLKSALSNKFKL-------------GKLII
+LEKSKSD-GKTSSLKKSLDKMGINN-------------------------A----LIISGNDVDDKFIKA
+AKNISNLDIL---------------SHHGLNVYDIIK----RDNLIIIDDALKLVEERL-*
+>P1;gi|42561269|ref|NP_975720.1| 50S RIBOSOMAL PROTEIN L4 [Mycoplasm... [ score 107 E 2e-22 ] [ range 2 .. 207 ]
+sequence
+-KLQVLDIKGNEIKEIALNDYVWGIEPHQQAIYDTVISQQAA----------------------------
+----------------------------WKQKVNKKVRALAFRSVLSLKVKE-------------NNLVI
+VDKFEFAKPSTKEMVVVMKNLKIDD-------------------------QKTLIVTKEKEEL---VVKS
+SNNITGVKTISANQ---------------LNVFDLLN----ATKLLITEEAAIAVEEVY-*
+>P1;gi|43162617|gb|EAC46900.1| unknown [environmental sequence] [ score 106 E 2e-22 ] [ range 32 .. 149 ]
+sequence
+-----------------------------------MGPVQRD----------------------------
+----------------------------HSFSLNKKEKKLALKSALSSKLNE-------------DNIIF
+LDKLEIKNHKTKELVTKLNNFNFD----------------------------TALFVYGDEKIDDNFKKA
+SSNIPHVSIL---------------SCSGINVKDLIS----NHKIFIDEKSIDQITKRL-*
+>P1;gi|33241160|ref|NP_876102.1| Ribosomal protein L4 [Prochlorococc... [ score 106 E 2e-22 ] [ range 90 .. 209 ]
+sequence
+-----------------------------------FGPKPRQ----------------------------
+----------------------------YNLSMNRKERRLALRTALMARF---------------NDVIA
+VKDFKLKVPKTKEIQDFLARLDISN-------------------------SKVLIILSQPSDI---IRRS
+VRNLEKVKLIAA---------------EHLNVFDLLN----ANSLIIGEDALGKIKEVYG*
+>P1;gi|44358382|gb|EAI70706.1| unknown [environmental sequence] [ score 106 E 2e-22 ] [ range 2 .. 204 ]
+sequence
+-KIKSLNLNNKSGKDITLNEKVFGIEPREDIMARVIRWQLAS----------------------------
+----------------------------HSHNLNKKVRKLGLKSALSNKFKS-------------GKLII
+LEASKTD-GKTSTLIKSLDKMGVNN-------------------------A----LIISSNDVDIKFINA
+ASNIKNLDVL---------------SHNGLNVYDIVK----KDNLIIIDDALKLVEERL-*
+>P1;gi|28198354|ref|NP_778668.1| 50S ribosomal protein L4 [Xylella f... [ score 106 E 2e-22 ] [ range 83 .. 201 ]
+sequence
+----------------------------------AFAAKPRS----------------------------
+----------------------------FSQKVNRKQYRSAICSIFSELNRQ-------------GRLKV
+VDAFDVEVSKTRVFAEKIKSLEVVG-------------------------SSLLIV---SDEISECLSLS
+SRNLPCVDV---------------RSVQALDPVALVG----SDVVVLTVGAVKKIEEWL-*
+>P1;gi|44138053|gb|EAH33345.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 7 .. 206 ]
+sequence
+------NLKNKTVGDIDLDVSIFGIKQLPDLIHQYIRYQNRD----------------------------
+----------------------------HSFSLNKKEKKLALKSALSTKVNE-------------DKIII
+IDSFEIKSFKTKELYLDLKQF---D-------------------------YKSALFIHSEEGLNKNFKFA
+SSNIPRISIL---------------NQKGINVRDLIL----FDKIFIEKKSVSEITKRL-*
+>P1;gi|43083233|gb|EAC07827.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 45 .. 160 ]
+sequence
+---------------------------------------VRD----------------------------
+----------------------------HGHHLPKKVRQLGLRSALSSKAAE-------------GKLLV
+VDKLAAGGKKTAKLRGQLAKLGAEN-------------------------A----LIIGGAELDDTFVKA
+ARNIPLVDVL---------------PQQGINVYDILR----RDVLVLSKDAAAHLEERL-*
+>P1;gi|25027079|ref|NP_737133.1| putative 50S ribosomal protein L4 [... [ score 105 E 5e-22 ] [ range 6 .. 202 ]
+sequence
+--LDVQTAEGTTNGSVDLPAEIFDREVSVALLHQVVNAQLRD----------------------------
+----------------------------YAQRTPKKMIKAALYGALSDRARN-------------ERIHV
+ISELVGQAPSTKSAKAFIERL--TE-------------------------RKSVLLVIGREDI--NAQKS
+ANNLPGVHILAADQ---------------LNTYDVLN----SDDIVFSVEAL--------*
+>P1;gi|42524374|ref|NP_969754.1| 50S ribosomal protein L4 [Bdellovib... [ score 105 E 5e-22 ] [ range 2 .. 203 ]
+sequence
+ATVNVLNWKKEKVGSVELAADVFETPVKKEVLHTVVQWQLRS----------------------------
+----------------------------YAFVLPKKVRRLGLSMALSHLQKE-------------GKLFI
+VDSMASE-GKTAELNKRLQAFGL---------------------------KKAVLVDSVVDD---KFNRA
+SKNLPTFK---------------YFPVEGLNVFDLLK----YDAAVITKDSVAKIVDR--*
+>P1;gi|44047687|gb|EAG83923.1| unknown [environmental sequence] [ score 105 E 6e-22 ] [ range 67 .. 184 ]
+sequence
+-----------------------------------MGPMNRD----------------------------
+----------------------------YSFSLNKKEKKLALKSALSAKVNE-------------DKFLI
+IDSFEISSFKTKDLFFDLKNF---D-------------------------YESALFIYSENGLDKNFKLA
+SSNIPKVSLL---------------NQKGVNVKDLVT----FDKVFIDQKSVTELTKRL-*
+>P1;gi|43481488|gb|EAD95473.1| unknown [environmental sequence] [ score 105 E 6e-22 ] [ range 5 .. 206 ]
+sequence
+----VLNLNNLEVDNIVLDMNIFGIKTLPDVIHQYIRYQNRD----------------------------
+----------------------------HSFNLNKKEKKLAIKSALSSKLSE-------------DKIVF
+IDTFKLDNHKTKTLNNSLKKF---D-------------------------YNTALFIYSENGIDKNFKLA
+SSNLPRVSLL---------------NQKGINVRDLIS----FDKVFIEKESLDQITKRL-*
+>P1;gi|44484582|gb|EAJ59745.1| unknown [environmental sequence] [ score 105 E 6e-22 ] [ range 90 .. 199 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------FSKKINKKMYRAAIKSIFSELVRQ-------------NRLVA
+IEKPTLKKPKTKEFASFLNEFSL---------------------------SRVLIIT---EEPDINLYLS
+ARNIPNVDVIT---------------VREINPINLLK----PQKVAVTSEALKQIE----*
+>P1;gi|44540922|gb|EAJ97198.1| unknown [environmental sequence] [ score 104 E 7e-22 ] [ range 90 .. 201 ]
+sequence
+--------------------------------------RPRD----------------------------
+----------------------------FSKKINKKMYRAAIKSIFSELVRQ-------------NRLVA
+IEKPTLKKPKTKEVANFLNEFSL---------------------------SKVLIIT---DELDMNLYLS
+ARNIPNVDVIT---------------VREINPINLLK----PQKVAVTGEALKQIEEW--*
+>P1;gi|44334769|gb|EAI53981.1| unknown [environmental sequence] [ score 104 E 7e-22 ] [ range 90 .. 205 ]
+sequence
+-----------------------------------FGPQFRS----------------------------
+----------------------------HSIRLNKKTRLLATKSAFAEKIRQ-------------DDVIV
+IEKLELNDNKTKNLKSLLSMLNL-N-------------------------SKVLIVT---DQITENLQLA
+SRNLRDVHVL---------------SHRSLNVYEIMK----NNKVVFTKKAIESFIER--*
+>P1;gi|43725141|gb|EAF17518.1| unknown [environmental sequence] [ score 104 E 7e-22 ] [ range 46 .. 162 ]
+sequence
+-----------------------------------PKGELAY----------------------------
+----------------------------KKRKLNKTEKKQSVASLITEKNND-------------KNLLI
+LNDFRSEIKKTKEMNSIINKLEITN-------------------------SLIIL----DKNSKEKIEKS
+VRNIPNVKV---------------TDINHFSAYDIIK----FKKIVFTESSVKELEKRY-*
+>P1;gi|23022270|ref|ZP_00061886.1| COG0088: Ribosomal protein L4 [Cl... [ score 104 E 7e-22 ] [ range 1 .. 113 ]
+sequence
+----------------------------------------RS----------------------------
+----------------------------YKYAVPKKLRRLALKSALSSKVNE-------------NELLV
+LDSLNFDEIKTKQMANVLKNLKVND-------------------------TTAVLVLADKN---RNVELS
+ARNIPGLKTLF---------------VNTMNVYDIIR----HDKFIITKDAVAKVEEVY-*
+>P1;gi|23137564|ref|ZP_00119269.1| COG0088: Ribosomal protein L4 [Cy... [ score 104 E 8e-22 ] [ range 2 .. 207 ]
+sequence
+-ELSLLNIKGKDTGKVVLSDDIFAVEPNNHAIYLDVKQYLAH----------------------------
+----------------------------YGFKVNKKVKDLARKSAFSHKLKE-------------SNVTV
+LENFTLNAPKTKDYLAILKDLSLDT-------------------------KKTLFVIA---DIDKNIILS
+SRNLKKAKVV---------------SVDQINTYDLVN----ADKVVISEGSVSKIEALL-*
+>P1;gi|19551747|ref|NP_599749.1| ribosomal protein L4 [Corynebacteri... [ score 104 E 8e-22 ] [ range 5 .. 202 ]
+sequence
+-KLDVQTADGNINGSVELPAEIFDREVSVALLHQVVNAQLRD----------------------------
+----------------------------YSQRTPKKMIKAALYGALSDRARN-------------ARIHV
+VSELVGQTPSTKSAKAFIERL--TE-------------------------RKSVLLVVSREDI--NAQKS
+ANNLPGVHILAADQ---------------LNTYDVLK----SDDVVFSVEAL--------*
+>P1;gi|44533389|gb|EAJ92041.1| unknown [environmental sequence] [ score 104 E 8e-22 ] [ range 90 .. 205 ]
+sequence
+-----------------------------------FGPSPRD----------------------------
+----------------------------YSIRSNKKFRKLALRSAIAEKIRQ-------------NQLVI
+LEELKLEDHKTKNLKNILATLEAP---------------------------KVLIVT---ENMSRELMLA
+SRNLQGVHAI---------------NQQSLNVYELLR----FPKVIFVKDAMESLNARL-*
+>P1;gi|43759491|gb|EAF34180.1| unknown [environmental sequence] [ score 104 E 8e-22 ] [ range 90 .. 208 ]
+sequence
+-----------------------------------FGPKPRS----------------------------
+----------------------------YSLDMNRKERRLALRTALMSRISD-------------IKAVE
+DFGSTLDQPKTREIINGLSRLGIET-------------------------EKVLVILDCPSEV---IKKS
+INNIEKVKLIAADQ---------------LNVFDILN----ANKLVIGESAINKIQEVY-*
+>P1;gi|42823854|gb|EAA79240.1| unknown [environmental sequence] [ score 104 E 9e-22 ] [ range 90 .. 206 ]
+sequence
+-----------------------------------PKGELAY----------------------------
+----------------------------KKRKLNKSEKKQSIASLMSEKIKN-------------NNLLI
+FNDFTSEIKKTKEMHTIIKKFEITN-------------------------S----IIILDKASKDKIQKS
+IRNIPNIKV---------------TDINHFSAFDIVK----FEKVVFTESSVKELEERY-*
+>P1;gi|44339416|gb|EAI57169.1| unknown [environmental sequence] [ score 104 E 9e-22 ] [ range 90 .. 201 ]
+sequence
+----------------------------------------SN----------------------------
+----------------------------FNKKINKKMTNAAIITIISELFRE-------------QKLVV
+VDKIDVKEPKTKLMQTFLDSLKITS-------------------------A-----LFVTEEEDNNILLA
+SRNIKNINVI---------------SVNNLNPLILLK----HKNVVFTKNSLTKFEERYG*
+>P1;gi|43633067|gb|EAE71171.1| unknown [environmental sequence] [ score 104 E 9e-22 ] [ range 67 .. 183 ]
+sequence
+-----------------------------------PKGQLAY----------------------------
+----------------------------KTRKLNKSEKKQSISSLMSEKNKN-------------NKILV
+FNDFTSLIKKTKEMNVIVNKFAIQN-------------------------S----IVILDKKSKDNIEKS
+IRNIPNIKV---------------TDINHFSAYDIVR----FDKVVFTESSIKELEKRY-*
+>P1;gi|42965885|gb|EAB49897.1| unknown [environmental sequence] [ score 104 E 9e-22 ] [ range 83 .. 198 ]
+sequence
+-----------------------------------FGPSPRD----------------------------
+----------------------------YSIRSNKKFRKLALRSAIAEKIRQ-------------NQLVI
+LEELKLEDHKTKNLKKVLATLEAP---------------------------KALIVT---ENMSWELMLA
+SRNLQGVHAI---------------NQQSLNVYELLR----FPKVIFVKDAMESLNSRL-*
+>P1;gi|15828001|ref|NP_302264.1| 50S ribosomal protein L4 [Mycobacte... [ score 103 E 1e-21 ] [ range 101 .. 211 ]
+sequence
+------------------------------------GPKLRD----------------------------
+----------------------------YSQRTPKKMIAAALRGALSDRARN-------------GRIHA
+VTELVVKTPSTKSAKEFLGTLT-DR-------------------------KQVLVVIGRSDETG---AKS
+VRNLPGVHLLSPDQ---------------LNTYDVLR----ADDLVFSVEALN-------*
+>P1;gi|43730301|gb|EAF19985.1| unknown [environmental sequence] [ score 104 E 1e-21 ] [ range 36 .. 153 ]
+sequence
+-----------------------------------MGPQNRD----------------------------
+----------------------------HSFSLNKKEKTLALKCALSNKSKN-------------EEIIF
+LDSLEIEDHKTKKLFNSLKKFNFN----------------------------SALFIHSEKSNNENFKKA
+SSNIPKLAML---------------SEKGLNVRDLMT----FEKIFIEKTAVEQITKRL-*
+>P1;gi|21223083|ref|NP_628862.1| 50S ribosomal protein L4 [Streptomy... [ score 103 E 1e-21 ] [ range 4 .. 204 ]
+sequence
+--VDILSPAGEKTGSVELPAEIFGVEISIPLIHQVVVPQPRD----------------------------
+----------------------------YSQRTPKKMKAAALRHALTDRARH-------------NRIHV
+VTGIEGENPSTKAARTLFGKIS-ER-------------------------KNLLLVVDRADEAAW---LS
+ARNLPQIHILEPGQ---------------LNTYDVLV----SDDVVFTQAAFESF-----*
+>P1;gi|44363035|gb|EAI74136.1| unknown [environmental sequence] [ score 103 E 2e-21 ] [ range 2 .. 204 ]
+sequence
+-KVPVINIKGKTTGEVELSNKVFGIEPNDHAVYRKIKKQTRD----------------------------
+----------------------------YGIKLNKNVKKLARKSALSMKLKS-------------KSISV
+IESLDFKTPKTKSFVDILSAVGLDA-------------------------KKTLFVLDG---LNKNVYLS
+ARNL---------------NKSEVVSDSEISTYKIIN----AQHLVIEEKAIEKIE----*
+>P1;gi|43762336|gb|EAF35617.1| unknown [environmental sequence] [ score 103 E 2e-21 ] [ range 10 .. 127 ]
+sequence
+-----------------------------------MGPVNRD----------------------------
+----------------------------HSISMNKKEKILALKSALSSKMSE-------------DNIIF
+IDSFEIDTHKTKNLYSKLTKFKF----------------------------KTALFVYGDEKLNENFKKA
+SSNLPGV---------------ASLSHKGINVKDLIS----FEKIFIEEKSLVQISERL-*
+>P1;gi|43896746|gb|EAG02502.1| unknown [environmental sequence] [ score 103 E 2e-21 ] [ range 61 .. 179 ]
+sequence
+-----------------------------------FGPKPRS----------------------------
+----------------------------YNLDMNRKERRLALRTALMSRVSD-------------MKAVE
+DFGSTLKQPKTSDIINGLARLGIKT-------------------------EKVLVILDSPSDV---IKKS
+INNIEKVKLIAADQ---------------LNVFDILN----ANKLVIGQSAINKIQEVY-*
+>P1;gi|43137139|gb|EAC34347.1| unknown [environmental sequence] [ score 102 E 3e-21 ] [ range 1 .. 182 ]
+sequence
+----------------------FGLDPRKDILHRVVTWQLRD----------------------------
+----------------------------HSTKLPKKIRKLGLRHALSAKAKN-------------NELIL
+VDGNFSDLSKTKSIKDKIEKLNLNN---------------------------SLIVNNFDTDNP--FVKA
+AKNIKNIEFL---------------KVDGINVYDILN----NQKLIITKDSLNNILER--*
+>P1;gi|27904941|ref|NP_778067.1| 50S ribosomal protein L4 [Buchnera ... [ score 102 E 3e-21 ] [ range 89 .. 201 ]
+sequence
+--------------------------------------KPKS----------------------------
+----------------------------FYQKINKKMYRGALKSIFSELIRQ-------------KRLVV
+FREFTIEFPKTRLLIDKLRDIKLHD---------------------------VLIITKTKDN---NLKLA
+SRNLYKVDV---------------QTVNHMNPRSLIS----FNHVLITSKAIQKVEELL-*
+>P1;gi|43228679|gb|EAC79897.1| unknown [environmental sequence] [ score 102 E 3e-21 ] [ range 9 .. 125 ]
+sequence
+------------------------------------GPKPKD----------------------------
+----------------------------YNYKLPKKMKKIAKRSVLSQRASD-------------KEILV
+IDEVSIDSPKTKDFFALLKSLGISD-------------------------KKIIFLLDS---NNKNVFLS
+GRNLPNVKIMDAINA---------------STYDLLD----AELLVFEKSGLKKLDDQL-*
+>P1;gi|44410829|gb|EAJ07880.1| unknown [environmental sequence] [ score 102 E 3e-21 ] [ range 57 .. 173 ]
+sequence
+----------------------------------AFGPKVRD----------------------------
+----------------------------HSTKLPKKIRKLGLRHALSAKAKN-------------NELIL
+VDGDFSDLSKTKSIKDKIEKLDL---------------------------KNSLIVNNFDNDNP--FIKA
+AKNIKNIEFL---------------KVDGINVYDILN----NQKLIITKDSLSNIVER--*
+>P1;gi|11036694|gb|AAG27265.1| L4 ribosomal protein [Brachyspira pil... [ score 102 E 3e-21 ] [ range 2 .. 212 ]
+sequence
+-EVVILNENGDSVGNLEVVDEIFKSEVNNNLLYEAIKNELRD----------------------------
+----------------------------YSYRLPKKMKRKALLSVLSLKYGN-------------NVLKV
+FEDFTFDAPKTKRMASFISKVKEPN-------------------------SRKVAFVVGKDESYNKLLLS
+LRNIKDLKLVNADS---------------MSIHPLYY----ADEVYFTKTALSKLNAR--*
+>P1;gi|43154298|gb|EAC42821.1| unknown [environmental sequence] [ score 102 E 3e-21 ] [ range 32 .. 148 ]
+sequence
+-----------------------------------PKGELAY----------------------------
+----------------------------KKRKLNKSEKKLSIASLITEKNNL-------------NHLVV
+FNDFTNVIKKTKEMYSIIKKFEITN-------------------------SLIILDKSSKEK----IEKS
+IRNIPNVKV---------------TDINHFSAFDIVK----FKKVVFTESSVKELEKRY-*
+>P1;gi|15604504|ref|NP_221022.1| 50S RIBOSOMAL PROTEIN L4 (rplD) [Ri... [ score 102 E 3e-21 ] [ range 2 .. 206 ]
+sequence
+-KTKILSLANEEVGEITLNKDIFAVEIRDDIIKQVIDWQVRS----------------------------
+----------------------------HAIKLPKKVRKLGLIHALSEKYAE-------------EKLLI
+IDSLKLDKPKTSILVNLLSKFQGQS-----------------------------FFVIDGNKVDINFSLA
+TKNIYN---------------TLIVPQIGANVYDIIR----HEYVLLSQEAVSFLEERL-*
+>P1;gi|41410260|ref|NP_963096.1| RplD [Mycobacterium avium subsp. pa... [ score 102 E 3e-21 ] [ range 92 .. 201 ]
+sequence
+------------------------------------GPKPRD----------------------------
+----------------------------YSQRTPKKMIAAALRGALSDRARN-------------GRIHA
+ITELVSQTPSTKSAKAFLGALT-ER-------------------------KQVLVVIGRSDEAG---AKS
+VRNLPGVHILAPDQ---------------LNTYDVLR----ADDVVFSVEAL--------*
+>P1;gi|38233086|ref|NP_938853.1| 50S ribosomal protein L4 [Corynebac... [ score 102 E 4e-21 ] [ range 5 .. 208 ]
+sequence
+-KLDVLTAEGKTDGQVELPAEIFDREASVALLHQVVNAQLRD----------------------------
+----------------------------YSQRTPKKMIKAALFGALTDRARH-------------ERIHV
+ISELVAQTPSTKSARSFIER--ITD-------------------------RRNVLLVVGREDVT--AQKS
+ARNLPGVHILFADQ---------------LNTYDVLY----SDDVVFSVEALNTFINR--*
+>P1;gi|43947621|gb|EAG29529.1| unknown [environmental sequence] [ score 102 E 4e-21 ] [ range 10 .. 136 ]
+sequence
+--------------------------PNFRGGATSMGPQNRD----------------------------
+----------------------------HSFSLNKKEKNLALKCALSSKALN-------------KQIIF
+IDSLEIKTHKTKNLFKDLKNFDFN----------------------------SALFIHDDDEKNKNFILA
+SSNIPKLAML---------------SDKGLNVRDLMT----FEKIFIHANSVEKITKRL-*
+>P1;gi|44286415|gb|EAI20865.1| unknown [environmental sequence] [ score 102 E 5e-21 ] [ range 90 .. 205 ]
+sequence
+-----------------------------------FGPQFRS----------------------------
+----------------------------HSIRLNKKTRLLASKSAFAEKIRQ-------------DGVIV
+LDNLELNDNKTKNLKSLLSTFDL-P-------------------------SKVLIVTDQISD---NLRLA
+SRNLHDVHVL---------------SHRSLNVYEIIR----NNKVIFTKKALVSFVER--*
+>P1;gi|29831470|ref|NP_826104.1| putative ribosomal protein L4 [Stre... [ score 102 E 5e-21 ] [ range 4 .. 204 ]
+sequence
+--IDILSPSGDNAGTVELPAEIFDVEISIPLLHQVVVAQLRD----------------------------
+----------------------------YSQRTPKKMKAAALRHALTDRARN-------------ARIHV
+ITGIEGETPSTKAAKSFLGKVS-ER-------------------------KNVLLVIERSDEAAL---LS
+ARNLPQVHILEPGQ---------------LNTYDVLV----SDDVVFTQAAFESF-----*
+>P1;gi|43031910|gb|EAB82594.1| unknown [environmental sequence] [ score 102 E 5e-21 ] [ range 88 .. 204 ]
+sequence
+-----------------------------------PKGQLSY----------------------------
+----------------------------KKRKLNKSEKKQSIASLISEKIKN-------------KNLLI
+FSDFNNEIKKTKEMNLILKKFEILN-------------------------SLIILDKSSKNK----VEKS
+IRNIPNIKV---------------TDINHFSAFDIIK----FKKVVFTETSVKELEKRY-*
+>P1;gi|43862606|gb|EAF85389.1| unknown [environmental sequence] [ score 102 E 5e-21 ] [ range 17 .. 132 ]
+sequence
+------------------------------------GPTPRS----------------------------
+----------------------------HEHQLNKKMRALGLKHALSAKLAS-------------GNLVI
+IEKAELKDGKTKVLSKLLERKGW---------------------------RKALLV--DGQQLDKNLCRA
+AQNISMIDVLPGP---------------GINVYDILK----SNTLVLTRAAVGFLEERL-*
+>P1;gi|44056970|gb|EAG89055.1| unknown [environmental sequence] [ score 102 E 5e-21 ] [ range 80 .. 207 ]
+sequence
+-------------------------NPLFRGGGRVFGPRPRS----------------------------
+----------------------------YDQKVNKKVKRLARKSALSYKAKS-------------KAIII
+VEDFDFSKPNTKDYLSILKALDLQA-------------------------KKTLMVLNG---GNKNIYLS
+SRNLKNSKVVVNSE---------------LNTYEITD----ATNVLILESAVDGLESNL-*
+>P1;gi|42906183|gb|EAB20200.1| unknown [environmental sequence] [ score 102 E 5e-21 ] [ range 90 .. 206 ]
+sequence
+-----------------------------------PKGQLAY----------------------------
+----------------------------KKRKLNKSEKRLSVTSLISEKKKL-------------NNILI
+FSDFKNEIKKTKEMDQILKKFKIKN-------------------------SLVLLDKLSKEK----IYKS
+LRNIPNIKV---------------TDVNHFSTFDLIK----FEKIVFTESSVKELEKRY-*
+>P1;gi|43205876|gb|EAC68495.1| unknown [environmental sequence] [ score 101 E 5e-21 ] [ range 2 .. 206 ]
+sequence
+-KKAIVSIENKKIKDVDINESVFCLKTFPDLIHQYIRYQNRD----------------------------
+----------------------------HSFSLNKKEKVLALKSALSTKMSE-------------DNIIF
+IDTLQIDSHKTKNLNNKLAKF---N-------------------------YKSALFVYSDDAVNDNFKKA
+SSNLPRISVL---------------NQKGINVKDLIS----YEKIFIEEKSIKKISDRL-*
+>P1;gi|44199699|gb|EAH66045.1| unknown [environmental sequence] [ score 101 E 6e-21 ] [ range 21 .. 136 ]
+sequence
+-----------------------------------FGPSPRD----------------------------
+----------------------------YSIRSNKKFRKLALRSAIAEKIRQ-------------NQLVI
+LEELKLEDHKTKNLKKVLERLEAP---------------------------KALIVT---EKMSRELMLA
+SRNLQGVHAI---------------NQQSLNVYELLR----FPKVIFVKDAMESLNARL-*
+>P1;gi|44211836|gb|EAH72742.1| unknown [environmental sequence] [ score 101 E 6e-21 ] [ range 87 .. 168 ]
+sequence
+--------------------------------------RPQN----------------------------
+----------------------------HEQKLNRKMYRGALRSILSELVRL-------------DRLVV
+VESFSVDAPKTKALAGKLKELDLQN---------------------------VLIVTESVDE---NLYLA
+ARNLPHVDV---------------------------------------------------*
+>P1;gi|44309551|gb|EAI36326.1| unknown [environmental sequence] [ score 101 E 6e-21 ] [ range 90 .. 206 ]
+sequence
+-----------------------------------PKGQLAY----------------------------
+----------------------------KKRKLNKSEKKQSIVSLMSDKIRN-------------NNLLV
+FNDFSSEIKKTKEMDIILKKFQITN-------------------------S----IIILDKTSKEKIEKS
+IRNIPNIKV---------------TDINHFSAFDIVK----FKKVVFTETSIKELEKRY-*
+>P1;gi|44080271|gb|EAH01998.1| unknown [environmental sequence] [ score 101 E 7e-21 ] [ range 18 .. 128 ]
+sequence
+----------------------------------ALGPKPRD----------------------------
+----------------------------YSQRTPKKMKRLALRSALSDRASS-------------NSIYV
+VDVWDFKTPSTKVAKTALEAIGAKG--------------------------KVLIITDLQDE---NTEKS
+FRNLSNVNVLSSDQ---------------LNVFDILV----SDSIVFTKNNL--------*
+>P1;gi|43666646|gb|EAE88314.1| unknown [environmental sequence] [ score 101 E 7e-21 ] [ range 90 .. 206 ]
+sequence
+-----------------------------------PKGQNRY----------------------------
+----------------------------KTRKLNKSEKKMSIASLITEKNKS-------------NNLII
+FDDFGKKIEKTKEMFELLKKFDANN-------------------------SLLIVDTKSKD----NILRS
+TKNIPNVKLTDA---------------NHFSAFDLVK----YKKIIFTESSVKELEKRY-*
+>P1;gi|44019332|gb|EAG68444.1| unknown [environmental sequence] [ score 101 E 8e-21 ] [ range 5 .. 123 ]
+sequence
+----------------------------------FMGPQNRD----------------------------
+----------------------------HSFSLNKKEKKLALKSALSTKFIE-------------DKVVI
+IDTFEINSFKTKELHLDLKQFE----------------------------YKSALFIHSEKGIDKNFKLA
+SANIPKVSIL---------------NQKGINVKDLIT----FDKIFIEEQSINEITKRL-*
+>P1;gi|43537755|gb|EAE23565.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 61 .. 177 ]
+sequence
+----------------------------------AFGPKVRD----------------------------
+----------------------------HSTKLPKKVRKLGLRHALSAKAKN-------------NELIL
+VDGNFSDLSKTKSIKDKIEKLDL---------------------------KNSLIVNNFDNDNP--FVKA
+AKNIKNIEFL---------------NVNGINVYDILN----NQKLIITKDSLNNIVER--*
+>P1;gi|43622032|gb|EAE65666.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 76 .. 192 ]
+sequence
+-----------------------------------PKGELSY----------------------------
+----------------------------KKRKLNKSEKKLSVASLITEKNKN-------------KDLLI
+LSDFNKDIKKTKEMYKILKKFEITN-------------------------CLMIL----DKNSRDKIEKS
+VRNIPNIKL---------------TDINHFSSFDIVK----YKRIVFTESSIKELEKRY-*
+>P1;gi|43203916|gb|EAC67518.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 41 .. 157 ]
+sequence
+-----------------------------------PKGQDNY----------------------------
+----------------------------KSRKLNKSEKKMSIASLITEKNKS-------------NNLII
+FDDFGKKIEKTKEMFELLKRFDANN-------------------------SLFIVDTKSKD----NILKS
+TKNIPNVKLTDA---------------NHFSAFDLVK----YRKIIFTESSVKELEKRY-*
+>P1;gi|23018361|ref|ZP_00058078.1| COG0088: Ribosomal protein L4 [Th... [ score 100 E 1e-20 ] [ range 2 .. 200 ]
+sequence
+ATIEVKDREGAAKGSVELPDEIFAQKVNIPLIHQVVVAQPRD----------------------------
+----------------------------YAQRTPKKMKAAALRGALSNRAQH-------------GRIHV
+VSEFVPEDVTTKRTQTALKTLKITD-------------------------SDKVLVVLSREDQHN--RLA
+LRNLPEVHILDANQ---------------VNTYDVLY----ADDIVFTEA----------*
+>P1;gi|42526280|ref|NP_971378.1| ribosomal protein L4 [Treponema den... [ score 100 E 1e-20 ] [ range 5 .. 206 ]
+sequence
+----VYSVDGKELRTINLDDKVFGLPVNDDVIYYAINNELRD----------------------------
+----------------------------FSYSMPKKAKRLAMKSILSLKAQN-------------DRLVV
+VEDFTVESGKTRDLVKILDNFAKGE-------------------------RAVIIL----KDDDSLVKRA
+GRNIPHLSFLAYNR---------------LRAHDLFY----GRKVIMLESAAKNLSEFYG*
+>P1;gi|42973992|gb|EAB53964.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 2 .. 206 ]
+sequence
+AKIEMLNIKDLSKNEIEFSDSLFDGEVRLHLVHQVIKSQLSN----------------------------
+----------------------------YTQKINKKVALKALKSVLNLKFSE-------------KKLRL
+VDELNLETSKTSDFLNILNKMDISG-------------------------K----ILFVYEEHNENFGLS
+LRNLKKVN---------------KISVKGINPYDVIK----HDFLVIDKVALNKLEQRL-*
+>P1;gi|42989975|gb|EAB61911.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 90 .. 204 ]
+sequence
+-----------------------------------PKGELAY----------------------------
+----------------------------KKRKLNKSEKKNSIASLVSEKIKN-------------NKLLI
+FSDFKSEIKKTKEMNLIIKKFEITN-------------------------SLIIL----DKNSKDKIEKS
+IRNIPNIKV---------------TDINHFSAFDIVK----FEKIVFTESSVKELEK---*
+>P1;gi|15607842|ref|NP_215216.1| rplD [Mycobacterium tuberculosis H3... [ score 100 E 1e-20 ] [ range 98 .. 208 ]
+sequence
+------------------------------------GPKPRD----------------------------
+----------------------------YSQRTPKKMIAAALRGALSDRARN-------------GRIHA
+ITELEGQNPSTKSARAFLASLT-ER-------------------------KQVLVVIGRSDEAG---AKS
+VRNLPGVHILAPDQ---------------LNTYDVLR----ADDVVFSVEALN-------*
+>P1;gi|44363415|gb|EAI74388.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 21 .. 138 ]
+sequence
+-----------------------------------MGPQNRD----------------------------
+----------------------------HSFSLNKKEKTLALKCALSNKSKK-------------EEIIF
+VDSLEIANHKTKKLFNSLKKFNFN----------------------------SALFIHSDKSNNENFKKA
+SSNIPKLAML---------------SEKGLNVRDLMT----FDKIFIEKTAIELITKRL-*
+>P1;gi|11465779|ref|NP_053923.1| ribosomal protein L4 [Porphyra purp... [ score 100 E 2e-20 ] [ range 86 .. 212 ]
+sequence
+-------------------------------LWRIFGPKPRS----------------------------
+----------------------------FAKKMNKKESQLALRTALNNKSVN-------------TLVVE
+NFDTYFQKPKTKLFIEAITRWNLDL-------------------------NKKLLVIVDKKDL--NVYLS
+IRNLYNVEIISADT---------------LNIMALLA----AHKVIITVDALSKIQEVY-*
+>P1;gi|44530080|gb|EAJ89751.1| unknown [environmental sequence] [ score 100 E 2e-20 ] [ range 90 .. 206 ]
+sequence
+-----------------------------------PKGQLSY----------------------------
+----------------------------KKRKLTKNEKRLSIASLITEKNKL-------------NNLVI
+FSDFASEIKKTKEMSKIINKFEINN-------------------------SLIIL----DKKSKDKIFKA
+TRNIPSVKV---------------TDVNHFSAFDIVK----FKKVVFTESSVKELEKRY-*
+>P1;gi|33862113|ref|NP_893674.1| 50S ribosomal protein L4 [Prochloro... [ score 100 E 2e-20 ] [ range 90 .. 208 ]
+sequence
+-----------------------------------FGPKPRS----------------------------
+----------------------------YNLDMNRKERRLALRTALMSRISD-------------FKTVE
+DFGSTLDQPKTSEIINGLSRLGIET-------------------------EKVLVILDNPSDV---IKKS
+INNLEKVKLIAADQ---------------LNVFDILN----ANKLVIGQSAINKIQEVY-*
+>P1;gi|29436531|gb|AAH49520.1| Unknown (protein for MGC:56659) [Dani... [ score 386 E 1e-106 ] [ range 8 .. 262 ]
+sequence
+--ISVYSEKGETSGKVVMPA-VFRAPIRPDIVNFVHTNMRKNKRQPYAVSELAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKTWRRWHRRVNVNQKRYAMCSALAASALPSLVMAKGHRIEEPEVPLV
+VDDKVEGYKKTKEAVLLLKKLKAWNDIKKVYSQRMRAGKGKMRNRRRIQRKGPIYNEDN------GVTRA
+FRNIPGITLQSVS---------------RLDLLKLAPGGHIGRFCIWTEGAFRKLDD---*
+>P1;gi|15293869|gb|AAK95127.1| ribosomal protein L4 [Ictalurus punct... [ score 376 E 1e-103 ] [ range 8 .. 262 ]
+sequence
+--ISVYSDKGETSGKVVLPA-VFTAPIRPDVVNFVHTNMRKNKRHAYAVSEQAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKTWRRWHRRINVTQKRYAICSALAGSALPALVMAKGHRIEEPEVPLV
+VDDKVEGYKKTKEAVLLLKKLKAWNDIKKVYSQRMRAGKGKMRNGRRIQRKGPIYNEDN------GVTKA
+FRNIPGVTMQRVT---------------KLNLLKLAPGGHIGRFCIWTEAAFRKLDD---*
+>P1;gi|37779080|gb|AAP20200.1| ribosomal protein L4 [Pagrus major] [ score 376 E 1e-103 ] [ range 8 .. 262 ]
+sequence
+--ISVYSEKGETAGKVVMPA-VFKAPIRPDVVNFVHTNMRKNSRQPYAVSELAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKTWRRWHRRINTTQKRYAICSAVAASAIPALVMSKGHRIEEPEVPLV
+VEDKVEGYKKTKEAVLLLKKLKAWNDIKKVYSQRMRAGKGKMRRRIQRRGPCIIYNQDA------GVTKA
+FRNIPGITLQNVN---------------KLNLLRLAPGGHVGRFCIWTESAFRKLDE---*
+>P1;gi|15232723|ref|NP_187574.1| 60S ribosomal protein L4/L1 (RPL4A)... [ score 373 E 1e-102 ] [ range 10 .. 267 ]
+sequence
+--VTIQTLDGDMSSTVVLPD-VMTAPVRPDIVNFVHAQISNNSRQPYAVSKKAGHQTSAESWGTGRAVSR
+IPRVPGGGHRAGQARGGRMFAPTKIWRRWHRRVNVNMKRHAIVSAIAATAVPALVMARGHKIENPEMPLV
+VSDSAEAVEKTSAAIKVLKQIGAYDDAEKAKNSGIRPGKGKMRNRRYISRKGPLVVYGT------EGSKA
+FRNLPGVELCHVE---------------RLNLLKLAPGGHLGRFVIWTKSAFEKLE----*
+>P1;gi|15242558|ref|NP_195907.1| 60S ribosomal protein L4/L1 (RPL4D)... [ score 372 E 1e-102 ] [ range 11 .. 268 ]
+sequence
+--VTVQGLDGDMSTDVTLPD-VMTAPVRPDIVNFVHAQISNNSRQPYAVSKKAGHQTSAESWGTGRAVSR
+IPRVPGGGHRAGQARGGRMFAPTKIWRRWHRRVNVNMKRHAIVSAIAATAVPALVMARGHKIENPEMPLV
+VSDSAEAVEKTSAAIKVLKQIGAYDDAEKAKNSGIRPGKGKMRNRRYISRKGPLVVEGA------KIVKA
+FRNLPGVELCHVE---------------RLNLLKLAPGGHLGRFVIWTKSAFEKLE----*
+>P1;gi|2500343|sp|Q28346|RL4_CANFA 60S ribosomal protein L4 (L1) >gi... [ score 367 E 1e-100 ] [ range 7 .. 261 ]
+sequence
+--ISVYSEKGESSGKVTLPA-VFKAPIRPDIVNFVHTNLRKNNRQPYAVSELAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKTWRRWHRRVNTTQKRYAICSALACLSLPALVMSKGHRIEEPELPLV
+VEDKVEGYKKTKEAVLLLKKLKAWNDIKKVYSQRMRAGKGKMRRRIQRRGPCIIYNEDN------GIIKA
+FRKHPGITLLNVS---------------KLNILKLAPGGHVGRFCIWTESAFRKLDD---*
+>P1;gi|23613094|ref|NP_703416.1| 60S ribosomal subunit protein L4/L1... [ score 366 E 1e-100 ] [ range 8 .. 261 ]
+sequence
+--ANVYSTNGKVVGEVEIPV-VFQTPIRNDLIQSVYTNMSKNRRHPYAVKLGAGYETSAESWGTGRAVAR
+IPRVPGGGHRAGQGRGGGMFNPTKIWRRWGRKVNLKEKRYAVCSSIAASGVTSLVLARGHRISHKEVPLV
+VSNDIESLSKTKEAVNFLVSLGLKDEVNRVKSKKIRAGKGKMRNRKYKIRNGPLIIYDN------GVKKA
+FRNIPGVDLCKVT---------------KLNLLKLAPGGSIGRLCIWSESAFKKLD----*
+>P1;gi|34393487|dbj|BAC83047.1| putative 60S ribosomal protein L4/L1... [ score 363 E 2e-99 ] [ range 9 .. 267 ]
+sequence
+--VSVKALEGDMASSLALAE-VFRAPLRPDVVRFVHRLLSCNKRQPYAVSRRAGHQTSAESWGTGRAVSR
+IPRVPGGGHRAGQGRGGRMFAPTKTWRKWHRRVNVHLRRVAVASALAATSVPSLVLARGHRIETPELPLV
+ISDSAESIEKTSQAIKILKQVGAYADAEKAKDSGIRPGKGKMRNRRYINRKGPLIVYGT------EGSKA
+FRNLPGVDVANVE---------------RLNLLDLAPGGHLGRFVIWTESAFKKLEE---*
+>P1;gi|23482400|gb|EAA18392.1| ribosomal protein L4/L1 family, putat... [ score 363 E 2e-99 ] [ range 8 .. 261 ]
+sequence
+--ANVYSISGKVVGEVEIPV-VFQTPIRNDLIEYIFSNMSKNTRHPYAVKLGAGYETSAESWGTGRAVAR
+IPRVPGGGHRAGQARGGGMFNPTKIWRRWGRKINLKEKRYAVCSSIAASGITSLVLARGHRISNKEVPLV
+ASNDIESLQKTKDALAFLISLGLRDEVNRLKSKKIRAGKGKMRNRKYKISNGPLIIYDS------GIKKA
+FRNIPGVDLCNVE---------------KLSLLKLAPGGSIGRLCIWSEDAFKKLD----*
+>P1;gi|7440597|pir||T09551 ribosomal protein L4 - human >gi|40889023... [ score 361 E 1e-98 ] [ range 8 .. 261 ]
+sequence
+--ISVYSEKGESSGKVTLPA-VFKAPIRPDMVNFVHTNLRKNNRQPYAVSELAGHQTRAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKTWRRWHRRVNTTQKRYAICSALAASALPALVMSKGHRIEEPELPLV
+VEDKVEGYKKTKEAVLLLKKLKAWNDIKKVYSQRMRAGKGKMRNRRIRRGPCIIYNEDN------GIIKA
+FRNIPGITLLNVS---------------KLNILKLAPGGHVGRFCIWTESAFRKLDE---*
+>P1;gi|542225|pir||S41640 ribosomal protein L4.e - fission yeast (Sc... [ score 356 E 2e-97 ] [ range 8 .. 262 ]
+sequence
+--VSIYNKDGSVSSELALPF-VFKAPIRPDLVRSVHTAVAKNKRQPYAVSEKAGHQTSAESWGTGRALAR
+IPRVGGGGTRSGQAAFGRMFAPTKTWRKWHVKVNQNEKRYATCSAVAASGVPSLLLARGHRIEEPEVPLV
+VDDAVQSFQKTKEAVALLKEIKAYRDVIKVNSRKLRAGKGKLRNRRHVQRRGPLVVFNE------DIVKA
+FRNIPGVEIVNVR---------------RLNLLQLAPGGHLGRFVIWTKSAFGLLD----*
+>P1;gi|17367847|sp|Q9XF97|RL4_PRUAR 60S ribosomal protein L4 (L1) >g... [ score 355 E 5e-97 ] [ range 12 .. 269 ]
+sequence
+--VTVQSLEGDMATDVALPD-VMKASIRPDIVTFVHSNISKNSRQPYAVSKKAGHQTSAESWGTGRAVSR
+IPRVPGGGHRAGQGRGGRMFAPTKIWRRWHRKINVNQKRYAVVSAIAASAVPSLVLARGHKIETPELPLV
+VSDSIEGVEETSAALKVLKQIGAYSDAEKAKDSSIRPGKGKMRNRRYINRKGPLIVYGT------EGAKA
+FRNIPGIDIINVE---------------RLNLLKLAPGGHLGRFVVWTKSAFEKLD----*
+>P1;gi|1350686|sp|P49165|RL4_URECA 60S RIBOSOMAL PROTEIN L4 (L1) >gi... [ score 355 E 6e-97 ] [ range 7 .. 260 ]
+sequence
+--ITVHSDKGAASSNVTLPA-VFRAPIRPDIVNFVHFELKKNGRQPYAVSQKAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGAFGRMFAPTKTWRRWHRRVNTTQRRHALVSAIAATGIPAVVMSKGHCIEQPEVPLV
+VSDSVESIKKTKEAVVVLRRLKAWPDVEKVKSRRFRAGKGKLRNRRAIQRRGPLIIYDN------GISRA
+FRNIPGITLVNVN---------------RLNLLSMAPGGHVGRFCIWTESAFKQLD----*
+>P1;gi|34868308|ref|XP_213105.2| similar to ribosomal protein L4, cy... [ score 355 E 7e-97 ] [ range 8 .. 262 ]
+sequence
+--ISVYSEKGESSGKVTLPA-VFKAPIRPDIVNFVHTNLRKNNRQPYAVSELAGHQTSAESWGTGRAVAR
+IPRVRGGTHRSGQGAGGRMFAPTKTWRRWHCRVSTTQKRYAVCSALAASALPALVMSKGHRVEEPELPLV
+VEDKVESYKKTKEAVQLLKKLKAWNDIKNVYSQRMRAGKGKMRRRIQRRGPCIIYNEDN------GIIKA
+FRNIPGITLLNVS---------------KLNILKLAPGGHVGRFCIWTESAFRKLDE---*
+>P1;gi|39645153|gb|AAH63811.1| Ribosomal protein L4 [Rattus norvegicus] [ score 355 E 7e-97 ] [ range 8 .. 262 ]
+sequence
+--ISVYSEKGESSGKVTLPA-VFKAPIRPDIVNFVHTNLRKNNRQPYAVSELAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKTWRRWHRRVNTTQKRYAICSALAASALPALVMSKGHRVEEPELPLV
+VEDKVESYKKTKEAVQLLKKLKAWNDIKKVYSQRMRAGKGKMRRRIQRRGPCIIYNEDN------GIIKA
+FRNIPGITLLNVS---------------KLNILKLAPGGHVGRFCIWTESAFRKLDE---*
+>P1;gi|27694877|gb|AAH41744.1| MGC64318 protein [Xenopus laevis] [ score 353 E 1e-96 ] [ range 12 .. 266 ]
+sequence
+--ISVYSEKGETSGKVTMPA-VFKAPIRPDIVNFVHTNLRKNNRQPYAVSKLAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKTWRRWHRRVNTTQKRYAVCSALAASALPALIMSKGHRIEEPEVPLV
+VEDKVESYKKTKEAVLLLKKLKAWNDIKKVYSQRMRAGKGKMRRRIQRRGPCVIYNENN------GIIKA
+FRNIPGITLLNVS---------------KLNLLRLAPGGHVGRFCIWTESAFRKLDD---*
+>P1;gi|45185016|ref|NP_982734.1| AAR191Cp [Eremothecium gossypii] >g... [ score 348 E 5e-95 ] [ range 32 .. 287 ]
+sequence
+-QVTVHALTGESSSALPLPA-VFSAPIRPDIVHSVFTSVNKNKRQAYAVSEKAGHQTSAESWGTGRAVAR
+IPRVGGGGHRSGQARGGRMFAPTKTWRKWNVKVNHNEKRYATASAIAASAVASLVLARGHRVEKPEIPLV
+VSSDLESIKKTKEAVAALKAVGAHSDVVKVKSKKLRAGKGKYRNRRFTQRRGPLVVYDN------GIVNA
+FRNIPGVETANVA---------------SLGLLQLAPGAHLGRFVIWTESAFAKLDQ---*
+>P1;gi|15668349|ref|NP_247145.1| LSU ribosomal protein L4P (rplD) [M... [ score 345 E 4e-94 ] [ range 1 .. 250 ]
+sequence
+MKAVVYNLNGEAVKEIDLPA-VFEEEYRPDLIKRAFLSAFTARLQPKGSDPLAGLRTSAKNIGKGHGRAR
+VDRVPGWAARVPQAVGGRRAHPPKVEKILWERVNKKERIKAIKSAIAATANPELVKERGHVFETENLPII
+VESSFEELQKTKDVFAVFEKLGISDDVIRAKNGKIRAGKGKMRGRKYKKPRSILVVVGD------NAILA
+SRNLPGVDVITAK---------------DLGIIHLAPGGVAGRLTVWTESALEKLKER--*
+>P1;gi|1350685|sp|P49669|RL4_TRYBB 60S RIBOSOMAL PROTEIN L4 (L1) >gi... [ score 342 E 4e-93 ] [ range 7 .. 259 ]
+sequence
+--VSVYSAEDKVVGTCSLPA-VFTAPIRHDVVQFVHTNMAKNSRQPYAVNRLSGMKHSTESWGTGRAVAR
+IPRIHGGGTSMSGARGGRMFAPTKIFRRWHRKINLHQKRFAVVSALAASSLPALVMSRGHKIENAEVPLV
+VEDGVRAYEKTKEAMTFLKTVGAIDDVNRVNDSRIRAGRGKMRNRRYVARRGPLVMPDN------KGTRA
+FRNIFGLDLANVN---------------SLNLLHLAPGGHVGRFIIWTKSAFEKLD----*
+>P1;gi|34897236|ref|NP_909964.1| putative 60S ribosomal protein L1 [... [ score 341 E 6e-93 ] [ range 9 .. 266 ]
+sequence
+--VSVKALEGDMATDIQMPQ-VLRAPIRPDVVTFTHKLLSCNRRQPYAVSRRAGHQTSAESWGTGRAVSR
+IPRVPGGGHRAGQGRGGRMFAPTKIWRRWHRRVNIRLRRIAVASALAATAVPSLVLARGHRIEGPEFPLV
+VSDSIESIEKTAQSIKVLKQIGAYADAEKTKDSAIRAGKGKMRNRRYINRKGPLIVYGT------EGSKA
+FRNLPGVDVANVE---------------RLNLLDLAPGGHLGRFVIWTECAFKKLDE---*
+>P1;gi|17508669|ref|NP_491416.1| ribosomal Protein, Large subunit (3... [ score 340 E 2e-92 ] [ range 7 .. 260 ]
+sequence
+--VTVYDEKYETQSQIRLPA-VFRTPIRPDLVSFIADQVRRNRRQAHAVNTKAGKQHSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGHMFAPLKVFRRWHRNVNIAQKRYAVSSAIAASGIPALLQARGHVIDQAEVPLV
+VSDKVESFRKTKEAVVFLRRSHLWADIEKVYNSKRRAGKGKLRNRQHKQKLGPVVIYDA------ECARA
+FRNIPGVDVMNVE---------------RLNLLKLAPGGHLGRLIIWTESAFKKLD----*
+>P1;gi|39589455|emb|CAE74484.1| Hypothetical protein CBG22235 [Caeno... [ score 340 E 2e-92 ] [ range 7 .. 260 ]
+sequence
+--VTVYDEKYETQSQIRLPA-VFRTPIRPDLVSFIADQVRRNKRQAHAVNTKAGKQHSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGHMFAPLKVFRRWHRNVNIAQKRYAVSSAIAASGIPALLQARGHVIDQAEVPLV
+VSDKIESFRKTKEAVTFLRRSHLWADIEKVYHSKRRAGKGKLRNRQHKQKLGPVVIYDA------ECARA
+FRNIPGVDVLNVE---------------RLNLLKLAPGGHLGRLVIWTESAFKKLD----*
+>P1;gi|24650747|ref|NP_524538.2| Ribosomal protein L1 CG5502-PA [Dro... [ score 337 E 1e-91 ] [ range 10 .. 265 ]
+sequence
+--VSVYTEKNEPAKDICLPA-VFKAPIRPDVVNEVHQLLRRNNRQAYAVSELAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKTFRRWHRKVNVNQRRYALVSAIAASGVPALVQSKGHVIDGSEFPLV
+VSDEVQKVQKTKQAVIFLRRLKIWADIQKVYKSRFRAGRGTMRDRRRIARRGPLVVYDK------DEGKA
+FRNIPGIETINVD---------------KLNLLKLAPGGHVGRFVIWTESAFARLND---*
+>P1;gi|15790633|ref|NP_280457.1| 50S ribosomal protein L4E; Rpl4e [H... [ score 337 E 1e-91 ] [ range 1 .. 250 ]
+sequence
+MQVTVRDLDGDDAGTLDLPR-VFEEPVRPDLVKRAVLAAQANRTQEYGADEYAGLRTTAESQGSGRGMAH
+VPKANGQGARVPQTVGGRKAHPPKAEKDHGLDVNDKERKAAVRAAVAATTDSELVADRGHNFDDDEFPLV
+VSDDFEDLVKTQDVVSLLEALGVHADIERADEGRVRAGQGTLRGRKYQEPTSILFVTES------GPSTA
+ARNLAGVDVATGR---------------EVNAEDLAPGAEPGRLTVWTESAVEEVAQR--*
+>P1;gi|15678034|ref|NP_275148.1| ribosomal protein L4 (E.coli L4) [M... [ score 336 E 2e-91 ] [ range 1 .. 251 ]
+sequence
+MKIKVYSLEGEAIDEMELPE-IFNEEFRPDVIKRAVLSAQTARVQPWGPDPMAGKRTSAQSYGAGRGVAM
+VPRIKNGSRFVPQAVGGRRAHPPRPQKNYHERINRKERRLAIRSAVAATARKDLVEARGHRIENPQLPLV
+VDDELSMIKRTADTREVFRKLGIMDDIVRAREKKIRAGKGKMRGRKYRTPRGPLIVVGD------DITRG
+ARNHPGVDVVRVE---------------NLNAELLAPGTHPGRLTVFTRSAIEKLDE---*
+>P1;gi|11499508|ref|NP_070749.1| LSU ribosomal protein L4P (rpl4P) [... [ score 336 E 3e-91 ] [ range 1 .. 249 ]
+sequence
+MKAKVLNLKGEVTEEIELPE-VFAEEFRPDIIKRAVLALQSHRRQPYGPNPLSGVDYSWENWGPGHGYAR
+VPRLGRRAVVVPQAVGGRRAHPPKPERKWAEKINKKEMRKALKSAIAATANEELVRQRSHVFEG-ELPKV
+VSNELESVKRTKDVAEVFRAIGVYADVERAKERKYRAGRGKMRGRRYVKKKSVLLVVDD------GVVKA
+AKNLPGVDAVVVK---------------DLNVELLAPGCHPGRLTVWTKSAVEYLGE---*
+>P1;gi|14520557|ref|NP_126032.1| LSU ribosomal protein L4P [Pyrococc... [ score 335 E 7e-91 ] [ range 1 .. 252 ]
+sequence
+MKVKVFDLNGQPVDEIELPK-VFFTPFRPDLIRRAVIASWTHRIQPQGRDPMAGKRRVTENIGKGHGMAR
+VERLKTPAAFVPFARGGRRTHPPKVEKIIWEGINKKERRLAIMSAIAATANYDIVKARGHIIDNPQLPLI
+VVDDLQKVSKTRETREIFKKLGIWDDIERAKEKGIRAGKGKMRGRRYKKAKGPLIVVGE------GIVFG
+ARNHPGVDVVVVD---------------NLGVEHLAPGTHPGRLTVWTVSAIERLKE---*
+>P1;gi|18978196|ref|NP_579553.1| LSU ribosomal protein L4P [Pyrococc... [ score 334 E 1e-90 ] [ range 1 .. 252 ]
+sequence
+MKVKVFDLNGQPVGEIELPK-VFFTPFRPDLIRRAVIASWTHRIQPQGRDPMAGKRRVTENIGKGHSMAR
+VERLKTPAAFVPFARGGRRTHPPKVEKIIWEDINKKEKRLALMSAIAATANYDLVRARGHIIDNPQLPLI
+VVDDLQKVQKTRETREIFKKLGIWDDIVRAKESGVRAGKGKMRGRRYKKAKGPLIVVGE------GIVLG
+ARNHPGVDVVVVD---------------NLGVEHLAPGTHPGRLTVWTVSAIERLRE---*
+>P1;gi|14591534|ref|NP_143616.1| 50S ribosomal protein L4 [Pyrococcu... [ score 331 E 9e-90 ] [ range 1 .. 252 ]
+sequence
+MKVKVFDLNGQPVDEIELPR-VFLTPFRPDLIRRAVIASWTHRIQPQGRDPMAGKRRVTENIGKGHGMAR
+VERLKTPAAFVPFARGGRRAHPPKVEKIIWEGINKKERRLAIMSAIAATANYDIVKSRGHIVDNPQLPLI
+VVDDLQKVSKTRETREIFKKLGIWEDIERAKESGVRAGKGKMRGRRYKKAKGPLIVVGE------GIVFG
+ARNHPGVDVVVVD---------------NLGVEHLAPGTHPGRLTVWTVSAIERLRE---*
+>P1;gi|21228227|ref|NP_634149.1| LSU ribosomal protein L4 [Methanosa... [ score 330 E 1e-89 ] [ range 4 .. 249 ]
+sequence
+--AKTIDLTGRTVGEIELPA-VFDADYRPDLIKKAVLAAQANRLQPYGPSLYAGMKTSATGWGSGRGVSH
+VPRLKSRAARVPHAKGGRRAHPPKPEADRSEKVNTKERRYAIRSAIAATIDPTLVNLRGHIFEA-ELPIV
+AVNDLENLERTKQVIEFLEAAGLYEDVLRAKYGRIRAGRGKLRGRKYKHKKSVLIVAGE------NILKA
+ARNLSGVDVVTVD---------------SLNAELLAPGTHAGRLTVWTESAIGKLE----*
+>P1;gi|31207397|ref|XP_312665.1| ENSANGP00000020662 [Anopheles gambi... [ score 330 E 2e-89 ] [ range 10 .. 264 ]
+sequence
+--VSVYSDKNEAVKDVALPA-IFKAPIRPDVVNEVSQLMRRNRRQAYAVSEAAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKPWRRWHRKININLKRYALVSALAASGVPALVQSRGHIIDGSELPLV
+VSDDIQKFQKTKQAVTFLRRSKVWADVQKVYKSRLRAGRGKMRNRRRVQRRGPLIIYDE------GLRRA
+FRNIPGVDTMRVS---------------KMNLLKLAPGGHVGRLCVWTESAFAKLD----*
+>P1;gi|548772|sp|Q06845|RL4_HALHA 50S RIBOSOMAL PROTEIN L4E >gi|6293... [ score 330 E 2e-89 ] [ range 1 .. 248 ]
+sequence
+MQVTVRDLDGDDAGTLDLPR-VFETNVRPDLVNRAVLAAQANRTQEYGADEYAGLRTTAESQGSGRGMAH
+VPKQTGRVRRAPDSFGGRKAHPPKAEKDRSLDVNDKERQLAVRSALLATADHDSELARGHNFDDDEFPLV
+VSDDFEDLVKTQDVVSLLEALGVHADIERADEAAVRAGQGELRGRKYQEPTSILFVTSE------SGPST
+ARNLAGVDVASGR---------------EVNAEDLAPG-EPGRLTVWTESAVEEVAQR--*
+>P1;gi|15920640|ref|NP_376309.1| 269aa long hypothetical 50S ribosom... [ score 329 E 3e-89 ] [ range 12 .. 262 ]
+sequence
+-KTHIFDLKGNKVEEIELPI-FFSYPVRKDLIRRVFISEFTKALQPKGRDPMAGKRTSALSFGINLGLAR
+VPRVKGEAALAPNTVGGRLAFPPTVEKKLVEEVNKKEKKLAIISALSATANMNFVKNRGHVFSIDTLPII
+VVDDITKLTKTKEIIEVLESLKVYEDVERVKDRRIRSGKGKMRGRRYKEPKGPLFVIHE------NNVKA
+ASNIPGVDVILAS---------------DLSVIHLAPGGHPGRLTIYTKSSIDVLRKR--*
+>P1;gi|23051980|ref|ZP_00078670.1| COG0088: Ribosomal protein L4 [Me... [ score 328 E 5e-89 ] [ range 4 .. 249 ]
+sequence
+--AKTIDLTGKVVREIELPD-VFDVDYRPDLIKKAVLAAQANRLQPYGPRLYAGMETSARGWGSGRGTSH
+VPRLSSRAARVPHARGGRRAHPPKPEADRSEKVNTKERRYAIRSAIAATRDPTLVSLRGHIFEA-ELPIV
+TENALEDLDKTKQVIEFLQAIGVYEDVLRAKYGRIRAGRGKLRGRKYKHKKSVLIVAGE------SILKA
+ARNLSGVDVATVD---------------SLNAELLAPGTHAGRLTIWTESAVEKLE----*
+>P1;gi|20089943|ref|NP_616018.1| ribosomal protein L4 [Methanosarcin... [ score 328 E 6e-89 ] [ range 4 .. 249 ]
+sequence
+--AKTIDLTGKAVGEVELPA-VFDADYRPDLIKKAVLAAQANRLQPYGPRLYSGMETSARGWGSGRGVSH
+VPRLSSRAARVPHAKGGRRAHPPKPEADRSEKVNTKERRYAIRSAIAATTDPTLVSLRGHIFEA-ELPIV
+AVNDLESLERTKQVIEFLEAAGLYEDVLRAKYGRIRAGRGKLRGRKYKHKKSVLIVAGE------NILKA
+ARNLSGVDVVTVD---------------SLNAELLAPGTHAGRLTVWTESAIGKLE----*
+>P1;gi|18313002|ref|NP_559669.1| ribosomal protein L4 [Pyrobaculum a... [ score 324 E 1e-87 ] [ range 28 .. 279 ]
+sequence
+-KLKVYGIDGAYVADIEAPL-HFLEPIRPDLIRRAYLSALSARFQPKGVYEGAGKEHSCESFGVGLGIAR
+IPRYKGRGCFAPNTRGGRRAHPPKVEKKLHEEINKKEKKLAIRSAIAATAYRSWVAARGHVVEKPSLPVV
+VVGDAEKINRAKEAKKLFEALGLWPDVERAAEGKIRAGKGKMRGRRYKEPKSVLVVVSD------PLIAA
+VRNFPGVDVVAVN---------------NLNILVLAPGGVPGRLTLWTAPAVEKLR----*
+>P1;gi|28828239|gb|AAO50916.1| similar to Arabidopsis thaliana (Mous... [ score 324 E 1e-87 ] [ range 7 .. 260 ]
+sequence
+--VQVFDAQNKVVGKVKLPN-VLTTPIRPDLVNFVHPNLNKNARQAYGAAPYAGEQTSAESWGTGRAVAR
+IPRVPGGTHRSGQGRGGRMYGPNKTWRRWNRKVNVNQKRYAVVSALAASAVPALVMARGHRINGNEVPLV
+IANEVDTLQKTKAAVELLKKINAYADVTKVIDSKILAGAGKARNRRYKVRKGPLVVVSG------KVSQA
+LRNIPGVEVANVS---------------RLNLLKLAPGGHLGRFIIWTKSAFEQLD----*
+>P1;gi|15897622|ref|NP_342227.1| LSU ribosomal protein L4AE (rpl4AE)... [ score 320 E 2e-86 ] [ range 9 .. 260 ]
+sequence
+-KSDILDKDGNRIKEVELPI-IFSFPVRKDLIRRVFIAEFTHSLQPKGRDPNAGKRTSAESFGINLGMAR
+VPRVKGEAALAPNTVGGRLAFPPSVNKKLAEEANVKEKRLAVISALSATADIAFVRARGHVFDSVRFPIV
+VTDDIVNLKTTSEVEEFLKKIGVYDDVERVKERRIRAGKGKMRGRKYKEPIGPLIIVHD------SIIKA
+ARNLAGVDVVNAK---------------DVSVIHLAPGAHPGRLTIYTESSIKILDER--*
+>P1;gi|6319505|ref|NP_009587.1| N-terminally acetylated protein comp... [ score 319 E 3e-86 ] [ range 5 .. 260 ]
+sequence
+-QVTVHSLTGETANALPLPA-VFSAPIRPDIVHTVFTSVNKNKRQAYAVSEKAGHQTSAESWGTGRAVAR
+IPRVSGQGAFGNMCRGGRMFAPTKTWRKWNVKVNHNEKRYATASAIAATAVASLVLARGHRVEKPEIPLV
+VSTDLESIQKTKEAVAALKAVGAHSDLKVLKSKKLRAGKGKYRNRRWTQRRGPLVVYDN------GIVKA
+LRNVPGVETANVA---------------SLNLLQLAPGAHLGRFVIWTEAAFTKLDQ---*
+>P1;gi|16082269|ref|NP_394727.1| probable 50S ribosomal protein L4 [... [ score 313 E 2e-84 ] [ range 4 .. 252 ]
+sequence
+-KVPIYSVSGEMKGEIDLPE-VFDTEVREDIIRRAFRAISLSMRQPYGSSPLAGMRRVGHTTRPGLGISR
+MPRIAGGSRVVGSAVGGKSAHSPRTTKNLYVKINDRERKMAKYSAIALTASVEAVKKRGHRFKEGKLPIV
+VEDGVEGINKTKDAIALLKNLGVYEDIERSREGKIRAGRGKMRGRRYKQPKSVLIVARN------SSAKA
+FRSLPGVDIASPN---------------SLSIRKLAPGGVGGRLTIFTEGAIESLKE---*
+>P1;gi|22406373|ref|ZP_00001223.1| COG0088: Ribosomal protein L4 [Fe... [ score 311 E 9e-84 ] [ range 1 .. 254 ]
+sequence
+MKTNVYSIEGEVTKEIELPQ-VFEIETREDLIHKAFRAISLSMRQPYGSSPLAGTRRVGHNLGPNHGISR
+IPRLASGSRGVASMVGGRSALSPRSDKVLYKKINKKERRLAKLSAIAFTANKERILQRGHRISEESFPVV
+VEDDIESITKVKDAVQVLSNLGVYDDVLRSKDKKIRAGRGKMRNRTYKQPKSLLIVGSS------ESLRA
+FASLPGVDLASLN---------------SLSITKLAPGGNPGRLTIYTASTIENLRE---*
+>P1;gi|32398896|emb|CAD98361.1| 60S ribosomal protein-like, probable... [ score 310 E 2e-83 ] [ range 8 .. 265 ]
+sequence
+--VSVFNDSTKATSSIPLPT-VFVSPLRHDLVRYVFTNMSKNKRQAYGVSTKAGHQHSAESWGTGRAVAR
+IPRVSSGTSRSGQGRGGHMFSPNKTYRRFHRKINTTEKRHAVAAAIAATGCPSLVMARGHRINNPELPLV
+ISNEIQNINKTSTAVEFFKNFGLEEEMKRIESSAIRCGKGKMRNRRRVCAVGPLVVYDN------GIVKA
+MRNIKGVDTCSVE---------------RLNLLRLAPGGTFGRLTIFTKGAIKRLQE---*
+>P1;gi|19173410|ref|NP_597213.1| 60S RIBOSOMAL PROTEIN L4 [Encephali... [ score 308 E 5e-83 ] [ range 4 .. 257 ]
+sequence
+-QINCYEADGVTVKKLDLPE-VFSVPIRQDLVLKTYSLYRMKTRQPYAVSKNAGMQHSAESWGTGRAIAR
+VPRVKGGGRRAGQGAFGRMAHPTKTHRRWARKVVENTKKIAEAMAVAASAQASLVEARGHRIDVKMLPII
+VSDDIAKARKTKDAVEILRNLNMTEELKRVEKSRVRCGKGKMRNRRYTQRKGILIVHGE------SSEMG
+FRNIRGVDQMSID---------------SLDLLELAPGGVAGRLIIWTESAFEKLD----*
+>P1;gi|20093852|ref|NP_613699.1| Ribosomal protein L4 [Methanopyrus ... [ score 307 E 1e-82 ] [ range 1 .. 257 ]
+sequence
+MEAPVFNLEGEEVDTVELPS-FFEEPVRKDLIRRAVLAAQANRRQPYGTDPRAGFRTSAESWGAGHGVAM
+VPRVKGRAARVAQAVGGQKAHAPTPEKDWTQRVNRKERRAALRSALAATAKPEFVKERGHVIDDPHLPVV
+VVDELKSLNKAREVREFFKSVGLWADVERAKSRRIRAGKGKRRGRRYVKPKSVLIVVDE------DIKLG
+ARNHPGVDVVEAM---------------HLGVEHLAPGAHPGRLTVFTPGALEVLEER--*
+>P1;gi|13541156|ref|NP_110844.1| 50S ribosomal protein L4 [Thermopla... [ score 306 E 2e-82 ] [ range 4 .. 252 ]
+sequence
+-KVPIYSINGEKRGEIDLPE-IFNYSVREDLIRKAFRAISLSLRQPYGSSPLAGLRRVGHTTKPGLGISR
+MPRIAGGSRVVGSAVGGKSAHSPRSTKKLYVGINEKERKMAKFSAIAMTASADAVRKRGHRFSESPLPVV
+VEDAVSGIKKTKDAVNLLKSIGLYEDILRSKEGKIRAGRGKMRNRRYKVPKSLLIVGTD------SVSKV
+FKSLPGVDVASMD---------------SLSIRKLAPGGVGGRLTVYTESAIEKLRE---*
+>P1;gi|40740008|gb|EAA59198.1| hypothetical protein AN8176.2 [Asperg... [ score 304 E 9e-82 ] [ range 7 .. 266 ]
+sequence
+--VSIASGEGKPTGTCPLPA-VFNSPIRPDIVQQVHTGMAKNKRQPYAVSEKAGEQTSAESWGTGRAVAR
+IPRVSGGGHRAGQAAFGRMFAPTKVWRKWHQKVNLGQRRFATASALAASSVPSLLFARGHRINVPEVPLV
+VDSKFENVTKTKAAVALLQALGAGPELVKVKSRKLRAGKGKLRDRRFRQRRGPLVVYNP------EVDRA
+FRNIPGIETSPVF---------------SLNLLQLAPGGHLGRFIVWTSSAFEALD----*
+>P1;gi|42553433|gb|EAA76276.1| hypothetical protein FG07186.1 [Gibbe... [ score 304 E 1e-81 ] [ range 7 .. 266 ]
+sequence
+--VTILGKDGAPTGATHIPA-VFTSPIRPDIVQQVHTGMAKNKRQPYSVSEKAGHQTSAESWGTGRAVAR
+IPRVSGGGHRAGQAAFGRMFAPTKIWRRWHIKVAVGQKRYAVCSALAASAAVPLLQARGHQVSVPEVPLV
+IDSAVAAIAKTSAALGLLKAVGAGEDVSKVKNSKIRAGKGKLRGRRHRQRRGPLVIYSK------ELVTA
+FRNITGVETCPVT---------------ALNLLQLAPGGHLGRFIVWTSGAFKALD----*
+>P1;gi|29249381|gb|EAA40894.1| GLP_79_45017_44067 [Giardia lamblia A... [ score 304 E 2e-81 ] [ range 5 .. 249 ]
+sequence
+--VKVFGPTGTQVAELPRPK-VFNVPLRPDIINFVHTQLRKCLRTPYAVSRYAGVQCTAHSWGPGRAVAR
+LPRKHGGGAYANFARGGHMAHPTTVIRRWCRKVNLNQRRYAVASALAASANAALVEARGHRIDVPSIPLV
+VDTD--NVTKTKDALAIIKAVGVLRDVERCKDSRIRAGRGKMRNRRYITRKGPLVIYNE------DVARG
+FRNLPGVDLCHVS---------------SIRLLELAPGSHPGRLILWTKSAFASLDD---*
+>P1;gi|44409569|gb|EAJ07057.1| unknown [environmental sequence] [ score 303 E 2e-81 ] [ range 7 .. 276 ]
+sequence
+--AETYSVEAKDGKAVQLPD-AFTSQIREDLVRSAVLASRANRRQSYGHREHSGKRHSVEWWGKGRGVSR
+IMRKAGQGAQNPHTRGGRRAHGPKVEKEWSQKINSREKRIARDSAIAASCDPDTVSSRGHRFEEGRFPII
+IDDYVESRGKTRKFVAMMEGLGLSSDLERSKSGRIRAGKGTMRGRKYRTPKSILLVVAQ------KGDKG
+ARNLPGVDVVTAK---------------DLCAEDLAPGGDIGRLTVWTKSAVEALE----*
+>P1;gi|45359107|ref|NP_988664.1| LSU Ribosomal protein L4P [Methanoc... [ score 302 E 4e-81 ] [ range 1 .. 251 ]
+sequence
+MNVKVYNLDGSEKGDIELPA-VFEAEYRPDLIKRAVISSLTAKLQPKGCDAFAGYRTSAKSIGKGHGKAR
+VRRTAGAGAFVPQAVGGRRAHPPKVEKILFERINRKEKLKALASAIAASANPEIVSARGHKIEGPSLPLV
+VNAEFESLVKTKEVLEVFKTLKLDADLERAKDGKIRAGRGKLRGRKYIKPKSVLVVVGD------EAITA
+SRNLAGVDVITAN---------------DLSAIHIAPGTMAGRLTLWTENAIEKINGR--*
+>P1;gi|14600546|ref|NP_147063.1| 50S ribosomal protein L4 [Aeropyrum... [ score 299 E 3e-80 ] [ range 17 .. 267 ]
+sequence
+--VPVYDERGGEKDSVVLPQ-IFRFPVRKDLIRRAFLSEFTARLQPKGRDPMAGKRTSAVSLGVGRGVAR
+VPRIKGRAALVNMARGGRAAHPPRVEKVLKEYINKKEKRLATISAISATSREDLVRQRGHRFSAETLPIV
+LDSSVAKISTAREARSLLESVGVYEDVLRAKEGKYNAGKGKMRGRRYKVPKSVLFVLED------PRSPA
+VKGMPGVDVVTPT---------------LLSVLHLAPGGHPGRLTIYTTEALKLLSRR--*
+>P1;gi|13812037|ref|NP_113168.1| 60s ribosomal protein L1 [Guillardi... [ score 297 E 1e-79 ] [ range 4 .. 251 ]
+sequence
+--ANVYSCNKNIIDKLKIPK-VFFSKIRVDIVRFVHKNMCKNKRQVYAVSSTAGMGTSAVSWGTGRAVSR
+VPRVPGGTHRSGQGRGGRIFNPTTIWRKWHHKINKNQRKSAIFSAIASSSIVSIIVSRGYRVKTPEIPFV
+IEDSIEKIPKTRDLIKILTTLGINSIVRNKLKRKLKSGKGKMRNRRFKKPTGPLLVFKN------NL-KS
+LRNIANIDCMKIS---------------ALNLTKLAPGGHLGRLCIWSSKAFQML-----*
+>P1;gi|32404892|ref|XP_323059.1| hypothetical protein [Neurospora cr... [ score 295 E 6e-79 ] [ range 7 .. 264 ]
+sequence
+--VTIIGADGKATGTTELPK-VFGAPIRPDIVKHVHTGMAKNKRQPYSVSEKAGHQTSAESWGTGRAVAR
+IPRVSGGGHRAGQAAFGRMFAPTKIWRKWHVKVNQGQKRFATASALAASAAAPLLMARGHQVSTPEVPLV
+VDSAFSGVNKTANALALLKAVGAGADVQKAKSKKLRAGKGKLRDRRHRQRRGPLVVYSK------DLIKG
+FRNIPGVETSPVD---------------ALNLLQLAPGGHLGRFIVWTSAAIKELD----*
+>P1;gi|6441068|dbj|BAA78600.1| 60S ribosomal protein L4 [Chlamydomon... [ score 292 E 5e-78 ] [ range 1 .. 218 ]
+sequence
+--------------------------------------MAKNKRQAYAVFMKAGHQTAAESWGTGRAVSR
+IPRVPGGGHRAGQARGGRMFAPTKTWRRWHRKVNLTQKRHAVASALAASALPSLVMARGHRIEQPEVPLV
+LSDAVESVSKTSKALEILKKIGAAPDVEKAKASKLRRGKGKMRNRRYTLRKGPLIVNDS------GISRA
+FRNLTGVEVTSVD---------------HLNLLQLAPGGHMGRFCVWTKSAFDKLD----*
+>P1;gi|38111681|gb|EAA57221.1| hypothetical protein MG08190.4 [Magna... [ score 288 E 9e-77 ] [ range 7 .. 266 ]
+sequence
+--VTIIGADGKASGATPIPN-VFTAPIRPDIVQQVHKGMAKNKRQPYAVSEKAGHQTSAESWGTGRAVAR
+IPRVSGGGHRAGQAAFGRMFAPTKVWRKWHIKVNQGQKRFATTSALAASAVAPLLLARGHRISNPEVPLV
+IDSAAAALAKTAAAVGLLNAVGAGADLDKVKKSRMRAGKGKLRGRRYRQRRGPLVIYDT------DLVKG
+FRNIPGVETSSVY---------------SLNLLQLAPGGHLGRFIVWTSAGFKALD----*
+>P1;gi|43214995|gb|EAC73031.1| unknown [environmental sequence] [ score 283 E 2e-75 ] [ range 3 .. 269 ]
+sequence
+-----FEVSTENGSKLNLPD-SFETTFRPGLIRRAVHSSRANRRQPYGSRPMAGMKFSVEWWGKGRGVAR
+IMRKTGQGAQDPRTRQGRRAHGPKVEKDWSQKLNSKEKILARNSALAATTLPDLVSSRGHKFSGDKLPLI
+LGSDIEDISATRKVHAIFTELGLGDDLNRAKNRKIRAGKGKMRGRRYRTPKSLLLVVSS------NLAKA
+VRNLPGVDVVSAT---------------DLSAEHLAPGGDAGRLTVFTEKSIEAMG----*
+>P1;gi|44623067|gb|EAK55267.1| unknown [environmental sequence] [ score 280 E 2e-74 ] [ range 1 .. 257 ]
+sequence
+MKRDVLTINGKKDGDIELPN-VFETEVNRTLIHKAYINLESHGFQKHSTKPTAGMEVVADSNDTGRGVAR
+IAKIKGQAGEVASTRGGRQAHPPKANKVIYKKLNKKENKLALCSALAATTSKELVENRGHKVEGIELPLI
+ISDDIEKISKTSELIKVIDDLKITQDTDRLKNRKRRTGKVALRGRVSKVGKSALFVVSD------NISKA
+AASIPGIDVCDAK---------------NLSVLNLAPGGTLIRLTVFTKKAIEEIAE---*
+>P1;gi|41614941|ref|NP_963439.1| NEQ146 [Nanoarchaeum equitans Kin4-... [ score 279 E 2e-74 ] [ range 1 .. 264 ]
+sequence
+MEVPLYNLQASQVGNIELPP-QFNEKIRFDVIKRAFLAIQSHKRQPYGASPIAGKQHSAWSWRTGRGISR
+VSRAILRRHGAAQAVKGKKAHPPKAEKDWYEKINKKERRLAIRSALAATKELDLVKARGHIIDKP-VPIV
+V-DGLEQLRKTKEIQQLLLKLGLEKELERVYEIKRRAGKGKRRGRAYIERKGPLIVYNE------QLFKA
+VDNIPGLDIEEVP---------------NLNVELLAPGAKPGRLLIISKDALETLRER--*
+>P1;gi|22203722|gb|AAM94273.1| ribosomal protein L4 [Chlamys farreri] [ score 269 E 5e-71 ] [ range 7 .. 194 ]
+sequence
+--ISVYDNKGEGTGNVTLPS-VFRAPIRPDIVSFVHSEMRKNSRQPYAVSKYAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKTWRRWHRRININQRRYALCSAIAATGIPALVMSKGHRIEEQEVPLV
+VCDKVQEFKKTKEAVSSSKTLQAWNDIQKVYNSKRRAGKGK-----------------------------
+------------------------------------------------------------*
+>P1;gi|43484939|gb|EAD97216.1| unknown [environmental sequence] [ score 268 E 6e-71 ] [ range 1 .. 243 ]
+sequence
+-----------------MPN-AFEEPVRLDLIRRAVRASRANRRQAYGAARAAGFRHSVSWPGKGRGMAR
+TPRKNGGGGRAPNTVGGRRAHPPKVDKEWDLKINSKERKKAFRSALAATSQESYVGARGHELEKATLPYV
+VEDKIENIASTKRAMALLDGLGLGDDIDRSYDGKIRAGKGKRRGRKYRTPKSVLVVFSN------GSEKA
+FRNLSGVDVTTAK---------------DLNTELLAPGGDPGRLVVFSKSAVSALGER--*
+>P1;gi|43560431|gb|EAE34993.1| unknown [environmental sequence] [ score 265 E 7e-70 ] [ range 1 .. 239 ]
+sequence
+----------------------------------AVHASRANRRQSYGHREHDGMKHSVEWWGKGRGVSR
+IMRKTGQGAQNPHTRGGRRAHGPKVDKDWSQKLNSKERRIARDSAIAASSNPDTVHSRGHRFEEGRFPIV
+IDEYVESRYSTRKFVAMMESLGVSDDLNRSRSGRIRAGKGTMRGRKYRTPKSILLVVAQ------KGDKA
+ARNLPGVDVVTSK---------------DLCAEDLAPGGDLGRLTIWTKSAIEALE----*
+>P1;gi|41718348|ref|ZP_00147369.1| hypothetical protein Mbur225301 [... [ score 264 E 9e-70 ] [ range 1 .. 195 ]
+sequence
+------------------------------------------------------MQTSAHSWGSGRGVAQ
+VPRISNGSRRIPQAVGGRRAHPPKTETDRTEKINKKEKRLAVRSAIAATIDADLVKARGHKF-TAEVPFV
+ADDAIEGLVKIKEVISFLQAAGLYDDIIRAKEGKIRAGKGKRRGRKYKNRKSVLIVTGE------ESSKA
+ANNLPGVDVATVT---------------ALNAELLAPGTHAGRLTVWTQSAITNME----*
+>P1;gi|22758862|gb|AAN05590.1| ribosomal protein L4 [Argopecten irra... [ score 257 E 2e-67 ] [ range 1 .. 184 ]
+sequence
+------------------------------------------------------------------ARAR
+AQEFGTRGAFGNMCRGGRMFAPTKTWRRWHRRININQRRYALCSAIAATGIPALVMSKGHRIEEQEVPLV
+VSDKVQEFKKTKEAVSLLKTLKAWSDIQKVYNSKRRAGKGKMRNRRRIMRRGPLVIYDN------GISRA
+FRNIPGITLINVS---------------RLNLLKIAPGGHVGRFCIWTESAFRQLDD---*
+>P1;gi|43702305|gb|EAF06384.1| unknown [environmental sequence] [ score 238 E 8e-62 ] [ range 3 .. 230 ]
+sequence
+------------------------------IIHKAYINLESHGFQKHSTKPTAGMEVVADSNDTGRGVAR
+IAKIKGQAGEVASTRGGRQAHPPKANKVIYKKLNKKENKLALCSALAATTSKELVEGRGHKVDGDSLPLI
+ISDDIEKVSKTSELIKVIDDLKITQDTDRLKNRKRRTGKVALRGRVSKVGKSALFVVSE------NISKA
+AASIPGIDVCEAK---------------NLSVLNLAPGGTLIRLTVFSKKAIEEIAE---*
+>P1;gi|41148957|ref|XP_034640.3| similar to ribosomal protein L4; 60... [ score 217 E 1e-55 ] [ range 3 .. 167 ]
+sequence
+----------------------------------------------------------------------
+--------------RGGRRFAPTKTWRRWHRRVNTTQKRYAICSALAASALPALVMSKGHRIEEPELPLV
+VEDKVEGYRKTKEAVLLLKKLKARNDIKKVYSQRMRAGKGKMRNRRRIQRRGPIIYNED------NGIKA
+FRNIPAITLLNVS---------------KLTISKLAPGGHVGRFCIWTGSAFRKLDE---*
+>P1;gi|44506449|gb|EAJ73823.1| unknown [environmental sequence] [ score 204 E 1e-51 ] [ range 4 .. 178 ]
+sequence
+----------------------------------------------------------------------
+----AGQAGEVASTRGGRQAHPPKANKVIYKKLNKKENKLALCSAIAATASKDLVEKRGHKVEGDTFPLV
+ISDDIEKISKTAELKKVLEDLKITQDVDRLRNRKRRSGKVALRGRVSKVGKSALFVVSE------NISKA
+AGTIPGIEVCDVK---------------DLSVLNLAPGGTLIRLTVFSKKAIEEIAD---*
+>P1;gi|43420223|gb|EAD68677.1| unknown [environmental sequence] [ score 196 E 3e-49 ] [ range 1 .. 177 ]
+sequence
+----------------------------------------------------------------------
+-----------PNTIGGRRAHPPKAEKDWTLKINSKENKKAFKSALAATSQESYVLARGHQIEKATLPYV
+VEDKIETLAKTKRATSLLEDLGLLEDVKRAREGKIRAGKGKSRGRKYRTPKSVLLVLSE------DSDRA
+FRNLSGVDVTTSK---------------NLNTELLAPGGDPGRLVIFSKSAVSALGER--*
+>P1;gi|14595075|emb|CAC43331.1| putative ribosomal protein L4 [Oncor... [ score 195 E 8e-49 ] [ range 8 .. 134 ]
+sequence
+--ISIYSEKGESSGKVVMPA-VFKAPIRPDIVNFVHTNMRKNSRQPYAVSGLAGHQTSAESWGTGRAVAR
+IPRVGGGTHRSGQGRGGRMFAPTKTWRRWHRRINTTQKRYAICSALAAFACP------------------
+----------------------------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|15558919|dbj|BAB64925.1| ribosomal protein L4 [Paramecium cau... [ score 157 E 1e-37 ] [ range 1 .. 109 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+VEDKIESYEKTKDALNFLKRFGAFEDVQKVVSTKIRAGVSKSRGKKYRVRKGPLVVYNA------KLLKA
+FRNVPGVEVVNVT---------------RLNLLQLAPGGQLGRFVIWTQSAFANLD----*
+>P1;gi|3914702|sp||RL1_ENTHI_2 [Segment 2 of 2] 60S RIBOSOMAL PROTEI... [ score 152 E 5e-36 ] [ range 1 .. 107 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-SKSISVIKKTKQAVYLLKKINAYSDVLKVIASKIRAGQGKMRGRKIKERKGPLVVYGN------DAVKA
+FRNIPGVDTCRVE---------------NLSVLNLAPGCHMGRFIIWPESAFKKL-----*
+>P1;gi|43514211|gb|EAE11837.1| unknown [environmental sequence] [ score 145 E 1e-33 ] [ range 1 .. 94 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------VKLLQEIGAYADVEKVKASRLRSGKGKMRNRRYVQRKGPLVVYAN------DITKA
+MRNIPGVELCSVD---------------RLGLLTLAPGGHVGRFIIWTKSAFEKLD----*
+>P1;gi|22966121|ref|ZP_00013718.1| COG0088: Ribosomal protein L4 [Rh... [ score 127 E 3e-28 ] [ range 1 .. 204 ]
+sequence
+MKCDVKTLDGKDAGSIELSD-VFGLPVRTDLLHRMVRWQLARRQKTKGISEISG--TTAKPFKQ-KGTGH
+ARQ---GSKRSPQFRGGATIFGPVV-RSHAHDLNKKVRKLGLKTALSAKAQAGQL-------------IV
+LDQAISESGKTKDLLAQLKVLGLEK---------------------------VLFIVNE------KFALA
+ARNIIGLDVLPQQ---------------GANVYDI-----LRRDTVLTKEAVKHLEER--*
+>P1;gi|43263471|gb|EAC97450.1| unknown [environmental sequence] [ score 112 E 8e-24 ] [ range 1 .. 90 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------EDLKITQDVDRLRNRKRRTGKVALRGRVSKVGKSALFVVSE------NISKA
+AGTIPGIEVCNAK---------------DLSVLNLAPGGTLIRLTVFSKKAIEEIAE---*
+>P1;gi|3914701|sp||RL1_ENTHI_1 [Segment 1 of 2] 60S RIBOSOMAL PROTEI... [ score 109 E 7e-23 ] [ range 3 .. 99 ]
+sequence
+---------------------------------------------------KAGKQHSAISWGTGRAVAR
+IPRISGGSGRNGQGAFGNMFSPLKNFRKWQRKTPKQMRRFAVASCIAASAVPALVSARGHHIAGPQLPSV
+----------------------------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|44462182|gb|EAJ43855.1| unknown [environmental sequence] [ score 107 E 3e-22 ] [ range 5 .. 79 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------RTIRAGKGTMRGRKYRTPKSILLVVAQ------KGDKG
+ARNLPGVDVVTAK---------------DLCAEDLAPGGDIGRLTVWTKSAVEALE----*
+>P1;gi|15889241|ref|NP_354922.1| AGR_C_3553p [Agrobacterium tumefaci... [ score 95 E 2e-18 ] [ range 1 .. 204 ]
+sequence
+MELNVKTLEGKDAGKVSLSD-IFGLDPRQDILARMVRWQLAKKQQTKNRSEVS--RTGAKMYGTGRARHH
+-------SARAPQFRGGGKAHGPVV-RSHAHDLPKKVRALALRHALSA------------KLKAEEL-II
+VDQLVASEAKTKALLGSFASLGLTNAL--VIGGAELDGNFKL---------------------------A
+AQNIPNVDVLPVQ---------------GINVYDILRRGKL----VLSKAAVEALEER--*
+>P1;gi|15965110|ref|NP_385463.1| PROBABLE 50S RIBOSOMAL PROTEIN L4 [... [ score 94 E 2e-18 ] [ range 1 .. 204 ]
+sequence
+MDLTVKTLEGKDAGKVSLSD-IFGLEPREDIIARVVRWQLAKRQQSKGRAEVS--RTGAKMYGTGRARHH
+-------SARAPQFRGGGKAHGPVV-RSHAHDLPKKIRALGLRHALSAKLKAEDI-------------IV
+IDDLVANEAKTKALAGAFASLGLTN---------------------------ALIIGGA------EIKLA
+AQNIPNVDVLPVQ---------------GINVYDILRRGKL----VLSKAAVEALEER--*
+>P1;gi|23014087|ref|ZP_00053924.1| COG0088: Ribosomal protein L4 [Ma... [ score 94 E 3e-18 ] [ range 1 .. 204 ]
+sequence
+MKTNVISLDNQTVGEIELAD-IFGLPVRGDILFRAVNWQLAKRQKTKTISEISG--TTKKPFAKGGGRAR
+-----QGSLRSAQFRGGSTIFGPVV-RSHAHDLPKKVRKLALKTALSA------------KVADGKL-IV
+VDNATAGSPKTKDLAARLGKLGLS---------------------------SVLFIVDG------NFALA
+SRNIPYVDVLPQQ---------------GANVYDI-----LRRETVLTKDAVAALEAR--*
+>P1;gi|23502109|ref|NP_698236.1| ribosomal protein L4 [Brucella suis... [ score 91 E 2e-17 ] [ range 1 .. 204 ]
+sequence
+MDLTITTLEGKDAGKVKLEE-IFGLDPRDDILQRVVRWQLARRQQ--GSHKAQGRRTGSKMYGTGRARHH
+-------SARAPQFRGGGQAHGPVV-RNHDHDLPKKVRALGLRHALSAKAKASDL-------------II
+IDDLASADAKTKQLVSQFAKLGLEN---------------------------ALLIGGA------EIDRA
+ASNIPNIDVLPVQ---------------GINVYDILRRGKL----VLSKAAVEALEER--*
+>P1;gi|30018381|ref|NP_830012.1| LSU ribosomal protein L1E/L4P [Baci... [ score 88 E 2e-16 ] [ range 3 .. 204 ]
+sequence
+-KVTVYNQTGSQVGEIELAA-IFGIEPNEAVLFEAVMMQRASLRQTHKVKTRSGGRKPWRQKGTGRARQ-
+------GSIRSPQWRGGGTVFGPTP-RSYAYKLPKKVRRLAIKSALATKVVENNI-------------VV
+LEDLVLNAPKTKDMLAVLKGLTVE--------------------------KKALIVTAD------ANESS
+ARNIPGVTVITAD---------------GVNVLDVL---HHDKL-IMTKAAVEKVEE---*
+>P1;gi|23006443|ref|ZP_00048760.1| COG0088: Ribosomal protein L4 [Ma... [ score 88 E 2e-16 ] [ range 2 .. 205 ]
+sequence
+MKLDITTLDGGSAGSVELEA-IFGLEPRADILQRMVRYQLAKRRATHAVKNRSDVDRTSKKLYKQKGTGN
+ARH---GAASAPQFRGGGRAFGPVV-RDHSHDLPKKVRALALKHALSTKAKASTL-------------IV
+VDDIKVDSHKTKAMIERFEKLGL--------SSALIIGGSE---------------VDE------NFGRA
+ARAIPKIDVLPVQ---------------GINVYDI-----LRRDTVLTRAAVDALEER--*
+>P1;gi|13470552|ref|NP_102121.1| 50S ribosomal protein L4 [Mesorhizo... [ score 88 E 2e-16 ] [ range 1 .. 204 ]
+sequence
+MDLKITTLGGKDAGKVKLSE-IFGLDPREDILQRVVRWQLAKKQQAKGRAEIA--RTGAKMYGTGRARHH
+-------SARAPQFRGGGKAHGPVV-RSHEHDLPKNVRALGLKHALSAKAKSAS--------------II
+VIDELKLTEKTKALIANFATLGLSN---------------------------ALVIGGA------ELDKA
+ATNIPNIDVLPIQ---------------GINVYDILRRGTL----VLSKAAVEALEER--*
+>P1;gi|43051446|gb|EAB92133.1| unknown [environmental sequence] [ score 87 E 3e-16 ] [ range 1 .. 204 ]
+sequence
+MKCDVITLANKKSGSVELDD-VFGVAVRNDILSRMVNYQLAKRRKTKTISEIRG--TTAKPWGTGRARA-
+------GSLRATQFRGGQTVFGPVV-RSHSFSLNKKVRKLALKTALSSK------QAEGNLI-------I
+LDDAKCKEAKTKGLSEQLLAMGL---------------------------KSALIVVDK------NFVKA
+AANIPLIDVLPQQ---------------GANVYDILRRDKL----VLTKEAVTHLVER--*
+>P1;gi|23097575|ref|NP_691041.1| 50S ribosomal protein L4 [Oceanobac... [ score 86 E 6e-16 ] [ range 3 .. 204 ]
+sequence
+-KVALLKQDGSNVGDIELND-VFGIEPNTHVLHEAVVMQRASLRQTHAVKNRSGGRKPWRQKGTGRARQ-
+------GSTRSPQWVGGGTVFGPTP-RSYSYKLPKKVRRLALRSALSS------------KVNEESL-LV
+LENISIDAPKTKEIVNILKGLQVDAKALIVLSEK-----------------------DE------TVIRS
+ANNLQNVTVLTVE---------------ELNILDLLMHDKL----IITKDAAEKAGE---*
+>P1;gi|45531561|ref|ZP_00182601.1| hypothetical protein Exigu204201 ... [ score 85 E 1e-15 ] [ range 3 .. 204 ]
+sequence
+-KVALLNQTGTQVGDIELAD-VFGIEPNEAVVYDAIVMQQASRRQTKGRSERGGGRKPWKQKGTGRARQ-
+------GSIRSPQWVGGGTVFGPTP-RSYAYKLPKKVRRLALRSALSSKANNEFIVLEGLTIDAP-----
+---------KTKDMISVFAALSIE--------------------------RKVLVVYNE------TVVLS
+TRNIPGVTVVDAA---------------GVNVLDLVAHDK----VIFTKDAVARVEE---*
+>P1;gi|15925239|ref|NP_372773.1| 50S ribosomal protein L4 [Staphyloc... [ score 85 E 1e-15 ] [ range 5 .. 204 ]
+sequence
+---DVLKLDGTKSGSIELSD-VFGIEPNNSVLFEAINLQRASLRQTHAVKNRSGGRKPWKQKGTGRARQ-
+------GTIRAPQWRGGGIVFGPTP-RSYAYKMPKKMRRLALRSALSFKAQ--------------ENGLT
+VVDAFNEAPKTKEFKNVLSTL--------------------------EQPKKVLVVTEN------NVELS
+ARNIPGVQVTTAQ---------------GLNVLDI---TNADSLVI-TEAAAKKVEE---*
+>P1;gi|132978|sp|P28601|RL4_BACST 50S ribosomal protein L4 >gi|42147... [ score 85 E 2e-15 ] [ range 3 .. 204 ]
+sequence
+-KVALYNQNGQTVGEIELND-VFGIEPNKHVLFEAVIMQRASMRQTKNRAEVSGGGR--KPWRQ-KGTGR
+ARQ---GSIRAPQWRGGGTVFGPVP-RSYSYKLPKKVRRLAIKSALSSK-----------VLEND---IV
+VLDQLSEAPKTKEMVKILNNLSV--------------------DRK------ALIVTDE------NVYLS
+ARNIPGVKVVPAN---------------GINVLDVLNHDKL----VITKAAVEKVEE---*
+>P1;gi|43233554|gb|EAC82377.1| unknown [environmental sequence] [ score 84 E 3e-15 ] [ range 1 .. 186 ]
+sequence
+MKINIHNLKGDVIEKMDADD-IFNVELKNSVIRQAVLSERTNLRQ----GTHSSKNRSAKPWKKGRGVAR
+A-----GTTRSPLWKGGGVVFGPEPHK-YKHKLPKKMSKLARRSVLS------------DKISKDEF-KV
+LEKIFIDTNKTSDFVSFLKKIKLSD-----------------------KRLTILVSTQE------NLILA
+SRNLRNVYVENVR---------------NVSVYDL-------------------------*
+>P1;gi|39936312|ref|NP_948588.1| 50S ribosomal protein L4 [Rhodopseu... [ score 84 E 4e-15 ] [ range 1 .. 204 ]
+sequence
+MELKVTTLEGKEAGSVQLSD-IFGLEPRSDIIQRCVIWQLA-KRQA-GTHKAKGR---AEVWRTGKKMYK
+QKGTGGGSQRVPQFRGGGRAFGPVV-RSHAIDLPKKVRVLALRHALSAKA-----KGGG---------LI
+VLDKAEEAAKTKTLVGHFSGLGLE---------------------------SALIIVNN------GFAAA
+ARNIPNIDVLPVQ---------------GINVYDILRRKKL----VLTKAAVDALEAR--*
+>P1;gi|23108390|ref|ZP_00094614.1| COG0088: Ribosomal protein L4 [No... [ score 83 E 7e-15 ] [ range 1 .. 204 ]
+sequence
+MKVQVLNLDGTAKGEVELSD-VFGLEPRADILHRVVTWQLENRR---GIARKARERSDVARTGKKFG---
+-RQKGGGTARAPIFIGGGKAHGPRV-REFNISLNKKVRALGLKMALSSKAKAGL---------------V
+VVDNLDVDAKTKALVGQLAKANWGKKVLVID------GEG----------------VND------NFAKA
+ARNIVGVNVLPAI---------------GANVYDILKHDTL----VLTRAAVEKLEAR--*
+>P1;gi|27468741|ref|NP_765378.1| 50S ribosomal protein L4 [Staphyloc... [ score 82 E 9e-15 ] [ range 5 .. 204 ]
+sequence
+---DVLKVDGSKSGSVELND-VFAIEPNNSVLFEAINLQRASLRQTHAVKNRSGGRKPWRQKGTGRARQ-
+------GTIRAPQWRGGGVVFGPTP-RSYAYKMPKKMRRLALRSALSF------------KVQENSFTIV
+DTFGFEA-PKTKEFKNVLTTL--------------------------EQPKKVLVVTEN------NVELS
+ARNIPGVQVTTAQ---------------GLNVLDLTSADS----VIITEAAAKKVEE---*
+>P1;gi|15612698|ref|NP_241001.1| 50S ribosomal protein L4; ribosomal... [ score 82 E 9e-15 ] [ range 3 .. 204 ]
+sequence
+-KVALYNQAGSQVGDIELSD-VFGIEPNENVLHDAVVMQQASLRQTKTRSERGGGRKPWRQKGTGRARQ-
+------GSIRSPQWVGGGTVFGPTP-RSYSYKLPKKVRRLAIKSALSS------------KVKAEEIVVL
+ESLALEA-PKTKEMASILSGLSV--------------------DRK------ALVVYND------NVALS
+ARNIPGVTFVTAE---------------GVNVLDVIKHDKL----IITKDAVEKVEE---*
+>P1;gi|20808659|ref|NP_623830.1| Ribosomal protein L4 [Thermoanaerob... [ score 82 E 1e-14 ] [ range 3 .. 203 ]
+sequence
+-KVPVYNVKGEQVGEIELKD-VFGVPVNVAVMHQAVVNYLANQRQ--GT-------HSTKTRGEVRGGGR
+KPRQKGTGRRAPQWIKGGVVFGPKP-RDYSYKLPKKVKRLALKSALSS------------KVRDNE--II
+VLDEFKEQPKTKKVAELLKNFNA---------------------------KSALIVVEK------NVELS
+ARNMPNAKALYAN---------------LLNVLKYE------KFII-TKDAVAIVEE---*
+>P1;gi|43525493|gb|EAE17446.1| unknown [environmental sequence] [ score 81 E 2e-14 ] [ range 1 .. 186 ]
+sequence
+MKIEVYSLNGDVVEKINADD-IFKVALKSSVIRQAILSERANSRQ----GTHSSKNRSAKPWKKGRGVAR
+A-----GTTRSPLWRGGGVVFGPEPHK-YKHKLPKKMSKLARKSVLS------------DKISKDEF--M
+VLDKISDSNKTSDFVAFLSKLKLDD------------------------KKVTILVSSE------NLILA
+SRNLRKVYIENVR---------------NVSVYDL-------------------------*
+>P1;gi|42526280|ref|NP_971378.1| ribosomal protein L4 [Treponema den... [ score 80 E 3e-14 ] [ range 1 .. 203 ]
+sequence
+MEKKVYSVDGKELRTINLDD-VFGLPVNDDVIYYAINNELANKRVTKGRAEVHGSNSKPYSQ---KGTGR
+ARR---GDKKSPLLVGGGTIFGPKP-RDFSYSMPKKAKRLAMKSILSLKAQNDRL-------------VV
+VEDFTVESGKTRDLVKILDNF----------------AKGE---------RAVIILKDD------DVKRA
+GRNIPHLSFLAYN---------------RLRAHDL----FYGRKVIMLESAAKNLSE---*
+>P1;gi|43929921|gb|EAG19955.1| unknown [environmental sequence] [ score 80 E 3e-14 ] [ range 1 .. 182 ]
+sequence
+MKEKISSFDNKVIKEIDLDK-IFGLEFREDIIYRMIRYQLSKRRKTKGISEISG--TTRKPFKKGTGSAR
+-----QGSKRSPQMRGGAVIFGPVV-RSHSHKLPKKIRNLALKIAISK------------KLKDGKLKIV
+DEFKLSK-GKTKIFKSKLEELKIN---------------------------SALFVGGK------EIDKS
+FNNIPNIDVLPLA---------------GLNV----------------------------*
+>P1;gi|28212174|ref|NP_783118.1| LSU ribosomal protein L1E(= L4P) [C... [ score 80 E 4e-14 ] [ range 7 .. 203 ]
+sequence
+-----FNKEGQKVGDFQLSD-VFGVEVNKEVLHQVIVAQLANKRQGTQSS-----KTRAEVSGGGRGTGR
+ARQ---GSIRAPQWIKGGVVFAPKP-RDYSMAIPKSMKRVAMKSALSS------------KVQENE--IV
+ILESLEDAPKTKEIVKMLAAFNA---------------------------KKTLIVTEE------NIYKS
+ARNIEGVTVLPVN---------------NINVYDIL---RYDKFII-TKDAVSKIEE---*
+>P1;gi|43088884|gb|EAC10637.1| unknown [environmental sequence] [ score 80 E 5e-14 ] [ range 1 .. 177 ]
+sequence
+MKTSILNLKNKNVGHVDLSN-IFGAQILPDLIHQYIRYQNAKSRQTKTRSEVSG--RSKKPFSKGTGNAR
+-----QGSNKPPNFRGGAVSMGPQ-NRDHSFSLNKKEKKLALKSALSI------------KFTEEKVIII
+DSFEIKSL-KTKE---------LYSDLKQFDY------------------KSALFIYSE------SGILA
+SANIPRVSILN-------------------------------------------------*
+>P1;gi|43363346|gb|EAD46492.1| unknown [environmental sequence] [ score 79 E 8e-14 ] [ range 4 .. 160 ]
+sequence
+---------------------IFNLPIRSDLLHRIVRWQLAKRQKTLSVTEIRG--TTAKPWNKGSGKAR
+A-----GSVRTTQFRGGAVSHGPVV-RSHSFKLPKKVRSLALKTALSSK--------------KAESKLN
+IIDSI-DLKKTSELVSSFKSLG-W--------------------------KSVLIVTGN------EIDRN
+FRNIPNADVISVK-----------------------------------------------*
+>P1;gi|27380510|ref|NP_772039.1| 50S ribosomal protein L4 [Bradyrhiz... [ score 79 E 1e-13 ] [ range 15 .. 218 ]
+sequence
+MELKVTTLEGKEAGSVQLSD-IFGLEPRQDIIARCVQW-QLNKRQA-GTHKAKGR---AEIWRTGKKMYK
+QKGTGGGSARVPQFRGGGRAFGPVV-RSHATDLPKKVRALALKHALSAKADGDL--------------LV
+IDKAALEAAKTKALLGHFSGLGLTN---------------------------ALIILNN------GFAAA
+ARNIPNMDVLPIQ---------------GINVYDILRRQKL----VLTKAAIDALEAR--*
+>P1;gi|42944040|gb|EAB39031.1| unknown [environmental sequence] [ score 79 E 1e-13 ] [ range 1 .. 186 ]
+sequence
+MKISVLNLKNKSVGDINLSN-IFGVKTFPDLIHQYIRYQNAKSRQTKTRSEVSG--RSKKPFSKGTGNAR
+-----QGSNKPPNFRGGAVSMGPQ-NRDHSFNLNKKEKKLALKSALST------------KFTDEKV--V
+IIDTFE--------IKSFKTKELHSDLKLFDY------------------KSALFIHSE------SGILA
+SANIPKVSILNQK---------------GINVKDL-------------------------*
+>P1;gi|44494837|gb|EAJ66028.1| unknown [environmental sequence] [ score 78 E 2e-13 ] [ range 1 .. 186 ]
+sequence
+MKKQVVNLENKKIKDIEIDS-IFGIKILPDIIHQYIRYQNAKSQQTKSRSEVSG--RSKKPFSKGTGNAR
+-----QGSSKPPHFRGGATSMGPTP-RDHSFSLNKKEKKLALKSALSS------------KLYENE--II
+ILDKLEKTHKTKELISNLNNFDFN---------------------------SALFVFGD------EKIKA
+SSNIPHVSTLNCS---------------GINVKDL-------------------------*
+>P1;gi|44532409|gb|EAJ91321.1| unknown [environmental sequence] [ score 77 E 2e-13 ] [ range 1 .. 203 ]
+sequence
+MKCQVKDFNNKAKGQIELND-VFGIEPRKDILARTVNWQLAKRRSTHKVKLVGDIRTTAKPFRQ-KGTGR
+ARQ---GSSRATQFRGGATVHGPVV-RSHGYKLPKKIRKLALKCALSSK-----------QVDGK---LL
+VLDNFEVSGKTKDLLKTIEKFGL---------------------------KSVLFIDGP------NQNTA
+FANIPKCDFLPSA---------------GANVYDI-----LRRYLVLSREAVQHLEER--*
+>P1;gi|43753943|gb|EAF31407.1| unknown [environmental sequence] [ score 77 E 3e-13 ] [ range 1 .. 182 ]
+sequence
+MKEKINTLDNKTLKEIDLDK-IFSIEIKDEIIYRMVRYQLSKRRKTKGISEISG--TTKKPFKKGTGSAR
+-----QGSKRSPQMRGGAVIFGPQV-RSHAHKLPKKIKKLALKMALSK------------KLKDGKFKI-
+----IDELKMTKPKTSLFKN--------KLSNLKID---------------SALFVENK------DIDKA
+AKNVPKIDILPLV---------------GLNV----------------------------*
+>P1;gi|44621746|gb|EAK54295.1| unknown [environmental sequence] [ score 77 E 3e-13 ] [ range 1 .. 205 ]
+sequence
+MKIDKLSIDGKKT-SIEVKD-IFASKINETLISEVIYKTNANKSKTKQKNEIIG-STSKIYAQKGTGNAR
+-----HASRKAPIFVGGGIAHGPKGESKYKRKLNKNEKRLSIAS----------ILTKKHKLND----LI
+IFNDFSKIKKTKEMNLILKKFHAINSIFILDKSS-----------------------KN------NIDKA
+IRNIPNVKCTDIN---------------HFSAFDI----VKYKKIIFTESSVKELEKR--*
+>P1;gi|16077185|ref|NP_387998.1| ribosomal protein L4 [Bacillus subt... [ score 77 E 4e-13 ] [ range 3 .. 204 ]
+sequence
+-KVALYNQNGSTAGDIELNA-VFGIEPNESVVFDAILMQRASLRQVKNRSERGGGRKPWRQKGTGRARQ-
+------GSIRSPQWRGGGVVFGPTP-RSYSYKLPKKVRRLAIKSVLSSK-----------VIDNNI--IV
+LEDLTLDTAKTKEMAAILKGLSV-------------------------EKKALIVTADA------NEAVA
+ARNIPGVTVVEAN---------------GINVLDVV--NHEKLLI--TKAAVEKVEE---*
+>P1;gi|29348135|ref|NP_811638.1| 50S ribosomal protein L4 [Bacteroid... [ score 77 E 5e-13 ] [ range 1 .. 204 ]
+sequence
+MEVNVYNIKGEDTGKVTLNE-IFGIEPNDHAIYLDVKQFMANQRQTHKSKERS------EISGSTRKIGR
+--QKGGGGARSPVLVGGARVFGPKP-RDYFFKLNKKVKTLARKSALS------------YKVQNNAL-IV
+VEDFVFEAPKTKDFVAMTKNLKVSD----------------------KKLLVILPEANK------NVYLS
+ARNIEGANVQTVS---------------GLNTYRVLNAGV----VVLTENSLKAID----*
+>P1;gi|23112028|ref|ZP_00097573.1| COG0088: Ribosomal protein L4 [De... [ score 76 E 7e-13 ] [ range 3 .. 204 ]
+sequence
+-KVQVVNMQGSPVGELELDE-VFGIEPNTHVMHQAVVGQLASQRRGTHSTLLRGERKPWRQKGTGRARA-
+------GSIRSPLWRGGAVLFGPKP-RKYGFSLPKKVRRLALRSALSS------------KVNEQKL-IV
+LEDLSLNEAKTREMVKVLQALNV--------------------------GKKALIVTDE------TIDRS
+ARNIAGIKTTAVE---------------GMNIYDLLNSDV----IVMTKAAVTKTEE---*
+>P1;gi|15793009|ref|NP_282832.1| 50S ribosomal protein L4 [Campyloba... [ score 76 E 7e-13 ] [ range 3 .. 181 ]
+sequence
+-KVVVLNDKLEKAGELDLPS-KY-AEVNPHYVKSYLASLRANTAHTKGRSDVSGGGK--KPWRKGRGGAR
+A-----GSTRTNVWVGGAVAFGPTNERNYFQKVNKKQKRLALERALADKA------AKGVLFTADSL---
+---AIES-GKTKDANAVIKKLGVKDALIVKD------------------------LLDE------KTLLA
+YRNLANCYVVDVT---------------EVNA----------------------------*
+>P1;gi|44138053|gb|EAH33345.1| unknown [environmental sequence] [ score 76 E 8e-13 ] [ range 1 .. 186 ]
+sequence
+MKKSIKNLKNKTVGDIDLDS-IFGIKQLPDLIHQYIRYQNAKSRQTKTRSEVSG--RSKKPFSKGTGNAR
+-----QGSNKPPNFRGGSVSMGP-VNRDHSFSLNKKEKKLALKSALST------------KVNEDKIIII
+DSFEIKSF-KTKE---------LYLDLKQFDY------------------KSALFIHSE------EGLNA
+SSNIPRISILNQK---------------GINVRDL-------------------------*
+>P1;gi|25411960|pir||E84584 50S ribosomal protein L4 [imported] - Ar... [ score 76 E 9e-13 ] [ range 57 .. 171 ]
+sequence
+--IPVTNFQNEEKGFMVLAD-VFDVPIRKDIIHNVVRWQLAKRQQTKTLSEVSG--TGRKPWGTGRA---
+----RHGTLRGPQFRGGCVMHGPKP-RSHAIKMNKQVRRLGLKIALTARA--------------------
+----------------------------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|45513658|ref|ZP_00165224.1| hypothetical protein Selo142301 [... [ score 75 E 9e-13 ] [ range 6 .. 206 ]
+sequence
+----IQDWQGQTAGNITVER-VAKEESAAAIVHRALIRQLANARQTHASKTRSGGRKPWKQKGTGRARA-
+------GSIRSPLWRGGGVIFGPKP-RDYSVKMNRKERRLALRTAISRSADLVVVQEFADQISRP-----
+---------KTRDVAEALTRWGVEPGVKVLLITADR---------------------DQ------NVELS
+VRNLPNVKLITAT---------------NLNIFDLL---NADR-IVSTSAALEKIQE---*
+>P1;gi|43040326|gb|EAB86692.1| unknown [environmental sequence] [ score 75 E 1e-12 ] [ range 1 .. 205 ]
+sequence
+MKINKLSIDGKKQSIEVLDK-IFSAKINNQLVSGVIYKLNANKAKTKQRNEITG-STSKIYSQKGTGNAR
+-----HSSKKAPIFVGGGIAHGPKGQDNYKRKLNKSEKKMSIASLITEK--------------NKSNNLI
+IFDDFKKIEKTKEMFELLKKFDANNSLLIVDT------KSK-----------------D------NILKS
+TKNIPNVKLTDAN---------------HFSAFDL----VKYKKIIFTESSVKELEKR--*
+>P1;gi|42520529|ref|NP_966444.1| ribosomal protein L4 [Wolbachia end... [ score 75 E 1e-12 ] [ range 1 .. 183 ]
+sequence
+MECNLVNLSNDNVGAAQLPL-IFSAKQKLSILHDIVRWQLAKRRKTKGISDVSG--TTAKPYGQKR-TGR
+ARQ---GSLRSPQFRGGGIIFGPVV-RSHTYSLNKKVRKFGLKIALSLKYLNNQV-------------II
+LDNLNIDVKKTSEMCKCIKNFKFS---------------------------SFLIVYGD------DLLRA
+AKNLHYVDLIKPI---------------GLNVFDI-------------------------*
+>P1;gi|45525159|ref|ZP_00176405.1| hypothetical protein Cwat364401 [... [ score 75 E 1e-12 ] [ range 4 .. 188 ]
+sequence
+--CNVKNWQGEEVGQATLEK-VAKEESASHLLHRAVVRHLANARQGNASSKTGGGRKPWRQKGTGRARA-
+------GSIRSPLWRGGGVIFGPKP-RDFSKKMNRKERRLALRTAIAS------------RVEDM---IV
+VENFTEQLPKTKELASALARWGVEPS-EKVA--------------------LVLLEAGD------NIYLS
+ARNLCFVKILRAD---------------SLNVYDL-------------------------*
+>P1;gi|22998290|ref|ZP_00042390.1| COG0088: Ribosomal protein L4 [Ma... [ score 75 E 1e-12 ] [ range 3 .. 205 ]
+sequence
+-QVPVKDANNQEVRSTELNE-VFGREIRADLLGMAVNYQLAKRRLGTASDVRGGGKKPYRQKGTGNARQ-
+------GTIRAPQFRTGGIVFGPQ-QRDYSHKLNKKVRKLALQTALSVKASSE--------------EMV
+VVDKLELASKTKEMKALLSTLGA--------------------------ARSTFLVVSN------EIVLS
+ARNIPNVMVADVD---------------GVNVYDLL------RYLVITEEAVRSLEEK--*
+>P1;gi|16801841|ref|NP_472109.1| ribosomal protein L4 [Listeria inno... [ score 75 E 1e-12 ] [ range 3 .. 204 ]
+sequence
+-KLSLLKQDGTNAGEITLND-VFGIEPNEKVVVDVILSQRASLRQVKNRSERGGGRKPWRQKGTGRARQ-
+------GSIRSPQWRGGGVVFGPTP-RSYAYKLPKKVRRLAIKSILSSKVNEELVVLEGLTFDAP-----
+---------KTKEFAAFLKNISV--DTKALI---------------------VVAGESE------NVELS
+ARNLQGITVIPAE---------------SISVLEVAKHDKL----IITKAAVEKVEE---*
+>P1;gi|44251004|gb|EAH96837.1| unknown [environmental sequence] [ score 75 E 2e-12 ] [ range 35 .. 238 ]
+sequence
+MKVNLINIETEKTSSEDLQD-FFGLDPRKDILHRVVTWQLSRKRKTKSRGEITG------------STKK
+IMRQKGGGARVNLFRGGGTAFGPKV-RDHSTKLPKKIRKLGLRHALSAKA------------KNNEL-IL
+VDGNFSDLSKTKSIKDKIEKLDLSNSLI-VNN----------------------FDNDN------PFIKA
+AKNIKNIEFLKVD---------------GINVYDILNNQKL----IITKDSLNNIVER--*
+>P1;gi|43869381|gb|EAF88679.1| unknown [environmental sequence] [ score 74 E 2e-12 ] [ range 1 .. 177 ]
+sequence
+MKTPVLNLKNISVGDIDLSN-IFGVKTLPDLIHQYIRYQNAKSRQTKTRSEVSG--RSKKPFSKGTGNAR
+-----QGSNKPPNFRGGAVSMGPQ-NRDHSFNLNKKEKKLALKSALSTK-----------LIDEK---VV
+IIDTFE--------IKSFKTKELYLDLKKFDY------------------KSALFIHSE------NGILA
+SANIPKVSILN-------------------------------------------------*
+>P1;gi|16329940|ref|NP_440668.1| 50S ribosomal protein L4 [Synechocy... [ score 74 E 3e-12 ] [ range 4 .. 206 ]
+sequence
+--CIVKNWQGEEVGNASLTR-VAKEENAAHIVHRALVRQQNNARQGNASAKTGGGRKPWKQKGTGRARA-
+------GSIRSPLWRGGGVIFGPKP-RDYSQKMNRKERRLALRTAIASRADMVVVEAFGDQFSQP-----
+---------KTKELATALTRWGAKPE---------------------KRVLLILDEIPE------NVFLS
+GRNIPYLKILRAD---------------NLNIYDVL----VADTIVATATALEKIQE---*
+>P1;gi|44358382|gb|EAI70706.1| unknown [environmental sequence] [ score 74 E 3e-12 ] [ range 1 .. 203 ]
+sequence
+MKIKSLNLNNKSGKDITLNE-VFGIEPREDIMARVIRWQLAKRRGNHSVQTRSQVKTTAKMYKKGTGKAR
+-----HGSGSVSQFRGGGMAHGP-INHSHSHNLNKKVRKLGLKSALS------------NKFKSGKLIIL
+EASKTDG--KTSTLIKSLDKMGVNN---------------------------ALIISSN------DVINA
+ASNIKNLDVLSHN---------------GLNVYDIVKKDNL----IIIDDALKLVEER--*
+>P1;gi|16125498|ref|NP_420062.1| ribosomal protein L4 [Caulobacter c... [ score 74 E 3e-12 ] [ range 1 .. 205 ]
+sequence
+MKLDVIKLDGGKAGSVDLDD-IFGIEIRGDILQRVVTWQLAKRRKIQVRNEVS--RTSKKMYKKGTGGAR
+-----HGSRRAAQFVGGAKAHGPVV-RSHAFDLPKKIRALALRHALSSKAKASLV--------------V
+VDSVALTEAKTAALRATFDKIGL-------KNALVIAGP----------------EVDA------NFKLA
+ARNIPNVDVLPNA---------------GLNVYD-----VLRRQTVLTKDAVEAISAR--*
+>P1;gi|44402649|gb|EAJ02171.1| unknown [environmental sequence] [ score 74 E 3e-12 ] [ range 1 .. 181 ]
+sequence
+MKIKSLNISNKSVKEITLKE-IFGIVPREDIVARVIRWQLAKRRGNHAVQTRSQVKTTAKMYKKGTGKAR
+-----HGSGSVSQFRGGGMAHGPVVH-SHSHRLNKKVRKLGLKSALS------------NKFKLGK--LI
+ILEKSKSDGKTSSLKKSLDKMGINNAL-------IISGND----------------VDD------KFIKA
+AKNISNLDILSHH---------------GLNV----------------------------*
+>P1;gi|43666646|gb|EAE88314.1| unknown [environmental sequence] [ score 73 E 4e-12 ] [ range 1 .. 205 ]
+sequence
+MKIDKLSIDGKKQSIEVLDK-IFSAKANNQLVSGVIYKLNANKAKTKQRNEITG-STSKIYSQKGTGNAR
+-----HSSKKAPIFVGGGIAHGPKGQNRYTRKLNKSEKKMSIASLITEK--------------NKSNNLI
+IFDDFKKIEKTKEMFELLKKFDANNSLLIVDT------KSK-----------------D------NILRS
+TKNIPNVKLTDAN---------------HFSAFDL----VKYKKIIFTESSVKELEKR--*
+>P1;gi|43707642|gb|EAF08915.1| unknown [environmental sequence] [ score 73 E 6e-12 ] [ range 1 .. 193 ]
+sequence
+-----------KTGSIELED-IFGVEVRSDVLARAVRWQLSMRQKTKNRSEVSSTRTPMRQKGSGRARQ-
+------GFRRSAQMRGGGVVFGPNV-RSHAHRLPKKFRKLALKCALSSKADGALV-----IIENSEV---
+------KSSKTKDFVKTLDKLG-WGKVLIIEGQQI----------------------ND------NLAKA
+ANNIVGLDVLPTV---------------GANVYDI-----LRRDTVLTKDAVAQLTER--*
+>P1;gi|44639001|gb|EAK66507.1| unknown [environmental sequence] [ score 72 E 8e-12 ] [ range 1 .. 204 ]
+sequence
+MKVNLINIETEKTTSEDLQD-FFGLDPRKDILHRVVTWQLSRRRKTKSRGEITG------------STKK
+IMRQKGGGARVNLFRGGGTAFGPKV-RDHSTKLPKKIRKLGLRHALSAKA------------KNNEL-IL
+VDGNFSDLSKTKSIKDKIEKL----DLKNS-----------------------LIVNDN------PFVKA
+AKNIKNIEFLKVD---------------GINVYDILNNQKL----IITKDSLNNIVER--*
+>P1;gi|42989848|gb|EAB61850.1| unknown [environmental sequence] [ score 72 E 9e-12 ] [ range 1 .. 204 ]
+sequence
+MKVNLINIETEKTTSENLQD-FFGLDPRKDILHRVVTWQLSRKRKTKSRGEITG------------STKK
+IMRQKGGGARVNLFRGGGTAFGPKV-RDHSTKLPKKIRKLGLRHALSAKA------------KNNEL-IL
+VDGNFSDLSKTKSIKDKIEKLNLNNSLI-VNN----------------------FDSDN------PFVKA
+AKNIKNIEFIKVD---------------GINVYDILNNQKL----IITKDSLNNIVER--*
+>P1;gi|15835428|ref|NP_297187.1| ribosomal protein L4 [Chlamydia mur... [ score 72 E 1e-11 ] [ range 7 .. 214 ]
+sequence
+-----FDFSGKESGKVELPD-AFFAEGKEQSVKDYLVAIQANKRQTRGRSEVS-HSTRKPFRQKGTGNAR
+-----QGCLAAPQFRGGGIVFGPKPKFDQHVRINKKERRAAIRLLLA------------QKIQTGKL-IV
+ADNSISSLNKTKEALRFLKECNV-------------------------ECRGVLFVSNE------NLRLS
+VRNLAAVRGFTGE---------------NINGYDIA----AARNIVVSEKALELLVE---*
+>P1;gi|43132005|gb|EAC31831.1| unknown [environmental sequence] [ score 72 E 1e-11 ] [ range 1 .. 115 ]
+sequence
+MKYPIFNLNNKKTGDVSLSE-IFGIKVLPDLLHQYIRYQNAKNRQTKSRSEVSG--RSKKPFSKGTGNAR
+-----QGSNKPPNFRGGAVAMGP-VNRDHSFNLNKKEKILALKSALSA----------------------
+----------------------------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|19551747|ref|NP_599749.1| ribosomal protein L4 [Corynebacteri... [ score 72 E 1e-11 ] [ range 4 .. 185 ]
+sequence
+LKLDVQTADGNINGSVELPA-IFDREVSVALLHQVVNAQLAAARQ--GT-------HSTKTRGEVRGGGR
+KPRQKGTGRRAPHFTGGGISHGPKP-RDYSQRTPKKMIKAALYGALSDRAR----NARIHVVSE----LV
+PG----QTPSTKSAKAFIERL--------------------------TERKSVLLVVSR------EDIKS
+ANNLPGVHILAAD---------------QLN-----------------------------*
+>P1;gi|15828001|ref|NP_302264.1| 50S ribosomal protein L4 [Mycobacte... [ score 72 E 1e-11 ] [ range 13 .. 193 ]
+sequence
+-KIDVKTPDGKVDGTIELPA-LFDAPANIALMHQVVTAQRAAARQ--GT-------HSTKTRGDVSGGGR
+KPRQKGTGRRAPQFTGGGIVHGPKL-RDYSQRTPKKMIAAALRGALSDRAR----NGRIHAVTE----LV
+VG----KTPSTKSAKEFLGTL--------------------------TDRKQVLVVIDE------TGAKS
+VRNLPGVHLLSPD---------------QLN-----------------------------*
+>P1;gi|45529031|ref|ZP_00180186.1| hypothetical protein Mther187101 ... [ score 72 E 1e-11 ] [ range 4 .. 204 ]
+sequence
+--VALYNIQGQQVGEVDLDD-VFGGEVNEAVLHDAVVMQLASRRRGTAATRGGGGRKPWRQKGTGRARA-
+------GSIRSPLWRGGAVIFGPQP-RDYGYRLPKKVRRLALRSALASK-----VRD-GNIIVLDEL---
+---KMEK-PRTKDMAHILKNLNAENKALVVTATR-----------------------EP------NVELS
+ARNLPGVRFLTSD---------------GINVYDLL--AH-DKLVI-TKDAVARVQE---*
+>P1;gi|15896382|ref|NP_349731.1| Ribosomal protein L4 [Clostridium a... [ score 72 E 2e-11 ] [ range 4 .. 203 ]
+sequence
+--VEVFNKEGKKVEDIELSE-VFGAKISESALHQVVVAQLANKRQAKTRTEVSGGG--IKPWRQ-KGTGR
+ARQ---GSIRAPQWIHGGVVFAPKP-RDYRISIPKSMRRTAMLSALTS------------KVNDKEM--I
+VLDELKDAPKTKEIVKMLNAFEAKKALIVVAES------------------------DQ------NVYKS
+VRNIQGAAVIPAN---------------NLNVYDIL---KYDKFIV-TKEAVSKIEE---*
+>P1;gi|45507567|ref|ZP_00159910.1| hypothetical protein Avar320401 [... [ score 71 E 2e-11 ] [ range 6 .. 206 ]
+sequence
+----VKNWQGEQVGTFEL-R-VAKETTAAHIVHRALVRQQTNARQGTASTKTGGGRKPWRQKGTGRARA-
+------GSIRSPLWRGGGVIFGPKP-RDFDLKMNRKERRLALRTALVS------------RIDD----LI
+LVEEFSSRPKTKDLVAAFTRWGAEPE------SKIL---------------LILSEFPE------NVYLS
+ARNIENLKLIAAD---------------QLNVYDLL---HADKIVV-TTSALEKIQE---*
+>P1;gi|43267830|gb|EAC99666.1| unknown [environmental sequence] [ score 71 E 2e-11 ] [ range 1 .. 205 ]
+sequence
+MKIEKINIDGNKKSIEVLDE-IFAAKINKQLVSNVLYKTNANKAKTKQQNEIKG-STSKIYAQKGTGNAR
+-----HASRKAPIFVGGGVAHGPKGQSNYKRKLNKNEKRLSVVSMITEKLKKN--------------NLI
+IFDDFEKILKTKEMNKILVKFNATNSIMIIDKKSI-----------------------E------NIHKS
+AKNIPNIKVTDAN---------------HFSCFDLAKY----KKVIFTETSIKDLEKR--*
+>P1;gi|44628497|gb|EAK59248.1| unknown [environmental sequence] [ score 71 E 2e-11 ] [ range 1 .. 183 ]
+sequence
+MEINIKNKSGNSTKNLTLPS-VWNLELNEDLLHQSIYVYLANQRQTKSTKTRSNVKYANQKLRPQKGSGR
+A-RV--GSRRSPLMVGGGVAHGPLP-KNIRKSLNKKMKIKALKIALSA------------KFNDKELNVI
+DQSPIKDNPSTKIINDYIKSLDL--------------------------KGSILFVTPD------NLIKS
+CENINNVEVIEAS---------------SLNA----------------------------*
+>P1;gi|44633049|gb|EAK62446.1| unknown [environmental sequence] [ score 71 E 3e-11 ] [ range 1 .. 182 ]
+sequence
+MKVNLVNIETEKTSSEDLQD-FFGLDPRKDILHRVVTWQLSRKRKTKSRGEITG------------STKK
+IMRQKGGGARVNLFRGGGTAFGPKV-RDHSTKLPKKIRKLGLRHALSAKA------------KNNEL-II
+VDGNFSDLSKTKTIKDKIEKLELNNSLIVNN-----------------------FENNN------PFVKA
+AKNLKNVEFLKAD---------------GINV----------------------------*
+>P1;gi|44237926|gb|EAH87720.1| unknown [environmental sequence] [ score 71 E 3e-11 ] [ range 1 .. 173 ]
+sequence
+MKLDVLNINGSKNSTITLDD-VFGIEPNHHVVHQAVTSELSNSRQGTHSSKNRSMVRGGKPWKKGRGVAR
+A-----GTNRSPIWKGGGVVFGPEPHR-YNKKTTKKMRRLARKSVLS------------DRVKNGKF-IV
+IDDISLEEPKTKLLIDLLSKLDLSDQ------------------------KITLLVDSE------NLFLA
+ARNIPNI-----------------------------------------------------*
+>P1;gi|43154671|gb|EAC42996.1| unknown [environmental sequence] [ score 70 E 3e-11 ] [ range 1 .. 148 ]
+sequence
+MKIDLIKLDGKKVGEINIDD-IFNIEPRVDLMSRVVNWQLSKRRATHSVSRSDISLTKSKAFKQ-KGTGR
+ARR---GANSVVQFRGGGVAHGPVI-RSHEHKLNKKIRKLGLKSALSTK--------------TKENNLL
+IIDKLDSDGKTSSLKKHFDKLKINS---------------------------------------------
+------------------------------------------------------------*
+>P1;gi|43282712|gb|EAD07159.1| unknown [environmental sequence] [ score 70 E 3e-11 ] [ range 2 .. 206 ]
+sequence
+MKIEKINIDGKKVSIEVLDK-IFSAKINKKLVSNVITNANYKGRKAKTKQKNEIIGSTAKIYAKGTGNAR
+-----HASRKAPIFVGGGVAHGPKGEAKYTRKLNKSEKKLSIASLISEK--------------NNTKNLI
+VFDDFSKIKKTKEMNTLLNKFQAKNSLIILDKNS----KGK-------------------------IIKS
+ARNIASIKVTDVN---------------HFSAFD------IIKFIIFTETAIKELEKR--*
+>P1;gi|33864000|ref|NP_895560.1| 50S ribosomal protein L4 [Prochloro... [ score 70 E 4e-11 ] [ range 3 .. 206 ]
+sequence
+-ECVVHDWQGKEAGKASLEK-VSKETTAVDLMHRAVLRQQAHSRQ-----GTASTLTRAEVRGGGRGTGR
+ARQ---GTIRTPLRPGGGIIFGPKP-RTYNLAMNRKERRLALRTALMA------------RIED----VI
+VVKDFGKVPKTREISDALIRLGLAADAKVLI---------------------ILSTPSE------IIRRS
+VRNLEKVKLIAAD---------------QLNVFDLL---HANSLVL-SEEALAKIQE---*
+>P1;gi|42906183|gb|EAB20200.1| unknown [environmental sequence] [ score 70 E 4e-11 ] [ range 1 .. 205 ]
+sequence
+MKIDKLNLDGKKDSIEVLDK-IFSGKINKKLVDKVLTNANYKGRKAKTKQQNEIKGSTAKIYAKGTGNAR
+-----HASRKAPIFVGGGVAHGPKAYKK--RKLNKSEKRLSVTSLIS---------------EKKKLNLI
+FSDFKNEIKKTKEMDQILKKFKIKNSLVLLDK-----------------------LSKE------KIYKS
+LRNIPNIKVTDVN---------------HFSTFDL------IKFIVFTESSVKELEKR--*
+>P1;gi|11036694|gb|AAG27265.1| L4 ribosomal protein [Brachyspira pil... [ score 70 E 5e-11 ] [ range 1 .. 212 ]
+sequence
+MEVVILNENGDSVGNLEVVD-IFKSEVNNNLLYEAIKNELANRRQTHSTKTRAGGKKPWRQKGTGRARA-
+------GSTRSPIWVGGGKTHTPKP-RDYSYRLPKKMKRKALLSVLSLKY-------------GNNVLKV
+FEDFTFDAPKTKRMASFISK------VKEPNSRKVAVGKDESLGDNY-----------N------KLLLS
+LRNIKDLKLVNAD---------------SMSI-------HPLYYVYFTKTALSKLNAR--*
+>P1;gi|38233086|ref|NP_938853.1| 50S ribosomal protein L4 [Corynebac... [ score 70 E 5e-11 ] [ range 4 .. 185 ]
+sequence
+LKLDVLTAEGKTDGQVELPA-IFDREASVALLHQVVNAQLAAKRQTHSA------KTRAEVSGGGRGTGR
+ARQ---GSIRAPHFTGGGISHGPKP-RDYSQRTPKKMIKAALFGALTDRARHE----RIHVISE----LV
+AG----QTPSTKSARSFIE--------------------------RITDRRNVLLVVGR------EDVTA
+ARNLPGVHILFAD---------------QLN-----------------------------*
+>P1;gi|42561269|ref|NP_975720.1| 50S RIBOSOMAL PROTEIN L4 [Mycoplasm... [ score 70 E 5e-11 ] [ range 1 .. 187 ]
+sequence
+MKLQVLDIKGNEIKEIALND-VWGIEPHQQAIYDTVISQQAALRQTKKVKTRAGGRKPWKQKGTGRARQ-
+------GSIRAPQWKGGGVTFGPTPDINYKKSVNKKVRALAFRSVLS--------------LKVKENNLV
+IVDKFEAKPSTKEMVVVMKNLKI--DDQKT-----------------------LIVTKE------KVVKS
+SNNITGVKTISAN---------------QLNVFDL-------------------------*
+>P1;gi|15639183|ref|NP_218629.1| ribosomal protein L4 (rplD) [Trepon... [ score 70 E 5e-11 ] [ range 1 .. 203 ]
+sequence
+MEKTVYSVEGVALRSVELDE-VFGLSVNRGVIYYAINSELSNKRLTKGRSEVHGSNT--KPYKQ-KGTGR
+ARR---GDKKSPLLVGGGTIFGPKP-RDFHYALPKKVKRLAMKSLLSLKAQGDALT-------------V
+IEDFTVESGKTRDLIQVL------------------------RHFAQRERTVFILQNDD------ALLKA
+GRNIPTLSFLSYN---------------RLRAHDL----FYGRKVLVLETAVHKIAD---*
+>P1;gi|44225212|gb|EAH80278.1| unknown [environmental sequence] [ score 70 E 5e-11 ] [ range 1 .. 114 ]
+sequence
+MKISILNLKNKSVGNVDLSN-IFGVKILPDLIHQYIRYQNAKSRQTKTRSEVNG--RSKKPFSKGTGNAR
+-----QGSNKPPNFRGGAVAMGPQ-NRDHSFNLNKKEKKLALKSALS-----------------------
+----------------------------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|43789298|gb|EAF49188.1| unknown [environmental sequence] [ score 70 E 6e-11 ] [ range 1 .. 205 ]
+sequence
+MKIDKINIDGKKNSIEVLDK-IFSAKINKQLVSNVIYKINANKAKTKQRNEISG--STAKIWAKGTGNAR
+-----HSSRKAPIFVGGGVAHGPKGESNYKRKLNKSEKKNSLASLITEKKLNNNV-------------II
+FSDFTSKINKTKEMKSILVKFEILNGLIVLDK------KSK-----------------E------NVYKS
+LRNISNIKTTNAS---------------HFSAYDIVKYKKL----IFTESSVKELEKR--*
+>P1;gi|43772017|gb|EAF40473.1| unknown [environmental sequence] [ score 70 E 6e-11 ] [ range 1 .. 186 ]
+sequence
+MKIDIHNNIGKVVGNMDIKK-LLISDSNFSVVRQAVLSELANLRQ----GTHSSKNRSAKPWKKGRGVAR
+A-----GTIRSPLWKGGGTIFGPEPH-SYNHKLPKKMSRLARKSVISKK-----------IIDGQ---FM
+VLDKIESF-KTSDFISFLDNLNISS------------------------KKTLILVDSE------NLILA
+SRNIRNVFIENVK---------------NVSVYDL-------------------------*
+>P1;gi|15605256|ref|NP_220042.1| L4 Ribosomal Protein [Chlamydia tra... [ score 70 E 6e-11 ] [ range 7 .. 212 ]
+sequence
+-----FDFSGKESGKFELPD-AFFTEGKEQSVKDYLVAIQANKRQWSACTR--GRSEVSHSTKKGTGNAR
+-----QGCLAAPQFRGGGIVFGPKPKFDQHIRINKKERRAAIRLLLA------------QKIQTGKL-IV
+AENSVLDAPKTKEALRFLKECNVERGVLFVDG---LAHVGSNENRLSVRNLSAVFTYGE------NISAA
+ARNI----VVSEK---------------ALELL---------------------------*
+>P1;gi|44375673|gb|EAI82878.1| unknown [environmental sequence] [ score 69 E 7e-11 ] [ range 1 .. 203 ]
+sequence
+MELKLLNENGQEGAVVNASD-VFGRDYNEALIHQVVVAYQANARQGNRADREQVKHTTKKPWGTGRARA-
+------GMSSSPLWRGGGRIFPNSPEENFSHKVNKKMHRAGLCSIFSQ-------LAREGRLS------V
+VEDIILEAPKTKLLAEKFKTMGLD---------------------------SVLIIVDE------NLYLA
+SRNLPHVAIVEAD---------------PLSLIYF-------KKVLVTKAAVAQIEE---*
+>P1;gi|43331184|gb|EAD31110.1| unknown [environmental sequence] [ score 69 E 7e-11 ] [ range 1 .. 186 ]
+sequence
+MKKSILNLKNNEVGTIELEN-IFGQKILPDILHQYVRYQNAKSRQVKSRSEVKG--RSKKPFSKGTGNAR
+-----QGSNKPPNFRGGAVSMGPN-NRDHSFNLNKKERKLALKSALSS------------KLNENKLFII
+DTFKIDS-HKTK-------------DLNK--------------NLKYFDYNSALFIYEE------GVDKN
+FKNIPKISILNQN---------------GINVKDI-------------------------*
+>P1;gi|43935761|gb|EAG23140.1| unknown [environmental sequence] [ score 69 E 9e-11 ] [ range 2 .. 205 ]
+sequence
+MKVEVVKLPSGKDGTIELSE-VFGLEPRKDILHRVVRWQLAKKQQTHSVLTRSESNYSTRKIYKQKGTGN
+AR---AGSRRSPIFRKGGVYKGPTP-RSHTHDLNKKVRSLGLKHALSSKGSGDLV--------------I
+IDKAVIKEGKTKALRKNIQSFG--------------------------KKKLLIITVDK------NFSMA
+VKNMPNVDLLPSA---------------GANVYDILKKDIL----VLTKSGVEALHER--*
+>P1;gi|43460763|gb|EAD85050.1| unknown [environmental sequence] [ score 69 E 1e-10 ] [ range 1 .. 186 ]
+sequence
+MKKQVVNLENKKVKDLDITN-VFGIKLLPDIIHQYIRYQNAKSRQTKSRSEVNG--RAKKPFSKGTGNAR
+-----QGSSKPPHFRGGAISMGP-IPRDHSFSLNKKEKKLAIKSALSSKLLED--------------NII
+FLDTLEKNHKTKELVTKLNNFNFN---------------------------TALFVYGD------EKIKA
+SSNIPHVSILSCS---------------GINVKDL-------------------------*
+>P1;gi|43356834|gb|EAD43278.1| unknown [environmental sequence] [ score 68 E 1e-10 ] [ range 1 .. 147 ]
+sequence
+MKIDLINQENSTVKSIDISD-VFKSEINDGLIHELVTAYRSNGRSAKNRSRVSGGG--AKPWGTGRARA-
+------GTTRGPLWVGGGMAFAT-VDRNYNKKINKKAYKRAMRSIFSAL------------IDENRIVAI
+DSIKIDS-PKTKLGVEVLKSLQL-----------------------------------------------
+------------------------------------------------------------*
+>P1;gi|43481488|gb|EAD95473.1| unknown [environmental sequence] [ score 68 E 1e-10 ] [ range 1 .. 186 ]
+sequence
+MKKPVLNLNNLEVDNIVLDN-IFGIKTLPDVIHQYIRYQNAKSRQTKTRSEVSG--RSKKPFSKGTGNAR
+-----QGSSKPPNFRGGAIAMGP-VNRDHSFNLNKKEKKLAIKSALSS------------KLSEDKIVFI
+DTFKLDN-HKTKTLNNSLKKFDYN---------------------------TALFIYSE------NGILA
+SSNLPRVSLLNQK---------------GINVRDL-------------------------*
+>P1;gi|23018361|ref|ZP_00058078.1| COG0088: Ribosomal protein L4 [Th... [ score 68 E 2e-10 ] [ range 4 .. 185 ]
+sequence
+--IEVKDREGAAKGSVELPD-IFAQKVNIPLIHQVVVAQQAAGRQ--GT-------HSTKTRGEVRGGGK
+KPRQKGTGRRAPQFTGGGTVHGPKP-RDYAQRTPKKMKAAALRGALSNRAQH----GRIHVVSE----FV
+PEDVTTK--RTQTALKTLRKITDSDKVLVVLSR-----------------------EDQ------HNRLA
+LRNLPEVHILDAN---------------QVN-----------------------------*
+>P1;gi|34869382|ref|XP_223835.2| similar to ribosomal protein L4 [Ra... [ score 68 E 2e-10 ] [ range 121 .. 231 ]
+sequence
+--------------------------IRLHIVKFVHTNLRTNNRQ------LCAFRSVQ-----------
+------QGAFRNMCHGGHMFATTKTWHRWHHRIRSKATR----------------------------P--
+--------------RRLLKKLKAWNDIKNVYSHKMRAGKGKVRNAQQSQHWGHCVIYNE------GVFR-
+------------------------------------------------------------*
+>P1;gi|23124125|ref|ZP_00106136.1| COG0088: Ribosomal protein L4 [No... [ score 68 E 2e-10 ] [ range 16 .. 218 ]
+sequence
+----VKNWQGEQVGETTFER-VAKEETASHIVHRALVRQLTNARQGNASTKTGGGRKPWRQKGTGRARA-
+------GSIRSPLWRGGGVIFGPKP-RDFDLKLNRKERRLALRTAFVG------------RIDD----LI
+VVEEFSSRPKTKDLVAALARWGV------VPESK---------------ALLILIADTD------NVYLS
+ARNIENLKLIAAN---------------QLNVFDLL---HADKIVV-TASALEKIQE---*
+>P1;gi|37519655|ref|NP_923032.1| 50S ribosomal protein L4 [Gloeobact... [ score 68 E 2e-10 ] [ range 4 .. 189 ]
+sequence
+--CSIKDWQGNATGEVDLDP-VASAATASHVVYLAFKRQMVNSRQGTASTLTRGERKPWKQKGTGRARA-
+------GSIRSPLWRKGGVIFGPKP-RDFEIKMNRKERRLALRTALQS------------RVED----LI
+VVDEFEGAPKTRELVQAFERWG----VDMASQSILLI----LRERQ------------T------NTYLS
+ARNLPNVKVITAG---------------NLNVRDL-------------------------*
+>P1;gi|44055305|gb|EAG88137.1| unknown [environmental sequence] [ score 68 E 2e-10 ] [ range 1 .. 137 ]
+sequence
+MKISVLNLKNKSVGDIELSS-IFGVKSLPDLIHQYIRYQNAKSRQTKTRSEVSG--RSKKPFSKGTGNAR
+-----QGSNKPPNFRGGAVSMGPQ-NRDHSFNLNKKEKKLALKSALSTK-----------LIDEK---VV
+IIDTFEKSFKTKE---------------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|15607842|ref|NP_215216.1| rplD [Mycobacterium tuberculosis H3... [ score 68 E 2e-10 ] [ range 9 .. 190 ]
+sequence
+LKIDVKTPAGKVDGAIELPA-LFDVPANIALMHQVVTAQRAAARQ-----GTHSTKTRGEVSGGGRGTGR
+ARQ---GSTRAPQFTGGGVVHGPKP-RDYSQRTPKKMIAAALRGALSD-------RARNGRIHA------
+ITELVEGQNSTKSARAFLASL--------------------------TERKQVLVVIDE------AGAKS
+VRNLPGVHILAPD---------------QLN-----------------------------*
+>P1;gi|3122740|sp|O06114|RL4_MYCSM 50S RIBOSOMAL PROTEIN L4 >gi|2113... [ score 68 E 2e-10 ] [ range 3 .. 184 ]
+sequence
+LKVDVKTPAGKTDGSVELPA-LFDVEPNIALMHQVVTAQLAAKRQGTHSTKTRG-EVSGGGKKPYRGSGR
+ARQ---GSTRAPQFTGGGTVHGPKP-RDYSQRTPKKMIAAALRGALSDRARNDRIHAVTELVEGQT----
+--------PSTKSAKTFLGTL--------------------------TENKKVLVVTDE------VGAKS
+VRNLPGVHVISPD---------------QLN-----------------------------*
+>P1;gi|43902776|gb|EAG05738.1| unknown [environmental sequence] [ score 67 E 3e-10 ] [ range 1 .. 205 ]
+sequence
+MKIDKLNIDGKK-DTIEISD-IISSKINNKLVSNVLTNANYKGRKAKTKQKNEVKGSTAKIYAKGTGNAR
+-----HASKKAPIFVGGGVAHGPKGELNYKRKLNKSEKKLSIASLITQK----------NKIND----LI
+IFDDFQKILKTKEMNNILIKFKAINSIIIADK------KSK-----------------D------NIYKS
+IRNIPNVKITDIN---------------HFSAYDLA------KFIIFTETSIKELEKR--*
+>P1;gi|44079225|gb|EAH01410.1| unknown [environmental sequence] [ score 67 E 3e-10 ] [ range 1 .. 204 ]
+sequence
+MKCDIIDLASKKKGAISLQK-VFGVEVRQDILARAVRWQLSRRQKTKQRSEVNSTRTPVRQKGTGRARQ-
+------GFSRAAQMR-GGGVVFGPVVRSHSLSLPKKVRRLAMKCALSAKADGKLV-------------IL
+DSADITSF-KTKDLVQQLATLG-WEKALIIDG----------------------IEVND------NLARA
+ASNIVGLDVLPSS---------------GANVYDI-----LRRVLVLTQDAVARLTER--*
+>P1;gi|41726314|ref|ZP_00153072.1| hypothetical protein Daro132301 [... [ score 67 E 4e-10 ] [ range 1 .. 204 ]
+sequence
+MELKVINEQGQEAAKLQASD-VFGRDFNEALVHQIVVAYQANARQQKDRSEV--RHTTTKPWGTGRARA-
+------GSNGSPLWRGGGRIFPNSPEENFSQKVNKKMFRAGMAAILSELARQDRL-------------VV
+IDDLSVDAPKTKLFTQKLKSMGLE--------------------------GNLLVITDE------NLYLS
+SRNLPNVLVLEAQ---------------EADPVSLV------RFVLVTKNAVAKFEE---*
+>P1;gi|1685372|gb|AAB36823.1| ribosomal protein L4 [Borrelia burgdor... [ score 67 E 4e-10 ] [ range 1 .. 205 ]
+sequence
+MERKVFSKDGKEIGTINLDD-VFNIEISHGSIYNAIKNELSNLRSTKTRSEVRG--SSKKPWKKGTGRAR
+V-----GTKRNPVWIGGGIALGPKP-RDYSYRLPKKVKKLAFKSVLSLRAA-----------DENSFKVI
+ENFSVES-GKTKDLALIIKNFASFN------------GKV-----------VILLGNDD------QIKRA
+GKNIRDLKILSFD---------------KLRVVDLFYAKNLIAL----ESAVNKLNE---*
+>P1;gi|42524374|ref|NP_969754.1| 50S ribosomal protein L4 [Bdellovib... [ score 67 E 4e-10 ] [ range 4 .. 184 ]
+sequence
+--VNVLNWKKEKVGSVELAD-VFETPVKKEVLHTVVQWQLAARRQ-------GTHMTKTKGLVSGGGKKP
+FKQKGTGGARQGSSRGGGTAFGPQP-RSYAFVLPKKVRRLGLSMALS------------HLQKEGKLFIV
+--DSMASEGKTAELNKRLQAFGL--------------------------KKAVLVVVDD------KFNRA
+SKNLPTFKYFPVE---------------GLNVFDL-------------------------*
+>P1;gi|25027079|ref|NP_737133.1| putative 50S ribosomal protein L4 [... [ score 67 E 5e-10 ] [ range 7 .. 185 ]
+sequence
+---DVQTAEGTTNGSVDLPA-IFDREVSVALLHQVVNAQLAAARQ-----GTHSTKTRAEVRGGGRGTGR
+ARQ---GSIRAPHFTGGGISHGPKP-RDYAQRTPKKMIKAALYGALSDRARNE----RIHVISE----LV
+PGQA----PSTKSAKAFIERL--------------------------TERKSVLLVIGR------EDIKS
+ANNLPGVHILAAD---------------QLN-----------------------------*
+>P1;gi|43881754|gb|EAF94864.1| unknown [environmental sequence] [ score 67 E 5e-10 ] [ range 31 .. 198 ]
+sequence
+-----------------------------------VKQHLANKRQTKERSEIAG---SSKKIKKQKGT--
+------GGARVGNAVGGGRIFGPRP-RNYHFKINVKVKRLARKSAFSYKAKSKDI-------------LV
+LEDLNYDTPKTKEFISLMSSLKLQDD-------KIL---------------LVLGTQND------QVYKS
+ARNLKKVKVVTAD---------------TLNTFDLLNA----KKVVLSESSLEKIE----*
+>P1;gi|43044939|gb|EAB88920.1| unknown [environmental sequence] [ score 67 E 5e-10 ] [ range 5 .. 203 ]
+sequence
+------NLDGKKDSIEVLDK-VFSAKINKQLVSNVLTNANYKGRKAKTKQKNEIIGSTAKIYSKGTGNAR
+-----HASKKAPIFVGGGVAHGPKGESNYKRKLNKSEKKLGIASIITEK-------------NLNNNVLV
+FNDFNEKIQKTKDVNKILLKFDAKNSILIVDK------KSK-----------------E------NIEKA
+TRNIPNVKITDVG---------------HFSAFDL----VKYKKVIFTESSIKELEKR--*
+>P1;gi|22297626|ref|NP_680873.1| 50S ribosomal protein L4 [Thermosyn... [ score 67 E 5e-10 ] [ range 4 .. 206 ]
+sequence
+--CVVKDWQGADSGEATLDA-TAKPETASHIVHRALVRQLANARQTVSTKTRAGGRKPWRQKGTGRARA-
+------GSIRSPLWRGGGVIFGPKP-RDYSQKMNRKERRLALRTAL---------MSR---VED----LI
+VVQDFADRPKTKELVTALQRWGIEPE-----------------------QKVLLLAADE------TVALS
+ARNVPTLKLLRAD---------------QLNVFDLL---YADR-IVATTGAIAKIQE---*
+>P1;gi|44614564|gb|EAK49069.1| unknown [environmental sequence] [ score 66 E 6e-10 ] [ range 1 .. 205 ]
+sequence
+MKIDKFSIDGKKDSLEVLDK-IFSAKINKQLVSNVLYKTNSNKAKTKQKNEIIG-STSKIYAQKGTGNAR
+-----HASRKAPIFVGGGVAHGPKGELSYKRKLNKSEKKLSIASLITEKKQLNNL-------------IV
+FSDFNSEIKKTKQMNIILKKFEANNSLIILDK-----------------------NSKE------KISKS
+IKNIPNVKATDIN---------------HFSAFDIIKY----RKLVFTESSIKELEKR--*
+>P1;gi|43364603|gb|EAD47099.1| unknown [environmental sequence] [ score 66 E 7e-10 ] [ range 1 .. 114 ]
+sequence
+MNVNILNLKNKTVGNIDLTS-VFGIKILPDLIHQYIRYQNAKSRQTKTRSEVNG--RSKKPFSKGTGNAR
+-----QGSNKPPNFRGGAVSMGP-VNRSYKFNLNKKEKKLALKSALS-----------------------
+----------------------------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|132981|sp|P10135|RL4_MYCCA 50S RIBOSOMAL PROTEIN L4 >gi|71094... [ score 66 E 7e-10 ] [ range 1 .. 187 ]
+sequence
+MKLQVLDTKGNEIKEIALND-VWGIEPHQQAIYDTVISQQAALRQTKKVKTRAGGRKPWKQKGTGLARQ-
+------GSIRAPQWKGGEVTFGPTPDINYKKSVNKKVRALAFRSVLS--------------LKVKENNLV
+IVDKF-DFAKTKEMVVVMKNLKI--DDQKT-----------------------LIVTKE------KVVKS
+SNNITGVKTISAN---------------QLNVFDL-------------------------*
+>P1;gi|44313227|gb|EAI38835.1| unknown [environmental sequence] [ score 66 E 7e-10 ] [ range 1 .. 205 ]
+sequence
+MKIDKLNIDGKK-NSIDISD-IVSAKINNKLVSNVLYKTNANKAKTKQKNEITG-STSKIYAQKGTGNAR
+-----HASKKAPIFVGGGVAHGPKGELNYKRKLNKSEKKLSIASLITQK----------NKIND----LI
+IFDDFQKILKTKEMNNILVKFEAINSIIIADK------KSK-----------------D------NIYKS
+IRNIPNVKITDIN---------------HFSAYDLA------KFIIFTESSIKELEKR--*
+>P1;gi|23470607|ref|ZP_00125939.1| COG0088: Ribosomal protein L4 [Ps... [ score 66 E 8e-10 ] [ range 1 .. 197 ]
+sequence
+MQLNVNDAQAIEVSELT-----FGGEFNETLVHQAVVAYMASKQQKTRSDVRGGGKRPWRQKGTGRARA-
+------GTIRSPIWRGGGTTFAARPQ-DHTQKLNKKMYRAALRSILA-----ELVR-------TDRL-VV
+VQDFAVEAPKTKDLLNKLTGMGLTD---------------------------VLIVVDQ------NLYLA
+ARNLPHVDVRDVQ------------------------GSDPVSLIAYTVSAVKKFEE---*
+>P1;gi|44530080|gb|EAJ89751.1| unknown [environmental sequence] [ score 66 E 8e-10 ] [ range 1 .. 205 ]
+sequence
+MKIEKLNLDGKKTSIEVLDK-IFSGNINRTLVNNVLYKTNANRAKTKQQNEIKG-STSKIYAQKGTGNAR
+-----HASRKAPIFVGGGVAHGPKSYKK--RKLTKNEKRLSIASLIT---------------EKNKLNLV
+IFSDFASIKKTKEMSKIINKFEINNSLIILDK------KSK-----------------D------KIFKA
+TRNIPSVKVTDVN---------------HFSAFDIV------KFVVFTESSVKELEKR--*
+>P1;gi|44505214|gb|EAJ72996.1| unknown [environmental sequence] [ score 66 E 9e-10 ] [ range 1 .. 205 ]
+sequence
+MKIEKLNIDGKKTSIEVLEK-IFDAKVNHQLISNVLYKTNANKAKTKQKNEIIG-STSKIYAQKGTGNAR
+-----HASRKAPIFVGGGVAHGPKGELSHTRKLNKSEKKQSIASIVS---------------EKKRLNLI
+FSDFSTQIKKTKEMNIILKKFSISNAILILDKLSYK-----------------------------NIIRS
+LKNIPNIKVTDVN---------------HFSAFDL------IKFVIFSESSVKELEKR--*
+>P1;gi|42839249|gb|EAA87085.1| unknown [environmental sequence] [ score 66 E 9e-10 ] [ range 1 .. 146 ]
+sequence
+MKLDIINLKGSKISDIAAAN-VFGIEPNIGVVRQAVLSEMTNMRQTHSSKNRANVKGGGKPWKKGRGVAR
+A-----GTIRSPLWKGGGTVFGPEPHR-YNHKLPKKISRLARCSVLSSKATEGNI-------------LV
+VENTIES-HKTSKFVSVLETLK------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|43471070|gb|EAD90258.1| unknown [environmental sequence] [ score 65 E 9e-10 ] [ range 1 .. 205 ]
+sequence
+MKIDKLNIDGNKNSIEVLDK-IFAAKINKQLVSNVLYKTNANRAKTKQQNEIKG-STSKIYAQKGTGNAR
+-----HASRKAPIFVGGGVAHGPKGQSNYKRKLNKSEKKLSIVSMIT------------EKFKKNN--LI
+IFDDFEKILKTKEMNKILIKFEATNSIMIIDKKSI-----------------------N------NIYKS
+IKNIPNIKITDTN---------------HFSCFDLAKY----KKVIFTETSVKEIEKR--*
+>P1;gi|44192380|gb|EAH62276.1| unknown [environmental sequence] [ score 65 E 9e-10 ] [ range 34 .. 217 ]
+sequence
+MKIDLINQKNSTLKSIDISD-VFKAEINDGLIHELVTAYRSNGRSAKNRSRVSGGG--AKPWGTGRARA-
+------GTTRGPLWVGGGMAFAT-VDRNYSKKINKKAYKRAMQSIFS-------VLTKEKRIIAIDAIKI
+DS------PKTKLGIEVLNSL----EIDNA-----------------------LIIVSS------NLDLS
+LRNIPHITVIDVE---------------NVDPISL-------------------------*
+>P1;gi|44534808|gb|EAJ93015.1| unknown [environmental sequence] [ score 65 E 1e-09 ] [ range 5 .. 180 ]
+sequence
+--------ENSTVKSIDISD-VFKSEINDGLIHELVTAYRSNGRSAKNRSRVSGGG--AKPWGTGRARA-
+------GTTRGPLWVGGGMAFAT-VDRNYNKKINKKAYKRAMQSIFSAL------------IEEKRIVAI
+DSIKIDS-PKTKLGVEVLNSL----ELDNA-----------------------LFIVSE------NLVLS
+LRNIPHIKVISVE---------------NVDPISL-------------------------*
+>P1;gi|43689896|gb|EAF00132.1| unknown [environmental sequence] [ score 65 E 1e-09 ] [ range 1 .. 181 ]
+sequence
+MKIKSVSLSNKLGKEINLNE-IFGIVPREDIVSRVIRWQLAKRRGNHSVKTRSQVKTTAKMYKKGTGKAR
+-----HGSGSVSQFRGGGMAHGPTVH-SHAHSLNKKVRKLGLKSVLS------------NKFKSGK--LI
+ILEASKSDGKTSSLTKSLKKMGVNNAL-------IISGND----------------VDQ------NLIRA
+TSNIRNLDILSHH---------------GLNV----------------------------*
+>P1;gi|44244534|gb|EAH91844.1| unknown [environmental sequence] [ score 65 E 1e-09 ] [ range 1 .. 185 ]
+sequence
+MKISL--VNGKSKKEINISA-IFGNDFNQDLVHQAVVSFLAGGRQKNRSDVRGGGRKPFRQKGTGRARA-
+------GTIRSPLWRGGGVAFA-SSNRDYAKKINKKMYRAAIKSILSELFRQERILA----LSKPKL---
+------KAPKTKEMVKVLKENKLEKE-------------------------SILFILDE------NFHLS
+ARNIPNVEVATVK---------------EINPVLL-------------------------*
+>P1;gi|34558026|ref|NP_907841.1| 50S RIBOSOMAL PROTEIN L4 [Wolinella... [ score 65 E 1e-09 ] [ range 3 .. 200 ]
+sequence
+-KAIILNNELQKNGEVALPE-RFKEIHSHNLVKSYLASLRANSAKAKKRGEVSGGGKKPWSQGGGRARA-
+------GSITSPVFVGGGVSHGPSNNRNYDLKVNKKQKKLALQYALMEKA------------EQGKL-YV
+VDSLQVDSGKTKDAYAMFKTLN---------------------------ERSTLFVSDE------KTFLA
+FRNLKECYLADAN---------------ELNAYLVA----AFRSVVIEKSLFENI-----*
+>P1;gi|43967612|gb|EAG40461.1| unknown [environmental sequence] [ score 65 E 1e-09 ] [ range 1 .. 137 ]
+sequence
+MKKSIVNLNNKNVGDIELDD-IFGIKKLPDLIHQYIRFQNAKSRQTKSRSEVNG--RSKKPFSKGTGNAR
+-----QGSNKPPNFRGGAVSMGP-VNRDHSFSLNKKEKKLALKSALSV------------KFSENNVFII
+DTFAISSF-KTKE---------------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|34499640|ref|NP_903855.1| 50S ribosomal protein L4 [Chromobac... [ score 65 E 1e-09 ] [ range 1 .. 203 ]
+sequence
+MELNVINTQGKAVGSLQVSD-AFGREYNEALVHQVVTAFLANARSNRAQLTRAEVKHSTKKPGTGNARA-
+------GMTSTPNRRGGGRAFPNKPDENFTQKVNRKMYRAGI-----ATILSQLVR--------DERLIV
+VDDLSVASPKTKEFVGAVQPMGLEQ---------------------------ALFITSE------NLYLS
+SRNLPNIEAVQAD---------------PYSLL---------RFTVITRDAVKQLEE---*
+>P1;gi|15604504|ref|NP_221022.1| 50S RIBOSOMAL PROTEIN L4 (rplD) [Ri... [ score 65 E 1e-09 ] [ range 1 .. 115 ]
+sequence
+MKTKILSLANEEVGEITLKD-IFAVEIRDDIIKQVIDWQRAKNHKTKTVSEVSG--TTKKPFKKGTGNAR
+-----QGSLRSVQMRGGGISHGPKV-RSHAIKLPKKVRKLGLIHALS-----------------------
+----------------------------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|29839862|ref|NP_828968.1| ribosomal protein L4 [Chlamydophila... [ score 65 E 1e-09 ] [ range 7 .. 151 ]
+sequence
+-----FDFSGNKAGEVELPD-AFFVQEGNGLVKDYLVAIRANKRQWSACTRNSEVSHSTKKPFKQKGTGN
+ARQ---GCLASPQFRGGGVVFGPKPKFDQHVRINRKEKRAAIR----------LLLSQ--KIQTNRL-IV
+ADDSVSSLAKTKEALRFLKS--------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|44485339|gb|EAJ60266.1| unknown [environmental sequence] [ score 65 E 1e-09 ] [ range 1 .. 186 ]
+sequence
+MEIKVLNQNGSGDSSVSLPD-VFGQKFNADLVHQLVTTYTANGHQTKGQKNRSGGKKPWKQKGTGRARA-
+------GTIRSPIWRGGGMTFAHNYKKNTPKKINKKMYRSAMRSIWSKLA------------EENKIIAV
+NEINIDEPVRTSQVKKILSDIGVSKALVVLNK------------------------NNE------SLNKA
+SRNLKECDVLTIN---------------SINPSLL-------------------------*
+>P1;gi|34901998|ref|NP_912345.1| unknown protein [Oryza sativa (japo... [ score 65 E 1e-09 ] [ range 68 .. 214 ]
+sequence
+---PVLSFTGEKVGEVAL-D-LKSAPTARAVVHRAIITDRQNKRRGTA---------STLTRGEVRGGGR
+KPQKKTGKARRGSMRGGGVIFGPKP-RDWSIKINRKEKRLAISTALASAAVAD------DAFVVEEF---
+-DEEFAAGPKTRDFVAALQRWGL-----------------------------------------------
+------------------------------------------------------------*
+>P1;gi|43892884|gb|EAG00471.1| unknown [environmental sequence] [ score 65 E 2e-09 ] [ range 1 .. 205 ]
+sequence
+MKINKINFEGKK-DSIEVSD-IIGAKINNKLVSNVLYKTNANKAKTKQKNEITG-STSKIYAQKGTGNAR
+-----HASKKAPIFVGGGVAHGPKGELSYKRKLNKSEKKLSIASLI----------SKKNKLND----LI
+IIDDIQKIQKTKEMNNILIKFEAKNSIIIAD---------------IKSRK--------------NIIKS
+VRNIPNVKLTDVN---------------HFSAYDLA------KFIIFTETSIKELEKR--*
+>P1;gi|42965885|gb|EAB49897.1| unknown [environmental sequence] [ score 65 E 2e-09 ] [ range 1 .. 197 ]
+sequence
+------DLNNKPSGQIELND-ILETEYHPQAIKQAVVGFLAANRQTHSTKTRAEVSYSTKKLQKGTGNAR
+-----SGSNKSPLRRHGGITFGPSP-RDYSIRSNKKFRKLALRSAIA------------EKIRQNQLVIL
+EELKLED-HKTKNLKKVLATLEA---------------------------PKALIVTEN------ELMLA
+SRNLQGVHAINQQ---------------SLNVYELL------RFVIFVKDAMESLNSR--*
+>P1;gi|42868566|gb|EAB01527.1| unknown [environmental sequence] [ score 65 E 2e-09 ] [ range 1 .. 205 ]
+sequence
+MKLDKLNLDGKKSSIEVLDK-IFSAKINHKLVSSVLTNANYKGRHAKTKNEVSG-PTSKIYAQKGTGNAR
+-----HASKKAPIFVGGGIAHGPKAYK--TRKLNKSEKKQSIASLITKTLNKDLV--------------V
+LNDFNNEIKKTKEMSLILKKFEILNSLIILDKTS-----------------------KE------KIEKS
+IRNIPNIKVTDIN---------------HFSAFD------IIKFIVFTESSVKELEKK--*
+>P1;gi|44533389|gb|EAJ92041.1| unknown [environmental sequence] [ score 65 E 2e-09 ] [ range 5 .. 204 ]
+sequence
+---NTLDLNNKPSGQIELND-ILETEYHPQAIKQAVVGLAANRHGTHSTKTRAEVSYSTKKLQKGTGNAR
+-----SGSNKSPLRRHGGITFGPSP-RDYSIRSNKKFRKLALRSAIA------------EKIRQNQLVIL
+EELKLED-HKTKNLKNILATLEA---------------------------PKVLIVTEN------ELMLA
+SRNLQGVHAINQQ---------------SLNVYELL------RFVIFVKDAMESLNAR--*
+>P1;gi|33594752|ref|NP_882395.1| 50S ribosomal protein L4 [Bordetell... [ score 65 E 2e-09 ] [ range 1 .. 202 ]
+sequence
+MDLKLLNDQG-QAATFSAPD-IFGRDFNEALVHQIVVAFQANARSNRAQKDRAEVKHSTKPWGTGRARA-
+------GMTSSPLWRGGGRAFPNSPEENFSQKVNKKMYRAGIRSILSQLAREDRVA-------------V
+VDTFTLESPKTKLAAAKLKSLGLD---------------------------SVLIIVDE------NVYLA
+TRNLPHVAVVEAD---------------PLSLIHY-------KKVLITKPAIAQLEE---*
+>P1;gi|44309551|gb|EAI36326.1| unknown [environmental sequence] [ score 65 E 2e-09 ] [ range 1 .. 205 ]
+sequence
+MKIDKLNLNGKKDSIEVLDK-IFSAKVNKKLVDTVLTNANYKGRHAKTKNEVAG-PTSKIYAQKGTGNAR
+-----HASRKAPIFVGGGIAHGPKAYKK--RKLNKSEKKQSIVSLMS------------DKIRNNNL-LV
+FNDFSSEIKKTKEMDIILKKFQITNSIIILDKTS-----------------------KE------KIEKS
+IRNIPNIKVTDIN---------------HFSAFDIV------KFVVFTETSIKELEKR--*
+>P1;gi|42852672|gb|EAA93647.1| unknown [environmental sequence] [ score 65 E 2e-09 ] [ range 2 .. 132 ]
+sequence
+----------------------------------------------------------------------
+-------SRKAPIFVGGGVAHGPKGETKYKRKLNKNEKRLSIAS----------ILTKKYKLND----LI
+IFNDFSKIKKTKEMNLILKKFHAINSILILDKSS-----------------------KN------NIDKA
+VRNIPNVKCTDIN---------------HFSAFDI----VKYKKIIFTETSLKELEKR--*
+>P1;gi|44339416|gb|EAI57169.1| unknown [environmental sequence] [ score 65 E 2e-09 ] [ range 9 .. 199 ]
+sequence
+------------DNKIEISE-CFGVQYNETLVHQVITSYQSNLRQKNRSQVSGGGKKPWRQKGTGRARA-
+------GTTRGPIWRGGGVTFATGI-SNFNKKINKKMTNAAIITIIS-----ELFR---------EQKLV
+VVDKIDKEPKTKLMQTFLDSLKIT---------------------------SALFVTDN------NILLA
+SRNIKNINVISVN---------------NLNPLILLK--H--KNVVFTKNSLTKFEER--*
+>P1;gi|43550253|gb|EAE29895.1| unknown [environmental sequence] [ score 65 E 2e-09 ] [ range 5 .. 192 ]
+sequence
+-----------------LDK-IFSAKVNNQLVSGVIYKLNANKAKTKQRNEITG-STSKIYSQKGTGNAR
+-----HSSKKAPIFVGGGIAHGPKGQDNYFRKLNKSEKKMSIASLITEKNKSNNV--------------I
+IFDDFKKIEKTKEMFELLKKFDANNSLLIVDT------KSK-----------------D------NILRS
+IKNIPNVKLTDAN---------------HFSAFDL----VKYKKIIFTESSVKELEKR--*
+>P1;gi|2113867|emb|CAA73673.1| rplD [Mycobacterium bovis BCG] [ score 64 E 2e-09 ] [ range 9 .. 190 ]
+sequence
+LKIDVKTPAGKVDGAIELPA-LFDVPANIALMHQVVTAQRAAARQ-----GTHSTKTRGEVSGGGRGTGR
+ARQ---GSTRAPQFTGGGVVHGPKP-RDYSQRTPKKMIAAALRGALSD-------RARNGRIHA------
+ITELVEGQNSTKSARAFLVSL--------------------------TERKQVLVVIDE------GRRES
+VRNLPGVHILAPD---------------QLN-----------------------------*
+>P1;gi|23042769|ref|ZP_00074128.1| COG0088: Ribosomal protein L4 [Tr... [ score 64 E 2e-09 ] [ range 4 .. 206 ]
+sequence
+--CVVKNWQGEEVGQATLNR-VAKEESAAHIVHRSLRLQMANNRQTKTRSERGGGRKPWRQKGTGRARA-
+------GSIRSPLWRGGGVIFGPKP-RDYSHKMNRKEKRLALSTAFQ-SRSEDL--------------IV
+IEDLSEQFTKTKELVQAITRWGID-----------------------IQAKIVLVLPEE------NVYLS
+GRNIAKLKIILAN---------------NLNIYDILAADK----IIATVTAIAKIQE---*
+>P1;gi|39938687|ref|NP_950453.1| ribosomal protein L4 [Onion yellows... [ score 64 E 2e-09 ] [ range 3 .. 186 ]
+sequence
+-KINILNQQGDFVSEKVLAT-VFDIKPNQQVLYDVVNAQRAAMRQTHATKTRAGGKKPWRQKGTGRA---
+----RHGSIRSPLWRGGGVTFGPSP-RDYSVKVNQKVRSLALKSALS-------LQAKNNQ-------LV
+VVDNINATHKTKDFQQMLQKLNITS-------------------------KSLIVVTTE------QLALA
+SRNLSYITLETAS---------------HASVYQI-------------------------*
+>P1;gi|26987196|ref|NP_742621.1| ribosomal protein L4 [Pseudomonas p... [ score 64 E 2e-09 ] [ range 1 .. 197 ]
+sequence
+MQLNVNDAQAIEVSELT-----FGGEFNETLVHQAVVAYMAGGRQQKTRSDVAGGKRPWRQKGTGRARA-
+------GTTRGPIWRGGGVTFAARPQ-DHSQKLNKKMYRAALRSILA-----ELVRS-------DRL-VV
+VQDFAVEAPKTKDLLNKLNGMGLSD---------------------------VLIVVDQ------NLYLA
+ARNLPHVDVRDVQ------------------------GSDPVSLIAYTVSAVKKFEE---*
+>P1;gi|42823854|gb|EAA79240.1| unknown [environmental sequence] [ score 64 E 2e-09 ] [ range 1 .. 205 ]
+sequence
+MKLDKINITGKKTSIEVLDK-IFSAKINNKLVSNVLTNANYKGRHAKTKNEVSG-PTSKIYAQKGTGNAR
+-----HASKKAPIFVGGGIAHGPKAYKK--RKLNKSEKKQSIASLMS------------EKIKNNNL-LI
+FNDFTSEIKKTKEMHTIIKKFEITNSIIILDK----ASK-------------------D------KIQKS
+IRNIPNIKVTDIN---------------HFSAFDIV------KFVVFTESSVKELEER--*
+>P1;gi|43173283|gb|EAC52216.1| unknown [environmental sequence] [ score 64 E 2e-09 ] [ range 1 .. 205 ]
+sequence
+MKIDKLNIDGKK-DTIDISE-IVAARVNEKLVSHVLYKTNANKAKTKQKNEITG-STSKIYAQKGTGNAR
+-----HASKKAPIFVGGGVAHGPKGELSYKRKLNKSEKKLSIASIIT----------KKNKLKD----LI
+ILDDFQNISKTKEMDNILIKFKAKNSIIIADK------KSK-----------------D------NIFKS
+IRNIPNVKITDVN---------------HFSAYDLA------KFIVFTETSIKELEKR--*
+>P1;gi|41410260|ref|NP_963096.1| RplD [Mycobacterium avium subsp. pa... [ score 64 E 3e-09 ] [ range 3 .. 184 ]
+sequence
+LKLDVKAPGGKVEGSIELPA-LFDAPANIALMHQVVTAQRAAARQTHSTKTRGGGRKPYRQKGTGRARQ-
+------GSTRAPQFTGGGVVHGPKP-RDYSQRTPKKMIAAALRGALSDRAR----NGRIHAITE-----L
+VSGQTPS---TKSAKAFLGAL--------------------------TERKQVLVVIDE------AGAKS
+VRNLPGVHILAPD---------------QLN-----------------------------*
+>P1;gi|42851603|gb|EAA93115.1| unknown [environmental sequence] [ score 64 E 3e-09 ] [ range 1 .. 105 ]
+sequence
+MKCDVITLENKKSGSVELDD-IFGVAVRKDILARMVNYQRAKKRKTKTIGEIRG--TTAKPWGTGRARA-
+------GSRRATQFRGGQTVFGPVV-RSHNISLNKKVR--------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------*
+>P1;gi|29831470|ref|NP_826104.1| putative ribosomal protein L4 [Stre... [ score 64 E 3e-09 ] [ range 4 .. 202 ]
+sequence
+--IDILSPSGDNAGTVELPA-IFDVEISIPLLHQVVVAQLAAARQTHKVKRRGEVRGGGKKPYRQKGTGR
+ARQ---GSTRAPQFAGGGVVHGPTP-RDYSQRTPKKMKAAALRHALTDRAR----NARIHVITG-----V
+IEGETPS---TKAAKSFL-------------------GKVS-------ERKNVLLVIDE------AALLS
+ARNLPQVHILEPG---------------QLNTYDVLVSDD----VVFTQAAFE-------*

@@ -1,0 +1,2208 @@
+>P1;1noza
+structureX:1noz:   2 :A: 370 :A:DNA polymerase (N-terminal fragment):Bacteriophage T4: 2.2: 22.2
+-DEFYISIETVGNNIVERYIDENGKERTREVEYLPTMFR--HCKEG--------KNCAPQKFPSMKDARD
+WMKR---------GMNDFKLAYISDTYGSEIVYDRKFVRVANCDIEVTG-DKFPDPMKAEYEIDAITHYD
+SIDDRFYVFDLLNSMYGSVSKWDAKLAAKLDCEGGDEVPQEILDRVIYMPFDNERDMLMEYINLWEQKRP
+AIFTGWNIEGFDVPYIMNRVKMILGERSMKRFSPIGRVKSKL------SKEIYSIDGVSILDYLDLYKKF
+AFTNLPSFSLESVAQHETKKGKLPYDGPINKLRETNHQRYISYNIIDVESVQAIDKIRGFIDLVLSMSYY
+AKMPFSGVMSPIKTWDAIIFNSL----*
+>P1;1clqa
+structureX:1clq:   1 :A: 377 :A:DNA polymerase (N-terminal fragment):Bacteriophage Rb69: 2.7: 23
+MKEFYLTVEQIGDSIFERYIDSNGRERTREVEYKPSLFAHCPESQATKYFDIYGKPCTRKLFANMRDASQ
+WIKRMEDIGLEALGMDDFKLAYLSDTYNYEIKYDHTKIRVANFDIEVTSPDGFPEPSQAKHPIDAITHYD
+SIDDRFYVFDLLNSPYGNVEEWSIEIAAKLQEQGGDEVPSEIIDKIIYMPFDNEKELLMEYLNFWQQKTP
+VILTGWNVESFDIPYVYNRIKNIFGESTAKRLSPHRKTRVKVIENMYGSREIITLFGISVLDYIDLYKKF
+SFTNQPSYSLDYISEFELNVGKLKYDGPISKLRESNHQRYISYNIIDVYRVLQIDAKRQFINLSLDMGYY
+AKIQIQSVFSPIKTWDAIIFNSLKEQN*
+>P1;gi|44628465|gb|EAK59228.1| unknown [environmental sequence] [ score 421 E 1e-116 ] [ range 3 .. 345 ]
+sequence
+---FYTNITQWGNNLLLREV-VNGERINRKVKYSPTLFA--PTLEG--------KYVAPVKHDTIKDAKE
+WIEY---------GNTLFPYSYIADEYSSNVDWDIDEILIVTIDIEVEC-ENFPKPEEANDPLLSITLKN
+HQNKKIVVWGIGDFENS-------------------------REDVSYIKCESEKHLIQSFLTFWEEHKP
+DVITGWNTEFFDIPYVCNRIINQFDEKELKRLSPWGNVTSRR------SHQVYDIMGVAHLDFFDLYRKF
+TYTNQESYRLDHIAFVELGKDGNPYE-TFSEWYTKDYQSFIEYNITDVELVDKLEDKMKLIDLCLTMAYD
+AKVNYVDVLGTTKYWDILIYNHL----*
+>P1;gi|33620616|ref|NP_891597.1| DNA polymerase [Enterobacteria phag... [ score 394 E 1e-108 ] [ range 2 .. 359 ]
+sequence
+---YFLSCERVGDKIYERYIDDAGQEQERYVEYTPTLFH--HAAPG--------KPCIAKKFPSMNEANK
+WRKK---------GMDDFIISYLSDTYKGEIRYDRNKIRVAWVDIEVTA-PEFPKPEEAKYPIDAITHYD
+SVHDRFFVFDLK---GKNGEIWESSKSI---------LRPDIVERVVYNVYDTEDELLLEYIRFFEENRP
+VGFTGWNTETFDIPYIIKRISNKFGSRTANRLSPCGKIKSRI------SREAFTIMGIESLDYIDLYKKF
+SFTTQPTYALDYVAEYETGIGKVDYDGPLKKLRDDNHQLYIDYNIGDVDRVLAIDKKRGFIDLVYSLCFY
+AKIKFNHVYNPMKVWDAIIFGSL----*
+>P1;gi|34419317|ref|NP_899330.1| DNA polymerase [Bacteriophage KVP40... [ score 390 E 1e-107 ] [ range 4 .. 355 ]
+sequence
+----YTSIERIGSNLCERYIDDDGFEHMRKVKYEPTLFI--HCNEG--------RNCRPKMFDTMGEASK
+YIKE---------GMDDFIVTYISDVYK-QREFDMSRIRIANIDIETPS-VEFPEAAHAPVPITSIGHYD
+NIDDKFYVYGI-------PSNTEWKRESSI-------VKPELLEKTVYIRCATEKELLVKYLQFWREKTP
+AIVTGWNIESFDMPYIVNRYKNLFGEKVMNSLSPWGKVQVST------TVNDYNILGVSELDYLQLYKKF
+TYVTRPSYRLDYIGEVELDEKKVEFEANYLEFYEQDYQNFIDYQIQDVNLVKRLDEKLQLMLLTISLAYY
+AGINYQTVLGTIKPWDAIIFNSL----*
+>P1;gi|44327344|gb|EAI48768.1| unknown [environmental sequence] [ score 369 E 1e-101 ] [ range 2 .. 298 ]
+sequence
+--------------------------------------------EG--------KYVAPVKHDTIKDAKE
+WIEY---------GNTLFPYSYIADEYPNSVDWDIDQILIVTIDIEVEC-ENFPKPEEAKDPLLSITLKN
+HQNKRIVVWGIGDFENS-------------------------RDDVSYIKCETEKHLLQSFLTFWEQHKP
+DVITGWNTEFFDIPYLCNRILNQFEETELKRLSPWGNVSSRR------THQVYDIMGVAHLDFFDLYRKF
+TYTNQESYRLDHIAFVELGKDGNPYE-TFSEWYTKDYQSFIEYNITDVELVDKLEDKMKLIDLCLTMAYD
+GKVNYGDVLGTTKYWDILIYNHL----*
+>P1;gi|38639940|ref|NP_943895.1| DNA polymerase [Bacteriophage Aeh1]... [ score 369 E 1e-101 ] [ range 2 .. 365 ]
+sequence
+---FYTNVCIQGNTVLERYVDDNGISRSRKVNFGPTLYK--HSNNG--------KSATAVDFDSIGDARR
+WMKD---------GMDDFVLQYLYHTYSGPVSFKYEQIDIAFVDIEVPT-DGFPEPHICDWEIDGICHYS
+TKRKRYSLF--------TTRPWDKAKSILDKDDKGNAV--DILDRVDYVFCESERELLIRYLKFFRDNTP
+DVFSGWNSEMFDLRYIVNRYRKVLGDVYANKLSPWEQIIERT------VYKTYELLGIACLDYMAAYKKF
+TFKTRPTYKLDYIGQIELGMKKLETEKTYLAFSQKNPQKYIDYLIRDVDLLVKLDARLSLMALITSVSYY
+AKINYNNTFSPLKTWDAIIHNSL----*
+>P1;gi|40795451|gb|AAR90916.1| gp43A core DNA polymerase of replisom... [ score 367 E 1e-100 ] [ range 3 .. 357 ]
+sequence
+---FYTNVWMDGNTIYDRYFDENGSDKIRKVRYSPTLYR--HVGND--------RKCLPKTLDSIGEARK
+WFKE---------GMDNYTFQYISDTYGANAQYDYSMLDIMFFDIEVPT-DGFPDTTNCAYEIDTIQIYS
+TKMNKYFIW--------TTREWDPNKSI---------LDKEVLDHVEYHKNGSEKEILIRFLQFFTENTP
+HYVSGWNSEGFDIPYIARRIKKILGDKFLSKLSPFGTVNEII------TKDTYDITGVNCIDFMAAYKKF
+TFTTRPNYKLDTIAEAELGKVEMTYR-TYLDFATKDPQTYIDYSIRDVEIIKNLEIRLSLIYLIASVSYY
+AGVNAADVFSPLKTWDAIIYNSL----*
+>P1;gi|44536838|gb|EAJ94383.1| unknown [environmental sequence] [ score 342 E 6e-93 ] [ range 3 .. 303 ]
+sequence
+---FYTNITQWGNNLLLREV-VNGERINHKVKYSPTLYA--KTLEG--------KYVAPVKHDTIKDAKE
+WVEK---------GNTLFPYSYIADEYSNNVDWDIDQILIVTIDIEVEC-ENFPKPEEANDPLLSITLKN
+HQNKKIVVWGIGDFENS-------------------------RDDVSYIKCESEKHLIQDFLTFWEQHKP
+DVITGWNTEFFDIPYICNRILNQFDEKELKRLSPWSNVSARR------SHQVYDIMGVANLDFLDLYRKF
+TYTNQESYRLDHIAFVELGKEGNPYE-TFSEWYIKDYQSFIEYNITDVELV-------------------
+---------------------------*
+>P1;gi|44414576|gb|EAJ10361.1| unknown [environmental sequence] [ score 314 E 2e-84 ] [ range 1 .. 245 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------MDQILIVTIDIEVQC-ENFPAVKEAAEEMLSITIKN
+HQSKRIVVFGIGEFQND-------------------------RDDVTYIQCQDEVHLLKEFLVFWEKHHP
+DIVTGWNTEFFDIPYLCNRIKKLFGEDELKRLSPWGGVQDRR------QQQVYNIQGVAALDYFDLYRKF
+TYTNQESYRLDHIAFVELGKDGNPYD-TFREWYTKDYQSFIEYNITDVELVDKLEDKLKLIELCLTMAYD
+AKVNYTDVLGTVRYWDILIYNYL----*
+>P1;gi|43258139|gb|EAC94729.1| unknown [environmental sequence] [ score 312 E 8e-84 ] [ range 1 .. 264 ]
+sequence
+----------------------------------------------------------------------
+-----------------YIYQYISEKYPNEIKFDISQIKLVTLDIEVAS-EQFPDVESCSEEILAISIQD
+YTTKQIITWGSKPFVNKQK-------------------------NVIYHHCSTEHSLLSSFINYWMEDVP
+DVITGWNIQLYDIPYIARRINRVLGEKLMKRLSPWGLVSEGR------RHITFDVGGVTQLDYLDLYKKF
+TYKAQESYRLDYIASVELGQKKLDHSDTFKDFYTKGWQKFIEYNIVDVELVDRLEGKMKLIELALTMAYE
+AKVNYIDVFYQVRMWDNIIYNYL----*
+>P1;gi|43226240|gb|EAC78692.1| unknown [environmental sequence] [ score 306 E 6e-82 ] [ range 9 .. 289 ]
+sequence
+-----------------------------------------KTLSG--------EPVEPINPGTVRDCRD
+FYKK---------GNDRYIYQYISEKYPNEVKFDISQIKLVTLDIEVAS-EGFPDVESCAEEILAISIQD
+YTTKQIVTWGSKPFRND-------------------------RKDVTYHHCPTEHQLLSSFINYWMEDVP
+DVITGWNIQLYDIPYIARRINRVLGEKLMKRLSPWGLVSEGR------RHITFDVGGVTQLDYLDLYKKF
+TYKAQESYRLDYIAQVELGQKKLDHSDTFKDFYTKGWQKYIEYNIIDVELVDRLEGKMKLIELALTMAYE
+A--------------------------*
+>P1;gi|44262650|gb|EAI04771.1| unknown [environmental sequence] [ score 295 E 9e-79 ] [ range 2 .. 237 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------DIEVEC-ENFPSVKEAAESMLSITMKN
+HQNKQTLVWGLHEF-------------------------QNYRDDVTYVQCKDEADLLIKFSDEWARCLP
+DIVTGWNTEFFDIPYLCNRMKKLFGEDFLKKLSPWGKVIERR------QHQTYNIQGVAHLDYFDLYRKF
+TYSAQESYRLDHIAKVELGKDGNPFD-TFREWYTKDYQSFIEYNIQDVELVDKLEDKMRLIELCLTMAYE
+AKVNYTDVLGTVRYWDILIYNHL----*
+>P1;gi|43842893|gb|EAF75720.1| unknown [environmental sequence] [ score 273 E 4e-72 ] [ range 1 .. 241 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------IDIECES-ENFPDVDRAEEPIICITVKD
+HARKSILVFGCGNFVND-------------------------RDDVRYIRCSTERDLVQKFTEFWTSYNP
+DIVTGWNVKFFDIPYLMNRFRYLMGDDYLNQFSPWGIVTSNS------ARKYYDLLGVSVLDYLDLYRKH
+TFVRQESYKLDYIGEVELGEKKNPYD-TFKEFYQNDYQLFVEYNIQDVELVDKLEDKMQLIALHLTMAYE
+GKVNYQDVFGQVRMWDTIIFNYL----*
+>P1;gi|43871025|gb|EAF89519.1| unknown [environmental sequence] [ score 263 E 4e-69 ] [ range 2 .. 246 ]
+sequence
+----------------------------------------------------------------------
+-----------------------VDRYGSDEVSQGSRELIIDIEVEVKG--GFPDPSRADNKITAIAIYD
+KVADKYSCFIL-----GDVPNTD-----------------------VVESFKSEEELLQRFYQKYLEINP
+SIITGWNVDGFDIPYLYNRTERVMGKQIANALSPIGEVFYSE------HKKKYKIAGVSVLDYLALYKLY
+NYTQKSSYRLDVIGTDEVGIGKIEYEGTLQDLYETDINKYVEYNLNDVVIVKELDDKLKFIDLARSIAHV
+GHVPYEDVFFSSRYLEGAILVYM----*
+>P1;gi|44519584|gb|EAJ82673.1| unknown [environmental sequence] [ score 258 E 1e-67 ] [ range 79 .. 324 ]
+sequence
+----------------------------------------------------------------------
+----------------------LVDRYDDDNVSQGHREMYFDIEVEVT--DGFPEPSTAENKITAIALYD
+KIADKYSCFVL-----GNVPNTD-----------------------VVESFQSEEELLQRFYQKYLEINP
+TILSGWNIDGFDIPYLYNRTSRVLGSQFANSLSPIGETYYSE------NKKRFVIAGVSCLDYLRLYKLF
+TYTQQPSYRLDFIGQKEVGIGKIEYEGTLQDLYENDINKYIDYNLNDVVIVKELDDKLKFIDLARGVSHL
+GHIGYENIFYSSRYLEGAILVYM----*
+>P1;gi|44421107|gb|EAJ15141.1| unknown [environmental sequence] [ score 256 E 6e-67 ] [ range 71 .. 327 ]
+sequence
+----------------------------------------------------------------------
+------------------EIRFLVDKYDSDEVSEGHRVMFFDIEVEVT--QGFPDVNKAENTITSIAFYD
+ALTRQYYCYVLDVE---------------------NKVSANQFGETTVIKFKDERDLLKAFYTKYLEISP
+TIISGWNSDRFDVPYLYNRTIRLLGQEAANCLSPIGIVEFQK------HRGTYKIAGVSSLDYLELYKKL
+TFGERSSYRLDDVGELEVGLKKVAYDGTLNDLYDGDRNKFVEYNINDVIILEKLDAKLDFIGIARAICHL
+GHVPYEDVYYSSRFLEGAILVYL----*
+>P1;gi|43743748|gb|EAF26313.1| unknown [environmental sequence] [ score 253 E 4e-66 ] [ range 2 .. 224 ]
+sequence
+----------------------------------------------------------------------
+--------------------------YPSEEPSVGHREVYFDIECEVT--DGFPDPNRAENKITAIALYD
+KTVDKYSCYVL-----GDVPNTD-----------------------VVESFKSEEELLQRFYQKYLEINP
+TILSGWNIDGFDIPYLYNRTRRVMGDSFANSLSPIGEVYYSE------HKQRYKIAGVSCLDYLKLYRLF
+TYTQQSSYRLDYIGQLEVGLGKIEFDGTLQDLYETDINKYIEYNLNDVIIVKKLDDKLKFIDLARGICHV
+GRVP-----------------------*
+>P1;gi|43434606|gb|EAD73354.1| unknown [environmental sequence] [ score 251 E 2e-65 ] [ range 1 .. 234 ]
+sequence
+----------------------------------------------------------------------
+-------------------------NYPEDIEWSKDHIKIFTLDIECTA-ENFPDVQNPIEELLAITVKN
+QSNKQIITWGTGDYKTD-------------------------RSDITYIKCRNEKSLIMEFMKFWMKNYP
+DVITGWNTKFFDLPYLCNRIKLLTDEKVVRRLSPWNLVGTER------SQLYYDLYGIAMLDYLDLYKKF
+IPVRQESYKLDHIGKVELGKDSNPYD-TFREWYTKDFQSFVDYNIKDVEIVDQLEDKLKLIKLILNMSYE
+AKI------------------------*
+>P1;gi|43948017|gb|EAG29737.1| unknown [environmental sequence] [ score 239 E 6e-62 ] [ range 1 .. 171 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------------------FWEKYYP
+DIVTGWNSEFFDIPYVCNRVKKLFGEDELKRLSPWGGVKERR------NHQVYEIQGIAALDYFDLYRKF
+TYTAQESYRLDYIAKVELGEQKNPYE-TFREWYVKDYQSFIEYNINDVELVDKLEDKMKLIELCLTMAYE
+AKVNYTDVLGTVRYWDILIYNYL----*
+>P1;gi|43379481|gb|EAD54642.1| unknown [environmental sequence] [ score 238 E 1e-61 ] [ range 2 .. 206 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------VTIDIETEC-ENFPNVEDAIEKLISITIKN
+HQSKEIVVWGVGHFRTN-------------------------RKDVVYVKCDNEQHLIKQFLMFWERNQP
+DIITGWNTEFFDIPYLCNRIIKICGEDEVKRLSPWRSVSSRR------QHQVYDIQGVANLDYFDLYRKF
+TYTAQESYRLDHIAYVELGKDGNPYE-TFRDWYTNDYQSFIEYNITDVELVDKLEDKMK-----------
+---------------------------*
+>P1;gi|43737471|gb|EAF23367.1| unknown [environmental sequence] [ score 235 E 1e-60 ] [ range 2 .. 203 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------VTIDIEVEC-ENFPKPEDAAEPLLSITVKN
+HQTKRIVVWGIGEFNTD-------------------------REDVTYVQCESEVHLLKEFISFWETHTP
+DIITGWNTEFFDIPYLCNRIKNVFDEEEVKRLSPWKNVFDRR------QHQVYTLDGIAALDYFDLYRKF
+TYVNQERYTLDHIAKVELGKDGNPYD-TFREWYTKDYQSFIEYNINDVELVDKLED--------------
+---------------------------*
+>P1;gi|43130823|gb|EAC31253.1| unknown [environmental sequence] [ score 233 E 4e-60 ] [ range 1 .. 168 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------EHNP
+DVITGWNTEFFDIPYICNRILNQFDEKELKRLSPWGNVSARR------AHQLYDIMGVAHLDFFDLYRKF
+TYTNQESYRLDHIAFVELGKDGNPYE-TFSEWYIKDYQSFIEYNITDVELVDKLEDKMKLIDLCLTMAYD
+AKVNYVDVLGTTKYWDILIYNHL----*
+>P1;gi|43232029|gb|EAC81597.1| unknown [environmental sequence] [ score 229 E 6e-59 ] [ range 2 .. 203 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------ITIDIEVQC-ENFPDPRKAIEPLLSITIKN
+HQNKRIMVWGIGEFV-------------------------NRRDDVAYIKCKNEEDLIHEFLTFWEKTQP
+DVITGWNTEFFDIPYLYNRI-MKFSEKDVKRLSPWGNVYSRR------THQLIDISGVAHLDYFDLYRKF
+TYTSQESYRLDHIAFVELGEKKNPYE-TFKDWYTKDYQSFIEYNITDVELVDRLEDK-------------
+---------------------------*
+>P1;gi|43660448|gb|EAE85169.1| unknown [environmental sequence] [ score 224 E 2e-57 ] [ range 2 .. 267 ]
+sequence
+--DFYTNVCRSRDKILVIGYKGKTKQKVA-VNYRPNHYI--LSKDG--------RNLEVVNLNSMGGARK
+FREK---------GYDRYVYTYLADKFQGDIKFDTSLIKTATLDIECEC-DGFPEPILAAEKINAISIKP
+FG---------------------------KECQVFGIGPWEHNQNLVYHNCKNETDLLQKFIKYWRTEWF
+DIITGWNVNSFDITYLCNRIDKILGEDEHKKLSPWGQSHTRE------KNQIFELSGVNIIDYLELYRKN
+TFHNQESYKLDYIAQ-------------------------------------------------------
+---------------------------*
+>P1;gi|43054170|gb|EAB93476.1| unknown [environmental sequence] [ score 219 E 8e-56 ] [ range 2 .. 214 ]
+sequence
+----------------------------------------------------------------------
+---Y---------GNDRYHFQYIAKEYPTDIEFNKDLIKIFTLDIETTA-EGFPDVENPVEELICLTIKN
+QSNKNIITWGTKPFFTDRPE-------------------------VTYIECKNEKQMLMEFFKFWTKNYP
+DVITGWNTKFFDLPYLCNRIKHLVGDKVINKLSPWGLIEQEQ------TQTTFDIKGIAMLDYLDLYKKF
+IPTRQESYKLDYIAKVELGKDNNPYD-TFREWYTNDFQ--------------------------------
+---------------------------*
+>P1;gi|43841624|gb|EAF75064.1| unknown [environmental sequence] [ score 216 E 8e-55 ] [ range 5 .. 263 ]
+sequence
+----------------------------------------------------------------------
+--------------------QFLVDRFNETDEFQQFPLKIWFFDIETSP-DEFPKPEEASHMINVITIYD
+TVQERYHTWG--------INPYEPE-----------------ADDVTYYHCKSEGELLQRFLDHYCNDRP
+DILSGWNSEIFDIPYVINRVRNILGEDATRLFSPVGNFGQQT------AK--YVVEGVSMLDYLDVYKTF
+SMGMRDSYKLDNIAHIELGENKVDIDVSLAELSINDWKKFVDYNIHDVRLLVRLDEKLMYMDLARMLSYI
+GLTPFNAALGTIST-------------*
+>P1;gi|43200715|gb|EAC65920.1| unknown [environmental sequence] [ score 213 E 5e-54 ] [ range 1 .. 184 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------MIIDIEVE-SS-KGFPSPQKAENEVTAIALYD
+KVADQYTCLIL------------------------GSVKPKKQDNVVIESFQTEQELLQRFYQMYLEIAP
+TIISGWNTNGFDIPYLYNRTKRTMGEQIANCLSPIGDVYYNE------HRKRYMIGGVSQLDYLALYKEF
+TFTQQSSYRLDYIGQLEVGLGKIDYEGSLQDLYENDIDKFIEYN--------------------------
+---------------------------*
+>P1;gi|42980358|gb|EAB57104.1| unknown [environmental sequence] [ score 212 E 1e-53 ] [ range 2 .. 197 ]
+sequence
+---------------LVREY-VNGERINRKIKYSPTLFH--KTLDG--------QYVTPVKHNTIKEAKE
+WLKS---------GNTTFQYNYIADEYPSFVKWDVDKILIVTIDIEVAC-ENFPNPEDAIEPLLSITIKN
+HQNKQILVWGTGEY-------------------------KNTREDVTYVKCKNEKELIQEFLSFWQKNQP
+DIITGWNTEFFDIPYVCNRIKNLYDETER-----------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43738168|gb|EAF23694.1| unknown [environmental sequence] [ score 206 E 7e-52 ] [ range 1 .. 155 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------FFDIPYLCNRIKNLYDEKEINKLSPWGNVSDRR------KHQVYDIQGVSHLDYYDLYRKF
+TYTNRESYRLDHIAHIELGKDDNPYE-TFREWYLKDFQSFIDYNIQDVEIVDRLEDKMKLIELCLTMAYD
+AKVNYMDVLGSVKYWDILIYNEL----*
+>P1;gi|43800012|gb|EAF54598.1| unknown [environmental sequence] [ score 205 E 1e-51 ] [ range 3 .. 225 ]
+sequence
+---FYTNVQMVGDNFLVRGY-EDGKHFVTREKFYPTLFV--DSKNE--------EYVEPISPGTVRECRE
+FVKK---------GNERYIYQYISDKYPEEVKFDIEKINLVTIDIEVKS-ENFPDVESAAEEILLISIQD
+YTTKQIRTWGLGEFNNKQK-------------------------NVIYKSFNTEYELLNSFINWWEGNTP
+EVITGWNSKLYDIPYIVRRIDRVLGEKLKKRMSPWGLVTE------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43191969|gb|EAC61507.1| unknown [environmental sequence] [ score 204 E 2e-51 ] [ range 2 .. 229 ]
+sequence
+--------------------------------------------------------VDPVKPGTIKDCRE
+FIDK---------GNERYVHQYISENYPNEIKFDLNKIKLFTIDIEVAA-EGFPDVFNCAEELLLITIQD
+YNTKKIITF----GSRPYTTNPNRK-------------------NYRYIDCHNEEGLILTFLDWWQKNMP
+EVITGWNCELYDIPYLVGRVDRIMGEKMTKKFSPWGIVRRNE------IHIQYDLAGISVIDYLDLYKKS
+PATNQESFKLDHIAMMELGEKKLD----------------------------------------------
+---------------------------*
+>P1;gi|43466365|gb|EAD87921.1| unknown [environmental sequence] [ score 203 E 5e-51 ] [ range 3 .. 191 ]
+sequence
+---FYTNVLQYGNSLLVREVDSNGQRIKKRVQYQPTLFD--LTLDG--------QHVLPHKFDSIKEAKD
+WYEY---------GNTQYSYTYISDTYPNRVKWDTDKLLIATLDIEVEC-ENFPNPKDAVEPMLSITMKN
+HQNKKIIVWGLHEF-------------------------QNHRDDVDYRLCKDEADLLIKFSDEWSICLP
+DIVTGWNT--------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43602095|gb|EAE55889.1| unknown [environmental sequence] [ score 201 E 2e-50 ] [ range 22 .. 218 ]
+sequence
+----------------------------------------------------------------------
+------------------EIRVLVDNYDSDEPSVGHKTMIFDIEVEVT--EGFPDPKRAENKITSIAFND
+PVTNEYFCYVL-----------DPHNKCKIDDEN-------------VVSFKDEYDLLNSFFKKYIEIQP
+TILTGWNIEFFDVTYLYNRAQQIVGREVANLLSPIGKVQWSD------FSGRYKIAGVSILDYLALYKKY
+TFSQQPSYRLDAIGEYEVGEKKVEYDGTLNDLYEND----------------------------------
+---------------------------*
+>P1;gi|15789745|ref|NP_279569.1| DNA polymerase B1; PolB1 [Halobacte... [ score 194 E 2e-48 ] [ range 203 .. 421 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRVNTFDIEVN--DRNGFPEDGEEPVVCLTSHD
+SYRDEYVAWLYAA--------PDATVDAPTAVPGYDPLTDDADIDVRV--FDTEEAMHDAFLSYIEDTNP
+DVLTGWNFDDFDAPYLIDR----LDELDPRTDHDLDSDRLSR------VSEVWNVKGRVVFDLLYAYQRT
+KYSELDSYRLDAVGEQELGVGKERYPGDIGDLWEDDPERLLEYNLRDVELCVEIDRKQSIV---------
+---------------------------*
+>P1;gi|44254100|gb|EAH98896.1| unknown [environmental sequence] [ score 181 E 3e-44 ] [ range 1 .. 145 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------MGEDFLNQFSPWGVVTKSS------ARNYYDILGISILDYLDLYRKH
+TFVRQESYKLDYIGQVELGEKKNPYD-TFKEFYQNDYQLFVEYNIQDVELVDKLEDKMQLIALHLTMAYE
+GKVNYQDVFGQVRMWDTIIFNYL----*
+>P1;gi|43171493|gb|EAC51314.1| unknown [environmental sequence] [ score 166 E 6e-40 ] [ range 2 .. 119 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------R------KQITFDVGGLTQLDYLDLYKKF
+TYKAQESYRLDYIAEVELGQKKLDHSDTFKDFYTHGWQKFIEYNIVDVELVDRLEDKMKLIELALTMAYD
+AKVNYADVFYQVRMWDNIIYNYL----*
+>P1;gi|44456132|gb|EAJ39637.1| unknown [environmental sequence] [ score 166 E 9e-40 ] [ range 1 .. 109 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------MGVAILDYLDLYRKH
+TFVRRESYRLDYIGEVELGESKNPYD-TFKEFYTKDYQQFIEYNIQDVELVDKLEDKMKLIELHLTMAYE
+AKVNYQDVFGQVRMWDTIIFNHL----*
+>P1;gi|43728528|gb|EAF19129.1| unknown [environmental sequence] [ score 165 E 1e-39 ] [ range 47 .. 245 ]
+sequence
+--------------------------------------------------------------DRLKKINK
+WDKD---------QPELFEIRVLVDNYDSDEVSVGHRIMIFDIEVEVT--DGFPEPAKAENTITSIAFND
+PITNEYFCYVLDTKDKLNLGESRTKKDVD-----------------TIVSFYDEYDLLNAFFKKYIEIAP
+TILTGWNVEFFDVNYLYNRAVQVVGKDVANVLSPIGKVQWSE------FSKRYKIAGVSVLDYLALYKTF
+TFGQRSSY--------------------------------------------------------------
+---------------------------*
+>P1;gi|33622301|ref|NP_891948.1| DNA polymerase [Cryptophlebia leuco... [ score 161 E 3e-38 ] [ range 197 .. 431 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------------------QYTDVIVACFDLETYTNLS
+SFSDPIITISLVVKMHD-----EMKMYCLINTQGNDKVDAEVDGQIVVLPFYNEKEMIKAFFLLLWKSNP
+DTILDYNGDKFDLPYLVQRSKLLIDLKFIRRYNPIDMNTIEV------KTKFYNFNNMKYFNHLDVYQSF
+DASKIENLKLDTVASFYLKKKKVEVREMIDLYNKNQYAKIVKYNVID-----SILPIQIFIKCKMNNKQY
+A--------------------------*
+>P1;gi|18138452|ref|NP_542554.1| putative DNA-dependent DNA polymera... [ score 156 E 5e-37 ] [ range 142 .. 353 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------RVLTFDIETDDRG-EGFPEYGQA--RILSIVAHD
+NYTDEYVGFIDLDGHGLGERFPDADLDAV-------SHPSDLLDKLSKLNFEDERKMLTEFAKYVNEKDS
+DLVVGWNSNGFDTPFVIERMK----ERGVNRLSRTGNTYTGY------GGP--TIQGRTCYDLMDAWKDT
+KFTKV-SGSLDNAAQMELEDAKIEHDKGFYELYSENTQKFLNYNTKDVSLTVGVND--------------
+---------------------------*
+>P1;gi|43581213|gb|EAE45409.1| unknown [environmental sequence] [ score 156 E 8e-37 ] [ range 29 .. 178 ]
+sequence
+----------------------------------------------------------------------
+----------------------LVDRYGSDEISQGSRELIIDIEVEVKG--GFPDPSRADNKITAIAIYD
+KVADKYSCFIL-----GDVPNTD-----------------------VVESFKSEEELLQRFYQKYLEINP
+TIITGWNVDGFDIPYLYNRTERVMGKQIANALSPIGEVFYSE------HKKKYKIAGVSVLDYLAFI---
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43092617|gb|EAC12468.1| unknown [environmental sequence] [ score 155 E 1e-36 ] [ range 3 .. 144 ]
+sequence
+---FYTNVLQYGNSLLVREVDSKGQRIKKRIQYEPTLFD--LVTDG--------KQVLPHKFDSIKEAKG
+WYED---------GNTQYAYTYISDIYPNRVEWDKDKLLIATLDIEVEC-ENFPNPKDAIEPMLSITMKN
+HQNKKI----------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43553445|gb|EAE31508.1| unknown [environmental sequence] [ score 151 E 2e-35 ] [ range 2 .. 135 ]
+sequence
+--DFYTNVIQRGNTLFVRGVDGN-QRVTDKVKYCPTLFD--KTLDG--------RDVLPHPFDSIQEAKD
+WIEQ---------GNTQFPYCYIGDNYPNDIPWNKDKILIVTIDIEVEC-ENFPNPKKAEEPLLSITMK-
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|32412410|ref|XP_326685.1| hypothetical protein [Neurospora cr... [ score 147 E 3e-34 ] [ range 306 .. 542 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRILSFDIECAG-RKFPEPQH------------
+---------DSVIQIANIVTKYGEKKPFVRNVFCLDTTSPIVATQI--LSFDREEDMLREWRNFLEQVDP
+DIIIGYNIANFDFPYLLDRAKHLKVKDFRTRVRSVAKETNFS------SKQMGNRNGRLQLDMLQLVQR-
+-DYQLRSYTLNSVCSHFLGEQKEDHHSMITELFEGTPRRLALYCLKDAYLPQRLMDKLSCLENYTEMARV
+TGVPFNFLL------------------*
+>P1;gi|43330168|gb|EAD30622.1| unknown [environmental sequence] [ score 147 E 3e-34 ] [ range 1 .. 122 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------GEVNWST------FKNRYKIAGVSCLDYLAIYKLF
+TYNEQSSYRLDAIGQFEVGIGKVEYDGTLNDLYRDDIDKFIEYNLNDVVIVKELNDKLKFIDLVRGISHV
+GHVPYEDIYHSSRYLEGAILVYL----*
+>P1;gi|43126787|gb|EAC29232.1| unknown [environmental sequence] [ score 146 E 6e-34 ] [ range 9 .. 232 ]
+sequence
+----------------------------------------------------------------------
+------------------VFRCLEENYLGKE---TPKLNVLFFDIEVDF-DGYATTDDPFMPITAISCYM
+GWTDQLVTLAVP------PKTLNMQEAKLLTERFPNT-----------MLFTNEKEMLDAFLQLVE--DA
+DILSGWNSEGYDIPYTVGRIQKVLSSDDTRRLKPKKRIFEKY------GKENLSYDGRVHLDLLELYRKY
+TYEERHSFRLDAIGEHELGEKKTIYEGSLDNLYKNDFALFIEYNRQDCNLL-------------------
+---------------------------*
+>P1;gi|44125504|gb|EAH26379.1| unknown [environmental sequence] [ score 146 E 1e-33 ] [ range 1 .. 145 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------MTFDIEVEV-I-DGFPEPEKAANKITSIAYHL
+SDTDKYVVLVLDEQLR---------------------VDDYETEECKVFRFGTESELINAFLKRYREYDP
+TILTGWNVEFFDVPYLYNRITRVKDVETAKLLSPIQDVQWNQ------FRGRYKIAGVSVLDYLALYRKF
+TF--------------------------------------------------------------------
+---------------------------*
+>P1;gi|43246995|gb|EAC89153.1| unknown [environmental sequence] [ score 144 E 4e-33 ] [ range 2 .. 122 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------NVQWSD------FKKRYKIAGVSILDYLPLYKLF
+TFSQRVSYRLDAIGELEVGEKKVEYEGTLNDLYENDLDKFVRYNIQDVRLVKKLNDKLDFIEIARGIAHL
+GHCPYEDVFMSSRYLEGSILVYL----*
+>P1;gi|43328202|gb|EAD29638.1| unknown [environmental sequence] [ score 141 E 3e-32 ] [ range 3 .. 131 ]
+sequence
+---FYTNVIQWGNQLLVRGVN-NGERYSTKVKYSPTLFA--PVEKG--------QYVAPIPFQTIKDAKE
+WVSN---------GNTQYPYTYIADNFRNAVNWDIDDILIVTVDIEVQC-ENFPSAEKAEEEMLS-----
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|951001|emb|CAA61282.1| DNA-directed DNA polymerase III [Candi... [ score 137 E 3e-31 ] [ range 244 .. 489 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRILSFDIECAG-RKFPEAE-------------
+--HDPVIQIANVVQKSGESKPFVRNVFTVNTC-------SSIIGSQIFEH-QREEDMLMHWKEFITKVDP
+DVIIGYNTANFDIPYVLNRAKA-LGLNDFPFFGRLKRVKQER------ENKVVNIDGRMQLDLLQFIQR-
+-EYKLRSYTLNSVSAHFLGEQKEDVQHSIITDLQNTRRRLAVYCLKDALPLRLLDKLMCLVNYT-EMARV
+TGVPFSYLLSQIKV-------------*
+>P1;gi|13124219|sp|Q9LRE6|DPOD_ORYSA DNA polymerase delta catalytic ... [ score 134 E 3e-30 ] [ range 315 .. 552 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RILSFDIECAG-GHFPEPTH--DPVIQIANLV
+T---------LQGEGQPFVRNVMTLKSCSPIVG------------VDVMSFDTERDVLLAWRDFIREVDP
+DIIIGYNICKFDLPYLIERAE-VLKIVEFPILGRIRNSRVRV------RDTTFSVEGRVQFDLLQAMQR-
+-DYKLSSYSLNSVSAHFLGEQKEDVHHSIQNGNSETRRRLAVYCLKDAYLPQRLLDKLMYIYNYVEMARV
+TGVPISFLLS-----------------*
+>P1;gi|43353328|gb|EAD41502.1| unknown [environmental sequence] [ score 132 E 9e-30 ] [ range 72 .. 219 ]
+sequence
+----------------------------------------------------------------------
+--------------------RFLVDQYDSDDASEGHRMIFIDIEVEVT--DGFPDVQKAGNTITAITMWD
+KVSDTYYTYV-----------TDPKKQIK----------NYTKDNIIVELFSTEYEMLNKFYQKYMEIKP
+TIISGWNTDFFDIPYLYNRAVRVLGNSVAGLLSPISEVRWSE------YKSRYIIA--------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43009586|gb|EAB71587.1| unknown [environmental sequence] [ score 131 E 3e-29 ] [ range 3 .. 120 ]
+sequence
+---FYTNVLQWGNSLLVREV-KNGQRQNSEVKYSPTLYS--PVNDG--------NHVLPQTFETMKEAKQ
+WVAD---------GNTQYTYNYLSDTYKGKVDWDLEQILIVTIDIEVQC-ENFP----------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|27806073|ref|NP_776852.1| polymerase (DNA directed), delta 1,... [ score 131 E 3e-29 ] [ range 309 .. 554 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRVLSFDIECAG-RKFPEPER--DPVIQICSL-
+-----------------GLRWGEPEPFLRLAL---TLRPCAPILGAKVQSYEREEDLLQAWSTFIRIMDP
+DVITGYNIQNFDLPYLISRAQRVIGLRSNIRESSFQRQTGRR------DSKVVSMVGRVQMDMLQVLLR-
+-EYKLRSYTLNAVSFHFLGEQKEDVQHSIITDLQNTRRRLAVYCLKDALPLRLLERLMVLVN-AMEMARV
+TGVPLGYLLSQVKV-------------*
+>P1;gi|14602348|ref|NP_148895.1| ORF111 DNAPOL [Cydia pomonella gran... [ score 130 E 5e-29 ] [ range 193 .. 435 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------------LKVED-VRNPKVIVASFDLETFTNLN
+SFSDPIITISLVVKTHDDT----PKQYCFINTQGDDPVEERVDGEIIVLPYHNERDMIVAFFTLLCKSNP
+DTILDYNGDKFDIPYWTQRIILDIDPKFLRRLSPVEMNTVEV------NTKFYKLNNMKYFNHLDVYQSI
+DASKLENLKLDTAASYYLGKVELPVREMMRLYNNKQFGKIVKYNVRD-----SLLPLNMFLKCKMDNKQY
+A--------------------------*
+>P1;gi|181622|gb|AAA35768.1| DNA polymerase delta [ score 130 E 5e-29 ] [ range 310 .. 555 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRVLSFDIECAG-RKFPEPER--DPVIQICSL-
+-----------------GLRWGEPEPFLRLAL---TLRPCAPILGAKVQSYEKEEDLLQAWSTFIRIMDP
+DVITGYNIQNFDLPYLISRAQTLKVQLCSNRDSSFQKQTGRR------DTKVVSMVGRVQMDMLQVLLR-
+-EYKLRSYTLNAVSFHFLGEQKEDVQHSIITDLQNTRRRLAVYCLKDAYLLRLLERLMVLVN-AVEMARV
+TGVPLSYLLSQVKV-------------*
+>P1;gi|43788817|gb|EAF48947.1| unknown [environmental sequence] [ score 130 E 6e-29 ] [ range 59 .. 283 ]
+sequence
+----------------------------------------------------------------------
+------------------EFNFILDK---GIEWSSHRIMYFDIETWYDP-ENPRDPEKAKQPITSLQCYL
+PSKNKYFVF------------------AWHPEHTKDYDDPKIIDKYVFILSKDEESMILGFINMVNMMKV
+DIISGWYSAGYDLPYIVNR-CRVLG-LPYQNLSPIKDVYIRK------RGEYWNIKGLDHIDMMESVQDM
+GY-NLPNYKLATAVKEIVGQEGLDKLTDVTKDWQDNFKGFIEYGIRDVEILKEIND--------------
+---------------------------*
+>P1;gi|3122029|sp|P97283|DPOD_MESAU DNA polymerase delta catalytic s... [ score 129 E 7e-29 ] [ range 306 .. 551 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRVLSFDIECAG-RKFPEPER--DPVIQICSL-
+-----------------GLRWGEPEPFLRLAL---TLRPCAPILGAKVQSYEREEDLLQAWPNFILAMDP
+DVITGYNIQNFDLPYLISRAQRVTGLRSNIRDSSFQSRQGRR------DSKVVSMVGRVQMDMLQVLLRE
+H--KLRSYTLNAVSFHFLGEQKEDVQHSIITDNEQTRRRLAVYCLRDALPLRLLERLMVLVN-NVEMARV
+TGVPLGYLLSQVKV-------------*
+>P1;gi|101026|pir||S19661 DNA-directed DNA polymerase (EC 2.7.7.7) I... [ score 128 E 2e-28 ] [ range 294 .. 531 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRIMSFDIECAG-RKFPDPSI------------
+---DPVIQIASIVTQYGDSTPFVRNVFCVDTC-------SQIVGTQVYE-FQNQAEMLSSWSKFVRDVDP
+DVLIGYNICNFDIPYLLDRAKSLRIHNFIHNFFSVAKETSFS------SKAYGSIPGRLQLDMLQVMQR-
+-DFKLRSYSLNAVCSQFLGEQKEDVHYSIITDLQNGRRRLAIYCLKDAYLPQRLDKLMCFVNYT-EMARV
+TGVPFNFLL------------------*
+>P1;gi|43449621|gb|EAD79457.1| unknown [environmental sequence] [ score 125 E 1e-27 ] [ range 5 .. 241 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RILSVDIECAG-GHFPDA--------------
+-DHDPVIQIATMVTCQGDDRPIIKAIWTLDTCAPIVGAD--------VLSFKDERELLRSWGKFLRSTDP
+DLLIGYNIVNFDFPYLINRAERLNVEDFATTFSS--KAYGTR------DSKEITIEGRVQFDLLQAVQR-
+-DHKLSSYSLNAVSAHFLGEQKEDVHHSISELQAETRRRLAVYCLKDAYLPQRLLDKLMYMYNYIEMARV
+TGVPLSFLL------------------*
+>P1;gi|31240729|ref|XP_320778.1| ENSANGP00000014184 [Anopheles gambi... [ score 124 E 2e-27 ] [ range 317 .. 548 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RILSFDIECAG-RKFPEP--------------
+-QHDPVIQIANMVIRQGEQEPFLRNVFTLNTCAPIVGAQ--------VLSHKTEQELLDRWACFVRELDP
+DILTGYNINNFDVPYLLNRANHLKVRNFLGRVTNIRSVIGRR------ENKFVNFEGRVPFDLLFVLLR-
+-DYKLRSYTLNAVSYHFLQEQKEDVHHSIITDSEQTRRRLAMYCLKDAYLLRLLNKLMCIVNY-MEMARV
+TGVP-----------------------*
+>P1;gi|15237565|ref|NP_201201.1| DNA-directed DNA polymerase delta c... [ score 123 E 5e-27 ] [ range 305 .. 541 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RVLSFDIECAG-GHFPEAKH--DPVIQIANLV
+T---------LQGEDHPFVRNVMTLKSCAPIVG------------VDVMSFETEREVLLAWRDLIRDVDP
+DIIIGYNICKFDLPYLIERA-ATLGIEEFPLLGRVKNSRVRV------RDSTFSIEGRFQFDLIQAIHR-
+-DHKLSSYSLNSVSAHFLSEQKEDVHHSIITDLQNTRRRLAVYCLKDAYLPQRLLDKLMFIYNYVEMARV
+TGVPISFLL------------------*
+>P1;gi|3480|emb|CAA33504.1| unnamed protein product [Saccharomyces c... [ score 123 E 7e-27 ] [ range 304 .. 550 ]
+sequence
+----------------------------------------------------------------------
+---------------------------PAEGDWSHTALRIMSFDIECAG-GVFPEPEY--DPVIQIANVV
+YLALRNHSFVMCYSDTCSPITGSM-----------------------IFSHATEEEMLSNWRNFIIKVDP
+DVIIGYNTTNFDIPYLLNRAKALKVNDF-PYFGRLKTVKQEI------KESVFNIDGRLQLDLLQFIQR-
+-EYKLRSYTLNAVSAHFLGEQKEDVHYSIISDLQNTRRRLAVYCLKDAYLLRLMEKLMALVNYT-EMARV
+TGVPFSYLL------------------*
+>P1;gi|40742186|gb|EAA61376.1| hypothetical protein AN7325.2 [Asperg... [ score 123 E 7e-27 ] [ range 305 .. 543 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRILSFDIECAG-RKFPEPN-------------
+--HDPVIQIANVVTRYGESKPFIRNVFVMNTC--------SLIVNTQILEFQQEEKMLMAWRDFIQKVDP
+DVIIGYNIANFDFPYLLDRAKHLKCTNFLNGMRSEAKDTNFS------SKQMGNRNGRLQLDLLQLVQR-
+-DHNLRSYTLNSVSYEFLGEQKEDHHTMITELYNDSRRRLAVYCLKDAYLPQRLDKLMCLVNYT-EMARV
+TGVPFNFLLS-----------------*
+>P1;gi|4191|emb|CAA43922.1| DNA polymerase III catalytic subunit [Sa... [ score 122 E 1e-26 ] [ range 315 .. 552 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRIMSFDIECAG-GVFPEPEY------------
+---DPVIQIANVVSIAGAKKPFIRNVFTLNTCSP-------ITGSMIFSH-ATEEEMLSNWRNFIIKVDP
+DVIIGYNTTNFDIPYLLNRAKALKVNDF-PYFGRLKTVKQEI------KESVFNIDGRLQLDLLQFIQR-
+-EYKLRSYTLNAVSAHFLGEQKEDVHYSIISDLQNTRRRLAVYCLKDAYLLRLMEKLMALVNYT-EMARV
+TGVPFSYLL------------------*
+>P1;gi|17559488|ref|NP_506017.1| polymerase delta (120.8 kD) (5M525)... [ score 121 E 2e-26 ] [ range 280 .. 517 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------IRTLSLDIECIG-RRGVFPEAIKDPIIQIANLV
+KIEGEAEPFV-------------------RNCFVLGTCAPVVGSNI--IQCVNEKVLLEKWAEFVREVDP
+DIITGYNILNFDLPYILDRAKRQKEKGSVVRDAAISSKQGSR------VNKSIDIHGRIIFDVLQVVLR-
+-DYKLRSYTLNSVSYQFLSEQKEDVEHDLQRGDEQTRRRLAQYCLKDAYLLRLLDKLMSIINYI-EMARV
+TGVPMNFLL------------------*
+>P1;gi|19173164|ref|NP_596967.1| DNA POLYMERASE DELTA CATALYTIC (LAR... [ score 120 E 4e-26 ] [ range 193 .. 429 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LKVLSIDIECVS-AGNGFPSSKCDPIIQIGN--
+-----------TLMLFGDNSYASQDIFCLKETTGIPGVN--------VHWYETEKELLESWKKYFMELDP
+DVIVGYNVKGFDIPYILSRGEIL----GIESFSVLGRSRKKM------SSNMFEIDGRLIIDMMVVIRR-
+-DFKLRSYSLNSVSIHFLKEQKEDVPGELQSKNKDTRRRIASYCLRDVLPLRLFNTLNVLINYT-ELSRV
+TGTPIEYFF------------------*
+>P1;gi|38111534|gb|EAA57102.1| hypothetical protein MG08071.4 [Magna... [ score 120 E 4e-26 ] [ range 304 .. 541 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRILSFDIECAG-RKGIFPEANMDPVIQIAN--
+-----------VVTKYGDKKPFVRNVFCLDQTSP--IVATQILE------FSQEQKMLSSWRNFMVEVDP
+DIITGYNIANFDFPYLLDRARHLKVKDFIPSIKSVAKESNFS------SKQMGNINGRLQLDLLQLIQR-
+-DHQLRSYTLNSVCSHFLGEQKEDHHTMITELFNGTPRRLALYCLKDAYLPQRLMDKLSCLENYTEMSRV
+TGAPFNFLL------------------*
+>P1;gi|39592153|emb|CAE75373.1| Hypothetical protein CBG23360 [Caeno... [ score 119 E 8e-26 ] [ range 280 .. 517 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------IRTLSLDIECIG-RRGIFPEAIKDPIIQIANLV
+KVEGESEPFVRNCFVLGTCAH---------------VVGSNIIE------CVNEKVLLEKWAEFVREVDP
+DIITGYNILNFDLPYILDRAKRQRDKGSVVRDAAISSKQGSR------VNKSIDIHGRIIFDVLQVVLR-
+-DYKLRSYTLNSVSYQFLSEQKEDVEHDLQRGDEQTRRRLAQYCLKDAYLLRLLDKLMSIINYI-EMARV
+TGVPMNFLL------------------*
+>P1;gi|33944263|ref|XP_340279.1| DNA polymerase delta catalytic subu... [ score 117 E 3e-25 ] [ range 232 .. 483 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RILSIDIECEG-RKFPEAER--DPVIQIANH-
+-------CVNYGKEEDALTRTIFTLKSCGAIAGAN------------VCSFETEEEMLVQWARFVKRIDP
+DFLTGYNICNFDFPYLLSRGITLKVNDSFRQLRTVHREKKFL------SRQLGNMEGRVVMDVMAVIQR-
+-DYKLRAYSLNAVSQHFLGEQKEDVHHSISDLNDETRRRLAVYCLKDAYLPVKLLERLMVVVNNVEMARV
+TGVPIGWLLQQIKVFSMLL--------*
+>P1;gi|24664937|ref|NP_524099.2| DNA-polymerase-delta CG5949-PA [Dro... [ score 117 E 4e-25 ] [ range 182 .. 531 ]
+sequence
+----------------------NGDKKQRYIKISVTLPR--FVAAA--------SRLLKKDF---QDCRA
+F--E---------NNIDFDIRFMVDTDVNWIELPMGHWRIRNIEVDVAF-DRFPEGEVAPFRILSFDIEC
+AGRKGIFKIDPVIQIANMVIRQGEREPFIRNVFTLNECAPIIGSQVLCH--DKETQMLDKWSAFVREVDP
+DILTGYNINNFDFPYLLNRAAHLKVRNFLGRIKNIRSVIGRR------ENQYVNFEGRVPFDLLFVLLR-
+-DYKLRSYTLNAVSYHFLQEQKEDVHHSIITDLQNTRRRLAMYCLKDAYLPLRLLEKLMAIVNYMEMARV
+TGVPLESLL------------------*
+>P1;gi|43243463|gb|EAC87376.1| unknown [environmental sequence] [ score 115 E 1e-24 ] [ range 3 .. 144 ]
+sequence
+---FYTNVHQRFDEILVRGY-ENGKHFTTRETFNPTFFV--PSKEG--------DSVEPIKPGKISECKQ
+FIDK---------GNDRYICQYISEKYPEEIKFDISKIKLVTIDIEVAA-EGFPNVFDCAEELLAITLQD
+YTTKKI----------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|3913525|sp|O48901|DPOD_SOYBN DNA polymerase delta catalytic s... [ score 115 E 2e-24 ] [ range 272 .. 509 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RILSFDIECAG-GHFPEPTH--DPVIQIANLV
+T---------LQGEDQPFIRNVMTLKSCSPIVG------------VDVMPFETEREVLLAWRDFIREVDP
+DIIIGYNICKFDLPYLIERALNLKIAEF-PILGRIRNSRVRV------KDTTFSVEGRVTFDLLQVMQR-
+-DYKLSSYSLNSVSSHFLSEQKEDVHHSIISDLQNTRRRLAVYCLKDAYLPQRLLDKLMFIYNYVEMARV
+TGVPISFLLS-----------------*
+>P1;gi|45198332|ref|NP_985361.1| AFL189Wp [Eremothecium gossypii] >g... [ score 114 E 2e-24 ] [ range 299 .. 543 ]
+sequence
+----------------------------------------------------------------------
+---------------------------PADSDWSHSALRILSFDIECAG-GVFPEPEV--DPVIQIANVV
+SIAGESKPFIRNVFTVDTCAP--------------------ITGSQIFEH-ETEEAMLKHWRDFLVEVDP
+DVIIGYNTTNFDLPYLINRARLVNSKQVIKEFSSKAH-GTRE------SKSI-NIEGRFQLDIFQFVRR-
+-EYQLRSYTLNSVSAHFLGEQKEDVHHSIRGDSE-TRRRLAVYCLKDAYLLRLLEKLMALVNYT-EMARV
+TGVPF----------------------*
+>P1;gi|43009588|gb|EAB71588.1| unknown [environmental sequence] [ score 112 E 1e-23 ] [ range 2 .. 75 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------EKAGNPFD-TFREWYTKDFQSFIEYNINDVELVDRLEDKMKLIELCLTMAYE
+GKVNYTDVLGSVRYWDVLIYNYL----*
+>P1;gi|23488820|gb|EAA21409.1| DNA polymerase delta catalytic subuni... [ score 112 E 1e-23 ] [ range 304 .. 544 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------KLRILSFDIECDG-KGFPEAK-------------
+--TDPIIQISSILYLQGDPIENCAKFIFTLLECASIPGSN-------VIWFNDEKTMLEAWNEFVIRIDP
+DFLTGYNIINFDIPYILNRALNLKKLKYIGRIKNIPKDANFS------SKQFININGRIQFDVYDLIKR-
+-DYRLKSYTLNYVSFEFLKEQKEDVHNDLQNENSESRKRIATYCIKDGLLPLRLIDKLLFIYNYVEMARV
+TGTPFVYLL------------------*
+>P1;gi|23029468|ref|ZP_00067805.1| COG0417: DNA polymerase elongatio... [ score 111 E 2e-23 ] [ range 159 .. 310 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------DDERALLQTFVRRVGQFDP
+DVFVGWNVINFDFRLLIHRVRLNLGRDAKP-LH-WRDAPGEV------DQGYVSMPGRVVIDGIDALRTA
+TY-HFDSFSLEYVSQALLGKGK-KTDNVENRLAEIEHDKLAEYNLQDCELVLDIFEHTQLLE--------
+---------------------------*
+>P1;gi|44191854|gb|EAH61999.1| unknown [environmental sequence] [ score 110 E 4e-23 ] [ range 45 .. 195 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------IVVESEKVLLEAFFSYLTSYDP
+DIILGWNVKQFDMAVLERRARANSLKYAIGRHGREASVRQWE------DQTLVDVPGRCVIDGIEALKTM
+TY-QFESFSLDHVSEELLGENKLDKLEAIKRLYHSDPVALANYNFKDTELVNRIQDKTQFID--------
+---------------------------*
+>P1;gi|23507969|ref|NP_700639.1| DNA polymerase delta catalytic subu... [ score 109 E 8e-23 ] [ range 259 .. 541 ]
+sequence
+------------------------------------------CKKG--------HYYIRNKNKKISNCTF
+EIDI---------SYEHVEPITLENEYQ-----QIPKLRILSFDIECKL-DGKGFPEAKNDPIIQIS---
+---------SILYFQGEPIDNCTKFIFTLLECASIPGSN--------VIWFNDEKTLLEAWNEFIIRIDP
+DFLTGYNIINFDLPYILNRALNLKKLKFLGRIKNVAKDSSFS------SKQFINIFGRIQFDVYDLIKR-
+-DYKLKSYTLNYVSFEFLKEQKEDVHYSIMNDLQNERKRIATYCIKDGVLPLRLIDKLLFIYNYVEMARV
+TGTPFVYLL------------------*
+>P1;gi|42553791|gb|EAA76634.1| conserved hypothetical protein [Gibbe... [ score 107 E 4e-22 ] [ range 305 .. 543 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRILSFDIECAG-RKGIFPEANHDPVIQIAN--
+-----------IVTKYGEKKPFVRNVFCLQETSSIVATQ--------ILAYEKEEKMLSDWQKFLIRTDP
+DIITGYNISNFDFPYLLDRAKHLKVWTRIPSMQSRAKETNFS------SKQMGNRNGRLQLDLLQLVQR-
+-DHQLRSYTLNSVCANFLGEQKEDHHTMITELFNGTPRRLALYCLKDAYLPQRLMDKLSCLENYTEMARV
+TGVPFNFLLS-----------------*
+>P1;gi|11931713|emb|CAC19127.1| delta DNA polymerase [Ascovirus DpAV4] [ score 106 E 9e-22 ] [ range 248 .. 417 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------PCSVVENATLTVVDSERDLIVAFAKLIQKEQP
+NIITGWNIFTFDFKFMINRADNM----CMHEFTNFGMVDEET------NVQYVDVEGVLCIDLIEVVRK-
+-DYKLDSYSLNNVSKHFLKNEK--DDMNFQDDAANQFAKLGHYCVQDSRLVLDL----------------
+---------------------------*
+>P1;gi|10140935|ref|NP_065512.1| DNA Polymerase [Alcelaphine herpesv... [ score 105 E 1e-21 ] [ range 297 .. 555 ]
+sequence
+----------------------------------------------------------------------
+----------------------------GDIQYHAERLNILSFDIECLG-EGFPSADKDEDMIIQIS---
+------------------CVIWTVGGDKKQECILLSVGTCDLIENVKVYEFPSEMDLLYGFFTLLRDYGI
+EMITGYNICNFDFPYILNRAQNVYNEDFSKTYTPQEGNFMRS------HSKV-KMSGVVVIDMYQVCRDK
+--LNLSNYKLNTVAKECLGEKKN--DVSYKDISSKDRAKLGMYCVQDAVLVDLLKHFMTHIEIT-EIAKI
+ANIPTRRVLSQIRV-------------*
+>P1;gi|41719108|ref|ZP_00148032.1| hypothetical protein Mbur151201 [... [ score 104 E 4e-21 ] [ range 137 .. 314 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------VDEDVEMLP--DESDLLNRFFEIFRDYDP
+DVITGYNINDFDVPYITDRVK-LLNESGSNINSAVGRDSRAL------SRTMVPIPGRVVVDSLPLIRQ-
+QFS-LKRYTLRNVSKELLGREKLDVDDMEEHWNDSGIRKFIDYSRRDSELALELLLDLKLLDKYIALSRV
+SGILLQDTVS-----------------*
+>P1;gi|44566937|gb|EAK15573.1| unknown [environmental sequence] [ score 104 E 5e-21 ] [ range 176 .. 421 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------DIAPFVIASVDIECST-GKFPSPGDACFQI-AISLVR
+FGEDE---------------PFDKTCLCYKNTDPK-------LEGCTITSFDTERDLLLAFSKYLHIHDI
+DIITGWNIFGFDLEYIMERMSKLKGYTCSKKLSSSALGDNEL--------KLVPMPGRFIFDMFHEIKR-
+-EYKLDSYKLDSVSEKYLGDKKIDMPEMFARYVEADPVKLAEYCIKDTLLPHRLLTRLCLMNL-LEMAKA
+TWVPLSYL-------------------*
+>P1;gi|15078750|ref|NP_149500.1| 037L [Invertebrate iridescent virus... [ score 102 E 1e-20 ] [ range 208 .. 415 ]
+sequence
+----------------------------------------------------------------------
+----------------------ISKNYIYSIDKHKAKVMAWDIEVYSED-GNFPDPGNVVFQISCIFF--
+-----IVGTSYKQKYLLTLGDPLEYTTTPINEEGCGK-------DTIVCKFKTEEDLIIAFSSLQKREKP
+HITTGWNIFNFDTTFLLKRAKL---HRCLPNFLLQGFPKDQL------GKEFIDCEGILCIDLMDVVQKE
+H--KLDSYSLNFVAKHFLGSKKDD----------------------------------------------
+---------------------------*
+>P1;gi|43140842|gb|EAC36163.1| unknown [environmental sequence] [ score 102 E 1e-20 ] [ range 1 .. 61 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------YTKDYQQFIEYNIQDVELVDKLEDRLKLIELHLTMAYE
+AKVNYQDCFGQVRMWDTIIFNHL----*
+>P1;gi|2737958|gb|AAB94311.1| DNA polymerase III [Pichia angusta] [ score 102 E 1e-20 ] [ range 1 .. 163 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--IIGYNIANFDFPYLINRA-RALGVHDFPYFSRLKNSKQER------ENKVVNIEGRMQLDLLQFIQR-
+-EYKLRSYTLNAVSAHFLNEQKEDVQHSIITDNQETRRRLAVYCLKDAYLPLRLEKLMCLVNYT-EMARV
+TGVPFSFLLSQIKV-------------*
+>P1;gi|6015019|sp|Q69025|DPOL_GPCMV DNA polymerase >gi|459763|gb|AAA... [ score 101 E 3e-20 ] [ range 292 .. 566 ]
+sequence
+----------------------------------------------------------------------
+---------------------------DSDMSWPEYRCASFDIECMSGG-DRFPD----SSMVDDIVIQI
+SV----ICYAVGRSGAESDGVSGAEAAVREHQHLFTLGPCAPIPGTHVYEFPSEYELLLGFFIFFKAYPP
+DILTGYNINLFDIKYLLQRMEKIYHANVSERFSPVGKPRNAS------SASIVHCTGTVVLDMYPVVAKT
+SA---PNYKLETMAEMYLNEHK--DDLSYKEINDNGRAVVGRYCIKDALLVKRLFEKLNYHYEAASVARL
+ARIPLRSVIFQIRIYSCIL--------*
+>P1;gi|43140844|gb|EAC36164.1| unknown [environmental sequence] [ score 101 E 3e-20 ] [ range 3 .. 127 ]
+sequence
+---FYTSVLPYRGRLLVRGVNHDGSHKKYRVNYRPSLFV--PSNDG--------RNVGKVEFQSIPDAKK
+WIDE---------GNTRYQYPFIADQFPNKIDWDIKQIRLITIDIECES-ENFPDADEA-----------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|32399018|emb|CAD98258.1| DNA polymerase family B subunit, pro... [ score 101 E 3e-20 ] [ range 294 .. 545 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------IRILSFDIECIT-EGFPEP-----------HKD
+SVIQISSVVTLLDSPESICNVIFTLKECASVAEAF------------VFWFESEKDMLLAWKDFLLALDP
+DVITGYNCINFDMNYLLERAK-LFQLNDFFFFTRLAKTKITS------KDTRFNIEGRILWDILETIRRE
+H--KLKSYSLNYVSTNFLKEQKEDVHYSLQDGNPETRKRIAIYCLKDSILPLRLMKHLKLFPNIIEMARV
+TGTTIDILLSQIKVTSQIL--------*
+>P1;gi|9635382|ref|NP_059280.1| ORF132 [Xestia c-nigrum granulovirus... [ score 100 E 9e-20 ] [ range 209 .. 426 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------DSIVASYDLETFTNSN
+PDTDPIITIALTIKRHNNQLLRYCLINSVQRPDLSDPYTQNVDGEAVVVPFNNERDMIVMFYKMLTLANP
+DEVIDYNGDNFDLPYLIKRAKILCDSNIIRRYDRVYKINTKF------GYG-FNSHSMVYYNHVDLYQTL
+DASKMENMKLDTVANFYLGVGKVELSEMMQLYKEGKFGKIVKYNIRDTVL--------------------
+---------------------------*
+>P1;gi|8714515|gb|AAC57976.2| DNA polymerase [retroperitoneal fibrom... [ score 99 E 9e-20 ] [ range 293 .. 543 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RILSFDIECMG-EGFPKATRDGDVILQISCVF
+HAAGE---------------------DAPYTRILLSLGTCDPLDDTEIFEFPSEYDMLVAFFAMIRDYDV
+DFITGYNIANFDLPYIITRATQVYNID-LKSFTKIKTGSIFE------VHEKVKISGIVPIDMYQVCREK
+--LSLSDYKLDTVAKKCLGKQKDDYRDIPPLFRSAGRAKIGRYCVIDSVLVDLLRMFQTHVEIA-EIARL
+AKIPARRVLTQIRVFSCLL--------*
+>P1;gi|43055864|gb|EAB94314.1| unknown [environmental sequence] [ score 99 E 1e-19 ] [ range 3 .. 119 ]
+sequence
+---FYTNVQMIGDNFLVRGYD-NGEYIQFREKYNPTLFV--PSNEG--------EYVAPIKPGSVRDCRD
+FYKK---------GNERYIYQYISDKYPEEIKFDIEKVRLLTVDIETRS-EN------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|32698633|ref|NP_872548.1| DNA-pol [Adoxophyes orana granulovi... [ score 99 E 1e-19 ] [ range 160 .. 388 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------VPI-ERVPNPIVGCFDLETYTNLN
+SFNDHIITIAYTLKKQNCTYRYNTGGEEFSLDDAINDNDKYLYDKIVVIPSSSEKEMLNSFLKLLFTSNP
+DEILDYNGDKFDLPFLLKRAINNIDLNFITRYSNMKTVNVFS------KFGYATVNHMVYYNHLDVYQSI
+DAQKLENLKLNTVANYYLGKVELSVREMMNLYKDKKFGQIVRYNVRDTIL--------------------
+---------------------------*
+>P1;gi|8925893|gb|AAF81662.1| DNA polymerase [retroperitoneal fibrom... [ score 99 E 2e-19 ] [ range 291 .. 543 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------RYRILSFDIECMG-EGFPRATRDGDVILQISFHD
+AGEDAPYTRMLL-----------------------SLGTCDPLENTEIFEFPSEYDMLTAFFTMLRDYDV
+DFITGYNIANFDLPYIITRATQVYNFD-LKNYTKIKTGSMFE------VHEKVKISGIVPIDMYQVCRDK
+--LSLSDYKLDTVAKHCLSKQKDDYRDIPPPFRSAGRAKIGRYCVIDSVLVDLLRMFQTHVEIA-EIARL
+ARIPARRVLTQIRVFSCLL--------*
+>P1;gi|21686768|ref|NP_663268.1| DNA polymerase [Phthorimaea opercul... [ score 98 E 3e-19 ] [ range 194 .. 428 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------DVIVGSYDIETYTNLR
+SFSDPIITISYVYRNHDTTRRYNTNGRKFGLAEQVNARAEYVDGEIVVLPYHNERDMIVSFFRLLCATNP
+DDVLDYNGDKFDLPYLLERAILNIDLALIQRDLPCVEFNTLR------VNTKYSFDNMTYYNHLDLYQSV
+DANRLENLKLDTVAGYYLGKVELSVKEMMQLYNRGEFAKIVRYNVRD-----SILPIEMFYKCQVSNKLY
+A--------------------------*
+>P1;gi|5918971|gb|AAD56202.1| DNA polymerase [Gallid herpesvirus 1] [ score 96 E 1e-18 ] [ range 309 .. 550 ]
+sequence
+----------------------------------------------------------------------
+---------------------------GNNVSWPDYKLLCFDIECKAGG-ANFPSAEKVEDLVIQISA--
+------VTYSLLTKE---------KEQEIIFSLGTCELSEDCSDGITVCKCGSEFELLLCFMTFFKQYSP
+EFVSGYNILGFDWAYLSNKLSKVYGLDGYGKANSWGTFKLQR------FKKV-KINGVVNIDMFTIYEKL
+---KLPSYKLNAVAECVLGEQKI--DLAYKDFAAKERGKIGEYCLQDSRLSGSLFFKFS---PHLEMSAV
+AK-------------------------*
+>P1;gi|11068096|ref|NP_068312.1| PxORF93 peptide [Plutella xylostell... [ score 96 E 1e-18 ] [ range 141 .. 377 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------VPV-ESLTQPIEACFDLETYTNGL
+RFTDPAIDPIISISLVVR-GPQGTKKMCIVNTNRRNVNFDDVGEEVSVFAMLDERSAIEKFYELLWRSNP
+DEVLDYNGDSFDIPFLMRRAEILVGEDVLRRDLPPTKIKWTN------IRSKYGYDTRAYYNHTDILQSM
+DHSKIENLKLETVAKYYLGVGKLDVREMIKLYERGEMAKIVEYNVRDSVLPVNI-----FLKCQVANKLY
+A--------------------------*
+>P1;gi|6469146|emb|CAB61753.1| DNA polymerase [Chlorocebus rhadinovi... [ score 96 E 1e-18 ] [ range 144 .. 394 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RMLSFDIECMG-EGFPRATRDEDVILQISCVF
+HTAG------------------DKSPYTQILLSLG---TCEPLEGTEILEFPSEYDMLTAFFAMLRDYDV
+EFLTGYNIANFDLPYIITRATQVYNID-LKNFTKIKTGSVFE------VHEKVKISGIAPIDMYQVCRDK
+--LSLSDYKLDTVAKKCLGKQKDDYRDIPPLFRSAGRAKIGRYCIIDSVLVDLLRMFQTHVEIA-EIARL
+AKIPTRRVLTQIRVFSCLL--------*
+>P1;gi|27366324|ref|NP_761852.1| DNA polymerase elongation subunit [... [ score 96 E 1e-18 ] [ range 203 .. 372 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------DEKQLLLALIAWFEQFDP
+DVIVGWNVIDFDFRLLQKRAEQLKLTLGRGNQTSYFRSSSQS------QQAFITIPGRVVLDGIDTLKTA
+TY-HFRSWSLESVSRELLGEGKNVHDAEINHMFRHDKPSLAKYNLQDCVLVNRIFAHTHLLEYVIERSKL
+TGVELDRVGGSV---------------*
+>P1;gi|16081956|ref|NP_394366.1| DNA polymerase (PolB), large chain ... [ score 96 E 1e-18 ] [ range 200 .. 367 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------EQDILRSFVDLIRAEDP
+DVITGYNIDGYDIPVIKKRMDRYGIKLEIGRD---GSIPRRI------MNQFWRVHGRLISDTWWSVKRI
+LHPKHES--LDYVANMLLGEGKNIDRLHIEDEWKKRREEVIAYCIKDADLTLRIFEKLMVMNRLMYMSSV
+TKLPLDDVVGTSNYVDSIL--------*
+>P1;gi|9628761|ref|NP_043792.1| DNA polymerase [Human herpesvirus 7]... [ score 95 E 2e-18 ] [ range 252 .. 507 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------NVEIELNC-DSWPLYDCCSFDIECLSQNG
+NFPD---AEQMVTSSLISVIDFDSEGN-YQSKHLFTLGTCEQIEGVFIYEFASEFELLYAFFLFLKCKSP
+EILTGYNIINFDLKYLCTRMEKIFSKLKRGKFSVI--VPYEQ------HKKFVNMSGILCFDMYNVYSSK
+ISAQ--NYKLDTIAKLCLNQEK------ENLSYKEIPKKFIDYCIQDSLLVVQLFTK---INYHYEMAEV
+ASLAYITI-------------------*
+>P1;gi|15641225|ref|NP_230857.1| DNA polymerase II [Vibrio cholerae ... [ score 95 E 2e-18 ] [ range 200 .. 370 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------EDEYQLLKALIAWFEQFDP
+DVIIGWSVVDFDFRLLHKRAEFHKLKLTIGRAQSFFRTASQT------QQGFISIPGRVVLDGIDTLKTA
+TY-HFRSWSLESVSQELLGEGKNVHDDEINQMFRHDKPSLARYNLQDCVLVNKIFAATHLLDFAIQRSRL
+TGVELDRIGGSV---------------*
+>P1;gi|13447465|gb|AAG13396.2| DNA polymerase [Caprine herpesvirus 2] [ score 94 E 4e-18 ] [ range 268 .. 513 ]
+sequence
+----------------------------------------------------------------------
+----------------------------SDVQFHSERVNILSFDIECLG-EGFPSAERDEDIII------
+----QISCTIWAVGSEGDPR-------RILLCVG----TCDPLEGIDVYEFPSELDMLYAFFTLIRDYGV
+EMITGYNICNFDFPYVLDRARHVYNEEYSKTKSNVYKPHEGR------AHSKVKLSGVVVIDMYHICRDK
+--LSLSDYKLNTVAKECLGEEKT--DVTYKDFRSRDRARLGLYCVQDAVLVLNLLQHMTHIEIT-EIAKI
+AHIP-----------------------*
+>P1;gi|2246468|gb|AAB62593.1| ORF 09, DNA polymerase homolog [Human ... [ score 94 E 4e-18 ] [ range 292 .. 543 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------ILSFDIECMG-EGFPNATQDEDMIIQISCVL
+HTNDKPYTRMLL-----------------------GLGTCDPLPGVEVFEFPSEYDMLAAFLSMLRDYNV
+EFITGYNIANFDLPYIIARATQVYDFK-LQDFTKIKTGSVFE------VHQKVKISGIVPIDMYQVCREK
+--LSLSDYKLDTVAKQCLGRQK--DDISYKDFKSDGRAKVGNYCVIDSVLVDLLLRFQTHVEIS-EIAKL
+AKIPTRRVLTQIRVFSCLL--------*
+>P1;gi|19881424|ref|NP_612241.1| putative DNA polymerase [infectious... [ score 94 E 5e-18 ] [ range 167 .. 372 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KIVYFDIEVKS-DENVFPSDRDDEV-------
+-----IFQIGLVLCSGNTVLRTD-----------LLSLPGRDYDDSVY-QYATEGELLHAFIAYIREHEV
+VAVCGYNIMGFDIPYIIKRCART---SMLGTLRRIGFDNRRL------AIEYIQWEGVLTIDLMPII--M
+MDHKLDSYSLDYVANHFVKAGKDPIRDIFHAYNTGMMARVGRYCVKDTQLCKQLVD--------------
+---------------------------*
+>P1;gi|44178045|gb|EAH54631.1| unknown [environmental sequence] [ score 94 E 6e-18 ] [ range 3 .. 119 ]
+sequence
+---FYTSVLPFRGRLLVRGVNHDGSHKKFRINYKPSLFV--PTLDG--------RNVGKVTFDSIPDAKK
+WIDE---------GNTRYQYPFIADQFPDKVNWDIKQIRILTLDIECES-EN------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|2746268|gb|AAC40752.1| catalytic subunit of replicative DNA p... [ score 94 E 6e-18 ] [ range 252 .. 508 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------NVEIELNC-DSWPLYDCCSFDIECLSQNG
+NFPDAEIIIQISVIDFDSEGNYQSK-------HLFTLGTCEQIEGVFIYEFASEFELLYAFFLFLKCKSP
+EILTGYNIINFDLKYLCTRMEKIFSKLKRGKFSVI--VPYEQ------HKKFVNMSGILCFDMYNVYSSK
+ISAQ--NYKLDTIAKLCLNQEKK------NLSYKEIPKKFIDYCIQDSLLVVQLFTK---INYHYEMAEV
+ASLAYITI-------------------*
+>P1;gi|9845346|ref|NP_064160.1| pR54 [Rat cytomegalovirus] >gi|21264... [ score 94 E 6e-18 ] [ range 286 .. 499 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------RCLSFDIECMSAS-GAFPQAEV----LDDIVI--
+----QISCVCFVVGGSGAHRFTFAEK------HLFTIGSCAPVEDVWVYTFPSEYEMLLGFFIFFNRFSP
+DFLTGYNINGFDIKYLLHRMCRVYQKDAGRFNSPDGSFGGRS------GVIKVFCAGTVVLDMYPVC--S
+AKTSAPNYKLDTMAERYLGQRKE--DLSYKEIGEEGRARVGKYCVQD-----------------------
+---------------------------*
+>P1;gi|5881329|gb|AAD55134.1| DNA-dependent DNA polymerase [Bovine h... [ score 93 E 1e-17 ] [ range 369 .. 593 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------KLMCFDIECKSGG-DELAFP--------VATNHD
+DLVIQISCLLDVPSHRLDHVMLFSLGSCDIPESFSESLRNRGLPEPLVLEFDSEFEMLLAFFTFLKQYGP
+EFVTGYNIINFDWPFLITKLTDVYKVNARGVFRVWDIGQNSF------QKNNIKINGVVNIDMYAIAREK
+--VKLSSYKLNAVAEAVLDDRKKDLDKDIPRYYASGPELIGEYCIQDSLLVGRL----------------
+---------------------------*
+>P1;gi|34395919|gb|AAF63493.2| polymerase [Green turtle herpesvirus] [ score 92 E 2e-17 ] [ range 313 .. 532 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLVFDIECKS-GGFPEADNSCDVVIQISAI-
+-----VHCLRTGNEEG-----------RLLFSLGSCRLPAEAAGSATVIECDSEYELLLAFFTFFKQFSP
+EYPSGYNILGFDLPFLVNKAAYDLKLDGYGRLERGGQFRNRF------QKNIVRINGTVTLDVYPLLR--
+GKLSLPDYKLDTVCREVLGETKRDVSKEIPALYGQGPEGLGDYCLQDSALVLRLFEK-------------
+---------------------------*
+>P1;gi|44491811|gb|AAS47484.1| DNA polymerase [Murid herpesvirus 4] [ score 92 E 2e-17 ] [ range 271 .. 521 ]
+sequence
+----------------------------------------------------------------------
+----------------------VADILPIEEQSNWPFYRCLSFDIECMS-GTGAFP--AAENVDDIIIQI
+S----CVCFGVGEMHHAYDVHADLSTPAVPENHLFTIGPCAPIPDVKIYTFPSEYEMLRGFFIFLSWYSP
+EFITGYNINGFDIKYILTRAEKLYKMDVLRRFSPAGFGTSNT------VKVFWS--GSIVLDMYPVCTAK
+ASS--PNYKLDTMAEIYLKKKK--DDLSYKEFSDEGRARVGKYCLQDAVLVRELFEMLAF----------
+---------------------------*
+>P1;gi|28898720|ref|NP_798325.1| DNA polymerase II [Vibrio parahaemo... [ score 91 E 3e-17 ] [ range 201 .. 370 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------NEKALLEALIAWFKSFDP
+DVIVGWNVIDFDFRLLHKRAKLMLGRADQP---SFFRSSSQS------QQGFISIPGRVVLDGIDTLKTA
+TY-HFRSWSLESVSQELLGEGKEIHNDEINRMYRSDKPSLAKYNLQDCVLVNKIFEHTHLLAFAIERSRL
+TGVELDRVGGSV---------------*
+>P1;gi|9628011|ref|NP_042605.1| DNA polymerase replicative subunit [... [ score 91 E 4e-17 ] [ range 291 .. 540 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------VLSFDIECLG-ENFPNASRDEDMIL------
+----QISCVIWKAGSGEAPR-----------SVLLNLGTCEEIEGVEVYQCPSELDLLYLFFTMIRDADV
+EFVTGYNISNFDFPYVIDRATQVYNLN-LKEFTRVRSSSIFE------VHKKVKVAGVVPIDMYQVCRDK
+--LSLSNYKLDTVAGECVGAKKE--DVSYKEFRQGGRARLGLYCVKDSALVLDLLRYMTHVEIS-EIAKI
+AKIPTRRVLTQIRVFSCLL--------*
+>P1;gi|38638220|ref|NP_944403.1| DNA polymerase [Psittacid herpesvir... [ score 91 E 4e-17 ] [ range 309 .. 535 ]
+sequence
+----------------------------------------------------------------------
+---------------------------RGRADWPDYKLLSFDIECKAGG-ANFPTAERIEDVVIQISA--
+-----------VVSSLLTRRVEHEILFSLGTCQ----LPEDIADHVKVCECGSEFELLLCFMTFLKQFSP
+EFVTGYNILGFDWGFMYNKMVNIYGLDGYGKANAWGMPHSGR------GKRNVKINGIVNFDMFSIYQKI
+---KLCSYKLNSVAETVLGEKK--HDLSYKDLPREERGKIGAYCLQDSRLATKL----------------
+---------------------------*
+>P1;gi|15617537|ref|NP_258337.1| DNA polymerase [Spodoptera litura n... [ score 91 E 5e-17 ] [ range 172 .. 415 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------LIVVDAESLE-REIPAVISC-YDIETYTMSA
+PETDHIISISIVDRSYKKICFYYTTQGPARDLIDGDGDDETV--HVVY--FDSEKRMIKAFFDLMPVLNF
+DYLIDYNGDAFDMPFLMGRSTALSDVKVKRDLDPVNVDTWDK------FQNKLNTHHLTYYVHIDLYQLS
+SDSEQENFRLNTVAQHYLNDTKVDISDMISMYRENRMLKIIEYNVHDAVLPIEIFSKLEIIEFMYTQC--
+---------------------------*
+>P1;gi|44491803|gb|AAS47480.1| DNA polymerase [Murid herpesvirus 4] [ score 91 E 5e-17 ] [ range 271 .. 521 ]
+sequence
+----------------------------------------------------------------------
+----------------------VADILPIEEQSNWPFYRCLSFDIECMS-GTFPAAENVGDIIIQISC--
+------VCFGVGEMHHAYDVHADLSTPAVPENHLFTIGPCAPIPDVKIYTFPSEYEMLRGFFIFLSWYSP
+EFITGYNINGFDIKYILTRAEKLYKMDVLRRFSPAGFGTSNT------VKVFWS--GSIVLDMYPVCTAK
+ASS--PNYKLDTMAEIYLKKKK--DDLSYKEFSDEGRARVGKYCLQDAVLVRELFEMLAF----------
+---------------------------*
+>P1;gi|232019|sp|P30318|DPOL_NPVLD DNA polymerase >gi|484512|pir||JQ... [ score 91 E 5e-17 ] [ range 259 .. 454 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------VHFRAERDMIAAFFQLLPLLNA
+DVVLDFNGDKFDLPFLTGRANKLCGPAEAARLSPVNVVTQQS------YDKFSNKHYLTYYIHIDLYQLS
+TDSELENFQLNTVAEHYLKKSKVDLPDMLQMYGEKRLSRIVEYNVQDCVLPVELFLKLEIADYMYTQCML
+LYLCTDDLLRNISHKITVAYFHL----*
+>P1;gi|9630008|ref|NP_046226.1| DNA polymerase [Orgyia pseudotsugata... [ score 90 E 7e-17 ] [ range 188 .. 411 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------------PVMACYDIE--THSD
+GHNDVIMCIGLAVFKNDRF-----EKVCFVYHSEAVEIPQASDDTYVVV-FNNENHMITAFFEFLKTVNP
+DVILDYNGDVFDLPYI--RGRLKGDKPLLRRDLPAMQPNTKL------FIKIGNRTDTYYFNYIDLYKYF
+DANKRENFQLNTLSQYYLGDAKVDWQTMVEMYNNKQLGTIIKYNVQDCLLPIRLFNKLKLTDFMYSQC--
+---------------------------*
+>P1;gi|44623800|gb|EAK55813.1| unknown [environmental sequence] [ score 90 E 8e-17 ] [ range 214 .. 383 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------DAAIYIEVNDEAALIHRLIAWFTEFDP
+DVIIGWSVVTFDIPLRIGRGGALLEWKVENKFRP----------------ETLSLPGRVVLDGID-WLKA
+AFYQFERFSLEFVAQALLGEGKAIHDVEIDALFTENKQGLAHYNLTDSRLVWDIFEHTQLWDFALARAEL
+TG-------------------------*
+>P1;gi|44370318|gb|EAI79277.1| unknown [environmental sequence] [ score 90 E 9e-17 ] [ range 206 .. 376 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------DESALLSALERWFVRHDP
+DLVIGWNVVNFDFRLLLRRAE--LNKRRLRLGRGHELCFWRS------SRNDVIIPGRMVLDGIDTLKSA
+TW-QFPSYSLDAVASELLGRGKDIEDEKITELFHSDKEALARYNLEDCRLVWEIFDFCHLIPFAIERASL
+TGLELDRVGGSV---------------*
+>P1;gi|118888|sp|P27172|DPOL_MCMVS DNA polymerase >gi|67043|pir||DJB... [ score 90 E 9e-17 ] [ range 271 .. 521 ]
+sequence
+----------------------------------------------------------------------
+----------------------VADILPIEEQSNWPFYRCLSFDIECMS-GTGAFP--AAENVDDIIIQI
+S----CVCFGVGEMHHAYDVHADLSTPAVPENHLFTIGPCAPIPDVKIYTFPSEYEMLRGFFIFLSWYSP
+EFITGYNINGFDIKYILTRAEKLYKMDVLRRFSPAGFGTSNT------VKVFWS--GTVVLDMYPVCTAK
+ASS--PNYKLDTMAEIYLKKKKDDLS------YKEIPVQFSKYCLQDAVLVRELFEMLAF----------
+---------------------------*
+>P1;gi|21228106|ref|NP_634028.1| DNA polymerase delta catalytic subu... [ score 89 E 1e-16 ] [ range 246 .. 389 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------VLPCKDETDMLNRFFEIICEYDP
+DIVAGYNHQDFDIPYITDRVKNAKGENINPVVGRDGHIGYRR------FGTRTEVKGRVVVDALPLVRR-
+-AFSLKQYTLRAVSKELLSREKLDVPEMEEHWNDSGEKKFVDYARRDAEL--------------------
+---------------------------*
+>P1;gi|21668345|emb|CAC84133.1| delta DNA polymerase [Iridovirus RMI... [ score 89 E 1e-16 ] [ range 227 .. 490 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------LILSFDLEVNS-EEVTKPGDVVFQISCI----
+---------------FNRLGGVENEVERYLLSLGN---PTEQIVGATILRYSTEKKLLMGFRDLVNEKNP
+NVITGYNIFNFDIPYLMDRTKSIFVEQGFAKNRPPREIRWSS------SAKYLDCEGRLYIDLLPVVQR-
+-DFKLNDYKLKTVSTFFIGETKDDLDPTFRCYREGTRDHFMSYCMQDSMPVYKLFEKLNVWYGLSEMAVV
+CNVPMITLFTQIKVY------------*
+>P1;gi|6015024|sp|O70736|DPOL_RSIV DNA polymerase >gi|3176380|dbj|BA... [ score 88 E 2e-16 ] [ range 166 .. 371 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KIVYFDIEVKS-DENVFPSDRDDEV-------
+-----IFQIGLVLCSGTTVLRTD-----LLSLPGRDY-------DASVYQYATEGELLHAFIAYIREHEV
+VAVCGYNIMGFDIPYIIKRCART---SMLGTFKRIGWDSHRL------AIEYIQWEGVLTIDLMPII--M
+MDHKLDSYSLDYVANHFVKAGKDPIRDIFHAYNTGLMARVGRYCVKDTQLCKQLVD--------------
+---------------------------*
+>P1;gi|40787896|ref|NP_954917.1| UL30 DNA polymerase, catalytic subu... [ score 88 E 3e-16 ] [ range 386 .. 611 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------KLLCFDIECSCAG-DGFPAAANAEDQISCLTYSL
+RTQRHEHTLLFSLGSC------DLPPAFLGACAAAGLPAPAVLE------FDSEFELLLAFMTFLKQYSP
+EFVTGYNIVNFDWAYLLEKLTAVYDLDGYGKLNRGGVFQNRF------QKQKVKINGVVSLDM---YRTA
+VDKKLPSYKLNAVAEEALRERKVDLD------YKDIPRHFAEYCIQDSALVGKL----------------
+---------------------------*
+>P1;gi|21552715|gb|AAM62282.1| DNA polymerase [badger herpesvirus] [ score 88 E 3e-16 ] [ range 276 .. 512 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------VLSFDIECLG-ENFPNATRDEDMILQIS---
+------------------CVLWKTGENTPPRKILFNLGTCDPIPDTEVFECPSEIDMLYLFLTMLRDLNI
+EFITGYNIANFDFPYIIDRAVQVFNFN-LKDFTRIKNSSMFE------VHTKIKISGFVCIDMYNVCKEK
+--LSLSNYKLNTVAKQCIG--GQKEDVSYKDFRAAGRAKLGVYCVKDSEIVLQLLRYMTHIEIS-EIAKI
+AKIPTRRVL------------------*
+>P1;gi|23052525|ref|ZP_00079162.1| COG0417: DNA polymerase elongatio... [ score 88 E 3e-16 ] [ range 249 .. 431 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------SYTDETEMLNKFFEIFCDYDP
+DIVIGYNHQDFDIPYITDRVKTLVSEG--NSINPVGRDGSKI------GYRKFEMKGRVVVDALPLVRR-
+-AFSLKQYTLRAVSKELLSREKLDVPPEMEEYWLDTFKKFVDYSRRDAELALELILNLRLLDKYVALAQV
+SGSLLQEVVGQTSMVETLL--------*
+>P1;gi|24943095|ref|NP_733857.1| ORF5 [Callitrichine herpesvirus 3] ... [ score 88 E 3e-16 ] [ range 279 .. 521 ]
+sequence
+----------------------------------------------------------------------
+---------------------------GNDVSWPPYMVMAFDIEC-LGE-EGFP---NATNE--------
+--TDLIIQISCVLWSVGEP----TSNYRRILLTVG---TCAEIDGVEVYEFPSEMDLIYAFFQLIRDLNV
+EIITGYNVANFDWPYILDRARHIYGINPA----SLGKIRGSR------ACTKIRISGVIPIDMYSVCKEK
+--LSLSDYKLDTVAKRILGTKKEDYKEIPHLFRAEERKRLGMYCIQDSVLVDLLNHFVTHVEIS-EIAKI
+ANIP-----------------------*
+>P1;gi|18025531|gb|AAK95475.1| BALF5 [cercopithicine herpesvirus 15] [ score 88 E 3e-16 ] [ range 295 .. 524 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------FDIECLG-EGFPTATNEADLILQISCVL
+WSTGE-----------------EAGRYRRILLTLG---TCEDIEGVEVYEFPSELDMLYAFFQLIRDLSV
+EIVTGYNVANFDWPYVLDRARHIYGINEVRRPHDAGKGFLR-------ANTKVRITGLIPIDMYAVCRDK
+--LSLSDYKLDTVARHLLGAKKEDYKEIPRLFAERGRRRLGMYCVQDSALVDLLNHFVIHVEVA-EIAKI
+AHIP-----------------------*
+>P1;gi|6015023|sp|O71121|DPOL_RHCM6 DNA polymerase >gi|2944240|gb|AA... [ score 87 E 5e-16 ] [ range 279 .. 525 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------DTSWPVYRCLSFDIECMSAS-GGFP----AAEQTDDIVIQ-
+--------ISCVCYNTGGTGCEENTVFGTSGLHLFTIGSCAPLAGVDVYEFPSEYEMLLGFLIFFQRYSP
+CFVTGYNINSFDFKYILTRLEFVYKLSPGPMYSPL-KKFVTT------TTTKVFISGTVVIDMYPVC--M
+AKTSSPNYKLNTMAELYLKQQKEDMS------YKDIPVKFISYCVQDAVLVKDLFNTINFHYEAGAIARL
+ARIP-----------------------*
+>P1;gi|4809121|gb|AAD30095.1| DNA polymerase [human herpesvirus 5] [ score 87 E 5e-16 ] [ range 287 .. 569 ]
+sequence
+----------------------------------------------------------------------
+---------------------------PDDSSWPRYRCLSFDIECMSGE-GGFPCAEKSDDIVIQISCYE
+TGGNTAVDQGIPNGNDGRGCTSEGAIFGHSGLHLFTIGTCGQVGDVDVYEFPSEYELLLGFMLFFQRYAP
+AFVTGYNINSFDLKYILTRLEYLYKVDSQRRFSPVGFKRQST------AATKVYIAGSVVIDMYPVC--M
+AKTNSPNYKLNTMAELYLRQRKDDLS------YKDIPRCFVRYCLQDAVLVRDLFNTINFHYEAGAIARL
+AKIP-----------------------*
+>P1;gi|9629844|ref|NP_045328.1| DNA polymerase [Bovine herpesvirus 1... [ score 87 E 6e-16 ] [ range 386 .. 611 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------KLLCFDIECSCAG-DGFPAAANAEDQISCLTYSL
+RTQRHEHTLLFSLGSC------DLPPAFLGACAAAGLPAPAVLE------FDSEFELLLAFMTFLKQYSP
+EFVTGYNIVNFDWAYISEKLTAVYDVRLLNRFRVFDAGQNRF------QKQKVKINGVVSLDM---YRTA
+VEKKLPSYKLNAVAEEALRERKVDLD------YKDIPRHFAEYCIQDSALVGKL----------------
+---------------------------*
+>P1;gi|37651331|ref|NP_932670.1| DNA polymerase [Choristoneura fumif... [ score 87 E 7e-16 ] [ range 161 .. 411 ]
+sequence
+----------------------------------------------------------------------
+------------------------DTHPTFEKFDADFEIVATLNTNIA-------PVMACYDIETHSHNS
+SKPDVDVIMCIGLSIYKD-DHFDKVCFVYHKEPLEIPHTN---DDTHVVVFRNETDMILSFFDFLKFVNP
+DVILDYNGDVFDLPYI--RARLNGNKPTLRRYSNTKLFITKI------GNKTDTYY-FNYYIHIDLYKYF
+DANNRENFQLNTLSKYYLGDAKVDLDTMVRMYNNKQLGTIIEYNVQDCLLPIKLFLKLKLNDFMYSQC--
+---------------------------*
+>P1;gi|9630872|ref|NP_047469.1| DNA Polymerase=AcMNPV orf65 [Bombyx ... [ score 87 E 7e-16 ] [ range 196 .. 414 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------DIETHS-DGHNMSKASVDCIMSIGFVV
+YKNDEY------------------ARFCFMYHKLPTEIPETHDDDTHVVMFQNEVDMITAFFDMIKITNP
+DVILDFNGDVFDLPYILGRTKMLLKRYDLPAAAPTTKLFINK------LGNKVDTYYFNYYIHIDLYKFF
+SSHKVENFQLNTISSYYLGENKIDLPWTVKMYNTRRLDVIAKYNVQDCMLPIKLFVKLKMADSVYSQC--
+---------------------------*
+>P1;gi|18653816|ref|NP_570750.1| DNA polymerase [Macaca mulatta rhad... [ score 87 E 8e-16 ] [ range 295 .. 533 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RIVAFDIECTG-EGFPCATRDGDAVIQISCVF
+YTTRE-----------GAPNPPNILFSV---------GTCDPIPDTDVLEFPSEYDMLVSFFAMIRDFEV
+DFLTGYNISNFDLPYLITRASQVYNLR-LNEYTKIKTGSIFE------VHEKIKIAGIVPIDMYQVCREK
+--LSLSDYKLDTVARQCLGGKKE--DVSYKDFRSGGRAKVGSYCVMDSVLVMDLL-KMFMIHVEISIAKL
+AKIQARRVL------------------*
+>P1;gi|42555998|gb|AAS19689.1| DNA polymerase [Anticarsia gemmatalis... [ score 86 E 9e-16 ] [ range 161 .. 411 ]
+sequence
+----------------------------------------------------------------------
+------------------------DTHPTFEKFDADFEIVDPATLSTNI-A----PVMACYDIE--THSD
+GHNSSKPDVDVIMCIGLSIYKDDHFDKICFVYHKELLEIPHTNDDTHVVVFRNETDMILSFLDFLKFVNP
+DVILDYNGDVFDLPYI--RARLNGNKPTLRRYSNTKLFITKI------GNKTDTYY-FNYYIHIDLYKYF
+DANNRENFQLNTLSKYYLGDAKVDLDTMVRMYNNKQLGTIIEYNVQDCLLPIKLFLKLKLNDFMYSQC--
+---------------------------*
+>P1;gi|14325054|dbj|BAB59979.1| DNA polymerase [Thermoplasma volcanium] [ score 86 E 1e-15 ] [ range 109 .. 369 ]
+sequence
+----------------------------------------------------------------------
+-----------------FHHRFIYD-------FDGACVRITGEDISGTE-GNFTDLVLKIDKIENIPDFN
+-VNLKVLSFDVEN----EINRENVEDYGKILVIGYSIMFGDIQKKGEIH--GDEKEILYRFIDLIRAEDP
+DVITGYNIDGYDMLVIQRRMEQYGIHLNLGRD---GSVPRRI------MDQFWRVHGRLISDTWWNVKKI
+LHPKHES--LDYIAMKLLGEGKDSIDRNIEAEWQKRQDEVISYCIKDADLTLRIFEKLRVLERLMFMSTV
+TKLPLDDVAGTSNYVDSIL--------*
+>P1;gi|9633109|ref|NP_050219.1| DNA polymerase [Human herpesvirus 6B... [ score 86 E 1e-15 ] [ range 281 .. 504 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------FDIECLGQN-GNFPDAENLGD---------
+------IVIQISVVSFDTEGDRD-------ERHLFTLGTCEQIDGVHIYEFASEFELLLGFFIFLRIESP
+EFITGYNINNFDLKYLCIRMDKIY-HYEIGCFSKLKNPHEQY------KKGFLQAQGVLYLDMYPVYSSK
+ITAQ--NYKLDTIAKICLQQEKEQLS------YKEIPKKFISYCLQDSVLVVRL---FKQINYHYEVAEV
+AR-------------------------*
+>P1;gi|9631753|ref|NP_048532.1| PBVC-1 DNA polymerase [Paramecium bu... [ score 86 E 1e-15 ] [ range 148 .. 428 ]
+sequence
+----------------------------------------------------------------------
+----------------------VSKAYPAQ-----TRISNSDIEVETSF-QHLGPVEDKTVPPLVIASWD
+-----IETYSKDRKFPLAENPTDYCIQIATTFQKYGEPEPYRRVVVCYISCLEESDVMNTWMKILQDEKT
+DVSIGYNTWQYDLRYVHGRTQMCVDDEDKVKLSNLGRSSNAF------GQNKFDMPGVMQIDLLQWFRKN
+R--NLESYSLNNVSKLYLGDQKNDLPAMFEKFNAEDRAIIAAYAAKDTDLPLKLLKKMAILEDLTEMANA
+VKVPVDYI-------------------*
+>P1;gi|13242420|ref|NP_077443.1| DNA polymerase [Cercopithecine herp... [ score 86 E 1e-15 ] [ range 308 .. 562 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------KQITLNDVEIDCTP-DNWPNYKLMCFDIECMAFPE
+ASNNEDVIIQISCLLYS--INTCKLEHILLFSLGSCNLSRDYLDTVAVDKFDSEFELLLAFFTFVKQYSP
+EFATGYNIVNFDWAFIYNKLTCVYDLKSLNRFKVWDVGKGGF------HRSKVKINGLISLDMYTIV--M
+DKLKLSNYKLDTVAHEVLKESKKDLSKDIPKYYSNGPNTIGEYCIQDSLLVGKL----------------
+---------------------------*
+>P1;gi|9629756|ref|NP_045247.1| 30 [Equine herpesvirus 4] >gi|112615... [ score 86 E 1e-15 ] [ range 336 .. 584 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------DVEINCTS-DNLPLPEEASWPLLCFDIET
+NQEDLVIQISCLLYSLATQKHEHTLLFSLGSCDISEEYASGCVQRPTVLEFDSEYELLIAFLTFLKQYSP
+EFATGYNIVNFDWAYIVNKLTSVYNLDGYGKFNKGGLFKVFQ------KKSKVKINGVISLDMYSV--AT
+EKLKLPSYKLDAVVEDVLGEHKIDLPKDIPSYYASGPNQIGEYCIQDSRLVGKL----------------
+---------------------------*
+>P1;gi|44628465|gb|EAK59228.1| unknown [environmental sequence] [ score 458 E 1e-127 ] [ range 3 .. 349 ]
+sequence
+---FYTNITQWGNNLLLREV-VNGERINRKVKYSPTLF--APVLKKTPYKTLEGKYVAPVKHDTIKDAKE
+WIEGYKQQPHLIYGNTLFPYSYIADEYSSNVDWDIDEILIVTIDIEVECENGFPKPEEANDPLLSITLKN
+HQNKKIVVWGIGDFENSR-------------------------EDVSYIKCESEKHLIQSFLTFWEEHKP
+DVITGWNTEFFDIPYVCNRIINQFDEKELKRLSPWGNVTSRSVYQMGRSHQVYDIMGVAHLDFFDLYRKF
+TYTNQESYRLDHIAFVELGERK--DGNPYETFYTKDYQSFIEYNITDVELVDKLEDKMKLIDLCLTMAYD
+AKVNYVDVLGTTKYWDILIYNHLRKKN*
+>P1;gi|33620616|ref|NP_891597.1| DNA polymerase [Enterobacteria phag... [ score 436 E 1e-121 ] [ range 2 .. 362 ]
+sequence
+---YFLSCERVGDKIYERYIDDAGQEQERYVEYTPTLFHHAAPGMVTNYKDIYGKPCIAKKFPSMNEANK
+WRKKMGEMGQEALGMDDFIISYLSDTYKGEIRYDRNKIRVAWVDIEVTAPE-FPKPEEAKYPIDAITHYD
+SVHDRFFVFDLKG---KNGEIW---------ESSKSILRPDIVERVVYNVYDTEDELLLEYIRFFEENRP
+VGFTGWNTETFDIPYIIKRISNKFGSRTANRLSPCGKIKSRISQDDFGEREAFTIMGIESLDYIDLYKKF
+SFTTQPTYALDYVAEYETGIGKVDYDGPLKKLRDDNHQLYIDYNIGDVDRVLAIDKKRGFIDLVYSLCFY
+AKIKFNHVYNPMKVWDAIIFGSLKAE-*
+>P1;gi|31978935|gb|AAP68686.1| core DNA polymerase of replisome [Aer... [ score 429 E 1e-119 ] [ range 2 .. 363 ]
+sequence
+--QHYTNIEVIGNTVFERYV-KDGVRLSRKTNYQPTLFHHAAPGVETKHKDIYGRFCVPKKHENIWEAKQ
+WQKRMAEIGQDAMGMDDYCISYISDNYRGVIDFDRDNVIIDVVDIEVTAPE-FPDPKFAKYEIDMISHVR
+LHEGKYYIFDLV----KDVGHW---------DPSKSVLDKYILDNVVYMPFDTEIDLLLNYIQLWKSSTP
+DLVFGWNSEGFDIPYIITRIINILGESAANQLSPYGKISSKTITNMYGEKTIYRIHGVALMDYMDVFKKF
+SFTVMPDYKLGNVGYREVKADKLEYDGPINKFRAADHQRYVDYCVRDTDIILLIDGRRCFIDLILSLCYY
+AKIRFEDVLGTIKVWDSIIFNSLVEKN*
+>P1;gi|34419317|ref|NP_899330.1| DNA polymerase [Bacteriophage KVP40... [ score 424 E 1e-117 ] [ range 4 .. 358 ]
+sequence
+----YTSIERIGSNLCERYIDDDGFEHMRKVKYEPTLFIHC--NEETGYKDIYGRNCRPKMFDTMGEASK
+YIKETKQFN-EVLGMDDFIVTYISDVYK-QREFDMSRIRIANIDIETPSVE-FPEAAHAPVPITSIGHYD
+NIDDKFYVYGIPSNT-----EWKRES---------SIVKPELLEKTVYIRCATEKELLVKYLQFWREKTP
+AIVTGWNIESFDMPYIVNRYKNLFGEKVMNSLSPWGKVQVSTTVNDYGQEIKVNILGVSELDYLQLYKKF
+TYVTRPSYRLDYIGEVELDEKKVEFEANYLEFYEQDYQNFIDYQIQDVNLVKRLDEKLQLMLLTISLAYY
+AGINYQTVLGTIKPWDAIIFNSLKAE-*
+>P1;gi|37651517|ref|NP_932391.1| DNA polymerase, N-terminal fragment... [ score 409 E 1e-113 ] [ range 3 .. 363 ]
+sequence
+---HYTNIEIIGNNIMERFVD-NGKRQTRKVAYQPTLFQHAAPGVQTKHKDIYGRFCVPKKHENIWEAKQ
+WIKRMEEVGMDAMGMDDYGISYISDTYRGVIDFDRDDVVIDVVDIEVTAPE-FPEPKYAKYEIDMISHVR
+LHNGKYYIFDLV----KDVGHW---------DPKKSVLEKYILDNVVYMPFEDEVDLLLNYIQLWKANTP
+DLVFGWNSEGFDIPYIITRITNILGEKAANQLSPYGKITSKTITNLYGEKIIYKIHGIALMDYMDVFKKF
+SFTPMPDYKLGNVGYREVKADKLDYEGPINKFRKADHQRYVDYCVRDTDIILLIDGRRCFIDLILSLSYY
+AKIRFDDVLGTIKVWDSIIFNSLVESN*
+>P1;gi|40795451|gb|AAR90916.1| gp43A core DNA polymerase of replisom... [ score 406 E 1e-112 ] [ range 3 .. 360 ]
+sequence
+---FYTNVWMDGNTIYDRYFDENGSDKIRKVRYSPTLYRHVGNHIETKFKDIYDRKCLPKTLDSIGEARK
+WFKEMQSMDKEVLGMDNYTFQYISDTYGANAQYDYSMLDIMFFDIEVPTDGPFPDTTNCAYEIDTIQIYS
+TKMNKYFIW--------TTREW---------DPNKSILDKEVLDHVEYHKNGSEKEILIRFLQFFTENTP
+HYVSGWNSEGFDIPYIARRIKKILGDKFLSKLSPFGTV-NEIITKDDNDDEVYDITGVNCIDFMAAYKKF
+TFTTRPNYKLDTIAEAELGINKVEMTRTYLDFATKDPQTYIDYSIRDVEIIKNLEIRLSLIYLIASVSYY
+AGVNAADVFSPLKTWDAIIYNSLLAQ-*
+>P1;gi|38639940|ref|NP_943895.1| DNA polymerase [Bacteriophage Aeh1]... [ score 402 E 1e-111 ] [ range 2 .. 365 ]
+sequence
+---FYTNVCIQGNTVLERYVDDNGISRSRKVNFGPTLYKHSNNGE---LKDIYGKSATAVDFDSIGDARR
+WMKDMRDINREPLGMDDFVLQYLYHTYSGPVSFKYEQIDIAFVDIEVPTDGPFPEPHICDWEIDGICHYS
+TKRKRYSLF--------TTRPWDKAKSILDKDDKGNAV--DILDRVDYVFCESERELLIRYLKFFRDNTP
+DVFSGWNSEMFDLRYIVNRYRKVLGDVYANKLSPWEQIIERTVYKDDDEGDTYELLGIACLDYMAAYKKF
+TFKTRPTYKLDYIGQIELGMKKLETEKTYLAFSQKNPQKYIDYLIRDVDLLVKLDARLSLMALITSVSYY
+AKINYNNTFSPLKTWDAIIHNSL----*
+>P1;gi|44327344|gb|EAI48768.1| unknown [environmental sequence] [ score 399 E 1e-110 ] [ range 1 .. 302 ]
+sequence
+---------------------------------------------------LEGKYVAPVKHDTIKDAKE
+WIEGYKEQPHLIYGNTLFPYSYIADEYPNSVDWDIDQILIVTIDIEVECENGFPKPEEAKDPLLSITLKN
+HQNKRIVVWGIGDFENSR-------------------------DDVSYIKCETEKHLLQSFLTFWEQHKP
+DVITGWNTEFFDIPYLCNRILNQFEETELKRLSPWGNVSSRSVYKMGRTHQVYDIMGVAHLDFFDLYRKF
+TYTNQESYRLDHIAFVELGERK--DGNPYETFYTKDYQSFIEYNITDVELVDKLEDKMKLIDLCLTMAYD
+GKVNYGDVLGTTKYWDILIYNHLRKKN*
+>P1;gi|44536838|gb|EAJ94383.1| unknown [environmental sequence] [ score 381 E 1e-104 ] [ range 3 .. 303 ]
+sequence
+---FYTNITQWGNNLLLREV-VNGERINHKVKYSPTLYASV--LKETPYKTLEGKYVAPVKHDTIKDAKE
+WVEKYKEQPHLIYGNTLFPYSYIADEYSNNVDWDIDQILIVTIDIEVECENGFPKPEEANDPLLSITLKN
+HQNKKIVVWGIGDFENSR-------------------------DDVSYIKCESEKHLIQDFLTFWEQHKP
+DVITGWNTEFFDIPYICNRILNQFDEKELKRLSPWSNVSARSVYKMGRSHQVYDIMGVANLDFLDLYRKF
+TYTNQESYRLDHIAFVELGERK--EGNPYETFYIKDYQSFIEYNITDVELV-------------------
+---------------------------*
+>P1;gi|44279978|gb|EAI16560.1| unknown [environmental sequence] [ score 348 E 1e-94 ] [ range 1 .. 287 ]
+sequence
+---------------------------------------------------------------------D
+FYKKYDEVGFEIYRNDRYIYQYISKNYPDEIKFDTKQIKLVTIDIEVASEEGFPDVESCSEEILAITIQN
+YATK-------------DIVTWGQKKFINSQE------------NVTYHHCPSEHELLNSFINEWMIDVP
+DVVTGWNIQLYDIPYICKRLERVLGEKLMKRFSPWGLVSEGETYIQGRKHTTFDVGGIAQLDYLDLYKKF
+TYKAQESYRLDYIAEVELGQKKLDHSDTFKDFYTNGWQKFIEYNIVDVELVDRLEDKMKLIELALTMAYD
+AKVNYIDVFYQVRMWDNIIYNYLKKND*
+>P1;gi|43226240|gb|EAC78692.1| unknown [environmental sequence] [ score 347 E 2e-94 ] [ range 1 .. 289 ]
+sequence
+-----------------------------------------KSKGKARYKTLSGEPVEPINPGTVRDCRD
+FYKKYEDVGFEIYGNDRYIYQYISEKYPNEVKFDISQIKLVTLDIEVASEHGFPDVESCAEEILAISIQD
+YTTKQIVTWG--SKPFRNDRK-----------------------DVTYHHCPTEHQLLSSFINYWMEDVP
+DVITGWNIQLYDIPYIARRINRVLGEKLMKRLSPWGLVSEGETYIKGRRHITFDVGGVTQLDYLDLYKKF
+TYKAQESYRLDYIAQVELGQKKLDHSDTFKDFYTKGWQKYIEYNIIDVELVDRLEGKMKLIELALTMAYE
+A--------------------------*
+>P1;gi|43258139|gb|EAC94729.1| unknown [environmental sequence] [ score 333 E 4e-90 ] [ range 1 .. 268 ]
+sequence
+----------------------------------------------------------------------
+-----------------YIYQYISEKYPNEIKFDISQIKLVTLDIEVASEQGFPDVESCSEEILAISIQD
+YTTKQIITWG--SKPFVNKQK-----------------------NVIYHHCSTEHSLLSSFINYWMEDVP
+DVITGWNIQLYDIPYIARRINRVLGEKLMKRLSPWGLVSEGETYIKGRRHITFDVGGVTQLDYLDLYKKF
+TYKAQESYRLDYIASVELGQKKLDHSDTFKDFYTKGWQKFIEYNIVDVELVDRLEGKMKLIELALTMAYE
+AKVNYIDVFYQVRMWDNIIYNYLKKRN*
+>P1;gi|44414576|gb|EAJ10361.1| unknown [environmental sequence] [ score 329 E 7e-89 ] [ range 1 .. 249 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------MDQILIVTIDIEVQCENGFPAVKEAAEEMLSITIKN
+HQSKRIVVFGIGEFQNDR-------------------------DDVTYIQCQDEVHLLKEFLVFWEKHHP
+DIVTGWNTEFFDIPYLCNRIKKLFGEDELKRLSPWGGVQDREVYQMGRQQQVYNIQGVAALDYFDLYRKF
+TYTNQESYRLDHIAFVELGERK--DGNPYDTFYTKDYQSFIEYNITDVELVDKLEDKLKLIELCLTMAYD
+AKVNYTDVLGTVRYWDILIYNYLKEKN*
+>P1;gi|42917771|gb|EAB25966.1| unknown [environmental sequence] [ score 316 E 5e-85 ] [ range 2 .. 242 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------DIEVASEQGFPDVESCTEEILAITIQD
+YTTKQIITWGVKPFDNKQ-------------------------SNVTYHTCHTEEKLLRSFIDYWMQDVP
+DVITGWNIQLYDIPYICKRLERVFGEKLMKRFSPWGLVSEGEVHIMGRKHTTFDVGGVTQLDYLDLYKKF
+TYKAQESYRLDYIAKVELGQQKLDHSDTFKEFYSKGWQKFIEYNIIDVELVDRLEDKMKLIELALTMAYD
+AKVNYNDVFYQVRMWDTIIYNYLKKRN*
+>P1;gi|43382482|gb|EAD56126.1| unknown [environmental sequence] [ score 314 E 2e-84 ] [ range 1 .. 258 ]
+sequence
+----------------------------------------------------------------------
+----------------------------EEIKFDTSKIKIATIDIEVASENGFPDVESAAEEVLLITIQD
+YSTKQIRTWGRGQFLNKQ-------------------------ENVIYKGFRTEYELLTDFINWWEGNTP
+EVITGWNSELYDIPYLVRRIDRILGEKLMKRLSPWGLVTEREIYIVGRKNIAYDIGGVTQLDYLNLYKKF
+TYKAQESYRLDYIASIELGQKKLDHSDTFKDFYTNGWQKFVEYNIIDVELVDRLEDKMKLIELAITMAYD
+AKANYADVFSQVRMWDTIIYNYLKKRN*
+>P1;gi|44262650|gb|EAI04771.1| unknown [environmental sequence] [ score 307 E 3e-82 ] [ range 2 .. 241 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------DIEVECENGFPSVKEAAESMLSITMKN
+HQNKQTLVWGL--HEFQNYR-----------------------DDVTYVQCKDEADLLIKFSDEWARCLP
+DIVTGWNTEFFDIPYLCNRMKKLFGEDFLKKLSPWGKVIERELYKMGRQHQTYNIQGVAHLDYFDLYRKF
+TYSAQESYRLDHIAKVELGEQK--DGNPFDTFYTKDYQSFIEYNIQDVELVDKLEDKMRLIELCLTMAYE
+AKVNYTDVLGTVRYWDILIYNHLRAKN*
+>P1;gi|43842893|gb|EAF75720.1| unknown [environmental sequence] [ score 288 E 2e-76 ] [ range 1 .. 244 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------IDIECESENGFPDVDRAEEPIICITVKD
+HARKSILVFGCGNFVNDR-------------------------DDVRYIRCSTERDLVQKFTEFWTSYNP
+DIVTGWNVKFFDIPYLMNRFRYLMGDDYLNQFSPWGIVTSNSAKGFNKEQKYYDLLGVSVLDYLDLYRKH
+TFVRQESYKLDYIGEVELGEKKTENPDTFKEFYQNDYQLFVEYNIQDVELVDKLEDKMQLIALHLTMAYE
+GKVNYQDVFGQVRMWDTIIFNYLKEK-*
+>P1;gi|43660448|gb|EAE85169.1| unknown [environmental sequence] [ score 282 E 1e-74 ] [ range 2 .. 267 ]
+sequence
+--DFYTNVCRSRDKILV--IGYKGKTKQKAVNYRPNHYILSKKS-ESPYKSLDGRNLEVVNLNSMGGARK
+FREKYSGVGFEVHGYDRYVYTYLADKFQGDIKFDTSLIKTATLDIECECEDGFPEPILAAEKINAISI--
+-------------KPFGK------------ECQVFGIGPWEHNQNLVYHNCKNETDLLQKFIKYWRTEWF
+DIITGWNVNSFDITYLCNRIDKILGEDEHKKLSPWGQSHTREYTSMYQKNQIFELSGVNIIDYLELYRKN
+TFHNQESYKLDYIAQ-------------------------------------------------------
+---------------------------*
+>P1;gi|44421107|gb|EAJ15141.1| unknown [environmental sequence] [ score 277 E 3e-73 ] [ range 38 .. 329 ]
+sequence
+---------------------------------------------KGTHTSLYGDKLRKLPISRIDET--
+------DTPFESDVAPEIRFLVDKYTDSDEVSEGH---RVMFFDIEVEVTQGFPDVNKAENTITSIAFYD
+ALTRQYYCYVL---------------------DVENKVSANQFGETTVIKFKDERDLLKAFYTKYLEISP
+TIISGWNSDRFDVPYLYNRTIRLLGQEAANCLSPIGIV------EFQKHRGTYKIAGVSSLDYLELYKKL
+TFGERSSYRLDDVGELEVGLKKVAYDGTLNDLYDGDRNKFVEYNINDVIILEKLDAKLDFIGIARAICHL
+GHVPYEDVYYSSRFLEGAILVYLKK--*
+>P1;gi|43685351|gb|EAE97838.1| unknown [environmental sequence] [ score 273 E 5e-72 ] [ range 5 .. 236 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------DVESAAEEILLITIQD
+YATKQIRTWGRGQFNNKQK-------------------------NVIYKGFNTEYELLTSFINWWEDNTP
+EVITGWNSKLYDIPYIVRRIDRILGEKLKKRMSPWGLVTEEETYIAGRRHISYDIGGVSQLDYLDLYKKF
+TYKAQESYRLDYIASVELGQKKLDHSDTFKDFYTKGWQKFVEYNIIDVELVDRLEDKMKLIELALTMAYD
+AKVNYEDVFYQVRMWDTIIYNYLKKRN*
+>P1;gi|43871025|gb|EAF89519.1| unknown [environmental sequence] [ score 271 E 2e-71 ] [ range 16 .. 248 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RELIIDIEVEVKGGFPDPSRADNKITAIAIYD
+KVADKYSCFILGDVPNTDVVE----------------------------SFKSEEELLQRFYQKYLEINP
+SIITGWNVDGFDIPYLYNRTERVMGKQIANALSPIGEVFYSE------HKKKYKIAGVSVLDYLALYKLY
+NYTQKSSYRLDVIGTDEVGIGKIEYEGTLQDLYETDINKYVEYNLNDVVIVKELDDKLKFIDLARSIAHV
+GHVPYEDVFFSSRYLEGAILVYMKK--*
+>P1;gi|44519584|gb|EAJ82673.1| unknown [environmental sequence] [ score 270 E 4e-71 ] [ range 43 .. 326 ]
+sequence
+------------------------------------------------HTSLYGDKLKKINFWTHEDL--
+----QSGKIFESDVPIETRVLVDRYTDDDNVSQGH---REMYFDIEVEVTDGFPEPSTAENKITAIALYD
+KIADKYSCFVLGNVPNTDVVE----------------------------SFQSEEELLQRFYQKYLEINP
+TILSGWNIDGFDIPYLYNRTSRVLGSQFANSLSPIGETYYSE------NKKRFVIAGVSCLDYLRLYKLF
+TYTQQPSYRLDFIGQKEVGIGKIEYEGTLQDLYENDINKYIDYNLNDVVIVKELDDKLKFIDLARGVSHL
+GHIGYENIFYSSRYLEGAILVYMRK--*
+>P1;gi|43048014|gb|EAB90452.1| unknown [environmental sequence] [ score 257 E 3e-67 ] [ range 13 .. 207 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------------NVTYILCNDEVHLLTSFLAYWRKNLP
+EVITGWNSQMYDIPYLAGRINRVLGEKSMKDLSPWGLVSQDEVYISGRKNITYDIGGVTQLDYLDLYKRF
+TYTNQESYRLDYIANYELGEKKLDHDDTFREFYTKDWDKFVRYNIIDVQLVDKLEDKLKLIELAITMAFD
+AKVNFIDIHYQVRMWDTIIYNYLKKQN*
+>P1;gi|43434606|gb|EAD73354.1| unknown [environmental sequence] [ score 255 E 2e-66 ] [ range 1 .. 234 ]
+sequence
+----------------------------------------------------------------------
+-------------------------NYPEDIEWSKDHIKIFTLDIECTAENGFPDVQNPIEELLAITVKN
+QSNKQIITWGTGDY-------------------------KTDRSDITYIKCRNEKSLIMEFMKFWMKNYP
+DVITGWNTKFFDLPYLCNRIKLLTDEKVVRRLSPWNLVGTEEITVRGRSQLYYDLYGIAMLDYLDLYKKF
+IPVRQESYKLDHIGKVELGLAK--DSNPYDTFYTKDFQSFVDYNIKDVEIVDQLEDKLKLIKLILNMSYE
+AKI------------------------*
+>P1;gi|43743748|gb|EAF26313.1| unknown [environmental sequence] [ score 250 E 5e-65 ] [ range 13 .. 224 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------REVYFDIECEVTDGFPDPNRAENKITAIALYD
+KTVDKYSCYVLGDVPNTDVVE----------------------------SFKSEEELLQRFYQKYLEINP
+TILSGWNIDGFDIPYLYNRTRRVMGDSFANSLSPIGEVYYSE------HKQRYKIAGVSCLDYLKLYRLF
+TYTQQSSYRLDYIGQLEVGLGKIEFDGTLQDLYETDINKYIEYNLNDVIIVKKLDDKLKFIDLARGICHV
+GRVP-----------------------*
+>P1;gi|43948017|gb|EAG29737.1| unknown [environmental sequence] [ score 250 E 6e-65 ] [ range 1 .. 175 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------------------FWEKYYP
+DIVTGWNSEFFDIPYVCNRVKKLFGEDELKRLSPWGGVKEREVYQMGRNHQVYEIQGIAALDYFDLYRKF
+TYTAQESYRLDYIAKVELGEQK--SGNPYETFREKDYQSFIEYNINDVELVDKLEDKMKLIELCLTMAYE
+AKVNYTDVLGTVRYWDILIYNYLREKN*
+>P1;gi|43737471|gb|EAF23367.1| unknown [environmental sequence] [ score 248 E 1e-64 ] [ range 1 .. 203 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------MVTIDIEVECENGFPKPEDAAEPLLSITVKN
+HQTKRIVVWGIGEF-------------------------NTDREDVTYVQCESEVHLLKEFISFWETHTP
+DIITGWNTEFFDIPYLCNRIKNVFDEEEVKRLSPWKNVFDRQVYQMGRQHQVYTLDGIAALDYFDLYRKF
+TYVNQERYTLDHIAKVELGEQK--DGNPYDTFYTKDYQSFIEYNINDVELVDKLED--------------
+---------------------------*
+>P1;gi|43379481|gb|EAD54642.1| unknown [environmental sequence] [ score 248 E 2e-64 ] [ range 1 .. 206 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------MVTIDIETECENGFPNVEDAIEKLISITIKN
+HQSKEIVVWGVGHFRTNRK-------------------------DVVYVKCDNEQHLIKQFLMFWERNQP
+DIITGWNTEFFDIPYLCNRIIKICGEDEVKRLSPWRSVSSRFVHKMGRQHQVYDIQGVANLDYFDLYRKF
+TYTAQESYRLDHIAYVELGERK--DGNPYETFYTNDYQSFIEYNITDVELVDKLEDKMK-----------
+---------------------------*
+>P1;gi|42980358|gb|EAB57104.1| unknown [environmental sequence] [ score 245 E 1e-63 ] [ range 2 .. 196 ]
+sequence
+---------------LVREY-VNGERINRKIKYSPTLF--CKVIKETKHKTLDGQYVTPVKHNTIKEAKE
+WLKSYEDQPHLIFGNTTFQYNYIADEYPSFVKWDVDKILIVTIDIEVACENGFPNPEDAIEPLLSITIKN
+HQNKQILVWG--TGEYKNTRE-----------------------DVTYVKCKNEKELIQEFLSFWQKNQP
+DIITGWNTEFFDIPYVCNRIKNLYDETE------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43232029|gb|EAC81597.1| unknown [environmental sequence] [ score 244 E 3e-63 ] [ range 1 .. 203 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------MITIDIEVQCENGFPDPRKAIEPLLSITIKN
+HQNKRIMVWGIGEFVNRR-------------------------DDVAYIKCKNEEDLIHEFLTFWEKTQP
+DVITGWNTEFFDIPYLYNRIMK-FSEKDVKRLSPWGNVYSRDVYTMGRTHQLIDISGVAHLDYFDLYRKF
+TYTSQESYRLDHIAFVELGEKKESNPETFKDWYTKDYQSFIEYNITDVELVDRLEDK-------------
+---------------------------*
+>P1;gi|42896733|gb|EAB15548.1| unknown [environmental sequence] [ score 243 E 5e-63 ] [ range 3 .. 230 ]
+sequence
+---YYTNIKRYKDFILARGV-KNGEKYIKRLKYEPTLYI--PTNKPTAYKSIAGEYLQSKKFKSPSDARH
+WKKQYDNTGIDIHGLEQWEYTYIAETYPSDIDFDIKKINILNIDIECECENGFPEPTDAEERVNAITMKL
+FGHKETHVIGIDNFEYKNEDP-----------------------NVIYHKTRHEKELLLTFMKIWDELEP
+DIITGWNVETFDIAYLVNRIWKLFDWDTVRKLSPHELITSREWLYMG-----------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43841624|gb|EAF75064.1| unknown [environmental sequence] [ score 242 E 1e-62 ] [ range 19 .. 266 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------EFQQFPLKIWFFDIETYSPDEFPKPEEASHMINVITIYD
+TVQERYHTWGINPYE-------------------------PEADDVTYYHCKSEGELLQRFLDHYCNDRP
+DILSGWNSEIFDIPYVINRVRNILGEDATRLFSPHDEIMKPIYQNFGQQTAKYVVEGVSMLDYLDVYKTF
+SMGMRDSYKLDNIAHIELGENKVDIGDSLAELSINDWKKFVDYNIHDVRLLVRLDEKLMYMDLARMLSYI
+GLTPFNAALGTISTVNG----------*
+>P1;gi|43130823|gb|EAC31253.1| unknown [environmental sequence] [ score 239 E 9e-62 ] [ range 1 .. 172 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------EHNP
+DVITGWNTEFFDIPYICNRILNQFDEKELKRLSPWGNVSARSVYQMGRAHQLYDIMGVAHLDFFDLYRKF
+TYTNQESYRLDHIAFVELGERK--DGNPYETFYIKDYQSFIEYNITDVELVDKLEDKMKLIDLCLTMAYD
+AKVNYVDVLGTTKYWDILIYNHLRKKN*
+>P1;gi|42827019|gb|EAA80844.1| unknown [environmental sequence] [ score 237 E 4e-61 ] [ range 12 .. 205 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------KKRLTLESKDNIIIEKFNTEYELLQKFIVEYLKWKP
+TIITGWNIDTFDMPYLYNRICKVAGKNVADMISPIQTVQWN------KHRKRFMFAGVSCLDYYALYRLF
+TYTQLSSYRLDAVAEHELGENKIEYSGTLNDLYENDIDKFVEYNIHDVRLVKRLHDKLDFIDMARGVCHV
+GHVPYEDVYFSSRYLEGAILVYLK---*
+>P1;gi|43800012|gb|EAF54598.1| unknown [environmental sequence] [ score 236 E 5e-61 ] [ range 3 .. 223 ]
+sequence
+---FYTNVQMVGDNFLVRGYED-GKHFVTREKFYPTLFVD--SKVKTKYKTLNEEYVEPISPGTVRECRE
+FVKKYSEVNFNIYGNERYIYQYISDKYPEEVKFDIEKINLVTIDIEVKSENGFPDVESAAEEILLISIQD
+YTTKQIRTWGLGEFNNKQK-------------------------NVIYKSFNTEYELLNSFINWWEGNTP
+EVITGWNSKLYDIPYIVRRIDRVLGEKLKKRMSPWGLV--------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43466365|gb|EAD87921.1| unknown [environmental sequence] [ score 236 E 6e-61 ] [ range 3 .. 191 ]
+sequence
+---FYTNVLQYGNSLLVREVDSNGQRIKKRVQYQPTLFDLITTKEKTGYITLDGQHVLPHKFDSIKEAKD
+WYESRKDQDI-VYGNTQYSYTYISDTYPNRVKWDTDKLLIATLDIEVECENGFPNPKDAVEPMLSITMKN
+HQNKKIIVWGLHEFQN-------------------------HRDDVDYRLCKDEADLLIKFSDEWSICLP
+DIVTGWNT--------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43761131|gb|EAF35020.1| unknown [environmental sequence] [ score 235 E 1e-60 ] [ range 1 .. 176 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------------------HWSKNPP
+DVITGWNVRLYDIPYLCGRISRIMGDKKCKLLSPWGLVSQDEIYISGRRYNVYDIAGMTTLDYLELYKKF
+TYKAQESYRLDYIANIELGQKKLDHFDTFKEFYTGNWKKFVDYNIIDVELVDRLEDKMKLIELALTMAYD
+AKVNYQDVMYQVRMWDTIIYNYLKKRN*
+>P1;gi|43191969|gb|EAC61507.1| unknown [environmental sequence] [ score 232 E 1e-59 ] [ range 2 .. 229 ]
+sequence
+--------------------------------------------------------VDPVKPGTIKDCRE
+FIDKYSAQNFNIYGNERYVHQYISENYPNEIKFDLNKIKLFTIDIEVAAESGFPDVFNCAEELLLITIQD
+YNTKKIITFG--SRPYTT---------------------NPNRKNYRYIDCHNEEGLILTFLDWWQKNMP
+EVITGWNCELYDIPYLVGRVDRIMGEKMTKKFSPWGIVRRNEIHIQGRLNIQYDLAGISVIDYLDLYKKS
+PATNQESFKLDHIAMMELGEKKLD----------------------------------------------
+---------------------------*
+>P1;gi|42909903|gb|EAB22052.1| unknown [environmental sequence] [ score 227 E 4e-58 ] [ range 1 .. 175 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------WVHNTP
+DIITGWNNNFYDMPYICRRIEKILGEKWMKSLSPWNVVKDRIVNVQGRANLVYDILGVTILDYLDLYKKF
+TYSAQESYSLEHISTVELGENKLDHSENFKDFYTSDWKRFVDYNIHDVELVDQLESKMKLVELAITMAYD
+AKVNIDDVFSQVKMWDTLIYNDLYLKN*
+>P1;gi|43054170|gb|EAB93476.1| unknown [environmental sequence] [ score 223 E 5e-57 ] [ range 2 .. 207 ]
+sequence
+----------------------------------------------------------------------
+------------YGNDRYHFQYIAKEYPTDIEFNKDLIKIFTLDIETTAEGGFPDVENPVEELICLTIK-
+------------NQSNKNIITWGTKPFFTDRPE------------VTYIECKNEKQMLMEFFKFWTKNYP
+DVITGWNTKFFDLPYLCNRIKHLVGDKVINKLSPWGLIEQEQITVRGKTQTTFDIKGIAMLDYLDLYKKF
+IPTRQESYKLDYIAKVELGSDG-KDNNPYDTFRE------------------------------------
+---------------------------*
+>P1;gi|43738168|gb|EAF23694.1| unknown [environmental sequence] [ score 220 E 5e-56 ] [ range 1 .. 159 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------FFDIPYLCNRIKNLYDEKEINKLSPWGNVSDREIYQMGRKHQVYDIQGVSHLDYYDLYRKF
+TYTNRESYRLDHIAHIELGESK--DDNPYETFREKDFQSFIDYNIQDVEIVDRLEDKMKLIELCLTMAYD
+AKVNYMDVLGSVKYWDILIYNELRKKN*
+>P1;gi|43602095|gb|EAE55889.1| unknown [environmental sequence] [ score 208 E 2e-52 ] [ range 1 .. 218 ]
+sequence
+----------------------------------------------------------------MKRINQ
+WDKEQPGL-FESDVTPEIRVLVDNYTDSDEPSVGH---KTMIFDIEVEVTEGFPDPKRAENKITSIAFND
+PVTNEYFCYVLDPH------------------------NKCKIDDENVVSFKDEYDLLNSFFKKYIEIQP
+TILTGWNIEFFDVTYLYNRAQQIVGREVANLLSPIGKVQWSDFSGR------YKIAGVSILDYLALYKKY
+TFSQQPSYRLDAIGEYEVGEKKVEYDGTLNDLYEND----------------------------------
+---------------------------*
+>P1;gi|43200715|gb|EAC65920.1| unknown [environmental sequence] [ score 207 E 3e-52 ] [ range 1 .. 184 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------MIIDIEVESSKGFPSPQKAENEVTAIALYD
+KVADQYTCLILGS------------------------VKPKKQDNVVIESFQTEQELLQRFYQMYLEIAP
+TIISGWNTNGFDIPYLYNRTKRTMGEQIANCLSPIGDVYYNE------HRKRYMIGGVSQLDYLALYKEF
+TFTQQSSYRLDYIGQLEVGLGKIDYEGSLQDLYENDIDKFIEYN--------------------------
+---------------------------*
+>P1;gi|43650402|gb|EAE80033.1| unknown [environmental sequence] [ score 195 E 2e-48 ] [ range 1 .. 154 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------VEFFDVPYLYNRAQQILGQQIANVLSPIQIVKWSNF------KKRYVIAGVSVLDYLSLYKRF
+TFSQKSSYRLDAIGEDEVGEKKVAYDGTLNELYENDLDKFVQYNLQDVKLVKKIDDKLDFIEIARGLAHL
+GHVPYESIYMSSHYLEGAILVYLKKKN*
+>P1;gi|15789745|ref|NP_279569.1| DNA polymerase B1; PolB1 [Halobacte... [ score 194 E 2e-48 ] [ range 203 .. 422 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------LRVNTFDIEVNDRNGFPE--DGEEPVVCLTSHD
+SYRDEYVAW-LYAAPDATVD-------APTAVPGYDPLTDDA--DIDVRVFDTEEAMHDAFLSYIEDTNP
+DVLTGWNFDDFDAPYLIDRLDEL-DPRTDHDLDSDRLSRVSVWTSGWGGPNVK---GRVVFDLLYAYQRT
+KYSELDSYRLDAVGEQELGVGKERYPGDIGDLWEDDPERLLEYNLRDVELCVEIDRKQSIVA--------
+---------------------------*
+>P1;gi|43092617|gb|EAC12468.1| unknown [environmental sequence] [ score 189 E 6e-47 ] [ range 3 .. 144 ]
+sequence
+---FYTNVLQYGNSLLVREVDSKGQRIKKRIQYEPTLFDLVTTKEKTGYVTLDGKQVLPHKFDSIKEAKG
+WYEDRKDQDI-VYGNTQYAYTYISDIYPNRVEWDKDKLLIATLDIEVECENGFPNPKDAIEPMLSITMKN
+HQNKKI----------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|42973314|gb|EAB53625.1| unknown [environmental sequence] [ score 189 E 1e-46 ] [ range 7 .. 186 ]
+sequence
+---FYTNVVEYKGKLLIRGVN-NGQSYLSRINYNPKLY--LPTRDQTKYKTLDGTYLKEKRFDSISKAKH
+FYSEYSTIPYKIFGMNRYNYQYIADEYKGEIRWNKDYIKIFTLDIETECEGGFPDPDTAKETIICITIKN
+HSNKQIITWGTGDFISKK-------------------------ANVTYVKCQNEKHMLLEFLKFWCKNHP
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|13124219|sp|Q9LRE6|DPOD_ORYSA DNA polymerase delta catalytic ... [ score 187 E 4e-46 ] [ range 297 .. 560 ]
+sequence
+----------------------------------------------------------------------
+-----------------------SDLVSHAAEGEHSKMRILSFDIECAGRKGFPEPTH--DPVIQIANLV
+TL-------------QGEGQPFVRNVMTLKSCSP--------IVGVDVMSFDTERDVLLAWRDFIREVDP
+DIIIGYNICKFDLPYLIERAE-VLKIVEFPILGRIRNSRVRVRDTTFSSRQ----YGMRESKDVAVEGRV
+QFDLLQSYSLNSVSAHFLGEQKEDHHSIISDLQNGNSERLAVYCLKDAYLPQRLLDKLMYIYNYVEMARV
+TGVPISFLLSSIKVL------------*
+>P1;gi|43454405|gb|EAD81878.1| unknown [environmental sequence] [ score 186 E 8e-46 ] [ range 1 .. 141 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------MKDLSPWGLVSQDEVYISGRRNITYDIGGVTQLDYLDLYKRF
+TYTNQESYRLDYIANYELGEKKLDHNDTFREFYTKDWDKFVRYNIRDVQLVDKLEDKLKLIELAVTMAFD
+AKVNFIDIHYQVRMWDTIIFNYLKKQN*
+>P1;gi|43728528|gb|EAF19129.1| unknown [environmental sequence] [ score 183 E 7e-45 ] [ range 35 .. 245 ]
+sequence
+------------------------------------------KNRAGTYVSLYG--------DRLKKINK
+WDKDQPEL-FESDVSPEIRVLVDNYTDSDEVSVGH---RIMIFDIEVEVTDGFPEPAKAENTITSIAFND
+PITNEYFCYVLDTKDKLNLGESRTKK-----------------DVDTIVSFYDEYDLLNAFFKKYIEIAP
+TILTGWNVEFFDVNYLYNRAVQVVGKDVANVLSPIGKVQWSEFSKR------YKIAGVSVLDYLALYKTF
+TFGQRSSY--------------------------------------------------------------
+---------------------------*
+>P1;gi|44254100|gb|EAH98896.1| unknown [environmental sequence] [ score 182 E 1e-44 ] [ range 1 .. 147 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------MGEDFLNQFSPWGKSSARITAKGFNKQNYYDILGISILDYLDLYRKH
+TFVRQESYKLDYIGQVELGEKKTENPDTFKEFYQNDYQLFVEYNIQDVELVDKLEDKMQLIALHLTMAYE
+GKVNYQDVFGQVRMWDTIIFNYLKE--*
+>P1;gi|43553445|gb|EAE31508.1| unknown [environmental sequence] [ score 180 E 4e-44 ] [ range 2 .. 135 ]
+sequence
+--DFYTNVIQRGNTLFVRGVDGN-QRVTDKVKYCPTLFDITNKG-ETGYKTLDGRDVLPHPFDSIQEAKD
+WIEQSSDQDI-VFGNTQFPYCYIGDNYPNDIPWNKDKILIVTIDIEVECENGFPNPKKAEEPLLSITMK-
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|44657740|gb|EAK78233.1| unknown [environmental sequence] [ score 179 E 1e-43 ] [ range 3 .. 143 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------NRTSRVLGQQFANALSPIGEVFYSE------HKRRYKIAGVSCLDYLPLYKLF
+TYTQQSSYRLDYIGQLEVGLGKIEFDGTLQDLYETDIDKYIEYNLNDVKIVKKLDDKLKFIELARGISHV
+GHTPYEDVYYSSRYLEGAILVYLK---*
+>P1;gi|43328202|gb|EAD29638.1| unknown [environmental sequence] [ score 178 E 2e-43 ] [ range 3 .. 131 ]
+sequence
+---FYTNVIQWGNQLLVRGVN-NGERYSTKVKYSPTLF--APVEKPTKYKTLTGQYVAPIPFQTIKDAKE
+WVSNYKDQPDIVFGNTQYPYTYIADNFRNAVNWDIDDILIVTVDIEVQCENGFPSAEKAEEEMLS-----
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|43126787|gb|EAC29232.1| unknown [environmental sequence] [ score 177 E 4e-43 ] [ range 24 .. 232 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------KLNVLFFDIEVDPDRGYATTDDPFMPITAISCYM
+GWTDQLVTLAVPPKTL-NMQE---------AKLLTERFPNTML-------FTNEKEMLDAFLQLVE--DA
+DILSGWNSEGYDIPYTVGRIQKVLSSDDTRRLCFWGEKPKKRIFEKYGKENLYDLIGRVHLDLLELYRKY
+TYEERHSFRLDAIGEHELGEKKTIYEGSLDNLYKNDFALFIEYNRQDCNLL-------------------
+---------------------------*
+>P1;gi|44456132|gb|EAJ39637.1| unknown [environmental sequence] [ score 167 E 3e-40 ] [ range 1 .. 113 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------MGVAILDYLDLYRKH
+TFVRRESYRLDYIGEVELGESKHENPDTFKEFYTKDYQQFIEYNIQDVELVDKLEDKMKLIELHLTMAYE
+AKVNYQDVFGQVRMWDTIIFNHLKSKN*
+>P1;gi|43140844|gb|EAC36164.1| unknown [environmental sequence] [ score 166 E 6e-40 ] [ range 2 .. 127 ]
+sequence
+--KFYTSVLPYRGRLLVRGVNHDGSHKKYRVNYRPSLFV--PSNKESKYKTLDGRNVGKVEFQSIPDAKK
+WIDEYEDVGFEYFGNTRYQYPFIADQFPNKIDWDIKQIRLITIDIECESENGFPDADEA-----------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|3913525|sp|O48901|DPOD_SOYBN DNA polymerase delta catalytic s... [ score 166 E 7e-40 ] [ range 248 .. 517 ]
+sequence
+----------------------------------------------------------------------
+----------------EFDCLY-SELISHAPEGEYSKMRILSFDIECAGRKGFPEPTH--DPVIQIANLV
+TL-------------QGEDQPFIRNVMTLKSCSP--------IVGVDVMPFETEREVLLAWRDFIREVDP
+DIIIGYNICKFDLPYLIERALNL-KIAEFPILGRIRNSRVRVKDTTFSSRQ----YGTRESKEVAVEGRV
+TFDLLQVMQRDYVSSHFLSEQKEDHHSIISDLQNGNAERLAVYCLKDAYLPQRLLDKLMFIYNYVEMARV
+TGVPISFLLSSIKVL------------*
+>P1;gi|43009586|gb|EAB71587.1| unknown [environmental sequence] [ score 166 E 1e-39 ] [ range 3 .. 120 ]
+sequence
+---FYTNVLQWGNSLLVREV-KNGQRQNSEVKYSPTLY--SPVNQKTGYTTLDGNHVLPQTFETMKEAKQ
+WVADRKDQPDLVYGNTQYTYNYLSDTYKGKVDWDLEQILIVTIDIEVQCENGFP----------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|15237565|ref|NP_201201.1| DNA-directed DNA polymerase delta c... [ score 163 E 5e-39 ] [ range 281 .. 541 ]
+sequence
+----------------------------------------------------------------------
+----------------EFHCLY-SDLISHAAEGEYSKMRVLSFDIECAGRKGFPEAKH--DPVIQIANLV
+TLQGE-------DHPF--VRNVMTLKSCAP------------IVGVDVMSFETEREVLLAWRDLIRDVDP
+DIIIGYNICKFDLPYLIERAATL-GIEEFPLLGRVKNSRVRVRDSTFSSRQ----QGIRESKETTIEGRF
+QFDKLSSYSLNSVSAHFLSEQKEDHHSIITDLQNGNAERLAVYCLKDAYLPQRLLDKLMFIYNYVEMARV
+TGVPISFLL------------------*
+>P1;gi|43243463|gb|EAC87376.1| unknown [environmental sequence] [ score 161 E 3e-38 ] [ range 3 .. 144 ]
+sequence
+---FYTNVHQRFDEILVRGY-ENGKHFTTRETFNPTFFV--PSKRKSKYKTLEGDSVEPIKPGKISECKQ
+FIDKYSEVNFDVYGNDRYICQYISEKYPEEIKFDISKIKLVTIDIEVAAESGFPNVFDCAEELLAITLQD
+YTTKKI----------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|42937534|gb|EAB35769.1| unknown [environmental sequence] [ score 160 E 4e-38 ] [ range 1 .. 108 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------DYLDLYKKF
+TYKAQESYRLDYIASVELGQKKLDHSDTFKDFYTNGWQKFVEYNIIDVKLVDALEEKMKLIELAVTMAFD
+AKVNFNDVFYQVRMWDMIIYNDLKKKN*
+>P1;gi|44178045|gb|EAH54631.1| unknown [environmental sequence] [ score 155 E 1e-36 ] [ range 2 .. 120 ]
+sequence
+--KFYTSVLPFRGRLLVRGVNHDGSHKKFRINYKPSLFV--PSQKESKYKTLDGRNVGKVTFDSIPDAKK
+WIDEYKDVGFEYFGNTRYQYPFIADQFPDKVNWDIKQIRILTLDIECESENG------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|2746268|gb|AAC40752.1| catalytic subunit of replicative DNA p... [ score 153 E 5e-36 ] [ range 279 .. 508 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------SFDIECLSQNGFPDAEQMGDIIIQISVID
+F------------------DSEGNYQSKHLFTLGTC----EQIEGVFIYEFASEFELLYAFFLFLKCKSP
+EILTGYNIINFDLKYLCTRMEKIYNFEI-GGFSKLKRGKFSVIKKFLNSLTKVNMSGILCFDMYNVYS--
+SKISAQNYKLDTIAKLCLNQEKLSYKEIPKKFIDGSKGRAVRYCIQDSLLVVQLFTK---INYHYEMAEV
+ASLAYITI-------------------*
+>P1;gi|32412410|ref|XP_326685.1| hypothetical protein [Neurospora cr... [ score 153 E 6e-36 ] [ range 305 .. 542 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------PLRILSFDIECAGRKGFPEPQH-----DSVIQIA
+NIVTKY----------GEKKPFVRNVFCL-------DTTSPIVATQI-LSFDREEDMLREWRNFLEQVDP
+DIIIGYNIANFDFPYLLDRAKHL----KVKDFDFWSRTRVRSVETNFSSKQMTNTNGRLQLDMLQLVQRD
+--YQLRSYTLNSVCSHFLGEQKEDHHSMITELFEGTPERLALYCLKDAYLPQRLMDKLSCLENYTEMARV
+TGVPFNFLL------------------*
+>P1;gi|18138452|ref|NP_542554.1| putative DNA-dependent DNA polymera... [ score 153 E 7e-36 ] [ range 142 .. 353 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RVLTFDIETDDREGFPEYGQAR--ILSIVAHD
+NYTDEYVGFIDLDG-------HGLGERFPDADLDAVSHPSDLLDKLSKLNFEDERKMLTEFAKYVNEKDS
+DLVVGWNSNGFDTPFVIERMKE-------RGVNADRLSRTGNTYTGYGGP---TIQGRTCYDLMDAWKDT
+KFT-KVSGSLDNAAQMELEDAKIEHDKGFYELYSENTQKFLNYNTKDVSLTVGVND--------------
+---------------------------*
+>P1;gi|9628761|ref|NP_043792.1| DNA polymerase [Human herpesvirus 7]... [ score 149 E 1e-34 ] [ range 279 .. 507 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------SFDIECLSQNGFPDAEQ------------
+----------MVTSSLISVIDFDSE-GNYQSKHLFTLGTCEQIEGVFIYEFASEFELLYAFFLFLKCKSP
+EILTGYNIINFDLKYLCTRMEKIYNFEI-GGFSKLKRGKFSVIKKFLNSLTKVNMSGILCFDMYNVYS--
+SKISAQNYKLDTIAKLCLNQEKLSYKEIPKKFIDGSKGRAVRYCIQDSLLVVQLFTK---INYHYEMAEV
+ASLAYITI-------------------*
+>P1;gi|32399018|emb|CAD98258.1| DNA polymerase family B subunit, pro... [ score 147 E 3e-34 ] [ range 293 .. 533 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------PIRILSFDIECITESGFPEP-----------HKD
+SVIQISSVVTLLDSP-----ESICNVIFTLKE------CASVAEAFVFW-FESEKDMLLAWKDFLLALDP
+DVITGYNCINFDMNYLLERAK-LFQLNDFFFFTRLAKTKITSKDTRFSSRKLINIEGRILWDILETIRRE
+HK--LKSYSLNYVSTNFLKEQKEDHYSMIRGLQDGNPERIAIYCLKDSILPLRLMKHLKLFPNIIEMARV
+TGTTIDILLS-----------------*
+>P1;gi|9629756|ref|NP_045247.1| 30 [Equine herpesvirus 4] >gi|112615... [ score 145 E 2e-33 ] [ range 350 .. 600 ]
+sequence
+----------------------------------------------------------------------
+---------------------------PEEASW--PDYKLLCFDIECKAGTGFPVATNQEDLVIQISCYS
+LATQKHEHTLLFSLGSCDISEEYASGCVQRGEPSP-----------TVLEFDSEYELLIAFLTFLKQYSP
+EFATGYNIVNFDWAYIVNKLTSVYNIKLDGYGKFNKGGLFKVWDNHFQKKSKVKINGVISLDMYSVA--T
+EKLKLPSYKLDAVVEDVLGEHKIDL--PYKDYYASGPQRGVEYCIQDSRLV----GKLFFKYLHLELSAV
+AKL------------------------*
+>P1;gi|44125504|gb|EAH26379.1| unknown [environmental sequence] [ score 144 E 4e-33 ] [ range 1 .. 145 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------MTFDIEVEVIDGFPEPEKAANKITSIAYHL
+SDTDKYVVLVL--DEQLRVDDYETEECKVF-------------------RFGTESELINAFLKRYREYDP
+TILTGWNVEFFDVPYLYNRITRVKDVETAKLLSPIQDVQWNQF------RGRYKIAGVSVLDYLALYRKF
+TF--------------------------------------------------------------------
+---------------------------*
+>P1;gi|43449621|gb|EAD79457.1| unknown [environmental sequence] [ score 143 E 7e-33 ] [ range 5 .. 254 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RILSVDIECAGRKGFPDADH--DPVIQITMVT
+CQDDRPIIKAI----------WTLDTCAP-------------IVGADVLSFKDERELLRSWGKFLRSTDP
+DLLIGYNIVNFDFPYLINRAERLNVEDFAYWGRMIG-SKLRMKDTTFSSKAYITIEGRVQFDLLQAVQRD
+HK--LSSYSLNAVSAHFLGEQKEDHHSAISELQAGTAERLAVYCLKDAYLPQRLLDKLMYMYNYIEMARV
+TGVPLSFLLASIKVLSQIL--------*
+>P1;gi|438895|gb|AAA74383.1| DNA polymerase >gi|40253958|tpg|DAA0215... [ score 142 E 1e-32 ] [ range 276 .. 491 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLCFDIECKAGDAFPAAENPEDLVIQISCYS
+LATQRL--------------------EHTLLFSLGSCDSDDPA--VTVLEFDSEFELLLAFVTFLKQYAP
+EFATGYNIINFDWAFVHTKLTTVYGLALDGYGRFNRGGQFRVYDNSFQKRSKVKINGLVSLDMYAVAAD-
+-KLKLPSYKLNAVAEEALGERKLDLDKDIPRYYAAGPERGVRYCVQDSALVGKLFFK-------------
+---------------------------*
+>P1;gi|42795157|gb|AAS45914.1| DNA polymerase [Equine herpesvirus 1] [ score 142 E 1e-32 ] [ range 358 .. 599 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLMCFDIECKAGTGFPVATNQEDLVIQISCL-
+-----LYSLATQNHEHTSLGSCDISEEYSFACQRGEPRP-------TVLEFDSEYELLVAFLTFLKQYSP
+EFATGYNIVNFDWAYIVNKVTSVYNIKLDGYGKFNKGGLFKVWDNHFQKKSKVKINGLISLDMYSVA--T
+EKLKLPSYKLDAVVGDVLGEHKIDL--PYKEYYAGGPDRIGEYCIQDSRLV----GKLFFKYLHLELSAV
+AKL------------------------*
+>P1;gi|14860973|gb|AAK72380.1| DNA polymerase [human herpesvirus 2] [ score 140 E 6e-32 ] [ range 364 .. 610 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLMCFDIECEDELAFPVAERPEDLVIQISC--
+------LLYDLSTTALEHILLFSLG-SCDLPESHLSDLASRGLPAPVVLEFDSEFEMLLAFMTFVKQYGP
+EFVTGYNIINFDWPFVLTKLTEIYKVPLDGYGRMNGRGVFRVWDSHFQKRSKIKVNGMVN---IDMYGII
+TKVKLSSYKLNAVAEAVLKDKKKDLSRDIPAYYASGPQRGVEYCVQDSLLVGQLFFKLPHLELS-AVARL
+AGINI----------------------*
+>P1;gi|4809214|gb|AAD30145.1| DNA-dependent DNA polymerase [columbid... [ score 139 E 7e-32 ] [ range 74 .. 315 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLCFDIECKSSGAFPEATNEEDLVIQISCYS
+LQTRRLEHIILFS-----------LGSCDLSSEFLEGLREKQLPEPTVLEFESEYELLLAFMTFVKQYAP
+EFATGYNIVNFDWAFIHNKLTTVYDMRLDGYGVLNKGGMFKIWDNRFQKKSKVKITGIISLDMYSVA--T
+EKAKLPNYKLNTVAAAVLGERKLSYKEIPGHFAAGPVKRGVEYCLQDSLLV----GKLFFKYLHLELSAV
+AKL------------------------*
+>P1;gi|181622|gb|AAA35768.1| DNA polymerase delta [ score 139 E 1e-31 ] [ range 293 .. 548 ]
+sequence
+----------------------------------------------------------------------
+-----------------------SDVVSHPPEWQIAPLRVLSFDIECAGRKGFPEPER--DPVIQICS--
+--------LGLR---------WG-EPEPFLRLALTLRPCAPIL-GAKVQSYEKEEDLLQAWSTFIRIMDP
+DVITGYNIQNFDLPYLISRAQTLKVQRVAGLCSNIRDSSFQSKQTGRRDTKVVSMVGRVQMDMLQVLLRE
+YK--LRSYTLNAVSFHFLGEQKEDQHSIITDLQNGNDQRLAVYCLKDAYLPLRLLERLMVLVNAVEMARV
+TGVPLSYLLS-----------------*
+>P1;gi|8714515|gb|AAC57976.2| DNA polymerase [retroperitoneal fibrom... [ score 138 E 2e-31 ] [ range 293 .. 530 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RILSFDIECMGEEGFPKATRDGDVILQISCVF
+HAAGE-------DAPYTRI--------------LLSLGTCDPLDDTEIFEFPSEYDMLVAFFAMIRDYDV
+DFITGYNIANFDLPYIITRATQVYNIDL-KSFTKIKTGSIFEVHEFMRSQSKVKISGIVPIDMYQVCRE-
+-KLSLSDYKLDTVAKKCLG--KQKDDISYRDFRSGGRAKIGRYCVIDSVLVMDLLRMFQTHVEIAEIARL
+AKIPARRVL------------------*
+>P1;gi|43055864|gb|EAB94314.1| unknown [environmental sequence] [ score 137 E 3e-31 ] [ range 2 .. 120 ]
+sequence
+--KFYTNVQMIGDNFLVRGYD-NGEYIQFREKYNPTLFV--PSNKKTFYKTLEGEYVAPIKPGSVRDCRD
+FYKKYEEIDFKIYGNERYIYQYISDKYPEEIKFDIEKVRLLTVDIETRSENG------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|9629844|ref|NP_045328.1| DNA polymerase [Bovine herpesvirus 1... [ score 138 E 3e-31 ] [ range 386 .. 630 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLCFDIECLSCAGFPAAANAEDLVVQISC--
+------LTYSLRTQRHEHTLLFSLG-SCDLPPAFLGACAAAGLPAPAVLEFDSEFELLLAFMTFLKQYSP
+EFVTGYNIVNFDWAYISEKLTAVYDVRLDGYGKLNRGGLFRVFDNRFQKQSKVKINGVVSLD---MYRTV
+EKLKLPSYKLNAVAEEALRERKLDYKDIPRHFAAGPEGRGVEYCIQDSALVGKLFFKLPHLELS-AVARL
+AGI------------------------*
+>P1;gi|118880|sp|P04292|DPOL_HHV1K DNA polymerase >gi|67034|pir||DJB... [ score 137 E 3e-31 ] [ range 363 .. 609 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLMCFDIECEDELAFPVAGHPEDLVIQISC--
+------LLYDLSTTALEHVLLFSLG-SCDLPESHLNELAARGLPTPVVLEFDSEFEMLLAFMTLVKQYGP
+EFVTGYNIINFDWPFLLAKLTDIYKVPLDGYGRMNGRGVFRVWDSHFQKRSKIKVNGMVN---IDMYGII
+TKIKLSSYKLNAVAEAVLKDKKLSYRDIPAYYATGPAQRGVEYCIQDSLLVGQLFFKLPHLELS-AVARL
+AGINI----------------------*
+>P1;gi|118881|sp|P09854|DPOL_HHV1S DNA polymerase >gi|67035|pir||DJB... [ score 137 E 4e-31 ] [ range 363 .. 609 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLMCFDIECEDELAFPVAGHPEDLVIQISC--
+------LLYDLSTTALEHVLLFSLG-SCDLPESHLNELAARGLPTPVVLEFDSEFEMLLAFMTLVKQYGP
+EFVTGYNIINFDWPFLLAKLTDIYKVPLDGYGRMNGRGVFRVWDSHFQKRSKIKVNGMVS---IDMYGII
+TKIKLSSYKLNAVAEAVLKDKKKDLSRDIPAYYAAGPQRGVEYCIQDSLLVGQLFFKLPHLELS-AVARL
+AGINI----------------------*
+>P1;gi|40787896|ref|NP_954917.1| UL30 DNA polymerase, catalytic subu... [ score 137 E 5e-31 ] [ range 386 .. 630 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLCFDIECLSCAGFPAAANAEDLVVQISC--
+------LTYSLRTQRHEHTLLFSLG-SCDLPPAFLGACAAAGLPAPAVLEFDSEFELLLAFMTFLKQYSP
+EFVTGYNIVNFDWAYLLEKLTAVYDARLDGYGKLNRGGVFRVGQNRFQKQSKVKINGVVSLD---MYRTV
+DKLKLPSYKLNAVAEEALRERKLDYKDIPRHFAAGPEGRGVEYCIQDSALVGKLFFKLPHLELS-AVARL
+AGI------------------------*
+>P1;gi|101026|pir||S19661 DNA-directed DNA polymerase (EC 2.7.7.7) I... [ score 137 E 6e-31 ] [ range 293 .. 531 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------PLRIMSFDIECAGRKGFPDPS-----IDPVIQIA
+SIVTQY----------GDSTPFVRNVFCVDTCS--------QIVGTQVYEFQNQAEMLSSWSKFVRDVDP
+DVLIGYNICNFDIPYLLDRAKSLLG-RIHNFFSVAKETSFSSKAYGTRESKTTSIPGRLQLDMLVMQRDF
+K---LRSYSLNAVCSQFLGEQKEDHYSIITDLQNGSRRRLAIYCLKDAYLPQRLMDKLMCFVNYTEMARV
+TGVPFNFLL------------------*
+>P1;gi|43353328|gb|EAD41502.1| unknown [environmental sequence] [ score 136 E 9e-31 ] [ range 19 .. 216 ]
+sequence
+--------------------DKKGYQV---IPYKPYAYV---KHSNGTHVSLYG--------DRLKKVFD
+YDKEDPHL-FESDVPPTTRFLVDQYSDSDDASEGH---RMIFIDIEVEVTDGFPDVQKAGNTITAITMWD
+KVSDTYYTY--VTDPKKQIKNYTK-------------------DNIIVELFSTEYEMLNKFYQKYMEIKP
+TIISGWNTDFFDIPYLYNRAVRVLGNSVAGLLSPISEVRWSEYKSRY-----------------------
+----------------------------------------------------------------------
+---------------------------*
+>P1;gi|6469146|emb|CAB61753.1| DNA polymerase [Chlorocebus rhadinovi... [ score 136 E 9e-31 ] [ range 144 .. 376 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RMLSFDIECMGEAGFPRATRDEDVILQISCVF
+HTAG-------DKSPYTQI--------------LLSLGTCEPLEGTEILEFPSEYDMLTAFFAMLRDYDV
+EFLTGYNIANFDLPYIITRATQVYNIDLKN-FTKIKTGSVFEVHEFLRSQSKVKISGIAPIDMYQVCRD-
+-KLSLSDYKLDTVAKKCLG--KQKDDISYRDFRSGGRAKIGRYCIIDSVLVMDLLRMFQTHVEIAEIARL
+AKIP-----------------------*
+>P1;gi|5881329|gb|AAD55134.1| DNA-dependent DNA polymerase [Bovine h... [ score 136 E 9e-31 ] [ range 369 .. 612 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLMCFDIECKSELAFPVATNHDDLVIQISC--
+------LLYDVPSHRLDHVMLFSLG-SCDIPESFSESLRNRGLPEPLVLEFDSEFEMLLAFFTFLKQYGP
+EFVTGYNIINFDWPFLITKLTDVYKVPLDGYGRANARGVFRVWDNSFQKNNKIKINGVVNIDMYAIARE-
+-KVKLSSYKLNAVAEAVLDDRKKDLDKDIPRYYASGPERGVEYCIQDSLLVGRLFFKLPHLELS-AVARL
+AGI------------------------*
+>P1;gi|27806073|ref|NP_776852.1| polymerase (DNA directed), delta 1,... [ score 136 E 1e-30 ] [ range 292 .. 547 ]
+sequence
+----------------------------------------------------------------------
+-----------------------SDVISHEGEWQIAPLRVLSFDIECAGRKGFPEPER--DPVIQICS--
+--------LGLR---------WG-EPEPFLRLALTLRPCAPIL-GAKVQSYEREEDLLQAWSTFIRIMDP
+DVITGYNIQNFDLPYLISRAQKVPGFPLLGRVSNIRESSFQSRQTGRRDSKVVSMVGRVQMDMLQVLLRE
+YK--LRSYTLNAVSFHFLGEQKEDQHSIITDLQNGNDQRLAVYCLKDAFLPLRLLERLMVLVNAMEMARV
+TGVPLGYLLS-----------------*
+>P1;gi|44273378|gb|EAI12136.1| unknown [environmental sequence] [ score 134 E 2e-30 ] [ range 69 .. 268 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------LSIDIECNEQ----------EELFSIA---
+-----------LAGEGLNVVLLLCPPRFVGQTLQGQEDSAYELITV-----ESEKVLLEAFFSYLTSYDP
+DIILGWNVKQFDMAVLERRAR---ANSLKYAIGRHREASVRQWED----QTLVDVPGRCVIDGIEALKTM
+TYQF-ESFSLDHVSEELLGENKLIQAADIKRLYHSDPVALANYNFKDTELVNRIQDKTQFID--------
+---------------------------*
+>P1;gi|31240729|ref|XP_320778.1| ENSANGP00000014184 [Anopheles gambi... [ score 135 E 2e-30 ] [ range 317 .. 548 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RILSFDIECAGRKGFPEPQH--DPVIQIA---
+-----------------NMVIRQGEQEPFLRNVFTLNTCAPIVGAQV-LSHKTEQELLDRWACFVRELDP
+DILTGYNINNFDVPYLLNRANHL-KVRNFEYLGRVTNIRSVIKDTVIQSKQM----GRRENKFVNFEGRV
+PFDKLRSYTLNAVSYHFLQEQKEDHHSIITDLQNESEQRLAMYCLKDAYLPLRLLNKLMCIVNYMEMARV
+TGVP-----------------------*
+>P1;gi|33944263|ref|XP_340279.1| DNA polymerase delta catalytic subu... [ score 134 E 2e-30 ] [ range 218 .. 466 ]
+sequence
+----------------------------------------------------------------------
+---------------------------SHEAVGDYLLIRILSIDIECEGRKGFPEAER--DPVIQIANH-
+------------CVNYGKEEDALTRTIFTLKSCG-------AIAGANVCSFETEEEMLVQWARFVKRIDP
+DFLTGYNICNFDFPYLLSRGITLKVNDSFFYWGRHREKKFLSRQLGNREYTELTMEGRVVMDVMAVIQRD
+YK--LRAYSLNAVSQHFLGEQKEDHHSIISDLQQGNDERLAVYCLKDAYLPVKLLERLMVVVNNVEMARV
+TGVPI----------------------*
+>P1;gi|8925893|gb|AAF81662.1| DNA polymerase [retroperitoneal fibrom... [ score 134 E 2e-30 ] [ range 293 .. 530 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RILSFDIECMGEEGFPRATRDGDVILQISCHD
+AGEDAPYTRMLL-----------------------SLGTCDPLENTEIFEFPSEYDMLTAFFTMLRDYDV
+DFITGYNIANFDLPYIITRATQVYNFDLKNYTKIKTGSMFEVHEGFLRSQSKVKISGIVPIDMYQVCRD-
+-KLSLSDYKLDTVAKHCLSKQKISYRDIPPPFRSGGRAKIGRYCVIDSVLVMDLLRMFQTHVEIAEIARL
+ARIPARRVL------------------*
+>P1;gi|6015019|sp|Q69025|DPOL_GPCMV DNA polymerase >gi|459763|gb|AAA... [ score 134 E 2e-30 ] [ range 286 .. 554 ]
+sequence
+----------------------------------------------------------------------
+----------------------------GDVEADDSDMRCASFDIECMSGDRFPDSSMVDDIVIQISVI-
+-------CYAVGRSGAESDGVSGAEAAVREHQHLFTLGPCAPIPGTHVYEFPSEYELLLGFFIFFKAYPP
+DILTGYNINLFDIKYLLQRMEKIYNVSEFTKLRF--GGRFSIYVPVGTKPRNASSASITGTVVLDMYPVV
+AKTSAPNYKLETMAEMYLNEHKLSYKEIPPTFLANDNGRAVRYCIKDALLVKRLFEKLNYHYEAASVARL
+ARIPLRSVIF-----------------*
+>P1;gi|13242420|ref|NP_077443.1| DNA polymerase [Cercopithecine herp... [ score 134 E 4e-30 ] [ range 337 .. 578 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLMCFDIECKSEMAFPEASNNEDVIIQISCLL
+YSINTCKLEHILLFSLG---------SCNLSRDYLDTVAVDKFPEPKVFEFDSEFELLLAFFTFVKQYSP
+EFATGYNIVNFDWAFIYNKLTCVYDLKLDGYGSLNRGGIFKVWDVGFNHRSKVKINGLISLDMYTI--VM
+DKLKLSNYKLDTVAHEVLKESKKDLSKDIPKYYSNGPNTIGEYCIQDSLLVGKLFFK---FLPHLELAAV
+AKL------------------------*
+>P1;gi|10140935|ref|NP_065512.1| DNA Polymerase [Alcelaphine herpesv... [ score 134 E 4e-30 ] [ range 307 .. 548 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------DWPQYNILSFDIECLGESGFPSADKDEDMIIQISC--
+-------------------VIWTVGGDKKQECILLSVGTCDLIENVKVYEFPSEMDLLYGFFTLLRDYGI
+EMITGYNICNFDFPYILNRAQNVYNIKPEDFSKTKTNSLFYVYTNFMRSHSKVKMSGVVVIDMYQVCRD-
+-KLNLSNYKLNTVAKECLGEKKVSYKDIPILFSSKDRAKLGMYCVQDAVLVIDLLKHFMTHIEITEIAKI
+ANIPTRRVLS-----------------*
+>P1;gi|3122029|sp|P97283|DPOD_MESAU DNA polymerase delta catalytic s... [ score 134 E 5e-30 ] [ range 289 .. 544 ]
+sequence
+----------------------------------------------------------------------
+-----------------------SDVISHPPEGQIAPLRVLSFDIECAGRKGFPEPER--DPVIQICS--
+--------LGLR---------WG-EPEPFLRLALTLRPCAPIL-GAKVQSYEREEDLLQAWPNFILAMDP
+DVITGYNIQNFDLPYLISRAQTLKVDR-FPFLGRVTGLRSNIRDSSFQSRQVVSMVGRVQMDMLQVLLRE
+HK--LRSYTLNAVSFHFLGEQKEDQHSIITDLQNGNEQRLAVYCLRDAFLPLRLLERLMVLVNNVEMARV
+TGVPLGYLLS-----------------*
+>P1;gi|5918971|gb|AAD56202.1| DNA polymerase [Gallid herpesvirus 1] [ score 133 E 6e-30 ] [ range 309 .. 551 ]
+sequence
+----------------------------------------------------------------------
+---------------------------GNNVSW--PDYKLLCFDIECKAEFAFPSAEKVEDLVIQISA--
+------VTYSLLTKE---------KEQEIIFSLGTCELSEDCSDGITVCKCGSEFELLLCFMTFFKQYSP
+EFVSGYNILGFDWAYLSNKLSKVYGMRLDGYGKANSWGTFKLQDRGLGRFKKVKINGVVNIDMFTIYEKL
+K---LPSYKLNAVAECVLGEQKIDYKDIPVMFAAKERGKIGEYCLQDSRLSGSLFFKFSP---HLEMSAV
+AKL------------------------*
+>P1;gi|4191|emb|CAA43922.1| DNA polymerase III catalytic subunit [Sa... [ score 133 E 6e-30 ] [ range 304 .. 552 ]
+sequence
+----------------------------------------------------------------------
+---------------------------PAEGDWSHTPLRIMSFDIECAGRGVFPEPEY--DPVIQIANVV
+SIA-------------GAKKPFIRNVFTLNTC-------SPITGSMIFSH-ATEEEMLSNWRNFIIKVDP
+DVIIGYNTTNFDIPYLLNRAK-ALKVNDFPYFGRLKTVKQEIKESVFSSKKNVNIDGRLQLDLLQFIQRE
+YK--LRSYTLNAVSAHFLGEQKEDHYSIISDLQNGDSERLAVYCLKDAYLPLRLMEKLMALVNYTEMARV
+TGVPFSYLL------------------*
+>P1;gi|13623886|dbj|BAB41073.1| DNA polymerase [Human herpesvirus 3] [ score 133 E 7e-30 ] [ range 344 .. 588 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLCFDIECKSELAFPDATHLEDLVIQISCLL
+YSIPRQSLEHILLFSLGSCD----LPQRYVQEMKDAGLPEP-----TVLEFDSEFELLIAFMTLVKQYAP
+EFATGYNIVNFDWAFIMEKLNSIYSLKLDGYGSINRGGLFKIWDSGFQRRSKVKINGLISLDMYAIA--T
+EKLKLSSYKLDSVAREALNESKRDL--PYKDYYASGPNTIGEYCIQDSALVGKLFFKLPHLELS-AVARL
+ARI------------------------*
+>P1;gi|2246468|gb|AAB62593.1| ORF 09, DNA polymerase homolog [Human ... [ score 133 E 8e-30 ] [ range 292 .. 525 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------ILSFDIECMGEKGFPNATQDEDMIIQISCVL
+HTNDKPYTRMLL-----------------------GLGTCDPLPGVEVFEFPSEYDMLAAFLSMLRDYNV
+EFITGYNIANFDLPYIIARATQVYDFKL-QDFTKIKTGSVFEVHNFMRSQSKVKISGIVPIDMYQVCRE-
+-KLSLSDYKLDTVAKQCLGRQKISYKDIPPLFKSGGRAKVGNYCVIDSVLVMDLLLRFQTHVEISEIAKL
+AKIP-----------------------*
+>P1;gi|6015023|sp|O71121|DPOL_RHCM6 DNA polymerase >gi|2944240|gb|AA... [ score 132 E 9e-30 ] [ range 286 .. 545 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RCLSFDIECMSSGGFPAAEQTDDIVIQISCVC
+YNT-------------GGTGCEENTVFGTSGLHLFTIGSCAPLAGVDVYEFPSEYEMLLGFLIFFQRYSP
+CFVTGYNINSFDFKYILTRLEFVYKLSP----GPYSKLPAQGRFSMYSVTTTTTKVFISGTVVIDMYPVM
+AKTSSPNYKLNTMAELYLKQQKEDMS------YKDIPVKFISYCVQDAVLVKDLFNTINFHYEAGAIARL
+ARIPMRRVIFQIR-----IYTSLLDE-*
+>P1;gi|30984458|ref|NP_851890.1| DNA polymerase catalytic subunit [C... [ score 132 E 1e-29 ] [ range 361 .. 605 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLMCFDIECEDEAAFPVAANAEDLVIQISCYD
+LATTRLEHILLFS-----------LGSCDLPEAFVADLEARGLPAPTVLEFDSEFEMLLAFVTFVKQYGP
+EFATGYNIINFDWPFLIAKLTDVYKVPLDGYGRMNRRGVFRVWDSHFQKRSKIKMNGVIN---IDMYGIV
+DKVKLSSYKLNAVAEAVLKDKKKDLNRDIPRYYAAGPQRGVEYCVQDSLLVGQLFFKLPHLELS-AVARL
+AGI------------------------*
+>P1;gi|11067381|ref|NP_067694.1| DNA polymerase delta, catalytic sub... [ score 132 E 1e-29 ] [ range 289 .. 544 ]
+sequence
+----------------------------------------------------------------------
+-----------------------SDVISHPPEGQIAPLRVLSFDIECAGRKGFPEPER--DPVIQICS--
+--------LGLR---------WG-EPEPFLRLALTLRPCAPIL-GAKVQSYEREEDLLQAWATFILAMDP
+DVITGYNIQNFDLPYLISRAQTLKVDR-FPFLGRVTGLRSNIRDSSFQSRQV----GRRDSKVVSMVGRV
+QMDMLQSYTLNAVSFHFLGEQKEDQHSIITDLQNGNEQRLAVYCLKDAFLPLRLLERLMVLVNNVEMARV
+TGVPLGYLLS-----------------*
+>P1;gi|24664937|ref|NP_524099.2| DNA-polymerase-delta CG5949-PA [Dro... [ score 132 E 2e-29 ] [ range 279 .. 531 ]
+sequence
+----------------------------------------------------------------------
+---------------------FISHEPEGEWS-KVAPFRILSFDIECAGRKGFPEAK-----IDPVIQIA
+NMVIR----------QGEREPFIRNVFTLNEC-------APIIGSQVLCH-DKETQMLDKWSAFVREVDP
+DILTGYNINNFDFPYLLNRAAHL-KVRNFEYLGRIKNIRSVIKEQMLQSKQ----MGRRENQYVNFEGRV
+PFDKLRSYTLNAVSYHFLQEQKEDHHSIITDLQNGDEQRLAMYCLKDAYLPLRLLEKLMAIVNYMEMARV
+TGVPLESLL------------------*
+>P1;gi|40742186|gb|EAA61376.1| hypothetical protein AN7325.2 [Asperg... [ score 132 E 2e-29 ] [ range 304 .. 543 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------PLRILSFDIECAGRKGFPEPNH-----DPVIQIA
+NVVTRY----------GESKPFIRNVFVMNTCS--------LIVNTQILEFQQEEKMLMAWRDFIQKVDP
+DVIIGYNIANFDFPYLLDRAKHLKCTN-FPYWTRLNGMRSEAKDTNFSSKQMTNTNGRLQLDLLQLVQRD
+H--NLRSYTLNSVSYEFLGEQKEDHHTMITELYNGTPDRLAVYCLKDAYLPQRLMDKLMCLVNYTEMARV
+TGVPFNFLLS-----------------*
+>P1;gi|34395919|gb|AAF63493.2| polymerase [Green turtle herpesvirus] [ score 131 E 2e-29 ] [ range 313 .. 543 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLVFDIECKSEFAFPEADNSCDVVIQISAIV
+H-----------------CLRTGNEEGRLLFSLGSCRLPAEAAGSATVIECDSEYELLLAFFTFFKQFSP
+EYPSGYNILGFDLPFLVNKAA-AYDLKLDGYGRLERGGQFRIIENRFQKNIKVRINGTVTLDVYPLLR--
+GKLSLPDYKLDTVCREVLGETKR--DVSYKELYGQGPELLGDYCLQDSALVLRLFEK---FAPHVEMSEV
+A--------------------------*
+>P1;gi|38638220|ref|NP_944403.1| DNA polymerase [Psittacid herpesvir... [ score 131 E 3e-29 ] [ range 318 .. 539 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLSFDIECKAGGAFPTAERIEDVVIQISA--
+------VVSSLLTR---------RVEHEILFSLGTCQLPEDIADHVKVCECGSEFELLLCFMTFLKQFSP
+EFVTGYNILGFDWGFMYNKMVNIYGMRLDGYGKANAWGTFKVQDMPHSGRGKFKINGIVNFDMFSII--Y
+QKIKLCSYKLNSVAETVLGEKK--HDLSYKDLPREERGKIGAYCLQDSRLATKLFFKL------------
+---------------------------*
+>P1;gi|2959354|emb|CAA12264.1| DNA polymerase [Feline herpesvirus 1] [ score 131 E 4e-29 ] [ range 353 .. 594 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLCFDIECKAGTGFP---VATNQDDVVIQIS
+CL---IYSLATRKHELTLLFSLG---SCDLPDSCLLGSTERGEPTPIILEFDSEFEMLIAFLTFIKQYSP
+EFATGYNIVNFDWAYIIEKLKSVYNIRLDGYGKFNRGGLFKVWDVNFQKRSKVKINGLVTLDMYTVA--T
+EKLRLSSYKLNAVAEEALGEYKIDYKEIPRYYASGARQRGIEYCIQDSLLV----GKLFFKYLHLELSAI
+AKL------------------------*
+>P1;gi|9633109|ref|NP_050219.1| DNA polymerase [Human herpesvirus 6B... [ score 130 E 6e-29 ] [ range 279 .. 508 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------WSFDIECLGQNGFPDAENLGDIVIQISVVS
+FDT----------------------EGDRDERHLFTLGTCEQIDGVHIYEFASEFELLLGFFIFLRIESP
+EFITGYNINNFDLKYLCIRMDKIYHYEI-GCFSKLKNGKIGIKKGFLQAQTKVFTSGVLYLDMYPVYS--
+SKITAQNYKLDTIAKICLQQEKLSYKEIPKKFISGPSGRAVVYCLQDSVLVVRLFKQINYHYEVAEVARL
+AHV------------------------*
+>P1;gi|12084859|ref|NP_073324.1| UL30 DNA polymerase catalytic subun... [ score 129 E 1e-28 ] [ range 347 .. 575 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLCFDIECKSEYAFPT---ATNEEDVVIQIS
+CL--------LYSIGHKRLEHAILFSSCDLPQSCEDVFRDTYNTTPTVLEFDSEFELLLAFMTFIKQYAP
+EFVTGYNIINFDWAFIVNKLTVVYDMKLDGYGIVNQKGMFRVWDNQFQKKGKFKATGIIALDMYSATEKM
+K---LQSYKLDVVAEAALGERKLSYKEIPRYFASGANTRGIEYCLQDSLLVGKLFFK-------------
+---------------------------*
+>P1;gi|9628340|ref|NP_042931.1| DNA polymerase [Human herpesvirus 6]... [ score 129 E 1e-28 ] [ range 279 .. 508 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------WSFDIECLGQNGFPDAENLGDIVIQISVIS
+FDT----------------------EGDRDERHLFTLGTCEKIDGVHIYEFASEFELLLGFFIFLRIESP
+EFITGYNINNFDLKYLCIRMDKIYHYDI-GCFSKLKNGKIGISHEQYRKLQAQTKVFTSGVLYLDMYPVY
+SKITAQNYKLDTIAKICLQQEKLSYKEIPKKFISGPSGRAVVYCLQDSVLVVRLFKQINYHFEVAEVARL
+AHV------------------------*
+>P1;gi|39592153|emb|CAE75373.1| Hypothetical protein CBG23360 [Caeno... [ score 129 E 1e-28 ] [ range 276 .. 517 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------GIAPIRTLSLDIECIGRRGFPEAIK--DPIIQIANLV
+KVEGES-------------EPFVRNCFVLGTCA--------HVVGSNIIECVNEKVLLEKWAEFVREVDP
+DIITGYNILNFDLPYILDRAKVLLGRQRDKG-SVVRDAAISSKQMGSRVNKSIDIHGRIIFDVLVVLRDY
+K---LRSYTLNSVSYQFLSEQKEDVENIIPDLQRGDEQRLAQYCLKDAYLPLRLLDKLMSIINYIEMARV
+TGVPMNFLL------------------*
+>P1;gi|951001|emb|CAA61282.1| DNA-directed DNA polymerase III [Candi... [ score 129 E 1e-28 ] [ range 243 .. 482 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------PLRILSFDIECAGRKGFPEAEH--DPVIQIA---
+-----------------NVVQKSGESKPFVRNVFTVNTCSSIIGSQIFEH-QREEDMLMHWKEFITKVDP
+DVIIGYNTANFDIPYVLNRAK-ALGLNDFPFFGRLKRVKQEIKDAVFSSRKVVNIDGRMQLDLLQFIQRE
+YK--LRSYTLNSVSAHFLGEQKEDQHSIITDLQNGTKERLAVYCLKDAFLPLRLLDKLMCLVNYTEMARV
+TGVPFSYLLS-----------------*
+>P1;gi|17559488|ref|NP_506017.1| polymerase delta (120.8 kD) (5M525)... [ score 128 E 3e-28 ] [ range 276 .. 517 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------GIAPIRTLSLDIECIGRRGFPEAIK--DPIIQIANLV
+KIE-------------GEAEPFVRNCFVLGTCAP--------VVGSNIIQCVNEKVLLEKWAEFVREVDP
+DIITGYNILNFDLPYILDRAK-VLSLPQVSHLGRQKEKGSVVRDAAISSKQMIDIHGRIIFDVLVVLRDY
+K---LRSYTLNSVSYQFLSEQKEDVENIIPDLQRGDEQRLAQYCLKDAYLPLRLLDKLMSIINYIEMARV
+TGVPMNFLL------------------*
+>P1;gi|4809121|gb|AAD30095.1| DNA polymerase [human herpesvirus 5] [ score 127 E 3e-28 ] [ range 296 .. 589 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RCLSFDIECMSEGGFPCAEKSDDIVIQISCYE
+TGGNTAVDQGIPNGNDGRGCTSEGAIFGHSGLHLFTIGTCGQVGDVDVYEFPSEYELLLGFMLFFQRYAP
+AFVTGYNINSFDLKYILTRLEYLYKVDS-QRFCKLPTAQGGRFFVGFKRQTAATKVYIAGSVVIDMYPVM
+AKTNSPNYKLNTMAELYLRQRKLSYKDIPRCFVANAEGRAQRYCLQDAVLVRDLFNTINFHYEAGAIARL
+AKIPLRRVIFQIR-----IYTSLLDE-*
+>P1;gi|38111534|gb|EAA57102.1| hypothetical protein MG08071.4 [Magna... [ score 127 E 4e-28 ] [ range 303 .. 541 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------PLRILSFDIECAGRKGFPEAN-----MDPVIQIA
+NVVTKY----------GDKKPFVRNVFCLDQ-------TSPIVATQI-LEFSQEQKMLSSWRNFMVEVDP
+DIITGYNIANFDFPYLLDRARHL-KVKDFDLWSRIPSIKSVAKESNFSSKQMTNINGRLQLDLLQLIQRD
+H--QLRSYTLNSVCSHFLGEQKEDHHTMITELFNGTPERLALYCLKDAYLPQRLMDKLSCLENYTEMSRV
+TGAPFNFLL------------------*
+>P1;gi|2731693|gb|AAB93518.1| DNA polymerase [Phocine herpesvirus ty... [ score 126 E 6e-28 ] [ range 1 .. 237 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------DIECKSGTGFPISSNQEDLVIQISCL-
+-----LYSLSSRKHEHTLLFSLGSLPERYLEENNNKKQPKPI-----VLEFDSEFEMLLAFLTFLKQYSP
+EFVTGYNIVNFDWSYITNKLKSVYNVNLDGYGKFNKGGLFKVWDNNFQKRSKVKINGLVTLDMYSIA--T
+EKLKLASYKLNTVAGEALGEYKLPYKEIPG-YYAAGPDKIGEYCIQDSVLVGKLF--FKFIP-HLELSAV
+AKL------------------------*
+>P1;gi|9628011|ref|NP_042605.1| DNA polymerase replicative subunit [... [ score 127 E 6e-28 ] [ range 290 .. 518 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------NVLSFDIECLGENGFPNASRDEDMILQISC--
+-------------------VIWKAGSGEAPRSVLLNLGTCEEIEGVEVYQCPSELDLLYLFFTMIRDADV
+EFVTGYNISNFDFPYVIDRATQVYNLNL-KEFTRVRSSSIFEVHKFMRAVSKVKVAGVVPIDMYQVCRD-
+-KLSLSNYKLDTVAGECVGAKKVSYKEIPHLFRQGGRARLGLYCVKDSALVLDL---LRYFMTHVEISEI
+AKI------------------------*
+>P1;gi|23488820|gb|EAA21409.1| DNA polymerase delta catalytic subuni... [ score 126 E 6e-28 ] [ range 302 .. 540 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------IPKLRILSFDIECIKLDGKGFPEAKTDPIIQIS---
+------SILYLQGDPIENCAKFIFTLLECASIPGSN-----------VIWFNDEKTMLEAWNEFVIRIDP
+DFLTGYNIINFDIPYILNRGT-ALNLKKLKYIGRIKNIPSLVKDANFSSKQFININGRIQFDVYDLIKRD
+--YRLKSYTLNYVSFEFLKEQKEDHYSIMNDLQNENSERIATYCIKDGLLPLRLIDKLLFIYNYVEMARV
+TGTPF----------------------*
+>P1;gi|13447465|gb|AAG13396.2| DNA polymerase [Caprine herpesvirus 2] [ score 126 E 8e-28 ] [ range 274 .. 513 ]
+sequence
+----------------------------------------------------------------------
+---------------------------SERVDWPH--YNILSFDIECLGERGFPSAERDEDIIIQISC--
+-------------------TIWAVGSEGDPRRILLCVGTCDPLEGIDVYEFPSELDMLYAFFTLIRDYGV
+EMITGYNICNFDFPYVLDRARHVYNFKPEEYSKTKSNSLFYVYKNFMRAHSKVKLSGVVVIDMYHICRD-
+-KLSLSDYKLNTVAKECLGEEKTDYKDIPILFRGSSRDRLGLYCVQDAVLVLNLLQHFMTHIEITEIAKI
+AHIP-----------------------*
+>P1;gi|23507969|ref|NP_700639.1| DNA polymerase delta catalytic subu... [ score 126 E 8e-28 ] [ range 298 .. 537 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------QIPKLRILSFDIECIKLDGKGFPEAKNDPIIQISSIL
+YFQGE---------PIDNCTKFIFTLLECASIPGSN-----------VIWFNDEKTLLEAWNEFIIRIDP
+DFLTGYNIINFDLPYILNRGT-ALNLKKLKFLGRIKNVASTVKDSSFSSKQFINIFGRIQFDVYDLIKRD
+YK--LKSYTLNYVSFEFLKEQKEDHYSIMNDLQNESPERIATYCIKDGVLPLRLIDKLLFIYNYVEMARV
+TGTPF----------------------*
+>P1;gi|24943095|ref|NP_733857.1| ORF5 [Callitrichine herpesvirus 3] ... [ score 126 E 1e-27 ] [ range 279 .. 517 ]
+sequence
+----------------------------------------------------------------------
+---------------------------GNDVSW--PPYMVMAFDIECLGEEGFP---NATNETDLIIQIS
+CV-------------LWSVGEPTSNYRRILLTVGTCA----EIDGVEVYEFPSEMDLIYAFFQLIRDLNV
+EIITGYNVANFDWPYILDRARHIYGINPA-SLGKIRGGGVCEVRKMFSRATKIRISGVIPIDMYSVCKE-
+-KLSLSDYKLDTVAKRILGTKKEDYKEIPHLFRAGERKRLGMYCIQDSVLVMDL---LNHFVTHVEISEI
+AKI------------------------*
+>P1;gi|9296965|sp|Q9YUS3|DPOL_TUHV1 DNA polymerase >gi|4165073|gb|AA... [ score 126 E 1e-27 ] [ range 306 .. 547 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RCLSFDIECLSGGGFPVAENLDDVVIQISC--
+------VCY-----PVGGTEE-QRAAFPVAERHLFTLGPCAPIPGVLVYEFPSEFELLCGFFTFFGRYAP
+EFVTGYNINNFDWRYLLTRAERVYRWPVAEYTRLRFGGRFCAYVPGGGGRQAQTKVLITGTVVLDLYPVM
+AKVSAPDYKLNTVCELYLGRQKLSYKELPRAFLSGDAGRARRYCVQDAVLVKELFEKLNYHYEAAAVARL
+ARI------------------------*
+>P1;gi|45198332|ref|NP_985361.1| AFL189Wp [Eremothecium gossypii] >g... [ score 126 E 1e-27 ] [ range 299 .. 543 ]
+sequence
+----------------------------------------------------------------------
+---------------------------PADSDWSHSPLRILSFDIECAGRVGFPEPE--VDPVIQIANVV
+SIAGES-------------KPFIRNVFTVDTCAP--ITGSQIFEH------ETEEAMLKHWRDFLVEVDP
+DVIIGYNTTNFDLPYLINRA-AALNVSSFPYFGRLVNSKQVIKETVFSSKAHINIEGRFQLDIFQFVRRE
+--YQLRSYTLNSVSAHFLGEQKEDHHSIIASLHRGDSERLAVYCLKDAYLPLRLLEKLMALVNYTEMARV
+TGVPF----------------------*
+>P1;gi|18025531|gb|AAK95475.1| BALF5 [cercopithicine herpesvirus 15] [ score 125 E 2e-27 ] [ range 295 .. 520 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------FDIECLGEEGFPTATNEADLILQISC--
+------------------VLWSTGEEAGRYRRILLTLGTCEDIEGVEVYEFPSELDMLYAFFQLIRDLSV
+EIVTGYNVANFDWPYVLDRARHIYGINPA-SLGKIRAGGVCEVKGFLRANTKVRITGLIPIDMYAVCRD-
+-KLSLSDYKLDTVARHLLGAKKEDYKEIPRLFAEGGRRRLGMYCVQDSALVMDL---LNHFVIHVEVAEI
+AKI------------------------*
+>P1;gi|9631199|ref|NP_047983.1| DNA polymerase [Ateline herpesvirus ... [ score 124 E 3e-27 ] [ range 282 .. 510 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------NIMAFDIECIGEKGFP---CAKNEGDLIIQIS
+CVF------------------WQVGTPDTTKNMLLSLGTCAAVEDSEVYEFPSEADMLHGFFTILRDFNV
+EIITGYNISNFDLPYLIDRATQIYNIK----LSDYSRVKSGSIFQVHRSVSKIKISGIIAIDMYIVCKD-
+-KLSLSNYKLDTVADHCIGAKKVSYKDILPLFMSGGRAKIGRYCVIDSVLVLKL---LMFFKTHVEISEI
+AKL------------------------*
+>P1;gi|9625965|ref|NP_040211.1| DNA polymerase [Saimiriine herpesvir... [ score 124 E 3e-27 ] [ range 282 .. 510 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------NIMSFDIECIGEKGFP---CAKNEGDLIIQIS
+CVF------------------WHAGALDTTRNMLLSLGTCSAVENTEVYEFPSEIDMLHGFFSLIRDFNV
+EIITGYNISNFDLPYLIDRATQIYNIK----LSDYSRVKTGSIFQVHRSVSKIKISGIIAIDMYIVCKD-
+-KLSLSNYKLDTVANHCIGAKK--EDVSYKDLFMSGPEKIGLYCVIDSVLVMKL---LKFFMIHVEISEI
+AKL------------------------*
+>P1;gi|118888|sp|P27172|DPOL_MCMVS DNA polymerase >gi|67043|pir||DJB... [ score 124 E 3e-27 ] [ range 271 .. 521 ]
+sequence
+----------------------------------------------------------------------
+----------------------VADILPIEEQSNWPFYRCLSFDIECMSGTGFPAAENVDDIIIQISC--
+------VCFGVGEVHHAYDVHADLSTPAVPENHLFTIGPCAPIPDVKIYTFPSEYEMLRGFFIFLSWYSP
+EFITGYNINGFDIKYILTRAEKLYKMDV-GQFTKLRRVFSPEKGKAGFGTSNTVKVFWSGTVVLDMYPVT
+AKASSPNYKLDTMAEIYLKKKKLSYKEIPVQFSAGDEGRAPKYCLQDAVLVRELFEMLAF----------
+---------------------------*
+>P1;gi|21552715|gb|AAM62282.1| DNA polymerase [badger herpesvirus] [ score 124 E 5e-27 ] [ range 276 .. 503 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------VLSFDIECLGENGFPNATRDEDMILQISC--
+-------------------VLWKTGENTPPRKILFNLGTCDPIPDTEVFECPSEIDMLYLFLTMLRDLNI
+EFITGYNIANFDFPYIIDRAVQVFNFNL-KDFTRIKNSSMFEVHTFMRAVSKIKISGFVCIDMYNVCKE-
+-KLSLSNYKLNTVAKQCIGGQKVSYKDIPHLFRAGGRAKLGVYCVKDSEIVLQL---LRYFMTHIEISEI
+AKI------------------------*
+>P1;gi|10180735|gb|AAG14223.1| UL30 DNA polymerase catalytic subunit... [ score 122 E 1e-26 ] [ range 353 .. 581 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------KLLCFDIECKSECAFPCATNEEDVVIQISCYS
+INTKQLEHALLFALGACDL----PQTFKETFQSSYNILP-------IVLEFDSEFELLLAFMTFIKQYAP
+EFVTGYNIVNFDWAFIVTKLTTVYNMRLDGYGVVNQKGMFKVWDNRFQKKGKFKATGMITLDMYSIA--T
+EKLKLQSYKLDVVAEAALGERKLSYKEIPSHFAAGPEKRGIEYCLQDSLLVGKLFFK-------------
+---------------------------*
+>P1;gi|18653816|ref|NP_570750.1| DNA polymerase [Macaca mulatta rhad... [ score 121 E 2e-26 ] [ range 295 .. 524 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RIVAFDIECTGEAGFP---CATRDGDAVIQIS
+CV---FYT--------------TREGAPNPPNILFSVGTCDPIPDTDVLEFPSEYDMLVSFFAMIRDFEV
+DFLTGYNISNFDLPYLITRASQVYNL----RLNEYTKIKTGSIFEVHRSVSKIKIAGIVPIDMYQVCRE-
+-KLSLSDYKLDTVARQCLGGKKVSYKDIPPLFRSGGRAKVGSYCVMDSVLVMDL---LKMFMIHVEISEI
+AKL------------------------*
+>P1;gi|9845346|ref|NP_064160.1| pR54 [Rat cytomegalovirus] >gi|21264... [ score 121 E 3e-26 ] [ range 286 .. 499 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RCLSFDIECMSASGFPQAEVLDDIVIQISC--
+------VCFVVGGS--------GAHRFTFAEKHLFTIGSCAPVEDVWVYTFPSEYEMLLGFFIFFNRFSP
+DFLTGYNINGFDIKYLLHRMCRVY-QKDAGRFTKLRRGSPDGSGDAFGGRSGVIKVFCAGTVVLDMYPVS
+AKTSAPNYKLDTMAERYLGQRKLSYKEIPVAFLEEGRARVGKYCVQD-----------------------
+---------------------------*
+>P1;gi|44491803|gb|AAS47480.1| DNA polymerase [Murid herpesvirus 4] [ score 121 E 3e-26 ] [ range 271 .. 521 ]
+sequence
+----------------------------------------------------------------------
+----------------------VADILPIEEQSNWPFYRCLSFDIECMSGTGFPA---AENVGDIIIQIS
+CV-----CFGVGEVHHAYDVHADLSTPAVPENHLFTIGPCAPIPDVKIYTFPSEYEMLRGFFIFLSWYSP
+EFITGYNINGFDIKYILTRAEKLYKMDV-GQFTKLRRVFSPEKGKAGFGTSNTVKVFWSGSIVLDMYPVT
+AKASSPNYKLDTMAEIYLKKKKLSYKEIPVQFSAGDEGRARVYCLQDAVLVRELFEMLAF----------
+---------------------------*
+>P1;gi|20026656|ref|NP_612698.1| DNA polymerase catalytic subunit UL... [ score 120 E 5e-26 ] [ range 360 .. 673 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------RCLSFDIECMSDGGFPCAEKPDDIVIQISCVC
+YETNGGATPAPTQSHHGNGESGGIPYYPQAATAGVGAQPPDPVGEADVYEFPSEYELLLGFMLFFQRYAP
+SFMTGYNINSFDLKYILTRLEYLYKLDV-QRFCKVPVAQGGRFFTLYRRHQAPTKVYISGCVVVDMYPVM
+AKTNSPNYKLNTMAELYLGQRKLSYKEIPVKFVANAQGRAQRYCLQDALLVRDLFNTINFHYEAGAIARL
+AKIPMRRVIFQIR-----IYTSLLDE-*

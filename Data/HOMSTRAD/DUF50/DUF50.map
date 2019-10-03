@@ -1,0 +1,140 @@
+>P1;1ipia
+structureX:1ipi:   1 :A: 114 :A:holliday junction resolvase hjc:Pyrococcus furiosus: 2.16: 21.4
+MYRKGAQAERELIKLLEKHGFAVVRSAGSKKVDLVAGNGKKYLCIEVKVTKK--DHLYVGKRDMGRLIEF
+SRRFGGIPVLAVKFLNVGWRFIEVSPKIE----KFVFTPS-SGVSLEVLLG-----------*
+>P1;1hh1a
+structureX:1hh1:   9 :A: 140 :A:holliday-junction resolvase:Sulfolobus solfataricus: 2.15: 22
+-----SAVERNIVSRLRDKGFAVVRAPA-PIPDIIALKNGVIILIEMKSRKDIEGKIYVRREQAEGIIEF
+ARKSGGSLFLGVKKP-GVLKFIPFEKLRRTETGNYVADSEIEGLDLEDLVRLVEAKISRTLD*
+>P1;gi|14521026|ref|NP_126501.1| hypothetical protein [Pyrococcus ab... [ score 163 E 7e-40 ] [ range 1 .. 113 ]
+sequence
+MYRKGASAERELIRKLENLGFAVVRSAGSKKVDIVAGNGSMYLCIEVKATRK--TKLYLRKEDVERVVEF
+AKKFGGKPILAVKFIGVGWRFV-VLDNVS----SLSISPD-DGEPLEVILG-----------*
+>P1;gi|14591139|ref|NP_143215.1| hypothetical protein PH1328 [Pyroco... [ score 162 E 1e-39 ] [ range 1 .. 113 ]
+sequence
+MYRKGANAERELIKKLERLGFAVIRSAGSKKVDVVAGNGKIYLCIEVKTTKK--GKLYIKGDDLKKLVEF
+ANKFGGTPVLAVKFLGVGWRFFRPSGE-G----NLVISPN-DGETLEVVVG-----------*
+>P1;gi|15679279|ref|NP_276396.1| conserved protein [Methanothermobac... [ score 145 E 2e-34 ] [ range 1 .. 113 ]
+sequence
+MVKNGTRGERDLVKLLWEKGFAAMRAPASGGPDIIAGNGEIYLAIEVKTTAR--ERIYIDSEKIGALLRF
+SDIFGARPYIGIKFRYRDWIFLSP----G----DLELTPS-SNYRLDL--------------*
+>P1;gi|15898029|ref|NP_342634.1| Holliday-junction resolvase [Sulfol... [ score 131 E 4e-30 ] [ range 5 .. 120 ]
+sequence
+---IGKNAERELVSILRGEGFNAVRSSPNPLPDIFATKGNTLLSIECKSTWE--NKVKVKEHQVRKLLDF
+LSMFKGVPLIAIKFKQVHWRVL-VPEKAE----DIIVTID-NSIPIEDL-------------*
+>P1;gi|11499547|ref|NP_070789.1| conserved hypothetical protein [Arc... [ score 129 E 1e-29 ] [ range 1 .. 97 ]
+sequence
+MKSKGTRFERDLLVELWKAGFAAIRVAGSGVPDIVAGNGRTYLAIEVKMRKE--LPLYLSADEVEQLVTF
+ARGFGAEAYVALKLPRKKWRFFPV--------------------------------------*
+>P1;gi|15791068|ref|NP_280892.1| Holliday junction resolvase; Hjr [H... [ score 129 E 2e-29 ] [ range 7 .. 103 ]
+sequence
+---KGNRRERELVNALDETGFAVMRAPASGAPDVLAGNGEEFYAIEAKSSAG--DPIYLDGEEVESLVYF
+ARNFGAKPRIGARFDREDWYFFHPAD------------------------------------*
+>P1;gi|45357899|ref|NP_987456.1| Archaeal Holliday junction resolvas... [ score 125 E 3e-28 ] [ range 5 .. 89 ]
+sequence
+-YQKGSTFERELKKKLESHGFAVIRSAGSHGVDLVAGKGKKPIVIECKSTSK--DKYYIPNEDVEKLLEF
+SKTFDGIPFIALKINRK---------------------------------------------*
+>P1;gi|15668674|ref|NP_247473.1| M. jannaschii predicted coding regi... [ score 122 E 2e-27 ] [ range 5 .. 88 ]
+sequence
+-YRKGSSFERELKRLLEKEGFAVIRSAGSKGVDLIAGRKGEVLIFECKTSSK--TKFYINKEDIEKLISF
+SEIFGGKPYLAIKFNGE---------------------------------------------*
+>P1;gi|14600729|ref|NP_147250.1| hypothetical protein [Aeropyrum per... [ score 117 E 7e-26 ] [ range 3 .. 98 ]
+sequence
+MPRRGVGYERELAKILWERGWAVIRGPASGQPDLVAVRGGVVLVFEIKKARG--ETVYLDPGQVLGLLEW
+ARRAGGDAWIALRLVGKGWRF-----------------------------------------*
+>P1;gi|41615209|ref|NP_963707.1| NEQ424 [Nanoarchaeum equitans Kin4-... [ score 116 E 1e-25 ] [ range 1 .. 90 ]
+sequence
+MKKISSNVEREIQSLIWEKGFACLRIAGSGAADLIAKIKDLYI-IEVKYTHK--DYVYIKDEQLEQIELL
+CKKFEAKPLIVIKFSRKG--------------------------------------------*
+>P1;gi|20093542|ref|NP_613389.1| Holliday junction resolvase, archae... [ score 109 E 2e-23 ] [ range 3 .. 84 ]
+sequence
+-YRRGADFERQLVRYLREHGGEAVRVAGSGAVDVVGAPAMGHVAVECKVRRD--DRLYVEKEEIEGLTTF
+AERFRAEPLIAWK-------------------------------------------------*
+>P1;gi|18313145|ref|NP_559812.1| Holliday Junction Resolvase [Pyroba... [ score 79 E 2e-14 ] [ range 4 .. 106 ]
+sequence
+-KRKGSAKERELANFFWERGCAVLRGCSSGGPDVVAICKGKVLVFEVKYRSK--TPIKIEREKLEKLAVF
+AKRAGGEAYLLVKYGRNPWKVLEIRDKI----------------------------------*
+>P1;gi|15921735|ref|NP_377404.1| 147aa long conserved hypothetical p... [ score 78 E 5e-14 ] [ range 8 .. 103 ]
+sequence
+-KSRGSSVERYIVSRLRDKGFAVIRAPASGSPDIIALKSGVIILIEVKSRKG--QKIYIEKEQAEGIREF
+AKRSGGELFLGVKLP-KMLRFIK---------------------------------------*
+>P1;gi|15897494|ref|NP_342099.1| Holliday-junction resolvase [Sulfol... [ score 74 E 6e-13 ] [ range 5 .. 96 ]
+sequence
+-KRKGSAVERNIVSRLRDKGFAVVRAPASGSPDIIALKNGVIILIEMKSRKE--GKIYVRREQAEGIIEF
+ARKSGGSLFLGVKKPGV---------------------------------------------*
+>P1;gi|22122308|ref|NP_666569.1| hypothetical protein [Sulfolobus vi... [ score 68 E 3e-11 ] [ range 5 .. 93 ]
+sequence
+--QSGKYYEYKTLEILEENGFKALRIPVSGLPDIIATKDNTIYPIEVKSTSK--DVITIKKFQIEKLFEF
+CEIFDCQPLVAIHYK-----------------------------------------------*
+>P1;gi|22122254|ref|NP_666615.1| hypothetical protein [Sulfolobus vi... [ score 61 E 4e-09 ] [ range 5 .. 79 ]
+sequence
+--QSGKYYEYKTLEILEKNGFKALRIPVSGLPDLIATKNNTIYPIEVKSTSK--DVVTVRNFQIEKLFKF
+CEIF----------------------------------------------------------*
+>P1;gi|44628292|gb|EAK59104.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 25 .. 123 ]
+sequence
+--RSCSEVERAKAMRVVKRPFLVVRAPGSGSEDLLALRGDMCFPIEVKTSKS--ERIYLSGDQYNSLKST
+GEKCGLLPLYAFRLKGVSWRIMKV--------------------------------------*
+>P1;gi|13540856|ref|NP_110544.1| Uncharacterized conserved protein [... [ score 44 E 6e-04 ] [ range 2 .. 126 ]
+sequence
+---NGSVYEREIRDILSGRAFFVTRAAGSLGADIIAIRHDISMVIEVKSSIR--SYLAFKQDQAERLSEM
+VNRAGIFLVYAFRLKNASWRLFTVPGN-----------------------------------*
+>P1;gi|15921735|ref|NP_377404.1| 147aa long conserved hypothetical p... [ score 160 E 7e-39 ] [ range 12 .. 144 ]
+sequence
+-----SSVERYIVSRLRDKGFAVIRAPA-SVPDIIALKSGVIILIEVKSRKNGQ-KIYIEKEQAEGIREF
+AKRSGGELFLGVKLP-KMLRFIKFDMLRQTEGGNYAIDLETKGMELEDLVRYVESKISRTLD*
+>P1;gi|14600729|ref|NP_147250.1| hypothetical protein [Aeropyrum per... [ score 142 E 1e-33 ] [ range 11 .. 136 ]
+sequence
+--------ERELAKILWERGWAVIRGPA-SQPDLVAVRGGVVLVFEIKKARG--ETVYLDPGQVLGLLEW
+ARRAGGDAWIALRLV-GKWRFHRADSLEHTRRGGFKISRPGGGLKLRDLLTLYGGGVRR---*
+>P1;gi|11499547|ref|NP_070789.1| conserved hypothetical protein [Arc... [ score 134 E 5e-31 ] [ range 8 .. 119 ]
+sequence
+-------FERDLLVELWKAGFAAIRSPF-PCPDIVAGNGRTYLAIEVKMRKEL--PLYLSADEVEQLVTF
+ARGFGAEAYVALKLP-KKWRFFPVQMLERTEK-NFKIDESVYPLGLE---------------*
+>P1;gi|15679279|ref|NP_276396.1| conserved protein [Methanothermobac... [ score 130 E 4e-30 ] [ range 9 .. 126 ]
+sequence
+--------ERDLVKLLWEKGFAAMRAPA-PLPDIIAGNGEIYLAIEVKTTA--RERIYIDSEKIGALLRF
+SDIFGARPYIGIKFY-RDWIFLSPGDLELTPSSNYRLDLDIRGRDLDEV-------------*
+>P1;gi|15668674|ref|NP_247473.1| M. jannaschii predicted coding regi... [ score 126 E 7e-29 ] [ range 9 .. 116 ]
+sequence
+-----SSFERELKRLLEKEGFAVIRAGS-KGVDLIAGRKGEVLIFECKTSS--KTKFYINKEDIEKLISF
+SEIFGGKPYLAIKFN-GEMLFINP-FLLSTNGKNYVIDERIKAIAID---------------*
+>P1;gi|14521026|ref|NP_126501.1| hypothetical protein [Pyrococcus ab... [ score 108 E 2e-23 ] [ range 6 .. 90 ]
+sequence
+-----ASAERELIRKLENLGFAVVRAGS-KKVDIVAGNGSMYLCIEVKATR--KTKLYLRKEDVERVVEF
+AKKFGGKPILAVKFI-GVWRFV----------------------------------------*
+>P1;gi|14591139|ref|NP_143215.1| hypothetical protein PH1328 [Pyroco... [ score 108 E 3e-23 ] [ range 6 .. 92 ]
+sequence
+-----ANAERELIKKLERLGFAVIRAGS-KKVDVVAGNGKIYLCIEVKTTK--KGKLYIKGDDLKKLVEF
+ANKFGGTPVLAVKFL-GVWRFFRP--------------------------------------*
+>P1;gi|15791068|ref|NP_280892.1| Holliday junction resolvase; Hjr [H... [ score 96 E 2e-19 ] [ range 12 .. 139 ]
+sequence
+--------ERELVNALDETGFAVMRAPA-SGPDVLAGNGEEFYAIEAKSSAG--DPIYLDGEEVESLVYF
+ARNFGAKPRIGARFD-RDWYFFHPADLHTTDAGSYRVKKQTALADGTELETLAGGPERTGLD*
+>P1;gi|45357899|ref|NP_987456.1| Archaeal Holliday junction resolvas... [ score 95 E 2e-19 ] [ range 9 .. 132 ]
+sequence
+-----STFERELKKKLESHGFAVIRAGS-HGVDLVAGKGKKPIVIECKSTS--KDKYYIPNEDVEKLLEF
+SKTFDGIPFIALKIN-RKCLFINPH-LLTSAGKNYALDEKLCPIAL-DIKDVAEDSIQKKLD*
+>P1;gi|18977875|ref|NP_579232.1| hypothetical protein PF1503 [Pyroco... [ score 92 E 2e-18 ] [ range 6 .. 92 ]
+sequence
+-----AQAERELIKLLEKHGFAVVRAGS-KKVDLVAGNGKKYLCIEVKVTK--KDHLYVGKRDMGRLIEF
+SRRFGGIPVLAVKFL-NVWRFIEV--------------------------------------*
+>P1;gi|18313145|ref|NP_559812.1| Holliday Junction Resolvase [Pyroba... [ score 61 E 4e-09 ] [ range 8 .. 130 ]
+sequence
+-----SAKERELANFFWERGCAVLRGCS-SVPDVVAICKGKVLVFEVKYRSKY-TPIKIEREKLEKLAVF
+AKRAGGEAYLLVKYG-RNWKVLEIRD---------KIDREEYEKAVE-LRAFLEALFSQTID*
+>P1;gi|15898029|ref|NP_342634.1| Holliday-junction resolvase [Sulfol... [ score 60 E 7e-09 ] [ range 9 .. 128 ]
+sequence
+-------AERELVSILRGEGFNAVRSPN-PLPDIFATKGNTLLSIECKST--WENKVKVKEHQVRKLLDF
+LSMFKGVPLIAIKFV-HEWRVLVP---EKAEDIIVTIDNSI---PIEDLFKILEKRI-----*
+>P1;gi|20093542|ref|NP_613389.1| Holliday junction resolvase, archae... [ score 59 E 2e-08 ] [ range 7 .. 130 ]
+sequence
+-----ADFERQLVRYLREHGGEAVRVAG-SGVDVVGYAPAMHVAVECKVRRD--DRLYVEKEEIEGLTTF
+AERFRAEPLIAWKLP-LNAVLFPPDLMEERER-TYVIDLETEGIDASRLVT-----------*
+>P1;gi|41615209|ref|NP_963707.1| NEQ424 [Nanoarchaeum equitans Kin4-... [ score 56 E 1e-07 ] [ range 6 .. 92 ]
+sequence
+-----SNVEREIQSLIWEKGFACLRAGS-PAADLIAKIKDLYI-IEVKYT--HKDYVYIKDEQLEQIELL
+CKKFEAKPLIVIKFS-RKGIY-----------------------------------------*
+>P1;gi|22122308|ref|NP_666569.1| hypothetical protein [Sulfolobus vi... [ score 47 E 1e-04 ] [ range 17 .. 116 ]
+sequence
+--------------ILEENGFKALRIPV-SGPDIIATKDNTIYPIEVKSTS--KDVITIKKFQIEKLFEF
+CEIFNCQPLVAIKYK-TVIVYTLPQDVRAKEKIKFK--------------------------*

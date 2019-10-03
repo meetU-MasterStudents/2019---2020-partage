@@ -1,0 +1,2604 @@
+>P1;1mj4a
+structureX:1mj4:   3 :A:  82 :A:sulfite oxidase cytochrome b5 domain, residues 22-103 of sws p51687:Homo sapiens: 1.20: 11.80
+------STHIYTK-EVSSHTSPETGIWVTLGSEVFDVTEFVDLHPGGPSKLMLAAGGPLEPFWALY--AV
+HNQSHVRELLA--QYKIGEL----------*
+>P1;1soxa
+structureX:1sox:   3 :A:  93 :A:sulfite oxidase:Gallus gallus: 1.90: 17.48
+------SYPEYTREEVGRHRSPEERVWVTHGTDVFDVTDFVELHPGGPDKILLAAGGALEPFWALY--AV
+HGEPHVLELLQ--QYKVGELSPDEAPAPDA*
+>P1;1euea
+structureX:1eue:   1 :A:  86 :A:cytochrome b5 water soluble domain:Rattus norvegicus: 1.80: 19.70
+----DPAVTYYRLEEVAKRNTAE-ETWMVIHGRVYDITRFLSEHPGGEEILLEQAGADATESFEDI----
+GHSPDAREMLK--QYYIGDVHPNDLKP---*
+>P1;1cyo
+structureX:1cyo:   1 : :  88 : :cytochrome b5:Bos taurus: 1.50: 16.00
+----SKAVKYYTLEEIQKHNNSK-STWLILHYKVYDLTKFLEEHPGGEEVLREQAGGDATENFEDV----
+GHSTDARELSK--TFIIGELHPDDRSKIT-*
+>P1;1cxya
+structureX:1cxy:   6 :A:  86 :A:cytochrome b5:Ectothiorhodospira vacuolata: 1.65: 19.90
+------TLPVFTLEQVAEHHSPD-DCWMAIHGKVYDLTPYVPNHPGPAGMMLVWCGQESTEAWETKSYGE
+PHSSLAARLLQ--RYLIGTL----------*
+>P1;1kbia
+structureX:1kbi:   1 :A:  92 :A:cytochrome b2:Saccharomyces cerevisiae: 2.30: 17.00
+EPKLDMNKQKISPAEVAKHNKPD-DCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPL----
+-HAPNVIDKYIAPEKKLGPLQG--SMPPEL*
+>P1;gi|86440|pir||A34180 sulfite oxidase (EC 1.8.3.1), hepatic - chi... [ score 120 E 8e-27 ] [ range 5 .. 82 ]
+sequence
+-------PRYTRE-EVGRHRSPEERVWVTHGTDVFDVTDFVELHPGGPDKILLAAGGALEPFWALY--AV
+HGEPHVLELLQ--QYKVGEL----------*
+>P1;gi|11119241|gb|AAG30576.1| nitrate reductase [Ricinus communis] [ score 115 E 3e-25 ] [ range 534 .. 608 ]
+sequence
+------SKTVSMA-EVKKHNSADS-CWIIVHGHVYDCTRFLKDHPGGTDSILINAGTDTEEFDAIH--S-
+---DKAKKMLE--DYRIGEL----------*
+>P1;gi|128194|sp|P17569|NIA_CUCMA Nitrate reductase [NADH] (NR) >gi|... [ score 114 E 4e-25 ] [ range 542 .. 617 ]
+sequence
+------ASNTYTS-EVKKHNSPQSA-WIIVHGHVYDCTRFLKDHPGGSDSILINAGTDTEEFDAIH--S-
+---DKAKKMLE--DYRIGEL----------*
+>P1;gi|730146|sp|P39869|NIA_LOTJA Nitrate reductase [NADH] (NR) >gi|... [ score 114 E 7e-25 ] [ range 521 .. 595 ]
+sequence
+-------TKMYSS-EVKKHNSPDSA-WIIVHGHVYDCTRFLKDHPGGADSILINAGTDTEEFEAIH--S-
+---DKAKKMLE--DYRVGEL----------*
+>P1;gi|730142|sp|P39866|NIA2_PHAVU Nitrate reductase [NADH] 2 (NR-2)... [ score 112 E 2e-24 ] [ range 513 .. 587 ]
+sequence
+------SKMFSVS-EVKKHSSPDSA-WIIVHGHVYDCTRFLKDHPGGTDSILINAGTDTEEFDAIH--S-
+---DKAKKMLE--DYRIGEL----------*
+>P1;gi|14041825|dbj|BAB55002.1| nitrate reductase [Prunus persica] [ score 112 E 3e-24 ] [ range 523 .. 598 ]
+sequence
+------SSKTYSS-EVEKHNSPQSA-WIIIQGHIYDCTRFLNDHPGGADSILINAGTDTEEFDAIH--S-
+---DKAKKMLE--DYRIGEL----------*
+>P1;gi|730140|sp|P39868|NIA2_BRANA Nitrate reductase [NADH], clone P... [ score 112 E 3e-24 ] [ range 538 .. 613 ]
+sequence
+------SAKMYSS-EVRKHNSVESA-WIIVHGHIYDCTRFLKDHPGGSDSILINAGTDTEEFEAIH--S-
+---DKAKKLLE--DYRIGEL----------*
+>P1;gi|15221314|ref|NP_174901.1| nitrate reductase 2 (NR2) [Arabidop... [ score 112 E 3e-24 ] [ range 541 .. 616 ]
+sequence
+------TAKMYSS-EVKKHNSADS-CWIIVHGHIYDCTRFLMDHPGGSDSILINAGTDTEEFEAIH--S-
+---DKAKKMLE--DYRIGEL----------*
+>P1;gi|128193|sp|P27783|NIA_BETVE Nitrate reductase [NAD(P)H] (NR) >... [ score 111 E 4e-24 ] [ range 528 .. 602 ]
+sequence
+------SKMFSMS-EVKKHNSAESA-WIIVHGHIYDCTHFLKDHPGGADSILINAGTDTEEFDAIH--S-
+---DKAKKMLE--DYRIGEL----------*
+>P1;gi|730137|sp|P39867|NIA1_BRANA Nitrate reductase [NADH], clone P... [ score 111 E 4e-24 ] [ range 538 .. 613 ]
+sequence
+------ASKMYSS-EVRKHNSAESA-WIIVHGHIYDCTRFLKDHPGGSDSILINAGTDTEEFEAIH--S-
+---DKAKKLLE--DYRIGEL----------*
+>P1;gi|730143|sp|P39870|NIA2_SOYBN Inducible nitrate reductase [NADH... [ score 111 E 4e-24 ] [ range 517 .. 591 ]
+sequence
+------SKTYTMS-EVRRHNNADSA-WIIVHGHVYDCTRFLKDHPGGTDSILINAGTDTEEFEAIH--S-
+---DKAKQMLE--DYRIGEL----------*
+>P1;gi|486751|pir||S35228 nitrate reductase (NADH) (EC 1.7.1.1) 1 - ... [ score 109 E 2e-23 ] [ range 544 .. 619 ]
+sequence
+------ASKMYSS-EVRKHNTADSA-WIIVHGHIYDCTRFLKDHPGGTDSILINAGTDTEEFEAIH--S-
+---DKAKKLLE--DYRIGEL----------*
+>P1;gi|484212|gb|AAA33712.1| nitrate reductase apoenzyme [ score 109 E 2e-23 ] [ range 540 .. 615 ]
+sequence
+------ASKMYSS-EVKKHNSADSA-WIIVHGHVYDATRFLKDHPGGIDSILINAGTDTEEFDAIH--S-
+---DKAKKLLE--DFRIGEL----------*
+>P1;gi|17559144|ref|NP_505975.1| cytochrome b5 (5M279) [Caenorhabdit... [ score 107 E 4e-23 ] [ range 137 .. 209 ]
+sequence
+---------ITRS-EVNMHCS-EDDCWIIVGNYVYDVTKFVDLHPGGPEILLEFAGGDATD--AFE--SV
+GHSMCARMMLT--KFKIGSL----------*
+>P1;gi|24474446|gb|AAN15927.1| nitrate reductase [Tilia platyphyllos] [ score 107 E 4e-23 ] [ range 520 .. 594 ]
+sequence
+------SKTFSMS-EVRKHNSADSA-WIVVHGNIYDCTRFLKDHPGGADSILINAGTDTEEFDAIH--S-
+---DKAKKLLE--DYRVGEL----------*
+>P1;gi|730139|sp|P39865|NIA1_PHAVU Nitrate reductase [NADH] 1 (NR-1)... [ score 107 E 5e-23 ] [ range 514 .. 589 ]
+sequence
+------ATKSYSS-EVRRHNNRDSA-WIIVNGHVYDCTRFLKDHPGGEDSILLNAGTDTEEFEAIH--S-
+---DKAKKMLE--DYRIGEL----------*
+>P1;gi|1171707|sp|P43101|NIA_CICIN Nitrate reductase [NADH] (NR) >gi... [ score 107 E 7e-23 ] [ range 537 .. 608 ]
+sequence
+---------FTMS-EVKKHNSADSA-WIVVHGHIYDCTSFLKDHPGGSDSILLNAGTDTEEFDAIH--S-
+---DKAKKLLE--EYRVGEL----------*
+>P1;gi|31201753|ref|XP_309824.1| ENSANGP00000018273 [Anopheles gambi... [ score 106 E 1e-22 ] [ range 29 .. 105 ]
+sequence
+-------PEYTMD-EIVKHNGPSAGIWVTYGVGVYDITSFVPKHPG-SDKVMLAAGGAIDPFWHIF--QQ
+HNTKEVLTLLE--SYRIGNL----------*
+>P1;gi|18913155|gb|AAL79356.1| assimilatory nitrate reductase [Dunal... [ score 106 E 1e-22 ] [ range 520 .. 594 ]
+sequence
+------AKEFTME-EVAEHTSPESA-WFVHEGKVYDATPFLEDHPGGPDSILIATGADTEDFNAIH--S-
+---KKAKNMLK--DYYIGEL----------*
+>P1;gi|1762630|gb|AAB39554.1| nitrate reductase [ score 106 E 1e-22 ] [ range 113 .. 187 ]
+sequence
+------SKMFSMS-EVKKHNSAESA-WIVVHGNLYDATRFLKDHPGGSDNILINAGTDTEEFDAIH--S-
+---AKAKKMLE--DYRIGEL----------*
+>P1;gi|1762632|gb|AAB39555.1| nitrate reductase [ score 106 E 1e-22 ] [ range 123 .. 197 ]
+sequence
+------SKMFSMS-EIKKHNSAESA-WIVVHGHVYDATRFLKDHPGGSDSILINAGTDTEEFDAIH--S-
+---DKAKKMIE--DFRIGEL----------*
+>P1;gi|1352497|sp|P49102|NIA3_MAIZE Nitrate reductase [NADH] 3 (NR) ... [ score 106 E 1e-22 ] [ range 522 .. 594 ]
+sequence
+--------QFTMS-EVRKHASQDSA-WIVVHGHVYDCTAFLKDHPGGADSILINAGTDTEEFDAIH--S-
+---DKAKELLD--TYRIGDL----------*
+>P1;gi|5020385|gb|AAD38068.1| nitrate reductase [Zea mays] [ score 105 E 2e-22 ] [ range 539 .. 612 ]
+sequence
+-------KQFTMS-EVRKHASQESA-WIAVHGHVYDCTKFLKDHPGGADSILINAGTDTEEFDAIH--S-
+---DKAKALLD--TYRIGEL----------*
+>P1;gi|128191|sp|P27968|NIA7_HORVU Nitrate reductase [NAD(P)H] >gi|6... [ score 105 E 2e-22 ] [ range 515 .. 589 ]
+sequence
+------SAQFTMS-EVRRHASKDSA-WIVVHGHVYDCTAFLKDHPGGADSILINAGSDTEEFDAIH--S-
+---AKARGLLE--MYRVGEL----------*
+>P1;gi|1709267|sp|P54233|NIA1_SOYBN Inducible nitrate reductase [NAD... [ score 106 E 2e-22 ] [ range 513 .. 587 ]
+sequence
+------SKTYTMS-EVRRHNNADSA-WIIVHGHVYDWTRFLKDHPGGTDRILINAGTDTEEFEAIH--S-
+---DKAKQMLE--DYRIGEL----------*
+>P1;gi|128185|sp|P27967|NIA1_HORVU Nitrate reductase [NADH] (NR) >gi... [ score 106 E 2e-22 ] [ range 539 .. 612 ]
+sequence
+-------KQFTMS-EVRKHGSKESA-WIVVHGHVYDCTAFLKDHPGGADSILINAGSDTEEFDAIH--S-
+---DKAKALLD--TYRIGEL----------*
+>P1;gi|128186|sp|P16081|NIA1_ORYSA Nitrate reductase [NADH] 1 (NR1) ... [ score 106 E 2e-22 ] [ range 542 .. 615 ]
+sequence
+-------KQFTMS-EVRKHSSQDSA-WIVVHGHVYDCTAFLKDHPGGADSILINAGTDTEEFDAIH--S-
+---DKAKALLD--TYRIGEL----------*
+>P1;gi|128187|sp|P11605|NIA1_TOBAC Nitrate reductase [NADH] 1 (NR1) ... [ score 105 E 2e-22 ] [ range 530 .. 605 ]
+sequence
+------ASKMYSS-EVRKHSSADSA-WIIVHGHIYDATRFLKDHPGGSDSILINAGTDTEEFDAIH--S-
+---DKAKKLLE--EFRIGEL----------*
+>P1;gi|100901|pir||S19254 nitrate reductase (NADH) (EC 1.7.1.1) flav... [ score 105 E 3e-22 ] [ range 250 .. 323 ]
+sequence
+-------KEFTMS-EVRKHASQESA-WIVVHGHVYDCTKFLKDHPGGADSILINAGTDTEEFDAIH--S-
+---DKAKALLD--TYRIGEL----------*
+>P1;gi|227926|prf||1713435B nitrate reductase [ score 105 E 3e-22 ] [ range 530 .. 605 ]
+sequence
+------ASKMYSS-EVRKHSSADSA-WIIVHGHIYDATRFLKDHPGGTDSILINAGTDTEEFDAIH--S-
+---DKAKKLLE--DFRIGEL----------*
+>P1;gi|11177032|dbj|BAB17854.1| cytochrome b5 [Ciona savignyi] [ score 104 E 4e-22 ] [ range 7 .. 82 ]
+sequence
+-------KKIYLE-EVKKHNNVQSA-WIIIHNKVYDLTKFLEEHPGGEEVLLEQAGQDATE--SFE--DV
+GHSTDAREMQK--DYYIGEL----------*
+>P1;gi|548361|sp|P36841|NIA_VOLCA Nitrate reductase [NADH] (NR) >gi|... [ score 103 E 9e-22 ] [ range 501 .. 571 ]
+sequence
+----------TME-EVAAHNTEES-CWFVHGGKVYDATPYLDEHPGGAESILIVAGADTDEFNSIH--S-
+---SKAKAMLA--QYYIGDL----------*
+>P1;gi|15222687|ref|NP_173958.1| cytochrome b5, putative [Arabidopsi... [ score 103 E 1e-21 ] [ range 5 .. 80 ]
+sequence
+-------TKLYSM-EEAATHNKQDDCWVVIDGKVYDVSSYMDEHPGGDDVLLAVAGKDATD--DFE--DA
+GHSKDARELME--KYFIGEL----------*
+>P1;gi|128195|sp|P17570|NIA_LYCES Nitrate reductase [NADH] (NR) >gi|... [ score 103 E 1e-21 ] [ range 535 .. 610 ]
+sequence
+------ASKMYSS-EVRKHNSSDSA-WIIVHGHIYDASRFLKDHPGGVDSILINAGTDTEEFDAIH--S-
+---DKAKKLLE--DFRIGEL----------*
+>P1;gi|40744898|gb|EAA64054.1| hypothetical protein AN8920.2 [Asperg... [ score 102 E 2e-21 ] [ range 5 .. 76 ]
+sequence
+----------TLE-QVKAHCTPDD-IWIILHNKVYEVTKYLEDHPGGSAVLIEVAGADATE--AFE--EI
+GHSDEAREQLE--PYYIGDL----------*
+>P1;gi|1402636|dbj|BAA13047.1| nitrate reductase [Spinacia oleracea] [ score 102 E 3e-21 ] [ range 550 .. 625 ]
+sequence
+------TSKMYSS-EVKKHNTADSA-WIVVHGNVYNATRFLKDHPGGSDSILINAGTDTEEFDAIH--S-
+---DKAKRLLE--DFRIGEL----------*
+>P1;gi|6573214|gb|AAF17595.1| nitrate reductase [Chlamydomonas reinh... [ score 100 E 9e-21 ] [ range 509 .. 582 ]
+sequence
+-------KQYTLE-EVAEHASEES-CWFVHEGRVYDATPYLNDHPGGAESILITAGADTDEFNAIH--S-
+---SKAKAMLA--QYYIGDL----------*
+>P1;gi|32351448|gb|AAP75705.1| nitrate reductase [Dunaliella salina] [ score 99 E 2e-20 ] [ range 542 .. 615 ]
+sequence
+-------KEYTME-EVAQHTTHDSA-WFVHEGKVYDATAFLDEHPGGSDSILTATGADTEDFNAIH--S-
+---KKARNMLA--DYYIGEL----------*
+>P1;gi|39596430|emb|CAE63049.1| Hypothetical protein CBG07320 [Caeno... [ score 99 E 2e-20 ] [ range 5 .. 79 ]
+sequence
+-------KQMTLK-EISDHNTNKSA-WLVIGNKVYDVTKFLDEHPGGCEVLLEQAGGD--GTEAFE--DV
+GHSTDARHMKE--EYLIGEV----------*
+>P1;gi|45446819|gb|AAN09163.3| CG3566-PB [Drosophila melanogaster] [ score 98 E 5e-20 ] [ range 2 .. 77 ]
+sequence
+------SKEIRLA-TVNEHNKA-TDLWVVIDNKVYDVTKFRLEHPGGEESLVDEAGRDATK--AFN--DV
+GHSSEAREMLK--KYYIGDL----------*
+>P1;gi|24586291|ref|NP_610294.1| CG2140-PB [Drosophila melanogaster]... [ score 98 E 5e-20 ] [ range 6 .. 81 ]
+sequence
+-------TKTFTR-EVAKHNTNKD-TWLLIHNNIYDVTAFLNEHPGGEEVLIEQAGKDATE--NFE--DV
+GHSNDARDMMK--KYKIGEL----------*
+>P1;gi|30090027|gb|AAO17707.1| cytochrome b5 [Sorghum bicolor] [ score 98 E 5e-20 ] [ range 5 .. 80 ]
+sequence
+-------TKLYSM-EEAALHNTPDDCWVVVDGKIYDVTKYLEDHPGGADVLLEATGKDATE--EFD--DA
+GHSKSAKELMQ--DYFIGEL----------*
+>P1;gi|17550742|ref|NP_510335.1| cytochrome b5 (XO621) [Caenorhabdit... [ score 97 E 6e-20 ] [ range 9 .. 83 ]
+sequence
+-------KQITLK-EIAEHNTNKSA-WLVIGNKVFDVTKFLDEHPGGCEVLLEQAGSD--GTEAFE--DV
+GHSTDARHMKD--EYLIGEV----------*
+>P1;gi|31199385|ref|XP_308640.1| ENSANGP00000011266 [Anopheles gambi... [ score 97 E 7e-20 ] [ range 16 .. 90 ]
+sequence
+--------KTYSA-DVKSHNTNKS-TWIVIHNDIYDVTEFLNEHPGGEEVLLEQAGR--EATEAFE--DV
+GHSSDAREMMK--KFKVGEL----------*
+>P1;gi|39585061|emb|CAE62712.1| Hypothetical protein CBG06866 [Caeno... [ score 97 E 9e-20 ] [ range 7 .. 79 ]
+sequence
+---------ITAE-EVAQH-SDEDSCWIILHGKVYDVTKFLEEHPGGAEVITQLAG--LDSTTEFD--DV
+GHSKDAMEMAK--EYLIGQL----------*
+>P1;gi|32413475|ref|XP_327217.1| hypothetical protein [Neurospora cr... [ score 97 E 1e-19 ] [ range 165 .. 241 ]
+sequence
+-------PRFRLS-EIRQHSSASNTPWVTYADKVYDITSWVGAHPGG-DVILRAAGGPIEPYWDIF--TI
+HKTSYVRDILE--QYCIG------------*
+>P1;gi|15239718|ref|NP_199692.1| cytochrome b5 [Arabidopsis thaliana... [ score 96 E 2e-19 ] [ range 8 .. 80 ]
+sequence
+---------FTLS-EVSQHSSAKD-CWIVIDGKVYDVTKFLDDHPGGDEVILTSTGKDATD--DFE--DV
+GHSSTAKAMLD--EYYVGDI----------*
+>P1;gi|13399338|ref|NP_085075.1| cytochrome b5, outer mitochondrial ... [ score 96 E 2e-19 ] [ range 26 .. 95 ]
+sequence
+------------E-EVAKRNTAEE-TWMVIHGRVYDITRFLSEHPGGEEVLLEQAGADATE--SFE--DV
+GHSPDAREMLK--QYYIGDV----------*
+>P1;gi|1345880|sp|P49096|CYB5_MUSDO Cytochrome b5 (CYTB5) >gi|600524... [ score 96 E 2e-19 ] [ range 7 .. 81 ]
+sequence
+--------KYFTR-AEVAKNNTKDKNWFIIHNNVYDVTAFLNEHPGGEEVLIEQAGKDATE--HFE--DV
+GHSSDAREMMK--QYKVGEL----------*
+>P1;gi|14719320|gb|AAK73138.1| cytochrome B5 [Oryza sativa] [ score 96 E 2e-19 ] [ range 6 .. 81 ]
+sequence
+-------KKVYTE-EVAKHNS-KDDCWLIIGGKVYNVSKFLEDHPGGDDVLLSSTGKDATD--DFE--DV
+GHSTTARAMMD--EYYVGDI----------*
+>P1;gi|44890326|gb|AAH66748.1| Unknown (protein for MGC:76963) [Dani... [ score 96 E 3e-19 ] [ range 28 .. 102 ]
+sequence
+--------KYYTK-EVQVHNMGKD-TWLIIHDKVYDITSFMEEHPGGEEVLLEQAGADATE--SFE--DV
+GHSTDAREMLQ--QYYIGEL----------*
+>P1;gi|42546925|gb|EAA69768.1| hypothetical protein FG02137.1 [Gibbe... [ score 96 E 3e-19 ] [ range 2 .. 75 ]
+sequence
+-------ASFTAK-EVAAHNT-RGDCWTIIKGQVYDVTKYMEDHPGGADVLIESAGKDST--IEFD--SA
+GHSEDAFEIME--EYRIGE-----------*
+>P1;gi|15225731|ref|NP_180831.1| cytochrome b5, putative [Arabidopsi... [ score 96 E 3e-19 ] [ range 5 .. 80 ]
+sequence
+-------AKIFTS-EVSEHNQA-HDCWIVINGKVYNVTKFLEDHPGGDDVLLSSTGKDATD--DFE--DV
+GHSESAREMME--QYYVGEI----------*
+>P1;gi|7432652|pir||S72541 nitrate reductase (NADH) (EC 1.7.1.1) [si... [ score 95 E 3e-19 ] [ range 502 .. 576 ]
+sequence
+------AKSFTMA-EVETHTTMESA-WFVVDGKVYDATPFLKDHPGGADSILLVAGTDTDEFNAIH--SL
+----KAKKQLL--EYYIGEL----------*
+>P1;gi|12230015|sp|O43169|CYM5_HUMAN Cytochrome b5 outer mitochondri... [ score 95 E 5e-19 ] [ range 26 .. 95 ]
+sequence
+------------E-EVAKRNSLKE-LWLVIHGRVYDVTRFLNEHPGGEEVLLEQAGVDASE--SFE--DV
+GHSSDAREMLK--QYYIGDI----------*
+>P1;gi|2647949|emb|CAA04702.1| cytochrome b5 [Olea europaea] [ score 94 E 5e-19 ] [ range 2 .. 76 ]
+sequence
+------SKVFTLA-EVSEHNNAKD-CWLIIDGKVYDVTKFLEDHPGGDEVLLSATGKDATD--DFE--DV
+GHSSTAKAMMD--EFYVGD-----------*
+>P1;gi|42549805|gb|EAA72648.1| hypothetical protein FG08620.1 [Gibbe... [ score 94 E 6e-19 ] [ range 4 .. 79 ]
+sequence
+------TKEFTMQ-DVAEHNTSKD-IYMVVHDKVYDCSKFLDEHPGGEEVMLDVAGQDATE--AFE--DV
+GHSDEAREVLE--GLLVGEL----------*
+>P1;gi|32405232|ref|XP_323229.1| hypothetical protein [Neurospora cr... [ score 94 E 6e-19 ] [ range 2 .. 77 ]
+sequence
+------SAEFTYQ-DVAEHNTKKD-LYVVIHDKVYDITKFVDEHPGGEEVLLDVAGQDSTE--AFE--DV
+GHSDEAREALE--PLLVGTL----------*
+>P1;gi|40739937|gb|EAA59127.1| hypothetical protein AN3862.2 [Asperg... [ score 94 E 7e-19 ] [ range 5 .. 79 ]
+sequence
+-------PQYTSQ-EVAAHKS-RNDLWLIINGKVYDVTEYVRDHPGGADVLIDTAGKDATE--AYE--DV
+GHSEDADEILQ--TYLIGTL----------*
+>P1;gi|14530946|gb|AAK63186.1| probable acyl-CoA dehydrogenase [Glom... [ score 94 E 1e-18 ] [ range 2 .. 76 ]
+sequence
+------SKRITAD-EVAQHNT-EGSIWIIVHDKVFDVTNFLNEHPGGKKVLLKVAGTDATKQFDNF----
+-HNLSVLEKHT--QLQIGEV----------*
+>P1;gi|34905998|ref|NP_914346.1| putative cytochrome B5 [Oryza sativ... [ score 93 E 1e-18 ] [ range 7 .. 79 ]
+sequence
+---------LTLE-EVSKHNT-KDDCWLIIGGKVYNVTKFLEDHPGGDDVLL--SSTAKDATDDFE--DV
+GHSTTARAMMD--EYYVGDI----------*
+>P1;gi|1345925|sp|P49099|CYS5_TOBAC Cytochrome b5, seed isoform >gi|... [ score 93 E 1e-18 ] [ range 5 .. 80 ]
+sequence
+------SKVFTLA-EVSNHNNAKD-CWLIISGKVYNVTKFLEDHPGGGEVLLSATGKDATD--DFE--DI
+GHSSSARAMLD--EYYVGDI----------*
+>P1;gi|27924030|gb|AAO27755.1| reductase [Fusarium sporotrichioides] [ score 93 E 2e-18 ] [ range 5 .. 76 ]
+sequence
+----------TVK-QVAEHNKPDDS-WLIIHGKVYDVTRYIRDHPGGADVLVEAAG--IDASEDFD--NA
+GHSEDAFEIME--DLCIGKI----------*
+>P1;gi|20137975|sp|Q9HFV1|CYB5_RHIST Cytochrome b5 >gi|10834811|gb|A... [ score 92 E 2e-18 ] [ range 2 .. 78 ]
+sequence
+------TAKIFSL-DEVSKHKTKSDLWVVIHNKVYDITRFVVEHPGGEEVLVDEGGKDATE--AFE--DI
+GHSDEAREMLE--EYLIGSL----------*
+>P1;gi|17509473|ref|NP_491931.1| cytochrome b5 (15.6 kD) (1H317) [Ca... [ score 92 E 2e-18 ] [ range 7 .. 82 ]
+sequence
+---------ISLD-EVSKHNDADQSCWIVISGKVYDVTKFLNEHPGGEEVITQLAGKDAT--VGFL--DV
+GHSKDAIEMAN--EYLIGQL----------*
+>P1;gi|13786638|pdb|1EUE|A Chain A, Rat Outer Mitochondrial Membrane... [ score 92 E 3e-18 ] [ range 10 .. 79 ]
+sequence
+------------E-EVAKRNTAEE-TWMVIHGRVYDITRFLSEHPGGEEILLEQAGADATE--SFE--DI
+GHSPDAREMLK--QYYIGDV----------*
+>P1;gi|38104780|gb|EAA51298.1| hypothetical protein MG09315.4 [Magna... [ score 91 E 5e-18 ] [ range 9 .. 82 ]
+sequence
+------AAEYSLK-DVASHKSANDA-WMVIHGQVYDVTKYIHDHPGGAEVLVEAAGADASE--AFD--SA
+GHSEDAFEIMA--EYRVG------------*
+>P1;gi|3891604|pdb|1AWP|A Chain A, Rat Outer Mitochondrial Membrane ... [ score 91 E 5e-18 ] [ range 15 .. 84 ]
+sequence
+------------E-EVAKRNTAEE-TWMVIHGRVYDITRFLSEHPGGEELLLEQAGADATE--SFE--DL
+GHSPDAREMLK--QYYIGDV----------*
+>P1;gi|266620|sp|Q01170|NIA_CHLVU Nitrate reductase [NADH] (NR) >gi|... [ score 91 E 5e-18 ] [ range 216 .. 290 ]
+sequence
+------AKSFTMA-EVETHTTMESA-WFVVDGKVYDATPFLKDHPGGADSILLVAGDATDEFNAIH--SL
+----KAKKQLL--EYYIGEL----------*
+>P1;gi|30090033|gb|AAO86521.1| cytochrome B5 [Triticum monococcum] [ score 91 E 5e-18 ] [ range 5 .. 80 ]
+sequence
+-------TKLYSK-EAALHNTPDD-CWIVVDGKIYDVTAYLDDHPGGADVLLGVTG--MDGTEEFE--DA
+GHSKDAKELMK--DYFIGEL----------*
+>P1;gi|1314248|gb|AAA99718.1| NADH:cytochrome c reductase [ score 91 E 6e-18 ] [ range 10 .. 84 ]
+sequence
+--------KYYTL-EEIQKHKDSKSTWVILHHKVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARELSK--TYIIGEL----------*
+>P1;gi|39595402|emb|CAE60440.1| Hypothetical protein CBG04048 [Caeno... [ score 91 E 6e-18 ] [ range 7 .. 82 ]
+sequence
+---------ISLE-EVSKHNGVDKSCWIVISGKVYDVTKFLNEHPGGEEVITQLAGKDAT--VGFL--DV
+GHSKDAIEMTK--EYLIGQL----------*
+>P1;gi|1345879|sp|P49097|CYB5_CUSRE Cytochrome b5 >gi|7430589|pir||T... [ score 91 E 6e-18 ] [ range 4 .. 79 ]
+sequence
+-------SKVYSA-EVSEHSQP-NDCWLVIGGKVYDVTKFLDDHPGGADVLL--SSTAKDATDDFE--DI
+GHSSSARAMMD--EMCVGDI----------*
+>P1;gi|40739147|gb|EAA58337.1| hypothetical protein AN5828.2 [Asperg... [ score 91 E 7e-18 ] [ range 2 .. 78 ]
+sequence
+------SKTFTPA-EVAKHNKPDQGLYIIVDNSVYDVTNFVDEHPGGAKILKRVAGKDAKQFWKY-----
+HNDGVLKKYAP--KLKIGEV----------*
+>P1;gi|19921470|ref|NP_609852.1| CG6870-PA [Drosophila melanogaster]... [ score 91 E 7e-18 ] [ range 42 .. 116 ]
+sequence
+-------PEIALE-EVAQHDSFDD-CWVVIYDRVYDVTHFLRDHPGGDDVIMDHAGRDAT--IAFH--GT
+GHSGDAIEMMK--DFLIGQL----------*
+>P1;gi|40739597|gb|EAA58787.1| hypothetical protein AN7984.2 [Asperg... [ score 91 E 8e-18 ] [ range 1 .. 72 ]
+sequence
+---------MYTR-KDVAHHNARHSCWVIVSNHVYDVTKFLDAHPGGAGAILLYAGKDATAV--FE--AT
+HPAGTLGQLPH--EYHLG------------*
+>P1;gi|43231570|gb|EAC81369.1| unknown [environmental sequence] [ score 90 E 1e-17 ] [ range 28 .. 98 ]
+sequence
+---------FTAD-EVAKHASA-SDCWVIVRGGVYDVTRFVPKHPGG-NMIYVKAGGECT---ALF--DS
+YHPERARAVLE--KYRIGDL----------*
+>P1;gi|730148|sp|P39864|NIA_PHYIN Nitrate reductase [NADPH] (NR) >gi... [ score 90 E 1e-17 ] [ range 540 .. 609 ]
+sequence
+---------IFAD-EVAKHNSKKS-CWFICRDLVYDATPFLDEHPGGATSILLCGGTDTDEFESIH--S-
+---TKAWQMLK--KYCIG------------*
+>P1;gi|45198298|ref|NP_985327.1| AFL223Wp [Eremothecium gossypii] >g... [ score 90 E 1e-17 ] [ range 41 .. 116 ]
+sequence
+-------PKLYTQ-EIAEHNS-ENDLWLIINGKVYDCTKFAEEHPGGDEVLIDLAGQDATEPFA----DI
+GHSDDAVKMLE--GLYVGDL----------*
+>P1;gi|25282551|pir||JC7671 ascidian cytochrome b5, Pmb5 - sea squir... [ score 90 E 1e-17 ] [ range 14 .. 86 ]
+sequence
+---------IRYE-EVKQHNSIKSA-WNVIHNKVYDVTKFLEDHPGGEEVLLEQAGKNATE--AFE--DV
+GHSSDARSLAE--EHLIGEL----------*
+>P1;gi|16033740|gb|AAL13311.1| delta-5 fatty acid desaturase [Pythiu... [ score 89 E 2e-17 ] [ range 7 .. 82 ]
+sequence
+--------KTFTQ-EVAKHNTAKSA-WVIIRGEVYDVTEWADKHPGGSELIVLHSGRETDTFYSYH--PF
+SN--RADKILA--KYKIGKL----------*
+>P1;gi|15988286|pdb|1ICC|A Chain A, Rat Outer Mitochondrial Membrane... [ score 89 E 2e-17 ] [ range 10 .. 79 ]
+sequence
+------------E-EVAKRNTSEE-TWMVIHGRVYDLTRFLSEHPGGEEVLREQAGADATE--SFE--DV
+GHSPDAREMLK--QYYIGDV----------*
+>P1;gi|685159|gb|AAA96250.1| nitrate reductase [ score 89 E 2e-17 ] [ range 4 .. 77 ]
+sequence
+-------KQFTMS-EVRKHGSQDSA-WIVVHGHVYDCTAFLKDHPGGADSILINAGTDTEEFDAIH--S-
+---DKAKALLD--AHRIGQL----------*
+>P1;gi|40745745|gb|EAA64901.1| hypothetical protein AN2069.2 [Asperg... [ score 89 E 2e-17 ] [ range 3 .. 78 ]
+sequence
+------AKELTFK-EVAEHNTKKD-LYMVIHDKVYDCSSFVDEHPGGEEVLLDVGGQDATE--AFE--DV
+GHSDEAREILQ--GLLVGDL----------*
+>P1;gi|40253472|dbj|BAD05422.1| cytochrome b5-like [Oryza sativa (ja... [ score 89 E 3e-17 ] [ range 43 .. 116 ]
+sequence
+--------RSYTK-EEISAHNTRTDCWVIIKDKVYDVTSYVEEHPGG-DAILNNAGGDSTE--GFF--GP
+QHGFRVFEIIE--DFCIGEL----------*
+>P1;gi|685206|gb|AAA96248.1| nitrate reductase [ score 89 E 3e-17 ] [ range 4 .. 77 ]
+sequence
+-------KQFTMS-EVRKHGSKDSA-WIVVHGHVYDCTGFLKDHPGGADSILINAGTDTEEFDAIH--S-
+---DKAKALLD--AHRIGEL----------*
+>P1;gi|19075497|ref|NP_587997.1| probable cytochrome b5 [Schizosacch... [ score 89 E 3e-17 ] [ range 4 .. 78 ]
+sequence
+-------KTITVE-EVLKHNT-RDDLYIVVKDKVYDISKFLDAHPGGEEVLVDLAGRDASG--PFE--DV
+GHSEDAQELLE--KFYIGNL----------*
+>P1;gi|28202143|gb|AAO34680.1| reductase [Gibberella zeae] >gi|42549... [ score 88 E 4e-17 ] [ range 5 .. 76 ]
+sequence
+----------TVK-QVVEHNKPDDA-WLIIHGNVYDVSKYIRDHPGGADVLVEAAGLDASE--DFD--NA
+GHSEDAFEIME--DLCVGKV----------*
+>P1;gi|4150956|dbj|BAA37090.1| delta 5 fatty acid desaturase [Dictyo... [ score 87 E 6e-17 ] [ range 13 .. 86 ]
+sequence
+--------KLYTD-EVSKHNQ-KNDLWIIVDGKVYNITKWVPLHPGGEDILLLSAGRDATNLFESY--HP
+MTDKHY-SLIK--QYEIG------------*
+>P1;gi|31241023|ref|XP_320925.1| ENSANGP00000017691 [Anopheles gambi... [ score 87 E 6e-17 ] [ range 27 .. 95 ]
+sequence
+--------------QVAEHNKP-NDVWMVIHDKVYDVTKFLAEHPGGEEVLIEFAGKEATA--DFD--DV
+GHSTDAKEQMK--QFLVGEI----------*
+>P1;gi|28828102|gb|AAO50785.1| similar to cytochrome b5 (dbj|BAA7483... [ score 87 E 7e-17 ] [ range 5 .. 77 ]
+sequence
+-------KQYTME-EVSKHDKVDD-LWMVINQKVYDVTSFVNDHPGGGDYLIQNAGK--EATNEFL--DV
+GHSQKAVDMLK--DYYIG------------*
+>P1;gi|40644254|emb|CAD22050.1| cytochrome b5 [Oryza sativa (japonic... [ score 87 E 7e-17 ] [ range 9 .. 86 ]
+sequence
+------AKKLFSS-DVVGHASRKD-CWVVIHGKVYDVTKFLEDHPGGEDVLL-HASASGDATEAFE--DV
+GHSTSAISMMN--NYLIGSI----------*
+>P1;gi|40739642|gb|EAA58832.1| hypothetical protein AN3901.2 [Asperg... [ score 87 E 8e-17 ] [ range 5 .. 79 ]
+sequence
+--------KLTGA-DVAKHNSKDS-CWVIVHGKAYDVTEFLPEHPGGQKIILKYAGKDATE--EFD--PI
+HPPDTLDKYLD--SSKLGEV----------*
+>P1;gi|42551202|gb|EAA74045.1| hypothetical protein FG05328.1 [Gibbe... [ score 87 E 9e-17 ] [ range 7 .. 68 ]
+sequence
+--------------EVAEHNSADS-CWVIVHGKAYDVTEFLPEHPGGKKIILKYAGKDATE--AYE--PI
+HPPDTLDKFLE-------------------*
+>P1;gi|38105387|gb|EAA51823.1| hypothetical protein MG03418.4 [Magna... [ score 86 E 1e-16 ] [ range 2 .. 77 ]
+sequence
+------SKVFTTS-DVASHNKP-NDLYIIVDGDVYDLTKFQDDHPGGKKILTRVAGKDAKAFWKY-----
+HNEGILKKYQS--KLQVGSL----------*
+>P1;gi|20531717|gb|AAM27441.1| microsomal cytochrome b5 [Phaeodactyl... [ score 86 E 1e-16 ] [ range 5 .. 84 ]
+sequence
+-------KEYTLD-EISQHTTTES-CWLIIGNKVYDVTKYLDDHPGGAEVMLDVAGQDADEF--FE--DI
+GHSKEARAELK--NYLVGN-----------*
+>P1;gi|38106528|gb|EAA52821.1| hypothetical protein MG05949.4 [Magna... [ score 86 E 2e-16 ] [ range 3 .. 78 ]
+sequence
+------SAKTFTR-EEVKKHNTEDDVWFIIDSVVYDVSDFLDAHPGGEAVLRQAAG--TDATTDFY--NL
+HRH----EVLT--KYKIGTI----------*
+>P1;gi|32421239|ref|XP_331063.1| hypothetical protein [Neurospora cr... [ score 86 E 2e-16 ] [ range 2 .. 77 ]
+sequence
+-------SKIFTQ-DVSSHSKPDS-LWIVIDGDVYDVTKFADDHPGGKKILQRVGGKDAKQFWKY-----
+HNEGILKKYQG--KLQIGSL----------*
+>P1;gi|44584741|gb|EAK27977.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 1 .. 71 ]
+sequence
+-----------MA-EVARHASKED-LWMVIGDGVYDLTKFAAFHPGGASFIVAAAGQDASE--AFY--AL
+HRAEILEKTAK--KYRIGTL----------*
+>P1;gi|226450|prf||1513199B cytochrome b5 [ score 86 E 2e-16 ] [ range 17 .. 86 ]
+sequence
+------------E-EVQKHNNSQS-TWIIVHHRIYDITKFLDEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARALSE--TFIIGEL----------*
+>P1;gi|27065383|pdb|1LJ0|A Chain A, Structure Of Quintuple Mutant Of... [ score 86 E 2e-16 ] [ range 15 .. 84 ]
+sequence
+------------E-EVAKRNTSEE-TWMVLHGRVYDLTRFLSEHPGGEEVLREQAGADATE--SFE--DV
+GHSPDAREMSK--QYYIGDV----------*
+>P1;gi|29469883|gb|AAO73962.1| cytochrome b5 [Candida tropicalis] [ score 86 E 2e-16 ] [ range 7 .. 83 ]
+sequence
+------TTTIYTH-EEVAQHTTHDDLWVILNGKVYNISNYIDEHPGGEEVILDCAGTDATE--AFD--DI
+GHSDEAHEILE--KLYIGNL----------*
+>P1;gi|42551869|gb|EAA74712.1| hypothetical protein FG04852.1 [Gibbe... [ score 86 E 2e-16 ] [ range 9 .. 82 ]
+sequence
+--------EFSLA-DVKLHNT-EDDIYIAIHGKVYDVTSFLQEHPGGAEFLLEVAGEDATE--AYD--NT
+GHSDEAHEILP--ELEVGTL----------*
+>P1;gi|38110336|gb|EAA56072.1| hypothetical protein MG01723.4 [Magna... [ score 86 E 2e-16 ] [ range 3 .. 69 ]
+sequence
+---------LTGA-EVAKHDSSQS-CWVIVHGKAYDVTEFLPEHPGGAKIILKYAGKDATE--EFD--PI
+HPPDTLDKYLD--K----------------*
+>P1;gi|32417000|ref|XP_328978.1| hypothetical protein [Neurospora cr... [ score 86 E 2e-16 ] [ range 11 .. 73 ]
+sequence
+--------------EVAKHNT-QDDCWVIVHGKAYDITEFLPEHPGGMKIILKYAGKDATE--EFD--PI
+HPPDTLEKYLA--K----------------*
+>P1;gi|32416576|ref|XP_328766.1| hypothetical protein [Neurospora cr... [ score 86 E 2e-16 ] [ range 2 .. 77 ]
+sequence
+------AATFTLD-DVRKHNS-KDDVWMVIHNKVYNVTTYLEDHPGGSIILREVAGTDATEQ--FV--EI
+GHSVEATDILE--ELYVGDL----------*
+>P1;gi|43551132|gb|EAE30343.1| unknown [environmental sequence] [ score 85 E 3e-16 ] [ range 177 .. 250 ]
+sequence
+---------LTMD-EVSKHNS-EGDLWVIIEGSVYDLTAFLPDHPGGKKAIMLFAGKDATE--EFN--ML
+HPPNVLKKYLS--DAKVGEL----------*
+>P1;gi|224985|prf||1205244A cytochrome b5 [ score 85 E 4e-16 ] [ range 12 .. 83 ]
+sequence
+----------YLE-EIKKHNHSKS-TWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARELSK--TYIIGEL----------*
+>P1;gi|703083|gb|AAA63169.1| cytochrome b5 [ score 84 E 5e-16 ] [ range 13 .. 84 ]
+sequence
+----------TLE-EIQKHNHSKS-TWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDAREMSK--TFIIGEL----------*
+>P1;gi|6166051|sp|P00172|CYB5_PIG Cytochrome b5 >gi|11374014|pir||CB... [ score 84 E 5e-16 ] [ range 13 .. 84 ]
+sequence
+----------TLE-EIQKHNNSKS-TWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARELSK--TFIIGEL----------*
+>P1;gi|4204575|gb|AAD10774.1| cytochrome b5 DIF-F [Petunia x hybrida... [ score 84 E 5e-16 ] [ range 7 .. 79 ]
+sequence
+---------FTLS-QVAEHKSKQD-CWIIINGRVVDVTKFLEEHPGGEEVLIESAGKDATK--EFQ--DI
+GHSKAAKNLLF--KYQIGYL----------*
+>P1;gi|15226029|ref|NP_182188.1| cytochrome b5, putative [Arabidopsi... [ score 84 E 6e-16 ] [ range 9 .. 77 ]
+sequence
+--------------DVAKH-KCKNDCWILIHGKVYDISTFMDEHPGGDNVLLAVTGKDAS--IDFE--DV
+NHSKDAKELMK--KYCIGDV----------*
+>P1;gi|24665065|ref|NP_648843.1| CG5157-PA [Drosophila melanogaster]... [ score 84 E 6e-16 ] [ range 8 .. 79 ]
+sequence
+------------S-EVAQQNGKNKPCWLIIKGNVYDVTKFLGEHPGGSEALLEYGGKDATK--AFK--QA
+GHSSDAEKDLK--NYKIGEI----------*
+>P1;gi|42552301|gb|EAA75144.1| hypothetical protein FG10790.1 [Gibbe... [ score 84 E 8e-16 ] [ range 2 .. 77 ]
+sequence
+------SKTFTTS-DVASHNKP-GDLYIIVDGDVYDLTKFQDDHPGGKKILQRVAGKDAKQFWKY-----
+HNEGILKKYKN--QLLVGSL----------*
+>P1;gi|100279|pir||A41085 nitrate reductase (NADH) (EC 1.7.1.1) - cu... [ score 84 E 8e-16 ] [ range 7 .. 74 ]
+sequence
+------SKMFSMS-EVRKHSSADSA-WIIVHGHIYDATRFLKDHPGGTDSILINAGTDTEEFDAIH--S-
+---DKAKKLLE-------------------*
+>P1;gi|40745539|gb|EAA64695.1| hypothetical protein AN2590.2 [Asperg... [ score 84 E 9e-16 ] [ range 11 .. 75 ]
+sequence
+---------LSVQ-EILSHNTP-NDCWVVIQGEVWDLTAFANEHPGGPSVILKYAGRDATD--AFL--GI
+HAPTIIRENL--------------------*
+>P1;gi|6324218|ref|NP_014288.1| cytochrome b5; Cyb5p [Saccharomyces ... [ score 83 E 1e-15 ] [ range 2 .. 77 ]
+sequence
+-------PKVYSQ-EVAEHNGPEN-FWIIIDDKVYDVSQFKDEHPGGDEIIMDLGGQDATE--SFV--DI
+GHSDEALRLLK--GLYIGDV----------*
+>P1;gi|5263169|dbj|BAA81814.1| fatty acid desaturase [Dictyostelium ... [ score 83 E 1e-15 ] [ range 19 .. 87 ]
+sequence
+------------S-ELAKHNT-ENDCWVAVDGKVYDITRWVPLHPGGKEVLLLAAGRDVTNLFESY--HP
+M-SDKPTSILK--NYEIG------------*
+>P1;gi|42545002|gb|EAA67845.1| hypothetical protein FG01027.1 [Gibbe... [ score 83 E 1e-15 ] [ range 9 .. 78 ]
+sequence
+--------------EVAKHNTPES-CWVILYGKVYDVTEFLPSHPGGKKIILKLAGKDATE--EYD--PV
+HPPGTLEENLK--PEHVGEI----------*
+>P1;gi|117811|sp|P00169|CYB5_RABIT Cytochrome b5 >gi|476415|pir||CBR... [ score 83 E 1e-15 ] [ range 13 .. 84 ]
+sequence
+----------TLE-EIKKHNHSKS-TWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARELSK--TFIIGEL----------*
+>P1;gi|23894018|emb|CAD53323.1| delta 5 fatty acid desaturase [Phyto... [ score 83 E 1e-15 ] [ range 27 .. 103 ]
+sequence
+------TTTFTWQ-DVAKHNTAKSA-WVTIRGVVYDVTEWADRHPGGRELVLLHSGRECTDTFDSY--HP
+F-SDRADKILA--KYAIGKL----------*
+>P1;gi|40740999|gb|EAA60189.1| hypothetical protein AN4424.2 [Asperg... [ score 83 E 2e-15 ] [ range 7 .. 77 ]
+sequence
+---------VSTQ-EISGHNKPDD-CWIVVDNHVWDVTNFLATHPGGPTIILKYAGRDATK--AYS--EV
+HTPGLLKAELE--QYK--------------*
+>P1;gi|38101763|gb|EAA48677.1| hypothetical protein MG00335.4 [Magna... [ score 82 E 2e-15 ] [ range 8 .. 70 ]
+sequence
+------------E-EVAKHNTPES-CWVILYGDVYDVTDFVPSHPGGSRIILQLAGRDATE--EYD--PV
+HPPGTLEENLK-------------------*
+>P1;gi|40739226|gb|EAA58416.1| hypothetical protein AN6394.2 [Asperg... [ score 82 E 3e-15 ] [ range 2 .. 77 ]
+sequence
+------SKTFTRD-EVAKHNT-EDSLWCIIDHRVYDLTDFLDAHPGGSVVLSQIAGKDAT--TDFY--NL
+HRHEVLTKYRD--SLCIGTI----------*
+>P1;gi|38110884|gb|EAA56539.1| hypothetical protein MG06510.4 [Magna... [ score 82 E 3e-15 ] [ range 2 .. 78 ]
+sequence
+------AEKTFTQ-DVAEHNTKKD-LFMVIHDKVYDATKFVDEHPGGEEVMLDVGGQDATE--AFE--DV
+GHSDEARETLD--TLLVGKL----------*
+>P1;gi|208781|gb|AAA72186.1| microsomal cytochrome b-5 [ score 82 E 4e-15 ] [ range 9 .. 80 ]
+sequence
+----------TLE-QIQKHNNSKS-TWLILDYKVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARELSK--TFIIGEL----------*
+>P1;gi|30526321|gb|AAP32278.1| nitrate reductase ['Chlorella' ellips... [ score 82 E 4e-15 ] [ range 498 .. 565 ]
+sequence
+-----------MA-EIEQHASKESA-WFVRDGKVYDGTAFLKDHPGGAESILLASGMDSDDFNAIH--S-
+---AKAKRMLN--DYEIG------------*
+>P1;gi|13787017|pdb|1I5U|A Chain A, Solution Structure Of Cytochrome... [ score 81 E 6e-15 ] [ range 6 .. 77 ]
+sequence
+----------TLE-EIQKHNNSKS-TWLILHYKVYDLTKFLEEHPGGEEVLRAQAGGDATA--NFE--AV
+GHSTDARELSK--TFIIGEL----------*
+>P1;gi|29726434|pdb|1M2I|A Chain A, Crystal Structure Of E44aE56A MU... [ score 81 E 8e-15 ] [ range 6 .. 77 ]
+sequence
+----------TLE-EIQKHNNSKS-TWLILHYKVYDLTKFLEEHPGGEAVLREQAGGDATA--NFE--DV
+GHSTDARELSK--TFIIGEL----------*
+>P1;gi|32421745|ref|XP_331316.1| hypothetical protein [Neurospora cr... [ score 80 E 1e-14 ] [ range 9 .. 83 ]
+sequence
+-------DKTFTR-EEVKKHNTEDSTWFIIDSVVYDVSEFLDAHPGGEAVLRQVAGQDATS--AFY--NL
+HRHEVLIKY-N--DLAIGSI----------*
+>P1;gi|31221791|ref|XP_317090.1| ENSANGP00000019710 [Anopheles gambi... [ score 80 E 1e-14 ] [ range 61 .. 133 ]
+sequence
+---------ISLS-EVAYHDCYDD-CWIVLYDRVYDITNFLRLHPGGHDVLVENAGRDAT--IAFL--NA
+GHSAMAIKSLK--LYEIGEL----------*
+>P1;gi|42547193|gb|EAA70036.1| hypothetical protein FG10193.1 [Gibbe... [ score 80 E 2e-14 ] [ range 6 .. 76 ]
+sequence
+----------TTA-EVQKHKDEANGFWLIVENDVYDVTNFIDEHPGGAKILKRWSGKATKAFWKY-----
+HNEGVLKKYGK--DLKIG------------*
+>P1;gi|31322226|gb|AAO63560.1| nitrate reductase [Verticillium fungi... [ score 80 E 2e-14 ] [ range 540 .. 608 ]
+sequence
+--------------EELKAHSGETEPWFVIKGHVYDGTPYLDGHPGGATSIINAAGQDTTE--EFI--TI
+H-SENAKAMMP--KYHIGTL----------*
+>P1;gi|117805|sp|P00168|CYB5_ALOSE Cytochrome b5 [ score 79 E 2e-14 ] [ range 9 .. 80 ]
+sequence
+----------TLE-EIQKHNHSKS-TWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATE--DFE--DV
+GHSTDARELSK--TYIIGEL----------*
+>P1;gi|40745663|gb|EAA64819.1| hypothetical protein AN1699.2 [Asperg... [ score 79 E 2e-14 ] [ range 2 .. 81 ]
+sequence
+-------AKTFSK-EDVAKNNKPDSLWIIVDEDVYDLTKFQDEHPGGKKILTRVAGKDAKQFWKY-----
+HNEGILKKYKS--QLQIGSL----------*
+>P1;gi|128192|sp|P22945|NIA_EMENI Nitrate reductase [NADPH] (NR) >gi... [ score 79 E 2e-14 ] [ range 512 .. 586 ]
+sequence
+-------TRIIDL-EEFKKNSSDERPWFVVNGEVYDGTAFLEGHPGGAQSIISAAGTDAEEFLEIH--S-
+---ETAKKMMP--DYHIGTL----------*
+>P1;gi|42546333|gb|EAA69176.1| hypothetical protein FG01812.1 [Gibbe... [ score 79 E 2e-14 ] [ range 10 .. 80 ]
+sequence
+---------VSLA-EIKQHNTADD-CWIAVHSKVWDITHFINQHPGGPDVLLNSAGSDATDI--YN--EV
+HAPEIIEDLPS--DKLIG------------*
+>P1;gi|20069125|gb|AAM09688.1| delta-4 fatty acid desaturase [Thraus... [ score 79 E 2e-14 ] [ range 12 .. 80 ]
+sequence
+------------E-QVRAHNKPDDA-WCAIHGHVYDVTKFASVHPGG-DIILLAAGKEATVLYETY--HV
+RGVSDA--VLR--KYRIGKL----------*
+>P1;gi|42547140|gb|EAA69983.1| hypothetical protein FG10285.1 [Gibbe... [ score 79 E 3e-14 ] [ range 8 .. 69 ]
+sequence
+------------E-EVRSHTSDES-LWCIIDSTVYDLTDFVDAHPGGETVLRQVAGQDAT--TAFY--NL
+HRH----EVLT--KYK--------------*
+>P1;gi|6323587|ref|NP_013658.1| Expression is repressed by glucose a... [ score 79 E 3e-14 ] [ range 90 .. 154 ]
+sequence
+--------KISPA-EVAKHNKPDD-CWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFE------
+--PLHAPNVID--KY---------------*
+>P1;gi|6323928|ref|NP_013999.1| Required for the hydroxylation of th... [ score 79 E 3e-14 ] [ range 15 .. 89 ]
+sequence
+------------K-TVQEHNTA-NDCWVTYQNKIYDVTRFLSEHPGGDESILDYAGKDITEIMKDS--DV
+HHSDSAYEILE--DYLIGYL----------*
+>P1;gi|20138091|sp|Q9Y706|CYB5_MORAP Cytochrome b5 >gi|5478287|dbj|B... [ score 79 E 3e-14 ] [ range 5 .. 78 ]
+sequence
+--------KSFTL-ADLSQHTTKDSLYLAIHGKVYDCTGFIDEHPGGEEVLIDEAGRDATE--SFE--DV
+GHSDEARDIMS--KLLVGE-----------*
+>P1;gi|2894356|emb|CAA74005.1| nitrate reductase (NADPH) [Phaeosphae... [ score 79 E 3e-14 ] [ range 536 .. 609 ]
+sequence
+-------KQISID-ELRKHDNAEN-PWFVVNGEVYDGTAFLEGHPGGAQSIVSVAGLDADEFMAIH--S-
+---ETAKAMMP--DYHIGSL----------*
+>P1;gi|19112853|ref|NP_596061.1| cytochrome b5. [Schizosaccharomyces... [ score 79 E 3e-14 ] [ range 9 .. 78 ]
+sequence
+------------E-EIVEHNNSKD-MYMVINGKVYDVSNFADDHPGGLDIMLDYAGQDATK--AYQ--DI
+GHSIAADELLE--EMYIGDL----------*
+>P1;gi|30424565|ref|NP_776094.1| sulfite oxidase [Mus musculus] >gi|... [ score 130 E 5e-30 ] [ range 24 .. 112 ]
+sequence
+------SPRMYSKEDVRSHNNPKTGVWVTLGSEVFDVTKFVDLHPGGPSKLMLAAGGPLEPFWALY--AV
+HNQPHVRELLA--EYKIGELNPEDSMSPS-*
+>P1;gi|11119241|gb|AAG30576.1| nitrate reductase [Ricinus communis] [ score 128 E 3e-29 ] [ range 533 .. 618 ]
+sequence
+------SSKTVSMAEVKKHNSADS-CWIIVHGHVYDCTRFLKDHPGGTDSILINAGDCTEEFDAIH--SD
+KAK----KMLE--DYRIGELVDSTAYTTDS*
+>P1;gi|128194|sp|P17569|NIA_CUCMA Nitrate reductase [NADH] (NR) >gi|... [ score 126 E 1e-28 ] [ range 545 .. 617 ]
+sequence
+---------TYTLSEVKKHNSPQSA-WIIVHGHVYDCTRFLKDHPGGSDSILINAGDCTEEFDAIH--SD
+KAK----KMLE--DYRIGEL----------*
+>P1;gi|40254758|ref|NP_112389.2| sulfite oxidase [Rattus norvegicus]... [ score 125 E 2e-28 ] [ range 28 .. 111 ]
+sequence
+----------YSKEDVRSHNNLKTGVWVTLGSEVFDVTKFVDLHPGGQSKLMLAAGGPLEPFWALY--AV
+HNQPHVRELLA--EYKIGELNPEDRMSP--*
+>P1;gi|39596703|emb|CAE63322.1| Hypothetical protein CBG07713 [Caeno... [ score 124 E 3e-28 ] [ range 79 .. 168 ]
+sequence
+-------LPMYAQEEVKKHGKDADRIWVTYKDGVYDVTDFISMHPGG-DKILLAAGAAVDPFWALY--SQ
+HKTAEVLEILE--GYRIGRLDVKDVPKPDA*
+>P1;gi|15221314|ref|NP_174901.1| nitrate reductase 2 (NR2) [Arabidop... [ score 124 E 3e-28 ] [ range 541 .. 616 ]
+sequence
+------TAKMYSMSEVKKHNSADS-CWIIVHGHIYDCTRFLMDHPGGSDSILINAGDCTEEFEAIH--SD
+KAK----KMLE--DYRIGEL----------*
+>P1;gi|730146|sp|P39869|NIA_LOTJA Nitrate reductase [NADH] (NR) >gi|... [ score 124 E 5e-28 ] [ range 522 .. 595 ]
+sequence
+--------KMYSLSEVKKHNSPDSA-WIIVHGHVYDCTRFLKDHPGGADSILINAGDCTEEFEAIH--SD
+KAK----KMLE--DYRVGEL----------*
+>P1;gi|730140|sp|P39868|NIA2_BRANA Nitrate reductase [NADH], clone P... [ score 124 E 5e-28 ] [ range 538 .. 613 ]
+sequence
+------SAKMYSMSEVRKHNSVESA-WIIVHGHIYDCTRFLKDHPGGSDSILINAGDCTEEFEAIH--SD
+KAK----KLLE--DYRIGEL----------*
+>P1;gi|2731816|gb|AAB93560.1| nitrate reductase [Glycine max] [ score 124 E 5e-28 ] [ range 504 .. 577 ]
+sequence
+--------KTYTMSEVRRHNNADSA-WIIVHGHVYDCTRFLKDHPGGTDSILINAGDCTEEFEAIH--SD
+KAK----QMLE--DYRIGEL----------*
+>P1;gi|128193|sp|P27783|NIA_BETVE Nitrate reductase [NAD(P)H] (NR) >... [ score 123 E 8e-28 ] [ range 527 .. 602 ]
+sequence
+------SSKMFSMSEVKKHNSAESA-WIIVHGHIYDCTHFLKDHPGGADSILINAGDCTEEFDAIH--SD
+KAK----KMLE--DYRIGEL----------*
+>P1;gi|17568479|ref|NP_510561.1| suox gene product (61.0 kD) (XQ117)... [ score 123 E 9e-28 ] [ range 82 .. 166 ]
+sequence
+----------YKQEEVKKHGKDADRIWVTYKDGVYDVTDFIAMHPGG-DKILLAAGAAVDPFWALY--SQ
+HKTKEVLEILE--GYRIGKLDVKDVPKPVA*
+>P1;gi|128185|sp|P27967|NIA1_HORVU Nitrate reductase [NADH] (NR) >gi... [ score 123 E 1e-27 ] [ range 539 .. 612 ]
+sequence
+--------KQFTMSEVRKHGSKESAWIVVHG-HVYDCTAFLKDHPGGADSILINAGDCTEEFDAIH--SD
+KAKA----LLD--TYRIGEL----------*
+>P1;gi|14041825|dbj|BAB55002.1| nitrate reductase [Prunus persica] [ score 122 E 1e-27 ] [ range 523 .. 599 ]
+sequence
+------SSKTYSLSEVEKHNSPQSA-WIIIQGHIYDCTRFLNDHPGGADSILINAGDCTEEFDAIH--SD
+KAK----KMLE--DYRIGELV---------*
+>P1;gi|1352497|sp|P49102|NIA3_MAIZE Nitrate reductase [NADH] 3 (NR) ... [ score 122 E 2e-27 ] [ range 522 .. 595 ]
+sequence
+---------QFTMSEVRKHASQDSAWIVVHG-HVYDCTAFLKDHPGGADSILINAGDCTEEFDAIH--SD
+KAK----ELLD--TYRIGDLV---------*
+>P1;gi|548361|sp|P36841|NIA_VOLCA Nitrate reductase [NADH] (NR) >gi|... [ score 122 E 3e-27 ] [ range 499 .. 581 ]
+sequence
+---------QYTMEEVAAHNT-EESCWFVHGGKVYDATPYLDEHPGGAESILIVAGDATDEFNSIH--SS
+KAKA----MLA--QYYIGDLVASKPAAAGA*
+>P1;gi|24474446|gb|AAN15927.1| nitrate reductase [Tilia platyphyllos] [ score 121 E 3e-27 ] [ range 521 .. 594 ]
+sequence
+--------KTFSMSEVRKHNSADSAWIVVHG-NIYDCTRFLKDHPGGADSILINAGDCTEEFDAIH--SD
+KAK----KLLE--DYRVGEL----------*
+>P1;gi|730142|sp|P39866|NIA2_PHAVU Nitrate reductase [NADH] 2 (NR-2)... [ score 121 E 3e-27 ] [ range 514 .. 587 ]
+sequence
+--------KMFSVSEVKKHSSPDSA-WIIVHGHVYDCTRFLKDHPGGTDSILINAGDCTEEFDAIH--SD
+KAK----KMLE--DYRIGEL----------*
+>P1;gi|31201753|ref|XP_309824.1| ENSANGP00000018273 [Anopheles gambi... [ score 121 E 4e-27 ] [ range 28 .. 113 ]
+sequence
+-------LPEYTMDEIVKHNGPSAGIWVTYGVGVYDITSFVPKHP-GSDKVMLAAGGAIDPFWHIF--QQ
+HNTKEVLTLLE--SYRIGNLRADDVVST--*
+>P1;gi|1171707|sp|P43101|NIA_CICIN Nitrate reductase [NADH] (NR) >gi... [ score 121 E 4e-27 ] [ range 536 .. 608 ]
+sequence
+---------TFTMSEVKKHNSADSAWIVVHG-HIYDCTSFLKDHPGGSDSILLNAGDCTEEFDAIH--SD
+KAK----KLLE--EYRVGEL----------*
+>P1;gi|484212|gb|AAA33712.1| nitrate reductase apoenzyme [ score 120 E 5e-27 ] [ range 542 .. 615 ]
+sequence
+--------KMYSMSEVKKHNSADSA-WIIVHGHVYDATRFLKDHPGGIDSILINAGDCTEEFDAIH--SD
+KAK----KLLE--DFRIGEL----------*
+>P1;gi|42407400|dbj|BAD09558.1| nitrate reductase apoenzyme [Oryza s... [ score 120 E 5e-27 ] [ range 542 .. 615 ]
+sequence
+--------KQFTMSEVRKHSSQDSAWIVVHG-HVYDCTAFLKDHPGGADSILINAGDCTEEFDAIH--SD
+KAKA----LLD--TYRIGEL----------*
+>P1;gi|100901|pir||S19254 nitrate reductase (NADH) (EC 1.7.1.1) flav... [ score 120 E 5e-27 ] [ range 250 .. 323 ]
+sequence
+--------KEFTMSEVRKHASQESAWIVVHG-HVYDCTKFLKDHPGGADSILINAGDCTEEFDAIH--SD
+KAKA----LLD--TYRIGEL----------*
+>P1;gi|18913155|gb|AAL79356.1| assimilatory nitrate reductase [Dunal... [ score 120 E 5e-27 ] [ range 519 .. 603 ]
+sequence
+------SAKEFTMEEVAEHTSPESA-WFVHEGKVYDATPFLEDHPGGPDSILIATGDATEDFNAIH--SK
+KAK----NMLK--DYYIGELVASKGAAAE-*
+>P1;gi|730139|sp|P39865|NIA1_PHAVU Nitrate reductase [NADH] 1 (NR-1)... [ score 120 E 6e-27 ] [ range 516 .. 589 ]
+sequence
+--------KSYSLSEVRRHNNRDSA-WIIVNGHVYDCTRFLKDHPGGEDSILLNAGDCTEEFEAIH--SD
+KAK----KMLE--DYRIGEL----------*
+>P1;gi|5020385|gb|AAD38068.1| nitrate reductase [Zea mays] [ score 120 E 8e-27 ] [ range 539 .. 612 ]
+sequence
+--------KQFTMSEVRKHASQESAWIAVHG-HVYDCTKFLKDHPGGADSILINAGDCTEEFDAIH--SD
+KAKA----LLD--TYRIGEL----------*
+>P1;gi|486751|pir||S35228 nitrate reductase (NADH) (EC 1.7.1.1) 1 - ... [ score 120 E 1e-26 ] [ range 546 .. 619 ]
+sequence
+--------KMYSISEVRKHNTADSA-WIIVHGHIYDCTRFLKDHPGGTDSILINAGDCTEEFEAIH--SD
+KAK----KLLE--DYRIGEL----------*
+>P1;gi|1762632|gb|AAB39555.1| nitrate reductase [ score 118 E 3e-26 ] [ range 124 .. 197 ]
+sequence
+--------KMFSMSEIKKHNSAESAWIVVHG-HVYDATRFLKDHPGGSDSILINAGDCTEEFDAIH--SD
+KAK----KMIE--DFRIGEL----------*
+>P1;gi|1709267|sp|P54233|NIA1_SOYBN Inducible nitrate reductase [NAD... [ score 118 E 3e-26 ] [ range 514 .. 587 ]
+sequence
+--------KTYTMSEVRRHNNADSA-WIIVHGHVYDWTRFLKDHPGGTDRILINAGDCTEEFEAIH--SD
+KAK----QMLE--DYRIGEL----------*
+>P1;gi|18859905|ref|NP_573331.1| CG7280-PA [Drosophila melanogaster]... [ score 118 E 3e-26 ] [ range 108 .. 186 ]
+sequence
+-------LPTYRAEEVEQHNSVEKRIWVTYGLGVYDVTDFVENHPGG-DKILMAAGSAIDPFWGIY--QQ
+HNTLEVLELLE--GFRIGNLE---------*
+>P1;gi|929750|emb|CAA29497.1| unnamed protein product [Nicotiana tab... [ score 118 E 3e-26 ] [ range 362 .. 435 ]
+sequence
+--------KMYSMSEVRKHSSADSA-WIIVHGHIYDATRFLKDHPGGTDSILINAGDCTEEFDAIH--SD
+KAK----KLLE--DFRIGEL----------*
+>P1;gi|128191|sp|P27968|NIA7_HORVU Nitrate reductase [NAD(P)H] >gi|6... [ score 118 E 4e-26 ] [ range 517 .. 589 ]
+sequence
+---------QFTMSEVRRHASKDSAWIVVHG-HVYDCTAFLKDHPGGADSILINAGDCTEEFDAIH--SA
+K----ARGLLE--MYRVGEL----------*
+>P1;gi|1762630|gb|AAB39554.1| nitrate reductase [ score 118 E 4e-26 ] [ range 114 .. 187 ]
+sequence
+--------KMFSMSEVKKHNSAESAWIVVHG-NLYDATRFLKDHPGGSDNILINAGDCTEEFDAIH--SA
+KAK----KMLE--DYRIGEL----------*
+>P1;gi|66204|pir||RDNTNT nitrate reductase (NADH) (EC 1.7.1.1) nia-1... [ score 117 E 5e-26 ] [ range 532 .. 605 ]
+sequence
+--------KMYSMSEVRKHSSADSA-WIIVHGHIYDATRFLKDHPGGSDSILINAGDCTEEFDAIH--SD
+KAK----KLLE--EFRIGEL----------*
+>P1;gi|42554005|gb|EAA76848.1| hypothetical protein FG07500.1 [Gibbe... [ score 117 E 6e-26 ] [ range 104 .. 186 ]
+sequence
+------SLPCYRIDEVRKHDARSDHPWIIHRDKVYDITEWIGAHPGG-DIILRAAGGSIDRYWDIF--AI
+HKNDYVYDILN--QYLIGYVDPED------*
+>P1;gi|1402636|dbj|BAA13047.1| nitrate reductase [Spinacia oleracea] [ score 117 E 8e-26 ] [ range 552 .. 625 ]
+sequence
+--------KMYSMSEVKKHNTADSAWIVVHG-NVYNATRFLKDHPGGSDSILINAGDCTEEFDAIH--SD
+KAK----RLLE--DFRIGEL----------*
+>P1;gi|128195|sp|P17570|NIA_LYCES Nitrate reductase [NADH] (NR) >gi|... [ score 116 E 1e-25 ] [ range 537 .. 610 ]
+sequence
+--------KMYSMSEVRKHNSSDSA-WIIVHGHIYDASRFLKDHPGGVDSILINAGDCTEEFDAIH--SD
+KAK----KLLE--DFRIGEL----------*
+>P1;gi|39592076|emb|CAE75296.1| Hypothetical protein CBG23264 [Caeno... [ score 115 E 3e-25 ] [ range 279 .. 357 ]
+sequence
+----------FTRSEVSMH-CGEDDCWIIVGNYVYDVTKFVDMHPGGPEILLEFAGGDAT--DAFE--SV
+GHSMCARMMLT--KFKIGSLPEEERP----*
+>P1;gi|32351448|gb|AAP75705.1| nitrate reductase [Dunaliella salina] [ score 114 E 3e-25 ] [ range 540 .. 623 ]
+sequence
+------SGKEYTMEEVAQHTTHDSA-WFVHEGKVYDATAFLDEHPGGSDSILTATGDATEDFNAIH--SK
+K----ARNMLA--DYYIGELAASKPGAP--*
+>P1;gi|13399338|ref|NP_085075.1| cytochrome b5, outer mitochondrial ... [ score 114 E 6e-25 ] [ range 23 .. 104 ]
+sequence
+----------YRLEEVAKRNTAEETWMVIHG-RVYDITRFLSEHPGGEEVLLEQAGADATESF--E--DV
+GHSPDAREMLK--QYYIGDVHPNDLKPKD-*
+>P1;gi|17559144|ref|NP_505975.1| cytochrome b5 (5M279) [Caenorhabdit... [ score 112 E 1e-24 ] [ range 138 .. 215 ]
+sequence
+-----------TRSEVNMHCS-EDDCWIIVGNYVYDVTKFVDLHPGGPEILLEFAGGDAT--DAFE--SV
+GHSMCARMMLT--KFKIGSLPEDERP----*
+>P1;gi|6573214|gb|AAF17595.1| nitrate reductase [Chlamydomonas reinh... [ score 111 E 3e-24 ] [ range 509 .. 586 ]
+sequence
+--------KQYTLEEVAEHAS-EESCWFVHEGRVYDATPYLNDHPGGAESILITAGDATDEFNAIH--SS
+KAKA----MLA--QYYIGDLVASK------*
+>P1;gi|11177032|dbj|BAB17854.1| cytochrome b5 [Ciona savignyi] [ score 111 E 3e-24 ] [ range 10 .. 86 ]
+sequence
+----------YRLEEVKKHNNVQSA-WIIIHNKVYDLTKFLEEHPGGEEVLLEQAGDATESF---E--DV
+GHSTDAREMQK--DYYIGELHPDD------*
+>P1;gi|32413475|ref|XP_327217.1| hypothetical protein [Neurospora cr... [ score 110 E 7e-24 ] [ range 163 .. 247 ]
+sequence
+------SLPRFRLSEIRQHSSASNTPWVTYADKVYDITSWVGAHPGG-DVILRAAGGPIEPYWDIF--TI
+HKSPYVRDILE--QYCIGYIHMDD------*
+>P1;gi|1345880|sp|P49096|CYB5_MUSDO Cytochrome b5 (CYTB5) >gi|600524... [ score 109 E 2e-23 ] [ range 9 .. 86 ]
+sequence
+----------FTRAEVAKNNTKDKNWFIIH-NNVYDVTAFLNEHPGGEEVLIEQAGKDATE--HFE--DV
+GHSSDAREMMK--QYKVGELVAEER-----*
+>P1;gi|44890326|gb|AAH66748.1| Unknown (protein for MGC:76963) [Dani... [ score 108 E 3e-23 ] [ range 30 .. 109 ]
+sequence
+----------YTRKEVQVHNMGKDTWLIIH-DKVYDITSFMEEHPGGEEVLLEQAGADATESF--E--DV
+GHSTDAREMLQ--QYYIGELHMDDRKK---*
+>P1;gi|12230015|sp|O43169|CYM5_HUMAN Cytochrome b5 outer mitochondri... [ score 107 E 4e-23 ] [ range 23 .. 102 ]
+sequence
+----------YRLEEVAKRNSLKELWLVIHG-RVYDVTRFLNEHPGGEEVLLEQAGVDASESF--E--DV
+GHSSDAREMLK--QYYIGDIHPSDLKP---*
+>P1;gi|4150956|dbj|BAA37090.1| delta 5 fatty acid desaturase [Dictyo... [ score 107 E 5e-23 ] [ range 15 .. 95 ]
+sequence
+----------YTWDEVSKHNQKND-LWIIVDGKVYNITKWVPLHPGGEDILLLSAGRDATNLFESY--HP
+MTDKH-YSLIK--QYEIGYISSYEHPK---*
+>P1;gi|40739937|gb|EAA59127.1| hypothetical protein AN3862.2 [Asperg... [ score 107 E 5e-23 ] [ range 4 .. 79 ]
+sequence
+-------LPQYTSQEVAAHKSRND-LWLIINGKVYDVTEYVRDHPGGADVLIDTAGKDATE--AYE--DV
+GHSEDADEILQ--TYLIGTL----------*
+>P1;gi|13786638|pdb|1EUE|A Chain A, Rat Outer Mitochondrial Membrane... [ score 107 E 7e-23 ] [ range 7 .. 86 ]
+sequence
+----------YRLEEVAKRNTAEETWMVIHG-RVYDITRFLSEHPGGEEILLEQAGADATESF--E--DI
+GHSPDAREMLK--QYYIGDVHPNDLKP---*
+>P1;gi|24586291|ref|NP_610294.1| CG2140-PB [Drosophila melanogaster]... [ score 107 E 7e-23 ] [ range 7 .. 86 ]
+sequence
+--------KTFTRAEVAKHNTNKDTWLLIH-NNIYDVTAFLNEHPGGEEVLIEQAGKDATE--NFE--DV
+GHSNDARDMMK--KYKIGELVESER-----*
+>P1;gi|3891604|pdb|1AWP|A Chain A, Rat Outer Mitochondrial Membrane ... [ score 107 E 8e-23 ] [ range 12 .. 92 ]
+sequence
+----------YRLEEVAKRNTAEETWMVIHG-RVYDITRFLSEHPGGEELLLEQAGADATESF--E--DL
+GHSPDAREMLK--QYYIGDVHPNDLKPK--*
+>P1;gi|39585061|emb|CAE62712.1| Hypothetical protein CBG06866 [Caeno... [ score 106 E 1e-22 ] [ range 8 .. 85 ]
+sequence
+-----------TAEEVAQH-SDEDSCWIILHGKVYDVTKFLEEHPGGAEVITQLAGDSTTEFD-----DV
+GHSKDAMEMAK--EYLIGQLPESEIP----*
+>P1;gi|5263169|dbj|BAA81814.1| fatty acid desaturase [Dictyostelium ... [ score 106 E 1e-22 ] [ range 14 .. 96 ]
+sequence
+--------KQYSWSELAKHNT-ENDCWVAVDGKVYDITRWVPLHPGGKEVLLLAAGRDVTNLFESY--HP
+MSDK-PTSILK--NYEIGYISSYEHPK---*
+>P1;gi|685161|gb|AAA96244.1| nitrate reductase >gi|685163|gb|AAA9624... [ score 106 E 1e-22 ] [ range 4 .. 77 ]
+sequence
+--------KQFTMSEVRKHGSQDSAWIVVHG-HVYDCTAFLKDHPGGADSILINAGDCTEEFDAIH--SD
+KAKA----LLD--AHRIGQL----------*
+>P1;gi|15225731|ref|NP_180831.1| cytochrome b5, putative [Arabidopsi... [ score 106 E 1e-22 ] [ range 8 .. 88 ]
+sequence
+----------FTLSEVSEHNQAHD-CWIVINGKVYNVTKFLEDHPGGDDVLLSSTGKDAT--DDFE--DV
+GHSESAREMME--QYYVGEIDPTTIPKK--*
+>P1;gi|38106574|gb|EAA52864.1| hypothetical protein MG05992.4 [Magna... [ score 105 E 2e-22 ] [ range 141 .. 224 ]
+sequence
+------SRPRHRLSDIRQHGPGSKNPWVTFEDKVYDITDWVGAHPGG-DVILRAAGGAIEPYWDIF--TI
+HKATHVREILD--QYMIGYIAIED------*
+>P1;gi|266620|sp|Q01170|NIA_CHLVU Nitrate reductase [NADH] (NR) >gi|... [ score 105 E 2e-22 ] [ range 216 .. 301 ]
+sequence
+-------AKSFTMAEVETHTTMESA-WFVVDGKVYDATPFLKDHPGGADSILLVAGDATDEFNAIH--SL
+KAKKQLLE------YYIGELAEEEAAASD-*
+>P1;gi|15988286|pdb|1ICC|A Chain A, Rat Outer Mitochondrial Membrane... [ score 105 E 2e-22 ] [ range 7 .. 87 ]
+sequence
+----------YRLEEVAKRNTSEETWMVIHG-RVYDLTRFLSEHPGGEEVLREQAGADATESF--E--DV
+GHSPDAREMLK--QYYIGDVHPNDLKPK--*
+>P1;gi|685157|gb|AAA96243.1| nitrate reductase [ score 105 E 3e-22 ] [ range 4 .. 77 ]
+sequence
+--------KQFTMSEVRKHGS-EDSAWIVVHGHVYDCTAFLKDHPGGADSILINAGDCTEEFDAIH--SD
+KAKA----LLD--AHRIGQL----------*
+>P1;gi|42551605|gb|EAA74448.1| hypothetical protein FG05164.1 [Gibbe... [ score 104 E 4e-22 ] [ range 5 .. 89 ]
+sequence
+------TLPTFTRAEVEEHNS-EGSCYVTIGSKVYDITDFIEDHPGGPEYVLEYAGRDIEKILKDS--DS
+HTHSDAYEILD--ESLVGFLVPEKS-----*
+>P1;gi|1314248|gb|AAA99718.1| NADH:cytochrome c reductase [ score 104 E 4e-22 ] [ range 12 .. 89 ]
+sequence
+----------YTLEEIQKHKDSKST-WVILHHKVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARELSK--TYIIGELHPDDR-----*
+>P1;gi|12229735|sp|O04354|CYB5_BOROF Cytochrome b5 >gi|2062405|gb|AA... [ score 104 E 4e-22 ] [ range 5 .. 84 ]
+sequence
+----------FTLAEVAQHNNSKD-CWLIINGKVYDVTKFLEDHPGGDDVLLSATGKDAT--DDFE--DI
+GHSSSAKAMLD--EYYVGDIDSSSIPS---*
+>P1;gi|14719320|gb|AAK73138.1| cytochrome B5 [Oryza sativa] [ score 104 E 4e-22 ] [ range 9 .. 88 ]
+sequence
+----------YTLEEVAKHNSKDD-CWLIIGGKVYNVSKFLEDHPGGDDVLLSSTGKDAT--DDFE--DV
+GHSTTARAMMD--EYYVGDIDTSTIPA---*
+>P1;gi|685206|gb|AAA96248.1| nitrate reductase [ score 104 E 5e-22 ] [ range 4 .. 77 ]
+sequence
+--------KQFTMSEVRKHGSKDSAWIVVHG-HVYDCTGFLKDHPGGADSILINAGDCTEEFDAIH--SD
+KAKA----LLD--AHRIGEL----------*
+>P1;gi|40744898|gb|EAA64054.1| hypothetical protein AN8920.2 [Asperg... [ score 104 E 6e-22 ] [ range 2 .. 80 ]
+sequence
+--------PSYTLEQVKAHCTPDD-IWIILHNKVYEVTKYLEDHPGGSAVLIEVAGDATEAFEEI-----
+GHSDEAREQLE--PYYIGDLPDQE------*
+>P1;gi|30090027|gb|AAO17707.1| cytochrome b5 [Sorghum bicolor] [ score 103 E 1e-21 ] [ range 8 .. 82 ]
+sequence
+----------YSMEEAALHNTPDD-CWVVVDGKIYDVTKYLEDHPGGADVLLEATGDATEEFD-----DA
+GHSKSAKELMQ--DYFIGELDP--------*
+>P1;gi|38104780|gb|EAA51298.1| hypothetical protein MG09315.4 [Magna... [ score 102 E 2e-21 ] [ range 9 .. 94 ]
+sequence
+-------AAEYSLKDVASHKSANDAWMVIHG-QVYDVTKYIHDHPGGAEVLVEAAGADASE--AFD--SA
+GHSEDAFEIMA--EYRVGKAKGGSTKKPAA*
+>P1;gi|226450|prf||1513199B cytochrome b5 [ score 102 E 2e-21 ] [ range 14 .. 93 ]
+sequence
+----------YRLEEVQKHNNSQSTWIIVHH-RIYDITKFLDEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARALSE--TFIIGELHPDDRPK---*
+>P1;gi|703083|gb|AAA63169.1| cytochrome b5 [ score 102 E 2e-21 ] [ range 12 .. 91 ]
+sequence
+----------YTLEEIQKHNHSKSTWLILHH-KVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDAREMSK--TFIIGELHPDDRPK---*
+>P1;gi|38103467|gb|EAA50161.1| hypothetical protein MG03920.4 [Magna... [ score 101 E 3e-21 ] [ range 5 .. 89 ]
+sequence
+------TLPSFTQAEVEAHNT-NRSCYVTVGQNVYDVTDFLDAHPGGADLVLDYAGKDIGAILKDE--DS
+HTHTEAYEILE--ESLVGFLKPDKS-----*
+>P1;gi|3859488|gb|AAC72755.1| delta-5 fatty acid desaturase [Mortier... [ score 101 E 3e-21 ] [ range 7 .. 87 ]
+sequence
+--------KTFTWEELAAHNTKDDLLLAIRG-RVYDVTKFLSRHPGGVDTLLLGAGRDVTPVFEMY--HA
+FGAADA--IMK--KYYVGTLVSNELP----*
+>P1;gi|27065383|pdb|1LJ0|A Chain A, Structure Of Quintuple Mutant Of... [ score 102 E 3e-21 ] [ range 12 .. 92 ]
+sequence
+----------YRLEEVAKRNTSEETWMVLHG-RVYDLTRFLSEHPGGEEVLREQAGADATESF--E--DV
+GHSPDAREMSK--QYYIGDVHPNDLKPK--*
+>P1;gi|1076621|pir||S46306 cytochrome b5 - common tobacco >gi|296386... [ score 102 E 3e-21 ] [ range 11 .. 91 ]
+sequence
+----------FTLAEVSQHNNAKD-CWLVISGKVYDVTKFLDDHPGGDEVLLSATGKDAT--DDFE--DV
+GHSSSARAMLD--EYYVGDIDSATIPTK--*
+>P1;gi|15222687|ref|NP_173958.1| cytochrome b5, putative [Arabidopsi... [ score 102 E 3e-21 ] [ range 8 .. 86 ]
+sequence
+----------YSMEEAATHN-KQDDCWVVIDGKVYDVSSYMDEHPGGDDVLLAVAGKDAT--DDFE--DA
+GHSKDARELME--KYFIGELDESSLP----*
+>P1;gi|27868666|gb|AAO24766.1| cytochrome b5 [Anopheles gambiae] [ score 101 E 3e-21 ] [ range 5 .. 85 ]
+sequence
+--------KTYSLADVKSHNTNKSTWIVIHND-IYDVTEFLNEHPGGEEVLLEQAGR--EATEAFE--DV
+GHSSDAREMMK--KFKVGELIEAERK----*
+>P1;gi|17509473|ref|NP_491931.1| cytochrome b5 (15.6 kD) (1H317) [Ca... [ score 101 E 3e-21 ] [ range 8 .. 91 ]
+sequence
+-----------SLDEVSKHNDADQSCWIVISGKVYDVTKFLNEHPGGEEVITQLAGKDATV--GFL--DV
+GHSKDAIEMAN--EYLIGQLPESDVPKVE-*
+>P1;gi|19921470|ref|NP_609852.1| CG6870-PA [Drosophila melanogaster]... [ score 101 E 4e-21 ] [ range 41 .. 121 ]
+sequence
+-------LPEIALEEVAQHDSFDD-CWVVIYDRVYDVTHFLRDHPGGDDVIMDHAGRDATI--AFH--GT
+GHSGDAIEMMK--DFLIGQLPTKQH-----*
+>P1;gi|45198298|ref|NP_985327.1| AFL223Wp [Eremothecium gossypii] >g... [ score 101 E 4e-21 ] [ range 44 .. 126 ]
+sequence
+----------YTYQEIAEHNS-ENDLWLIINGKVYDCTKFAEEHPGGDEVLIDLAGDATEPFADI-----
+GHSDDAVKMLE--GLYVGDLDKDSEPVVSA*
+>P1;gi|39545945|gb|AAR28035.1| delta-5 desaturase [Mortierella alpina] [ score 100 E 8e-21 ] [ range 7 .. 87 ]
+sequence
+--------KTFTWEELAAHNTEGDLLLAIRG-NVYDVTKFLSRHPGGTDTLLLGAGRDVTPVFEMY--HE
+FGAADA--IMK--KYYVGTLVSNELP----*
+>P1;gi|39596430|emb|CAE63049.1| Hypothetical protein CBG07320 [Caeno... [ score 100 E 9e-21 ] [ range 4 .. 84 ]
+sequence
+-------LKQMTLKEISDHNTNKSA-WLVIGNKVYDVTKFLDEHPGGCEVLLEQAGGDGTE--AFE--DV
+GHSTDARHMKE--EYLIGEVVEEER-----*
+>P1;gi|41017070|sp|O74212|FAD5_MORAP Delta-5 fatty acid desaturase >... [ score 100 E 1e-20 ] [ range 7 .. 88 ]
+sequence
+--------KTFTWEELAAHNTKGD-LFLAIRGRVYDVTKFLSRHPGGVDTLLLGAGRDVTPVFEMY--HA
+FGAADA--IMK--KYYVGTLVSNELPV---*
+>P1;gi|729252|sp|P40934|CYB5_BRAOL Cytochrome B5 >gi|7430587|pir||T1... [ score 100 E 1e-20 ] [ range 11 .. 88 ]
+sequence
+-------------EEVSQHNKTKD-CWLIISGKVYDVTPFMDDHPGGDEVLLSSTGKDAT--NDFE--DV
+GHSDTARDMME--KYYIGEIDSSTVPAT--*
+>P1;gi|39595402|emb|CAE60440.1| Hypothetical protein CBG04048 [Caeno... [ score 100 E 1e-20 ] [ range 8 .. 91 ]
+sequence
+-----------SLEEVSKHNGVDKSCWIVISGKVYDVTKFLNEHPGGEEVITQLAGKDATV--GFL--DV
+GHSKDAIEMTK--EYLIGQLPESEVSKSE-*
+>P1;gi|34905998|ref|NP_914346.1| putative cytochrome B5 [Oryza sativ... [ score 100 E 1e-20 ] [ range 8 .. 87 ]
+sequence
+-----------TLEEVSKHNTKDD-CWLIIGGKVYNVTKFLEDHPGGDDVLLSSTAKDAT--DDFE--DV
+GHSTTARAMMD--EYYVGDIDATTIPTK--*
+>P1;gi|25282551|pir||JC7671 ascidian cytochrome b5, Pmb5 - sea squir... [ score 100 E 1e-20 ] [ range 15 .. 91 ]
+sequence
+-----------RYEEVKQHNSIKSAWNVIH-NKVYDVTKFLEDHPGGEEVLLEQAGKNATE--AFE--DV
+GHSSDARSLAE--EHLIGELHPDDH-----*
+>P1;gi|15239718|ref|NP_199692.1| cytochrome b5 [Arabidopsis thaliana... [ score 99 E 2e-20 ] [ range 8 .. 89 ]
+sequence
+----------FTLSEVSQHSSAKD-CWIVIDGKVYDVTKFLDDHPGGDEVILTSTGKDAT--DDFE--DV
+GHSSTAKAMLD--EYYVGDIDTATVPVKA-*
+>P1;gi|42546925|gb|EAA69768.1| hypothetical protein FG02137.1 [Gibbe... [ score 99 E 2e-20 ] [ range 4 .. 75 ]
+sequence
+----------FTAKEVAAHNTRGD-CWTIIKGQVYDVTKYMEDHPGGADVLIESAGKDSTI--EFD--SA
+GHSEDAFEIME--EYRIGE-----------*
+>P1;gi|1345925|sp|P49099|CYS5_TOBAC Cytochrome b5, seed isoform >gi|... [ score 99 E 2e-20 ] [ range 8 .. 88 ]
+sequence
+----------FTLAEVSNHNNAKD-CWLIISGKVYNVTKFLEDHPGGGEVLLSATGKDAT--DDFE--DI
+GHSSSARAMLD--EYYVGDIDSSTIPTK--*
+>P1;gi|25044825|gb|AAM28288.1| cytochrome b5 [Ananas comosus] [ score 99 E 3e-20 ] [ range 8 .. 90 ]
+sequence
+----------YGFEEVAKHNATKD-CWLIISGKVYDVTPFMDEHPGGDEVLLAATGKDAT--NDFE--DV
+GHSNSAREMMA--KYCIGEIDAATVPAKRA*
+>P1;gi|17550742|ref|NP_510335.1| cytochrome b5 (XO621) [Caenorhabdit... [ score 99 E 3e-20 ] [ range 8 .. 90 ]
+sequence
+-------LKQITLKEIAEHNTNKSA-WLVIGNKVFDVTKFLDEHPGGCEVLLEQAGSDGTE--AFE--DV
+GHSTDARHMKD--EYLIGEVVASERKT---*
+>P1;gi|2695711|emb|CAA04703.1| cytochome b5 [Olea europaea] [ score 98 E 3e-20 ] [ range 8 .. 88 ]
+sequence
+----------YVYEEVEKHDKTKD-CWLVINGKVYDVTPFMDDHPGGDEVLLSATGKDAT--NDFE--DV
+GHSDSAREMMD--KYYIGEIDVSTVPTK--*
+>P1;gi|15238776|ref|NP_200168.1| cytochrome b5 isoform 1 [Arabidopsi... [ score 98 E 3e-20 ] [ range 9 .. 88 ]
+sequence
+-----------SFEEVSKHNKTKD-CWLIISGKVYDVTPFMDDHPGGDEVLLSSTGKDAT--NDFE--DV
+GHSDTARDMMD--KYFIGEIDSSSVPAT--*
+>P1;gi|30090033|gb|AAO86521.1| cytochrome B5 [Triticum monococcum] [ score 97 E 7e-20 ] [ range 8 .. 86 ]
+sequence
+----------YSMKEAALHNTPDD-CWIVVDGKIYDVTAYLDDHPGGADVLLGVTGDGTEEF---E--DA
+GHSKDAKELMK--DYFIGELDLDETP----*
+>P1;gi|27924030|gb|AAO27755.1| reductase [Fusarium sporotrichioides] [ score 97 E 7e-20 ] [ range 3 .. 80 ]
+sequence
+---------EYTVKQVAEHNKPDDSWLIIHG-KVYDVTRYIRDHPGGADVLVEAAGDASEDFDN-----A
+GHSEDAFEIME--DLCIGKIKGFE------*
+>P1;gi|117805|sp|P00168|CYB5_ALOSE Cytochrome b5 [ score 97 E 7e-20 ] [ range 8 .. 87 ]
+sequence
+----------YTLEEIQKHNHSKSTWLILHH-KVYDLTKFLEEHPGGEEVLREQAGGDATE--DFE--DV
+GHSTDARELSK--TYIIGELHPDDRPK---*
+>P1;gi|31419550|gb|AAH53263.1| Unknown (protein for MGC:64123) [Dani... [ score 97 E 1e-19 ] [ range 14 .. 91 ]
+sequence
+----------YRLSEVEERNSFKST-WIIIHNKVYDVTKFLEEHPGGEEVLREQAGGDATESF--E--DV
+GHSTDAREMAS--SMLIGEVHPDDR-----*
+>P1;gi|1345879|sp|P49097|CYB5_CUSRE Cytochrome b5 >gi|7430589|pir||T... [ score 96 E 1e-19 ] [ range 7 .. 89 ]
+sequence
+----------YSLAEVSEHSQPND-CWLVIGGKVYDVTKFLDDHPGGADVLLSSAKDATDDFEDI-----
+GHSSSARAMMD--EMCVGDIDSSTIPTKTS*
+>P1;gi|28828102|gb|AAO50785.1| similar to cytochrome b5 (dbj|BAA7483... [ score 96 E 1e-19 ] [ range 5 .. 77 ]
+sequence
+--------KQYTMEEVSKHDKVDDLWMVI-NQKVYDVTSFVNDHPGGGDYLIQNAGK--EATNEFL--DV
+GHSQKAVDMLK--DYYIG------------*
+>P1;gi|31241023|ref|XP_320925.1| ENSANGP00000017691 [Anopheles gambi... [ score 96 E 2e-19 ] [ range 22 .. 103 ]
+sequence
+---------QYSLAQVAEHNKPNDVWMVIH-DKVYDVTKFLAEHPGGEEVLIEFAGK--EATADFD--DV
+GHSTDAKEQMK--QFLVGEILEAERKKK--*
+>P1;gi|208781|gb|AAA72186.1| microsomal cytochrome b-5 [ score 96 E 2e-19 ] [ range 8 .. 85 ]
+sequence
+----------YTLEQIQKHNNSKST-WLILDYKVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARELSK--TFIIGELHPDDR-----*
+>P1;gi|20137975|sp|Q9HFV1|CYB5_RHIST Cytochrome b5 >gi|10834811|gb|A... [ score 96 E 2e-19 ] [ range 6 .. 80 ]
+sequence
+----------FSLDEVSKHKTKSD-LWVVIHNKVYDITRFVVEHPGGEEVLVDEGGKDATE--AFE--DI
+GHSDEAREMLE--EYLIGSLDE--------*
+>P1;gi|2647949|emb|CAA04702.1| cytochrome b5 [Olea europaea] [ score 96 E 2e-19 ] [ range 5 .. 85 ]
+sequence
+----------FTLAEVSEHNNAKD-CWLIIDGKVYDVTKFLEDHPGGDEVLLSATGKDAT--DDFE--DV
+GHSSTAKAMMD--EFYVGDFDTSTVPTK--*
+>P1;gi|224985|prf||1205244A cytochrome b5 [ score 96 E 2e-19 ] [ range 11 .. 88 ]
+sequence
+----------YYLEEIKKHNHSKSTWLILHH-KVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARELSK--TYIIGELHPDDR-----*
+>P1;gi|38106528|gb|EAA52821.1| hypothetical protein MG05949.4 [Magna... [ score 95 E 3e-19 ] [ range 3 .. 83 ]
+sequence
+------SAKTFTREEVKKHNT-EDDVWFIIDSVVYDVSDFLDAHPGGEAVLRQAAGDATTDFYNLH----
+-----RHEVLT--KYKIGTIVNEKP-----*
+>P1;gi|13787017|pdb|1I5U|A Chain A, Solution Structure Of Cytochrome... [ score 95 E 3e-19 ] [ range 5 .. 82 ]
+sequence
+----------YTLEEIQKHNNSKSTWLILHY-KVYDLTKFLEEHPGGEEVLRAQAGGDATA--NFE--AV
+GHSTDARELSK--TFIIGELHPDDR-----*
+>P1;gi|6323928|ref|NP_013999.1| Required for the hydroxylation of th... [ score 95 E 4e-19 ] [ range 12 .. 96 ]
+sequence
+----------FSKKTVQEHNTAND-CWVTYNRKIYDVTRFLSEHPGGDESILDYAGKDITEIMKDS--DV
+HHSDSAYEILE--DYLIGYLATDEEAA---*
+>P1;gi|29726434|pdb|1M2I|A Chain A, Crystal Structure Of E44aE56A MU... [ score 94 E 5e-19 ] [ range 5 .. 82 ]
+sequence
+----------YTLEEIQKHNNSKSTWLILHY-KVYDLTKFLEEHPGGEAVLREQAGGDATA--NFE--DV
+GHSTDARELSK--TFIIGELHPDDR-----*
+>P1;gi|42549805|gb|EAA72648.1| hypothetical protein FG08620.1 [Gibbe... [ score 94 E 5e-19 ] [ range 5 .. 89 ]
+sequence
+--------KEFTMQDVAEHNTSKDIYMVVH-DKVYDCSKFLDEHPGGEEVMLDVAGQDATE--AFE--DV
+GHSDEAREVLE--GLLVGELPGDEGPK---*
+>P1;gi|37536104|ref|NP_922354.1| putative cytochrome [Oryza sativa (... [ score 94 E 5e-19 ] [ range 8 .. 88 ]
+sequence
+----------FGFEEVAGHNVTKD-CWLIIAGKVYDVTSFMDEHPGGDEVLLAVTGKDAT--NDFE--DI
+GHSESAREMME--KYLIGEIDASTIPVK--*
+>P1;gi|42555729|gb|EAA78535.1| hypothetical protein FG11423.1 [Gibbe... [ score 92 E 2e-18 ] [ range 929 .. 1011 ]
+sequence
+-------LPTISQSSLALHTGKGGRMWIAVHGSVYDVTDFCPMHPGGTLIIKSNAGVDCTKSFDNL--AH
+TNNPEVSSLLT--RYFIGHLSP--------*
+>P1;gi|18376335|emb|CAD21081.1| related to fatty acid hydroxylase [N... [ score 93 E 2e-18 ] [ range 5 .. 92 ]
+sequence
+------TLPTLTIDEVESHNSAKS-CYVTVGRNVYDVTDFLDSHPGGADLVLDWAGKDIGAILKDE--AS
+HTHSEAYEVLD--ESLVGYLASGNGAAA--*
+>P1;gi|45446819|gb|AAN09163.3| CG3566-PB [Drosophila melanogaster] [ score 92 E 2e-18 ] [ range 3 .. 86 ]
+sequence
+--------KEIRLATVNEHNKATD-LWVVIDNKVYDVTKFRLEHPGGEESLVDEAGRDATK--AFN--DV
+GHSSEAREMLK--KYYIGDLAAADIKKKS-*
+>P1;gi|4204575|gb|AAD10774.1| cytochrome b5 DIF-F [Petunia x hybrida... [ score 92 E 2e-18 ] [ range 7 .. 84 ]
+sequence
+----------FTLSQVAEHKSKQD-CWIIINGRVVDVTKFLEEHPGGEEVLIESAGKDATK--EFQ--DI
+GHSKAAKNLLF--KYQIGYLQGYKA-----*
+>P1;gi|40746791|gb|EAA65947.1| hypothetical protein AN0918.2 [Asperg... [ score 92 E 2e-18 ] [ range 5 .. 89 ]
+sequence
+------TLPTFTPAEVESHNSAKS-CYVTIGSKVYDITSFVDDHPGGGDLVLEYAGKDVTEILDPV--SH
+THSESAYEILE--DNLVGFIGSESS-----*
+>P1;gi|16033740|gb|AAL13311.1| delta-5 fatty acid desaturase [Pythiu... [ score 92 E 2e-18 ] [ range 7 .. 83 ]
+sequence
+--------KTFTWQEVAKHNTAKSA-WVIIRGEVYDVTEWADKHPGGSELIVLHSGRCTDTFYSYH--PF
+SNRAD--KILA--KYKIGKLV---------*
+>P1;gi|28202143|gb|AAO34680.1| reductase [Gibberella zeae] >gi|42549... [ score 92 E 2e-18 ] [ range 3 .. 80 ]
+sequence
+---------EYTVKQVVEHNKPDDAWLIIHG-NVYDVSKYIRDHPGGADVLVEAAGDASEDFDN-----A
+GHSEDAFEIME--DLCVGKVKGFE------*
+>P1;gi|40739226|gb|EAA58416.1| hypothetical protein AN6394.2 [Asperg... [ score 92 E 3e-18 ] [ range 3 .. 90 ]
+sequence
+--------KTFTRDEVAKHNT-EDSLWCIIDHRVYDLTDFLDAHPGGSVVLSQIAGDATTDFYNLH----
+-----RHEVLT--KYRIGTIADEKPPTPD-*
+>P1;gi|7331156|gb|AAF60299.1| cytochrome b5 DIF-F [Petunia x hybrida] [ score 92 E 3e-18 ] [ range 7 .. 84 ]
+sequence
+----------FTLSQVAEHKSKQD-CWIIINGRVVDVTKFLEEHPGGEEVLIESAGDATKEFQDIG--HS
+KATK---NLLF--KYQIGYLQGYKA-----*
+>P1;gi|25956288|gb|AAN75707.1| delta 4-desaturase [Thraustochytrium ... [ score 91 E 5e-18 ] [ range 10 .. 81 ]
+sequence
+-----------TMDTVRNHNMPDDAWCAIHGT-VYDITKFSKVHPGG-DIIMLAAGKEATILFETY--HI
+KGVPDA--VLR--KYKVGKLP---------*
+>P1;gi|31221791|ref|XP_317090.1| ENSANGP00000019710 [Anopheles gambi... [ score 91 E 5e-18 ] [ range 59 .. 137 ]
+sequence
+--------PVISLSEVAYHDCYDD-CWIVLYDRVYDITNFLRLHPGGHDVLVENAGRDATI--AFL--NA
+GHSAMAIKSLK--LYEIGELPPNE------*
+>P1;gi|251978|gb|AAB22636.1| cytochrome b5 [mice, D2, liver microsom... [ score 91 E 6e-18 ] [ range 11 .. 88 ]
+sequence
+----------YTLEEIEKHKDSKST-WVILHHKVYDLTKFLEEHPGGEEVLREQAGDATENF---E--DV
+GHSTDARELSK--TYIIGELHPDDR-----*
+>P1;gi|40739597|gb|EAA58787.1| hypothetical protein AN7984.2 [Asperg... [ score 91 E 7e-18 ] [ range 1 .. 76 ]
+sequence
+---------MYTRKDVAHHNARHS-CWVIVSNHVYDVTKFLDAHPGGAGAILLYAGKDATAVF--E--AT
+HPAGTLGQLPH--EYHLGPVAP--------*
+>P1;gi|40644254|emb|CAD22050.1| cytochrome b5 [Oryza sativa (japonic... [ score 91 E 7e-18 ] [ range 13 .. 95 ]
+sequence
+----------FSASDVVGHASRKD-CWVVIHGKVYDVTKFLEDHPGGEDVLLSASGDATEAF---E--DV
+GHSTSAISMMN--NYLIGSIKDYVPPSAS-*
+>P1;gi|32405232|ref|XP_323229.1| hypothetical protein [Neurospora cr... [ score 90 E 1e-17 ] [ range 4 .. 88 ]
+sequence
+---------EFTYQDVAEHNTKKD-LYVVIHDKVYDITKFVDEHPGGEEVLLDVAGQDSTE--AFE--DV
+GHSDEAREALE--PLLVGTLKRQAGPKPKA*
+>P1;gi|730148|sp|P39864|NIA_PHYIN Nitrate reductase [NADPH] (NR) >gi... [ score 90 E 1e-17 ] [ range 537 .. 609 ]
+sequence
+-------LPLIFADEVAKHNSKKS-CWFICRDLVYDATPFLDEHPGGATSILLCGGDCTDEFESIH--ST
+K----AWQMLK--KYCIG------------*
+>P1;gi|32416576|ref|XP_328766.1| hypothetical protein [Neurospora cr... [ score 90 E 1e-17 ] [ range 2 .. 77 ]
+sequence
+-------AATFTLDDVRKHNSKDDVWMVIH-NKVYNVTTYLEDHPGGSIILREVAGDATEQFVEI-----
+GHSVEATDILE--ELYVGDL----------*
+>P1;gi|15219780|ref|NP_176265.1| cytochrome b5 domain-containing pro... [ score 90 E 1e-17 ] [ range 47 .. 121 ]
+sequence
+--------KSYSKSEVAVHNKRND-CWIIIKDKVYDITSYVEEHPGG-DAILDHAGDDST--DGFF--GP
+QHATRVFDMIE--DFYIGELH---------*
+>P1;gi|40253472|dbj|BAD05422.1| cytochrome b5-like [Oryza sativa (ja... [ score 89 E 2e-17 ] [ range 41 .. 116 ]
+sequence
+------TFRSYTKEEISAHNTRTD-CWVIIKDKVYDVTSYVEEHPGG-DAILNNAGGDSTE--GFF--GP
+QHGFRVFEIIE--DFCIGEL----------*
+>P1;gi|20069125|gb|AAM09688.1| delta-4 fatty acid desaturase [Thraus... [ score 89 E 2e-17 ] [ range 12 .. 81 ]
+sequence
+-------------EQVRAHNKPDDAWCAIHG-HVYDVTKFASVHPGG-DIILLAAGKEATVLYETY--HV
+RGVSDA--VLR--KYRIGKLP---------*
+>P1;gi|229384|prf||711683D cytochrome b5 fragment [ score 89 E 2e-17 ] [ range 5 .. 82 ]
+sequence
+----------YTLQEIKHNNSKST--WLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARELSK--TFIIGELHPDDR-----*
+>P1;gi|30526321|gb|AAP32278.1| nitrate reductase ['Chlorella' ellips... [ score 89 E 2e-17 ] [ range 495 .. 581 ]
+sequence
+---------RYCMAEIEQHASKESA-WFVRDGKVYDGTAFLKDHPGGAESILLASGDSSDDFNAIH--SA
+KAK----RMLN--DYEIGPMSSGSAPPP--*
+>P1;gi|229382|prf||711683B cytochrome b5 fragment [ score 89 E 2e-17 ] [ range 8 .. 86 ]
+sequence
+----------YTLQEI-KHNHSKSTWLILHH-KVYDLTKFLEEHPGGEEVLREQAGGDATE--NFE--DV
+GHSTDARELSK--TYIIGELHPDDKP----*
+>P1;gi|42547140|gb|EAA69983.1| hypothetical protein FG10285.1 [Gibbe... [ score 88 E 4e-17 ] [ range 4 .. 81 ]
+sequence
+---------TFSREEVRSHTS-DESLWCIIDSTVYDLTDFVDAHPGGETVLRQVAGDATTAFYNLH----
+-----RHEVLT--KYKVGTIEGEKA-----*
+>P1;gi|42545002|gb|EAA67845.1| hypothetical protein FG01027.1 [Gibbe... [ score 88 E 4e-17 ] [ range 5 .. 81 ]
+sequence
+----------FDAAEVAKHNTPES-CWVILYGKVYDVTEFLPSHPGGKKIILKLAGDATEEYDPVH--PP
+GTLEENLK--P--EHVLGEINPE-------*
+>P1;gi|29469883|gb|AAO73962.1| cytochrome b5 [Candida tropicalis] [ score 88 E 4e-17 ] [ range 11 .. 87 ]
+sequence
+----------YTHEEVAQHTTHDD-LWVILNGKVYNISNYIDEHPGGEEVILDCAGDATEAFDDI-----
+GHSDEAHEILE--KLYIGNLKGAK------*
+>P1;gi|43551132|gb|EAE30343.1| unknown [environmental sequence] [ score 88 E 5e-17 ] [ range 178 .. 251 ]
+sequence
+-----------TMDEVSKHNS-EGDLWVIIEGSVYDLTAFLPDHPGGKKAIMLFAGDATEEFNMLH--PP
+N-------VLK--KYKVGELA---------*
+>P1;gi|14456133|emb|CAC41650.1| putative nitrate reductase [Ustilago... [ score 88 E 5e-17 ] [ range 589 .. 671 ]
+sequence
+-----------TAADLAAHGDGEGEPWFVVHGHVYDGTGFLKDHPGGDQSIRLVAGDATEDFMAIH--SM
+----DAKKMLR--DFHLGRLEKQDAAPPAA*
+>P1;gi|24665065|ref|NP_648843.1| CG5157-PA [Drosophila melanogaster]... [ score 87 E 8e-17 ] [ range 5 .. 81 ]
+sequence
+----------YELSEVAQQNGKNGKCWLIIKGNVYDVTKFLGEHPGGSEALLEYGGKDATK--AFK--QA
+GHSSDAEKDLK--NYKIGEINS--------*
+>P1;gi|40745745|gb|EAA64901.1| hypothetical protein AN2069.2 [Asperg... [ score 87 E 8e-17 ] [ range 2 .. 78 ]
+sequence
+------SAKELTFKEVAEHNTKKDLYMVIH-DKVYDCSSFVDEHPGGEEVLLDVGGQDATE--AFE--DV
+GHSDEAREILQ--GLLVGDL----------*
+>P1;gi|38110907|gb|EAA56556.1| hypothetical protein MG06527.4 [Magna... [ score 87 E 9e-17 ] [ range 1003 .. 1069 ]
+sequence
+---------------------PGQRMWIGVHGSVYDVTDFCPMHPGGTLIIRSNAGVDCSKSFDSL--GH
+TNNPEVSSLLT--KYFVGHLTP--------*
+>P1;gi|38101763|gb|EAA48677.1| hypothetical protein MG00335.4 [Magna... [ score 87 E 1e-16 ] [ range 5 .. 64 ]
+sequence
+----------FDAEEVAKHNTPES-CWVILYGDVYDVTDFVPSHPGGSRIILQLAGDATEEYDPVH--PP
+GT----------------------------*
+>P1;gi|23894018|emb|CAD53323.1| delta 5 fatty acid desaturase [Phyto... [ score 87 E 1e-16 ] [ range 29 .. 104 ]
+sequence
+---------TFTWQDVAKHNTAKSA-WVTIRGVVYDVTEWADRHPGGRELVLLHSGRECTDTFDSY--HP
+F-SDRADKILA--KYAIGKLV---------*
+>P1;gi|43231570|gb|EAC81369.1| unknown [environmental sequence] [ score 86 E 1e-16 ] [ range 28 .. 98 ]
+sequence
+----------FTADEVAKHASASD-CWVIVRGGVYDVTRFVPKHPGGNMIYVKAGGECTALFDSYH--P-
+---ERARAVLE--KYRIGDL----------*
+>P1;gi|42733766|gb|AAS38697.1| hypothetical protein [Dictyostelium d... [ score 85 E 3e-16 ] [ range 2 .. 83 ]
+sequence
+------SEKTFTRQEVAKHCSLNS-LWIIYNDDVFDVTNFVVEHPGGEEVLKGNGGDATQEFD-----DV
+GHSASAIAKMQ--SLRIGRIEGAKP-----*
+>P1;gi|19075497|ref|NP_587997.1| probable cytochrome b5 [Schizosacch... [ score 86 E 3e-16 ] [ range 4 .. 78 ]
+sequence
+--------KTITVEEVLKHNTRDD-LYIVVKDKVYDISKFLDAHPGGEEVLVDLAGDASGPF---E--DV
+GHSEDAQELLE--KFYIGNL----------*
+>P1;gi|42551869|gb|EAA74712.1| hypothetical protein FG04852.1 [Gibbe... [ score 85 E 3e-16 ] [ range 9 .. 91 ]
+sequence
+---------EFSLADVKLHNT-EDDIYIAIHGKVYDVTSFLQEHPGGAEFLLEVAGDATEAYDNT-----
+GHSDEAHEILP--ELEVGTLKLDPASKMD-*
+>P1;gi|32421745|ref|XP_331316.1| hypothetical protein [Neurospora cr... [ score 85 E 4e-16 ] [ range 10 .. 87 ]
+sequence
+--------KTFTREEVKKHNT-EDSTWFIIDSVVYDVSEFLDAHPGGEAVLRQVAGDATSAFYNLH----
+-----RHEVLI--KYNIGSIKGEK------*
+>P1;gi|38110336|gb|EAA56072.1| hypothetical protein MG01723.4 [Magna... [ score 85 E 4e-16 ] [ range 4 .. 75 ]
+sequence
+-----------TGAEVAKHDSSQS-CWVIVHGKAYDVTEFLPEHPGGAKIILKYAGDATEEFDPIH--PP
+-------DTLD--KY----LDKSKHMGP--*
+>P1;gi|19075124|ref|NP_586725.1| similarity to HYPOTHETICAL PROTEIN ... [ score 84 E 5e-16 ] [ range 15 .. 89 ]
+sequence
+------SFAPLTADEVSKHN-RSDDCWIIMDGVVYDVTDFLRLHPGGVDTIMEYAGKDCT--DAFN--QA
+HGYINKNELLF--NSIVG------------*
+>P1;gi|40739642|gb|EAA58832.1| hypothetical protein AN3901.2 [Asperg... [ score 85 E 5e-16 ] [ range 7 .. 61 ]
+sequence
+-----------TGADVAKHNSKDS-CWVIVHGKAYDVTEFLPEHPGGQKIILKYAGDATEEFDPIH----
+------------------------------*
+>P1;gi|13399338|ref|NP_085075.1| cytochrome b5, outer mitochondrial ... [ score 153 E 9e-37 ] [ range 17 .. 102 ]
+sequence
+----DPAVTYYRLEEVAKRNTAE-ETWMVIHGRVYDITRFLSEHPGGEEVLLEQAGADATESFEDV----
+GHSPDAREMLK--QYYIGDVHPNDLKP---*
+>P1;gi|3891604|pdb|1AWP|A Chain A, Rat Outer Mitochondrial Membrane ... [ score 147 E 7e-35 ] [ range 6 .. 91 ]
+sequence
+----DPAVTYYRLEEVAKRNTAE-ETWMVIHGRVYDITRFLSEHPGGEELLLEQAGADATESFEDL----
+GHSPDAREMLK--QYYIGDVHPNDLKP---*
+>P1;gi|12230015|sp|O43169|CYM5_HUMAN Cytochrome b5 outer mitochondri... [ score 147 E 7e-35 ] [ range 17 .. 102 ]
+sequence
+----ETSVTYYRLEEVAKRNSLK-ELWLVIHGRVYDVTRFLNEHPGGEEVLLEQAGVDASESFEDV----
+GHSSDAREMLK--QYYIGDIHPSDLKP---*
+>P1;gi|15988286|pdb|1ICC|A Chain A, Rat Outer Mitochondrial Membrane... [ score 145 E 2e-34 ] [ range 1 .. 86 ]
+sequence
+----DPAVTYYRLEEVAKRNTSE-ETWMVIHGRVYDLTRFLSEHPGGEEVLREQAGADATESFEDV----
+GHSPDAREMLK--QYYIGDVHPNDLKP---*
+>P1;gi|27065383|pdb|1LJ0|A Chain A, Structure Of Quintuple Mutant Of... [ score 143 E 1e-33 ] [ range 6 .. 91 ]
+sequence
+----DPAVTYYRLEEVAKRNTSE-ETWMVLHGRVYDLTRFLSEHPGGEEVLREQAGADATESFEDV----
+GHSPDAREMSK--QYYIGDVHPNDLKP---*
+>P1;gi|44890326|gb|AAH66748.1| Unknown (protein for MGC:76963) [Dani... [ score 135 E 2e-31 ] [ range 24 .. 108 ]
+sequence
+----DSGVKYYTRKEVQVHNMGK-DTWLIIHDKVYDITSFMEEHPGGEEVLLEQAGADATESFEDV----
+GHSTDAREMLQ--QYYIGELHMDDRK----*
+>P1;gi|1076621|pir||S46306 cytochrome b5 - common tobacco >gi|296386... [ score 132 E 2e-30 ] [ range 8 .. 88 ]
+sequence
+-------TKVFTLAEVSQHNNAK-DCWLVISGKVYDVTKFLDDHPGGDEVLLSATGKDATDDFEDV----
+GHSSSARAMLD--EYYVGDIDSATI-----*
+>P1;gi|40744898|gb|EAA64054.1| hypothetical protein AN8920.2 [Asperg... [ score 131 E 3e-30 ] [ range 2 .. 80 ]
+sequence
+--------PSYTLEQVKAHCTPD-DIWIILHNKVYEVTKYLEDHPGGSAVLIEVAGADATEAFEEI----
+GHSDEAREQLE--PYYIGDLPDQE------*
+>P1;gi|730139|sp|P39865|NIA1_PHAVU Nitrate reductase [NADH] 1 (NR-1)... [ score 129 E 1e-29 ] [ range 512 .. 593 ]
+sequence
+----NTATKSYSLSEVRRHNNRD-SAWIIVNGHVYDCTRFLKDHPGGEDSILLNAGTDCTEEFEAI----
+-HSDKAKKMLE--DYRIGELMTTD------*
+>P1;gi|30090027|gb|AAO17707.1| cytochrome b5 [Sorghum bicolor] [ score 129 E 2e-29 ] [ range 5 .. 87 ]
+sequence
+-------TKLYSMEEAALHNTPD-DCWVVVDGKIYDVTKYLEDHPGGADVLLEATGKDATEEFDDA----
+GHSKSAKELMQ--DYFIGELDPTPEIP---*
+>P1;gi|15239718|ref|NP_199692.1| cytochrome b5 [Arabidopsis thaliana... [ score 128 E 2e-29 ] [ range 6 .. 81 ]
+sequence
+--------KVFTLSEVSQHSSAK-DCWIVIDGKVYDVTKFLDDHPGGDEVILTSTGKDATDDFEDV----
+GHSSTAKAMLD--EYYVGDID---------*
+>P1;gi|730146|sp|P39869|NIA_LOTJA Nitrate reductase [NADH] (NR) >gi|... [ score 128 E 3e-29 ] [ range 521 .. 595 ]
+sequence
+-------TKMYSLSEVKKHNSPD-SAWIIVHGHVYDCTRFLKDHPGGADSILINAGTDCTEEFEAI----
+-HSDKAKKMLE--DYRVGEL----------*
+>P1;gi|15221314|ref|NP_174901.1| nitrate reductase 2 (NR2) [Arabidop... [ score 127 E 5e-29 ] [ range 539 .. 616 ]
+sequence
+----NTTAKMYSMSEVKKHNSAD-SCWIIVHGHIYDCTRFLMDHPGGSDSILINAGTDCTEEFEAI----
+-HSDKAKKMLE--DYRIGEL----------*
+>P1;gi|11119241|gb|AAG30576.1| nitrate reductase [Ricinus communis] [ score 127 E 5e-29 ] [ range 531 .. 608 ]
+sequence
+----NTSSKTVSMAEVKKHNSAD-SCWIIVHGHVYDCTRFLKDHPGGTDSILINAGTDCTEEFDAI----
+-HSDKAKKMLE--DYRIGEL----------*
+>P1;gi|42549805|gb|EAA72648.1| hypothetical protein FG08620.1 [Gibbe... [ score 127 E 6e-29 ] [ range 3 .. 88 ]
+sequence
+------ATKEFTMQDVAEHNTSK-DIYMVVHDKVYDCSKFLDEHPGGEEVMLDVAGQDATEAFEDV----
+GHSDEAREVLE--GLLVGELKPGDEGP---*
+>P1;gi|2731816|gb|AAB93560.1| nitrate reductase [Glycine max] [ score 127 E 6e-29 ] [ range 500 .. 577 ]
+sequence
+----NTTSKTYTMSEVRRHNNAD-SAWIIVHGHVYDCTRFLKDHPGGTDSILINAGTDCTEEFEAI----
+-HSDKAKQMLE--DYRIGEL----------*
+>P1;gi|1345925|sp|P49099|CYS5_TOBAC Cytochrome b5, seed isoform >gi|... [ score 127 E 7e-29 ] [ range 6 .. 85 ]
+sequence
+--------KVFTLAEVSNHNNAK-DCWLIISGKVYNVTKFLEDHPGGGEVLLSATGKDATDDFEDI----
+GHSSSARAMLD--EYYVGDIDSSTI-----*
+>P1;gi|25044825|gb|AAM28288.1| cytochrome b5 [Ananas comosus] [ score 125 E 2e-28 ] [ range 6 .. 85 ]
+sequence
+--------KIYGFEEVAKHNATK-DCWLIISGKVYDVTPFMDEHPGGDEVLLAATGKDATNDFEDV----
+GHSNSAREMMA--KYCIGEIDAATV-----*
+>P1;gi|34905998|ref|NP_914346.1| putative cytochrome B5 [Oryza sativ... [ score 125 E 2e-28 ] [ range 5 .. 84 ]
+sequence
+--------KVLTLEEVSKHNTKD-DCWLIIGGKVYNVTKFLEDHPGGDDVLLSSTAKDATDDFEDV----
+GHSTTARAMMD--EYYVGDIDATTI-----*
+>P1;gi|128193|sp|P27783|NIA_BETVE Nitrate reductase [NAD(P)H] (NR) >... [ score 125 E 2e-28 ] [ range 525 .. 602 ]
+sequence
+----NTSSKMFSMSEVKKHNSAE-SAWIIVHGHIYDCTHFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKAKKMLE--DYRIGEL----------*
+>P1;gi|2695711|emb|CAA04703.1| cytochome b5 [Olea europaea] [ score 125 E 2e-28 ] [ range 4 .. 85 ]
+sequence
+----DPKIYVY--EEVEKHDKTK-DCWLVINGKVYDVTPFMDDHPGGDEVLLSATGKDATNDFEDV----
+GHSDSAREMMD--KYYIGEIDVSTV-----*
+>P1;gi|484212|gb|AAA33712.1| nitrate reductase apoenzyme [ score 125 E 2e-28 ] [ range 538 .. 615 ]
+sequence
+----NTASKMYSMSEVKKHNSAD-SAWIIVHGHVYDATRFLKDHPGGIDSILINAGTDCTEEFDAI----
+-HSDKAKKLLE--DFRIGEL----------*
+>P1;gi|730142|sp|P39866|NIA2_PHAVU Nitrate reductase [NADH] 2 (NR-2)... [ score 125 E 3e-28 ] [ range 510 .. 587 ]
+sequence
+----NTASKMFSVSEVKKHSSPD-SAWIIVHGHVYDCTRFLKDHPGGTDSILINAGTDCTEEFDAI----
+-HSDKAKKMLE--DYRIGEL----------*
+>P1;gi|730137|sp|P39867|NIA1_BRANA Nitrate reductase [NADH], clone P... [ score 124 E 5e-28 ] [ range 536 .. 613 ]
+sequence
+----NTASKMYSMSEVRKHNSAE-SAWIIVHGHIYDCTRFLKDHPGGSDSILINAGTDCTEEFEAI----
+-HSDKAKKLLE--DYRIGEL----------*
+>P1;gi|1345879|sp|P49097|CYB5_CUSRE Cytochrome b5 >gi|7430589|pir||T... [ score 124 E 5e-28 ] [ range 5 .. 84 ]
+sequence
+--------KVYSLAEVSEHSQPN-DCWLVIGGKVYDVTKFLDDHPGGADVLLSSTAKDATDDFEDI----
+GHSSSARAMMD--EMCVGDIDSSTI-----*
+>P1;gi|32405232|ref|XP_323229.1| hypothetical protein [Neurospora cr... [ score 124 E 6e-28 ] [ range 5 .. 86 ]
+sequence
+----------FTYQDVAEHNTKK-DLYVVIHDKVYDITKFVDEHPGGEEVLLDVAGQDSTEAFEDV----
+GHSDEAREALE--PLLVGTLKAGDPKP---*
+>P1;gi|486751|pir||S35228 nitrate reductase (NADH) (EC 1.7.1.1) 1 - ... [ score 123 E 7e-28 ] [ range 542 .. 619 ]
+sequence
+----NTASKMYSISEVRKHNTAD-SAWIIVHGHIYDCTRFLKDHPGGTDSILINAGTDCTEEFEAI----
+-HSDKAKKLLE--DYRIGEL----------*
+>P1;gi|730140|sp|P39868|NIA2_BRANA Nitrate reductase [NADH], clone P... [ score 123 E 9e-28 ] [ range 536 .. 613 ]
+sequence
+----NTSAKMYSMSEVRKHNSVE-SAWIIVHGHIYDCTRFLKDHPGGSDSILINAGTDCTEEFEAI----
+-HSDKAKKLLE--DYRIGEL----------*
+>P1;gi|1709267|sp|P54233|NIA1_SOYBN Inducible nitrate reductase [NAD... [ score 123 E 1e-27 ] [ range 510 .. 587 ]
+sequence
+----NTTSKTYTMSEVRRHNNAD-SAWIIVHGHVYDWTRFLKDHPGGTDRILINAGTDCTEEFEAI----
+-HSDKAKQMLE--DYRIGEL----------*
+>P1;gi|42407404|dbj|BAD09562.1| putative nitrate reductase apoenzyme... [ score 122 E 2e-27 ] [ range 542 .. 615 ]
+sequence
+--------KQFTMSEVRKHSSQD-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKAKALLD--TYRIGEL----------*
+>P1;gi|128189|sp|P27969|NIA2_HORVU Nitrate reductase [NADH] (NR) >gi... [ score 122 E 3e-27 ] [ range 536 .. 609 ]
+sequence
+--------KQFTMSEVRKHGSKE-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGSDCTEEFDAI----
+-HSDKAKALLD--TYRIGEL----------*
+>P1;gi|1402636|dbj|BAA13047.1| nitrate reductase [Spinacia oleracea] [ score 121 E 5e-27 ] [ range 548 .. 625 ]
+sequence
+----NTTSKMYSMSEVKKHNTAD-SAWIVVHGNVYNATRFLKDHPGGSDSILINAGTDCTEEFDAI----
+-HSDKAKRLLE--DFRIGEL----------*
+>P1;gi|100901|pir||S19254 nitrate reductase (NADH) (EC 1.7.1.1) flav... [ score 121 E 5e-27 ] [ range 250 .. 323 ]
+sequence
+--------KEFTMSEVRKHASQE-SAWIVVHGHVYDCTKFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKAKALLD--TYRIGEL----------*
+>P1;gi|929750|emb|CAA29497.1| unnamed protein product [Nicotiana tab... [ score 120 E 5e-27 ] [ range 358 .. 435 ]
+sequence
+----NTASKMYSMSEVRKHSSAD-SAWIIVHGHIYDATRFLKDHPGGTDSILINAGTDCTEEFDAI----
+-HSDKAKKLLE--DFRIGEL----------*
+>P1;gi|66204|pir||RDNTNT nitrate reductase (NADH) (EC 1.7.1.1) nia-1... [ score 120 E 7e-27 ] [ range 528 .. 605 ]
+sequence
+----NTASKMYSMSEVRKHSSAD-SAWIIVHGHIYDATRFLKDHPGGSDSILINAGTDCTEEFDAI----
+-HSDKAKKLLE--EFRIGEL----------*
+>P1;gi|5020385|gb|AAD38068.1| nitrate reductase [Zea mays] [ score 120 E 7e-27 ] [ range 539 .. 612 ]
+sequence
+--------KQFTMSEVRKHASQE-SAWIAVHGHVYDCTKFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKAKALLD--TYRIGEL----------*
+>P1;gi|40745745|gb|EAA64901.1| hypothetical protein AN2069.2 [Asperg... [ score 120 E 1e-26 ] [ range 2 .. 87 ]
+sequence
+------SAKELTFKEVAEHNTKK-DLYMVIHDKVYDCSSFVDEHPGGEEVLLDVGGQDATEAFEDV----
+GHSDEAREILQ--GLLVGDLKPGDPTP---*
+>P1;gi|21165531|dbj|BAB93533.1| nitrate reductase [Solanum tuberosum] [ score 119 E 2e-26 ] [ range 372 .. 449 ]
+sequence
+----NTASKMYSMSEVRKHNSSD-SAWIIVHGHIYDASRFLKDHPGGVDSILINAGTDCTEEFDAI----
+-HSDKAKKLLE--DFRIGEL----------*
+>P1;gi|18913155|gb|AAL79356.1| assimilatory nitrate reductase [Dunal... [ score 118 E 2e-26 ] [ range 519 .. 597 ]
+sequence
+------SAKEFTMEEVAEHTSPE-SAWFVHEGKVYDATPFLEDHPGGPDSILIATGADATEDFNAI----
+-HSKKAKNMLK--DYYIGELVAS-------*
+>P1;gi|6573214|gb|AAF17595.1| nitrate reductase [Chlamydomonas reinh... [ score 117 E 5e-26 ] [ range 509 .. 585 ]
+sequence
+--------KQYTLEEVAEHASEE-SCWFVHEGRVYDATPYLNDHPGGAESILITAGADATDEFNAI----
+-HSSKAKAMLA--QYYIGDLVAS-------*
+>P1;gi|28828102|gb|AAO50785.1| similar to cytochrome b5 (dbj|BAA7483... [ score 117 E 6e-26 ] [ range 5 .. 84 ]
+sequence
+--------KQYTMEEVSKHDKVD-DLWMVINQKVYDVTSFVNDHPGGGDYLIQNAGKEATNEFLDV----
+GHSQKAVDMLK--DYYIGVC--TDSKP---*
+>P1;gi|431762|gb|AAA67468.1| cytochrome b5 [ score 117 E 7e-26 ] [ range 3 .. 83 ]
+sequence
+--------KVYSYQEVAEHNGPQ-NFWIIIDDKVYDVSQFKDEHPGGDEIIMDLGGQDATESFVDI----
+GHSDEALRLLK--GLYIGDVDKTSER----*
+>P1;gi|19112853|ref|NP_596061.1| cytochrome b5. [Schizosaccharomyces... [ score 117 E 7e-26 ] [ range 2 .. 80 ]
+sequence
+------SVKYFEPEEIVEHNNSK-DMYMVINGKVYDVSNFADDHPGGLDIMLDYAGQDATKAYQDI----
+GHSIAADELLE--EMYIGDLKP--------*
+>P1;gi|229382|prf||711683B cytochrome b5 fragment [ score 116 E 1e-25 ] [ range 2 .. 86 ]
+sequence
+----DEAVKYYTLQEI-KHNHSK-STWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATENFEDV----
+GHSTDARELSK--TYIIGELHPDD-KP---*
+>P1;gi|38110884|gb|EAA56539.1| hypothetical protein MG06510.4 [Magna... [ score 115 E 3e-25 ] [ range 4 .. 85 ]
+sequence
+--------KTFTYQDVAEHNTKK-DLFMVIHDKVYDATKFVDEHPGGEEVMLDVGGQDATEAFEDV----
+GHSDEARETLD--TLLVGKLERKAGDP---*
+>P1;gi|40742318|gb|EAA61508.1| hypothetical protein AN9217.2 [Asperg... [ score 112 E 1e-24 ] [ range 3 .. 84 ]
+sequence
+------SPASITLAEVARHSSPN-DLWIVIEGNVYDVAEYREDHPGGDEILRQFAGKDATTEFQDA----
+GHSNDAYVKLK--TLLVGSLQSKTL-----*
+>P1;gi|685159|gb|AAA96250.1| nitrate reductase [ score 112 E 2e-24 ] [ range 1 .. 77 ]
+sequence
+-----PTDKQFTMSEVRKHGSQD-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKAKALLD--AHRIGQL----------*
+>P1;gi|28571432|ref|NP_572304.4| CG3566-PB [Drosophila melanogaster] [ score 112 E 2e-24 ] [ range 3 .. 90 ]
+sequence
+--------KEIRLATVNEHNKAT-DLWVVIDNKVYDVTKFRLEASGDADCCIPVARNPWWMRPVAM----
+PPRPSMREMLK--KYYIGDLAAADIK----*
+>P1;gi|24665065|ref|NP_648843.1| CG5157-PA [Drosophila melanogaster]... [ score 111 E 3e-24 ] [ range 5 .. 80 ]
+sequence
+----------YELSEVAQQNGKK-PCWLIIKGNVYDVTKFLGEHPGGSEALLEYGGKDATKAFKQA----
+GHSSDAEKDLK--NYKIGEIN---------*
+>P1;gi|31221791|ref|XP_317090.1| ENSANGP00000019710 [Anopheles gambi... [ score 111 E 4e-24 ] [ range 59 .. 137 ]
+sequence
+--------PVISLSEVAYHDCYD-DCWIVLYDRVYDITNFLRLHPGGHDVLVENAGRDATIAFLNA----
+GHSAMAIKSLK--LYEIGELPPNE------*
+>P1;gi|39645719|gb|AAH63726.1| MGC68735 protein [Xenopus laevis] [ score 111 E 4e-24 ] [ range 22 .. 100 ]
+sequence
+---------RYSWEEIQKHNLKT-DKWLVIERKVYNITEWMKRHPGGMRVIGHYAGEDATDAFHAF----
+HPDKTVRKFLK--PLYVGELAENE------*
+>P1;gi|42551202|gb|EAA74045.1| hypothetical protein FG05328.1 [Gibbe... [ score 110 E 9e-24 ] [ range 7 .. 81 ]
+sequence
+--------------EVAEHNSAD-SCWVIVHGKAYDVTEFLPEHPGGKKIILKYAGKDATEAYEPI----
+HPPDTLDKFLE--ASHLGPVDMNTV-----*
+>P1;gi|7705899|ref|NP_057314.1| NADPH cytochrome B5 oxidoreductase; ... [ score 110 E 1e-23 ] [ range 24 .. 103 ]
+sequence
+-----------TEEELKKHNKKD-DCWICIRGFVYNVSPYMEYHPGGEDELMRAAGSDGTELFDQV----
+HRWVNYESMLK--ECLVGRIKPAVLK----*
+>P1;gi|32417000|ref|XP_328978.1| hypothetical protein [Neurospora cr... [ score 110 E 1e-23 ] [ range 11 .. 85 ]
+sequence
+--------------EVAKHNTQD-DCWVIVHGKAYDITEFLPEHPGGMKIILKYAGKDATEEFDPI----
+HPPDTLEKYLK--DKHLGPVDMSTV-----*
+>P1;gi|38110336|gb|EAA56072.1| hypothetical protein MG01723.4 [Magna... [ score 109 E 1e-23 ] [ range 6 .. 81 ]
+sequence
+-------------AEVAKHDSSQ-SCWVIVHGKAYDVTEFLPEHPGGAKIILKYAGKDATEEFDPI----
+HPPDTLDKYLD--KSHMGPVDMSTV-----*
+>P1;gi|14290486|gb|AAH09011.1| FADS2 protein [Homo sapiens] [ score 109 E 1e-23 ] [ range 15 .. 98 ]
+sequence
+----EVSVPTFSWEEIQKHNLRT-DRWLVIDRKVYNITKWSIQHPGGQRVIGHYAGEDATDAFRAF----
+HPDLEVGKFLK--PLLIGELAPEE------*
+>P1;gi|38101763|gb|EAA48677.1| hypothetical protein MG00335.4 [Magna... [ score 108 E 2e-23 ] [ range 3 .. 84 ]
+sequence
+--------KVFDAEEVAKHNTPE-SCWVILYGDVYDVTDFVPSHPGGSRIILQLAGRDATEEYDPV----
+HPPGTLEENLK--PAKLGTVDPASLE----*
+>P1;gi|45187788|ref|NP_984011.1| ADL085Cp [Eremothecium gossypii] >g... [ score 108 E 2e-23 ] [ range 94 .. 171 ]
+sequence
+-----------SIEEVSQHTSRD-DCWFIIHGRVYDITGLLENHPGGTKILLKYAGRDATLPFDDV----
+GHSMESYDMAP--GSYLGEVDGGE------*
+>P1;gi|31200777|ref|XP_309336.1| ENSANGP00000008218 [Anopheles gambi... [ score 108 E 3e-23 ] [ range 41 .. 112 ]
+sequence
+-----------SHAELAKHDRAE-DAWMAIRGKVYNVTRYMNFHPGGADELMRGAGKDATRLFEEV----
+HAWVNYESLLA--KCYIGPL----------*
+>P1;gi|24211703|sp|Q9DEX7|FADS_BRARE Delta-5/delta-6 fatty acid desa... [ score 108 E 4e-23 ] [ range 18 .. 98 ]
+sequence
+-------FSSYTWEEVQKHTKHG-DQWVVVERKVYNVSQWVKRHPGGLRILGHYAGEDATEAFTAF----
+HPNLQVRKYLK--PLLIGELEASE------*
+>P1;gi|44401536|gb|EAJ01429.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 207 .. 289 ]
+sequence
+-----PGSKLFTMSEIEAHDKEN-DAWILVQNKVYDVNKYVEEHPGGNASITMNAGTDATEDFEAV----
+-HSAKAWKQLE--PFLIGYLDPKE------*
+>P1;gi|34979829|gb|AAQ83903.1| flavohemoprotein b5/b5R variant [Ratt... [ score 107 E 5e-23 ] [ range 24 .. 102 ]
+sequence
+-----------TEEELKKHNKKD-DCWICIRGFVYNVSPYMEYHPGGEDELMRAAGADGTDLFNEV----
+HRWVNYESMLK--ECLVGRMAVKPAVP---*
+>P1;gi|24655635|ref|NP_611419.1| CG11257-PA [Drosophila melanogaster... [ score 107 E 5e-23 ] [ range 91 .. 169 ]
+sequence
+-----------SRTELARHNKID-DAWMAIRGRVFNVTRYMDFHPGGVDELMRGVGRDATKLFDEV----
+HAWVNYPQLLG--KCYVGPLKDNETKP---*
+>P1;gi|2894356|emb|CAA74005.1| nitrate reductase (NADPH) [Phaeosphae... [ score 107 E 5e-23 ] [ range 532 .. 615 ]
+sequence
+----DGVDKQISIDELRKHDNAE-NPWFVVNGEVYDGTAFLEGHPGGAQSIVSVAGLDASDEFMAI----
+-HSETAKAMMP--DYHIGSLDEASRK----*
+>P1;gi|16033740|gb|AAL13311.1| delta-5 fatty acid desaturase [Pythiu... [ score 107 E 5e-23 ] [ range 7 .. 82 ]
+sequence
+--------KTFTWQEVAKHNTAK-SAWVIIRGEVYDVTEWADKHPGGSELIVLHSGRECTDTFYSY----
+HPSNRADKILA--KYKIGKL----------*
+>P1;gi|730148|sp|P39864|NIA_PHYIN Nitrate reductase [NADPH] (NR) >gi... [ score 107 E 6e-23 ] [ range 543 .. 615 ]
+sequence
+-------------DEVAKHNSKK-SCWFICRDLVYDATPFLDEHPGGATSILLCGGTDCTDEFESI----
+-HSTKAWQMLK--KYCIGRCSSTE------*
+>P1;gi|43551132|gb|EAE30343.1| unknown [environmental sequence] [ score 107 E 6e-23 ] [ range 178 .. 251 ]
+sequence
+-----------TMDEVSKHNSEG-DLWVIIEGSVYDLTAFLPDHPGGKKAIMLFAGKDATEEFN-M----
+LHPPNV---LK--KYLVGELA---------*
+>P1;gi|1314248|gb|AAA99718.1| NADH:cytochrome c reductase [ score 147 E 7e-35 ] [ range 7 .. 92 ]
+sequence
+-----KDVKYYTLEEIQKHKDSK-STWVILHHKVYDLTKFLEEHPGGEEVLREQAGGDATENFEDV----
+GHSTDARELSK--TYIIGELHPDDRSKI--*
+>P1;gi|11177032|dbj|BAB17854.1| cytochrome b5 [Ciona savignyi] [ score 143 E 6e-34 ] [ range 5 .. 87 ]
+sequence
+-----EEKKIYRLEEVKKHNNVQ-SAWIIIHNKVYDLTKFLEEHPGGEEVLLEQAGQDATESFEDV----
+GHSTDAREMQK--DYYIGELHPDDQ-----*
+>P1;gi|208781|gb|AAA72186.1| microsomal cytochrome b-5 [ score 141 E 3e-33 ] [ range 2 .. 89 ]
+sequence
+----SKAVKYYTLEQIQKHNNSK-STWLILDYKVYDLTKFLEEHPGGEEVLREQAGGDATENFEDV----
+GHSTDARELSK--TFIIGELHPDDRSKIT-*
+>P1;gi|117811|sp|P00169|CYB5_RABIT Cytochrome b5 >gi|476415|pir||CBR... [ score 140 E 1e-32 ] [ range 7 .. 93 ]
+sequence
+-----KDVKYYTLEEIKKHNHSK-STWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATENFEDV----
+GHSTDARELSK--TFIIGELHPDDRSKLS-*
+>P1;gi|117808|sp|P00170|CYB5_HORSE Cytochrome b5 [ score 139 E 1e-32 ] [ range 6 .. 91 ]
+sequence
+-----KAVKYYTLEEIKKHNHSK-STWLILHHKVYDLTKFLEDHPGGEEVLREQAGGDATENFEDI----
+GHSTDARELSK--TFIIGELHPDDRSKI--*
+>P1;gi|1345880|sp|P49096|CYB5_MUSDO Cytochrome b5 (CYTB5) >gi|600524... [ score 137 E 6e-32 ] [ range 3 .. 89 ]
+sequence
+----SEDVKYFTRAEVAKNNTKD-KNWFIIHNNVYDVTAFLNEHPGGEEVLIEQAGKDATEHFEDV----
+GHSSDAREMMK--QYKVGELVAEERSNV--*
+>P1;gi|12229735|sp|O04354|CYB5_BOROF Cytochrome b5 >gi|2062405|gb|AA... [ score 136 E 1e-31 ] [ range 3 .. 86 ]
+sequence
+--------KIFTLAEVAQHNNSK-DCWLIINGKVYDVTKFLEDHPGGDDVLLSATGKDATDDFEDI----
+GHSSSAKAMLD--EYYVGDIDSSSPSQV--*
+>P1;gi|226450|prf||1513199B cytochrome b5 [ score 135 E 2e-31 ] [ range 12 .. 94 ]
+sequence
+--------RYYRLEEVQKHNNSQ-STWIIVHHRIYDITKFLDEHPGGEEVLREQAGGDATENFEDV----
+GHSTDARALSE--TFIIGELHPDDRPKL--*
+>P1;gi|14719320|gb|AAK73138.1| cytochrome B5 [Oryza sativa] [ score 134 E 4e-31 ] [ range 7 .. 90 ]
+sequence
+--------KVYTLEEVAKHNSKD-DCWLIIGGKVYNVSKFLEDHPGGDDVLLSSTGKDATDDFEDV----
+GHSTTARAMMD--EYYVGDIDTSTIPART-*
+>P1;gi|24586291|ref|NP_610294.1| CG2140-PB [Drosophila melanogaster]... [ score 133 E 6e-31 ] [ range 3 .. 89 ]
+sequence
+----SEETKTFTRAEVAKHNTNK-DTWLLIHNNIYDVTAFLNEHPGGEEVLIEQAGKDATENFEDV----
+GHSNDARDMMK--KYKIGELVESERTSV--*
+>P1;gi|224985|prf||1205244A cytochrome b5 [ score 133 E 9e-31 ] [ range 6 .. 90 ]
+sequence
+-----KDVKYYYLEEIKKHNHSK-STWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATENFEDV----
+GHSTDARELSK--TYIIGELHPDDRSK---*
+>P1;gi|31419550|gb|AAH53263.1| Unknown (protein for MGC:64123) [Dani... [ score 133 E 1e-30 ] [ range 11 .. 94 ]
+sequence
+-------VKYYRLSEVEERNSFK-STWIIIHNKVYDVTKFLEEHPGGEEVLREQAGGDATESFEDV----
+GHSTDAREMAS--SMLIGEVHPDDRDKI--*
+>P1;gi|353818|prf||1106188B cytochrome b5 [ score 132 E 2e-30 ] [ range 6 .. 91 ]
+sequence
+-----EAVKYYTLEEIQKHNHSK-STWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATENFEDV----
+GHSTDAREMSK--TFIIGELHPDDKPRL--*
+>P1;gi|128194|sp|P17569|NIA_CUCMA Nitrate reductase [NADH] (NR) >gi|... [ score 131 E 5e-30 ] [ range 540 .. 617 ]
+sequence
+----NTASNTYTLSEVKKHNSPQ-SAWIIVHGHVYDCTRFLKDHPGGSDSILINAGTDCTEEFDAI----
+-HSDKAKKMLE--DYRIGEL----------*
+>P1;gi|117805|sp|P00168|CYB5_ALOSE Cytochrome b5 [ score 130 E 6e-30 ] [ range 3 .. 87 ]
+sequence
+-----EAVKYYTLEEIQKHNHSK-STWLILHHKVYDLTKFLEEHPGGEEVLREQAGGDATEDFEDV----
+GHSTDARELSK--TYIIGELHPDDRPK---*
+>P1;gi|29726435|pdb|1M2M|A Chain A, Crystal Structure Of E44aE48AE56... [ score 130 E 8e-30 ] [ range 1 .. 82 ]
+sequence
+------AVKYYTLEEIQKHNNSK-STWLILHYKVYDLTKFLEEHPGGEAVLRAQAGGDATANFEAV----
+GHSTDARELSK--TFIIGELHPDDR-----*
+>P1;gi|39585061|emb|CAE62712.1| Hypothetical protein CBG06866 [Caeno... [ score 130 E 1e-29 ] [ range 3 .. 87 ]
+sequence
+------DLRIITAEEVAQHSDED-SCWIILHGKVYDVTKFLEEHPGGAEVITQLAGLDSTTEFDDV----
+GHSKDAMEMAK--EYLIGQLPESEIPEV--*
+>P1;gi|29726434|pdb|1M2I|A Chain A, Crystal Structure Of E44aE56A MU... [ score 130 E 1e-29 ] [ range 1 .. 82 ]
+sequence
+------AVKYYTLEEIQKHNNSK-STWLILHYKVYDLTKFLEEHPGGEAVLREQAGGDATANFEDV----
+GHSTDARELSK--TFIIGELHPDDR-----*
+>P1;gi|39592076|emb|CAE75296.1| Hypothetical protein CBG23264 [Caeno... [ score 128 E 2e-29 ] [ range 278 .. 357 ]
+sequence
+---------IFTRSEVSMHCGED-DCWIIVGNYVYDVTKFVDMHPGGPEILLEFAGGDATDAFESV----
+GHSMCARMMLT--KFKIGSLPEEERP----*
+>P1;gi|2695711|emb|CAA04703.1| cytochome b5 [Olea europaea] [ score 128 E 3e-29 ] [ range 4 .. 90 ]
+sequence
+------DPKIYVYEEVEKHDKTK-DCWLVINGKVYDVTPFMDDHPGGDEVLLSATGKDATNDFEDV----
+GHSDSAREMMD--KYYIGEIDVSTPTKRT-*
+>P1;gi|2647949|emb|CAA04702.1| cytochrome b5 [Olea europaea] [ score 128 E 3e-29 ] [ range 3 .. 86 ]
+sequence
+--------KVFTLAEVSEHNNAK-DCWLIIDGKVYDVTKFLEDHPGGDEVLLSATGKDATDDFEDV----
+GHSSTAKAMMD--EFYVGDFDTSTVPTKT-*
+>P1;gi|20137975|sp|Q9HFV1|CYB5_RHIST Cytochrome b5 >gi|10834811|gb|A... [ score 127 E 4e-29 ] [ range 4 .. 85 ]
+sequence
+--------KIFSLDEVSKHKTKS-DLWVVIHNKVYDITRFVVEHPGGEEVLVDEGGKDATEAFEDI----
+GHSDEAREMLE--EYLIGSLDEASRTK---*
+>P1;gi|14041825|dbj|BAB55002.1| nitrate reductase [Prunus persica] [ score 127 E 4e-29 ] [ range 521 .. 598 ]
+sequence
+----TTSSKTYSLSEVEKHNSPQ-SAWIIIQGHIYDCTRFLNDHPGGADSILINAGTDCTEEFDAI----
+-HSDKAKKMLE--DYRIGEL----------*
+>P1;gi|31241023|ref|XP_320925.1| ENSANGP00000017691 [Anopheles gambi... [ score 127 E 5e-29 ] [ range 20 .. 102 ]
+sequence
+-------LQQYSLAQVAEHNKPN-DVWMVIHDKVYDVTKFLAEHPGGEEVLIEFAGKEATADFDDV----
+GHSTDAKEQMK--QFLVGEILEAERKK---*
+>P1;gi|24474446|gb|AAN15927.1| nitrate reductase [Tilia platyphyllos] [ score 127 E 6e-29 ] [ range 517 .. 594 ]
+sequence
+----NTDSKTFSMSEVRKHNSAD-SAWIVVHGNIYDCTRFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKAKKLLE--DYRVGEL----------*
+>P1;gi|30090033|gb|AAO86521.1| cytochrome B5 [Triticum monococcum] [ score 127 E 9e-29 ] [ range 5 .. 86 ]
+sequence
+-------TKLYSMKEAALHNTPD-DCWIVVDGKIYDVTAYLDDHPGGADVLLGVTGMDGTEEFEDA----
+GHSKDAKELMK--DYFIGELDLDETP----*
+>P1;gi|251978|gb|AAB22636.1| cytochrome b5 [mice, D2, liver microsom... [ score 125 E 2e-28 ] [ range 6 .. 91 ]
+sequence
+-----KDVKYYTLEEIEKHKDSK-STWVILHHKVYDLTKFLEEHPGGEEVLREQADGDATENFEDV----
+GHSTDARELSK--TYIIGELHPDDRSKI--*
+>P1;gi|17559144|ref|NP_505975.1| cytochrome b5 (5M279) [Caenorhabdit... [ score 125 E 2e-28 ] [ range 136 .. 215 ]
+sequence
+---------IITRSEVNMHCSED-DCWIIVGNYVYDVTKFVDLHPGGPEILLEFAGGDATDAFESV----
+GHSMCARMMLT--KFKIGSLPEDERP----*
+>P1;gi|548361|sp|P36841|NIA_VOLCA Nitrate reductase [NADH] (NR) >gi|... [ score 125 E 2e-28 ] [ range 498 .. 577 ]
+sequence
+--------RQYTMEEVAAHNTEE-SCWFVHGGKVYDATPYLDEHPGGAESILIVAGADATDEFNSI----
+-HSSKAKAMLA--QYYIGDLVASKPA----*
+>P1;gi|25282551|pir||JC7671 ascidian cytochrome b5, Pmb5 - sea squir... [ score 125 E 3e-28 ] [ range 12 .. 90 ]
+sequence
+--------RIIRYEEVKQHNSIK-SAWNVIHNKVYDVTKFLEDHPGGEEVLLEQAGKNATEAFEDV----
+GHSSDARSLAE--EHLIGELHPDD------*
+>P1;gi|39596430|emb|CAE63049.1| Hypothetical protein CBG07320 [Caeno... [ score 124 E 4e-28 ] [ range 2 .. 84 ]
+sequence
+-----EGLKQMTLKEISDHNTNK-SAWLVIGNKVYDVTKFLDEHPGGCEVLLEQAGGDGTEAFEDV----
+GHSTDARHMKE--EYLIGEVVEEER-----*
+>P1;gi|39595402|emb|CAE60440.1| Hypothetical protein CBG04048 [Caeno... [ score 123 E 9e-28 ] [ range 4 .. 89 ]
+sequence
+-------LRVISLEEVSKHNYEK-SCWIVISGKVYDVTKFLNEHPGGEEVITQLAGKDATVGFLDV----
+GHSKDAIEMTK--EYLIGQLPESEVSK---*
+>P1;gi|38490061|gb|AAR21624.1| delta-6 fatty acyl desaturase [Salmo ... [ score 123 E 1e-27 ] [ range 30 .. 111 ]
+sequence
+---------VYTWEEVQRHSHRG-DQWLVIDRKVYNITQWAKRHPGGIRVISHFAGEDATDAFVAF----
+HPNPNVRKFLK--PLLIGELAPTEPSQ---*
+>P1;gi|1762628|gb|AAB39553.1| nitrate reductase [ score 122 E 2e-27 ] [ range 256 .. 329 ]
+sequence
+--------KMFSMSEIKKHNSAE-SAWIVVHGHVYDATRFLKDHPGGSDSILINAGTDCTEEFDAI----
+-HSDKAKKMIE--DFRIGEL----------*
+>P1;gi|17509473|ref|NP_491931.1| cytochrome b5 (15.6 kD) (1H317) [Ca... [ score 122 E 2e-27 ] [ range 4 .. 90 ]
+sequence
+-------LRVISLDEVSKHNWED-SCWIVISGKVYDVTKFLNEHPGGEEVITQLAGKDATVGFLDV----
+GHSKDAIEMAN--EYLIGQLPESDVPKV--*
+>P1;gi|15281354|dbj|BAB63440.1| putative delata 6-desaturase [Oncorh... [ score 122 E 2e-27 ] [ range 30 .. 111 ]
+sequence
+---------VYTWEEVQKHCHRS-DQWLVIDRKVYNITQWAKRHPGGIRVISHFAGEDATEAFVAF----
+HLEPNVRKFLK--PLLIGELAPTEPSQ---*
+>P1;gi|17550742|ref|NP_510335.1| cytochrome b5 (XO621) [Caenorhabdit... [ score 122 E 2e-27 ] [ range 7 .. 89 ]
+sequence
+------DLKQITLKEIAEHNTNK-SAWLVIGNKVFDVTKFLDEHPGGCEVLLEQAGSDGTEAFEDV----
+GHSTDARHMKD--EYLIGEVVASERK----*
+>P1;gi|16904665|dbj|BAB71963.1| putative delata 6-desaturase [Oncorh... [ score 122 E 2e-27 ] [ range 28 .. 109 ]
+sequence
+---------VYTWEEVQKHCHRS-DQWLVIDREVYNITQWAKRHPGGIRVISHFAGEDATDAFVAF----
+HPDSNVRKFLK--PLLIGELAPTEPSQ---*
+>P1;gi|128191|sp|P27968|NIA7_HORVU Nitrate reductase [NAD(P)H] >gi|6... [ score 122 E 2e-27 ] [ range 512 .. 589 ]
+sequence
+----STASAQFTMSEVRRHASKD-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGSDCTEEFDAI----
+-HSAKARGLLE--MYRVGEL----------*
+>P1;gi|45446819|gb|AAN09163.3| CG3566-PB [Drosophila melanogaster] [ score 121 E 3e-27 ] [ range 3 .. 84 ]
+sequence
+--------KEIRLATVNEHNKAT-DLWVVIDNKVYDVTKFRLEHPGGEESLVDEAGRDATKAFNDV----
+GHSSEAREMLK--KYYIGDLAAADIKK---*
+>P1;gi|1762630|gb|AAB39554.1| nitrate reductase [ score 121 E 3e-27 ] [ range 114 .. 187 ]
+sequence
+--------KMFSMSEVKKHNSAE-SAWIVVHGNLYDATRFLKDHPGGSDNILINAGTDCTEEFDAI----
+-HSAKAKKMLE--DYRIGEL----------*
+>P1;gi|32351448|gb|AAP75705.1| nitrate reductase [Dunaliella salina] [ score 121 E 5e-27 ] [ range 542 .. 620 ]
+sequence
+--------KEYTMEEVAQHTTHD-SAWFVHEGKVYDATAFLDEHPGGSDSILTATGADATEDFNAI----
+-HSKKARNMLA--DYYIGELAASKP-----*
+>P1;gi|13447755|gb|AAK26745.1| putative delta 6-desaturase [Oncorhyn... [ score 120 E 5e-27 ] [ range 30 .. 111 ]
+sequence
+---------VYTWEEVQKHCHRS-DKWLVIDRKVYNITQWAKRHPGGIRVISHFAGEDATDAFVAF----
+HPDPNVRKFLK--PLLIGELATTEPSQ---*
+>P1;gi|34856508|ref|XP_215767.2| similar to fatty acid desaturase 2;... [ score 120 E 8e-27 ] [ range 60 .. 145 ]
+sequence
+-----KCLNLYTWQEIQKHNQET-DQWLVIDRKVYNVTDWAGKHPGGHRVLNHYAGEDATDAFRAM----
+HLDPSIVQLLK--PLLIGELSPEEPSQ---*
+>P1;gi|18958528|gb|AAL82631.1| delta-5 fatty acyl desaturase [Salmo ... [ score 120 E 9e-27 ] [ range 30 .. 111 ]
+sequence
+---------VYTWEEVQRHSHRS-DQWLVIDRKVYNITQWAKRHPGGIRVISHFAGEDATEAFSAF----
+HLDANVRKFLK--PLLIGELAPTEPSQ---*
+>P1;gi|4204575|gb|AAD10774.1| cytochrome b5 DIF-F [Petunia x hybrida... [ score 119 E 2e-26 ] [ range 5 .. 79 ]
+sequence
+--------RVFTLSQVAEHKSKQ-DCWIIINGRVVDVTKFLEEHPGGEEVLIESAGKDATKEFQDI----
+GHSKAAKNLLF--KYQIGYL----------*
+>P1;gi|42545002|gb|EAA67845.1| hypothetical protein FG01027.1 [Gibbe... [ score 119 E 2e-26 ] [ range 3 .. 85 ]
+sequence
+--------KVFDAAEVAKHNTPE-SCWVILYGKVYDVTEFLPSHPGGKKIILKLAGKDATEEYDPV----
+HPPGTLEENLK--PEHVGEINPETLSQ---*
+>P1;gi|19075497|ref|NP_587997.1| probable cytochrome b5 [Schizosacch... [ score 119 E 2e-26 ] [ range 2 .. 87 ]
+sequence
+------AEKTITVEEVLKHNTRD-DLYIVVKDKVYDISKFLDAHPGGEEVLVDLAGRDASGPFEDV----
+GHSEDAQELLE--KFYIGNLRTEDGPQL--*
+>P1;gi|32416576|ref|XP_328766.1| hypothetical protein [Neurospora cr... [ score 118 E 2e-26 ] [ range 4 .. 77 ]
+sequence
+---------TFTLDDVRKHNSKD-DVWMVIHNKVYNVTTYLEDHPGGSIILREVAGTDATEQFVEI----
+GHSVEATDILE--ELYVGDL----------*
+>P1;gi|15147883|dbj|BAB62850.1| putative delta-6 fatty acyl desatura... [ score 118 E 2e-26 ] [ range 17 .. 102 ]
+sequence
+-----KAKGVYTWEEVQSHCSRN-DQWLVIDRKVYNITQWAKRHPGGFQVISFYAGEDATEAFTAF----
+HPDPKVHKFLK--PLLIGELATTEPSQ---*
+>P1;gi|4758334|ref|NP_004256.1| fatty acid desaturase 2; linoleoyl-C... [ score 117 E 6e-26 ] [ range 17 .. 101 ]
+sequence
+------SVPTFSWEEIQKHNLRT-DRWLVIDRKVYNITKWSIQHPGGQRVIGHYAGEDATDAFRAF----
+HPDEFVGKFLK--PLLIGELAPEEPSQ---*
+>P1;gi|548358|sp|P08619|NIA_NEUCR Nitrate reductase [NADPH] (NR) >gi... [ score 117 E 7e-26 ] [ range 615 .. 699 ]
+sequence
+-----KVTRLITLEELRQHDGEE-EPWFVVNGQVYNGTPFLEGHPGGAASITGAAGQDVTDEFLAI----
+-HSENAKAMMP--TYHIGTLTPSAPAAL--*
+>P1;gi|23428438|gb|AAL17639.1| putative delta 6-desaturase [Sparus a... [ score 117 E 7e-26 ] [ range 21 .. 102 ]
+sequence
+---------VYTWEEVQSHSSRN-DQWLVIDRKVYNVTKWAKRHPGGFRVINHYAGEDATEAFTAF----
+HPDLKVQKFLK--PLLIGELAATEPSQ---*
+>P1;gi|42551869|gb|EAA74712.1| hypothetical protein FG04852.1 [Gibbe... [ score 116 E 1e-25 ] [ range 9 .. 90 ]
+sequence
+---------EFSLADVKLHNTED-DIYIAIHGKVYDVTSFLQEHPGGAEFLLEVAGEDATEAYDNT----
+GHSDEAHEILP--ELEVGTLKLDPASKM--*
+>P1;gi|42546000|gb|EAA68843.1| NIA_FUSOX Nitrate reductase [NADPH] (... [ score 115 E 2e-25 ] [ range 526 .. 608 ]
+sequence
+--------REITIEELKAHEGED-EPWFVVNGEVYDGTPYLSGHPGGAASIFGAAGQDATEEFMAI----
+-HSENAKAMLP--TYHIGTLNKESRAILS-*
+>P1;gi|20138091|sp|Q9Y706|CYB5_MORAP Cytochrome b5 >gi|5478287|dbj|B... [ score 115 E 2e-25 ] [ range 4 .. 86 ]
+sequence
+-------LKSFTLADLSQHTTKD-SLYLAIHGKVYDCTGFIDEHPGGEEVLIDEAGRDATESFEDV----
+GHSDEARDIMS--KLLVGEFKTDSSEK---*
+>P1;gi|1561580|emb|CAA62232.1| nitrate reductase [Gibberella fujikuroi] [ score 115 E 2e-25 ] [ range 549 .. 631 ]
+sequence
+--------RKITIEELKAHSGEE-EPWFVVKGEVYDGTPYLSGHPGGAASIFGAAGQDATEEFMAI----
+-HSENAKAMLP--TYHIGTLDEESRAILS-*
+>P1;gi|20838286|ref|XP_130353.1| similar to fatty acid desaturase 2;... [ score 115 E 2e-25 ] [ range 60 .. 145 ]
+sequence
+-----KCLNLYTWQEIQRHSQEA-DQWLVIDRKVYNVTDWAGKHPGGRRVLNHYAGQDATDAFRAM----
+HLDLGMVKLLK--PLLIGELSPEEPSQ---*
+>P1;gi|2342599|emb|CAA04554.1| Nitrate reductase [Metarhizium anisop... [ score 115 E 2e-25 ] [ range 535 .. 620 ]
+sequence
+-----RADRLVTMCELKSHSGEQ-EPWFIVDGQVYDGTPFLEGHPGGSASIFGAAGQDVTEEFVTI----
+-HSENAKAMMP--AYHIGKLDEDALAQLS-*
+>P1;gi|39645719|gb|AAH63726.1| MGC68735 protein [Xenopus laevis] [ score 115 E 2e-25 ] [ range 23 .. 102 ]
+sequence
+----------YSWEEIQKHNLKT-DKWLVIERKVYNITEWMKRHPGGMRVIGHYAGEDATDAFHAF----
+HPDTFVRKFLK--PLYVGELAENEPS----*
+>P1;gi|4150956|dbj|BAA37090.1| delta 5 fatty acid desaturase [Dictyo... [ score 114 E 4e-25 ] [ range 10 .. 89 ]
+sequence
+-----EKLKLYTWDEVSKHNQKN-DLWIIVDGKVYNITKWVPLHPGGEDILLLSAGRDATNLFESY----
+HPMTDKYSLIK--QYEIGYIS---------*
+>P1;gi|44921596|gb|AAS49163.1| delta-6 fatty acyl desaturase [Scopht... [ score 114 E 4e-25 ] [ range 21 .. 102 ]
+sequence
+---------VYTWEEVQSHSSRT-DQWLVIDRKVYNTTQWAKRHPGGFHVISHYAGQDATEAFTAF----
+HPDLKVQKFLK--PLLIGELAATEPSQ---*
+>P1;gi|10954037|gb|AAG25711.1| putative delta-6 fatty acyl desaturas... [ score 114 E 6e-25 ] [ range 20 .. 101 ]
+sequence
+---------TYTWEEVQKHTKFG-DQWIEVERKVYNVSQWVKRHPGGVRILGHYAGEDATEAFTAF----
+HPDPLVRKYMK--PLLIGELEASEPSQ---*
+>P1;gi|20531717|gb|AAM27441.1| microsomal cytochrome b5 [Phaeodactyl... [ score 113 E 8e-25 ] [ range 3 .. 88 ]
+sequence
+------AEKEYTLDEISQHTTTE-SCWLIIGNKVYDVTKYLDDHPGGAEVMLDVAGQDADEFFEDI----
+GHSKEARAELK--NYLVGNFKID-------*
+>P1;gi|24899389|gb|AAN64993.1| nitrate reductase [Tuber borchii] [ score 113 E 1e-24 ] [ range 574 .. 655 ]
+sequence
+--------RTIEIEELRSHDNAT-EPWFIVEGEVYDGKPFLEEHPGGATSIISAAGQDATDEFVGI----
+-HSESAKAMMP--KYHIGTLSPAAREAL--*
+>P1;gi|42476248|ref|NP_571720.2| fatty acid desaturase 2; delta-6 fa... [ score 112 E 1e-24 ] [ range 21 .. 101 ]
+sequence
+----------YTWEEMQKHTKHG-DQWVVVERKVYNVSQWVKRHPGGLRILGHYAGEDATEAFTAF----
+HPNLQMRKYLK--PLLIGELEASEPSQ---*
+>P1;gi|38106653|gb|EAA52934.1| hypothetical protein MG06062.4 [Magna... [ score 112 E 2e-24 ] [ range 552 .. 631 ]
+sequence
+--------KTITLDELKAHDSES-QPWFVVDGQVYDGIKFLEGHPGGAASIIGAAGQDCSEEFLTI----
+-HSENAKAMMP--EYHIGSLDEKSRS----*
+>P1;gi|1171706|sp|P43100|NIA_BEABA Nitrate reductase [NADPH] (NR) >g... [ score 112 E 2e-24 ] [ range 533 .. 617 ]
+sequence
+-----KVVRIISLEELKAHEGEM-EPWFVVNGHVYNGTPYLDNHPGGATSIINAAAQDATEEFMTI----
+-HSENAKAMMP--QYHIGTLNDAARKAL--*
+>P1;gi|24665065|ref|NP_648843.1| CG5157-PA [Drosophila melanogaster]... [ score 112 E 2e-24 ] [ range 5 .. 87 ]
+sequence
+----------YELSEVAQQNGKN-GCWLIIKGNVYDVTKFLGEHPGGSEALLEYGGKDATKAFKQA----
+GHSSDAEKDLK--NYKIGEINSAAPIQV--*
+>P1;gi|685157|gb|AAA96243.1| nitrate reductase [ score 112 E 3e-24 ] [ range 2 .. 77 ]
+sequence
+------DDKQFTMSEVRKHGSED-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKAKALLD--AHRIGQL----------*
+>P1;gi|685206|gb|AAA96248.1| nitrate reductase [ score 112 E 3e-24 ] [ range 2 .. 77 ]
+sequence
+------DDKQFTMSEVRKHGSKD-SAWIVVHGHVYDCTGFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKAKALLD--AHRIGEL----------*
+>P1;gi|9790071|ref|NP_062673.1| fatty acid desaturase 2; delta-6 fat... [ score 111 E 4e-24 ] [ range 19 .. 100 ]
+sequence
+--------PTFRWEEIQKHNLRT-DRWLVIDRKVYNVTKWSQRHPGGHRVIGHYSGEDATDAFRAF----
+HLDLDVGKFLK--PLLIGELAPEEPS----*
+>P1;gi|5263169|dbj|BAA81814.1| fatty acid desaturase [Dictyostelium ... [ score 111 E 4e-24 ] [ range 14 .. 90 ]
+sequence
+--------KQYSWSELAKHNTEN-DCWVAVDGKVYDITRWVPLHPGGKEVLLLAAGRDVTNLFESY----
+HPSDKPTSILK--NYEIGYIS---------*
+>P1;gi|22652111|gb|AAN03619.1| sphingolipid long chain base delta 8 ... [ score 111 E 5e-24 ] [ range 2 .. 88 ]
+sequence
+----TEKRREITSEELKKHNKHG-DIWISIQGKIYDVSEWIKDHPGGEAPLLNLAGQDVTDAFVAF----
+-HPGSAWKYLD--KFFIGYLKDYTISEVS-*
+>P1;gi|15226029|ref|NP_182188.1| cytochrome b5, putative [Arabidopsi... [ score 110 E 6e-24 ] [ range 5 .. 78 ]
+sequence
+----------ISFHDVAKHKCKN-DCWILIHGKVYDISTFMDEHPGGDNVLLAVTGKDASIDFEDV----
+NHSKDAKELMK--KYCIGDVD---------*
+>P1;gi|40739642|gb|EAA58832.1| hypothetical protein AN3901.2 [Asperg... [ score 110 E 7e-24 ] [ range 7 .. 86 ]
+sequence
+-----------TGADVAKHNSKD-SCWVIVHGKAYDVTEFLPEHPGGQKIILKYAGKDATEEFDPI----
+HPPDTLDKYLD--SSHLGEVDMATVEQ---*
+>P1;gi|38106528|gb|EAA52821.1| hypothetical protein MG05949.4 [Magna... [ score 110 E 7e-24 ] [ range 5 .. 87 ]
+sequence
+--------KTFTREEVKKHNTED-DVWFIIDSVVYDVSDFLDAHPGGEAVLRQAAGTDATTDFYN-----
+LHRHEVLTKYK--DLAIGTIVNEKPSVIT-*
+>P1;gi|31542798|ref|NP_068690.2| fatty acid desaturase 3 [Mus muscul... [ score 110 E 7e-24 ] [ range 24 .. 107 ]
+sequence
+-------LPIFRWEQIRQHDLPG-DKWLVIERRVYDISRWAQRHPGGSRLIGHHGAEDATDAFHAF----
+HQDLHVRKFLK--PLLIGELAPEEPSQ---*
+>P1;gi|31322226|gb|AAO63560.1| nitrate reductase [Verticillium fungi... [ score 110 E 8e-24 ] [ range 532 .. 616 ]
+sequence
+-----KIDRVIKLEELKAHSGET-EPWFVIKGHVYDGTPYLDGHPGGATSIINAAGQDTTEEFITI----
+-HSENAKAMMP--KYHIGTLDAASLKAL--*
+>P1;gi|41017070|sp|O74212|FAD5_MORAP Delta-5 fatty acid desaturase >... [ score 110 E 9e-24 ] [ range 7 .. 87 ]
+sequence
+--------KTFTWEELAAHNTKG-DLFLAIRGRVYDVTKFLSRHPGGVDTLLLGAGRDVTPVFEMY----
+HAFGAADAIMK--KYYVGTLVSNELP----*
+>P1;gi|13375616|ref|NP_068373.1| fatty acid desaturase 3; linoleoyl-... [ score 110 E 1e-23 ] [ range 20 .. 103 ]
+sequence
+-------LPTFCWEQIRAHDQPG-DKWLVIERRVYDISRWAQRHPGGSRLIGHHGAEDATDAFRAF----
+HQDLNVRKFLQ--PLLIGELAPEEPSQ---*
+>P1;gi|3859488|gb|AAC72755.1| delta-5 fatty acid desaturase [Mortier... [ score 110 E 1e-23 ] [ range 7 .. 87 ]
+sequence
+--------KTFTWEELAAHNTKD-DLLLAIRGRVYDVTKFLSRHPGGVDTLLLGAGRDVTPVFEMY----
+HAFGAADAIMK--KYYVGTLVSNELP----*
+>P1;gi|3511145|gb|AAC33731.1| cytochrome b5 [Helicoverpa armigera] [ score 110 E 1e-23 ] [ range 3 .. 86 ]
+sequence
+-------VRQFTRVEVSKWTTRE-EAVFIIDNVVYNVTKFLDEHPGGHEVLVNVAGKDASEDFDDV----
+GHSLDAKELMK--KYVVGEVVEAERRHI--*
+>P1;gi|16033740|gb|AAL13311.1| delta-5 fatty acid desaturase [Pythiu... [ score 109 E 1e-23 ] [ range 7 .. 82 ]
+sequence
+--------KTFTWQEVAKHNTAK-SAWVIIRGEVYDVTEWADKHPGGSELIVLHSGRECTDTFYSY----
+HPFSNADKILA--KYKIGKL----------*
+>P1;gi|33330963|gb|AAQ10732.1| delta-8-sphingolipid desaturase [Anem... [ score 109 E 2e-23 ] [ range 2 .. 80 ]
+sequence
+----AEKRREISSQELAQHTNKG-DLWISIQGKVYDVSEWVKDHPGGDAPLMNLAGQDVTDAFVAF----
+-HPGSAWKYLD--KFHIGYLS---------*
+>P1;gi|7705899|ref|NP_057314.1| NADPH cytochrome B5 oxidoreductase; ... [ score 109 E 2e-23 ] [ range 22 .. 96 ]
+sequence
+---------EVTEEELKKHNKKD-DCWICIRGFVYNVSPYMEYHPGGEDELMRAAGSDGTELFDQV----
+HRWVNYESMLK--ECLVGRMA---------*
+>P1;gi|1352497|sp|P49102|NIA3_MAIZE Nitrate reductase [NADH] 3 (NR) ... [ score 132 E 3e-30 ] [ range 519 .. 594 ]
+sequence
+------TNQQFTMSEVRKHASQD-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKAKELLD--TYRIGDL----------*
+>P1;gi|1171707|sp|P43101|NIA_CICIN Nitrate reductase [NADH] (NR) >gi... [ score 132 E 3e-30 ] [ range 533 .. 608 ]
+sequence
+------TSLTFTMSEVKKHNSAD-SAWIVVHGHIYDCTSFLKDHPGGSDSILLNAGTDCTEEFDAI----
+-HSDKAKKLLE--EYRVGEL----------*
+>P1;gi|5263169|dbj|BAA81814.1| fatty acid desaturase [Dictyostelium ... [ score 112 E 3e-24 ] [ range 12 .. 89 ]
+sequence
+------TGKQYSWSELAKHNTEN-DCWVAVDGKVYDITRWVPLHPGGKEVLLLAAGRDVTNLFESY---H
+PMSDKPTSILK--NYEIGYI----------*
+>P1;gi|4150956|dbj|BAA37090.1| delta 5 fatty acid desaturase [Dictyo... [ score 111 E 3e-24 ] [ range 12 .. 88 ]
+sequence
+-------LKLYTWDEVSKHNQKN-DLWIIVDGKVYNITKWVPLHPGGEDILLLSAGRDATNLFESY---H
+PMTDKHYSLIK--QYEIGYI----------*
+>P1;gi|40746791|gb|EAA65947.1| hypothetical protein AN0918.2 [Asperg... [ score 111 E 5e-24 ] [ range 5 .. 84 ]
+sequence
+------TLPTFTPAEVESHNSAK-SCYVTIGSKVYDITSFVDDHPGGGDLVLEYAGKDVTEILRD-PVSH
+THSESAYEILE--DNLVGFI----------*
+>P1;gi|16033740|gb|AAL13311.1| delta-5 fatty acid desaturase [Pythiu... [ score 110 E 9e-24 ] [ range 7 .. 82 ]
+sequence
+--------KTFTWQEVAKHNTAK-SAWVIIRGEVYDVTEWADKHPGGSELIVLHSGRECTDTFYSY---H
+PFSNRADKILA--KYKIGKL----------*
+>P1;gi|42545002|gb|EAA67845.1| hypothetical protein FG01027.1 [Gibbe... [ score 110 E 1e-23 ] [ range 3 .. 78 ]
+sequence
+--------KVFDAAEVAKHNTPE-SCWVILYGKVYDVTEFLPSHPGGKKIILKLAGKDATEEYDPV---H
+PPGTLEENLKP--EHVLGEI----------*
+>P1;gi|6323928|ref|NP_013999.1| Required for the hydroxylation of th... [ score 109 E 1e-23 ] [ range 8 .. 89 ]
+sequence
+------TLELFSKKTVQEHNTAN-DCWVTYQNKIYDVTRFLSEHPGGDESILDYAGKDITEIMKD-SDVH
+EHSDSAYEILE--EYLIGYL----------*
+>P1;gi|39934100|ref|NP_946376.1| possible Ectothiorhodospira Vacuola... [ score 108 E 4e-23 ] [ range 44 .. 115 ]
+sequence
+-------------AELAKHAVPQ-DCWMAIRGNVYDITAYLPDHPSRPSIIEPWCGKEATEAYDTKTKGR
+KHSSEADALLP--KYRIG------------*
+>P1;gi|42551605|gb|EAA74448.1| hypothetical protein FG05164.1 [Gibbe... [ score 107 E 5e-23 ] [ range 5 .. 84 ]
+sequence
+------TLPTFTRAEVEEHNSEG-SCYVTIGSKVYDITDFIEDHPGGPEYVLEYAGRDIEKILKD-SDSH
+THSDSAYEILD--ESLVGFL----------*
+>P1;gi|40739642|gb|EAA58832.1| hypothetical protein AN3901.2 [Asperg... [ score 107 E 6e-23 ] [ range 7 .. 70 ]
+sequence
+-----------TGADVAKHNSKD-SCWVIVHGKAYDVTEFLPEHPGGQKIILKYAGKDATEEFD-----P
+IHPPDT---LD--KYL--------------*
+>P1;gi|128192|sp|P22945|NIA_EMENI Nitrate reductase [NADPH] (NR) >gi... [ score 106 E 1e-22 ] [ range 513 .. 586 ]
+sequence
+--------RIIDLEEFKKNSSDE-RPWFVVNGEVYDGTAFLEGHPGGAQSIISAAGTDASEEF-----LE
+IHSETAKKMMP--DYHIGTL----------*
+>P1;gi|6759823|gb|AAF28059.1| nitrate reductase [Pichia anomala] [ score 106 E 2e-22 ] [ range 515 .. 587 ]
+sequence
+---------IITKEQLAQHSNEQ-DPWFIVKGHVFDGTPFLQEHPGGAQSITMVAGEDATEDFMAI----
+-HSDNSKRMLQ--KFHLGKL----------*
+>P1;gi|23894018|emb|CAD53323.1| delta 5 fatty acid desaturase [Phyto... [ score 105 E 2e-22 ] [ range 30 .. 103 ]
+sequence
+----------FTWQDVAKHNTAK-SAWVTIRGVVYDVTEWADRHPGGRELVLLHSGRECTDTFDSY---H
+PFSDRADKILA--KYAIGKL----------*
+>P1;gi|15147883|dbj|BAB62850.1| putative delta-6 fatty acyl desatura... [ score 105 E 3e-22 ] [ range 21 .. 95 ]
+sequence
+---------VYTWEEVQSHCSRN-DQWLVIDRKVYNITQWAKRHPGGFQVISFYAGEDATEAF---TAFH
+PDPKFVHKFLK--PLLIGEL----------*
+>P1;gi|38110336|gb|EAA56072.1| hypothetical protein MG01723.4 [Magna... [ score 105 E 3e-22 ] [ range 4 .. 67 ]
+sequence
+-----------TGAEVAKHDSSQ-SCWVIVHGKAYDVTEFLPEHPGGAKIILKYAGKDATEEFD-----P
+IHPPDT---LD--KYL--------------*
+>P1;gi|32417000|ref|XP_328978.1| hypothetical protein [Neurospora cr... [ score 105 E 3e-22 ] [ range 11 .. 71 ]
+sequence
+--------------EVAKHNTQD-DCWVIVHGKAYDITEFLPEHPGGMKIILKYAGKDATEEFD-----P
+IHPPDT---LE--KYL--------------*
+>P1;gi|23428438|gb|AAL17639.1| putative delta 6-desaturase [Sparus a... [ score 104 E 4e-22 ] [ range 21 .. 95 ]
+sequence
+---------VYTWEEVQSHSSRN-DQWLVIDRKVYNVTKWAKRHPGGFRVINHYAGEDATEAF---TAFH
+PDLKFVQKFLK--PLLIGEL----------*
+>P1;gi|32307604|gb|AAP79207.1| nitrate reductase [Bigelowiella natans] [ score 104 E 6e-22 ] [ range 80 .. 149 ]
+sequence
+----------YTMEEIEKHNREG-DCWIIIKDKVYDATSYLEKHPGGAYAIIQFGGQDATEDYK-----E
+IHSTQADKLLA--RHQIG------------*
+>P1;gi|42551202|gb|EAA74045.1| hypothetical protein FG05328.1 [Gibbe... [ score 103 E 9e-22 ] [ range 7 .. 67 ]
+sequence
+--------------EVAEHNSAD-SCWVIVHGKAYDVTEFLPEHPGGKKIILKYAGKDATEAYE-----P
+IHPPDT---LD--KFL--------------*
+>P1;gi|39545945|gb|AAR28035.1| delta-5 desaturase [Mortierella alpina] [ score 103 E 9e-22 ] [ range 7 .. 81 ]
+sequence
+--------KTFTWEELAAHNTEG-DLLLAIRGNVYDVTKFLSRHPGGTDTLLLGAGRDVTPVFEMYHEFG
+----AADAIMK--KYYVGTL----------*
+>P1;gi|4101626|gb|AAD01240.1| desaturase/cytochrome b5 protein [Rici... [ score 103 E 1e-21 ] [ range 4 .. 78 ]
+sequence
+------TKKYITKEDLEKHNNPG-DLWISIQGKIYNVTDWSKDHPGGVSPLLHLAGQDVTDAFVAY----
+-HPGTAWQYLD--KFFTGY-----------*
+>P1;gi|44921596|gb|AAS49163.1| delta-6 fatty acyl desaturase [Scopht... [ score 103 E 1e-21 ] [ range 21 .. 95 ]
+sequence
+---------VYTWEEVQSHSSRT-DQWLVIDRKVYNTTQWAKRHPGGFHVISHYAGQDATEAF---TAFH
+PDLKFVQKFLK--PLLIGEL----------*
+>P1;gi|17223797|gb|AAL23581.1| delta-6-desaturase [Echium pitardii v... [ score 102 E 2e-21 ] [ range 7 .. 79 ]
+sequence
+--------KYITAEELKKHDKEG-DLWISIQGKVYDVSDWLKDHPGGKFPLLSLAGQEVTDAF-----VA
+FHSGSTWKLLD--SFFTGY-----------*
+>P1;gi|33330961|gb|AAQ10731.1| delta-6-fatty acid desaturase [Anemon... [ score 102 E 2e-21 ] [ range 8 .. 79 ]
+sequence
+----------ISSDDLRSHNKPG-DVWISIQGKIYDVTEWGKDHPGGEGPLLNLAGQDVTDAF-----VA
+FHPGSAWKNLD--KFHIGYL----------*
+>P1;gi|16904665|dbj|BAB71963.1| putative delata 6-desaturase [Oncorh... [ score 102 E 2e-21 ] [ range 28 .. 102 ]
+sequence
+---------VYTWEEVQKHCHRS-DQWLVIDREVYNITQWAKRHPGGIRVISHFAGEDATDAFVA---FH
+PDSNFVRKFLK--PLLIGEL----------*
+>P1;gi|13447755|gb|AAK26745.1| putative delta 6-desaturase [Oncorhyn... [ score 102 E 2e-21 ] [ range 30 .. 104 ]
+sequence
+---------VYTWEEVQKHCHRS-DKWLVIDRKVYNITQWAKRHPGGIRVISHFAGEDATDAFVA---FH
+PDPNFVRKFLK--PLLIGEL----------*
+>P1;gi|40739642|gb|EAA58832.1| hypothetical protein AN3901.2 [Asperg... [ score 136 E 1e-31 ] [ range 1 .. 83 ]
+sequence
+-----MTNNKLTGADVAKHNSKD-SCWVIVHGKAYDVTEFLPEHPGGQKIILKYAGKDATEEFDPI----
+-HPPDTLDKYLDSSKHLGEVDM--AT----*
+>P1;gi|5262950|emb|CAB45871.1| cytochrome b2 [Kluyveromyces lactis] [ score 136 E 1e-31 ] [ range 82 .. 170 ]
+sequence
+--KVDMTKPKVSPTEVAKHSSPK-DCWVVIEGYVYNLTDFISAHPGGPAII-ENAGKDVTKIFAPI----
+-HAPDVIEKYIRPENRIGPLDG--TMPDDL*
+>P1;gi|11119241|gb|AAG30576.1| nitrate reductase [Ricinus communis] [ score 136 E 1e-31 ] [ range 528 .. 612 ]
+sequence
+-PFMNTSSKTVSMAEVKKHNSAD-SCWIIVHGHVYDCTRFLKDHPGGTDSILINAGTDCTEEFDAI----
+-HSDKA--KKMLEDYRIGELVD--ST----*
+>P1;gi|15221314|ref|NP_174901.1| nitrate reductase 2 (NR2) [Arabidop... [ score 132 E 2e-30 ] [ range 536 .. 617 ]
+sequence
+-PFMNTTAKMYSMSEVKKHNSAD-SCWIIVHGHIYDCTRFLMDHPGGSDSILINAGTDCTEEFEAI----
+-HSDKA--KKMLEDYRIGELI---------*
+>P1;gi|128194|sp|P17569|NIA_CUCMA Nitrate reductase [NADH] (NR) >gi|... [ score 132 E 3e-30 ] [ range 537 .. 618 ]
+sequence
+-PFMNTASNTYTLSEVKKHNSPQ-SAWIIVHGHVYDCTRFLKDHPGGSDSILINAGTDCTEEFDAI----
+-HSDKA--KKMLEDYRIGELI---------*
+>P1;gi|32417000|ref|XP_328978.1| hypothetical protein [Neurospora cr... [ score 132 E 3e-30 ] [ range 8 .. 84 ]
+sequence
+-----------TGVEVAKHNTQD-DCWVIVHGKAYDITEFLPEHPGGMKIILKYAGKDATEEFDPI----
+-HPPDTLEKYLAKDKHLGPVDM--ST----*
+>P1;gi|730146|sp|P39869|NIA_LOTJA Nitrate reductase [NADH] (NR) >gi|... [ score 131 E 4e-30 ] [ range 515 .. 596 ]
+sequence
+-PFMNTFTKMYSLSEVKKHNSPD-SAWIIVHGHVYDCTRFLKDHPGGADSILINAGTDCTEEFEAI----
+-HSDKA--KKMLEDYRVGELI---------*
+>P1;gi|128193|sp|P27783|NIA_BETVE Nitrate reductase [NAD(P)H] (NR) >... [ score 131 E 4e-30 ] [ range 522 .. 603 ]
+sequence
+-PFMNTSSKMFSMSEVKKHNSAE-SAWIIVHGHIYDCTHFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKA--KKMLEDYRIGELI---------*
+>P1;gi|2731816|gb|AAB93560.1| nitrate reductase [Glycine max] [ score 130 E 5e-30 ] [ range 497 .. 577 ]
+sequence
+-PFMNTTSKTYTMSEVRRHNNAD-SAWIIVHGHVYDCTRFLKDHPGGTDSILINAGTDCTEEFEAI----
+-HSDKA--KQMLEDYRIGEL----------*
+>P1;gi|730142|sp|P39866|NIA2_PHAVU Nitrate reductase [NADH] 2 (NR-2)... [ score 130 E 5e-30 ] [ range 507 .. 588 ]
+sequence
+-PFMNTASKMFSVSEVKKHSSPD-SAWIIVHGHVYDCTRFLKDHPGGTDSILINAGTDCTEEFDAI----
+-HSDKA--KKMLEDYRIGELI---------*
+>P1;gi|484212|gb|AAA33712.1| nitrate reductase apoenzyme [ score 130 E 7e-30 ] [ range 535 .. 616 ]
+sequence
+-PFMNTASKMYSMSEVKKHNSAD-SAWIIVHGHVYDATRFLKDHPGGIDSILINAGTDCTEEFDAI----
+-HSDKA--KKLLEDFRIGELI---------*
+>P1;gi|730137|sp|P39867|NIA1_BRANA Nitrate reductase [NADH], clone P... [ score 130 E 7e-30 ] [ range 533 .. 614 ]
+sequence
+-PFMNTASKMYSMSEVRKHNSAE-SAWIIVHGHIYDCTRFLKDHPGGSDSILINAGTDCTEEFEAI----
+-HSDKA--KKLLEDYRIGELI---------*
+>P1;gi|22203984|gb|AAL17669.1| assimilatory nitrate reductase heme d... [ score 130 E 1e-29 ] [ range 5 .. 88 ]
+sequence
+-PFMNTTSKMYSMSEVKKHNTAD-SAWIVVHGNVYNATRFLKDHPGGSDSILINAGTDCTEEFDAI----
+-HSDKA--KRLLEDFRIGELIS--T-----*
+>P1;gi|486751|pir||S35228 nitrate reductase (NADH) (EC 1.7.1.1) 1 - ... [ score 129 E 1e-29 ] [ range 539 .. 620 ]
+sequence
+-PFMNTASKMYSISEVRKHNTAD-SAWIIVHGHIYDCTRFLKDHPGGTDSILINAGTDCTEEFEAI----
+-HSDKA--KKLLEDYRIGELI---------*
+>P1;gi|1762628|gb|AAB39553.1| nitrate reductase [ score 129 E 1e-29 ] [ range 249 .. 330 ]
+sequence
+-PFMNTNSKMFSMSEIKKHNSAE-SAWIVVHGHVYDATRFLKDHPGGSDSILINAGTDCTEEFDAI----
+-HSDKA--KKMIEDFRIGELI---------*
+>P1;gi|38110336|gb|EAA56072.1| hypothetical protein MG01723.4 [Magna... [ score 129 E 2e-29 ] [ range 4 .. 80 ]
+sequence
+-----------TGAEVAKHDSSQ-SCWVIVHGKAYDVTEFLPEHPGGAKIILKYAGKDATEEFDPI----
+-HPPDTLDKYLDKSKHMGPVDM--ST----*
+>P1;gi|43551132|gb|EAE30343.1| unknown [environmental sequence] [ score 129 E 2e-29 ] [ range 174 .. 250 ]
+sequence
+-------KRTLTMDEVSKHNSEG-DLWVIIEGSVYDLTAFLPDHPGGKKAIMLFAGKDATEEFNML----
+-HPPNVLKKYLSPDAKVGEL----------*
+>P1;gi|24474446|gb|AAN15927.1| nitrate reductase [Tilia platyphyllos] [ score 129 E 2e-29 ] [ range 514 .. 595 ]
+sequence
+-PFMNTDSKTFSMSEVRKHNSAD-SAWIVVHGNIYDCTRFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKA--KKLLEDYRVGELI---------*
+>P1;gi|42545002|gb|EAA67845.1| hypothetical protein FG01027.1 [Gibbe... [ score 128 E 3e-29 ] [ range 3 .. 85 ]
+sequence
+--------KVFDAAEVAKHNTPE-SCWVILYGKVYDVTEFLPSHPGGKKIILKLAGKDATEEYDPV----
+-HPPGTLEENLKPEHVLGEINP--ETLSQ-*
+>P1;gi|1171707|sp|P43101|NIA_CICIN Nitrate reductase [NADH] (NR) >gi... [ score 127 E 4e-29 ] [ range 528 .. 609 ]
+sequence
+-PFMNTTSLTFTMSEVKKHNSAD-SAWIVVHGHIYDCTSFLKDHPGGSDSILLNAGTDCTEEFDAI----
+-HSDKA--KKLLEEYRVGELI---------*
+>P1;gi|1762630|gb|AAB39554.1| nitrate reductase [ score 127 E 4e-29 ] [ range 107 .. 188 ]
+sequence
+-PFMNTNSKMFSMSEVKKHNSAE-SAWIVVHGNLYDATRFLKDHPGGSDNILINAGTDCTEEFDAI----
+-HSAKA--KKMLEDYRIGELI---------*
+>P1;gi|730140|sp|P39868|NIA2_BRANA Nitrate reductase [NADH], clone P... [ score 127 E 5e-29 ] [ range 533 .. 614 ]
+sequence
+-PFMNTSAKMYSMSEVRKHNSVE-SAWIIVHGHIYDCTRFLKDHPGGSDSILINAGTDCTEEFEAI----
+-HSDKA--KKLLEDYRIGELI---------*
+>P1;gi|730139|sp|P39865|NIA1_PHAVU Nitrate reductase [NADH] 1 (NR-1)... [ score 127 E 5e-29 ] [ range 509 .. 589 ]
+sequence
+-PFMNTATKSYSLSEVRRHNNRD-SAWIIVNGHVYDCTRFLKDHPGGEDSILLNAGTDCTEEFEAI----
+-HSDKA--KKMLEDYRIGEL----------*
+>P1;gi|66204|pir||RDNTNT nitrate reductase (NADH) (EC 1.7.1.1) nia-1... [ score 127 E 6e-29 ] [ range 525 .. 605 ]
+sequence
+-PFMNTASKMYSMSEVRKHSSAD-SAWIIVHGHIYDATRFLKDHPGGSDSILINAGTDCTEEFDAI----
+-HSDKA--KKLLEEFRIGEL----------*
+>P1;gi|929750|emb|CAA29497.1| unnamed protein product [Nicotiana tab... [ score 127 E 8e-29 ] [ range 355 .. 436 ]
+sequence
+-PFMNTASKMYSMSEVRKHSSAD-SAWIIVHGHIYDATRFLKDHPGGTDSILINAGTDCTEEFDAI----
+-HSDKA--KKLLEDFRIGELI---------*
+>P1;gi|1709267|sp|P54233|NIA1_SOYBN Inducible nitrate reductase [NAD... [ score 126 E 1e-28 ] [ range 507 .. 587 ]
+sequence
+-PFMNTTSKTYTMSEVRRHNNAD-SAWIIVHGHVYDWTRFLKDHPGGTDRILINAGTDCTEEFEAI----
+-HSDKA--KQMLEDYRIGEL----------*
+>P1;gi|117803|sp|P09437|CYB2_HANAN Cytochrome B2, mitochondrial prec... [ score 125 E 2e-28 ] [ range 82 .. 158 ]
+sequence
+---------ELTPEIVSQHNKKD-DLWVVLNGQVYDLTDFLPNHPGGQKIIIRYAGKDATKIFVPI----
+-HPPDTIEKFIPPEKHLGPLVG--------*
+>P1;gi|42551202|gb|EAA74045.1| hypothetical protein FG05328.1 [Gibbe... [ score 125 E 2e-28 ] [ range 7 .. 77 ]
+sequence
+--------------EVAEHNSAD-SCWVIVHGKAYDVTEFLPEHPGGKKIILKYAGKDATEAYEPI----
+-HPPDTLDKFLEASKHLGPVD---------*
+>P1;gi|128195|sp|P17570|NIA_LYCES Nitrate reductase [NADH] (NR) >gi|... [ score 125 E 3e-28 ] [ range 530 .. 611 ]
+sequence
+-PFMNTASKMYSMSEVRKHNSSD-SAWIIVHGHIYDASRFLKDHPGGVDSILINAGTDCTEEFDAI----
+-HSDKA--KKLLEDFRIGELI---------*
+>P1;gi|42407404|dbj|BAD09562.1| putative nitrate reductase apoenzyme... [ score 125 E 3e-28 ] [ range 534 .. 616 ]
+sequence
+-PFMNTTDKQFTMSEVRKHSSQD-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKA--KALLDTYRIGELI---------*
+>P1;gi|38101763|gb|EAA48677.1| hypothetical protein MG00335.4 [Magna... [ score 124 E 4e-28 ] [ range 3 .. 86 ]
+sequence
+--------KVFDAEEVAKHNTPE-SCWVILYGDVYDVTDFVPSHPGGSRIILQLAGRDATEEYDPV----
+-HPPGTLEENLKPEAKLGTVDP--ASLERL*
+>P1;gi|14041825|dbj|BAB55002.1| nitrate reductase [Prunus persica] [ score 124 E 5e-28 ] [ range 517 .. 598 ]
+sequence
+-PFMNTTSKTYSLSEVEKHNSPQ-SAWIIIQGHIYDCTRFLNDHPGGADSILINAGTDCTEEFDAI----
+-HSDKA--KKMLEDYRIGEL----------*
+>P1;gi|128185|sp|P27967|NIA1_HORVU Nitrate reductase [NADH] (NR) >gi... [ score 124 E 5e-28 ] [ range 531 .. 613 ]
+sequence
+-PFMNTADKQFTMSEVRKHGSKE-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGSDCTEEFDAI----
+-HSDKA--KALLDTYRIGELI---------*
+>P1;gi|100901|pir||S19254 nitrate reductase (NADH) (EC 1.7.1.1) flav... [ score 123 E 1e-27 ] [ range 241 .. 324 ]
+sequence
+-PFMNTTDKEFTMSEVRKHASQE-SAWIVVHGHVYDCTKFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKA--KALLDTYRIGELI---------*
+>P1;gi|5020385|gb|AAD38068.1| nitrate reductase [Zea mays] [ score 123 E 1e-27 ] [ range 530 .. 613 ]
+sequence
+-PFMNTTDKQFTMSEVRKHASQE-SAWIAVHGHVYDCTKFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKA--KALLDTYRIGELI---------*
+>P1;gi|128191|sp|P27968|NIA7_HORVU Nitrate reductase [NAD(P)H] >gi|6... [ score 120 E 8e-27 ] [ range 509 .. 590 ]
+sequence
+-PFMSTASAQFTMSEVRRHASKD-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGSDCTEEFDAI----
+-HSAKA--RGLLEMYRVGELI---------*
+>P1;gi|32414337|ref|XP_327648.1| hypothetical protein [Neurospora cr... [ score 118 E 2e-26 ] [ range 1 .. 89 ]
+sequence
+---MTKPPKVFTAEEVAKHRSPK-SCWVVLYGNVYDVTEFLPSHPAGDKIILQLAGRDATTEYDPI----
+-HPPGTLEENLKPEAKLGIIDD--ASLAKL*
+>P1;gi|1352497|sp|P49102|NIA3_MAIZE Nitrate reductase [NADH] 3 (NR) ... [ score 118 E 4e-26 ] [ range 516 .. 594 ]
+sequence
+---TSTTNQQFTMSEVRKHASQD-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKA--KELLDTYRIGDL----------*
+>P1;gi|38105623|gb|EAA52024.1| hypothetical protein MG03619.4 [Magna... [ score 118 E 4e-26 ] [ range 533 .. 615 ]
+sequence
+-----IPEKEFTMEEVAKHNKKD-DLWVVVKGVVMDLSDWLEEHPGGPQAIMNFMGRDATEEFEML----
+-HDDEVIPKY-APSQVIGRVKG--VKP---*
+>P1;gi|40743137|gb|EAA62327.1| hypothetical protein AN5146.2 [Asperg... [ score 117 E 6e-26 ] [ range 3 .. 82 ]
+sequence
+--------KVFDAAEVAKHNTKD-SCWVILYGKV---TDFLSEHPGGSKIILKLSGQDATEEYDPI----
+-HPPGILEENLKPEAFLGTVDS--ATLPK-*
+>P1;gi|548361|sp|P36841|NIA_VOLCA Nitrate reductase [NADH] (NR) >gi|... [ score 116 E 1e-25 ] [ range 498 .. 576 ]
+sequence
+--------RQYTMEEVAAHNTEE-SCWFVHGGKVYDATPYLDEHPGGAESILIVAGADATDEFNSI----
+-HSSKA--KAMLAQYYIGDLVA--SKP---*
+>P1;gi|14719320|gb|AAK73138.1| cytochrome B5 [Oryza sativa] [ score 116 E 1e-25 ] [ range 3 .. 87 ]
+sequence
+----NDNKKVYTLEEVAKHNSKD-DCWLIIGGKVYNVSKFLEDHPGGDDVLLSSTGKDATDDFEDV----
+-HSTTA--RAMMDEYYVGDIDT--STIP--*
+>P1;gi|548358|sp|P08619|NIA_NEUCR Nitrate reductase [NADPH] (NR) >gi... [ score 116 E 1e-25 ] [ range 604 .. 699 ]
+sequence
+EPVKEISMRLITLEELRQHDGEE-EPWFVVNGQVYNGTPFLEGHPGGAASITGAAGQDVTDEFLAI----
+-HSENA--KAMMPTYHIGTLTP--SAPAAL*
+>P1;gi|32422671|ref|XP_331779.1| hypothetical protein [Neurospora cr... [ score 115 E 2e-25 ] [ range 525 .. 611 ]
+sequence
+-PKFTIPDKEYTMEEVAKHNKKE-DLWVVVKGVVLDLTNWLEEHPGGVQALLNFMGRDATEEFEML----
+-HDDEVIPKY-APEQVIGRVKG--QK----*
+>P1;gi|12229735|sp|O04354|CYB5_BOROF Cytochrome b5 >gi|2062405|gb|AA... [ score 115 E 2e-25 ] [ range 3 .. 83 ]
+sequence
+--------KIFTLAEVAQHNNSK-DCWLIINGKVYDVTKFLEDHPGGDDVLLSATGKDATDDFEDI----
+-HSSSA--KAMLDEYYVGDIDS--SSIP--*
+>P1;gi|1345881|sp|P49100|CYB5_ORYSA Cytochrome b5 >gi|1076743|pir||S... [ score 115 E 2e-25 ] [ range 3 .. 87 ]
+sequence
+----NDNKKVYTLEEVAKHNSKD-DCWLIIGGKVYNVSKFLEDHPGGDDVLLSSTGKDATDDFEDV----
+-GHTTTA-RAMMDEYYVGDIDT--STIP--*
+>P1;gi|15147883|dbj|BAB62850.1| putative delta-6 fatty acyl desatura... [ score 114 E 4e-25 ] [ range 12 .. 102 ]
+sequence
+EPDSGKAKGVYTWEEVQSHCSRN-DQWLVIDRKVYNITQWAKRHPGGFQVISFYAGEDATEAFTAF----
+-HPPKFVHKFLKP-LLIGELAT--TEPSQ-*
+>P1;gi|15222687|ref|NP_173958.1| cytochrome b5, putative [Arabidopsi... [ score 114 E 5e-25 ] [ range 1 .. 88 ]
+sequence
+---MPTLTKLYSMEEAATHNKQD-DCWVVIDGKVYDVSSYMDEHPGGDDVLLAVAGKDATDDFEDA----
+-HSKDARE--LMEKYFIGELDE--SSLPEI*
+>P1;gi|40745094|gb|EAA64250.1| hypothetical protein AN1543.2 [Asperg... [ score 113 E 7e-25 ] [ range 538 .. 623 ]
+sequence
+--KFTIPETEYSMEEVAKHNKKD-DLWIVVKGIILDVTNWLDEHPGGANALFNFMGRDATEEFEML----
+-HDDEVIPKY-APHIVIGRVKG--QTP---*
+>P1;gi|32351448|gb|AAP75705.1| nitrate reductase [Dunaliella salina] [ score 113 E 7e-25 ] [ range 535 .. 620 ]
+sequence
+-PKATGSGKEYTMEEVAQHTTHD-SAWFVHEGKVYDATAFLDEHPGGSDSILTATGADATEDFNAI----
+-HSKKA--RNMLADYYIGELAA--SKP---*
+>P1;gi|685157|gb|AAA96243.1| nitrate reductase [ score 113 E 1e-24 ] [ range 1 .. 78 ]
+sequence
+-----TDDKQFTMSEVRKHGSED-SAWIVVHGHVYDCTAFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKA--KALLDAHRIGQLI---------*
+>P1;gi|15239718|ref|NP_199692.1| cytochrome b5 [Arabidopsis thaliana... [ score 113 E 1e-24 ] [ range 1 .. 86 ]
+sequence
+---MGGDGKVFTLSEVSQHSSAK-DCWIVIDGKVYDVTKFLDDHPGGDEVILTSTGKDATDDFEDV----
+-HSSTA--KAMLDEYYVGDIDT--ATVP--*
+>P1;gi|45187788|ref|NP_984011.1| ADL085Cp [Eremothecium gossypii] >g... [ score 112 E 2e-24 ] [ range 91 .. 169 ]
+sequence
+--------RKISIEEVSQHTSRD-DCWFIIHGRVYDITGLLENHPGGTKILLKYAGRDATLPFDDV----
+-HSMESLIYDMAPGSYLGEVDG--------*
+>P1;gi|22652111|gb|AAN03619.1| sphingolipid long chain base delta 8 ... [ score 112 E 2e-24 ] [ range 1 .. 87 ]
+sequence
+---MTEKRREITSEELKKHNKHG-DIWISIQGKIYDVSEWIKDHPGGEAPLLNLAGQDVTDAFVAF----
+-H-PGSAWKYL-DKFFIGYLKD--YTISEV*
+>P1;gi|1345882|sp|P49098|CYB5_TOBAC Cytochrome b5 [ score 112 E 2e-24 ] [ range 1 .. 86 ]
+sequence
+---MGGETKVFTLAEVSQHNNAK-DCWLVISGKVYDVTKFLDDHPGGDEVLLSATGKDATDDFEDV----
+-HSSSA--RAMLDEYYVGDIDS--ATIP--*
+>P1;gi|18913155|gb|AAL79356.1| assimilatory nitrate reductase [Dunal... [ score 111 E 3e-24 ] [ range 515 .. 598 ]
+sequence
+--PPPGSAKEFTMEEVAEHTSPE-SAWFVHEGKVYDATPFLEDHPGGPDSILIATGADATEDFNAI----
+-HSKKA--KNMLKDYYIGELVA--SK----*
+>P1;gi|685206|gb|AAA96248.1| nitrate reductase [ score 111 E 4e-24 ] [ range 4 .. 78 ]
+sequence
+--------KQFTMSEVRKHGSKD-SAWIVVHGHVYDCTGFLKDHPGGADSILINAGTDCTEEFDAI----
+-HSDKA--KALLDAHRIGELI---------*
+>P1;gi|2647949|emb|CAA04702.1| cytochrome b5 [Olea europaea] [ score 111 E 4e-24 ] [ range 2 .. 83 ]
+sequence
+-------SKVFTLAEVSEHNNAK-DCWLIIDGKVYDVTKFLEDHPGGDEVLLSATGKDATDDFEDV----
+-HSSTA--KAMMDEFYVGDFDT--STVP--*
+>P1;gi|15225731|ref|NP_180831.1| cytochrome b5, putative [Arabidopsi... [ score 111 E 4e-24 ] [ range 1 .. 87 ]
+sequence
+---MGDEAKIFTLSEVSEHNQAH-DCWIVINGKVYNVTKFLEDHPGGDDVLLSSTGKDATDDFEDV----
+-HSESARE--MMEQYYVGEIDP--TTIPK-*
+>P1;gi|30090027|gb|AAO17707.1| cytochrome b5 [Sorghum bicolor] [ score 111 E 5e-24 ] [ range 1 .. 86 ]
+sequence
+---MPTLTKLYSMEEAALHNTPD-DCWVVVDGKIYDVTKYLEDHPGGADVLLEATGKDATEEFDDA----
+-HSKSA--KELMQDYFIGELDP--T--PEI*
+>P1;gi|15238776|ref|NP_200168.1| cytochrome b5 isoform 1 [Arabidopsi... [ score 111 E 5e-24 ] [ range 1 .. 86 ]
+sequence
+---MSSDRKVLSFEEVSKHNKTK-DCWLIISGKVYDVTPFMDDHPGGDEVLLSSTGKDATNDFEDV----
+-HSDTARD--MMDKYFIGEIDS--SSVP--*
+>P1;gi|13092403|emb|CAC29483.1| possible fumarate reductase flavopro... [ score 110 E 6e-24 ] [ range 594 .. 668 ]
+sequence
+--------KRYTRAEVAKHNKES-DCWCIVRGLVLNLTEFLPDHPGGKQSVLMYAGGDATKEFDLV----
+-HQPEVIDKY-TPDAIIGVV----------*
+>P1;gi|42546925|gb|EAA69768.1| hypothetical protein FG02137.1 [Gibbe... [ score 110 E 7e-24 ] [ range 4 .. 79 ]
+sequence
+----------FTAKEVAAHNTRG-DCWTIIKGQVYDVTKYMEDHPGGADVLIESAGKDSTIEFDSA----
+-HSEDAFE--IMEEYRIGEYKG--A-----*
+>P1;gi|34905998|ref|NP_914346.1| putative cytochrome B5 [Oryza sativ... [ score 110 E 7e-24 ] [ range 3 .. 85 ]
+sequence
+------NNKVLTLEEVSKHNTKD-DCWLIIGGKVYNVTKFLEDHPGGDDVLLSSTAKDATDDFEDV----
+-HSTTA--RAMMDEYYVGDIDA--TTIP--*
+>P1;gi|23428438|gb|AAL17639.1| putative delta 6-desaturase [Sparus a... [ score 110 E 8e-24 ] [ range 12 .. 102 ]
+sequence
+EPGSRRAGGVYTWEEVQSHSSRN-DQWLVIDRKVYNVTKWAKRHPGGFRVINHYAGEDATEAFTAF----
+-HPDKFVQKFLKP-LLIGELAA--TEPSQ-*
+>P1;gi|24211703|sp|Q9DEX7|FADS_BRARE Delta-5/delta-6 fatty acid desa... [ score 110 E 8e-24 ] [ range 12 .. 101 ]
+sequence
+---TDTNGRFYTWEEVQKHTKHG-DQWVVVERKVYNVSQWVKRHPGGLRILGHYAGEDATEAFTAF----
+-HPNQLVRKYLKP-LLIGELEA--SEPSQ-*
+>P1;gi|729252|sp|P40934|CYB5_BRAOL Cytochrome B5 >gi|7430587|pir||T1... [ score 110 E 8e-24 ] [ range 1 .. 86 ]
+sequence
+---MASEKKVLGFEEVSQHNKTK-DCWLIISGKVYDVTPFMDDHPGGDEVLLSSTGKDATNDFEDV----
+-HSDTARD--MMEKYYIGEIDS--STVP--*
+>P1;gi|1345925|sp|P49099|CYS5_TOBAC Cytochrome b5, seed isoform >gi|... [ score 110 E 9e-24 ] [ range 1 .. 86 ]
+sequence
+---MGGQSKVFTLAEVSNHNNAK-DCWLIISGKVYNVTKFLEDHPGGGEVLLSATGKDATDDFEDI----
+-HSSSA--RAMLDEYYVGDIDS--STIP--*
+>P1;gi|2342599|emb|CAA04554.1| Nitrate reductase [Metarhizium anisop... [ score 110 E 1e-23 ] [ range 524 .. 619 ]
+sequence
+EPEQDVADRLVTMCELKSHSGEQ-EPWFIVDGQVYDGTPFLEGHPGGSASIFGAAGQDVTEEFVTI----
+-HSENA--KAMMPAYHIGKLDE--DALAQL*
+>P1;gi|6573214|gb|AAF17595.1| nitrate reductase [Chlamydomonas reinh... [ score 109 E 1e-23 ] [ range 509 .. 586 ]
+sequence
+--------KQYTLEEVAEHASEE-SCWFVHEGRVYDATPYLNDHPGGAESILITAGADATDEFNAI----
+-HSSKA--KAMLAQYYIGDLVA--SK----*
+>P1;gi|33330963|gb|AAQ10732.1| delta-8-sphingolipid desaturase [Anem... [ score 109 E 2e-23 ] [ range 5 .. 87 ]
+sequence
+-------RREISSQELAQHTNKG-DLWISIQGKVYDVSEWVKDHPGGDAPLMNLAGQDVTDAFVAF----
+-H-PGSAWKYL-DKFHIGYLSD--YVVSDV*
+>P1;gi|5263169|dbj|BAA81814.1| fatty acid desaturase [Dictyostelium ... [ score 109 E 2e-23 ] [ range 11 .. 96 ]
+sequence
+-----ITGKQYSWSELAKHNTEN-DCWVAVDGKVYDITRWVPLHPGGKEVLLLAAGRDVTNLFESY----
+-HPMSDKPTSILKNYEIGYISS--YEHPK-*
+>P1;gi|7432652|pir||S72541 nitrate reductase (NADH) (EC 1.7.1.1) [si... [ score 109 E 2e-23 ] [ range 496 .. 579 ]
+sequence
+-PPAPAGAKSFTMAEVETHTTME-SAWFVVDGKVYDATPFLKDHPGGADSILLVAGTDATDEFNAI----
+-HSLKAKKQLL--EYYIGELAE--E-----*
+>P1;gi|40740999|gb|EAA60189.1| hypothetical protein AN4424.2 [Asperg... [ score 108 E 2e-23 ] [ range 5 .. 87 ]
+sequence
+--------KLVSTQEISGHNKPD-DCWIVVDNHVWDVTNFLATHPGGPTIILKYAGRDATKAYSEV----
+-HTPGLLKAELAPEQYKGKLDE--ATIDE-*
+>P1;gi|4150956|dbj|BAA37090.1| delta 5 fatty acid desaturase [Dictyo... [ score 108 E 2e-23 ] [ range 13 .. 95 ]
+sequence
+--------KLYTWDEVSKHNQKN-DLWIIVDGKVYNITKWVPLHPGGEDILLLSAGRDATNLFESY----
+-HPMTDKHYSLIKQYEIGYISS--YEHPK-*
+>P1;gi|24899389|gb|AAN64993.1| nitrate reductase [Tuber borchii] [ score 108 E 2e-23 ] [ range 570 .. 650 ]
+sequence
+----DSVKRTIEIEELRSHDNAT-EPWFIVEGEVYDGKPFLEEHPGGATSIISAAGQDATDEFVGI----
+-HSESA--KAMMPKYHIGTLSP--A-----*
+>P1;gi|31322226|gb|AAO63560.1| nitrate reductase [Verticillium fungi... [ score 108 E 3e-23 ] [ range 531 .. 611 ]
+sequence
+-PKID---RVIKLEELKAHSGET-EPWFVIKGHVYDGTPYLDGHPGGATSIINAAGQDTTEEFITI----
+-HSENA--KAMMPKYHIGTLDA--A-----*
+>P1;gi|38490061|gb|AAR21624.1| delta-6 fatty acyl desaturase [Salmo ... [ score 108 E 3e-23 ] [ range 31 .. 111 ]
+sequence
+----------YTWEEVQRHSHRG-DQWLVIDRKVYNITQWAKRHPGGIRVISHFAGEDATDAFVAF----
+-HPPNFVRKFLKP-LLIGELAP--TEPSQ-*
+>P1;gi|42476248|ref|NP_571720.2| fatty acid desaturase 2; delta-6 fa... [ score 108 E 3e-23 ] [ range 12 .. 101 ]
+sequence
+---TDTNGRFYTWEEMQKHTKHG-DQWVVVERKVYNVSQWVKRHPGGLRILGHYAGEDATEAFTAF----
+-HPNQLMRKYLKP-LLIGELEA--SEPSQ-*
+>P1;gi|37536104|ref|NP_922354.1| putative cytochrome [Oryza sativa (... [ score 108 E 3e-23 ] [ range 1 .. 86 ]
+sequence
+---MAGEKKVFGFEEVAGHNVTK-DCWLIIAGKVYDVTSFMDEHPGGDEVLLAVTGKDATNDFEDI----
+-HSESARE--MMEKYLIGEIDA--STIP--*
+>P1;gi|42546333|gb|EAA69176.1| hypothetical protein FG01812.1 [Gibbe... [ score 108 E 3e-23 ] [ range 3 .. 83 ]
+sequence
+---TSMETRIVSLAEIKQHNTAD-DCWIAVHSKVWDITHFINQHPGGPDVLLNSAGSDATDIYNEV----
+-HAPEIIED-LPSDKLIGFLE---------*
+>P1;gi|15281354|dbj|BAB63440.1| putative delata 6-desaturase [Oncorh... [ score 108 E 3e-23 ] [ range 31 .. 111 ]
+sequence
+----------YTWEEVQKHCHRS-DQWLVIDRKVYNITQWAKRHPGGIRVISHFAGEDATEAFVAF----
+-HEPNFVRKFLKP-LLIGELAP--TEPSQ-*
+>P1;gi|44921596|gb|AAS49163.1| delta-6 fatty acyl desaturase [Scopht... [ score 108 E 3e-23 ] [ range 22 .. 102 ]
+sequence
+----------YTWEEVQSHSSRT-DQWLVIDRKVYNTTQWAKRHPGGFHVISHYAGQDATEAFTAF----
+-HPDKFVQKFLKP-LLIGELAA--TEPSQ-*
+>P1;gi|17559144|ref|NP_505975.1| cytochrome b5 (5M279) [Caenorhabdit... [ score 108 E 3e-23 ] [ range 129 .. 216 ]
+sequence
+--KTTMSDSIITRSEVNMHCSED-DCWIIVGNYVYDVTKFVDLHPGGPEILLEFAGGDATDAFESV----
+--GHSMCARMMLTKFKIGSLPE--DERPD-*
+>P1;gi|2385386|emb|CAA04758.1| L-mandelate dehydrogenase [Rhodotorul... [ score 108 E 3e-23 ] [ range 81 .. 163 ]
+sequence
+--KQRGRARSISAAEVAKHNSRD-SMWVCIDDEVWDITNFVELHPGGAKVLEQNAGKDVTKVFKSI----
+-HPPKTLEKFLTDDNFVGRID---------*
+>P1;gi|42552301|gb|EAA75144.1| hypothetical protein FG10790.1 [Gibbe... [ score 107 E 4e-23 ] [ range 2 .. 98 ]
+sequence
+-------SKTFTTSDVASHNKPG-DLYIIVDGDVYDLTKFQDDHPGGKKILQRVAGKDASKQFWKY----
+-HNEGILKKYKAPEPKAAPVPA--ALTPK-*
+>P1;gi|32421239|ref|XP_331063.1| hypothetical protein [Neurospora cr... [ score 107 E 4e-23 ] [ range 2 .. 78 ]
+sequence
+-------SKIFTQADVSSHSKPD-SLWIVIDGDVYDVTKFADDHPGGKKILQRVGGKDASKQFWKY----
+-HNEGILKKY-QGKLQIGSLD---------*
+>P1;gi|38106528|gb|EAA52821.1| hypothetical protein MG05949.4 [Magna... [ score 107 E 5e-23 ] [ range 3 .. 83 ]
+sequence
+------SAKTFTREEVKKHNTED-DVWFIIDSVVYDVSDFLDAHPGGEAVLRQAAGTDATTDFYNL----
+-HRHEVLTKY--KDLAIGTIVN--EKP---*
+>P1;gi|13447755|gb|AAK26745.1| putative delta 6-desaturase [Oncorhyn... [ score 107 E 5e-23 ] [ range 31 .. 111 ]
+sequence
+----------YTWEEVQKHCHRS-DKWLVIDRKVYNITQWAKRHPGGIRVISHFAGEDATDAFVAF----
+-HPPNFVRKFLKP-LLIGELAT--TEPSQ-*
+>P1;gi|32421745|ref|XP_331316.1| hypothetical protein [Neurospora cr... [ score 107 E 5e-23 ] [ range 4 .. 87 ]
+sequence
+--VLNVPDKTFTREEVKKHNTED-STWFIIDSVVYDVSEFLDAHPGGEAVLRQVAGQDATSAFYNL----
+-HRHEVLIKY--NDLAIGSIKG--EK----*
+>P1;gi|42546000|gb|EAA68843.1| NIA_FUSOX Nitrate reductase [NADPH] (... [ score 107 E 5e-23 ] [ range 526 .. 600 ]
+sequence
+--------REITIEELKAHEGED-EPWFVVNGEVYDGTPYLSGHPGGAASIFGAAGQDATEEFMAI----
+-HSENA--KAMLPTYHIGTLN---------*
+>P1;gi|25044825|gb|AAM28288.1| cytochrome b5 [Ananas comosus] [ score 107 E 6e-23 ] [ range 1 .. 86 ]
+sequence
+---MATDHKIYGFEEVAKHNATK-DCWLIISGKVYDVTPFMDEHPGGDEVLLAATGKDATNDFEDV----
+-GHSNSARE-MMAKYCIGEIDA--ATVP--*
+>P1;gi|4204575|gb|AAD10774.1| cytochrome b5 DIF-F [Petunia x hybrida... [ score 107 E 6e-23 ] [ range 5 .. 86 ]
+sequence
+--------RVFTLSQVAEHKSKQ-DCWIIINGRVVDVTKFLEEHPGGEEVLIESAGKDATKEFQDI----
+-HSKAA--KNLLFKYQIGYLQG--YKASD-*
+>P1;gi|40739226|gb|EAA58416.1| hypothetical protein AN6394.2 [Asperg... [ score 107 E 7e-23 ] [ range 2 .. 82 ]
+sequence
+-------SKTFTRDEVAKHNTED-SLWCIIDHRVYDLTDFLDAHPGGSVVLSQIAGKDATTDFYNL----
+-HRHEVLTKYRDSLC-IGTIAD--EKP---*
+>P1;gi|1561580|emb|CAA62232.1| nitrate reductase [Gibberella fujikuroi] [ score 107 E 8e-23 ] [ range 549 .. 625 ]
+sequence
+--------RKITIEELKAHSGEE-EPWFVVKGEVYDGTPYLSGHPGGAASIFGAAGQDATEEFMAI----
+-HSENA--KAMLPTYHIGTLDE--E-----*
+>P1;gi|2894356|emb|CAA74005.1| nitrate reductase (NADPH) [Phaeosphae... [ score 107 E 8e-23 ] [ range 531 .. 612 ]
+sequence
+---KDGVDKQISIDELRKHDNAE-NPWFVVNGEVYDGTAFLEGHPGGAQSIVSVAGLDASDEFMAI----
+-HSETA--KAMMPDYHIGSLDE--A-----*
+>P1;gi|7331156|gb|AAF60299.1| cytochrome b5 DIF-F [Petunia x hybrida] [ score 107 E 8e-23 ] [ range 5 .. 86 ]
+sequence
+--------RVFTLSQVAEHKSKQ-DCWIIINGRVVDVTKFLEEHPGGEEVLIESAGKDATKEFQDI----
+-GHSKA-TKNLLFKYQIGYLQG--YKASD-*
+>P1;gi|128192|sp|P22945|NIA_EMENI Nitrate reductase [NADPH] (NR) >gi... [ score 106 E 9e-23 ] [ range 499 .. 587 ]
+sequence
+EPVVEVNMKKIDLEEFKKNSSDE-RPWFVVNGEVYDGTAFLEGHPGGAQSIISAAGTDASEEFLEI----
+-HSETA--KKMMPDYHIGTLD---------*
+>P1;gi|10954037|gb|AAG25711.1| putative delta-6 fatty acyl desaturas... [ score 106 E 1e-22 ] [ range 20 .. 101 ]
+sequence
+---------TYTWEEVQKHTKFG-DQWIEVERKVYNVSQWVKRHPGGVRILGHYAGEDATEAFTAF----
+-HPDPLVRKYMKP-LLIGELEA--SEPSQ-*
+>P1;gi|16904665|dbj|BAB71963.1| putative delata 6-desaturase [Oncorh... [ score 106 E 1e-22 ] [ range 29 .. 109 ]
+sequence
+----------YTWEEVQKHCHRS-DQWLVIDREVYNITQWAKRHPGGIRVISHFAGEDATDAFVAF----
+-HPDNFVRKFLKP-LLIGELAP--TEPSQ-*
+>P1;gi|39592076|emb|CAE75296.1| Hypothetical protein CBG23264 [Caeno... [ score 106 E 1e-22 ] [ range 271 .. 358 ]
+sequence
+--KKIMSDAIFTRSEVSMHCGED-DCWIIVGNYVYDVTKFVDMHPGGPEILLEFAGGDATDAFESV----
+--GHSMCARMMLTKFKIGSLPE--EERPD-*
+>P1;gi|38105387|gb|EAA51823.1| hypothetical protein MG03418.4 [Magna... [ score 106 E 1e-22 ] [ range 2 .. 78 ]
+sequence
+-------SKVFTTSDVASHNKPN-DLYIIVDGDVYDLTKFQDDHPGGKKILTRVAGKDASKAFWKY----
+-HNEGILKKY-QSKLQVGSLD---------*
+>P1;gi|40745539|gb|EAA64695.1| hypothetical protein AN2590.2 [Asperg... [ score 106 E 1e-22 ] [ range 1 .. 88 ]
+sequence
+---MDKDSNEISVQEILSHNTPN-DCWVVIQGEVWDLTAFANEHPGGPSVILKYAGRDATDAFLGI----
+-HAPTIIRENLSSGHFKGRLDT--ST----*
+>P1;gi|16033740|gb|AAL13311.1| delta-5 fatty acid desaturase [Pythiu... [ score 106 E 1e-22 ] [ range 7 .. 84 ]
+sequence
+--------KTFTWQEVAKHNTAK-SAWVIIRGEVYDVTEWADKHPGGSELIVLHSGRECTDTFYSY----
+-HPSNRADKILA-KYKIGKLVG--------*
+>P1;gi|14530946|gb|AAK63186.1| probable acyl-CoA dehydrogenase [Glom... [ score 106 E 2e-22 ] [ range 2 .. 76 ]
+sequence
+-------SKRITADEVAQHNTEG-SIWIIVHDKVFDVTNFLNEHPGGKKVLLKVAGTDATKQFDNF----
+-HNLSVLEKHT--QLQIGEV----------*
+>P1;gi|45198298|ref|NP_985327.1| AFL223Wp [Eremothecium gossypii] >g... [ score 105 E 2e-22 ] [ range 34 .. 122 ]
+sequence
+-PPTETTMKLYTYQEIAEHNSEN-DLWLIINGKVYDCTKFAEEHPGGDEVLIDLAGQDATEPFADI----
+-HSDDAVK--MLEGLYVGDLDK--DSEP--*
+>P1;gi|14290486|gb|AAH09011.1| FADS2 protein [Homo sapiens] [ score 105 E 2e-22 ] [ range 15 .. 101 ]
+sequence
+----EVSVPTFSWEEIQKHNLRT-DRWLVIDRKVYNITKWSIQHPGGQRVIGHYAGEDATDAFRAF----
+-HPDEFVGKFLKP-LLIGELAP--EEPSQ-*
+>P1;gi|40644254|emb|CAD22050.1| cytochrome b5 [Oryza sativa (japonic... [ score 105 E 2e-22 ] [ range 9 .. 92 ]
+sequence
+------AKKLFSASDVVGHASRK-DCWVVIHGKVYDVTKFLEDHPGGEDVLLHAASGDATEAFEDV----
+-HSTSAIS--MMNNYLIGSIKD--YVPP--*
+>P1;gi|38106653|gb|EAA52934.1| hypothetical protein MG06062.4 [Magna... [ score 105 E 2e-22 ] [ range 552 .. 626 ]
+sequence
+--------KTITLDELKAHDSES-QPWFVVDGQVYDGIKFLEGHPGGAASIIGAAGQDCSEEFLTI----
+-HSENA--KAMMPEYHIGSLD---------*
+>P1;gi|1171706|sp|P43100|NIA_BEABA Nitrate reductase [NADPH] (NR) >g... [ score 105 E 2e-22 ] [ range 522 .. 612 ]
+sequence
+EPEKEICMRIISLEELKAHEGEM-EPWFVVNGHVYNGTPYLDNHPGGATSIINAAAQDATEEFMTI----
+-HSENA--KAMMPQYHIGTLND--A-----*
+>P1;gi|4101626|gb|AAD01240.1| desaturase/cytochrome b5 protein [Rici... [ score 105 E 2e-22 ] [ range 4 .. 71 ]
+sequence
+------TKKYITKEDLEKHNNPG-DLWISIQGKIYNVTDWSKDHPGGVSPLLHLAGQDVTDAFVAY----
+-H-PGTAWQYL-------------------*
+>P1;gi|1345879|sp|P49097|CYB5_CUSRE Cytochrome b5 >gi|7430589|pir||T... [ score 105 E 2e-22 ] [ range 4 .. 85 ]
+sequence
+-------SKVYSLAEVSEHSQPN-DCWLVIGGKVYDVTKFLDDHPGGADVLLSSTAKDATDDFEDI----
+-HSSSA--RAMMDEMCVGDIDS--STIP--*
+>P1;gi|41017070|sp|O74212|FAD5_MORAP Delta-5 fatty acid desaturase >... [ score 105 E 3e-22 ] [ range 7 .. 87 ]
+sequence
+--------KTFTWEELAAHNTKG-DLFLAIRGRVYDVTKFLSRHPGGVDTLLLGAGRDVTPVFEMY----
+-HAFGAAD-AIMKKYYVGTLVS--NELP--*
+>P1;gi|3859488|gb|AAC72755.1| delta-5 fatty acid desaturase [Mortier... [ score 105 E 3e-22 ] [ range 7 .. 87 ]
+sequence
+--------KTFTWEELAAHNTKD-DLLLAIRGRVYDVTKFLSRHPGGVDTLLLGAGRDVTPVFEMY----
+-HAFGAAD-AIMKKYYVGTLVS--NELP--*
+>P1;gi|40739937|gb|EAA59127.1| hypothetical protein AN3862.2 [Asperg... [ score 105 E 3e-22 ] [ range 2 .. 82 ]
+sequence
+-----IDLPQYTSQEVAAHKSRN-DLWLIINGKVYDVTEYVRDHPGGADVLIDTAGKDATEAYEDV----
+-HSEDADE--ILQTYLIGTLKD--A-----*
+>P1;gi|18958528|gb|AAL82631.1| delta-5 fatty acyl desaturase [Salmo ... [ score 105 E 3e-22 ] [ range 31 .. 111 ]
+sequence
+----------YTWEEVQRHSHRS-DQWLVIDRKVYNITQWAKRHPGGIRVISHFAGEDATEAFSAF----
+-HDANFVRKFLKP-LLIGELAP--TEPSQ-*
+>P1;gi|34856508|ref|XP_215767.2| similar to fatty acid desaturase 2;... [ score 104 E 4e-22 ] [ range 65 .. 145 ]
+sequence
+----------YTWQEIQKHNQET-DQWLVIDRKVYNVTDWAGKHPGGHRVLNHYAGEDATDAFRAM----
+-HDPSIVQLYLKP-LLIGELSP--EEPSQ-*
+>P1;gi|42733766|gb|AAS38697.1| hypothetical protein [Dictyostelium d... [ score 104 E 4e-22 ] [ range 1 .. 83 ]
+sequence
+-----MSEKTFTRQEVAKHCSLN-SLWIIYNDDVFDVTNFVVEHPGGEEVLKGNGGKDATQEFDDV----
+-HSASAIAK--MQSLRIGRIEG--AKP---*
+>P1;gi|39645719|gb|AAH63726.1| MGC68735 protein [Xenopus laevis] [ score 104 E 4e-22 ] [ range 23 .. 101 ]
+sequence
+----------YSWEEIQKHNLKT-DKWLVIERKVYNITEWMKRHPGGMRVIGHYAGEDATDAFHAF----
+-HPDKFVRKFLKPLY-VGELAE--NEP---*
+>P1;gi|15225939|ref|NP_182144.1| delta-8 sphingolipid desaturase, pu... [ score 104 E 5e-22 ] [ range 5 .. 66 ]
+sequence
+-----TKKRYVTSEDLKKHNKPG-DLWISIQGKVYDVSDWVKSHPGGEAAILNLAGQDVTDAFIAY----
+-HP---------------------------*
+>P1;gi|17223795|gb|AAL23580.1| delta-6-desaturase [Echium gentianoides] [ score 104 E 5e-22 ] [ range 6 .. 72 ]
+sequence
+-------KKYITAEELKKHDKEG-DLWISIQGKVYDVSDWLKDHPGGKFPLLSLAGQEVTDAFVAF----
+-HS-GSTWKFL-------------------*
+>P1;gi|2147815|pir||S70584 nitrate reductase (NADPH) (EC 1.7.1.3) - ... [ score 104 E 6e-22 ] [ range 501 .. 591 ]
+sequence
+EPVQDINMKKISFEEFKENSCDE-KPWFIVNGEVYDGQAFLEGHPGGRQSIISSAGQDVSEEFLAI----
+-HSETA--KAMMPEYHIGTTDP--E-----*
+>P1;gi|30090033|gb|AAO86521.1| cytochrome B5 [Triticum monococcum] [ score 104 E 6e-22 ] [ range 1 .. 88 ]
+sequence
+---MPTLTKLYSMKEAALHNTPD-DCWIVVDGKIYDVTAYLDDHPGGADVLLGVTGMDGTEEFEDA----
+-HSKDA--KELMKDYFIGELDL--DETPDM*
+>P1;gi|19171683|gb|AAL85636.1| nitrate reductase NiaD [Aspergillus f... [ score 103 E 6e-22 ] [ range 502 .. 592 ]
+sequence
+EPVKEINMKKISLEEFKKSNEEG-AQWFIVKGEVYDGKPFLEGHPGGAQSIISSIGLDVTEDFSEI----
+-HSETA--KAMMPDYHIGTMDE--A-----*
+>P1;gi|40739597|gb|EAA58787.1| hypothetical protein AN7984.2 [Asperg... [ score 103 E 7e-22 ] [ range 1 .. 76 ]
+sequence
+---------MYTRKDVAHHNARH-SCWVIVSNHVYDVTKFLDAHPGGAGAILLYAGKDATAVFEAT----
+-HPAGTLGQ-LPHEYHLGPVAP--------*
+>P1;gi|38104780|gb|EAA51298.1| hypothetical protein MG09315.4 [Magna... [ score 103 E 8e-22 ] [ range 11 .. 86 ]
+sequence
+---------EYSLKDVASHKSAN-DAWMVIHGQVYDVTKYIHDHPGGAEVLVEAAGADASEAFDSA----
+-HSEDAFE--IMAEYRVGKAKG--------*
+>P1;gi|33330961|gb|AAQ10731.1| delta-6-fatty acid desaturase [Anemon... [ score 103 E 9e-22 ] [ range 5 .. 87 ]
+sequence
+-------RRSISSDDLRSHNKPG-DVWISIQGKIYDVTEWGKDHPGGEGPLLNLAGQDVTDAFVAF----
+-H-PGSAWKNL-DKFHIGYLQD--YVVSDV*
+>P1;gi|27924030|gb|AAO27755.1| reductase [Fusarium sporotrichioides] [ score 103 E 1e-21 ] [ range 1 .. 78 ]
+sequence
+-------MEEYTVKQVAEHNKPD-DSWLIIHGKVYDVTRYIRDHPGGADVLVEAAGIDASEDFDNA----
+-HSEDAFE--IMEDLCIGKIKG--------*
+>P1;gi|40744898|gb|EAA64054.1| hypothetical protein AN8920.2 [Asperg... [ score 103 E 1e-21 ] [ range 1 .. 83 ]
+sequence
+-------MPSYTLEQVKAHCTPD-DIWIILHNKVYEVTKYLEDHPGGSAVLIEVAGADATEAFEEI----
+-GHSDEAREQLEP-YYIGDLPD--QEQAE-*
+>P1;gi|12002282|gb|AAG43277.1| delta 8-sphingolipid desaturase [Bora... [ score 103 E 1e-21 ] [ range 1 .. 71 ]
+sequence
+---MEGTKKYISVGELEKHNQLG-DVWISIQGKVYNVTDWIKKHPGGDVPIMNLAGQDATDAFIAY----
+-H-PGTAWKNL-------------------*
+>P1;gi|1364118|pir||JC4283 nitrate reductase (NADPH) (EC 1.7.1.3) - ... [ score 103 E 1e-21 ] [ range 501 .. 591 ]
+sequence
+EPVQDINMKKIGFEEFKENSCDE-KPWFIVNGEVYDGQAFLEGHPGGAQSIISSAGLDVSEEFLAI----
+-HSETA--KAMMPEYHIGTMDP--E-----*
+>P1;gi|2130017|pir||S68358 Delta8 sphingolipid desaturase (EC 1.14.9... [ score 103 E 1e-21 ] [ range 16 .. 82 ]
+sequence
+-------KKYITSKELKKHNNPN-DLWISILGKVYNVTEWAKEHPGGDAPLINLAGQDVTDAFIAF----
+-H-PGTAWKHL-------------------*
+>P1;gi|42549805|gb|EAA72648.1| hypothetical protein FG08620.1 [Gibbe... [ score 102 E 2e-21 ] [ range 3 .. 89 ]
+sequence
+------ATKEFTMQDVAEHNTSK-DIYMVVHDKVYDCSKFLDEHPGGEEVMLDVAGQDATEAFEDV----
+-HSDEVLEGLLVGELK--RLPG--DEGPK-*
+>P1;gi|17550742|ref|NP_510335.1| cytochrome b5 (XO621) [Caenorhabdit... [ score 102 E 2e-21 ] [ range 9 .. 87 ]
+sequence
+--------KQITLKEIAEHNTNK-SAWLVIGNKVFDVTKFLDEHPGGCEVLLEQAGSDGTEAFEDV----
+-HSTDA--RHMKDEYLIGEVVA--SE----*
+>P1;gi|39545945|gb|AAR28035.1| delta-5 desaturase [Mortierella alpina] [ score 102 E 2e-21 ] [ range 7 .. 87 ]
+sequence
+--------KTFTWEELAAHNTEG-DLLLAIRGNVYDVTKFLSRHPGGTDTLLLGAGRDVTPVFEMY----
+-HEFGAAD-AIMKKYYVGTLVS--NELP--*
+>P1;gi|39595402|emb|CAE60440.1| Hypothetical protein CBG04048 [Caeno... [ score 102 E 2e-21 ] [ range 5 .. 86 ]
+sequence
+--------RVISLEEVSKHNYEG-SCWIVISGKVYDVTKFLNEHPGGEEVITQLAGKDATVGFLDV----
+-HSKDAIE--MTKEYLIGQLPE--SE----*
+>P1;gi|25282551|pir||JC7671 ascidian cytochrome b5, Pmb5 - sea squir... [ score 102 E 2e-21 ] [ range 9 .. 86 ]
+sequence
+-----TEKRIIRYEEVKQHNSIK-SAWNVIHNKVYDVTKFLEDHPGGEEVLLEQAGKNATEAFEDV----
+-HSSDA--RSLAEEHLIGEL----------*
+>P1;gi|40739147|gb|EAA58337.1| hypothetical protein AN5828.2 [Asperg... [ score 102 E 3e-21 ] [ range 2 .. 79 ]
+sequence
+-------SKTFTPAEVAKHNKPD-GLYIIVDNSVYDVTNFVDEHPGGAKILKRVAGKDASKQFWKY----
+-HNDGVLKKY-APKLKIGEVK---------*
+>P1;gi|28202143|gb|AAO34680.1| reductase [Gibberella zeae] >gi|42549... [ score 102 E 3e-21 ] [ range 1 .. 78 ]
+sequence
+-------MEEYTVKQVVEHNKPD-DAWLIIHGNVYDVSKYIRDHPGGADVLVEAAGLDASEDFDNA----
+-HSEDAFE--IMEDLCVGKVKG--------*
+>P1;gi|20838286|ref|XP_130353.1| similar to fatty acid desaturase 2;... [ score 101 E 4e-21 ] [ range 65 .. 145 ]
+sequence
+----------YTWQEIQRHSQEA-DQWLVIDRKVYNVTDWAGKHPGGRRVLNHYAGQDATDAFRAM----
+-HLDGMVKLYLKP-LLIGELSP--EEPSQ-*
+>P1;gi|32405232|ref|XP_323229.1| hypothetical protein [Neurospora cr... [ score 101 E 4e-21 ] [ range 4 .. 78 ]
+sequence
+---------EFTYQDVAEHNTKK-DLYVVIHDKVYDITKFVDEHPGGEEVLLDVAGQDSTEAFEDV----
+-GHSDEAREALEP-LLVGTLK---------*
+>P1;gi|31200777|ref|XP_309336.1| ENSANGP00000008218 [Anopheles gambi... [ score 101 E 4e-21 ] [ range 40 .. 116 ]
+sequence
+----------VSHAELAKHDRAE-DAWMAIRGKVYNVTRYMNFHPGGADELMRGAGKDATRLFEEV----
+-HAWVNYESLLA-KCYIGPLRN--TV----*
+>P1;gi|43547997|gb|EAE28726.1| unknown [environmental sequence] [ score 101 E 4e-21 ] [ range 120 .. 189 ]
+sequence
+-PKRDTA---VTRDELAKHASAL-DCWVALYGKVYDFTDFLEDHPAGADAILRYGGGDGTKIFEAV----
+-HSKNMLDDF--------------------*
+>P1;gi|18478404|dbj|BAB84515.1| nitrate reductase [Monascus anka] [ score 101 E 4e-21 ] [ range 513 .. 593 ]
+sequence
+----EGLSRLIELQELKDHVSNG-EPWFIVNGEVYDGTEFLRDHPGGAQSIISSAGMDVSEEFLAI----
+-HSETA--RIMMPGYHIGTLST--S-----*
+>P1;gi|30039221|gb|AAP12556.1| nitrate reductase [Penicillium griseo... [ score 101 E 5e-21 ] [ range 498 .. 586 ]
+sequence
+EPVKEINMKKIDLQELKANSTSE-KPWFVVNGEVYDGTGFLEGHPGGAISITSSAGLDVSEDFLAI----
+-HSETA--KAMMPDYHIGTLD---------*
+>P1;gi|9790071|ref|NP_062673.1| fatty acid desaturase 2; delta-6 fat... [ score 100 E 5e-21 ] [ range 18 .. 99 ]
+sequence
+-------MPTFRWEEIQKHNLRT-DRWLVIDRKVYNVTKWSQRHPGGHRVIGHYSGEDATDAFRAF----
+-HLDDFVGKFLKP-LLIGELAP--EEP---*
+>P1;gi|40742318|gb|EAA61508.1| hypothetical protein AN9217.2 [Asperg... [ score 100 E 5e-21 ] [ range 7 .. 86 ]
+sequence
+----------ITLAEVARHSSPN-DLWIVIEGNVYDVAEYREDHPGGDEILRQFAGKDATTEFDAG----
+-HSNDAYVK--LKTLLVGSLQS--KTLPE-*
+>P1;gi|11358940|pir||T50555 delta-8 sphingolipid desaturase [importe... [ score 100 E 5e-21 ] [ range 5 .. 66 ]
+sequence
+-----TKKRFITSDDLKKHNQPG-DLWISIQGKVYDVSHWVKSHPGGEAAILNLAGQDVTDAFIAY----
+-HP---------------------------*
+>P1;gi|31199385|ref|XP_308640.1| ENSANGP00000011266 [Anopheles gambi... [ score 100 E 6e-21 ] [ range 9 .. 94 ]
+sequence
+-PPAMSEVKTYSLADVKSHNTNK-STWIVIHNDIYDVTEFLNEHPGGEEVLLEQAGREATEAFEDV----
+-HSSDARE--MMKKFKVGELIE--AE----*
+>P1;gi|12833936|dbj|BAB22721.1| unnamed protein product [Mus musculus] [ score 100 E 8e-21 ] [ range 17 .. 98 ]
+sequence
+----EPSVTYYRLEEVAKRNSAE-ETWMVIHGRVYDITRFLSEHPGGEEVLLEQAGADATESFEDV----
+-HSPDARE--MLKQYYIGDVHP--S-----*
+>P1;gi|730145|sp|P36842|NIA_LEPMC Nitrate reductase [NADPH] (NR) >gi... [ score 100 E 9e-21 ] [ range 532 .. 618 ]
+sequence
+---KDGVNRIVELDELKWHESAE-YPWFVVNDEVYDGTSFLEGHPGGAQSIISAAGLDASDEFMAI----
+-HSETA--KAMMPAYHIGTLSP--TASKQL*
+>P1;gi|29469883|gb|AAO73962.1| cytochrome b5 [Candida tropicalis] [ score 100 E 1e-20 ] [ range 4 .. 87 ]
+sequence
+---TDTTTTIYTHEEVAQHTTHD-DLWVILNGKVYNISNYIDEHPGGEEVILDCAGTDATEAFDDI----
+-HSDEAHE--ILEKLYIGNLKG--AK----*
+>P1;gi|44584741|gb|EAK27977.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 1 .. 75 ]
+sequence
+------------MAEVARHASKE-DLWMVIGDGVYDLTKFAAFHPGGASFIVAAAGQDASEAFYAL----
+-HRAEILEK-TAKKYRIGTLEG--AT----*
+>P1;gi|40745663|gb|EAA64819.1| hypothetical protein AN1699.2 [Asperg... [ score 100 E 1e-20 ] [ range 3 .. 82 ]
+sequence
+--------KTFSKEDVAKNNKPD-SLWIIVDEDVYDLTKFQDEHPGGKKILTRVAGKDASKQFWKY----
+-HNEGILKKY-KSQLQIGSLD---------*
+>P1;gi|12230015|sp|O43169|CYM5_HUMAN Cytochrome b5 outer mitochondri... [ score 100 E 1e-20 ] [ range 17 .. 109 ]
+sequence
+----ETSVTYYRLEEVAKRNSLK-ELWLVIHGRVYDVTRFLNEHPGGEEVLLEQAGVDASESFEDV----
+-HSREMLKQYYIGDIHPSDLKG--SKDP--*
+>P1;gi|15219780|ref|NP_176265.1| cytochrome b5 domain-containing pro... [ score 100 E 1e-20 ] [ range 38 .. 120 ]
+sequence
+EPVEDVVRKSYSKSEVAVHNKRN-DCWIIIKDKVYDITSYVEEHPGG-DAILDHAGDDSTDFFGPQ----
+-HATRVFD--MIEDFYIGEL----------*
+>P1;gi|226450|prf||1513199B cytochrome b5 [ score 100 E 1e-20 ] [ range 12 .. 94 ]
+sequence
+--------RYYRLEEVQKHNNSQ-STWIIVHHRIYDITKFLDEHPGGEEVLREQAGGDATENFEDV----
+-HSTDA--RALSETFIIGELHP--DDRPKL*
+>P1;gi|30350275|gb|AAP23033.1| sphingolipid delta-8 desaturase [Prim... [ score 100 E 1e-20 ] [ range 3 .. 71 ]
+sequence
+DPPPNPKTGYITSSDLKAHNKAG-DLWISIHGQVYDVSSWAALHPGGTAPLMALAGHDVTDAFLAY----
+-HPPS-------------------------*
+>P1;gi|4100569|gb|AAD00895.1| fatty acid desaturase/cytochrome b5 fu... [ score 100 E 1e-20 ] [ range 4 .. 66 ]
+sequence
+----ETEKKYITDEDLKKHNKSG-DLWIAIQGKVYNVSDWIKTHPGGDTVILNLVGQDVTDAFIAF----
+-HP---------------------------*
+>P1;gi|23894018|emb|CAD53323.1| delta 5 fatty acid desaturase [Phyto... [ score 99 E 2e-20 ] [ range 29 .. 105 ]
+sequence
+---------TFTWQDVAKHNTAK-SAWVTIRGVVYDVTEWADRHPGGRELVLLHSGRECTDTFDSY----
+-HPSDRADKILA-KYAIGKLVG--------*
+>P1;gi|548356|sp|P36858|NIA_ASPNG Nitrate reductase [NADPH] (NR) >gi... [ score 99 E 2e-20 ] [ range 501 .. 589 ]
+sequence
+EPEKEINMKKIDLQEFKKNSSDE-KPWFIVNGEVYDGTAFLEGHPGGAQSIISSAGIDVSEEFLAI----
+-HTQTA--KAMMPDYHIGTMD---------*
+>P1;gi|44116380|gb|EAH21344.1| unknown [environmental sequence] [ score 99 E 2e-20 ] [ range 68 .. 142 ]
+sequence
+--------RKFTMDDVKKHNKET-DAWLVIDKKVYNVTPWISKHPGGM-VIMKGVGKDATNLFKNI----
+-GHPSYVKKNILPQFLIGEI----------*
+>P1;gi|4104056|gb|AAD10250.1| S276 [Triticum aestivum] [ score 99 E 2e-20 ] [ range 28 .. 107 ]
+sequence
+--------RMISTKELQAHAAAD-DLWISISGDVYDVTPWLRHHPGGEVPLITLAGQDATDAFMAY----
+-HPPSV--RPLLRRFFVGRLTD--YTVP--*
+>P1;gi|1197523|gb|AAC02633.1| nitrate reductase [Botryotinia fuckeli... [ score 99 E 2e-20 ] [ range 534 .. 614 ]
+sequence
+---KDDVKREISIEELRQHDNEK-EPWFVLNGEVYDGAPFLEGHPGGATSITGAA-EDSTDEFMAI----
+-HSETA--KAMMPAYHIGTLSP--S-----*
+>P1;gi|42547140|gb|EAA69983.1| hypothetical protein FG10285.1 [Gibbe... [ score 99 E 2e-20 ] [ range 4 .. 80 ]
+sequence
+---------TFSREEVRSHTSDE-SLWCIIDSTVYDLTDFVDAHPGGETVLRQVAGQDATTAFYNL----
+-HRHEVLTKY--KDLAVGTIEG--EK----*
+>P1;gi|19075124|ref|NP_586725.1| similarity to HYPOTHETICAL PROTEIN ... [ score 99 E 3e-20 ] [ range 9 .. 74 ]
+sequence
+EKHRDPSFAPLTADEVSKHNRSD-DCWIIMDGVVYDVTDFLRLHPGGVDTIMEYAGKDCTDAFNQA----
+-H----------------------------*
+>P1;gi|39596430|emb|CAE63049.1| Hypothetical protein CBG07320 [Caeno... [ score 98 E 3e-20 ] [ range 5 .. 83 ]
+sequence
+--------KQMTLKEISDHNTNK-SAWLVIGNKVYDVTKFLDEHPGGCEVLLEQAGGDGTEAFEDV----
+-HSTDA--RHMKEEYLIGEVVE--EE----*
+>P1;gi|6759823|gb|AAF28059.1| nitrate reductase [Pichia anomala] [ score 98 E 5e-20 ] [ range 516 .. 588 ]
+sequence
+----------ITKEQLAQHSNEQ-DPWFIVKGHVFDGTPFLQEHPGGAQSITMVAGEDATEDFMAI----
+-HSDNS--KRMLQKFHLGKLE---------*
+>P1;gi|22760402|dbj|BAC11182.1| unnamed protein product [Homo sapiens] [ score 98 E 5e-20 ] [ range 75 .. 153 ]
+sequence
+--------RYFTWDEVAQRSGCE-ERWLVIDRKVYNISEFTRRHPGGSRVISHYAGQDATDPFVAF----
+-H----INKGLVKKYMNSLLIG--ELSPE-*
+>P1;gi|4102021|gb|AAD01410.1| delta 6-desaturase [Borago officinalis] [ score 97 E 7e-20 ] [ range 6 .. 80 ]
+sequence
+-------KKYITSDELKNHDKPG-DLWISIQGKAYDVSDWVKDHPGGSFPLKSLAGQEVTDAFVAF----
+-HPASTLDKFFTGYY---------------*
+>P1;gi|40745745|gb|EAA64901.1| hypothetical protein AN2069.2 [Asperg... [ score 97 E 8e-20 ] [ range 1 .. 89 ]
+sequence
+-----MSAKELTFKEVAEHNTKK-DLYMVIHDKVYDCSSFVDEHPGGEEVLLDVGGQDATEAFEDV----
+-GHSDEAREILQGLLVLKRLPG--DPTPKV*

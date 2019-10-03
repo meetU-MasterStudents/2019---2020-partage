@@ -1,0 +1,114 @@
+>P1;1gcn
+structureX:1gcn:   1 : :  29 : :glucagon:Sus scrofa: 3.0: -1
+HSQGTFTSDYSKYLDSRRAQDFVQWLMNT*
+>P1;1bh0
+structureX:1bh0:   1 : :  29 : :glucagon:Homo sapiens: 3.0: -1
+HSQGTFTSDYSKYLDSKKAQEFVQWLMNT*
+>P1;gi|17148643|gb|AAL35758.1| proglucagon [Hoplobatrachus rugulosus] [ score 63 E 2e-09 ] [ range 53 .. 81 ]
+sequence
+HSQGTFTSDYSKYLDSRRAQDFVQWLMNS*
+>P1;gi|25090448|sp|O12956|GLUC_HELSU Glucagon precursor [Contains: G... [ score 63 E 2e-09 ] [ range 53 .. 81 ]
+sequence
+HSQGTFTSDYSKYLDTRRAQDFVQWLMNT*
+>P1;gi|22654246|sp|P01277|GLUC_CHICK Glucagon precursor [Contains: G... [ score 61 E 6e-09 ] [ range 55 .. 83 ]
+sequence
+HSQGTFTSDYSKYLDSRRAQDFVQWLMST*
+>P1;gi|2494790|sp|P79695|GLUC_CARAU Glucagon precursor [Contains: Gl... [ score 61 E 6e-09 ] [ range 50 .. 78 ]
+sequence
+HSEGTFSNDYSKYLETRRAQDFVEWLMNS*
+>P1;gi|45272423|gb|AAS57647.1| proglucagon II [Sebastes caurinus] >g... [ score 61 E 7e-09 ] [ range 52 .. 80 ]
+sequence
+HSEGTFSNDYSKYLETRRAQDFVQWLKNS*
+>P1;gi|45272429|gb|AAS57650.1| proglucagon II [Ictalurus punctatus] [ score 60 E 1e-08 ] [ range 49 .. 77 ]
+sequence
+HSEGTFSNDYSKYLETRRAQDFIQWLMNS*
+>P1;gi|121468|sp|P01278|GLU1_LOPAM Glucagon I precursor [Contains: G... [ score 59 E 2e-08 ] [ range 53 .. 80 ]
+sequence
+HSEGTFSNDYSKYLEDRKAQEFVRWLMN-*
+>P1;gi|45272425|gb|AAS57648.1| proglucagon I [Ictalurus punctatus] [ score 59 E 3e-08 ] [ range 51 .. 79 ]
+sequence
+HSEGTFSNDYSKYLETRRAQDFVQWLMNS*
+>P1;gi|41017222|sp|Q91971|GLU1_ONCMY Glucagon I precursor [Contains:... [ score 59 E 4e-08 ] [ range 52 .. 80 ]
+sequence
+HSEGTFSNDYSKYQEERMAQDFVQWLMNS*
+>P1;gi|45272443|gb|AAS57657.1| proglucagon I [Sebastes caurinus] [ score 57 E 1e-07 ] [ range 50 .. 77 ]
+sequence
+HSEGTFSNDYSRYLEERKAQDFVRWLMN-*
+>P1;gi|121490|sp|P22890|GLUC_OCTDE Glucagon precursor [Contains: Gli... [ score 57 E 2e-07 ] [ range 53 .. 81 ]
+sequence
+HSQGTFTSDYSKFLDTRRAQDFLDWLKNT*
+>P1;gi|121481|sp|P05110|GLUC_CAVPO Glucagon precursor [Contains: Gli... [ score 56 E 2e-07 ] [ range 53 .. 80 ]
+sequence
+HSQGTFTSDYSKYLDSRRAQQFLKWLLN-*
+>P1;gi|279620|pir||GCGXA glucagon precursor - alligator gar (fragment) [ score 56 E 3e-07 ] [ range 1 .. 29 ]
+sequence
+HSQGTFTNDYSKYLDTRRAQDFVQWLMST*
+>P1;gi|25090480|sp|Q9PUR0|GLU2_PETMA Glucagon II precursor [Contains... [ score 54 E 6e-07 ] [ range 44 .. 72 ]
+sequence
+HSQGSFTSDYSKHLDVKQAKDFVTWLLNT*
+>P1;gi|25090481|sp|Q9PUR1|GLU1_PETMA Glucagon I precursor [Contains:... [ score 54 E 7e-07 ] [ range 43 .. 70 ]
+sequence
+HSEGTFTSDYSKYLENKQAKDFVRWLMN-*
+>P1;gi|462183|sp|P33528|GLUC_AMICA Glucagon precursor [ score 54 E 7e-07 ] [ range 1 .. 29 ]
+sequence
+HSQGTFTNDYSKYMDTRRAQDFVQWLMST*
+>P1;gi|6225461|sp|P81880|GLUC_PIAME Glucagon precursor [ score 54 E 8e-07 ] [ range 1 .. 29 ]
+sequence
+HSEGTFSNDYSKYLETQRAQDFVQWLMNS*
+>P1;gi|121498|sp|P09567|GLUC_TORMA Glucagon >gi|103753|pir||S07211 g... [ score 54 E 1e-06 ] [ range 1 .. 29 ]
+sequence
+HSEGTFTSDYSKYLDNRRAKDFVQWLMNT*
+>P1;gi|45272437|gb|AAS57654.1| proglucagon [Hydrolagus colliei] [ score 54 E 1e-06 ] [ range 32 .. 60 ]
+sequence
+HTDGIFSSDYSKYLDNRRTKDFVQWLLST*
+>P1;gi|2829712|sp|P81026|GLU1_ORENI Glucagon I >gi|1911407|gb|AAB506... [ score 54 E 1e-06 ] [ range 1 .. 28 ]
+sequence
+HSEGTFSNDYSKYLEDRKAQDFVRWLMN-*
+>P1;gi|418828|pir||C60840 glucagon I - European eel [ score 53 E 2e-06 ] [ range 1 .. 29 ]
+sequence
+HSQGTFTNDYSKYLETRRAQDFVQWLMNS*
+>P1;gi|69252|pir||GCDF glucagon - smaller spotted catshark [ score 53 E 3e-06 ] [ range 1 .. 29 ]
+sequence
+HSEGTFTSDYSKYMDNRRAKDFVQWLMNT*
+>P1;gi|22654248|sp||P09687_1 [Segment 1 of 2] Glucagon precursor [Co... [ score 52 E 4e-06 ] [ range 1 .. 29 ]
+sequence
+HSEGTFTSDYSKYMDNRRAKDFVQWLMST*
+>P1;gi|736864|prf||1921196A glucagon II [ score 52 E 5e-06 ] [ range 1 .. 28 ]
+sequence
+HSEGTFSNDYSKYLEDRKAQDFVQWLMN-*
+>P1;gi|10436067|gb|AAG16778.1| proglucagon [Ambloplites rupestris] [ score 51 E 8e-06 ] [ range 1 .. 28 ]
+sequence
+HSQGTFTNDYTNYLEDRQAQDFIRWLMN-*
+>P1;gi|121478|sp|P01276|GLUC_ANAPL Glucagon >gi|69247|pir||GCDK gluc... [ score 51 E 9e-06 ] [ range 1 .. 29 ]
+sequence
+HSQGTFTSDYSKYLDTRRAQDFVQWLMST*
+>P1;gi|1699429|gb|AAB37527.1| glucagon=proglucagon-derived 3.5 kda p... [ score 51 E 9e-06 ] [ range 1 .. 29 ]
+sequence
+HSQGTFTSDYSKYLDNRRAQDFIQWLMST*
+>P1;gi|121480|sp|P13189|GLUC_CALMI Glucagon >gi|69253|pir||GCEN gluc... [ score 50 E 1e-05 ] [ range 1 .. 29 ]
+sequence
+HSEGTFSSDYSKYLDSRRAKDFVQWLMST*
+>P1;gi|632020|pir||S44471 glucagon G1 - North American paddlefish (P... [ score 49 E 4e-05 ] [ range 1 .. 28 ]
+sequence
+HSQGMFTNDYSKYLEEKRAKEFVEWLKN-*
+>P1;gi|9973284|sp|Q9PRQ9|GLUC_LAMFL Glucagon >gi|1311697|gb|AAB36060... [ score 48 E 6e-05 ] [ range 1 .. 29 ]
+sequence
+HSQGSFTSDYSKYLDSKQAKDFVIWLMNT*
+>P1;gi|399762|sp|P31297|GLUC_CHIBR Glucagon >gi|279612|pir||GCCB glu... [ score 48 E 7e-05 ] [ range 1 .. 29 ]
+sequence
+HSQGTFTSDYSKHLDSRYAQEFVQWLMNT*
+>P1;gi|41017221|sp|Q91189|GLU2_ONCMY Glucagon II precursor [Contains... [ score 48 E 8e-05 ] [ range 53 .. 80 ]
+sequence
+-SEGTFSNYYSKYQEERMARDFLHWLMNS*
+>P1;gi|418829|pir||D60840 glucagon II - European eel [ score 46 E 2e-04 ] [ range 1 .. 29 ]
+sequence
+HSQGTFTNDYSKYQEMKQAQDLVQWLMNS*
+>P1;gi|632021|pir||S44472 glucagon G2 - North American paddlefish (P... [ score 46 E 3e-04 ] [ range 1 .. 28 ]
+sequence
+HSQGMFTNDYSKYLEEKSAKEFVEWLKN-*
+>P1;gi|45272433|gb|AAS57652.1| proglucagon [Neoceratodus forsteri] [ score 46 E 3e-04 ] [ range 24 .. 52 ]
+sequence
+HSQGTFMSDYAKLLEARHALDFVQRLMNT*
+>P1;gi|25090456|sp|O42144|GLU2_XENLA Glucagon II precursor [Contains... [ score 64 E 9e-10 ] [ range 180 .. 207 ] [ duplicate b ]
+sequence
+HAEGTFTNDMTNYLEEKAAKEFVGWLIN-*

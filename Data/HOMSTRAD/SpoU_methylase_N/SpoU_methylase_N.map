@@ -1,0 +1,928 @@
+>P1;1gz0a
+structureX:1gz0:   2 :A:  79 :A:hypothetical tRNA-rRNA methyltransferase yjfH:Escherichia coli: 2.50: 23.1
+----------------------------SEIYGIHAVQALLERAPERFQEVFILKGREDKRLLPLIHALE
+SQGVVIQLANRQYLDEKSDGAVHQGIIARVKPGRQ*
+>P1;1ipaa
+structureX:1ipa:   1 :A: 105 :A:ribonucleic acid 2'-o ribose methyltransferase:Thermus thermophilus: 2.40: 22.6
+MRITSTANPRIKELARLLERKHRDSQRRFLIEGAREIERALQAGIE-LEQALVWEGGLNPEEQQVYAALL
+----ALLEVSEAVLKKLSVRDNPAGLIALARMPER*
+>P1;gi|15603818|ref|NP_246892.1| unknown [Pasteurella multocida] >gi... [ score 126 E 1e-28 ] [ range 5 .. 79 ]
+sequence
+------------------------------IYGIHAVSAFLNNAPERLIEVYALKGRDDKRLQPLLNELH
+RLGITIQFVNRQTLDKKAEGEVHQGIMARVQPAKE*
+>P1;gi|16272800|ref|NP_439020.1| unknown protein [Haemophilus influe... [ score 123 E 9e-28 ] [ range 4 .. 79 ]
+sequence
+-----------------------------QIYGIHAVNSILTHSPERLIEVFVLKGREDKRLQPLLNELY
+SLGIGVQFVNRQTLDKKADGEVHQGVIARVQAAKE*
+>P1;gi|23467939|ref|ZP_00123515.1| COG0566: rRNA methylases [Haemoph... [ score 123 E 1e-27 ] [ range 5 .. 79 ]
+sequence
+------------------------------IYGIHAVQAFLINAPERLIEVYVLKGREDKRLQSVLNELY
+KLGISVQFLNRDTLDKKANGEVHQGIIARVQPAKE*
+>P1;gi|44030050|gb|EAG74357.1| unknown [environmental sequence] [ score 123 E 1e-27 ] [ range 5 .. 79 ]
+sequence
+------------------------------IYGIHAVQALLERAPERFQEVFILKGREDKRLLPLIHALE
+AQGVVIQVANRQYLDEKSEGAVHQGIIARVKPGRQ*
+>P1;gi|37528393|ref|NP_931738.1| hypothetical protein [Photorhabdus ... [ score 122 E 2e-27 ] [ range 5 .. 79 ]
+sequence
+------------------------------IYGIHAVKALLERDPQRFIEVYVLKGREDRRLTPLIHALE
+SIGMTIQLANRQWLDNQTEGAVHQGIIAKVKPGRQ*
+>P1;gi|27364705|ref|NP_760233.1| rRNA methylases [Vibrio vulnificus ... [ score 122 E 2e-27 ] [ range 6 .. 80 ]
+sequence
+------------------------------IYGIHAVRAVLDKEPERFIEAYVLKGRQDDRLMPILNELQ
+MVGVSLQQMTRKTLDDKAHGANHQGIIARVKPAKQ*
+>P1;gi|33151509|ref|NP_872862.1| putative tRNA/rRNA methyltransferas... [ score 121 E 3e-27 ] [ range 4 .. 79 ]
+sequence
+-----------------------------QIYGIHAVNAFLANAPERLIEVFVLKGREDKRLNPLLDELQ
+RLSISVQQVNRQTLDNKAQGEVHQGIIARIIPQKE*
+>P1;gi|32033775|ref|ZP_00134060.1| COG0566: rRNA methylases [Actinob... [ score 121 E 3e-27 ] [ range 4 .. 79 ]
+sequence
+-----------------------------QIYGIHAVKAFLDNAPERLIEVLVLKGREDKRLTPLLNELQ
+RLGISVQQVNRQTLDNKAQGEVHQGIIAKVVPQKE*
+>P1;gi|15642593|ref|NP_232226.1| RNA methyltransferase, TrmH family ... [ score 121 E 4e-27 ] [ range 6 .. 80 ]
+sequence
+------------------------------IYGIHAVNAVLQRDPARFVEAYVLKGRQDDRLLPVLNELM
+RLGVSIQEMSRKALDDKAEGANHQGLIARVKPARQ*
+>P1;gi|28899580|ref|NP_799185.1| RNA methyltransferase, TrmH family ... [ score 121 E 5e-27 ] [ range 6 .. 80 ]
+sequence
+------------------------------IYGIHAVKAVLEREPERFIEAYVLKGRQDDRLMPILNDLQ
+VCGVSIQQMTRKTLDDKAHGANHQGIIARVKVAKQ*
+>P1;gi|44594467|gb|EAK34833.1| unknown [environmental sequence] [ score 119 E 2e-26 ] [ range 5 .. 79 ]
+sequence
+------------------------------IYGIHAVQALLERAPERFQDVFILKGREDKRLLPLIHALE
+AQGVVIQLANRQFLDEKSEGAVHQGIIARVKPGRQ*
+>P1;gi|16120716|ref|NP_404029.1| putative methylase [Yersinia pestis... [ score 116 E 1e-25 ] [ range 5 .. 79 ]
+sequence
+------------------------------IYGIHAVKALLERDPQRFLEVFILKGRDDRRLQPLIAELE
+AAGLVIQVASRQWLDSQVEGGVHQGIVARVREGRQ*
+>P1;gi|24375422|ref|NP_719465.1| RNA methyltransferase, TrmH family,... [ score 115 E 2e-25 ] [ range 7 .. 80 ]
+sequence
+------------------------------IFGIHAVEALLKHSPERIIELWLLQGREDERLTPLIRQAK
+AFGTSIQVTSRKVLDEKAESTQHQGIVARVKAAK-*
+>P1;gi|23058167|ref|ZP_00083260.1| COG0566: rRNA methylases [Pseudom... [ score 113 E 8e-25 ] [ range 6 .. 79 ]
+sequence
+-----------------------------KIYGVHAVEALLRHHPKRVKQIWLAESRNDPRVQTLIELAN
+ENRVQIGQAERREMDAWVEG-VHQGVVADVSPSQ-*
+>P1;gi|15600129|ref|NP_253623.1| probable rRNA methylase [Pseudomona... [ score 112 E 2e-24 ] [ range 6 .. 79 ]
+sequence
+-----------------------------KVYGVHAVEALLRHHPKRVKQLWLAEGRHDPRVQVLTELAA
+GFRIPVGQRDRRELDEWAEG-VHQGVVAEVSPSQ-*
+>P1;gi|23469912|ref|ZP_00125246.1| COG0566: rRNA methylases [Pseudom... [ score 112 E 2e-24 ] [ range 6 .. 79 ]
+sequence
+-----------------------------KIYGVHAVEALLRHHPKRVKHIWLAEGRNDPRVQTLVALAA
+ENRVTIGQAERREMDAWVEG-VHQGVVADVSPSQ-*
+>P1;gi|44198287|gb|EAH65273.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 7 .. 80 ]
+sequence
+------------------------------LYGLHAMQSVLEKEPERVMEVLVLKGRNDERLTNIVNQAR
+RFGISVQFCQRKALDDKVSGEQHQGVVARAKPAR-*
+>P1;gi|23104564|ref|ZP_00091028.1| COG0566: rRNA methylases [Azotoba... [ score 110 E 6e-24 ] [ range 6 .. 79 ]
+sequence
+-----------------------------RIYGVHAVEALLRHHPRRVKRLWLAEGRQDPRVQALLELAR
+QARIAVGQRERRELDEWAEG-VHQGVVAEVSPSQ-*
+>P1;gi|26991558|ref|NP_746983.1| RNA methyltransferase, TrmH family,... [ score 109 E 2e-23 ] [ range 6 .. 79 ]
+sequence
+-----------------------------KIYGVHAVQALLQHHPKRVKQIWLSEGRSEPRLETLLALAA
+ENRVPVGQAERREMDAWVEG-VHQGVVAEVSPSQ-*
+>P1;gi|44016860|gb|EAG67078.1| unknown [environmental sequence] [ score 106 E 2e-22 ] [ range 6 .. 79 ]
+sequence
+------------------------------VFGIHAVSALFERAPEDVLELFILKDKDDQRLQPLLKFAR
+DFGVSVQYCNRRALDEKVNGAQHQGVVAKARAQQ-*
+>P1;gi|23028273|ref|ZP_00066678.1| COG0566: rRNA methylases [Microbu... [ score 102 E 2e-21 ] [ range 7 .. 80 ]
+sequence
+------------------------------IFGLHAVQSLLKASPQRIQEIWIVRGRQDARVQKVLSAAQ
+AAGIKVLPQDKKSMDSVSADGNHQGVLAYAKEGQ-*
+>P1;gi|34496604|ref|NP_900819.1| probable RNA methyltransferase [Chr... [ score 100 E 1e-20 ] [ range 7 .. 79 ]
+sequence
+------------------------------IHGFHAINARLWQNPKSLIEIWLAGGRHDARAKAVLDKAG
+AENVKLHIVDKERLDSMSGNARHQGVVAMIDAS--*
+>P1;gi|15794073|ref|NP_283895.1| putative RNA methylase [Neisseria m... [ score 99 E 3e-20 ] [ range 18 .. 91 ]
+sequence
+------------------------------IYGFHAVNARLWQNPKSIVELYIQEGKSDARTREVLEKAA
+NENIRVYFADADRLNAISKGARHQGVVGFIDASK-*
+>P1;gi|33519562|ref|NP_878394.1| probable tRNA/rRNA methyltransferas... [ score 97 E 9e-20 ] [ range 5 .. 76 ]
+sequence
+------------------------------VYGIHTVESIVNQSPNRILIVYIVSNPRDLRLKSLIYRIR
+KMNINIQECTRRVLNIKSMKSAHQGIIAEVIP---*
+>P1;gi|23001593|ref|ZP_00045496.1| COG0566: rRNA methylases [Magneto... [ score 95 E 3e-19 ] [ range 5 .. 77 ]
+sequence
+----------------------------TKIHGVNPVQALLESG-RPVSSLWVLKGRHGKRVEEMIEGFR
+ARGVPIQFCERTAMDRMADGGAHQGVIARCAP---*
+>P1;gi|43929890|gb|EAG19938.1| unknown [environmental sequence] [ score 93 E 1e-18 ] [ range 7 .. 109 ]
+sequence
+------------------------------IFGIHAVEALLKHSPERIIELWLLQGREDERLTPLIRQAK
+AFGTSIQVTSRKVLDDKAESAQHQGIVARVKAAK-*
+>P1;gi|32490927|ref|NP_871181.1| yjfH [Wigglesworthia glossinidia en... [ score 91 E 5e-18 ] [ range 5 .. 78 ]
+sequence
+------------------------------IYGIHVIEEFIKNKSNKILCILFLKSRKDIKFKKLILISN
+EKNIKIKFVDKKFLNKITNNKKHQGIVAYIKNSK-*
+>P1;gi|29654301|ref|NP_819993.1| RNA methyltransferase, TrmH family,... [ score 90 E 9e-18 ] [ range 7 .. 75 ]
+sequence
+------------------------------IYGIHAVSGVLDAAPQRIVKLYVQENRDDQRLQSLVEKAK
+ALGVKVILLSRTELNTLSN-EKHQGIVADC-----*
+>P1;gi|33594398|ref|NP_882042.1| putative tRNA/rRNA methyltransferas... [ score 88 E 3e-17 ] [ range 9 .. 74 ]
+sequence
+--------------------------------GFHAVVARLRHAPESIKEIYVEASRRDKRMQTFLEQAE
+RAGRRVHPVAAERLDGLARGTRHQGVVA-------*
+>P1;gi|44121845|gb|EAH24349.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 1 .. 57 ]
+sequence
+-----------------------------------------------VLELFILKDKDDQRLQPLLKFAR
+DFGVSVQYCNRRALDEKVNCAQHQGVVARARAQQ-*
+>P1;gi|17545948|ref|NP_519350.1| PUTATIVE TRNA/RRNA METHYLTRANSFERAS... [ score 72 E 3e-12 ] [ range 9 .. 76 ]
+sequence
+--------------------------------GFHAVTARLRHDARSIDEIYFEANRRDRRMQDFLKAAE
+AAGVRMIPADNERLRGIAGTDRHQGVVAKA-----*
+>P1;gi|30248368|ref|NP_840438.1| putative tRNA/rRNA methyltransferas... [ score 70 E 9e-12 ] [ range 7 .. 76 ]
+sequence
+------------------------------IFGFHAITSRLRQHPDSIKEIYLDTNRHDQRARDLMSLAE
+TTSTRLILCEQDRLCKMTGTTRHQGVAAHV-----*
+>P1;gi|44607213|gb|EAK43875.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 7 .. 76 ]
+sequence
+------------------------------LYGFHAVTARMRHDASSVEEVYYDATRKDRRMTEFLHAAK
+EAGVRLIAADETRLWGLAHTERHQGVVARA-----*
+>P1;gi|44248659|gb|EAH94964.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 7 .. 76 ]
+sequence
+------------------------------LYGFHAVTARLRHDASTVAEVLYDQTRRDRRMQDFLHTAK
+EAGVRLIAADETRLWGLAHTERHQGVVARV-----*
+>P1;gi|6687040|emb|CAB64790.1| YjfH protein [Burkholderia sp.] [ score 68 E 5e-11 ] [ range 7 .. 79 ]
+sequence
+------------------------------LHGFHAITARLRAFPATVNEVWYDPARQDARMRAFLHLAA
+SANARLIAADASRLNALSGEKRHQGVVARVTEA--*
+>P1;gi|22986437|ref|ZP_00031533.1| COG0566: rRNA methylases [Burkhol... [ score 67 E 1e-10 ] [ range 7 .. 76 ]
+sequence
+------------------------------LYGFHAVTARIRHDASTVEDVYYDATRKDRRMTEFLHAAK
+EAGVRLIAADETRLWGLAHTERHQGVVARA-----*
+>P1;gi|44390716|gb|EAI93850.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 7 .. 77 ]
+sequence
+------------------------------VYGYNSVEASVLKNPENIIELYIDESSSNKRVEKLLSSKA
+ASRLNIQKVDKHFLSDLLSTEKHQGIAAKIR----*
+>P1;gi|44292674|gb|EAI25046.1| unknown [environmental sequence] [ score 62 E 4e-09 ] [ range 7 .. 77 ]
+sequence
+------------------------------VYGYNSVKTSVLKNPESIIELYIDESSSNKRVEKLLSSKA
+ASRLKIQKVDRHFLSDLLSTEKHQGIAAKIR----*
+>P1;gi|44390703|gb|EAI93840.1| unknown [environmental sequence] [ score 62 E 4e-09 ] [ range 7 .. 77 ]
+sequence
+------------------------------VYGYNSVETSVLKNPESIIELYIDESSSNKRVEKLLSSKA
+ASRLNIQKVDKHFLSDLLSTEKHQGIAAKIR----*
+>P1;gi|44549642|gb|EAK03310.1| unknown [environmental sequence] [ score 58 E 3e-08 ] [ range 8 .. 78 ]
+sequence
+------------------------------IYGIHTCLSQIKNNPENINKIYIKNSSLNKNLQNILDIAK
+QRDIIVSQCEKTSMDALILSNKHQGVVMEIS----*
+>P1;gi|23040823|ref|ZP_00072320.1| COG0566: rRNA methylases [Trichod... [ score 58 E 4e-08 ] [ range 43 .. 114 ]
+sequence
+------------------------------IYGRHTVQAALKSE-RYLNRIWIISSRYDPRFHILLNEAK
+TKGTIIDEVDDRRLDQITRRKHHQGIVAQICP---*
+>P1;gi|15903354|ref|NP_358904.1| tRNA (guanosine-2'-O-)-methyltransf... [ score 58 E 5e-08 ] [ range 18 .. 87 ]
+sequence
+------------------------------VYGVHAVEALLANTGNK---LYLQEDLRGKNVEKVKELAT
+EKKVSISWTSKKSLSEMTEGAVHQGFVLRVSE---*
+>P1;gi|15896402|ref|NP_349751.1| RRNA methylase, YACO B.subtilis ort... [ score 57 E 9e-08 ] [ range 10 .. 80 ]
+sequence
+------------------------------IEGRNAVIEALKSDS-TIEQVLVSSGKSEGSINVILAKAK
+EKGIPVKYVDRKKLDKISNGGVHQGVIAISTP---*
+>P1;gi|28212189|ref|NP_783133.1| 23S rRNA methyltransferase [Clostri... [ score 57 E 2e-07 ] [ range 6 .. 78 ]
+sequence
+------------------------------IIGRNAVVEALESH-KTLESILISKGNNKGTINKIISLAK
+ENRIPIKNVDKKKLDEISEGENHQGVAAYTTPYK-*
+>P1;gi|21230973|ref|NP_636890.1| tRNA/rRNA methyltransferase [Xantho... [ score 56 E 2e-07 ] [ range 8 .. 81 ]
+sequence
+------------------------------IVGVNAVASSVENDADNVREVLIEAGSKNPRLTEIEEQAR
+RKGIDVRRVNTQALDGVGGQVRHQGVAARYAAAR-*
+>P1;gi|43945604|gb|EAG28444.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 9 .. 78 ]
+sequence
+------------------------------IYGIHAVSNIINSDHNKIKKIYLKKNYTSKNLTNLFTQAI
+DAGLYIEESDADKLSMLCESNKHQGVVCEI-----*
+>P1;gi|17228654|ref|NP_485202.1| tRNA/rRNA methyltransferase [Nostoc... [ score 55 E 4e-07 ] [ range 84 .. 155 ]
+sequence
+------------------------------IYGRHPVLSALQNQ-RGLNRIWVTRLRYDPRFHNLILQAK
+DNGAVIDEVDTKRLDQITDQANHQGIAAQIAP---*
+>P1;gi|42828356|gb|EAA81532.1| unknown [environmental sequence] [ score 55 E 5e-07 ] [ range 6 .. 73 ]
+sequence
+--------------------------------GFHAIRECLNQSPQKARCLYVLKTRKDSRINELIGLAR
+ASNIRYQVVESSWFKRRQVTGNHQNVLLDC-----*
+>P1;gi|44508867|gb|EAJ75461.1| unknown [environmental sequence] [ score 54 E 7e-07 ] [ range 9 .. 78 ]
+sequence
+------------------------------IYGIHAVFNIINSDHNKIKKIYLKKNYTSKNLTNLFAEAV
+DVGLYIEEVNPDKLSMLCESNKHQGVVCEI-----*
+>P1;gi|15838579|ref|NP_299267.1| tRNA/rRNA methyltransferase [Xylell... [ score 54 E 9e-07 ] [ range 8 .. 76 ]
+sequence
+------------------------------IVGINAVVSSIENDAEHVCEVLVEAGSKNSRLLDIEENAR
+RKGIEVRRVTTQALDGVGGGVRHQGVAAR------*
+>P1;gi|15673854|ref|NP_268029.1| tRNA-guanosine methyltransferase [L... [ score 54 E 1e-06 ] [ range 7 .. 76 ]
+sequence
+------------------------------IYGLHAVTEALNGD--LVNKLYVQEDLRGKNVEKIKELAR
+LKKVNISWTPKTELNKLTENGVHQGFMARVSE---*
+>P1;gi|23121814|ref|ZP_00103993.1| COG0566: rRNA methylases [Desulfi... [ score 54 E 1e-06 ] [ range 6 .. 76 ]
+sequence
+------------------------------VYGRNAVWELLQSG-KPVNKLLLQGEGTAGRFQDIVSHAR
+AQKIPFQFVDKAALDRLTEKAKHQGILAYVAP---*
+>P1;gi|16331014|ref|NP_441742.1| hypothetical protein [Synechocystis... [ score 53 E 1e-06 ] [ range 126 .. 197 ]
+sequence
+------------------------------LYGHHAVLAALDGD-RQLNRIWITSHRHDIRYRTKIQTAK
+ANGTVVDEVDNFRLNQITHNANHQGIAAQVAP---*
+>P1;gi|18311406|ref|NP_563340.1| probable tRNA/rRNA methyltransferas... [ score 53 E 2e-06 ] [ range 51 .. 119 ]
+sequence
+--------------------------------GRNAVIELLKSD-KTIEQIFIANGKMEGSINKILGLAK
+EKKIVVKEVDRKKLDLMSETKAHQGVIAQITP---*
+>P1;gi|44276498|gb|EAI14250.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 5 .. 71 ]
+sequence
+------------------------------IYGIHTCNAQLKLDAKSICKIYLKKPPHNRQLQNIISSCE
+EKGIHTINLDKDNLTTMCLSSKHQGIV--------*
+>P1;gi|44558869|gb|EAK09788.1| unknown [environmental sequence] [ score 52 E 4e-06 ] [ range 7 .. 77 ]
+sequence
+------------------------------VYGYNSVETSVLKNPDNIIELYVDQSSSNKRIEKLLSNKI
+ASRLNILKVDNTFLSELLSTEKHQGIAAKIK----*
+>P1;gi|22997600|ref|ZP_00041829.1| COG0566: rRNA methylases [Xylella... [ score 52 E 5e-06 ] [ range 8 .. 76 ]
+sequence
+------------------------------IVGINAVVSSIENDAEHVREVLVEAASKNSRLLDIEENAR
+RKGIEVRRVTTQALDGVGGGVRHQGVAAR------*
+>P1;gi|23127527|ref|ZP_00109394.1| COG0566: rRNA methylases [Nostoc ... [ score 51 E 6e-06 ] [ range 109 .. 180 ]
+sequence
+------------------------------IYGRHPVLSAL-QKQRNLNRIWITRLRYDPSFHHFLLQAK
+ENGTVIDEVEPKRLDYLTNGANHQGVAAQTAP---*
+>P1;gi|23473362|ref|ZP_00128658.1| COG0566: rRNA methylases [Desulfo... [ score 51 E 6e-06 ] [ range 16 .. 82 ]
+sequence
+--------------------------------GIKPVLDQLRQSPDRVDSVTIRKGRKNADTDAIVTLCR
+RHGIRFTFVQDTALDKLFSG-NHQGVVARV-----*
+>P1;gi|23024868|ref|ZP_00064059.1| COG0566: rRNA methylases [Leucono... [ score 50 E 9e-06 ] [ range 10 .. 75 ]
+sequence
+------------------------------VYGHHAVESL--KSTQEINKVWLQTGLQDKIRNEITQLAK
+KKKLVIQQAPKSKLDELTDGGNHQGVV--------*
+>P1;gi|43567558|gb|EAE38571.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 6 .. 70 ]
+sequence
+--------------------------------GFHAIRECLKQSPQKARCLYVLKTRKDSRINELIGLAR
+MSKIRYQVVEASWFQRRQVIGNHQNVL--------*
+>P1;gi|42846657|gb|EAA90675.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 6 .. 73 ]
+sequence
+--------------------------------GFHAIRECLKQSPQKARCLYVLKTRKDSRINEVIGLAR
+MSKIRYQVVESSWFQRRQVIGNHQNVLLDC-----*
+>P1;gi|43248434|gb|EAC89880.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 11 .. 55 ]
+sequence
+--------------------------------GFHSIESIIKNNPHKIKKLFIPQSREDKRIINLIDLAE
+KNGIKYQ----------------------------*
+>P1;gi|44341356|gb|EAI58537.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 11 .. 55 ]
+sequence
+--------------------------------GFHSIESIIKNNPHKIKKLFIPQSREDKRIINLIALAE
+KNGIKYQ----------------------------*
+>P1;gi|43424614|gb|EAD70088.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 7 .. 58 ]
+sequence
+-----------------------------KRYGFHSIESIINNNPHTIKKLFIPSSRDDKRVHQLISLAE
+KFEIKYEISNK------------------------*
+>P1;gi|43697169|gb|EAF03829.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 2 .. 72 ]
+sequence
+------------------------------IWGKHALEAAISNKNRKIIIIYHTLEMSDWVYQNLKNK-K
+RINIKLIEVDRKFLDENSMSSPNQGVLAEVEP---*
+>P1;gi|43687877|gb|EAE99105.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 2 .. 46 ]
+sequence
+--------------------------------GFHSIESIIKNNPHKIKKLLIPQSREDKRIINLIALAE
+KNGIKYQ----------------------------*
+>P1;gi|39996562|ref|NP_952513.1| RNA methyltransferase, TrmH family,... [ score 48 E 4e-05 ] [ range 6 .. 74 ]
+sequence
+------------------------------LYGINSVMEAL-RGSRRAFELFVSRETHDRRTEKLLAFAA
+ERGVPVRTRDKRDLARLCGTDHHQGVALRV-----*
+>P1;gi|16077164|ref|NP_387977.1| similar to hypothetical proteins [B... [ score 48 E 4e-05 ] [ range 10 .. 75 ]
+sequence
+--------------------------------GKNAVIETLKSD-RKLYKLWMAENTVKGQAQQVIELAK
+KQGITIQYVPRKKLDQMVTG-QHQGVVAQV-----*
+>P1;gi|43655947|gb|EAE82874.1| unknown [environmental sequence] [ score 48 E 4e-05 ] [ range 11 .. 59 ]
+sequence
+--------------------------------GFHSIESIIKNNPHKIKKLFLPSSRNDKRINNLIEMAN
+KNDISFEISNK------------------------*
+>P1;gi|15612676|ref|NP_240979.1| tRNA/rRNA methyltransferase [Bacill... [ score 48 E 4e-05 ] [ range 13 .. 74 ]
+sequence
+------------------------------------IEAL--RSGRPMNKIWIGEGSQKGQMQKVLELAK
+EQGVLVQHVPKRKLDQLIGHENHQGVVASV-----*
+>P1;gi|21911205|ref|NP_665473.1| putative tRNA/rRNA methyltransferas... [ score 48 E 4e-05 ] [ range 13 .. 81 ]
+sequence
+------------------------------VYGVHAVTESLQANTGN--KLYIQEDLRGKKVDNIKSLAT
+QKKVAISWTPKKTLSQMTDGAVHQGFVLRVS----*
+>P1;gi|22536393|ref|NP_687244.1| RNA methyltransferase, TrmH family,... [ score 48 E 5e-05 ] [ range 16 .. 85 ]
+sequence
+------------------------------VYGLHAVTESLRANTGN--KLYLQDDLRGKNVDKVKALAT
+EKKVSISWTPKKTLSDMTNGGVHQGFVLKVSE---*
+>P1;gi|43137921|gb|EAC34746.1| unknown [environmental sequence] [ score 48 E 5e-05 ] [ range 11 .. 55 ]
+sequence
+--------------------------------GFHSIESIIKNSPHKIKKLFIPQSREDKRIINLITLAK
+KNGIKYQ----------------------------*
+>P1;gi|37523750|ref|NP_927127.1| tRNA/rRNA methyltransferase [Gloeob... [ score 48 E 6e-05 ] [ range 93 .. 162 ]
+sequence
+------------------------------LYGKQSVLAALQNS-RPLNRVWLEKLRYDPRFLRLLDAAK
+AGGAVIDIVEPRRLDQLTAGGNHQGVAAQA-----*
+>P1;gi|44627872|gb|EAK58795.1| unknown [environmental sequence] [ score 48 E 7e-05 ] [ range 11 .. 53 ]
+sequence
+--------------------------------GFHSIESIIKNNPHKIKKLFLPSSRDDKRINNLIEMAN
+KNDIS------------------------------*
+>P1;gi|42561476|ref|NP_975927.1| rRNA Methylase [Mycoplasma mycoides... [ score 47 E 1e-04 ] [ range 6 .. 72 ]
+sequence
+------------------------------IYGKHVVFELLKKHQNMVKEIWV----KD---LKILNELK
+KTKIKVNVVSENKLDQLLEQTQHQGIIAQIK----*
+>P1;gi|23020830|ref|ZP_00060524.1| COG0566: rRNA methylases [Clostri... [ score 47 E 1e-04 ] [ range 42 .. 106 ]
+sequence
+-------------------------------------NSVLEKAGRTINKILVPKGEKEGSIRQIIALAR
+ERGIVVQETDRSNLDKISTTHAHQGVIAYV-----*
+>P1;gi|44287415|gb|EAI21574.1| unknown [environmental sequence] [ score 46 E 1e-04 ] [ range 8 .. 79 ]
+sequence
+------------------------------IVGKHAVIEALKNKKRKILKIFLEESKKNIRENPKTNLLK
+--NIKVHFKTKKELDKKNEGILHQGYVAEI-----*
+>P1;gi|21244041|ref|NP_643623.1| tRNA/rRNA methyltransferase [Xantho... [ score 46 E 2e-04 ] [ range 64 .. 133 ]
+sequence
+-----------------------------RLYGINAVQAVFKTRPEALRKLYLSEARI-PQFKALLAWCV
+TQRIGYRVVEEADLSKLAASAHHEGVVAEV-----*
+>P1;gi|44267398|gb|EAI08058.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 5 .. 48 ]
+sequence
+--------------------------------GFHNIEILLKLSPENIKKIFIPANRNDERVRSLIAMAE
+NLSISV-----------------------------*
+>P1;gi|24378679|ref|NP_720634.1| putative tRNA/rRNA methyltransferas... [ score 46 E 2e-04 ] [ range 13 .. 81 ]
+sequence
+------------------------------VYGVHAVIESLQANTGH--KLYIQNDLRGKNVDKIKDLAA
+EKKVPISWTPKKTLSDMTKGAVHQGFILHVS----*
+>P1;gi|43829450|gb|EAF68994.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 9 .. 51 ]
+sequence
+--------------------------------GFHSIESIIKNNPYKIKKLFLPFSRNDKRLDNLIELSK
+KNGIN------------------------------*
+>P1;gi|44595019|gb|EAK35211.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 12 .. 55 ]
+sequence
+--------------------------------GFHSIEILLKLSPENIKKIFIPANRNDERVLDLIAMAE
+KLSISV-----------------------------*
+>P1;gi|44605449|gb|EAK42596.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 9 .. 51 ]
+sequence
+--------------------------------GFHSIESIIQNNPYKIKKLFLPSTRDDKRLNNLIRLSE
+KNGIN------------------------------*
+>P1;gi|22993326|ref|ZP_00037928.1| COG0566: rRNA methylases [Enteroc... [ score 45 E 3e-04 ] [ range 51 .. 120 ]
+sequence
+------------------------------VFGHHAAVEALQQG--RGNKLFLQEDSRGEKVEELKEIAR
+EQAVPVKWVPKQKLETLSDHGVHQGVVLAITP---*
+>P1;gi|15805774|ref|NP_294471.1| RNA methyltransferase, TrmH family ... [ score 45 E 3e-04 ] [ range 3 .. 74 ]
+sequence
+------------------------------LYGRNPV---LEALPARVAEVVLARGVEDAFARQVQDLAR
+DAGVRVRWLPRIELDQLVGTTQHQGVVAEVEELQ-*
+>P1;gi|30018362|ref|NP_829993.1| 23S rRNA methyltransferase [Bacillu... [ score 45 E 4e-04 ] [ range 12 .. 77 ]
+sequence
+-----------------------------------VIEAL--RSGRDINKIWIAEGAAKGQVQIVLALAK
+ENKIILQHAPKKKLDQLVEG-NHQGVIAQVAAYQ-*
+>P1;gi|44358671|gb|EAI70920.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 10 .. 52 ]
+sequence
+--------------------------------GFHSIETIIKVNPQKIKKLFLPFNRKDKRVNNLIELAT
+ENGIK------------------------------*
+>P1;gi|44517894|gb|EAJ81511.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 10 .. 53 ]
+sequence
+--------------------------------GFHSIEILLKNKPEVIKKVLVPEAREDARMLKLLQACS
+DNGVAV-----------------------------*
+>P1;gi|34112942|gb|AAQ62387.1| predicted rRNA methylase [uncultured ... [ score 45 E 5e-04 ] [ range 11 .. 59 ]
+sequence
+--------------------------------GFHSIESILEHSPHKIKKITLPAKREDGRITKLIQKIE
+ENKIPFEFSNK------------------------*
+>P1;gi|37912927|gb|AAR05259.1| predicted 23S rRNA methylase [uncultu... [ score 45 E 5e-04 ] [ range 11 .. 59 ]
+sequence
+--------------------------------GFHSIESILEHNPHKIKKITLPAKREDGRITKLIQKIE
+ENKIPFEFSNK------------------------*
+>P1;gi|22974684|ref|ZP_00020856.1| hypothetical protein [Chloroflexu... [ score 45 E 6e-04 ] [ range 6 .. 78 ]
+sequence
+------------------------------LYGRNAVRESLRARRRVFHRLYVSQSVQESGIAEIINLAQ
+QAGVPVERIERQTLDRRLRDANHQGVMLEAEP---*
+>P1;gi|33862923|ref|NP_894483.1| tRNA/rRNA methyltransferase (SpoU):... [ score 45 E 6e-04 ] [ range 180 .. 246 ]
+sequence
+------------------------------LWGRHASQAALEAG-RPIHRIWCTSDRSAPRFLQLLREAK
+SSGVLVEEVTWARLGQLTGGAVHQGIV--------*
+>P1;gi|23003468|ref|ZP_00047130.1| COG0566: rRNA methylases [Lactoba... [ score 45 E 6e-04 ] [ range 9 .. 81 ]
+sequence
+------------------------------VYGRHAGIDFLKQDANLINKVFLQNGVQEEFANQVYQLAR
+KKNLVVQNAPKNKLDQMVNHENHQGLVLTVAP---*
+>P1;gi|44169471|gb|EAH50101.1| unknown [environmental sequence] [ score 45 E 6e-04 ] [ range 10 .. 53 ]
+sequence
+--------------------------------GFHSIEMLLKLSPENIKKIFIPANRTDDRVTNLITMAE
+NYSISI-----------------------------*
+>P1;gi|44405179|gb|EAJ03973.1| unknown [environmental sequence] [ score 44 E 7e-04 ] [ range 10 .. 53 ]
+sequence
+--------------------------------GFHSIEILLKNKPEVIKKVLVPEAREDVRMLKLLQKCS
+DNGVAV-----------------------------*
+>P1;gi|43419561|gb|EAD68443.1| unknown [environmental sequence] [ score 44 E 8e-04 ] [ range 2 .. 25 ]
+sequence
+----------------------------------------------------------------------
+----------RKALDDKVNGEQHQGVVAKAKPAR-*
+>P1;gi|23053500|ref|ZP_00079709.1| COG0566: rRNA methylases [Geobact... [ score 44 E 8e-04 ] [ range 6 .. 70 ]
+sequence
+------------------------------LYGINAMEAL--RGKRRAFELFVSRDASDRRMEKLLKLAT
+EKGVPVRNRDKRDISRLCGTDHHQGV---------*
+>P1;gi|44327825|gb|EAI49082.1| unknown [environmental sequence] [ score 44 E 8e-04 ] [ range 8 .. 79 ]
+sequence
+------------------------------IVGKHAVIEALKNEKRKVLNIFLTEERNNPR-KNLLKD--
+---IKIYFKTKKELDKKNDGIQHQGFVAEV-----*
+>P1;gi|21232594|ref|NP_638511.1| tRNA/rRNA methyltransferase [Xantho... [ score 44 E 8e-04 ] [ range 60 .. 129 ]
+sequence
+-----------------------------RLYGINAIQAVFKARPQALRKIYLTEARI-PQFKALLAVAQ
+RLGYRV--VEEADLTKLASSTHHEGIVAEV-----*
+>P1;gi|15645178|ref|NP_207348.1| conserved hypothetical protein [Hel... [ score 44 E 8e-04 ] [ range 5 .. 70 ]
+sequence
+------------------------------IYGKQVIMHLLNSHQEKLQEIYLSKEID----KKLFFALK
+KACPNIIKVDNKKAQSLAKGGNHQGVLAKV-----*
+>P1;gi|15611567|ref|NP_223218.1| putative [Helicobacter pylori J99] ... [ score 44 E 0.001 ] [ range 5 .. 70 ]
+sequence
+------------------------------IYGKQVITHLLNSHHEKLQEIYLSKEID----KKLFFALK
+KACPNIIKVDNKKAQSLAKGGNHQGVLAKV-----*
+>P1;gi|44495955|gb|EAJ66773.1| unknown [environmental sequence] [ score 44 E 0.001 ] [ range 11 .. 53 ]
+sequence
+--------------------------------GFHSVESIIENNPHKIKKLFLPYSREDSRIINLIKMAD
+KNGIK------------------------------*
+>P1;gi|23024103|ref|ZP_00063326.1| COG0566: rRNA methylases [Leucono... [ score 130 E 5e-30 ] [ range 3 .. 100 ]
+sequence
+-RIISNQNARVKAWAKLATKKGRQENHTYLLDGLHLVEEAVKAGAK-FHAIMATEKQMADYLPNVPHGVP
+----A-FEISEEVAKHIAGTNTPQGIFAEISLPEK*
+>P1;gi|28378262|ref|NP_785154.1| rRNA methylase [Lactobacillus plant... [ score 129 E 1e-29 ] [ range 5 .. 99 ]
+sequence
+-KINSLQNAHVKAWKKLQTKKGRKQQGQYLLDGWHLVNEAVKAHVA-IQTLLITAKQLATEPDLTH--FP
+----AVIEISDEVAKHISATVTPQGVFALATLP--*
+>P1;gi|23021028|ref|ZP_00060717.1| COG0566: rRNA methylases [Clostri... [ score 124 E 5e-28 ] [ range 4 .. 104 ]
+sequence
+--ITSAQNPIIKEVKSLKQKKYREEKKLFFIEGIRFVEEALKEGVQ-IERILVSDKLAETNLKKVSNGGY
+----PVFQLPHKLFMEISDTQNPQGILAVLSMK--*
+>P1;gi|23099587|ref|NP_693053.1| rRNA methylase [Oceanobacillus ihey... [ score 122 E 2e-27 ] [ range 1 .. 92 ]
+sequence
+-MITSIKNEKVKSWKKLHRRKERLKTNTFLIDGIHLIQEALKSNWV-IQELIVVEGYELPND----AKDV
+----PVAYVSENVLKEISQTQTPQGVIAVVEM---*
+>P1;gi|15924127|ref|NP_371661.1| hypothetical protein [Staphylococcu... [ score 122 E 2e-27 ] [ range 3 .. 97 ]
+sequence
+-QITSAQNNRIKQANKLKKKRERDKTGLALIEGVHLIEEAYQSGIV-ITQLFAIEP--ARLDQQIIAYAQ
+----EVFEINMKVAESLSGTVTPQGFFAIIEKP--*
+>P1;gi|21402605|ref|NP_658590.1| SpoU_methylase, SpoU rRNA Methylase... [ score 121 E 3e-27 ] [ range 4 .. 97 ]
+sequence
+--IDSVQNPRVKQWKKLQTKKERDKKGLFFVEGFHLVEEALKAGVV-TELIVSDQTDL-PKDWTVNDVEM
+----YI--VPEAIVKVLRETETTQGVFAVCEKHE-*
+>P1;gi|42783734|ref|NP_980981.1| RNA methyltransferase, TrmH family ... [ score 119 E 1e-26 ] [ range 4 .. 98 ]
+sequence
+--IDSVQNPRVKQWKKLQTKKERDKKGLFFVEGFHLVEEALKVGVV-TELIVSDQTDL-PKDWTVNDVEM
+----YI--VPESIVKVLRETETTQGVFAVCEKHEK*
+>P1;gi|30022637|ref|NP_834268.1| 23S rRNA methyltransferase [Bacillu... [ score 119 E 2e-26 ] [ range 4 .. 98 ]
+sequence
+--IDSVQNPRVKQWKKLQTKKERDKKGLFFVEGFHLVEEALKTGIV-TELIVSDQTDL-PKDWTVNDVEM
+----YI--VPEAIVKILRETETTQGVFAVCEKHEK*
+>P1;gi|22974876|ref|ZP_00020991.1| hypothetical protein [Chloroflexu... [ score 118 E 3e-26 ] [ range 1 .. 103 ]
+sequence
+MMITSLANPTIKALRALRQRKARDEQGRYLIEGIRPVAEAIQCGAP-LDMLVVAPELLNSSFDTYAAGGG
+----KILTVSAAVFSSLADKDNPQGLAAVGRIH--*
+>P1;gi|42561043|ref|NP_975494.1| rRNA methylase [Mycoplasma mycoides... [ score 115 E 2e-25 ] [ range 4 .. 98 ]
+sequence
+--ISSVSNPKIKEILKLKDRKHRNKQKLFIVEGFHMIMEAYNDQI--IKTLLGTSKTLEVLKDEI-PNIE
+----QVIEISENVAKKISDTVTSQQIFAICSMPE-*
+>P1;gi|13472801|ref|NP_104368.1| rRNA methylase [Mesorhizobium loti ... [ score 115 E 2e-25 ] [ range 3 .. 100 ]
+sequence
+-EVTSLANPLIKDIKALALKKFRDQQNAFMAEGLKLVIDALDLGWQ-IRTLVFAKAGRNPAVEKVAARTV
+----AVLEVSEKVLVAITRRDNPQMVVGV------*
+>P1;gi|15895625|ref|NP_348974.1| RRNA methylase, YSGA B.subtilis ort... [ score 115 E 2e-25 ] [ range 5 .. 105 ]
+sequence
+--IKSKENSIIKEVKKLNEKKHRDLKKSFIVEGLRFVREALESDFK-IQYLFVSEKNYDKELKELIKKEF
+----QVIKVTESILKDICNTQTPQGIVAVVQYKE-*
+>P1;gi|15964143|ref|NP_384496.1| PUTATIVE TRNA/RRNA METHYLTRANSFERAS... [ score 115 E 2e-25 ] [ range 20 .. 117 ]
+sequence
+-EVTSLTNPIVKDIRALTQKKHRDETRSFMAEGLKLVIDALDLGWK-IKTLVYAKAAKKPQVEQVAAKTV
+----AVLEVNEKVISTITRRDNPQMVVGI------*
+>P1;gi|15903830|ref|NP_359380.1| Possible rRNA/tRNA methylase [Strep... [ score 114 E 4e-25 ] [ range 10 .. 99 ]
+sequence
+--ITSKANSVVKNAKKLHQKKYRKSA--YLIEGWHLFEEAVQAGVT-IEKIFALENYRDQ-----LAAFP
+----QTVWISEDILLDLADSQTPQGIVAVVQKEE-*
+>P1;gi|17988081|ref|NP_540715.1| 23S ribosomal RNA methyltransferase... [ score 114 E 6e-25 ] [ range 29 .. 126 ]
+sequence
+-EVTSLANPIVKDLRSLALKKFRDQQGVFLAEGLKLVIDALEQDWR-IKTLVFAKSGKNKTVEQVAARTF
+----AVLEVTEKVISAITRRDNPQMVAGV------*
+>P1;gi|29839982|ref|NP_829088.1| spoU rRNA methylase family protein ... [ score 110 E 7e-24 ] [ range 1 .. 99 ]
+sequence
+MEFIGKNNPKVKEVVALKQSRSRKGP-LFLLEGFREIQKALNSGYE-CERIFCGENVSEKEQNRIQKTPL
+----EKIYCSEEILSKLSYKEHHDNFIAVMKK---*
+>P1;gi|15901796|ref|NP_346400.1| spoU rRNA Methylase family protein ... [ score 108 E 2e-23 ] [ range 4 .. 93 ]
+sequence
+--ITSKANSVVKNTKKLHQKKYRKSA--YLIEGWHLFEEAVQAGVT-IEKIFTLENYRDQ-----LATFS
+----QTVWVSEDILLDLADSQTPQGIVAVVQKEE-*
+>P1;gi|15887691|ref|NP_353372.1| AGR_C_593p [Agrobacterium tumefacie... [ score 107 E 7e-23 ] [ range 22 .. 119 ]
+sequence
+-EVTSLANPIIKDIKALTQKKGREETGTFMAEGLKLVIDALELGWT-IKTLVYAKAAKKPLVEQAAVKTV
+----AVLEVSEKVIASITRRDNPQMVVGI------*
+>P1;gi|13357887|ref|NP_078161.1| rRNA methylase [Ureaplasma urealyti... [ score 105 E 2e-22 ] [ range 5 .. 106 ]
+sequence
+--ITSNKNEEIIHFYRLHDKKYREANKLFIIEGFKLLDEALQNQQT-IVSIIINEHVYNKEFETIFKYTL
+----QIYKVSGNIIKKLSVNIEPSPILAVVKIKQ-*
+>P1;gi|15672589|ref|NP_266763.1| tRNA/rRNA methyltransferase [Lactoc... [ score 105 E 2e-22 ] [ range 4 .. 102 ]
+sequence
+--ISSKDNKKIKEARKLLTKKYR--KNSYLIEGFHLLEEALKAGRS-IKQIFVEENKLTKLTEMIGSEDL
+----SVNLVSKEVLKSLADSESPQGLIAEVTKIE-*
+>P1;gi|15806040|ref|NP_294741.1| rRNA methylase [Deinococcus radiodu... [ score 105 E 3e-22 ] [ range 9 .. 104 ]
+sequence
+--ITSLQNPQVKRLVRLRTRRERERDGVMLIEGARELMRAESAGVT-VPELFVCPELFSPEARELFPEVT
+----GATELSRAAFEKVSGRENPDGVLGVAPLP--*
+>P1;gi|27467748|ref|NP_764385.1| rRNA methylase [Staphylococcus epid... [ score 103 E 8e-22 ] [ range 3 .. 97 ]
+sequence
+-QITSAQNSKIKNANKLKKKRERDKTGLALVEGIHLIEEAYQSQIE-VIQLFIVDT--DRMSSSIIDYAK
+----EVYQINLKVAEALSGTVTPQGFFAIIKKP--*
+>P1;gi|43135433|gb|EAC33532.1| unknown [environmental sequence] [ score 101 E 4e-21 ] [ range 1 .. 100 ]
+sequence
+-MITSTSNPRVKQAASLRKSKHRQLLGLTIVDGLRELKCALSAGVD-IIEVFV-DGTASPEREVLLEGFL
+----QVTTLAKGPFEKIAFGDRNEGVLAVVR----*
+>P1;gi|16800250|ref|NP_470518.1| similar to rRNA methylase [Listeria... [ score 100 E 1e-20 ] [ range 3 .. 98 ]
+sequence
+-QIQSVKNDRVKTWKKLQTRKGRDKTGTYLVEGFHLVEEALRQDGL-VLELLISSGVSVPEEW--LKGDY
+----DVFEISSEISHLISDTMTEQGVFAVVAISE-*
+>P1;gi|24213487|ref|NP_710968.1| SpoU rRNA Methylase family protein ... [ score 99 E 3e-20 ] [ range 17 .. 114 ]
+sequence
+LEITSFSNEKLKTISNLKEKKHRETSGLFFIEGYREILRAQKSGIK-FQNILFSPECF--LGENEFSLIR
+----SIIKVPKKIFEKVSYRDRPDGLIATA-----*
+>P1;gi|16079917|ref|NP_390743.1| similar to rRNA methylase [Bacillus... [ score 98 E 3e-20 ] [ range 3 .. 97 ]
+sequence
+-QIESAKNQKVKDWKKLHTKKERTKTNTFLIEGEHLVEEALKSPGI-VKEILVKDETRIPSD---LETGI
+----QCYMLSEDAFSAVTETETPQQIAAVCHMPE-*
+>P1;gi|16803258|ref|NP_464743.1| similar to rRNA methylase [Listeria... [ score 98 E 5e-20 ] [ range 3 .. 94 ]
+sequence
+-QIQSVKNDRVKTWKKLQTRKGRDKTGTYLVEGFHLVEEALRQDGL-VLELLVSSGVSVPEEW--LKGDY
+----DVFEISTEISHLISETMTEQGVFAVV-----*
+>P1;gi|15615674|ref|NP_243978.1| rRNA methylase [Bacillus halodurans... [ score 90 E 8e-18 ] [ range 3 .. 98 ]
+sequence
+-QIDSPKNELVKKWKKLHTKKGRDQSGQFLIEGYHLVEEALKSTIT-IETILVTESVTLPTAWHVDERD-
+-----VILVSDRVMADLTETKTPQGIAAICHIPD-*
+>P1;gi|16125439|ref|NP_420003.1| spoU rRNA methylase family protein ... [ score 90 E 1e-17 ] [ range 6 .. 102 ]
+sequence
+--VTSLTNNTVKAVRALHMRKEREDSGLFLAEGLKIVIEAIDCGHA-PKIVMYGPPMLKKAVAACLKAGG
+----EVIEVNREILEKVSRRDNPQAVVAV------*
+>P1;gi|15605128|ref|NP_219913.1| rRNA Methylase (SpoU family) [Chlam... [ score 88 E 4e-17 ] [ range 1 .. 101 ]
+sequence
+MEFIGKNNARVKSALALKRQRARNST-YFLLEGFREIHRALISGYR-CSHVFCGELIADKEDRELTSLGI
+----EKLYCSKDILEKLSFKENPENFIAVFEKKE-*
+>P1;gi|23003698|ref|ZP_00047351.1| COG0566: rRNA methylases [Lactoba... [ score 88 E 4e-17 ] [ range 2 .. 100 ]
+sequence
+IEINSVNNPTIKNLRKLEQKKYRKKTQTYLIEGFHLVEEALKNHEN-YLYILGTSEALEKLTTSYRLKDD
+----KVIKITDAIAEHLSSTKNSQDIFMVLPINQ-*
+>P1;gi|42519503|ref|NP_965433.1| hypothetical protein LJ1627 [Lactob... [ score 87 E 1e-16 ] [ range 2 .. 100 ]
+sequence
+IEINSVNNPTIKSLRKLEQKKYRKKTQTYLIEGFHLVEEALKSHEN-YLYVLGTAEALKKLDTTYKLKDN
+----KVIQITDAIAQHLSSTKNSQDIFMVLPINQ-*
+>P1;gi|37520123|ref|NP_923500.1| probable tRNA/rRNA methyltransferas... [ score 84 E 9e-16 ] [ range 1 .. 98 ]
+sequence
+-MLTSLQNPVIKQLRKLHAAKERQAQGLFLVEGTHPVAAALAGGWE-LEFVCATEAGEHPAMHTALSGRA
+----GRYEVAPAVIEALADTVHPSGVVAAVR----*
+>P1;gi|43059444|gb|EAB96080.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 9 .. 107 ]
+sequence
+-EISSLTNEKVKLINSLHHRKYRREHNLFVAEGIRICREAAENGWE-VRYLLIDSHIIENLINDVLCLGA
+----DVIEVTSEILSKISHKENPQNVLCVI-----*
+>P1;gi|28211878|ref|NP_782822.1| 23S rRNA methyltransferase [Clostri... [ score 82 E 2e-15 ] [ range 4 .. 103 ]
+sequence
+--ITSKDNNLVKFVRKLRDKKHRKKEKKFIVEGFRFVEEALKSDYC-IEYILINEKSLNKVQENIEVIEN
+----KVYILNESSFNSISGTENSQGILAIVNMKE-*
+>P1;gi|15835298|ref|NP_297057.1| spoU rRNA methylase family protein ... [ score 80 E 1e-14 ] [ range 1 .. 100 ]
+sequence
+MEFIGKNNARVKAALALKRQRARNSS-YFLLEGFREIHRALISGYH-CLHVFCGELISDKEDKELTALGI
+----EKLPCPKEILERLSFKEHPDNFIAVFEKK--*
+>P1;gi|23124776|ref|ZP_00106744.1| COG0566: rRNA methylases [Nostoc ... [ score 79 E 2e-14 ] [ range 1 .. 98 ]
+sequence
+-MLTSLQNSLVKQIRKLHSTKERHKQQLFLLEGTHLLEEACAVNYP-LETVCCWEKASSKSDRTEI----
+--------VSEEVLNAIATTVQPDGVVATAK----*
+>P1;gi|21909794|ref|NP_664062.1| putative spoU rRNA Methylase family... [ score 79 E 2e-14 ] [ range 1 .. 91 ]
+sequence
+MVITSKANQLIKQTKKLLQKKHRKQ--SYLIEGWHLFEEAQKSGQV-FRHIFVLEEMAER-----LAGEQ
+----ELVIVSPQVLKELTDSPSPQGIVAEVEIP--*
+>P1;gi|45512742|ref|ZP_00164308.1| hypothetical protein Selo045001 [... [ score 79 E 2e-14 ] [ range 1 .. 102 ]
+sequence
+-MLTSRQNPLTKQIRQLHQAKGRRQMGAFLLEGTHLLQEAIATNWP-LLQVCATPAWQNPQLWQIQAAPE
+----Q--TVSDDLLAYLCTTVNPDGVVAIARQPQR*
+>P1;gi|43907987|gb|EAG08562.1| unknown [environmental sequence] [ score 79 E 3e-14 ] [ range 9 .. 104 ]
+sequence
+--ITSAGNAEVKRLRSLHERKFRRQTGLFLAEGMRICTEAVALGWR-LHRLAFLDGMVRPLLEALARDGG
+----RALPMTESLLSRISGKDNPQMVLG-------*
+>P1;gi|45507941|ref|ZP_00160282.1| hypothetical protein Avar288501 [... [ score 79 E 3e-14 ] [ range 1 .. 101 ]
+sequence
+-MLTSLQNSLVKQIRKLHSTKERHKQGLFLLEGTHLLEEACAMDYP-LEVVCCTPEASHTALWEEACNRC
+----DRCEVSEEVLQAIATTVQPDGVVATAKRSE-*
+>P1;gi|22299511|ref|NP_682758.1| ORF_ID:tll1968~probable tRNA/rRNA m... [ score 78 E 4e-14 ] [ range 1 .. 97 ]
+sequence
+MIITSRQNQLVRSIRKLHHRKYR--QGHLLLEGTHLIQEALASGYV-VCYTSAWQAKQSPTFWQLLHRSD
+----RAVEVSEEVLAALCTTTTPDGVVAVA-----*
+>P1;gi|23041474|ref|ZP_00072928.1| COG0566: rRNA methylases [Trichod... [ score 78 E 5e-14 ] [ range 1 .. 98 ]
+sequence
+-MLTSLQNSLVKQIRQLHQSKGRQEQQLFLVEGTHLLEEACKRNYP-LITVFEWQEKHKFLYELVSQKAQ
+----RIELVSTKIIQSLATTVSPDGVVAIAP----*
+>P1;gi|16330947|ref|NP_441675.1| rRNA methylase [Synechocystis sp. P... [ score 77 E 7e-14 ] [ range 11 .. 110 ]
+sequence
+--ITSTQNPLVKQLRQLHQTKGRKQQGQLLLEGTHLLEVALAQGKG-FNHGCFTAMWQEKNPDRLMAQSV
+----HSYLVSGEVLAKMASTVNPDGVVATLTMDQ-*
+>P1;gi|17227671|ref|NP_484219.1| rRNA methylase [Nostoc sp. PCC 7120... [ score 77 E 8e-14 ] [ range 14 .. 115 ]
+sequence
+-MLTSLQNSLVKQIRKLHSTKERHKQGLFLLEGTHLLEEACAMDYP-LEVVCCTPEWEATALWDDACSRC
+----DRYEVSEEVLQAIATTVQPDGVVATAKRSEQ*
+>P1;gi|22002552|gb|AAM82703.1| rRNA methylase-like protein [Synechoc... [ score 74 E 6e-13 ] [ range 1 .. 94 ]
+sequence
+-MLTSRQNPLTKQIRQLHQAKGRRQMGAFLLEGTHLLQEAIATNWP-LLQVCATPNTRNSGSRAIQAAPE
+----Q--TVSDDLLAYLCTTVNPDGVVA-------*
+>P1;gi|44516322|gb|EAJ80439.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 9 .. 112 ]
+sequence
+-EISSLTNDKVKLIKSLYHRKYRRNLNLFVAEGVRICKEALDNYWK-IKCLLFNKQIKDDLVNETISLGG
+----DAIGVTSQILSKLSHKDNPQNVLGVFEQKWR*
+>P1;gi|24380097|ref|NP_722052.1| putative rRNA methylase [Streptococ... [ score 73 E 2e-12 ] [ range 4 .. 94 ]
+sequence
+--ITSKANSLIKKTKKLLQKKYR--QYSYLIEGWHLFAEAQANNAD-IINIFVLECYASR-----VSEFP
+----NVVLVSEDILKDLSASKTPQGIVAEIAFPKQ*
+>P1;gi|43353220|gb|EAD41451.1| unknown [environmental sequence] [ score 72 E 2e-12 ] [ range 6 .. 102 ]
+sequence
+--IKMISNREIKTLMSLSTKKGRKESGKYLIEGFRITRSALRNKAP-VLKIYITDKFKSSNDQQIFSLIP
+----KVIVLEEKIIKSICQTLHPSGVFATC-----*
+>P1;gi|43491356|gb|EAE00483.1| unknown [environmental sequence] [ score 72 E 2e-12 ] [ range 5 .. 95 ]
+sequence
+---------KIKQIQSLKHQKYREKYGQFFIEGKRLVKSAIKSETT-TLLIIYTNVFYESELWLKSINNS
+----YVKQVSSNVFQKISNTKSPSGIAAVCKLPE-*
+>P1;gi|25011695|ref|NP_736090.1| Unknown [Streptococcus agalactiae N... [ score 72 E 3e-12 ] [ range 5 .. 94 ]
+sequence
+--ITSKSNNLIKKTKKLLQKKYRKS--SYLIEGWHLFEEAEKYGAQ-FLNIFVTETAIDRLR-----KPE
+----EAIVVTDDVLKELTDSQTPQGIVAEIAFQE-*
+>P1;gi|44411860|gb|EAJ08552.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 6 .. 102 ]
+sequence
+--IKMISNREIKTLMSLSTKKGRKESGKYLIEGFRITRSALRNKGP-VLKIYITDKFKSSNDQQIFSLIP
+----KKVDVTEKIIKSICQTLHPSGVFATC-----*
+>P1;gi|42973705|gb|EAB53822.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 6 .. 102 ]
+sequence
+--IKMISNREIKTLMSLSTKKGRKESGKYLIEGFRITRSALRNKAP-VLKIYITDKFKTSNDFQLIPKKI
+----DVIVLEEKIIKSICQTLHPSGIFATC-----*
+>P1;gi|18310871|ref|NP_562805.1| probable rRNA methylase [Clostridiu... [ score 71 E 6e-12 ] [ range 2 .. 103 ]
+sequence
+LEIESKNNNLFKEIKKLKEKKHRIKSNKYLIEGLRFVEEAIKSKVS-IDSIIFTESFKEKNPDLFLKENI
+----KLIQMNEALLKQLCSTENPQGIVGVINMQNK*
+>P1;gi|29376897|ref|NP_816051.1| RNA methyltransferase, TrmH family ... [ score 70 E 8e-12 ] [ range 3 .. 100 ]
+sequence
+-EITSTKNNQLKEWKKLHKKKYREELNQYIIEGFHLVEEAVKANAD-VQWILFNQGQQEWGTWLAEQETE
+----KLIFVSDEVLNSLSELPTSQGILAIVTLE--*
+>P1;gi|20808116|ref|NP_623287.1| rRNA methylase [Thermoanaerobacter ... [ score 70 E 8e-12 ] [ range 1 .. 93 ]
+sequence
+MLITSEDNSFIKKIKKLKDKKGRYEEKLFFVEGLNSVKEALDSDFK-VEYVVVGE-----DVEFEFKGDF
+----KLIRIANKLFKKISDTVTPQKIMAIVRMP--*
+>P1;gi|43419414|gb|EAD68395.1| unknown [environmental sequence] [ score 70 E 8e-12 ] [ range 6 .. 101 ]
+sequence
+--IRSAQNPLVKRIRTIKSRKGRARERVCWVEGLAPVLEAIDAGWP-IETLVLASDMLDAAASRLTTSDA
+----PIRHVSGEVFERISDRDGPTGLGAIVQ----*
+>P1;gi|23016951|ref|ZP_00056696.1| COG0566: rRNA methylases [Thermob... [ score 69 E 2e-11 ] [ range 5 .. 102 ]
+sequence
+-EFTSIRSPRIKGARRLAKRAFRQRERRFLAEGPQAVREALDLPDV-VHELYATAEAMQRHTALIRTAEQ
+----AVHRVTLDVMGELAQTVTPQGLLAVCS----*
+>P1;gi|15618441|ref|NP_224726.1| rRNA Methylase [Chlamydophila pneum... [ score 69 E 2e-11 ] [ range 1 .. 99 ]
+sequence
+MDCIGKHNPLVKEALALKRSRCRKSS-WFLVEGAREIQKALRTGYL-CQHVFCSTHLSEKEKEFLYELKR
+----KILYCLDSTLAQLSFKEHHDSFVAVIQK---*
+>P1;gi|43351686|gb|EAD40702.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 3 .. 95 ]
+sequence
+------SNKKIKQIQSLKTKKGRKKEGLFLIEGARCISSFLEQSDD-LIEVFIAKS-FNSMTQSIIKKNI
+----SYSIISDKIMKAISDTKNPSGILGVSK----*
+>P1;gi|15828775|ref|NP_326135.1| TRNA/RRNA METHYLTRANSFERASE [Mycopl... [ score 67 E 7e-11 ] [ range 5 .. 89 ]
+sequence
+--ISSKENEKIKHLKKLQNKKYRQKFNEFLIEGDHLIDEALKNNFE-CQ-------IYSTKPNEKHD---
+------FLITKEVLKHVSLLVNSEQKIAKVKIKE-*
+>P1;gi|41688957|ref|ZP_00145493.1| hypothetical protein Psyc199401 [... [ score 67 E 9e-11 ] [ range 9 .. 109 ]
+sequence
+--ITSDKNTTVKLVKSLLTQRQRKKHGLTVIEGVHLIDAALRSDYP-FDQILVSESTKNPEVQQILTRLP
+----PILTLADALYESIRSLGTGIDIMAMIKVP--*
+>P1;gi|43210693|gb|EAC70887.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 4 .. 101 ]
+sequence
+----SKSNRRVRELRKLLRKSYRDTTKTFVIEGLNLLREAGTTGNM-PIDIFVAEGDRDAEIETLGFDHP
+----RIWELEAEALRSIGSTQNPQPVLATVPMIE-*
+>P1;gi|41725336|ref|ZP_00152094.1| hypothetical protein Daro026301 [... [ score 66 E 1e-10 ] [ range 4 .. 102 ]
+sequence
+--IQSRDNAFFKQLKRLAESRERRKTGQTLLDGVHLVEAYEKAFGP-LENLIVAESAAAGGEIAAYLEGR
+----QAVVLADALMRDLGLVDTPSGLLAVAPMPQR*
+>P1;gi|44170257|gb|EAH50514.1| unknown [environmental sequence] [ score 65 E 2e-10 ] [ range 5 .. 98 ]
+sequence
+---------QIKEIQSLKKAKFRKLKGLFFIEGIRLVLAGIKWSSS-LKEIFCTKEFYNSEKSLPLHTSI
+----QVKLLSEMEMKKICSTKSPSGIAATCMIPKQ*
+>P1;gi|23110206|ref|ZP_00096366.1| COG0566: rRNA methylases [Novosph... [ score 65 E 4e-10 ] [ range 6 .. 102 ]
+sequence
+--ITGYSNPTVKFVRSLREKKHRRRERKFLAEGLRLLTDAREGGRL-PEILLMAEGLLDELEQAVDAAGG
+----EVIELPLDILSKVTGKENPQAVAGV------*
+>P1;gi|44568052|gb|EAK16347.1| unknown [environmental sequence] [ score 64 E 9e-10 ] [ range 4 .. 95 ]
+sequence
+------QNKK-KQIQSLKTKKGRTKEGLFLVEGLRCINSFLEHDNN-IKELFIARSYTSIFKDIINEKNI
+----PHTTISDKIMKAISDTKTPSGLLGISK----*
+>P1;gi|15841100|ref|NP_336137.1| rRNA methylase, putative [Mycobacte... [ score 63 E 1e-09 ] [ range 7 .. 95 ]
+sequence
+--------ARVATAVKLHRHVGRRRAGRFLAEGPNLVAAALARGL--VREVFVTEVAARRHELLLAAHEA
+----SVHLVTERAAKALSDTVTPAGLVAVCDLP--*
+>P1;gi|43487197|gb|EAD98368.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 5 .. 98 ]
+sequence
+---------QVKEIQSLKRAKFRKLKGLFFIEGVRLVLAGIKWSSS-VKEIFCTKEFYHSEKSLPLHTSI
+----QVKLLSEMEMKKICSTKSPSGIAATCMIPKQ*
+>P1;gi|44603174|gb|EAK40951.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 9 .. 102 ]
+sequence
+--ITSLNNPELKFLISLRKNKIRKSEKKSLAEGFRENNLLVSSDYQ-IDTLYICEELFNYELIDSFNKKI
+----RIVTLSKKAFEAISYRDKPDGL---------*
+>P1;gi|44057077|gb|EAG89117.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 8 .. 94 ]
+sequence
+-----------KRIKSLYTKKGRLKNNNFIIEGKRSLLTAIDNGVN-IKNIVLSKDFIKKNKNLTPYNKY
+----KITDVDDRCFGQLSQVDSPSGILAEAAIP--*
+>P1;gi|43351468|gb|EAD40602.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 5 .. 98 ]
+sequence
+---------QVKEIQSLKKAKFRKLKGLFFIEGMRLVLAGIKWSSS-LKEIYCTKEFYLPLLTSIDKK--
+----QVILLSEMEMKKICSTKSPSGIAAICMIPKQ*
+>P1;gi|43388907|gb|EAD58779.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 4 .. 94 ]
+sequence
+----SSQSPRLKRLRRLSDRRFRDSQHQAVIEGPRAIRTAADIGAG-IQDIFYSADQLG-ILERFEESDV
+----SCFEVEKEVLDRIADSGSPQGILAVA-----*
+>P1;gi|21220094|ref|NP_625873.1| putative rRNA methylase [Streptomyc... [ score 63 E 1e-09 ] [ range 7 .. 104 ]
+sequence
+-ELISPRSPRVAAARRLGKRNFRGKERLFLAEGPQAVREAAGYGDM-LVELFATVEAAERYADIVGAAGA
+----RVHLAADAVIEDISTTVTPQGLVGVCR----*
+>P1;gi|44387229|gb|EAI91364.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 5 .. 102 ]
+sequence
+-EISSLTNPELKFLISLRKNKIRRLEKKSLAEGYRENIQLINSDYD-IDTLYICNELFNSELIEKFKNKV
+----RIVELTKKVFSALSYRDKPDGLISL------*
+>P1;gi|43294081|gb|EAD12860.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 5 .. 96 ]
+sequence
+---------QLKQVQSLKYAKYRKLYGKFFIEGSRLVKGALDWSST-VEGVYCTEAFYKDNDSSIFSNIE
+----KIKIVTERIFKSICSTQSPSGIAAVCTIP--*
+>P1;gi|44603165|gb|EAK40944.1| unknown [environmental sequence] [ score 62 E 2e-09 ] [ range 9 .. 102 ]
+sequence
+--ITSLNNPELKFLISLRKNKIRKSEKKSLAEGFRENNLLVSSDYQ-IDTLYICEELFVGEIDSFNKKNI
+----RIVTLSKKAFEAISYRDKPDGL---------*
+>P1;gi|23118344|ref|ZP_00101928.1| COG0566: rRNA methylases [Desulfi... [ score 62 E 2e-09 ] [ range 3 .. 59 ]
+sequence
+-MLTSLQNEQVKYVVNLHKRKFREENGEFLIEGWRFVEEGLARGAH-LTKVFFCSECKN-----------
+-----------------------------------*
+>P1;gi|44052328|gb|EAG86486.1| unknown [environmental sequence] [ score 62 E 2e-09 ] [ range 13 .. 117 ]
+sequence
+--ITSPSNARVRSTMKLRDATARRQTGLTLIDGQREIQRCLTAKKE-IVEIFFEADRLSSLPQEIFASLL
+----SLTSLSSRPFSKIAFGNRNEGLVAVAR----*
+>P1;gi|44552175|gb|EAK05139.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 3 .. 85 ]
+sequence
+------SNNQRKLILQLNKKKFRLANKLFVAEGKKVVNELINAGWS-YKMLFSTEDNFNKNADVIKDEEM
+--------------KKITHFNSPSPVLGVFELPD-*
+>P1;gi|41407453|ref|NP_960289.1| TsnR [Mycobacterium avium subsp. pa... [ score 62 E 4e-09 ] [ range 8 .. 95 ]
+sequence
+---------RVAAAAKLHRHVGRRRAARFLAEGSNLVEAAAGRGL--VRDVFVTEAAQQRYAPLLAALDC
+----PVHLVTERAAKALSDTVTPAGLVAVCDLP--*
+>P1;gi|21674700|ref|NP_662765.1| SpoU rRNA methylase family protein ... [ score 60 E 9e-09 ] [ range 17 .. 104 ]
+sequence
+-------------LARLGQKKHRDSEGLFLAEGLRTVSELLQSLSD-LHALVFDEKAAGQLDG--LERFA
+----GKAWLAGNEFKRLAQTTSPQGVVAAFRKPE-*
+>P1;gi|43395108|gb|EAD60822.1| unknown [environmental sequence] [ score 60 E 9e-09 ] [ range 4 .. 97 ]
+sequence
+------QNKK-KQIQSLKTKKGRTKEGLFLVEGVRCINSFLEHDNN-LKELFIARSSTSINKNIINEKNI
+----PHTTISDKIMKTISDTKTPSGLLGISKFP--*
+>P1;gi|15827732|ref|NP_301995.1| putative rRNA methyltransferase [My... [ score 60 E 1e-08 ] [ range 7 .. 95 ]
+sequence
+--------ARVVAAVKLHRQVARRRVRRFLAEGPNLVEAAIVSGL--VRDVFVTEVAAQRHATVLATLKC
+----PVHPVSERAAKALSDTVTPTGLIAVCEMP--*
+>P1;gi|43002141|gb|EAB67949.1| unknown [environmental sequence] [ score 60 E 2e-08 ] [ range 7 .. 96 ]
+sequence
+----------LKYISSLNLKKFRNENKKYLVEGKRLIIEGLKAGLI-TDIYYCPEKCSFNNFSKIKPYLN
+----SQIEIEEKIFNIFSDTVTSQGLIGIASI---*
+>P1;gi|41325610|emb|CAF21399.1| 23S RIBOSOMAL RNA METHYLTRANSFERASE ... [ score 59 E 2e-08 ] [ range 25 .. 113 ]
+sequence
+--------PRIVNAAKLHRAAQRKKDKRFLVEGENSVEAAVATGAA-TD-LFVTESAAERFEEIVTAGYM
+----NVYTITDKAAKHLSDTVTTTGIFALC-----*
+>P1;gi|44640739|gb|EAK67729.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 3 .. 85 ]
+sequence
+------SNNQRKLILQLNKKKFRLANKLFVAEGKKVVNELINAGWV-FKMLFSTEDNFHKKADIIKDEEM
+--------------KKITHFNSPSPVLGVFELPD-*
+>P1;gi|42869727|gb|EAB02113.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 6 .. 53 ]
+sequence
+--ITSAANAEVKFLRALHERKYRKKSGWFLAEGARICHEAVALGWN-MHRL-------------------
+-----------------------------------*
+>P1;gi|43233772|gb|EAC82483.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 4 .. 97 ]
+sequence
+------QN-KIKKIQSLKTKKGRTKEGLFLVEGVRCISSYLEHSNN-LKELFIARSFTSINKKIINKKNI
+----PHNIISDKVMKSISDTKNPPGVLGISELK--*
+>P1;gi|43524818|gb|EAE17100.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 8 .. 96 ]
+sequence
+-----------KLIRSIHQKKFRNKHEKFIVEGARSIDYALNNNGS-FSIILYTKGFSNK-FPNLIKKIQ
+----SLSLISEKELKKLSPSDSPSGIIGIANKIE-*
+>P1;gi|43966136|gb|EAG39638.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 1 .. 95 ]
+sequence
+-MISSRRNPLVQQVRALQQPRGRREQGLLLLEGTHLLQECRRLGLP-LERLIATTRWQEQHPTLLGPEPL
+----Q--PVSPEVLQAMASTDSPDGVIALLPHP--*
+>P1;gi|15079419|gb|AAH11550.1| Putative RNA methyltransferase [Homo ... [ score 58 E 6e-08 ] [ range 112 .. 193 ]
+sequence
+-----------------KSRPFREKQGKILLEGRRLISDALKAGAV-PKMFFFSRLEYLKELPVDKLKGV
+----SLIKVKFEDIKDWSDLVTPQGIMGIFAKPD-*
+>P1;gi|43758434|gb|EAF33659.1| unknown [environmental sequence] [ score 57 E 7e-08 ] [ range 3 .. 85 ]
+sequence
+------SNNQRKLILQLDKKKFRLANKLFVAEGKKVVNELINAGWS-FKMLFSTEDNFHKNADIIKDEEM
+--------------RKITHFNSPSPVLGVFELPD-*
+>P1;gi|43526142|gb|EAE17776.1| unknown [environmental sequence] [ score 57 E 7e-08 ] [ range 5 .. 98 ]
+sequence
+---------QLKQVQSLKYAKYRKLYGKFFIEGSRLVKGAHEEGVY-CTEAFYKDNHESSVFNDIEKDKI
+----KI--VTERMFKNICSTQSPSGIAAICTIPAK*
+>P1;gi|34304046|ref|NP_899086.1| RIKEN cDNA 4833420N02 [Mus musculus... [ score 57 E 8e-08 ] [ range 5 .. 86 ]
+sequence
+-----------------KSRPFREKQGKILLEGRRLIADALKAGAV-PKAFFFSRLEYVKELPVDKLKDV
+----SLIKVKFEDIKDWSDLVTPQGIMGIFAKPD-*
+>P1;gi|43850504|gb|EAF79489.1| unknown [environmental sequence] [ score 57 E 9e-08 ] [ range 8 .. 95 ]
+sequence
+-----------KTIKSLKSRKFRYTLERFTVEGLRLIKTILEKGAF-LESVFFTKAFETKNLEFIKQIDS
+----DIFDISEKEMKDLSNMTTPSGILAISKFP--*
+>P1;gi|38233754|ref|NP_939521.1| Putative rRNA methyltransferase [Co... [ score 57 E 1e-07 ] [ range 14 .. 102 ]
+sequence
+--------PRVVNAAKLLRSAGRKKVDRFLAEGENSVEAAVATGAA-TD-LFVTEKAAEREAIVTAAGHM
+----GVFPITDRAAKSLSDTMTTTGIFAVC-----*
+>P1;gi|43765837|gb|EAF37375.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 3 .. 94 ]
+sequence
+------SNILEKRIKSLYTKKGRLKNNSFIIEGKRSLLTAIHNSVI-IKDIVLSKDFIKKNKNLTPYNKY
+----KTSVVDDKCFGQLSQVDTPSGILAEATIP--*
+>P1;gi|42962459|gb|EAB48174.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 2 .. 80 ]
+sequence
+--------------------RNRKSSNKSISEGFRECYKLLDSNYE-IDTLFIGENNKDLLDECEQENIR
+-----IVKVSEKVFKAMSYRDRPDGFIAV------*
+>P1;gi|44622573|gb|EAK54894.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 4 .. 94 ]
+sequence
+-KISSKDNTTFKYIKKLLDKSFRKKEKKFIVEGTREIDLCYKSKFD-IEYIFISD----KKSQKFNYSNI
+----ETILITEDLIKKIIYRES-EGVFAIVK----*
+>P1;gi|44629364|gb|EAK59893.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 2 .. 98 ]
+sequence
+---------KLSDVKKLHQKKFRTQFGFYLVEGEHLVLEAQHDSST-LITLYVTADYEAWLKEKLDSSVM
+----KVETVSSQQMQQLSDTKSPQGIIARVPLP--*
+>P1;gi|43364080|gb|EAD46850.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 10 .. 104 ]
+sequence
+---TSTRSEHVARLRRLHERKGRLRSGSFLAEGPDCVMAALEAGLG-IEVVEVVGVEDHPLMDRVLDLGI
+----PFHAATQRVVAAIGDAATSRGIVAQCTLP--*
+>P1;gi|44145933|gb|EAH37714.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 4 .. 87 ]
+sequence
+--ISSRQNLKIKNFLALREKKERKNQNSFVLEGKVEIERALIGNYN-FKIIFICEGH-----ENIFNHFN
+----SQIKIEKNLFKKISYRN--------------*
+>P1;gi|25028075|ref|NP_738129.1| putative tRNA/rRNA methyltransferas... [ score 55 E 3e-07 ] [ range 24 .. 112 ]
+sequence
+--------PRIVNAAKLLKTAQRKKTHQFLAEGENSVEAAIATGAA-TD-LFVTEQAAEKFEEIVTAGYM
+----NVYTITDRAAKSLSDTVTTTGIFALC-----*
+>P1;gi|34396174|gb|AAP55640.1| rRNA methylase [Spiroplasma citri] [ score 54 E 7e-07 ] [ range 5 .. 94 ]
+sequence
+-EINSAQNEHIKLLAKLKEKKYRKEFNLALIEGWNIIDEALQHNLV-VE-ILTTKINQRKLKN--FNNIL
+----LTI-VSESILTKLSQSKNSQNIIGVI-----*
+>P1;gi|34497485|ref|NP_901700.1| probable tRNA methyltransferase [Ch... [ score 54 E 9e-07 ] [ range 8 .. 93 ]
+sequence
+--ISSPHNDEVKALARLVQSRDRRKEGVMVLEGIHLAESCLQAGGE-LSRIYLNEAAAKPEVRRLLDSLP
+----PVVSLPEAVMSKVT-----------------*
+>P1;gi|29833282|ref|NP_827916.1| putative rRNA methylase [Streptomyc... [ score 54 E 1e-06 ] [ range 29 .. 130 ]
+sequence
+-ELISPRSPRVSAARRLAKRNFRGKEQLFLAEGREAAAHRAADAAT-LVELFATAEAAERYADIIGEARD
+----AGARVDEAVIADISTTVTPQGLVGICR----*
+>P1;gi|44332515|gb|EAI52367.1| unknown [environmental sequence] [ score 52 E 3e-06 ] [ range 9 .. 105 ]
+sequence
+--IESLNNPEYKFLISLKKNRNRKSENKSIAEGYRENSNLIDSSLN-VDTLYICPELFVNENNEILIRKF
+----EIVQVPLKVFKEISYRDKPDRIISI------*
+>P1;gi|34872789|ref|XP_340846.1| similar to putative RNA methyltrans... [ score 52 E 3e-06 ] [ range 112 .. 187 ]
+sequence
+-----------------KSRPFREKQGKILLEGRRLIADALKAGAV-PKMFFFSRLEYIKELPVDKLKGV
+----SLIKVKFEDIKDWSDLVTPQGIMG-------*
+>P1;gi|43005202|gb|EAB69452.1| unknown [environmental sequence] [ score 52 E 3e-06 ] [ range 2 .. 78 ]
+sequence
+-------------------KKYRQAARCFLIEGEKNVLELINSDFV-LRHIVGSESFFSSHPDLEGHAK-
+-----AVKTTAKVISSISSFSTNDQVVAVAEIK--*
+>P1;gi|30248779|ref|NP_840849.1| tRNA/rRNA methyltransferase (SpoU) ... [ score 52 E 4e-06 ] [ range 4 .. 108 ]
+sequence
+--ITSREHPLFKKLFKLQHSRQRHDEGMTLLDGIHLLQSCLASGKT-PVLLIVSESGSQPEISQLIDKDP
+----QKTDCSDTLFNQISPVKTPVGILALIDIPQ-*
+>P1;gi|17945288|gb|AAL48701.1| RE14730p [Drosophila melanogaster] [ score 52 E 4e-06 ] [ range 108 .. 189 ]
+sequence
+-----------------RSRKRRDKNRQIIVEGRRLIQEALQCGLK-MEVLLFSQKDQLALVKEEVETGT
+----KIYKVPQHDLKTWSSLVTPPGLMAI------*
+>P1;gi|23136542|ref|ZP_00118261.1| COG0566: rRNA methylases [Cytopha... [ score 51 E 7e-06 ] [ range 7 .. 95 ]
+sequence
+----------VKFTKSLQNKKFRRLYNQFIIEGEKSVLEVLSSDFK-IQKLLVTSYFHAKYKELLAP-FS
+----GIIELAGDTLDSIGSLQSNDAAIAVCAVNE-*
+>P1;gi|15794273|ref|NP_284095.1| putative RNA methyltransferase [Nei... [ score 50 E 1e-05 ] [ range 4 .. 104 ]
+sequence
+--ISSTNNEHIRHLHRLLQGKFRRQYAQTVLEGVHLLQVFLQSGGM-PVGVYIPEAKMSEEVRKLTAVLP
+----EFFSVSDGILKKISSLTCADDVLALIDIPD-*
+>P1;gi|43484379|gb|EAD96935.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 5 .. 72 ]
+sequence
+--------SKIKLIKSLKYKKTRDELNLFLVEGLKGILEVNKSNYD-IHFTVISKKIYNQYKNFLPSNNI
+----FILEENE------------------------*
+>P1;gi|32475172|ref|NP_868166.1| spoU rRNA methylase family protein ... [ score 49 E 2e-05 ] [ range 10 .. 111 ]
+sequence
+--IRSLQNAAVRRIVSLRRSRKRRAAGVVLVDGPRESLRAIEAGLK-LTAFYEIEPKLSDMPEQAVARQH
+----AIRWVTSEVFRKIAYTASTDRCVA-------*
+>P1;gi|42982108|gb|EAB57981.1| unknown [environmental sequence] [ score 47 E 7e-05 ] [ range 2 .. 78 ]
+sequence
+----------------------RKTNNKSLSEGFRECYQLLESRYE-IDTLYFCSDLFQNLLEEHQKSNV
+----RIVEVSKKVFNAMSYRDRPDGFISL------*
+>P1;gi|34540534|ref|NP_905013.1| RNA methyltransferase, TrmH family ... [ score 47 E 8e-05 ] [ range 2 .. 91 ]
+sequence
+-----LSANQIKFLRSLRERKYRLREQAFAVEGPKLVGEMLPF-YR-CRMLVGTAAML---RAVSTPHDA
+----EVVELPESFFKRISTQTTPQPLMAVFDLP--*
+>P1;gi|44223868|gb|EAH79518.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 4 .. 90 ]
+sequence
+-----------KLIRSLQQKKYRKAEQLFFVEGEKSVLELLHSAWK-VRAVFGTEQFLQQHHALCAKADL
+-----VQQCTEHELVQVGTFSSNNAALAVAEIPD-*
+>P1;gi|44415625|gb|EAJ11069.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 8 .. 96 ]
+sequence
+-----------KKIKSLKQKKFREESQRLIVEGVRSIESIINDGAL-IESVVYTQEFQSKNSDFIFNNEL
+-----LNEITEKEMNQLSNSVTPPGVLVIAKYPQ-*
+>P1;gi|43409210|gb|EAD65461.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 5 .. 50 ]
+sequence
+--------SHIKQIKQLKYKKYREKTGLFVAEGKKIVLDLLKANLD-FIYVFTTK---------------
+-----------------------------------*
+>P1;gi|44264144|gb|EAI05778.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 4 .. 110 ]
+sequence
+--ITSRDNPLYKRLKALAGSSHQRRGGQALLEGFHLASAYLDTGAT-PELCVTTEGALHAEAQAIVARIQ
+----RIVTLPDALFGQLSNVVNGVGFLLLVPLPER*
+>P1;gi|43929439|gb|EAG19706.1| unknown [environmental sequence] [ score 45 E 4e-04 ] [ range 7 .. 82 ]
+sequence
+----------IKFIKSLRNKKFRINNNCFVVEGKKSVNEFLKSDYK-LVKLYVSKTIINIDKQEV-----
+--------IDKNLLEKISFLKNPDDYLAI------*
+>P1;gi|28897728|ref|NP_797333.1| RNA methyltransferase, TrmH family ... [ score 45 E 4e-04 ] [ range 1 .. 92 ]
+sequence
+-MISKNQ---LKLLRALGQKKQRKAHGLFLVQGEKNVLELASSSLV-VKQVFATADFLESHRQELS--GF
+----ECVEASLDDLTKASTLVSNNAAIAVVEIP--*
+>P1;gi|17546138|ref|NP_519540.1| PUTATIVE TRNA/RRNA METHYLTRANSFERAS... [ score 45 E 5e-04 ] [ range 4 .. 104 ]
+sequence
+--ITSRDNAVFKHLKALSGSQQRRRAGQSVLDGIHLVAAYLDAGVP-AQCLVSERHLAHPEVAPLLARPQ
+----GIVLLADSLFAQLTTVVNGIDLMALIETPE-*
+>P1;gi|37675829|ref|NP_936225.1| rRNA methylase [Vibrio vulnificus Y... [ score 45 E 5e-04 ] [ range 1 .. 92 ]
+sequence
+-MISKNQ---LKLLRALGQKKQRKALGLFLVQGEKNVLELANSTLK-VKQVFATA-----EFLQQHAVEL
+----AGYECIEASLDDLTKASTNNAAIAVVEIP--*

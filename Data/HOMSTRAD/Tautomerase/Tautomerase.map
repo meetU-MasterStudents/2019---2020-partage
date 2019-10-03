@@ -1,0 +1,285 @@
+>P1;1otfa
+structureX:1otf:   2 :A:  60 :A:4-oxalocrotonate tautomerase:Pseudomonas sp: 1.9: 20.2
+PIAQLYIIEGRTDEQKETLIRQVSEAMANSLDAPLERVRVLITEMPKNHFGIGGEPASK---*
+>P1;1bjpa
+structureX:1bjp:   1 :A:  62 :A:4-oxalocrotonate tautomerase:Pseudomonas putida: 2.4: 20.6
+PIAQIHILEGRSDEQKETLIREVSEAISRSLDAPLTSVRVIITEMAKGHFGIGGELASKVRR*
+>P1;gi|23002828|ref|ZP_00046501.1| COG1942: Uncharacterized protein,... [ score 85 E 3e-16 ] [ range 2 .. 56 ]
+sequence
+PFVHVELIKGRSDEQLTQMMKDITEAVHKNTGAPKEHIHVIINELDKHTYGQGGE-------*
+>P1;gi|41722521|ref|ZP_00149531.1| hypothetical protein Daro383401 [... [ score 80 E 2e-14 ] [ range 73 .. 130 ] [ duplicate b ]
+sequence
+PFIRMILMEGRTVEQLHRVIAELTAITARLMEVDAERIRVHIEHAHPDRWGIGGVPAS----*
+>P1;gi|10956975|ref|NP_049195.1| 4-oxalocrotonoate tautomerase [Novo... [ score 79 E 2e-14 ] [ range 2 .. 55 ]
+sequence
+PIIEVNLFEGRPPEAKERLIKALTDAAIDAIGAPRESVRVILREMAPAHFAVGG--------*
+>P1;gi|23102537|ref|ZP_00089042.1| COG1942: Uncharacterized protein,... [ score 73 E 2e-12 ] [ range 10 .. 63 ]
+sequence
+PIIEMHMLEGRTDEQKRRVAAAVTKAVSEALDCGAETVRILITEHREEEFYVAG--------*
+>P1;gi|15675116|ref|NP_269290.1| putative 4-oxalocrotonate tautomera... [ score 72 E 3e-12 ] [ range 2 .. 60 ]
+sequence
+PFVTIDLFEGRSQEQKNQLAREVTEVVSRIAKAPKENIHVFINDMPEGTYYPQGEMKQK---*
+>P1;gi|22537237|ref|NP_688088.1| 4-oxalocrotonate tautomerase [Strep... [ score 70 E 9e-12 ] [ range 2 .. 60 ]
+sequence
+PFVKIDLFEGRSQEQKNELAREVTEVVSRIAKAPKENIHVFINDMPEGTYYPQGELKKK---*
+>P1;gi|24379524|ref|NP_721479.1| putative 4-oxalocrotonate tautomera... [ score 69 E 4e-11 ] [ range 2 .. 60 ]
+sequence
+PFVKIDLFEGRSQEQKIQLAREVTEVVSRVAKAPKEAIHVFINDMPEGTYYPHGEMKKK---*
+>P1;gi|12054924|emb|CAC21188.1| putative 4-oxalocrotonate tautomeras... [ score 67 E 9e-11 ] [ range 2 .. 60 ]
+sequence
+PFVKIDLFEGRSEEQKIELAREVTEVVSRVAKAPKEAIHVFINDMPEGTYYPHGEMKKK---*
+>P1;gi|43669645|gb|EAE89830.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 2 .. 60 ]
+sequence
+PILEIHLMTGRTEEQKCNAAKAVTDALVSSLGVKRESVRILITEHGEHDFFVSGMTMKE---*
+>P1;gi|44497385|gb|EAJ67748.1| unknown [environmental sequence] [ score 61 E 8e-09 ] [ range 2 .. 60 ]
+sequence
+PIIRVEMFEGRTIDQKKELVKELTNSFVKTCGGTTEGLHIVIDEINTENWGVSGVLTSE---*
+>P1;gi|15672556|ref|NP_266730.1| 4-oxalocrotonate tautomerase [Lacto... [ score 61 E 9e-09 ] [ range 2 .. 60 ]
+sequence
+PYVHVELFEGRTVEQKAIIAKEITESISKHAGAPTSAIHVIFNDLPEGMLYQGGEMKKK---*
+>P1;gi|17545526|ref|NP_518928.1| PUTATIVE TAUTOMERASE (4-OXALOCROTON... [ score 59 E 3e-08 ] [ range 2 .. 60 ]
+sequence
+PTFHIEMFEGRSADQKRKLVEEVTRVTCETLGCAPGAVDIIIAEVKRENWATGGVLWSE---*
+>P1;gi|34557804|ref|NP_907619.1| PUTATIVE TAUTOMERASE [Wolinella suc... [ score 57 E 8e-08 ] [ range 2 .. 61 ]
+sequence
+PYVNIKITEGATPEQKERLIQGVTELLQKELGKNPATTVVVIEEVPTDNWGVGGESITK---*
+>P1;gi|44080479|gb|EAH02114.1| unknown [environmental sequence] [ score 57 E 8e-08 ] [ range 2 .. 60 ]
+sequence
+PTFHIELFEGRSLEQKRQFVEAITKATCESLGVEPNSVDIILTDVKRENWATGGRLWSE---*
+>P1;gi|43393219|gb|EAD60215.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 2 .. 54 ]
+sequence
+PVIRVEMFK-RTQEQKRNLARELTEVFIKTCGGNKESIKILITEVDENNWASGG--------*
+>P1;gi|33591748|ref|NP_879392.1| putative 4-oxalocrotonate tautomera... [ score 56 E 2e-07 ] [ range 2 .. 56 ]
+sequence
+PTVRVELSPGRSAEQKTRYMQEVTRLTVEILKCPVESVDVIFIEIPPTEWAHGGK-------*
+>P1;gi|44333274|gb|EAI52911.1| unknown [environmental sequence] >gi|... [ score 55 E 4e-07 ] [ range 2 .. 56 ]
+sequence
+PYVHVSLYPGRSEEQKQEFAKAVTDSAVEILKTKKEHVIVVFDENPKENWFLAGD-------*
+>P1;gi|32967113|gb|AAP92398.1| 4-oxalocrotonate isomerase [Pseudomon... [ score 55 E 5e-07 ] [ range 2 .. 60 ]
+sequence
+PIIEMHMVEGRTAEQKSRVAAAVTAAVCQSLECPAETVRILITEHRGDEFYVAGMNMAQ---*
+>P1;gi|43478711|gb|EAD94091.1| unknown [environmental sequence] [ score 55 E 6e-07 ] [ range 2 .. 54 ]
+sequence
+PVIRVEMFK-RTQEQKRDLVRELTDAFIKTCEGNKEAIKILITEVDENNWASGG--------*
+>P1;gi|1176508|sp|P45418|YKDK_ERWCH Hypothetical 8.1 kDa protein in ... [ score 55 E 6e-07 ] [ range 2 .. 61 ]
+sequence
+PFVNIRITKGVTAEQKKQLIAGVTQLLVDTLGKNPATTVVIIDEVETDNWGIGGESVTE---*
+>P1;gi|41723147|ref|ZP_00150090.1| hypothetical protein Daro308901 [... [ score 53 E 1e-06 ] [ range 2 .. 58 ]
+sequence
+PYVNIKITEGATPEQKARLIAGATQLLVDVLGKNPKTTVVVIDEVDTDNWGVGGES------*
+>P1;gi|42525022|ref|NP_970402.1| hypothetical protein Bd3685 [Bdello... [ score 53 E 1e-06 ] [ range 2 .. 60 ]
+sequence
+PYVNVQITKGATKEQKAQIIADITQSLVKVLGKKPEHTHIVIQEIADEDWGFEGLPTDE---*
+>P1;gi|42967710|gb|EAB50812.1| unknown [environmental sequence] >gi|... [ score 51 E 8e-06 ] [ range 2 .. 56 ]
+sequence
+PYIHVSLYPGRSEEQKQEYAKAITKSAVEILKTKEDHVIVVFDENPKENWFLAGK-------*
+>P1;gi|44479734|gb|EAJ56277.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 2 .. 60 ]
+sequence
+PYINVKVAGKLTQKQRKEIVSDITNTMLKVAGKPASSTYVQIDEVPRNQWGVGGKMLSE---*
+>P1;gi|44081937|gb|EAH02919.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 2 .. 60 ]
+sequence
+PYINVKVGGNLSDEQRKKICEEITKTMETVAGKPPSSTYVQIDEIPRNQWSVGGKMLSE---*
+>P1;gi|28871397|ref|NP_794016.1| 4-oxalocrotonate tautomerase family... [ score 49 E 3e-05 ] [ range 2 .. 59 ]
+sequence
+PLVTIKGIEGVSDEQKAEVIRKVTDAMVSVEGENMRALTVIFEEVKSGDWGIAGNP------*
+>P1;gi|45506739|ref|ZP_00159090.1| hypothetical protein Avar417901 [... [ score 48 E 4e-05 ] [ range 2 .. 55 ]
+sequence
+PFVTVKIARGHSIEKKRHLVEAITNALVTALDTKPEWITVHIDEFERENWAVNG--------*
+>P1;gi|16127205|ref|NP_421769.1| 4-oxalocrotonate tautomerase [Caulo... [ score 48 E 4e-05 ] [ range 2 .. 58 ]
+sequence
+PYVNIQVTEGVTREQKARLIDGVTTLLAEVLGKDPNTTFVVIEEVALENWGVGGLP------*
+>P1;gi|23138281|ref|ZP_00119950.1| COG1942: Uncharacterized protein,... [ score 48 E 5e-05 ] [ range 2 .. 57 ]
+sequence
+PYVNIKVTTGVTSEQKAALIKGVTDLLQQVLNKNPLTTVVVIDEVSTDNWGIGGE-------*
+>P1;gi|43640225|gb|EAE74821.1| unknown [environmental sequence] [ score 47 E 9e-05 ] [ range 56 .. 114 ]
+sequence
+PVVDVDLRPGREPERKKALVDGIADLLGETLGIKPEDIYVIFRETPAHNHYTGGQPLPE---*
+>P1;gi|10637969|emb|CAC11005.1| alpha-subunit of trans-3-chloroacryl... [ score 47 E 2e-04 ] [ range 2 .. 45 ]
+sequence
+PMISCDMRYGRTDEQKRALSAGLLRVISEATGEPRENIFFVIRE------------------*
+>P1;gi|23020202|ref|ZP_00059907.1| COG1942: Uncharacterized protein,... [ score 46 E 3e-04 ] [ range 2 .. 51 ]
+sequence
+PHVIVKLWPGRTEEQKQELANRIAKDVIETLNAPQTSVSVSIQEVPREKW------------*
+>P1;gi|15679601|ref|NP_276718.1| unknown [Methanothermobacter therma... [ score 45 E 3e-04 ] [ range 2 .. 51 ]
+sequence
+PVIQINCNE-LTREKKRELVKRITEVSSEIMGLPESTITVLIREFPPEMWG-----------*
+>P1;gi|23111940|ref|ZP_00097497.1| COG1942: Uncharacterized protein,... [ score 45 E 5e-04 ] [ range 2 .. 43 ]
+sequence
+-------------DQKRSLIHGISQAASQATGLPMASFTVVLDEHEYSNFGIGGE-------*
+>P1;gi|30021498|ref|NP_833129.1| 4-oxalocrotonate tautomerase [Bacil... [ score 45 E 6e-04 ] [ range 90 .. 144 ]
+sequence
+-IIKVDIWNTFDQETKDKWVNELTQVTSKYTHAPLDKVLILIREMIPGNWGQSGVT------*
+>P1;gi|43993170|gb|EAG54311.1| unknown [environmental sequence] [ score 44 E 7e-04 ] [ range 2 .. 53 ]
+sequence
+PYVNIRVTEGVTTEQKLQLIEGVTDLLSDVLGKDPATTFVIIDEVPTDNWG-----------*
+>P1;gi|4235478|gb|AAD13221.1| 4-oxalocrotonate tautomerase [Pseudomo... [ score 101 E 4e-21 ] [ range 2 .. 63 ]
+sequence
+PIAQLYILEGRSDEQKETLIREVSEAMSRSLDAPIERVRVIITEMPKNHFGIGGEPASKLNR*
+>P1;gi|32469922|ref|NP_863096.1| 4-oxalocrotonate tautomerase [Pseud... [ score 100 E 2e-20 ] [ range 2 .. 63 ]
+sequence
+PIAQLYILDGRSNEQKETLIREVSEAMSRSLDAPIERVRVIITEMPKNHFGIGGEPASKLNR*
+>P1;gi|41724689|ref|ZP_00151499.1| hypothetical protein Daro132801 [... [ score 100 E 2e-20 ] [ range 2 .. 63 ]
+sequence
+PFAQIYLIEGRTDEQKKLLIEKVSAAMSEALGAPLENTRVWIQDVPKAQWGIGGKTAKDLGR*
+>P1;gi|6707835|emb|CAB66148.1| 4-oxalocrotonate tautomerase [Pseudom... [ score 97 E 7e-20 ] [ range 2 .. 63 ]
+sequence
+PIAQLYILEGRSNEQKETLIREVSDAMSRSLDAPIERVRVIITEMPSNHFGIAGKSAKALGR*
+>P1;gi|4104773|gb|AAD02155.1| 4-oxalocrotonate isomerase [Pseudomona... [ score 97 E 1e-19 ] [ range 2 .. 63 ]
+sequence
+PIAQIHILEGRSDEQKETLIREVSEAISRSLDAPLTSVRVIITEMPKVHFGIGGESAKAIGR*
+>P1;gi|6624277|dbj|BAA88507.1| 4-oxalocrotonate isomerase [Comamonas... [ score 92 E 3e-18 ] [ range 2 .. 63 ]
+sequence
+PFAQIYMLEGRSEEQKKAVIEKVTRALVEAVGAPSANVRVWIHDVPKENWGIAGVSAKELGR*
+>P1;gi|14715457|dbj|BAB62059.1| 4-oxalocrotonate tautomerase [Pseudo... [ score 91 E 5e-18 ] [ range 2 .. 63 ]
+sequence
+PFAQIYMIEGRTEAQKKAVIEKVSQALVEATGAPMANVRVWIQEVPKENWGIAGVSAKELGR*
+>P1;gi|16801770|ref|NP_472038.1| similar to 4-oxalocrotonate isomera... [ score 91 E 6e-18 ] [ range 2 .. 61 ]
+sequence
+PFVTIQFLEGRSDDQKKALVSEVTDVVSKNLKAPKENIHVILEEMKKTDYGVGGVRKSDI--*
+>P1;gi|16804602|ref|NP_466087.1| similar to 4-oxalocrotonate isomera... [ score 90 E 1e-17 ] [ range 2 .. 61 ]
+sequence
+PFVTIQFLEGRTDDQKKALVSEVTEVVSKNLKAPKENIHVILEEMKKTDYGVGGVRKSDI--*
+>P1;gi|15900888|ref|NP_345492.1| 4-oxalocrotonate tautomerase [Strep... [ score 89 E 2e-17 ] [ range 2 .. 60 ]
+sequence
+PFVRIDLFEGRTLEQKKALAKEVTEAVVRNTGAPQSAVHVIINDMPEGTYFPQGEMRTK---*
+>P1;gi|23106466|ref|ZP_00092920.1| COG1942: Uncharacterized protein,... [ score 88 E 4e-17 ] [ range 2 .. 63 ]
+sequence
+PIMQVYLIEGRSEEQKARLIDALTRATVDALDAPIESVRVVITEVPSGNFGIAGQTAKQRGR*
+>P1;gi|28378399|ref|NP_785291.1| 4-oxalocrotonate tautomerase [Lacto... [ score 87 E 8e-17 ] [ range 2 .. 60 ]
+sequence
+PIVHIDLIAGRSQEQLKNLVKDVTDAVSKNTGAPAEHIHVILSEMQKNRYSVGGVLKSD---*
+>P1;gi|15924353|ref|NP_371887.1| 4-oxalocrotonate tautomerase [Staph... [ score 87 E 1e-16 ] [ range 3 .. 61 ]
+sequence
+PIVNVKLLEGRSDEQLKNLVSEVTDAVEKTTGANRQAIHVVIEEMKPNHYGVAGVRKSD---*
+>P1;gi|23106457|ref|ZP_00092911.1| COG1942: Uncharacterized protein,... [ score 87 E 2e-16 ] [ range 9 .. 70 ]
+sequence
+PIMQIHLIEGRSEEQKARLIEGLTRAAVDALDAPVESIRVIISEVPNTDFGIAGQTAKQRGR*
+>P1;gi|22992010|ref|ZP_00036683.1| COG1942: Uncharacterized protein,... [ score 86 E 2e-16 ] [ range 2 .. 59 ]
+sequence
+PFVHVELVEGRSPEQLENMMKDITEAVHKNTQAPKEHIHVIINEMKKGTYGVNGEWKK----*
+>P1;gi|22977440|ref|ZP_00023243.1| COG1942: Uncharacterized protein,... [ score 85 E 3e-16 ] [ range 2 .. 63 ]
+sequence
+PIAQLYIIEGRDAEKKERLIAEVTEAIHRAIDAPVESIRVLITEMPKEHFGIAGQSARKRGR*
+>P1;gi|27467963|ref|NP_764600.1| 4-oxalocrotonate tautomerase [Staph... [ score 85 E 4e-16 ] [ range 5 .. 63 ]
+sequence
+PIINVKLLEGRSDEQLKDLVTEVTHAVEKTTGANKEAIHVVIEEMRKDHYAVGGVRKSD---*
+>P1;gi|29377327|ref|NP_816481.1| 4-oxalocrotonate tautomerase, putat... [ score 84 E 7e-16 ] [ range 2 .. 59 ]
+sequence
+PFVHVELIEGRTEEQLTNMVKDITEAVSKNAGAPKENIHVIVNELKKDRYAQGGEWKK----*
+>P1;gi|30023408|ref|NP_835039.1| 4-oxalocrotonate tautomerase [Bacil... [ score 83 E 2e-15 ] [ range 4 .. 62 ]
+sequence
+PYVTVKMLEGRTEEQKKALAEKVTAAVSETTGAPEENIVVFIEEMSKNHYAVGGKRLSD---*
+>P1;gi|23024637|ref|ZP_00063840.1| COG1942: Uncharacterized protein,... [ score 82 E 4e-15 ] [ range 2 .. 60 ]
+sequence
+PIVQVELLEGRTHEQLAKMVKDITNVIVEDAGASREAVHVILREMPKDHYAVGGVLKSD---*
+>P1;gi|44241892|gb|EAH89809.1| unknown [environmental sequence] [ score 80 E 9e-15 ] [ range 67 .. 128 ] [ duplicate a ]
+sequence
+PVIVAILIAGRTDEQKRALIAALSETSASVLDAPLQATRVIIKDIPNTDFGIGGQTARALGR*
+>P1;gi|44241892|gb|EAH89809.1| unknown [environmental sequence] [ score 80 E 9e-15 ] [ range 2 .. 60 ] [ duplicate b ]
+sequence
+PTLEVFLPAGHDDARKAELIARLTGATVDSIGAPTESVRVLLTELPATHIGLGGRSAAD---*
+>P1;gi|17549114|ref|NP_522454.1| PROBABLE 4-OXALOCROTONATE ISOMERASE... [ score 78 E 5e-14 ] [ range 2 .. 60 ]
+sequence
+PLIQVTLIEGRTMEAKAALIGSLTQAAVATLGAPRESVRVIIQEVPAAHWGVAGVPKSA---*
+>P1;gi|15616376|ref|NP_244681.1| 4-oxalocrotonate tautomerase [Bacil... [ score 78 E 5e-14 ] [ range 2 .. 60 ]
+sequence
+PIVTVKFLEGRSDEQKRALVERVTEAVAETIQANPEKIHVVLEEMRKDHYGVAGKRISD---*
+>P1;gi|43961931|gb|EAG37324.1| unknown [environmental sequence] [ score 77 E 7e-14 ] [ range 2 .. 60 ]
+sequence
+PIIRVDMLKGRSKEQKRELVKELTSAFNKACGSNHVGIDVILTEIEKENWSIGGTLFSD---*
+>P1;gi|4091976|gb|AAD03836.1| 4-oxalocrotonate isomerase [Sphingomon... [ score 77 E 8e-14 ] [ range 2 .. 58 ]
+sequence
+PIIEVNLLEGRPPEAKERLIRALTDAAIGAIGAPRESVRVILREMDPAHFAVGGVSF-----*
+>P1;gi|41722521|ref|ZP_00149531.1| hypothetical protein Daro383401 [... [ score 76 E 2e-13 ] [ range 2 .. 61 ] [ duplicate a ]
+sequence
+PVANLHVLTGHPRENLKSWIRETSHALSEILAAPMDRLEVWVTEIDPELWGICGDPASEV--*
+>P1;gi|16080806|ref|NP_391634.1| similar to 4-oxalocrotonate tautome... [ score 76 E 2e-13 ] [ range 2 .. 61 ]
+sequence
+PYVTVKMLEGRTDEQKRNLVEKVTEAVKETTGASEEKIVVFIEEMRKDHYAVAGKRLSDM--*
+>P1;gi|45530836|ref|ZP_00181942.1| hypothetical protein Exigu277901 ... [ score 69 E 3e-11 ] [ range 1 .. 53 ]
+sequence
+------MLAGRTVEQKRALIEKVTAAVSESVDAPKENITVFIEEMEKTDYGQAGVMFAD---*
+>P1;gi|44224038|gb|EAH79613.1| unknown [environmental sequence] [ score 64 E 8e-10 ] [ range 2 .. 59 ]
+sequence
+PVIRVEMFK-RTQEQKKDLVRELTDAFIRTCGGNKEAIKILITEVDENNWASGGIINSD---*
+>P1;gi|44437445|gb|EAJ26475.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 2 .. 59 ]
+sequence
+PVIRVEMFK-RTQEQKRDLAKELTDAFVRTCGGNKEAIKILITEVDEKNWASGGVITSD---*
+>P1;gi|22978060|ref|ZP_00023830.1| COG1942: Uncharacterized protein,... [ score 63 E 1e-09 ] [ range 2 .. 57 ]
+sequence
+PTFHVEMFEGRTVEQKRKFVEEVTRVTCETLGCSSGAVDIIITDVKRENWATGGEL------*
+>P1;gi|23038457|ref|ZP_00070606.1| COG1942: Uncharacterized protein,... [ score 63 E 2e-09 ] [ range 2 .. 61 ]
+sequence
+PEIQIDMLKGRSHEQIKQIVKDITAVMVKDTKAKPEAVHIVVREFEANHYALGGVLKSDM--*
+>P1;gi|44062341|gb|EAG92037.1| unknown [environmental sequence] [ score 58 E 4e-08 ] [ range 2 .. 60 ]
+sequence
+PVLRLELQPGRTPEQKRDFAREATRVAVETLKCKPESVDVVIVEIPKTHWAKGGVLPTE---*
+>P1;gi|22127710|ref|NP_671133.1| hypothetical [Yersinia pestis KIM] ... [ score 57 E 1e-07 ] [ range 47 .. 109 ]
+sequence
+PYVNIKITEGATAEQKKQLIAGVTQLLVDTLGKNPATTVVVIDEVETDNWGIGGRSVTDLRQ*
+>P1;gi|23471798|ref|ZP_00127127.1| COG1942: Uncharacterized protein,... [ score 57 E 1e-07 ] [ range 2 .. 60 ]
+sequence
+PVVRVSWFEGKEHAQKAAVAAEITESIVKNTGTPAEYIYVIFEDVAPSDWAGAGKLFGE---*
+>P1;gi|45519582|ref|ZP_00171133.1| hypothetical protein Raeut243001 ... [ score 56 E 2e-07 ] [ range 1 .. 50 ]
+sequence
+------MFEGRTIEQKRTFVDAVTRVTCETLGCEPAAVDIIITDVKRENWATGGEL------*
+>P1;gi|15611925|ref|NP_223576.1| putative [Helicobacter pylori J99] ... [ score 56 E 3e-07 ] [ range 2 .. 66 ]
+sequence
+PFINIKLVPGPTNEQKQQLIEGVSDLMVKVLNKNKASIVVIIDEVDSNNYGLGGESIHHLRQ*
+>P1;gi|42781225|ref|NP_978472.1| 4-oxalocrotonate tautomerase family... [ score 55 E 3e-07 ] [ range 2 .. 61 ]
+sequence
+PIIQIQIIEGRKQEQIQNLIFDVTEVVAKNLDVDVRRVRVLVNEIPSSHWGVGGRSKESL--*
+>P1;gi|33593080|ref|NP_880724.1| putative tautomerase [Bordetella pe... [ score 55 E 3e-07 ] [ range 64 .. 124 ] [ duplicate a ]
+sequence
+--VTVDMIAGRTDEQKEALIGALNRAVCDSIGIDGTDVRVMIHDVSKANMGVAGISARAAGR*
+>P1;gi|33593080|ref|NP_880724.1| putative tautomerase [Bordetella pe... [ score 55 E 3e-07 ] [ range 2 .. 61 ] [ duplicate b ]
+sequence
+PLLNVQIMQGHQPAQKSALLAAACQAVVDSIGAPLASVRVVLEEVPAAHVIVAGELGRQM--*
+>P1;gi|32477017|ref|NP_870011.1| probable 4-oxalocrotonate tautomera... [ score 55 E 6e-07 ] [ range 2 .. 63 ]
+sequence
+PYINVQITKGATREHKSRLVRRMTDALVEELGKKPEYIHIVIQEVDDEDWGYAGMLTDEWKR*
+>P1;gi|37524324|ref|NP_927668.1| hypothetical protein [Photorhabdus ... [ score 52 E 3e-06 ] [ range 2 .. 63 ]
+sequence
+PFVNIRITEGATAEQKKQLIEGATQLLADVLGKNPATTFVIIDEVDTDNWGIGGKNVTELR-*
+>P1;gi|39996650|ref|NP_952601.1| 4-oxalocrotonate tautomerase family... [ score 52 E 4e-06 ] [ range 2 .. 64 ]
+sequence
+PYVNIKITEGATAEQKAALIRGATQLLVDVLGKNPATTVVVIDEVDTDNWGIGGESVTVRRR*
+>P1;gi|23104879|ref|ZP_00091339.1| COG1942: Uncharacterized protein,... [ score 52 E 5e-06 ] [ range 2 .. 64 ]
+sequence
+PYVNIKITEGATAEQKRRLIEGATRLLVEVLGKNPATTVVVIDEVDTDNWGIGGIPVTERRR*
+>P1;gi|27382567|ref|NP_774096.1| bsl7456 [Bradyrhizobium japonicum] ... [ score 52 E 5e-06 ] [ range 23 .. 79 ]
+sequence
+PEITVSMAEGRTDEQKAGMMRDITQALVKNLGVDADAVVIQINEAPLRHKMKGGKTF-----*
+>P1;gi|22972048|ref|ZP_00018952.1| hypothetical protein [Chloroflexu... [ score 50 E 2e-05 ] [ range 5 .. 63 ]
+sequence
+---RITMLEGRSTEQKAELARALSAAAAAAFDVPLAEVRLIIQEVPPTHWTVGGISMAELRQ*
+>P1;gi|15677328|ref|NP_274483.1| 4-oxalocrotonate tautomerase, putat... [ score 49 E 2e-05 ] [ range 2 .. 66 ]
+sequence
+PYVNIKVTGGKTAAQKAELIGGVTELLARVLGKNPETTVVVIDEVDTDNWGIGGKSVSERRK*
+>P1;gi|17232060|ref|NP_488608.1| hypothetical protein [Nostoc sp. PC... [ score 49 E 3e-05 ] [ range 63 .. 122 ]
+sequence
+-IIEIIMFEGRSVETKKQLLRDIFKKVDEKFGISVYDIEITLFEIPKQNWGIRGIPGDELN-*
+>P1;gi|26989227|ref|NP_744652.1| 4-oxalocrotonate tautomerase [Pseud... [ score 47 E 1e-04 ] [ range 2 .. 63 ]
+sequence
+PFVSVRITDGVTRDQKAQVIKEITETLQRVLGKKPELTHIVIEEVDTDNWGYAGMTTTEYR-*
+>P1;gi|15792579|ref|NP_282402.1| putative isomerase [Campylobacter j... [ score 47 E 1e-04 ] [ range 2 .. 66 ]
+sequence
+PFVNIRITKENTTEQKQELIAGVTDLLAKVLNKNKSSTVVIIDEIDTDNYGLGGKSITQARK*
+>P1;gi|44449742|gb|EAJ34980.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 2 .. 60 ]
+sequence
+PEVIVFAATGRTTEQKRGLVKDITDAVARNFGVPADTVVIQIVESPSDSKAKGGILFSD---*
+>P1;gi|23061583|ref|ZP_00086418.1| COG1942: Uncharacterized protein,... [ score 47 E 2e-04 ] [ range 2 .. 64 ]
+sequence
+PFVSVRITDGVTREQKAQVIAEITETLERVLNKRPDLTHIVIEEVDTDNWGYAGITTTEYRR*
+>P1;gi|39934252|ref|NP_946528.1| 4-oxalocrotonate tautomerase [Rhodo... [ score 46 E 2e-04 ] [ range 2 .. 58 ]
+sequence
+PEITVNMAAGRTDEQKAGMMRDITQALVTHLGVAAEDVVIQINEAPLTNKMKGGKTF-----*
+>P1;gi|45519585|ref|ZP_00171136.1| hypothetical protein Raeut243301 ... [ score 46 E 2e-04 ] [ range 2 .. 64 ]
+sequence
+PYVNIRITEGTTAAQKAQLIRGATQLLADVLGKDPRSTVVVIDEVDPDNWGFAGETTTERRK*
+>P1;gi|30248936|ref|NP_841006.1| putative isomerase [Nitrosomonas eu... [ score 45 E 6e-04 ] [ range 2 .. 57 ]
+sequence
+PYVNIRLAGTLTREQKQQIATEITDTLERIAHKPKSYTYIAFDELPHESWAIGGKL------*
+>P1;gi|19551312|ref|NP_599314.1| 4-oxalocrotonate tautomerase-like p... [ score 44 E 9e-04 ] [ range 14 .. 61 ]
+sequence
+-----------SREAKQRIAEAITDAHHELAHAPKYLVQVIFNEVEPDSYFIAAQSASE---*

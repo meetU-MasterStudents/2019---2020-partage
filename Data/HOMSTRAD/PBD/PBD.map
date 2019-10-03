@@ -1,0 +1,260 @@
+>P1;1f3ma
+structureX:1f3m:  78 :A: 147 :A:serine-threonine-protein kinase PAK 1:Homo sapiens: 2.30: 23.7
+PSDFEHTIHVGFDAVTGEFT--GMPEQWARLLQTSNITKSEQKK--NPQAVLDVLEFY--NSKKTS---N
+SQKYMSFTD*
+>P1;1ej5a
+structureX:1ej5:   1 :A:  70 :A:autoinhibited conformation of WASP:Homo sapiens: -1: -1
+-SGFKHVSHVGWDPQNG-FDVNNLDPDLRSLFSRAGISEAQLTDAETSKLIYDFIEDQGGLEAVRQEMRR
+QG-------*
+>P1;gi|41152203|ref|NP_958485.1| p21/Cdc42/Rac1-activated kinase 1 [... [ score 142 E 3e-33 ] [ range 77 .. 146 ]
+sequence
+PSDFEHTIHVGFDAVTGEFT--GMPEQWARLLQTSNITKLEQKK--NPQAVLDVLKFY--DSKETS---N
+NQKYMSFTD*
+>P1;gi|26984581|emb|CAD59176.1| SI:dZ198M22.1 (novel protein similar... [ score 129 E 1e-29 ] [ range 78 .. 146 ]
+sequence
+PSDFEHTIHVGFDSVTGEFT--GMPEQWARLLQTSNITKSEQKK--NPQAVLDVLKFY--DSTGNS---R
+-QKYLSFTD*
+>P1;gi|5679324|gb|AAD46921.1| p21 GTPase-associated kinase 1 [Xenopu... [ score 129 E 2e-29 ] [ range 69 .. 138 ]
+sequence
+PFGYEHIYHVGIDPATGEFT--GMPNQWARLLKHANISKIDQKK--NPQAVLDVLNFY--SSETTS---K
+SQKYMSFTD*
+>P1;gi|6822245|emb|CAB70978.1| p21 activated kinase 2 [Xenopus laevis] [ score 127 E 5e-29 ] [ range 69 .. 136 ]
+sequence
+PSDFEHTIHVGFDAVTGEFT--GMPEQWARLLQTSNITKLEQKK--NPQAVLDVLKFY--DSKHT----D
+KQKYLSFS-*
+>P1;gi|24266661|gb|AAN52281.1| Pak3 serine/threonine protein kinase;... [ score 126 E 1e-28 ] [ range 73 .. 156 ]
+sequence
+PSDFEHTIHVGFDAVTGEFT--GIPEQWARLLQTSNITKLEQKK--NPQAVLDVLKFY--DSKETV---N
+NQKYMSFT-*
+>P1;gi|28493842|ref|XP_148586.2| p21-activated kinase 2 [Mus musculu... [ score 126 E 1e-28 ] [ range 77 .. 143 ]
+sequence
+PSDFEHTIHVGFDAVTGEFT--GMPEQWARLLQTSNITKLEQKK--NPQAVLDVLKFY--DSNTV-----
+KQKYLSFT-*
+>P1;gi|37748704|gb|AAH59992.1| MGC68680 protein [Xenopus laevis] [ score 124 E 6e-28 ] [ range 72 .. 141 ]
+sequence
+PFGCEHIHHVGIDPATGEFT--GMPHQWASLLKNAKISKIDQKK--NPQVVLDVLNFY--SSETTS---K
+SQKYMSFTD*
+>P1;gi|2660696|gb|AAB88118.1| p21-activated kinase [Xenopus laevis] [ score 122 E 3e-27 ] [ range 69 .. 138 ]
+sequence
+PFGYEHIYHVGIDPATGEFT--GMPNQWARSLKHANISKIDQKK--NPQAVLELLNFY--SSETTS---K
+SQKYMSFTD*
+>P1;gi|31205899|ref|XP_311901.1| ENSANGP00000000236 [Anopheles gambi... [ score 119 E 2e-26 ] [ range 88 .. 155 ]
+sequence
+PTNFEHTVHVGFDAVTGEFT--GMPEQWALMLKNSNISKQEQKK--NPQAVLDVLNFF--NSNKQR---P
+SSKYMT---*
+>P1;gi|17864254|ref|NP_524681.1| PAK-kinase CG10295-PB [Drosophila m... [ score 117 E 7e-26 ] [ range 86 .. 153 ]
+sequence
+PTNFEHTVHVGFDAVTGEFT--GMPEAWARLLMNSNISKQEQKK--NPQAVLDVLKWF--NTTKQR---P
+SSKYMT---*
+>P1;gi|28894836|gb|AAO61438.1| P21-activated kinase family protein 1... [ score 116 E 1e-25 ] [ range 24 .. 90 ]
+sequence
+PSNFEHTIHVGYDPKTGEFT--GMPEAWARLLTDSQISKQEQQQ--NPQAVLDALKYY---TQGES---S
+GQKWLQY--*
+>P1;gi|40740934|gb|EAA60124.1| hypothetical protein AN8836.2 [Asperg... [ score 115 E 2e-25 ] [ range 177 .. 243 ]
+sequence
+PTNFSHRVHVGFDPRTGAFV--GLPPEWEKLLTASAITKEDYKK--NPQAVIEVLEFY--SDIKEQ---N
+PQYY-----*
+>P1;gi|32332123|gb|AAL15449.2| protein kinase CHM1 [Magnaporthe gris... [ score 115 E 3e-25 ] [ range 189 .. 259 ]
+sequence
+PTNFSHAVHVGFDPQTGEFV--GLPPEWSKLLNSSAITKEDYER--NPQAVFEVLDFY--SDLTKR---N
+DNQYSSLT-*
+>P1;gi|25573205|gb|AAN75173.1| STE20 [Cryptococcus neoformans var. g... [ score 112 E 2e-24 ] [ range 171 .. 240 ]
+sequence
+PTNFVHQVHVGFDPKSGGFT--GLPPQWSKLLTSSAITKEEAAR--NPEAVLDVLQFY--TQQQAG---N
+VEGYQQFP-*
+>P1;gi|12060951|gb|AAG48306.1| STE20 [Cryptococcus neoformans var. g... [ score 112 E 2e-24 ] [ range 172 .. 233 ]
+sequence
+PTNFVHQVHVGFDPKSGGFT--GLPAQWSKLLTSSAITKEEAAK--NPEAVLDVLQFY--TQQHAS---D
+G--------*
+>P1;gi|12744913|gb|AAK06844.1| protein kinase STE20p [Pneumocystis c... [ score 112 E 2e-24 ] [ range 157 .. 221 ]
+sequence
+PTNFTHKVHVGFDPKSGGFT--GLPEEWTRLLTASAITKEDYAK--NPEAVIEVLQFY--SDTQLR---E
+KEEF-----*
+>P1;gi|42553574|gb|EAA76417.1| hypothetical protein FG06957.1 [Gibbe... [ score 112 E 2e-24 ] [ range 137 .. 207 ]
+sequence
+PTNFSHAVHVGFDPKTGEFV--GLPPEWSKLLNSSAITKEDYER--NPQAVFEVLDFY--TDKRAE---N
+PNQYPSLT-*
+>P1;gi|25777809|gb|AAN75615.1| STE20 [Cryptococcus neoformans var. n... [ score 112 E 2e-24 ] [ range 172 .. 235 ]
+sequence
+PTNFVHQVHVGFDPKSGGFT--GLPTQWSKLLTSSAITKEEAAK--NPEAVLDVLQFY--TQQHVS---D
+GRE------*
+>P1;gi|7677056|gb|AAF67008.1| P21-activated kinase 3 [Homo sapiens] [ score 111 E 4e-24 ] [ range 74 .. 141 ]
+sequence
+-SDFEHTIHVGFDAVTGESL--GIPEQWARLLQTSNIPKLEPEE--EPQACSRCLKFY--DSKEPV---T
+NQKYMSFT-*
+>P1;gi|32403758|ref|XP_322492.1| hypothetical protein [Neurospora cr... [ score 110 E 8e-24 ] [ range 203 .. 265 ]
+sequence
+PTNFSHAVHVGFDPQTGEFV--GLPPEWSKLLNSSAITQEDYER--NPQAVFEVLDFY--SDFNKN---G
+GQ-------*
+>P1;gi|45185243|ref|NP_982960.1| ABR014Wp [Eremothecium gossypii] >g... [ score 110 E 1e-23 ] [ range 383 .. 453 ]
+sequence
+PYNATHVHHVGVDSRTGEYT--GLPEEWERLLASSGISKKEQQQ--HPQAVMDIVKFY--QDVTGT---S
+GEDFKTFN-*
+>P1;gi|32405200|ref|XP_323213.1| hypothetical protein [Neurospora cr... [ score 107 E 6e-23 ] [ range 337 .. 408 ]
+sequence
+PENPVHVTHVGYDSNTGQFT--GLPKEWQRLISESGITEKDRRE--HPQILVDVLTFY--TTEKPQ---E
+DQQLEKFHD*
+>P1;gi|40745743|gb|EAA64899.1| hypothetical protein AN2067.2 [Asperg... [ score 107 E 7e-23 ] [ range 242 .. 309 ]
+sequence
+PENPVHVTHVGYDNQTGQFT--GLPKEWQRLLQESGITQKEQEE--HPQTMVDIMRFY--EKNARG---D
+DEVWHKF--*
+>P1;gi|172586|gb|AAA35038.1| serine/threonine protein kinase [ score 107 E 8e-23 ] [ range 340 .. 405 ]
+sequence
+PYNAKHIHHVGVDSKTGEYT--GLPEEWEKLLTSSGISKREQQQ--NMQAVMDIVKFY--QDVTET---N
+GEDKM----*
+>P1;gi|33089285|gb|AAP93639.1| PAK kinase [Magnaporthe grisea] [ score 105 E 2e-22 ] [ range 309 .. 380 ]
+sequence
+PENPVHVTHVGYDSATGQFT--GLPKEWQRLISESGITEKERRE--NPETLVNVIKFY--TTEKPA---E
+DQVLEKFHD*
+>P1;gi|22531808|gb|AAM97788.1| serine/threonine kinase [Ustilago may... [ score 105 E 2e-22 ] [ range 240 .. 301 ]
+sequence
+PYDPVHLTHVGFNSDTGEFT--GLPKEWQQLLQESGISRQDQEA--NPQAVIDIVAFY--QDATQS---Q
+G--------*
+>P1;gi|9653232|gb|AAF81109.2| protein kinase [Yarrowia lipolytica] [ score 105 E 2e-22 ] [ range 167 .. 224 ]
+sequence
+PTNFTHKVHVGFDPISGGFT--GLPDAWSKLLSTSAITKEDYAK--NPQAVIEVLEFY--SKEN------
+---------*
+>P1;gi|1129169|emb|CAA49163.1| protein kinase 75490 D [Saccharomyces... [ score 105 E 3e-22 ] [ range 126 .. 192 ]
+sequence
+PTNFTHKVHVGFDPKVGNFV--GVPDSWAKLLQTSEITYDDWNR--NSKAVIKALQFY-----EDY---N
+GLDTMQFND*
+>P1;gi|3334151|sp|O14427|CLA4_CANAL Serine/threonine-protein kinase ... [ score 101 E 5e-21 ] [ range 234 .. 295 ]
+sequence
+PINFTHKVHVGFDPASGNFT--GLPDTWKSLLQHSKITNEDWKK--DPVAVIEVLEFY--SDINGG---N
+S--------*
+>P1;gi|19113776|ref|NP_592864.1| serine/threonine-protein kinase shk... [ score 100 E 9e-21 ] [ range 132 .. 199 ]
+sequence
+PMNPKHQVHVGIDN-EGNYV--GLPKEWILLLQSSSITKQECME--EPKAVIQALDFY--SKQLDT---T
+SETKDSFS-*
+>P1;gi|1098357|prf||2115409A shk1 gene [ score 100 E 9e-21 ] [ range 32 .. 90 ]
+sequence
+PFDPKHVTHVGFNYDTGEFT--GMPTEWQALLKVSGITKSEQVQ--HPQAVLDAMAFY--SQSKK-----
+---------*
+>P1;gi|24647440|ref|NP_732141.1| CG14895-PB [Drosophila melanogaster... [ score 99 E 2e-20 ] [ range 23 .. 90 ]
+sequence
+PTNFQRHFHVSRNQETGDLE--GLPAPWVRLMN-SQITRDEQDK--NPDAAYHAVKYY--NSIKKK---E
+NEVFKPF--*
+>P1;gi|45190402|ref|NP_984656.1| AEL205Wp [Eremothecium gossypii] >g... [ score 96 E 2e-19 ] [ range 176 .. 230 ]
+sequence
+PTNFTHKVHVGFDPETGSFV--GMPFNWEKLLKHSRITGEDWNN--NSAAVIQVLQFY--Q---------
+---------*
+>P1;gi|31241695|ref|XP_321278.1| ENSANGP00000008440 [Anopheles gambi... [ score 94 E 9e-19 ] [ range 32 .. 100 ]
+sequence
+PTNVVHGMHVSKNQLTGHLE--GLPKPWIRMMD-AMITHDEQSK--NPEAAYQAVKFY--SYKKKD---A
+SEPFKPF--*
+>P1;gi|2499642|sp|Q92212|ST20_CANAL Serine/threonine-protein kinase ... [ score 92 E 2e-18 ] [ range 478 .. 546 ]
+sequence
+PFNAKHLAHVGID-DNGSYT--GLPIEWERLLSASGITKKEQQQ--HPQAVMDIVAFY--QDTSEN---D
+DAAFKKFH-*
+>P1;gi|28564211|gb|AAO32484.1| CLA4 [Saccharomyces castellii] [ score 91 E 5e-18 ] [ range 195 .. 249 ]
+sequence
+PTNFTHKVHVGFDPETGSFV--GMPTNWENLLKHSRITGEDWNN--DSAAVIQVLQFY--Q---------
+---------*
+>P1;gi|18087343|gb|AAL58842.1| PAK1 kinase [Cryptococcus neoformans ... [ score 90 E 2e-17 ] [ range 72 .. 124 ]
+sequence
+PYDPVHVTHVGFDFQTGKYT--GMPPKWQQVLDDNGITQDEQER--NPNGVMAVVQY-------------
+---------*
+>P1;gi|42717987|gb|AAF82310.3| PakC [Dictyostelium discoideum] [ score 89 E 2e-17 ] [ range 116 .. 186 ]
+sequence
+PFNLKHEVHVDFNSATG-FS--GLPKEWEVILKSSNVSKQEVLD--KPSEWLSVLEFQ--ATMEKS---N
+SQNLSALPD*
+>P1;gi|3858883|gb|AAD09141.1| myosin I heavy chain kinase [Acanthamo... [ score 88 E 5e-17 ] [ range 96 .. 150 ]
+sequence
+PTNFKREMHIGFDSQTGTFE--GLPEEWKIMLGTSGLSQKEIES--DPKTLVEVMQFQ--Q---------
+---------*
+>P1;gi|2230826|emb|CAA71240.1| Ddpak [Dictyostelium discoideum] [ score 84 E 8e-16 ] [ range 359 .. 419 ]
+sequence
+PFNVKHNIHVNYHSVTG-FE--GLPKEWEVILQSSGITREDVVE--HSEVVIDVLDFH--MLNNPK---P
+P--------*
+>P1;gi|39597202|emb|CAE59429.1| Hypothetical protein CBG02801 [Caeno... [ score 82 E 3e-15 ] [ range 60 .. 124 ]
+sequence
+PYNTVHRVHVGYDGQ--KFS--GLPQPWMDIL-LRDISLADQKS--NPNAVVTALKFY--QSMKEN---E
+KTKFMT---*
+>P1;gi|6007857|gb|AAA93038.2| STE20-telated kinase DPAK1 [Dictyostel... [ score 78 E 4e-14 ] [ range 819 .. 872 ]
+sequence
+PFNVKHDVHVNFNADTG-FE--GLPKEWEVLIK-SNFQEPEVMQ--HPEEVLDVVKFH--AQ--------
+---------*
+>P1;gi|39591926|emb|CAE75146.1| Hypothetical protein CBG23079 [Caeno... [ score 73 E 2e-12 ] [ range 19 .. 69 ]
+sequence
+PSNFEHRIHAGFDARTGTYT--GLPKQWQALLGPRSISRPKPMV--DPSCITPV----------------
+---------*
+>P1;gi|29336032|ref|NP_081746.1| p21-activated protein kinase 4 [Mus... [ score 71 E 8e-12 ] [ range 14 .. 55 ]
+sequence
+PSNFEHRVHTGFDQHEQKFT--GLPRQWQSLI-------EESAR--RPKPLID-----------------
+---------*
+>P1;gi|5031975|ref|NP_005875.1| p21-activated kinase 4; protein kina... [ score 70 E 1e-11 ] [ range 14 .. 55 ]
+sequence
+PSNFEHRVHTGFDQHEQKFT--GLPRQWQSLI-------EESAR--RPKPLVD-----------------
+---------*
+>P1;gi|14330664|emb|CAC40979.1| PAK5 protein [Xenopus laevis] [ score 69 E 2e-11 ] [ range 14 .. 55 ]
+sequence
+PSNFEHRVHTGFDQQEQKFT--GLPRQWQSLI-------EESAK--RPKPLVD-----------------
+---------*
+>P1;gi|31201761|ref|XP_309828.1| ENSANGP00000018180 [Anopheles gambi... [ score 67 E 1e-10 ] [ range 14 .. 57 ]
+sequence
+PSNFEHRVHTGFDKREGRYV--GLPLQWASIVGNNQILKSSNRP--LP----------------------
+---------*
+>P1;gi|40037528|gb|AAR37415.1| p21-activated kinase 5 [Mus musculus] [ score 67 E 1e-10 ] [ range 14 .. 62 ]
+sequence
+PSNFEHRVHTGFDPQEQKFT--GLPQQWHSLLADTA-NRPKPMV--DPSCITPI----------------
+---------*
+>P1;gi|18848301|gb|AAH24179.1| P21-activated kinase 7 [Homo sapiens] [ score 65 E 4e-10 ] [ range 14 .. 62 ]
+sequence
+PSNFEHRVHTGFDAQEQKFT--GLPQQWHSLLADTA-NRPKPMV--DPSCITPI----------------
+---------*
+>P1;gi|9910476|ref|NP_064553.1| p21-activated kinase 6; p21-activate... [ score 64 E 7e-10 ] [ range 15 .. 55 ]
+sequence
+PQNFQHRVHTSFDPKEGKFV--GLPPQWQNILDT--------LR--RPKPVVD-----------------
+---------*
+>P1;gi|15292357|gb|AAK93447.1| LD47563p [Drosophila melanogaster] [ score 64 E 1e-09 ] [ range 14 .. 57 ]
+sequence
+PSNFEHRVHTGFDKRENKYV--GLPLQWASIVGNNQILKSSNRP--LP----------------------
+---------*
+>P1;gi|29250863|gb|EAA42351.1| GLP_440_107071_108783 [Giardia lambli... [ score 53 E 2e-06 ] [ range 23 .. 60 ]
+sequence
+PFDLKRGISVRYDPQTGKFT--GLPEEWQKLIPESMIS--------------------------------
+---------*
+>P1;gi|10880935|gb|AAG24442.1| Wiscott-Aldrich syndrome protein [Dic... [ score 49 E 4e-05 ] [ range 176 .. 215 ]
+sequence
+PTNFKHESHIGWDPENGDIK--NIPPDWRKLFQSAGIKKSE-----------------------------
+---------*
+>P1;gi|42733943|gb|AAS38848.1| similar to Dictyostelium discoideum (... [ score 47 E 9e-05 ] [ range 40 .. 86 ]
+sequence
+PTDFKHESHIGWDKENGEIK--NIPPEWRQLFQAAGIKKKD-LK--NPETV-------------------
+---------*
+>P1;gi|28829939|gb|AAO52430.1| similar to Dictyostelium discoideum (... [ score 47 E 1e-04 ] [ range 109 .. 141 ]
+sequence
+PFGFAHITHVNFDSSNQELT--GLPRDWGKTLKRS-----------------------------------
+---------*
+>P1;gi|34859042|ref|XP_216108.2| similar to ankyrin repeat and SOCS ... [ score 136 E 1e-31 ] [ range 49 .. 117 ]
+sequence
+-SNFQHIGHVGWDPNTG-FDLNNLDPELKNLFDMCGISEAQLKDRETSKVIYDFIEKTGGVEAVKNELRR
+Q--------*
+>P1;gi|28279905|gb|AAH44180.1| Similar to Wiskott-Aldrich syndrome-l... [ score 134 E 6e-31 ] [ range 220 .. 288 ]
+sequence
+-SNFRHVGHVGWDPNTG-FDLNNLDPDLKKLFDMCGISEDELKDKETSKVIYDLIEKQGGVEAVKNEMRR
+Q--------*
+>P1;gi|45501087|gb|AAH67309.1| Unknown (protein for MGC:75618) [Xeno... [ score 131 E 4e-30 ] [ range 209 .. 277 ]
+sequence
+-SNFQHIGHVGWDPNTG-FDVNNLDPELKKLFDLCGISEAQLKDKETSKVIYDFIEKTGGVEAVKNELRR
+Q--------*
+>P1;gi|41053957|ref|NP_956232.1| Unknown (protein for MGC:64164) [Da... [ score 129 E 2e-29 ] [ range 225 .. 293 ]
+sequence
+-SGFKHVTHIGWDPNSG-FDTNNLDPDLKKLFNIAGISDAQLADKETSKLIYDFIEQSGGLDAVKEGMRK
+Q--------*
+>P1;gi|13431960|sp|O00401|WASL_HUMAN Neural Wiskott-Aldrich syndrome... [ score 122 E 2e-27 ] [ range 207 .. 275 ]
+sequence
+-SNFQHIGHVGWDPNTG-SDLNNLDPELKNLFDMCGILEAQLKERETLKVIYDFIEKTGGVEAVKNELRR
+Q--------*
+>P1;gi|10880935|gb|AAG24442.1| Wiscott-Aldrich syndrome protein [Dic... [ score 105 E 3e-22 ] [ range 177 .. 232 ]
+sequence
+-TNFKHESHIGWDPENG-FDIKNIPPDWRKLFQSAGIKKSELKNAETAQFIVNIIGEQ------------
+---------*
+>P1;gi|42733943|gb|AAS38848.1| similar to Dictyostelium discoideum (... [ score 101 E 7e-21 ] [ range 41 .. 96 ]
+sequence
+-TDFKHESHIGWDKENG-FEIKNIPPEWRQLFQAAGIKKKDLKNPETVQFIYSIIGEN------------
+---------*
+>P1;gi|21357999|ref|NP_651637.1| CG1520-PA [Drosophila melanogaster]... [ score 100 E 1e-20 ] [ range 238 .. 303 ]
+sequence
+-TNFVHLSHVGWDAQKG-FDLNENDEVLNEFFVKAGVSEVELKDRDTRAFIYDFIQSNNVLASVKQ----
+---------*

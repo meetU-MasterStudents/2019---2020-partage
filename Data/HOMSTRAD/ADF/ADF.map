@@ -1,0 +1,1875 @@
+>P1;1cof
+structureX:1cof:   6 : : 140 : :cofilin:Saccharomyces cerevisiae: 2.3: 18.4
+-------------VAVADESLTAFNDLKL---------GKKYKFILFGLNDAKTEIVVK--ETSTDP---
+-----SYDAFLEKLPENDCLYAIYDFEYEINGNEGKRSKIVFFTWSPDTAPVRSKMVYASSKDALRRALN
+GVSTDVQGTDFSEVSYDSVLERVSR---------GA*
+>P1;1cnua
+structureX:1cnu:   2 :A: 134 :A:actophorin:Acanthamoeba castellanii: 2.25: 20.4
+------------GIAVSDDCVQKFNELKL---------GHQHRYVTFKMNASNTEVVVE--HVGGPNA--
+-----TYEDFKSQLPERDCRYAIFDYEFQV-DG-GQRNKITFILWAPDSAPIKSKMMYTSTKDSIKKKLV
+GIQVEVQATDAAEISEDAVSERAKK-----------*
+>P1;1ak6
+structureX:1ak6:  -8 : : 165 : :destrin:Homo sapiens and sus scrofa: -1: -1
+TMITPSSGNSASGVQVADEVCRIFYDMKVRKCSTPEEIKKRKKAVIFCLSADKKCIIVEEGKEILVGDVG
+VTITDPFKHFVGMLPEKDCRYALYDASFETK--ESRKEELMFFLWAPELAPLKSKMIYASSKDAIKKKFQ
+GIKHECQANGPEDLNRACIAEKLGGSLIVAFEGCPV*
+>P1;gi|17366768|sp|Q9FVI2|ADF1_PETHY Actin-depolymerizing factor 1 (... [ score 201 E 2e-51 ] [ range 8 .. 139 ]
+sequence
+-------------MAVHDDCKLRFLELKA---------KRTHRFIVYKIEEKQKQVVVE--KIGETE---
+-----SYEDFAASLPENECRYAVYDFDF-VTAENCQKSRIFFIAWCPDTARVRSKMIYASSKDRFKRELD
+GIQVELQACDPTEMGLDVIQSRAN------------*
+>P1;gi|45188108|ref|NP_984331.1| ADR235Wp [Eremothecium gossypii] >g... [ score 199 E 9e-51 ] [ range 6 .. 140 ]
+sequence
+-------------VAVADESLTAFNDLKL---------GKKYKFVLFGLNADKTSIIVK--ETSNER---
+-----DYDVFLEKLPEDDCLYAVYDFEYEISGAEGKRSKIVFFTWSPDTAPIRSKMVYASSKDALRRALN
+GVSSDIQGTDFSEVAYESVLEKVSR---------GA*
+>P1;gi|15231309|ref|NP_190187.1| actin-depolymerizing factor 1 (ADF1... [ score 199 E 1e-50 ] [ range 8 .. 139 ]
+sequence
+-------------MAVHDDCKLRFLELKA---------KRTHRFIVYKIEEKQKQVVVE--KVGQPQ---
+-----TYEEFAACLPADECRYAIYDFDF-VTAENCQKSKIFFIAWCPDIAKVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMDLDVFRSRAN------------*
+>P1;gi|17366765|sp|Q9FVI1|ADF2_PETHY Actin-depolymerizing factor 2 (... [ score 197 E 4e-50 ] [ range 8 .. 138 ]
+sequence
+-------------MAVHDDCKLKFLELKA---------KRTYRFIIYKIEEKQKEVVVE--KLGETE---
+-----SYEDFTAGLPADECRYAVYDFDF-MTKENHQKSRIFFIAWSPDTARVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMGLDVFRSRA-------------*
+>P1;gi|38564721|gb|AAR23800.1| putative actin-depolymerizing factor ... [ score 197 E 4e-50 ] [ range 8 .. 139 ]
+sequence
+-------------MAVHDECKLKFMDLKA---------KRTHRFIIYKIEEKQKQVMVE--KVGEPA---
+-----TYDEFAACLPENECRYAVFDYDF-LTPEGVQKSRIFFIAWSPDTARVRNKMIYASSKDRFKRELD
+GIQVELQATDASEMGLDVIQSRAN------------*
+>P1;gi|30697300|ref|NP_851228.1| actin-depolymerizing factor 4 (ADF4... [ score 197 E 5e-50 ] [ range 8 .. 139 ]
+sequence
+-------------MAVHDDCKLRFLELKA---------KRTHRFIVYKIEEKQKQVIVE--KVGEPI---
+-----TYEDFAASLPADECRYAIYDFDF-VTAENCQKSKIFFIAWCPDVAKVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMDLDVLKSRVN------------*
+>P1;gi|15223471|ref|NP_171680.1| actin-depolymerizing factor, putati... [ score 194 E 2e-49 ] [ range 8 .. 139 ]
+sequence
+-------------MHVSDECKLKFLELKA---------KRNYRFIVFKIDEKAQQVMID--KLGNEE---
+-----TYEDFTRSIPEDECRYAVYDYDF-TTPENCQKSKIFFIAWSPDTSRVRSKMLYASSKDRFKRELD
+GIQVELQATDPSEMSLDIIKGRVN------------*
+>P1;gi|30697295|ref|NP_851227.1| actin-depolymerizing factor 3 (ADF3... [ score 194 E 3e-49 ] [ range 8 .. 139 ]
+sequence
+-------------MAVHDDCKLKFMELKT---------KRTHRFIIYKIEELQKQVIVE--KIGEPQ---
+-----THEDLAASLPADECRYAIFDFDF-VSSEGVPRSRIFFVAWSPDTARVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMDLDVFKSRAN------------*
+>P1;gi|231509|sp|P30175|ADF_LILLO Actin-depolymerizing factor (ADF) ... [ score 192 E 2e-48 ] [ range 8 .. 138 ]
+sequence
+-------------MAVDDECKLKFMELKA---------KRNFRFIVFKIEEKVQQVTVE--RLGPNE---
+-----SYDDFTECLPPNECRYAVFDFDF-VTDENCQKSKIFFISWSPDTSRVRSKMLYASTKDRFKRELD
+GIQVELQATDPSEMSMDIIKARA-------------*
+>P1;gi|21554405|gb|AAM63510.1| Actin-depolymerizing factor ADF-6 [Ar... [ score 190 E 5e-48 ] [ range 15 .. 146 ]
+sequence
+-------------MGVADESKTTFLELQR---------KKTHRYVVFKIDESKKEVVVE--KTGNTE---
+-----SYDDFLASLPDNDCRYAVYDFDF-VTSENCQKSKIFFFSWSPSTSPVRAKVLYSTSKDQLSKELQ
+GIHYEIQATDPTEVDLEVLRERAN------------*
+>P1;gi|18402587|ref|NP_565719.1| actin-depolymerizing factor 6 (ADF6... [ score 189 E 7e-48 ] [ range 15 .. 146 ]
+sequence
+-------------MGVADESKTTFLELQR---------KKTHRYVVFKIDESKKEVVVE--KTGNTE---
+-----SYDDFLASLPDNDCRYAVYDFDF-VTSENCQKSKIFFFAWSPSTSGIRAKVLYSTSKDQLSRELQ
+GIHYEIQATDPTEVDLEVLRERAN------------*
+>P1;gi|18408116|ref|NP_566882.1| actin-depolymerizing factor, putati... [ score 189 E 8e-48 ] [ range 8 .. 137 ]
+sequence
+-------------MAVHDDCKLKFMELKA---------KRTFRTIVYKI-EDKQVIVEK--LGEPEQ---
+-----SYDDFAASLPADDCRYCIYDFDF-VTAENCQKSKIFFIAWSPDTAKVRDKMIYASSKDRFKRELD
+GIQVELQATDPTEMGLDVFKSRTN------------*
+>P1;gi|18423381|ref|NP_568769.1| actin-depolymerizing factor, putati... [ score 188 E 2e-47 ] [ range 8 .. 136 ]
+sequence
+-------------MAVEDECKLKFLELKA---------KRNYRFIIFRI-DGQQVVVEK--LGSPQE---
+-----NYDDFTNYLPPNECRYAVYDFDF-TTAENIQKSKIFFIAWSPDSSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSLDIIKSRA-------------*
+>P1;gi|22857914|gb|AAL91667.1| pollen specific actin-depolymerizing ... [ score 188 E 2e-47 ] [ range 8 .. 136 ]
+sequence
+-------------MAVLDECKLKFLELKA---------KRNYRFIVFKI-EGQQVVVEK--LGNPEE---
+-----NYDDFTNSLPADECRYAVFDFDF-ITTENCQKSKIFFIAWSPDTSKVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIIKSRA-------------*
+>P1;gi|15235159|ref|NP_194289.1| actin-depolymerizing factor, putati... [ score 187 E 5e-47 ] [ range 1 .. 129 ]
+sequence
+-------------MAVEDECKLKFLELKS---------KRNYRFIIFRI-DGQQVVVEK--LGNPDE---
+-----TYDDFTASLPANECRYAVFDFDF-ITDENCQKSKIFFIAWSPDSSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIIKSRA-------------*
+>P1;gi|1168345|sp|P46251|ADF1_MAIZE Actin-depolymerizing factor 1 (A... [ score 187 E 5e-47 ] [ range 9 .. 139 ]
+sequence
+--------------AVNDECKVKFRELKS---------RRTFRFIVFRIDDTDMEIKVD--RLGENQ---
+-----GYGDFTDSLPANECRYAIYDLDF-TTIENCQKSKIFFFSWSPDTARTRSKMLYASSKDRFRRELD
+GIQCEIQATDPSEMSLDIVRSRTN------------*
+>P1;gi|38345587|emb|CAE01864.2| OSJNBb0012E24.5 [Oryza sativa (japon... [ score 186 E 6e-47 ] [ range 8 .. 138 ]
+sequence
+-------------MAVGDECKLKFQELKS---------KRSFRFITFKIDERTQQVVVD--RLGPGD---
+-----TYDDFTASMPASECRYAVFDFDF-VTDENCQKSKIFFISWSPDTSKVRSKMLYASSKDRFKRELD
+GIQVELQATDPSEMSMDIVKARA-------------*
+>P1;gi|22831338|dbj|BAC16183.1| putative actin-depolymerizing factor... [ score 186 E 1e-46 ] [ range 9 .. 138 ]
+sequence
+--------------AVNDECKFKFQELKT---------RRGFRFIVFKIDDKAMEIKVE--RLGQTA---
+-----EYEDFAATLPADECRYAVYDLDF-VTDENCQKSKIFFFSWSPDTARTRSKMLYASSKDRFRRELD
+GIQCEIQATDPSEMSLDIIRARA-------------*
+>P1;gi|17366523|sp|Q43694|ADF2_MAIZE Actin-depolymerizing factor 2 (... [ score 184 E 2e-46 ] [ range 9 .. 139 ]
+sequence
+--------------AVSDECKVKFRDLKA---------RRSFRFIVFRIDDKDMEIKVD--RLGENQ---
+-----GYGDFTDSLPADECRYAIYDLDF-TTVENCQKSKIFFFSWSPDTARTRSKMLYASSKDRFRRELD
+GIQCEIQATDPSEMSLDIVKSRTN------------*
+>P1;gi|22857912|gb|AAL91666.1| pollen specific actin-depolymerizing ... [ score 184 E 2e-46 ] [ range 8 .. 136 ]
+sequence
+-------------MAVQDECKLKFLELKT---------KRNYRFIIFKI-DGQEVVVEK--LGSPEE---
+-----SYEDFANSLPADECRYAVFDLDF-ITNENCQKSKIFFIAWSPETSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIVKARA-------------*
+>P1;gi|5802959|gb|AAD51856.1| putative actin depolymerizing factor [... [ score 184 E 3e-46 ] [ range 4 .. 129 ]
+sequence
+-------------------CKLKFLELKA---------KRTYRFIVFKIDEKKNEVIVE--KLGEPA---
+-----SYEDFTANLPDNECRYAVYDFDF-VTVENCHKSRIFFVGWSPDTARVRNKMIYASSKDRFKRELD
+GIQVELQATDPSEIGLDVIKSRAN------------*
+>P1;gi|24745620|dbj|BAC23034.1| actin depolymerizing factor 6 [Solan... [ score 184 E 3e-46 ] [ range 14 .. 144 ]
+sequence
+-------------MGVADQSKATYMELQR---------KKVHRYVIFMIDEKKNEVVVE--KTGGPA---
+-----SYDDFTAALPENDCRYAVYDYDF-VTPDNCQKSKIFFFAWSPSVSRIRSKMLYATSKDRFRRELE
+GIHYEIQATDPTEVELEVLKERA-------------*
+>P1;gi|34897072|ref|NP_909882.1| putative actin-depolymerizing facto... [ score 182 E 9e-46 ] [ range 14 .. 144 ]
+sequence
+-------------MGVAPDIRDTFLELQM---------KKAFRYVIFKIEEKQKQVVVE--KTGTTE---
+-----SYDDFLASLPENDCRYALYDFDF-VTGENVQKSKIFFIAWSPSTSRIRAKMLYSTSKDRIKQELD
+GFHYEIQATDPTEVDLEVLRERA-------------*
+>P1;gi|4566614|gb|AAD23407.1| actin depolymerizing factor [Populus x... [ score 181 E 2e-45 ] [ range 7 .. 138 ]
+sequence
+-------------MGVADHSKIAFVELQR---------KKVHRYVIFKIDEKKKEVVVE--KTGGPA---
+-----SYEDFTASLPENDCRYAVYDFDF-VTSENCQKSKIFFIAWSPSTSRIRAKMLYATSKDRFRRELD
+GIHYEIQATDPTEMDLEVIRERAN------------*
+>P1;gi|37536154|ref|NP_922379.1| putative actin depolymerizing facto... [ score 181 E 2e-45 ] [ range 20 .. 152 ]
+sequence
+-------------IEVPEKSKSAFWELKR---------RKVHRYVIFKIDDRREEIVVE--KTGAPE---
+-----SYDDFTASLPADDCRYAVYDLDF-VSDDNCRKSKIFFISWSPSVSRIRAKTIYAVSRNQFRHELD
+GVHFEIQATDPDDMDLEVLRGRANR-----------*
+>P1;gi|32363121|sp|Q8SAG3|ADF_VITVI Actin-depolymerizing factor (ADF... [ score 180 E 5e-45 ] [ range 12 .. 142 ]
+sequence
+-------------MGVADHSKNTFLELKR---------KKVHRYVIFKIDEKKKEVVVE--KTGGPA---
+-----SFDEFAAALPENDCRYAVYDFDF-VTSENCQKSKIFFIAWSPDSSRIRAKMLYATSKERFRRELD
+GVHYEIQATDPTEMDLEVLRERA-------------*
+>P1;gi|38105102|gb|EAA51569.1| hypothetical protein MG03164.4 [Magna... [ score 178 E 3e-44 ] [ range 7 .. 150 ]
+sequence
+--------------TVSQECVTTYNELKL---------GKNIKYIIFKLSDNNKEIVVE--EASGDS---
+-----DWENFRNKLVNKAPRYAVYDFQYTLASGEGERNKITFIAWSPDDAGVKPKMIYAASKDALKRALN
+GIAHELQANDADDIEYDSVLKTVSK---------G-*
+>P1;gi|7330254|gb|AAF60173.1| actin depolymerizing factor [Elaeis gu... [ score 177 E 3e-44 ] [ range 6 .. 139 ]
+sequence
+-------------MGVADDSKSTFLELKR---------KKVHRYVIFMIDEKKKEVVVE--KTGPGE---
+-----SYDDFTAALPVNDCRYAVYDFDF-VTEDNCQKSKIFFISWSPSVSRIRSKMLYATSKDRFRHELD
+GVHYEIQATDPTEMDLEVLRDRAKL---------G-*
+>P1;gi|584723|sp|P37167|ACTP_ACACA Actophorin >gi|155621|gb|AAA02909... [ score 174 E 2e-43 ] [ range 4 .. 135 ]
+sequence
+-------------IAVSDDCVQKFNELKL---------GHQHRYVTFKMNASNTEVVVE--VGGPNA---
+-----TYEDFKSQLPERDCRYAIFDYEFQVDG--GQRNKITFILWAPDSAPIKSKMMYTSTKDSIKKKLV
+GIQVEVQATDAAEISEDAVSERAKK-----------*
+>P1;gi|29124123|gb|AAO65864.1| putative actin depolymerizing factor ... [ score 174 E 2e-43 ] [ range 8 .. 138 ]
+sequence
+-------------VAIHDDCKLKFNELQS---------KRMHRFITFMMDNKGKEIIVD--KIGRTT---
+-----SYEDFTSSLPEGDCRFAIYDFDF-LTAEDVPKSRIFYILWSPDNAKVRSKMLYASSNERFKKELN
+GIQLEVQATDAGEISLDALKDRV-------------*
+>P1;gi|17366520|sp|Q41764|ADF3_MAIZE Actin-depolymerizing factor 3 (... [ score 173 E 5e-43 ] [ range 8 .. 138 ]
+sequence
+-------------VAVNDECMLKFGELQS---------KRLHRFITFKMDDKFKEIVVD--QVGDRA---
+-----SYDDFTNSLPENDCRYAIYDFDF-VTAEDVQKSRIFYILWSPSSAKVKSKMLYASSNQKFKSGLN
+GIQVELQATDASEISLDEIKDRA-------------*
+>P1;gi|12861068|dbj|BAB32114.1| unnamed protein product [Mus musculus] [ score 171 E 3e-42 ] [ range 5 .. 157 ]
+sequence
+-------------VAVSDGVIKVFNDMKV---------KKRKKAVLFCLSEDKKNIILE--EGTVDD---
+-----PYTTFVKMLPDKDCRYALYDATYET--KESKKEDLVFIFWAPENAPLKSKMIYASSKDAIKKKLT
+GIKHELQANCYEKVKDRCLAEKLGG---------SA*
+>P1;gi|34865920|ref|XP_236624.2| similar to Rbm6 protein [Rattus nor... [ score 170 E 4e-42 ] [ range 400 .. 537 ]
+sequence
+-------------VAVSDGVIKVFNDMKV---------KKHKKTVLFCLSEDKKNIILE--EGTVDD---
+-----PYTTFVKMLPDKDCRYALYDATYET--KESKKEDLVFIFWTPESAPLKSKMIYASSKDAIKKKLT
+GIKHELQANCYEEV----------------------*
+>P1;gi|1381154|gb|AAC49404.1| WCOR719 [ score 170 E 4e-42 ] [ range 8 .. 139 ]
+sequence
+-------------VAVNEECVKVFQELRA---------ERKHRFVVYKMDDDAQQVVVD--KVGADA---
+-----TFDDLAAAMPADDCRYAVYDLDFEDSAGDTPRSKIFFIHWSPESADARNKMLYASSTEGLKKELD
+GVQIDVQATDASELTLNILKD---------------*
+>P1;gi|18398187|ref|NP_565390.1| actin-depolymerizing factor 5 (ADF5... [ score 170 E 5e-42 ] [ range 12 .. 142 ]
+sequence
+-------------MRVTDECTSSFMDMKW---------KKVHRYIVFKIEEKSRKVTVD--KVGAGE---
+-----SYHDLEDSLPVDDCRYAVFDFDF-VTVDNCRKSKIFFIAWSPEASKIRAKILYATSKDGLRRVLE
+GIHYELQATDPTEMGFDIIQDRA-------------*
+>P1;gi|11066101|gb|AAG28460.1| actin depolymerization factor-like pr... [ score 166 E 1e-40 ] [ range 8 .. 141 ]
+sequence
+-------------VAVNEECVKVFQELRA---------ERKHRFVVYKMDDDEQQVVVD--KVGADA---
+-----TFDDLAAAMPADDCRYAVYDLDFEDSAGDTPRSKIFFIHWSPEAADARSKMVYASSTEGLKKELD
+GVQIDVQATDASELTLDILKD---------------*
+>P1;gi|42550893|gb|EAA73736.1| hypothetical protein FG06245.1 [Gibbe... [ score 165 E 1e-40 ] [ range 2 .. 141 ]
+sequence
+------------------DCITAFNDLKL---------NKKYKFIVYKLSDDYKEIVID--KASESR---
+-----DWEDFRETLVNKGPRYAVYDFEYNLASGDGIRNKITFIAWSPDDAGIQPKMIYASSKEALKRSLT
+GIATELQANDTDDIEYDSILKTVSK---------G-*
+>P1;gi|15236233|ref|NP_195223.1| actin-depolymerizing factor, putati... [ score 165 E 2e-40 ] [ range 3 .. 129 ]
+sequence
+-----------------DDCKKSFMEMKW---------KKVHRYVVYKLEEKSRKVTVD--KVGAGE---
+-----SYDDLAASLPEDDCRYAVFDFDY-VTVDNCRMSKIFFITWSPEASRIREKMMYATSKSGLRRVLD
+GVHYELQATDPTEMGFDKIQDRA-------------*
+>P1;gi|231508|sp|P30174|ADF_BRANA ACTIN DEPOLYMERIZING FACTOR (ADF) ... [ score 160 E 7e-39 ] [ range 2 .. 125 ]
+sequence
+-----------------DNCKLKFLELK-----------KRIFRFIIFRIDGQQVVVEK--LGNPQE---
+-----TYDDFTASLPADECRYAVFDFDF-TTNENCQKSKIFFIAWSPDSSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIIKSRA-------------*
+>P1;gi|34394310|dbj|BAC84792.1| putative actin depolymerizing factor... [ score 159 E 1e-38 ] [ range 17 .. 145 ]
+sequence
+-------------IEVPEKSKSAFWELMR---------RKVHRYVIFKIDDRREEIVVE--KTGAPE---
+-----SYDDFTASLPAD----AVYDLDF-VSDDNCRKSKIFFISWSPSLSCIRAKTIYAVWRNQFRHELD
+GVHFEIQATDPDDMDLEVLRGRANR-----------*
+>P1;gi|16416030|emb|CAB91380.2| related to cofilin [Neurospora crassa] [ score 157 E 3e-38 ] [ range 6 .. 151 ]
+sequence
+-------------VQVDPECRRAFDKL-M---------SRQLRYIIYKLSDDFKEIVIE--STSETE---
+-----NYDEFREKLVNKGPRYAVYDFEYKLASGEGSRNKVTFIAWSPDDAGIKSKMVYASSKEALKRSLS
+GIAVELQANEQDDIEYEQIIKTVSK---------G-*
+>P1;gi|34861691|ref|XP_219433.2| similar to Cofilin, non-muscle isof... [ score 156 E 9e-38 ] [ range 5 .. 158 ]
+sequence
+-------------VAVSDGVIKVFNDMKV---------KKHKKAVLLWLSEDKKNIILE--EGEEDD---
+-----PYTTFVKMLPDKDCHYALYDATYET--KESKKEDLAFIFWAPESAPLQNKMIYASSKDAIQRKLT
+GIKHELQANCYKEVKDRCLAEKLGS---------SA*
+>P1;gi|34865596|ref|XP_345675.1| similar to cofilin [Rattus norvegicus] [ score 156 E 1e-37 ] [ range 35 .. 179 ]
+sequence
+-------------VTVNDEVIKVFNDMKI---------KKRKKAVLFCLSDDKRQIIVE--EATVED---
+-----PYTSFVKLLPLNDCRYALYDATYET--KESKKEDLVFIFWAPESAPLKSKMIYASSKDAIKKKFT
+GIKHEWQVNGLDDIKDRSTL----------------*
+>P1;gi|15231305|ref|NP_190185.1| actin-depolymerizing factor, putati... [ score 155 E 1e-37 ] [ range 1 .. 133 ]
+sequence
+-------------MVLHDDCKLTFLELKE---------RRTFRSIVYKIEDNMQVIVEK--HGEREQ---
+-----SYEEFANSLPADECRYAILDIEFVPGER-----KICFIAWSPSTAKMRKKMIYSSTKDRFKRELD
+GIQVEFHATDLTDISLDAIRRRIN------------*
+>P1;gi|2624592|pdb|1AK6|  Destrin, Nmr, Minimized Average Structure ... [ score 155 E 2e-37 ] [ range 14 .. 161 ]
+sequence
+-------------VQVADEVCRIFYDMKI---------KKRKKAVIFCLSADKKCIIVE--EGKETD---
+-----PFKHFVGMLPEKDCRYALYDASFET--KESRKEELMFFLWAPELAPLKSKMIYASSKDAIKKKFQ
+GIKHECQANGPEDLNRACIAEKL-------------*
+>P1;gi|34852087|ref|XP_345074.1| similar to destrin - rat [Rattus no... [ score 154 E 3e-37 ] [ range 18 .. 165 ]
+sequence
+-------------VQVADEVCRIFYDMKI---------KKRNKAVIFCLSADKKCIVVE--EGKETD---
+-----PFKHFVGMLPEKDCRYALYDASFET--KESRKEELMFFLWAPEQAPLKSKMIYASSKDAIKKKFP
+GIKHEYQANGPEDLNRTSIAEKL-------------*
+>P1;gi|45387807|ref|NP_991263.1| hypothetical protein zgc:77288 [Dan... [ score 153 E 6e-37 ] [ range 5 .. 153 ]
+sequence
+-------------VTVSDEVIKVFNDMKV---------KKRKKAVLFCLSDDKKKIIVE--EGSVDD---
+-----PYACFVKLLPLNDCRYGLYDATYET--KESKKEDLVFIFWAPEGAPLKSKMIYASSKDAIKKKFT
+GIKHEWQVNGLDDIDRSTLAEKL-------------*
+>P1;gi|45382979|ref|NP_990859.1| destrin; actin depolymerizing facto... [ score 153 E 7e-37 ] [ range 5 .. 152 ]
+sequence
+-------------VQVADEVCRIFYDMKV---------KKRKKAVIFCLSPDKKCIIVE--EVTVTD---
+-----PFKHFVEMLPEKDCRYALYDASFET--KESKKEELMFFLWAPEQAPLKSKMIYASSKDAIKKKFQ
+GIKHECQANGPEDLNRACIAEKL-------------*
+>P1;gi|1168993|sp|P45695|COF1_XENLA COFILIN 1 >gi|837296|gb|AAB00540... [ score 153 E 9e-37 ] [ range 5 .. 145 ]
+sequence
+-------------VMVSDDVIKVFNEMKV---------KKRKKAVVFCLSDDKKTIILE--PGNVED---
+-----PYKTFVKMLPRNDCRYALYDALYET--KETKKEDLVFVFWAPEEASLKSKMIYASSKDAIKKRLP
+GIKHEWQINTYEDVND--------------------*
+>P1;gi|45501105|gb|AAH67328.1| Unknown (protein for MGC:76274) [Xeno... [ score 152 E 1e-36 ] [ range 5 .. 153 ]
+sequence
+-------------VMVSDDVIKVFNDMKV---------KKRKKAVVFCLSEDKKMIILE--PGNVDD---
+-----PYKAFVKMLPRNDCRYALYDALYET--KETKKEDLVFVFWAPEEASLKSKMIYASSKDAIKKRFP
+GIKHEWQTNTFEDINDPCLAEKL-------------*
+>P1;gi|1168995|sp|P45593|COF2_XENLA COFILIN 2 >gi|551635|dbj|BAA0746... [ score 151 E 3e-36 ] [ range 5 .. 145 ]
+sequence
+-------------VMVSDDVVKVFNDMKV---------KKRKKAVIFCLSDDKKTIILE--PGNVED---
+-----PYKTFVKMLPRNDCRYALYDALYET--KETKKEDLVFVFWAPEEASLKSKMIYASSKDAIRKRFT
+GIKHEWQTNTYDDIND--------------------*
+>P1;gi|17136986|ref|NP_477034.1| twinstar CG4254-PA [Drosophila mela... [ score 150 E 7e-36 ] [ range 5 .. 142 ]
+sequence
+-------------VTVSDVCKTTYEEIKK---------DKKHRYVIFYIRDEKQIDVET--VADRNA---
+-----EYDQFLEDIQKGECRYGLFDFEYQGTSESSKKQKLFLMSWCPDTAKVKKKMLYSSSFDALKKSLV
+GVQKYIQATDLSEASREAVEEKL-------------*
+>P1;gi|40745272|gb|EAA64428.1| hypothetical protein AN2317.2 [Asperg... [ score 149 E 2e-35 ] [ range 7 .. 158 ]
+sequence
+-------------VQVQDECITAFNNLRM---------GSKPKFIIFKISDDKKQVVVD--ETSDDP---
+-----DYETFLNKLGDAKPRYAVYDVEYDLGGGEGTRSKIIFISWVPSGTSINASMIYASTREVLKNALN
+-VVTSIHADDKGDLAWKSILAEVSG---------G-*
+>P1;gi|31196949|ref|XP_307422.1| ENSANGP00000023741 [Anopheles gambi... [ score 149 E 2e-35 ] [ range 4 .. 141 ]
+sequence
+-------------VTVSDVCKTTYEEIKK---------DKKHRYVIFYIRDEKQIDVEV--IGDRNA---
+-----EYDSFLEDIQKGECRYGLFDFEYQGTSESSKKQKLFLMSWCPDTAKVKKKMLYSSSFDALKKSLV
+GVQKYIQATDLSEASREAVEEKL-------------*
+>P1;gi|37681759|gb|AAQ97757.1| muscle cofilin 2 [Danio rerio] [ score 147 E 6e-35 ] [ range 5 .. 150 ]
+sequence
+-------------VTVEETVLTVFNEMKV---------RKRKKAVMFCLSDDKKHIIME--QGDEGD---
+-----PYLKFVKMLPPNDCRYALYDATYET--KETKKEDLVFIFWAPESAPLKSKMIYASSKDAIKKKFT
+GIKHEWQVNGMDDIDRKTLAEKL-------------*
+>P1;gi|24643098|ref|NP_573321.1| CG6873-PA [Drosophila melanogaster]... [ score 136 E 9e-32 ] [ range 5 .. 142 ]
+sequence
+-------------INLSRECQHVFEQIRK---------LKQHRYAVFVIQDEREIKVEV--LGVREA---
+-----NYDDFLADLQRNQCRFAVYDYEYQGTLSTCLKEKLILMLWCPTLARIKDKMLYSSTFAVLKREFP
+GVQKCIQATEPEEACRNAVEEQL-------------*
+>P1;gi|33772153|gb|AAQ54513.1| actin-depolymerizing factor [Malus x ... [ score 133 E 8e-31 ] [ range 1 .. 94 ]
+sequence
+----------------------------A---------KRTYRSIVFKIEEKQKQVVVE--HVGEPA---
+-----TYEQFTEKLPAHECRYAIFDFDF-LTPEGVQKSRIFFIAWSPDTSRVRSKMIYASSKDRFKRELD
+G-----------------------------------*
+>P1;gi|28828705|gb|AAO51300.1| hypothetical protein [Dictyostelium d... [ score 132 E 2e-30 ] [ range 10 .. 134 ]
+sequence
+--------------KISPECQTHFQDIKF---------RNKYQGILLKVNEESNMVVDK--TLVAEG---
+-----EFSELAQSLPTDQCRIIIYRYK------SGEGSKLFFIYWGPDSAPQQDKLIYGNAKVTLAITLK
+GIDHKISASNLKEISEQVFIDRIT------------*
+>P1;gi|32566130|ref|NP_503427.2| UNCoordinated locomotion UNC-60 (un... [ score 128 E 3e-29 ] [ range 5 .. 144 ]
+sequence
+-------------VKVDPSCKNAYDLLHN---------KHQHSYIIFKIDKNDTAIVVE--KVGENA---
+-----PYAEFVEEMKKKECRYAAVDVEVTVQEGTSTLNKVIFVQYCPDNAPVRRRMLYASSVRALKASLG
+LESFQVQASEMSDLDEKSVKS---------------*
+>P1;gi|39592862|emb|CAE62476.1| Hypothetical protein CBG06573 [Caeno... [ score 126 E 7e-29 ] [ range 5 .. 144 ]
+sequence
+-------------VKVDPSCKNAYDLLHN---------KHQHSYIIFKIDKNDTAIVVE--KVGDNA---
+-----PYSEFVEEMKKKECRYAAVDVEVTVQEGASTLNKVIFVQYCPDNAPVRRRMLYASSVRALKASLG
+LESFQVQASEMSDLDEKVVKS---------------*
+>P1;gi|23485107|gb|EAA20214.1| actin-depolymerizing factor 3 [Plasmo... [ score 125 E 2e-28 ] [ range 5 .. 135 ]
+sequence
+-------------VNVSDECIYEFNRLKV---------KHLHKYIIYKIENLEQIVVME--LTSLDN---
+-----IIMRIKNNLKNTECRYIIADMPIPT-PEGVLRDRIYFIFWSPGLSKPKEKMLYAASKESLVRKIN
+GIFKSLEITDIDEFEEE-------------------*
+>P1;gi|29436473|gb|AAH49463.1| Similar to cofilin 1 [Danio rerio] >g... [ score 124 E 3e-28 ] [ range 5 .. 149 ]
+sequence
+-------------VAISDDVIAHYELIRV---------KERFKLVVMRLSDDLKNIIVD--EKNEKD---
+-----VFKKIISMLPPKECRYALYDCKY--TNKESVKEDLVFIFSAPDDAPMRSKMLYASSKNALKAKLP
+GMKFEWQINDNADKDASSLVEKL-------------*
+>P1;gi|15076600|dbj|BAB62414.1| cofilin-2 [Dictyostelium discoideum]... [ score 123 E 6e-28 ] [ range 12 .. 138 ]
+sequence
+-------------VKLSPECQQYYQDVRI---------KNKYQGVVYKINKESNQMIID--KTPNDC---
+-----NFNELTQCFKENECCIIV--FKYVISNSQ---SKLFFIYWGSETAPQTDKVLYSNAKLTLAITLK
+GIDIKIAGTKKSELTEEIFKERA-------------*
+>P1;gi|34871659|ref|XP_343925.1| similar to Cofilin, non-muscle isof... [ score 123 E 9e-28 ] [ range 15 .. 150 ]
+sequence
+-------------VAVSDGVIKVFNDMKM---------KKRKKVVLFCPSEVEKEMLVA--DVGVND---
+-----PLLHFCQDAARQGLTGATLS---RMQPRRARRTNLLFNFWAPESAPLQSKMICASSKDAIKKNLT
+GIKHELQANCFEE-----------------------*
+>P1;gi|23619535|ref|NP_705497.1| actin-depolymerizing factor, putati... [ score 123 E 1e-27 ] [ range 5 .. 135 ]
+sequence
+-------------VKVSDECVYEFNKLKI---------KHIHKYIIYRIENYE-EVIVD--FLEQDN---
+-----SLKDIRNNLKTTECRYIIADMPIPT-PEGVLRNRIYFIFWSPDLAKSKEKMLYASSKEYLVRKIN
+GIFKSLEITDLEDFEDE-------------------*
+>P1;gi|22795041|gb|AAN05421.1| putative actin-depolymerizing factor ... [ score 121 E 3e-27 ] [ range 1 .. 79 ]
+sequence
+----------------------------------------------------------------------
+-------------LPDDDCRYAVFDFDF-VTVDNCRKSKIFFIAWAPTASRIRAKMLYATSKDGLRRVLE
+GVHYELQATDPTEMGFDLIRDRA-------------*
+>P1;gi|34877158|ref|XP_346064.1| similar to Cofilin, non-muscle isof... [ score 121 E 3e-27 ] [ range 5 .. 118 ]
+sequence
+----------------------------V---------KKCKKALLLCLSEDKKNIILE--EGTVDD---
+-----PYTTFVKILPDKNCCYALYDTTYET--KESKKEDLVFIFWTPKGAPLKSKMIYASSKDGIQKKLT
+GIKYELQANCCEE-----------------------*
+>P1;gi|32566126|ref|NP_503425.2| UNCoordinated locomotion UNC-60 (un... [ score 120 E 5e-27 ] [ range 5 .. 158 ]
+sequence
+-------------VMVDPDVQTSFQKLSE---------GRKYRYIIFKIDENKVIVEAA--VTSSKA---
+-----AFDKFVEDVKSTDCRYAVFDFKFRVGAGTSKMDKIIFLQICPDGASIKKKMVYASSAAAIKTSLT
+GKILQFQVSDESEMSHKELLNKL-------------*
+>P1;gi|29841150|gb|AAP06163.1| similar to GenBank Accession Number Z... [ score 119 E 1e-26 ] [ range 5 .. 132 ]
+sequence
+-------------ITPTDECEIHYNALKM---------NKVYRYILFTIT-GSKIDVMK--KAKRDS---
+-----SFQDFIDDLKDSGC-YAVIDYE----GEGVKGSNLIFVSWVPDKATTRMKMLYASSREHLKARFQ
+GLKGDLQADDISEVTESALASKA-------------*
+>P1;gi|27924273|gb|AAH45044.1| MGC53245 protein [Xenopus laevis] [ score 118 E 2e-26 ] [ range 8 .. 141 ]
+sequence
+-----------------DDCISAFQEMKL---------RKKKKVIFFCFTEDEKFITEK--EILVDH---
+-----KGDFFKSMFPEKKCCYALIDVNYST--GETLRQDLMFVMWTPDTATIKQKMLFASSKSSLKQALP
+GVQKQWEIQSREDLTLQQLAEKIS------------*
+>P1;gi|42548719|gb|EAA71562.1| hypothetical protein FG08822.1 [Gibbe... [ score 112 E 1e-24 ] [ range 669 .. 803 ]
+sequence
+-------------VSVDQDCIIAANALRF---------SKKIKFIIFKITDDEQNVVVE--ETSSET---
+-----DYEVFRQKLLSGAPRYAVYDVDYDL-GEDGKR---------------QLRMLYASTMEYLKKTVN
+GNQEDIEGTDFQEFPYD-------------------*
+>P1;gi|43387800|gb|EAD58427.1| unknown [environmental sequence] [ score 109 E 1e-23 ] [ range 25 .. 111 ]
+sequence
+----------------------------------------------------------------------
+-----EFQQLLDQLPADEPRYFVLDWD-GVTKDGRQVSKIFFVSWVPDTCKAKTKMLYASSKQALRNALD
+GVQLDHQATDYDEITPEELNERA-------------*
+>P1;gi|39592861|emb|CAE62475.1| Hypothetical protein CBG06572 [Caeno... [ score 106 E 1e-22 ] [ range 5 .. 158 ]
+sequence
+-------------VMVDPDVQTSFQKLSE---------GRKYRYIIFKIEDNK--VIVE--SASSKA---
+-----AFEKFAADIKSTDCRYAVFDFKFRVGAGTSKMDKIIFLQICPDGASIKKKMVYASSAAAIKASLT
+GKILQFQVSDEPEMNHKEFLNKL-------------*
+>P1;gi|32394634|gb|AAM94015.1| acin depolymerizing factor 2 [Griffit... [ score 105 E 3e-22 ] [ range 5 .. 133 ]
+sequence
+-------------VPINPAVIEKYNEIS----------KRTCGAMILKPNND--EVIVD--QADPED---
+-----IWKKILEQVPDEDCRYIIVDFKVKTTPTVSQ-EKVTLVYWAPETAPSRSKMIYAATKEHISSSLN
+GVQSRCSATTLTNL----------------------*
+>P1;gi|23479884|gb|EAA16596.1| actin depolymerizing factor [Plasmodi... [ score 102 E 2e-21 ] [ range 5 .. 107 ]
+sequence
+-------------IRVNDNCVTEFNNMKI---------RKTCRWMIFVIENC--EIIIH--SKGETT---
+-----SLKELVDSIDKNDCAYVVFDA----------VNKIHFFMYARETSNSRDRMTYASSKQALLKKIE
+GVNV--------------------------------*
+>P1;gi|34874889|ref|XP_346033.1| similar to cofilin [Rattus norvegicus] [ score 93 E 1e-18 ] [ range 5 .. 105 ]
+sequence
+-------------VTVNDDVINVFNDMKV---------RKKKKAVLFCLSGDKRQIIVE--EATVED---
+-----TYTSFVRLLHLNDCRYALYNAIYETKESK-KEDHLVFIFWAPE----------------------
+------------------------------------*
+>P1;gi|43767740|gb|EAF38306.1| unknown [environmental sequence] [ score 82 E 2e-15 ] [ range 3 .. 60 ]
+sequence
+----------------------------------------------------------------------
+-------------LPYTDCRYAVYDHEFTTADGRIT-DKLFFLSWMPHNATPYSKMAYASGKGMLRERLD
+GV----------------------------------*
+>P1;gi|7768638|dbj|BAA95482.1| glia maturation factor beta [Cyprinus... [ score 75 E 4e-13 ] [ range 19 .. 139 ]
+sequence
+---------------------------------------KKFRFILMKIDMEKQLVVLE--EEYENI---
+-----SLDELREELPERQPRYIVYS--YKLTHGDGRVSPLCFIFSSPVGCKPEQQMMYAGSKNRLVQSAD
+LTKI-FEVRNPDDLTEEWLKEKLS------------*
+>P1;gi|29179458|gb|AAH49318.1| Similar to glia maturation factor, be... [ score 72 E 3e-12 ] [ range 10 .. 138 ]
+sequence
+---------------VDEDLVKKLRDFRF---------RKNNAAIIMKIDKDKQLVILE--EEHEDI---
+-----SPEDLKNELPERQPRFVVYSYKY--QHDDGRVSPLCFIFSSPVGCKPEQQMMYAGSKNKLVQTVE
+LTKV-FEIRNTEDLTEEWLREKL-------------*
+>P1;gi|27065561|pdb|1M4J|A Chain A, Crystal Structure Of The N-Termi... [ score 71 E 5e-12 ] [ range 7 .. 131 ]
+sequence
+-------------IQASEDVKEIFARARN---------GK---YRLLKISIENEQLVVG--SCSPEQ---
+-----DYDSFVLPLLEDQPCYVL----FRLDSQNAQGYEWIFIAWSPDHSHVRQKMLYAATRATLKKEFG
+GIKDEVFGTVKEDVSL--------------------*
+>P1;gi|27664310|ref|XP_235613.1| similar to PTK9 protein tyrosine ki... [ score 69 E 2e-11 ] [ range 186 .. 312 ] [ duplicate b ]
+sequence
+----------------------AFQALEK---------KRQLNYVQLEIDIKNETIILA--NT-ENT---
+-----ELKDLPKRIPKDSARYHF--FLYKHSHEGDYLESIVFIYSMPGTCSIRERMLYSSCKDIVERQLQ
+DVIRKIEIDNGDELTADFLYDEV-------------*
+>P1;gi|40068475|ref|NP_002813.2| twinfilin isoform 1; protein tyrosi... [ score 69 E 2e-11 ] [ range 41 .. 165 ] [ duplicate a ]
+sequence
+-------------IQASEDVKEIFARARN---------GK---YRLLKISIENEQLVIG--SYSQDK---
+-----DYDSFVLPLLEDQPCYIL----FRLDSQNAQGYEWIFIAWSPDHSHVRQKMLYAATRATLKKEFG
+GIKDEVFGTVKEDVSL--------------------*
+>P1;gi|40068475|ref|NP_002813.2| twinfilin isoform 1; protein tyrosi... [ score 69 E 2e-11 ] [ range 220 .. 346 ] [ duplicate b ]
+sequence
+----------------------AFQALEK---------NRQLNYVQLEI-DIKNEIIIL--ANTTNT---
+-----ELKDLPKRIPKDSARYHF--FLYKHSHEGDYLESIVFIYSMPGTCSIRERMLYSSCKSRLERQLQ
+DVIRKIEIDNGDELTADFLYEEV-------------*
+>P1;gi|31238600|ref|XP_319810.1| ENSANGP00000016558 [Anopheles gambi... [ score 69 E 3e-11 ] [ range 49 .. 177 ]
+sequence
+---------------ISPEAKEEISKFRF---------RRTNTALILKIDREKQLVTVD--ELLDDV---
+-----AIEELQEQLPSHQPRYIIYSYK-MVHDDSRISYPMCFIFYTPRDSQMELCMLYAKTRMALQREAD
+LTRY-YEIRELDDMTEDWLREKL-------------*
+>P1;gi|33304155|gb|AAQ02585.1| PTK9 protein tyrosine kinase 9 [synth... [ score 67 E 6e-11 ] [ range 186 .. 312 ] [ duplicate b ]
+sequence
+----------------------AFQALEK---------NRQLNYVQLEI-DIKNEIIIL--ANTTNT---
+-----ELKDLPKRIPKDSARYHF--FLYKHSHEGDYLESIVFIYSMPGTCSIRERMLYSSCKSRLLEIVE
+DVIRKIEIDNGDELTADFLYEEV-------------*
+>P1;gi|1480791|gb|AAC47468.1| glia maturation factor BmGMF [ score 67 E 1e-10 ] [ range 24 .. 138 ]
+sequence
+---------------------------RR---------KRSTNALILKIDPVKQLIILD--QKLEDC---
+-----DPDMICDELPVQQPRYIVISYE-RVHDDGRLSYPLSLVFYSPSGCKPQLRMMYAGSRNNLARKCE
+LNRV-FEIREPDELTRELLELKL-------------*
+>P1;gi|11993950|ref|NP_071307.1| glia maturation factor, gamma [Mus ... [ score 65 E 2e-10 ] [ range 10 .. 138 ]
+sequence
+---------------VDPELKETLRKFRF---------RKNNAAIIMKVDKDRQMVVLE--DELQNI---
+-----SPEELKLELPERQPRFVVYSYKY-VHDDGRVSYPLCFIFSSPVGCKPEQQMMYAGSKNRLVQTAE
+LTKVEIRTTD--DLTETWLKEKL-------------*
+>P1;gi|21358413|ref|NP_650338.1| twinfilin CG3172-PA [Drosophila mel... [ score 65 E 2e-10 ] [ range 15 .. 132 ] [ duplicate a ]
+sequence
+---------------------KVFGKAKN---------GK-FRVIKVSIENEQGATAET--KKDWER---
+-----DYDKLIGPLLEKDPCYILYRLDAKIPLGYS----WLLISWTPDTASIRQKMVYASTKATLKTEFG
+SITEELHATTLDECTLE-------------------*
+>P1;gi|21358413|ref|NP_650338.1| twinfilin CG3172-PA [Drosophila mel... [ score 65 E 2e-10 ] [ range 182 .. 311 ] [ duplicate b ]
+sequence
+---------------LSEATVAAVQDL-V---------RGKHDYLQFRIDLEEEQIHVS--RA-AKV---
+-----ELADLPKQVPEDHARYHL--FLFRHTHEGDYFESYVFVYSMPGSCSVRERMMYSSCKAPFLDELA
+ALGVELEIDSGSELTEAFLQDEL-------------*
+>P1;gi|20839570|ref|XP_133608.1| similar to PTK9 protein tyrosine ki... [ score 64 E 8e-10 ] [ range 7 .. 131 ]
+sequence
+-------------IQTSEDVKEIFARARN---------GK---YRLLKISIENEQLVVG--SCSPEQ---
+-----DYDSFVLPLLEDQPCYVL----FRLDSQNAQGYEWIFIAWSPDHSHVLQKMLYVVTRATLKKEFG
+GIKDEVFGTVKEDISL--------------------*
+>P1;gi|7438537|pir||JC6308 glia maturation factor - nematode (Brugia... [ score 63 E 1e-09 ] [ range 24 .. 138 ]
+sequence
+---------------------------RR---------ERSTNALILKIDPVKDLIILD--DKLEDC---
+-----DPDMICDELPVDDPRYIVISYE-RVHDDGRLYSPLSLVFYSPSGCKPQLRMMYAGSRNNLARKCE
+LNRV-FEIREPDELTRELLELKL-------------*
+>P1;gi|30842809|ref|NP_851605.1| glia maturation factor, gamma [Ratt... [ score 63 E 1e-09 ] [ range 10 .. 138 ]
+sequence
+---------------VDPELKETLRKFRF---------RKNNAAIIMKVDKDRQMVVLE--DEFQNV---
+-----SPEELKLELPERQPRFVVYSYKY-VHDDGRVSYPLCFIFSSPVGCKPEQQMMYAGSKNRLVQELT
+KV-FEIRTTD--DLNETWLKEKL-------------*
+>P1;gi|19697925|dbj|BAB86591.1| glia maturation factor gamma [Homo s... [ score 62 E 2e-09 ] [ range 19 .. 139 ]
+sequence
+---------------------------------------RKFRFIIMKVDKDRQMVVLE--EEFQNI---
+-----SPEELKMELPERQPRFVVYSYKY-VHDDGRVSYPLCFIFSSPVGCKRKQQMMYAGSKNRLVQTAE
+LTKVEIRTTD--DLTEAWLQEKLS------------*
+>P1;gi|31202595|ref|XP_310246.1| ENSANGP00000015237 [Anopheles gambi... [ score 61 E 4e-09 ] [ range 64 .. 146 ] [ duplicate a ]
+sequence
+-----------------------------------------------------------------EK---
+-----DYDTLVRPLEESTPCYILYRLDYKIPTGYA----WLLMSWVPESATVRQKMLYASTKATLKLEFG
+SIKEELNATSKEETTLQ-------------------*
+>P1;gi|31202595|ref|XP_310246.1| ENSANGP00000015237 [Anopheles gambi... [ score 61 E 4e-09 ] [ range 196 .. 325 ] [ duplicate b ]
+sequence
+---------------IADAVAQALHDMRR---------G-GYNYLQFRIDEEEKIHLVK----ADNI---
+-----ELTGLPAQIPTDHARYHLYIFKHHHEGNYL--ESVVFVYSMPGSCSIRERMMYSSCKGPFSATIE
+GIQVKLEIDNGAELTEEFLHEEL-------------*
+>P1;gi|28279929|gb|AAH44672.1| Ptk9l-prov protein [Xenopus laevis] [ score 61 E 4e-09 ] [ range 50 .. 139 ]
+sequence
+-----------------------------------------------------------------EQ---
+-----DYDALVPLLDESQPCYILY----RLDSQNAQGYEWIFLSWSPDHSPVRLKMLYAATRATVKKEFG
+GIKDEIFGTLKEDVALSGYKKHVS------------*
+>P1;gi|6755224|ref|NP_036006.1| twinfilin-like protein; protein tyro... [ score 61 E 4e-09 ] [ range 50 .. 139 ] [ duplicate a ]
+sequence
+-----------------------------------------------------------------DQ---
+-----DYDRAVPLLDAQEPCYLL----FRLDSQNAQGFEWLFLAWSPDNSPVRLKMLYAATRATVKKEFG
+GIKDELFGTVKDDLSLAGYQKHLS------------*
+>P1;gi|6755224|ref|NP_036006.1| twinfilin-like protein; protein tyro... [ score 61 E 4e-09 ] [ range 182 .. 312 ] [ duplicate b ]
+sequence
+---------------LQPEAQRALQQLK----------QKTVNYIQLKLDLERETIELV--HT-EPT---
+-----NVAQLPSRIPRDAARYHF--FLYKHTHEGDALESVVFIYSMPGKCSIKERMLYSSCKSRLLDSVE
+QIAKKIEIGDGAELTAEFLYDEV-------------*
+>P1;gi|41054353|ref|NP_956019.1| PTK9 protein tyrosine kinase 9 [Dan... [ score 61 E 5e-09 ] [ range 7 .. 138 ]
+sequence
+-------------IQAADEVKDVFGNARN---------G---QYRLLKIVIENEELVLG--LTKPEE---
+-----DYDALLLPVLEQDPCYIL----FRLDSSNSLGHEWIFIAWSPDHSPVRHKMLYAATRATIKKELG
+HIKDEMFGTVKDDVSLSGYKKHV-------------*
+>P1;gi|34877180|ref|XP_344487.1| similar to Cofilin, non-muscle isof... [ score 61 E 6e-09 ] [ range 14 .. 99 ]
+sequence
+-------------VTVSDGVSEVFNKVEI---------RKSKKAVLFCLSEDTGNIILE--EG-------
+------------------------------------KEIL---------------MIYASSKDAIQKKLT
+GIKDELQASC-----YEVVKDRCT------------*
+>P1;gi|24584577|ref|NP_609787.2| CG5869-PA [Drosophila melanogaster]... [ score 60 E 7e-09 ] [ range 14 .. 137 ]
+sequence
+--------------------------LEE---------LKKFRFLILKVDREKQTVVLD--EFIDDI---
+-----SVDELQDTLPGHQPRYVIYTYK-MVHDDQRISYPMCFIFYTPRDSQIELQMMYACTKSALQREVD
+LTRV-YEIRELDELTEEWLKAKL-------------*
+>P1;gi|6005846|ref|NP_009215.1| twinfilin-like protein; protein tyro... [ score 60 E 8e-09 ] [ range 50 .. 139 ] [ duplicate a ]
+sequence
+-----------------------------------------------------------------DQ---
+-----DYDRAVPLLDAQQPCYLLY----RLDSQNAQGFEWLFLAWSPDNSPVRLKMLYAATRATVKKEFG
+GIKDELFGTVKDDLSFAGYQKHLS------------*
+>P1;gi|6005846|ref|NP_009215.1| twinfilin-like protein; protein tyro... [ score 60 E 8e-09 ] [ range 182 .. 312 ] [ duplicate b ]
+sequence
+---------------LQPEAQRALQQLK----------QKMVNYIQMKLDLERETIELV--HT-EPT---
+-----DVAQLPSRVPRDAARYHF--FLYKHTHEGDPLESVVFIYSMPGKCSIKERMLYSSCKSRLLDSVE
+QIAKKIEIGDGAELTAEFLYDEV-------------*
+>P1;gi|28829338|gb|AAO51880.1| hypothetical protein [Dictyostelium d... [ score 60 E 8e-09 ] [ range 6 .. 120 ]
+sequence
+-------------IEIDPNCVNEFEKLKK---------KYKIESIFLKLNDNFNLLYVE--KTLSKI---
+-----SQDDFLESIPVDQPRLIIY--------KKYSNNKIIFIRWIPEIVQDTIEYSYSNASTAILELLI
+GINEYMEVKDLIQLS---------------------*
+>P1;gi|29165811|gb|AAH49134.1| Glia maturation factor, beta [Mus mus... [ score 59 E 1e-08 ] [ range 19 .. 139 ]
+sequence
+---------------------------------------RKFRFIIMKIDKDERLVVLD--EELEGV---
+-----SPDELKDELPERQPRFIVYSYKY--QHDDGRVSPLCFIFSSPVGCKPEQQMMYAGSKNKLVQTAE
+LTKV-FEIRNTEDLTEEWLREKL-------------*
+>P1;gi|39588880|emb|CAE69510.1| Hypothetical protein CBG15718 [Caeno... [ score 59 E 2e-08 ] [ range 19 .. 137 ]
+sequence
+---------------------------------------KKFRFLILKIDRESHELQSE--QLLNDC---
+-----SIDEFKEELPSQQPRFVLLSWS-KKHSDERVSFPMLLIYYCPNGSSPELQMLYAGSRNFIVNECH
+-VSKNIEVRDIDEIDEDLLDSK--------------*
+>P1;gi|19075949|ref|NP_588449.1| putative tyrosine kinase [Schizosac... [ score 59 E 2e-08 ] [ range 26 .. 138 ] [ duplicate a ]
+sequence
+------------------------------------------RAAIISISNDVKTMVEK--SESIES---
+-----DFKKVRECLLSEEPAFVVYD--------DSKKNLLQLISYVPENANVRRKMLYASSRAAFVRTLA
+KLDESYFASTPEELDYQQIMKSLSK-----------*
+>P1;gi|19075949|ref|NP_588449.1| putative tyrosine kinase [Schizosac... [ score 59 E 2e-08 ] [ range 176 .. 300 ] [ duplicate b ]
+sequence
+-------------MSIDDKALKALSDLKS---------STENNLVILSIDKEVISLSQE--KQNIPP---
+-----S--DVKSFFSSTEPNFAFYSL-----PKDG-SSKILFIYICPMQATVKHRMVYSSSKDSIKAEL-
+GIVIDIESNDAADITEKEIL----------------*
+>P1;gi|118449|sp|P20690|DEPA_ASTAM DEPACTIN >gi|103585|pir||A29916 d... [ score 57 E 1e-07 ] [ range 6 .. 147 ]
+sequence
+--------------ALDENVKEEIRAFKM---------KVKVPWMLLEIQNDDRIDVVK--VTGPSD---
+-----NLETLREELKQREVVYFVLD--YEPSEEKRAKHNILTCFWSMETANIKLKMKYSSTVGTLKSATS
+TLKTYLEAHDFDDLSEEAIGDKI-------------*
+>P1;gi|34879598|ref|XP_344688.1| similar to Cofilin, non-muscle isof... [ score 55 E 2e-07 ] [ range 131 .. 176 ]
+sequence
+-------------------------------------------------------------ELSLND---
+-----PYTTFVKMLPDKDWRYALCDATYET--KESKKGDLLFIFWTP-----------------------
+------------------------------------*
+>P1;gi|6321517|ref|NP_011594.1| Twinfilin A is a member of a conserv... [ score 55 E 3e-07 ] [ range 29 .. 122 ] [ duplicate a ]
+sequence
+--------------------------------------------IIAKISPDSTS--VH--QTQVAR---
+-----SFEELVQLAQEREPLYIFY-------KPEGL-DKYFFVSFIPDGSPVRSRMLYASTKNTLARQVG
+SNSLSTEITDAQDL----------------------*
+>P1;gi|6321517|ref|NP_011594.1| Twinfilin A is a member of a conserv... [ score 55 E 3e-07 ] [ range 198 .. 266 ] [ duplicate b ]
+sequence
+--------------------------------------------IIFQIDPSNETIQIV--QSDTCP---
+-----SVDELYIDLP--GPSYTIF----------RQGDSSFFIYSCPSGSKVKDRMIYASNKNGF-----
+------------------------------------*
+>P1;gi|3322|emb|CAA36075.1| unnamed protein product [Saccharomyces c... [ score 54 E 6e-07 ] [ range 38 .. 139 ]
+sequence
+--------------------------------------------------NAKKEYEPE--STGS-----
+-----SFHDFLQSFDETKVQYGLA----RVSPPGSDVEKIIIIGWCPDSAPLKTRASFAANFAAVANNLK
+GYHVQVTARDEDDLDENELLMKISN---------AA*
+>P1;gi|45185335|ref|NP_983052.1| ABR105Cp [Eremothecium gossypii] >g... [ score 52 E 2e-06 ] [ range 184 .. 291 ] [ duplicate a ]
+sequence
+-------------------------------------------ALIFEIDLTDEQIKLR--TKKTPG---
+-----SAKALVAAMDRDRPSYTLY-------QDEGR---LFFIYTCPSGSKVKERMVYAANKQGFANYVN
+DSGFKISETDPEELELSALEPQSSQ---------PA*
+>P1;gi|32564848|ref|NP_871652.1| actin-binding, cofilin/tropomyosin ... [ score 51 E 5e-06 ] [ range 19 .. 114 ]
+sequence
+---------------------------------------KKFRFLILKIDRESHELQSE--QLLNDC---
+-----SIEEFKEELPSQQPRFILLSW-CKKHSDERISYPMLLIYYCPNGSSPELQMLYAGSRNFIVNE--
+------------------------------------*
+>P1;gi|19114493|ref|NP_593581.1| cofilin/tropomyosin-type actin bind... [ score 48 E 3e-05 ] [ range 23 .. 138 ]
+sequence
+--------------------------LRL---------KKSVMYFILKVDKATKEIVPD--EIMDLQ---
+-----SIEEVADELSETNPRFILVSYPTKTTDGR-LSTPLFMIYWRPSATPNDLSMIYASAKVWF-QDVS
+QVHKVFEARDSEDITSEAVDE---------------*
+>P1;gi|34852719|ref|XP_228196.2| similar to PTK9 protein typrotein t... [ score 48 E 4e-05 ] [ range 62 .. 153 ]
+sequence
+---------------------------------------RLIRVII----EDEQLVLGA--SQEPDQ---
+-----DYDDVLPLLDAQEPCYLL----FQLDSQNAQGFEWLFLAWSPDNSPVQLKKLYAATRATFK-EFG
+GGHIK-------------------------------*
+>P1;gi|40746901|gb|EAA66057.1| hypothetical protein AN0184.2 [Asperg... [ score 47 E 8e-05 ] [ range 28 .. 115 ]
+sequence
+---------------------------------------KEPQAIIYIIDAKSQEIRAE--DGEVYT---
+-----KMEDLADELPESSPRFILLSYPLTLGSGRLAVP-YVLLYYLPENCNPNQRMMYAGAVELMRNT--
+------------------------------------*
+>P1;gi|28829972|gb|AAO52462.1| similar to Homo sapiens (Human). Prot... [ score 47 E 8e-05 ] [ range 26 .. 131 ] [ duplicate a ]
+sequence
+---------------------------------------RLIKVVI----KNDELVVDQ--KLNVQS---
+-----DFETDLELLQKDSPCYILY--KKDDKSIELTGYNWIFMFFVPDNAKVREKMTYAATRGNLKRELG
+ASHFEIYSSNMNDFS---------------------*
+>P1;gi|28829972|gb|AAO52462.1| similar to Homo sapiens (Human). Prot... [ score 47 E 8e-05 ] [ range 193 .. 315 ] [ duplicate b ]
+sequence
+----------------------------I---------NKKFNYIELSVNDDEKIIF----SSSSNI---
+-----DIEAISSKISSTEPSFHFFRYSHQHEGENL--DSIIYIYSCPDSAPVRKRMLFSSSKANVEQLVT
+SIDLKLEINSPSEISEESIINEL-------------*
+>P1;gi|32414637|ref|XP_327798.1| hypothetical protein [Neurospora cr... [ score 47 E 1e-04 ] [ range 5 .. 134 ]
+sequence
+-------------ISASKELVSQFNDLLG---------SPSTFGLLINIANEQLQPIQT--LTSSPS---
+-----SFASNVDTLKEKEALYIILR-RYDSSPA------LVAVTYVPDTAPVRQKMLFASTRLTLVRELG
+SEHFRIFATNAKELTSQGFEK---------------*
+>P1;gi|584708|sp|P38479|ABP1_SACEX ACTIN BINDING PROTEIN >gi|631909|... [ score 46 E 1e-04 ] [ range 47 .. 120 ]
+sequence
+---------------------------------------------------------------STGS---
+-----SFSDFLQSFDETKVEYGIA----RVSPPGSDVGKIILVGWCPDSAPMKTRASFAANFGTIANSLP
+GYHIQVTA----------------------------*
+>P1;gi|38090949|ref|XP_356515.1| similar to Cofilin, non-muscle isof... [ score 46 E 2e-04 ] [ range 90 .. 160 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------PEEVKKRKAVLFFLSEDKKNIKTKMICASSKDAIKKKVT
+GIKHELQANCYEEADRGTLAEKL-------------*
+>P1;gi|40742150|gb|EAA61340.1| hypothetical protein AN7289.2 [Asperg... [ score 45 E 2e-04 ] [ range 292 .. 350 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------IIFIYTCPSGSSIKERMLYASSRQGLK----
+-ILKKIEAGAPDEVTGERLQEEVN------------*
+>P1;gi|45200860|ref|NP_986430.1| AGL237Cp [Eremothecium gossypii] >g... [ score 44 E 5e-04 ] [ range 74 .. 161 ]
+sequence
+----------------------------------------------------------------------
+------FGEFLGSFDESKVEFGLA----RVSPPGSDVEKLLLVGWCPDSAPLKTRASFTSNFAAVARILK
+AYHVQVTARDEDDLNERELLMKISN---------AA*
+>P1;gi|31220026|ref|XP_316866.1| ENSANGP00000017848 [Anopheles gambi... [ score 44 E 6e-04 ] [ range 102 .. 209 ]
+sequence
+-----------------------------------------HEWAVFKFDGLK--IVCS--AKG--Q---
+-----GFQEFCAQFHDDERAFGYIRI--QMGDEMSKRSKFLFLTWGPEGVMQRAKM--STDKSIIKDVIN
+NFAVELQVETSVDLDLEMFKAHLNK-----------*
+>P1;gi|17366768|sp|Q9FVI2|ADF1_PETHY Actin-depolymerizing factor 1 (... [ score 214 E 3e-55 ] [ range 7 .. 139 ]
+sequence
+------------GMAVHDDCKLRFLELKA---------KRTHRFIVYKIEEKQKQVVVE--KIGEPTE--
+-----SYEDFAASLPENECRYAVYDFDFVT-EN-CQKSRIFFIAWCPDTARVRSKMIYASSKDRFKRELD
+GIQVELQACDPTEMGLDVIQSRAN------------*
+>P1;gi|38564721|gb|AAR23800.1| putative actin-depolymerizing factor ... [ score 213 E 7e-55 ] [ range 7 .. 139 ]
+sequence
+------------GMAVHDECKLKFMDLKA---------KRTHRFIIYKIEEKQKQVMVE--KVGEPAQ--
+-----TYDEFAACLPENECRYAVFDYDFTP-EG-VQKSRIFFIAWSPDTARVRNKMIYASSKDRFKRELD
+GIQVELQATDASEMGLDVIQSRAN------------*
+>P1;gi|30697295|ref|NP_851227.1| actin-depolymerizing factor 3 (ADF3... [ score 212 E 1e-54 ] [ range 7 .. 139 ]
+sequence
+------------GMAVHDDCKLKFMELKT---------KRTHRFIIYKIEELQKQVIVE--KIGEPGQ--
+-----THEDLAASLPADECRYAIFDFDFSS-EG-VPRSRIFFVAWSPDTARVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMDLDVFKSRAN------------*
+>P1;gi|15231309|ref|NP_190187.1| actin-depolymerizing factor 1 (ADF1... [ score 211 E 4e-54 ] [ range 7 .. 139 ]
+sequence
+------------GMAVHDDCKLRFLELKA---------KRTHRFIVYKIEEKQKQVVVE--KVGQPIQ--
+-----TYEEFAACLPADECRYAIYDFDFVT-EN-CQKSKIFFIAWCPDIAKVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMDLDVFRSRAN------------*
+>P1;gi|30697300|ref|NP_851228.1| actin-depolymerizing factor 4 (ADF4... [ score 208 E 2e-53 ] [ range 7 .. 139 ]
+sequence
+------------GMAVHDDCKLRFLELKA---------KRTHRFIVYKIEEKQKQVIVE--KVGEPIL--
+-----TYEDFAASLPADECRYAIYDFDFVT-EN-CQKSKIFFIAWCPDVAKVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMDLDVLKSRVN------------*
+>P1;gi|15223471|ref|NP_171680.1| actin-depolymerizing factor, putati... [ score 206 E 6e-53 ] [ range 7 .. 139 ]
+sequence
+------------GMHVSDECKLKFLELKA---------KRNYRFIVFKIDEKAQQVMID--KLGNPEE--
+-----TYEDFTRSIPEDECRYAVYDYDFTT-EN-CQKSKIFFIAWSPDTSRVRSKMLYASSKDRFKRELD
+GIQVELQATDPSEMSLDIIKGRVN------------*
+>P1;gi|231509|sp|P30175|ADF_LILLO Actin-depolymerizing factor (ADF) ... [ score 202 E 9e-52 ] [ range 7 .. 138 ]
+sequence
+------------GMAVDDECKLKFMELKA---------KRNFRFIVFKIEEKVQQVTVE--RLGQPNE--
+-----SYDDFTECLPPNECRYAVFDFDFVT-EN-CQKSKIFFISWSPDTSRVRSKMLYASTKDRFKRELD
+GIQVELQATDPSEMSMDIIKARA-------------*
+>P1;gi|22857914|gb|AAL91667.1| pollen specific actin-depolymerizing ... [ score 202 E 1e-51 ] [ range 7 .. 136 ]
+sequence
+------------GMAVLDECKLKFLELKA---------KRNYRFIVFKIEG--QQVVVE--KLGNPEE--
+-----NYDDFTNSLPADECRYAVFDFDFTT-EN-CQKSKIFFIAWSPDTSKVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIIKSRA-------------*
+>P1;gi|18411410|ref|NP_567182.1| actin-depolymerizing factor, putati... [ score 201 E 2e-51 ] [ range 7 .. 139 ]
+sequence
+------------GMHVNDECKIKFLELKA---------KRTYRFIVFKIDEKAQQVQIE--KLGNPEE--
+-----TYDDFTSSIPDDECRYAVYDFDFTT-EN-CQKSKIFFIAWSPDTSRVRSKMLYASSKDRFKREME
+GIQVELQATDPSEMSLDIIKGRLN------------*
+>P1;gi|38345587|emb|CAE01864.2| OSJNBb0012E24.5 [Oryza sativa (japon... [ score 201 E 3e-51 ] [ range 7 .. 138 ]
+sequence
+------------GMAVGDECKLKFQELKS---------KRSFRFITFKIDERTQQVVVD--RLGQPGD--
+-----TYDDFTASMPASECRYAVFDFDFVT-EN-CQKSKIFFISWSPDTSKVRSKMLYASSKDRFKRELD
+GIQVELQATDPSEMSMDIVKARA-------------*
+>P1;gi|18423381|ref|NP_568769.1| actin-depolymerizing factor, putati... [ score 201 E 3e-51 ] [ range 7 .. 136 ]
+sequence
+------------GMAVEDECKLKFLELKA---------KRNYRFIIFRIDG--QQVVVE--KLGSPQE--
+-----NYDDFTNYLPPNECRYAVYDFDFTT-EN-IQKSKIFFIAWSPDSSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSLDIIKSRA-------------*
+>P1;gi|18408116|ref|NP_566882.1| actin-depolymerizing factor, putati... [ score 199 E 1e-50 ] [ range 7 .. 135 ]
+sequence
+------------GMAVHDDCKLKFMELKA---------KRTFRTIVYKIED--KQVIVE--KLGEPEQ--
+-----SYDDFAASLPADDCRYCIYDFDFVT-EN-CQKSKIFFIAWSPDTAKVRDKMIYASSKDRFKRELD
+GIQVELQATDPTEMGLDVFKSR--------------*
+>P1;gi|1168345|sp|P46251|ADF1_MAIZE Actin-depolymerizing factor 1 (A... [ score 198 E 2e-50 ] [ range 7 .. 137 ]
+sequence
+------------GLAVNDECKVKFRELKS---------RRTFRFIVFRIDDTDMEIKVD--RLGEPNQ--
+-----GYGDFTDSLPANECRYAIYDLDFTT-EN-CQKSKIFFFSWSPDTARTRSKMLYASSKDRFRRELD
+GIQCEIQATDPSEMSLDIVRSR--------------*
+>P1;gi|22857912|gb|AAL91666.1| pollen specific actin-depolymerizing ... [ score 198 E 2e-50 ] [ range 7 .. 136 ]
+sequence
+------------GMAVQDECKLKFLELKT---------KRNYRFIIFKIDG--QEVVVE--KLGSPEE--
+-----SYEDFANSLPADECRYAVFDLDFIT-EN-CQKSKIFFIAWSPETSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIVKARA-------------*
+>P1;gi|17366523|sp|Q43694|ADF2_MAIZE Actin-depolymerizing factor 2 (... [ score 196 E 9e-50 ] [ range 7 .. 137 ]
+sequence
+------------GLAVSDECKVKFRDLKA---------RRSFRFIVFRIDDKDMEIKVD--RLGEPNQ--
+-----GYGDFTDSLPADECRYAIYDLDFTT-EN-CQKSKIFFFSWSPDTARTRSKMLYASSKDRFRRELD
+GIQCEIQATDPSEMSLDIVKSR--------------*
+>P1;gi|22831338|dbj|BAC16183.1| putative actin-depolymerizing factor... [ score 195 E 1e-49 ] [ range 7 .. 138 ]
+sequence
+------------GLAVNDECKFKFQELKT---------RRGFRFIVFKIDDKAMEIKVE--RLGQTAE--
+-----GYEDFAATLPADECRYAVYDLDFVT-EN-CQKSKIFFFSWSPDTARTRSKMLYASSKDRFRRELD
+GIQCEIQATDPSEMSLDIIRARA-------------*
+>P1;gi|15235159|ref|NP_194289.1| actin-depolymerizing factor, putati... [ score 195 E 2e-49 ] [ range 1 .. 129 ]
+sequence
+-------------MAVEDECKLKFLELKS---------KRNYRFIIFRIDG--QQVVVE--KLGNPDE--
+-----TYDDFTASLPANECRYAVFDFDFIT-EN-CQKSKIFFIAWSPDSSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIIKSRA-------------*
+>P1;gi|7330254|gb|AAF60173.1| actin depolymerizing factor [Elaeis gu... [ score 191 E 2e-48 ] [ range 5 .. 137 ]
+sequence
+------------GMGVADDSKSTFLELKR---------KKVHRYVIFMIDEKKKEVVVE--KTGGPGE--
+-----SYDDFTAALPVNDCRYAVYDFDFVT-EN-CQKSKIFFISWSPSVSRIRSKMLYATSKDRFRHELD
+GVHYEIQATDPTEMDLEVLRDRAK------------*
+>P1;gi|17366520|sp|Q41764|ADF3_MAIZE Actin-depolymerizing factor 3 (... [ score 188 E 2e-47 ] [ range 7 .. 139 ]
+sequence
+------------GVAVNDECMLKFGELQS---------KRLHRFITFKMDDKFKEIVVD--QVGDRAT--
+-----SYDDFTNSLPENDCRYAIYDFDFVT-ED-VQKSRIFYILWSPSSAKVKSKMLYASSNQKFKSGLN
+GIQVELQATDASEISLDEIKDRAR------------*
+>P1;gi|29124123|gb|AAO65864.1| putative actin depolymerizing factor ... [ score 187 E 4e-47 ] [ range 7 .. 139 ]
+sequence
+------------GVAIHDDCKLKFNELQS---------KRMHRFITFMMDNKGKEIIVD--KIGDRTT--
+-----SYEDFTSSLPEGDCRFAIYDFDFTA-ED-VPKSRIFYILWSPDNAKVRSKMLYASSNERFKKELN
+GIQLEVQATDAGEISLDALKDRVK------------*
+>P1;gi|18398187|ref|NP_565390.1| actin-depolymerizing factor 5 (ADF5... [ score 187 E 5e-47 ] [ range 11 .. 143 ]
+sequence
+------------GMRVTDECTSSFMDMKW---------KKVHRYIVFKIEEKSRKVTVD--KVGGAGE--
+-----SYHDLEDSLPVDDCRYAVFDFDFTV-DN-CRKSKIFFIAWSPEASKIRAKILYATSKDGLRRVLE
+GIHYELQATDPTEMGFDIIQDRAK------------*
+>P1;gi|1705976|sp|P54706|COFI_DICDI Cofilin >gi|1616994|dbj|BAA07198... [ score 180 E 3e-45 ] [ range 4 .. 136 ]
+sequence
+------------GIALAPNCVSTFNDLKL---------GRKYGGIIYRISDDSKEIIVD--STLPAGC--
+-----SFDEFTKCLPENECRYVVLDYQYKE-EG-AQKSKICFVAWCPDTANIKKKMMATSSKDSLRKACV
+GIQVEIQGTDASEVKDSCFYEKCTK-----------*
+>P1;gi|6322978|ref|NP_013050.1| yeast cortical cytoskeleton componen... [ score 179 E 1e-44 ] [ range 5 .. 138 ]
+sequence
+------------GVAVADESLTAFNDLKL---------GKKYKFILFGLNDAKTEIVVK--ETS-TDP--
+-----SYDAFLEKLPENDCLYAIYDFEYEI-NG-GKRSKIVFFTWSPDTAPVRSKMVYASSKDALRRALN
+GVSTDVQGTDFSEVSYDSVLERVSR-----------*
+>P1;gi|15236233|ref|NP_195223.1| actin-depolymerizing factor, putati... [ score 179 E 1e-44 ] [ range 3 .. 130 ]
+sequence
+-----------------DDCKKSFMEMKW---------KKVHRYVVYKLEEKSRKVTVD--KVGAAGE--
+-----SYDDLAASLPEDDCRYAVFDFDYTV-DN-CRMSKIFFITWSPEASRIREKMMYATSKSGLRRVLD
+GVHYELQATDPTEMGFDKIQDRAK------------*
+>P1;gi|11066101|gb|AAG28460.1| actin depolymerization factor-like pr... [ score 176 E 7e-44 ] [ range 7 .. 141 ]
+sequence
+------------GVAVNEECVKVFQELRA---------ERKHRFVVYKMDDDEQQVVVD--KVGALDA--
+-----TFDDLAAAMPADDCRYAVYDLDFVS-ED-SPRSKIFFIHWSPEAADARSKMVYASSTEGLKKELD
+GVQIDVQATDASELTLDILKD---------------*
+>P1;gi|231508|sp|P30174|ADF_BRANA ACTIN DEPOLYMERIZING FACTOR (ADF) ... [ score 170 E 4e-42 ] [ range 2 .. 125 ]
+sequence
+-----------------DNCKLKFLELK------------KRIFRFIIFRIDGQQVVVE--KLGNPQE--
+-----TYDDFTASLPADECRYAVFDFDFTT-EN-CQKSKIFFIAWSPDSSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIIKSRA-------------*
+>P1;gi|34865920|ref|XP_236624.2| similar to Rbm6 protein [Rattus nor... [ score 169 E 1e-41 ] [ range 399 .. 539 ]
+sequence
+------------GVAVSDGVIKVFNDMKV---------KKHKKTVLFCLSEDKKNIILE--EVGDVDD--
+-----PYTTFVKMLPDKDCRYALYDATYET-KE-SKKEDLVFIFWTPESAPLKSKMIYASSKDAIKKKLT
+GIKHELQANCYEEVKD--------------------*
+>P1;gi|12861068|dbj|BAB32114.1| unnamed protein product [Mus musculus] [ score 166 E 9e-41 ] [ range 4 .. 152 ]
+sequence
+------------GVAVSDGVIKVFNDMKV---------RKSKKAVLFCLSEDKKNIILE--EVGDVDD--
+-----PYTTFVKMLPDKDCRYALYDATYET-KE-SKKEDLVFIFWAPENAPLKSKMIYASSKDAIKKKLT
+GIKHELQANCYEKVKDRCLAEK--------------*
+>P1;gi|15231305|ref|NP_190185.1| actin-depolymerizing factor, putati... [ score 162 E 1e-39 ] [ range 1 .. 133 ]
+sequence
+-------------MVLHDDCKLTFLELKE---------RRTFRSIVYKI-EDNMQVIVE--KHGEREQ--
+-----SYEEFANSLPADECRYAILDIEFVP-GE-R---KICFIAWSPSTAKMRKKMIYSSTKDRFKRELD
+GIQVEFHATDLTDISLDAIRRRIN------------*
+>P1;gi|38105102|gb|EAA51569.1| hypothetical protein MG03164.4 [Magna... [ score 162 E 2e-39 ] [ range 5 .. 149 ]
+sequence
+------------GATVSQECVTTYNELKL---------GKNIKYIIFKLSDNNKEIVVE--EASG-DS--
+-----DWENFRNKLVNKAPRYAVYDFQYTS-GE-GERNKITFIAWSPDDAGVKPKMIYAASKDALKRALN
+GIAHELQANDADDIEYDSVLKTVSK-----------*
+>P1;gi|34852087|ref|XP_345074.1| similar to destrin - rat [Rattus no... [ score 155 E 1e-37 ] [ range 17 .. 164 ]
+sequence
+------------GVQVADEVCRIFYDMKI---------KKRNKAVIFCLSADKKCIVVE--EVGDVGD--
+-----PFKHFVGMLPEKDCRYALYDASFET-KE-SRKEELMFFLWAPEQAPLKSKMIYASSKDAIKKKFP
+GIKHEYQANGPEDLNRTSIAEK--------------*
+>P1;gi|2624592|pdb|1AK6|  Destrin, Nmr, Minimized Average Structure ... [ score 155 E 1e-37 ] [ range 13 .. 160 ]
+sequence
+------------GVQVADEVCRIFYDMKI---------KKRKKAVIFCLSADKKCIIVE--EVGDVGD--
+-----PFKHFVGMLPEKDCRYALYDASFET-KE-SRKEELMFFLWAPELAPLKSKMIYASSKDAIKKKFQ
+GIKHECQANGPEDLNRACIAEK--------------*
+>P1;gi|34861691|ref|XP_219433.2| similar to Cofilin, non-muscle isof... [ score 155 E 2e-37 ] [ range 4 .. 153 ]
+sequence
+------------GVAVSDGVIKVFNDMKV---------KKHKKAVLLWLSEDKKNIILE--EVGDVDD--
+-----PYTTFVKMLPDKDCHYALYDATYET-KE-SKKEDLAFIFWAPESAPLQNKMIYASSKDAIQRKLT
+GIKHELQANCYKEVKDRCLAEK--------------*
+>P1;gi|30583907|gb|AAP36202.1| Homo sapiens cofilin 1 (non-muscle) [... [ score 154 E 4e-37 ] [ range 4 .. 152 ]
+sequence
+------------GVAVSDGVIKVFNDMKV---------RKSKKAVLFCLSEDKKNIILE--EVGDVGQ--
+-----TVDDFVKMLPDKDCRYALYDATYET-KE-SKKEDLVFIFWAPESAPLKSKMIYASSKDAIKKKLT
+GIKHELQANCYEEVKDRCLAEK--------------*
+>P1;gi|34865596|ref|XP_345675.1| similar to cofilin [Rattus norvegicus] [ score 154 E 5e-37 ] [ range 34 .. 182 ]
+sequence
+------------GVTVNDEVIKVFNDMKV---------RKSKKAVLFCLSDDKRQIIVE--EVGDIGD--
+-----TVEDFVKLLPLNDCRYALYDATYET-KE-SKKEDLVFIFWAPESAPLKSKMIYASSKDAIKKKFT
+GIKHEWQVNGLDDIDRSTLGEK--------------*
+>P1;gi|45382979|ref|NP_990859.1| destrin; actin depolymerizing facto... [ score 153 E 6e-37 ] [ range 4 .. 151 ]
+sequence
+------------GVQVADEVCRIFYDMKV---------RKCKKAVIFCLSPDKKCIIVE--EVGDVGD--
+-----PFKHFVEMLPEKDCRYALYDASFET-KE-SKKEELMFFLWAPEQAPLKSKMIYASSKDAIKKKFQ
+GIKHECQANGPEDLNRACIAEK--------------*
+>P1;gi|45387807|ref|NP_991263.1| hypothetical protein zgc:77288 [Dan... [ score 151 E 3e-36 ] [ range 4 .. 152 ]
+sequence
+------------GVTVSDEVIKVFNDMKV---------RKSKKAVLFCLSDDKKKIIVE--EVGDIGD--
+-----SVDDFVKLLPLNDCRYGLYDATYET-KE-SKKEDLVFIFWAPEGAPLKSKMIYASSKDAIKKKFT
+GIKHEWQVNGLDDIDRSTLAEK--------------*
+>P1;gi|37681759|gb|AAQ97757.1| muscle cofilin 2 [Danio rerio] [ score 150 E 7e-36 ] [ range 4 .. 149 ]
+sequence
+------------GVTVEETVLTVFNEMKV---------RKAHKAVMFCLSDDKKHIIME--QQGDEGD--
+-----PYLKFVKMLPPNDCRYALYDATYET-KE-TKKEDLVFIFWAPESAPLKSKMIYASSKDAIKKKFT
+GIKHEWQVNGMDDIDRKTLAEK--------------*
+>P1;gi|42550893|gb|EAA73736.1| hypothetical protein FG06245.1 [Gibbe... [ score 149 E 8e-36 ] [ range 2 .. 140 ]
+sequence
+------------------DCITAFNDLKL---------NKKYKFIVYKLSDDYKEIVID--KASESRD--
+------WEDFRETLVNKGPRYAVYDFEYNS-GD-GIRNKITFIAWSPDDAGIQPKMIYASSKEALKRSLT
+GIATELQANDTDDIEYDSILKTVSK-----------*
+>P1;gi|31196949|ref|XP_307422.1| ENSANGP00000023741 [Anopheles gambi... [ score 149 E 1e-35 ] [ range 3 .. 142 ]
+sequence
+------------GVTVSDVCKTTYEEIKK---------DKKHRYVIFYIR-DEKQIDVE--VIGDRNA--
+-----EYDSFLEDIQKGECRYGLFDFEYTS-ES-SKKQKLFLMSWCPDTAKVKKKMLYSSSFDALKKSLV
+GVQKYIQATDLSEASREAVEEKLR------------*
+>P1;gi|17136986|ref|NP_477034.1| twinstar CG4254-PA [Drosophila mela... [ score 149 E 2e-35 ] [ range 4 .. 143 ]
+sequence
+------------GVTVSDVCKTTYEEIKK---------DKKHRYVIFYIR-DEKQIDVE--TVADRNA--
+-----EYDQFLEDIQKGECRYGLFDFEYTS-ES-SKKQKLFLMSWCPDTAKVKKKMLYSSSFDALKKSLV
+GVQKYIQATDLSEASREAVEEKLR------------*
+>P1;gi|1168995|sp|P45593|COF2_XENLA COFILIN 2 >gi|551635|dbj|BAA0746... [ score 149 E 2e-35 ] [ range 4 .. 145 ]
+sequence
+------------GVMVSDDVVKVFNDMKV---------RHQKKAVIFCLSDDKKTIILE--DVGNVED--
+-----PYKTFVKMLPRNDCRYALYDALYET-KE-TKKEDLVFVFWAPEEASLKSKMIYASSKDAIRKRFT
+GIKHEWQTNTYDDIND--------------------*
+>P1;gi|16416030|emb|CAB91380.2| related to cofilin [Neurospora crassa] [ score 148 E 2e-35 ] [ range 5 .. 150 ]
+sequence
+------------GVQVDPECRRAFDKL-M---------SRQLRYIIYKLSDDFKEIVIE--STSGATE--
+-----NYDEFREKLVNKGPRYAVYDFEYKS-GE-GSRNKVTFIAWSPDDAGIKSKMVYASSKEALKRSLS
+GIAVELQANEQDDIEYEQIIKTVSK-----------*
+>P1;gi|1168993|sp|P45695|COF1_XENLA COFILIN 1 >gi|837296|gb|AAB00540... [ score 148 E 2e-35 ] [ range 4 .. 145 ]
+sequence
+------------GVMVSDDVIKVFNEMKV---------RHQKKAVVFCLSDDKKTIILE--DIGNVED--
+-----PYKTFVKMLPRNDCRYALYDALYET-KE-TKKEDLVFVFWAPEEASLKSKMIYASSKDAIKKRLP
+GIKHEWQINTYEDVND--------------------*
+>P1;gi|45501105|gb|AAH67328.1| Unknown (protein for MGC:76274) [Xeno... [ score 146 E 7e-35 ] [ range 4 .. 145 ]
+sequence
+------------GVMVSDDVIKVFNDMKV---------RHQKKAVVFCLSEDKKMIILE--DVGNVDD--
+-----PYKAFVKMLPRNDCRYALYDALYET-KE-TKKEDLVFVFWAPEEASLKSKMIYASSKDAIKKRFP
+GIKHEWQTNTFEDIND--------------------*
+>P1;gi|33772153|gb|AAQ54513.1| actin-depolymerizing factor [Malus x ... [ score 142 E 1e-33 ] [ range 1 .. 94 ]
+sequence
+----------------------------A---------KRTYRSIVFKIEEKQKQVVVE--HVGEPAE--
+-----TYEQFTEKLPAHECRYAIFDFDFTP-EG-VQKSRIFFIAWSPDTSRVRSKMIYASSKDRFKRELD
+G-----------------------------------*
+>P1;gi|24643098|ref|NP_573321.1| CG6873-PA [Drosophila melanogaster]... [ score 142 E 1e-33 ] [ range 4 .. 143 ]
+sequence
+------------GINLSRECQHVFEQIRK---------LKQHRYAVFVIQ-DEREIKVE--VLGVREA--
+-----NYDDFLADLQRNQCRFAVYDYEYQH-QT-CLKEKLILMLWCPTLARIKDKMLYSSTFAVLKREFP
+GVQKCIQATEPEEACRNAVEEQLR------------*
+>P1;gi|34855438|ref|XP_218399.2| similar to sid23p [Rattus norvegicus] [ score 142 E 2e-33 ] [ range 145 .. 266 ]
+sequence
+------------GVQVAIEVCRIFYNMKC---------------IVI---EEGKEILVG--DIGVTTD--
+-----PFKHFVGMLPEKDCRYALYDASFET-KE-SRKEELMFFLWAPEQAPLKSKMIYASSKEAIKKKFP
+GIKHKYQANGPEDLSRTSIAEK--------------*
+>P1;gi|15076600|dbj|BAB62414.1| cofilin-2 [Dictyostelium discoideum]... [ score 136 E 8e-32 ] [ range 12 .. 138 ]
+sequence
+-------------VKLSPECQQYYQDVRI---------KNKYQGVVYKINKESNQMIID--KTFPNDC--
+-----NFNELTQCFKENECCIIVFKY---V-IS-NSQSKLFFIYWGSETAPQTDKVLYSNAKLTLAITLK
+GIDIKIAGTKKSELTEEIFKERA-------------*
+>P1;gi|2342858|gb|AAC47717.1| actin depolymerizing factor [Toxoplasm... [ score 134 E 3e-31 ] [ range 4 .. 114 ]
+sequence
+------------GMGVDENCVARFNELKI---------RKTVKWIVFKI--ENTKIVVE--KDGKGNA--
+-------DEFRGALPANDCRFAVYNC----------GNKIQFVLWCPDNAPVKPRMTYASSKDALLKKLD
+GTAVALEAHEMGDL----------------------*
+>P1;gi|28828705|gb|AAO51300.1| hypothetical protein [Dictyostelium d... [ score 133 E 6e-31 ] [ range 10 .. 134 ]
+sequence
+--------------KISPECQTHFQDIKF---------RNKYQGILLKVNEES-NMVVD--KTLVAEG--
+-----EFSELAQSLPTDQCRIIIYRYK-----S-GEGSKLFFIYWGPDSAPQQDKLIYGNAKVTLAITLK
+GIDHKISASNLKEISEQVFIDRIT------------*
+>P1;gi|39592862|emb|CAE62476.1| Hypothetical protein CBG06573 [Caeno... [ score 128 E 3e-29 ] [ range 4 .. 144 ]
+sequence
+------------GVKVDPSCKNAYDLLHN---------KHQHSYIIFKIDKNDTAIVVE--KVGDKNA--
+-----PYSEFVEEMKKKECRYAAVDVEVTV-GA-STLNKVIFVQYCPDNAPVRRRMLYASSVRALKASL-
+GLEFQVQASEMSDLDEKVVKS---------------*
+>P1;gi|23619535|ref|NP_705497.1| actin-depolymerizing factor, putati... [ score 127 E 6e-29 ] [ range 4 .. 137 ]
+sequence
+------------GVKVSDECVYEFNKLKI---------KHIHKYIIYRI-ENYEEVIVD--FLEQDNS--
+-----SYKDIRNNLKTTECRYIIADMPPTP-EG-VLRNRIYFIFWSPDLAKSKEKMLYASSKEYLVRKIN
+GIFKSLEITCDLEDFEDELR----------------*
+>P1;gi|40745272|gb|EAA64428.1| hypothetical protein AN2317.2 [Asperg... [ score 127 E 6e-29 ] [ range 6 .. 156 ]
+sequence
+------------GVQVQDECITAFNNLRM---------GSKPKFIIFKISDDKKQVVVD--ETSD-DP--
+-----DYETFLNKLGDKDPRYAVYDVEYDL-GG-GERSKIIFISWVPSGTSINASMIYASTREVLKNALN
+-VVTSIHADDKGDLAWKSILAEVS------------*
+>P1;gi|22795041|gb|AAN05421.1| putative actin-depolymerizing factor ... [ score 127 E 6e-29 ] [ range 1 .. 80 ]
+sequence
+----------------------------------------------------------------------
+-------------LPDDDCRYAVFDFDFTV-DN-CRKSKIFFIAWAPTASRIRAKMLYATSKDGLRRVLE
+GVHYELQATDPTEMGFDLIRDRAK------------*
+>P1;gi|29436473|gb|AAH49463.1| Similar to cofilin 1 [Danio rerio] >g... [ score 126 E 8e-29 ] [ range 4 .. 148 ]
+sequence
+------------GVAISDDVIAHYELIRV---------RLQFKLVVMRLSDDLKNIIVD--EVENEKD--
+-----VFKKIISMLPPKECRYALYDCKYTN-KE-SVKEDLVFIFSAPDDAPMRSKMLYASSKNALKAKLP
+GMKFEWQINDNADKDASSLVEK--------------*
+>P1;gi|27924273|gb|AAH45044.1| MGC53245 protein [Xenopus laevis] [ score 126 E 9e-29 ] [ range 4 .. 141 ]
+sequence
+------------GVRIDDCISAEFQEMKL---------RKSKKKVIFFCFDKEKEILVD--HKGD-----
+-----FFQTLKSMFPEKKCCYALIDVNYST-GE-TLRQDLMFVMWTPDTATIKQKMLFASSKSSLKQALP
+GVQKQWEIQSREDLTLQQLAEKIS------------*
+>P1;gi|32566130|ref|NP_503427.2| UNCoordinated locomotion UNC-60 (un... [ score 125 E 1e-28 ] [ range 4 .. 144 ]
+sequence
+------------GVKVDPSCKNAYDLLHN---------KHQHSYIIFKIDKNDTAIVVE--KVGEKNA--
+-----PYAEFVEEMKKKECRYAAVDVEVTV-QR-STLNKVIFVQYCPDNAPVRRRMLYASSVRALKASL-
+GLEFQVQASEMSDLDEKSVKS---------------*
+>P1;gi|29841150|gb|AAP06163.1| similar to GenBank Accession Number Z... [ score 125 E 2e-28 ] [ range 4 .. 134 ]
+sequence
+------------GITPTDECEIHYNALKM---------NKVYRYILFTITGSK--IDVM--KKAKRDS--
+-----SFQDFIDDLKDSGC-YAVIDYEG---EG-VKGSNLIFVSWVPDKATTRMKMLYASSREHLKARFQ
+GLKGDLQADDISEVTESALASKAKE-----------*
+>P1;gi|23485107|gb|EAA20214.1| actin-depolymerizing factor 3 [Plasmo... [ score 124 E 4e-28 ] [ range 4 .. 135 ]
+sequence
+------------GVNVSDECIYEFNRLKV---------KHLHKYIIYKIENLE-QIVVD--ELTSLDN--
+-----IIMRIKNNLKNTECRYIIADMPPTP-EG-VLRDRIYFIFWSPGLSKPKEKMLYAASKESLVRKIN
+GIFKSLEITDIDEFEEE-------------------*
+>P1;gi|34877158|ref|XP_346064.1| similar to Cofilin, non-muscle isof... [ score 122 E 2e-27 ] [ range 5 .. 118 ]
+sequence
+----------------------------V---------KKCKKALLLCLSEDKKNIILE--EVGDVDD--
+-----PYTTFVKILPDKNCCYALYDTTYET-KE-SKKEDLVFIFWTPKGAPLKSKMIYASSKDGIQKKLT
+GIKYELQANCCEE-----------------------*
+>P1;gi|34871659|ref|XP_343925.1| similar to Cofilin, non-muscle isof... [ score 118 E 3e-26 ] [ range 14 .. 150 ]
+sequence
+------------GVAVSDGVIKVFNDMKM---------CKSSRPVLFCIPEEGKEMLVA--DVGPTND--
+-----PLLHFCQDAARQGLTGATLS-RMQP-RR-ARRTNLLFNFWAPESAPLQSKMICASSKDAIKKNLT
+GIKHELQANCFEE-----------------------*
+>P1;gi|43387800|gb|EAD58427.1| unknown [environmental sequence] [ score 116 E 1e-25 ] [ range 26 .. 111 ]
+sequence
+----------------------------------------------------------------------
+------FQQLLDQLPADEPRYFVLDWDGVT-DG-RQVSKIFFVSWVPDTCKAKTKMLYASSKQALRNALD
+GVQLDHQATDYDEITPEELNERA-------------*
+>P1;gi|32394634|gb|AAM94015.1| acin depolymerizing factor 2 [Griffit... [ score 114 E 3e-25 ] [ range 4 .. 133 ]
+sequence
+------------GVPINPAVIEKYNEISK---------RTCGAMILSLAKPNNDEVIVD--QASDPED--
+-----IWKKILEQVPDEDCRYIIVDFKVTT-PT-VSQEKVTLVYWAPETAPSRSKMIYAATKEHISSSLN
+GVQSRCSATTLTNL----------------------*
+>P1;gi|29179458|gb|AAH49318.1| Similar to glia maturation factor, be... [ score 110 E 6e-24 ] [ range 10 .. 137 ]
+sequence
+---------------VDEDLVKKLRDFRF---------RKENAAIIMKIDKDKQLVILE--E-EHEDI--
+-----SPEDLKNELPERQPRFVVYSYKYQH-DD-GRVSPLCFIFSSPVGCKPEQQMMYAGSKNKLVQTVE
+LTKVEIRNTE--DLTEEWLREK--------------*
+>P1;gi|32566126|ref|NP_503425.2| UNCoordinated locomotion UNC-60 (un... [ score 110 E 6e-24 ] [ range 4 .. 157 ]
+sequence
+------------GVMVDPDVQTSFQKLSE---------RKEYRYIIFKIDENK--VIVE--QLGITGD--
+-----DYDDFVEDVKSRDCRYAVFDFKFTA-GT-SKMDKIIFLQICPDGASIKKKMVYASSAAAIKTSLT
+GKILQFQVSDESEMSHKELLNK--------------*
+>P1;gi|27065561|pdb|1M4J|A Chain A, Crystal Structure Of The N-Termi... [ score 106 E 1e-22 ] [ range 6 .. 131 ]
+sequence
+------------GIQASEDVKEIFARARN---------GK---YRLLKISIENEQLVVG--SCSPPSD--
+-----SWEQVLPLLEDKQPCYVLFRLD--S-QN-AQGYEWIFIAWSPDHSHVRQKMLYAATRATLKKEFG
+GIKDEVFGTVKEDVSL--------------------*
+>P1;gi|31560645|ref|NP_032997.2| twinfilin; actin monomer-binding pr... [ score 105 E 2e-22 ] [ range 186 .. 312 ] [ duplicate b ]
+sequence
+----------------------AFQALEK---------KKQLNYVQLEIDIKNETIILA--NT--ENT--
+-----ELRDLPKRIPKDSARYHFFLYKHSH-EG-DYLESVVFIYSMPGTCSIRERMLYSSCKSPLLEIVE
+DVIRKIEIDNGDELTADFLYDEV-------------*
+>P1;gi|27664310|ref|XP_235613.1| similar to PTK9 protein tyrosine ki... [ score 105 E 2e-22 ] [ range 186 .. 288 ] [ duplicate b ]
+sequence
+----------------------AFQALEK---------KRQLNYVQLEIDIKNETIILA--NT--ENT--
+-----ELKDLPKRIPKDSARYHFFLYKHSH-EG-DYLESIVFIYSMPGTCSIRERMLYSSCKSPL---LD
+IVERQLQ-----------------------------*
+>P1;gi|23479884|gb|EAA16596.1| actin depolymerizing factor [Plasmodi... [ score 105 E 3e-22 ] [ range 4 .. 113 ]
+sequence
+------------GIRVNDNCVTEFNNMKI---------RKTCRWMIFVI--ENCEIIIH--SKG-ETT--
+-----SLKELVDSIDKNDCAYVVFD----------AVNKIHFFMYARETSNSRDRMTYASSKQALLKKIE
+GVNVFTSVVE--------------------------*
+>P1;gi|40068475|ref|NP_002813.2| twinfilin isoform 1; protein tyrosi... [ score 103 E 5e-22 ] [ range 40 .. 165 ] [ duplicate a ]
+sequence
+------------GIQASEDVKEIFARARN---------GK---YRLLKISIENEQLVIG--SYSQPSD--
+-----SWDKVLPLLEDKQPCYILFRLD--S-QN-AQGYEWIFIAWSPDHSHVRQKMLYAATRATLKKEFG
+GIKDEVFGTVKEDVSL--------------------*
+>P1;gi|40068475|ref|NP_002813.2| twinfilin isoform 1; protein tyrosi... [ score 103 E 5e-22 ] [ range 220 .. 346 ] [ duplicate b ]
+sequence
+----------------------AFQALEK---------NRQLNYVQLEIDIKNEIIILA--NT--TNT--
+-----ELKDLPKRIPKDSARYHFFLYKHSH-EG-DYLESIVFIYSMPGTCSIRERMLYSSCKSRLLEIVE
+DVIRKIEIDNGDELTADFLYEEV-------------*
+>P1;gi|23613057|ref|NP_703379.1| actin depolymerizing factor, putati... [ score 103 E 6e-22 ] [ range 4 .. 116 ]
+sequence
+------------GIRVNDNCVTEFNNMKI---------RKTCGWIIFVIQ--NCEIIIH--SKGA-ST--
+-----TLTELVQSIDKNQCAYVVFD----------AVSKIHFFMYARESSNSRDRMTYASSKQAILKKIE
+GVNVLTSVIESAQ-----------------------*
+>P1;gi|7768638|dbj|BAA95482.1| glia maturation factor beta [Cyprinus... [ score 100 E 5e-21 ] [ range 10 .. 139 ]
+sequence
+---------------VDGSLQEKLKKFRF---------RKSNAAILMKIDMEKQLVVLE--E-EYENI--
+-----SLDELREELPERQPRYIVYSYKLTH-GD-GRVSPLCFIFSSPVGCKPEQQMMYAGSKNRLVQSAD
+LTKI-FEVRNPDDLTEEWLKEKLS------------*
+>P1;gi|29165811|gb|AAH49134.1| Glia maturation factor, beta [Mus mus... [ score 99 E 3e-20 ] [ range 10 .. 138 ]
+sequence
+---------------VAEDLVEKLRKFRF---------RKENAAIIMKIDKDERLVVLD--EEL-EGV--
+-----SPDELKDELPERQPRFIVYSYKYQH-DD-GRVSPLCFIFSSPVGCKPEQQMMYAGSKNKLVQTAE
+LTKVEIRNTE--DLTEEWLREK--------------*
+>P1;gi|11993950|ref|NP_071307.1| glia maturation factor, gamma [Mus ... [ score 99 E 3e-20 ] [ range 10 .. 137 ]
+sequence
+---------------VDPELKETLRKFRF---------RKENAAIIMKVDKDRQMVVLE--DELQ-NI--
+-----SPEELKLELPERQPRFVVYSYKYVH-DD-GRVSPLCFIFSSPVGCKPEQQMMYAGSKNRLVQTAE
+LTKVEIRTTD--DLTETWLKEK--------------*
+>P1;gi|4758440|ref|NP_004868.1| glia maturation factor, gamma [Homo ... [ score 98 E 3e-20 ] [ range 10 .. 139 ]
+sequence
+---------------VDPELTEKLRKFRF---------RKENAAIIMKVDKDRQMVVLE--EEFQ-NI--
+-----SPEELKMELPERQPRFVVYSYKYVH-DD-GRVSPLCFIFSSPVGCKPEQQMMYAGSKNRLVQTAE
+LTKVEIRTTD--DLTEAWLQEKLS------------*
+>P1;gi|39592861|emb|CAE62475.1| Hypothetical protein CBG06572 [Caeno... [ score 96 E 1e-19 ] [ range 4 .. 157 ]
+sequence
+------------GVMVDPDVQTSFQKLSE---------RKEYRYIIFKIEDNK--VIVE--STGDSKA--
+-----AFEKFAADIKSRDCRYAVFDFKFTA-GT-SKMDKIIFLQICPDGASIKKKMVYASSAAAIKASLT
+GKILQFQVSDEPEMNHKEFLNK--------------*
+>P1;gi|30842809|ref|NP_851605.1| glia maturation factor, gamma [Ratt... [ score 96 E 2e-19 ] [ range 10 .. 137 ]
+sequence
+---------------VDPELKETLRKFRF---------RKENAAIIMKVDKDRQMVVLE--DEFQ-NV--
+-----SPEELKLELPERQPRFVVYSYKYVH-DD-GRVSPLCFIFSSPVGCKPEQQMMYAGSKNRLVQIAE
+LTKVEIRTTD--DLNETWLKEK--------------*
+>P1;gi|118449|sp|P20690|DEPA_ASTAM DEPACTIN >gi|103585|pir||A29916 d... [ score 93 E 1e-18 ] [ range 4 .. 148 ]
+sequence
+------------GTALDENVKEEIRAFKM---------KVKVPWMLLEINDDRIDVVVT--KKAGPSD--
+-----NLETLREELKQREVVYFVLDYEPSE-EK-RAKHNILTCFWSMETANIKLKMKYSSTVGTLKSATS
+TLKTYLEAHDFDDLSEEAIGDKIK------------*
+>P1;gi|20839570|ref|XP_133608.1| similar to PTK9 protein tyrosine ki... [ score 93 E 1e-18 ] [ range 7 .. 131 ] [ duplicate a ]
+sequence
+-------------IQTSEDVKEIFARARN---------GK---YRLLKISIENEQLVVG--SCSPLSD--
+-----SWEQVLPLLEDKQPCYVLFRLD--S-QN-AQGYEWIFIAWSPDHSHVLQKMLYVVTRATLKKEFG
+GIKDEVFGTVKEDISL--------------------*
+>P1;gi|34874889|ref|XP_346033.1| similar to cofilin [Rattus norvegicus] [ score 89 E 2e-17 ] [ range 4 .. 105 ]
+sequence
+------------GVTVNDDVINVFNDMKV---------RKKKKAVLFCLSGDKRQIIVE--EVGDIGD--
+-----TVEDFVRLLHLNDCRYALYNAIYET-KE-SKKEDLVFIFWAPE----------------------
+------------------------------------*
+>P1;gi|41054353|ref|NP_956019.1| PTK9 protein tyrosine kinase 9 [Dan... [ score 88 E 5e-17 ] [ range 6 .. 132 ] [ duplicate a ]
+sequence
+------------GIQAADEVKDVFGNARN---------G---QYRLLKIVIENEELVLG--LTKPASR--
+-----SWEELLPVLEQDLPCYILFRLD--S-SN-SLGHEWIFIAWSPDHSPVRHKMLYAATRATIKKELG
+HIKDEMFGTVKDDVSLS-------------------*
+>P1;gi|41054353|ref|NP_956019.1| PTK9 protein tyrosine kinase 9 [Dan... [ score 88 E 5e-17 ] [ range 196 .. 288 ] [ duplicate b ]
+sequence
+---------------------------------------KKLSYVQLMINFEKELIVLS--ST--EST--
+-----EVKDLPKRIPKDAARYHFFRFKHSH-EG-DYLESAVFIYSMPGSCGIRERMLYSSCKNPL---LD
+MVESKLQ-----------------------------*
+>P1;gi|31238600|ref|XP_319810.1| ENSANGP00000016558 [Anopheles gambi... [ score 87 E 8e-17 ] [ range 49 .. 178 ]
+sequence
+---------------ISPEAKEEISKFRF---------RRTNTALILKIDREKQLVTVD--ELLD-DV--
+-----AIEELQEQLPSHQPRYIIYSYKMVH-DD-SRISPMCFIFYTPRDSQMELCMLYAKTRMALQREAD
+LTRYY-EIRELDDMTEDWLREKLR------------*
+>P1;gi|43767740|gb|EAF38306.1| unknown [environmental sequence] [ score 86 E 1e-16 ] [ range 3 .. 60 ]
+sequence
+----------------------------------------------------------------------
+-------------LPYTDCRYAVYDHEFTT-AD-GRTDKLFFLSWMPHNATPYSKMAYASGKGMLRERLD
+GV----------------------------------*
+>P1;gi|6005846|ref|NP_009215.1| twinfilin-like protein; protein tyro... [ score 78 E 3e-14 ] [ range 6 .. 131 ] [ duplicate a ]
+sequence
+------------GIHATEELKEFFAKARA---------GSV-RLIKVVIEDE--QLVLE--PVGRWDQ--
+-----DYDRVLPLLDAQQPCYLLYRLD--S-QN-AQGFEWLFLAWSPDNSPVRLKMLYAATRATVKKEFG
+GIKDELFGTVKDDLSF--------------------*
+>P1;gi|6005846|ref|NP_009215.1| twinfilin-like protein; protein tyro... [ score 78 E 3e-14 ] [ range 182 .. 312 ] [ duplicate b ]
+sequence
+---------------LQPEAQRALQQLKQ---------KMVN-YIQMKLDLERETIELV--HTEPTDV--
+-----A--QLPSRVPRDAARYHFFLYKHTH-EG-DPLESVVFIYSMPGKCSIKERMLYSSCKSRLLDSVE
+QIAKKIEIGDGAELTAEFLYDEV-------------*
+>P1;gi|42548719|gb|EAA71562.1| hypothetical protein FG08822.1 [Gibbe... [ score 78 E 3e-14 ] [ range 669 .. 788 ]
+sequence
+-------------VSVDQDCIIAANALRF---------SKKIKFIIFKITDDEQNVVVE--ETSSETD--
+------YEVFRQKLPA--PRYAVYDVDYDL-ED-GKR---------------QLRMLYASTMEYLKKTVN
+A-GVFTHAGNQEDIEWEEL-----------------*
+>P1;gi|6755224|ref|NP_036006.1| twinfilin-like protein; protein tyro... [ score 78 E 5e-14 ] [ range 6 .. 131 ] [ duplicate a ]
+sequence
+------------GIHATEELKEFFAKARA---------G-SIRLIKVIIEDE--QLVLE--PVGRWDQ--
+-----DYDRVLPLLDAQEPCYLLFRLD--S-QN-AQGFEWLFLAWSPDNSPVRLKMLYAATRATVKKEFG
+GIKDELFGTVKDDLSL--------------------*
+>P1;gi|6755224|ref|NP_036006.1| twinfilin-like protein; protein tyro... [ score 78 E 5e-14 ] [ range 182 .. 312 ] [ duplicate b ]
+sequence
+---------------LQPEAQRALQQLK----------QKTVNYIQLKLDLERETIELV--HTEPTNV--
+-----A--QLPSRIPRDAARYHFFLYKHTH-EG-DALESVVFIYSMPGKCSIKERMLYSSCKSRLLDSVE
+QIAKKIEIGDGAELTAEFLYDEV-------------*
+>P1;gi|24584577|ref|NP_609787.2| CG5869-PA [Drosophila melanogaster]... [ score 77 E 8e-14 ] [ range 9 .. 138 ]
+sequence
+---------------ISNEVLEELKKFRF---------SKSKAALILKVDREKQTVVLD--EFID-DI--
+-----SVDELQDTLPGHQPRYVIYTYKMVH-DD-QRISPMCFIFYTPRDSQIELQMMYACTKSALQREVD
+LTRVY-EIRELDELTEEWLKAKLK------------*
+>P1;gi|28279929|gb|AAH44672.1| Ptk9l-prov protein [Xenopus laevis] [ score 75 E 2e-13 ] [ range 6 .. 139 ] [ duplicate a ]
+sequence
+------------GIHATPELKEFFAKARN---------G-SIRLIKVVIEEE--QLVLG--SHKELKH--
+-----AWEQIVPLLDESQPCYILYRLD--S-QN-AQGYEWIFLSWSPDHSPVRLKMLYAATRATVKKEFG
+GIKDEIFGTLKEDVALSGYKKHVS------------*
+>P1;gi|28279929|gb|AAH44672.1| Ptk9l-prov protein [Xenopus laevis] [ score 75 E 2e-13 ] [ range 184 .. 312 ] [ duplicate b ]
+sequence
+-----------------PEAEEAILLLKQ---------KKIN-YIQLRLDLEKETVDLV--HTKHTE---
+------IKDLPGRIPQDTARYHFFLYKHSH-EG-DHLESVVFIYSMPGKCSIKERMLYSSCKNRLLDSVE
+QIAKKIEIEDGAELTDEFLYDEV-------------*
+>P1;gi|21358413|ref|NP_650338.1| twinfilin CG3172-PA [Drosophila mel... [ score 75 E 3e-13 ] [ range 6 .. 132 ] [ duplicate a ]
+sequence
+------------GIRANEQLAKVFGKAKN---------GK---FRVIKVSIENEQLTAE--TKKDWER--
+-----DYDKLIGPLLEKDPCYILYRLDAKI-P---LGYSWLLISWTPDTASIRQKMVYASTKATLKTEFG
+SITEELHATTLDECTLE-------------------*
+>P1;gi|21358413|ref|NP_650338.1| twinfilin CG3172-PA [Drosophila mel... [ score 75 E 3e-13 ] [ range 182 .. 309 ] [ duplicate b ]
+sequence
+---------------LSEATVAAVQDL-V---------RGKHDYLQFRIDLEEEQIHVS--RAAKVE---
+------LADLPKQVPEDHARYHLFLFRHTH-EG-DYFESYVFVYSMPGSCSVRERMMYSSCKAPFLDELA
+ALGVELEIDSGSELTEAFLQD---------------*
+>P1;gi|1480791|gb|AAC47468.1| glia maturation factor BmGMF [ score 73 E 1e-12 ] [ range 23 .. 134 ]
+sequence
+--------------------------FRR---------KRSTNALILKIDPVKQLIILD--QKL-EDC--
+-----DPDMICDELPVQQPRYIVISYERVH-DD-GRLSPLSLVFYSPSGCKPQLRMMYAGSRNNLARKCE
+LNRV-FEIREPDELTRELL-----------------*
+>P1;gi|31202595|ref|XP_310246.1| ENSANGP00000015237 [Anopheles gambi... [ score 68 E 3e-11 ] [ range 20 .. 146 ] [ duplicate a ]
+sequence
+------------GIKANAELLKFFGKCKD---------GKT---RVLKVSIENEELRLV--SHSDVEK--
+-----DYDTLVRPLEESTPCYILYRLDYKI-PT-G--YAWLLMSWVPESATVRQKMLYASTKATLKLEFG
+SIKEELNATSKEETTLQ-------------------*
+>P1;gi|31202595|ref|XP_310246.1| ENSANGP00000015237 [Anopheles gambi... [ score 68 E 3e-11 ] [ range 196 .. 323 ] [ duplicate b ]
+sequence
+---------------IADAVAQALHDMRR---------G-GYNYLQFRIDLEEEKI--H--LVKADNI--
+-----ELTGLPAQIPTDHARYHLYIFKHHH-EG-NYLESVVFVYSMPGSCSIRERMMYSSCKGPFSATIE
+GIQVKLEIDNGAELTEEFLHE---------------*
+>P1;gi|39588880|emb|CAE69510.1| Hypothetical protein CBG15718 [Caeno... [ score 65 E 4e-10 ] [ range 10 .. 137 ]
+sequence
+---------------IPDGVKEELKKFRF---------SKTMNALILKIDRESHELQSE--QLLN-DC--
+-----SIDEFKEELPSQQPRFVLLSWSKKH-SD-ERVSPMLLIYYCPNGSSPELQMLYAGSRNFIVNECH
+-VSKNIEVRDIDEIDEDLLDSK--------------*
+>P1;gi|7438537|pir||JC6308 glia maturation factor - nematode (Brugia... [ score 63 E 8e-10 ] [ range 13 .. 134 ]
+sequence
+------------------DLKDELERFRF---------RRERSALILKIDPVKDLIILD--DKL-EDC--
+-----DPDMICDELPVDDPRYIVISYERVH-DD-GRLSPLSLVFYSPSGCKPQLRMMYAGSRNNLARKCE
+LNRV-FEIREPDELTRELL-----------------*
+>P1;gi|28829972|gb|AAO52462.1| similar to Homo sapiens (Human). Prot... [ score 62 E 4e-09 ] [ range 6 .. 113 ] [ duplicate a ]
+sequence
+------------GIPASQELISAFGSANT---------GDV---RLIKVVIKNDELVVD--QKLNVQS--
+-----DFETDLELLQKDSPCYILYKKDDKS-IE-LTGYNWIFMFFVPDNAKVREKMTYAATRGNLKREL-
+------------------------------------*
+>P1;gi|28829972|gb|AAO52462.1| similar to Homo sapiens (Human). Prot... [ score 62 E 4e-09 ] [ range 193 .. 311 ] [ duplicate b ]
+sequence
+----------------------------I---------NKKFNYIELSVNVDDEKII----FSSSSNI--
+-----DIEAISSKISSTEPSFHFFRYSHQH-EG-ENLDSIIYIYSCPDSAPVRKRMLFSSSKANVEQLVT
+SIDLKLEINSPSEISEESI-----------------*
+>P1;gi|34852719|ref|XP_228196.2| similar to PTK9 protein typrotein t... [ score 58 E 3e-08 ] [ range 62 .. 166 ]
+sequence
+------------------------------------------RLIRVIIEDE--QLVLE--PVGRWDQ--
+-----DYDDVLPLLDAQEPCYLLFQLD--S-QN-AQGFEWLFLAWSPDNSPVQLKKLYAATRATFK-EFG
+GIKDERFGIVKDDLSL--------------------*
+>P1;gi|19075949|ref|NP_588449.1| putative tyrosine kinase [Schizosac... [ score 58 E 5e-08 ] [ range 26 .. 138 ] [ duplicate a ]
+sequence
+------------------------------------------RAAIISISNENVKTMVE--KSESIES--
+-----DFKKVRECLGSEEPAFVVYD-------D-SKKNLLQLISYVPENANVRRKMLYASSRAAFVRTLA
+KLDESYFASTPEELDYQQIMKSLSK-----------*
+>P1;gi|19075949|ref|NP_588449.1| putative tyrosine kinase [Schizosac... [ score 58 E 5e-08 ] [ range 176 .. 299 ] [ duplicate b ]
+sequence
+-------------MSIDDKALKALSDLKS---------STENNLVILSID---KEVISL--SQEKQNI--
+-----PPSDVKSFFSSTEPNFAFYSL---P-KD-GS-SKILFIYICPMQATVKHRMVYSSSKDSIKAEL-
+GIVIDIESNDAADITEKEI-----------------*
+>P1;gi|19114493|ref|NP_593581.1| cofilin/tropomyosin-type actin bind... [ score 58 E 5e-08 ] [ range 23 .. 138 ]
+sequence
+--------------------------LRL---------KKSVMYAILKVDKATKEIVPD--GEIMDLQ--
+-----SIEEVADELSETNPRFILVSYPTKT-TD-GRLSPLFMIYWRPSATPNDLSMIYASAKVWF-QDVS
+QVHKVFEARDSEDITSEAVDE---------------*
+>P1;gi|34877180|ref|XP_344487.1| similar to Cofilin, non-muscle isof... [ score 56 E 1e-07 ] [ range 13 .. 99 ]
+sequence
+------------GVTVSDGVSEVFNKVEI---------RKSKKAVLFCLSEDTGNIILE--E--------
+------------------------------------GKEILMI--------------YASSKDAIQKKLT
+GIKDELQASC-----YEVVKDRCT------------*
+>P1;gi|34879598|ref|XP_344688.1| similar to Cofilin, non-muscle isof... [ score 56 E 1e-07 ] [ range 135 .. 176 ]
+sequence
+------------------------------------------------------------------ND--
+-----PYTTFVKMLPDKDWRYALCDATYET-KE-SKKGDLLFIFWTP-----------------------
+------------------------------------*
+>P1;gi|32414637|ref|XP_327798.1| hypothetical protein [Neurospora cr... [ score 55 E 2e-07 ] [ range 4 .. 134 ]
+sequence
+------------GISASKELVSQFNDLLG---------SPSTFGLLINIANEQLQPIQT--LTSSPGS--
+-----SFASNVDTLKEKEALYIILR-RYDS-SP-A----LVAVTYVPDTAPVRQKMLFASTRLTLVRELG
+SEHFRIFATNAKELTSQGFEK---------------*
+>P1;gi|17567527|ref|NP_510669.1| a6 gene product like (37.5 kD) (XR6... [ score 55 E 3e-07 ] [ range 15 .. 130 ] [ duplicate a ]
+sequence
+------------------------NALNL---------GKQAKLRLIKIVVNNEEMTPN--YEFAGTA--
+-----NWDDWRACLPDYEPCFILFRLNTIT-E-------WVLITFVDDRAPVREKMLLAATCATFKSEFG
+QIEHEKHVTDLKDLTLNAF-----------------*
+>P1;gi|17567527|ref|NP_510669.1| a6 gene product like (37.5 kD) (XR6... [ score 55 E 3e-07 ] [ range 193 .. 304 ] [ duplicate b ]
+sequence
+-------------------------------------------FVQLSVDTLNEAIKLE--GTLESLE--
+-----P-SQLASKVPRDKPRYTFYNFDHTW-EG-VPQQCTLFIYSLPSSSSIKERMLYSSCKGPFLSAAQ
+NITNKMEVDARDDLSEKALLE---------------*
+>P1;gi|39596330|emb|CAE69968.1| Hypothetical protein CBG16364 [Caeno... [ score 55 E 3e-07 ] [ range 15 .. 137 ] [ duplicate a ]
+sequence
+------------------------NALNL---------GKQAKLRLIKIVVNNEEMTPN--YEFAGTA--
+-----NWDDWKACLPEYEPCFILFRLNTIT-E-------WVLITFVDDRAPVREKMLLAATCATFKSEFG
+QIEHEKHVTDRKDLTLTAFESKAK------------*
+>P1;gi|39596330|emb|CAE69968.1| Hypothetical protein CBG16364 [Caeno... [ score 55 E 3e-07 ] [ range 170 .. 304 ] [ duplicate b ]
+sequence
+------------GVAVDRNAEEALRKL-A---------RQQLSFVQLSVDTLNEAIKLE--NTLESLE--
+-----P-SALASKVPRDKPRYTFYNFDHTW-EG-VPQKCTLFIYSLPSSSSIKERMLYSSCKGPFLGAAQ
+NITNKMEVDARDDLSEKALLE---------------*
+>P1;gi|32564848|ref|NP_871652.1| actin-binding, cofilin/tropomyosin ... [ score 55 E 4e-07 ] [ range 10 .. 114 ]
+sequence
+---------------IPDGVKEDLKKFRF---------SKTMNALILKIDRESHELQSE--QLLN-DC--
+-----SIEEFKEELPSQQPRFILLSWKKHS-DE-RISYPMLLIYYCPNGSSPELQMLYAGSRNFIVNE--
+------------------------------------*
+>P1;gi|40746901|gb|EAA66057.1| hypothetical protein AN0184.2 [Asperg... [ score 55 E 4e-07 ] [ range 10 .. 115 ]
+sequence
+----------------SPETKEKLRKFRL---------AKEPQAIIYIIDAKSQEIRAE---DGEVYT--
+-----KMEDLADELPESSPRFILLSYPLTL-GS-GRLAPYVLLYYLPENCNPNQRMMYAGAVELMRNT--
+------------------------------------*
+>P1;gi|6321517|ref|NP_011594.1| Twinfilin A is a member of a conserv... [ score 54 E 6e-07 ] [ range 29 .. 102 ] [ duplicate a ]
+sequence
+--------------------------------------------IIAKISPDSTSV-----HQTQVAR--
+-----SFEELVQLAQEREPLYIFYKPEG--------LDKYFFVSFIPDGSPVRSRMLYASTKNTLAR---
+------------------------------------*
+>P1;gi|6321517|ref|NP_011594.1| Twinfilin A is a member of a conserv... [ score 54 E 6e-07 ] [ range 198 .. 266 ] [ duplicate b ]
+sequence
+--------------------------------------------IIFQIDPSNETIIVQ--SDTCP----
+-----SVDELYIDLP--GPSYTIF----------RQGDSSFFIYSCPSGSKVKDRMIYASNKNGF-----
+------------------------------------*
+>P1;gi|38107123|gb|EAA53340.1| hypothetical protein MG07617.4 [Magna... [ score 53 E 1e-06 ] [ range 171 .. 308 ] [ duplicate a ]
+sequence
+-------------MPIDDEALQALKELAD---------ESGSRSVMMKINPGTETVENV--ATSATPS--
+-----TISELVSEISATEPRFTFYRYTHQH-GG-ETQSPILFFYTCPTSTPIKQRMVYPLMKRAVVTAAE
+GIAKKFEVEEPNEITEESVLS---------------*
+>P1;gi|38107123|gb|EAA53340.1| hypothetical protein MG07617.4 [Magna... [ score 53 E 1e-06 ] [ range 2 .. 127 ] [ duplicate b ]
+sequence
+------------------ELTAEFNKLLS---------SPTNFALLATISSEALKPVTL--LTSSPSS--
+-----SFDDNLNNLKPNEALYILLR---RH-DA-AP--HLVAITYIPDSAPVRQKMLFASTRLTLVRELG
+SEHFRVFANSAEELTPQGFKKQ--------------*
+>P1;gi|45201065|ref|NP_986635.1| AGL031Wp [Eremothecium gossypii] >g... [ score 52 E 3e-06 ] [ range 42 .. 120 ]
+sequence
+------------------------------------------------------EIVVE--EAAGEVS--
+-----GLEDLAEVLPDNTPRFVLLAYPLSS-DG-RQRTALVLLHWKPATVVSQEKMLYAGATELVRSE--
+------------------------------------*
+>P1;gi|41054685|ref|NP_955845.1| wu:fb22h06 [Danio rerio] >gi|376821... [ score 52 E 4e-06 ] [ range 436 .. 563 ]
+sequence
+------------------EAKRALKQLAE---------RRIN-YIQLKLDTEKETIDLV--HTSPTD---
+------IRDLPCRIPLDTPRYHFFLYKHSH-EG-DYLESVVFIYSMPGSCSIKERMLYSSCKSRLLDEVE
+EVAKKLEIDSGEELTEEYLYDEV-------------*
+>P1;gi|42555509|gb|EAA78352.1| hypothetical protein FG06567.1 [Gibbe... [ score 52 E 4e-06 ] [ range 487 .. 622 ] [ duplicate a ]
+sequence
+-------------MPISDEAIAALKEVGE---------DGGRPVTMLKINPSTEKVELV--PEAPTPS--
+-----GISELTKAISSTEPRFTFYRFTHTH-DG-AESSPVLFFYTCPSTKSIKFRMMYPLMK---RSVLD
+TLEKKFEVEDPSEITEESVLE---------------*
+>P1;gi|42555509|gb|EAA78352.1| hypothetical protein FG06567.1 [Gibbe... [ score 52 E 4e-06 ] [ range 314 .. 436 ] [ duplicate b ]
+sequence
+------------GISASQELQNEFNSL-L---------SSTGTFGLLATIEKESMVPIT--TIPSKSS--
+-----SFSDNLSGLPHLKPDVALYIILRRH-ED-APR----FIAYVPDSAKVRQKMLFASTRLTFVRELG
+TEHFRIFVTTPEELS---------------------*
+>P1;gi|45185335|ref|NP_983052.1| ABR105Cp [Eremothecium gossypii] >g... [ score 50 E 7e-06 ] [ range 27 .. 120 ] [ duplicate a ]
+sequence
+--------------------------------------------ILGQIDDRSTEIEYQ--REFRSVG--
+-----QLQEYLELKPTKPCYLFIRDSDI-----------WQFVSYTPDTAPVREKMLYASSKNTLLRQVN
+KIGRSVMVTEVHELAE--------------------*
+>P1;gi|45185335|ref|NP_983052.1| ABR105Cp [Eremothecium gossypii] >g... [ score 50 E 7e-06 ] [ range 186 .. 289 ] [ duplicate b ]
+sequence
+---------------------------------------------IFEIDLTDEQIKLR--TKKTPG---
+-----SAKALVAAMDRDRPSYTLY----QD-EG-----RLFFIYTCPSGSKVKERMVYAANKQGFANYVN
+DSGFKISETDPEELELSALEPQSSQ-----------*
+>P1;gi|42554794|gb|EAA77637.1| hypothetical protein FG09775.1 [Gibbe... [ score 48 E 3e-05 ] [ range 29 .. 117 ]
+sequence
+---------------------------------------KGPQAVIYLIDKHTYEIRQD--EDKTVYT--
+-----SLEEVGDDLPDHAPRFILLSYPLTM-GD-GRLSPYVLLFYLPVTCNAEIRMLYAGAKELMRNT--
+------------------------------------*
+>P1;gi|226703|prf||1603360A actin binding protein [ score 48 E 4e-05 ] [ range 46 .. 136 ]
+sequence
+---------------------------------------------------------------ESTGS--
+-----SFNDFLQSFDETKVQYGL--ARVSP-PG-SDVEKIIIIGWCPDSAPLKTRASFAANFAAVANNLK
+GYHVQVTARDEDDLDENELLMKIS------------*
+>P1;gi|464324|sp|P34121|COAC_DICDI Coactosin (Cytoskeletal p17 prote... [ score 48 E 4e-05 ] [ range 25 .. 133 ]
+sequence
+-------------------------------------------WCLFKYEGKNKIVL-----SGKGSG--
+-----GFAELAQEINQPSERYAYLRVVSGD-DE-SKRSKFVFISWCGEEVGPLAKANVSVHKASVKQVIK
+NIGVEVHYTVADDLNEEELMTKVRK-----------*
+>P1;gi|31220026|ref|XP_316866.1| ENSANGP00000017848 [Anopheles gambi... [ score 48 E 5e-05 ] [ range 86 .. 209 ]
+sequence
+-----------------DAIREAYEDVRS---------NMSHEWAVFKFDGLK---IV----CSAKGQ--
+-----GFQEFCAQFHDDERAFGYIRIQMGD-EM-SKRSKFLFLTWGPEGVMQRAKM--STDKSIIKDVIN
+NFAVELQVETSVDLDLEMFKAHLNK-----------*
+>P1;gi|21483504|gb|AAM52727.1| LP08941p [Drosophila melanogaster] [ score 47 E 8e-05 ] [ range 151 .. 256 ]
+sequence
+-------------------------------------------WAVFKFDGA--QIIVH-----ARGQ--
+-----CFEEFRQQFGDSERAFGYIRIQMGD-EM-SKRKKFIFLTWIGQEVGVRAKM--STDKALIKDVLN
+NFAVELHAGVEAELDIELFREALNR-----------*
+>P1;gi|19074645|ref|NP_586151.1| ACTIN-BINDING PROTEIN OF THE ADF FA... [ score 45 E 2e-04 ] [ range 53 .. 149 ]
+sequence
+----------------------------------------------------KRKYTVE--ELQG-----
+-----IFKEFSAGVNEQDPCLVVYDFHFDD-DG-IQKNTLCLISYIPEHLVPLKKVAYSTNALNLKELLD
+-ISVHIPIKKKSDLIFENIAEKC-------------*
+>P1;gi|38090949|ref|XP_356515.1| similar to Cofilin, non-muscle isof... [ score 45 E 4e-04 ] [ range 91 .. 153 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------EE-VKKHKAVLFFLSEDKKNIKTKMICASSKDAIKKKVT
+GIKHELQANCY----EEAVKDR--------------*
+>P1;gi|584708|sp|P38479|ABP1_SACEX ACTIN BINDING PROTEIN >gi|631909|... [ score 45 E 4e-04 ] [ range 46 .. 120 ]
+sequence
+---------------------------------------------------------------SSTGS--
+-----SFSDFLQSFDETKVEYGI--ARVSP-PG-SDVGKIILVGWCPDSAPMKTRASFAANFGTIANSLP
+GYHIQVTA----------------------------*
+>P1;gi|40742150|gb|EAA61340.1| hypothetical protein AN7289.2 [Asperg... [ score 45 E 4e-04 ] [ range 292 .. 350 ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------IIFIYTCPSGSSIKERMLYASSRMHALQEEQ
+GLKIKIEAGAPDEVTGERLQEEVN------------*
+>P1;gi|34865920|ref|XP_236624.2| similar to Rbm6 protein [Rattus nor... [ score 270 E 1e-71 ] [ range 393 .. 560 ]
+sequence
+------SGNMASGVAVSDGVIKVFNDMKVCKSSMPE-VKKHKKTVLFCLSEDKKNIILEEGKEILVGDVG
+QTVDDPYTTFVKMLPDKDCRYALYDATYETK--ESKKEDLVFIFWTPESAPLKSKMIYASSKDAIKKKLT
+GIKHELQANCYEEVKDCCLAEKLGGRAVISLEGKPL*
+>P1;gi|6680924|ref|NP_031713.1| cofilin 1, non-muscle [Mus musculus]... [ score 254 E 7e-67 ] [ range 1 .. 166 ]
+sequence
+---------MASGVAVSDGVIKVFNDMKVRKSSTPEEVKKRKKAVLFCLSEDKKNIILEEGKEILVGDVG
+QTVDDPYTTFVKMLPDKDCRYALYDATYETK--ESKKEDLVFIFWAPENAPLKSKMIYASSKDAIKKKLT
+GIKHELQANCYEEVDRCTLAEKLGGSAVISLEGKPL*
+>P1;gi|45382979|ref|NP_990859.1| destrin; actin depolymerizing facto... [ score 250 E 7e-66 ] [ range 1 .. 165 ]
+sequence
+---------MASGVQVADEVCRIFYDMKVRKCSTPEEVKKRKKAVIFCLSPDKKCIIVEEGKEILVGDVG
+VTVTDPFKHFVEMLPEKDCRYALYDASFETK--ESKKEELMFFLWAPEQAPLKSKMIYASSKDAIKKKFQ
+GIKHECQANGPEDLNRACIAEKLGGSLVVAFEGSPV*
+>P1;gi|17433708|sp|P21566|COFI_CHICK Cofilin [ score 246 E 1e-64 ] [ range 1 .. 166 ]
+sequence
+---------MASGVTVNDEVIKVFNDMKVRKSSTPEEIKKRKKAVLFCLSDDKKQIIVEEAKQILVGDIG
+DTVEDPYTAFVKLLPLNDCRYALYDATYETK--ESKKEDLVFIFWAPESAPLKSKMIYASSKDAIKKKFT
+GIKHEWQVNGLDDIDRSTLGEKLGGNVVVSLEGKPL*
+>P1;gi|34861691|ref|XP_219433.2| similar to Cofilin, non-muscle isof... [ score 241 E 4e-63 ] [ range 1 .. 167 ]
+sequence
+---------MASGVAVSDGVIKVFNDMKVHKSSVTEEVKKHKKAVLLWLSEDKKNIILEEGEEILVGDVQ
+ETVDDPYTTFVKMLPDKDCHYALYDATYETK--ESKKEDLAFIFWAPESAPLQNKMIYASSKDAIQRKLT
+GIKHELQANCYKEVDRCTLAEKLGSSAIISPEGKTL*
+>P1;gi|45387807|ref|NP_991263.1| hypothetical protein zgc:77288 [Dan... [ score 241 E 4e-63 ] [ range 1 .. 166 ]
+sequence
+---------MASGVTVSDEVIKVFNDMKVRKSSSSDEVKKRKKAVLFCLSDDKKKIIVEEGRQILVGDIG
+DSVDDPYACFVKLLPLNDCRYGLYDATYETK--ESKKEDLVFIFWAPEGAPLKSKMIYASSKDAIKKKFT
+GIKHEWQVNGLDDIDRSTLAEKLGGNVVVSLEGRPL*
+>P1;gi|45501105|gb|AAH67328.1| Unknown (protein for MGC:76274) [Xeno... [ score 235 E 4e-61 ] [ range 1 .. 166 ]
+sequence
+---------MASGVMVSDDVIKVFNDMKVRHQLSPEEAKKRKKAVVFCLSEDKKMIILEPGKEILQGDVG
+CNVDDPYKAFVKMLPRNDCRYALYDALYETK--ETKKEDLVFVFWAPEEASLKSKMIYASSKDAIKKRFP
+GIKHEWQTNTFEDINDPCLAEKLGGSTVISLEGKTL*
+>P1;gi|1168995|sp|P45593|COF2_XENLA COFILIN 2 >gi|551635|dbj|BAA0746... [ score 235 E 4e-61 ] [ range 1 .. 166 ]
+sequence
+---------MASGVMVSDDVVKVFNDMKVRHQLSPEEAKKRKKAVIFCLSDDKKTIILEPGKEILQGDVG
+CNVEDPYKTFVKMLPRNDCRYALYDALYETK--ETKKEDLVFVFWAPEEASLKSKMIYASSKDAIRKRFT
+GIKHEWQTNTYDDINDPCLADKLGGNTVVSLEGKSL*
+>P1;gi|1168993|sp|P45695|COF1_XENLA COFILIN 1 >gi|837296|gb|AAB00540... [ score 233 E 1e-60 ] [ range 1 .. 166 ]
+sequence
+---------MASGVMVSDDVIKVFNEMKVRHQLSPEDAKKRKKAVVFCLSDDKKTIILEPGKEILQGDIG
+CNVEDPYKTFVKMLPRNDCRYALYDALYETK--ETKKEDLVFVFWAPEEASLKSKMIYASSKDAIKKRLP
+GIKHEWQINTYEDVNDPCLADKLGGNTVVSLEGKSV*
+>P1;gi|37681759|gb|AAQ97757.1| muscle cofilin 2 [Danio rerio] [ score 221 E 6e-57 ] [ range 1 .. 163 ]
+sequence
+---------MASGVTVEETVLTVFNEMKVRKAHCNEEEKKRKKAVMFCLSDDKKHIIMEQGQEILQGDEG
+----DPYLKFVKMLPPNDCRYALYDATYETK--ETKKEDLVFIFWAPESAPLKSKMIYASSKDAIKKKFT
+GIKHEWQVNGMDDIDRKTLAEKLGGASVVSLEGKPL*
+>P1;gi|34855438|ref|XP_218399.2| similar to sid23p [Rattus norvegicus] [ score 209 E 2e-53 ] [ range 139 .. 280 ]
+sequence
+------AANMASGVQVAIEVCRIFYNMK--------------------------CIVIEEGKEILVGDIG
+VTLTDPFKHFVGMLPEKDCRYALYDASFETK--ESRKEELMFFLWAPEQAPLKSKMIYASSKEAIKKKFP
+GIKHKYQANGPEDLSRTSIAEKLGGSLIVAFEGSPV*
+>P1;gi|17366765|sp|Q9FVI1|ADF2_PETHY Actin-depolymerizing factor 2 (... [ score 195 E 4e-49 ] [ range 2 .. 140 ]
+sequence
+-------ANAASGMAVHDDCKLKFLELKA---------KRTYRFIIYKIEEKQKEVVVEKLGE-------
+--PTESYEDFTAGLPADECRYAVYDFDFMTK--ENQKSRIFFIAWSPDTARVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMGLDVFRSRAGG-----------*
+>P1;gi|34871659|ref|XP_343925.1| similar to Cofilin, non-muscle isof... [ score 193 E 2e-48 ] [ range 2 .. 172 ]
+sequence
+TQGTNNFRSPASGVAVSDGVIKVFNDMKMCKSSRPEEVKKRKKVVLFCPSE-VETIIPEEGKEMLVADVG
+PTVNDPLLHFCQ----DAARQGLTGATLQPR--RARRTNLLFNFWAPESAPLQSKMICASSKDAIKKNLT
+GIKHELQANCFEEEVKACLAEKLGG---IFLEHKPL*
+>P1;gi|15231309|ref|NP_190187.1| actin-depolymerizing factor 1 (ADF1... [ score 192 E 3e-48 ] [ range 2 .. 137 ]
+sequence
+-------ANAASGMAVHDDCKLRFLELKA---------KRTHRFIVYKIEEKQKQVVVEKVGQ-------
+--PIQTYEEFAACLPADECRYAIYDFDFVTA--ENQKSKIFFIAWCPDIAKVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMDLDVFRSR--------------*
+>P1;gi|30697300|ref|NP_851228.1| actin-depolymerizing factor 4 (ADF4... [ score 192 E 3e-48 ] [ range 2 .. 138 ]
+sequence
+-------ANAASGMAVHDDCKLRFLELKA---------KRTHRFIVYKIEEKQKQVIVEK-----VGEPI
+LT----YEDFAASLPADECRYAIYDFDFVTA--ENQKSKIFFIAWCPDVAKVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMDLDVLKSRV-------------*
+>P1;gi|17366768|sp|Q9FVI2|ADF1_PETHY Actin-depolymerizing factor 1 (... [ score 192 E 3e-48 ] [ range 2 .. 137 ]
+sequence
+-------ANAASGMAVHDDCKLRFLELKA---------KRTHRFIVYKIEEKQKQVVVEKIGE-------
+--PTESYEDFAASLPENECRYAVYDFDFVTA--ENQKSRIFFIAWCPDTARVRSKMIYASSKDRFKRELD
+GIQVELQACDPTEMGLDVIQSR--------------*
+>P1;gi|38564721|gb|AAR23800.1| putative actin-depolymerizing factor ... [ score 188 E 5e-47 ] [ range 2 .. 137 ]
+sequence
+-------ANAASGMAVHDECKLKFMDLKA---------KRTHRFIIYKIEEKQKQVMVEKVGE-------
+--PAQTYDEFAACLPENECRYAVFDYDFLTP--EGQKSRIFFIAWSPDTARVRNKMIYASSKDRFKRELD
+GIQVELQATDASEMGLDVIQSR--------------*
+>P1;gi|15223471|ref|NP_171680.1| actin-depolymerizing factor, putati... [ score 187 E 1e-46 ] [ range 2 .. 138 ]
+sequence
+-------ANSASGMHVSDECKLKFLELKA---------KRNYRFIVFKID--------EKAQQVMIDKLG
+-NPEETYEDFTRSIPEDECRYAVYDYDFTTP--ENQKSKIFFIAWSPDTSRVRSKMLYASSKDRFKRELD
+GIQVELQATDPSEMSLDIIKGRV-------------*
+>P1;gi|30697295|ref|NP_851227.1| actin-depolymerizing factor 3 (ADF3... [ score 187 E 1e-46 ] [ range 2 .. 137 ]
+sequence
+-------ANAASGMAVHDDCKLKFMELKT---------KRTHRFIIYKIEELQKQVIVEK-----IGEPG
+QTHED----LAASLPADECRYAIFDFDFVSS--EGVRSRIFFVAWSPDTARVRSKMIYASSKDRFKRELD
+GIQVELQATDPTEMDLDVFKSR--------------*
+>P1;gi|29436473|gb|AAH49463.1| Similar to cofilin 1 [Danio rerio] >g... [ score 186 E 1e-46 ] [ range 1 .. 163 ]
+sequence
+---------MASGVAISDDVIAHYELIRVRLQGTDE--KERFKLVVMRLSDDLKNIIVDEKNCLKVKDV-
+ENEKDVFKKIISMLPPKECRYALYDCKYTNK--ESVKEDLVFIFSAPDDAPMRSKMLYASSKNALKAKLP
+GMKFEWQINDNADKDASSLVEKLGGSKIVSLEGKPV*
+>P1;gi|18423381|ref|NP_568769.1| actin-depolymerizing factor, putati... [ score 184 E 9e-46 ] [ range 2 .. 135 ]
+sequence
+-------ANAASGMAVEDECKLKFLELKA---------KRNYRFIIFRID----------GQQVVVEKLG
+-SPQENYDDFTNYLPPNECRYAVYDFDFTTA--ENQKSKIFFIAWSPDSSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSLDIIKSR--------------*
+>P1;gi|18411410|ref|NP_567182.1| actin-depolymerizing factor, putati... [ score 183 E 2e-45 ] [ range 2 .. 138 ]
+sequence
+-------ANSASGMHVNDECKIKFLELKA---------KRTYRFIVFKID--------EKAQQVQIEKLG
+-NPEETYDDFTSSIPDDECRYAVYDFDFTTE--DNQKSKIFFIAWSPDTSRVRSKMLYASSKDRFKREME
+GIQVELQATDPSEMSLDIIKGRL-------------*
+>P1;gi|18402587|ref|NP_565719.1| actin-depolymerizing factor 6 (ADF6... [ score 181 E 4e-45 ] [ range 7 .. 144 ]
+sequence
+-----SRPNAISGMGVADESKTTFLEL---------QRKKTHRYVVFKIDESKKEVVVEKTG--------
+-NPTESYDDFLASLPDNDCRYAVYDFDFVTS--ENQKSKIFFFAWSPSTSGIRAKVLYSTSKDQLSRELQ
+GIHYEIQATDPTEVDLEVLRER--------------*
+>P1;gi|34877158|ref|XP_346064.1| similar to Cofilin, non-muscle isof... [ score 181 E 5e-45 ] [ range 1 .. 140 ]
+sequence
+---------------------------------MPEAVKKCKKALLLCLSEDKKNIILEEGKEILVGDVG
+RTVDDPYTTFVKILPDKNCCYALYDTTYETK--ESKKEDLVFIFWTPKGAPLKSKMIYASSKDGIQKKLT
+GIKYELQANCCEETKAHCLAEKLGGSVIF-LESKP-*
+>P1;gi|21554405|gb|AAM63510.1| Actin-depolymerizing factor ADF-6 [Ar... [ score 181 E 5e-45 ] [ range 7 .. 144 ]
+sequence
+-----SRPNAISGMGVADESKTTFLEL---------QRKKTHRYVVFKIDESKKEVVVEKTG--------
+-NPTESYDDFLASLPDNDCRYAVYDFDFVTS--ENQKSKIFFFSWSPSTSPVRAKVLYSTSKDQLSKELQ
+GIHYEIQATDPTEVDLEVLRER--------------*
+>P1;gi|22857914|gb|AAL91667.1| pollen specific actin-depolymerizing ... [ score 181 E 8e-45 ] [ range 2 .. 135 ]
+sequence
+-------ANAASGMAVLDECKLKFLELKA---------KRNYRFIVFKI----------EGQQVVVEKLG
+-NPEENYDDFTNSLPADECRYAVFDFDFITT--ENQKSKIFFIAWSPDTSKVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIIKSR--------------*
+>P1;gi|22831338|dbj|BAC16183.1| putative actin-depolymerizing factor... [ score 179 E 2e-44 ] [ range 2 .. 137 ]
+sequence
+-------ANSASGLAVNDECKFKFQELKTR---------RGFRFIVFKIDD--------KAMEIKVERLG
+QT-AEGYEDFAATLPADECRYAVYDLDFVTD--ENQKSKIFFFSWSPDTARTRSKMLYASSKDRFRRELD
+GIQCEIQATDPSEMSLDIIRAR--------------*
+>P1;gi|231509|sp|P30175|ADF_LILLO Actin-depolymerizing factor (ADF) ... [ score 179 E 2e-44 ] [ range 2 .. 137 ]
+sequence
+-------ANSSSGMAVDDECKLKFMELKA---------KRNFRFIVFKIEEKVQQVTVERLGQ-------
+--PNESYDDFTECLPPNECRYAVFDFDFVTD--ENQKSKIFFISWSPDTSRVRSKMLYASTKDRFKRELD
+GIQVELQATDPSEMSMDIIKAR--------------*
+>P1;gi|18408116|ref|NP_566882.1| actin-depolymerizing factor, putati... [ score 178 E 4e-44 ] [ range 2 .. 135 ]
+sequence
+-------ANAASGMAVHDDCKLKFMELKA---------KRTFRTIVYKIED--KQVIVEKLGE-------
+--PEQSYDDFAASLPADDCRYCIYDFDFVTA--ENQKSKIFFIAWSPDTAKVRDKMIYASSKDRFKRELD
+GIQVELQATDPTEMGLDVFKSR--------------*
+>P1;gi|1168345|sp|P46251|ADF1_MAIZE Actin-depolymerizing factor 1 (A... [ score 178 E 6e-44 ] [ range 2 .. 137 ]
+sequence
+-------ANSSSGLAVNDECKVKFRELKSR---------RTFRFIVFRIDD--------TDMEIKVDRLG
+E-PNQGYGDFTDSLPANECRYAIYDLDFTTI--ENQKSKIFFFSWSPDTARTRSKMLYASSKDRFRRELD
+GIQCEIQATDPSEMSLDIVRSR--------------*
+>P1;gi|34897072|ref|NP_909882.1| putative actin-depolymerizing facto... [ score 178 E 7e-44 ] [ range 6 .. 143 ]
+sequence
+-----SHSNASSGMGVAPDIRDTFLEL---------QMKKAFRYVIFKIEEKQKQVVVEKTG--------
+-ATTESYDDFLASLPENDCRYALYDFDFVTG--ENQKSKIFFIAWSPSTSRIRAKMLYSTSKDRIKQELD
+GFHYEIQATDPTEVDLEVLRER--------------*
+>P1;gi|17366523|sp|Q43694|ADF2_MAIZE Actin-depolymerizing factor 2 (... [ score 177 E 8e-44 ] [ range 2 .. 137 ]
+sequence
+-------ANSSSGLAVSDECKVKFRDLKARRS---------FRFIVFRIDD--------KDMEIKVDRLG
+E-PNQGYGDFTDSLPADECRYAIYDLDFTTV--ENQKSKIFFFSWSPDTARTRSKMLYASSKDRFRRELD
+GIQCEIQATDPSEMSLDIVKSR--------------*
+>P1;gi|38345587|emb|CAE01864.2| OSJNBb0012E24.5 [Oryza sativa (japon... [ score 177 E 8e-44 ] [ range 2 .. 137 ]
+sequence
+-------ANSASGMAVGDECKLKFQELKS---------KRSFRFITFKIDERTQQVVVDRLGQ-------
+--PGDTYDDFTASMPASECRYAVFDFDFVTD--ENQKSKIFFISWSPDTSKVRSKMLYASSKDRFKRELD
+GIQVELQATDPSEMSMDIVKAR--------------*
+>P1;gi|24745620|dbj|BAC23034.1| actin depolymerizing factor 6 [Solan... [ score 177 E 1e-43 ] [ range 9 .. 143 ]
+sequence
+--------NASSGMGVADQSKATYMEL---------QRKKVHRYVIFMIDEKKNEVVVEKTG--------
+-GPAESYDDFTAALPENDCRYAVYDYDFVTP--DNQKSKIFFFAWSPSVSRIRSKMLYATSKDRFRRELE
+GIHYEIQATDPTEVELEVLKER--------------*
+>P1;gi|22857912|gb|AAL91666.1| pollen specific actin-depolymerizing ... [ score 174 E 1e-42 ] [ range 2 .. 135 ]
+sequence
+-------ANAVSGMAVQDECKLKFLELKT---------KRNYRFIIFKID----------GQEVVVEKLG
+-SPEESYEDFANSLPADECRYAVFDLDFITN--ENQKSKIFFIAWSPETSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIVKAR--------------*
+>P1;gi|32363121|sp|Q8SAG3|ADF_VITVI Actin-depolymerizing factor (ADF... [ score 174 E 1e-42 ] [ range 7 .. 141 ]
+sequence
+--------NASSGMGVADHSKNTFLELKR---------KKVHRYVIFKIDEKKKEVVVEKTG--------
+-GPAESFDEFAAALPENDCRYAVYDFDFVTS--ENQKSKIFFIAWSPDSSRIRAKMLYATSKERFRRELD
+GVHYEIQATDPTEMDLEVLRER--------------*
+>P1;gi|4566614|gb|AAD23407.1| actin depolymerizing factor [Populus x... [ score 173 E 2e-42 ] [ range 1 .. 136 ]
+sequence
+-------PNASSGMGVADHSKIAFVEL---------QRKKVHRYVIFKIDEKKKEVVVEKTG--------
+-GPAESYEDFTASLPENDCRYAVYDFDFVTS--ENQKSKIFFIAWSPSTSRIRAKMLYATSKDRFRRELD
+GIHYEIQATDPTEMDLEVIRER--------------*
+>P1;gi|11596089|dbj|BAB18899.1| cofilin [Zygosaccharomyces rouxii] [ score 171 E 8e-42 ] [ range 2 .. 140 ]
+sequence
+---------SRSGVSVADESLQAFNDLK---------LGKKYKFVLYGISEDKTTIVVKET---------
+-STSQSYDEFLGKLPENDCLYAIYDFEYEIG--EGKRSKIVFFTWSPDTAPVRSKMVYASSKDALRRALT
+GVSSDIQGTDFSEVSFETVLERVSKSA---------*
+>P1;gi|15149386|gb|AAK85273.1| cofilin [Pichia angusta] [ score 169 E 2e-41 ] [ range 2 .. 137 ]
+sequence
+---------SRSGVAVSDEALKAFNDLK---------LGKKFKSIIYKLNDAKTEIVVDST---------
+-STEDAYDAFVEDLPENDCRYAVYDFEYEVG--DGKRNKIVFYQWSPDTASVRAKMVYASSKDALRRALN
+GIGTEIQGTDFSEVAYESVLEKIS------------*
+>P1;gi|37536154|ref|NP_922379.1| putative actin depolymerizing facto... [ score 169 E 3e-41 ] [ range 13 .. 149 ]
+sequence
+------GGGSPAWIEVPEKSKSAFWELKRRK---------VHRYVIFKIDDRREEIVVEKTG--------
+-APGESYDDFTASLPADDCRYAVYDLDFVSD--DNRKSKIFFISWSPSVSRIRAKTIYAVSRNQFRHELD
+GVHFEIQATDPDDMDLEVLRGR--------------*
+>P1;gi|45188108|ref|NP_984331.1| ADR235Wp [Eremothecium gossypii] >g... [ score 169 E 3e-41 ] [ range 2 .. 140 ]
+sequence
+---------SRSGVAVADESLTAFNDLK---------LGKKYKFVLFGLNADKTSIIVKETSNERDYDV-
+---------FLEKLPEDDCLYAVYDFEYEIA--EGKRSKIVFFTWSPDTAPIRSKMVYASSKDALRRALN
+GVSSDIQGTDFSEVAYESVLEKVSRGA---------*
+>P1;gi|15235159|ref|NP_194289.1| actin-depolymerizing factor, putati... [ score 166 E 2e-40 ] [ range 1 .. 128 ]
+sequence
+-------------MAVEDECKLKFLELKS---------KRNYRFIIFRID----------GQQVVVEKLG
+-NPDETYDDFTASLPANECRYAVFDFDFITD--ENQKSKIFFIAWSPDSSRVRMKMVYASSKDRFKRELD
+GIQVELQATDPSEMSFDIIKSR--------------*
+>P1;gi|17366520|sp|Q41764|ADF3_MAIZE Actin-depolymerizing factor 3 (... [ score 163 E 1e-39 ] [ range 2 .. 137 ]
+sequence
+-------ANARSGVAVNDECMLKFGEL---------QSKRLHRFITFKMDDKFKEIVVDQ-----VGDRA
+TS----YDDFTNSLPENDCRYAIYDFDFVTA--EDQKSRIFYILWSPSSAKVKSKMLYASSNQKFKSGLN
+GIQVELQATDASEISLDEIKDR--------------*
+>P1;gi|29124123|gb|AAO65864.1| putative actin depolymerizing factor ... [ score 163 E 2e-39 ] [ range 2 .. 138 ]
+sequence
+-------ANSSSGVAIHDDCKLKFNEL---------QSKRMHRFITFMMDNKGKEIIVDK-----IGDR-
+---TTSYEDFTSSLPEGDCRFAIYDFDFLTA--EDVKSRIFYILWSPDNAKVRSKMLYASSNERFKKELN
+GIQLEVQATDAGEISLDALKDRV-------------*
+>P1;gi|5802959|gb|AAD51856.1| putative actin depolymerizing factor [... [ score 162 E 2e-39 ] [ range 4 .. 127 ]
+sequence
+-------------------CKLKFLELKA---------KRTYRFIVFKIDEKKNEVIVEKLGE-------
+--PAESYEDFTANLPDNECRYAVYDFDFVTV--ENHKSRIFFVGWSPDTARVRNKMIYASSKDRFKRELD
+GIQVELQATDPSEIGLDVIKSR--------------*
+>P1;gi|11066101|gb|AAG28460.1| actin depolymerization factor-like pr... [ score 161 E 7e-39 ] [ range 2 .. 141 ]
+sequence
+-------ANSVSGVAVNEECVKVFQELRA---------ERKHRFVVYKMDDD------EDAQQVVVDKVG
+A-LDATFDDLAAAMPADDCRYAVYDLDFVSE--DSPRSKIFFIHWSPEAADARSKMVYASSTEGLKKELD
+GVQIDVQATDASELTLDILKD---------------*
+>P1;gi|27924273|gb|AAH45044.1| MGC53245 protein [Xenopus laevis] [ score 161 E 8e-39 ] [ range 1 .. 150 ]
+sequence
+---------MASGVRIDDCISAEFQEMKLRKS--------KKKVIFFCFTEDEKFITLDKEKEILVDHKG
+----DFFQTLKSMFPEKKCCYALIDVNYSTG--ETLRQDLMFVMWTPDTATIKQKMLFASSKSSLKQALP
+GVQKQWEIQSREDLTLQQLAEKISNSKIKCLEG---*
+>P1;gi|1381154|gb|AAC49404.1| WCOR719 [ score 161 E 8e-39 ] [ range 2 .. 139 ]
+sequence
+-------ANSVSGVAVNEECVKVFQELRA---------ERKHRFVVYKMDDDAQQVVVDK-----VGALD
+AT----FDDLAAAMPADDCRYAVYDLDFVSE--DSPRSKIFFIHWSPESADARNKMLYASSTEGLKKELD
+GVQIDVQATDASELTLNILKD---------------*
+>P1;gi|19115653|ref|NP_594741.1| cofilin [Schizosaccharomyces pombe]... [ score 160 E 1e-38 ] [ range 2 .. 134 ]
+sequence
+---------SFSGVKVSPECLEAFQELKLGKSL---------RYVVFKMNDTKTEIVVEKK---------
+-STDKDFDTFLGDLPEKDCRYAIYDFEFNLG--EGVRNKIIFISWSPDVAPIKSKMVYSSSKDTLRRAFT
+GIGTDIQATDFSEVAYETVLEKV-------------*
+>P1;gi|34874889|ref|XP_346033.1| similar to cofilin [Rattus norvegicus] [ score 157 E 9e-38 ] [ range 1 .. 135 ]
+sequence
+---------MASGVTVNDDVINVFNDMKVRK-STQEEIKK--KAVLFCLSGDKRQIIVEEAKQILVGDIG
+DTVEDTYTSFVRLLHLNDCRYALYNAIYETK--ESKKEDLVFIFWAPEI---------------------
+--------NGLDDIKDSTLGEKLGGSVVVSLEGKPL*
+>P1;gi|29124120|gb|AAO65861.1| putative actin-binding protein [Oryza... [ score 156 E 1e-37 ] [ range 2 .. 147 ]
+sequence
+-------ANATSGVAVSEECKARFQELRA---------GRAHRFVVFKIDDAMRQVVV---------DRV
+GPRDAGFDELTASLPADGCRYAVYDHDFTVS--DATRSKIFFVSWSPAAADVRSKMVYASSNEGFKKELD
+GVQIDLQATDPSELTLDVLKD---------------*
+>P1;gi|18398187|ref|NP_565390.1| actin-depolymerizing factor 5 (ADF5... [ score 154 E 6e-37 ] [ range 8 .. 141 ]
+sequence
+---------ATTGMRVTDECTSSFMDMK---------WKKVHRYIVFKIE--------EKSRKVTVDKVG
+-GAGESYHDLEDSLPVDDCRYAVFDFDFVTV--DNRKSKIFFIAWSPEASKIRAKILYATSKDGLRRVLE
+GIHYELQATDPTEMGFDIIQDR--------------*
+>P1;gi|15231305|ref|NP_190185.1| actin-depolymerizing factor, putati... [ score 154 E 8e-37 ] [ range 1 .. 132 ]
+sequence
+-------------MVLHDDCKLTFLELKER---------RTFRSIVYKIEDNMQVIVEKHHYKKMHGER-
+---EQSYEEFANSLPADECRYAILDIEFVPG--E---RKICFIAWSPSTAKMRKKMIYSSTKDRFKRELD
+GIQVEFHATDLTDISLDAIRRRI-------------*
+>P1;gi|34394310|dbj|BAC84792.1| putative actin depolymerizing factor... [ score 151 E 5e-36 ] [ range 7 .. 142 ]
+sequence
+---TVMGGGSPAWIEVPEKSKSAFWELMRRK---------VHRYVIFKIDDRREEIVVEKTG--------
+-APWESYDDFTASLPAD----AVYDLDFVSD--DNRKSKIFFISWSPSLSCIRAKTIYAVWRNQFRHELD
+GVHFEIQATDPDDMDLEVLRGR--------------*
+>P1;gi|38105102|gb|EAA51569.1| hypothetical protein MG03164.4 [Magna... [ score 149 E 2e-35 ] [ range 2 .. 151 ]
+sequence
+---------SQSGATVSQECVTTYNELK---------LGKNIKYIIFKLSDNNKEIVVEEASGDSDENFR
+NKLVNATVKSPSGAVGKAPRYAVYDFQYTSG--EGERNKITFIAWSPDDAGVKPKMIYAASKDALKRALN
+GIAHELQANDADDIEYDSVLKTVSKGL---------*
+>P1;gi|16416030|emb|CAB91380.2| related to cofilin [Neurospora crassa] [ score 149 E 3e-35 ] [ range 2 .. 152 ]
+sequence
+---------SQSGVQVDPECRRAF----------DKLMSRQLRYIIYKLSDDFKEIVIEEGATENYDEFR
+EKLVNAQTKSASGAISKGPRYAVYDFEYKSG--EGSRNKVTFIAWSPDDAGIKSKMVYASSKEALKRSLS
+GIAVELQANEQDDIEYEQIIKTVSKGT---------*
+>P1;gi|31196947|ref|XP_307421.1| ENSANGP00000012938 [Anopheles gambi... [ score 147 E 7e-35 ] [ range 2 .. 148 ]
+sequence
+----PKRVKMASGVTVSDVCKTTYEEIK---------KDKKHRYVIFYIR-DEKQIDVE-----VIGDRN
+AEY-DSFLEDIQKGGPGECRYGLFDFEYTSE--SSKKQKLFLMSWCPDTAKVKKKMLYSSSFDALKKSLV
+GVQKYIQATDLSEASREAVEEKL-------------*
+>P1;gi|15236233|ref|NP_195223.1| actin-depolymerizing factor, putati... [ score 146 E 3e-34 ] [ range 2 .. 128 ]
+sequence
+----------------TDDCKKSFMEMK---------WKKVHRYVVYKLE--------EKSRKVTVDKVG
+AA-GESYDDLAASLPEDDCRYAVFDFDYVTV--DNCRSKIFFITWSPEASRIREKMMYATSKSGLRRVLD
+GVHYELQATDPTEMGFDKIQDR--------------*
+>P1;gi|17136986|ref|NP_477034.1| twinstar CG4254-PA [Drosophila mela... [ score 144 E 1e-33 ] [ range 1 .. 142 ]
+sequence
+---------MASGVTVSDVCKTTYEEIK---------KDKKHRYVIFYIR-DEKQIDVE-----TVADRN
+AEY-DQFLEDIQKCGPGECRYGLFDFEYTSE--SSKKQKLFLMSWCPDTAKVKKKMLYSSSFDALKKSLV
+GVQKYIQATDLSEASREAVEEKL-------------*
+>P1;gi|42550893|gb|EAA73736.1| hypothetical protein FG06245.1 [Gibbe... [ score 141 E 6e-33 ] [ range 2 .. 142 ]
+sequence
+------------------DCITAFNDLK---------LNKKYKFIVYKLSDDYKEIVIDKASESRDEDFR
+ETLVNATAKSRTGAVGKGPRYAVYDFEYNSG--DGIRNKITFIAWSPDDAGIQPKMIYASSKEALKRSLT
+GIATELQANDTDDIEYDSILKTVSKGL---------*
+>P1;gi|24643098|ref|NP_573321.1| CG6873-PA [Drosophila melanogaster]... [ score 131 E 5e-30 ] [ range 1 .. 142 ]
+sequence
+---------MASGINLSRECQHVFEQIRKLKQ---------HRYAVFVI-QDEREIKVE------VLGVR
+EANYDDFLADLQRAGSNQCRFAVYDYEYQHQ--TCLKEKLILMLWCPTLARIKDKMLYSSTFAVLKREFP
+GVQKCIQATEPEEACRNAVEEQL-------------*
+>P1;gi|33772153|gb|AAQ54513.1| actin-depolymerizing factor [Malus x ... [ score 128 E 5e-29 ] [ range 2 .. 94 ]
+sequence
+--------------------------------------KRTYRSIVFKIEEKQKQVVVEHVGE-------
+--PAETYEQFTEKLPAHECRYAIFDFDFLTP--EGQKSRIFFIAWSPDTSRVRSKMIYASSKDRFKRELD
+G-----------------------------------*
+>P1;gi|40745272|gb|EAA64428.1| hypothetical protein AN2317.2 [Asperg... [ score 123 E 2e-27 ] [ range 4 .. 160 ]
+sequence
+----------ASGVQVQDECITAFNNLRM----TGGQKGSKPKFIIFKISDDKKQVVVDETSDDPDYE--
+-TFLNKLGDAKDANGKPAPRYAVYDVEYDGG--EGTRSKIIFISWVPSGTSINASMIYASTREVLKNALN
+VVTS-IHADDKGDLAKSILAEVSGGKA---------*
+>P1;gi|22795041|gb|AAN05421.1| putative actin-depolymerizing factor ... [ score 122 E 4e-27 ] [ range 1 .. 78 ]
+sequence
+----------------------------------------------------------------------
+-------------LPDDDCRYAVFDFDFVTV--DNRKSKIFFIAWAPTASRIRAKMLYATSKDGLRRVLE
+GVHYELQATDPTEMGFDLIRDR--------------*
+>P1;gi|23485107|gb|EAA20214.1| actin-depolymerizing factor 3 [Plasmo... [ score 119 E 2e-26 ] [ range 1 .. 131 ]
+sequence
+---------MVSGVNVSDECIYEFNRLKV---------KHLHKYIIYKI-ENLEQIVVD----ILEHDME
+LTSLDNIMRIKNNLKNTECRYIIADMPIPTP--EGVRDRIYFIFWSPGLSKPKEKMLYAASKESLVRKIN
+GIFKSLEITC--DIDE--------------------*
+>P1;gi|23619535|ref|NP_705497.1| actin-depolymerizing factor, putati... [ score 119 E 3e-26 ] [ range 1 .. 135 ]
+sequence
+---------MVSGVKVSDECVYEFNKLKI---------KHIHKYIIYRIENYEEVIVLEQDNSLK-----
+-SYKDIIIDIRNNLKTTECRYIIADMPIPTP--EGVRNRIYFIFWSPDLAKSKEKMLYASSKEYLVRKIN
+GIFKSLEITDLEDFEDE-------------------*
+>P1;gi|2342858|gb|AAC47717.1| actin depolymerizing factor [Toxoplasm... [ score 116 E 2e-25 ] [ range 1 .. 114 ]
+sequence
+---------MASGMGVDENCVARFNELKIRKTV---------KWIVFKIENTK--IVVEKDGK-------
+----GNADEFRGALPANDCRFAVYNC----------GNKIQFVLWCPDNAPVKPRMTYASSKDALLKKLD
+GTAVALEAHEMGDL----------------------*
+>P1;gi|43387800|gb|EAD58427.1| unknown [environmental sequence] [ score 116 E 3e-25 ] [ range 26 .. 112 ]
+sequence
+----------------------------------------------------------------------
+------FQQLLDQLPADEPRYFVLDWDGVTK--DGRQSKIFFVSWVPDTCKAKTKMLYASSKQALRNALD
+GVQLDHQATDYDEITPEELNERAG------------*
+>P1;gi|32566130|ref|NP_503427.2| UNCoordinated locomotion UNC-60 (un... [ score 109 E 4e-23 ] [ range 1 .. 146 ]
+sequence
+---------MASGVKV-DPSCKNAYDLL--------HNKHQHSYIIFKIDKNDTAIVVEKVGEK------
+---NAPYAEFVEEMKKKECRYAAVDVEVTVQ--RQGANKVIFVQYCPDNAPVRRRMLYASSVRALKASL-
+GLEFQVQASEMSDLDEKSVKSDL-------------*
+>P1;gi|29841150|gb|AAP06163.1| similar to GenBank Accession Number Z... [ score 108 E 5e-23 ] [ range 1 .. 131 ]
+sequence
+---------MSSGITPTDECEIHYNALK---------MNKVYRYILFTITGSKIDVMKKAKR--------
+---DSSFQDFIDQLKDSGC-YAVID--YEGE--GVKGSNLIFVSWVPDKATTRMKMLYASSREHLKARFQ
+GLKGDLQADDISEVTESALASK--------------*
+>P1;gi|32394634|gb|AAM94015.1| acin depolymerizing factor 2 [Griffit... [ score 100 E 1e-20 ] [ range 1 .. 133 ]
+sequence
+---------MVSGVPINPAVIEKYNEISKRTCGAM---------ILSLAKPNNDEVIVDQAFPPTTPD--
+SDPEDIWKKILEQVPDEDCRYIIVDFKVTTP--TVSQEKVTLVYWAPETAPSRSKMIYAATKEHISSSLN
+GVQSRCSATTLTNL----------------------*
+>P1;gi|32566126|ref|NP_503425.2| UNCoordinated locomotion UNC-60 (un... [ score 99 E 5e-20 ] [ range 1 .. 159 ]
+sequence
+---------MSSGVMVDPDVQTSFQKL--------SEGRKEYRYIIFKIDEN-KVIVEAAVTQDQLGITG
+DDYDDSFDKFVEDVKSTDCRYAVFDFKFTAG--TSKMDKIIFLQICPDGASIKKKMVYASSAAAIKTSLT
+GKILQFQVSDESEMSHKELLNKLG------------*
+>P1;gi|23479884|gb|EAA16596.1| actin depolymerizing factor [Plasmodi... [ score 89 E 4e-17 ] [ range 1 .. 107 ]
+sequence
+---------MISGIRVNDNCVTEFNNMKIRKTC-------------------RWMIFVIENCEIIIHSKG
+ETT--SLKELVDSIDKNDCAYVVFDAV----------NKIHFFMYARETSNSRDRMTYASSKQALLKKIE
+GVNV--------------------------------*
+>P1;gi|34877180|ref|XP_344487.1| similar to Cofilin, non-muscle isof... [ score 87 E 2e-16 ] [ range 3 .. 66 ] [ duplicate a ]
+sequence
+--LSPKYGNRASGVTVSDGVSEVFNKVEIRKSSTPEEVKKGKKAVLFCLSEDTGNIILEEGKEILM----
+----------------------------------------------------------------------
+------------------------------------*
+>P1;gi|34877180|ref|XP_344487.1| similar to Cofilin, non-muscle isof... [ score 87 E 2e-16 ] [ range 66 .. 98 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------------MIYASSKDAIQKKLT
+GIKDELQASCYEVVKDRC------------------*
+>P1;gi|43767740|gb|EAF38306.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 1 .. 60 ]
+sequence
+----------------------------------------------------------------------
+-----------AVLPYTDCRYAVYDHEFTTA--DGRITKLFFLSWMPHNATPYSKMAYASGKGMLRERLD
+GV----------------------------------*
+>P1;gi|39592861|emb|CAE62475.1| Hypothetical protein CBG06572 [Caeno... [ score 84 E 2e-15 ] [ range 1 .. 159 ]
+sequence
+---------MSSGVMVDPDVQTSFQKL--------SEGRKEYRYIIFKI-EDNKVIVESAVTQDQLELTG
+DDYDDSFEKFAADIKSTDCRYAVFDFKFTAG--TSKMDKIIFLQICPDGASIKKKMVYASSAAAIKASLT
+GKILQFQVSDEPEMNHKEFLNKLG------------*
+>P1;gi|23613057|ref|NP_703379.1| actin depolymerizing factor, putati... [ score 83 E 2e-15 ] [ range 1 .. 107 ]
+sequence
+---------MISGIRVNDNCVTEFNNMKIRKTC---------GWIIFVI----------QNCEIIIHSKG
+ASTT--LTELVQSIDKNQCAYVVFDAV----------SKIHFFMYARESSNSRDRMTYASSKQAILKKIE
+GVNV--------------------------------*
+>P1;gi|38090949|ref|XP_356515.1| similar to Cofilin, non-muscle isof... [ score 83 E 3e-15 ] [ range 92 .. 173 ]
+sequence
+----------------------------------------------------------------------
+----------------------------EVK--KHRK-AVLFFLSEDKKNIIKTKMICASSKDAIKKKVT
+GIKHELQANCYEEADRGTLAEKLGGRAITSLEDKPL*
+>P1;gi|34867259|ref|XP_345520.1| similar to Cofilin, non-muscle isof... [ score 80 E 2e-14 ] [ range 1 .. 63 ]
+sequence
+---------MASGVDFSDRVIMVFGNMKVFTYSMPE-VKKHKKAVHFCLSEEKKNITLEEGKEILVGNIG
+QTV-------------------------------------------------------------------
+------------------------------------*
+>P1;gi|34879598|ref|XP_344688.1| similar to Cofilin, non-muscle isof... [ score 77 E 2e-13 ] [ range 124 .. 176 ]
+sequence
+--------------------------------------------------------------DILEGDVE
+LSLNDPYTTFVKMLPDKDWRYALCDATYETK--ESKKGDLLFIFWTP-----------------------
+------------------------------------*
+>P1;gi|42548719|gb|EAA71562.1| hypothetical protein FG08822.1 [Gibbe... [ score 70 E 2e-11 ] [ range 664 .. 770 ]
+sequence
+-----SYSNSVS---VDQDCIIAANALRFSKGPD------KIKFIIFKITDDEQNVVVEETSSETDYEV-
+--FRQKLLSGVDKTGNPAPRYAVYDVDYDLG--EDGKRQL--------------RMLYASTMEYLKKTVN
+------------------------------------*
+>P1;gi|40068475|ref|NP_002813.2| twinfilin isoform 1; protein tyrosi... [ score 68 E 6e-11 ] [ range 40 .. 165 ]
+sequence
+------------GIQASEDVKEIF------------ARARNGKYRLLKISIENEQLVIG-----SYSQPS
+DSWDKDYDSFVPLLEDKQPCYILFRLD--SQ--NAQGYEWIFIAWSPDHSHVRQKMLYAATRATLKKEFG
+GIKDEVFGTVKEDVSL--------------------*
+>P1;gi|27065561|pdb|1M4J|A Chain A, Crystal Structure Of The N-Termi... [ score 66 E 3e-10 ] [ range 6 .. 131 ]
+sequence
+------------GIQASEDVKEIF------------ARARNGKYRLLKISIENEQLVVGSCSP-----PS
+DSWEQDYDSFVPLLEDKQPCYVLFRLD--SQ--NAQGYEWIFIAWSPDHSHVRQKMLYAATRATLKKEFG
+GIKDEVFGTVKEDVSL--------------------*
+>P1;gi|31560645|ref|NP_032997.2| twinfilin; actin monomer-binding pr... [ score 65 E 6e-10 ] [ range 6 .. 131 ]
+sequence
+------------GIQASEDVKEIF------------ARARNGKYRLLKISIENEQLVVGSCS--------
+-PPSDSWEHDYDSFEDKQPCYVLFRLD--SQ--NAQGYEWIFIAWSPDHSHVRQKMLYAATRATLKKEFG
+GIKDEVFGTVKEDVSL--------------------*
+>P1;gi|7768638|dbj|BAA95482.1| glia maturation factor beta [Cyprinus... [ score 64 E 1e-09 ] [ range 13 .. 139 ]
+sequence
+--------------------------------SLQEKLKKRFRAILMKIDMEKQLVVLEEEYENI-----
+-----SLDELREELPERQPRYIVYSYKLTHG--DGRVSPLCFIFSSPVGCKPEQQMMYAGSKNRLVQSAD
+-LTKIFEVRNPDDLTEEWLKEKLS------------*
+>P1;gi|29179458|gb|AAH49318.1| Similar to glia maturation factor, be... [ score 64 E 1e-09 ] [ range 10 .. 139 ]
+sequence
+---------------VDEDLVKKLRDFRFRKETNNA-------AIIMKIDKDKQLVILEEEHE------D
+ISPED----LKNELPERQPRFVVYSYKYQHD--DGRVSPLCFIFSSPVGCKPEQQMMYAGSKNKLVQELT
+KV-FEIRNT--EDLTEEWLREKLG------------*
+>P1;gi|30583795|gb|AAP36146.1| Homo sapiens glia maturation factor, ... [ score 63 E 2e-09 ] [ range 7 .. 139 ]
+sequence
+-------------------VCDVAEDLVEKLRKFRFRKETNNAAIIMKIDKDKRLVVLDEELE------G
+ISPDE----LKDELPERQPRFIVYSYKYQHD--DGRVSPLCFIFSSPVGCKPEQQMMYAGSKNKLVQELT
+KV-FEIRNT--EDLTEEWLREKLG------------*
+>P1;gi|21358413|ref|NP_650338.1| twinfilin CG3172-PA [Drosophila mel... [ score 62 E 6e-09 ] [ range 6 .. 132 ]
+sequence
+------------GIRANEQLAKVFGKAKNG------------KFRVIKVSI--------ENEQLSCGATA
+ETKKDDYDKLIGPLLEKDPCYILYRLDAKIP--LGY--SWLLISWTPDTASIRQKMVYASTKATLKTEFG
+SITEELHATTLDECTLE-------------------*
+>P1;gi|31202595|ref|XP_310246.1| ENSANGP00000015237 [Anopheles gambi... [ score 61 E 2e-08 ] [ range 10 .. 146 ]
+sequence
+------HPNSSTGIKANAELLKFFGKCKDGKT------------RVLKVSIEN-----EELRLVSHSDVK
+RDWEKDYDTLVRLIEESTPCYILYRLDYKIP--TGY--AWLLMSWVPESATVRQKMLYASTKATLKLEFG
+SIKEELNATSKEETTLQ-------------------*
+>P1;gi|41054353|ref|NP_956019.1| PTK9 protein tyrosine kinase 9 [Dan... [ score 60 E 3e-08 ] [ range 6 .. 132 ]
+sequence
+------------GIQAADEVKDVFGNARNGQ------------YRLLKIVIENEELVLGLTKPAS-----
+RSWEEDYDALLLPVLEQDPCYILFRLD--SS--NSLGHEWIFIAWSPDHSPVRHKMLYAATRATIKKELG
+HIKDEMFGTVKDDVSLS-------------------*
+>P1;gi|29165811|gb|AAH49134.1| Glia maturation factor, beta [Mus mus... [ score 59 E 5e-08 ] [ range 7 .. 140 ]
+sequence
+-------------------VCDVAEDL-VEKLRKFRFRKETHNAIIMKIDKDERLVVLDEELE------G
+VSPDE----LKDELPERQPRFIVYSYKYQHD--DGRVSPLCFIFSSPVGCKPEQQMMYAGSKNKLVQELT
+KV-FEIRNT--EDLTEEWLREKLG------------*
+>P1;gi|11993950|ref|NP_071307.1| glia maturation factor, gamma [Mus ... [ score 58 E 8e-08 ] [ range 7 .. 138 ]
+sequence
+-------------------VCEVDPELKETLRKFRFRKETNNAAIIMKVDKDRQMVVLEDELQ------N
+ISPEE----LKLELPERQPRFVVYSYKYVHD--DGRVSPLCFIFSSPVGCKPEQQMMYAGSKNRLVQELT
+KV-FEIRTTD--DLTETWLKEKL-------------*
+>P1;gi|31238600|ref|XP_319810.1| ENSANGP00000016558 [Anopheles gambi... [ score 58 E 9e-08 ] [ range 50 .. 177 ]
+sequence
+---------------------------------SPEAKEEISKFR-FRRNATNTALILKIDREKQLVTVD
+ELLDDAIEELQEQLPSHQPRYIIYSYKMVHD--DSRISPMCFIFYTPRDSQMELCMLYAKTRMALQREAD
+-LTRYYEIRELDDMTEDWLREKL-------------*
+>P1;gi|20839570|ref|XP_133608.1| similar to PTK9 protein tyrosine ki... [ score 58 E 9e-08 ] [ range 7 .. 131 ]
+sequence
+-------------IQTSEDVKEIF------------ARARNGKYRLLKISIENEQLVVGSCSPLSD----
+-SWEQDYDSFVPLLEDKQPCYVLFRLD--SQ--NAQGYEWIFIAWSPDHSHVLQKMLYVVTRATLKKEFG
+GIKDEVFGTVKEDISL--------------------*
+>P1;gi|38080273|ref|XP_358927.1| similar to Cofilin, non-muscle isof... [ score 57 E 1e-07 ] [ range 50 .. 84 ]
+sequence
+------SGNMASGVADSDDVIKVFNDMKIRKSSMPEEVKKH-----------------------------
+----------------------------------------------------------------------
+------------------------------------*
+>P1;gi|30842809|ref|NP_851605.1| glia maturation factor, gamma [Ratt... [ score 58 E 1e-07 ] [ range 7 .. 138 ]
+sequence
+-------------------VCDVDPELKETLRKFRFRKETNNAAIIMKVDKDRQMVVLEDEFQNV-----
+-----SPEELKLELPERQPRFVVYSYKYVHD--DGRVSPLCFIFSSPVGCKPEQQMMYAGSKNRLVQELT
+KV-FEIRTTD--DLNETWLKEKL-------------*
+>P1;gi|19697925|dbj|BAB86591.1| glia maturation factor gamma [Homo s... [ score 58 E 1e-07 ] [ range 31 .. 139 ]
+sequence
+-------------------------------------------AIIMKVDKDRQMVVLEEEFQNI-----
+-----SPEELKMELPERQPRFVVYSYKYVHD--DGRVSPLCFIFSSPVGCKRKQQMMYAGSKNRLVQELT
+KV-FEIRTTD--DLTEAWLQEKLS------------*
+>P1;gi|28279929|gb|AAH44672.1| Ptk9l-prov protein [Xenopus laevis] [ score 56 E 3e-07 ] [ range 24 .. 132 ]
+sequence
+-------------------------------------------------SIRLIKVVIEEEQLVLHKELK
+HAWEQDYDAIVPLLDESQPCYILYRLD--SQ--NAQGYEWIFLSWSPDHSPVRLKMLYAATRATVKKEFG
+GIKDEIFGTLKEDVALS-------------------*
+>P1;gi|6755224|ref|NP_036006.1| twinfilin-like protein; protein tyro... [ score 56 E 4e-07 ] [ range 30 .. 131 ]
+sequence
+--------------------------------------------------------VIIEDEQLVLGASQ
+EPVDQDYDRAVPLLDAQEPCYLLFRLD--SQ--NAQGFEWLFLAWSPDNSPVRLKMLYAATRATVKKEFG
+GIKDELFGTVKDDLSL--------------------*
+>P1;gi|6005846|ref|NP_009215.1| twinfilin-like protein; protein tyro... [ score 56 E 5e-07 ] [ range 30 .. 130 ]
+sequence
+--------------------------------------------------------VVIEDEQLVLGASQ
+EPVDQDYDRAVPLLDAQQPCYLLYRLD--SQ--NAQGFEWLFLAWSPDNSPVRLKMLYAATRATVKKEFG
+GIKDELFGTVKDDLS---------------------*
+>P1;gi|24584577|ref|NP_609787.2| CG5869-PA [Drosophila melanogaster]... [ score 54 E 1e-06 ] [ range 10 .. 137 ]
+sequence
+---------------------------------SNEVLEELKKFRFSK-SKNNAALILKVDREKQTVVLD
+EFIDDSVDELQDTLPGHQPRYVIYTYKMVHD--DQRISPMCFIFYTPRDSQIELQMMYACTKSALQREVD
+LTRVY-EIRELDELTEEWLKAKL-------------*
+>P1;gi|1480791|gb|AAC47468.1| glia maturation factor BmGMF [ score 52 E 4e-06 ] [ range 8 .. 138 ]
+sequence
+--------------------CEIAADLKDELERFRFRRKRSTNALILKIDPVKQLIILDQKLEDCDPDM-
+---------ICDELPVQQPRYIVISYERVHD--DGRLSPLSLVFYSPSGCKPQLRMMYAGSRNNLARKCE
+-LNRVFEIREPDELTRELLELKL-------------*
+>P1;gi|28829972|gb|AAO52462.1| similar to Homo sapiens (Human). Prot... [ score 52 E 5e-06 ] [ range 24 .. 113 ]
+sequence
+---------------------------------------------------DVRLIKVVIKNDELVVDQK
+LNVQSDFETDLELAHKDSPCYILYKKDDKSI--ELTGYNWIFMFFVPDNAKVREKMTYAATRGNLKREL-
+------------------------------------*
+>P1;gi|7438537|pir||JC6308 glia maturation factor - nematode (Brugia... [ score 51 E 1e-05 ] [ range 8 .. 138 ]
+sequence
+--------------------CEIAADLKDELERFRFRRERSTNALILKIDPVKDLIILDDKLEDCDPDM-
+---------ICDELPVDDPRYIVISYERVHD--DGRYSPLSLVFYSPSGCKPQLRMMYAGSRNNLARKCE
+-LNRVFEIREPDELTRELLELKL-------------*
+>P1;gi|118449|sp|P20690|DEPA_ASTAM DEPACTIN >gi|103585|pir||A29916 d... [ score 51 E 1e-05 ] [ range 3 .. 147 ]
+sequence
+-----------SGTALDENVK---EEIRAFKMDQS-KVKVPWMLLEIVQNDDRIDVVKVTKK--------
+AGPSDNLETLREELKQREVVYFVLDYEPSEE--KRAKHNILTCFWSMETANIKLKMKYSSTVGTLKSATS
+TLKTYLEAHDFDDLSEEAIGDKI-------------*
+>P1;gi|38050519|ref|XP_284969.2| similar to Cofilin, non-muscle isof... [ score 49 E 3e-05 ] [ range 1 .. 104 ]
+sequence
+---------MVSGMALSAVVIKMLNNRKVSKLPTPEKVKSVKKAVPVCLSED-KNTILKDSIQILKGD--
+------------------------------A--EQIQNDL-------------------SVKTSIKNKLA
+GIKHKLQPTVYEEAKDHCLVEALAGS----------*
+>P1;gi|19075949|ref|NP_588449.1| putative tyrosine kinase [Schizosac... [ score 48 E 1e-04 ] [ range 41 .. 138 ]
+sequence
+---------------------------------------------------------------KTMVEKS
+ESIESDFKKVRECLGSEEPAFVVYD--------DSKKNLLQLISYVPENANVRRKMLYASSRAAFVRCVT
+LAKLDESASTPEELDYQQIMKSLSK-----------*
+>P1;gi|18158825|pdb|1HQZ|1 Chain 1, Cofilin Homology Domain Of A Yea... [ score 47 E 1e-04 ] [ range 46 .. 139 ]
+sequence
+----------------------------------------------------------------------
+ESTGSSFHDFLQLFDETKVQYGL--ARVSPP--GSDVEKIIIIGWCPDSAPLKTRASFAANFAAVANNLK
+GYHVQVTARDEDDLDENELLMKISNAA---------*
+>P1;gi|45185335|ref|NP_983052.1| ABR105Cp [Eremothecium gossypii] >g... [ score 46 E 4e-04 ] [ range 135 .. 283 ] [ duplicate a ]
+sequence
+-----------------DELIKTEVDRKLKNISGGRKLVSMSTGVAFKINEDEALIFEIDLTDEQIKLRT
+KKTPGSAKALVAAMDRDRPSYTLYQ-----D--EGR---LFFIYTCPSGSKVKERMVYAANKQGFANYVN
+DSGFKISETDPEELELSAL-----------------*
+>P1;gi|19114493|ref|NP_593581.1| cofilin/tropomyosin-type actin bind... [ score 45 E 8e-04 ] [ range 15 .. 138 ]
+sequence
+--------------------------MKEIDRFRLRLKKSVMYAFILKVDKATKEIVPD--GEIMD----
+---LQSIEEVADELSETNPRFILVSYPTKTT--DGRLSTLFMIYWRPSATPNDLSMIYASAKVWF-QDVS
+QVHKVFEARDSEDITSEAVDE---------------*

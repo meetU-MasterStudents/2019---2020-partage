@@ -1,0 +1,591 @@
+>P1;1tfi
+structureX:1tfi:   1 : :  50 : :transcription elongation factor S-II:Homo sapiens: -1: -1
+--------KTGGTQTDLFTCGKCKKKNCTYTQVQTRSADEPMTTFVVCNECGNRWKFC-*
+>P1;1qyp
+structureX:1qyp:   1 : :  57 : :rbp9 subunit of RNA polymerase II, C-terminal domain:Thermococcus celer: -1: -1
+GSHMEQDLKT-LPTTK-ITCPKCGNDTAYWWEMQTRAGDEPSTIFYKCTKCGHTWRSYE*
+>P1;gi|7451402|pir||S72365 transcription elongation factor TFIIS.oB ... [ score 110 E 6e-24 ] [ range 254 .. 303 ]
+sequence
+--------KTGGTETDLFSCGKCKKKNCTYTQVQTRSADEPMTTFVFCNECGNRWKFC-*
+>P1;gi|45360521|ref|NP_988887.1| hypothetical protein MGC76031 [Xeno... [ score 110 E 1e-23 ] [ range 255 .. 304 ]
+sequence
+--------RTGGTETDLFTCGKCKKKNCTYTQVQTRSADEPMTTFVFCNECGNRWKFC-*
+>P1;gi|45387785|ref|NP_991246.1| hypothetical protein zgc:77732 [Dan... [ score 108 E 4e-23 ] [ range 360 .. 409 ]
+sequence
+--------KTGGTTTDLLQCGKCKKKNCTYNQVQTRSADEPMTTFVLCNECGNRWKFC-*
+>P1;gi|4507385|ref|NP_003186.1| transcription elongation factor A pr... [ score 105 E 2e-22 ] [ range 250 .. 299 ]
+sequence
+--------RTGGTQTDLFTCGKCRKKNCTYTQVQTRSSDEPMTTFVVCNECGNRWKFC-*
+>P1;gi|41055847|ref|NP_957280.1| similar to transcription elongation... [ score 104 E 8e-22 ] [ range 251 .. 300 ]
+sequence
+--------KVGGTETDMFVCGKCKGKNCTYTQVQTRSADEPMTTFVLCNECGNRWKFC-*
+>P1;gi|10801727|dbj|BAB16755.1| transcription elongation factor XSII... [ score 103 E 1e-21 ] [ range 596 .. 645 ]
+sequence
+--------KTGGTQTDLLQCEKCKKKNCSYNQVQTRSADEPMTTFVLCNECGNRWKFC-*
+>P1;gi|31238498|ref|XP_319787.1| ENSANGP00000005186 [Anopheles gambi... [ score 103 E 1e-21 ] [ range 244 .. 292 ]
+sequence
+---------VQGTKTDLLKCGKCKKRNCTYNQLQTRSADEPMTTFVMCNECGHRWKFC-*
+>P1;gi|41350335|ref|NP_003187.1| transcription elongation factor A (... [ score 103 E 1e-21 ] [ range 299 .. 348 ]
+sequence
+--------KTGGTTTDLFQCSKCKKKNCTYNQVQTRSADEPMTTFVLCNECGNRWKFC-*
+>P1;gi|8050580|gb|AAF71710.1| transcription elongation factor TFIIS ... [ score 102 E 2e-21 ] [ range 276 .. 324 ]
+sequence
+---------VQGTKTDLLKCGKCKKRNCTYNQLQTRSADEPMTTFVMCNECGNRWKFC-*
+>P1;gi|12832213|dbj|BAB22010.1| unnamed protein product [Mus musculus] [ score 102 E 3e-21 ] [ range 298 .. 347 ]
+sequence
+--------KTGGTTTDLLRCSKCKKKNCTYNQVQTRSADEPMTTFVLCNECGNRWKFC-*
+>P1;gi|17536493|ref|NP_495941.1| transcription elongation factor (2J... [ score 101 E 4e-21 ] [ range 261 .. 308 ]
+sequence
+----------QGTPSDMFKCGKCGKKNCTYTQLQTRSSDEPMTTFVFCLECGNRWKFC-*
+>P1;gi|17136888|ref|NP_476967.1| RNA polymerase II elongation factor... [ score 101 E 4e-21 ] [ range 265 .. 313 ]
+sequence
+---------VQGTKTDLLKCAKCKKRNCTYNQLQTRSADEPMTTFVMCNECGNRWKFC-*
+>P1;gi|29437299|gb|AAH49617.1| transcription elongation factor A (SI... [ score 100 E 6e-21 ] [ range 280 .. 329 ]
+sequence
+--------RTGGTQTDLFTCNKCRKKNCTYTQVQTRSSDEPMTTYVVCNECGNRWKFC-*
+>P1;gi|28876018|gb|AAO60027.1| putative transcription elongation fac... [ score 96 E 3e-19 ] [ range 321 .. 367 ]
+sequence
+-----------KATTDQFKCGRCGQRKTTYYQLQTRSADEPMTTFVTCVNCNNHWKFC-*
+>P1;gi|15224901|ref|NP_181390.1| transcription factor S-II (TFIIS) d... [ score 95 E 5e-19 ] [ range 331 .. 378 ]
+sequence
+----------AKASTDQFKCGRCGQRKCTYYQMQTRSADEPMTTYVTCVNCDNHWKFC-*
+>P1;gi|43396963|gb|EAD61414.1| unknown [environmental sequence] [ score 94 E 6e-19 ] [ range 194 .. 241 ]
+sequence
+----------QQASTDAFKCGKCGQRKCTYYQLQTRSADEPMTTFVTCVNCDNRWKFC-*
+>P1;gi|19114535|ref|NP_593623.1| transcription elongation factor s-i... [ score 94 E 1e-18 ] [ range 244 .. 292 ]
+sequence
+--------KPQKAVTDLFTCGKCKQKKVSYYQMQTRSADEPMTTFCECTVCGNRWKF--*
+>P1;gi|19074096|ref|NP_584702.1| TRANSCRIPTION ELONGATION FACTOR SII... [ score 90 E 1e-17 ] [ range 210 .. 257 ]
+sequence
+---------TQKAETDIFKCSKCGERKCSYRQLQTRSGDEPMTTFVTC-ECGNKWRFC-*
+>P1;gi|41053387|ref|NP_956288.1| transcription elongation factor A (... [ score 90 E 2e-17 ] [ range 261 .. 309 ]
+sequence
+---------SGGTQTDLFTCGKCKKKKCTYTQVQTRSADEPMTTFVFCNECGNRWKFC-*
+>P1;gi|45201106|ref|NP_986676.1| AGR011Wp [Eremothecium gossypii] >g... [ score 89 E 3e-17 ] [ range 261 .. 303 ]
+sequence
+--------------TDRFQCGKCKEKKVSYYQLQTRSADEPLTTFCTCEACGNRWKF--*
+>P1;gi|6321395|ref|NP_011472.1| General transcription elongation fac... [ score 88 E 5e-17 ] [ range 266 .. 308 ]
+sequence
+--------------TDRFTCGKCKEKKVSYYQLQTRSADEPLTTFCTCEACGNRWKF--*
+>P1;gi|37540356|ref|XP_294568.2| similar to transcription elongation... [ score 88 E 6e-17 ] [ range 372 .. 420 ]
+sequence
+--------KTGGTQPDSLTCGKCKK-NCTSTQVQACSVGEPMATFVDCNECGNQQKFC-*
+>P1;gi|32422637|ref|XP_331762.1| hypothetical protein [Neurospora cr... [ score 84 E 6e-16 ] [ range 255 .. 297 ]
+sequence
+--------------SDALKCGKCGQRKVSYSQAQTRSADEPMTTFCECTVCGNRWKF--*
+>P1;gi|42921297|gb|EAB27714.1| unknown [environmental sequence] [ score 81 E 7e-15 ] [ range 134 .. 175 ]
+sequence
+--------------TNLFKCRKCGSRETSYYEVQTRSADEPMTQFITCLKCDNNWK---*
+>P1;gi|44546040|gb|EAK00792.1| unknown [environmental sequence] [ score 80 E 1e-14 ] [ range 126 .. 167 ]
+sequence
+--------------TDQFKCSRCKSKKCTYYELQTRSADEAMTTFISCLNCGNRWK---*
+>P1;gi|42544399|gb|EAA67242.1| hypothetical protein FG00902.1 [Gibbe... [ score 79 E 4e-14 ] [ range 260 .. 306 ]
+sequence
+----------QKSISESLECGKCKKKQVSYTQAQTRAADEPMTTFCECMACGNRWKF--*
+>P1;gi|43875309|gb|EAF91638.1| unknown [environmental sequence] [ score 77 E 8e-14 ] [ range 80 .. 121 ]
+sequence
+--------------TDQFKCRKCGSRSTSYYEVQTRSADEPMTQFITCLNCNCRWK---*
+>P1;gi|43154902|gb|EAC43116.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 101 .. 142 ]
+sequence
+--------------TDAYKCGKCGEKQCKVTQMQTRSADEPMTVFVTCLVCGNTFK---*
+>P1;gi|45446964|gb|AAF48482.2| CG8117-PA [Drosophila melanogaster] [ score 77 E 1e-13 ] [ range 116 .. 161 ]
+sequence
+--------KVQGTKTDQFKCERCDKRNCS--QLHIRDGDEPIITFVICDECGNRWK---*
+>P1;gi|23485845|gb|EAA20599.1| transcription elongation factor TFIIS... [ score 76 E 2e-13 ] [ range 327 .. 366 ]
+sequence
+-----------------FQCFKCKGYDTVYQQLQTRSSDEPMTTFVTCLKCNNRWKF--*
+>P1;gi|1085870|pir||S47663 transcription elongation factor TFIIS hom... [ score 76 E 2e-13 ] [ range 139 .. 179 ]
+sequence
+---------------GMLQCGKCKSRKTSYYEMQTRSADEPMTVFAKCHSCGSRWK---*
+>P1;gi|9857927|gb|AAG00938.1| transcription elongation factor TFIIS ... [ score 73 E 2e-12 ] [ range 283 .. 328 ]
+sequence
+-----------KIKEGMYTCEKCKSKKTTFYEQQTRSADEPMTTFVQCLMCSHNMKF--*
+>P1;gi|7521741|pir||S47662 transcription elongation factor TFIIS hom... [ score 71 E 1e-11 ] [ range 139 .. 179 ]
+sequence
+---------------GMLQCGKCKSRKTSYYEMQCRASDEPMTVFAKCHSCGSRWK---*
+>P1;gi|43878813|gb|EAF93388.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 36 .. 78 ]
+sequence
+-------------TTDNFTCYKCKSQKCSYYQLQTRSADEPMTTYVDCLNCGNRWK---*
+>P1;gi|9929973|dbj|BAB12143.1| hypothetical protein [Macaca fascicul... [ score 67 E 1e-10 ] [ range 288 .. 342 ]
+sequence
+-----------GTQTNKIKCRRCEKYNCKVTWVRNSNPDEQMMTYVICNECGEQW----*
+>P1;gi|18767715|ref|NP_572006.1| putative transcription elongation f... [ score 67 E 1e-10 ] [ range 46 .. 90 ]
+sequence
+----------GKVEEGTVKCPGCGSRRVHALQRQTRSADEPMTLFAMCSECGKRW----*
+>P1;gi|9628245|ref|NP_042831.1| transcription factor SII homolog [Af... [ score 67 E 1e-10 ] [ range 195 .. 241 ]
+sequence
+--------KVAEKTSQLYKCPNCKQRMCTYREVQTRALDEPSTIFCTCKKCGHEF----*
+>P1;gi|43306799|gb|EAD19177.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 30 .. 66 ]
+sequence
+----------QQASTDAFKCGKCKQRKCTYYQLQTRSADEPMTTFV-------------*
+>P1;gi|34880084|ref|XP_346299.1| similar to hypothetical protein MGC... [ score 66 E 3e-10 ] [ range 295 .. 350 ]
+sequence
+---------VDGTHTNKIKCRRCDKYNCTVTWVQNSNPDEQMT-YVICNECGEQW----*
+>P1;gi|34861134|ref|XP_345488.1| similar to RIKEN cDNA 1500004O14 [R... [ score 65 E 5e-10 ] [ range 149 .. 187 ]
+sequence
+-------------------CPKCEHPRAYFMQLQTRSADEPMTTFYKCAQCGHRWR---*
+>P1;gi|13358507|ref|NP_078754.1| Transcription factor SII homolog [L... [ score 64 E 1e-09 ] [ range 44 .. 87 ]
+sequence
+-----------EVEKGILKCRKCKKTKIFSTHVQTRSADEPMSLIAMCYSCGYKW----*
+>P1;gi|38086969|ref|XP_142305.2| similar to MGC17403 protein [Mus mu... [ score 61 E 1e-08 ] [ range 296 .. 351 ]
+sequence
+---------VDGTWTNKIKCRRCDKYNCKVTWVQNSNPDEQMT-YVICNECGEQW----*
+>P1;gi|21956651|gb|AAM83406.1| POLR3K [Sphoeroides nephelus] [ score 56 E 3e-07 ] [ range 68 .. 107 ]
+sequence
+------------------TCPKCEHPRAYFMQIQTRSADEPMTTFYKCAQCGHRWR---*
+>P1;gi|38511445|gb|AAH61683.1| MGC68582 protein [Xenopus laevis] [ score 54 E 7e-07 ] [ range 68 .. 107 ]
+sequence
+------------------TCPKCAHPRAYFMQIQTRSADEPMTTFYKCSQCGHRWR---*
+>P1;gi|38567336|emb|CAE76624.1| probable DNA-directed RNA polymerase... [ score 54 E 9e-07 ] [ range 65 .. 109 ]
+sequence
+-------------QKGKVQCGTCNGNEAAFFQVQIRSADEPMTTFYKCMTCGHRWR---*
+>P1;gi|38100739|gb|EAA47829.1| hypothetical protein MG03072.4 [Magna... [ score 53 E 2e-06 ] [ range 64 .. 108 ]
+sequence
+-------------QKGRVQCPNCDGEEAAFFQVQIRSADEPMTSFYKCMTCGHRWR---*
+>P1;gi|42548569|gb|EAA71412.1| conserved hypothetical protein [Gibbe... [ score 52 E 3e-06 ] [ range 69 .. 108 ]
+sequence
+------------------QCPGCDGEEAAFFQVQIRSADEPMTSFFKCMSCGHRWR---*
+>P1;gi|44049544|gb|EAG84955.1| unknown [environmental sequence] [ score 52 E 4e-06 ] [ range 1 .. 30 ]
+sequence
+--------------------------NVRYYEMQTRSADEAMTIFVTCLNCGNRWK---*
+>P1;gi|28573689|ref|NP_788419.1| CG33005-PA [Drosophila melanogaster... [ score 51 E 6e-06 ] [ range 68 .. 107 ]
+sequence
+------------------ECPTCGHKRAYFMQIQTRSADEPMTTFYKCHECNHTWR---*
+>P1;gi|1076155|pir||A55263 transcription-associated protein - Thermo... [ score 51 E 6e-06 ] [ range 66 .. 107 ]
+sequence
+--------------TTKITCPKCGNDTAYWWEMQTRAGDEPSTIFYKCTKCGHTWR---*
+>P1;gi|14600713|ref|NP_147234.1| DNA-directed RNA polymerase subunit... [ score 51 E 8e-06 ] [ range 61 .. 101 ]
+sequence
+---------------GSVTCPKCGHDEVYFWMMQTRSADEPMTRFYRCKRCRYTWR---*
+>P1;gi|43551894|gb|EAE30722.1| unknown [environmental sequence] [ score 51 E 9e-06 ] [ range 103 .. 130 ]
+sequence
+---------------GIFKCNKCRQYKTTYYEMQTRSADEPMT----------------*
+>P1;gi|18977358|ref|NP_578715.1| DNA-directed RNA polymerase subunit... [ score 51 E 9e-06 ] [ range 66 .. 107 ]
+sequence
+--------------TAKVTCPKCGHNEAWWWELQTRAGDEPSTIFYKCKKCGYVWR---*
+>P1;gi|15790670|ref|NP_280494.1| Vng1743c [Halobacterium sp. NRC-1] ... [ score 50 E 2e-05 ] [ range 172 .. 216 ]
+sequence
+-----------GKPTAEETCPECGHGEAWYTIKQTGSADEPPTRFFKCQDCGNRWR---*
+>P1;gi|14590548|ref|NP_142616.1| transcription-associated protein [P... [ score 50 E 2e-05 ] [ range 66 .. 107 ]
+sequence
+--------------TAKVTCPKCGYHEAWYWEVQTRAGDEPSTIFYKCKRCGYVWR---*
+>P1;gi|14521579|ref|NP_127055.1| dna-directed rna polymerase subunit... [ score 49 E 2e-05 ] [ range 66 .. 107 ]
+sequence
+--------------TAKVTCPKCGYHEAWYWELQTRAGDEPSTIFYKCKRCGYVWR---*
+>P1;gi|586083|sp|Q07271|RPOM_SULAC DNA-directed RNA polymerase subun... [ score 46 E 2e-04 ] [ range 158 .. 199 ]
+sequence
+--------------TRGISCPSCGNDEAYFWILQTRSADEPATRFYKCTKCGKVWR---*
+>P1;gi|17544244|ref|NP_500076.1| RNA polymerase (12.0 kD) (4C174) [C... [ score 46 E 2e-04 ] [ range 68 .. 107 ]
+sequence
+------------------TCPVCSHGRAYFMQLQTRSADEPSTIFYRCNACAHRWK---*
+>P1;gi|15669335|ref|NP_248140.1| transcription-associated protein ('... [ score 46 E 4e-04 ] [ range 64 .. 105 ]
+sequence
+--------------TTRIECPKCGHNEAYWWLQQTRCADEPETRFYKCKKCGHTWR---*
+>P1;gi|15789670|ref|NP_279494.1| DNA-directed RNA-polymerase subunit... [ score 45 E 5e-04 ] [ range 56 .. 100 ]
+sequence
+-----------GLPTTSVVCPDCDNDEAHWYMQQIRSADESETRFFICTECEHRWR---*
+>P1;gi|39589904|emb|CAE60902.1| Hypothetical protein CBG04618 [Caeno... [ score 44 E 8e-04 ] [ range 80 .. 114 ]
+sequence
+-------------------CTKCGHTKASYSTMQTRSADEGQTVFYTCLKCKKK-----*
+>P1;gi|43427381|gb|EAD71014.1| unknown [environmental sequence] [ score 44 E 9e-04 ] [ range 62 .. 103 ]
+sequence
+--------------TMKIECEKCGNMEAVWWMLQTRSADEPTTQFFRCTKCSYTWR---*
+>P1;gi|18977358|ref|NP_578715.1| DNA-directed RNA polymerase subunit... [ score 97 E 1e-19 ] [ range 57 .. 110 ]
+sequence
+---IEQEVST-LPTAK-VTCPKCGHNEAWWWELQTRAGDEPSTIFYKCKKCGYVWRSYE*
+>P1;gi|15669335|ref|NP_248140.1| transcription-associated protein ('... [ score 94 E 5e-19 ] [ range 57 .. 108 ]
+sequence
+-----EGLET-LPTTR-IECPKCGHNEAYWWLQQTRCADEPETRFYKCKKCGHTWREYD*
+>P1;gi|14521579|ref|NP_127055.1| dna-directed rna polymerase subunit... [ score 94 E 1e-18 ] [ range 57 .. 110 ]
+sequence
+---VEQDFST-LPTAK-VTCPKCGYHEAWYWELQTRAGDEPSTIFYKCKRCGYVWRSYE*
+>P1;gi|14590548|ref|NP_142616.1| transcription-associated protein [P... [ score 93 E 2e-18 ] [ range 57 .. 110 ]
+sequence
+---IEQDFST-LPTAK-VTCPKCGYHEAWYWEVQTRAGDEPSTIFYKCKRCGYVWRSYE*
+>P1;gi|45358992|ref|NP_988549.1| Transcription factor TFIIS:DNA-dire... [ score 92 E 3e-18 ] [ range 54 .. 105 ]
+sequence
+-----ENVDT-LPTTR-IECPNCGNMEAFWWLQQTRCADEPETRFYKCKKCSHTWREYD*
+>P1;gi|34861134|ref|XP_345488.1| similar to RIKEN cDNA 1500004O14 [R... [ score 91 E 5e-18 ] [ range 140 .. 188 ]
+sequence
+--------EN-VDSTA-EPCPKCEHPRAYFMQLQTRSADEPMTTFYKCCQCGHRWRD--*
+>P1;gi|6723838|emb|CAB66386.1| archaeal transcription factor S [Meth... [ score 91 E 5e-18 ] [ range 54 .. 105 ]
+sequence
+-----EDVDT-LPTTR-IECPSCGNMEASWWLQQTRCADEPETRFYKCKKCGHTWREYD*
+>P1;gi|586083|sp|Q07271|RPOM_SULAC DNA-directed RNA polymerase subun... [ score 91 E 9e-18 ] [ range 158 .. 202 ]
+sequence
+-------------TRG-ISCPSCGNDEAYFWILQTRSADEPATRFYKCTKCGKVWREYE*
+>P1;gi|15679314|ref|NP_276431.1| transcription elongation factor TFI... [ score 88 E 7e-17 ] [ range 85 .. 136 ]
+sequence
+-----DDVNT-LPTTR-VECPKCGNMEAFWWLQQTRRADESETRFFRCTRCKHTWREYD*
+>P1;gi|21227500|ref|NP_633422.1| DNA-directed RNA polymerase subunit... [ score 87 E 1e-16 ] [ range 56 .. 107 ]
+sequence
+-----EQTSG-LPTTN-AKCPECGNNTAAWWLRQLRSADESETRFFKCTKCGYTWREYD*
+>P1;gi|11498834|ref|NP_070063.1| transcription-associated protein TF... [ score 87 E 1e-16 ] [ range 52 .. 103 ]
+sequence
+-----ENLKT-LPTTK-AICPACGHNEAFWWLRQLRAADESEVRFFRCTKCGKTWREYD*
+>P1;gi|19114535|ref|NP_593623.1| transcription elongation factor s-i... [ score 87 E 1e-16 ] [ range 250 .. 291 ]
+sequence
+-------------TDL-FTCGKCKQKKVSYYQMQTRSADEPMTTFCECTVCGNRWK---*
+>P1;gi|20089011|ref|NP_615086.1| archaeal transcription factor S [Me... [ score 86 E 2e-16 ] [ range 53 .. 104 ]
+sequence
+-----EQTSG-LPTTN-VKCPECGNNTAAWWLRQLRSADESETRFFKCTKCGFTWREYD*
+>P1;gi|18313781|ref|NP_560448.1| DNA-directed RNA polymerase subunit... [ score 86 E 3e-16 ] [ range 56 .. 110 ]
+sequence
+---VADTTPN-LPKVK-TRCPKCGHDEAYVWVQQTRAADEPPTRFYRCTKCGYTWREYE*
+>P1;gi|36938592|gb|AAQ86835.1| RNA polymerase III [Ixodes scapularis] [ score 84 E 6e-16 ] [ range 60 .. 108 ]
+sequence
+--------EN-VDSTE-EKCPKCGHERAYFMQIQTRSADEPMTTFYKCCNCGHQWRD--*
+>P1;gi|15922591|ref|NP_378260.1| 112aa long hypothetical DNA-directe... [ score 84 E 7e-16 ] [ range 68 .. 112 ]
+sequence
+-------------TKG-VTCPACGNDEAYFWILQTRRADEPPTRFYKCTKCGKVWREYE*
+>P1;gi|1085870|pir||S47663 transcription elongation factor TFIIS hom... [ score 84 E 8e-16 ] [ range 132 .. 179 ]
+sequence
+------DPKD-MPDGM-LQCGKCKSRKTSYYEMQTRSADEPMTVFAKCHSCGSRWK---*
+>P1;gi|34866070|ref|XP_342800.1| similar to transcription elongation... [ score 84 E 9e-16 ] [ range 256 .. 301 ]
+sequence
+------------QTDL-FTCGKCKKKNCTYTQVQTRSADEPMTTFVVCNECGNRWKLWE*
+>P1;gi|6321395|ref|NP_011472.1| General transcription elongation fac... [ score 84 E 1e-15 ] [ range 258 .. 307 ]
+sequence
+GATIERSV-----TDR-FTCGKCKEKKVSYYQLQTRSADEPLTTFCTCEACGNRWK---*
+>P1;gi|43427381|gb|EAD71014.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 58 .. 105 ]
+sequence
+--------DV-LPTMK-IECEKCGNMEAVWWMLQTRSADEPTTQFFRCTKCSYTWRNY-*
+>P1;gi|45201106|ref|NP_986676.1| AGR011Wp [Eremothecium gossypii] >g... [ score 83 E 2e-15 ] [ range 261 .. 302 ]
+sequence
+-------------TDR-FQCGKCKEKKVSYYQLQTRSADEPLTTFCTCEACGNRWK---*
+>P1;gi|38636481|emb|CAD58583.1| RNA polymerase III C11 subunit [Kluy... [ score 82 E 3e-15 ] [ range 62 .. 111 ]
+sequence
+--------DN-VDQTA-AQCPNCAGERAYFFQLQIRSADEPMTTFYKCVNCGHKWRE--*
+>P1;gi|21956651|gb|AAM83406.1| POLR3K [Sphoeroides nephelus] [ score 82 E 3e-15 ] [ range 60 .. 108 ]
+sequence
+--------EN-VDSTA-ETCPKCEHPRAYFMQIQTRSADEPMTTFYKCCQCGHRWRE--*
+>P1;gi|45201124|ref|NP_986694.1| AGR029Wp [Eremothecium gossypii] >g... [ score 82 E 4e-15 ] [ range 62 .. 111 ]
+sequence
+--------DN-VDQTA-VQCPQCGGEKAYFFQLQIRSADEPMTTFYKCVTCGHKWRE--*
+>P1;gi|38511445|gb|AAH61683.1| MGC68582 protein [Xenopus laevis] [ score 82 E 4e-15 ] [ range 60 .. 108 ]
+sequence
+--------EN-VDSTA-ETCPKCAHPRAYFMQIQTRSADEPMTTFYKCCQCGHRWRD--*
+>P1;gi|7706499|ref|NP_057394.1| DNA directed RNA polymerase III poly... [ score 81 E 5e-15 ] [ range 60 .. 108 ]
+sequence
+--------EN-VDSTA-ESCPKCEHPRAYFMQLQTRSADEPMTTFYKCCQCGHRWRD--*
+>P1;gi|17536493|ref|NP_495941.1| transcription elongation factor (2J... [ score 81 E 6e-15 ] [ range 264 .. 306 ]
+sequence
+------------PSDM-FKCGKCGKKNCTYTQLQTRSSDEPMTTFVFCLECGNRWK---*
+>P1;gi|45198935|ref|NP_985964.1| AFR417Wp [Eremothecium gossypii] >g... [ score 81 E 8e-15 ] [ range 73 .. 123 ]
+sequence
+----KGELED-GATIR-EKCPQCGHDEMQYHTLQLRSADEGATVFYTCTSCGYRFRT--*
+>P1;gi|6320250|ref|NP_010330.1| RNA polymerase III subunit C11; medi... [ score 81 E 8e-15 ] [ range 60 .. 109 ]
+sequence
+--------DN-VDQTK-TQCPNCGGESAYFFQLQIRSADEPMTTFYKCVNCGHRWKE--*
+>P1;gi|15790670|ref|NP_280494.1| Vng1743c [Halobacterium sp. NRC-1] ... [ score 81 E 1e-14 ] [ range 174 .. 218 ]
+sequence
+------------PTAE-ETCPECGHGEAWYTIKQTGSADEPPTRFFKCQDCGNRWRDY-*
+>P1;gi|15897234|ref|NP_341839.1| DNA-directed RNA polymerase, subuni... [ score 81 E 1e-14 ] [ range 61 .. 114 ]
+sequence
+----EEMPSG-AQKIK-VLCPSCKNDEAYFWILQTRRADEPPTRFYKCTKCGKVWREYE*
+>P1;gi|31238498|ref|XP_319787.1| ENSANGP00000005186 [Anopheles gambi... [ score 80 E 1e-14 ] [ range 249 .. 290 ]
+sequence
+-------------TDL-LKCGKCKKRNCTYNQLQTRSADEPMTTFVMCNECGHRWK---*
+>P1;gi|43396963|gb|EAD61414.1| unknown [environmental sequence] [ score 80 E 1e-14 ] [ range 198 .. 239 ]
+sequence
+-------------TDA-FKCGKCGQRKCTYYQLQTRSADEPMTTFVTCVNCDNRWK---*
+>P1;gi|23617251|dbj|BAC20918.1| putative transcription elongation fa... [ score 80 E 2e-14 ] [ range 330 .. 371 ]
+sequence
+-------------TDQ-FKCGRCGQRKTTYYQLQTRSADEPMTTFVTCVNCNNHWK---*
+>P1;gi|31198975|ref|XP_308435.1| ENSANGP00000018390 [Anopheles gambi... [ score 79 E 2e-14 ] [ range 63 .. 105 ]
+sequence
+--------EN-VDSTD-AVCPSCSHNRAYFMQMQTRSADEPMTTFYKC--CNQTY----*
+>P1;gi|6322523|ref|NP_012597.1| RNA polymerase I subunit A12.2; cont... [ score 79 E 2e-14 ] [ range 73 .. 123 ]
+sequence
+----KNELKD-GATIK-EKCPQCGNEEMNYHTLQLRSADEGATVFYTCTSCGYKFRT--*
+>P1;gi|41720346|ref|ZP_00149159.1| hypothetical protein Mbur015001 [... [ score 79 E 2e-14 ] [ range 30 .. 76 ]
+sequence
+-----------LPTTT-ARCEECGNNTAYWWLRQLRSADESETRFFKCIKCSYTWREYD*
+>P1;gi|32422637|ref|XP_331762.1| hypothetical protein [Neurospora cr... [ score 79 E 3e-14 ] [ range 255 .. 296 ]
+sequence
+-------------SDA-LKCGKCGQRKVSYSQAQTRSADEPMTTFCECTVCGNRWK---*
+>P1;gi|7521741|pir||S47662 transcription elongation factor TFIIS hom... [ score 79 E 3e-14 ] [ range 132 .. 179 ]
+sequence
+------DPKD-MPDGM-LQCGKCKSRKTSYYEMQCRASDEPMTVFAKCHSCGSRWK---*
+>P1;gi|15224901|ref|NP_181390.1| transcription factor S-II (TFIIS) d... [ score 79 E 3e-14 ] [ range 335 .. 376 ]
+sequence
+-------------TDQ-FKCGRCGQRKCTYYQMQTRSADEPMTTYVTCVNCDNHWK---*
+>P1;gi|8050580|gb|AAF71710.1| transcription elongation factor TFIIS ... [ score 79 E 3e-14 ] [ range 281 .. 322 ]
+sequence
+-------------TDL-LKCGKCKKRNCTYNQLQTRSADEPMTTFVMCNECGNRWK---*
+>P1;gi|7451401|pir||S72364 transcription elongation factor TFIIS.oA ... [ score 79 E 3e-14 ] [ range 260 .. 301 ]
+sequence
+-------------TDL-FTCGKCKKKNCTYTQVQTRSADEPMTTFVFCNNCGNRWK---*
+>P1;gi|43696102|gb|EAF03286.1| unknown [environmental sequence] >gi|... [ score 79 E 4e-14 ] [ range 57 .. 106 ]
+sequence
+--------DV-LPTME-IQCENCDHNEAVWWMLQTRSADEPTTQFFRCTKCQHTWRNY-*
+>P1;gi|33944617|ref|XP_340456.1| transcription elongation factor S-I... [ score 79 E 4e-14 ] [ range 415 .. 466 ]
+sequence
+----ETERSL-LHTTS-FECPECHGRECEWRELQIRSADEPTTKFIKCIKCKHNWSE--*
+>P1;gi|15223344|ref|NP_171629.1| DNA-directed RNA polymerase III fam... [ score 78 E 4e-14 ] [ range 55 .. 105 ]
+sequence
+----KDDIPT-AAETE-APCPRCGHDKAYFKSMQIRSADEPESRFYRCLKCEFTWRE--*
+>P1;gi|45360521|ref|NP_988887.1| hypothetical protein MGC76031 [Xeno... [ score 79 E 4e-14 ] [ range 261 .. 302 ]
+sequence
+-------------TDL-FTCGKCKKKNCTYTQVQTRSADEPMTTFVFCNECGNRWK---*
+>P1;gi|7451402|pir||S72365 transcription elongation factor TFIIS.oB ... [ score 78 E 4e-14 ] [ range 260 .. 301 ]
+sequence
+-------------TDL-FSCGKCKKKNCTYTQVQTRSADEPMTTFVFCNECGNRWK---*
+>P1;gi|28573689|ref|NP_788419.1| CG33005-PA [Drosophila melanogaster... [ score 78 E 5e-14 ] [ range 60 .. 108 ]
+sequence
+--------EN-VDSTD-AECPTCGHKRAYFMQIQTRSADEPMTTFYKCCECNHTWRD--*
+>P1;gi|16804957|ref|NP_472986.1| transcription factor, putative [Pla... [ score 78 E 6e-14 ] [ range 60 .. 106 ]
+sequence
+--------KN-MSKTQ-AVCPKCTNDEAYFYTLQIRSADEPSTIFYICVKCNYHWKE--*
+>P1;gi|22406068|ref|ZP_00000925.1| COG1594: DNA-directed RNA polymer... [ score 78 E 6e-14 ] [ range 60 .. 101 ]
+sequence
+---------------D-AVCPVCHHTGAYYLLKQTRSADEPETKFYTCESCGHRWREY-*
+>P1;gi|43595871|gb|EAE52794.1| unknown [environmental sequence] [ score 77 E 8e-14 ] [ range 71 .. 126 ]
+sequence
+---VEEDRGT-LRVGD-YLCPKCDEDRTYVEMMQTRSSDEPETKICTCESCGHRWREYQ*
+>P1;gi|1373400|gb|AAC60115.1| transcription elongation factor [ score 77 E 9e-14 ] [ range 248 .. 290 ]
+sequence
+------------QSDL-FTCGKCKKKNCTYTQVQTRSADEPMTTFVVCNECGNRWK---*
+>P1;gi|43154902|gb|EAC43116.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 101 .. 143 ]
+sequence
+-------------TDA-YKCGKCGEKQCKVTQMQTRSADEPMTVFVTCLVCGNTFKN--*
+>P1;gi|44421991|gb|EAJ15733.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 57 .. 106 ]
+sequence
+--------DV-LPTME-IECENCDNNEAVWWMLQTRSADEPTTQFFRCTKCQHTWRNY-*
+>P1;gi|45387785|ref|NP_991246.1| hypothetical protein zgc:77732 [Dan... [ score 77 E 1e-13 ] [ range 366 .. 407 ]
+sequence
+-------------TDL-LQCGKCKKKNCTYNQVQTRSADEPMTTFVLCNECGNRWK---*
+>P1;gi|7451403|pir||S55899 transcription elongation factor EF-TfIIS ... [ score 77 E 1e-13 ] [ range 270 .. 311 ]
+sequence
+-------------TDL-LKCAKCKKRNCTYNQLQTRSADEPMTTFVMCNECGNRWK---*
+>P1;gi|41615166|ref|NP_963664.1| NEQ377 [Nanoarchaeum equitans Kin4-... [ score 76 E 2e-13 ] [ range 65 .. 106 ]
+sequence
+-----------------VKCPKCSSEEVVYFTLQTRASDEAETIFYKCLKCGYTWREYE*
+>P1;gi|44562318|gb|EAK12378.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 71 .. 126 ]
+sequence
+---VEEDRGT-LRVGD-YLCPKCDGDRAYVELRQTRSSDEPETKICTCEECGHRWREYQ*
+>P1;gi|43326911|gb|EAD29016.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 57 .. 106 ]
+sequence
+--------EV-LSTIE-IRCEKCDHNEAVWWMLQTRSADEPTTQFFRCTKCQHTWRNY-*
+>P1;gi|42921297|gb|EAB27714.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 134 .. 175 ]
+sequence
+-------------TNL-FKCRKCGSRETSYYEVQTRSADEPMTQFITCLKCDNNWK---*
+>P1;gi|39585976|emb|CAE68266.1| Hypothetical protein CBG13943 [Caeno... [ score 76 E 2e-13 ] [ range 60 .. 108 ]
+sequence
+--------EN-AQVTD-ERCPLCSHERAYFMQLQTRSADEPMTIFYRCNSCAHRWKE--*
+>P1;gi|15789670|ref|NP_279494.1| DNA-directed RNA-polymerase subunit... [ score 76 E 2e-13 ] [ range 57 .. 101 ]
+sequence
+-----------LPTTS-VVCPDCDNDEAHWYMQQIRSADESETRFFICTECEHRWRE--*
+>P1;gi|41055847|ref|NP_957280.1| similar to transcription elongation... [ score 76 E 2e-13 ] [ range 257 .. 298 ]
+sequence
+-------------TDM-FVCGKCKGKNCTYTQVQTRSADEPMTTFVLCNECGNRWK---*
+>P1;gi|19114147|ref|NP_593235.1| dna-directed rna polymerase iii 12.... [ score 75 E 4e-13 ] [ range 56 .. 108 ]
+sequence
+----EEAFES-NQQTE-VTCEKCDNNRAYFFQLQIRSADEPMSTFYRCTKCKFQWRE--*
+>P1;gi|19074096|ref|NP_584702.1| TRANSCRIPTION ELONGATION FACTOR SII... [ score 75 E 4e-13 ] [ range 215 .. 255 ]
+sequence
+-------------TDI-FKCSKCGERKCSYRQLQTRSGDEPMTTFVTC-ECGNKWR---*
+>P1;gi|423125|pir||S34159 transcription elongation factor IIS - huma... [ score 75 E 5e-13 ] [ range 257 .. 299 ]
+sequence
+------------QTDL-FTCGKCKKKNCTYTQVQTRSADEPVTTFVVCNECGNRWK---*
+>P1;gi|41350335|ref|NP_003187.1| transcription elongation factor A (... [ score 75 E 5e-13 ] [ range 305 .. 346 ]
+sequence
+-------------TDL-FQCSKCKKKNCTYNQVQTRSADEPMTTFVLCNECGNRWK---*
+>P1;gi|38100739|gb|EAA47829.1| hypothetical protein MG03072.4 [Magna... [ score 75 E 6e-13 ] [ range 61 .. 109 ]
+sequence
+--------DN-AQKGR-VQCPNCDGEEAAFFQVQIRSADEPMTSFYKCMTCGHRWRE--*
+>P1;gi|16082042|ref|NP_394466.1| probable transcription-associated p... [ score 74 E 7e-13 ] [ range 47 .. 100 ]
+sequence
+---IKEEVSA-EPDSD-AVCPRCHHKGARYVLKQTRSADEPETKFYTCEECGYRWREY-*
+>P1;gi|4507385|ref|NP_003186.1| transcription elongation factor A pr... [ score 74 E 7e-13 ] [ range 255 .. 297 ]
+sequence
+------------QTDL-FTCGKCRKKNCTYTQVQTRSSDEPMTTFVVCNECGNRWK---*
+>P1;gi|10801727|dbj|BAB16755.1| transcription elongation factor XSII... [ score 74 E 7e-13 ] [ range 601 .. 643 ]
+sequence
+------------QTDL-LQCEKCKKKNCSYNQVQTRSADEPMTTFVLCNECGNRWK---*
+>P1;gi|29248470|gb|EAA40003.1| GLP_572_32225_32536 [Giardia lamblia ... [ score 74 E 1e-12 ] [ range 51 .. 101 ]
+sequence
+----ERMTEN-RPVID-ETCPKCHHGQAYYASMQMRSADEGQTIFFECCSCGHKYRT--*
+>P1;gi|12832213|dbj|BAB22010.1| unnamed protein product [Mus musculus] [ score 74 E 1e-12 ] [ range 304 .. 345 ]
+sequence
+-------------TDL-LRCSKCKKKNCTYNQVQTRSADEPMTTFVLCNECGNRWK---*
+>P1;gi|38567336|emb|CAE76624.1| probable DNA-directed RNA polymerase... [ score 73 E 2e-12 ] [ range 62 .. 110 ]
+sequence
+--------DN-AQKGK-VQCGTCNGNEAAFFQVQIRSADEPMTTFYKCMTCGHRWRD--*
+>P1;gi|39579283|emb|CAE56098.1| Hypothetical protein CBG23695 [Caeno... [ score 73 E 2e-12 ] [ range 201 .. 240 ]
+sequence
+-------------------CPLCSHERAYFMQLQTRSADEPITIFYRCNSCAHRWKE--*
+>P1;gi|29248169|gb|EAA39710.1| GLP_741_50228_49188 [Giardia lamblia ... [ score 72 E 3e-12 ] [ range 304 .. 344 ]
+sequence
+--------------TG-IQCKKCKQETVVRLEKQTRSADEATTIEYTCSSCGHRWR---*
+>P1;gi|23612520|ref|NP_704081.1| transcription elongation factor s-i... [ score 72 E 3e-12 ] [ range 356 .. 402 ]
+sequence
+-------LKK-SRKGE-FQCFKCKGYDTIYHQLQTRSSDEPMTTFVTCLKCNNRWK---*
+>P1;gi|17544244|ref|NP_500076.1| RNA polymerase (12.0 kD) (4C174) [C... [ score 72 E 4e-12 ] [ range 61 .. 108 ]
+sequence
+---------N-AQVTD-ETCPVCSHGRAYFMQLQTRSADEPSTIFYRCADCAHRWKD--*
+>P1;gi|6635888|emb|CAB64589.1| transcription factor IIS (TFIIS) homo... [ score 72 E 4e-12 ] [ range 103 .. 149 ]
+sequence
+------QITT-IPCQN-EDNP-CQSTKAYFIQIQMRSADEPATVFFKCVECGHQWR---*
+>P1;gi|43540156|gb|EAE24808.1| unknown [environmental sequence] [ score 71 E 5e-12 ] [ range 57 .. 106 ]
+sequence
+--------EV-LSTIE-IECENCDSREAVWWMLQTRSADEPTTQFFRCTKCKTTWRNY-*
+>P1;gi|42548569|gb|EAA71412.1| conserved hypothetical protein [Gibbe... [ score 71 E 5e-12 ] [ range 61 .. 109 ]
+sequence
+--------DN-AQKGP-AQCPACDGEEAAFFQVQIRSADEPMTSFFKCMSCGHRWRE--*
+>P1;gi|43875309|gb|EAF91638.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 80 .. 121 ]
+sequence
+-------------TDQ-FKCRKCGSRSTSYYEVQTRSADEPMTQFITCLNCNCRWK---*
+>P1;gi|5531801|gb|AAD44475.1| transcription factor IIS homolog [Giar... [ score 71 E 7e-12 ] [ range 26 .. 69 ]
+sequence
+------------DKTQ-NPCPVCAFPDAFWIQMQIRSSDEPMSRFYRCCQCAHQWRE--*
+>P1;gi|44546040|gb|EAK00792.1| unknown [environmental sequence] [ score 71 E 8e-12 ] [ range 119 .. 167 ]
+sequence
+----EEKMEA-M-TDQ-FKCSRCKSKKCTYYELQTRSADEAMTTFISCLNCGNRWK---*
+>P1;gi|43355695|gb|EAD42707.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 57 .. 106 ]
+sequence
+--------EV-LSTIE-IDCKNCDSKEAVWWMLQTRSADEPTTQFYRCTKCKTTWRNY-*
+>P1;gi|29437299|gb|AAH49617.1| transcription elongation factor A (SI... [ score 70 E 1e-11 ] [ range 285 .. 327 ]
+sequence
+------------QTDL-FTCNKCRKKNCTYTQVQTRSSDEPMTTYVVCNECGNRWK---*
+>P1;gi|3133178|dbj|BAA28177.1| ORF [Mus musculus] [ score 69 E 3e-11 ] [ range 249 .. 290 ]
+sequence
+-------------TDL-LRCSKCKKKNCTYNQVQTRSADAPMTTFVLCNECGNRWK---*
+>P1;gi|41053387|ref|NP_956288.1| transcription elongation factor A (... [ score 66 E 2e-10 ] [ range 265 .. 307 ]
+sequence
+------------QTDL-FTCGKCKKKKCTYTQVQTRSADEPMTTFVFCNECGNRWK---*
+>P1;gi|43878813|gb|EAF93388.1| unknown [environmental sequence] [ score 65 E 5e-10 ] [ range 34 .. 78 ]
+sequence
+---------T-ATTDN-FTCYKCKSQKCSYYQLQTRSADEPMTTYVDCLNCGNRWK---*
+>P1;gi|12580928|emb|CAC27153.1| RNA polymerase III smallest subunit ... [ score 65 E 5e-10 ] [ range 51 .. 87 ]
+sequence
+--------EN-VDSTP-ETCPTCGHLRAYFMQIQTRSADEPMTTFYR------------*
+>P1;gi|9857929|gb|AAG00939.1| transcription elongation factor TFIIS ... [ score 65 E 5e-10 ] [ range 284 .. 323 ]
+sequence
+---------------M-YTCEKCKSKKTTFYEQQTRSADEPMTTFVQCLMCSHNMK---*
+>P1;gi|19173009|ref|NP_597560.1| DNA-DIRECTED RNA POLYMERASE III 12.... [ score 64 E 6e-10 ] [ range 63 .. 104 ]
+sequence
+------------------KCGKCGSEEVSFVELQTRSADEPMTIFYKCIRCKKVWKE--*
+>P1;gi|19075559|ref|NP_588059.1| dna-directed rna polymerase i subun... [ score 64 E 8e-10 ] [ range 66 .. 115 ]
+sequence
+---VESQKEE-AATIE-EKCPKCGNDHMTFHTLQLRSADEGSTVFYECPRCAYKF----*
+>P1;gi|450740|emb|CAA50848.1| transcription factor SII [African swin... [ score 64 E 1e-09 ] [ range 201 .. 239 ]
+sequence
+-------------SQL-YKCPNCKQRMCTYREVQTRALDEPSTIFCTCKKCGH------*
+>P1;gi|12963545|ref|NP_075651.1| nuclear RNA polymerase I small spec... [ score 62 E 3e-09 ] [ range 78 .. 121 ]
+sequence
+------------PVID-RRCPRCGHEGMAYHTRQMRSADEGQTVFYTCINCKFQEKE--*
+>P1;gi|31207229|ref|XP_312581.1| ENSANGP00000015033 [Anopheles gambi... [ score 62 E 4e-09 ] [ range 72 .. 109 ]
+sequence
+------------PIVN-RQCPKCGNDQMSYATLQLRSADEGQTVFFTCTKC--------*
+>P1;gi|43287123|gb|EAD09410.1| unknown [environmental sequence] [ score 62 E 4e-09 ] [ range 57 .. 101 ]
+sequence
+--------EV-LSTIE-IECEKCDGNEAVWWMLQTRSADEPTTQFFRCTKCQY------*
+>P1;gi|17558010|ref|NP_506572.1| RNA polymerase (13.2 kD) (5O904) [C... [ score 62 E 4e-09 ] [ range 66 .. 118 ]
+sequence
+---IENDESA-DAVVD-HICTKCGHSKASYSTMQTRSADEGQTVFYTCLKCKKKDIEY-*
+>P1;gi|17738105|ref|NP_524439.1| RNA polymerase I 12kD subunit CG134... [ score 62 E 4e-09 ] [ range 73 .. 115 ]
+sequence
+---------D-GPVVE-RKCPKCNHDKMSYATLQLRSADEGQTVFFTCLKCKFK-----*
+>P1;gi|7657709|ref|NP_055411.1| zinc ribbon domain containing, 1; tr... [ score 62 E 4e-09 ] [ range 72 .. 124 ]
+sequence
+---VEEGPEQ-GPVVD-RRCPRCGHEGMAYHTRQMRSADEGQTVFYTCTNCKFQEKE--*
+>P1;gi|25518086|pir||B86334 T20H2.16 protein - Arabidopsis thaliana ... [ score 58 E 5e-08 ] [ range 68 .. 121 ]
+sequence
+---IDKNLAY-TVTTE-IKCEKCQHPELVYTTRQTRSADEGQTTYYTCPNCGHRFTE--*
+>P1;gi|34852033|ref|XP_342081.1| similar to nuclear RNA polymerase I... [ score 58 E 6e-08 ] [ range 69 .. 115 ]
+sequence
+---VDEGPES-GPVVD-RRCSRCGHEGMAYYTRQMRSADEGQTVFYTCINC--------*
+>P1;gi|18404735|ref|NP_566786.1| transcription factor S-II (TFIIS) d... [ score 57 E 1e-07 ] [ range 74 .. 118 ]
+sequence
+-----------LPKIK-KACEKCQHPELVYTTRQTRSADEGQTTYYTCPNCAHRFTE--*
+>P1;gi|40740128|gb|EAA59318.1| hypothetical protein AN4219.2 [Asperg... [ score 57 E 1e-07 ] [ range 64 .. 106 ]
+sequence
+----KAEFEN-ADSMA-TQCPACNGDRAYFFQLQIRSADEPMTTFLK------------*
+>P1;gi|13324793|gb|AAK18841.1| putative RNA polymerase I subunit [Or... [ score 57 E 1e-07 ] [ range 82 .. 124 ]
+sequence
+-------------TVN-KECEKCKNPELQYYTKQLRSADEGQTVFYKCANCRHEFNE--*
+>P1;gi|43306799|gb|EAD19177.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 34 .. 62 ]
+sequence
+-------------TDA-FKCGKCKQRKCTYYQLQTRSADEPMT----------------*
+>P1;gi|45446964|gb|AAF48482.2| CG8117-PA [Drosophila melanogaster] [ score 53 E 2e-06 ] [ range 122 .. 162 ]
+sequence
+-------------TDQ-FKCERCDKRNCS--QLHIRDGDEPIITFVICDECGNRWKS--*
+>P1;gi|31221529|ref|XP_317057.1| ENSANGP00000019703 [Anopheles gambi... [ score 53 E 2e-06 ] [ range 73 .. 132 ]
+sequence
+-THIVPDVPT-LPRTE-EACPKCSHREAVFFQAQTRRAEEEMRLYYVCTSCCHRWTE--*
+>P1;gi|38106863|gb|EAA53117.1| hypothetical protein MG07394.4 [Magna... [ score 53 E 2e-06 ] [ range 68 .. 113 ]
+sequence
+---------N-WPSID-ENCRFCPSKTVRYTTLQTRGADEGSTVFYFCEGCSQKWKE--*
+>P1;gi|24646802|ref|NP_731898.1| RNA polymerase II 15kD subunit CG32... [ score 52 E 4e-06 ] [ range 70 .. 129 ]
+sequence
+-THIVPDVPT-LPTED-HACPKCSHREAVFFQAQTRRAEEEMRLYYVCTNCTHRWTE--*
+>P1;gi|17566332|ref|NP_505062.1| RNA polymerase II (5I492) [Caenorha... [ score 52 E 5e-06 ] [ range 119 .. 167 ]
+sequence
+---------T-LPKTE-EQCPVCGKSKAVFFQAQTKKAEEEMRLYYVCASCQHRWTE--*
+>P1;gi|15079061|ref|NP_149812.1| 349L [Invertebrate iridescent virus... [ score 51 E 7e-06 ] [ range 97 .. 138 ]
+sequence
+-----------VAEGA-IKC-KCGSERVFSFSKQTRSGDESTSVFALCSSCKSKW----*
+>P1;gi|39590421|emb|CAE66160.1| Hypothetical protein CBG11394 [Caeno... [ score 51 E 9e-06 ] [ range 98 .. 144 ]
+sequence
+---------T-LPKTE-ESCPKCTKRKAVFFQAQTKKAEEEMRLYYVCMYCQFRWTE--*
+>P1;gi|32408253|ref|XP_324608.1| hypothetical protein [Neurospora cr... [ score 51 E 1e-05 ] [ range 83 .. 118 ]
+sequence
+------------------ECPKCGKRGIRYSEVQQRSADEGSTILYNC-DCGERW----*
+>P1;gi|43455885|gb|EAD82606.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 4 .. 44 ]
+sequence
+-------------TVG-RKVSQVQHKGLNFYTMQLRSADEGQTVFYECPKCGHTF----*
+>P1;gi|15228929|ref|NP_188323.1| DNA-directed RNA polymerase II, put... [ score 50 E 2e-05 ] [ range 67 .. 114 ]
+sequence
+---------T-LPRTK-VRCSKCQHREAVFFQATAR-GEEGMTLFFVCCNCGHRWRE--*
+>P1;gi|23481491|gb|EAA17752.1| putative transcription factor [Plasmo... [ score 49 E 2e-05 ] [ range 340 .. 378 ]
+sequence
+--------------TY-EKCTDCDHDFLYFVNIQTRSADEGSTIIYYCPNCKKQ-----*
+>P1;gi|19173459|ref|NP_597262.1| DNA-DIRECTED RNA POLYMERASE I SUBUN... [ score 49 E 4e-05 ] [ range 46 .. 94 ]
+sequence
+--HIEAVDVQ-GAKIK-HRCPACGAEEMMYNTAQLRSTDEGQTVFYSC-KCGYR-----*
+>P1;gi|6321368|ref|NP_011445.1| RNA polymerase II core subunit; Rpb9... [ score 49 E 4e-05 ] [ range 67 .. 108 ]
+sequence
+---------T-LPRSD-RECPKCHSRENVFFQSQQRRKDTSMVLFFVCLSCSH------*
+>P1;gi|33243107|gb|AAQ01224.1| E4L-like protein [Orf virus] [ score 48 E 5e-05 ] [ range 141 .. 175 ]
+sequence
+---------------N-LPCPSCQSKNTMPMMIQTRSADEPPLIKYACKNC--------*
+>P1;gi|23510063|ref|NP_702729.1| hypothetical protein [Plasmodium fa... [ score 48 E 5e-05 ] [ range 268 .. 315 ]
+sequence
+----EEEKTA-YNITY-EKCLDCGNDFLHFINIQTRSADEGSTIIYFCPNCKKQ-----*
+>P1;gi|7514339|pir||C72156 C4L protein - variola minor virus (strain... [ score 47 E 8e-05 ] [ range 158 .. 195 ]
+sequence
+------------------PCPNCKSRNTTPMMIQTRAADEPPLVRHACRDCKQHFK---*
+>P1;gi|41057457|ref|NP_957930.1| ORF021 RNA polymerase subunit RPO30... [ score 47 E 9e-05 ] [ range 141 .. 175 ]
+sequence
+---------------N-LPCPSCRSKNTMPMMIQTRSADEPPLIKYACKNC--------*
+>P1;gi|18414627|ref|NP_567490.1| DNA-directed RNA polymerase II, put... [ score 47 E 1e-04 ] [ range 67 .. 114 ]
+sequence
+---------T-LPRTK-VRCAKCQHGEAVFFQATAR-GEEGMTLFFVCCNCSHRWRE--*
+>P1;gi|38229198|ref|NP_938291.1| 35L [Yaba monkey tumor virus] >gi|3... [ score 47 E 1e-04 ] [ range 140 .. 179 ]
+sequence
+---------------N-IPCPECNSKNTTPMMIQTRSGDEPPLVRHACRDCKKHFK---*
+>P1;gi|12085018|ref|NP_073420.1| 35L protein [Yaba-like disease viru... [ score 47 E 1e-04 ] [ range 140 .. 179 ]
+sequence
+---------------N-IPCPECSSKNTTPMMIQTRSGDEPPLVRHACRDCKKHFK---*
+>P1;gi|19115617|ref|NP_594705.1| RNA polymerase II subunit 9 [Schizo... [ score 46 E 2e-04 ] [ range 67 .. 112 ]
+sequence
+---------T-LPRSD-KECPRCHQHEAVFYQTHSRRGDTMMTLIYVCVHCGFAFEE--*
+>P1;gi|43634219|gb|EAE71771.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 16 .. 63 ]
+sequence
+--------KT-LPSRD-VRCVECGHDEACFFQARGLSEDDSMKLFFVCTKCGHQW----*
+>P1;gi|15150474|ref|NP_150469.1| LSDV036 hypothetical protein [lumpy... [ score 46 E 3e-04 ] [ range 153 .. 192 ]
+sequence
+---------------N-LPCPECKSKNTIPVMIQTRAADEPPLVMHSCRDCKKNFK---*
+>P1;gi|19881434|ref|NP_612251.1| ORF029L [infectious spleen and kidn... [ score 45 E 4e-04 ] [ range 26 .. 72 ]
+sequence
+-------FSS-LTQSQ-YLCRACGNAKTYTLTMQTRGGDEALSVFVCCVACGKRYR---*
+>P1;gi|5453930|ref|NP_006224.1| DNA directed RNA polymerase II polyp... [ score 45 E 5e-04 ] [ range 72 .. 125 ]
+sequence
+---VSQDPTL-PRTED-HPCQKCGHKEAVFFQSHSARAEDAMRLYYVCTACGHRWTE--*
+>P1;gi|44287592|gb|EAI21687.1| unknown [environmental sequence] [ score 44 E 9e-04 ] [ range 64 .. 107 ]
+sequence
+---------T-LPISK-MRCDRCKHNEAVFFSMAT---SEGMSLFFQCKLCAHKWKD--*
+>P1;gi|9633839|ref|NP_051919.1| gp030L [Rabbit fibroma virus] >gi|65... [ score 44 E 0.001 ] [ range 152 .. 189 ]
+sequence
+------------------PCPNCKGKNTIPIMIQTRAADEPPLVRHACRDCKKHFK---*

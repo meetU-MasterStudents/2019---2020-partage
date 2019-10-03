@@ -1,0 +1,48 @@
+>P1;1edl
+structureX:1edl:   1 : :  56 : :immunoglobulin G binding protein A:Staphylococcus aureus: -1: -1
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAQKLNDSQAPK*
+>P1;1deeg
+structureX:1dee:1806 :G:1856 :G:immunoglobulin G binding protein A:Staphylococcus aureus: 2.7: 21.7
+-----DQQSAFYEILNMPNLNEAQRNGFIQSLKDDPSQSTNVLGEAKKLNESQAPK*
+>P1;1fc2c
+structureX:1fc2: 124 :C: 166 :C:Ig gamma-1 chain C region:Homo sapiens: 2.8: -1
+--FNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAE-----------*
+>P1;gi|1480567|gb|AAB05743.1| protein A [ score 99 E 2e-20 ] [ range 159 .. 211 ] [ duplicate b ]
+sequence
+---NKEQQNAFYEILNMPNLNEEQRNGFIQSLKDDPSQSANLLAEAKKLNDAQAPK*
+>P1;gi|1480567|gb|AAB05743.1| protein A [ score 99 E 2e-20 ] [ range 217 .. 269 ] [ duplicate d ]
+sequence
+---NKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPSVSKEILAEAKKLNDAQAPK*
+>P1;gi|208991|gb|AAA73085.1| protein A signal fusion protein [ score 98 E 4e-20 ] [ range 37 .. 100 ] [ duplicate b ]
+sequence
+AQHDEAQQNAFYEILHLPNLNEEQRNAFIQSLKDDPSQSANLLAEAKKLNDAQAPK*
+>P1;gi|38322946|emb|CAE54483.1| protein A [Staphylococcus aureus] [ score 86 E 2e-16 ] [ range 2 .. 57 ] [ duplicate a ]
+sequence
+AQHDEAQQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGEAKKLNESQAPK*
+>P1;gi|29726423|pdb|1LP1|A Chain A, Protein Z In Complex With An In ... [ score 76 E 2e-13 ] [ range 6 .. 58 ]
+sequence
+---NKELSVAGREIVTLPNLNDPQKKAFIFSLWDDPSQSANLLAEAKKLNDAQAPK*
+>P1;gi|21284070|ref|NP_647158.1| IgG-binding protein SBI [Staphyloco... [ score 47 E 1e-04 ] [ range 50 .. 97 ]
+sequence
+-----DQQKAFYQVLHLKGITEEQRNQYIKTLREHPERAQEVFSES--LKDSKNP-*
+>P1;gi|208991|gb|AAA73085.1| protein A signal fusion protein [ score 86 E 3e-16 ] [ range 105 .. 147 ] [ duplicate a ]
+sequence
+--FNKEQQNAFYEILHLPNLNEEQRNAFIQSLKDDPSQSANLLAE-----------*
+>P1;gi|1480567|gb|AAB05743.1| protein A [ score 83 E 2e-15 ] [ range 100 .. 142 ] [ duplicate b ]
+sequence
+--FNKDQQSAFYEILNMPNLNEEQRNGFIQSLKDDPSQSTNVLGE-----------*
+>P1;gi|15923101|ref|NP_370635.1| Immunoglobulin G binding protein A ... [ score 80 E 2e-14 ] [ range 216 .. 258 ] [ duplicate d ]
+sequence
+--FNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSVSKEILAE-----------*
+>P1;gi|1321813|emb|CAA65431.1| protein A [synthetic construct] [ score 78 E 6e-14 ] [ range 32 .. 74 ] [ duplicate d ]
+sequence
+--FNKEQQNAFYEILHLPNLNEEQQNAFIQSLKDDPSQSANLLAE-----------*
+>P1;gi|595762|gb|AAA56730.1| protein A [ score 73 E 2e-12 ] [ range 227 .. 263 ] [ duplicate d ]
+sequence
+--FNKEQQNAFYEILHLPNLTEEQRNGFIQSLKDDPGNS-----------------*
+>P1;gi|38322948|emb|CAE54484.1| protein A [Staphylococcus aureus] [ score 72 E 3e-12 ] [ range 64 .. 106 ] [ duplicate c ]
+sequence
+--FNKDQQSAFYEILNMPNLNEVQRNGFIQSLKDDPSQSTNVLGE-----------*
+>P1;gi|38322948|emb|CAE54484.1| protein A [Staphylococcus aureus] [ score 72 E 3e-12 ] [ range 4 .. 45 ] [ duplicate d ]
+sequence
+---DEAEQNAFYQVLNMPNLNADQRNGFIQSLKDDPSQSANVLGE-----------*

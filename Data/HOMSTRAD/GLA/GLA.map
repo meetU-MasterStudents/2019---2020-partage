@@ -1,0 +1,30 @@
+>P1;1cfi
+structureX:1cfi:   1 : :  47 : :coagulation factor ix:Homo sapiens: -1: -1
+YNSGKLFVQGNLRCMKCSFARVF-NTRTT-FWKQYVD------------------*
+>P1;1whf
+structureX:1whf:   1 : :  46 : :coagulation factor x:Bos taurus: -1: -1
+ANS-FLVKQGNLRCLACSLARVF-DAQTD-FWSKYKD------------------*
+>P1;1danl
+structureX:1dan:   1 :L:  46 :L:coagulation factor vii:Homo sapiens: 2.0: 18.7
+ANA-FLLRPGSLRCKQCSFARIFKDARTKLFWISYSD------------------*
+>P1;2pf2
+structureX:2pf2:   1 : :  65 : :prothrombin:Bos taurus: 2.2: 17.1
+ANKGFLVRKGNLRCLPCSRAFALSLSATDAFWAKYTACESARNPREKLNECLEGN*
+>P1;gi|28269794|gb|AAK58686.2| factor VII active site mutant immunoc... [ score 53 E 2e-06 ] [ range 39 .. 84 ]
+sequence
+ANA-FLLRPGSLECKQCSFEEIFKDARTKLFWISYSD------------------*
+>P1;gi|45382957|ref|NP_989936.1| thrombin [Gallus gallus] >gi|289825... [ score 89 E 3e-17 ] [ range 44 .. 108 ]
+sequence
+ANKGFLMIKGNLECLEETCNYEEAFEATDAFWAKYQVCQGTKMPRTTLDACLEGN*
+>P1;gi|12621076|ref|NP_075213.1| coagulation factor 2; coagulation f... [ score 86 E 2e-16 ] [ range 44 .. 107 ]
+sequence
+ANSGFLLRKGNLECVECSYEEAFSPQDTDVFWAKYTVCDSVRKPRETFMDCLEG-*
+>P1;gi|6683108|dbj|BAA89046.1| prothrombin [Struthio camelus] [ score 85 E 6e-16 ] [ range 44 .. 108 ]
+sequence
+ANKGFLMLKGNLECLECIYEEAFSTARTEEFWSKYQACQGIRKSRTVLDACLEGN*
+>P1;gi|4503635|ref|NP_000497.1| coagulation factor II precursor; pro... [ score 80 E 1e-14 ] [ range 51 .. 107 ]
+sequence
+------VRKGNLECVECSYEEAFSSTATDVFWAKYTACETARTPRDKLAACLEGN*
+>P1;gi|28194028|gb|AAO33373.1| prothrombin precursor [Takifugu rubri... [ score 45 E 5e-04 ] [ range 42 .. 109 ]
+sequence
+ANQMFEEIKGNLECMEEKCNQEEAPDTTEAFWKKYLDCNGNQLPRTEFKECLDG-*

@@ -1,0 +1,1492 @@
+>P1;1nyud
+structureX:1nyu:  11 :D: 116 :D:inhibin beta A chain mature domain:Homo sapiens: 3.10: 26.80
+--------------CCKKF-FVS----------IIAPSGYH-NYCEGECP--------------------
+----------CCVPTKLR-PMSMLYYDDG--IIKKDIQNMIVEECGCS*
+>P1;1nysb
+structureX:1nys:   2 :B: 116 :B:inhibin beta A chain mature domain:Homo sapiens: 3.05: 25.20
+-----LECDG--NICCKKQFFVSFK-DIGWNDWIIAPSGYHANYCEGECP--------------------
+----SHILKSCCVPTKLR-PMSMLYYDDGQNIIKKDIQNMIVEECGCS*
+>P1;3bmpa
+structureX:3bmp:   9 :A: 114 :A:bone morphogenetic protein 2 (bmp-2):Homo sapiens: 2.70: 24.20
+R---------LKSSCKRHPLYVDFS-DVGWNDWIVAPPGYHAFYCHGECPFPLADHLNSTNHAIVQTLVN
+SVNSK-IPKACCVPTELS-AISMLYLDENEKVVLKNYQDMVVEGCGCR*
+>P1;1lxia
+structureX:1lxi:  36 :A: 139 :A:bone morphogenetic protein 7:Homo sapiens: 2.00: 22.80
+------------QACKKHELYVSFR-DLGWQDWIIAPEGYAAYYCEGECAFPLNSYMNATNHAIVQTLVH
+FINPETVPKPCCAPTQLN-AISVLYFDDSSNVILKKYRNMVVRACGCH*
+>P1;2tgi
+structureX:2tgi:   1 : : 112 : :transforming growth factor-beta two:Homo sapiens: 1.80: 17.30
+ALDAAYCFRNVQDNCCLRPLYIDFKRDLGW-KWIHEPKGYNANFCAGACPYLW---SSDTQHSRVLSLYN
+TINPEASASPCCVSQDLE-PLTILYYIG-KTPKIEQLSNMIVKSCKCS*
+>P1;1tgj
+structureX:1tgj:   1 : : 112 : :transforming growth factor-beta 3:Homo sapiens: 2.00: 17.50
+ALDTNYCFRNLEENCCVRPLYIDFRQDLGW-KWVHEPKGYYANFCSGPCPYLR---SADTTHSTVLGLYN
+TLNPEASASPCCVPQDLE-PLTILYYVG-RTPKVEQLSNMVVKSCKCS*
+>P1;1klda
+structureX:1kld:   1 :A: 112 :A:transforming growth factor-beta 1:Homo sapiens: -1: -1
+ALDTNYCFSSTEKNCCVRQLYIDFRKDLGW-KWIHEPKGYHANFCLGPCPYIW---SLDTQYSKVLALYN
+QHNPGASAAPCCVPQALE-PLPIVYYVG-RKPKVEQLSNMIVRSCKCS*
+>P1;1agqa
+structureX:1agq:  39 :A: 135 :A:glial cell-derived neurotrophic factor:Rattus norvegicus: 1.90: 20.30
+-----------NRGCVLTAIHLNVT-DLGLGYETKE--ELIFRYCSGSCE------AAETMYDKILKNLS
+RSRV---GQACCRPVAFDDDLSFLDDS----LVYHILRKHSAKRCGCI*
+>P1;gi|6680451|ref|NP_032406.1| inhibin beta-A [Mus musculus] >gi|46... [ score 99 E 2e-20 ] [ range 319 .. 424 ]
+sequence
+--------------CCKQF-FVS----------IIAPSGYH-NYCEGECP--------------------
+----------CCVPTKLR-PMSMLYYDDN--IIKKDIQNMIVEECGCS*
+>P1;gi|399124|sp|P30884|BMPB_XENLA Bone morphogenetic protein 2-II p... [ score 95 E 3e-19 ] [ range 298 .. 397 ]
+sequence
+---------------CRRL-YVD----------IVAPPGYH-AYCHGECP--------------------
+----------CCVPTELS-AISMLYLDEN--VVLKNYQDMVVEGCGC-*
+>P1;gi|25137513|dbj|BAC24087.1| decapentaplegic [Achaearanea tepidar... [ score 95 E 6e-19 ] [ range 269 .. 369 ]
+sequence
+---------------CRRL-YVD----------IIAPPGYN-AYCHGDCP--------------------
+----------CCVPTELS-PISMLYKDDN--VVLKNYQDMVVEGCGC-*
+>P1;gi|2118535|pir||JC4862 activin beta-A chain precursor - Japanese... [ score 94 E 1e-18 ] [ range 308 .. 413 ]
+sequence
+--------------CCKQF-YVS----------VIAPPGYA-NYCEGDCP--------------------
+----------CCVPTKLR-AMSMLYYDDN--IIKKDIQNMVVEECGCS*
+>P1;gi|4039085|gb|AAC97488.1| bone morphogenetic protein 2/4 [Branch... [ score 93 E 1e-18 ] [ range 260 .. 360 ]
+sequence
+---------------CRRL-YVD----------IVAPPGYQ-AYCHGECP--------------------
+----------CCVPTDLS-PISMLYLNEN--VVLKNYQDMVVEGCGC-*
+>P1;gi|35215300|ref|NP_571435.1| bone morphogenetic protein 2b [Dani... [ score 92 E 2e-18 ] [ range 311 .. 410 ]
+sequence
+---------------CRRL-YVD----------IVAPPGYH-AYCHGECP--------------------
+----------CCIPTELS-PISLLYLDEK--VILKNYQDMVVEGCGC-*
+>P1;gi|18858569|ref|NP_571023.1| decapentaplegic and Vg-related 1 [D... [ score 92 E 3e-18 ] [ range 257 .. 354 ]
+sequence
+----------------RRL-YID----------IIAPQGYA-NYCHGECP--------------------
+----------CCVPIKLS-PISMLYYDDN--VVLRHYEDMVVDECGC-*
+>P1;gi|21671165|dbj|BAC02592.1| Bmp4 [Ctenochromis horei] [ score 92 E 3e-18 ] [ range 303 .. 402 ]
+sequence
+---------------CRRL-YVD----------IVAPPGYQ-AYCHGECP--------------------
+----------CCVPTELS-AISMLYLDDK--VVLKNYQEMVVEGCGC-*
+>P1;gi|4405984|gb|AAD19837.1| derriere [Xenopus laevis] [ score 92 E 3e-18 ] [ range 256 .. 353 ]
+sequence
+----------------RRL-YID----------VIAPRGYM-NYCHGECP--------------------
+----------CCAPTKLS-PISMLYYDDN--VVLRHYEDMVVDECGC-*
+>P1;gi|6683064|dbj|BAA89012.1| Pf-BMP2/4 [Ptychodera flava] [ score 92 E 5e-18 ] [ range 304 .. 404 ]
+sequence
+---------------CRRL-YVD----------IVAPPGYN-AYCDGECP--------------------
+----------CCVPTELS-PISMLYLDDK--VILKNYQEMVVEGCGC-*
+>P1;gi|5739383|gb|AAD50448.1| activin beta A precursor [Carassius au... [ score 91 E 5e-18 ] [ range 299 .. 404 ]
+sequence
+--------------CCRQF-YVN----------IIAPSGYH-NYCEGDCP--------------------
+----------CCVPTRLR-AMSMLYYNEK--IIKKDIQNMIVEECGCS*
+>P1;gi|18858365|ref|NP_571434.1| bone morphogenetic protein 2a [Dani... [ score 90 E 1e-17 ] [ range 286 .. 385 ]
+sequence
+---------------CRRL-YVD----------IVAPPGYH-AYCQGECP--------------------
+----------CCVPTDLS-PVSLLYLDER--VILKNYQDMVVEGCGC-*
+>P1;gi|124284|sp|P04088|IHBB_PIG Inhibin beta B chain precursor (Act... [ score 90 E 2e-17 ] [ range 245 .. 349 ]
+sequence
+--------------CCRQF-FID----------IIAPTGYY-NYCEGSCP--------------------
+----------CCIPTKLS-TMSMLYFDDN--IVKRDVPNMIVEECGCA*
+>P1;gi|28195219|gb|AAO33819.1| bone morphogenetic protein 2 [Takifug... [ score 90 E 2e-17 ] [ range 320 .. 419 ]
+sequence
+---------------CKRL-YVD----------IVAPPGYH-AYCQGECP--------------------
+----------CCVPTDLS-PISLLYLDEK--VILKNYMDMVVEGCGC-*
+>P1;gi|18266881|sp|P48970|UNIV_STRPU Univin precursor >gi|10937972|g... [ score 89 E 3e-17 ] [ range 312 .. 394 ]
+sequence
+---------------------------------IIAPMGYQ-AYCDGECP--------------------
+----------CCAPTKLS-GISMLYFDEN--VVLRQYEDMVVEACGC-*
+>P1;gi|19110877|gb|AAL85328.1| activin beta A subunit [Danio rerio] ... [ score 88 E 4e-17 ] [ range 290 .. 395 ]
+sequence
+--------------CCRQF-YVN----------IIAPSGYH-NYCEGDCS--------------------
+----------CCVPTRLR-AMSMLYYNEK--IVKKDIQNMIVEECGCS*
+>P1;gi|4691710|gb|AAD28038.1| bone morphogenetic protein BMP2/4 [Lyt... [ score 87 E 8e-17 ] [ range 316 .. 416 ]
+sequence
+---------------CRRL-YVD----------IVAPAGYQ-AYCHGECP--------------------
+----------CCGPTELS-AISMLYLDEK--VVLKNYQDMVVEGCGC-*
+>P1;gi|45361239|ref|NP_989197.1| bone morphogenetic protein 7; osteo... [ score 87 E 9e-17 ] [ range 323 .. 423 ]
+sequence
+---------------CKKL-YVS----------IIAPEGYA-AYCEGECP--------------------
+----------CCAPTQLN-PISVLYFDDN--VILKKYRNMVVRACGC-*
+>P1;gi|1352323|sp|P48969|DVR1_STRPU DVR-1 protein homolog precursor ... [ score 87 E 9e-17 ] [ range 378 .. 460 ]
+sequence
+---------------------------------IIAPLGYV-AYCQGECP--------------------
+----------CCAPTKLS-PITVLYYDDN--VVLKKYKNMVVRACGC-*
+>P1;gi|17981439|gb|AAL51005.1| activin [Drosophila melanogaster] [ score 87 E 1e-16 ] [ range 577 .. 677 ]
+sequence
+--------------CCKEF-YVS----------IIAPRGYF-NYCRGDCP--------------------
+----------CCAPIKFS-SMSLIYYDDG--IIKRDLPKMVVDECGC-*
+>P1;gi|1658384|gb|AAC60038.1| orthologue of the Xenopus Vg1 [Gallus ... [ score 87 E 1e-16 ] [ range 275 .. 372 ]
+sequence
+----------------RRL-YIS----------IIAPQGYM-NYCLGECP--------------------
+----------CCVPVRLS-PISILYYDDN--VVLRHYEDMVVDECGC-*
+>P1;gi|18478486|gb|AAL73188.1| bone morphogenetic protein BMP2/4 [Ar... [ score 86 E 2e-16 ] [ range 408 .. 508 ]
+sequence
+---------------CRRL-YVD----------IVAPAGYQ-AYCQGECP--------------------
+----------CCVPTDLS-AISMLYLDDS--VILRNYQDMVVEGCGC-*
+>P1;gi|26334293|dbj|BAC30864.1| unnamed protein product [Mus musculus] [ score 86 E 2e-16 ] [ range 334 .. 434 ]
+sequence
+---------------CKKL-YVS----------IIAPKGYA-NYCDGECP--------------------
+----------CCAPTKLN-AISVLYFDDN--VILKKYRNMVVRACGC-*
+>P1;gi|26329017|dbj|BAC28247.1| unnamed protein product [Mus musculus] [ score 86 E 2e-16 ] [ range 353 .. 453 ]
+sequence
+---------------CKKL-YVS----------IIAPEGYA-AYCDGECP--------------------
+----------CCAPTKLN-AISVLYFDDN--VILKKYRNMVVRSCGC-*
+>P1;gi|2209351|gb|AAB61468.1| activin beta B subunit precursor [Cara... [ score 85 E 5e-16 ] [ range 288 .. 392 ]
+sequence
+--------------CCRQF-YID----------IIAPAGYY-NYCEGSCP--------------------
+----------CCIPTKLS-TMSMLYFDDN--IVKRDVPNMIVEECGCA*
+>P1;gi|9963976|gb|AAG09784.1| Vg1 [Eleutherodactylus cystignathoides] [ score 84 E 6e-16 ] [ range 247 .. 344 ]
+sequence
+----------------RRL-YID----------VIAPHGYF-NYCHGECP--------------------
+----------CCVPIKMA-PISMLFYDDN--VVLRHYDNMAVDECGC-*
+>P1;gi|28195223|gb|AAO33820.1| bone morphogenetic protein 2 [Tetraod... [ score 84 E 6e-16 ] [ range 320 .. 419 ]
+sequence
+---------------CKRL-YVD----------IVAPPGYH-AYCQGECP--------------------
+----------CWVPTDLS-PISLLYLDEK--VILKNFQDMVVEGCGC-*
+>P1;gi|1098967|gb|AAA82616.1| bone morphogenetic protein 7 [ score 84 E 7e-16 ] [ range 343 .. 425 ]
+sequence
+---------------------------------IIAPEGYA-AYCEGECP--------------------
+----------CCAPTQLN-GISVLYFDDN--VILKKYKNMVVQACGC-*
+>P1;gi|15721893|dbj|BAB68396.1| LjBmp2/4b [Lethenteron japonicum] [ score 84 E 8e-16 ] [ range 82 .. 181 ]
+sequence
+---------------CRRL-YVD----------IVAPPGYH-AYCHGECP--------------------
+----------CCVPTELS-PISMLYLDEK--VVLKNYQDMVVEGCGC-*
+>P1;gi|5821398|dbj|BAA83804.1| activin B [Anguilla japonica] [ score 84 E 9e-16 ] [ range 291 .. 395 ]
+sequence
+--------------CCRQF-YID----------IIAPSGYF-NYCEGSCP--------------------
+----------CCIPTRLS-TMSMLYFDDN--IVKRDVPNMIVEECGCA*
+>P1;gi|20975762|gb|AAM33143.1| BMP2/4 [Patella vulgata] [ score 83 E 1e-15 ] [ range 306 .. 406 ]
+sequence
+---------------CKRL-YVD----------IVAPPGYN-AYCRGECP--------------------
+----------CCVPSDLS-AISMLYLDDK--VVLKNYQDMVVEGCGC-*
+>P1;gi|914116|gb|AAB34226.1| TGF-beta=transforming growth factor bet... [ score 83 E 2e-15 ] [ range 271 .. 353 ]
+sequence
+---------------------------------IIAPLDYE-AYCEGVCS--------------------
+----------CCVPTKLS-PISILYIDNN--VVYKQYEDMVVEQCGC-*
+>P1;gi|30230448|gb|AAP20870.1| Vg1 [Eleutherodactylus coqui] [ score 82 E 3e-15 ] [ range 256 .. 353 ]
+sequence
+----------------KRL-YID----------VIAPRGYA-NYCHGECP--------------------
+----------CCVPVKMA-PISMLFYDDN--VVLRHFDNMAIDECGC-*
+>P1;gi|904036|gb|AAA97392.1| Xnr-1 [ score 82 E 3e-15 ] [ range 324 .. 406 ]
+sequence
+---------------------------------IVYPKKYN-AYCEGECP--------------------
+----------LCVPVKMS-PLSMLYYEDE--VVLRHHQEMIVEECGCS*
+>P1;gi|18858369|ref|NP_571396.1| bone morphogenetic protein 7 [Danio... [ score 82 E 4e-15 ] [ range 331 .. 431 ]
+sequence
+---------------CKKL-YVS----------IIAPEGYA-AYCEGECP--------------------
+----------CCAPTQLH-GISVLYFDDN--VILKKYRNMVVRACGC-*
+>P1;gi|34866318|ref|XP_345502.1| similar to cartilage-derived morpho... [ score 82 E 4e-15 ] [ range 701 .. 783 ]
+sequence
+---------------------------------IIAPLEYE-AYCEGVCS--------------------
+----------CCVPTKLT-PISILYIDNN--VVYKQYEDMVVESCGC-*
+>P1;gi|41349770|dbj|BAD08319.1| decapentaplegic protein [Athalia rosae] [ score 82 E 5e-15 ] [ range 294 .. 394 ]
+sequence
+---------------CRRL-YVD----------IVAPPGYD-AYCHGDCP--------------------
+----------CCVPTALS-SISMLYLDEK--VVLKNYQDMAVLGCGC-*
+>P1;gi|12018292|ref|NP_072136.1| activin/inhibin beta C [Rattus norv... [ score 81 E 7e-15 ] [ range 246 .. 351 ]
+sequence
+--------------CCRQF-FVD----------IIQPEGYM-NFCTGQCP--------------------
+----------CCVPTSRR-PLSLLYYDSN--IVKTDIPDMVVEACGCS*
+>P1;gi|33859664|ref|NP_038555.1| growth differentiation factor 7 [Mu... [ score 80 E 1e-14 ] [ range 370 .. 452 ]
+sequence
+---------------------------------IIAPLDYE-AYCEGVCS--------------------
+----------CCVPARLS-PISILYIDNN--VVYKQYEDMVVEACGC-*
+>P1;gi|29568107|ref|NP_060525.2| nodal-related protein [Homo sapiens... [ score 80 E 1e-14 ] [ range 265 .. 346 ]
+sequence
+---------------------------------IIYPKQYN-AYCEGECP--------------------
+----------CCAPVKTK-PLSMLYVDNG--VLLDHHKDMIVEECGC-*
+>P1;gi|1085213|pir||JC4151 activin beta D chain precursor - African ... [ score 80 E 1e-14 ] [ range 264 .. 367 ]
+sequence
+--------------CCRKY-YVD----------IIKPEGYQ-NYCMGLCP--------------------
+----------CCVPTKRR-PLSMLYFDNN--VLKTDIADMIVEACGCS*
+>P1;gi|5031795|ref|NP_005529.1| inhibin beta C chain preproprotein; ... [ score 80 E 1e-14 ] [ range 247 .. 352 ]
+sequence
+--------------CCRQF-FVD----------IIQPEGYM-NFCIGQCP--------------------
+----------CCVPTARR-PLSLLYYDSN--IVKTDIPDMVVEACGCS*
+>P1;gi|2739356|gb|AAB94786.1| GDF-1 [Homo sapiens] [ score 80 E 2e-14 ] [ range 270 .. 371 ]
+sequence
+----------------RRL-YVS----------VIAPRGFA-NYCQGQCP--------------------
+----------CCVPARLS-PISVLFFDDN--VVLRQYEDMVVDECGC-*
+>P1;gi|25986945|gb|AAL99367.1| nodal-related protein amphinodal [Bra... [ score 80 E 2e-14 ] [ range 355 .. 454 ]
+sequence
+---------------CKKF-WVD----------IIYPKRFN-AFCEGVCP--------------------
+----------CCIPTKLK-ALSMLYLEHG--VVLRHHEDMIVDECGC-*
+>P1;gi|2072799|gb|AAC60127.1| Xnr-4 [Xenopus laevis] [ score 80 E 2e-14 ] [ range 302 .. 401 ]
+sequence
+---------------CRRF-FVD----------IIHPMKYN-AYCEGECP--------------------
+----------CCVPIRMS-SLSMVYYDDD--IAFQNHEGMIVEECGC-*
+>P1;gi|31224746|ref|XP_317480.1| ENSANGP00000012367 [Anopheles gambi... [ score 79 E 2e-14 ] [ range 376 .. 458 ]
+sequence
+---------------------------------IVAPPGYE-AYCQGDCA--------------------
+----------CCVPTQLS-SISMLYLNEK--VVLKNYQDMTVVGCGC-*
+>P1;gi|461635|sp|P34820|BM8B_HUMAN Bone morphogenetic protein 8B pre... [ score 79 E 2e-14 ] [ range 319 .. 401 ]
+sequence
+---------------------------------VIAPQGYS-AYCEGECS--------------------
+----------CCAPTKLS-ATSVLYYDNN--VILRKHRNMVVKACGC-*
+>P1;gi|9802031|gb|AAF99597.1| growth/differentiation factor 16 precu... [ score 79 E 3e-14 ] [ range 330 .. 412 ]
+sequence
+---------------------------------IIAPLDYE-AYCEGVCS--------------------
+----------CCVPSKLS-PISILYIDNN--VVYKQYEDMVVESCSC-*
+>P1;gi|31219360|ref|XP_316789.1| ENSANGP00000010264 [Anopheles gambi... [ score 79 E 3e-14 ] [ range 338 .. 438 ]
+sequence
+---------------CRQL-YVS----------IIAPEGYG-AYCSGECP--------------------
+----------CCAPTKLI-PISVLYHIDN--VNLKKYKNMVVKSCGC-*
+>P1;gi|30725820|ref|NP_851298.1| southpaw [Danio rerio] >gi|30350638... [ score 79 E 3e-14 ] [ range 322 .. 403 ]
+sequence
+---------------------------------IVHPKRYN-AYCEGECP--------------------
+----------SCVPLRLS-SLSMLYYEDG--VVMRHHEDMIVEECGC-*
+>P1;gi|45383482|ref|NP_989669.1| growth differentiation factor 5 (ca... [ score 78 E 4e-14 ] [ range 417 .. 499 ]
+sequence
+---------------------------------IIAPLEYE-AYCEGLCT--------------------
+----------CCVPTRLS-PISILFIDNN--VVYKQYEDMVVESCGC-*
+>P1;gi|27596833|gb|AAO20895.1| Dpp/BMP2&4 ligand-like protein [Ilyan... [ score 78 E 5e-14 ] [ range 200 .. 300 ]
+sequence
+---------------CRRL-YVD----------IVAPDGYN-AYCQGDCA--------------------
+----------CCVPTELS-AISMLYLNEK--VQLKNYQDMVVEACGC-*
+>P1;gi|40644076|emb|CAE46407.1| bone morphogenetic protein-10 [Gallu... [ score 78 E 6e-14 ] [ range 300 .. 382 ]
+sequence
+---------------------------------IIAPAGYE-AYCHGVCA--------------------
+----------CCVPTKLD-PISILYMDAG--VVKFKYEGMVVSECGC-*
+>P1;gi|15721891|dbj|BAB68395.1| LjBmp2/4a [Lethenteron japonicum] [ score 78 E 6e-14 ] [ range 195 .. 276 ]
+sequence
+---------------------------------IVAPPGYN-AFCQGECA--------------------
+----------CCIPTELT-PIALLYLDEK--VVLKNYQDMVVEGCGC-*
+>P1;gi|44889611|gb|AAS48405.1| myostatin [Ameiurus catus] [ score 78 E 6e-14 ] [ range 316 .. 393 ]
+sequence
+---------------------------------IIAPKRYA-NYCSGECP--------------------
+----------CCTPTKMS-PINMLYFNEQ--IIYGKIPSMVVDRCGCS*
+>P1;gi|22775476|dbj|BAC11909.1| HrNodal [Halocynthia roretzi] [ score 78 E 6e-14 ] [ range 340 .. 422 ]
+sequence
+---------------------------------IIYPRRYN-AFCEGTCP--------------------
+----------CCVPTKLK-SLSLLYFENG--VVQRDHEEMVVEECGC-*
+>P1;gi|806499|gb|AAB46367.1| decapentaplegic [ score 78 E 6e-14 ] [ range 95 .. 177 ]
+sequence
+---------------------------------IVAPHGYD-AYCQGDCP--------------------
+----------CCVPTQLS-SISMLYMDEN--VVLKNYQDMMVVGCGC-*
+>P1;gi|21449273|gb|AAM54049.1| decapentaplegic [Acropora millepora] [ score 78 E 6e-14 ] [ range 295 .. 377 ]
+sequence
+---------------------------------IVAPPGYQ-GYCKGECP--------------------
+----------CCVPTTLE-AISMLFMNEK--VVLKNYQDMVVDGCGC-*
+>P1;gi|18858749|ref|NP_571062.1| growth differentiation factor 6b [D... [ score 78 E 7e-14 ] [ range 329 .. 411 ]
+sequence
+---------------------------------VIAPLDYE-AYCEGMCS--------------------
+----------CCVPSKLS-PISILYIDNN--VVYKQYEDMVVESCGC-*
+>P1;gi|1707885|sp|P55106|GDF6_BOVIN Growth/differentiation factor 6 ... [ score 78 E 7e-14 ] [ range 353 .. 435 ]
+sequence
+---------------------------------IIAPLEYE-AYCEGVCS--------------------
+----------CCVPTKLT-PISILYIDNN--VVYNEYEEMVVESCGC-*
+>P1;gi|34877812|ref|XP_224733.2| similar to GDF-1 embryonic growth f... [ score 77 E 8e-14 ] [ range 419 .. 506 ]
+sequence
+---------------------------------VIAPRGFA-NFCQGTCP--------------------
+----------CCVPERLS-PISVLFFDDN--VVLRHYEDMVVDECGC-*
+>P1;gi|904038|gb|AAA97393.1| Xnr-2 [ score 77 E 9e-14 ] [ range 323 .. 405 ]
+sequence
+---------------------------------IVYPKRFN-AYCEGACP--------------------
+----------SCVPVKMS-PLSMLLYEDG--VVLKHHEDMIVDECGCN*
+>P1;gi|3873289|gb|AAC77461.1| bone morphogenetic protein 10 [Mus mus... [ score 77 E 9e-14 ] [ range 338 .. 420 ]
+sequence
+---------------------------------IIAPPGYE-AYCRGVCA--------------------
+----------CCVPTKLD-PISILYLDKG--VVKFKYEGMAVSECGC-*
+>P1;gi|4160597|gb|AAD05267.1| growth/differentiation factor 11 [Mus ... [ score 77 E 1e-13 ] [ range 254 .. 331 ]
+sequence
+---------------------------------IIAPKRYA-NYCSGQCP--------------------
+----------CCTPTKMS-PINMLYFNDK--IIYGKIPGMVVDRCGCS*
+>P1;gi|4433645|gb|AAD20829.1| growth/differentiation factor 7 [Danio... [ score 77 E 1e-13 ] [ range 178 .. 260 ]
+sequence
+---------------------------------IIAPLDYE-AYCEGLCS--------------------
+----------CCVPSKLS-PISILYIDNN--VVYKQYEDMVVESCGC-*
+>P1;gi|20977543|ref|NP_624359.1| nodal-related 2; nodal-related 1 [D... [ score 77 E 1e-13 ] [ range 419 .. 500 ]
+sequence
+---------------------------------IVFPKKYN-AYCEGACP--------------------
+----------CCAPTRTS-ALSMLYYENG--MILRHHEDMQVEECGC-*
+>P1;gi|11611533|dbj|BAB18971.1| Xnr5 [Xenopus laevis] [ score 76 E 2e-13 ] [ range 302 .. 383 ]
+sequence
+---------------------------------IIYPKRFN-AYCEGSCP--------------------
+----------SCVPVKMR-PLSMLMYEDE--IVLKHHEDMIVEECGC-*
+>P1;gi|3929668|emb|CAA10268.1| mGDF precursor [Crassostrea gigas] [ score 76 E 2e-13 ] [ range 218 .. 300 ]
+sequence
+---------------------------------IFAPPGYN-AYCDGSCP--------------------
+----------CCVPTELS-SLSLLYTDEA--VVLKVYQDMVVEGCGC-*
+>P1;gi|1705487|sp|P55105|BM8B_MOUSE Bone morphogenetic protein 8B pr... [ score 76 E 2e-13 ] [ range 315 .. 398 ]
+sequence
+----------------------S----------VIAPQGYS-AYCAGECV--------------------
+----------CCVPTELS-AISLLYYDNN--VILRRERNMVVQACGC-*
+>P1;gi|1698641|gb|AAC47555.1| decapentaplegic protein [Drosophila vi... [ score 76 E 2e-13 ] [ range 513 .. 613 ]
+sequence
+---------------CRRL-YVD----------IVAPPGYD-AYCHGKCA--------------------
+----------CCVPTQLE-GISMLYLNDQ--VVLKNYQDMTVVGCGC-*
+>P1;gi|1665743|dbj|BAA11835.1| bone morphogenic protein a [Halocynth... [ score 76 E 2e-13 ] [ range 600 .. 682 ]
+sequence
+---------------------------------IIAPSGYM-AYCSGECP--------------------
+----------CCTPQDLD-SISVLYYDDN--VVYRKYRNMVVLSCAC-*
+>P1;gi|3913454|sp|P91699|DECA_DROPS DECAPENTAPLEGIC PROTEIN PRECURSO... [ score 76 E 3e-13 ] [ range 520 .. 620 ]
+sequence
+---------------CRRL-YVD----------IVAPPGYD-AYCHGKCP--------------------
+----------CCVPTQLD-SVAMLYLNDQ--VVLKNYQEMTVVGCGC-*
+>P1;gi|2501170|sp|Q24735|60A_DROVI 60A protein precursor (Glass bott... [ score 75 E 3e-13 ] [ range 353 .. 435 ]
+sequence
+---------------------------------IIAPEGYG-AYCSGECP--------------------
+----------CCAPTRLG-ALPVLYHDEN--VNLKKYRNMIVKSCGC-*
+>P1;gi|11611535|dbj|BAB18972.1| Xnr6 [Xenopus laevis] [ score 75 E 4e-13 ] [ range 296 .. 378 ]
+sequence
+---------------------------------IIYPKRFN-AFCEGSCP--------------------
+----------SCVPVKMS-PLSMLMYEDN--VVLKHHEDMIVEDCGCN*
+>P1;gi|6680794|ref|NP_031579.1| bone morphogenetic protein 2 [Mus mu... [ score 150 E 6e-36 ] [ range 291 .. 393 ]
+sequence
+---------K--SSCKRHPLYVDFS-DVGWNDWIVAPPGYHAFYCHGECN--------------------
+----SKIPKACCVPTELS-AISMLYLDENEKVVLKNYQDMVVEGCGC-*
+>P1;gi|399124|sp|P30884|BMPB_XENLA Bone morphogenetic protein 2-II p... [ score 150 E 1e-35 ] [ range 295 .. 397 ]
+sequence
+---------K--SSCRRHPLYVDFS-DVGWNDWIVAPPGYHAFYCHGECN--------------------
+----TNIPKACCVPTELS-AISMLYLDENEKVVLKNYQDMVVEGCGC-*
+>P1;gi|45384538|ref|NP_990568.1| bone morphogenetic protein 4 [Gallu... [ score 145 E 2e-34 ] [ range 301 .. 404 ]
+sequence
+--------NK--KNCRRHALYVDFS-DVGWNDWIVAPPGYQAFYCHGDCN--------------------
+----SSIPKACCVPTELS-AISMLYLDEYDKVVLKNYQEMVVEGCGC-*
+>P1;gi|2118535|pir||JC4862 activin beta-A chain precursor - Japanese... [ score 145 E 3e-34 ] [ range 299 .. 413 ]
+sequence
+-----LECDG--SICCKKQFYVSFK-DIGWSDWVIAPPGYTANYCEGDCP--------------------
+----MYIVKSCCVPTKLR-AMSMLYYDDGQNIIKKDIQNMVVEECGCS*
+>P1;gi|5739383|gb|AAD50448.1| activin beta A precursor [Carassius au... [ score 144 E 4e-34 ] [ range 290 .. 404 ]
+sequence
+-----LECDG--KICCKRQFYVNFK-DIGWSDWIIAPSGYHANYCEGDCP--------------------
+----SHVIKSCCVPTRLR-AMSMLYYNEEQKIIKKDIQNMIVEECGCS*
+>P1;gi|19110877|gb|AAL85328.1| activin beta A subunit [Danio rerio] ... [ score 143 E 1e-33 ] [ range 281 .. 395 ]
+sequence
+-----LECDG--RVCCKRQFYVNFK-DIGWNDWIIAPSGYHANYCEGDCA--------------------
+----SNVIKSCCVPTRLR-AMSMLYYNEEQKIVKKDIQNMIVEECGCS*
+>P1;gi|4405984|gb|AAD19837.1| derriere [Xenopus laevis] [ score 138 E 2e-32 ] [ range 250 .. 353 ]
+sequence
+---------S--NICKKRRLYIDFK-DVGWQNWVIAPRGYMANYCHGECP--------------------
+----YPLPLPCCAPTKLS-PISMLYYDNNDNVVLRHYEDMVVDECGC-*
+>P1;gi|31224746|ref|XP_317480.1| ENSANGP00000012367 [Anopheles gambi... [ score 138 E 2e-32 ] [ range 357 .. 458 ]
+sequence
+-------------LCQRKPLYVDFS-DVGWNDWIVAPPGYEAYYCQGDCR--------------------
+----FPIPKACCVPTQLS-SISMLYLNEQNKVVLKNYQDMTVVGCGC-*
+>P1;gi|18858569|ref|NP_571023.1| decapentaplegic and Vg-related 1 [D... [ score 137 E 6e-32 ] [ range 251 .. 354 ]
+sequence
+---------S--NVCKPRRLYIDFK-DVGWQDWIIAPQGYLANYCHGECP--------------------
+----FPLPQPCCVPIKLS-PISMLYYDNNDNVVLRHYEDMVVDECGC-*
+>P1;gi|3064062|gb|AAC14187.1| inhibin/activin beta B subunit precurs... [ score 136 E 1e-31 ] [ range 279 .. 392 ]
+sequence
+-----LECDG--NLCCRQQFYIDFR-LIGWNDWIIAPSGYYGNYCEGSCP--------------------
+----AYLVNSCCIPTKLS-TMSMLYFDDEYNIVKRDVPNMIVEECGCA*
+>P1;gi|31982487|ref|NP_031583.2| bone morphogenetic protein 7; osteo... [ score 135 E 2e-31 ] [ range 325 .. 429 ]
+sequence
+--------QR--QACKKHELYVSFR-DLGWQDWIIAPEGYAAYYCEGECA--------------------
+----FPVPKPCCAPTQLN-AISVLYFDDSSNVILKKYRNMVVRACGC-*
+>P1;gi|18478486|gb|AAL73188.1| bone morphogenetic protein BMP2/4 [Ar... [ score 135 E 2e-31 ] [ range 408 .. 508 ]
+sequence
+--------------CRRHPLYVDFT-DVGWNSWIVAPAGYQAYYCQGECP--------------------
+----FPLPKACCVPTDLS-AISMLYLDDSDSVILRNYQDMVVEGCGC-*
+>P1;gi|34879433|ref|XP_344131.1| inhibin beta subunit B [Rattus norv... [ score 134 E 5e-31 ] [ range 262 .. 375 ]
+sequence
+-----LECDG--SLCCRQQFFIDFR-LIGWNDWIIAPTGYYGNYCEGSCP--------------------
+----AYLVNSCCIPTKLS-SMSMLYFDDEYNIVKRDVPNMIVEECGCA*
+>P1;gi|34866318|ref|XP_345502.1| similar to cartilage-derived morpho... [ score 134 E 6e-31 ] [ range 682 .. 783 ]
+sequence
+-------------RCSRKPLHVNFK-ELGWDDWIIAPLEYEAYHCEGVCD--------------------
+----FPLPPSCCVPTKLT-PISILYIDAGNNVVYKQYEDMVVESCGC-*
+>P1;gi|1352323|sp|P48969|DVR1_STRPU DVR-1 protein homolog precursor ... [ score 133 E 7e-31 ] [ range 359 .. 460 ]
+sequence
+-------------QCKRKNLFVNFE-DLDWQEWIIAPLGYVAFYCQGECP--------------------
+----SHVPQPCCAPTKLS-PITVLYYDDSRNVVLKKYKNMVVRACGC-*
+>P1;gi|15721891|dbj|BAB68395.1| LjBmp2/4a [Lethenteron japonicum] [ score 133 E 1e-30 ] [ range 176 .. 276 ]
+sequence
+-------------QCARYPLYVDFS-DVGWNDWIVAPPGYNAFFCQGECH--------------------
+----FPLPQACCIPTELT-PIALLYLDEYEKVVLKNYQDMVVEGCGC-*
+>P1;gi|39594366|emb|CAE71944.1| Hypothetical protein CBG19011 [Caeno... [ score 132 E 2e-30 ] [ range 266 .. 372 ]
+sequence
+------EAES--NLCRRTDLYVDFD-DLGWQDWIMAPKGYDAYQCQGSCP--------------------
+----NPMPPPCCVPTETS-PLSILYMDVDKVIVIREYADMRVDSCGC-*
+>P1;gi|18858893|ref|NP_571143.1| inhibin, beta B; activin beta B [Da... [ score 132 E 2e-30 ] [ range 279 .. 393 ]
+sequence
+-----LECDG--NLCCRQQFYIDFR-LIGWNDWIIAPAGYYGNYCEGSCP--------------------
+----AYMVNSCCIPTKLS-TMSMLYFDDEYNIVKRDVPNMIVEECGCA*
+>P1;gi|1085213|pir||JC4151 activin beta D chain precursor - African ... [ score 132 E 2e-30 ] [ range 255 .. 367 ]
+sequence
+-----LNCDS--NLCCRKDYYVDFK-DIGWNDWIIKPEGYQINYCMGLCP--------------------
+----MHIVNSCCVPTKRR-PLSMLYFDRNNNVLKTDIADMIVEACGCS*
+>P1;gi|2118541|pir||I51199 activin beta B subunit - African clawed f... [ score 132 E 2e-30 ] [ range 257 .. 370 ]
+sequence
+-----LECDG--NLCCRQQFYIDFR-LIGWNDWIIAPAGYYGNYCEGSCP--------------------
+----AYLVNSCCIPTKLS-TMSMLYFDDEYNIVKRDVPNMIVDECGCA*
+>P1;gi|11275204|pir||T43286 cet-1 protein - Caenorhabditis elegans >... [ score 132 E 3e-30 ] [ range 258 .. 364 ]
+sequence
+------EAES--NLCRRTDFYVDFD-DLNWQDWIMAPKGYDAYQCQGSCP--------------------
+----NPMPPPCCVPTETS-PLSILYMDVDKVIVIREYADMRVESCGC-*
+>P1;gi|1658384|gb|AAC60038.1| orthologue of the Xenopus Vg1 [Gallus ... [ score 130 E 6e-30 ] [ range 269 .. 372 ]
+sequence
+---------S--NLCKPRRLYISFS-DVGWENWIIAPQGYMANYCLGECP--------------------
+----FPLPQPCCVPVRLS-PISILYYDNSDNVVLRHYEDMVVDECGC-*
+>P1;gi|5821398|dbj|BAA83804.1| activin B [Anguilla japonica] [ score 130 E 9e-30 ] [ range 282 .. 395 ]
+sequence
+-----LECDG--TLCCRQQFYIDFR-LIGWNDWIIAPSGYFGNYCEGSCP--------------------
+----AYMMNSCCIPTRLS-TMSMLYFDDEYNIVKRDVPNMIVEECGCA*
+>P1;gi|15146450|gb|AAK84666.1| myostatin [Ictalurus punctatus] [ score 129 E 1e-29 ] [ range 284 .. 389 ]
+sequence
+-----LDCDE--NRCCRYPLTVDFE-DFGW-DWIIAPKRYKANYCSGECH--------------------
+----THLVNPCCTPTKMS-PINMLYFNGKEQIIYGKIPSMVVDRCGCS*
+>P1;gi|13929160|ref|NP_114003.1| activin beta E [Rattus norvegicus] ... [ score 129 E 1e-29 ] [ range 241 .. 350 ]
+sequence
+------ESET--PLCCRRDHYVDFQ-ELGWRDWILQPEGYQLNYCSGQCP--------------------
+----PHLASSCCVPTARR-PLSLLYLDHNGNVVKTDVPDMVVEACGCS*
+>P1;gi|1707885|sp|P55106|GDF6_BOVIN Growth/differentiation factor 6 ... [ score 128 E 2e-29 ] [ range 334 .. 435 ]
+sequence
+-------------RCSKKPLHVNFK-ELGWDDWIIAPLEYEAYHCEGVCD--------------------
+----FPLPPSCCVPTKLT-PISILYIDAGNNVVYNEYEEMVVESCGC-*
+>P1;gi|9802031|gb|AAF99597.1| growth/differentiation factor 16 precu... [ score 127 E 5e-29 ] [ range 311 .. 412 ]
+sequence
+-------------RCSKKPLLVNFK-ELGWDDWIIAPLDYEAYHCEGVCD--------------------
+----FPLPPSCCVPSKLS-PISILYIDSGNNVVYKQYEDMVVESCSC-*
+>P1;gi|5031795|ref|NP_005529.1| inhibin beta C chain preproprotein; ... [ score 127 E 7e-29 ] [ range 238 .. 352 ]
+sequence
+-----IDCQG--RMCCRQEFFVDFR-EIGWHDWIIQPEGYAMNFCIGQCP--------------------
+----LHIAGSCCVPTARR-PLSLLYYDRDSNIVKTDIPDMVVEACGCS*
+>P1;gi|6754354|ref|NP_034695.1| inhibin beta-C [Mus musculus] >gi|28... [ score 127 E 7e-29 ] [ range 238 .. 352 ]
+sequence
+-----IDCQG--RMCCRQEFFVDFR-EIGWNDWIIQPEGYAMNFCTGQCP--------------------
+----LHVAGSCCVPTSRR-PLSLLYYDRDSNIVKTDIPDMVVEACGCS*
+>P1;gi|45383482|ref|NP_989669.1| growth differentiation factor 5 (ca... [ score 127 E 8e-29 ] [ range 398 .. 499 ]
+sequence
+-------------RCSRKALHVNFK-DMGWDDWIIAPLEYEAYHCEGLCE--------------------
+----FPLPPTCCVPTRLS-PISILFIDSANNVVYKQYEDMVVESCGC-*
+>P1;gi|1161334|gb|AAC59736.1| anti-dorsalizing morphogenetic protein... [ score 127 E 8e-29 ] [ range 280 .. 389 ]
+sequence
+-----VEEDG--QLCQRHPLYVDFE-EIGWSGWIISPRGYNAYHCKGSCP--------------------
+----FPLGQPCCVPDKLF-SINLLYFDDDENVVLKQYDDMVAGSCGC-*
+>P1;gi|18858751|ref|NP_571094.1| growth differentiation factor 8; my... [ score 126 E 1e-28 ] [ range 269 .. 374 ]
+sequence
+-----LDCDE--NRCCRYPLTVDFE-DFGW-DWIIAPKRYKANYCSGECD--------------------
+----YMYLQPCCTPTKMS-PINMLYFNGKEQIIYGKIPSMVVDRCGCS*
+>P1;gi|12018292|ref|NP_072136.1| activin/inhibin beta C [Rattus norv... [ score 125 E 2e-28 ] [ range 237 .. 351 ]
+sequence
+-----INCQG--RMCCRQEFFVDFR-EIGWHDWIIQPEGYAMNFCTGQCP--------------------
+----LHVAGSCCVPTSRR-PLSLLYYDRDSNIVKTDIPDMVVEACGCS*
+>P1;gi|4160597|gb|AAD05267.1| growth/differentiation factor 11 [Mus ... [ score 125 E 3e-28 ] [ range 226 .. 331 ]
+sequence
+-----LDCDE--SRCCRYPLTVDFE-AFGW-DWIIAPKRYKANYCSGQCH--------------------
+----THLVQPCCTPTKMS-PINMLYFNDKQQIIYGKIPGMVVDRCGCS*
+>P1;gi|40646769|gb|AAR88255.1| myostatin 2 [Takifugu rubripes] [ score 124 E 4e-28 ] [ range 271 .. 375 ]
+sequence
+-----LDCDE--NRCCRYPLTVDFE-DFGW-DWIIAPKRYKANYCSGECH--------------------
+----THLVNPCCTPTKMS-PINMLYFNQEQQIIYGKIPSMVVDRCGC-*
+>P1;gi|4433645|gb|AAD20829.1| growth/differentiation factor 7 [Danio... [ score 124 E 4e-28 ] [ range 159 .. 260 ]
+sequence
+-------------RCSRKPLHVNFK-ELGWDDWIIAPLDYEAYHCEGLCD--------------------
+----FPLPPSCCVPSKLS-PISILYIDSGNNVVYKQYEDMVVESCGC-*
+>P1;gi|38154348|gb|AAR12161.1| myostatin [Capra hircus] [ score 123 E 6e-28 ] [ range 270 .. 375 ]
+sequence
+-----LDCDE--SRCCRYPLTVDFE-AVGW-DWIIAPKRYKANYCSGECE--------------------
+----FLFLQPCCTPTKMS-PINMLYFNGKEQIIYGKIPGMVVDRCGCS*
+>P1;gi|40644076|emb|CAE46407.1| bone morphogenetic protein-10 [Gallu... [ score 123 E 1e-27 ] [ range 276 .. 382 ]
+sequence
+------NAKG--NYCKKTPLYIDFK-EIGWDSWIIAPAGYEAYECHGVCA--------------------
+----YPLTKACCVPTKLD-PISILYMDAGVVTYKFKYEGMVVSECGC-*
+>P1;gi|2554917|gb|AAB81508.1| myostatin [Bos taurus] [ score 123 E 1e-27 ] [ range 270 .. 375 ]
+sequence
+-----LDCDE--SRCCRYPLTVDFE-AFGW-DWIIAPKRYKANYCSGECH--------------------
+----THLVHPCCTPTKMS-PINMLYFNGEGQIIYGKIPAMVVDRCGCS*
+>P1;gi|18857931|gb|AAL05943.1| growth differentiation factor-8b [Spa... [ score 123 E 1e-27 ] [ range 254 .. 359 ]
+sequence
+-----LNCDE--TRCCRYPLTVDFE-EFGW-DWIIAPKRYRANYCSGECH--------------------
+----AHLVNPCCTPTKMS-PINMLYFNRKEQIIYGKIPSMVVDHCGCS*
+>P1;gi|7656928|ref|NP_055297.1| bone morphogenetic protein 10 prepro... [ score 122 E 1e-27 ] [ range 317 .. 423 ]
+sequence
+------NAKG--NYCKRTPLYIDFK-EIGWDSWIIAPPGYEAYECRGVCN--------------------
+----YPLAKACCVPTKLE-PISILYLDKGVVTYKFKYEGMAVSECGC-*
+>P1;gi|4557371|ref|NP_001192.1| bone morphogenetic protein 3 (osteog... [ score 122 E 2e-27 ] [ range 370 .. 471 ]
+sequence
+--------------CARRYLKVDFA-DIGWSEWIISPKSFDAYYCSGACQ--------------------
+----FPMPKPCCVPEKMS-SLSILFFDENKNVVLKVYPNMTVESCAC-*
+>P1;gi|2464959|emb|CAA72733.1| contact [Danio rerio] [ score 122 E 2e-27 ] [ range 153 .. 256 ]
+sequence
+---------K--QRCNRKQLHVNFK-EMGWDDWIIAPLEYEAFHCDGVCD--------------------
+----FPIPPTCCVPTRLS-PISILYIDSANNVVYKQYEDMVVESCGC-*
+>P1;gi|38349519|gb|AAR18245.1| myostatin [Sus scrofa] >gi|38349521|g... [ score 122 E 2e-27 ] [ range 270 .. 375 ]
+sequence
+-----LDCDE--SRCCRYPLTVDFE-AFGW-DWIIAPKRYKANYCSGECE--------------------
+----FVFLQPCCTPTKMS-PINMLYFNGKEQIIYGKIPAMVVDRCGCS*
+>P1;gi|27734166|ref|NP_775580.1| bone morphogenetic protein 3 [Mus m... [ score 122 E 2e-27 ] [ range 366 .. 467 ]
+sequence
+--------------CARRYLKVDFA-DIGWSEWIISPKSFDAFYCSGACQ--------------------
+----FPMPKPCCVPEKMS-SLSILFFDENKNVVLKVYPNMTVDSCAC-*
+>P1;gi|399124|sp|P30884|BMPB_XENLA Bone morphogenetic protein 2-II p... [ score 199 E 9e-51 ] [ range 293 .. 398 ]
+sequence
+R---------LKSSCRRHPLYVDFS-DVGWNDWIVAPPGYHAFYCHGECPFPLADHLNSTNHAIVQTLVN
+SVNTN-IPKACCVPTELS-AISMLYLDENEKVVLKNYQDMVVEGCGCR*
+>P1;gi|6635486|gb|AAF19841.1| bone morphogenetic protein 2/4 [Branch... [ score 194 E 5e-49 ] [ range 305 .. 411 ]
+sequence
+R---------LKANCRRHSLYVDFS-DVGWNDWIVAPPGYQAYYCHGECPFPLADHLNSTNHAIVQTLVN
+SVNPA-VPKACCVPTDLS-PISMLYLNENDQVVLKNYQDMVVEGCGCR*
+>P1;gi|45383442|ref|NP_989689.1| bone morphogenetic protein 2 [Gallu... [ score 194 E 5e-49 ] [ range 287 .. 392 ]
+sequence
+R---------HKYSCKRHPLYVDFN-DVGWNDWIVAPPGYSAFYCHGECPFPLADHLNSTNHAIVQTLVN
+SVNSK-IPKACCVPTELS-AISMLYLDENEKVVLKNYQDMVVEGCGCR*
+>P1;gi|35215300|ref|NP_571435.1| bone morphogenetic protein 2b [Dani... [ score 192 E 1e-48 ] [ range 308 .. 411 ]
+sequence
+-----------RSNCRRHALYVDFS-DVGWNEWIVAPPGYHAFYCHGECPFPLPDHLNSTNHAIVQTLVN
+SVNSN-IPKACCIPTELS-PISLLYLDEYEKVILKNYQDMVVEGCGCR*
+>P1;gi|28195219|gb|AAO33819.1| bone morphogenetic protein 2 [Takifug... [ score 190 E 5e-48 ] [ range 316 .. 420 ]
+sequence
+----------HKANCKRHALYVDFS-DVGWNEWIVAPPGYHAFYCQGECPFPLADHLNSTNHAIVQTLVN
+SVNSN-IPRACCVPTDLS-PISLLYLDEYEKVILKNYMDMVVEGCGCR*
+>P1;gi|6978571|ref|NP_036959.1| bone morphogenetic protein 4 [Rattus... [ score 190 E 7e-48 ] [ range 303 .. 408 ]
+sequence
+K---------KNKNCRRHSLYVDFS-DVGWNDWIVAPPGYQAFYCHGDCPFPLADHLNSTNHAIVQTLVN
+SVNSS-IPKACCVPTELS-AISMLYLDEYDKVVLKNYQEMVVEGCGCR*
+>P1;gi|18858367|ref|NP_571417.1| bone morphogenetic protein 4 [Danio... [ score 189 E 9e-48 ] [ range 299 .. 400 ]
+sequence
+-------------NCRRHALYVDFS-DVGWNDWIVAPPGYQAYYCHGECPFPLADHLNSTNHAIVQTLVN
+SVNTN-IPKACCVPTELS-AISMLYLDETDRVVLKNYQEMVVEGCGCR*
+>P1;gi|6683064|dbj|BAA89012.1| Pf-BMP2/4 [Ptychodera flava] [ score 189 E 2e-47 ] [ range 299 .. 405 ]
+sequence
+K---------LKPNCRRRSLYVDFS-DVGWNDWIVAPPGYNAFYCDGECPFPLADHLNSTNHAIVQTLVH
+SVKSA-VPQACCVPTELS-PISMLYLDEYDKVILKNYQEMVVEGCGCR*
+>P1;gi|4691710|gb|AAD28038.1| bone morphogenetic protein BMP2/4 [Lyt... [ score 187 E 4e-47 ] [ range 311 .. 417 ]
+sequence
+R---------LKANCRRHPLYVDFS-DVHWNDWIVAPAGYQAYYCHGECPFPLAEHLNTTNHAIVQTLVN
+SVNPA-VPKACCGPTELS-AISMLYLDEYEKVVLKNYQDMVVEGCGCR*
+>P1;gi|18858365|ref|NP_571434.1| bone morphogenetic protein 2a [Dani... [ score 186 E 1e-46 ] [ range 281 .. 386 ]
+sequence
+K---------HKANCRRHSLYVDFS-DVGWNDWIVAPPGYHAFYCQGECPFPLADHLNSTTNAMVQTLVN
+SVNSN-IPRACCVPTDLS-PVSLLYLDEYERVILKNYQDMVVEGCGCR*
+>P1;gi|28195223|gb|AAO33820.1| bone morphogenetic protein 2 [Tetraod... [ score 182 E 1e-45 ] [ range 316 .. 420 ]
+sequence
+----------HKASCKRHALYVDFS-DVGWNEWIVAPPGYHAFYCQGECPFPLADHLNFTNHAIVQTLVN
+SVNLN-IPRACWVPTDLS-PISLLYLDEYEKVILKNFQDMVVEGCGCR*
+>P1;gi|15721893|dbj|BAB68396.1| LjBmp2/4b [Lethenteron japonicum] [ score 181 E 3e-45 ] [ range 82 .. 182 ]
+sequence
+--------------CRRHALYVDFR-EVGWNDWIVAPPGYHAYFCHGECPFPLADHLNSTNHAIVQTLVN
+SVNAS-IPRACCVPTELS-PISMLYLDEYGKVVLKNYQDMVVEGCGCR*
+>P1;gi|25137513|dbj|BAC24087.1| decapentaplegic [Achaearanea tepidar... [ score 180 E 5e-45 ] [ range 266 .. 370 ]
+sequence
+-----------KDNCRRHALYVDFS-DVGWNDWIIAPPGYNAYFCHGDCPFPLPDHLNTTNHAIVQTLVN
+SANPA-VPRACCVPTELS-PISMLYKDKFDNVVLKNYQDMVVEGCGCR*
+>P1;gi|15721891|dbj|BAB68395.1| LjBmp2/4a [Lethenteron japonicum] [ score 179 E 1e-44 ] [ range 172 .. 277 ]
+sequence
+R---------GRGQCARYPLYVDFS-DVGWNDWIVAPPGYNAFFCQGECHFPLPQHLNSTNHAIVQTLVN
+SVNPE-VPRACCIPTELT-PIALLYLDEYEKVVLKNYQDMVVEGCGCR*
+>P1;gi|18478486|gb|AAL73188.1| bone morphogenetic protein BMP2/4 [Ar... [ score 179 E 2e-44 ] [ range 403 .. 509 ]
+sequence
+K---------LKPNCRRHPLYVDFT-DVGWNSWIVAPAGYQAYYCQGECPFPLVDHLNATNHAIVQTLVN
+SASPQ-APKACCVPTDLS-AISMLYLDDSDSVILRNYQDMVVEGCGCR*
+>P1;gi|31224746|ref|XP_317480.1| ENSANGP00000012367 [Anopheles gambi... [ score 178 E 2e-44 ] [ range 353 .. 459 ]
+sequence
+R---------KNELCQRKPLYVDFS-DVGWNDWIVAPPGYEAYYCQGDCRFPIADHLNTTNHAIVQTLVN
+SYNPT-APKACCVPTQLS-SISMLYLNEQNKVVLKNYQDMTVVGCGCR*
+>P1;gi|41349770|dbj|BAD08319.1| decapentaplegic protein [Athalia rosae] [ score 178 E 2e-44 ] [ range 291 .. 395 ]
+sequence
+-----------RENCRRHPLYVDFV-DVGWNDWIVAPPGYDAFYCHGDCPFPLADHLNSTNHAIVQTLVY
+STNPN-VPKACCVPTALS-SISMLYLDEENKVVLKNYQDMAVLGCGCR*
+>P1;gi|34866318|ref|XP_345502.1| similar to cartilage-derived morpho... [ score 177 E 5e-44 ] [ range 678 .. 784 ]
+sequence
+K---------SRLRCSRKPLHVNFK-ELGWDDWIIAPLEYEAYHCEGVCDFPLRSHLEPTNHAIIQTLMN
+SMDPG-TPPSCCVPTKLT-PISILYIDAGNNVVYKQYEDMVVESCGCR*
+>P1;gi|26334293|dbj|BAC30864.1| unnamed protein product [Mus musculus] [ score 177 E 6e-44 ] [ range 330 .. 434 ]
+sequence
+----------LKTACKKHELYVSFQ-DLGWQDWIIAPKGYAANYCDGECSFPLNAHMNATNHAIVQTLVH
+LMNPE-VPKPCCAPTKLN-AISVLYFDDNSNVILKKYRNMVVRACGC-*
+>P1;gi|3913454|sp|P91699|DECA_DROPS DECAPENTAPLEGIC PROTEIN PRECURSO... [ score 175 E 2e-43 ] [ range 516 .. 621 ]
+sequence
+----------HEETCRRHSLYVDFA-DVGWDDWIVAPPGYDAYYCHGKCPFPLADHFNSTNHAVVQTLVN
+NLNPK-VPKACCVPTQLD-SVAMLYLNDQSTVVLKNYQEMTVVGCGCR*
+>P1;gi|27596833|gb|AAO20895.1| Dpp/BMP2&4 ligand-like protein [Ilyan... [ score 175 E 2e-43 ] [ range 197 .. 301 ]
+sequence
+-----------KNQCRRHALYVDFQ-EVGWEDWIVAPDGYNAYFCQGDCNFPLAQHLNSTNHAIVQTLVN
+SVDPA-VSKACCVPTELS-AISMLYLNERGKVQLKNYQDMVVEACGCR*
+>P1;gi|45383482|ref|NP_989669.1| growth differentiation factor 5 (ca... [ score 174 E 4e-43 ] [ range 395 .. 500 ]
+sequence
+----------LKPRCSRKALHVNFK-DMGWDDWIIAPLEYEAYHCEGLCEFPLRSHLEPTNHAVIQTLMN
+SMDPE-TPPTCCVPTRLS-PISILFIDSANNVVYKQYEDMVVESCGCR*
+>P1;gi|1698641|gb|AAC47555.1| decapentaplegic protein [Drosophila vi... [ score 174 E 5e-43 ] [ range 510 .. 614 ]
+sequence
+-----------EDNCRRHSLYVDFQ-DVGWSDWIVAPPGYDAYYCHGKCQFPLADHLNSTNHAVVQTLVN
+NLNPK-VPKACCVPTQLE-GISMLYLNDQRTVVLKNYQDMTVVGCGCR*
+>P1;gi|11907529|dbj|BAB19659.1| decapentaplegic protein [Gryllus bim... [ score 173 E 7e-43 ] [ range 82 .. 185 ]
+sequence
+-----------RENCRRYPLYVDFA-DVGWNDWIVAPPGYDAFYCHGECPFPLSDHLNSTNHAIVQTLMH
+SVKPS-VPQACCVNTHLT-SISMLYLDETDKVVLKNYQEMAVLGCGCR*
+>P1;gi|45361239|ref|NP_989197.1| bone morphogenetic protein 7; osteo... [ score 173 E 8e-43 ] [ range 320 .. 423 ]
+sequence
+-----------KQACKKHELYVSFK-DLGWQDWIIAPEGYAAFYCEGECAFPLNSYMNATNHAIVQTLVH
+FINPD-VPKPCCAPTQLN-PISVLYFDDSSNVILKKYRNMVVRACGC-*
+>P1;gi|21449273|gb|AAM54049.1| decapentaplegic [Acropora millepora] [ score 172 E 2e-42 ] [ range 275 .. 378 ]
+sequence
+------------NYCQRHPLYVDFS-EVGWNDWIVAPPGYQGFYCKGECPFPIADHLNTTNHAIVQTLMN
+SVNPN-VPPACCVPTTLE-AISMLFMNEHSKVVLKNYQDMVVDGCGCR*
+>P1;gi|3913455|sp|P91706|DECA_DROSI DECAPENTAPLEGIC PROTEIN PRECURSO... [ score 172 E 2e-42 ] [ range 488 .. 593 ]
+sequence
+----------HDDTCRRHSLYVDFS-DVGWDDWIVAPLGYDAYYCHGKCPFPLADHFNSTNHAVVQTLVN
+NMNPK-VPKACCVPTQLD-SVAMLYLNDQSTVVLKNYQEMTVVGCGCR*
+>P1;gi|20975762|gb|AAM33143.1| BMP2/4 [Patella vulgata] [ score 172 E 2e-42 ] [ range 303 .. 407 ]
+sequence
+-----------KNECKRHVLYVDFG-DVGWNDWIVAPPGYNAYFCRGECPFPMGQHLNSTHHAVMQTLVH
+SVDPA-VPKACCVPSDLS-AISMLYLDELDKVVLKNYQDMVVEGCGCR*
+>P1;gi|9802031|gb|AAF99597.1| growth/differentiation factor 16 precu... [ score 171 E 3e-42 ] [ range 307 .. 413 ]
+sequence
+K---------SKTRCSKKPLLVNFK-ELGWDDWIIAPLDYEAYHCEGVCDFPLRSHLEPTNHAIIQTLMN
+SMDPE-TPPSCCVPSKLS-PISILYIDSGNNVVYKQYEDMVVESCSCR*
+>P1;gi|3264836|dbj|BAA31132.1| homolog of DPP subclass BMP [Halocynt... [ score 171 E 5e-42 ] [ range 339 .. 443 ]
+sequence
+-----------RKSCQRQDLYVDFS-DVNWDDWIVAPHGYHAFYCNGECPFPLAEYMNATNHAIVQTLVN
+SVDPS-LPKPCCVPTELS-PIAMLYVDECELVVLKTYQQMAVEGCGCR*
+>P1;gi|18858569|ref|NP_571023.1| decapentaplegic and Vg-related 1 [D... [ score 169 E 9e-42 ] [ range 252 .. 355 ]
+sequence
+------------NVCKPRRLYIDFK-DVGWQDWIIAPQGYLANYCHGECPFPLSESLNGTNHAILQTLVH
+SFDPK-TPQPCCVPIKLS-PISMLYYDNNDNVVLRHYEDMVVDECGCR*
+>P1;gi|27530619|dbj|BAC53989.1| Sj-BMP2/4 [Stichopus japonicus] [ score 169 E 9e-42 ] [ range 316 .. 422 ]
+sequence
+R---------LKENCSKHSLYVDFA-IVGWDSWILAPEGYQAYYCQGECPYPMPEHLNPTNHAIVQTIVH
+SADPS-VPKACCVPTELD-TLNMLYLNEKEQIILKNYKDMIVTSCGCR*
+>P1;gi|1098967|gb|AAA82616.1| bone morphogenetic protein 7 [ score 169 E 9e-42 ] [ range 321 .. 425 ]
+sequence
+----------LKQACKKHELFVSFR-DLGWQDWIIAPEGYAAYYCEGECAFPLNSFMNATNHAIVQTLVH
+FINPE-VPKPCCAPTQLN-GISVLYFDDSANVILKKYKNMVVQACGC-*
+>P1;gi|1707885|sp|P55106|GDF6_BOVIN Growth/differentiation factor 6 ... [ score 169 E 1e-41 ] [ range 330 .. 436 ]
+sequence
+K---------SRLRCSKKPLHVNFK-ELGWDDWIIAPLEYEAYHCEGVCDFPLRSHLEPTNHAIIQTLMN
+SMDPG-TPPSCCVPTKLT-PISILYIDAGNNVVYNEYEEMVVESCGCR*
+>P1;gi|38490428|emb|CAD57730.1| decapentaplegic [Cupiennius salei] [ score 168 E 2e-41 ] [ range 119 .. 223 ]
+sequence
+-----------RDNCRRHALYVDFY-DVGWDDWILAPPGYDAYFCHGDCPFPLPDHLNATNHAIVQTLVN
+SANPA-VPRACCVPSEMS-AISILHRDQNDMVVLSVYRDMVVEGCGCR*
+>P1;gi|763044|gb|AAA81169.1| transforming growth factor-beta [ score 167 E 3e-41 ] [ range 87 .. 191 ]
+sequence
+-----------RSTCRRHPLYVDFR-EVGWDDWIVAPPGYEGWYCHGDCPFPLSAHMNSTNHAVVQTLMN
+SMNPG-VPKACCIPTQLT-SISMLYLDEESKVVLKNYHEMAVVGCGCR*
+>P1;gi|10190670|ref|NP_065685.1| growth differentiation factor 3 pre... [ score 167 E 4e-41 ] [ range 261 .. 363 ]
+sequence
+-----------KNLCHRHQLFINFR-DLGWHKWIIAPKGFMANYCHGECPFSLTISLNSSNYAFMQALMH
+AVDPE-IPQAVCIPTKLS-PISMLYQDNNDNVILRHYEDMVVDECGC-*
+>P1;gi|21956115|dbj|BAC06352.1| bone morphogenetic protein [Hemicent... [ score 167 E 6e-41 ] [ range 359 .. 460 ]
+sequence
+-------------QCKRKNLFVNFE-DLDWQEWIIAPLGYVAFYCQGECAFPLNGHANATNHAIVQTLVH
+HMSPT-VPQPCCAPTKLS-PITVLYYDDSRNVVLKKYKNMVVRACGC-*
+>P1;gi|4405984|gb|AAD19837.1| derriere [Xenopus laevis] [ score 166 E 1e-40 ] [ range 251 .. 354 ]
+sequence
+------------NICKKRRLYIDFK-DVGWQNWVIAPRGYMANYCHGECPYPLTEMLRGTNHAVLQTLVH
+SVEPN-TPLPCCAPTKLS-PISMLYYDNNDNVVLRHYEDMVVDECGCK*
+>P1;gi|806499|gb|AAB46367.1| decapentaplegic [ score 165 E 2e-40 ] [ range 74 .. 178 ]
+sequence
+-----------REICQRRPLFVDFA-DVGWSDWIVAPHGYDAYYCQGDCPFPLSDHLNGTNHAIVQTLVN
+SVNPA-VPKACCVPTQLS-SISMLYMDEVNNVVLKNYQDMMVVGCGCR*
+>P1;gi|1658384|gb|AAC60038.1| orthologue of the Xenopus Vg1 [Gallus ... [ score 165 E 2e-40 ] [ range 270 .. 373 ]
+sequence
+------------NLCKPRRLYISFS-DVGWENWIIAPQGYMANYCLGECPFPLTAELNSTNHAILQTMVH
+SLDPG-TPQPCCVPVRLS-PISILYYDNSDNVVLRHYEDMVVDECGCR*
+>P1;gi|39594366|emb|CAE71944.1| Hypothetical protein CBG19011 [Caeno... [ score 163 E 6e-40 ] [ range 270 .. 373 ]
+sequence
+------------NLCRRTDLYVDFD-DLGWQDWIMAPKGYDAYQCQGSCPNPMPAQLNATNHAIIQSLLH
+SLKPE-VPPPCCVPTETS-PLSILYMDVDKVIVIREYADMRVDSCGCR*
+>P1;gi|6679979|ref|NP_032134.1| growth differentiation factor 3 [Mus... [ score 163 E 7e-40 ] [ range 263 .. 365 ]
+sequence
+-----------RNFCHRHQLFINFQ-DLGWHKWVIAPKGFMANYCHGECPFSMTTYLNSSNYAFMQALMH
+MADPK-VPKAVCVPTKLS-PISMLYQDSDKNVILRHYEDMVVDECGC-*
+>P1;gi|40786371|dbj|BAD07014.1| growth differentiation factor 7 [Hom... [ score 162 E 2e-39 ] [ range 347 .. 453 ]
+sequence
+R---------GRSRCSRKPLHVDFK-ELGWDDWIIAPLDYEAYHCEGLCDFPLRSHLEPTNHAIIQTLLN
+SMAPA-APASCCVPARLS-PISILYIDAANNVVYKQYEDMVVEACGCR*
+>P1;gi|2464959|emb|CAA72733.1| contact [Danio rerio] [ score 162 E 2e-39 ] [ range 153 .. 257 ]
+sequence
+-----------KQRCNRKQLHVNFK-EMGWDDWIIAPLEYEAFHCDGVCDFPIRSHLEPTNHAIIQTLMN
+SMDPR-TPPTCCVPTRLS-PISILYIDSANNVVYKQYEDMVVESCGCR*
+>P1;gi|11275204|pir||T43286 cet-1 protein - Caenorhabditis elegans >... [ score 162 E 2e-39 ] [ range 262 .. 365 ]
+sequence
+------------NLCRRTDFYVDFD-DLNWQDWIMAPKGYDAYQCQGSCPNPMPAQLNATNHAIIQSLLH
+SLRPE-VPPPCCVPTETS-PLSILYMDVDKVIVIREYADMRVESCGCR*
+>P1;gi|137969|sp|P09534|DVR1_XENLA DVR-1 PROTEIN PRECURSOR (VEGETAL ... [ score 162 E 2e-39 ] [ range 257 .. 360 ]
+sequence
+------------NICKKRHLYVEFK-DVGWQNWVIAPQGYMANYCYGECPYPLTEILNGSNHAILQTLVH
+SIEPE-IPLPCCVPTKMS-PISMLFYDNNDNVVLRHYENMAVDECGCR*
+>P1;gi|32892154|gb|AAP88972.1| BMP2/4-like [Ambystoma mexicanum] [ score 161 E 2e-39 ] [ range 1 .. 93 ]
+sequence
+--------------------YVDFS-DVGWNDWIVAPPGYHAFYCHGDCPFPLADHMNSTNHAIVQTLVN
+SVNAN-IPKACCVPTELS-AISMLYLDENEKVVLKNYQDMVVEGCG--*
+>P1;gi|3929668|emb|CAA10268.1| mGDF precursor [Crassostrea gigas] [ score 160 E 6e-39 ] [ range 195 .. 301 ]
+sequence
+K---------YNNQCRRKELNVDFK-AVGWNDWIFAPPGYNAYYCDGSCHWPYDDHMNVTNHAIVQDLVN
+SIDPR-APKPCCVPTELS-SLSLLYTDEHGAVVLKVYQDMVVEGCGCR*
+>P1;gi|4433645|gb|AAD20829.1| growth/differentiation factor 7 [Danio... [ score 159 E 1e-38 ] [ range 155 .. 261 ]
+sequence
+R---------RRTRCSRKPLHVNFK-ELGWDDWIIAPLDYEAYHCEGLCDFPLRSHLEPTNHAIIQTLMN
+SMDPE-TPPSCCVPSKLS-PISILYIDSGNNVVYKQYEDMVVESCGCR*
+>P1;gi|2501171|sp|Q26974|DECA_TRICA Decapentaplegic protein precurso... [ score 159 E 1e-38 ] [ range 267 .. 372 ]
+sequence
+----------LKDPCRRRQMYVDFG-SVGWNDWIVAPLGYDAYYCGGECEYPIPDHMNTTNHAIVQSLVN
+SMKPK-VPGPCCVPTQLG-QMSMLYLGSDGSVILKNYKEMVVVGCGCR*
+>P1;gi|914116|gb|AAB34226.1| TGF-beta=transforming growth factor bet... [ score 159 E 1e-38 ] [ range 248 .. 354 ]
+sequence
+K---------SKSRCSKKALHVNFK-ELGWDDWIIAPLDYEAYHCEGVCDFPLRSHLEPTNHAIIQTLMN
+SMDPN-TPPSCCVPTKLS-PISILYIDSGNNVVYKQYEDMVVEQCGCR*
+>P1;gi|40254678|ref|NP_571951.2| anti-dorsalizing morphogenic protei... [ score 157 E 3e-38 ] [ range 286 .. 391 ]
+sequence
+-----------KMACQRQPLYVDFE-EIGWSGWIVSPKGYNAYHCKGSCIFPLSQNMRPTNHAIVQSIIN
+TLNKG-IQTPCCVPDKLY-SISLLYFDDDENVVLKQYDDMVAGSCGCR*
+>P1;gi|18858749|ref|NP_571062.1| growth differentiation factor 6b [D... [ score 157 E 4e-38 ] [ range 306 .. 412 ]
+sequence
+K---------SKSRCSKKPLHVNFR-ELGWDDWVIAPLDYEAYHCEGMCDFPLRSHLEPTNHAIIQTLMN
+SMNPN-MPPSCCVPSKLS-PISILYIDAGNNVVYKQYEDMVVESCGCR*
+>P1;gi|31240371|ref|XP_320599.1| ENSANGP00000010678 [Anopheles gambi... [ score 156 E 1e-37 ] [ range 336 .. 440 ]
+sequence
+R---------HKS-CQIQTLYVSFR-DLNWQDWIIAPDGFGAFFCFGECNFPLNTHMNATNHALIQTLVH
+LMHPR-VPKPCCAPTKLN-PISVLYHIDDANINLKKYKNMVVKSCGC-*
+>P1;gi|9963976|gb|AAG09784.1| Vg1 [Eleutherodactylus cystignathoides] [ score 154 E 5e-37 ] [ range 242 .. 345 ]
+sequence
+------------NICKKRRLYIDFK-AVGWQNWVIAPHGYFANYCHGECPYPLTMMLRGSNHAILQTLAH
+SFAPE-VPLPCCVPIKMA-PISMLFYDNNDNVVLRHYDNMAVDECGCR*
+>P1;gi|30704593|gb|AAH52168.1| Bmp8a protein [Mus musculus] [ score 152 E 1e-36 ] [ range 293 .. 411 ]
+sequence
+R---------GREVCRRHELYVSFR-DLGWLDWVIAPQGYSAYYCEGECAFPLDSCMNATNHAILQSLVH
+LMKPD-VPKACCAPTKLS-ATSVLYYDSSNNVILRKHRNMVVKACGC-*
+>P1;gi|30230448|gb|AAP20870.1| Vg1 [Eleutherodactylus coqui] [ score 152 E 1e-36 ] [ range 251 .. 354 ]
+sequence
+------------NICKKKRLYIDFK-VIGWQNWVIAPRGYLANYCHGECPYPLTLILRGANHAVLQTLAH
+LFSPE-VPQPCCVPVKMA-PISMLFYDNNDNVVLRHFDNMAIDECGCR*
+>P1;gi|2454546|gb|AAB71839.1| transforming growth factor-beta homolo... [ score 152 E 1e-36 ] [ range 324 .. 428 ]
+sequence
+-----------KNYCRRTQLLVDFN-ELNWQDWILAPSSYSAYQCQGECPNPLTSHFNTTNHAIVQGLIN
+SVDPN-VPAPCCVPTEME-SLAILYIDVEGKIVIKNYPDMEVLSCGCR*
+>P1;gi|41387776|gb|AAS01764.1| bone morphogenetic protein 5-8b [Hydr... [ score 152 E 2e-36 ] [ range 301 .. 404 ]
+sequence
+------------SRCDKHPLYIGFK-DLGWSDWIIAPDGYRANYCGGDCSFPLDNNANATNHAIIQTLVH
+MMYPE-IPKPCCAPNKLN-TLQVLFLDERNNVVMKRYSNMIVQHCGCQ*
+>P1;gi|40644076|emb|CAE46407.1| bone morphogenetic protein-10 [Gallu... [ score 152 E 2e-36 ] [ range 280 .. 383 ]
+sequence
+------------NYCKKTPLYIDFK-EIGWDSWIIAPAGYEAYECHGVCAYPLTEHVTPTKHAIVQTLVH
+LKNPK-ASKACCVPTKLD-PISILYMDAGVVTYKFKYEGMVVSECGCR*
+>P1;gi|3873289|gb|AAC77461.1| bone morphogenetic protein 10 [Mus mus... [ score 150 E 5e-36 ] [ range 318 .. 421 ]
+sequence
+------------NYCKKTPLYIDFK-EIGWDSWIIAPPGYEAYECRGVCNYPLAEHLTPTKHAIIQALVH
+LKNSK-ASKACCVPTKLD-PISILYLDKGVVTYKFKYEGMAVSECGCR*
+>P1;gi|30725820|ref|NP_851298.1| southpaw [Danio rerio] >gi|30350638... [ score 145 E 3e-34 ] [ range 302 .. 403 ]
+sequence
+------------SLCRRVDMWVDFD-QIGWDEWIVHPKRYNAYRCEGECPSPLDETYNPTNHAYMQSLLK
+LYQPR-VSCPSCVPLRLS-SLSMLYY-EGDGVVMRHHEDMIVEECGC-*
+>P1;gi|904036|gb|AAA97392.1| Xnr-1 [ score 144 E 3e-34 ] [ range 303 .. 405 ]
+sequence
+-----------KPLCRRVDMIVDFE-DIGWSSWIVYPKKYNAYRCEGACPIPLNETFKPTNHAYMKSVVK
+LYQPR-VECPLCVPVKMS-PLSMLYY-EGDEVVLRHHQEMIVEECGC-*
+>P1;gi|23194179|gb|AAN15037.1| bone morphogenetic protein; BMP [Amby... [ score 144 E 3e-34 ] [ range 3 .. 90 ]
+sequence
+-----------------------FQ-RVGWNDWIVAPPGYHAFYCHGDCPFPLADHMNPTNHAIVQTLVN
+SVNAN-IPKACCVPTELS-AISMLYLDENEKVVLKNYQEMVVEG----*
+>P1;gi|34392591|dbj|BAC82629.1| nodal protein [Branchiostoma belcheri] [ score 143 E 9e-34 ] [ range 362 .. 462 ]
+sequence
+--------------CKKVEFWVDFD-HIGWGTWIIYPKRFNAFRCEGACPTPVDQLYHPTNHAVMTSILN
+LHKPK-APMPCCIPTKLK-ALSMLYL-EHGEVVLRHHEDMIVDECGCQ*
+>P1;gi|34328240|ref|NP_062379.2| growth differentiation factor 2; bo... [ score 142 E 1e-33 ] [ range 324 .. 428 ]
+sequence
+------------SHCQKTSLRVNFE-DIGWDSWIIAPKEYDAYECKGGCFFPLADDVTPTKHAIVQTLVH
+KFPTK-VGKACCVPTKLS-PISILYKDDMGVPTLKHYEGMSVAECGCR*
+>P1;gi|3064062|gb|AAC14187.1| inhibin/activin beta B subunit precurs... [ score 142 E 1e-33 ] [ range 286 .. 391 ]
+sequence
+------------NLCCRQQFYIDFR-LIGWNDWIIAPSGYYGNYCEGSCPAYLAGGSASSFHTAVQYRMR
+GLNPG-TVNSCCIPTKLS-TMSMLYFDDEYNIVKRDVPNMIVEECGC-*
+>P1;gi|2118535|pir||JC4862 activin beta-A chain precursor - Japanese... [ score 142 E 2e-33 ] [ range 308 .. 412 ]
+sequence
+--------------CCKKQFYVSFK-DIGWSDWVIAPPGYTANYCEGDCPMYITGTSGSSFHAAVQYRMR
+GYSPT-SVKSCCVPTKLR-AMSMLYYDDGQNIIKKDIQNMVVEECGC-*
+>P1;gi|11611533|dbj|BAB18971.1| Xnr5 [Xenopus laevis] [ score 141 E 4e-33 ] [ range 281 .. 383 ]
+sequence
+-----------KTLCKRVDMIVDFE-KIGWGDLIIYPKRFNAYRCEGSCPIPLDENFKPTNHAYIKSLVN
+FFNPR-VACPSCVPVKMR-PLSMLMY-EGDEIVLKHHEDMIVEECGC-*
+>P1;gi|38073282|ref|XP_148966.2| inhibin beta-B [Mus musculus] [ score 141 E 5e-33 ] [ range 305 .. 410 ]
+sequence
+------------SLCCRQQFFIDFR-LIGWNDWIIAPTGYYGNYCEGSCPAYLAGGSASSFHTAVQYRMR
+GLNPG-PVNSCCIPTKLS-SMSMLYFDDEYNIVKRDVPNMIVEECGC-*
+>P1;gi|3402507|dbj|BAA32227.1| DVR-1 [Pagrus major] [ score 140 E 6e-33 ] [ range 3 .. 99 ]
+sequence
+------------NVCKARRLYIDFK-DVGWQDWIIAPQGYMANYCHGEYPFPLSESVNGTNHAILHTLVH
+SLDPG-TPQPCCVPIRLS-PISMLYYDNNDNVVLRHYQDMV-------*
+>P1;gi|3399701|dbj|BAA32087.1| bone morphogenetic protein [Dugesia j... [ score 140 E 7e-33 ] [ range 295 .. 400 ]
+sequence
+----------HEEDCQRYPLIVTFK-EVGWSKWIIAPQNYNAYYCKGNCPYPLSDNFNATNHAIIQLLVH
+GLKDS-IPKPCCVPYHLH-PETLLYLNNEGDALLREFKDMSVSSCSCR*
+>P1;gi|20977543|ref|NP_624359.1| nodal-related 2; nodal-related 1 [D... [ score 140 E 8e-33 ] [ range 399 .. 500 ]
+sequence
+------------TTCRRVDMHVDFN-QIGWGSWIVFPKKYNAYRCEGACPNPLGEELRPTNHAYMQSLLK
+HHPSR-VPASCCAPTRTS-ALSMLYY-ENGEMILRHHEDMQVEECGC-*
+>P1;gi|19067873|gb|AAK20912.1| bone morphogenetic protein 2/4 [Actin... [ score 139 E 1e-32 ] [ range 1 .. 89 ]
+sequence
+----------------------DFS-DVGWNDWIVAPPGYYAFFCNGECPYPITKHLNATNHAIVQTVMN
+SVDPK-VPNVCCVPTTLT-PISMLYMDEYEKVVLKNYQEMVVEG----*
+>P1;gi|6599258|emb|CAB63656.1| BMP2/4 protein [Haliotis tuberculata] [ score 139 E 1e-32 ] [ range 1 .. 87 ]
+sequence
+----------------------------GWDDWIVAPSGYNAFYCHGDCPFPLAHHLNSTNHAIVQTLVN
+SVNPA-VPKACCVPTELT-AISMLYLDEWDKVVLKNYQNMIVVGCG--*
+>P1;gi|5739383|gb|AAD50448.1| activin beta A precursor [Carassius au... [ score 139 E 2e-32 ] [ range 299 .. 403 ]
+sequence
+--------------CCKRQFYVNFK-DIGWSDWIIAPSGYHANYCEGDCPSHVASITGSSFHSTVINHYR
+MRGYN-NIKSCCVPTRLR-AMSMLYYNEEQKIIKKDIQNMIVEECGC-*
+>P1;gi|18858369|ref|NP_571396.1| bone morphogenetic protein 7 [Danio... [ score 193 E 1e-48 ] [ range 329 .. 432 ]
+sequence
+------------QGCKKHELYVSFR-DLGWQDWIIAPEGYAAYYCEGECVFPLNSYMNATNHAIVQTLVH
+FINPETVPKPCCAPTQLH-GISVLYFDDSSNVILKKYRNMVVRACGCH*
+>P1;gi|17137520|ref|NP_477340.1| glass bottom boat CG5562-PA [Drosop... [ score 185 E 2e-46 ] [ range 352 .. 455 ]
+sequence
+------------RSCQMQTLYIDFK-DLGWHDWIIAPEGYGAFYCSGECNFPLNAHMNATNHAIVQTLVH
+LLEPKKVPKPCCAPTRLG-ALPVLYHLNDENVNLKKYRNMIVKSCGCH*
+>P1;gi|29571106|ref|NP_001711.2| bone morphogenetic protein 8B prepr... [ score 181 E 3e-45 ] [ range 299 .. 402 ]
+sequence
+------------QVCRRHELYVSFQ-DLGWLDWVIAPQGYSAYYCEGECSFPLDSCMNATNHAILQSLVH
+LMMPDAVPKACCAPTKLS-ATSVLYYDSSNNVILRKHRNMVVKACGCH*
+>P1;gi|31219360|ref|XP_316789.1| ENSANGP00000010264 [Anopheles gambi... [ score 179 E 1e-44 ] [ range 336 .. 439 ]
+sequence
+------------KSCRIQQLYVSFK-DLQWHEWIIAPEGYGAYYCSGECNFPLNAHMNATNHAIVQTLVH
+LNHPTKVPKPCCAPTKLI-PISVLYHIDESNVNLKKYKNMVVKSCGCH*
+>P1;gi|1665743|dbj|BAA11835.1| bone morphogenic protein a [Halocynth... [ score 176 E 1e-43 ] [ range 580 .. 683 ]
+sequence
+------------QACHREELYVSFQ-DVNWEDWIIAPSGYMAYRCSGECDFPLSANMNATNHAIVQTLVH
+LLKSKLFPEPCCTPQDLD-SISVLYYDDHRNVVYRKYRNMVVLSCACY*
+>P1;gi|31560733|ref|NP_031585.2| bone morphogenetic protein 8b [Mus ... [ score 168 E 4e-41 ] [ range 296 .. 399 ]
+sequence
+------------EVCRRHELYVSFR-DLGWLDSVIAPQGYSAYYCAGECIYPLNSCMNSTNHATMQALVH
+LMKPDIIPKVCCVPTELS-AISLLYYDRNNNVILRRERNMVVQACGCH*
+>P1;gi|22901916|gb|AAN10123.1| bone morphogenetic protein 4 [Oryzias... [ score 164 E 3e-40 ] [ range 301 .. 392 ]
+sequence
+------------RNCRRHTLYVDFS-DVGWNDWIVAPPGYQAYYCHGECPFPLADHLNSTNHAIVQTLVN
+SVN-NNIPKACCVPTELS-AISMLYLDEYDKVVLKNY-----------*
+>P1;gi|45382245|ref|NP_990153.1| anti-dorsalizing morphogenetic prot... [ score 164 E 6e-40 ] [ range 260 .. 364 ]
+sequence
+------------QPCQRHPLSVDFE-EIGWSGWIISPRGYNAYHCRGSCPFPLGENMRPTNHATVQSIIN
+ALKSEGVSSPCCVPDKLH-SINLLYFDDDENVVLKQYDDMVAGSCGCH*
+>P1;gi|1161334|gb|AAC59736.1| anti-dorsalizing morphogenetic protein... [ score 163 E 9e-40 ] [ range 288 .. 390 ]
+sequence
+--------------CQRHPLYVDFE-EIGWSGWIISPRGYNAYHCKGSCPFPLGQNMRPTNHATVQSIIN
+ALKLKGVSSPCCVPDKLF-SINLLYFDDDENVVLKQYDDMVAGSCGCH*
+>P1;gi|40254678|ref|NP_571951.2| anti-dorsalizing morphogenic protei... [ score 160 E 6e-39 ] [ range 288 .. 390 ]
+sequence
+-------------ACQRQPLYVDFE-EIGWSGWIVSPKGYNAYHCKGSCIFPLSQNMRPTNHAIVQSIIN
+TLKLKGIQTPCCVPDKLY-SISLLYFDDDENVVLKQYDDMVAGSCGC-*
+>P1;gi|2118535|pir||JC4862 activin beta-A chain precursor - Japanese... [ score 157 E 5e-38 ] [ range 308 .. 412 ]
+sequence
+--------------CCKKQFYVSFK-DIGWSDWVIAPPGYTANYCEGDCPMYITSGSGPSFHAAVQYRMR
+GYSPFTSVKSCCVPTKLR-AMSMLYYDDGQNIIKKDIQNMVVEECGC-*
+>P1;gi|30725820|ref|NP_851298.1| southpaw [Danio rerio] >gi|30350638... [ score 156 E 7e-38 ] [ range 304 .. 404 ]
+sequence
+--------------CRRVDMWVDFD-QIGWDEWIVHPKRYNAYRCEGECPSPLDETYNPTNHAYMQSLLK
+LYQPERVSCPSCVPLRLS-SLSMLYYEGDG-VVMRHHEDMIVEECGCH*
+>P1;gi|5739383|gb|AAD50448.1| activin beta A precursor [Carassius au... [ score 151 E 3e-36 ] [ range 297 .. 403 ]
+sequence
+------------RVCCKRQFYVNFK-DIGWSDWIIAPSGYHANYCEGDCPSHVASALSFHSTVINHYRMR
+GYSPFNNIKSCCVPTRLR-AMSMLYYNEEQKIIKKDIQNMIVEECGC-*
+>P1;gi|19110877|gb|AAL85328.1| activin beta A subunit [Danio rerio] ... [ score 151 E 4e-36 ] [ range 288 .. 394 ]
+sequence
+------------RVCCKRQFYVNFK-DIGWNDWIIAPSGYHANYCEGDCASNVASSLSFHSTVISHYRIR
+GYSPFTNIKSCCVPTRLR-AMSMLYYNEEQKIVKKDIQNMIVEECGC-*
+>P1;gi|34328240|ref|NP_062379.2| growth differentiation factor 2; bo... [ score 150 E 5e-36 ] [ range 326 .. 427 ]
+sequence
+--------------CQKTSLRVNFE-DIGWDSWIIAPKEYDAYECKGGCFFPLADDVTPTKHAIVQTLVH
+LKFPTKVGKACCVPTKLS-PISILYKDDMGVPTLKHYEGMSVAECGC-*
+>P1;gi|20977543|ref|NP_624359.1| nodal-related 2; nodal-related 1 [D... [ score 150 E 6e-36 ] [ range 400 .. 500 ]
+sequence
+-------------TCRRVDMHVDFN-QIGWGSWIVFPKKYNAYRCEGACPNPLGEELRPTNHAYMQSLLK
+YHHPSRVPASCCAPTRTS-ALSMLYY-ENGEMILRHHEDMQVEECGC-*
+>P1;gi|4557371|ref|NP_001192.1| bone morphogenetic protein 3 (osteog... [ score 150 E 7e-36 ] [ range 368 .. 471 ]
+sequence
+------------RNCARRYLKVDFA-DIGWSEWIISPKSFDAYYCSGACQFPMPKSLKPSNHATIQSIVR
+AVGVPGIPEPCCVPEKMS-SLSILFFDENKNVVLKVYPNMTVESCAC-*
+>P1;gi|45382173|ref|NP_990763.1| dorsalin-1 [Gallus gallus] >gi|4619... [ score 148 E 3e-35 ] [ range 325 .. 426 ]
+sequence
+--------------CRRTSLHVNFK-EIGWDSWIIAPKDYEAFECKGGCFFPLTDNVTPTKHAIVQTLVH
+LQNPKKASKACCVPTKLD-AISILYKDDAGPTLIYNYEGMKVAECGC-*
+>P1;gi|34879433|ref|XP_344131.1| inhibin beta subunit B [Rattus norv... [ score 147 E 6e-35 ] [ range 271 .. 374 ]
+sequence
+--------------CCRQQFFIDFR-LIGWNDWIIAPTGYYGNYCEGSCPAYLAPGSASSFHTAVQYRMR
+GLNPGPV-NSCCIPTKLS-SMSMLYFDDEYNIVKRDVPNMIVEECGC-*
+>P1;gi|39582228|emb|CAE64179.1| Hypothetical protein CBG08804 [Caeno... [ score 146 E 8e-35 ] [ range 261 .. 362 ]
+sequence
+--------------CQRKGLYVDFD-ILGWKQWVIAPEGFPAYYCSGACSAPFHKTMNATSHAIVQSTIH
+LVRPNTTMPAKCAPSHLT-SMKILFVDQKKNVQIKRYRDMVVDECGCH*
+>P1;gi|13242277|ref|NP_077351.1| prepro bone inducing protein [Rattu... [ score 146 E 1e-34 ] [ range 372 .. 475 ]
+sequence
+------------RVCSRRYLKVDFA-DIGWNEWIISPKSFDAYYCAGACEFPMPKIVRPSNHATIQSIVR
+AVGVPGIPEPCCVPDKMN-SLGVLFLDENRNVVLKVYPNMSVETCAC-*
+>P1;gi|18859077|ref|NP_571041.1| nodal-related 1; squint [Danio reri... [ score 146 E 1e-34 ] [ range 292 .. 392 ]
+sequence
+--------------CKKVDMWVDFD-QIGWSDWIVYPKRYNAYRCEGSCPTPVDETFTPTNHAYMQSLLK
+LHHPDRVPCLSCVPTRLA-PLSMLYY-ENGKMVMRHHEGMVVAECGCH*
+>P1;gi|34852657|ref|XP_228285.2| similar to Nodal precursor [Rattus ... [ score 146 E 1e-34 ] [ range 329 .. 430 ]
+sequence
+------------QLCRRVKFQVDFN-LIGWGSWIIYPKQYNAYRCEGECPNPVGEEFHPTNHAYIQSLLK
+RYQPHRVPSTCCAPVKTK-PLSMLYVD-NGRVLLEHHKDMIVEECGC-*
+>P1;gi|600163|gb|AAA56872.1| SCREW [ score 146 E 2e-34 ] [ range 298 .. 400 ]
+sequence
+------------QSCERLNFTVDFK-ELHMHNWVIAPKKFEAYFCGGGCNFPLGTKMNATNHAIVQTLMH
+LKQPHL-PKPCCVPTVLG-AITILRYLNEDIIDLTKYQKAVAKECGCH*
+>P1;gi|2739356|gb|AAB94786.1| GDF-1 [Homo sapiens] [ score 145 E 2e-34 ] [ range 266 .. 371 ]
+sequence
+-------------ACRARRLYVSFR-EVGWHRWVIAPRGFLANYCQGQCALPVSGGPPALNHAVLRALMH
+AAAPGAADLPCCVPARLS-PISVLFFDNSDNVVLRQYEDMVVDECGC-*
+>P1;gi|10732797|gb|AAG22543.1| bone morphogenetic protein 3b [Rangif... [ score 145 E 2e-34 ] [ range 336 .. 439 ]
+sequence
+------------RVCSRRYLKVDFA-DIGWNEWIISPKSFDAYYCSGACEFPMPRWVRPSNHATIQSIVR
+AVGVPGIPEPCCAPDKMS-SLGVLFLDENRNVVLKVYPNMSVETCAC-*
+>P1;gi|6678317|ref|NP_033393.1| transforming growth factor, beta 2 [... [ score 195 E 2e-49 ] [ range 303 .. 414 ]
+sequence
+ALDAAYCFRNVQDNCCLRPLYIDFKRDLGW-KWIHEPKGYNANFCAGACPYLW---SSDTQHTKVLSLYN
+TINPEASASPCCVSQDLE-PLTILYYIG-NTPKIEQLSNMIVKSCKCS*
+>P1;gi|135682|sp|P17247|TGF2_XENLA Transforming growth factor beta 2... [ score 193 E 7e-49 ] [ range 302 .. 413 ]
+sequence
+ALDAAYCFRNVQDNCCLRPLYIDFKKDLGW-KWIHEPKGYNANFCAGACPYLW---SSDTQHSRVLSLYN
+TINPEASASPCCVSQDLD-SLTILYYIG-NKPKIEQLSNMIVKSCKCS*
+>P1;gi|35902906|ref|NP_919367.1| transforming growth factor, beta 3 ... [ score 192 E 2e-48 ] [ range 299 .. 410 ]
+sequence
+ALDTKYCFSNYEENCCVRKLYIDFRQDLGW-RWIHEPKGYHANFCSGPCPYLR---SADTTHSSLLSLYN
+TLNPEASASPCCVPQDLE-PLTILYYVG-RTPKVEQLSNMIVKSCKCS*
+>P1;gi|18266825|sp|P16047|TGF3_CHICK Transforming growth factor beta... [ score 187 E 6e-47 ] [ range 301 .. 412 ]
+sequence
+ALDTNYCFRNLEENCCVRPLYIELPTDLGW-KWVHEPKGYFANFCSGPCPYLR---SADTTHSTVLGLYN
+TLNPEASASPCCVPQDLE-PLTILYYVG-RTPKVEQLSNMVVKSCKCS*
+>P1;gi|35902884|ref|NP_919366.1| transforming growth factor, beta 2 ... [ score 183 E 9e-46 ] [ range 300 .. 411 ]
+sequence
+ALDTAFCSRNVQDNRCLRSLYIDFKKDLGW-RWIHEPKGYNANFCAGACPYLW---SADTQHSNILGLYN
+TINPEASASPCCVSQDLE-PLTILYYIG-KTPKIEQLSNMIVKSCKCS*
+>P1;gi|1729918|sp|P09531|TGF1_CHICK Transforming growth factor beta ... [ score 181 E 3e-45 ] [ range 261 .. 373 ]
+sequence
+-LDTDYCFGPGEKNCCVRPLYIDFRKDLQW-KWIHEPKGYMANFCMGPCPYIW---SADTQYTKVLALYN
+QHNPGASAAPCCVPQTLD-PLPIIYYVG-RNVRVEQLSNMVVRACKCS*
+>P1;gi|135688|sp|P16176|TGF1_XENLA Transforming growth factor beta 1... [ score 174 E 4e-43 ] [ range 276 .. 382 ]
+sequence
+-----YCFGNNGPNCCVKPLYINFRKDLGW-KWIHEPKGYEANYCLGNCPYIW---SMDTQYSKVLSLYN
+QNNPGASISPCCVPDVLE-PLPIIYYVG-RTAKVEQLSNMVVRSCNCS*
+>P1;gi|1519489|gb|AAB62983.1| transforming growth factor-beta 2 [Cyp... [ score 173 E 7e-43 ] [ range 258 .. 361 ]
+sequence
+ALDAAFCFRNVQDNCCLRSLYIDFKKDLGW-KWIHEPKGYNANFCAGACPYLW---SADTQHSNILGLYN
+TINPEASASPCCVSQDLE-PLTILYYIG-KTPKIEQLSNM--------*
+>P1;gi|8392990|ref|NP_058874.1| bone morphogenetic protein 2 [Rattus... [ score 172 E 1e-42 ] [ range 286 .. 392 ]
+sequence
+-------RKRLKSSCKRHPLYVDFS-DVGW-DWIVAPPGYHAFYCHGECPFPL---ANSTNHAIVQTLVN
+SVN-SKIPKACCVPTELS-AISMLYLDN-EKVVLKNYQDMVVEGCGC-*
+>P1;gi|399124|sp|P30884|BMPB_XENLA Bone morphogenetic protein 2-II p... [ score 171 E 3e-42 ] [ range 291 .. 397 ]
+sequence
+-------RKRLKSSCRRHPLYVDFS-DVGW-DWIVAPPGYHAFYCHGECPFPL---ANSTNHAIVQTLVN
+SVN-TNIPKACCVPTELS-AISMLYLDN-EKVVLKNYQDMVVEGCGC-*
+>P1;gi|25137513|dbj|BAC24087.1| decapentaplegic [Achaearanea tepidar... [ score 170 E 6e-42 ] [ range 262 .. 369 ]
+sequence
+-------RKGRKDNCRRHALYVDFS-DVGW-DWIIAPPGYNAYFCHGDCPFPL---PDHTNHAIVQTLVN
+SANPAAVPRACCVPTELS-PISMLYKDK-DNVVLKNYQDMVVEGCGC-*
+>P1;gi|41349770|dbj|BAD08319.1| decapentaplegic protein [Athalia rosae] [ score 169 E 1e-41 ] [ range 287 .. 394 ]
+sequence
+-------RKNGRENCRRHPLYVDF-VDVGW-DWIVAPPGYDAFYCHGDCPFPL---ANSTNHAIVQTLVY
+STNPNIVPKACCVPTALS-SISMLYLDE-ENVVLKNYQDMAVLGCGC-*
+>P1;gi|18858569|ref|NP_571023.1| decapentaplegic and Vg-related 1 [D... [ score 166 E 9e-41 ] [ range 242 .. 354 ]
+sequence
+---ASYYLPVTPSNVCKRRLYIDFK-DVGW-DWIIAPQGYLANYCHGECPFPL---SESTNHAILQTLVH
+SFDPKGTPQPCCVPIKLS-PISMLYYDN-NNVVLRHYEDMVVDECGC-*
+>P1;gi|45384538|ref|NP_990568.1| bone morphogenetic protein 4 [Gallu... [ score 166 E 1e-40 ] [ range 299 .. 404 ]
+sequence
+--------RKNKKNCRRHALYVDFS-DVGW-DWIVAPPGYQAFYCHGDCPFPL---ANSTNHAIVQTLVN
+SVN-SSIPKACCVPTELS-AISMLYLDE-DKVVLKNYQEMVVEGCGC-*
+>P1;gi|34866318|ref|XP_345502.1| similar to cartilage-derived morpho... [ score 164 E 4e-40 ] [ range 682 .. 783 ]
+sequence
+-------------RCSRKPLHVNFK-ELGW-DWIIAPLEYEAYHCEGVCDFPL---RSHTNHAIIQTLMN
+SMDPGSTPPSCCVPTKLT-PISILYIDG-NNVVYKQYEDMVVESCGC-*
+>P1;gi|34784582|gb|AAH57702.1| MGC68434 protein [Xenopus laevis] [ score 164 E 4e-40 ] [ range 318 .. 425 ]
+sequence
+-------RRFLKQACKKHELFVSF-RDLGW-DWIIAPEGYAAYYCEGECAFPL---NNATNHAIVQTLVH
+FINPETVPKPCCAPTQLN-GISVLYFDD-SNVILKKYKNMVVQACGC-*
+>P1;gi|45383442|ref|NP_989689.1| bone morphogenetic protein 2 [Gallu... [ score 164 E 4e-40 ] [ range 285 .. 391 ]
+sequence
+-------RKRHKYSCKRHPLYVDFN-DVGW-DWIVAPPGYSAFYCHGECPFPL---ANSTNHAIVQTLVN
+SVN-SKIPKACCVPTELS-AISMLYLDN-EKVVLKNYQDMVVEGCGC-*
+>P1;gi|45383482|ref|NP_989669.1| growth differentiation factor 5 (ca... [ score 163 E 6e-40 ] [ range 393 .. 499 ]
+sequence
+--------KNLKPRCSRKALHVNFK-DMGW-DWIIAPLEYEAYHCEGLCEFPL---RSHTNHAVIQTLMN
+SMDPESTPPTCCVPTRLS-PISILFIDS-NNVVYKQYEDMVVESCGC-*
+>P1;gi|26329017|dbj|BAC28247.1| unnamed protein product [Mus musculus] [ score 162 E 1e-39 ] [ range 343 .. 453 ]
+sequence
+----DYNTSEQKQACKKHELYVSF-RDLGW-DWIIAPEGYAAFYCDGECSFPL---NNATNHAIVQTLVH
+LMFPDHVPKPCCAPTKLN-AISVLYFDD-SNVILKKYRNMVVRSCGC-*
+>P1;gi|33504525|ref|NP_878293.1| transforming growth factor, beta 1 ... [ score 162 E 1e-39 ] [ range 273 .. 377 ]
+sequence
+------CDEKTE-TCCMRKLYIDFRKDLGW-KWIHKPKGYFANYCMGSCTYIW---NAENKYSQILALYK
+HHNPGASAQPCCVPAILD-PLPILYYVG-RQHKVEQLSNMVVRNCKCS*
+>P1;gi|4405984|gb|AAD19837.1| derriere [Xenopus laevis] [ score 162 E 1e-39 ] [ range 227 .. 353 ]
+sequence
+SLDPSNCKRSTHSSCKKRRLYIDFK-DVGW-NWVIAPRGYMANYCHGECPYPL---TEGTNHAVLQTLVH
+SVEPENTPLPCCAPTKLS-PISMLYYDN-NNVVLRHYEDMVVDECGC-*
+>P1;gi|18266881|sp|P48970|UNIV_STRPU Univin precursor >gi|10937972|g... [ score 161 E 3e-39 ] [ range 283 .. 394 ]
+sequence
+---SSFPTASLTNLCQRHRLFVSF-RDVGW-NWIIAPMGYQAYYCDGECPFPL---LNGTNHAIIQTLVN
+SIDNRAVPKVCCAPTKLS-GISMLYFDN-NNVVLRQYEDMVVEACGC-*
+>P1;gi|9802031|gb|AAF99597.1| growth/differentiation factor 16 precu... [ score 160 E 5e-39 ] [ range 306 .. 412 ]
+sequence
+--------KKSKTRCSKKPLLVNFK-ELGW-DWIIAPLDYEAYHCEGVCDFPL---RSHTNHAIIQTLMN
+SMDPESTPPSCCVPSKLS-PISILYIDG-NNVVYKQYEDMVVESCSC-*
+>P1;gi|31224746|ref|XP_317480.1| ENSANGP00000012367 [Anopheles gambi... [ score 160 E 6e-39 ] [ range 352 .. 458 ]
+sequence
+--------RRKNELCQRKPLYVDFS-DVGW-DWIVAPPGYEAYYCQGDCRFPI---ADHTNHAIVQTLVN
+SYNPTLAPKACCVPTQLS-SISMLYLNE-QNVVLKNYQDMTVVGCGC-*
+>P1;gi|27596833|gb|AAO20895.1| Dpp/BMP2&4 ligand-like protein [Ilyan... [ score 160 E 7e-39 ] [ range 193 .. 300 ]
+sequence
+-------RKGDKNQCRRHALYVDF-QEVGW-DWIVAPDGYNAYFCQGDCNFPL---ANSTNHAIVQTLVN
+SVDPTAVSKACCVPTELS-AISMLYLNE-RGVQLKNYQDMVVEACGC-*
+>P1;gi|806499|gb|AAB46367.1| decapentaplegic [ score 159 E 2e-38 ] [ range 70 .. 177 ]
+sequence
+-------RKEAREICQRRPLFVDF-ADVGW-DWIVAPHGYDAYYCQGDCPFPL---SDHTNHAIVQTLVN
+SVNPAAVPKACCVPTQLS-SISMLYMDE-NNVVLKNYQDMMVVGCGC-*
+>P1;gi|137969|sp|P09534|DVR1_XENLA DVR-1 PROTEIN PRECURSOR (VEGETAL ... [ score 159 E 2e-38 ] [ range 259 .. 359 ]
+sequence
+--------------CKKRHLYVEFK-DVGW-NWVIAPQGYMANYCYGECPYPL---TNGSNHAILQTLVH
+SIEPEDIPLPCCVPTKMS-PISMLFYDN-NNVVLRHYENMAVDECGC-*
+>P1;gi|27530619|dbj|BAC53989.1| Sj-BMP2/4 [Stichopus japonicus] [ score 158 E 2e-38 ] [ range 315 .. 421 ]
+sequence
+--------RRLKENCSKHSLYVDF-AIVGW-DWILAPEGYQAYYCQGECPYPM---PNPTNHAIVQTIVH
+SADPSSVPKACCVPTELD-TLNMLYLNE-KQIILKNYKDMIVTSCGC-*
+>P1;gi|742374|prf||2009388A GDF5 protein [ score 158 E 3e-38 ] [ range 388 .. 493 ]
+sequence
+--------KNLKARCSRKALHVNFK-DMGW-DWIIAPLEYEAFHCEGLCEFPL---RSHTNHAVIQTLMN
+SMDPESTPPTCCVPTRLS-PISIFIDSA-NNVVYKQYEDMVVESCGC-*
+>P1;gi|1707885|sp|P55106|GDF6_BOVIN Growth/differentiation factor 6 ... [ score 157 E 3e-38 ] [ range 334 .. 435 ]
+sequence
+-------------RCSKKPLHVNFK-ELGW-DWIIAPLEYEAYHCEGVCDFPL---RSHTNHAIIQTLMN
+SMDPGSTPPSCCVPTKLT-PISILYIDG-NNVVYNEYEEMVVESCGC-*
+>P1;gi|31219360|ref|XP_316789.1| ENSANGP00000010264 [Anopheles gambi... [ score 155 E 2e-37 ] [ range 335 .. 438 ]
+sequence
+-----------HKSCRIQQLYVSFKDLQWH-EWIIAPEGYGAYYCSGECNFPL---NNATNHAIVQTLVH
+LNHPTKVPKPCCAPTKLI-PISVLYHID-ENVNLKKYKNMVVKSCGC-*
+>P1;gi|17137520|ref|NP_477340.1| glass bottom boat CG5562-PA [Drosop... [ score 155 E 2e-37 ] [ range 353 .. 454 ]
+sequence
+-------------SCQMQTLYIDFK-DLGW-DWIIAPEGYGAFYCSGECNFPL---NNATNHAIVQTLVH
+LLEPKKVPKPCCAPTRLG-ALPVLYLND-ENVNLKKYRNMIVKSCGC-*
+>P1;gi|38490428|emb|CAD57730.1| decapentaplegic [Cupiennius salei] [ score 155 E 2e-37 ] [ range 115 .. 222 ]
+sequence
+-------RKGRRDNCRRHALYVDF-YDVGW-DWILAPPGYDAYFCHGDCPFPL---PNATNHAIVQTLVN
+SANPAAVPRACCVPSEMS-AISILHRDQ-NDVVLSVYRDMVVEGCGC-*
+>P1;gi|2464959|emb|CAA72733.1| contact [Danio rerio] [ score 154 E 4e-37 ] [ range 150 .. 256 ]
+sequence
+--------KNPKQRCNRKQLHVNFK-EMGW-DWIIAPLEYEAFHCDGVCDFPI---RSHTNHAIIQTLMN
+SMDPRSTPPTCCVPTRLS-PISILYIDS-NNVVYKQYEDMVVESCGC-*
+>P1;gi|6680451|ref|NP_032406.1| inhibin beta-A [Mus musculus] >gi|46... [ score 154 E 4e-37 ] [ range 312 .. 424 ]
+sequence
+------CDGKV-NICCKKQFFVSFK-DIGW-DWIIAPSGYHANYCEGECPSHI---SSLSFHSTVINHYR
+MHSPFANLKSCCVPTKLR-PMSMLYYDD-GQNIIKKIQNMIVEECGCS*
+>P1;gi|3983113|gb|AAC83807.1| interleukin TGF beta [Cavia porcellus] [ score 154 E 6e-37 ] [ range 16 .. 118 ]
+sequence
+-LDTNYCSSSTEKNCCVRQLYIDFRKDLGW-EWIHEPKGYHANFRLGPCPYIW---SLDTQYSKVLALYN
+QHNPGGSAAPCCVPQALE-PLPIVYYVG-RKAKVEQLSNM--------*
+>P1;gi|15425549|emb|CAC60268.1| transforming growth factor beta 1 [P... [ score 153 E 6e-37 ] [ range 93 .. 200 ]
+sequence
+---TDTCTAQTE-TCCVRKLYIDFRKDLGW-KWIHKPTGYHANYCMGSCTYIW---NAENKYSQILALYK
+HHNPGASAQPCCVPQALE-PLPILYYVG-RQHKVEQLSNMSVKSCKCS*
+>P1;gi|1708436|sp|P55102|IHBA_HORSE Inhibin beta A chain precursor (... [ score 153 E 9e-37 ] [ range 314 .. 426 ]
+sequence
+------CDGKV-NICCKKQFFVSFK-DIGW-DWIIAPSGYHANYCEGECPSHI---SSLSFHSTVINQYR
+LHNPFANLKSCCVPTKLR-PMSMLYYDD-GQNIIKKIQNMIVEECGCS*
+>P1;gi|38154348|gb|AAR12161.1| myostatin [Capra hircus] [ score 152 E 1e-36 ] [ range 270 .. 375 ]
+sequence
+-LDCDE--HSTESRCCRYPLTVDFEA-VGW-DWIIAPKRYKANYCSGECEFLF---LQKYPHTH---LVH
+QANPKGSAGPCCTPTKMS-PINMLYFNG-KEQIIYKIPGMVVDRCGCS*
+>P1;gi|15721893|dbj|BAB68396.1| LjBmp2/4b [Lethenteron japonicum] [ score 151 E 3e-36 ] [ range 77 .. 181 ]
+sequence
+---------RRNHGCRRHALYVDF-REVGW-DWIVAPPGYHAYFCHGECPFPL---ANSTNHAIVQTLVN
+SVNA-SIPRACCVPTELS-PISMLYLDE-YGVVLKNYQDMVVEGCGC-*
+>P1;gi|2554917|gb|AAB81508.1| myostatin [Bos taurus] [ score 151 E 3e-36 ] [ range 270 .. 375 ]
+sequence
+-LDCDE--HSTESRCCRYPLTVDFEA-FGW-DWIIAPKRYKANYCSGECEFVF---LQKYPHTH---LVH
+QANPRGSAGPCCTPTKMS-PINMLYFNG-EGQIIYKIPAMVVDRCGCS*
+>P1;gi|15146450|gb|AAK84666.1| myostatin [Ictalurus punctatus] [ score 151 E 4e-36 ] [ range 285 .. 389 ]
+sequence
+-----DCDENSESRCCRYPLTVDFE-DFGW-DWIIAPKRYKANYCSGECDYVH---LQKYPHTH---LVN
+KANPRGTAGPCCTPTKMS-PINMLYFNG-KEQIIYKIPSMVVDRCGCS*
+>P1;gi|2501171|sp|Q26974|DECA_TRICA Decapentaplegic protein precurso... [ score 151 E 4e-36 ] [ range 264 .. 371 ]
+sequence
+-------RKNLKDPCRRRQMYVDF-GSVGW-DWIVAPLGYDAYYCGGECEYPI---PDHTNHAIVQSLVN
+SMKPKEVPGPCCVPTQLG-QMSMLYLSD-GSVILKNYKEMVVVGCGC-*
+>P1;gi|33457297|ref|NP_878248.1| growth differentiation factor 7 [Ho... [ score 151 E 4e-36 ] [ range 343 .. 449 ]
+sequence
+--------RRGRSRCSRKPLHVDFK-ELGW-DWIIAPLDYEAYHCEGLCDFPL---RSHTNHAIIQTLLN
+SMAPDAAPASCCVPARLS-PISILYIDA-NNVVYKQYEDMVVEACGC-*
+>P1;gi|31240371|ref|XP_320599.1| ENSANGP00000010678 [Anopheles gambi... [ score 151 E 5e-36 ] [ range 337 .. 440 ]
+sequence
+-----------HKSCQIQTLYVSF-RDLNW-DWIIAPDGFGAFFCFGECNFPL---NNATNHALIQTLVH
+LMHPTRVPKPCCAPTKLN-PISVLYIDD-ANINLKKYKNMVVKSCGC-*
+>P1;gi|914116|gb|AAB34226.1| TGF-beta=transforming growth factor bet... [ score 150 E 6e-36 ] [ range 247 .. 353 ]
+sequence
+--------KKSKSRCSKKALHVNFK-ELGW-DWIIAPLDYEAYHCEGVCDFPL---RSHTNHAIIQTLMN
+SMDPNSTPPSCCVPTKLS-PISILYIDG-NNVVYKQYEDMVVEQCGC-*
+>P1;gi|5739383|gb|AAD50448.1| activin beta A precursor [Carassius au... [ score 150 E 7e-36 ] [ range 299 .. 404 ]
+sequence
+--------------CCKRQFYVNFK-DIGW-DWIIAPSGYHANYCEGDCPSHV---ASITFHSTVINHYR
+MYSPFNNIKSCCVPTRLR-AMSMLYYNE-EQKIIKKIQNMIVEECGCS*
+>P1;gi|40644076|emb|CAE46407.1| bone morphogenetic protein-10 [Gallu... [ score 150 E 8e-36 ] [ range 274 .. 382 ]
+sequence
+-------RRNAKGNYCKKPLYIDFK-EIGW-DWIIAPAGYEAYECHGVCAYPL---TEHTKHAIVQTLVH
+LKNPQKASKACCVPTKLD-PISILYMDA-GVVTYKKYEGMVVSECGC-*
+>P1;gi|9963976|gb|AAG09784.1| Vg1 [Eleutherodactylus cystignathoides] [ score 149 E 9e-36 ] [ range 244 .. 344 ]
+sequence
+--------------CKKRRLYIDFKA-VGW-NWVIAPHGYFANYCHGECPYPL---TMGSNHAILQTLAH
+SFAPEDVPLPCCVPIKMA-PISMLFYDN-NNVVLRHYDNMAVDECGC-*
+>P1;gi|904036|gb|AAA97392.1| Xnr-1 [ score 149 E 1e-35 ] [ range 301 .. 406 ]
+sequence
+---------NGKPLCRRVDMIVDFE-DIGW-SWIVYPKKYNAYRCEGACPIPL---NEPTNHAYMKSVVK
+LYQPERVECPLCVPVKMS-PLSMLYYEG-DEVVLRHHQEMIVEECGCS*
+>P1;gi|763044|gb|AAA81169.1| transforming growth factor-beta [ score 149 E 1e-35 ] [ range 83 .. 190 ]
+sequence
+-------RKDQRSTCRRHPLYVDF-REVGW-DWIVAPPGYEGWYCHGDCPFPL---SNSTNHAVVQTLMN
+SMNPGLVPKACCIPTQLT-SISMLYLDE-EKVVLKNYHEMAVVGCGC-*
+>P1;gi|4433645|gb|AAD20829.1| growth/differentiation factor 7 [Danio... [ score 149 E 1e-35 ] [ range 155 .. 260 ]
+sequence
+---------RRRTRCSRKPLHVNFK-ELGW-DWIIAPLDYEAYHCEGLCDFPL---RSHTNHAIIQTLMN
+SMDPESTPPSCCVPSKLS-PISILYIDG-NNVVYKQYEDMVVESCGC-*
+>P1;gi|6635486|gb|AAF19841.1| bone morphogenetic protein 2/4 [Branch... [ score 172 E 1e-42 ] [ range 304 .. 410 ]
+sequence
+--------RRLKANCRRHSLYVDF-SDVGW-DWIVAPPGYQAYYCHGECPFPL---ANSTNHAIVQTLVN
+SVNPLAVPKACCVPTDLS-PISMLYLNE-NDVVLKNYQDMVVEGCGC-*
+>P1;gi|8392990|ref|NP_058874.1| bone morphogenetic protein 2 [Rattus... [ score 165 E 2e-40 ] [ range 287 .. 392 ]
+sequence
+--------KRLKSSCKRHPLYVDF-SDVGW-DWIVAPPGYHAFYCHGECPFPL---ANSTNHAIVQTLVN
+SVNSKI-PKACCVPTELS-AISMLYLDE-NEKVVKNYQDMVVEGCGC-*
+>P1;gi|4691710|gb|AAD28038.1| bone morphogenetic protein BMP2/4 [Lyt... [ score 165 E 2e-40 ] [ range 309 .. 416 ]
+sequence
+-------GKRLKANCRRHPLYVDF-SDVHW-DWIVAPAGYQAYYCHGECPFPL---AEHTNHAIVQTLVN
+SVNPALVPKACCGPTELS-AISMLYLDE-EKVVLKNYQDMVVEGCGC-*
+>P1;gi|399124|sp|P30884|BMPB_XENLA Bone morphogenetic protein 2-II p... [ score 164 E 5e-40 ] [ range 292 .. 397 ]
+sequence
+--------KRLKSSCRRHPLYVDF-SDVGW-DWIVAPPGYHAFYCHGECPFPL---ANSTNHAIVQTLVN
+SVN-TNIPKACCVPTELS-AISMLYLDE-NEKVVKNYQDMVVEGCGC-*
+>P1;gi|4691712|gb|AAD28039.1| bone morphogenetic protein BMP2/4 [Str... [ score 163 E 7e-40 ] [ range 179 .. 286 ]
+sequence
+-------GKRLKANCRRHELYVDF-SDVHW-DWIVAPAGYQAYYCRGECPFPL---AEHTNHAIVQTLVN
+SVNPALVPKACCVPTELS-AISMLYLDE-EKVVLKNYQDMVVEGCGC-*
+>P1;gi|21671187|dbj|BAC02603.1| Bmp4 [Tropheus duboisi] [ score 162 E 1e-39 ] [ range 296 .. 402 ]
+sequence
+-------GRKRNRNCRRHALYVDF-SDVGW-DWIVAPPGYQAYYCHGECPFPL---ANSTNHAIVQTLVN
+SVN-NNIPKACCVPTELS-AISMLYLDE-HDKVVKNYQEMVVEGCGC-*
+>P1;gi|31982487|ref|NP_031583.2| bone morphogenetic protein 7; osteo... [ score 161 E 3e-39 ] [ range 323 .. 429 ]
+sequence
+--------SDQRQACKKHELYVSFR-DLGW-DWIIAPEGYAAYYCEGECAFPL---NSATNHAIVQTLVH
+FINPDTVPKPCCAPTQLN-AISVLYFDD-SNVILKKYRNMVVRACGC-*
+>P1;gi|18858569|ref|NP_571023.1| decapentaplegic and Vg-related 1 [D... [ score 161 E 3e-39 ] [ range 254 .. 354 ]
+sequence
+--------------CKPRRLYIDFK-DVGW-DWIIAPQGYLANYCHGECPFPL---SESTNHAILQTLVH
+SFDPKGTPQPCCVPIKLS-PISMLYYDN-NDNVVRHYEDMVVDECGC-*
+>P1;gi|4502423|ref|NP_001193.1| bone morphogenetic protein 4 preprop... [ score 161 E 4e-39 ] [ range 302 .. 407 ]
+sequence
+--------RKKNKNCRRHSLYVDF-SDVGW-DWIVAPPGYQAFYCHGDCPFPL---ANSTNHAIVQTLVN
+SVN-SSIPKACCVPTELS-AISMLYLDE-YDKVVKNYQEMVVEGCGC-*
+>P1;gi|45383482|ref|NP_989669.1| growth differentiation factor 5 (ca... [ score 160 E 7e-39 ] [ range 393 .. 499 ]
+sequence
+--------KNLKPRCSRKALHVNFK-DMGW-DWIIAPLEYEAYHCEGLCEFPL---LEPTNHAVIQTLMN
+SMDPESTPPTCCVPTRLS-PISILFIDS-ANNVVKQYEDMVVESCGC-*
+>P1;gi|45384538|ref|NP_990568.1| bone morphogenetic protein 4 [Gallu... [ score 160 E 7e-39 ] [ range 299 .. 404 ]
+sequence
+--------RKNKKNCRRHALYVDF-SDVGW-DWIVAPPGYQAFYCHGDCPFPL---ANSTNHAIVQTLVN
+SVN-SSIPKACCVPTELS-AISMLYLDE-YDKVVKNYQEMVVEGCGC-*
+>P1;gi|45383442|ref|NP_989689.1| bone morphogenetic protein 2 [Gallu... [ score 159 E 9e-39 ] [ range 286 .. 391 ]
+sequence
+--------KRHKYSCKRHPLYVDFN-DVGW-DWIVAPPGYSAFYCHGECPFPL---ANSTNHAIVQTLVN
+SVNSKI-PKACCVPTELS-AISMLYLDE-NEKVVKNYQDMVVEGCGC-*
+>P1;gi|4405984|gb|AAD19837.1| derriere [Xenopus laevis] [ score 159 E 1e-38 ] [ range 253 .. 353 ]
+sequence
+--------------CKKRRLYIDFK-DVGW-NWVIAPRGYMANYCHGECPYPL---TEGTNHAVLQTLVH
+SVEPENTPLPCCAPTKLS-PISMLYYDN-NDNVVRHYEDMVVDECGC-*
+>P1;gi|31224746|ref|XP_317480.1| ENSANGP00000012367 [Anopheles gambi... [ score 159 E 2e-38 ] [ range 352 .. 458 ]
+sequence
+--------RRKNELCQRKPLYVDF-SDVGW-DWIVAPPGYEAYYCQGDCRFPH---LNTTNHAIVQTLVN
+SYNPTLAPKACCVPTQLS-SISMLYLNE-QNKVVKNYQDMTVVGCGC-*
+>P1;gi|33504525|ref|NP_878293.1| transforming growth factor, beta 1 ... [ score 158 E 2e-38 ] [ range 266 .. 377 ]
+sequence
+AVGTDETCDEKTETCCMRKLYIDFRKDLGW-KWIHKPKGYFANYCMGSCTYIW---NAENKYSQILALYK
+HHNPGASAQPCCVPAILD-PLPILYYVG-RQHKVEQLSNMVVRNCKCS*
+>P1;gi|21956115|dbj|BAC06352.1| bone morphogenetic protein [Hemicent... [ score 158 E 2e-38 ] [ range 355 .. 460 ]
+sequence
+---------NSDWQCKRKNLFVNF-EDLDW-QWIIAPLGYVAFYCQGECAFPL---NNATNHAIVQTLVH
+HMSPSTVPQPCCAPTKLS-PITVLYYDD-RNVVLKKYKNMVVRACGC-*
+>P1;gi|41054970|ref|NP_957345.1| similar to bone morphogenetic prote... [ score 157 E 5e-38 ] [ range 335 .. 445 ]
+sequence
+----DQNTSEQRQACKKHELYVSFR-DLGW-DWIIAPEGYAAFYCDGECSFPL---NAATNHAIVQTLVH
+LMFPDNVPKPCCAPTKLN-AISVLYFDD-SNVILKKYRNMVVRSCGC-*
+>P1;gi|1707885|sp|P55106|GDF6_BOVIN Growth/differentiation factor 6 ... [ score 157 E 5e-38 ] [ range 334 .. 435 ]
+sequence
+-------------RCSKKPLHVNFKE-LGW-DWIIAPLEYEAYHCEGVCDFPL---LEPTNHAIIQTLMN
+SMDPGSTPPSCCVPTKLT-PISILYIDA-GNNVVYNYEEMVVESCGC-*
+>P1;gi|5052013|gb|AAD38402.1| growth and differentiation factor 6 [X... [ score 156 E 8e-38 ] [ range 291 .. 398 ]
+sequence
+-------GRKSRLRCSKKPLHVNFKE-LGW-DWIIAPLEYEAHHCEGVCDFPL---LEPTNHAIIQTLMN
+SMNPGSTPPSCCVPTKLT-PISILYIDG-NNVVYKQYEDMVVESCGC-*
+>P1;gi|29571106|ref|NP_001711.2| bone morphogenetic protein 8B prepr... [ score 156 E 1e-37 ] [ range 291 .. 401 ]
+sequence
+----DVHGSHGRQVCRRHELYVSF-QDLGW-DWVIAPQGYSAYYCEGECSFPL---MNATNHAILQSLVH
+LMMPDAVPKACCAPTKLS-ATSVLYYDS-SNNVIRKHRNMVVKACGC-*
+>P1;gi|41018242|sp|O93449|TGF1_ONCMY Transforming growth factor beta... [ score 156 E 1e-37 ] [ range 278 .. 382 ]
+sequence
+-------CSDKSESCCVRKLYIDFRKDLGW-KWIHEPTGYFANYCIGPCTYIW---NTENKYSQVLALYK
+HHNPGASAQPCCVPQVLE-PLPIIYYVG-RQHKVEQLSNMIVKSCRCS*
+>P1;gi|27530619|dbj|BAC53989.1| Sj-BMP2/4 [Stichopus japonicus] [ score 156 E 1e-37 ] [ range 315 .. 421 ]
+sequence
+--------RRLKENCSKHSLYVDF-AIVGW-DWILAPEGYQAYYCQGECPYPH---LNPTNHAIVQTIVH
+SADPSSVPKACCVPTELD-TLNMLYLNE-KEIILKNYKDMIVTSCGC-*
+>P1;gi|28195219|gb|AAO33819.1| bone morphogenetic protein 2 [Takifug... [ score 156 E 1e-37 ] [ range 316 .. 419 ]
+sequence
+----------HKANCKRHALYVDF-SDVGW-NWIVAPPGYHAFYCQGECPFPL---ANSTNHAIVQTLVN
+SVN-SNIPRACCVPTDLS-PISLLYLDE-EKVILKNYMDMVVEGCGC-*
+>P1;gi|1658384|gb|AAC60038.1| orthologue of the Xenopus Vg1 [Gallus ... [ score 154 E 3e-37 ] [ range 272 .. 372 ]
+sequence
+--------------CKPRRLYISF-SDVGW-NWIIAPQGYMANYCLGECPFPL---TASTNHAILQTMVH
+SLDPEGTPQPCCVPVRLS-PISILYYDN-SDNVVRHYEDMVVDECGC-*
+>P1;gi|137969|sp|P09534|DVR1_XENLA DVR-1 PROTEIN PRECURSOR (VEGETAL ... [ score 154 E 4e-37 ] [ range 259 .. 359 ]
+sequence
+--------------CKKRHLYVEFK-DVGW-NWVIAPQGYMANYCYGECPYPL---TEGSNHAILQTLVH
+SIEPEDIPLPCCVPTKMS-PISMLFYDN-NDNVVRHYENMAVDECGC-*
+>P1;gi|742374|prf||2009388A GDF5 protein [ score 154 E 5e-37 ] [ range 388 .. 493 ]
+sequence
+--------KNLKARCSRKALHVNFK-DMGW-DWIIAPLEYEAFHCEGLCEFPL---LEPTNHAVIQTLMN
+SMDPESTPPTCCVPTRLS-PISIFIDSA-NNVVYKQYEDMVVESCGC-*
+>P1;gi|2464959|emb|CAA72733.1| contact [Danio rerio] [ score 154 E 5e-37 ] [ range 150 .. 256 ]
+sequence
+--------KNPKQRCNRKQLHVNFKE-MGW-DWIIAPLEYEAFHCDGVCDFPH---LEPTNHAIIQTLMN
+SMDPRSTPPTCCVPTRLS-PISILYIDS-ANNVVKQYEDMVVESCGC-*
+>P1;gi|4836721|gb|AAD30538.1| bone morphogenetic protein 2/4 homolog... [ score 153 E 8e-37 ] [ range 96 .. 203 ]
+sequence
+-------GKRLKANCRRHPLYVDFSDVHWN-DWIVAPAGYQAYYCHGECPFPL---AEHTNHAIVQTLVN
+SVNPALVPKACCVPTELS-AISMLYLDE-EKVVLKNYQDMVVEGCGC-*
+>P1;gi|41018241|sp|Q9PTQ2|TGF_CYPCA Transforming growth factor beta ... [ score 153 E 9e-37 ] [ range 267 .. 375 ]
+sequence
+--ETDQVCTDKSDGCCVRSLYIDFRKDLGW-KWIHEPSGYYANYCTGSCSFVW---TSENKYSQVLALYK
+HHNPGASAQPCRVPQVLN-PLPIFYYVG-RQHKVEQLSNMIVKTCKC-*
+>P1;gi|6671644|ref|NP_031584.1| bone morphogenetic protein 8a; osteo... [ score 152 E 1e-36 ] [ range 288 .. 398 ]
+sequence
+----DGHGSRGREVCRRHELYVSFR-DLGW-DWVIAPQGYSAYYCEGECAFPL---MNATNHAILQSLVH
+LMKPDVVPKACCAPTKLS-ATSVLYYDS-SNNVIRKHRNMVVKACGC-*
+>P1;gi|38490428|emb|CAD57730.1| decapentaplegic [Cupiennius salei] [ score 151 E 2e-36 ] [ range 116 .. 222 ]
+sequence
+--------KGRRDNCRRHALYVDF-YDVGW-DWILAPPGYDAYFCHGDCPFPL---LNATNHAIVQTLVN
+SANPAAVPRACCVPSEMS-AISILHRDQ-NDMVVSVYRDMVVEGCGC-*
+>P1;gi|33457297|ref|NP_878248.1| growth differentiation factor 7 [Ho... [ score 150 E 6e-36 ] [ range 342 .. 449 ]
+sequence
+-------GRRGRSRCSRKPLHVDFKE-LGW-DWIIAPLDYEAYHCEGLCDFPL---LEPTNHAIIQTLLN
+SMAPDAAPASCCVPARLS-PISILYIDA-ANNVVKQYEDMVVEACGC-*
+>P1;gi|31219360|ref|XP_316789.1| ENSANGP00000010264 [Anopheles gambi... [ score 149 E 1e-35 ] [ range 335 .. 438 ]
+sequence
+-----------HKSCRIQQLYVSFKDLQWH-EWIIAPEGYGAYYCSGECNFPL---NAATNHAIVQTLVH
+LNHPTKVPKPCCAPTKLI-PISVLYIDE-SNVNLKKYKNMVVKSCGC-*
+>P1;gi|763044|gb|AAA81169.1| transforming growth factor-beta [ score 149 E 1e-35 ] [ range 84 .. 190 ]
+sequence
+--------KDQRSTCRRHPLYVDFRE-VGW-DWIVAPPGYEGWYCHGDCPFPL---SASTNHAVVQTLMN
+SMNPGLVPKACCIPTQLT-SISMLYLDE-ESKVVKNYHEMAVVGCGC-*
+>P1;gi|8393613|ref|NP_058824.1| inhibin beta-A; activin A [Rattus no... [ score 149 E 1e-35 ] [ range 319 .. 424 ]
+sequence
+--------------CCKKQFFVSFK-DIGW-DWIIAPSGYHANYCEGECPSHI---SSLSFHSTVINHYR
+MHSPFANLKSCCVPTKLR-PMSMLYYDG-QNIIKKDIQNMIVEECGCS*
+>P1;gi|41387776|gb|AAS01764.1| bone morphogenetic protein 5-8b [Hydr... [ score 149 E 1e-35 ] [ range 292 .. 403 ]
+sequence
+---SNGSENNLGSRCDKHPLYIGFK-DLGW-DWIIAPDGYRANYCGGDCSFPL---ANATNHAIIQTLVH
+MMYPEIIPKPCCAPNKLN-TLQVLFLDE-RNNVVKRYSNMIVQHCGC-*
+>P1;gi|40644076|emb|CAE46407.1| bone morphogenetic protein-10 [Gallu... [ score 149 E 1e-35 ] [ range 275 .. 382 ]
+sequence
+--------RNAKGNCKKTPLYIDFKE-IGW-DWIIAPAGYEAYECHGVCAYPL---TEHTKHAIVQTLVH
+LKNPQKASKACCVPTKLD-PISILYMDA-GVVTYKKYEGMVVSECGC-*
+>P1;gi|28195223|gb|AAO33820.1| bone morphogenetic protein 2 [Tetraod... [ score 149 E 2e-35 ] [ range 316 .. 419 ]
+sequence
+----------HKASCKRHALYVDF-SDVGW-NWIVAPPGYHAFYCQGECPFPL---ANFTNHAIVQTLVN
+SVNL-NIPRACWVPTDLS-PISLLYLDE-EKVILKNFQDMVVEGCGC-*
+>P1;gi|1708436|sp|P55102|IHBA_HORSE Inhibin beta A chain precursor (... [ score 148 E 3e-35 ] [ range 321 .. 426 ]
+sequence
+--------------CCKKQFFVSFK-DIGW-DWIIAPSGYHANYCEGECPSHI---SSLSFHSTVINQYR
+LHNPFANLKSCCVPTKLR-PMSMLYYDG-QNIIKKDIQNMIVEECGCS*
+>P1;gi|5616327|gb|AAD45726.1| transforming growth factor beta [Merio... [ score 148 E 3e-35 ] [ range 1 .. 101 ]
+sequence
+------CFSSTEKNCCVRQLYRDFRKDLGW-KWIHEPKGYHANFCLGPCPYIW---SLHTQYSKVLALYN
+QHNPGASASPCCVPQALE-PLPIVYYVG-RKPKVEQLSNMFVR-----*
+>P1;gi|2501170|sp|Q24735|60A_DROVI 60A protein precursor (Glass bott... [ score 147 E 3e-35 ] [ range 335 .. 435 ]
+sequence
+--------------CQMQTLYIDFK-DLGW-DWIIAPEGYGAFYCSGECNFPL---NAATNHAIVQTLVH
+LLEPKRVPKPCCAPTRLG-ALPVLYLND-ENVNLKKYRNMIVKSCGC-*
+>P1;gi|9963976|gb|AAG09784.1| Vg1 [Eleutherodactylus cystignathoides] [ score 147 E 4e-35 ] [ range 244 .. 344 ]
+sequence
+--------------CKKRRLYIDFK-AVGW-NWVIAPHGYFANYCHGECPYPL---TMGSNHAILQTLAH
+SFAPEDVPLPCCVPIKMA-PISMLFYDN-NDNVVRHYDNMAVDECGC-*
+>P1;gi|2501171|sp|Q26974|DECA_TRICA Decapentaplegic protein precurso... [ score 147 E 4e-35 ] [ range 265 .. 371 ]
+sequence
+--------KNLKDPCRRRQMYVDF-GSVGW-DWIVAPLGYDAYYCGGECEYPH---MNTTNHAIVQSLVN
+SMKPKEVPGPCCVPTQLG-QMSMLYLGD-GSVILKNYKEMVVVGCGC-*
+>P1;gi|15721893|dbj|BAB68396.1| LjBmp2/4b [Lethenteron japonicum] [ score 147 E 4e-35 ] [ range 82 .. 181 ]
+sequence
+--------------CRRHALYVDFRE-VGW-DWIVAPPGYHAYFCHGECPFPL---ANSTNHAIVQTLVN
+SVNA-SIPRACCVPTELS-PISMLYLDE-YGKVVKNYQDMVVEGCGC-*
+>P1;gi|1478247|emb|CAA67685.1| TGF [Oncorhynchus mykiss] [ score 147 E 6e-35 ] [ range 98 .. 202 ]
+sequence
+-------CSDKSESCCVRKLYIDFRKDLGW-KWIHEPTGYFANYCIGPCTYIW---NTENKYSQVLALYK
+HHNPGASAHPCCVPQVLE-PLPIIYYVG-RQHKVEQVPNMIVMSCRCS*
+>P1;gi|17940138|gb|AAL49502.1| anti-dorsalizing morphogenetic protei... [ score 146 E 7e-35 ] [ range 279 .. 390 ]
+sequence
+----DYDERGEKMACQRQPLYVDF-EEIGW-SWIVSPKGYNAYHCKGSCIFPL---SQNTNHAIVQSIIN
+TLKLNKGIQPCCVPDKLY-SISLLYFDD-DENVVKQYDDMVAGSCGC-*
+>P1;gi|15146450|gb|AAK84666.1| myostatin [Ictalurus punctatus] [ score 146 E 1e-34 ] [ range 284 .. 389 ]
+sequence
+-LDCDENSS--ESRCCRYPLTVDF-EDFGW-DWIIAPKRYKANYCSGECDYVH---LQKYPHTH---LVN
+KANPRGTAGPCCTPTKMS-PINMLYFNG-KEQIIYKIPSMVVDRCGCS*
+>P1;gi|31560733|ref|NP_031585.2| bone morphogenetic protein 8b [Mus ... [ score 145 E 2e-34 ] [ range 288 .. 398 ]
+sequence
+----DGHGSHGREVCRRHELYVSFR-DLGW-DSVIAPQGYSAYYCAGECIYPL---NSSTNHATMQALVH
+LMKPDIIPKVCCVPTELS-AISLLYYDN-NNVILRRERNMVVQACGC-*
+>P1;gi|26334293|dbj|BAC30864.1| unnamed protein product [Mus musculus] [ score 169 E 1e-41 ] [ range 322 .. 434 ]
+sequence
+--SSDYNGSELKTACKKHELYVSF-QDLGW-DWIIAPKGYAANYCDGECSFPL---NAHTNHAIVQTLVH
+LMNPEYVPKPCCAPTKLN-AISVLYFDD-NNVILKKYRNMVVRACGC-*
+>P1;gi|5690246|gb|AAD46997.1| transforming growth factor-beta precur... [ score 164 E 3e-40 ] [ range 276 .. 382 ]
+sequence
+----DVCTAQTE-TCCVRSLYIDFRKDLGW-KWIHKPTGYNANYCMGSCTYIW---NAENKYSQILALYK
+HHNPGASAQPCCVPQALE-PLPILYYVG-RQHKVEQLSNMIVKSCKCS*
+>P1;gi|14717125|emb|CAC44178.1| bone morphogenetic protein 2 [Silura... [ score 163 E 7e-40 ] [ range 295 .. 397 ]
+sequence
+-----------KSSCRRHPLYVDF-SDVGW-DWIVAPPGYHAFYCHGECPFPL---ANSTNHAIVQTLVN
+NVNPNI-PKACCVPTELS-AISMLYLDN-EKVVLKNYQDMVVEGCGC-*
+>P1;gi|18858569|ref|NP_571023.1| decapentaplegic and Vg-related 1 [D... [ score 162 E 1e-39 ] [ range 241 .. 354 ]
+sequence
+--SASYYLPVTPSNVCKRRLYIDF-KDVGW-DWIIAPQGYLANYCHGECPFPL---SESTNHAILQTLVH
+SFDPKGTPQPCCVPIKLS-PISMLYYDN-NDNVVRHYEDMVVDECGC-*
+>P1;gi|22652836|gb|AAN03842.1| transforming growth factor beta 1 [Sp... [ score 162 E 2e-39 ] [ range 273 .. 379 ]
+sequence
+----DTCTAQTE-TCCVRSLYIDFRKDLGW-KWIHKPTRYHANYCMGSCTYIW---NAENKYSQILALYK
+HHNPGASAQPCCVPQALE-PLPILYYVG-RQHKVEQLSNMIVKSCKCS*
+>P1;gi|35215300|ref|NP_571435.1| bone morphogenetic protein 2b [Dani... [ score 161 E 4e-39 ] [ range 309 .. 410 ]
+sequence
+------------SNCRRHALYVDF-SDVGW-NWIVAPPGYHAFYCHGECPFPL---PNSTNHAIVQTLVN
+SVNSNI-PKACCIPTELS-PISLLYLDE-EKVILKNYQDMVVEGCGC-*
+>P1;gi|45383442|ref|NP_989689.1| bone morphogenetic protein 2 [Gallu... [ score 159 E 1e-38 ] [ range 288 .. 391 ]
+sequence
+----------HKYSCKRHPLYVDFN-DVGW-DWIVAPPGYSAFYCHGECPFPL---ANSTNHAIVQTLVN
+SVNSKI-PKACCVPTELS-AISMLYLDN-EKVVLKNYQDMVVEGCGC-*
+>P1;gi|31224746|ref|XP_317480.1| ENSANGP00000012367 [Anopheles gambi... [ score 159 E 1e-38 ] [ range 358 .. 458 ]
+sequence
+--------------CQRKPLYVDF-SDVGW-DWIVAPPGYEAYYCQGDCRFPI---ADHTNHAIVQTLVN
+SYNPTLAPKACCVPTQLS-SISMLYLNE-NKVVLKNYQDMTVVGCGC-*
+>P1;gi|28195219|gb|AAO33819.1| bone morphogenetic protein 2 [Takifug... [ score 159 E 1e-38 ] [ range 316 .. 419 ]
+sequence
+----------HKANCKRHALYVDF-SDVGW-NWIVAPPGYHAFYCQGECPFPL---ANSTNHAIVQTLVN
+SVNSNI-PRACCVPTDLS-PISLLYLDE-EKVILKNYMDMVVEGCGC-*
+>P1;gi|1658384|gb|AAC60038.1| orthologue of the Xenopus Vg1 [Gallus ... [ score 156 E 1e-37 ] [ range 260 .. 372 ]
+sequence
+---SAYNVPVTPSNLCKRRLYISF-SDVGW-NWIIAPQGYMANYCLGECPFPL---TNSTNHAILQTMVH
+SLDPEGTPQPCCVPVRLS-PISILYYDN-DNVVLRHYEDMVVDECGC-*
+>P1;gi|27530619|dbj|BAC53989.1| Sj-BMP2/4 [Stichopus japonicus] [ score 155 E 2e-37 ] [ range 318 .. 421 ]
+sequence
+-----------KENCSKHSLYVDF-AIVGW-DWILAPEGYQAYYCQGECPYPM---PEHTNHAIVQTIVH
+SADPSSVPKACCVPTELD-TLNMLYLNE-KEIILKNYKDMIVTSCGC-*
+>P1;gi|28195223|gb|AAO33820.1| bone morphogenetic protein 2 [Tetraod... [ score 155 E 2e-37 ] [ range 316 .. 419 ]
+sequence
+----------HKASCKRHALYVDF-SDVGW-NWIVAPPGYHAFYCQGECPFPL---ADHTNHAIVQTLVN
+SVNLNI-PRACWVPTDLS-PISLLYLDE-EKVILKNFQDMVVEGCGC-*
+>P1;gi|15146450|gb|AAK84666.1| myostatin [Ictalurus punctatus] [ score 155 E 2e-37 ] [ range 285 .. 389 ]
+sequence
+----DCDENSSESRCCRYPLTVDF-EDFGW-DWIIAPKRYKANYCSGECDYVH---LQKYPHTH---LVN
+KANPRGTAGPCCTPTKMS-PINMLYFNG-KEQIIYKIPSMVVDRCGCS*
+>P1;gi|461635|sp|P34820|BM8B_HUMAN Bone morphogenetic protein 8B pre... [ score 155 E 3e-37 ] [ range 301 .. 401 ]
+sequence
+--------------CRRHELYVSF-QDLGW-DWVIAPQGYSAYYCEGECSFPL---MNATNHAILQSLVH
+LMKPNAVPKACCAPTKLS-ATSVLYYDS-SNNVIRKHRNMVVKACGC-*
+>P1;gi|18266881|sp|P48970|UNIV_STRPU Univin precursor >gi|10937972|g... [ score 154 E 3e-37 ] [ range 283 .. 394 ]
+sequence
+---SSFPTASLTNLCQRHRLFVSFR-DVGW-NWIIAPMGYQAYYCDGECPFPL---GNGTNHAIIQTLVN
+SIDNRAVPKVCCAPTKLS-GISMLYFDN-NENVVRQYEDMVVEACGC-*
+>P1;gi|6016118|sp|O42220|GDF8_CHICK Growth/differentiation factor 8 ... [ score 153 E 1e-36 ] [ range 271 .. 375 ]
+sequence
+----DCDEHSTESRCCRYPLTVDF-EAFGW-DWIIAPKRYKANYCSGECEFVF---LQKYPHTH---LVH
+QANPRGSAGPCCTPTKMS-PINMLYFNG-KEQIIYKIPAMVVDRCGCS*
+>P1;gi|3264836|dbj|BAA31132.1| homolog of DPP subclass BMP [Halocynt... [ score 152 E 1e-36 ] [ range 340 .. 442 ]
+sequence
+------------KSCQRQDLYVDF-SDVNW-DWIVAPHGYHAFYCNGECPFPL---ANATNHAIVQTLVN
+SVDPSLTPKPCCVPTELS-PIAMLYVDE-CEVVLKTYQQMAVEGCGC-*
+>P1;gi|17137520|ref|NP_477340.1| glass bottom boat CG5562-PA [Drosop... [ score 152 E 1e-36 ] [ range 352 .. 454 ]
+sequence
+------------RSCQMQTLYIDF-KDLGW-DWIIAPEGYGAFYCSGECNFPL---NAHTNHAIVQTLVH
+LLEPKKVPKPCCAPTRLG-ALPVLYHLN-DENVLKKYRNMIVKSCGC-*
+>P1;gi|14573191|gb|AAK67984.1| myostatin [Morone americana] [ score 151 E 3e-36 ] [ range 272 .. 376 ]
+sequence
+----DCDENSPESRCCRYPLTVDF-EDFGW-DWIIAPKRYKANYCSGECEYMH---LQKYPHTH---LVN
+KANPRGTAGPCCTPTKMS-PINMLYFNR-KEQIIYKIPSMVVDRCGCS*
+>P1;gi|18858751|ref|NP_571094.1| growth differentiation factor 8; my... [ score 150 E 5e-36 ] [ range 270 .. 374 ]
+sequence
+----DCDENSSESRCCRYPLTVDF-EDFGW-DWIIAPKRYKANYCSGECDYMY---LQKYPHTH---LVN
+KASPRGTAGPCCTPTKMS-PINMLYFNG-KEQIIYKIPSMVVDRCGCS*
+>P1;gi|18857931|gb|AAL05943.1| growth differentiation factor-8b [Spa... [ score 150 E 5e-36 ] [ range 255 .. 359 ]
+sequence
+----NCDEESAETRCCRYPLTVDF-EEFGW-DWIIAPKRYRANYCSGECEFMH---LQQYPHAH---LVN
+KANPRGTAGPCCTPTKMS-PINMLYFNR-KEQIIYKIPSMVVDHCGCS*
+>P1;gi|15721893|dbj|BAB68396.1| LjBmp2/4b [Lethenteron japonicum] [ score 150 E 8e-36 ] [ range 82 .. 181 ]
+sequence
+--------------CRRHALYVDFRE-VGW-DWIVAPPGYHAYFCHGECPFPL---ANSTNHAIVQTLVN
+SVNASI-PRACCVPTELS-PISMLYLDE-YKVVLKNYQDMVVEGCGC-*
+>P1;gi|763044|gb|AAA81169.1| transforming growth factor-beta [ score 149 E 1e-35 ] [ range 84 .. 190 ]
+sequence
+--------KDQRSTCRRHPLYVDFRE-VGW-DWIVAPPGYEGWYCHGDCPFPL---SAHTNHAVVQTLMN
+SMNPGLVPKACCIPTQLT-SISMLYLDE-EKVVLKNYHEMAVVGCGC-*
+>P1;gi|40646767|gb|AAR88254.1| myostatin 1 [Takifugu rubripes] [ score 149 E 2e-35 ] [ range 255 .. 359 ]
+sequence
+----NCDEESAETRCCRYPLTVDF-EEFGW-DWIIAPKRYRANYCSGECEFLH---PQQYPHAH---LVN
+QANPRGTAGPRCTPTKMS-PINMLYFNR-KEQIIYKIPSMVVDHCGCS*
+>P1;gi|31219360|ref|XP_316789.1| ENSANGP00000010264 [Anopheles gambi... [ score 148 E 2e-35 ] [ range 336 .. 438 ]
+sequence
+------------KSCRIQQLYVSF-KDLQW-EWIIAPEGYGAYYCSGECNFPL---NAHTNHAIVQTLVH
+LNHPTKVPKPCCAPTKLI-PISVLYHDE-SNVNLKKYKNMVVKSCGC-*
+>P1;gi|39594366|emb|CAE71944.1| Hypothetical protein CBG19011 [Caeno... [ score 148 E 2e-35 ] [ range 265 .. 372 ]
+sequence
+--------TEAESNLCRRDLYVDF-DDLGW-DWIMAPKGYDAYQCQGSCPNPM---PNATNHAIIQSLLH
+SLKPDEVPPPCCVPTETS-PLSILYMDD-KVIVIREYADMRVDSCGC-*
+>P1;gi|4160597|gb|AAD05267.1| growth/differentiation factor 11 [Mus ... [ score 148 E 2e-35 ] [ range 224 .. 331 ]
+sequence
+-LGLDCDEHSSESRCCRYPLTVDF-EAFGW-DWIIAPKRYKANYCSGQCEYMF---MQKYPHTH---LVQ
+QANPRGSAGPCCTPTKMS-PINMLYFND-KQQIIYKIPGMVVDRCGCS*
+>P1;gi|40646769|gb|AAR88255.1| myostatin 2 [Takifugu rubripes] [ score 148 E 3e-35 ] [ range 269 .. 375 ]
+sequence
+-LGLDCDENSPESRCCRYPLTVDF-EDFGW-DWIIAPKRYKANYCSGECEYMH---LQKYPHTH---LVN
+KANPRGTAGPCCTPTKMS-PINMLYFNQ-EQQIIYKIPSMVVDRCGC-*
+>P1;gi|21591745|gb|AAM64208.1| neurotrophic factor precursor [Ailuro... [ score 151 E 3e-36 ] [ range 47 .. 143 ]
+sequence
+-----------NRGCVLTAVHLNVT-DLGLGYETKE--ELIFRYCSGSCD------AAETMYDKILKNLS
+KNRV---GQACCRPIAYDDDLSFLDDN----LVYHILRKHSAKRCGCI*
+>P1;gi|18858753|ref|NP_571807.1| glial cell derived neurotrophic fac... [ score 145 E 3e-34 ] [ range 140 .. 235 ]
+sequence
+------------RGCLLKEIHLNVT-DLDLGYRTKE--ELIFRYCSGPCH------DAETNYDKILNNLT
+HNKK---SRTCCRPIAFDDDISFLDDS----LEYHTLKKHSAKKCACV*
+>P1;gi|7110601|ref|NP_034405.1| glial cell line derived neurotrophic... [ score 137 E 5e-32 ] [ range 144 .. 240 ]
+sequence
+-----------NRGCVLTAIHLNVT-DLGLGYETKE--ELIFRYCSGSCE------SAETMYDKILKNLS
+RSRV---GQACCRPVAFDDDLSFLDDN----LVYHILRKHSAKRCGCI*
+>P1;gi|40549411|ref|NP_954701.1| glial cell derived neurotrophic fac... [ score 137 E 6e-32 ] [ range 89 .. 185 ]
+sequence
+-----------NRGCVLTAIHLNVT-DLGLGYETKE--ELIFRYCSGSCD------AAETTYDKILKNLS
+RNRV---GQACCRPIAFDDDLSFLDDN----LVYHILRKHSAKRCGCI*
+>P1;gi|6716573|gb|AAF26684.1| glial cell line-derived neurotrophic f... [ score 134 E 3e-31 ] [ range 120 .. 215 ]
+sequence
+-----------NRGCVLTAIHLNVT-DLDLGYETKE--ELIFRYCSGSCD------AVETTYDKILKNLT
+RKKV---RQACCRPTAFDDDLSFLDDN----LVYHILKKHSAKRCGC-*
+>P1;gi|16950645|ref|NP_476501.1| neurotrophic factor artemin isoform... [ score 132 E 1e-30 ] [ range 138 .. 236 ]
+sequence
+------------RGCRLRSQLVPVR-ALGLGHRSDE--LVRFRFCSGSCR------RARSPHDLSLASLG
+SRPV---SQPCCRPTRY-EAVSFMDVN----STWRTVDRLSATACGCL*
+>P1;gi|6753124|ref|NP_033841.1| artemin [Mus musculus] >gi|4071355|g... [ score 130 E 7e-30 ] [ range 125 .. 223 ]
+sequence
+------------RGCRLRSQLVPVS-ALGLGHSSDE--LIRFRFCSGSCR------RARSQHDLSLASLG
+SRPI---SQPCCRPTRY-EAVSFMDVN----STWRTVDHLSATACGCL*
+>P1;gi|28412334|gb|AAO40031.1| GDNF protein precursor [Nipponia nippon] [ score 129 E 1e-29 ] [ range 38 .. 134 ]
+sequence
+-----------NRGCVLTEIHLNVT-DLDLGYETKE--ELIFRYCSGSCD------AAETTYDKILKNLT
+RKKV---RQACCRPTAFDDDLSFLDDN----LVYHILKKHSAKRCGCI*
+>P1;gi|6679136|ref|NP_032764.1| neurturin [Mus musculus] >gi|2501181... [ score 128 E 4e-29 ] [ range 99 .. 195 ]
+sequence
+------------RPCGLRELEVRVS-ELGLGYTSDE--TVLFRYCAGACE------AAIRIYDLGLRVRR
+ERAR---AHPCCRPTAYEDEVSFLDVH----SRYHTLQELSARECACV*
+>P1;gi|39930493|ref|NP_445851.1| neurturin [Rattus norvegicus] >gi|2... [ score 123 E 9e-28 ] [ range 98 .. 195 ]
+sequence
+-----------SRPCGLRELEVRVS-ELGLGYTSDE--TVLFRYCAGACE------AAIRIYDQRRRVRK
+ERVR---AHPCCRPTAYEDEVSFLDVH----SRYHTLQELSARECACV*
+>P1;gi|4758826|ref|NP_004549.1| neurturin precursor [Homo sapiens] >... [ score 122 E 2e-27 ] [ range 101 .. 197 ]
+sequence
+------------RPCGLRELEVRVS-ELGLGYASDE--TVLFRYCAGACE------AAARVYDQRRRLRR
+ERVR---AQPCCRPTAYEDEVSFLDAH----SRYHTVHELSARECACV*
+>P1;gi|6679511|ref|NP_032980.1| persephin [Mus musculus] >gi|7531179... [ score 122 E 2e-27 ] [ range 66 .. 154 ]
+sequence
+--------------CRLWSLTLPVA-ELGLGYASEE--KVIFRYCAGSCQ------EARTQHSLVLARLR
+GRGR---GRPCCQPTSY-ADVTFLDDQ----HHWQQLPQLSAAACGC-*
+>P1;gi|6981428|ref|NP_037146.1| persephin [Rattus norvegicus] >gi|75... [ score 121 E 3e-27 ] [ range 66 .. 154 ]
+sequence
+--------------CRLWSLTLPVA-ELGLGYASEE--KIIFRYCAGSCQ------EVRTQHSLVLARLR
+GRAH---GRPCCQPTSY-ADVTFLDDH----HHWQQLPQLSAAACGC-*
+>P1;gi|4758974|ref|NP_004149.1| persephin precursor [Homo sapiens] >... [ score 121 E 4e-27 ] [ range 65 .. 154 ]
+sequence
+-------------PCQLWSLTLSVA-ELGLGYASEE--KVIFRYCAGSCR------GARTQHGLALARLQ
+GQGR---AHPCCRPTRY-TDVAFLDDR----HRWQRLPQLSAAACGC-*
+>P1;gi|37038295|gb|AAQ88126.1| glial cell line-derived neurotrophic ... [ score 116 E 1e-25 ] [ range 29 .. 121 ]
+sequence
+-----------NRGCVLTAVHLNVT-DLGLGYETKE--ELIFRYCSGSCD------AAETMYDKILKNLS
+KSRV---GQACCRPIAFDDDLSFLDDN----LVYHILRKHSAKR----*
