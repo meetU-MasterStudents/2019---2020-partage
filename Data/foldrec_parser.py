@@ -72,6 +72,8 @@ def parse_foldrec(file):
                 dico[rank]['query_stop']  = int(query_stop)
                 query_seq   = clean_list_to_use[2]
                 
+                # I try to fund some aminoacids which are not C,E,H,G
+                # If there is problem add some more to ensure the output               
                 if 'W' in sorted(set(list(query_seq))) or \
                    'P' in sorted(set(list(query_seq))) or \
                    'N' in sorted(set(list(query_seq))) or \
@@ -80,7 +82,7 @@ def parse_foldrec(file):
                        query_AA = query_seq
                        dico[rank]['query_AA'] = query_AA
                 
-                #elif query_seq[0] in ['0','1','2','3','4','5','6','7','8','9']:
+                
                 elif '9' in sorted(set(list(query_seq))) or \
                      '8' in sorted(set(list(query_seq))) or \
                      '7' in sorted(set(list(query_seq))) or \
@@ -95,7 +97,7 @@ def parse_foldrec(file):
                 else:
                     psipred_seq = query_seq
                     dico[rank]['query_PSIPRED'] = psipred_seq
-                    #print('Here is the AA:',PU,query_AA)
+                   
             
             # We keep the template infos
             if line.startswith('Template'):
@@ -110,8 +112,7 @@ def parse_foldrec(file):
                 dico[rank]['template_stop']  = int(template_stop)
                 template_seq   = clean_list_to_use[2]
                 
-                # I try to fund some aminoacids that which are not C,E,H,G
-                # If there is problem add some more to ensure the output
+
                 if 'W' in sorted(set(list(template_seq))) or \
                    'P' in sorted(set(list(template_seq))) or \
                    'N' in sorted(set(list(template_seq))) or \
@@ -120,7 +121,7 @@ def parse_foldrec(file):
                        template_AA = template_seq
                        dico[rank]['template_AA'] = template_AA
                 
-                #elif template_seq[0] in ['0','1','2','3','4','5','6','7','8','9']:
+                
                 elif '9' in sorted(set(list(template_seq))) or \
                      '8' in sorted(set(list(template_seq))) or \
                      '7' in sorted(set(list(template_seq))) or \
