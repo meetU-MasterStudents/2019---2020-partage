@@ -40,7 +40,6 @@ def parse_foldrec(file):
                 dico[rank]['name'] = name
                 dico[rank]['SCOP'] = SCOP
                 dico[rank]['Fam']  = Fam
-                #print(IGORF,PU)
             # We keep the alignment infos
             if line.startswith('Score :'):
                 # Here we clean the empty strings from the list
@@ -138,6 +137,5 @@ def parse_foldrec(file):
                 else:
                     psipred_seq = template_seq
                     dico[rank]['template_PSIPRED'] = psipred_seq
-                    #print('Here is the AA:',PU,query_AA)
 
     return(dico)
