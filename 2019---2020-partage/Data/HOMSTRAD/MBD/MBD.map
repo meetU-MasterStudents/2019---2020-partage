@@ -1,0 +1,204 @@
+>P1;1ig4a
+structureX:1ig4:   1 :A:  75 :A:methyl-CpG-binding domain of mbd1 in complex with methylated DNA:Homo sapiens: -1: -1
+-------------------MAEDWLDCPALGPGWKRREVFRKSGATCGRSDTYYQSPTGDRIRSKVELTR
+YLGPA----CDLTLFDFKQGILCYPAPK---*
+>P1;1qk9a
+structureX:1qk9:   1 :A:  92 :A:methyl-CpG-binding protein 2:Homo sapiens: -1: -1
+ASASPKQRRSIIRDRGPMY------DDPTLPEGWTRKLKQRKSGRSAGKYDVYLINPQGKAFRSKVELIA
+YFEKVGDTSLDPNDFDFTVTGR---GSGSGC*
+>P1;gi|34932383|ref|XP_214530.2| similar to methyl-CpG binding prote... [ score 152 E 2e-36 ] [ range 1 .. 75 ]
+sequence
+-------------------MAEAWQDCPALGPGWKRREAFRKSGASCGRSDIYYRSPTGEKIRSKIELTR
+YLGPA----CDLTLFDFRQGILCHPVPK---*
+>P1;gi|12835923|dbj|BAB23419.1| unnamed protein product [Mus musculus] [ score 148 E 3e-35 ] [ range 1 .. 75 ]
+sequence
+-------------------MAESWQDCPALGPGWKRRESFRKSGASFGRSDIYYQSPTGEKIRSKVELTR
+YLGPA----CDLTLFDFRQGTLCHPIPK---*
+>P1;gi|4505117|ref|NP_003918.1| methyl-CpG binding domain protein 2 ... [ score 131 E 3e-30 ] [ range 150 .. 213 ]
+sequence
+------------------------MDCPALPPGWKKEEVIRKSGLSAGKSDVYYFSPSGKKFRSKPQLAR
+YLGNT----VDLSSFDFRTGKM---------*
+>P1;gi|24898897|dbj|BAC23079.1| methyl-CpG binding protein MBD2 [Xen... [ score 130 E 7e-30 ] [ range 1 .. 69 ]
+sequence
+-------------------MEKRRLECPALPAGWKKEEVIRKSGLSAGKSDVYYYSPNGKKFRSKPQLAR
+YLGNS----VDLNSFDFRTGKM---------*
+>P1;gi|29692025|gb|AAO91664.1| methyl-CpG binding protein 2/3; BfMbd... [ score 129 E 1e-29 ] [ range 1 .. 69 ]
+sequence
+-------------------MERRRMDCPALPKEWKREEVTRKSGLSAGKSDVYYYSPSGKKFRSKPQLAR
+YLGDT----FDLSCFDFRTGKM---------*
+>P1;gi|27694795|gb|AAH43835.1| Mbd1-prov protein [Xenopus laevis] [ score 129 E 1e-29 ] [ range 1 .. 70 ]
+sequence
+-------------------MSEGWEDWPLLGPGWKRRNVVRKSGATCGHSDTYYRSPAGKKIRSRIELAK
+YLGSA----VDLSFFDFRNGVIV--------*
+>P1;gi|29692019|gb|AAO91661.1| methyl-CpG binding protein 2; DrMbd2 ... [ score 129 E 2e-29 ] [ range 1 .. 69 ]
+sequence
+-------------------MEKKRTDCPALPPGWKKEEVIRKSGLSAGKSDVYYYSPKGKKFRSKPQLSR
+YLGNT----VDLGCFDFRTGKM---------*
+>P1;gi|31230825|ref|XP_318433.1| ENSANGP00000014275 [Anopheles gambi... [ score 125 E 2e-28 ] [ range 27 .. 92 ]
+sequence
+-------------------------DCAALPKGWQREEVLRKTGLSAGKVDVYYYSPTGKKIESKPQLAR
+ALGDT----IDLSTFDYQAGRIIAP------*
+>P1;gi|4505119|ref|NP_003917.1| methyl-CpG binding domain protein 3 ... [ score 125 E 3e-28 ] [ range 7 .. 69 ]
+sequence
+-------------------------ECPALPQGWEREEVPRRSGLSAGHRDVFYYSPSGKKFRSKPQLAR
+YLGGS----MDLSTFDFRTGKM---------*
+>P1;gi|37681869|gb|AAQ97812.1| methyl-CpG binding domain protein 3 [... [ score 125 E 3e-28 ] [ range 7 .. 69 ]
+sequence
+-------------------------ECSALPNGWKMEEVTRKSGLSAGKSDVYYFSPTGKKFRSKPQLVR
+YLGKS----MDLSSFDFRTGKM---------*
+>P1;gi|24210497|dbj|BAC22083.1| methyl-CpG binding protein MBD3 long... [ score 116 E 1e-25 ] [ range 1 .. 88 ]
+sequence
+-------------------MEKKRWECSALPQGWKKEEVTRRSGLSAGKSDVYYYSPSGKKFRSKPQLAR
+YLGNS----MDLSTFDFRTGKM---------*
+>P1;gi|5901739|gb|AAD55390.1| methyl-CpG binding protein MBD3 long f... [ score 109 E 2e-23 ] [ range 1 .. 89 ]
+sequence
+-------------------MEKKRWECSALPQGWKKEEVTRRSGLSAGKSDVYYINPSGKKFRSKPQLAR
+YLGNS----MDLSTFDFRTGKM---------*
+>P1;gi|6435791|pdb|1QK9|A Chain A, The Solution Structure Of The Dom... [ score 89 E 2e-17 ] [ range 20 .. 81 ]
+sequence
+-------------------------DDPTLPEGWTRKLKQRKSGRSAGKYDVYLINPQGKAFRSKVELIA
+YFEKV----GDTSLFDF--------------*
+>P1;gi|4105999|gb|AAD02651.1| methyl-CpG-binding protein 2; MeCP2 [X... [ score 88 E 4e-17 ] [ range 97 .. 158 ]
+sequence
+-------------------------EDPTLPEGWTRKLKQRKSGRSAGKFDVYLINPNGKAFRSKVELIA
+YFQKV----GDTSLFDF--------------*
+>P1;gi|26349999|dbj|BAC38639.1| unnamed protein product [Mus musculus] [ score 86 E 2e-16 ] [ range 23 .. 69 ]
+sequence
+-----------------------------------------KIRAQCWQSDVYYFSPSGKKFRSKPQLAR
+YLGNA----VDLSSFDFRTGKM---------*
+>P1;gi|37574906|gb|AAP57248.2| methyl-cytosine binding protein 2 [Da... [ score 84 E 9e-16 ] [ range 105 .. 166 ]
+sequence
+-------------------------EDPSLPQGWTRKLKQRKSGRSAGKFDVYLINPEGKAFRSKVELMA
+YFQKV----GDTITFDF--------------*
+>P1;gi|29692023|gb|AAO91663.1| methyl-CpG binding protein 3b; DrMbd3... [ score 69 E 3e-11 ] [ range 6 .. 37 ]
+sequence
+--------------------------------------------------------PTGKKFRSKPQLAR
+YLGNS----MDLSSFDFRTGKM---------*
+>P1;gi|4505121|ref|NP_003916.1| methyl-CpG binding domain protein 4;... [ score 63 E 2e-09 ] [ range 87 .. 143 ]
+sequence
+------------------------------PCGWERVVKQRLFGKTAGRFDVYFISPQGLKFRSKSSLAN
+YLHKN----GETSLFDF--------------*
+>P1;gi|19353797|gb|AAH24812.1| Mbd4 protein [Mus musculus] [ score 62 E 4e-09 ] [ range 74 .. 130 ]
+sequence
+------------------------------PCGWERVVKQRLSGKTAGKFDVYFISPQGLKFRSKRSLAN
+YLLKN----GETFLFDF--------------*
+>P1;gi|27261600|gb|AAN85870.1| methyl-CpG binding protein [Biomphala... [ score 61 E 9e-09 ] [ range 1 .. 36 ]
+sequence
+--------------------------------------------------------PDGKKIRSKPQLAR
+ILGET----FDLSAFDFRTGRTVYSA-----*
+>P1;gi|15238389|ref|NP_200746.1| methyl-CpG-binding domain-containin... [ score 59 E 3e-08 ] [ range 81 .. 126 ]
+sequence
+-----------------------------LPPGWRVEDKIRTSGATAGSVDKYYYEPTGRKFRSRTEVLY
+YLEH---------------------------*
+>P1;gi|24645409|ref|NP_731370.1| CG8208-PA [Drosophila melanogaster]... [ score 55 E 5e-07 ] [ range 15 .. 95 ]
+sequence
+-------------------------DCSVLPKGWQRDEV-RKSGNNNNKVDVFYYSPTGKRAEGKPQ---
+----------DIAIPDFQPGKMPHPSP----*
+>P1;gi|15238478|ref|NP_198383.1| methyl-CpG-binding domain-containin... [ score 50 E 1e-05 ] [ range 129 .. 188 ]
+sequence
+------------------------------PAGWQRLLRIRGEGGTRF-ADVYYVAPSGKKLRSTVEVQK
+YLGEG----VKLSQFSFQ-------------*
+>P1;gi|24646242|ref|NP_650178.1| CG10042-PA [Drosophila melanogaster... [ score 45 E 4e-04 ] [ range 363 .. 407 ]
+sequence
+------------------------QDW-RLPPGWIKHMYQRSNVL--GKWDVILVSPSGKRFRSKSDLKL
+FL-----------------------------*
+>P1;gi|22135477|gb|AAM93219.1| methyl binding domain protein MBD109 ... [ score 45 E 5e-04 ] [ range 32 .. 72 ]
+sequence
+------------------------------PSGWTKKLAPTRGGRG-GRFEVIFVSPTGEEIKSKRQLTQ
+YL-----------------------------*
+>P1;gi|13936312|gb|AAK40309.1| putative methyl-binding domain protei... [ score 45 E 5e-04 ] [ range 142 .. 183 ]
+sequence
+------------------------------PHGWERQIRIRGEGGTKF-ADVYYTSPTGRKLRSLVEVDR
+FLQ----------------------------*
+>P1;gi|13936314|gb|AAK40310.1| putative methyl-binding domain protei... [ score 44 E 6e-04 ] [ range 146 .. 187 ]
+sequence
+------------------------------PRGWERQIRIRGEGGTKF-ADVYYTSPTGRKLRSLVEVDR
+FLQ----------------------------*
+>P1;gi|4105999|gb|AAD02651.1| methyl-CpG-binding protein 2; MeCP2 [X... [ score 152 E 2e-36 ] [ range 78 .. 167 ]
+sequence
+SSASPKQRRSVIRDRGPMY------EDPTLPEGWTRKLKQRKSGRSAGKFDVYLINPNGKAFRSKVELIA
+YFQKVGDTSLDPNDFDFTVTGR---GSPS--*
+>P1;gi|37574906|gb|AAP57248.2| methyl-cytosine binding protein 2 [Da... [ score 148 E 3e-35 ] [ range 86 .. 175 ]
+sequence
+SSASAKQRRSVIRDRGPMY------EDPSLPQGWTRKLKQRKSGRSAGKFDVYLINPEGKAFRSKVELMA
+YFQKVGDTITDPNDFDFTVTGR---GSPS--*
+>P1;gi|4505117|ref|NP_003918.1| methyl-CpG binding domain protein 2 ... [ score 144 E 6e-34 ] [ range 133 .. 216 ]
+sequence
+-SAGPGPRGPRATESGKRM------DCPALPPGWKKEEVIRKSGLSAGKSDVYYFSPSGKKFRSKPQLAR
+YLG----NTVDLSSFDFR-TGK---MMPS--*
+>P1;gi|24898897|dbj|BAC23079.1| methyl-CpG binding protein MBD2 [Xen... [ score 117 E 5e-26 ] [ range 5 .. 72 ]
+sequence
+-----------------RL------ECPALPAGWKKEEVIRKSGLSAGKSDVYYYSPNGKKFRSKPQLAR
+YLG----NSVDLNSFDFR-TGK---MMPS--*
+>P1;gi|29692019|gb|AAO91661.1| methyl-CpG binding protein 2; DrMbd2 ... [ score 114 E 4e-25 ] [ range 4 .. 71 ]
+sequence
+----------------KRT------DCPALPPGWKKEEVIRKSGLSAGKSDVYYYSPKGKKFRSKPQLSR
+YLG----NTVDLGCFDFR-TGK---MMP---*
+>P1;gi|19353797|gb|AAH24812.1| Mbd4 protein [Mus musculus] [ score 109 E 2e-23 ] [ range 73 .. 137 ]
+sequence
+-----------------------------VPCGWERVVKQRLSGKTAGKFDVYFISPQGLKFRSKRSLAN
+YLLKNGETFLKPEDFDFTVLPK---GS----*
+>P1;gi|4505121|ref|NP_003916.1| methyl-CpG binding domain protein 4;... [ score 106 E 1e-22 ] [ range 85 .. 148 ]
+sequence
+----------------------------SVPCGWERVVKQRLFGKTAGRFDVYFISPQGLKFRSKSSLAN
+YLHKNGETSLKPEDFDFTVLSK---------*
+>P1;gi|33468627|emb|CAE30422.1| SI:zK13A21.11.1 (novel protein simil... [ score 105 E 3e-22 ] [ range 272 .. 338 ]
+sequence
+-------------------------DWPALGKGWKRKEVFRRSGTSEGRSDTYYISPRGRKVRSRVELTK
+HIGH----SVDLTNFDFK-SGQ---FLGEG-*
+>P1;gi|31230825|ref|XP_318433.1| ENSANGP00000014275 [Anopheles gambi... [ score 104 E 5e-22 ] [ range 24 .. 84 ]
+sequence
+----------------KRT------DCAALPKGWQREEVLRKTGLSAGKVDVYYYSPTGKKIESKPQLAR
+---ALGDT-IDLSTFDY--------------*
+>P1;gi|24646242|ref|NP_650178.1| CG10042-PA [Drosophila melanogaster... [ score 94 E 5e-19 ] [ range 364 .. 426 ]
+sequence
+--------------------------DWRLPPGWIKHMYQRSN--VLGKWDVILVSPSGKRFRSKSDLKL
+FLES-QNLVYNPDVYDFSIHRR---------*
+>P1;gi|31217627|ref|XP_316465.1| ENSANGP00000021033 [Anopheles gambi... [ score 88 E 4e-17 ] [ range 468 .. 528 ]
+sequence
+--------------------------DWRMPEGWVKHIFQRIT--TYGKMDILLISPSGKVLRSRQEVKA
+YLAEIGE-EYDPNRYDFGLH-----------*
+>P1;gi|31230818|ref|XP_318432.1| ENSANGP00000023168 [Anopheles gambi... [ score 70 E 1e-11 ] [ range 8 .. 51 ]
+sequence
+----------------KRT------DCAALPKGWQREEVLRKTGLSAGKVDVYYYS---RAMRSDTSLI-
+-------------------------------*
+>P1;gi|34858345|ref|XP_342743.1| similar to methyl-CpG binding domai... [ score 64 E 6e-10 ] [ range 24 .. 90 ]
+sequence
+-------------------------------PPWDRWQVFKLSGLR-GVSLVWVFSPQGSKFRSKRSLAN
+YLLKTGETCLKPEDFDFTVLSK---G-----*
+>P1;gi|15238389|ref|NP_200746.1| methyl-CpG-binding domain-containin... [ score 63 E 2e-09 ] [ range 65 .. 151 ]
+sequence
+------QTESKSRKRAAPG------DNW-LPPGWRVEDKIRTSGATAGSVDKYYYEPTGRKFRSRTEVLY
+YLEKAENTYFNPDHFE----GQ---GS----*
+>P1;gi|15229373|ref|NP_191862.1| methyl-CpG-binding domain-containin... [ score 59 E 2e-08 ] [ range 91 .. 150 ]
+sequence
+---------------------------PKTPKGFKRSLVLRKD---YSKMDTYYFTPTGKKLRSRNEIAA
+FVEANPEFRNAPGDFNFTV------------*
+>P1;gi|7486879|pir||T04569 hypothetical protein T12H17.130 - Arabido... [ score 57 E 1e-07 ] [ range 112 .. 171 ]
+sequence
+---------------------------PRTPRGFKRSLILRKD---YSKMDAYYITPTGKKLKSRNEIAA
+FIDANQDYKYALGDFNFTV------------*
+>P1;gi|15232591|ref|NP_190242.1| methyl-CpG-binding domain-containin... [ score 53 E 2e-06 ] [ range 21 .. 80 ]
+sequence
+---------SKSRKRATPG------DDNWLPPDWRTEIRVRTSGTKAGTVDKFYYEPTGRKFRSKNEVLY
+YLEH---------------------------*
+>P1;gi|15238478|ref|NP_198383.1| methyl-CpG-binding domain-containin... [ score 52 E 3e-06 ] [ range 129 .. 189 ]
+sequence
+------------------------------PAGWQRLLRIRGEGGT--RFDVYYVAPSGKKLRSTVEVQK
+YLNDNSEYIVKLSQFSFQI------------*
+>P1;gi|13936312|gb|AAK40309.1| putative methyl-binding domain protei... [ score 50 E 1e-05 ] [ range 142 .. 202 ]
+sequence
+------------------------------PHGWERQIRIRGEGGT--KFDVYYTSPTGRKLRSLVEVDR
+FLQENPEHVVTLAQFSFQI------------*
+>P1;gi|13936314|gb|AAK40310.1| putative methyl-binding domain protei... [ score 50 E 1e-05 ] [ range 146 .. 206 ]
+sequence
+------------------------------PRGWERQIRIRGEGGT--KFDVYYTSPTGRKLRSLVEVDR
+FLQENGAQGVTLAQFSFQI------------*
+>P1;gi|15214874|gb|AAH12576.1| BAZ2B protein [Homo sapiens] [ score 47 E 8e-05 ] [ range 435 .. 512 ]
+sequence
+SQSGTSKRRRVTDERELRI------P---LEYGWQRETRIRNFG---GRLEVAYYAPCGKKLRQYPEVIK
+YLSRNGIMDISRDNFSFS-------------*
+>P1;gi|15238536|ref|NP_200788.1| methyl-CpG-binding domain-containin... [ score 47 E 1e-04 ] [ range 159 .. 231 ]
+sequence
+SRNSIEQQLRVLQNRRGHS------KDFRLPDGWIVEEKPRRS---SSHIDRSYIEPTGNKFRSMAAVER
+YLISVGNITLD--------------------*

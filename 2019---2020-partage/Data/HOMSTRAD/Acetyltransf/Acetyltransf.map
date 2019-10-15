@@ -1,0 +1,1302 @@
+>P1;1bo4a
+structureX:1bo4:  25 :A: 160 :A:aminoglycoside 3-N-acetyltransferase:Serratia marcescens: 2.30: 20.1
+---GIIRTCRLGPD--------QVKSMRAALDLFGREFGDVATYSQHQPDSDYLGNLLR---SKTFIALA
+AFDQE-AVVGALAAYVL-PKFEQ---------PRSEIYIYDLAVSGEHRRQGIATALINLLKHEANAL-G
+AYVIYVQADYGDDPA-------------------------------------------------------
+--VALYTKL----------*
+>P1;1cm0a
+structureX:1cm0: 492 :A: 653 :A:p300-CBP-associated factor, histone acetyltransferase domain:Homo sapiens: 2.30: 22.3
+K---VIEFHVVGNSLNQKPNKKILMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIKDG-RVIGGICFRMFP--------------SQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH-D
+ILNFLTYADE----------------------------YAIGYFKKQGFSK--EIKIPKTKYVGYIKDYE
+--GATLMGCELNPR-----*
+>P1;1ygha
+structureX:1ygh:  99 :A: 262 :A:transcriptional activator GCN5, histone acetyltransferase domain:Saccharomyces cerevisiae: 1.90: 19.5
+----KIEFRVVNND----NTKENMMVLTGLKNIFQKQL--P------KMPKEYIARLVY---DRSHLSMA
+VIRKPLTVVGGITYRPFD--------------KREFAEIVFCAISSTEQVRGYGAHLMNHLKDYVRNTSN
+IKYFLTYADN----------------------------YAIGYFKKQGFTK--EITLDKSIWMGYIKDYE
+--GGTLMQCSMLPRIRYLD*
+>P1;1qsta
+structureX:1qst:  49 :A: 208 :A:TGCN5 histone acetyltransferas:Tetrahymena thermophilia: 1.70: 24.4
+-----LDFDILTN----DGTHRNMKLLIDLKNIFSRQL--P------KMPKEYIVKLVF---DRHHESMV
+ILKNKQKVIGGICFRQYK--------------PQRFAEVAFLAVTANEQVRGYGTRLMNKFKDHMQKQ-N
+IEYLLTYADN----------------------------FAIGYFKKQGFTK--EHRMPQEKWKGYIKDYD
+--GGTLMECYIHPYVDY--*
+>P1;1b87a
+structureX:1b87:   1 :A: 181 :A:aminoglycoside 6'-N-acetyltransferase:Enterococcus faecium: 2.7: 18.8
+-----MIISEFDRN--------NPVLKDQLSDLLRLTW--PEEYG------DSSAEEVEEMMNPERIAVA
+AVDQ-DELVGFIGAIPQ-YG-------------ITGWELHPLVVESSRRKNQIGTRLVNYLEKEVASR-G
+GITIYLGTDDLDHGTTLSQTDLYEHTFDKVASIQNLREHPYEFYEKLGYKIVGVLPNANG---------W
+DKPDIWMAKTIIP--RPDS*
+>P1;1cjwa
+structureX:1cjw:  30 :A: 195 :A:serotonin N-acetyltranferase:Ovis aries: 1.80: 18
+HTLPANEFRCLT-----------PEDAAGVFEIEREAF--ISVSGNCPLNLDEVQHFLTLC-PEL--SLG
+WFVEG-RLVAFIIGSLWDEERLTQESLALHRPRGHSAHLHALAVHRSFRQQGKGSVLLWRYLHHVGAQPA
+VRRAVLMCED----------------------------ALVPFYQRFGFHPAGPCAIVVG----------
+SLTFTEMHCSL--------*
+>P1;gi|18958401|gb|AAL82588.1| aminoglycoside 3-N-acetyltransferase/... [ score 220 E 5e-57 ] [ range 3 .. 137 ]
+sequence
+----IIATVKIGPD--------EISAMRAVLDLFGKEFEDIPTYSDRQPTNEYLANLLH---SETFIALA
+AFDRG-TAIGGLAAYVL-PKFEQ---------ARSEIYIYDLAVASSHRRLGVATALISHLKRVAVEL-G
+AYVIYVQADYGDDPA-------------------------------------------------------
+--VALYTKL----------*
+>P1;gi|30141367|emb|CAD53575.1| aminoglycoside acetyltransferase [Ps... [ score 201 E 3e-51 ] [ range 7 .. 139 ]
+sequence
+------KITRLNSQ--------DVGVMRAMLGMFGEAFEDAENYCRAQPSDSYLQDLLC---GSGFIAIA
+ALQGQ-EVIGGLAAYVL-PKFEQ---------QRKEIYIYDLGVQGAYRRRGIATALINELQRIAHDI-G
+AYVIFVQADYGDDPA-------------------------------------------------------
+--VALYTKL----------*
+>P1;gi|38141872|dbj|BAD00738.1| aminoglycoside acetyltransferase [Vi... [ score 183 E 9e-46 ] [ range 3 .. 138 ]
+sequence
+-----VEIIHLTGN--------DVALLQSINAMFGEAFNDQDSYARNKPSSSYLQKLLS---TSSFIALA
+AVDEQ-KVIGAIAAYEL-QKFEQ---------QRSEIYIYDLAVAATRRREGIATALIKKLKAIGAAR-G
+AYVIYVQADKGDQPA-------------------------------------------------------
+--IELYKKL----------*
+>P1;gi|23029763|ref|ZP_00068077.1| hypothetical protein [Microbulbif... [ score 182 E 1e-45 ] [ range 3 .. 138 ]
+sequence
+-----LEIKQITEN--------ELSQMEALSAVFGEVFSDKETYTENKPSADYVRSLLS---SDYFIALA
+ALDES-KVIGGLAAYEL-KKFEQ---------ERSEIYIYDLAVIAAHRRKGVAIALIERLKIIAAER-G
+AYVIYVQADTGDKPA-------------------------------------------------------
+--IELYSKL----------*
+>P1;gi|23137747|ref|ZP_00119451.1| COG0454: Histone acetyltransferas... [ score 178 E 1e-44 ] [ range 3 .. 130 ]
+sequence
+-----IQIQKLSYR--------DIDSFIELLDVFEEVF---EMKNFEMPSVEHLEELLG---KDDFFVFV
+ARSEG-TIVGGLTAYSL-TQYFS---------KSPLLYIYDVAVMKRHQRKGIGKKLIMGIKDYCKDS-D
+IGEIIVQADEADEHA-------------------------------------------------------
+--IEFY-------------*
+>P1;gi|16081575|ref|NP_393933.1| conserved hypothetical protein [The... [ score 51 E 4e-06 ] [ range 19 .. 143 ]
+sequence
+-------------D--------ELLRLKRLNSEFDCSFTVSE---ESRPDIEYLTKILN---DDSHVLLV
+AEYSS-KVVGILMAYYT-PKYEA---------RIREFY-----VMPEYRRKGIGRMLIEELRNTLKEK-D
+IILITAEFPSLNLIA-------------------------------------------------------
+--QDFYKKL----------*
+>P1;gi|16081875|ref|NP_394278.1| hypothetical protein [Thermoplasma ... [ score 51 E 6e-06 ] [ range 21 .. 149 ]
+sequence
+-------------N--------DILSLLLRLKRFNSEFGCYCIVSEDDPEERYTSSIID---DGKHIILL
+AKDRG-KTVGLILADVL-YRYYS---------PKYEARIRDIYVLPEYRMRGIGQKLIEELMNVASKR-N
+IGLVTTEFPSDNLVA-------------------------------------------------------
+--VNFFSKI----------*
+>P1;gi|13473643|ref|NP_105211.1| aminoglycoside 6'-N-acetyltransfera... [ score 51 E 7e-06 ] [ range 12 .. 131 ]
+sequence
+-----MEIVRLAGD--------DALVMRIAEDVFDEPVRP-----------DRLAAYLS---QPGHFMVV
+ALADG-VVVGQCAA-VI-HRHPD---------KVAELYIDEVGVSPKFQRQGIARRMLDAMFAIGREN-G
+CEEAWVGTEPDNLPA-------------------------------------------------------
+--RALY-------------*
+>P1;gi|44292348|gb|EAI24834.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 1 .. 141 ]
+sequence
+-----MEIRKAREQ--------DIDAILELNRQIGEIHFEQAPRVFCPPSPEFLLAAIA---AEGRLFCV
+AEQEG-AVVGFLTARET-IPFLS---------KEPICRIGTVVVDEGRRSQGIGKALIAHCDEWGKAH-G
+AHQIRLEVMSFNERA-------------------------------------------------------
+--KALYEAL----------*
+>P1;gi|42567895|ref|NP_197182.2| GCN5-related N-acetyltransferase (G... [ score 48 E 5e-05 ] [ range 52 .. 169 ]
+sequence
+--------------------------------------------------SEFFQNVVN---GGDIVSWA
+AVDRE-ELIGFVTAKIL-IRYDS---------SKGEVYILTLGVVETYRKRGIAKALINEVVKYS--S-G
+IPVVYLHVIAHNNPA-------------------------------------------------------
+--IRLYKRM----------*
+>P1;gi|25029134|ref|NP_739188.1| conserved hypothetical protein [Cor... [ score 47 E 7e-05 ] [ range 182 .. 328 ]
+sequence
+---------HLGPE--------ILVMTRELLDPF-TLPEGLEFRVDEQPDDDWLNELLR---TRGFGRLV
+TSLGQ-TV--AITRATI-TAAES---------RTFLGY-SAVEVAPAYRRRGLGTALGARIQHWGAEM-G
+AAEAYLQVISRNEAG-------------------------------------------------------
+--IGLYTKL----------*
+>P1;gi|19424238|ref|NP_598242.1| camello-like 1 [Rattus norvegicus] ... [ score 47 E 7e-05 ] [ range 98 .. 188 ]
+sequence
+-------------------------------------------------TKSYLSD--R---GSGF--WV
+AESGE-QVVGTVGALPV-KEPPS---------GRKQLQLFHLAVSSQHRGQGIAKALVRTVLQFARDQ-G
+YTDVVLETSTMQIGA-------------------------------------------------------
+--VTLY-------------*
+>P1;gi|44481760|gb|EAJ57863.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 10 .. 133 ]
+sequence
+---------------------------KENSDIIGEVFNLYRIF-YNQESNKYIKQRLE---NDESIIFF
+HEEEG-TCAGFTQLY---PTFDS---------VRKKIVLYDLFVREEYRRKGIAKLLMDAAKNYATEN-K
+FGSIELSTNKSNTPG-------------------------------------------------------
+--QTLYESL----------*
+>P1;gi|34497783|ref|NP_901998.1| probable acetyltransferase [Chromob... [ score 46 E 1e-04 ] [ range 38 .. 133 ]
+sequence
+---------------------------------------------------EYLSERLR---RRQAVAFL
+ARRGD-TPLGFALMYTG-FSSLS---------LQPCWVLHDLYVASASRQEGVGKMLILRCQQYARDQ-G
+GGEIMLQTAHDNLNA-------------------------------------------------------
+--QRLYESL----------*
+>P1;gi|45513230|ref|ZP_00164796.1| hypothetical protein Selo096801 [... [ score 46 E 1e-04 ] [ range 44 .. 140 ]
+sequence
+--------------------------------------------------SSTLDRFLS---RETPIVVT
+ARDRQ--IVGGLWAGRS-QEQRR---------GDRQTHVFLVYVEPSHRRRGLATALLMQAEEWARAQ-G
+DRGLSLQV-YADNPA-------------------------------------------------------
+--IALYQR-----------*
+>P1;gi|17232028|ref|NP_488576.1| hypothetical protein [Nostoc sp. PC... [ score 46 E 1e-04 ] [ range 126 .. 179 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------HIFLLYVVPEHRRRGIATALMQYAENWAKER-G
+DRQIALQVFQSNPPA-------------------------------------------------------
+--INLYNHL----------*
+>P1;gi|13929474|ref|NP_003951.2| N-acetyltransferase 8; kidney- and ... [ score 46 E 1e-04 ] [ range 98 .. 188 ]
+sequence
+-------------------------------------------------TKSYLSE--R---GSCF--WV
+AESEE-KVVGMVGALPV-DDPTL---------REKRLQLFHLSVDSEHRRQGIAKALVRTVLQFARDQ-G
+YSEVILDTGTIQLSA-------------------------------------------------------
+--MALY-------------*
+>P1;gi|13474612|ref|NP_106181.1| peptide N-acetyltransferase [Mesorh... [ score 46 E 2e-04 ] [ range 46 .. 134 ]
+sequence
+--------------------------------------------------------LLE---QDTVFGYA
+ARETG-QGAKPPVGFVL-ARLAA---------GEGE--ILTVAVARSHRRQGLGWQLMDAVLRELHAQ-R
+AEALFLEVDETNVAA-------------------------------------------------------
+--IALYRRL----------*
+>P1;gi|13541600|ref|NP_111288.1| Predicted acetyltransferase [Thermo... [ score 46 E 2e-04 ] [ range 19 .. 143 ]
+sequence
+-------------D--------QLLRLKRLNSEFDCIFNVSE---QSKADIEYINKIMN---SDDHVLLV
+AELDN-KITGILFADIL-FRYYE---------PKYEARIREFYVMPEYRRNGIGKKLIDALKRELDPK-G
+ITFITAEFPALNLIA-------------------------------------------------------
+--QNFYKKI----------*
+>P1;gi|32475897|ref|NP_868891.1| conserved hypothetical protein [Pir... [ score 45 E 3e-04 ] [ range 82 .. 158 ]
+sequence
+----------------------------------------------------------------------
+--NRS-EAIGLANCFEV-FSTFA---------AAPVLNVHDVMVSAPHRGKGVGSMLMQAITDLANER-N
+CCKVTLEVYRGNQPA-------------------------------------------------------
+--RSLYSK-----------*
+>P1;gi|11067385|ref|NP_067700.1| putative N-acetyltransferase Camell... [ score 45 E 3e-04 ] [ range 80 .. 187 ]
+sequence
+-----------------------------------------------QPWKEYVATCLR---TDSF--WV
+AESGN-QVVGIVAALPV-KDPPS---------GRKQLQLFRLSVSSQHRGQGIAKALVRTVLQFARDQ-G
+YTDVVLETSTLQQGA-------------------------------------------------------
+--MTLY-------------*
+>P1;gi|14141850|ref|NP_115316.1| hypothetical protein [Staphylococcu... [ score 45 E 4e-04 ] [ range 17 .. 113 ]
+sequence
+-------------------------------------------------DIDNLKGFLN---DTSSFGFI
+AKENN-KIIGFAYCYTL-LRPDG---------K-TMFYLHSIGMLPNYQDKGYGSKLLSFIKEYSKEI-G
+CSEMFLITDKGNPRA-------------------------------------------------------
+--CHVYEKL----------*
+>P1;gi|15239024|ref|NP_196695.1| GCN5-related N-acetyltransferase (G... [ score 45 E 4e-04 ] [ range 36 .. 129 ]
+sequence
+--------------------------------------------------DKYYADAIA---AGEFTKLA
+YYND--ICVGAIAC-RL-EKKES---------GAMRVYIMTLGVLAPYRGIGIGSNLLNHVLDMCSKQ-N
+MCEIYLHVQTNNEDA-------------------------------------------------------
+--IKFYKK-----------*
+>P1;gi|43716142|gb|EAF13124.1| unknown [environmental sequence] [ score 44 E 4e-04 ] [ range 71 .. 124 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------IEIYSIFVDPLFRQKGIAKKFIDKCKEYCNEN-N
+LKKIILDVNETNDNA-------------------------------------------------------
+--IEFYKK-----------*
+>P1;gi|42782582|ref|NP_979829.1| acetyltransferase, GNAT family fami... [ score 44 E 5e-04 ] [ range 1 .. 129 ]
+sequence
+-----MEIRKYNSD--------DIKQFTDLMPDLGYPSSLDEMKVR-------MQRIES---NPNYYTFV
+AINDN-NLVGMIGITIH-TTYTN---------NDEKIQITSLVTKKEYRGQGIAKALIKYVEEWSLKR-G
+SNFIYLLSGKSEQKA-------------------------------------------------------
+--HELYKFL----------*
+>P1;gi|22298643|ref|NP_681890.1| ORF_ID:tll1099~putative acetyltrans... [ score 44 E 6e-04 ] [ range 55 .. 137 ]
+sequence
+-------------------------------------------------------------------VLL
+AHTPT-EVIGYALFFTT-YSTFL---------TRPGLWLEDLFVLPAYRRQGVGTALLKAVVRLARER-D
+YGRIEWSVLDWNTPA-------------------------------------------------------
+--LQFYERL----------*
+>P1;gi|15897159|ref|NP_341764.1| Acetyltransferase, putative [Sulfol... [ score 44 E 7e-04 ] [ range 69 .. 191 ]
+sequence
+-------------D--------DIDQIIKINRL---------TLPENYPYYFFVEHL-----KEYGLAFV
+AIVDN-SVVG----YIM-PRIEW---------GFSNIHVVSIAVLEEYRRKGIATTLLESMKSMKNDY-N
+AEEIYLEVRVSNYPA-------------------------------------------------------
+--IALYEKL----------*
+>P1;gi|23127377|ref|ZP_00109248.1| COG0454: Histone acetyltransferas... [ score 44 E 7e-04 ] [ range 107 .. 160 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------HIFILYVVPEHRRRGIGTALMRYVENWAIQR-G
+DRQIGLQVFQSNKPA-------------------------------------------------------
+--LNLYNQL----------*
+>P1;gi|43469386|gb|EAD89409.1| unknown [environmental sequence] [ score 44 E 7e-04 ] [ range 1 .. 49 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------MAVAGAHRGRGVAKALLSACDDLAGEM-G
+FGEVYLHVREGDEVA-------------------------------------------------------
+--YGLYEK-----------*
+>P1;gi|44587656|gb|EAK29993.1| unknown [environmental sequence] [ score 44 E 8e-04 ] [ range 34 .. 123 ]
+sequence
+---------------------------------------------------------LN---KETSFNIY
+LLDQT-NVKGALIGHFL-YQ-DQ---------KVSEFEILHIAVLPEFRNQGLGRMILEELEKQLKST-G
+SFKIFLEASAINKFA-------------------------------------------------------
+--IKLYEKL----------*
+>P1;gi|15791279|ref|NP_281103.1| Vng2522c [Halobacterium sp. NRC-1] ... [ score 44 E 9e-04 ] [ range 42 .. 159 ]
+sequence
+----------------------EIDALVAMYDDF-----DPEDRAQGVPPVEWVASLLE---QDGFDV-V
+AWHGE-EIAGHAT---L-VPDDD---------ATYELAIF---VHQTYQGAGIGTELINALLGHAQAS-G
+AALVWLSVERWNRPA-------------------------------------------------------
+--VALYEK-----------*
+>P1;gi|21312422|ref|NP_082384.1| Mak3p homolog [Mus musculus] >gi|12... [ score 43 E 0.001 ] [ range 3 .. 125 ]
+sequence
+---GRIELGDVTPH--------NIKQLKRLNQVFPVSYNDKFYK-----DVLEVGELAK---LAYFNDIA
+--------VGAVCCRVD-HSQNQ---------KR--LYIMTLGCLAPYRRLGIGTKMLNHVLNICEKD-G
+TFDIYLHVQISNESA-------------------------------------------------------
+--IDFYRK-----------*
+>P1;gi|14317910|dbj|BAB59138.1| PCAF [Gallus gallus] [ score 303 E 7e-82 ] [ range 421 .. 581 ]
+sequence
+----VIEFHVVGNSLNQKPNKKIMMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIKDG-RVIGGICFRMFP--------------SQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH-N
+ILNFLTYADE----------------------------YAIGYFKKQGFSK--DIKVPKAKYVGYIKDYE
+--GATLMGCELNPR-----*
+>P1;gi|45383496|ref|NP_989660.1| GCN5 general control of amino-acid ... [ score 303 E 9e-82 ] [ range 465 .. 625 ]
+sequence
+----IIEFHVIGNSLSQKSNKKILMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIKDG-RVIGGICFRMFP--------------TQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH-N
+ILYFLTYADE----------------------------YAIGYFKKQGFSK--DIKVPKSRYLGYIKDYE
+--GATLMECELNPR-----*
+>P1;gi|34873737|ref|XP_239340.2| similar to GCN5 general control of ... [ score 302 E 1e-81 ] [ range 532 .. 692 ]
+sequence
+----IIEFHVIGNSLTPKANRRVLLWLVGLQNVFSHQL--P------RMPKEYIARLVF---DPKHKTLA
+LIKDG-RVIGGICFRMFP--------------TQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH-S
+ILYFLTYADE----------------------------YAIGYFKKQGFSK--DIKVPKSRYLGYIKDYE
+--GATLMECELNPR-----*
+>P1;gi|28516430|ref|XP_284106.1| similar to PCAF acetyltransferase; ... [ score 295 E 2e-79 ] [ range 490 .. 649 ]
+sequence
+----VIEFHVVSNSLNQKPNKKILMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIKDG-RVIGGICFQMFP--------------SQGFTEIVFCAVTSEEQVKGYGTHLMNHLKEYHVKH-E
+ILNFLTYADD----------------------------HAIGYFKKQGFSK--EIKIPKTKYAGYIKDYE
+--GATLMGCELNP------*
+>P1;gi|24663348|ref|NP_648586.2| CG4107-PA [Drosophila melanogaster]... [ score 280 E 1e-74 ] [ range 468 .. 628 ]
+sequence
+R---AIEFHVVGNSLTKPVDKQTVLWLLGLQLVFAYQL--P------EMPREYISQLVF---DTKHKTLA
+LIKEN-QPIGGICFRPFP--------------SQGFTEIVFCAVTMSEQVKGYGTHLMNHLKDYSIQR-G
+IKHLLTFADC----------------------------DAIGYFKKQGFSK--DIKLARPVYAGYIKEYD
+--SATLMHCELHP------*
+>P1;gi|31209509|ref|XP_313721.1| ENSANGP00000003808 [Anopheles gambi... [ score 279 E 2e-74 ] [ range 395 .. 555 ]
+sequence
+R---EIEFHVVGNSLTKPVTKQSMLWLLGLHSVFAHQL--P------GMPREYISQLVF---DPKHKTLA
+LIKEG-RPIGGICFRTFV--------------SQGFTEIVFCAVTSSEQVKGYGTHLMNHLKDYSTQR-G
+IKHFLTYADE----------------------------FAIGYFKKQGFSK--DIKVARHVYAGFIKEYE
+--GATLMHCELHP------*
+>P1;gi|17510001|ref|NP_491173.1| histone acetyltransferase (88.5 kD)... [ score 271 E 4e-72 ] [ range 414 .. 575 ]
+sequence
+----LIEFRVIGNDLDPFQHHEQLVHLVELQNLFGAQL--P------KMPKEYVTRLIF---DSRHQNMV
+ILKDM-GVIGGICFRTFP--------------SRGFVEIVFCAITAMEQVKGYGTHLMNHCKDYMIKN-K
+IYHMLTYADE----------------------------FAIGYFTKQGFSE--KLEINDTVYQGWIKEYE
+--GATLMGCHLHPQ-----*
+>P1;gi|39598267|emb|CAE68959.1| Hypothetical protein CBG14939 [Caeno... [ score 266 E 2e-70 ] [ range 429 .. 590 ]
+sequence
+----LIEFRVIGNDLDPFQDHEQLAQLVELQNLFGAQL--P------KMPKDYVTRLIF---DSRHLNMV
+ILKDV-GVIGGICFRPFT--------------NRGFVEIVFCAITAQEQVKGYGTHLMNHCKDYMIKN-K
+IYHMLTFADE----------------------------FAIGYFTKQGFSD--KLEIKPTVYHGWIKEYE
+--GATLMGCHLHPQ-----*
+>P1;gi|29246857|gb|EAA38438.1| GLP_191_12537_11311 [Giardia lamblia ... [ score 209 E 1e-53 ] [ range 16 .. 181 ]
+sequence
+-------FKVVSNLYDPPHDPKLLLHLLMAKELFCTAL--P------RMPRDYITRLVF---NTSHETAC
+LLQTS-PLVAAICYRTFP--------------DVRIAEIAFCAVSITRQYSGLGHCIMNYLKENIKKR-G
+YTDIVTYADN----------------------------AALEYFYKQGFSK--NITMPEAIWYGRVKHYD
+--QAIFVQCPLY-------*
+>P1;gi|19074752|ref|NP_586258.1| TRANSCRIPTIONAL ACTIVATOR [Encephal... [ score 182 E 3e-45 ] [ range 30 .. 214 ]
+sequence
+---------VVVSSSSPGADK---MLLLGIKCLFQKQL--S------RMPKEYILRQVF---DTKHVNMA
+LVNSE-EIVGGICYRPFF--------------ERNFVEIVFLAVDYDFQVKGVGGFMMDLLKEVHRGR-T
+ILYLVTYADN----------------------------FAIGYFRKQGFST--DVRF--GGWIGFIKDYE
+--GGTVVEC----------*
+>P1;gi|13812217|ref|NP_113348.1| hypothetical protein [Guillardia th... [ score 119 E 2e-26 ] [ range 31 .. 151 ]
+sequence
+---------------SNKRKKKFYNDIYSYLNILYKQF--S------NMTKNYIEETIC---DISHNIIL
+ILDNE-KIVGGICYKLFH--------------SCEILEIVFLCIDQLRKNSGYGSLLISIIKKLIKKK-K
+VKYILTFGDI----------------------------NAYDFFCKSNF---------------------
+-------------------*
+>P1;gi|38906773|gb|AAR27831.1| p300/CBP-associated factor [Bos taurus] [ score 101 E 6e-21 ] [ range 20 .. 73 ]
+sequence
+----VIEFHVVGNSLSQKPNKKVLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTL-
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------*
+>P1;gi|17932878|emb|CAC80426.1| gcn5 [Ustilago maydis] [ score 325 E 2e-88 ] [ range 148 .. 310 ]
+sequence
+-----IQFRVVTND----DDHESMILLTGLKNIFQRQL--P------KMPREYISRLVF---DRNHQSVA
+IVKRGLQVVGGITYRPFK--------------QRKFAEIVFCAITSTEQVKGYGSHLMNHVKDHVKASSP
+VMHFLTYADN----------------------------YAIGYFKKQGFTK--EISLDRSIWVGYIKDYE
+--GGTLMQCSMVPRVKYLE*
+>P1;gi|38105685|gb|EAA52082.1| hypothetical protein MG03677.4 [Magna... [ score 324 E 4e-88 ] [ range 121 .. 284 ]
+sequence
+----EIEFRVVNND----NERESLIILTGLKCIFQKQL--P------KMPKDYIARLVY---DRTHLSIA
+IVKKPLEVVGGITYRPFK--------------GRQFAEIVFCAISSDQQVKGYGAHLMSHLKDYVKATSD
+VMHFLTYADN----------------------------YAIGYFKKQGFTK--EITLPKSVWMGYIKDYE
+--GGTIMQCSMLPRIRYLE*
+>P1;gi|45190900|ref|NP_985154.1| AER297Cp [Eremothecium gossypii] >g... [ score 322 E 1e-87 ] [ range 112 .. 275 ]
+sequence
+----KIEFRVVNND----NTRENMMVLTGLKNIFQKQL--P------KMPKEYIARLVY---DRSHLSMA
+VIRKPLTVVGGITYRPFE--------------KGEFAEIVFCAISSTEQVRGYGAHLMNHLKDYVRATTN
+IKYFLTYADN----------------------------YAIGYFKKQGFTK--EITLDKSVWMGYIKDYE
+--GGTLMQCFMLPRIRYLD*
+>P1;gi|17529556|emb|CAC80210.1| GCN5 acetylase [Yarrowia lipolytica] [ score 320 E 5e-87 ] [ range 126 .. 289 ]
+sequence
+----KIEFRVVNND----NSKENLMILTGLKNIFQKQL--P------KMPREYIARLVY---DRSHVSMA
+VVRKPLTVVGGITFRPFD--------------TRKFAEIVFCAISSTEQVRGYGAHLMNHLKDYVKATSP
+VMYFLTYADN----------------------------YAIGYFKKQGFSK--EISLDRSVWMGYIKDYE
+--GGTLMQCSMLPRIRYLD*
+>P1;gi|40740639|gb|EAA59829.1| conserved hypothetical protein [Asper... [ score 319 E 1e-86 ] [ range 96 .. 259 ]
+sequence
+----EIEFRVVNND----GSRDSFIVLTGLKCIFQKQL--P------KMPKDYIARLVY---DRSHLSIA
+IVKHPLEVVGGITYRPFN--------------SRRFAEIVFCAISSDQQVKGYGAHLMSHLKDYVKATSD
+IMHFLTYADN----------------------------YAIGYFKKQGFTK--EIQLDRSIWMGYIKDYE
+--GGTIMQCTMLPKIRYLE*
+>P1;gi|42546847|gb|EAA69690.1| conserved hypothetical protein [Gibbe... [ score 318 E 2e-86 ] [ range 103 .. 266 ]
+sequence
+----EIEFRVVNND----NEREALIILTGLKCIFQKQL--P------KMPKDYIARLVY---DRTHLSIA
+IVKKPLEVVGGITYRPFK--------------GRRFAEIVFCAISSDQQVKGYGAHLMSHLKDYVKATSD
+VMHFLTYADN----------------------------YAIGYFKKQGFTK--EITLDKKVWMGYIKDYE
+--GGTIMQCSMLPRIRYLE*
+>P1;gi|19115719|ref|NP_594807.1| putative yeast transcriptional acti... [ score 312 E 2e-84 ] [ range 118 .. 280 ]
+sequence
+-----IQFRVVSND----DTADSMIMLTGLKNIFMKQL--P------KMPKEYITRLIY---DRNHLSMT
+IVKDNLHVVGGITYRPFE--------------QRGFAEIVFCAIASNEQVRGYGSHLMNHLKDYVRGTTT
+IQHFLTYADN----------------------------YAIGYFKKQGFTK--EITLDKSIWVGYIKDYE
+--GGTLMQCTMIPKIKYLE*
+>P1;gi|34873737|ref|XP_239340.2| similar to GCN5 general control of ... [ score 310 E 1e-83 ] [ range 533 .. 697 ]
+sequence
+-----IEFHVIGNS----LTPRVLLWLVGLQNVFSHQL--P------RMPKEYIARLVF---DPKHKTLA
+LIK-DGRVIGGICFRMFP--------------TQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEY-HIKHS
+ILYFLTYADE----------------------------YAIGYFKKQGFSK--DIKVPKSRYLGYIKDYE
+--GATLMECELNPRIPYTE*
+>P1;gi|45383496|ref|NP_989660.1| GCN5 general control of amino-acid ... [ score 308 E 4e-83 ] [ range 466 .. 630 ]
+sequence
+-----IEFHVIGNS----LSQKSLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIK-DGRVIGGICFRMFP--------------TQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEY-HIKHN
+ILYFLTYADE----------------------------YAIGYFKKQGFSK--DIKVPKSRYLGYIKDYE
+--GATLMECELNPRIPYTE*
+>P1;gi|14317910|dbj|BAB59138.1| PCAF [Gallus gallus] [ score 306 E 8e-83 ] [ range 422 .. 586 ]
+sequence
+-----IEFHVVGNS----NQKPNMMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIK-DGRVIGGICFRMFP--------------SQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEY-HIKHN
+ILNFLTYADE----------------------------YAIGYFKKQGFSK--DIKVPKAKYVGYIKDYE
+--GATLMGCELNPRIPYTE*
+>P1;gi|7428977|pir||S71788 P/CAF protein - human [ score 306 E 9e-83 ] [ range 494 .. 658 ]
+sequence
+-----IEFHVVGNS----NQKPNLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIK-DGRVIGGICFRMFP--------------SQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEY-HIKHD
+ILNFLTYADE----------------------------YAIGYFKKQGFSK--EIKIPKTKYVGYIKDYE
+--GATLMGCELNPRIPYTE*
+>P1;gi|17017400|gb|AAL33654.1| histone acetyl transferase [Zea mays]... [ score 303 E 9e-82 ] [ range 164 .. 326 ]
+sequence
+----RLKFLCYSND----GVDEHMIWLVGLKNIFARQL--P------NMPKEYIVRLVM---DRTHKSMM
+VIRNNI-VVGGITYRPYA--------------SQRFGEIAFCAITADEQVKGYGTRLMNHLKQHARDADG
+LTHFLTYADN----------------------------NAVGYFVKQGFTK--EITLDKERWQGYIKDYD
+--GGILMECKIDPKLPYVD*
+>P1;gi|28516430|ref|XP_284106.1| similar to PCAF acetyltransferase; ... [ score 301 E 3e-81 ] [ range 491 .. 655 ]
+sequence
+-----IEFHVVSNS----NQKPNLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIK-DGRVIGGICFQMFP--------------SQGFTEIVFCAVTSEEQVKGYGTHLMNHLKEY-HVKHE
+ILNFLTYADD----------------------------HAIGYFKKQGFSK--EIKIPKTKYAGYIKDYE
+--GATLMGCELNPHIPYTE*
+>P1;gi|37534346|ref|NP_921475.1| contains similarity to histone acet... [ score 295 E 2e-79 ] [ range 160 .. 322 ]
+sequence
+----RLKFLCYSND----GVDEHMIWLVGLKNIFARQL--P------NMPKEYIVRLVM---DRTHKSMM
+VIRNNI-VVGGITYRPYT--------------SQKFGEIAFCAITADEQVKGYGTRLMNHLKQHARDADG
+LTHFLTYADN----------------------------NAVGYFVKQGFTK--EITLDKERWQGYIKDYD
+--GGILMECRIDQKLPYVD*
+>P1;gi|6856566|gb|AAF29981.1| histone acetyltransferase GCN5 [Toxopl... [ score 295 E 3e-79 ] [ range 800 .. 959 ]
+sequence
+-----ISFCCVTND----RQPLHMRHLVTVKNIFSRQL--P------KMPREYIVRLVF---DRAHFTFC
+LCKQG-RVIGGVCFRPYF--------------REKFAEIAFLAVTSTEQVKGYGTRLMNHLKEHVKK-SG
+IEYFLTYADN----------------------------FAVGYFRKQGFSS--KITMPRDRWLGYIKDYD
+--GGTLMECRLSTRINYL-*
+>P1;gi|31209509|ref|XP_313721.1| ENSANGP00000003808 [Anopheles gambi... [ score 287 E 6e-77 ] [ range 396 .. 561 ]
+sequence
+----EIEFHVVGNS----LTKQSMLWLLGLHSVFAHQL--P------GMPREYISQLVF---DPKHKTLA
+LIKEGRP-IGGICFRTFV--------------SQGFTEIVFCAVTSSEQVKGYGTHLMNHLKDYS-TQRG
+IKHFLTYADE----------------------------FAIGYFKKQGFSK--DIKVARHVYAGFIKEYE
+--GATLMHCELHPSLIYTQ*
+>P1;gi|11357330|pir||T47620 histon acetyltransferase HAT1 - Arabidop... [ score 287 E 7e-77 ] [ range 216 .. 396 ]
+sequence
+----RLKFVCYSND----SIDEHMMCLIGLKNIFARQL--P------NMPKEYIVRLLM---DRKHKSVM
+VLRGNL-VVGGITYRPYH--------------SQKFGEIAFCAITADEQVKGYGTRLMNHLKQHARDVDG
+LTHFLTYADN----------------------------NAVGYFVKQGFTK--EIYLEKDVWHGFIKDYD
+--GGLLMECKIDPKLPYTD*
+>P1;gi|33242492|gb|AAQ00945.1| general control nonrepressed 5 [Schis... [ score 278 E 2e-74 ] [ range 469 .. 637 ]
+sequence
+-----IEFHIVNNS----QPPQTYIWLLELLNVFALQL--P------RMPKEYIARLIF---DPKHKNLI
+LLKVSDHAIGGICFRMFP--------------SQGFTEIVFCAVIFNEQVKGYGTQMMNHLKDY-HLQHK
+IFHFLTYADS----------------------------FATGYFRKQGFSR--EIRLARQAYLGYIKEYE
+--GATLMGCELYPNIIYT-*
+>P1;gi|23612782|ref|NP_704321.1| histone acetyltransferase Gcn5, put... [ score 276 E 2e-73 ] [ range 1130 .. 1309 ]
+sequence
+-----ITFECITND----REPDHLIKLITLKNIFSRQL--P------KMPREYIVRLVF---DRNHYTFC
+LLKKN-TVIGGVCFRPYF--------------EQKFAEIAFLAVTSTEQVKGYGTRLMNHLKEHVKKF-G
+IEYFLTYAYN----------------------------FAIGYFRKQGFSQ--KISMPKERWFGYIKDYD
+--GGTLMECYIFPNINYL-*
+>P1;gi|29246857|gb|EAA38438.1| GLP_191_12537_11311 [Giardia lamblia ... [ score 226 E 2e-58 ] [ range 32 .. 187 ]
+sequence
+-------------------DPKLLLHLLMAKELFCTAL--P------RMPRDYITRLVF---NTSHETAC
+LLQYPSPLVAAICYRTFP--------------DVRIAEIAFCAVSITRQYSGLGHCIMNYLKENIKKRGY
+TD-IVTYADN----------------------------AALEYFYKQGFSK--NITMPEAIWYGRVKHYD
+--QAIFVQCPLYRNIDYT-*
+>P1;gi|19074752|ref|NP_586258.1| TRANSCRIPTIONAL ACTIVATOR [Encephal... [ score 225 E 3e-58 ] [ range 26 .. 223 ]
+sequence
+----ELRAVVVSSS----SPGADKMLLLGIKCLFQKQL--S------RMPKEYILRQVF---DTKHVNMA
+LVNSAEEIVGGICYRPFF--------------ERNFVEIVFLAVDYDFQVKGVGGFMMDLLKEVVKNSPL
+PLYLVTYADN----------------------------FAIGYFRKQGFST--DVRFGG--WIGFIKDYE
+--GGTVVECCVSWEINYL-*
+>P1;gi|38099365|gb|EAA46722.1| hypothetical protein MG09943.4 [Magna... [ score 218 E 3e-56 ] [ range 2 .. 110 ]
+sequence
+----------------------------------------------------------------------
+----PLEVIGGITIREFR--------------ARAFAEIVFCAISSDQQVKGYGAHIMAHLKDYVRATSP
+VMHFLTYADN----------------------------YATGYFQKQGFTK--EISLDKSIWMGYIKDYE
+--GGTLMQCSMLPRIRYLE*
+>P1;gi|38906773|gb|AAR27831.1| p300/CBP-associated factor [Bos taurus] [ score 92 E 6e-18 ] [ range 21 .. 73 ]
+sequence
+-----IEFHVVGNS----LSKKVLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTL-
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------*
+>P1;gi|13812217|ref|NP_113348.1| hypothetical protein [Guillardia th... [ score 57 E 2e-07 ] [ range 47 .. 151 ]
+sequence
+-------------------------------NILYKQF--S------NMTKNYIEETIC---DISH-NII
+LIKRNEKIVGGICYKLFH--------------SCEILEIVFLCIDQLRKNSGYGS-LLISIIKKLIKKKK
+VKYILTFGDI----------------------------NAYDFFCKSNF---------------------
+-------------------*
+>P1;gi|28900389|ref|NP_800044.1| putative acetyltransferase [Vibrio ... [ score 45 E 5e-04 ] [ range 44 .. 117 ]
+sequence
+----------------------------------------------------------------------
+---EDGKIIGGLTGEMFK--------------NTVFVE--FLWVDAESRTSGLGSKLMAMLEQHVK-PYG
+VTHI--YLDT----------------------------YALDFYLKLGFEK-------------------
+-------------------*
+>P1;gi|45383496|ref|NP_989660.1| GCN5 general control of amino-acid ... [ score 305 E 3e-82 ] [ range 466 .. 628 ]
+sequence
+-----IEFHVIGN----SLSQKSLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIKDG-RVIGGICFRMFP--------------TQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH-N
+ILYFLTYADE----------------------------YAIGYFKKQGFSK--DIKVPKSRYLGYIKDYE
+--GATLMECELNPRIPY--*
+>P1;gi|7428977|pir||S71788 P/CAF protein - human [ score 302 E 3e-81 ] [ range 494 .. 656 ]
+sequence
+-----IEFHVVGN----SLNQKPLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIKDG-RVIGGICFRMFP--------------SQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH-D
+ILNFLTYADE----------------------------YAIGYFKKQGFSK--EIKIPKTKYVGYIKDYE
+--GATLMGCELNPRIPY--*
+>P1;gi|14317910|dbj|BAB59138.1| PCAF [Gallus gallus] [ score 302 E 3e-81 ] [ range 422 .. 584 ]
+sequence
+-----IEFHVVGN----SLNQKPMMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIKDG-RVIGGICFRMFP--------------SQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH-N
+ILNFLTYADE----------------------------YAIGYFKKQGFSK--DIKVPKAKYVGYIKDYE
+--GATLMGCELNPRIPY--*
+>P1;gi|34874275|ref|XP_217321.2| similar to PCAF acetyltransferase; ... [ score 297 E 5e-80 ] [ range 436 .. 598 ]
+sequence
+-----IEFHVVGN----SLNKKMLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIKDG-RVIGGICFRMFP--------------SQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH-E
+ILNFLTYADE----------------------------YAIGYFKKQGFSK--EIKIPKTKYVGYIKDYE
+--GATLMGCELNPQIPY--*
+>P1;gi|9910480|ref|NP_064389.1| p300/CBP-associated factor [Mus musc... [ score 296 E 7e-80 ] [ range 475 .. 637 ]
+sequence
+-----IEFHVVGN----SLNQKPLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIKDG-RVIGGICFRMFP--------------SQAFTEIVLCAVTSNEQVKGYGTHLMNHLKEYHIKH-E
+ILNFLTYADE----------------------------YAIGYFKKQGFSK--EIKIPKTKYVGYIKDYE
+--GATLMGCELNPQIPY--*
+>P1;gi|28516430|ref|XP_284106.1| similar to PCAF acetyltransferase; ... [ score 291 E 3e-78 ] [ range 491 .. 653 ]
+sequence
+-----IEFHVVSN----SLNQKPLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLA
+LIKDG-RVIGGICFQMFP--------------SQGFTEIVFCAVTSEEQVKGYGTHLMNHLKEYHVKH-E
+ILNFLTYADD----------------------------HAIGYFKKQGFSK--EIKIPKTKYAGYIKDYE
+--GATLMGCELNPHIPY--*
+>P1;gi|33242492|gb|AAQ00945.1| general control nonrepressed 5 [Schis... [ score 273 E 1e-72 ] [ range 469 .. 636 ]
+sequence
+-----IEFHIVNN----SQPPQTYIWLLELLNVFALQL--P------RMPKEYIARLIF---DPKHKNLI
+LLKCEKHAIGGICFRMFP--------------SQGFTEIVFCAVIFNEQVKGYGTQMMNHLKDYHLQH-K
+IFHFLTYADS----------------------------FATGYFRKQGFSR--EIRLARQAYLGYIKEYE
+--GATLMGCELYPNIIY--*
+>P1;gi|19074752|ref|NP_586258.1| TRANSCRIPTIONAL ACTIVATOR [Encephal... [ score 213 E 1e-54 ] [ range 31 .. 222 ]
+sequence
+---------VVSS----SSPGADKMLLLGIKCLFQKQL--S------RMPKEYILRQVF---DTKHVNMA
+LVNSAEEIVGGICYRPFF--------------ERNFVEIVFLAVDYDFQVKGVGGFMMDLLKDPLLNR-T
+LEYLVTYADN----------------------------FAIGYFRKQGFST--DVRF--GGWIGFIKDYE
+--GGTVVECCVSWEINY--*
+>P1;gi|38906773|gb|AAR27831.1| p300/CBP-associated factor [Bos taurus] [ score 87 E 9e-17 ] [ range 21 .. 73 ]
+sequence
+-----IEFHVVGN----SLNKKVLMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTL-
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------*
+>P1;gi|13812217|ref|NP_113348.1| hypothetical protein [Guillardia th... [ score 60 E 2e-08 ] [ range 47 .. 151 ]
+sequence
+-------------------------------NILYKQF--S------NMTKNYIEETIC---DISH-NII
+LIKDNEKIVGGICYKLFH--------------SCEILEIVFLCIDQLRKNSGYGSLLISIIKKLIKKK-K
+VKYILTFGDI----------------------------NAYDFFCKSNF---------------------
+-------------------*
+>P1;gi|15227353|ref|NP_181676.1| GCN5-related N-acetyltransferase (G... [ score 47 E 1e-04 ] [ range 34 .. 128 ]
+sequence
+-------------------------------------------------PKEDMFLLLN---PRDEDDFT
+--KSHLQILAAITYQIVP--------------DTQYAEIPLAAVTYTHQKKGFGKLVYEELMKRLHSV-G
+IRTIYCWADK----------------------------ESEGFWLKQGFIK-------------------
+-------------------*
+>P1;gi|31096288|gb|AAP43642.1| 6'-N-aminoglycoside acetyltransferase... [ score 284 E 7e-76 ] [ range 21 .. 182 ]
+sequence
+------------------------ILTKSFLDIGNDSW--PDM--------KSATKEVEECIEKPNICLG
+IHEN-EKLLGWIGLRPM-YK-------------LT-WELHPLVISTQYQNKGIGRLLINELEKQAKQN-G
+IIGIVLGTDDEYFKTSLSDVDLSKNILDEIRNIKNIRNHPYEFYQRCGYSIVGVIPDANG---------K
+RKPDIWMWKKI--------*
+>P1;gi|3126909|gb|AAC25500.1| aminoglycoside 6'-N-acetyltransferase ... [ score 282 E 2e-75 ] [ range 21 .. 182 ]
+sequence
+------------------------ILRKSFLDAGNESW--VDI--------KKAIEEVEDCIEHPNLCLG
+ICLD-DKLIGWTGLRPM-YD-------------KT-WELHPMVIKTEYQCRGIGKVLIKELEKRAKGR-G
+IIGIALGTDDEYQKTSLSMIDINENIFDEIGNIKNVTNHPYEFYKKCGYMIVGIIPNANG---------K
+RKPDIWMWKDI--------*
+>P1;gi|1743004|emb|CAA91010.1| aminoglycoside acetyltransferase(6') ... [ score 281 E 5e-75 ] [ range 1 .. 167 ]
+sequence
+------------------------MLKKSFLDAGNESW--GDI--------KNAIEEVEECIEHPNICLG
+ICLD-DKLIGWTGLRPM-YD-------------KT-WELHPMVIKTEYQGKGFGKVLLRELETRAKSR-G
+IIGIALGTDDEYQKTSLSMIDINENIFDEIGNIKNVNNHPYEFYKKCGYMIVGIIPNANG---------K
+RKPDIWMWQ-ILA--RKNS*
+>P1;gi|112951|sp|P10051|AAC6_CITDI Aminoglycoside N(6')-acetyltransf... [ score 279 E 2e-74 ] [ range 21 .. 183 ]
+sequence
+------------------------ILTEAFNDLGNNSW--PDM--------TSATKEVKECIESPNLCFG
+LLIN-NSLVGWIGLRPM-YK-------------ET-WELHPLVVRPDYQNKGIGKILLKELENRAREQ-G
+IIGIALGTDDEYYRTSLSLITITENIFDSIKNIKNINKHPYEFYQKNGYYIVGIIPNANG---------K
+NKPDIWMWKSLI-------*
+>P1;gi|15827107|ref|NP_301370.1| putative acetyltransferase [Mycobac... [ score 51 E 1e-05 ] [ range 228 .. 323 ]
+sequence
+-------------------------LESQFFD-GDNPW--PAAAF------D------RELANSYNCYVG
+ARTA-DTLVGYAG-ITR-LG-------------HTPYEVHTIAVDPAYRGRGVGRRLLGELLDFAGS--G
+AIYLEVRTDNE-----------------------------------------------------------
+-------------------*
+>P1;gi|23022038|ref|ZP_00061674.1| COG0456: Acetyltransferases [Clos... [ score 51 E 1e-05 ] [ range 60 .. 123 ]
+sequence
+--------------------------------------------------------------------IG
+AVDG-EKLVGWIYKHEY-FG-------------ETRMHINQIIVDKEYKRKGIGKRLLEEAEKKAKEL-G
+IKVIDL----------------------------------------------------------------
+-------------------*
+>P1;gi|17552702|ref|NP_498391.1| tumor suppressor like (3H456) [Caen... [ score 50 E 2e-05 ] [ range 7 .. 119 ]
+sequence
+-------VTLYDRQ--------D-LLKESMT-FLNSEW--PRSDG------SREHSQKKSCRQSPPMSFL
+LLEN-DEILGHITHLPN-RD-------------HALW-IESVMIKKDQRGLGLGKFLMKSTEKWMTEK-G
+FNEAYLSTDDQ-----------------------------------------------------------
+-------------------*
+>P1;gi|15922398|ref|NP_378067.1| 152aa long conserved hypothetical p... [ score 49 E 4e-05 ] [ range 50 .. 144 ]
+sequence
+----------------------------------------------------------------------
+-----DDIVGYSLGIIQ-FG-------------YRG-HVVSIAVKKDYREKGIGSLLLKELEKRFKE---
+------------YKCTHSYLEV---------NFKN--KTAIEFYHKLGYIIVKLQKNYYG---------R
+GKHAFIMVKS---------*
+>P1;gi|22983679|ref|ZP_00028854.1| COG0454: Histone acetyltransferas... [ score 49 E 6e-05 ] [ range 32 .. 145 ]
+sequence
+-----------------------------------------EFRP------DSAASASEELVRYPAELFA
+IVLD-GETVGG-GAFKR-YD-------------ATTAELKRIWTRADQRRQGVARRIVTELETRARRQ-G
+YRRIYLTTGRQPEASGLYLNTGYEPLFDR-----------------------------------------
+-------------------*
+>P1;gi|15897047|ref|NP_341652.1| N-terminal acetyltransferase comple... [ score 48 E 1e-04 ] [ range 50 .. 145 ]
+sequence
+----------------------------------------------------------------------
+-----EKVVGYIIGIIQ-YG-------------YRG-HIVSIAVEPIYRKQGIGAKLLNEIEERFKLN-G
+--------------ARYSYLEVNTNNLSAIS-----------FYRANGYLIMYVRKNYYG---------R
+DKHAFVMVKNL--------*
+>P1;gi|11387110|sp|Q9R0A9|SNAT_MESAU Serotonin N-acetyltransferase (... [ score 302 E 3e-81 ] [ range 30 .. 195 ]
+sequence
+HTLPASEFRCLT-----------PQDAISVFEIEREAF--ISVSGTCPLYLDEIRHFLTLC-PEL--SLG
+WFEEG-RLVAFIIGSLWDKERLTQESLTLHRPGGRTAHLHVLAVHRTFRQQGKGSVLLWRYLHHLGSQPA
+VRRAVLMCED----------------------------ALVPFYEKFGFQAVGPCAVTVG----------
+SLTFMELQCSL--------*
+>P1;gi|31747566|gb|AAP57668.1| arylalkylamine N-acetyltransferase [X... [ score 299 E 1e-80 ] [ range 24 .. 187 ]
+sequence
+HTLPASEFRCLS-----------PEDAVSVFEIEREAF--ISVSGECPLHLDEVRQFLTLC-PEL--SLG
+WFEEG-RLVAFIIGSLWNQDRLSQDALTLHKPEGSSVHIHVLAVHRTFRQQGKGSILLWRYLQYLRCLPF
+ARRAVLMCED----------------------------FLVPFYSKCGFKAVGPCDITVG----------
+PLTFIEMQC----------*
+>P1;gi|21666079|gb|AAM73553.1| arylalkylamine-N-acetyl-transferase [... [ score 299 E 2e-80 ] [ range 30 .. 195 ]
+sequence
+HTLPASEFRCLT-----------PEDAISAFEIEREAF--ISVSGTCPLYLDEIRHFLALC-PEL--SLG
+WFEEG-CLVAFVIGSLWDKERLTQESLTLHRPGGHTAHLHVLAVHRTFRQQGKGSVLLWRYLHHLGSQPA
+VRRAVLMCEE----------------------------ALVPFYEKFGFQAVGPCAITVG----------
+SLTFTELQCSL--------*
+>P1;gi|29135307|ref|NP_803475.1| arylalkylamine N-acetyltransferase ... [ score 298 E 4e-80 ] [ range 30 .. 195 ]
+sequence
+HTLPANEFRCLT-----------PKDAAGVFEIEREAF--ISVSGNCPLNLDEVRHFLTLC-PEL--SLG
+WFVEG-RLVAFIIGSLWDEERLTQESLTLHRPGGRTAHLHALAVHHSFRQQGKGSVLLWRYLQHAGGQPA
+VRRAVLMCED----------------------------ALVPFYQRFGFHPAGPCAVVVG----------
+SLTFTEMHCSL--------*
+>P1;gi|3978551|dbj|BAA34809.1| retinal arylalkylamine N-acetyltransf... [ score 297 E 7e-80 ] [ range 26 .. 189 ]
+sequence
+HTLPASEFRPLN-----------TQDAISVFEIEKEAF--ISVSGDCPLHLDEVRHFLTLC-PEL--SMG
+WFEEG-RLVAFIIGSQWDQDRLTLDALTLHKPKGSTVHIHVLAVHRTFRQQGKGPILMWRYLQYLRCLPY
+VRRAVLMCED----------------------------FLVPFYQKSGFKVQGRCSITVA----------
+SLTFTEMQY----------*
+>P1;gi|45384042|ref|NP_990489.1| arylalkylamine N-acetyltransferase ... [ score 295 E 2e-79 ] [ range 28 .. 190 ]
+sequence
+HTLPASEFRCLS-----------PEDAVSVFEIEREAF--ISVSGDCPLHLDEIRHFLTLC-PEL--SLG
+WFEEG-RLVAFIIGSLWDQDRLSQAALTLHNPRGTAVHIHVLAVHRTFRQQGKGSILMWRYLQYLRCLPC
+ARRAVLMCED----------------------------FLVPFYEKCGFVAVGPCQVTVG----------
+TLAFTEMQ-----------*
+>P1;gi|31747568|gb|AAP57669.1| arylalkylamine N-acetyltransferase [X... [ score 295 E 3e-79 ] [ range 24 .. 187 ]
+sequence
+HTLPASEFRCLS-----------PEDAVSVFEIEREAF--ISVSGECPLHLDEVRQFLTLC-PEL--SLG
+WFEEG-RLVAFIIGSMWNQDRLSQDALTFHKPEGSSVHIHVLAVHRTFRQQGKGSILLWRYLQYLRCLPV
+ARRAVLMCED----------------------------FLVPFYSKCGFKAVGPCDITVG----------
+PMTFIEMQY----------*
+>P1;gi|41152330|ref|NP_956998.1| hypothetical protein MGC73074 [Dani... [ score 293 E 1e-78 ] [ range 27 .. 190 ]
+sequence
+HTLPASEFRSLN-----------AEDAISVFEIEREAF--ISVSGECPLHLDEVRHFLTLC-PEL--SLG
+WFEQG-RLVAFIIGSLWDQDRLTADALTLHKPHGTTVHIHVLAVHRTFRQQGKGSILLWRYLQYLRCLPY
+VRRAVLMCED----------------------------FLVPFYQKSGFKGQGPSEIIVG----------
+SLTFIEMYY----------*
+>P1;gi|4494758|gb|AAD21316.1| arylalkylamine N-acetyltransferase [Es... [ score 289 E 1e-77 ] [ range 31 .. 192 ]
+sequence
+HTLPASEFRCLS-----------PEDAISVFEIEREAF--ISVSGECPLHLEEVRHFLTLC-PEL--SLG
+WFEGG-RLVAFIIGSLWDQEKLSLDALTLHKPQGSTVHIHVLAVHRSDRQQGKGSILMWRYLQYLRCLPY
+VHRAVLMCED----------------------------FLVPFYQRSGFKVQGPSDVTVG----------
+LLTFIEM------------*
+>P1;gi|18858241|ref|NP_571486.1| arylalkylamine N-acetyltransferase;... [ score 286 E 9e-77 ] [ range 32 .. 197 ]
+sequence
+HTLPASEFRNLT-----------PQDAISVFEIEREAF--ISVSGECPLTLDEVLVFLGQC-PEL--SMG
+WFEEG-QLVAFIIGSGWDKEKLEQEAMSTHVPDSPTVHIHVLSVHRHCRQQGKGSILLWRYLQYLRCLPG
+LRRALLVCEE----------------------------FLVPFYQKAGFKEKGPSAISVA----------
+ALTFTEMEYQL--------*
+>P1;gi|18463967|gb|AAL73048.1| AANAT [Sphoeroides nephelus] [ score 285 E 3e-76 ] [ range 13 .. 178 ]
+sequence
+HTLPASEFRNLT-----------PQDAISVFEIEREAF--VSVSGECPLTLEEVLNFLGVC-PEL--SMG
+WFEEG-QLVAFIIGSGWDKERLSQEAMTQHVPDTSTVHLHVMSVHRHCRQQGKGSILLWRYLQYLRCMPG
+LRRALLICED----------------------------FLVPFYIKAGFKEAGPSAISVA----------
+NLQFQEMEYTL--------*
+>P1;gi|4585223|gb|AAD25333.1| arylalkylamine N-acetyltransferase [On... [ score 281 E 3e-75 ] [ range 31 .. 194 ]
+sequence
+HTLPASEFRNLT-----------PQDAISVFEIEREAF--VSVSGECPLTLDEVLNFLSQC-PEL--SLG
+WFEEG-QLVAFIIGSGWGKERLEQEAMTQHIPETSAVHIHVLSVHRHARQQGKGSILLWRYLQYLRCVPG
+LRRALLVCEE----------------------------FLVPFYQKAGFKEKGPSAITVP----------
+NLTFQEMEY----------*
+>P1;gi|38017213|gb|AAR07968.1| brain arylalkylamine N-acetyltransfer... [ score 224 E 4e-58 ] [ range 1 .. 123 ]
+sequence
+---------------------------ISVFEIEKEAF--ISVSGDCPLHLDEVRHFLMLC-PEL--SMG
+WFEEG-RLVAFIIGSQWDRDRLSLDALTLHKPKGSTVHIHVLAVHRTFRQQGKGPILMWRYLQYLRCLPY
+VRRAVLMCED----------------------------FLVPFY--------------------------
+-------------------*
+>P1;gi|38017211|gb|AAR07967.1| retina arylalkylamine N-acetyltransfe... [ score 220 E 7e-57 ] [ range 1 .. 123 ]
+sequence
+---------------------------ISVFEIEKEAF--ISVSGDCPLHLDEVRHFLTLC-PEL--SMG
+WFEEG-RLVAFIIGSQWDKDRLTLDALTLHQPKGSTILYHVLAVHRTSRQQGKGPILMWRYLQYLRCLPY
+VRRAVLMCED----------------------------FLVPFY--------------------------
+-------------------*
+>P1;gi|45201224|ref|NP_986794.1| AGR128Cp [Eremothecium gossypii] >g... [ score 185 E 3e-46 ] [ range 5 .. 165 ]
+sequence
+--LPLHMYRPLS-----------PEDAQQVTELEAQGF--PPEE---RASADVVAFRLAAC-PEL--CSG
+LFVRD-KLIGHVLGTKLSESYITLASMAQHDDASDTIAIHSVVIAPEHQKKNLATLMLTDYIQKMSNQKV
+ADKIVIIARE----------------------------ALVPFYERVGFQLVG-----------------
+-------------------*
+>P1;gi|6320276|ref|NP_010356.1| Ydr071cp [Saccharomyces cerevisiae] ... [ score 181 E 4e-45 ] [ range 7 .. 184 ]
+sequence
+-TLPLHMYRPLI-----------IEDLKQILNLESQGF--PPNE---RASEEIISFRLINC-PEL--CSG
+LFIRE-TLIGHIMGTKIPHEYITIESMGLQVESSNHIGIHSVVIKPEYQKKNLATLLLTDYIQKLSNQEI
+GNKIVLIAHE----------------------------PLIPFYERVGFKIIAENDKNFA----------
+EQKWIDMEREL--------*
+>P1;gi|15004814|ref|NP_149274.1| NH2-acetyltransferase [Clostridium ... [ score 179 E 2e-44 ] [ range 4 .. 158 ]
+sequence
+------KIRKVS-----------IEDLNKVIEVEARCF--PEAEAAKKASLEQIKTF-----PES--FLL
+AEIDG-EVIGFINGCIINETTIYDENAALHIPNGDYQTIFGLDVIPEYRNQGIAAELMNHFIE-ISRLSG
+RKGVILTCKE----------------------------KLIHYYSKFGFENKGISESKHG----------
+GSEWYDM------------*
+>P1;gi|43466443|gb|EAD87958.1| unknown [environmental sequence] [ score 176 E 2e-43 ] [ range 3 .. 143 ]
+sequence
+-------YRPAT-----------GDDLTVIAEIESNSY--PPDEAASPENLNAGDYFLVGC-SAG--S-G
+PGGAD-EIVSYVCGTLIKGETLTHESMSTHDADGDTLCIHSVVTEGGHRRKQIGTKTLKAYMRWITATPQ
+VERVLLLCKR----------------------------NLIGFYEGAG----------------------
+-------------------*
+>P1;gi|40739185|gb|EAA58375.1| hypothetical protein AN5866.2 [Asperg... [ score 169 E 2e-41 ] [ range 118 .. 287 ]
+sequence
+-----------------------------------ESF--PENEACVPANF---IYRLGRC-PEL--CLG
+LFTRP-TLVGHVIATRTSTPFVTDKSMELHDEYGSTIAIHSLAVLREHQGKQVGSTLMKSYIQRIREAAI
+ADRIVIIAHD----------------------------NLIPFYEGLGFENRGPSKCQFG----------
+GGGWTDM------------*
+>P1;gi|42545692|gb|EAA68535.1| hypothetical protein FG01985.1 [Gibbe... [ score 160 E 1e-38 ] [ range 8 .. 196 ]
+sequence
+----------LS-----------IDDLERSLLVETAAF--PPAEAATRA---KIEYRLTVC-PEL--CMG
+LFLRG-GLLAHVISTKSINKPVRDEDMDYHKRNGRTIALHALAVSPDYQRSGLGKAIMRAYIERMKTMGA
+ADRISILTYD----------------------------RLVPYYQKLEFEHYGKSSSEYA----------
+GVAWHDLSY----------*
+>P1;gi|19114257|ref|NP_593345.1| putative arylalkylamine n-acetyltra... [ score 159 E 2e-38 ] [ range 4 .. 161 ]
+sequence
+-------IRNIE-----------RSEVEEVSKLEAICF--PEAE---RASFARIKDRVKRA-PEI--QLG
+LFAPT-QLIGHVLTSRTGSETVTHESMSKHDSKGENIAIHSLSIHPAHRKNGYAKKLIFRCQHTITPKPS
+--RMILISHK----------------------------PLVPFYESLGFKNLGPSECKFG----------
+DETWYDM------------*
+>P1;gi|38111163|gb|EAA56779.1| hypothetical protein MG07134.4 [Magna... [ score 152 E 3e-36 ] [ range 62 .. 259 ]
+sequence
+---------PLG-----------ISDLDSCVALENAAF--P---AHHRATRDKLEYRLTAC-PEL--CLG
+LYETD-RLLAHIIATGSQSSVTTDSDMDYHRESSRTVAIHSLAVVSRLQGCGLGKLILKAYLQQINNSGI
+ADRVVLICED----------------------------HLVAYYKRFGFKHIGASKCEFG----------
+GGGWHDMVFEL--------*
+>P1;gi|23336665|ref|ZP_00121869.1| COG0454: Histone acetyltransferas... [ score 107 E 7e-23 ] [ range 9 .. 162 ]
+sequence
+-------IRHAT-----------IDDLDALAAMESECF--PAAEAADRSSL---RARIETY-PE---CFW
+LLIDG-EIVAFINGFATDRRDLTDEDAAQHNPQGDWQMIFGVDTAPKYQHRGCASTLMRKVIED-TRAAG
+RKGLVLTCKD----------------------------RLVGFYAQFGYEDEGISESTHG----------
+DVVWHQM------------*
+>P1;gi|26989302|ref|NP_744727.1| acetyltransferase, GNAT family [Pse... [ score 102 E 3e-21 ] [ range 24 .. 182 ]
+sequence
+--MSALQFRTPV-----------PADAERCYAIEIGAY-----EGDEAATLEKIRTRITQY-PQG--FLV
+LESDG-EIVGFINSGCAHEVVMSDEALVGHDPAAANVVIMSVVVDPAHQGKGYAKVLMNEFIGRMHA-AG
+KQTIHLMCKE----------------------------QHVALYQKLGYRYVKPSPSDHG----------
+GMAWHEM------------*
+>P1;gi|33600068|ref|NP_887628.1| putative acetyltransferase [Bordete... [ score 100 E 2e-20 ] [ range 8 .. 165 ]
+sequence
+-------FRPAV-----------PADAARCHQIEISAY--EGDEAATR---EKIARRIALY-PEG--FLV
+MELDG-AVIGFINSGCAHEVVMSDEALVGHDPQAPNVVIMSVAVDPACQGRGHATAMMRVFVARMRAL-G
+KRTIHLMCKQ----------------------------RHVALYERLGYRYVRPSASDHG----------
+GMAWHEMLMTL--------*
+>P1;gi|23061056|ref|ZP_00085927.1| COG0454: Histone acetyltransferas... [ score 99 E 3e-20 ] [ range 5 .. 162 ]
+sequence
+-------IRHVT-----------AADLDRCYAIETLAY--EGDEAATR---EKIATRIATW-PDG--FIV
+AEVDG-QVAGFINSGAAFDVQMSDEALIGHDPAGPNVVIMSVVVHPDYQGLGLAKRLLGEFIDRMREQGK
+AT-IHLMCKE----------------------------RHIPLYAGFGFAYIKPSESDHG----------
+GMAWHEMILTL--------*
+>P1;gi|25011703|ref|NP_736098.1| Unknown [Streptococcus agalactiae N... [ score 97 E 1e-19 ] [ range 3 .. 157 ]
+sequence
+-------IRNGC-----------LEDLQQVISIERINF--SEAEAASKKAMQE---RLMIM-TDT--FLV
+AEING-RLAGYIEGPVIKGRYLTDD--LFHKREGGFIGITSLSIHPDFKGQGIGTALLAA-MKDLVVSQE
+RDGISLTCHD----------------------------DLISFYEMNGFKDEGESDSQHG----------
+GSLWYNM------------*
+>P1;gi|22537754|ref|NP_688605.1| acetyltransferase, GNAT family [Str... [ score 96 E 4e-19 ] [ range 3 .. 157 ]
+sequence
+-------IRNGC-----------LEDLQQVISIEQINF--SEAEAASKKAMQE---RLTIM-TDT--FLV
+AEING-RLAGYIEGPVIKGRYLTDD--LFHKVSGGFIGITSLSIHPDFKGQGIGTALLAA-MKDLVVSQE
+RDGISLTCHD----------------------------DLISFYEMNGFKDEGESDSKHG----------
+GSLWYNM------------*
+>P1;gi|21284310|ref|NP_647398.1| conserved hypothetical protein [Sta... [ score 93 E 2e-18 ] [ range 4 .. 156 ]
+sequence
+--------RKVI-----------MQDLDQIIALENIGF--SPEEAATREAL---KLRIEQI-QET--FIV
+AEKND-EVIGYINGPVIKERYISDDNVSTNNSEGGYISVLGLVVAPNYQGQGIAGRLLN-YFETLAKNHH
+RHGVTLTCRE----------------------------SLISFYEKYGYRNEGVSESCHG----------
+GIKWYNL------------*
+>P1;gi|19745510|ref|NP_606646.1| putative arylalkylamine n-acetyltra... [ score 91 E 9e-18 ] [ range 3 .. 160 ]
+sequence
+-------IRQVQ-----------GSDLEVIATIESDNF--SPQEATTRAVLEE---RIRLI-PDT--FLV
+ALIDQ-EIVGYIEGPVVTTPILEDSGVTKNPKTGGYIAITSLSIAKHFQQQGVGTALLAA-LKDLVVAQQ
+RTGLILTCHD----------------------------YLISYYEMNGFINQGISESQHG----------
+GTLWYQMIWKL--------*
+>P1;gi|24380102|ref|NP_722057.1| putative acetyltransferase [Strepto... [ score 89 E 4e-17 ] [ range 3 .. 156 ]
+sequence
+-------IRQVT-----------MEDLEDIIRIENDNF--SAEEAATSQALKE---RIEVI-ADT--FLV
+AEQDG-QIAGYVEGPVINSRYLTDDLFHKVKPNSGYIAVTSLSVDKAFQKQGVGTTLLAA-LKDLTVAQN
+RLGIHLTCHD----------------------------YLISYYEMNGFSNEGLSESTHG----------
+GTVWYNM------------*
+>P1;gi|15901365|ref|NP_345969.1| acetyltransferase, GNAT family [Str... [ score 86 E 2e-16 ] [ range 2 .. 158 ]
+sequence
+------KIRQAR-----------LEDLDRIVELEFENF--SVEEAIPPAHLREIQT--------S--FLV
+AEKEG-RIMGYIEGPVGLHRHLQDQSFTSHEPGG-YISVTCLSIAKEAQGLGLGQKLLTA-LKEVALEDE
+RDGINLTCHD----------------------------YLIAYYEKHGFVNEGQSQSTFA----------
+GETWYDM------------*
+>P1;gi|15674038|ref|NP_268213.1| hypothetical protein L126998 [Lacto... [ score 85 E 6e-16 ] [ range 6 .. 160 ]
+sequence
+-------YTQIM-----------PNDIDDVIRIERATF--SENEA---LSVESMIERINLI-PDS--FIA
+ANSEG-TVVGYVSGPVTEGRYLDDESFERTEANPKTQKIISLTVDPDYQGLGIATNLLLLLEKEAKSKK-
+RLGISLTCHD----------------------------YLVPYYEKHGFTNEGLSESKFG----------
+GETWYNM------------*
+>P1;gi|23002499|ref|ZP_00046175.1| COG0454: Histone acetyltransferas... [ score 82 E 5e-15 ] [ range 6 .. 145 ]
+sequence
+-------IRRVT-----------MDDLEEVVNLESAAF-----KMTKEQTRDDMVGRIENY-PDT--FLV
+VQEDG-KVIGHIFGPAFNKRYIEDELYFNNHPNDRYQMILSLAVLPAYRKQGIATKLIEALVQVAKKQK-
+RRAISLTCLP----------------------------KLIKFYKKRGFHNEG-----------------
+-------------------*
+>P1;gi|32408333|ref|XP_324648.1| predicted protein [Neurospora crass... [ score 82 E 6e-15 ] [ range 75 .. 233 ]
+sequence
+-------IRPLS-----------KSDYESCIALENAAF--PPAHRATPEKASSPCANMGMV-PEK--AKN
+WTIET-VLVAHIVATRCTGNTITDKDMDYHQETGRTVALHSMAVAPKLHGCGIGQMIIKAYLQQMKDAQV
+ADRVALICQD------------------------------------------------------------
+-------------------*
+>P1;gi|42551884|gb|EAA74727.1| hypothetical protein FG06163.1 [Gibbe... [ score 81 E 1e-14 ] [ range 160 .. 275 ]
+sequence
+----------------------------------------------------------------------
+---------AHVLATLGTHSVITDADMAGHQSSGRTICLHSFIVCPEVQGVGIGKTVMKSYLELMNESGV
+ADRVAIICQP----------------------------YAIQFYKCFAFKDLGPSTEALA----------
+GQGYHAM------------*
+>P1;gi|28377243|ref|NP_784135.1| acetyltransferase (putative) [Lacto... [ score 75 E 7e-13 ] [ range 2 .. 157 ]
+sequence
+------EITPVK-----------MLDLPQIMAIEKSGF--SEAEAGSEAAYREADTFLVA----------
+--RDG-AVVGFIVGPAVGARYIEDEMFVTNLPRGGHQLVFTLAVSPLARHQQIGSQLLTA----LAEKAQ
+ADGMALTCLK----------------------------RLIPFYERNGFINQGVANSEHA----------
+GETWYNLE-----------*
+>P1;gi|44125641|gb|EAH26454.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 1 .. 104 ]
+sequence
+----------------------------------------------------------------------
+-------VVGFINSGCAHEVVMSDEALVGHDAEAPNVVIMSVVVDPAHQGKGYAKRLMTAFVQRMGTL-G
+KQTIHLMCKQ----------------------------QHVPLYTRMGYTHVRPSPSDHG----------
+GMAWHEM------------*
+>P1;gi|42518335|ref|NP_964265.1| hypothetical protein LJ0249 [Lactob... [ score 66 E 2e-10 ] [ range 4 .. 144 ]
+sequence
+------KIRTVK-----------MNDLDAIVELESSAF--MSEEMTRKDMIGRIENY-----SDT--FLV
+AEVDE-KVVGHVFGPASKDRYIKDELYFKNQPNNPYQTILSLATRKEYRKQGIASALIEE-LCKIAQAQD
+RSTVTLTCLP----------------------------KLFHFYEKRGFINEG-----------------
+-------------------*
+>P1;gi|45358747|ref|NP_988304.1| N-acetyltransferase related protein... [ score 60 E 2e-08 ] [ range 6 .. 157 ]
+sequence
+-------IRNAR-----------KTDIDEIMNIEYDSF--IDISENRNVFLDRIATFQNG-------FLV
+LEVDS-EILGYISSEIWDEKRLNHDIKKVHKCNGSELYISSIGILKKHRKKGYGNLLFKELIEKISKNYK
+ISSMILTVSK----------------------------PAIKLYEKNGFKEI--CRIK------------
+-------------------*
+>P1;gi|23050806|ref|ZP_00077652.1| COG0454: Histone acetyltransferas... [ score 59 E 5e-08 ] [ range 52 .. 135 ]
+sequence
+----------------------------------------------------------------------
+-------LVVEVNGKLVSTVMVVIKNLT--RSASPYAIIESVVTHPDYRKRGIGTRLLKRAQEIAREKGC
+YKIMLLTGRK----------------------------EAIPFYEKAGFE--------------------
+-------------------*
+>P1;gi|20093987|ref|NP_613834.1| Acetyltransferase [Methanopyrus kan... [ score 58 E 9e-08 ] [ range 35 .. 156 ]
+sequence
+--------RRAK-----------RSDIPEVVEIEERAF--P----KSPYPTYVFLYNLSNN-PEG--FLV
+AEVGG-KVVGYVIFELWLGEG----------------HIVSIAVHPNYRRTGIGTILMGEAERKIAEAGY
+-ETVRLEVRE----------------------------SNFPFYERLGYRE-------------------
+-------------------*
+>P1;gi|44275962|gb|EAI13883.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 2 .. 142 ]
+sequence
+------ELRTLV-----------AQDIPSIWQINHEGL--P---GTGEVTEDEIAE-LMSI-SEI--SLG
+IFEAD-KLLGFVLCLLPKTTYGSLNYAWFNQNYTDFIYVDRVAVSPNQRNRNIGSQLYQEVINYANNCPI
+AAEVSLNPPN----------------------------PSMRFHERYGFVEVG-----------------
+-------------------*
+>P1;gi|18976639|ref|NP_577996.1| ribosomal protein s18 alanine acety... [ score 57 E 2e-07 ] [ range 14 .. 139 ]
+sequence
+---PLAMIRPAK-----------LFDIPYIMRIEQMSF--KE---AYPRGL--FLTFLEAN-PDT--FLV
+AEYNG-KIVGYVMGYL-------RPDMEGH--------IMSIAVHPDYRGNGIGKALMIAVIKKLFEK-G
+ARWIVRVSNY----------------------------RAINLYKKLGFK--------------------
+-------------------*
+>P1;gi|23124934|ref|ZP_00106891.1| COG3153: Predicted acetyltransfer... [ score 57 E 2e-07 ] [ range 35 .. 158 ]
+sequence
+-------IRYET-----------LSDYTVIAEVNTLAF--GQENEAK--LVEKIRRSDRYI-PEL--SLV
+AEIEN-VVVGHILFSYIDEETL------------QVIGLAPLAVYPQFQRQGIGSALIKAGLEIAEAKKE
+A--IVIVLGH----------------------------P--HFYTRFGFQP-------------------
+-------------------*
+>P1;gi|37524262|ref|NP_927606.1| hypothetical protein [Photorhabdus ... [ score 56 E 3e-07 ] [ range 70 .. 127 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------AIRFLAVHPNMQGRGLGKLIAMA-LESVARQEG
+VKRVVCSARE----------------------------HAVEFFSKLGFENRGP----------------
+-------------------*
+>P1;gi|13752435|gb|AAK38651.1| ActC [Myxococcus xanthus] [ score 56 E 4e-07 ] [ range 275 .. 429 ]
+sequence
+-------IRRLV-----------AEDAEAFKALRLRGL--ASVEEDSALSLEAVRGWLVGA-SQC--VLG
+AFDGG-QLVGALGLNRESRARLAHKAM-----------VWGMYVAPEVRSRGVGRRLLTALIDEARKMGG
+LKCLLLVGNA----------------------------PAHALYRSLGFRTYGPNALKVG----------
+-ETFLD-------------*
+>P1;gi|18313208|ref|NP_559875.1| N-acetyltransferase [Pyrobaculum ae... [ score 55 E 8e-07 ] [ range 1 .. 122 ]
+sequence
+------MIRRCT-----------ASDVPYILEIERKSF--KPED----IYSDELLKFLCAC-NDY--SYV
+YVLNG-TVAGYIITC--------HE--------GNAAHVISIAVAPEYRRRGIGKRLLCTAL-RLMATGK
+VSEVFLVSNA----------------------------PALHLYKSAGFE--------------------
+-------------------*
+>P1;gi|44417878|gb|EAJ12582.1| unknown [environmental sequence] [ score 54 E 1e-06 ] [ range 23 .. 104 ]
+sequence
+----------------------------------------------------------------------
+--------VAEVDGKVVGSTTLLIEQKFIH-EGGKVGHIEDVVVSKEFEGRGIGIKLVTSLLEVAKAKNC
+Y-KTILDCKH----------------------------ELIPFYERIGFK--------------------
+-------------------*
+>P1;gi|42782549|ref|NP_979796.1| acetyltransferase, GNAT family [Bac... [ score 54 E 2e-06 ] [ range 11 .. 155 ]
+sequence
+-------------------------DYRKTEEVVQQAF--LNEESDKKEH--ELVKRIREC-PEL--SIV
+A-VDE-EIVGHIMLSKI---TIEQDGASV-----DSLALAPVSVARGYQKKGIGGKLIVAALEKAKELGY
+GSVVVLGHSE--------------------------------YYPKFGFKKASEWNIKVP----------
+DEAFMAVELS---------*
+>P1;gi|44603846|gb|EAK41441.1| unknown [environmental sequence] [ score 52 E 4e-06 ] [ range 14 .. 95 ]
+sequence
+----------------------------------------------------------------------
+--------IAEIDGKIVGSTTLFVEQKFIHN-GGKVGHIEDVVVSKKFEGRGIGMKLVVSLLEKAEAMNC
+Y-KTILDCKK----------------------------ELIPFYERIGFK--------------------
+-------------------*
+>P1;gi|23100312|ref|NP_693779.1| hypothetical protein OB2857 [Oceano... [ score 52 E 4e-06 ] [ range 5 .. 134 ]
+sequence
+-------IREER-----------TEEYNTTEKVVKRVF--LKEESDKKEHLNRIRKSDAFI-PEL--SLI
+AIQAN-EIIGHILLSKI---TIVNDHKTV-----DSLALAPVSVIPEHQKKGIGSQLIHAALKKAKEIGY
+HSVIVLGHKD--------------------------------YYPKFGFK--------------------
+-------------------*
+>P1;gi|18309861|ref|NP_561795.1| probable acetyltransferase [Clostri... [ score 52 E 4e-06 ] [ range 41 .. 136 ]
+sequence
+--------------------------------------------------LRKGENFIDG----L--SLV
+AEREG-EIVGHIL--------LTKANIENETEKYETLALAPVSVLPKYQGIGIGGELIREGMRMAKELGY
+-DSIIVLGHD----------------------------K---YYPKFGFKKAG-----------------
+-------------------*
+>P1;gi|15669725|ref|NP_248538.1| ribosomal protein S18 alanine acety... [ score 52 E 5e-06 ] [ range 3 .. 86 ]
+sequence
+-------IRKFS-----------SKDLDAVEEIEREAF-----KTPYPTSL--ILGFWSMY-PNC--FYV
+AEIDG-RVVGYILGSMWGNG-----------------HIISLAVKKECRGLGIGTALLK-----------
+----------------------------------------------------------------------
+-------------------*
+>P1;gi|29346168|ref|NP_809671.1| acetyltransferase [Bacteroides thet... [ score 52 E 6e-06 ] [ range 8 .. 131 ]
+sequence
+------QIRETN-----------TDDFDSIMTVEKQAF--GYDEAQLVADLLADK---TAE-PMV--SLL
+AFYKG-EAVGHILFTR-----------AYFDGQGALQMMHILAVKPEYQRQGIGGMLIRAGIERLQEKGS
+CLVFVLGHKE--------------------------------YYPEYGF---------------------
+-------------------*
+>P1;gi|15606021|ref|NP_213398.1| ribosomal-protein-alanine acetyltra... [ score 52 E 6e-06 ] [ range 3 .. 124 ]
+sequence
+------KVREME-----------REDVERVYEINRESF--TTD-AWSRFSFE--KDFENKF-SRR--FV-
+LEEDG-KVVGYVIFWVVKEE----------------ATIMTFAIAPGYRGKGYGEKLLREAISRLGDK--
+VKRVVLVRKS----------------------------NLINLYKKLGFKVV------------------
+-------------------*
+>P1;gi|23128551|ref|ZP_00110396.1| COG0456: Acetyltransferases [Nost... [ score 52 E 7e-06 ] [ range 7 .. 132 ]
+sequence
+------EIKLLT-----------PDNLSAILELDQACF--GTLEGYKRE-LDSPNSDL----------LG
+LFSPF-SSVSLLMGCFWS---ILEEA-----------HITILAVHPQYHRQGLGAALLYSLLKT-ACDRG
+MERATLEVRA----------------------------AAISLYQKFGFKTAG-----------------
+-------------------*
+>P1;gi|16081233|ref|NP_393537.1| N-terminal acetyltransferase comple... [ score 51 E 9e-06 ] [ range 10 .. 131 ]
+sequence
+----AGSIREFS-----------PKDIDQVYRIAQESF--YTQSLIMDLHRE--------W-PES--FMV
+YTITD-TVVGFIVGSKYSRTE---------------ARILLFAVDERFRKMGVGSALMDRFLQLCRNMLS
+VRLEVRTDND----------------------------EAIRFYKKYGF---------------------
+-------------------*
+>P1;gi|45528127|ref|ZP_00179326.1| hypothetical protein Cwat019301 [... [ score 50 E 1e-05 ] [ range 68 .. 128 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------DTVKIERLAVLSTARGQGVGTALMKEAIAFIKEQEK
+YKQIVIHAQV----------------------------YVQSLYEKLGFEPVG-----------------
+-------------------*
+>P1;gi|31194473|ref|XP_306184.1| ENSANGP00000000037 [Anopheles gambi... [ score 50 E 1e-05 ] [ range 64 .. 143 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------GGDEAQIRFMALRPEFRGQGLGARMVED-LEQLARSEK
+VKRLVMNARQ----------------------------EAVEFYRKCGFLEVGEGPVSFG----------
+RIPHRQMIKSL--------*
+>P1;gi|44638834|gb|EAK66393.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 14 .. 93 ]
+sequence
+----------------------------------------------------------------------
+--------VAEIDGKIVGSTTLLIEQKFIH-EGGKVGHIEDVVVSKEFEGRGIGIKLVTSLLEVAKTKNC
+Y-KTILDCKN----------------------------ELIPFYERIG----------------------
+-------------------*
+>P1;gi|20093412|ref|NP_619487.1| acetyltransferase (GNAT) family pro... [ score 50 E 2e-05 ] [ range 2 .. 87 ]
+sequence
+------MIRRFA-----------PEDFQEIVEIEEEAF--SEH------NSLVYMNFYEMV-GDG--FLV
+AEKEG-KVVGYVVG---------------YRSAENEGHIFSVGVKKEYRGRGIGTELIYA----------
+----------------------------------------------------------------------
+-------------------*
+>P1;gi|15606643|ref|NP_214023.1| hypothetical protein [Aquifex aeoli... [ score 50 E 2e-05 ] [ range 17 .. 148 ]
+sequence
+------------------------EDLPKLVDLYLRAY--KGLEEYAYTHPKDVKSYLKWL-KEG--IFL
+AKVDG-KIVGFGAG---------DANWFSRREGKRVGAIHEIVVDPEYQGHGVGTALMNTILEYFK-KKG
+LDTAELWVGD----------------------------KAINFYKKFGFQESG-----------------
+-------------------*
+>P1;gi|30021582|ref|NP_833213.1| Acetyltransferase [Bacillus cereus ... [ score 50 E 2e-05 ] [ range 11 .. 153 ]
+sequence
+-------------------------DYRKTEEVIKEAF--LKEEFSDKTEHELVK-RIREC-PEL--SIV
+AVDED--IVGHIMLSKI-----TIEQDGTSVES---LALAPVSVARGHQKKGIGGKLIVAALEKAKELGY
+GSVVVLGHPE--------------------------------YYPKFGFKKASEWNIKVP----------
+EEVFMIME-----------*
+>P1;gi|29249645|gb|EAA41152.1| GLP_38_12750_13394 [Giardia lamblia A... [ score 50 E 2e-05 ] [ range 29 .. 102 ]
+sequence
+-----------------------------------------------------IKYFLLKW-PQL--TYV
+CSVAG-KVVGYVMGKIDDED----------NPKQAHGHITSVAVHRDYRGMGIAEALMQQVLQEMRTT--
+----------------------------------------------------------------------
+-------------------*
+>P1;gi|15678804|ref|NP_275921.1| conserved protein [Methanothermobac... [ score 50 E 3e-05 ] [ range 6 .. 131 ]
+sequence
+------MVRNAR-----------EEDFLAIAELAHECP--PMVTERNSIYHIFTRFFSTT-------SFI
+AEDGD-EIVGFLLG------FISQD-------NPSEAYIHLLCVSPSLRGTGIAGRLLERFAGTVKGM-G
+AREIYLITKD----------------------------RAIRFYLKNGFKPV------------------
+-------------------*
+>P1;gi|21222881|ref|NP_628660.1| putative acetyltransferase [Strepto... [ score 49 E 3e-05 ] [ range 44 .. 161 ]
+sequence
+----------------------------------------------------------------------
+--VRP-ELLKHLTGMAEGRTRL----LVGHDEEGRVAALYTVMVHPRHQGRGYGRDLMTAAAEAARTCDG
+IEAIRLTCRG----------------------------GLERFYESCGYKEVGPGAIRVA----------
+PG-----------------*
+>P1;gi|23475227|ref|ZP_00130516.1| COG0456: Acetyltransferases [Desu... [ score 49 E 3e-05 ] [ range 25 .. 146 ]
+sequence
+-------FYRLS-----------AEDSAEIVALEKMCF-------ATPWTKEQFELAFTQN-VFA--VFG
+LRLSE-TLVAYI--------AIYHAAGELEILN--------IATHPAHRRNGYACKLLSMMLQVAARMGI
+EKAILEVRRS----------------------------NLIRLYERLGFEPAG-----------------
+-------------------*
+>P1;gi|18312168|ref|NP_558835.1| N-acyltransferase [Pyrobaculum aero... [ score 49 E 3e-05 ] [ range 24 .. 157 ]
+sequence
+-------IREAT-----------LKDLNDIISINRKVL--PENY----PNWFFVEH-LEQF-PKA--FIV
+AEIEG-KVVGYVMS------RVEYGWSNIHRGKARKGHIVSVGVLPEARRLGIATAMMLRAMKAMKVYYG
+ASEVYLVSNT----------------------------PAISLYEKLGYKVVG-----------------
+-------------------*
+>P1;gi|22975122|ref|ZP_00021173.1| COG3153: Predicted acetyltransfer... [ score 49 E 3e-05 ] [ range 20 .. 144 ]
+sequence
+--------RTER-----------PEDVETIAQLTEAAF--RGETHSSHTEAFIINLRRAGC-LTL--SLV
+AEDES-GIVGHVAAS-----PVTISS-----GNSGWYGIGPVSVLPDRQRRGIGSVLMLAALDELRRL-G
+ARGCVVLGEP----------------------------A---YYGRFGFQA-------------------
+-------------------*
+>P1;gi|17530631|ref|NP_511229.1| unknown [IncN plasmid R46] >gi|1518... [ score 49 E 4e-05 ] [ range 86 .. 154 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------KGEAAYLHKLAVRRTHAGRGVSSALIEACRHAARTQGC
+A-KLRLDCHP----------------------------NLRGLYERLGFTHVDSLSIPAG----------
+-------------------*
+>P1;gi|22299225|ref|NP_682472.1| ORF_ID:tlr1682~hypothetical protein... [ score 49 E 4e-05 ] [ range 74 .. 159 ]
+sequence
+----------------------------------------------------------------------
+---------SFLVISMWEQRGAYRRLIGFSRATSDHATIWDVVVHPEFQGRGLGKELMRQIIKELRSEDI
+SN-ITLFADP----------------------------HVVDFYRQLGFRP-------------------
+-------------------*
+>P1;gi|15640675|ref|NP_230304.1| acetyltransferase, putative [Vibrio... [ score 49 E 4e-05 ] [ range 19 .. 158 ]
+sequence
+-------IRTEA-----------PADILVVDQLLKNVF--TEAEADLVMALRENGQRLVAC-DD------
+---EG-EIVGHVMFS-----PVTLEGEDL-----NWQGLAPLAVKEEYRRQGIGAELVKEGLSSLGELGY
+PACVVL--GD----------------------------P--AYYSRFGFEDAARCAWDVP----------
+QGAFQ--------------*
+>P1;gi|43273124|gb|EAD02316.1| unknown [environmental sequence] [ score 49 E 4e-05 ] [ range 64 .. 142 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------HKISSDVYQIRYFAVHKDYRKKGLGKHLMKD-LEEIAIEKN
+STYIILNARE----------------------------GAINFYKKLGYKILKKTFLLYG----------
+KIQHYEM------------*
+>P1;gi|14318503|ref|NP_116637.1| involved in UDP-N-acetylglucosamine... [ score 49 E 4e-05 ] [ range 79 .. 152 ]
+sequence
+----------------------------------------------------------------------
+-------------GNIIIERKIIHEGLCGHIED--------IAVNSKYQGQGLGKLLI-DQLVTIGFDYG
+CYKIILDCDE----------------------------KNVKFYEKCGFSNAG-----------------
+-------------------*
+>P1;gi|39937717|ref|NP_949993.1| possible acetyltransferase [Rhodops... [ score 49 E 6e-05 ] [ range 3 .. 133 ]
+sequence
+-------IRPAT-----------TADFDALRAIELAAF--ETVSGSASASTDQQLQRYLDH-GLL--DVA
+CDQSG-EPIGF-CGGYIAESFL---------------HIGEMDVHPAWQRQGVGRRLLTALLEEARARK-
+ADGATLTT-D----------------------------RLVPFYASLGFRP-------------------
+-------------------*
+>P1;gi|21230167|ref|NP_636084.1| acetyltransferase [Xanthomonas camp... [ score 49 E 6e-05 ] [ range 84 .. 148 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------SLYVQPQARGQGIGEALVTHCVQAAAHLGV
+AA-LYLYCQP----------------------------ALVPYYQRLGWQALGPLQIVV-----------
+-------------------*
+>P1;gi|21219759|ref|NP_625538.1| putative acetyltransferase [Strepto... [ score 49 E 6e-05 ] [ range 7 .. 129 ]
+sequence
+--------RPAV-----------ADDLDAVLAFWKTA-----AEGTSSDDRDGVERLVARD-PEA--LLL
+AEREG-ELVGTVIAGF----------------DGWRCHLYRLAVHPDHRRRGIGSALLTAADERFVRLGG
+RRGMVLVRNE----------------------------QAQHAWRAAGYEPQ------------------
+-------------------*
+>P1;gi|26989359|ref|NP_744784.1| acetyltransferase, GNAT family [Pse... [ score 48 E 7e-05 ] [ range 4 .. 147 ]
+sequence
+--------RTLT-----------PDDLPQACALCMDAF--MQAVAPT-LSAQGIETFTVSA-PQL--MLA
+CFVEG-AIAGLI-----------------ELKEGRHIAM--LFIAPGLQRQGIGKRLMNAALEHASAEVV
+TVKASLSS--------------------------------VPAYQRYGFTLAGDVG-EFA----------
+GLVYQPMEKRL--------*
+>P1;gi|15897047|ref|NP_341652.1| N-terminal acetyltransferase comple... [ score 48 E 7e-05 ] [ range 11 .. 88 ]
+sequence
+-------------------------DLDQIFQIETESF-----EDPYPYSL--LRAYLFLA-NKL--YLV
+AKQRE-KVVGYIIGI---------------IQYGYRGHIVSIAVEPIYRKQGIGAKLLN-----------
+----------------------------------------------------------------------
+-------------------*
+>P1;gi|16804180|ref|NP_465665.1| similar to unknown protein [Listeri... [ score 48 E 9e-05 ] [ range 2 .. 135 ]
+sequence
+------QIRLSK-----------REDAASMIELEHLVW--TPGTTPGDIHFDSEAEFLLKS-PPG--SIV
+VVTDD-KVVG-ILGYK---SPIPLAS-NKHVAEID------IAVHPDYQRAGIGQLLMDKMKEVAREKGY
+IKIAVLSINQ----------------------------KAIRFYEKNGFKQEG-----------------
+-------------------*
+>P1;gi|23051957|ref|ZP_00078650.1| COG0456: Acetyltransferases [Meth... [ score 47 E 1e-04 ] [ range 1 .. 84 ]
+sequence
+------MIRRFA-----------PEDFQEVIEIESEAF----SEHNSLLYM----SFYETV-GDG--FLI
+AEQDG-KVMGYVVGYRSGE---------------NEGHIFSIGVKEEYRGRGIGTSLI------------
+----------------------------------------------------------------------
+-------------------*
+>P1;gi|15679017|ref|NP_276134.1| N-terminal acetyltransferase comple... [ score 47 E 1e-04 ] [ range 3 .. 120 ]
+sequence
+-------IREFR-----------PQDLKVVLKIERDSF--MD---PYPAHLLRDIYNLG----AG--FLV
+AQEDG-KVVGFII--FWI--RFEDEG-----------HIISLAVDKDYRRRGVGAALVMTAISHIKNIKL
+EVRAR---NK----------------------------GAIKFYRALGF---------------------
+-------------------*
+>P1;gi|28261215|gb|AAO31975.1| glucose 6-phosphate N-acetyltransfera... [ score 47 E 1e-04 ] [ range 120 .. 199 ]
+sequence
+----------------------------------------------------------------------
+---------------IIGTATLLVEPKLLHQ--GSFVHIEDVVIDKKYRGLGLGKLLITHLVHRANCY--
+--KVILDCSD----------------------------ENVGFYEKCGLEHHGNC---------------
+-------------------*
+>P1;gi|43973146|gb|EAG43445.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 20 .. 152 ]
+sequence
+--------------------------LTKIFILNQENT--PEVG-----SLNSIEH-LKQL-IQL--SSY
+QFKED-EIIGFTICFKENSSYDSLNYKFFSDTESKFIYIDRIAIKDSFRRKGIGKSFYN-YIEQIV---I
+EEKIPLCCEV----------------------------NTIPFHKKLGFKQVG-----------------
+-------------------*
+>P1;gi|44096453|gb|EAH10743.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 59 .. 121 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------DELHITAVAVDPDMRRSGYGGVLLKALLQRARQLGA
+VHATLEVASD----------------------------NVLALYAKAGFHTAG-----------------
+-------------------*
+>P1;gi|13542047|ref|NP_111735.1| Acetyltransferase [Thermoplasma vol... [ score 47 E 2e-04 ] [ range 9 .. 122 ]
+sequence
+------------------------QDLCAVARLEVRSF---EIGPYDKEYLREV---LENA-SSI--SYI
+AQISD-KIVGYIV------------AMPL---NSQEIDIESIATDPDFRKRSIGTRLIARIENESKSLGY
+RNIILEVRKE----------------------------NIISFYSRLGF---------------------
+-------------------*
+>P1;gi|2995389|emb|CAA63806.1| hypothetical protein [Zymomonas mobilis] [ score 47 E 2e-04 ] [ range 57 .. 123 ]
+sequence
+----------------------------------------------------------------------
+---------------------------SFHHLEGHKKRIRRVAVSPEYRGQGLGSALLKHAMEKL-VTPD
+LTEIWLNARL----------------------------PAQNFYRRLGFETMG-----------------
+-------------------*
+>P1;gi|14521872|ref|NP_127348.1| N-terminal acetyltransferase [Pyroc... [ score 47 E 2e-04 ] [ range 52 .. 141 ]
+sequence
+-------------------------------------------------------TFLESN-PDT--FLV
+AEYNG-KVVGYVMGYL-------RPDMEGH--------IMSIAVDPSYRGNGIGKALMIAVINKLF-KKG
+ARWIVRVSNT----------------------------IAINLYKKLGFK--------------------
+-------------------*
+>P1;gi|600711|gb|AAC36945.1| putative [ score 47 E 2e-04 ] [ range 27 .. 138 ]
+sequence
+------------------------------------SY--IESTKVCLEDAKECHYYKPV---------G
+LYYEG-DLVGFAMYGLFPE---YDED----NKNGR-VWLDRFFIIERYQGKGLGKKMLKALIQHLAELYK
+CKRIYLSIFE----------------------------NNIHLYQRFGFQFNG-----------------
+-------------------*
+>P1;gi|17228816|ref|NP_485364.1| hypothetical protein [Nostoc sp. PC... [ score 47 E 2e-04 ] [ range 8 .. 137 ]
+sequence
+-------IRCET-----------DADYLAISEVNNLSF---GQENETQL-IDEIRISEFYI-PEL--SLI
+YEINH-IVVWHILFSYI--ELVGEENL-------QVLGLAPMAVHPEFQRKGIGSALVKTGLEKADARGE
+SLVIVL--------------------------------GYPQFYSRFGFIPSVNCKI-------------
+-------------------*
+>P1;gi|23012522|ref|ZP_00052586.1| COG3153: Predicted acetyltransfer... [ score 47 E 2e-04 ] [ range 41 .. 121 ]
+sequence
+--------------------------------------------------------------PAL--ALS
+AEQDG-TLVGTV--RLWDVET------ACGRP---ALLLGPLAVDPALQGQGLGAALMRAAI--ARAAEL
+GHGAVLLVGD----------------------------A--PYYARFGF---------------------
+-------------------*
+>P1;gi|30263445|ref|NP_845822.1| acetyltransferase, GNAT family [Bac... [ score 47 E 2e-04 ] [ range 11 .. 131 ]
+sequence
+-------------------------DYRKTEEVVKEAF--LHEESDKKEHVKRIRECDAFV-PEL--SIV
+A-VDE-AIVGHIMLSKIKQDGTSEESLALA----------PVSVARGHQKKGIGGKLIVAALEKAKELGY
+GSVVVLGHPE--------------------------------YYPKFGFK--------------------
+-------------------*
+>P1;gi|43959619|gb|EAG36081.1| unknown [environmental sequence] [ score 47 E 2e-04 ] [ range 59 .. 121 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------DELHITAMAVDPDRRRSGHGGVLLEALLQRARQQGA
+VHATLEVARD----------------------------NVLAFYAKAGFRTAG-----------------
+-------------------*
+>P1;gi|13540845|ref|NP_110533.1| N-terminal acetyltransferase comple... [ score 47 E 2e-04 ] [ range 7 .. 128 ]
+sequence
+----AGTIREFS-----------PKDIESVYRI-AQTS--LTEYYTQALILDLHREW-----PES--FMV
+YTVAG-SVVGFIVGSKYSRTE---------------ARILLFAVDERFRRMGVGSALMDAFLSLCRNMLS
+VRLEVRTDND----------------------------EAIRFYKKYGF---------------------
+-------------------*
+>P1;gi|16119372|ref|NP_396078.1| AGR_pAT_bx82p [Agrobacterium tumefa... [ score 47 E 2e-04 ] [ range 90 .. 145 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------IAVHPDHQGRGLGKTIMQTIMSYVSRLPV
+SAYVSLIADV----------------------------PANKLYEKFGFKETAP----------------
+-------------------*
+>P1;gi|22971055|ref|ZP_00018054.1| hypothetical protein [Chloroflexu... [ score 47 E 2e-04 ] [ range 4 .. 130 ]
+sequence
+------MIRPET-----------ADDFNAIYLINQLAF-----NRENEAHLVE-ELRSAGA-IIL--SLV
+AQMED-RIVGHILFS-----PVVITDADAH---WQAVGLGPMAVLPQLQHRGIGSALIHAGLAELNKL-G
+HDVVVVLGHP-------------------------------GFYPRFGFKPSKP----------------
+-------------------*
+>P1;gi|37521920|ref|NP_925297.1| hypothetical protein gvip324 [Gloeo... [ score 46 E 2e-04 ] [ range 89 .. 143 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------NATIWDVVVHPEFQGKGLGRAMMDRIVAELRAADI
+SN-ITLFADP----------------------------HVVDFYRRLGF---------------------
+-------------------*
+>P1;gi|45511893|ref|ZP_00163460.1| hypothetical protein Selo200601 [... [ score 46 E 2e-04 ] [ range 26 .. 77 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------LAVEPDYRGQGIGKALMVAAIARAQAEGG
+RRLIVATGNS----------------------------SLDPFYQKLGF---------------------
+-------------------*
+>P1;gi|31210247|ref|XP_314090.1| ENSANGP00000010371 [Anopheles gambi... [ score 46 E 3e-04 ] [ range 38 .. 174 ]
+sequence
+----------------------------------------------CPDDLEEVR---TLC-QDW--FLS
+WYVDG-LIVAEIKSSKLNKEDIIPESMG---RDAEIGYILSLGVHRKYRQNGIGSLLLDSLINHLTTAE-
+RHKVVLTTNR----------------------------TAILFYERRGF---------------------
+-------------------*
+>P1;gi|44241086|gb|EAH89087.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 11 .. 161 ]
+sequence
+--------RAIT-----------PQDWDAILQIQEECY-----SQLDPEPLHVLQSKWHVS-PQS--CFV
+FEVNE-SVVGYCLAHPWTTEPIT------HLPKADTLYLHDIAISAKAQGLGAGSKALMR-LKQLADRFN
+LSSLSLVAVQ----------------------------GADSYWRKMGFKPKAIEKC-LG----------
+SYTDDAMY-----------*
+>P1;gi|44563269|gb|EAK13024.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 62 .. 124 ]
+sequence
+----------------------------------------------------------------------
+------------------------------REIGNTVKLERFAVLKNYRNKGIGRKLTMFIIDKI---PQ
+GKIIFLNSQE----------------------------SAIGFYSKLGFTSKGP----------------
+-------------------*
+>P1;gi|45505767|ref|ZP_00158136.1| hypothetical protein Avar513901 [... [ score 46 E 3e-04 ] [ range 24 .. 78 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------NATIWDVVVHPDFQGKGLGKALMKYVLKKLRSEEI
+SN-VTLFADP----------------------------HVVDFYRTMGF---------------------
+-------------------*
+>P1;gi|23123634|ref|ZP_00105704.1| COG0454: Histone acetyltransferas... [ score 46 E 3e-04 ] [ range 113 .. 167 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------NATIWDVVVHPDFQSQGLGKALMKYVLKKLRSEEI
+SN-VTLFADP----------------------------HVVDFYRTMGF---------------------
+-------------------*
+>P1;gi|30468216|ref|NP_849103.1| GNAT family acetyltransferase [Cyan... [ score 46 E 3e-04 ] [ range 84 .. 139 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------NATIWDVVIHPDYQRQGLGKYLVYQMIRLVKRQDI
+-RHITLFAES----------------------------RALSFYQHLGFE--------------------
+-------------------*
+>P1;gi|19113038|ref|NP_596246.1| N-acetyltransferase [Schizosaccharo... [ score 46 E 4e-04 ] [ range 33 .. 126 ]
+sequence
+------------------------------------------------------RYFVHQW-PEF--SFV
+ALDND-RFIGAVI-CKQD----------VHR--GTTLYIAMLAIVKEYRGQGIATKLTQASLDVMKNR-G
+AQEIVLETEE----------------------------AAMSFYERLGF---------------------
+-------------------*
+>P1;gi|15642733|ref|NP_232366.1| conserved hypothetical protein [Vib... [ score 45 E 4e-04 ] [ range 34 .. 128 ]
+sequence
+----------------------------------------------------------------------
+----------------IGSERDEYDSMSHHRSRGYPMAIGRLYITPDCRSKGMGSLILVA-LESLARQEG
+AKRLVCNARE----------------------------DAIPFYAKNGFERRG-----------------
+-------------------*
+>P1;gi|41689711|ref|ZP_00146244.1| hypothetical protein Psyc121901 [... [ score 45 E 4e-04 ] [ range 12 .. 143 ]
+sequence
+-------FDELT-----------SVDLYHILKARSQVF--V-VEQNCPQDMDEVDF---DC---L--HLV
+AHQNE-QLIGY---CRII-PPVFNTKKSVVTPSGPIPSIGRVLVLAAHRGDGVARQMMLEAIKYCRKKYG
+KKPIIISAQT----------------------------YLLHFYQSLGFIAEG-----------------
+-------------------*
+>P1;gi|43011176|gb|EAB72362.1| unknown [environmental sequence] [ score 45 E 4e-04 ] [ range 97 .. 148 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------MAIDPAFQGEGLGHKLLSHCIHWARSK-G
+AKYIVLTTND----------------------------ILKPVYEKAGF---------------------
+-------------------*
+>P1;gi|23052509|ref|ZP_00079148.1| COG0454: Histone acetyltransferas... [ score 45 E 5e-04 ] [ range 70 .. 143 ]
+sequence
+----------------------------------------------------------------------
+----G-QYIGYCIST-INKEMI-----------GE---IDSLYVEKEYRKQGIGSQLMERALEWLDTNKV
+NSKIVAVGDE----------------------------NVIDFYNHYGFH--------------------
+-------------------*
+>P1;gi|32421499|ref|XP_331193.1| hypothetical protein [Neurospora cr... [ score 45 E 5e-04 ] [ range 54 .. 169 ]
+sequence
+-----------------------------------RAL--ISKDLSEPYSIYVYRYFLYQW-GHL--CFM
+ALVDS-SLIGVIICKL--------EPHASHSPPTLRGYIAMLAVSSQHRGHGIATELVRRAIDAM-AQRD
+ADEIVLETEE----------------------------TNIPLYERLGF---------------------
+-------------------*
+>P1;gi|20807038|ref|NP_622209.1| Acetyltransferases [Thermoanaerobac... [ score 45 E 5e-04 ] [ range 69 .. 128 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------HITNIAVHPEYRGKGIGSRLMEGLIDLAKKNGI
+TSMTLEVRES----------------------------NLVALYKKFGFKVLG-----------------
+-------------------*
+>P1;gi|37521632|ref|NP_925009.1| probable ribosomal-protein-alanine ... [ score 45 E 5e-04 ] [ range 70 .. 132 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------DEAHLAMLVVHPECRRRGVGTALLHGLLRWAREV-G
+ARRMTLASNA----------------------------AAISLYCRFGFETLG-----------------
+-------------------*
+>P1;gi|44549956|gb|EAK03531.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 69 .. 125 ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------IQDVIIHPEHQNKGLGSKIMNTLIAHLECAPG
+ATIGLLAAHG----------------------------K-ESFYLKFGFKPR------------------
+-------------------*
+>P1;gi|45509941|ref|ZP_00162273.1| hypothetical protein Avar006901 [... [ score 45 E 6e-04 ] [ range 11 .. 71 ]
+sequence
+----------------------------------------------------------------------
+------------------------------------AHITILAVHPQYHHQGLGQALLY-FLLRTASDRG
+LERATLASNE----------------------------AAISLYQKFGFQTAG-----------------
+-------------------*
+>P1;gi|16132128|ref|NP_418727.1| hypothetical protein b4307 [Escheri... [ score 45 E 6e-04 ] [ range 15 .. 134 ]
+sequence
+-------------------------DASDIREVETRAF--FSKEADLVASLLEDE---SAR-PAL--SLL
+ARYEG-KAVGHILFTRFKGEM-----------DSPLMHILALAVIPEYQGMGVGGRLIRTGIEHLRLMGC
+QTVFVL--------------------------------GHATYYPRHGFE---PCA--------------
+-------------------*
+>P1;gi|27803012|emb|CAD60715.1| unnamed protein product [Podospora a... [ score 45 E 7e-04 ] [ range 32 .. 147 ]
+sequence
+-----------------------------------RAL--ISKDLSEPYSIYVYRYFLYQW-GHL--CYL
+AIEDS-SLVGVIICKL--------EAHASHSPPTLRGYIAMLAVSSAYRGHGVATTLVKMAIDSMKSRN-
+ADEVVLETEE----------------------------TNIPLYERLGF---------------------
+-------------------*
+>P1;gi|23055971|ref|ZP_00082040.1| COG0454: Histone acetyltransferas... [ score 45 E 7e-04 ] [ range 5 .. 119 ]
+sequence
+-----------------------------------------------PFYPDDVSLFLAL---AA--AEG
+WISDP-WEFAFICGCLAVEENGRPVAFATAVRYGASGWIGNLIVAEEYRGRGYGTLLMGRAMDQLLD-SG
+ARTVWLTASA----------------------------QGRPLYEKMGFREM------------------
+-------------------*
+>P1;gi|29346883|ref|NP_810386.1| conserved hypothetical protein [Bac... [ score 45 E 8e-04 ] [ range 4 .. 132 ]
+sequence
+---PTIHLRQAK-----------AGDIPAILEIEQECF--QEDS----FSREQFVYLICRS-KGT--FYV
+VVEQE-RIIAYV-------------SLLFH-AGTRYLRIYSIAVHPDCRGRKLGQLLMERTIETLDC---
+--RAVKITLE----------------------------PAIKLYMKNGFIPVG-----------------
+-------------------*
+>P1;gi|16800914|ref|NP_471182.1| similar to unknown proteins [Lister... [ score 45 E 8e-04 ] [ range 3 .. 126 ]
+sequence
+-------IRKEQ-----------PQDYEAIRRVNEEAF--KTVEADLIQNIRKSDYYQ----PGL--SLV
+AETED-GLVGYIMFSEISLETAGRSRFIL--------GLAPLAVLPEYQGKRVGSSLMEEGIRLSREKAY
+PAIAVLGHAD--------------------------------YYPRFGF---------------------
+-------------------*
+>P1;gi|15616391|ref|NP_244696.1| BH3829~unknown conserved protein [B... [ score 44 E 0.001 ] [ range 7 .. 143 ]
+sequence
+--------RPYT-----------LADFDGLLEVQKEAF--PP---PFPEELAQIAAHVESF-PEG--AMV
+AVIRD-KIVGSATSLLIDGKPHTWEEVSSHQPDGDSLYGIDLCVRPSFRGKGVARALYEARKQLVREL-G
+LTRFVAGCR-------------------------------IPGY--------------------------
+-------------------*

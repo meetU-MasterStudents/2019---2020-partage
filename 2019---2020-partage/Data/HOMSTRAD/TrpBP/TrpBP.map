@@ -1,0 +1,21 @@
+>P1;1c9sa
+structureX:1c9s:   7 :A:  75 :A:Trp ribonucleic acid-binding attenuation protein:Bacillus stearothermophilus: 1.90: 18.8
+SDFVVIKALEDGVNVIGLTRGADTRFHHSEKLDKGEVLIAQFTEHTSAIKVRGKAYIQTRHGVIESEGK*
+>P1;1wapa
+structureX:1wap:   8 :A:  75 :A:transcription attenuation protein mtrb:Bacillus subtilis: 1.80: -1
+-DFVVIKAVEDGVNVIGLTRGTDTKFHHSEKLDKGEVIIAQFTEHTSAIKVRGEALIQTAYGEMKSEKK*
+>P1;gi|1346599|sp|P48064|MTRB_BACPU Transcription attenuation protei... [ score 118 E 4e-26 ] [ range 7 .. 75 ]
+sequence
+SDFVVIKAIDNGVNVIGLTRGSDTRFHHSEKLDKGEVIIAQFTEHTSAIKVRGDAVIQTSFGEIQSEAK*
+>P1;gi|15614210|ref|NP_242513.1| tryptophan operon RNA-binding atten... [ score 117 E 5e-26 ] [ range 7 .. 74 ]
+sequence
+SNFFVIKAKENGVNVFGMTRGTDTRFHHSEKLDKGEVMIAQFTEHTSAVKIRGKAIIQTSYGTLDTEK-*
+>P1;gi|23099246|ref|NP_692712.1| tryptophan operon RNA-binding atten... [ score 116 E 1e-25 ] [ range 8 .. 74 ]
+sequence
+AEYFIIKALENGVNVMGLTRGHDTRFHHTEKLDQGEVMIAQFTEHTSAIKVRGKALIQTSHGEITNE--*
+>P1;gi|23020416|ref|ZP_00060118.1| hypothetical protein [Clostridium... [ score 114 E 5e-25 ] [ range 17 .. 81 ]
+sequence
+-DYIVIKAEENGVNIIGLTRGKDTKFHHTEKLDKGEVLIAQFTDNTSAIKIRGKARILSRHGEVYS---*
+>P1;gi|45528973|ref|ZP_00180130.1| hypothetical protein Mther193701 ... [ score 112 E 2e-24 ] [ range 10 .. 75 ]
+sequence
+ADFIVIKALENGVTIIGLTRGRDTKFHHSEKLDKGEIMIAQFTEHTSAMKIRGRALVMTKYGSLEA---*

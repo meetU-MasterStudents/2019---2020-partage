@@ -1,0 +1,2375 @@
+>P1;1qbha
+structureX:1qbh: 263 :A: 363 :A:inhibitor of apoptosis (IAP) repeat:Homo sapiens: -1: -1
+---------------------------------GSHMQTHAARMRTFMYWPS--SVPVQPEQLASAGFYY
+VGR---NDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEFLIRMKGQ------EFVDEIQGRYPHLL--
+-----------EQLLSTS-------*
+>P1;1g73c
+structureX:1g73: 256 :C: 344 :C:XIAP-BIR3 domain bound to Smac:Homo sapiens: 2.00: 22.7
+------------------------------LPRNPSMADYEARIFTFGTWI----YSVNKEQLARAGFYA
+LGE---GDKVKCFHCGGGLTDWKPSEDPWEQHAKWYPGCKYLLEQKGQ------EYINNIHL--------
+-------------------------*
+>P1;1c9qa
+structureX:1c9q:   1 :A: 117 :A:BIR-2 domain of XIAP:Homo sapiens: -1: -1
+RDHFALDRPSETHADYLLRTGQVVDISDTIYPRNPAMYSEEARLKSFQNWPD--YAHLTPRELASAGLYY
+TGI---GDQVQCFACGGKLKNWEPGDRAWSEHRRHFPNCFFVLGRNLN------IRSE------------
+-------------------------*
+>P1;1f3ha
+structureX:1f3h:   5 :A: 140 :A:baculoviral IAP repeat-containing protein 5:Homo sapiens: 2.58: 22.8
+-----------------------------TLPPAWQPFLKDHRISTFKNWPFLEGCACTPERMAEAGFIH
+CPTENEPDMAQCFFCFKELEGWEPDDDPIEEHKKHSSGCAFLSVKKQFEELTLGEFLKLDRERAKNKIAK
+ETNNKKKEFEETAKKVRRAIEQLAA*
+>P1;gi|3914339|sp|O62640|PIAP_PIG Putative inhibitor of apoptosis >g... [ score 177 E 4e-44 ] [ range 87 .. 184 ] [ duplicate a ]
+sequence
+------------------------------------MQTYAARFKTFCNWPS--SIPVHPEQLASAGFYY
+MGH---SDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEYLIRIKGQ------EFISRVQASYPHLL--
+-----------EQLLSTS-------*
+>P1;gi|2497240|sp|Q90660|BIR_CHICK Inhibitor of apoptosis protein (I... [ score 169 E 1e-41 ] [ range 173 .. 242 ] [ duplicate c ]
+sequence
+------------------------------------MSTEEARLRTSHAWPL--MC-LWPAEVAKAGLDD
+LGT---ADKVACVNCGVKLSNWEPKDNAMSEHRRHFPNCPFV----------------------------
+-------------------------*
+>P1;gi|37359682|emb|CAE47763.1| SI:bZ1P14.6.2 (baculoviral IAP repea... [ score 169 E 1e-41 ] [ range 300 .. 397 ] [ duplicate a ]
+sequence
+----------------------------------SAMQQCEERLLTFVNWPS--RIPVRPDQLAKAGFYY
+VGR---NDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEYLLQEKGQ------EFVHQIQARFPRLF--
+-----------EQLLT---------*
+>P1;gi|14248546|gb|AAK57560.1| inhibitor of apoptosis protein [Bomby... [ score 152 E 2e-36 ] [ range 177 .. 263 ] [ duplicate a ]
+sequence
+----------------------------------ARYSTEAARLATFKDWPR--RMRQKPEELAEAGFFY
+TGQ---GDKTKCFYCDGGLKDWESDDVPWEQHARWFDRCAYVQLVKGR------DYIQKVKS--------
+-------------------------*
+>P1;gi|37651380|ref|NP_932639.1| inhibitor of apoptosis protein 3 [C... [ score 150 E 8e-36 ] [ range 110 .. 202 ] [ duplicate a ]
+sequence
+------------------------------------YSTESARLKTFVDWPV--SLKQKPEQLAEAGFYY
+TGK---GDRVKCFHCDGGLKDWESTDEPWEEHARWFDRCTYVRLVKGY------DYVQRVLSKACVIK--
+-----------KE------------*
+>P1;gi|37651380|ref|NP_932639.1| inhibitor of apoptosis protein 3 [C... [ score 150 E 8e-36 ] [ range 2 .. 73 ] [ duplicate b ]
+sequence
+----------------------------------SDMKDENARLATYVDWPV--SFLE-PSQMAANGFYY
+LRR---SDEVRCAFCKVEIMRWLEGDDPAVDHKRWAPQCPFV----------------------------
+-------------------------*
+>P1;gi|6635437|gb|AAF19819.1| inhibitor of apoptosis protein [Tricho... [ score 149 E 1e-35 ] [ range 205 .. 295 ] [ duplicate a ]
+sequence
+-----------------------------------RYASEAARLRSFKDWPR--CMRQKPEELAEAGFFY
+TGQ---GDKTKCFYCDGGLKDWENDDVPWEQHARWFDRCAYVQLVKGR------EYVQKVMTEACVI---
+-------------------------*
+>P1;gi|9634331|ref|NP_037870.1| ORF110 iap-3 [Spodoptera exigua nucl... [ score 147 E 5e-35 ] [ range 155 .. 250 ] [ duplicate a ]
+sequence
+--------------------------------------NYKDRLATFTDWPR--DIYQRPHDLASAGFFY
+TGR---NAEVRCFQSDCGLSDWEPTDEPWREHARWFPRCEYVIAVKGK------EYVQDSVSMACVIK--
+-----------ETLPSTS-------*
+>P1;gi|9634331|ref|NP_037870.1| ORF110 iap-3 [Spodoptera exigua nucl... [ score 147 E 5e-35 ] [ range 26 .. 101 ] [ duplicate b ]
+sequence
+----------------------------------SYKNSFQERLNSFSQWPV--WAKASPFYLALSGFYY
+IGR---GDEVRCAFCKVEIMNWREGDDPIVDHNRWAPQCKFAQNV-------------------------
+-------------------------*
+>P1;gi|9629973|ref|NP_046191.1| inhibitor of apoptosis protein 3 [Or... [ score 147 E 5e-35 ] [ range 107 .. 200 ] [ duplicate a ]
+sequence
+-----------------------------------QYATEAARLRTFAEWPR--GLKQRPEELAEAGFFY
+TGQ---GDKTRCFCCDGGLKDWEPDDAPWQQHARWYDRCEYVLLVKGR------DFVQRVMTEACVVR--
+-----------DA------------*
+>P1;gi|9629973|ref|NP_046191.1| inhibitor of apoptosis protein 3 [Or... [ score 147 E 5e-35 ] [ range 12 .. 84 ] [ duplicate b ]
+sequence
+---------------------------------GADMKNKAARLGTYTNWPV--QFLE-PSRMAASGFYY
+LGR---GDEVRCAFCKVEITNWVRGDDPETDHKRWAPQCPFV----------------------------
+-------------------------*
+>P1;gi|30387263|ref|NP_848342.1| inhibitor of apoptosis 3 [Choriston... [ score 146 E 1e-34 ] [ range 12 .. 83 ] [ duplicate b ]
+sequence
+----------------------------------ANMEDENARLATYTNWTV--EF-MSPRQMAANGFYY
+LGR---GDEVRCAFCKVEIMRWEAGDDPARDHQKWAPQCPFL----------------------------
+-------------------------*
+>P1;gi|15320683|ref|NP_203195.1| IAP-3 [Epiphyas postvittana nucleop... [ score 145 E 2e-34 ] [ range 7 .. 87 ] [ duplicate b ]
+sequence
+-----------------------------------DMKNEAVRLTTFVNWPV--TF-LTPEQMATNGFYY
+LGR---ADEVRCAFCKVEIMHWQEGDDPAKDHQKWAPHCPLIRNAHKQ------NELQ------------
+-------------------------*
+>P1;gi|27923008|dbj|BAC55952.1| HcIAP-3 [Hyphantria cunea nucleopoly... [ score 145 E 2e-34 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---------------------------------GVNMEFKSARLATYTNWPV--SYLE-PERMAASGFYY
+LGR---GDEVRCAFCKVEIMRWLEGDDPAVDHKRLAPQCPFI----------------------------
+-------------------------*
+>P1;gi|2497243|sp|Q24306|IAP1_DROME Apoptosis 1 inhibitor (Inhibitor... [ score 144 E 6e-34 ] [ range 223 .. 320 ] [ duplicate a ]
+sequence
+------------------------------------YAIETARLRTFEAWPR--NLKQKPHQLAEAGFFY
+TGV---GDRVRCFSCGGGLMDWNDNDEPWEQHALWLSQCRFVKLMKGQ------LYIDTVAAKPVLAE--
+-----------EKEESTS-------*
+>P1;gi|14602383|ref|NP_148801.1| ORF17 IAP-3 [Cydia pomonella granul... [ score 143 E 9e-34 ] [ range 105 .. 194 ] [ duplicate a ]
+sequence
+------------------------------------YAHEAARVKSFHNWPR--CMKQRPEQMADAGFFY
+TGY---GDNTKCFYCDGGLKDWEPEDVPWEQHVRWFDRCAYVQLVKGR------DYVQKVITEACVL---
+-------------------------*
+>P1;gi|14602383|ref|NP_148801.1| ORF17 IAP-3 [Cydia pomonella granul... [ score 143 E 9e-34 ] [ range 2 .. 82 ] [ duplicate b ]
+sequence
+----------------------------------SDLRLEEVRLNTFEKWPV--SF-LSPETMAKNGFYY
+LGR---SDEVRCAFCKVEIMRWKEGEDPAADHKKWAPQCPFV---KGI------DVCGSI----------
+-------------------------*
+>P1;gi|17863909|gb|AAL46972.1| inhibitor of apotosis protein 1-like ... [ score 139 E 1e-32 ] [ range 194 .. 287 ] [ duplicate a ]
+sequence
+-----------------------------------NYAIEAKRLESYEDWPK--FMKQKPKELSDAGFFY
+TGK---GDRVKCFSCGGGLKDWEAEDEPWEQHAMWYSNCEYLKLMKGE------EYIAQCLAKKDNPS--
+-----------DQ------------*
+>P1;gi|2497241|sp|Q60989|BIR4_MOUSE Baculoviral IAP repeat-containin... [ score 139 E 1e-32 ] [ range 261 .. 351 ] [ duplicate a ]
+sequence
+------------------------------------MAEYEARIVTFGTWTS--S--VNKEQLARAGFYA
+LGE---GDKVKCFHCGGGLTDWKPSEDPWEQHAKWYPGCKYLLDEKGQ------EYINNIH--LTHSL--
+-----------EESL----------*
+>P1;gi|22000680|gb|AAM88215.1| IAP-like protein [Xenopus laevis] [ score 139 E 2e-32 ] [ range 142 .. 236 ] [ duplicate a ]
+sequence
+------------------------------------MAEERDRLDSFRNWPM--YAHGNPEHLAGSGFFY
+TGH---RDNVKCFHCDGGLRNWEQGDDPWTEHAKWFPMCDFLLHVKGE------AFIRRVQESLFRSP--
+-----------ESSP----------*
+>P1;gi|11545910|ref|NP_071444.1| livin inhibitor of apoptosis isofor... [ score 139 E 2e-32 ] [ range 84 .. 174 ]
+sequence
+------------------------------------MGSEELRLASFYDWPL--TAEVPPELLAAAGFFH
+TGH---QDKVRCFFCYGGLQSWKRGDDPWTEHAKWFPSCQFLLRSKGR------DFVHSVQETHSQLL--
+-------------------------*
+>P1;gi|9964335|ref|NP_064803.1| inhibitor of apoptosis protein [Amsa... [ score 139 E 2e-32 ] [ range 6 .. 87 ] [ duplicate b ]
+sequence
+-----------------------------------NLYNESERLQTFENWPI--NF-ITPESFASNGFYY
+IGE---NDTVKCVYCGVQINKWVEGDKPEIDHKKFSPNCSFLKSNDGI------DECGN-----------
+-------------------------*
+>P1;gi|26245335|gb|AAN77586.1| neuronal apoptosis inhibitory protein... [ score 137 E 4e-32 ] [ range 139 .. 232 ] [ duplicate a ]
+sequence
+----------------------------------ARYHEEEARLESFEDWPY--AHGTSPRVLSAAGFVF
+TGK---RDTVQCFSCGGCLGNWEEGDDPWKEHAKWFPKCEFLQSKKSP------EEITQYVQSYEGFL--
+-------------------------*
+>P1;gi|26245335|gb|AAN77586.1| neuronal apoptosis inhibitory protein... [ score 137 E 4e-32 ] [ range 261 .. 357 ] [ duplicate b ]
+sequence
+-------------------------------------ANEELRMDTFKDWPH--ESPGAVEALVKAGLFY
+TGK---RDIVQCFSCGGCMEKWAEGDNPIEDHTKFFPNCVFLQTLKSS------AEVIPALQSHCALP--
+-----------EAMETTS-------*
+>P1;gi|3540252|gb|AAC34373.1| apoptosis inhibitor IAP-1 [Buzura supp... [ score 137 E 8e-32 ] [ range 104 .. 195 ] [ duplicate a ]
+sequence
+-----------------------------------QYATKTARLRTFENWPC--ALKQKPEQLADAGFFY
+TGQ---SDKTICFFCNGGLKDWEDGDEPWEQHARWFDNCIYVQLVKGR------DYVQNVISNACVI---
+-------------------------*
+>P1;gi|34853608|ref|XP_226743.2| similar to neuronal apoptosis inhib... [ score 136 E 8e-32 ] [ range 154 .. 247 ] [ duplicate a ]
+sequence
+----------------------------------ARYHEEEARLESFEDWPY--AHGTSPRVLSAAGFVF
+TGK---RDTVQCFSCGGCLGNWEEGDDPWKEHAKWFPKCEFLQSKKST------EEINQYIQSYTGFL--
+-------------------------*
+>P1;gi|34853608|ref|XP_226743.2| similar to neuronal apoptosis inhib... [ score 136 E 8e-32 ] [ range 276 .. 372 ] [ duplicate b ]
+sequence
+-------------------------------------ANEGLRMDTFKDWPH--ESSVAVEALVKAGLFY
+TGK---KDIVQCFSCGGCMENWKEGDDPIEDHTKFFPNCVFLQTLKSS------AEVIPALQSHCACP--
+-----------EAMETTS-------*
+>P1;gi|31199159|ref|XP_308527.1| ENSANGP00000009540 [Anopheles gambi... [ score 136 E 9e-32 ] [ range 111 .. 194 ] [ duplicate a ]
+sequence
+-----------------------------------NYAIEADRLKSYEDWPT--SLKQKPQQLSDAGFFY
+TGM---SDRVKCFSCGGGLKDWEQEDDPWQQHAIWYSNCHYLQLMKGR------EFIQKC----------
+-------------------------*
+>P1;gi|6753088|ref|NP_033818.1| baculoviral IAP repeat-containing 4;... [ score 136 E 1e-31 ] [ range 261 .. 351 ] [ duplicate a ]
+sequence
+------------------------------------MAEYEARIVTFGTWTS--S--VNKEQLARAGFYA
+LGE---GDKVKCFHCGGGLTDWKPSEDPWDQHAKCYPGCKYLLDEKGQ------EYINNIHLTHP--L--
+-----------EESL----------*
+>P1;gi|4758752|ref|NP_004527.1| baculoviral IAP repeat-containing 1;... [ score 136 E 2e-31 ] [ range 155 .. 248 ] [ duplicate a ]
+sequence
+-----------------------------------RYQEEEARLASFRNWPF--YVQISPCVLSEAGFVF
+TGK---QDTVQCFSCGGCLGNWEEGDDPWKEHAKWFPKCEFLRSKKSS------EEITQYIQSYKGFV--
+-----------D-------------*
+>P1;gi|4758752|ref|NP_004527.1| baculoviral IAP repeat-containing 1;... [ score 136 E 2e-31 ] [ range 55 .. 130 ] [ duplicate c ]
+sequence
+----------------------------------SQMRSEAKRLKTFVTYPY--SSWI-PQEMAAAGFYF
+TGV---KSGIQCFCCSLILFGAGLTRLPIEDHKRFHPDCGFLLNK-------------------------
+-------------------------*
+>P1;gi|34853492|ref|XP_226742.2| baculoviral IAP repeat-containing 1... [ score 135 E 2e-31 ] [ range 154 .. 247 ] [ duplicate a ]
+sequence
+----------------------------------ARYHEEEARLESFEDWPY--AHGTSPRVLSAAGFVF
+TGK---RDTVQCFSCGGCLGNWEEGDDPWKEHAKWFPKCEFLQSKKSA------EEIAKYIQTYEGFL--
+-------------------------*
+>P1;gi|34853492|ref|XP_226742.2| baculoviral IAP repeat-containing 1... [ score 135 E 2e-31 ] [ range 276 .. 372 ] [ duplicate b ]
+sequence
+-------------------------------------ANEGLRMDTFKDWPH--ESPMAVEALVKAGLFY
+TGK---KDIVQCFSCGGCMENWKEGDDPIEDHTKFFPNCVFLQTLKSS------AEVIPALQSHCARP--
+-----------EAMETTS-------*
+>P1;gi|32698628|ref|NP_872543.1| iap-3 [Adoxophyes orana granuloviru... [ score 135 E 2e-31 ] [ range 8 .. 95 ] [ duplicate b ]
+sequence
+-----------------------------------DMLKLSNRYKSFENWTL--KSPAS-HQLSICGFYY
+TGN---QDTTKCPYCNLEIEKWEADDDPFEEHFKFSPLCP--LLMSSL------NNRQPVHKKYC-----
+-------------------------*
+>P1;gi|26023795|gb|AAN77612.1| baculoviral IAP repeat-containing 1e ... [ score 133 E 9e-31 ] [ range 154 .. 243 ] [ duplicate a ]
+sequence
+----------------------------------ARYHEEEARLESFEDWPY--AHGTSPRVLSAAGFVF
+TGK---RDTVQCFSCGGSLGNWEEGDDPWKEHAKWFPKCEFLQSKKSS------EEIAQYIQSY------
+-------------------------*
+>P1;gi|26023795|gb|AAN77612.1| baculoviral IAP repeat-containing 1e ... [ score 133 E 9e-31 ] [ range 55 .. 128 ] [ duplicate c ]
+sequence
+----------------------------------SQMRSEAKRLKTFETYDT--FRSWTPQEMAAAGFYH
+TGV---RLGVQCFCCSLILFGNSLRKLPIERHKKLRPECEFLQ---------------------------
+-------------------------*
+>P1;gi|19569774|gb|AAL92171.1| inhibitor of apotosis protein 1-like ... [ score 133 E 9e-31 ] [ range 197 .. 290 ] [ duplicate a ]
+sequence
+-----------------------------------NYAIEAKRLECYEDWPK--FMKQKPKELSDAGFFY
+PGK---SDRVKCFSCGGGLKDWEAEDEPWEQHAMWYSNCEYLKLMKGE------AYIAQCLAKKESSS--
+-----------EQ------------*
+>P1;gi|20070018|ref|NP_613222.1| inhibitor of apoptosis-3 IAP-3 [Mam... [ score 132 E 1e-30 ] [ range 114 .. 214 ] [ duplicate a ]
+sequence
+-----------------------------------QYRTYQSRLTTFKEWPS--TIPVSPHELATAGFFY
+TGK---SDRVKCFACDGGLKEWTKGDDPFKLHARWFDRCSYVMKTKGE------EFIKSASGPSAPPQ--
+-----------EPLPSSS-------*
+>P1;gi|9082151|gb|AAF82752.1| neuronal apoptosis inhibitory protein ... [ score 132 E 1e-30 ] [ range 276 .. 372 ] [ duplicate b ]
+sequence
+-------------------------------------ANEELRMDTFKDWPH--ESPVAVDALVRAGLFY
+TGK---KGIVQCFSCGGCMEKCTEGDDPIQEHNKFFPNCIFLQTPKSS------AEVIPALLSHCALP--
+-----------EAMETTS-------*
+>P1;gi|26023804|gb|AAN77617.1| neuronal apoptosis inhibitory protein... [ score 132 E 2e-30 ] [ range 154 .. 243 ] [ duplicate a ]
+sequence
+----------------------------------ARYHEEEARLESFEDWPY--AHGTSPRALSAAGFVF
+TGK---RDTVQCFSCGGSLGNWEEGDDPWKEHAKWFPKCEFLQSKKSS------EEIAQYIQDY------
+-------------------------*
+>P1;gi|31199163|ref|XP_308529.1| ENSANGP00000016010 [Anopheles gambi... [ score 131 E 5e-30 ] [ range 54 .. 139 ]
+sequence
+-----------------------------------QYRIEGDRLATFKEWPK--SMPQTPERMADAGFFY
+TGK---SDVVACFYCGGNLRDWLAEDDPWVEHVRNFSECPYVKLVKTP------EFIAECRG--------
+-------------------------*
+>P1;gi|31199161|ref|XP_308528.1| ENSANGP00000016568 [Anopheles gambi... [ score 128 E 3e-29 ] [ range 25 .. 93 ] [ duplicate b ]
+sequence
+-----------------------------------NYNQEINRLRTFPLWTV--PYIY-PEELARWGFFY
+TGY---RDCVRCYFCHIELGGWDEHDVVIEEHLKWSPDC-------------------------------
+-------------------------*
+>P1;gi|32766697|gb|AAH55246.1| Birc4 protein [Danio rerio] [ score 125 E 2e-28 ] [ range 35 .. 114 ] [ duplicate c ]
+sequence
+-----------------------------------------NRVNSFQRFPY--SEDISAQRLARAGFYF
+TGE---GDRVQCFSCSATVQNWNRGDTPLERHQLASPDCRFLSCAHGM------RNSNSIQS--------
+-------------------------*
+>P1;gi|22549539|ref|NP_689312.1| putative IAP3 [Mamestra configurata... [ score 123 E 1e-27 ] [ range 116 .. 222 ] [ duplicate a ]
+sequence
+-----------------------------------QYRTYQSRFRTFKNWPV--TIPVSPHELATAGFFY
+TGQ---SDKVKCFACDGGLKEWTEGDDAFELHARWFDRCSYVMKIKGE------KYIRNAKGRNCPPQ--
+-----------EPLPSSS-------*
+>P1;gi|18138294|ref|NP_542729.1| iap-3 [Helicoverpa zea single nucle... [ score 122 E 1e-27 ] [ range 12 .. 86 ] [ duplicate b ]
+sequence
+------------------------------------LKTESYRYVTFANWPV--YYFMDCAKMAQAGFYY
+LNK---DDHVKCAFCKVEMMNWQHEDDPLEEHARWAPQCSYVKSI-------------------------
+-------------------------*
+>P1;gi|31206615|ref|XP_312274.1| ENSANGP00000002826 [Anopheles gambi... [ score 122 E 2e-27 ] [ range 232 .. 317 ]
+sequence
+-----------------------------------QMYSEAARRQTFEAWPH--YKWVLPDQMAQAGFYH
+QGN---KDRAMCFTCTVCLVCWEKTDEPWSEHERHSPECPFV---KG-------EFTQNV----------
+-------------------------*
+>P1;gi|12597588|ref|NP_075172.1| iap-3 [Heliocoverpa armigera nucleo... [ score 121 E 4e-27 ] [ range 112 .. 205 ] [ duplicate a ]
+sequence
+----------------------------------SSYITYENRLKSFDNWPQ--TLIILKSKLAEAGWVY
+TGK---DDITICFHCGGKLSNWTLTHEPWREHARWYRNCDFVVSEKGK------DFVQTVITEACVEK--
+-----------E-------------*
+>P1;gi|9629979|ref|NP_046197.1| inhibitor of apoptosis protein 1 [Or... [ score 119 E 1e-26 ] [ range 26 .. 90 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFEDYPI--DNDAFVNSLIVNGFRY
+THV---DDAVVCEYCGVVIKNWRENDVVEFVHATLSPYCVY-----------------------------
+-------------------------*
+>P1;gi|23577874|ref|NP_703017.1| inhibitor of apoptosis - 1 [Rachipl... [ score 119 E 2e-26 ] [ range 128 .. 210 ]
+sequence
+------------------------------------MSNLQSRMDTFVNWPG--ALRDMITNIAEAGFFY
+TGR---GDETVCFFCDCCVRDWHTNEDAWQRHVTENPQCYFVLSVKGK------EFCQN-----------
+-------------------------*
+>P1;gi|15320690|ref|NP_203202.1| IAP-1 [Epiphyas postvittana nucleop... [ score 117 E 4e-26 ] [ range 30 .. 94 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENYPI--DNVAFVNSLIINGFRY
+QNV---DDAVMCEYCSAVIKNWHEDDCVEFVHATLSPYCVY-----------------------------
+-------------------------*
+>P1;gi|27923004|dbj|BAC55950.1| HcIAP-1 [Hyphantria cunea nucleopoly... [ score 117 E 5e-26 ] [ range 26 .. 90 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENYPI--DNDAFINSLIVNGFRY
+AHV---DDAVMCEYCGVVIKNWHEDDSVEFVHATLSPYCVY-----------------------------
+-------------------------*
+>P1;gi|33320380|gb|AAQ05892.1| inhibitor of apoptosis 1 [Bombyx mori... [ score 117 E 5e-26 ] [ range 128 .. 210 ]
+sequence
+------------------------------------MSNLQSRMDTFVNWPA--ALRDMIINIAEAGLFY
+TGR---GDETVCFFCDCCVRDWHTNEDAWQRHATENPQCYFVLSVKGK------EFCQN-----------
+-------------------------*
+>P1;gi|9630835|ref|NP_047432.1| IAP1=AcMNPV orf27 [Bombyx mori nucle... [ score 117 E 5e-26 ] [ range 128 .. 210 ]
+sequence
+------------------------------------MSNLQSRMDTFVNWPA--ALRDMITNIAEAGLFY
+TGR---GDETVCFFCDCCVRDWHINEDAWQRHATENPQCYFVLSVKGK------EFCQN-----------
+-------------------------*
+>P1;gi|37651379|ref|NP_932645.1| inhibitor of apoptosis protein 1 [C... [ score 117 E 7e-26 ] [ range 29 .. 93 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENFPI--DNTALVNSLIVNGFRY
+EHV---DDAVACEYCNVVIKNWREDDCVEFVHATLSPYCVY-----------------------------
+-------------------------*
+>P1;gi|9627769|ref|NP_054056.1| apoptosis inhibitor [Autographa cali... [ score 116 E 1e-25 ] [ range 128 .. 210 ]
+sequence
+------------------------------------MSNLQSRMDTFVNWPA--ALRDMITNIAEAGLFY
+TGR---GDETVCFFCDCCVRDWHTNEDTWQRHAAENPQCYFVLSVKGK------EFCQN-----------
+-------------------------*
+>P1;gi|22788840|ref|NP_690554.1| inhibitor of apoptosis protein [Hel... [ score 116 E 1e-25 ] [ range 23 .. 99 ]
+sequence
+------------------------------------------RLKSFSRWPV--GLQQCPVSLAEAGFFY
+SNM---CDEVQCYLCGVRISKWLPEDDPWIQHAKCSKNCRFLLRIKGV------DFVYNI----------
+-------------------------*
+>P1;gi|30387269|ref|NP_848348.1| inhibitor of apoptosis 1 [Choriston... [ score 114 E 3e-25 ] [ range 26 .. 90 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENYPI--NDDAFVSSLIVNGFRY
+AHV---DDAVVCEYCGVVIKNWCEDDIVEFVHATLSPYCVY-----------------------------
+-------------------------*
+>P1;gi|22788843|ref|NP_690557.1| inhibitor of apoptosis protein IAP ... [ score 114 E 5e-25 ] [ range 86 .. 173 ]
+sequence
+-----------------------------------QYRYFKSRLDSFGNWSV--FKRPTPIALAEAGFFY
+AGM---VDCTKCFYCDGGLNDWNPCDDPWEQHAIHFDRCVFLLYKKGP------LYVESIKKR-------
+-------------------------*
+>P1;gi|21686751|ref|NP_663251.1| inhibitor of apoptosis 1 [Phthorima... [ score 114 E 5e-25 ] [ range 72 .. 151 ]
+sequence
+-----------------------------------------ARLESFETWPV--GLKQKPAELADAGLYY
+TGC---GDRCLCFACGVELENWLPDEDVWTKHALETDKCTHIILSKGD------EFVKSVKK--------
+-------------------------*
+>P1;gi|9631411|ref|NP_048319.1| ORF MSV248 putative inhibitor of apo... [ score 112 E 1e-24 ] [ range 15 .. 93 ]
+sequence
+--------------------------------------TLQSRINSYENWPI--SLFFKINRLCEAGFFY
+TNI---GDITVCFNCGLKIKNWLYYNDPWIEHSKWSPNCNYIIFNKGK------KFIN------------
+-------------------------*
+>P1;gi|21842285|gb|AAM77747.1| BIR-containing ubiquitin-conjugating ... [ score 112 E 1e-24 ] [ range 245 .. 328 ]
+sequence
+------------------------------------MHSEAVRRQTFEKWPH--YKWALPDQMAQAGFYH
+SSG---EDRAMCFTCSVCLVCWEKTDEPWSEHERHSPLCPFV---KG-------EYTQNV----------
+-------------------------*
+>P1;gi|21624645|ref|NP_660196.1| survivin 2 [Danio rerio] >gi|165081... [ score 112 E 2e-24 ] [ range 1 .. 98 ]
+sequence
+------------------------------------MYSYEKRLQTFSEWPE--DCQCTPELMAKAGFVH
+CNE---PDVACCFYCLRELEGWEPDDNPWSEHAKRSPNCAFLHMSKTF------DELTAIE--YFHLE--
+-----------QERL----------*
+>P1;gi|35902992|ref|NP_919378.1| baculoviral IAP repeat-containing 5... [ score 105 E 2e-22 ] [ range 11 .. 93 ]
+sequence
+------------------------------------MYFYENRLQTFVGWPE--GCVCTPENMAKAGFIH
+TNS---PDIAQCFFCLKELEGWEPEDDPEKEHKAHSPSCDFILLKKTV------D---------------
+-------------------------*
+>P1;gi|21898548|gb|AAM76714.1| survivin [Xenopus laevis] [ score 105 E 2e-22 ] [ range 20 .. 100 ]
+sequence
+-----------------------------------NMYDYDARLATFADWPF--TCKCTPESMAKAGFVH
+CNE---PDVACCFFCLKELEGWEPDDDPWTEHSKRSANCGFLSLTK------------------------
+-------------------------*
+>P1;gi|25990777|gb|AAN76690.1| survivin [Xenopus laevis] [ score 104 E 4e-22 ] [ range 20 .. 100 ]
+sequence
+-----------------------------------NMYDYEARLATFADWPF--TCKCTPENMAKAGFVH
+CNE---PDVACCFFCLKELEGWEPDDDPWNEHSKRSVNCGFLSLTK------------------------
+-------------------------*
+>P1;gi|6753090|ref|NP_033819.1| baculoviral IAP repeat-containing 5;... [ score 103 E 9e-22 ] [ range 18 .. 96 ]
+sequence
+------------------------------------------RIATFKNWPE--DCACTPERMAEAGFIH
+CNE---PDLAQCFFCFKELEGWEPDDNPIEEHRKHSPGCAFLTVKKQM------EEL-------------
+-------------------------*
+>P1;gi|11560097|ref|NP_071610.1| baculoviral IAP repeat-containing 5... [ score 103 E 1e-21 ] [ range 11 .. 96 ]
+sequence
+-----------------------------------QMYLKDHRIYTFKNWPE--DCSCTPERMAEAGFIH
+CNE---PDLAQCFFCFKELEGWEPDDNPIEEHRKHSPGCAFLTVKKQV------EEL-------------
+-------------------------*
+>P1;gi|11992273|gb|AAG42494.1| survivin [Gallus gallus] [ score 102 E 2e-21 ] [ range 18 .. 120 ]
+sequence
+----------------------------------------STRAATFRNWPE--GCACTPERMAAAGFVH
+CNS---PDVAQCFFCLKELEGWEPDDDPLEEHKKHSAGCAFAALQKDQ------EFLKLDKKRTKNVI--
+-----------KKAIS---------*
+>P1;gi|33622306|ref|NP_891953.1| iap-5 [Cryptophlebia leucotreta gra... [ score 100 E 8e-21 ] [ range 1 .. 81 ] [ duplicate a ]
+sequence
+------------------------------------MDVYENRLNSFKYWPG--H--ENKEKLALVGFYF
+SGV---GDRIVCYFCKLDLYNFCVGEDSVRDHKRYSPNCPFLTNNINP------NYINT-----------
+-------------------------*
+>P1;gi|34861013|ref|XP_238302.2| similar to livin inhibitor of apopt... [ score 99 E 2e-20 ] [ range 147 .. 205 ]
+sequence
+---------------------------------------------------------------------Y
+PGQ---QDKVRCFFCYGGLQSWERGDDPWTEHARWFPRCQFLLRSKGR------DFVERIQAYTPLL---
+-------------------------*
+>P1;gi|38105842|gb|EAA52220.1| hypothetical protein MG04912.4 [Magna... [ score 96 E 1e-19 ] [ range 13 .. 132 ] [ duplicate a ]
+sequence
+---------------------------------------YENRLASFLTWPH---KFLPPFELAKAGFYH
+PSN---PDNVTCFLCHKQMDGWEAEDNPIEEHLKHSPSCGWAVTAAVE------AECDQVDPREARLL--
+-----------EARKAT--------*
+>P1;gi|38105842|gb|EAA52220.1| hypothetical protein MG04912.4 [Magna... [ score 96 E 1e-19 ] [ range 127 .. 189 ] [ duplicate b ]
+sequence
+----------------------------------------EARKATFAGWPY--ESKCKTKQLAEAGWIY
+TPT---NDNTTCAYCQLALDGWEASDKPIR----------------------------------------
+-------------------------*
+>P1;gi|31221273|ref|XP_317026.1| ENSANGP00000019173 [Anopheles gambi... [ score 96 E 3e-19 ] [ range 15 .. 87 ]
+sequence
+----------------------------------------EDREKSFKHWPF--SKQCSIQKMAEAGFYW
+HGT---EDIAACFVCGKELDGWEESDDPWSEHRKHAPQCPFVK---------------------------
+-------------------------*
+>P1;gi|9631106|ref|NP_047776.1| apoptosis inhibitor [Lymantria dispa... [ score 93 E 1e-18 ] [ range 1 .. 72 ]
+sequence
+------------------------------------MNDERRRLASFRNWSA--VDAPAPAELAHAGFYC
+ANR---QDFVKCAYCHIEIGNWSIGSDAMSDHKRYSPACRFVC---------------------------
+-------------------------*
+>P1;gi|21686773|ref|NP_663273.1| inhibitor of apoptosis 5 [Phthorima... [ score 93 E 1e-18 ] [ range 1 .. 80 ] [ duplicate a ]
+sequence
+------------------------------------MNSYENRLKTFENWTG----KEDAEKLALVGFYY
+SGF---GDRIICYYCKLDLYNFFVGDDSIKDHKRYSPNCPFFLA-KTI------NYVNT-----------
+-------------------------*
+>P1;gi|19075367|ref|NP_587866.1| cut17p [Schizosaccharomyces pombe] ... [ score 92 E 2e-18 ] [ range 19 .. 104 ] [ duplicate a ]
+sequence
+------------------------------------MCNYSKRLDTFKKWPR--AKP-TPETLATVGFYY
+EER---LDNVTCYMCTKSFYDWEDDDDPLKEHITHSPSCPYILSSK------------------------
+-------------------------*
+>P1;gi|40746036|gb|EAA65192.1| hypothetical protein AN0715.2 [Asperg... [ score 91 E 4e-18 ] [ range 5 .. 115 ] [ duplicate a ]
+sequence
+------------------------------------METFAARLATFDSWPH--SKP-SPAELAHAGFFY
+ETN---PDNTTCFLCGRALDGWEEDDNPITEHLKHAKDCGWAVMM-------------DIQQRSSNPA--
+-----------EIEDPTS-------*
+>P1;gi|7416053|dbj|BAA93676.1| survivin-beta [Homo sapiens] [ score 89 E 2e-17 ] [ range 18 .. 119 ]
+sequence
+------------------------------------------RISTFKNWPE--GCACTPERMAEAGFIH
+CNE---PDLAQCFFCFKELEGWEPDDDPIEEHKKHSSGCAFLSVKKQF------EEL-------------
+-------------------------*
+>P1;gi|42552626|gb|EAA75469.1| hypothetical protein FG05233.1 [Gibbe... [ score 87 E 6e-17 ] [ range 12 .. 129 ] [ duplicate a ]
+sequence
+--------------------------------------TYESRLASFQNWPH---KSITPDSLARAGLFF
+LEN---PDNAQCFLCHKGLDGWEANDDPLVEHLTHAPECGWAVVAAIE------DYAQQA-PDQPYLK--
+-----------EARKAT--------*
+>P1;gi|42552626|gb|EAA75469.1| hypothetical protein FG05233.1 [Gibbe... [ score 87 E 6e-17 ] [ range 124 .. 200 ] [ duplicate b ]
+sequence
+----------------------------------------EARKATFAGWPH--DTKCKTKQLVDAGWKY
+TPT---EDMATCTYCQLALDGWEPTDKPLDEHYNRSPNCPFFIL--------------------------
+-------------------------*
+>P1;gi|28569275|gb|AAO43578.1| putative inhibitor of apoptosis [Chor... [ score 87 E 8e-17 ] [ range 1 .. 59 ]
+sequence
+----------------------------------------------------------------------
+-------DRTKCYYCDNGLKDWEPEDVPWEQHARWFDKCEFVKIVKGD------QYVQKVISEACVIK--
+-----------PKAE----------*
+>P1;gi|32411991|ref|XP_326476.1| hypothetical protein [Neurospora cr... [ score 78 E 4e-14 ] [ range 7 .. 118 ]
+sequence
+---------------------------------------YENRLVSFDKWPH---KSLSADELAKAGFYF
+VTS---PDNVTCFLCENSFDGWTPGDHPIQEHLKHSPFCGWAVTAAVE------ANLGDYGKMHP--L--
+-----------EPIL----------*
+>P1;gi|19173605|ref|NP_597408.1| hypothetical protein [Encephalitozo... [ score 76 E 2e-13 ] [ range 1 .. 73 ]
+sequence
+------------------------------------MFSFKRRMETFAGWPE--DYAATPESLSIAGFMC
+LSA---ESDVRCVYCDKTLECWERTDVPAKEHYLHMSVCP------------------------------
+-------------------------*
+>P1;gi|9635387|ref|NP_059285.1| ORF137 [Xestia c-nigrum granulovirus... [ score 76 E 2e-13 ] [ range 107 .. 174 ] [ duplicate a ]
+sequence
+----------------------------------------EDRLKTFKQWPA--MLQHLSFEMCLSGLYY
+SNI---GDIVVCYVCRERIRDWWPDHSPWQRHYYQNSKCPHIV---------------------------
+-------------------------*
+>P1;gi|9635387|ref|NP_059285.1| ORF137 [Xestia c-nigrum granulovirus... [ score 76 E 2e-13 ] [ range 1 .. 77 ] [ duplicate b ]
+sequence
+------------------------------------MKSYQERIASYANWCH--TCMLTPERLSLLGFYY
+TGY---GDKIKCAYCSLTLERFKYANDPLVDHKRASPECKFI----------------------------
+-------------------------*
+>P1;gi|32698638|ref|NP_872553.1| iap-5 [Adoxophyes orana granuloviru... [ score 73 E 1e-12 ] [ range 1 .. 84 ] [ duplicate a ]
+sequence
+------------------------------------MHVYDNRLATYDRWPV--KNNECLEQLALVGFYY
+TGY---KDCLMCCYCKFESYNYIDGENTLRDHKRYSPNCPFYKNNQNE------NYVAS-----------
+-------------------------*
+>P1;gi|11068101|ref|NP_068317.1| PxORF98 peptide [Plutella xylostell... [ score 72 E 3e-12 ] [ range 6 .. 72 ] [ duplicate b ]
+sequence
+------------------------------------MDKLESRVESFKYYER--NVDVRK--LSLLGFYY
+SGH---QDQIICAYCNLTLDRFTGDEDVQTDHRRFSPHCP------------------------------
+-------------------------*
+>P1;gi|43229567|gb|EAC80348.1| unknown [environmental sequence] [ score 71 E 7e-12 ] [ range 20 .. 94 ]
+sequence
+----------------------------------SLMVSEKQRRRTFRKWAG--HGQHLGVDLAKNGFFY
+TGE---GDRTRCCFCGGFLGNFEPGDIPKASHKRFFPYCK------------------------------
+-------------------------*
+>P1;gi|17557418|ref|NP_506362.1| baculovirus Inhibitory Repeat famil... [ score 65 E 4e-10 ] [ range 25 .. 129 ] [ duplicate a ]
+sequence
+----------------------------------------AERFASFKGFVY--DIACTSEKLARAGFYS
+TAS---PEFAKCPFCMLEI-NFEQCDDPWEKHKSGSPHCEFVMIGEIE------EIISNLAIRHARLY--
+-----------EELL----------*
+>P1;gi|17557418|ref|NP_506362.1| baculovirus Inhibitory Repeat famil... [ score 65 E 4e-10 ] [ range 162 .. 247 ] [ duplicate b ]
+sequence
+----------------------------------SKLLTFDHRLATFQNFKR--NVKCTSKKLAKAGWFS
+ANK---KDKTKCPFCLVEL-DFDESDDPWEEHQKFSASCDFIKLGKLD------E---------------
+-------------------------*
+>P1;gi|17564820|ref|NP_505949.1| baculovirus Inhibitory Repeat famil... [ score 63 E 1e-09 ] [ range 9 .. 93 ]
+sequence
+----------------------------------SDMAFYKDRLMTFKNFEY--DAKCTSQAVAQAGFYC
+TG----PQSGKCAFCNKEL-DFDPEDDPWYEHTKRDEPCEFVRIGKLD------D---------------
+-------------------------*
+>P1;gi|43708012|gb|EAF09096.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 124 .. 200 ] [ duplicate a ]
+sequence
+-------------------------------------ESIEVRAQTFKKWPH--KQKPTVKALARAGFVY
+TES---KDAVICPYCEYGVEGWEATDDPWEIHQSKVPDCHF-----------------------------
+-------------------------*
+>P1;gi|11931703|emb|CAC19117.1| putative inhibitor apoptosis protein... [ score 62 E 2e-09 ] [ range 2 .. 70 ] [ duplicate b ]
+sequence
+----------------------------------------EDRLKTFRKWKG--C--VEKTKMAEAGFVF
+VQE---PDIARCAFCGLEVSGWDAPSDPETLHLRLNRTCP-LILKK------------------------
+-------------------------*
+>P1;gi|39592102|emb|CAE75322.1| Hypothetical protein CBG23296 [Caeno... [ score 62 E 4e-09 ] [ range 21 .. 98 ]
+sequence
+---------------------------------------YKDRLTSFKNYKY--DSDQNAKALARAGFVF
+SGD---SSAV-CPFCVKCL-DFDPEDDPWEEHKRCGDICEFVRIGKLD------D---------------
+-------------------------*
+>P1;gi|39590550|emb|CAE66290.1| Hypothetical protein CBG11537 [Caeno... [ score 61 E 6e-09 ] [ range 22 .. 97 ] [ duplicate a ]
+sequence
+--------------------------------------SYAARFASFKGFRY--DKKCSSDALSHAGFYS
+TKN---PTSAKCPFCTLELT-FAENDDPWELHKAARPNCDYVM---------------------------
+-------------------------*
+>P1;gi|39590550|emb|CAE66290.1| Hypothetical protein CBG11537 [Caeno... [ score 61 E 6e-09 ] [ range 169 .. 246 ] [ duplicate b ]
+sequence
+------------------------------------------RFKTFDYTVR--GFRKPTKRLAKAGWCS
+AAT---NCSVKCPFCFSAVT-FSETDDFWEEHKRIAPDCDFVKLDKPK------E---------------
+-------------------------*
+>P1;gi|1769487|gb|AAC52976.1| neuronal apoptosis inhibitory protein ... [ score 50 E 8e-06 ] [ range 1 .. 47 ]
+sequence
+---------------------------------------------------------------AAAGFYH
+TGV---RLGVQCFCCSLILFGNSLRKLPIERHKKLRPECEFLL---------------------------
+-------------------------*
+>P1;gi|6322548|ref|NP_012622.1| Protein involved in cell cycle regul... [ score 50 E 1e-05 ] [ range 153 .. 251 ]
+sequence
+------------------------------------------RKFTFQNWPH--SGSQNIEKMVNAGLMY
+TLM---NDTCYCIYCKQLLQGWSINDDPMSRHYKQNGNCYFFQTRNRF------ERIKN-----------
+-------------------------*
+>P1;gi|29567138|ref|NP_818700.1| inhibitor of apoptosis protein 2 [A... [ score 48 E 5e-05 ] [ range 100 .. 178 ]
+sequence
+----------------------------------------------FKTARL--RYKLNGHMLAENGFFF
+YGR---NNEICCSNCGIVIVKLNPNDSIIKLHKTFSKNCDFINLLVSK---------QSSKPSAPTLY--
+-----------E-------------*
+>P1;gi|1769479|gb|AAC52972.1| neuronal apoptosis inhibitory protein ... [ score 48 E 5e-05 ] [ range 1 .. 47 ]
+sequence
+---------------------------------------------------------------AAAGFYH
+TGV---KLGVQCFCCSLILFSTRLRKLPIENHKKLRPECEFLQ---------------------------
+-------------------------*
+>P1;gi|9631046|ref|NP_047716.1| apoptosis inhibitor [Lymantria dispa... [ score 46 E 2e-04 ] [ range 81 .. 153 ]
+sequence
+--------------------------------------DERRRAASFRAFKA--GCGKDANALAACGFFY
+NGR---CREAQCSRCGMVVVKLQRGDDLNYIHGVYSPRCAFVV---------------------------
+-------------------------*
+>P1;gi|11560028|ref|NP_071567.1| baculoviral IAP repeat-containing 4... [ score 155 E 3e-37 ] [ range 256 .. 343 ] [ duplicate a ]
+sequence
+-------------------------------PRNPAMAEYDARIVTFGTWL----YSVNKEQLARAGFYA
+LGE---GDKVKCFHCGGGLTDWKPSEDPWEQHAKWYPGCKYLLDEKGQ------EYINNIHL--------
+-------------------------*
+>P1;gi|25140579|gb|AAN73272.1| pRb-interacting protein RbBP-36 [Homo... [ score 152 E 2e-36 ] [ range 263 .. 349 ] [ duplicate a ]
+sequence
+---------------------------------NLSMQTHAARMRTFMYWP----SSVQPEQLASAGFYY
+VGR---NDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEFLIRMKGQ------EFVDEIQ---------
+-------------------------*
+>P1;gi|6635437|gb|AAF19819.1| inhibitor of apoptosis protein [Tricho... [ score 151 E 4e-36 ] [ range 201 .. 288 ] [ duplicate a ]
+sequence
+-------------------------------PVHPRYASEAARLRSFKDWP----RCMKPEELAEAGFFY
+TGQ---GDKTKCFYCDGGLKDWENDDVPWEQHARWFDRCAYVQLVKGR------EYVQKV----------
+-------------------------*
+>P1;gi|6680698|ref|NP_031491.1| baculoviral IAP repeat-containing pr... [ score 150 E 7e-36 ] [ range 256 .. 342 ] [ duplicate a ]
+sequence
+---------------------------------NLSMQTHSARLRTFLYWP----PSVQPEQLASAGFYY
+VDR---NDDVKCFCCDGGLRCWEPGDDPWIEHAKWFPRCEFLIRMKGQ------EFVDEIQ---------
+-------------------------*
+>P1;gi|2656127|gb|AAB88044.1| IAP homolog [Gallus gallus] [ score 149 E 1e-35 ] [ range 170 .. 242 ] [ duplicate b ]
+sequence
+---------------------------------NPSMSTEEARLRTFHAWP----LMLSPAELAKAGLYY
+LGT---ADKVACFTCGGQLSNWEPKDNAMSEHRRHFPNCPFV----------------------------
+-------------------------*
+>P1;gi|4502139|ref|NP_001156.1| baculoviral IAP repeat-containing pr... [ score 149 E 1e-35 ] [ range 249 .. 335 ] [ duplicate a ]
+sequence
+---------------------------------NLSMQTHAARFKTFFNWP----SSVNPEQLASAGFYY
+VGN---SDDVKCFCCDGGLRCWESGDDPWVQHAKWFPRCEYLIRIKGQ------EFIRQVQ---------
+-------------------------*
+>P1;gi|2497240|sp|Q90660|BIR_CHICK Inhibitor of apoptosis protein (I... [ score 149 E 2e-35 ] [ range 170 .. 242 ] [ duplicate b ]
+sequence
+---------------------------------NPSMSTEEARLRTSHAWP----LMCLPAEVAKAGLDD
+LGT---ADKVACVNCGVKLSNWEPKDNAMSEHRRHFPNCPFV----------------------------
+-------------------------*
+>P1;gi|6680696|ref|NP_031490.1| baculoviral IAP repeat-containing 2;... [ score 149 E 2e-35 ] [ range 247 .. 333 ] [ duplicate a ]
+sequence
+---------------------------------NLSMQTHAARIRTFSNWP----SSVHSQELASAGFYY
+TGH---SDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEYLLRIKGQ------EFVSQVQ---------
+-------------------------*
+>P1;gi|13027446|ref|NP_076477.1| inhibitor of apoptosis protein 1 [R... [ score 148 E 4e-35 ] [ range 249 .. 335 ] [ duplicate a ]
+sequence
+---------------------------------NLSMQTHAARVRTFSTWP----SSVHPQELASAGFYY
+TGH---SDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEYLIRIKGQ------EFVGQVQ---------
+-------------------------*
+>P1;gi|45383007|ref|NP_989919.1| inhibitor of apoptosis protein 3 [G... [ score 148 E 4e-35 ] [ range 256 .. 343 ] [ duplicate a ]
+sequence
+-------------------------------PRNPSMAEYERRIQTFLAWI----YPVNKEHLAEAGFYS
+TGN---GDHVVCFHCGGGLQEWKENEDPWDQHAKWFPGCKFLRDEKGL------EFINNVHL--------
+-------------------------*
+>P1;gi|45383007|ref|NP_989919.1| inhibitor of apoptosis protein 3 [G... [ score 148 E 4e-35 ] [ range 29 .. 104 ] [ duplicate c ]
+sequence
+------------------------------------------RLGTFVEFP----HPVSASALARAGFVY
+TGE---GDKVKCFSCHVTVEGWEPGDSAIDRHKNLSPDCRFI---TGS------AFLNNVH---------
+-------------------------*
+>P1;gi|38541348|gb|AAH62055.1| Apoptosis inhibitor 2 [Rattus norvegi... [ score 147 E 5e-35 ] [ range 235 .. 321 ] [ duplicate a ]
+sequence
+---------------------------------NLSMQTHSARMRTFLYWP----SSVQPEQLASAGFYY
+VDH---NDDVKCFCCDGGLRCWEPGDDPWIEHAKWFPRCEFLIRMKGQ------EFVDEIQ---------
+-------------------------*
+>P1;gi|24286571|gb|AAN46650.1| inhibitor of apoptosis protein [Bomby... [ score 147 E 5e-35 ] [ range 174 .. 261 ] [ duplicate a ]
+sequence
+-------------------------------PVHARYSTEAARLATFKDWP----RCMKPEELAEAGFFY
+TGQ---GDKTKCFYCDGGLKDWESDDVPWEQHARWFDRCAYVQLVKGR------DYIQKV----------
+-------------------------*
+>P1;gi|37651380|ref|NP_932639.1| inhibitor of apoptosis protein 3 [C... [ score 147 E 6e-35 ] [ range 105 .. 192 ] [ duplicate a ]
+sequence
+-------------------------------PMHPKYSTESARLKTFVDWP----VSLKPEQLAEAGFYY
+TGK---GDRVKCFHCDGGLKDWESTDEPWEEHARWFDRCTYVRLVKGY------DYVQRV----------
+-------------------------*
+>P1;gi|30387263|ref|NP_848342.1| inhibitor of apoptosis 3 [Choriston... [ score 147 E 7e-35 ] [ range 116 .. 203 ] [ duplicate a ]
+sequence
+-------------------------------PAHPKYAIEAARLRTFTEWP----RGLKPEKLAEAGFFY
+TGR---SDKVKCFYCDGGLDNWEQDDEPWQQHALWFGRCAYVLLVKGR------DYVQKV----------
+-------------------------*
+>P1;gi|27923008|dbj|BAC55952.1| HcIAP-3 [Hyphantria cunea nucleopoly... [ score 146 E 9e-35 ] [ range 94 .. 181 ] [ duplicate a ]
+sequence
+-------------------------------PVHPKYATEVARLRTFAEWP----RGLKPDKLAEAGFYY
+TGQ---GDKTKCFYCDGGLKDWEADDEPWKLHARWFDRCPYVLLVKGR------DYVQKI----------
+-------------------------*
+>P1;gi|9629973|ref|NP_046191.1| inhibitor of apoptosis protein 3 [Or... [ score 145 E 2e-34 ] [ range 104 .. 190 ] [ duplicate a ]
+sequence
+--------------------------------AHPQYATEAARLRTFAEWP----RGLKPEELAEAGFFY
+TGQ---GDKTRCFCCDGGLKDWEPDDAPWQQHARWYDRCEYVLLVKGR------DFVQRV----------
+-------------------------*
+>P1;gi|15320683|ref|NP_203195.1| IAP-3 [Epiphyas postvittana nucleop... [ score 144 E 4e-34 ] [ range 93 .. 180 ] [ duplicate a ]
+sequence
+-------------------------------PKHPKYASEAARLKTFEGWP----RSMKPDELAEAGFYY
+TSR---GDKTLCFYCNGGLKDWENDDIPWEQHARWFSNCGYLLLVKGR------DYVQNV----------
+-------------------------*
+>P1;gi|14602383|ref|NP_148801.1| ORF17 IAP-3 [Cydia pomonella granul... [ score 144 E 7e-34 ] [ range 100 .. 187 ] [ duplicate a ]
+sequence
+-------------------------------PAHPKYAHEAARVKSFHNWP----RCMKPEQMADAGFFY
+TGY---GDNTKCFYCDGGLKDWEPEDVPWEQHVRWFDRCAYVQLVKGR------DYVQKV----------
+-------------------------*
+>P1;gi|24664967|ref|NP_524101.2| thread CG12284-PA [Drosophila melan... [ score 139 E 2e-32 ] [ range 218 .. 305 ] [ duplicate a ]
+sequence
+-------------------------------PQYPEYAIETARLRTFEAWP----RNLKPHQLAEAGFFY
+TGV---GDRVRCFSCGGGLMDWNDNDEPWEQHALWLSQCRFVKLMKGQ------LYIDTV----------
+-------------------------*
+>P1;gi|24664967|ref|NP_524101.2| thread CG12284-PA [Drosophila melan... [ score 139 E 2e-32 ] [ range 44 .. 120 ] [ duplicate b ]
+sequence
+---------------------------------------EETRLKTFTDWP----LDLDKRQLAQTGMYF
+THA---GDKVKCFFCGVEIGCWEQEDQPVPEHQRWSPNCPLLRRRTT----------NNVPI--------
+-------------------------*
+>P1;gi|3540252|gb|AAC34373.1| apoptosis inhibitor IAP-1 [Buzura supp... [ score 138 E 4e-32 ] [ range 100 .. 188 ] [ duplicate a ]
+sequence
+-------------------------------PAHPQYATKTARLRTFENWP----CALKPEQLADAGFFY
+TGQ---SDKTICFFCNGGLKDWEDGDEPWEQHARWFDNCIYVQLVKGR------DYVQNV----------
+-------------------------*
+>P1;gi|33622218|ref|NP_891863.1| iap-3 [Cryptophlebia leucotreta gra... [ score 137 E 5e-32 ] [ range 89 .. 177 ] [ duplicate a ]
+sequence
+-------------------------------PAHDGYISHRSRLDSFKTWP----FSMTQDDMAQAGFFY
+TGK---GDRVICYYCDGKLSMWERDEDPWEEHARWYGSCAFLKLVKGE------EFIQKIH---------
+-------------------------*
+>P1;gi|22000680|gb|AAM88215.1| IAP-like protein [Xenopus laevis] [ score 137 E 5e-32 ] [ range 35 .. 108 ] [ duplicate b ]
+sequence
+----------------------------------PSMRSEAERLRSFSAWP----RTCSPVEMARSGFYY
+LGP---GDRVQCFSCGGVLRSWEPGDRPDTEHRKFFPSCTFL----------------------------
+-------------------------*
+>P1;gi|9634331|ref|NP_037870.1| ORF110 iap-3 [Spodoptera exigua nucl... [ score 137 E 7e-32 ] [ range 148 .. 234 ] [ duplicate a ]
+sequence
+-------------------------------PKHGSYTNYKDRLATFTDWP----RDIRPHDLASAGFFY
+TGR---NAEVRCFQSDCGLSDWEPTDEPWREHARWFPRCEYVIAVKGK------EYVQD-----------
+-------------------------*
+>P1;gi|21759006|sp|Q95M71|BIR8_GORGO Baculoviral IAP repeat-containi... [ score 137 E 8e-32 ] [ range 1 .. 83 ]
+sequence
+------------------------------------MTGYEAWLITFGTWM----YSVNKEQLARAGFYA
+IGQ---EDKIQCFHCGGGLANWKPKEDPWEQHAKWYPGCKYLLEEKGH------EYINNIHL--------
+-------------------------*
+>P1;gi|11545910|ref|NP_071444.1| livin inhibitor of apoptosis isofor... [ score 136 E 1e-31 ] [ range 79 .. 167 ]
+sequence
+-------------------------------PAFPGMGSEELRLASFYDWP----LTVPPELLAAAGFFH
+TGH---QDKVRCFFCYGGLQSWKRGDDPWTEHAKWFPSCQFLLRSKGR------DFVHSVQ---------
+-------------------------*
+>P1;gi|29567173|ref|NP_818735.1| inhibitor of apoptosis protein 3 [A... [ score 135 E 2e-31 ] [ range 103 .. 190 ] [ duplicate a ]
+sequence
+-------------------------------PRYPEFASEKERLDSFRTWP----MPIKPEQLAEAGFFY
+TGF---GDKTKCFYCAGGVWNWELNDDPWEQHAIWFGNCTYVKIIKGQ------NFIQKV----------
+-------------------------*
+>P1;gi|9964335|ref|NP_064803.1| inhibitor of apoptosis protein [Amsa... [ score 135 E 2e-31 ] [ range 100 .. 186 ] [ duplicate a ]
+sequence
+--------------------------------VHPNLSNIVERLKTYKEWP----ISMSTEKLAEAGFFY
+TGK---SDKVKCFYCDGGLNKWETDDDPWIQHARWFDKCDYVKLVKGK------DFIQKV----------
+-------------------------*
+>P1;gi|31199159|ref|XP_308527.1| ENSANGP00000009540 [Anopheles gambi... [ score 134 E 3e-31 ] [ range 107 .. 193 ] [ duplicate a ]
+sequence
+-------------------------------PEYPNYAIEADRLKSYEDWP----TSLKPQQLSDAGFFY
+TGM---SDRVKCFSCGGGLKDWEQEDDPWQQHAIWYSNCHYLQLMKGR------EFIQK-----------
+-------------------------*
+>P1;gi|31199159|ref|XP_308527.1| ENSANGP00000009540 [Anopheles gambi... [ score 134 E 3e-31 ] [ range 1 .. 78 ] [ duplicate b ]
+sequence
+---------------------------------------EENRLRSFTSWP----VTISPNVLARYGFYY
+VGT---DDTVKCYFCRVEIGLWEPQDDVIQEHLRWSPYCP--LLKKRP--------TNNVPL--------
+-------------------------*
+>P1;gi|17863909|gb|AAL46972.1| inhibitor of apotosis protein 1-like ... [ score 134 E 4e-31 ] [ range 190 .. 274 ] [ duplicate a ]
+sequence
+-------------------------------PEYPNYAIEAKRLESYEDWP----KFMKPKELSDAGFFY
+TGK---GDRVKCFSCGGGLKDWEAEDEPWEQHAMWYSNCEYLKLMKGE------EYI-------------
+-------------------------*
+>P1;gi|17863909|gb|AAL46972.1| inhibitor of apotosis protein 1-like ... [ score 134 E 4e-31 ] [ range 35 .. 115 ] [ duplicate b ]
+sequence
+-----------------------------------SYHTEVARLDSFRNWT----VFITKAELARYGFYY
+VGP---NDMVKCYFCRVEIGLWEPNDNVLSEHLRWSPYCPLLRKRQ----------TNNVPI--------
+-------------------------*
+>P1;gi|32698628|ref|NP_872543.1| iap-3 [Adoxophyes orana granuloviru... [ score 129 E 2e-29 ] [ range 89 .. 176 ] [ duplicate a ]
+sequence
+-------------------------------PVHKKYCDENKRMLTFHNWP----KALKPKELAEAGFFY
+TNV---GDRVRCFYCDVGLKDWEPTDTAWGQHARWTSLCEYVLLVKGT------DYVQKV----------
+-------------------------*
+>P1;gi|4758752|ref|NP_004527.1| baculoviral IAP repeat-containing 1;... [ score 128 E 3e-29 ] [ range 156 .. 242 ] [ duplicate a ]
+sequence
+------------------------------------YQEEEARLASFRNWP----FGISPCVLSEAGFVF
+TGK---QDTVQCFSCGGCLGNWEEGDDPWKEHAKWFPKCEFLRSKKSS------EYIQS-----------
+-------------------------*
+>P1;gi|4758752|ref|NP_004527.1| baculoviral IAP repeat-containing 1;... [ score 128 E 3e-29 ] [ range 270 .. 349 ] [ duplicate b ]
+sequence
+--------------------------------CNDSIFAYEERLDSFKDWP----RAVGVAALAKAGLFY
+TGI---KDIVQCFSCGGCLEKWQEGDDPLDDHTRCFPNCPFLQNMK------------------------
+-------------------------*
+>P1;gi|4758752|ref|NP_004527.1| baculoviral IAP repeat-containing 1;... [ score 128 E 3e-29 ] [ range 53 .. 130 ] [ duplicate c ]
+sequence
+--------------------------------YNSQMRSEAKRLKTFVTYP----YSSIPQEMAAAGFYF
+TGV---KSGIQCFCCSLILFGAGLTRLPIEDHKRFHPDCGFLLNK-------------------------
+-------------------------*
+>P1;gi|34853608|ref|XP_226743.2| similar to neuronal apoptosis inhib... [ score 127 E 5e-29 ] [ range 54 .. 127 ] [ duplicate c ]
+sequence
+---------------------------------NAQMRSEAKRLKTFKSW--------TPQEMAAAGFYY
+TGV---RHGVQCFCCSLILFGTSLRKVPIESHRKLRPQCEFL----------------------------
+-------------------------*
+>P1;gi|1184314|gb|AAC46988.1| inhibitor of apoptosis protein [ score 127 E 7e-29 ] [ range 203 .. 291 ] [ duplicate a ]
+sequence
+------------------------------LPLRPKYACVDARLRTFTDWP----ISNIQSALAQAGLYY
+QKI---GDQVRCFHCNIGLRSWQKEDEPWFEHAKWSPKCQFVLLAKGP------AYVSEV----------
+-------------------------*
+>P1;gi|1184314|gb|AAC46988.1| inhibitor of apoptosis protein [ score 127 E 7e-29 ] [ range 108 .. 181 ] [ duplicate b ]
+sequence
+----------------------------------PDLLLEANRLVTFKDWP----NPITPQALAKAGFYY
+LNR---LDHVKCVWCNGVIAKWEKNDNAFEEHKRFFPQCPRVQM--------------------------
+-------------------------*
+>P1;gi|1184314|gb|AAC46988.1| inhibitor of apoptosis protein [ score 127 E 7e-29 ] [ range 6 .. 86 ] [ duplicate c ]
+sequence
+------------------------------------MELESVRLATFGEWP----LPVSAEDLVANGFFA
+TGK---WLEAECHFCHVRIDRWEYGDQVAERHRRSSPICSMVLA---P------NHCGNVP---------
+-------------------------*
+>P1;gi|7447801|pir||S68452 apoptosis inhibitor diap - fruit fly (Dro... [ score 127 E 7e-29 ] [ range 6 .. 84 ] [ duplicate c ]
+sequence
+------------------------------------MELESVRLATFGEWP----LPVSAEDLVANGFFG
+TWM-----EAECDFCHVRIDRWEYGDLVAERHRRSSPICSMVLA---P------NHCGNVP---------
+-------------------------*
+>P1;gi|6754790|ref|NP_035002.1| baculoviral IAP repeat-containing 1b... [ score 127 E 9e-29 ] [ range 156 .. 242 ] [ duplicate a ]
+sequence
+------------------------------------YHEEEARLESFEDWP----HGTSPRVLSAAGFVF
+TGK---RDTVQCFSCGGCLGNWEEGDDPWKEHAKWFPKCEFLQSKKSP------EYVQS-----------
+-------------------------*
+>P1;gi|2133636|pir||S69545 apoptosis inhibitor IAP homolog - fruit f... [ score 126 E 1e-28 ] [ range 6 .. 86 ] [ duplicate c ]
+sequence
+------------------------------------MELESVRLATFGEWP----LPVSAEDLVANGFFA
+TGN---WLEAECHFCHVRIDRWEYGDQVAAGHRRSSPICSMVLA---P------NHCGNVP---------
+-------------------------*
+>P1;gi|31199163|ref|XP_308529.1| ENSANGP00000016010 [Anopheles gambi... [ score 125 E 3e-28 ] [ range 51 .. 134 ]
+sequence
+--------------------------------KYPQYRIEGDRLATFKEWP----KSMTPERMADAGFFY
+TGK---SDVVACFYCGGNLRDWLAEDDPWVEHVRNFSECPYVKLVKTP------EFI-------------
+-------------------------*
+>P1;gi|19569774|gb|AAL92171.1| inhibitor of apotosis protein 1-like ... [ score 124 E 4e-28 ] [ range 193 .. 277 ] [ duplicate a ]
+sequence
+-------------------------------PEYPNYAIEAKRLECYEDWP----KFMKPKELSDAGFFY
+PGK---SDRVKCFSCGGGLKDWEAEDEPWEQHAMWYSNCEYLKLMKGE------AYI-------------
+-------------------------*
+>P1;gi|19569774|gb|AAL92171.1| inhibitor of apotosis protein 1-like ... [ score 124 E 4e-28 ] [ range 37 .. 117 ] [ duplicate b ]
+sequence
+-----------------------------------SYHTEVSRLESFRDWM----VPISKTELARYGFYY
+VGP---NDMVKCYFCRVEIGLWEQNDNVLSEHLRWSPYCP--LLRKRQ--------TNNVPI--------
+-------------------------*
+>P1;gi|31200751|ref|XP_309323.1| ENSANGP00000017960 [Anopheles gambi... [ score 122 E 2e-27 ] [ range 22 .. 110 ]
+sequence
+------------------------------MPYMPEFAVLDARIRSFESWR----FGQNPTRLAVAGFYY
+TGT---DDEVRCFQCDAGLRDWLVTDDPWQEHARCFAECTFLRLVFGA------DTVDEV----------
+-------------------------*
+>P1;gi|18138294|ref|NP_542729.1| iap-3 [Helicoverpa zea single nucle... [ score 119 E 2e-26 ] [ range 113 .. 196 ] [ duplicate a ]
+sequence
+-----------------------------------SYSTYENRLKSFDNWP----QTILKSKLAEAGWVY
+TGK---DDITICFHCGGKLSNWTLTHEPWREHARWYRNCDFVLSEKGK------DFVQTV----------
+-------------------------*
+>P1;gi|18138294|ref|NP_542729.1| iap-3 [Helicoverpa zea single nucle... [ score 119 E 2e-26 ] [ range 12 .. 86 ] [ duplicate b ]
+sequence
+------------------------------------LKTESYRYVTFANWP----VQMDCAKMAQAGFYY
+LNK---DDHVKCAFCKVEMMNWQHEDDPLEEHARWAPQCSYVKSI-------------------------
+-------------------------*
+>P1;gi|33622285|ref|NP_891932.1| iap [Cryptophlebia leucotreta granu... [ score 118 E 3e-26 ] [ range 58 .. 145 ]
+sequence
+-------------------------------PFNKNLNTKAARYKTFETWP----LGLKQDDMVDAGFYY
+SGY---GDRVECFYCGVILCDWWPEDEAWRRHIKANSECAYVLMRKKD------DFIDDI----------
+-------------------------*
+>P1;gi|12597588|ref|NP_075172.1| iap-3 [Heliocoverpa armigera nucleo... [ score 118 E 4e-26 ] [ range 113 .. 196 ] [ duplicate a ]
+sequence
+-----------------------------------SYITYENRLKSFDNWP----QTILKSKLAEAGWVY
+TGK---DDITICFHCGGKLSNWTLTHEPWREHARWYRNCDFVVSEKGK------DFVQTV----------
+-------------------------*
+>P1;gi|31206615|ref|XP_312274.1| ENSANGP00000002826 [Anopheles gambi... [ score 117 E 5e-26 ] [ range 232 .. 319 ]
+sequence
+-----------------------------------QMYSEAARRQTFEAWP----HMVLPDQMAQAGFYH
+QGN---KDRAMCFTCTVCLVCWEKTDEPWSEHERHSPECPFV---KG-------EFTQNVPL--------
+-------------------------*
+>P1;gi|14602331|ref|NP_148878.1| ORF94 IAP [Cydia pomonella granulov... [ score 116 E 1e-25 ] [ range 73 .. 160 ]
+sequence
+-------------------------------PLRRGLNTVAARLKTFKKWP----VGLSKEEMVEAGLCY
+SGR---GDQVECFCCGESICDWRVGDDPWRRHIEANMGCQFVVMKKSD------EFIKSV----------
+-------------------------*
+>P1;gi|9631411|ref|NP_048319.1| ORF MSV248 putative inhibitor of apo... [ score 115 E 3e-25 ] [ range 8 .. 93 ]
+sequence
+-------------------------------PLYPYYITLQSRINSYENWP----ISLKINRLCEAGFFY
+TNI---GDITVCFNCGLKIKNWLYYNDPWIEHSKWSPNCNYIIFNKGK------KFIN------------
+-------------------------*
+>P1;gi|31199161|ref|XP_308528.1| ENSANGP00000016568 [Anopheles gambi... [ score 114 E 4e-25 ] [ range 165 .. 249 ] [ duplicate a ]
+sequence
+-------------------------------PTIPHYEIGDNRLASFQEWP----KCMKPEQMADAGFFY
+TGK---SDVVICFCCGGQLRDWLPEYNPWVEHAKNFSGCPYLKLVKTP------GFI-------------
+-------------------------*
+>P1;gi|23577874|ref|NP_703017.1| inhibitor of apoptosis - 1 [Rachipl... [ score 112 E 2e-24 ] [ range 128 .. 210 ]
+sequence
+------------------------------------MSNLQSRMDTFVNWP----GALRDMNIAEAGFFY
+TGR---GDETVCFFCDCCVRDWHTNEDAWQRHVTENPQCYFVLSVKGK------EFCQN-----------
+-------------------------*
+>P1;gi|10442822|ref|NP_057336.1| baculoviral IAP repeat-containing 6... [ score 112 E 2e-24 ] [ range 255 .. 340 ]
+sequence
+------------------------------------MYSEANRRETFTSWP----HVAQPDPMAQAGFYH
+SSG---DDRAMCFTCSVCLVCWEPTDEPWSEHERHSPNCPFV---KG-------EHTQNVPL--------
+-------------------------*
+>P1;gi|9629979|ref|NP_046197.1| inhibitor of apoptosis protein 1 [Or... [ score 112 E 3e-24 ] [ range 123 .. 204 ] [ duplicate a ]
+sequence
+------------------------------------LAHPSARRATFDHWP----AALNTHDIAEAGMFH
+TML---GDETACFFCDCRVRDWLPGDDPWQRHALANPQCYFVVCVKGD------GFCNS-----------
+-------------------------*
+>P1;gi|9629979|ref|NP_046197.1| inhibitor of apoptosis protein 1 [Or... [ score 112 E 3e-24 ] [ range 26 .. 90 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFEDYP----IDNDANSLIVNGFRY
+THV---DDAVVCEYCGVVIKNWRENDVVEFVHATLSPYCVY-----------------------------
+-------------------------*
+>P1;gi|33320380|gb|AAQ05892.1| inhibitor of apoptosis 1 [Bombyx mori... [ score 111 E 4e-24 ] [ range 128 .. 210 ]
+sequence
+------------------------------------MSNLQSRMDTFVNWP----AALRDMNIAEAGLFY
+TGR---GDETVCFFCDCCVRDWHTNEDAWQRHATENPQCYFVLSVKGK------EFCQN-----------
+-------------------------*
+>P1;gi|21686751|ref|NP_663251.1| inhibitor of apoptosis 1 [Phthorima... [ score 111 E 5e-24 ] [ range 62 .. 149 ]
+sequence
+-------------------------------PDNFYHKELKARLESFETWP----VGLKPAELADAGLYY
+TGC---GDRCLCFACGVELENWLPDEDVWTKHALETDKCTHIILSKGD------EFVKSV----------
+-------------------------*
+>P1;gi|22788840|ref|NP_690554.1| inhibitor of apoptosis protein [Hel... [ score 110 E 6e-24 ] [ range 17 .. 99 ]
+sequence
+------------------------------------YRNITTRLKSFSRWP----VGLQPVSLAEAGFFY
+SNM---CDEVQCYLCGVRISKWLPEDDPWIQHAKCSKNCRFLLRIKGV------DFVYNI----------
+-------------------------*
+>P1;gi|21842285|gb|AAM77747.1| BIR-containing ubiquitin-conjugating ... [ score 110 E 8e-24 ] [ range 245 .. 330 ]
+sequence
+------------------------------------MHSEAVRRQTFEKWP----HMDYPDQMAQAGFYH
+SGE----DRAMCFTCSVCLVCWEKTDEPWSEHERHSPLCPFV---KG-------EYTQNVPL--------
+-------------------------*
+>P1;gi|9627769|ref|NP_054056.1| apoptosis inhibitor [Autographa cali... [ score 110 E 1e-23 ] [ range 128 .. 210 ]
+sequence
+------------------------------------MSNLQSRMDTFVNWP----AALRDMNIAEAGLFY
+TGR---GDETVCFFCDCCVRDWHTNEDTWQRHAAENPQCYFVLSVKGK------EFCQN-----------
+-------------------------*
+>P1;gi|27923004|dbj|BAC55950.1| HcIAP-1 [Hyphantria cunea nucleopoly... [ score 109 E 1e-23 ] [ range 123 .. 205 ] [ duplicate a ]
+sequence
+------------------------------------LAHPNARRATFKDWP----GALSTHKIAEAGMFH
+TML---GDETACFFCDCRVRDWLPTDDPWQRHAISNPQCYFMVCIKGD------EFCNS-----------
+-------------------------*
+>P1;gi|27923004|dbj|BAC55950.1| HcIAP-1 [Hyphantria cunea nucleopoly... [ score 109 E 1e-23 ] [ range 26 .. 90 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENYP----IDNDANSLIVNGFRY
+AHV---DDAVMCEYCGVVIKNWHEDDSVEFVHATLSPYCVY-----------------------------
+-------------------------*
+>P1;gi|21703226|gb|AAM76110.1| inhibitor of apoptosis protein-like p... [ score 108 E 4e-23 ] [ range 44 .. 115 ]
+sequence
+-------------------------------PTNASFGDDRKRLQTFSNWP----NRIKPQEIAEAGFYY
+LGE---RDRCKCFYCNGGLQNWDKYDDPWMEHAKWFPK--------------------------------
+-------------------------*
+>P1;gi|41352478|gb|AAS00985.1| ORF99 [Ostreid herpesvirus 1] [ score 107 E 4e-23 ] [ range 5 .. 88 ]
+sequence
+----------------------------------PEMILYEDRVNSFGGWS----KQLRPNKLAPAGFFY
+TGM---GDKVKCFACGLEVIDWDPTDNPWTEHGKFSGDCLYLKMVKSK------D---------------
+-------------------------*
+>P1;gi|33622306|ref|NP_891953.1| iap-5 [Cryptophlebia leucotreta gra... [ score 104 E 4e-22 ] [ range 1 .. 81 ] [ duplicate a ]
+sequence
+------------------------------------MDVYENRLNSFKYWP----GHENKEKLALVGFYF
+SGV---GDRIVCYFCKLDLYNFVGEEDSVRDHKRYSPNCPFLTNNINP------NYINT-----------
+-------------------------*
+>P1;gi|33622306|ref|NP_891953.1| iap-5 [Cryptophlebia leucotreta gra... [ score 104 E 4e-22 ] [ range 103 .. 176 ] [ duplicate b ]
+sequence
+------------------------------------YSLLEQRINSYLNFP----SCLKSSDLASNGFYY
+TNF---GDAVCCYACLIVAKDWTTNSNVKSIHSKLNSRCPLLHLI-------------------------
+-------------------------*
+>P1;gi|15320690|ref|NP_203202.1| IAP-1 [Epiphyas postvittana nucleop... [ score 103 E 7e-22 ] [ range 132 .. 210 ]
+sequence
+-----------------------------------------ARKSTFEDWP----AALQVANISEAGMFH
+TKL---GDETACFFCDCRVRDWLPNDDPWQRHAIANPQCYFVVCIKGD------EFCNAV----------
+-------------------------*
+>P1;gi|37651379|ref|NP_932645.1| inhibitor of apoptosis protein 1 [C... [ score 103 E 9e-22 ] [ range 126 .. 210 ] [ duplicate a ]
+sequence
+------------------------------------LAHPSARRATFEYWP----VALQHPSIAEAGMFH
+TKL---GDETACFFCDYRVRNWLPGDDPWRRHAIANPQCYFVVCIKGE------QFCETAH---------
+-------------------------*
+>P1;gi|37651379|ref|NP_932645.1| inhibitor of apoptosis protein 1 [C... [ score 103 E 9e-22 ] [ range 29 .. 93 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENFP----IDNTANSLIVNGFRY
+EHV---DDAVACEYCNVVIKNWREDDCVEFVHATLSPYCVY-----------------------------
+-------------------------*
+>P1;gi|14602353|ref|NP_148900.1| ORF116 IAP-5 [Cydia pomonella granu... [ score 102 E 3e-21 ] [ range 97 .. 174 ] [ duplicate b ]
+sequence
+-------------------------------PHKGDYSLLEHRINSFQNFP----ASLKSSDLSANGFYY
+TNI---GDAVCCYACLIIAKDWTMNSDVRQIHVRLNARCPLLQL--------------------------
+-------------------------*
+>P1;gi|35902992|ref|NP_919378.1| baculoviral IAP repeat-containing 5... [ score 101 E 4e-21 ] [ range 10 .. 93 ]
+sequence
+-----------------------------------KMYFYENRLQTFVGWP----FECTPENMAKAGFIH
+TNS---PDIAQCFFCLKELEGWEPEDDPEKEHKAHSPSCDFILLKKTV------D---------------
+-------------------------*
+>P1;gi|15078905|ref|NP_149656.1| 193R [Invertebrate iridescent virus... [ score 101 E 4e-21 ] [ range 30 .. 119 ]
+sequence
+--------------------------------KNLPFASYDERLNSFQNWP----IQLSKEQLSRAGFIY
+LNI---GDQVQCFYCDLKLKEWKRSDNPFEEHKKHTQNCLFVKSIEFD------NFVKN-----------
+-------------------------*
+>P1;gi|27762629|gb|AAO20085.1| SIX [Xenopus laevis] [ score 100 E 1e-20 ] [ range 19 .. 107 ]
+sequence
+------------------------------MPDEWRLYNLATRLRTFSNWP----FACTPERMAEAGFVH
+CNS---PDVVKCFFCLKELEGWQPEDDPMDEHKKHSPSCLFIALKKKA------E---------------
+-------------------------*
+>P1;gi|30387269|ref|NP_848348.1| inhibitor of apoptosis 1 [Choriston... [ score 99 E 2e-20 ] [ range 123 .. 200 ] [ duplicate a ]
+sequence
+------------------------------------LAHPSARRATFEDWP----RALRTHGIAEAGMFH
+TML---GDETACFFCDCRVRDWLPSDDPWQRHALANPQCYFVVCIKGD----------------------
+-------------------------*
+>P1;gi|30387269|ref|NP_848348.1| inhibitor of apoptosis 1 [Choriston... [ score 99 E 2e-20 ] [ range 26 .. 90 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENYP----INDDASSLIVNGFRY
+AHV---DDAVVCEYCGVVIKNWCEDDIVEFVHATLSPYCVY-----------------------------
+-------------------------*
+>P1;gi|11560097|ref|NP_071610.1| baculoviral IAP repeat-containing 5... [ score 99 E 2e-20 ] [ range 11 .. 94 ]
+sequence
+-----------------------------------QMYLKDHRIYTFKNWP----FSCTPERMAEAGFIH
+ENE---PDLAQCFFCFKELEGWEPDDNPIEEHRKHSPGCAFLTVKKQV------E---------------
+-------------------------*
+>P1;gi|21686773|ref|NP_663273.1| inhibitor of apoptosis 5 [Phthorima... [ score 99 E 2e-20 ] [ range 97 .. 175 ] [ duplicate b ]
+sequence
+-------------------------------PHKGDYTLLEHRIDSFQNYP----QCLKSVQLCEAGFYY
+TNV---GDAVCCYVCKIIAKNWTEKSNAWQVHKKLNEKCPLVELK-------------------------
+-------------------------*
+>P1;gi|6753090|ref|NP_033819.1| baculoviral IAP repeat-containing 5;... [ score 98 E 4e-20 ] [ range 18 .. 94 ]
+sequence
+------------------------------------------RIATFKNWP----FACTPERMAEAGFIH
+ENE---PDLAQCFFCFKELEGWEPDDNPIEEHRKHSPGCAFLTVKKQM------E---------------
+-------------------------*
+>P1;gi|25990777|gb|AAN76690.1| survivin [Xenopus laevis] [ score 98 E 4e-20 ] [ range 20 .. 100 ]
+sequence
+-----------------------------------NMYDYEARLATFADWP----FTCTPENMAKAGFVH
+ENE---PDVACCFFCLKELEGWEPDDDPWNEHSKRSVNCGFLSLTK------------------------
+-------------------------*
+>P1;gi|21898548|gb|AAM76714.1| survivin [Xenopus laevis] [ score 98 E 5e-20 ] [ range 20 .. 100 ]
+sequence
+-----------------------------------NMYDYDARLATFADWP----FTCTPESMAKAGFVH
+ENE---PDVACCFFCLKELEGWEPDDDPWTEHSKRSANCGFLSLTK------------------------
+-------------------------*
+>P1;gi|21624645|ref|NP_660196.1| survivin 2 [Danio rerio] >gi|165081... [ score 97 E 9e-20 ] [ range 1 .. 80 ]
+sequence
+------------------------------------MYSYEKRLQTFSEWP----FQCTPELMAKAGFVH
+ENE---PDVACCFYCLRELEGWEPDDNPWSEHAKRSPNCAFLHMSK------------------------
+-------------------------*
+>P1;gi|41352426|gb|AAS00933.1| ORF42 [Ostreid herpesvirus 1] [ score 97 E 1e-19 ] [ range 230 .. 303 ] [ duplicate a ]
+sequence
+------------------------------------MSKLENRIASLKFWP----GPIRDEKVARTGFFY
+TGE---KDMLTCYACACKLINWEKNDDPIKEHKINFPHCANMADVK------------------------
+-------------------------*
+>P1;gi|41352426|gb|AAS00933.1| ORF42 [Ostreid herpesvirus 1] [ score 97 E 1e-19 ] [ range 130 .. 193 ] [ duplicate b ]
+sequence
+---------------------------------------------TFGKWP----HSISIDSMVAEGFEF
+IGP---GDRVQCRHCKVILRNWETTDIPSSEHERNAPRCPLVV---------------------------
+-------------------------*
+>P1;gi|41352466|gb|AAS00973.1| ORF87 [Ostreid herpesvirus 1] [ score 93 E 2e-18 ] [ range 18 .. 89 ] [ duplicate b ]
+sequence
+--------------------------------------SKELRIKSFDDWP----HKNNPKNMIENYFYY
+IGI---NDKIQCVHCGGVISGFLEEDTHRIEHRRHFPKCP------------------------------
+-------------------------*
+>P1;gi|31221273|ref|XP_317026.1| ENSANGP00000019173 [Anopheles gambi... [ score 91 E 4e-18 ] [ range 15 .. 87 ]
+sequence
+----------------------------------------EDREKSFKHWP----FSCSIQKMAEAGFYW
+HGE---IDIAACFVCGKELDGWEESDDPWSEHRKHAPQCPFVK---------------------------
+-------------------------*
+>P1;gi|41352484|gb|AAS00991.1| ORF106 [Ostreid herpesvirus 1] [ score 90 E 1e-17 ] [ range 285 .. 346 ]
+sequence
+------------------------------------YKDVKERECSFSTWP----KQMKQDEMAEAGWYY
+TGK---SDRVRCFHCGITFGGWMPDDDPWSIHK-------------------------------------
+-------------------------*
+>P1;gi|14194234|gb|AAK56308.1| survivin delta [Gallus gallus] [ score 88 E 4e-17 ] [ range 20 .. 93 ]
+sequence
+------------------------------------------RAATFRNWP----FACTPERMAAAGFVH
+ENS---PDVAQCFFCLKELEGWEPDDDPLEEHKKHSAGCAFAALQK------------------------
+-------------------------*
+>P1;gi|7416053|dbj|BAA93676.1| survivin-beta [Homo sapiens] [ score 84 E 7e-16 ] [ range 12 .. 114 ]
+sequence
+----------------------------------PFLKDH--RISTFKNWP----FACTPERMAEAGFIH
+ENE---PDLAQCFFCFKELEGWEPDDDPIEEHKKHSSGCAFLSVKK------------------------
+-------------------------*
+>P1;gi|9635387|ref|NP_059285.1| ORF137 [Xestia c-nigrum granulovirus... [ score 80 E 8e-15 ] [ range 1 .. 80 ] [ duplicate a ]
+sequence
+------------------------------------MKSYQERIASYANWC----HTLTPERLSLLGFYY
+TGY---GDKIKCAYCSLTLERFKYANDPLVDHKRASPECKFIYEN-------------------------
+-------------------------*
+>P1;gi|9635387|ref|NP_059285.1| ORF137 [Xestia c-nigrum granulovirus... [ score 80 E 8e-15 ] [ range 107 .. 176 ] [ duplicate b ]
+sequence
+----------------------------------------EDRLKTFKQWP----AMLQSFEMCLSGLYY
+SNI---GDIVVCYVCRERIRDWWPDHSPWQRHYYQNSKCPHIVIN-------------------------
+-------------------------*
+>P1;gi|19075367|ref|NP_587866.1| cut17p [Schizosaccharomyces pombe] ... [ score 79 E 3e-14 ] [ range 18 .. 104 ] [ duplicate a ]
+sequence
+-----------------------------------EMCNYSKRLDTFKKWP----RAPTPETLATVGFYY
+NPI---SDNVTCYMCTKSFYDWEDDDDPLKEHITHSPSCPYILSSK------------------------
+-------------------------*
+>P1;gi|19075367|ref|NP_587866.1| cut17p [Schizosaccharomyces pombe] ... [ score 79 E 3e-14 ] [ range 110 .. 192 ] [ duplicate b ]
+sequence
+---------------------------------NPQAAALTKREQTFVDWP----YTNRPDYMAASGFVY
+ADA---KDAAHCLYCDINLHDWEPDDDPYTEHKRRRADCVF-----------------------------
+-------------------------*
+>P1;gi|32698638|ref|NP_872553.1| iap-5 [Adoxophyes orana granuloviru... [ score 78 E 5e-14 ] [ range 1 .. 82 ] [ duplicate a ]
+sequence
+------------------------------------MHVYDNRLATYDRWP----VKNNNEQLALVGFYY
+TGY---KDCLMCCYCKFESYNYDGTENTLRDHKRYSPNCPFYKNNQNE------NYV-------------
+-------------------------*
+>P1;gi|32698638|ref|NP_872553.1| iap-5 [Adoxophyes orana granuloviru... [ score 78 E 5e-14 ] [ range 102 .. 180 ] [ duplicate b ]
+sequence
+-------------------------------PHSGDYSLMEQRVASFFNFP----SILKVNDLCVSGFYY
+TNT---GDLVCCYACKVLCRDWKIDANVHNVHMNANKNCQYLKIV-------------------------
+-------------------------*
+>P1;gi|11931703|emb|CAC19117.1| putative inhibitor apoptosis protein... [ score 77 E 8e-14 ] [ range 2 .. 70 ] [ duplicate b ]
+sequence
+----------------------------------------EDRLKTFRKWK----GCVEKTKMAEAGFVF
+VQE---PDIARCAFCGLEVSGWDAPSDPETLHLRLNRTCPLILKK-------------------------
+-------------------------*
+>P1;gi|43229567|gb|EAC80348.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 22 .. 94 ]
+sequence
+------------------------------------MVSEKQRRRTFRKWK----EAGHGQDLAKNGFFY
+TGE---GDRTRCCFCGGFLGNFEPGDIPKASHKRFFPYCK------------------------------
+-------------------------*
+>P1;gi|42552626|gb|EAA75469.1| hypothetical protein FG05233.1 [Gibbe... [ score 77 E 1e-13 ] [ range 117 .. 200 ] [ duplicate b ]
+sequence
+-------------------------------PDQPYLK--EARKATFAGWP----HDCKTKQLVDAGWKY
+TES---DDMATCTYCQLALDGWEPTDKPLDEHYNRSPNCPFFIL--------------------------
+-------------------------*
+>P1;gi|38105842|gb|EAA52220.1| hypothetical protein MG04912.4 [Magna... [ score 73 E 2e-12 ] [ range 8 .. 100 ] [ duplicate a ]
+sequence
+----------------------------------DQYFVYENRLASFLTWP----HKLPPFELAKAGFYH
+PSN---PDNVTCFLCHKQMDGWEAEDNPIEEHLKHSPSC-------------------------------
+-------------------------*
+>P1;gi|38105842|gb|EAA52220.1| hypothetical protein MG04912.4 [Magna... [ score 73 E 2e-12 ] [ range 126 .. 189 ] [ duplicate b ]
+sequence
+---------------------------------------LEARKATFAGWP----YECKTKQLAEAGWIY
+TPT---NDNTTCAYCQLALDGWEASDKPIR----------------------------------------
+-------------------------*
+>P1;gi|40746036|gb|EAA65192.1| hypothetical protein AN0715.2 [Asperg... [ score 72 E 3e-12 ] [ range 5 .. 92 ] [ duplicate a ]
+sequence
+------------------------------------METFAARLATFDSWP----HSPSPAELAHAGFFY
+ETN---PDNTTCFLCGRALDGWEEDDNPITEHLKHAKDC-------------------------------
+-------------------------*
+>P1;gi|40746036|gb|EAA65192.1| hypothetical protein AN0715.2 [Asperg... [ score 72 E 3e-12 ] [ range 120 .. 198 ] [ duplicate b ]
+sequence
+----------------------------------------QARLATFGDWP----HDCQSDKMVEGGWYF
+CPN---EDLASCAYCKLSLDGWEPKDNPYDEHYRRSSDCSFFVFAK------------------------
+-------------------------*
+>P1;gi|11068101|ref|NP_068317.1| PxORF98 peptide [Plutella xylostell... [ score 72 E 4e-12 ] [ range 6 .. 72 ] [ duplicate a ]
+sequence
+------------------------------------MDKLESRVESFKYYE----RNVDVRKLSLLGFYY
+SGH---QDQIICAYCNLTLDRFTGDEDVQTDHRRFSPHCP------------------------------
+-------------------------*
+>P1;gi|11068101|ref|NP_068317.1| PxORF98 peptide [Plutella xylostell... [ score 72 E 4e-12 ] [ range 107 .. 181 ] [ duplicate b ]
+sequence
+------------------------------------YNYMENRLLSYKNWP----IVLQVFPLSLSGLYY
+TNV---GDAVVCYVCNFCIKGWSVDDEPDQVHYLINSRCELIKNIK------------------------
+-------------------------*
+>P1;gi|5650764|gb|AAD45937.1| putative inhibitor of apoptosis protei... [ score 70 E 8e-12 ] [ range 119 .. 195 ] [ duplicate a ]
+sequence
+---------------------------------NLDLSKMEDRLKTFKHWP-----TVLQHEMCLSGLYY
+SKI---GDIVVCYVCRERICNWWPDHSPWQRHYYQNSKCPHIVIN-------------------------
+-------------------------*
+>P1;gi|5650764|gb|AAD45937.1| putative inhibitor of apoptosis protei... [ score 70 E 8e-12 ] [ range 26 .. 97 ] [ duplicate b ]
+sequence
+--------------------------------------------ASFANWC----HTLSPERLSLLGFYY
+TGY---SDKIKCAYCALTLERFICGNDPLVDHKRASPECKFIYEN-------------------------
+-------------------------*
+>P1;gi|32411991|ref|XP_326476.1| hypothetical protein [Neurospora cr... [ score 69 E 3e-11 ] [ range 4 .. 93 ]
+sequence
+------------------------------------YFIYENRLVSFDGWP----HSLSADELAKAGFYF
+DPM---PDNVTCFLCENSFDGWTPGDHPIQEHLKHSPFC-------------------------------
+-------------------------*
+>P1;gi|17557418|ref|NP_506362.1| baculovirus Inhibitory Repeat famil... [ score 65 E 3e-10 ] [ range 166 .. 247 ] [ duplicate b ]
+sequence
+--------------------------------------TFDHRLATFQNFI----FDCTSKKLAKAGWFS
+ANK---KDKTKCPFCLVEL-DFDESDDPWEEHQKFSASCDFIKLGKLD------E---------------
+-------------------------*
+>P1;gi|19173605|ref|NP_597408.1| hypothetical protein [Encephalitozo... [ score 64 E 7e-10 ] [ range 1 .. 79 ]
+sequence
+------------------------------------MFSFKRRMETFAGWP----GAATPESLSIAGFMC
+SAE---SDDVRCVYCDKTLECWERTDVPAKEHYLHMSVCPLFNVNK------------------------
+-------------------------*
+>P1;gi|17564820|ref|NP_505949.1| baculovirus Inhibitory Repeat famil... [ score 64 E 7e-10 ] [ range 17 .. 93 ]
+sequence
+---------------------------------------YKDRLMTFKNFE----YDRDPDAVAQAGFYC
+TGP---QSG-KCAFCNKEL-DFDPEDDPWYEHTKRDEPCEFVRIGKLD------D---------------
+-------------------------*
+>P1;gi|39592102|emb|CAE75322.1| Hypothetical protein CBG23296 [Caeno... [ score 62 E 2e-09 ] [ range 21 .. 98 ]
+sequence
+---------------------------------------YKDRLTSFKNYK----YTCTSKALARAGFVF
+SGD---SSAV-CPFCVKCL-DFDPEDDPWEEHKRCGDICEFVRIGKLD------D---------------
+-------------------------*
+>P1;gi|43708012|gb|EAF09096.1| unknown [environmental sequence] [ score 62 E 4e-09 ] [ range 127 .. 200 ] [ duplicate a ]
+sequence
+----------------------------------------EVRAQTFKKWW----PHKQKKALARAGFVY
+TES---KDAVICPYCEYGVEGWEATDDPWEIHQSKVPDCHF-----------------------------
+-------------------------*
+>P1;gi|43708012|gb|EAF09096.1| unknown [environmental sequence] [ score 62 E 4e-09 ] [ range 1 .. 82 ] [ duplicate b ]
+sequence
+-------------------------------------QNLDNRLASFSTHP----H-LTPRALAEAGFYH
+TGT---SDNCTCFLCNLELGGWDEDDDPFEEHAK------------------------------------
+-------------------------*
+>P1;gi|39590550|emb|CAE66290.1| Hypothetical protein CBG11537 [Caeno... [ score 61 E 8e-09 ] [ range 20 .. 97 ] [ duplicate a ]
+sequence
+------------------------------------YLSYAARFASFKGFR----YACSSDALSHAGFYS
+TKN---PTSAKCPFCTLELT-FAENDDPWELHKAARPNCDYVM---------------------------
+-------------------------*
+>P1;gi|39590550|emb|CAE66290.1| Hypothetical protein CBG11537 [Caeno... [ score 61 E 8e-09 ] [ range 169 .. 246 ] [ duplicate b ]
+sequence
+------------------------------------------RFKTFDYTV----RGFRKKRLAKAGWCS
+TNC---SHLVKCPFCFSAVT-FSETDDFWEEHKRIAPDCDFVKLDKPK------E---------------
+-------------------------*
+>P1;gi|2497250|sp|O11453|IAPL_ASFM2 IAP-like protein p27 >gi|2062726... [ score 52 E 5e-06 ] [ range 35 .. 106 ]
+sequence
+-------------------------------PKYVGYSSVDARNKSFA--I----HDIKNEKFSNAGLFY
+TS----PTEITCYCCGMKFCNWIYEKHPLQVHGFWSRNCGFM----------------------------
+-------------------------*
+>P1;gi|9631046|ref|NP_047716.1| apoptosis inhibitor [Lymantria dispa... [ score 47 E 1e-04 ] [ range 81 .. 153 ]
+sequence
+--------------------------------------DERRRAASFRAFK----AGCGKNALAACGFFY
+NGR---CREAQCSRCGMVVVKLQRGDDLNYIHGVYSPRCAFVV---------------------------
+-------------------------*
+>P1;gi|6322548|ref|NP_012622.1| Protein involved in cell cycle regul... [ score 45 E 3e-04 ] [ range 153 .. 239 ]
+sequence
+------------------------------------------RKFTFQNWP----HSGSQEKMVNAGLMY
+TLM---NDTCYCIYCKQLLQGWSINDDPMSRHYKQNGNCYF-----------------------------
+-------------------------*
+>P1;gi|9631408|ref|NP_048313.1| ORF MSV242 putative inhibitor of apo... [ score 45 E 5e-04 ] [ range 5 .. 73 ]
+sequence
+---------------------------------NQQMPIDEMVEKTYDKWD----NSIEIYRMMNAGFTC
+KG----PSIVECMECRKVLTDWKKGDNPFFEHIYYSKDCP------------------------------
+-------------------------*
+>P1;gi|11560028|ref|NP_071567.1| baculoviral IAP repeat-containing 4... [ score 212 E 2e-54 ] [ range 124 .. 240 ] [ duplicate a ]
+sequence
+RNHFALDRPSETHADYLLRTGQVVDISDTIYPRNPAMCSEEARLKTFQNWPD--YAHLSPRELASAGLYY
+TGI---DDQVQCFCCGGKLKNWEPCDRAWSEHRRHFPNCFFVLGRNVN------VRSE------------
+-------------------------*
+>P1;gi|2497241|sp|Q60989|BIR4_MOUSE Baculoviral IAP repeat-containin... [ score 207 E 4e-53 ] [ range 124 .. 240 ] [ duplicate a ]
+sequence
+RNPFAPDRPPETHADYLLRTGQVVDISDTIYPRNPAMCSEEARLKSFQNWPD--YAHLTPRELASAGLYY
+TGA---DDQVQCFCCGGKLENWEPCDRAWSEHRRHFPNCFFVLGRNVN------VRSE------------
+-------------------------*
+>P1;gi|45383007|ref|NP_989919.1| inhibitor of apoptosis protein 3 [G... [ score 179 E 8e-45 ] [ range 124 .. 233 ] [ duplicate a ]
+sequence
+--PSALEDLSDVEADYLLRTRQVVDMSDTLYPKNPAMCSEEARLKSFHNWPP--YGLLTPKELASAGLYY
+TGV---GDQVACFCCGGKLKNWEPGDRAWSEHKRHFPKCFFVLGRDV-----------------------
+-------------------------*
+>P1;gi|35902986|ref|NP_919377.1| baculoviral IAP repeat-containing 4... [ score 146 E 8e-35 ] [ range 107 .. 209 ] [ duplicate a ]
+sequence
+------DEEAENR-EFLLRTGEVVD--ESMYPVVPHMKSEEARLSTFNNWPA--DSPVRPEDLAEAGMYY
+IGI---DDNVQCFCCGGGLSGWEQGDDPWSEHAKYYSNCFFFLGHNV-----------------------
+-------------------------*
+>P1;gi|35902986|ref|NP_919377.1| baculoviral IAP repeat-containing 4... [ score 146 E 8e-35 ] [ range 188 .. 295 ] [ duplicate b ]
+sequence
+------DDPWSEHAKYYSNCGNVPLTTPRPRANVHPTDTFEGRLDSFKG--R--QHPIDPERLARAGFYS
+TGE---QDRVMCFRCGGGVKAWMPDEDPWEEHARHYPGCSFLL---------------------------
+-------------------------*
+>P1;gi|32698628|ref|NP_872543.1| iap-3 [Adoxophyes orana granuloviru... [ score 144 E 4e-34 ] [ range 64 .. 165 ] [ duplicate a ]
+sequence
+------DDPFEEHFKFSPLCPLLMSSLNNRQPVHKKYCDENKRMLTFHNWPK--ALKQTPKELAEAGFFY
+TNV---GDRVRCFYCDVGLKDWEPTDTAWGQHARWTSLCEYVL---------------------------
+-------------------------*
+>P1;gi|32698628|ref|NP_872543.1| iap-3 [Adoxophyes orana granuloviru... [ score 144 E 4e-34 ] [ range 5 .. 87 ] [ duplicate b ]
+sequence
+--------------------------------NNIDMLKLSNRYKSFENW-T--LKSPASHQLSICGFYY
+TGN---QDTTKCPYCNLEIEKWEADDDPFEEHFKFSPLCP-LLMSSLN------NR--------------
+-------------------------*
+>P1;gi|6635437|gb|AAF19819.1| inhibitor of apoptosis protein [Tricho... [ score 140 E 6e-33 ] [ range 77 .. 177 ] [ duplicate b ]
+sequence
+---FSIDK-TDNHDTFSL-TADAVD-----------MSREDERIKTFEKWPV--S-FLSGEQLARNGFYY
+LGR---GDEVRCAFCKVEIMRWVEGDDPAKDHQRWAPQCPFVLGGGVN------TDS-------------
+-------------------------*
+>P1;gi|15320683|ref|NP_203195.1| IAP-3 [Epiphyas postvittana nucleop... [ score 140 E 8e-33 ] [ range 61 .. 169 ] [ duplicate a ]
+sequence
+------DDPAKDHQKWAPHCPLIRNAHKQNEPKHPKYASEAARLKTFEGWPR--SMKQRPDELAEAGFYY
+TSR---GDKTLCFYCNGGLKDWENDDIPWEQHARWFSNCGYLL---------------------------
+-------------------------*
+>P1;gi|15320683|ref|NP_203195.1| IAP-3 [Epiphyas postvittana nucleop... [ score 140 E 8e-33 ] [ range 8 .. 85 ] [ duplicate b ]
+sequence
+------------------------------------MKNEAVRLTTFVNWPV--T-FLTPEQMATNGFYY
+LGR---ADEVRCAFCKVEIMHWQEGDDPAKDHQKWAPHCPLI--RNAH------KQNE------------
+-------------------------*
+>P1;gi|37651380|ref|NP_932639.1| inhibitor of apoptosis protein 3 [C... [ score 138 E 2e-32 ] [ range 4 .. 73 ] [ duplicate b ]
+sequence
+------------------------------------MKDENARLATYVDWPV--S-FLEPSQMAANGFYY
+LRR---SDEVRCAFCKVEIMRWLEGDDPAVDHKRWAPQCPFV----------------------------
+-------------------------*
+>P1;gi|30387263|ref|NP_848342.1| inhibitor of apoptosis 3 [Choriston... [ score 138 E 2e-32 ] [ range 92 .. 192 ] [ duplicate a ]
+sequence
+----APQERAGLHAP---QEREATNQLPSPPPAHPKYAIEAARLRTFTEWPR--GLKQRPEKLAEAGFFY
+TGR---SDKVKCFYCDGGLDNWEQDDEPWQQHALWFGRCAYVL---------------------------
+-------------------------*
+>P1;gi|7021325|gb|AAF35285.1| inhibitor of apoptosis protein [Spodop... [ score 136 E 8e-32 ] [ range 77 .. 170 ] [ duplicate b ]
+sequence
+---FSIDK-TDNHDTFGFSADTV------------DMRKEDERMKTFEKWPV--S-FLSGEQLARNGFYY
+LGR---RDEARCAFCKVEIMRWVEGDDPAKDHQRWAPQCPFVRKLN------------------------
+-------------------------*
+>P1;gi|24286571|gb|AAN46650.1| inhibitor of apoptosis protein [Bomby... [ score 136 E 1e-31 ] [ range 54 .. 141 ] [ duplicate b ]
+sequence
+-------DKTDNHDTF------------NFLPDMPDMRREEERLKTFDQWPV--T-FLTPEQLARNGFYY
+LGR---GDEVCCAFCKVEIMRWVEGDDPAADHRRWAPQCPFVR---------------------------
+-------------------------*
+>P1;gi|9629973|ref|NP_046191.1| inhibitor of apoptosis protein 3 [Or... [ score 136 E 1e-31 ] [ range 104 .. 189 ] [ duplicate a ]
+sequence
+--------------------------------AHPQYATEAARLRTFAEWPR--GLKQRPEELAEAGFFY
+TGQ---GDKTRCFCCDGGLKDWEPDDAPWQQHARWYDRCEYVLGRDFV------QR--------------
+-------------------------*
+>P1;gi|9629973|ref|NP_046191.1| inhibitor of apoptosis protein 3 [Or... [ score 136 E 1e-31 ] [ range 15 .. 87 ] [ duplicate b ]
+sequence
+------------------------------------MKNKAARLGTYTNWPV--Q-FLEPSRMAASGFYY
+LGR---GDEVRCAFCKVEITNWVRGDDPETDHKRWAPQCPFVRNN-------------------------
+-------------------------*
+>P1;gi|27923008|dbj|BAC55952.1| HcIAP-3 [Hyphantria cunea nucleopoly... [ score 136 E 2e-31 ] [ range 62 .. 170 ] [ duplicate a ]
+sequence
+------DDPAVDHCPFI--NGAVSNREENELPVHPKYATEVARLRTFAEWPR--GLKQQPDKLAEAGFYY
+TGQ---GDKTKCFYCDGGLKDWEADDEPWKLHARWFDRCPYVL---------------------------
+-------------------------*
+>P1;gi|31199161|ref|XP_308528.1| ENSANGP00000016568 [Anopheles gambi... [ score 135 E 2e-31 ] [ range 140 .. 240 ] [ duplicate a ]
+sequence
+-------QPTSSHDNPEWHRQTVLNVSAPVYPTIPHYEIGDNRLASFQEWPK--CMKQTPEQMADAGFFY
+TGK---SDVVICFCCGGQLRDWLPEYNPWVEHAKNFSGCPYL----------------------------
+-------------------------*
+>P1;gi|31199161|ref|XP_308528.1| ENSANGP00000016568 [Anopheles gambi... [ score 135 E 2e-31 ] [ range 20 .. 102 ] [ duplicate b ]
+sequence
+------------------------------LCNELNYNQEINRLRTFPLWTV--P-YIYPEELARWGFFY
+TGY---RDCVRCYFCHIELGGWDEHDVVIEEHLKWSPDCRLMTKRPTD----------------------
+-------------------------*
+>P1;gi|10765285|gb|AAG22971.1| inhibitor of apoptosis protein 2 [Rat... [ score 134 E 5e-31 ] [ range 134 .. 222 ] [ duplicate a ]
+sequence
+-----------------LNSRAVEDFSLRMNPCSYAMSTEEARFLSYSMWP---LSFLSPAELAKAGFYY
+TGP---GDRVACFACGGKLSNWEPNDDPLSEHRRHFPHCPFL----------------------------
+-------------------------*
+>P1;gi|10765285|gb|AAG22971.1| inhibitor of apoptosis protein 2 [Rat... [ score 134 E 5e-31 ] [ range 206 .. 311 ] [ duplicate b ]
+sequence
+------DDPLSEHRRHFPHCPFLENTSETQRVSNLSMQTHSARMSTFLYWPS--SVLVQPEQLASAGFYY
+VDH---NDDVKCFCCDGGLRCWEPGDDPWIEHAKWFPRCEFLIRM-------------------------
+-------------------------*
+>P1;gi|6680698|ref|NP_031491.1| baculoviral IAP repeat-containing pr... [ score 132 E 1e-30 ] [ range 227 .. 332 ] [ duplicate a ]
+sequence
+------DDAMSEHRRHFPHCPFLENTSETQRFSNLSMQTHSARLRTFLYWPP--SVPVQPEQLASAGFYY
+VDR---NDDVKCFCCDGGLRCWEPGDDPWIEHAKWFPRCEFLIRM-------------------------
+-------------------------*
+>P1;gi|6680698|ref|NP_031491.1| baculoviral IAP repeat-containing pr... [ score 132 E 1e-30 ] [ range 155 .. 243 ] [ duplicate b ]
+sequence
+-----------------LNSRAVEDFSSRMDPCSYAMSTEEARFLTYSMWP---LSFLSPAELARAGFYY
+IGP---GDRVACFACGGKLSNWEPKDDAMSEHRRHFPHCPFL----------------------------
+-------------------------*
+>P1;gi|4502141|ref|NP_001157.1| baculoviral IAP repeat-containing pr... [ score 132 E 2e-30 ] [ range 234 .. 339 ] [ duplicate a ]
+sequence
+------DDAMSEHRRHFPNCPFLENSLETLRFSNLSMQTHAARMRTFMYWPS--SVPVQPEQLASAGFYY
+VGR---NDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEFLIRM-------------------------
+-------------------------*
+>P1;gi|4502141|ref|NP_001157.1| baculoviral IAP repeat-containing pr... [ score 132 E 2e-30 ] [ range 161 .. 250 ] [ duplicate b ]
+sequence
+-----------------LNSRAVEDISSSTNPYSYAMSTEEARFLTYHMWP---LTFLSPSELARAGFYY
+IGP---GDRVACFACGGKLSNWEPKDDAMSEHRRHFPNCPFL----------------------------
+-------------------------*
+>P1;gi|27903492|gb|AAO24632.1| inhibitor of apoptosis protein-1 [Ict... [ score 132 E 2e-30 ] [ range 154 .. 246 ] [ duplicate b ]
+sequence
+-----------------LSSRGVEDMSHQRACHNPSMRREQDRLDTFQNW-T--LTTITPAELAKAGFYY
+LSQ---GDRVACFSCGGHLSNWEPGDRAMSEHQRHYPNCRFVRG--------------------------
+-------------------------*
+>P1;gi|27903492|gb|AAO24632.1| inhibitor of apoptosis protein-1 [Ict... [ score 132 E 2e-30 ] [ range 16 .. 96 ] [ duplicate c ]
+sequence
+----------------------------TSAPADLQYTSELFRISTFAKFPS--TAPVTERSLARAGFFY
+TGI---CDRVQCFRCNVTIDNWQTGECPAERHKQMSPNCAFI----------------------------
+-------------------------*
+>P1;gi|25140579|gb|AAN73272.1| pRb-interacting protein RbBP-36 [Homo... [ score 131 E 3e-30 ] [ range 161 .. 250 ] [ duplicate b ]
+sequence
+-----------------LNSRAVEDISSSTNPYSHAMSTEEARFLTYHMWP---LTFLSPSELARAGFDY
+IGP---GDRVACFACGGKLSNWEPKDDAMSEHRRHFPNCPFL----------------------------
+-------------------------*
+>P1;gi|2656127|gb|AAB88044.1| IAP homolog [Gallus gallus] [ score 131 E 5e-30 ] [ range 226 .. 330 ] [ duplicate a ]
+sequence
+------DNAMSEHRRHFPNCPFVENLMPSFNVSNVTMQTHEARVKTFINWPT--RIPVQPEQLADAGFYY
+VGR---NDDVKCFCCDGGLRCWESGDDPWIEHAKWFPRCEYLL---------------------------
+-------------------------*
+>P1;gi|2656127|gb|AAB88044.1| IAP homolog [Gallus gallus] [ score 131 E 5e-30 ] [ range 170 .. 248 ] [ duplicate b ]
+sequence
+---------------------------------NPSMSTEEARLRTFHAWP---LMFLSPAELAKAGLYY
+LGT---ADKVACFTCGGQLSNWEPKDNAMSEHRRHFPNCPFVLMRD------------------------
+-------------------------*
+>P1;gi|13027446|ref|NP_076477.1| inhibitor of apoptosis protein 1 [R... [ score 130 E 6e-30 ] [ range 219 .. 323 ] [ duplicate a ]
+sequence
+------DDPLSEHRRHFPSCPFLKDFTSQYTVSNLSMQTHAARVRTFSTWPS--SALVHPQELASAGFYY
+TGH---SDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEYLI---------------------------
+-------------------------*
+>P1;gi|13027446|ref|NP_076477.1| inhibitor of apoptosis protein 1 [R... [ score 130 E 6e-30 ] [ range 16 .. 101 ] [ duplicate c ]
+sequence
+--------------------------SADTFELKYDFSCELYRLSTYSTFPA--GVPVSERSLARAGFYY
+TGV---NDKVKCFCCGLMLDNWKQGDSPIEKHRKLYPSCSFVQTLNP-----------------------
+-------------------------*
+>P1;gi|2497240|sp|Q90660|BIR_CHICK Inhibitor of apoptosis protein (I... [ score 130 E 8e-30 ] [ range 169 .. 248 ] [ duplicate b ]
+sequence
+--------------------------------QNPSMSTEEARLRTSHAWP---LMCLWPAEVAKAGLDD
+LGT---ADKVACVNCGVKLSNWEPKDNAMSEHRRHFPNCPFVLMRD------------------------
+-------------------------*
+>P1;gi|22000680|gb|AAM88215.1| IAP-like protein [Xenopus laevis] [ score 128 E 3e-29 ] [ range 34 .. 108 ] [ duplicate b ]
+sequence
+---------------------------------RPSMRSEAERLRSFSAWPR--TCPQSPVEMARSGFYY
+LGP---GDRVQCFSCGGVLRSWEPGDRPDTEHRKFFPSCTFL----------------------------
+-------------------------*
+>P1;gi|37359682|emb|CAE47763.1| SI:bZ1P14.6.2 (baculoviral IAP repea... [ score 127 E 4e-29 ] [ range 189 .. 281 ] [ duplicate b ]
+sequence
+-----------------ISSRGVEDMSHQRPPANPGMRREQERLDTFQNW-T--LATVTPAELAKAGLYY
+LGQ---GDRVACFSCGGQLGSWEPGDRAVSEHQRHYPNCRFVRG--------------------------
+-------------------------*
+>P1;gi|37359682|emb|CAE47763.1| SI:bZ1P14.6.2 (baculoviral IAP repea... [ score 127 E 4e-29 ] [ range 45 .. 122 ] [ duplicate c ]
+sequence
+-------------------------------PADLQYDNSSERISTYAKFPT--TAAVTERSLARAGFYY
+TGL---GDRVQCFRCNVTADNWQSGDCPAERHKQLSPNCSFI----------------------------
+-------------------------*
+>P1;gi|3540252|gb|AAC34373.1| apoptosis inhibitor IAP-1 [Buzura supp... [ score 127 E 4e-29 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---------------------------------YSKMTEEANRLASFTNWPV--V-FLTPQQMAKNGFYY
+IGV---HDEVRCAFCKVEFRKWMEGDNPADHHRKWAPQCPFL----------------------------
+-------------------------*
+>P1;gi|31199159|ref|XP_308527.1| ENSANGP00000009540 [Anopheles gambi... [ score 127 E 7e-29 ] [ range 1 .. 74 ] [ duplicate b ]
+sequence
+---------------------------------------EENRLRSFTSWPV--T-FISPNVLARYGFYY
+VGT---DDTVKCYFCRVEIGLWEPQDDVIQEHLRWSPYCPLLKKRPTN----------------------
+-------------------------*
+>P1;gi|31200751|ref|XP_309323.1| ENSANGP00000017960 [Anopheles gambi... [ score 126 E 8e-29 ] [ range 1 .. 99 ]
+sequence
+---------SRARASAIMSSASGSEVQPAEMPYMPEFAVLDARIRSFESWRF--GHMQNPTRLAVAGFYY
+TGT---DDEVRCFQCDAGLRDWLVTDDPWQEHARCFAECTFLR---------------------------
+-------------------------*
+>P1;gi|4758752|ref|NP_004527.1| baculoviral IAP repeat-containing 1;... [ score 126 E 1e-28 ] [ range 248 .. 345 ] [ duplicate b ]
+sequence
+-------DITGEHFVNSWVQREL--PMASAYCNDSIFAYEELRLDSFKDWPR--ESAVGVAALAKAGLFY
+TGI---KDIVQCFSCGGCLEKWQEGDDPLDDHTRCFPNCPFL----------------------------
+-------------------------*
+>P1;gi|4758752|ref|NP_004527.1| baculoviral IAP repeat-containing 1;... [ score 126 E 1e-28 ] [ range 53 .. 132 ] [ duplicate c ]
+sequence
+--------------------------------YNSQMRSEAKRLKTFVTYEP--YSSWIPQEMAAAGFYF
+TGV---KSGIQCFCCSLILFGAGLTRLPIEDHKRFHPDCGFLLNKDV-----------------------
+-------------------------*
+>P1;gi|6680696|ref|NP_031490.1| baculoviral IAP repeat-containing 2;... [ score 126 E 1e-28 ] [ range 217 .. 321 ] [ duplicate a ]
+sequence
+------DDAMSEHQRHFPSCPFLKDSASRYTVSNLSMQTHAARIRTFSNWPS--SALVHSQELASAGFYY
+TGH---SDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEYLL---------------------------
+-------------------------*
+>P1;gi|6680696|ref|NP_031490.1| baculoviral IAP repeat-containing 2;... [ score 126 E 1e-28 ] [ range 14 .. 99 ] [ duplicate c ]
+sequence
+--------------------------SADTFELKYDFSCELYRLSTYSAFPR--GVPVSERSLARAGFYY
+TGA---NDKVKCFCCGLMLDNWKQGDSPMEKHRKLYPSCNFVQTLNP-----------------------
+-------------------------*
+>P1;gi|31206615|ref|XP_312274.1| ENSANGP00000002826 [Anopheles gambi... [ score 126 E 1e-28 ] [ range 203 .. 315 ]
+sequence
+----AIASAINERLTDLLRGARVTESAKSV--QRFQMYSEAARRQTFEAWPD--YKWVLPDQMAQAGFYH
+NGN---KDRAMCFTCTVCLVCWEKTDEPWSEHERHSPECPFVKGEFTQ----------------------
+-------------------------*
+>P1;gi|1184314|gb|AAC46988.1| inhibitor of apoptosis protein [ score 125 E 2e-28 ] [ range 163 .. 280 ] [ duplicate a ]
+sequence
+------DNAFEEHKRFFPQCPRVLGIQPTTLPLRPKYACVDARLRTFTDWPI--SNIQPASALAQAGLYY
+QKI---GDQVRCFHCNIGLRSWQKEDEPWFEHAKWSPKCQFVL---------------------------
+-------------------------*
+>P1;gi|1184314|gb|AAC46988.1| inhibitor of apoptosis protein [ score 125 E 2e-28 ] [ range 80 .. 194 ] [ duplicate b ]
+sequence
+-----------NHCGNVPRSQESDNVDSPESCSCPDLLLEANRLVTFKDWPN--PN-ITPQALAKAGFYY
+LNR---LDHVKCVWCNGVIAKWEKNDNAFEEHKRFFPQCPFATGKNLD----------------------
+-------------------------*
+>P1;gi|3914339|sp|O62640|PIAP_PIG Putative inhibitor of apoptosis >g... [ score 125 E 2e-28 ] [ range 1 .. 78 ] [ duplicate b ]
+sequence
+------------------------------------MNTEKDRLLTFQMWP---LTFLSPADLAKAGFYY
+IGP---GDRVACFACGGKLSNWEPKDDAMTEHLRHFPNCPF-LGNQLQ------DSS-------------
+-------------------------*
+>P1;gi|17137140|ref|NP_477127.1| Inhibitor of apoptosis 2 CG8293-PA ... [ score 125 E 2e-28 ] [ range 5 .. 80 ] [ duplicate c ]
+sequence
+-----------------------------------GMELESVRLATFGEWPL--NAPVSAEDLVANGFFA
+TGN---WLEAECHFCHVRIDRWEYGDQVAERHRRSSPICSMVLAPN------------------------
+-------------------------*
+>P1;gi|29567173|ref|NP_818735.1| inhibitor of apoptosis protein 3 [A... [ score 125 E 3e-28 ] [ range 6 .. 84 ] [ duplicate b ]
+sequence
+--------------------------SNNNVMNQSHYKNYSNRLATFTNWTY--AI--SPEALAENGFYH
+FGY---LDTVRCAFCKLEIGSFDPDDVVHQEHFKYSPMCPYL----------------------------
+-------------------------*
+>P1;gi|34853492|ref|XP_226742.2| baculoviral IAP repeat-containing 1... [ score 125 E 3e-28 ] [ range 144 .. 227 ] [ duplicate a ]
+sequence
+--------------------------SPETLPRRARYHEEEARLESFEDWPF--YAHGTPRVLSAAGFVF
+TGK---RDTVQCFSCGGCLGNWEEGDDPWKEHAKWFPKCEFL----------------------------
+-------------------------*
+>P1;gi|34853492|ref|XP_226742.2| baculoviral IAP repeat-containing 1... [ score 125 E 3e-28 ] [ range 54 .. 132 ] [ duplicate c ]
+sequence
+---------------------------------NAQMRSEAKRLKTFVTYDT--FRSWTPQEMAAAGFYY
+TGV---RHGVQCFCCSLILFATRLRKVPIEVHRKLQPECEFLSGKDV-----------------------
+-------------------------*
+>P1;gi|26245333|gb|AAN77585.1| neuronal apoptosis inhibitory protein... [ score 124 E 3e-28 ] [ range 54 .. 132 ] [ duplicate c ]
+sequence
+---------------------------------NSQMRSEAKRLKTFETYDK--FRSWTPQEMAAAGFYH
+TGV---KLGVQCFCCSLILFSTRLRKLPIENHKKLRPECEFLLGKDV-----------------------
+-------------------------*
+>P1;gi|4502139|ref|NP_001156.1| baculoviral IAP repeat-containing pr... [ score 124 E 4e-28 ] [ range 147 .. 235 ] [ duplicate b ]
+sequence
+------------------NSRANQDFSAMRSSYHCAMNNENARLLTFQTWP---LTFLSPTDLAKAGFYY
+IGP---GDRVACFACGGKLSNWEPKDNAMSEHLRHFPKCPFI----------------------------
+-------------------------*
+>P1;gi|34853608|ref|XP_226743.2| similar to neuronal apoptosis inhib... [ score 124 E 5e-28 ] [ range 54 .. 132 ] [ duplicate c ]
+sequence
+---------------------------------NAQMRSEAKRLKTFVTYDA--FKSWTPQEMAAAGFYY
+TGV---RHGVQCFCCSLILFGTSLRKVPIESHRKLRPQCEFLSGKDV-----------------------
+-------------------------*
+>P1;gi|27902277|ref|NP_035001.1| baculoviral IAP repeat-containing 1... [ score 123 E 7e-28 ] [ range 250 .. 345 ] [ duplicate b ]
+sequence
+---------TGEHFVKSWVRRELPMVSA--YCNDSVFTNEELRMDMFKDWPQ--ESPVGFEALVRAGFFY
+TGK---KDIVRCFSCGGCLEKWAEGDDPMEDHIKFFPECVFL----------------------------
+-------------------------*
+>P1;gi|27902277|ref|NP_035001.1| baculoviral IAP repeat-containing 1... [ score 123 E 7e-28 ] [ range 54 .. 132 ] [ duplicate c ]
+sequence
+---------------------------------NSQMRSEAKRLKTFESYDT--FRSWTPQEMAAAGFYH
+TGV---KLGVQCFCCSLILFGNSLRKLPIERHKKLRPECEFLQGKDV-----------------------
+-------------------------*
+>P1;gi|9964335|ref|NP_064803.1| inhibitor of apoptosis protein [Amsa... [ score 121 E 3e-27 ] [ range 60 .. 174 ] [ duplicate a ]
+sequence
+------DKPEIDHKKFSPNCGNNKNISNQKGAVHPNLSNIVERLKTYKEWPI--SMPISTEKLAEAGFFY
+TGK---SDKVKCFYCDGGLNKWETDDDPWIQHARWFDKCDYV----------------------------
+-------------------------*
+>P1;gi|14602331|ref|NP_148878.1| ORF94 IAP [Cydia pomonella granulov... [ score 118 E 3e-26 ] [ range 61 .. 151 ]
+sequence
+-------------------RREFSDAMDMKRPLRRGLNTVAARLKTFKKWPV--GLGQSKEEMVEAGLCY
+SGR---GDQVECFCCGESICDWRVGDDPWRRHIEANMGCQFVVMK-------------------------
+-------------------------*
+>P1;gi|10442822|ref|NP_057336.1| baculoviral IAP repeat-containing 6... [ score 117 E 7e-26 ] [ range 255 .. 336 ]
+sequence
+------------------------------------MYSEANRRETFTSWPH--YRWAQPDPMAQAGFYH
+SSG---DDRAMCFTCSVCLVCWEPTDEPWSEHERHSPNCPFVKGEHTQ----------------------
+-------------------------*
+>P1;gi|18138294|ref|NP_542729.1| iap-3 [Helicoverpa zea single nucle... [ score 116 E 1e-25 ] [ range 67 .. 185 ] [ duplicate a ]
+sequence
+------DDPLEEHARWAPQCSYVKSIMDQEFYKNSSYSTYENRLKSFDNWPQ--TLIILKSKLAEAGWVY
+TGK---DDITICFHCGGKLSNWTLTHEPWREHARWYRNCDFVL---------------------------
+-------------------------*
+>P1;gi|18138294|ref|NP_542729.1| iap-3 [Helicoverpa zea single nucle... [ score 116 E 1e-25 ] [ range 12 .. 95 ] [ duplicate b ]
+sequence
+------------------------------------LKTESYRYVTFANWPV--YYFMDCAKMAQAGFYY
+LNK---DDHVKCAFCKVEMMNWQHEDDPLEEHARWAPQCSYVIMSDAN------VCSE------------
+-------------------------*
+>P1;gi|22549539|ref|NP_689312.1| putative IAP3 [Mamestra configurata... [ score 116 E 1e-25 ] [ range 5 .. 82 ] [ duplicate b ]
+sequence
+---------------------------------NDTMKLYANRLMSFDKWPP--NHPISPHCLAINGFYH
+SVY---SDNVRCAFCKVEICKWQANDDVERDHERWAPQCKLVR---------------------------
+-------------------------*
+>P1;gi|28489089|ref|XP_283820.1| similar to livin inhibitor of apopt... [ score 115 E 2e-25 ] [ range 85 .. 156 ]
+sequence
+-------------------------------PAFPEMDSEDLRLASFYDWPS--TAGIQPEPLAAAGFFH
+TGQ---QDKVRCFFCYGGLQSWERGDDPWTEHARWFPR--------------------------------
+-------------------------*
+>P1;gi|12597588|ref|NP_075172.1| iap-3 [Heliocoverpa armigera nucleo... [ score 114 E 3e-25 ] [ range 67 .. 185 ] [ duplicate a ]
+sequence
+------DDPLEEHARWAPQCSYVKSIMDQESYKNKSMITYENRLKSFDNWPQ--TLIILKSKLAEAGWVY
+TGK---DDITICFHCGGKLSNWTLTHEPWREHARWYRNCDFVV---------------------------
+-------------------------*
+>P1;gi|3445577|gb|AAC32497.1| inhibitor of apoptosis protein [Rattus... [ score 114 E 3e-25 ] [ range 63 .. 151 ] [ duplicate a ]
+sequence
+-----------------LNSRAVEDFSLRMNPCSYAMSTEEARFLSYSMWP---LSFLSPAELGKAAFYY
+TGP---GDRVPCFACGGKLSNWEPNDDLLSEHRRHFPHCPFL----------------------------
+-------------------------*
+>P1;gi|21842285|gb|AAM77747.1| BIR-containing ubiquitin-conjugating ... [ score 113 E 8e-25 ] [ range 245 .. 326 ]
+sequence
+------------------------------------MHSEAVRRQTFEKWPD--YKWALPDQMAQAGFYH
+SSG---EDRAMCFTCSVCLVCWEKTDEPWSEHERHSPLCPFVKGEYTQ----------------------
+-------------------------*
+>P1;gi|20070018|ref|NP_613222.1| inhibitor of apoptosis-3 IAP-3 [Mam... [ score 113 E 1e-24 ] [ range 4 .. 82 ] [ duplicate b ]
+sequence
+--------------------------------YNDTMKLYANRLMSFDKWPP--NHPLTPHCLAVNGFYH
+FKY---SDNVRCAFCKVEICRWQAHDNVEEDHKRWAPQCKLVR---------------------------
+-------------------------*
+>P1;gi|41352478|gb|AAS00985.1| ORF99 [Ostreid herpesvirus 1] [ score 111 E 5e-24 ] [ range 5 .. 87 ]
+sequence
+----------------------------------PEMILYEDRVNSFGGWSK--QLRPNKDTLAPAGFFY
+TGM---GDKVKCFACGLEVIDWDPTDNPWTEHGKFSGDCLYLKMTGAI------VKSK------------
+-------------------------*
+>P1;gi|21703226|gb|AAM76110.1| inhibitor of apoptosis protein-like p... [ score 108 E 3e-23 ] [ range 43 .. 115 ]
+sequence
+------------------------------HPTNASFGDDRKRLQTFSNWPN--RIKATPQEIAEAGFYY
+LGE---RDRCKCFYCNGGLQNWDKYDDPWMEHAKWFPK--------------------------------
+-------------------------*
+>P1;gi|11560097|ref|NP_071610.1| baculoviral IAP repeat-containing 5... [ score 108 E 3e-23 ] [ range 1 .. 87 ]
+sequence
+-------------------------MGATALPPIWQMYLKDHRIYTFKNWPE--DCSCTPERMAEAGFIH
+CPT---EDLAQCFFCFKELEGWEPDDNPIEEHRKHSPGCAFL----------------------------
+-------------------------*
+>P1;gi|9629979|ref|NP_046197.1| inhibitor of apoptosis protein 1 [Or... [ score 107 E 4e-23 ] [ range 104 .. 194 ] [ duplicate a ]
+sequence
+-----------------ISTDAVVVSPGKPRCVYNRLAHPSARRATFDHWPA--ALNALTHDIAEAGMFH
+TML---GDETACFFCDCRVRDWLPGDDPWQRHALANPQCYFVV---------------------------
+-------------------------*
+>P1;gi|6753090|ref|NP_033819.1| baculoviral IAP repeat-containing 5;... [ score 107 E 6e-23 ] [ range 6 .. 87 ]
+sequence
+------------------------------LPQIWQLYLKNYRIATFKNWPE--DCACTPERMAEAGFIH
+CPT---EDLAQCFFCFKELEGWEPDDNPIEEHRKHSPGCAFL----------------------------
+-------------------------*
+>P1;gi|21898548|gb|AAM76714.1| survivin [Xenopus laevis] [ score 106 E 8e-23 ] [ range 20 .. 96 ]
+sequence
+-----------------------------------NMYDYDARLATFADWPE--NCKCTPESMAKAGFVH
+CPT---EDVACCFFCLKELEGWEPDDDPWTEHSKRSANCGFL----------------------------
+-------------------------*
+>P1;gi|25990777|gb|AAN76690.1| survivin [Xenopus laevis] [ score 105 E 1e-22 ] [ range 20 .. 96 ]
+sequence
+-----------------------------------NMYDYEARLATFADWPE--NCKCTPENMAKAGFVH
+CPT---EDVACCFFCLKELEGWEPDDDPWNEHSKRSVNCGFL----------------------------
+-------------------------*
+>P1;gi|30387269|ref|NP_848348.1| inhibitor of apoptosis 1 [Choriston... [ score 105 E 2e-22 ] [ range 95 .. 195 ] [ duplicate a ]
+sequence
+----AQNERFNEHAS----TNAVVVSPGKPRCVYSRLAHPSARRATFEDWPR--ALRALTHGIAEAGMFH
+TML---GDETACFFCDCRVRDWLPSDDPWQRHALANPQCYFVV---------------------------
+-------------------------*
+>P1;gi|35902992|ref|NP_919378.1| baculoviral IAP repeat-containing 5... [ score 104 E 3e-22 ] [ range 10 .. 91 ]
+sequence
+-----------------------------------KMYFYENRLQTFVGWPE--GCVCTPENMAKAGFIH
+TPS---EDIAQCFFCLKELEGWEPEDDPEKEHKAHSPSCDFILLKKT-----------------------
+-------------------------*
+>P1;gi|27923004|dbj|BAC55950.1| HcIAP-1 [Hyphantria cunea nucleopoly... [ score 102 E 1e-21 ] [ range 92 .. 195 ] [ duplicate a ]
+sequence
+-NKIAQNEQFDENAS----TNVVVVAPGNPRCVYNRLAHPNARRATFKDWPG--ALSGLTHKIAEAGMFH
+TML---GDETACFFCDCRVRDWLPTDDPWQRHAISNPQCYFMV---------------------------
+-------------------------*
+>P1;gi|21686773|ref|NP_663273.1| inhibitor of apoptosis 5 [Phthorima... [ score 102 E 2e-21 ] [ range 1 .. 76 ] [ duplicate a ]
+sequence
+------------------------------------MNSYENRLKTFENW----TGKEDAEKLALVGFYY
+SGF---GDRIICYYCKLDLYNFFVGDDSIKDHKRYSPNCPFFLAKTIN----------------------
+-------------------------*
+>P1;gi|21686773|ref|NP_663273.1| inhibitor of apoptosis 5 [Phthorima... [ score 102 E 2e-21 ] [ range 80 .. 177 ] [ duplicate b ]
+sequence
+--------------TNFLSPRVITSNYTMLAPHKGDYTLLEHRIDSFQNYPQ--CLKSLVVQLCEAGFYY
+TNV---GDAVCCYVCKIIAKNWTEKSNAWQVHKKLNEKCPLVELKNI-----------------------
+-------------------------*
+>P1;gi|37651379|ref|NP_932645.1| inhibitor of apoptosis protein 1 [C... [ score 101 E 3e-21 ] [ range 107 .. 198 ] [ duplicate a ]
+sequence
+-----------------LSTDAILVSPGRPRCVYSRLAHPSARRATFEYWPV--ALQHLMPSIAEAGMFH
+TKL---GDETACFFCDYRVRNWLPGDDPWRRHAIANPQCYFVV---------------------------
+-------------------------*
+>P1;gi|31221273|ref|XP_317026.1| ENSANGP00000019173 [Anopheles gambi... [ score 100 E 5e-21 ] [ range 11 .. 86 ]
+sequence
+------------------------------------YLLQEDREKSFKHWPD--DKQCSIQKMAEAGFYW
+HGT---EDIAACFVCGKELDGWEESDDPWSEHRKHAPQCPFV----------------------------
+-------------------------*
+>P1;gi|11992273|gb|AAG42494.1| survivin [Gallus gallus] [ score 100 E 8e-21 ] [ range 7 .. 88 ]
+sequence
+-----------------------------MLPKEWLVYLVSTRAATFRNWPE--GCACTPERMAAAGFVH
+CPS---EDVAQCFFCLKELEGWEPDDDPLEEHKKHSAGCAF-----------------------------
+-------------------------*
+>P1;gi|15320690|ref|NP_203202.1| IAP-1 [Epiphyas postvittana nucleop... [ score 100 E 1e-20 ] [ range 108 .. 199 ] [ duplicate a ]
+sequence
+-----------------LSTNAFLVTPGKPICVYSRLTHTNARKSTFEDWPA--ALQHLVANISEAGMFH
+TKL---GDETACFFCDCRVRDWLPNDDPWQRHAIANPQCYFVV---------------------------
+-------------------------*
+>P1;gi|9630835|ref|NP_047432.1| IAP1=AcMNPV orf27 [Bombyx mori nucle... [ score 99 E 1e-20 ] [ range 9 .. 95 ] [ duplicate b ]
+sequence
+---------------YFINTRD--NFRDNIAEHVFDMLLE--RHGSFENYPI--VNTAFINSLIVNGFKY
+NQV---DDHVVCEYCEAEIKNWSEDECIEYAHVTLSPYCAY-----------------------------
+-------------------------*
+>P1;gi|23577874|ref|NP_703017.1| inhibitor of apoptosis - 1 [Rachipl... [ score 98 E 3e-20 ] [ range 16 .. 95 ] [ duplicate b ]
+sequence
+------------------------NFRDNTAEHVFDMLIE--RHSSFENYPI--ENTAFINSLIVNGFKY
+NQV---DDHVVCEYCEAEIKNWSEDECIEYAHVTLSPYCAY-----------------------------
+-------------------------*
+>P1;gi|41352466|gb|AAS00973.1| ORF87 [Ostreid herpesvirus 1] [ score 98 E 4e-20 ] [ range 93 .. 166 ] [ duplicate a ]
+sequence
+-------------------------------YRHPGYHLDAERLKSFKNWRY--ENIVRKMDLVAAGLFY
+TGI---EDRCACHQCGNELYEWEAGDNPKEEHKRLFPDCK------------------------------
+-------------------------*
+>P1;gi|41352466|gb|AAS00973.1| ORF87 [Ostreid herpesvirus 1] [ score 98 E 4e-20 ] [ range 13 .. 89 ] [ duplicate b ]
+sequence
+---------------------------------RPLRESKELRIKSFDDWPH--NNPVMTKNMIENYFYY
+IGI---NDKIQCVHCGGVISGFLEEDTHRIEHRRHFPKCP------------------------------
+-------------------------*
+>P1;gi|14602353|ref|NP_148900.1| ORF116 IAP-5 [Cydia pomonella granu... [ score 95 E 3e-19 ] [ range 58 .. 172 ] [ duplicate b ]
+sequence
+RDH----KRYSPHCPFLLNSPRIISSNYPLLPHKGDYSLLEHRINSFQNFPA--SLKSLVSDLSANGFYY
+TNI---GDAVCCYACLIIAKDWTMNSDVRQIHVRLNARCPLL----------------------------
+-------------------------*
+>P1;gi|5650764|gb|AAD45937.1| putative inhibitor of apoptosis protei... [ score 94 E 4e-19 ] [ range 99 .. 193 ] [ duplicate a ]
+sequence
+-------QSPTNYANTSLVTQNVDDFLNLDLSKM------EDRLKTFKHWPT--VLQHLSFEMCLSGLYY
+SKI---GDIVVCYVCRERICNWWPDHSPWQRHYYQNSKCPHIV---------------------------
+-------------------------*
+>P1;gi|33622306|ref|NP_891953.1| iap-5 [Cryptophlebia leucotreta gra... [ score 94 E 4e-19 ] [ range 1 .. 75 ] [ duplicate a ]
+sequence
+------------------------------------MDVYENRLNSFKYWP----GHENKEKLALVGFYF
+SGV---GDRIVCYFCKLDLYNFCVGEDSVRDHKRYSPNCPF-LTNNIN----------------------
+-------------------------*
+>P1;gi|33622306|ref|NP_891953.1| iap-5 [Cryptophlebia leucotreta gra... [ score 94 E 4e-19 ] [ range 83 .. 186 ] [ duplicate b ]
+sequence
+----------------FMSPRSVTSNYPLLTAHKGDYSLLEQRINSYLNFPS--CLKSLVSDLASNGFYY
+TNF---GDAVCCYACLIVAKDWTTNSNVKSIHSKLNSRCPLLLNHNNN------ERN-------------
+-------------------------*
+>P1;gi|9635387|ref|NP_059285.1| ORF137 [Xestia c-nigrum granulovirus... [ score 94 E 8e-19 ] [ range 1 .. 77 ] [ duplicate b ]
+sequence
+------------------------------------MKSYQERIASYANWCH--TNNCTPERLSLLGFYY
+TGY---GDKIKCAYCSLTLERFKYANDPLVDHKRASPECKFI----------------------------
+-------------------------*
+>P1;gi|40746036|gb|EAA65192.1| hypothetical protein AN0715.2 [Asperg... [ score 91 E 4e-18 ] [ range 20 .. 104 ] [ duplicate a ]
+sequence
+---------------------------------HPDRRSSSAKFVKPISWP---HSKPSPAELAHAGFFY
+NPY---EDNTTCFLCGRALDGWEEDDNPITEHLKHAKDCGWAVMMDIQ------QRS-------------
+-------------------------*
+>P1;gi|40746036|gb|EAA65192.1| hypothetical protein AN0715.2 [Asperg... [ score 91 E 4e-18 ] [ range 79 .. 195 ] [ duplicate b ]
+sequence
+------DNPITEHLKHAKDCGWAVMMDIQQRSSNPSEPIVQARLATFGDWPH--DGKCQSDKMVEGGWYF
+CPN---EDLASCAYCKLSLDGWEPKDNPYDEHYRRSSDCSFFV---------------------------
+-------------------------*
+>P1;gi|32411991|ref|XP_326476.1| hypothetical protein [Neurospora cr... [ score 91 E 5e-18 ] [ range 3 .. 97 ]
+sequence
+--------------DYFIYENRLVSFDGQPLANKDGIPPADSRGK-LVKWP---HKSLSADELAKAGFYF
+DPM---PDNVTCFLCENSFDGWTPGDHPIQEHLKHSPFCGWAV---------------------------
+-------------------------*
+>P1;gi|41352484|gb|AAS00991.1| ORF106 [Ostreid herpesvirus 1] [ score 91 E 5e-18 ] [ range 285 .. 346 ]
+sequence
+------------------------------------YKDVKERECSFSTWPK--QMKQDSKEMAEAGWYY
+TGK---SDRVRCFHCGITFGGWMPDDDPWSIHK-------------------------------------
+-------------------------*
+>P1;gi|19075367|ref|NP_587866.1| cut17p [Schizosaccharomyces pombe] ... [ score 91 E 6e-18 ] [ range 82 .. 202 ] [ duplicate a ]
+sequence
+------DDPLKEHITHSPSCPWAYILSSKNNPNNPQAAALTKREQTFVDWPY--DYHCEPSVMAASGFVY
+NPT---KDAAHCLYCDINLHDWEPDDDPYTEHKRRRADCVFFTWKDPN------SLS-------------
+-------------------------*
+>P1;gi|19075367|ref|NP_587866.1| cut17p [Schizosaccharomyces pombe] ... [ score 91 E 6e-18 ] [ range 18 .. 109 ] [ duplicate b ]
+sequence
+-----------------------------------EMCNYSKRLDTFKKWPR--A-KPTPETLATVGFYY
+NPI---SDNVTCYMCTKSFYDWEDDDDPLKEHITHSPSCPYILKNNPN------Q---------------
+-------------------------*
+>P1;gi|43229567|gb|EAC80348.1| unknown [environmental sequence] [ score 90 E 8e-18 ] [ range 22 .. 98 ]
+sequence
+------------------------------------MVSEKQRRRTFRKWKE--AGHHLGVDLAKNGFFY
+TGE---GDRTRCCFCGGFLGNFEPGDIPKASHKRFFPYCKMARG--------------------------
+-------------------------*
+>P1;gi|7416053|dbj|BAA93676.1| survivin-beta [Homo sapiens] [ score 89 E 1e-17 ] [ range 16 .. 110 ]
+sequence
+----------------------------------------DHRISTFKNWPE--GCACTPERMAEAGFIH
+CPT---EDLAQCFFCFKELEGWEPDDDPIEEHKKHSSGCAFL----------------------------
+-------------------------*
+>P1;gi|41352426|gb|AAS00933.1| ORF42 [Ostreid herpesvirus 1] [ score 89 E 2e-17 ] [ range 170 .. 296 ] [ duplicate a ]
+sequence
+RNWETTDIPSSEHERNAPRCPLVVQKMDMNKAFSQDMSKLENRIASLKFWPG--PIR-DIEKVARTGFFY
+TGE---KDMLTCYACACKLINWEKNDDPIKEHKINFPHC-------------------------------
+-------------------------*
+>P1;gi|41352426|gb|AAS00933.1| ORF42 [Ostreid herpesvirus 1] [ score 89 E 2e-17 ] [ range 110 .. 197 ] [ duplicate b ]
+sequence
+-----------------------EDMNVPERGWDPPMS--KDPKSTFGKWPH--SEYISIDSMVAEGFEF
+IGP---GDRVQCRHCKVILRNWETTDIPSSEHERNAPRCPLVVQRYL-----------------------
+-------------------------*
+>P1;gi|18251959|gb|AAL66179.1| X-linked inhibitor of apoptosis prote... [ score 85 E 4e-16 ] [ range 44 .. 104 ] [ duplicate a ]
+sequence
+--------------------------NSTNAPINPAMADYEARIITFGTW----MYSVNKEQLARAGFYA
+LGE---GDKVQCFHCGGGLNDWKP----------------------------------------------
+-------------------------*
+>P1;gi|42552626|gb|EAA75469.1| hypothetical protein FG05233.1 [Gibbe... [ score 84 E 7e-16 ] [ range 84 .. 199 ] [ duplicate b ]
+sequence
+------DDPLVEHLTHAPECGWAVVAAAQQAPDQP--YLKEARKATFGRWPH--DTKCKTKQLVDAGWKY
+TPT---EDMATCTYCQLALDGWEPTDKPLDEHYNRSPNCPFFI---------------------------
+-------------------------*
+>P1;gi|11068101|ref|NP_068317.1| PxORF98 peptide [Plutella xylostell... [ score 82 E 3e-15 ] [ range 107 .. 186 ] [ duplicate a ]
+sequence
+------------------------------------YNYMENRLLSYKNWPI--VLQHLVFPLSLSGLYY
+TNV---GDAVVCYVCNFCIKGWSVDDEPDQVHYLINSRCELIKNIKLK------RQS-------------
+-------------------------*
+>P1;gi|38105842|gb|EAA52220.1| hypothetical protein MG04912.4 [Magna... [ score 81 E 6e-15 ] [ range 8 .. 104 ] [ duplicate a ]
+sequence
+-------------DQYFVYENRLASFLEPQPVAKRRASNAGSRTPKTLTWP---HKFLPPFELAKAGFYF
+DPN---PDNVTCFLCHKQMDGWEAEDNPIEEHLKHSPSCGWAV---------------------------
+-------------------------*
+>P1;gi|38105842|gb|EAA52220.1| hypothetical protein MG04912.4 [Magna... [ score 81 E 6e-15 ] [ range 85 .. 189 ] [ duplicate b ]
+sequence
+----AEDNPIEEHLKHSPSCGWAVDGLEQVDPR--EARLLEARKATFGRWPY--ESKCKTKQLAEAGWIY
+TPT---NDNTTCAYCQLALDGWEASDKPIR----------------------------------------
+-------------------------*
+>P1;gi|32698638|ref|NP_872553.1| iap-5 [Adoxophyes orana granuloviru... [ score 72 E 3e-12 ] [ range 1 .. 77 ] [ duplicate a ]
+sequence
+------------------------------------MHVYDNRLATYDRWPK--NNNECLEQLALVGFYY
+TGY---KDCLMCCYCKFESYNYIDGENTLRDHKRYSPNCPFYKNNQ------------------------
+-------------------------*
+>P1;gi|32698638|ref|NP_872553.1| iap-5 [Adoxophyes orana granuloviru... [ score 72 E 3e-12 ] [ range 96 .. 184 ] [ duplicate b ]
+sequence
+-------------------------FDSLPAPHSGDYSLMEQRVASFFNFPS--ILKGLVNDLCVSGFYY
+TNT---GDLVCCYACKVLCRDWKIDANVHNVHMNANKNCQYLKIVNVK------M---------------
+-------------------------*
+>P1;gi|19173605|ref|NP_597408.1| hypothetical protein [Encephalitozo... [ score 66 E 2e-10 ] [ range 1 .. 79 ]
+sequence
+------------------------------------MFSFKRRMETFAGWPE--YGAATPESLSIAGFMC
+SAE---SDTVRCVYCDKTLECWERTDVPAKEHYLHMSVCPLF---NVN------K---------------
+-------------------------*
+>P1;gi|17557418|ref|NP_506362.1| baculovirus Inhibitory Repeat famil... [ score 64 E 6e-10 ] [ range 21 .. 98 ] [ duplicate b ]
+sequence
+------------------------------------YISAAERFASFKGFVY--DKRCTSEKLARAGFYS
+TAS---PEFAKCPFCMLEI-NFEQCDDPWEKHKSGSPHCEFVM---------------------------
+-------------------------*
+>P1;gi|17564820|ref|NP_505949.1| baculovirus Inhibitory Repeat famil... [ score 64 E 8e-10 ] [ range 17 .. 87 ]
+sequence
+---------------------------------------YKDRLMTFKNFEY--DAKCTSQAVAQAGFYC
+TGP---QSG-KCAFCNKEL-DFDPEDDPWYEHTKRDEPCEFVR---------------------------
+-------------------------*
+>P1;gi|43708012|gb|EAF09096.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 74 .. 202 ] [ duplicate a ]
+sequence
+------DDPFEEHAKAVKIEKRKRDRSDGQYTTVYETANSEVRAQTFKKWWP--HKQPTVKALARAGFVY
+NPS---KDAVICPYCEYGVEGWEATDDPWEIHQSKVPDCHFFR---------------------------
+-------------------------*
+>P1;gi|43708012|gb|EAF09096.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 2 .. 88 ] [ duplicate b ]
+sequence
+--------------------------------------NLDNRLASFVTKPK--SKHLTPRALAEAGFYH
+TPG---TDNCTCFLCNLELGGWDEDDDPFEEHAKR-AGCAW-----------------------------
+-------------------------*
+>P1;gi|39590550|emb|CAE66290.1| Hypothetical protein CBG11537 [Caeno... [ score 59 E 2e-08 ] [ range 20 .. 97 ]
+sequence
+------------------------------------YLSYAARFASFKGFRY--DKKCSSDALSHAGFYS
+TAT---KKNAKCPFCTLELT-FAENDDPWELHKAARPNCDYVM---------------------------
+-------------------------*
+>P1;gi|2497249|sp|O11452|IAPL_ASFM1 IAP-like protein p27 >gi|2062724... [ score 58 E 3e-08 ] [ range 21 .. 93 ]
+sequence
+-------------------------------PKYVGYSSVDARNQSFA---I--HDIKNYEKFSNAGLFY
+TS----PTEITCYCCGMKFCNWLYEKHPLQVHAFWSRNCGFMR---------------------------
+-------------------------*
+>P1;gi|9628141|ref|NP_042727.1| IAP homolog [African swine fever vir... [ score 58 E 4e-08 ] [ range 21 .. 93 ]
+sequence
+-------------------------------PKYVGYSSIDARNQSFA---I--HGIKNYEKFSNAGFFY
+TS----PTEITCYCCGMKFCNWLYEKHPLQVHGFWSRNCGFMR---------------------------
+-------------------------*
+>P1;gi|2497250|sp|O11453|IAPL_ASFM2 IAP-like protein p27 >gi|2062726... [ score 56 E 1e-07 ] [ range 35 .. 107 ]
+sequence
+-------------------------------PKYVGYSSVDARNKSFA---I--HDIKNYEKFSNAGLFY
+TS----PTEITCYCCGMKFCNWIYEKHPLQVHGFWSRNCGFMR---------------------------
+-------------------------*
+>P1;gi|6322548|ref|NP_012622.1| Protein involved in cell cycle regul... [ score 52 E 3e-06 ] [ range 125 .. 244 ]
+sequence
+--------------DYSFHMG-VSDWKNDKYFSNPDDENVNLRKFTFQNWPH--SGSQNIEKMVNAGLYD
+SSM---NDTCYCIYCKQLLQGWSINDDPMSRHYKQNGNCYFFQTRN------------------------
+-------------------------*
+>P1;gi|29567138|ref|NP_818700.1| inhibitor of apoptosis protein 2 [A... [ score 49 E 3e-05 ] [ range 89 .. 160 ]
+sequence
+--------------------------------------NETLRKESFVKFKT--AYKLNGHMLAENGFFF
+YGR---NNEICCSNCGIVIVKLNPNDSIIKLHKTFSKNCDFI----------------------------
+-------------------------*
+>P1;gi|20069989|ref|NP_613193.1| inhibitor of apoptosis-2 IAP-2 [Mam... [ score 47 E 6e-05 ] [ range 83 .. 155 ]
+sequence
+------------------------------------YKNVTLRKESFRKFKI--ARAHFKDQLAQNGFYY
+YGK---KVEIRCSCCQIVIVKLNKTDNASVIHRTWSPECHF-----------------------------
+-------------------------*
+>P1;gi|22549511|ref|NP_689283.1| putative IAP-2 [Mamestra configurat... [ score 47 E 8e-05 ] [ range 83 .. 155 ]
+sequence
+------------------------------------YKNVTLRKESFRKFKI--ARAHFKEQLAQNGFYY
+YGK---KVEIRCSCCQIVIVKLNKSDNVSIIHRTWSPECHF-----------------------------
+-------------------------*
+>P1;gi|12597547|ref|NP_075131.1| iap-2 [Heliocoverpa armigera nucleo... [ score 46 E 2e-04 ] [ range 64 .. 156 ]
+sequence
+-----------------MRSIRSHSFSLCPRSLHLLRQSEYLRRDSFRQYKK--AKKNSLDLLAQNGFYY
+YGV---KTEVRCAYCLLVIVKFNFNDNLADIHRINSIDCIFV----------------------------
+-------------------------*
+>P1;gi|9634309|ref|NP_037848.1| ORF88 iap2 [Spodoptera exigua nucleo... [ score 45 E 3e-04 ] [ range 116 .. 199 ]
+sequence
+-------------------------FSTCPMANERLFLNEALRKQSFKTSRT--HYRDNRETLAKNGFYH
+YGK---KFEIRCSSCKFVIVKLKADEDVRIIHAHYSPNCHF-----------------------------
+-------------------------*
+>P1;gi|15426322|ref|NP_203617.1| iap-2 [Helicoverpa armigera nuclear... [ score 45 E 4e-04 ] [ range 64 .. 156 ]
+sequence
+-----------------MRSIRSHSFSLCPRSLHLLRQSEYLRRDSFRQYKK--AKKNSLDLLAQNGFYY
+FGV---KTEVRCAYCLLVIVKFNFSDNLADIHRINSIDCIFV----------------------------
+-------------------------*
+>P1;gi|11560097|ref|NP_071610.1| baculoviral IAP repeat-containing 5... [ score 213 E 5e-55 ] [ range 6 .. 140 ]
+sequence
+------------------------------LPPIWQMYLKDHRIYTFKNWPFLEDCSCTPERMAEAGFIH
+CPTENEPDLAQCFFCFKELEGWEPDDNPIEEHRKHSPGCAFLTVKKQVEELTVSEFLKLDKQRAKNKIAK
+ETNNKQKEFEETRRTVRQSIEQLAA*
+>P1;gi|6753090|ref|NP_033819.1| baculoviral IAP repeat-containing 5;... [ score 210 E 4e-54 ] [ range 6 .. 140 ]
+sequence
+------------------------------LPQIWQLYLKNYRIATFKNWPFLEDCACTPERMAEAGFIH
+CPTENEPDLAQCFFCFKELEGWEPDDNPIEEHRKHSPGCAFLTVKKQMEELTVSEFLKLDRQRAKNKIAK
+ETNNKQKEFEETAKTTRQSIEQLAA*
+>P1;gi|10443628|gb|AAG17540.1| apoptosis inhibitor survivin [Sus scr... [ score 210 E 6e-54 ] [ range 5 .. 140 ]
+sequence
+-----------------------------SLPPAWQLYLKDHRISTFKNWPFLEGCACTPERMAAAGFIH
+CPTENEPDLAQCFFCFKELEGWEPDDDPIEEHKKHSSGCAFLSVKKQFEELTLSEFLKLDKERAKNKIAK
+ETNNKQKEFEETAKKVRCAIEQLAA*
+>P1;gi|11992273|gb|AAG42494.1| survivin [Gallus gallus] [ score 188 E 2e-47 ] [ range 8 .. 140 ]
+sequence
+------------------------------LPKEWLVYLVSTRAATFRNWPFTEGCACTPERMAAAGFVH
+CPSENSPDVAQCFFCLKELEGWEPDDDPLEEHKKHSAGCAFAALQKDPSNLTVQEFLKLDKKRTKNVIKK
+AISQKETDIEDVAKGVRHAIENM--*
+>P1;gi|27762629|gb|AAO20085.1| SIX [Xenopus laevis] [ score 186 E 8e-47 ] [ range 18 .. 153 ]
+sequence
+-----------------------------SMPDEWRLYNLATRLRTFSNWPFTEDCACTPERMAEAGFVH
+CPTDNSPDVVKCFFCLKELEGWQPEDDPMDEHKKHSPSCLFIALKKKAEELTLSEFLKLDLEHTKIKMQK
+QMNLHIERFQAKANEVRGHLEKLDA*
+>P1;gi|35902992|ref|NP_919378.1| baculoviral IAP repeat-containing 5... [ score 173 E 5e-43 ] [ range 11 .. 138 ]
+sequence
+------------------------------------MYFYENRLQTFVGWPFEEGCVCTPENMAKAGFIH
+TPSENSPDIAQCFFCLKELEGWEPEDDPEKEHKAHSPSCDFILLKKTVDSLTVEEFLKLQKERQKFIIKK
+SCGHAIDKFEDAVKLKRNQIIQTA-*
+>P1;gi|21624645|ref|NP_660196.1| survivin 2 [Danio rerio] >gi|165081... [ score 161 E 3e-39 ] [ range 1 .. 128 ]
+sequence
+------------------------------------MYSYEKRLQTFSEWPFREDCQCTPELMAKAGFVH
+CPSENEPDVACCFYCLRELEGWEPDDNPWSEHAKRSPNCAFLHMSKTFDELTAIEYFHLEQERLRIYIKK
+MGHRKRDEVEATSKNLRALI-----*
+>P1;gi|21355525|ref|NP_650608.1| CG12265-PA [Drosophila melanogaster... [ score 148 E 2e-35 ] [ range 27 .. 143 ]
+sequence
+--------------------------------------LEQHRVESYKSWPFPETASCSISKMAEAGFYW
+TGTKRENDTATCFVCGKTLDGWEPEDDPWKEHVKHAPQCEFAKLSCPERNLTVSQFLEILGTVVKGSIEK
+TCKAFKSSFVRENEK----------*
+>P1;gi|21898548|gb|AAM76714.1| survivin [Xenopus laevis] [ score 146 E 6e-35 ] [ range 21 .. 119 ]
+sequence
+------------------------------------MYDYDARLATFADWPFTENCKCTPESMAKAGFVH
+CPTENEPDVACCFFCLKELEGWEPDDDPWTEHSKRSANCGFLSLTKCVNDLTMEGFLRLEGDRIK-----
+-------------------------*
+>P1;gi|25990777|gb|AAN76690.1| survivin [Xenopus laevis] [ score 144 E 3e-34 ] [ range 21 .. 119 ]
+sequence
+------------------------------------MYDYEARLATFADWPFTENCKCTPENMAKAGFVH
+CPTENEPDVACCFFCLKELEGWEPDDDPWNEHSKRSVNCGFLSLTKCVNDLTMEGFLRLEGDRIK-----
+-------------------------*
+>P1;gi|29567173|ref|NP_818735.1| inhibitor of apoptosis protein 3 [A... [ score 136 E 1e-31 ] [ range 102 .. 224 ] [ duplicate a ]
+sequence
+-------------------------------PPRYPEFSEKERLDSFRTWPPL--MPIKPEQLAEAGFFY
+---TGFGDKTKCFYCAGGVWNWELNDDPWEQHAIWFGNCTYVKIIKGQNVITESRLIKENNKTNDNTILS
+TTPDDEFKYSEDAE-----------*
+>P1;gi|10442822|ref|NP_057336.1| baculoviral IAP repeat-containing 6... [ score 132 E 1e-30 ] [ range 252 .. 331 ]
+sequence
+---------------------------------RSLMYSEANRRETFTSWPHVGYRWAQPDPMAQAGFYH
+QPASSGDDRAMCFTCSVCLVCWEPTDEPWSEHERHSPNCPFVK---------------------------
+-------------------------*
+>P1;gi|10765285|gb|AAG22971.1| inhibitor of apoptosis protein 2 [Rat... [ score 132 E 1e-30 ] [ range 20 .. 93 ] [ duplicate c ]
+sequence
+----------------------------------YDFSCELYRMSTYSAFP--RGVPVSERSLARAGFYY
+---TGVNDKVKCFCCGLMLDNWKQGDSPTEKHRQFYPSCSFVQ---------------------------
+-------------------------*
+>P1;gi|31206615|ref|XP_312274.1| ENSANGP00000002826 [Anopheles gambi... [ score 132 E 2e-30 ] [ range 229 .. 310 ]
+sequence
+--------------------------------QRFQMYSEAARRQTFEAWPHMDYKWVLPDQMAQAGFYH
+QPGEGNKDRAMCFTCTVCLVCWEKTDEPWSEHERHSPECPFVK---------------------------
+-------------------------*
+>P1;gi|26245335|gb|AAN77586.1| neuronal apoptosis inhibitory protein... [ score 131 E 4e-30 ] [ range 144 .. 242 ] [ duplicate a ]
+sequence
+---------------------------------------EEARLESFEDWPFY-AHGTSPRVLSAAGFVF
+---TGKRDTVQCFSCGGCLGNWEEGDDPWKEHAKWFPKCEFLQSKKSPEEITQEGFLHVTGEHFVNS---
+-------------------------*
+>P1;gi|26245335|gb|AAN77586.1| neuronal apoptosis inhibitory protein... [ score 131 E 4e-30 ] [ range 263 .. 340 ] [ duplicate b ]
+sequence
+---------------------------------------EELRMDTFKDWPHESPGAV--EALVKAGLFY
+---TGKRDIVQCFSCGGCMEKWAEGDNPIEDHTKFFPNCVFLQTLKSSAEVI------------------
+-------------------------*
+>P1;gi|7512288|pir||S68450 apoptosis inhibitor hiap-2 - human >gi|11... [ score 130 E 4e-30 ] [ range 41 .. 115 ] [ duplicate c ]
+sequence
+----------------------------------YDFSCELYRMSTYSTFP--AGVPVSERSLARAGFYY
+---TGVNDKVKCFCCGLMLDNWKLGDSPIQKHKQLYPSCSFIQN--------------------------
+-------------------------*
+>P1;gi|34853492|ref|XP_226742.2| baculoviral IAP repeat-containing 1... [ score 130 E 6e-30 ] [ range 278 .. 355 ] [ duplicate b ]
+sequence
+---------------------------------------EGLRMDTFKDWPHESPMAV--EALVKAGLFY
+---TGKKDIVQCFSCGGCMENWKEGDDPIEDHTKFFPNCVFLQTLKSSAEVI------------------
+-------------------------*
+>P1;gi|34853608|ref|XP_226743.2| similar to neuronal apoptosis inhib... [ score 127 E 4e-29 ] [ range 278 .. 355 ] [ duplicate b ]
+sequence
+---------------------------------------EGLRMDTFKDWPHESSVAV--EALVKAGLFY
+---TGKKDIVQCFSCGGCMENWKEGDDPIEDHTKFFPNCVFLQTLKSSAEVI------------------
+-------------------------*
+>P1;gi|5932010|gb|AAD56763.1| neuronal apoptosis inhibitory protein ... [ score 127 E 5e-29 ] [ range 278 .. 355 ] [ duplicate b ]
+sequence
+---------------------------------------EELRMDTFKDWPHESPVAV--DALVRAGLFY
+TGKKG---IVQCFSCGGCMEKCTEGDDPIQEHNKFFPNCVFLQTPKSSAEVI------------------
+-------------------------*
+>P1;gi|2497241|sp|Q60989|BIR4_MOUSE Baculoviral IAP repeat-containin... [ score 127 E 6e-29 ] [ range 259 .. 368 ] [ duplicate a ]
+sequence
+--------------------------------PAMAEY--EARIVTFGTW----TSSVNKEQLARAGFY-
+--ALGEGDKVKCFHCGGGLTDWKPSEDPWEQHAKWYPGCKYLLDEKG-QEYINNIHLTHSLEESLGRTAE
+KTPSLTKKIDDT-------------*
+>P1;gi|2497241|sp|Q60989|BIR4_MOUSE Baculoviral IAP repeat-containin... [ score 127 E 6e-29 ] [ range 21 .. 94 ] [ duplicate c ]
+sequence
+-----------------------------------EEFVEENRLKTFANFP--SSSPVSASTLARAGFLY
+---TGEGDTVQCFSCHAAIDRWQYGDSAVGRHRRISPNCRFIN---------------------------
+-------------------------*
+>P1;gi|7021325|gb|AAF35285.1| inhibitor of apoptosis protein [Spodop... [ score 126 E 7e-29 ] [ range 202 .. 306 ] [ duplicate a ]
+sequence
+--------------------------------PVHPRYSEAARLRSFKDWP--RCMRQKPEELAEAGFFY
+---TGQGDKTKCFYCDGGLKDWENHDVPWEQHARWFDRCAYVQLVKEYVQKVISEACEVSASEAERDVA-
+-------------------------*
+>P1;gi|13027446|ref|NP_076477.1| inhibitor of apoptosis protein 1 [R... [ score 125 E 1e-28 ] [ range 159 .. 248 ] [ duplicate a ]
+sequence
+-----------------------------TSPYHFAMNTEKARLLTYQTWPL---SFLSPAELAKAGFYY
+---TGPGDRVACFACGGKLSNWDRKDDPLSEHRRHFPSCPFLKDVGQFSQYTVS----------------
+-------------------------*
+>P1;gi|30387263|ref|NP_848342.1| inhibitor of apoptosis 3 [Choriston... [ score 125 E 2e-28 ] [ range 115 .. 222 ] [ duplicate a ]
+sequence
+-------------------------------PPAHPKYIEAARLRTFTEWP--RGLKQRPEKLAEAGFFY
+---TGRSDKVKCFYCDGGLDNWEQDDEPWQQHALWFGRCAYVLLVKDYVQKVVTESCAIRDTTKKQVVKH
+T------------------------*
+>P1;gi|33622285|ref|NP_891932.1| iap [Cryptophlebia leucotreta granu... [ score 124 E 4e-28 ] [ range 65 .. 170 ]
+sequence
+--------------------------------------TKAARYKTFETWPL--GLKQTKDDMVDAGFYY
+---SGYGDRVECFYCGVILCDWWPEDEAWRRHIKANSECAYVLMRKKDD--FIDDILK-DKEINKEEIIK
+TENIDTEDSEHT-------------*
+>P1;gi|32528299|ref|NP_001158.2| baculoviral IAP repeat-containing p... [ score 124 E 5e-28 ] [ range 266 .. 369 ] [ duplicate b ]
+sequence
+----------------------------------------EARIFTFGTWIY----SVNKEQLARAGFY-
+--ALGEGDKVKCFHCGGGLTDWKPSEDPWEQHAKWYPGCKYLLEQKG-QEYINNIHLTHSLEECLVRTTE
+KTPSLTRRIDDT-------------*
+>P1;gi|32528299|ref|NP_001158.2| baculoviral IAP repeat-containing p... [ score 124 E 5e-28 ] [ range 21 .. 94 ] [ duplicate c ]
+sequence
+-----------------------------------EEFVEENRLKTFANFP--SGSPVSASTLARAGFLY
+---TGEGDTVRCFSCHAAVDRWQYGDSAVGRHRKVSPNCRFIN---------------------------
+-------------------------*
+>P1;gi|21842285|gb|AAM77747.1| BIR-containing ubiquitin-conjugating ... [ score 124 E 5e-28 ] [ range 245 .. 321 ]
+sequence
+------------------------------------MHSEAVRRQTFEKWPHMDYKWALPDQMAQAGFYH
+QPSSSGEDRAMCFTCSVCLVCWEKTDEPWSEHERHSPLCPFVK---------------------------
+-------------------------*
+>P1;gi|31221273|ref|XP_317026.1| ENSANGP00000019173 [Anopheles gambi... [ score 123 E 7e-28 ] [ range 13 .. 97 ]
+sequence
+--------------------------------------LQEDREKSFKHWPFSDDKQCSIQKMAEAGFYW
+HGTETEIDIAACFVCGKELDGWEESDDPWSEHRKHAPQCPFVKFGRPETHLTV-----------------
+-------------------------*
+>P1;gi|37651380|ref|NP_932639.1| inhibitor of apoptosis protein 3 [C... [ score 123 E 9e-28 ] [ range 105 .. 210 ] [ duplicate a ]
+sequence
+--------------------------------PMHPKYTESARLKTFVDWPVS--LKQKPEQLAEAGFYY
+---TGKGDRVKCFHCDGGLKDWESTDEPWEEHARWFDRCTYVRLVKGYDQRVLSKACVIKKEENVEQSAK
+-------------------------*
+>P1;gi|2656127|gb|AAB88044.1| IAP homolog [Gallus gallus] [ score 123 E 1e-27 ] [ range 25 .. 109 ] [ duplicate c ]
+sequence
+----------------------------------YDLSCELYRMSTFSTFPV--NVPVSERRLARAGFYY
+---TGVQDKVKCFSCGLVLDNWQPGDNAMEKHKQVYPSCSFVQNMLSLNNLGLS----------------
+-------------------------*
+>P1;gi|24286571|gb|AAN46650.1| inhibitor of apoptosis protein [Bomby... [ score 122 E 2e-27 ] [ range 174 .. 291 ] [ duplicate a ]
+sequence
+--------------------------------PVHARYTEAARLATFKDWP--RCMRQKPEELAEAGFFY
+---TGQGDKTKCFYCDGGLKDWESDDVPWEQHARWFDRCAYVQLVKDYIQKVKSEATAISASEEE---QA
+ATNDSTKNVAQEGEK----------*
+>P1;gi|6680696|ref|NP_031490.1| baculoviral IAP repeat-containing 2;... [ score 121 E 2e-27 ] [ range 157 .. 246 ] [ duplicate a ]
+sequence
+-----------------------------TSPYHFAMNTEKARLLTYETWPL---SFLSPAKLAKAGFYY
+I---GPGDRVACFACDGKLSNWERKDDAMSEHQRHFPSCPFLKLGQSASRYTVS----------------
+-------------------------*
+>P1;gi|6635437|gb|AAF19819.1| inhibitor of apoptosis protein [Tricho... [ score 121 E 2e-27 ] [ range 201 .. 283 ] [ duplicate a ]
+sequence
+--------------------------------PVHPRYSEAARLRSFKDWP--RCMRQKPEELAEAGFFY
+---TGQGDKTKCFYCDGGLKDWENDDVPWEQHARWFDRCAYVQLVKGRE---------------------
+-------------------------*
+>P1;gi|14602383|ref|NP_148801.1| ORF17 IAP-3 [Cydia pomonella granul... [ score 121 E 2e-27 ] [ range 100 .. 217 ] [ duplicate a ]
+sequence
+--------------------------------PAHPKYAEAARVKSFHNWP--RCMKQRPEQMADAGFFY
+---TGYGDNTKCFYCDGGLKDWEPEDVPWEQHVRWFDRCAYVQLVKDYVQKVITEACVLPGENTTVSTAA
+SEPIPETKIE---------------*
+>P1;gi|2497240|sp|Q90660|BIR_CHICK Inhibitor of apoptosis protein (I... [ score 121 E 4e-27 ] [ range 173 .. 249 ] [ duplicate c ]
+sequence
+------------------------------------MSTEEARLRTSHAWPLM-CLW--PAEVAKAG---
+LDDLGTADKVACVNCGVKLSNWEPKDNAMSEHRRHFPNCPFVENLMRDQ---------------------
+-------------------------*
+>P1;gi|11560028|ref|NP_071567.1| baculoviral IAP repeat-containing 4... [ score 121 E 4e-27 ] [ range 259 .. 368 ] [ duplicate a ]
+sequence
+--------------------------------PAMAEY--DARIVTFGTWLY----SVNKEQLARAGFY-
+--ALGEGDKVKCFHCGGGLTDWKPSEDPWEQHAKWYPGCKYLLDEKG-QEYINNIHLTHSLGESVVRTAE
+KTPSVTKKIDDT-------------*
+>P1;gi|27923008|dbj|BAC55952.1| HcIAP-3 [Hyphantria cunea nucleopoly... [ score 120 E 5e-27 ] [ range 94 .. 209 ] [ duplicate a ]
+sequence
+--------------------------------PVHPKYTEVARLRTFAEWP--RGLKQQPDKLAEAGFYY
+---TGQGDKTKCFYCDGGLKDWEADDEPWKLHARWFDRCPYVLLVKDYVQKIVTESCTISNERVEQEAIE
+RQPDLNER-----------------*
+>P1;gi|6753088|ref|NP_033818.1| baculoviral IAP repeat-containing 4;... [ score 120 E 6e-27 ] [ range 259 .. 368 ] [ duplicate a ]
+sequence
+--------------------------------PAMAEY--EARIVTFGTW----TSSVNKEQLARAGFY-
+--ALGEGDKVKCFHCGGGLTDWKPSEDPWDQHAKCYPGCKYLLDEKG-QEYINNIHLTHPLEESLGRTAE
+KTPPLTKKIDDT-------------*
+>P1;gi|17863909|gb|AAL46972.1| inhibitor of apotosis protein 1-like ... [ score 119 E 1e-26 ] [ range 190 .. 272 ] [ duplicate a ]
+sequence
+--------------------------------PEYPNYIEAKRLESYEDWPKF--MKQKPKELSDAGFFY
+---TGKGDRVKCFSCGGGLKDWEAEDEPWEQHAMWYSNCEYLKLMKGEE---------------------
+-------------------------*
+>P1;gi|21759009|sp|Q96P09|BIR8_HUMAN Baculoviral IAP repeat-containi... [ score 119 E 1e-26 ] [ range 5 .. 108 ]
+sequence
+----------------------------------------EARLITFGTWMY----SVNKEQLARAGFYA
+IGQE---DKVQCFHCGGGLANWKPKEDPWEQHAKWYPGCKYLLEEKGH-EYINNIHLTRSLEGALVQTTK
+KTPSLTKRISDT-------------*
+>P1;gi|24664967|ref|NP_524101.2| thread CG12284-PA [Drosophila melan... [ score 119 E 2e-26 ] [ range 218 .. 298 ] [ duplicate a ]
+sequence
+--------------------------------PQYPEYIETARLRTFEAWP--RNLKQKPHQLAEAGFFY
+---TGVGDRVRCFSCGGGLMDWNDNDEPWEQHALWLSQCRFVKLMKG-----------------------
+-------------------------*
+>P1;gi|22000680|gb|AAM88215.1| IAP-like protein [Xenopus laevis] [ score 116 E 1e-25 ] [ range 139 .. 219 ] [ duplicate a ]
+sequence
+----------------------------------YPEMAEERRLDSFRNWP--MYAHGNPEHLAGSGFFY
+---TGHRDNVKCFHCDGGLRNWEQGDDPWTEHAKWFPMCDFLLHVKGEA---------------------
+-------------------------*
+>P1;gi|22000680|gb|AAM88215.1| IAP-like protein [Xenopus laevis] [ score 116 E 1e-25 ] [ range 37 .. 123 ] [ duplicate b ]
+sequence
+------------------------------------MRSEAERLRSFSAWPRT-CPQPSPVEMARSGFYY
+L---GPGDRVQCFSCGGVLRSWEPGDRPDTEHRKFFPSCTFLQQQQRDPGATDSQIL-------------
+-------------------------*
+>P1;gi|7512287|pir||S68449 apoptosis inhibitor hiap-1 - human >gi|11... [ score 116 E 1e-25 ] [ range 252 .. 363 ] [ duplicate b ]
+sequence
+------------------------------------MQTHAARFKTFFNWP--SSVLVNPEQLASAGFYY
+VGNS---DDVKCFCCDGGLRCWESGDDPWVQHAKWFPRCEYLIRIKGQERQVQASYPHLLEQLLSTSDSP
+GDENAESSIIH--------------*
+>P1;gi|7512287|pir||S68449 apoptosis inhibitor hiap-1 - human >gi|11... [ score 116 E 1e-25 ] [ range 24 .. 105 ] [ duplicate c ]
+sequence
+----------------------------------YDLSCELYRMSTYSTFP--AGVPVSERSLARAGFYY
+---TGVNDKVKCFCCGLMLDNWKRGDSPTEKHKKLYPSCRFVQSLNSVNNL-------------------
+-------------------------*
+>P1;gi|3914339|sp|O62640|PIAP_PIG Putative inhibitor of apoptosis >g... [ score 114 E 3e-25 ] [ range 1 .. 77 ] [ duplicate a ]
+sequence
+------------------------------------MNTEKDRLLTFQMWPLT---FLSPADLAKAGFYY
+I---GPGDRVACFACGGKLSNWEPKDDAMTEHLRHFPNCPFLGNQLQDS---------------------
+-------------------------*
+>P1;gi|15320683|ref|NP_203195.1| IAP-3 [Epiphyas postvittana nucleop... [ score 114 E 3e-25 ] [ range 93 .. 173 ] [ duplicate a ]
+sequence
+--------------------------------PKHPKYSEAARLKTFEGWP--RSMKQRPDELAEAGFYY
+---TSRGDKTLCFYCNGGLKDWENDDIPWEQHARWFSNCGYLLLVKG-----------------------
+-------------------------*
+>P1;gi|31199159|ref|XP_308527.1| ENSANGP00000009540 [Anopheles gambi... [ score 114 E 4e-25 ] [ range 107 .. 189 ] [ duplicate a ]
+sequence
+--------------------------------PEYPNYIEADRLKSYEDWP--TSLKQKPQQLSDAGFFY
+---TGMSDRVKCFSCGGGLKDWEQEDDPWQQHAIWYSNCHYLQLMKGRE---------------------
+-------------------------*
+>P1;gi|45383007|ref|NP_989919.1| inhibitor of apoptosis protein 3 [G... [ score 114 E 4e-25 ] [ range 259 .. 336 ] [ duplicate b ]
+sequence
+--------------------------------PSMAEY--ERRIQTFLAWIY----PVNKEHLAEAGFY-
+--STGNGDHVVCFHCGGGLQEWKENEDPWDQHAKWFPGCKFLRDEKGLE---------------------
+-------------------------*
+>P1;gi|31199161|ref|XP_308528.1| ENSANGP00000016568 [Anopheles gambi... [ score 113 E 6e-25 ] [ range 161 .. 244 ] [ duplicate a ]
+sequence
+--------------------------------PVYEPTIPDNRLASFQEWP--KCMKQTPEQMADAGFFY
+---TGKSDVVICFCCGGQLRDWLPEYNPWVEHAKNFSGCPYLKLVK------------------------
+-------------------------*
+>P1;gi|31199161|ref|XP_308528.1| ENSANGP00000016568 [Anopheles gambi... [ score 113 E 6e-25 ] [ range 31 .. 94 ] [ duplicate b ]
+sequence
+-----------------------------------------NRLRTY--FPLWTVPYIYPEELARWGFFY
+---TGYRDCVRCYFCHIELGGWDEHDVVIEEHLKWSPDCR------------------------------
+-------------------------*
+>P1;gi|19569774|gb|AAL92171.1| inhibitor of apotosis protein 1-like ... [ score 113 E 7e-25 ] [ range 193 .. 275 ] [ duplicate a ]
+sequence
+--------------------------------PEYPNYIEAKRLECYEDWPKF--MKQKPKELSDAGFFY
+---PGKSDRVKCFSCGGGLKDWEAEDEPWEQHAMWYSNCEYLKLMKGEA---------------------
+-------------------------*
+>P1;gi|31199163|ref|XP_308529.1| ENSANGP00000016010 [Anopheles gambi... [ score 112 E 2e-24 ] [ range 52 .. 132 ]
+sequence
+----------------------------------YPQYIEGDRLATFKEWP--KSMPQTPERMADAGFFY
+---TGKSDVVACFYCGGNLRDWLAEDDPWVEHVRNFSECPYVKLVKTPE---------------------
+-------------------------*
+>P1;gi|12597588|ref|NP_075172.1| iap-3 [Heliocoverpa armigera nucleo... [ score 111 E 2e-24 ] [ range 14 .. 108 ] [ duplicate a ]
+sequence
+--------------------------------------TESYRYVTFANWPYFMDCA----KMAQAGFYY
+L---NKDDHVKCAFCKVEMMNWQHEDDPLEEHARWAPQCSYVKSIMSDANVCSEQNYIADQESYKNK---
+-------------------------*
+>P1;gi|32698628|ref|NP_872543.1| iap-3 [Adoxophyes orana granuloviru... [ score 111 E 3e-24 ] [ range 89 .. 206 ] [ duplicate a ]
+sequence
+--------------------------------PVHKKYCDENRMLTFHNWP--KALKQTPKELAEAGFFY
+---TNVGDRVRCFYCDVGLKDWEPTDTAWGQHARWTSLCEYVLLVKGTDQKVLTEACMIKEEKEPKIDIQ
+SSNDSFADSDQT-------------*
+>P1;gi|3540252|gb|AAC34373.1| apoptosis inhibitor IAP-1 [Buzura supp... [ score 109 E 1e-23 ] [ range 100 .. 181 ] [ duplicate a ]
+sequence
+--------------------------------PAHPQYTKTARLRTFENWP--CALKQKPEQLADAGFFY
+---TGQSDKTICFFCNGGLKDWEDGDEPWEQHARWFDNCIYVQLVKG-----------------------
+-------------------------*
+>P1;gi|18138294|ref|NP_542729.1| iap-3 [Helicoverpa zea single nucle... [ score 108 E 3e-23 ] [ range 14 .. 108 ] [ duplicate a ]
+sequence
+--------------------------------------TESYRYVTFANWPYFMDCA----KMAQAGFYY
+L---NKDDHVKCAFCKVEMMNWQHEDDPLEEHARWAPQCSYVKSIMSDANVCSEQKYIADQEFYKNK---
+-------------------------*
+>P1;gi|33622218|ref|NP_891863.1| iap-3 [Cryptophlebia leucotreta gra... [ score 107 E 3e-23 ] [ range 100 .. 202 ] [ duplicate a ]
+sequence
+------------------------------------------RLDSFKTWPFS--MTQKADDMAQAGFFY
+---TGKGDRVICYYCDGKLSMWERDEDPWEEHARWYGSCAFLKLVKGEEFIQ-----KIHSERCMLKDES
+LPPSPQTQKLEDAEN----------*
+>P1;gi|33622218|ref|NP_891863.1| iap-3 [Cryptophlebia leucotreta gra... [ score 107 E 3e-23 ] [ range 1 .. 87 ] [ duplicate b ]
+sequence
+------------------------------------MESEVERLKTFVDWPVV---FLSPQLLAKNGFYY
+L---GRSDEVRCAFCKVEIMRWKEDDDPETEHRKWSPQCSLFRPQKEEEKLT------------------
+-------------------------*
+>P1;gi|31200751|ref|XP_309323.1| ENSANGP00000017960 [Anopheles gambi... [ score 106 E 1e-22 ] [ range 19 .. 112 ]
+sequence
+--------------------------------PAEMPYMPEARIRSFESWRF--GHMQNPTRLAVAGFYY
+TGT---DDEVRCFQCDAGLRDWLVTDDPWQEHARCFAECTFLRLVFGAD--TVDEVLR------------
+-------------------------*
+>P1;gi|42552626|gb|EAA75469.1| hypothetical protein FG05233.1 [Gibbe... [ score 105 E 2e-22 ] [ range 119 .. 234 ] [ duplicate a ]
+sequence
+-----------------------------------QPYLKEARKATFGRWPHDKGWKCKTKQLVDAGWKY
+TPTEESDDMATCTYCQLALDGWEPTDKPLDEHYNRSPNCPFLLEAKKSSKTKTARASKASRLSVQSTIAS
+EAPS---------------------*
+>P1;gi|42552626|gb|EAA75469.1| hypothetical protein FG05233.1 [Gibbe... [ score 105 E 2e-22 ] [ range 9 .. 102 ] [ duplicate b ]
+sequence
+-----------------------------------QFITYESRLASFQNWPHK---SITPDSLARAGLFF
+NPTLENPDNAQCFLCHKGLDGWEANDDPLVEHLTHAPECGWAVV--------------------------
+-------------------------*
+>P1;gi|22788843|ref|NP_690557.1| inhibitor of apoptosis protein IAP ... [ score 101 E 2e-21 ] [ range 89 .. 163 ]
+sequence
+-------------------------------------YFKSRLDSFIGNWSVFKRP--TPIALAEAGFFY
+---AGMVDCTKCFYCDGGLNDWNPCDDPWEQHAIHFDRCVFLLYKKG-----------------------
+-------------------------*
+>P1;gi|40746036|gb|EAA65192.1| hypothetical protein AN0715.2 [Asperg... [ score 101 E 4e-21 ] [ range 113 .. 239 ] [ duplicate a ]
+sequence
+--------------------------------PTSEPIVQ-ARLATFGDWPHDKGWICQSDKMVEGGWYF
+CPNEESADLASCAYCKLSLDGWEPKDNPYDEHYRRSSDCSFFVFAKKGSRSKRARTSKSSRQSTQSTTSE
+VLASDTEDMDQSA------------*
+>P1;gi|40746036|gb|EAA65192.1| hypothetical protein AN0715.2 [Asperg... [ score 101 E 4e-21 ] [ range 10 .. 98 ] [ duplicate b ]
+sequence
+-----------------------------------------ARLATFDSWPH---SKPSPAELAHAGFFY
+NPYETNPDNTTCFLCGRALDGWEEDDNPITEHLKHAKDCGWAVMM-------------------------
+-------------------------*
+>P1;gi|9634331|ref|NP_037870.1| ORF110 iap-3 [Spodoptera exigua nucl... [ score 98 E 5e-20 ] [ range 22 .. 105 ] [ duplicate b ]
+sequence
+-----------------------------TMTCSYKNSFQE-RLNSFSQWPVW--AKASPFYLALSGFYY
+I---GRGDEVRCAFCKVEIMNWREGDDPIVDHNRWAPQCKFAQNVCSSN---------------------
+-------------------------*
+>P1;gi|17564820|ref|NP_505949.1| baculovirus Inhibitory Repeat famil... [ score 96 E 9e-20 ] [ range 16 .. 107 ]
+sequence
+-------------------------------------FYKD-RLMTFKNFEYDRDAKCTSQAVAQAGFYC
+TG----PQSGKCAFCNKEL-DFDPEDDPWYEHTKRDEPCEFVRIGKDDSELTINDTVRLSQT--------
+-------------------------*
+>P1;gi|15042062|gb|AAK81891.1| IAP-like protein 3 [Homo sapiens] [ score 96 E 1e-19 ] [ range 1 .. 94 ]
+sequence
+------------------------------------------------MWIY----SVNKEQLSRAGFY-
+--ALGEGDKVKCFHCGGGLTDWKPSEDPWEQHDKWHPGCKYLLEQKT-RKYINNIHLSHSLEECLVRTAE
+KTPSLTRKID---------------*
+>P1;gi|17557418|ref|NP_506362.1| baculovirus Inhibitory Repeat famil... [ score 95 E 2e-19 ] [ range 168 .. 258 ] [ duplicate a ]
+sequence
+----------------------------------------DHRLATFQNFIFDRNVKCTSKKLAKAGWFS
+IANKKDKTSAKCPFCLVEL-DFDESDDPWEEHQKFSASCDFIKLGKLDEKKTENEALML-----------
+-------------------------*
+>P1;gi|17557418|ref|NP_506362.1| baculovirus Inhibitory Repeat famil... [ score 95 E 2e-19 ] [ range 19 .. 109 ] [ duplicate b ]
+sequence
+-----------------------------------APYISAARFASFKGFVYDKNIACTSEKLARAGFYS
+TASPEFPASAKCPFCMLEI-NFEQCDDPWEKHKSGSPHCEFVMIGEEESELSF-----------------
+-------------------------*
+>P1;gi|19173605|ref|NP_597408.1| hypothetical protein [Encephalitozo... [ score 94 E 7e-19 ] [ range 1 .. 79 ]
+sequence
+------------------------------------MFSFKRRMETFAGWPEDYGAA-TPESLSIAGFMC
+LSAESDDLTVRCVYCDKTLECWERTDVPAKEHYLHMSVCPLFNVNK------------------------
+-------------------------*
+>P1;gi|20070018|ref|NP_613222.1| inhibitor of apoptosis-3 IAP-3 [Mam... [ score 91 E 3e-18 ] [ range 113 .. 194 ] [ duplicate a ]
+sequence
+--------------------------------PQYRTY--QSRLTTFKEWPST--IPVSPHELATAGFFY
+---TGKSDRVKCFACDGGLKEWTKGDDPFKLHARWFDRCSYVMKTKGEE---------------------
+-------------------------*
+>P1;gi|38105842|gb|EAA52220.1| hypothetical protein MG04912.4 [Magna... [ score 91 E 4e-18 ] [ range 9 .. 102 ] [ duplicate a ]
+sequence
+-----------------------------------QYFVYENRLASFLTWPHK---FLPPFELAKAGFYF
+DPHPSNPDNVTCFLCHKQMDGWEAEDNPIEEHLKHSPSCGW-----------------------------
+-------------------------*
+>P1;gi|38105842|gb|EAA52220.1| hypothetical protein MG04912.4 [Magna... [ score 91 E 4e-18 ] [ range 127 .. 188 ] [ duplicate b ]
+sequence
+----------------------------------------EARKATFGRWPYKKAWKCKTKQLAEAGWIY
+TPTNESDDNTTCAYCQLALDGWEASDKPI-----------------------------------------
+-------------------------*
+>P1;gi|22549539|ref|NP_689312.1| putative IAP3 [Mamestra configurata... [ score 91 E 6e-18 ] [ range 115 .. 194 ] [ duplicate a ]
+sequence
+--------------------------------PQYRTY--QSRFRTFKNWPVT--IPVSPHELATAGFFY
+---TGQSDKVKCFACDGGLKEWTEGDDAFELHARWFDRCSYVMKIKG-----------------------
+-------------------------*
+>P1;gi|22549539|ref|NP_689312.1| putative IAP3 [Mamestra configurata... [ score 91 E 6e-18 ] [ range 8 .. 82 ] [ duplicate b ]
+sequence
+------------------------------------MKLYANRLMSFDKWPP--NHPISPHCLAINGFYH
+FQSSVYSDNVRCAFCKVEICKWQANDDVERDHERWAPQCKLVR---------------------------
+-------------------------*
+>P1;gi|19075367|ref|NP_587866.1| cut17p [Schizosaccharomyces pombe] ... [ score 90 E 7e-18 ] [ range 120 .. 196 ] [ duplicate a ]
+sequence
+------------------------------------------REQTFVDWPYTNRPHCEPSVMAASGFVY
+NPTADAKDAAHCLYCDINLHDWEPDDDPYTEHKRRRADCVFFTWK-------------------------
+-------------------------*
+>P1;gi|19075367|ref|NP_587866.1| cut17p [Schizosaccharomyces pombe] ... [ score 90 E 7e-18 ] [ range 23 .. 97 ] [ duplicate b ]
+sequence
+----------------------------------------SKRLDTFKKWP---RAKPTPETLATVGFYY
+NPSEERLDNVTCYMCTKSFYDWEDDDDPLKEHITHSPSCPW-----------------------------
+-------------------------*
+>P1;gi|39592102|emb|CAE75322.1| Hypothetical protein CBG23296 [Caeno... [ score 89 E 1e-17 ] [ range 20 .. 131 ]
+sequence
+-------------------------------------FYKD-RLTSFKNYKYDQNATCTSKALARAGFVF
+SGDSS----AVCPFCVKCL-DFDPEDDPWEEHKNRCGDCEFVRIGKDDSQLTFAETIAL-------ATHA
+TTVANYKKFEAMIEHIRN-------*
+>P1;gi|32411991|ref|XP_326476.1| hypothetical protein [Neurospora cr... [ score 86 E 1e-16 ] [ range 5 .. 95 ]
+sequence
+-------------------------------------FIYENRLVSFVKWPHK---SLSADELAKAGFYF
+DPMVTSPDNVTCFLCENSFDGWTPGDHPIQEHLKHSPFCGW-----------------------------
+-------------------------*
+>P1;gi|15078905|ref|NP_149656.1| 193R [Invertebrate iridescent virus... [ score 86 E 1e-16 ] [ range 38 .. 176 ]
+sequence
+----------------------------------------DERLNSFQNWPI--QLLPSKEQLSRAGFIY
+L---NIGDQVQCFYCDLKLKEWKRSDNPFEEHKKHTQNCLFVKFVKNHSESCFNQDLDHNQDLDQNSTTS
+DCDVLTCKICFTNKITKVLI-----*
+>P1;gi|9631106|ref|NP_047776.1| apoptosis inhibitor [Lymantria dispa... [ score 84 E 5e-16 ] [ range 4 .. 71 ]
+sequence
+---------------------------------------ERRRLASFRNWSAVDAPA--PAELAHAGFYC
+---ANRQDFVKCAYCHIEIGNWSIGSDAMSDHKRYSPACRFV----------------------------
+-------------------------*
+>P1;gi|9631411|ref|NP_048319.1| ORF MSV248 putative inhibitor of apo... [ score 83 E 1e-15 ] [ range 8 .. 129 ]
+sequence
+--------------------------------PLYPYYITQSRINSYENWPISLFFKIN--RLCEAGFFY
+---TNIGDITVCFNCGLKIKNWLYYNDPWIEHSKWSPNCNYIIFNKGKKFINFAKNFKHQNENNISYILK
+PCGHASTCYE---------------*
+>P1;gi|43708012|gb|EAF09096.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 118 .. 202 ] [ duplicate a ]
+sequence
+-----------------------------SLPQSAESI--EVRAQTFKKWPHKQKSGWLPKALARAGFVY
+NPSTESKDAVICPYCEYGVEGWEATDDPWEIHQSKVPDCHFFR---------------------------
+-------------------------*
+>P1;gi|43708012|gb|EAF09096.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 4 .. 88 ] [ duplicate b ]
+sequence
+----------------------------------------DNRLASFNAFPLEASPHLTPRALAEAGFYH
+TPGTSPPDNCTCFLCNLELGGWDEDDDPFEEHAKR-AGCAW-----------------------------
+-------------------------*
+>P1;gi|41352426|gb|AAS00933.1| ORF42 [Ostreid herpesvirus 1] [ score 83 E 2e-15 ] [ range 234 .. 303 ] [ duplicate a ]
+sequence
+----------------------------------------ENRIASLKFWP---GPIRDIEKVARTGFFY
+---TGEKDMLTCYACACKLINWEKNDDPIKEHKINFPHCANMADVK------------------------
+-------------------------*
+>P1;gi|41352426|gb|AAS00933.1| ORF42 [Ostreid herpesvirus 1] [ score 83 E 2e-15 ] [ range 121 .. 234 ] [ duplicate b ]
+sequence
+-----------------------------------PPMSKDPKSTFLGKWPHSEY--ISIDSMVAEGFEF
+I---GPGDRVQCRHCKVILRNWETTDIPSSEHERNAPRCPLVLTRMREDDERRDRELKEVQQRRKMDMNK
+AFSQDMSKLE---------------*
+>P1;gi|9629979|ref|NP_046197.1| inhibitor of apoptosis protein 1 [Or... [ score 82 E 2e-15 ] [ range 26 .. 100 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFEDYPIDNDAFVNS--LIVNGFRY
+THV---DDAVVCEYCGVVIKNWRENDVVEFVHATLSPYCVYANKIAQNEQF-------------------
+-------------------------*
+>P1;gi|34861013|ref|XP_238302.2| similar to livin inhibitor of apopt... [ score 81 E 4e-15 ] [ range 122 .. 191 ]
+sequence
+--------------------------------------------------PSSDGHGGTPCQLGGASCVS
+LPYPGQQDKVRCFFCYGGLQSWERGDDPWTEHARWFPRCQFLLRSKG-----------------------
+-------------------------*
+>P1;gi|27923004|dbj|BAC55950.1| HcIAP-1 [Hyphantria cunea nucleopoly... [ score 78 E 4e-14 ] [ range 26 .. 100 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENYPIDNDAFINS--LIVNGFRY
+AHV---DDAVMCEYCGVVIKNWHEDDSVEFVHATLSPYCVYANKIAQNEQF-------------------
+-------------------------*
+>P1;gi|30387269|ref|NP_848348.1| inhibitor of apoptosis 1 [Choriston... [ score 77 E 7e-14 ] [ range 26 .. 90 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENYPINDDAFVSS--LIVNGFRY
+AHV---DDAVVCEYCGVVIKNWCEDDIVEFVHATLSPYCVY-----------------------------
+-------------------------*
+>P1;gi|15320690|ref|NP_203202.1| IAP-1 [Epiphyas postvittana nucleop... [ score 76 E 1e-13 ] [ range 132 .. 205 ] [ duplicate a ]
+sequence
+-----------------------------------------ARKSTFEDWPAALQHLV--ANISEAGMFH
+TKL---GDETACFFCDCRVRDWLPNDDPWQRHAIANPQCYFVVCIKGDE---------------------
+-------------------------*
+>P1;gi|15320690|ref|NP_203202.1| IAP-1 [Epiphyas postvittana nucleop... [ score 76 E 1e-13 ] [ range 30 .. 107 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENYPIDNVAFVNS--LIINGFRY
+Q---NVDDAVMCEYCSAVIKNWHEDDCVEFVHATLSPYCVYANKIAQNENFANN----------------
+-------------------------*
+>P1;gi|23577874|ref|NP_703017.1| inhibitor of apoptosis - 1 [Rachipl... [ score 76 E 1e-13 ] [ range 134 .. 237 ]
+sequence
+------------------------------------------RMDTFVNWPGALRDMIT--NIAEAGFFY
+---TGRGDETVCFFCDCCVRDWHTNEDAWQRHVTENPQCYFVLSVKGKEFCQNSITVTHVDKRDDDNLNE
+NADDIDEKYE---------------*
+>P1;gi|39590550|emb|CAE66290.1| Hypothetical protein CBG11537 [Caeno... [ score 75 E 3e-13 ] [ range 16 .. 103 ] [ duplicate a ]
+sequence
+---------------------------------ESAPYLYAARFASFKGFRYDKKHACSSDALSHAGFYS
+TATKKNPTSAKCPFCTLELT-FAENDDPWELHKAARPNCDYVMIGRPDD---------------------
+-------------------------*
+>P1;gi|39590550|emb|CAE66290.1| Hypothetical protein CBG11537 [Caeno... [ score 75 E 3e-13 ] [ range 167 .. 291 ] [ duplicate b ]
+sequence
+----------------------------------------DHRFKTF-DYTVRGFRKPTPKRLAKAGWCS
+AATNCSHLSVKCPFCFSAVT-FSETDDFWEEHKRIAPDCDFVKLDKKEADWTDDEGLML-AVRISIMNKY
+ETKQKILDQLEDDEEVEKLTEQLS-*
+>P1;gi|9627769|ref|NP_054056.1| apoptosis inhibitor [Autographa cali... [ score 75 E 3e-13 ] [ range 134 .. 237 ]
+sequence
+------------------------------------------RMDTFVNWPAALRDMIT--NIAEAGLFY
+---TGRGDETVCFFCDCCVRDWHTNEDTWQRHAAENPQCYFVLSVKGKEFCQNSITVTHVDKRDDDNLNE
+NADDIEEKYE---------------*
+>P1;gi|37651379|ref|NP_932645.1| inhibitor of apoptosis protein 1 [C... [ score 74 E 4e-13 ] [ range 130 .. 204 ] [ duplicate a ]
+sequence
+----------------------------------------SARRATFEEWPVALQHLMPS--IAEAGMFH
+TKL---GDETACFFCDYRVRNWLPGDDPWRRHAIANPQCYFVVCIKGEQ---------------------
+-------------------------*
+>P1;gi|37651379|ref|NP_932645.1| inhibitor of apoptosis protein 1 [C... [ score 74 E 4e-13 ] [ range 29 .. 104 ] [ duplicate b ]
+sequence
+-----------------------------------------ERHNSFENFPIDNTALVNS--LIVNGFRY
+---EHVDDAVACEYCNVVIKNWREDDCVEFVHATLSPYCVYANKIAQSEQFS------------------
+-------------------------*
+>P1;gi|9630835|ref|NP_047432.1| IAP1=AcMNPV orf27 [Bombyx mori nucle... [ score 73 E 1e-12 ] [ range 134 .. 206 ]
+sequence
+------------------------------------------RMDTFVNWPAALRDMIT--NIAEAGLFY
+---TGRGDETVCFFCDCCVRDWHINEDAWQRHATENPQCYFVLSVKGKE---------------------
+-------------------------*
+>P1;gi|41352466|gb|AAS00973.1| ORF87 [Ostreid herpesvirus 1] [ score 73 E 1e-12 ] [ range 19 .. 120 ] [ duplicate b ]
+sequence
+---------------------------------------KELRIKSFDDWPHKNNPVMT-KNMIENYFYY
+IGI---NDKIQCVHCGGVISGFLEEDRISYEHRRHFPKCPVGKYRHPGYHLDAERLKSFKNWRYENIVRK
+M------------------------*
+>P1;gi|33320380|gb|AAQ05892.1| inhibitor of apoptosis 1 [Bombyx mori... [ score 72 E 3e-12 ] [ range 134 .. 220 ]
+sequence
+------------------------------------------RMDTFVNWPALRDMIIN---IAEAGLFY
+---TGRGDETVCFFCDCCVRDWHTNEDAWQRHATENPQCYFVLSVKGKEFCQNAITVTHVDKR-------
+-------------------------*
+>P1;gi|11068101|ref|NP_068317.1| PxORF98 peptide [Plutella xylostell... [ score 69 E 2e-11 ] [ range 111 .. 218 ] [ duplicate a ]
+sequence
+----------------------------------------ENRLLSYKNWPIVLQHLVFP--LSLSGLYY
+---TNVGDAVVCYVCNFCIKGWSVDDEPDQVHYLINSRCELIKNIKLKRQSSVAPQAAMDVSHYENVLAT
+TTIDDTPDY----------------*
+>P1;gi|18251959|gb|AAL66179.1| X-linked inhibitor of apoptosis prote... [ score 68 E 3e-11 ] [ range 58 .. 104 ] [ duplicate a ]
+sequence
+----------------------------------------EARIITFGTWMY----SVNKEQLARAGFY-
+--ALGEGDKVQCFHCGGGLNDWKP----------------------------------------------
+-------------------------*
+>P1;gi|9635387|ref|NP_059285.1| ORF137 [Xestia c-nigrum granulovirus... [ score 68 E 4e-11 ] [ range 1 .. 111 ] [ duplicate a ]
+sequence
+------------------------------------MKSYQERIASYANWCHTNNCMLTPERLSLLGFYY
+---TGYGDKIKCAYCSLTLERFKNTFDPLVDHKRASPECKFIYENLTSTLVTQNDFFDLDLSKIEDRLK-
+-------------------------*
+>P1;gi|9635387|ref|NP_059285.1| ORF137 [Xestia c-nigrum granulovirus... [ score 68 E 4e-11 ] [ range 107 .. 175 ] [ duplicate b ]
+sequence
+----------------------------------------EDRLKTFKQWPAMLQH--LSFEMCLSGLYY
+---SNIGDIVVCYVCRERIRDWWPDHSPWQRHYYQNSKCPHIVI--------------------------
+-------------------------*
+>P1;gi|43229567|gb|EAC80348.1| unknown [environmental sequence] [ score 67 E 8e-11 ] [ range 18 .. 93 ]
+sequence
+--------------------------------QESLMVSEKQRRRTFRKWKEAGHGQHLGVDLAKNGFFY
+---TGEGDRTRCCFCGGFLGNFEPGDIPKASHKRFFPYC-------------------------------
+-------------------------*
+>P1;gi|14602353|ref|NP_148900.1| ORF116 IAP-5 [Cydia pomonella granu... [ score 67 E 8e-11 ] [ range 1 .. 83 ] [ duplicate a ]
+sequence
+------------------------------------MDIYENRLNSFKYWPGHED----KEKLALMGFYF
+---SGMGDQIVCHYCKLDLYNFATGEDSVRDHKRYSPHCPFLLN--NTTHYINTRFI-------------
+-------------------------*
+>P1;gi|14602353|ref|NP_148900.1| ORF116 IAP-5 [Cydia pomonella granu... [ score 67 E 8e-11 ] [ range 103 .. 174 ] [ duplicate b ]
+sequence
+-------------------------------------SLLEHRINSFQNFPASLKSLVS--DLSANGFYY
+---TNIGDAVCCYACLIIAKDWTMNSDVRQIHVRLNARCPLLQL--------------------------
+-------------------------*
+>P1;gi|32698638|ref|NP_872553.1| iap-5 [Adoxophyes orana granuloviru... [ score 67 E 9e-11 ] [ range 1 .. 87 ] [ duplicate a ]
+sequence
+------------------------------------MHVYDNRLATYDRWPVKNNNECL-EQLALVGFYY
+---TGYKDCLMCCYCKFESYNYDGTENTLRDHKRYSPNCPFYKNN-QNENYVASNFL-------------
+-------------------------*
+>P1;gi|32698638|ref|NP_872553.1| iap-5 [Adoxophyes orana granuloviru... [ score 67 E 9e-11 ] [ range 108 .. 180 ] [ duplicate b ]
+sequence
+-------------------------------------SLMEQRVASFFNFPSILKGLVN--DLCVSGFYY
+---TNTGDLVCCYACKVLCRDWKIDANVHNVHMNANKNCQYLKIV-------------------------
+-------------------------*
+>P1;gi|33622306|ref|NP_891953.1| iap-5 [Cryptophlebia leucotreta gra... [ score 66 E 1e-10 ] [ range 104 .. 175 ] [ duplicate b ]
+sequence
+-------------------------------------SLLEQRINSYLNFP--SCLKSLVSDLASNGFYY
+---TNFGDAVCCYACLIVAKDWTTNSNVKSIHSKLNSRCPLLHL--------------------------
+-------------------------*
+>P1;gi|5650764|gb|AAD45937.1| putative inhibitor of apoptosis protei... [ score 61 E 4e-09 ] [ range 126 .. 194 ] [ duplicate a ]
+sequence
+----------------------------------------EDRLKTFKHWPTVLQH--LSFEMCLSGLYY
+SKI---GDIVVCYVCRERICNWWPDHSPWQRHYYQNSKCPHIVI--------------------------
+-------------------------*
+>P1;gi|5650764|gb|AAD45937.1| putative inhibitor of apoptosis protei... [ score 61 E 4e-09 ] [ range 26 .. 94 ] [ duplicate b ]
+sequence
+--------------------------------------------ASFANWCHTNNRMLSPERLSLLGFYY
+---TGYSDKIKCAYCALTLERFNSTFDPLVDHKRASPECKFI----------------------------
+-------------------------*
+>P1;gi|11931703|emb|CAC19117.1| putative inhibitor apoptosis protein... [ score 59 E 2e-08 ] [ range 76 .. 146 ] [ duplicate a ]
+sequence
+---------------------------------------EARRLETFSSW----NGEVCSRKLAAAGFVH
+L----KGDGVVCSHCNLKLNDWKCSDDPEICHRELRPKCIF--SKKDVVE--------------------
+-------------------------*
+>P1;gi|6322548|ref|NP_012622.1| Protein involved in cell cycle regul... [ score 56 E 2e-07 ] [ range 153 .. 279 ]
+sequence
+------------------------------------------RKFTFQNWPHSNEHPLGIEKMVNAGLYD
+SSIEGLGDTCYCIYCKQLLQGWSINDDPMSRHYKVSGNCYFFQTRNRFERISITKNCEVSPTLGENGKRE
+VINTKT-------------------*
+>P1;gi|20069989|ref|NP_613193.1| inhibitor of apoptosis-2 IAP-2 [Mam... [ score 48 E 3e-05 ] [ range 89 .. 179 ]
+sequence
+------------------------------------------RKESFRKFKIARAHKDNYQQLAQNGFYY
+Y---GKKVEIRCSCCQIVIVKLNKTDNASVIHRTWSPECHFLVEEKPIEKPYVNIYPQLD----------
+-------------------------*
+>P1;gi|22549511|ref|NP_689283.1| putative IAP-2 [Mamestra configurat... [ score 46 E 1e-04 ] [ range 89 .. 176 ]
+sequence
+------------------------------------------RKESFRKFKIARAHKDNYEQLAQNGFYY
+Y---GKKVEIRCSCCQIVIVKLNKSDNVSIIHRTWSPECHFLPSPKPVEKTYVNIYPQLD----------
+-------------------------*
+>P1;gi|12597547|ref|NP_075131.1| iap-2 [Heliocoverpa armigera nucleo... [ score 44 E 7e-04 ] [ range 89 .. 157 ]
+sequence
+------------------------------------------RRDSFRQYKAKSYFKNSLDLLAQNGFYY
+YGVKTE---VRCAYCLLVIVKFNFNDNLADIHRINSIDCIFVN---------------------------
+-------------------------*
+>P1;gi|2497248|sp|O11451|IAPL_ASFC3 IAP-like protein p27 >gi|2062714... [ score 44 E 7e-04 ] [ range 30 .. 91 ]
+sequence
+----------------------------------------DARNQSFAIHDIKDY-----EKFSNAGLFY
+T----SPTEITCYCCGMKFCNWLYEKHPLQVHGFWSRNCGF-----------------------------
+-------------------------*

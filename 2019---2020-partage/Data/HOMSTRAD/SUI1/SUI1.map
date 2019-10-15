@@ -1,0 +1,764 @@
+>P1;2if1
+structureX:2if1:  40 : : 126 : :translation initiation factor eIF-1 (SUI1):Homo sapiens: -1: -1
+TED-YIHIRIQQRNG-RKTLTTVQGIA-DDYDKKKLVKAFKKKFACNGTVIEHPEYGEVIQLQGDQRKNI
+CQFLVEIGLAKDDQLKVHGF--*
+>P1;1d1ra
+structureX:1d1r:  29 :A: 111 :A:hypothetical 11.4 kd protein in pyrf-osmb intergenic region:Escherichia coli: -1: -1
+KGDGVVRIQRQTSGRKGKGVCLITGVDLDDAELTKLAAELKKKCGCGGAVKD-----GVIEIQGDKRDLL
+KSLLEAKGM----KVKLAGGLE*
+>P1;gi|38074131|ref|XP_357154.1| similar to Protein translation fact... [ score 170 E 6e-42 ] [ range 145 .. 230 ]
+sequence
+TED-YIHLRIQQRNS-RKSLTTVQGIA-DDYDKKKLVKVFKEKFACNGTVIEHPEYGEVIQLQGDQHKNI
+CQLLIETGLAEDDQLKAHG---*
+>P1;gi|31217763|ref|XP_316499.1| ENSANGP00000014056 [Anopheles gambi... [ score 157 E 7e-38 ] [ range 75 .. 157 ]
+sequence
+-----VHIRIQQRNG-RKTLTTVQGLS-AEYDLKKIVRACKKEFACNGTVIEHPEYGEVLQLQGDQRENI
+CQWLTKSGLAKPEQLKVHGF--*
+>P1;gi|34862060|ref|XP_345627.1| similar to Chain  , Human Translati... [ score 154 E 3e-37 ] [ range 38 .. 120 ]
+sequence
+TED-YIHIRIQQRNS-RKTLTIVQGIA-DDYDKKKLVKA----FACNGTVVEHPEYGEVIQLQGDQHKNT
+CQFLIETGLAKDGQLKVRGF--*
+>P1;gi|3334346|sp|O48650|SUI1_SALBA PROTEIN TRANSLATION FACTOR SUI1 ... [ score 152 E 2e-36 ] [ range 27 .. 113 ]
+sequence
+TKD-YVHVRVQQRNG-RKSLTTVQGLK-KDYSYNKILKDLKKEFCCNGTVVQDPELGQVIQLQGDQRKNV
+SSFLVQAGIVKKENIKIHGF--*
+>P1;gi|28193048|emb|CAD58628.1| SUI1 protein [Coffea arabica] [ score 150 E 7e-36 ] [ range 27 .. 113 ]
+sequence
+SKD-YVHIRIQQRNG-RKSLTTVQGLK-KEFSYNKILKDLKKEFCCNGTVVQDPELGQVIQLQGDQRKNV
+SSFLVQAGIVKKEHIKIHGF--*
+>P1;gi|3024657|sp|P56330|SUI1_MAIZE PROTEIN TRANSLATION FACTOR SUI1 ... [ score 150 E 9e-36 ] [ range 29 .. 115 ]
+sequence
+SKD-YVHVRIQQRNG-RKSLTTVQGLK-KEFSYSKILKDLKKEFCCNGTVVQDPELGQVIQLQGDQRKNV
+SNFLVQAGIVKKEHIKIHGF--*
+>P1;gi|20839878|ref|XP_145880.1| similar to Protein translation fact... [ score 150 E 1e-35 ] [ range 86 .. 172 ]
+sequence
+TED-YIHIRIQQRNS-RKTLTTVQGIA-DDYDKKKLMKAIKKKFACNGTIIEHPEYGEVIQLQGDQRKNI
+CQFLTEIGLAKDDQLKVLGF--*
+>P1;gi|27371291|gb|AAH41506.1| MGC52987 protein [Xenopus laevis] [ score 149 E 2e-35 ] [ range 28 .. 113 ]
+sequence
+-ED-SIHIRIQQRNG-RKTLTTVQGIA-DAYDKKKLVKAFKKKFACNGTVVDHPEYGEVIQLQGDQRKNA
+CQFLMEVGLAKEDQLKVHGF--*
+>P1;gi|15221783|ref|NP_175831.1| eukaryotic translation initiation f... [ score 149 E 2e-35 ] [ range 27 .. 113 ]
+sequence
+TKE-YVHIRVQQRNG-RKSLTTVQGLK-KEYSYSKILKDLKKEFCCNGTVVQDSELGQVIQLQGDQRKNV
+STFLVQAGLVKKDNIKIHGF--*
+>P1;gi|37886145|gb|AAR04678.1| Sui1 [Bombyx mori] [ score 148 E 2e-35 ] [ range 28 .. 110 ]
+sequence
+-----VHVRIQQRNG-RKTLTTVQGLS-SEYDLKKIVRACKKEFACNGTVVEHPEYGEVLQLQGDQRENI
+CQWLTKSGLVKPEQLKVHGF--*
+>P1;gi|20218809|emb|CAC84489.1| putative translation factor [Pinus p... [ score 148 E 3e-35 ] [ range 27 .. 113 ]
+sequence
+SKE-YVHVRIQQRNG-RKSLTTVQGLR-KEFSYNKILKDLKKEFCCNGTVVQDPELGQVIQLQGDQRKNV
+SNFLVQAGIVKKDNIKIHGF--*
+>P1;gi|21357193|ref|NP_647792.1| CG17737-PA [Drosophila melanogaster... [ score 147 E 5e-35 ] [ range 28 .. 110 ]
+sequence
+-----VHIRIQQRNG-RKTLTTVQGLS-AEYDLKKIVRSCKKEFACNGTVIEHPEYGEVLQLQGDQRENI
+CQWLTKVGLAKPDQLKVHGF--*
+>P1;gi|38077318|ref|XP_356799.1| similar to Protein translation fact... [ score 147 E 7e-35 ] [ range 80 .. 167 ]
+sequence
+SED-SIHIRIQQRNG-RKTLTTVQGIA-DDYNKKKLVKVFKKKFACNGTVVEHPEYGEVIQPQGDHRKSM
+CQFLLETGLAKDDQLKVHGF--*
+>P1;gi|39546233|emb|CAE04242.3| OSJNBa0089N06.3 [Oryza sativa (japon... [ score 146 E 1e-34 ] [ range 496 .. 580 ]
+sequence
+--D-YVHVRVQQRNG-RKTLTTVQGIG-GEYNYAKVLRDLKRELCCNGNVVEDKELGKIIQLQGDHRNSV
+SDFLAKAGMVRKDNIKVHGF--*
+>P1;gi|11135352|sp|Q9SQF4|SUI1_BRAOL Protein translation factor SUI1... [ score 145 E 2e-34 ] [ range 27 .. 113 ]
+sequence
+TKE-YVHIRVQQRNG-RKSLTTVQGLK-KEYSYTKILKDLKKEFCCNGTVVQDSELGQVIQLQGDQRKNV
+STFLVQAGLVKKDDIQIHGF--*
+>P1;gi|38077314|ref|XP_356798.1| similar to Protein translation fact... [ score 144 E 5e-34 ] [ range 63 .. 149 ]
+sequence
+TED-YIHIRIQQRNG-RKTLKTVQGIT-DDYNKKKLVKAFKKKFACNGTVIEHPEYGEVIQLQGDQHKNI
+CQFLIEIGLTKDDQLKGHEF--*
+>P1;gi|41053515|ref|NP_956597.1| hypothetical protein MGC56676 [Dani... [ score 141 E 4e-33 ] [ range 27 .. 113 ]
+sequence
+TED-KIHIRIQQRNG-RKTLTTVQGIA-DDYDKKKLVKAFKKKFACNGTVIEHPEYGEVIQLQGDQRKNI
+CQFLLEINIVKEEQLKVHGF--*
+>P1;gi|6324085|ref|NP_014155.1| translation initiation factor eIF1; ... [ score 140 E 6e-33 ] [ range 22 .. 108 ]
+sequence
+TSN-YIHIRIQQRNG-RKTLTTVQGVP-EEYDLKRILKVLKKDFACNGNIVKDPEMGEIIQLQGDQRAKV
+CEFMIQLGLQKK-NIKIHGF--*
+>P1;gi|34864746|ref|XP_345953.1| similar to Protein translation fact... [ score 140 E 8e-33 ] [ range 27 .. 113 ]
+sequence
+TED-YIHVRIQQRNG-RKTLTTVQGIA-DDYYKKKLVKAFKKKCACNGTVIEHPEYGEVIQQQGDQLKNI
+CQFLIETGLAKDDQLKVRGF--*
+>P1;gi|21842314|gb|AAM77753.1| translation initiation factor B04 [He... [ score 140 E 1e-32 ] [ range 29 .. 114 ]
+sequence
+-KE-YVHIRIQQRNG-RKSLTTVQGLK-KELSYDKILKDLKKEFCCNGTVVQDKELGKVIQLQGDQRKNV
+SAFLSRAGIVKKDQIKIHGF--*
+>P1;gi|45187478|ref|NP_983701.1| ADL395Cp [Eremothecium gossypii] >g... [ score 138 E 3e-32 ] [ range 22 .. 108 ]
+sequence
+SSN-YIHIRIQQRNG-RKTLTTVQGIP-EEYDLKRILKVLRKDFGCNGNMVKDDEMGEIIQLQGDQRAKV
+CEFLITQLAIPKKNIKIHGF--*
+>P1;gi|7388263|sp|O82569|SUI1_PIMBR PROTEIN TRANSLATION FACTOR SUI1 ... [ score 137 E 5e-32 ] [ range 27 .. 113 ]
+sequence
+TKE-YVHIRIQQRNG-RKSLTTVQGLK-KELSYDKILKDLKKALCCNGTVVNDKELGKVIQLQGDQRKNV
+STFIVQAGIVKKDQIKVHNF--*
+>P1;gi|38090730|ref|XP_356485.1| similar to translation factor sui1 ... [ score 136 E 1e-31 ] [ range 27 .. 109 ]
+sequence
+TED-YIHIRIQQRDG-RQTLIAVQGVA-DSYDKKKLVKAFRKKPACNGRVIDHPKYREVTQLQGDQRKSV
+CQFLLEAGITK----AVHGF--*
+>P1;gi|18423691|ref|NP_568818.1| eukaryotic translation initiation f... [ score 135 E 2e-31 ] [ range 27 .. 112 ]
+sequence
+-KE-NIHIRIQQRNG-KKSLTTVQGLK-KEYSYERILKDLKKDFCCNGNVVQDKELGKIIQLQGDQRKKV
+SQFLVQTGIAKKDQIKIHGF--*
+>P1;gi|38075966|ref|XP_356722.1| similar to Protein translation fact... [ score 135 E 2e-31 ] [ range 55 .. 138 ]
+sequence
+TED-YIHI--QQRKG-RKTLTAVQGIA-DDYDKKKLVKVFKKKFACNGTVIEHPEYGEVIQLQGDQRKNI
+CQFLIEIGLAKNDQLKVHG---*
+>P1;gi|39722378|emb|CAE84413.1| Sui1 protein [Kluyveromyces lactis] [ score 135 E 3e-31 ] [ range 22 .. 108 ]
+sequence
+SAN-YIHIRIQQRNG-RKTLTTVQGVP-EEYDLKRILKVLKKDFACNGNIVKDEEMGEVIQLQGDQRAKV
+SEFMITQLGMQKKNIKIHGF--*
+>P1;gi|45199160|ref|NP_986189.1| AFR642Cp [Eremothecium gossypii] >g... [ score 134 E 4e-31 ] [ range 22 .. 108 ]
+sequence
+SSN-YIHIRIQQRNG-RKTLTTVQGIT-KKYDLKRILKVLRKDFGCNGNMVKDDEMGEIIQLQGDQRAKV
+CEFLITQLAIPKKNIKIHGF--*
+>P1;gi|13775494|gb|AAK39303.1| Hypothetical protein T27F7.3b [Caenor... [ score 133 E 6e-31 ] [ range 18 .. 109 ]
+sequence
+TED-GVHIRIQQRTG-RKTITTVQGIG-TEYDLKRIVQYLKKKHSCNGTIVEHPEYGEVIQLTGDQRDKV
+KDFLIKVGIVNESNCRVHGF--*
+>P1;gi|34908850|ref|NP_915772.1| putative translation initiation fac... [ score 131 E 3e-30 ] [ range 29 .. 101 ]
+sequence
+SKD-YVHVRIQQRNG-RKSLTTVQGLK-KEYSYNKILKDLKKEFCCNGTVVQDPELGQVIQLQGDQRKNV
+ATFLVQ----------------*
+>P1;gi|23485622|gb|EAA20499.1| translation initiation factor SUI1 [P... [ score 131 E 4e-30 ] [ range 31 .. 114 ]
+sequence
+--N-LIHIRNQQRNG-RKSVTTVQGLG-KSYDLKKMVRALKKEFNCNGTIIEDIEHGSIIQLQGDKRSNV
+KDFLIREGICSVDHIRIHG---*
+>P1;gi|38105733|gb|EAA52123.1| hypothetical protein MG03718.4 [Magna... [ score 130 E 5e-30 ] [ range 64 .. 150 ]
+sequence
+----YIHIRIQQRNG-RKTLTTVQGIP-KKFSRKKILSTVKKQFACNGTIVTDSEMGDVIQLQGDQRKAM
+HDFLIKQGLEMDPKIKIHGF--*
+>P1;gi|27687519|ref|XP_226772.1| similar to Chain  , Human Translati... [ score 129 E 1e-29 ] [ range 32 .. 115 ]
+sequence
+TEN-YIRIRIQQRNS-RKTLTTVQGIT-DDYDKKKLVKAFKKKFACNGAVIDPPDY---IQLQGAQRKNV
+CQLLIETGLAKDGQLKVHGF--*
+>P1;gi|32417386|ref|XP_329171.1| hypothetical protein [Neurospora cr... [ score 128 E 3e-29 ] [ range 78 .. 169 ]
+sequence
+TQE-YIHIRIQQRNG-RKTLTTVQGIP-KKFDAKKILKVVKKEFACNGTIIEDSKMGDVIQLQGDQRAKI
+KDFLTDEGLGLDAKIKVHGF--*
+>P1;gi|23509111|ref|NP_701779.1| Translation initiation factor SUI1,... [ score 128 E 3e-29 ] [ range 31 .. 114 ]
+sequence
+--N-LIHIRNQQRNG-RKSVTTVQGLG-KTFDLKKMVRALKKEFNCNGTIIEDIEHGSIIQLQGDKRNNV
+KEFLIREGICALEHIRIHG---*
+>P1;gi|34853226|ref|XP_345119.1| similar to Protein translation fact... [ score 128 E 3e-29 ] [ range 20 .. 98 ]
+sequence
+---------LRTRNG-RKTLTTVQGMA-DDYDTKKPVKAFKKKFVCNATVTEHPENGEVIQLQGDQHKNI
+SQFLIETGLAKDGQLKVHGF--*
+>P1;gi|8571434|gb|AAF76883.1| SUL1 [Neospora caninum] [ score 127 E 5e-29 ] [ range 27 .. 112 ]
+sequence
+TTH-LIHIRNQQRNG-RKAVTTVQGLD-KALDLKKMVRALKKELNCNGTVIEDAEHGSVIQLQGDQRHAV
+KEFLEREDICSGEQIRIHG---*
+>P1;gi|32394516|gb|AAM93956.1| protein translation factor [Griffiths... [ score 127 E 6e-29 ] [ range 27 .. 112 ]
+sequence
+TKG-IVHIRLQQRNG-RKSLTTIQGLD-EKLDLAELTKAFKKEFCCNGCVVDNKELGKVVQLQGDQREKV
+KNFLAEEEIASKRMIKVHG---*
+>P1;gi|42549211|gb|EAA72054.1| hypothetical protein FG08880.1 [Gibbe... [ score 127 E 6e-29 ] [ range 106 .. 195 ]
+sequence
+TQN-YIHIRIQQRNG-RKTLTTVQGLP-KKFDQKKILKVIKKKFACNGTIVNDSEMGEVIQLQGDQRKDV
+QDFLCKEGLELDAKIKVHGF--*
+>P1;gi|40741594|gb|EAA60784.1| hypothetical protein AN4742.2 [Asperg... [ score 127 E 7e-29 ] [ range 109 .. 198 ]
+sequence
+SQN-YIHIRIQQRNG-RKTLTTVQGLP-KKFDQKKILKVIKKKFACNGTIVNDTEMGEVIQLQGDQRKDV
+QEFLTKEGLELDAKIKVHGF--*
+>P1;gi|19112655|ref|NP_595863.1| protein translation factor sui1. [S... [ score 126 E 1e-28 ] [ range 25 .. 109 ]
+sequence
+--N-NIHIRIQQRNG-RKTLTTVQGLP-REFDQKRILRALKKDFACNGTIVKDDDLGEVIQLQGDQRIKV
+MEFLTQQLGLQKKNIKIHGF--*
+>P1;gi|34856009|ref|XP_341847.1| similar to Protein translation fact... [ score 126 E 1e-28 ] [ range 26 .. 96 ]
+sequence
+TED-YIHTRIQQRNG-RKTLTTVQGIA-DDYNKKKL----------------HPEYGEVIQLQGDQHKNI
+SHFLIETGLAKDSQLKVHGF--*
+>P1;gi|38089722|ref|XP_357939.1| similar to translation factor sui1 ... [ score 121 E 3e-27 ] [ range 198 .. 281 ]
+sequence
+TED-YIHKIIQQRND-RKTLTTVQGIT-DDYDKKKLVKAFKKKIACNGTKIEHPENGEVIQLQGDQCKNI
+CQFLIEPRLVQKENEK------*
+>P1;gi|34864187|ref|XP_345040.1| similar to suppressor of initiator ... [ score 111 E 3e-24 ] [ range 69 .. 127 ]
+sequence
+-KD-YIHIRIQQRNG-RENLMTVQGIT----DKKKLVKAFKRKFACDGAVIEHPEYGEVIQLQGGQ----
+----------------------*
+>P1;gi|28828360|gb|AAO51010.1| similar to translation initiation fac... [ score 104 E 6e-22 ] [ range 27 .. 110 ]
+sequence
+----YVHIRIFQRSG-RKAVTTVEGLP-PKIDLKKILKHLKKSLNCNGNIVEEENLGMIIKLQGDKRKEI
+ALFLIEEKISQKPSIKIHGF--*
+>P1;gi|38076454|ref|XP_356746.1| similar to Protein translation fact... [ score 90 E 1e-17 ] [ range 102 .. 164 ]
+sequence
+-------------------------IA-DDRDKKKLVKAFKKKFAGNGTVIEYPEYGEVIQLQDDQHKNI
+CQVLIEIGLAKDDQLKVHG---*
+>P1;gi|32419455|ref|XP_330171.1| hypothetical protein ( hypothetical... [ score 79 E 2e-14 ] [ range 94 .. 163 ]
+sequence
+-----VTIKRIERNK-RKYVTSVSGLA-FGLELKKVAKDFGKKFATGSSVTKVPSGGEEIVVQGDVSGEI
+EEFILE----------------*
+>P1;gi|43585957|gb|EAE47815.1| unknown [environmental sequence] [ score 79 E 2e-14 ] [ range 5 .. 64 ]
+sequence
+TGN-QVHLRIQARIR-RKCVLTVQGLD-DDLDLKKICKYLRKNLQCNGAIVKDKTFGEVIQLQ-------
+----------------------*
+>P1;gi|38104131|gb|EAA50745.1| hypothetical protein MG04504.4 [Magna... [ score 75 E 3e-13 ] [ range 133 .. 202 ]
+sequence
+-----VTVKRIERNK-RKYVTSVSGLS-FGLELKKVAKDFGKKFATGSSVTKVASGGEEIVVQGDVSDEI
+KEFIVE----------------*
+>P1;gi|13812051|ref|NP_113185.1| translation factor sui1 homolog [Gu... [ score 72 E 2e-12 ] [ range 53 .. 144 ]
+sequence
+--D-EIQIRLQQRTG-RKFITVIEGLG-NIVDLKKILRAMKQRFGCNGDVIKNNDY--VLLLNGDQRDNV
+KDFLCIEKILPEKLI-------*
+>P1;gi|7508611|pir||T16945 hypothetical protein T27F7.3 - Caenorhabd... [ score 70 E 1e-11 ] [ range 246 .. 283 ] [ duplicate b ]
+sequence
+---------------------------------------YHQKHSCNGTIVEHPEYGEVIQLTGDQRDKV
+KDFLIKV---------------*
+>P1;gi|42545558|gb|EAA68401.1| hypothetical protein FG01121.1 [Gibbe... [ score 70 E 1e-11 ] [ range 101 .. 171 ]
+sequence
+-----ITIKRIERNK-KKFVTAVIGLA-FDLELKKVAKDLGKKFATGASVTKLPGGGDEIVVQGDVSIEL
+EEFLLEK---------------*
+>P1;gi|15791324|ref|NP_281148.1| Vng2584c [Halobacterium sp. NRC-1] ... [ score 53 E 1e-06 ] [ range 27 .. 93 ]
+sequence
+-----IEIRIDERRY-GKEVTVIEGFP-KDVDLDSLSSDLKSKFACGGTV----EDGE-IELQGNHSGRV
+EDFLRNKG--------------*
+>P1;gi|40744941|gb|EAA64097.1| hypothetical protein AN8883.2 [Asperg... [ score 53 E 2e-06 ] [ range 52 .. 121 ]
+sequence
+-----VQIKRVERNK-RKHVSVVTGLE-YGLENKKVAKELGKKFATGSSVTKSASGIEEITVQGDVCEDI
+KEWLLE----------------*
+>P1;gi|29250733|gb|EAA42222.1| GLP_49_44768_45085 [Giardia lamblia A... [ score 53 E 2e-06 ] [ range 20 .. 100 ]
+sequence
+-----IHIHIVKK-G-KKYTTQVVNIN-QSYNFDKIVKAIKRDLCCSAYVFDETDGTKSIHVRGNYYREI
+VEWLLRERIVKKEQIKPH----*
+>P1;gi|19113595|ref|NP_596803.1| hypothetical protein [Schizosacchar... [ score 52 E 3e-06 ] [ range 101 .. 180 ]
+sequence
+-------IKTIERTK-RKRVTTVQGLA-FGIETKKAAKMLANKFATGASVTKTADKKDEIVVQGDLNYDI
+FDFILEKKEVPEDNIKI-----*
+>P1;gi|1076616|pir||S50119 activating factor (clone 12) - common tob... [ score 50 E 1e-05 ] [ range 58 .. 79 ]
+sequence
+-KE-YVHIRIQQRNG-KKSLTTVQG---------------------------------------------
+----------------------*
+>P1;gi|34903554|ref|NP_913124.1| P0001B06.29 [Oryza sativa (japonica... [ score 49 E 3e-05 ] [ range 188 .. 261 ]
+sequence
+-KQ-EVVIEKIVRNK-RKCVTVVKGLE-FGVKLSDASKKLGKKFATGASVVKGPTEKEQIDVQGDISYDI
+VEFITDT---------------*
+>P1;gi|13541163|ref|NP_110851.1| Translation initiation factor (SUI1... [ score 48 E 7e-05 ] [ range 26 .. 93 ]
+sequence
+-----VKIVVDKRRY-GKFVTIIEGID-PKIDIEKIAKELKKKVASGGTVKE----GRIIELQGDHRQEV
+KKFLEDMG--------------*
+>P1;gi|31216194|ref|XP_316185.1| ENSANGP00000017070 [Anopheles gambi... [ score 47 E 9e-05 ] [ range 148 .. 213 ]
+sequence
+-----ITLSRSARGK-RKSVTVVTGLA-TDIDLKLAAKFFGTKFACGSSVTGDDE----IVIQGDVKDEL
+FDIIPE----------------*
+>P1;gi|15920552|ref|NP_376221.1| 100aa long conserved hypothetical p... [ score 47 E 1e-04 ] [ range 21 .. 90 ]
+sequence
+-EQ-FIKIKVEKRRY-GKEVTIIEGLG-SDVELKKIASELKSKLAAGGTVKNGK-----IELQGDHRERV
+KELLMKMG--------------*
+>P1;gi|45185576|ref|NP_983292.1| ACL112Cp [Eremothecium gossypii] >g... [ score 47 E 1e-04 ] [ range 99 .. 181 ]
+sequence
+-------IRREARTK-RKCMVVVAGLE-FEIDMKKLAKTFASKFATGCSVSKNVEKKEEVVVQGDIADEV
+EAYLEEKGMVKVEQI-------*
+>P1;gi|16082603|ref|NP_394720.1| Translation initiation factor (SUI1... [ score 46 E 1e-04 ] [ range 26 .. 93 ]
+sequence
+-----VKIMVDKRRY-GKFVTIIEGIP-KTEDIEKIAKELKKKVASGGTVKE----GRIIELQGDHRQEV
+KKYLEDMG--------------*
+>P1;gi|14601525|ref|NP_148065.1| hypothetical protein translation fa... [ score 45 E 3e-04 ] [ range 22 .. 91 ]
+sequence
+-EQ-IIKIRLEKRRF-GREVTIIEGIE-KEFNLKKLASTLKSRLATGGT----AKNGR-IELQGDHRHRV
+KKILVELG--------------*
+>P1;gi|20094280|ref|NP_614127.1| Translation initiation factor (SUI1... [ score 45 E 3e-04 ] [ range 36 .. 105 ]
+sequence
+----------QVRPG--KVVTIIEGLD-DGIDLQELASKLKRECACGGTAKE----GKII-LQGDHRNKV
+REFLIKKEGFSEDAIEV-----*
+>P1;gi|6322474|ref|NP_012548.1| Hypothetical ORF; Yjr014wp [Saccharo... [ score 45 E 3e-04 ] [ range 101 .. 166 ]
+sequence
+-------IKREARTK-RKFIVAISGLE-FDIDMKKLAKTFASRFATGCSVSKNAEKKEEVVIQGDVMDEV
+ETYI------------------*
+>P1;gi|20092852|ref|NP_618927.1| translation initiation factor Sui1 ... [ score 45 E 4e-04 ] [ range 28 .. 101 ]
+sequence
+-----ITVKVNRRRY-GKEVTVVEGFA-SEIDLHELSTYLKSKFACGGTV-----KGNTVELQGNHLARM
+KEVLMEKGFSA-EQIK------*
+>P1;gi|15668640|ref|NP_247438.1| conserved hypothetical protein [Met... [ score 45 E 4e-04 ] [ range 25 .. 99 ]
+sequence
+-EQ-KIKIYVTKRRF-GKLMTIIEGFD-TSIDLKELAKKLKDICACGGTVKDN-----TIELQGDHRKKV
+AEELVKMGFSRDS---------*
+>P1;gi|11357422|pir||T48549 hypothetical protein F14F18.70 - Arabido... [ score 45 E 6e-04 ] [ range 144 .. 207 ]
+sequence
+------------RNK-RKCITIVKGLE-FGIKLSDASKKLGKKFATGASVVKGPTEKEQIDVQGDIIYDI
+VEFITDT---------------*
+>P1;gi|11498519|ref|NP_069747.1| conserved hypothetical protein [Arc... [ score 44 E 7e-04 ] [ range 24 .. 93 ]
+sequence
+-QQ-FIVIKTGKRRY-GKEVTIIEGID-KEINLEELAKYLKSKLACGGTVKN-----GVIELQGNHVNRV
+KELLIKKG--------------*
+>P1;gi|43704385|gb|EAF07354.1| unknown [environmental sequence] [ score 44 E 8e-04 ] [ range 27 .. 92 ]
+sequence
+-----IKVHIEKRRY-GKLVTIVDGIG-KSVDISDLAKQLKTKCATGGT-----SKGGIIELQGDHTKKV
+NEVLTDMG--------------*
+>P1;gi|43770544|gb|EAF39729.1| unknown [environmental sequence] [ score 44 E 9e-04 ] [ range 27 .. 102 ]
+sequence
+-----IIIRLETRRF-KKKGTMIEGLD-PKINLESVAKELKGKYACGGTAKE-----GYIFLQGDHRDTI
+KEALVDLGF-SEEKIELH----*
+>P1;gi|23470772|ref|ZP_00126104.1| COG0023: Translation initiation f... [ score 121 E 3e-27 ] [ range 66 .. 146 ]
+sequence
+EGDGIARVRRESKGRGGKTVTTISGVPLAEEPLKELAKALKQRCGTGGSLKE-----GVIEIQGDHVELL
+LAELIKKGF----KAKKSGG--*
+>P1;gi|23001130|ref|ZP_00045042.1| COG0023: Translation initiation f... [ score 118 E 2e-26 ] [ range 54 .. 132 ]
+sequence
+--DGVVRVSRETKGRKGRGVTLIKGLPLSAEALMTQAKHLKTLCGSGGTVKD-----GVVEIQGDHVEQI
+MDLLKKQNY----TVKRAGG--*
+>P1;gi|26247615|ref|NP_753655.1| Protein yciH [Escherichia coli CFT0... [ score 118 E 2e-26 ] [ range 29 .. 109 ]
+sequence
+KGDGVVRIQRQTSGRKGKGVCLITGVDLDDAELTKLAAELKKKCGCGGAVKD-----GIIEIQGDKRDLL
+KSMLEAKGM----KVKLAGG--*
+>P1;gi|16760174|ref|NP_455791.1| putative translation initiaiton fac... [ score 116 E 9e-26 ] [ range 28 .. 108 ]
+sequence
+KGDGIVRIQRQTSGRKGKGVCLITGIEMNDAELTKLAAELKKKCGCGGAVKE-----GIIEIQGDKRDLI
+KSLLEAKGM----KVKLAGG--*
+>P1;gi|26987304|ref|NP_742729.1| translation initiation factor SUI1 ... [ score 116 E 1e-25 ] [ range 43 .. 123 ]
+sequence
+EGDGIARVRRESKGRGGKTVTTVTGVPLPPDQLKELATTLKRRCGTGGALKD-----GVIEIQGDHVELL
+IGELTKQGF----KAKKSGG--*
+>P1;gi|16122457|ref|NP_405770.1| translation initiation factor SUI1 ... [ score 116 E 1e-25 ] [ range 28 .. 108 ]
+sequence
+KGDGIVRIQRQTSGRKGKGVSLITGIDGSDEDLDKLAAELKKKCGCGGSVKD-----GVIEIQGDKRDLL
+KQLLDAKGM----KVKLAGG--*
+>P1;gi|28871956|ref|NP_794575.1| translation initiation factor SUI1,... [ score 116 E 1e-25 ] [ range 43 .. 123 ]
+sequence
+EGDGVARVRRESKGRGGKTVTTISGVPLAEEPLKELAKALKQRCGTGGSLKD-----DVIEIQGDHVELL
+IAELVKKGF----KAKKSGG--*
+>P1;gi|23062267|ref|ZP_00087061.1| COG0023: Translation initiation f... [ score 116 E 1e-25 ] [ range 44 .. 123 ]
+sequence
+-GDGIARVRRESKGRGGKTVTTITGVPLAEDALKELATTLKKRCGTGGALKD-----GIIEIQGDHVELL
+LAELVKHGF----KAKKSGG--*
+>P1;gi|37526322|ref|NP_929666.1| hypothetical protein [Photorhabdus ... [ score 115 E 2e-25 ] [ range 28 .. 108 ]
+sequence
+KGDGIVRIQRQTSGRKGKGVCVITGIDADDQTLAKLAAELKKKCGCGGSVKE-----GEIEIQGDKRELL
+KQLLEAKGM----TVKLAGG--*
+>P1;gi|15602661|ref|NP_245733.1| unknown [Pasteurella multocida] >gi... [ score 115 E 2e-25 ] [ range 25 .. 105 ]
+sequence
+KGDGIVRIQRQVSGRKGNGVCVITGLDLSDDELKKLATELKKRCGCGGAVKD-----GTIEIQGEKRDLL
+KDLLEQKGY----RVKLAGG--*
+>P1;gi|27366730|ref|NP_762257.1| Translation initiation factor 1 rel... [ score 115 E 2e-25 ] [ range 23 .. 103 ]
+sequence
+KGDGIVRIQRETKGRKGKGVCVVTGLDLDDAPLKLLAAELKKICGCGGSVKD-----GNIEIQGDARDKI
+KTHLEKKGM----KVKFAGG--*
+>P1;gi|32035545|ref|ZP_00135483.1| COG0023: Translation initiation f... [ score 114 E 4e-25 ] [ range 23 .. 103 ]
+sequence
+KGDGIVRIQRQTSGRKGKSVCVISGLDLDDAELKLLAAELKKRSGVGGSVKD-----GLIEIQGDNRDLL
+KQVLEQKGF----KVKLAGG--*
+>P1;gi|28900743|ref|NP_800398.1| Sui1 family protein [Vibrio parahae... [ score 114 E 5e-25 ] [ range 23 .. 103 ]
+sequence
+KGDGIVRIQRQTKGRKGKGVCIVSGLDLDDAPLKLLAAELKKVCGCGGSVKD-----GTIEIQGDARDKI
+KTHLEKKGM----TVKLAGG--*
+>P1;gi|23056042|ref|ZP_00082105.1| COG0023: Translation initiation f... [ score 114 E 6e-25 ] [ range 42 .. 121 ]
+sequence
+-GDGIVRVRRESKGRGGKTVTVITGVPLGSDGIAALAGELKRRCGTGGTVKE-----GNIEIQGDHADLL
+VAELTKWGY----TVKRAGG--*
+>P1;gi|44641815|gb|EAK68624.1| unknown [environmental sequence] [ score 113 E 7e-25 ] [ range 31 .. 109 ]
+sequence
+--DGIVRIHRDSKGRKGKGVSVISGLGLDDTGLKALAQTLKKQCGCGGTVKD-----FTIEVQTDNRELL
+KQLLEKQNY----KVKLAGG--*
+>P1;gi|34499166|ref|NP_903381.1| conserved hypothetical protein [Chr... [ score 113 E 9e-25 ] [ range 39 .. 118 ]
+sequence
+-GDGVVRVSRETKGRGGKAVTVVKGLPLAADELAKVGKQLRARCGSGGTVKD-----WTLEIQGDHVETV
+VAELARLGF----KAKRAGG--*
+>P1;gi|24374856|ref|NP_718899.1| translation initiation factor, puta... [ score 113 E 9e-25 ] [ range 31 .. 109 ]
+sequence
+--DGIVRIHRDSKGRKGKGVSVISGLGLDEAGLKALAQTLKKQCGCGGTVKD-----FTIEVQTDNREQL
+KQLLEKQNY----KVKLAGG--*
+>P1;gi|39995797|ref|NP_951748.1| translation initation factor SUI1, ... [ score 113 E 9e-25 ] [ range 42 .. 121 ]
+sequence
+-GDGIVRVRRETKGRGGKTVTVITGVPLNEAGVRELAGELKRRCGTGGTVKE-----GVVEIQGDHADLL
+VAELTRRGF----IVKRAGG--*
+>P1;gi|43962477|gb|EAG37616.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 40 .. 118 ]
+sequence
+-GDGVVRIRRETKGRGGKAVTVITGIPEHPDTLKTLCKQLKQRCGVGGAVKG-----DTLEIQGDQRSAC
+QEHLKKMGY----EVKLSG---*
+>P1;gi|44475671|gb|EAJ53453.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 31 .. 109 ]
+sequence
+--DGIVRIHRDSKGRKGKGVSVISGLGLDEAGLKTLAQTLKKQCGCGGTVKD-----FTIEVQTDNREQL
+KLLLEKQNY----KVKLAGG--*
+>P1;gi|16273144|ref|NP_439381.1| hypothetical protein HI1225 [Haemop... [ score 111 E 4e-24 ] [ range 26 .. 106 ]
+sequence
+KGDGVVRIQKQTSGRKGAGVSVITGLDLSDEELKKLAAELKKRCGCGGAVKN-----GIIEIQGEKRDLL
+KQLLEQKGF----KVKLSGG--*
+>P1;gi|43423496|gb|EAD69738.1| unknown [environmental sequence] [ score 111 E 4e-24 ] [ range 38 .. 116 ]
+sequence
+--DGIIRIQRETKGRKGKGVTLVSGVPLTHDDLLKLAKELKQRCSTGGSVKN-----GVIEIQGDQKQVL
+LKALQDKGY----TVKISGG--*
+>P1;gi|44565735|gb|EAK14742.1| unknown [environmental sequence] [ score 110 E 6e-24 ] [ range 32 .. 110 ]
+sequence
+--DGIVRIHRETKGRKGKGVSLIKGLDLPSDDLKKLGSELKKKCGCGGAVKD-----GVIEVQTDDREKL
+RALLTDKGY----KVKLAGG--*
+>P1;gi|15600033|ref|NP_253527.1| conserved hypothetical protein [Pse... [ score 110 E 6e-24 ] [ range 44 .. 123 ]
+sequence
+-GDGIARVRRETKGRGGKTVTTISGLSLAGDALKELASALKRRCGTGGSLKD-----GVVEIQGEHVELL
+IDELLKRGF----KAKKSGG--*
+>P1;gi|44558250|gb|EAK09334.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 32 .. 110 ]
+sequence
+--DGVVRIHRETKGRKGKGVSLIKGLDLASDELKKLGSELKKKCGCGGAVKD-----GVIEVQTDDREKL
+RTLLTDKGY----KVKLAGG--*
+>P1;gi|23039514|ref|ZP_00071072.1| COG0023: Translation initiation f... [ score 110 E 1e-23 ] [ range 47 .. 122 ]
+sequence
+-----LRVQVSRKGRKGKTVTVISGFQSNQETLTALLKQLKNQCGAGGTIKD-----NEIEIQGEHKQKL
+LEILIKLGY----KAKISGG--*
+>P1;gi|23026444|ref|ZP_00064930.1| COG0023: Translation initiation f... [ score 110 E 1e-23 ] [ range 28 .. 107 ]
+sequence
+-GDGIVRIKRETKGRKGKGVTLVEGLMLPEAELKALSKKLKQLCGTGGTLKN-----FTVEIQGDHREKL
+QTYLKEQGF----TVKLAGG--*
+>P1;gi|45509851|ref|ZP_00162184.1| hypothetical protein Avar127301 [... [ score 108 E 3e-23 ] [ range 27 .. 102 ]
+sequence
+-----VRVQATRAGRKGKTVTVITGFQTKPEVLADLVKQLKTQCGTGGTVKD-----NEIEIQGEHKQKI
+LEILIKLGY----KAKISGG--*
+>P1;gi|23130015|ref|ZP_00111836.1| COG0023: Translation initiation f... [ score 106 E 1e-22 ] [ range 40 .. 115 ]
+sequence
+-----LKVQASRKGRKGKTVTVISGFQAKPETLADLVKQLKTQCGTGGTLKD-----NEIEIQGEHKQKI
+VEILTKLGY----KAKISGG--*
+>P1;gi|44460957|gb|EAJ43017.1| unknown [environmental sequence] [ score 106 E 2e-22 ] [ range 25 .. 103 ]
+sequence
+--DGHARLRRETKGRNGKAVITISGLAESTETLAEIAAVLKKKCGCGGSVKD-----GVIEIQGDQRELV
+QQELTKLGY----KHKWAGG--*
+>P1;gi|37519732|ref|NP_923109.1| putative translation initiaiton fac... [ score 104 E 5e-22 ] [ range 40 .. 117 ]
+sequence
+---QTARLAHDRKRRRGKVVTMVSGLILPEAQLDELAKLLKSECGAGGTVKD-----GEIEIQGEHREKV
+AGILQKLGF----KIKLVGG--*
+>P1;gi|16331689|ref|NP_442417.1| hypothetical protein [Synechocystis... [ score 104 E 5e-22 ] [ range 36 .. 111 ]
+sequence
+-----VRIQATRSGRKGKTVTVVSGLQLSAMGQQALLKALKSFCGSGGTLKE-----DCVEIQGDQREKI
+LAYLLKQGY----KAKISGG--*
+>P1;gi|33239641|ref|NP_874583.1| Translation initiation factor SUI1 ... [ score 103 E 1e-21 ] [ range 27 .. 107 ]
+sequence
+KTDRTVRVQRTRGGKAGKTVTVIKGLDLTVSEAKMLLKQLKTICGTGGTLKE-----GIMELQGDQVKTS
+MEFLAKEGF----SPRQSGG--*
+>P1;gi|43112374|gb|EAC22230.1| unknown [environmental sequence] [ score 101 E 5e-21 ] [ range 23 .. 101 ]
+sequence
+--DGIARIQRETKGRKGKGVSIITGLDQNADELKALCTVLKKKCGCGGAVKA-----GTIELQTDARDKI
+QQLLEQQGI----KSKVAGG--*
+>P1;gi|44444264|gb|EAJ31132.1| unknown [environmental sequence] [ score 101 E 5e-21 ] [ range 39 .. 114 ]
+sequence
+-GLKTVRLSLTSKGRKGKSVTLIKGLRMNPSELKAYAGKLKKKTGTGGSLKD-----GVVEIQGDFREKV
+AEILTRDGW----EVQ------*
+>P1;gi|43433244|gb|EAD72918.1| unknown [environmental sequence] [ score 100 E 9e-21 ] [ range 48 .. 123 ]
+sequence
+-GLKTVRVSLSIKGRKGKSVTLIKGLRMYPSELKAYAGKLKKKTGTGGSLKD-----GVVEIQGDYREKV
+AEILRKDGW----DVQ------*
+>P1;gi|44106022|gb|EAH15866.1| unknown [environmental sequence] [ score 99 E 2e-20 ] [ range 27 .. 107 ]
+sequence
+KAQQMVRVQPTRGGKGGKTVTVIRGLELDAAGFKALLKKLKTRIGSGGTAKD-----GVIELQGDQVALA
+LDLLTKEGY----SPKRAGG--*
+>P1;gi|44319037|gb|EAI42831.1| unknown [environmental sequence] [ score 99 E 3e-20 ] [ range 31 .. 109 ]
+sequence
+--DGFVRIERQTKGRKGKGVMLVVGIDPKEHDLKKLAKTIKSKMGQGGAVKE-----GVIEVQGDDRDKL
+KAILESLKF----KVKIAGG--*
+>P1;gi|33864293|ref|NP_895853.1| Translation initiation factor SUI1 ... [ score 98 E 3e-20 ] [ range 49 .. 129 ]
+sequence
+KEQQAVRVQRTRGGKRGKTVTQITGLALTATEAKALLKRLKARAGTGGTVKD-----DLLELQGDQVTLV
+MDVLQSEGF----RPKQAGG--*
+>P1;gi|44403508|gb|EAJ02762.1| unknown [environmental sequence] [ score 98 E 3e-20 ] [ range 32 .. 109 ]
+sequence
+-TDGVVRIRRETKGRKGAGVITIHGVP--AEQQKSIATLLKKKCGTGGGLKE-----GVIEIQGDKRDLI
+KAELEKGGF----SVKLVGG--*
+>P1;gi|44440154|gb|EAJ28336.1| unknown [environmental sequence] [ score 98 E 4e-20 ] [ range 39 .. 114 ]
+sequence
+-GLKTVRVSLSSKGRKGKSVTLIKGLRMNLSELKAYAGKLKKKTGTGGSLKD-----GVVEIQGDYREKV
+AEILSKDGW----EAQ------*
+>P1;gi|33866812|ref|NP_898371.1| conserved hypothetical protein [Syn... [ score 98 E 4e-20 ] [ range 27 .. 107 ]
+sequence
+KTQQMVRVQPTRGGKGGKTVTMIRGLELDAAGFKALLKKLKTRIGSGGTAKD-----GVIELQGDQVELA
+LDLLTKEGY----RPKRAGG--*
+>P1;gi|43919489|gb|EAG14614.1| unknown [environmental sequence] [ score 97 E 8e-20 ] [ range 27 .. 105 ]
+sequence
+KAQQMVRVQPTRGGKGGKTVTVIRGLELDAAGFKTLLKKLKTRIGSGGTAKD-----GVIELQGDQVELA
+LDLLTKEGY----RPKRA----*
+>P1;gi|43928722|gb|EAG19337.1| unknown [environmental sequence] [ score 97 E 9e-20 ] [ range 24 .. 103 ]
+sequence
+-GDGVVRVSRETKGRGGKSVTIVKGLALDPLALALLGKQLRTACGSGGTVKD-----GVIEVQGDHCDRV
+VETLKKHGH----SAKRAGG--*
+>P1;gi|43649175|gb|EAE79399.1| unknown [environmental sequence] [ score 96 E 2e-19 ] [ range 18 .. 93 ]
+sequence
+-GLKTVRVSLTSKGRKGKSVTLIKGLRMNSSELKAYASKLKKKTGTGGSLKD-----GVIEIQGYYREKV
+AEILSKDGW----EVQ------*
+>P1;gi|33152429|ref|NP_873782.1| conserved possible translation init... [ score 93 E 1e-18 ] [ range 23 .. 103 ]
+sequence
+KGDGIVRIQKQTSGRKGKGVSIISGLDLDSVALKLLAAELKKRSGVGGSVKG-----GNIEIQGDNRELL
+KQILLEKGF----KVKLAGG--*
+>P1;gi|34540095|ref|NP_904574.1| translation initation factor SUI1, ... [ score 91 E 6e-18 ] [ range 39 .. 110 ]
+sequence
+-----LRITLDRKQRRGKEVTLVSGHVGSADDLTDLSRLLKQRCGVGGAAKD-----GEIIIQGNQVEKV
+KEILRSLHY----GVK------*
+>P1;gi|43110428|gb|EAC21272.1| unknown [environmental sequence] [ score 90 E 8e-18 ] [ range 17 .. 94 ]
+sequence
+--QQKVRLHLDRKG-GGKIVTVIRGLVHEDEIMVNLTKELKKRCGVGGSFKD-----NKILIQGNKRDIV
+KEILSKKGY----NVKLSGG--*
+>P1;gi|15668640|ref|NP_247438.1| conserved hypothetical protein [Met... [ score 89 E 3e-17 ] [ range 33 .. 96 ]
+sequence
+-----------TKRRFGKLMTIIEGFDTSVIDLKELAKKLKDICACGGTVKD-----NTIELQGDHRKKV
+AEELVKMGF----S--------*
+>P1;gi|42521857|ref|NP_967237.1| putative translation initiation fac... [ score 88 E 3e-17 ] [ range 38 .. 118 ]
+sequence
+EGQFTVVFRLEKGGRGGKTVTVLDGFPRNEEYLKTLAKEFKAKCGVGGTDKA-----GMIEIQGDKRDQL
+KKILEAKKI----KFK------*
+>P1;gi|15601329|ref|NP_232960.1| Sui1 family protein [Vibrio cholera... [ score 88 E 5e-17 ] [ range 23 .. 103 ]
+sequence
+KGDGIVRIFRETKGRKGKGVTIVKGLDLDDAALKLLAAELKKKCGCGGAVKD-----GDIEIQGDVRDQL
+KTLLESKGH----KVKLAGG--*
+>P1;gi|15920552|ref|NP_376221.1| 100aa long conserved hypothetical p... [ score 87 E 9e-17 ] [ range 19 .. 91 ]
+sequence
+KEEQFIKIKVE-KRRYGKEVTIIEGLSGSDVELKKIASELKSKLAAGGTVKN-----GKIELQGDHRERV
+KELLMKMGY-------------*
+>P1;gi|15791324|ref|NP_281148.1| Vng2584c [Halobacterium sp. NRC-1] ... [ score 86 E 2e-16 ] [ range 35 .. 96 ]
+sequence
+--------------RYGKEVTVIEGFDPKDVDLDSLSSDLKSKFACGGTVED-----GEIELQGNHSGRV
+EDFLRNKGF----NV-------*
+>P1;gi|44531449|gb|EAJ90663.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 33 .. 107 ]
+sequence
+-----VRLHLDRK-KGGKVVTLIKGLMEEKDTLMEITKELKKKCGTGGSVKK-----NEILIQGNQRETI
+QKILLKKGY----DVKLSGG--*
+>P1;gi|44301632|gb|EAI31058.1| unknown [environmental sequence] [ score 85 E 3e-16 ] [ range 32 .. 106 ]
+sequence
+-----LRIHLDRR-RGGKIVTLIKGYSGTNQQLSELCSQLKKKFSIGGTVKD-----GIILLQGNIRDKV
+LVFLGDQGH----TAKPSGG--*
+>P1;gi|11498519|ref|NP_069747.1| conserved hypothetical protein [Arc... [ score 85 E 4e-16 ] [ range 22 .. 98 ]
+sequence
+KEQQFIVI-KTGKRRYGKEVTIIEGIDKGEINLEELAKYLKSKLACGGTVKN-----GVIELQGNHVNRV
+KELLIKKGF----NPER-----*
+>P1;gi|29349287|ref|NP_812790.1| putative translation initiation fac... [ score 85 E 4e-16 ] [ range 40 .. 116 ]
+sequence
+-----LRVSLDRKNRGGKVVTLITGFVGTENDQKELGKMLKSKCGVGGSAKD-----GEIIVQGDFKQKV
+IDLLIKEGY----KTKGVGG--*
+>P1;gi|23135466|ref|ZP_00117210.1| COG0023: Translation initiation f... [ score 85 E 5e-16 ] [ range 40 .. 111 ]
+sequence
+-----LKVLLDSKGRAGKTVTVVSGFVGQTADLEDLGKKLKNKLGVGGSVKD-----GEVLIQGDFRARL
+VPLLNEMGY----KVK------*
+>P1;gi|43293691|gb|EAD12659.1| unknown [environmental sequence] [ score 84 E 8e-16 ] [ range 40 .. 113 ]
+sequence
+-------VMTDKKNRAGKTVVLIEGFVGSEKEANLLSDQLKRHCGVGGGYKN-----NRIYIQGNKRDSI
+VLILKKMGA----NVKIKGG--*
+>P1;gi|23104514|ref|ZP_00090978.1| COG0023: Translation initiation f... [ score 83 E 1e-15 ] [ range 2 .. 74 ]
+sequence
+--------RRETKGRGGKTVTTVSGLPLAGDALKELASALKRRCGTGGALKE-----GVIEIQGEHVELL
+LEELAKRGF----KAKKSGG--*
+>P1;gi|43801518|gb|EAF55317.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 33 .. 107 ]
+sequence
+-----LRVHLDRR-KGGKIVTIIRGYQGPISELKTLANSLKKKLSVGGSVKN-----DEILLQGNLREKV
+LKFLSNNNF----NAKPSGG--*
+>P1;gi|22406366|ref|ZP_00001216.1| COG0023: Translation initiation f... [ score 82 E 2e-15 ] [ range 32 .. 99 ]
+sequence
+------------KRRYGKLVTVIDGIDPKTENINDIAKTLKKKAASGGTVKD-----GRIELQGDHRDVM
+KKELESMGF----KVQMA----*
+>P1;gi|18978189|ref|NP_579546.1| hypothetical protein translation fa... [ score 81 E 5e-15 ] [ range 18 .. 94 ]
+sequence
+KEQQRIRVYTERA-RYGKIKTIIEGIDEKEFDLEEIAKKLKAKLACGGTAKN-----GRIELQGDHRDRI
+KKLLVELGF----SEEL-----*
+>P1;gi|45513580|ref|ZP_00165146.1| hypothetical protein Selo134201 [... [ score 81 E 5e-15 ] [ range 1 .. 62 ]
+sequence
+-------------------MTIITGFQHRPETLASLCKKLKARCGSGGTVKD-----DTIEIQGDHRQTL
+LEALKGLGY----GAKLSGG--*
+>P1;gi|14601525|ref|NP_148065.1| hypothetical protein translation fa... [ score 81 E 6e-15 ] [ range 23 .. 92 ]
+sequence
+---QIIKIRLE-KRRFGREVTIIEGINEKEFNLKKLASTLKSRLATGGTAKN-----GRIELQGDHRHRV
+KKILVELGF-------------*
+>P1;gi|15678041|ref|NP_275155.1| ribosomal protein SUI1 [Methanother... [ score 81 E 7e-15 ] [ range 30 .. 94 ]
+sequence
+----------TVRRRFGKVMTIIEGIDEHDIDIKELTKILKARCACGGTAKK-----GQIELQGDHKKKV
+KEVLADMGF----S--------*
+>P1;gi|14591754|ref|NP_143608.1| Translation initiation factor [Pyro... [ score 79 E 2e-14 ] [ range 19 .. 95 ]
+sequence
+KEQQRIKVYIERA-RYGKVKTIIEGIDEKEFDLEEIAKKLKAKLACGGTAKN-----GRIELQGDHRDRI
+KKLLAELGF----SEEL-----*
+>P1;gi|141377|sp|P14021|SUI1_METVA Protein translation factor SUI1 h... [ score 79 E 2e-14 ] [ range 32 .. 95 ]
+sequence
+-----------TKRRFGKLMTVVDGFDADLIDVKDLAKKLKDICACGGTVKK-----DSIELQGDHRKKA
+EEILIKMGF----S--------*
+>P1;gi|13541163|ref|NP_110851.1| Translation initiation factor (SUI1... [ score 78 E 3e-14 ] [ range 32 .. 96 ]
+sequence
+------------KRRYGKFVTIIEGIDPKIEDIEKIAKELKKKVASGGTVKE-----GIIELQGDHRQEV
+KKFLEDMGF----KV-------*
+>P1;gi|44176596|gb|EAH53861.1| unknown [environmental sequence] [ score 78 E 4e-14 ] [ range 42 .. 111 ]
+sequence
+------------KGRAGTPVIILKGFSLKKEDLKHLAKRIKNKLGIGGSIKN-----NEIYFQGDKRDKI
+ISILESQGH----SVKRIGG--*
+>P1;gi|16082603|ref|NP_394720.1| Translation initiation factor (SUI1... [ score 78 E 6e-14 ] [ range 26 .. 96 ]
+sequence
+-----VKIMVD-KRRYGKFVTIIEGIDPKTEDIEKIAKELKKKVASGGTVKE-----GIIELQGDHRQEV
+KKYLEDMGF----KA-------*
+>P1;gi|45358969|ref|NP_988526.1| Protein translation factor SUI1 hom... [ score 77 E 7e-14 ] [ range 32 .. 95 ]
+sequence
+-----------TKRRFGKLMTVVDGFDADLIDVKDLAKKLKDICACGGTVKK-----DSIELQGDHRRKA
+EETLIKMGF----S--------*
+>P1;gi|20094280|ref|NP_614127.1| Translation initiation factor (SUI1... [ score 77 E 8e-14 ] [ range 38 .. 95 ]
+sequence
+--------------RPGKVVTIIEGLDDAGIDLQELASKLKRECACGGTAKE-----GKIILQGDHRNKV
+REFLIKK---------------*
+>P1;gi|21226960|ref|NP_632882.1| protein translation initiation fact... [ score 77 E 9e-14 ] [ range 29 .. 99 ]
+sequence
+----TVKVNR---RRYGKEVTVVEGFDASEIDLHELSTYLKSKFACGGTVKG-----NTVELQGNHLTRM
+KEVLMEKGF----SAEQ-----*
+>P1;gi|43266884|gb|EAC99198.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 33 .. 107 ]
+sequence
+-----LRIHLVRL-KGDKLVTIVRGYKGKDKSLKNLGSLLRKECSVGGTTKK-----GEIILQGNSRDKV
+LQLLKDRGH----QVKLSGG--*
+>P1;gi|43947861|gb|EAG29656.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 21 .. 95 ]
+sequence
+-----LRIHLIRKG-GGKIVTVVRGYKGNKEGLKSLGKYLQSSCSTGGTFKQ-----NEISLQGDFREKV
+KNLLMKKGY----KSKFSGG--*
+>P1;gi|44399634|gb|EAJ00096.1| unknown [environmental sequence] [ score 75 E 4e-13 ] [ range 40 .. 106 ]
+sequence
+--------------KGDKLVTVVRGYKGKEKGLKNLGSFLRKECSVGGTTKK-----GEIILQGNSREKV
+LQLLKDRGH----QVKLSGG--*
+>P1;gi|43293718|gb|EAD12674.1| unknown [environmental sequence] [ score 75 E 4e-13 ] [ range 2 .. 63 ]
+sequence
+-------------------VTLVEGFVGLDSDLKELGKFLKSKCGVGGTVKN-----ETINIQGNHRDKV
+MNLLTNMGY----LVKRKGG--*
+>P1;gi|33242565|gb|AAQ00994.1| SUI1-like protein [Sulfolobus solfata... [ score 74 E 7e-13 ] [ range 17 .. 86 ]
+sequence
+KEEQFIKIKVE-KRRYGKEVTIIEGLGGNDSELKKIASELKSKLAAGGTVKD-----GKILIQGDHKEKV
+REILIK----------------*
+>P1;gi|43115914|gb|EAC23952.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 56 .. 129 ]
+sequence
+---GPIFIEKQTAGRRGKPVNVIKNIPLRKVELKKLAKELKKHLGVGGSCSD-----GEIIIQGANKERL
+IEVLERKGF----PVK------*
+>P1;gi|43056193|gb|EAB94480.1| unknown [environmental sequence] [ score 72 E 2e-12 ] [ range 33 .. 95 ]
+sequence
+------------KRRYGKLVTVIDGI-GKSVDIVDLAKQLKTKCATGGTSKG-----GVIELQGDHTRKV
+NEVLSDMGF----PV-------*
+>P1;gi|44332470|gb|EAI52338.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 14 .. 69 ]
+sequence
+-------------------------FRLKKEDLKNLAKPIKNKLGIGGSIKN-----NEIYFQGDKRDKI
+ISILESQGH----SVKRIGG--*
+>P1;gi|43704385|gb|EAF07354.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 33 .. 95 ]
+sequence
+------------KRRYGKLVTIVDGI-GKSVDISDLAKQLKTKCATGGTSKG-----GIIELQGDHTKKV
+NEVLTDMGF----PV-------*
+>P1;gi|43851251|gb|EAF79838.1| unknown [environmental sequence] >gi|... [ score 68 E 4e-11 ] [ range 29 .. 95 ]
+sequence
+-------IRLETRRFKKKG-TMIEGLDPKINNLESVAKELKGKYACGGTAKE-----GYIFLQGDHRDTI
+KEALVKLGF----S--------*
+>P1;gi|32476373|ref|NP_869367.1| protein translation factor SUI1 hom... [ score 67 E 8e-11 ] [ range 52 .. 124 ]
+sequence
+---QTARVRLDRR-KGGRTVTLVEGLTSRANDLPELLGKLQSACGAGGTVKD-----DFIELQGDHVERV
+RQKLAEIGY----R--------*
+>P1;gi|44427755|gb|EAJ19747.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 15 .. 89 ]
+sequence
+-----LRIHLIRL-KGDKLVTVVRGFKGQNKNLKKLGSYLRKKCSVGGSTKK-----GEIILQGNSRKKV
+LQLLIDKGH----HVKLSGG--*
+>P1;gi|44462187|gb|EAJ43860.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 29 .. 90 ]
+sequence
+--------------RYGKMVTMVEGIEDTAIDIGQLAKILKGACASGGTVKG-----RTIELQGDHKKKA
+AKVLEQNGY----QV-------*
+>P1;gi|43986974|gb|EAG50950.1| unknown [environmental sequence] [ score 65 E 4e-10 ] [ range 1 .. 56 ]
+sequence
+-------------------------LELDAAGFKALLKKLKTRIGSGGTAKD-----GVIELQGDQVDLA
+LDLLAKEGY----RPKRAGG--*
+>P1;gi|18314004|ref|NP_560671.1| translation initiation factor SUI1 ... [ score 64 E 6e-10 ] [ range 32 .. 107 ]
+sequence
+KEKALVRIRLE--NRRGHYVTIVDSEDAKQLGIKDMARELKKRLAAGGTIRD-----SWIEIQGDHRQKI
+KKLLIEMGF----K--------*
+>P1;gi|44656748|gb|EAK77695.1| unknown [environmental sequence] [ score 61 E 5e-09 ] [ range 1 .. 54 ]
+sequence
+---------------------------LDAAGVKTLLKKLKPRIGSGGTAKD-----GVIELQGDQVELA
+LDLLAKEGY----RPKRAGG--*
+>P1;gi|34558270|ref|NP_908085.1| hypothetical protein WS1982 [Woline... [ score 59 E 2e-08 ] [ range 56 .. 119 ]
+sequence
+--------------RQGKSVTCAGEFFLEESEMKEWLKKLKSSLGCGGTYKG-----GFIELQGEWREKA
+RAFFEKAGF----GLKR-----*
+>P1;gi|44482957|gb|EAJ58676.1| unknown [environmental sequence] [ score 58 E 7e-08 ] [ range 28 .. 69 ]
+sequence
+-GHKTVRVSLTSKGRKGKSVTLIKGLRMNPSELKAYAGKLKKK---------------------------
+----------------------*
+>P1;gi|42962118|gb|EAB48004.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 32 .. 95 ]
+sequence
+-------IRREKSGRGGKTVTTVSGFRISRETRNGILKEVKTKLGTGGTWDG-----DCMEIQGDKRQEL
+VSWL------------------*
+>P1;gi|43744107|gb|EAF26483.1| unknown [environmental sequence] [ score 55 E 5e-07 ] [ range 33 .. 85 ]
+sequence
+-----LRVHLDRR-KGGKIVTIIRGYKGSISELKTLANSMKKKLSVGGSVKN-----DEILLPG------
+----------------------*
+>P1;gi|44374693|gb|EAI82186.1| unknown [environmental sequence] >gi|... [ score 53 E 1e-06 ] [ range 33 .. 100 ]
+sequence
+-------ISKQKKGKKGKTVTLIRGLGTEDESLKELLKKIKVFCGTGGTLID-----RNIQLQGDMVSKS
+IEFLRKEGF-------------*
+>P1;gi|41615056|ref|NP_963554.1| NEQ264 [Nanoarchaeum equitans Kin4-... [ score 53 E 1e-06 ] [ range 29 .. 98 ]
+sequence
+---KVVLDERKKKKRTPSKVTIIYGIP--EEEAEEVVKYLKKKIGTGGTYKN-----GAIELRGDVRKKI
+KPILIELGY----R--------*
+>P1;gi|17555952|ref|NP_499450.1| density-regulated protein (20.3 kD)... [ score 52 E 3e-06 ] [ range 103 .. 175 ]
+sequence
+KGGGPQKVTLQREPRGKKSVTVIKGLATFDIDLKVASKLFAQKFACGSSVTA-----DEIVIQGDVKDDL
+LDLIPEK---------------*
+>P1;gi|43990783|gb|EAG53008.1| unknown [environmental sequence] [ score 52 E 3e-06 ] [ range 33 .. 78 ]
+sequence
+-----VRVQRTRAGKKGKTVTQVTGLELGDDAAKALLKQLKGAVGSGGSGK-------------------
+----------------------*
+>P1;gi|31217763|ref|XP_316499.1| ENSANGP00000014056 [Anopheles gambi... [ score 51 E 8e-06 ] [ range 72 .. 145 ]
+sequence
+--DGLVHIRQQRNGR--KTLTTVQGLS-AEYDLKKIVRACKKEFACNGTVIE-----EVLQLQGDQRENI
+CQWLTKSG--------------*
+>P1;gi|43202796|gb|EAC66952.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 1 .. 60 ]
+sequence
+---------------KGKTITLIKGLGIKNEEIKVLLKKMKLFCGTGGTLIG-----EDIQLQGDMVNKL
+IEFLRDEGF-------------*
+>P1;gi|8571434|gb|AAF76883.1| SUL1 [Neospora caninum] [ score 50 E 1e-05 ] [ range 37 .. 100 ]
+sequence
+----------QRNGR--KAVTTVQGLD-KALDLKKMVRALKKELNCNGTVIE-----DVIQLQGDQRHAV
+KEFLERE---------------*
+>P1;gi|39584755|emb|CAE67650.1| Hypothetical protein CBG13210 [Caeno... [ score 50 E 1e-05 ] [ range 99 .. 171 ]
+sequence
+KKSGPKKVTLQREPRGKKSVTVIKGLATFDIELKVASKLFAQKFACGSSVTA-----DEIVIQGDVKDDL
+LDFIPEK---------------*
+>P1;gi|32417386|ref|XP_329171.1| hypothetical protein [Neurospora cr... [ score 49 E 2e-05 ] [ range 84 .. 153 ]
+sequence
+-----IRIQ-QRNGR--KTLTTVQGIP-KKFDAKKILKVVKKEFACNGTIKM-----GVIQLQGDQRAKI
+KDFLTNK---------------*
+>P1;gi|19112655|ref|NP_595863.1| protein translation factor sui1. [S... [ score 49 E 3e-05 ] [ range 29 .. 96 ]
+sequence
+-----IRIQ-QRNGR--KTLTTVQGLP-REFDQKRILRALKKDFACNGTVKD-----DVIQLQGDQRIKV
+MEFLTQQ---------------*
+>P1;gi|32394516|gb|AAM93956.1| protein translation factor [Griffiths... [ score 48 E 4e-05 ] [ range 29 .. 106 ]
+sequence
+---GIVHIRLQRNGR--KSLTTIQGLDEK-LDLAELTKAFKKEFCCNGCVVD-----NVVQLQGDQREKV
+KNFLAEEEI----ASKR-----*
+>P1;gi|31216194|ref|XP_316185.1| ENSANGP00000017070 [Anopheles gambi... [ score 48 E 5e-05 ] [ range 148 .. 214 ]
+sequence
+-----ITLSRSARGKR-KSVTVVTGLATFDIDLKLAAKFFGTKFACGSSVTD-----DEIVIQGDVKDEL
+FDIIPEK---------------*
+>P1;gi|33860725|ref|NP_892286.1| Translation initiation factor SUI1 ... [ score 48 E 5e-05 ] [ range 33 .. 100 ]
+sequence
+-------ISKQKKGKKGKTITLIKGLSGNEIEVKELLKKMKVFCGTGGTLIG-----EDIQLQGDMVIKS
+IEFLRKEGF-------------*
+>P1;gi|45187478|ref|NP_983701.1| ADL395Cp [Eremothecium gossypii] >g... [ score 48 E 7e-05 ] [ range 28 .. 95 ]
+sequence
+-----IRIQ-QRNGR--KTLTTVQGIP-EEYDLKRILKVLRKDFGCNGNVKD-----DEIQLQGDQRAKV
+CEFLITQ---------------*
+>P1;gi|43537996|gb|EAE23686.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 1 .. 45 ]
+sequence
+-------------------------------DIGKLAKLLKSACASGGTVKG-----RTIELQGEHKKRV
+AKVLEQNGY----QV-------*
+>P1;gi|23509111|ref|NP_701779.1| Translation initiation factor SUI1,... [ score 47 E 1e-04 ] [ range 39 .. 103 ]
+sequence
+----------QRNGR--KSVTTVQGL-GKTFDLKKMVRALKKEFNCNGTIIE-----DIIQLQGDKRNNV
+KEFLIREG--------------*
+>P1;gi|13775494|gb|AAK39303.1| Hypothetical protein T27F7.3b [Caenor... [ score 46 E 2e-04 ] [ range 29 .. 97 ]
+sequence
+-----IRIQ-QRTGR--KTITTVQGI-GTEYDLKRIVQYLKKKHSCNGTIVE-----HVIQLTGDQRDKV
+KDFLIKVG--------------*
+>P1;gi|37886145|gb|AAR04678.1| Sui1 [Bombyx mori] [ score 46 E 2e-04 ] [ range 25 .. 98 ]
+sequence
+--DGLVHVRQQRNGR--KTLTTVQGLS-SEYDLKKIVRACKKEFACNGTVVE-----EVLQLQGDQRENI
+CQWLTKSG--------------*
+>P1;gi|23485622|gb|EAA20499.1| translation initiation factor SUI1 [P... [ score 46 E 2e-04 ] [ range 39 .. 103 ]
+sequence
+----------QRNGR--KSVTTVQGL-GKSYDLKKMVRALKKEFNCNGTIIE-----DIIQLQGDKRSNV
+KDFLIREG--------------*
+>P1;gi|44229410|gb|EAH82683.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 1 .. 63 ]
+sequence
+------------KGKKGKTITLIRGLGTEDEILLKELLKKIKFCGTGGTLID-----RNIQLQGDMVSKS
+IEFLRKEGF-------------*
+>P1;gi|39546233|emb|CAE04242.3| OSJNBa0089N06.3 [Oryza sativa (japon... [ score 45 E 3e-04 ] [ range 495 .. 569 ]
+sequence
+-GDYVVRVQ-QRNGR--KTLTTVQGIGGEYNYAKVL-RDLKRELCCNGNVVE-----DIIQLQGDHRNSV
+SDFLAKAGM-------------*
+>P1;gi|21357193|ref|NP_647792.1| CG17737-PA [Drosophila melanogaster... [ score 44 E 7e-04 ] [ range 25 .. 98 ]
+sequence
+--DGLVHIRQQRNGR--KTLTTVQGLS-AEYDLKKIVRSCKKEFACNGTVIE-----HVLQLQGDQRENI
+CQWLTKVG--------------*
+>P1;gi|45199160|ref|NP_986189.1| AFR642Cp [Eremothecium gossypii] >g... [ score 44 E 8e-04 ] [ range 28 .. 95 ]
+sequence
+-----IRIQ-QRNGR--KTLTTVQGI-TKKYDLKRILKVLRKDFGCNGNVKD-----DEIQLQGDQRAKV
+CEFLITQ---------------*
+>P1;gi|6324085|ref|NP_014155.1| translation initiation factor eIF1; ... [ score 44 E 0.001 ] [ range 28 .. 95 ]
+sequence
+-----IRIQ-QRNGR--KTLTTVQGVP-EEYDLKRILKVLKKDFACNGNVKD-----PEIQLQGDQRAKV
+CEFMISQ---------------*

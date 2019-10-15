@@ -1,0 +1,1758 @@
+>P1;1ecma
+structureX:1ecm:   5 :A: 100 :B:chorismate mutase:Escherichia col: 2.2:19.2
+---------NPLLALREKISALDEKLLALLAERRELAVEVGKAKLL---SHRPVRDIDRERDLLERLITL
+GKAH-------------------------------------HLDAHYITRLFQLIIEDSVLTQQALLQQH
+PLLALREKISALDEKLLALLAERRELAVEVGKAKLLSHR-----------------PVRDIDRERDLLER
+LITLGKAH-----HLDAHYITRLFQ-LIIEDSVLTQQALLQQHLNKIN*
+>P1;5csma
+structureX:5csm:   1 :A: 256 :A:chorismate mutase :Saccharomyces cerevisiae: 2.0: 18.6
+MDFTKPETVLNLQNIRDELVRMEDSIIFKFIERSHFATCPSVYEANHPGLEIPNFKGSFLDWALSNLEIA
+HSRIRRFESPDETPFFPDKIQKSFLPSINYPQILAPYAPEVNYNDKIKKVYIEKIIPLISKRD------G
+DDKNNFGSVATRDIECLQSLSRRIHFGKFVAEAKFQSDIPLYTKLIKSKDVEGIMKNITNSAVEEKILER
+LTKKAEVYGVDPTRISPEYLVKIYKEIVIPITKEVEVEYLLRRLEE--*
+>P1;gi|15803121|ref|NP_289152.1| chorismate mutase-P and prephenate ... [ score 165 E 5e-40 ] [ range 1 .. 100 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MTSEN
+PLLALREKISALDEKLLALLAERRELAVEVGKAKLLSHR-----------------PVRDIDRERDLLER
+LITLGKAH-----HLDAHYITRLFQ-LIIEDSVLTQQALLQQHLNKIN*
+>P1;gi|44313488|gb|EAI39006.1| unknown [environmental sequence] [ score 149 E 4e-35 ] [ range 179 .. 335 ] [ duplicate a ]
+sequence
+-----------------------------IAGRRDLIFDLSQTAL----------DLNYDGLMIESHIDP
+DNAW-------------------------------------SDAAQQVTKKLVEIMKDLVIRDKTSLKQN
+ELNNLRSQIDITDQNLLTTLGKRMEVAKNIGILKSDNNV-----------------AILQNKRWNEILGK
+MILDGEAH-----GLSEQFILRIFK-AIHQESINNQKKILKK------*
+>P1;gi|266771|sp|Q02286|PHEA_ERWHE P-protein [Includes: Chorismate m... [ score 147 E 1e-34 ] [ range 1 .. 97 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MNPDN
+PLLALRDKISAVDKKLLTLLAERRLLAVEVAQAKLATHR-----------------PIRDVERERALLEN
+LIVLGKAH-----NLDAHYITRLFQ-LVIEDSVLTQQALLQKNLN---*
+>P1;gi|44020841|gb|EAG69269.1| unknown [environmental sequence] [ score 144 E 1e-33 ] [ range 5 .. 99 ] [ duplicate b ]
+sequence
+---------NPLLALRDKISTLDEKLLALLAERRGLAVEVGKAKLL---SHRPVRDIDRERDLLDRLIQL
+GKAH-------------------------------------HLDAHYITRLFQLIIEDSVLTQQALLQQH
+-LNKI-----------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|16765982|ref|NP_461597.1| chorismate mutase P/prephenate dehy... [ score 137 E 1e-31 ] [ range 5 .. 95 ] [ duplicate b ]
+sequence
+---------NPLLALRDKISALDEELLALLAKRRALAIEVGQAKLL---SHRPVRDIDRERALLDRLIHL
+GKAH-------------------------------------HLDAHYITRLFQLIIEDSVLTQQALLQQH
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44558252|gb|EAK09336.1| unknown [environmental sequence] [ score 136 E 3e-31 ] [ range 1 .. 96 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSDN
+ALDTVRERITALDSELLTLLSERRKLTNEVAETKIKHHI-----------------PVRDQKREEQLLVR
+LIKEGQNI-----GLDPHYVTQIFH-VIIEDSVLNQQAMLAERAN---*
+>P1;gi|44125974|gb|EAH26638.1| unknown [environmental sequence] [ score 135 E 4e-31 ] [ range 5 .. 99 ] [ duplicate b ]
+sequence
+---------NPLLALRDKISALDEKLLALLAERRGLAVEVGKAKLA---SHRPVRDIDRERDLLERLITL
+GKSH-------------------------------------HLDAHYITRLFQLIIEDSVLTQQTLLQQH
+-LNKI-----------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15640724|ref|NP_230354.1| chorismate mutase/prephenate dehydr... [ score 133 E 2e-30 ] [ range 4 .. 99 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------------------------KQY
+SLDDIRLRLNELDDQLLNLLSERRKMSIEVAKSKVETAK-----------------PVRDPAREQQLLVK
+LINAGKKY-----QLDPQYITKIFH-TIIEDSVLLQQSYLQNLAN---*
+>P1;gi|15640724|ref|NP_230354.1| chorismate mutase/prephenate dehydr... [ score 133 E 2e-30 ] [ range 8 .. 95 ] [ duplicate b ]
+sequence
+-----------LDDIRLRLNELDDQLLNLLSERRKMSIEVAKSKVE---TAKPVRDPAREQQLLVKLINA
+GKKY-------------------------------------QLDPQYITKIFHTIIEDSVLLQQSYLQ--
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44241080|gb|EAH89081.1| unknown [environmental sequence] [ score 132 E 4e-30 ] [ range 1 .. 97 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MQKPQ
+PLNHTREQITQLDNELLSLLAERRRLSLEVARSKEVDVR-----------------PIRDTQREKELLAR
+LVTAGREK-----GLDAHYVISLYQ-SIIEDSVLNQQAYLHGRAN---*
+>P1;gi|44241080|gb|EAH89081.1| unknown [environmental sequence] [ score 132 E 4e-30 ] [ range 6 .. 92 ] [ duplicate b ]
+sequence
+----------PLNHTREQITQLDNELLSLLAERRRLSLEVARSKEV---DVRPIRDTQREKELLARLVTA
+GREK-------------------------------------GLDAHYVISLYQSIIEDSVLNQQAYL---
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44323506|gb|EAI45981.1| unknown [environmental sequence] [ score 130 E 1e-29 ] [ range 191 .. 344 ] [ duplicate a ]
+sequence
+-----------------------------IAGRRDLIFDLSQSAL----------DLNFDGLMIETHCDP
+DNAW-------------------------------------SDAAQQVTKKLIEIMKDLTIREKTSEGEN
+KLNNLRSQIDVTDQNLLSTLGKRMEVAKEIGQLKSDNNV-----------------AILQNKRWNEILGK
+MILDGEEQ-----GLSEEFILRVFK-AIHQESINNQKKY---------*
+>P1;gi|44323506|gb|EAI45981.1| unknown [environmental sequence] [ score 130 E 1e-29 ] [ range 258 .. 344 ] [ duplicate b ]
+sequence
+---------NKLNNLRSQIDVTDQNLLSTLGKRMEVAKEIGQLKSD---NNVAILQNKRWNEILGKMILD
+GEEQ-------------------------------------GLSEEFILRVFKAIHQESINNQKKY----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|37525232|ref|NP_928576.1| P-protein [includes: chorismate mut... [ score 129 E 3e-29 ] [ range 1 .. 97 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MDQN
+NLLKIREKVSELDLKLLILLAERRQLAFDIAQTKLQDNR-----------------PIRDKDRERELLDV
+LIKKGKSY-----GLDGFYISRLFQ-MIIEDSVLTQQALLQQHLNQ--*
+>P1;gi|37525232|ref|NP_928576.1| P-protein [includes: chorismate mut... [ score 129 E 3e-29 ] [ range 4 .. 94 ] [ duplicate b ]
+sequence
+---------NNLLKIREKVSELDLKLLILLAERRQLAFDIAQTKLQ---DNRPIRDKDRERELLDVLIKK
+GKSY-------------------------------------GLDGFYISRLFQMIIEDSVLTQQALLQQH
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44472099|gb|EAJ50905.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 1 .. 97 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MQKPQ
+PLNQTREQITHLDNELLSLLAERRRLSLEVARSKEVDVR-----------------PIRDTQREKELLAR
+LVTAGREK-----GLDAHYVISLYQ-SIIEDSVLNQQAYLHGRAN---*
+>P1;gi|44472099|gb|EAJ50905.1| unknown [environmental sequence] [ score 128 E 4e-29 ] [ range 6 .. 92 ] [ duplicate b ]
+sequence
+----------PLNQTREQITHLDNELLSLLAERRRLSLEVARSKEV---DVRPIRDTQREKELLARLVTA
+GREK-------------------------------------GLDAHYVISLYQSIIEDSVLNQQAYL---
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15602015|ref|NP_245087.1| PheA [Pasteurella multocida] >gi|12... [ score 128 E 8e-29 ] [ range 4 .. 102 ] [ duplicate b ]
+sequence
+----------DLSEIRQQITQLDRNLLKLLSERHRLAFDVARSKEI---TQKPLRDLEREQQLLQELIQF
+AQNY-------------------------------------QLEAQYITDIFQRIIEDSVATQQVYLQKK
+-LNAQREQ--------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21672653|ref|NP_660720.1| P-protein [Buchnera aphidicola str.... [ score 127 E 2e-28 ] [ range 1 .. 100 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MPSKN
+DLLSFRSEINNIDKNIVQLLAKRKKLVLNIAESKIKNNQ-----------------PIRDIEREKILLEK
+LTNLGKKN-----NLNTNYITRLFQ-LIIEESVLTQKKLLNKFCNDNN*
+>P1;gi|45440256|ref|NP_991795.1| Prephenate dehydratase [Yersinia pe... [ score 126 E 2e-28 ] [ range 1 .. 97 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MTDN
+PLLVLRERISALDLKLLALLAERRELAVDVAKAKQLHHR-----------------PIRDKERERDLLDA
+LIDAAKPY-----NLDGFYVTRLFQ-LIIEDSVLTQQALLQHQLNQ--*
+>P1;gi|43852630|gb|EAF80516.1| unknown [environmental sequence] [ score 125 E 3e-28 ] [ range 94 .. 247 ] [ duplicate a ]
+sequence
+-----------------------------IAGRRDLIFDLSQTSL----------DLNYDGLMIESHWDP
+DNAW-------------------------------------SDAAQQVTERLIEIMKDLKIRDKTEDYQN
+KLNNLRSQIDAADQNLLTTLGKRMEVAKGIGKLKSENNV-----------------AILQNKRWNEILGK
+MILDGEDH-----GLSEEFILRIFK-AIHQESINNQKKY---------*
+>P1;gi|43852630|gb|EAF80516.1| unknown [environmental sequence] [ score 125 E 3e-28 ] [ range 161 .. 247 ] [ duplicate b ]
+sequence
+---------NKLNNLRSQIDAADQNLLTTLGKRMEVAKGIGKLKSE---NNVAILQNKRWNEILGKMILD
+GEDH-------------------------------------GLSEEFILRIFKAIHQESINNQKKY----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23466536|ref|ZP_00122124.1| COG0077: Prephenate dehydratase [... [ score 122 E 4e-27 ] [ range 4 .. 102 ] [ duplicate b ]
+sequence
+----------DLSEIRQQITQIDRSLLKLLSERHRLAFDVVRSKEI---SQKALRDVEREQQLLKELVQF
+AENY-------------------------------------QLEPQYITQIFQKIIEDSVLTQQVYLQKK
+-LNEQREK--------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|16273071|ref|NP_439303.1| chorismate mutase/prephenate dehydr... [ score 120 E 1e-26 ] [ range 4 .. 98 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELSDIRQQITQIDRSLLKLLSERHRLAFDVVRSKEISQK-----------------SLRDVEREQQLLQE
+LVQFAENY-----QLEAQYITSIFQ-KIIEDSVLTQQVYLQNKLNE--*
+>P1;gi|44635207|gb|EAK63915.1| unknown [environmental sequence] [ score 116 E 3e-25 ] [ range 1 .. 96 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MTND
+VLNTLRHDINEIDSDLLVLLAKRRRISHGVVEYKIANNK-----------------PIRDEARELALLEK
+LIGYGKSL-----GLDAYYVNNVFQ-TILEDSVLHQQAMLQKNLN---*
+>P1;gi|44264742|gb|EAI06242.1| unknown [environmental sequence] [ score 114 E 1e-24 ] [ range 164 .. 319 ] [ duplicate a ]
+sequence
+-----------------------------ICGRRDLIHDVSQKAL----------DLNFDGLMIESHIDP
+DNAW-------------------------------------SDAAQQITELIQL-MKELKLRKQSVNQEK
+NLEKLRTKIDSADNDILNILGKRMKISDDIGKLKKKENV-----------------AILQSKRWNEILGK
+MILEGKER-----GLSEEFVLKIFK-AIHQESINHQEKILK-------*
+>P1;gi|42869687|gb|EAB02094.1| unknown [environmental sequence] [ score 110 E 2e-23 ] [ range 120 .. 274 ] [ duplicate a ]
+sequence
+-----------------------------IAGRRDLIFNLSQRAL----------DLNYDGLMIETHCDP
+DNAW-------------------------------------SDAAQQVTSSLVDIMKDLKIREMTIDKQN
+QLDGYRQKIDNSDQLLLEILGKRMDVAEKIGLLKKSNNV-----------------AVLQNKRWNEILGK
+MIIDGESH-----GLSEEFILKIFK-AIHQESINHQQNIL--------*
+>P1;gi|27904843|ref|NP_777969.1| P-protein [Buchnera aphidicola (Bai... [ score 109 E 4e-23 ] [ range 5 .. 108 ] [ duplicate a ]
+sequence
+---------NALLAFRNAINILDKNLINLLAKRKQLSLNIAHTKVK---NNYPVRDIEREQMLLKNLTIL
+GEKH-------------------------------------FLNKKYIESLFSIILEDSVLTQKKWIKKY
+NLNKYKEKISFL----------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44647649|gb|EAK72645.1| unknown [environmental sequence] [ score 107 E 2e-22 ] [ range 107 .. 264 ] [ duplicate a ]
+sequence
+-----------------------------ISGRRDLIFDISQTAL----------DLNFDGLMIESHWDP
+DNAW-------------------------------------SDAKQQVTSRLIEIMRDLKVRNKTTEEKH
+KLGSLRAQIDVADQTLLDALGKRMKIAKEIGLLKKDNNV-----------------AVLQNKRWNEILGK
+MILDGQER-----ELSEEFILRVFK-AIHQESINKQDKILNKN-----*
+>P1;gi|43190322|gb|EAC60666.1| unknown [environmental sequence] [ score 103 E 2e-21 ] [ range 96 .. 255 ] [ duplicate b ]
+sequence
+-----------------QIDIINDP--SHIAGNRDLLPYVCQKAI----------DLNMEGLMIEAHISP
+SVAW-------------------------------------SDAAQQVSSGLTELLDSLTFRQESVADAN
+QLDSLRKEIDELDDDIFQKIASRMNVADQIGKYKRDNSV-----------------TILQVDRWEEIVNK
+RISLGVAM-----GLDDNFVKNYLK-LIHKESIRRQ------------*
+>P1;gi|27468328|ref|NP_764965.1| phospho-2-dehydro-3-deoxyheptonate ... [ score 103 E 2e-21 ] [ range 3 .. 92 ] [ duplicate a ]
+sequence
+---------NKLEQYREEIVSLNDQILELLSKRGELAQKIGEEKIK---QGTRVYDPQREKEMINQLLDK
+NKGP-------------------------------------FND-NVIKQLFKEIFKASTDLQKSENEKH
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43517266|gb|EAE13351.1| unknown [environmental sequence] [ score 102 E 6e-21 ] [ range 6 .. 140 ] [ duplicate a ]
+sequence
+-------------------------------------------------------------LMIETHCDP
+DNAW-------------------------------------SDAAQQVTKRLIEIMKDLTIREKTSEGEN
+KLNNLRSQIDVADQNLLSTLGKRMEVAKEIGQLKSDNNV-----------------AILQNKRWNEILGK
+MILDGEEH-----GLSEEFILRVFK-AIHQESINNQKKILNK------*
+>P1;gi|15924727|ref|NP_372261.1| chorismate mutase homolog [Staphylo... [ score 101 E 7e-21 ] [ range 3 .. 92 ] [ duplicate a ]
+sequence
+---------NKLESYRSEIVSLNHQILDLLSKRGELAQKIGEEKLK---QGTRIYDPQREKEMLNDLIDS
+NKGP-------------------------------------FND-NTIKQLFKEIFKASTDLQKSENEKH
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44401838|gb|EAJ01625.1| unknown [environmental sequence] [ score 100 E 2e-20 ] [ range 4 .. 83 ] [ duplicate b ]
+sequence
+-----------LDEIRQDITQLDQELLALLAKRKTLSIEVARAKQA---NPRPIRDPQREQDLLVALIQK
+GRVL-------------------------------------GLDAQYITRIYHTIIEDSVL---------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23135822|ref|ZP_00117556.1| COG2876: 3-deoxy-D-arabino-heptul... [ score 99 E 6e-20 ] [ range 207 .. 362 ] [ duplicate a ]
+sequence
+-----------------------------IGGKRDLIFEISQKAM----------DLGFDGLMIETHIDP
+DKAW-------------------------------------SDADQQVTERLGEILTDLKIRTQSTTNND
+HLEELREKIDNIDRELVETLATRMAVVEKIGEYKRDNNV-----------------TTLQVKRWDDIMKN
+RSELAKKL-----GINEEFVVDVFK-LVHEESIRRQTEIMK-------*
+>P1;gi|43678772|gb|EAE94476.1| unknown [environmental sequence] [ score 95 E 6e-19 ] [ range 19 .. 175 ] [ duplicate a ]
+sequence
+-----------------------------ICGRRDLIFDISQRAL----------DLNFDGLMVESHNDP
+DNAW-------------------------------------SDAKQQITETLIQFMKDWKIRELTTTEQN
+DLKNLRAKIDVIDQSLLDLLRDRMQVAEDIGELKKSKNV-----------------AVLQNKRWNEILGK
+MILDGQER-----KLSEEFILRIFK-AIHQESINHQQNIYKN------*
+>P1;gi|43678772|gb|EAE94476.1| unknown [environmental sequence] [ score 95 E 6e-19 ] [ range 86 .. 170 ] [ duplicate b ]
+sequence
+---------NDLKNLRAKIDVIDQSLLDLLRDRMQVAEDIGELKKS---KNVAVLQNKRWNEILGKMILD
+GQER-------------------------------------KLSEEFILRIFKAIHQESINHQQ------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15897245|ref|NP_341850.1| Chorismate mutase/prephenate dehydr... [ score 92 E 9e-18 ] [ range 4 .. 86 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+EITRLREEIDKVDEQLVKLLSYRLELSRKIGKAKSNSNI-----------------SVTDENREMKVREK
+WIANAKKY-----NIPNSLVESILP-LIFSYSKLVQ------------*
+>P1;gi|15897245|ref|NP_341850.1| Chorismate mutase/prephenate dehydr... [ score 92 E 9e-18 ] [ range 8 .. 86 ] [ duplicate b ]
+sequence
+--------------LREEIDKVDEQLVKLLSYRLELSRKIGKAKSN---SNISVTDENREMKVREKWIAN
+AKKY-------------------------------------NIPNSLVESILPLIFSYSKLVQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43032200|gb|EAB82741.1| unknown [environmental sequence] [ score 85 E 6e-16 ] [ range 1 .. 85 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MNKK
+EIEDLRSKINNIDDDILSLLSERSKIVLEIGKQKKDN-------------------PVIDIDREQKILNR
+LTNKFKGS-----Y-PIDTIVRIWR-EIFQSSEKIQK-----------*
+>P1;gi|43032200|gb|EAB82741.1| unknown [environmental sequence] [ score 85 E 6e-16 ] [ range 5 .. 89 ] [ duplicate b ]
+sequence
+----------EIEDLRSKINNIDDDILSLLSERSKIVLEIGKQKKD---N--PVIDIDREQKILNRLTNK
+FKGS-------------------------------------Y-PIDTIVRIWREIFQSSEKIQKLNNE--
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44282230|gb|EAI18070.1| unknown [environmental sequence] [ score 85 E 6e-16 ] [ range 5 .. 103 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------KTSQGEDYQN
+KLNNLRSQIDAADQNLLTTLGKRMEVVKGIGKLKSENNV-----------------AILQNKRWNEILGK
+MILDGEDH-----GLSEEFILRIFK-AIHQESINNQKKILNK------*
+>P1;gi|23120104|ref|ZP_00102908.1| COG0077: Prephenate dehydratase [... [ score 84 E 2e-15 ] [ range 1 .. 46 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------MLER
+LMTLGKKH-----HLDAHYITRLFQ-LIIEDSVLTQQTLLQQHLNKIN*
+>P1;gi|23120104|ref|ZP_00102908.1| COG0077: Prephenate dehydratase [... [ score 84 E 2e-15 ] [ range 1 .. 45 ] [ duplicate b ]
+sequence
+--------------------------------------------------------------MLERLMTL
+GKKH-------------------------------------HLDAHYITRLFQLIIEDSVLTQQTLLQQH
+-LNKI-----------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44514761|gb|EAJ79417.1| unknown [environmental sequence] [ score 83 E 3e-15 ] [ range 1 .. 87 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MDNK
+KLDVLRNNINALDDKILDLLRERAEIVTEIGKEK-KPKS-----------------SVVDYDREQKVLDR
+ILQHTKAK-----Y-SKDSIVRIWR-EIFQASTKLQEK----------*
+>P1;gi|44514761|gb|EAJ79417.1| unknown [environmental sequence] [ score 83 E 3e-15 ] [ range 5 .. 87 ] [ duplicate b ]
+sequence
+----------KLDVLRNNINALDDKILDLLRERAEIVTEIGKEK-K---PKSSVVDYDREQKVLDRILQH
+TKAK-------------------------------------Y-SKDSIVRIWREIFQASTKLQEK-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|29349342|ref|NP_812845.1| putative phospho-2-dehydro-3-deoxyh... [ score 82 E 7e-15 ] [ range 217 .. 353 ] [ duplicate a ]
+sequence
+-------------------------------------------------------DLNFDGLIVESHCNP
+DCAW-------------------------------------SDASQQVTDVLDYILNLLVIRTETQTTE-
+SLSQLRKQIDECDDNIIQELAKRMRVAREIGTYKKEHGI-----------------TVLQAGRYNEILEK
+RGAQGEQC-----GMSADFMKLIFE-AIHEESVRQQIEIINK------*
+>P1;gi|42963180|gb|EAB48545.1| unknown [environmental sequence] [ score 81 E 1e-14 ] [ range 18 .. 114 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------KLTNITYLPKK
+SLSELRAQIDSLDEEILSLLSKRFGLVKKIGQRKKVEKK-----------------EIFDPTREKNILEN
+LSKKAQIK-----NISSQFVEELFK-FILKHSRLLQK-----------*
+>P1;gi|42963180|gb|EAB48545.1| unknown [environmental sequence] [ score 81 E 1e-14 ] [ range 32 .. 114 ] [ duplicate b ]
+sequence
+-----------LSELRAQIDSLDEEILSLLSKRFGLVKKIGQRKKV---EKKEIFDPTREKNILENLSKK
+AQIK-------------------------------------NISSQFVEELFKFILKHSRLLQK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|32034455|ref|ZP_00134637.1| COG0287: Prephenate dehydrogenase... [ score 80 E 2e-14 ] [ range 2 .. 81 ] [ duplicate a ]
+sequence
+---------NPLNPLREQIDQVDQQLIRLFAERLKLVAEVGKVKSE---HGIPVYAPERETAMIAARRQE
+AEKQ-------------------------------------GVPADLIEDVLRRVMRES-----------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|37525230|ref|NP_928574.1| T-protein [includes: chorismate mut... [ score 80 E 2e-14 ] [ range 4 .. 82 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELSQLRDKIDEVDKALLGLLAKRLELVAEIGEVKSQNGL-----------------SIYAPDREMAMLAS
+RRQEAEEF-----GVPPDLIEDILR-RIMRES----------------*
+>P1;gi|44652020|gb|EAK75073.1| unknown [environmental sequence] [ score 80 E 3e-14 ] [ range 4 .. 93 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELNALRDKIDAVDKQLIDLLAARLALVGEVGEVKSRHGL-----------------PIYAPDREASMLAR
+RRAEAEAL-----GVPGDLIEDVLR-RVMRESYILESASDKEH-----*
+>P1;gi|34540653|ref|NP_905132.1| phospho-2-dehydro-3-deoxyheptonate ... [ score 80 E 3e-14 ] [ range 224 .. 352 ] [ duplicate a ]
+sequence
+-----------------------------------------------------------DGLIIESHCCP
+DKAL-------------------------------------SDASQQITPLAQILRRLRIPRRQSEKQDE
+ELISWRMQIDQIDESIVELLARRMQVAYEIGLFKKEHNL-----------------AVVQNLREQLQRNR
+ARTAA-LL-----GLDETFISELFS-RIHEESVRLQ------------*
+>P1;gi|34540653|ref|NP_905132.1| phospho-2-dehydro-3-deoxyheptonate ... [ score 80 E 3e-14 ] [ range 270 .. 352 ] [ duplicate b ]
+sequence
+----------ELISWRMQIDQIDESIVELLARRMQVAYEIGLFKKE---HNLAVVQLRYEQLQRNRARTA
+A-LL-------------------------------------GLDETFISELFSRIHEESVRLQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|28897321|ref|NP_796926.1| chorismate mutase/prephenate dehydr... [ score 79 E 4e-14 ] [ range 4 .. 87 ] [ duplicate a ]
+sequence
+----------ELNALRDQIDAVDKQMLELLAQRLELVEKVGEVKSE---HGLPIYAPDREAAMLASRRAE
+AEKM-------------------------------------GVPPQLIEDILRRTMRESYASEK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|28897321|ref|NP_796926.1| chorismate mutase/prephenate dehydr... [ score 79 E 4e-14 ] [ range 4 .. 87 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELNALRDQIDAVDKQMLELLAQRLELVEKVGEVKSEHGL-----------------PIYAPDREAAMLAS
+RRAEAEKM-----GVPPQLIEDILR-RTMRESYASEK-----------*
+>P1;gi|27363958|ref|NP_759486.1| Prephenate dehydrogenase [Vibrio vu... [ score 77 E 1e-13 ] [ range 4 .. 87 ] [ duplicate a ]
+sequence
+----------ELNALREQIDAVDKQMLELLAQRLALVEQVGHVKSQ---HGLPIYAPDREAAMLASRRAE
+AEKI-------------------------------------GVPPQLIEDILRRTMRESYASEK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|27363958|ref|NP_759486.1| Prephenate dehydrogenase [Vibrio vu... [ score 77 E 1e-13 ] [ range 4 .. 87 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELNALREQIDAVDKQMLELLAQRLALVEQVGHVKSQHGL-----------------PIYAPDREAAMLAS
+RRAEAEKI-----GVPPQLIEDILR-RTMRESYASEK-----------*
+>P1;gi|44349777|gb|EAI64569.1| unknown [environmental sequence] [ score 76 E 4e-13 ] [ range 3 .. 87 ] [ duplicate a ]
+sequence
+----------ALLPLRQQIDQLDSQLVELLAKRAAVTAEVGRVKQQ---YALPLYVPEREQALIKARRQQ
+AETA-------------------------------------GVSADLIEDVLRRVMRESYQTQEA-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15922601|ref|NP_378270.1| 341aa long conserved hypothetical p... [ score 76 E 4e-13 ] [ range 4 .. 86 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+EIDELRKEIEAIDKQILELLSRRLKISAKIGEIKSRIGK-----------------DVTDEKREQKVREY
+WYNYARNL-----GIPDSMVESILP-ILFSYSKMVQ------------*
+>P1;gi|15922601|ref|NP_378270.1| 341aa long conserved hypothetical p... [ score 76 E 4e-13 ] [ range 4 .. 86 ] [ duplicate b ]
+sequence
+----------EIDELRKEIEAIDKQILELLSRRLKISAKIGEIKSR---IGKDVTDEKREQKVREYWYNY
+ARNL-------------------------------------GIPDSMVESILPILFSYSKMVQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15640715|ref|NP_230345.1| chorismate mutase/prephenate dehydr... [ score 75 E 6e-13 ] [ range 4 .. 87 ] [ duplicate a ]
+sequence
+----------ELNQLRDQIDEVDKQMVELLARRLALVEQVGQVKSR---YGLPIYAPDREAAMLASRRAE
+AESK-------------------------------------GVPPQLIEDILRRTMRESYASEK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15640715|ref|NP_230345.1| chorismate mutase/prephenate dehydr... [ score 75 E 6e-13 ] [ range 4 .. 87 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELNQLRDQIDEVDKQMVELLARRLALVEQVGQVKSRYGL-----------------PIYAPDREAAMLAS
+RRAEAESK-----GVPPQLIEDILR-RTMRESYASEK-----------*
+>P1;gi|267186|sp|Q02287|TYRA_ERWHE T-protein [Includes: Chorismate m... [ score 74 E 2e-12 ] [ range 4 .. 82 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELTALRDQIDSVDKALLDLLAKRLELVAEVGEVKSRYGL-----------------PIYVPEREASMLAS
+RRKEAEAL-----GVPPDLIEDVLR-RVMRES----------------*
+>P1;gi|24113939|ref|NP_708449.1| chorismate mutase-T and prephenate ... [ score 74 E 2e-12 ] [ range 4 .. 82 ] [ duplicate a ]
+sequence
+----------ELTALRDQIDEVDKALLNLLAKRLELVAEVGKVKSR---FGLPIYVPEREASMLASRRAE
+AEAL-------------------------------------GVPPDLIEDVLRRVMRES-----------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|24113939|ref|NP_708449.1| chorismate mutase-T and prephenate ... [ score 74 E 2e-12 ] [ range 4 .. 82 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELTALRDQIDEVDKALLNLLAKRLELVAEVGKVKSRFGL-----------------PIYVPEREASMLAS
+RRAEAEAL-----GVPPDLIEDVLR-RVMRES----------------*
+>P1;gi|22982258|ref|ZP_00027541.1| COG0077: Prephenate dehydratase [... [ score 73 E 3e-12 ] [ range 28 .. 110 ] [ duplicate b ]
+sequence
+-----------LKPLRERIDALDAQLIALLNQRAAVALEVGEVKKH---FNAPVFRPEREQQVIARLQDM
+SEGP--------------------------------------LASEHISAIWREIMAASRALEKT-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|39997702|ref|NP_953653.1| chorismate mutase/prephenate dehydr... [ score 73 E 3e-12 ] [ range 6 .. 86 ] [ duplicate b ]
+sequence
+----------NLDALRREIDAIDDAILDLLNRRAGLVMEVGQVKTV---EKRDFHVPNREREIYERLLAH
+NTGP-------------------------------------F-PAEAVKSVFREIISASLAL--------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|33519649|ref|NP_878481.1| chorismate mutase/prephenate dehydr... [ score 72 E 7e-12 ] [ range 5 .. 82 ] [ duplicate a ]
+sequence
+-----------LNFLRSEIDKIDQSLLNLLSKRLSLVSQVGEIKSQ---LGLFIYDPEREKMILSQRKQE
+ALKL-------------------------------------GISPNLVRDILRRIMRES-----------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|30021058|ref|NP_832689.1| Chorismate mutase [Bacillus cereus ... [ score 71 E 1e-11 ] [ range 1 .. 94 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MANH
+ELDQLRKQVDEINLQLLHLLNKRGEIVQKIGEQKQVQGT-----------------KRFDPVREREVLDM
+IAEHNEGP-----F-ETSTVQHIFK-TIFKASLELQEDDNRKAL----*
+>P1;gi|30021058|ref|NP_832689.1| Chorismate mutase [Bacillus cereus ... [ score 71 E 1e-11 ] [ range 5 .. 87 ] [ duplicate b ]
+sequence
+----------ELDQLRKQVDEINLQLLHLLNKRGEIVQKIGEQKQV---QGTKRFDPVREREVLDMIAEH
+NEGP-------------------------------------F-ETSTVQHIFKTIFKASLELQE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|16761522|ref|NP_457139.1| chorismate mutase/prephenate dehydr... [ score 71 E 1e-11 ] [ range 4 .. 82 ] [ duplicate a ]
+sequence
+----------ELTALRDQIDDVDKALLNLLAKRLELVAKVGEVKSR---FGLPIYVPEREASMLASRRAE
+AEAI-------------------------------------GVPPDLIEDVLRRVMRES-----------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|16761522|ref|NP_457139.1| chorismate mutase/prephenate dehydr... [ score 71 E 1e-11 ] [ range 4 .. 82 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELTALRDQIDDVDKALLNLLAKRLELVAKVGEVKSRFGL-----------------PIYVPEREASMLAS
+RRAEAEAI-----GVPPDLIEDVLR-RVMRES----------------*
+>P1;gi|43356670|gb|EAD43201.1| unknown [environmental sequence] [ score 71 E 2e-11 ] [ range 12 .. 150 ] [ duplicate a ]
+sequence
+-------------------------------------------------------DLNYDGLMIETHIDP
+DNAK-------------------------------------SDAKQQVTERLAEILNAVKIRDDVEFNSH
+-LTELRQKIDRTDKELIEILATRMQYVEQIGEYKRENNV-----------------TVFQADRWIDVFQS
+RPDLAQKL-----GLSREFAEQLFK-IVHDESIRQQTRIL--------*
+>P1;gi|43356670|gb|EAD43201.1| unknown [environmental sequence] [ score 71 E 2e-11 ] [ range 65 .. 154 ] [ duplicate b ]
+sequence
+-----------LTELRQKIDRTDKELIEILATRMQYVEQIGEYKRE---NNVTVFQADRWIDVFQSRPDL
+AQKL-------------------------------------GLSREFAEQLFKIVHDESIRQQTRILNSE
+P---------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|16123440|ref|NP_406753.1| T-protein [includes: chorismate mut... [ score 70 E 2e-11 ] [ range 4 .. 82 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELTALRDQIDEVDKALLDLLAKRLHLVAEVGEVKSRYGL-----------------PIYVPDREAAMLAS
+RRQEAGAL-----GVPPDLIEDVLR-RVMRES----------------*
+>P1;gi|44269315|gb|EAI09361.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 1 .. 87 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MDNK
+KLDVLRTNINLLDDKILDLLKERAEIVTEIGEQK-KSHI-----------------EVVDYEREQKVLDR
+ILQSTKAK-----Y-SKDSIVRIWR-EIFQASTKLQEK----------*
+>P1;gi|44269315|gb|EAI09361.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 5 .. 87 ] [ duplicate b ]
+sequence
+----------KLDVLRTNINLLDDKILDLLKERAEIVTEIGEQK-K---SHIEVVDYEREQKVLDRILQS
+TKAK-------------------------------------Y-SKDSIVRIWREIFQASTKLQEK-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|16800709|ref|NP_470977.1| 3-deoxy-D-arabino-heptulosonate 7-p... [ score 70 E 2e-11 ] [ range 5 .. 87 ] [ duplicate a ]
+sequence
+----------NLEELRTEVDQLNIDLLELISKRANLVQEIGKIKGT---QGSLRFDPLREREMLNTILAA
+NKGP-------------------------------------FEDS-TVQKLFKEIFKAGLELQE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15606269|ref|NP_213648.1| chorismate mutase/prephenate dehydr... [ score 70 E 2e-11 ] [ range 3 .. 91 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELKELRKEIDRIDEEILRLLNERAKLAKRIGEIKSKANL-----------------PIHVPEREREIFEK
+ILRLNKEV-----YFPQEALVHIYR-EIISACLSLEKKI---------*
+>P1;gi|15606269|ref|NP_213648.1| chorismate mutase/prephenate dehydr... [ score 70 E 2e-11 ] [ range 3 .. 90 ] [ duplicate b ]
+sequence
+----------ELKELRKEIDRIDEEILRLLNERAKLAKRIGEIKSK---ANLPIHVPEREREIFEKILRL
+NKEV-------------------------------------YFPQEALVHIYREIISACLSLEKK-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23473430|ref|ZP_00128726.1| COG0077: Prephenate dehydratase [... [ score 70 E 2e-11 ] [ range 14 .. 91 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----VREDIDAVDRELLALLNRRAELSLEVGRIKRDDPG-----------------VIFKPFRERDVLEK
+LRSLSAGP------LPEEHLRSIYR-EILSSSRSLQ------------*
+>P1;gi|23473430|ref|ZP_00128726.1| COG0077: Prephenate dehydratase [... [ score 70 E 2e-11 ] [ range 13 .. 91 ] [ duplicate b ]
+sequence
+-------------SVREDIDAVDRELLALLNRRAELSLEVGRIKRD---DPGVIFKPFRERDVLEKLRSL
+SAGP--------------------------------------LPEEHLRSIYREILSSSRSLQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15806024|ref|NP_294725.1| phospho-2-dehydro-3-deoxyheptonate ... [ score 70 E 3e-11 ] [ range 18 .. 110 ] [ duplicate b ]
+sequence
+------------DDLRAEVDQINRDLLALISRRGEVVAQIGHAKSA---EGRPNYDPAREEQQLKELEKI
+NPGP-------------------------------------F-PTATVKGIFKEIFRASLALEES-NDKK
+QLLVSR----------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15615804|ref|NP_244108.1| phospho-2-dehydro-3-deoxyheptonate ... [ score 69 E 4e-11 ] [ range 1 .. 94 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSNE
+QLDLLRDKLDEVNLKLLELINERAQLVQEIGQLKSKQGV-----------------NRFDPVRERNMLNH
+IAENNKGP-----F-ETSTLQHIFK-EIFKASLELQEDDNRKAL----*
+>P1;gi|15615804|ref|NP_244108.1| phospho-2-dehydro-3-deoxyheptonate ... [ score 69 E 4e-11 ] [ range 5 .. 106 ] [ duplicate b ]
+sequence
+----------QLDLLRDKLDEVNLKLLELINERAQLVQEIGQLKSK---QGVNRFDPVRERNMLNHIAEN
+NKGP-------------------------------------F-ETSTLQHIFKEIFKASLELQKALLKKH
+PENTI-----------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|16803640|ref|NP_465125.1| 3-deoxy-D-arabino-heptulosonate 7-p... [ score 69 E 4e-11 ] [ range 5 .. 87 ] [ duplicate a ]
+sequence
+----------NLEELRTQVDQLNIDLLELISKRANLVQEIGKIKGT---QGSLRFDPLREREMLNTILAA
+NEGP-------------------------------------FEDS-TVQKLFKEIFKAGLELQE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15791684|ref|NP_281507.1| chorismate mutase\prephenate dehydr... [ score 69 E 6e-11 ] [ range 3 .. 77 ] [ duplicate b ]
+sequence
+----------NLEEFRNKIDAVDDKILDLLNERMTYVKSIGELKQS---SGGSIYRPERERAIINRLKNA
+NLGL--------------------------------------LDQNAIEAIYQEIF--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|16760625|ref|NP_456242.1| putative chorismate mutase [Salmone... [ score 68 E 7e-11 ] [ range 31 .. 139 ] [ duplicate a ]
+sequence
+-------------------------LLTALNERMLLMKDVAAYKMK---HHLPIEDFTREQNVFAEAEEE
+AKNN-------------------------------------GLDPHSITPFIRSLMDASKAIQYRYLAQQ
+TLSVTRQRIRQLDNQMLIIISQR-----------------------------------------------
+------------------------------------------------*
+>P1;gi|16760625|ref|NP_456242.1| putative chorismate mutase [Salmone... [ score 68 E 7e-11 ] [ range 31 .. 104 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------LLTALNERMLLMKDVAAYKMKHHL-----------------PIEDFTREQNVFAE
+AEEEAKNN-----GLDPHSITPFIR-SLMDASKAIQYRYLAQ------*
+>P1;gi|23053859|ref|ZP_00080038.1| COG0077: Prephenate dehydratase [... [ score 68 E 7e-11 ] [ range 17 .. 96 ] [ duplicate b ]
+sequence
+-----------LQELRRDIDAIDDQILDLLNSRSRLAIEVGKVKAG---ENRDFHVPSREREIYERL-AA
+GNSG-------------------------------------PFPNEAVRSVFREIISASLAL--------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44590863|gb|EAK32272.1| unknown [environmental sequence] [ score 68 E 7e-11 ] [ range 9 .. 91 ] [ duplicate b ]
+sequence
+-----------LKPLRDRIDAIDAQLIALLNQRAAVALEVGEVKKH---FNAPVFRPERELQVIARLQDM
+SAGP--------------------------------------LESEHISAIWREIMAASRALEQT-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44241075|gb|EAH89076.1| unknown [environmental sequence] [ score 68 E 8e-11 ] [ range 8 .. 91 ] [ duplicate a ]
+sequence
+----------ELEHLRGLIDGVDQQLLHLLRKRLDLVAQVGTVKHA---AGLPIYAPQREAAMLAKRREE
+AKTM-------------------------------------GIAPQLIEDILRRLMRESYLNEK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44241075|gb|EAH89076.1| unknown [environmental sequence] [ score 68 E 8e-11 ] [ range 8 .. 91 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELEHLRGLIDGVDQQLLHLLRKRLDLVAQVGTVKHAAGL-----------------PIYAPQREAAMLAK
+RREEAKTM-----GIAPQLIEDILR-RLMRESYLNEK-----------*
+>P1;gi|15598362|ref|NP_251856.1| chorismate mutase [Pseudomonas aeru... [ score 68 E 9e-11 ] [ range 1 .. 93 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MADQD
+QLKALRLRIDSLDEKLLELISERARCAQDVARVKTQTEA-----------------PVYRPEREAWVLKH
+IMQLNKGP------LDNEEVARLFR-EIMSSCLALEQ-----------*
+>P1;gi|15598362|ref|NP_251856.1| chorismate mutase [Pseudomonas aeru... [ score 68 E 9e-11 ] [ range 6 .. 93 ] [ duplicate b ]
+sequence
+----------QLKALRLRIDSLDEKLLELISERARCAQDVARVKTQ---TEAPVYRPEREAWVLKHIMQL
+NKGP--------------------------------------LDNEEVARLFREIMSSCLALEQ------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|32030585|ref|ZP_00133404.1| COG1605: Chorismate mutase [Haemo... [ score 67 E 1e-10 ] [ range 4 .. 88 ] [ duplicate b ]
+sequence
+-----------LKNLRTEIDCLDRELLHLFSQRLELVRKVGKVKHQ---YGLPIYVPERENEMLQARRNE
+AEKL-------------------------------------GVSPDLIEDVLRRLMRESYTRENQY----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|16273204|ref|NP_439442.1| hypothetical protein HI1290 [Haemop... [ score 67 E 2e-10 ] [ range 6 .. 84 ] [ duplicate b ]
+sequence
+----------ALKDLRSEIDSLDRELIQLFAKRLELVSQVGKVKHQ---HGLPIYAPEREIAMLQARRLE
+AEKA-------------------------------------GISADLIEDVLRRFMRES-----------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|16080027|ref|NP_390853.1| 3-deoxy-D-arabino-heptulosonate 7-p... [ score 67 E 2e-10 ] [ range 1 .. 87 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSNT
+ELELLRQKADELNLQILKLINERGNVVKEIGKAKEAQGV-----------------NRFDPVRERTMLNN
+IIENNDGP-----F-ENSTIQHIFK-EIFKAGLELQE-----------*
+>P1;gi|16080027|ref|NP_390853.1| 3-deoxy-D-arabino-heptulosonate 7-p... [ score 67 E 2e-10 ] [ range 5 .. 87 ] [ duplicate b ]
+sequence
+----------ELELLRQKADELNLQILKLINERGNVVKEIGKAKEA---QGVNRFDPVRERTMLNNIIEN
+NDGP-------------------------------------F-ENSTIQHIFKEIFKAGLELQE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43549332|gb|EAE29428.1| unknown [environmental sequence] [ score 67 E 2e-10 ] [ range 158 .. 296 ] [ duplicate a ]
+sequence
+-------------------------------------------------------DLGFDGLMIESHPNP
+EKAL-------------------------------------SDSKQQITRELKNLIQNSTKREKLPQHGP
+SLESLRKLIEPLDQELLDILQKRMEVVRQIAIFKKAKKM-----------------ETFQKKRMEELIEN
+LEVSGEKK-----GLGKKYIRNLYK-VIHNESVNRQ------------*
+>P1;gi|43549332|gb|EAE29428.1| unknown [environmental sequence] [ score 67 E 2e-10 ] [ range 215 .. 296 ] [ duplicate b ]
+sequence
+-----------LESLRKLIEPLDQELLDILQKRMEVVRQIAIFKKA---KKMETFQKKRMEELIENLEVS
+GEKK-------------------------------------GLGKKYIRNLYKVIHNESVNRQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44105493|gb|EAH15587.1| unknown [environmental sequence] [ score 67 E 3e-10 ] [ range 155 .. 268 ]
+sequence
+---------------------------------REMIYNISQKAL----------DLGYEGLIIESHIDP
+ENAW-------------------------------------SDAKQQVTPILKEIISNLKIKKKIEKNQN
+HLEDLRESIDSVDKDLIGVLEKRFNLVKKIAEFKENQDL-----------------TVFQVKRWNEI---
+------------------------------------------------*
+>P1;gi|42881996|gb|EAB08184.1| unknown [environmental sequence] [ score 67 E 3e-10 ] [ range 6 .. 86 ] [ duplicate b ]
+sequence
+-----------LSEHRERIDQLDEKLIRLLAERFEITKAVGILKAE---QGMPAGDPEREAQQIERLHEI
+ATEV-------------------------------------GMDPDFSVKVFRLIVDEVIRH--------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23099682|ref|NP_693148.1| phospho-2-dehydro-3-deoxyheptonate ... [ score 67 E 3e-10 ] [ range 3 .. 86 ] [ duplicate a ]
+sequence
+---------NEMDQLRQQMDDINLEILDLINQRASVVQEIGKLKTK---QSIIRFDPVREREMLDYIKEN
+NNGP-------------------------------------FQDA-TLEHIFKEIFKASLELQE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|28868953|ref|NP_791572.1| chorismate mutase/prephenate dehydr... [ score 65 E 7e-10 ] [ range 1 .. 92 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSEQ
+ELKALRVRIDSLDEKVLELISERARCAQEVARVKMSSEV-----------------PVYRPEREAAVLRR
+VMDRNRGP------LSNEEMARLFR-EIMSSCLALEQ-----------*
+>P1;gi|28868953|ref|NP_791572.1| chorismate mutase/prephenate dehydr... [ score 65 E 7e-10 ] [ range 5 .. 92 ] [ duplicate b ]
+sequence
+----------ELKALRVRIDSLDEKVLELISERARCAQEVARVKMS---SEVPVYRPEREAAVLRRVMDR
+NRGP--------------------------------------LSNEEMARLFREIMSSCLALEQ------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|42869644|gb|EAB02071.1| unknown [environmental sequence] [ score 65 E 8e-10 ] [ range 5 .. 86 ] [ duplicate a ]
+sequence
+-----------LTTLRKRIDTIDHELVSLMNQRADVARDIGHLKSA---SGELTYDPSREELVLDRVAAA
+NEGP--------------------------------------LADDSLKSIFRELISGSRAIEQ------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44532222|gb|EAJ91191.1| unknown [environmental sequence] [ score 65 E 8e-10 ] [ range 1 .. 80 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MPKED
+ELSKVRKAIDSIDDQILSLLNERAELAISAGKTKTDSD-------------------IYKPARESLIFNR
+LTDMNKGP------LNRDQIINIFN-EIISS-----------------*
+>P1;gi|44532222|gb|EAJ91191.1| unknown [environmental sequence] [ score 65 E 8e-10 ] [ range 6 .. 80 ] [ duplicate b ]
+sequence
+----------ELSKVRKAIDSIDDQILSLLNERAELAISAGKTKTD---SD--IYKPARESLIFNRLTDM
+NKGP--------------------------------------LNRDQIINIFNEIISS------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44311799|gb|EAI37859.1| unknown [environmental sequence] [ score 65 E 1e-09 ] [ range 1 .. 80 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MSKEK
+DLNSIRDNIDSLDERILSLLNERANLAIEAGQAKEESIK-------------------YKPAREATIFNK
+LKEINKGP------LSNNQIISIYN-EIISA-----------------*
+>P1;gi|44311799|gb|EAI37859.1| unknown [environmental sequence] [ score 65 E 1e-09 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+----------DLNSIRDNIDSLDERILSLLNERANLAIEAGQAKEE---SIK--YKPAREATIFNKLKEI
+NKGP--------------------------------------LSNNQIISIYNEII--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15966994|ref|NP_387347.1| PUTATIVE CHORISMATE MUTASE PROTEIN ... [ score 65 E 1e-09 ] [ range 9 .. 93 ] [ duplicate b ]
+sequence
+----------ELASYRQSIDNIDAALVHMLAERFRCTKAVGVLKAK---HQLPPADPAREEYQIERLRHL
+AKDA-------------------------------------NLDPDFAEKFLNFIIKEVIRHHEA-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|32267007|ref|NP_861039.1| chorismate mutase/prephenate dehydr... [ score 64 E 1e-09 ] [ range 10 .. 83 ] [ duplicate b ]
+sequence
+-----------LQTLRNEIDSIDSEIFDALQKRMALVAQVGAHKTK---QGGAIYRPEREREIIERLSQR
+-ESK-------------------------------------YLNERAIEAIYQEIF--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44049033|gb|EAG84669.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 172 .. 274 ]
+sequence
+-----------------------------ISGRRDLILDISQIAL----------DLNFDGLMIESHWDP
+DNAW-------------------------------------SDAKQQVTSRLIEIMRDLKVRNKTTDEKH
+KLGSLRAQIDVADQTLLDALGKRMKIAKEIGLLKR-----------------------------------
+------------------------------------------------*
+>P1;gi|43047027|gb|EAB89951.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 2 .. 68 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------LLRERAEIVTEIGKQK-KSHT-----------------DVVDYEREQKILDR
+ILKSTKSK-----Y-SKDSIVRIWR-EIFQASTKLQEQEI--------*
+>P1;gi|43047027|gb|EAB89951.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 2 .. 83 ] [ duplicate b ]
+sequence
+----------------------------LLRERAEIVTEIGKQK-K---SHTDVVDYEREQKILDRILKS
+TKSK-------------------------------------Y-SKDSIVRIWREIFQASTKLQEQEIDRP
+IINTKRS-INSIN---------------------------------------------------------
+------------------------------------------------*
+>P1;gi|26988500|ref|NP_743925.1| chorismate mutase/prephenate dehydr... [ score 63 E 2e-09 ] [ range 4 .. 95 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSEQ
+ELKALRVRIDSLDEKILELISDRARCAEEVARVKTASEK-----------------PVYRPEREAAVLKR
+VMERNKGP------LGNEEMARLFR-EIMSSCLALEE-----------*
+>P1;gi|26988500|ref|NP_743925.1| chorismate mutase/prephenate dehydr... [ score 63 E 2e-09 ] [ range 8 .. 95 ] [ duplicate b ]
+sequence
+----------ELKALRVRIDSLDEKILELISDRARCAEEVARVKTA---SEKPVYRPEREAAVLKRVMER
+NKGP--------------------------------------LGNEEMARLFREIMSSCLALEE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|45358141|ref|NP_987698.1| Chorismate mutase [Methanococcus ma... [ score 63 E 3e-09 ] [ range 5 .. 91 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------------------------SEK
+RLEEIRKRINEIDEQLIELIAERTSFAPEIAALKKSLGT-----------------CVFDPKREDAICEK
+TRLMCEKH-----HIEPEVALKVMK-ILMTYNKEVQK-----------*
+>P1;gi|45358141|ref|NP_987698.1| Chorismate mutase [Methanococcus ma... [ score 63 E 3e-09 ] [ range 9 .. 91 ] [ duplicate b ]
+sequence
+-----------LEEIRKRINEIDEQLIELIAERTSFAPEIAALKKS---LGTCVFDPKREDAICEKTRLM
+CEKH-------------------------------------HIEPEVALKVMKILMTYNKEVQK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|13346816|gb|AAK19833.1| chorismate mutase-like protein [Strep... [ score 63 E 4e-09 ] [ range 2 .. 90 ] [ duplicate b ]
+sequence
+----------DLNEIRQHIDSVDNEIVALLEERMKLVTRVSAYKQR---TGKAIYDPEREQALLDKV---
+-GAS-------------------------------------VLNPEYIVASFADIMKHSRTYQASKLEEK
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|42849160|gb|EAA91914.1| unknown [environmental sequence] [ score 63 E 4e-09 ] [ range 1 .. 92 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSKE
+NLKSLRSKIDKIDKDLLKLIQKRAALAVSIGKIKSKPNS-----------------SFYKPDREATILRN
+ILKANEKG-----ALSNDKVRTIYK-ELISGCLSLEEAL---------*
+>P1;gi|42849160|gb|EAA91914.1| unknown [environmental sequence] [ score 63 E 4e-09 ] [ range 5 .. 82 ] [ duplicate b ]
+sequence
+----------NLKSLRSKIDKIDKDLLKLIQKRAALAVSIGKIKSK---PNSSFYKPDREATILRNILKA
+NEKG-------------------------------------ALSNDKVRTIYKELI--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23061124|ref|ZP_00085991.1| COG0077: Prephenate dehydratase [... [ score 63 E 4e-09 ] [ range 1 .. 91 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSEQ
+ELKALRVRIDNLDEKILQLISDRARCAEEVARVKMASEQ-----------------PVYRPEREAQVLKR
+VMERNKGP------LGNEEMARLFR-EIMSSCLALE------------*
+>P1;gi|30022749|ref|NP_834380.1| Chorismate mutase [Bacillus cereus ... [ score 63 E 4e-09 ] [ range 5 .. 87 ] [ duplicate b ]
+sequence
+----------QLGRLRSEIDQLNLQILELLNERGRLVQEVGNLKEV---QGVKRFDPVRERNMLDLIAEN
+NNGP-------------------------------------F-ETSTLQHIFKQIFQAGLELQE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|28378671|ref|NP_785563.1| transport protein [Lactobacillus pl... [ score 62 E 5e-09 ] [ range 389 .. 469 ] [ duplicate b ]
+sequence
+-----------LSQERQRINHIDQQIVRLLNQRFETVTAIGELKQQ---QQLPVLDQQREQRVLQQV---
+AVKS-------------------------------------TQTAHYLQAIYQAIMHNSRAYQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44519237|gb|EAJ82428.1| unknown [environmental sequence] [ score 62 E 5e-09 ] [ range 1 .. 80 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MSKKD
+DLKNIRDSIDSIDNQILSLVSQRAKLAIQAGQAKQDSSK-------------------YKPARESSILNR
+LTEMNEGP------LEQDQIRNIFN-EIISS-----------------*
+>P1;gi|44519237|gb|EAJ82428.1| unknown [environmental sequence] [ score 62 E 5e-09 ] [ range 6 .. 80 ] [ duplicate b ]
+sequence
+----------DLKNIRDSIDSIDNQILSLVSQRAKLAIQAGQAKQD---SSK--YKPARESSILNRLTEM
+NEGP--------------------------------------LEQDQIRNIFNEIISS------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44495766|gb|EAJ66642.1| unknown [environmental sequence] [ score 62 E 6e-09 ] [ range 7 .. 84 ] [ duplicate b ]
+sequence
+---------------RGAIDKIDAQIVKLLNRRTKHVLGIGQAKLA---SGKAIYQPDREQALLRRICKV
+SDGV--------------------------------------LPDESLRHIYREVMSASIALQQ------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|24213956|ref|NP_711437.1| P-protein [Leptospira interrogans s... [ score 62 E 6e-09 ] [ range 12 .. 94 ] [ duplicate a ]
+sequence
+----------QLKIFRDQIDSLDREIVKSIQTRAEFASKIGEIKRE---RNEPVFRPDREKEVYEKIKSF
+SPGP--------------------------------------LPDKVLLAIYREIMSGSISVEK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|24213956|ref|NP_711437.1| P-protein [Leptospira interrogans s... [ score 62 E 6e-09 ] [ range 10 .. 96 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------------------------------------DQ
+QLKIFRDQIDSLDREIVKSIQTRAEFASKIGEIKRERNE-----------------PVFRPDREKEVYEK
+IKSFSPGP------LPDKVLLAIYR-EIMSGSISVEKGL---------*
+>P1;gi|39996927|ref|NP_952878.1| chorismate mutase domain protein [G... [ score 62 E 6e-09 ] [ range 3 .. 83 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-IDQIRQEIDRLDSELLRIFNRRAGLALEIGAIKKDKGL-----------------PVYDPTREKKIFER
+MQRENTGP------LDDGAIVRLFE-RVIDESRRLE------------*
+>P1;gi|29374892|ref|NP_814045.1| maltose O-acetyltransferase, putati... [ score 62 E 6e-09 ] [ range 180 .. 279 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------RIIKELTEDDAPT-------T
+SLEQQRAKINQIDKELVRLLEQRMDVVAEIAAVKKKAGH-----------------AVFDSEREQQVLET
+ILNHVENA-----EY-EETLSETFQ-GIMDASKRFQEKHL--------*
+>P1;gi|29374892|ref|NP_814045.1| maltose O-acetyltransferase, putati... [ score 62 E 6e-09 ] [ range 195 .. 279 ] [ duplicate b ]
+sequence
+-----------LEQQRAKINQIDKELVRLLEQRMDVVAEIAAVKKK---AGHAVFDSEREQQVLETILNH
+VENA-------------------------------------EY-EETLSETFQGIMDASKRFQEKHL---
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44400219|gb|EAJ00513.1| unknown [environmental sequence] [ score 62 E 6e-09 ] [ range 2 .. 86 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELKDLREKLTSLDKELIRIIGERQSIVHQIGEYKLQVGR-----------------ATRDFERESAVINY
+VRQEAIEA-----DIEPDIAEEIIT-VLIRSSLTKQEK----------*
+>P1;gi|44400219|gb|EAJ00513.1| unknown [environmental sequence] [ score 62 E 6e-09 ] [ range 2 .. 86 ] [ duplicate b ]
+sequence
+----------ELKDLREKLTSLDKELIRIIGERQSIVHQIGEYKLQ---VGRATRDFERESAVINYVRQE
+AIEA-------------------------------------DIEPDIAEEIITVLIRSSLTKQEK-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|34556767|ref|NP_906582.1| CHORISMATE MUTASE\PREPHENATE DEHYDR... [ score 62 E 8e-09 ] [ range 2 .. 76 ] [ duplicate b ]
+sequence
+----------DLQKFREEIDSVDDQILRLLNQRMEVVKLIGRHKKM---EGSVIYRPEREREIIARLNSL
+NQGL--------------------------------------LNEAAIEAIYLEIF--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|22993902|ref|ZP_00038439.1| COG1605: Chorismate mutase [Xylel... [ score 62 E 9e-09 ] [ range 39 .. 151 ] [ duplicate a ]
+sequence
+-------------------------LLGKVAERNAIGDEVALSKWD---TGKPVLDVSRETAVLQSVRDQ
+APQY-------------------------------------RLDPDLAARFFSAQIESNKLVQYQLLNRW
+NLIALRDRLDHLQNELLDALAQSMRL--------------------------------------------
+------------------------------------------------*
+>P1;gi|22993902|ref|ZP_00038439.1| COG1605: Chorismate mutase [Xylel... [ score 62 E 9e-09 ] [ range 39 .. 110 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------LLGKVAERNAIGDEVALSKWDTGK-----------------PVLDVSRETAVLQS
+VRDQAPQY-----RLDPDLAARFFS-AQIESNKLVQYQLL--------*
+>P1;gi|43039245|gb|EAB86180.1| unknown [environmental sequence] [ score 61 E 1e-08 ] [ range 5 .. 102 ] [ duplicate b ]
+sequence
+----------DLKLLRTKIDEIDDQLLELIIKRTSIVDEIGILK-K---NNSEVIDRNREQDVLKRLLKL
+HKG--------------------------------------NFSKDSVVRIWREIFHTSANIQ---LQKN
+NSLNPKRGISSIN---------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23105297|ref|ZP_00091755.1| COG0077: Prephenate dehydratase [... [ score 61 E 1e-08 ] [ range 227 .. 318 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MSDQD
+QLKALRVRIDSLDEKILELISERARCAEEVARVKMASLK-----------------PFYRPEREAWVLRH
+IMEINKGP------LGNEEVARLFR-EIMSSCLALE------------*
+>P1;gi|42888746|gb|EAB11514.1| unknown [environmental sequence] [ score 61 E 1e-08 ] [ range 4 .. 88 ] [ duplicate a ]
+sequence
+-----------LEELREEIDEMDTELHELLTRRIKIGQEVAKAKKV---NSGFNLRPGREAQILRKLISR
+NTPP--------------------------------------LSANSIYRIWREILSAN-LNQQTQIT--
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23001782|ref|ZP_00045641.1| COG0077: Prephenate dehydratase [... [ score 61 E 1e-08 ] [ range 13 .. 98 ] [ duplicate b ]
+sequence
+-----------LVELRDGIDAIDDRIHDLLMKRAELVMRVGELKGK---AGTPFYRPEREAQIHRRLEGR
+HGGP--------------------------------------LPVEAVHRIFREIIAASLNLEKQL----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44323475|gb|EAI45960.1| unknown [environmental sequence] [ score 61 E 1e-08 ] [ range 5 .. 86 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------ISKN
+NLKTLRNKIDIIDRNIYKLIQKRASHAIDIGKIKSKPGS-----------------SYYKPDRETKILRN
+IIKANEKG-----LLPDSKIRTIYK-ELI-------------------*
+>P1;gi|44323475|gb|EAI45960.1| unknown [environmental sequence] [ score 61 E 1e-08 ] [ range 8 .. 86 ] [ duplicate b ]
+sequence
+---------NNLKTLRNKIDIIDRNIYKLIQKRASHAIDIGKIKSK---PGSSYYKPDRETKILRNIIKA
+NEKG-------------------------------------LLPDSKIRTIYKELI--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43708732|gb|EAF09456.1| unknown [environmental sequence] [ score 60 E 2e-08 ] [ range 1 .. 65 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------MSLLSDRSKIVLEIGKHKKDN-------------------SVVDPDREQKILDR
+LSSKFTGS-----Y-PKDTIVRLWR-EIFQSSEKLQK-----------*
+>P1;gi|43734060|gb|EAF21765.1| unknown [environmental sequence] [ score 60 E 2e-08 ] [ range 5 .. 85 ] [ duplicate b ]
+sequence
+----------NINGLRSEIDKIDNQLLDLIVKRSFIVDNIGKLK-N---TNTDVVDKKREAEVISRLLNL
+HRG--------------------------------------NFSKDSIVRIWREIFHTSVNIQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|22997376|ref|ZP_00041608.1| COG0077: Prephenate dehydratase [... [ score 60 E 2e-08 ] [ range 10 .. 102 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------------------------------DKVALSDT
+ALANIRTKIDKIDRDIQTLIAERACYAQQVGQAKSKLAA-----------------AMYRPEREAQVLRM
+VVERNEGP------LSDEVLVRLFR-EIMSACLAQQE-----------*
+>P1;gi|22997376|ref|ZP_00041608.1| COG0077: Prephenate dehydratase [... [ score 60 E 2e-08 ] [ range 18 .. 102 ] [ duplicate b ]
+sequence
+----------ALANIRTKIDKIDRDIQTLIAERACYAQQVGQAKSK---LAAAMYRPEREAQVLRMVVER
+NEGP--------------------------------------LSDEVLVRLFREIMSACLAQQE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44415958|gb|EAJ11293.1| unknown [environmental sequence] [ score 60 E 2e-08 ] [ range 1 .. 91 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSEQ
+ELQALRVRIDNLDERILELISDRARCAEEVARVKMKEES-----------------PVYRPEREAQVLKR
+VMERNKGP------LGNEEMARLFR-EIMSSCLALE------------*
+>P1;gi|30248352|ref|NP_840422.1| Prephenate dehydratase (PDT):Choris... [ score 60 E 2e-08 ] [ range 4 .. 75 ] [ duplicate a ]
+sequence
+----------QLKQLRNEIDAVDDELLRLISTRARLAQQVGRQKSG---TAYR---PERESQIFSRLQQS
+NPGP-------------------------------------LRDEH-IVHLFTEII--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15894184|ref|NP_347533.1| Fusion: chorismate mutase and shiki... [ score 60 E 3e-08 ] [ range 3 .. 63 ] [ duplicate a ]
+sequence
+----------ELEEIRKEIDEVDKIITELFEKRMNLVMEVAEYKEK---NSIPVSDSKREKKVIDKNIGY
+LKNK------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23120559|ref|ZP_00103175.1| COG1605: Chorismate mutase [Desul... [ score 60 E 3e-08 ] [ range 73 .. 172 ] [ duplicate a ]
+sequence
+---------------------------ELSAQRLLLADQVAASKRA---TGKPVEDAQREREQLAKVREQ
+AAAR-------------------------------------SLPPERAATFFQAQMEANKLVQYRLLAEP
+DLAPVREKLDAINAELLDAL--------------------------------------------------
+------------------------------------------------*
+>P1;gi|23120559|ref|ZP_00103175.1| COG1605: Chorismate mutase [Desul... [ score 60 E 3e-08 ] [ range 73 .. 144 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------ELSAQRLLLADQVAASKRATGK-----------------PVEDAQREREQLAK
+VREQAAAR-----SLPPERAATFFQ-AQMEANKLVQYRLLAE------*
+>P1;gi|44495643|gb|EAJ66560.1| unknown [environmental sequence] [ score 60 E 4e-08 ] [ range 1 .. 80 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSKN
+DLSKIRDKIDSLDKQILSLLNDRAELAIQAGQAKEDSIK-------------------YKPARESSILKR
+VMDLNEGP------LESEQVKNVFN-EIISS-----------------*
+>P1;gi|44495643|gb|EAJ66560.1| unknown [environmental sequence] [ score 60 E 4e-08 ] [ range 6 .. 80 ] [ duplicate b ]
+sequence
+----------DLSKIRDKIDSLDKQILSLLNDRAELAIQAGQAKED---SIK--YKPARESSILKRVMDL
+NEGP--------------------------------------LESEQVKNVFNEIISS------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43483236|gb|EAD96358.1| unknown [environmental sequence] [ score 59 E 4e-08 ] [ range 1 .. 82 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-MDKFRSRIDELDSELLKLLNERAKYVTEIGKIKHKEKK-----------------DVLVPQREKAVLDR
+LLKNNKGP-----MTDV-MVMYLFQ-QIIDVLKDLQK-----------*
+>P1;gi|43483236|gb|EAD96358.1| unknown [environmental sequence] [ score 59 E 4e-08 ] [ range 1 .. 82 ] [ duplicate b ]
+sequence
+-----------MDKFRSRIDELDSELLKLLNERAKYVTEIGKIKHK---EKKDVLVPQREKAVLDRLLKN
+NKGP-------------------------------------MTDV-MVMYLFQQIIDVLKDLQK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|29832752|ref|NP_827386.1| putative mutase [Streptomyces averm... [ score 59 E 4e-08 ] [ range 20 .. 111 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELARLRDSIDNIDAAVVHMLAERFKCTQQVGHLKAVHQL-----------------PPADPAREASQIAR
+LRRLAENA-----KLDPAFAEKLLG-FIIAEVIRHHERIADNTAN---*
+>P1;gi|29832752|ref|NP_827386.1| putative mutase [Streptomyces averm... [ score 59 E 4e-08 ] [ range 20 .. 103 ] [ duplicate b ]
+sequence
+----------ELARLRDSIDNIDAAVVHMLAERFKCTQQVGHLKAV---HQLPPADPAREASQIARLRRL
+AENA-------------------------------------KLDPAFAEKLLGFIIAEVIRHHE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44417882|gb|EAJ12585.1| unknown [environmental sequence] [ score 59 E 4e-08 ] [ range 3 .. 92 ] [ duplicate a ]
+sequence
+----------ELEELRKKIEEITIDMLSLLKKRNDIAQEIGKIKNQ---EGMSVSNESRENELRDLVKRK
+CQEI-------------------------------------DFDSNAAMKFLNFLLNESVKAQSSESNTH
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44417882|gb|EAJ12585.1| unknown [environmental sequence] [ score 59 E 4e-08 ] [ range 3 .. 93 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELEELRKKIEEITIDMLSLLKKRNDIAQEIGKIKNQEGM-----------------SVSNESRENELRDL
+VKRKCQEI-----DFDSNAAMKFLN-FLLNESVKAQSSESNTHL----*
+>P1;gi|43927409|gb|EAG18664.1| unknown [environmental sequence] [ score 59 E 4e-08 ] [ range 1 .. 80 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSKN
+DLSKIRDKIDSLDNQILSLLNDRAELAIQAGQAKEDSIK-------------------YKPARESSILKR
+VMDLNGGP------LESEQVKNVFN-EIISS-----------------*
+>P1;gi|43927409|gb|EAG18664.1| unknown [environmental sequence] [ score 59 E 4e-08 ] [ range 6 .. 80 ] [ duplicate b ]
+sequence
+----------DLSKIRDKIDSLDNQILSLLNDRAELAIQAGQAKED---SIK--YKPARESSILKRVMDL
+NGGP--------------------------------------LESEQVKNVFNEIISS------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43246888|gb|EAC89099.1| unknown [environmental sequence] [ score 59 E 5e-08 ] [ range 3 .. 82 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---KLRSRIDELDSELLKLLNERAKCVIKIGKIKQKEKK-----------------DVLVPLREKELLDR
+LSTDNKGP-----MTDE-MVIYIFQ-QIIDTLKDLQK-----------*
+>P1;gi|43246888|gb|EAC89099.1| unknown [environmental sequence] [ score 59 E 5e-08 ] [ range 4 .. 82 ] [ duplicate b ]
+sequence
+--------------LRSRIDELDSELLKLLNERAKCVIKIGKIKQK---EKKDVLVPLREKELLDRLSTD
+NKGP-------------------------------------MTD-EMVIYIFQQIIDTLKDLQK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43307905|gb|EAD19735.1| unknown [environmental sequence] [ score 59 E 5e-08 ] [ range 1 .. 66 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------MDLLKQRAEIVTEIGEQK-KSNT-----------------DIVDTQREQKVLDR
+LLQNSRTK-----Y-SKDSIVRIWR-EIFQASTKLQE-----------*
+>P1;gi|43307905|gb|EAD19735.1| unknown [environmental sequence] [ score 59 E 5e-08 ] [ range 3 .. 82 ] [ duplicate b ]
+sequence
+----------------------------LLKQRAEIVTEIGEQK-K---SNTDIVDTQREQKVLDRLLQN
+SRTK-------------------------------------Y-SKDSIVRIWREIFQASTKLQE---NNT
+SLIATKRSINSIN---------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23055006|ref|ZP_00081135.1| COG0077: Prephenate dehydratase [... [ score 59 E 5e-08 ] [ range 3 .. 83 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-IDELRQEIDRMDSELLRIFNRRASLALEIGLIKKERGL-----------------PVYDPKREKLIFER
+MKADNPGP------LDDGAIVRLFE-RVIDESRRLE------------*
+>P1;gi|45531035|ref|ZP_00182115.1| hypothetical protein Exigu259101 ... [ score 59 E 6e-08 ] [ range 1 .. 87 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MDQH
+ELKRLRDELDLVNAELLALINKRGEIAVEIGEVKRAQGI-----------------DRYDPVRERQMLES
+IAASNHGP-----F-ETGRLQHVFK-EIFKASLELQ------------*
+>P1;gi|45531035|ref|ZP_00182115.1| hypothetical protein Exigu259101 ... [ score 59 E 6e-08 ] [ range 6 .. 87 ] [ duplicate b ]
+sequence
+----------ELKRLRDELDLVNAELLALINKRGEIAVEIGEVKRA---QGIDRYDPVRERQMLESIAAS
+NHGP-------------------------------------F-ETGRLQHVFKEIFKASLELQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44175888|gb|EAH53486.1| unknown [environmental sequence] [ score 59 E 6e-08 ] [ range 8 .. 86 ] [ duplicate b ]
+sequence
+----------ELVKIRNNIDIIDNKILKLLNQRASFAKKTTKFKPN---N---IYDPKREKEVLNNL-SE
+NKAD-------------------------------------HLSDQSIKQIYGEILSACREVQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|37527436|ref|NP_930780.1| hypothetical protein [Photorhabdus ... [ score 58 E 6e-08 ] [ range 8 .. 109 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------------------TQAIINKQE
+ILQPYRESLDVINMQILALLSERMKVCMKIAEVKAGQDI-----------------PMMQPQRITSLLNM
+LRDKSTDF-----GLRPEYTESIFQ-LVIEETCRREEELIDQLLHE--*
+>P1;gi|37527436|ref|NP_930780.1| hypothetical protein [Photorhabdus ... [ score 58 E 6e-08 ] [ range 18 .. 105 ] [ duplicate b ]
+sequence
+-----------LQPYRESLDVINMQILALLSERMKVCMKIAEVKAG---QDIPMMQPQRITSLLNMLRDK
+STDF-------------------------------------GLRPEYTESIFQLVIEETCRREEELIDQ-
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44543790|gb|EAJ99234.1| unknown [environmental sequence] [ score 58 E 7e-08 ] [ range 1 .. 95 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MNTDN
+DQLEIRNQIDKIDSELLALLNQRAECAIEIGRLKIQEDV-----------------SFYRPERVELVRKR
+LVQENTGP------LRAEHVSAIFN-EIMSSCLGLEQKI---------*
+>P1;gi|44543790|gb|EAJ99234.1| unknown [environmental sequence] [ score 58 E 7e-08 ] [ range 7 .. 94 ] [ duplicate b ]
+sequence
+----------QLEPIRNQIDKIDSELLALLNQRAECAIEIGRLKIQ---EDVSFYRPERVELVRKRLVQE
+NTGP--------------------------------------LRAEHVSAIFNEIMSSCLGLEQK-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21910008|ref|NP_664276.1| conserved hypothetical protein [Str... [ score 58 E 7e-08 ] [ range 3 .. 88 ] [ duplicate b ]
+sequence
+-----------LEEIRQEINSIDHHLVALLEKRMALVEQVTAYKLA---NHLPVLDQVRENQILDRVSYL
+VKDQ-------------------------------------AFEPA-IHETFKTIMSLSRKYQTQHLT--
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21431808|sp|P27603|PHEA_PSEST P-protein [Includes: Chorismate... [ score 58 E 7e-08 ] [ range 6 .. 93 ] [ duplicate a ]
+sequence
+----------QLKALRVRIDSLDERILDLISERARCAQEVARVKKA---EEAVFYRPEREAWVLKHIMEL
+NKGP--------------------------------------LDNEEMARLFREIMSSCLALEQ------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21431808|sp|P27603|PHEA_PSEST P-protein [Includes: Chorismate... [ score 58 E 7e-08 ] [ range 1 .. 93 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MSEAD
+QLKALRVRIDSLDERILDLISERARCAQEVARVKTASEE-----------------AVYRPEREAWVLKH
+IMELNKGP------LDNEEMARLFR-EIMSSCLALEQ-----------*
+>P1;gi|28493760|ref|NP_787921.1| putative chorismate mutase protein ... [ score 58 E 7e-08 ] [ range 20 .. 105 ] [ duplicate a ]
+sequence
+----------ELAKLRNKIDAIDSQILILLRDRLREADKIGALKKK---YCLKAEDLVREQYLYSRLEGL
+AQEL-------------------------------------DLESGFVRSLFETIISETKRRQRTV----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|28493760|ref|NP_787921.1| putative chorismate mutase protein ... [ score 58 E 7e-08 ] [ range 7 .. 102 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------------------------------NSEMSEN
+ELAKLRNKIDAIDSQILILLRDRLREADKIGALKKKYCL-----------------KAEDLVREQYLYSR
+LEGLAQEL-----DLESGFVRSLFE-TIISETKRRQ------------*
+>P1;gi|15889952|ref|NP_355633.1| AGR_C_4890Ap [Agrobacterium tumefac... [ score 58 E 7e-08 ] [ range 9 .. 98 ] [ duplicate a ]
+sequence
+----------QLSEYRQSIDNIDAALVHILAERFRCTKAVGVLKAT---YSLPPADPAREEYQIERLRRL
+AKDA-------------------------------------NLDPDFAEKFLNFVIKEVIRHHEAIAAEH
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43220680|gb|EAC75910.1| unknown [environmental sequence] [ score 58 E 9e-08 ] [ range 3 .. 77 ] [ duplicate b ]
+sequence
+----------ELKRIREKINELDAELLKLINRRSSLAIEAGEAKKD---EV--IYKPEREATILRNLKKN
+NLGP--------------------------------------LNEEQISNIFKEIISS------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43791811|gb|EAF50441.1| unknown [environmental sequence] [ score 58 E 1e-07 ] [ range 4 .. 83 ] [ duplicate b ]
+sequence
+----------KLTELRSALDSLDGEIIALLERRFEISGLVAAAK-----NGSAAVRPGREAAIIRRLQTA
+--AP-------------------------------------DLDPALLVGIWRHIFSASVAQQQ------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43429859|gb|EAD71821.1| unknown [environmental sequence] [ score 58 E 1e-07 ] [ range 3 .. 82 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---KLRSRIDELDIELLKLLNERAKCVIQIGKIKQKEKK-----------------GVLVPLREKELLDR
+LRTVNKGP-----MTDA-MVTYLFQ-QIIDTLKDLQK-----------*
+>P1;gi|43429859|gb|EAD71821.1| unknown [environmental sequence] [ score 58 E 1e-07 ] [ range 1 .. 82 ] [ duplicate b ]
+sequence
+-----------MEKLRSRIDELDIELLKLLNERAKCVIQIGKIKQK---EKKGVLVPLREKELLDRLRTV
+NKGP-------------------------------------MTDA-MVTYLFQQIIDTLKDLQK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44435983|gb|EAJ25444.1| unknown [environmental sequence] [ score 58 E 1e-07 ] [ range 2 .. 78 ] [ duplicate a ]
+sequence
+-----------LKKFRTNIDKIDKKLLDLLNQRANIAKQVADYKRS---NNKIIFRPDRESQIIKSLRTL
+NKGP--------------------------------------LNADHIHNIYREIISS------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15678826|ref|NP_275943.1| chorismate mutase, subunit A [Metha... [ score 58 E 1e-07 ] [ range 14 .. 95 ] [ duplicate a ]
+sequence
+---------------RQKIDGIDRDILDLITSRIALAREIAEAKEV---LGMEILDPERELQIIERTRKI
+AREN-------------------------------------GIDENKLTELMKILMDLSKTEQKEML---
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21230031|ref|NP_635948.1| chorismate mutase/prephenate dehydr... [ score 58 E 1e-07 ] [ range 37 .. 135 ] [ duplicate a ]
+sequence
+-------------------------LLDKIAERNAIGDAVALSKWD---SGKPVLDQAREAAVLQNVRDQ
+APAH-------------------------------------GLDPDDAARFFGAQIEANKSVQYALLNRW
+DLSTLRERLDAV----------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21230031|ref|NP_635948.1| chorismate mutase/prephenate dehydr... [ score 58 E 1e-07 ] [ range 37 .. 108 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------LLDKIAERNAIGDAVALSKWDSGK-----------------PVLDQAREAAVLQN
+VRDQAPAH-----GLDPDDAARFFG-AQIEANKSVQYALL--------*
+>P1;gi|43387062|gb|EAD58174.1| unknown [environmental sequence] [ score 58 E 1e-07 ] [ range 8 .. 88 ] [ duplicate a ]
+sequence
+-----------LEEYRSSIDNVDAALIHLLAERFRITHQVGVYKAK---NGLPAEDKEREAAQVKRMREL
+AEEA-------------------------------------GIDPVFSEKFLRFIIEEVIRH--------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43516667|gb|EAE13070.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 3 .. 82 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---KLRSRIDELDSELLKLLNERAEYVIKIGKIKQKEKK-----------------DVLVPLREKELLDR
+LRTVNKGP-----MTDA-MVIYLFQ-QIIDTLKDLQK-----------*
+>P1;gi|43516667|gb|EAE13070.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 1 .. 82 ] [ duplicate b ]
+sequence
+-----------MEKLRSRIDELDSELLKLLNERAEYVIKIGKIKQK---EKKDVLVPLREKELLDRLRTV
+NKGP-------------------------------------MTDA-MVIYLFQQIIDTLKDLQK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|13473695|ref|NP_105263.1| chorismate mutase [Mesorhizobium lo... [ score 57 E 2e-07 ] [ range 8 .. 91 ] [ duplicate b ]
+sequence
+-----------LAGYRASIDNIDAALIHMLAERFRCTKAVGVLKAE---HGLPPADPAREQQQIARLRQL
+AKDA-------------------------------------HLDPDFAEKFLNFVVREVIRHHEQ-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44323085|gb|EAI45675.1| unknown [environmental sequence] [ score 57 E 2e-07 ] [ range 3 .. 93 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+EIDELRKKIEVITIEMLSLLKTRTEIAQEIGKIKNQQGM-----------------SVSNESREDELREL
+VKKTCQEI-----NFDSNTALKFLN-FLLNESIKVQSSTSNTHL----*
+>P1;gi|44323085|gb|EAI45675.1| unknown [environmental sequence] [ score 57 E 2e-07 ] [ range 3 .. 92 ] [ duplicate b ]
+sequence
+----------EIDELRKKIEVITIEMLSLLKTRTEIAQEIGKIKNQ---QGMSVSNESREDELRELVKKT
+CQEI-------------------------------------NFDSNTALKFLNFLLNESIKVQSSTSNTH
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15602529|ref|NP_245601.1| TyrA [Pasteurella multocida] >gi|12... [ score 57 E 2e-07 ] [ range 4 .. 87 ] [ duplicate a ]
+sequence
+-----------LNKLRTQIDQVDRQLLQLLAQRLELVKQVGEVKHQ---QGLPIYVPEREAEMLNARRAE
+AETL-------------------------------------GVSADLIEDVLRRIMRESYARENQ-----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|34497810|ref|NP_902025.1| chorismate mutase/prephenate dehydr... [ score 57 E 2e-07 ] [ range 1 .. 85 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSEE
+RLKQHRNAIDAIDVEVLKLLNQRASHAREIGEIK--GGG-----------------VIYRPEREAQVLRR
+LKDLNPGP------LPSESVARLFR-EVMSECLALEK-----------*
+>P1;gi|34497810|ref|NP_902025.1| chorismate mutase/prephenate dehydr... [ score 57 E 2e-07 ] [ range 6 .. 85 ] [ duplicate b ]
+sequence
+-----------LKQHRNAIDAIDVEVLKLLNQRASHAREIGEIK-----GGGVIYRPEREAQVLRRLKDL
+NPGP--------------------------------------LPSESVARLFREVMSECLALEK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43692104|gb|EAF01261.1| unknown [environmental sequence] [ score 57 E 2e-07 ] [ range 8 .. 91 ] [ duplicate a ]
+sequence
+----------QLLEFRDSIDNIDAALVHLLAERFKITQKVGQFKAE---HTLPPADKNREAAQVARLRQI
+AEAS-------------------------------------DLDPDFAEKILNFIVTEVVRNHE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43692104|gb|EAF01261.1| unknown [environmental sequence] [ score 57 E 2e-07 ] [ range 1 .. 91 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------------MSDDVKAQ-------
+-LLEFRDSIDNIDAALVHLLAERFKITQKVGQFKAEHTL-----------------PPADKNREAAQVAR
+LRQIAEAS-----DLDPDFAEKILN-FIVTEVVRNHE-----------*
+>P1;gi|24379013|ref|NP_720968.1| putative chorismate mutase [Strepto... [ score 57 E 2e-07 ] [ range 11 .. 98 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---NLRNQIDQLDHQLLVLLAQRQQIVEKIGQLKINSQA-----------------AVTAPDRVKQVLLN
+RQQEAEKL-----GLSPDVALAIWQ-TMIEAFTALELKINSNH-----*
+>P1;gi|43731907|gb|EAF20730.1| unknown [environmental sequence] [ score 57 E 2e-07 ] [ range 10 .. 97 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------SELAKK
+KLLDARKMIDEIDSKLVDGLNERFNLTHRVGLLKAEYKL-----------------DPIDETREAEKLAA
+LRGLCEGK-----SLNPDFVEELFG-RIMEEVVKN-------------*
+>P1;gi|22536718|ref|NP_687569.1| chorismate mutase, putative [Strept... [ score 57 E 2e-07 ] [ range 2 .. 84 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELEEIRQEIDEIDQQLVSLLETRMGLILEVIAFKKKHRL-----------------PVLDNNRENEVLNN
+VLKKVQNH-----QFD-DVIRATFK-DIMTESRVYQK-----------*
+>P1;gi|22536718|ref|NP_687569.1| chorismate mutase, putative [Strept... [ score 57 E 2e-07 ] [ range 2 .. 84 ] [ duplicate b ]
+sequence
+----------ELEEIRQEIDEIDQQLVSLLETRMGLILEVIAFKKK---HRLPVLDNNRENEVLNNVLKK
+VQNH-------------------------------------QFD-DVIRATFKDIMTESRVYQK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44301007|gb|EAI30635.1| unknown [environmental sequence] [ score 57 E 2e-07 ] [ range 3 .. 81 ] [ duplicate a ]
+sequence
+---------NKVKDLRDKIDEIDLKILDLIQSRAIHASKIGEIKKE---S--PDFDPEREKEIIDRLTKK
+NSEP--------------------------------------LRINNVKNIFKEII--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21228463|ref|NP_634385.1| chorismate mutase; prephenate dehyd... [ score 57 E 2e-07 ] [ range 3 .. 85 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELEAVRKEIEEIDREILSLIDKRVNLAEKVLESKRINGT-----------------SINDRKQNEVVINR
+TLNTATEL-----NLDVGSVKEIFE-ILIRMSIERQ------------*
+>P1;gi|44371063|gb|EAI79815.1| unknown [environmental sequence] [ score 57 E 3e-07 ] [ range 1 .. 87 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MNSKN
+KINELRNKIDEYDDKILTLVTKRLEISDKIGSIKKKSNL-----------------EILDKNRENEIISR
+LAKKFKM-------LKKEHIRSIFN-QIFNVSRLIQK-----------*
+>P1;gi|44371063|gb|EAI79815.1| unknown [environmental sequence] [ score 57 E 3e-07 ] [ range 5 .. 87 ] [ duplicate b ]
+sequence
+---------NKINELRNKIDEYDDKILTLVTKRLEISDKIGSIKKK---SNLEILDKNRENEIISRLAKK
+FKM---------------------------------------LKKEHIRSIFNQIFNVSRLIQK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43571851|gb|EAE40744.1| unknown [environmental sequence] [ score 57 E 3e-07 ] [ range 8 .. 79 ] [ duplicate a ]
+sequence
+----------QLLEFRDSIDNIDAALVHLLAERFKITQKVGHFKAE---HTLPPTDKNREADQVAHLRVL
+AEAS-------------------------------------NLDPDFAEKIL------------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21242399|ref|NP_641981.1| P-protein [Xanthomonas axonopodis p... [ score 57 E 3e-07 ] [ range 47 .. 130 ] [ duplicate a ]
+sequence
+-----------LADVRAKIDEIDRNIQALIAERANFAHQVGKAKGK---LAAAVYRPEREAQVLRMVVDR
+NEGP--------------------------------------LSDEVLVHVYREIMSACLAQQE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44459259|gb|EAJ41881.1| unknown [environmental sequence] [ score 57 E 3e-07 ] [ range 3 .. 93 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+EIDELRKKIEIITIEMLSLLKTRTEIAQEIGKIKNQQGM-----------------SVSNESREDELREL
+VKKRCQEI-----NFDSNTALKFLN-FLLNESIKVQSSTSNTHL----*
+>P1;gi|44459259|gb|EAJ41881.1| unknown [environmental sequence] [ score 57 E 3e-07 ] [ range 3 .. 92 ] [ duplicate b ]
+sequence
+----------EIDELRKKIEIITIEMLSLLKTRTEIAQEIGKIKNQ---QGMSVSNESREDELRELVKKR
+CQEI-------------------------------------NFDSNTALKFLNFLLNESIKVQSSTSNTH
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44166322|gb|EAH48464.1| unknown [environmental sequence] [ score 56 E 3e-07 ] [ range 6 .. 79 ] [ duplicate b ]
+sequence
+----------NLKALRRRIDQIDQQLLELINERVSTAVQIGVDKAT---RGEAVYRPEREAEIFTRLLER
+NEGP--------------------------------------VSDEGVRTIFTEI---------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44080302|gb|EAH02015.1| unknown [environmental sequence] [ score 56 E 3e-07 ] [ range 3 .. 81 ] [ duplicate a ]
+sequence
+---------NKVKDLRDKIDEIDLKILDLIQSRAIYASKIGEIKKE---S--PDFDPEREKEIIDRLTKK
+NSEP--------------------------------------LGINNVKNIFKEII--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|20090238|ref|NP_616313.1| chorismate mutase [Methanosarcina a... [ score 56 E 3e-07 ] [ range 3 .. 85 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELEAVRKEIEEIDREILSLIDKRVNLAERVLESKRINGT-----------------SINDRKQNEVVINR
+ALNTATEL-----NLDVGSIKEIFE-ILIRMSIERQ------------*
+>P1;gi|17545623|ref|NP_519025.1| PROBABLE BIFUNCTIONAL PROTEIN: CHOR... [ score 56 E 4e-07 ] [ range 19 .. 103 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELAPLRAQIDAIDSQLLTLLSDRAKVAQAVGEVKKHYAS-----------------PAFRPDRELQVIRK
+MQSGNPGP------LHGESIAAIWR-EVMSACRGLEQAL---------*
+>P1;gi|17545623|ref|NP_519025.1| PROBABLE BIFUNCTIONAL PROTEIN: CHOR... [ score 56 E 4e-07 ] [ range 19 .. 103 ] [ duplicate b ]
+sequence
+----------ELAPLRAQIDAIDSQLLTLLSDRAKVAQAVGEVKKH---YASPAFRPDRELQVIRK-MQS
+GNPG-------------------------------------PLHGESIAAIWREVMSACRGLEQAL----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43705230|gb|EAF07742.1| unknown [environmental sequence] [ score 56 E 4e-07 ] [ range 3 .. 88 ] [ duplicate b ]
+sequence
+----------DLKKIRVLIDKLDKQIIKLLNERGKLAQEIKKAKKL---SNKNIFRPEREAQILRSLSKS
+NKGP-------------------------------------LTDENLQI-IFREIISSCLSLEKKL----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15674778|ref|NP_268952.1| conserved hypothetical protein [Str... [ score 56 E 4e-07 ] [ range 3 .. 94 ] [ duplicate b ]
+sequence
+-----------LEKIRQEINGIDHHLVALLEKRMALVEQVTAYKLA---NHLPVLDQARENQILDRVSYL
+VKDQ-------------------------------------AFEPA-IHETFKTIMSLSRQYQTQHLTGG
+DIND------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21231044|ref|NP_636961.1| P-protein [Xanthomonas campestris p... [ score 56 E 4e-07 ] [ range 51 .. 134 ] [ duplicate a ]
+sequence
+-----------LADVRAKIDEIDRGIQALIAERANFAHQVGKAKGK---LAAAVYRPEREAQVLRMVVDR
+NEGP--------------------------------------LSDEVLVHVFREIMSACLAQQE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|5353514|gb|AAD42163.1| chorismate mutase [Meloidogyne javanic... [ score 56 E 4e-07 ] [ range 40 .. 145 ] [ duplicate a ]
+sequence
+--------------------------------RLTLSDYVALYKIV---NNQSITDPKREEKLLDDMRSK
+GKNL-------------------------------------SLSEDYVTLIFQDQINASKYFQNYLIKVR
+NLNTLRPAIDQINTEMLQLLVKIQKL--------------------------------------------
+------------------------------------------------*
+>P1;gi|10956638|ref|NP_066774.1| unknown [Rhodococcus equi] >gi|3198... [ score 56 E 5e-07 ] [ range 4 .. 112 ] [ duplicate a ]
+sequence
+-----------------------------IAQRLSTADPVAAAKWW---TDRPIDDPARERDVLRSVGEL
+ARGA-------------------------------------GLEAGRVEAVFRAQIEANKDVQRGLFGPA
+DLTTVRSTLDSLDRDIVAEISARRQV--------------------------------------------
+------------------------------------------------*
+>P1;gi|10956638|ref|NP_066774.1| unknown [Rhodococcus equi] >gi|3198... [ score 56 E 5e-07 ] [ range 4 .. 71 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------IAQRLSTADPVAAAKWWTDR-----------------PIDDPARERDVLRS
+VGELARGA-----GLEAGRVEAVFR-AQIEANKDVQRGLF--------*
+>P1;gi|26988894|ref|NP_744319.1| chorismate mutase family protein [P... [ score 56 E 5e-07 ] [ range 138 .. 211 ] [ duplicate b ]
+sequence
+-----------LDEVRQRIDEIDRSLVSLLAKRGRLVTQAAGFK-K---TTDDVRAPARVEQVIKKAREM
+ADET-------------------------------------GASAEVVEQVYRAMI--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44253644|gb|EAH98582.1| unknown [environmental sequence] [ score 56 E 5e-07 ] [ range 1 .. 64 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------MSKEK
+DLIIVRDKIDSLDEKILSLLNERAGLAIEAGKAKKESIK-------------------YKPARESSILNK
+LKEINKGP----------------------------------------*
+>P1;gi|44253644|gb|EAH98582.1| unknown [environmental sequence] [ score 56 E 5e-07 ] [ range 6 .. 64 ] [ duplicate b ]
+sequence
+----------DLIIVRDKIDSLDEKILSLLNERAGLAIEAGKAKKE---SIK--YKPARESSILNKLKEI
+NKGP------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23108439|ref|ZP_00094661.1| COG1605: Chorismate mutase [Novos... [ score 56 E 5e-07 ] [ range 7 .. 89 ] [ duplicate a ]
+sequence
+-----------LASYRQSIDNIDAAMIHILAERFRITQAVGAYKAE---NKLPASDPGREERQIARLRKL
+AEDA-------------------------------------KLDPEFSEKFLRFVIQEVIRHHE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23108439|ref|ZP_00094661.1| COG1605: Chorismate mutase [Novos... [ score 56 E 5e-07 ] [ range 1 .. 83 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSED
+PLASYRQSIDNIDAAMIHILAERFRITQAVGAYKAENKL-----------------PASDPGREERQIAR
+LRKLAEDA-----KLDPEFSEKFLR-FVIQE-----------------*
+>P1;gi|21675033|ref|NP_663098.1| chorismate mutase, putative [Chloro... [ score 55 E 6e-07 ] [ range 14 .. 104 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELEEWRGKIDEIDRQVAALLCQRLQFAGNISSVKSRIGE-----------------AVLQPEREKEVLIN
+VLAHTDSP-----AMS-QALERIYH-SILNESRLFQQEYKNGQQN---*
+>P1;gi|21675033|ref|NP_663098.1| chorismate mutase, putative [Chloro... [ score 55 E 6e-07 ] [ range 14 .. 98 ] [ duplicate b ]
+sequence
+----------ELEEWRGKIDEIDRQVAALLCQRLQFAGNISSVKSR---IGEAVLQPEREKEVLINVLAH
+TDSP-------------------------------------AMS-QALERIYHSILNESRLFQQEY----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44245754|gb|EAH92772.1| unknown [environmental sequence] [ score 55 E 6e-07 ] [ range 3 .. 81 ] [ duplicate a ]
+sequence
+---------NKVKDLRDKIDEIDLKILDLIQSRATHASEIGEIKKE---S--PDFDPEREKEIIDRLTKR
+NGGP--------------------------------------LGINNVRNIFKEII--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21220501|ref|NP_626280.1| putative chorismate mutase [Strepto... [ score 55 E 6e-07 ] [ range 18 .. 92 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELARLRDSIDNIDAAVVHMLAERFKCTQQVGHLKARHQL-----------------PPADPAREAQQIAR
+LRTLAESA-----KLDPAFAEKFLN-FI--------------------*
+>P1;gi|21220501|ref|NP_626280.1| putative chorismate mutase [Strepto... [ score 55 E 6e-07 ] [ range 18 .. 92 ] [ duplicate b ]
+sequence
+----------ELARLRDSIDNIDAAVVHMLAERFKCTQQVGHLKAR---HQLPPADPAREAQQIARLRTL
+AESA-------------------------------------KLDPAFAEKFLNFI---------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44595734|gb|EAK35731.1| unknown [environmental sequence] [ score 55 E 7e-07 ] [ range 4 .. 78 ] [ duplicate b ]
+sequence
+----------ELNKLREKIDLIDDKILTSIMQRAEIVKSISSIKAT---EGVDILKPGREIDLLENLYSK
+ANAH--------------------------------------LDGKSILYMWREII--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44260397|gb|EAI03178.1| unknown [environmental sequence] [ score 55 E 7e-07 ] [ range 1 .. 82 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MVDK
+SLKNIRNKIDKIDQEIFSLIQKRASHAVDIGKIKTKPKD-----------------SFYKPDRETKILRN
+IIKSNKKG-----LLPDSKIRAIYK-ELI-------------------*
+>P1;gi|44260397|gb|EAI03178.1| unknown [environmental sequence] [ score 55 E 7e-07 ] [ range 6 .. 82 ] [ duplicate b ]
+sequence
+-----------LKNIRNKIDKIDQEIFSLIQKRASHAVDIGKIKTK---PKDSFYKPDRETKILRNIIKS
+NKKG-------------------------------------LLPDSKIRAIYKELI--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44342868|gb|EAI59624.1| unknown [environmental sequence] [ score 55 E 8e-07 ] [ range 4 .. 78 ] [ duplicate b ]
+sequence
+----------ELDKLRKKIDLIDNKILDSILERAEIVKSISSIKAT---KGVDILKPGREIDLLENLYKK
+ANSH--------------------------------------LDGKSILYIWREII--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43404545|gb|EAD63935.1| unknown [environmental sequence] [ score 55 E 8e-07 ] [ range 7 .. 89 ] [ duplicate b ]
+sequence
+-----------LKTLRLEIDAIDNKIHNLLMSRVKLVGEVGKVKAE---AGDSLR-PAREASMMRRLVSQ
+HRGP-------------------------------------F-PADALIRIWRELLCGTVRVQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44617064|gb|EAK50834.1| unknown [environmental sequence] [ score 55 E 9e-07 ] [ range 11 .. 91 ] [ duplicate a ]
+sequence
+---------NNMDELRHQIDKLDVQIVELLANRSEFIDRATELKKL---NGMPARIPERIESVVSNARNA
+AEEL-------------------------------------DLDTNLVEKIWRILIDWSI----------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|42948238|gb|EAB41119.1| unknown [environmental sequence] [ score 55 E 9e-07 ] [ range 1 .. 84 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSET
+DLDDLRSKIDKIDANLCQLIKERQSLASKIMNAK-KGGF-----------------P-FDPKREEELIKK
+LVNLG---------LNKFLVEKVWR-QIISSNLSMQKVL---------*
+>P1;gi|42948238|gb|EAB41119.1| unknown [environmental sequence] [ score 55 E 9e-07 ] [ range 5 .. 84 ] [ duplicate b ]
+sequence
+----------DLDDLRSKIDKIDANLCQLIKERQSLASKIMNAK-K---GGFP-FDPKREEELIKKLVNL
+G-----------------------------------------LNKFLVEKVWRQIISSNLSMQKVL----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44049934|gb|EAG85173.1| unknown [environmental sequence] [ score 55 E 1e-06 ] [ range 4 .. 82 ] [ duplicate a ]
+sequence
+----------ELTALRDQIDEVDEALLDLLARRLELVAEVGEVKSR---FGLPIYVPEREASMLASRRAE
+AEAL-------------------------------------GVPPDLIEDVLRRVMRES-----------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44049934|gb|EAG85173.1| unknown [environmental sequence] [ score 55 E 1e-06 ] [ range 4 .. 82 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ELTALRDQIDEVDEALLDLLARRLELVAEVGEVKSRFGL-----------------PIYVPEREASMLAS
+RRAEAEAL-----GVPPDLIEDVLR-RVMRES----------------*
+>P1;gi|42835363|gb|EAA85163.1| unknown [environmental sequence] [ score 55 E 1e-06 ] [ range 3 .. 81 ] [ duplicate a ]
+sequence
+---------NKVKDLRDKIDEIDLKILDLIQSRAIHASKIGEIKKE---S--PDFDPEREKEIIDRLTKK
+NSGP--------------------------------------LRINNVRNIFKEII--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15790300|ref|NP_280124.1| Vng1244c [Halobacterium sp. NRC-1] ... [ score 54 E 1e-06 ] [ range 3 .. 84 ] [ duplicate a ]
+sequence
+-----------LDELRAEIESIDREIVDLIARRTYVAETIADVKAE---QGLSTTDESQEDAVMERAGEN
+AAAF-------------------------------------GVDDNLVKAVFRLLIELNKIEQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44504411|gb|EAJ72450.1| unknown [environmental sequence] [ score 54 E 1e-06 ] [ range 4 .. 78 ] [ duplicate b ]
+sequence
+----------ELNKLREKIDLIDDKILTSILQRAEIVKTISSIKAT---EGVDILKPGREIDLLENLYSK
+ANTH--------------------------------------LDGKSILYMWREII--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|21244372|ref|NP_643954.1| chorismate mutase; prephenate dehyd... [ score 54 E 2e-06 ] [ range 37 .. 144 ] [ duplicate a ]
+sequence
+-------------------------LMDRIVQRNAIGDAVALSKWD---SGKPVLDQAREAAVLQSVRDQ
+APAH-------------------------------------GLDADDAARFFGAQIEANKSVQYALLNRW
+DLTALRARLDQLQGELLDALA-------------------------------------------------
+------------------------------------------------*
+>P1;gi|21244372|ref|NP_643954.1| chorismate mutase; prephenate dehyd... [ score 54 E 2e-06 ] [ range 30 .. 108 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------------------------SQP
+PLDLLMDRIVQ-----------RNAIGDAVALSKWDSGK-----------------PVLDQAREAAVLQS
+VRDQAPAH-----GLDADDAARFFG-AQIEANKSVQYALL--------*
+>P1;gi|44525622|gb|EAJ86750.1| unknown [environmental sequence] [ score 54 E 2e-06 ] [ range 2 .. 80 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----LRSSIDELDSELLKLLNKRAKCVIKIGKIKQKEKQ-----------------NILVPLREKELMDR
+LISANKGP-----MKDA-MVIYLFQ-QIIDTLKELQK-----------*
+>P1;gi|44525622|gb|EAJ86750.1| unknown [environmental sequence] [ score 54 E 2e-06 ] [ range 2 .. 80 ] [ duplicate b ]
+sequence
+--------------LRSSIDELDSELLKLLNKRAKCVIKIGKIKQK---EKQNILVPLREKELMDRLISA
+NKGP-------------------------------------MKDA-MVIYLFQQIIDTLKELQK------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|20330095|emb|CAD29887.1| putative chorismate mutase [Globoder... [ score 54 E 2e-06 ] [ range 122 .. 189 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------SKRLMLAKDVALYKYINNN-----------------SIDDFEREKVVLQN
+VLAQAKSA-----GISDNYGEPFFQ-DQMDANKVIQKGYVK-------*
+>P1;gi|44410855|gb|EAJ07898.1| unknown [environmental sequence] [ score 54 E 2e-06 ] [ range 1 .. 82 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MAKD
+DLKNLRSKIDKIDQQLYALIQKRASHAVAIGKIKSKPSS-----------------SFYKPARETKILRN
+IIKANEKG-----LLPDAKIRTIFK-ELI-------------------*
+>P1;gi|44410855|gb|EAJ07898.1| unknown [environmental sequence] [ score 54 E 2e-06 ] [ range 5 .. 82 ] [ duplicate b ]
+sequence
+----------DLKNLRSKIDKIDQQLYALIQKRASHAVAIGKIKSK---PSSSFYKPARETKILRNIIKA
+NEKG-------------------------------------LLPDAKIRTIFKELI--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43208287|gb|EAC69677.1| unknown [environmental sequence] [ score 54 E 2e-06 ] [ range 11 .. 91 ] [ duplicate a ]
+sequence
+---------NNMDELRHQIDKLDVKIIELLANRSEFIDRATELKKS---NGMPARIPERIESVVSNARNA
+AEEL-------------------------------------DLDADLVEKIWRILVNWSI----------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43564746|gb|EAE37164.1| unknown [environmental sequence] [ score 54 E 2e-06 ] [ range 11 .. 91 ] [ duplicate a ]
+sequence
+---------NNMDELRHQIDKLDVKIIELLSNRSKFIDRATELKKS---NGMPARIPERIESVVSNARNA
+AEEL-------------------------------------DLDADLVEKIWRILINWSI----------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43115332|gb|EAC23649.1| unknown [environmental sequence] [ score 54 E 2e-06 ] [ range 1 .. 82 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MTDK
+SLKNIRNKIDKIDQEIYTLIQKRASHAVAIGKIKSKPNT-----------------SFYKPDRETKILRN
+IIKSNKKG-----LLPDSKIRIIYK-ELI-------------------*
+>P1;gi|43115332|gb|EAC23649.1| unknown [environmental sequence] [ score 54 E 2e-06 ] [ range 6 .. 82 ] [ duplicate b ]
+sequence
+-----------LKNIRNKIDKIDQEIYTLIQKRASHAVAIGKIKSK---PNTSFYKPDRETKILRNIIKS
+NKKG-------------------------------------LLPDSKIRIIYKELI--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|23119996|ref|ZP_00102845.1| COG0077: Prephenate dehydratase [... [ score 53 E 2e-06 ] [ range 49 .. 133 ] [ duplicate a ]
+sequence
+----------DLATLRTRIDGIDRHIQQLIAERAQFANQVGKAKGK---LAAAVYRPEREAQVLRRVVDR
+NDGP--------------------------------------LNDEVLVRLFREIMSACLAQQE------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44546431|gb|EAK01053.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 1 .. 82 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSDK
+SLENLRNKIDKIDKDIYKLIQRRASHAVAIGKIKSKPSS-----------------SFYKPDRETKILRN
+ILKANEKG-----LLPDSKIRTIYK-ELI-------------------*
+>P1;gi|44546431|gb|EAK01053.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 6 .. 82 ] [ duplicate b ]
+sequence
+-----------LENLRNKIDKIDKDIYKLIQRRASHAVAIGKIKSK---PSSSFYKPDRETKILRNILKA
+NEKG-------------------------------------LLPDSKIRTIYKELI--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|33592103|ref|NP_879747.1| p-protein [includes: chorismate mut... [ score 53 E 3e-06 ] [ range 8 .. 63 ] [ duplicate b ]
+sequence
+----------KLRPLRDRIDAIDAQILDLLSQRARTAQEVGSVKHA---AHAPVLRPEREAEVIRRL---
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44309973|gb|EAI36621.1| unknown [environmental sequence] [ score 53 E 3e-06 ] [ range 1 .. 82 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSDK
+SLKNLRDKIDKIDQDIFALIQKRAAHAVQAGKIKSKTKS-----------------SFYKPDRESKILRY
+IIKSNKKG-----LLPDSKIRAIYK-ELI-------------------*
+>P1;gi|44309973|gb|EAI36621.1| unknown [environmental sequence] [ score 53 E 3e-06 ] [ range 6 .. 82 ] [ duplicate b ]
+sequence
+-----------LKNLRDKIDKIDQDIFALIQKRAAHAVQAGKIKSK---TSSSFYKPDRESKILRYIIKS
+NKKG-------------------------------------LLPDSKIRAIYKELI--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|15794919|ref|NP_284741.1| chorismate mutase [Neisseria mening... [ score 53 E 3e-06 ] [ range 22 .. 95 ] [ duplicate b ]
+sequence
+-----------LLPHRNAIDTIDAEILRLLNERAQHAHAIGE--LK---GTGAVYRPEREVAVLRRIQDL
+NKGP--------------------------------------LPDESVARLFREVMSE------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44404946|gb|EAJ03807.1| unknown [environmental sequence] [ score 53 E 3e-06 ] [ range 4 .. 89 ] [ duplicate b ]
+sequence
+----------DLNKLRRKIDNLDKDLVKILNKRAELAKTIKKIKSI---GETDIFKPSREAQILRSLKKI
+NKGP-------------------------------------LL-AQHLQSIYREIMSACLSLEKKL----
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43824539|gb|EAF66586.1| unknown [environmental sequence] [ score 53 E 3e-06 ] [ range 7 .. 85 ] [ duplicate a ]
+sequence
+----------KLLKLRQKIDIIDTKLIELIEDRSNLAKEIIKAK-----SGQNIFKPDREEALIKDIIKQ
+SNSS-------------------------------------N--PEFIERVWRLLISENLFLQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|43824539|gb|EAF66586.1| unknown [environmental sequence] [ score 53 E 3e-06 ] [ range 1 .. 85 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MDQN
+NLLKLRQKIDIIDTKLIELIEDRSNLAKEIIKAKSGQN-------------------IFKPDREEALIKD
+IIKQSNSS-----N--PEFIERVWR-LLISENLFLQ------------*
+>P1;gi|43287326|gb|EAD09508.1| unknown [environmental sequence] [ score 53 E 4e-06 ] [ range 1 .. 85 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MDEN
+NLLKLRQKIDIIDTKLIELIEDRSNLAKEIIKAKSGEN-------------------IFKPEREEALIKD
+IINQSNSS-----N--PEFIERVWR-LLISENLFLQ------------*
+>P1;gi|43287326|gb|EAD09508.1| unknown [environmental sequence] [ score 53 E 4e-06 ] [ range 7 .. 85 ] [ duplicate b ]
+sequence
+----------KLLKLRQKIDIIDTKLIELIEDRSNLAKEIIKAKSG---EN--IFKPEREEALIKDIINQ
+SNSS-------------------------------------N--PEFIERVWRLLISENLFLQ-------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|44313132|gb|EAI38767.1| unknown [environmental sequence] [ score 53 E 4e-06 ] [ range 1 .. 78 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------------MSDK
+ELKELRDQINDLDNKIVDLIDLRSNIVTSIGKLKDKT-K-----------------GVIDESREQEVLNR
+LIHLSKGK-----Y-SKDTIIRIWR-ELL-------------------*
+>P1;gi|44313132|gb|EAI38767.1| unknown [environmental sequence] [ score 53 E 4e-06 ] [ range 5 .. 78 ] [ duplicate b ]
+sequence
+----------ELKELRDQINDLDNKIVDLIDLRSNIVTSIGKLKDK---T-KGVIDESREQEVLNRLIHL
+SKGK-------------------------------------Y-SKDTIIRIWRELL--------------
+----------------------------------------------------------------------
+------------------------------------------------*
+>P1;gi|45187547|ref|NP_983770.1| ADL326Wp [Eremothecium gossypii] >g... [ score 417 E 1e-115 ] [ range 1 .. 255 ]
+sequence
+MDFLDPKSVLNLDHIRHELVRMEDTIIFNFIERSYFPTCPVVYHANHERLPLPDFDGSFLDWAHMHMEMT
+QSQLRRFEAPDQVPFYPGSILPPILPPVQYPKLLAPYAPQINYNDRIKAIYLDSVVPLVSLGE------G
+TSWENLGSVTSCDIDCLQALSRRIHFGKFVAEAKFQLEPEKYTALIKNRDVDGIMDSITNKFVEDKILKR
+LQAKATVYGVDPKRVTPEYLAKIYKEYVIPITKEVEVEYLLRRLE---*
+>P1;gi|18406100|ref|NP_566846.1| chorismate mutase, chloroplast (CM1... [ score 414 E 1e-114 ] [ range 81 .. 340 ]
+sequence
+----DESESLTLEGIRNSLIRQEDSIIFGLLERAKYCYNADTYDPT--AFDMDGFNGSLVEYMVKGTEKL
+HAKVGRFKSPDEHPFFPDDLPEPMLPPLQYPKVLHFAADSININKKIWNMYFRDLVPRLVKK--------
+GDDGNYGSTAVCDAICLQCLSKRIHYGKFVAEAKFQASPEAYESAIKAQDKDALMDMLTFPTVEDAIKKR
+VEMKTRTYGQEVKKISPILVGDLYGDWIMPLTKEVQVEYLLRRLD---*
+>P1;gi|38110322|gb|EAA56059.1| hypothetical protein MG01710.4 [Magna... [ score 402 E 1e-111 ] [ range 33 .. 291 ]
+sequence
+IDLSDANSALDLKQIRFQLIRLEDSITFHLIERVQFPLNKNIYVSG--AVKIPNSTLSFMDWCLWEQERV
+QSLIRRYESPDEYPFFPEALQSPILPSLNYPRILNP--NDVNVNTKIKEFYTEHFLPAACPKP------G
+AGQENYGSSATADIACLQALSRRIHFGKFVAESKFRSEEKKYTEMIKAGDRQGIGKAITNEAVEKQVLDR
+LRLKVQTYGRDPSKINVEAVVSMYRDYVIPLTKEVEVEYLMQRLQ---*
+>P1;gi|15222292|ref|NP_177096.1| chorismate mutase, putative [Arabid... [ score 400 E 1e-110 ] [ range 64 .. 316 ]
+sequence
+----DESEYLKLESIRHSLIRQEDSIIFNLLERAQYRYNADTYDEDAFTME--GFQGSLVEFMVRETEKL
+HAKVDRYKSPDEHPFFPQCLPEPILPPIQYPQVLHRCAESININKKVWNMYFKHLLPRLVK-P------G
+DD-GNCGSAALCDTMCLQILSKRIHFGKFVAEAKFRENPAAYETAIKEQDRTQLMQLLTYETVEEVVKKR
+VEIKARIFGQDITKIQPSLVAKLYGERIMPLTKEVQIEYLLRRLD---*
+>P1;gi|32415906|ref|XP_328431.1| hypothetical protein [Neurospora cr... [ score 398 E 1e-110 ] [ range 5 .. 264 ]
+sequence
+IELSDVDKALDLSRIRYQLIRLEDTIIFHLIERVQFPLNKNIYIPG--AVPLPDTDLSLMDWYLWQQERL
+QSLMRRYESPDEYPFFPDAVQKPILESIDYPQILHP--NNVNVNDQIKEFYTQKFLPSVCPDR------G
+VNKENYGSSATCDIACLQAISRRIHFGKFVAESKFQSETEKFTKYIQAGDREAIGEAITNQAVEKKVLER
+LKLKAETYGTDPSKINVEAVVAMYEEFVIPLTKVVEVEYLMQRLE---*
+>P1;gi|9502025|gb|AAF87954.1| chorismate mutase [Pichia angusta] [ score 395 E 1e-109 ] [ range 1 .. 257 ]
+sequence
+MDFMKPETVLDLGNIRDALVRMEDTIIFNFIERSQFYASPSVYKVNQ--FPIPNFDGSFLDWLLSQHERI
+HSQVRRYDAPDEVPFFPNVLEKTFLPKINYPSVLASYADEINVNKEILKIYTSEIVPGIAAGS------G
+EQEDNLGSCAMADIECLQSLSRRIHFGRFVAEAKFISEGDKIVDLIKKRDVEGIEALITNAEVEKRILDR
+LLEKGRAYGTDPTKVKPEVIVKIYKDFVIPLTKKVEVDYLLRRLED--*
+>P1;gi|4809049|gb|AAD30065.1| chorismate mutase [Emericella nidulans... [ score 393 E 1e-108 ] [ range 5 .. 262 ]
+sequence
+IDLSDASKALDLANIRFQLIRLEDTITFHLIERVQFPLNKTIYIPG--GVKIPNEQISLMDYLLRETERL
+QSRVRRYQSPDEYPFFPSALEKPILQPLDYPKILH--DNDVNVNETIKTRYVQDILPAICPQR------G
+ETQENYGSAATCDVSCLQALSRRIHFGKFVAESKFQKETEKFVALIKAGDRKEIDEAITDAKVEQKVLER
+LALKAKTYGTDPPKIDVQAVQDMYKEYVIPLTKVVEVEYLMQRLK---*
+>P1;gi|34909806|ref|NP_916250.1| putative chorismate mutase precurso... [ score 384 E 1e-105 ] [ range 42 .. 294 ]
+sequence
+----DQSEILTLDNIRTSLVRQEDSIIFSLLERAQFCYNADIYDKN--AFHVDGFDGSLVEFMVRETEKL
+HQQVGRYKSPDEHPFFPEDLPEPLLPPLQYPKVLHPIADSININKEIWKMYFDELLPRLVKEG------S
+D--GNYGSSALCDTICLQALSKRIHYGKFVAEAKFQESPEAYMPAIIAQDCDQLMHLLTYETVERAIEHR
+VEAKAKIFGQEVDKIRPSLVAELYSYRIMPLTKEVQVAYLLRRLD---*
+>P1;gi|15238285|ref|NP_196648.1| chorismate mutase, cytosolic (CM2) ... [ score 377 E 1e-103 ] [ range 14 .. 265 ]
+sequence
+------SNVLSLDLIRESLIRQEDTIVFSLIERAKFPLNSPAFEESR-CLDSGSFS-SLTEFFVRETEII
+QAKVGRYEYPEENPFFLENIPHSVFPTHKYPSALHPKALSVNINKQIWDIYFKELLPLFVK-P------G
+DD-GNYPSTAASDLACLQALSRRIHYGKFVAEVKFRDAPQDYEPAIRAQDREALMKLLTFEKVEEMVKKR
+VQKKAETFGQEVKKVDPLLASRIYGEWLIPLTKLVEVEYLLRRLD---*
+>P1;gi|15077828|gb|AAK83369.1| chorismate mutase [Filobasidiella neo... [ score 369 E 1e-101 ] [ range 1 .. 279 ]
+sequence
+MNFTNTSELLSLDRIRSQLIRLEDTIIFLLIERAQFAYNKKIYEAGAFKDEI-DFDGSWLEWFLYETETF
+HAKARRFTSPDEHPFTPDRLPQPILKPQKFPTLLASTHPSVNVNSRILRFYVEHIVPGITKTE------S
+EDDGNYGSSATRDVEVLQALSRRIHFGMFVSESKFLAAPHNFIPHILAPNTEALAGLITKPAVEAKLLVR
+LANKARVYGCEMDKIDLASVVGMYKDWVIPLTKDVEVDYLIHRLD---*
+>P1;gi|42408702|dbj|BAD09921.1| putative chorimate mutase [Oryza sat... [ score 369 E 1e-101 ] [ range 30 .. 284 ]
+sequence
+---------LSLDTVREFLTREEDTVVFGLIERAKHPRNTPAYDPGYLAGGGHGHDASFAEMFVRESEAV
+QAKAGRYQSLQEIPFFPFRVPFTLAPPYNFTTELYSAAALVNVNDAIWSMYFNELLPLLAK--------N
+GDDGNYAATVSSDLVCLQALSRRINYGRYVAEVKFIGDQQNYTTLIRNKDTDALMKLLTSEAQEDVVKRR
+VQKKAMVFGQNVTKVDPSLVYKLYDKWVIPLTKQVEVEYLLHRLD---*
+>P1;gi|5732018|gb|AAD48923.1| chorimate mutase [Lycopersicon esculen... [ score 364 E 1e-100 ] [ range 9 .. 255 ]
+sequence
+---------LCLDSIRKSLIRQEDTIIFNLIERIKFPINPTLYKQQLP--PSSNFSGSLFQYLFQETESL
+QSKVGRYLAPEENPFFPDNLSDSIIPLTKCTPVLHPAAESVNVNEKILDIYINQMLPLFCTEV------N
+DDA-NFATTAACDIQLLQALSRRIHYGKFVAEVKFRDSIDEYKPFILAQDRDALMKLLTFEAVEEMVKKR
+VAKKAKVFGQEVSKIDPLLVSRLYDEWVMPLTKLVEVEYLLRRLD---*
+>P1;gi|19115128|ref|NP_594216.1| putative chorismate mutase [Schizos... [ score 354 E 9e-97 ] [ range 5 .. 250 ]
+sequence
+------NEKLKLENIRSALIRQEDTIIFNFLERAQFPRNEKVYKSGKEGLNLENYDGSFLNYLLHEEEKV
+YALVRRYASPEEYPF-TDNLPEPILPKFSGKFPLHP--NNVNVNSEILEYYINEIVPKISS-P------G
+DDFDNYGSTVVCDIRCLQSLSRRIHYGKFVAEAKYLANPEKYKKLILARDIKGIENEIVDAAQEERVLKR
+LHYKALNYGRDPTKINADCVASIYKDYVIPMTKKVEVDYLLARL----*
+>P1;gi|43396431|gb|EAD61241.1| unknown [environmental sequence] [ score 326 E 3e-88 ] [ range 7 .. 233 ]
+sequence
+---------------------------------------TAIYQKN--AVPVPCFRASMLQFMLREVEQS
+HGKIRRYTSPDEHAFYPEALPPLVIPPIVFKDVLHPCAESININDRIMSMYVDNLLPEMC--E------G
+GDDNNYGSASLCDLACLQTISRRIHYGKYVAESKFMAQPEEYTELIQAQDAEGLMALLTNQAVEDRVVRR
+VENKAKVFGSDISKLAPERVADLYYRWIMPMTKDVQVQYLLRRLD---*
+>P1;gi|42553310|gb|EAA76153.1| hypothetical protein FG09602.1 [Gibbe... [ score 281 E 8e-75 ] [ range 3 .. 193 ]
+sequence
+----DAAHALDLARIRFQLMRLEDTITFHLIERVQFALNSTIYAPG--AVELPESNLSFLDWYFREQEKL
+QSLIRRFESPDEYPFFPDALQKPILKPLNYPRIL--YENDVNVNDKIKAFYTEKFLPAVCPER------G
+ESQENYGSTATCDIACLQALSRRIHFGKFVAESKFRSEQEKYIRLIKAEDREG-----------------
+------------------------------------------------*
+>P1;gi|3646371|emb|CAA06216.1| chorismate mutase precursor [Prunus a... [ score 208 E 7e-53 ] [ range 1 .. 126 ]
+sequence
+---------------------------------------------------------------------F
+HGQVGRYSSPDEHPFFPHVPPEPVLPPLHYPQVLHPIANSININHKVWEMYFRDILPRLVK-E------G
+DD-GNFGSTAVCDTMCLQALSKRIHYGKFVGECKFRSNPKSYEAAIIEQNREKVMGLLTYPTV-------
+------------------------------------------------*
+>P1;gi|7488945|pir||T14902 chorismate mutase (EC 5.4.99.5) 2, cytoso... [ score 146 E 4e-34 ] [ range 1 .. 82 ]
+sequence
+----------------------------------------------------------------------
+--------------FDPDNLPSSLLPQYNHPQILHPTAAAININETIWDAYVNQLLPLFTT-E------G
+DD-GNYVPTATSDLQCLQAISRRIHYGKFVAEAK------------------------------------
+------------------------------------------------*
+>P1;gi|7488944|pir||T14901 chorismate mutase (EC 5.4.99.5) 1, chloro... [ score 127 E 2e-28 ] [ range 1 .. 70 ]
+sequence
+----------------------------------------------------------------------
+----------------PEHLPEPISPPLQYPQVLHPVTESININSKIWDMYFRNLVPRLVK-E------G
+ED-GNYGATAVCDTICLQALSKRI----------------------------------------------
+------------------------------------------------*

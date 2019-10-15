@@ -1,0 +1,1035 @@
+>P1;1tfxc
+structureX:1tfx:   1 :C:  58 :C:tissue factor pathway inhibitor:Homo sapiens:2.60:16.2
+--KPDFCFLEEDPG-ICR--GYITRYFYNNQTKQCERFKYGGCLGN-MNNFETLEECKNICEDG*
+>P1;1knt
+structureX:1knt:   2 : :  56 : :kunitz domain C5 from alpha-3 collagen:Homo sapiens:1.60:18.90
+---TDICKLPKDEG-TCR--DFILKWYYDPNTKSCARFWYGGCGGN-ENKFGSQKECEKVCA--*
+>P1;1dem
+structureN:1dem:   1 : :  60 : :dendrotoxin I:Dendroaspis polylepis polylepis:-1.00:-1.00
+QPLRKLCILHRNPG-RCY--QKIPAFYYNQKKKQCEGFTWSGCGGN-SNRFKTIEECRRTCIRK*
+>P1;1dtx
+structureX:1dtx:   2 : :  59 : :alpha-dendrotoxin:Dendroaspis angusticeps: 2.20:16.90
+-PRRKLCILHRNPG-RCY--DKIPAFYYNQKKKQCERFDWSGCGGN-SNRFKTIEECRRTCIG-*
+>P1;1dtk
+structureN:1dtk:   1 : :  57 : :dendrotoxin K:Dendroaspis polylepis polylepis:-1.00:-1.00
+--AAKYCKLPLRIG-PCK--RKIPSFYYKWKAKQCLPFDYSGCGGN-ANRFKTIEECRRTCVG-*
+>P1;1aapa
+structureX:1aap:   1 :A:  56 :A:protease inhibitor domain of alzheimer's amyloid beta-protein precursor:Homo sapiens:1.50:17.7
+--VREVCSEQAETG-PCR--AMISRWYFDVTEGKCAPFFYGGCGGN-RNNFDTEEYCMAVCG--*
+>P1;1shp
+structureN:1shp:   1 : :  55 : :trypsin inhibitor:Stichodactyla helianthus:-1.00:-1.00
+----SICSEPKKVG-RCK--GYFPRFYFDSETGKCTPFIYGGCGGN-GNNFETLHQCRAICRA-*
+>P1;5pti
+structureX:5pti:   1 : :  58 : :pancreatic polypeptide inhibitor:Bos taurus: 1.00:20.00
+--RPDFCLEPPYTG-PCK--ARIIRYFYNAKAGLCQTFVYGGCRAK-RNNFKSAEDCMRTCGGA*
+>P1;1tap
+structureX:1tap:   1 : :  60 : :factor Xa inhibitor:Ornithodoros moubata:-1.00:-1.00
+--YNRLCIKPRDWIDECDSNEGGERAYFRNGKGGCDSFWICPEDHTGADYYSSYRDCFNACI--*
+>P1;1bf0
+structureX:1bf0:   1 : :  60 : :calcicludine:Dendroaspis angusticeps: -1: -1
+WQPPWYCKEPVRIG-SCK--KQFSSFYFKWTAKKCLPFLFSGCGGN-ANRFQTIGECRKKCLGK*
+>P1;gi|3915130|sp|Q29428|TKD1_SHEEP Trophoblast Kunitz domain protei... [ score 101 E 3e-21 ] [ range 204 .. 260 ]
+sequence
+--KPALCLEPKVTG-DCN--ATMTRYFYNTQTGLCEQFVYTGCEGN-GNNFENLEDCMKTCSQ-*
+>P1;gi|7341326|gb|AAF61250.1| trophoblast Kunitz domain protein 4 [B... [ score 100 E 9e-21 ] [ range 111 .. 168 ]
+sequence
+--KPAFCLEPKVTG-HSK--SSWPRYFYNAETGHCEQFTYGGLGGN-KNNFITEEECMKTCGQG*
+>P1;gi|7341324|gb|AAF61249.1| trophoblast Kunitz domain protein 3 [B... [ score 100 E 1e-20 ] [ range 118 .. 175 ]
+sequence
+--RPAFCLEPKVVG-HGT--TKMPRYFYNAKTGHCEPFTYGSLGGN-KNNFLTIEDCMETCGQG*
+>P1;gi|28202267|sp|Q28201|TKD1_BOVIN Trophoblast Kunitz domain prote... [ score 100 E 1e-20 ] [ range 290 .. 346 ]
+sequence
+--KPALCLEPKVTG-GCN--AVMTRYFYNAQNGLCEQFVYDGCEGN-GNNFEKLEDCMKTCSQ-*
+>P1;gi|12004980|gb|AAG44250.1| peptidylglycine alpha-amidating monoo... [ score 98 E 5e-20 ] [ range 727 .. 782 ]
+sequence
+---PAFCMLEHDTG-PCR--AAMPRWYFDAKARSCTRFIYGGCSGN-ENNFASKRECEAKCTQ-*
+>P1;gi|45382993|ref|NP_990865.1| alpha-3 collagen type VI [Gallus ga... [ score 97 E 7e-20 ] [ range 3070 .. 3125 ]
+sequence
+----DICLLQKEEG-TCR--DFVLKWHYDLKTKSCARFWYGGCGGN-ENRFNTQKECEKACSPG*
+>P1;gi|6094466|sp|Q28864|TFPI_MACMU Tissue factor pathway inhibitor ... [ score 97 E 1e-19 ] [ range 121 .. 178 ] [ duplicate a ]
+sequence
+--KPDFCFLEEDPG-ICR--GYITRYFYNNQSKQCERFKYGGCLGN-MNNFETLEECKNTCEDG*
+>P1;gi|6094466|sp|Q28864|TFPI_MACMU Tissue factor pathway inhibitor ... [ score 97 E 1e-19 ] [ range 214 .. 270 ] [ duplicate c ]
+sequence
+---PSWCLAPADRG-LCR--ANENRFYYNSVIGKCRPFKYSGCGGN-ENNFTSKRECLRACKKG*
+>P1;gi|7595912|gb|AAF64496.1| kunitz domain protein 3 [Ovis aries] [ score 96 E 2e-19 ] [ range 113 .. 170 ]
+sequence
+--RPAFCLEPKVVG-HGK--ASMPRYFYNAKTGHCGPFTYSGLGRN-KNNFLTLEDCIKTCGQG*
+>P1;gi|23271605|gb|AAH36146.1| Tfpi protein [Mus musculus] [ score 96 E 2e-19 ] [ range 117 .. 173 ] [ duplicate a ]
+sequence
+--RPDFCFLEEDPG-LCR--GYMKRYLYNNQTKQCERFVYGGCLGN-RNNFETLDECKKICEN-*
+>P1;gi|7595910|gb|AAF64495.1| kunitz domain protein 2 [Ovis aries] [ score 95 E 3e-19 ] [ range 93 .. 149 ]
+sequence
+--KPEFCLEPELKG-PCK--DQMTRYFYNATAGYCEPFVYGGCEGN-KNNFQTLSDCLVTCSP-*
+>P1;gi|5454114|ref|NP_006278.1| tissue factor pathway inhibitor (lip... [ score 95 E 5e-19 ] [ range 214 .. 270 ] [ duplicate b ]
+sequence
+---PSWCLTPADRG-LCR--ANENRFYYNSVIGKCRPFKYSGCGGN-ENNFTSKQECLRACKKG*
+>P1;gi|34877775|ref|XP_346074.1| similar to alpha 3 type VI collagen... [ score 94 E 9e-19 ] [ range 3196 .. 3252 ]
+sequence
+--KTDICKLPKDAG-TCE--DFKLLWHYDLESKSCKRFWYGGCGGN-ENRFHSQEECEKMCSP-*
+>P1;gi|125934|sp|P19761|TFPI_RABIT Tissue factor pathway inhibitor p... [ score 94 E 1e-18 ] [ range 117 .. 173 ] [ duplicate a ]
+sequence
+--KPDFCFLEEDPG-ICR--GYITRYFYNNQSKQCERFKYGGCLGN-LNNFESLEECKNTCEN-*
+>P1;gi|125934|sp|P19761|TFPI_RABIT Tissue factor pathway inhibitor p... [ score 94 E 1e-18 ] [ range 210 .. 266 ] [ duplicate c ]
+sequence
+---PSWCLPPADRG-LCQ--ANEIRFFYNAIIGKCRPFKYSGCGGN-ENNFTSKKACITACKKG*
+>P1;gi|8394443|ref|NP_058896.1| tissue factor pathway inhibitor [Rat... [ score 94 E 1e-18 ] [ range 120 .. 176 ] [ duplicate a ]
+sequence
+--KPDFCFLEEDPG-ICR--GFMTRYFYNNQSKQCEQFKYGGCLGN-SNNFETLEECRNTCED-*
+>P1;gi|7341322|gb|AAF61248.1| trophoblast Kunitz domain protein 2 [B... [ score 93 E 1e-18 ] [ range 108 .. 164 ]
+sequence
+--KPEFCMEPELKG-PCK--DQMTRYFYNAKTRYCEPFVYGGCEGN-KNNFQTLSHCIVTCCP-*
+>P1;gi|33859644|ref|NP_035706.1| tissue factor pathway inhibitor [Mu... [ score 92 E 3e-18 ] [ range 222 .. 278 ] [ duplicate c ]
+sequence
+--RP-WCLQPADSG-LCK--ASERRFYYNSATGKCHRFNYTGCGGN-NNNFTTRRRCLRSCKTG*
+>P1;gi|38570066|gb|AAR24535.1| Kunitz protease inhibitor 2 [Bitis ga... [ score 90 E 1e-17 ] [ range 27 .. 81 ]
+sequence
+--RPDFCYLPADTG-PCM--ANFPRFYYDSASKKCKKFTYGGCHGN-ANNFETREECRKKC---*
+>P1;gi|31791061|ref|NP_034065.1| procollagen, type VI, alpha 3 [Mus ... [ score 89 E 2e-17 ] [ range 2597 .. 2653 ]
+sequence
+--KTDICKLSRDAG-TCV--DFKLLWHYDLESKSCKRFWYGGCGGN-ENRFHSQEECEKMCSP-*
+>P1;gi|495866|gb|AAA58965.1| collagen type VII [ score 88 E 4e-17 ] [ range 2842 .. 2899 ]
+sequence
+----DPCSLPLDEG-SCT--AYTLRWYHRASTEACHPFVYGGCGGN-ANRFGTREACERRCPP-*
+>P1;gi|15321630|gb|AAK95519.1| textilinin [Pseudonaja textilis texti... [ score 88 E 7e-17 ] [ range 27 .. 81 ]
+sequence
+--RPDFCELPADTG-PCR--VRFPSFYYNPDEKKCLEFIYGGCEGN-ANNFITKEECESTC---*
+>P1;gi|7341328|gb|AAF61251.1| trophoblast Kunitz domain protein 5 [B... [ score 87 E 9e-17 ] [ range 49 .. 106 ]
+sequence
+--RPAFCLEHKFSG-PCI--TPEIRYFYNAKTGHCEHFIYGGCNGK-KNNFLTEEDCIKTCGQG*
+>P1;gi|45361537|ref|NP_989345.1| hypothetical protein MGC76314 [Xeno... [ score 87 E 1e-16 ] [ range 221 .. 276 ] [ duplicate a ]
+sequence
+--KGDSCRLAPAPG-PCL--GMHSRYFYNSSTMACETFKYGGCLGN-NNNFHSEKECLQTCR--*
+>P1;gi|15321636|gb|AAK95522.1| textilinin [Pseudonaja textilis texti... [ score 87 E 1e-16 ] [ range 28 .. 81 ]
+sequence
+---PKFCELPADTG-SCK--GNVPRFYYNADHHQCLKFIYGGCGGN-ANNFKTIEECKSTC---*
+>P1;gi|1083171|pir||S53325 tissue factor pathway inhibitor - rabbit ... [ score 87 E 2e-16 ] [ range 306 .. 362 ] [ duplicate c ]
+sequence
+---PSWCLTPADRG-LCH--ANESRFYYNSVIGKCRPFKYSGCGGN-ENNFTSKKACLTACKKG*
+>P1;gi|4502067|ref|NP_001624.1| alpha-1-microglobulin/bikunin precur... [ score 86 E 2e-16 ] [ range 227 .. 282 ] [ duplicate a ]
+sequence
+--KEDSCQLGYSAG-PCM--GMTSRYFYNGTSMACETFQYGGCMGN-GNNFVTEKECLQTCR--*
+>P1;gi|27806743|ref|NP_776414.1| inter-alpha-trypsin inhibitor (prot... [ score 86 E 2e-16 ] [ range 227 .. 282 ] [ duplicate a ]
+sequence
+--KADSCQLDYSQG-PCL--GLFKRYFYNGTSMACETFLYGGCMGN-GNNFLSEKECLQTCR--*
+>P1;gi|2497694|sp|Q62577|AMBP_MERUN AMBP protein precursor [Contains... [ score 85 E 3e-16 ] [ range 226 .. 281 ] [ duplicate a ]
+sequence
+--KEDSCQLTYSEG-PCL--GMMERYHYNGTSMACETFQYGGCLGN-GNNFISEKECLQTCR--*
+>P1;gi|12836446|dbj|BAB23659.1| unnamed protein product [Mus musculus] [ score 85 E 3e-16 ] [ range 226 .. 281 ] [ duplicate a ]
+sequence
+--KEDSCQLNYSEG-PCL--GMQERYYYNGASMACETFQYGGCLGN-GNNFISEKDCLQTCR--*
+>P1;gi|15321632|gb|AAK95520.1| textilinin [Pseudonaja textilis texti... [ score 85 E 3e-16 ] [ range 27 .. 81 ]
+sequence
+--RPELCELPPDTG-PCR--VRFPSFYYNPDEQKCLEFIYGGCEGN-ANNFITKEECESTC---*
+>P1;gi|15321634|gb|AAK95521.1| textilinin [Pseudonaja textilis texti... [ score 85 E 3e-16 ] [ range 27 .. 81 ]
+sequence
+--RPNFCKLPAETG-RCN--AKIPRFYYNPRQHQCIEFLYGGCGGN-ANNFKTIKECESTC---*
+>P1;gi|2497695|sp|Q60559|AMBP_MESAU AMBP protein precursor [Contains... [ score 85 E 4e-16 ] [ range 226 .. 281 ] [ duplicate a ]
+sequence
+--KEDSCQLSYSEG-PCL--GMIEKYYYNGASMACETFHYGGCLGN-GNNFNSEKECLQTCR--*
+>P1;gi|20259681|gb|AAM14403.1| toxin 1 [Araneus ventricosus] [ score 84 E 9e-16 ] [ range 25 .. 79 ]
+sequence
+----DRCLLPKVTG-PCK--ASLTRYYYDKDTKACVEFIYGGCRGN-RNNFKRKDECEKACTD-*
+>P1;gi|6978497|ref|NP_037033.1| polyprotein 1-microglobulin/bikunin ... [ score 84 E 1e-15 ] [ range 226 .. 281 ] [ duplicate a ]
+sequence
+--KEDSCQLNYSEG-PCL--GMQQKYYYNGASMACETFQYGGCLGN-GNNFASEKECLQTCR--*
+>P1;gi|32450561|gb|AAH54142.1| Ambp-prov protein [Xenopus laevis] [ score 83 E 1e-15 ] [ range 221 .. 276 ] [ duplicate a ]
+sequence
+--KVESCRLAPASG-PCL--GNHNRYFYNSSTMACETFQYGGCLGN-NNNFHSEKECLQTCR--*
+>P1;gi|37538351|ref|XP_209824.2| similar to matrilin 2 precursor [Ho... [ score 83 E 2e-15 ] [ range 395 .. 448 ]
+sequence
+------CLEALKPG-NCG--EYVVRWYYDKQVNSCARFWFSGCNGS-GNRFNSEKECQETCIQG*
+>P1;gi|208050|gb|AAA72813.1| trypsin inhibitor [ score 82 E 4e-15 ] [ range 6 .. 61 ]
+sequence
+---PDLCQLPQARG-PCK--AALLRYFYNSTSNACEPFTYGGCQGN-NNNFETTEMCLRICEP-*
+>P1;gi|1542847|dbj|BAA13453.1| alpha1-microglobulin/bikunin precurso... [ score 80 E 1e-14 ] [ range 221 .. 276 ] [ duplicate a ]
+sequence
+--KGESCRLAPASG-PCL--GNHNRYFYNSSTMACETFQYGGCLGN-NNNFHSEKECLHDCR--*
+>P1;gi|6164595|gb|AAF04457.1| lacunin [Manduca sexta] [ score 80 E 1e-14 ] [ range 2261 .. 2316 ] [ duplicate a ]
+sequence
+----DICQLPMRSG-PCT--ESLMRWFYDPSSDSCSQFTYGGCDGN-DNRFETRDDCESRCRTG*
+>P1;gi|6164595|gb|AAF04457.1| lacunin [Manduca sexta] [ score 80 E 1e-14 ] [ range 1951 .. 2007 ] [ duplicate e ]
+sequence
+--KQAACGLPHDRG-TCR--NYSVYWYYDLEYGGCSRFWYGGCEGN-GNKFATKEECEDVCVQ-*
+>P1;gi|544480|sp|P36992|AMBP_PLEPL AMBP protein precursor [Contains:... [ score 80 E 1e-14 ] [ range 234 .. 287 ] [ duplicate a ]
+sequence
+----EACKAAPETG-PCF--GFIQGFFYNSTSMRCELFTYGGCLGN-QNNFVTVRECLQRCR--*
+>P1;gi|19070651|gb|AAL83944.1| Kazal-type serine proteinase inhibito... [ score 80 E 2e-14 ] [ range 23 .. 75 ]
+sequence
+---PD-CLLPIKTG-PCK--GSFPRYAYDSSEDKCVEFIYGGCQAN-ANNFETIEECEAAC---*
+>P1;gi|39585368|emb|CAE61690.1| Hypothetical protein CBG05636 [Caeno... [ score 80 E 2e-14 ] [ range 735 .. 787 ] [ duplicate a ]
+sequence
+------CLHPQDPG-NCR--GQFVRWFFDDKTKTCDVFTYTGCQGN-GNNFASKEECMAICHK-*
+>P1;gi|20861623|ref|XP_130716.1| similar to eppin [Mus musculus] [ score 79 E 2e-14 ] [ range 83 .. 139 ]
+sequence
+--RQDVCSLPQDPG-PCL--AYLPRWWYNQETDLCTEFIYGGCQGN-PNNFPSEGICTVVCKK-*
+>P1;gi|41055365|ref|NP_957412.1| similar to alpha-1-microglobulin/bi... [ score 79 E 2e-14 ] [ range 92 .. 146 ] [ duplicate a ]
+sequence
+---PDACKSEPDSG-PCF--GMLTRFHYNSSIMSCQMFTFGGCMGN-QNNFPTEKDCLQSCR--*
+>P1;gi|38374144|gb|AAR19275.1| two-Kunitz protease inhibitor [Bitis ... [ score 79 E 3e-14 ] [ range 70 .. 124 ] [ duplicate b ]
+sequence
+----EICILPAELG-PCD--EYTGRFYYDSASNKCEVFIYGGCQGN-ANNFKTRDECRKTCVE-*
+>P1;gi|124076|sp|P00993|IBP_CARCR Chelonianin (Basic protease inhibi... [ score 78 E 4e-14 ] [ range 4 .. 60 ]
+sequence
+--KRDICRLPPEQG-PCK--GRIPRYFYNPASRMCESFIYGGCKGN-KNNFKTKAECVRACRP-*
+>P1;gi|33416634|gb|AAH55972.1| MGC68843 protein [Xenopus laevis] [ score 78 E 5e-14 ] [ range 147 .. 203 ] [ duplicate a ]
+sequence
+---PSFCYSPKDEG-SCS--ASVTRYYFNIESKACEEFVYTGCGGN-SNNFIKVEDCDSVCKKG*
+>P1;gi|31239641|ref|XP_320234.1| ENSANGP00000019994 [Anopheles gambi... [ score 78 E 5e-14 ] [ range 736 .. 791 ]
+sequence
+---PELCFLEPKPG-NCR--DSQTRWYFDSDKNDCSILFFTGCGGN-NNNFMSREDCLDTCSK-*
+>P1;gi|24459202|gb|AAL30068.1| Kunitz inhibitor a [Bungarus candidus] [ score 78 E 6e-14 ] [ range 32 .. 88 ]
+sequence
+--RPKFCNVPPEPG-RCN--ANVRAFYYNPRLRKCIEFTYGGCGGN-ANNFKSRGECKRTCAE-*
+>P1;gi|34860765|ref|XP_345469.1| similar to eppin [Rattus norvegicus] [ score 77 E 9e-14 ] [ range 229 .. 285 ] [ duplicate a ]
+sequence
+--REDICSLPQDAG-PCL--AYLPRWWYNEDTGLCTQFIYGGCQGN-PNNFQSEGICTVVCKK-*
+>P1;gi|15320538|gb|AAK95348.1| textilinin [Pseudonaja textilis texti... [ score 77 E 1e-13 ] [ range 27 .. 81 ]
+sequence
+--RPKFCELPADIG-PCD--DFTGAFHYSPREHECIEFIYGGCKGN-ANNFNTQEECESTC---*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 77 E 1e-13 ] [ range 1851 .. 1906 ] [ duplicate b ]
+sequence
+----DFCTLERSAG-PCT--DSISMWYFDSTHLDCKPFTYGGCRGN-QNRFVSKEQCQQSCRPG*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 77 E 1e-13 ] [ range 1728 .. 1783 ] [ duplicate g ]
+sequence
+---PELCMLPEQRG-SCY--DNILRWRFDSEKSQCVTFMYSGCNPN-ANHFTSQETCERACGK-*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 77 E 1e-13 ] [ range 1089 .. 1143 ] [ duplicate k ]
+sequence
+------CNQTQESG-TGA--GYKLAWHYDTTEGRCNQFWYGGCGGN-DNNFASQDMCETICVE-*
+>P1;gi|17564964|ref|NP_507993.1| papilin (5V147) [Caenorhabditis ele... [ score 77 E 1e-13 ] [ range 777 .. 829 ] [ duplicate a ]
+sequence
+------CLHPRDSG-NCR--GQFVRWFFDDEKKNCDVFTYTGCQGN-GNNFASKEECMAICHK-*
+>P1;gi|3023697|sp|Q29143|ELAC_TRIVU EARLY LACTATION PROTEIN PRECURSO... [ score 77 E 2e-13 ] [ range 40 .. 94 ]
+sequence
+---PSLCLLPSGRG-NCD--SQILRYFYNATSHTCEVFLYSGCNGN-GNNFDSLECCLKTCR--*
+>P1;gi|22901764|gb|AAN10061.1| Kunitz-like protease inhibitor precur... [ score 76 E 2e-13 ] [ range 648 .. 702 ] [ duplicate a ]
+sequence
+----DKCLLPIVTG-PCK--GKNRRYAYNNKTGKCVRFTYGGCGGN-ENNFKTKKDCQDACEN-*
+>P1;gi|22901764|gb|AAN10061.1| Kunitz-like protease inhibitor precur... [ score 76 E 2e-13 ] [ range 581 .. 636 ] [ duplicate e ]
+sequence
+----DVCSQPITAG-PCR--ASIPRYGYDSKKRKCVKFTYGGCKGN-GNRFPTKNECEKTCKRG*
+>P1;gi|22901764|gb|AAN10061.1| Kunitz-like protease inhibitor precur... [ score 76 E 2e-13 ] [ range 203 .. 257 ] [ duplicate g ]
+sequence
+----DVCSQPIKAG-PCM--AMLKRYAYDNKKKRCVQFIYGGCKGN-KNNFESMEECTRTCKK-*
+>P1;gi|22901764|gb|AAN10061.1| Kunitz-like protease inhibitor precur... [ score 76 E 2e-13 ] [ range 73 .. 130 ] [ duplicate h ]
+sequence
+--KPDRCSKPLERG-ICL--ASMKRYGYDTSSKKCKAFIYGGCGGN-ENNFETMAECRETCKD-*
+>P1;gi|22901764|gb|AAN10061.1| Kunitz-like protease inhibitor precur... [ score 76 E 2e-13 ] [ range 19 .. 73 ] [ duplicate j ]
+sequence
+----DICKEEIKTG-NCR--GAFRKFGYDRCTNKCIPYTYGGCGGS-SNMFDTLEECQEKCGK-*
+>P1;gi|22901764|gb|AAN10061.1| Kunitz-like protease inhibitor precur... [ score 76 E 2e-13 ] [ range 139 .. 194 ] [ duplicate k ]
+sequence
+---PDACLLPSEVG-PCK--GKERRFYFDQKRGNCKSFFFGGCGGN-GNNFMTKAKCMETCSK-*
+>P1;gi|11273076|pir||A59204 basic proteinase inhibitor - great pond ... [ score 76 E 2e-13 ] [ range 1 .. 57 ]
+sequence
+--KDDICSLPSETG-PCK--GNFLRYHYNSSTNACDSFVYGGCKGN-ANNFQDIDDCKAACID-*
+>P1;gi|6647513|sp|O62845|ELAC_MACEU Early lactation protein >gi|3046... [ score 75 E 3e-13 ] [ range 20 .. 73 ]
+sequence
+---PSLCLLPPVRG-NCS--SQILHYFYNTTSRTCETFIYSGCNGN-RNNFNSEEYCLKTC---*
+>P1;gi|11380479|pir||TIHOBI alpha-1-microglobulin/inter-alpha-trypsi... [ score 75 E 3e-13 ] [ range 3 .. 58 ] [ duplicate a ]
+sequence
+--KEDSCQLDHAQG-PCL--GMISRYFYNGTSMACETFQYGGCLGN-GNNFASQKECLQTCR--*
+>P1;gi|11380479|pir||TIHOBI alpha-1-microglobulin/inter-alpha-trypsi... [ score 75 E 3e-13 ] [ range 63 .. 113 ] [ duplicate b ]
+sequence
+------CNLPIVQG-PCR--AFIRLWAFDAAQGKCVLFTYGGCRGN-GNKFYSQKECKEYC---*
+>P1;gi|33416634|gb|AAH55972.1| MGC68843 protein [Xenopus laevis] [ score 79 E 2e-14 ] [ range 27 .. 80 ] [ duplicate a ]
+sequence
+---TTVCLLPLDEG-PCK--ALIPHYYYDRYTQTCQEFFYGGCDGN-ANNFVSMEDCEKFC---*
+>P1;gi|7499668|pir||T21275 hypothetical protein F22E12.1 - Caenorhab... [ score 76 E 2e-13 ] [ range 25 .. 76 ] [ duplicate a ]
+sequence
+------CNHWPDRG-TCE--DFHVKWYYDRYDHRCRRFFYGGCEGN-ENRFDSLEECSSQC---*
+>P1;gi|39593342|emb|CAE64812.1| Hypothetical protein CBG09606 [Caeno... [ score 76 E 3e-13 ] [ range 26 .. 77 ] [ duplicate a ]
+sequence
+------CNHWPDRG-TCE--EFQVKWYYDRYDHRCRRFFYGGCEGN-ENRFNSLEECSSQC---*
+>P1;gi|31241999|ref|XP_321430.1| ENSANGP00000022061 [Anopheles gambi... [ score 75 E 4e-13 ] [ range 1515 .. 1568 ] [ duplicate a ]
+sequence
+----DVCHLPKISG-PCT--GHYNMWYYDAERNMCAQFTYGGCLGN-ANRFESQEECKALCS--*
+>P1;gi|31241999|ref|XP_321430.1| ENSANGP00000022061 [Anopheles gambi... [ score 75 E 4e-13 ] [ range 1987 .. 2041 ] [ duplicate h ]
+sequence
+-----ICSLPVRKG-RCR--SRKLRWYYDPERETCFAFRYRGCGGN-ANNFPSYSNCRTYC---*
+>P1;gi|39595042|emb|CAE70910.1| Hypothetical protein CBG17707 [Caeno... [ score 74 E 9e-13 ] [ range 146 .. 198 ]
+sequence
+----DVCTLPPVTG-SCS--RARIMWYYDNESRKCERFSWSGC-GN-QNRFASKMQCEQTCS--*
+>P1;gi|24582995|ref|NP_723444.1| CG31609-PA [Drosophila melanogaster... [ score 73 E 2e-12 ] [ range 31 .. 81 ]
+sequence
+------CWYVANPG-PCD--DFVKVWGYDYLTNRCIFFYYGGCGGN-PNRFYTKEECLKTC---*
+>P1;gi|27924379|gb|AAH44829.1| Similar to serine protease inhibitor-... [ score 72 E 3e-12 ] [ range 85 .. 137 ]
+sequence
+----DVCEMPKETG-PCL--AYFLHWWYDKKDNTCSMFVYGGCQGN-NNNFQSKANCLNTC---*
+>P1;gi|23055186|ref|ZP_00081307.1| hypothetical protein [Geobacter m... [ score 72 E 4e-12 ] [ range 74 .. 123 ]
+sequence
+------CRLKPDGG-PCK--ALFWKYYFDPKTNECKEFVYGGCEG--VVPFETREECAQEC---*
+>P1;gi|29423262|gb|AAO84907.1| extracellular matrix protein papilin ... [ score 72 E 4e-12 ] [ range 2068 .. 2121 ] [ duplicate e ]
+sequence
+---TSKCFLAFEPG-NCY--NNVTRWFYNSAEGLCDEFVYTGCGGN-ANNYATEEECQNEC---*
+>P1;gi|13346812|gb|AAB99830.2| thrombospondin [Haemonchus contortus] [ score 72 E 4e-12 ] [ range 1459 .. 1513 ] [ duplicate c ]
+sequence
+---TSVCDEAKETG-PCT--NFATKWYYNKADGTCNRFHYGGCEGT-RNRFDNEQSCKAACA--*
+>P1;gi|15077002|gb|AAK83022.1| ixolaris [Ixodes scapularis] [ score 72 E 4e-12 ] [ range 101 .. 151 ]
+sequence
+------CSLEVDYG-VGR--ANIPRWYYDTNNATCEMFTYGGITGN-KNNFESEEECKETC---*
+>P1;gi|31217966|ref|XP_316540.1| ENSANGP00000009987 [Anopheles gambi... [ score 72 E 5e-12 ] [ range 14 .. 66 ]
+sequence
+------CTGPGEPG-QCQ--TFDYRYRFEQTINNCTQFIWGGCGGN-QNNFETYEQCMQQCA--*
+>P1;gi|39594396|emb|CAE71974.1| Hypothetical protein CBG19048 [Caeno... [ score 71 E 7e-12 ] [ range 1539 .. 1589 ] [ duplicate c ]
+sequence
+------CLEPVEIG-NCQ--ETYPAFYYDRTSRTCRPFAYSGCGGN-SNRFMTVSQCENLC---*
+>P1;gi|349468|gb|AAA36032.1| binding protein [ score 93 E 1e-18 ] [ range 78 .. 132 ]
+sequence
+--VKAVCSQEAMTG-PCR--AVMPRWYFDLSKGKCVRFIYGGCGGN-RNNFESEDYCMAVC---*
+>P1;gi|23271605|gb|AAH36146.1| Tfpi protein [Mus musculus] [ score 92 E 3e-18 ] [ range 44 .. 102 ] [ duplicate a ]
+sequence
+KPLHTFCAMKADDG-PCK--AMIRSYFFNMYTHQCEEFIYGGCEGN-ENRFDTLEECKKTCIP-*
+>P1;gi|1083171|pir||S53325 tissue factor pathway inhibitor - rabbit ... [ score 89 E 2e-17 ] [ range 49 .. 105 ] [ duplicate a ]
+sequence
+--LHSFCALKADNG-PCR--AMIRNYFFNIHTQQCEEFIYGGCEGN-QNRFESLEECEEKCVR-*
+>P1;gi|8394443|ref|NP_058896.1| tissue factor pathway inhibitor [Rat... [ score 89 E 3e-17 ] [ range 47 .. 105 ] [ duplicate a ]
+sequence
+KPLHTFCAMKAEDG-PCK--AMIRSYYFNMNSHQCEEFIYGGCRGN-KNRFDTLEECRKTCIP-*
+>P1;gi|6094466|sp|Q28864|TFPI_MACMU Tissue factor pathway inhibitor ... [ score 86 E 2e-16 ] [ range 50 .. 106 ] [ duplicate b ]
+sequence
+--MHSFCAFKPDDG-PCK--AIMKRFFFNIFTRQCEEFIYGGCGGN-QNRFESMEECKKVCTR-*
+>P1;gi|2924620|dbj|BAA25024.1| hepatocyte growth factor activator in... [ score 86 E 2e-16 ] [ range 32 .. 88 ] [ duplicate a ]
+sequence
+RSIHDFCLVSKVVG-RCR--ASMPRWWYNVTDGSCQLFVYGGCDGN-SNNYLTKEECLKKC---*
+>P1;gi|2924620|dbj|BAA25024.1| hepatocyte growth factor activator in... [ score 86 E 2e-16 ] [ range 131 .. 186 ] [ duplicate b ]
+sequence
+----EYCTANAVTG-PCR--ASFPRWYFDVERNSCNNFIYGGCRGN-KNSYRSEEACMLRCFRQ*
+>P1;gi|4103171|gb|AAD01700.1| tissue factor pathway inhibitor beta [... [ score 85 E 3e-16 ] [ range 50 .. 106 ] [ duplicate b ]
+sequence
+--MHSFCAFKADDG-PCK--AIMKRFFFNIFTRQCEEFIYGGCEGN-QNRFESLEECKKMCTR-*
+>P1;gi|125934|sp|P19761|TFPI_RABIT Tissue factor pathway inhibitor p... [ score 85 E 3e-16 ] [ range 44 .. 102 ] [ duplicate a ]
+sequence
+KPTHSFCAMKVDDG-PCR--AYIKRFFFNILTHQCEEFIYGGCEGN-ENRFESLEECKEKCAR-*
+>P1;gi|124810|sp|P10280|IP52_ANESU Protease inhibitor 5 II (SA5 II) ... [ score 85 E 5e-16 ] [ range 1 .. 55 ]
+sequence
+--INGDCELPKVVG-PCR--ARFPRYYYNSSSKRCEKFIYGGCGGN-ANNFHTLEECEKVC---*
+>P1;gi|17566852|ref|NP_505495.1| bikunin (5K158) [Caenorhabditis ele... [ score 84 E 8e-16 ] [ range 260 .. 319 ] [ duplicate a ]
+sequence
+KPTRKSCELPPAIG-NGP--FNIPRYYFDRVTKKCERFFYSGRDGN-DNRFYKKNKCERLCLRK*
+>P1;gi|17566852|ref|NP_505495.1| bikunin (5K158) [Caenorhabditis ele... [ score 84 E 8e-16 ] [ range 972 .. 1029 ] [ duplicate b ]
+sequence
+-PPSSQCSQPAASG-QGD--QYLSRYFFSPEYRQCLHFIYSGEGGN-QNNFDSLTDCLETCVA-*
+>P1;gi|17566852|ref|NP_505495.1| bikunin (5K158) [Caenorhabditis ele... [ score 84 E 8e-16 ] [ range 769 .. 819 ] [ duplicate e ]
+sequence
+------CEQAIEEG-VGN--VLLRRWYFDPATRLCQPFYYKGFKGN-QNNFQSFDSCSRAC---*
+>P1;gi|6680972|ref|NP_031764.1| procollagen, type VII, alpha 1 [Mus ... [ score 83 E 1e-15 ] [ range 2873 .. 2934 ]
+sequence
+QRGSDLCSLPLDEG-SCT--AYTLRWYHRAVPGACHPFVYGGCGGN-ANRFGTREACERRCPPQ*
+>P1;gi|39594650|emb|CAE72228.1| Hypothetical protein CBG19340 [Caeno... [ score 83 E 2e-15 ] [ range 929 .. 981 ] [ duplicate b ]
+sequence
+------CSQPAASG-HGE--QYLSRYFYSPEYRQCLHFIYSGERGN-LNNFESLTDCLETCVA-*
+>P1;gi|39594650|emb|CAE72228.1| Hypothetical protein CBG19340 [Caeno... [ score 83 E 2e-15 ] [ range 730 .. 780 ] [ duplicate e ]
+sequence
+------CEQAIEEG-IGN--VLLRRWYFDPATRLCQPFYYKGFKGN-QNNFMSFDTCNRAC---*
+>P1;gi|39594650|emb|CAE72228.1| Hypothetical protein CBG19340 [Caeno... [ score 83 E 2e-15 ] [ range 865 .. 918 ] [ duplicate f ]
+sequence
+-PSNNLCEQPMDIG-FGG--LSEHRWAF--SNGQCTSFLYAGQGGN-MNNFLTRNDCVKTC---*
+>P1;gi|25154128|ref|NP_741560.1| MEChanosensory abnormality MEC-1, a... [ score 83 E 2e-15 ] [ range 44 .. 99 ]
+sequence
+----DFCQLPVDTG-KCS--QQLVRYYYDAAVDECKRFTFSGCGGN-SNRFMRRAHCRNRCVKQ*
+>P1;gi|33149359|gb|AAO64414.1| type VII collagen [Canis familiaris] [ score 83 E 2e-15 ] [ range 2862 .. 2921 ]
+sequence
+QDGNDPCLLPLDEG-SCT--AYTLRWYHRAVTEACHPFVYGGCGGN-ANRFGTREACEHRC---*
+>P1;gi|14285359|sp|P81547|AXP1_ANTAF Kunitz-type proteinase inhibito... [ score 82 E 4e-15 ] [ range 2 .. 57 ]
+sequence
+-PVNEDCLLPKKVG-PCR--AAVPRFYYNSDSGKCEGFTYGGCHAN-ANNFKTKDECKNAC---*
+>P1;gi|1181914|gb|AAB35415.1| kalicludine 3, AsKC3 [Anemonia sulcata... [ score 82 E 5e-15 ] [ range 1 .. 55 ]
+sequence
+--INGDCELPKVVG-RCR--ARFPRYYYNLSSRRCEKFIYGGCGGN-ANNFHTLEECEKVC---*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 80 E 1e-14 ] [ range 1265 .. 1321 ] [ duplicate b ]
+sequence
+QSMEDICRSRQDAG-PCE--TYSDQWFYNAFSQECETFTYGGCGGN-LNRFRSKDECEQRC---*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 80 E 1e-14 ] [ range 1372 .. 1427 ] [ duplicate c ]
+sequence
+---RDACHLNVDQG-RCK--GAFDSWYYEVATGSCVTFKYTGCGGN-ANRFASKDQCESLCVK-*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 80 E 1e-14 ] [ range 1443 .. 1499 ] [ duplicate e ]
+sequence
+--INSVCDEAKDTG-PCT--NFVTKWYYNKADGTCNRFHYGGCQGT-NNRFDNEQQCKAACQN-*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 80 E 1e-14 ] [ range 1621 .. 1674 ] [ duplicate f ]
+sequence
+------CYAVPDPG-SCG--DYRLVWHYSATSNSCRQFYYGGCAGN-TNRFETRDKCETSCVAK*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 80 E 1e-14 ] [ range 1145 .. 1202 ] [ duplicate i ]
+sequence
+-PGKGRCYLPRVDG-PCD--QLQPRYYYDHSKKHCVAFWWRGCLGN-ANNFNSFEECSMFC---*
+>P1;gi|544480|sp|P36992|AMBP_PLEPL AMBP protein precursor [Contains:... [ score 80 E 1e-14 ] [ range 288 .. 342 ] [ duplicate b ]
+sequence
+--TEAVCRLPMAPE-PCT--GQPTIWAFDFVTGSCMPYKDGICQAN-ANQFYSRAECQEYC---*
+>P1;gi|37515226|gb|AAM45359.2| Mechanosensory abnormality protein 1,... [ score 80 E 2e-14 ] [ range 1363 .. 1426 ] [ duplicate d ]
+sequence
+--LTQACLQPFDTT-SCS--AEKPQYYFDMSSGICKMFWFGNCKGN-QNIFSTLEACQWICERK*
+>P1;gi|6164595|gb|AAF04457.1| lacunin [Manduca sexta] [ score 79 E 2e-14 ] [ range 2201 .. 2256 ] [ duplicate d ]
+sequence
+-PLTEMCFMEKDPG-PCT--DTETRWVYDYKLGKCVTFEYGGCGGN-RNNFPTEEYCQYYC---*
+>P1;gi|6164595|gb|AAF04457.1| lacunin [Manduca sexta] [ score 79 E 2e-14 ] [ range 2461 .. 2516 ] [ duplicate e ]
+sequence
+----DPCKQVVEPG-DCT--SRYVMWYYDNVRDTCLQFIYGGCHGN-ENRFETLEDCERKCRQR*
+>P1;gi|6164595|gb|AAF04457.1| lacunin [Manduca sexta] [ score 79 E 2e-14 ] [ range 2065 .. 2123 ] [ duplicate h ]
+sequence
+QPERDQCRLPIDRG-SCS--GNFGRWGFNSETRRCEQFMWGGCEGN-TNRFSSEIACIQRC---*
+>P1;gi|6164595|gb|AAF04457.1| lacunin [Manduca sexta] [ score 79 E 2e-14 ] [ range 2546 .. 2601 ] [ duplicate j ]
+sequence
+EPIAEECRTPESLV-PCG--ANITTYYYDQESRSCVQGDIGGCR-Y-ANSFRTEEECERRC---*
+>P1;gi|3913368|sp|P81162|CRPT_BOOMI Protease inhibitor carrapatin [ score 79 E 2e-14 ] [ range 6 .. 58 ]
+sequence
+----KQCVPTADPG-PCK--GFMPMWWYNIFTSQCEEFIYGGCQGN-DNRYRTKEECDKTC---*
+>P1;gi|33504531|ref|NP_878292.1| tissue factor pathway inhibitor a [... [ score 79 E 2e-14 ] [ range 38 .. 92 ] [ duplicate a ]
+sequence
+---HQSCALRKDEG-PCK--AMKDRFYFDIDTGRCEPFEYGGCQGN-ANNFETLQDCEEMCL--*
+>P1;gi|33112218|sp|O73683|A4_TETFL Alzheimer's disease amyloid A4 pr... [ score 80 E 2e-14 ] [ range 323 .. 378 ]
+sequence
+--VRMFCWAHADTG-PCT--ASMPSWYFDADGRTMYELMYGGCGGN-MNNFESEEYCLSVC---*
+>P1;gi|7507427|pir||T33216 hypothetical protein T07H8.4 - Caenorhabd... [ score 79 E 3e-14 ] [ range 1789 .. 1845 ] [ duplicate d ]
+sequence
+----DPCMESLDRG-SCE--AMSNRYYFNKRARQCKGFHYTGCGKS-GNNFLTKEECQTKCEKR*
+>P1;gi|7507427|pir||T33216 hypothetical protein T07H8.4 - Caenorhabd... [ score 79 E 3e-14 ] [ range 1665 .. 1721 ] [ duplicate f ]
+sequence
+----EVCFEPPDRG-ICG--KNLKRWTYG--NQKCTSFTYSGCGGN-RNRFATQDICENTC---*
+>P1;gi|3205213|gb|AAC19410.1| unknown [Cyprinus carpio] [ score 79 E 3e-14 ] [ range 98 .. 153 ] [ duplicate a ]
+sequence
+---KSPCQLDDEPG-PCR--GLVPRYFFDFKSQECKRFFYGGCFGN-ANNFKTIKECHERCLP-*
+>P1;gi|3205213|gb|AAC19410.1| unknown [Cyprinus carpio] [ score 79 E 3e-14 ] [ range 39 .. 95 ] [ duplicate b ]
+sequence
+---HHSCALKKDEG-PCK--ALKDRFYFDTDTGRCESFEYGGCQGN-ENNFETLQECEKMCLVK*
+>P1;gi|17558474|ref|NP_505018.1| thrombospondin (169.6 kD) (5I321) [... [ score 79 E 3e-14 ] [ range 1501 .. 1557 ] [ duplicate a ]
+sequence
+---KDACQLPKVQG-PCS--GKHSYYYYNTASHQCETFTYGGCLGN-TNRFATIEECQARCPSK*
+>P1;gi|12856531|dbj|BAB30697.1| unnamed protein product [Mus musculus] [ score 79 E 4e-14 ] [ range 238 .. 294 ] [ duplicate b ]
+sequence
+KQTEDYCLASYKVG-RCR--GSFPRWYYDPKEQICKSFTFGGCLGN-KNNYLREEECMLAC---*
+>P1;gi|40215885|gb|AAR82794.1| LD02520p [Drosophila melanogaster] [ score 78 E 5e-14 ] [ range 4 .. 59 ]
+sequence
+-PTYSVCAEPPEAG-ECD--NRTTAWFYDSENMACTAFTYTGCGGN-GNRFETRDQCERQC---*
+>P1;gi|27817310|emb|CAD61073.1| SI:dZ44F8.1 (novel protein similar t... [ score 78 E 5e-14 ] [ range 98 .. 153 ] [ duplicate a ]
+sequence
+---KSPCHLEDEPG-PCR--GLVPRYFFDQKSQECKQFFYGGCFGN-ANNFKTIKACQQRCQP-*
+>P1;gi|17564964|ref|NP_507993.1| papilin (5V147) [Caenorhabditis ele... [ score 78 E 5e-14 ] [ range 461 .. 513 ] [ duplicate a ]
+sequence
+----KECVGVSLPG-PCH--GSFQRYFYNEDSQKCEQFTYSGCGGN-GNNYESREACEDRC---*
+>P1;gi|17564964|ref|NP_507993.1| papilin (5V147) [Caenorhabditis ele... [ score 78 E 5e-14 ] [ range 1119 .. 1175 ] [ duplicate d ]
+sequence
+--IEEKCLQPVEPG-PCK--NFADRWYFNVDDGTCHPFKYGGCAGN-RNHFFTQKECEVHCAR-*
+>P1;gi|17564964|ref|NP_507993.1| papilin (5V147) [Caenorhabditis ele... [ score 78 E 5e-14 ] [ range 1827 .. 1879 ] [ duplicate f ]
+sequence
+-----LCIQPVVKG-SCQ--EAHLRYYYDRVTDSCRLFEYSGCDGN-ANNFGSLEDCQRLCV--*
+>P1;gi|17564964|ref|NP_507993.1| papilin (5V147) [Caenorhabditis ele... [ score 78 E 5e-14 ] [ range 2154 .. 2215 ] [ duplicate i ]
+sequence
+---KSVCQIKPSEG-RCN--DSETQYFYSPRDNRCKLFFFRGCGGN-LNRFERKSDCEALCL--*
+>P1;gi|39594396|emb|CAE71974.1| Hypothetical protein CBG19048 [Caeno... [ score 78 E 6e-14 ] [ range 45 .. 100 ] [ duplicate a ]
+sequence
+----DFCQLPVDIG-KCS--QQLVRYYYDPAVDECKRFTFSGCGGN-SNRFMRRAHCRNRCVKQ*
+>P1;gi|39594396|emb|CAE71974.1| Hypothetical protein CBG19048 [Caeno... [ score 78 E 6e-14 ] [ range 1602 .. 1661 ] [ duplicate e ]
+sequence
+------CHLPMHIG-YGK--QAGFRFYYDRSYGKCSQMWYLGCGGN-ANNFYSYEICQRTCSR-*
+>P1;gi|39594396|emb|CAE71974.1| Hypothetical protein CBG19048 [Caeno... [ score 78 E 6e-14 ] [ range 1391 .. 1454 ] [ duplicate g ]
+sequence
+--LTQACIQPFDKN-SCS--AEQPQYYFDASSGICKMFWFGNCKGN-ENIFSTLESCQWICERK*
+>P1;gi|39585368|emb|CAE61690.1| Hypothetical protein CBG05636 [Caeno... [ score 78 E 6e-14 ] [ range 858 .. 917 ] [ duplicate f ]
+sequence
+KPPVSTCEADIDVG-ECA--GVFSRFAFDKSINACRSFTYGGCGGN-ANNFATLQECTNKCVNR*
+>P1;gi|39585368|emb|CAE61690.1| Hypothetical protein CBG05636 [Caeno... [ score 78 E 6e-14 ] [ range 2102 .. 2163 ] [ duplicate i ]
+sequence
+---KSVCQIKPAEG-RCN--ESETQYFYSPRDNRCKLFFFRGCGGN-LNRFEKKSDCEALCL--*
+>P1;gi|27465613|ref|NP_775164.1| tissue factor pathway inhibitor 2 [... [ score 77 E 7e-14 ] [ range 34 .. 89 ] [ duplicate a ]
+sequence
+----EICLLPLDMG-PCK--ALIPKFYYDRDQKKCRRFKYGGCLGN-ANNFHSRKLCEHTCGNK*
+>P1;gi|27465613|ref|NP_775164.1| tissue factor pathway inhibitor 2 [... [ score 77 E 7e-14 ] [ range 150 .. 208 ] [ duplicate b ]
+sequence
+KSIPSFCSSPKDEG-LCS--ANVTRYYFNSRNKTCETFTYTGCGGN-ENNFYYLDACNRACVK-*
+>P1;gi|2988354|dbj|BAA25305.1| alpha-1-microglobulin/bikunin [Cavia ... [ score 78 E 7e-14 ] [ range 219 .. 281 ] [ duplicate a ]
+sequence
+QPVTDFCQLGHSAG-PCL--GLFKRYFYNGSSMACEIFHYGGCLGN-GNNFNSEKECLQTC---*
+>P1;gi|33416634|gb|AAH55972.1| MGC68843 protein [Xenopus laevis] [ score 77 E 8e-14 ] [ range 84 .. 143 ] [ duplicate c ]
+sequence
+KKVPKACRMVPDEG-PCR--GYIKRYAYNMKTMRCEQFIYGGCYGN-DNNFQDKDSCINFCAPR*
+>P1;gi|39581092|emb|CAE73170.1| Hypothetical protein CBG20566 [Caeno... [ score 77 E 1e-13 ] [ range 1263 .. 1319 ] [ duplicate a ]
+sequence
+QSMEDICRSRQDAG-PCE--TYSDQWFYNAFSQQCETFTYGGCGGN-LNRFRTKDECERRC---*
+>P1;gi|39581092|emb|CAE73170.1| Hypothetical protein CBG20566 [Caeno... [ score 77 E 1e-13 ] [ range 1501 .. 1557 ] [ duplicate b ]
+sequence
+---KDACSLPKVQG-PCS--GKHSYYYFNSANQQCETFVYGGCLGN-TNRFATIEECNARCSQR*
+>P1;gi|39581092|emb|CAE73170.1| Hypothetical protein CBG20566 [Caeno... [ score 77 E 1e-13 ] [ range 1846 .. 1903 ] [ duplicate c ]
+sequence
+--TTDFCTLERNAG-PCT--DSISMWYFDHSEQDCKPFTYGGCRGN-QNRFVSKEQCLQSCRDK*
+>P1;gi|39581092|emb|CAE73170.1| Hypothetical protein CBG20566 [Caeno... [ score 77 E 1e-13 ] [ range 1371 .. 1426 ] [ duplicate d ]
+sequence
+---REACHLNVDQG-RCK--GAFDSWYYEVATGSCVSFKYTGCGGN-ANRFPSKDQCEQLCLK-*
+>P1;gi|39581092|emb|CAE73170.1| Hypothetical protein CBG20566 [Caeno... [ score 77 E 1e-13 ] [ range 1903 .. 1959 ] [ duplicate e ]
+sequence
+KSSEDTCTLRPEPG-PCR--LGLEKYFYDPVTQSCHMFHYGGCEGN-ANRFDSELDCFRQC---*
+>P1;gi|39581092|emb|CAE73170.1| Hypothetical protein CBG20566 [Caeno... [ score 77 E 1e-13 ] [ range 1444 .. 1499 ] [ duplicate f ]
+sequence
+---NSVCDEAKDTG-PCT--NFATKWYYNQADGTCNRFHYGGCQGT-NNRFDNEQQCKAACQN-*
+>P1;gi|39581092|emb|CAE73170.1| Hypothetical protein CBG20566 [Caeno... [ score 77 E 1e-13 ] [ range 1618 .. 1671 ] [ duplicate i ]
+sequence
+------CYAVPDVG-SCA--DYQLVWHYSATSNSCRQFYYGGCAGN-TNRFADKEKCETSCVSK*
+>P1;gi|39581092|emb|CAE73170.1| Hypothetical protein CBG20566 [Caeno... [ score 77 E 1e-13 ] [ range 1089 .. 1142 ] [ duplicate k ]
+sequence
+------CNQSQESG-TGS--GYKLAWHYDTTEGRCNQFWYGGCGGN-DNNFATQEMCETICV--*
+>P1;gi|6678311|ref|NP_033390.1| tissue factor pathway inhibitor 2 [M... [ score 77 E 1e-13 ] [ range 150 .. 208 ] [ duplicate b ]
+sequence
+KHIPSFCSSPKDEG-LCS--ANVTRFYFNSRNKTCETFTYTGCGGN-ENNFYYLDACHRACVK-*
+>P1;gi|13346812|gb|AAB99830.2| thrombospondin [Haemonchus contortus] [ score 77 E 1e-13 ] [ range 1391 .. 1446 ] [ duplicate a ]
+sequence
+---RQSCHLPLDVG-KCQ--GSFDSWYYEMATGSCVEFKYSGCSGN-ANRFASREECENTCVR-*
+>P1;gi|13346812|gb|AAB99830.2| thrombospondin [Haemonchus contortus] [ score 77 E 1e-13 ] [ range 1517 .. 1572 ] [ duplicate b ]
+sequence
+----DACTLPKVQG-PCS--GKHEYYYFNTVSMSCEKFTYGGCLGN-TNRFSTLDECQSRCQRK*
+>P1;gi|13346812|gb|AAB99830.2| thrombospondin [Haemonchus contortus] [ score 77 E 1e-13 ] [ range 1075 .. 1128 ] [ duplicate d ]
+sequence
+------CALPQDQG-TSS--GYKLVWYYDTAEGRCSQFWYGGCDGN-DNRFATKEQCETICV--*
+>P1;gi|22901764|gb|AAN10061.1| Kunitz-like protease inhibitor precur... [ score 77 E 1e-13 ] [ range 387 .. 445 ] [ duplicate b ]
+sequence
+EPEKETCSQPIEVG-PCK--AMLKRYAYDNKKNKCVRFIYGGCKGN-KNNFESMEECTRTCKK-*
+>P1;gi|22901764|gb|AAN10061.1| Kunitz-like protease inhibitor precur... [ score 77 E 1e-13 ] [ range 513 .. 569 ] [ duplicate h ]
+sequence
+EPEKETCSQPIEAG-PCK--AMVRRFAYDNAKEKCVEFFYGGCKGN-KNNFETMEDCTFTC---*
+>P1;gi|31241999|ref|XP_321430.1| ENSANGP00000022061 [Anopheles gambi... [ score 76 E 3e-13 ] [ range 1920 .. 1975 ] [ duplicate b ]
+sequence
+----DVCQDAVQAG-QCT--ESIPMYYYDSRTHACYAFNYSGCEGN-GNRFASAEECEGTCVHQ*
+>P1;gi|31241999|ref|XP_321430.1| ENSANGP00000022061 [Anopheles gambi... [ score 76 E 3e-13 ] [ range 1719 .. 1774 ] [ duplicate e ]
+sequence
+---RSQCQLPMDNG-DCS--PYEARYYFSTQTGACELFTYTGCGGN-GNNFQRKEECERSC---*
+>P1;gi|31241999|ref|XP_321430.1| ENSANGP00000022061 [Anopheles gambi... [ score 76 E 3e-13 ] [ range 1861 .. 1913 ] [ duplicate g ]
+sequence
+----SRCEEVPDYG-DGD--GDEILFYYNAERQSCERFRYSGAGGN-ANRYRSEEECERVC---*
+>P1;gi|31241999|ref|XP_321430.1| ENSANGP00000022061 [Anopheles gambi... [ score 76 E 3e-13 ] [ range 1635 .. 1689 ] [ duplicate i ]
+sequence
+---KDICFLPAEIG-ECQ--NYTAHWYFDTKDERCRQFYYGGCGGN-GNNFADEQSCINRCI--*
+>P1;gi|34860765|ref|XP_345469.1| similar to eppin [Rattus norvegicus] [ score 75 E 3e-13 ] [ range 128 .. 184 ] [ duplicate a ]
+sequence
+-PYEEPCLLPSDAG-NCK--DTLTHWYFDSQKHKCRAFTYSGCGGN-SNNFLSKADCRNACM--*
+>P1;gi|34860765|ref|XP_345469.1| similar to eppin [Rattus norvegicus] [ score 75 E 3e-13 ] [ range 290 .. 346 ] [ duplicate c ]
+sequence
+KSLPSMCTLPMEKG-ECR--AIFVRWYYDTKTKKCDWFHYGGCRGN-ENNFLSRNQCQTVC---*
+>P1;gi|2507586|sp|P04366|AMBP_PIG AMBP protein precursor [Contains: ... [ score 76 E 3e-13 ] [ range 204 .. 266 ] [ duplicate a ]
+sequence
+QPVADFCQLGYSQG-PCL--GMIKRYFYNGSSMACETFHYGGCMGN-GNNFVSEKECLQTC---*
+>P1;gi|5730091|ref|NP_006519.1| tissue factor pathway inhibitor 2 [H... [ score 75 E 3e-13 ] [ range 152 .. 204 ] [ duplicate b ]
+sequence
+KKIPSFCYSPKDEG-LCS--ANVTRYYFNPRYRTCDAFTYTGCGGN-DNNFVSREDC-------*
+>P1;gi|41151247|ref|XP_372869.1| similar to dJ601O1.1 (novel protein... [ score 75 E 4e-13 ] [ range 83 .. 140 ]
+sequence
+--LKDPCKLDMNFG-SCY--EVHFRYFYNRTSKRCETFVFSGCNGN-LNNFKLKIEREVACVAK*
+>P1;gi|17368331|sp|P82968|MCPI_MELCP Protease inhibitor (McaPI) [ score 75 E 4e-13 ] [ range 142 .. 195 ]
+sequence
+----DACSLKKVVG-PCR--GAFRRYYFDSVSGKCEEFVYGGCGGN-DNNFKTLDACQKRCM--*
+>P1;gi|11559520|gb|AAG37995.1| extracellular matrix protein papilin ... [ score 75 E 5e-13 ] [ range 1668 .. 1721 ] [ duplicate a ]
+sequence
+---KHVCLLPKSAG-PCT--GFTKKWYFDVDRNRCEEFQYGGCYGT-NNRFDSLEQCQGTC---*
+>P1;gi|11559520|gb|AAG37995.1| extracellular matrix protein papilin ... [ score 75 E 5e-13 ] [ range 1606 .. 1662 ] [ duplicate b ]
+sequence
+EPPQKACGLPKETG-TCN--NYSVKYYFDTSYGGCARFWYGGCDGN-DNRFESEAECKDTC---*
+>P1;gi|44371094|gb|EAI79842.1| unknown [environmental sequence] [ score 75 E 5e-13 ] [ range 29 .. 84 ]
+sequence
+EPLSDTCYLTPDPG-LCM--AAFPRYYYDSDAEQCKEFIWGGCGGV-VP-FETMEDCKQGC---*
+>P1;gi|29423262|gb|AAO84907.1| extracellular matrix protein papilin ... [ score 74 E 6e-13 ] [ range 1846 .. 1902 ] [ duplicate d ]
+sequence
+---KDICEIPAEVG-ECA--NYVTSWYYDTQDQACRQFYYGGCGGN-ENRFPTEESCLARCDRK*
+>P1;gi|29423262|gb|AAO84907.1| extracellular matrix protein papilin ... [ score 74 E 6e-13 ] [ range 1782 .. 1843 ] [ duplicate e ]
+sequence
+QPLKDRCALPKQTG-DCS--EKLAKWHFSESEKRCVPFYYSGCGGN-KNNFPTLESCEDHCPRQ*
+>P1;gi|29423262|gb|AAO84907.1| extracellular matrix protein papilin ... [ score 74 E 6e-13 ] [ range 1996 .. 2051 ] [ duplicate h ]
+sequence
+-PTVAQCSQPADPG-QCD--KWALHWNYNETEGRCQSFYYGGCGGN-DNRFATEEECSARC---*
+>P1;gi|29423262|gb|AAO84907.1| extracellular matrix protein papilin ... [ score 74 E 6e-13 ] [ range 1915 .. 1975 ] [ duplicate i ]
+sequence
+QPSRDVCDEEPAPG-ECS--TWVLKWHFDRKIGACRQFYYGNCGGN-GNRFETENDCQQRCLSQ*
+>P1;gi|14285360|sp|P81548|AXP2_ANTAF Kunitz-type proteinase inhibito... [ score 74 E 6e-13 ] [ range 1 .. 55 ]
+sequence
+--INSICLLPSDGG-VCR--GRFTNYYYNSRTRRCETFRYGGCGGN-ANNFHTLRQCQATC---*
+>P1;gi|29423264|gb|AAO84908.1| extracellular matrix protein papilin ... [ score 74 E 7e-13 ] [ range 2251 .. 2305 ] [ duplicate i ]
+sequence
+----DVCNEPVTTG-PCT--DWQTKYYFNTASQACEPFTYGGCDGT-GNRFSDLFECQTVCLA-*
+>P1;gi|29423264|gb|AAO84908.1| extracellular matrix protein papilin ... [ score 74 E 7e-13 ] [ range 2315 .. 2371 ] [ duplicate l ]
+sequence
+---KEICLLPVATG-RCN--GHERRWYYDDEAGNCVSFIYAGCSGN-QNNFRSFEACTNQC---*
+>P1;gi|31418907|gb|AAH53239.1| Unknown (protein for MGC:64075) [Dani... [ score 74 E 9e-13 ] [ range 234 .. 289 ] [ duplicate a ]
+sequence
+QSLHH-CLVPKKEG-PCR--GSFPRWHYNAATEKCEEFKFGGCVPN-RNNYLALNECQSAC---*
+>P1;gi|18700030|ref|NP_570957.1| papilin, proteoglycan-like sulfated... [ score 74 E 1e-12 ] [ range 747 .. 803 ]
+sequence
+-PVR--CLLPSAQG-SCG--DWAARWYFVASVGRCNRFWYGGCHGN-ANNFASEQECMNTCRGQ*
+>P1;gi|14518287|gb|AAK64495.1| amyloid precursor protein [Danio rerio] [ score 95 E 3e-19 ] [ range 290 .. 345 ]
+sequence
+---REVCFASAETG-PCR--AMLSRWYYVREERRCAPFIYGGCGGN-RNNFESEEYCLSVCSG-*
+>P1;gi|348615|pir||A44180 taicatoxin serine proteinase inhibitor com... [ score 90 E 2e-17 ] [ range 3 .. 59 ]
+sequence
+--RPKFCHLPPKPG-PCR--AAIPRFYYNPHSKQCEKFIYGGCHGN-ANKFKTPDECNYTCLG-*
+>P1;gi|125039|sp|P00985|IVB2_HEMHA Venom basic protease inhibitor II... [ score 88 E 6e-17 ] [ range 1 .. 57 ]
+sequence
+--RPDFCELPAETG-LCK--AYIRSFHYNLAAQQCLQFIYGGCGGN-ANRFKTIDECRRTCVG-*
+>P1;gi|125040|sp|P00986|IVB2_NAJNI Venom basic protease inhibitor II... [ score 85 E 3e-16 ] [ range 1 .. 57 ]
+sequence
+--RPRFCELPAETG-LCK--ARIRSFHYNRAAQQCLEFIYGGCGGN-ANRFKTIDECHRTCVG-*
+>P1;gi|25294064|pir||A59399 Long epsilon-dendrotoxin Arg55, subunit ... [ score 84 E 6e-16 ] [ range 4 .. 59 ]
+sequence
+---RTFCKLPAEPG-PCK--ASIPAFYYNWAAKKCQLFHYGGCKGN-ANRFSTIEKCRRACVG-*
+>P1;gi|125050|sp|P20229|IVBT_NAJNA Venom trypsin inhibitor >gi|10436... [ score 84 E 9e-16 ] [ range 1 .. 57 ]
+sequence
+--RPGFCELPAAKG-LCK--AHKPAFYYNKDSHRCQKFIYGGCGGN-ANRFRTIDECNRTCVG-*
+>P1;gi|32313599|ref|NP_857593.1| hepatocyte growth factor activator ... [ score 84 E 1e-15 ] [ range 391 .. 443 ] [ duplicate a ]
+sequence
+------CVDLPDTG-LCK--ESIPRWYYNPFSEHCARFTYGGCYGN-KNNFEEEQQCLESCRG-*
+>P1;gi|24459206|gb|AAL30070.1| Kunitz inhibitor c [Bungarus candidus] [ score 82 E 3e-15 ] [ range 32 .. 88 ]
+sequence
+--RPPFCNLLPEPG-RCN--AIVRAFYYNSRLRKCLEFPYGGCGGN-ANNFKTIDECQRTCAG-*
+>P1;gi|7507427|pir||T33216 hypothetical protein T07H8.4 - Caenorhabd... [ score 81 E 5e-15 ] [ range 1730 .. 1783 ] [ duplicate c ]
+sequence
+---PRICSFSPDWG-SCN--QLRYVWFYNLTRGTCDQFLYGGCGGN-PNRFDTFEICQKAC---*
+>P1;gi|13959393|sp|P82966|IVBC_OPHHA Venom chymotrypsin inhibitor [ score 81 E 5e-15 ] [ range 2 .. 58 ]
+sequence
+--RPKFCELPPEPG-LCN--ARKTFFYYSLHSHACQKFIYGGCGGN-ANKFKTIDECHRTCVG-*
+>P1;gi|17566852|ref|NP_505495.1| bikunin (5K158) [Caenorhabditis ele... [ score 80 E 1e-14 ] [ range 202 .. 256 ] [ duplicate d ]
+sequence
+---PNPCSLSPDKG-PGS--VTVNMWYYDPTSTTCSPFMYLGKGGN-SNRFETSEECLETC---*
+>P1;gi|33563278|ref|NP_035594.1| serine protease inhibitor, Kunitz t... [ score 80 E 1e-14 ] [ range 35 .. 90 ] [ duplicate a ]
+sequence
+---HESCGVSKVVG-KCR--ASIPRWWYNITDGSCQPFVYGGCEGN-GNNYQSKEECLDKCAG-*
+>P1;gi|3205213|gb|AAC19410.1| unknown [Cyprinus carpio] [ score 80 E 2e-14 ] [ range 208 .. 263 ] [ duplicate c ]
+sequence
+--RPKLCFSPIDRG-NCE--GSEGRYMYNPRTKRCQMFHYSGCGGN-KNNFVKRGDCIKMCM--*
+>P1;gi|15321638|gb|AAK95523.1| textilinin [Pseudonaja textilis texti... [ score 80 E 2e-14 ] [ range 27 .. 81 ]
+sequence
+--RPKFCELLPDTG-SCE--DFTGAFHYSTRDRECIEFIYGGCGGN-ANNFITKEECESTC---*
+>P1;gi|21406614|gb|AAL48420.2| AT18288p [Drosophila melanogaster] [ score 79 E 2e-14 ] [ range 19 .. 73 ]
+sequence
+--RHERCSFIANPG-PCK--GNFEMFAYDMDNNVCVEFIYGGCGGN-PNRFQTKKECILLC---*
+>P1;gi|39594650|emb|CAE72228.1| Hypothetical protein CBG19340 [Caeno... [ score 79 E 3e-14 ] [ range 207 .. 261 ] [ duplicate d ]
+sequence
+---PNPCALSPDKG-PGS--MTVNMWYYDATSTTCSPFMYLGKGGN-SNRFETSEECIDTC---*
+>P1;gi|39594396|emb|CAE71974.1| Hypothetical protein CBG19048 [Caeno... [ score 79 E 4e-14 ] [ range 1742 .. 1795 ] [ duplicate c ]
+sequence
+---PRICSFPPDWG-SCN--QLRYVWFYNLTRGTCDQFLYGGCGGN-PNRFETFEICQKAC---*
+>P1;gi|39594396|emb|CAE71974.1| Hypothetical protein CBG19048 [Caeno... [ score 79 E 4e-14 ] [ range 1677 .. 1735 ] [ duplicate f ]
+sequence
+----EVCFEAPDKG-ICG--KNLQRWTYGAQ--KCTSFTYSGCGGN-RNRFATQNSCEQTCKG-*
+>P1;gi|125041|sp|P00990|IVB2_DABRU Venom basic protease inhibitor II... [ score 78 E 5e-14 ] [ range 3 .. 59 ]
+sequence
+--RPTFCNLAPESG-RCR--GHLRRIYYNLESNKCKVFFYGGCGGN-ANNFETRDECRETCGG-*
+>P1;gi|24459204|gb|AAL30069.1| Kunitz inhibitor b [Bungarus candidus] [ score 77 E 1e-13 ] [ range 32 .. 86 ]
+sequence
+--RPKFCNVPPEPG-RCN--ANVRAFYYNPRLRKCIEFTYGGCGGN-ANNFKSGGECKRAC---*
+>P1;gi|13346812|gb|AAB99830.2| thrombospondin [Haemonchus contortus] [ score 77 E 1e-13 ] [ range 1244 .. 1305 ] [ duplicate b ]
+sequence
+-PRPEVCRSTQDSG-PCQ--DYSDQFYYDAYKGTCQTFIYGGCGGN-LNRFRTEEECMQRC---*
+>P1;gi|13346812|gb|AAB99830.2| thrombospondin [Haemonchus contortus] [ score 77 E 1e-13 ] [ range 1131 .. 1188 ] [ duplicate f ]
+sequence
+-PGIGRCYLPKVEG-PCD--QPQAKYWYDYNTKQCAAFWWRGCHGN-ANNFASWEECSTFC---*
+>P1;gi|24581512|ref|NP_608803.1| CG2816-PA [Drosophila melanogaster]... [ score 77 E 1e-13 ] [ range 34 .. 88 ]
+sequence
+--RVKLCLQPMISG-RCF--GYVESYAYNPIKRHCEPFIYGGCGGN-DNRFSTKAECEFNC---*
+>P1;gi|29423262|gb|AAO84907.1| extracellular matrix protein papilin ... [ score 75 E 3e-13 ] [ range 2128 .. 2180 ] [ duplicate h ]
+sequence
+------CALPPVRG-RCS--DLSRRWYFDERSGECHEFEFTGCRGN-RNNFVSQSDCLNFCIG-*
+>P1;gi|31418907|gb|AAH53239.1| Unknown (protein for MGC:64075) [Dani... [ score 75 E 3e-13 ] [ range 374 .. 429 ] [ duplicate b ]
+sequence
+---KARCVKPPVTG-TCP--GSQTKWYYNPNKRLCYRFNYGGCEGN-QNRFETEAGCMTFCSG-*
+>P1;gi|124926|sp|P00994|ISIK_HELPO Isoinhibitor K >gi|68712|pir||TIH... [ score 75 E 3e-13 ] [ range 3 .. 58 ]
+sequence
+--RPSFCNLPAETG-PCK--ASFRQYYYNSKSGGCQQFIYGGCRGN-QNRFDTTQQCQGVCV--*
+>P1;gi|125047|sp|P00982|IVBK_DENAN Venom basic protease inhibitor K ... [ score 86 E 2e-16 ] [ range 1 .. 57 ]
+sequence
+--AAKYCKLPVRYG-PCK--KKIPSFYYKWKAKQCLPFDYSGCGGN-ANRFKTIEECRRTCVG-*
+>P1;gi|13124567|sp|Q9R097|SPT1_MOUSE Kunitz-type protease inhibitor ... [ score 83 E 1e-15 ] [ range 368 .. 421 ] [ duplicate a ]
+sequence
+-----YCAELPDTG-FCK--ENIPRWYYNPFSERCARFTYGGCYGN-KNNFEEEQQCLESCRG-*
+>P1;gi|17566852|ref|NP_505495.1| bikunin (5K158) [Caenorhabditis ele... [ score 82 E 3e-15 ] [ range 45 .. 100 ] [ duplicate a ]
+sequence
+---ANRCHLPPAVG-YGK--QRMRRFYFDWKTDACHELQYSGIGGN-ENIFMDYEQCERVCRG-*
+>P1;gi|17566852|ref|NP_505495.1| bikunin (5K158) [Caenorhabditis ele... [ score 82 E 3e-15 ] [ range 916 .. 966 ] [ duplicate f ]
+sequence
+----NLCGQPIDVG-FGV--LSEHRWAYSA--GQCTSFLYSGHGGN-MNNFLTRNDCMKTC---*
+>P1;gi|17137680|ref|NP_477435.1| CG6953-PA [Drosophila melanogaster]... [ score 82 E 3e-15 ] [ range 640 .. 694 ]
+sequence
+--AKDICVQAPDPG-PCR--GTYMRYAYDPQNQHCYSFTYGGCRGN-RNNFLTENDCLNTC---*
+>P1;gi|17529566|emb|CAC82583.1| boophilin [Boophilus microplus] [ score 80 E 9e-15 ] [ range 82 .. 139 ] [ duplicate b ]
+sequence
+--SADFCEPAADSG-SCA--GQLERWFYNVQSGECETFVYGGCGGN-DNNYESEEECELVC---*
+>P1;gi|39594650|emb|CAE72228.1| Hypothetical protein CBG19340 [Caeno... [ score 80 E 1e-14 ] [ range 45 .. 100 ] [ duplicate a ]
+sequence
+---ANRCHLPPAVG-YGK--QRMRRFYFDWKTDACHELQYSGIGGN-ENSFMEYEKCEQVCRG-*
+>P1;gi|5730091|ref|NP_006519.1| tissue factor pathway inhibitor 2 [H... [ score 80 E 1e-14 ] [ range 33 .. 86 ] [ duplicate a ]
+sequence
+---AEICLLPLDYG-PCR--ALLLRYYYDRYTQSCRQFLYGGCEGN-ANNFYTWEACDDAC---*
+>P1;gi|7507427|pir||T33216 hypothetical protein T07H8.4 - Caenorhabd... [ score 79 E 2e-14 ] [ range 1663 .. 1723 ] [ duplicate f ]
+sequence
+--SSEVCFEPPDRG-ICT--NPLKRWTY--GNQKCTSFTYSGCGGN-RNRFATQDICENTCNG-*
+>P1;gi|39594396|emb|CAE71974.1| Hypothetical protein CBG19048 [Caeno... [ score 79 E 2e-14 ] [ range 1675 .. 1735 ] [ duplicate f ]
+sequence
+--SSEVCFEPGDKG-ICG--KNLQRWTYGA--QKCTSFTYSGCGGN-RNRFATQNSCEQTCKG-*
+>P1;gi|39585368|emb|CAE61690.1| Hypothetical protein CBG05636 [Caeno... [ score 77 E 9e-14 ] [ range 423 .. 476 ] [ duplicate e ]
+sequence
+---TKECVGASTPG-PCH--GSFQRFFYNEDSQKCEQFNYSGCGGN-GNNYESREACEDRC---*
+>P1;gi|4761576|gb|AAD29408.1| AXO [Drosophila melanogaster] [ score 77 E 1e-13 ] [ range 115 .. 170 ]
+sequence
+----EKCAGPGDPG-PCK--QYIYKWRYEPTTNECTNFIWGGCEGN-QNRFGTEAECLFHCVG-*
+>P1;gi|34610384|gb|AAB66164.2| Hypothetical protein R12A1.3 [Caenorh... [ score 76 E 2e-13 ] [ range 143 .. 197 ]
+sequence
+--STSICSLPLAVG-SCT--APAVRFYYDASSGRCNQFMYSGCGGN-ANNFQSLSSCQGTC---*
+>P1;gi|45383530|ref|NP_989639.1| amyloid beta (A4) precursor protein... [ score 99 E 2e-20 ] [ range 287 .. 342 ]
+sequence
+--VREVCSEQAETG-PCR--AMISRWYFDVAEGKCAPFFYGGCGGN-RNNFDSEEYCMAVCG--*
+>P1;gi|320195|pir||JH0773 Alzheimer's disease amyloid beta protein p... [ score 96 E 2e-19 ] [ range 283 .. 338 ]
+sequence
+--VREVCSEQAETG-PCR--AMISRWYYDVTESKCAQFIYGGCGGN-RNNFESDDYCMAVCG--*
+>P1;gi|33112218|sp|O73683|A4_TETFL Alzheimer's disease amyloid A4 pr... [ score 93 E 2e-18 ] [ range 323 .. 378 ]
+sequence
+--VRMFCWAHADTG-PCT--ASMPSWYFDAVDGRTMELMYGGCGGN-MNNFESEEYCLSVC---*
+>P1;gi|7499668|pir||T21275 hypothetical protein F22E12.1 - Caenorhab... [ score 89 E 4e-17 ] [ range 84 .. 138 ] [ duplicate a ]
+sequence
+---RDRCFQPHDPG-NCY--ADIERWFFDENKKQCVCSWWSGCGGN-SNIYYSYNHCMLICG--*
+>P1;gi|39593342|emb|CAE64812.1| Hypothetical protein CBG09606 [Caeno... [ score 89 E 4e-17 ] [ range 85 .. 139 ] [ duplicate a ]
+sequence
+---RDRCFQPHDPG-HCH--SDIERWFFDQDKKQCVCSWWSGCGGN-SNIYYSYNHCMLICG--*
+>P1;gi|27806743|ref|NP_776414.1| inter-alpha-trypsin inhibitor (prot... [ score 86 E 2e-16 ] [ range 285 .. 338 ] [ duplicate a ]
+sequence
+----EACNLPIVQG-PCR--SYIQLWAFDAVKGKCVRFSYGGCKGN-GNKFYSEKECKEYCG--*
+>P1;gi|2507586|sp|P04366|AMBP_PIG AMBP protein precursor [Contains: ... [ score 85 E 3e-16 ] [ range 270 .. 323 ] [ duplicate a ]
+sequence
+----EACSLPIVSG-PCR--GFFQLWAFDAVQGKCVLFNYGGCQGN-GNQFYSEKECKEYCG--*
+>P1;gi|17564964|ref|NP_507993.1| papilin (5V147) [Caenorhabditis ele... [ score 83 E 1e-15 ] [ range 1323 .. 1377 ] [ duplicate h ]
+sequence
+--VPDRCSFDKDSG-SGK--GYNVKWYFNMKNLRCEQFVFEGLGGN-TNQFETLSECERIC---*
+>P1;gi|39585368|emb|CAE61690.1| Hypothetical protein CBG05636 [Caeno... [ score 83 E 2e-15 ] [ range 1288 .. 1342 ] [ duplicate h ]
+sequence
+--VPDRCSYDKDAG-SGK--GYNVKWYFNMKNLRCEQFVFEGLGGN-TNQFETLSECERIC---*
+>P1;gi|1181912|gb|AAB35413.1| kalicludine 1, AsKC1 [Anemonia sulcata... [ score 81 E 6e-15 ] [ range 1 .. 56 ]
+sequence
+--INKDCLLPMDVG-RCR--ASHPRYYYNSSSKRCEKFIYGGCRGN-ANNFHTLEECEKVCG--*
+>P1;gi|6678311|ref|NP_033390.1| tissue factor pathway inhibitor 2 [M... [ score 80 E 1e-14 ] [ range 34 .. 87 ] [ duplicate a ]
+sequence
+----EICLLPLDAG-PCQ--ALIPKFYYDRDQQKCRRFNYGGCLGN-ANNFHSRDLCQQTCG--*
+>P1;gi|1085207|pir||JC2556 alpha-1-microglobulin/inter-alpha-trypsin... [ score 79 E 2e-14 ] [ range 291 .. 342 ] [ duplicate b ]
+sequence
+------CRLPVDAR-PCT--GQPKIWVFHSNSGLCLDNKKDYCQVN-SNKFYSKRECEEYCG--*
+>P1;gi|1181913|gb|AAB35414.1| kalicludine 2, AsKC2 [Anemonia sulcata... [ score 79 E 3e-14 ] [ range 1 .. 56 ]
+sequence
+--INKDCLLPMDVG-RCR--ARHPRYYYNSSSRRCEKFIYGGCRGN-ANNFITKKECEKVCG--*
+>P1;gi|25154128|ref|NP_741560.1| MEChanosensory abnormality MEC-1, a... [ score 78 E 5e-14 ] [ range 834 .. 892 ] [ duplicate b ]
+sequence
+----DLCDEPLHPK-LCK--NWEIQWFFNSDRGACKSFWYGGCEES-RNFFPDHANCRHSC---*
+>P1;gi|31241999|ref|XP_321430.1| ENSANGP00000022061 [Anopheles gambi... [ score 78 E 7e-14 ] [ range 1782 .. 1835 ] [ duplicate b ]
+sequence
+---QDVCQLPHAYG-ECS--GNEERWFYEPHEQRCVRFAYSGCGGN-GNNFASEAECERSC---*
+>P1;gi|19263328|ref|NP_083601.1| eppin [Mus musculus] >gi|13959369|s... [ score 77 E 1e-13 ] [ range 74 .. 127 ]
+sequence
+---QDICSLPKDSG-YCM--AYFRRWWFNKENSTCQVFIYGGCQGN-NNNFQSQSICQNAC---*
+>P1;gi|2497694|sp|Q62577|AMBP_MERUN AMBP protein precursor [Contains... [ score 82 E 4e-15 ] [ range 284 .. 336 ] [ duplicate a ]
+sequence
+----AACNLPIVQG-PCR--AYIKLWAFDAAQGKCIQFTYGGCKGN-GNKFYSEKECKEYC---*
+>P1;gi|45361537|ref|NP_989345.1| hypothetical protein MGC76314 [Xeno... [ score 81 E 7e-15 ] [ range 279 .. 331 ] [ duplicate b ]
+sequence
+----AACRLPITPG-PCK--AAKTHWAFDAAQGKCVTFAYGGCQGN-GNQFYTEKECKEYC---*
+>P1;gi|12836446|dbj|BAB23659.1| unnamed protein product [Mus musculus] [ score 81 E 8e-15 ] [ range 284 .. 336 ] [ duplicate a ]
+sequence
+----AACNLPIVQG-PCR--AFIKLWAFDAAQGKCIQFHYGGCKGN-GNKFYSEKECKEYC---*
+>P1;gi|4502067|ref|NP_001624.1| alpha-1-microglobulin/bikunin precur... [ score 80 E 1e-14 ] [ range 285 .. 337 ] [ duplicate a ]
+sequence
+----AACNLPIVRG-PCR--AFIQLWAFDAVKGKCVLFPYGGCQGN-GNKFYSEKECREYC---*
+>P1;gi|2497695|sp|Q60559|AMBP_MESAU AMBP protein precursor [Contains... [ score 80 E 1e-14 ] [ range 284 .. 336 ] [ duplicate a ]
+sequence
+----AACSLPIVQG-PCR--AYVELWAFDAAQGKCVQFSYGGCKGN-GNKFYSEKECKEYC---*
+>P1;gi|2988354|dbj|BAA25305.1| alpha-1-microglobulin/bikunin [Cavia ... [ score 80 E 1e-14 ] [ range 285 .. 339 ] [ duplicate a ]
+sequence
+----AACNLPIVPG-PCQ--GSAQLWAFDAIKGKCVRFTYGGCQGN-GNKFYSEKECKEYCGA-*
+>P1;gi|6978497|ref|NP_037033.1| polyprotein 1-microglobulin/bikunin ... [ score 80 E 2e-14 ] [ range 284 .. 336 ] [ duplicate a ]
+sequence
+----AACNLPIVQG-PCR--AFAELWAFDAAQGKCIQFIYGGCKGN-GNKFYSEKECKEYC---*
+>P1;gi|6164595|gb|AAF04457.1| lacunin [Manduca sexta] [ score 80 E 2e-14 ] [ range 2404 .. 2458 ] [ duplicate i ]
+sequence
+----NVCRYDLDPG-PCR--TYEAKYFFDKASRSCREFAYGGCHGG-PNRFSTIDECQEVCRS-*
+>P1;gi|125017|sp|P16344|ITR4_RADMA Trypsin inhibitor IV >gi|112664|p... [ score 79 E 3e-14 ] [ range 2 .. 56 ]
+sequence
+----SICLEPKVVG-PCT--AYFPRFYFDSETGKCTPFIYGGCEGN-SYVDEKLHACRAICRA-*
+>P1;gi|32450561|gb|AAH54142.1| Ambp-prov protein [Xenopus laevis] [ score 79 E 3e-14 ] [ range 279 .. 331 ] [ duplicate b ]
+sequence
+----AACRLPITPG-PCK--TAKTHWAFDAAQGKCVTFSYGGCQGN-GNQFYTEKECKEYC---*
+>P1;gi|41055365|ref|NP_957412.1| similar to alpha-1-microglobulin/bi... [ score 77 E 1e-13 ] [ range 149 .. 203 ] [ duplicate a ]
+sequence
+----AACRLPMDAG-PCK--AFVDLWAFDSSSGKCLSLKYGGCKGN-GNRFYSKKECDEYCGA-*
+>P1;gi|32566146|ref|NP_500002.2| nematode-specific EB region and pan... [ score 76 E 2e-13 ] [ range 744 .. 797 ] [ duplicate a ]
+sequence
+----TLCTEPLRVG-DCK--QSVRQFWYNAETKTCESFLYTGCQGN-NNRFNSLNECQSYCK--*
+>P1;gi|32566146|ref|NP_500002.2| nematode-specific EB region and pan... [ score 76 E 2e-13 ] [ range 853 .. 905 ] [ duplicate b ]
+sequence
+------CSLQVNKG-IGS--GSSYRYYYNNQAKECQSYLFLGCDGN-SNNFPSIEKCQNYC---*
+>P1;gi|32566146|ref|NP_500002.2| nematode-specific EB region and pan... [ score 76 E 2e-13 ] [ range 617 .. 653 ] [ duplicate c ]
+sequence
+-----------------------TRYYYNPTDGQCHPFTFNGFLGN-FNNFQNQADCQLFC---*
+>P1;gi|32566146|ref|NP_500002.2| nematode-specific EB region and pan... [ score 76 E 2e-13 ] [ range 469 .. 523 ] [ duplicate d ]
+sequence
+------CMQPKKES-DAL--GSVPRWYFNSVMGSCQQFLFTGSEVS-PNNFETLDHCESYCK--*
+>P1;gi|17508193|ref|NP_492020.1| tissue factor pathway inhibitor pre... [ score 75 E 4e-13 ] [ range 628 .. 681 ] [ duplicate b ]
+sequence
+-----VCSQPRDVG-RCS--SRISRWYFNADSKTCQTFEYNGCEGN-RNNFASQKSCQNYC---*
+>P1;gi|17508193|ref|NP_492020.1| tissue factor pathway inhibitor pre... [ score 75 E 4e-13 ] [ range 519 .. 571 ] [ duplicate c ]
+sequence
+------CSLSYKSG-SCG--PAVTRWYYDSTTRTCQTYSFNGCDGN-SNNFATQQDCKDYCR--*
+>P1;gi|17508193|ref|NP_492020.1| tissue factor pathway inhibitor pre... [ score 75 E 4e-13 ] [ range 171 .. 226 ] [ duplicate d ]
+sequence
+------CIQPPNEG-YGG--TTLNHWYHDPITGECRELKYQGYGGN-ANNFQTKDHCESYCK--*
+>P1;gi|17508193|ref|NP_492020.1| tissue factor pathway inhibitor pre... [ score 75 E 4e-13 ] [ range 316 .. 352 ] [ duplicate e ]
+sequence
+-----------------------PRFYYDSREGRCIQFSYLGQGGN-FNNFLSQDHCEKFC---*
+>P1;gi|11559520|gb|AAG37995.1| extracellular matrix protein papilin ... [ score 75 E 5e-13 ] [ range 1730 .. 1781 ] [ duplicate a ]
+sequence
+------CEQPVESG-PCA--GNFERWYYDNETDICRPFTYGGCKGN-KNNYPTEHACNYNCR--*
+>P1;gi|40806287|gb|AAR92097.1| protease inhibitor [Marsupenaeus japo... [ score 74 E 9e-13 ] [ range 27 .. 78 ]
+sequence
+-----VCHQPKKVG-NCK--ARIPRFYYSYDDNECLPFFYGGCGEN-LNNFKNYDTCMWLC---*
+>P1;gi|39586163|emb|CAE69239.1| Hypothetical protein CBG15282 [Caeno... [ score 74 E 1e-12 ] [ range 777 .. 830 ] [ duplicate b ]
+sequence
+-----ICSLPPQQG-CSS--SAAARFYFNIVTKECTQFTYNGCSGN-LNNFATLEQCNNFC---*
+>P1;gi|39586163|emb|CAE69239.1| Hypothetical protein CBG15282 [Caeno... [ score 74 E 1e-12 ] [ range 671 .. 723 ] [ duplicate c ]
+sequence
+------CTLSPHKG-VGS--GSSYRYYYNSQTQECESYQYNGCDGN-SNNFATREDCEGYC---*
+>P1;gi|25395646|pir||H88380 protein T22F7.3 [imported] - Caenorhabdi... [ score 74 E 1e-12 ] [ range 531 .. 584 ] [ duplicate a ]
+sequence
+----SLCTQPKRLG-DCT--SAVRRYWYNAATRSCEMFQYTGCQGN-DNNFNTLMACQQKCR--*
+>P1;gi|25395646|pir||H88380 protein T22F7.3 [imported] - Caenorhabdi... [ score 74 E 1e-12 ] [ range 747 .. 800 ] [ duplicate b ]
+sequence
+-----ICSQPPQQG-HCK--ISVGRFYFNIVTRECATFQYNGCNGN-LNNFATQSECNNFC---*
+>P1;gi|25395646|pir||H88380 protein T22F7.3 [imported] - Caenorhabdi... [ score 74 E 1e-12 ] [ range 640 .. 692 ] [ duplicate c ]
+sequence
+------CSLNPDKG-VGS--GRSYRYYFNSNKQSCESFQYEGCDGN-ANNFLTSEDCQHYC---*
+>P1;gi|25395646|pir||H88380 protein T22F7.3 [imported] - Caenorhabdi... [ score 74 E 1e-12 ] [ range 312 .. 366 ] [ duplicate d ]
+sequence
+-----VCIQPLESG-D-E--PSVPRWWYNSATGTCVQFMWTITNAS-PNNFRTAEHCESYCR--*
+>P1;gi|37515226|gb|AAM45359.2| Mechanosensory abnormality protein 1,... [ score 73 E 2e-12 ] [ range 1511 .. 1563 ] [ duplicate b ]
+sequence
+------CLEPVEIG-SCQ--ETYPAFYYDRASRTCRPFAYSGCGGN-SNRFMTVSQCENLCFA-*
+>P1;gi|45429979|ref|NP_991355.1| mature SI [Bos taurus] >gi|115115|s... [ score 95 E 4e-19 ] [ range 36 .. 93 ]
+sequence
+--RPDFCLEPPYTG-PCK--AKMIRYFYNAKAGFCETFVYGGCKAK-SNNFRSAEDCMRTCGGA*
+>P1;gi|33112219|sp|O93279|A4_FUGRU Alzheimer's disease amyloid A4 pr... [ score 93 E 2e-18 ] [ range 288 .. 343 ]
+sequence
+----AVCWAQAESG-PCR--AMLERWYFNPKKRRCVPFLFGGCGGN-RNNFESEEYCLAVCSSS*
+>P1;gi|38570036|gb|AAR24526.1| Kunitz protease inhibitor 1 [Bitis ga... [ score 90 E 1e-17 ] [ range 27 .. 84 ]
+sequence
+--RPEFCNLPADTG-PCK--AYEPRFYYDSVSKECQKFTYGGCKGN-SNNFESMDECRKTCVAS*
+>P1;gi|89823|pir||S10063 isoaprotinin G2 - bovine hybrid >gi|360749|... [ score 90 E 2e-17 ] [ range 1 .. 58 ]
+sequence
+--RPDFCLEPPYTG-PCK--ARMIRYFYNAKAGLCQPFVYGGCRAK-RNNFKSAEDCMRTCGGA*
+>P1;gi|360747|prf||1405218C aprotinin analog [ score 89 E 2e-17 ] [ range 1 .. 58 ]
+sequence
+--RPDFCLEPPYTG-PCK--ARIIRYFYNAKAGLCQPFVYGGCRAK-RNNFKSSEDCMRTCGGA*
+>P1;gi|37788271|gb|AAP04484.1| trypsin inhibitor preproprotein [Vipe... [ score 89 E 2e-17 ] [ range 28 .. 84 ]
+sequence
+---PKFCYLPADPG-RCK--AHIPRFYYDSASNKCNKFIYGGCPGN-ANNFKTWDECRQTCGAS*
+>P1;gi|37788275|gb|AAP04485.1| chymotrypsin inhibitor preproprotein ... [ score 89 E 3e-17 ] [ range 27 .. 84 ]
+sequence
+--RPKFCYLPADPG-RCL--AYMPSFYYDSASNKCKKFIYGGCRGN-ANNFKTWDECRHTCVAS*
+>P1;gi|7546585|pdb|3BTD|I Chain I, The Crystal Structures Of The Com... [ score 88 E 4e-17 ] [ range 1 .. 58 ]
+sequence
+--RPDFCLEPPYTG-PCD--ARIIRYFYNAKAGLCQTFVYGGCRAK-RNNFKSAEDCLRTCGGA*
+>P1;gi|124075|sp|P00975|IBPS_BOVIN Serum basic protease inhibitor (S... [ score 88 E 6e-17 ] [ range 3 .. 60 ]
+sequence
+--RPDFCLEPPYTG-PCK--AAMIRYFYNAKAGFCETFVYGGCRAK-SNNFKSAEDCMRTCGGA*
+>P1;gi|24158838|pdb|1LD5|A Chain A, Structure Of Bpti Mutant A16v [ score 88 E 7e-17 ] [ range 1 .. 58 ]
+sequence
+--RPDFCLEPPYTG-PCR--VRIIRYFYNAKAGLCQTFVYGGCRAK-RNNFKSAEDCLRTCGGA*
+>P1;gi|1083171|pir||S53325 tissue factor pathway inhibitor - rabbit ... [ score 87 E 8e-17 ] [ range 121 .. 178 ] [ duplicate a ]
+sequence
+--KPDYCHMNEDSG-LCR--GFVTRYYYNNVSSKCEGFKYGGCLGN-LNNFETLEQCKNTCEGS*
+>P1;gi|125043|sp|P00992|IVB3_VIPAA Venom basic protease inhibitor II... [ score 87 E 9e-17 ] [ range 3 .. 60 ]
+sequence
+--RPKFCYLPADPG-RCL--AYMPRFYYNPASNKCEKFIYGGCRGN-ANNFKTWDECRHTCVAS*
+>P1;gi|442595|pdb|1AAL|A Chain A, Bovine Pancreatic Trypsin Inhibito... [ score 87 E 1e-16 ] [ range 1 .. 58 ]
+sequence
+--RPDFCLEPPYTG-PCK--ARIIRYFYNAKAGLVQTFVYGGCRAK-RNNFKSAEDAMRTCGGA*
+>P1;gi|6435821|pdb|1QLQ|A Chain A, Bovine Pancreatic Trypsin Inhibit... [ score 86 E 2e-16 ] [ range 1 .. 58 ]
+sequence
+--RPDFCLEPPYAG-ACR--ARIIRYFYNAKAGLCQTFVYGGCRAK-RNNFKSAEDCLRTCGGA*
+>P1;gi|809240|pdb|1BRB|I Chain I, Trypsin (E.C.3.4.21.4) Variant (D1... [ score 84 E 7e-16 ] [ range 1 .. 58 ]
+sequence
+--RPDFAGEPPYTG-PCK--ARIIRYFYNAKAGLCQTFVYGGCRAK-RNNFKSAEDCMRTAGGA*
+>P1;gi|31873712|emb|CAD97826.1| hypothetical protein [Homo sapiens] [ score 83 E 2e-15 ] [ range 133 .. 189 ]
+sequence
+---PVRCLLPSAHG-SCA--DWAARWYFVASVGQCNRFWYGGCHGN-ANNFASEQECMSSCQGS*
+>P1;gi|42543874|pdb|1UUB|A Chain A, Solution Structure Of A Truncate... [ score 83 E 2e-15 ] [ range 2 .. 56 ]
+sequence
+-----FCLEPPYTG-PCR--AAIIRYFYNAKAGLCQTFVYGGCRAK-SNNFKSAEDCMRTCGGA*
+>P1;gi|1085207|pir||JC2556 alpha-1-microglobulin/inter-alpha-trypsin... [ score 83 E 2e-15 ] [ range 232 .. 287 ]
+sequence
+---EESCNAEPDAG-PCF--GTVQRHFYNSSSMACQLFTYGGCMGN-QNNFVTERECLQSCRN-*
+>P1;gi|17529564|emb|CAC82582.1| boophilin [Boophilus microplus] [ score 82 E 3e-15 ] [ range 17 .. 72 ] [ duplicate a ]
+sequence
+--RNGFCRLPADEG-ICK--ALIPRFYFNTETGKCTMFSYGGCGGN-ENNFETIEDCQKACG--*
+>P1;gi|17564964|ref|NP_507993.1| papilin (5V147) [Caenorhabditis ele... [ score 82 E 5e-15 ] [ range 575 .. 630 ] [ duplicate a ]
+sequence
+--RATRCSLPKERG-PCD--KYELRFYFNADLNECKYFFWGGCEGN-QNNFERVEDCESACG--*
+>P1;gi|39585368|emb|CAE61690.1| Hypothetical protein CBG05636 [Caeno... [ score 80 E 1e-14 ] [ range 537 .. 592 ] [ duplicate a ]
+sequence
+--RASRCALPKERG-PCD--KYELRFYFNADLNECKYFFWGGCEGN-QNNFERVEDCEASCG--*
+>P1;gi|39585368|emb|CAE61690.1| Hypothetical protein CBG05636 [Caeno... [ score 80 E 1e-14 ] [ range 796 .. 855 ] [ duplicate j ]
+sequence
+---PDFCSNDVDAG-ECN--GVFERFAFDSETQDCRVFTYGGCGGN-GNNFATMNECRSRCVTA*
+>P1;gi|125049|sp|P24541|IVBT_ERIMA Venom trypsin inhibitor >gi|10440... [ score 80 E 1e-14 ] [ range 1 .. 55 ]
+sequence
+-----FCYLPDDPG-VCK--AHIPRFYYNPASNKCKNFIYGGCGGN-ANNFETRAECRHTCVAS*
+>P1;gi|6164595|gb|AAF04457.1| lacunin [Manduca sexta] [ score 80 E 2e-14 ] [ range 2132 .. 2188 ] [ duplicate c ]
+sequence
+---PDLCTLPAAIG-DCA--DYRERWYYDTREKSCQRFYYGGCAGN-GNNFATQAECEGRCSEA*
+>P1;gi|6164595|gb|AAF04457.1| lacunin [Manduca sexta] [ score 80 E 2e-14 ] [ range 2609 .. 2662 ] [ duplicate h ]
+sequence
+-----VCEARLDPG-PCR--SSIPKFYWEPASGSCLQYSYGGCGGG-ANRFSTIEECEEICGN-*
+>P1;gi|6730436|pdb|1FAK|I Chain I, Human Tissue Factor Complexed Wit... [ score 80 E 2e-14 ] [ range 2 .. 55 ]
+sequence
+---PDFCLEPPYDG-PCR--ALHLRYFYNAKAGLCQTFYYGGCLAK-RNNFESAEDCMRTC---*
+>P1;gi|34854963|ref|XP_231478.2| similar to matrilin 2 precursor [Ra... [ score 79 E 2e-14 ] [ range 693 .. 747 ]
+sequence
+--KDPRCEEALKPG-NCG--DYVVRWYYDKQVNSCARFWFSGCNGS-GNRFHSEKECQETC---*
+>P1;gi|30351152|gb|AAP22956.1| amyloid precursor protein b [Danio re... [ score 79 E 3e-14 ] [ range 20 .. 75 ]
+sequence
+----AVCWAPARSG-PCH--AKLPRWYFVAEKGRCASFTFGGCGGN-RNNFESEEYCMAVCSSS*
+>P1;gi|223350|prf||0711211A inhibitor HI30,trypsin [ score 77 E 7e-14 ] [ range 82 .. 133 ] [ duplicate b ]
+sequence
+------CNLPVIRG-PCR--AFIQLWAFDAVKGKCVLFPYGGCQGN-GNKFYSEKECREYCG--*
+>P1;gi|25991385|gb|AAN76827.1| fXa inhibitor fXaI [Ornithodoros savi... [ score 113 E 1e-24 ] [ range 18 .. 76 ]
+sequence
+--YNRLCVKPQDFTKQCSDDEDAVKVFFPHDKKSCEPFWICPEEDNGVDYYSTKEDCLSAC---*
+>P1;gi|22255988|gb|AAM94856.1| trophoblast Kunitz domain protein 4 [... [ score 110 E 1e-23 ] [ range 207 .. 263 ]
+sequence
+---PAFCVEPKFVG-VCN--GSMTRYFYNAQTGHCEMFVYGGCGGN-ENNFQTLEECMKTCYPK*
+>P1;gi|24651930|ref|NP_610430.1| CG13748-PA [Drosophila melanogaster... [ score 88 E 6e-17 ] [ range 56 .. 112 ]
+sequence
+--PEQFCLMPARKG-VCR--ALIPRWRYDPEQKKCVEFKFGGCDGN-ENNFASYKDCMSTCEG-*
+>P1;gi|8394443|ref|NP_058896.1| tissue factor pathway inhibitor [Rat... [ score 88 E 6e-17 ] [ range 216 .. 272 ] [ duplicate c ]
+sequence
+YDGPSWCLEPADSG-LCK--ASEKRFYYNPAIGKCRQFNYTGCGGN-NNNFTTKQDCNRAC---*
+>P1;gi|38374144|gb|AAR19275.1| two-Kunitz protease inhibitor [Bitis ... [ score 87 E 8e-17 ] [ range 14 .. 69 ] [ duplicate a ]
+sequence
+--PAEFCNLPADLG-PCK--NYTGRFYYDSASNKCEVFIYGGCPGN-ANNFKTREECRKTCV--*
+>P1;gi|25154128|ref|NP_741560.1| MEChanosensory abnormality MEC-1, a... [ score 85 E 5e-16 ] [ range 831 .. 895 ] [ duplicate b ]
+sequence
+-RPEDLCDEPLHPK-DCK--QWEIQWFFNSDRGACKSFWYGGCEES-RNFFPDHANCRHSCAHK*
+>P1;gi|24581509|ref|NP_608801.1| CG3604-PA [Drosophila melanogaster]... [ score 85 E 5e-16 ] [ range 52 .. 108 ]
+sequence
+---PEDCHQPKETG-RCF--ALFYRYAYNVDTQSCEEFVYGGCAGN-KNNFESKEQCEQACLVK*
+>P1;gi|125033|sp|P25660|IVB1_BUNFA Venom basic protease inhibitors I... [ score 84 E 1e-15 ] [ range 4 .. 60 ]
+sequence
+---PTFCNLLPETG-RCN--ALIPAFYYNSHLHKCQKFNYGGCGGN-ANNFKTIDECQRTCAAK*
+>P1;gi|37181390|gb|AAQ88509.1| Bikunin hlg [Homo sapiens] [ score 84 E 1e-15 ] [ range 382 .. 436 ] [ duplicate a ]
+sequence
+--PLAACSLPALQG-PCK--AYAPRWAYNSQTGQCQSFVYGGCEGN-GNNFESREACEESC---*
+>P1;gi|37181390|gb|AAQ88509.1| Bikunin hlg [Homo sapiens] [ score 84 E 1e-15 ] [ range 324 .. 379 ] [ duplicate b ]
+sequence
+--PAAECLKPPDSE-DCG--EEQTRWHFDAQANNCLTFTFGHCHRN-LNHFETYEACMLACM--*
+>P1;gi|40018550|ref|NP_954518.1| Unknown (protein for MGC:72638) [Ra... [ score 83 E 1e-15 ] [ range 71 .. 127 ]
+sequence
+---EEYCVPKAVTG-PCR--AAFPRWYYDVEKNSCSSFIYGGCRGN-KNSYLSQEACMQHCSGK*
+>P1;gi|5911698|emb|CAB55816.1| hypothetical protein [Ixodes ricinus] [ score 83 E 2e-15 ] [ range 28 .. 84 ]
+sequence
+---PAKCKLPPDDG-PCR--ARIPSYYFDRKTKTCKEFMYGGCEGN-ENNFENITTCQEECRAK*
+>P1;gi|32451494|ref|NP_861540.1| cDNA sequence AY100450; WFIKKN-like... [ score 82 E 2e-15 ] [ range 377 .. 431 ] [ duplicate a ]
+sequence
+--PLATCSLPALQG-PCK--AYVPRWAYNSQTGLCQSFVYGGCEGN-GNNFESREACEESC---*
+>P1;gi|27817310|emb|CAD61073.1| SI:dZ44F8.1 (novel protein similar t... [ score 82 E 4e-15 ] [ range 201 .. 256 ] [ duplicate c ]
+sequence
+--PPELCMSAVDRG-DCD--GSERRYVFNPRIGRCQVFRYSGCGGN-KNNFIHKRHCMKMCM--*
+>P1;gi|37515226|gb|AAM45359.2| Mechanosensory abnormality protein 1,... [ score 82 E 4e-15 ] [ range 1244 .. 1291 ] [ duplicate e ]
+sequence
+-------------G-DGK--SWSNRYFYDKDTRSCRMFWSNGCSSS-KNNFDDLETCQWKCEGR*
+>P1;gi|4539685|gb|AAD22173.1| hepatocyte growth factor activator inh... [ score 81 E 5e-15 ] [ range 73 .. 129 ]
+sequence
+---EEYCVPKAVTG-PCR--AAFPRWYYDTEKNSCISFIYGGCRGN-KNSYLSQEACMQHCSGK*
+>P1;gi|7507427|pir||T33216 hypothetical protein T07H8.4 - Caenorhabd... [ score 81 E 7e-15 ] [ range 1267 .. 1307 ] [ duplicate h ]
+sequence
+-----------------------TRYFYDKDTRSCRMFWSNGCSSS-KNNFDDLETCQWKCEGR*
+>P1;gi|33354271|ref|NP_877589.1| tissue factor pathway inhibitor 2 [... [ score 80 E 8e-15 ] [ range 28 .. 86 ] [ duplicate a ]
+sequence
+--PPEICLLPPDDG-PCR--ARIPSYYYDRYTQSCREFMYGGCEGN-ANNFETLEACNEAC---*
+>P1;gi|33354271|ref|NP_877589.1| tissue factor pathway inhibitor 2 [... [ score 80 E 8e-15 ] [ range 150 .. 206 ] [ duplicate b ]
+sequence
+-RAPVFCYSPKDEG-LCS--ANVTRYYFNPRHKACEAFNYTGCGGN-DNNFVNLKDCKRTCV--*
+>P1;gi|33354271|ref|NP_877589.1| tissue factor pathway inhibitor 2 [... [ score 80 E 8e-15 ] [ range 93 .. 149 ] [ duplicate c ]
+sequence
+---PKICRLKVNKK-QCG--ELREQYFFNLSSMTCKKFISGGCHSN-ENRFPDEATCMDFCAPK*
+>P1;gi|39582297|emb|CAE67546.1| Hypothetical protein CBG13071 [Caeno... [ score 80 E 1e-14 ] [ range 619 .. 675 ]
+sequence
+--SEEICQEEKQAG-QCG--GSFPRYWYNHEKSQCERFIFTGCKGN-RNQFETEEECKQICLP-*
+>P1;gi|39594396|emb|CAE71974.1| Hypothetical protein CBG19048 [Caeno... [ score 80 E 2e-14 ] [ range 1276 .. 1319 ] [ duplicate g ]
+sequence
+--------------------DSFSRYYYDKDTRSCRMFWSNGCSSS-KNNFDDQETCQWKCEGR*
+>P1;gi|7498832|pir||T34212 hypothetical protein F10E7.4 - Caenorhabd... [ score 79 E 2e-14 ] [ range 604 .. 660 ]
+sequence
+--SEEICQEDKQAG-QCA--GNFPRYWYNHEKTQCERFIFTGCKGN-RNQFETEEECKQICLP-*
+>P1;gi|45444949|gb|AAF51074.2| CG10031-PA [Drosophila melanogaster] [ score 80 E 2e-14 ] [ range 71 .. 128 ]
+sequence
+--PDPKCLQPLDVG-PCR--MSLERFYYNKDSKACETFKYGGCRGN-DNRWGFRQTCEEACIPK*
+>P1;gi|20072306|gb|AAH26460.1| Wfikkn-pending protein [Mus musculus] [ score 78 E 4e-14 ] [ range 29 .. 83 ]
+sequence
+--PGDVCALPAVQG-PCQ--GWEPRWAYSPLLQQCHPFVYSGCEGN-SNNFETRESCEDAC---*
+>P1;gi|39586163|emb|CAE69239.1| Hypothetical protein CBG15282 [Caeno... [ score 77 E 7e-14 ] [ range 559 .. 616 ] [ duplicate a ]
+sequence
+-RPQAICSQPLRLG-DCK--QSVRRYWYNAVTRACEIFDYTGCQGN-DNNFETLLECQNTCEN-*
+>P1;gi|39586163|emb|CAE69239.1| Hypothetical protein CBG15282 [Caeno... [ score 77 E 7e-14 ] [ range 481 .. 517 ] [ duplicate d ]
+sequence
+-----------------------SRYYYDAEQGRCIAFTYNGALGN-YNNFKSSADCELFC---*
+>P1;gi|39585368|emb|CAE61690.1| Hypothetical protein CBG05636 [Caeno... [ score 77 E 8e-14 ] [ range 1220 .. 1280 ] [ duplicate d ]
+sequence
+---PKFCAMPPDAG-VCT--NLVPRWFFNSQTGQCEQFSYGSCGGN-ENNFFDRNTCERKCMP-*
+>P1;gi|17564964|ref|NP_507993.1| papilin (5V147) [Caenorhabditis ele... [ score 77 E 8e-14 ] [ range 1255 .. 1315 ] [ duplicate b ]
+sequence
+---PKFCAMPPDAG-VCT--NYTPRWFFNSQTGQCEQFAYGSCGGN-ENNFFDRNTCERKCMP-*
+>P1;gi|17564964|ref|NP_507993.1| papilin (5V147) [Caenorhabditis ele... [ score 77 E 8e-14 ] [ range 838 .. 895 ] [ duplicate j ]
+sequence
+---PDFCSNDVDAG-ECN--GVFERFAFDAEAQDCRAFTYGGCGGN-GNNFATMQECRSRCV--*
+>P1;gi|34871144|ref|XP_343871.1| similar to WFIKKN protein precursor... [ score 77 E 8e-14 ] [ range 359 .. 413 ]
+sequence
+--PGDVCALPPVQG-PCQ--GWEPRWAYSPLLQQCHPFIYSGCEGN-SNNFESRESCEDAC---*
+>P1;gi|2497580|sp|Q29100|UPTI_PIG Uterine plasmin/trypsin inhibitor ... [ score 77 E 9e-14 ] [ range 34 .. 88 ]
+sequence
+--PPGFCREPPYTG-PCS--AHFVRYFYNATTGLCQSFVYGGCRGK-QNNFMDEKECLHTC---*
+>P1;gi|39592730|emb|CAE62344.1| Hypothetical protein CBG06419 [Caeno... [ score 77 E 1e-13 ] [ range 189 .. 244 ]
+sequence
+-KSTSICSLPLAVG-SCT--APAVRFYYDASSGRCNQFMFSGCGGN-ANNFQSLASCQATC---*
+>P1;gi|16751923|ref|NP_444514.1| WFIKKN protein precursor [Homo sapi... [ score 77 E 1e-13 ] [ range 355 .. 409 ]
+sequence
+--PGDACVLPAVQG-PCR--GWEPRWAYSPLLQQCHPFVYGGCEGN-GNNFHSRESCEDAC---*
+>P1;gi|6164595|gb|AAF04457.1| lacunin [Manduca sexta] [ score 76 E 2e-13 ] [ range 2010 .. 2066 ] [ duplicate h ]
+sequence
+--PKDACNLPKVKG-ACL--GYNIRWYYDAEQEQCSQFIYGGCLGN-ANNYASLQLCQEQCQP-*
+>P1;gi|34935351|ref|XP_234393.2| similar to papilin, proteoglycan-li... [ score 76 E 2e-13 ] [ range 718 .. 774 ]
+sequence
+---PVRCLLPSAQG-SCG--DWAARWYFVGSVGRCNRFWYGGCHGN-ANNFATEQECMDTCRGQ*
+>P1;gi|32566146|ref|NP_500002.2| nematode-specific EB region and pan... [ score 75 E 5e-13 ] [ range 853 .. 905 ] [ duplicate b ]
+sequence
+------CSLQVNKG-IGC--GSGSRYYYNNQAKECQSYLFLGCDGN-SNNFPSIEKCQNYC---*
+>P1;gi|22901764|gb|AAN10061.1| Kunitz-like protease inhibitor precur... [ score 75 E 5e-13 ] [ range 707 .. 758 ] [ duplicate k ]
+sequence
+----SPCTLPIDKG-EGD--LNLTRYGF--KNGKCVAFKYGGRRGN-LNNFGSKADCKEACL--*
+>P1;gi|125045|sp|P19859|IVBC_NAJNA Venom chymotrypsin inhibitor >gi|... [ score 74 E 8e-13 ] [ range 2 .. 56 ]
+sequence
+---PRFCELAPSAG-SCF--GFVSSYYYNRYSNTCHSFTYSGCGKN-ANRFRTIDECNRTCV--*
+>P1;gi|31323051|gb|AAP44001.1| hepatocyte growth factor activator in... [ score 74 E 9e-13 ] [ range 245 .. 302 ] [ duplicate b ]
+sequence
+-QTEDYCLASNKVG-RCR--GSFPRWYYDPTEQICKSFVYGGCLGN-KNNYLREEECILACRG-*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 74 E 1e-12 ] [ range 1784 .. 1840 ] [ duplicate e ]
+sequence
+WRNVAVCELPAEHG-DCQ--LAIPRWYHDPKTSQCQMMMWTGCGGN-GNAFSSKADCESLC---*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 74 E 1e-12 ] [ range 1909 .. 1964 ] [ duplicate h ]
+sequence
+-KSEDICTLRPEPG-PCR--LGLEKYFYDPVIQSCHMFHYGGCEGN-ANRFDSELDCFRRC---*
+>P1;gi|17558476|ref|NP_505017.1| thrombospondin (5I321) [Caenorhabdi... [ score 74 E 1e-12 ] [ range 1089 .. 1142 ] [ duplicate k ]
+sequence
+------CNQTQESG-TCG--AYKLAWHYDTTEGRCNQFWYGGCGGN-DNNFASQDMCETICV--*
+>P1;gi|18148669|dbj|BAB83366.1| chymotrypsin inhibitor [Bombyx mori] [ score 74 E 1e-12 ] [ range 38 .. 84 ]
+sequence
+-----------DVG-PCG--AYFKLYSYNQETKKCEEFIYGGCQGN-DNRFNTLAECEQKCI--*
+>P1;gi|31241999|ref|XP_321430.1| ENSANGP00000022061 [Anopheles gambi... [ score 73 E 1e-12 ] [ range 1573 .. 1626 ] [ duplicate b ]
+sequence
+-KPP--CEQPMEAG-PCN--GTFERWYYDKETDACHPFYFGGCKGN-KNNYPTEASCGYHC---*
+>P1;gi|31241999|ref|XP_321430.1| ENSANGP00000022061 [Anopheles gambi... [ score 73 E 1e-12 ] [ range 1454 .. 1508 ] [ duplicate d ]
+sequence
+--PQKACALPKDKG-PCH--NYTVKHFFDVEYGGCGRFWYGGCEGN-NNRFDSAEECKNIC---*
+>P1;gi|39581092|emb|CAE73170.1| Hypothetical protein CBG20566 [Caeno... [ score 73 E 2e-12 ] [ range 1781 .. 1837 ] [ duplicate e ]
+sequence
+WRNSAVCEMPAEHG-DCQ--LAIPKWYHDSTTKQCKMMMWTGCGGN-GNSFSSKADCESLC---*
+>P1;gi|39581092|emb|CAE73170.1| Hypothetical protein CBG20566 [Caeno... [ score 73 E 2e-12 ] [ range 1725 .. 1778 ] [ duplicate f ]
+sequence
+---PELCMLPEQRG-SCY--DHILRWRYDSERSQCVSFMYSGCSPN-ANHFTSEETCERAC---*
+>P1;gi|39582791|emb|CAE74254.1| Hypothetical protein CBG21943 [Caeno... [ score 73 E 2e-12 ] [ range 52 .. 107 ] [ duplicate a ]
+sequence
+-RPQYVCKLPREQG-NCG--TYSNRWWFNAKTGNCEEFIYSGCQGN-ANNFETYKECQDYC---*

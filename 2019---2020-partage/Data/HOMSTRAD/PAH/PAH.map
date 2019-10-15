@@ -1,0 +1,316 @@
+>P1;1e91a
+structureX:1e91:   1 :A:  85 :A:paired amphipathic helix protein sin3b:Mus musculus: -1: -1
+---ESDSVEFNNAISYVNKIKTRFLDHPEIYRSFLEILHTYQKEQLHTK---GRPFRGMSEEEVFTEVAN
+LFRGQEDLLSEFGQFLPEAKR*
+>P1;1g1eb
+structureX:1g1e: 295 :B: 383 :B:human mad1 transrepression domain sid in complex with mammalian sin3a pah2 domain:Synthetic construct: -1: -1
+SLQNNQPVEFNHAINYVNKIKNRFQGQPDIYKAFLEILHTYQKEQRNAKEAGGNYTPALTEQEVYAQVAR
+LFKNQEDLLSEFGQFLPDA--*
+>P1;gi|18088150|gb|AAH21160.1| Sin3b protein [Mus musculus] [ score 138 E 2e-32 ] [ range 28 .. 102 ] [ duplicate b ]
+sequence
+---EKLPVHVEDALTYLDQVKIRFGSDPATYNGFLEIMKEFKSQSIDTP---G----------VIRRVSQ
+LFHEHPDLIVGFNAFLPLGYR*
+>P1;gi|37552542|ref|XP_050561.6| SIN3 homolog B, transcriptional reg... [ score 135 E 3e-31 ] [ range 156 .. 240 ] [ duplicate a ]
+sequence
+---ESDSVEFNNAISYVNKIKTRFLDHPEIYRSFLEILHTYQKEQLNTR---GRPFRGMSEEEVFTEVAN
+LFRGQEDLLSEFGQFLPEAKR*
+>P1;gi|14042320|dbj|BAB55197.1| unnamed protein product [Homo sapiens] [ score 133 E 1e-30 ] [ range 117 .. 191 ] [ duplicate b ]
+sequence
+---QFQRLKVEDALSYLDQVKLQFGSQPQVYNDFLDIMKEFKSQSIDTP---G----------VISRVSQ
+LFKGHPDLIMGFNTFLPPGYK*
+>P1;gi|4960210|gb|AAD34644.1| transcription co-repressor Sin3 [Xenop... [ score 132 E 2e-30 ] [ range 114 .. 188 ] [ duplicate b ]
+sequence
+---QFQRLKVEDALSYLDQVKLQFGSQPQVYNDFLDIMKEFKSQSIDTP---G----------VISRVSQ
+LFKGHPELIMGFGAFLPPGYK*
+>P1;gi|31225635|ref|XP_317596.1| ENSANGP00000007267 [Anopheles gambi... [ score 129 E 2e-29 ] [ range 307 .. 395 ] [ duplicate a ]
+sequence
+----NQPVEFNHAITYVNKIKNRFHTQPEKYKRFLEILHTYQKEQKTYK---EGAQSGLTEAEVYTQVAQ
+LFDNQEDLLREFGQFLPDA--*
+>P1;gi|31225635|ref|XP_317596.1| ENSANGP00000007267 [Anopheles gambi... [ score 129 E 2e-29 ] [ range 14 .. 81 ] [ duplicate b ]
+sequence
+----------EDALSYLDQVKFRFGNQPQVYNDFLDIMKEFKSQSIDTP---G----------VIQRVSN
+LFRGHPELIVGFNTFLPPGYK*
+>P1;gi|24653096|ref|NP_725187.1| CG8815-PB [Drosophila melanogaster]... [ score 126 E 8e-29 ] [ range 273 .. 340 ] [ duplicate b ]
+sequence
+----------EDALSYLDQVKYQYADQPQIYNNFLDIMKEFKSHCIDTP---G----------VIERVST
+LFKGHTELIYGFNMFLPPGYK*
+>P1;gi|38105622|gb|EAA52023.1| hypothetical protein MG03618.4 [Magna... [ score 122 E 2e-27 ] [ range 935 .. 1007 ] [ duplicate a ]
+sequence
+---QRGPVEFNHAISYVNKIKNRFQDKPEIYKQFLEILQTYQREQ-------------KPIQEVYAQVTT
+LFHTAPDLLEDFKQFLPES--*
+>P1;gi|38105622|gb|EAA52023.1| hypothetical protein MG03618.4 [Magna... [ score 122 E 2e-27 ] [ range 710 .. 778 ] [ duplicate b ]
+sequence
+---------LNDALSYLDQVKAQFHEQPDVYNRFLDIMKDFKSQTIDTP---G----------VINRVSD
+LFAGHPNLIQGFNTFLPPGYR*
+>P1;gi|34894158|ref|NP_908404.1| putative co-repressor protein [Oryz... [ score 122 E 2e-27 ] [ range 244 .. 310 ] [ duplicate b ]
+sequence
+----------NDALVYLKAVKDKFQDKREKYEEFLEVMRDFKSERIDTN---GVIIR----------VKT
+LFNGYPELILGFNTFLPKGY-*
+>P1;gi|42563096|ref|NP_177163.2| paired amphipathic helix repeat-con... [ score 121 E 5e-27 ] [ range 94 .. 164 ] [ duplicate a ]
+sequence
+----KKPVEFEEAISFVNKIKTRFQGDDRVYKSFLDILNMYRKEN-------------KSITEVYHEVAI
+LFRDHHDLLGEFTHFLPD---*
+>P1;gi|42563096|ref|NP_177163.2| paired amphipathic helix repeat-con... [ score 121 E 5e-27 ] [ range 13 .. 79 ] [ duplicate b ]
+sequence
+----------NDALAYLKAVKDKFQDKRDKYDEFLEVMKDFKAQRVDTT---G----------VILRVKE
+LFKGNRELILGFNTFLPKGF-*
+>P1;gi|42553236|gb|EAA76079.1| hypothetical protein FG09306.1 [Gibbe... [ score 119 E 2e-26 ] [ range 260 .. 327 ] [ duplicate b ]
+sequence
+----------NDALTYLDQVKVQFHDQPDVYNRFLDIMKDFKSQAIDTP---G----------VINRVSE
+LFAGHPNLIQGFNTFLPPGYR*
+>P1;gi|42562294|ref|NP_173829.2| paired amphipathic helix repeat-con... [ score 117 E 7e-26 ] [ range 116 .. 186 ] [ duplicate a ]
+sequence
+----KKRVEFEEAISFVNKIKTRFQGDDRVYKSFLDILNMYRRDS-------------KSITEVYQEVAI
+LFRDHSDLLVEFTHFLPD---*
+>P1;gi|42562294|ref|NP_173829.2| paired amphipathic helix repeat-con... [ score 117 E 7e-26 ] [ range 36 .. 102 ] [ duplicate b ]
+sequence
+----------NDALAYLKAVKDKFQDQRGKYDEFLEVMKNFKSQRVDTA---G----------VITRVKE
+LFKGHQELILGFNTFLPKGF-*
+>P1;gi|15242192|ref|NP_197006.1| paired amphipathic helix repeat-con... [ score 114 E 4e-25 ] [ range 51 .. 117 ] [ duplicate b ]
+sequence
+----------DDALTYLKEVKEMFQDQRDKYDMFLEVMKDFKAQKTDTS---G----------VISRVKE
+LFKGHNNLIFGFNTFLPKGF-*
+>P1;gi|45185684|ref|NP_983400.1| ACL004Wp [Eremothecium gossypii] >g... [ score 114 E 4e-25 ] [ range 129 .. 201 ] [ duplicate b ]
+sequence
+----YRPLNVKDALSYLEQVKFQFSSRPDVYNHFLDIMKDFKSQAIDTP---G----------VIERVST
+LFHGYPALIQGFNTFLPHGY-*
+>P1;gi|18076824|emb|CAC86053.1| Sin3 protein [Yarrowia lipolytica] [ score 114 E 7e-25 ] [ range 253 .. 326 ] [ duplicate b ]
+sequence
+----YRALNVTDALTYLDQVKIQFSDNPDVYNRFLDIMKDFKSHTLDTP---G----------VISRVSN
+LFRGFPHLIEGFNTFLPPGYR*
+>P1;gi|40745097|gb|EAA64253.1| hypothetical protein AN1546.2 [Asperg... [ score 113 E 8e-25 ] [ range 524 .. 596 ] [ duplicate a ]
+sequence
+---KRGPVEFNHAISYVNKIKNRFSSRPEIYKQFLEILQTYQRES-------------KPIGDVYTQVTQ
+LFNSAPDLLEDFKQFLPES--*
+>P1;gi|40745097|gb|EAA64253.1| hypothetical protein AN1546.2 [Asperg... [ score 113 E 8e-25 ] [ range 276 .. 343 ] [ duplicate b ]
+sequence
+----------QDALSYLDQVKVRFVDQPDVYNRFLDIMKDFKSQAIDTP---G----------VIQRVSN
+LFNGHPALIQGFNTFLPPGYR*
+>P1;gi|172094|gb|AAA34839.1| SIN3 open reading frame [ score 113 E 2e-24 ] [ range 215 .. 289 ] [ duplicate b ]
+sequence
+---DYRPLNVKDALSYLEQVKFQFSSRPDIYNLFLDIMKDFKSQAIDTP---G----------VIERVST
+LFRGYPILIQGFNTFLPQGYR*
+>P1;gi|42563401|ref|NP_186781.3| paired amphipathic helix repeat-con... [ score 112 E 2e-24 ] [ range 135 .. 206 ] [ duplicate a ]
+sequence
+----KKTVEFEQAINFVNKIKMRFKHDEHVYKSFLEILNMYRKENKEIK-------------EVYNEVSI
+LFQGHLDLLEQFTRFLPAS--*
+>P1;gi|42563401|ref|NP_186781.3| paired amphipathic helix repeat-con... [ score 112 E 2e-24 ] [ range 56 .. 122 ] [ duplicate b ]
+sequence
+----------NDALSYLREVKEMFQDQREKYDRFLEVMKDFKAQRTDTG---G----------VIARVKE
+LFKGHNNLIYGFNTFLPKGY-*
+>P1;gi|25404243|pir||A96623 hypothetical protein F23H11.20 [imported... [ score 108 E 3e-23 ] [ range 122 .. 192 ] [ duplicate a ]
+sequence
+----KKPVDFQVAIEFVNRIKARFGGDDRAYKKFLDILNMYRKET-------------KSINEVYQEVTL
+LFQDHEDLLGEFVHFLPD---*
+>P1;gi|25404243|pir||A96623 hypothetical protein F23H11.20 [imported... [ score 108 E 3e-23 ] [ range 45 .. 111 ] [ duplicate b ]
+sequence
+-----------DALTYLKAVKDMFQDNKEKYETFLGVMKDFKAQRVDTN---G----------VIARVKD
+LFKGYDDLLLGFNTFLPKGYK*
+>P1;gi|9945050|gb|AAG03087.1| Similar to Arabidopsis chromosome I BA... [ score 107 E 6e-23 ] [ range 100 .. 170 ] [ duplicate a ]
+sequence
+---EKKPVDFMEAINFVNKIKARFQQEDHVYKSFLGILNMYR-------------LHNKSIQDVYGEVP-
+LFRDYPDLLEEFKHFLPD---*
+>P1;gi|9945050|gb|AAG03087.1| Similar to Arabidopsis chromosome I BA... [ score 107 E 6e-23 ] [ range 19 .. 92 ] [ duplicate b ]
+sequence
+---QNQKLTTNDALLYLKAVKDKFQDKRDKYDEFLEVMRDFKSGRIDTA---GVIIR----------VKT
+LFNGHHELILGFNAFLPKGF-*
+>P1;gi|19112804|ref|NP_596012.1| transcriptional regulatory protein ... [ score 102 E 2e-21 ] [ range 344 .. 414 ] [ duplicate a ]
+sequence
+----KQAADLDQAINFVNNVKNRFSHKPEAYNSFLDILKSYQHDQR-------------PIQLVYFQVSQ
+LFAEAPDLLEEFKRFLPD---*
+>P1;gi|19112804|ref|NP_596012.1| transcriptional regulatory protein ... [ score 102 E 2e-21 ] [ range 176 .. 249 ] [ duplicate b ]
+sequence
+---EYRQLNVTDALSYLDLVKLQFHQEPEIYNEFLDIMKEFK-------------SQAIETPEVITRVSK
+LFAGYPNLIQGFNTFLPPGY-*
+>P1;gi|15218525|ref|NP_172515.1| paired amphipathic helix repeat-con... [ score 101 E 4e-21 ] [ range 84 .. 150 ] [ duplicate b ]
+sequence
+-----------DALTYLKAVKDIFHDNKEKYESFLELMKEFKAQTIDTN---G----------VIERIKV
+LFKGYRDLLLGFNTFLPKGYK*
+>P1;gi|15221696|ref|NP_173830.1| paired amphipathic helix repeat-con... [ score 99 E 1e-20 ] [ range 89 .. 159 ]
+sequence
+---QKKPVELGEAISFINKIKTRFQGDDRVYKSVLDILNMYRKDR-------------KPITAVYREVAI
+LFLDHNNLLVEFTHFLP----*
+>P1;gi|19112225|ref|NP_595433.1| putative transcriptional rgulatory ... [ score 99 E 3e-20 ] [ range 250 .. 321 ] [ duplicate a ]
+sequence
+---EKPRVDFNYAIAYMNKVKARYPPNSDTYMEFLGVLRTYQKAQ-------------KSIFEVRARVAE
+IFKDSPDLLEEFKLFLPD---*
+>P1;gi|19112225|ref|NP_595433.1| putative transcriptional rgulatory ... [ score 99 E 3e-20 ] [ range 110 .. 183 ] [ duplicate b ]
+sequence
+----NRPLDVNDALSYLELVKYYFSERREIYNRFLEIMRDFKSQALDTL---G----------VINRVSE
+LFNGYPQLIEGFNTFLPSGYK*
+>P1;gi|25272021|gb|AAN74748.1| hypothetical protein [Marchantia poly... [ score 98 E 3e-20 ] [ range 88 .. 165 ]
+sequence
+---EEGSSASDQTINFINKVKTRFSADEHVYKAFLEILNMYRKGN-------------KPISEMYQEVAT
+LFSEHADLLEEFTSFRPDS--*
+>P1;gi|7486365|pir||T00653 hypothetical protein F3I6.16 - Arabidopsi... [ score 59 E 2e-08 ] [ range 171 .. 230 ]
+sequence
+--------------NFISKLKARFQGNDHVYESFLEILTMYQQGN-------------KSVNDLYQEVGA
+LLQGHEDLVMEF---------*
+>P1;gi|42552746|gb|EAA75589.1| hypothetical protein FG05944.1 [Gibbe... [ score 52 E 4e-06 ] [ range 455 .. 529 ]
+sequence
+---------LQHARDYVEEVKVAFLDRPHVYRRFLDILSDY-----------NSNVLRLDLKSVVHEVRD
+LFTNHENLMVGFSRFLPSGF-*
+>P1;gi|7498489|pir||T20513 hypothetical protein F02E9.4 - Caenorhabd... [ score 51 E 9e-06 ] [ range 281 .. 354 ]
+sequence
+----EGPPRVDEALAYLRVIKSTFSSDVPVYHRFLEIMKDFRAQRIETP-------------DVIEQVAE
+LLYDSPELVLGFNTFLPTGYR*
+>P1;gi|15221706|ref|NP_173835.1| paired amphipathic helix repeat-con... [ score 48 E 5e-05 ] [ range 186 .. 247 ]
+sequence
+--------------SFTTKLKARFQGDSQVVDSVLQIMRMY-------------GEGNKSKHDAYQEVVA
+LVQGHDDLVMELSQILTD---*
+>P1;gi|39595771|emb|CAE67274.1| Hypothetical protein CBG12722 [Caeno... [ score 48 E 8e-05 ] [ range 423 .. 497 ]
+sequence
+---DNGPPRVDEALSYLRIIKETFVNRVPVYHRFLDIMKNFRAQRIET-------------SEVVEQVAA
+LLYDSPNLVLGFNTFLPTGYK*
+>P1;gi|19074819|ref|NP_586325.1| TRANSCRIPTIONAL REGULATOR-LIKE PROT... [ score 46 E 2e-04 ] [ range 262 .. 338 ]
+sequence
+---QRRSEEFEQAQDFIQRVKKRYSHNPSVYRSFVELLQSHQ-------------VKSGLFEKMKAEVNS
+LLWESPDLCEDFERFVP----*
+>P1;gi|25403303|pir||F86398 protein F17L21.6 [imported] - Arabidopsi... [ score 46 E 2e-04 ] [ range 168 .. 217 ]
+sequence
+--------------SFIGKLKERFQGDDHVYESFLEILTMYQEGN-------------KSVNDLYQE---
+---GHEDLVMGF---------*
+>P1;gi|38637391|dbj|BAD03650.1| hypothetical protein [Oryza sativa (... [ score 46 E 3e-04 ] [ range 71 .. 134 ]
+sequence
+----------EDAMNYILTIKNKFLRHPEKFHAFIHTMIDFSRGRINTH---T----------VIERVKI
+LFDGYPDLLLAFNKFLP----*
+>P1;gi|8778866|gb|AAF79865.1| T7N9.30 [Arabidopsis thaliana] [ score 46 E 3e-04 ] [ range 7 .. 76 ]
+sequence
+----KPKATVDDAYAYIRTVKSTFHNDPDKYDDFMAIMKNF-KARKIDR---NTCI---------EEVKE
+LLKGHRDLISGFNAFLP----*
+>P1;gi|14042320|dbj|BAB55197.1| unnamed protein product [Homo sapiens] [ score 158 E 2e-38 ] [ range 115 .. 187 ] [ duplicate b ]
+sequence
+-QQQFQRLKVEDALSYLDQVKLQFGSQPQVYNDFLDIMKEFK--SQSIDTPG-----------VISRVSQ
+LFKGHPDLIMGFNTFLP----*
+>P1;gi|31807190|gb|AAH53385.1| Sin3a protein [Mus musculus] [ score 158 E 3e-38 ] [ range 115 .. 187 ] [ duplicate b ]
+sequence
+-QQQFQRLKVEDALSYLDQVKLQFGSQPQVYNDFLDIM----KELKS---------QSIDTPGVISRVSQ
+LFKGHPDLIMGFNTFLP----*
+>P1;gi|4960210|gb|AAD34644.1| transcription co-repressor Sin3 [Xenop... [ score 156 E 7e-38 ] [ range 296 .. 384 ] [ duplicate a ]
+sequence
+TMQNNQPVEFNHAINYVNKIKNRFQGQPDIYKSFLEILHTYQKEQRNAKEAGGNYTPALTEQEVYAQVAR
+LFKNQEDLLSEFGQFLPDA--*
+>P1;gi|4960210|gb|AAD34644.1| transcription co-repressor Sin3 [Xenop... [ score 156 E 7e-38 ] [ range 113 .. 184 ] [ duplicate b ]
+sequence
+--QQFQRLKVEDALSYLDQVKLQFGSQPQVYNDFLDIMKEFK--SQSIDTPG-----------VISRVSQ
+LFKGHPELIMGFGAFLP----*
+>P1;gi|2570796|gb|AAB82274.1| transcriptional co-repressor SIN3A [Dr... [ score 153 E 1e-36 ] [ range 559 .. 645 ] [ duplicate a ]
+sequence
+--QQNQPVEFNHAITYVNKIKNRFQNQPAKYKKFLEILHDYQREQKVMKEGSLNQGKMLTEQEVYTQVAK
+LFGQDEDLLREFGQFLPDA--*
+>P1;gi|2570796|gb|AAB82274.1| transcriptional co-repressor SIN3A [Dr... [ score 153 E 1e-36 ] [ range 273 .. 336 ] [ duplicate b ]
+sequence
+----------EDALSYLDQVKYQYADQPQIYNNFLDIM----KEFKS---------HCIDTPGVIERVST
+LFKGHTELIYGFNMFLP----*
+>P1;gi|31225635|ref|XP_317596.1| ENSANGP00000007267 [Anopheles gambi... [ score 144 E 5e-34 ] [ range 307 .. 395 ] [ duplicate a ]
+sequence
+----NQPVEFNHAITYVNKIKNRFHTQPEKYKRFLEILHTYQKEQKTYKEGSGCMTSALTEAEVYTQVAQ
+LFDNQEDLLREFGQFLPDA--*
+>P1;gi|31225635|ref|XP_317596.1| ENSANGP00000007267 [Anopheles gambi... [ score 144 E 5e-34 ] [ range 14 .. 77 ] [ duplicate b ]
+sequence
+----------EDALSYLDQVKFRFGNQPQVYNDFLDIMKEFK--SQSIDTPG-----------VIQRVSN
+LFRGHPELIVGFNTFLP----*
+>P1;gi|42553236|gb|EAA76079.1| hypothetical protein FG09306.1 [Gibbe... [ score 135 E 2e-31 ] [ range 464 .. 539 ] [ duplicate a ]
+sequence
+NMERRGPVEFNHAISYVNKIKNRFQDKPEIYKQFLEILQTYQREQKPI-------------QDVYAQVTT
+LFNSAPDLLEDFKQFLPES--*
+>P1;gi|38105622|gb|EAA52023.1| hypothetical protein MG03618.4 [Magna... [ score 135 E 2e-31 ] [ range 702 .. 774 ] [ duplicate b ]
+sequence
+SQQGSQPI-LNDALSYLDQVKAQFHEQPDVYNRFLDIMKDFK--SQTIDTPG-----------VINRVSD
+LFAGHPNLIQGFNTFLP----*
+>P1;gi|34894158|ref|NP_908404.1| putative co-repressor protein [Oryz... [ score 132 E 2e-30 ] [ range 315 .. 388 ] [ duplicate a ]
+sequence
+-QEEKKPVDFVEAINFVNKIKNRFQHDEHVYKAFLDILNMYRKDNKSI-------------QDVYHEVAV
+LFADHKDLLEEFQHFLPD---*
+>P1;gi|42563096|ref|NP_177163.2| paired amphipathic helix repeat-con... [ score 129 E 1e-29 ] [ range 13 .. 76 ] [ duplicate b ]
+sequence
+----------NDALAYLKAVKDKFQDKRDKYDEFLEVMKDF-KAQR------------VDTTGVILRVKE
+LFKGNRELILGFNTFLP----*
+>P1;gi|18076824|emb|CAC86053.1| Sin3 protein [Yarrowia lipolytica] [ score 128 E 4e-29 ] [ range 455 .. 529 ] [ duplicate a ]
+sequence
+SRRSGAPVEFNHAINYVHKIKNRFADQEETYKHFLEILQTYQKEQKPIG-------------EVYQQVTI
+LFRNEPDLLDDFKQFLPD---*
+>P1;gi|32422667|ref|XP_331777.1| hypothetical protein [Neurospora cr... [ score 125 E 2e-28 ] [ range 435 .. 518 ] [ duplicate a ]
+sequence
+-IEKRGPVEFNHAISYVNKIKNRFQDKPEIYKQFLEILQTYQREQKPI-------------QDVYSQVTT
+LFHAAPDLLEDFKQFLPES--*
+>P1;gi|32422667|ref|XP_331777.1| hypothetical protein [Neurospora cr... [ score 125 E 2e-28 ] [ range 218 .. 288 ] [ duplicate b ]
+sequence
+--QGQQPI-LNDALSYLDQVKVQFHEQPDVYNKFLDIMKDFKSQTINTPG-------------VITRVSE
+LFAGHPNLIQGFNTFLP----*
+>P1;gi|18088150|gb|AAH21160.1| Sin3b protein [Mus musculus] [ score 124 E 4e-28 ] [ range 31 .. 98 ] [ duplicate b ]
+sequence
+------PVHVEDALTYLDQVKIRFGSDPATYNGFLEIMKEFK--SQSIDTPG-----------VIRRVSQ
+LFHEHPDLIVGFNAFLP----*
+>P1;gi|172094|gb|AAA34839.1| SIN3 open reading frame [ score 123 E 9e-28 ] [ range 401 .. 474 ] [ duplicate a ]
+sequence
+--KKNVDVEFSQAISYVNKIKTRFADQPDIYKHFLEILQTYQREQKPI-------------NEVYAQVTH
+LFQNAPDLLEDFKKFLPDS--*
+>P1;gi|45185684|ref|NP_983400.1| ACL004Wp [Eremothecium gossypii] >g... [ score 122 E 2e-27 ] [ range 279 .. 352 ] [ duplicate a ]
+sequence
+--KKAGDVEFSHAISYVNKIKTRFAEQPDIYKHFLEILQTYQREQKPI-------------NEVYAQVTV
+LFQNAPDLLDDFKKFLPDS--*
+>P1;gi|15242192|ref|NP_197006.1| paired amphipathic helix repeat-con... [ score 122 E 2e-27 ] [ range 128 .. 200 ] [ duplicate a ]
+sequence
+---SKKTVEFEEAISFVNKIKTRFQHNELVYKSFLEILNMYRKDNKDI-------------TEVYNEVST
+LFEDHSDLLEEFTRFLPDS--*
+>P1;gi|15242192|ref|NP_197006.1| paired amphipathic helix repeat-con... [ score 122 E 2e-27 ] [ range 44 .. 114 ] [ duplicate b ]
+sequence
+---NTQKLTTDDALTYLKEVKEMFQDQRDKYDMFLEVMKDF-KAQKT------------DTSGVISRVKE
+LFKGHNNLIFGFNTFLP----*
+>P1;gi|42563401|ref|NP_186781.3| paired amphipathic helix repeat-con... [ score 118 E 3e-26 ] [ range 46 .. 119 ] [ duplicate b ]
+sequence
+SRRVSQKLTTNDALSYLREVKEMFQDQREKYDRFLEVMKDF-KAQRTDTGG------------VIARVKE
+LFKGHNNLIYGFNTFLP----*
+>P1;gi|25404243|pir||A96623 hypothetical protein F23H11.20 [imported... [ score 117 E 5e-26 ] [ range 45 .. 107 ] [ duplicate b ]
+sequence
+-----------DALTYLKAVKDMFQDNKEKYETFLGVMKDF-KAQR------------VDTNGVIARVKD
+LFKGYDDLLLGFNTFLP----*
+>P1;gi|19112225|ref|NP_595433.1| putative transcriptional rgulatory ... [ score 110 E 8e-24 ] [ range 246 .. 321 ] [ duplicate a ]
+sequence
+STENEKPVDFNYAIAYMNKVKARYPPNSDTYMEFLGVLRTYQKAQKSIF-------------EVRARVAE
+IFKDSPDLLEEFKLFLPD---*
+>P1;gi|15218525|ref|NP_172515.1| paired amphipathic helix repeat-con... [ score 109 E 1e-23 ] [ range 156 .. 231 ]
+sequence
+--EEEKPVDFKDAIGFVTKIKTRFGDDEHAYKRFLDILNLYRKEKKSI-------------SEVYEEVTM
+LFKGHEDLLMEFVNFLPN---*
+>P1;gi|25406025|pir||A96723 hypothetical protein F20P5.23 [imported]... [ score 98 E 5e-20 ] [ range 97 .. 168 ] [ duplicate a ]
+sequence
+-TSNSKFAHFDEAYEFVNKVKTRFQNN-DVFNSFLEVLKTHKKENKSVA-------------ELYQEVAI
+LFQGHRDLLEEFHLFLP----*
+>P1;gi|25406025|pir||A96723 hypothetical protein F20P5.23 [imported]... [ score 98 E 5e-20 ] [ range 15 .. 84 ] [ duplicate b ]
+sequence
+----NKKLTTTDALDFLHLVKTKYQDNREIYDSFLTIMKDFR-------------GQRAKTCDVISKVKE
+LFKGQPELLLGFNTFLP----*
+>P1;gi|7486365|pir||T00653 hypothetical protein F3I6.16 - Arabidopsi... [ score 66 E 2e-10 ] [ range 171 .. 230 ]
+sequence
+--------------NFISKLKARFQGNDHVYESFLEILTMYQQGNKSVNDLY---------QEVGFLVVA
+LLQGHEDLVMEF---------*
+>P1;gi|15221700|ref|NP_173832.1| paired amphipathic helix repeat-con... [ score 52 E 3e-06 ] [ range 364 .. 435 ] [ duplicate a ]
+sequence
+--EAEKPTHTDE-LNFMNKLKTRFQRDTHVVGSFHSIMTMYKEGKKSRK-------------EVHEEVCD
+LLYYHEDLRADFTRIFP----*
+>P1;gi|15221700|ref|NP_173832.1| paired amphipathic helix repeat-con... [ score 52 E 3e-06 ] [ range 673 .. 726 ] [ duplicate b ]
+sequence
+-----------------NKKNARFQGGSHVVNSVLQILKMYSEGNKS-------------KDEAYQEVVS
+LLQNHVDLVMEFG--------*
+>P1;gi|19074819|ref|NP_586325.1| TRANSCRIPTIONAL REGULATOR-LIKE PROT... [ score 48 E 4e-05 ] [ range 106 .. 172 ] [ duplicate b ]
+sequence
+-------ADLSDAMMFLNKIKEEYMNDMVTYDNFLETMRDFK-------------FGKIDAEEVCRAVRV
+LFRDKPHLIETFNDYLP----*
+>P1;gi|8778866|gb|AAF79865.1| T7N9.30 [Arabidopsis thaliana] [ score 48 E 4e-05 ] [ range 4 .. 76 ]
+sequence
+--EGSKPATVDDAYAYIRTVKSTFHNDPDKYDDFMAIMKNFK-------------ARKIDRNTCIEEVKE
+LLKGHRDLISGFNAFLP----*
+>P1;gi|15223466|ref|NP_174045.1| paired amphipathic helix repeat-con... [ score 47 E 1e-04 ] [ range 160 .. 213 ]
+sequence
+---------------FIRKLKAKFQGDSHVADSVLQILRMYSEGNKS-------------KSEAFQEVVP
+LVQDHEDLVME----------*
+>P1;gi|15220883|ref|NP_173793.1| paired amphipathic helix repeat-con... [ score 44 E 7e-04 ] [ range 175 .. 236 ]
+sequence
+--------------SFTTKLKAKFQGDSQVVDSVLQIMRMYGEGNKS-------------KHDAYQEIVA
+LVQGHDDLVMELSQIFTD---*
+>P1;gi|15223467|ref|NP_174046.1| paired amphipathic helix repeat-con... [ score 44 E 0.001 ] [ range 180 .. 233 ]
+sequence
+---------------FITKLKARFLGDSQVVDSVLQILRMHSEGNKS-------------KDEASQEVRA
+LIQGHEDLLME----------*

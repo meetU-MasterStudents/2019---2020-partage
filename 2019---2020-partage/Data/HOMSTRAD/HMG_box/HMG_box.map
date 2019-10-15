@@ -1,0 +1,1668 @@
+>P1;1hrza
+structureX:1hrz:   3 :A:  75 :A:sex-determining region y protein (testis-determining factor):Homo sapiens: -1: -1
+-DRVKRPMNAFIVWSRDQRRKMALENPRMR--NSEISKQLGYQWKMLTEAEKWPFFQEAQKLQAMHREKY
+PNYKYR-------------*
+>P1;1nhn
+structureX:1nhn:   3 : :  81 : :high mobility group protein hmg1 (hmg-1) (fragment):Cricetulus griseus: -1: -1
+-NAPKRPPSAFFLFCSEYRPKIKGEHPGLS--IGDVAKKLGEMWNNTAADDKQPYEKKAAKLKEKYEKDI
+AAYRAKG-------KPDAA*
+>P1;1ckta
+structureX:1ckt:   7 :A:  77 :A:high mobility group protein hmg1 (hmg-1):Rattus norvegicus: 2.50: 23.8
+--KPRGKMSSYAFFVQTCREEHKKKHPDASVNFSEFSKKCSERWKTMSAKEKGKFEDMAKADKARYEREM
+KTY----------------*
+>P1;1hma
+structureX:1hma:   2 : :  74 : :high mobility group protein d (hmg-d):Drosophila melanogaster: -1: -1
+SDKPKRPLSAYMLWLNSARESIKRENP--GIKVTEVAKRGGELWRAMK--DKSEWEAKAAKAKDDYDRAV
+KEFEANG------------*
+>P1;2lefa
+structureX:2lef:   1 :A:  86 :A:lymphoid enhancer binding factor 1:Mus musculus: -1: -1
+-MHIKKPLNAFMLYMKEMRANVVAEST--LKESAAINQILGRRWHALSREEQAKYYELARKERQLHMQLY
+PGWSARDNYGKKKKRKREK*
+>P1;gi|6678073|ref|NP_033264.1| SRY (sex determining region Y)-box 4... [ score 146 E 1e-34 ] [ range 58 .. 129 ]
+sequence
+--HIKRPMNAFMVWSQIERRKIMEQSPDMH--NAEISKRLGKRWKLLKDSDKIPFIQEAERLRLKHMADY
+PDYKYR-------------*
+>P1;gi|34871130|ref|XP_220283.2| similar to Transcription factor SOX... [ score 136 E 1e-31 ] [ range 98 .. 169 ]
+sequence
+--HVKRPMNAFMVWAQAARRKLADQYPHLH--NAELSKTLGKLWRLLSESEKRPFVEEAERLRVQHKKDH
+PDYKYQ-------------*
+>P1;gi|38049113|gb|AAR10364.1| sex determining region Y protein [Odo... [ score 135 E 3e-31 ] [ range 52 .. 124 ]
+sequence
+-NRVRRPMNAFMVWSRDQRRKVALENPQMQ--NSEISKQLGYQWKMLTEAEKWPFFEEAQRLQAMHREKY
+PDYKYR-------------*
+>P1;gi|20563142|gb|AAM27891.1| SRY [Leontopithecus chrysomelas] [ score 134 E 5e-31 ] [ range 58 .. 130 ]
+sequence
+-NRVKRPMNAFIVWSRDQRRKMAVENPQMR--NSEISKRLGYQWKLLTEAEKWPFFQEAQKLQAMHREKY
+PNYKYR-------------*
+>P1;gi|25067624|gb|AAN65339.1| sex-determining region Y protein [Alc... [ score 133 E 1e-30 ] [ range 52 .. 124 ]
+sequence
+-DHVKRPMNAFIVWSRERRRKVALENPKMQ--NSEISKQLGYEWKRLTDAEKRPFFEEAQRLLAIHRDKY
+PDYKYR-------------*
+>P1;gi|38049139|gb|AAR10377.1| sex determining region Y protein [Urs... [ score 133 E 1e-30 ] [ range 52 .. 124 ]
+sequence
+-NRVRRPMNAFMLWSRDQRRKVALENPQMQ--NSEISKQLGYQWEMLTEAEKWPFFEEAQRLQAMHRQKY
+PDYKYR-------------*
+>P1;gi|2506520|sp|P36393|SRY_PIG Sex-determining region Y protein (T... [ score 132 E 2e-30 ] [ range 60 .. 132 ]
+sequence
+-DRVKRPMNAFIVWSRDQRRKVALENPQMQ--NSEISKWLGCKWKMLTEAEKRPFFEEAQRLQAVHRDKY
+PGYKYR-------------*
+>P1;gi|34871641|ref|XP_343922.1| similar to SOX15 [Rattus norvegicus] [ score 132 E 2e-30 ] [ range 45 .. 117 ]
+sequence
+-EKVKRPMNAFMVWSSAQRRQMAQQNPKMH--NSEISKRLGAQWKLLDDEEKRPFVEEAKRLRARHLHDY
+PDYKYR-------------*
+>P1;gi|38049145|gb|AAR10380.1| sex determining region Y protein [Fel... [ score 131 E 4e-30 ] [ range 52 .. 124 ]
+sequence
+-DRVKRPMNAFMVWSRDQRRKVALENPQTQ--NSEISKQLGYQWKMLTQAEKWPFFEEAQRLQALHREKY
+PGYRYR-------------*
+>P1;gi|8928377|sp|Q9XT60|SRY_CANFA Sex-determining region Y protein ... [ score 131 E 5e-30 ] [ range 51 .. 123 ]
+sequence
+-NRVRRPMNAFLVWSRDQRRKMALENPQMQ--NSEISKQLGYQWKMLTEAEKWPFFEEAQRLQAMHREKY
+PDYKYR-------------*
+>P1;gi|18034602|gb|AAL57589.1| SRY [Pygathrix bieti] [ score 130 E 9e-30 ] [ range 53 .. 125 ]
+sequence
+-DRVKRPMNAFIVWSRDQRRKMALENPKML--NSEISKQLGYQWKMLTEADKRPFFQEAQKLQAMHRERY
+PNYKYR-------------*
+>P1;gi|34855267|ref|XP_221517.2| similar to RIKEN cDNA 6720465F12 [R... [ score 155 E 2e-37 ] [ range 715 .. 791 ]
+sequence
+--APKRLPSAFFLLCSEYRPKIKGEHPGLS--IGDVARKLGEMWNNTAADDKQPCE-KAAKLKEKYEKDI
+AAYRAKG-------KPDAA*
+>P1;gi|38081824|ref|XP_139779.4| similar to putative pheromone recep... [ score 144 E 3e-34 ] [ range 36 .. 112 ]
+sequence
+-NAPKRPPSAFFLSCYEYHPKFKGEHPGLC--IGDVAKKLGEIWNNTTTDDKQSY-KKAAKLKEKYKKDI
+AAYRAKG-------KADA-*
+>P1;gi|34875750|ref|XP_237105.2| similar to cell division cycle asso... [ score 143 E 8e-34 ] [ range 92 .. 169 ] [ duplicate a ]
+sequence
+--APKRPPSAFFLFCSEYCPKIKGEHPGLS--IGDVAKKGGEMWNNTAADDKQPCGKMAAKLKEKYEKDI
+AAYRAKG-------KPDAA*
+>P1;gi|34875750|ref|XP_237105.2| similar to cell division cycle asso... [ score 143 E 8e-34 ] [ range 6 .. 74 ] [ duplicate b ]
+sequence
+---PKKPMSSYVFVCQEEHK----EAPDAS--VSEFSKACSDSWKAMSAKEKG--KDMAKADKARYEREM
+KIY----------------*
+>P1;gi|34853688|ref|XP_231271.2| similar to Pax transcription activa... [ score 140 E 1e-32 ] [ range 42 .. 118 ]
+sequence
+-NALKRPPSAF-LFCSDHRPKIKGKHPGLS--IGDVAKNLGEMWNSTVMDDKQPSEKKATKLKETYEKDI
+AAYRAKG-------KPDA-*
+>P1;gi|38079096|ref|XP_357411.1| similar to high mobility group prot... [ score 138 E 2e-32 ] [ range 83 .. 161 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSENRPKIKIEHPGLS--IGDTAKKLGEMWSEQSAKDKQPYEQKVAKLKEKYEKDI
+AAYRAKG-------KSEAA*
+>P1;gi|34861695|ref|XP_212881.2| similar to High mobility group prot... [ score 136 E 1e-31 ] [ range 94 .. 171 ] [ duplicate a ]
+sequence
+--APKRPPSAFYLFCSEHRPKIKGEHPGLS--IGDVARKLGEMWNSTATDDKQPCGKMAAKLKEKCEKNI
+AAYRAKG-------KPDAA*
+>P1;gi|34861695|ref|XP_212881.2| similar to High mobility group prot... [ score 136 E 1e-31 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFMQPCREEHKKKHPDAS--VSEFSKKCSERWKTMSAKEKGKCEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|38084589|ref|XP_144890.2| similar to high mobility group prot... [ score 132 E 1e-30 ] [ range 122 .. 199 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSENRPEIKIDHPGLS--IGDTSKKLGVMWSEQSAKDKQPYEQKAAKPKEKYEKDI
+AAFRAKG-------KSEA-*
+>P1;gi|34858031|ref|XP_227472.2| similar to Cgn-pending protein [Rat... [ score 132 E 3e-30 ] [ range 59 .. 132 ]
+sequence
+--APKGPPSTFFLFCSEYRPKIKGEHPGLS--IGDVAKKLGAMWTNTAADDKQPYGKMAAKLKEKYEKDI
+AAYRAKG-------K----*
+>P1;gi|38083217|ref|XP_144609.2| similar to High mobility group prot... [ score 129 E 1e-29 ] [ range 70 .. 147 ]
+sequence
+--APKRPLSAFFLFCSEYRPQIKGEHPGLS--IGDVAKKLGEMWNNTASDDKQPCEKKAAKLKEKYEKDI
+AAYRAKG-------KPDAA*
+>P1;gi|34879296|ref|XP_232701.2| similar to High mobility group prot... [ score 125 E 2e-28 ] [ range 123 .. 200 ] [ duplicate a ]
+sequence
+-NASKRPPSAFFLFCSEYRPKIKGEHPGLS--IGDAAKKLGEMGNNTAPVDKQLYEKKATELKEKYEKDI
+AAARAKG-------KPDA-*
+>P1;gi|34879296|ref|XP_232701.2| similar to High mobility group prot... [ score 125 E 2e-28 ] [ range 35 .. 114 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFVQTCQEEHKKKHPSVN--FSEFSKKCSERCKTVSFKEKGRFEDMAKDDKARYEREM
+KTYIPAP-------KEE--*
+>P1;gi|27717729|ref|XP_234947.1| similar to expressed sequence AI850... [ score 123 E 1e-27 ] [ range 42 .. 117 ]
+sequence
+-NTLKRPPSAF-LFCSEYCAKIKGEHPGLS--IGDVAKKLGEMWNNTAADDKQPYEKMAAKLK-KY-KDI
+AAYRAKE-------EPDAA*
+>P1;gi|34871376|ref|XP_212661.2| similar to high mobility group 1 pr... [ score 122 E 1e-27 ] [ range 93 .. 171 ] [ duplicate a ]
+sequence
+-NAPKTPPSAFFLFCSEYRPKIKGEHPGLS--IGDVVKKLGEMWTNTAADDKQPYEKMAAKLKEKYEKDI
+AAYRAKG-------KPDAA*
+>P1;gi|34871376|ref|XP_212661.2| similar to high mobility group 1 pr... [ score 122 E 1e-27 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKLMSSYAFFVQTCREEHKKKHPDAS--VSEFSKKCSERWKTMSAKEKGKFEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|34879580|ref|XP_344685.1| similar to High mobility group prot... [ score 122 E 3e-27 ] [ range 61 .. 138 ]
+sequence
+-HAPKRPPSAF-LFCSEYRPKVKGEHPGLS--IGDVAKKRGEMWNNTAADDKQPYGKMAAKLKEKYEKDV
+AAYRAKG-------KPDAA*
+>P1;gi|41147234|ref|XP_371791.1| similar to High mobility group prot... [ score 121 E 5e-27 ] [ range 69 .. 146 ]
+sequence
+--APKRPPSGFFLFSSEIRPKIKSTNPGIS--IGDVAKKLGEMWNNLNDSEKQPYITKTAKLKEKYEKDV
+ADSKSKG-------KFDGS*
+>P1;gi|34855120|ref|XP_345186.1| similar to High mobility group prot... [ score 120 E 1e-26 ] [ range 232 .. 309 ]
+sequence
+--VPKRPPSAFFLFCSEYHPKIKGQHPGLP--NGGVAKKLEEMWKNTAMDSKQPCEKKAAKLKEKYEKDI
+AAYRAKE-------KPDAA*
+>P1;gi|34932475|ref|XP_225740.2| similar to high mobility group prot... [ score 120 E 1e-26 ] [ range 60 .. 135 ]
+sequence
+---PQEASFGLFLFCSEYPPKIKGEHLSLS--IGDVAKKRGEMWNSTAADDKQPCEKMAAKLKEKCEKDI
+AAYRAKG-------KPDA-*
+>P1;gi|34878086|ref|XP_224783.2| similar to high mobility group 1 pr... [ score 119 E 1e-26 ] [ range 93 .. 165 ] [ duplicate a ]
+sequence
+-NVPKRPPSAFFLLCSEYCPKIKGEHPGLS--IGDVAKKLGEMWNNTAVEDKQPSEEKIAKLKEKYEKNI
+AAYRAK-------------*
+>P1;gi|34878086|ref|XP_224783.2| similar to high mobility group 1 pr... [ score 119 E 1e-26 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKSMSSYAFFVQNYLEEHKKKHPDAS--VSEFSKKCSERWNTRSVKEKGKCEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|38089103|ref|XP_357859.1| similar to High mobility group prot... [ score 118 E 2e-26 ] [ range 23 .. 100 ]
+sequence
+-NPPKRPPSAFFLFCSEYHPKIKGEHPGLS--IGDVAKKLGEMWNNTAADDKQPYEKKAAKLKEKYEKDI
+AAYRAKG-------KPDA-*
+>P1;gi|4885421|ref|NP_005333.1| high-mobility group box 3; high-mobi... [ score 118 E 3e-26 ] [ range 91 .. 169 ] [ duplicate a ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSTNPGIS--IGDVAKKLGEMWNNLNDSEKQPYITKAAKLKEKYEKDV
+ADYKSKG-------KFDGA*
+>P1;gi|38089939|ref|XP_357953.1| similar to dJ579F20.1 (high-mobilit... [ score 118 E 4e-26 ] [ range 90 .. 168 ]
+sequence
+-NAPKRPPLAFFLFCSEYHPQIKGEHPGLS--IGDVAKKLGEMWNNTVADDKQPYEKKAAKLKEKYKKDI
+AAYRAKG-------KPDAA*
+>P1;gi|27882654|gb|AAH44009.1| Hmgb3-prov protein [Xenopus laevis] [ score 118 E 4e-26 ] [ range 91 .. 169 ] [ duplicate a ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSTNPGIT--IGDVAKKLGEMWNNLSDSEKQPYNNKGAKLKEKYEKDV
+ADYKSKG-------KFDGA*
+>P1;gi|547652|sp|P36194|HMG1_CHICK High mobility group protein 1 (HM... [ score 117 E 6e-26 ] [ range 90 .. 166 ] [ duplicate a ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSTNPGIS--IGDVAKKLGEMWNNLSDGEKQPYNNKAAKLKEKYEKDV
+ADYKSKG-------KFD--*
+>P1;gi|6680231|ref|NP_032279.1| high mobility group box 3; high mobi... [ score 117 E 8e-26 ] [ range 91 .. 169 ] [ duplicate a ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSTNPGIS--IGDVAKKLGEMWNNLSDNEKQPYVTKAAKLKEKYEKDV
+ADYKSKG-------KFDGA*
+>P1;gi|6680231|ref|NP_032279.1| high mobility group box 3; high mobi... [ score 117 E 8e-26 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKGKMSAYAFFVQTCREEHKKKNPEVN--FAEFSKKCSERWKTMSSKEKSKFDEMAKADKVRYDREM
+KDY----------------*
+>P1;gi|38090927|ref|XP_123660.2| similar to High mobility group prot... [ score 116 E 1e-25 ] [ range 93 .. 170 ] [ duplicate a ]
+sequence
+-NAPKRPPSAF-LFCSEYRPKIKGEQPGLS--IGDVAKKLGEMWINTAAKDKQPYEKKAVKLKEKYEKDI
+AAYRAKG-------KPDAA*
+>P1;gi|29290594|emb|CAD83017.1| bM168F16.1 (novel protein similar to... [ score 115 E 2e-25 ] [ range 93 .. 171 ]
+sequence
+-NAPKRSPSAFFLFCSEYCHKIKGEHPGLS--IGVVAKKLGEMWINTAVYDKQPCEKKATKLKEKYEKDI
+AACRAKG-------KPDAA*
+>P1;gi|34881724|ref|XP_223440.2| similar to high mobility group prot... [ score 115 E 3e-25 ] [ range 91 .. 169 ] [ duplicate a ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSANPGIS--IGDVAKKLGEMWNNLSDSEKQPYMTKAAKLKEKYEKDV
+ADYKSKG-------KFDGA*
+>P1;gi|14705264|gb|AAH00903.2| HMGB2 protein [Homo sapiens] [ score 115 E 3e-25 ] [ range 93 .. 170 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEHRPKIKSEHPGLS--IGDTAKKLGEMWSEQSAKDKQPYEQKAAKLKEKYEKDI
+AAYRAKG-------KSEA-*
+>P1;gi|38049330|ref|XP_122017.2| similar to 40S ribosomal protein S8... [ score 115 E 3e-25 ] [ range 31 .. 108 ]
+sequence
+-NAPKKLTLAFFLLCSKYRSKIKGEHPGFF--IGDVAKKLGKMWNNTAVDDKQPYEKKAVKLKEKYKKNI
+AAYRDEG-------KPDA-*
+>P1;gi|104693|pir||JC1129 nonhistone chromosomal protein HMG-2 - chi... [ score 115 E 3e-25 ] [ range 93 .. 170 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEHRPKIKNDHPGLS--IGDTAKKLGEMWSEQSAKDKQPYEQKAAKLKEKYEKDI
+AAYRAKS-------KSDA-*
+>P1;gi|7446209|pir||T12113 transcription factor - fava bean >gi|2104... [ score 115 E 3e-25 ] [ range 556 .. 626 ]
+sequence
+-NAPKRALSGFMFFSQMERENLKKTNPGIS--FTDVGRVLGEKWKNLSAEEKEPYEAKAQADKKRYKDEI
+SGYK---------------*
+>P1;gi|45361297|ref|NP_989226.1| hypothetical protein MGC75695 [Xeno... [ score 114 E 4e-25 ] [ range 93 .. 169 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEFRPKIKGEHPGST--IGDIAKKLGEMWNNTATDDKLPYERKAAKLKEKYEKDV
+AAYRAKG-------KPE--*
+>P1;gi|45361297|ref|NP_989226.1| hypothetical protein MGC75695 [Xeno... [ score 114 E 4e-25 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKPMSSYAYFVQTCREEHKKKHPDAS--VAEFSKKCSERWKTMSAKEKSKFEDMAKADKVRYEREM
+KTY----------------*
+>P1;gi|38075731|ref|XP_357258.1| similar to High mobility group prot... [ score 114 E 6e-25 ] [ range 128 .. 201 ]
+sequence
+-----RPPSAF-LFCSEYRPKIKGKHPGLS--IGDVAKKLGEMWNNTAADGKQPYEKKAAKLKEKYEKDI
+AAYRARG-------KPDAA*
+>P1;gi|3342573|gb|AAC27651.1| high mobility group protein [Spalax eh... [ score 114 E 6e-25 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFVQTCREEHKKKHPDAS--VSEFSERCSERWKTMSAKEKGKFEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|41149025|ref|XP_373290.1| similar to high mobility group prot... [ score 113 E 1e-24 ] [ range 75 .. 153 ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSTNPGIS--IGDVAKKLGEMWNNLNDSEKQPYVTKAAKLKEKYEKDV
+VDCKLKG-------KFYGA*
+>P1;gi|19923236|ref|NP_003104.2| nuclear antigen Sp100 [Homo sapiens... [ score 113 E 1e-24 ] [ range 767 .. 845 ] [ duplicate a ]
+sequence
+-NAPKRPPLAFFLFCSEYRPKIKGEHPGLS--IDDVVKKLAGMWNNTAAADKQFYEKKAAKLKEKYKKDI
+AAYRAKG-------KPNSA*
+>P1;gi|19923236|ref|NP_003104.2| nuclear antigen Sp100 [Homo sapiens... [ score 113 E 1e-24 ] [ range 698 .. 752 ] [ duplicate b ]
+sequence
+--------------CEEH----KKKNPDAS--VSEFLKKCSETWKTIFAKEKGKFEDMAKADKAHYEREM
+KTY----------------*
+>P1;gi|38086523|ref|XP_358223.1| similar to High mobility group prot... [ score 112 E 2e-24 ] [ range 43 .. 119 ]
+sequence
+-NAAKRPPLAFFLFCSEYCPKIKGEHPGLS--IGDVAKKLGEMWNNTAADDKQPYEKKAAKLKGKYE-DI
+AAYRAKG-------KQDA-*
+>P1;gi|2134083|pir||S62355 high mobility group protein 1 - African c... [ score 112 E 3e-24 ] [ range 92 .. 165 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSDFRPKIKGEHPGST--IGDIAKKLGEMWNNTATDDKLPYERRAAKLKEKYEKDV
+AAYRAKG------------*
+>P1;gi|2134083|pir||S62355 high mobility group protein 1 - African c... [ score 112 E 3e-24 ] [ range 6 .. 77 ] [ duplicate b ]
+sequence
+---PKKPMSSYAYFVQTCREEHKKKHPDAS--VAEFSKKCSERWKTMS-KEKTKFEDMAKADKVRYEREM
+KSY----------------*
+>P1;gi|45360483|ref|NP_988904.1| hypothetical protein MGC75666 [Xeno... [ score 111 E 4e-24 ] [ range 94 .. 170 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEHRPQIKSESPGLS--IGDTAKKLGEMWSEQTPKDKLPYEQKAAKLKEKYEKDV
+AAYKAKG-------KSD--*
+>P1;gi|37546472|ref|XP_115897.2| similar to high mobility group prot... [ score 111 E 4e-24 ] [ range 90 .. 168 ] [ duplicate a ]
+sequence
+-NALKRPLSGFFLFCSEFHPKIKSTNPGIS--IGDMAKKLGEMWINYSDREKQPYITKAADLKEKYEKDV
+ADYKSKG-------KFDSA*
+>P1;gi|37546472|ref|XP_115897.2| similar to high mobility group prot... [ score 111 E 4e-24 ] [ range 8 .. 77 ] [ duplicate b ]
+sequence
+--KPKGKMSAYAFFAQTCREEHKKKNPEVP--VNEFSKKCSEKRKTMSGKEKTKFDEMAKVDKVHYDQEM
+KD-----------------*
+>P1;gi|7439855|pir||S26062 nonhistone chromosomal protein HMG-2 - mo... [ score 111 E 5e-24 ] [ range 93 .. 170 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFCLFCSENRPKIKIEYPGLS--IGDTAKKLGEMWSEQSAKEKQPYEQKAAKLKEKYEKDF
+AAYRVKG-------KSEA-*
+>P1;gi|30425392|ref|NP_848562.1| high-mobility group (nonhistone chr... [ score 110 E 7e-24 ] [ range 80 .. 155 ]
+sequence
+-NAPKRPLSGFFLFCSEFCPKIKSTNPGIS--IGDVAKKLGEMWNNLNDSEKQPYVTKVAKLK-KYEKDV
+ADYKSKG-------KLD--*
+>P1;gi|27370889|gb|AAH41262.1| MGC52825 protein [Xenopus laevis] [ score 109 E 1e-23 ] [ range 94 .. 170 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEQRPQIKSETPGLS--IGDTAKKLGERWSEQTSKDKLPFEQKAAKLKEKYEKDV
+AAYRAKG-------KSD--*
+>P1;gi|38085323|ref|XP_145046.2| similar to HMG-L6 [Mus musculus] >g... [ score 108 E 2e-23 ] [ range 102 .. 178 ]
+sequence
+-NAPKRPSSAFFLFCSEYRPKIKGESPGLS--IGDVAKKLGEMWNNTAADDKQLYE-KAAKLKEKYKKDI
+AAYRAKG-------KPDA-*
+>P1;gi|45382473|ref|NP_990233.1| high mobility group 1 protein [Gall... [ score 108 E 3e-23 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFVQTCREEHKKKHPDAS--VSEFSKKCSERWKTMSSKEKGKFEDMAKADKLRYEKEM
+KNY----------------*
+>P1;gi|639691|dbj|BAA06440.1| HMG-X protein [Xenopus laevis] [ score 108 E 4e-23 ] [ range 94 .. 170 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFIFCSEHRPQIKSETPGLS--IGDTAKKLGELWAEQTPKDKLPHEQKAAKLKEKYEKDV
+AAYRAKG-------KSD--*
+>P1;gi|20887631|ref|XP_134550.1| similar to High mobility group prot... [ score 108 E 4e-23 ] [ range 94 .. 172 ] [ duplicate a ]
+sequence
+-NAPERPPSAFFLFCSEYRPKIKGEHPGLS--IGDVAKKLGEMWTNTAADDKQPYEKKAAKLKEKYEKDI
+AAYRAKG-------KSDTA*
+>P1;gi|20887631|ref|XP_134550.1| similar to High mobility group prot... [ score 108 E 4e-23 ] [ range 6 .. 85 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFVQTCREEHKKKHPDAS--VSEFSKKCSERWKTMSAKEKGKCEDLAKADKARYVREM
+KTYIPLP-------KGE--*
+>P1;gi|28376646|ref|NP_758951.1| high-mobility group (nonhistone chr... [ score 108 E 4e-23 ] [ range 93 .. 171 ] [ duplicate a ]
+sequence
+-NAPKRTPSAFFLFCSAYRPKIKGEHPGLS--IGDVAKKLGEMWNNTAADDKQPYEKKAAKLKEKYEKDI
+AAYRAKG-------KPDAA*
+>P1;gi|28376646|ref|NP_758951.1| high-mobility group (nonhistone chr... [ score 108 E 4e-23 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKLMSSHAFFGQTCREAHKKKHPDAS--VSEFSKKCSERWKTMSAKEKGKFEDMAKADKAHYEREM
+KTY----------------*
+>P1;gi|15228471|ref|NP_189515.1| structure-specific recognition prot... [ score 107 E 5e-23 ] [ range 560 .. 630 ]
+sequence
+-NAPKRAMSGFMFFSQMERDNIKKEHPGIA--FGEVGKVLGDKWRQMSADDKEPYEAKAQVDKQRYKDEI
+SDYK---------------*
+>P1;gi|41151235|ref|XP_086648.5| similar to dJ579F20.1 (high-mobilit... [ score 107 E 6e-23 ] [ range 93 .. 171 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEYHPKIKGEHPGLS--IGDVAKKLGEMWNNTAADDKQPGEKKAAKLKEKYEKDI
+AAYQAKG-------KPEAA*
+>P1;gi|41151235|ref|XP_086648.5| similar to dJ579F20.1 (high-mobilit... [ score 107 E 6e-23 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFVQTCREEHKKKHSDAS--VSEFSNKCSERWKTMSAKEKGKFEDMAKADKTHYERQM
+KTY----------------*
+>P1;gi|38085441|ref|XP_284252.2| similar to high mobility group 1 pr... [ score 107 E 7e-23 ] [ range 96 .. 173 ] [ duplicate a ]
+sequence
+--APKRPPSAFFLFCSEYHPKIKGEHPDLS--IGDVAKKLGEMWNNTAADDKQPYEKKAAKLKEKAEKDI
+AAYRAKG-------KPDAA*
+>P1;gi|1085210|pir||S48708 high-mobility-group-1 protein - trout [ score 107 E 7e-23 ] [ range 92 .. 166 ] [ duplicate a ]
+sequence
+-NAPKRPSSAFFIFCADFRPQVKGETPGLS--IGDVAKKLGEKWNNLTAEDKVPYEKKASKLKEKYEKDI
+TAYRNKG-------K----*
+>P1;gi|1085210|pir||S48708 high-mobility-group-1 protein - trout [ score 107 E 7e-23 ] [ range 5 .. 77 ] [ duplicate b ]
+sequence
+---PRKPMSSYAYFVQTCRIEHKKKHPEAS--VSEFSKKCSERWKTMSAKEKGKFEDLAKLDKVRYEREM
+RSY----------------*
+>P1;gi|730839|sp|Q04678|SSRP_CHICK Structure-specific recognition pr... [ score 107 E 9e-23 ] [ range 506 .. 583 ]
+sequence
+-NVPKRPMSAYMLWLNANREKIKSDHPGIS--ITDLSKKAGELWKAMSKEKKEEWDRKAEDAKRDYEKAM
+KEYSVGN-------KSES-*
+>P1;gi|34859505|ref|XP_219107.2| similar to olfactory receptor MOR21... [ score 107 E 9e-23 ] [ range 387 .. 446 ]
+sequence
+-------------------KKIKDEHPGLT--FGDVAKKLGEMWNSTTLDGKQPCDKKAAKLKEKYKKDT
+AAYRAKG-------KSNA-*
+>P1;gi|38086900|ref|XP_195245.2| similar to high mobility group prot... [ score 106 E 1e-22 ] [ range 90 .. 168 ] [ duplicate a ]
+sequence
+-NVPKRPHSGFFLFFSEFCPKIKSTNPGIS--IGDVAKKMGEMWNNLSESEKQPYITKAGNLKEKYEKDV
+ADYTSKG-------KFDGA*
+>P1;gi|38086900|ref|XP_195245.2| similar to high mobility group prot... [ score 106 E 1e-22 ] [ range 6 .. 79 ] [ duplicate b ]
+sequence
+---PKGKMFAYAFFMQTCRNELKKKNPEVP--VNFAKKKCSEMWKTMSSKEKSKFDEIAKADKVCYDREM
+KDYR---------------*
+>P1;gi|34856502|ref|XP_342458.1| Structure specific recognition prot... [ score 106 E 1e-22 ] [ range 545 .. 622 ]
+sequence
+-NAPKRPMSAYMLWLNASREKIKSDHPGIS--ITDLSKKAGEIWKGMSKEKKEEWDRKAEDARREYEKAM
+KEYEG-G-------RGDSS*
+>P1;gi|38086910|ref|XP_358238.1| similar to High mobility group prot... [ score 106 E 2e-22 ] [ range 73 .. 150 ] [ duplicate a ]
+sequence
+-NAPKRPPLAF-LFCSEYCPKITGKHPGLS--IGDLAKKLGKMWHNTAADDKQPYEKKAAKLKEKYEKGI
+AAHGAKG-------EPDAA*
+>P1;gi|4586285|dbj|BAA76333.1| DUF87 [Xenopus laevis] [ score 106 E 2e-22 ] [ range 540 .. 617 ]
+sequence
+--APKRPMSAYMLWLNASREKIKSENPGIS--ITDLSKKAGEIWKNMSRDKKEEWDRRAEEAKRDYEKAM
+KEYNTSA-------PTEAS*
+>P1;gi|34856847|ref|XP_345378.1| similar to High mobility group prot... [ score 104 E 5e-22 ] [ range 65 .. 122 ]
+sequence
+----------------------KGEHPGLS--IGDVARKLGEMWNNAAADDKQPYGKMAAKLEEKYEKNI
+AAYRAKG-------KPDAA*
+>P1;gi|31204413|ref|XP_311155.1| ENSANGP00000019772 [Anopheles gambi... [ score 103 E 1e-21 ] [ range 271 .. 348 ] [ duplicate a ]
+sequence
+-NAPKRSLSAFFWFCHDERNKVKALNPEYG--VGDIAKELGRKWSDMDAEIKQKYEQMAEKDKQRYEQEM
+TEYKLKC-------KNEQ-*
+>P1;gi|38088839|ref|XP_357846.1| similar to High mobility group prot... [ score 103 E 1e-21 ] [ range 189 .. 243 ]
+sequence
+-----RPPSAFFLICSEYCPQVKGELPGLS--IGDVAKKLGEMWESTTEDDKQPYDKKAAKL--------
+-------------------*
+>P1;gi|38081822|ref|XP_112038.4| similar to putative pheromone recep... [ score 103 E 1e-21 ] [ range 79 .. 137 ]
+sequence
+-------------------PTPKGEHPGLC--IGDVAKKLGEIWNNTTTDDKQSY-KKAAKLKEKYKKDI
+AAYRAKG-------KADA-*
+>P1;gi|1083056|pir||B61611 nonhistone chromosomal protein HMG-2 - bo... [ score 101 E 3e-21 ] [ range 85 .. 161 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFSAEHRPKIKAEHPGLS--IGDTAKKLGEMWSQQSAKDKQPYEQKASKLKEKYEK-A
+AAYRAKG-------KSEA-*
+>P1;gi|1083056|pir||B61611 nonhistone chromosomal protein HMG-2 - bo... [ score 101 E 3e-21 ] [ range 6 .. 70 ] [ duplicate b ]
+sequence
+-NKPRGKMSSYAFFVQTSREEHKKKHPDAS--VN-----FSERWKTMSAKEKSKFEDMAKSDKARYDREM
+KNY----------------*
+>P1;gi|34857241|ref|XP_213021.2| similar to High mobility group prot... [ score 101 E 5e-21 ] [ range 93 .. 171 ] [ duplicate a ]
+sequence
+-DAPRRPPLAFFLFCSEYHPKIKGEHPGLS--IGDVAKKLGEMWNNTAADDKQPCEKKAAKLKEKYEKDN
+AAYRAKG-------KPDAA*
+>P1;gi|8920409|emb|CAB96421.1| SSRP1 protein [Zea mays] [ score 100 E 6e-21 ] [ range 555 .. 631 ]
+sequence
+-NAPKRAMTPFMYFSMAERGNMKSSNPDLP--TTEIAKKLGEMWQKMSGEEKQPYIQQAQVDKKRYEKES
+AVYRGEA-------TVD--*
+>P1;gi|2119032|pir||I51067 gene HMG-T2 protein - rainbow trout >gi|6... [ score 100 E 8e-21 ] [ range 95 .. 172 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFVFCAEHRGRIKADNPGMG--IGDIAKQLGLLWGKQTPKDKQPHEAKAAKLKEKYEKDV
+AAYKAKG-------GAGA-*
+>P1;gi|1419611|emb|CAA67363.1| HMG [Lampetra fluviatilis] [ score 100 E 1e-20 ] [ range 94 .. 172 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFIYCAEYRSKVRAENPGLT--IGSIAKKLGEMWNNAPADEKSIYERKTAKLKEKYDKDM
+ASYRSKG-------KVETS*
+>P1;gi|992639|gb|AAB08831.1| high mobility group protein-2 (HMG-2) [ score 100 E 1e-20 ] [ range 94 .. 171 ] [ duplicate a ]
+sequence
+-NAPKRLPSAFFLFCSEHRLKIKADCPGLS--IGDTAKKLGEKWSEQTPKDKIPFEQKAAKLKEKYEKDI
+AAYRAKG-------KVD--*
+>P1;gi|730842|sp|Q04931|SSRP_RAT Structure-specific recognition prot... [ score 100 E 2e-20 ] [ range 397 .. 474 ]
+sequence
+-NAPKRPMSAYMLWLNASREKIKSDHPGIS--ITDLSKKAGEIWKGMSKEKKEEWDRKGEDARREYEEAM
+KEYEG-G-------RGDSS*
+>P1;gi|27370402|ref|NP_766501.1| hypothetical protein C230068E13 [Mu... [ score 99 E 2e-20 ] [ range 252 .. 323 ]
+sequence
+-NEPQKPVSAYALFFRDTQAAIKGQNPNAT--FGEVSKIVASMWDSLGEEQKQVYKRKTEAAKKEYLKAL
+AAYRA--------------*
+>P1;gi|28490211|ref|XP_286141.1| similar to High mobility group prot... [ score 99 E 2e-20 ] [ range 93 .. 169 ] [ duplicate a ]
+sequence
+-NVLKRLPSAFFMFCSEHCPKIKSEHPCLS--IGDTAKKLGMMWSEQFAKDKQLNEQKVAKLKETCEKDI
+AAYHGEG-------KSE--*
+>P1;gi|38073807|ref|XP_193691.2| similar to high mobility group prot... [ score 99 E 3e-20 ] [ range 93 .. 171 ] [ duplicate a ]
+sequence
+-NASKRPPSAFFLFCSEYRPKIKGEHPGLS--IGDVAKKLGEMWNNTAADDKQSYEKKAAKLKEKYEKDI
+AAYRAKE-------KPDAA*
+>P1;gi|38073807|ref|XP_193691.2| similar to high mobility group prot... [ score 99 E 3e-20 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKKMSSYAFFVQTYWEEHKKKHPDAS--VSELSKKCSERWKTKAAKEKGKCEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|23396869|sp|Q9N1Q7|SP10_PANTR Nuclear autoantigen Sp-100 (Spe... [ score 99 E 3e-20 ] [ range 122 .. 200 ] [ duplicate a ]
+sequence
+-NAPKRPPLAFFLFCSEYRPKIKGEHPGLS--IDDVVKKLAGMWNNTAASDKQFYEKKAAKLKEKYKKDI
+AACRAKG-------KPNSA*
+>P1;gi|1711622|sp|P40649|SX12_XENLA SOX-12 protein >gi|7446217|pir||... [ score 98 E 5e-20 ] [ range 293 .. 369 ]
+sequence
+-NHIKRPMNAFMVWAKDERRKILQAFPDMH--NSSISKILGSRWKSMSNGEKQPYYEEQARLSRQHLERY
+PDYKYKP-------RPK--*
+>P1;gi|24642472|ref|NP_727960.1| Dorsal switch protein 1 CG12223-PA ... [ score 98 E 6e-20 ] [ range 261 .. 335 ] [ duplicate a ]
+sequence
+-NAPKRSLSAFFWFCNDERNKVKALNPEFG--VGDIAKELGRKWSDVDPEVKQKYESMAERDKARYEREM
+TEYKTSG-------K----*
+>P1;gi|14249636|ref|NP_116272.1| chromosome 20 open reading frame 10... [ score 97 E 7e-20 ] [ range 202 .. 283 ]
+sequence
+-NEPQKPVSAYALFFRDTQAAIKGQNPSAT--FGDVSKIVASMWDSLGEEQKQAYKRKTEAAKKEYLKAL
+AAYRAKS-------SPDQ-*
+>P1;gi|23396867|sp|Q9N1Q5|SP10_HYLLA Nuclear autoantigen Sp-100 (Spe... [ score 97 E 1e-19 ] [ range 141 .. 219 ]
+sequence
+-NAPKRPPLAFFLFCSEYRPKIKGEHPGLS--IDDVVKKLAEMWNNTAAADKQFYEKKAAKLKEKYKKDI
+AADRAKG-------KPNSA*
+>P1;gi|12003242|gb|AAG43497.1| SOX9 alpha2 [Oncorhynchus mykiss] [ score 97 E 1e-19 ] [ range 104 .. 180 ]
+sequence
+-NKPKRPMNAFMVWAQAARRKLADQYPHLH--NAELSKTLGKLWRLLNEGEKRPFVEEAERLRVQHKKDH
+PDYKYQP-------R----*
+>P1;gi|32419058|ref|XP_330007.1| hypothetical protein [Neurospora cr... [ score 97 E 1e-19 ] [ range 122 .. 193 ]
+sequence
+-NAPERPPSAYVLFSNKMREDLKGRN--LS--FTEIAKLVGENWQNLTPAEKEPYESKAQAYKEKYHAEL
+AEYKKTP------------*
+>P1;gi|38075320|ref|XP_357228.1| similar to High mobility group prot... [ score 96 E 1e-19 ] [ range 142 .. 204 ] [ duplicate a ]
+sequence
+-NAPKRPPLAF-LFCSEYHPKIKGEHPGLS--IGDVLKKIGEMWNRTAADDKQPYEKKAAE-RRTYMK--
+-------------------*
+>P1;gi|25402921|pir||F86339 protein F2D10.18 [imported] - Arabidopsi... [ score 96 E 1e-19 ] [ range 554 .. 627 ] [ duplicate a ]
+sequence
+-NKPKRPSSAFFVFMEDFRVTYKEEHPNKS--VAAVGKAGGEKWKSLSDSEKAPYVAKADKRKVEYEKNM
+KAYNKK-------------*
+>P1;gi|25402921|pir||F86339 protein F2D10.18 [imported] - Arabidopsi... [ score 96 E 1e-19 ] [ range 413 .. 486 ] [ duplicate b ]
+sequence
+-NKPKRPASAFFVFMEDFRETFKKENPNKS--VATVGKAAGDKWKSLSDSEKAPYVAKAEKRKVEYEKNI
+KAYNKK-------------*
+>P1;gi|18859397|ref|NP_571950.1| SRY-box containing gene 10; colourl... [ score 96 E 2e-19 ] [ range 109 .. 190 ]
+sequence
+----KRPMNAFMVWAQAARRKLADQYPHLH--NAELSKTLGKLWRLLNETDKRPFIEEAERLRKQHKKDY
+PEYKKNG-------KPGSS*
+>P1;gi|37779034|gb|AAP20177.1| high mobility group protein [Pagrus m... [ score 96 E 2e-19 ] [ range 92 .. 169 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCADFRPKVKGDYPGLS--IGDTAKKLGEMWNSSSAEEKQPYEKKAAKLKEKYDKDI
+VAYRTKG-------KVDS-*
+>P1;gi|37779034|gb|AAP20177.1| high mobility group protein [Pagrus m... [ score 96 E 2e-19 ] [ range 5 .. 77 ] [ duplicate b ]
+sequence
+---PKKPMSSYAYFVQTCREEHKKKHPEAS--VAEFSKRCSERWKTMSPKEKGKFEDMAKLDKVRYEREM
+KNY----------------*
+>P1;gi|7509975|pir||T27004 hypothetical protein Y48B6A.14 - Caenorha... [ score 95 E 3e-19 ] [ range 243 .. 310 ]
+sequence
+-NAPKRAMSAFFFWMQENRERIK--KPGMG--VADVAKAAGVEWGKLT--DKSRWEKKAADDKKRYEVDI
+ANYKK--------------*
+>P1;gi|41195077|ref|XP_208319.3| similar to Epidermal Langerhans cel... [ score 95 E 3e-19 ] [ range 221 .. 290 ]
+sequence
+-NEPQKPVSAYALFFPDTRAAIKGQNPNAT--FGEVSKIVASMWDSLGEEQKQIYKRKTEAAKKEYLKTL
+AAY----------------*
+>P1;gi|31239599|ref|XP_320213.1| ENSANGP00000009009 [Anopheles gambi... [ score 95 E 3e-19 ] [ range 543 .. 616 ]
+sequence
+--KPKRPLSAYMLWLNSAREQIKKENPGIK--VTEIAKKGGELWRGM--KDKSEWEYKAAKMKDEYNKQM
+QDFERNG-------GSK--*
+>P1;gi|34869245|ref|XP_223847.2| similar to High mobility group prot... [ score 95 E 3e-19 ] [ range 96 .. 169 ]
+sequence
+--VPKRPP--FPSSCSVLSTAPKS-NPGLS--ISDVAEKLGEMWKGTALDIEQPYEEKAAKLRDKYGKDI
+ATYRAKR-------KPDA-*
+>P1;gi|28557563|gb|AAO45187.1| SD06504p [Drosophila melanogaster] [ score 95 E 3e-19 ] [ range 554 .. 628 ]
+sequence
+--KPKRATTAFMLWLNDTRESIKRENPGIK--VTEIAKKGGEMWKEL--KDKSKWEDAAAKDKQRYHDEM
+RNYKPEA-------GGDS-*
+>P1;gi|34906296|ref|NP_914495.1| unnamed protein product [Oryza sati... [ score 95 E 3e-19 ] [ range 554 .. 630 ]
+sequence
+-NAPKRAMTPFMYFSMAERGNMKNNNPDLP--TTEIAKKLGEMWQKMTGEEKQPYIQQSQVDKKRYEKES
+AVYRGAA-------AMD--*
+>P1;gi|6624099|gb|AAF19244.1|AC007277_1 similar to nonhistone chromo... [ score 95 E 4e-19 ] [ range 93 .. 171 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFLLFCSEYCPKIKGEHPGLP--ISDVAKKLVEMWNNTFADDKQLCEKKAAKLKEKYKKDT
+ATYRAKG-------KPDAA*
+>P1;gi|6624099|gb|AAF19244.1|AC007277_1 similar to nonhistone chromo... [ score 95 E 4e-19 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFVQTCREECKKKHPDAS--VSEFSKKCSERWKAMSAKDKGKFEDMAKVDKDRYEREM
+KTY----------------*
+>P1;gi|42476233|ref|NP_955849.2| high mobility group box 1 [Danio re... [ score 95 E 4e-19 ] [ range 92 .. 166 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFIFCSEFRPKVKEETPGLS--IGDVAKRLGEMWNKISSEEKQPYEKKAAKLKEKYEKDI
+AAYRSKG-------K----*
+>P1;gi|38110237|gb|EAA55990.1| hypothetical protein MG01641.4 [Magna... [ score 95 E 5e-19 ] [ range 121 .. 193 ]
+sequence
+-NAPERPPSAYVLFSNKTRDDLKDRN--LT--FTEIAKLVGENWQALTPAEKEPYETQAQTAKEKYNADL
+AEYKQTT-------K----*
+>P1;gi|17551384|ref|NP_508955.1| EGg Laying defective EGL-13, Connec... [ score 95 E 5e-19 ] [ range 327 .. 403 ]
+sequence
+-NHIKRPMNAFMVWARDERRKILKAYPDMH--NSNISKILGSRWKGMSNSEKQPYYEEQSRLSKLHMEQH
+PDYRYRP-------RPK--*
+>P1;gi|38090763|ref|XP_356497.1| similar to high mobility group prot... [ score 94 E 5e-19 ] [ range 47 .. 117 ]
+sequence
+---------AFALFCSEYRPKIKGQHPGLS--IGDVAKTLGEMWNNTAVDNKQPHKKKAAKQKEKYEKDI
+AAYRAKG-------KPDAA*
+>P1;gi|39595420|emb|CAE60458.1| Hypothetical protein CBG04066 [Caeno... [ score 94 E 6e-19 ] [ range 556 .. 632 ]
+sequence
+-NEPKRAATAYFLWFNANRASLKED--GDT--VPEVAKKGGAKWKEMSADDKKEWEQKAAQDKIRYENEM
+KEYKKNG-------GGSSS*
+>P1;gi|7707826|dbj|BAA95427.1| sox9 alpha [Rana rugosa] [ score 94 E 8e-19 ] [ range 101 .. 177 ]
+sequence
+-NKPKRPMNAFMVWAQAARRKLADQYPHLH--NAELSKTLGKLWRLLNETEKRPFVEEAERLRIQHKKDH
+PDYKYQP-------R----*
+>P1;gi|18676887|dbj|BAB85048.1| unnamed protein product [Homo sapiens] [ score 94 E 1e-18 ] [ range 552 .. 630 ]
+sequence
+-NEPKRPMNAFMVWAKDERRKILQAFPDMH--NSNISKILGSRWKAMTNLEKQPYYEEQARLSKQHLEKY
+PDYKYKP-------RPK--*
+>P1;gi|38081822|ref|XP_112038.4| similar to putative pheromone recep... [ score 151 E 5e-36 ] [ range 8 .. 78 ]
+sequence
+--KPRGKMSSYAFFVQTCREEHKKMHLDASVNFSEFSKMCSERWKTMSGKEKGKIEDMAKADKACYEREM
+KTY----------------*
+>P1;gi|38083626|ref|XP_356991.1| similar to Ac2-008 [Mus musculus] [ score 144 E 5e-34 ] [ range 130 .. 200 ]
+sequence
+--KPRGKMPSYAFFVQTCREEHKKQHPDASVNFSEFSKKCSERWKTMSAKEKGKFEDMAKADKAPYEREI
+ETY----------------*
+>P1;gi|34861695|ref|XP_212881.2| similar to High mobility group prot... [ score 141 E 4e-33 ] [ range 8 .. 78 ] [ duplicate a ]
+sequence
+--KPRGKMSSYAFFMQPCREEHKKKHPDASVNFSEFSKKCSERWKTMSAKEKGKCEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|34879296|ref|XP_232701.2| similar to High mobility group prot... [ score 131 E 5e-30 ] [ range 37 .. 107 ]
+sequence
+--KPRDKMSSYAFFVQTCQEEHKKKHPYASVNFSEFSKKCSERCKTVSFKEKGRFEDMAKDDKARYEREM
+KTY----------------*
+>P1;gi|38075320|ref|XP_357228.1| similar to High mobility group prot... [ score 129 E 2e-29 ] [ range 57 .. 127 ]
+sequence
+--KLRGKMPSYAFFVQTCREEHKKQHPDASANFSELSKKCSERWETMSAKEKGKCEDMAKADKAHYEREM
+KTY----------------*
+>P1;gi|27695950|ref|XP_227645.1| similar to High mobility group prot... [ score 128 E 3e-29 ] [ range 8 .. 74 ]
+sequence
+--KPRGKMTSYAFFVQTCREEHKK-HPDASVNFSEFSKKCSERWKTMSAKQKGKFEDMAKADKARYEREI
+-------------------*
+>P1;gi|34856847|ref|XP_345378.1| similar to High mobility group prot... [ score 128 E 3e-29 ] [ range 8 .. 83 ]
+sequence
+--KPRGKMSSYAFFVQTCRKEHKKKHPDASVNFSEFSKKCSERWKTMSAKEKGKFEDMPKGDVARKLGEM
+-------------------*
+>P1;gi|31204413|ref|XP_311155.1| ENSANGP00000019772 [Anopheles gambi... [ score 125 E 2e-28 ] [ range 180 .. 250 ] [ duplicate a ]
+sequence
+--KPRGRMTAYAFFVQTCREEHKKKHPEEQVIFAEFSRKCAERWKTMLDKEKQRFHEMAEKDKARYELEM
+QSY----------------*
+>P1;gi|38087706|ref|XP_355963.1| RIKEN cDNA 1700010L04 [Mus musculus] [ score 125 E 2e-28 ] [ range 8 .. 77 ]
+sequence
+--KPRGKMSSYAFFVQTCQEEHKKKHRDASVNFSEFSKMCSERWKTMSTKVKGKFEDMAKADKAHYKREM
+KT-----------------*
+>P1;gi|38085915|ref|XP_358182.1| similar to polypyrimidine tract-bin... [ score 125 E 2e-28 ] [ range 8 .. 68 ]
+sequence
+--KLRGKMSLYAFFVQICREEHKKKHPDASVNFSEFSKKCSERWKTMSAKEKGEFEDLKKAAK-------
+-------------------*
+>P1;gi|38087121|ref|XP_358249.1| similar to High mobility group prot... [ score 125 E 4e-28 ] [ range 44 .. 114 ]
+sequence
+--KPRGKMSSYAFFVQTCREEHKKKHPDASVNFSELSKKCSERWKTMSAKEKGKFEDMAKAEKARYEREM
+KTY----------------*
+>P1;gi|34878086|ref|XP_224783.2| similar to high mobility group 1 pr... [ score 124 E 6e-28 ] [ range 8 .. 78 ]
+sequence
+--KSRGKMSSYAFFVQNYLEEHKKKHPDASVNFSEFSKKCSERWNTRSVKEKGKCEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|28490211|ref|XP_286141.1| similar to High mobility group prot... [ score 123 E 1e-27 ] [ range 8 .. 77 ]
+sequence
+--KPRGKMSSYAFFVQTCWEEHKKKHPDSSVNFAEFSKKCFERWKTMSANEKSKFEDLAKSDKAGYDREM
+KN-----------------*
+>P1;gi|31873563|emb|CAD97768.1| hypothetical protein [Homo sapiens] [ score 123 E 1e-27 ] [ range 38 .. 108 ]
+sequence
+--KPKGKMSAYAFFVQTCREEHKKKNPEVPVNFAEFSKKCSERWKTMSGKEKSKFDEMAKADKVRYDREM
+KDY----------------*
+>P1;gi|1079089|pir||S50068 nonhistone chromosomal protein HMG1-like ... [ score 120 E 7e-27 ] [ range 178 .. 248 ] [ duplicate a ]
+sequence
+--KPRGRMTAYAYFVQTCREEHKKKHPDETVIFAEFSRKCAERWKTMVDKEKKRFHEMAEKDKQRYEAEM
+QNY----------------*
+>P1;gi|27370889|gb|AAH41262.1| MGC52825 protein [Xenopus laevis] [ score 120 E 7e-27 ] [ range 8 .. 78 ]
+sequence
+--KPRGKMSSYAYFVQTCREEHKKKHPDSSVNFAEFSKKCSERWKTMSAKEKGKFEDMAKGDKVRYEREM
+KTY----------------*
+>P1;gi|38092643|ref|XP_356566.1| similar to Ac2-008 [Mus musculus] [ score 120 E 7e-27 ] [ range 47 .. 116 ]
+sequence
+--KQKGKMSSYAFFVQTCREEHKK-HPDVSVNFSEFSKKCSERWKAMSAKEKGKFEDMAKADKACYEREM
+KTY----------------*
+>P1;gi|38079507|ref|XP_357446.1| similar to Ac2-008 [Mus musculus] [ score 119 E 1e-26 ] [ range 62 .. 131 ]
+sequence
+--KPRGEMSSYAFFVQTCRKEHKK-HPDASVNFSEFSKKCSERWKTMSAKEKEKFEDMAKTDKAHYEREM
+KPY----------------*
+>P1;gi|992639|gb|AAB08831.1| high mobility group protein-2 (HMG-2) [ score 119 E 2e-26 ] [ range 8 .. 78 ]
+sequence
+--KPRGKMSSYAYFVQTCREEHKKKHPDASVNFAEFSKKCSERWKTMNAKEKGKFEDMAKGDKVRYDREM
+KSY----------------*
+>P1;gi|37779034|gb|AAP20177.1| high mobility group protein [Pagrus m... [ score 119 E 2e-26 ] [ range 7 .. 77 ]
+sequence
+--KPRGKMSSYAYFVQTCREEHKKKHPEASVNFAEFSKRCSERWKTMSPKEKGKFEDMAKLDKVRYEREM
+KNY----------------*
+>P1;gi|6624099|gb|AAF19244.1|AC007277_1 similar to nonhistone chromo... [ score 119 E 2e-26 ] [ range 8 .. 78 ]
+sequence
+--KPRGKMSSYAFFVQTCREECKKKHPDASVNFSEFSKKCSERWKAMSAKDKGKFEDMAKVDKDRYEREM
+KTY----------------*
+>P1;gi|639691|dbj|BAA06440.1| HMG-X protein [Xenopus laevis] [ score 117 E 6e-26 ] [ range 8 .. 78 ]
+sequence
+--KPRGKMSSYAYFVQTCREEHKKKHPDTSVNFSDFSKKCSERWKSMSAKEKGKFEDLAKGDKARYEREM
+KTY----------------*
+>P1;gi|26374460|dbj|BAB27638.2| unnamed protein product [Mus musculus] [ score 117 E 7e-26 ] [ range 8 .. 78 ] [ duplicate a ]
+sequence
+--KPRGKMSSYAFFVQTCREEHKKKHPDSSVNFAEFSKKCSERWKTMSAKEKSKFEDLAKSDKARYDREM
+KNY----------------*
+>P1;gi|41151235|ref|XP_086648.5| similar to dJ579F20.1 (high-mobilit... [ score 117 E 7e-26 ] [ range 8 .. 78 ]
+sequence
+--KPRGKMSSYAFFVQTCREEHKKKHSDASVNFSEFSNKCSERWKTMSAKEKGKFEDMAKADKTHYERQM
+KTY----------------*
+>P1;gi|38086740|ref|XP_145641.2| similar to High mobility group prot... [ score 117 E 7e-26 ] [ range 185 .. 255 ]
+sequence
+--KLRGKMFSYASFVQTCGEEHKKHYPDTSVNFTEFSKKCSEKWRSMSAKEKGKFEDMAKADNARYEGEM
+KTY----------------*
+>P1;gi|42476233|ref|NP_955849.2| high mobility group box 1 [Danio re... [ score 117 E 8e-26 ] [ range 7 .. 77 ]
+sequence
+--KPRGKMSSYAYFVQTCREEHKKKHPEATVNFSEFSKKCSERWKTMSAKEKGKFEDMAKLDKARYEREM
+KNY----------------*
+>P1;gi|32450384|gb|AAH54148.1| Hmgb1-prov protein [Xenopus laevis] [ score 116 E 1e-25 ] [ range 8 .. 78 ]
+sequence
+--KPRGKMSSYAYFVQTCREEHKKKHPDASVNFAEFSKKCSERWKTMSAKEKSKFEDMAKADKVRYEREM
+KTY----------------*
+>P1;gi|45382755|ref|NP_990817.1| non-histone chromosomal protein [Ga... [ score 116 E 1e-25 ] [ range 8 .. 78 ]
+sequence
+--KPRGKMSSYAYFVQTCREEHKKKHPDSSVNFAEFSRKCSERWKTMSSKEKGKFEEMAKGDKARYDREM
+KNY----------------*
+>P1;gi|38076448|ref|XP_356744.1| similar to Ac2-008 [Mus musculus] [ score 115 E 2e-25 ] [ range 23 .. 93 ]
+sequence
+--KPRSKMPSYVFFVQTCREEHKKKHPDASVDFSEFSKKCPERWKTMSAKEKGKFEDMAKADKARYEKEM
+KTY----------------*
+>P1;gi|45360483|ref|NP_988904.1| hypothetical protein MGC75666 [Xeno... [ score 115 E 2e-25 ] [ range 8 .. 78 ]
+sequence
+--KPRGKMSSYAYFVQTCREEHKKKHPDSSVNFAEFSKKCSERWKTMSAKEKSKFEEMAKNDKVRYEREM
+KTY----------------*
+>P1;gi|34865020|ref|XP_345821.1| similar to High mobility group prot... [ score 114 E 4e-25 ] [ range 8 .. 75 ]
+sequence
+--KPRGKMSSYAFFVQTCREEHKKKHPDPSVNFSEFSKKCSE---TMSAKEKGKFEDTAKADKARYEREM
+KTY----------------*
+>P1;gi|34875750|ref|XP_237105.2| similar to cell division cycle asso... [ score 114 E 6e-25 ] [ range 8 .. 74 ] [ duplicate a ]
+sequence
+--KPRGKMSSYV-FVQTCQEEHKEA-PDASVNFSEFSKACSDSWKAMSAKEKGK--DMAKADKARYEREM
+KIY----------------*
+>P1;gi|28376646|ref|NP_758951.1| high-mobility group (nonhistone chr... [ score 113 E 9e-25 ] [ range 8 .. 78 ]
+sequence
+--KLRGKMSSHAFFGQTCREAHKKKHPDASVNLSEFSKKCSERWKTMSAKEKGKFEDMAKADKAHYEREM
+KTY----------------*
+>P1;gi|2119032|pir||I51067 gene HMG-T2 protein - rainbow trout >gi|6... [ score 113 E 1e-24 ] [ range 8 .. 78 ]
+sequence
+--KPKGKTSSYAFFVATCREEHKKKHPGTSVNFSEFSKKCSERWRTMSAKEKVKFEDMAKGDKVRYDKDM
+KGY----------------*
+>P1;gi|104693|pir||JC1129 nonhistone chromosomal protein HMG-2 - chi... [ score 113 E 1e-24 ] [ range 8 .. 78 ] [ duplicate a ]
+sequence
+--KPRGKMSSYAYFVQTCPREHKKKHPDSSVNFAEFSRKCSERWKTMSSKEKGKFEEMAKGDKARYDREM
+KNY----------------*
+>P1;gi|38086718|ref|XP_142078.2| similar to High mobility group prot... [ score 112 E 2e-24 ] [ range 8 .. 78 ]
+sequence
+--KPRGKMFSYVFFVQTCQEEHKKKHPDASVNFLEFSKKCSERWKTMSAKEKRKFEDMAKSDKAHYERKM
+KTY----------------*
+>P1;gi|38084589|ref|XP_144890.2| similar to high mobility group prot... [ score 112 E 2e-24 ] [ range 43 .. 107 ] [ duplicate a ]
+sequence
+--------SQAAFFMQTCLEEHKKKHPDSSASLAEFSKKASERWNTMSAKEKSKFEDLAKSDKARYDREM
+KNY----------------*
+>P1;gi|38090440|ref|XP_137006.2| similar to high mobility group prot... [ score 112 E 2e-24 ] [ range 8 .. 78 ]
+sequence
+--KLWAKMSSYAFFVQTYREEHKKKQPDSSVNFAEFSKKCSERWKTMSSKEKSKFKDLANSDKARYDREM
+KNY----------------*
+>P1;gi|2134083|pir||S62355 high mobility group protein 1 - African c... [ score 112 E 2e-24 ] [ range 8 .. 77 ]
+sequence
+--KPRGKMSSYAYFVQTCREEHKKKHPDASVNFAEFSKKCSERWKTMS-KEKTKFEDMAKADKVRYEREM
+KSY----------------*
+>P1;gi|42656251|ref|XP_377755.1| similar to hypothetical protein [Ho... [ score 110 E 9e-24 ] [ range 158 .. 220 ]
+sequence
+--KPKDKMSVYAFFVQTCREEHKKKNPEDPVNFATYSKKCSERWKTMSVQEKSKFDEMVEADKVR-----
+-------------------*
+>P1;gi|4885421|ref|NP_005333.1| high-mobility group box 3; high-mobi... [ score 110 E 1e-23 ] [ range 8 .. 78 ] [ duplicate a ]
+sequence
+--KPKGKTSAYAFFVQTCREEHKKKNPEVPVNFAEFSKKCSERWKTVSGKEKSKFDEMAKADKVRYDREM
+KDY----------------*
+>P1;gi|7439855|pir||S26062 nonhistone chromosomal protein HMG-2 - mo... [ score 109 E 2e-23 ] [ range 8 .. 78 ] [ duplicate a ]
+sequence
+--KPLGKMSSYAFFVQTCREEHKKKHPNSSVNFAEISKKCSKRWKTMSAKENSKFEDLAKSDKACYYREM
+KNY----------------*
+>P1;gi|37546472|ref|XP_115897.2| similar to high mobility group prot... [ score 108 E 3e-23 ] [ range 8 .. 77 ]
+sequence
+--KPKGKMSAYAFFAQTCREEHKKKNPEVPVNFVEFSKKCSEKRKTMSGKEKTKFDEMAKVDKVHYDQEM
+KD-----------------*
+>P1;gi|27882654|gb|AAH44009.1| Hmgb3-prov protein [Xenopus laevis] [ score 107 E 7e-23 ] [ range 8 .. 78 ] [ duplicate a ]
+sequence
+--KPKGKMSAYAYFVQTCREEHKKKNPEIPVNFSEFSKKCSERWRGMSGKEKSKFDDLAKADKVRYDREM
+QDF----------------*
+>P1;gi|1419611|emb|CAA67363.1| HMG [Lampetra fluviatilis] [ score 107 E 7e-23 ] [ range 8 .. 78 ]
+sequence
+--KPKGKMSSYAYFVQTCREEHKKKNPEASVNFAEFSKKCSERWKTMSEKEKTRFEDMAKVDKVRYDREM
+KTY----------------*
+>P1;gi|19923236|ref|NP_003104.2| nuclear antigen Sp100 [Homo sapiens... [ score 105 E 4e-22 ] [ range 699 .. 752 ]
+sequence
+-------------------EEHKKKNPDASVKFSEFLKKCSETWKTIFAKEKGKFEDMAKADKAHYEREM
+KTY----------------*
+>P1;gi|38073807|ref|XP_193691.2| similar to high mobility group prot... [ score 104 E 6e-22 ] [ range 8 .. 78 ]
+sequence
+--KHRGKMSSYAFFVQTYWEEHKKKHPDASVNFSELSKKCSERWKTKAAKEKGKCEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|38085323|ref|XP_145046.2| similar to HMG-L6 [Mus musculus] >g... [ score 103 E 1e-21 ] [ range 17 .. 84 ]
+sequence
+----RDKTSSYAFFVQTCWEEHKKKHPDASVNFSEFSKKCSERWETMSAKEKGKCEDMAKADKAHYEREM
+KT-----------------*
+>P1;gi|22067233|ref|XP_171766.1| similar to high mobility group prot... [ score 101 E 4e-21 ] [ range 5 .. 75 ]
+sequence
+--KPKGEMSAYAFFMQTCREECKKKNPEVLVNFTEISKKCSERRKTMCGKEKSKPDEMTEVDEVLYDWEI
+KNY----------------*
+>P1;gi|34881649|ref|XP_228678.2| similar to RIKEN cDNA 1700001F22 [R... [ score 101 E 5e-21 ] [ range 46 .. 116 ]
+sequence
+--RPKVNVSPYVHFMMDFRNQTREQQPNTYYDFTEFSRKCSEKWRTISKKEKKKYEALAKRDKDRYQREM
+RNY----------------*
+>P1;gi|29825377|gb|AAO92280.1| putative HMG-like protein [Dermacento... [ score 100 E 6e-21 ] [ range 6 .. 76 ] [ duplicate a ]
+sequence
+--KPRGRMSAYAFFVQTCREEHKKKHPNENVVFAEFSKKCAERWKTMSESEKKRFHQMADKDKKRFDTEM
+ADY----------------*
+>P1;gi|29825377|gb|AAO92280.1| putative HMG-like protein [Dermacento... [ score 100 E 6e-21 ] [ range 96 .. 163 ] [ duplicate b ]
+sequence
+---PKRPLSAFFWFCNDERPNVRQESPDASV--GEVAKELGRRWNEVGDDVKSKYEGLAAKDKARYEKEL
+KAY----------------*
+>P1;gi|38086900|ref|XP_195245.2| similar to high mobility group prot... [ score 100 E 6e-21 ] [ range 8 .. 78 ]
+sequence
+--KPKGKMFAYAFFMQTCRNELKKKNPEVPVNFAKFFKKCSEMWKTMSSKEKSKFDEIAKADKVCYDREM
+KDY----------------*
+>P1;gi|29290594|emb|CAD83017.1| bM168F16.1 (novel protein similar to... [ score 98 E 5e-20 ] [ range 8 .. 78 ]
+sequence
+--KLRGKMSCICILYANLPGEHKTTYLDASVNFSEFSKKCSERWKTMSAKEKGKFEDMAKADKACYEREM
+KTY----------------*
+>P1;gi|34881785|ref|XP_229189.2| similar to RIKEN cDNA 1700001F22 [R... [ score 97 E 7e-20 ] [ range 136 .. 203 ] [ duplicate b ]
+sequence
+---PRKPPSSFLLFSQDHFEEIKEQHPNWTV--AQVAKAAGRMWARCSEADKIPYEERAAVLRAKYLEER
+EAY----------------*
+>P1;gi|30425392|ref|NP_848562.1| high-mobility group (nonhistone chr... [ score 95 E 5e-19 ] [ range 8 .. 69 ]
+sequence
+--KLRGKMSAFAFFVQTCREEHKK-NPEVPVNFAEFSKKCSERWKTMSGKEK--------ADKVHCDREM
+KDY----------------*
+>P1;gi|729735|sp|P40644|HMGH_STRPU High mobility group protein 1 hom... [ score 94 E 7e-19 ] [ range 10 .. 80 ] [ duplicate a ]
+sequence
+--KPRGRMSAYAYFVQDSRAEHGKNHPNSPVRFAEFSKDCSARWKALEEKGKGVFHEKSMRDKVRYDREM
+QSY----------------*
+>P1;gi|729735|sp|P40644|HMGH_STRPU High mobility group protein 1 hom... [ score 94 E 7e-19 ] [ range 100 .. 167 ] [ duplicate b ]
+sequence
+---PKRNLSAFFIFSGENRAAIKSVHPNWSV--GDIAKELAVRWRAMTAGEKIPFDKGAAKDKERYIKAM
+AEY----------------*
+>P1;gi|12314083|emb|CAC05320.1| dJ1007G16.5 (novel high-mobility gro... [ score 93 E 1e-18 ] [ range 8 .. 78 ]
+sequence
+--KPKANVSSYVHFLLNYRNKFKEQQPNTYVGFKEFSRKCSEKWRSISKHEKAKYEALAKLDKARYQEEM
+MNY----------------*
+>P1;gi|38089955|ref|XP_357957.1| similar to HMG-1 [Mus musculus] [ score 93 E 1e-18 ] [ range 52 .. 106 ]
+sequence
+-----------------SQEEHKKKQPDASVNFSEFSKKCSERWKTISAKERGKFEDMAKADKARYEREI
+KN-----------------*
+>P1;gi|27732721|ref|XP_232755.1| similar to RIKEN cDNA 1700001F22 [R... [ score 93 E 2e-18 ] [ range 8 .. 78 ]
+sequence
+--RPKVNVSSYIHFMINFRNKFKEQQPNTYLTFNEFSRRCSEKWRSISKNEKAKFEAIAKLDKARYQEEM
+MNY----------------*
+>P1;gi|34932475|ref|XP_225740.2| similar to high mobility group prot... [ score 91 E 5e-18 ] [ range 8 .. 97 ]
+sequence
+--KPRGKMSSYAFFVQTCGEEHKKKHPDASVNFSEFSKKCSERCSEYPPKIKGEHLSLSIGDVAKKRGEM
+-------------------*
+>P1;gi|14550384|gb|AAK67238.1| Sheath to neuron transformation prote... [ score 91 E 7e-18 ] [ range 42 .. 114 ] [ duplicate a ]
+sequence
+--KPRGKTSPYGFFVKMCYEEHKKKYPNENVQVTEISKKCSEKWKTMVDDEKRRFYELAQKDAERYQAEV
+AAY----------------*
+>P1;gi|14550384|gb|AAK67238.1| Sheath to neuron transformation prote... [ score 91 E 7e-18 ] [ range 133 .. 200 ] [ duplicate b ]
+sequence
+---PKRALSAFFFYSQDKRPEIQAGHPDW--KVGQVAQELGKMWKLVPQETKDMYEQKAQADKDRYADEM
+RNY----------------*
+>P1;gi|34881403|ref|XP_228440.2| similar to RIKEN cDNA 1700001F22 [R... [ score 91 E 7e-18 ] [ range 10 .. 78 ]
+sequence
+----KVNVSPYVHFMIDFKNQMKEQQPNTYYDFTEFSRKCSEKWRTISKKEKKKYEALAKRDKVRYQHEM
+RNY----------------*
+>P1;gi|38079018|ref|XP_357408.1| similar to HMG-1 [Mus musculus] [ score 91 E 9e-18 ] [ range 76 .. 127 ]
+sequence
+---------------------AQEEAPGCFFNFSEFSMKCSERWETMTAKEKGKFEDMGKADKARYEREM
+KTY----------------*
+>P1;gi|38174595|gb|AAH61030.1| Unknown (protein for MGC:74137) [Mus ... [ score 90 E 1e-17 ] [ range 8 .. 78 ]
+sequence
+--RPKVNVSSYIHFMLNFRNKFKEQQPNTYLGFKEFSRKCSEKWRSISKHEKAKYEALAELDKARYQQEM
+MNY----------------*
+>P1;gi|34881293|ref|XP_228527.2| similar to RIKEN cDNA 1700001F22 [R... [ score 89 E 2e-17 ] [ range 8 .. 78 ]
+sequence
+--RPKVNVSPAVHFMMDFKNQMKEQQPNTCYDFTEFSRKCSEKWRSISKKEKKKYEALAKRDKDRYQHEM
+RNY----------------*
+>P1;gi|27466905|gb|AAO12859.1| high mobility group protein [Branchio... [ score 89 E 2e-17 ] [ range 7 .. 77 ] [ duplicate a ]
+sequence
+--KPKGKMSAYACFVQECRREHEKKYPNKQVVFTEFSQKCASRWKTMNDDEKKRFQVLAEADKRRYEQNM
+AKY----------------*
+>P1;gi|27466905|gb|AAO12859.1| high mobility group protein [Branchio... [ score 89 E 2e-17 ] [ range 98 .. 164 ] [ duplicate b ]
+sequence
+---PKRAMSAFFMYCADARPKVRAAHPDFQV--GDIAKILGKQWKEISDSDKAKYEKKAQTERARYQKEL
+AE-----------------*
+>P1;gi|23396867|sp|Q9N1Q5|SP10_HYLLA Nuclear autoantigen Sp-100 (Spe... [ score 89 E 2e-17 ] [ range 75 .. 126 ]
+sequence
+---------------------HKKKNPDASVNLSEFLKKCSEMWKTIFAKEKGKFEDMAKADKAHYEREM
+KTY----------------*
+>P1;gi|34858031|ref|XP_227472.2| similar to Cgn-pending protein [Rat... [ score 89 E 2e-17 ] [ range 8 .. 97 ]
+sequence
+--KPRGKMSSYAFFVQTCREEHKKKHPDASVDFSEFSKKCAERCSEYRPKIKGEHPGLSIGDVAKKLGAM
+-------------------*
+>P1;gi|39594857|emb|CAE70725.1| Hypothetical protein CBG17468 [Caeno... [ score 89 E 2e-17 ] [ range 137 .. 204 ] [ duplicate b ]
+sequence
+---PKRALSAFFFYSQDKRPEIQGQHPDW--KVGQVAQELGKMWKLVPQETKDAYETKAQADKDRYAEEM
+RHY----------------*
+>P1;gi|38088839|ref|XP_357846.1| similar to High mobility group prot... [ score 85 E 4e-16 ] [ range 153 .. 224 ]
+sequence
+------KNSSYIFFVQACCEEHKKKHPDTSVNFSEFSKKCSERPPSACPQVKGELPGLSIGDVAKKLGEM
+-------------------*
+>P1;gi|34881606|ref|XP_346355.1| similar to RIKEN cDNA 1700001F22 [R... [ score 84 E 8e-16 ] [ range 8 .. 72 ]
+sequence
+--RPKVNVSPYVHFMMDFRNQTREQQPNIYYDFTEFSRKCSEKWKTISKKEKKKYEALAKSDKDRYQ---
+-------------------*
+>P1;gi|34855120|ref|XP_345186.1| similar to High mobility group prot... [ score 84 E 9e-16 ] [ range 172 .. 230 ]
+sequence
+--KPRGKMSSHAFFVQTYQREHKKKHLDASVNFSEFFKKCSEREMKACIPPKGKFKDL------------
+-------------------*
+>P1;gi|43699507|gb|EAF04980.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 64 .. 134 ]
+sequence
+--KPKRNSSAWIFFTKDSQVRAKIKEQIPDIKPKSYLKELSKIWKSIDSNEKKKYTDMAAKDKIRYEEEM
+KSY----------------*
+>P1;gi|29841393|gb|AAP06425.1| similar to HMG1-like protein - fruit ... [ score 82 E 4e-15 ] [ range 7 .. 77 ]
+sequence
+--KPKGRMNAYALFLQSMRADHKKKHPNATLDFKSFSKECSEQWKNLSAKEKKKFKDLAEKDKERYRCEM
+EHY----------------*
+>P1;gi|34881375|ref|XP_346341.1| similar to HMG-1 [Rattus norvegicus] [ score 80 E 1e-14 ] [ range 8 .. 83 ]
+sequence
+--KMKGKMPSYAFFAQICLETHINKQQDDSVNFSTFSKKCLGRWKIMSANGKGKFEDMAKGDVAKNLREM
+-------------------*
+>P1;gi|40365359|gb|AAR85353.1| high mobility group B1 protein [Schis... [ score 79 E 2e-14 ] [ range 7 .. 77 ]
+sequence
+--KPKGAMNAYAAFLQSMRADHKKKHPNVTLDFKSFSKECSEQWKNLSAKEKKKFKDLADKDKERYRCEM
+EHY----------------*
+>P1;gi|44296427|gb|EAI27522.1| unknown [environmental sequence] [ score 79 E 2e-14 ] [ range 305 .. 372 ]
+sequence
+---PKRALSAYMFFSAAKRAEVAAANPDFGI--TDIAKALGERWKTITDEEKNVYQQQADEDKIRYEREM
+TAY----------------*
+>P1;gi|34871189|ref|XP_343877.1| similar to HMG-1 [Rattus norvegicus] [ score 79 E 3e-14 ] [ range 69 .. 129 ]
+sequence
+---------SYSRFNGTSRGIHRKKHPDASVNFSEFSKMCSERWKTTSAKEKGRFEDMAKADKA------
+-------------------*
+>P1;gi|41149025|ref|XP_373290.1| similar to high mobility group prot... [ score 77 E 1e-13 ] [ range 8 .. 63 ]
+sequence
+--KPQGKMSAYAFSVQTC---------------CKFSKKCSGRWKTMSSKEKFKFGEMAKADEVCYDREM
+KDY----------------*
+>P1;gi|45360537|ref|NP_988941.1| hypothetical protein MGC75938 [Xeno... [ score 77 E 1e-13 ] [ range 68 .. 135 ]
+sequence
+---PKAPVTGYVRFLNERREQIRAQHPD--LPFPEITKMLGAEWSTLPPHEKQRYLDEAERDKQQYMKEL
+REY----------------*
+>P1;gi|7439867|pir||S68823 HMG1 protein homolog, 6K - mouse [ score 75 E 4e-13 ] [ range 8 .. 54 ]
+sequence
+--KPRGKMASYAFFVQTCPEELKKKHPDASVNFSEFSKKCSERWKTISA---------------------
+-------------------*
+>P1;gi|38086057|ref|XP_358185.1| similar to high mobility group prot... [ score 74 E 7e-13 ] [ range 8 .. 68 ]
+sequence
+--KPKGKMSAYAFIVQKCREEHKKKNPEVTVNFAECSKKCSERWKTMSSKEKSKSDEMAKADK-------
+-------------------*
+>P1;gi|38074143|ref|XP_357159.1| similar to High mobility group prot... [ score 74 E 1e-12 ] [ range 70 .. 135 ]
+sequence
+------------FFVQTCREEHKKKHPDASVNFSEFSKKCSERPPSARPKIKGEHPALSIGDVAKKLGEM
+-------------------*
+>P1;gi|38018014|gb|AAR08136.1| high mobility group box protein HMGB2... [ score 74 E 1e-12 ] [ range 9 .. 75 ] [ duplicate a ]
+sequence
+--KPKGRTSAYAFYVQERRDIYRKN--GDTVVFAPFSQECAELWKNV--KDKKAYQDMAAVDKERYDREM
+AEY----------------*
+>P1;gi|38018014|gb|AAR08136.1| high mobility group box protein HMGB2... [ score 74 E 1e-12 ] [ range 94 .. 160 ] [ duplicate b ]
+sequence
+--KPKRSLTAFLFFCSEERPKMKEKNPGSSV--GDLAKLLGAKWKGMSEDDKQPFSDMAQDDKDRYNDEM
+A------------------*
+>P1;gi|34869245|ref|XP_223847.2| similar to High mobility group prot... [ score 73 E 2e-12 ] [ range 39 .. 80 ]
+sequence
+-------------------------------NQQEFPKKCSARWKTMSTQERGRFEDITKADMTHYKREM
+KTY----------------*
+>P1;gi|23394916|gb|AAN31640.1| high mobility group protein 1; HMG1 [... [ score 72 E 4e-12 ] [ range 21 .. 90 ]
+sequence
+--KPKRATSAYFFFLAQCRKEAAKAG-KAPTKIAEFTKEASEKWKALSADKKKPFEAAAADDKRRYETEM
+AVY----------------*
+>P1;gi|34859505|ref|XP_219107.2| similar to olfactory receptor MOR21... [ score 71 E 5e-12 ] [ range 318 .. 353 ]
+sequence
+-------------------------------------KKFSERWKVVSTKEKRKFKGMPKADKACYEREM
+KSY----------------*
+>P1;gi|38077082|ref|XP_357322.1| similar to High mobility group prot... [ score 69 E 2e-11 ] [ range 12 .. 57 ]
+sequence
+-------------------EEHKKKHQDASVKFSAFSKKCSERWKTMSAKEKRKLGDMAKADKAR-----
+-------------------*
+>P1;gi|34879580|ref|XP_344685.1| similar to High mobility group prot... [ score 69 E 2e-11 ] [ range 5 .. 47 ]
+sequence
+------------------------------VHNSESSKRCSTRWKTMSAKEKRRFEDMAKTDKAHYEREM
+KTY----------------*
+>P1;gi|41205062|ref|XP_372577.1| similar to High mobility group prot... [ score 67 E 7e-11 ] [ range 8 .. 52 ]
+sequence
+--KLRGKMSSYAFFVQT--------------------------WKTISAKDKGKFQDMAKVDKAHYEREM
+KTY----------------*
+>P1;gi|9858863|gb|AAG01174.1| smarce1-related protein [Homo sapiens] [ score 67 E 9e-11 ] [ range 70 .. 137 ]
+sequence
+---PKAPVTGYVRFLNERREQIRTRHPD--LPFPEITKMLGAEWSKLQPTEKQRYLDEAEREKQQYMKEL
+RAY----------------*
+>P1;gi|34854335|ref|XP_345164.1| similar to High mobility group prot... [ score 67 E 1e-10 ] [ range 2 .. 30 ]
+sequence
+------------------------------------GKKCSERWKTMSVKEKGKFEDMAKADKTR-----
+-------------------*
+>P1;gi|34862259|ref|XP_343154.1| similar to PDZ-domain protein Gipc3... [ score 67 E 1e-10 ] [ range 70 .. 137 ]
+sequence
+---PKAPVTGYVRFLNERREQIRTRHPD--LPFPEITKMLGAEWSKLQPAEKQRYLDEAEKEKQQYLKEL
+WAY----------------*
+>P1;gi|30584799|gb|AAP36652.1| Homo sapiens high-mobility group 20A ... [ score 66 E 2e-10 ] [ range 103 .. 170 ]
+sequence
+---PKSPLTGYVRFMNERREQLRAKRPE--VPFPEITRMLGNEWSKLPPEEKQRYLDEADRDKERYMKEL
+EQY----------------*
+>P1;gi|34855267|ref|XP_221517.2| similar to RIKEN cDNA 6720465F12 [R... [ score 65 E 3e-10 ] [ range 668 .. 715 ] [ duplicate a ]
+sequence
+----------------TAGEEHEKKHPDAFVNFLEFSKKCSEREMKTYISPKGETKEKVRDPSA------
+-------------------*
+>P1;gi|34855267|ref|XP_221517.2| similar to RIKEN cDNA 6720465F12 [R... [ score 65 E 3e-10 ] [ range 716 .. 782 ] [ duplicate b ]
+sequence
+---PKRLPSAFFLLCSEYRPKIKGEHPGLSI--GDVARKLGEMWNNTAADDKQPCEKAAKL-KEKYEKDI
+AAY----------------*
+>P1;gi|38075731|ref|XP_357258.1| similar to High mobility group prot... [ score 65 E 4e-10 ] [ range 105 .. 162 ]
+sequence
+-------------------NEHKKKHPDASVNFSEFSKKCSERPPSARPKIKGKHPGLSIGDVAKKLGEM
+-------------------*
+>P1;gi|40744280|gb|EAA63456.1| hypothetical protein AN2885.2 [Asperg... [ score 64 E 6e-10 ] [ range 27 .. 94 ]
+sequence
+---PKRGLSAYMFFANDNRDKVREENPG--ISFGQVGKMLGEKWKSLSDKERKPYEDKAAADKKRYEDEK
+AAY----------------*
+>P1;gi|25402921|pir||F86339 protein F2D10.18 [imported] - Arabidopsi... [ score 64 E 1e-09 ] [ range 555 .. 624 ] [ duplicate a ]
+sequence
+--KPKRPSSAFFVFMEDFRVTYKEEHPK-NKSVAAVGKAGGEKWKSLSDSEKAPYVAKADKRKVEYEKNM
+KAY----------------*
+>P1;gi|25402921|pir||F86339 protein F2D10.18 [imported] - Arabidopsi... [ score 64 E 1e-09 ] [ range 414 .. 483 ] [ duplicate b ]
+sequence
+--KPKRPASAFFVFMEDFRETFKKENPK-NKSVATVGKAAGDKWKSLSDSEKAPYVAKAEKRKVEYEKNI
+KAY----------------*
+>P1;gi|6319565|ref|NP_009647.1| Homologous to mammalian high mobilit... [ score 64 E 1e-09 ] [ range 27 .. 94 ]
+sequence
+---PKRRLSAYMFFANENRDIVRSENPD--VTFGQVGRILGERWKALTAEEKQPYESKAQADKKRYESEK
+ELY----------------*
+>P1;gi|730136|sp|P40632|NHP1_BABBO High mobility group protein homol... [ score 63 E 2e-09 ] [ range 23 .. 92 ]
+sequence
+---PKRALSSYMFFAKEKRVEIIAENPEIAKDVAAIGKMIGAAWNALSDEEKKPYERMSDEDRVRYEREK
+AEY----------------*
+>P1;gi|44164206|gb|EAH47300.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 66 .. 133 ]
+sequence
+---PKKPLSAYIIFTKERRSAVVAENPGLSL--TEVTKELGARWKAIGAEEKSVFEAKAKEDKERYAVEM
+EAY----------------*
+>P1;gi|6273391|gb|AAF06350.1| nonhistone protein 6 [Candida albicans] [ score 62 E 3e-09 ] [ range 19 .. 86 ]
+sequence
+---PKRSLSAYMFFANENRDIVRAENPG--ISFGQVGKLLGEKWKALNSEDKLPYENKAEADKKRYEKEK
+AEY----------------*
+>P1;gi|479831|pir||S35511 high mobility group protein - Arabidopsis ... [ score 62 E 3e-09 ] [ range 561 .. 628 ]
+sequence
+---PKRAMSGFMFFSQMERDNIKKEHPG--IAFGEVGKVLGDKCVKCLLMIKSHMKPRLQVDKQRYKDEI
+SDY----------------*
+>P1;gi|32404480|ref|XP_322853.1| hypothetical protein [Neurospora cr... [ score 62 E 4e-09 ] [ range 26 .. 93 ]
+sequence
+---PKRGLSAYMFFANEQRENVREENPG--VSFGQVGKILGERWKALSDKQRAPYEAKAAADKKRYEDEK
+QAY----------------*
+>P1;gi|42546802|gb|EAA69645.1| conserved hypothetical protein [Gibbe... [ score 62 E 4e-09 ] [ range 24 .. 91 ]
+sequence
+---PKRGLSAYMFFANEQRENVREENPG--ISFGQVGKLLGERWKALNEKQRAPYEAKAAADKKRYEDEK
+QAY----------------*
+>P1;gi|34877188|ref|XP_346068.1| similar to dJ579F20.1 (high-mobilit... [ score 62 E 5e-09 ] [ range 35 .. 87 ]
+sequence
+--------------VAACWKEHKKKQPDVSVNFSEFSKKCSERYHS---KTKGEHPDLSIGDVAKKLGLM
+-------------------*
+>P1;gi|38104116|gb|EAA50730.1| hypothetical protein MG04489.4 [Magna... [ score 61 E 5e-09 ] [ range 24 .. 91 ]
+sequence
+---PKRGLSAYMFFANEQRDNVREENPG--VTFGQVGKILGERWKALSDKQRAPYDAKAAADKKRYEDEK
+AAY----------------*
+>P1;gi|38083217|ref|XP_144609.2| similar to High mobility group prot... [ score 61 E 6e-09 ] [ range 21 .. 54 ] [ duplicate a ]
+sequence
+---------------------------------------CTKDLETMSAKDKGRFEDMAKADKARCEREM
+KTY----------------*
+>P1;gi|729727|sp|P40673|HMG2_BOVIN High mobility group protein 2 (HM... [ score 60 E 1e-08 ] [ range 8 .. 39 ]
+sequence
+--KPRGKMSSYAFFVQTCREEHKKKHPDASVNFA------------------------------------
+-------------------*
+>P1;gi|19114226|ref|NP_593314.1| nonhistone chromosomal protein; con... [ score 60 E 1e-08 ] [ range 16 .. 83 ]
+sequence
+---PKRNMSAFMFFSIENREKMKTDNPDA--TFGQLGSLLGKRWKELTSTEREPYEEKARQDKERYERER
+KEY----------------*
+>P1;gi|45190602|ref|NP_984856.1| AEL005Cp [Eremothecium gossypii] >g... [ score 59 E 4e-08 ] [ range 97 .. 163 ]
+sequence
+---PKRPTNAYLLFCEMNKDKIRHEH---AANNVDMTKVLPEIWKNMDEEAKKPYYDLYNADRLRYQREM
+TAY----------------*
+>P1;gi|19570868|dbj|BAB86364.1| histone-like protein [Physarum polyc... [ score 58 E 5e-08 ] [ range 289 .. 356 ]
+sequence
+---PKRALSAFSIFVQENSAIIKKAQPKA--KVTEIMKQLSKQWNTISADKKKKYEDAAAQDRVRYLKEK
+EEF----------------*
+>P1;gi|34853688|ref|XP_231271.2| similar to Pax transcription activa... [ score 58 E 7e-08 ] [ range 1 .. 27 ]
+sequence
+----------------------------------------------MCAKENGKYEDMAKADKAHHEREM
+KTY----------------*
+>P1;gi|38083770|ref|XP_203701.3| hypothetical protein LOC280487 [Mus... [ score 57 E 8e-08 ] [ range 1 .. 27 ]
+sequence
+----------------------------------------------MSVKEKGKFEDMAKAYKACYEREM
+KTY----------------*
+>P1;gi|123380|sp|P26586|HMGL_TRYBR High mobility group protein homol... [ score 57 E 1e-07 ] [ range 206 .. 267 ] [ duplicate a ]
+sequence
+---PKRAMTSFMFFSSDFRSKH------SDLSIVEMSKAAGAAWKELGPEERKVYEEMAEKDKERYKREM
+A------------------*
+>P1;gi|123380|sp|P26586|HMGL_TRYBR High mobility group protein homol... [ score 57 E 1e-07 ] [ range 118 .. 185 ] [ duplicate b ]
+sequence
+---PKPAVSSYLLFVADQREELKAKNPG--MQNTAILQTLGKMWSDASDDVKEHYRKKAEEDKARFRREV
+DEY----------------*
+>P1;gi|15220344|ref|NP_171980.1| high mobility group (HMG1/2) family... [ score 57 E 1e-07 ] [ range 263 .. 329 ]
+sequence
+---PKPNRSGYNFFFAEQHARLKPLHPGKD---RDISRMIGELWNKLNEDEKLIYQGKAMEDKERYRTEM
+EDY----------------*
+>P1;gi|25151035|ref|NP_740846.1| SOX (mammalian SRY box) related (44... [ score 56 E 2e-07 ] [ range 94 .. 156 ]
+sequence
+----KRPMNAFMVWSQMERRKICEHQPD--MHNAEISKQLGSRWRSLTDEEKAPFVAEAERLRVCHMQE-
+-------------------*
+>P1;gi|34855267|ref|XP_221517.2| similar to RIKEN cDNA 6720465F12 [R... [ score 127 E 9e-29 ] [ range 715 .. 786 ]
+sequence
+--APKRLPSAFFLLCSEYRPKIKGEHP--GLSIGDVARKLGEMWNNAD--DKQPCE-KAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|38081824|ref|XP_139779.4| similar to putative pheromone recep... [ score 124 E 6e-28 ] [ range 35 .. 108 ]
+sequence
+TNAPKRPPSAFFLSCYEYHPKFKGEHP--GLCIGDVAKKLGEIWNNTD--DKQSY-KKAAKLKEKYKKDI
+AAYRAKG------------*
+>P1;gi|38079096|ref|XP_357411.1| similar to high mobility group prot... [ score 120 E 6e-27 ] [ range 83 .. 156 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSENRPKIKIEHP--GLSIGDTAKKLGEMWQSAK--DKQPYEQKVAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|34853688|ref|XP_231271.2| similar to Pax transcription activa... [ score 120 E 8e-27 ] [ range 42 .. 114 ]
+sequence
+-NALKRPPSAF-LFCSDHRPKIKGKHP--GLSIGDVAKNLGEMWNSMD--DKQPSEKKATKLKETYEKDI
+AAYRAKG------------*
+>P1;gi|38084589|ref|XP_144890.2| similar to high mobility group prot... [ score 117 E 5e-26 ] [ range 122 .. 195 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSENRPEIKIDHP--GLSIGDTSKKLGVMWQSAK--DKQPYEQKAAKPKEKYEKDI
+AAFRAKG------------*
+>P1;gi|34875750|ref|XP_237105.2| similar to cell division cycle asso... [ score 117 E 7e-26 ] [ range 92 .. 164 ] [ duplicate a ]
+sequence
+--APKRPPSAFFLFCSEYCPKIKGEHP--GLSIGDVAKKGGEMWNNAD--DKQPCGKMAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|34875750|ref|XP_237105.2| similar to cell division cycle asso... [ score 117 E 7e-26 ] [ range 6 .. 74 ] [ duplicate b ]
+sequence
+---PKKPMSSYVFVCQEEH----KEAP--DASVSEFSKACSDSWKAMS--AKEKGKDMAKADKARYEREM
+KIY----------------*
+>P1;gi|34858031|ref|XP_227472.2| similar to Cgn-pending protein [Rat... [ score 113 E 9e-25 ] [ range 59 .. 131 ]
+sequence
+--APKGPPSTFFLFCSEYRPKIKGEHP--GLSIGDVAKKLGAMWTNAD--DKQPYGKMAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|34861695|ref|XP_212881.2| similar to High mobility group prot... [ score 112 E 3e-24 ] [ range 94 .. 166 ] [ duplicate a ]
+sequence
+--APKRPPSAFYLFCSEHRPKIKGEHP--GLSIGDVARKLGEMWNATD--DKQPCGKMAAKLKEKCEKNI
+AAYRAKG------------*
+>P1;gi|34856502|ref|XP_342458.1| Structure specific recognition prot... [ score 109 E 1e-23 ] [ range 545 .. 615 ]
+sequence
+-NAPKRPMSAYMLWLNASREKIKSDHP--GISITDLSKKAGEIWKGME--KKEEWDRKAEDARREYEKAM
+KEYE---------------*
+>P1;gi|41147234|ref|XP_371791.1| similar to High mobility group prot... [ score 109 E 1e-23 ] [ range 69 .. 141 ]
+sequence
+--APKRPPSGFFLFSSEIRPKIKSTNP--GISIGDVAKKLGEMWNNLS--EKQPYITKTAKLKEKYEKDV
+ADSKSKG------------*
+>P1;gi|730839|sp|Q04678|SSRP_CHICK Structure-specific recognition pr... [ score 109 E 2e-23 ] [ range 506 .. 575 ]
+sequence
+-NVPKRPMSAYMLWLNANREKIKSDHP--GISITDLSKKAGELWKAME--KKEEWDRKAEDAKRDYEKAM
+KEY----------------*
+>P1;gi|38083217|ref|XP_144609.2| similar to High mobility group prot... [ score 106 E 1e-22 ] [ range 70 .. 142 ]
+sequence
+--APKRPLSAFFLFCSEYRPQIKGEHP--GLSIGDVAKKLGEMWNNTD--DKQPCEKKAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|547652|sp|P36194|HMG1_CHICK High mobility group protein 1 (HM... [ score 106 E 1e-22 ] [ range 90 .. 163 ] [ duplicate a ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSTNP--GISIGDVAKKLGEMWNNLS--DKQPYNNKAAKLKEKYEKDV
+ADYKSKG------------*
+>P1;gi|45384258|ref|NP_990626.1| HMG2a [Gallus gallus] >gi|729728|sp... [ score 106 E 1e-22 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKGKMSAYAFFVQTCREEHKKKNP--EVNFAEFSKKCSERWKTMS--EKAKFDEMAKADKVRYDREM
+KDY----------------*
+>P1;gi|34878086|ref|XP_224783.2| similar to high mobility group 1 pr... [ score 106 E 2e-22 ] [ range 93 .. 165 ] [ duplicate a ]
+sequence
+-NVPKRPPSAFFLLCSEYCPKIKGEHP--GLSIGDVAKKLGEMWNNVE--DKQPSEEKIAKLKEKYEKNI
+AAYRAK-------------*
+>P1;gi|34878086|ref|XP_224783.2| similar to high mobility group 1 pr... [ score 106 E 2e-22 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKSMSSYAFFVQNYLEEHKKKHP--DASVSEFSKKCSERWRSVK--EKGKCEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|4885421|ref|NP_005333.1| high-mobility group box 3; high-mobi... [ score 105 E 4e-22 ] [ range 91 .. 164 ] [ duplicate a ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSTNP--GISIGDVAKKLGEMWNNLS--EKQPYITKAAKLKEKYEKDV
+ADYKSKG------------*
+>P1;gi|6680231|ref|NP_032279.1| high mobility group box 3; high mobi... [ score 104 E 5e-22 ] [ range 91 .. 164 ] [ duplicate a ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSTNP--GISIGDVAKKLGEMWNNLS--DKQPYVTKAAKLKEKYEKDV
+ADYKSKG------------*
+>P1;gi|730842|sp|Q04931|SSRP_RAT Structure-specific recognition prot... [ score 103 E 1e-21 ] [ range 397 .. 467 ]
+sequence
+-NAPKRPMSAYMLWLNASREKIKSDHP--GISITDLSKKAGEIWKGME--KKEEWDRKGEDARREYEEAM
+KEYE---------------*
+>P1;gi|999855|pdb|1NHM|  High Mobility Group Protein 1 (Dna-Binding ... [ score 102 E 2e-21 ] [ range 2 .. 76 ]
+sequence
+SNAPKRPPSAFFLFCSEYRPKIKGEHP--GLSIGDVAKKLGEMWNNAD--DKQPYEKKAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|8393536|ref|NP_058883.1| high mobility group box 2; high mobi... [ score 102 E 2e-21 ] [ range 93 .. 166 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEHRPKIKSEHP--GLSIGDTAKKLGEMWQSAK--DKQPYEQKAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|24657271|ref|NP_726106.1| HMG protein Z CG17921-PA [Drosophil... [ score 102 E 2e-21 ] [ range 4 .. 75 ]
+sequence
+-DRPKRPLSAYMLWLNETREQIKKDNP--GSKVTDIAKRGGELWRGLK--DKTEWEQKAIKMKEEYNKAV
+KEYEANG------------*
+>P1;gi|34879296|ref|XP_232701.2| similar to High mobility group prot... [ score 102 E 3e-21 ] [ range 35 .. 107 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFVQTCQEEHKKKHP--YASVSEFSKKCSERCKSFK--EKGRFEDMAKDDKARYEREM
+KTY----------------*
+>P1;gi|34881724|ref|XP_223440.2| similar to high mobility group prot... [ score 101 E 4e-21 ] [ range 91 .. 164 ] [ duplicate a ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSANP--GISIGDVAKKLGEMWNNLS--DKQPYMTKAAKLKEKYEKDV
+ADYKSKG------------*
+>P1;gi|34859987|ref|XP_344947.1| similar to High mobility group prot... [ score 101 E 4e-21 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFVQTCREEHKKKHP--DASVSEFSKKCSERWKTMS--EKGKFEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|41149025|ref|XP_373290.1| similar to high mobility group prot... [ score 100 E 7e-21 ] [ range 75 .. 148 ]
+sequence
+-NAPKRPPSGFFLFCSEFRPKIKSTNP--GISIGDVAKKLGEMWNNLS--EKQPYVTKAAKLKEKYEKDV
+VDCKLKG------------*
+>P1;gi|2134083|pir||S62355 high mobility group protein 1 - African c... [ score 100 E 8e-21 ] [ range 92 .. 165 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSDFRPKIKGEHP--GSTIGDIAKKLGEMWNNTD--DKLPYERRAAKLKEKYEKDV
+AAYRAKG------------*
+>P1;gi|104693|pir||JC1129 nonhistone chromosomal protein HMG-2 - chi... [ score 100 E 9e-21 ] [ range 93 .. 165 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEHRPKIKNDHP--GLSIGDTAKKLGEMWQSAK--DKQPYEQKAAKLKEKYEKDI
+AAYRAK-------------*
+>P1;gi|104693|pir||JC1129 nonhistone chromosomal protein HMG-2 - chi... [ score 100 E 9e-21 ] [ range 7 .. 78 ] [ duplicate b ]
+sequence
+-NKPRGKMSSYAYFVQTCPREHKKKHP--DSSVAEFSRKCSERWKTMS--SKEKFEEMAKGDKARYDREM
+KNY----------------*
+>P1;gi|42660235|ref|XP_375045.1| chromosome 14 open reading frame 92... [ score 100 E 1e-20 ] [ range 221 .. 293 ]
+sequence
+-NEPQKPVSAYALFFRDTQAAIKGQNP--NATFGEVSKIVASMWDSLE--QKQVYKRKTEAAKKEYLKAL
+AAYKDN-------------*
+>P1;gi|30425392|ref|NP_848562.1| high-mobility group (nonhistone chr... [ score 100 E 1e-20 ] [ range 80 .. 152 ]
+sequence
+-NAPKRPLSGFFLFCSEFCPKIKSTNP--GISIGDVAKKLGEMWNNLS--EKQPYVTKVAKLK-KYEKDV
+ADYKSKG------------*
+>P1;gi|45360483|ref|NP_988904.1| hypothetical protein MGC75666 [Xeno... [ score 100 E 1e-20 ] [ range 94 .. 167 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEHRPQIKSESP--GLSIGDTAKKLGEMWQTPK--DKLPYEQKAAKLKEKYEKDV
+AAYKAKG------------*
+>P1;gi|27717729|ref|XP_234947.1| similar to expressed sequence AI850... [ score 100 E 1e-20 ] [ range 41 .. 111 ]
+sequence
+TNTLKRPPSAF-LFCSEYCAKIKGEHP--GLSIGDVAKKLGEMWNNAD--DKQPYEKMAAKLK-KY-KDI
+AAYRAK-------------*
+>P1;gi|45361297|ref|NP_989226.1| hypothetical protein MGC75695 [Xeno... [ score 99 E 2e-20 ] [ range 93 .. 166 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEFRPKIKGEHP--GSTIGDIAKKLGEMWNNTD--DKLPYERKAAKLKEKYEKDV
+AAYRAKG------------*
+>P1;gi|41195077|ref|XP_208319.3| similar to Epidermal Langerhans cel... [ score 99 E 2e-20 ] [ range 221 .. 293 ]
+sequence
+-NEPQKPVSAYALFFPDTRAAIKGQNP--NATFGEVSKIVASMWDSLE--QKQIYKRKTEAAKKEYLKTL
+AAYEDN-------------*
+>P1;gi|45382755|ref|NP_990817.1| non-histone chromosomal protein [Ga... [ score 99 E 2e-20 ] [ range 7 .. 78 ] [ duplicate b ]
+sequence
+-NKPRGKMSSYAYFVQTCREEHKKKHP--DSSVAEFSRKCSERWKTMS--SKEKFEEMAKGDKARYDREM
+KNY----------------*
+>P1;gi|27370402|ref|NP_766501.1| hypothetical protein C230068E13 [Mu... [ score 99 E 2e-20 ] [ range 252 .. 323 ]
+sequence
+-NEPQKPVSAYALFFRDTQAAIKGQNP--NATFGEVSKIVASMWDSLE--QKQVYKRKTEAAKKEYLKAL
+AAYRA--------------*
+>P1;gi|34871376|ref|XP_212661.2| similar to high mobility group 1 pr... [ score 99 E 3e-20 ] [ range 93 .. 166 ] [ duplicate a ]
+sequence
+-NAPKTPPSAFFLFCSEYRPKIKGEHP--GLSIGDVVKKLGEMWTNAD--DKQPYEKMAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|27370889|gb|AAH41262.1| MGC52825 protein [Xenopus laevis] [ score 99 E 3e-20 ] [ range 94 .. 167 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEQRPQIKSETP--GLSIGDTAKKLGERWQTSK--DKLPFEQKAAKLKEKYEKDV
+AAYRAKG------------*
+>P1;gi|38089103|ref|XP_357859.1| similar to High mobility group prot... [ score 99 E 3e-20 ] [ range 23 .. 96 ]
+sequence
+-NPPKRPPSAFFLFCSEYHPKIKGEHP--GLSIGDVAKKLGEMWNNAD--DKQPYEKKAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|34879580|ref|XP_344685.1| similar to High mobility group prot... [ score 99 E 3e-20 ] [ range 62 .. 133 ]
+sequence
+--APKRPPSAF-LFCSEYRPKVKGEHP--GLSIGDVAKKRGEMWNNAD--DKQPYGKMAAKLKEKYEKDV
+AAYRAKG------------*
+>P1;gi|37546472|ref|XP_115897.2| similar to high mobility group prot... [ score 98 E 4e-20 ] [ range 90 .. 163 ] [ duplicate a ]
+sequence
+-NALKRPLSGFFLFCSEFHPKIKSTNP--GISIGDMAKKLGEMWINYS--DKQPYITKAADLKEKYEKDV
+ADYKSKG------------*
+>P1;gi|45501153|gb|AAH67145.1| Unknown (protein for MGC:77466) [Dani... [ score 98 E 5e-20 ] [ range 129 .. 200 ]
+sequence
+-NEPQKPVSAYALFFRDTQAAIKGQNP--NATFGDVSKIVASMWDSLE--QKQAYKRKTEAAKKEYLKAL
+AAYRA--------------*
+>P1;gi|7439855|pir||S26062 nonhistone chromosomal protein HMG-2 - mo... [ score 98 E 6e-20 ] [ range 93 .. 166 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFCLFCSENRPKIKIEYP--GLSIGDTAKKLGEMWQSAK--EKQPYEQKAAKLKEKYEKDF
+AAYRVKG------------*
+>P1;gi|7439855|pir||S26062 nonhistone chromosomal protein HMG-2 - mo... [ score 98 E 6e-20 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PIKPMSSYAFFVQTCREEHKKKHP--NSSVAEISKKCSKRWKTMS--AKEKFEDLAKSDKACYYREM
+KNY----------------*
+>P1;gi|17507971|ref|NP_491688.1| high Mobility Group protein (hmg-3)... [ score 97 E 8e-20 ] [ range 559 .. 630 ]
+sequence
+-NEPKRATTAYIIWFNANRNSMKED----GDTLGDVAKKAGAKWKSMS--DKKEWNDKAAQDKARYEAEM
+KEYKKNG------------*
+>P1;gi|639691|dbj|BAA06440.1| HMG-X protein [Xenopus laevis] [ score 97 E 9e-20 ] [ range 94 .. 167 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFIFCSEHRPQIKSETP--GLSIGDTAKKLGELWQTPK--DKLPHEQKAAKLKEKYEKDV
+AAYRAKG------------*
+>P1;gi|39596281|emb|CAE69919.1| Hypothetical protein CBG16280 [Caeno... [ score 97 E 1e-19 ] [ range 148 .. 216 ]
+sequence
+-DHVKRPMNPFMIWCRSKRGEMLKTQP--GMKPSEISKQLGEGWRNMS--DKRPFVDEAERLKMDHERNH
+PD-----------------*
+>P1;gi|1085210|pir||S48708 high-mobility-group-1 protein - trout [ score 97 E 1e-19 ] [ range 92 .. 165 ] [ duplicate a ]
+sequence
+-NAPKRPSSAFFIFCADFRPQVKGETP--GLSIGDVAKKLGEKWNNLE--DKVPYEKKASKLKEKYEKDI
+TAYRNKG------------*
+>P1;gi|729730|sp|P40623|HMGB_CHITE Mobility group protein 1B >gi|156... [ score 96 E 2e-19 ] [ range 2 .. 73 ]
+sequence
+ADKPKRPLSAYMLWLNSARESIKRENP--DFKVTEVAKKGGELWRGLK--DKSEWEAKAATAKQNYIRAL
+QEYERN-------------*
+>P1;gi|38090927|ref|XP_123660.2| similar to High mobility group prot... [ score 96 E 2e-19 ] [ range 93 .. 165 ] [ duplicate a ]
+sequence
+-NAPKRPPSAF-LFCSEYRPKIKGEQP--GLSIGDVAKKLGEMWTAAK--DKQPYEKKAVKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|30171186|gb|AAO37761.1| mating-type protein MAT1-2 [Leptospha... [ score 96 E 2e-19 ] [ range 122 .. 194 ]
+sequence
+AKRAPRPMNCWIIFRDAMHKKLKSENP--SLTVQQISTRCSEIWHAFS--EKKVWQTAAKNAKEEHSRQH
+PDYKY--------------*
+>P1;gi|4520334|dbj|BAA75903.1| MAT2 [Alternaria alternata] [ score 95 E 4e-19 ] [ range 128 .. 199 ]
+sequence
+-KKAPRPMNCWIIFRDAMHKQLKAEFP--NLTVQEISTRCSEIWRSLE--GKKPWQAAAQSAKEEHLRQH
+PDYKY--------------*
+>P1;gi|34859505|ref|XP_219107.2| similar to olfactory receptor MOR21... [ score 95 E 4e-19 ] [ range 387 .. 442 ]
+sequence
+-------------------KKIKDEHP--GLTFGDVAKKLGEMWNSLD--GKQPCDKKAAKLKEKYKKDT
+AAYRAKG------------*
+>P1;gi|2119032|pir||I51067 gene HMG-T2 protein - rainbow trout >gi|6... [ score 95 E 5e-19 ] [ range 95 .. 168 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFVFCAEHRGRIKADNP--GMGIGDIAKQLGLLWQTPK--DKQPHEAKAAKLKEKYEKDV
+AAYKAKG------------*
+>P1;gi|34855120|ref|XP_345186.1| similar to High mobility group prot... [ score 95 E 5e-19 ] [ range 233 .. 303 ]
+sequence
+---PKRPPSAFFLFCSEYHPKIKGQHP--GLPNGGVAKKLEEMWKNMD--SKQPCEKKAAKLKEKYEKDI
+AAYRAK-------------*
+>P1;gi|38089939|ref|XP_357953.1| similar to dJ579F20.1 (high-mobilit... [ score 95 E 5e-19 ] [ range 90 .. 163 ]
+sequence
+-NAPKRPPLAFFLFCSEYHPQIKGEHP--GLSIGDVAKKLGEMWNNAD--DKQPYEKKAAKLKEKYKKDI
+AAYRAKG------------*
+>P1;gi|34932475|ref|XP_225740.2| similar to high mobility group prot... [ score 94 E 7e-19 ] [ range 60 .. 131 ]
+sequence
+---PQEASFGLFLFCSEYPPKIKGEHL--SLSIGDVAKKRGEMWNAAD--DKQPCEKMAAKLKEKCEKDI
+AAYRAKG------------*
+>P1;gi|38086523|ref|XP_358223.1| similar to High mobility group prot... [ score 94 E 1e-18 ] [ range 43 .. 115 ]
+sequence
+-NAAKRPPLAFFLFCSEYCPKIKGEHP--GLSIGDVAKKLGEMWNNAD--DKQPYEKKAAKLKGKYE-DI
+AAYRAKG------------*
+>P1;gi|8920409|emb|CAB96421.1| SSRP1 protein [Zea mays] [ score 93 E 1e-18 ] [ range 555 .. 625 ]
+sequence
+-NAPKRAMTPFMYFSMAERGNMKSSNP--DLPTTEIAKKLGEMWQKME--EKQPYIQQAQVDKKRYEKES
+AVYR---------------*
+>P1;gi|39582002|emb|CAE64433.1| Hypothetical protein CBG09136 [Caeno... [ score 92 E 2e-18 ] [ range 556 .. 625 ]
+sequence
+-NAPKRAQSAYFHWFNANRLSLKED----GDSVADVAKKAGAKWKTLE--DKKEWEAKAEKDKTRYETEM
+KEYRK--------------*
+>P1;gi|4928183|gb|AAD33451.1| mating type protein MAT-2 [Cochliobolu... [ score 93 E 2e-18 ] [ range 130 .. 201 ]
+sequence
+-KKAPRPMNCWIIFRDAMHKHLKAEFP--DLTVQEISTRCSAIWHNLS--DKQPWRDAAQSAKEEHLRLH
+PDYKY--------------*
+>P1;gi|38088839|ref|XP_357846.1| similar to High mobility group prot... [ score 92 E 2e-18 ] [ range 189 .. 244 ]
+sequence
+-----RPPSAFFLICSEYCPQVKGELP--GLSIGDVAKKLGEMWESTD--DKQPYDKKAAKLM-------
+-------------------*
+>P1;gi|38049330|ref|XP_122017.2| similar to 40S ribosomal protein S8... [ score 92 E 2e-18 ] [ range 31 .. 104 ]
+sequence
+-NAPKKLTLAFFLLCSKYRSKIKGEHP--GFFIGDVAKKLGKMWNNVD--DKQPYEKKAVKLKEKYKKNI
+AAYRDEG------------*
+>P1;gi|34328641|gb|AAO31742.1| mating type 2 protein [Phaeosphaeria ... [ score 92 E 4e-18 ] [ range 130 .. 203 ]
+sequence
+SKGPPRPMNKWMLYRDSQYKVLKVEQP--DLTVQKISKICSERWRNLE--EKAFWDAAGARAAEEHDRLY
+PGYKYN-------------*
+>P1;gi|1419611|emb|CAA67363.1| HMG [Lampetra fluviatilis] [ score 91 E 6e-18 ] [ range 94 .. 167 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFIYCAEYRSKVRAENP--GLTIGSIAKKLGEMWNNAD--EKSIYERKTAKLKEKYDKDM
+ASYRSKG------------*
+>P1;gi|1419611|emb|CAA67363.1| HMG [Lampetra fluviatilis] [ score 91 E 6e-18 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKGKMSSYAYFVQTCREEHKKKNP--EASVAEFSKKCSERWKTMS--EKEKFEDMAKVDKVRYDREM
+KTY----------------*
+>P1;gi|38075731|ref|XP_357258.1| similar to High mobility group prot... [ score 91 E 7e-18 ] [ range 128 .. 196 ]
+sequence
+-----RPPSAF-LFCSEYRPKIKGKHP--GLSIGDVAKKLGEMWNNAD--GKQPYEKKAAKLKEKYEKDI
+AAYRARG------------*
+>P1;gi|45382473|ref|NP_990233.1| high mobility group 1 protein [Gall... [ score 90 E 8e-18 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFVQTCREEHKKKHP--DASVSEFSKKCSERWKTMS--SKEKFEDMAKADKLRYEKEM
+KNY----------------*
+>P1;gi|6325309|ref|NP_015377.1| Homologous to mammalian high mobilit... [ score 90 E 1e-17 ] [ range 19 .. 90 ]
+sequence
+-NAPKRALSAYMFFANENRDIVRSENP--DITFGQVGKKLGEKWKALE--EKQPYEAKAQADKKRYESEK
+ELYNA--------------*
+>P1;gi|729729|sp|P40622|HMGA_CHITE Mobility group protein 1A >gi|156... [ score 90 E 2e-17 ] [ range 2 .. 74 ]
+sequence
+AEKPKRPLSAYMLWLNSARESIKKENP--DFKVTEIAKKGGELWRGMK--DKSEWEAKAAKMKEEYEKAM
+KEFERNG------------*
+>P1;gi|24649033|ref|NP_651055.1| CG7045-PA [Drosophila melanogaster]... [ score 89 E 2e-17 ] [ range 7 .. 77 ]
+sequence
+--RPKKPMSAFMLWMNSTRKHIKAEHP--DFSVQEVSVKGGEMWRAME--DKIVWQESATTAMAEYKEKL
+KQWN---------------*
+>P1;gi|20887631|ref|XP_134550.1| similar to High mobility group prot... [ score 90 E 2e-17 ] [ range 94 .. 167 ] [ duplicate a ]
+sequence
+-NAPERPPSAFFLFCSEYRPKIKGEHP--GLSIGDVAKKLGEMWTNAD--DKQPYEKKAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|38085323|ref|XP_145046.2| similar to HMG-L6 [Mus musculus] >g... [ score 90 E 2e-17 ] [ range 102 .. 174 ]
+sequence
+-NAPKRPSSAFFLFCSEYRPKIKGESP--GLSIGDVAKKLGEMWNNAD--DKQLYE-KAAKLKEKYKKDI
+AAYRAKG------------*
+>P1;gi|5764678|gb|AAC27650.2| high mobility group protein [Spalax eh... [ score 89 E 2e-17 ] [ range 6 .. 78 ] [ duplicate b ]
+sequence
+---PKKPMSSYAFFVQTCREEHKKKHP--DASVSEFSKKCSERWKSAK--EKGKFEDMAKADKARYEREM
+KTY----------------*
+>P1;gi|1083056|pir||B61611 nonhistone chromosomal protein HMG-2 - bo... [ score 89 E 2e-17 ] [ range 85 .. 157 ]
+sequence
+-NAPKRPPSAFFLFSAEHRPKIKAEHP--GLSIGDTAKKLGEMWQSAK--DKQPYEQKASKLKEKYEK-A
+AAYRAKG------------*
+>P1;gi|25402921|pir||F86339 protein F2D10.18 [imported] - Arabidopsi... [ score 89 E 3e-17 ] [ range 413 .. 486 ] [ duplicate a ]
+sequence
+-NKPKRPASAFFVFMEDFRETFKKENP--KNSVATVGKAAGDKWKSLS--DKAPYVAKAEKRKVEYEKNI
+KAYNKK-------------*
+>P1;gi|25402921|pir||F86339 protein F2D10.18 [imported] - Arabidopsi... [ score 89 E 3e-17 ] [ range 554 .. 627 ] [ duplicate b ]
+sequence
+-NKPKRPSSAFFVFMEDFRVTYKEEHP--KNSVAAVGKAGGEKWKSLS--DKAPYVAKADKRKVEYEKNM
+KAYNKK-------------*
+>P1;gi|34906296|ref|NP_914495.1| unnamed protein product [Oryza sati... [ score 89 E 4e-17 ] [ range 554 .. 624 ]
+sequence
+-NAPKRAMTPFMYFSMAERGNMKNNNP--DLPTTEIAKKLGEMWQKME--EKQPYIQQSQVDKKRYEKES
+AVYR---------------*
+>P1;gi|39596280|emb|CAE69918.1| Hypothetical protein CBG16279 [Caeno... [ score 88 E 4e-17 ] [ range 61 .. 132 ]
+sequence
+ADRVKRPMNPFLLFCQKRRGELMKGQP--GMKPSDISKQLGEVWKGME--DKKPYIDEAHKLKADFEKNH
+PDYK---------------*
+>P1;gi|729989|sp|Q02991|MAT2_COCHE Mating-type protein MAT-2 >gi|486... [ score 88 E 6e-17 ] [ range 129 .. 200 ]
+sequence
+-KKAPRPMNCWIIFRDAMHKHLKAEFP--HLTIQEISTRCSHIWHNLE--AKKPWQDAAQSAKEEHLRQH
+PNYKY--------------*
+>P1;gi|34871641|ref|XP_343922.1| similar to SOX15 [Rattus norvegicus] [ score 88 E 6e-17 ] [ range 46 .. 116 ]
+sequence
+--KVKRPMNAFMVWSSAQRRQMAQQNP--KMHNSEISKRLGAQWKLLD--DKRPFVEEAKRLRARHLHDY
+PDYKY--------------*
+>P1;gi|19923236|ref|NP_003104.2| nuclear antigen Sp100 [Homo sapiens... [ score 87 E 7e-17 ] [ range 767 .. 840 ] [ duplicate a ]
+sequence
+-NAPKRPPLAFFLFCSEYRPKIKGEHP--GLSIDDVVKKLAGMWNNAA--DKQFYEKKAAKLKEKYKKDI
+AAYRAKG------------*
+>P1;gi|19923236|ref|NP_003104.2| nuclear antigen Sp100 [Homo sapiens... [ score 87 E 7e-17 ] [ range 702 .. 752 ] [ duplicate b ]
+sequence
+----------------------KKKNP--DASVSEFLKKCSETWKTIK--EKGKFEDMAKADKAHYEREM
+KTY----------------*
+>P1;gi|41151235|ref|XP_086648.5| similar to dJ579F20.1 (high-mobilit... [ score 87 E 7e-17 ] [ range 93 .. 166 ] [ duplicate a ]
+sequence
+-NAPKRPPSAFFLFCSEYHPKIKGEHP--GLSIGDVAKKLGEMWNNAD--DKQPGEKKAAKLKEKYEKDI
+AAYQAKG------------*
+>P1;gi|28376646|ref|NP_758951.1| high-mobility group (nonhistone chr... [ score 87 E 8e-17 ] [ range 93 .. 166 ] [ duplicate a ]
+sequence
+-NAPKRTPSAFFLFCSAYRPKIKGEHP--GLSIGDVAKKLGEMWNNAD--DKQPYEKKAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|39587037|emb|CAE62972.1| Hypothetical protein CBG07189 [Caeno... [ score 87 E 1e-16 ] [ range 31 .. 101 ]
+sequence
+--HVKRPINPFMLWCKSKRADMLKKNA--GMKPSEVSKQLGEGWRNMS--EKKPFRDESARLKAEHVKNH
+PTYKY--------------*
+>P1;gi|4928164|gb|AAD33439.1| mating type protein MAT-1/2 [Cochliobo... [ score 87 E 1e-16 ] [ range 348 .. 419 ]
+sequence
+-KKAPRPMNCWIIFRDAMHKHLKAEFP--HLTIQEISTRCSDIWHNLE--AKKPWKDAAQSAKEEHLRQH
+PNYKY--------------*
+>P1;gi|992639|gb|AAB08831.1| high mobility group protein-2 (HMG-2) [ score 87 E 1e-16 ] [ range 94 .. 168 ] [ duplicate a ]
+sequence
+-NAPKRLPSAFFLFCSEHRLKIKADCP--GLSIGDTAKKLGEKWQTPK--DKIPFEQKAAKLKEKYEKDI
+AAYRAKG------------*
+>P1;gi|992639|gb|AAB08831.1| high mobility group protein-2 (HMG-2) [ score 87 E 1e-16 ] [ range 7 .. 78 ] [ duplicate b ]
+sequence
+-NKPRGKMSSYAYFVQTCREEHKKKHP--DASVAEFSKKCSERWKTMK--EKGKFEDMAKGDKVRYDREM
+KSY----------------*
+>P1;gi|38081822|ref|XP_112038.4| similar to putative pheromone recep... [ score 87 E 1e-16 ] [ range 77 .. 133 ]
+sequence
+-----------------TYPTPKGEHP--GLCIGDVAKKLGEIWNNTD--DKQSY-KKAAKLKEKYKKDI
+AAYRAKG------------*
+>P1;gi|31204413|ref|XP_311155.1| ENSANGP00000019772 [Anopheles gambi... [ score 87 E 1e-16 ] [ range 271 .. 343 ] [ duplicate a ]
+sequence
+-NAPKRSLSAFFWFCHDERNKVKALNP--EYGVGDIAKELGRKWSDMD--AKQKYEQMAEKDKQRYEQEM
+TEYKLK-------------*
+>P1;gi|31204413|ref|XP_311155.1| ENSANGP00000019772 [Anopheles gambi... [ score 87 E 1e-16 ] [ range 179 .. 250 ] [ duplicate b ]
+sequence
+-NKPRGRMTAYAFFVQTCREEHKKKHP--EVIFAEFSRKCAERWKTMK--EKQRFHEMAEKDKARYELEM
+QSY----------------*
+>P1;gi|34851361|ref|XP_238039.2| similar to C230068E13 protein [Ratt... [ score 86 E 2e-16 ] [ range 252 .. 349 ]
+sequence
+-NEPQKPVSAYALFFRDTQAAIKGQNP--NATFGEVSKIVASMWDSLG--EEQKYKRKTEAAKKEYLKAL
+AAYRA--------------*
+>P1;gi|45187563|ref|NP_983786.1| ADL310Wp [Eremothecium gossypii] >g... [ score 86 E 2e-16 ] [ range 19 .. 90 ]
+sequence
+-NAPKRAMSAYMFFANENRDIVRAENP--GISFGQVGRVLGEKWKALS--DKQPYEAKAEADKKRYESEK
+ELYNA--------------*
+>P1;gi|33416987|gb|AAH55767.1| Sox14 protein [Mus musculus] [ score 154 E 3e-37 ] [ range 165 .. 249 ]
+sequence
+--HIKRPMNAFMVWSRGQRRKMAQENP--KMHNSEISKRLGAEWKLLSEAEKRPYIDEAKRLRAQHMKEH
+PDYKYRPRRKPKNLLKKDR*
+>P1;gi|21357781|ref|NP_648695.1| CG32139-PA [Drosophila melanogaster... [ score 153 E 1e-36 ] [ range 247 .. 328 ]
+sequence
+--HIKRPMNAFMVWSRLQRRKIAQDNP--KMHNSEISKRLGAEWKLLTEEEKRPFIDEAKRLRAMHMKEH
+PDYKYRPRRKPKALRR---*
+>P1;gi|6755604|ref|NP_035571.1| SRY-box 17 [Mus musculus] >gi|249525... [ score 152 E 1e-36 ] [ range 68 .. 149 ]
+sequence
+---IRRPMNAFMVWAKDERKRLAQQNP--DLHNAELSKMLGKSWKALTLAEKRPFVEEAERLRVQHMQDH
+PNYKYRPRRRKQVKRMK--*
+>P1;gi|38649222|gb|AAH63054.1| Sox21 protein [Mus musculus] [ score 151 E 3e-36 ] [ range 158 .. 242 ]
+sequence
+--HVKRPMNAFMVWSRAQRRKMAQENP--KMHNSEISKRLGAEWKLLTESEKRPFIDEAKRLRAMHMKEH
+PDYKYRPRRKPKTLLKKDK*
+>P1;gi|6755612|ref|NP_035576.1| SRY-box 7 [Mus musculus] >gi|2053240... [ score 148 E 2e-35 ] [ range 45 .. 124 ]
+sequence
+---IRRPMNAFMVWAKDERKRLAVQNP--DLHNAELSKMLGKSWKALTLSQKRPYVDEAERLRLQHMQDY
+PNYKYRPRRKKQGKR----*
+>P1;gi|17975536|ref|NP_524066.1| Dichaete CG5893-PA [Drosophila mela... [ score 147 E 4e-35 ] [ range 141 .. 220 ]
+sequence
+--HIKRPMNAFMVWSRLQRRQIAKDNP--KMHNSEISKRLGAEWKLLAESEKRPFIDEAKRLRALHMKEH
+PDYKYRPRRKPKNP-----*
+>P1;gi|21357779|ref|NP_648694.1| CG7345-PA [Drosophila melanogaster]... [ score 147 E 9e-35 ] [ range 120 .. 201 ]
+sequence
+--HIKRPMNAFMVWSRGQRRKMAQDNP--KMHNSEISKRLGAEWKLLTEGQKRPFIDEAKRLRALHMKEH
+PDYKYRPRRKPKTLNK---*
+>P1;gi|37682127|gb|AAQ97990.1| SRY-box 7 [Danio rerio] [ score 146 E 1e-34 ] [ range 43 .. 122 ]
+sequence
+---IRRPMNAFMVWAKDERKRLAVQNP--DLHNAELSKMLGKSWKALTPPQKRPYVEEAERLRVQHMQDY
+PNYKYRPRRKKQLKR----*
+>P1;gi|18859405|ref|NP_571361.1| SRY-box 21; SRY-box containing gene... [ score 146 E 1e-34 ] [ range 7 .. 91 ]
+sequence
+--HVKRPMNAFMVWSRAQRRKMALDNP--KMHNSEISKRLGGEWKLLSDSEKRPFIDEAKRLRAVHMKEH
+PDYKYRPRRKPKNLIKKDR*
+>P1;gi|45360120|gb|AAS59169.1| SOX21 protein [Heliocidaris erythrogr... [ score 145 E 2e-34 ] [ range 12 .. 96 ]
+sequence
+--HVKRPMNAFMVWSRGQRRKLAQENP--KMHNSEISKRLGAEWKLLSEDDKRPFIDEAKRLRALHMKEH
+PDYKYRPRRKPKSLMKRDK*
+>P1;gi|40642791|emb|CAD58839.1| SoxB2 protein [Ciona intestinalis] [ score 145 E 3e-34 ] [ range 11 .. 92 ]
+sequence
+--HVKRPMNAFMVWSRGQRRKMAQENP--KMHNSEISKRLGASWKLLNECEKRPFIDEAKRLRALHMKEH
+PDYKYRPRRKPKSLIK---*
+>P1;gi|31201651|ref|XP_309773.1| ENSANGP00000012626 [Anopheles gambi... [ score 144 E 3e-34 ] [ range 78 .. 157 ]
+sequence
+--HIKRPMNAFMVWSRLQRRQIAKDNP--KMHNSEISKRLGSEWKLLTEAQKRPFIDEAKRLRATHMKEH
+PDYKYRPRRKPKNP-----*
+>P1;gi|2447043|dbj|BAA22513.1| xSox7 protein [Xenopus laevis] [ score 144 E 4e-34 ] [ range 42 .. 121 ]
+sequence
+---IRRPMNAFMVWAKDERKRLAVQNP--DLHNAELSKMLGKSWKALSPAQKRPYVEEAERLRVQHMQDY
+PNYKYRPRRKKQIKR----*
+>P1;gi|3915056|sp|Q91731|SX11_XENLA Transcription factor SOX-11 (XSO... [ score 144 E 4e-34 ] [ range 46 .. 123 ]
+sequence
+--HIKRPMNAFMVWSKIERRKIMEQSP--DMHNAEISKRLGKRWKMLNDSEKIPFIEEAERLRLKHMADY
+PDYKYRPRKKPK-------*
+>P1;gi|17567587|ref|NP_510439.1| SOX (mammalian SRY box) related (so... [ score 144 E 4e-34 ] [ range 47 .. 124 ]
+sequence
+--HVKRPMNAFMVWSRGQRRKMAQDNP--KMHNSEISKRLGAEWKQLSEQEKRPFIDEAKRLRALHMKEH
+PDYKYRPRRKPK-------*
+>P1;gi|12643902|sp|Q9UN79|SX13_HUMAN SOX-13 protein (Type 1 diabetes... [ score 144 E 5e-34 ] [ range 405 .. 491 ]
+sequence
+--HIKRPMNAFMVWAKDERRKILQAFP--DMHNSSISKILGSRWKSMTNQEKQPYYEEQARLSRQHLEKY
+PDYKYKPRPKREGKRLR--*
+>P1;gi|21360382|gb|AAM47494.1| Sox17 [Monopterus albus] [ score 144 E 5e-34 ] [ range 65 .. 144 ]
+sequence
+---IRRPMNAFMVWAKDERKRLAQQNP--DLHNAELSKMLGKSWKALPVTEKQPFVEEAERLRVQHMQDH
+PNYKYRPRRRKQVKR----*
+>P1;gi|31234639|ref|XP_319093.1| ENSANGP00000022331 [Anopheles gambi... [ score 143 E 7e-34 ] [ range 173 .. 253 ]
+sequence
+---VKRPMNAFMVWSRGQRRKMASDNP--KMHNSEISKRLGAQWKDLSETEKRPFIDEAKRLRAVHMKEH
+PDYKYRPRRKTKTLTK---*
+>P1;gi|24653574|ref|NP_523739.2| Sox box protein 15 CG8404-PA [Droso... [ score 143 E 7e-34 ] [ range 215 .. 295 ]
+sequence
+---IRRPMNAFMVWAKIERKKLADENP--DLHNADLSKMLGKKWRSLTPQDRRPYVEEAERLRVIHMTEH
+PNYKYRPRRRKQSKLR---*
+>P1;gi|18859403|ref|NP_571362.1| SRY-box 17 [Danio rerio] >gi|134892... [ score 142 E 1e-33 ] [ range 63 .. 144 ]
+sequence
+---IRRPMNAFMVWAKDERKRLAQQNP--DLHNAELSKMLGKSWKALPMVDKRPFVEEAERLRVKHMQDH
+PNYKYRPKRRKQVKRNK--*
+>P1;gi|7505491|pir||T16581 hypothetical protein K08A8.2 - Caenorhabd... [ score 142 E 2e-33 ] [ range 51 .. 132 ]
+sequence
+---VKRPMNAFMVWSRGQRKKMALENP--KMHNSEISKRLGTEWKMLSEQEKRPFIDEAKRLRAIHMKEH
+PDYKYRPRRKTKSINKK--*
+>P1;gi|45383726|ref|NP_989526.1| SRY (sex determining region Y)-box ... [ score 142 E 2e-33 ] [ range 48 .. 121 ]
+sequence
+---VKRPMNAFMVWSRGQRRKMAQENP--KMHNSEISKRLGADWKLLSDAEKRPFIDEAKRLRAVHMKEY
+PDYKYRPRR----------*
+>P1;gi|40642799|emb|CAD58843.1| SoxF protein [Ciona intestinalis] [ score 142 E 3e-33 ] [ range 180 .. 261 ]
+sequence
+---IRRPMNAFMCWAKTERKRMAAAFP--DHHNAELSKMLGKKWKEMSNEDKRPYITEAEKLRMKHMQEH
+PDYKYRPRRKPKEPKSR--*
+>P1;gi|2495258|sp|P55863|SOX3_XENLA Transcription factor SOX-3 (SOX-... [ score 142 E 3e-33 ] [ range 40 .. 113 ]
+sequence
+---VKRPMNAFMVWSRGQRRKMAQENP--KMHNSEISKRLGADWKLLSDSDKRPFIDEAKRLRAVHMKDY
+PDYKYRPRR----------*
+>P1;gi|39594106|emb|CAE70216.1| Hypothetical protein CBG16696 [Caeno... [ score 141 E 3e-33 ] [ range 60 .. 141 ]
+sequence
+---VKRPMNAFMVWSRGQRRKMAQENP--KMHNSEISKRLGTEWKMLSEQDKRPFIDEAKRLRAIHMKEH
+PDYKYRPRRKTKSINKK--*
+>P1;gi|23831447|sp|P43680|SX18_MOUSE Transcription factor SOX-18 >gi... [ score 141 E 3e-33 ] [ range 77 .. 160 ]
+sequence
+-LRIRRPMNAFMVWAKDERKRLAQQNP--DLHNAVLSKMLGKAWKELNTAEKRPFVEEAERLRVQHLRDH
+PNYKYRPRRKKQARKVR--*
+>P1;gi|11387385|gb|AAD40688.3| transcription factor SoxB1 [Strongylo... [ score 141 E 3e-33 ] [ range 61 .. 134 ]
+sequence
+---VKRPMNAFMVWSRGQRRKLSQENP--KMHNSEISKRLGAEWKLLSEDEKRPFIDEAKRLRAVHMKEH
+PDYKYRPRR----------*
+>P1;gi|34452016|gb|AAQ72474.1| Sox4a [Danio rerio] [ score 141 E 4e-33 ] [ range 63 .. 146 ]
+sequence
+--HIKRPMNAFMVWSQIERRKIMEQSP--DMHNAEISKRLGKRWKLLKDSDKIPFIREAERLRLKHMADY
+PDYKYRPRKKVKSSSGKT-*
+>P1;gi|10443169|emb|CAC10492.1| Sox31 protein [Danio rerio] >gi|3478... [ score 140 E 5e-33 ] [ range 52 .. 134 ]
+sequence
+---VKRPMNAFMVWSRGQRRKMAQENP--KMHNSEISKRLGAEWKLLTDVEKRPFIDEAKRLRAVHMKEY
+PDYKYKPRRKTKALMKKD-*
+>P1;gi|18859397|ref|NP_571950.1| SRY-box containing gene 10; colourl... [ score 140 E 6e-33 ] [ range 107 .. 187 ]
+sequence
+--HVKRPMNAFMVWAQAARRKLADQYP--HLHNAELSKTLGKLWRLLNETDKRPFIEEAERLRKQHKKDY
+PEYKYQPRRRKNGKP----*
+>P1;gi|31201647|ref|XP_309771.1| ENSANGP00000012491 [Anopheles gambi... [ score 140 E 7e-33 ] [ range 18 .. 99 ]
+sequence
+--HIKRPMNAFMVWSRGQRRKMAQDNP--KMHNSEISKNLGAQWKLLTEGEKRPFIDEAKRLRALHMKEH
+PDYKYRPRRKPKPLVK---*
+>P1;gi|17136768|ref|NP_476894.1| Sox box protein 14 CG3090-PA [Droso... [ score 140 E 7e-33 ] [ range 186 .. 264 ]
+sequence
+--HIKRPMNAFMVWSQMERRKICERTP--DLHNAEISKELGRRWQLLSKDDKQPYIIEAEKLRKLHMIEY
+PNYKYRP----QKKQTR--*
+>P1;gi|42760831|dbj|BAD11369.1| Sox3 [Danio rerio] [ score 140 E 7e-33 ] [ range 35 .. 108 ]
+sequence
+---VKRPMNAFMVWSRGQRRKMAQENP--KMHNSEISKRLGADWKLLTDAEKRPFIDEAKRLRAMHMKEH
+PDYKYRPRR----------*
+>P1;gi|31210231|ref|XP_314082.1| ENSANGP00000010404 [Anopheles gambi... [ score 140 E 7e-33 ] [ range 8 .. 83 ]
+sequence
+--HIKRPMNPFMVWSQIERRKICEVTP--DMHNAVISKNLGQRWKQLSPEERQPFIEEAERLRKLHTQEY
+PNYKYRPKKK---------*
+>P1;gi|45360971|ref|NP_988849.1| HMG box transcription factor Sox17-... [ score 140 E 9e-33 ] [ range 58 .. 142 ]
+sequence
+---IRRPMNAFMVWAKDERKRLAQQNP--DLHNAELSKMLGKSWKSLTLASKRPFVEEAERLRVQHIQDY
+PDYKYRPRRKKQVKRKREE*
+>P1;gi|14422422|dbj|BAB60830.1| xSox18beta [Xenopus laevis] [ score 139 E 1e-32 ] [ range 66 .. 147 ]
+sequence
+---IRRPMNAFMVWAKDERKRLAQQNP--DLHNAVLSKMLGQSWKNLTSAEKRPFVEEAERLRVQHLQDH
+PNYKYRPRRKKQAKKLK--*
+>P1;gi|40642793|emb|CAD58840.1| SoxB1 protein [Ciona intestinalis] [ score 139 E 2e-32 ] [ range 35 .. 117 ]
+sequence
+---VKRPMNAFMVWSRGQRRKMAQDNP--KMHNSEISKRLGAEWKTLSDSDKRPFIDEAKRLRALHMKEH
+PDYKYRPRRKTKAILKKE-*
+>P1;gi|22094091|ref|NP_033261.1| SRY-box 15 [Mus musculus] >gi|12644... [ score 138 E 2e-32 ] [ range 47 .. 123 ]
+sequence
+---VKRPMNAFMVWSSVQRRQMAQQNP--KMHNSEISKRLGAQWKLLGDEEKRPFVEEAKRLRARHLRDY
+PDYKYRPRRKSK-------*
+>P1;gi|6175054|sp|P36389|SRY_HORSE Sex-determining region Y protein ... [ score 138 E 3e-32 ] [ range 54 .. 137 ]
+sequence
+---VKRPMNAFMVWSRDHRRKVALENP--QLQNSEISKRLGCQWKMLTEAEKLPFFEEAQRLRAMHQEKY
+PDYKYRPRRKAKMPQKSDK*
+>P1;gi|8924248|ref|NP_060889.1| SRY-box 18; Transcription factor SOX... [ score 138 E 3e-32 ] [ range 85 .. 166 ]
+sequence
+---IRRPMNAFMVWAKDERKRLAQQNP--DLHNAVLSKMLGKAWKELNAAEKRPFVEEAERLRVQHLRDH
+PNYKYRPRRKKQARKAR--*
+>P1;gi|33468595|emb|CAE30434.1| SI:zK76P14.4 (novel protein similar ... [ score 138 E 4e-32 ] [ range 52 .. 129 ]
+sequence
+--HIKRPMNAFMVWSQIERRKIMEQWP--DMHNAEISKRLGKRWKLLPDYEKIPFIKEAERLRLKHMADY
+PDYKYRPRKKSK-------*
+>P1;gi|24638714|ref|NP_726612.1| CG11153-PA [Drosophila melanogaster... [ score 137 E 6e-32 ] [ range 384 .. 460 ]
+sequence
+--HIKRPMNAFMVWAKDERRKILKACP--DMHNSNISKILGARWKAMSNADKQPYYEEQSRLSKLHMEQH
+PDYRYRPRPKR--------*
+>P1;gi|14581669|gb|AAK61366.1| transcription factor SOX9 [Xenopus la... [ score 137 E 6e-32 ] [ range 104 .. 188 ]
+sequence
+--HVKRPMNAFMVWAQAARRKLADQYP--HLHNAELSKTLGKLWRLLNEGEKRPFVEEAERLRVQHKKDH
+PDYKYQPRRRKSVKNGQTE*
+>P1;gi|34859016|ref|XP_215016.2| similar to SOX6 [Rattus norvegicus] [ score 137 E 7e-32 ] [ range 160 .. 236 ]
+sequence
+--HIKRPMNAFMVWAKDERRKILQAFP--DMHNSNISKILGSRWKSMSNQEKQPYYEEQARLSKIHLEKY
+PNYKYKPRPKR--------*
+>P1;gi|40642795|emb|CAD58841.1| SoxE protein [Ciona intestinalis] [ score 137 E 8e-32 ] [ range 206 .. 285 ]
+sequence
+--HVKRPMNAFMVWAQAARRKLADQYP--HLHNAELSKTLGKLWRLLSETEKKPFVDEAERLRIKHKKDH
+PDYKYQPRRRKSSK-----*
+>P1;gi|2811002|sp|O00570|SOX1_HUMAN SOX-1 protein >gi|2230883|emb|CA... [ score 136 E 1e-31 ] [ range 51 .. 124 ]
+sequence
+---VKRPMNAFMVWSRGQRRKMAQENP--KMHNSEISKRLGAEWKVMSEAEKRPFIDEAKRLRALHMKEH
+PDYKYRPRR----------*
+>P1;gi|29838386|gb|AAO92437.1| sex determining factor [Elaphurus dav... [ score 136 E 1e-31 ] [ range 53 .. 134 ]
+sequence
+--HVKRPMNAFIVWSRERRRKVALENP--KMQNSEISKQLGYEWKRLTDAEKRPFFEEAQRLLAVHRDKY
+PGYKYRPRRKTKRQQK---*
+>P1;gi|24711594|gb|AAN62483.1| transcription factor Sox10 [Xenopus l... [ score 136 E 1e-31 ] [ range 97 .. 177 ]
+sequence
+--HVKRPMNAFMVWAQAARRKLADQYP--HLHNAELSKTLGKLWRLLNENDKRPFIEEAERLRMQHKKDH
+PDYKYQPRRRKNGKP----*
+>P1;gi|45383524|ref|NP_989640.1| SRY (sex determining region Y)-box ... [ score 135 E 2e-31 ] [ range 100 .. 182 ]
+sequence
+---IRRPMNAFMVWAKDERKRLAQQNP--DLHNAVLSKMLGQSWKALSASDKRPFVEEAERLRIQHLQDH
+PNYKYRPRRKKQKKIKR--*
+>P1;gi|1711530|sp|Q03256|SRY_CAPHI Sex-determining region Y protein ... [ score 135 E 2e-31 ] [ range 64 .. 145 ]
+sequence
+--HVKRPMNAFIVWSRERRRKVALENP--KLQNSEISKQLGYEWKRLTDAEKRPFFEEAQRLLAIHRDKY
+PGYKYRPRRKAKRPQK---*
+>P1;gi|38049141|gb|AAR10378.1| sex determining region Y protein [Lut... [ score 135 E 2e-31 ] [ range 53 .. 132 ]
+sequence
+--HIRRPMNAFMVWSRDQRRKVALENP--QMQNSEISKRLGYQWKMLTEAEKRPFFEEAQRIQAMHREKY
+PDYKYRPRRKAVPK-----*
+>P1;gi|7707826|dbj|BAA95427.1| sox9 alpha [Rana rugosa] [ score 135 E 2e-31 ] [ range 104 .. 183 ]
+sequence
+--HVKRPMNAFMVWAQAARRKLADQYP--HLHNAELSKTLGKLWRLLNETEKRPFVEEAERLRIQHKKDH
+PDYKYQPRRRKSVK-----*
+>P1;gi|5902106|ref|NP_008873.1| SRY-box 15; SRY (sex determining reg... [ score 134 E 4e-31 ] [ range 49 .. 125 ]
+sequence
+---VKRPMNAFMVWSSAQRRQMAQQNP--KMHNSEISKRLGAQWKLLDEDEKRPFVEEAKRLRARHLRDY
+PDYKYRPRRKAK-------*
+>P1;gi|30016721|dbj|BAC75648.1| sex determining region Y [Kogia simus] [ score 134 E 4e-31 ] [ range 54 .. 134 ]
+sequence
+---VKRPMNAFIVWSRDQRRKVALENP--QMQNSEISKRLGYDWKMLTEAEKQPFFEEAQRLRAMHRDKY
+PGYKYRPRRKPKRPQK---*
+>P1;gi|34881805|ref|XP_346368.1| similar to SOX3 [Rattus norvegicus] [ score 134 E 4e-31 ] [ range 68 .. 150 ]
+sequence
+---VKRPMNAFMVWSRGQRRKMALENP--KMHNSEISKRLGADWKLLTDAEKRPFIDEAKRLRAVHMKEY
+PDYKYRPRRKTKTLLKKD-*
+>P1;gi|3024656|sp|O15370|SX12_HUMAN SOX-12 protein (SOX-22 protein) ... [ score 134 E 6e-31 ] [ range 39 .. 121 ]
+sequence
+--HIKRPMNAFMVWSQHERRKIMDQWP--DMHNAEISKRLGRRWQLLQDSEKIPFVREAERLRLKHMADY
+PDYKYRPRKKSKGAPAK--*
+>P1;gi|34871352|ref|XP_343892.1| similar to Transcription factor 7 (... [ score 133 E 7e-31 ] [ range 349 .. 432 ]
+sequence
+---IKKPLNAFMLYMKEMRAKVIAECT--LKESAAINQILGRRWHALSREEQAKYYELARKERQLHMQLY
+PGWSARDNYGKKKRRSREK*
+>P1;gi|26005788|dbj|BAC41346.1| xSox-K1 ptotein [Xenopus laevis] [ score 133 E 7e-31 ] [ range 30 .. 114 ]
+sequence
+--HIKRPMNAFMVWSQIERRKLMSLCP--NMHNADISRSLGQRWKLLQDTDKIPYVREAERLRLKHMADY
+PNYKYRPRRRSRTQESKTR*
+>P1;gi|18676887|dbj|BAB85048.1| unnamed protein product [Homo sapiens] [ score 133 E 9e-31 ] [ range 555 .. 631 ]
+sequence
+--HIKRPMNAFMVWAKDERRKILQAFP--DMHNSNISKILGSRWKAMTNLEKQPYYEEQARLSKQHLEKY
+PDYKYKPRPKR--------*
+>P1;gi|8926256|gb|AAF81765.1| HMG box transcription factor AmphiSox1... [ score 132 E 1e-30 ] [ range 21 .. 102 ]
+sequence
+--HVKRPMNAFMVWSRIQRRKIAEDNP--KMHNSEISRRLGEMWKELSAEEKKPFVEESKRLRAEHMEKY
+PDYKYRPRRKLKTMMK---*
+>P1;gi|7512133|pir||JC6556 Y chromosome sex-determining-type high mo... [ score 132 E 3e-30 ] [ range 430 .. 507 ]
+sequence
+-VHIKRPMNAFMVWAKDERRRILQAFP--DMHNSSISKILGTRWKSMSNQEKQPYYEEQARLSRQHLERY
+PDYKYKPRPKR--------*
+>P1;gi|40215913|gb|AAR82799.1| HL03718p [Drosophila melanogaster] [ score 132 E 3e-30 ] [ range 438 .. 521 ]
+sequence
+--HIKKPLNAFMLYMKEMRAKVVAECT--LKESAAINQILGRRWHELSREEQSKYYEKARQERQLHMELY
+PGWSARDNYGYVSKKKKK-*
+>P1;gi|2133973|pir||I51083 SOX-LZ - rainbow trout >gi|927217|dbj|BAA... [ score 131 E 3e-30 ] [ range 556 .. 632 ]
+sequence
+--HIKRPMNAFMVWAKDERRKILQAFP--DMHNSNISKILGSRWKSMTNQEKQPFYEEQARLSKIHLEKY
+PNYKYKPRPKR--------*
+>P1;gi|6624910|emb|CAB63903.1| Sox100B protein [Drosophila melanogas... [ score 130 E 5e-30 ] [ range 76 .. 154 ]
+sequence
+--HIKRPMNAFMVWAQAARRVMSKQYP--HLQNSELSKSLGKLWKNLKDSDKKPFMEFAEKLRMTHKQEH
+PDYKYQPRRKKAR------*

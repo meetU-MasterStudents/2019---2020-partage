@@ -1,0 +1,272 @@
+>P1;1ccva
+structureX:1ccv:   1 :A:  56 :A:chymotrypsin inhibitor (AMCI).:Apis mellifera: -1: -1
+--EEC-GPNEVFNTCGS-ACAPTCA-Q-----PKTRICTM---QCR-IGCQCQ--EGFLRNGEGACVLPE
+NC---------------*
+>P1;1ate
+structureX:1ate:   1 : :  62 : :trypsin inhibitor:Ascaris suum: -1: -1
+EAEKCTKPNEQWTKCGG--CEGTCA-Q-----KIVP-CTR---ECKPPRCECIASAGFVRDAQGNCIKFE
+DCPK-------------*
+>P1;1eaic
+structureX:1eai:   1 :C:  61 :C:chymotrypsin-elastase isoinhibitor 1:Ascaris suum: 2.40: -1
+GQESC-GPNEVWTECTG--CEMKCGPD-----ENTP-CPL---MCRRPSCECSPGRGMRRTNDGKCIPAS
+QCP--------------*
+>P1;1coua
+structureX:1cou:   1 :A:  85 :A:anticoagulant protein:Ancylostoma caninum: -1: -1
+KATMQCGENEKYDSCGSKECDKKCKYDGVEEEDDEEPNVPCLVRVCHQDCVCE--EGFYRNKDDKCVSAE
+DCELDNMDFIYPGTRNP*
+>P1;gi|32567382|ref|NP_872222.1| predicted CDS, trypsin inhibitor-li... [ score 88 E 7e-17 ] [ range 22 .. 72 ]
+sequence
+--KKC-GPNEDFKECGT-ACEANCA-E-----GHVMFCTM---QCI-VNCQCK--DGFFRNKDKKC----
+-----------------*
+>P1;gi|45385817|ref|NP_990204.1| alpha tectorin [Gallus gallus] >gi|... [ score 84 E 9e-16 ] [ range 1345 .. 1398 ] [ duplicate a ]
+sequence
+----C-PPNSHYESCVS-LCQPRCA-A-----IRLKSCGH---YCV-EGCQCD--PGYVLNGK-SCILPQ
+NC---------------*
+>P1;gi|45385817|ref|NP_990204.1| alpha tectorin [Gallus gallus] >gi|... [ score 84 E 9e-16 ] [ range 963 .. 1013 ] [ duplicate b ]
+sequence
+----C-PENSHFEECMS--CVETCE-T-----LATGCCMD---TCT-EGCQCD--EGFALRSP--CVPRG
+EC---------------*
+>P1;gi|6678277|ref|NP_033373.1| tectorin alpha; [a]-tectorin [Mus mu... [ score 84 E 9e-16 ] [ range 1372 .. 1425 ] [ duplicate a ]
+sequence
+----C-PPNSHYESCVS-VCQPRCA-A-----IRLKSCNH---YCV-EGCQCD--AGYVLNGK-SCILPH
+NC---------------*
+>P1;gi|6678277|ref|NP_033373.1| tectorin alpha; [a]-tectorin [Mus mu... [ score 84 E 9e-16 ] [ range 983 .. 1036 ] [ duplicate b ]
+sequence
+---EC-PENSHFEECMT--CTETCE-T-----LALPICVD---SCS-EGCQCD--EGYRLQGS-QCVTRS
+EC---------------*
+>P1;gi|4885627|ref|NP_005413.1| tectorin alpha precursor; Tectorin, ... [ score 80 E 2e-14 ] [ range 1372 .. 1425 ]
+sequence
+----C-PPNSHYESCVS-VCQPRCA-A-----IRLKSCSH---YCV-EGCHCD--AGYVLNGK-SCILPH
+SC---------------*
+>P1;gi|17557792|ref|NP_504416.1| trypsin inhibitor-like, cysteine-ri... [ score 73 E 2e-12 ] [ range 38 .. 93 ]
+sequence
+--QRC-PSNEEFRSCGT-ACEPTCQ-N-----PNPQVCTL---QCI-LNCQCS--QGFVR-GPNGCVPPQ
+DC---------------*
+>P1;gi|21311570|gb|AAM46785.1| immune reactive putative protease inh... [ score 64 E 6e-10 ] [ range 14 .. 67 ]
+sequence
+----C-GQNEEFTQCGS-ACEPSCN-R-----PRAQACTL---QCI-VGCQCR--QGFLRNSSGRCVTPR
+EC---------------*
+>P1;gi|39579393|emb|CAE56425.1| Hypothetical protein CBG24123 [Caeno... [ score 64 E 9e-10 ] [ range 23 .. 79 ]
+sequence
+--KKC-AENEEFKECGT-ACEANCA-D-----GHVMFCTM---QCI-VNCQCK--NGFFRNKDKKCVPKN
+KC---------------*
+>P1;gi|17557302|ref|NP_504409.1| odd Oz ten-m homolog 1 like family ... [ score 53 E 2e-06 ] [ range 111 .. 166 ]
+sequence
+--QRC-GRNETFRTCGS-SCEPSCT-T-----PRPQACTM---QCI-VNCQCS--EGFVR-GPSGCVRQR
+DC---------------*
+>P1;gi|32566730|ref|NP_507643.2| trypsin inhibitor-like, cysteine-ri... [ score 52 E 5e-06 ] [ range 24 .. 80 ]
+sequence
+--QEC-KENESFQTCGT-ACEPTCG-L-----PTPTFCTL---QCV-MGCQCN--SGFFRTSDNRCVEQK
+DC---------------*
+>P1;gi|39593030|emb|CAE62644.1| Hypothetical protein CBG06778 [Caeno... [ score 50 E 2e-05 ] [ range 104 .. 159 ]
+sequence
+--QRC-GANETFRTCGT-ACEPTCQ-N-----PNPQACTL---QCI-SNCQCN--QGFVR-GPSGCIRRQ
+QC---------------*
+>P1;gi|39594508|emb|CAE72086.1| Hypothetical protein CBG19174 [Caeno... [ score 50 E 2e-05 ] [ range 79 .. 133 ]
+sequence
+---KC-PQNEQFRGCGT-ACEPTCE-N-----PKPMACTK---QCI-INCQCA--KGFVRHGD-RCIAEK
+DC---------------*
+>P1;gi|17560454|ref|NP_505772.1| trypsin inhibitor-like, cysteine-ri... [ score 49 E 2e-05 ] [ range 61 .. 112 ]
+sequence
+--ENC-PMFQSFSHC---ACESTCN-N-----PDP-YCS----KCE-PGCTCR--NGFVRNSLKLCVLPE
+EC---------------*
+>P1;gi|39594507|emb|CAE72085.1| Hypothetical protein CBG19173 [Caeno... [ score 49 E 3e-05 ] [ range 82 .. 136 ]
+sequence
+---KC-PENETFHECGS-ACEPSCA-N-----PNPEICTE---QCI-INCQCA--PGFVRHGFN-CVSPI
+EC---------------*
+>P1;gi|38083062|ref|XP_289814.2| similar to Zonadhesin [Mus musculus] [ score 49 E 4e-05 ] [ range 1213 .. 1264 ]
+sequence
+--ESC-PPNAHIELC---ACPASCE-S-----PKP-SCQP---PCI-PGCVCN--PGFLF-SNNQCINES
+SC---------------*
+>P1;gi|39593438|emb|CAE64908.1| Hypothetical protein CBG09727 [Caeno... [ score 49 E 4e-05 ] [ range 58 .. 109 ]
+sequence
+--EHC-PMFQSFSHC---ACEPTCN-N-----PNP-ICE----NCE-PGCTCR--NGFVRSSLRLCVLPE
+EC---------------*
+>P1;gi|27881492|ref|NP_775081.1| zonadhesin isoform 5 [Homo sapiens]... [ score 48 E 6e-05 ] [ range 1042 .. 1093 ] [ duplicate a ]
+sequence
+--ERC-PPNARYESC---ACPASCK-S-----PRP-SCGP---LCR-EGCVCN--PGFLF-SDNHCIQAS
+SC---------------*
+>P1;gi|27881492|ref|NP_775081.1| zonadhesin isoform 5 [Homo sapiens]... [ score 48 E 6e-05 ] [ range 1426 .. 1479 ] [ duplicate b ]
+sequence
+----C-PPNSKYSLCAK-PCPDTCH-S-----GSGMFCSD---RCV-EACECN--PGFVLSG-LECIPRS
+QC---------------*
+>P1;gi|5080756|gb|AAD39266.1| Human Fc gamma BP [AA 1-2843] [Homo sa... [ score 47 E 9e-05 ] [ range 1950 .. 2005 ] [ duplicate a ]
+sequence
+----C-PENSHYEVCGS-PCPASCP-S-----PTPAVCEG---PCV-EGCQCD--AGFVLSAD-RCVPLN
+N----------------*
+>P1;gi|5080756|gb|AAD39266.1| Human Fc gamma BP [AA 1-2843] [Homo sa... [ score 47 E 9e-05 ] [ range 1531 .. 1585 ] [ duplicate b ]
+sequence
+---EC-PPNSHYELCAD-TCSLGCS-A-----LSPPQCQD---GCA-EGCQCD--SGFLYNGQ-ACVPIQ
+QC---------------*
+>P1;gi|5080756|gb|AAD39266.1| Human Fc gamma BP [AA 1-2843] [Homo sa... [ score 47 E 9e-05 ] [ range 2732 .. 2786 ] [ duplicate c ]
+sequence
+---EC-PQNSHYELCAD-TCSLGCS-A-----LSPLQCPD---GCA-EGCQCD--SGFLYNGQ-ACVPIQ
+QC---------------*
+>P1;gi|39590517|emb|CAE66257.1| Hypothetical protein CBG11501 [Caeno... [ score 47 E 1e-04 ] [ range 502 .. 559 ]
+sequence
+----C-PLNSHPSVCTS-SCPSTCA-E-----PFPEICDQ---GCV-DGCECD--PGYVIDGSMKCIRLD
+QC---------------*
+>P1;gi|32363180|sp|P83516|IXCI_BOOMI Chymotrypsin-elastase inhibitor... [ score 47 E 1e-04 ] [ range 1 .. 56 ]
+sequence
+--QRC-GPGEVFNQCGS-ACPRVCG-R-----PPAQACTL---QCV-SGCFCR--RGYIRTQRGGCIPER
+QC---------------*
+>P1;gi|17563710|ref|NP_506395.1| zonadhesin precursor (102.3 kD) (5O... [ score 47 E 2e-04 ] [ range 489 .. 546 ]
+sequence
+----C-PLNAHPSTCTS-SCPSTCA-E-----PFPEYCDQ---GCV-DGCECD--PGYVIDGSIKCIRLD
+QC---------------*
+>P1;gi|31248012|ref|XP_316609.1| ENSANGP00000010965 [Anopheles gambi... [ score 46 E 3e-04 ] [ range 50 .. 105 ]
+sequence
+----C-GPNEELLECGT-ACPKTCA-D-----LNPKVCTL---QCV-QGCFCK--PGFVRESLHGKCVPE
+SC---------------*
+>P1;gi|34855405|ref|XP_214835.2| similar to Fc fragment of IgG bindi... [ score 46 E 3e-04 ] [ range 1365 .. 1419 ] [ duplicate a ]
+sequence
+---KC-PPHSHYEVCAD-TCSLGCA-L-----STPQKCPE---VCA-EGCECD--SGFLYNGK-ACVPIQ
+EC---------------*
+>P1;gi|34855405|ref|XP_214835.2| similar to Fc fragment of IgG bindi... [ score 46 E 3e-04 ] [ range 5143 .. 5197 ] [ duplicate b ]
+sequence
+---QC-PAHSHYSVCTY-SCQGSCA-A-----LSLTGCTS---QCF-EGCECD--DHFLL-SQGVCIPAQ
+DC---------------*
+>P1;gi|33300503|emb|CAE17955.1| Hypothetical protein Y26D4A.12 [Caen... [ score 45 E 4e-04 ] [ range 20 .. 73 ]
+sequence
+----C-LANEEFRTCGT-ACEPSCQ-N-----PEPKTCNL---KCI-VNCQCV--NGFVR-GDNGCVRLQ
+EC---------------*
+>P1;gi|17380516|sp|P57999|ZAN_RABIT Zonadhesin >gi|9887910|gb|AAF633... [ score 45 E 4e-04 ] [ range 1266 .. 1322 ]
+sequence
+---KC-PPNSSYSPCGS-PCPGTCL-S-----LHPKDCTL---PCV-EGCECQ--NGYILSG-TSCVPLN
+QC---------------*
+>P1;gi|40738609|gb|EAA57799.1| hypothetical protein AN5936.2 [Asperg... [ score 45 E 4e-04 ] [ range 25 .. 83 ]
+sequence
+----C-NEYEVHKDCGS-ACHPTCE-E-----DDVNICTL---QCV-IGCYCK--DGLYRTNSGACVPGD
+KC---------------*
+>P1;gi|553810|gb|AAA61295.1| von Willebrand factor [ score 45 E 4e-04 ] [ range 157 .. 207 ]
+sequence
+-----------YNSCAP-ACQVTCQ-H-----PEPLACPV---QCV-EGCHCP--PGKILDELQTCVDPE
+DC---------------*
+>P1;gi|7513694|pir||T30257 IgG Fc binding protein - mouse (fragment)... [ score 45 E 5e-04 ] [ range 229 .. 283 ]
+sequence
+---EC-PPHSHYEVCAD-TCSLGCW-A-----LNPQQCPE---GCA-EGCECD--SGFLYNGK-ACVPIE
+QC---------------*
+>P1;gi|42659766|ref|XP_290540.4| mucin 6, gastric [Homo sapiens] [ score 45 E 6e-04 ] [ range 301 .. 357 ]
+sequence
+---QC-PANQVYQECGS-ACVKTCS-N-----PQ-HSCSS---SCT-FGCFCP--EGTVLNNNHTCVPVT
+QC---------------*
+>P1;gi|34861766|ref|XP_215127.2| similar to secreted gel-forming muc... [ score 44 E 9e-04 ] [ range 301 .. 357 ]
+sequence
+---QC-PANQVYQECGE-VCVKTCS-N-----PQ-HSCSS---FCT-FGCFCP--HGTLLDGNHSCVPVN
+QC---------------*
+>P1;gi|39596020|emb|CAE67523.1| Hypothetical protein CBG13044 [Caeno... [ score 108 E 3e-23 ] [ range 276 .. 326 ]
+sequence
+--------NEVWMVCSS--CEEECG-K-----PPQP-CPR---ICQPARCQCPAHKGYRRNSKGECVFCH
+D----------------*
+>P1;gi|7506594|pir||T16709 hypothetical protein R10H1.1 - Caenorhabd... [ score 108 E 5e-23 ] [ range 270 .. 320 ]
+sequence
+--------NEVWMVCSS--CEEECG-K-----TPQP-CPR---ICQPARCQCPAHKGYRRDGQGNCIFCH
+D----------------*
+>P1;gi|125025|sp|P01049|ITR2_ASCSU Trypsin inhibitor >gi|68794|pir||... [ score 64 E 1e-09 ] [ range 9 .. 66 ]
+sequence
+---------PGWTKGGC--ETCGCA-Q-----KIVP-CTR---ETKPPQCPCIASAGFVRDAQGNCIKFE
+DCPK-------------*
+>P1;gi|17531707|ref|NP_497053.1| nahoda (2O997) [Caenorhabditis eleg... [ score 45 E 4e-04 ] [ range 388 .. 449 ]
+sequence
+ENEETCEANSTWAKCGA--CEPTCA-N-----DTAP-CPA---SCEKPGCTC--ADNYVRH-NGKCIYWG
+DCPE-------------*
+>P1;gi|39583082|emb|CAE60622.1| Hypothetical protein CBG04265 [Caeno... [ score 44 E 0.001 ] [ range 389 .. 450 ]
+sequence
+ENEESCAANSTWAKCGA--CEPTCA-N-----DTAP-CPA---SCEKPGCTC--ADNYVRH-NGQCIYWG
+DCPE-------------*
+>P1;gi|39596020|emb|CAE67523.1| Hypothetical protein CBG13044 [Caeno... [ score 96 E 2e-19 ] [ range 272 .. 322 ]
+sequence
+---PC-ALNEVWMVCSS--CEEECGKP-----PQ-P-CPR---ICQPARCQCPAHKGYRRNSKGECV---
+-----------------*
+>P1;gi|7506594|pir||T16709 hypothetical protein R10H1.1 - Caenorhabd... [ score 95 E 4e-19 ] [ range 265 .. 316 ]
+sequence
+--KPC-GLNEVWMVCSS--CEEECGKT-----PQ-P-CPR---ICQPARCQCPAHKGYRRDGQGNCI---
+-----------------*
+>P1;gi|30912659|sp|O77416|ASP1_ANISI Serine protease inhibitor-1 pre... [ score 75 E 3e-13 ] [ range 18 .. 75 ]
+sequence
+-EHQC-GPNEQWSDCPG--CELQCG-E-----SDKP-CPA---MCGDPKCYCSPDQ-YRRIPDGRCIRKI
+QCP--------------*
+>P1;gi|30912664|sp|O77417|ASP2_ANISI Serine protease inhibitor-2 pre... [ score 75 E 6e-13 ] [ range 18 .. 75 ]
+sequence
+-EHQC-GPNEQWSDCPK--CELQCG-E-----SDKP-CAT---ICGEPKCYCSPDK-YRRIPDGRCIRKI
+QCP--------------*
+>P1;gi|3650462|gb|AAC61300.1| chymotrypsin/elastase inhibitor-1 [Asc... [ score 73 E 1e-12 ] [ range 1 .. 61 ]
+sequence
+GQERC-GPNEVWTECTG--CEMKCGDP-----ENTP-CPL---MCRRPSCECSPGRGMRRTNDGKCIPAS
+QCP--------------*
+>P1;gi|30912667|sp|O77418|ASP3_ANISI Serine protease inhibitor-3 pre... [ score 72 E 3e-12 ] [ range 18 .. 75 ]
+sequence
+-EHQC-GPNEQWSGCPK--CELQSG-E-----SDKP-CAT---ICGEPKCYCSPDK-YRRIPDGRCIRKI
+QCP--------------*
+>P1;gi|102568|pir||S08572 chymotrypsin/elastase inhibitor - common r... [ score 72 E 4e-12 ] [ range 1 .. 60 ]
+sequence
+-RKPC-GKNEVWTECTG--CELKCGQD-----ENTP-CAL---MCRPPSCECSPGRGMRRTHDGKCVPVS
+ECP--------------*
+>P1;gi|124113|sp|P07852|ICE2_ASCSU Chymotrypsin/elastase isoinhibito... [ score 70 E 2e-11 ] [ range 1 .. 60 ]
+sequence
+-RKPC-GKNEVWTECTG--CELKCGQD-----EKTP-CAL---MCRPPSCECTPGRGMRRTHDGKCVPVS
+ECP--------------*
+>P1;gi|39583082|emb|CAE60622.1| Hypothetical protein CBG04265 [Caeno... [ score 50 E 1e-05 ] [ range 317 .. 384 ] [ duplicate a ]
+sequence
+GEQEC-GPNEQWSECPE--CEHSCDWP-----ETTP-CPN---SCGTPRCICKEGFVRMANDQEVCVPFD
+FC---------------*
+>P1;gi|39583082|emb|CAE60622.1| Hypothetical protein CBG04265 [Caeno... [ score 50 E 1e-05 ] [ range 391 .. 449 ] [ duplicate b ]
+sequence
+-EESC-AANSTWAKCTA--CEPTCANM-----YDTP-CPA---SCEKPGCTC-ADNYVR--HNGQCIYWG
+DCP--------------*
+>P1;gi|17531707|ref|NP_497053.1| nahoda (2O997) [Caenorhabditis eleg... [ score 49 E 2e-05 ] [ range 316 .. 383 ] [ duplicate a ]
+sequence
+GDQEC-GPNEQWSECPE--CEHSCDWP-----ETTP-CPN---SCGTPRCICKEGFVRMANDEDVCVPFD
+FC---------------*
+>P1;gi|17531707|ref|NP_497053.1| nahoda (2O997) [Caenorhabditis eleg... [ score 49 E 2e-05 ] [ range 390 .. 448 ] [ duplicate b ]
+sequence
+-EETC-EANSTWAKCTA--CEPTCANM-----YDTP-CPA---SCEKPGCTC-ADNYVR--HNGKCIYWG
+DCP--------------*
+>P1;gi|32454255|gb|AAP82926.1| anticoagulant protein c4 [Ancylostoma... [ score 106 E 2e-22 ] [ range 19 .. 99 ]
+sequence
+-AKPSCGENQRYDECNRKECDPKCKYDGTEEKDDEKP-VECLIRVCHGDCVCK--DGFLRNNNGACVKAG
+DCELDNMEFIYPNRK--*
+>P1;gi|37925414|gb|AAP57305.1| anticoagulant protein c3; AcAPc3 [Anc... [ score 101 E 3e-21 ] [ range 1 .. 84 ]
+sequence
+KATRKCGENEMYDPCGRKECDQKCKYDGVEEEDDEEPNVQCLVRVCYGDCVCE--EGYFRNKNDICVKAE
+DCELDNMEFIYPGTQH-*
+>P1;gi|32567382|ref|NP_872222.1| predicted CDS, trypsin inhibitor-li... [ score 89 E 2e-17 ] [ range 20 .. 76 ]
+sequence
+-APKKCGPNEDFKECGT-ACEANCA-----EGHVMFCTMQCIVNVCQ----CK--DGFFRNKDKKCAHVE
+-----------------*
+>P1;gi|32171192|ref|NP_859418.1| mucin 6, gastric; gastric mucin-lik... [ score 87 E 1e-16 ] [ range 805 .. 880 ]
+sequence
+----SCPEPKTFQSCSQAACAPTCQMLAT--------GIDCVPTKCESGCVCP--KGLYENSDGQCVPAE
+ECPCDYAGVSYPG----*
+>P1;gi|34861766|ref|XP_215127.2| similar to secreted gel-forming muc... [ score 83 E 1e-15 ] [ range 763 .. 838 ]
+sequence
+----SCPEPKTFQSCSQAACAPTCQMLAT--------GTACVPTKCESGCVCP--KGLYENSDGQCVPAE
+ECPCDYAGTSYPG----*
+>P1;gi|15028475|gb|AAK81733.1| anticoagulant peptide-1 precursor [An... [ score 79 E 2e-14 ] [ range 20 .. 94 ]
+sequence
+KSVKKCGLNERLDCGNLKACERKCNEEESEEEIEAR----CLSRDCGRVCMCD--YGFYRNKDGECVTED
+DCEYDNMEII-------*
+>P1;gi|42659766|ref|XP_290540.4| mucin 6, gastric [Homo sapiens] [ score 70 E 1e-11 ] [ range 783 .. 838 ]
+sequence
+-----------------AACAPTCQMLAT--------GVACVPTKCEPGCVCA--EGLYENADGQCVPPE
+ECPCEFSGVSYPG----*
+>P1;gi|39579393|emb|CAE56425.1| Hypothetical protein CBG24123 [Caeno... [ score 58 E 5e-08 ] [ range 23 .. 79 ]
+sequence
+---KKCAENEEFKECGT-ACEANCA-----DGHVMFCTMQCIVNVCQ----CK--NGFFRNKDKKCVPKN
+KC---------------*
+>P1;gi|7460236|pir||T03099 mucin, submaxillary - pig >gi|2581864|gb|... [ score 53 E 2e-06 ] [ range 705 .. 797 ] [ duplicate a ]
+sequence
+--VKACAEKETYIVGWRAECDHSCPSGLVFKYNVKACNSSCRSRSCDDGCTCP--DGMYHNNEGTCVPKS
+QCDCYNDEVMQPGK---*
+>P1;gi|7460236|pir||T03099 mucin, submaxillary - pig >gi|2581864|gb|... [ score 53 E 2e-06 ] [ range 862 .. 895 ] [ duplicate b ]
+sequence
+---------------------------------------------CKRGCYCP--VGMVRNSKGNCVFPE
+DCPCSFGGREY------*
+>P1;gi|23956226|ref|NP_083077.1| mucin 5, subtype B, tracheobronchia... [ score 45 E 5e-04 ] [ range 828 .. 868 ]
+sequence
+--------------------------------------VECFSTQCVSGCVCP--SGLVADGNGGCIAEE
+DCPCIHNEVTY------*
+>P1;gi|5764611|gb|AAD51336.1| ascaris type serine protease inhibitor... [ score 44 E 7e-04 ] [ range 1 .. 71 ]
+sequence
+KAMPKCGPNERLEACGLKECEPTC------DGEDKICPRGCYG---GSVCVCE--EGFYRDRAGDCVTDE
+DCAIDDMEFI-------*

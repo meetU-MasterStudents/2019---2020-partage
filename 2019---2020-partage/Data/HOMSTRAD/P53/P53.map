@@ -1,0 +1,66 @@
+>P1;1aie
+structureX:1aie: 326 : : 356 : :cellular tumor antigen p53:Homo sapiens: 1.5: 19.1
+EYFTLQIRGRERFEMFRELNEALELKDAQAG*
+>P1;1a1ua
+structureX:1a1u:  26 :A:  54 :A:cellular tumor antigen p53:Homo sapiens: -1: -1
+EYFTLQIRGRERFEKIREYNEALELKDAQ--*
+>P1;gi|6093639|sp|Q29537|P53_CANFA Cellular tumor antigen p53 (Tumor... [ score 72 E 4e-12 ] [ range 314 .. 344 ]
+sequence
+EYFTLQIRGRERYEMFRNLNEALELKDAQSG*
+>P1;gi|6841071|gb|AAF28891.1| p53 protein [Sus scrofa] [ score 71 E 5e-12 ] [ range 315 .. 345 ]
+sequence
+EYFTLQIRGRKRFEMFRELNEALELMDAQAG*
+>P1;gi|10720194|sp|Q9TTA1|P53_TUPGB Cellular tumor antigen p53 (Tumo... [ score 70 E 2e-11 ] [ range 326 .. 356 ]
+sequence
+EYFTLQIRGRERFEMLREINEALELKDAMAG*
+>P1;gi|129371|sp|P02340|P53_MOUSE Cellular tumor antigen p53 (Tumor ... [ score 70 E 2e-11 ] [ range 323 .. 352 ]
+sequence
+EYFTLKIRGRKRFEMFRELNEALELKDAHA-*
+>P1;gi|1938365|gb|AAB80959.1| mutant p53 [Rattus norvegicus] [ score 70 E 2e-11 ] [ range 324 .. 353 ]
+sequence
+EYFTLKIRGRERFEMFRELNEALELKDARA-*
+>P1;gi|2842741|sp|Q95330|P53_RABIT Cellular tumor antigen p53 (Tumor... [ score 69 E 3e-11 ] [ range 324 .. 353 ]
+sequence
+EYFILKIRGRERFEMFRELNEALELKDAQA-*
+>P1;gi|10720186|sp|Q9TUB2|P53_PIG Cellular tumor antigen p53 (Tumor ... [ score 69 E 3e-11 ] [ range 319 .. 347 ]
+sequence
+EYFTLQIRGRERFEMFRELNDALELKDAQ--*
+>P1;gi|16266760|dbj|BAB69969.1| p53 [Meriones unguiculatus] [ score 69 E 4e-11 ] [ range 323 .. 352 ]
+sequence
+EYFTLKIRGRKRFEVFRELNEALELKDAQA-*
+>P1;gi|10720190|sp|O36006|P53_MARMO Cellular tumor antigen p53 (Tumo... [ score 68 E 7e-11 ] [ range 324 .. 353 ]
+sequence
+EYFTLKIRGRARFEMFQELNEALELKDAQA-*
+>P1;gi|5353744|gb|AAD42225.1| p53 protein [Canis familiaris] [ score 68 E 8e-11 ] [ range 209 .. 239 ]
+sequence
+EYSTFQIRGRERYEMFRNLNEALELKDAQSG*
+>P1;gi|129370|sp|Q00366|P53_MESAU Cellular tumor antigen p53 (Tumor ... [ score 66 E 2e-10 ] [ range 329 .. 358 ]
+sequence
+EYFTLKIRGQERFKMFQELNEALELKDAQA-*
+>P1;gi|28849929|ref|NP_776626.1| p53 tumor suppressor phosphoprotein... [ score 66 E 2e-10 ] [ range 319 .. 349 ]
+sequence
+EYFTLQIRGFKRYEMFRELNDALELKDALDG*
+>P1;gi|2499428|sp|O09185|P53_CRIGR Cellular tumor antigen p53 (Tumor... [ score 65 E 4e-10 ] [ range 326 .. 355 ]
+sequence
+EYFTLKIRGHERFKMFQELNEALELKDAQA-*
+>P1;gi|27527178|emb|CAD10682.1| p53 protein [Monodelphis domestica] [ score 63 E 2e-09 ] [ range 198 .. 227 ]
+sequence
+EYFTLQIRGRQRYELLREINEALELKEAHS-*
+>P1;gi|10720197|sp|Q9WUR6|P53_CAVPO Cellular tumor antigen p53 (Tumo... [ score 62 E 4e-09 ] [ range 324 .. 352 ]
+sequence
+EYFTLKIRGRKNFEILREINEALEFKDAQ--*
+>P1;gi|29468129|gb|AAO85406.1| tumor suppressor p53 [Danio rerio] [ score 47 E 1e-04 ] [ range 298 .. 324 ]
+sequence
+EIFTLQVRGRERYEILKKLNDSLELSD----*
+>P1;gi|129368|sp|P10360|P53_CHICK Cellular tumor antigen p53 (Tumor ... [ score 46 E 2e-04 ] [ range 309 .. 335 ]
+sequence
+EIFYLQVRGRRRYEMLKEINEALQLAE----*
+>P1;gi|468514|emb|CAA54672.1| p53 [Xenopus laevis] [ score 46 E 2e-04 ] [ range 299 .. 326 ]
+sequence
+EIFTLRIKGRSRYEMIKKLNDALELQES---*
+>P1;gi|10720195|sp|Q9W678|P53_BARBU Cellular tumor antigen p53 (Tumo... [ score 46 E 2e-04 ] [ range 299 .. 325 ]
+sequence
+EIYTLQVRGKERYEMLKKINDSLELSD----*
+>P1;gi|13096737|pdb|1HS5|A Chain A, Nmr Solution Structure Of Design... [ score 44 E 7e-04 ] [ range 3 .. 33 ]
+sequence
+EYFTLQIRGRERFEQFRERNEALELKDAQAG*

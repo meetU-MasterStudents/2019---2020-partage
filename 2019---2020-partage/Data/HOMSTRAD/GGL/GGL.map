@@ -1,0 +1,108 @@
+>P1;1tbge
+structureX:1tbg: 501 :E: 568 :E:guanine nucleotide-binding protein G(t) gamma-1 subunit (transducin gamma chain):Bos taurus: 2.1: 20
+APVINIEDLTEKDKLKMEVDQLKKEVTLERMLVSKCCEEFRDYVEERSGEDPLVKGIPEDKNPFKELK*
+>P1;1gp2g
+structureX:1gp2:   8 :G:  61 :G:guanine nucleotide-binding protein G(i)-G(s)-G(o) gamma-2 subunit (G gamma-i):Bos taurus: 2.3: 22.6
+----------SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENPF----*
+>P1;gi|41152369|ref|NP_956261.1| Unknown (protein for MGC:73318) [Da... [ score 93 E 2e-18 ] [ range 2 .. 67 ]
+sequence
+-PIIDVENMTDLDKAKMEVTQLKTEVKLERAKVSKCCEEITEYIQGGADEDPLVKGIPEEKNPFKEK-*
+>P1;gi|14589849|ref|NP_113686.1| guanine nucleotide binding protein-... [ score 90 E 1e-17 ] [ range 3 .. 63 ]
+sequence
+------QDLSEKDLLKMEVEQLKKEVKNTRIPISKAGKEIKEYVEAQAGNDPFLKGIPEDKNPFKEK-*
+>P1;gi|30585203|gb|AAP36874.1| Homo sapiens guanine nucleotide bindi... [ score 90 E 1e-17 ] [ range 2 .. 67 ]
+sequence
+-PALHIEDLPEKEKLKMEVEQLRKEVKLQRQQVSKCSEEIKNYIEERSGEDPLVKGIPEDKNPFKEK-*
+>P1;gi|27807509|ref|NP_777210.1| guanine nucleotide binding protein ... [ score 89 E 3e-17 ] [ range 14 .. 67 ]
+sequence
+--------------ARRTVQQLRMEASIERIKVSKASADLMSYCEEHARNDPLLMGIPTSENPFKDKK*
+>P1;gi|13384618|ref|NP_079554.1| guanine nucleotide binding protein ... [ score 87 E 8e-17 ] [ range 14 .. 67 ]
+sequence
+--------------ARRTVQQLRLEASIERIKVSKASADLMSYCEEHARSDPLLMGIPTSENPFKDKK*
+>P1;gi|38173927|gb|AAH61005.1| Unknown (protein for MGC:74106) [Mus ... [ score 87 E 1e-16 ] [ range 3 .. 63 ]
+sequence
+------QDLSERELLRMEVEQLKKEVKNPRDLISKTGKEIKDYVEAQAGTDPLLKGIPEDKNPFKEK-*
+>P1;gi|37590884|gb|AAH59612.1| Unknown (protein for MGC:73283) [Dani... [ score 84 E 6e-16 ] [ range 4 .. 63 ]
+sequence
+-------DMSDKDILKMELEQLQKEAKNTREPVSKTAKEICEWVEAQSAEDPLVKGVPEDKNPFKEK-*
+>P1;gi|27805895|ref|NP_776753.1| guanidine nucleotide binding protei... [ score 84 E 8e-16 ] [ range 3 .. 63 ]
+sequence
+------QELSEKELLKMEVEQLKKEVKNPRALISKTGKEIKDYVEAEAGNDPLLKGIPEDKNPFKEK-*
+>P1;gi|15741075|gb|AAL05608.1| cone transducin gamma subunit [Danio ... [ score 82 E 3e-15 ] [ range 3 .. 63 ]
+sequence
+------QELSEKDILKMELEQLQKEAKNTREPVSKTAKEICEWVEAQSAEDPLVKGVPEDKNPFKEK-*
+>P1;gi|4758450|ref|NP_004476.1| guanine nucleotide binding protein (... [ score 72 E 3e-12 ] [ range 16 .. 69 ]
+sequence
+--------------ARKAVEQLKMEACMDRVKVSQAAADLLAYCEAHVREDPLIIPVPASENPFREKK*
+>P1;gi|21070948|ref|NP_631924.1| G-protein gamma 8 subunit [Rattus n... [ score 69 E 2e-11 ] [ range 4 .. 64 ]
+sequence
+-------NMAKIAEARKTVEQLKLEVNIDRMKVSQAAAELLAFCETHAKDDPLVTPVPAAENPFRDKR*
+>P1;gi|30584425|gb|AAP36465.1| Homo sapiens guanine nucleotide bindi... [ score 66 E 2e-10 ] [ range 10 .. 63 ]
+sequence
+--------------MKKVVQQLRLEAGLNRVKVSQAAADLKQFCLQNAQHDPLLTGVSSSTNPFRPQK*
+>P1;gi|37681817|gb|AAQ97786.1| guanine nucleotide binding protein ga... [ score 63 E 2e-09 ] [ range 10 .. 63 ]
+sequence
+--------------MKKVVQQLRFEANINRVKVSQAAAELQQFCIQNAVHDPLLTGVSSSTNPFRTQK*
+>P1;gi|12229849|sp|Q9Y3K8|GNGL_HUMAN Guanine nucleotide-binding prot... [ score 61 E 7e-09 ] [ range 14 .. 63 ]
+sequence
+------------------VQQLQLEAGLNSVKVSQAAADLKQFCLQNAQHDPLLTGVSSSTNPFRPQK*
+>P1;gi|39587968|emb|CAE57199.1| Hypothetical protein CBG00049 [Caeno... [ score 53 E 2e-06 ] [ range 119 .. 182 ]
+sequence
+----DFQRRDEMENIKTTTEQLRTEANIQRKKVSEVAKDLVEFCEKNKATDMLVSGPLDAHNPFQEKK*
+>P1;gi|21361097|ref|NP_004116.2| guanine nucleotide binding protein ... [ score 48 E 6e-05 ] [ range 109 .. 146 ]
+sequence
+----------------------------ETLKVSQAAAELQQYCMQNACKDALLVGVPAGSNPFRE--*
+>P1;gi|17568411|ref|NP_510145.1| G Protein, Gamma subunit (7.0 kD) (... [ score 46 E 2e-04 ] [ range 2 .. 57 ]
+sequence
+------------ENIKASTEQLCAEANIQRKKVSEVSKELLDFCEKNKTNDMLVSGPTDQHNPFQEKK*
+>P1;gi|24415111|gb|AAN59791.1| trimeric G-protein gamma subunit [Sch... [ score 45 E 4e-04 ] [ range 4 .. 60 ]
+sequence
+--------LSQQRKL---VEQLRQEANLNRRPVSECVQEMIVYMEQNRDKDCLVSGFASKKNPFQEK-*
+>P1;gi|31234600|ref|XP_319087.1| ENSANGP00000025337 [Anopheles gambi... [ score 44 E 8e-04 ] [ range 10 .. 66 ]
+sequence
+----------DRDALKKQIENMKYQASMERWPLSKSIAAMREYVEENEKNDPLIHAPDKKNNPWAEK-*
+>P1;gi|21362263|ref|NP_034449.1| guanine nucleotide binding protein ... [ score 99 E 3e-20 ] [ range 6 .. 59 ]
+sequence
+----------NVAQARKLVEQLRIEAGIERIKVSKASSDLMGYCEQHARNDPLLVGVPASENPF----*
+>P1;gi|18858767|ref|NP_571916.1| guanine nucleotide binding protein ... [ score 97 E 1e-19 ] [ range 12 .. 65 ]
+sequence
+----------SVGQARKLVEQLKIEASFCRIKVSKAAADLMAYCDAHACEDPLITPVPTSENPF----*
+>P1;gi|4826746|ref|NP_005136.1| guanine nucleotide binding protein (... [ score 97 E 1e-19 ] [ range 6 .. 59 ]
+sequence
+----------NIAQARKLVEQLRIEAGIERIKVSKAASDLMSYCEQHARNDPLLVGVPASENPF----*
+>P1;gi|28703944|gb|AAH47249.1| Gng7-A protein [Xenopus laevis] [ score 96 E 2e-19 ] [ range 6 .. 59 ]
+sequence
+----------NIAQARKLVEQLRLEAGIERVKVSKAAADLMNYCEQHAKNDPLLVGMPTSENPF----*
+>P1;gi|6754022|ref|NP_034446.1| guanine nucleotide binding protein (... [ score 96 E 2e-19 ] [ range 12 .. 65 ]
+sequence
+----------SIGQARKMVEQLKIEASLCRIKVSKAAADLMTYCDAHACEDPLITPVPTSENPF----*
+>P1;gi|13162316|ref|NP_077052.1| guanine nucleotide binding protein,... [ score 96 E 3e-19 ] [ range 7 .. 60 ]
+sequence
+----------NVAQARKLVEQLRIEAGIERIKVSKASSELMSYCEQHARNDPLLVGVPASENPF----*
+>P1;gi|34868532|ref|XP_345538.1| guanine nucleotide binding protein ... [ score 85 E 4e-16 ] [ range 101 .. 154 ]
+sequence
+----------SVSALQRLVEQLKLEAGVERIKVSQAAAELQQYCIQNACKDALLLGVPAGSNPF----*
+>P1;gi|38014660|gb|AAH60422.1| MGC68728 protein [Xenopus laevis] [ score 78 E 7e-14 ] [ range 6 .. 59 ]
+sequence
+----------NFSTMQRVVEQLRLEASVERIKVSQAAAELQQYCMQNACKDALLVGMPAGSNPF----*
+>P1;gi|1730222|sp|P50151|GBGA_HUMAN Guanine nucleotide-binding prote... [ score 77 E 8e-14 ] [ range 6 .. 59 ]
+sequence
+----------SASALQRLVEQLKLEAGVERIKVSQAAAELQQYCMQNACKDALLVGVPAGSNPF----*
+>P1;gi|17647467|ref|NP_523662.1| G protein gamma 1 CG8261-PC [Drosop... [ score 76 E 2e-13 ] [ range 7 .. 61 ]
+sequence
+----------SLQQQRVVVEQLRREAAIDRQTISESCAKMMKYITEHEQEDYLLTGFTSQKNPF----*
+>P1;gi|17864550|ref|NP_524883.1| Kinesin-like protein at 54D CG15844... [ score 60 E 1e-08 ] [ range 782 .. 835 ]
+sequence
+----------NLQQQRSINLQLRREVEMERMPVSVACSLMMKYMLEHEEEDCLLSGFTQKVNPF----*
+>P1;gi|33466350|gb|AAQ19607.1| heterotrimeric guanine nucleotide-bin... [ score 53 E 2e-06 ] [ range 7 .. 61 ]
+sequence
+----------NLQQQRQITEQLRREAAVKRIPVSQAIQDIIKYIREREMEDCLMVGFSSQKNPF----*
+>P1;gi|33563258|ref|NP_034444.1| guanine nucleotide binding protein ... [ score 52 E 4e-06 ] [ range 19 .. 64 ]
+sequence
+------------------VDQLKKEVTLERMMVSKCCEEVRDYIEERSGEDPLVKGIPEDKNPF----*
+>P1;gi|24415111|gb|AAN59791.1| trimeric G-protein gamma subunit [Sch... [ score 51 E 7e-06 ] [ range 3 .. 57 ]
+sequence
+----------TLSQQRKLVEQLRQEANLNRRPVSECVQEMIVYMEQNRDKDCLVSGFASKKNPF----*
+>P1;gi|11386179|ref|NP_068774.1| guanine nucleotide binding protein ... [ score 51 E 9e-06 ] [ range 19 .. 64 ]
+sequence
+------------------VDQLKKEVTLERMLVSKCCEEVRDYVEERSGEDPLVKGIPEDKNPF----*

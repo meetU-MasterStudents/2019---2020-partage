@@ -1,0 +1,1062 @@
+>P1;1rb9
+structureX:1rb9:   1 : :  52 : :rubredoxin:Desulfovibrio vulgaris: 0.92: -1
+MKKYVCTVCGYEYDPAEGDPDNGVKPGTSFDDLPADWVCPVCGAPKSEFEAA--*
+>P1;1rdg
+structureX:1rdg:   1 : :  52 : :rubredoxin:Desulfovibrio gigas: 1.40:13.60
+MDIYVCTVCGYEYDPAKGDPDSGIKPGTKFEDLPDDWACPVCGASKDAFEKQ--*
+>P1;4rxn
+structureX:4rxn:   1 : :  54 : :rubredoxin:Clostridium pasteurianum: 1.20:12.80
+MKKYTCTVCGYIYDPEDGDPDDGVNPGTDFKDIPDDWVCPLCGVGKDEFEEVEE*
+>P1;1zrp
+structureN:1zrp:   1 : :  53 : :rubredoxin:Pyrococcus furiosus:-1.00:-1.00
+-AKWVCKICGYIYDEDAGDPDNGISPGTKFEELPDDWVCPICGAPKSEFEKLED*
+>P1;6rxn
+structureX:6rxn:   1 : :  52 : :rubredoxin:Desulfovibrio desulfuricans: 1.50: 9.30
+MQKYVCNVCGYEYDPAEH-------DNVPFDQLPDDWCCPVCGVSKDQFSPA--*
+>P1;gi|33866899|ref|NP_898458.1| Rubrerythrin [Synechococcus sp. WH ... [ score 97 E 8e-20 ] [ range 180 .. 228 ]
+sequence
+--KWICKVCSMIYDPAEGDPDSGIVAGTPFEAIPDDWQCPICGARKASFVP---*
+>P1;gi|17228669|ref|NP_485217.1| rubrerythrin [Nostoc sp. PCC 7120] ... [ score 96 E 2e-19 ] [ range 181 .. 229 ]
+sequence
+-RKWICRQCSMIYDPVAGDPDSGIAPGTPFEDIPNDWQCPICGATKKTFK----*
+>P1;gi|23473639|ref|ZP_00128935.1| COG1773: Rubredoxin [Desulfovibri... [ score 92 E 3e-18 ] [ range 4 .. 55 ]
+sequence
+MQKYVCNICGYEYDPAEGDPDNGVAPGTAWEDVPSDWLCPVCGAPKSEFEPA--*
+>P1;gi|134115|sp|P15412|RUBR_DESVM Rubredoxin (Rd) >gi|320090|pir||J... [ score 92 E 5e-18 ] [ range 1 .. 52 ]
+sequence
+MKKYVCTVCGYEYDPAEGDPDNGVKPGTAFEDVPADWVCPICGAPKSEFEPA--*
+>P1;gi|16761617|ref|NP_457234.1| putative flavoprotein [Salmonella e... [ score 88 E 6e-17 ] [ range 425 .. 472 ]
+sequence
+--KMQCSVCQWIYDPALGEPLQDVAPGTPWSDVPDNFLCPECSLGKDVFD----*
+>P1;gi|28211065|ref|NP_782009.1| acyl-coA dehydrogenase [Clostridium... [ score 87 E 1e-16 ] [ range 585 .. 635 ]
+sequence
+-KHYVCNGCGYEYDPGEGDSEGEILPGTLFEDLPNEWTCPACGEEKDEFIEA--*
+>P1;gi|39998278|ref|NP_954229.1| rubredoxin [Geobacter sulfurreducen... [ score 87 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+MERWRCTICQYEYDPEAGDPENGIDPGTPFEELPDDWVCPICGAGKDLFEPA--*
+>P1;gi|19704756|ref|NP_604318.1| ACYL-COA dehydrogenase, short-chain... [ score 86 E 2e-16 ] [ range 587 .. 635 ]
+sequence
+---YVCSGCGHEYNPEIGDEDSDIKPGTRFKDLPEDWTCPDCGDPKSGYIDA--*
+>P1;gi|34763803|ref|ZP_00144716.1| ACYL-COA DEHYDROGENASE, SHORT-CHA... [ score 85 E 3e-16 ] [ range 429 .. 477 ]
+sequence
+---YVCSGCGHEYNPDLGDEDSDIKPGTRFKDLPEDWTCPDCGDPKSGYIDA--*
+>P1;gi|13872675|emb|CAB51024.2| alkane 1-monooxygenase [Prauserella ... [ score 85 E 6e-16 ] [ range 437 .. 484 ]
+sequence
+----MCPGCGYVYDEATGDPREGFPAGTPWSAIPDSWCCPDCGVRKVDFVA---*
+>P1;gi|39995953|ref|NP_951904.1| rubredoxin [Geobacter sulfurreducen... [ score 83 E 1e-15 ] [ range 1 .. 52 ]
+sequence
+MQRWICTVCQYVYDPFVGDPLNGVPPGTPFEELPDGWVCPACGVAKNMFVPA--*
+>P1;gi|44205497|gb|EAH69242.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 4 .. 52 ]
+sequence
+-KKWECIVCGLIYDEEQGWPDDGIEPGTAWEDVPEDWLCPECGVGKEDFD----*
+>P1;gi|44343291|gb|EAI59931.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 4 .. 52 ]
+sequence
+-KKWECIVCGLIYDEEEGWPDDGIEPGTAWEDVPEDWLCPECGVGKEDFD----*
+>P1;gi|43749851|gb|EAF29335.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 4 .. 52 ]
+sequence
+-KKWECIVCGLIYDEEQGWPDDGIEPGTAWENVPEDWLCPECGVGKEDFD----*
+>P1;gi|42826489|gb|EAA80579.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 4 .. 52 ]
+sequence
+-KKWECIVCGLIYDEELGWPDDGIEPGTAWKDVPEDWLCPECGVGKEDFD----*
+>P1;gi|44238722|gb|EAH88265.1| unknown [environmental sequence] >gi|... [ score 82 E 3e-15 ] [ range 4 .. 52 ]
+sequence
+-KKWECIVCGLIYDEELGWPDDGIEPGTAWDDVPEDWLCPECGVGKEDFD----*
+>P1;gi|44367654|gb|EAI77308.1| unknown [environmental sequence] >gi|... [ score 82 E 4e-15 ] [ range 4 .. 52 ]
+sequence
+-KKWECIVCGLIYDESEGWPEDGIEPGTKWEDVPEDWICPDCGVGKEDFD----*
+>P1;gi|16329682|ref|NP_440410.1| rubredoxin [Synechocystis sp. PCC 6... [ score 79 E 2e-14 ] [ range 18 .. 65 ]
+sequence
+---HECRACGYVYIPSQGDQKTSVSPGTPFEALPLNWKCPVCGAPRNYFIS---*
+>P1;gi|44560962|gb|EAK11315.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 4 .. 50 ]
+sequence
+-KKWECIVCGLIYDEELGWPDDGIEPGTAWEDVPVDWLCPECGVGKED------*
+>P1;gi|32394570|gb|AAM93983.1| rubredoxin [Griffithsia japonica] [ score 77 E 2e-13 ] [ range 90 .. 138 ]
+sequence
+--KFECTACGYVYEPSKGELRSNIAPGTAFADLSDSFTCPQCRTPKRRFIA---*
+>P1;gi|44589026|gb|EAK30952.1| unknown [environmental sequence] [ score 75 E 4e-13 ] [ range 4 .. 48 ]
+sequence
+-KKWECIVCGLIYDEELGWPDDGIEPGTAWEDVSEDWLCPECGVGK--------*
+>P1;gi|22967070|ref|ZP_00014664.1| COG1773: Rubredoxin [Rhodospirill... [ score 66 E 2e-10 ] [ range 47 .. 105 ]
+sequence
+--KWVCTDCDYIYDPALGDPVNPLPPGLAFEDLPAGWLCPNCGSPKSFFRPS--*
+>P1;gi|44092486|gb|EAH08581.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 5 .. 53 ]
+sequence
+--RFECRSCGYIYDPSEGNKKLNIPKNTPFSELDGNFACPVCRAGKNFYK----*
+>P1;gi|15678504|ref|NP_275619.1| pyruvate dehydrogenase / acetolacta... [ score 62 E 5e-09 ] [ range 1 .. 40 ]
+sequence
+MADFRCTVCNYIFEEADGE----------FDSLPADWRCPVCNAPRTAF-----*
+>P1;gi|44528990|gb|EAJ89022.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 4 .. 40 ]
+sequence
+-KKYICLICGWVYDEELGSPEDGIPPMTKWEDIPVSWR----------------*
+>P1;gi|1894774|emb|CAA72620.1| rubredoxin [Clostridium diolis] [ score 92 E 3e-18 ] [ range 1 .. 52 ]
+sequence
+MEKYICTVCGYIYDEAAGDPDNGVAPGTKFEDIPDDWVCPLCGVPKSDFEKE--*
+>P1;gi|23021725|ref|ZP_00061385.1| COG1773: Rubredoxin [Clostridium ... [ score 90 E 2e-17 ] [ range 1 .. 52 ]
+sequence
+MEKYVCTACGYIYDPEKGDPDGGIAPGTAFEDIPDDWVCPICGVGKDMFEKE--*
+>P1;gi|4691236|emb|CAB41597.1| rubredoxin [Clostridium cellulolyticum] [ score 90 E 2e-17 ] [ range 1 .. 52 ]
+sequence
+MDIYVCTVCGYVYDPEEGDPDGGIAPGTAFEDIPEDWVCPLCGVGKDLFEKQ--*
+>P1;gi|38637405|dbj|BAD03663.1| putative rubredoxin [Oryza sativa (j... [ score 90 E 2e-17 ] [ range 121 .. 170 ]
+sequence
+--VYECRSCGYRYDQAAGDPSYPVPPGLPFEQLPDDWRCPTCGAAQSFFESK--*
+>P1;gi|134110|sp|P23474|RUBR_CLOST Rubredoxin (Rd) >gi|98633|pir||A3... [ score 88 E 4e-17 ] [ range 1 .. 52 ]
+sequence
+MTKYVCTVCGYVYDPEVGDPDNNINPGTSFQDIPEDWVCPLCGVGKDQFEEE--*
+>P1;gi|24114007|ref|NP_708517.1| putative flavodoxin [Shigella flexn... [ score 88 E 5e-17 ] [ range 425 .. 473 ]
+sequence
+--RMQCSVCQWIYDPAKGEPMQDVAPGTPWSEVPDNFLCPECSLGKDVFDE---*
+>P1;gi|1491678|emb|CAA67881.1| rubredoxin [Desulfovibrio baarsii] [ score 87 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+MKKYVCGVCVYEYDPAKGDPDNGVAPGTAFEDLPADWSCPVCGASKDQFEAQ--*
+>P1;gi|15221842|ref|NP_175852.1| rubredoxin family protein [Arabidop... [ score 86 E 2e-16 ] [ range 99 .. 148 ]
+sequence
+--IYECRSCGYKYDESAGDPSYPIPPGFQFDKLPEDWRCPTCGAAQSFFESK--*
+>P1;gi|134106|sp|P14071|RUBR_BUTME Rubredoxin (Rd) >gi|80482|pir||JU... [ score 85 E 3e-16 ] [ range 1 .. 52 ]
+sequence
+MQKYVCDICGYVYDPAVGDPDNGVAPGTAFADLPEDWVCPECGVSKDEFSPE--*
+>P1;gi|45529449|ref|ZP_00180594.1| hypothetical protein Mther139601 ... [ score 85 E 3e-16 ] [ range 1 .. 52 ]
+sequence
+MEKYSCTVCDYVYDPAEGDPDNGIAPGTPFADLPEDWVCPLCSAGKEAFEPE--*
+>P1;gi|44480963|gb|EAJ57255.1| unknown [environmental sequence] [ score 84 E 1e-15 ] [ range 438 .. 487 ]
+sequence
+-QTMLCTVCQWVYDPAQGEPDQLVAPGTPWAQVPDSFLCPGCGIGKEVFEP---*
+>P1;gi|134107|sp|P09947|RUBR_CHLLT Rubredoxin (Rd) >gi|79592|pir||A2... [ score 81 E 7e-15 ] [ range 1 .. 52 ]
+sequence
+MQKYVCSVCGYVYDPADGEPDDPIDPGTGFEDLPEDWVCPVCGVDKDLFEPE--*
+>P1;gi|37912011|gb|AAR05102.1| rubredoxin [Rhodococcus sp. P400] [ score 81 E 8e-15 ] [ range 17 .. 66 ]
+sequence
+-ELWVCEVCEDVYDPQLGDPDGGIPPGTAFQDIPDDWVCPVCGARKKEFRK---*
+>P1;gi|6635829|gb|AAF19995.1| HupJ [Rhodobacter sphaeroides] [ score 80 E 9e-15 ] [ range 20 .. 66 ]
+sequence
+--VMECKICWTPYDPAMGDDFRQILPGTPFTALPEDWSCPHCGAPKSQF-----*
+>P1;gi|37683582|gb|AAQ98841.1| rubredoxin [Rhodococcus sp. NCIMB1203... [ score 80 E 2e-14 ] [ range 17 .. 66 ]
+sequence
+-ELWVCEVCEDVYDPRLGDPEGGISPGTAFQDIPDDWVCPVCGARKKEFRK---*
+>P1;gi|37683585|gb|AAQ98844.1| rubredoxin [Rhodococcus sp. NCIMB12038] [ score 78 E 5e-14 ] [ range 17 .. 66 ]
+sequence
+-ELWICEVCEFVYDPKLGDPDGDISPGTAFQDIPDDWVCPVCGARKKEFRK---*
+>P1;gi|23000888|ref|ZP_00044806.1| COG1773: Rubredoxin [Magnetococcu... [ score 70 E 1e-11 ] [ range 1 .. 52 ]
+sequence
+MGVWCCMSCEYEYDEEVGSTATGIVAGTDFDTLPKDWRCPVCGLSKEHFQSE--*
+>P1;gi|1769572|gb|AAB39992.1| rubredoxin-like protein [Desulfovibrio... [ score 68 E 6e-11 ] [ range 6 .. 57 ]
+sequence
+-DMWRCQTCGYVYDPDRGDKRGKVPPGTRFEDLPDEWRCPICKATKKCFRP---*
+>P1;gi|22450192|dbj|BAC10582.1| rubredoxin-like protein [Desulfovibr... [ score 66 E 2e-10 ] [ range 6 .. 57 ]
+sequence
+-DMWRCQTCGYVYDPDRGDRKGKVPPGVRFEDLPDTWRCPVCGGTKRCFRP---*
+>P1;gi|45357866|ref|NP_987423.1| rubredoxin [Methanococcus maripalud... [ score 62 E 3e-09 ] [ range 1 .. 44 ]
+sequence
+MSVWKCTICGYVYDEEK--------EGKKFSELPDDWACPICGAKKSAFVEQ--*
+>P1;gi|26992047|ref|NP_747472.1| rubredoxin/rubredoxin reductase [Ps... [ score 114 E 5e-25 ] [ range 1 .. 53 ]
+sequence
+MKTWLCIICGLIYDEAKGWPDDGIAPGTRWEDVPEDWLCPECKVGKADFEMIE-*
+>P1;gi|40062854|gb|AAR37725.1| rubredoxin/rubredoxin reductase [uncu... [ score 110 E 1e-23 ] [ range 1 .. 52 ]
+sequence
+MARWECIVCGLIYDEKEGWPDDGIPAGTKWSDVPDDWLCPDCGVGKDDFELI--*
+>P1;gi|29336560|sp|Q9FDN6|HRB_MOOTH High molecular weight rubredoxin... [ score 109 E 2e-23 ] [ range 180 .. 229 ]
+sequence
+--KYQCTICNYVYDPVQGDPEHGIAPGTPFADLPEDWTCPICGAGKDAFEQI--*
+>P1;gi|43827456|gb|EAF68025.1| unknown [environmental sequence] [ score 107 E 6e-23 ] [ range 1 .. 52 ]
+sequence
+MARWECIVCGLIYDEKEGWPEDGIAPGTKWEDVPDDWTCPDCGVGKEDFELI--*
+>P1;gi|11249919|pir||A59199 hybrid cluster [4Fe-2S-3O] protein MTH14... [ score 101 E 3e-21 ] [ range 2 .. 51 ]
+sequence
+--KYRCKVCDYIYDPEVGDPRSGIEPGTPFEELPDDWLCPVCNVGKDQFEPL--*
+>P1;gi|45510108|ref|ZP_00162440.1| hypothetical protein Avar024001 [... [ score 101 E 4e-21 ] [ range 181 .. 233 ]
+sequence
+-RKWICRQCSMIYDPVAGDPDSGIAPGTPFEDIPDDWQCPICGATKKTFKLLEE*
+>P1;gi|44557614|gb|EAK08884.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 180 .. 231 ]
+sequence
+--KWICRVCSMIYDPAEGDPDSGIVAGTPFEAIPDDWQCPICGARKASFVPYRE*
+>P1;gi|23126829|ref|ZP_00108713.1| COG1592: Rubrerythrin [Nostoc pun... [ score 99 E 2e-20 ] [ range 181 .. 233 ]
+sequence
+-RKWICRQCSMIYDPVAGDPDSGIAPGTPFEEIPDDWECPICGASKKTFKPFEE*
+>P1;gi|33864430|ref|NP_895990.1| Rubredoxin:Rubrerythrin:Rubredoxin-... [ score 96 E 2e-19 ] [ range 208 .. 259 ]
+sequence
+--KWICKVCSMIYDPAIGDPESGISAGTAFEAIPEDWVCPICGTRKANFVPYRE*
+>P1;gi|23105762|ref|ZP_00092216.1| COG1773: Rubredoxin [Azotobacter ... [ score 96 E 2e-19 ] [ range 27 .. 79 ]
+sequence
+MRKWQCIVCGFVYDEACGLPEEGIAPGTPWEEVPSDWLCPVCGASKQDFEMIE-*
+>P1;gi|44227431|gb|EAH81561.1| unknown [environmental sequence] [ score 96 E 3e-19 ] [ range 77 .. 128 ]
+sequence
+--KWICKVCSMIYDPAEGDPDSGIAAGTPFEAIPDDWHCPICGARKASFVPYRE*
+>P1;gi|44386396|gb|EAI90757.1| unknown [environmental sequence] [ score 95 E 3e-19 ] [ range 85 .. 136 ]
+sequence
+-KQWVCVICGWIYDEAAGLPEEGIAPGTRWADVPADWRCPLCDVGKEDFALVE-*
+>P1;gi|11498945|ref|NP_070178.1| rubredoxin (rd-2) [Archaeoglobus fu... [ score 95 E 3e-19 ] [ range 20 .. 73 ]
+sequence
+MAKYECQVCGYVYDEAEGDPDNDIPAGTKWEDLPDDWVCPVCGASKDQFEKIED*
+>P1;gi|22980335|ref|ZP_00026042.1| COG1773: Rubredoxin [Ralstonia me... [ score 95 E 6e-19 ] [ range 127 .. 178 ]
+sequence
+-KQWVCIICGWVYDEAAGLPEDGIAPGTRWEDIPADWRCPECDVGKEDFAMVE-*
+>P1;gi|45513132|ref|ZP_00164698.1| hypothetical protein Selo086701 [... [ score 94 E 7e-19 ] [ range 181 .. 233 ]
+sequence
+-QKWICLQCSVIYDPAEGDLDSGIAPGTPFAAIPEDWSCPICGVTKKSFVPYQE*
+>P1;gi|22299239|ref|NP_682486.1| rubredoxin [Thermosynechococcus elo... [ score 94 E 8e-19 ] [ range 11 .. 62 ]
+sequence
+LDRFECRACGYIYEPAKGDENRSIPPGTAFADLPLNWRCPVCSAPKKQFSNI--*
+>P1;gi|44563497|gb|EAK13178.1| unknown [environmental sequence] [ score 94 E 9e-19 ] [ range 1 .. 53 ]
+sequence
+MKKWQCIVCGYIYDEAEGWPDDGIAPGTRWEDVPADWMCPDCGVGKEDFEMIE-*
+>P1;gi|26991991|ref|NP_747416.1| rubredoxin [Pseudomonas putida KT24... [ score 93 E 1e-18 ] [ range 1 .. 52 ]
+sequence
+MKKWQCIVCGLIYDEAEGWPDDGIAPGTRWEDVPEDWLCPDCGVGKSDFEMI--*
+>P1;gi|44138327|gb|EAH33505.1| unknown [environmental sequence] [ score 93 E 2e-18 ] [ range 1 .. 53 ]
+sequence
+MRKWQCIVCGFIYDEALGLPEEGIAPGTPWEDVPADWVCPDCGVGKVDFEMIE-*
+>P1;gi|1173328|sp|P42453|RUBR_ACICA Rubredoxin (Rd) >gi|2117421|pir|... [ score 92 E 3e-18 ] [ range 1 .. 53 ]
+sequence
+MKKYQCIVCGWIYDEAEGWPQDGIAPGTKWEDIPDDWTCPDCGVSKVDFEMIE-*
+>P1;gi|43991473|gb|EAG53381.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 1 .. 52 ]
+sequence
+MKKWQCVVCGYIYDEALGVPEEGIAPGTAWEDVPEDWVCPDCGVGKMDFEMI--*
+>P1;gi|22988432|ref|ZP_00033497.1| COG1773: Rubredoxin [Burkholderia... [ score 92 E 3e-18 ] [ range 86 .. 137 ]
+sequence
+-KQWVCVICGWVYDEAAGLPEEGIAPGTRWADIPPDWRCPLCDVGKEDFALVE-*
+>P1;gi|15896033|ref|NP_349382.1| Rubredoxin [Clostridium acetobutyli... [ score 92 E 3e-18 ] [ range 1 .. 54 ]
+sequence
+MKKYVCVVCGYIYDPAEGDPDNGVNPGTSFEDIPDDWVCPLCGVGKDQFEPSEE*
+>P1;gi|15643424|ref|NP_228468.1| rubredoxin [Thermotoga maritima] >g... [ score 92 E 3e-18 ] [ range 1 .. 53 ]
+sequence
+MKKYRCKLCGYIYDPEQGDPDSGIEPGTPFEDLPDDWVCPLCGASKEDFEPVE-*
+>P1;gi|13358861|dbj|BAB33291.1| rubredoxin [Acinetobacter sp. M-1] [ score 92 E 4e-18 ] [ range 1 .. 53 ]
+sequence
+MKKYQCIVCGWIYDEAEGWPQDGIAAGTKWEDIPDDWTCPDCGVSKADFEMVE-*
+>P1;gi|134111|sp|P19500|RUBR_CLOTS Rubredoxin (Rd) >gi|98646|pir||A3... [ score 92 E 4e-18 ] [ range 1 .. 52 ]
+sequence
+MEKWQCTVCGYIYDPEVGDPTQNIPPGTKFEDLPDDWVCPDCGVGKDQFEKI--*
+>P1;gi|15600543|ref|NP_254037.1| rubredoxin [Pseudomonas aeruginosa ... [ score 92 E 4e-18 ] [ range 1 .. 53 ]
+sequence
+MRKWQCVVCGFIYDEALGLPEEGIPAGTRWEDIPADWVCPDCGVGKIDFEMIE-*
+>P1;gi|3024588|sp|P56263|RUBR_HELMO Rubredoxin (Rd) >gi|2148042|pir|... [ score 91 E 5e-18 ] [ range 1 .. 52 ]
+sequence
+MKKYGCLVCGYVYDPAKGDPDHGIAPGTAFEDLPADWVCPLCGVSKDEFEPL--*
+>P1;gi|14521100|ref|NP_126575.1| rubredoxin [Pyrococcus abyssi] >gi|... [ score 91 E 6e-18 ] [ range 1 .. 53 ]
+sequence
+MAKWRCKICGYIYDEDEGDPDNGISPGTKFEDLPDDWVCPLCGAPKSEFERIE-*
+>P1;gi|5531407|emb|CAB51049.1| rubredoxin 2 [Pseudomonas putida] [ score 90 E 9e-18 ] [ range 121 .. 172 ] [ duplicate a ]
+sequence
+--KWICITCGHIYDEALGDEVEGFAPGTRFEDIPNDWCCPDCGATKEDYVLYQE*
+>P1;gi|5531407|emb|CAB51049.1| rubredoxin 2 [Pseudomonas putida] [ score 90 E 9e-18 ] [ range 1 .. 54 ] [ duplicate b ]
+sequence
+MARYQCPDCQYVYDESKGEEHEGFAPNTPWIVIPEDWCCPDCAVDKLDFVLIE-*
+>P1;gi|45512722|ref|ZP_00164288.1| hypothetical protein Selo043001 [... [ score 90 E 1e-17 ] [ range 38 .. 89 ]
+sequence
+LDRHECRSCGYIYEPNEGDPRRQIAAGTVFEEVPSNWRCPICGSPRSQFRNI--*
+>P1;gi|11498486|ref|NP_069714.1| rubredoxin (rd-1) [Archaeoglobus fu... [ score 90 E 1e-17 ] [ range 1 .. 53 ]
+sequence
+MAKYQCTICGYVYDEAEGDPESDVSPGTKWEDLPDDWVCPVCGATKDQFEKIE-*
+>P1;gi|16130617|ref|NP_417190.1| putative flavodoxin [Escherichia co... [ score 90 E 1e-17 ] [ range 425 .. 474 ]
+sequence
+--RMQCSVCQWIYDPAKGEPMQDVAPGTPWSEVPDNFLCPECSLGKDVFEEL--*
+>P1;gi|20808541|ref|NP_623712.1| Rubredoxin [Thermoanaerobacter teng... [ score 90 E 1e-17 ] [ range 1 .. 52 ]
+sequence
+MEKWQCTVCGYIYDPEKGDPSQGIPPGTPFEELPDDWVCPDCGAGKDLFEKM--*
+>P1;gi|15600544|ref|NP_254038.1| rubredoxin [Pseudomonas aeruginosa ... [ score 90 E 1e-17 ] [ range 1 .. 53 ]
+sequence
+MKKWQCVVCGLIYDEAKGWPEEGIEAGTRWEDVPEDWLCPDCGVGKLDFEMIE-*
+>P1;gi|29347949|ref|NP_811452.1| rubredoxin [Bacteroides thetaiotaom... [ score 89 E 2e-17 ] [ range 1 .. 53 ]
+sequence
+MKKYICTVCEYIYDPAQGDPESGIEPGTAFEDIPDDWTCPLCGVGKEDFEPYE-*
+>P1;gi|41689640|ref|ZP_00146173.1| hypothetical protein Psyc114501 [... [ score 89 E 2e-17 ] [ range 1 .. 53 ]
+sequence
+MKRYECIVCGWIYDEALGCPEEGIAPGTKWDDIPDDWTCPECGVGKLDFEMLE-*
+>P1;gi|16766146|ref|NP_461761.1| putative flavoprotein [Salmonella t... [ score 89 E 3e-17 ] [ range 425 .. 474 ]
+sequence
+--KMQCSVCQWIYDPALGEPLQDVAPGTPWNDVPDNFLCPECSLGKDVFDVL--*
+>P1;gi|134097|sp|P00272|RUB2_PSEOL Rubredoxin 2 (Two-iron rubredoxin... [ score 89 E 3e-17 ] [ range 121 .. 172 ] [ duplicate a ]
+sequence
+--KWICITCGHIYDEALGDEAEGFTPGTRFEDIPDDWCCPDCGATKEDYVLYEE*
+>P1;gi|134097|sp|P00272|RUB2_PSEOL Rubredoxin 2 (Two-iron rubredoxin... [ score 89 E 3e-17 ] [ range 1 .. 54 ] [ duplicate b ]
+sequence
+MASYKCPDCNYVYDESAGNVHEGFSPGTPWHLIPEDWCCPDCAVDKLDFMLIE-*
+>P1;gi|42526562|ref|NP_971660.1| rubredoxin [Treponema denticola ATC... [ score 89 E 3e-17 ] [ range 1 .. 52 ]
+sequence
+MDKYVCDLCGYVYDPALGDPDGGIAPGTAFEDIPDDWVCPLCGVGKESFTKV--*
+>P1;gi|13399664|pdb|1C09|A Chain A, Rubredoxin V44a Cp >gi|13399665|... [ score 89 E 3e-17 ] [ range 1 .. 54 ]
+sequence
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGAGKDQFEEVEE*
+>P1;gi|23059049|ref|ZP_00084051.1| COG1773: Rubredoxin [Pseudomonas ... [ score 88 E 4e-17 ] [ range 1 .. 53 ]
+sequence
+MKKWQCVVCGLIYNEADGWPDDGIAPGTLWQDVPEDWLCPDCGVGKMDFEMIE-*
+>P1;gi|43092092|gb|EAC12223.1| unknown [environmental sequence] [ score 88 E 4e-17 ] [ range 1 .. 53 ]
+sequence
+MKKYLCLICGLIYDESEGWPDDGIAPGTKWQDVPENWVCPDCGASKVDFDMIE-*
+>P1;gi|45507414|ref|ZP_00159758.1| hypothetical protein Avar338401 [... [ score 88 E 4e-17 ] [ range 11 .. 62 ]
+sequence
+LDRFECRSCGYVYEPEKGDSKHDIAPETPFAELPINWRCPVCTAKKAAFSNI--*
+>P1;gi|44391479|gb|EAI94388.1| unknown [environmental sequence] [ score 88 E 4e-17 ] [ range 1 .. 53 ]
+sequence
+MKKWECIVCGLIYDEEEGWPDDGIEPGTRWEDVPEDWVCPDCGVGKEDFEMVE-*
+>P1;gi|16760334|ref|NP_455951.1| hydrogenase-1 operon protein HyaF2 ... [ score 88 E 4e-17 ] [ range 295 .. 346 ]
+sequence
+--RMECKVCWWVYDPALGDDVWQIPPGVPFNQLPDYWCCPVCETSKSGFMVIDE*
+>P1;gi|44354830|gb|EAI68123.1| unknown [environmental sequence] [ score 88 E 4e-17 ] [ range 3 .. 55 ]
+sequence
+LKKWECIVCGLIYDEAEGWPDDGIEPGTRWEDVPDDWLCPDCGVGKEDFEMVE-*
+>P1;gi|45530109|ref|ZP_00181244.1| hypothetical protein Mther066201 ... [ score 88 E 5e-17 ] [ range 1 .. 52 ]
+sequence
+MGKWSCTACGYVYDPAKGDPEGGIAPGTAFEDLPDDWVCPNCGLGKENFEPL--*
+>P1;gi|43174067|gb|EAC52617.1| unknown [environmental sequence] [ score 88 E 5e-17 ] [ range 1 .. 53 ]
+sequence
+MKRYLCLICGLIYDEAHGWPDDGIEPGTKWENVPENWACPDCGAGKEDFDMIE-*
+>P1;gi|15678183|ref|NP_275298.1| rubredoxin [Methanothermobacter the... [ score 88 E 5e-17 ] [ range 11 .. 63 ]
+sequence
+MKRYKCRVCGYIYDPEKGEPRTDTPPGTPFEDLPETWRCPSCGAKKKMFKPLD-*
+>P1;gi|28872579|ref|NP_795198.1| rubredoxin [Pseudomonas syringae pv... [ score 88 E 5e-17 ] [ range 1 .. 53 ]
+sequence
+MKKWQCIVCGLIYNEADGWPDDGIAAGTLWQDVPEDWLCPDCGVGKMDFEMIE-*
+>P1;gi|23123823|ref|ZP_00105862.1| COG1773: Rubredoxin [Nostoc punct... [ score 88 E 6e-17 ] [ range 1 .. 53 ]
+sequence
+MAKYICTVCGYEYDPEFGDPDSDIAPGTAFEDIPDDWVCPTCGATKDQFELVE-*
+>P1;gi|23469253|ref|ZP_00124587.1| COG1773: Rubredoxin [Pseudomonas ... [ score 88 E 6e-17 ] [ range 1 .. 53 ]
+sequence
+MKKWQCIVCGLVYNEADGWPDDGIAPGTLWQDVPEDWMCPDCGVGKMDFEMIE-*
+>P1;gi|45515128|ref|ZP_00166684.1| hypothetical protein Raeut564701 ... [ score 88 E 7e-17 ] [ range 13 .. 64 ]
+sequence
+-KTWVCVICGWVYDEEQGWPDDGIAPGTRWEDIPDDWRCPECDVGKAEFAMIE-*
+>P1;gi|43711985|gb|EAF11087.1| unknown [environmental sequence] [ score 88 E 7e-17 ] [ range 57 .. 109 ]
+sequence
+-RKWVCITGGHIYDEALGDEAEGFPAGTRFEDIPDDWCCPDCGATKEDYVLYED*
+>P1;gi|43615659|gb|EAE62536.1| unknown [environmental sequence] [ score 87 E 7e-17 ] [ range 4 .. 55 ]
+sequence
+-KKWECIVCGLIYDEELGWPDDGIQPGTAWEDVPEDWLCPECGVGKEDFDMIE-*
+>P1;gi|15678184|ref|NP_275299.1| rubredoxin [Methanothermobacter the... [ score 87 E 8e-17 ] [ range 1 .. 53 ]
+sequence
+MDKYVCQMCGYIYDPEEGDPVSGIEAGTPFEDLPDDWVCPVCGVGKDQFKKMD-*
+>P1;gi|42923342|gb|EAB28715.1| unknown [environmental sequence] [ score 87 E 8e-17 ] [ range 1 .. 53 ]
+sequence
+MQKYECQLCGYIYDPELGDEDSGIEPGTAFENLPEDWVCPLCGAEKSDFEPVE-*
+>P1;gi|43411090|gb|EAD66085.1| unknown [environmental sequence] [ score 87 E 8e-17 ] [ range 4 .. 55 ]
+sequence
+-KKWECIVCGLIYDEELGWPDDGIAPGTAWDDVPDDWLCPDCGVGKEDFEMVE-*
+>P1;gi|44195169|gb|EAH63561.1| unknown [environmental sequence] [ score 87 E 1e-16 ] [ range 5 .. 55 ]
+sequence
+-KKWECIVCGWIYDEAEGLPEEGIPPGTKWEDVPHDWVCPDCGVGKEDFDMM--*
+>P1;gi|17231335|ref|NP_487883.1| rubredoxin [Nostoc sp. PCC 7120] >g... [ score 87 E 1e-16 ] [ range 11 .. 62 ]
+sequence
+LDRFECRSCGYVYEPEKGDNKHDIAPETPFAELPINWRCPVCTAKKAAFTNI--*
+>P1;gi|44458390|gb|EAJ41268.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 1 .. 53 ]
+sequence
+MKKWQCIVCGWIYDEAEGYEEEDIEPGTRWEDVPDDFVCPECGVGKDDFEMIE-*
+>P1;gi|80528|pir||JU0074 rubredoxin - Clostridium perfringens [ score 86 E 2e-16 ] [ range 1 .. 54 ]
+sequence
+MKKFICDVCGYIYDPAVGDPDNGVEPGTEFKDIPDDWVCPLCGVDKSQFSETEE*
+>P1;gi|17545386|ref|NP_518788.1| PROBABLE RUBREDOXIN PROTEIN [Ralsto... [ score 86 E 2e-16 ] [ range 8 .. 59 ]
+sequence
+-KTWMCLICGWIYDEEQGAPDDGIAPGTKWEDVPINWTCPECGARKEDFEMVQ-*
+>P1;gi|30249397|ref|NP_841467.1| Rubredoxin:Rubredoxin-type Fe(Cys)4... [ score 86 E 2e-16 ] [ range 11 .. 61 ]
+sequence
+--RYMCMICGFIYDEAEGWPQDGIPAGTRWEDVPMNWTCPECGARKEDFEMVK-*
+>P1;gi|33591549|ref|NP_879193.1| rubredoxin [Bordetella pertussis To... [ score 86 E 2e-16 ] [ range 1 .. 53 ]
+sequence
+MRTWMCLICGWVYDEEAGLPDEGIAPGTRWEDVPPNWVCPECGARKEDFELME-*
+>P1;gi|44363712|gb|EAI74583.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 4 .. 56 ]
+sequence
+-RKYECVICGYIYDEELGDPEDGLAPGTRWEDIPDEWVCPDCGVSKFDFELIEE*
+>P1;gi|23200152|pdb|1IU5|A Chain A, X-Ray Crystal Structure Of The R... [ score 86 E 2e-16 ] [ range 1 .. 53 ]
+sequence
+-AKYVCKICGYIYDEDAGDPDNGVSPGTKFEEIPDDWVCPICGAPKSEFEKLED*
+>P1;gi|44308867|gb|EAI35848.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 4 .. 55 ]
+sequence
+-KKWECVVCGWTYDEEQGHPDDGIAPGTKWEDIPDDWVCPECGVGKEDFDMIE-*
+>P1;gi|44474461|gb|EAJ52604.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 4 .. 55 ]
+sequence
+-KKWECIVCGWIYDEEKGNPEEGIEPGTRWEDVPDDWVCPECGVGKEDFDMME-*
+>P1;gi|44504780|gb|EAJ72700.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 5 .. 55 ]
+sequence
+-KKWECIVCGLIYDEAEGWPDDGIPPGTKWEDVPVDWVCPDCGVGKEDFDMV--*
+>P1;gi|23128800|ref|ZP_00110639.1| COG1773: Rubredoxin [Nostoc punct... [ score 86 E 2e-16 ] [ range 36 .. 87 ]
+sequence
+LDRYECRACGYVYEPEKGDDKHDIPSGILFAELPTNWRCPVCSAKKTAFANI--*
+>P1;gi|43150169|gb|EAC40790.1| unknown [environmental sequence] [ score 86 E 3e-16 ] [ range 1 .. 53 ]
+sequence
+MKKWQCIVCGWIYDEAEGYEDEGIAPGTAWEDVDEDFICPECGVGKADFEMIE-*
+>P1;gi|13812288|ref|NP_113406.1| rubredoxin [Guillardia theta] >gi|2... [ score 85 E 3e-16 ] [ range 63 .. 114 ]
+sequence
+--KYECEACGYIYEPEKGDKFAGIPPGTPFVDLSDSFMCPACRSPKNQFKSIKK*
+>P1;gi|44268166|gb|EAI08583.1| unknown [environmental sequence] [ score 85 E 3e-16 ] [ range 4 .. 55 ]
+sequence
+-QSWMCLICGWIYDEEAGLPDEGIAPGTRWEDVPINWTCPECGARKEDFEMVQ-*
+>P1;gi|22978652|ref|ZP_00024398.1| COG1773: Rubredoxin [Ralstonia me... [ score 85 E 3e-16 ] [ range 9 .. 60 ]
+sequence
+-KTWVCLICGWVYDEELGLPEEGIAAGTRWEDIPDDWRCPECDVGKGDFSMIE-*
+>P1;gi|37675841|ref|NP_936237.1| putative flavodoxin [Vibrio vulnifi... [ score 85 E 3e-16 ] [ range 445 .. 493 ]
+sequence
+----VCTVCNWVYDPAKGEPNQGIEVGTTWADVPDYFLCPECHLGKDVFVEYQ-*
+>P1;gi|29655166|ref|NP_820858.1| rubredoxin [Coxiella burnetii RSA 4... [ score 85 E 4e-16 ] [ range 4 .. 55 ]
+sequence
+-KKYMCLLCGFIYEEEKGWPEDGIAPGTRWEEVPEDWLCPECGAMKSDFEMVE-*
+>P1;gi|16126734|ref|NP_421298.1| rubredoxin [Caulobacter crescentus ... [ score 85 E 4e-16 ] [ range 7 .. 58 ]
+sequence
+-KVWQCRTCGYIYDEEQGDPGEGLAPGTRWADIPAGWVCPLCGTPKSDFDMIE-*
+>P1;gi|43182360|gb|EAC56751.1| unknown [environmental sequence] [ score 85 E 5e-16 ] [ range 4 .. 55 ]
+sequence
+-KKWECIVCGLIYDEAEGWPEDGIEPGTKWEDVPEDWICPDCGVGKEDFDMVE-*
+>P1;gi|44455596|gb|EAJ39239.1| unknown [environmental sequence] >gi|... [ score 85 E 5e-16 ] [ range 1 .. 53 ]
+sequence
+MKRYLCLICGLIYDESEGWPDDGIDPGTKWEDVPDTWVCPDCGATKDDFDMIE-*
+>P1;gi|43520763|gb|EAE15061.1| unknown [environmental sequence] >gi|... [ score 85 E 5e-16 ] [ range 4 .. 55 ]
+sequence
+-KKWECVVCGWTYDEEKGHPEDGIEPGTRWEDIPDDWVCPECGVGKEDFDMIE-*
+>P1;gi|21674834|ref|NP_662899.1| rubredoxin [Chlorobium tepidum TLS]... [ score 85 E 5e-16 ] [ range 1 .. 52 ]
+sequence
+MQKWVCVPCGYEYDPADGDPENGIEPGTAFEDLPEDWVCPVCGVDKSFFEPV--*
+>P1;gi|23015935|ref|ZP_00055698.1| COG1773: Rubredoxin [Magnetospiri... [ score 85 E 5e-16 ] [ range 1 .. 53 ]
+sequence
+MKKYVCVVCGFVYDPAVGMPEDGIPAGTPFESIPDDWECPDCGVSKSDFEVQE-*
+>P1;gi|43868150|gb|EAF88081.1| unknown [environmental sequence] [ score 85 E 5e-16 ] [ range 4 .. 55 ]
+sequence
+-KRWECIVCGWIYDEEKGHQDDGIEPHTRWEDIPDDWVCPECGVGKEDFDMVE-*
+>P1;gi|15610386|ref|NP_217767.1| rubB [Mycobacterium tuberculosis H3... [ score 85 E 6e-16 ] [ range 5 .. 56 ]
+sequence
+-KLFRCIQCGFEYDEALGWPEDGIAAGTRWDDIPDDWSCPDCGAAKSDFEMVE-*
+>P1;gi|34495607|ref|NP_899822.1| rubredoxin [Chromobacterium violace... [ score 85 E 6e-16 ] [ range 1 .. 53 ]
+sequence
+MRTWMCLICGFIYDEEAGRPEDGIPPGTRWEDLPPNWTCPDCDARKDDFQMVE-*
+>P1;gi|13992204|emb|CAC38028.1| rubredoxin [Alcanivorax borkumensis] [ score 84 E 9e-16 ] [ range 122 .. 174 ] [ duplicate a ]
+sequence
+-RKWICITCGHIYDEALGDETEGFAPGTLFEDIPDDWCCPDCGATKEDYVLHED*
+>P1;gi|13992204|emb|CAC38028.1| rubredoxin [Alcanivorax borkumensis] [ score 84 E 9e-16 ] [ range 1 .. 54 ] [ duplicate b ]
+sequence
+MAKYQCPDCEYIYDEVAGHPHEGFPPGTSWETIPEEWACPDCAVDKADFVVIE-*
+>P1;gi|43997142|gb|EAG56396.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 1 .. 53 ]
+sequence
+MAQYLCVICGFIYDEEQGHEEDGIAPGTKWEDVPEDWFCPDCGATKSDFQLIE-*
+>P1;gi|44450921|gb|EAJ35835.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 8 .. 59 ]
+sequence
+-QSWVCLICGWVYNEAEGLPDEGIAPGTRFADIPADWRCPLCDVGKEDFVVVD-*
+>P1;gi|44272940|gb|EAI11840.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 4 .. 55 ]
+sequence
+-KKWECIVCGLIYDEAEGWPEDDIEPGTKWEDVPEDWICPECGVGKEDFDMVE-*
+>P1;gi|18309759|ref|NP_561693.1| rubredoxin [Clostridium perfringens... [ score 82 E 3e-15 ] [ range 1 .. 53 ]
+sequence
+MEKFVCDVCGYIYDPVVGDPDNGVAPGTKFKDIPDTWVCPLCKLDKTHFSKVE-*
+>P1;gi|43976465|gb|EAG45239.1| unknown [environmental sequence] [ score 82 E 4e-15 ] [ range 1 .. 49 ]
+sequence
+----MCLICGWIYDEAAGSPEHGIAPGTPWDQVPMNWTCPECGARKEDFEMVQ-*
+>P1;gi|41719181|ref|ZP_00148095.1| hypothetical protein Mbur142201 [... [ score 82 E 5e-15 ] [ range 1 .. 55 ]
+sequence
+MTEYRCNVCNFEYDDTRGDSNTEMKPGTKPEDFPDDWRCPICGADKNHQMPAEK*
+>P1;gi|15420771|gb|AAK97450.1| rubredoxin 2 [Rhodococcus sp. Q15] [ score 81 E 6e-15 ] [ range 9 .. 60 ]
+sequence
+-KLFRCLQCGFEYDEAIGWPDDGIEPGTRWDEIPEDWSCPDCGAAKVDFEMVE-*
+>P1;gi|21673927|ref|NP_661992.1| rubredoxin [Chlorobium tepidum TLS]... [ score 81 E 6e-15 ] [ range 1 .. 52 ]
+sequence
+MEQWKCNICGYIYNPETGDPEGDIPAGTSFESLPDSWMCPVCGAGKEEFTKI--*
+>P1;gi|45358059|ref|NP_987616.1| Glutamate synthase subunit-related ... [ score 81 E 6e-15 ] [ range 1 .. 55 ]
+sequence
+MAKYRCNVCNFEYDESRGDSVTNIKPGTKIKDFPNNWKCPICGSDSTHLIQIAE*
+>P1;gi|22987029|ref|ZP_00032115.1| COG1773: Rubredoxin [Burkholderia... [ score 81 E 6e-15 ] [ range 11 .. 62 ]
+sequence
+-KSWVCLICGWIYNEEEGLPEEGIAPGTRFAAIPEDWRCPLCDVGKAEFAVVE-*
+>P1;gi|43383302|gb|EAD56540.1| unknown [environmental sequence] [ score 81 E 7e-15 ] [ range 4 .. 55 ]
+sequence
+-KQYMCLICGLIYNEEEGWPDDEIAPGTKWEDVPEDWICPDCSAGKDDFEMVE-*
+>P1;gi|45505707|ref|ZP_00158078.1| hypothetical protein Avar523101 [... [ score 81 E 8e-15 ] [ range 1 .. 53 ]
+sequence
+MVTHVCTVCGYEYDPEVGDPDSGIAAATPFEEIPEDWVCPVCGATKDLFEPAD-*
+>P1;gi|25453275|sp|Q9AE66|RUB4_RHOER Rubredoxin 4 >gi|13750760|emb|C... [ score 81 E 8e-15 ] [ range 5 .. 56 ]
+sequence
+-KLYQCAQCGFEYDEAVGWPEDGIEPGTRWDDIPEDWSCPDCGAAKSDFFMVE-*
+>P1;gi|38524450|dbj|BAD02373.1| rubredoxin [Rhodococcus opacus] [ score 81 E 8e-15 ] [ range 19 .. 67 ]
+sequence
+---WICEVCEDVYDPQLGDPDGGIPPGTAFQDIPDDWVCPVCGARKKEFRKL--*
+>P1;gi|15668921|ref|NP_247725.1| rubredoxin 2 (rd2) [Methanococcus j... [ score 80 E 1e-14 ] [ range 4 .. 55 ]
+sequence
+MARYQCM-CGWVYDEDKGEPSQNIPPGTKFEDLPDTFRCPQCGLGKNAFRKID-*
+>P1;gi|17232049|ref|NP_488597.1| rubredoxin [Nostoc sp. PCC 7120] >g... [ score 80 E 1e-14 ] [ range 1 .. 53 ]
+sequence
+MVTHVCTVCGYEYDPEVGDPDGGIAAATSFEEIPEDWVCPVCGATKDLFEPAD-*
+>P1;gi|134096|sp|P12692|RUB1_PSEOL Rubredoxin 1 >gi|418614|pir||RUPS... [ score 80 E 1e-14 ] [ range 1 .. 55 ]
+sequence
+MSRYQCPDCQYIYDENKGEPHEGFHPNTSWNDIPKDWACPDCAVDKVDFIFLAD*
+>P1;gi|7245746|pdb|1QCV|A Chain A, Rubredoxin Variant (Pfrd-Xc4) Fol... [ score 80 E 1e-14 ] [ range 2 .. 53 ]
+sequence
+--KWVLKITGYIYDEDAGDPDNGISPGTKFEELPDDWVAPITGAPKSEFEKLED*
+>P1;gi|45516905|ref|ZP_00168457.1| hypothetical protein Raeut355301 ... [ score 80 E 1e-14 ] [ range 1 .. 48 ]
+sequence
+----MCLICGWIYDEATGAPEDGIAPGTKWEDVPINWTCPECGARKEDFEMV--*
+>P1;gi|44572586|gb|EAK19582.1| unknown [environmental sequence] [ score 80 E 1e-14 ] [ range 4 .. 53 ]
+sequence
+-KKWEYIVCGLIYDEELGWPDDGIEPGTAWEDVPEDWVCPECGVGKEDFDM---*
+>P1;gi|23485094|gb|EAA20205.1| Rubredoxin [Plasmodium yoelii yoelii] [ score 79 E 3e-14 ] [ range 6 .. 56 ]
+sequence
+--KYQCSACGYIYDETEGDPDAGLPPGTLFEDIPEGWGCPECGVDKSFFEPLD-*
+>P1;gi|13591776|gb|AAK31348.1| alkane hydroxylase-rubredoxin [Nocard... [ score 79 E 3e-14 ] [ range 426 .. 475 ]
+sequence
+----RCPGCGYVYEVASGDEREGFAAGTAWADIPDSWFCPDCGVDKVDFVPFD-*
+>P1;gi|134116|sp|P00271|RUBR_MEGEL Rubredoxin (Rd) >gi|65802|pir||RU... [ score 79 E 3e-14 ] [ range 1 .. 52 ]
+sequence
+MDKYECSICGYIYDEAEGD-DGNVAAGTKFADLPADWVCPTCGADKDAFVKMD-*
+>P1;gi|5531406|emb|CAB51048.1| rubredoxin 1 [Pseudomonas putida] [ score 78 E 4e-14 ] [ range 1 .. 55 ]
+sequence
+MAKYQCPDCQYIYDECKGEPHEGFQPNTNWGEIPEEWACPDCAVDKIDFKMLAD*
+>P1;gi|37520423|ref|NP_923800.1| rubredoxin [Gloeobacter violaceus] ... [ score 78 E 5e-14 ] [ range 11 .. 60 ]
+sequence
+LDRYECRTCGYIYEPTKGDAT--VPAGTPFEELAADWRCPICSSATSRFKSI--*
+>P1;gi|41718511|ref|ZP_00147507.1| hypothetical protein Mbur210601 [... [ score 78 E 5e-14 ] [ range 1 .. 46 ]
+sequence
+MGKHRCSVCNWVYDEE--------AEGQDFDSLPDDFTCPVCGAPKSAFVAEEE*
+>P1;gi|23473934|ref|ZP_00129229.1| COG1773: Rubredoxin [Desulfovibri... [ score 78 E 5e-14 ] [ range 2 .. 52 ]
+sequence
+MDKYECP-CGYVYDPEVGDIENGVQPGTAFADLPEDWVCPLCGAEKEFFEKV--*
+>P1;gi|15836981|ref|NP_297669.1| rubredoxin [Xylella fastidiosa 9a5c... [ score 78 E 6e-14 ] [ range 4 .. 54 ]
+sequence
+-RTWRCTVCGFLYREEEGFPEEGIAAGTRWEDVSEEWVCPDCGIGKADFEMV--*
+>P1;gi|43902403|gb|EAG05529.1| unknown [environmental sequence] [ score 78 E 6e-14 ] [ range 71 .. 118 ]
+sequence
+----QCSVCQWIYDPAKGEPLQDVAPGTPWSEVPDNFLCPECSLGKDVFDVL--*
+>P1;gi|33239831|ref|NP_874773.1| Rubredoxin [Prochlorococcus marinus... [ score 77 E 1e-13 ] [ range 8 .. 58 ]
+sequence
+-KKHQCKDCIYSYDPKLGDPSQGVPPGVPFDDLPASWVCPLCKASKKRFKVL--*
+>P1;gi|21232697|ref|NP_638614.1| rubredoxin [Xanthomonas campestris ... [ score 77 E 1e-13 ] [ range 1 .. 49 ]
+sequence
+----MCVVCGFLYHEADGIPEEGIAPGTRWEDVPDSWTCPDCGVTKDDFEMVE-*
+>P1;gi|33864160|ref|NP_895720.1| probable rubredoxin [Prochlorococcu... [ score 77 E 2e-13 ] [ range 43 .. 93 ]
+sequence
+--RFECRSCGYVYDPEEGVKKLGITSGTAFKDLPTNFRCPVCRARIDAFKNI--*
+>P1;gi|15668916|ref|NP_247720.1| rubredoxin 1 (rd1) [Methanococcus j... [ score 77 E 2e-13 ] [ range 20 .. 74 ]
+sequence
+-RKYKCKVCGWVYDPLKGDPSQNIPPKTPFEELPDTWICPVCRVGKESFEPLDE*
+>P1;gi|21244139|ref|NP_643721.1| rubredoxin [Xanthomonas axonopodis ... [ score 76 E 2e-13 ] [ range 1 .. 49 ]
+sequence
+----MCVVCGFLYHEADGIPEEGIAPGTRWQDVPDTWTCPDCGVTKEDFEMVE-*
+>P1;gi|45522909|ref|ZP_00174338.1| hypothetical protein Cwat588001 [... [ score 76 E 2e-13 ] [ range 18 .. 66 ]
+sequence
+---HECRLCGYVYETKKGDAKANVPPGTLFSELPSGWKCPVCAAKPNQFVSI--*
+>P1;gi|15639975|ref|NP_219428.1| rubredoxin [Treponema pallidum subs... [ score 75 E 3e-13 ] [ range 1 .. 52 ]
+sequence
+MGTYMCDLCGWGYNPEVGDADGGIPAGTAFENLPDHWECPLCGVDKTSFVKV--*
+>P1;gi|44427030|gb|EAJ19230.1| unknown [environmental sequence] [ score 75 E 5e-13 ] [ range 55 .. 105 ]
+sequence
+--RFECRSCGYVYDPEEGVKKVGIEAGTAFDDLPAGFRCPVCRSRKPAFRDI--*
+>P1;gi|134117|sp|P00267|RUBR_PEPAS Rubredoxin (Rd) >gi|65797|pir||RU... [ score 75 E 6e-13 ] [ range 1 .. 53 ]
+sequence
+MQKFECTLCGYIYDPALVGPDTPDQDG-AFEDVSENWVCPLCGAGKEDFEVYED*
+>P1;gi|30173357|sp|Q93PP8|RUB2_DESDE Rubredoxin 2 (Rd-2) >gi|1432600... [ score 74 E 7e-13 ] [ range 8 .. 60 ]
+sequence
+---WRCQMCGYVYDPDRGDKRRKVPAGTKFEDLPEDWRCPVCGAGKKSFRRLSD*
+>P1;gi|41725778|ref|ZP_00152536.1| hypothetical protein Daro075301 [... [ score 73 E 2e-12 ] [ range 14 .. 66 ]
+sequence
+-DKLECGICWWVYDPTQGDDVRGIPPGIAFADLPDDWCCPGCDAPKHKFMVTDE*
+>P1;gi|25453276|sp|Q9AE67|RUB3_RHOER Rubredoxin 3 >gi|13750759|emb|C... [ score 73 E 2e-12 ] [ range 1 .. 53 ]
+sequence
+MSSYRCPVCEYVYDESKGAPREGFPAGTPWDAVPDDWCCPDCGVRKLDFEPM--*
+>P1;gi|27382046|ref|NP_773575.1| HupI protein [Bradyrhizobium japoni... [ score 73 E 2e-12 ] [ range 18 .. 68 ]
+sequence
+--RLECGICWTVYDPADGDDVAQIAPGTPFAALPEEWHCPNCDAPKSKFMAIE-*
+>P1;gi|15842840|ref|NP_337877.1| rubredoxin [Mycobacterium tuberculo... [ score 72 E 4e-12 ] [ range 2 .. 54 ]
+sequence
+MAAYRCPVCDYVYDEANGDAREGFPAGTGWDQIPDDWCCPDCAVRKVDFEKI--*
+>P1;gi|44076337|gb|EAG99811.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 53 .. 103 ]
+sequence
+--RFECRSCGYIYDPAEGNKKLNIPKNTPFSELDGNFACPVCRAGKNFYKDI--*
+>P1;gi|401053|sp|P28151|RUBL_RHILV Probable rubredoxin hupI >gi|2816... [ score 70 E 2e-11 ] [ range 16 .. 68 ]
+sequence
+-DRMECGICWHVYDPAEGDPVWQIPPGTPFSNLTEDWRCPNCDALQSKFMRLGD*
+>P1;gi|43215036|gb|EAC73051.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 26 .. 77 ]
+sequence
+-ARLECKICWHVYDPQEGDDVWQVAAGTPFSQLPEHWRCPECDGEKDQFMVLD-*
+>P1;gi|38637677|ref|NP_942651.1| putative rubredoxin [Ralstonia eutr... [ score 69 E 2e-11 ] [ range 24 .. 74 ]
+sequence
+-ARLECKICWWEYDPEVGDPVWQIAPGTSFSALPAHWRCPNCDGEAEQFMVL--*
+>P1;gi|1498181|dbj|BAA13229.1| rubredoxin [Pseudomonas hydrogenovora] [ score 69 E 2e-11 ] [ range 25 .. 74 ]
+sequence
+--KLECKICWWVYDPAVGDPVWQIPPGVPFSALPPHWRCPNCDGDADQFMVL--*
+>P1;gi|15420770|gb|AAK97449.1| rubredoxin 1 [Rhodococcus sp. Q15] [ score 67 E 1e-10 ] [ range 1 .. 53 ]
+sequence
+MNAYICPICDYTYTESTGAAREGFPPGTPWSSIPDDWCCPDCGVRKVDFTLV--*
+>P1;gi|22967070|ref|ZP_00014664.1| COG1773: Rubredoxin [Rhodospirill... [ score 67 E 2e-10 ] [ range 47 .. 104 ]
+sequence
+--KWVCTDCDYIYDPALGDPHHPLPPGLAFEDLPAGWLCPNCGSPKSFFRP---*
+>P1;gi|44337459|gb|EAI55785.1| unknown [environmental sequence] [ score 65 E 6e-10 ] [ range 19 .. 69 ]
+sequence
+--RFECRSCGFVYDPAEGVKKVGIEAGTPFSALDVSFRCPVCRSPVAAFRDI--*
+>P1;gi|44333513|gb|EAI53082.1| unknown [environmental sequence] [ score 64 E 9e-10 ] [ range 1 .. 40 ]
+sequence
+--------------PVAGDPDSGIAPGTAFEQIPDDWRCPICGANKANFIPYRE*
+>P1;gi|39934045|ref|NP_946321.1| putative rubredoxin hupI [Rhodopseu... [ score 64 E 1e-09 ] [ range 17 .. 68 ]
+sequence
+--RMECGVCWTVYDPAEGDPLGRAAPGTPFAALPEAWCCPTCDAPPVKFLRLDD*
+>P1;gi|5764684|gb|AAA27414.2| HupI [Thiocapsa roseopersicina] [ score 64 E 1e-09 ] [ range 25 .. 74 ]
+sequence
+--RMECRICWSIYDPAAGDSVGEVPPGTAFDGLPDAWRCPRCDSDKSYFLPV--*
+>P1;gi|33860853|ref|NP_892414.1| probable rubredoxin [Prochlorococcu... [ score 63 E 2e-09 ] [ range 43 .. 93 ]
+sequence
+--RFECRSCGYIYDPIEGNKKLNIPKNTPFSAIDGNFACPVCRAGKNLYKDI--*
+>P1;gi|44609516|gb|EAK45454.1| unknown [environmental sequence] [ score 61 E 8e-09 ] [ range 42 .. 82 ]
+sequence
+-ATHICTACGYIYQETK-----------PFEELPEDYVCPSCSAPKSKFEAMK-*
+>P1;gi|33239778|ref|NP_874720.1| Rubredoxin [Prochlorococcus marinus... [ score 60 E 1e-08 ] [ range 41 .. 93 ]
+sequence
+LNRFECTDCGYVYDPKEGLKKYKISPGTSFLDIDQTFRCPVCRSKYSAYKDI--*
+>P1;gi|23020012|ref|ZP_00059719.1| COG1853: Conserved protein/domain... [ score 60 E 2e-08 ] [ range 180 .. 220 ]
+sequence
+-AKYVCSICGYEY---TGD--------IPFEDLPEDYVCPVCGQPKSVFVKKE-*
+>P1;gi|22960020|ref|ZP_00007664.1| COG1773: Rubredoxin [Rhodobacter ... [ score 87 E 1e-16 ] [ range 121 .. 173 ]
+sequence
+-AVMECKICWTPYDPAMGDDFRQILPGTPFTALPEDWSCPHCGAPKNQFMVLSD*
+>P1;gi|15676884|ref|NP_274029.1| rubredoxin [Neisseria meningitidis ... [ score 85 E 4e-16 ] [ range 2 .. 53 ]
+sequence
+-AQYMCGPCGWIYDEEHGDPEHGIAPGTKFEDIPDDWKCPECGVGKEDFYLLD-*
+>P1;gi|18762537|gb|AAL78082.1| rubredoxin [Synechococcus sp. PCC 7002] [ score 85 E 4e-16 ] [ range 16 .. 66 ]
+sequence
+-ASYECPSCGYIYTPAKGESRTNTPPGTAFEDLPLIWNCPVCSVDRAQFRNI--*
+>P1;gi|729780|sp|Q03009|HUPJ_RHOCA Probable rubredoxin hupJ >gi|2144... [ score 82 E 3e-15 ] [ range 27 .. 76 ]
+sequence
+----ECKICWTPYDPASGDEFRQVLPGTPFTALPEDWHCPNCDAPKAQFIVQSD*
+>P1;gi|23134941|ref|ZP_00116707.1| COG1773: Rubredoxin [Cytophaga hu... [ score 82 E 3e-15 ] [ range 433 .. 483 ]
+sequence
+---YQCSVCLTIYDPAYGDADEGIVPGTSFDALPQNYCCSICSNSKKGFNLFID*
+>P1;gi|43423492|gb|EAD69736.1| unknown [environmental sequence] [ score 82 E 5e-15 ] [ range 7 .. 58 ]
+sequence
+-SKWECVICGFIYDEAEGLPDEGILPGTKWDEVPDDWECPDCGISKLDFDMVE-*
+>P1;gi|21673926|ref|NP_661991.1| rubredoxin [Chlorobium tepidum TLS]... [ score 81 E 6e-15 ] [ range 15 .. 65 ]
+sequence
+-ASWMCAECGYIYDPAEGNLETNIRPGMPFDKLPDDWSCPVCNHPKNQFTKF--*
+>P1;gi|22978022|ref|ZP_00023794.1| COG1773: Rubredoxin [Ralstonia me... [ score 78 E 4e-14 ] [ range 24 .. 76 ]
+sequence
+-SRLECKICWWVYDPAVGDPQWQIPPGTPFAELPPHWRCPNCDCDAEQFLLLND*
+>P1;gi|23106425|ref|ZP_00092879.1| COG1773: Rubredoxin [Azotobacter ... [ score 74 E 1e-12 ] [ range 20 .. 71 ]
+sequence
+-AVLECKICWQRYDPAEGDPVWQIPPGTPFAALPAHWRCPRCDGDREQFMVVD-*
+>P1;gi|1351032|sp|P48343|RUBR_AZOCH Rubredoxin in uptake hydrogenase... [ score 74 E 1e-12 ] [ range 20 .. 72 ]
+sequence
+-AVLECKICWHRYDPAVGDEVWQILAGTPFAALPAHWRCPQCDGDREQFMVVDD*
+>P1;gi|15678504|ref|NP_275619.1| pyruvate dehydrogenase / acetolacta... [ score 65 E 6e-10 ] [ range 2 .. 43 ]
+sequence
+-ADFRCTVCNYIFHEEADGE---------FDSLPADWRCPVCNAPRTAFVRV--*
+>P1;gi|11249919|pir||A59199 hybrid cluster [4Fe-2S-3O] protein MTH14... [ score 91 E 7e-18 ] [ range 2 .. 50 ]
+sequence
+--KYRCKVCDYIYDPEVG-------DGTPFEELPDDWLCPVCNVGKDQFEP---*
+>P1;gi|29336560|sp|Q9FDN6|HRB_MOOTH High molecular weight rubredoxin... [ score 89 E 3e-17 ] [ range 180 .. 227 ]
+sequence
+--KYQCTICNYVYDPVQG-------DGTPFADLPEDWTCPICGAGKDAFE----*
+>P1;gi|44557614|gb|EAK08884.1| unknown [environmental sequence] [ score 89 E 3e-17 ] [ range 180 .. 228 ]
+sequence
+--KWICRVCSMIYDPAEG-------DGTPFEAIPDDWQCPICGARKASFVP---*
+>P1;gi|33866899|ref|NP_898458.1| Rubrerythrin [Synechococcus sp. WH ... [ score 88 E 5e-17 ] [ range 180 .. 228 ]
+sequence
+--KWICKVCSMIYDPAEG-------DGTPFEAIPDDWQCPICGARKASFVP---*
+>P1;gi|23126829|ref|ZP_00108713.1| COG1592: Rubrerythrin [Nostoc pun... [ score 84 E 8e-16 ] [ range 181 .. 230 ]
+sequence
+-RKWICRQCSMIYDPVAG-------DGTPFEEIPDDWECPICGASKKTFKP---*
+>P1;gi|33864430|ref|NP_895990.1| Rubredoxin:Rubrerythrin:Rubredoxin-... [ score 84 E 1e-15 ] [ range 208 .. 256 ]
+sequence
+--KWICKVCSMIYDPAIG-------DGTAFEAIPEDWVCPICGTRKANFVP---*
+>P1;gi|45510108|ref|ZP_00162440.1| hypothetical protein Avar024001 [... [ score 84 E 1e-15 ] [ range 181 .. 228 ]
+sequence
+-RKWICRQCSMIYDPVAG-------DGTPFEDIPDDWQCPICGATKKTF-----*
+>P1;gi|17228669|ref|NP_485217.1| rubrerythrin [Nostoc sp. PCC 7120] ... [ score 82 E 4e-15 ] [ range 181 .. 228 ]
+sequence
+-RKWICRQCSMIYDPVAG-------DGTPFEDIPNDWQCPICGATKKTF-----*
+>P1;gi|44227431|gb|EAH81561.1| unknown [environmental sequence] [ score 81 E 6e-15 ] [ range 77 .. 125 ]
+sequence
+--KWICKVCSMIYDPAEG-------DGTPFEAIPDDWHCPICGARKASFVP---*
+>P1;gi|45513132|ref|ZP_00164698.1| hypothetical protein Selo086701 [... [ score 81 E 7e-15 ] [ range 181 .. 230 ]
+sequence
+-QKWICLQCSVIYDPAEG-------DGTPFAAIPEDWSCPICGVTKKSFVP---*
+>P1;gi|41719181|ref|ZP_00148095.1| hypothetical protein Mbur142201 [... [ score 80 E 1e-14 ] [ range 1 .. 53 ]
+sequence
+MTEYRCNVCNFEYDDTRG-------DGTKPEDFPDDWRCPICGADKNHQMPA--*
+>P1;gi|28211065|ref|NP_782009.1| acyl-coA dehydrogenase [Clostridium... [ score 79 E 4e-14 ] [ range 587 .. 635 ]
+sequence
+---YVCNGCGYEYDPGEG-------DGTLFEDLPNEWTCPACGEEKDEFIEA--*
+>P1;gi|15896033|ref|NP_349382.1| Rubredoxin [Clostridium acetobutyli... [ score 79 E 4e-14 ] [ range 1 .. 52 ]
+sequence
+MKKYVCVVCGYIYDPAEG-------DGTSFEDIPDDWVCPLCGVGKDQFEPS--*
+>P1;gi|40062854|gb|AAR37725.1| rubredoxin/rubredoxin reductase [uncu... [ score 78 E 5e-14 ] [ range 1 .. 50 ]
+sequence
+MARWECIVCGLIYDEKEG-------DGIPWSDVPDDWLCPDCGVGKDDFE----*
+>P1;gi|23473639|ref|ZP_00128935.1| COG1773: Rubredoxin [Desulfovibri... [ score 77 E 9e-14 ] [ range 4 .. 55 ]
+sequence
+MQKYVCNICGYEYDPAEG-------DGTAWEDVPSDWLCPVCGAPKSEFEPA--*
+>P1;gi|134115|sp|P15412|RUBR_DESVM Rubredoxin (Rd) >gi|320090|pir||J... [ score 77 E 9e-14 ] [ range 1 .. 52 ]
+sequence
+MKKYVCTVCGYEYDPAEG-------DGTAFEDVPADWVCPICGAPKSEFEPA--*
+>P1;gi|11498945|ref|NP_070178.1| rubredoxin (rd-2) [Archaeoglobus fu... [ score 77 E 2e-13 ] [ range 20 .. 69 ]
+sequence
+MAKYECQVCGYVYDEAEG-------DGTKWEDLPDDWVCPVCGASKDQFE----*
+>P1;gi|15678184|ref|NP_275299.1| rubredoxin [Methanothermobacter the... [ score 76 E 2e-13 ] [ range 1 .. 49 ]
+sequence
+MDKYVCQMCGYIYDPEEG-------DGTPFEDLPDDWVCPVCGVGKDQF-----*
+>P1;gi|38637405|dbj|BAD03663.1| putative rubredoxin [Oryza sativa (j... [ score 76 E 2e-13 ] [ range 122 .. 168 ]
+sequence
+---YECRSCGYRYDQAAG-------DGLPFEQLPDDWRCPTCGAAQSFFE----*
+>P1;gi|37520423|ref|NP_923800.1| rubredoxin [Gloeobacter violaceus] ... [ score 76 E 2e-13 ] [ range 11 .. 57 ]
+sequence
+LDRYECRTCGYIYEPTKG-------DGTPFEELAADWRCPICSSATSRF-----*
+>P1;gi|15643424|ref|NP_228468.1| rubredoxin [Thermotoga maritima] >g... [ score 76 E 3e-13 ] [ range 1 .. 51 ]
+sequence
+MKKYRCKLCGYIYDPEQG-------DGTPFEDLPDDWVCPLCGASKEDFEP---*
+>P1;gi|39998278|ref|NP_954229.1| rubredoxin [Geobacter sulfurreducen... [ score 76 E 3e-13 ] [ range 1 .. 52 ]
+sequence
+MERWRCTICQYEYDPEAG-------DGTPFEELPDDWVCPICGAGKDLFEPA--*
+>P1;gi|3024588|sp|P56263|RUBR_HELMO Rubredoxin (Rd) >gi|2148042|pir|... [ score 75 E 4e-13 ] [ range 1 .. 51 ]
+sequence
+MKKYGCLVCGYVYDPAKG-------DGTAFEDLPADWVCPLCGVSKDEFEP---*
+>P1;gi|4558184|pdb|1RB9|  Rubredoxin From Desulfovibrio Vulgaris Ref... [ score 75 E 5e-13 ] [ range 2 .. 53 ]
+sequence
+MKKYVCTVCGYEYDPAEG-------DGTSFDDLPADWVCPVCGAPKSEFEAA--*
+>P1;gi|22299239|ref|NP_682486.1| rubredoxin [Thermosynechococcus elo... [ score 75 E 5e-13 ] [ range 11 .. 60 ]
+sequence
+LDRFECRACGYIYEPAKG-------DGTAFADLPLNWRCPVCSAPKKQFS----*
+>P1;gi|39995953|ref|NP_951904.1| rubredoxin [Geobacter sulfurreducen... [ score 74 E 7e-13 ] [ range 1 .. 52 ]
+sequence
+MQRWICTVCQYVYDPFVG-------DGTPFEELPDGWVCPACGVAKNMFVPA--*
+>P1;gi|134111|sp|P19500|RUBR_CLOTS Rubredoxin (Rd) >gi|98646|pir||A3... [ score 74 E 7e-13 ] [ range 1 .. 50 ]
+sequence
+MEKWQCTVCGYIYDPEVG-------DGTKFEDLPDDWVCPDCGVGKDQFE----*
+>P1;gi|134110|sp|P23474|RUBR_CLOST Rubredoxin (Rd) >gi|98633|pir||A3... [ score 74 E 8e-13 ] [ range 1 .. 50 ]
+sequence
+MTKYVCTVCGYVYDPEVG-------DGTSFQDIPEDWVCPLCGVGKDQFE----*
+>P1;gi|20808541|ref|NP_623712.1| Rubredoxin [Thermoanaerobacter teng... [ score 74 E 8e-13 ] [ range 1 .. 50 ]
+sequence
+MEKWQCTVCGYIYDPEKG-------DGTPFEELPDDWVCPDCGAGKDLFE----*
+>P1;gi|42923342|gb|EAB28715.1| unknown [environmental sequence] [ score 74 E 8e-13 ] [ range 1 .. 51 ]
+sequence
+MQKYECQLCGYIYDPELG-------DGTAFENLPEDWVCPLCGAEKSDFEP---*
+>P1;gi|44480963|gb|EAJ57255.1| unknown [environmental sequence] [ score 74 E 9e-13 ] [ range 438 .. 487 ]
+sequence
+-QTMLCTVCQWVYDPAQG-------EGTPWAQVPDSFLCPGCGIGKEVFEP---*
+>P1;gi|29347949|ref|NP_811452.1| rubredoxin [Bacteroides thetaiotaom... [ score 74 E 1e-12 ] [ range 1 .. 51 ]
+sequence
+MKKYICTVCEYIYDPAQG-------DGTAFEDIPDDWTCPLCGVGKEDFEP---*
+>P1;gi|17231335|ref|NP_487883.1| rubredoxin [Nostoc sp. PCC 7120] >g... [ score 74 E 1e-12 ] [ range 11 .. 60 ]
+sequence
+LDRFECRSCGYVYEPEKG-------DNTPFAELPINWRCPVCTAKKAAFT----*
+>P1;gi|23021725|ref|ZP_00061385.1| COG1773: Rubredoxin [Clostridium ... [ score 74 E 1e-12 ] [ range 1 .. 50 ]
+sequence
+MEKYVCTACGYIYDPEKG-------DGTAFEDIPDDWVCPICGVGKDMFE----*
+>P1;gi|45507414|ref|ZP_00159758.1| hypothetical protein Avar338401 [... [ score 74 E 1e-12 ] [ range 11 .. 60 ]
+sequence
+LDRFECRSCGYVYEPEKG-------DSTPFAELPINWRCPVCTAKKAAFS----*
+>P1;gi|45530109|ref|ZP_00181244.1| hypothetical protein Mther066201 ... [ score 73 E 2e-12 ] [ range 1 .. 51 ]
+sequence
+MGKWSCTACGYVYDPAKG-------DGTAFEDLPDDWVCPNCGLGKENFEP---*
+>P1;gi|45505707|ref|ZP_00158078.1| hypothetical protein Avar523101 [... [ score 73 E 2e-12 ] [ range 1 .. 52 ]
+sequence
+MVTHVCTVCGYEYDPEVG-------DATPFEEIPEDWVCPVCGATKDLFEPA--*
+>P1;gi|45512722|ref|ZP_00164288.1| hypothetical protein Selo043001 [... [ score 73 E 2e-12 ] [ range 38 .. 86 ]
+sequence
+LDRHECRSCGYIYEPNEG-------DGTVFEEVPSNWRCPICGSPRSQF-----*
+>P1;gi|1894774|emb|CAA72620.1| rubredoxin [Clostridium diolis] [ score 73 E 2e-12 ] [ range 1 .. 50 ]
+sequence
+MEKYICTVCGYIYDEAAG-------DGTKFEDIPDDWVCPLCGVPKSDFE----*
+>P1;gi|15678183|ref|NP_275298.1| rubredoxin [Methanothermobacter the... [ score 73 E 2e-12 ] [ range 11 .. 61 ]
+sequence
+MKRYKCRVCGYIYDPEKG-------EGTPFEDLPETWRCPSCGAKKKMFKP---*
+>P1;gi|21674834|ref|NP_662899.1| rubredoxin [Chlorobium tepidum TLS]... [ score 72 E 3e-12 ] [ range 1 .. 51 ]
+sequence
+MQKWVCVPCGYEYDPADG-------DGTAFEDLPEDWVCPVCGVDKSFFEP---*
+>P1;gi|23123823|ref|ZP_00105862.1| COG1773: Rubredoxin [Nostoc punct... [ score 72 E 3e-12 ] [ range 1 .. 50 ]
+sequence
+MAKYICTVCGYEYDPEFG-------DGTAFEDIPDDWVCPTCGATKDQFE----*
+>P1;gi|11498486|ref|NP_069714.1| rubredoxin (rd-1) [Archaeoglobus fu... [ score 72 E 3e-12 ] [ range 1 .. 50 ]
+sequence
+MAKYQCTICGYVYDEAEG-------DGTKWEDLPDDWVCPVCGATKDQFE----*
+>P1;gi|134113|sp|P00270|RUBR_DESGI Rubredoxin (Rd) >gi|65800|pir||RU... [ score 72 E 3e-12 ] [ range 1 .. 50 ]
+sequence
+MDIYVCTVCGYEYDPAKG-------DGTKFEDLPDDWACPVCGASKDAFE----*
+>P1;gi|4691236|emb|CAB41597.1| rubredoxin [Clostridium cellulolyticum] [ score 72 E 3e-12 ] [ range 1 .. 50 ]
+sequence
+MDIYVCTVCGYVYDPEEG-------DGTAFEDIPEDWVCPLCGVGKDLFE----*
+>P1;gi|14521100|ref|NP_126575.1| rubredoxin [Pyrococcus abyssi] >gi|... [ score 72 E 3e-12 ] [ range 1 .. 50 ]
+sequence
+MAKWRCKICGYIYDEDEG-------DGTKFEDLPDDWVCPLCGAPKSEFE----*
+>P1;gi|16760334|ref|NP_455951.1| hydrogenase-1 operon protein HyaF2 ... [ score 72 E 4e-12 ] [ range 295 .. 342 ]
+sequence
+--RMECKVCWWVYDPALG-------DGVPFNQLPDYWCCPVCETSKSGFM----*
+>P1;gi|17232049|ref|NP_488597.1| rubredoxin [Nostoc sp. PCC 7120] >g... [ score 72 E 5e-12 ] [ range 1 .. 52 ]
+sequence
+MVTHVCTVCGYEYDPEVG-------DATSFEEIPEDWVCPVCGATKDLFEPA--*
+>P1;gi|13399664|pdb|1C09|A Chain A, Rubredoxin V44a Cp >gi|13399665|... [ score 71 E 5e-12 ] [ range 1 .. 50 ]
+sequence
+MKKYTCTVCGYIYNPEDG-------DGTDFKDIPDDWVCPLCGAGKDQFE----*
+>P1;gi|134106|sp|P14071|RUBR_BUTME Rubredoxin (Rd) >gi|80482|pir||JU... [ score 71 E 6e-12 ] [ range 1 .. 51 ]
+sequence
+MQKYVCDICGYVYDPAVG-------DGTAFADLPEDWVCPECGVSKDEFSP---*
+>P1;gi|1491678|emb|CAA67881.1| rubredoxin [Desulfovibrio baarsii] [ score 71 E 6e-12 ] [ range 1 .. 50 ]
+sequence
+MKKYVCGVCVYEYDPAKG-------DGTAFEDLPADWSCPVCGASKDQFE----*
+>P1;gi|42526562|ref|NP_971660.1| rubredoxin [Treponema denticola ATC... [ score 71 E 6e-12 ] [ range 1 .. 50 ]
+sequence
+MDKYVCDLCGYVYDPALG-------DGTAFEDIPDDWVCPLCGVGKESFT----*
+>P1;gi|134107|sp|P09947|RUBR_CHLLT Rubredoxin (Rd) >gi|79592|pir||A2... [ score 71 E 7e-12 ] [ range 1 .. 51 ]
+sequence
+MQKYVCSVCGYVYDPADG-------EGTGFEDLPEDWVCPVCGVDKDLFEP---*
+>P1;gi|18977654|ref|NP_579011.1| rubredoxin [Pyrococcus furiosus DSM... [ score 71 E 7e-12 ] [ range 1 .. 50 ]
+sequence
+MAKWVCKICGYIYDEDAG-------DGTKFEELPDDWVCPICGAPKSEFE----*
+>P1;gi|45529449|ref|ZP_00180594.1| hypothetical protein Mther139601 ... [ score 70 E 1e-11 ] [ range 1 .. 51 ]
+sequence
+MEKYSCTVCDYVYDPAEG-------DGTPFADLPEDWVCPLCSAGKEAFEP---*
+>P1;gi|23128800|ref|ZP_00110639.1| COG1773: Rubredoxin [Nostoc punct... [ score 70 E 1e-11 ] [ range 36 .. 84 ]
+sequence
+LDRYECRACGYVYEPEKG-------DGILFAELPTNWRCPVCSAKKTAF-----*
+>P1;gi|18309762|ref|NP_561696.1| rubredoxin [Clostridium perfringens... [ score 70 E 2e-11 ] [ range 1 .. 50 ]
+sequence
+MKKFICDVCGYIYDPAVG-------DGTEFKDIPDDWVCPLCGVDKSQFS----*
+>P1;gi|134116|sp|P00271|RUBR_MEGEL Rubredoxin (Rd) >gi|65802|pir||RU... [ score 69 E 2e-11 ] [ range 1 .. 49 ]
+sequence
+MDKYECSICGYIYDEAEG-------DGTKFADLPADWVCPTCGADKDAFV----*
+>P1;gi|16130617|ref|NP_417190.1| putative flavodoxin [Escherichia co... [ score 69 E 2e-11 ] [ range 425 .. 472 ]
+sequence
+--RMQCSVCQWIYDPAKG-------EGTPWSEVPDNFLCPECSLGKDVFE----*
+>P1;gi|19704756|ref|NP_604318.1| ACYL-COA dehydrogenase, short-chain... [ score 69 E 3e-11 ] [ range 587 .. 635 ]
+sequence
+---YVCSGCGHEYNPEIG-------DGTRFKDLPEDWTCPDCGDPKSGYIDA--*
+>P1;gi|16766146|ref|NP_461761.1| putative flavoprotein [Salmonella t... [ score 69 E 3e-11 ] [ range 425 .. 471 ]
+sequence
+--KMQCSVCQWIYDPALG-------EGTPWNDVPDNFLCPECSLGKDVF-----*
+>P1;gi|18423226|ref|NP_568749.1| rubredoxin family protein [Arabidop... [ score 69 E 4e-11 ] [ range 62 .. 98 ]
+sequence
+-QAYICRDCGYIYN-----------DRTPFDKLPDNYFCPVCAAPKRRF-----*
+>P1;gi|16761617|ref|NP_457234.1| putative flavoprotein [Salmonella e... [ score 69 E 4e-11 ] [ range 425 .. 471 ]
+sequence
+--KMQCSVCQWIYDPALG-------EGTPWSDVPDNFLCPECSLGKDVF-----*
+>P1;gi|21673926|ref|NP_661991.1| rubredoxin [Chlorobium tepidum TLS]... [ score 68 E 6e-11 ] [ range 17 .. 63 ]
+sequence
+---WMCAECGYIYDPAEG-------NGMPFDKLPDDWSCPVCNHPKNQFT----*
+>P1;gi|34763803|ref|ZP_00144716.1| ACYL-COA DEHYDROGENASE, SHORT-CHA... [ score 67 E 9e-11 ] [ range 429 .. 477 ]
+sequence
+---YVCSGCGHEYNPDLG-------DGTRFKDLPEDWTCPDCGDPKSGYIDA--*
+>P1;gi|23200152|pdb|1IU5|A Chain A, X-Ray Crystal Structure Of The R... [ score 67 E 1e-10 ] [ range 2 .. 49 ]
+sequence
+--KYVCKICGYIYDEDAG-------DGTKFEEIPDDWVCPICGAPKSEFE----*
+>P1;gi|15221842|ref|NP_175852.1| rubredoxin family protein [Arabidop... [ score 67 E 1e-10 ] [ range 100 .. 146 ]
+sequence
+---YECRSCGYKYDESAG-------DGFQFDKLPEDWRCPTCGAAQSFFE----*
+>P1;gi|13812288|ref|NP_113406.1| rubredoxin [Guillardia theta] >gi|2... [ score 67 E 2e-10 ] [ range 63 .. 109 ]
+sequence
+--KYECEACGYIYEPEKG-------DGTPFVDLSDSFMCPACRSPKNQF-----*
+>P1;gi|23105762|ref|ZP_00092216.1| COG1773: Rubredoxin [Azotobacter ... [ score 66 E 2e-10 ] [ range 27 .. 76 ]
+sequence
+MRKWQCIVCGFVYDPEEG-------PGTPWEEVPSDWLCPVCGASKQDFE----*
+>P1;gi|16329682|ref|NP_440410.1| rubredoxin [Synechocystis sp. PCC 6... [ score 66 E 2e-10 ] [ range 18 .. 63 ]
+sequence
+---HECRACGYVYIPSQG-------DGTPFEALPLNWKCPVCGAPRNYF-----*
+>P1;gi|21673927|ref|NP_661992.1| rubredoxin [Chlorobium tepidum TLS]... [ score 66 E 3e-10 ] [ range 1 .. 50 ]
+sequence
+MEQWKCNICGYIYNPETG-------DGTSFESLPDSWMCPVCGAGKEEFT----*
+>P1;gi|5531407|emb|CAB51049.1| rubredoxin 2 [Pseudomonas putida] [ score 65 E 3e-10 ] [ range 121 .. 168 ] [ duplicate a ]
+sequence
+--KWICITCGHIYDEALG-------DGTRFEDIPNDWCCPDCGATKEDYV----*
+>P1;gi|5531407|emb|CAB51049.1| rubredoxin 2 [Pseudomonas putida] [ score 65 E 3e-10 ] [ range 1 .. 51 ] [ duplicate b ]
+sequence
+MARYQCPDCQYVYDESKG-------ENTPWIVIPEDWCCPDCAVDKLDFV----*
+>P1;gi|6635829|gb|AAF19995.1| HupJ [Rhodobacter sphaeroides] [ score 65 E 3e-10 ] [ range 21 .. 67 ]
+sequence
+---MECKICWTPYDPAMG-------DGTPFTALPEDWSCPHCGAPKSQFM----*
+>P1;gi|22960020|ref|ZP_00007664.1| COG1773: Rubredoxin [Rhodobacter ... [ score 65 E 3e-10 ] [ range 123 .. 169 ]
+sequence
+---MECKICWTPYDPAMG-------DGTPFTALPEDWSCPHCGAPKNQFM----*
+>P1;gi|27367713|ref|NP_763240.1| Rubredoxin [Vibrio vulnificus CMCP6... [ score 65 E 5e-10 ] [ range 444 .. 490 ]
+sequence
+---MVCTVCNWVYDPAKG-------EGTTWADVPDYFLCPECHLGKDVFV----*
+>P1;gi|134097|sp|P00272|RUB2_PSEOL Rubredoxin 2 (Two-iron rubredoxin... [ score 65 E 6e-10 ] [ range 121 .. 168 ] [ duplicate a ]
+sequence
+--KWICITCGHIYDEALG-------DGTRFEDIPDDWCCPDCGATKEDYV----*
+>P1;gi|134097|sp|P00272|RUB2_PSEOL Rubredoxin 2 (Two-iron rubredoxin... [ score 65 E 6e-10 ] [ range 1 .. 51 ] [ duplicate b ]
+sequence
+MASYKCPDCNYVYDESAG-------NGTPWHLIPEDWCCPDCAVDKLDFM----*
+>P1;gi|23473934|ref|ZP_00129229.1| COG1773: Rubredoxin [Desulfovibri... [ score 64 E 9e-10 ] [ range 2 .. 50 ]
+sequence
+MDKYEC-PCGYVYDPEVG-------DGTAFADLPEDWVCPLCGAEKEFFE----*
+>P1;gi|37683585|gb|AAQ98844.1| rubredoxin [Rhodococcus sp. NCIMB12038] [ score 64 E 1e-09 ] [ range 19 .. 64 ]
+sequence
+---WICEVCEFVYDPKLG-------DGTAFQDIPDDWVCPVCGARKKEF-----*
+>P1;gi|30173357|sp|Q93PP8|RUB2_DESDE Rubredoxin 2 (Rd-2) >gi|1432600... [ score 64 E 1e-09 ] [ range 8 .. 55 ]
+sequence
+---WRCQMCGYVYDPDRG-------DGTKFEDLPEDWRCPVCGAGKKSF-----*
+>P1;gi|15679450|ref|NP_276567.1| 6Fe-6S prismane-containing protein ... [ score 63 E 2e-09 ] [ range 3 .. 35 ]
+sequence
+-------------DPRSG-------PGTPFEELPDDWLCPVCNVGKDQFEP---*
+>P1;gi|18762537|gb|AAL78082.1| rubredoxin [Synechococcus sp. PCC 7002] [ score 63 E 2e-09 ] [ range 18 .. 63 ]
+sequence
+---YECPSCGYIYTPAKG-------EGTAFEDLPLIWNCPVCSVDRAQF-----*
+>P1;gi|729780|sp|Q03009|HUPJ_RHOCA Probable rubredoxin hupJ >gi|2144... [ score 63 E 2e-09 ] [ range 26 .. 71 ]
+sequence
+---MECKICWTPYDPASG-------DGTPFTALPEDWHCPNCDAPKAQF-----*
+>P1;gi|37683582|gb|AAQ98841.1| rubredoxin [Rhodococcus sp. NCIMB1203... [ score 63 E 2e-09 ] [ range 19 .. 64 ]
+sequence
+---WVCEVCEDVYDPRLG-------DGTAFQDIPDDWVCPVCGARKKEF-----*
+>P1;gi|18309759|ref|NP_561693.1| rubredoxin [Clostridium perfringens... [ score 63 E 2e-09 ] [ range 1 .. 50 ]
+sequence
+MEKFVCDVCGYIYDPVVG-------DGTKFKDIPDTWVCPLCKLDKTHFS----*
+>P1;gi|13591776|gb|AAK31348.1| alkane hydroxylase-rubredoxin [Nocard... [ score 62 E 3e-09 ] [ range 426 .. 473 ]
+sequence
+----RCPGCGYVYEVASG-------DGTAWADIPDSWFCPDCGVDKVDFVP---*
+>P1;gi|37912011|gb|AAR05102.1| rubredoxin [Rhodococcus sp. P400] [ score 62 E 3e-09 ] [ range 19 .. 64 ]
+sequence
+---WVCEVCEDVYDPQLG-------DGTAFQDIPDDWVCPVCGARKKEF-----*
+>P1;gi|43254313|gb|EAC92869.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 1 .. 50 ]
+sequence
+MKKWECIVCGLIYDEEEG-------PGTKWEDVPDDWVCPDCGVGKEDFE----*
+>P1;gi|13992204|emb|CAC38028.1| rubredoxin [Alcanivorax borkumensis] [ score 62 E 4e-09 ] [ range 122 .. 170 ] [ duplicate a ]
+sequence
+-RKWICITCGHIYDEALG-------DGTLFEDIPDDWCCPDCGATKEDYV----*
+>P1;gi|13992204|emb|CAC38028.1| rubredoxin [Alcanivorax borkumensis] [ score 62 E 4e-09 ] [ range 1 .. 51 ] [ duplicate b ]
+sequence
+MAKYQCPDCEYIYDEVAG-------HGTSWETIPEEWACPDCAVDKADFV----*
+>P1;gi|15678504|ref|NP_275619.1| pyruvate dehydrogenase / acetolacta... [ score 62 E 4e-09 ] [ range 1 .. 41 ]
+sequence
+MADFRCTVCNYIFH-EEA-------DG-EFDSLPADWRCPVCNAPRTAFV----*
+>P1;gi|38524450|dbj|BAD02373.1| rubredoxin [Rhodococcus opacus] [ score 62 E 4e-09 ] [ range 19 .. 64 ]
+sequence
+---WICEVCEDVYDPQLG-------DGTAFQDIPDDWVCPVCGARKKEF-----*
+>P1;gi|43711985|gb|EAF11087.1| unknown [environmental sequence] [ score 62 E 5e-09 ] [ range 57 .. 105 ]
+sequence
+-RKWVCITGGHIYDEALG-------DGTRFEDIPDDWCCPDCGATKEDYV----*
+>P1;gi|15676884|ref|NP_274029.1| rubredoxin [Neisseria meningitidis ... [ score 62 E 5e-09 ] [ range 1 .. 49 ]
+sequence
+MAQYMCGPCGWIYDEEHG-------DGTKFEDIPDDWKCPECGVGKEDF-----*
+>P1;gi|231077|pdb|4RXN|  Rubredoxin (Oxidized, Fe(III)) (Unconstrain... [ score 61 E 7e-09 ] [ range 1 .. 50 ]
+sequence
+MKKYTCTVCGYIYDPEDG-------DGTDFKDIPDDWVCPLCGVGKDEFE----*
+>P1;gi|45358059|ref|NP_987616.1| Glutamate synthase subunit-related ... [ score 61 E 7e-09 ] [ range 1 .. 46 ]
+sequence
+MAKYRCNVCNFEYDESRG-------DGTKIKDFPNNWKCPICGSD---------*
+>P1;gi|44474461|gb|EAJ52604.1| unknown [environmental sequence] [ score 61 E 8e-09 ] [ range 4 .. 51 ]
+sequence
+-KKWECIVCGWIYDEEKG-------NGTRWEDVPDDWVCPECGVGKEDF-----*
+>P1;gi|23485094|gb|EAA20205.1| Rubredoxin [Plasmodium yoelii yoelii] [ score 61 E 9e-09 ] [ range 6 .. 54 ]
+sequence
+--KYQCSACGYIYDETEG-------DGTLFEDIPEGWGCPECGVDKSFFEP---*
+>P1;gi|13872675|emb|CAB51024.2| alkane 1-monooxygenase [Prauserella ... [ score 60 E 9e-09 ] [ range 437 .. 476 ]
+sequence
+----MCPGCGYVYDEATG-------DGTPWSAIPDSWCCPDCGV----------*
+>P1;gi|44363712|gb|EAI74583.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 4 .. 52 ]
+sequence
+-RKYECVICGYIYDEELG-------DGTRWEDIPDEWVCPDCGVSKFDFE----*
+>P1;gi|134117|sp|P00267|RUBR_PEPAS Rubredoxin (Rd) >gi|65797|pir||RU... [ score 60 E 1e-08 ] [ range 1 .. 49 ]
+sequence
+MQKFECTLCGYIYDPAVG-------PDTPFEDVSENWVCPLCGAGKEDFE----*
+>P1;gi|15668916|ref|NP_247720.1| rubredoxin 1 (rd1) [Methanococcus j... [ score 60 E 1e-08 ] [ range 20 .. 71 ]
+sequence
+-RKYKCKVCGWVYDPLKG-------DPTPFEELPDTWICPVCKVGKESFEP---*
+>P1;gi|43868150|gb|EAF88081.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 4 .. 51 ]
+sequence
+-KRWECIVCGWIYDEEKG-------DGTRWEDIPDDWVCPECGVGKEDF-----*
+>P1;gi|32394570|gb|AAM93983.1| rubredoxin [Griffithsia japonica] [ score 60 E 1e-08 ] [ range 90 .. 136 ]
+sequence
+--KFECTACGYVYEPSKG-------EGTAFADLSDSFTCPQCRTPKRRF-----*
+>P1;gi|43997142|gb|EAG56396.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 1 .. 49 ]
+sequence
+MAQYLCVICGFIYDEEQG-------HGTKWEDVPEDWFCPDCGATKSDF-----*
+>P1;gi|16126734|ref|NP_421298.1| rubredoxin [Caulobacter crescentus ... [ score 59 E 2e-08 ] [ range 9 .. 54 ]
+sequence
+---WQCRTCGYIYDEEQG-------DGTRWADIPAGWVCPLCGTPKSDF-----*
+>P1;gi|15639975|ref|NP_219428.1| rubredoxin [Treponema pallidum subs... [ score 59 E 2e-08 ] [ range 1 .. 50 ]
+sequence
+MGTYMCDLCGWGYNPEVG-------DGTAFENLPDHWECPLCGVDKTSFV----*
+>P1;gi|7245746|pdb|1QCV|A Chain A, Rubredoxin Variant (Pfrd-Xc4) Fol... [ score 59 E 3e-08 ] [ range 2 .. 49 ]
+sequence
+--KWVLKITGYIYDEDAG-------DGTKFEELPDDWVAPITGAPKSEFE----*
+>P1;gi|44308867|gb|EAI35848.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 4 .. 51 ]
+sequence
+-KKWECVVCGWTYDEEQG-------HGTKWEDIPDDWVCPECGVGKEDF-----*
+>P1;gi|45522909|ref|ZP_00174338.1| hypothetical protein Cwat588001 [... [ score 59 E 5e-08 ] [ range 18 .. 64 ]
+sequence
+---HECRLCGYVYETKKG-------DGTLFSELPSGWKCPVCAAKPNQFV----*
+>P1;gi|43520763|gb|EAE15061.1| unknown [environmental sequence] >gi|... [ score 58 E 5e-08 ] [ range 4 .. 51 ]
+sequence
+-KKWECVVCGWTYDEEKG-------HGTRWEDIPDDWVCPECGVGKEDF-----*
+>P1;gi|22967070|ref|ZP_00014664.1| COG1773: Rubredoxin [Rhodospirill... [ score 58 E 7e-08 ] [ range 47 .. 105 ]
+sequence
+--KWVCTDCDYIYDPALG-------DGLAFEDLPAGWLCPNCGSPKSFFRPS--*
+>P1;gi|43215036|gb|EAC73051.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 27 .. 74 ]
+sequence
+--RLECKICWHVYDPQEG-------DGTPFSQLPEHWRCPECDGEKDQFM----*
+>P1;gi|33239831|ref|NP_874773.1| Rubredoxin [Prochlorococcus marinus... [ score 57 E 1e-07 ] [ range 8 .. 55 ]
+sequence
+-KKHQCKDCIYSYDPKLG-------DGVPFDDLPASWVCPLCKASKKRF-----*
+>P1;gi|44076337|gb|EAG99811.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 53 .. 100 ]
+sequence
+--RFECRSCGYIYDPAEG-------NNTPFSELDGNFACPVCRAGKNFY-----*
+>P1;gi|41725778|ref|ZP_00152536.1| hypothetical protein Daro075301 [... [ score 57 E 1e-07 ] [ range 14 .. 62 ]
+sequence
+-DKLECGICWWVYDPTQG-------DGIAFADLPDDWCCPGCDAPKHKFM----*
+>P1;gi|30249397|ref|NP_841467.1| Rubredoxin:Rubredoxin-type Fe(Cys)4... [ score 56 E 2e-07 ] [ range 11 .. 58 ]
+sequence
+--RYMCMICGFIYDEAEG-------DGIPWEDVPMNWTCPECGARKEDFE----*
+>P1;gi|1769572|gb|AAB39992.1| rubredoxin-like protein [Desulfovibrio... [ score 56 E 3e-07 ] [ range 8 .. 57 ]
+sequence
+---WRCQTCGYVYDPDRG-------DGTRFEDLPDEWRCPICKATKKCFRP---*
+>P1;gi|23134941|ref|ZP_00116707.1| COG1773: Rubredoxin [Cytophaga hu... [ score 55 E 4e-07 ] [ range 433 .. 478 ]
+sequence
+---YQCSVCLTIYDPAYG-------DGTSFDALPQNYCCSICSNSKKGF-----*
+>P1;gi|401053|sp|P28151|RUBL_RHILV Probable rubredoxin hupI >gi|2816... [ score 55 E 4e-07 ] [ range 16 .. 64 ]
+sequence
+-DRMECGICWHVYDPAEG-------DGTPFSNLTEDWRCPNCDALQSKFM----*
+>P1;gi|23000888|ref|ZP_00044806.1| COG1773: Rubredoxin [Magnetococcu... [ score 55 E 4e-07 ] [ range 1 .. 49 ]
+sequence
+MGVWCCMSCEYEYDEEVG-------SGTDFDTLPKDWRCPVCGLSKEHF-----*
+>P1;gi|27382046|ref|NP_773575.1| HupI protein [Bradyrhizobium japoni... [ score 55 E 5e-07 ] [ range 17 .. 65 ]
+sequence
+-TRLECGICWTVYDPADG-------DGTPFAALPEEWHCPNCDAPKSKFM----*
+>P1;gi|44092486|gb|EAH08581.1| unknown [environmental sequence] [ score 55 E 6e-07 ] [ range 5 .. 52 ]
+sequence
+--RFECRSCGYIYDPSEG-------NNTPFSELDGNFACPVCRAGKNFY-----*
+>P1;gi|15668921|ref|NP_247725.1| rubredoxin 2 (rd2) [Methanococcus j... [ score 55 E 6e-07 ] [ range 4 .. 51 ]
+sequence
+MARYQC-MCGWVYDEDKG-------EGTKFEDLPDTFRCPQCGLGKNAF-----*
+>P1;gi|22450192|dbj|BAC10582.1| rubredoxin-like protein [Desulfovibr... [ score 54 E 7e-07 ] [ range 8 .. 57 ]
+sequence
+---WRCQTCGYVYDPDRG-------DGVRFEDLPDTWRCPVCGGTKRCFRP---*
+>P1;gi|134096|sp|P12692|RUB1_PSEOL Rubredoxin 1 >gi|418614|pir||RUPS... [ score 54 E 7e-07 ] [ range 1 .. 50 ]
+sequence
+MSRYQCPDCQYIYDENKG-------ENTSWNDIPKDWACPDCAVDKVDF-----*
+>P1;gi|22978022|ref|ZP_00023794.1| COG1773: Rubredoxin [Ralstonia me... [ score 53 E 2e-06 ] [ range 25 .. 71 ]
+sequence
+--RLECKICWWVYDPAVG-------DGTPFAELPPHWRCPNCDCDAEQF-----*
+>P1;gi|1351032|sp|P48343|RUBR_AZOCH Rubredoxin in uptake hydrogenase... [ score 53 E 2e-06 ] [ range 23 .. 68 ]
+sequence
+----ECKICWHRYDPAVG-------DGTPFAALPAHWRCPQCDGDREQFM----*
+>P1;gi|5764684|gb|AAA27414.2| HupI [Thiocapsa roseopersicina] [ score 53 E 2e-06 ] [ range 25 .. 73 ]
+sequence
+--RMECRICWSIYDPAAG-------DGTAFDGLPDAWRCPRCDSDKSYFLP---*
+>P1;gi|1498181|dbj|BAA13229.1| rubredoxin [Pseudomonas hydrogenovora] [ score 53 E 2e-06 ] [ range 24 .. 72 ]
+sequence
+-TKLECKICWWVYDPAVG-------DGVPFSALPPHWRCPNCDGDADQFM----*
+>P1;gi|34495607|ref|NP_899822.1| rubredoxin [Chromobacterium violace... [ score 53 E 2e-06 ] [ range 1 .. 49 ]
+sequence
+MRTWMCLICGFIYDEEAG-------DGIPWEDLPPNWTCPDCDARKDDF-----*
+>P1;gi|43976465|gb|EAG45239.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 1 .. 46 ]
+sequence
+----MCLICGWIYDEAAG-------SGTPWDQVPMNWTCPECGARKEDFE----*
+>P1;gi|38637677|ref|NP_942651.1| putative rubredoxin [Ralstonia eutr... [ score 52 E 4e-06 ] [ range 25 .. 72 ]
+sequence
+--RLECKICWWEYDPEVG-------DGTSFSALPAHWRCPNCDGEAEQFM----*
+>P1;gi|25453276|sp|Q9AE67|RUB3_RHOER Rubredoxin 3 >gi|13750759|emb|C... [ score 52 E 6e-06 ] [ range 1 .. 52 ]
+sequence
+MSSYRCPVCEYVYDESKG-------AGTPWDAVPDDWCCPDCGVEKLDFEP---*
+>P1;gi|33860853|ref|NP_892414.1| probable rubredoxin [Prochlorococcu... [ score 51 E 9e-06 ] [ range 43 .. 90 ]
+sequence
+--RFECRSCGYIYDPIEG-------NNTPFSAIDGNFACPVCRAGKNLY-----*
+>P1;gi|23106425|ref|ZP_00092879.1| COG1773: Rubredoxin [Azotobacter ... [ score 51 E 9e-06 ] [ range 23 .. 68 ]
+sequence
+----ECKICWQRYDPAEG-------DGTPFAALPAHWRCPRCDGDREQFM----*
+>P1;gi|15842840|ref|NP_337877.1| rubredoxin [Mycobacterium tuberculo... [ score 50 E 1e-05 ] [ range 2 .. 52 ]
+sequence
+MAAYRCPVCDYVYDEANG-------DGTGWDQIPDDWCCPDCAVEKVDFE----*
+>P1;gi|5531406|emb|CAB51048.1| rubredoxin 1 [Pseudomonas putida] [ score 50 E 1e-05 ] [ range 1 .. 50 ]
+sequence
+MAKYQCPDCQYIYDECKG-------ENTNWGEIPEEWACPDCAVDKIDF-----*
+>P1;gi|39934045|ref|NP_946321.1| putative rubredoxin hupI [Rhodopseu... [ score 50 E 2e-05 ] [ range 16 .. 63 ]
+sequence
+-TRMECGVCWTVYDPAEG-------DGTPFAALPEAWCCPTCDAPPVKF-----*
+>P1;gi|34905300|ref|NP_913997.1| P0577B11.21 [Oryza sativa (japonica... [ score 49 E 2e-05 ] [ range 186 .. 220 ]
+sequence
+---HICLDCGYIYFLPK-----------PFEEQPDEYGCPQCNAPKKRF-----*
+>P1;gi|18309064|ref|NP_560998.1| conserved hypothetical protein [Clo... [ score 49 E 4e-05 ] [ range 1 .. 33 ]
+sequence
+MKKFVCTVCGYVYEGEKA---------------PE--KCPVCGVGADKFV----*
+>P1;gi|15896831|ref|NP_350180.1| Rubrerythrin [Clostridium acetobuty... [ score 49 E 4e-05 ] [ range 1 .. 33 ]
+sequence
+MKKFKCVVCGYIYTG---------------EDAPE--KCPVCGAGKDKFV----*
+>P1;gi|44333513|gb|EAI53082.1| unknown [environmental sequence] [ score 48 E 5e-05 ] [ range 1 .. 37 ]
+sequence
+--------------PVAG-------DGTAFEQIPDDWRCPICGANKANFIP---*

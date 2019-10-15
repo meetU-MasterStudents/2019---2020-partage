@@ -1,0 +1,144 @@
+>P1;1bgyg
+structureX:1bgy:   1 :G:  81 :G:ubiquinol-cytochrome C reductase complex ubiquinone-binding proteinQP-C:Bos taurus: 3.0: 32
+G--------RQFGHL--TRVRHVITYSLSPFEQRAFPHYFSKGIPNVLRRTRACILRVAPPFVAFYLVYT
+WGTQEFEKSKRKNPAAYENDR---*
+>P1;1bccg
+structureX:1bcc:   2 :G:  79 :G:ubiquinol-cytochrome C reductase complex ubiquinone-binding proteinQP-C:Gallus gallus: 3.16: 27
+---------RQFGHL--TRVRHLITYSLSPFEQRPFPHYFSKGVPNVWRRLRACILRVAPPFLAFYLLYT
+WGTQEFEKSKRKNPAAY--VN---*
+>P1;1ezvg
+structureX:1ezv:   2 :G:  94 :G:yeast cytochrome Bc1 complex co- crystallized with an antibody fv-fragment:Saccharomyces cerevisiae: 2.30: 22.2
+GPPSGKTYMGWWGHMGGPKQKGITSYAVSPYAQKPLQGIFHNAVFNSFRRFKSQFLYVLIPAGIYWYWWK
+NGNEYNEFLYS-KAGREELERVNV*
+>P1;gi|3659973|pdb|1BCC|G Chain G, Cytochrome Bc1 Complex From Chick... [ score 149 E 2e-35 ] [ range 1 .. 81 ]
+sequence
+G--------RQFGHL--TRVRHLITYSLSPFEQRPFPHYFSKGVPNVWRRLRACILRVAPPFLAFYLLYT
+WGTQEFEKSKRKNPAAYVNDR---*
+>P1;gi|21539585|ref|NP_079628.1| low molecular mass ubiquinone-bindi... [ score 148 E 2e-35 ] [ range 2 .. 82 ]
+sequence
+G--------REFGNL--ARIRHVISYSLSPFEQRAFPSYFSKGIPNVLRRTRERILRVAPPFVVVYLIYT
+WGNQEFEQSKRKNPAMYENDK---*
+>P1;gi|32482836|gb|AAP84717.1| low molecular mass ubiquinone-binding... [ score 148 E 2e-35 ] [ range 2 .. 82 ]
+sequence
+G--------REFGNL--TRIRHVISYSLSPFEQRAFPHYFSKGIPNVLRRTRERILRVAPPFVLFYLIYT
+WGNQEFAQSKRKNPAKYENDK---*
+>P1;gi|20141846|sp|O14949|UCRQ_HUMAN Ubiquinol-cytochrome C reductas... [ score 145 E 3e-34 ] [ range 2 .. 82 ]
+sequence
+G--------REFGNL--TRMRHVISYSLSPFEQRAYPHVFTKGIPNVLRRIRESFFRVVPQFVVFYLIYT
+WGTEEFERSKRKNPAAYENDK---*
+>P1;gi|21355243|ref|NP_648985.1| CG7580-PA [Drosophila melanogaster]... [ score 133 E 7e-31 ] [ range 9 .. 88 ]
+sequence
+G--------QHFGNL--AKVHGIVTYKLSPFEQRAFAGAISKGLPNMVRRFRSNVFIVTPPFIVGYLIYD
+LTERKHTALLRKNPADYAND----*
+>P1;gi|31205317|ref|XP_311607.1| ENSANGP00000022635 [Anopheles gambi... [ score 133 E 8e-31 ] [ range 8 .. 87 ]
+sequence
+G--------HGFGEL--AKVRGIVTHKISPFEQRAFANVISKGVPNTLRRIRSQVFIVAPPFVMGYMVYN
+YIENLHTQMNRKNPAEFEND----*
+>P1;gi|19115626|ref|NP_594714.1| ubiquinol-cytochrome c reductase co... [ score 105 E 2e-22 ] [ range 14 .. 84 ]
+sequence
+-----------WGHL--PKQKGIITYSLSPFQQRPMAGFFKTSTQNMFRRVMTEGLYVAIPFGIAYYIYC
+WGKEEFLNSK--------------*
+>P1;gi|38106585|gb|EAA52875.1| hypothetical protein MG06003.4 [Magna... [ score 68 E 6e-11 ] [ range 35 .. 98 ]
+sequence
+------------------KQKGIITYNVTPNRQRPFAGAGHAAVFNTWRRFKGQVLYIVPPFVAAYYIMD
+WATHEFLNSK--------------*
+>P1;gi|17534121|ref|NP_496838.1| ubiquinone-binding protein like (10... [ score 65 E 4e-10 ] [ range 9 .. 90 ]
+sequence
+G--------KHFGNL--GKMYGEHRFALAPNEQKAYKGFFDQAFVKTFKTVWDQWYYYIPQTIGAYLLYD
+WAKKTNVAANRKNPADFANDQ---*
+>P1;gi|39591289|emb|CAE73342.1| Hypothetical protein CBG20773 [Caeno... [ score 64 E 9e-10 ] [ range 9 .. 90 ]
+sequence
+G--------KHFGNL--GKMYGEHRFALAPNEQKAYKGFLDQAFVKTFKTVWDQWYYYIPQTIGAYLLYD
+WAKKTNHEANRKNPADYANDQ---*
+>P1;gi|42547160|gb|EAA70003.1| hypothetical protein FG10305.1 [Gibbe... [ score 59 E 2e-08 ] [ range 23 .. 93 ]
+sequence
+-----------WGHF--GKQRGIITYGLSANRQNPWAGSFNDAIFNTFRRTKGQIFFWLPPMVAGYWMMS
+WAIEEYLNSK--------------*
+>P1;gi|32421791|ref|XP_331339.1| hypothetical protein [Neurospora cr... [ score 58 E 5e-08 ] [ range 25 .. 96 ]
+sequence
+----------GWGNF--GKQRGIISYGISPNRQNPLAGTAHDAVFNTFRRVSSQFLYWAPSLVAGYYIMN
+WARNHYLNSK--------------*
+>P1;gi|6322295|ref|NP_012369.1| Ubiquinol cytochrome-c reductase sub... [ score 56 E 3e-07 ] [ range 13 .. 83 ]
+sequence
+-----------WGHM--PKQKGITSYAVSPYAQKPLQGIFHNAVFNSFRRFKSQFLYVLIPAGIYWYWWK
+NGNEEFLYSK--------------*
+>P1;gi|27807383|ref|NP_777230.1| low molecular mass ubiquinone-bindi... [ score 144 E 5e-34 ] [ range 3 .. 80 ]
+sequence
+---------RQFGHL--TRVRHVITYSLSPFEQRAFPHYFSKGIPNVLRRTRACILRVAPPFVAFYLVYT
+WGTQEFEKSKRKNPAAY--EN---*
+>P1;gi|21539585|ref|NP_079628.1| low molecular mass ubiquinone-bindi... [ score 139 E 1e-32 ] [ range 3 .. 80 ]
+sequence
+---------REFGNL--ARIRHVISYSLSPFEQRAFPSYFSKGIPNVLRRTRERILRVAPPFVVVYLIYT
+WGNQEFEQSKRKNPAMY--EN---*
+>P1;gi|32482836|gb|AAP84717.1| low molecular mass ubiquinone-binding... [ score 139 E 1e-32 ] [ range 3 .. 80 ]
+sequence
+---------REFGNL--TRIRHVISYSLSPFEQRAFPHYFSKGIPNVLRRTRERILRVAPPFVLFYLIYT
+WGNQEFAQSKRKNPAKY--EN---*
+>P1;gi|20141846|sp|O14949|UCRQ_HUMAN Ubiquinol-cytochrome C reductas... [ score 136 E 2e-31 ] [ range 3 .. 80 ]
+sequence
+---------REFGNL--TRMRHVISYSLSPFEQRAYPHVFTKGIPNVLRRIRESFFRVVPQFVVFYLIYT
+WGTEEFERSKRKNPAAY--EN---*
+>P1;gi|32421791|ref|XP_331339.1| hypothetical protein [Neurospora cr... [ score 71 E 5e-12 ] [ range 26 .. 96 ]
+sequence
+-----------WGNF--GKQRGIISYGISPNRQNPLAGTAHDAVFNTFRRVSSQFLYWAPSLVAGYYIMN
+WAIERYLNSK--------------*
+>P1;gi|17534121|ref|NP_496838.1| ubiquinone-binding protein like (10... [ score 64 E 1e-09 ] [ range 10 .. 88 ]
+sequence
+---------KHFGNL--GKMYGEHRFALAPNEQKAYKGFFDQAFVKTFKTVWDQWYYYIPQTIGAYLLYD
+WAKKTNVAANRKNPADF--AN---*
+>P1;gi|39598135|emb|CAE68827.1| Hypothetical protein CBG14786 [Caeno... [ score 62 E 2e-09 ] [ range 10 .. 88 ]
+sequence
+---------KHFGNL--GKMYGEHRFALAPNEQKAYKGFLDQAFVKTFKTVWDQWYYYIPQTIGAYLLYD
+WAKKTNHEANRKNPADY--AN---*
+>P1;gi|45190486|ref|NP_984740.1| AEL121Wp [Eremothecium gossypii] >g... [ score 165 E 2e-40 ] [ range 2 .. 93 ]
+sequence
+GGPHGKAYMGWWGSMGSPKQKYITSYAVSPYAQKPLAGIFHNAVFNTFRRVRAQALYVIIPFGLYYAWWA
+NCRDYNEFLYT-KAGREELERVN-*
+>P1;gi|1351363|sp|P49346|UCRQ_KLULA Ubiquinol-cytochrome C reductase... [ score 162 E 1e-39 ] [ range 2 .. 94 ]
+sequence
+GGPHAKAYMGWWGSIGSPAQKGITTYTVSPYAQKPLNNIFHNAVFNTFRRVKSQILYMALPAALYWAWWV
+NCRDYNAYLYT-KAGREELERVNV*
+>P1;gi|19115626|ref|NP_594714.1| ubiquinol-cytochrome c reductase co... [ score 152 E 1e-36 ] [ range 3 .. 91 ]
+sequence
+GAAGGKTYLGWWGHLGGPKQKGIITYSLSPFQQRPMAGFFKTSTQNMFRRVMTEGLYVAIPFGIAYYIYC
+WGKERNEFLNS-KHGRHLVE----*
+>P1;gi|32421791|ref|XP_331339.1| hypothetical protein [Neurospora cr... [ score 146 E 1e-34 ] [ range 13 .. 101 ]
+sequence
+GAPIGKHYLGGWGNFGGMKQRGIISYGISPNRQNPLAGTAHDAVFNTFRRVSSQFLYWAPSLVAGYYIMN
+WAIERNHYLNS-KAGRAE------*
+>P1;gi|42547160|gb|EAA70003.1| hypothetical protein FG10305.1 [Gibbe... [ score 145 E 2e-34 ] [ range 14 .. 98 ]
+sequence
+--PKNGHYIGNWGHFGGEKQRGIITYGLSANRQNPWAGSFNDAIFNTFRRTKGQIFFWLPPMVAGYWMMS
+WAIERSEYLNS-KAGRAE------*
+>P1;gi|38106585|gb|EAA52875.1| hypothetical protein MG06003.4 [Magna... [ score 136 E 2e-31 ] [ range 14 .. 103 ]
+sequence
+-GPIGKKYLGGWGGFGTPKQKGIITYNVTPNRQRPFAGAGHAAVFNTWRRFKGQVLYIVPPFVAAYYIMD
+WATHENHFLNS-KPGRAL------*
+>P1;gi|42820758|emb|CAF32071.1| ubiquinol-cytochrome c reductase com... [ score 112 E 2e-24 ] [ range 7 .. 67 ]
+sequence
+--------------LGCPTPQRIVTYSLSSNRQRPLAGAFHAAIFNTFRRFRSQVLYVVPPFVVAYAAMN
+WAIER-------------------*
+>P1;gi|21355243|ref|NP_648985.1| CG7580-PA [Drosophila melanogaster]... [ score 61 E 6e-09 ] [ range 11 .. 74 ]
+sequence
+-------------HFGNAKVHGIVTYKLSPFEQRAFAGAISKGLPNMVRRFRSNVFIVTPPFIVGYLIYD
+L-TERKH-----------------*
+>P1;gi|3659973|pdb|1BCC|G Chain G, Cytochrome Bc1 Complex From Chick... [ score 59 E 3e-08 ] [ range 11 .. 70 ]
+sequence
+--------------------RHLITYSLSPFEQRPFPHYFSKGVPNVWRRLRACILRVAPPFLAFYLLYT
+WGTQ--EFEKS-K-----------*
+>P1;gi|32482836|gb|AAP84717.1| low molecular mass ubiquinone-binding... [ score 58 E 6e-08 ] [ range 12 .. 71 ]
+sequence
+--------------------RHVISYSLSPFEQRAFPHYFSKGIPNVLRRTRERILRVAPPFVLFYLIYT
+WGNQ--EFAQS-K-----------*
+>P1;gi|21539585|ref|NP_079628.1| low molecular mass ubiquinone-bindi... [ score 57 E 1e-07 ] [ range 12 .. 71 ]
+sequence
+--------------------RHVISYSLSPFEQRAFPSYFSKGIPNVLRRTRERILRVAPPFVVVYLIYT
+WGNQ--EFEQS-K-----------*
+>P1;gi|27807383|ref|NP_777230.1| low molecular mass ubiquinone-bindi... [ score 56 E 1e-07 ] [ range 12 .. 71 ]
+sequence
+--------------------RHVITYSLSPFEQRAFPHYFSKGIPNVLRRTRACILRVAPPFVAFYLVYT
+WGTQ--EFEKS-K-----------*
+>P1;gi|7657486|ref|NP_055217.1| low molecular mass ubiquinone-bindin... [ score 54 E 5e-07 ] [ range 12 .. 71 ]
+sequence
+--------------------RHVISYSLSPFEQRAYPHVFTKGIPNVLRRIRESFFRVVPQFVVFYLIYT
+WGTE--EFERS-K-----------*

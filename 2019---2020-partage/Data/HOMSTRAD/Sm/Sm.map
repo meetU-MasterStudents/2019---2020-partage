@@ -1,0 +1,1124 @@
+>P1;1d3bb
+structureX:1d3b:   7 :B:  87 :B:small nuclear ribonucleoprotein associated proteins B (snRNP-b):Homo sapiens: 2.00: 21.3
+----SKMLQHI--DYRMRCILQDGRIFIGTFKAFDKHMNLILCDCDEFRKIKPKNSKQAEREEKRVLGLV
+LLRGENLVSMTVEGPPP------*
+>P1;1b34b
+structureX:1b34:  26 :B: 118 :B:small nuclear ribonucleoprotein Sm D2 (snRNP core protein D2):Homo sapiens: 2.50: 24.9
+TGPLSVLTQSVKNNTQVLINCRNNKKLLGRVKAFDRHCNMVLENVKEM---------------DRYISKM
+FLRGDSVIVVLRNPLIA----GK*
+>P1;1b34a
+structureX:1b34:   2 :A:  81 :A:small nuclear ribonucleoprotein Sm D1 (snRNP core protein D1):Homo sapiens: 2.50: 24.9
+-KLVRFLMKLS--HETVTIELKNGTQVHGTITGVDVSMNTHLKAVKMTLKN----------REPVQLETL
+SIRGNNIRYFILPDSLPLDTLLV*
+>P1;1d3ba
+structureX:1d3b:   4 :A:  75 :A:small nuclear ribonucleoprotein Sm D3 (snRNP core protein D3):Homo sapiens: 2.00: 21.3
+GVPIKVLHEAE--GHIVTCETNTGEVYRGKLIEAEDNMNCQMSNITVTYRD----------GRVAQLEQV
+YIRGCKIRFLILPD---------*
+>P1;gi|38076462|ref|XP_147856.2| similar to Small nuclear ribonucleo... [ score 167 E 4e-41 ] [ range 7 .. 87 ]
+sequence
+----SKMLQHI--DYGMRCILQDGRIFIGTFAVFDKHMNLILCDCDEFGKIKPKNAKQPEREEKWVLGLV
+LLRGENLVSMTVEGPSP------*
+>P1;gi|34869034|ref|XP_345547.1| similar to Small nuclear ribonucleo... [ score 156 E 1e-37 ] [ range 7 .. 87 ]
+sequence
+----SKMLQHI--DYRTRCFLQDGRIFIGIFKAFDKHMNSILCDCDEFRKIKPKNEKQTECEEKRVLGLV
+LLRGENLVFVTVEGPSP------*
+>P1;gi|39582947|emb|CAE73012.1| Hypothetical protein CBG20368 [Caeno... [ score 150 E 9e-36 ] [ range 7 .. 87 ]
+sequence
+----NKMMAHL--NYRMKIILQDGRTFVGFFKAFDKHMNILLAECEEHRQIKPKAGKKADGEEKRILGLV
+LLRGEHIVSMTVDGPPP------*
+>P1;gi|17509627|ref|NP_493348.1| small nuclear ribonucleoprotein, sm... [ score 149 E 2e-35 ] [ range 7 .. 87 ]
+sequence
+----NKMMAHL--NYRMKIILQDGRTFIGFFKAFDKHMNILLAECEEHRQIKPKAGKKTDGEEKRILGLV
+LVRGEHIVSMTVDGPPP------*
+>P1;gi|134545|sp|P17136|RSMB_RAT Small nuclear ribonucleoprotein ass... [ score 147 E 6e-35 ] [ range 2 .. 70 ]
+sequence
+------------------CSLQNGRIFIGTFKAFDKHMNLILCDCDEFRKIKPKNSKQAEREEKRVLGLV
+LLRGENLVSMTVEGPPP------*
+>P1;gi|21536707|gb|AAM61039.1| putative snRNP protein [Arabidopsis t... [ score 146 E 1e-34 ] [ range 7 .. 90 ]
+sequence
+----SKMLQFI--NYRMRVTIQDGRQLIGKFMAFDRHMNLVLGDCEEFRKLPPKGNKKTEREERRTLGLV
+LLRGEEVISMTVEGPPP------*
+>P1;gi|15237095|ref|NP_193777.1| small nuclear ribonucleoprotein ass... [ score 145 E 2e-34 ] [ range 7 .. 89 ]
+sequence
+----SKMLQFI--NYRMRVTIQDGRQLVGKFMAFDRHMNLVLGDCEEFRKLPPAKGKKEEREDRRTLGLV
+LLRGEEVISMTVEGPPP------*
+>P1;gi|17136806|ref|NP_476921.1| Small ribonucleoprotein particle pr... [ score 144 E 4e-34 ] [ range 7 .. 82 ]
+sequence
+----NKMIQHL--NYRVRIVLQDSRTFIGTFKAFDKHMNLILGDCEEFRKIRSKNSKVPEREEKRVLGFV
+LLRGENIVSLTV-----------*
+>P1;gi|32422527|ref|XP_331707.1| hypothetical protein [Neurospora cr... [ score 141 E 4e-33 ] [ range 9 .. 100 ]
+sequence
+-----KMAGYI--NYRMRVTLNDGRQMTGQMLAFDKHMNLVLADAEEFRRIKRRQNKPAEQEEKRTLGLT
+IIRGAHIVSLSVESPPP------*
+>P1;gi|38107284|gb|EAA53477.1| hypothetical protein MG07754.4 [Magna... [ score 140 E 5e-33 ] [ range 9 .. 100 ]
+sequence
+-----KMAGYI--NYRMRVTLNDGRQMVGQMMAFDKHMNLVLADTEEFRKIKRKQAKPAESEEKRTLGLT
+IVRGAQIVSLSVESPPP------*
+>P1;gi|40741629|gb|EAA60819.1| hypothetical protein AN4476.2 [Asperg... [ score 139 E 1e-32 ] [ range 8 .. 93 ]
+sequence
+-----KMQNLI--NYRMRVTLNDGRQMTGQMLAFDKHMNLVLADTEEFRRVKRKNAPLVEAEEKRTLGLT
+IVRGTHVVSCSVDGPPP------*
+>P1;gi|31213159|ref|XP_315523.1| ENSANGP00000007148 [Anopheles gambi... [ score 139 E 1e-32 ] [ range 7 .. 82 ]
+sequence
+----NKMIQLL--NYRVRIVLQDSRTFIGTFKAFDKHMNLILGDCEEFRKIKPKNTKLPEREEKRVLGFV
+LLRGGNIVSLTI-----------*
+>P1;gi|42545066|gb|EAA67909.1| hypothetical protein FG01082.1 [Gibbe... [ score 137 E 5e-32 ] [ range 7 .. 97 ]
+sequence
+-----KMAGYI--NWRMRVTLNDGRAMTGQMLAFDKHMNLVLADTEEFRRVKRKQNKPAESEEKRTLGLT
+IVRGAHIISLSVESPPP------*
+>P1;gi|42733657|gb|AAO50828.2| similar to Arabidopsis thaliana (Mous... [ score 136 E 1e-31 ] [ range 1 .. 77 ]
+sequence
+------MLQYI--NYRMRVTIQDGRVIVGRFLAFDKHMNVVICDAEEFRRIRQKG--KEDREEKRTLGMI
+LIRGETVVSMSVEAPPP------*
+>P1;gi|42662493|ref|XP_377715.1| similar to Small nuclear ribonucleo... [ score 129 E 1e-29 ] [ range 31 .. 98 ]
+sequence
+-------------------ICWEGTIFFGIFKAFDKHVNLILCDCDEFRKIKPKNVKQPELEEKHFWGLV
+LLHGENLVSMTVEGLPP------*
+>P1;gi|19115063|ref|NP_594151.1| small nuclear ribonucleoprotein ass... [ score 129 E 2e-29 ] [ range 4 .. 85 ]
+sequence
+----TKMVSLL--NHSLNVTTKDGRTFVGQLLAFDGFMNLVLSDCQEYRHIKKQNPSNSVYEEKRMLGLV
+ILRGEFIVSLSVQGPPP------*
+>P1;gi|34900024|ref|NP_911358.1| putative snRNP protein [Oryza sativ... [ score 120 E 6e-27 ] [ range 60 .. 142 ]
+sequence
+----SKMLQFV--NYRMRVTIQDGRQLVGKFMAFDRHMNLVLGDCEEFRKLPPSKSSKTEREERRTLGLL
+LLRGEEVVSMTVEGPPP------*
+>P1;gi|41107641|gb|AAH65369.1| Unknown (protein for MGC:71285) [Homo... [ score 119 E 1e-26 ] [ range 47 .. 108 ]
+sequence
+----SKMLPHT--DHRMRRILQDGRVFIGTFKAFDKHMNMIPCDCDEFRKMKLKNAKQPAREEKRVSG--
+-----------------------*
+>P1;gi|23509367|ref|NP_702034.1| ribonucleoprotein, putative [Plasmo... [ score 116 E 1e-25 ] [ range 5 .. 82 ]
+sequence
+----SRLETWL--QYRVRVTISDTRYFVGTFLSYDRHMNIVLVDAEEFRKVKSQENSL--KEIKRVVGLI
+LIRGENIVSFTAEQAP-------*
+>P1;gi|34875499|ref|XP_224436.2| similar to Small nuclear ribonucleo... [ score 107 E 8e-23 ] [ range 3 .. 66 ]
+sequence
+-----------------------GRFFIGTLKAFDKHINLILCDCNELRKIKPKNAKQPEREEKPVLGLV
+LLLGDNLVSMTVEGSPP------*
+>P1;gi|6320867|ref|NP_010946.1| associated with U1, U2, U4, and U5 s... [ score 105 E 3e-22 ] [ range 10 .. 101 ]
+sequence
+----SRLANLI--DYKLRVLTQDGRVYIGQLMAFDKHMNLVLNECIEERKLRPKDSKDGTKVEKRVLGLT
+ILRGEQILSTVVEDKP-------*
+>P1;gi|40254988|ref|NP_115732.2| hypothetical protein MGC14151 [Homo... [ score 96 E 1e-19 ] [ range 93 .. 171 ]
+sequence
+------LEALL--NKTMRIRMTDGRTLVGCFLCTDRDCNVILGSAQEF--LKPSDSFSAG--EPRVLGLA
+MVPGHHIVSIEVQGPP-------*
+>P1;gi|33944811|ref|XP_340553.1| small nuclear ribonucleoprotein pro... [ score 95 E 3e-19 ] [ range 6 .. 78 ]
+sequence
+------MLHNI--NRTLRVTLVDGREMTGKMLLFDKFMNVVLADTVETRK-ETKKMKDAGISPQRKLGMI
+LLRGEYVVAVSV-----------*
+>P1;gi|24581280|ref|NP_722859.1| CG31950-PA [Drosophila melanogaster... [ score 92 E 2e-18 ] [ range 44 .. 114 ]
+sequence
+-----KLQKWL--GRVLRIVITDGRVLVGFFNCTDRDANIVLSMCAEY---------LVEGQEPRLLGNV
+MVPGQHIVSLSIDEPDP------*
+>P1;gi|24655606|ref|NP_647660.1| CG2021-PA [Drosophila melanogaster]... [ score 84 E 6e-16 ] [ range 2 .. 66 ]
+sequence
+----SGLESYI--NHTVSIITADGRNFIGTLKGFDQTINIIIDECHE------RVFSTTSGIEQIVLGLH
+IIRGDNI----------------*
+>P1;gi|6322337|ref|NP_012411.1| Like Sm protein; the finding that Ls... [ score 82 E 3e-15 ] [ range 46 .. 112 ]
+sequence
+------IVSSV--DRKIFVLLRDGRMLFGVLRTFDQYANLILQDCVE-RIYFSEENKYAEEDR----GIF
+MIRGENVVML-------------*
+>P1;gi|207008|gb|AAA42158.1| small nuclear ribonucleoparticle-associ... [ score 79 E 2e-14 ] [ range 6 .. 53 ]
+sequence
+---------------------------------------LVLTTAIVEQQSWPKNAKQPEREEKRVLGLV
+LLRGENLVSMTVEGPPP------*
+>P1;gi|45198309|ref|NP_985338.1| AFL212Cp [Eremothecium gossypii] >g... [ score 74 E 8e-13 ] [ range 26 .. 92 ]
+sequence
+------IVGSV--DRKIFVLLRDGRMLFGVLRTFDQYANLILQHCVE-RIYIPEEGQYGECER----GVF
+MVRGENVVML-------------*
+>P1;gi|34865717|ref|XP_235198.2| similar to SF21 [Rattus norvegicus] [ score 74 E 9e-13 ] [ range 127 .. 160 ]
+sequence
+-----------------------------------------------------KECKQPEREEKRVLGLV
+LLRGENLVSMTVEGPPP------*
+>P1;gi|7706425|ref|NP_057284.1| U6 snRNA-associated Sm-like protein ... [ score 74 E 1e-12 ] [ range 3 .. 67 ]
+sequence
+----SALENYI--NRTVAVITSDGRMIVGTLKGFDQTINLILDESHE------RVFSSSQGVEQVVLGLY
+IVRGDNV----------------*
+>P1;gi|45191033|ref|NP_985287.1| AER432Cp [Eremothecium gossypii] >g... [ score 72 E 2e-12 ] [ range 9 .. 51 ]
+sequence
+----STLKDLI--DYKLRVLSQDGRVYVGTLLAFDAHMNLVLADCVEER---------------------
+-----------------------*
+>P1;gi|31240533|ref|XP_320680.1| ENSANGP00000020162 [Anopheles gambi... [ score 73 E 2e-12 ] [ range 2 .. 66 ]
+sequence
+----SGLESYV--NNTVSIITADGRNFVGTLKGFDQTVNVILDESHE------RVYSMTAGIEQVVLGLH
+IIRGDNI----------------*
+>P1;gi|34857612|ref|XP_344913.1| similar to hypothetical protein MGC... [ score 71 E 8e-12 ] [ range 31 .. 100 ]
+sequence
+------LEALL--NKTMGIRMTDRRTLVSCFLCTDRDCNVILGSAKEF--LKLSDSFSAG--EPRVLG-H
+MVPGHHIVSIEVQ----------*
+>P1;gi|38101550|gb|EAA48496.1| hypothetical protein MG00154.4 [Magna... [ score 68 E 5e-11 ] [ range 10 .. 106 ]
+sequence
+------LSSLL--NKYLRVTTTDTRMFYGVFKCTDPDRNLILAHAHEYRHPTPEQVKMTLGMTSRYLGLI
+VVPGEHIVKIEVEE---------*
+>P1;gi|42545033|gb|EAA67876.1| hypothetical protein FG00901.1 [Gibbe... [ score 66 E 2e-10 ] [ range 10 .. 95 ]
+sequence
+------LATIL--NKNLRVYTSDGRLFWGSLKCTDPDRNIVLSHTYEYRQPSSREREKAVEETSRYLGLV
+VIPGHHIAKMEVEQ---------*
+>P1;gi|40740810|gb|EAA60000.1| hypothetical protein AN3792.2 [Asperg... [ score 65 E 5e-10 ] [ range 10 .. 103 ]
+sequence
+------LESLI--GRTLRVHATDTRIFVGVFKCTDAARNIILANTHEYRETPKESQKLKLNMTSRFIGLV
+VVPGQHITSIELEETP-------*
+>P1;gi|15218779|ref|NP_176747.1| small nuclear ribonucleoprotein, pu... [ score 64 E 6e-10 ] [ range 5 .. 69 ]
+sequence
+----TGLETLV--DQIISVITNDGRNIVGVLKGFDQATNIILDESHE------RVFSTKEGVQQHVLGLY
+IIRGDNI----------------*
+>P1;gi|25404943|pir||G96681 protein F1E22.8 [imported] - Arabidopsis... [ score 61 E 8e-09 ] [ range 493 .. 554 ]
+sequence
+-------LSSI--VKIISVITNDGRNIVGVLKGFDQATNIILDESHE------RVFSTKEGVQQHVLGLY
+IIRGDNI----------------*
+>P1;gi|22328770|ref|NP_680719.1| small nuclear ribonucleoprotein-rel... [ score 61 E 8e-09 ] [ range 25 .. 98 ]
+sequence
+----SRLRKLL--FRQMLVGIKDGRFFLGNFHCIDKQGNIILQDTVEYRSIRRSSPSPT---EQRCLGMI
+LIPSSCRTSCHVD----------*
+>P1;gi|6324182|ref|NP_014252.1| Like Sm-G protein; Lsm7p [Saccharomy... [ score 59 E 3e-08 ] [ range 22 .. 95 ]
+sequence
+------LAKYK--DSKIRVKLMGGKLVIGVLKGYDQLMNLVLDDTVEYMS-NPDDENNTELISKRKLGLT
+VIRGTILVSLS------------*
+>P1;gi|41581243|emb|CAE47892.1| u6 snrna-associated sm-like protein,... [ score 58 E 3e-08 ] [ range 5 .. 69 ]
+sequence
+--------SYI--NKKVLILTVDGRTLLGTLLSTDQLTNLVLLDTIERIIRTPDDPEPSSQIEH---GLY
+LIRGDNVV---------------*
+>P1;gi|23612724|ref|NP_704263.1| u6 snRNA-associated sm-like protein... [ score 58 E 4e-08 ] [ range 6 .. 66 ]
+sequence
+------IESYL--ENEILVITNDSRIFTGKLKGFDQTTNIILGNCHE-RIYK-------ESMEKISLGVY
+IIRGDTV----------------*
+>P1;gi|17544148|ref|NP_500964.1| u6 snRNA-associated Sm-like protein... [ score 57 E 7e-08 ] [ range 3 .. 67 ]
+sequence
+----STLDAYM--NRMVNVVTGDGRVIVGLLKGFDQLINLVIEDAHE------RSYSETEGVLTTPLGLY
+IIRGENV----------------*
+>P1;gi|19075840|ref|NP_588340.1| putative snRNP splicing factor; wit... [ score 57 E 1e-07 ] [ range 31 .. 94 ]
+sequence
+---------YQ--DQRIQATFTGGRQITGILKGFDQLMNLVLDDVEEQLR-NPEDGKLTGAIRK--LGLV
+VVRGTTLV---------------*
+>P1;gi|44416865|gb|EAJ11896.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 1 .. 65 ]
+sequence
+------MVENL--DKRLLVALRDGSHIIGTLRSFDQFANIVLEHAVE-RIIVGRMYSD------IPLGLY
+IVRGENVVLM-------------*
+>P1;gi|39584186|emb|CAE61561.1| Hypothetical protein CBG05470 [Caeno... [ score 56 E 2e-07 ] [ range 3 .. 67 ]
+sequence
+----STLESYM--NRMVNVVTGDGRVIVGLLKGFDQLINLVIEDAHE------RCYSETDGVLITPLGLY
+IIRGENV----------------*
+>P1;gi|42873753|gb|EAB04132.1| unknown [environmental sequence] [ score 55 E 4e-07 ] [ range 3 .. 69 ]
+sequence
+----------------VRVKFQGGREVNGKLKGFDQLVNLVLDDCIEF--VRDPEDPYRLTDETRSLGLV
+ICRGTSVMLISVDG---------*
+>P1;gi|42545636|gb|EAA68479.1| hypothetical protein FG00466.1 [Gibbe... [ score 54 E 1e-06 ] [ range 30 .. 91 ]
+sequence
+---------------KVLIVTADSRILVGTMAACDQTTNLVLNNAVE-RIIRTPDDSEPSAQVP--LGLY
+LVRGDNVCSI-------------*
+>P1;gi|17544592|ref|NP_502034.1| u6 snRNA-associated Sm-like protein... [ score 53 E 1e-06 ] [ range 19 .. 86 ]
+sequence
+---------FL--DKEIRVKFQGGREASGVLRGFDQLLNMVLDDCREY--LRDPQNPSVVGDETRQLGLI
+VARGTAITVVS------------*
+>P1;gi|43445054|gb|EAD77143.1| unknown [environmental sequence] >gi|... [ score 53 E 2e-06 ] [ range 10 .. 70 ]
+sequence
+----------I--NKKVLIKLKGGKTITGMLQGFDQHMNLLLDQSEEI----------PSEGDSKSLGSI
+VVRGDNVVMIS---PP-------*
+>P1;gi|29250819|gb|EAA42307.1| GLP_440_43387_42998 [Giardia lamblia ... [ score 53 E 2e-06 ] [ range 6 .. 68 ]
+sequence
+-----KLVNYV--GSPLTVHALNGYVYTGTLLAIDRHMNMVISSC--CCRVK---------ESARSLGLV
+VLRGEEVAFFT------------*
+>P1;gi|45331353|gb|AAS57930.1| Lsm8p [Trypanosoma brucei] [ score 53 E 2e-06 ] [ range 2 .. 99 ]
+sequence
+------LSQYL--RRRVSVVTVDGRYLVGVLHAADQLMNLVLTSCAEEDSTDPKNNRNPGGEREHSLGVL
+MIRGSDVVCVTVEE---------*
+>P1;gi|39593669|emb|CAE61961.1| Hypothetical protein CBG05961 [Caeno... [ score 52 E 2e-06 ] [ range 19 .. 86 ]
+sequence
+---------FL--DKEIRVKFQGGREASGVLRGFDQLLNMVLDDCREY--LRDPQNPSVIGDETRPLGLI
+VARGTAITVVS------------*
+>P1;gi|31241953|ref|XP_321407.1| ENSANGP00000012242 [Anopheles gambi... [ score 52 E 3e-06 ] [ range 9 .. 71 ]
+sequence
+------MLYEV--DKKLMVLLHDGRTLIGYLRSVDQFANLVL-----HRTIERIHVGNEYGDIQR--GVV
+IIRGENVV---------------*
+>P1;gi|18400270|ref|NP_566476.1| small nuclear ribonucleoprotein, pu... [ score 52 E 3e-06 ] [ range 13 .. 77 ]
+sequence
+----TSLASYL--DRKLLVLLRDGRKLMGTLRSFDQFANAVLEGACERVIVGEQYCDIP-------LGLY
+VIRGENVV---------------*
+>P1;gi|32420717|ref|XP_330802.1| hypothetical protein [Neurospora cr... [ score 52 E 4e-06 ] [ range 11 .. 70 ]
+sequence
+---------YL--DKRLFVQLNGSRKVIGVLRGYDVFLNIVLDDAVEEK----------DGGEKVKLGMV
+TIRGNSVVMME------------*
+>P1;gi|18860007|ref|NP_573139.1| CG9742-PA [Drosophila melanogaster]... [ score 52 E 4e-06 ] [ range 12 .. 71 ]
+sequence
+---------YM--DKRMMLKLNGGRAVTGILRGFDPFMNVVLDDTVEECKDNTKNN----------IGMV
+VIRGNSIVMVE------------*
+>P1;gi|6323471|ref|NP_013543.1| Like Sm-D2 protein; contains Sm-like... [ score 52 E 4e-06 ] [ range 12 .. 73 ]
+sequence
+----------L--DERVYIKLRGARTLVGTLQAFDSHCNIVLSDAVET--IYQLNNEELSESERRCE-MV
+FIRGDTV----------------*
+>P1;gi|34879178|ref|XP_344537.1| similar to U6 snRNA-associated Sm-l... [ score 52 E 4e-06 ] [ range 135 .. 197 ]
+sequence
+------LIEDI--DKKHLVLLRDGRTLIGFLRSIDQFANLVLHQTVERIHVGRK-----YGDIPR--GIF
+VVRGENVV---------------*
+>P1;gi|42551485|gb|EAA74328.1| hypothetical protein FG10875.1 [Gibbe... [ score 52 E 5e-06 ] [ range 34 .. 109 ]
+sequence
+------LLDLT--DKKLMVALRDGRKLIGVLRSWDQFANLVLQSTIE--RIFAPSPDSAGSDRPTGLGIF
+LVRGENVLLL-------------*
+>P1;gi|34394185|dbj|BAC84637.1| putative small nuclear ribonucleopro... [ score 51 E 5e-06 ] [ range 13 .. 77 ]
+sequence
+---------YM--DKKLQIKLNANRVVIGTLRGFDQFMNLVVDNTVE-----------VNGNEKNDIGMV
+VIRGNSVVMIEALEPVP------*
+>P1;gi|15897150|ref|NP_341755.1| Small nuclear riboprotein protein (... [ score 51 E 5e-06 ] [ range 16 .. 78 ]
+sequence
+----------I--NRIVLVKLKDGSEYIGKLEQTDGTMNLVLRDCTEIRE--------GTSEPVAKYGRV
+LIRGSNILFISVD----------*
+>P1;gi|16081975|ref|NP_394385.1| hypothetical protein [Thermoplasma ... [ score 51 E 6e-06 ] [ range 4 .. 62 ]
+sequence
+------LEESV--NKRVSLLLKDNRVLEGVLTGFDEYMNMVLDDVDE-------NSENV----SRKLGTV
+VVRGSNVV---------------*
+>P1;gi|13541906|ref|NP_111594.1| Small nuclear ribonucleoprotein (sn... [ score 51 E 6e-06 ] [ range 8 .. 66 ]
+sequence
+------LEESV--NKRVSLLLKDNRVLEGTLTGYDDYMNMVLDDVDE-------NSENV----SRKLGTV
+VIRGSNVV---------------*
+>P1;gi|38100589|gb|EAA47695.1| hypothetical protein MG02938.4 [Magna... [ score 51 E 6e-06 ] [ range 61 .. 127 ]
+sequence
+------LAKYM--DKEVQVKFNGGREVIGTLKGYDALMNLVLDEVKETMRDEEGN------ESSRPLGLV
+VVRGTLLVAIS------------*
+>P1;gi|19076009|ref|NP_588509.1| splicing factor [Schizosaccharomyce... [ score 51 E 7e-06 ] [ range 3 .. 68 ]
+sequence
+------LADFM--EQRVQVITNDGRVVLGSLKGFDHTTNLILSDSFERIISMDQDM------ETIPLGVY
+LLRGENVAMV-------------*
+>P1;gi|14600779|ref|NP_147300.1| small nuclear ribonucleoprotein [Ae... [ score 51 E 7e-06 ] [ range 13 .. 74 ]
+sequence
+------MLDYV--DTPVLVKLKSGLRIKGVLKTYDQHLNIILGDAEEI----------GETSIRR-LGLT
+LVRGDSVVVIT------------*
+>P1;gi|24656769|ref|NP_611559.1| CG4279-PA [Drosophila melanogaster]... [ score 51 E 7e-06 ] [ range 13 .. 75 ]
+sequence
+------LLEEV--DKKLMVLLRDGRTLIGYLRSVDQFANLVLQ-----RTIERIHVGNEYGDIPR--GVF
+IIRGENVV---------------*
+>P1;gi|45198571|ref|NP_985600.1| AFR053Cp [Eremothecium gossypii] >g... [ score 51 E 8e-06 ] [ range 33 .. 103 ]
+sequence
+------LAKYQ--DTQVRVKLMGGRLVTGVLKGYDQLMNLVLDETVEY--LRDEEDASVVTQCTRPLGLK
+VIRGTIPVSMS------------*
+>P1;gi|7706423|ref|NP_057283.1| U6 snRNA-associated Sm-like protein ... [ score 50 E 1e-05 ] [ range 18 .. 82 ]
+sequence
+---------YI--DKTIRVKFQGGREASGILKGFDPLLNLVLDGTIEYMRDPDDQYKLT--EDTRQLGLV
+VCRGTSVV---------------*
+>P1;gi|38636805|dbj|BAD03046.1| putative snRNP splicing factor -rela... [ score 50 E 1e-05 ] [ range 11 .. 81 ]
+sequence
+------LAKFV--DKGVQVKLTGGRQVTGTLKGYDQLLNLVLDEAVEFER--EQDDPLKLSGKTRQLGLI
+VCRGTAVMLVS------------*
+>P1;gi|37991869|gb|AAR06315.1| putative small nuclear ribonucleoprot... [ score 50 E 2e-05 ] [ range 13 .. 77 ]
+sequence
+---------YM--DKKLQIKLNANRVIVGTLRGFDQFMNLVVDNTVE-----------VNGNDKTDIGMV
+VVRGNSVVMIEALEPVP------*
+>P1;gi|18394697|ref|NP_564072.1| small nuclear ribonucleoprotein, pu... [ score 50 E 2e-05 ] [ range 13 .. 77 ]
+sequence
+----TSLAAYL--DKKLLVLLRDGRKLMGLLRSFDQFANAVLEEAYERVIVGDLYCDIP-------LGLY
+IIRGENVV---------------*
+>P1;gi|38344547|emb|CAD40963.2| OSJNBa0027P08.15 [Oryza sativa (japo... [ score 49 E 2e-05 ] [ range 14 .. 78 ]
+sequence
+----TSLAGFL--DKKLIVLLRDGRKLLGTLCSFDQFANVVLQGACERVIVGELYCDVP-------LGLY
+VIRGENVV---------------*
+>P1;gi|15229773|ref|NP_187757.1| small nuclear ribonucleoprotein G, ... [ score 49 E 2e-05 ] [ range 13 .. 75 ]
+sequence
+---------YM--DKKLQIKLNANRMVVGTLRGFDQFMNLVVDNTVE-----------VNGDDKTDIGMV
+VIRGNSIV--TVEALEP------*
+>P1;gi|15227722|ref|NP_178480.1| small nuclear ribonucleoprotein, pu... [ score 49 E 3e-05 ] [ range 11 .. 81 ]
+sequence
+------LAKFV--DKGVQVKLTGGRQVTGTLKGYDQLLNLVLDEAVEF--VRDHDDPLKTTDQTRRLGLI
+VCRGTAVMLVS------------*
+>P1;gi|134126|sp|P24715|RUXG_MEDSA Probable small nuclear ribonucleo... [ score 49 E 3e-05 ] [ range 13 .. 75 ]
+sequence
+---------YM--DKQLQINLKANRMIVGTLRGFDQFMNLVVDNTVE-----------VNGNEKNDIGMV
+VIRGNSVV--TVEALEP------*
+>P1;gi|17510151|ref|NP_490671.1| putative protein (13.1 kD) (1A567C)... [ score 48 E 4e-05 ] [ range 36 .. 102 ]
+sequence
+-----KVLEYI--GKRYEIRMTDGRYIRGTMIATDKDANMVFNKADE------RWDKDPQLKGVRFLGQA
+MISKKHVESM-------------*
+>P1;gi|11498481|ref|NP_069709.1| snRNP, putative [Archaeoglobus fulg... [ score 48 E 6e-05 ] [ range 19 .. 71 ]
+sequence
+------------------VRLKGGREFRGTLDGYDIHMNLVLLDAEEI----------QNGEVVRKVGSV
+VIRGDTVVFVS------------*
+>P1;gi|42548789|gb|EAA71632.1| hypothetical protein FG08929.1 [Gibbe... [ score 48 E 6e-05 ] [ range 50 .. 117 ]
+sequence
+---------YM--DKQITVKFNGGREVKGTLKGYDALMNLVLDDVHEVVRDDEGN------ESTRSLGLV
+VVRGTLLVLVSVDG---------*
+>P1;gi|29249017|gb|EAA40538.1| GLP_680_47464_47838 [Giardia lamblia ... [ score 48 E 7e-05 ] [ range 66 .. 120 ]
+sequence
+------------------VQLRSGRFITGVLKAYDRHLNLVFSEATETW-----EENGIEYTEERK--NF
+MLRGDNVIMV-------------*
+>P1;gi|19112312|ref|NP_595520.1| hypothetical protein [Schizosacchar... [ score 47 E 8e-05 ] [ range 16 .. 78 ]
+sequence
+------LVDYV--DRKVIVVLRDGKKLIGILRSFDQFANLMLQYTIE-RIY----VDDMYGDIDR--GVY
+IVRGENVV---------------*
+>P1;gi|15224075|ref|NP_179971.1| small nuclear ribonucleoprotein G, ... [ score 47 E 1e-04 ] [ range 13 .. 75 ]
+sequence
+---------YM--DKKLQIKLNANRMVTGTLRGFDQFMNLVVDNTVE-----------VNGNDKTDIGMV
+VIRGNSIV--TVEALEP------*
+>P1;gi|32411457|ref|XP_326209.1| hypothetical protein [Neurospora cr... [ score 47 E 1e-04 ] [ range 43 .. 88 ]
+sequence
+---------------------------IGTIRGFDEFMNLVIDNAIEVKLV----SKTNETEERRELGQI
+LLKGDNV----------------*
+>P1;gi|15920417|ref|NP_376086.1| 90aa long hypothetical small nuclea... [ score 47 E 1e-04 ] [ range 27 .. 83 ]
+sequence
+------------------VKLKDGSEYVGRLEQSDGTMNLVLRDCIETRE--------GTAEPVAKYGRV
+LIRGSNILFISVD----------*
+>P1;gi|23049213|ref|ZP_00076446.1| COG1958: Small nuclear ribonucleo... [ score 47 E 1e-04 ] [ range 19 .. 71 ]
+sequence
+------------------VRLKGAREFRGELKGYDIHMNLVLDNAEELR----------EGEVVSKFGSV
+VIRGDNVVYVS------------*
+>P1;gi|23508446|ref|NP_701115.1| hypothetical protein [Plasmodium fa... [ score 47 E 1e-04 ] [ range 11 .. 81 ]
+sequence
+----SSFEEEI--DTYIFISSRDNKLYLGILRTYDQHGNVFLTHCVEKIIVPEKNYFSDVYVGKVKNGNL
+IIRGDNI----------------*
+>P1;gi|17533843|ref|NP_496385.1| u6 snRNA-associated Sm-like protein... [ score 47 E 1e-04 ] [ range 18 .. 75 ]
+sequence
+----------L--DKKLLVVLRDGRKLIGFLRSIDQFANLILEDVVERTFVEKYFCETGQ-------GFM
+LIRGENV----------------*
+>P1;gi|32414607|ref|XP_327783.1| predicted protein [Neurospora crass... [ score 47 E 1e-04 ] [ range 23 .. 61 ]
+sequence
+--------SLL--NKNLRVSVTDGRMFWGQFKCVDAESNIILHSAYEYR---------------------
+-----------------------*
+>P1;gi|40746253|gb|EAA65409.1| hypothetical protein AN0767.2 [Asperg... [ score 47 E 2e-04 ] [ range 56 .. 119 ]
+sequence
+---------YM--DKEVRVKFNGGREVSGILKGYDQLMNLVLDDVKESMRDDEGN------ETTRALGLI
+VARGTLIVLIS------------*
+>P1;gi|20129565|ref|NP_609807.1| CG13277-PA [Drosophila melanogaster... [ score 47 E 2e-04 ] [ range 27 .. 92 ]
+sequence
+---------YL--EKQIRVKFAGGREASGILKGYDALLNLVLDNTVEYLRDSDEPYKLTE-EQTRSLGLV
+VCRGTALV---------------*
+>P1;gi|34851953|ref|XP_226519.2| similar to RIKEN cDNA 0910001B06 [R... [ score 46 E 2e-04 ] [ range 144 .. 208 ]
+sequence
+---------YI--DKTIRVKFQGGWEASGISKGFDSLLNLVLDGTIEYRRDPDDQHKLT--EDARQLGLI
+VCPGTSVV---------------*
+>P1;gi|45190730|ref|NP_984984.1| AER125Cp [Eremothecium gossypii] >g... [ score 46 E 2e-04 ] [ range 13 .. 78 ]
+sequence
+----------L--DERVYVKLRGARKLSGTLQAFDSHCNIVLSDAEEYQLIDGELKSETKSSE-----MV
+FVRGDSVTLVT------------*
+>P1;gi|38104169|gb|EAA50780.1| hypothetical protein MG04539.4 [Magna... [ score 46 E 3e-04 ] [ range 7 .. 71 ]
+sequence
+--------SYV--DKRVVIMTTDGRMLIGTLINSDNQANIILYNVTE-RHIAPADG-DEDSVDRPSVGTE
+IIRGSTI----------------*
+>P1;gi|42546627|gb|EAA69470.1| hypothetical protein FG02746.1 [Gibbe... [ score 46 E 3e-04 ] [ range 44 .. 88 ]
+sequence
+----------------------------GKIRGFDEFMNLVIDDAVEVKQITKTNDK----ESRRPLGQI
+LLKGDNV----------------*
+>P1;gi|39587671|emb|CAE58609.1| Hypothetical protein CBG01776 [Caeno... [ score 45 E 3e-04 ] [ range 25 .. 98 ]
+sequence
+----------L--DEKVYVKMRNDRELRGRLRAFDQHLNMVLSEVEETREVDEDTFEEIYRQSKRVVPML
+FVRGDSVILVS---PP-------*
+>P1;gi|28828130|gb|AAO50813.1| similar to Arabidopsis thaliana (Mous... [ score 45 E 4e-04 ] [ range 20 .. 91 ]
+sequence
+----------L--DERIFVKMRQDRELRGKLHAYDQHLNMILSDVEETIKVVEKDEETDERNIKRNIKML
+FVRGDGVILIS------------*
+>P1;gi|31206519|ref|XP_312222.1| ENSANGP00000010868 [Anopheles gambi... [ score 45 E 5e-04 ] [ range 7 .. 72 ]
+sequence
+----SRLVQYM--DKRLSLKLNGGRVVSGILRGFDPFMNVVVDESIEECKDGTRNN----------IGMV
+VIRGNSIIMVE------------*
+>P1;gi|23508789|ref|NP_701457.1| u6 snRNA-associated Sm-like protein... [ score 45 E 5e-04 ] [ range 24 .. 95 ]
+sequence
+---------FM--NQKIRVKFDGGREVVGTLIGHDAIFNLVLDKTEEY--IRDPNDSFVVTDKTRSIGLI
+VARGTSVALITVEG---------*
+>P1;gi|42547860|gb|EAA70703.1| conserved hypothetical protein [Gibbe... [ score 44 E 6e-04 ] [ range 11 .. 70 ]
+sequence
+---------YL--DKRLFVQLNGSRKVIGVLRGYDVFLNIVLDEAVEEK----------DNGEKVRIGMV
+VIRGNSVVMLE------------*
+>P1;gi|4507133|ref|NP_003087.1| small nuclear ribonucleoprotein poly... [ score 44 E 8e-04 ] [ range 12 .. 71 ]
+sequence
+---------FM--DKKLSLKLNGGRHVQGILRGFDPFMNLVIDECVEMATSGQQNN----------IGMV
+VIRGNSIIMLE------------*
+>P1;gi|42557773|emb|CAF28746.1| hypothetical protein [uncultured cre... [ score 44 E 0.001 ] [ range 21 .. 88 ]
+sequence
+------------------VKLKGRRSVKGKIKGFDKQMNIVITEATEVIEQQSNNNDNSEGQEQETVGDA
+LIRGDNVITIAV-----------*
+>P1;gi|22203734|gb|AAM94277.1| small nuclear ribonucleoprotein D2-li... [ score 126 E 1e-28 ] [ range 27 .. 119 ]
+sequence
+TGPLSVLTQSVKNNTQVLINCRNNKKLLARVKAFDRHCNMVLENVKEM---------------DRYISKM
+FLRGDSVILVLRNPMAT----GK*
+>P1;gi|21357623|ref|NP_649645.1| CG1249-PA [Drosophila melanogaster]... [ score 124 E 4e-28 ] [ range 25 .. 115 ]
+sequence
+TGPLSVLTQSVKNNTQVLINCRNNKKLLGRVKAFDRHCNMVLENVKEM---------------DRFISKM
+FLRGDSVILVLRNPLAT------*
+>P1;gi|38076589|ref|XP_357302.1| similar to Small nuclear ribonucleo... [ score 122 E 2e-27 ] [ range 26 .. 118 ]
+sequence
+TGPLSVLSQSVKNNTQVLINCRNKKKLLGRVKAFDRHCNMVLENVKEM---------------DCYISKI
+FLRGDSVIVVLRNPLIT----GK*
+>P1;gi|25052991|ref|XP_193716.1| similar to Small nuclear ribonucleo... [ score 122 E 2e-27 ] [ range 26 .. 118 ]
+sequence
+TGPLSVLTQSVKNNTQVLINCRNKKKLLGRVKAFDRHCNMVLENVKEM---------------NCYISKM
+FLHGDSFIVVLRNPLIA----GK*
+>P1;gi|27677236|ref|XP_228350.1| similar to Small nuclear ribonucleo... [ score 121 E 5e-27 ] [ range 26 .. 118 ]
+sequence
+TGPLSVLTQSIKNNTQVLINCRNNKKLLGRVKAFDRHCNMVLENVKEI---------------DRYISKM
+FLRGNSVIVVLRNPLIA----GK*
+>P1;gi|17558868|ref|NP_506004.1| small nuclear ribonucleoprotein, sm... [ score 120 E 6e-27 ] [ range 27 .. 114 ]
+sequence
+-GPLSILTNSVKNNHQVLINCRNNKKLLGRVKAFDRHCNMVLENVKEM---------------DRFISKM
+FLRGDSVILVVKNPL--------*
+>P1;gi|34862525|ref|XP_345640.1| similar to Small nuclear ribonucleo... [ score 118 E 2e-26 ] [ range 21 .. 112 ]
+sequence
+TGPLSVLTQSVKNNRQMLINC-CNKKLLGRVKAFDRHCNLVLENVKEM---------------HRYISKM
+FLGGDSVIVVLWNPLIA----GK*
+>P1;gi|34881247|ref|XP_228546.2| similar to SNF2/RAD54 family protei... [ score 118 E 3e-26 ] [ range 26 .. 116 ]
+sequence
+TGPLSVVTQLVKNSTQVLIYCRIKKELLGQVKAFDRHCNVVLEKVKEM---------------DHYISKM
+FLCGDSVIVVLRNPFVT------*
+>P1;gi|18407411|ref|NP_566107.1| small nuclear ribonucleoprotein D2,... [ score 117 E 7e-26 ] [ range 21 .. 108 ]
+sequence
+TGPLSVLMMSVKNNTQVLINCRNNRKLLGRVRAFDRHCNMVLENVREM---------------DRFISKM
+FLRGDSVIIVLRNP---------*
+>P1;gi|17471847|ref|XP_061427.1| similar to Small nuclear ribonucleo... [ score 113 E 9e-25 ] [ range 26 .. 117 ]
+sequence
+TGPLSVLTQSVKNNTQVLINCRHNTKLLGHVKAFHRHCNMVLENVKET---------------DCYISRM
+FLHGDLVIVVLRNPLIA----SK*
+>P1;gi|19115418|ref|NP_594506.1| small nuclear ribonucleoprotein; sm... [ score 112 E 2e-24 ] [ range 28 .. 113 ]
+sequence
+-GPLSVLQQAVKNHDQVLINCRNNKKLLARVKAFDRHSNMVLENVKEM---------------DRFISKM
+FLRGDGVVLVVRIP---------*
+>P1;gi|42553705|gb|EAA76548.1| hypothetical protein FG07018.1 [Gibbe... [ score 111 E 5e-24 ] [ range 71 .. 153 ]
+sequence
+-GPLSILQTAVRSHVQVLISIRNNRKLLARVKAFDRHCNMVLENVKEM---------------DRFISKM
+FLRGDSVILVL------------*
+>P1;gi|45201373|ref|NP_986943.1| AGR277Wp [Eremothecium gossypii] >g... [ score 106 E 1e-22 ] [ range 28 .. 108 ]
+sequence
+-GPMSLIQEAMTARTPVIISLRNNHKIIARVKSFDRHCNMVLENVKEI---------------ERFISKL
+FLRGDSVIVVLKAPL--------*
+>P1;gi|6323305|ref|NP_013377.1| U1 snRNP protein of the Sm class; Sm... [ score 102 E 2e-21 ] [ range 29 .. 109 ]
+sequence
+-GPMSLINDAMVTRTPVIISLRNNHKIIARVKAFDRHCNMVLENVKEL---------------ERFISKL
+FLRGDSVIVVLKTPV--------*
+>P1;gi|23485713|gb|EAA20539.1| small nuclear ribonucleoprotein. [Pla... [ score 101 E 4e-21 ] [ range 17 .. 100 ]
+sequence
+-GPLGLLSECVKDNAQVLINCRNNRKLLGRVKAFDRHCNLLLTEVREI---------------DRYISIL
+FLRGDSVILILRNP---------*
+>P1;gi|43479568|gb|EAD94527.1| unknown [environmental sequence] [ score 100 E 8e-21 ] [ range 105 .. 158 ]
+sequence
+TGPLSVLTQSVKTNAQVLINCRNNRKLLGRVKAFDRHCNMVLENVKEI---------------WTEVPK-
+-----------------------*
+>P1;gi|16805072|ref|NP_473101.1| small nuclear ribonucleoprotein, pu... [ score 100 E 2e-20 ] [ range 17 .. 100 ]
+sequence
+-GPLGLLSECVKDNAQVLINCRNNRKILGRVKAFDRHCNLLLTGVREI---------------DRYISIL
+FLRGDSVILILRNP---------*
+>P1;gi|32404932|ref|XP_323079.1| hypothetical protein [Neurospora cr... [ score 90 E 1e-17 ] [ range 35 .. 109 ]
+sequence
+-GPLSILQTAVRSHSQVLISVRNGRKILARVKAFDRHMNMVLENVKEM---------------DRFISKM
+FVH--------------------*
+>P1;gi|9837176|gb|AAG00462.1| Sm-D2 [Trypanosoma brucei] [ score 89 E 2e-17 ] [ range 32 .. 107 ]
+sequence
+-GPFCLLDSAVKNGTRVFIQSRYNKSLVATVVAFDKHFNLVLRDAVEL---------------ERSIRNM
+FLRGASVVFIVRLP---------*
+>P1;gi|29245184|gb|EAA36838.1| GLP_122_3813_3433 [Giardia lamblia AT... [ score 83 E 1e-15 ] [ range 51 .. 119 ]
+sequence
+SNPLYLLKTSLEDRVSVLLQ--NNSSITGLLASFDEHMNLILINAEEL---------------NRFFPLL
+VIRGDSIIFVTR-----------*
+>P1;gi|19074769|ref|NP_586275.1| SMALL NUCLEAR RIBONUCLEOPROTEIN D2 ... [ score 83 E 1e-15 ] [ range 20 .. 101 ]
+sequence
+-GPLSLVRRAMVKMKPVLVSLRSNRKVLGRVVAYDRHYNLLMEDAKEL---------------SRKLGKV
+FIRGDTVILV-------------*
+>P1;gi|13812409|ref|NP_113527.1| small nuclear ribonucleoprotein SM ... [ score 77 E 9e-14 ] [ range 3 .. 80 ]
+sequence
+--PFDYISGCVRNDKSVMIILRNNKRMIGKIINYDKHLNLLLENVNEI---------------SKFIPKV
+FLRGDNIVLIL------------*
+>P1;gi|7657315|ref|NP_055278.1| Lsm3 protein [Homo sapiens] >gi|1338... [ score 70 E 9e-12 ] [ range 17 .. 95 ]
+sequence
+--PLDLIRLSL--DERIYVKMRNDRELRGRLHAYDQHLNMILGDVEET---------------KRNIPML
+FVRGDGVVLV-------------*
+>P1;gi|24649486|ref|NP_732931.1| CG31184-PA [Drosophila melanogaster... [ score 69 E 2e-11 ] [ range 18 .. 96 ]
+sequence
+--PLDLIRLSL--DEKVYVKMRNERELRGRLHAFDQHLNMVLGDAEET---------------KRTIPML
+FVRGDGVILV-------------*
+>P1;gi|31242329|ref|XP_321595.1| ENSANGP00000011793 [Anopheles gambi... [ score 68 E 6e-11 ] [ range 41 .. 119 ]
+sequence
+--PLDLIRLSL--DEKIYVKMRYERELRGRLHAFDQHLNMVLGDAEET---------------KRTIPML
+FVRGDGVILV-------------*
+>P1;gi|23612817|ref|NP_704356.1| ribonucleoprotein, putative [Plasmo... [ score 67 E 1e-10 ] [ range 3 .. 69 ]
+sequence
+--------------EEIFLKCKGDRELIGKLDAYDNHLNMILSNVREM---------------ERNLDMV
+FVRGDSIILV-------------*
+>P1;gi|23490948|gb|EAA22599.1| Putative Ribonucleoprotein [Plasmodiu... [ score 66 E 2e-10 ] [ range 13 .. 99 ]
+sequence
+-GPLDYIRLNME--EEIFLKCKGDRELTGTLDAYDNHLNMILSNAKEI---------------ERNLDMV
+FVRGDSIILV-------------*
+>P1;gi|40745811|gb|EAA64967.1| hypothetical protein AN1802.2 [Asperg... [ score 64 E 7e-10 ] [ range 5 .. 63 ]
+sequence
+-------------NIQTLLQKPRSECTLARVKAFDRHSNMVLENVKEM---------------DRFISKM
+YL---------------------*
+>P1;gi|15223768|ref|NP_177812.1| small nuclear ribonucleoprotein, pu... [ score 64 E 8e-10 ] [ range 12 .. 90 ]
+sequence
+--PLDLIRLSL--DERIYVKLRSDRELRGKLHAFDQHLNMILGDVEET---------------KRTIEFL
+FVRGDGVILV-------------*
+>P1;gi|15218164|ref|NP_173542.1| small nuclear ribonucleoprotein, pu... [ score 62 E 3e-09 ] [ range 12 .. 90 ]
+sequence
+--PLDLIRLSIE--ERIYVKLRSDRELRGKLHAFDQHLNMILGDVEET---------------KRTVPFL
+FVRGDGVILV-------------*
+>P1;gi|45190730|ref|NP_984984.1| AER125Cp [Eremothecium gossypii] >g... [ score 61 E 8e-09 ] [ range 5 .. 78 ]
+sequence
+--PLDLLRLNL--DERVYVKLRGARKLSGTLQAFDSHCNIVLSDAEET---------------TKSSEMV
+FVRGDSVTLVT------------*
+>P1;gi|19112539|ref|NP_595747.1| U6 snRNA-associated Sm-like protein... [ score 60 E 2e-08 ] [ range 10 .. 88 ]
+sequence
+--PLDLVRLSL--DEIVYVKLRGDRELNGRLHAYDEHLNMVLGDAEEI---------------RKHYEML
+FVRGDSVILI-------------*
+>P1;gi|6323471|ref|NP_013543.1| Like Sm-D2 protein; contains Sm-like... [ score 60 E 2e-08 ] [ range 4 .. 76 ]
+sequence
+--PLDLLKLNL--DERVYIKLRGARTLVGTLQAFDSHCNIVLSDAVET---------------ERRCEMV
+FIRGDTVTLI-------------*
+>P1;gi|34908592|ref|NP_915643.1| P0505D12.24 [Oryza sativa (japonica... [ score 57 E 2e-07 ] [ range 19 .. 62 ]
+sequence
+--PLDLIRLSL--DERIYVKLRSDRELRGKLHAYDQHLNMILGDVEEI----------------------
+-----------------------*
+>P1;gi|11498481|ref|NP_069709.1| snRNP, putative [Archaeoglobus fulg... [ score 55 E 3e-07 ] [ range 5 .. 74 ]
+sequence
+--PLDVLNRSLKS--PVIVRLKGGREFRGTLDGYDIHMNLVLLDAEEI---------------QRKVGSV
+VIRGDTVVFVSPAP---------*
+>P1;gi|29726409|pdb|1LOJ|A Chain A, Crystal Structure Of A Methanoba... [ score 55 E 3e-07 ] [ range 14 .. 86 ]
+sequence
+--PLDALGNSL--NSPVIIKLKGDREFRGVLKSFDLHMNLVLNDAEEL---------------ERRLGTV
+LIRGDNIVYISRGKLAA------*
+>P1;gi|40746210|gb|EAA65366.1| hypothetical protein AN0047.2 [Asperg... [ score 53 E 1e-06 ] [ range 15 .. 58 ]
+sequence
+--PLDLVRLSL--DEIVFVKLRGDRELKGRLHAYDSHCNLVLGDVEET----------------------
+-----------------------*
+>P1;gi|42546617|gb|EAA69460.1| hypothetical protein FG02736.1 [Gibbe... [ score 52 E 3e-06 ] [ range 14 .. 88 ]
+sequence
+--PLDLVRLLL--NEVVFVKLRGDRELKGKLHAYDSHCNLVLGEVEEI---------------SRKSEML
+FVRAGAFI---------------*
+>P1;gi|21226441|ref|NP_632363.1| putative snRNP Sm-like protein [Met... [ score 52 E 5e-06 ] [ range 5 .. 70 ]
+sequence
+--PLDILNNAL--DTPVIVRLKGAREFRGELKGYDIHMNLVLDNAEEL---------------REKFSSV
+VIRGDNVVYV-------------*
+>P1;gi|41720360|ref|ZP_00149173.1| hypothetical protein Mbur016401 [... [ score 51 E 5e-06 ] [ range 5 .. 70 ]
+sequence
+--PLDILNDAL--NTSVIVRLKGAREFRGVLQGYDVHMNLVLDEAEEL---------------KRKIGGV
+VIRGDNVVYV-------------*
+>P1;gi|14277786|pdb|1I8F|A Chain A, The Crystal Structure Of A Hepta... [ score 51 E 8e-06 ] [ range 22 .. 80 ]
+sequence
+--------------KQVLVKLRDSHEIRGILRSFDQHVNLLLEDAEEI---------------DGNVYKM
+VVRGENVLFISPVP---------*
+>P1;gi|15897658|ref|NP_342263.1| Small nuclear riboprotein protein (... [ score 50 E 1e-05 ] [ range 11 .. 73 ]
+sequence
+-----VLAESLNN--LVLVKLKGNKEVRGMLRSYDQHMNLVLSDSEEI---------------QKKLGTI
+VIRGDNVILI-------------*
+>P1;gi|15920992|ref|NP_376661.1| 79aa long hypothetical small nuclea... [ score 50 E 1e-05 ] [ range 21 .. 74 ]
+sequence
+----------------VLVKLKGDKIVRGTLKSYDMHMNLVLENSEEV---------------TRKVGTI
+IIRGDNVILV-------------*
+>P1;gi|32418786|ref|XP_329871.1| hypothetical protein [Neurospora cr... [ score 50 E 1e-05 ] [ range 14 .. 57 ]
+sequence
+--PMDLVRLLL--DEVVCVKLRGDRELKGRLHAYDSHCNLVLGEVEET----------------------
+-----------------------*
+>P1;gi|38105964|gb|EAA52327.1| hypothetical protein MG05019.4 [Magna... [ score 50 E 1e-05 ] [ range 12 .. 56 ]
+sequence
+--PFGLVRLLL--DEVVFVKLRGDRELKGRLHAYDSHCNLVLGDVEET---------------H------
+-----------------------*
+>P1;gi|45358711|ref|NP_988268.1| Small nuclear ribonucleoprotein (Sm... [ score 49 E 3e-05 ] [ range 7 .. 70 ]
+sequence
+--PLDALGKSI--NTNVTVYLKDGKVVKGRLKAYDLHMNVALENAKDE---------------EKEFPML
+VVRGDNVLYV-------------*
+>P1;gi|34905904|ref|NP_914299.1| P0458E05.28 [Oryza sativa (japonica... [ score 48 E 7e-05 ] [ range 1 .. 49 ]
+sequence
+---------------------------------------MVLENVREM---------------DRFISKM
+FLRGDSVIIVLKNP---------*
+>P1;gi|14324575|dbj|BAB59502.1| small nuclear ribonucleoprotein [The... [ score 47 E 1e-04 ] [ range 12 .. 79 ]
+sequence
+TKPMDVLKNALSRN--VLIDVKGNREYSGILEGYDVYMNVVLQNASEI---------------KGVFDRI
+LVRGDNVIFV-------------*
+>P1;gi|14600779|ref|NP_147300.1| small nuclear ribonucleoprotein [Ae... [ score 47 E 1e-04 ] [ range 2 .. 74 ]
+sequence
+SGPITLPTLRMMVDTPVLVKLKSGLRIKGVLKTYDQHLNIILGDAEEI---------------GRRLGLT
+LVRGDSVVVIT------------*
+>P1;gi|16082245|ref|NP_394696.1| small nuclear ribonucleoprotein rel... [ score 47 E 1e-04 ] [ range 10 .. 75 ]
+sequence
+--PMDVLKSALSRN--VLIDVKGNREYSGILEGYDVYMNIVLQNASEI---------------KGVYDRV
+LVRGDNVIFV-------------*
+>P1;gi|20093660|ref|NP_613507.1| Small nuclear ribonucleoprotein (sn... [ score 45 E 5e-04 ] [ range 15 .. 67 ]
+sequence
+----------------VIVELKTGKTLRGRLVSFDGHLNLVLDDCVEI---------------DERLGRV
+LIRGDSVTLI-------------*
+>P1;gi|22406344|ref|ZP_00001194.1| COG1958: Small nuclear ribonucleo... [ score 45 E 5e-04 ] [ range 13 .. 78 ]
+sequence
+--PMETLKNSLEKN--IMIDVKGNRMYSGILEGYDIYMNLVLKNATET---------------KGTFSMM
+LLRGDNIIFV-------------*
+>P1;gi|23509633|ref|NP_702300.1| small nuclear ribonuclear protein, ... [ score 44 E 9e-04 ] [ range 12 .. 54 ]
+sequence
+--PLALMDKCI--GSKIWIMMKGDKEIVGKLVGFDEYVNMVLEDVTE-----------------------
+-----------------------*
+>P1;gi|22406318|ref|ZP_00001168.1| COG1958: Small nuclear ribonucleo... [ score 44 E 0.001 ] [ range 8 .. 72 ]
+sequence
+--PMKMLEENL--NKKVTLLLKDNRSLVGTLVGYDEYMNMTLDDAEEV---------------QRKIGKV
+IIRGSNVVRIT------------*
+>P1;gi|42546775|gb|EAA69618.1| conserved hypothetical protein [Gibbe... [ score 135 E 2e-31 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKCA--NETVTIELKNGTIIHGTISSVSPQMNTALRNVKMTIKG----------QEPISLETM
+NIRGSTIRYFILPDSLPLDTLLI*
+>P1;gi|38104411|gb|EAA50982.1| hypothetical protein MG04741.4 [Magna... [ score 134 E 4e-31 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKCA--NETVTIELKNGTIVHGTIASVSPQMNTALRNVKMTPRG----------QDPIPLDAM
+NIRGSTIRYYILPDSLPLDTLLV*
+>P1;gi|27545253|ref|NP_775359.1| small nuclear ribonucleoprotein D1 ... [ score 131 E 4e-30 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKLS--HETVTIELKNGTQVHGTITGVDVSMNTHLKAVKMTLKN----------REPTQLESL
+SIRGNNIRYFILPDSLPLDTLLV*
+>P1;gi|31199215|ref|XP_308555.1| ENSANGP00000009562 [Anopheles gambi... [ score 131 E 4e-30 ] [ range 6 .. 85 ]
+sequence
+-KLVRFLMKLS--HETVTIELKNGTQVHGTITGVDVAMNTHLKAVKMTIKN----------RDPVTLDSL
+SIRGNNIRYYILPDSLPLETLLI*
+>P1;gi|40745781|gb|EAA64937.1| conserved hypothetical protein [Asper... [ score 131 E 5e-30 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKCA--NETVTIELKNGTILHGTITSVSPQMNTSLRTVKMTPKG----------RDPISLDTI
+NIRGSTIRYYILPDSLPLDTLLI*
+>P1;gi|32408407|ref|XP_324685.1| hypothetical protein [Neurospora cr... [ score 129 E 1e-29 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKCA--NETVTIELKNGTIVHGTIASVTPRMDTALRNVKMTPKG----------QDAVALDAM
+NIRGSTIRYFILPDSLPLDTLLV*
+>P1;gi|15235510|ref|NP_192193.1| small nuclear ribonucleoprotein D1,... [ score 129 E 2e-29 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKLN--NETVSIELKNGTIVHGTITGVDVSMNTHLKAVKLTLKG----------KNPVTLDHL
+SVRGNNIRYYILPDSLNLETLLV*
+>P1;gi|17864386|ref|NP_524774.1| small nuclear ribonucleoprotein at ... [ score 127 E 6e-29 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKLS--HETVTIELKNGTQIHGTITGVDVAMNTHLKSVRMTIKN----------RDPVHLETL
+SIRGNNIRYFILPDSLPLETLLI*
+>P1;gi|19115525|ref|NP_594613.1| small nuclear ribonucleoprotein smd... [ score 127 E 7e-29 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKLT--NETVSIELKNGTIVHGTITSVDMQMNTHLKAVKMTVKG----------REPVPVETL
+SIRGNNIRYYILPDSLPLDTLLI*
+>P1;gi|38344744|emb|CAE03048.2| OSJNBa0089K21.2 [Oryza sativa (japon... [ score 127 E 8e-29 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKLN--NETVTIELKNGTVVHGTITGVDISMNTHLKTVKLTLKG----------KNPVTLDHL
+SVRGNNIRYYILPDSLNLETLLV*
+>P1;gi|15231485|ref|NP_187416.1| small nuclear ribonucleoprotein D1,... [ score 125 E 2e-28 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKLN--NETVSIELKNGTVVHGTITGVDVSMNTHLKTVKMSLKG----------KNPVTLDHL
+SLRGNNIRYYILPDSLNLETLLV*
+>P1;gi|34874855|ref|XP_346027.1| similar to Small nuclear ribonucleo... [ score 120 E 1e-26 ] [ range 32 .. 104 ]
+sequence
+--------EIF--HETVTIELKNGTQVHGTIAGVDVSMNTHLKAVKMALKN----------REPVQLETL
+SIRGNNIRYFILPDSLPLDTLLV*
+>P1;gi|39597102|emb|CAE59329.1| Hypothetical protein CBG02671 [Caeno... [ score 119 E 2e-26 ] [ range 2 .. 81 ]
+sequence
+-KLVRFLMKLS--HETVNIELKNGTQVSGTIMGVDVAMNTHLRAVSMTVKN----------KDPVKLDTL
+SIRGNNIRYIILPDPLALDTLLI*
+>P1;gi|9837174|gb|AAG00461.1| Sm-D1 [Trypanosoma brucei] [ score 110 E 9e-24 ] [ range 9 .. 87 ]
+sequence
+--LIGFLQQLR--GTQVEIEMMNSTIVTGEITFVEANMNTYMRHVKITAKG----------KNPEMAETY
+MVCGSKIRYVILPEAMNTDDVLV*
+>P1;gi|19112491|ref|NP_595699.1| probable small nuclear ribonucleopr... [ score 110 E 1e-23 ] [ range 5 .. 75 ]
+sequence
+---IKLLHETQ--GHIVTMELENGSTYRGKLIEAEDNMNCQMRDISVTARD----------GRVSHLDQV
+YIRGSHIRFLIVPDML-------*
+>P1;gi|23490523|gb|EAA22278.1| small nuclear riboprotein Sm-D1-like ... [ score 109 E 2e-23 ] [ range 2 .. 91 ]
+sequence
+-KLVTFLMKLT--NENVTIELKNGTLISGVITGVDIKMNTHMKNVKVVIKN----------KNVLSLDHV
+TIRGNNIRYYILSDSLPLDTLLV*
+>P1;gi|23508457|ref|NP_701126.1| small nuclear ribonucleoprotein D1,... [ score 109 E 2e-23 ] [ range 2 .. 91 ]
+sequence
+-KLVHFLMKLT--NENVTIELKNGTLITGIITAVDIKMNTHMKNVKVVIKN----------KNFLSLEHV
+TIRGNNIRYFILSDSLPLDSLLV*
+>P1;gi|8745056|emb|CAB95310.1| possible small nuclear riboprotein SM... [ score 106 E 1e-22 ] [ range 13 .. 90 ]
+sequence
+--LITFLQQLR--GTLVEIELKNASIVSGEIAYVDANMNTYMSHAKITSKG----------KNPVEVEEY
+MVRGSTIRYIIMPESLNTYDIL-*
+>P1;gi|6321510|ref|NP_011588.1| Homolog of human core snRNP protein ... [ score 103 E 8e-22 ] [ range 2 .. 108 ]
+sequence
+-KLVNFLKKLR--NEQVTIELKNGTTVWGTLQSVSPQMNAILTDVKLTLPG----------QQPASLQYI
+NIRGNTIRQIILPDSLNLDSLLV*
+>P1;gi|45190808|ref|NP_985062.1| AER205Wp [Eremothecium gossypii] >g... [ score 101 E 5e-21 ] [ range 2 .. 106 ]
+sequence
+-KLAGFLMKLR--SEQVTIELKNGTTVWGTLQTVSPQMNATLTDVRLSLED----------RRTASLQYI
+NIRGNTIRQIILPDSLNLDALLV*
+>P1;gi|14249632|ref|NP_116270.1| U7 snRNP-specific Sm-like protein L... [ score 99 E 2e-20 ] [ range 17 .. 94 ]
+sequence
+--LIILLQGLQ--GRVTTVDLRDESVAHGRIDNVDAFMNIRLAKVTYTDRW----------GHQVKLDDL
+FVTGRNVRYVHIPDDVNITSTI-*
+>P1;gi|34871191|ref|XP_345582.1| similar to U7 snRNP-specific Sm-lik... [ score 95 E 3e-19 ] [ range 17 .. 94 ]
+sequence
+--LIILLQGLQ--GQITTVDLRDESVARGRIDNVDAFMNIRLANVTYTDRW----------GHQVELDDL
+FVTGRNVRYVHIPDGVNITATI-*
+>P1;gi|773428|gb|AAA65451.1| small nuclear ribonucleoprotein [ score 93 E 1e-18 ] [ range 1 .. 64 ]
+sequence
+----------R--SHMVTLETVTGEVYRGKLSEAEDNMNCQLAETVVTFRD----------GRSHQLDNV
+FIRGNKIRFMILPDML-------*
+>P1;gi|43556830|gb|EAE33171.1| unknown [environmental sequence] [ score 93 E 2e-18 ] [ range 94 .. 145 ] [ duplicate a ]
+sequence
+-------------------------------SGVDISMNTHLKNVKLTLKG----------KNPVHMDHL
+SLRGNNIRYYILPDSLNLDTLLV*
+>P1;gi|43556830|gb|EAE33171.1| unknown [environmental sequence] [ score 93 E 2e-18 ] [ range 2 .. 33 ] [ duplicate b ]
+sequence
+-KLVRFLQKLS--HETCTIELKNGTVVHGTVMGAS-----------------------------------
+-----------------------*
+>P1;gi|19075064|ref|NP_586665.1| SMALL NUCLEAR RIBONUCLEOPROTEIN (U1... [ score 89 E 3e-17 ] [ range 2 .. 76 ]
+sequence
+-KLVRVLRKCK--NERVKIETKEGRRIEGKIVSVDKTMNVEMVDVVV---------------DGAPASTY
+TVRGSSIRYVLFRDDIDFKPLLV*
+>P1;gi|37806009|dbj|BAC99422.1| putative snRNP core protein SMX5d [O... [ score 68 E 6e-11 ] [ range 204 .. 277 ]
+sequence
+--------ELV--GKEVTVELKNDLAIRGTLHSVDQYLNIKLENTRVVDQD----------KYPHMLSNC
+FIRGSVVRYVLLPDGVDIDIL--*
+>P1;gi|19173042|ref|NP_597593.1| similarity to SMALL NUCLEAR RIBONUC... [ score 67 E 1e-10 ] [ range 8 .. 80 ]
+sequence
+----KLLHESQ--GFIVTVETSSGDMYRGRVREVDDYMNLVLDDVVVTSNN----------SSLSRKE-V
+LIRGSSIRFFVLPPALKFAP---*
+>P1;gi|39582333|emb|CAE67582.1| Hypothetical protein CBG13115 [Caeno... [ score 64 E 9e-10 ] [ range 7 .. 74 ]
+sequence
+-----LLKTAQ--NHPMLVELKNGETYNGHLKACDAWMNIHLVDVIFTSKD----------GDFFKMSEA
+YVRGSTIKYLRIPE---------*
+>P1;gi|13812341|ref|NP_113459.1| putative small nuclear ribonucleopr... [ score 63 E 1e-09 ] [ range 9 .. 76 ]
+sequence
+-----ILRESK--PYVITIECKNGFIYRGKLIHIEENMNCILKEA-FVIKK----------KKVQKLTLV
+FLRGSNISMFIIPDIL-------*
+>P1;gi|42551173|gb|EAA74016.1| hypothetical protein FG05320.1 [Gibbe... [ score 62 E 5e-09 ] [ range 5 .. 75 ]
+sequence
+----GLLNAAQ--GHPMLVELKNGETLNGHLVSCDTWMNLTLKEVVQTPEG----------DRFVRLPEV
+YVKGNNIKYLRVPDEI-------*
+>P1;gi|40738809|gb|EAA57999.1| hypothetical protein AN6213.2 [Asperg... [ score 61 E 6e-09 ] [ range 15 .. 85 ]
+sequence
+----GLLTAAQ--GHPMLVELKNGETLNGHLANCDNWMNLILREVVQTPEG----------DRFFKLPEV
+YVRGNNIKYLRIPEEI-------*
+>P1;gi|32414377|ref|XP_327668.1| hypothetical protein [Neurospora cr... [ score 61 E 8e-09 ] [ range 66 .. 133 ]
+sequence
+-----FFKTLI--DHEVTVELKNDIQIRGVLKSVDQFLNIKLDNIQVVLKY----------PHLSAVKNV
+FIRGSVVRYVHLP----------*
+>P1;gi|21703324|gb|AAM76159.1| U7 snRNP-specific SM-like protein [Bo... [ score 60 E 1e-08 ] [ range 15 .. 87 ]
+sequence
+--LAILLCGME--GKLITVEMKNDTTITGTLACVDGFMNMFMKKAKISSCN----------GTSMSAERI
+HVKASNTRYIMLPNDVN------*
+>P1;gi|25518743|pir||H86164 hypothetical protein F15K9.7 - Arabidops... [ score 60 E 2e-08 ] [ range 31 .. 103 ]
+sequence
+---------LV--GQEVTVELKNDLAIRGTLHSVDQYLNIKLENTRVVDQD----------KYPHMLSNC
+FIRGSVVRYVQLPDGVDVDLL--*
+>P1;gi|11138539|gb|AAG31434.1| snRNP core protein SMX5d [Mus musculus] [ score 58 E 4e-08 ] [ range 30 .. 97 ]
+sequence
+-----FFKSLV--GKDVVVELKNDLSICGTLHSVDQYLNIKLTDISVTDPE----------KYPHMLSNC
+FIRGSVVRYVQLP----------*
+>P1;gi|27659256|ref|XP_226489.1| similar to snRNP core protein SMX5d... [ score 57 E 1e-07 ] [ range 89 .. 156 ]
+sequence
+-----FFTSLV--GKDVVVELKNGLSICGTLHSVDQYLNIKLTDISVTDPE----------KYPHMLSNC
+FIRGSVVQYVQLP----------*
+>P1;gi|24652555|ref|NP_610615.1| CG12938-PA [Drosophila melanogaster... [ score 57 E 1e-07 ] [ range 23 .. 88 ]
+sequence
+---------LQ--GHSVLIDLHNETSVAGIIDVADGHMTCELTHAVFIDRN----------GGQHPFDHF
+MVRNRMIRQIHIPSYLD------*
+>P1;gi|21358381|ref|NP_648570.1| CG10418-PA [Drosophila melanogaster... [ score 56 E 2e-07 ] [ range 6 .. 73 ]
+sequence
+-----FFKSLV--GKEVVVELKNDLSICGTLHSVDQYLNIKLTDISVTDPD----------KYPHMLSNC
+FIRGSVVRYVQLP----------*
+>P1;gi|23613226|ref|NP_703548.1| u6 snRNA-associated sm-like protein... [ score 54 E 8e-07 ] [ range 5 .. 75 ]
+sequence
+----TFFQQLK--NHHVTVELKNDLQISGVLHSVDQYLNIKLTNVSVNNPE----------KYPHLLSSC
+FVRGSVVRYVFLP----------*
+>P1;gi|605651|gb|AAA58257.1| regulatory protein [ score 53 E 2e-06 ] [ range 6 .. 85 ]
+sequence
+-----LLTNAK--GQQMQIELKNGEIIQGILTNVDNWMNLTLSNVTENAES----------SKAVKLNEI
+YIRGTFIKFIKLQDNI-------*
+>P1;gi|38101787|gb|EAA48697.1| hypothetical protein MG00355.4 [Magna... [ score 53 E 2e-06 ] [ range 15 .. 75 ]
+sequence
+----------------ITVELKNSIQIRGTLKSVDQYLNLKLDDISVVIKY----------PHLSAVKNV
+FIRGSVVRYIHLPAS--------*
+>P1;gi|13812103|ref|NP_113140.1| probable small nuclear ribonucleopr... [ score 52 E 3e-06 ] [ range 2 .. 76 ]
+sequence
+-KIYNFIKQLK--GEEIIIELKNNIIIMGVIVNVDKNMNLKVSNISDIDID----------GQKFFKGNL
+SIRFNNIRIMVLPSKIEL-----*
+>P1;gi|42546777|gb|EAA69620.1| hypothetical protein FG00360.1 [Gibbe... [ score 52 E 4e-06 ] [ range 6 .. 74 ]
+sequence
+-----FFKTLI--DHEVTVELKNDIQLKGILKSVDQYLNIKLDDIQVVLKY----------PHLSSVKNV
+FIRGSVVRYVHLPE---------*
+>P1;gi|17561850|ref|NP_506348.1| u6 snRNA-associated Sm-like protein... [ score 51 E 6e-06 ] [ range 12 .. 81 ]
+sequence
+-----FFKSLV--GKDVVVELKNDLSICGTLHSVDQYLNMKLTDITVSDPE----------RFPVSVKNC
+FIRGSVVRYVQLPSD--------*
+>P1;gi|19075959|ref|NP_588459.1| U6-associated Sm snRNP core protein... [ score 51 E 6e-06 ] [ range 6 .. 81 ]
+sequence
+-----FFKTLI--DTEVTVELKNDMSIRGILKSVDQFLNVKLENISVVDAS----------KYPHMVKDL
+FIRGSVVRYVHMS-SAYVDTIL-*
+>P1;gi|39595126|emb|CAE60163.1| Hypothetical protein CBG03715 [Caeno... [ score 51 E 7e-06 ] [ range 34 .. 102 ]
+sequence
+-----VLQGMA--GKNVAVELRGDNYVIGELVDCDSDLNIQLKNVTV-IRD----------SQETKEPVY
+YVTGKFIRFVHFKDQVN------*
+>P1;gi|29841078|gb|AAP06091.1| hypothetical protein [Schistosoma jap... [ score 50 E 1e-05 ] [ range 31 .. 106 ]
+sequence
+---------LI--GEPITVTLLDETRITGRLCSCDGMMNIQLDSGVISDRL----------NEFIQVETI
+MIFGQRIRYVTVPKSIDIPSTL-*
+>P1;gi|23479567|gb|EAA16362.1| Sm protein, putative [Plasmodium yoel... [ score 50 E 2e-05 ] [ range 26 .. 96 ]
+sequence
+----TFFQQLK--NQHITIELKNDLQISGVLHSVDQYLNIKLTNISVNNPE----------KYPHLLSSC
+FVRGSVVRYVFLP----------*
+>P1;gi|31242791|ref|XP_321826.1| ENSANGP00000020385 [Anopheles gambi... [ score 49 E 3e-05 ] [ range 10 .. 86 ]
+sequence
+--LTGLAQCLI--DRNTIIDLRNETMVAGTIVDVDGFMNVTMENAVYVDQL----------GRQYPLDNF
+MVYSKYIRYIHIPKD--------*
+>P1;gi|29247528|gb|EAA39087.1| GLP_305_2464_2751 [Giardia lamblia AT... [ score 49 E 3e-05 ] [ range 2 .. 81 ]
+sequence
+-QLIRLVQKLQ--GQRVRFELKAGGMIEGTVALVDATFVVHLSQASYTPRG----------A-TTAICHP
+FVRGAAICSLSLPGTFDTDTHL-*
+>P1;gi|40742979|gb|EAA62169.1| hypothetical protein AN7589.2 [Asperg... [ score 49 E 3e-05 ] [ range 1001 .. 1063 ]
+sequence
+-----LFQTLT--NQVVTIELKNDIRIRGTLKSVDQYLNIKLDDIDVLDLD----------KYPHSVKNM
+FIRGSVVR---------------*
+>P1;gi|6319445|ref|NP_009527.1| Like Sm-D1 protein; Lsm2p [Saccharom... [ score 48 E 7e-05 ] [ range 6 .. 72 ]
+sequence
+-----FFKTLV--DQEVVVELKNDIEIKGTLQSVDQFLNLKLDNISCTDEK----------KYPHSVRNI
+FIRGSTVRYVYL-----------*
+>P1;gi|29246503|gb|EAA38097.1| GLP_127_22232_21855 [Giardia lamblia ... [ score 47 E 8e-05 ] [ range 10 .. 80 ]
+sequence
+-KMKQVLPNCV--NYYMVIALKDSTTIQGVLRNVDVQMNMVLSDVTMIDTE----------SKSSHYPTY
+SLQGSLISSIRIPD---------*
+>P1;gi|31212897|ref|XP_312266.1| ENSANGP00000002801 [Anopheles gambi... [ score 47 E 1e-04 ] [ range 12 .. 74 ]
+sequence
+-----FLNGLT--GKPVIIKLKWGHEYKGFLVSVDGYMNMQLANTEEFVDG----------QNTGHLGEV
+LIRCNNVLYI-------------*
+>P1;gi|45198700|ref|NP_985729.1| AFR182Cp [Eremothecium gossypii] >g... [ score 46 E 2e-04 ] [ range 6 .. 72 ]
+sequence
+-----FFKTLV--DQEVTVELKNDIELKGTLKSVDQFLNLKLDNISCNAKY----------PHLSSVRNI
+FIRGSTVRYVYL-----------*
+>P1;gi|33876795|gb|AAH02505.2| SNRPF protein [Homo sapiens] [ score 46 E 3e-04 ] [ range 55 .. 117 ]
+sequence
+-----FLNGLT--GKPVMVKLKWGMEYKGYLVSVDGYMNMQLANTEEYIDG----------ALSGHLGEV
+LIRCNNVLYI-------------*
+>P1;gi|29246813|gb|EAA38396.1| GLP_0_18571_18248 [Giardia lamblia AT... [ score 45 E 4e-04 ] [ range 5 .. 75 ]
+sequence
+----TFLSKLV--GRKVYVELKSGMQMHGVLLASDNFANLSLDNPVIYGSD----------ISFTHVSRV
+FIRGSAIQFLYLND---------*
+>P1;gi|32415147|ref|XP_328053.1| hypothetical protein ( related to s... [ score 45 E 6e-04 ] [ range 11 .. 74 ]
+sequence
+-----FLQDLV--NSFVTIRLKWGETYVGRLVSIDSYMNIQLSDTKEYINR----------KFTGALGQV
+LIRCNNVLYI-------------*
+>P1;gi|23483747|gb|EAA19315.1| probable u6 snRNA-associated sm-like ... [ score 44 E 8e-04 ] [ range 9 .. 71 ]
+sequence
+-----FVQSLK--GRTVIVRLNNGSDYKGILACLDERMNVTLEQTEEYFDG----------ELIEKYNDA
+FIRGNNVFYI-------------*
+>P1;gi|38108971|gb|EAA54910.1| hypothetical protein MG05701.4 [Magna... [ score 44 E 0.001 ] [ range 17 .. 75 ]
+sequence
+-----FLGEII--GNMVTVKLNSGVIYKGELQSVDGYMNIALEKAEEWVAG----------QKKRSYGDA
+FVRGNN-----------------*
+>P1;gi|21555384|gb|AAM63846.1| small nuclear ribonucleoprotein, puta... [ score 145 E 3e-34 ] [ range 6 .. 77 ]
+sequence
+GIPVKLLHEAS--GHIVTVELKSGELYRGSMIECEDNWNCQLEDITYTAKD----------GKVSQLEHV
+FIRGSKVRFMVIPD---------*
+>P1;gi|42552767|gb|EAA75610.1| hypothetical protein FG05965.1 [Gibbe... [ score 143 E 1e-33 ] [ range 256 .. 327 ]
+sequence
+GIPIKLLNEAQ--GHIVTLEITSGQTYRGKLLDAEDNMNVQLKDITVTARD----------GRVSHLDQV
+YIRGSHVRFFIVPD---------*
+>P1;gi|41052905|dbj|BAD07817.1| putative small nuclear ribonucleopro... [ score 140 E 6e-33 ] [ range 6 .. 77 ]
+sequence
+GIPVKLLHEAA--GHVVTVELKTGEVYRGSMVECEDNWNCQLDNITFTAKD----------GKVSQLEHV
+FIRGSRVRFMIIPD---------*
+>P1;gi|15223010|ref|NP_177757.1| small nuclear ribonucleoprotein D3,... [ score 139 E 1e-32 ] [ range 6 .. 77 ]
+sequence
+GIPVKLLHESS--GHIVSVEMKSGELYRGSMIECEDNWNCQLENITYTAKD----------GKVSQLEHV
+FIRGSLVRFLVIPD---------*
+>P1;gi|32404628|ref|XP_322927.1| hypothetical protein [Neurospora cr... [ score 139 E 1e-32 ] [ range 6 .. 77 ]
+sequence
+GIPIKLLNEAQ--GHIVTLEITSGQTYRGKLIEAEDNMNVQLKDITVTARD----------GRVSHLEQV
+YIRGSHVRFFIVPD---------*
+>P1;gi|38103648|gb|EAA50324.1| hypothetical protein MG04083.4 [Magna... [ score 139 E 2e-32 ] [ range 6 .. 77 ]
+sequence
+GIPIKLLNEAQ--GHIITLEITTGQTYRGKLIDAEDNMNIQLRDITVTARD----------GRVSHLDQV
+YIRGSHVRFFIVPD---------*
+>P1;gi|39585219|emb|CAE57462.1| Hypothetical protein CBG00427 [Caeno... [ score 139 E 2e-32 ] [ range 5 .. 76 ]
+sequence
+GVPIKILHEAE--GHTVTLETVTGEVYRGKLIEAEDNMNCQLSETIVTFRD----------GRSHQLENV
+FIRGNKIRFMILPD---------*
+>P1;gi|24652901|ref|NP_725106.1| Small ribonucleoprotein Sm D3 CG842... [ score 139 E 2e-32 ] [ range 4 .. 75 ]
+sequence
+GVPIKVLHEAE--GHIITCETITGEVYRGKLIEAEDNMNCQMTQITVTYRD----------GRTANLENV
+YIRGSKIRFLILPD---------*
+>P1;gi|45200940|ref|NP_986510.1| AGL157Cp [Eremothecium gossypii] >g... [ score 137 E 6e-32 ] [ range 5 .. 76 ]
+sequence
+GIPVKLLNEAQ--GHTVSLELTTGETYRGKLVGSEDNMNCQLRDVTATARN----------GQVTHMDHV
+FVRGSHVRFFVVPD---------*
+>P1;gi|17542052|ref|NP_503027.1| small nuclear ribonucleoprotein, sm... [ score 137 E 7e-32 ] [ range 5 .. 76 ]
+sequence
+GVPIKILHEAE--GHMVTLETVTGEVYRGKLSEAEDNMNCQLAETVVTFRD----------GRSHQLDNV
+FIRGNKIRFMILPD---------*
+>P1;gi|40745683|gb|EAA64839.1| conserved hypothetical protein [Asper... [ score 136 E 1e-31 ] [ range 9 .. 80 ]
+sequence
+GIPIKLLNEAQ--GHVVTLEITSGVVYRGKLLEAEDNMNVQLKDITVTARD----------GRVSHLDQV
+YIRGSHVRFFIVPD---------*
+>P1;gi|31239529|ref|XP_320178.1| ENSANGP00000011800 [Anopheles gambi... [ score 136 E 2e-31 ] [ range 9 .. 80 ]
+sequence
+GVPIKVLHEAE--GHVVTCETITGEVYRGKLIEAEDNMNCQMTQITVTYRD----------GRVGNLENV
+YIRGSKIRFLILPD---------*
+>P1;gi|28828063|gb|AAO50746.1| similar to expressed protein; protein... [ score 135 E 2e-31 ] [ range 4 .. 75 ]
+sequence
+GIPVKILHEAD--GHIVTVELKNGELYRGTLIESEDNMNCRMKNITVTARD----------GRNSQMEYC
+YVRGSKVRFIILPD---------*
+>P1;gi|34902916|ref|NP_912805.1| unnamed protein product [Oryza sati... [ score 132 E 1e-30 ] [ range 2 .. 73 ]
+sequence
+-LPLSLLKTAQ--GHPMLVELKNGETYNGHLVNCDTWMNIHLREVICTSKD----------GKFWRMPEC
+YIRGNTIKYLRVPD---------*
+>P1;gi|12230329|sp|Q9ZRU9|LSM4_FAGSY Probable U6 snRNA-associated Sm... [ score 131 E 5e-30 ] [ range 2 .. 73 ]
+sequence
+-LPLSLLKTAQ--GHPMLVELKSGETYNGHLVNCDTWMNIHLREVICTSKD----------GRFWRMPDC
+YIRGNTIKYLRVPD---------*
+>P1;gi|25012547|gb|AAN71375.1| RE35747p [Drosophila melanogaster] [ score 130 E 9e-30 ] [ range 2 .. 73 ]
+sequence
+-LPLSLLKTAQ--SHPMLVELKNGETYNGHLVSCDSWMNINLRDVICTSKD----------GRFWRMPEC
+YIRGSTIKYLRIPD---------*
+>P1;gi|7657317|ref|NP_056631.1| LSM4 homolog, U6 small nuclear RNA a... [ score 130 E 1e-29 ] [ range 2 .. 73 ]
+sequence
+-LPLSLLKTAQ--NHPMLVELKNGETYNGHLVSCDNWMNINLREVICTSRD----------GKFWRMPEC
+YIRGSTIKYLRIPD---------*
+>P1;gi|31232706|ref|XP_318746.1| ENSANGP00000016613 [Anopheles gambi... [ score 128 E 4e-29 ] [ range 1 .. 72 ]
+sequence
+-LPLSLLKTAQ--SHPMLVELKNGETYNGHLVSCDTWMNINLREVICTSKD----------GKFWRMPEC
+YIRGSTIKYLRIPD---------*
+>P1;gi|45270956|gb|AAS56859.1| YLR147C [Saccharomyces cerevisiae] [ score 125 E 4e-28 ] [ range 5 .. 76 ]
+sequence
+GIPVKLLNEAQ--GHIVSLELTTGATYRGKLVESEDSMNVQLRDVIATEPQ----------GAVTHMDQI
+FVRGSQIKFIVVPD---------*
+>P1;gi|40738809|gb|EAA57999.1| hypothetical protein AN6213.2 [Asperg... [ score 120 E 6e-27 ] [ range 12 .. 83 ]
+sequence
+-LPLGLLTAAQ--GHPMLVELKNGETLNGHLANCDNWMNLILREVVQTSPE----------GRFFKLPEV
+YVRGNNIKYLRIPE---------*
+>P1;gi|42551173|gb|EAA74016.1| hypothetical protein FG05320.1 [Gibbe... [ score 119 E 2e-26 ] [ range 2 .. 73 ]
+sequence
+-LPLGLLNAAQ--GHPMLVELKNGETLNGHLVSCDTWMNLTLKEVVQTSPE----------GRFVRLPEV
+YVKGNNIKYLRVPD---------*
+>P1;gi|32415822|ref|XP_328389.1| hypothetical protein [Neurospora cr... [ score 117 E 8e-26 ] [ range 2 .. 73 ]
+sequence
+-LPLGILTAAQ--GHPMLVELKNGETLNGHLIQCDTWMNLTLREVVQTSPE----------GKFVRLPEV
+YVKGNNIKYLRVPD---------*
+>P1;gi|17533617|ref|NP_495514.1| u6 snRNA-associated Sm-like protein... [ score 114 E 5e-25 ] [ range 3 .. 74 ]
+sequence
+-LPLSLLKTAQ--NHPMLVELKNGETYNGHLKACDSWMNIHLVDVIFTSKD----------GKFFKMSEA
+YVRGSTIKYLRIPE---------*
+>P1;gi|23613617|ref|NP_704638.1| small nuclear ribonucleoprotein (sn... [ score 113 E 1e-24 ] [ range 4 .. 84 ]
+sequence
+GIPIKLLHEGI--GHTISVETKSGILYRGTLVNREDNMNCLLENVSVVKKD----------GKQILLEQV
+YIRGGSVSFMIFPD---------*
+>P1;gi|19113071|ref|NP_596279.1| putative small ribonuclear protein-... [ score 104 E 5e-22 ] [ range 2 .. 73 ]
+sequence
+-LPLTLLNATQ--GRPILVELKNGETFNGHLENCDNYMNLTLREVIRTMPD----------GKFFRLPEC
+YIRGNNIKYLRIQD---------*
+>P1;gi|23508277|ref|NP_700946.1| U6 snRNA associated Sm-like protein... [ score 98 E 5e-20 ] [ range 21 .. 91 ]
+sequence
+--PLTLLKCSQ--NQPVMVELKNGETYSGFLVFCDRFMNLHMKNIICTSKD----------GKFWKISEC
+YVRGNSIKYIRVQD---------*
+>P1;gi|23485036|gb|EAA20166.1| Sm protein, putative [Plasmodium yoel... [ score 98 E 6e-20 ] [ range 2 .. 72 ]
+sequence
+--PLTLLKCSQ--NQPVMVELKNGETYSGFLVFCDRFMNLHMKNIICTSKD----------GKFWKISEC
+YVRGSSVKYIRVQD---------*
+>P1;gi|13812341|ref|NP_113459.1| putative small nuclear ribonucleopr... [ score 96 E 2e-19 ] [ range 8 .. 74 ]
+sequence
+----SILRESK--PYVITIECKNGFIYRGKLIHIEENMNCILKEAFVIKKK-----------KVQKLTLV
+FLRGSNISMFIIPD---------*
+>P1;gi|23478019|gb|EAA15220.1| hypothetical protein [Plasmodium yoel... [ score 92 E 4e-18 ] [ range 4 .. 61 ]
+sequence
+GTPIKLIHEGI--GHTISVETKSGILYRGILLFAEDNMNCLLSNVTVVKQD----------GKQILLEVC
+-----------------------*
+>P1;gi|38110088|gb|EAA55858.1| hypothetical protein MG01509.4 [Magna... [ score 92 E 4e-18 ] [ range 1 .. 59 ]
+sequence
+----------------MMVELKNGETLNGHLVQCDTWMNLTLREVVQTSPD----------GKFMRLPEI
+YVKGNNIKYLRVPD---------*
+>P1;gi|45200801|ref|NP_986371.1| AGL296Wp [Eremothecium gossypii] >g... [ score 74 E 8e-13 ] [ range 2 .. 71 ]
+sequence
+-LPLYLLTNAK--GQKLFIELKNGETIEGELVNVDNWMNLTLQSVVHAGSD-----------QTLQLPEI
+YVRGSFIKYIRLQD---------*
+>P1;gi|15072878|emb|CAC48005.1| hypothetical protein [Kluyveromyces ... [ score 72 E 2e-12 ] [ range 2 .. 71 ]
+sequence
+-LPLYLLTNAK--GQTMHVELKNGETVEGTLSDVDNWMNLTLSNVTHVA-S----------GETLKLPSF
+YLKGSFIKYVNLQD---------*
+>P1;gi|605651|gb|AAA58257.1| regulatory protein [ score 68 E 3e-11 ] [ range 2 .. 83 ]
+sequence
+-LPLYLLTNAK--GQQMQIELKNGEIIQGILTNVDNWMNLTLSNVTEYSEE----------SKAVKLNEI
+YIRGTFIKFIKLQD---------*
+>P1;gi|27545253|ref|NP_775359.1| small nuclear ribonucleoprotein D1 ... [ score 60 E 1e-08 ] [ range 8 .. 72 ]
+sequence
+---MKLSHE------TVTIELKNGTQVHGTITGVDVSMNTHLKAVKMTLKN----------REPTQLESL
+SIRGNNIRYFILPD---------*
+>P1;gi|5902102|ref|NP_008869.1| small nuclear ribonucleoprotein D1 p... [ score 60 E 2e-08 ] [ range 8 .. 72 ]
+sequence
+---MKLSHE------TVTIELKNGTQVHGTITGVDVSMNTHLKAVKMTLKN----------REPVQLETL
+SIRGNNIRYFILPD---------*
+>P1;gi|19172997|ref|NP_597548.1| U6 snRNA ASSOCIATED SM-LIKE PROTEIN... [ score 58 E 4e-08 ] [ range 3 .. 70 ]
+sequence
+--PLTLLRISR--NRIVELELKNNDQLRGLLHKCDMAMNLHLKSVTIQKED----------GSSIFINEC
+YLKGTSIRLVKL-----------*
+>P1;gi|17864386|ref|NP_524774.1| small nuclear ribonucleoprotein at ... [ score 58 E 4e-08 ] [ range 8 .. 72 ]
+sequence
+---MKLSHE------TVTIELKNGTQIHGTITGVDVAMNTHLKSVRMTIKN----------RDPVHLETL
+SIRGNNIRYFILPD---------*
+>P1;gi|17536583|ref|NP_495306.1| small nuclear ribonucleoprotein, sm... [ score 57 E 8e-08 ] [ range 8 .. 72 ]
+sequence
+---MKLSHE------TVNIELKNGTQVSGTIMGVDVAMNTHLRAVSMTVKN----------KEPVKLDTL
+SIRGNNIRYIILPD---------*
+>P1;gi|29468365|gb|AAO85522.1| putative U6 snRNA-associated Sm-like ... [ score 55 E 3e-07 ] [ range 8 .. 73 ]
+sequence
+-IPLDVLRNCR--GKVVSVELANGETINGTVMRVDRLMNLLLKQCIRTGAE----------GDFWKSRES
+LIRGASVR---------------*
+>P1;gi|15920417|ref|NP_376086.1| 90aa long hypothetical small nuclea... [ score 55 E 4e-07 ] [ range 13 .. 80 ]
+sequence
+--PLKSLKTAT--NKIVLVKLKDGSEYVGRLEQSDGTMNLVLRDCIET-RE----------GTVAKYGRV
+LIRGSNILFI-------------*
+>P1;gi|31199215|ref|XP_308555.1| ENSANGP00000009562 [Anopheles gambi... [ score 55 E 4e-07 ] [ range 12 .. 76 ]
+sequence
+---MKLSHE------TVTIELKNGTQVHGTITGVDVAMNTHLKAVKMTIKN----------RDPVTLDSL
+SIRGNNIRYYILPD---------*
+>P1;gi|45331345|gb|AAS57926.1| Lsm4p [Trypanosoma brucei] [ score 55 E 5e-07 ] [ range 9 .. 73 ]
+sequence
+--PLDVLRNCR--AKVVSVELAGGETINGTVVRVDRAMNMVLKQCIRTSAD----------GAFWRSRES
+LIRGASVR---------------*
+>P1;gi|38101787|gb|EAA48697.1| hypothetical protein MG00355.4 [Magna... [ score 54 E 7e-07 ] [ range 15 .. 73 ]
+sequence
+----------------ITVELKNSIQIRGTLKSVDQYLNLKLDDISVVE-D----------IKYPHLKNV
+FIRGSVVRYIHLP----------*
+>P1;gi|15897150|ref|NP_341755.1| Small nuclear riboprotein protein (... [ score 53 E 1e-06 ] [ range 8 .. 75 ]
+sequence
+--PLKSLRTAI--NRIVLVKLKDGSEYIGKLEQTDGTMNLVLRDCTEI-RE----------GTVAKYGRV
+LIRGSNILFI-------------*
+>P1;gi|23508457|ref|NP_701126.1| small nuclear ribonucleoprotein D1,... [ score 53 E 2e-06 ] [ range 8 .. 82 ]
+sequence
+---MKLTNEN------VTIELKNGTLITGIITAVDIKMNTHMKNVKVVIKN----------KQFLSLEHV
+TIRGNNIRYFILSD---------*
+>P1;gi|14602195|ref|NP_147628.1| homolog of small nuclear ribonucleo... [ score 52 E 3e-06 ] [ range 12 .. 79 ]
+sequence
+--PFKYLKEHL--NSQIYVKLKDGSEYVGKLVATDTTMNLILDDAIEVADN----------GTVAKIGRV
+LIKGSMVEFI-------------*
+>P1;gi|19115525|ref|NP_594613.1| small nuclear ribonucleoprotein smd... [ score 51 E 8e-06 ] [ range 8 .. 72 ]
+sequence
+---MKLTNE------TVSIELKNGTIVHGTITSVDMQMNTHLKAVKMTVKG----------REPVPVETL
+SIRGNNIRYYILPD---------*
+>P1;gi|23490523|gb|EAA22278.1| small nuclear riboprotein Sm-D1-like ... [ score 50 E 1e-05 ] [ range 8 .. 82 ]
+sequence
+---MKLTNEN------VTIELKNGTLISGVITGVDIKMNTHMKNVKVVIKN----------KQFLSLDHV
+TIRGNNIRYYILSD---------*
+>P1;gi|33876795|gb|AAH02505.2| SNRPF protein [Homo sapiens] [ score 49 E 3e-05 ] [ range 52 .. 118 ]
+sequence
+--PKPFLNGLT--GKPVMVKLKWGMEYKGYLVSVDGYMNMQLAN-TEEYID----------GALSHLGEV
+LIRCNNVLYIR------------*
+>P1;gi|17561850|ref|NP_506348.1| u6 snRNA-associated Sm-like protein... [ score 48 E 4e-05 ] [ range 18 .. 79 ]
+sequence
+-------------GKDVVVELKNDLSICGTLHSVDQYLNMKLTDITVSDPE-----------RFPHMKNC
+FIRGSVVRYVQLP----------*
+>P1;gi|9837170|gb|AAG00459.1| Sm-F [Trypanosoma brucei] [ score 48 E 7e-05 ] [ range 5 .. 70 ]
+sequence
+-VPAAFLASLV--GNTVHVKSKWGPVYVGTLVSCDPYMNLQLRDAV--EKA----------KQETELGDM
+LLRNNNVLYIR------------*
+>P1;gi|20093660|ref|NP_613507.1| Small nuclear ribonucleoprotein (sn... [ score 47 E 1e-04 ] [ range 14 .. 64 ]
+sequence
+---------------IVIVELKTGKTLRGRLVSFDGHLNLVLDDCVEIDED----------SEV-RLGRV
+LIRGDSV----------------*
+>P1;gi|45198700|ref|NP_985729.1| AFR182Cp [Eremothecium gossypii] >g... [ score 46 E 2e-04 ] [ range 15 .. 72 ]
+sequence
+----------------VTVELKNDIELKGTLKSVDQFLNLKLDNISC-NNE----------AKYPHLSNI
+FIRGSTVRYVYL-----------*
+>P1;gi|495021|gb|AAA28445.1| membrane-associated protein [ score 46 E 2e-04 ] [ range 4 .. 74 ]
+sequence
+GMPINFLNGLT--GKPVLVKLKWGQEYKGFLVSVDGYMNMQLANTEEVIEG----------SVTGNLGEV
+LIRCNNVLYI-------------*
+>P1;gi|17510579|ref|NP_490883.1| u6 snRNA-associated Sm-like protein... [ score 46 E 2e-04 ] [ range 7 .. 72 ]
+sequence
+--PAEFLKKVI--GKPVVVKLNSGVDYRGILACLDGYMNIALEQTEEYSNG----------QLQNKYGDA
+FIRGNNVLYI-------------*
+>P1;gi|9837174|gb|AAG00461.1| Sm-D1 [Trypanosoma brucei] [ score 45 E 3e-04 ] [ range 10 .. 78 ]
+sequence
+---IGFLQQLR--GTQVEIEMMNSTIVTGEITFVEANMNTYMRHVKITAK-----------GKNPEMAET
+YVCGSKIRYVILPE---------*
+>P1;gi|39595126|emb|CAE60163.1| Hypothetical protein CBG03715 [Caeno... [ score 45 E 5e-04 ] [ range 33 .. 99 ]
+sequence
+----SVLQGMA--GKNVAVELR-GDNYVGELVDCDSDLNIQLKNVTVI-RD----------SQETKEPVY
+YVTGKFIRFVHFKD---------*
+>P1;gi|42545628|gb|EAA68471.1| hypothetical protein FG00458.1 [Gibbe... [ score 44 E 7e-04 ] [ range 14 .. 76 ]
+sequence
+--PSSFLGNII--GNPVTVKLNSGVVYKGELQSVDGYMNIALEKTAEYVNG----------QKRREYGDA
+FVRGNNV----------------*
+>P1;gi|31212897|ref|XP_312266.1| ENSANGP00000002801 [Anopheles gambi... [ score 44 E 7e-04 ] [ range 9 .. 75 ]
+sequence
+--PKPFLNGLT--GKPVIIKLKWGHEYKGFLVSVDGYMNMQLAN-TEEFVD----------GQNTHLGEV
+LIRCNNVLYIR------------*
+>P1;gi|43303080|gb|EAD17282.1| unknown [environmental sequence] >gi|... [ score 44 E 0.001 ] [ range 10 .. 79 ]
+sequence
+--PLTTLQKNV--KKTVIVRLKNEVEYKGKMKNVDSYMNLIMTEAEELNEG----------KTVGKFARV
+ILRGNNVLFIKLED---------*

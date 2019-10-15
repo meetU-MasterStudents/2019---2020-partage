@@ -1,0 +1,2352 @@
+>P1;1cfe
+structureX:1cfe:   1 : : 135 : :pathogenesis-related leaf protein 6:Lycopersicon esculentum: -1: -1
+------------------------------------------QNSPQDYLAVHNDARAQVG---------
+--------VGPMSWDANLASRAQNYANSRAGDCNLIHS-------GAGENLAKGGG----DFTGRAAVQL
+WVSERPSYNYATNQC-VGGK--KCRHYTQVVWRNSVRLGCGRARC-NNG--WWFISCNYDPVGNWIGQRP
+Y---*
+>P1;1qnxa
+structureX:1qnx:  -4 :A: 204 :A:venom allergen 5:Vespula vulgaris: 1.9: 20.9
+AEAEFNNYCKIKCLKGGVHTACKYGSLKPNCGNKVVVSYGLTKQEKQDILKEHNDFRQKIARGLETRGNP
+GPQPPAKNMKNLVWNDELAYVAQVWANQC---QYGHDTCRDVAKYQVGQNVALTGSTAAKYDDPVKLVKM
+WEDEVKDYNPK--KKFSGNDFLKTGHYTQMVWANTKEVGCGSIKYIQEKWHKHYLVCNYGPSGNFKNEEL
+YQTK*
+>P1;gi|548586|sp|Q04108|PR04_LYCES Pathogenesis-related leaf protein... [ score 223 E 4e-58 ] [ range 25 .. 159 ]
+sequence
+------------------------------------------QNSPQDYLAVHNDARAQVG---------
+--------VGPMSWDANLASRAQNYANSRAGDCNLIHS-------GAGENLAKGGG----DFTGRAAVQL
+WVSERPDYNYATNQC-VGGK--MCGHYTQVVWRNSVRLGCGRARC-NNG--WWFISCNYDPVGNWVGERP
+Y---*
+>P1;gi|2414525|emb|CAA04881.1| pathogenesis-related protein [Lycoper... [ score 223 E 8e-58 ] [ range 26 .. 160 ]
+sequence
+------------------------------------------QNSPQDYLEVHNDARAQVG---------
+--------VGPMSWDADLESRAQSYANSRAGDCNLIHS-------GSGENLAKGGG----DFTGRAAVEL
+WVSEKPNYNYDTNEC-VSGK--MCGHYTQVVWRDSVRLGCGRALC-NDG--WWFISCNYDPVGNWVGQRP
+Y---*
+>P1;gi|21726980|emb|CAD38276.1| pathogenesis related protein isoform... [ score 220 E 4e-57 ] [ range 25 .. 159 ]
+sequence
+------------------------------------------QNSPQDYLAVHNDARAQVG---------
+--------VGPMSWDAGLASRAQNYANSRTGDCNLIHS-------GAGENLAKGSG----DFTGRAAVQL
+WVGEKPNYNYGTNQC-ASGQ--VCGHYTQVVWRNSVRLGCGRARC-NNG--WWFISCNYDPVGNYVGQRP
+Y---*
+>P1;gi|21726982|emb|CAD38277.1| pathogenesis related protein isoform... [ score 218 E 2e-56 ] [ range 25 .. 159 ]
+sequence
+------------------------------------------QNSPQDYLAVHNDARAQVG---------
+--------VGPMSWDAGLAARAQNYANSRIGDCNLIHS-------GAGENLAKGGG----DYTGRRAVQL
+WVSEKPNYNYDTNQC-ASGK--MCGHYTQVVWRNSVRLGCGRARC-NNG--WWFISCNYDPVGNYVGQRP
+Y---*
+>P1;gi|42557353|dbj|BAD11072.1| pathogenesis-related protein 1 [Caps... [ score 217 E 4e-56 ] [ range 25 .. 158 ]
+sequence
+------------------------------------------QNSPQDYLEVHNNARAQVG---------
+--------VGPMTWDAGLASRAQNYANSRTGDCNLIHS-------GPGENLAKGGG----DFTGRAAVEL
+WVFEKPNYNHGTNQC-ASGK--VCGHYTQVVWRNSVRLGCGRARC-NNG--WWFISCNYDPVGNWAGQSP
+----*
+>P1;gi|13560653|gb|AAK30143.1| pathogenesis-related protein PR-1 pre... [ score 210 E 4e-54 ] [ range 24 .. 160 ]
+sequence
+------------------------------------------QNSPQDYLNAHNAARRQVG---------
+--------VGPMTWDNRLAAFAQNYANQRIGDCRMQHS-------GYGENLAAAFP----QLNAAGAVKM
+WVNEKQWYNYNSNSC-APGK--VCGHYTQVVWRNSVRLGCARVRC-NNG--WYFITCNYDPPGNWRGQRP
+Y---*
+>P1;gi|282959|pir||S22531 pathogenesis-related protein 1b - common t... [ score 209 E 9e-54 ] [ range 24 .. 160 ]
+sequence
+------------------------------------------QNSPQDYLNPHNAARRQVG---------
+--------VGPMTWDNRLAAFAQNYANQRAGDCRMQHS-------GYGENLAAAYP----QLHAAGAVKM
+WVDEKQFYNYNSNTC-AAGN--VCGHYTQVVWRNSVRLGCARVRC-NNG--WYFITCNYDPPGNWRGQRP
+Y---*
+>P1;gi|40646968|gb|AAQ19681.1| cytoplasmic small heat shock protein ... [ score 209 E 1e-53 ] [ range 25 .. 158 ]
+sequence
+------------------------------------------QNSPQDYLAVHNNARAQVG---------
+--------VGPMSWDAGLASRAQNYANSRTGDCSLIHS-------GAGENLAKGGG----DYTGRRAVEL
+WVSEKPNYNHATNQC-AGGE---CRHYTQVVWRNSVRLGCGRARC-NNG--WWFISCNYDPVGNWVGQRP
+Y---*
+>P1;gi|130846|sp|P11670|PRB1_TOBAC Basic form of pathogenesis-relate... [ score 205 E 2e-52 ] [ range 24 .. 159 ]
+sequence
+------------------------------------------QNSPQDYLNPHNAARRQVG---------
+--------VGPMTWDNRLAAYAQNYANQRIGDCGMIHS-------PYGENLAAAFP----QLNAAGAVKM
+WVDEKRFYDYNSNSC-VGG---VCGHYTQVVWRNSVRLGCARVRS-NNG--WFFITCNYDPPGNFIGQRP
+F---*
+>P1;gi|130827|sp|P07053|PR1B_TOBAC Pathogenesis-related protein 1B p... [ score 204 E 3e-52 ] [ range 31 .. 168 ]
+sequence
+------------------------------------------QNSQQDYLDAHNTARADVG---------
+--------VEPLTWDNGVAAYAQNYVSQLAADCNLVHS-------QYGENLAQGSG----DFTAAKAVEM
+WVDEKQYYDHDSNTC-AQGQ--VCGHYTQVVWRNSVRVGCARVKC-NNG--GYVVSCNYDPPGNVIGQSP
+Y---*
+>P1;gi|1228950|emb|CAA65420.1| pathogenesis-related protein 1 [Arabi... [ score 204 E 3e-52 ] [ range 27 .. 162 ]
+sequence
+------------------------------------------QDSPQDFLAVHNRARAEVG---------
+--------VGPLRWDEKVAAYARNYANQRKGDCAMKHS-------SYGENLAWSSG----RLTGRRAVDM
+WVDEQFDYDYDSNTC-AWDK--QCGHYTQVVWRNSERLGCAKVRC-NNG--QTFITCNYDPPGNWVGEWP
+----*
+>P1;gi|100370|pir||S10205 pathogenesis-related protein 1 - common to... [ score 203 E 7e-52 ] [ range 31 .. 168 ]
+sequence
+------------------------------------------QNSPQDYLDAHNTARADVG---------
+--------VEPLTWDDQVAAYAQNYASQLAADCMLVHS-------QYGENLAWGSG----DFTAAKAVEM
+WVNEKQYYDHDSNTC-AQGQ--VCGHYTQVVWRNSVRVGCARAQC-NSG--GYVVSCNYDPPGNFVGQSP
+Y---*
+>P1;gi|1469932|gb|AAB05225.1| pathogenesis-related protein-1 [ score 203 E 9e-52 ] [ range 31 .. 168 ]
+sequence
+------------------------------------------QNSQQDYLNAHNTARADVG---------
+--------VEPLTWDDEVAAYAQNYVSQLAADCNLVHG-------QYGENLAMGSG----DFTAAKAVEM
+WVDEKQYYDHGSNHC-AQGQ--VCGHYTQVVWRNSVRVGCARVQC-NNG--GYVVSCNYDPPGNFVGQSP
+Y---*
+>P1;gi|15235056|ref|NP_195098.1| pathogenesis-related protein, putat... [ score 202 E 1e-51 ] [ range 27 .. 163 ]
+sequence
+------------------------------------------QDSPQDFLAVHNRARAEVG---------
+--------VGPLRWDEKVAAYARNYANQRKGDCAMKHS-------SYGENIAWSSG----SMTGVAAVDM
+WVDEQFDYDYDSNTC-AWDK--QCGHYTQVVWRNSERLGCAKVRC-NNG--QTFITCNYDPPGNWVGEWP
+Y---*
+>P1;gi|130828|sp|P09042|PR1C_TOBAC Pathogenesis-related protein 1C p... [ score 201 E 2e-51 ] [ range 31 .. 168 ]
+sequence
+------------------------------------------QNSQQDYLDAHNTARADVG---------
+--------VEPLTWDDQVAAYAQNYASQLAADCNLVHS-------QYGENLAWGSG----DFTAAKAVEM
+WVNEKQYYAHDSNTC-AQGQ--VCGHYTQVVWRNSVRVGCARVQC-NNG--GYIVSCNYDPPGNVIGKSP
+Y---*
+>P1;gi|17221641|dbj|BAB78476.1| PR-1 [Solanum torvum] [ score 200 E 5e-51 ] [ range 16 .. 152 ]
+sequence
+------------------------------------------QTPQENFLNAHNAARRRVG---------
+--------VGPMTWDNTLAAYAQNYANQRIGDCMMQHS-------PYGENLAAAFP----QLNAAGAVKM
+WEDEKQWYDYNSNTC-APGK--VCGHYTQVVWRNSVRLGCARVRC-SSG--WVFITCNYDPPGNYIGQRP
+Y---*
+>P1;gi|130826|sp|P08299|PR1A_TOBAC Pathogenesis-related protein 1A p... [ score 197 E 3e-50 ] [ range 31 .. 168 ]
+sequence
+------------------------------------------QNSQQDYLDAHNTARADVG---------
+--------VEPLTWDDQVAAYAQNYASQLAADCNLVHS-------QYGENLAEGSG----DFTAAKAVEM
+WVDEKQYYDHDSNTC-AQGQ--VCGHYTQVVWRNSVRVGCARVQC-NNG--GYVVSCNYDPPGNYRGESP
+Y---*
+>P1;gi|7442176|pir||T08154 pathogenesis-related protein PR1 - rape >... [ score 194 E 3e-49 ] [ range 27 .. 162 ]
+sequence
+------------------------------------------QNSPQDYVNAHNQARQAVG---------
+--------VGPVQWDGTLAAFAQSYADRLRGDCRLVHS-------GYGENLAWSSA----DFSGVSAVNL
+WVNEKANYNYASNTC-INGE---CRHYTQVVWRKSVRIGCGKARC-NNG--GTIISCNYDPRGNYVNEKP
+Y---*
+>P1;gi|15225965|ref|NP_179064.1| pathogenesis-related protein, putat... [ score 193 E 5e-49 ] [ range 27 .. 161 ]
+sequence
+------------------------------------------QDSQQDYVNAHNQARSQIG---------
+--------VGPMQWDEGLAAYARNYANQLKGDCRLVHS-------PYGENLAKSGG----DLSGVAAVNL
+WVNEKANYNYDTNTC-NG----VCGHYTQVVWRNSVRLGCAKVRC-NNG--GTIISCNYDPPGNYANQKP
+Y---*
+>P1;gi|3702665|emb|CAA07474.1| pathogenisis-related protein 1.2 [Tri... [ score 193 E 7e-49 ] [ range 26 .. 164 ]
+sequence
+------------------------------------------QNTPQDFVNLHNRARAVDG---------
+--------VGPVAWDNNVARFAQDWAAQRAGDCRLQHS-------GGGENIFWGSG----SWTAADAVKL
+WVDEKQNYHLDSNTC-DAGK--VCGHYTQVVWRKSTRIGCARVVC-GNR--GVFITCNYNPPGNFNGERP
+F---*
+>P1;gi|15239598|ref|NP_197985.1| pathogenesis-related protein, putat... [ score 191 E 2e-48 ] [ range 26 .. 164 ]
+sequence
+------------------------------------------QDQPQDYLDEHNRARTQVG---------
+--------VPPMKWHAGAEQYAWNYAQQRKGDCSLTHS-------NYGENLAWSGG----ALSGAEAVKL
+WVNEKSDYIYASNTC-SDGK--QCGHYTQVVWRTSEWVGCAKVKC-DNG--GTFVTCNYYPPGNYRGRWP
+Y---*
+>P1;gi|1709754|sp|Q08697|PR1A_LYCES Pathogenesis-related protein 1A1... [ score 191 E 2e-48 ] [ range 22 .. 153 ]
+sequence
+------------------------------------------QTPRENFLNAHNAARRRVG---------
+--------VGPMTWDDGLAAYAQNYANQRADDCGMIHS-------PYGENLAAAFP----QLNAAGAVKM
+WDDEKQWYDYNSNTC-APGK--VCGHYTQVVWRKSVRLGCARVRC-NSG--WVFITCNYDPPGNYI----
+----*
+>P1;gi|15225974|ref|NP_179068.1| pathogenesis-related protein 1 (PR-... [ score 191 E 3e-48 ] [ range 27 .. 161 ]
+sequence
+------------------------------------------QDSPQDYLRVHNQARGAVG---------
+--------VGPMQWDERVAAYARSYAEQLRGNCRLIHS-------GYGENLAWGSG----DLSGVSAVNM
+WVSEKANYNYAANTC-NG----VCGHYTQVVWRKSVRLGCAKVRC-NNG--GTIISCNYDPRGNYVNEKP
+Y---*
+>P1;gi|7442178|pir||S71554 pathogenesis-related protein bpr1-1 precu... [ score 191 E 3e-48 ] [ range 26 .. 164 ]
+sequence
+------------------------------------------QNTPQDFVNLHNRARAVDG---------
+--------VGPVAWDNNVARFAQNYAAERAGDCRLQHS-------GGGENIFWGSG----SWTAADAVKL
+WVDEKQNYHLDSNTC-NAGK--VCGHYTQVVWRKSIRIACARVVC-GNR--GVFITCNYDPPGNFNGERP
+F---*
+>P1;gi|33413141|emb|CAD60273.1| putative pathogenesis related protei... [ score 190 E 5e-48 ] [ range 25 .. 161 ]
+sequence
+------------------------------------------QNSPQDYVNAHNAARAQVG---------
+--------VGSITWNDTVAAYAQNYANKRISDCNLVHS-------GYGENLAKGSG----SLTGTDAVNL
+WVGEKPNYDYNSNSC-VGGE---CLHYTQVVWSNSVRLGCARVQC-NNG--WWFVTCNYDPPGNYIGQRP
+Y---*
+>P1;gi|19073340|gb|AAL84768.1| pathogenesis-related protein 1-1a [Cu... [ score 190 E 6e-48 ] [ range 2 .. 140 ]
+sequence
+------------------------------------------QDSPQDFVGVHNVARAQVG---------
+--------VGPIEWDKTVASFAQQYANRRLNDCRLVNS-------GYGENIAWGSP----DLSAKDAVQL
+WVDEKPFYNYETNTC-AAGE--LCGHYTQVVWRKSVRIGCAKVRC-TDG--GTFIICNYEPRGNFLYQRP
+Y---*
+>P1;gi|37531954|ref|NP_920279.1| putative type-1 pathogenesis-relate... [ score 189 E 6e-48 ] [ range 29 .. 168 ]
+sequence
+------------------------------------------QNTPQDYVNLHNSARRADG---------
+--------VGPVSWDPKVASFAQSYAAKRAGDCRLQHS-------GYGENIFWGSA----AWSAADAVAS
+WVGEKKNYHYDTNTC-DPGK--VCGHYTQVVWRKSVRIGCARVVC-ANR--GVFITCNYDPPGNFNGERP
+F---*
+>P1;gi|2129798|pir||S65777 pathogenesis-related protein 1a homolog p... [ score 189 E 1e-47 ] [ range 27 .. 161 ]
+sequence
+------------------------------------------QDSPQDYVNAHNQARQAVG---------
+--------VGPVQWDGTLAAYAQNYADRLRGDCRLIHS-------PYGENLAGSSA----DFSGVSAVNL
+WVNEKANYNHDSNTC-NG----ECLHYTQVVWRKSVRIGCGKARC-NNG--GTIISCNYDPRGNYVNEKP
+Y---*
+>P1;gi|34914936|ref|NP_918815.1| putative pathogenesis-related prote... [ score 188 E 3e-47 ] [ range 28 .. 167 ]
+sequence
+------------------------------------------QNSPQDYLSPQNAARSAVG---------
+--------VGPMSWSTKLQGFAEDYARQRKGDCRLQHS-------GYGENIFWGSA----DWTAADAVRS
+WVDEKKYYNYASNSC-AAGK--VCGHYTQVVWRDSTNVGCARVRC-DNR--GIFIICNYEPRGNIVGRRP
+Y---*
+>P1;gi|15230919|ref|NP_188603.1| pathogenesis-related protein, putat... [ score 188 E 3e-47 ] [ range 23 .. 161 ]
+sequence
+------------------------------------------EDLQQQFLEAHNEARNEVG---------
+--------LDPLVWDDEVAAYAASYANQRINDCALVHS-------NGGENIAMSSG----EMSAEDAAEM
+WINEKQYYDYDSNTC-PNGG--TCLHYTQVVWKNTVRLGCAKVVC-NSG--GTFITCNYDPPGNYIGEKP
+F---*
+>P1;gi|2500716|sp|Q41359|PR1_SAMNI Pathogenesis-related protein PR-1... [ score 187 E 5e-47 ] [ range 29 .. 167 ]
+sequence
+------------------------------------------QNSPQDYVDAHNAARSAVN---------
+--------VGPVTWDESVAAFARQYAQSRAGDCRLVHS-------GYGENLAFGSG----ELTGRNAVDM
+WVAERNDYNPNTNTC-APGK--VCGHYTQVVWRNSVRIGCARVRC-NNG--AWFITCNYSPPGNYAGQRP
+Y---*
+>P1;gi|4928711|gb|AAD33696.1| PR1a precursor [Glycine max] [ score 186 E 5e-47 ] [ range 28 .. 172 ]
+sequence
+------------------------------------------QDSAEDYVNAHNAAEAEVG---------
+--------VPSLAWDDTVAAYAESYANQRKGDCQLIHS-------GYGENIAMSTG----ELSGTDAVKM
+WVDEKSNCDYDSNSC-VGGE---CLHYTQVVWANSVRLGCAKVTC-DNG--GTFITCNYDPPGNFVGERP
+Y---*
+>P1;gi|7442185|pir||T08126 pathogenesis-related protein 1 precursor ... [ score 184 E 4e-46 ] [ range 24 .. 156 ]
+sequence
+------------------------------------------QNSPQDYLNAHNAARRQL----------
+--------VSPMTWDNRLAAYAQNYANQRIGDCSTLWC-------PYGENLVSRFP----PAQLAGAVKM
+WVNEKQWYNYNSNSC-APGK--VCGHYTQVVWRNSVRLGCARVRC-NNG--WYFITCNYDPPGNWRGQP-
+----*
+>P1;gi|34914926|ref|NP_918810.1| rice pathogenesis-related protein c... [ score 184 E 4e-46 ] [ range 23 .. 164 ]
+sequence
+------------------------------------------QNSPQDYVRLHNAARAAVG---------
+--------VGPVTWDTSVQAFAENYASQRSGDCSLIHS-------NLGENLFWGSG----DWTAASAVQS
+WVGEKSDYDYASNSC-AQGK--VCGHYTQVVWRASTSIGCARVVC-SNG--GVFITCNYKPAGNFVGQRP
+Y---*
+>P1;gi|15235994|ref|NP_194309.1| allergen V5/Tpx-1-related family pr... [ score 183 E 5e-46 ] [ range 73 .. 210 ]
+sequence
+-------------------------------------------SFEQQFLDPHNTVRGGLG---------
+--------LPPLVWDVKIASYATWWANQRRYDCSLTHS-------TYGENLFWGSG----DFTSTFAVES
+WTVEAKSYNHMTNTC-EGDG--MCGHYTQIVWRETRRLGCARVVC-ENG--GVFITCNYDPPGNYVGEKP
+Y---*
+>P1;gi|548592|sp|Q05968|PR1_HORVU Pathogenesis-related protein 1 pre... [ score 182 E 1e-45 ] [ range 25 .. 164 ]
+sequence
+------------------------------------------QNSPQDYVSPHNAARSAVG---------
+--------VGAVSWSTKLQAFAQNYANQRINDCKLQHS-------GYGENIFWGSA----DWKASDAVNS
+WVSEKKDYDYGSNTC-AAGK--VCGHYTQVVWRASTSIGCARVVC-NNN--GVFITCNYEPRGNIIGQKP
+Y---*
+>P1;gi|15225280|ref|NP_179589.1| pathogenesis-related protein 1 (PR-... [ score 181 E 2e-45 ] [ range 42 .. 176 ]
+sequence
+---------------------------------------------PQETLVVHNKARAMVG---------
+--------VGPMVWNETLATYAQSYAHERARDCAMKHS-------LGGENLAAGWG----TMSGPVATEY
+WMTEKENYDYDSNTC-GGDG--VCGHYTQIVWRDSVRLGCASVRC-KND--EYWVICSYDPPGNYIGQRP
+Y---*
+>P1;gi|15235962|ref|NP_194875.1| pathogenesis-related protein, putat... [ score 181 E 3e-45 ] [ range 51 .. 185 ]
+sequence
+---------------------------------------------QQQFLRPHNILRAKLR---------
+--------LPPLKWSNSLALYASRWARTRRGDCKLIHS-------GYGENLFWGSG----KWTPRDAVAA
+WASEMKYYDRRTSHC-KANG--DCLHYTQLVWKKSSRIGCAISFC-KTG--DTFIICNYDPPGNIVGQPP
+F---*
+>P1;gi|22327916|ref|NP_680450.1| allergen V5/Tpx-1-related family pr... [ score 181 E 3e-45 ] [ range 75 .. 207 ]
+sequence
+------------------------------------------------FLDPHNALRSGLG---------
+--------LPPLIWDGKLASYATWWANQRRYDCSLTHS-------TYGENLFWGSG----SWAPGFAVQS
+WIVEGRSYNHNTNSC-DGSG--MCGHYTQMVWRDTKRLGCARVVC-ENG--GVFITCNYDPPGNYVGEKP
+Y---*
+>P1;gi|548588|sp|P35792|PR12_HORVU Pathogenesis-related protein PRB1... [ score 180 E 5e-45 ] [ range 25 .. 164 ]
+sequence
+------------------------------------------QNSPQDYVSPHNAARSAVG---------
+--------VGAVSWSTKLQAFAQNYANQRINDCKLQHS-------GYGENIFWGSA----DWKAADAVNS
+WVNEKKDYNYGSNTC-AAGK--VCGHYTQVVWRASTSIGCARVVC-NNN--GVFITCNYEPRGNIVGQKP
+Y---*
+>P1;gi|130940|sp|Q00008|PRMS_MAIZE Pathogenesis-related protein PRMS... [ score 179 E 1e-44 ] [ range 28 .. 167 ]
+sequence
+------------------------------------------ENSPQDYLTPQNSARAAVG---------
+--------VGPVTWSTKLQQFAEKYAAQRAGDCRLQHS-------GYGENIFWGSA----DWKAVDAVRS
+WVDEKQWYNYATNSC-AAGK--VCGHYTQVVWRATTSIGCARVVC-DNR--GVFIICNYEPRGNIAGMKP
+Y---*
+>P1;gi|15235992|ref|NP_194308.1| pathogenesis-related protein, putat... [ score 178 E 2e-44 ] [ range 54 .. 190 ]
+sequence
+-----------------------------------------------QFLFRHNLVRAARF---------
+--------EPPLIWDRRLQNYAQGWANQRRGDCALRHS-------NLGENIYWGGA----NWSPADAVVA
+WASEKRFYHYGSNTC-DAGQ--MCGHYTQIVWKSTRRVGCARVVC-DNG--GIFMTCNYDPPGNYIGQKP
+Y---*
+>P1;gi|11277195|pir||JC7330 acidic pathogenesis-related protein 1a p... [ score 178 E 2e-44 ] [ range 25 .. 168 ]
+sequence
+------------------------------------------QNSAQDFVDPHNAARADVG---------
+--------VGPVSWDDTVAAYAESYAAQRQGDCKLEHS-------KYGENIFWGSG----DWTAASAVSA
+WVSEKQWYDHGSNSC-SAGS--SCGHYTQVVWRDSTAIGCARVVC-DDL--GVFITCNYSPPGNFVGQSP
+Y---*
+>P1;gi|15235052|ref|NP_195097.1| pathogenesis-related protein, putat... [ score 178 E 2e-44 ] [ range 28 .. 166 ]
+sequence
+------------------------------------------QDRRQDYLDVHNHARDDVS---------
+--------VPHIKWHAGAARYAWNYAQRRKRDCRLIHS-------NYGENLAWSSG----DMSGAAAVRL
+WVREKSDYFHKSNTC-RAGK--QCGHYTQVVWKNSEWVGCAKVKC-DNG--GTFVTCNYSHPGNVRGRRP
+Y---*
+>P1;gi|42561586|ref|NP_171638.2| allergen V5/Tpx-1-related family pr... [ score 173 E 7e-43 ] [ range 86 .. 219 ]
+sequence
+----------------------------------------------REFLIAHNLVRARVG---------
+--------EPPFQWDGRLAAYARTWANQRVGDCRLVHS-------NYGENIFWAGN----NWSPRDIVNV
+WADEDKFYDVKGNTC-EPQH--MCGHYTQIVWRDSTKVGCASVDC-SNG--GVYAICVYNPPGNYEGENP
+F---*
+>P1;gi|7442179|pir||T02054 pathogenesis related protein-1 - maize >g... [ score 172 E 1e-42 ] [ range 24 .. 163 ]
+sequence
+------------------------------------------QNSPQDYVDPHNAARADVG---------
+--------VGPVSWDDTVAAYAQSYAAQRQGDCKLIHS-------GYGENLFWGSA----DWSASDAVGS
+WVSEKQYYDHDTNSC-AEGQ--VCGHYTQVVWRDSTAIGCARVVC-DNN--GVFIICSYNPPGNVVGESP
+Y---*
+>P1;gi|480679|pir||S37166 pathogenesis-related protein 1a - barley >... [ score 171 E 2e-42 ] [ range 25 .. 164 ]
+sequence
+------------------------------------------QNSPQDYLSPHNAARAAVG---------
+--------VGAVSWSTKLQAYAQSYANQRIGDCKLQHS-------GYGENIFWGSA----DWKAADAVKL
+WVDEKKDYDYGSNTC-AGGK--VCGHYTQVVWRASTSIGCARVVC-NNG--GVFITCNYEPAGNVVGQKP
+Y---*
+>P1;gi|15222865|ref|NP_175428.1| pathogenesis-related protein, putat... [ score 170 E 4e-42 ] [ range 24 .. 161 ]
+sequence
+------------------------------------------QNTPQDYLNSHNTARAQVG---------
+--------VPNVVWDTTLAAYALNYSNFRKADCNLVHS-------NYGENLAKGSS----SFSAISAVKL
+WVDEKPYYSYAYNNC-TGGK--QCLHYTQVVWRDSVKIGCARVQC-TNT--WWFVSCNYNSPGNWVGEYP
+Y---*
+>P1;gi|21304633|gb|AAM45439.1| pathogenesis-related protein 1 [Oryza... [ score 169 E 1e-41 ] [ range 22 .. 165 ]
+sequence
+------------------------------------------QNSAQDYVDAHNAARSDVG---------
+--------VGPVSWDDTVAAYAESYAAQRQGDCALEHS-------KYGENIFWGSG----DWTAASAVSS
+WVAEKQWYDHDSNSC-PAGS--SCGHYTQVVWSNSTAIGCARVVC-DNS--GVFITCNYSPPGNVDGESP
+Y---*
+>P1;gi|15232719|ref|NP_187570.1| pathogenesis-related protein, putat... [ score 169 E 1e-41 ] [ range 51 .. 186 ]
+sequence
+----------------------------------------------REFLQAHNDARVSSG---------
+--------VPTLGWDRDLARFADKWAKQRKSDCSMIHS-------GYGENIFWHKK----TWSPEKVVTR
+WFEERFNYDVKTNTC-APGK--MCGHYTQMVWRETTAVGCARVKC-HNG--GYLVVCEYDPRGNYEGERP
+F---*
+>P1;gi|3702663|emb|CAA07473.1| pathogenisis-related protein 1.1 [Tri... [ score 168 E 2e-41 ] [ range 25 .. 164 ]
+sequence
+------------------------------------------QNSPQDYLSPHNAARAAVG---------
+--------VGAVSWSTKLQGFAQSYANQRINDCKLQHS-------GYGENIFWAGA----DWKAADAVKL
+WVDEKKDYDYGSNTC-AGGK--VCGHYTQVVWRASTSIGCARVVC-NNN--GVFITCNYEPAGNVVGQKP
+Y---*
+>P1;gi|8698925|gb|AAF78528.1| pathogenesis-related protein [Pyrus py... [ score 168 E 2e-41 ] [ range 25 .. 142 ]
+sequence
+------------------------------------------QDTPQDYLNSHNTARAAVG---------
+--------VGPLTWDDNVAGYAQNYANQHVGDCNLVHS-------GYGENLAMSTG----DMSGTAAVDL
+WVAEKADYNYESNSC-ADGK--VCGHYTQVVWRNSARVGCAKVRC-SSG--G------------------
+----*
+>P1;gi|15235081|ref|NP_195099.1| pathogenesis-related protein, putat... [ score 166 E 9e-41 ] [ range 39 .. 172 ]
+sequence
+---------------------------------------------PDSYLRPHNAARAAVK---------
+--------VKPLRWDFGIATVAQDYANHLAGPCSLEHS-------SYGENLAFGSG----DMSAAQAVAM
+WVHEKSYYDFYSNSC-H-GP--ACGHYTQVVWRGSARLGCGKAKC-NNG--ASIVVCNYDPAGNYIGARP
+Y---*
+>P1;gi|14334165|gb|AAK60565.1| pathogenesis-related protein 1 [Triti... [ score 166 E 1e-40 ] [ range 25 .. 164 ]
+sequence
+------------------------------------------QNSPQDYLSPHNAARAAVG---------
+--------VGAVTWSTKLQGFAQSYANQRINDCKLQHS-------GYGENIFWGSA----DWKAADAVNA
+WVGEKKDYDYGSNTC-AAGK--VCGHYTQVVWRASTSIGCARVVC-NNN--GVFITCNYEPRGNIIGQKP
+Y---*
+>P1;gi|30144637|gb|AAP14676.1| pathogenesis related-1 [Triticum aest... [ score 162 E 2e-39 ] [ range 17 .. 156 ]
+sequence
+------------------------------------------QNSPQDYLSPHNAARAAVG---------
+--------VGAVTWSTKLQGFPQTYANQRINDCKLQHS-------GYGENIFWGSA----DWKAADAVNA
+WVGEKKDYDYDSNTC-AAGK--VCGHYTQVVWRASTSIGCARVVC-NNN--GVFITCNYEPRGNIIGQKP
+Y---*
+>P1;gi|2500715|sp|Q40374|PR1_MEDTR Pathogenesis-related protein PR-1... [ score 161 E 2e-39 ] [ range 40 .. 173 ]
+sequence
+-----------------------------------------------QFLIPQNIARAAVG---------
+--------LRPLVWDDKLTHYAQWYANQRRNDCALEHS-------NYGENIFWGSG----VWNPAQAVSA
+WVDEKQFYNYWHNSC-VDGE--MCGHYTQVVWGSTTKVGCASVVC-SDD--GTFMTCNYDPPGNYYGERP
+Y---*
+>P1;gi|31560776|ref|NP_076223.2| RIKEN cDNA 1200009H11 [Mus musculus... [ score 158 E 2e-38 ] [ range 23 .. 170 ]
+sequence
+------------------------------------------EDEKQTMVDLHNQYRAQVS---------
+--------PPAMRWDDELAAFAKAYAQKCVWGHNKERG-------RRGENLFATDE----GMDVPLAVGN
+WHEEHEYYNFSTATC-DPNQ--MCGHYTQVVWSKTERIGCGSHFC-ETN--IHLLVCNYEPPGNVKGRKP
+Y---*
+>P1;gi|28201315|dbj|BAC56823.1| putative pathogenesis-related protei... [ score 158 E 2e-38 ] [ range 26 .. 172 ]
+sequence
+------------------------------------------QSSPQDFVDAHNDARRGVG---------
+--------LPDVVWNTTLQAFAESYVAVLAATCSLDHS-------GYGENLYMGGS----ASTAADAVGL
+WMEEKADYVYSSNTC-TRGA--DCGHYTQVVWRSTTSIGCARAAC-SNG--GGVIICNYFPPGNFPDQRP
+Y---*
+>P1;gi|28201322|dbj|BAC56830.1| putative pathogenesis-related protei... [ score 157 E 3e-38 ] [ range 29 .. 171 ]
+sequence
+------------------------------------------QNSPQDFVDLHNAARRVEG---------
+--------VGEVVWDDAVAAYAENYAAERAGDCALIHS-------GYGENLFGGSG----SWTAADAVNS
+WVGEKDLYDYDSNSC-LGWD--SCLHYTQVMWSRTTAIGCARVDC-DNG--GVFITCNYNPAGNFQGERP
+F---*
+>P1;gi|15241922|ref|NP_195893.1| allergen V5/Tpx-1-related family pr... [ score 157 E 3e-38 ] [ range 59 .. 193 ]
+sequence
+-----------------------------------------------EFLLAHNAARVASG---------
+--------ASNLRWDQGLARFASKWAKQRKSDCKMTHS-------GYGENIFQRSE----NWSPRRVVDK
+WMDESLNYDRVANTC-KSGA--MCGHYTQIVWRTTTAVGCARSKC-DNN--RGFLVCEYSPSGNYEGESP
+F---*
+>P1;gi|23264042|gb|AAL65291.1| pseudechetoxin [Pseudechis australis] [ score 156 E 7e-38 ] [ range 31 .. 178 ]
+sequence
+------------------------------------------KNYQKEIVDKHNALRRSVN---------
+--------MLQMKWNSRAAQNAKRWAN----RCTFAHS-------PCGENIFMSSQ----PFPWSGVVQA
+WYDEIKNFVYGIGAK-PPGS--VIGHYTQVVWYKSYLIGCASAKC-SSS--KYLYVCQYCPAGNIRGATP
+Y---*
+>P1;gi|34395063|dbj|BAC84725.1| putative pathogenesis-related protei... [ score 155 E 2e-37 ] [ range 21 .. 156 ]
+sequence
+--------------------------------------------------NPHNAARSDVG---------
+--------VGPVSWDDTVAAYAESYAAQRQGDCALEHS-------KYGENIFWGSG----DWTAASAVSS
+WVAEKQWYDHDSNSC-PAGS--SCGHYTQVVWSNSTAIGCARVVC-DNS--GVFITCNYSPPGNYNGKPP
+Y---*
+>P1;gi|34395102|dbj|BAC84818.1| putative pathogenesis-related protei... [ score 154 E 3e-37 ] [ range 27 .. 169 ]
+sequence
+------------------------------------------QTTATDIVNIHNAARSAVG---------
+--------VPALSWDDNLAAYAQGYANQRAGDCALRHS-------QYGENLSWNPS----AWTAASSVDQ
+WVAEKGSYDYASNSC-VGGA--MCGHYTQVVWRDTTAVGCAAVAC-NNR--GVFFICTYFPAGNVQNQRP
+Y---*
+>P1;gi|23264044|gb|AAL65292.1| pseudecin [Pseudechis porphyriacus] [ score 154 E 4e-37 ] [ range 31 .. 178 ]
+sequence
+------------------------------------------KNYQKEIVDKHNALRRSVN---------
+--------MLQMKWNSHAAQNAKRWAD----RCTFAHS-------PCGENIFMSSQ----PFPWSGVVQA
+WYDEIKNFVYGIGAK-PPGS--VIGHYTQVVWYKSHLIGCASAKC-SSS--KYLYVCQYCPAGNIRGATP
+Y---*
+>P1;gi|4507671|ref|NP_003287.1| testis specific protein 1; glycerald... [ score 154 E 4e-37 ] [ range 37 .. 183 ]
+sequence
+---------------------------------------------QREIVNKHNELRKAVN---------
+--------MLKMEWSREVTTNAQRWANK----CTLQHS-------RCGENLYMSSD----PTSWSSAIQS
+WYDEILDFVYGVGPK-SPNA--VVGHYTQLVWYSTYQVGCGIAYC-PNQ--KYYYVCQYCPAGNNMNRKP
+Y---*
+>P1;gi|15234704|ref|NP_194761.1| allergen V5/Tpx-1-related family pr... [ score 153 E 5e-37 ] [ range 27 .. 161 ]
+sequence
+---------------------------------------------QEQFMGPQNAARAHLR---------
+--------LKPLKWDAKLARYAQWWANQRRGDCALTHS-------NYGENLFWGSG----NWGPSQAAYG
+WLSEARSYNYRSNSC--NSE--MCGHYTQIVWKNTQKIGCAHVIC-NGG--GVFLTCNYDPPGNFLGRKP
+Y---*
+>P1;gi|34852277|ref|XP_215351.2| similar to cysteine-rich protease i... [ score 152 E 2e-36 ] [ range 36 .. 183 ]
+sequence
+------------------------------------------EDEKQTMVELHNHYRAQVS---------
+--------PPAMRWDDELAAFAKAYAQKCVWGHNKERG-------RRGENLFATDE----GMDVPLAVGN
+WHEEHEYYNLSTATC-DPGQ--MCGHYTQVVWSKTERIGCGSHFC-ETN--IHLLVCNYEPPGNVKGRKP
+Y---*
+>P1;gi|2136189|pir||S68691 neutrophil granules matrix glycoprotein S... [ score 151 E 2e-36 ] [ range 39 .. 180 ]
+sequence
+---------------------------------------------QREIVNKHNELRRAVN---------
+--------MLKMEWNKEAAANAQKWANQ----CNYRHS-------NCGENLYMSSA----PSSWSQAIQS
+WFDEYNDFDFGVGPK-TPNA--VVGHYTQVVWYSSYLVGCGNAYC-PNQ--KYYYVCQYCPAGNWANR--
+----*
+>P1;gi|6322383|ref|NP_012457.1| Protein of unknown function, has sim... [ score 151 E 3e-36 ] [ range 24 .. 153 ]
+sequence
+-------------------------------------------NFESDVLNEHNKFRAHVD---------
+--------TAPLTWSDTLATYAQNYADQYDCSGVLTHS-------PYGENLALG-------YTDTGAVDA
+WYGEISKYNYS--NP-GFSE--STGHFTQVVWKSTAEIGCGYKYC-GTT--WNYIVCSYNPPGNYLGE--
+----*
+>P1;gi|21305555|gb|AAM45666.1| latisemin [Laticauda semifasciata] [ score 151 E 4e-36 ] [ range 34 .. 178 ]
+sequence
+---------------------------------------------QKEIVDKHNALRRSVN---------
+--------MLQMEWNSDAAQNAQRWAD----RCSFAHS-------SCGENLFMSSQ----PYAWSRVIQS
+WYDENKNFIYDVGAN-PPGS--VIGHYTQIVWYKSHLLGCAAARC-SSS--KYLYVCQYCPAGNIIGATP
+Y---*
+>P1;gi|25296205|pir||A96537 hypothetical protein F2J10.7 [imported] ... [ score 149 E 8e-36 ] [ range 24 .. 162 ]
+sequence
+------------------------------------------QNAQQDYLNTHNTARAQVG---------
+--------VANVVWDTVVAAYATNYANARKVDCSLTPS-------TYGENLANGNN----AFTGVAAVNL
+WVNEKPYYNYTANAC-IGAQ--QCKHYTQVVWSNSVKIGCARVLC-NNG--GYFVGCNYDASGNQAGQYP
+Y---*
+>P1;gi|3023562|sp|O19010|CRS3_HORSE Cysteine-rich secretory protein-... [ score 149 E 1e-35 ] [ range 38 .. 185 ]
+sequence
+---------------------------------------------QKEIVNKHNDLRRTVN---------
+--------MLKMQWDSKTATNAQNWANK----CLLQHS-------KCGENLFMSSI----PNSWSDAIQN
+WHDEVHDFKYGVGPK-TPNA--VVGHYTQVVWYSSYRVGCGIAYC-PKQ--GYYYVCQYCPAGNYVNKTP
+Y---*
+>P1;gi|37574025|gb|AAH22399.2| PI16 protein [Homo sapiens] [ score 148 E 2e-35 ] [ range 37 .. 177 ]
+sequence
+-------------------------------------------------VELHNLYRAQVS---------
+--------MLHMRWDEELAAFAKAYARQCVWGHNKERG-------RRGENLFATDE----GMDVPLAMEE
+WHHEREHYNLSAATC-SPGQ--MCGHYTQVVWAKTERIGCGSHFC-EKN--IELLVCNYEPPGNVKGKRP
+Y---*
+>P1;gi|22761577|dbj|BAC11640.1| unnamed protein product [Homo sapiens] [ score 148 E 2e-35 ] [ range 37 .. 177 ]
+sequence
+-------------------------------------------------VELHNLYRAQVS---------
+--------PPAMRWDEELAAFAKAYARQCVWGHNKERG-------RRGENLFATDE----GMDVPLAMEE
+WHHEREHYNLSAATC-SPGQ--MCGHYTQVVWAKTERIGCGSHFC-EKN--IELLVCNYEPPGNVKGKRP
+Y---*
+>P1;gi|30172003|gb|AAP20603.1| cysteine-rich venom protein [Naja atra] [ score 148 E 2e-35 ] [ range 34 .. 178 ]
+sequence
+---------------------------------------------QKQIVDKHNALRRSVN---------
+--------MLQMEWNSNAAQNAKRWAD----RCSFAHS-------GCGENLFMSSQ----PYAWSRVIQS
+WYDENKKFVYGVGAN-PPGS--VIGHYTQIVWYNSHLLGCGAAKC-SSS--KYLYVCQYCPTGNIIGATP
+Y---*
+>P1;gi|34395111|dbj|BAC84827.1| putative pathogenesis-related protei... [ score 148 E 3e-35 ] [ range 27 .. 172 ]
+sequence
+------------------------------------------QSSPQDFLDAHNAARRGEG---------
+--------VPDVAWNATLEAFSVVASAAAGGACDLRHS-------GYGENLYWGGK----AWSAADAVGL
+WMEEKASYVYSSNTC-TKGA--DCGHYTQIVWRSTTSIGCGRAVC-NNG--DVLISCNYFPPGNVPNERP
+Y---*
+>P1;gi|26189920|emb|CAD31226.1| cystein-rich secretory protein 2 [Eq... [ score 147 E 5e-35 ] [ range 38 .. 184 ]
+sequence
+---------------------------------------------QREIVNKHNELRKSVN---------
+--------MLKMEWSREATANAQKWANK----CTLEHS-------SCGENIYMSSD----PTPWSDAIQS
+WYDESLDFTYGVGPK-SAGS--VVGHYTQAVWYSSYRVGCGIAYC-PNQ--KYYYVCQYCPVGNNVNKKP
+Y---*
+>P1;gi|42548213|gb|EAA71056.1| hypothetical protein FG03312.1 [Gibbe... [ score 146 E 7e-35 ] [ range 113 .. 246 ]
+sequence
+---------------------------------------------QQKAVDLHNEARKAVG---------
+--------NGPLEWDDSLVSGAQEWADHIASLGSLTHS-------QGGENLYMGTS----STPFADAIEA
+FLSEKSLYNGETISG-SNYM--SFGHYTQCVWKTTTKVGMAVAKG-SDG--ASYVVARYQEPGNMIGSKP
+Y---*
+>P1;gi|417753|sp|Q03401|AEG1_MOUSE Sperm-coating glycoprotein 1 prec... [ score 145 E 2e-34 ] [ range 39 .. 184 ]
+sequence
+---------------------------------------------QEEIVSKHNQLRRMVS---------
+--------PSKMEWNYDAQVNAQQWADK----CTFSHS-------PCGENLFMSSY----LASWSSAIQG
+WYNEYKDLTYDVGPK-QPDS--VVGHYTQVVWNSTFQVACGVAEC-PKN--RYYYVCHYCPVGNYQGRTP
+Y---*
+>P1;gi|12838657|dbj|BAB24280.1| unnamed protein product [Mus musculus] [ score 144 E 3e-34 ] [ range 45 .. 190 ]
+sequence
+------------------------------------------------FLNIHNELRRKVQ---------
+--------PPALFWDQQLAKLAKAWTRE----CKLAHN-------PCGENIYLGRI----ETQPEDVVIN
+WYNESKYFNFDFNTC---SE--MCGHYTQVVWAKTVKIGCAVSNC-PNL--KGFFVCNYSPAGNFIGFRP
+Y---*
+>P1;gi|2500710|sp|Q60477|CRS2_CAVPO Cysteine-rich secretory protein-... [ score 144 E 3e-34 ] [ range 38 .. 175 ]
+sequence
+---------------------------------------------QNEIINKHNQLRKSVN---------
+--------MLKMEWSREAAVNAQKWAN----RCTLVHS-------NCGENLYMSSD----PSSWSDAIQS
+WFDESQDFTFGVGPK-SHNA--VVGHYTQLVWYSSYLVGCGIAYC-PNQ--KYYYVCQYCPAGN------
+----*
+>P1;gi|38078337|ref|XP_357369.1| similar to chromosome 9 open readin... [ score 144 E 3e-34 ] [ range 100 .. 230 ]
+sequence
+-----------------------------------------------EVLKAHNEYRAQHG---------
+--------VPPLKLCKKLNREAQQYSEALASTRILKHS-------QCGENLAWASY----DQTGKDVADR
+WYSEIKSYNFQQPGF-TSG----TGHFTAMVWKNTKKIGVGKASA-SDG--SSFVVARYFPAGNIVNQ--
+----*
+>P1;gi|28972961|gb|AAO62996.1| ophanin [Ophiophagus hannah] [ score 144 E 4e-34 ] [ range 30 .. 179 ]
+sequence
+------------------------------------------QKKQKEIVDLHNSLRRSVN---------
+--------MLKMQWYPEAASNAERWA----SNCNLGHS-------PCGENIYMSSN----PRAWTEIIQL
+WHDEYKNFVYGVGAN-PPGS--VTGHYTQIVWYKTYRIGCAVNYC-PSS--SYFYVCQYCPSGNMRGATP
+Y---*
+>P1;gi|27229267|ref|NP_084485.1| RIKEN cDNA 1810049K24 [Mus musculus... [ score 143 E 8e-34 ] [ range 54 .. 212 ]
+sequence
+-------------------------------------------SDRQEILMLHNKLRGQVN---------
+--------MEHMTWDEELERSAAAWAHRCHGPAGLLRS--------IGQNLAVHWG----RYSPGFHVQS
+WYDEVKDYTYPTPRC-CSGP--MCTHYTQMVWATTNKIGCAVHTC-RNN--AVYLVCNYSPKGNWIGEAP
+Y---*
+>P1;gi|688429|dbj|BAA05473.1| tumor-related protein [Nicotiana glauc... [ score 142 E 2e-33 ] [ range 4 .. 122 ]
+sequence
+-----------------------------------------------------------VP---------
+--------LPPLKWNDTLASYSHDYATTKLAECKLVHS-------PYGENLAMATA----NFR-RSTVNL
+WVGEKPNYEYATNSC-KSG---MCGHYTQVVWRNTLQVGCARLKC-QNG--AWFVSCNYYPPGNYIGEKP
+Y---*
+>P1;gi|21326194|gb|AAM19739.1| tigrin [Rhabdophis tigrinus tigrinus] [ score 141 E 4e-33 ] [ range 33 .. 173 ]
+sequence
+---------------------------------------------QQEIVNIHNSFRRSVN---------
+--------MLKMEWYSEAASNAERWAYQCAYDHSPRSS-------QCGENIFMASD----PWAWTSIIQD
+WYDEYRNFVYGVGAN-PPDS--VTGHYTQIVWYKSYLVGCAAAYC-PSS--NYFYVCQYCPAGNIQG---
+----*
+>P1;gi|2500717|sp|Q41495|ST14_SOLTU STS14 protein precursor >gi|2129... [ score 140 E 5e-33 ] [ range 76 .. 214 ]
+sequence
+---------------------------------------------AQEFLDAHNKARSEVG---------
+--------VGPLTWSPMLAKETSRYQKQNCSFANLSNG-------KYGGNLWASGT----VVTPRMAVDS
+WVAEKKFYNYENNSC-TGDD--KCGVYTQIVWKKSIELGCAQRTC-YEG--ATLTVCFYNPPGNVIGEKP
+Y---*
+>P1;gi|34393704|dbj|BAC83017.1| putative Pathogenesis-related protei... [ score 140 E 5e-33 ] [ range 236 .. 376 ]
+sequence
+--------------------------------------------EKAQFVKLHNDARAAVG---------
+--------VKAVSWSEAVAAKAREHASTCRTDHIQG---------PYGENLWWGWS----SAAGADAMGS
+WVGEKPYYDRSSNSC-VGGK--VCGHYTQVVWSRTTQIGCARVTC-NIN--GTLIACNYNPRGNINGKRP
+Y---*
+>P1;gi|13676849|ref|NP_112519.1| testis specific protein 1 [Rattus n... [ score 140 E 6e-33 ] [ range 38 .. 183 ]
+sequence
+---------------------------------------------QREIIAKHNELRRQVS---------
+--------PPKMEWNVQAAANAQKWAN----NCILEHS-------SCGENLYMSTD----PTSWRTVIQS
+WYEENENFVFGVGAK--PNS--AVGHYTQLVWYSSFKVGCGVAYC-PNQ--KYFYVCHYCPMGNNVMKKP
+Y---*
+>P1;gi|12408314|ref|NP_074050.1| epididymal glycoprotein [Rattus nor... [ score 140 E 6e-33 ] [ range 41 .. 186 ]
+sequence
+---------------------------------------------QEEIINKHNQLRRTVS---------
+--------PSRVEWDHDAYVNAQKWANRCIYNHSLQHR-------TCGENLFMANY----PASWSSVIQD
+WYDESLDFVFGFGPK-KVGV--KVGHYTQVVWNSTFLVACGVAEC-PDQ--KYFYVCHYCPGGNYVGRSP
+Y---*
+>P1;gi|18000269|gb|AAL54896.1| cysteine-rich venom protein precursor... [ score 140 E 7e-33 ] [ range 31 .. 170 ]
+sequence
+------------------------------------------KDYRREIVDKHNALRRSVN---------
+--------MLQMKWNSRAAQNAKRSADRCTFAHSPEHT-------RCGENIFMSSQ----PFAWSGVVQD
+WYDEIKNVVDGIGAK-PPGS--VIGHYTQIVWYKSHLLGCASAKC-SST--KYLYVCQYCPAGNI-----
+----*
+>P1;gi|32492059|gb|AAP85301.1| natrin [Naja atra] [ score 139 E 1e-32 ] [ range 33 .. 179 ]
+sequence
+---------------------------------------------QKEIVDLHNSLRRRVN---------
+--------MLKMEWYPEAASNAERWANT----CSLNHS-------QCGESIYMSSN----ARTWTEIIHL
+WHDEYKNFVYGVGAN-PPGS--VTGHYTQIVWYQTYRAGCAVSYC-PSS--AWFYVCQYCPSGNFQGKTP
+Y---*
+>P1;gi|34851731|ref|XP_346524.1| hypothetical protein XP_346523 [Rat... [ score 139 E 1e-32 ] [ range 54 .. 212 ]
+sequence
+-------------------------------------------SDRQEILMLHNKLRGQVN---------
+--------MEYMTWDEELERSAAAWAQRCHGPASLLVS--------IGQNLAVHWG----RYSPGFHVQS
+WYDEVKDYTYPYPHE-CNGA--MCTHYTQMVWATTNKIGCAVHTC-RSN--AVYLVCNYSPKGNWIGEAP
+Y---*
+>P1;gi|24657486|gb|AAH39124.1| 1200009H11Rik protein [Mus musculus] [ score 139 E 2e-32 ] [ range 25 .. 155 ]
+sequence
+------------------------------------------------------DAWAASD---------
+--------MLQMRWDDELAAFAKAYAQKCVWGHNKERG-------RRGENLFATDE----GMDVPLAVGN
+WHEEHEYYNFSTATC-DPNQ--MCGHYTQVVWSKTERIGCGSHFC-ETN--IHLLVCNYEPPGNVKGRKP
+Y---*
+>P1;gi|45184646|ref|NP_982364.1| AAL178Wp [Eremothecium gossypii] >g... [ score 138 E 2e-32 ] [ range 76 .. 199 ]
+sequence
+-------------------------------------------------LDLHNDYRRRHH---------
+--------AVPLRWNSTLYTHAQHYANRILCNGSLVHS-------GHGENLALG-------YSPAAAVTA
+WYDEIAEYDFST--P-GFSH--ATGHFTQLVWRSTTSVGCAYVMC-GPC--GLYIICQYDPPGNVADQY-
+----*
+>P1;gi|13899332|ref|NP_113664.1| hypothetical protein DKFZp434B044 [... [ score 138 E 2e-32 ] [ range 54 .. 212 ]
+sequence
+-------------------------------------------EDKEEILMLHNKLRGQVN---------
+--------MEYMTWDDELEKSAAAWASQCHGPTSLLVS--------IGQNLGAHWG----RYSPGFHVQS
+WYDEVKDYTYPYPSE-CNGP--MCTHYTQIVWATTNKIGCAVNTC-RKN--AVYFVCNYSPKGNWIGEAP
+Y---*
+>P1;gi|7407641|gb|AAF62171.1| pathogenesis-related protein 1 [Betula... [ score 138 E 3e-32 ] [ range 2 .. 102 ]
+sequence
+------------------------------------------QNSPQDYLKAHNDARAAVG---------
+--------VAALTWDDKVAAYAQNYANKHIGDCNLVHS-------GYGENLAASSG----DLSGTAAVKL
+WVDEKANYNYNSNSC-AAGK--VCGHYTQVVW--------------------------------------
+----*
+>P1;gi|37182583|gb|AAQ89093.1| ALKN2972 [Homo sapiens] [ score 137 E 5e-32 ] [ range 37 .. 183 ]
+sequence
+------------------------------------------------CIEAHNEWRGKVN---------
+--------PPAMIWDKGLAKMAKAWANQCKYKCYAAFE-------YVGENIWLGGK----SFTPRHAITA
+WYNETQFYDFDSLSC---SR--VCGHYTQLVWANSFYVGCAVAMC-PNL--GGIFVCNYGPAGNFANMPP
+Y---*
+>P1;gi|15235835|ref|NP_192524.1| pathogenesis-related protein, putat... [ score 137 E 5e-32 ] [ range 26 .. 160 ]
+sequence
+------------------------------------------QDQPQDYFNAHNRARVSVG---------
+--------VSPLMWSQTLTAYAQAYAEKRR-DCGLFLS-------GYGETIKADII----DFSAEEFVST
+FLNQKSDYDYTTNTC-RAGK--SCDGYKQVLFRKSVFLGCAKVKC-NNG--GFLAICSYDPS-VILSERP
+F---*
+>P1;gi|34867923|ref|XP_342828.1| similar to chromosome 9 open readin... [ score 137 E 5e-32 ] [ range 12 .. 142 ]
+sequence
+-----------------------------------------------EVLKAHNEYRAKHG---------
+--------VPPLKLCKKLNQEAQQYSEALASTRILKHS-------QCGENLAWASY----DQTGKEVADR
+WYSEIKSYNFQQPGF-TSG----TGHFTAMVWKNTKKIGVGKASA-SDG--SSFVVARYFPAGNIVNQ--
+----*
+>P1;gi|26996572|gb|AAH40768.1| Unknown (protein for MGC:49048) [Mus ... [ score 136 E 7e-32 ] [ range 60 .. 218 ]
+sequence
+-------------------------------------------NDMQSILDLHNKLRSQVN---------
+--------MEYMTWDVELERSAESWAEMCHGPASLLPS--------IGQNLGAHWG----RYRPPTHVQA
+WYDEVRDFSYPYNEC-CSGP--VCTHYTQVVWATSSRIGCAVNLC-HNK--AVYLVCNYSPKGNWWGHAP
+Y---*
+>P1;gi|28972957|gb|AAO62994.1| piscivorin [Agkistrodon piscivorus pi... [ score 136 E 7e-32 ] [ range 34 .. 180 ]
+sequence
+---------------------------------------------QNQIVDLHNSLRRSVN---------
+--------MLKMEWYPEAAANAERWAYRCIESHSPRNS-------KCGENIYMSSI----PIKWTEIIHA
+WHGENKNFKYGIGAD-PPNA--VIGHFTQIVWYKSYLVGCAAAYC-PSS--SYFYVCQYCPAGNIIGKTP
+Y---*
+>P1;gi|11641247|ref|NP_071738.1| chromosome 9 open reading frame 19;... [ score 136 E 8e-32 ] [ range 12 .. 142 ]
+sequence
+-----------------------------------------------EVLKAHNEYRQKHG---------
+--------VPPLKLCKNLNREAQQYSEALASTRILKHS-------QCGENLAWASY----DQTGKEVADR
+WYSEIKNYNFQQPGF-TSG----TGHFTAMVWKNTKKMGVGKASA-SDG--SSFVVARYFPAGNVVNE--
+----*
+>P1;gi|6678423|ref|NP_033446.1| cysteine-rich secretory protein 2; t... [ score 136 E 8e-32 ] [ range 38 .. 183 ]
+sequence
+---------------------------------------------QREIVNKHNELRRSVN---------
+--------PLKMEWSIQATTNAQKWANK----CILEHS-------SCGENLYMSTD----PTLWSTVIQS
+WYNENEDFVYGVGAK--PNS--AVGHYTQLVWYSSFKIGCGIAYC-PNQ--KYFYVCHYCPMGNNVMKKP
+Y---*
+>P1;gi|34395114|dbj|BAC84830.1| putative pathogenesis-related protei... [ score 136 E 8e-32 ] [ range 26 .. 176 ]
+sequence
+------------------------------------------QSSPQDFLDAHNAARRGEG---------
+--------APDVAWSTTLQAFAESYVAQLAATCSLAHS-------GYGENLYAGSS----AATAAAAVSK
+WMEEKADYVYSSNTC-TRGA--ECGHYTQVVWRSTTSIGCASAAC-SNG--GGVIICNYSPPGNWPDQRP
+Y---*
+>P1;gi|30171827|gb|AAP20602.1| cysteine-rich venom protein; CRISP-li... [ score 136 E 1e-31 ] [ range 34 .. 180 ]
+sequence
+---------------------------------------------QNEIIDLHNSLRRSVN---------
+--------MLKMEWYPEAAANAERWAYGCIESHSSRDS-------KCGENIYMSPY----PMKWTDIIHA
+WHGEYKDFKYGVGAV-PSDA--VVGHYTQIVWYKSYRIGCAAAYC-PSA--SYFYVCQYCPAGNMIGKTP
+Y---*
+>P1;gi|2696794|dbj|BAA24011.1| HrTT-1 [Halocynthia roretzi] [ score 136 E 1e-31 ] [ range 131 .. 279 ]
+sequence
+-------------------------------------------------LRTHNARRAAAN---------
+--------MRRMTWDMELERLAVAYSRKCIYEHNTKHS-------YVGENLFISTG----YAFTPSAVEA
+WDDEKQYYDYETKKC-QRGK--MCGHYTQVVWADTFKMGCGVTRC-SDN--AILLVCNYGPGGNYPTHP-
+----*
+>P1;gi|9963986|gb|AAG09789.1| repressed by TUP1 protein 4; Rbt4p [Ca... [ score 136 E 1e-31 ] [ range 212 .. 343 ]
+sequence
+---------------------------------------------AQQILDAHNKKRARHG---------
+--------VPDLTWDATVYEYAQKFADQYSCSGNLQHS-------GYGENLAVGYA----D--GAAALQA
+WYEEAGK-DGLSYSY-GSSS--VYNHFTQVVWKSTTKLGCAYKDC-RAQ--NWYVVCSYDPAGNVMGTDP
+----*
+>P1;gi|45476808|sp|P60623|CRVP_TRIST Cysteine-rich secretory protein... [ score 136 E 1e-31 ] [ range 27 .. 173 ]
+sequence
+---------------------------------------------QNEIVDLHNSLRRSVN---------
+--------MLRMEWYPEAADNAERWAYRCIESHSSYES-------KCGENIYMSPY----PMKWTDIIHA
+WHDEYKDFKYGVGAD-PPNA--VTGHYTQIVWYKSYRIGCAAAYC-PSS--SYFFVCQYCPAGNFIGKTP
+Y---*
+>P1;gi|45184645|ref|NP_982363.1| AAL179Wp [Eremothecium gossypii] >g... [ score 135 E 2e-31 ] [ range 221 .. 349 ]
+sequence
+-------------------------------------------SFEEEILRAHNSRRQLHD---------
+--------TKPLTWSEELAKFARDFANQYDCSGRLVHS-------PYGENLAVGYP------TPEKAVKA
+WYDEISDYSYSHPSF-SFS----TGHFSQLVWKDTKHLGCAVKKC-GGS--GDYLICSYDPAGNFL----
+----*
+>P1;gi|13899303|ref|NP_113649.1| CocoaCrisp [Homo sapiens] >gi|12002... [ score 135 E 2e-31 ] [ range 60 .. 218 ]
+sequence
+-------------------------------------------NDMQSILDLHNKLRSQVN---------
+--------MEYMTWDVELERSAESWAESCHGPASLLPS--------IGQNLGAHWG----RYRPPTHVQS
+WYDEVKDFSYPYEHE-CNGP--VCTHYTQVVWATSNRIGCAINLC-HNK--AVYLVCNYSPKGNWWGHAP
+Y---*
+>P1;gi|2500711|sp|Q91055|HELO_HELHO Helothermine precursor (HLTx) >g... [ score 135 E 2e-31 ] [ range 34 .. 183 ]
+sequence
+-------------------------------------------DQQTEITDKHNNLRRIVN---------
+--------MLKMTWSNKIAQNAQRSANQ----CTLEHT-------SCGENLFFSSA----PYTWSYAIQN
+WFDERKYFRFNYGPT-AQNV--MIGHYTQVVWYRSYELGCAIAYC-PDQ--KYYQVCQYCPGGNIRSRKP
+Y---*
+>P1;gi|15240015|ref|NP_201460.1| allergen V5/Tpx-1-related family pr... [ score 134 E 2e-31 ] [ range 49 .. 185 ]
+sequence
+------------------------------------------------FTDAHNKARAMVG---------
+--------VPPLVWSQTLEAAASRLANQKKCEASLNPG-------KYGANWAKGLV----AVTPSLAVET
+WVKEKPFYNYKSDTC-AANH--TCGVYKQVVWRNSKELGCAQATC-TKE--STVLICFYNPPGNVIGQKP
+Y---*
+>P1;gi|21305553|gb|AAM45665.1| triflin [Trimeresurus flavoviridis] [ score 135 E 2e-31 ] [ range 34 .. 180 ]
+sequence
+---------------------------------------------QNEIIDLHNSLRRSVN---------
+--------MLKMEWYPEAAANAERWAYRCIESHSSRDS-------KCGENIYMATY----PAKWTDIIHA
+WHGEYKDFKYGVGAV-PSDA--VIGHYTQIVWYKSYRAGCAAAYC-PSS--KYFYVCQYCPAGNIIGKTP
+Y---*
+>P1;gi|40746608|gb|EAA65764.1| hypothetical protein AN0358.2 [Asperg... [ score 134 E 3e-31 ] [ range 1010 .. 1140 ]
+sequence
+------------------------------------------------ILRTTNAYRAAHN---------
+--------ASNLSWNETLADYAKDWA----KGCKWKHS-------SYGENLAYGYK----K--ASSAVTA
+WGDEAALYDFSKPT--GFTE--ETGHFTQLVWKSTREVGCAAVDC-GAQ--GWYVVCEYMPAGNVVG---
+----*
+>P1;gi|34865643|ref|XP_237258.2| similar to CocoaCrisp [Rattus norve... [ score 134 E 3e-31 ] [ range 60 .. 218 ]
+sequence
+-------------------------------------------NDMQSILDLHNKLRSQVN---------
+--------MEYMTWDVELERSAESWAETCHGPTSLLPS--------IGQNLGAHWG----RYRPPTHVQA
+WYDEVRDFSYPYEHE-CSGP--VCTHYTQVVWATSSRIGCAINLC-HNK--AVYLVCNYSPKGNWWGHAP
+Y---*
+>P1;gi|34395121|dbj|BAC84837.1| putative pathogenesis-related protei... [ score 134 E 3e-31 ] [ range 29 .. 172 ]
+sequence
+------------------------------------------QNSPQDFVSPHNAARANVS---------
+--------AAAAAWNDTVAAYAQSYAAQRQGDCKLVHS-------RYGENLFWGSG----NWTAASAVSA
+WVSEKQWYNHTSNSC-PSGQ--SCGHYTQVVWRSSTAIGCARVVC-NGS--GVFITCNYSPPGNYIGQSP
+Y---*
+>P1;gi|6322382|ref|NP_012456.1| Protein of unknown function, has sim... [ score 134 E 3e-31 ] [ range 161 .. 291 ]
+sequence
+-------------------------------------------DFASSVLAEHNKKRALHD---------
+--------TPALSWSDTLASYAQDYADNYDCSGTLTHS-------GYGENLALG-------YDGPAAVDA
+WYNEISNYDFS--NP-GFSS--NTGHFTQVVWKSTTQVGCGIKTC-GGA--WGYVICSYDPAGNYEGEY-
+----*
+>P1;gi|21312072|ref|NP_082884.1| GLI pathogenesis-related 1 (glioma)... [ score 134 E 4e-31 ] [ range 31 .. 170 ]
+sequence
+------------------------------------------EDFIKECVQVHNQLRSKVS---------
+--------PPAMSWDPKLAQIAKAWTKSCEFKHNPQHS-------RIGENIWLGSL----SFSVSSAISA
+WYEEIKHYDFSTRKC-R--H--VCGHYTQVVWADSYKLGCAVQLC-PNG--ANFI-CDYGPAGNY-----
+----*
+>P1;gi|38107344|gb|EAA53530.1| hypothetical protein MG07807.4 [Magna... [ score 134 E 5e-31 ] [ range 42 .. 176 ]
+sequence
+-------------------------------------------DFQAAMLTTHNRFRSQHS---------
+--------APDLEWNDTLADSSASHLDEVASRCELAHS-------GYGENLALGYA----D--AAVGVVA
+WGDERRRYDFGSGE---FDD--RTGHFTQMVWRDTSDVGCGRKLC-GGG--RWFLVCQYWPRGNIVG---
+----*
+>P1;gi|34900740|ref|NP_911716.1| putative type-1 pathogenesis-relate... [ score 134 E 5e-31 ] [ range 36 .. 176 ]
+sequence
+--------------------------------------------EKAQFVKLHNDARAAVG---------
+--------VKAVSWSEAVAAKAREHASTCRTDHIQG---------PYGENLWWGWS----STAGADAMGS
+WVGEKPYYDRSSNKC-VGGK--VCGHYTQVVWSRTTQIGCARVTC-NIN--GTLIACNYNPRGNINGERP
+Y---*
+>P1;gi|38344688|emb|CAE02369.2| OSJNBb0096E05.10 [Oryza sativa (japo... [ score 134 E 5e-31 ] [ range 39 .. 188 ]
+sequence
+--------------------------------------------TPVQFLRVHNEARAAVG---------
+--------VPPLSWNGTLQLDAARYAGELRTECSLRPP-------PYGRNLFKAYG----RRTGAEVAAF
+WADGRRWYDRDAGRC-APGR--TCGAYTQVVWRATTQLGCARRTC-RNG--VDTVVCDYYPPGNIVGQRP
+Y---*
+>P1;gi|21305551|gb|AAM45664.1| ablomin [Agkistrodon blomhoffi] [ score 133 E 6e-31 ] [ range 34 .. 180 ]
+sequence
+---------------------------------------------QNEIVDLHNSLRRSVN---------
+--------MLKMEWYPEAAANAERWAYRCIEDHSLEGI-------KCGENIYMSPI----PMKWTDIIHI
+WHDEYKNFKYGIGAD-PPNA--VSGHFTQIVWYKSYRAGCAAAYC-PSS--SYFYVCQYCPAGNMRGKTP
+Y---*
+>P1;gi|45382819|ref|NP_989985.1| CocoaCrisp [Gallus gallus] >gi|1324... [ score 133 E 7e-31 ] [ range 60 .. 218 ]
+sequence
+-------------------------------------------SDMQSILDLHNKLRGQVN---------
+--------MEYMTWDTELERSAESWAETCHGPASLLPS--------IGQNLGAHWG----RYRPPTHVQA
+WYDEVRDFTYPHPHK-CSGP--VCTHYTQVVWATSSRIGCAINLC-HNK--AVYLVCNYSPKGNWWGHAP
+Y---*
+>P1;gi|27718249|ref|XP_216892.1| similar to GLI pathogenesis-related... [ score 133 E 7e-31 ] [ range 31 .. 170 ]
+sequence
+------------------------------------------EDFIEECVEVHNHFRSKAN---------
+--------MLYMSWDPKLAQIAKAWAQSCVFQHNPQHS-------GLGENIWLGSS----LFSVRAAILA
+WFEESQYYDFSTGKC-K--K--VCGHYTQIVWADSYKIGCAVQLC-PRG--ANFI-CNYGPAGNY-----
+----*
+>P1;gi|34395064|dbj|BAC84726.1| putative acidic PR-1 type pathogenes... [ score 133 E 8e-31 ] [ range 27 .. 172 ]
+sequence
+--------------------------------------------TPEDYLNPHNVARGNVE---------
+--------VPAVVWNDTVAAFAEEYADLYAGGCHLQPS-------SYGENLYFNSQ----SSTAADAVAS
+WVSDGDWYHHDTNTC-TAGE--SCGHYTQVVWYNSTDIGCATVVC-DNT--GVVVACNYWPPGNIPGESP
+Y---*
+>P1;gi|41054828|ref|NP_956764.1| hypothetical protein MGC63636 [Dani... [ score 132 E 1e-30 ] [ range 60 .. 219 ]
+sequence
+------------------------------------------QSDMQLILDLHNKLRGQVN---------
+--------MEYMVWDTELERSAEHWAHTCLWEHGPSHT-------RIGQNLGAHWG----DRPPTFHVQA
+WYDEVRDFSYPYPQE-CNGP--VCTHYTQLVWATSNKIGCAINVC-YNK--AVYLVCNYSPPGNWWGHAP
+Y---*
+>P1;gi|6753004|ref|NP_033769.1| cysteine-rich secretory protein 3; a... [ score 132 E 2e-30 ] [ range 39 .. 181 ]
+sequence
+---------------------------------------------QEEIVSKHNQLRRKVS---------
+--------PSNMEWNYD----AQVNAQQRADKCTFSHS-------PCGENLFMSSY----LVPWSSVIQG
+WYNESKGLIFGVGPK-QNVS--VVGHHTQVVWKSNLQVACGVAEC-PEN--RYFYVCRYCPVLNYSGHYP
+----*
+>P1;gi|43314775|gb|EAD23137.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 40 .. 181 ]
+sequence
+-------------------------------------------------LKVHNDARKEVG---------
+--------VELLEWSNELSKDAKAYAEILAKNNKLIHS-------GQGENLYYAWN----SLPLNDGSVA
+WYNEIKDYKYAGSSL-NEGK--VIGHYTQMVWNSTKYLGMGSAIS-SDG--KVYVVARYNPPGNYIGQFP
+Y---*
+>P1;gi|20978369|gb|AAM33434.1| pathogenesis-related protein 1 [Malus... [ score 131 E 2e-30 ] [ range 1 .. 101 ]
+sequence
+------------------------------------------------YLNSHNAARAAVG---------
+--------VGPLTWDDNVAGYAQNYANQHVGDCNLVHS-------GYGENLAMSTG----DMSGAAAVDL
+WVAEKADYSYESNSC-AAGK--VCGHYTQVVWRNSARV--------------------------------
+----*
+>P1;gi|28972959|gb|AAO62995.1| catrin [Crotalus atrox] [ score 132 E 2e-30 ] [ range 34 .. 180 ]
+sequence
+---------------------------------------------QNKIVDLHNFLRRSVN---------
+--------MLKMEWYPEAAANAERWAYRCIESHSPRDS-------KCGENIYMSPV----PIKWTEIIHA
+WHGENKNFKYGIGAV-PPNA--VTGHFSQVVWYKSYRIGCAAAYC-PSS--KYFYVCQYCPAGNIIGKTP
+Y---*
+>P1;gi|34395120|dbj|BAC84836.1| putative pathogenesis-related protei... [ score 131 E 3e-30 ] [ range 32 .. 182 ]
+sequence
+------------------------------------------EDTAQDFVDLHNAVRDEVG---------
+--------VEEVTWDDTVAAYAESYAAQCQADCQPVST-------NYGENIYAGGN----DTSSSAAVGA
+WAAEEQWYDPDTNGC-PAGE--SCDHYTQLVWNATTAIGCAEVVC-DDA--GVFVICNYYPPGNIPDQSP
+Y---*
+>P1;gi|31198685|ref|XP_308290.1| ENSANGP00000010876 [Anopheles gambi... [ score 131 E 4e-30 ] [ range 8 .. 149 ]
+sequence
+-------------------------------------------DFERECLKAHNEYRTRHG---------
+--------VLPLKLSKRLCRYAEEWAKVIAARGVLVHS-------AYGENIFCSWS----SVSGREPVEN
+WYSEIDLHVFG--KE-PATL--KTGHFTQVVWKDSRELGVGVARN-RSG--QVFVVANYDPPGNYIG---
+----*
+>P1;gi|38344686|emb|CAD40250.2| OSJNBb0096E05.8 [Oryza sativa (japon... [ score 130 E 5e-30 ] [ range 50 .. 192 ]
+sequence
+------------------------------------------------ILAVHNEARRAVG---------
+--------VAPLAWSAGIARYAKGYAASRRGDCAPRRS-------PLGENAFVGKG----RWNAPALAAA
+WVDERRRYDYGSNTC-AGAA--ACTRYTQVVWRNTTQVGCGRIVC-DSG--DSLLVCDYFPPGNYGTGRP
+Y---*
+>P1;gi|34865667|ref|XP_237257.2| similar to protease inhibitor 15; c... [ score 130 E 6e-30 ] [ range 78 .. 237 ]
+sequence
+------------------------------------------QNDMIAILDYHNQVRGKVN---------
+--------MEYMVWDENLAKSAEAWAATCIWDHSYLLR-------FLGQNLSVRTG----RYSILQLVKP
+WYDEVKDYAFPYPQD-CNGP--MCTHYTQMVWATSNRIGCAIHTC-QNR--AVYLVCNYAPKGNWIGEAP
+Y---*
+>P1;gi|31198689|ref|XP_308292.1| ENSANGP00000010752 [Anopheles gambi... [ score 129 E 1e-29 ] [ range 6 .. 140 ]
+sequence
+---------------------------------------------QTEVLERHNVYRARHS---------
+--------AQPLVLDAAICQYAQQWANYLASRNVMQHR-------TYGENLYAGKT----NVTAQEPVDS
+WYNEIKYYRFGAAQP-SNFM--QVGHFTQVVWKKSRRLGVGVAVQ-GKN---VYVVCNYDPPGNFGNEYP
+----*
+>P1;gi|5803151|ref|NP_006842.1| glioma pathogenesis-related protein;... [ score 129 E 1e-29 ] [ range 31 .. 181 ]
+sequence
+------------------------------------------EDFIKDCVRIHNKFRSEVD---------
+--------MLYMTWDPALAQIAKAWANTRLKPPHKLHT-------SLGENIWTGSV----PFSVSSAITN
+WYDEIQDYDFKTRIC-K--K--VCGHYTQVVWADSYKVGCAVQFC-PNG--AHFI-CNYGPGGNY-----
+----*
+>P1;gi|42550006|gb|EAA72849.1| hypothetical protein FG03109.1 [Gibbe... [ score 128 E 2e-29 ] [ range 124 .. 268 ]
+sequence
+-------------------------------------------SDQKEALNRHNSARKAVK---------
+--------VAALKWDTKLEADALAYAKKIAKAGKMVHS-------GQGENLAYAWS----SNPMTAGTQS
+WLNEKKKYKGETIPK-GSFS--SYGHYTQCVWEKSTKVGIAAANS-KTG--AWYTVARYTAAGNVVGKKP
+Y---*
+>P1;gi|42546625|gb|EAA69468.1| hypothetical protein FG02744.1 [Gibbe... [ score 128 E 2e-29 ] [ range 48 .. 169 ]
+sequence
+-------------------------------------------------LNSTNFYREEHN---------
+--------ATDLKWNKTLEKFASDYLSDL-DDCAFEHS-------GYGENLAIGYP----NVTAS--IEA
+WGDERDKYDFDDAK---FGE--ETGHFTQLVWKDTTTVGCGRKLC-GEK--GWYLVCEYWPRGNVKGQ--
+----*
+>P1;gi|549186|sp|P10737|VA53_DOLMA Venom allergen 5.02 precursor (An... [ score 126 E 8e-29 ] [ range 49 .. 212 ]
+sequence
+-------------------------------------------DEKNEIVNRHNQFRQKVN---------
+--------MNVLVWNDELAKIAQTWANQ----CSFGHD-------QCGQNVAIGNS----YATMSKLIEM
+WENEVKDFNPKKGTM-GDNS--KVGHYTQMVWGKTKEIGCGSVKY-IEN--NWYLVCNYGPAGNYMDQPI
+Y---*
+>P1;gi|1582766|prf||2119294B YFW12 gene [ score 126 E 9e-29 ] [ range 186 .. 320 ]
+sequence
+------------------------------------------QSSSSDFVNEHNTKRALHD---------
+--------TGSLTWSDTLATYAQNYADSYDCSGNLVHS-------GYGENLALGYG----T---TGSVDA
+WYNEITSYDYS--NP-GFSE--SAGHFTQVVWKGTSEVGCGLKSC-GGE--WGYIICSYKAAGNVIGE--
+----*
+>P1;gi|18765762|dbj|BAB85217.1| PR-1 like protein [Volvox carteri f.... [ score 126 E 1e-28 ] [ range 270 .. 401 ]
+sequence
+-------------------------------------------------LAQHNAYRANHS---------
+--------SPAMVWDETLAKQAQVWAQGLTSPCRLEHS-------GGGENLYLTFG----SLKCNDAVKT
+WYGEIRSYKFTDNPW-TDNQ--NIGHFTQVVWKSSTTLGCGAATD-AGG--CAVVVCRYKPAGNV-----
+----*
+>P1;gi|38344687|emb|CAD40249.2| OSJNBb0096E05.9 [Oryza sativa (japon... [ score 125 E 1e-28 ] [ range 40 .. 190 ]
+sequence
+---------------------------------------------AEQFLRAHNEARAAVG---------
+--------VPPLAWNATIALDAQRYAGELRASCEARPV-------WYGRNLYRGSG----PRAGADASAH
+WAEGARWYDRDGDSC-APGR--CCGEYTQMVWRATTQIGCARWLC-RCL--GTVAVCEYYPPGNIAGQRP
+Y---*
+>P1;gi|45361475|ref|NP_989314.1| hypothetical protein MGC76177 [Xeno... [ score 125 E 2e-28 ] [ range 35 .. 182 ]
+sequence
+----------------------------------------------QKIVDIHNAYRRASN---------
+--------MLKMSWSIEAENNAKNWATT----CNQYHS-------QCGENLFMSSY----PASWEEVIQS
+LHSEYDNFEYGVGAK-AVGL--VIGHYTQVMWYKSYRIGCYCTEC-PND--GYYYVCQYYPAGNYADRYP
+Y---*
+>P1;gi|2664196|emb|CAA05868.1| PR-1 protein [Vitis vinifera] [ score 125 E 2e-28 ] [ range 1 .. 100 ]
+sequence
+----------------------------------------------------------------------
+--------------------YAQNYANQRIGDCNLVHS-------SYGENIAVGTP----SLTGTDAVNM
+WVGEKPYYDYNSNSC-VGGE---CLQYIKVIWRNSLHLGCARVQC-NTG--GWFVTCNYDPPGNYR----
+----*
+>P1;gi|15225273|ref|NP_179587.1| pathogenesis-related protein, putat... [ score 125 E 2e-28 ] [ range 35 .. 177 ]
+sequence
+---------------------------------------------PRKTLKVHNQIRAAVG---------
+--------VAPLKWNKTVAAYAQKFANRKAGVCSMRHS-------PYGENIAAGWD----QMSGPIAAKY
+WLTEKPNYDHATNKC-K--D--VCGHYTQMVANQSLSLGCGSFRC-HNE--LIYIVCNYYPPVGDENTRP
+Y---*
+>P1;gi|33991824|gb|AAH56553.1| Unknown (protein for IMAGE:6795575) [... [ score 125 E 2e-28 ] [ range 28 .. 158 ] [ duplicate a ]
+sequence
+-------------------------------------------SFEAEFLQTHNAYRKHHG---------
+--------APPLTININLSRSAQKWAEHLLSIRTLMHS-------NGGENVYYAYN----SATGREAVES
+WYNEIKEYNFS--RP-GFSS--KTGHFTQVVWKDSKELGVGLAT--DGS--TSFVVGQYLPGGNI-----
+----*
+>P1;gi|33991824|gb|AAH56553.1| Unknown (protein for IMAGE:6795575) [... [ score 125 E 2e-28 ] [ range 232 .. 360 ] [ duplicate b ]
+sequence
+----------------------------------------------QSLLKAVNDYRRQHG---------
+--------AKPLSLCPVLSKEAQDWAAHLASIGALQNS-------GYGETLSYKWT----SSTGKEVAEN
+WYKDNVKYNFAIPGF-QKG----TGNFTQMIWRSSEQVGVGLGSD-GKG--MFITVAFYNPSGNI-----
+----*
+>P1;gi|18000318|gb|AAL54918.1| cysteine-rich venom protein [Lapemis ... [ score 124 E 2e-28 ] [ range 1 .. 114 ]
+sequence
+----------------------------------------------------------------------
+-----------MKWNSHAAQNAKRSADRCTFAHSPEHT-------RCGENIFMSSQ----PFAWSGVVQA
+WYDEIKNFVYGIGAK-PPGS--VIGHYTQIVWYKSHLLGCASAKC-SST--KYLYVCQYCPAGNIR----
+----*
+>P1;gi|45199219|ref|NP_986248.1| AFR700Wp [Eremothecium gossypii] >g... [ score 124 E 4e-28 ] [ range 269 .. 416 ]
+sequence
+-------------------------------------------NVASELVKAHNAKRVLHD---------
+--------TQPLKWNNKLSDFAYSYVSELVGPCTLKHS-------NYGENIASGLS----SETPTEYVNS
+WYNEIEDYDYNDGIY-HRGK--AVGHFTQLVWAKSQEVGCAVVYC-SNN--GIYILCEYHPVGNIEDSTP
+----*
+>P1;gi|549187|sp|P35759|VA5_POLEX Venom allergen 5 (Antigen 5) (Ag5)... [ score 123 E 6e-28 ] [ range 46 .. 202 ]
+sequence
+------------------------------------------------IVSEHNRFRQKVA---------
+--------MNDLVWNDELAHIAQVWASQCHDKCNTAKY-------PVGQNIAYAGG----SKLPDVVIKL
+WENEVKDFNYNTGTK-QNFA--KIGHYTQMVWGKTKEIGCGSLKY-KMQ--NHYLICNYGPAGNYLGQLP
+Y---*
+>P1;gi|6136164|sp|P81656|VA5_POLDO Venom allergen 5 (Antigen 5) (Ag5... [ score 123 E 7e-28 ] [ range 46 .. 203 ]
+sequence
+------------------------------------------------IVEEHNRFRQKVN---------
+--------MNNLVWNDELAKIAQVWASQCHDKCNTEKY-------QVGQNIAYAGS----SNSVTKLIQL
+WENEVKDFNYNTGTN-KNFG--KVGHYTQMVWGNTKEVGCGSLKY-NMQ--IHYLICNYGPAGNYLGQPI
+Y---*
+>P1;gi|39587736|emb|CAE58674.1| Hypothetical protein CBG01847 [Caeno... [ score 123 E 7e-28 ] [ range 21 .. 185 ]
+sequence
+-------------------------------------------NGQAAILNVHNTLRSKIN---------
+--------ILKMKWDTATATSAQNYANT----CPTGHS-------GAGENLYWSWT----SATGAAASAA
+WEKEFQDFGWKTNMA-LFNT--GIGHATQMAWAKTNLIGCGVKNC-GKN--KVAVVCQYKPQGNYLNQNI
+Y---*
+>P1;gi|17540540|ref|NP_502502.1| SCP-Like extracellular protein (scl... [ score 123 E 9e-28 ] [ range 21 .. 184 ]
+sequence
+---------------------------------------------QSSIVDAHNKLRSAIA---------
+--------MRKMVVDSTVAASAQNYANT----CPTGHS-------GYGENLYWSWT----DSYGEIAAAA
+WEKEFQDFGWKSNAM-LFNS--GIGHATQMAWANTSSIGCGVKNC-NMN--KIAVVCQYSPPGNTMGRPI
+Y---*
+>P1;gi|549188|sp|P35780|VA5_POLFU Venom allergen 5 (Antigen 5) (Ag5)... [ score 122 E 1e-27 ] [ range 46 .. 202 ]
+sequence
+------------------------------------------------IVNEHNRFRQKVA---------
+--------MNNLVWNDELAHIAQVWASQCHDKCNTAKY-------QVGQNIAYAGG----SKLPDVVIKL
+WENEVKDFNYNKGTK-QNFG--KVGHYTQMIWAKTKEIGCGSLKY-NMQ--HHYLICNYGPAGNYLGQLP
+Y---*
+>P1;gi|465052|sp|Q05108|VA5_DOLAR Venom allergen 5 (Antigen 5) (Ag5)... [ score 122 E 1e-27 ] [ range 38 .. 200 ]
+sequence
+-------------------------------------------DEKNEIVKRHNEFRQKVN---------
+--------MNLLVWNDELAKIAQTWANQ----CNFGHD-------QCGQNVAIGNS----YQTMSYLIKM
+WEDEVKDYNPHKDLM-HNNS--KVGHYTQMVWGKTKEIGCGSVKY-IEN--KWYLVCNYGPAGNYMNQPV
+Y---*
+>P1;gi|14424466|sp|P35778|VA3_SOLIN Venom allergen III precursor (Al... [ score 122 E 1e-27 ] [ range 68 .. 230 ]
+sequence
+------------------------------------------------IVNKHNELRQRVA---------
+--------MPNLTWDPELATIAQRWANQ----CTFEHD-------ACGQNIAATSS----SSTPNEMILL
+WYNEVKDFDFPSDDN-I-LM--KVGHYTQIVWAKTTKIGCGRIKE-PDN--WHYLVCNYGPAGNVLGAPI
+Y---*
+>P1;gi|549184|sp|P35781|VA51_VESCR Venom allergen 5.01 (Antigen 5-1)... [ score 122 E 1e-27 ] [ range 43 .. 199 ]
+sequence
+-----------------------------------------------EILKQHNEFRQKVS---------
+--------MNTLVWNDELAQIAQVWANQ----CNYGHD-------NCGQNIAEGST----TASVSNMVKM
+WEDEVKDYQYGSPKN-KLN---KVGHYTQMVWAKTKEIGCGSIKY-IEN--GWYLVCNYGPAGNVGNEPI
+Y---*
+>P1;gi|34395115|dbj|BAC84831.1| putative pathogenesis-related protei... [ score 122 E 2e-27 ] [ range 34 .. 170 ]
+sequence
+-------------------------------------------NEKAVFVQLHNNARAAVG---------
+--------VGPVAWNDALAAQALQHARYCQTQH--IPG-------PYGENLWWSYG----TGTPADAMSY
+WVGEKPYYDYSSNSC--GGR--ECRHYTQVVWRRTAYVGCARVAC-NTN--GTIIACNYYPGGNIYNERP
+Y---*
+>P1;gi|39579904|emb|CAE56328.1| Hypothetical protein CBG23993 [Caeno... [ score 122 E 2e-27 ] [ range 25 .. 190 ]
+sequence
+-------------------------------------------NGSQAIVDAHNKLRSSIN---------
+--------MRKMVWDNSVATSAQNYAN----DCPKGHS-------GAGENLYWSWT----DTYGTVACVE
+WEKEFQDNGWTSNTM-LFNS--GVGHATQMAWANTSLIGCGVKNC-NMF--KITVVCQYKPPGNYMNQPI
+Y---*
+>P1;gi|29841084|gb|AAP06097.1| similar to GenBank Accession Number A... [ score 122 E 2e-27 ] [ range 9 .. 141 ]
+sequence
+-----------------------------------------------EAIQAHNELRALHG---------
+--------CPKISYDSKLASDSQKWAEHLASINCLQHS-------GYGENLAFAGA----SLNGREATRN
+WYDEISKHDF---NG-QNQP--GTGHFTQVIWKSTNKAGFGSAKS-KDG--MVYVVGRYKPAGNVIGHY-
+----*
+>P1;gi|17540534|ref|NP_502499.1| vap-1 like family member (4N815) [C... [ score 121 E 2e-27 ] [ range 23 .. 185 ]
+sequence
+---------------------------------------------QQAIVDAHNKLRSSIN---------
+--------MRKIKWDATVATSAQNYANTCPTGHSQG-S-------GYGENLYWGNL----DTFGPAASSS
+WESEFQQYGWTSNTN-TFNT--GIGHATQMAWANTFAIGCGVKNC-GKN--KVAVVCQYKTPGNYLNQPI
+Y---*
+>P1;gi|20129165|ref|NP_608663.1| CG4270-PA [Drosophila melanogaster]... [ score 121 E 2e-27 ] [ range 34 .. 160 ]
+sequence
+-----------------------------------------------EVFNTTNKYRAMHG---------
+--------CPAVTINAALNKLAQEWANHLRDQNTMAHR-------PYGENIFSGGM----DVTGDLPVEM
+WYREINSYDF--NKA-QFVP--TAGHFTQLIWKSSVEMGSGVARK-ADR--TW-VVCNYNPPGNVVG---
+----*
+>P1;gi|39587730|emb|CAE58668.1| Hypothetical protein CBG01837 [Caeno... [ score 121 E 3e-27 ] [ range 23 .. 186 ]
+sequence
+---------------------------------------------QKNIVDAHNRLRSSIA---------
+--------KGKIKWDKTVATSAQSYANK----CPTGHS-------GYGENLYWRWS----TSSPKDASDA
+WSSEFGKYGWKTNKM-LFGS--GVGHATQMAWANTGGIGCGVKNC-KNG--MYVVVCQYKGPGNYMGQDI
+Y---*
+>P1;gi|137395|sp|P10736|VA52_DOLMA Venom allergen 5.01 precursor (An... [ score 121 E 4e-27 ] [ range 62 .. 224 ]
+sequence
+-------------------------------------------DEKNEILKRHNDFRQNVN---------
+--------MNVLVWNDELAKIAQTWANQCHDDCNTAKY-------QVGQNIAISST----TATPSKLIKQ
+WEDEVTEFNYKVGQN-SNFR--KVGHYTQMVWGKTKEIGCGSIKY-IED--NWYLVCNYGPGGNDFNQPI
+Y---*
+>P1;gi|549194|sp|P35787|VA5_VESVI Venom allergen 5 (Antigen 5) (Ag5)... [ score 120 E 6e-27 ] [ range 42 .. 203 ]
+sequence
+--------------------------------------------EKQEILKVHNDFRQKVN---------
+--------MNNLVWNDELANIAQVWASQ----CNYGHD-------TCGQNIAKRST----TASPGKLVKM
+WENEVKDFNPNIWSK-NNLK--KTGHYTQMVWAKTKEIGCGSVKY-VKD--EWYLVCNYGPSGNFRNEKL
+Y---*
+>P1;gi|24644642|ref|NP_731097.1| CG31482-PA [Drosophila melanogaster... [ score 120 E 6e-27 ] [ range 23 .. 152 ]
+sequence
+---------------------------------------------QEDHLNEHNRLREKHG---------
+--------SPPLTLDDELTKGCEEYAKVLANNEKLEHS-------NYGENLCMRSQ------TPLQCVQD
+WYDEIADYDFE--KP-QFAM--STGHFTALVWKNAKKMGIGQAKD-KKG--YYWVVARYYPPVNVNGQ--
+----*
+>P1;gi|17539076|ref|NP_502506.1| allergen V5/Tpx-1 related precursor... [ score 119 E 8e-27 ] [ range 22 .. 185 ]
+sequence
+-------------------------------------------NGQAAILNVHNTLRSRIA---------
+--------MLKMKWDATVAASAQAYANK----CPTGHS-------GAGENLYWYWT----SATGATGSAA
+WEKEFQDYGWSSNTS-LFNT--GIGHATQMAWAKTNLIGCGVKNC-GKN--KVTVVCQYKPQGNYLNQNI
+Y---*
+>P1;gi|39587737|emb|CAE58675.1| Hypothetical protein CBG01849 [Caeno... [ score 119 E 9e-27 ] [ range 23 .. 188 ] [ duplicate a ]
+sequence
+-------------------------------------------STQQFIVDIHNTLRSKIA---------
+--------KGKMKWDTTLATSAQTYANT----CPTGHS-------GTGENLYWRWS----DVYGGAAAVA
+WEQEFQTDGWTSNQA-LFDT--GIGHATQMAWASTGLIGCGVKNC-NYN--KVTVVCHYKSIGNVLGQDI
+Y---*
+>P1;gi|39587737|emb|CAE58675.1| Hypothetical protein CBG01849 [Caeno... [ score 119 E 9e-27 ] [ range 211 .. 322 ] [ duplicate b ]
+sequence
+-------------------------------------------STQQFIVDIHNTFRSKVS---------
+--------KGKMKWDSTLAASAQAYVNT----CPSAHS-------GVGESIYIAGL----DVYGGAAAVA
+WEQEFQRFGWESNIF-TRLT--HI----------------------------------------------
+----*
+>P1;gi|549185|sp|P35782|VA52_VESCR Venom allergen 5.02 (Antigen 5-2)... [ score 119 E 9e-27 ] [ range 43 .. 199 ]
+sequence
+-----------------------------------------------EILKQHNEFRQKVS---------
+--------MNTLVWNDELAQIAQVWANQ----CNYGHD-------NCGQNIAEGST----SVNVSNMVKM
+WEDEVKDYQYGSPKN-KLN---KVGHYTQMVWAKTKEIGCGSEDY-IED--GWYLVCNYGPAGNVGNEPI
+Y---*
+>P1;gi|465054|sp|Q05110|VA5_VESVU Venom allergen 5 precursor (Antige... [ score 119 E 1e-26 ] [ range 61 .. 224 ]
+sequence
+------------------------------------------KQEKQDILKEHNDFRQKIN---------
+--------MKNLVWNDELAYVAQVWANQCQYGHDTCRD-------QVGQNVALTGS----TAAPVKLVKM
+WEDEVKDYNPKKKSG-NDFL--KTGHYTQMVWANTKEVGCGSIKY-IQE--KWYLVCNYGPSGNFMNEEL
+Y---*
+>P1;gi|39587738|emb|CAE58676.1| Hypothetical protein CBG01850 [Caeno... [ score 119 E 1e-26 ] [ range 25 .. 183 ]
+sequence
+------------------------------------------------IINAHNTLRSKIA---------
+--------KGKMKWDTTVAASAQSYAN----RCPTGHS-------GTGENLYWGDL----NQYGAAASAA
+WEKEFQDYGWSSNMD-LFNT--GIGHATQMAWAKSNLIGCGVKDC-GRN--KVTVVCQYKPQGNYRNQYI
+Y---*
+>P1;gi|6136163|sp|P35779|VA3_SOLRI Venom allergen III (Allergen Sol ... [ score 119 E 1e-26 ] [ range 46 .. 207 ]
+sequence
+------------------------------------------------IVNKHNELRQRVA---------
+--------MPNLTWDPELATIAQRWANQ----CTFEHD-------ACGQNIAATSS----SSTLSDMILL
+WYNEVKDFDWISSFP-SDGM--HVGHYTQIVWAKTKKIGCGRKED-NWN--KHYLVCNYGPAGNVLGAQI
+Y---*
+>P1;gi|28573995|ref|NP_608668.2| CG16995-PA [Drosophila melanogaster... [ score 118 E 2e-26 ] [ range 4 .. 125 ]
+sequence
+------------------------------------------QQFEQEVLQAHNLYRAKHG---------
+--------AQPLTLSPKLNRLATEWANYLLSRNRMEHS-------GYGENIYMSGG----NLKGADAVRS
+WYEEIRQYNWNSPSF-QGN----TGHFTQVVWKSSTELGVGFAK--SGS--TIYVVC-------------
+----*
+>P1;gi|34865028|ref|XP_345822.1| similar to RIKEN cDNA 4921508O11 [R... [ score 118 E 2e-26 ] [ range 51 .. 204 ]
+sequence
+-------------------------------------------DFINEYVNLHNELRGGVN---------
+--------LRFMTWDVALSRTARAWGKKCVHESHPVFT-------DIGENMWVGPK----DFTATNAIRS
+WHEERKSYNYVNDTC-IEDE--DCSHYIQLVWDHSYKVGCAVTPC-AKV--GAIFICNYAPGG-TLTRRP
+Y---*
+>P1;gi|34395117|dbj|BAC84833.1| putative pathogenesis-related protei... [ score 118 E 2e-26 ] [ range 20 .. 158 ]
+sequence
+------------------------------------------EDEKAAFVNLHNSARAAVG---------
+--------VGRVAWNDALAAQALQHARYCQTQH--IPG-------PYGENLWWSYG----TGTPADAMSY
+WLAEKAKYYYDSNYC-SAGE--GCTHYTQVVWRRTAYVGCARVAC-NTN--GTIIACNYFPRGNMKNERP
+Y---*
+>P1;gi|6136165|sp|P81657|VA5_VESMA Venom allergen 5 (Antigen 5) (Ag5... [ score 118 E 3e-26 ] [ range 43 .. 199 ]
+sequence
+-----------------------------------------------EILKQHNEFRQKVS---------
+--------MNTLVWNDELAQIAQVWAGQCDYGHNTAKY-------SVGQNIAENGS----TASVSNMVQM
+WADEVKNYQYGS-TK-NKLI--EVGHYTQMVWAKTKEIGCGSIKY-IEN--GWYLVCNYGPAGNIGNEPI
+Y---*
+>P1;gi|17540544|ref|NP_502504.1| allergen V5/Tpx-1 related precursor... [ score 118 E 3e-26 ] [ range 22 .. 188 ]
+sequence
+------------------------------------------ESTQQFIVDLHNKLRAGSN---------
+--------LLKMKWDTTLATAAQTFANT----CPRGHS-------GVGENLYWSGM----DIYGGAASVA
+WEQEFQQYGWTTNTF-LANT--GIGHATQMAWANTGLIGCGVKNC-NYN--RAVVVCQYKAQGNYLGQDI
+Y---*
+>P1;gi|39587728|emb|CAE58666.1| Hypothetical protein CBG01835 [Caeno... [ score 118 E 3e-26 ] [ range 23 .. 186 ]
+sequence
+-------------------------------------------NTQQFIVDLHNSFRSKIN---------
+--------MRKMSWDSSLATSAQTYANT----CPTTHS-------GTGENFYMGGL----DVYGGSAAMA
+WQQEFQKFGWATNMN-LFNT--GVGNATQMAWAKTSLVGCGVKNC-GMN--RVSVVCHYKPLGNYLDQMI
+Y---*
+>P1;gi|31747352|gb|AAP57536.1| venom allergen 5 [Polybia scutellaris] [ score 118 E 3e-26 ] [ range 46 .. 203 ]
+sequence
+------------------------------------------------IVDEHNRFRQKVA---------
+--------MNNLVWNDELAYIAQVWASQCHDKCNTAQY-------QVGQNIAYSAS----TAAYPGIVSL
+WENEVKDFNYSQGTK-ENFS--KVGHYTQVVWAKTKEVGCGSIKY-GMK--SHYLVCNYGPAGNYMGQPI
+Y---*
+>P1;gi|38075238|ref|XP_355362.1| similar to R3H domain (binds single... [ score 117 E 5e-26 ] [ range 67 .. 219 ]
+sequence
+-------------------------------------------------LDYHNHIRASVN---------
+--------MEYMVWDEQLARSAEAWATQCTHGPSQLMK-------YVGQNLSIHSG----RFSVVDLVRS
+WSEEKRHYSFPAPKD-CSGP--VCSHYTQMVWASSSRLGCAINTC-SSQ--AVYLVCNYAIKGNWIGEAP
+Y---*
+>P1;gi|41018458|sp|Q7YT83|TX31_CONTE Substrate-specific endoprotease... [ score 117 E 5e-26 ] [ range 55 .. 193 ]
+sequence
+------------------------------------------QETEHEILEMHNKIRADVN---------
+--------MLKMEWDERLATVAQKWAMQ----CILGHD-------SGGQNVAWSSG----DLTFLGAVQM
+WADEIVDFQYGVWT-----D--GTGHYIQQVFAGASRIGCGQSAC-GNN--KYF-VCNYY--KGTMGDEP
+Y---*
+>P1;gi|17540542|ref|NP_502503.1| allergen V5/Tpx-1 related precursor... [ score 117 E 5e-26 ] [ range 26 .. 184 ]
+sequence
+------------------------------------------------IINAHNTLRSKIA---------
+--------KGKMKWDSAVAASAQNYAN----GCPTGHS-------GLGENLYWGDL----NQYGSAASAS
+WEKEFQDYGWKSNLM-LFNT--GIGHATQMAWAKSNLIGCGVKDC-GRN--KVTVVCQYKPQGNFINQYI
+Y---*
+>P1;gi|39585451|emb|CAE70534.1| Hypothetical protein CBG17169 [Caeno... [ score 117 E 6e-26 ] [ range 251 .. 403 ]
+sequence
+-------------------------------------------------VSYHNVYRSKHN---------
+--------APALIVDPVLESRGKRWADELAHRGCLVHE-------QYGENLFFFGA----RTLAAAIIQS
+FYLEGIGYNYSSWKP-MSFF--KTGHFTQLIWKDSRKIGVGRSPC-VSG--GIFVVVKYDPAGNMESHKA
+Y---*
+>P1;gi|39587729|emb|CAE58667.1| Hypothetical protein CBG01836 [Caeno... [ score 117 E 6e-26 ] [ range 23 .. 185 ]
+sequence
+---------------------------------------------QKNIVDAHNKLRSSIA---------
+--------KGKIKWDKHVAASAQSYANT----CPTGHS-------GYGENLFWSWA----PVFGVHASGA
+WSGEFTKYGWKTNKM-DGAS--GVGHATQMAWANTGGIGCGVKSC-GKD--KVVVVCQYKGPGNYMGQDI
+Y---*
+>P1;gi|42553091|gb|EAA75934.1| hypothetical protein FG09548.1 [Gibbe... [ score 117 E 6e-26 ] [ range 186 .. 333 ]
+sequence
+-------------------------------------------------LAYHNIHRSNHS---------
+--------APALEWDDELAGYAENTANGCVHDMDQGNG-------GYGQNLASWGN----KAAAGGITNQ
+WYDEMSNWAYGQENP-PYDM--NIGHFTQVVWKDSTKVGCATVKC-PAG--TWYTVCNYNPQGNFGGRY-
+----*
+>P1;gi|7495589|pir||T19031 hypothetical protein C07A4.2 - Caenorhabd... [ score 116 E 9e-26 ] [ range 202 .. 353 ]
+sequence
+-------------------------------------------------VSYHNVYRSKHG---------
+--------APALISDSVLDSRGKRWADEYHKGC-LVHE-------QYGENLFFFGA----RTLAAAVIQS
+FYLEGIGYNYSSWRP-MSFF--KTGHFTQLIWKNSRKIGVGRSPC-NMY--FIYVVVKYDPAGNFESHKA
+Y---*
+>P1;gi|15225275|ref|NP_179588.1| allergen V5/Tpx-1-related family pr... [ score 116 E 1e-25 ] [ range 35 .. 165 ]
+sequence
+---------------------------------------------PAETLAVHNQIRAA-----------
+--------------DQKLAAHAQRYANVRSQDCAMKYS-------TYGENIAAGWD----TMSGPIATKF
+WFTEKPYYNYATNKC---SE--PCGHYTQIVANQSTHLGCGTVRC-KNE--YVWVVCNYAPPMGDANTRP
+Y---*
+>P1;gi|38103281|gb|EAA49996.1| hypothetical protein MG03755.4 [Magna... [ score 116 E 1e-25 ] [ range 111 .. 249 ]
+sequence
+---------------------------------------------QQKALDAHNAARAEVK---------
+--------DGPMQWDKGLEDAARSWAKHLASRNQLEHD-------GKGENLAGRIM----DGDAEKASKM
+WIDEKKDYKCGVKDN-GNFG--KIGHYTQVIWPKTTKVGIAV------E--GGFVVARYSEAGNMMSE--
+----*
+>P1;gi|549192|sp|P35785|VA5_VESPE Venom allergen 5 (Antigen 5) (Ag5)... [ score 283 E 2e-75 ] [ range 1 .. 204 ]
+sequence
+-----NNYCKIKCLKGGVHTACKYGSLKPNCGNKIVVSYGLTKEEKQDILKEHNDFRQKIARGLETRGNP
+GPQPPAKNMKNLVWNDELAYVAQVWANQC---QYGHDTCRDVAKYPVGQNVALTGSTADKYDNPVKLVKM
+WEDEVKDYNPK--KKFSENNFNKIGHYTQMVWANTKEIGCGSIKYIQNEWHKHYLVCNYGPSGNFGNEEL
+YQTK*
+>P1;gi|549191|sp|P35760|VA5_VESMC Venom allergen 5 (Antigen 5) (Ag5)... [ score 283 E 2e-75 ] [ range 1 .. 204 ]
+sequence
+-----NNYCKIKCLKGGVHTACKYGSLKPNCGNKKVVSYGLTKQEKQDILKEHNDFRQKIARGLETRGNP
+GPQPPAKNMKNLVWSDELAYIAQVWANQC---QYGHDTCRDVAKYQVGQNVALTGSTAAVYNDPVKLVKM
+WEDEVKDYNPK--KKFSENNFLKIGHYTQMVWANTKEVGCGSIKYIQENWHKHYLVCNYGPSGNFQNEEL
+YQTK*
+>P1;gi|549190|sp|P35784|VA5_VESGE Venom allergen 5 (Antigen 5) (Ag5)... [ score 280 E 2e-74 ] [ range 1 .. 204 ]
+sequence
+-----NNYCKIKCLKGGVHTACKYESLKPNCANKKVVAYGLTKQEKQDILKEHNDFRQKIARGLETRGNP
+GPQPPAKNMKNLVWSDELAYIAQVWANQC---QYGHDTCRDVAKYPVGQNVALTGSTAAKYDNPVKLVKM
+WEDEVKDYNPK--KKFSENNFLKIGHYTQMVWANTKEVGCGSIKYIQDKWHKHYLVCNYGPSGNFGNEEL
+YQTK*
+>P1;gi|549194|sp|P35787|VA5_VESVI Venom allergen 5 (Antigen 5) (Ag5)... [ score 259 E 2e-68 ] [ range 3 .. 206 ]
+sequence
+------NYCKIKCLKGGVHTACKYGSTKPNCGKMVVKAYGLTEAEKQEILKVHNDFRQKVAKGLETRGNP
+GPQPPAKNMNNLVWNDELANIAQVWASQC---NYGHDTCKDTEKYPVGQNIAKRSTTAALFDSPGKLVKM
+WENEVKDFNPN--IEWSKNNLKKTGHYTQMVWAKTKEIGCGSVKYVKDEWYTHYLVCNYGPSGNFRNEKL
+YEKK*
+>P1;gi|549186|sp|P10737|VA53_DOLMA Venom allergen 5.02 precursor (An... [ score 257 E 1e-67 ] [ range 8 .. 215 ]
+sequence
+--GEANNYCKIKCSRG-IHTLCKFGSMKPNCGSKLVKVHGVSNDEKNEIVNRHNQFRQKVAKGLETRGNP
+GPQPPAKNMNVLVWNDELAKIAQTWANQC---SFGHDQCRNTEKYQVGQNVAIASTTGNSYATMSKLIEM
+WENEVKDFNPK--KGTMGNNFSKVGHYTQMVWGKTKEIGCGSVKYIENNWHTHYLVCNYGPAGNYMDQPI
+YERK*
+>P1;gi|137395|sp|P10736|VA52_DOLMA Venom allergen 5.01 precursor (An... [ score 256 E 2e-67 ] [ range 21 .. 227 ]
+sequence
+--GETNNYCKIKCRKG-IHTLCKFGSMKPNCGRNVVKAYGLTNDEKNEILKRHNDFRQNVAKGLETRGKP
+GPQPPAKNMNVLVWNDELAKIAQTWANQC---DFNHDDCRNTAKYQVGQNIAISSTTATQFDRPSKLIKQ
+WEDEVTEFNYK--VGLQNSNFRKVGHYTQMVWGKTKEIGCGSIKYIEDNWYTHYLVCNYGPGGNDFNQPI
+YERK*
+>P1;gi|549193|sp|P35786|VA5_VESSQ Venom allergen 5 (Antigen 5) (Ag5)... [ score 255 E 5e-67 ] [ range 2 .. 205 ]
+sequence
+------DYCKIKCLKGGVHTACKYGSTKPNCGNMVVKSYGVTQAEKQEILKIHNDFRNKVARGLETRGNP
+GPQPPAKNMNNLVWNNELANIAQIWASQC---KYGHDTCKDTTKYNVGQNIAVSSSTAAVYENVGNLVKA
+WENEVKDFNPT--ISWEQNEFKKIGHYTQMVWAKTKEIGCGSIKYVDNNWYTHYLVCNYGPAGNFGNQEV
+YERK*
+>P1;gi|465052|sp|Q05108|VA5_DOLAR Venom allergen 5 (Antigen 5) (Ag5)... [ score 248 E 5e-65 ] [ range 1 .. 203 ]
+sequence
+-----NNYCKI--CPKGTHTLCKYGSMKPNCGGKIVKSYGVTNDEKNEIVKRHNEFRQKVAQGLETRGNP
+GPQPPAKNMNLLVWNDELAKIAQTWANQC---NFGHDQCRNTAKYPVGQNVAIASTTGNSYQTMSYLIKM
+WEDEVKDYNPH--KDLMHNNFSKVGHYTQMVWGKTKEIGCGSVKYIENKWHTHYLVCNYGPAGNYMNQPV
+YERK*
+>P1;gi|6136165|sp|P81657|VA5_VESMA Venom allergen 5 (Antigen 5) (Ag5... [ score 242 E 4e-63 ] [ range 1 .. 202 ]
+sequence
+-----NNYCKIKC-RSGIHTLCKFGSTKPNCGKNVVKASGLTKAEKLEILKQHNEFRQKVARGLETRGKP
+GPQPPAKSMNTLVWNDELAQIAQVWAGQC---DYGHDVCRNTAKYSVGQNIAENGSTAASFASVSNMVQM
+WADEVKNYQYG--S--TKNKLIEVGHYTQMVWAKTKEIGCGSIKYIENGWHRHYLVCNYGPAGNIGNEPI
+YERK*
+>P1;gi|549184|sp|P35781|VA51_VESCR Venom allergen 5.01 (Antigen 5-1)... [ score 239 E 3e-62 ] [ range 1 .. 202 ]
+sequence
+-----NNYCKIKC-RSGIHTLCKYGSTKPNCGKNVVKASGLTKQENLEILKQHNEFRQKVARGLETRGNP
+GPQPPAKSMNTLVWNDELAQIAQVWANQC---NYGHDNCRNSAKYSVGQNIAEGSTTADNFGSVSNMVKM
+WEDEVKDYQYG--S--PKNKLNKVGHYTQMVWAKTKEIGCGSIKYIENGWHRHYLVCNYGPAGNVGNEPI
+YERK*
+>P1;gi|549185|sp|P35782|VA52_VESCR Venom allergen 5.02 (Antigen 5-2)... [ score 237 E 9e-62 ] [ range 1 .. 202 ]
+sequence
+-----NNYCKIKC-RSGIHTLCKYGSTKPNCGKNVVKASGLTKQENLEILKQHNEFRQKVARGLETRGNP
+GPQPPAKSMNTLVWNDELAQIAQVWANQC---NYGHDNCRNSAKYSVGQNIAEGSTSADNFVNVSNMVKM
+WEDEVKDYQYG--S--PKNKLNKVGHYTQMVWAKTKEIGCGSEDYIEDGWHRHYLVCNYGPAGNVGNEPI
+YERK*
+>P1;gi|549187|sp|P35759|VA5_POLEX Venom allergen 5 (Antigen 5) (Ag5)... [ score 232 E 4e-60 ] [ range 2 .. 205 ]
+sequence
+------DYCKIKCPSG-IHTVCQYGEPSKNCAGKVIKSVGPTEEEKKLIVSEHNRFRQKVAQGLETRGNP
+GPQPAASDMNDLVWNDELAHIAQVWASQC---QFVHDKCRNTAKYPVGQNIAYAGGS--KLPDVVSLIKL
+WENEVKDFNYN--TGITKQNFAKIGHYTQMVWGKTKEIGCGSLKYIENKMQNHYLICNYGPAGNYLGQLP
+YTKK*
+>P1;gi|6136164|sp|P81656|VA5_POLDO Venom allergen 5 (Antigen 5) (Ag5... [ score 230 E 1e-59 ] [ range 1 .. 206 ]
+sequence
+-----NDYCKIKCSSG-VHTVCQYGEPSKNCAGKLIKSVGPTEEEKKLIVEEHNRFRQKVAKGLETRGNP
+GPQPAASNMNNLVWNDELAKIAQVWASQC---QLVHDKCRNTEKYQVGQNIAYAGSS-NHFPSVTKLIQL
+WENEVKDFNYN--TGITNKNFGKVGHYTQMVWGNTKEVGCGSLKYVEKNMQIHYLICNYGPAGNYLGQPI
+YTKK*
+>P1;gi|14424466|sp|P35778|VA3_SOLIN Venom allergen III precursor (Al... [ score 227 E 1e-58 ] [ range 18 .. 233 ]
+sequence
+ANTLATNYCNLQSCKNAIHTMCQYTSPTPGPMCLEYSNVGFTDAEKDAIVNKHNELRQRVASGKEMRGTN
+GPQPPAVKMPNLTWDPELATIAQRWANQC---TFEHDACRNVERFAVGQNIAATSSSGKNKSTPNEMILL
+WYNEVKDFDWI--SSFPSDDLMKVGHYTQIVWAKTTKIGCGRIMFKEDNWTKHYLVCNYGPAGNVLGAPI
+YEIK*
+>P1;gi|549188|sp|P35780|VA5_POLFU Venom allergen 5 (Antigen 5) (Ag5)... [ score 227 E 2e-58 ] [ range 2 .. 205 ]
+sequence
+------DYCKIKCSSG-IHTVCQYGEPSKNCADKVIKSVGPTEEEKKLIVNEHNRFRQKVAQGLETRGNP
+GPQPAASDMNNLVWNDELAHIAQVWASQC---QLVHDKCRNTAKYQVGQNIAYAGGS--KLPDVVSLIKL
+WENEVKDFNYN--KGITKQNFGKVGHYTQMIWAKTKEIGCGSLKYMKNNMQHHYLICNYGPAGNYLGQLP
+YTKK*
+>P1;gi|31747352|gb|AAP57536.1| venom allergen 5 [Polybia scutellaris] [ score 224 E 1e-57 ] [ range 1 .. 206 ]
+sequence
+-----NKYCNIKCSK-VAHTVCQYGEPSSKCNKVSITSVGVTEEEKKLIVDEHNRFRQKVAQGLETRGNP
+GPQPAASDMNNLVWNDELAYIAQVWASQC---QFVHDKCRNTAQYQVGQNIAYSASTAA-YPGIVSLIVL
+WENEVKDFNYS--QGITKENFSKVGHYTQVVWAKTKEVGCGSIKYIEKGMKSHYLVCNYGPAGNYMGQPI
+YTKK*
+>P1;gi|6136163|sp|P35779|VA3_SOLRI Venom allergen III (Allergen Sol ... [ score 220 E 2e-56 ] [ range 1 .. 210 ]
+sequence
+-----TNYCNLQSCKNAIHTMCQYTSPTPGPMCLEYSNVGFTDAEKDAIVNKHNELRQRVASGKEMRGTN
+GPQPPAVKMPNLTWDPELATIAQRWANQC---TFEHDACRNVERFAVGQNIAATSSSGKNKSTLSDMILL
+WYNEVKDFDWI--SSFPSDGLMHVGHYTQIVWAKTKKIGCGRIMFKEDNWNKHYLVCNYGPAGNVLGAQI
+YEIK*
+>P1;gi|18568308|gb|AAL76024.1| putative secreted protein [Aedes aegy... [ score 180 E 1e-44 ] [ range 17 .. 228 ]
+sequence
+-EGQATNYCDPSCARGTPHIACNLSTLSRTCGAGSF-EVALNRADQQLIVDLHNKLRSKVAMGQQKNSAG
+QRFQQACRMATLQWDPELAHIAATNARRC---VYGHDTCRNTASMKFGQNIYYYGMTFTNEQLLTGFINS
+WFSEFKDATPQ--QYPANYRGPAIGHFTQIVSDRTSRIGCSMVSYNKNGFINKLFVCNYGLT-NIINQPV
+Y---*
+>P1;gi|31217576|ref|XP_316453.1| ENSANGP00000020404 [Anopheles gambi... [ score 177 E 2e-43 ] [ range 18 .. 222 ]
+sequence
+------DYCTANCSSGIPNVGCNPPPLSPQCFGRSPVVVPITASLRSLILDQHNSRRSLIATG-----RL
+SPFFPARRMPTLVWDDELASQAGHNARSC---VFQHDRCRNTVDFWAGQNLAFFGQTITVETLINDFVRM
+WWDEHFDTTID--SYPSNHVGPAIGHFTQIASDRTWAVGCAMQNWLQDGWITYYFVCNYSFT-NIVNQPV
+Y---*
+>P1;gi|34556108|emb|CAA76822.2| putative gVAG protein precursor [Ano... [ score 175 E 7e-43 ] [ range 24 .. 229 ]
+sequence
+-------YCSSDCPRGGPHVGCNPPSSSPTCGKQKARKVLLTPALQAYIMDEHNLNRSNIALG-----RI
+RPYPSAVKMPTLTWDPELASLADANARSC---NYGHDRCRATKKFPYGQNIAITGYRFTEKDLIHKFVSS
+WWSEYLDARPE--KYPSSYSGKPIGHFTQIASDRSTKVGCSMWYWKDGQMDVYYFVCNYSFT-NIMDRSV
+YQS-*
+>P1;gi|33359651|gb|AAQ17073.1| antigen 5-related salivary protein [A... [ score 171 E 7e-42 ] [ range 24 .. 228 ]
+sequence
+------DYCSSDCHRQGEHVGCRPPSGGPTCGLKDARKVRISPELQQFILNEHNKNRSRLALGQ-----V
+SPYRKAQKMPTLVWDPELASLADANARSC---NYGHDHCRSTQQFPYGQNIAITKFYGYKFTDVTRFVSG
+WWSEYVDARPQ--YYPSSYSGKPIGHFTQIASDRTTKVGCSMWYWKDGQFDVYYFVCNYSVT-NIIKKSV
+Y---*
+>P1;gi|18568284|gb|AAL76012.1| putative secreted protein [Aedes aegy... [ score 169 E 3e-41 ] [ range 20 .. 223 ]
+sequence
+----YANYCDQSLCRRGPHVACNAPTFGSACG-QEPKFVKMDARMKNLLLKKHNELRAEIACGKH-----
+-GFPQAARMPTLVWDDELAHIASFNARKC---IFAHDKCRNTREFKFGQNLAITGYNFQAADRAENFTQE
+WFNEHKDSYVD--SYPMSHSGPQIGHFTQMANDRAWKMGCSMVHYKNGRVIKYYLVCNYSMT-NMIEEPI
+YTR-*
+>P1;gi|27372895|gb|AAO06821.1| salivary antigen-5 related protein [A... [ score 169 E 3e-41 ] [ range 24 .. 228 ]
+sequence
+-------YCRSDCPRGGPHVGCNPPPFSPTCRSMKGAKKIPLKNLKSFITDEHNLNRSNIALG-----RI
+APYPKAVKMPTLTWDAELEALADANARSC---NYGHDRCRATDKFPYGQNIAITGYKFTEKDLIHKFVSS
+WWSEYLDARPE--KYPTSYRGKPIGHFTQIASDRSTKVGCSMWYWKDGQMDVYYFVCNYSTT-NIMDRSV
+YQS-*
+>P1;gi|31217579|ref|XP_316454.1| ENSANGP00000020471 [Anopheles gambi... [ score 169 E 4e-41 ] [ range 28 .. 233 ]
+sequence
+-----TDYCNSNCRNGRPNVGCNPPPGGPACAGLNPEVKTFSPEEQTLILSEHNKRRSQLAQGELK----
+-PFQPAVRMPTLTWDEELAKQAGNNARSC---TYQHDSCRNTPVFWAGQNLALSQSSGMNKTVSEVISSS
+IASWWSEHNVN--TYPSSYSGPAIGHFTQMASDQSDKIGCAMQNWVSDNWQTYYFVCNYGVT-NIADRPV
+YK--*
+>P1;gi|31217584|ref|XP_316455.1| ENSANGP00000021046 [Anopheles gambi... [ score 168 E 7e-41 ] [ range 34 .. 238 ]
+sequence
+------NYCSTSCRNGRQNVGCNPPGIPPACAGLKPMVITINSTLQTLILSEHNTRRSQLALGQLK----
+-PFLPAVRMPTLTWDEELAKQAGNNARSC---QYQHDSCRNTPIYWAGQNIALSRMTNTISQLISSNIAS
+WWNEYKQEQLN--SYPSSNSGPAIGHFTQMASDQTAKIGCAMQNWVSGNWQTYYFVCNYAVT-NIIDRPV
+YK--*
+>P1;gi|39587737|emb|CAE58675.1| Hypothetical protein CBG01849 [Caeno... [ score 167 E 2e-40 ] [ range 20 .. 190 ] [ duplicate a ]
+sequence
+----------------------------------------FKSSTQQFIVDIHNTLRSKIAKGTYV-AQE
+TTKPAGTNLLKMKWDTTLATSAQTYANTC---PTGHSNLAGTGENLYWRWSSLPFSGLDVYGGAAAV--A
+WEQEFQTDGWT--SNAFTQALFDIGHATQMAWASTGLIGCGVKNCTKNNYNKVTVVCHYKSIGNVLGQDI
+YKS-*
+>P1;gi|39587737|emb|CAE58675.1| Hypothetical protein CBG01849 [Caeno... [ score 167 E 2e-40 ] [ range 189 .. 318 ] [ duplicate b ]
+sequence
+----------------------KSGTTCSVCPGTTLVHAQFRASTQQFIVDIHNTFRSKVSKGTYVVQ-G
+ITKPAGSNILKMKWDSTLAASAQAYVNTC---PSAHSNTPGVGESIYTRGTTLPIAGLDVYGGAAAV--A
+WEQEFQRFGWE--SNIFTR---------------------------------------------------
+----*
+>P1;gi|2500713|sp|Q16937|ASP_ANCCA Ancylostoma secreted protein prec... [ score 166 E 3e-40 ] [ range 199 .. 399 ] [ duplicate a ]
+sequence
+--ADCSTYKNSGCEDG----LCTKGPDVPETNQQCPSNTGMTDSVRDTFLSVHNEFRSSVARGLEPDALG
+GNAPKAAKMLKMVYDCEVEASAIRHGNKC---VYQHS--HGEDRPGLGENIYKTSVLKFDKNKAAKASQL
+WWNELKEFGVG--TALWNRPGMQIGHYTQMAWDTTYKLGCAVVFCND----FTFGVCQYGPGGNYMGHVI
+Y---*
+>P1;gi|2500713|sp|Q16937|ASP_ANCCA Ancylostoma secreted protein prec... [ score 166 E 3e-40 ] [ range 29 .. 191 ] [ duplicate b ]
+sequence
+-------------------------------------NSGITDKDRQAFLDFHNNARRRVAKGVE-DSNS
+GKLNPAKNMYKLSWDCAMEQQLQDAIQSC---PSAFAGIQGVAQNVMSWSS--SGGFPDPSVKIEQTLSG
+WWSGAKKVGPD--NKYNGGGLFA---FSNMVYSETTKLGCAYKVC----GTKLAVSCIYNGVGYITNQPM
+WET-*
+>P1;gi|17561866|ref|NP_504056.1| allergen V5/Tpx-1 related family me... [ score 166 E 3e-40 ] [ range 18 .. 187 ]
+sequence
+----------------------------------------FSSTAQTAIVKAHNDLRSAIALG-NYDAAG
+TIEPPAANMRKIKWDSTVASSAQQYANTC---PDDHS------GTEYGENLYWSWSSSAPTSLGVAASNS
+WEKEFQDYGWE--STYMDADLFDIGHATQMAWAETNKIGCGVKNCGKDNMYKVAVVCQYDQAGNMMDSDI
+YQS-*
+>P1;gi|4884851|gb|AAD31839.1| ancylostoma-secreted protein 1 precurs... [ score 166 E 3e-40 ] [ range 29 .. 191 ] [ duplicate b ]
+sequence
+-------------------------------------NSGITDKDRQAFLDFHNNARRRVAKGLE-DSNS
+GKLNPAKNMYKLSWDCAMEQQLQDAIQSC---PSGFAGIQGVAQNTMSWSSSGGFPDPSVKIEPT-LSGW
+WSGAKKNVGPD--NKYNGGGLFA---FSNMVYSETTKLGCAYKVC----GTKLAVSCIYNGVGYITNQPM
+WET-*
+>P1;gi|17539076|ref|NP_502506.1| allergen V5/Tpx-1 related precursor... [ score 166 E 4e-40 ] [ range 19 .. 187 ]
+sequence
+----------------------------------------FSANGQAAILNVHNTLRSRIAKGTYV-AKG
+TAKPAASDMLKMKWDATVAASAQAYANKC---PTGHSGAAGLGENLYWYWTSATITNIDQFGATGSA--A
+WEKEFQDYGWS--SNTLSMSLFNIGHATQMAWAKTNLIGCGVKNCGKDGFNKVTVVCQYKPQGNYLNQNI
+YTS-*
+>P1;gi|31205369|ref|XP_311633.1| ENSANGP00000015042 [Anopheles gambi... [ score 165 E 7e-40 ] [ range 25 .. 229 ]
+sequence
+----AQDYCKPDCDPGNDHIGCNPGGFTSNCPSGA-KVIKMTDELKKIILDEHNKYRSTVATGGLK----
+-WLPKAKQMTTMAWDDELAKMAQLNANRC---VQKHDACHNTDTIRYGQNLNHIKTTAPSIDNIPQVIKS
+WWDERLDVNSR--MVNSMYDPTMIFHFAVMAADKSNKLGCAMSQWSDNGDPFLYLVCNYSFT-DFVGLPM
+Y---*
+>P1;gi|3396070|gb|AAD13340.1| ancylostoma secreted protein 1 precurs... [ score 165 E 8e-40 ] [ range 16 .. 191 ] [ duplicate b ]
+sequence
+---------------------CNASPARDSFGC---SNSGITDSDRQAFLDFHNNARRRVAKGLE-DSNS
+GKLNPAKNMYKLSWDCAMEQQLQDAIQSC---PSGFAGIQGVAQNTMSWSS--SGGYPDPSVKIEPTLSG
+WWSGAKKVGPD--NKYTGGGLFA---FSNMVYSETTKLGCAYKVC----GTKLAVSCIYNGVGYITNQPM
+WET-*
+>P1;gi|23268455|gb|AAN11402.1| secreted-protein 1 precursor [Ancylos... [ score 165 E 8e-40 ] [ range 198 .. 400 ] [ duplicate a ]
+sequence
+AGADCTTFKNSGCEDG----LCTKGADVPETNQQCPSNTGMTDSVRDTFLSLHNEFRSSVARGLEPDALG
+GNAPKASKMLKMVYDCEVEASAIRHGNKC---VYQHS--HGDERPGLGENIYKTSIVKFEKNKAAKASQL
+WWNELKEFGVG--PSNMNRPNMQIGHYTQMAWESTYKLGCAVIFCND----FTFGVCQYGPGGNYMNHLI
+Y---*
+>P1;gi|23268455|gb|AAN11402.1| secreted-protein 1 precursor [Ancylos... [ score 165 E 8e-40 ] [ range 17 .. 192 ] [ duplicate b ]
+sequence
+---------------------CDASPVKASFGC---SNSGITDSDRQAFLDFHNNARRRVAQGVEDN-KS
+GKLNPAKNMYKLDWDCEMEQKLQDAIQSC---PGGFAGIQGVAQNIISW--SGSGGFPNPSEKINSTLAS
+WWGGAKNNGSD--NKYTGGGLYA---FSNMVFSETTKLGCAYKVC----GTKLTLSCIYNGIGYMTGAPM
+WET-*
+>P1;gi|39579904|emb|CAE56328.1| Hypothetical protein CBG23993 [Caeno... [ score 164 E 9e-40 ] [ range 22 .. 191 ]
+sequence
+----------------------------------------FTSNGSQAIVDAHNKLRSSIAKGTYV-AKG
+SKKPSASNMRKMVWDNSVATSAQNYANDC---PKGHSGASGLGENLYWSWTSGNVSSLDTYGTV--ACVE
+WEKEFQDNGWT--SNTMNSALFNVGHATQMAWANTSLIGCGVKNCGRDNMFKITVVCQYKPPGNYMNQPI
+YE--*
+>P1;gi|31210575|ref|XP_314254.1| ENSANGP00000018746 [Anopheles gambi... [ score 164 E 1e-39 ] [ range 39 .. 243 ]
+sequence
+----AQDYCNPDCDPGDDHIGCNPGGFTSNCPSGA-KVIKMTDELKKIILDEHNKYRSTVATGGLK----
+-WLPKAKQMTTMTWDDELAKLAKLNANRC---VQKHDDCHNTAKHRYGQNLNHIMTTAPSIDNIPQVVKS
+WWDERFDVNSK--AMYDPGRHTMIFHFAVMAADKANKIGCAISQWPENGNPYLYLVCNYSFT-DIVGLPM
+Y---*
+>P1;gi|31213101|ref|XP_315494.1| ENSANGP00000021178 [Anopheles gambi... [ score 164 E 1e-39 ] [ range 18 .. 223 ]
+sequence
+----PNYYCSPSCPHGGPNVGCNPPPLSGGCYGKLPSVVPMTPAVQAHILHLHNYYRSRVASGYQF----
+-PLGPAARMYTMVWDDELAAQAGNNARSC---VFAHDRCRNTPQFLSGQNIALLKYYEPGTDLITRFIGG
+WWKENKKVKPI--QAFPRSQVKNIGHFTMLVNDRTWKVGCAMQNWSEGAATKVYFVCNYSY-NNIVTQEV
+Y---*
+>P1;gi|18389885|gb|AAL68779.1| antigen 5-related 2 protein [Anophele... [ score 164 E 1e-39 ] [ range 22 .. 226 ]
+sequence
+------NYCTTSCRNGRQNVGCNPPGIPPACAGLKPMVITINSTLQTLILSEHNTRRSQLALGQLK----
+-PFLPAVRMPTLTWDEELAKQAGNNARSC---QYQHDSCRNTPVYWAGQNIALAQFSRMTNTISQLIIAS
+WWNEYKQEQLN--FYPSSNSGPAMGHFTQMASDQTAKIGCAMQNWVSGTWQTYYFVCNYAVT-NIIDRPV
+YK--*
+>P1;gi|31205367|ref|XP_311632.1| ENSANGP00000024498 [Anopheles gambi... [ score 163 E 2e-39 ] [ range 25 .. 229 ]
+sequence
+----AQDYCKPDCDPGNDHIGCNPGGFTSNCPSGA-KVIKMTDELKKIILDEHNKYRSTVATGGLK----
+-WLPKAKQMTTMTWDDELAKLAKLNANRC---VQKHDDCHNTAKHRYGQNLNHIMTTAPSIDNIPQVIKS
+WWDERLDVNSK--AMYDPGRHTMIFHFAVMAADKANKIGCAISQWPENGNPYMYLVCNYSFT-DIVGLPM
+Y---*
+>P1;gi|24642010|ref|NP_524689.2| Antigen 5-related 2 CG9540-PA [Dros... [ score 163 E 2e-39 ] [ range 14 .. 223 ]
+sequence
+ALAQATDYCSSDICNGGSHIACGHSNWWDSSCPGDAELIDINDDYKWVFVHSHNDKRNYIAGGYDSNHN-
+----AACRMATMEWDDELAYLASLNVRQC---NMVHDSCHNTDAFKYGQNLAWQAYSGDLPDMGYNSVQM
+WFDEVHNSNAG--IYPSGYNGPAIGHFTVMMSERNTRLGCAAARYNRDGWNQVLVACNYATT-NMIGRQI
+YSS-*
+>P1;gi|39587736|emb|CAE58674.1| Hypothetical protein CBG01847 [Caeno... [ score 163 E 2e-39 ] [ range 18 .. 187 ]
+sequence
+----------------------------------------FTSNGQAAILNVHNTLRSKIAQGKYV-AKG
+TTKPAGNNILKMKWDTATATSAQNYANTC---PTGHSGAAGLGENLYWSWTSATITNIDSYGAAASA--A
+WEKEFQDFGWK--TNLLDMALFNIGHATQMAWAKTNLIGCGVKNCPKNGLNKVAVVCQYKPQGNYLNQNI
+YTT-*
+>P1;gi|17540540|ref|NP_502502.1| SCP-Like extracellular protein (scl... [ score 163 E 3e-39 ] [ range 6 .. 185 ]
+sequence
+------------------------------CLLAIGVNAQFTSTGQSSIVDAHNKLRSAIAKSTYV-AKG
+TKKEPATDMRKMVVDSTVAASAQNYANTC---PTGHSKGTGYGENLYWSWTSADVGSLDSYGEIAAA--A
+WEKEFQDFGWK--SNAMDTTLFNIGHATQMAWANTSSIGCGVKNCGRDNMNKIAVVCQYSPPGNTMGRPI
+YK--*
+>P1;gi|21357507|ref|NP_650264.1| CG8483-PA [Drosophila melanogaster]... [ score 162 E 4e-39 ] [ range 22 .. 192 ]
+sequence
+-----------------------------ACNGKIIAS-GITAEERSIILQEHNRLRQIVATGRYP----
+-GQPGAENMREIVWDDELAARAQKWADNC---QFRHDPHRTINRFTMGQNLAIIWSTAADDGDFPSRIQS
+WFNEVQKYSFG--DAWS----PKTGHYSQLVWGETSLVGCGYAEYKDTSKYNKLYVCNYGPGGNVVGYNP
+YE--*
+>P1;gi|32395295|gb|AAO72734.1| antigen 5 precursor [Stomoxys calcitr... [ score 162 E 5e-39 ] [ range 20 .. 228 ]
+sequence
+--GQNTDYCSADCRAGITHIACRHGQFSSACPSSARM-VNLDDKLKKAIVNAHNTKRNLIAGGGDERHD-
+----PACRMATMQWDEELAKIAAYNVRQC---KMAHDKCRNTNKFKYGQNLAWMGFMGSTKDVDTKAVNM
+WYDEVKDSRMD--KYPKSYSGPAIGHFTVMVADRNIRVGCAAATYPEPGYNAYLVACNYATT-NMMDHPI
+YAS-*
+>P1;gi|7500502|pir||T21763 hypothetical protein F35E12.1 - Caenorhab... [ score 162 E 5e-39 ] [ range 83 .. 280 ]
+sequence
+-ERSATSKCWQECAKVWREVAMALNKL-PKCGRKLPLNSAFSPAAQASIVKIHNDLRSEIAKGL-FLAKG
+IEKPPASDMMKISWDDSIAESAQTFIEKC---PMNH------TKTEYGENMHRSWSSKEITDLGTKAAES
+WAGEFQKKGWE--SNIYTKDTEKIGHATQMVWSQAYLIGCGVKDCGPDNMHKITVVCRY-----------
+----*
+>P1;gi|17540534|ref|NP_502499.1| vap-1 like family member (4N815) [C... [ score 162 E 6e-39 ] [ range 18 .. 186 ]
+sequence
+----------------------------------------FTSTGQQAIVDAHNKLRSSIAKGTYV-AKG
+TTQKSGSNMRKIKWDATVATSAQNYANTC---PTGHSQGSGYGENLYW---YWTSGTIGNLDTGPAASSS
+WESEFQQYGWT--SNTLDMNTFNIGHATQMAWANTFAIGCGVKNCPSNGYNKVAVVCQYKTPGNYLNQPI
+YQ--*
+>P1;gi|17540544|ref|NP_502504.1| allergen V5/Tpx-1 related precursor... [ score 161 E 7e-39 ] [ range 20 .. 190 ]
+sequence
+----------------------------------------FRESTQQFIVDLHNKLRTSIAKGTYV-AKG
+TTKAAGSNLLKMKWDTTLATAAQTFANTC---PRGHSNAAGVGENLYWRWSSLPFSGMDIYGGAASV--A
+WEQEFQQYGWT--TNTFTQALTGIGHATQMAWANTGLIGCGVKNCGPDNYNRAVVVCQYKAQGNYLGQDI
+YKS-*
+>P1;gi|17539738|ref|NP_502532.1| allergen V5/Tpx-1 related precursor... [ score 160 E 2e-38 ] [ range 17 .. 187 ]
+sequence
+--------------------------------------TQFTANGQAAILNVHNTLRSRIAKGTYV-ARG
+TVKHAASDMLKMKWLRSLATSSQIYANRC---PTGHSNMIGVGENLYW---YWTSGTITNIDQGAMASAA
+WEKEFQDYGWS--SNTLTMSLFNVGHATQMAWAKTNLIGCGVKNCGMDGMNKVAVVCHYQPQGNYLNQNI
+YTS-*
+>P1;gi|7638032|gb|AAF65314.1| salivary allergen 2 [Ctenocephalides f... [ score 160 E 2e-38 ] [ range 32 .. 241 ]
+sequence
+-----DDYCNLNC-TNGPNVGCTKPDVPRDCQN--FKLVNITERMKKAFLNAHNRKRRLVAAGKGLLKDG
+VHTPIAAKMPNLTWNIALAKLAEYNVKQC---EMKHD-CAKTRHGHTGQNLFFYGTTLSPIKNSTMAVDG
+WYAESKDTRLE--DTTIYPNGKPIGHYTQLIWGNTTKVGCAVSTYKKNMFNMTLVACNY-RGGNMLEEAV
+YQIK*
+>P1;gi|39588543|emb|CAE58066.1| Hypothetical protein CBG01145 [Caeno... [ score 159 E 3e-38 ] [ range 15 .. 183 ]
+sequence
+---------------------------------------AFSPDGQAAIVKAHNDLRSALAKG-EYVAKG
+VTQPSAKNMMKMVWDETIAESAQQFAEGC---PDDH------AESPYGENLYWGWDSEELGDLGVQASQS
+WESEFQKFGLE--GTTLTQEDSGIGHATQMAWASSNKIGCGAKNCPTNGMNKVTVVCQYQEKGNTIPEKI
+YE--*
+>P1;gi|31217681|ref|XP_316479.1| ENSANGP00000004285 [Anopheles gambi... [ score 159 E 3e-38 ] [ range 6 .. 215 ]
+sequence
+--QSQTDYCATSCRNNLVNIGCNPPASPGGCVGLSPVVITLNSTIQSLILAEHNSRRSQLALGQLA----
+-PFLPAVRMPTLSWDAELAKQAGNNARNC---TYKHDSCRNTAVYAYGQNLALTGMTMTIAQLVTGGISS
+WWSE---YNVT--TYPSNYVGSPIGHFTQMASDQTSKIGCAMQNWLSGTWKTYYFVCNYAVT-NIVSRPV
+YKT-*
+>P1;gi|3719257|gb|AAD13339.1| ancylostoma-secreted protein 1 precurs... [ score 158 E 5e-38 ] [ range 200 .. 400 ] [ duplicate a ]
+sequence
+--ADCSTYKNSGCEDS----LCTKGADVPETNQQCPSNTGMTDSVRDTFLSLHNGFRSSVARGLEPDALG
+GNAPKAAKMLKMVYDCEVEASAIRHGNKC---VYQHSSGND--RPGLGENIYKTSQKFEKNKAAKQASEL
+WWNELREFNLT--NALWNRPGMQIGHYTQMAWDTTYKLGCAVVFCND----FTFGVCQYGPGGNYMNHLI
+Y---*
+>P1;gi|3719257|gb|AAD13339.1| ancylostoma-secreted protein 1 precurs... [ score 158 E 5e-38 ] [ range 30 .. 192 ] [ duplicate b ]
+sequence
+-------------------------------------NNGITDSDRQAFLDFHNNARRRVAQGVEDN-KS
+GKLNPAKNMYKLEWDCKMEQQLQDAIQSC---PGG-----SAGIQGFSQNV-MSWSNSGGFPNSSEKIES
+WWSGAKNNGVG--SDNKYTGGGLYA-FSNMVFSETTKIGCAYKVC----GTKMATSCIYNGIGYITNAPM
+WET-*
+>P1;gi|31560776|ref|NP_076223.2| RIKEN cDNA 1200009H11 [Mus musculus... [ score 158 E 6e-38 ] [ range 19 .. 171 ]
+sequence
+--------------------------------------TALTEDEKQTMVDLHNQYRAQVS---------
+---PPASDMLQMRWDDELAAFAKAYAQKC---VWGHNK----ERGRRGENLF--AITDEGMDVPL-AVGN
+WHEEHEYYNFS--TATCDPNQM-CGHYTQVVWSKTERIGCGSHFCGVEEANIHLLVCNYEPPGNVKGRKP
+YQ--*
+>P1;gi|39587738|emb|CAE58676.1| Hypothetical protein CBG01850 [Caeno... [ score 158 E 7e-38 ] [ range 22 .. 183 ]
+sequence
+---------------------------------------------QNGIINAHNTLRSKIAKGTYV-ARG
+TQKPSGTNILKMKWDTTVAASAQSYANRC---PTGHSGTGGLGENLYWYWTSGSLGDLNQYGAAASA--A
+WEKEFQDYGWS--SNLLTMDLFNIGHATQMAWAKSNLIGCGVKDCGRDGLNKVTVVCQYKPQGNYRNQYI
+Y---*
+>P1;gi|31210577|ref|XP_314255.1| ENSANGP00000018751 [Anopheles gambi... [ score 158 E 7e-38 ] [ range 29 .. 238 ]
+sequence
+-TTEAQDYCNPDCDPGDAHIGCNPGGFTSNCPEGA-QVIEVTEEYKKIMLDEHNKYRSTVATG-----GV
+KWLPKAKQMTTMTWDDELAKMAQLNANRC---VQKHDACHNTDTIRYGQNLNHIKTTAPSIDNIPQVIKS
+WWDERLDVNSR--MVNSMYDPTMIFHFAVMAADKSNKLGCAMSQWSDNGDPFLYLVCNYSFT-DFVGLPM
+Y---*
+>P1;gi|39587730|emb|CAE58668.1| Hypothetical protein CBG01837 [Caeno... [ score 158 E 8e-38 ] [ range 18 .. 188 ]
+sequence
+----------------------------------------FSSTGQKNIVDAHNRLRSSIAKGTYIV-KG
+TKKPAGSNILKIKWDKTVATSAQSYANKC---PTGHSK-----GTGYGENLYWRWSTSSPKDLGLRASDA
+WSSEFGKYGWK--TNKMDRALFGVGHATQMAWANTGGIGCGVKNCTKNGMYKVVVVCQYKGPGNYMGQDI
+YKS-*
+>P1;gi|17539080|ref|NP_502508.1| allergen V5/Tpx-1 related family me... [ score 157 E 1e-37 ] [ range 14 .. 186 ]
+sequence
+----------------------------------VLVDAEFSSSTQQFIVDLHNSFRSKLATGTYS-ING
+TLKPAGSNIRKMSWDSTLATSAQTYANTC---PTGFSNTQGTGENLYWRTTSANISGLDIYGGAASV--S
+WEQEFQKYGWA--TNYFSQELFDTGNGTQMAWAKTNLVGCGVKNCGKDGLNKVAVVCHYKPLGRYVDQMI
+Y---*
+>P1;gi|31979121|gb|AAP68776.1| antigen 5-related 2 salivary protein ... [ score 156 E 3e-37 ] [ range 1 .. 193 ]
+sequence
+------------------NIGCKPPGVSGGCSGKSPAVVPLTSAQQTLILNEHNTRRSQLALG-----NL
+SPFTSAKRMPTLTWDTELAKQAGNNARSC---VFAHDRCRNTPVYWSGQNLAISQFYGMTKTIEELLKEG
+IAGWWSEYNVT--TQAQLNSYPNIGHFTQMASDQSNKVGCAMQHWLDNSWKSYYLVCNYGVT-NVIGTPV
+YKS-*
+>P1;gi|17540542|ref|NP_502503.1| allergen V5/Tpx-1 related precursor... [ score 156 E 3e-37 ] [ range 21 .. 184 ]
+sequence
+-------------------------------------------SGQNGIINAHNTLRSKIAKGTYV-AKG
+TQKSPGTNLLKMKWDSAVAASAQNYANGC---PTGHSGDAGLGENLYWYWTSGSLGDLNQYGSAASA--S
+WEKEFQDYGWK--SNLMTIDLFNIGHATQMAWAKSNLIGCGVKDCGRDGLNKVTVVCQYKPQGNFINQYI
+Y---*
+>P1;gi|39590516|emb|CAE66256.1| Hypothetical protein CBG11500 [Caeno... [ score 155 E 5e-37 ] [ range 12 .. 190 ]
+sequence
+--------------------------------GSKVAAGGFSRKAQDAIVDIHNKLRSKLALGIYK-AKG
+SKMPPAMDMLEMSWDDTIARSAQEFADTC---PMSH---RENYKNKYGENIYRAFSSAEVKEDGLIASKK
+WEAEFNKFGWE--SRTYGSQKTKIGPATQMAWSKSNKIGCGVKNCGPDGLNKVVVVCNYQKKGNVKGLEV
+YK--*
+>P1;gi|17540532|ref|NP_502498.1| secreted protein ASP-2 precursor fa... [ score 155 E 7e-37 ] [ range 22 .. 191 ]
+sequence
+----------------------------------------FSETGKNYILSRHNYLRSQIALGKYVAGNS
+T-KPSASNMMKLIWDTTLETTAQDYSTGC---PTGHSASR----ANIGENMYWWTSPVVTQTDAERSANL
+WESEFQRFGWN--GNLLTEELFNIGHATQMAWATTNKIGCGISKCSSDSFGTYVVVCLYSPAGNYIGMDI
+YKS-*
+>P1;gi|39587728|emb|CAE58666.1| Hypothetical protein CBG01835 [Caeno... [ score 155 E 8e-37 ] [ range 20 .. 186 ]
+sequence
+----------------------------------------FSSNTQQFIVDLHNSFRSKIATGTYS-INE
+TTKPTCSNMRKMSWDSSLATSAQTYANTC---PTTHSNLAGTGENFYMRTTSANIGGLDVYGGSAAM--A
+WQQEFQKFGWA--TNYFDMNLFNTGNATQMAWAKTSLVGCGVKNCGKDGMNRVSVVCHYKPLGNYLDQMI
+Y---*
+>P1;gi|39587729|emb|CAE58667.1| Hypothetical protein CBG01836 [Caeno... [ score 154 E 1e-36 ] [ range 18 .. 187 ]
+sequence
+----------------------------------------FSSTGQKNIVDAHNKLRSSIAKGTYI-AKG
+LKKPAGSNILKIKWDKHVAASAQSYANTC---PTGHS--KSVDRFGYGENLFWSWAPNFPPKDGVHASGA
+WSGEFTKYGWK--TNKMDGALFRVGHATQMAWANTGGIGCGVKSCGKDK-KTVVVVCQYKGPGNYMGQDI
+YKS-*
+>P1;gi|17532893|ref|NP_494496.1| vespid allergen antigen homolog lik... [ score 154 E 1e-36 ] [ range 19 .. 184 ]
+sequence
+----------------------------------------FSKAGQKAIVDAHNTLRSSIAKGTYV-ANK
+TRKEPGSNILKMKWDPTIAKSAQAYANTC---PTGH------GKSKYGENLYWRWSGASIDDYGVRASGA
+WASEFQKYGWK--TNKLDSALFKIGHATQMAWASTGSIGCGVKNCDKNKMYKVAVVCQYSARGNMINNNI
+Y---*
+>P1;gi|22761577|dbj|BAC11640.1| unnamed protein product [Homo sapiens] [ score 153 E 2e-36 ] [ range 27 .. 178 ]
+sequence
+---------------------------------------ALTDEEKRLMVELHNLYRAQVS---------
+---PPASDMLHMRWDEELAAFAKAYARQC---VWGHNK----ERGRRGENLF--AITDEGMDVPL-AMEE
+WHHEREHYNLS--AATCSPGQM-CGHYTQVVWAKTERIGCGSHFCEKEETNIELLVCNYEPPGNVKGKRP
+YQ--*
+>P1;gi|4507671|ref|NP_003287.1| testis specific protein 1; glycerald... [ score 152 E 4e-36 ] [ range 35 .. 184 ]
+sequence
+-------------------------------------------QVQREIVNKHNELRKAVS---------
+---PPASNMLKMEWSREVTTNAQRWANKC---TLQHSDPEDKTSTRCGENLYMSSDPTSW----SSAIQS
+WYDEILDFVYG--VGPKSPNAV-VGHYTQLVWYSTYQVGCGIAYCPNQDSLKYYYVCQYCPAGNNMNRKP
+YQ--*
+>P1;gi|39588596|emb|CAE58120.1| Hypothetical protein CBG01207 [Caeno... [ score 152 E 4e-36 ] [ range 11 .. 191 ]
+sequence
+--------------------------VGCACAQSLFSSTG-----QTGIVNVHNVLRSKIAKGTY-NAAG
+TIEPMASNMRKMKWDASLATSAQKYTNGC---PDDHS-----GAKGVGENMYWSWSSQAPSTNGVAASNS
+WEKEFQDYGWT--SILLDENTFDIGHATQMAWAETNLVGCGVKNCGKDNMYKVQVVCQYKSEGNILNTNI
+YEK-*
+>P1;gi|21711633|gb|AAM75007.1| GH04057p [Drosophila melanogaster] [ score 152 E 8e-36 ] [ range 48 .. 264 ]
+sequence
+--ASSGGYCAAALCELVPHTACNNGSFSPACGPE-PKLLEMSERRRQLLLDMHNLARSKIASG-----NL
+DGYRSAAHMPLLRWDTELEQMAALHAKRC---QFAHDKCRNTPRFKFGQNIGYFWIGRSHSRRMKSFVIN
+WFREHQDANQD--RYHPHPQGKKIGHFTLLVSDRVNRVGCAGVRFPKSNRFQFMLTCNYDY-NNIFNEPI
+YQS-*
+>P1;gi|13447461|gb|AAK21961.1| secreted venom allergen-like protein ... [ score 151 E 8e-36 ] [ range 26 .. 188 ]
+sequence
+-----------------------------------------TNEDKEAAVNCHNKFRSQLALGNADNKLG
+GNKPKAGNMRKFEWDENLAKLADEWANKC---TLSHSW-----NGWAGENLAMNGGTFSNKDGFEYACGR
+WWDELNRYNPD--LIMTGENFSGIGHWTQMAWADTDRIGCAMAQNCPNTNWKTYVVCWYYTGGNYFGAPV
+Y---*
+>P1;gi|34851731|ref|XP_346524.1| hypothetical protein XP_346523 [Rat... [ score 151 E 1e-35 ] [ range 47 .. 213 ]
+sequence
+------------------------------------VRRAIPMSDRQEILMLHNKLRGQV----------
+--YPPASNMEYMTWDEELERSAAAWAQRC---LWEHGPASLLV--SIGQNLAVHWG---RYRSPGFHVQS
+WYDEVKDYTYP--YPHECNPWCMCTHYTQMVWATTNKIGCAVHTCWGDIWNAVYLVCNYSPKGNWIGEAP
+YK--*
+>P1;gi|34852277|ref|XP_215351.2| similar to cysteine-rich protease i... [ score 151 E 1e-35 ] [ range 32 .. 184 ]
+sequence
+--------------------------------------TALTEDEKQTMVELHNHYRAQVS---------
+---PPASDMLQMRWDDELAAFAKAYAQKC---VWGHNK----ERGRRGENLF--AITDEGMDVPL-AVGN
+WHEEHEYYNLS--TATCDPGQM-CGHYTQVVWSKTERIGCGSHFCGVEEANIHLLVCNYEPPGNVKGRKP
+YQ--*
+>P1;gi|31211113|ref|XP_314523.1| ENSANGP00000016942 [Anopheles gambi... [ score 150 E 1e-35 ] [ range 35 .. 243 ]
+sequence
+------DYCKDLCPPGSRHVVCNGRQFAPAC--KSPKLIKMKPEYRAQILEFHNRLRNNLACGYFHR---
+--YAEASSMEELHWDNKLARIAEYNARTC---SFEHDECRNTRRYRAGQNLAINWFYGMNVTVAQALDKF
+QRHWFLEYRKG--RQKMLDRYTKIGHFTQMIHADTQYVGCAMVRFQGIHQGQYYLVCNYS-VGNLYERPV
+YRK-*
+>P1;gi|27229267|ref|NP_084485.1| RIKEN cDNA 1810049K24 [Mus musculus... [ score 149 E 3e-35 ] [ range 47 .. 213 ]
+sequence
+------------------------------------VRRAIPMSDRQEILMLHNKLRGQV----------
+--YPPASNMEHMTWDEELERSAAAWAHRC---LWEHGPAGLLR--SIGQNLAVHWG---RYRSPGFHVQS
+WYDEVKDYTYP--YPHECTPGPMCTHYTQMVWATTNKIGCAVHTCWGDTWNAVYLVCNYSPKGNWIGEAP
+YK--*
+>P1;gi|2136189|pir||S68691 neutrophil granules matrix glycoprotein S... [ score 149 E 3e-35 ] [ range 37 .. 186 ]
+sequence
+-------------------------------------------QVQREIVNKHNELRRAVS---------
+---PPARNMLKMEWNKEAAANAQKWANQC---NYRHSNPKDMTSLKCGENLYMSSAPSSW----SQAIQS
+WFDEYNDFDFG--VGPKTPNAV-VGHYTQVVWYSSYLVGCGNAYCPNQKVLKYYYVCQYCPAGNWANRLP
+YE--*
+>P1;gi|2796175|gb|AAB97282.1| vespid allergen antigen homolog [Oncho... [ score 149 E 3e-35 ] [ range 23 .. 195 ]
+sequence
+---------------------------------------KLTSLQRDIIVDEHNKYRSRLVKGNFANKDG
+NLMPKGKNMMEMEWDCELEISAQNWADQC---IFGYSP--ENQREGVGENIYALGLPKDNTSAALFAIES
+WWTEIRSYRSN--KLTSSVASQDVLHFTQMAWGKTHKVGCGIAMHCDDGEA-FIVVCHYAPRGNTIGELI
+YE--*
+>P1;gi|31075035|gb|AAP41952.1| secreted protein ASP-2 [Necator ameri... [ score 149 E 3e-35 ] [ range 25 .. 191 ]
+sequence
+---------------------------------------GMSEEARQKFLELHNSLRSSVALGQAKDGAG
+GNAPKAAKMKTMAYDCEVEKTAMNNAKQC---VFKHSQPNQ--RKGLGENIFMSSSGMDKAKAAEQASKA
+WFGELAEKGVG--QNLKLTGGLGVGHYTQMVWQETVKLGC----YVEACSNMCYVVCQYGPAGNMMGKDI
+YEK-*
+>P1;gi|4324680|gb|AAD16985.1| vespid allergen antigen homolog [Wuche... [ score 149 E 4e-35 ] [ range 24 .. 195 ]
+sequence
+----------------------------------------LTPQQRKDIVRQNNKFRSLLIRGKLKNRNG
+TYMPRGKNMLQLTWSCQLENSAQRWANQC---VFGHSPRNQ--RQGIGENVYAYWSSASRKTAGTEAGKS
+WWSELYKHNPS--NNLTDDSRQGVLHFTQMAWGKTHKIGCGIATNC-DGGRTLITICHYSPAGNILKNLI
+YE--*
+>P1;gi|13899332|ref|NP_113664.1| hypothetical protein DKFZp434B044 [... [ score 149 E 4e-35 ] [ range 47 .. 213 ]
+sequence
+------------------------------------VRRAIPREDKEEILMLHNKLRGQV----------
+--QPQASNMEYMTWDDELEKSAAAWASQC---IWEHGPTSLLV--SIGQNL---GAHWGRYRSPGFHVQS
+WYDEVKDYTYP--YPSECNPWPMCTHYTQIVWATTNKIGCAVNTCWGEVWNAVYFVCNYSPKGNWIGEAP
+YK--*
+>P1;gi|31205375|ref|XP_311636.1| ENSANGP00000014974 [Anopheles gambi... [ score 148 E 6e-35 ] [ range 57 .. 270 ]
+sequence
+ASPDASDYCDPLCKPNHAHIGCNAGQFGELCPAQTTQLVPMEQPLKELILKLHNGLRSELAGG-----KM
+DGFAAAERMAVLEWDDELASLAEHNARTC---QYLHDECRSTERYRAGQNIGRKSQAGNVTIDLERAIDL
+TNKWWQEYVES--NQTVMDDGVDVGHFAQMASDRVTKVGCGATSYYHEARKRVYYVCNYSHS-NEHGQPV
+YRK-*
+>P1;gi|39588579|emb|CAE58102.1| Hypothetical protein CBG01188 [Caeno... [ score 148 E 8e-35 ] [ range 24 .. 186 ]
+sequence
+----------------------------------------------KHILRYHNDLRSDIAMGIYYGAFK
+QPKPPAKNMRKLKWDDSLATSAQDYANTC---P-------ESLSQPSGENIYFGYDSTDKNTVDYRSSQV
+WEEEFVKFGWN--STTMDDNASNIKEATQMVWASTSSIGCGVKVCPKDDMFKYVVVCHYEQPGNVKGREI
+YK--*
+>P1;gi|7596932|gb|AAB97283.2| vespid allergen antigen homolog [Brugi... [ score 148 E 1e-34 ] [ range 24 .. 195 ]
+sequence
+----------------------------------------LTPQQRKDIVRQNNKFRSLLIHGKLKNRNG
+TYMPRGKNMLLLKWSCQLENSAQRWANQC---VFGHSPRNQRQGIGENVYAYWSSESVEKNTAGTEAGKS
+WWSELYKQNPS--NNLTDDARQGVLHFTQMAWGKTHKIGCGIATNC-DGGRTLIAICHYSPAGNMLKELI
+YE--*
+>P1;gi|45446900|gb|AAN09257.2| CG32679-PA [Drosophila melanogaster] [ score 148 E 1e-34 ] [ range 23 .. 221 ]
+sequence
+----AQNYCDPELCPSGRHVACNSGRFVSGCSGEFVQV----DAHIPLILQLHNERRNLIAGG-----GV
+SGFPSAVQMATMSWDTTLAQLAAYNALQC---RMAHDECRNTNTYRYGQNLSILFTRSVDVAVFLRQIAA
+WFDENRDATSG--DDYQMRGGPAIGHFTTMVNERNNRVGCAIARFTDNNVQATLLACNYAVT-NVVNNPV
+YR--*
+>P1;gi|17561870|ref|NP_504055.1| allergen V5/Tpx-1 related family me... [ score 147 E 1e-34 ] [ range 18 .. 186 ]
+sequence
+----------------------------------------FSSTAQGQIVDAHNKLRSAIAQGSYV-AAG
+TQEPSASNMRKIVWDETVAAAAQEYAEGC---PDDHS------GTSYGENLYWSWSSSAPSSLGVAASNS
+WESEFQKYGWT--STFLDEAGFAIGHATQMAWAETSKIGCGIKNCGKDNMYKVAVVCQYDSAGNMMDSDI
+YQ--*
+>P1;gi|3023562|sp|O19010|CRS3_HORSE Cysteine-rich secretory protein-... [ score 147 E 1e-34 ] [ range 16 .. 186 ]
+sequence
+-------------------------PFFPASGQDPFAALSITKSEQKEIVNKHNDLRRTVS---------
+---PLASNMLKMQWDSKTATNAQNWANKC---LLQHSKAEDVGTMKCGENLFMSSIPNSWSD----AIQN
+WHDEVHDFKYG--VGPKTPNAV-VGHYTQVVWYSSYRVGCGIAYCPKQGTLKYYYVCQYCPAGNYVNKIP
+YE--*
+>P1;gi|2245508|gb|AAB62535.1| venom allergen antigen 5-like protein ... [ score 147 E 2e-34 ] [ range 23 .. 196 ]
+sequence
+---------------------------------------KLTPTERKNIVTQINKYRSRLIRGKLKNKDG
+YLMPKGKNMLRMRWDCKLEKSAQNWANMC---VFGHSP--SSERRGIGENVYAYWSSGSKKTAGTDAGRL
+WWSELEKYNPS--NNLTSEVAMNILHFTQMAWGETYKLGSGVDHNIVMVARTLVFICHYFPGGNMVKDLI
+YE--*
+>P1;gi|11762066|gb|AAG40311.1| activation-associated secreted protei... [ score 147 E 2e-34 ] [ range 23 .. 196 ]
+sequence
+---------------------------------------KLTPQYREKIVREHNRLRSKLAKGTYKNSAG
+KWMPKGKNMMEMKWDCELELMAQRWADQC---VSGNSPKDRRGRIGENVYTQRSDTSVAVYGTMIALESW
+WVELTRSYKSN--KYTSIVANRGVSNFTQLAWGKTYKVGCGIATHC-DGGKAFVAVCQYNPGGNTMGESI
+YEK-*
+>P1;gi|18568278|gb|AAL76009.1| putative secreted protein [Aedes aegy... [ score 146 E 3e-34 ] [ range 24 .. 236 ]
+sequence
+------DYCSSVCENKGEHVGCRPKDFSPSCSNQHPKLILMKSSYKKYILKRHNELRNKLASGTMT-STH
+GTFPSAMNMSELKWDSELEKLAEYNVRQC---TMNHDRCRSTDKFHAGQNIYYSSWSSDKTNLIGEAIQA
+WWDEHKDFYIH--EVANYRGQSRVLHFTAMALDYQTRVGCAISEYDYAGTGDTFLTCNYS-SWTWMEKPI
+YNK-*
+>P1;gi|18568316|gb|AAL76028.1| putative secreted protein [Aedes aegy... [ score 146 E 3e-34 ] [ range 32 .. 234 ]
+sequence
+------NYCKDLCSSGKKHIGCNHRGFASTCIEPKII--PMSTKRKNLILMMHNRLRNLVASG-----NF
+SKFEPASNMSLMIWDNELAYLAELNVKQC---QMEHDACRSTAQFKYGQNLAFSWTSGSHNENIRHNIMK
+WFMEHKDAKMD--HRKFGRTKKPIGHFTAMVRDASSHIGCAMSSYTKTKGKEFLMACNYATT-NILNKSI
+Y---*
+>P1;gi|4704758|gb|AAD28256.1| vespid allergen antigen homolog [Wuche... [ score 146 E 3e-34 ] [ range 24 .. 195 ]
+sequence
+----------------------------------------LTPQQRKDIVRQNNKFRSLLIRGKLKNRNG
+TYMPRGKNMLQLTWSCQLENSAQRWANQC---VFGHSPANQRQGAAENVYAYASSASVENKTAGTEAGKS
+WWSELYKHNPS--NNLTDDSRQGVLHFTQMAWGKTHKIGCGIATNC-DGGRTLITICHYSPAGNILKNLI
+YE--*
+>P1;gi|26189920|emb|CAD31226.1| cystein-rich secretory protein 2 [Eq... [ score 146 E 3e-34 ] [ range 19 .. 185 ]
+sequence
+----------------------------PTEGKDPAFSALLTTQVQREIVNKHNELRKSVS---------
+---PPASNMLKMEWSREATANAQKWANKC---TLEHSSADDKTSTRCGENIYMSSDPTPWSD----AIQS
+WYDESLDFTYG--VGPKS-AGSVVGHYTQAVWYSSYRVGCGIAYCPNQESLKYYYVCQYCPVGNNVNKKP
+YQ--*
+>P1;gi|31203615|ref|XP_310756.1| ENSANGP00000021983 [Anopheles gambi... [ score 146 E 3e-34 ] [ range 19 .. 239 ]
+sequence
+AEPSAYDYCRPDLCEAKRHVACGFGSFAGACPPGRMIQ-KIDAQLRAYILHLHNEVRDRLARGDEA----
+-GFAAASRMPTVTWDDELANLAEINVRSC---RFEHDECRSTYQYHAGQNLAVGSYYLEIFEIIHNLTGL
+WHREYLDTTQE--DKYTTDYNATIGHYTQMVSDRTTAIGCGVVIYPKKMFKMVLYACNYAIT-SIVHQPI
+YRK-*
+>P1;gi|17569627|ref|NP_509802.1| allergen V5/Tpx-1 related (XL408) [... [ score 145 E 4e-34 ] [ range 18 .. 218 ]
+sequence
+-------YPGSKCL--VPEGLCQAPSVKDDGGSFQCDNSLVSDVTRNFTLEQHNFYRSRLAKGFEWNGET
+NTQPKASQMIKMEYDCMLERFAQNWANNC---VFAHS--AHYERPNQGQNLYMSSSNPDPRSLIHTAVEK
+WWQELEEFGPI--DNVLTPEGKAIGHYTQMAWDRTYRLGCGIANCPK----MSYVVCHYGPAGNRKNNKI
+YE--*
+>P1;gi|33518699|gb|AAQ20832.1| antigen-5-like protein precursor [Rho... [ score 145 E 6e-34 ] [ range 50 .. 222 ]
+sequence
+---------------------------------KVIGLKNFDEKDKKLLLHEHNQYREKVAAGLAPN---
+--QPGAENMILLTWNSDAALQAKAWASGC---DFMHNNPESKNKKPMGQNIYMKMSIEKETLEKTEMVKG
+WYDEVELYNFG--DSFSA----ATGHYTQIVWKNTTKVGCVYSYFKDNGWYSGYLVCNYSPAGNWYGEAP
+YK--*
+>P1;gi|21305555|gb|AAM45666.1| latisemin [Laticauda semifasciata] [ score 145 E 6e-34 ] [ range 14 .. 180 ]
+sequence
+--------------------------LQQSSGTVDFASESSNKREQKEIVDKHNALRRSV----------
+--RPTARNMLQMEWNSDAAQNAQRWADRC---SFAHSPSRTVGKFSCGENLFMSSQPYAW----SRVIQS
+WYDENKNFIYD--VG-ANPPGSVIGHYTQIVWYKSHLLGCAAARCSSS---KYLYVCQYCPAGNIIGSIP
+YKS-*
+>P1;gi|5868902|gb|AAB69625.2| activation-associated secreted protein... [ score 145 E 7e-34 ] [ range 23 .. 194 ]
+sequence
+---------------------------------------KLTALERKKIVGQNNKYRSDLINGKLKNRNG
+TYMPRGKNMLELTWDCKLESSAQRWANQC---IFGHSPRQQ--REGVGENVYAYWSSVSKKTAGTDAGKS
+WWSKLPKLYEN--NPSNNMTWKVAGHFTQMAWGKTYKIGCGVATQC-DGGRTLIVICHYSPGGNMVGEVI
+Y---*
+>P1;gi|45382819|ref|NP_989985.1| CocoaCrisp [Gallus gallus] >gi|1324... [ score 145 E 8e-34 ] [ range 54 .. 219 ]
+sequence
+-------------------------------------KRAITDSDMQSILDLHNKLRGQV----------
+--YPPASNMEYMTWDTELERSAESWAETC---LWEHGPASLLP--SIGQNL---GAHWGRYRPPTFHVQA
+WYDEVRDFTYP--HPHECNPGPVCTHYTQVVWATSSRIGCAINLCWGQIWPKVYLVCNYSPKGNWWGHAP
+YK--*
+>P1;gi|38350629|gb|AAR18424.1| putative salivary antigen 5 family pr... [ score 145 E 9e-34 ] [ range 23 .. 232 ]
+sequence
+------DYCSQKICENKEHIGCNPKSFSPNCHNKNPKLMRITPGLKKYLLCKHNMYRDLLAGGTMQSRN-
+GVFPSAQNMSVLQWDDELAALAEHNVKQC---EMEHDQCRRTVKFKAGQNIAWSEKRPDKKKIIREAVFA
+WWNEHQDFQHH--EDKYVGSSSGVLHFTAMALDYQTHVGCAISEYDYSGGDTLLITCNYS-SWTWMEQPI
+YKK-*
+>P1;gi|13899303|ref|NP_113649.1| CocoaCrisp [Homo sapiens] >gi|12002... [ score 144 E 1e-33 ] [ range 54 .. 219 ]
+sequence
+-------------------------------------KRAITDNDMQSILDLHNKLRSQV----------
+--YPTASNMEYMTWDVELERSAESWAESC---LWEHGPASLLP--SIGQNL---GAHWGRYRPPTFHVQS
+WYDEVKDFSYP--YEHECNPGPVCTHYTQVVWATSNRIGCAINLCWGQIWPKVYLVCNYSPKGNWWGHAP
+YK--*
+>P1;gi|39587727|emb|CAE58665.1| Hypothetical protein CBG01834 [Caeno... [ score 144 E 1e-33 ] [ range 23 .. 188 ]
+sequence
+---------------------------------------------KQAIVNHHNNVRSKIAKG-EYVARG
+TRKESGTNMLKMKWDGSLESSAQGYANSC---PTGHSTIPSIGENLY---YYWSGSPISNLDQFGGASAA
+WESEFQDFGWG--SNTMSLANTGIGHATQMAWALTDKIGCGIKMCSKGGMNRVALVCHYKIQGNYLFKSI
+YNS-*
+>P1;gi|4887102|gb|AAD32191.1| antigen 5-related protein [Lutzomyia l... [ score 144 E 1e-33 ] [ range 21 .. 229 ]
+sequence
+-----SNYCKQESCSSGPHIGCNSGDFSETCSGDAEI-VKMDKKKQNLLVKMHNRLRDRFARG-----AV
+PGFAPAAKMPMLKWNDELAKLAEYNVRTC---KFAHDKCRAIDVCPYGQNLAQMMSYPTHRDLNYVLKNL
+TREWFWEYRWA--KQSPGKDNKQIGHFTAFVHEKTDKVGCAIARFTNENFKETLLACNYCYT-NMMKERI
+Y---*
+>P1;gi|34865643|ref|XP_237258.2| similar to CocoaCrisp [Rattus norve... [ score 144 E 1e-33 ] [ range 54 .. 219 ]
+sequence
+-------------------------------------KRAITDNDMQSILDLHNKLRSQV----------
+--YPAASNMEYMTWDVELERSAESWAETC---LWEHGPTSLLP--SIGQNL---GAHWGRYRPPTFHVQA
+WYDEVRDFSYP--YEHECDPGPVCTHYTQVVWATSSRIGCAINLCWGQIWPKVYLVCNYSPKGNWWGHAP
+YK--*
+>P1;gi|2500710|sp|Q60477|CRS2_CAVPO Cysteine-rich secretory protein-... [ score 144 E 1e-33 ] [ range 36 .. 185 ]
+sequence
+-------------------------------------------QVQNEIINKHNQLRKSVT---------
+---PPASNMLKMEWSREAAVNAQKWANRC---TLVHSNPDDKTSTKCGENLYMSSDPSSWSD----AIQS
+WFDESQDFTFG--VGPKSHNAV-VGHYTQLVWYSSYLVGCGIAYCPNQDSLKYYYVCQYCPAGNYTKNTP
+YK--*
+>P1;gi|21450576|gb|AAM54195.1| Venom allergen-like protein protein 1... [ score 144 E 2e-33 ] [ range 25 .. 187 ] [ duplicate b ]
+sequence
+-------------------------------------NTKINDQARKMFYDAHNDARRSMAKGLEPN-KC
+GLLSGGKNVYELNWDCEMEAKAQEWADGC---PSSFQTFDPTWGQNYATYM---GSIADPLPYASMAVNG
+WWSEIRTVGLT--DPDNKYTNSAMFRFANMANGKASAFGCAYALC----AGKLSINCIYNKIGYMTNAII
+YEK-*
+>P1;gi|13625877|gb|AAK35183.1| activation associated secreted protei... [ score 143 E 2e-33 ] [ range 54 .. 218 ]
+sequence
+---------------------------------------GMTDEARQVFLDKHNEYRQLVARG-EAQNKT
+GLAPPAARMLKLRYDCDLEAHVMEHVAKC---KGGHSPFDVLKGRGQNIW-AITVPNLDKAEAAKRSVDD
+WYFELTKYGID--NKISIDNAAKTGHYSQVVWQKSNRLGCAAVSCPEQR--RLYVGCEYWPGGNTLRHLI
+Y---*
+>P1;gi|39594953|emb|CAE70821.1| Hypothetical protein CBG17592 [Caeno... [ score 143 E 2e-33 ] [ range 51 .. 218 ]
+sequence
+-----------------------------------------SDVTRNFTLEQHNFYRSRLAKGFEWNGET
+SSQPKASQMIKMEYDCMLERFAQNWANKC---VFAHSS--HYERPNQGQNLYMSSFNPDPRSLIHTAVEK
+WWQELEEFGPI--DNVLTPEGKAIGHYTQMAWDRTYRLGCGIANCPK----MSYVVCHYGPAGNRKNNKI
+YE--*
+>P1;gi|31075033|gb|AAP41951.1| secreted protein ASP-2 [Ancylostoma d... [ score 143 E 2e-33 ] [ range 22 .. 191 ]
+sequence
+------------------------------CGNN-----GMTDEARQEFLDVHNGYRSKVAKGQAKDALG
+GNAPKAAKMKKMIYDCNVESTAMQDAKKC---VFAHSHMKGL-----GENIYMSTARMDKAEAAQQASDG
+WFAELAKYGVG--TMQLWNRGVMIGHYTQMVWQESYKLGC----YVEWCPSMTYGVCQYSPQGNMMNSII
+YEK-*
+>P1;gi|26996572|gb|AAH40768.1| Unknown (protein for MGC:49048) [Mus ... [ score 143 E 2e-33 ] [ range 54 .. 219 ]
+sequence
+-------------------------------------KRAITDNDMQSILDLHNKLRSQV----------
+--YPTASNMEYMTWDVELERSAESWAEMC---LWEHGPASLLP--SIGQNL---GAHWGRYRPPTFHVQA
+WYDEVRDFSYP--YENECDPGPVCTHYTQVVWATSSRIGCAVNLCWGQIWPKVYLVCNYSPKGNWWGHAP
+YK--*
+>P1;gi|23264042|gb|AAL65291.1| pseudechetoxin [Pseudechis australis] [ score 142 E 4e-33 ] [ range 14 .. 180 ]
+sequence
+--------------------------LQQSSGTADFASESSNKKYQKEIVDKHNALRRSV----------
+--KPTARNMLQMKWNSRAAQNAKRWANRC---TFAHSPPRTVGKLRCGENIFMSSQPFPW----SGVVQA
+WYDEIKNFVYG--IG-AKPPGSVIGHYTQVVWYKSYLIGCASAKCSSS---KYLYVCQYCPAGNIRGSIP
+YKS-*
+>P1;gi|2696794|dbj|BAA24011.1| HrTT-1 [Halocynthia roretzi] [ score 142 E 6e-33 ] [ range 113 .. 279 ]
+sequence
+-------------------------------PGKIMDKIVLKKPFRMALLRTHN-ARRAIA---------
+--QPKAANMRRMTWDMELERLAVAYSRKC---IYEHNPRTKHSRFYVGENLFISTGYAFTPSLMKHAVEA
+WDDEKQYYDYE--TKKCQR-GKMCGHYTQVVWADTFKMGCGVTRCSDRWKNAILLVCNYGPGGNYPTHP-
+----*
+>P1;gi|31075037|gb|AAP41953.1| secreted protein ASP-2 [Ancylostoma c... [ score 141 E 6e-33 ] [ range 20 .. 190 ]
+sequence
+------------------------------CGNN-----GMTDEARQKFLDMHNGYRSQVAKGQAKDALS
+GNAPKAAKMKKMVYDCGVESTAMQNAKKC---VFTHSHMKGL-----GENIWMTTARMDKVKSAEQASQG
+WFSELAEYGVG--MQLWNRPNTQIGHYTQMVWQDTYKLGC----YVEWCSSMTYGVCQYSPQGNMMNSII
+YEK-*
+>P1;gi|39596039|emb|CAE69675.1| Hypothetical protein CBG15925 [Caeno... [ score 141 E 7e-33 ] [ range 198 .. 403 ] [ duplicate a ]
+sequence
+ANSDCTTYADSECRNG----LCYQPPVAPETFNMCPGVTDQSDQARQKFLDTHNKLRSSLAKGLEADGAG
+AFAPQAKQMIKQKYSCTIEANARTWAQGC---LYQHST--NAQRPGWGENLYISINNMPKIQTAEDSSLA
+WWSELKDFGVG--SDNILTDAVGVGHYTQMAWESTTEIGC----FVQNCPTFTYSVCQYGPAGNYMNQLI
+YTK-*
+>P1;gi|39596039|emb|CAE69675.1| Hypothetical protein CBG15925 [Caeno... [ score 141 E 7e-33 ] [ range 12 .. 192 ] [ duplicate b ]
+sequence
+--------------------ACLEGTFAQGCTN-----AKSSDRARKMFQDAHNDARRSMAKGLEPN-KC
+GMLSEGKNVYELVWDCEMEAKAQTWADGC---PSGFQSSDPT----YGQNMTFSGTFADPVATAASAVNS
+WWAQVRSGGLT--DPDNKYTSSSIFAFSNMANGKATAIGCAYAIC----GTTLSVNCLYNKIGYMTNAII
+YEK-*
+>P1;gi|12838657|dbj|BAB24280.1| unnamed protein product [Mus musculus] [ score 141 E 7e-33 ] [ range 22 .. 192 ]
+sequence
+--------------------------LPKAFGKDLPRVPTITDKFIDAFLNIHNELRRKV----------
+--QPPAADMNQLFWDQQLAKLAKAWTREC---KLAHNPC-IKQRYECGENIYL----GRIETQPEDVVIN
+WYNESKYFNFD--FNTCSE---MCGHYTQVVWAKTVKIGCAVSNCPNKGFSAGLFVCNYSPAGNFIGFRP
+YTR-*
+>P1;gi|17539082|ref|NP_502509.1| allergen V5/Tpx-1 related family me... [ score 141 E 7e-33 ] [ range 11 .. 188 ]
+sequence
+---------------------------------CVGAHAQFSEGGKQSMVNAHNAVRSSIAKG-EYVAKG
+TKKDSATNMLKMKWDNSLAQSAQNYANGC---PMQHSPDKS-----YGENLFWAYSSSPITDLVQSAVDT
+WVSEFQMFGWN--SNTTALWNTGIGHATQVAWSATGQVGCGAKNCGADGSYKATIVCQYKVPGNYLFKNI
+YNS-*
+>P1;gi|13625885|gb|AAK35187.1| activation associated secreted protei... [ score 141 E 8e-33 ] [ range 283 .. 461 ] [ duplicate a ]
+sequence
+-------------------------SVKHPVAHCTVNKNGMTDEVRQVFLDKHDEYRQIVARG-EAKNKT
+GLAPPAARMLQMRYDCDLEAHVMEHVEKC---KGGHSQFSVLKGRGQNIW-AITVPNLNKAEAARRSVRD
+WYNELPNKGPD--NKISMENAAKTGHYTQVVWQKSNRLGCAAVSCPEQR--RLYVGCEYWPGGNTLRHLV
+Y---*
+>P1;gi|13625885|gb|AAK35187.1| activation associated secreted protei... [ score 141 E 8e-33 ] [ range 16 .. 180 ] [ duplicate b ]
+sequence
+-------------------------------------NNGMTDVIRKIFLDKHNEYRSLVARGGAKDPRT
+GTIPKATRMLKMSYDCEAEDYAMNWAAQC---TYA----RFKSKKRYNRNTWGIGRNFNMKKAAESSVYD
+WFNEIRTYGVP--RDNMYTRDTDSVHYSQILWQDSYKIGCAVAWCQSMTW----VACAYNPAGNNYGSQI
+YE--*
+>P1;gi|28972961|gb|AAO62996.1| ophanin [Ophiophagus hannah] [ score 141 E 8e-33 ] [ range 13 .. 181 ]
+sequence
+--------------------------LQQSFGNVDFNSESTRRQKKQEIVDLHNSLRRSVS---------
+---PTASNMLKMQWYPEAASNAERWASNC---NLGHSPSRVLEGIECGENIYMSSNPRAW----TEIIQL
+WHDEYKNFVYG--VG-ANPPGSVTGHYTQIVWYKTYRIGCA-VNYCPSSEYSYFYVCQYCPSGNMRGSTP
+YKS-*
+>P1;gi|41054828|ref|NP_956764.1| hypothetical protein MGC63636 [Dani... [ score 141 E 8e-33 ] [ range 49 .. 220 ]
+sequence
+-------------------------------QSKSRGKRAISQSDMQLILDLHNKLRGQV----------
+--YPPASNMEYMVWDTELERSAEHWAHTC---LWEHGPSHLLTRIGQNLGAHW-----GRDRPPTFHVQA
+WYDEVRDFSYP--YPQECNPGPVCTHYTQLVWATSNKIGCAIVCYNMNVWGMVYLVCNYSPPGNWWGHAP
+YK--*
+>P1;gi|3608493|gb|AAC35986.1| secreted protein ASP-2 precursor [Ancy... [ score 141 E 9e-33 ] [ range 22 .. 191 ]
+sequence
+------------------------------CGNN-----GMTDEARQKFLDVHNSYRSMVAKGQAKDAIS
+GNAPKAAKMKKMIYDCNVESTAMQNAKKC---VFAHSH-----RKGVGENIWMSTARMDKAQAAQQASDG
+WFSELAKYGVG--QENKWNRGVMIGHYTQMVWQESYKLGC----YVEWCSSMTYGVCQYSPQGNMMNSLI
+YEK-*
+>P1;gi|28972957|gb|AAO62994.1| piscivorin [Agkistrodon piscivorus pi... [ score 141 E 1e-32 ] [ range 14 .. 182 ]
+sequence
+--------------------------LQQSSGSVDFDSESPRKPEQNQIVDLHNSLRRSV----------
+--NPTASNMLKMEWYPEAAANAERWAYRC---IESHSPSRVLGGIKCGENIYMSSIPIKW----TEIIHA
+WHGENKNFKYG--IG-ADPPNAVIGHFTQIVWYKSYLVGCAAAYCPSSE-YSYFYVCQYCPAGNIIGKIP
+YKS-*
+>P1;gi|39581697|emb|CAE71030.1| Hypothetical protein CBG17870 [Caeno... [ score 141 E 1e-32 ] [ range 26 .. 186 ]
+sequence
+------------------------------------------------ILNIHNELRSQIALGAYDGEET
+TYKPSASNMRKLKWDDSLAASAQNYSNTC---PD-----RLSAPSRDGENVFFATSSNGQDSVDYRASEI
+WKSEFENRGWN--STKMDDNAFNSGEATQMVWAETHLIGCGVSVCPKDNRFKYVVVCHYEEPGNKKDANI
+YE--*
+>P1;gi|39579905|emb|CAE56329.1| Hypothetical protein CBG23994 [Caeno... [ score 141 E 1e-32 ] [ range 21 .. 185 ]
+sequence
+----------------------------------------FSEQGKLNLLNAHNEYRSRLAQGQLVV-RG
+VKKPSASRMRKMSWSDKIATAARLFAETC---PKNHSDIKQLGENIFWHY---STTLSTPEEYATQAPQK
+WWQEFEISGWT--SYNSAAQRFQIGHAIQMAWQDTSKVGCGYSKCSVGAPQTLVVVCRYFQKGNIEGLPI
+Y---*
+>P1;gi|23264044|gb|AAL65292.1| pseudecin [Pseudechis porphyriacus] [ score 140 E 2e-32 ] [ range 14 .. 180 ]
+sequence
+--------------------------LQQSSGTVDFASESSNKKYQKEIVDKHNALRRSV----------
+--KPTARNMLQMKWNSHAAQNAKRWADRC---TFAHSPTRTVGKLRCGENIFMSSQPFPW----SGVVQA
+WYDEIKNFVYG--IG-AKPPGSVIGHYTQVVWYKSHLIGCASAKCSSS---KYLYVCQYCPAGNIRGSIP
+YKS-*
+>P1;gi|21305553|gb|AAM45665.1| triflin [Trimeresurus flavoviridis] [ score 139 E 4e-32 ] [ range 14 .. 182 ]
+sequence
+--------------------------LQQSSGNVDFDSESPRKPEQNEIIDLHNSLRRSV----------
+--NPTASNMLKMEWYPEAAANAERWAYRC---IESHSSSRVIGGIKCGENIYMATYPAKWTD----IIHA
+WHGEYKDFKYG--VGAVPSDAV-IGHYTQIVWYKSYRAGCAAAYCPSSK-YSYFYVCQYCPAGNIIGKTP
+YKS-*
+>P1;gi|25150837|ref|NP_741951.1| Venom-Allergen-like Protein VAP-1, ... [ score 139 E 4e-32 ] [ range 193 .. 399 ] [ duplicate a ]
+sequence
+SDAECTTYSDSQCKNG----LCYKAPQAPETFTMCPSVTDQSDQARQNFLDTHNKLRTSLAKGLEADGAG
+AFAPMAKQMPKLKYSCTVEANARTWAKGC---LYQHSTSAQ--RPGLGENLYMISNNMPKIQTAEDSSKA
+WWSELKDFGVG--SDNILTQAVGVGHYTQMAWEGTTEIGC----FVENCPTFTYSVCQYGPAGNYMNQLI
+YTK-*
+>P1;gi|39582258|emb|CAE64209.1| Hypothetical protein CBG08842 [Caeno... [ score 139 E 4e-32 ] [ range 12 .. 180 ]
+sequence
+----------------------------------------FSASGQTAILNAHNALRSKIAKGTYV-AKG
+TTKPAGSNILKMTWDPTLAETAQAHADKC---VFTYS-----GTFGIGENINMFSVSTGISDIDQYAANG
+WENQFQHYGWS--SNIFNKAMAQTGQASQMAWAKTNLLGCGIKNCPKSSSNRVLVVCQYKTRGNTLNQYI
+YTS-*
+>P1;gi|17539084|ref|NP_502510.1| allergen V5/Tpx-1 related precursor... [ score 139 E 5e-32 ] [ range 18 .. 189 ]
+sequence
+----------------------------------------FSEGGKQSILNAHNDIRSRIAKG-NYVAKG
+NRKESATNMLKMKWDSSLEQSAQNYANGC---HMQHS----TNDKTIGENLYWEWSGDPFSDLDKFATVA
+WDHEFEQFGWN--SNKFSLALFNTGHATQIAWAPTGKIGCGVKNCGRDGLFQVAIVCQYRVRGNFFFKNI
+YNS-*
+>P1;gi|31203315|ref|XP_310606.1| ENSANGP00000019483 [Anopheles gambi... [ score 138 E 5e-32 ] [ range 28 .. 239 ]
+sequence
+-SQTSNYYCRSMCPTGDAHVGCYAEPFGKSCQGQKPQLVPMTPERKAMILQQHNRQRQRLALGTLP----
+-GYGPAYHMPQLYWDDELQYLAEVNARSC---VYAHDHCRNTYSFPAGQNIAIFGLNLTKESVYTYIIDH
+WYNEYPLATVD--QYPVNYVGPEFAHFTQIVNDRAVRMGCGMVSYNGYVWTNDYLVCNYGYS-NVIGDRS
+YTK-*
+>P1;gi|39588585|emb|CAE58108.1| Hypothetical protein CBG01194 [Caeno... [ score 138 E 6e-32 ] [ range 16 .. 175 ]
+sequence
+-------------------------------------SAKFTAVGIKHILRAHNDLRSDIALGVY-DAAG
+SIKPPATNMRKMTWDSSLATSAQAFAETC---PTNHSNADGL-----GENIFFSYRSKSLTVVGRGVPTI
+WM--------G--FTTMDDNASNIKDATQMAWAETGLIGCGVKVCGKDKSGKYVVVCHYKEPGNKIGAEI
+YQ--*
+>P1;gi|34865667|ref|XP_237257.2| similar to protease inhibitor 15; c... [ score 138 E 7e-32 ] [ range 76 .. 238 ]
+sequence
+----------------------------------------ISQNDMIAILDYHNQVRGKV----------
+--FPPAANMEYMVWDENLAKSAEAWAATC---IWDHGPSYLLR--FLGQNLSV---RTGRYRSILQLVKP
+WYDEVKDYAFP--YPQDCNPGPMCTHYTQMVWATSNRIGCAIHTCQNMNVWGVYLVCNYAPKGNWIGEAP
+YK--*
+>P1;gi|13625879|gb|AAK35184.1| activation associated secreted protei... [ score 138 E 7e-32 ] [ range 35 .. 201 ]
+sequence
+-------------------------------------NNGMTDDVRQVFLDKHNEYRQLVARG-EAQNKT
+GFAPKAARIHRLRYDCDLEAHVMEHVKTC---KGGHSPFSVLKGRGQNIW-AITVPNLDKAEAAKRSVDD
+WYIELTKYGID--NKISIDNAAKTGHYSQVVWQKSNRLGCAAVSCPEQR--KLFVGCEYLPGGNTLRHLI
+Y---*
+>P1;gi|30172003|gb|AAP20603.1| cysteine-rich venom protein [Naja atra] [ score 138 E 8e-32 ] [ range 14 .. 180 ]
+sequence
+--------------------------LQQSSGTVDFASESSNKREQKQIVDKHNALRRSV----------
+--RPTARNMLQMEWNSNAAQNAKRWADRC---SFAHSPPRTVGKIGCGENLFMSSQPYAW----SRVIQS
+WYDENKKFVYG--VG-ANPPGSVIGHYTQIVWYNSHLLGCGAAKCSSS---KYLYVCQYCPTGNIIGSIP
+YKS-*
+>P1;gi|1469932|gb|AAB05225.1| pathogenesis-related protein-1 [ score 138 E 9e-32 ] [ range 22 .. 168 ]
+sequence
+----------------------------------LIISHSCAQNSQQDYLNAHNTARADVGV--------
+---------EPLTWDDEVAAYAQNYVSQL---AADCNLV--TSHGQYGENLAMGSGDFM---TAAKAVEM
+WVDEKQYYDHG--SNHCA-QGQVCGHYTQVVWRNSVRVGCARVQCNNGG---YVVSCNYDPPGNFVGQSP
+Y---*
+>P1;gi|45476808|sp|P60623|CRVP_TRIST Cysteine-rich secretory protein... [ score 138 E 1e-31 ] [ range 7 .. 175 ]
+sequence
+--------------------------LQQSSGNVDFDSESPRKPEQNEIVDLHNSLRRSV----------
+--NPTASNMLRMEWYPEAADNAERWAYRC---IESHSSSRVIEGIKCGENIYMSPYPMKWTD----IIHA
+WHDEYKDFKYG--VG-ADPPNAVTGHYTQIVWYKSYRIGCAAA-YCPSSPYSYFFVCQYCPAGNFIGKTP
+YTS-*
+>P1;gi|17221641|dbj|BAB78476.1| PR-1 [Solanum torvum] [ score 138 E 1e-31 ] [ range 8 .. 152 ]
+sequence
+----------------------------------AIFHSSQAQTPQENFLNAHNAARRRVGVG-------
+----------PMTWDNTLAAYAQNYANQR---IG--DCMMQHSDGPYGENLA----AAFPQLNAAGAVKM
+WEDEKQWYDYN--SNTCAP-GKVCGHYTQVVWRNSVRLGCARVRCSSGW---VFITCNYDPPGNYIGQRP
+Y---*
+>P1;gi|30171827|gb|AAP20602.1| cysteine-rich venom protein; CRISP-li... [ score 137 E 1e-31 ] [ range 14 .. 182 ]
+sequence
+--------------------------LQQSSGNVDFDSESPRKPEQNEIIDLHNSLRRSV----------
+--NPTASNMLKMEWYPEAAANAERWAYGC---IESHSSSRVIEGIKCGENIYMSPYPMKWTD----IIHA
+WHGEYKDFKYG--VGAVPSDAV-VGHYTQIVWYKSYRIGCAAA-YCPSAEYSYFYVCQYCPAGNMIGKTP
+YTS-*
+>P1;gi|32492059|gb|AAP85301.1| natrin [Naja atra] [ score 137 E 1e-31 ] [ range 8 .. 180 ]
+sequence
+---------------------CFAAVLQQSFGNVDFNSESTRRKKKQEIVDLHNSLRRRVS---------
+---PTASNMLKMEWYPEAASNAERWANTC---SLNHSPLRVLEGIQCGESIYMSS----NARTWTEIIHL
+WHDEYKNFVYG--VG-ANPPGSVTGHYTQIVWYQTYRAGCAVSYCPSSAW-SYFYVCQYCPSGNFQGKTP
+YK--*
+>P1;gi|18000269|gb|AAL54896.1| cysteine-rich venom protein precursor... [ score 137 E 2e-31 ] [ range 14 .. 180 ]
+sequence
+--------------------------LQQSSGTVDFASESSNKDYRREIVDKHNALRRSV----------
+--KPTARNMLQMKWNSRAAQNAKRSADRC---TFAHSPTRTVGKFRCGENIFMSSQPFAW----SGVVQD
+WYDEIKNVVDG--IG-AKPPGSVIGHYTQIVWYKSHLLGCASAKCSST---KYLYVCQYCPAGNISSSIP
+YKS-*
+>P1;gi|28972959|gb|AAO62995.1| catrin [Crotalus atrox] [ score 137 E 2e-31 ] [ range 14 .. 182 ]
+sequence
+--------------------------LQQSSGSVDFDSESPRKPEQNKIVDLHNFLRRSV----------
+--NPTASNMLKMEWYPEAAANAERWAYRC---IESHSPSRVLGGIKCGENIYMSPVPIKW----TEIIHA
+WHGENKNFKYG--IGAVPPNAV-TGHFSQVVWYKSYRIGCAAAYCPSSK-YSYFYVCQYCPAGNIIGKTP
+YKS-*
+>P1;gi|13625909|gb|AAK35199.1| activation associated secreted protei... [ score 136 E 2e-31 ] [ range 269 .. 435 ] [ duplicate a ]
+sequence
+-------------------------------------NNGMTDDVRQVFLDKHNEYRQLVARG-EAKNKT
+GFAPKAARMQQMRYDCDLEAHVLEHVKTC---KGGHSPFSVLKGRGQNIW-AITVPNLDKAEAAKRSVDD
+WYIELTKYGID--NKISIDNAAKTGHYSQVVWQKSNRLGCAAVSCPEQR--RLFVGCEYLPGGNTLRHLI
+Y---*
+>P1;gi|13625909|gb|AAK35199.1| activation associated secreted protei... [ score 136 E 2e-31 ] [ range 20 .. 184 ] [ duplicate b ]
+sequence
+-------------------------------------NNGMTDEVRKLFLDKHNEYRSLVAKGQAPNVFG
+GNTSKAARMLKVRYDCEVEEDMMKWAAQC---AYA---PFKSDKHYGRNTWGMGIPNYNKTAAAESSVDD
+WFDELRSYGVP--PDNKYTRNIDAYDYSQMVWQNSYKIGCVVASCSSMTW----VACGYSPAGNIDGSLI
+YE--*
+>P1;gi|17566862|ref|NP_507655.1| CocoaCrisp precursor family member ... [ score 136 E 2e-31 ] [ range 12 .. 190 ]
+sequence
+----------------------------PNC----LCDFRFGPTAQREIVDFHNSLRSQLANG-DYVVDG
+VPKPPAKDMMKMKWDPILAGMAKNNAATC---PSLFTDSKMLGRNYYHRLANVTSGSLDKY--ALFAVKK
+WERQFQERGWK--NQEMFGDHRLLTSATQMVWATTRHVGCGVNICDAEKNNKVVVICEYQSKGNIHGLPI
+YK--*
+>P1;gi|15235056|ref|NP_195098.1| pathogenesis-related protein, putat... [ score 136 E 3e-31 ] [ range 19 .. 163 ]
+sequence
+----------------------------------VLIVHLKAQDSPQDFLAVHNRARAEVGVG-------
+----------PLRWDEKVAAYARNYANQC---AMKHSS------GSYGENIAWSSGSM----TGVAAVDM
+WVDEQFDYDYD--SNTCAWD-KQCGHYTQVVWRNSERLGCAKVRCNNGQ---TFITCNYDPPGNWVGEWP
+Y---*
+>P1;gi|130827|sp|P07053|PR1B_TOBAC Pathogenesis-related protein 1B p... [ score 136 E 3e-31 ] [ range 23 .. 168 ]
+sequence
+----------------------------------IISHSSHAQNSQQDYLDAHNTARADVGV--------
+---------EPLTWDNGVAAYAQNYVSQL---AADCNLVHSHGQ--YGENLAQGSGDFM---TAAKAVEM
+WVDEKQYYDHD--SNTCA-QGQVCGHYTQVVWRNSVRVGCARVKCNNGG---YVVSCNYDPPGNVIGQSP
+Y---*
+>P1;gi|13676849|ref|NP_112519.1| testis specific protein 1 [Rattus n... [ score 136 E 3e-31 ] [ range 36 .. 183 ]
+sequence
+-------------------------------------------QVQREIIAKHNELRRQVS---------
+---PPGSNILKMEWNVQAAANAQKWANNC---ILEHSSTEDKINIKCGENLYMSTDPTSWRT----VIQS
+WYEENENFVFG----VGAKPNSAVGHYTQLVWYSSFKVGCGVAYCPNQDTLKYFYVCHYCPMGNMKKSTP
+Y---*
+>P1;gi|2500711|sp|Q91055|HELO_HELHO Helothermine precursor (HLTx) >g... [ score 136 E 3e-31 ] [ range 22 .. 179 ]
+sequence
+-------------------------------SPKLPGLMTSNPDQQTEITDKHNNLRRIV----------
+--EPTASNMLKMTWSNKIAQNAQRSANQC---TLEHTSERTIDGVECGENLFFSSAPYTW----SYAIQN
+WFDERKYFRFN--YGPTAQNVM-IGHYTQVVWYRSYELGCAIAYCPDQPTYKYYQVCQYCPGGNIRSRK-
+----*
+>P1;gi|100370|pir||S10205 pathogenesis-related protein 1 - common to... [ score 136 E 4e-31 ] [ range 31 .. 171 ]
+sequence
+------------------------------------------QNSPQDYLDAHNTARADVGV--------
+---------EPLTWDDQVAAYAQNYASQL---AADCMLVHSHGQ--YGENLAWGSGDFM---TAAKAVEM
+WVNEKQYYDHD--SNTCA-QGQVCGHYTQVVWRNSVRVGCARAQCNSGG---YVVSCNYDPPGNFVGQSP
+YELK*
+>P1;gi|13560653|gb|AAK30143.1| pathogenesis-related protein PR-1 pre... [ score 135 E 4e-31 ] [ range 16 .. 160 ]
+sequence
+----------------------------------AIFHSTQAQNSPQDYLNAHNAARRQVGVG-------
+----------PMTWDNRLAAFAQNYANQC---RMQHS------GGPYGENLA----AAFPQLNAAGAVKM
+WVNEKQWYNYN--SNSCAP-GKVCGHYTQVVWRNSVRLGCARVRCNNGW---YFITCNYDPPGNWRGQRP
+Y---*
+>P1;gi|17540530|ref|NP_502497.1| venom allergen-like protein precurs... [ score 135 E 7e-31 ] [ range 15 .. 184 ]
+sequence
+-----------------------------------VWSDNFSKEGQLNLLNVHNEFRSQLALGQLSF-RG
+VKKPSASMMRKISWSKKLTNAATKFAETC---PKNHSVVMNTGE-SIFWHFSSSLSTPEQY--ATLAPQK
+WWNEFETNGWD--SYNHASQRFQIGHAVQMAWHTTSKVGCGYSKCVGTPEQTMVVVCRYFQKGNIEGEPI
+Y---*
+>P1;gi|1228950|emb|CAA65420.1| pathogenesis-related protein 1 [Arabi... [ score 135 E 9e-31 ] [ range 19 .. 162 ]
+sequence
+----------------------------------VLIVHLKAQDSPQDFLAVHNRARAEVGVG-------
+----------PLRWDEKVAAYARNYANQC---AMKHSS------GPYGENLAWSSGRL----TGRRAVDM
+WVDEQFDYDYD--SNTCAWD-KQCGHYTQVVWRNSERLGCAKVRCNNGQ---TFITCNYDPPGNWVGEWP
+----*
+>P1;gi|21305551|gb|AAM45664.1| ablomin [Agkistrodon blomhoffi] [ score 135 E 9e-31 ] [ range 14 .. 182 ]
+sequence
+--------------------------LQQSSGNVDFDSESPRKPEQNEIVDLHNSLRRSV----------
+--NPTASNMLKMEWYPEAAANAERWAYRC---IEDHSSSRVLEGIKCGENIYMSPIPMKWTD----IIHI
+WHDEYKNFKYG--IG-ADPPNAVSGHFTQIVWYKSYRAGCAAAYCPSSE-YSYFYVCQYCPAGNMRGKTP
+YTS-*
+>P1;gi|130828|sp|P09042|PR1C_TOBAC Pathogenesis-related protein 1C p... [ score 134 E 1e-30 ] [ range 22 .. 168 ]
+sequence
+----------------------------------LIISHSCAQNSQQDYLDAHNTARADVGV--------
+---------EPLTWDDQVAAYAQNYASQL---AADCNLVHSHGQ--YGENLAWGSG---DFLTAAKAVEM
+WVNEKQYYAHD--SNTCA-QGQVCGHYTQVVWRNSVRVGCARVQCNNGG---YIVSCNYDPPGNVIGKSP
+Y---*
+>P1;gi|6678423|ref|NP_033446.1| cysteine-rich secretory protein 2; t... [ score 134 E 1e-30 ] [ range 36 .. 184 ]
+sequence
+-------------------------------------------QVQREIVNKHNELRRSV----------
+--NPTGSDILKMEWSIQATTNAQKWANKC---ILEHSSKDDKINIRCGENLYMSTDPTLWST----VIQS
+WYNENEDFVYG----VGAKPNSAVGHYTQLVWYSSFKIGCGIAYCPNQDNLKYFYVCHYCPMGNMKKSTP
+YQ--*
+>P1;gi|2329928|gb|AAC47714.1| 24 kDa excretory/secretory protein [Ha... [ score 134 E 2e-30 ] [ range 20 .. 194 ]
+sequence
+--------------------------------SMCPDTNGMSDEVRQTFVNKHNAYRTLVAKGEAKNAKG
+GYAPKAARMLKVTYDCAIEENTMNFAKKC---VFAHNSYSESNNW--GQNLYMTSINQNKTVAAAESVDL
+WFDELQQNGPY--DNVMTMAVFNVGHYTQVVWQWSNKIGCAVEWCSD----MTFVACEYDSAGNYMGMPI
+YE--*
+>P1;gi|130846|sp|P11670|PRB1_TOBAC Basic form of pathogenesis-relate... [ score 133 E 2e-30 ] [ range 16 .. 159 ]
+sequence
+----------------------------------ILIHSSKAQNSPQDYLNPHNAARRQVGVG-------
+----------PMTWDNRLAAYAQNYANQR---IGDCGMIHSHG--PYGENLA----AAFPQLNAAGAVKM
+WVDEKRFYDYN--SNSCVGG--VCGHYTQVVWRNSVRLGCARVRSNNGW---FFITCNYDPPGNFIGQRP
+F---*
+>P1;gi|22327916|ref|NP_680450.1| allergen V5/Tpx-1-related family pr... [ score 133 E 2e-30 ] [ range 75 .. 207 ]
+sequence
+------------------------------------------------FLDPHNALRSGLG---------
+--------LPPLIWDGKLASYATWWANQR---RYDCSLTHSTG--PYGENLFWGSGSS---WAPGFAVQS
+WIVEGRSYNHN--TN-SCDGSGMCGHYTQMVWRDTKRLGCARVVC--ENGAGVFITCNYDPPGNYVGEKP
+Y---*
+>P1;gi|37182583|gb|AAQ89093.1| ALKN2972 [Homo sapiens] [ score 133 E 2e-30 ] [ range 38 .. 183 ]
+sequence
+-------------------------------------------------IEAHNEWRGKV----------
+--NPPAADMKYMIWDKGLAKMAKAWANQC---KFEHNDCLDKSFEYVGENIWLGGI---KSFTPRHAITA
+WYNETQFYDFD--SLSCSR---VCGHYTQLVWANSFYVGCAVAMCPNGGASTAIFVCNYGPAGNFANMPP
+Y---*
+>P1;gi|218304|dbj|BAA14220.1| PR1a protein precursor [Nicotiana taba... [ score 133 E 3e-30 ] [ range 22 .. 168 ]
+sequence
+----------------------------------LVISHSCAQNSQQDYLDAHNTARADVGV--------
+---------EPLTWDDQVAAYAQNYASQL---AADCNLVHSHGQ--YGENLAEGSGDFM---TAAKAVEM
+WVDEKQYYDHD--SNTCS-QGQVCGHYTQVVWRNSVRVGCARVQCNNGG---YVVSCNYDPPGNYRGESP
+Y---*
+>P1;gi|282959|pir||S22531 pathogenesis-related protein 1b - common t... [ score 133 E 3e-30 ] [ range 19 .. 160 ]
+sequence
+-------------------------------------HSSQAQNSPQDYLNPHNAARRQVGVG-------
+----------PMTWDNRLAAFAQNYANQC---RMQHS------GGPYGENLA----AAYPQLHAAGAVKM
+WVDEKQFYNYN--SNTCA-AGNVCGHYTQVVWRNSVRLGCARVRCNNGW---YFITCNYDPPGNWRGQRP
+Y---*
+>P1;gi|39588582|emb|CAE58105.1| Hypothetical protein CBG01191 [Caeno... [ score 132 E 4e-30 ] [ range 16 .. 163 ]
+sequence
+-------------------------------------SAKFTAVGIKHILRAHNDLRSDIALGVY-DAAG
+SIKPPATNMRKMTWDSSLATSAQAFAETC---PTNHSNADGLGENIFFSYSATDKNSLDYY--GARASQL
+WEEEFQQYGWD--STTMDDNASNIKDATQMAWAETGLIGCGL-------------------KGNKIGAEI
+YQ--*
+>P1;gi|31223763|ref|XP_317349.1| ENSANGP00000010508 [Anopheles gambi... [ score 132 E 4e-30 ] [ range 1 .. 189 ]
+sequence
+--------------NNLVHVGCGKSEYGPYC-PIDRQLVPMTEEVKTYILDLHNVFRANVARG-----EV
+TNYSPASRMPTLIWDEELQKLAEYNVKTC---IYGHDYCRNTKLFPVGQNIAFYGMEVTPLDTMTELLHS
+WYAENQDYIDN--YPLLGQDPPKIGHFTQIVMDKATAVGCAMIQYTQNDWVHQNYVCNYS----------
+----*
+>P1;gi|28573842|ref|NP_725234.2| CG30486-PA [Drosophila melanogaster... [ score 132 E 5e-30 ] [ range 16 .. 225 ]
+sequence
+-EALSTDYCNKDCLPEITHIACNYGDFDESCGSEAII-MKFPMHMRAHLLAVLNDFRNTVAKGQYP----
+-HLRPASRMATLRWHEELAGLAKFALRRC---DYIDDYCSNTDEFSYVSYIYGSTKWLQLEKDPISVLQF
+WMDDVKGCTMN--AEKPAKDGQCRGYFTQLVQDLAAHVGCAMMKGQTSGLYQYGVLCHFS-RGKIANELV
+YR--*
+>P1;gi|15225965|ref|NP_179064.1| pathogenesis-related protein, putat... [ score 132 E 5e-30 ] [ range 27 .. 161 ]
+sequence
+------------------------------------------QDSQQDYVNAHNQARSQIGVG-------
+----------PMQWDEGLAAYARNYANQL---KGDCRLVHS--RGPYGENLAKSGGDLSG----VAAVNL
+WVNEKANYNYD--TNTCNG---VCGHYTQVVWRNSVRLGCAKVRCNNGG---TIISCNYDPPGNYANQKP
+Y---*
+>P1;gi|21326194|gb|AAM19739.1| tigrin [Rhabdophis tigrinus tigrinus] [ score 132 E 5e-30 ] [ range 13 .. 174 ]
+sequence
+--------------------------LRQSFGNVDFNSESPNPGKQQEIVNIHNSFRRSV----------
+--RPTARNMLKMEWYSEAASNAERWAYQC---AYDHSPSRILNGIQCGENIFMASDPWAW----TSIIQD
+WYDEYRNFVYG--VGANPPD-SVTGHYTQIVWYKSYLVGCAAA-YCPSSLYNYFYVCQYCPAGNIQGS--
+----*
+>P1;gi|39588541|emb|CAE58064.1| Hypothetical protein CBG01143 [Caeno... [ score 131 E 6e-30 ] [ range 14 .. 184 ]
+sequence
+------------------------------------ASAEFSDAGREKIVKAHNELRSAVAKGGYRYNGK
+PPMPQAANMRKLKWNEILAKNAQKTADGC---PME---PFIAPNFGQNVYVPYSSKPFKNPDGMANAVAQ
+WVDDLSLYTWK--SLKINENPAKLRRFSQMIRDETSLVGCGLKDCGKNGFYKYVVVCNYDPPMSSTDSVV
+Y---*
+>P1;gi|5803151|ref|NP_006842.1| glioma pathogenesis-related protein;... [ score 131 E 1e-29 ] [ range 30 .. 188 ]
+sequence
+-----------------------------------------NEDFIKDCVRIHNKFRSEV----------
+--KPTASDMLYMTWDPALAQIAKAWASNC---QFSHNT-RLKPPHKLHPNFTSIWTGSVPIFSVSSAITN
+WYDEIQDYDFK--TRICKK---VCGHYTQVVWADSYKVGCAVQFCPKVSGNGAHFICNYGPGGNYPT-WP
+YKR-*
+>P1;gi|15235994|ref|NP_194309.1| allergen V5/Tpx-1-related family pr... [ score 131 E 1e-29 ] [ range 54 .. 210 ]
+sequence
+------------------------PSPKPILYQPPPTYQPPTGSFEQQFLDPHNTVRGGLG---------
+--LPP------LVWDVKIASYATWWANQR---RYDCSLTHSTG--PYGENLFWGSGSD---FTSTFAVES
+WTVEAKSYNHM--TNTCEGDGM-CGHYTQIVWRETRRLGCARVVC--ENGAGVFITCNYDPPGNYVGEKP
+Y---*
+>P1;gi|31217593|ref|XP_316457.1| ENSANGP00000025115 [Anopheles gambi... [ score 131 E 1e-29 ] [ range 51 .. 220 ]
+sequence
+-QQSWNYYCEADCEPGLKNVGCDPPPAGPACSGKQAESVNFNFVVQAAIVNENNRLRSLLATG-----RL
+GKFAPASRMPQLVWDTELANQAERNVRSC---VYGHDECRNTAQFRVGQNIAIVRYSGPRKSVLELLIYG
+WWSEANQANLR--RFPSEEPLSQIGHFTQMV---------------------------------------
+----*
+>P1;gi|38350643|gb|AAR18431.1| putative salivary antigen 5 family pr... [ score 131 E 1e-29 ] [ range 25 .. 241 ]
+sequence
+--QQTPDYCVKGLCPKDTHVGCNTRAFNSTC--VKPKMVPMSTKRKNLLMMMHNRLRNHLASGKLDR---
+--YQKASNMSLMDWDDELAYLAELNVKQC---VMEHDECRSTVKFWAGQNLAFQYPKLETYNVILKAVKA
+WFKEHVDASME--YIRSYKEPPKIGHFTALVRDVSTHMGCAIAVQTKTMYSKQFLACNYANT-NLLGQAI
+YR--*
+>P1;gi|31210639|ref|XP_314286.1| ENSANGP00000012670 [Anopheles gambi... [ score 130 E 2e-29 ] [ range 39 .. 253 ]
+sequence
+------DYCDNNCPPRKENIGCGNESYGPACTGKSPKLHKFTKKDLQFILHTHNHLRHLFACG-----SI
+HHYRPAVRMVQLRVDEDLQTLAECNVKRC---IYEHDDCRSTERYRYGQNIARRGRTLKLTEIVNSSLNA
+WFDEYWDTSID--MLTKYPNHPPIGHFTLLVNDNVYFIGCALISYTGEDCREYYFVCNYSF-INLINRAT
+Y---*
+>P1;gi|39581270|emb|CAE60016.1| Hypothetical protein CBG03518 [Caeno... [ score 130 E 2e-29 ] [ range 13 .. 185 ]
+sequence
+-----------------------------------FASAQFSEKAQEDILRIHNNLRSAIAKG-EYRING
+TLPNAASNMRKMKWSSALATAAQNVANNC---REESSRTAGENIFQ----DYFSTPETVIANIGAKASGA
+WVRDLEKLGWN--SNKIDKAGSKIAAATQMAWAETEFVGCGFNNCGKDNKSKILVVCHYKEIGNILNSNI
+YK--*
+>P1;gi|4680303|gb|AAD27611.1| androgen-dependent acidic epididymal g... [ score 130 E 3e-29 ] [ range 38 .. 191 ]
+sequence
+------------------------------------------PNVQQEIVNIHNTLRR------------
+GVVPPASNMLKMSWSEEAAQNAKIFSRYC---DMTESNPRRLPNTFCGENRNMTSYPVSW----SSVIGV
+WYSESKYFRYG--LWPSTDDDISTDRYTQIVWATSYLIGCAIAPCRHRGSPRYFYVCHYCHEGNDPEHEP
+YKK-*
+>P1;gi|8927462|gb|AAF82096.1| antigen 5 precursor [Glossina morsitan... [ score 129 E 3e-29 ] [ range 21 .. 220 ]
+sequence
+------DYCGL-CDNHDACVMQNVFQSGCPSGAKMIDLN----KYQSALLDAHNKKRNHVAGGGESKLKR
+-----ACQMATMKWDSELAKLAEYNVKQC---QMNHDRCRNTVKFKYGQNLAELGRSGGPPPDIEKAVDK
+WYEEVKDCNQD--SYPMNYRGPAIGHFTVMVAERNTHVGCAASEYTKSNGFQYFLACNYATT-NMMEFPI
+YKS-*
+>P1;gi|1709754|sp|Q08697|PR1A_LYCES Pathogenesis-related protein 1A1... [ score 129 E 4e-29 ] [ range 14 .. 157 ]
+sequence
+----------------------------------IIFHSSQAQTPRENFLNAHNAARRRVGVG-------
+----------PMTWDDGLAAYAQNYANQC---GMIHSD------GPYGENLA----AAFPQLNAAGAVKM
+WDDEKQWYDYN--SNTCAP-GKVCGHYTQVVWRKSVRLGCARVRCNSGW---VFITCNYDPPGNYID-NV
+Y---*
+>P1;gi|417753|sp|Q03401|AEG1_MOUSE Sperm-coating glycoprotein 1 prec... [ score 129 E 4e-29 ] [ range 37 .. 179 ]
+sequence
+-------------------------------------------SVQEEIVSKHNQLRRMVS---------
+---PSGSDLLKMEWNYDAQVNAQQWADKC---TFSHSPIELTTNLRCGENLFMSSYLASW----SSAIQG
+WYNEYKDLTYD--VGPKQPD-SVVGHYTQVVWNSTFQVACGVAECPK-NPLRYYYVCHYCPVGNYQGR--
+----*
+>P1;gi|15239598|ref|NP_197985.1| pathogenesis-related protein, putat... [ score 129 E 5e-29 ] [ range 26 .. 164 ]
+sequence
+------------------------------------------QDQPQDYLDEHNRARTQVGV--------
+---------PPMKWHAGAEQYAWNYAQQR---KGDCSLTHSNSNGLYGENLAWSGGALSG----AEAVKL
+WVNEKSDYIYA--SNTCS-DGKQCGHYTQVVWRTSEWVGCAKVKCDNGG---TFVTCNYYPPGNYRGRWP
+Y---*
+>P1;gi|28573641|ref|NP_726425.2| CG13569-PB [Drosophila melanogaster... [ score 128 E 6e-29 ] [ range 45 .. 263 ]
+sequence
+------NYCNNRTLAQRKHFMCRLGELKPYGGRKYYASIPDTLKVRKDTLAVLNTFRDMLAGGELDTAEN
+KTFPSAKRMRALQWDSELAYMARTHAATV---SFMHSECRSTLRFPVGHRLSLTEMVFAHIFDEYKTVQD
+PQSFARRFDSK--RDYS------VGHFSIIVNDRVSRVGCGGSNCEKDGKVGHFLTCHFDYT-NVNGSYV
+YKT-*
+>P1;gi|4102596|gb|AAD01511.1| secreted protein MSP-1 [Meloidogyne in... [ score 128 E 6e-29 ] [ range 18 .. 202 ]
+sequence
+------------------------------------VVNSLTVPEQNAVVDCINKYRSQLANGKTKNKNG
+GNFPSGKDILEVSYSKDLEKSAQRWANKC---IFDHNGTDLYSGGKYGENLYLDGDFEHKNITMIDACNA
+WWSWINNFLPT--DNKENDEFEAVGHWTQMAWAKTYQIGCALKVCHKPDCNGNLIDCRYYPGGNGMGSPI
+YQ--*
+>P1;gi|24644594|ref|NP_649651.1| CG10284-PA [Drosophila melanogaster... [ score 128 E 6e-29 ] [ range 48 .. 256 ]
+sequence
+SSTELPDYCDPSCHKELKHVACNASELHDKCSLDA-ELIVISPKVERFLLRRFNELRDSVAKGGF-----
+NGLSPASRMGTLKWNPELAYLAEFNVRDC---VLRHDECRNTKTQNAGQTVGYRGIKGELEDILRDIIGV
+WLREKSMVNIM--KYVEQESQSPKYNFLQIVLENAESVGCAIVQQSRHGWIQTFFACNYGHAP-VVGSPV
+YE--*
+>P1;gi|24656985|ref|NP_611581.1| CG9822-PA [Drosophila melanogaster]... [ score 128 E 9e-29 ] [ range 19 .. 218 ]
+sequence
+ASSQPLSWCDPDCPDNTVHIACNNGKFHESCSPDATMVD--LKPYRKLIVNEHNKRRNYIASG----SLP
+GYYP-ATRMATMVWDEELEYLATLNLKTC---YLEHDDCHNSYRFRLGQNLCGVDRRRNWDLNVTNLVEL
+WFGEHKDSSYI--TDFKTKDLEKYGHFVETVLDRNTHVGCAMMRFTNPQYPFLYIACNY-----------
+----*
+>P1;gi|25121982|ref|NP_001122.2| acidic epididymal glycoprotein-like... [ score 128 E 9e-29 ] [ range 38 .. 191 ]
+sequence
+------------------------------------------PNVQEEIVNIHNALRRRV----------
+--VPPASNMLKMSWSEEAAQNARIFSKYC---DMTESNPRRLPNTFCGENMHMTSYPVSW----SSVIGV
+WYSESTSFKHG--EWTTTDDDITTDHYTQIVWATSYLIGCAIASCRQQGSPRYLYVCHYCHEGNDPENEP
+YKT-*
+>P1;gi|15230919|ref|NP_188603.1| pathogenesis-related protein, putat... [ score 128 E 1e-28 ] [ range 20 .. 161 ]
+sequence
+---------------------------------------SLAEDLQQQFLEAHNEARNEVG---------
+--------LDPLVWDDEVAAYAASYANQC---ALVHS------NGPFGENIAMSSGEMS----AEDAAEM
+WINEKQYYDYD--SNTCNDNGGTCLHYTQVVWKNTVRLGCAKVVCNSGG---TFITCNYDPPGNYIGEKP
+F---*
+>P1;gi|12408314|ref|NP_074050.1| epididymal glycoprotein [Rattus nor... [ score 128 E 1e-28 ] [ range 39 .. 181 ]
+sequence
+-------------------------------------------SVQEEIINKHNQLRRTVS---------
+---PSGSDLLRVEWDHDAYVNAQKWANRC---IYNHSPLHRTTTLKCGENLFMANYPASW----SSVIQD
+WYDESLDFVFG--FG-PKKVGVKVGHYTQVVWNSTFLVACGVAECP-DQPLKYFYVCHYCPGGNYVGR--
+----*
+>P1;gi|3549885|emb|CAA07159.1| cysteine-rich secretory protein-1 [Eq... [ score 128 E 1e-28 ] [ range 8 .. 148 ]
+sequence
+--------------------------------------------VQEEIVTVHNTLRRRVI---------
+---PPASNMLKMNWSEEAAQNARRLSAQC---ELSESKARRITNTFCGANMHLTSYPISW----SNVIGM
+WFSESKYFKYG--QWISTDDEVIIEHYTQLVWATSYLIGCGISSCSKRRSTQYLYVCHYCHEGN------
+----*
+>P1;gi|3702665|emb|CAA07474.1| pathogenisis-related protein 1.2 [Tri... [ score 127 E 1e-28 ] [ range 26 .. 164 ]
+sequence
+------------------------------------------QNTPQDFVNLHNRARAVDGVG-------
+----------PVAWDNNVARFAQDWAAQC---RLQHS------GGPFGENIFWGSGQS---WTAADAVKL
+WVDEKQNYHLD--SNTC-DAGKVCGHYTQVVWRKSTRIGCARVVCTGNR--GVFITCNYNPPGNFNGERP
+F---*
+>P1;gi|21998567|emb|CAC86394.2| cystein rich secretory protein 1 [Eq... [ score 127 E 1e-28 ] [ range 41 .. 181 ]
+sequence
+--------------------------------------------VQEEIVTVHNTLRR------------
+GVVPPASNMLKMNWSEEAAQNARRLSAQC---ELIESKARRITNTFCGENMHLTSYPISW----SNVIGI
+WFSESKYFKYG--QWISTDDEVIIEHYTQLVWATSYLIGCGISSCSKRRSTQYLYVCHYCHEGN------
+----*
+>P1;gi|24645904|ref|NP_650062.1| CG5207-PA [Drosophila melanogaster]... [ score 127 E 2e-28 ] [ range 16 .. 222 ]
+sequence
+AISSAVDYCAPTCLD--KHVACNKGNFSENC-PKDVREVKIEPHHK-LILNLFNELRNNVAGG-----KI
+EGLPKAVRMAKMSWCEELSHLALLNVKTC---ESLPDKCRSTERFAYGQNNALFQYSGAEYTDAEIIIEN
+WFAERSNASPE--ILASFPENKAVTKFTIAVAEKNTHVGCAAVRFSRDFYNHFVLTCNFATS-NIVGQPV
+Y---*
+>P1;gi|24762694|ref|NP_611950.1| CG3640-PA [Drosophila melanogaster]... [ score 127 E 2e-28 ] [ range 25 .. 224 ]
+sequence
+------DYCQEHCPRSTDHVACNNGTFGLDCGREA-RLIPLSNQLQAFIVHQVNFYRNQVASGGLSA---
+--FGPARRMASVRWDPELAQLAELAAKRC---SLSGDGCRNTRRFKVGQLTGHVIFSAGKHSDLELLRHK
+ISNWFGQYASK--DLQAADPSSNISSFRQLIQESSTHMGCGVLRQRSHMWHQQFIVCNFARR-NMPREQV
+YQ--*
+>P1;gi|31322506|gb|AAP22983.1| mannose receptor precursor-like isofo... [ score 126 E 2e-28 ] [ range 87 .. 276 ]
+sequence
+---SASYHCPSSCVPGVGSPSAGYGDVPGASGHRPNLLSALSRKESFLILTAHNRLRSRV----------
+--HPPAANMQRMDWSESLAQLAEARAALC---VTSTPNLASTPGHHVGWNVQLMPMGSASF---VEVVNL
+WFAEGLQYRHG--DAECAHNAT-CAHYTQLVWATSSQLGCGRQPCFVDQEAMEAFVCAYSPGGNW-----
+----*
+>P1;gi|33284916|emb|CAE17614.1| SI:bZ1M12.1 (novel protein similar t... [ score 126 E 2e-28 ] [ range 65 .. 246 ]
+sequence
+----------------------------------------ISQNDMLAILDYHNKVRGKV----------
+--FPPASNMEYMVWDDTLAKTAEQWASTC---IWEHGP-RNLLRFL-GQNLSV---RTGRYRSILQLVKP
+WHDEVKDYSFP--YPRDCNPGPMCTHYTQMVWATSNKVGCAINTCHNMNVWGTYLVCNYSPKGNWIGEAP
+YK--*
+>P1;gi|24662139|ref|NP_648386.1| CG6628-PA [Drosophila melanogaster]... [ score 126 E 3e-28 ] [ range 24 .. 238 ]
+sequence
+ATAPPTDYCQSGCPSLKKHIACNKGELGKQCSPDA-HLVNLT-GLQDLILGEHNALRNVLASGKIIN---
+--LPKPDRMATLQWHSELADLATLNVKQC---VLQHDSCHNTPDFHSGQNLALVNITLLPEDGNHESIGG
+WWNNITKEQLQ--RFPKGKLGDSIRNFAVMARDNNTHVGCAALRFEKPAGHPLFLACNY--ASNYVDWPI
+YKEK*
+>P1;gi|4928711|gb|AAD33696.1| PR1a precursor [Glycine max] [ score 126 E 4e-28 ] [ range 4 .. 173 ]
+sequence
+--------------------MCIKISFCVMCGLVIVGDVAYAQDSAEDYVNAHNAAEAEV--GSQSPRQT
+VIVPS------LAWDDTVAAYAESYANQR---KGDCQLIHSGGE--YGENIAMSTGELSGTD----AVKM
+WVDEKSNCDYD--SNSCVGGE--CLHYTQVVWANSVRLGCAKVTCDNGG---TFITCNYDPPGNFVGERP
+YK--*
+>P1;gi|24656989|ref|NP_611582.1| CG17974-PA [Drosophila melanogaster... [ score 126 E 4e-28 ] [ range 24 .. 230 ]
+sequence
+------SWCDPDCGNGVRHIACRTGNFHRRCQPDAVQVD--VSRHKADFLHAHNKRRNFLALG-----KV
+PGYYPAARMATMVWDDELQYLSMLNTRTC---KLDHDDCHNTYRYNSGQNLCAVWRPRSPHVNVTSLVEL
+WFNEFDSSFID--SFKVTPIFEDYGHFAELSVDKNFAVGCSIMRFTRPDYPSVYFICNYASLY-ALGAPV
+YET-*
+>P1;gi|12860902|dbj|BAB32077.1| unnamed protein product [Mus musculus] [ score 125 E 6e-28 ] [ range 42 .. 191 ]
+sequence
+---------------------------------------------QEEIVNTHNAFRRKVS---------
+---PPARNMLKVSWSSAAAENARILARYC---DKSDSDSRRLPNTFCGENMLMEHYPSSW----SKVIEI
+WFNESKYFKYG--EWPSTDDDIETDHYTQMVWASTYLVGCDVAACRRQKAATYLYVCHYCHEGNHQDNMP
+YK--*
+>P1;gi|2905792|gb|AAC03562.1| putative secretory protein precursor; ... [ score 125 E 7e-28 ] [ range 26 .. 201 ] [ duplicate a ]
+sequence
+-----------------------------------PSDNGMTNEVRNMFVDTHNKLRSQTAQGKAKNAFG
+GFAPKAARMLKVSYDCDMEANMMKWAKQC---HFYHPPPAY--RNYWGQNIYMVGYNFTWPSIAETAVIS
+WWQELQVFGVN--NIVVAPDEHKTGHYMQVVWQWTYKIGCAINYCTNKPWPWTIAGCNYNPGGDNAYWVV
+YE--*
+>P1;gi|2905792|gb|AAC03562.1| putative secretory protein precursor; ... [ score 125 E 7e-28 ] [ range 255 .. 430 ] [ duplicate b ]
+sequence
+----------------------------PNAGSCPELNNGMTDEARKMFVDKHNEYRSLIAKGQAKGKPG
+QFAPKAARMMKVNYDCDVEANAMEWSKTC---TFGLNTAAMLKRW--GNNMHMMSSKANNKTAAAEAVAA
+WFGDLQKYGVN--NVFTMNVYTTLSKYSQLAWQSSDRIGCVVVPCWSSW---TVVVCEYNPGGDLPGEAI
+Y---*
+>P1;gi|31322510|gb|AAP22985.1| mannose receptor precursor-like isofo... [ score 125 E 8e-28 ] [ range 85 .. 246 ]
+sequence
+-------------------------EVQPPQPKQDPTLQALSRKESFLILTAHNRLRSRV----------
+--HPPAANMQRMDWSESLAQLAEARAALC---VTSTPNLASTPGHHVGWNVQLMPMGSASF---VEVVNL
+WFAEGLQYRHG--DAECAHNAT-CAHYTQLVWATSSQLGCGRQPCFVDQEAMEAFVCAYSPGGNW-----
+----*

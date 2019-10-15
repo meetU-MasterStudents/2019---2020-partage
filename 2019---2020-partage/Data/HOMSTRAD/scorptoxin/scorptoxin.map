@@ -1,0 +1,1188 @@
+>P1;1vna
+structureN:1vna:  1 : :  65 : :neurotoxin CSE-V1:Centruroides sculpturatus Ewing:-1.00:-1.00
+-KEGYLVKKSDGCKYDCFWLGKNEHCNTECKAKNQGGSYGYCYA-----FACWCEGLPESTPTYPLPNKS
+C---*
+>P1;2sn3
+structureX:2sn3:  1 : :  65 : :neurotoxin (variant 3):Centruroides sculpturatus Ewing:1.20:19.20
+-KEGYLVKKSDGCKYGCLKLGENEGCDTECKAKNQGGSYGYCYA-----FACWCEGLPESTPTYPLPNKS
+C---*
+>P1;2b3ca
+structureX:2b3c:   1 :A:  64 :A:beta neurotoxin:Centruroides sculpturatus ewing: -1: -1
+-KDGYLVEK-TGCKKTCYKLGENDFCNRECKWKHIGGSYGYCYG-----FGCYCEGLPDSTQTWPLPNKT
+C---*
+>P1;1cn2
+structureX:1cn2:   1 : :  66 : :toxin 2:Centruroides noxius: -1: -1
+-KEGYLVDKNTGCKYECLKLGDNDYCLRECKQQYGKGAGGYCYA-----FACWCTHLYEQAIVWPLPNKR
+CS--*
+>P1;1aho
+structureX:1aho:   1 : :  64 : :toxin II:Androctonus australis hector:0.96:15.8
+VKDGYIVDD-VNCTYFCGR---NAYCNEECTK--LKGESGYCQWASPYGNACYCYKLPDHVRTKG--PGR
+CH--*
+>P1;1lqq
+structureX:1lqq:   1 : :  64 : :neurotoxin III (Lqq III):Leiurus quinquestriatus quinquestriatus: -1: -1
+VRDAYIAKN-YNCVYECFR---DSYCNDLCTKN--GASSGYCQWAGKYGNACWCYALPDNVPIRV--PGK
+CH--*
+>P1;1nrb
+structureX:1nrb:   1 : :  63 : :neurotoxin V:Centruroides sculpturatus ewing:-1:-1
+KKDGYPVDS-GNCKYECLK---DDYCNDLCLER--KADKGYCYWG---KVSCYCYGLPDNSPTKT--SGK
+CNPA*
+>P1;1bmr
+structureX:1bmr:   1 : :  67 : :alpha-like toxin (Lqh iii):Leiurus quinquestriatus hebraeus: -1: -1
+VRDGYIAQP-ENCVYHCFP--GSSGCDTLCKEK--GGTSGHCGFKVGHGLACWCNALPDNVGIIVE-GEK
+CHS-*
+>P1;gi|16444980|gb|AAL23422.1| sodium-channel modifier toxin precurs... [ score 111 E 3e-24 ] [ range 20 .. 84 ]
+sequence
+-KEGYLVKKSDGCKYDCFWLGENEGCDKECKAKNQGGSYGYCYA-----FACWCEGLPESTPTYPLPNKS
+C---*
+>P1;gi|39932339|sp|Q7Z1K9|SCX3_CENLL Sodium-channel modifier toxin C... [ score 103 E 8e-22 ] [ range 20 .. 84 ]
+sequence
+-KEGYIVNYYDGCKYACLKLGENDYCLRECKARYYKSAGGYCYA-----FACWCTHLYEQAVVWPLPNKT
+C---*
+>P1;gi|1805721|emb|CAA69595.1| toxin Cn10 [Centruroides noxius] [ score 103 E 1e-21 ] [ range 14 .. 78 ]
+sequence
+-KEGYLVNKSTGCKYNCLILGENKNCDMECKAKNQGGSYGYCYK-----LACWCEGLPESTPTYPIPGKT
+C---*
+>P1;gi|39932334|sp|Q7Z1K4|SCX8_CENLL Sodium-channel modifier toxin C... [ score 102 E 2e-21 ] [ range 5 .. 69 ]
+sequence
+-KEGYLVKKSNGCKYECFKLGENEHCDTECKAPNQGGSYGYCDT-----FECWCEGLPESTPTWPLPNKS
+C---*
+>P1;gi|20178112|sp|Q95WD3|SCXX_CENSC Neurotoxin E1x precursor (CsE1x... [ score 100 E 1e-20 ] [ range 20 .. 83 ]
+sequence
+-KEGYLVD-VKGCKKNCWKLGDNDYCNRECKWKHIGGSYGYCYG-----FGCYCEGLPDSTQTWPLPNKT
+C---*
+>P1;gi|69540|pir||NTSR1C neurotoxin 1 - bark scorpion (tentative seq... [ score 95 E 4e-19 ] [ range 1 .. 63 ]
+sequence
+-KEGYLVKKSDGCKYDCFWLGKNEHNTCECKAKNQGGSYGYCYA-----FACWCEGLPESTPTYPLPNK-
+----*
+>P1;gi|69541|pir||NTSR2C neurotoxin 2 - bark scorpion [ score 94 E 7e-19 ] [ range 1 .. 63 ]
+sequence
+-KEGYLVNKSTGCKYGCLKLGENEGNKCECKAKNQGGSYGYCYA-----FACWCEGLPESTPTYPLPNK-
+----*
+>P1;gi|134356|sp|P80076|SCX3_CENNO Toxin 3 (Toxin II.9.2.3) >gi|2835... [ score 93 E 1e-18 ] [ range 1 .. 65 ]
+sequence
+-KEGYLVELGTGCKYECFKLGDNDYCLRECKARYGKGAGGYCYA-----FGCWCTQLYEQAVVWPLKNKT
+C---*
+>P1;gi|20178103|sp|P58778|SCX4_CENSC Neurotoxin 4 (CsEv4) (CsE v4) >... [ score 92 E 3e-18 ] [ range 1 .. 65 ]
+sequence
+-KEGYMVNKSTGCSYSCPKTGESVYCDKECKAKNQGGSYGFCQY-----SNCWCEGLPESTPTWPLDDKP
+C---*
+>P1;gi|37087994|sp|P59865|SCX7_CENLL Sodium-channel modifier neuroto... [ score 92 E 4e-18 ] [ range 20 .. 82 ]
+sequence
+-KEGYLVNTYTGCKYICWKLGENKYCIDECK--EIGAGYGYCYG-----FGCYCEGFPENKPTWPLPNKT
+C---*
+>P1;gi|41018155|sp|Q9TWL0|SCX8_CENNO Toxin 8 (Toxin II-13.4) >gi|957... [ score 90 E 1e-17 ] [ range 1 .. 61 ]
+sequence
+-KEGYIVNYYTGCKFACAKLGDNDYCLRECKARYGKGAGGYCYA-----FGCWCTHLYEQAVVWPLP---
+----*
+>P1;gi|20178110|sp|Q95WC9|SCX9_CENSC Neurotoxin 9 precursor (CsE9) >... [ score 83 E 1e-15 ] [ range 20 .. 82 ]
+sequence
+-EDGYLFDKRKRCTLECIDKTGDKNCDRNCK--NEGGSFGKCSY-----FACWCKGLPGITPISRTPGKT
+C---*
+>P1;gi|20140133|sp|Q95WD1|SCX8_CENSC Neurotoxin 8 precursor (CsE8) >... [ score 82 E 3e-15 ] [ range 20 .. 82 ]
+sequence
+-EKGYLVHEDTGCRYKCTFSGENSYCDKECKS--QGGDSGICQS-----KACYCQGLPEDTKTWPLIGKL
+C---*
+>P1;gi|37089118|sp|Q8WRY4|SCX9_CENLL Sodium-channel modifier neuroto... [ score 80 E 1e-14 ] [ range 20 .. 82 ]
+sequence
+-EDGYLFDKRKRCTLACIDKTGDKNCDRNCK--KEGGSFGHCSY-----SACWCKGLPGSTPISRTPGKT
+C---*
+>P1;gi|41393530|sp|Q9TWL1|SCX7_CENNO Toxin 7 (Toxin II-13.3) >gi|957... [ score 79 E 3e-14 ] [ range 1 .. 55 ]
+sequence
+-KEGYIVNYHDGCKYECYKLGDNDYCLRECKLRVGKGAGGYCYA-----FACWCTHLYEQA---------
+----*
+>P1;gi|21667339|gb|AAM74029.1| depressant insect toxin 2 [Leiurus qu... [ score 65 E 6e-10 ] [ range 22 .. 81 ]
+sequence
+--DGY-IRKRDGCKVSCLF--GNEGCDKECKA--YGGSYGYCWT-----WACWCEGLPDDK-TWKSETNT
+C---*
+>P1;gi|21667335|gb|AAM74027.1| depressant insect toxin 2 [Leiurus qu... [ score 63 E 2e-09 ] [ range 22 .. 81 ]
+sequence
+--DGY-IRKRDGCKVSCLF--GNEGCDKECKS--YGGSYGYCWT-----WACWCEGLPDEK-TWKSETNT
+C---*
+>P1;gi|37999923|sp|P19855|SIX2_LEIQU Depressant insect toxin 2 precu... [ score 63 E 2e-09 ] [ range 22 .. 81 ]
+sequence
+--DGY-IRKRDGCKLSCLF--GNEGCNKECKS--YGGSYGYCWT-----WACWCEGLPDDK-TWKSETNT
+C---*
+>P1;gi|37088131|sp|Q26292|SIX2_LEIQH Insect toxin 2 precursor (Lqh I... [ score 63 E 2e-09 ] [ range 22 .. 81 ]
+sequence
+--DGY-IKRRDGCKVAC--LIGNEGCDKECKA--YGGSYGYCWT-----WACWCEGLPDDK-TWKSETNT
+C---*
+>P1;gi|20140219|sp|Q9BKJ1|SCN2_MESMA Anti-neuroexcitation peptide II... [ score 62 E 5e-09 ] [ range 22 .. 81 ]
+sequence
+--DGY-IRGSNGCKVSCLW--GNDGCNKECRA--YGASYGYCWT-----WACWCEGLPDDK-TWKSESNT
+C---*
+>P1;gi|3138983|gb|AAC16698.1| neurotoxin AEP2 precursor [Mesobuthus ... [ score 60 E 2e-08 ] [ range 22 .. 81 ]
+sequence
+--DGY-IRGSNGCKVSCLW--GNEGCNKECKAF--GAYYGYCWT-----WACWCEGLPDDK-TWKSESNT
+C---*
+>P1;gi|41018157|sp|Q9Y1U3|SIXD_MESMA Depressant insect neurotoxin Bm... [ score 59 E 3e-08 ] [ range 22 .. 81 ]
+sequence
+--DGY-IRGSDGCKVSCLW--GNDFCDKVCK--KSGGSYGYCWT-----WACWCEGLPDNEK-WKYESNT
+C---*
+>P1;gi|39932422|sp|Q8I0K7|SIX2_MESMA Depressant scorpion toxin BmKIM... [ score 57 E 9e-08 ] [ range 22 .. 81 ]
+sequence
+--DGY-IRGSNGCKISCLW--GNEGCNKECKGF--GAYYGYCWT-----WACWCEGLPDDK-TWKSESNT
+C---*
+>P1;gi|134344|sp|P24336|SIX2_BUTJU Depressant insect toxin 2 precurs... [ score 57 E 1e-07 ] [ range 22 .. 81 ]
+sequence
+--DGY-IRKKDGCKVSCI--IGNEGCRKECVA--HGGSFGYCWT-----WACWCENLPD-AVTWKSSTNT
+C---*
+>P1;gi|20140338|sp|Q9UAC8|SCAT_MESMA Neurotoxin BmK AS-1 precursor >... [ score 49 E 3e-05 ] [ range 22 .. 71 ]
+sequence
+---GYLLNKYTGCKIWC--VINNESCNSECKLRR--GNYGYCYF-----WACYCEGAPKS----------
+----*
+>P1;gi|14285770|sp|P81504|SIX5_ANDAU Insect toxin 5 (AaH IT5) (AaHIT... [ score 49 E 3e-05 ] [ range 1 .. 51 ]
+sequence
+--DGY-IKRHDGCKVTC--LINDNYCDTECK--REGGSYGYCYG-----FACWCEGLPDDK---------
+----*
+>P1;gi|2500709|sp|P80950|SCXL_ANDAU Neurotoxin-like protein STR1 (An... [ score 47 E 1e-04 ] [ range 2 .. 64 ]
+sequence
+-RDGYIVHDGTNCKYSCEFGSEYKYCGPLCEKK--KAKTGYCYL-----FACWCIEVPDEVRVWGEDGFM
+C---*
+>P1;gi|20140339|sp|Q9UAC9|SCAS_MESMA Neurotoxin BmK AS precursor >gi... [ score 47 E 2e-04 ] [ range 22 .. 67 ]
+sequence
+---GYLLDKYTGCKVWCV--INNESCNSECK--IRGGYYGYCYF-----WACFCQG--------------
+----*
+>P1;gi|134347|sp|P18927|SCX2_CENLI Neurotoxin II.22.5 >gi|84687|pir|... [ score 45 E 6e-04 ] [ range 1 .. 30 ]
+sequence
+-KEGYIVNYHTGCKYTCAKLGDNDYCLRECK---------------------------------------
+----*
+>P1;gi|3122868|sp|P81240|SIX5_LEIQH Insect toxin 5 (Lqh IT5) (LqhIT5... [ score 44 E 7e-04 ] [ range 1 .. 48 ]
+sequence
+--DGY-IRGGDGCKVSC--VIDHVFCDNECKAA--GGSYGYCWG-----WACWCEGLP------------
+----*
+>P1;gi|16445000|gb|AAL23432.1| sodium-channel modifier toxin precurs... [ score 114 E 5e-25 ] [ range 20 .. 84 ]
+sequence
+-KEGYLVNKSTGCKYDCFWLGKNEHCDLECKAKNQGGSYGYCYA-----FACWCEGLPESTPTYPLPNKS
+C---*
+>P1;gi|134350|sp|P08900|SCX2_CENSU Toxin Css II (CssII) >gi|84688|pi... [ score 92 E 4e-18 ] [ range 1 .. 65 ]
+sequence
+-KEGYLVKS-TGCKYECLKLGDNDYCLRECKQQYGKSSGGYCYA-----FACWCTHLYEQAVVWPLPNKT
+C---*
+>P1;gi|20140133|sp|Q95WD1|SCX8_CENSC Neurotoxin 8 precursor (CsE8) >... [ score 75 E 3e-13 ] [ range 22 .. 82 ]
+sequence
+---GYLVED-TGCRYKCTFSGENSYCDKECKS--QGGDSGICQS-----KACYCQGLPEDTKTWPLIGKL
+C---*
+>P1;gi|28558122|sp|O77463|NTXP_TITSE Non-toxic protein NTxP precurso... [ score 70 E 1e-11 ] [ range 21 .. 81 ]
+sequence
+-REGYPADS-KGCKITCF-LTAAGYCNTECTLK--KGSSGYCAW-----PACYCYGLPDSVKIWTSETNK
+C---*
+>P1;gi|20140219|sp|Q9BKJ1|SCN2_MESMA Anti-neuroexcitation peptide II... [ score 69 E 4e-11 ] [ range 22 .. 81 ]
+sequence
+--DGYIRGS-NGCKVSC--LWGNDGCNKECRA--YGASYGYCWG-----LACWCEGLPDD-KTWKSESNT
+C---*
+>P1;gi|41018157|sp|Q9Y1U3|SIXD_MESMA Depressant insect neurotoxin Bm... [ score 66 E 2e-10 ] [ range 22 .. 81 ]
+sequence
+--DGYIRGS-DGCKVSC--LWGNDFCDKVCK--KSGGSYGYCWG-----LACWCEGLPDNEK-WKYESNT
+C---*
+>P1;gi|3138983|gb|AAC16698.1| neurotoxin AEP2 precursor [Mesobuthus ... [ score 65 E 3e-10 ] [ range 22 .. 81 ]
+sequence
+--DGYIRGS-NGCKVSC--LWGNEGCNKECKA--FGAYYGYCWG-----LACWCEGLPDD-KTWKSESNT
+C---*
+>P1;gi|39932422|sp|Q8I0K7|SIX2_MESMA Depressant scorpion toxin BmKIM... [ score 64 E 1e-09 ] [ range 22 .. 81 ]
+sequence
+--DGYIRGS-NGCKISC--LWGNEGCNKECKG--FGAYYGYCWG-----LACWCEGLPDD-KTWKSESNT
+C---*
+>P1;gi|41017886|sp|P60275|SCXI_TITBA Insect toxin TbIT-I [ score 64 E 1e-09 ] [ range 2 .. 62 ]
+sequence
+-KEGYPVDS-RGCKVTCFFTGA-GYCDKECKLK--KASSGYCAW-----PACYCYGLPDSVPVYDNASNK
+C---*
+>P1;gi|134344|sp|P24336|SIX2_BUTJU Depressant insect toxin 2 precurs... [ score 62 E 3e-09 ] [ range 22 .. 81 ]
+sequence
+--DGYIRKK-DGCKVSCI--IGNEGCRKECVA--HGGSFGYCWG-----LACWCENLPD-AVTWKSSTNT
+C---*
+>P1;gi|969192|gb|AAB34083.1| Cii-1=beta-toxin {N-terminal} [Centruro... [ score 62 E 4e-09 ] [ range 1 .. 48 ]
+sequence
+-KEGYLVNS-TGCKYECYKLGDNDYCLRECKQQYGKGAKGYKYA-----FGCWC----------------
+----*
+>P1;gi|3914973|sp|P56612|SCX7_TITST Toxin gamma precursor (Tst1) >gi... [ score 60 E 9e-09 ] [ range 21 .. 81 ]
+sequence
+-KEGYLMDH-EGCKLSCF-IRPSGYCGRECTLK--KGSSGYCAW-----PACYCYGLPNWVKVWDRATNK
+C---*
+>P1;gi|24638215|sp|P83435|SCX4_TITFA Neurotoxin 4 (Tf4) [ score 60 E 2e-08 ] [ range 2 .. 62 ]
+sequence
+-KEGYPADS-KGCKVTCFFTGV-GYCDTECKLK--KASSGYCAW-----PACYCYGLPDSASVWDSATNK
+C---*
+>P1;gi|14285770|sp|P81504|SIX5_ANDAU Insect toxin 5 (AaH IT5) (AaHIT... [ score 58 E 5e-08 ] [ range 1 .. 60 ]
+sequence
+--DGYIKRH-DGCKVTC--LINDNYCDTECKRE--GGSYGYCYG-----FACWCEGLPDD-KAWKSETNT
+C---*
+>P1;gi|3914972|sp|P56611|SCX7_TITBA Toxin gamma precursor (Tb1) >gi|... [ score 58 E 6e-08 ] [ range 21 .. 81 ]
+sequence
+-KEGYLMDH-EGCKLSCF-IRPSGYCGSECKIK--KGSSGYCAW-----PACYCYGLPNWVKVWDRATNK
+C---*
+>P1;gi|401073|sp|P15226|SCX7_TITSE Toxin VII precursor (TsTX-VII) (T... [ score 58 E 6e-08 ] [ range 21 .. 81 ]
+sequence
+-KEGYLMDH-EGCKLSCF-IRPSGYCGRECGIK--KGSSGYCAW-----PACYCYGLPNWVKVWDRATNK
+C---*
+>P1;gi|20522232|sp|P58779|SCX5_CENSC Neurotoxin 5 (CsEv5) (CsE v5) >... [ score 54 E 7e-07 ] [ range 1 .. 59 ]
+sequence
+-KDGYPVDS-KGCKLSCV---ANNYCDNQCKMK--KASGGHCYA-----MSCYCEGLPENAKVSDSATNI
+C---*
+>P1;gi|20535852|sp|P58296|SCXB_CENNO Neurotoxin Cn11 [ score 52 E 3e-06 ] [ range 2 .. 63 ]
+sequence
+-RDGYPVDE-KGCKLSC--LINDKWCNSACHSR--GGKYGYCYG-----LACYCEAVPDNVKVWTYETNT
+C---*
+>P1;gi|3122868|sp|P81240|SIX5_LEIQH Insect toxin 5 (Lqh IT5) (LqhIT5... [ score 52 E 5e-06 ] [ range 1 .. 60 ]
+sequence
+--DGYIRGG-DGCKVSC--VIDHVFCDNECKA--AGGSYGYCWG-----LACWCEGLPADRE-WKYETNT
+C---*
+>P1;gi|134369|sp|P23814|SCX2_TITSE Toxin II (TsTX-II) (Tityustoxin I... [ score 50 E 1e-05 ] [ range 1 .. 62 ]
+sequence
+-KEGYAMDH-EGCKFSCF-IRPAGFCDGYCKT-HLKASSGYCAW-----PACYCYGVPDHIKVWDYATNK
+C---*
+>P1;gi|17380307|sp|P82812|SIX2_BUTSI Insect toxin 2 (BsIT2) (Bs-dprI... [ score 50 E 2e-05 ] [ range 1 .. 60 ]
+sequence
+--DGYIKKS-KGCKVSC--VINNVYCNSMCKS--LGGSYGYCYG-----LACWCEGLP-NAKRWKYETKT
+C---*
+>P1;gi|37087984|sp|P59863|SIX2_BUTOC Insect toxin 2 (Bot IT2) (BotIT2) [ score 50 E 2e-05 ] [ range 1 .. 60 ]
+sequence
+--DGYIKGY-KGCKITC--VINDDYCDTECKAE--GGTYGYCWG-----LACWCEDLPDE-KRWKSETNT
+C---*
+>P1;gi|41017887|sp|P60276|SCXJ_TITBA Toxin Tb2-II [ score 49 E 3e-05 ] [ range 1 .. 62 ]
+sequence
+-KEGYAMDH-EGCKFSCF-IRPSGFCDGYCKT-HLKASSGYCAW-----PACYCYGVPSNIKVWDYATNK
+C---*
+>P1;gi|17380306|sp|P82811|SIX1_BUTSI Insect toxin 1 (BsIT1) (Bs-dprI... [ score 49 E 3e-05 ] [ range 1 .. 61 ]
+sequence
+--DGYILMR-NGCKIPC--LFGNDGCNKECKA--YGGSYGYCYG-----LACACEGQPEDKKHLNYHKKT
+C---*
+>P1;gi|3914970|sp|P56609|SCX2_TITBA Toxin III-8 (Tb2) >gi|2148090|pi... [ score 48 E 5e-05 ] [ range 1 .. 62 ]
+sequence
+-KEGYAMDH-EGCKFSCFPR-PAGFCDGYCKT-HLKASSGYCAW-----PACYCYGVPSNIKVWDYATNK
+C---*
+>P1;gi|3273105|emb|CAA07277.1| insecticidal toxin [Orthochirus scrob... [ score 48 E 5e-05 ] [ range 1 .. 60 ]
+sequence
+--DGYPKQK-DGCKYSC--TINHKFCNSVCKS--NGGDYGYCWG-----LACWCEGLPDN-KMWKYETNT
+C---*
+>P1;gi|17380308|sp|P82813|SIX3_BUTSI Insect toxin 3 (BsIT3) (Bs-dprI... [ score 48 E 6e-05 ] [ range 1 .. 60 ]
+sequence
+--DGYILNS-KGCKVSCVVSI--VYCNSMCKSS--GGSYGYCWG-----LACWCEGLPNS-KRWTSSKNK
+C---*
+>P1;gi|41017855|sp|P60214|SC9B_TITCA Toxin Tc49b [ score 48 E 6e-05 ] [ range 2 .. 63 ]
+sequence
+-KEGYLVGN-DGCKYGCI-TRPHQYCVHECELK--KGTDGYCYW-----LACYCYNMPDWVKTWSSATNK
+C---*
+>P1;gi|20140338|sp|Q9UAC8|SCAT_MESMA Neurotoxin BmK AS-1 precursor >... [ score 47 E 9e-05 ] [ range 22 .. 81 ]
+sequence
+---GYLLNK-TGCKIWC--VINNESCNSECKLRRGNYGYCYFWK-----LACYCEGAPKS-ELWAYETNK
+C---*
+>P1;gi|37537934|sp|Q86SE0|SCX2_ANDAM Alpha-neurotoxin 2 precursor (A... [ score 47 E 1e-04 ] [ range 22 .. 82 ]
+sequence
+-RDGYIADA-GNCGYTCV---ANDYCNTECT--KNGAESGYCQW-----FACWCIKLPDKVPI-KVPGK-
+----*
+>P1;gi|34925420|sp|Q9GUA7|SCA3_MESMA Alpha toxin 3 precursor (BmKalp... [ score 47 E 1e-04 ] [ range 21 .. 76 ]
+sequence
+-RDGYIADD-KNCAYFC---GRNAYCDDECKKK--GAESGYCYG-----NACWCYKLPDKVPI-------
+----*
+>P1;gi|17380309|sp|P82814|SIX4_BUTSI Insect toxin 4 (BsIT4) (Bs-dprI... [ score 46 E 3e-04 ] [ range 1 .. 61 ]
+sequence
+--DGYIKGN-KGCKVSC--VINNVFCNSMCKSS--GGSYGYCWG-----LACWCEGLPAAKKWLYAATNT
+C---*
+>P1;gi|2507370|sp|P01496|SCX1_TITSE Toxin IV-5 precursor (Ts3) (Tity... [ score 46 E 3e-04 ] [ range 15 .. 69 ]
+sequence
+-KDGYPVEY-DNCAYIC-WNYDNAYCDKLCKDK--KADSGYCYW-----VHCYCYGLPDSEPT-------
+----*
+>P1;gi|20137305|sp|P58752|BIRT_PARTR Birtoxin [ score 45 E 3e-04 ] [ range 7 .. 55 ]
+sequence
+----YPLDK-DGNTYKCFLLGGNEECLNVCKL--HGVQYGYCYA-----SKCWCEYLEDDK---------
+----*
+>P1;gi|401071|sp|P01484|SCX2_ANDAU Neurotoxin II precursor (AaH II) ... [ score 45 E 3e-04 ] [ range 21 .. 76 ]
+sequence
+-KDGYIVDD-VNCTYFC---GRNAYCNEECT--KLKGESGYCYG-----NACYCYKLPDHVRT-------
+----*
+>P1;gi|6685942|sp|P56743|SCX6_ANDAU Neurotoxin VI (AaH VI) (AaHVI) (... [ score 44 E 8e-04 ] [ range 2 .. 57 ]
+sequence
+-RDGYVVNG-TNCKYSCEIGSEYEYCGPLCKRKNAK--TGYCYA-----FACWCIDVPDDVKLY------
+----*
+>P1;gi|37087990|sp|P59864|SIX6_BUTOC Insect toxin 6 (BotIT6) [ score 44 E 8e-04 ] [ range 1 .. 59 ]
+sequence
+--DGYPKQK-NGCKYDCI--INNKWCNGICKM--HGGYYGYCWG-----LACWCEGLPEDKKWWYETNK-
+----*
+>P1;gi|37089698|sp|Q9BLM4|SCXA_ANDAU Neurotoxin pcD-1005 precursor >... [ score 44 E 9e-04 ] [ range 21 .. 76 ]
+sequence
+-KDGYIVDD-KNCTFFC---GRNAYCNDECKKK--GAESGYCYG-----NACYCYKLPDRVST-------
+----*
+>P1;gi|20141091|sp|P01493|SCX2_CENSC Neurotoxin 2 precursor (CsEv2) ... [ score 111 E 5e-24 ] [ range 20 .. 85 ]
+sequence
+-KEGYLVNKSTGCKYGCLKLGENEGCDKECKAKNQGGSYGYCYA-----FACWCEGLPESTPTYPLPNKS
+CS--*
+>P1;gi|37537919|sp|P59899|SC2B_CENLL Toxin Cll 2b precursor (Cll2b) ... [ score 110 E 9e-24 ] [ range 20 .. 85 ]
+sequence
+-KEGYLVNHSTGCKYECYKLGDNDYCLRECKQQYGKGAGGYCYA-----FGCWCTHLYEQAVVWPLPKKT
+CN--*
+>P1;gi|1173398|sp|P45664|SCX6_CENNO Toxin CnGTIII precursor >gi|4844... [ score 110 E 1e-23 ] [ range 20 .. 85 ]
+sequence
+-KEGYLVNKSTGCKYGCFWLGKNEGCDKECKAKNQGGSYGYCYA-----FGCWCEGLPESTPTYPLPNKT
+CS--*
+>P1;gi|39932987|sp|Q7YT61|SCXC_CENLL Sodium-channel modifier toxin C... [ score 108 E 2e-23 ] [ range 20 .. 85 ]
+sequence
+-KEGYLVNKSTGCKYGCFWLGKNENCDMECKAKNQGGSYGYCYS-----FACWCEGLPDSTPTYPLPNKS
+CS--*
+>P1;gi|20178111|sp|Q95WD2|SCE3_CENSC Neurotoxin E3 precursor (CsE3) ... [ score 108 E 3e-23 ] [ range 20 .. 85 ]
+sequence
+-KEGYIVNYHTGCKYECFKLGDNDYCLRECKLRHGKGSGGYCYA-----FGCWCTHLYEQAVVWPLPKKK
+CN--*
+>P1;gi|1173394|sp|P45662|SCX4_CENNO Toxin 4 precursor (Toxin II-10) ... [ score 108 E 3e-23 ] [ range 20 .. 85 ]
+sequence
+-KEGYLVNSYTGCKYECFKLGDNDYCLRECKQQYGKGAGGYCYA-----FGCWCTHLYEQAVVWPLKNKT
+CN--*
+>P1;gi|1173396|sp|P45663|SCX5_CENNO Toxin CnGTII precursor >gi|48442... [ score 107 E 5e-23 ] [ range 20 .. 85 ]
+sequence
+-KEGYLVNKSTGCKYGCLLLGKNEGCDKECKAKNQGGSYGYCYA-----FGCWCEGLPESTPTYPLPNKS
+CS--*
+>P1;gi|39932338|sp|Q7Z1K8|SCX4_CENLL Sodium-channel modifier toxin C... [ score 106 E 1e-22 ] [ range 20 .. 85 ]
+sequence
+-KEGYIVNYHDGCKYECYKLGDNDYCLRECKLRYGKGAGGYCYA-----FGCWCTHLYEQAVVWPLPKKR
+CN--*
+>P1;gi|134337|sp|P18926|SCX1_CENLI Neurotoxin 1 >gi|84686|pir||A3118... [ score 105 E 3e-22 ] [ range 1 .. 66 ]
+sequence
+-KEGYLVNHSTGCKYECFKLGDNDYCLRECRQQYGKGAGGYCYA-----FGCWCTHLYEQAVVWPLPNKT
+CS--*
+>P1;gi|41017880|sp|P60266|SCX4_CENSU Toxin Css IV (CssIV) [ score 103 E 1e-21 ] [ range 1 .. 66 ]
+sequence
+-KEGYLVNSYTGCKFECFKLGDNDYCLRECRQQYGKGSGGYCYA-----FGCWCTHLYEQAVVWPLPNKT
+CN--*
+>P1;gi|37537918|sp|P59898|SCX2_CENLL Toxin Cll 2 (Cll2) [ score 101 E 4e-21 ] [ range 1 .. 66 ]
+sequence
+-KEGYLVNHSTGCKYECFKLGDNDYCLRECKQQYGKGAGGYCYA-----FGCWCNHLYEQAVVWPLPKKT
+CN--*
+>P1;gi|134350|sp|P08900|SCX2_CENSU Toxin Css II (CssII) >gi|84688|pi... [ score 101 E 4e-21 ] [ range 1 .. 66 ]
+sequence
+-KEGYLVSKSTGCKYECLKLGDNDYCLRECKQQYGKSSGGYCYA-----FACWCTHLYEQAVVWPLPNKT
+CN--*
+>P1;gi|245682|gb|AAB21461.1| toxin 2, Cn2 [Centruroides noxius=scorp... [ score 100 E 8e-21 ] [ range 1 .. 66 ]
+sequence
+-KEGYLVDKNTGCKYECLKLGDNDYCLRECKQQGYKGAGGYCYA-----FACWCTHLYEQAIVWPLPNKR
+CS--*
+>P1;gi|41017881|sp|P60267|SCX6_CENSU Toxin Css VI (CssVI) [ score 100 E 2e-20 ] [ range 1 .. 66 ]
+sequence
+-KEGYLVNSYTGCKFECFKLGDNDYCKRECKQQYGKSSGGYCYA-----FGCWCTHLYEQAVVWPLPNKT
+CN--*
+>P1;gi|3915874|sp|P15223|SCX1_CENNO Toxin 1 precursor (Toxin II.14) ... [ score 97 E 6e-20 ] [ range 20 .. 84 ]
+sequence
+-KDGYLVDAK-GCKKNCYKLGKNDYCNRECRMKHRGGSYGYCYG-----FGCYCEGLSDSTPTWPLPNKT
+CS--*
+>P1;gi|6094254|sp|P56646|SCXM_CENSC Toxin CsE M1 (CsEM1) (CsEIII) >g... [ score 97 E 1e-19 ] [ range 1 .. 65 ]
+sequence
+-KEGYLVNSYTGCKYECLKLGDNDYCLRECRQQYGK-SGGYCYA-----FACWCTHLYEQAVVWPLPNKT
+CN--*
+>P1;gi|39932335|sp|Q7Z1K5|SCX6_CENLL Sodium-channel modifier toxin C... [ score 93 E 2e-18 ] [ range 20 .. 83 ]
+sequence
+-KEGYLVNMKTGCKYGCYELGDNGYCDRKCKAE--SGNYGYCYT-----VGCWCEGLPNSKPTWPLPGKS
+CS--*
+>P1;gi|39932242|sp|P60163|SCX2_CENGR Toxin Cg2 [ score 87 E 1e-16 ] [ range 1 .. 66 ]
+sequence
+-KDGYLVNKSTGCKYSCIENINDSHCNEECISSIRKGSYGYCYK-----FYCYCIGMPDSTQVYPIPGKT
+CS--*
+>P1;gi|21667339|gb|AAM74029.1| depressant insect toxin 2 [Leiurus qu... [ score 50 E 1e-05 ] [ range 22 .. 81 ]
+sequence
+--DGYI-RKRDGCKVSCLF--GNEGCDKECKA--YGGSYGYCWG-----LACWCEGLPDDK-TWKSETNT
+C---*
+>P1;gi|37999923|sp|P19855|SIX2_LEIQU Depressant insect toxin 2 precu... [ score 49 E 3e-05 ] [ range 22 .. 81 ]
+sequence
+--DGYI-RKRDGCKLSCLF--GNEGCNKECKS--YGGSYGYCWG-----LACWCEGLPDDK-TWKSETNT
+C---*
+>P1;gi|21667335|gb|AAM74027.1| depressant insect toxin 2 [Leiurus qu... [ score 49 E 3e-05 ] [ range 22 .. 81 ]
+sequence
+--DGYI-RKRDGCKVSCLF--GNEGCDKECKS--YGGSYGYCWG-----LACWCEGLPDEK-TWKSETNT
+C---*
+>P1;gi|20140219|sp|Q9BKJ1|SCN2_MESMA Anti-neuroexcitation peptide II... [ score 47 E 1e-04 ] [ range 22 .. 81 ]
+sequence
+--DGYI-RGSNGCKVSCLW--GNDGCNKECRA--YGASYGYCWG-----LACWCEGLPDDK-TWKSESNT
+C---*
+>P1;gi|6685942|sp|P56743|SCX6_ANDAU Neurotoxin VI (AaH VI) (AaHVI) (... [ score 47 E 1e-04 ] [ range 2 .. 65 ]
+sequence
+-RDGYVVKNGTNCKYSCEIGSEYEYCGPLCKRKNAK--TGYCYA-----FACWCIDVPDDVKLYGDDGTY
+CS--*
+>P1;gi|20140338|sp|Q9UAC8|SCAT_MESMA Neurotoxin BmK AS-1 precursor >... [ score 47 E 1e-04 ] [ range 22 .. 71 ]
+sequence
+---GYLLNKYTGCKIWC--VINNESCNSECKLR--RGNYGYCYK-----LACYCEGAPKS----------
+----*
+>P1;gi|4883634|gb|AAD31592.1| depressant insect toxin BmK ITa precur... [ score 46 E 2e-04 ] [ range 22 .. 81 ]
+sequence
+--DGYI-RGSNGCKVSCLW--GNEGCNKECRA--YGASYGYCWG-----LACWCQGLPDDK-TWKSESNT
+C---*
+>P1;gi|41018157|sp|Q9Y1U3|SIXD_MESMA Depressant insect neurotoxin Bm... [ score 45 E 3e-04 ] [ range 22 .. 81 ]
+sequence
+--DGYI-RGSDGCKVSCLW--GNDFCDKVCKKS--GGSYGYCWG-----LACWCEGLPDNEK-WKYESNT
+C---*
+>P1;gi|39932433|sp|Q8T3T0|SIXA_MESMA Depressant insect toxin BmK ITa... [ score 45 E 6e-04 ] [ range 22 .. 81 ]
+sequence
+--DGYI-RGSNGCKVSCLW--GNEGCNKECGA--YGASYGYCWG-----LACWCEGLPDDK-TWKSESNT
+C---*
+>P1;gi|3138983|gb|AAC16698.1| neurotoxin AEP2 precursor [Mesobuthus ... [ score 44 E 7e-04 ] [ range 22 .. 81 ]
+sequence
+--DGYI-RGSNGCKVSCLW--GNEGCNKECKA--FGAYYGYCWG-----LACWCEGLPDDK-TWKSESNT
+C---*
+>P1;gi|102794|pir||A39306 alpha insect toxin precursor - scorpion (L... [ score 123 E 1e-27 ] [ range 20 .. 83 ]
+sequence
+VRDAYIAKN-YNCVYECFR---DAYCNELCTK--NGASSGYCQWAGKYGNACWCYALPDNVPIRV--PGK
+CH--*
+>P1;gi|6094252|sp|P45697|SCX1_MESMA Alpha-like neurotoxin BmK-I prec... [ score 121 E 3e-27 ] [ range 20 .. 83 ]
+sequence
+VRDAYIAKP-HNCVYECAR---NEYCNDLCTK--NGAKSGYCQWVGKYGNGCWCIELPDNVPIRV--PGK
+CH--*
+>P1;gi|37089608|sp|Q95P69|SCAA_MESMA Toxin BmKT precursor (BmK T) (A... [ score 119 E 1e-26 ] [ range 20 .. 83 ]
+sequence
+VRDGYIADD-KNCAYFCGR---NAYCDDECKK--NGAESGYCQWAGVYGNACWCYKLPDKVPIRV--PGK
+CN--*
+>P1;gi|34582353|sp|Q86BW9|MAK2_MESMA Makatoxin II precursor (MkTx II... [ score 117 E 6e-26 ] [ range 21 .. 82 ]
+sequence
+-RDAYIADS-ENCTYFCGS---NPYCNDLCTE--NGAKSGYCQWAGRYGNACWCIDLPDKVPIRI--PGP
+C---*
+>P1;gi|20143887|sp|Q9N682|SCXB_MESMA Neurotoxin BmK-XI precursor (Bm... [ score 117 E 7e-26 ] [ range 20 .. 83 ]
+sequence
+VRDAYIAKP-ENCVYHCAT---NEGCNKLCTD--NGAESGYCQWGGKYGNACWCIKLPDDVPIRV--PGK
+CH--*
+>P1;gi|1173401|sp|P45698|SCX9_MESMA Neurotoxin BmK-IX precursor (BmK... [ score 116 E 1e-25 ] [ range 15 .. 78 ]
+sequence
+VRDAYIAKP-ENCVYHCAT---NEGCNKLCTD--NGAESGYCQWGGRYGNACWCIKLPDRVPIRV--PGK
+CH--*
+>P1;gi|34922454|sp|P59853|MAK3_MESMA Makatoxin III precursor (MkTx III) [ score 115 E 2e-25 ] [ range 21 .. 82 ]
+sequence
+-RDAYIAKK-ENCTYFCAL---NPYCNDLCTK--NGAKSGYCQWAGRYGNACWCIDLPDKVPIRI--PGP
+C---*
+>P1;gi|20140305|sp|Q9NJC8|SC13_MESMA Alpha-neurotoxin TX13 precursor... [ score 115 E 2e-25 ] [ range 20 .. 83 ]
+sequence
+VRDAYIAKP-ENCVYHCAG---NEGCNKLCTD--NGAESGYCQWGGRYGNACWCIKLPDDVPIRV--PGK
+CH--*
+>P1;gi|37537934|sp|Q86SE0|SCX2_ANDAM Alpha-neurotoxin 2 precursor (A... [ score 113 E 9e-25 ] [ range 21 .. 84 ]
+sequence
+VRDGYIADA-GNCGYTCVA---NDYCNTECTK--NGAESGYCQWFGRYGNACWCIKLPDKVPIKV--PGK
+CN--*
+>P1;gi|3914965|sp|O61705|SCXA_MESMA Neurotoxin BmK-X precursor (BmKX... [ score 113 E 1e-24 ] [ range 20 .. 82 ]
+sequence
+VRDAYIAKP-ENCVYECGI---TQDCNKLCTE--NGAESGYCQWGGKYGNACWCIKLPDSVPIRV--PGK
+C---*
+>P1;gi|20140303|sp|Q9NJC5|SC10_MESMA Alpha-neurotoxin TX10 precursor... [ score 111 E 4e-24 ] [ range 20 .. 83 ]
+sequence
+VRDGYIALP-HNCAYGCLL---NEFCNDLCTK--NGAKIGYCNIQGKYGNACWCIELPDNVPIRV--PGR
+CH--*
+>P1;gi|20140245|sp|Q9GQW3|SC12_MESMA Alpha-neurotoxin TX12 precursor... [ score 110 E 1e-23 ] [ range 20 .. 83 ]
+sequence
+VRDAYIAQN-YNCVYHCAR---DAYCNELCTK--NGAKSGSCPYLGEHKFACYCKDLPDNVPIRV--PGK
+CH--*
+>P1;gi|29840807|sp|P59354|SCX4_BUTOM Alpha-like neurotoxin IV (Bom I... [ score 109 E 2e-23 ] [ range 2 .. 64 ]
+sequence
+-RDAYIAQP-ENCVYECAK---NSYCNDLCTK--NGAKSGYCQWLGKYGNACWCEDLPDNVPIRI--PGK
+CH--*
+>P1;gi|6910906|gb|AAF31295.1| neurotoxin TX11P [Buthus martensii] [ score 109 E 2e-23 ] [ range 20 .. 83 ]
+sequence
+VKDGYIADD-RNCPYFCGR---NAYCDGECKK--NRAESGYCQWASKYGNACWCYKLPDDARIMK--PGR
+CN--*
+>P1;gi|41017871|sp|P60257|SCXC_BUTOM Alpha-neurotoxin Bom alpha-6c [ score 109 E 2e-23 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAQN-YNCVYTCFK---DAHCNDLCTK--NGASSGYCQWAGKYGNACWCYALPDNVPIRI--PGK
+CH--*
+>P1;gi|134335|sp|P01488|SCX1_BUTOC Neurotoxin I (Bot I) (BotI) [ score 108 E 3e-23 ] [ range 2 .. 64 ]
+sequence
+-RDAYIAQP-ENCVYECAQ---NSYCNDLCTK--NGATSGYCQWLGKYGNACWCKDLPDNVPIRI--PGK
+CH--*
+>P1;gi|41017947|sp|Q7YXD3|SCX8_ANDMA Neurotoxin VIII precursor (Amm ... [ score 107 E 6e-23 ] [ range 20 .. 83 ]
+sequence
+LKDGYIVND-INCTYFCGR---NAYCNELCIK--LKGESGYCQWASPYGNSCYCYKLPDHVRTKG--PGR
+CN--*
+>P1;gi|20139988|sp|P58488|SCM2_MESMA Neurotoxin BmK-M2 (BmK M2) (BmK... [ score 107 E 6e-23 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAKP-HNCVYECAR---NEYCNNLCTK--NGAKSGYCQWSGKYGNGCWCIELPDNVPIRV--PGK
+CH--*
+>P1;gi|134361|sp|P01489|SCX4_LEIQU Neurotoxin IV (Lqq IV) (LqqIV) (L... [ score 107 E 6e-23 ] [ range 2 .. 64 ]
+sequence
+VRDAYIADD-KNCVYTCGS---NSYCNTECTK--NGAESGYCQWLGKYGNACWCIKLPDKVPIRI--PGK
+C---*
+>P1;gi|39932247|sp|P83644|SCX4_LEIQH Neurotoxin Lqh IV (LqhIV) (Lqh4... [ score 107 E 9e-23 ] [ range 2 .. 64 ]
+sequence
+VRDAYIADD-KNCVYTCGA---NSYCNTECTK--NGAESGYCQWFGKYGNACWCIKLPDKVPIRI--PGK
+C---*
+>P1;gi|34970622|sp|P59360|SCX2_MESMA Neurotoxin BmK-II (BmK II) (BmK... [ score 106 E 1e-22 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAKP-HNCVYECAR---NEYCNDLCTK--DGAKSGYCQWVGKYGNGCWCIELPDNVPIRI--PGN
+CH--*
+>P1;gi|134345|sp|P01483|SCX2_BUTOC Neurotoxin II (Bot II) (BotII) >g... [ score 106 E 2e-22 ] [ range 2 .. 64 ]
+sequence
+-RDAYIAQP-ENCVYECAK---NSYCNDLCTK--NGAKSGYCQWLGRWGNACYCIDLPDKVPIRI--EGK
+CH--*
+>P1;gi|37089698|sp|Q9BLM4|SCXA_ANDAU Neurotoxin pcD-1005 precursor >... [ score 105 E 2e-22 ] [ range 21 .. 83 ]
+sequence
+-KDGYIVDD-KNCTFFCGR---NAYCNDECKK--KGAESGYCQWASPYGNACYCYKLPDRVSTKK--KGG
+CN--*
+>P1;gi|41017869|sp|P60255|SCXA_BUTOM Alpha-neurotoxin Bom alpha-6a [ score 105 E 3e-22 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAQN-YNCVYDCAR---DAYCNDLCTK--NGAKSGYCEWFGPHGDACWCIDLPNNVPIKV--EGK
+CH--*
+>P1;gi|20140302|sp|Q9NJC4|SC17_MESMA Alpha-neurotoxin TX17 precursor... [ score 105 E 4e-22 ] [ range 10 .. 72 ]
+sequence
+-RDAYIAKN-YNCVYHCFR---DDYCNGLCTE--NGADSGYCYLAGKYGNACWCINLPDDKPIRI--PGK
+CH--*
+>P1;gi|37089695|sp|Q9BLM3|SCXB_ANDAU Neurotoxin pcD-985 precursor >g... [ score 104 E 5e-22 ] [ range 20 .. 82 ]
+sequence
+-RDAYIAKN-DNCVYECFQ---DSYCNDLCTK--NGAKSGTCDWIGTYGDACLCYALPDNVPIKL--SGE
+CH--*
+>P1;gi|41017870|sp|P60256|SCXB_BUTOM Alpha-neurotoxin Bom alpha-6b [ score 104 E 5e-22 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAQN-YNCVYDCAR---DAYCNELCTK--NGAKSGHCEWFGPHGDACWCIDLPNNVPIKV--EGK
+CH--*
+>P1;gi|3914968|sp|P56569|MAK1_MESMA Makatoxin I (MkTx I) [ score 104 E 5e-22 ] [ range 2 .. 63 ]
+sequence
+-RDAYIADS-ENCTYTCAL---NPYCNDLCTK--NGAKSGYCQWAGRYGNACWCIDLPDKVPIRI--SGS
+C---*
+>P1;gi|134353|sp|P15227|SCX3_MESMA Neurotoxin BmK-III (BmKIII) (BmK ... [ score 104 E 6e-22 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAKP-ENCVYECAT---NEYCNKLCTD--NGAESGYCQWVGRYGNACACIKLPDRVPIRV--WGK
+CH--*
+>P1;gi|41017872|sp|P60258|SCXD_BUTOM Alpha-neurotoxin Bom alpha-6d [ score 102 E 3e-21 ] [ range 1 .. 68 ]
+sequence
+VRDAYIAQN-YNCVYHCGR---DAYCNELCSK--NGAKSGYCHWFGPHGDACWCIDLPNNVPIKV--EGK
+CH--*
+>P1;gi|13959549|sp|P82815|SCBK_MESMA Bukatoxin [ score 101 E 3e-21 ] [ range 1 .. 63 ]
+sequence
+VRDGYIADD-KNCAYFCGR---NAYCDEECII--NGAESGYCQQAGVYGNACWCYKLPDKVPIRV--SGE
+C---*
+>P1;gi|134354|sp|P01485|SCX3_BUTOC Neurotoxin III (Bot III) (BotIII)... [ score 100 E 9e-21 ] [ range 1 .. 64 ]
+sequence
+VKDGYIVDD-RNCTYFCGR---NAYCNEECTK--LKGESGYCQWASPYGNACYCYKVPDHVRTKG--PGR
+CN--*
+>P1;gi|134365|sp|P01481|SCX5_LEIQU Neurotoxin V (Lqq V) (Lqq5) >gi|6... [ score 100 E 1e-20 ] [ range 1 .. 64 ]
+sequence
+LKDGYIVDD-KNCTFFCGR---NAYCNDECKK--KGGESGYCQWASPYGNACWCYKLPDRVSIKE--KGR
+CN--*
+>P1;gi|34925067|sp|P59854|SCX7_MESMA Neurotoxin BmK-M7 (Bmk M7) (BmK... [ score 99 E 2e-20 ] [ range 1 .. 64 ]
+sequence
+VRDGYIALP-HNCAYGCLN---NEYCNNLCTK--DGAKIGYCNIVGKYGNACWCIQLPDNVPIRV--PGR
+CH--*
+>P1;gi|41017873|sp|P60259|SCXE_BUTOM Alpha-neurotoxin Bom alpha-6e [ score 99 E 2e-20 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAQN-YNCVYACAR---DAYCNDLCTK--NGARSGLFATFGPHGDACWCIALPNNVPLKV--QGK
+CH--*
+>P1;gi|134370|sp|P09981|SCX9_BUTEU Neurotoxin M9 (BeM9) >gi|69536|pi... [ score 99 E 3e-20 ] [ range 2 .. 66 ]
+sequence
+-RDAYIAKP-HNCVYECPK---GSYCNDLCTE--NGAESGYCQILGKYGNACWCIQLPDNVPIRI--PGK
+CH--*
+>P1;gi|134362|sp|P01482|SCX5_ANDMA Neurotoxin V (Amm V) (AmmV) (Amm5... [ score 98 E 4e-20 ] [ range 1 .. 64 ]
+sequence
+LKDGYIIDD-LNCTFFCGR---NAYCDDECKK--KGGESGYCQWASPYGNACWCYKLPDRVSIKE--KGR
+CN--*
+>P1;gi|134378|sp|P01486|SCXB_BUTOC Neurotoxin XI (BotXI) >gi|69531|p... [ score 97 E 7e-20 ] [ range 1 .. 63 ]
+sequence
+LKDGYIVDD-RNCTYFCGT---NAYCNEECVK--LKGESGYCQWVGRYGNACWCYKLPDHVRTVQ--AGR
+C---*
+>P1;gi|1711350|sp|P54135|SCX8_MESMA Neurotoxin BmK-VIII (BmKVIII) (B... [ score 97 E 9e-20 ] [ range 2 .. 63 ]
+sequence
+-RDAYIADS-ENCTYFCGS---NPYCNDVCTE--NGAKSGYCQWAGRYGNACYCIDLPASERIKE--PGK
+C---*
+>P1;gi|2194015|pdb|1SNB|  Structure Of Scorpion Neurotoxin Bmk M8 [ score 94 E 6e-19 ] [ range 2 .. 63 ]
+sequence
+-RDAYIADS-ENCTYFCGS---NPYCNDVCTE--NGAKSGYCQWAGRYGNACYCIDLPASERIKE--GGR
+C---*
+>P1;gi|401072|sp|P01480|SCX3_ANDAU Neurotoxin III precursor (AaH III... [ score 90 E 1e-17 ] [ range 20 .. 82 ]
+sequence
+VRDGYIVDS-KNCVYHCV-----PPCDGLCKK--NGAKSGSCGFLIPSGLACWCVALPDNVPIKD--PSK
+CH--*
+>P1;gi|134373|sp|P01490|SCXA_BUTEU Neurotoxin M10 (BeM10) >gi|69532|... [ score 88 E 5e-17 ] [ range 1 .. 65 ]
+sequence
+VRDGYIADD-KDCAYFCGR---NAYCDEEC-K--KGAESGKCWYAGQYGNACWCYKLPDWVPIKV--SGK
+CN--*
+>P1;gi|41017888|sp|P60277|SCX1_MESTA Neurotoxin >gi|12084146|pdb|1DQ... [ score 86 E 2e-16 ] [ range 2 .. 63 ]
+sequence
+-EDGYIADG-DNCTYICTF---NNYCHALCTD--KKGDSGACDWWVPYGVVCWCEDLPTPVPIRG--SGK
+C---*
+>P1;gi|28381400|sp|P45658|SCX4_ANDAU Neurotoxin IV precursor (AaH IV... [ score 82 E 3e-15 ] [ range 21 .. 82 ]
+sequence
+-RDGYIVDS-KNCVYHCY-----PPCDGLCKK--NGAKSGSCGFLVPSGLACWCNDLPENVPIKD--PSD
+CH--*
+>P1;gi|37537933|sp|Q86SD9|SCX3_ANDAM Alpha-neurotoxin 3 precursor (A... [ score 81 E 7e-15 ] [ range 21 .. 84 ]
+sequence
+-RDGYIAQP-NNCVYHCPL---SPGCDKLCRE--NGATSGKCSFLAGSGLACWCVALPDNVPIKI--IGK
+C---*
+>P1;gi|401070|sp|P01479|SCX1_ANDAU Neurotoxins I/I'/I'' precursor (A... [ score 79 E 2e-14 ] [ range 21 .. 79 ]
+sequence
+-RDGYIVYP-NNCVYHCV-----PPCDGLCKK--NGGSSGSCSFLVPSGLACWCKDLPDNVPIKD--TSR
+----*
+>P1;gi|3914975|sp|Q17254|SCXE_BUTOC Neurotoxin XIV precursor (Bot14)... [ score 79 E 2e-14 ] [ range 19 .. 84 ]
+sequence
+VRDGYIAQP-HNCAYHCLK---SSGCDTLCKE--NGATSGHCGHKSGHGSACWCKDLPDKVGIIV--HGK
+CH--*
+>P1;gi|4930278|pdb|1BMR|  Alpha-Like Toxin Lqh Iii From Scorpion Lei... [ score 73 E 2e-12 ] [ range 1 .. 66 ]
+sequence
+VRDGYIAQP-ENCVYHCFP---SSGCDTLCKE--KGGTSGHCGFKVGHGLACWCNALPDNVGIIV--EGK
+CH--*
+>P1;gi|29840808|sp|P59356|SCL6_LEIQH Alpha-like neurotoxin Lqh VI (L... [ score 68 E 5e-11 ] [ range 1 .. 63 ]
+sequence
+VRDGYIAQP-ENCVYHCI-----PDCDTLCKD--NGGTGGHCGFKLGHGIACWCNALPDNVGIIV--DGK
+CH--*
+>P1;gi|29840809|sp|P59357|SCL7_LEIQH Alpha-like neurotoxin Lqh VII (... [ score 66 E 2e-10 ] [ range 1 .. 66 ]
+sequence
+VRDGYIAKP-ENCAHHCFP---SSGCDTLCKE--NGGTGGHCGFKVGHGTACWCNALPDKVGIIV--DGK
+CH--*
+>P1;gi|134359|sp|P15225|SCX3_ORTSC Neurotoxin Os3 (Os-3) >gi|348503|... [ score 65 E 5e-10 ] [ range 2 .. 67 ]
+sequence
+VRDGYIAQP-HNCVYHCFP---GSGCDTLCKE--NGATQGSSCFILGRGTACWCKDLPDRVGVIV--DGK
+CH--*
+>P1;gi|1173404|sp|P46115|SCXV_TITSE Tityustoxin V (TsTX-V) (TsTXV) (... [ score 55 E 5e-07 ] [ range 2 .. 64 ]
+sequence
+-KDGYPVEG-DNCAFACFD---NAYCDKLCKD--KKADDGYCVW----SPDCYCYGLPEHIPTKT--SGR
+C---*
+>P1;gi|134368|sp|P04098|SCX8_BUTOC Neurotoxin VIII >gi|84683|pir||A0... [ score 54 E 1e-06 ] [ range 1 .. 36 ]
+sequence
+VRDAYIAQN-YNCVYTCFK---NDYCNDICTK--NGAAAGYC----------------------------
+----*
+>P1;gi|41018157|sp|Q9Y1U3|SIXD_MESMA Depressant insect neurotoxin Bm... [ score 52 E 3e-06 ] [ range 22 .. 75 ]
+sequence
+--DGYIRGS-DGCKVSCWG---NDFCDKVCKK--SGGSYGYCW---TWGLACWCEGLPDNEKWK------
+----*
+>P1;gi|3914973|sp|P56612|SCX7_TITST Toxin gamma precursor (Tst1) >gi... [ score 51 E 5e-06 ] [ range 21 .. 81 ]
+sequence
+-KEGYLMDH-EGCKLSCFI---RPYCGRECTL--KKGSSGYCAWP-----ACYCYGLPNWVKVRA--TNK
+C---*
+>P1;gi|3914972|sp|P56611|SCX7_TITBA Toxin gamma precursor (Tb1) >gi|... [ score 49 E 2e-05 ] [ range 21 .. 73 ]
+sequence
+-KEGYLMDH-EGCKLSCFI---RPYCGSECKI--KKGSSGYCAWP-----ACYCYGLPNWVKV-------
+----*
+>P1;gi|37089686|sp|Q9BLM1|SCXD_ANDAU Probable neurotoxin pcD-996 pre... [ score 49 E 4e-05 ] [ range 20 .. 71 ]
+sequence
+VRDGYFVEP-DNCLVYCMP---SPICDRGCKR--YGATSGFCKEFSKGENFCWCKGL-------------
+----*
+>P1;gi|2500709|sp|P80950|SCXL_ANDAU Neurotoxin-like protein STR1 (An... [ score 48 E 4e-05 ] [ range 2 .. 56 ]
+sequence
+-RDGYIVDG-TNCKYSCEF---GSYCGPLCEK--KKAKTGYC-----YLFACWCIEVPDEVRV-------
+----*
+>P1;gi|401073|sp|P15226|SCX7_TITSE Toxin VII precursor (TsTX-VII) (T... [ score 47 E 8e-05 ] [ range 21 .. 73 ]
+sequence
+-KEGYLMDH-EGCKLSCFI---RPYCGRECGI--KKGSSGYCAWP-----ACYCYGLPNWVKV-------
+----*
+>P1;gi|37087984|sp|P59863|SIX2_BUTOC Insect toxin 2 (Bot IT2) (BotIT2) [ score 46 E 2e-04 ] [ range 1 .. 49 ]
+sequence
+--DGYIKGY-KGCKITCVI---NDYCDTECKA--EGGTYGYCW---KWGLACWCEDLPD-----------
+----*
+>P1;gi|14285770|sp|P81504|SIX5_ANDAU Insect toxin 5 (AaH IT5) (AaHIT... [ score 45 E 4e-04 ] [ range 1 .. 50 ]
+sequence
+--DGYIKRH-DGCKVTCLI---NDYCDTECKR--EGGSYGYCYSV---GFACWCEGLPDD----------
+----*
+>P1;gi|3915874|sp|P15223|SCX1_CENNO Toxin 1 precursor (Toxin II.14) ... [ score 45 E 5e-04 ] [ range 20 .. 75 ]
+sequence
+-KDGYLVDA-KGCKKNCGK---NDYCNRECKH--RGGSYGYC-----YGFGCYCEGLSDSTPT-------
+----*
+>P1;gi|134371|sp|P04099|SCX9_BUTOC Neurotoxin IX >gi|84681|pir||A051... [ score 44 E 7e-04 ] [ range 5 .. 31 ]
+sequence
+VRDGYIVYP-NNCVYHCGL---DPYCNDLCT---------------------------------------
+----*
+>P1;gi|6685942|sp|P56743|SCX6_ANDAU Neurotoxin VI (AaH VI) (AaHVI) (... [ score 44 E 8e-04 ] [ range 2 .. 56 ]
+sequence
+-RDGYVVKN-GNCKYSCEI---GSYCGPLCKR--KNAKTGYC-----YAFACWCIDVPDDVKL-------
+----*
+>P1;gi|37537933|sp|Q86SD9|SCX3_ANDAM Alpha-neurotoxin 3 precursor (A... [ score 95 E 4e-19 ] [ range 21 .. 84 ]
+sequence
+-RDGYIAQP-NNCVYHCIP---SPGCDKLCREN--GATSGKCSFLAGSGLACWCVALPDNVPIKI--IGK
+C---*
+>P1;gi|2507370|sp|P01496|SCX1_TITSE Toxin IV-5 precursor (Ts3) (Tity... [ score 64 E 1e-09 ] [ range 15 .. 75 ]
+sequence
+-KDGYPVEY-DNCAYICYD---NAYCDKLCKDK--KADSGYCYWV---HILCYCYGLPDSEPTKT--NGK
+C---*
+>P1;gi|39932433|sp|Q8T3T0|SIXA_MESMA Depressant insect toxin BmK ITa... [ score 46 E 2e-04 ] [ range 22 .. 71 ]
+sequence
+--DGYIRGS-NGCKVSCLG---NEGCNKECGAY--GASYGYCW---TWGLACWCEGLPDD----------
+----*
+>P1;gi|134370|sp|P09981|SCX9_BUTEU Neurotoxin M9 (BeM9) >gi|69536|pi... [ score 79 E 2e-14 ] [ range 2 .. 66 ]
+sequence
+-RDAYIAKP-HNCVYECYN---GSYCNDLCTEN--GAESGYCQIL---GKACWCIQLPDNVPIRI--PGK
+CH--*
+>P1;gi|2507370|sp|P01496|SCX1_TITSE Toxin IV-5 precursor (Ts3) (Tity... [ score 78 E 6e-14 ] [ range 14 .. 75 ]
+sequence
+KKDGYPVEY-DNCAYICWN---NAYCDKLCKDK--KADSGYCYWV---HILCYCYGLPDSEPTKT--NGK
+C---*
+>P1;gi|3914969|sp|P56608|SCX1_TITBA Toxin IV-5 (Tb3) >gi|2148092|pir... [ score 73 E 2e-12 ] [ range 1 .. 62 ]
+sequence
+KKDGYPVEA-DNCAFVCFG---NAYCDKLCGDK--KADSGYCYWV---HILCYCYGLPDNEPTKT--NGK
+C---*
+>P1;gi|22001685|sp|P58910|KURT_PARTR Kurtoxin (Ktx) [ score 71 E 6e-12 ] [ range 1 .. 61 ]
+sequence
+KIDGYPVDY-WNCKRICWN---NKYCNDLCKGL--KADSGYCWGW---TLSCYCQGLPDNARIKR--SGR
+C---*
+>P1;gi|28558122|sp|O77463|NTXP_TITSE Non-toxic protein NTxP precurso... [ score 67 E 9e-11 ] [ range 21 .. 76 ]
+sequence
+-REGYPADS-KGCKITCFL---TAYCNTECTLK--KGSSGYCAW-----PACYCYGLPDSVKIWT--S--
+----*
+>P1;gi|37537933|sp|Q86SD9|SCX3_ANDAM Alpha-neurotoxin 3 precursor (A... [ score 67 E 9e-11 ] [ range 21 .. 84 ]
+sequence
+-RDGYIAQP-NNCVYHCIL---SPGCDKLCREN--GATSGKCAGS---GLACWCVALPDNVPIKI--IGK
+C---*
+>P1;gi|3914975|sp|Q17254|SCXE_BUTOC Neurotoxin XIV precursor (Bot14)... [ score 64 E 8e-10 ] [ range 20 .. 84 ]
+sequence
+-RDGYIAQP-HNCAYHCLK---SSGCDTLCKEN--GATSGHCSGH---GSACWCKDLPDKVGIIV--HGK
+CH--*
+>P1;gi|3649606|gb|AAC61256.1| insect neurotoxin precursor [Buthus ma... [ score 62 E 3e-09 ] [ range 19 .. 71 ]
+sequence
+KKNGYAVDS-SGKVAECLF---NNYCNNECTKY--YADKGYCCLL---K--CYCFGLADDKPV-------
+----*
+>P1;gi|4930278|pdb|1BMR|  Alpha-Like Toxin Lqh Iii From Scorpion Lei... [ score 61 E 6e-09 ] [ range 2 .. 66 ]
+sequence
+-RDGYIAQP-ENCVYHCFG---SSGCDTLCKEK--GGTSGHCVGH---GLACWCNALPDNVGIIV--EGK
+CH--*
+>P1;gi|1173404|sp|P46115|SCXV_TITSE Tityustoxin V (TsTX-V) (TsTXV) (... [ score 61 E 7e-09 ] [ range 1 .. 64 ]
+sequence
+KKDGYPVEG-DNCAFACFG---NAYCDKLCKDK--KADDGYCVW----SPDCYCYGLPEHEPTKT--SGR
+C---*
+>P1;gi|20535852|sp|P58296|SCXB_CENNO Neurotoxin Cn11 [ score 60 E 9e-09 ] [ range 2 .. 57 ]
+sequence
+-RDGYPVDE-KGCKLSCLI---NDWCNSACHSR--GGKYGYCYTG---GLACYCEAVPDNVKVWT-----
+----*
+>P1;gi|134355|sp|P13488|SCX3_BUTOM Alpha-like neurotoxin III (Bom II... [ score 60 E 1e-08 ] [ range 2 .. 66 ]
+sequence
+-RDGYIAQP-ENCVYHCFG---SSGCDTLCKEK--GATSGHCGFS---GVACWCDNLPNKVPIVV--GGK
+CH--*
+>P1;gi|39932433|sp|Q8T3T0|SIXA_MESMA Depressant insect toxin BmK ITa... [ score 58 E 6e-08 ] [ range 22 .. 72 ]
+sequence
+--DGYIRGS-NGCKVSCWG---NEGCNKECGAY--GASYGYCWTW---GLACWCEGLPDDK---------
+----*
+>P1;gi|37088131|sp|Q26292|SIX2_LEIQH Insect toxin 2 precursor (Lqh I... [ score 58 E 7e-08 ] [ range 22 .. 72 ]
+sequence
+--DGYIKRR-DGCKVACLG---NEGCDKECKAY--GGSYGYCWTW---GLACWCEGLPDDK---------
+----*
+>P1;gi|29840808|sp|P59356|SCL6_LEIQH Alpha-like neurotoxin Lqh VI (L... [ score 57 E 1e-07 ] [ range 2 .. 63 ]
+sequence
+-RDGYIAQP-ENCVYHCIP---D--CDTLCKDN--GGTGGHCLGH---GIACWCNALPDNVGIIV--DGK
+CH--*
+>P1;gi|3914986|sp|O61668|SIX1_MESMA Excitatory insect selective toxi... [ score 56 E 2e-07 ] [ range 19 .. 69 ]
+sequence
+KKNGYAVDS-SGKVSECLL---NNYCNNICTKY--YATSGYCCL-----LSCYCFGLDDDK---------
+----*
+>P1;gi|3273105|emb|CAA07277.1| insecticidal toxin [Orthochirus scrob... [ score 56 E 2e-07 ] [ range 1 .. 51 ]
+sequence
+--DGYPKQK-DGCKYSCTI---NKFCNSVCKSN--GGDYGYCWFW---GLACWCEGLPDNK---------
+----*
+>P1;gi|134359|sp|P15225|SCX3_ORTSC Neurotoxin Os3 (Os-3) >gi|348503|... [ score 55 E 4e-07 ] [ range 3 .. 67 ]
+sequence
+-RDGYIAQP-HNCVYHCFG---SGGCDTLCKEN--GATQGSSCFI---GTACWCKDLPDRVGVIV--DGK
+CH--*
+>P1;gi|58309|emb|CAA41265.1| Hector insect toxin [synthetic construct] [ score 55 E 5e-07 ] [ range 39 .. 91 ]
+sequence
+KKNGYAVDS-SGKAPECLL---SNYCNNQCTKH--YADKGYCCL-----LSCYCFGLNDDKKV-------
+----*
+>P1;gi|29840809|sp|P59357|SCL7_LEIQH Alpha-like neurotoxin Lqh VII (... [ score 54 E 7e-07 ] [ range 2 .. 66 ]
+sequence
+-RDGYIAKP-ENCAHHCFG---SSGCDTLCKEN--GGTGGHCVGH---GTACWCNALPDKVGIIV--DGK
+CH--*
+>P1;gi|134344|sp|P24336|SIX2_BUTJU Depressant insect toxin 2 precurs... [ score 54 E 1e-06 ] [ range 22 .. 72 ]
+sequence
+--DGYIRKK-DGCKVSCIG---NEGCRKECVAH--GGSFGYCWTW---GLACWCENLPDAV---------
+----*
+>P1;gi|6094296|sp|P56637|SIXE_BUTJU Excitatory insect toxin Bjxtr-IT... [ score 52 E 2e-06 ] [ range 19 .. 76 ]
+sequence
+KKNGYPLDR-NGKTTECSG---VNYCNSECTKY--YAESGYCCWG-----ACYCFGLEDDKPI-------
+----*
+>P1;gi|17380308|sp|P82813|SIX3_BUTSI Insect toxin 3 (BsIT3) (Bs-dprI... [ score 51 E 7e-06 ] [ range 1 .. 61 ]
+sequence
+--DGYILNS-KGCKVSCVV---SVYCNSMCKSS--GGSYGYCWTW---GLACWCEGLPNSKRTSS--KNK
+CN--*
+>P1;gi|37087984|sp|P59863|SIX2_BUTOC Insect toxin 2 (Bot IT2) (BotIT2) [ score 50 E 1e-05 ] [ range 1 .. 52 ]
+sequence
+--DGYIKGY-KGCKITCVN---DDYCDTECKAE--GGTYGYCWKW---GLACWCEDLPDEKR--------
+----*
+>P1;gi|2500709|sp|P80950|SCXL_ANDAU Neurotoxin-like protein STR1 (An... [ score 50 E 1e-05 ] [ range 2 .. 57 ]
+sequence
+-RDGYIVDG-TNCKYSCEF---YKYCGPLCEKK--KAKTGYCYL-----FACWCIEVPDEVRVW------
+----*
+>P1;gi|37089892|sp|Q9NBW2|SCBT_MESMA Insect beta-neurotoxin BmK abT ... [ score 50 E 1e-05 ] [ range 20 .. 73 ]
+sequence
+KKSGYPTDH-EGCKNWCVL---NHSCGILCEGY--GG-SGYCYFW---KLACWCDDIHNWVPTW------
+----*
+>P1;gi|17380307|sp|P82812|SIX2_BUTSI Insect toxin 2 (BsIT2) (Bs-dprI... [ score 50 E 1e-05 ] [ range 1 .. 52 ]
+sequence
+--DGYIKKS-KGCKVSCVI---NNYCNSMCKSL--GGSYGYCWTY---GLACWCEGLPNAKR--------
+----*
+>P1;gi|17380309|sp|P82814|SIX4_BUTSI Insect toxin 4 (BsIT4) (Bs-dprI... [ score 49 E 2e-05 ] [ range 1 .. 48 ]
+sequence
+--DGYIKGN-KGCKVSCVI---NNFCNSMCKSS--GGSYGYCWSW---GLACWCEGLP------------
+----*
+>P1;gi|3122868|sp|P81240|SIX5_LEIQH Insect toxin 5 (Lqh IT5) (LqhIT5... [ score 47 E 9e-05 ] [ range 1 .. 48 ]
+sequence
+--DGYIRGG-DGCKVSCVI---DHFCDNECKAA--GGSYGYCWGW---GLACWCEGLP------------
+----*
+>P1;gi|37089683|sp|Q9BLM0|SCXC_ANDAU Probable neurotoxin pcD-993 pre... [ score 46 E 2e-04 ] [ range 21 .. 71 ]
+sequence
+-RDGYFVEP-DNCVVHCMS---SEMCDRGCKHN--GATSGSCKAG---GNACWCKGL-------------
+----*
+>P1;gi|84679|pir||S02174 anti-epilepsy protein - Manchurian scorpion... [ score 45 E 5e-04 ] [ range 1 .. 49 ]
+sequence
+--DGYIRGS-DNCKVSCLG---NEGCNKECRAY--GASYGYCWTV---KLAQDCEGLPD-----------
+----*
+>P1;gi|20141665|sp|P01492|SCX1_CENSC Neurotoxin 1 precursor (CsEv1) ... [ score 45 E 6e-04 ] [ range 20 .. 76 ]
+sequence
+-KEGYLVKS-DGCKYDCFK---NEHCDTECKAK--GGSYGYCY-----AFACWCEGLPESTPT-------
+----*
+>P1;gi|134340|sp|P19856|SIX1_LEIQU Insect toxins 1 and 1' (Insect to... [ score 44 E 7e-04 ] [ range 1 .. 53 ]
+sequence
+KKNGYAVDS-SGKAPECLL---SNYCYNECTKH--YADKGYCCL-----LSCYCVGLSDDKKV-------
+----*
+>P1;gi|16444992|gb|AAL23428.1| sodium-channel modifier toxin precurs... [ score 44 E 8e-04 ] [ range 20 .. 76 ]
+sequence
+-KDGYLVEK-TGCKKTCYK---NDFCNRECKWK--HIGGSYGYFY---GFGCYCEGLPDSTQTW------
+----*
+>P1;gi|6094252|sp|P45697|SCX1_MESMA Alpha-like neurotoxin BmK-I prec... [ score 115 E 3e-25 ] [ range 20 .. 83 ]
+sequence
+VRDAYIAKP-HNCVYEC-A--RNEYCNDLCTKN--GAKSGYCQWVGKYGNGCWCIELPDNVPIRVP-G-K
+CH--*
+>P1;gi|20143887|sp|Q9N682|SCXB_MESMA Neurotoxin BmK-XI precursor (Bm... [ score 112 E 2e-24 ] [ range 20 .. 83 ]
+sequence
+VRDAYIAKP-ENCVYHC-A--TNEGCNKLCTDN--GAESGYCQWGGKYGNACWCIKLPDDVPIRVP-G-K
+CH--*
+>P1;gi|20140305|sp|Q9NJC8|SC13_MESMA Alpha-neurotoxin TX13 precursor... [ score 112 E 3e-24 ] [ range 20 .. 83 ]
+sequence
+VRDAYIAKP-ENCVYHC-A--GNEGCNKLCTDN--GAESGYCQWGGRYGNACWCIKLPDDVPIRVP-G-K
+CH--*
+>P1;gi|7438619|pir||JE0143 anti-mammals neurotoxin Bmk9 precursor - ... [ score 110 E 5e-24 ] [ range 20 .. 83 ]
+sequence
+VRDAYIAKP-ENCVYHC-A--TNEGCNKLCTDN--GAESGYCQWGGRYGNACWCIKLPERVPIRVP-G-K
+CH--*
+>P1;gi|37537933|sp|Q86SD9|SCX3_ANDAM Alpha-neurotoxin 3 precursor (A... [ score 109 E 2e-23 ] [ range 21 .. 84 ]
+sequence
+-RDGYIAQP-NNCVYHCIP--LSPGCDKLCREN--GATSGKCSFLAGSGLACWCVALPDNVPIKII-GQK
+C---*
+>P1;gi|3914975|sp|Q17254|SCXE_BUTOC Neurotoxin XIV precursor (Bot14)... [ score 109 E 2e-23 ] [ range 19 .. 84 ]
+sequence
+VRDGYIAQP-HNCAYHCLK--ISSGCDTLCKEN--GATSGHCGHKSGHGSACWCKDLPDKVGIIVH-GEK
+CH--*
+>P1;gi|34582353|sp|Q86BW9|MAK2_MESMA Makatoxin II precursor (MkTx II... [ score 106 E 1e-22 ] [ range 21 .. 81 ]
+sequence
+-RDAYIADS-ENCTYFC-G--SNPYCNDLCTEN--GAKSGYCQWAGRYGNACWCIDLPDKVPIRIP-GP-
+----*
+>P1;gi|34922454|sp|P59853|MAK3_MESMA Makatoxin III precursor (MkTx III) [ score 106 E 2e-22 ] [ range 21 .. 81 ]
+sequence
+-RDAYIAKK-ENCTYFC-A--LNPYCNDLCTKN--GAKSGYCQWAGRYGNACWCIDLPDKVPIRIP-GP-
+----*
+>P1;gi|401072|sp|P01480|SCX3_ANDAU Neurotoxin III precursor (AaH III... [ score 105 E 2e-22 ] [ range 20 .. 83 ]
+sequence
+VRDGYIVDS-KNCVYHCVP-----PCDGLCKKN--GAKSGSCGFLIPSGLACWCVALPDNVPIKDP-SYK
+CHS-*
+>P1;gi|37089608|sp|Q95P69|SCAA_MESMA Toxin BmKT precursor (BmK T) (A... [ score 105 E 3e-22 ] [ range 20 .. 81 ]
+sequence
+VRDGYIADD-KNCAYFC-G--RNAYCDDECKKN--GAESGYCQWAGVYGNACWCYKLPDKVPIRVP-GK-
+----*
+>P1;gi|3914965|sp|O61705|SCXA_MESMA Neurotoxin BmK-X precursor (BmKX... [ score 105 E 3e-22 ] [ range 20 .. 81 ]
+sequence
+VRDAYIAKP-ENCVYEC-G--ITQDCNKLCTEN--GAESGYCQWGGKYGNACWCIKLPDSVPIRVP-GK-
+----*
+>P1;gi|134335|sp|P01488|SCX1_BUTOC Neurotoxin I (Bot I) (BotI) [ score 104 E 8e-22 ] [ range 2 .. 64 ]
+sequence
+-RDAYIAQP-ENCVYEC-A--QNSYCNDLCTKN--GATSGYCQWLGKYGNACWCKDLPDNVPIRIP-G-K
+CH--*
+>P1;gi|20140245|sp|Q9GQW3|SC12_MESMA Alpha-neurotoxin TX12 precursor... [ score 104 E 8e-22 ] [ range 20 .. 83 ]
+sequence
+VRDAYIAQN-YNCVYHC-A--RDAYCNELCTKN--GAKSGSCPYLGEHKFACYCKDLPDNVPIRVP-G-K
+CH--*
+>P1;gi|2500701|sp|P55902|SIX1_BUTOC Insect toxin 1 (BotIT1) [ score 103 E 1e-21 ] [ range 1 .. 65 ]
+sequence
+VRDAYIAQN-YNCVYFCM---KDDYCNDLCTKN--GASSGYCQWAGKYGNACWCYALPDNVPIRIP-G-K
+CHS-*
+>P1;gi|37537934|sp|Q86SE0|SCX2_ANDAM Alpha-neurotoxin 2 precursor (A... [ score 103 E 1e-21 ] [ range 21 .. 82 ]
+sequence
+VRDGYIADA-GNCGYTCVA---NDYCNTECTKN--GAESGYCQWFGRYGNACWCIKLPDKVPIKVP-GK-
+----*
+>P1;gi|29840807|sp|P59354|SCX4_BUTOM Alpha-like neurotoxin IV (Bom I... [ score 102 E 2e-21 ] [ range 2 .. 64 ]
+sequence
+-RDAYIAQP-ENCVYEC-A--KNSYCNDLCTKN--GAKSGYCQWLGKYGNACWCEDLPDNVPIRIP-G-K
+CH--*
+>P1;gi|20139988|sp|P58488|SCM2_MESMA Neurotoxin BmK-M2 (BmK M2) (BmK... [ score 101 E 5e-21 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAKP-HNCVYEC-A--RNEYCNNLCTKN--GAKSGYCQWSGKYGNGCWCIELPDNVPIRVP-G-K
+CH--*
+>P1;gi|34970622|sp|P59360|SCX2_MESMA Neurotoxin BmK-II (BmK II) (BmK... [ score 100 E 1e-20 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAKP-HNCVYEC-A--RNEYCNDLCTKD--GAKSGYCQWVGKYGNGCWCIELPDNVPIRIP-GN-
+CH--*
+>P1;gi|134345|sp|P01483|SCX2_BUTOC Neurotoxin II (Bot II) (BotII) >g... [ score 99 E 2e-20 ] [ range 2 .. 64 ]
+sequence
+-RDAYIAQP-ENCVYEC-A--KNSYCNDLCTKN--GAKSGYCQWLGRWGNACYCIDLPDKVPIRIE-G-K
+CH--*
+>P1;gi|134370|sp|P09981|SCX9_BUTEU Neurotoxin M9 (BeM9) >gi|69536|pi... [ score 99 E 2e-20 ] [ range 2 .. 66 ]
+sequence
+-RDAYIAKP-HNCVYECYP--KGSYCNDLCTEN--GAESGYCQILGKYGNACWCIQLPDNVPIRIP-G-K
+CH--*
+>P1;gi|134359|sp|P15225|SCX3_ORTSC Neurotoxin Os3 (Os-3) >gi|348503|... [ score 99 E 3e-20 ] [ range 2 .. 67 ]
+sequence
+VRDGYIAQP-HNCVYHCFP--GSGGCDTLCKEN--GATQGSSCFILGRGTACWCKDLPDRVGVIVD-GEK
+CH--*
+>P1;gi|134355|sp|P13488|SCX3_BUTOM Alpha-like neurotoxin III (Bom II... [ score 99 E 3e-20 ] [ range 2 .. 66 ]
+sequence
+-RDGYIAQP-ENCVYHCFP--GSSGCDTLCKEK--GATSGHCGFLPGSGVACWCDNLPNKVPIVVG-GEK
+CH--*
+>P1;gi|29840809|sp|P59357|SCL7_LEIQH Alpha-like neurotoxin Lqh VII (... [ score 98 E 5e-20 ] [ range 1 .. 66 ]
+sequence
+VRDGYIAKP-ENCAHHCFP--GSSGCDTLCKEN--GGTGGHCGFKVGHGTACWCNALPDKVGIIVD-GVK
+CH--*
+>P1;gi|28381400|sp|P45658|SCX4_ANDAU Neurotoxin IV precursor (AaH IV... [ score 98 E 6e-20 ] [ range 21 .. 82 ]
+sequence
+-RDGYIVDS-KNCVYHCYP-----PCDGLCKKN--GAKSGSCGFLVPSGLACWCNDLPENVPIKDP-SDD
+CH--*
+>P1;gi|41017869|sp|P60255|SCXA_BUTOM Alpha-neurotoxin Bom alpha-6a [ score 97 E 7e-20 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAQN-YNCVYDC-A--RDAYCNDLCTKN--GAKSGYCEWFGPHGDACWCIDLPNNVPIKVE-G-K
+CH--*
+>P1;gi|134361|sp|P01489|SCX4_LEIQU Neurotoxin IV (Lqq IV) (LqqIV) (L... [ score 97 E 7e-20 ] [ range 2 .. 63 ]
+sequence
+VRDAYIADD-KNCVYTC-G--SNSYCNTECTKN--GAESGYCQWLGKYGNACWCIKLPDKVPIRIP-GK-
+----*
+>P1;gi|2144667|pir||NTSRI2 neurotoxin I' precursor - Sahara scorpion... [ score 97 E 7e-20 ] [ range 21 .. 81 ]
+sequence
+-RDGYIVYP-NNCVYHCIP-----PCDGLCKKN--GGSSGSCSFLVPSGLACWCKDLPDNVPIKDT-SRK
+C---*
+>P1;gi|37089695|sp|Q9BLM3|SCXB_ANDAU Neurotoxin pcD-985 precursor >g... [ score 97 E 8e-20 ] [ range 20 .. 82 ]
+sequence
+-RDAYIAKN-DNCVYECF---QDSYCNDLCTKN--GAKSGTCDWIGTYGDACLCYALPDNVPIKLS-GE-
+CH--*
+>P1;gi|39932247|sp|P83644|SCX4_LEIQH Neurotoxin Lqh IV (LqhIV) (Lqh4... [ score 97 E 8e-20 ] [ range 2 .. 63 ]
+sequence
+VRDAYIADD-KNCVYTCGA---NSYCNTECTKN--GAESGYCQWFGKYGNACWCIKLPDKVPIRIP-GK-
+----*
+>P1;gi|41017870|sp|P60256|SCXB_BUTOM Alpha-neurotoxin Bom alpha-6b [ score 97 E 9e-20 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAQN-YNCVYDC-A--RDAYCNELCTKN--GAKSGHCEWFGPHGDACWCIDLPNNVPIKVE-G-K
+CH--*
+>P1;gi|37537935|sp|Q86SE1|SCX1_ANDAM Alpha-neurotoxin 1 precursor (A... [ score 97 E 1e-19 ] [ range 20 .. 82 ]
+sequence
+VRDGYIVYP-HNCVYHCIP--S---CDGLCKEN--GATSGSCGYIIKVGIACWCKDLPENVPIYDR-SYK
+CY--*
+>P1;gi|134353|sp|P15227|SCX3_MESMA Neurotoxin BmK-III (BmKIII) (BmK ... [ score 96 E 2e-19 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAKP-ENCVYEC-A--TNEYCNKLCTDN--GAESGYCQWVGRYGNACACIKLPDRVPIRVW-G-K
+CH--*
+>P1;gi|3914968|sp|P56569|MAK1_MESMA Makatoxin I (MkTx I) [ score 94 E 7e-19 ] [ range 2 .. 61 ]
+sequence
+-RDAYIADS-ENCTYTC-A--LNPYCNDLCTKN--GAKSGYCQWAGRYGNACWCIDLPDKVPIRIS-G--
+----*
+>P1;gi|6910906|gb|AAF31295.1| neurotoxin TX11P [Buthus martensii] [ score 94 E 1e-18 ] [ range 20 .. 80 ]
+sequence
+VKDGYIADD-RNCPYFC-G--RNAYCDGECKKN--RAESGYCQWASKYGNACWCYKLPDDARIMKP-G--
+----*
+>P1;gi|41017872|sp|P60258|SCXD_BUTOM Alpha-neurotoxin Bom alpha-6d [ score 94 E 1e-18 ] [ range 1 .. 68 ]
+sequence
+VRDAYIAQN-YNCVYHC-G--RDAYCNELCSKN--GAKSGYCHWFGPHGDACWCIDLPNNVPIKVE-G-K
+CH--*
+>P1;gi|29840808|sp|P59356|SCL6_LEIQH Alpha-like neurotoxin Lqh VI (L... [ score 92 E 2e-18 ] [ range 1 .. 63 ]
+sequence
+VRDGYIAQP-ENCVYHCIP--D---CDTLCKDN--GGTGGHCGFKLGHGIACWCNALPDNVGIIVD-GVK
+CH--*
+>P1;gi|41017873|sp|P60259|SCXE_BUTOM Alpha-neurotoxin Bom alpha-6e [ score 91 E 5e-18 ] [ range 1 .. 64 ]
+sequence
+VRDAYIAQN-YNCVYAC-A--RDAYCNDLCTKN--GARSGLFATFGPHGDACWCIALPNNVPLKVQ-G-K
+CH--*
+>P1;gi|134341|sp|P15224|SCX1_ORTSC Neurotoxin Os1 (Os-1) >gi|348502|... [ score 91 E 7e-18 ] [ range 2 .. 66 ]
+sequence
+-RDGYIVQL-HNCVYHC-G--LNPYCNGLCTKN--GATSGYCQWMTKWGNACYCYALPDKVPIKWL-DPK
+CY--*
+>P1;gi|134376|sp|P09982|SCXE_BUTEU Neurotoxin M14 (BeM14) >gi|69537|... [ score 90 E 1e-17 ] [ range 2 .. 65 ]
+sequence
+-RDAYIADD-RNCVYTC-A--LNPYCDSECKKN--GADGSYCQWLGRFGNACWCKNLPDDVPIRIP-GEE
+C---*
+>P1;gi|13959549|sp|P82815|SCBK_MESMA Bukatoxin [ score 90 E 1e-17 ] [ range 1 .. 62 ]
+sequence
+VRDGYIADD-KNCAYFC-G--RNAYCDEECIIN--GAESGYCQQAGVYGNACWCYKLPDKVPIRVS-GE-
+----*
+>P1;gi|37089683|sp|Q9BLM0|SCXC_ANDAU Probable neurotoxin pcD-993 pre... [ score 87 E 7e-17 ] [ range 20 .. 71 ]
+sequence
+VRDGYFVEP-DNCVVHCMP--SSEMCDRGCKHN--GATSGSCKAFSKGGNACWCKGL-------------
+----*
+>P1;gi|37089698|sp|Q9BLM4|SCXA_ANDAU Neurotoxin pcD-1005 precursor >... [ score 86 E 3e-16 ] [ range 21 .. 80 ]
+sequence
+-KDGYIVDD-KNCTFFC-G--RNAYCNDECKKK--GAESGYCQWASPYGNACYCYKLPDRVSTKKK-G--
+----*
+>P1;gi|401071|sp|P01484|SCX2_ANDAU Neurotoxin II precursor (AaH II) ... [ score 86 E 3e-16 ] [ range 20 .. 83 ]
+sequence
+VKDGYIVDD-VNCTYFC-G--RNAYCNEECTKL--KGESGYCQWASPYGNACYCYKLPDHVRTKGP-G-R
+CH--*
+>P1;gi|37089691|sp|Q9BLM2|SCXE_ANDAU Probable neurotoxin pcD-1008 pr... [ score 83 E 2e-15 ] [ range 20 .. 71 ]
+sequence
+VRDGYFVEP-DNCVIYCMP--SSEVCDRGCKHN--GATSGTCKEFSKGGNVCWCKGL-------------
+----*
+>P1;gi|134365|sp|P01481|SCX5_LEIQU Neurotoxin V (Lqq V) (Lqq5) >gi|6... [ score 82 E 3e-15 ] [ range 1 .. 61 ]
+sequence
+LKDGYIVDD-KNCTFFC-G--RNAYCNDECKKK--GGESGYCQWASPYGNACWCYKLPDRVSIKEK-G--
+----*
+>P1;gi|1711350|sp|P54135|SCX8_MESMA Neurotoxin BmK-VIII (BmKVIII) (B... [ score 82 E 3e-15 ] [ range 2 .. 62 ]
+sequence
+-RDAYIADS-ENCTYFC-G--SNPYCNDVCTEN--GAKSGYCQWAGRYGNACYCIDLPASERIKEP-GK-
+----*
+>P1;gi|134362|sp|P01482|SCX5_ANDMA Neurotoxin V (Amm V) (AmmV) (Amm5... [ score 81 E 6e-15 ] [ range 1 .. 61 ]
+sequence
+LKDGYIIDD-LNCTFFC-G--RNAYCDDECKKK--GGESGYCQWASPYGNACWCYKLPDRVSIKEK-G--
+----*
+>P1;gi|41018157|sp|Q9Y1U3|SIXD_MESMA Depressant insect neurotoxin Bm... [ score 81 E 6e-15 ] [ range 22 .. 83 ]
+sequence
+--DGYIRGS-DGCKVSCLW--GNDFCDKVCKKS--GGSYGYCW---TWGLACWCEGLPDNEKWKYE-SNT
+CGS-*
+>P1;gi|2194015|pdb|1SNB|  Structure Of Scorpion Neurotoxin Bmk M8 [ score 80 E 1e-14 ] [ range 2 .. 62 ]
+sequence
+-RDAYIADS-ENCTYFC-G--SNPYCNDVCTEN--GAKSGYCQWAGRYGNACYCIDLPASERIKEG-GR-
+----*
+>P1;gi|41017947|sp|Q7YXD3|SCX8_ANDMA Neurotoxin VIII precursor (Amm ... [ score 78 E 4e-14 ] [ range 20 .. 80 ]
+sequence
+LKDGYIVND-INCTYFC-G--RNAYCNELCIKL--KGESGYCQWASPYGNSCYCYKLPDHVRTKGP-G--
+----*
+>P1;gi|37089686|sp|Q9BLM1|SCXD_ANDAU Probable neurotoxin pcD-996 pre... [ score 77 E 7e-14 ] [ range 20 .. 71 ]
+sequence
+VRDGYFVEP-DNCLVYCMP--SPEICDRGCKRY--GATSGFCKEFSKGENFCWCKGL-------------
+----*
+>P1;gi|21667339|gb|AAM74029.1| depressant insect toxin 2 [Leiurus qu... [ score 77 E 8e-14 ] [ range 22 .. 82 ]
+sequence
+--DGYIRKR-DGCKVSCLF--GNEGCDKECKAY--GGSYGYCW---TWGLACWCEGLPDDKTWKSE-TNT
+CG--*
+>P1;gi|21667335|gb|AAM74027.1| depressant insect toxin 2 [Leiurus qu... [ score 76 E 2e-13 ] [ range 22 .. 82 ]
+sequence
+--DGYIRKR-DGCKVSCLF--GNEGCDKECKSY--GGSYGYCW---TWGLACWCEGLPDEKTWKSE-TNT
+CG--*
+>P1;gi|37999923|sp|P19855|SIX2_LEIQU Depressant insect toxin 2 precu... [ score 76 E 2e-13 ] [ range 22 .. 82 ]
+sequence
+--DGYIRKR-DGCKLSCLF--GNEGCNKECKSY--GGSYGYCW---TWGLACWCEGLPDDKTWKSE-TNT
+CG--*
+>P1;gi|37088131|sp|Q26292|SIX2_LEIQH Insect toxin 2 precursor (Lqh I... [ score 76 E 2e-13 ] [ range 22 .. 82 ]
+sequence
+--DGYIKRR-DGCKVACLI--GNEGCDKECKAY--GGSYGYCW---TWGLACWCEGLPDDKTWKSE-TNT
+CG--*
+>P1;gi|4883634|gb|AAD31592.1| depressant insect toxin BmK ITa precur... [ score 75 E 4e-13 ] [ range 22 .. 82 ]
+sequence
+--DGYIRGS-NGCKVSCLW--GNEGCNKECRAY--GASYGYCW---TWGLACWCQGLPDDKTWKSE-SNT
+CG--*
+>P1;gi|134354|sp|P01485|SCX3_BUTOC Neurotoxin III (Bot III) (BotIII)... [ score 74 E 7e-13 ] [ range 1 .. 61 ]
+sequence
+VKDGYIVDD-RNCTYFC-G--RNAYCNEECTKL--KGESGYCQWASPYGNACYCYKVPDHVRTKGP-G--
+----*
+>P1;gi|3138983|gb|AAC16698.1| neurotoxin AEP2 precursor [Mesobuthus ... [ score 74 E 1e-12 ] [ range 22 .. 82 ]
+sequence
+--DGYIRGS-NGCKVSCLW--GNEGCNKECKAF--GAYYGYCW---TWGLACWCEGLPDDKTWKSE-SNT
+CG--*
+>P1;gi|39932422|sp|Q8I0K7|SIX2_MESMA Depressant scorpion toxin BmKIM... [ score 72 E 2e-12 ] [ range 22 .. 82 ]
+sequence
+--DGYIRGS-NGCKISCLW--GNEGCNKECKGF--GAYYGYCW---TWGLACWCEGLPDDKTWKSE-SNT
+CG--*
+>P1;gi|37999913|sp|P15228|AEP_MESMA Anti-epilepsy peptide precursor ... [ score 72 E 3e-12 ] [ range 22 .. 82 ]
+sequence
+--DGYIRGS-NGCKVSCLL--GNEGCNKECRAY--GASYGYCW---TWKLACWCQGLPDDKTWKSE-SNT
+CG--*
+>P1;gi|134344|sp|P24336|SIX2_BUTJU Depressant insect toxin 2 precurs... [ score 69 E 2e-11 ] [ range 22 .. 82 ]
+sequence
+--DGYIRKK-DGCKVSCII--GNEGCRKECVAH--GGSFGYCW---TWGLACWCENLPDAVTWKSS-TNT
+CG--*
+>P1;gi|3273105|emb|CAA07277.1| insecticidal toxin [Orthochirus scrob... [ score 62 E 3e-09 ] [ range 1 .. 61 ]
+sequence
+--DGYPKQK-DGCKYSCTI--NHKFCNSVCKSN--GGDYGYCWF---WGLACWCEGLPDNKMWKYE-TNT
+CG--*
+>P1;gi|37087984|sp|P59863|SIX2_BUTOC Insect toxin 2 (Bot IT2) (BotIT2) [ score 62 E 4e-09 ] [ range 1 .. 60 ]
+sequence
+--DGYIKGY-KGCKITCVI--NDDYCDTECKAE--GGTYGYCW---KWGLACWCEDLPDEKRWKSE-TNT
+C---*
+>P1;gi|41017888|sp|P60277|SCX1_MESTA Neurotoxin >gi|12084146|pdb|1DQ... [ score 62 E 4e-09 ] [ range 3 .. 62 ]
+sequence
+--DGYIADG-DNCTYICTF--NN-YCHALCTDK--KGDSGACDWWVPYGVVCWCEDLPTPVPIRGS-GK-
+----*
+>P1;gi|17380307|sp|P82812|SIX2_BUTSI Insect toxin 2 (BsIT2) (Bs-dprI... [ score 60 E 1e-08 ] [ range 1 .. 60 ]
+sequence
+--DGYIKKS-KGCKVSCVI--NNVYCNSMCKSL--GGSYGYCW---TYGLACWCEGLPNAKRWKYE-TKT
+C---*
+>P1;gi|14285770|sp|P81504|SIX5_ANDAU Insect toxin 5 (AaH IT5) (AaHIT... [ score 60 E 2e-08 ] [ range 1 .. 60 ]
+sequence
+--DGYIKRH-DGCKVTCLI--NDNYCDTECKRE--GGSYGYCYSV---GFACWCEGLPDDKAWKSE-TNT
+C---*
+>P1;gi|3122868|sp|P81240|SIX5_LEIQH Insect toxin 5 (Lqh IT5) (LqhIT5... [ score 58 E 6e-08 ] [ range 1 .. 61 ]
+sequence
+--DGYIRGG-DGCKVSCVI--DHVFCDNECKAA--GGSYGYCW---GWGLACWCEGLPADREWKYE-TNT
+CG--*
+>P1;gi|17380308|sp|P82813|SIX3_BUTSI Insect toxin 3 (BsIT3) (Bs-dprI... [ score 56 E 2e-07 ] [ range 1 .. 60 ]
+sequence
+--DGYILNS-KGCKVSCVV--SIVYCNSMCKSS--GGSYGYCW---TWGLACWCEGLPNSKRWTSS-KNK
+C---*
+>P1;gi|37087990|sp|P59864|SIX6_BUTOC Insect toxin 6 (BotIT6) [ score 56 E 2e-07 ] [ range 1 .. 61 ]
+sequence
+--DGYPKQK-NGCKYDCII--NNKWCNGICKMH--GGYYGYCW---GWGLACWCEGLPEDKKWWYE-TNK
+CG--*
+>P1;gi|2507370|sp|P01496|SCX1_TITSE Toxin IV-5 precursor (Ts3) (Tity... [ score 53 E 2e-06 ] [ range 15 .. 77 ]
+sequence
+-KDGYPVEY-DNCAYICWY--DNAYCDKLCKDK--KADSGYCYWVH---ILCYCYGLPDSEPTKTN-G-K
+CKS-*
+>P1;gi|84679|pir||S02174 anti-epilepsy protein - Manchurian scorpion... [ score 52 E 3e-06 ] [ range 1 .. 49 ]
+sequence
+--DGYIRGS-DNCKVSCLL--GNEGCNKECRAY--GASYGYCWTVK---LAQDCEGLPD-----------
+----*
+>P1;gi|3914969|sp|P56608|SCX1_TITBA Toxin IV-5 (Tb3) >gi|2148092|pir... [ score 51 E 6e-06 ] [ range 2 .. 61 ]
+sequence
+-KDGYPVEA-DNCAFVCFG--DNAYCDKLCGDK--KADSGYCYWVH---ILCYCYGLPDNEPTKTN-GK-
+----*
+>P1;gi|17380306|sp|P82811|SIX1_BUTSI Insect toxin 1 (BsIT1) (Bs-dprI... [ score 50 E 1e-05 ] [ range 1 .. 50 ]
+sequence
+--DGYILMR-NGCKIPCLF--GNDGCNKECKAY--GGSYGYCW---TYGLACACEGQPED----------
+----*
+>P1;gi|22001685|sp|P58910|KURT_PARTR Kurtoxin (Ktx) [ score 50 E 2e-05 ] [ range 3 .. 59 ]
+sequence
+--DGYPVDY-WNCKRICWY--NNKYCNDLCKGL--KADSGYCW---GWTLSCYCQGLPDNARIKRS-G--
+----*
+>P1;gi|1173397|sp|P46066|SCXV_CENSC Neurotoxin V (CsE-V) (CsEV) (B14... [ score 50 E 2e-05 ] [ range 2 .. 59 ]
+sequence
+-KDGYPVDS-GNCKYECL---KDDYCNDLCLER--KADKGYCYWGKVS---CYCYGLPDNSPTKTS-GK-
+----*
+>P1;gi|16444986|gb|AAL23425.1| sodium-channel modifier toxin precurs... [ score 49 E 4e-05 ] [ range 20 .. 75 ]
+sequence
+-REGYLVKS-TGCKYGCLG--ENEGCDKECKAK--GGSYGYC-----YAFACWCEGLPESTP--------
+----*
+>P1;gi|6685942|sp|P56743|SCX6_ANDAU Neurotoxin VI (AaH VI) (AaHVI) (... [ score 49 E 4e-05 ] [ range 2 .. 66 ]
+sequence
+-RDGYVVKN-GNCKYSCEI--GSEYCGPLCKRK--NAKTGYC-----YAFACWCIDVPDDVKLYDD-GTY
+CSS-*
+>P1;gi|16444980|gb|AAL23422.1| sodium-channel modifier toxin precurs... [ score 48 E 5e-05 ] [ range 20 .. 75 ]
+sequence
+-KEGYLVKS-DGCKYDCFW--LNEGCDKECKAK--GGSYGYC-----YAFACWCEGLPESTP--------
+----*
+>P1;gi|16444974|gb|AAL23419.1| sodium-channel modifier toxin precurs... [ score 47 E 8e-05 ] [ range 21 .. 82 ]
+sequence
+--DGYFDKR-KRCTLECMT--GDKNCDRNCKKE--GGSFGKCSYF-----ACWCKGLPGITPIRTP-GKT
+C---*
+>P1;gi|20141665|sp|P01492|SCX1_CENSC Neurotoxin 1 precursor (CsEv1) ... [ score 47 E 8e-05 ] [ range 20 .. 75 ]
+sequence
+-KEGYLVKS-DGCKYDCFW--KNEHCDTECKAK--GGSYGYC-----YAFACWCEGLPESTP--------
+----*
+>P1;gi|2500709|sp|P80950|SCXL_ANDAU Neurotoxin-like protein STR1 (An... [ score 47 E 1e-04 ] [ range 2 .. 56 ]
+sequence
+-RDGYIVHD-GNCKYSCEF--GSEYCGPLCEKK--KAKTGYC-----YLFACWCIEVPDEVRV-------
+----*
+>P1;gi|39932337|sp|Q7Z1K7|SCXB_CENLL Sodium-channel modifier toxin C... [ score 47 E 1e-04 ] [ range 20 .. 75 ]
+sequence
+-KEGYLVKS-TGCKYGCFW--KNENCDKECKAK--GGSYGYC-----YSFACWCEGLPDSTP--------
+----*
+>P1;gi|3915874|sp|P15223|SCX1_CENNO Toxin 1 precursor (Toxin II.14) ... [ score 47 E 1e-04 ] [ range 20 .. 83 ]
+sequence
+-KDGYLVDA-KGCKKNCLG--KNDYCNRECKHR--GGSYGYC-----YGFGCYCEGLSDSTPWPLP-NKT
+C---*
+>P1;gi|37089118|sp|Q8WRY4|SCX9_CENLL Sodium-channel modifier neuroto... [ score 46 E 2e-04 ] [ range 21 .. 82 ]
+sequence
+--DGYFDKR-KRCTLACIT--GDKNCDRNCKKE--GGSFGHCSYS-----ACWCKGLPGSTPIRTP-GKT
+C---*
+>P1;gi|1173400|sp|P45665|SCXY_CENNO Toxin CngtIV precursor >gi|48442... [ score 46 E 3e-04 ] [ range 20 .. 84 ]
+sequence
+-KDGYLVDV-KGCKKNCLG--ENDYCNRECKHR--GGSYGYC-----YGFGCYCEGLSDSTPWPLP-NKR
+CG--*
+>P1;gi|1173398|sp|P45664|SCX6_CENNO Toxin CnGTIII precursor >gi|4844... [ score 45 E 4e-04 ] [ range 20 .. 75 ]
+sequence
+-KEGYLVKS-TGCKYGCFW--KNEGCDKECKAK--GGSYGYC-----YAFGCWCEGLPESTP--------
+----*
+>P1;gi|3914973|sp|P56612|SCX7_TITST Toxin gamma precursor (Tst1) >gi... [ score 45 E 4e-04 ] [ range 21 .. 73 ]
+sequence
+-KEGYLMDH-EGCKLSCFI--RPSYCGRECTLK--KGSSGYCAWP-----ACYCYGLPNWVKV-------
+----*
+>P1;gi|1173396|sp|P45663|SCX5_CENNO Toxin CnGTII precursor >gi|48442... [ score 45 E 5e-04 ] [ range 20 .. 75 ]
+sequence
+-KEGYLVKS-TGCKYGCLG--KNEGCDKECKAK--GGSYGYC-----YAFGCWCEGLPESTP--------
+----*
+>P1;gi|20178267|sp|P01491|SCXI_CENSC Neurotoxin I precursor (CsEI) (... [ score 45 E 5e-04 ] [ range 20 .. 84 ]
+sequence
+-KDGYLVEK-TGCKKTCLG--ENDFCNRECKHI--GGSYGYC-----YGFGCYCEGLPDSTQWPLP-NKT
+CG--*
+>P1;gi|20178110|sp|Q95WC9|SCX9_CENSC Neurotoxin 9 precursor (CsE9) >... [ score 44 E 7e-04 ] [ range 21 .. 82 ]
+sequence
+--DGYFDKR-KRCTLECIT--GDKNCDRNCKNE--GGSFGKCSYF-----ACWCKGLPGITPIRTP-GKT
+C---*
+>P1;gi|24638215|sp|P83435|SCX4_TITFA Neurotoxin 4 (Tf4) [ score 44 E 9e-04 ] [ range 2 .. 50 ]
+sequence
+-KEGYPADS-KGCKVTCFF--GVGYCDTECKLK--KASSGYCAWP-----ACYCYGLPD-----------
+----*
+>P1;gi|37087994|sp|P59865|SCX7_CENLL Sodium-channel modifier neuroto... [ score 44 E 0.001 ] [ range 20 .. 83 ]
+sequence
+-KEGYLVNT-YGCKYICLG--ENKYCIDECKEI--GAGYGYC-----YGFGCYCEGFPENKPWPLP-NKT
+CG--*

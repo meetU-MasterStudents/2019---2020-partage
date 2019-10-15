@@ -1,0 +1,324 @@
+>P1;1kjs
+structureX:1kjs:   1 : :  74 : :complement C5a anaphylatoxin:Homo sapiens: -1: -1
+MLQKKIEEIAAKYKHSVVKKCCYDGACVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDM
+QLGR*
+>P1;1c5a
+structureX:1c5a:   1 : :  65 : :complement C5a anaphylatoxin:Sus scrofa: -1: -1
+MLQKKIEEEAAKYKYAMLKKCCYDGAYRNDDETCEERAARIKIGPKCVKAFKDCCYIANQVRAEQ-----
+----*
+>P1;gi|34853897|ref|XP_345343.1| complement component 5 [Rattus norv... [ score 138 E 3e-32 ] [ range 668 .. 741 ]
+sequence
+LLHQKVEEQAAKYKHRVPKKCCYDGARENKYETCEQRVARVTIGPHCIRAFNECCTIADKIRKESHHKGM
+LLGR*
+>P1;gi|6754164|ref|NP_034536.1| hemolytic complement [Mus musculus] ... [ score 136 E 9e-32 ] [ range 682 .. 755 ]
+sequence
+LLRQKIEEQAAKYKHSVPKKCCYDGARVNFYETCEERVARVTIGPLCIRAFNECCTIANKIRKESPHKPV
+QLGR*
+>P1;gi|30725720|ref|NP_849216.1| expressed sequence AI182371 [Mus mu... [ score 124 E 6e-28 ] [ range 257 .. 328 ]
+sequence
+-LRQKINEQASTYKHPMIKKCCYDGARYNIHETCVQRAARVKIGPICVKAFTLCCNMAHQILENSTFKHI
+HLS-*
+>P1;gi|6753226|ref|NP_033910.1| complement component 4 (within H-2S)... [ score 114 E 4e-25 ] [ range 682 .. 753 ]
+sequence
+--QKAVSEKLGQYSSPDAKRCCQDGMTLPMKRTCEQRAARVPQQ-ACREPFLSCCKFAEDLRRNQTRSQA
+HLAR*
+>P1;gi|34852156|ref|XP_346597.1| hypothetical protein XP_346596 [Rat... [ score 114 E 4e-25 ] [ range 682 .. 753 ]
+sequence
+--QKAISEKLGQYSSPDTKRCCQDGMTLPMARTCEQRAARVP-QPACREPFLSCCKFAEDLRRNQTRSQA
+GLAR*
+>P1;gi|34882918|ref|XP_346864.1| hypothetical protein XP_346863 [Rat... [ score 111 E 6e-24 ] [ range 674 .. 748 ]
+sequence
+LMERRMDK-AGQYTDKGLRKCCEDGMRIPMKYSCQRRARLITQGESCLKAFMDCCNYITKLREQHRRDHL
+GLAR*
+>P1;gi|23956044|ref|NP_033908.1| complement component 3; complement ... [ score 110 E 9e-24 ] [ range 674 .. 748 ]
+sequence
+LMERRMDK-AGQYTDKGLRKCCEDGMRIPMRYSCQRRARLITQGENCIKAFIDCCNHITKLREQHRRDHL
+GLAR*
+>P1;gi|544053|sp|P12387|CO3_CAVPO Complement C3 precursor [Contains:... [ score 108 E 3e-23 ] [ range 679 .. 753 ]
+sequence
+LMERRMDK-AGKYKSKELRRCCEDGMRENPMQSCQRRARYVSLGEACVKAFLDCCTYMAQLRQQHRREQL
+GLAR*
+>P1;gi|2118416|pir||A57689 complement C5a - rat (fragment) >gi|91378... [ score 105 E 4e-22 ] [ range 4 .. 77 ]
+sequence
+LLHQKVEEQAAKYKHRVPKKCCYDGARENKYETCEQRVARVTIGPHCIRAFKECCTIADHIRKNESHKGM
+LLGR*
+>P1;gi|38649251|gb|AAH63289.1| Unknown (protein for MGC:71601) [Homo... [ score 103 E 8e-22 ] [ range 684 .. 756 ]
+sequence
+--QKAINEKLGQYASPTAKRCCQDGVRLPMMRSCEQRAARV-QQPDCWEPFLSCCQFAESLRKKSRDKQA
+GLQR*
+>P1;gi|116604|sp|P12082|CO5A_BOVIN Complement C5a anaphylatoxin >gi|... [ score 100 E 9e-21 ] [ range 1 .. 74 ]
+sequence
+MLKKKIEEEAAKYRNAWVKKCCYDGAHRNDDETCEERAARIAIGPECIKAFKSCCAIASQFRADEHHKNM
+QLGR*
+>P1;gi|758425|gb|AAB60608.1| complement component C3 >gi|1580935|prf... [ score 100 E 1e-20 ] [ range 604 .. 671 ]
+sequence
+--------KASEYKDK-AKKCCLDGMQENMGHTCDRRARYILDGKECVDAFVDCCKYYEKKREKISKDDD
+TLGR*
+>P1;gi|116606|sp|P08650|CO5A_RAT COMPLEMENT C5A ANAPHYLATOXIN [ score 99 E 2e-20 ] [ range 4 .. 76 ]
+sequence
+LLHQKVEEQAAKYKHRVPKKCCYDGARENKYETCEQRVARVTIGPHCIRAFKECCTI-DPIRKNQSHKGM
+LLGR*
+>P1;gi|40217259|emb|CAD66666.1| complement C4 [Oncorhynchus mykiss] [ score 99 E 2e-20 ] [ range 663 .. 738 ]
+sequence
+-LQEQMVSIKSSYSDAKLQECCSHGSLIAMLRTCQQRAERVARANKCVKAFLDCCIEGEKLREKKKRDDA
+QSG-*
+>P1;gi|37784204|gb|AAP40669.1| complement C4 [Oncorhynchus mykiss] [ score 99 E 3e-20 ] [ range 48 .. 123 ]
+sequence
+-LQEQMVSIKSSYSDAKLQECCSHGSLIPMLRTCQQRAERVARANKCVKAFLDCCIEGEKLREKKKRDDA
+QRG-*
+>P1;gi|28372361|gb|AAO38043.1| complement component C3 [Notophthalmu... [ score 97 E 1e-19 ] [ range 4 .. 69 ]
+sequence
+--------KAAKYK-GTERKCCEDGMKENMGHSCSKRARYIRETLECVNAFMDCCEFISKLRMEKRREQL
+FLSR*
+>P1;gi|11869931|gb|AAG40565.1| complement component C3 [Sus scrofa] ... [ score 94 E 6e-19 ] [ range 673 .. 746 ]
+sequence
+LMEKRMDK-LGQYS-KDVRRCCEHGMRDNMKFSCQRRAQFIQHGDACVKAFLDCCEYIAKLRQQHSRKPL
+GLAR*
+>P1;gi|2118417|pir||I51339 complement component C3 - rainbow trout (... [ score 91 E 6e-18 ] [ range 634 .. 702 ]
+sequence
+-----ITSMASKY-HGLAKECCVDGMRDNMGYTCDRRAQYISDGDVCVQAFLVCCTEMASKKIESKQDAL
+LLSR*
+>P1;gi|399269|sp|Q01833|CO3_NAJNA Complement C3 precursor [Contains:... [ score 90 E 1e-17 ] [ range 670 .. 738 ]
+sequence
+-------SKAAQFQDQGLRKCCEDGMHENMGYTCEKRAKYIQEGDACKAAFLECCHYIKGIRENQRESEL
+FLAR*
+>P1;gi|40786791|gb|AAR89906.1| complement component 3 [Homo sapiens] [ score 87 E 9e-17 ] [ range 675 .. 748 ]
+sequence
+LTEKRMDKV-GKYP-KELRKCCEDGMRENPMRSCQRRTRFISLGEACKKVFLDCCNYITELRRQHARSHL
+GLAR*
+>P1;gi|28372363|gb|AAO38044.1| complement component C5 [Notophthalmu... [ score 87 E 1e-16 ] [ range 29 .. 101 ]
+sequence
+---KRIEALNS-FKNIVMRKCCLDGMKYPTEETCEVRAGRIKDLPRCIEAFKRCCRLVEE-EEDYTGKTL
+ELAR*
+>P1;gi|15558820|emb|CAC69535.1| putative complement component c3 [Cr... [ score 86 E 3e-16 ] [ range 42 .. 117 ]
+sequence
+---QLIEHKASKYHDQKLKKCCEDGMYENMGHSCDKRAVYIQDTKECVAAFLDCCKYIKTIRDEKQREIL
+ELAR*
+>P1;gi|2118405|pir||I51018 cobra venom factor precursor - monocled c... [ score 85 E 5e-16 ] [ range 664 .. 732 ]
+sequence
+-------SKAAEFQDQDLRKCCEDVMHENMGYTCEKRAKYIQEGDACKAAFLECCRYIKGVRENQRESEL
+FLAR*
+>P1;gi|11613556|gb|AAC60015.2| complement component C3-3 [Oncorhynch... [ score 83 E 1e-15 ] [ range 626 .. 694 ]
+sequence
+-----VTTLASQYI-GLERQCCMDGMRKNIDYTCERRAQYISDGTDCVEAFLKCCREMATKREEAKTDQL
+ILAR*
+>P1;gi|45382303|ref|NP_990736.1| complement C3 alpha chain [Gallus g... [ score 82 E 4e-15 ] [ range 674 .. 740 ]
+sequence
+--------KMAEYSDKNLRKCCEDGIRKNMGYSCEKRATYVLDAKSCTEAFLSCCLYIKGIRDEERELQY
+ELAR*
+>P1;gi|4093220|gb|AAC99786.1| complement component 3 [Bos taurus] [ score 81 E 7e-15 ] [ range 41 .. 114 ]
+sequence
+LMEKRMDK-AGQYSS-DLRKCCEDGMRDNMKFPCQRRAQFILQGDACVKAFLDCCEYITQLRQQHSRDGA
+ELAR*
+>P1;gi|4126591|dbj|BAA36620.1| complement C3-H2 [Cyprinus carpio] [ score 79 E 3e-14 ] [ range 671 .. 737 ]
+sequence
+--------LAGKYS-GELKQCCVDGMRDNKGYTCERRAMYIIDGEECVKAFLDCCNQMKDRKNTETEEEM
+ILAR*
+>P1;gi|6682835|dbj|BAA88901.1| complement component C3 [Paralichthys... [ score 77 E 9e-14 ] [ range 676 .. 739 ]
+sequence
+-----------KYKNELQRECCSEGMKETILYTCEVRSEYILDGASCVDAFLHCCKEMENLRGEMKQDQL
+DLAR*
+>P1;gi|7209636|dbj|BAA92286.1| Orla C3-2 [Oryzias latipes] [ score 77 E 1e-13 ] [ range 673 .. 739 ]
+sequence
+--------LLSQYNEDFQRECCLDGMKDPVSYTCERRFEYILDGQACVDAFVTCCKEMEKQQLEKKEESL
+QLAR*
+>P1;gi|7209634|dbj|BAA92285.1| Orla C3-1 [Oryzias latipes] [ score 76 E 2e-13 ] [ range 673 .. 740 ]
+sequence
+--------LLSQYKEDLQRECCLDGMKDPVSYTCERRSEYIMDGQACVDAFVTCCKEMEKQQLEKKEESL
+QLAR*
+>P1;gi|31563308|sp||P01030_1 [Segment 1 of 3] Complement C4 precurso... [ score 76 E 2e-13 ] [ range 5 .. 77 ]
+sequence
+--QKAIHEKLGQYTSPVAKRCCQDGLRLPMARTCEQRAARV-QQPACREPFLSCCQFAESLRKKRTRGQV
+GLAR*
+>P1;gi|12957116|emb|CAC29154.1| complement component C3 [Anarhichas ... [ score 76 E 2e-13 ] [ range 674 .. 742 ]
+sequence
+------TSLLSQYKDQLQSDCCLDGMKETLLYTCERRSEYISDGGACVTAFLHCCKEMKAQRADRKEDSL
+LLAR*
+>P1;gi|7512155|pir||T30885 complement component C3 homolog - African... [ score 76 E 2e-13 ] [ range 671 .. 741 ]
+sequence
+--------KAYSYTTTELQRCCQHGMMLPMSRVCTKRAARVPD-PTCRKAFLDCCEYAENLRKQEKRKTQ
+GFGR*
+>P1;gi|4126587|dbj|BAA36618.1| complement C3-H1 [Cyprinus carpio] [ score 75 E 4e-13 ] [ range 669 .. 735 ]
+sequence
+--------LAGKYT-GELKQCCVDGMRDNKGYTCERRATYIVDGEECAKAFVDCCNKI-KDRKNTEEEEM
+LLAR*
+>P1;gi|11870062|gb|AAG40610.1| complement component C3-4 [Oncorhynch... [ score 75 E 4e-13 ] [ range 706 .. 771 ]
+sequence
+--------LASQYT-GLERQCCMDGMRNNIDYTCERRSQYISDGTECVGAFLKCCREMVTKGEEAKIDQL
+TLAR*
+>P1;gi|4126593|dbj|BAA36621.1| complement C3-S [Cyprinus carpio] [ score 75 E 4e-13 ] [ range 667 .. 727 ]
+sequence
+----KITSTLAEKYSGELKQCCVDGMRENKGYTCDRRSRYIADGKECVDAFLHCCNQM------KTHKDV
+----*
+>P1;gi|33386532|emb|CAD45003.1| complement component C4 [Takifugu ru... [ score 74 E 9e-13 ] [ range 662 .. 740 ]
+sequence
+-LEQEMLSLKYNYTDKSLQECCAKGSLIPMRRTCEERAQRISLQSPCVEVFLHCCRKGEHLRKQKMKEDA
+GLGR*
+>P1;gi|34555652|gb|AAQ74974.1| complement C3 [Ctenopharyngodon idella] [ score 71 E 5e-12 ] [ range 667 .. 731 ]
+sequence
+----------GKYS-GELKQCCIDGMRENKGYTCERRATYIVDGQECAKVFLHCCNEI-KTRKNMKEEEM
+ILAR*
+>P1;gi|4126595|dbj|BAA36622.1| complement C3-Q1 [Cyprinus carpio] [ score 71 E 8e-12 ] [ range 183 .. 238 ]
+sequence
+--------LAGKYP-GELKQCCVDGMRNNFGYTCERRATYIIDGEGCVKVFLECCNLM------KTHKNM
+----*
+>P1;gi|9453865|dbj|BAB03285.1| complement C4-2 [Cyprinus carpio] [ score 68 E 7e-11 ] [ range 662 .. 732 ]
+sequence
+-IQAEMAKKEAAFKKAELQKCCRHGFTIPMKFTCEERAKRVTESKECVKVFQECCEFATKLRDKKRKED-
+----*
+>P1;gi|116593|sp|P01025|CO3A_PIG Complement C3a anaphylatoxin >gi|62... [ score 65 E 5e-10 ] [ range 4 .. 77 ]
+sequence
+LMEKRMNK-LGQYS-KELRRCCEHGMRNNMKFSCQRRAQFIHQGNACVKAFLNCCEYIAKLRQQHSRKPL
+GLAR*
+>P1;gi|1352101|sp|Q00685|CO3_LAMJA Complement C3 precursor [Contains... [ score 64 E 9e-10 ] [ range 663 .. 724 ]
+sequence
+----QIRREAEKYTQ-EFRKCCVDGLKMPTGQGCEERLKRVTGPKECVDAFLQCCKKAEEYRKSES----
+----*
+>P1;gi|9453863|dbj|BAB03284.1| complement C4-1 [Cyprinus carpio] [ score 62 E 2e-09 ] [ range 672 .. 736 ]
+sequence
+---KKFNNVVNSFKGSD-RKCCLDGVRPNKMHTCDERLKRVEASKSCRKAFKMCCEAANERRRRETFE--
+----*
+>P1;gi|7209638|dbj|BAA92287.1| Orla C4 [Oryzias latipes] [ score 61 E 5e-09 ] [ range 665 .. 740 ]
+sequence
+-LQQEMNRLKSGYEDTELQLCCAQASLIPMKRTCRERAARVRLSEACAAAFEKCCTETEILRRRKILEEG
+QSG-*
+>P1;gi|34097968|dbj|BAC82347.1| complement C4 [Triakis scyllium] [ score 61 E 8e-09 ] [ range 658 .. 730 ]
+sequence
+-LQRQYAGKLNEYTDSRLRKCYTDGLTILMPHSCEERTSRVKELD-CRLVFQKCCDYGVELRKNQSLKVD
+SIAR*
+>P1;gi|557597|gb|AAA72712.1| synthetic human C3a gene [ score 61 E 1e-08 ] [ range 5 .. 78 ]
+sequence
+LTEKRMNKV-GKYP-KELRKCCEDGMRQNPMRSCQRRTRFISLGEACKKVFLDCCNYITELRRQHARSHL
+GLAR*
+>P1;gi|7512215|pir||T28153 complement C4 - chicken >gi|3129975|emb|C... [ score 59 E 4e-08 ] [ range 557 .. 627 ]
+sequence
+-LLKLLEEKAGPWRNTVMWRCCRDGATLPIRATCQQRGQRVTTAGGCRDAFLQCCEVAQNLRRKGQRGGL
+----*
+>P1;gi|1168986|sp|P98094|CO3_EPTBU Complement C3 [Contains: C3a anap... [ score 52 E 4e-06 ] [ range 646 .. 714 ]
+sequence
+-------EKASTYP-AELRKCCRDAAIESPLRSCEERTKHIHDGEGCQETFLECCKHVEELLIAMEEEDE
+DLGR*
+>P1;gi|24785187|dbj|BAC23058.1| complement component C5-2 [Cyprinus ... [ score 50 E 1e-05 ] [ range 685 .. 750 ]
+sequence
+----QMFEQKAK-KYGKFYSCCTFGASSPTLETCQQRSERLSYPAKCQQAFQECCGFAMKQRQENKDK--
+----*
+>P1;gi|13928544|dbj|BAB47146.1| complement component C3 [Branchiosto... [ score 46 E 2e-04 ] [ range 665 .. 722 ]
+sequence
+-LQNSLEAKVMEF-NETLQPCCMDGQQDPLGRSCLQRAKLSTSQDECYFAFLTCCNHA------------
+----*
+>P1;gi|544053|sp|P12387|CO3_CAVPO Complement C3 precursor [Contains:... [ score 106 E 1e-22 ] [ range 679 .. 742 ]
+sequence
+-LMERRMDKAGKYKSKELRRCCEDGMRENPMQSCQRRARYVSLGEACVKAFLDCCTYMAQLRQQ------
+----*
+>P1;gi|34852156|ref|XP_346597.1| hypothetical protein XP_346596 [Rat... [ score 100 E 6e-21 ] [ range 682 .. 744 ]
+sequence
+--QKAISEKLGQYSSPDTKRCCQDGMTKLPMRTCEQRAARVP-QPACREPFLSCCKFAEDLRRNQ-----
+----*
+>P1;gi|399269|sp|Q01833|CO3_NAJNA Complement C3 precursor [Contains:... [ score 99 E 3e-20 ] [ range 663 .. 727 ]
+sequence
+LLLDSKASKAAQFQDQGLRKCCEDGMHENPGYTCEKRAKYIQEGDACKAAFLECCHYIKGIRDE------
+----*
+>P1;gi|6753226|ref|NP_033910.1| complement component 4 (within H-2S)... [ score 97 E 1e-19 ] [ range 682 .. 744 ]
+sequence
+--QKAVSEKLGQYSSPDAKRCCQDGMTKLPMRTCEQRAARVP-QQACREPFLSCCKFAEDLRRNQ-----
+----*
+>P1;gi|4502501|ref|NP_000583.1| complement component 4B proprotein [... [ score 96 E 2e-19 ] [ range 684 .. 744 ]
+sequence
+--QKAINEKLGQYASPTAKRCCQDGVTRLPMRSCEQRAARVQ-QPDCREPFLSCCQFAESLRK-------
+----*
+>P1;gi|8393024|ref|NP_058690.1| complement component 3 [Rattus norve... [ score 92 E 3e-18 ] [ range 674 .. 737 ]
+sequence
+-LMERRMDKAGQYTDKGLRKCCEDGMRDIPMYSCQRRARLITQGESCLKAFMDCCNYITKLREQ------
+----*
+>P1;gi|2118405|pir||I51018 cobra venom factor precursor - monocled c... [ score 92 E 4e-18 ] [ range 665 .. 721 ]
+sequence
+--------KAAEFQDQDLRKCCEDVMHENPGYTCEKRAKYIQEGDACKAAFLECCRYIKGVRDE------
+----*
+>P1;gi|23956044|ref|NP_033908.1| complement component 3; complement ... [ score 90 E 1e-17 ] [ range 674 .. 737 ]
+sequence
+-LMERRMDKAGQYTDKGLRKCCEDGMRDIPMYSCQRRARLITQGENCIKAFIDCCNHITKLREQ------
+----*
+>P1;gi|11869931|gb|AAG40565.1| complement component C3 [Sus scrofa] ... [ score 88 E 5e-17 ] [ range 673 .. 735 ]
+sequence
+-LMEKRMDKLGQY-SKDVRRCCEHGMRDNPMKSCQRRAQFIQHGDACVKAFLDCCEYIAKLRQQ------
+----*
+>P1;gi|40786791|gb|AAR89906.1| complement component 3 [Homo sapiens] [ score 86 E 2e-16 ] [ range 675 .. 737 ]
+sequence
+-LTEKRMDKVGKY-PKELRKCCEDGMRENPMRSCQRRTRFISLGEACKKVFLDCCNYITELRRQ------
+----*
+>P1;gi|4126587|dbj|BAA36618.1| complement C3-H1 [Cyprinus carpio] [ score 80 E 1e-14 ] [ range 670 .. 720 ]
+sequence
+---------AGKYT-GELKQCCVDGMRDNKGYTCERRATYIVDGEECAKAFVDCCNKIKD----------
+----*
+>P1;gi|758425|gb|AAB60608.1| complement component C3 >gi|1580935|prf... [ score 79 E 3e-14 ] [ range 604 .. 660 ]
+sequence
+--------KASEYKDK-AKKCCLDGMQENMGHTCDRRARYILDGKECVDAFVDCCKYYEKKREAE-----
+----*
+>P1;gi|28372363|gb|AAO38044.1| complement component C5 [Notophthalmu... [ score 77 E 1e-13 ] [ range 29 .. 88 ]
+sequence
+----KRIEALNSFKNIVMRKCCLDGMKYPTEETCEVRAGRIKDLPRCIEAFKRCCRLVEE----------
+----*
+>P1;gi|4093220|gb|AAC99786.1| complement component 3 [Bos taurus] [ score 77 E 1e-13 ] [ range 41 .. 103 ]
+sequence
+-LMEKRMDKAGQYSS-DLRKCCEDGMRDNPMKPCQRRAQFILQGDACVKAFLDCCEYITQLRQQ------
+----*
+>P1;gi|4126595|dbj|BAA36622.1| complement C3-Q1 [Cyprinus carpio] [ score 73 E 1e-12 ] [ range 184 .. 233 ]
+sequence
+---------AGKY-PGELKQCCVDGMRNNKGYTCERRATYIIDGEGCVKVFLECCNLMK-----------
+----*
+>P1;gi|31563308|sp||P01030_1 [Segment 1 of 3] Complement C4 precurso... [ score 71 E 6e-12 ] [ range 5 .. 65 ]
+sequence
+--QKAIHEKLGQYTSPVAKRCCQDGLTRLPMRTCEQRAARVQ-QPACREPFLSCCQFAESLRK-------
+----*
+>P1;gi|7512155|pir||T30885 complement component C3 homolog - African... [ score 70 E 1e-11 ] [ range 669 .. 728 ]
+sequence
+------QQKAYSYTTTELQRCCQHGMMLPPGRVCTKRAARVPD-PTCRKAFLDCCEYAENLRKQ------
+----*
+>P1;gi|12957116|emb|CAC29154.1| complement component C3 [Anarhichas ... [ score 65 E 4e-10 ] [ range 677 .. 733 ]
+sequence
+---------LSQYKDQLQSDCCLDGMKELLNYTCERRSEYISDGGACVTAFLHCCKEMKAQRADR-----
+----*
+>P1;gi|1352101|sp|Q00685|CO3_LAMJA Complement C3 precursor [Contains... [ score 65 E 5e-10 ] [ range 661 .. 723 ]
+sequence
+MLQ--IRREAEKYT-QEFRKCCVDGLKMSPGQGCEERLKRVTGPKECVDAFLQCCKKAEEYRKSE-----
+----*
+>P1;gi|7209636|dbj|BAA92286.1| Orla C3-2 [Oryzias latipes] [ score 62 E 2e-09 ] [ range 674 .. 730 ]
+sequence
+---------LSQYNEDFQRECCLDGMKDSPSYTCERRFEYILDGQACVDAFVTCCKEMEKQQLEK-----
+----*
+>P1;gi|7209634|dbj|BAA92285.1| Orla C3-1 [Oryzias latipes] [ score 62 E 3e-09 ] [ range 674 .. 731 ]
+sequence
+---------LSQYKEDLQRECCLDGMKDSPSYTCERRSEYIMDGQACVDAFVTCCKEMEKQQLEK-----
+----*
+>P1;gi|557597|gb|AAA72712.1| synthetic human C3a gene [ score 62 E 3e-09 ] [ range 5 .. 67 ]
+sequence
+-LTEKRMNKVGKY-PKELRKCCEDGMRQNPMRSCQRRTRFISLGEACKKVFLDCCNYITELRRQ------
+----*
+>P1;gi|116593|sp|P01025|CO3A_PIG Complement C3a anaphylatoxin >gi|62... [ score 60 E 1e-08 ] [ range 4 .. 66 ]
+sequence
+-LMEKRMNKLGQY-SKELRRCCEHGMRNNPMKSCQRRAQFIHQGNACVKAFLNCCEYIAKLRQQ------
+----*
+>P1;gi|37784204|gb|AAP40669.1| complement C4 [Oncorhynchus mykiss] [ score 55 E 4e-07 ] [ range 48 .. 115 ]
+sequence
+-LQEQMVSIKSSYSDAKLQECCSHGLSLIPMRTCQQRAERVARANKCVKAFLDCCIEGEKLREKK-----
+----*
+>P1;gi|34097968|dbj|BAC82347.1| complement C4 [Triakis scyllium] [ score 54 E 6e-07 ] [ range 658 .. 721 ]
+sequence
+-LQRQYAGKLNEYTDSRLRKCYTDGLTKILMHSCEERTSRVKEL-DCRLVFQKCCDYGVELRKNQ-----
+----*
+>P1;gi|9453865|dbj|BAB03285.1| complement C4-2 [Cyprinus carpio] [ score 54 E 7e-07 ] [ range 662 .. 728 ]
+sequence
+-IQAEMAKKEAAFKKAELQKCCRHGFTLIPMKTCEERAKRVTESKECVKVFQECCEFATKLRDKK-----
+----*
+>P1;gi|7512215|pir||T28153 complement C4 - chicken >gi|3129975|emb|C... [ score 54 E 1e-06 ] [ range 557 .. 620 ]
+sequence
+-LLKLLEEKAGPWRNTVMWRCCRDGATALPIRTCQQRGQRVTTAGGCRDAFLQCCEVAQNLRR-------
+----*
+>P1;gi|33386532|emb|CAD45003.1| complement component C4 [Takifugu ru... [ score 53 E 2e-06 ] [ range 673 .. 729 ]
+sequence
+------------YTDKSLQECCAKGFSLIPMRTCEERAQRISLQSPCVEVFLHCCRKGEHLRKQK-----
+----*
+>P1;gi|7209638|dbj|BAA92287.1| Orla C4 [Oryzias latipes] [ score 48 E 6e-05 ] [ range 665 .. 732 ]
+sequence
+-LQQEMNRLKSGYEDTELQLCCAQAFSLIPMRTCRERAARVRLSEACAAAFEKCCTETEILRRRK-----
+----*

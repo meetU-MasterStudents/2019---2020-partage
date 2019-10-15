@@ -1,0 +1,75 @@
+>P1;1lgha
+structureX:1lgh:   1 :A:  56 :A:light-harvesting protein b-800-850:Rhodospirillum molischianum: 2.4: 21.1
+SNPKDDYKIWLVINPSTWLPVIWIVATVVAIAVHAAVLAAPGFNWIALGAAKSAAK*
+>P1;1kzua
+structureX:1kzu:   2 :A:  49 :A:light-harvesting protein b-800-850:Rhodopseudomonas acidophila: 2.5: 22.7
+----NQGKIWTVVNPAIGIPALLGSVTVIAILVHLAILSHTT--WFPAYWQG--GV*
+>P1;gi|2126499|pir||S61509 light-harvesting protein B800-820 alpha c... [ score 72 E 4e-12 ] [ range 1 .. 46 ]
+sequence
+SNPKDDYKIWLVINPSTWLPVIWIVALLTAIAVHSFVLSVPGYNFL----------*
+>P1;gi|462512|sp|P35091|LHA3_RHOAC Light-harvesting protein B-800/85... [ score 77 E 1e-13 ] [ range 2 .. 49 ]
+sequence
+----NQGKIWTVVNPSVGLPLLLGSVTVIAILVHAAVLSHTT--WFPAYWQG--GL*
+>P1;gi|1075582|pir||S51238 puc3A protein - Rhodopseudomonas acidophi... [ score 77 E 1e-13 ] [ range 2 .. 49 ]
+sequence
+----NQGKIWTVVNPAIGLPLLLGSVAITALLVHLAVLTHTT--WFPAYMQG--GL*
+>P1;gi|1084159|pir||S51240 puc4A protein - Rhodopseudomonas acidophi... [ score 76 E 2e-13 ] [ range 2 .. 49 ]
+sequence
+----NQGKIWTVVNPSVGLPLLLGSVTVIAILVHLAVLSNTK--WFPAYWQG--GL*
+>P1;gi|1075580|pir||S51236 puc2A protein - Rhodopseudomonas acidophi... [ score 76 E 2e-13 ] [ range 2 .. 49 ]
+sequence
+----NQGKIWTVVNPAVGFPLLLGSVAITALLVHLAVLTHTT--WFPAFMQG--GL*
+>P1;gi|5708226|emb|CAB52388.1| LH2alpha6 [Rhodoblastus acidophilus] [ score 76 E 3e-13 ] [ range 2 .. 48 ]
+sequence
+----NQGKIWTVVNPSIGLPLLLGSVTVIAILVHVAILSHTT--WFPAYWQG--G-*
+>P1;gi|5708228|emb|CAB52390.1| LH2alpha7 [Rhodoblastus acidophilus] [ score 75 E 4e-13 ] [ range 2 .. 49 ]
+sequence
+----NQGKIWTVVDPAFGIPALLGSVTVIALLVHLAILSNTT--WFPAYWQG--GV*
+>P1;gi|5708224|emb|CAB52386.1| LH2alpha5 [Rhodoblastus acidophilus] [ score 74 E 7e-13 ] [ range 2 .. 49 ]
+sequence
+----NQGKIWTVVDPAIGIPALLGSVTIIAVLVHLALISHTT--WFPAYWQG--GV*
+>P1;gi|5708230|emb|CAB52392.1| LH2alpha8 [Rhodoblastus acidophilus] [ score 74 E 1e-12 ] [ range 2 .. 49 ]
+sequence
+----NQGKIWTVVNPAVGIPALLGSVTVIAILVHLALLNNTT--WFKAYWQG--GL*
+>P1;gi|1075578|pir||S51234 puc1A protein - Rhodopseudomonas acidophi... [ score 74 E 1e-12 ] [ range 2 .. 49 ]
+sequence
+----NQGKIWTVVDPAVGIPLLLGSVAVTALLVHLAILQNTT--WFPAFMQG--GL*
+>P1;gi|39934564|ref|NP_946840.1| light harvesting protein B-800-850,... [ score 74 E 1e-12 ] [ range 2 .. 47 ]
+sequence
+----NQGRIWTVVKPTVGLPLLLGSVTVIAILVHFAVLSNTT--WFSKYWNG----*
+>P1;gi|462509|sp|P35090|LHA2_RHOAC Light-harvesting protein B-800/82... [ score 73 E 2e-12 ] [ range 2 .. 49 ]
+sequence
+----NQGKIWTVVNPAVGLPLLLGSVAITALLVHLAVLTHTT--WFPAFTQG--GL*
+>P1;gi|39935719|ref|NP_947995.1| light harvesting protein B-800-850,... [ score 72 E 3e-12 ] [ range 2 .. 47 ]
+sequence
+----NQARIWTVVKPTVGLPLLLGSVTVIAILVHFAVLSHTT--WFSKYWNG----*
+>P1;gi|39937352|ref|NP_949628.1| light harvesting protein B-800-850,... [ score 72 E 3e-12 ] [ range 2 .. 47 ]
+sequence
+----NQGRIWTVVNPGVGLPLLLGSVTVIAILVHYAVLSNTT--WFPKYWNG----*
+>P1;gi|39936076|ref|NP_948352.1| light harvesting protein B-800-850,... [ score 70 E 2e-11 ] [ range 2 .. 47 ]
+sequence
+----NQGRIWTVVKPTVGLPLLLGSVAIMVFLVHFAVLTHTT--WVAKFMNG----*
+>P1;gi|224373|prf||1102285A protein LHII,light harvesting [ score 69 E 2e-11 ] [ range 51 .. 96 ]
+sequence
+----NNAKIWTVVKPSTGIPLILGAVAVAALIVHAGLLTNTT--WFANYWNG----*
+>P1;gi|462505|sp|P35089|LHA1_RHOAC Light-harvesting protein B-800/82... [ score 69 E 3e-11 ] [ range 2 .. 49 ]
+sequence
+----NQGKIWTVVPPAFGLPLMLGAVAITALLVHAAVLTHTT--WYAAFLQG--GV*
+>P1;gi|11120600|gb|AAG30939.1| alpha polypeptide [Rubrivivax gelatin... [ score 67 E 8e-11 ] [ range 2 .. 48 ]
+sequence
+----NQGKVWRVVKPTVGVPVYLGAVAVTALILHGGLLAKTD--WFGAYWNG--G-*
+>P1;gi|462513|sp|P35103|LHA3_RHOPA Light-harvesting protein B-800-85... [ score 67 E 1e-10 ] [ range 2 .. 47 ]
+sequence
+----NQGRIWTVVSPTVGLPLLLGSVAAIAFAVHFAVLENTS--WVAAFMNG----*
+>P1;gi|1184534|gb|AAB35398.1| LH2 alpha=light-harvesting 2 membrane-... [ score 64 E 7e-10 ] [ range 2 .. 48 ]
+sequence
+----NQGKVWRVVKPTVGVPVYLGAVAVTALILHGGLAGKTD--WFGAYWNG--G-*
+>P1;gi|72634|pir||LBRF2S light-harvesting protein B-800/850 alpha ch... [ score 58 E 7e-08 ] [ range 3 .. 47 ]
+sequence
+-----NGKIWLVVKPTVGVPLFLSAAFIASVVIHAAVLTTTT--WLPAYYQG----*
+>P1;gi|126253|sp|P02946|LHA2_RHOSH Light-harvesting protein B-800/85... [ score 56 E 2e-07 ] [ range 3 .. 47 ]
+sequence
+-----NGKIWLVVKPTVGVPLFLSAAVIASVVIHAAVLTTTT--WLPAYYQG----*
+>P1;gi|2147634|pir||S66225 light harvesting complex II pigment prote... [ score 49 E 3e-05 ] [ range 2 .. 47 ]
+sequence
+----NNAKMWLVVKPTVGIPLFLVACAIASFLVHLMLVLTTG--WMGDYYSG----*

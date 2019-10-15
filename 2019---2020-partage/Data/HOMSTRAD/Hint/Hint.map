@@ -1,0 +1,655 @@
+>P1;1at0
+structureX:1at0: 258 : : 402 : :17-kda fragment of hedgehog c-terminal autoprocessing domain:Drosophila melanogaster: 1.9: 21.76
+-CFTPESTALLESGVRKPLGELS----------IGDRVLSTANGQAVYSEVILFDRNLEQQNFVQLHTDG
+GAVLTVTPAHLVSVWQP--ESQKLTFVFADRIEEKNQVLVRDV---------------------------
+---ETGELRPQRVVKVGSVRSKGVVAPLTR--EGTIVVNSVAASCYA*
+>P1;1am2
+structureX:1am2:   0 : : 198 : :DNA gyrase subunit A intein:Mycobacterium xenopi: 2.2: 18.7
+ASITGDALVALPEGESVRIADIVPGARPNSDNAIDLKVLDR-HG--NPVLADRLFHSG-EHPVYAVRTVE
+GLRVTGTANHPLLCLVDVAGVPTLLWKLIDEIKPGDYAVIQRSAFSTVGVPGLVRFLEAHHRDPDAKAIA
+DELTDGRFYYAKVASVTDAGVQPVYSLRVDTADHAFITNGFVSHN--*
+>P1;gi|34876855|ref|XP_343591.1| indian hedgehog homolog [Rattus nor... [ score 202 E 2e-51 ] [ range 219 .. 365 ]
+sequence
+-CFPAGAQVHLETGERVALSAVK----------PGDRVLAMGDGNPTFSDVLIFDREPNRRAFQVIETDP
+PRRLALTPAHLLFIADN--HTERFRATFASHVQPGQYVLVAGV---------------------------
+---PG--LQPARVAAISTHVALGSYAPLTR--HGTLVVEDVVASCFA*
+>P1;gi|37549374|ref|XP_050846.4| Indian hedgehog homolog [Homo sapie... [ score 199 E 9e-51 ] [ range 203 .. 349 ]
+sequence
+-CFPAGAQVRLESGARVALSAVR----------PGDRVLAMGDGSPTFSDVLIFDREPHRRAFQVIETDP
+PRRLALTPAHLLFTADN--HTERFRATFASHVQPGQYVLVAGV---------------------------
+---PG--LQPARVAAVSTHVALGAYAPLTK--HGTLVVEDVVASCFA*
+>P1;gi|14149643|ref|NP_034674.1| Indian hedgehog [Mus musculus] >gi|... [ score 199 E 1e-50 ] [ range 241 .. 387 ]
+sequence
+-CFPAGAQVRLENGERVALSAVK----------PGDRVLAMGDGTPTFSDVLIFDREPNRRAFQVIETDP
+PRRLALTPAHLLFIADN--HTEHFRATFASHVQPGQYVLVSGV---------------------------
+---PG--LQPARVAAVSTHVALGSYAPLTR--HGTLVVEDVVASCFA*
+>P1;gi|24528448|emb|CAD45244.1| sonic hedgehog protein [Takifugu rub... [ score 198 E 2e-50 ] [ range 198 .. 344 ]
+sequence
+-CFPGSSTVTLQDGTKKLVKHLR----------SGDRVLAADDGNPTYTDFIMFDRDSTTRRLYVIETDS
+GQKITLTAAHLLYVARN--EGDGMSAVFASQVRRGQKVIVSDP---------------------------
+---ERSRLEPVTVERIYTQEHVGSYAPVTV--QGNVVVDEILASCYA*
+>P1;gi|5441265|dbj|BAA82360.1| sonic hedgehog [Paralichthys olivaceus] [ score 197 E 3e-50 ] [ range 198 .. 345 ]
+sequence
+-CFPGSSTVTLQDGTKKPVKALQ----------TGDRVLAADHGQPVYTDFIMFDQDSTTRRFYVIETDS
+GQKITLTAAHLLFVGHS--NSRGMSAVFASQVRPGQTVFVLDA---------------------------
+---E--RLQPVTVKRIYTQEHEGSFAPVTA--QGTVVVDQVLASCYA*
+>P1;gi|13990994|dbj|BAA33523.2| hedgehog [Homo sapiens] [ score 197 E 3e-50 ] [ range 203 .. 349 ]
+sequence
+-CFPAGAQVRLESGARVALSAVR----------PGDRVLAMGDGSPTFSDVILLDREPHRRAFQVIETDP
+PRRLALTPAHLLFTADN--HTERFRATFASHVQPGQYVLVAGA---------------------------
+---PG--LQPARVAAVSTHVALGAYAPLTK--HGTLVVEDVVASCFA*
+>P1;gi|663155|gb|AAA62178.1| indian hedgehog protein [ score 196 E 6e-50 ] [ range 104 .. 250 ]
+sequence
+-CFPAGAQVRLESGARVALSAVR----------PGDRVLAMGDGSPTFSDVLIFDREPHRLRAFQVTQDP
+PRRLALTPAHLLFTADN--HTERFRATFASHVQPGQYVLVAGV---------------------------
+---PG--LQPARVAAVSTHVALGAYAPLTK--HGTLVVEDVVASCFA*
+>P1;gi|18859513|ref|NP_571274.1| tiggy winkle hedgehog; tiggy winkle... [ score 196 E 6e-50 ] [ range 201 .. 347 ]
+sequence
+-CFPGSGTVTLGDGTRKPIKDLK----------VGDRVLAADKGNVLISDFIMFHDPTTRRQFIVIETEP
+FTKLTLTAAHLVFVGNS--SASGITATFASNVKPGDTVLVWED---------------------------
+---TCESLKSVTVKRIYTEEHEGSFAPVTA--HGTIIVDQVLASCYA*
+>P1;gi|631722|pir||C49425 Indian hedgehog protein - mouse (fragment) [ score 196 E 7e-50 ] [ range 128 .. 274 ]
+sequence
+-CFPAGAQVRLENGERVALSAVK----------PGDRVLAMGDGTPTFSDVLIFDREPNRLRAFQVTQDP
+PRRLALTPAHLLFIADN--HTEHFRATFASHVQPGQYVLVSGV---------------------------
+---PG--LQPARVAAVSTHVALGSYAPLTR--HGTLVVEDVVASCFA*
+>P1;gi|26342679|dbj|BAC34996.1| unnamed protein product [Mus musculus] [ score 195 E 1e-49 ] [ range 199 .. 351 ]
+sequence
+-CFPGSATVHLEQGGTKLVKDLR----------PGDRVLAADDGRLLYSDFLTFDRDEAKKVFYVIETEP
+RERLLLTAAHLLFVAPH--NDSGPTALFASRVRPGQRVYVVAE---------------------------
+---RGGDRRPAAVHSVTREEEAGAYAPLTA--HGTILINRVLASCYA*
+>P1;gi|6175032|sp|Q92000|SHH_XENLA Sonic hedgehog protein precursor ... [ score 195 E 2e-49 ] [ range 199 .. 345 ]
+sequence
+-CFPAGARVMVEFGGTKAVKDLR----------PGDRVLSSDQGNLLYSDFLMFDQERDKKLFYVIET-S
+QRKIRLTAAHLLFVAQT--KTRSFKSVFASNIQPGDLIYTADP---------------------------
+---KTMTLKAVKVEKVDLEEDTGAYAPLTA--HGTVVIDQVLASCYA*
+>P1;gi|6094282|sp|Q90385|SHH_CYNPY Sonic hedgehog protein precursor ... [ score 194 E 3e-49 ] [ range 201 .. 358 ]
+sequence
+-CFPGSATVALEQGVRIPVKDLR----------PGDRVLAADGGKLVYSDFLLFMDKEERKVFYVIET-S
+RERVRLTAAHLLFVGQA--HSAGFRSMFASSVRAGHRVLTVDR---------------------------
+---EGRGLREATVERVYLEEATGAYAPVTA--HGTVVIDRVLASCYA*
+>P1;gi|2738383|gb|AAB94412.1| sonic hedgehog-related protein [Pleuro... [ score 193 E 5e-49 ] [ range 201 .. 360 ]
+sequence
+-CFPGSATVTLEQGVRIPVKGLK----------PGNRVLAVDEGRLIYSDFLLFMDEEERKVFYVIETSP
+RERLRLTAAHLLFVAQE--HPRRFRSMFASSVRPGHRVLTEDR---------------------------
+---EGRGLREATVDRVYLEEATGAYAPVTA--HGTVVIDRVLASCYA*
+>P1;gi|6016351|sp|Q91612|IHH_XENLA Indian hedgehog protein precursor... [ score 192 E 9e-49 ] [ range 198 .. 344 ]
+sequence
+-CFPGEALATLESGEKIPVSQLS----------PGLRVLAMDNGRPTYSDFLSFDHSPKEEHMFQVTQDP
+HRRLFLTPAHLIFVSDN--YSSEFQAVFASSVRPGQYILVSNV---------------------------
+---VG--LIPAKVRSVNTQTNYGAYAPLTQ--HGTLVVDDVVVSCFA*
+>P1;gi|38258879|sp|P56674|HH_DROHY Hedgehog protein precursor [ score 192 E 1e-48 ] [ range 206 .. 349 ]
+sequence
+-CFTPESTALLESGAEKALGELA----------IGDRVLSMDKGQPVYSEVILFDRNLEQENFVQLHTDG
+GAVLTVTPAHLISVWQP--ERQTLNFIFADRVEELDYVLVRDA---------------------------
+----TGELQPQRVLRLGSVQSRGVVAPLTR--EGTIVVNSVAASCYA*
+>P1;gi|18859357|ref|NP_571138.1| sonic hedgehog; vertebrate hedgehog... [ score 192 E 1e-48 ] [ range 198 .. 345 ]
+sequence
+-CFPGSALVSLQDGGQKAVKDLN----------PGDKVLAADAGNLVFSDFIMFDRDTTRRVFYVIETEP
+VEKITLTAAHLLFVLDN--STEDMTAAYASSVRAGQKVMVVD----------------------------
+---DSGQLKSVIVQRIYTEEQRGSFAPVTA--HGTIVVDRILASCYA*
+>P1;gi|21360571|gb|AAM44071.1| Indian hedgehog [Equus caballus] [ score 192 E 1e-48 ] [ range 44 .. 190 ]
+sequence
+-CFPAGAQVRLESGARVALSAVR----------PGDRVLAMGDGNPTFSDVLIFDREPDRLRAFQVTQDP
+PRRLALTPAHLLFTANN--HSEHFRATFASQVQPGQYVLVAGV---------------------------
+---PG--LQPARVAAVSTHVALGAYAPLTR--HGTLVVEDVVASCFA*
+>P1;gi|38373944|gb|AAR19208.1| SHH precursor [Cyprinus carpio] [ score 192 E 1e-48 ] [ range 198 .. 344 ]
+sequence
+-CFPGSALVALKDGRQKAVKDLN----------PGDKVLAADNGKLVFSDFIFTDRDSTRRVFYVIETEP
+VEKITLTAAHLLFVLDN--STDSMTAAFASSVRAGQKVMVVD----------------------------
+---DSGPLKSVIVERIYTEEHQGSFAPVTA--HGTIVVDRILASCYA*
+>P1;gi|2896035|gb|AAC03108.1| hedgehog segment polarity homolog [Not... [ score 189 E 7e-48 ] [ range 199 .. 345 ]
+sequence
+-CFPARALATLESGEKIPIADLE----------PGHRVLCMDGGRRTYSDFLTFDRDSTKEFYVVETRDP
+PRRLALTAAHLLFVADN--FTTDFSTVFASHVQPGQYILTEGV---------------------------
+---LG--LQPARVVSVTTQTDSGAYAPLTS--HGTLLVDDVVVSCFA*
+>P1;gi|45382239|ref|NP_990152.1| sonic hedgehog [Gallus gallus] >gi|... [ score 189 E 1e-47 ] [ range 201 .. 354 ]
+sequence
+-CFPGSATVHLEHGGTKLVKDLS----------PGDRVLAADDGRLLYSDFLTFDRDSSRKLFYVIETQP
+RARLLLTAAHLLFVAPQ--HSTSGQALFASNVKPGQRVYVLGE---------------------------
+---GGQQLLPASVHSVSREEASGAYAPLTA--QGTILINRVLASCYA*
+>P1;gi|1418290|gb|AAB17543.1| CE [Caenorhabditis elegans] [ score 185 E 1e-46 ] [ range 585 .. 735 ]
+sequence
+-CFSLDTWVTTPTG-KKRMDQID----------IGDYVLTADLEKTYFTPITLWHREPEKQEFLTIMTEY
+GKTLRITSRHFMYRNKC--GPHDGEAIFASDLEVGDCVVV--L---------------------------
+---YKGKYRQQKIETITRSVRTGIYSPLTN--NGRIIVNDMLASCYS*
+>P1;gi|45384428|ref|NP_990288.1| indian hedgehog protein [Gallus gal... [ score 184 E 2e-46 ] [ range 199 .. 346 ]
+sequence
+-CFPGRALATLENGARTPLWALR----------PGQRVLAMDGGRPTYSDFLAFDKEPRTAFHVIETRQP
+PRRLALTPTHLLFVADN--ASAQFRPTFASHVQPGHFVLVA-V---------------------------
+---GSGGLQPAEVVGVRGRTDVGAYAPLTR--HGTLVVDDVVASCFA*
+>P1;gi|4506939|ref|NP_000184.1| sonic hedgehog preproprotein [Homo s... [ score 184 E 3e-46 ] [ range 198 .. 365 ]
+sequence
+-CFPGSATVHLEQGGTKLVKDLS----------PGDRVLAADDGRLLYSDFLTFDRDDAKKVFYVIETEP
+RERLLLTAAHLLFVAEP--EASGPRALFASRVRPGQRVYVVAE---------------------------
+---RDGDRRPAAVHSVTSEEAAGAYAPLTA--QGTILINRVLASCYA*
+>P1;gi|39594833|emb|CAE70701.1| Hypothetical protein CBG17433 [Caeno... [ score 184 E 3e-46 ] [ range 1005 .. 1155 ]
+sequence
+-CFSLDTWVTTPSG-KKRMDQID----------IGDYVLTAGLDETYFTPITLWHREPERQEFLTIMTEY
+GKTLRMTARHFMYRNKC--GNSDAEAIFAEDLRVGDCVVV--M---------------------------
+---YRGKFHQQKIESIIKNVRTGIYSPLTN--NGRIIVNDMLSSCYS*
+>P1;gi|31242581|ref|XP_321721.1| ENSANGP00000015828 [Anopheles gambi... [ score 182 E 8e-46 ] [ range 179 .. 321 ]
+sequence
+-CFTGDSTVLTEAGVHRKLSELR----------IGERVQAVDAGRTVFSEVLMFDRDTHRREFVTIEAEG
+GALLKVTPAHLVMVWRR--ERSETRFVFADRVREGDHILVHVA---------------------------
+-----GSLEPRAVHRISATLAEGVYAPLTG--EGTIVVDSIAASCYA*
+>P1;gi|530994|gb|AAA49981.1| hedgehog protein [ score 182 E 9e-46 ] [ range 200 .. 347 ]
+sequence
+-CFPAGARVMVEFGGTKAVKDLR----------PGDRVLSSDQGNLLYSDFLMFDQERDKKLFYVIET-S
+QRKIRLTAAHLLFVAQT--KTRSFKSVFASNIQPGDLIYTAES---------------------------
+---QDHDLEGRKWRRLILREDTGAYAPLTA--HGTVVIDQVLASCYA*
+>P1;gi|3170537|gb|AAC34384.1| fugu hedgehog [Takifugu rubripes] [ score 182 E 9e-46 ] [ range 201 .. 347 ]
+sequence
+-CFPGWSRVTVAGGFQKSLSSLT----------PGDRVMASETGQVVFSPVLLFHRDPESRRFLSLQTED
+GRRLAVTPHHLVFHCGP--DSSQYQAQFASRAQTGTCVLV-HT---------------------------
+---AGGEVHPSRIVSITEEESVGAYAPLTE--AGSVFVDGVLASSYA*
+>P1;gi|38194211|dbj|BAD01490.1| hedgehog [Achaearanea tepidariorum] [ score 180 E 6e-45 ] [ range 196 .. 337 ]
+sequence
+-CFDGDSTVRTEAGPKK-MSDLQ----------VGERVQVATDGQTDYSEVILFDRNETQQRLYTLETEN
+GRSITLTPTHLIFTASP--HQTTPQATFAKHVEIGDYIYVASD---------------------------
+---RKVTL--EKVISVTSSAKKGVFAPLTR--EGNLVVDGVVASCYA*
+>P1;gi|19482158|ref|NP_066382.1| desert hedgehog preproprotein [Homo... [ score 179 E 7e-45 ] [ range 199 .. 345 ]
+sequence
+-CFPGNATVRLWSGERKGLRELH----------RGDWVLAADAGRVVPTPVLLFDRDLQRRSFVAVETEP
+PRKLLLTPWHLVFAARP--APGDFAPVFARRLRAGDSVLAPG----------------------------
+----GDALRPARVARVAREEAVGVFAPLTA--HGTLLVNDVLASCYA*
+>P1;gi|6014962|sp|Q91611|DHH2_XENLA Desert hedgehog protein precurso... [ score 178 E 2e-44 ] [ range 200 .. 344 ]
+sequence
+-CFPGTAMVMMETGKKKPLSELK----------LGDTVFTTDTGLLIHSVVLLFHRDPKTATFVLIEAEG
+HPTLLVTPNHLLFIKSS--SSTGFQPTFAYRVQIGDLIQIY-V---------------------------
+---NGTQVQSSKVVRVSVDEQTGVYAPMTE--HGTLLVDGVLTSCYA*
+>P1;gi|2369704|emb|CAA74169.1| AmphiHh protein [Branchiostoma floridae] [ score 177 E 3e-44 ] [ range 202 .. 349 ]
+sequence
+-CFSAESWVTRDDGNRIRMRDVR----------PGDKVLSMDGGHPVFSEVLTFDRESRGPVYYTIHTDD
+RNTVTATPSHLVFVTES--RSSPRIAKFMSDARPGEFLLTPDS---------------------------
+---DGGGFRKVKIVSVTMREEKGAYAPLTV--HGTVVVDNVAMSCYA*
+>P1;gi|6014961|sp|Q91610|DHH1_XENLA Desert hedgehog protein precurso... [ score 177 E 5e-44 ] [ range 198 .. 342 ]
+sequence
+-CFPGTAMVMMGTGERKPLSELK----------IGDTVYTTDTGQLITSVVLLFHRNPKTATFVLIEAEG
+HPKLLVTPNHLLFIQSS--SSAGFLPTFAYRVQIGDLVQIY-V---------------------------
+---NGTQVQSSKVVRVSLEEQTGVYAPMTE--HGTLLVDGVLTSCYA*
+>P1;gi|1532155|gb|AAB17541.1| M75 [Caenorhabditis elegans] [ score 175 E 1e-43 ] [ range 346 .. 499 ]
+sequence
+-CFPGDAMVNVYNGGFKRMDELA----------VGDWVQALDGSQVTFIPVYWLHRDPKQADFVEFTLDN
+GETFSLTEKHLVFVTQC--ENINANPVPAERVNIGDCFYIAHR---------------------------
+---KKSQMYQVKVLDINIVQKTGIYSPMTS--RGHLLVDRIHASCHS*
+>P1;gi|15626255|emb|CAB58231.2| hedgehog protein [Branchiostoma belc... [ score 175 E 2e-43 ] [ range 202 .. 349 ]
+sequence
+-CFPEESWVTRDDGKRIRMRDVR----------PGDKVLSMDAGHPVFSEVLTFDRDSRGPVYYTIKTED
+RNTVTATPSHLVFVTES--RSAPRVAKFMSDVRPGEFLLTPES---------------------------
+---DGGGFRKVEIVSVTMREEKGAYAPLTV--HGTVVVDNVAMSCYA*
+>P1;gi|39596740|emb|CAE63359.1| Hypothetical protein CBG07767 [Caeno... [ score 173 E 6e-43 ] [ range 346 .. 498 ]
+sequence
+-CFPADATVHVYDQGTKRMDELE----------VGDWVQAFENGETVTHVPYWIHRDQTQKTFIEFSLDN
+GEKFSLTEKHMVYVSQC--ENNNYNAVPAEKVNVGDCFYVAHR---------------------------
+---TNSKLYQVKVLDINKVKKTGIYAPMTS--VGHLLVNRIHTSCHS*
+>P1;gi|39595979|emb|CAE67482.1| Hypothetical protein CBG12986 [Caeno... [ score 172 E 9e-43 ] [ range 295 .. 435 ]
+sequence
+-CFTGDAKVMTPSGE-KTMSELR----------VGDIVQTYEHGKMAYTRVASWHRLPEKAAFIKLTTDN
+GPEVSMTPQHFIYKADC--VTEVYDLVYAEDVNVGDCVMVKK----------------------------
+---NNDKLVLTTVVNKSTFYETGVYAPMTE--TGDLIVNDIYASCH-*
+>P1;gi|31043784|emb|CAB04405.2| C. elegans GRD-2 protein (correspond... [ score 172 E 1e-42 ] [ range 742 .. 891 ]
+sequence
+-CFSSDTLVTTPSG-KKRMDEID----------VGDYVLTANRVKTHFTPVTLWHRESEKEEFLTITTER
+GSTLQLTPLHFMYRTKC--NPENHEAILASYLEIGDCVIL--T---------------------------
+---ENTKFRQEKINQTTRGLKTGIYSPLTK--NGRIIVNDMLASCYS*
+>P1;gi|17562076|ref|NP_507923.1| GRounDhog, hedgehog-like (grd-11) [... [ score 172 E 1e-42 ] [ range 802 .. 966 ]
+sequence
+-CFSRDTWVTTPSG-KKRMDEIE----------IGDYVLTADLKTALFSAITLWHREPETQEFLEIKTDN
+GKTLQLTAGHFIYATEC--TPERYRHLIASQLKIGECLLIH-----------------------------
+---NGDQFRMQKIDSISKTVSTGIYSPLTE--NGRILVNDVLASCYS*
+>P1;gi|1581788|prf||2117287A Sonic hedgehog gene [ score 170 E 4e-42 ] [ range 198 .. 365 ]
+sequence
+-CFRGSATVHLEQGGTKLVKDLR----------PGDRVLAADDGRLLYSDFLTLDRDDAKKVFYVIETEP
+RERLLLTAAHLLFVARH--NDSGPRALFASRVRHGQRVYVVAE---------------------------
+---RDGDRRPAAVHSVTSEEAAGAYAPLTA--QGTIEINRVLASGYA*
+>P1;gi|18858605|ref|NP_571163.1| echidna hedgehog [Danio rerio] >gi|... [ score 169 E 1e-41 ] [ range 198 .. 350 ]
+sequence
+-CFPGRALVTMKDGSHRQIRDLQ----------AGDLVLASGTGDLIYSEVLTFDRRPTQKHFYVIRTED
+GASVSLTAAHLLFMGEP--KPGAVRTIFASDAQVGQCLLL------------------------------
+-----GKLRKSQITHVGVREDQGLYPPLTA--HGTVVVNDVLTSCYA*
+>P1;gi|39598120|emb|CAE68812.1| Hypothetical protein CBG14764 [Caeno... [ score 165 E 2e-40 ] [ range 11 .. 161 ]
+sequence
+-CFSTDSWMTTPTG-KKRMDQVA----------IGDLVLTGNLTATYYTPIISWHREPDNRNFHTIMTEY
+GKMLAVSAKHLIYRNLC--DENGRNVVFAEELKVGDCLVL--L---------------------------
+---YKGKYRQQRVMRISITERKGIFAPITE--NGRIIVNDIVASVYS*
+>P1;gi|25148081|ref|NP_495579.2| WaRThog, hedgehog-like family membe... [ score 164 E 2e-40 ] [ range 291 .. 430 ]
+sequence
+-CFTGNSKVMTPAGE-KSMADLS----------VGDMVMTYEYGKMTYTRVASWLHRLTKAAFIKLTTEQ
+GAIIDMTPQHFIYKANC--VTEEMELVYAEDMTIGDCLMVK-----------------------------
+---ENEKLVMTTISEKSTFYETGVYAPMTE--TGDLIVDDVYASCH-*
+>P1;gi|39597745|emb|CAE68437.1| Hypothetical protein CBG14222 [Caeno... [ score 164 E 3e-40 ] [ range 415 .. 557 ]
+sequence
+-CFSGDMEVETEDGV-KLIKDLK----------IGDKVLSMDEAFVTYSPIIMFKRDDEKAEFNLIETSN
+GHSIKLTDNHLIYVSDC--NARSLKLVAAKEVKMDDCIHV-TT---------------------------
+---ENNAVIKKKVSKISKVVDTGIYSPLTS--TGDIIVNRVLASCHS*
+>P1;gi|39587242|emb|CAE57710.1| Hypothetical protein CBG00717 [Caeno... [ score 164 E 4e-40 ] [ range 972 .. 1127 ]
+sequence
+-CFSADSLVTTVTG-QKRMDELQ----------IGDYVLVPSAGNVLYERVEMFHREPKTRNFVVIFTKS
+GKKLSLTGRHLLPVAEC--SQEKYTMKYAEKAKKGECVLSIDA---------------------------
+----SGDVIADEIVRIGRMTSTGIYSPMTV--EGSLIVDGVLSSCFS*
+>P1;gi|1581789|prf||2117287B Indian hedgehog gene [ score 163 E 7e-40 ] [ range 105 .. 246 ]
+sequence
+---PAGAQVRLESGARVALSAVR----------PGDRVLAMGDGSRTFSDVIILDREPHRLRAVIETQDR
+PRRLALTPAHLLRTADN--HTERRRATFASHVQHGQYVLVAGV---------------------------
+---PG--LQPARVAAVSIHVALGAYAPLIK--HGTLVVEDVVAS---*
+>P1;gi|17536035|ref|NP_495725.1| hedgehog family member (2I493) [Cae... [ score 163 E 7e-40 ] [ range 961 .. 1116 ]
+sequence
+-CFSADSLVTTVTG-QKRMDELQ----------IGDYVLVPSSGNVLYEKVEMFHREPKTRNFVVLYTKS
+GRKLSLTGRHLLPVAEC--SQEQYTMKYAEKARKGECVLSID----------------------------
+---ESGEVIADEIVRVGRMTNVGIYSPMTV--EGSLIVDGVLSSCFS*
+>P1;gi|1532157|gb|AAB17542.1| M89 [Caenorhabditis elegans] [ score 163 E 9e-40 ] [ range 342 .. 491 ]
+sequence
+-CFPADAEVNVYEKGVKRMDELE----------VGDWVQALHGKETTYSPVYWLHRDPEQEEFVEFLLEN
+GESFTLTEKHLVFATDC--QQNDLNPTTTGKINIGECFFMAQP---------------------------
+---ENSKFQKVQILDIQRVRKTGIYAPMTS--LGHLLVNQIHTSCHS*
+>P1;gi|17570299|ref|NP_508597.1| WaRThog, hedgehog-like family membe... [ score 162 E 9e-40 ] [ range 416 .. 558 ]
+sequence
+-CFSGDMEVETEDGI-KMIKDLK----------IGDKVLSMDEAFVTYSPVIMFKRDEEIAEFNLIETAN
+GHSIKLTDNHLIYVSDC--RTRSLKLVAAKEVKMDDCIHV-TT---------------------------
+---DSNVVIKKKVSKISKVIETGIYSPLTS--TGDIIVNRVLASCHS*
+>P1;gi|21518666|gb|AAM60752.1| hedgehog [Patella vulgata] [ score 162 E 2e-39 ] [ range 201 .. 351 ]
+sequence
+-CFPGTGVLQTETG-WKTMSQVV----------AGDSVLSMSNGKLEYSPVIAFDRERELERYITLHTED
+KKDITLTSKHLIYMSTS--NTDSFNVVYADDVIEGDYVLVTSD---------------------------
+---PVGEVKPTRVLTISEHTIQGVYAPLTL--NGNIVVDGVVVSCYA*
+>P1;gi|21929214|dbj|BAC06181.1| hedgehog homolog 2 [Ciona intestinalis] [ score 159 E 8e-39 ] [ range 197 .. 348 ]
+sequence
+-CFDGVSEVRNESGSVIPMNKVN----------VGDRILAVDTGKPVFSEVIMFDKQPEIGGSYIEIRSQ
+LETIRLTANHMLFIATQ--TNCSNRAVFAGDIFSGQYVYTTAR---------------------------
+---DGFEIQPSRVESVTTVTGDGLYAPLTA--HGTVVVDGIVASCY-*
+>P1;gi|11907527|dbj|BAB19658.1| hedgehog protein [Gryllus bimaculatus] [ score 159 E 1e-38 ] [ range 209 .. 353 ]
+sequence
+-CFAAESTVQTPGGL-CALAELR----------VRGAGAGPGHGRLAFSPVLLFDRDPAPRTLLRVRTAS
+GRTLALTPSHLLPVARA--GGGEPEARFADAVRPGDALLVAAD---------------------------
+---AGGAVRPDRVLHVDAEATRGVVAPLTA--AGTVVVDGVLASCYA*
+>P1;gi|33285159|gb|AAA81079.2| C. elegans HOG-1 protein [Caenorhabdi... [ score 158 E 2e-38 ] [ range 1 .. 144 ]
+sequence
+--------MTTPSG-KKRMDQVG----------IGDLVLTGNLTATYYTPIITWHREPENRNFYTIMTEY
+GKMLAVSAKHLIYRNLC--DENGRNVVYAEELKVGDCLVL--L---------------------------
+---YKGKFRQQRVMRISITERKGIYAPITK--NGRIIVNDIVASVFS*
+>P1;gi|30961831|gb|AAP38182.1| hedgehog [Artemia franciscana] [ score 157 E 4e-38 ] [ range 169 .. 352 ]
+sequence
+-CFTGDSLVTLQDGEQVKMSDVR----------IGDRVLAVDDGNLIYSEVLLFDRDTDNRQFVKLTTES
+GETVELTASHLIFTVQS--NVSKLQFTFAKNVGKGDYLLVKN----------------------------
+---KVGKLVLQLVTEVAFSVQTGVYAPLTN--TGTIIVNSVAAILYA*
+>P1;gi|3089555|gb|AAC15065.1| hedgehog [Lytechinus variegatus] [ score 153 E 4e-37 ] [ range 200 .. 347 ]
+sequence
+-CFPGFSQAYLKNGRMISMLDIR----------VGDEVVVNNNGELDYSDVIMIHRKLNDSTFYVIETED
+KTIVQLTPQHLIYVSER--ESNQSRAVFASEVRTNQFVYTTAQ---------------------------
+---NDRGVRPMKVVSVTTRLGHTAVAPVTR--QGSLVIDGVAVSSYA*
+>P1;gi|30961829|gb|AAP38181.1| hedgehog [Euscorpius flavicaudis] [ score 150 E 5e-36 ] [ range 169 .. 310 ]
+sequence
+-CFQGNSVVLTKNGAKK-MSELD----------VGNEVLDCSNGFFTYSQVIMFWDPKTNRQFYVLHTNT
+GRSITLTPSHLIFVV----GGNKTRVVFTRDVRPGHYILAKHF---------------------------
+---RENVTSPELVTHVTTIVTTGVYAPLTI--QGNLVVDGFVASCYA*
+>P1;gi|21929212|dbj|BAC06180.1| hedgehog homolog 1 [Ciona intestinalis] [ score 150 E 6e-36 ] [ range 305 .. 487 ]
+sequence
+-CFPGESTVIVPGEGHVPMSSLQ----------PGDQVLAIDKSGAVITDFLSFMDHQAYRQMVEITTEN
+GFSVTLTRNHLIYVSKP--DASLLTATFAAKVRQGDYIYTPDT---------------------------
+---PSATVRPSRVVSVTIETASGAYAPLTY--SGTIIVGGTAASCYA*
+>P1;gi|17566978|ref|NP_506803.1| WaRThog, hedgehog-like family membe... [ score 147 E 6e-35 ] [ range 314 .. 466 ]
+sequence
+-CFPNDAVVNVYEKAVKRMDELE----------IGDWVEALDNGEITFLPVYWLHRDPEQEEFLEFSLDN
+GETFTLTEKHLVYTTEC--RQNSSELKIAGKVNAGDCFYLAQS---------------------------
+---EATKYRLVEILDIKRVKKTGIYAPMTS--QGHLLVNKIHTSCHS*
+>P1;gi|17570277|ref|NP_508982.1| hedgehog protein, hint region famil... [ score 144 E 4e-34 ] [ range 1 .. 154 ]
+sequence
+------------------MDQVG----------IGDLVLTGNLTATYYTPIITWHREPENRNFYTIMTEY
+GKMLAVSAKHLIYRNLC--DGNHLNVVYAEELKVGDCLVL--L---------------------------
+---YKGKFRQQRVMRISITERKGIYAPITK--NGRIIVNDIVASVFS*
+>P1;gi|2522200|gb|AAB80949.1| sonic hedgehog [Coturnix coturnix] [ score 90 E 9e-18 ] [ range 1 .. 66 ]
+sequence
+----------------------------------------------------------------------
+--------------------PTSGQAFFASNVKPGQRVYVLGE---------------------------
+---GGRQLLPASVHSVSREEASGAYAPLTA--QGTILINRVLTSCYA*
+>P1;gi|2440285|dbj|BAA22368.1| shh [Oryzias latipes] [ score 76 E 1e-13 ] [ range 76 .. 119 ]
+sequence
+-CFPGSSTVTLENGTQRPVKDLQ----------PGDRVLAADDGNPVYTDFIMF----------------
+----------------------------------------------------------------------
+-----------------------------------------------*
+>P1;gi|43382186|gb|EAD55983.1| unknown [environmental sequence] [ score 69 E 1e-11 ] [ range 1 .. 141 ]
+sequence
+------------------MQDLQ----------VGDFVETQPG---VFSRIVGWTLELEYVEVIAEREDS
+KTLLELTPSHMIAVEAS--GYHGFEPTLAEDERPPTFILAVRL---------------------------
+---RVNDTLPYKVTSLKRVLRTGAYAPFTA--EGQIIVDSLLSSEYA*
+>P1;gi|32394616|gb|AAM94006.1| sonic hedgehog protein precursor [Gri... [ score 67 E 8e-11 ] [ range 2 .. 107 ]
+sequence
+----------------------------------GDRV-HVGGGE--FSPRVLFHRDASTRHFVQVSTAC
+GRSVAATHGHYLYV--------NGRLAIAGSVKVGDRLQDAHG---------------------------
+---A-----PLDVTKVEVVTKTGLYNPQTL--HGDIVVDSVRASTF-*
+>P1;gi|7511286|pir||T27975 hypothetical protein ZK678.5 - Caenorhabd... [ score 66 E 1e-10 ] [ range 363 .. 423 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------MDELAVGDWVQALDK---------------------------
+---NGSQYQRVKVLDINIVQKTGIYSPMTS--RGHLLVDRIHASCHS*
+>P1;gi|43401640|gb|EAD62974.1| unknown [environmental sequence] [ score 64 E 6e-10 ] [ range 17 .. 75 ]
+sequence
+----------------------------------------------------------------------
+------------------------QVLLAEQLAVGDELLLRDD---------------------------
+-----SQLRPSKVTNITEVQAAGMYAPVTS--SGRLVVNDVLVSSYA*
+>P1;gi|21637395|gb|AAM70491.1| hedgehog-like protein [Helobdella rob... [ score 63 E 2e-09 ] [ range 682 .. 719 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------VEPTKIVGISKTRHRGIYAPLTT--HGTMLVNGIWVSCYA*
+>P1;gi|4337450|gb|AAD18128.1| sonic hedgehog [Ambystoma mexicanum] [ score 58 E 5e-08 ] [ range 116 .. 147 ]
+sequence
+-CFPASAKVTLEHGVTRPVKDLR----------PGDRVLAADG---------------------------
+----------------------------------------------------------------------
+-----------------------------------------------*
+>P1;gi|15791012|ref|NP_280836.1| MCM / cell division control protein... [ score 53 E 1e-06 ] [ range 283 .. 401 ]
+sequence
+-CVRGDTTVALADGSEREIRDLG----------VWDGVLAAD-GRLVQRRATKVWKREAPETMYRVRTAA
+GHRLTVTPSHPLFVAGS--HG--PDAVRTEDLEVGQLVGVAPD---------------------------
+---GDG-----------------------------------------*
+>P1;gi|28870395|ref|NP_793014.1| filamentous hemagglutinin, intein-c... [ score 52 E 3e-06 ] [ range 5987 .. 6118 ]
+sequence
+-CFAAGTMVSTPDGER-AIDTLK----------VGDIVWSEGGGKPFAAAILATHIRTDQPIYLKGKQEN
+GESLLVTPGHPFYV--P--AQHGFVPVI--DLKPGDRLQSLAD---------------------------
+---GASENTSSEVESLE------LYLPVGK--TYNLTVD--------*
+>P1;gi|23039660|ref|ZP_00071212.1| COG1372: Intein/homing endonuclea... [ score 52 E 3e-06 ] [ range 22 .. 109 ]
+sequence
+-CLPEGALVHTASGL-VAIEKIR----------IGDRVLTSQG----FYPVTNFF-DQGIQSLCRIQTED
+GY-FECTPDHKVAVLQD--LYGNYKMIKAKDLQEGDRL--------------------------------
+-----------------------------------------------*
+>P1;gi|43226462|gb|EAC78796.1| unknown [environmental sequence] [ score 51 E 5e-06 ] [ range 1 .. 84 ]
+sequence
+------------------------------------------------------HADPETEIYLEIKTED
+GNTLHISHEHYMY--------ANGELTLSKDLKVGDTV--------------------------------
+---TSDKL--TKISSIKNVTLQGVYHPVTY--SSDLVVDNILCS---*
+>P1;gi|37525668|ref|NP_929012.1| hypothetical protein [Photorhabdus ... [ score 50 E 9e-06 ] [ range 448 .. 536 ]
+sequence
+-CIAEGTLIDMADGSKKKVEDIR----------SGDKVLTKQGGVLVKSRIVGHD-----TEFVDLIYNN
+DEKVSLTPTH------P--VATLRGIVKADELKIGDTIYTRD----------------------------
+-----------------------------------------------*
+>P1;gi|14520911|ref|NP_126386.1| hypothetical molybdenum cofactor bi... [ score 48 E 5e-05 ] [ range 205 .. 270 ]
+sequence
+------------------------------------YVLTFNDGKAEWTRVTKFLRRKHEGKIRVIKTKT
+GRTIRTTPEHKFFVY----KDGELVKKRADELEPGD----------------------------------
+-----------------------------------------------*
+>P1;gi|13661022|emb|CAC37008.1| Pps1 protein [Mycobacterium gastri] [ score 48 E 5e-05 ] [ range 16 .. 121 ]
+sequence
+-CLAGDTLVWTANRGQVPIKEIE----------FGDRVFSYDESRFVVAPVKASAQTDTRLTYEVKTT--
+RRSVRATDNHLVLRDER--KEGRQRARYARRIKPGDFIAVP-----------------------------
+-----------------------------------------------*
+>P1;gi|42956994|gb|EAB45482.1| unknown [environmental sequence] [ score 45 E 2e-04 ] [ range 227 .. 290 ]
+sequence
+-CFSSGTIVDTPDGP-LRMSDID----------VGTKVLTSSGL----SEVFLFGHQTNNATMIKVITGS
+GHSVSASP--------------------------------------------------------------
+-----------------------------------------------*
+>P1;gi|37519781|ref|NP_923158.1| unknown protein [Gloeobacter violac... [ score 45 E 2e-04 ] [ range 81 .. 180 ]
+sequence
+-CFAEGTEVQTETG-TKAIEKVE----------PGEKVLARNNLRRVQSTF-QFDDRPVYR--LELRQTD
+GDTLTVTGEHPFFL-----QGQGWTA--ADKLQAGDRVQAVD----------------------------
+-----------------------------------------------*
+>P1;gi|37519782|ref|NP_923159.1| unknown protein [Gloeobacter violac... [ score 45 E 4e-04 ] [ range 1741 .. 1853 ]
+sequence
+-CFAEGTEVQTETG-TKAIEKVE----------PGEKVLARNNLRRVQSTF-QFDDRPVYRLELRETGGQ
+GETLTVTGEHPFFLKDK--G-----WTAAERLRSGERVQAVDL---------------------------
+---RVVGLQPQQ-----------------------------------*
+>P1;gi|2501246|sp|Q49608|GYRA_MYCKA DNA gyrase subunit A [Contains: ... [ score 221 E 5e-57 ] [ range 67 .. 190 ] [ duplicate a ]
+sequence
+--VTGDALVRLPFGQSMRIADVVPGARPNSDNAVELKVLDR-HG--NPVAADRLFHSG-DHQTYMVRTAE
+GYEVTGTANHPLLCLVDVGGVPTLLWKLIEEIHPDDYVALQRTPPMELGPADWHDTMEAL----------
+-----------------------------------------------*
+>P1;gi|2501244|sp|Q49166|GYRA_MYCFV DNA gyrase subunit A [Contains: ... [ score 219 E 2e-56 ] [ range 71 .. 196 ] [ duplicate a ]
+sequence
+--VTGDALVRLPFGQSVRLRDVVAGARSSSDNAIDLKVLNR-HG--DPVVADKLFHSG-EHETYTVRTAE
+GYEVTGTANHPLLCLVDVGGVPTLLWKLTEEIRPGDHVVLQRTPPTEFGPADWQDAFEALHL--------
+-----------------------------------------------*
+>P1;gi|2501244|sp|Q49166|GYRA_MYCFV DNA gyrase subunit A [Contains: ... [ score 219 E 2e-56 ] [ range 436 .. 490 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+------------------------------------------------------------IADPDVRAIA
+QELTDGRFYYARVASVTDSGVQPVYSLRVDTDDHSFITNGFVSHN--*
+>P1;gi|18202021|sp|O33149|GYRA_MYCMA DNA gyrase subunit A [Contains:... [ score 218 E 5e-56 ] [ range 52 .. 174 ] [ duplicate a ]
+sequence
+---TGDALVRLPFGHSVRIGNFVPAACPNSDNAVNLKVLDR-HG--DPVVADQLFHSG-EHQTYTVRTAE
+GYEVTGTSNHPLLCLVDVGGVPTLLWKLIEEIRPDDHVVLQRTPPVEFGPADWHDVMEAL----------
+-----------------------------------------------*
+>P1;gi|11558104|emb|CAC17731.1| GyrA protein [Mycobacterium gastri] [ score 215 E 3e-55 ] [ range 66 .. 188 ] [ duplicate a ]
+sequence
+---TGDTLVRLPFGQSMRIADVVPGASPNSDNAVELKVLDR-HG--NPVVADHLFHSG-DHQTYTVRTAE
+GYEVTGTANHPLLCLVDVGGVPTLLWKLIGEIHANDYVALQRTPPMELGPADWHGTMEAL----------
+-----------------------------------------------*
+>P1;gi|2501245|sp|Q49467|GYRA_MYCGO DNA gyrase subunit A [Contains: ... [ score 208 E 5e-53 ] [ range 68 .. 191 ] [ duplicate a ]
+sequence
+--LTGDALVRLPFGQSMRIGDVAPGARTNSDNAGELKVLDR-HG--DPVFADRLFHSG-DHQTFRVQTAE
+GYEVTGTSNHPVLCLVNLAGVPTLLWMLIEEIRPDDYVVLQRAPPVESGPANWRDAMEAL----------
+-----------------------------------------------*
+>P1;gi|15826871|ref|NP_301134.1| putative DNA gyrase subunit A [Myco... [ score 205 E 4e-52 ] [ range 132 .. 255 ] [ duplicate a ]
+sequence
+--VSGNSLVRLLFGKSIRIGDIVTGAQFNSDNPIDLKVLDR-HG--NPVVADYLFHSG-EHQTYTVRTTE
+GYEITGTSNHPLLCLVNVGGIPTLLWKLIGEIRSGDYVVLQRIPPVEFGPADWYSTMEAL----------
+-----------------------------------------------*
+>P1;gi|15826871|ref|NP_301134.1| putative DNA gyrase subunit A [Myco... [ score 205 E 4e-52 ] [ range 495 .. 550 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------HIADPDIRAIV
+TDLTDGRFYYARVASVTDTGIQPVFSLHVDTEDHSFLTNGFISHN--*
+>P1;gi|43037159|gb|EAB85147.1| unknown [environmental sequence] [ score 199 E 3e-50 ] [ range 73 .. 226 ]
+sequence
+-AISGDSLISLASGKRVSIKDLL-DEKDFEIWAINEQTMKL-ES--AKV--SRVFCTG-KKLVYILKTRL
+GRTIKATANHRFLTIDG--------WKRLDELSLKEHIALPRKLESS-----------SLQLSPE----I
+EKLSQSDIYWDSIVSITETGVEEVFDLTVP-GPHNFVANDIIVHN--*
+>P1;gi|29654195|ref|NP_819887.1| replicative DNA helicase, intein-co... [ score 187 E 9e-47 ] [ range 391 .. 535 ]
+sequence
+--VTGDTLICLADGRRVPIQDLV-GHSP------EVIAVDD-KG--RLVCAEVIWKVG-ERSVFEIKLAS
+GRSIKATAEHRLLAFKG--------WRHVKDFKVGDRLAIAHQ------VPEPDRLLQHCQSD-------
+-------LFWDRIVSIEEKGSEEVYDLTVPKY-ASWLADGVVSHN--*
+>P1;gi|23042522|ref|ZP_00073899.1| COG0305: Replicative DNA helicase... [ score 105 E 4e-22 ] [ range 64 .. 239 ]
+sequence
+--LTGESLICLADGKKIPISCLV-GNSNFAVLALNENTWKF-ES--AMV--SRVFSTG-VKPIFSLQTSS
+GKLIRATANHPFFSMGG--------WKQLNTLNIGDSLAIGHFLSQSDFGPKYGRNLGSIVKSHEW----
+EKSTEIDVEWDEIVEIMPHGEAEVFDLTVP-GLHNFVANEIVVHN--*
+>P1;gi|18202006|sp|O30477|DNAB_RHOMR Replicative DNA helicase [Conta... [ score 104 E 7e-22 ] [ range 423 .. 525 ] [ duplicate a ]
+sequence
+--LAGDTLITLADGRRVPIRELVS-QQNFSVWALNPQTYRL-ER--ARV--SRAFCTG-IKPVYRLTTRL
+GRSIRATANHRFLTPQG--------WKRVDELQPGDYLALPRRIPTASTP--------------------
+-----------------------------------------------*
+>P1;gi|18202006|sp|O30477|DNAB_RHOMR Replicative DNA helicase [Conta... [ score 104 E 7e-22 ] [ range 808 .. 849 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--LAQSDVYWDPIVSIEPDGVEEVFDLTVP-GPHNFVANDIIAHN--*
+>P1;gi|23129113|ref|ZP_00110946.1| COG0305: Replicative DNA helicase... [ score 87 E 2e-16 ] [ range 390 .. 490 ] [ duplicate a ]
+sequence
+--LAGDSLVTLVDGLQVPIKELV-GKSGFAVWALNEATMQL-EK--AIV--SNAFSTG-IKPLFTLTTRL
+GRKIRATGNHKFLTING--------WKRLDELTPKEHLCLPRNLPSS-----------------------
+-----------------------------------------------*
+>P1;gi|23129113|ref|ZP_00110946.1| COG0305: Replicative DNA helicase... [ score 87 E 2e-16 ] [ range 776 .. 817 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--LAKSDVYWDEIVSIEYSGEEEVFDLTVP-GLHNFVANNIIVHN--*
+>P1;gi|17228074|ref|NP_484622.1| replicative DNA helicase [Nostoc sp... [ score 82 E 4e-15 ] [ range 390 .. 489 ] [ duplicate a ]
+sequence
+--LTGDSLVTLPGGLQIPIRELV-GKSGFAIWALNQATLKL-EK--AIV--SNAFSTG-VKPVFTLTTRK
+GCKIRATANHKFLTIHG--------WRRLDELSIRQHLCLPRHIPS------------------------
+-----------------------------------------------*
+>P1;gi|17228074|ref|NP_484622.1| replicative DNA helicase [Nostoc sp... [ score 82 E 4e-15 ] [ range 776 .. 817 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--LAKSDVYWDEIVSIEYSGEEEVFDLTVP-GLHNFIANNIVVHN--*
+>P1;gi|15791012|ref|NP_280836.1| MCM / cell division control protein... [ score 68 E 8e-11 ] [ range 284 .. 464 ]
+sequence
+--VRGDTTVALADGSEREIRDLVEDPRPVDDDGVDVAVLAA-DG--RLVQATKVWKRE-APETYRVRTAA
+GHRLTVTPSHPLF----VAGSHGPDAVRTEDLEVGQLVGVAPDGDGSGQVAPDGGVIRDAQPAPDAETVA
+---------WSAIESITE--VEPVYDLEVE-GTHSYLTDGVVSHN--*
+>P1;gi|14590502|ref|NP_142570.1| cell division control protein [Pyro... [ score 66 E 5e-10 ] [ range 339 .. 502 ] [ duplicate a ]
+sequence
+-----DTEVLLGDGRKRKIGEIVEEAIKKAEKEGKLGRVDD-KV--RKVKADIAWKTT-PEKMLRIRTKR
+GREIRVTPTHPFFTLEE-GRIKT---KKAYELKVGEKIATPR----------------------------
+EEAPEAEIFWDEVVEIEEPNNSWVYDLQVP-EHHNFIANGIFVHN--*
+>P1;gi|14590502|ref|NP_142570.1| cell division control protein [Pyro... [ score 66 E 5e-10 ] [ range 727 .. 789 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------LSDVSDAHELAKEKIEKI
+KEIVNSEVHWEKVTEVGEVGVEYVYDLTVE-GSHNFVANGFIVHN--*
+>P1;gi|14521806|ref|NP_127282.1| ribonucleotide reductase (nrd) [Pyr... [ score 61 E 8e-09 ] [ range 1364 .. 1427 ] [ duplicate a ]
+sequence
+-------------------------------NAVEV-------A--DPVVPAYVWKVG-MKEVARVRTKE
+GYEITATLDHKLMTPEG--------WKEIKDLKPGDKILLPR----------------------------
+-----------------------------------------------*
+>P1;gi|14521806|ref|NP_127282.1| ribonucleotide reductase (nrd) [Pyr... [ score 61 E 8e-09 ] [ range 722 .. 816 ] [ duplicate b ]
+sequence
+ACFTGDTRI-LTEKGLIPIEEIVTGKKP--------KVVTH-AG--LKDIIE-TYDNG-EMEVFRVTTED
+GYELKVTGDHKFLVF-DENGNPTL--KPLKELKVGDYVYI------------------------------
+-----------------------------------------------*
+>P1;gi|18976812|ref|NP_578169.1| ribonucleotide reductase [Pyrococcu... [ score 60 E 2e-08 ] [ range 958 .. 1044 ]
+sequence
+-----------PYAYSVEI--LLPGEEKVEYETVHGKVLAV--A--DPVVPAYVWKVG-RKKVARVKTKE
+GYEITATLDHKLMTPEG--------WKEVGKLKEGDKILLPR----------------------------
+-----------------------------------------------*
+>P1;gi|13540883|ref|NP_110571.1| Vacuolar-type H+-ATPase, subunit A ... [ score 59 E 5e-08 ] [ range 237 .. 421 ]
+sequence
+--VSGETPVYLADGKTIKIKDLYSSERKKEDNIVEIIHLKD-DG--TIVRSSRLLYKG-K-SSYLVRTIG
+GRSVSVTPVHKLFVLTEKGIEEVMA----SNLKVGDMIA---------AVAESESEARDCGMSEECVMEA
+EVYTSLEATFDRVKSIAEKGDFDVYDLSVPEYGRNFIGGELVLHN--*
+>P1;gi|13661022|emb|CAC37008.1| Pps1 protein [Mycobacterium gastri] [ score 59 E 5e-08 ] [ range 17 .. 131 ]
+sequence
+--LAGDTLVWTANRGQVPIKEIEFGDRVFSDESAERFVV-------APVKASA--QTD-TRLTYEVKTTR
+-RSVRATDNHPMLVLRDQRARYARRWVTVGQIKPGDFIAVPRAVPN-FGVAE------------------
+-----------------------------------------------*
+>P1;gi|14521589|ref|NP_127065.1| secretory protein kinase [Pyrococcu... [ score 59 E 5e-08 ] [ range 529 .. 649 ]
+sequence
+---------------------------------------------------------G-EKLV-KIRTAS
+GKELVLTQDHPVFVLLGRDVAR----RDAGNVKVGDEIAVTRPDFSVLSPPAMPELL----SEPFNYELS
+---SIGDVAWDEVVEVDEIGVEYLYDLTVDI-NHNYVANGIVVSN--*
+>P1;gi|15669613|ref|NP_248426.1| activator 1 (replication factor C),... [ score 59 E 5e-08 ] [ range 1126 .. 1220 ]
+sequence
+--LTGDAKITLPDEREIKIEDFI---KMFEERKLK-HVLNR-NG--DLVLAGVKFNSK-NHKVYRLVLES
+GREIEATGDHKFLTRDG--------WKEVYELKEDDEVLV------------------------------
+-----------------------------------------------*
+>P1;gi|15839435|ref|NP_334472.1| replicative DNA helicase/intein [My... [ score 58 E 1e-07 ] [ range 411 .. 510 ] [ duplicate a ]
+sequence
+-----DTGAEVAFGELMR-----SGERPM-VWSLDER-LRM-VA--RPMI--NVFPSG-RKEVFRLRLAS
+GREVEATGSHPFMKFEG--------WTPLAQLKVGDRIAAPRRVPE---PIDTQRMPES-----------
+-----------------------------------------------*
+>P1;gi|15839435|ref|NP_334472.1| replicative DNA helicase/intein [My... [ score 58 E 1e-07 ] [ range 681 .. 815 ] [ duplicate b ]
+sequence
+------------------------------------------HG--AKDQVRFLRHVG-VHGAEAVAAQE
+MRQLKGPVRNP-----NLDSAPKKVWAQVRNLSAKQMMDIQHEPTMWKHSPSRSRPHRA-EARIEDRAI-
+HELARGDAYWDTVVEITSIGDQHVFDGTV-SGTHNFVANGISLHN--*
+>P1;gi|23043823|ref|ZP_00075043.1| COG0587: DNA polymerase III, alph... [ score 57 E 2e-07 ] [ range 594 .. 642 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------------------ADEELTAIA
+----NSDVFWDEIISIEYIGKEEVFDLTIP-ETHNFIANDFIVHN--*
+>P1;gi|14590058|ref|NP_142122.1| replication factor C subunit [Pyroc... [ score 56 E 3e-07 ] [ range 63 .. 241 ]
+sequence
+--LTGDTKV-IANGQLFELRELVEKISPTPVKGLKVIGIDE-DG--REFEVQYVYKDK-TERLIRIRTRL
+GRELKVTPYHPLLVNRRNGEIK---WVKAEELKPGDKLAVPRFLPIVTGLAEWLGYFENLIMDPLLRQRF
+MELTEKLFSDARIREITENGTSKVY----------------------*
+>P1;gi|14590272|ref|NP_142338.1| ribonucleoside-diphosphate reductas... [ score 56 E 5e-07 ] [ range 530 .. 600 ] [ duplicate a ]
+sequence
+------------------IYETVHGKQLAIADPIEVKA--------------YVWKVG-KKKVARIKTKE
+GYEIIATLDHKIMTKDG--------WKAVEDLKEGDLIVLPR----------------------------
+-----------------------------------------------*
+>P1;gi|14590272|ref|NP_142338.1| ribonucleoside-diphosphate reductas... [ score 56 E 5e-07 ] [ range 818 .. 852 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------YARVESVEIIGEEIVYDLTVP-GIHSYISNGFISHN--*
+>P1;gi|45528273|ref|ZP_00179472.1| hypothetical protein Cwat035201 [... [ score 55 E 7e-07 ] [ range 666 .. 709 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+QQLATSDIYWDEIISIEYMGEQQVYDLTIPK-THNFVANDICVHN--*
+>P1;gi|15678679|ref|NP_275794.1| ribonucleotide reductase, large sub... [ score 55 E 9e-07 ] [ range 267 .. 399 ]
+sequence
+--VSGDTIVMTSGGPRT-VAEL--EGKPFT-------ALIR-GS--GYPCPSGFFRTC-ERDVYDLRTRE
+GHCLRLTHDHRVLVMDG-----GLEWRAAGELERGDRLVMDDAA-GEFPALATFRGLRG-----------
+------------------AGRQDVYDATV-YGASAFTANGFIVHN--*
+>P1;gi|23019247|ref|ZP_00058958.1| COG1372: Intein/homing endonuclea... [ score 55 E 9e-07 ] [ range 500 .. 543 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+TQLTDARYTYEPITAVEDAGQQPTFDLMVPR-THSFLANGILSHN--*
+>P1;gi|23019247|ref|ZP_00058958.1| COG1372: Intein/homing endonuclea... [ score 55 E 9e-07 ] [ range 162 .. 229 ] [ duplicate b ]
+sequence
+----------------------------------DIRVVNE-KG--ELEQVAALTHNG-RQPVVRITVAS
+GRQVTVTRNHPLRVMNDDGFI---VWREAGQLREGDVLV-------------------------------
+-----------------------------------------------*
+>P1;gi|14520328|ref|NP_125803.1| activator 1, replication factor C, ... [ score 53 E 3e-06 ] [ range 649 .. 756 ] [ duplicate a ]
+sequence
+--VTGDTKVYTPDEREVKIRDFMN----YFENGLIKEVSNR-IG--DTVIAAVSFNSR-GHPVYRLTLES
+GRIIEATGDHMFLTPEG--------WKQTYDIKEGSEVLVKPTLEGTPYEPDP-----------------
+-----------------------------------------------*
+>P1;gi|14520328|ref|NP_125803.1| activator 1, replication factor C, ... [ score 53 E 3e-06 ] [ range 63 .. 174 ] [ duplicate b ]
+sequence
+--LTGDAKV-IANGELTTIGELVERISPTPVRGLTVLGIDE-DG--KLVPVEYVYKDK-TSELVKIRTRL
+GRELKVTPYHPLLVNRRNGKIE---WVKAEELKPGDRLAIPSFLP-------------------------
+-----------------------------------------------*
+>P1;gi|16081190|ref|NP_393482.1| probable ATP synthase, subunit A (i... [ score 52 E 6e-06 ] [ range 237 .. 409 ]
+sequence
+--VSGDTPVLLDAGER-RIGDLFMEAIQDQKNAVEEEIVRL-HG--SEIVESVIYHGK-SNAIVTVRTEN
+GREVRVTPVHKLFVKIGNSVIE----RPASEVNEGDEIA--------------------CASVSENGDSQ
+TVTTTLVLTFDRVVSKEHSGVFDVYDLMVPDYGYNFIGNGLIVHN--*
+>P1;gi|18977366|ref|NP_578723.1| type II secretion system protein [P... [ score 51 E 8e-06 ] [ range 889 .. 985 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+--------------------VSESLIRHIEKGRVKE---IRRSTLKGIALALQQIAKDVGNEEAWVRAKR
+LQLAEGDVYWDEVVSVEEVGIEYVYDLTVE-DDHNYVANGILVSN--*
+>P1;gi|18977366|ref|NP_578723.1| type II secretion system protein [P... [ score 51 E 8e-06 ] [ range 469 .. 592 ] [ duplicate b ]
+sequence
+------SVIQLSNGRFVLIGDLVEELELNEEDRFEVVSVDL-KA--NKHVVSRVWREG-EKLI-RIKTRT
+GNEIILTRNHPLFAFSNGDVVR----KEAEKLKVGDRVAVMMRPPS------------------------
+-----------------------------------------------*
+>P1;gi|14590539|ref|NP_142607.1| secretory protein kinase [Pyrococcu... [ score 51 E 1e-05 ] [ range 925 .. 971 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--IAEGDVYWDEVVSVEEVGIEYVYDLTVE-DDHNYVANGILVSN--*
+>P1;gi|15669231|ref|NP_248036.1| DNA-directed RNA polymerase, subuni... [ score 50 E 2e-05 ] [ range 461 .. 555 ]
+sequence
+--VDGDTTV-LLDGKLIKIKDL-------EDKWKDVKVLDL-NP--KLTSLSKYWKLN-AKKIYKIKTEL
+GREIIATEDHPFYTTNGR--------KRCGELKVGDEVII------------------------------
+-----------------------------------------------*
+>P1;gi|14521344|ref|NP_126820.1| translation initiation factor aIF-2... [ score 50 E 2e-05 ] [ range 70 .. 131 ]
+sequence
+---------------------------------------DG-KT--GLVKASYVWKVR-HKKVIRVKLKN
+WHGVTVTPEHPFLTTKG--------WKRADQLRPGDYVAVPR----------------------------
+-----------------------------------------------*
+>P1;gi|15609874|ref|NP_217253.1| recA [Mycobacterium tuberculosis H3... [ score 49 E 4e-05 ] [ range 252 .. 373 ]
+sequence
+---------CLAEGTRIRIEDVVDGRKPIHVVAA-AKDGTL-HA--RPVVS--WFDQG-TRDVIGLRIAG
+GAIVWATPDHKVLTEYG--------WRAAGELRKGDRVAQPRRFDSAPIPADHARLLGYLIGD-------
+-----------------------------------------------*
+>P1;gi|2145939|pir||S72760 pps1 protein - Mycobacterium leprae >gi|4... [ score 48 E 7e-05 ] [ range 203 .. 312 ]
+sequence
+--LTADARINVKGKGLVSIADVQPGDEVFGVN----IGCEL-ER--GKVLAKVA--SG-TKPVYEMHVA-
+GRALEATGNHQFLVAEGKRTRWTAVWAPLEEIESGEPIAVARVLPDDSG---------------------
+-----------------------------------------------*
+>P1;gi|37519603|ref|NP_922980.1| similar to replicative DNA helicase... [ score 48 E 1e-04 ] [ range 228 .. 320 ] [ duplicate a ]
+sequence
+-----------------PIADPVTGARGEAGKLVEVLTLLG-DG--RLVEPSHFVDDG-IKPVYRVRTGL
+GREVKTTLTHPYLTPTG--------WKPLAEIAAGARIAVP-----------------------------
+-----------------------------------------------*
+>P1;gi|37519603|ref|NP_922980.1| similar to replicative DNA helicase... [ score 48 E 1e-04 ] [ range 416 .. 479 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+------------------------------------YLDIKPAAETPIKPASLWSQDLAHHCD-------
+-------LHWDEIASIEYVGNEQVYDLTVPV-THNFVAADICLHN--*
+>P1;gi|23114639|ref|ZP_00099929.1| COG0209: Ribonucleotide reductase... [ score 48 E 1e-04 ] [ range 243 .. 338 ]
+sequence
+--VTGDTWVLTEEG-AAQVRDLLGSQ-------VKL-ALNG-EY--HETSKEGFFATG-VKQVLTLKTQQ
+GYELKVTADHLVRVASDMTRYKTQEWKPAGELKPGDTIVL------------------------------
+-----------------------------------------------*
+>P1;gi|9229839|dbj|BAB00608.1| A-ATPase A-subunit [Thermoplasma acid... [ score 47 E 2e-04 ] [ range 237 .. 408 ]
+sequence
+--VSGDTPVLLDAGER-RIGDLFMEARPKERGEINEEIVRL-HG--SEIVETVIYHGK-SNAIVNVRTEN
+GREVRVTPVHKLFVKIGNSVIE----RPASEVNEGDEIAWPSVSE-----------------NGDSQ---
+TVTTTLVLTFDRVVSKEHSGVFDVYDLMVPDYGYNFIGNGLIVHN--*
+>P1;gi|18976465|ref|NP_577822.1| replication factor C, small subunit... [ score 46 E 4e-04 ] [ range 61 .. 172 ]
+sequence
+--LTGDTKV-IANGQLFELGELVSGGRFGPTPVKGLKVLDG-KL--REFEVQYVYKDR-TDRLIKIKTQL
+GRELKVTPYHPLLVNRENGEIK---WIKAEELKPGDKLAIPSFLP-------------------------
+-----------------------------------------------*
+>P1;gi|22971633|ref|ZP_00018573.1| hypothetical protein [Chloroflexu... [ score 46 E 5e-04 ] [ range 280 .. 370 ]
+sequence
+ACLHGDSLIVTDHG-LVPMREVVNHRQ-------RLQVSDG-ER--QQTVYD--WNRA-DYPTVTMRTRA
+GFTLTGSHNHRIMLADGT-------WRRLDELQIGDRVRIA-----------------------------
+-----------------------------------------------*

@@ -1,0 +1,564 @@
+>P1;1dvpa
+structureX:1dvp: 157 :A: 220 :A:FYVE domain of hrs:Drosophila melanogaster: 2.00: 21.5
+NWADGRVCHRCRVEFTFTNRKHHCRNCGQVFCGQCTAKQCPLPKYGIEKEVRVCDGCFAALQRG---*
+>P1;1vfya
+structureX:1vfy: 169 :A: 235 :A:FYVE domain of vacuolar protein sorting-associated protein vps27:Saccharomyces cerevisiae: 1.15: 17.4
+DWIDSDACMICSKKFSLLNRKHHCRSCGGVFCQEHSSNSIPLPDLGIYEPVRVCDSCFEDYEFIVTD*
+>P1;gi|19114699|ref|NP_593787.1| putative vacuolar protein sorting-a... [ score 122 E 2e-27 ] [ range 169 .. 227 ]
+sequence
+DWTDSEVCLRCRTPFTFTNRKHHCRNCGGVFCNQCSSKTLSLPHLGINQPVRVCDSCYS--------*
+>P1;gi|31237572|ref|XP_319634.1| ENSANGP00000013939 [Anopheles gambi... [ score 121 E 5e-27 ] [ range 179 .. 241 ]
+sequence
+DWVDGDVCHRCRSQFTFTVRKHHCRNCGQVFCAQCSSKNSTLPKFGIEKEVRVCDGCYAQLQR----*
+>P1;gi|40745747|gb|EAA64903.1| hypothetical protein AN2071.2 [Asperg... [ score 117 E 8e-26 ] [ range 164 .. 225 ]
+sequence
+EWIDSDVCMRCRTPFSFMNRKHHCRNCGNVFDAQCSSKTLPLPHLGILQPVRVDDGCYAKLT-----*
+>P1;gi|45198345|ref|NP_985374.1| AFL176Cp [Eremothecium gossypii] >g... [ score 114 E 6e-25 ] [ range 174 .. 235 ]
+sequence
+DWVDSDACMICSNAFTFLNRKHHCRSCGGIFCNEHSSHQLPLPEMGITEPVRVCDNCYDEYE-----*
+>P1;gi|32405442|ref|XP_323334.1| hypothetical protein [Neurospora cr... [ score 114 E 7e-25 ] [ range 167 .. 228 ]
+sequence
+EWVDSDVCMRCRTAFTFTNRKHHCRNCGNCFDQQCSSKSLPLPHLGIMQAVRVDDGCYAKLT-----*
+>P1;gi|42548104|gb|EAA70947.1| hypothetical protein FG08545.1 [Gibbe... [ score 113 E 1e-24 ] [ range 167 .. 228 ]
+sequence
+EWTDSDVCMRCRTPFTFTNRKHHCRNCGNCFDQQCSAKVVALPHLGIMAPVRVDDGCYAKLT-----*
+>P1;gi|41054083|ref|NP_956162.1| Unknown (protein for MGC:63492) [Da... [ score 112 E 2e-24 ] [ range 159 .. 221 ]
+sequence
+DWVDAEECHRCRVQFGVMTRKHHCRACGQIFCGKCSSKYSTIPKFGIEKEVRVCEPCFEILNK----*
+>P1;gi|39587494|emb|CAE58432.1| Hypothetical protein CBG01567 [Caeno... [ score 110 E 1e-23 ] [ range 156 .. 215 ]
+sequence
+EWADGPECYRCRSIFTVFTRKHHCRACGQIFCDKCSSREMALPQFGIEKEVRVCETCYEK-------*
+>P1;gi|33514729|sp|Q810B6|AFY1_MOUSE Ankyrin repeats- and FYVE domai... [ score 109 E 2e-23 ] [ range 1104 .. 1166 ]
+sequence
+-WCDGSNCYECTAKFGVTTRKHHCRHCGRLLCHKCSTKEIPIIKFDLNKPVRVCNICFDVLTLG---*
+>P1;gi|31317212|ref|NP_057460.2| ankyrin repeat and FYVE domain cont... [ score 109 E 2e-23 ] [ range 1104 .. 1166 ]
+sequence
+-WCDGSYCYECTARFGVTTRKHHCRHCGRLLCHKCSTKEIPIIKFDLNKPVRVCNICFDVLTLG---*
+>P1;gi|30923613|gb|EAA46090.1| CG17419-PC.3 [Drosophila melanogaster] [ score 108 E 3e-23 ] [ range 1057 .. 1119 ]
+sequence
+-WAESDYCQHCTNRFTITMRKHHCRHCGRVLCSKCSCNDVPILKFGINKPVRVCTVCFNVLQCG---*
+>P1;gi|7495620|pir||T15447 hypothetical protein C07G1.5 - Caenorhabd... [ score 108 E 3e-23 ] [ range 192 .. 251 ]
+sequence
+EWADGPECYRCRSVFSVFTRKHHCRACGQIFCDKCSSRELALPQFGIEKEVRVCETCYEK-------*
+>P1;gi|31197987|ref|XP_307941.1| ENSANGP00000006257 [Anopheles gambi... [ score 105 E 3e-22 ] [ range 1066 .. 1128 ]
+sequence
+-WASSELCQECGTKFSITMRKHHCRHCGRNLCSRCSNNDVPIIKFGINKPVRVCSVCFEVLQIG---*
+>P1;gi|6759376|dbj|BAA90300.1| ANKHZN [Homo sapiens] [ score 104 E 4e-22 ] [ range 1101 .. 1163 ]
+sequence
+-WCDGSYCYECTARFGVATRKHHCRHCGRLLCHKCSTKEIPIIKFDLNKPVRVCTICFDVLTLG---*
+>P1;gi|24650538|ref|NP_651542.1| CG6051-PA [Drosophila melanogaster]... [ score 104 E 8e-22 ] [ range 903 .. 956 ]
+sequence
+----APRCMACQTPFTAFRRRHHCRNCGGVFCGVCSNASAPLPKYGLTKAVRVCRDCY---------*
+>P1;gi|34870697|ref|XP_340795.1| similar to RUN and FYVE domain cont... [ score 99 E 2e-20 ] [ range 1003 .. 1058 ]
+sequence
+---EATHCKQCEKDFSISRRKHHCRNCGHIFCNTCSSNELALPSY--PKPVRVCDSCHTLL------*
+>P1;gi|23956210|ref|NP_081701.1| RUN and FYVE domain-containing 2; d... [ score 98 E 6e-20 ] [ range 542 .. 597 ]
+sequence
+---DATHCKLCEKEFSLSKRKHHCRNCGEIFCNACSDNELPLPS--SPKPVRVCDSCHAML------*
+>P1;gi|7499704|pir||T21280 hypothetical protein F22G12.4 - Caenorhab... [ score 97 E 1e-19 ] [ range 1041 .. 1102 ]
+sequence
+-WSDGDTC-DCGARFSLTSRKHHCRHCGRHVCSKCSETTMPIAKYGEEKRVRVCDVCAHVISTG---*
+>P1;gi|22095371|ref|NP_079434.2| RUN and FYVE domain-containing 1 [H... [ score 96 E 2e-19 ] [ range 536 .. 591 ]
+sequence
+---EATHCRQCEKEFSISRRKHHCRNCGHIFCNTCSSNELALPSY--PKPVRVCDSCHTLL------*
+>P1;gi|39930599|ref|NP_766470.2| WD repeat and FYVE domain containin... [ score 96 E 2e-19 ] [ range 3439 .. 3496 ]
+sequence
+----GDSCSGCSVRFSLTERRHHCRNCGQLFCQKCSRFQSEIKRLKISSPVRVCQNCYYSLQ-----*
+>P1;gi|34906618|ref|NP_914656.1| P0431G06.4 [Oryza sativa (japonica ... [ score 96 E 2e-19 ] [ range 655 .. 718 ]
+sequence
+--SDQSMCSGCRQPFNLRRKRHNCYNCALVFCHSCSSKKSLKASLAPNKPYRVCDSCYSKLTKG---*
+>P1;gi|28830052|gb|AAO52542.1| similar to PH (pleckstrin homology) d... [ score 96 E 3e-19 ] [ range 498 .. 553 ]
+sequence
+---EATKCMFCNDGFTIINRRHHCRNCGKVVCGSCSPHKRLIPHIKKNKPVRVCLFCYD--------*
+>P1;gi|15236489|ref|NP_193173.1| disease resistance protein (TIR-NBS... [ score 95 E 5e-19 ] [ range 1536 .. 1599 ]
+sequence
+--ADQSVCSGCRQAFGFTRKRHNCYNCGLVHCHACSSKKALKAALAPTKPHRVCDACYTKLKAG---*
+>P1;gi|15231820|ref|NP_188044.1| phosphatidylinositol-4-phosphate 5-... [ score 94 E 1e-18 ] [ range 43 .. 107 ]
+sequence
+-----RVCYECDCQFTLINRRHHCRHCGRVFCGKCTANSIPTPREDWER-IRVCNYCFRQWEQG---*
+>P1;gi|34222508|sp|Q15075|EEA1_HUMAN Early endosome antigen 1 (Endos... [ score 94 E 1e-18 ] [ range 1349 .. 1410 ]
+sequence
+-WAEDQNCMACGKGFSVTVRRHHCRQCGNIFCAECSAKNALTPS--SKKPVRVCDACFNDLQ-----*
+>P1;gi|34535888|dbj|BAC87464.1| unnamed protein product [Homo sapiens] [ score 93 E 1e-18 ] [ range 848 .. 905 ]
+sequence
+----ATMCMICTSEFTLTWRRHHCRACGKIVCQACSSNKYGLD-YLKNQPARVCEHCFQELQK----*
+>P1;gi|38090688|ref|XP_125851.4| similar to Early endosome antigen 1... [ score 93 E 1e-18 ] [ range 1391 .. 1452 ]
+sequence
+-WAEDQNCMSCGKCFSVTVRRHHCRQCGNIFCAECSTKNALTPS--SKKPVRVCDACFNDLQ-----*
+>P1;gi|24650559|ref|NP_733203.1| CG31064-PB [Drosophila melanogaster... [ score 93 E 2e-18 ] [ range 665 .. 728 ]
+sequence
+-WAPATHCTACEREFNLTRRKHHCRSCGEIFCKACSEHTLPLAQGQPGKPVRVCDNCYAA-------*
+>P1;gi|7939537|dbj|BAA95740.1| chromosome condensation regulator-lik... [ score 92 E 3e-18 ] [ range 609 .. 670 ]
+sequence
+--ADQSICSGCRQAFGFTRKRHNCYNCGLVHCHACSSKKALKAALAPTKPHRVCDACYSKLK-----*
+>P1;gi|31205533|ref|XP_311718.1| ENSANGP00000013621 [Anopheles gambi... [ score 91 E 5e-18 ] [ range 538 .. 612 ]
+sequence
+-WTPDKVCTGCEKEFSITRRKHHCRNCGKIFCSSCSEHVAALPDHGSSKPVRVCDHCWEKL------*
+>P1;gi|39580472|emb|CAE60704.1| Hypothetical protein CBG04367 [Caeno... [ score 91 E 9e-18 ] [ range 771 .. 831 ]
+sequence
+-WSDGDTC-DCGTRFSLTQRKHHCR-CGRHVCSKCSETQMPIAKYGEEKRVRVCDVCAHVISTG---*
+>P1;gi|21411215|gb|AAH30808.1| ZFYVE16 protein [Homo sapiens] [ score 90 E 2e-17 ] [ range 748 .. 807 ]
+sequence
+--SEAPNCMNCQVKFTFTKRRHHCRACGKVFCGVCCNRKCKL--QYLEKEARVCVVCYETISKG---*
+>P1;gi|39594253|emb|CAE70363.1| Hypothetical protein CBG16921 [Caeno... [ score 90 E 2e-17 ] [ range 111 .. 171 ]
+sequence
+--STGRECYQCEERFTTFRRRHHCRLCGQIFCAKCCSSHIDGAALGYMGELRLCDYCARKVQR----*
+>P1;gi|28972139|dbj|BAC65523.1| mKIAA0305 protein [Mus musculus] [ score 88 E 4e-17 ] [ range 744 .. 802 ]
+sequence
+--SEAPNCMNCQVKFTFTKRRHHCRACGKVFCGVCCNRKCKL--QYLEKEARVCVICYETINK----*
+>P1;gi|39596028|emb|CAE67531.1| Hypothetical protein CBG13053 [Caeno... [ score 88 E 4e-17 ] [ range 564 .. 628 ]
+sequence
+--SECQNCMLCNVKFTIITRRHHCRACGRVLCGSCCSEKSVLDKEDGKKPVRVCKPCSTMLSR----*
+>P1;gi|25513734|pir||H86334 T20H2.10 protein - Arabidopsis thaliana ... [ score 88 E 4e-17 ] [ range 452 .. 516 ]
+sequence
+-WVPDSKCTSCGSDFGAFIRRHHCRNCGDVFCDKCTQGRIALTAEDNAPQVRVCDRCMAEVSQ----*
+>P1;gi|7486447|pir||T05204 hypothetical protein F4I10.170 - Arabidop... [ score 88 E 4e-17 ] [ range 40 .. 104 ]
+sequence
+-----PVCYECDAQFTVFNRRHHCRLCGRVFCAKCAANSIPSPSHEEPERIRVCNYCYKQWEQG---*
+>P1;gi|4101568|gb|AAD10234.1| unknown [Triticum aestivum] [ score 88 E 5e-17 ] [ range 352 .. 416 ]
+sequence
+-WVPDEACQSCAGDFSHFNRRHHCRNCGEIFCDKCSQGRIALTAEDNAPLVRVCDRCMAEVSQ----*
+>P1;gi|31566398|gb|AAH53655.1| FGD1 family member 2 [Homo sapiens] [ score 88 E 5e-17 ] [ range 462 .. 518 ]
+sequence
+-----TMCMRCQEPFNLTRRRHHCRACGYVVCARCSDYRAEL-KYDDNRPNRVCLHCYAFLT-----*
+>P1;gi|22532960|gb|AAM98040.1| A kinase anchor protein protein 1, is... [ score 87 E 6e-17 ] [ range 542 .. 606 ]
+sequence
+--SECPNCMLCNTRFTIITRRHHCRACGRVLCGSCCNEKAFLEYLQEEQAVRVCKPCSAMLAR----*
+>P1;gi|34365081|emb|CAE45896.1| hypothetical protein [Homo sapiens] [ score 87 E 7e-17 ] [ range 913 .. 968 ]
+sequence
+------MCMNCGCDFSLTLRRHHCHACGKIVCRNCSRNKYPL-KYLKDRTAKVCDGCFGELKK----*
+>P1;gi|7512180|pir||T17457 SARA protein - African clawed frog >gi|40... [ score 87 E 7e-17 ] [ range 517 .. 578 ]
+sequence
+-WVPDSQCMKCEARFTFTKRRHHCRACGKVFCAACCSLKCKLQYMD-KKEARVCVICHSVL------*
+>P1;gi|22268148|gb|AAH26860.1| Fgd6 protein [Mus musculus] [ score 87 E 8e-17 ] [ range 660 .. 717 ]
+sequence
+----ATMCMICTSEFTLTWRRHHCRACGKIVCQACSSNKYGLD-YLKGQLARVCEHCFQELQK----*
+>P1;gi|31377796|ref|NP_004678.2| myotubularin related protein 4; zin... [ score 87 E 8e-17 ] [ range 1111 .. 1174 ]
+sequence
+-WVPASHCYNCDCEFWLAKRRHHCRNCGNVFCAGCCHLKLPIPDQQLYDPVLVCNSCYEHIQ-----*
+>P1;gi|34393553|dbj|BAC83151.1| unknown protein [Oryza sativa (japon... [ score 87 E 8e-17 ] [ range 367 .. 431 ]
+sequence
+-WVPDEACYSCAVDFSPFNRRHHCRNCGEIFCDKCSQGRTALTAEDNAPLVRVCDRCMAEVSQ----*
+>P1;gi|30425326|ref|NP_780755.1| WD repeat and FYVE domain containin... [ score 87 E 1e-16 ] [ range 280 .. 352 ]
+sequence
+EWLDSDSCQKCDQPFFWNVRQHHCRKCGKAVCGKCSSKRSSIPLMGFEFEVRVCDSCHEAIT-----*
+>P1;gi|33589546|gb|AAQ22540.1| LD11744p [Drosophila melanogaster] [ score 87 E 1e-16 ] [ range 1162 .. 1225 ]
+sequence
+-WVPDSRCSSCQTEFWLGRRKHHCRSCGEIFCADCSEFWAPLPNEKLFNPVRLCGSCYTSVT-----*
+>P1;gi|34394538|dbj|BAC83843.1| LAs17 Binding protein-like [Oryza sa... [ score 86 E 1e-16 ] [ range 183 .. 248 ]
+sequence
+EWLPDSSCMQCAASFTVVTRRHHCRFCGGIFCRTCSKGRCLLPKFRERNPQRVCDACYDRL------*
+>P1;gi|15291953|gb|AAK93245.1| LD33044p [Drosophila melanogaster] [ score 86 E 2e-16 ] [ range 528 .. 590 ]
+sequence
+-WVPDNMCMQCQQKFTMIKRRHHCRACGKVLCSVCCSQRFRL-EFATEPESRVCVQCYMILS-----*
+>P1;gi|26335011|dbj|BAC31206.1| unnamed protein product [Mus musculu... [ score 86 E 3e-16 ] [ range 462 .. 518 ]
+sequence
+-----TMCMRCQEPFNLTRRRHHCRACGYVVCAKCSDYRAEL-KYDSNRPNRVCLTCYTFLT-----*
+>P1;gi|15088545|gb|AAK84081.1| putative chromosome condensation fact... [ score 86 E 3e-16 ] [ range 426 .. 487 ]
+sequence
+--ADQSQCSSCRQPFGFTRKRHNCYNCGLVHCNACTSRKALRAALAPSKLHRVCDSCYSKLK-----*
+>P1;gi|39592962|emb|CAE62576.1| Hypothetical protein CBG06689 [Caeno... [ score 86 E 3e-16 ] [ range 1096 .. 1158 ]
+sequence
+-WLDDSNCTECGKLFSLTVRKHHCRVCGKIYCNPCSSKSVRIAS--AKHPVRACNHCFAESQK----*
+>P1;gi|33146865|dbj|BAC79863.1| senescence-associated putative prote... [ score 85 E 4e-16 ] [ range 153 .. 213 ]
+sequence
+--SSTSVCLQCSLPFTLTRGRHHCRFCGGIFCKDCSKGRCLMPKFRQRDPQRVCDACYDRL------*
+>P1;gi|15222423|ref|NP_177129.1| zinc finger protein, putative / reg... [ score 85 E 5e-16 ] [ range 635 .. 701 ]
+sequence
+-WVPGSECAGCRNPFNFRRKRHNCYNCGLVFCKVCSSRKSLRAALDMNKPYRVCYGCFTKLKK----*
+>P1;gi|34905860|ref|NP_914277.1| putative chromosome condensation fa... [ score 85 E 5e-16 ] [ range 426 .. 486 ]
+sequence
+--AEQSQCASCRQPFGFTRKRHNCHNCGLVHCNACTSRKAVRAALAPNKPYRVCDSCFLKL------*
+>P1;gi|45387901|ref|NP_991308.1| WD repeat and FYVE domain containin... [ score 84 E 5e-16 ] [ range 280 .. 352 ]
+sequence
+EWLDSDSCQKCEQPFFWNLRQHHCRKCGQAVCGKCSSKRSTIPLMGFEFEVRVCDSCHDLIT-----*
+>P1;gi|24639109|ref|NP_569923.2| CG14782-PA [Drosophila melanogaster... [ score 84 E 5e-16 ] [ range 153 .. 212 ]
+sequence
+--TDASVCMHCKTQFTFIQRRHHCRNCGAVVCAGCSAKKFLLP-QQSTKALRVCDACYERLK-----*
+>P1;gi|13470092|ref|NP_078789.1| FYVE and coiled-coil domain contain... [ score 84 E 6e-16 ] [ range 1174 .. 1233 ]
+sequence
+--TEANHCLDCKREFSWMVRRHHCRICGRIFCYYCCNNYV-LSKHGGKKE-RCCRACFQKLSEG---*
+>P1;gi|17532659|ref|NP_495565.1| A Kinase Anchor protein AKA-1, Smad... [ score 84 E 9e-16 ] [ range 538 .. 602 ]
+sequence
+-WIPDSECPNC-MLFTIITRRHHCRACGRVLCGSCCNEKAFLEYLQEEQAVRVCKPCSAMLAR----*
+>P1;gi|31237900|ref|XP_319687.1| ENSANGP00000021406 [Anopheles gambi... [ score 84 E 9e-16 ] [ range 288 .. 360 ]
+sequence
+DWVESDTCQLCTRAFFWNLRQHHCRYCGKAVCDKCSTNRINIPIMGFEFDVRVCDQCHQRLK-----*
+>P1;gi|21436532|emb|CAD29636.1| putative Tyr/Ser/Thr phosphatase [An... [ score 84 E 9e-16 ] [ range 1802 .. 1865 ]
+sequence
+-WVPDTRCTTCQTVFWIGLRKHHCRSCGQIFCAECSDYTAHLPEERLYQPVRLCGPCYQRIS-----*
+>P1;gi|22770461|gb|AAN06607.1| chromosome condensation regulator pro... [ score 84 E 1e-15 ] [ range 213 .. 273 ]
+sequence
+--AEQSQCSTCRQAFGFTRKRHNCYNCGLVHCHSCSSRKAFRAALAPNKPYRVCDSCYTKL------*
+>P1;gi|15228210|ref|NP_190350.1| regulator of chromosome condensatio... [ score 84 E 1e-15 ] [ range 637 .. 698 ]
+sequence
+--TDSTKCSGCRHPFNYMRKLHNCYNCGSVFCNSCTSKKSLAAAMAPNRPYRVCDDCYIKLE-----*
+>P1;gi|27924428|gb|AAH45024.1| Mtmr4-prov protein [Xenopus laevis] [ score 84 E 1e-15 ] [ range 994 .. 1057 ]
+sequence
+-WVPASHCFNCDCEFWLAKRRHHCRNCGNVFCAACCHLKLPIPDQQLYDPVLVCNTCYDHIQ-----*
+>P1;gi|21667040|gb|AAM73878.1| cytokinesis protein Don1 [Ustilago ma... [ score 84 E 1e-15 ] [ range 939 .. 1004 ]
+sequence
+-WVPADKCCNCQEAFGMWRRKHHCRLCGQVVCWTCSQRSFLIPSYQPDRQARACDGCYDSV------*
+>P1;gi|25150872|ref|NP_506347.2| similar to early endosome-associate... [ score 83 E 1e-15 ] [ range 1145 .. 1205 ]
+sequence
+DDAEAINCTECGKVFSLTVRKHHCRVCGKIYCNPCSSKSVRIAS--AKNPVRACNTCFTDSQK----*
+>P1;gi|7511917|pir||T13576 hypothetical protein 52C10.5 - fruit fly ... [ score 83 E 1e-15 ] [ range 229 .. 281 ]
+sequence
+----AKECYDCSQKFSTFRRKHHCRLCGQIFCSKCCNQVVPGMIIRCDGDLKVCNYC----------*
+>P1;gi|15218867|ref|NP_176767.1| regulator of chromosome condensatio... [ score 83 E 2e-15 ] [ range 640 .. 699 ]
+sequence
+---DQTACSSCKSAFGFTRRKHNCYNCGLLFCNACSSKKAVNASLAPNKSSRVCDSCFDHL------*
+>P1;gi|39930347|ref|NP_055855.1| phosphatidylinositol-3-phosphate/ph... [ score 83 E 2e-15 ] [ range 155 .. 213 ]
+sequence
+-WMPDSQCYDCSEKFTTFRRRHHCRLCGQIFCSRCCNQEIPGKFMGYTGDLRACTYC----------*
+>P1;gi|34876951|ref|XP_237323.2| similar to WD repeat and FYVE domai... [ score 83 E 2e-15 ] [ range 304 .. 375 ]
+sequence
+-WLESDSCQKCEQPFTLGLRQHHCRKCGQAVCGKCSSKRSSYPVMGFEFQVRVCDSCYDSIK-----*
+>P1;gi|41053835|ref|NP_956538.1| hypothetical protein MGC56073 [Dani... [ score 82 E 2e-15 ] [ range 153 .. 214 ]
+sequence
+--SEATVCMRCQKKFTPVNRRHHCRKCGFVVCGPCSEKKFLLPSQ-SSKPVRVCEFCYKQLSTG---*
+>P1;gi|23509796|ref|NP_702463.1| hypothetical protein [Plasmodium fa... [ score 82 E 2e-15 ] [ range 38 .. 92 ]
+sequence
+---EVTNCYSCNVVFNVRVRKHHCRACGNVFCSNCSDNKIKISEYSYSEKVRVCDRCF---------*
+>P1;gi|37589370|gb|AAH59312.1| Mtmr3 protein [Xenopus laevis] [ score 82 E 2e-15 ] [ range 1147 .. 1209 ]
+sequence
+-WVPDHVCYNCDSTFWLASRKHHCRNCGNVFCSSCCNQKAAVPSQQLFEPSRVCKLCYTNL------*
+>P1;gi|17569407|ref|NP_508756.1| FYVE type zinc finger containing pr... [ score 82 E 3e-15 ] [ range 568 .. 616 ]
+sequence
+---DCEQCTACSMPFNFVRRRHHCRNCGRIFCHKCSCNTISIPEHGYDKPV----------------*
+>P1;gi|41688293|dbj|BAD08647.1| FYVE and coiled-coil domain containi... [ score 82 E 4e-15 ] [ range 1273 .. 1332 ]
+sequence
+--TEANHCLDCKREFSWMVRRHHCRICGRIFCYYCCNNYVLSKHSG--KKERCCRACFHKLSGG---*
+>P1;gi|34879872|ref|XP_343780.1| similar to faciogenital dysplasia h... [ score 81 E 5e-15 ] [ range 823 .. 880 ]
+sequence
+---EVTMCMRCQEPFNITKRRHHCKACGHVVCGKCSEFRARL-IYDNNRSNRVCTDCYVAL------*
+>P1;gi|29611667|ref|NP_780384.1| phafin 2; EST AA673237 [Mus musculu... [ score 81 E 6e-15 ] [ range 153 .. 214 ]
+sequence
+--SEATVCMRCQKKFTPVNRRHHCRKCGFVVCGPCSEKRFLLPSQ-SSKPVRICDFCYDLLSTG---*
+>P1;gi|31210303|ref|XP_314118.1| ENSANGP00000003760 [Anopheles gambi... [ score 81 E 6e-15 ] [ range 205 .. 263 ]
+sequence
+-WMPDSECYDCSVKFTTFRRKHHCRLCGQIFCTKCCNQVVTGKIINCSEDLRVCNYC----------*
+>P1;gi|42407620|dbj|BAD08735.1| 1-phosphatidylinositol-3-phosphate 5... [ score 81 E 7e-15 ] [ range 58 .. 117 ]
+sequence
+-----RVCYDCDAQFTILNRRHHCRHCGRVFCARCTANSVPRAPGDAAREIRVCNYCFRRW------*
+>P1;gi|25054840|gb|AAN71910.1| unknown protein [Arabidopsis thaliana] [ score 81 E 7e-15 ] [ range 186 .. 247 ]
+sequence
+--SAASACMLCSVRFPIMCSRHHCRYCGGIFCRDCSKGKSLVPKFRVSDPQRVCDVCFVRLE-----*
+>P1;gi|1246823|emb|CAA61964.1| hypothetical protein [Phoenix dactyli... [ score 81 E 9e-15 ] [ range 215 .. 278 ]
+sequence
+-WVPDSKCTSCGADFGAFVRRHHCRSCGDIFCDKCTQGRIALTADENAQPVRVCDRCMAEVS-----*
+>P1;gi|27769269|gb|AAH42732.1| Fgd5 protein [Mus musculus] [ score 81 E 1e-14 ] [ range 329 .. 383 ]
+sequence
+------MCMNCGCDFSLTVRRHHCHACGKIVCRNCSRNKYPL-KCLKNRMAKVCDGCFRELK-----*
+>P1;gi|21245128|ref|NP_640334.1| FGD1 family, member 4; actin-filame... [ score 80 E 1e-14 ] [ range 561 .. 619 ]
+sequence
+---EVTMCMKCKEPFNLTRRRHHCRACGYVVCWKCSDYKAQL-EYDGGKLSKVCKDCYQIIS-----*
+>P1;gi|39580345|emb|CAE64500.1| Hypothetical protein CBG09227 [Caeno... [ score 80 E 2e-14 ] [ range 763 .. 826 ]
+sequence
+--AEAPNCCLCKKEFNKMDRQHHCRNCGRVVCEECSKQRFAVVEEGQSVQKRVCDKCYESM------*
+>P1;gi|462047|sp|P34756|FAB1_YEAST 1-phosphatidylinositol-3-phosphat... [ score 79 E 2e-14 ] [ range 243 .. 296 ]
+sequence
+----SKECFSCGKTFNTFRRKHHCRICGQIFCSSCT-LLIDGDRFGCHAKMRVCYNCYE--------*
+>P1;gi|19921078|ref|NP_609400.1| CG5168-PA [Drosophila melanogaster]... [ score 79 E 2e-14 ] [ range 289 .. 360 ]
+sequence
+-WVDTNNCQLCSRPF-FWNRQHHCRHCGKAVCDNCSTNRINIPIMGFEFDVRTCDPCYKQLQ-----*
+>P1;gi|34906752|ref|NP_914723.1| contains EST AU056950(S21011)~simil... [ score 79 E 2e-14 ] [ range 11 .. 67 ]
+sequence
+---ESAHCDVCRCTFTTFRRRHHCRNCGRTLCHEHSSYHMALPQYGIYTDVRVCYDCFNK-------*
+>P1;gi|23488441|gb|EAA21318.1| zinc finger, putative [Plasmodium yoe... [ score 79 E 2e-14 ] [ range 37 .. 91 ]
+sequence
+---EVTNCYSCNVFFNVRVRKHHCRACGNVFCSNCSDNKIKISEYSYSEKVRVCDKCF---------*
+>P1;gi|31203489|ref|XP_310693.1| ENSANGP00000020736 [Anopheles gambi... [ score 79 E 3e-14 ] [ range 399 .. 454 ]
+sequence
+---DVDQCPNCKKEFTVTRRKQHCRHCGTIYCQPCLGKS--VPSGPNRKPARVCDVCHTLL------*
+>P1;gi|28874834|emb|CAC84086.1| ZR1 protein [Medicago sativa] [ score 79 E 4e-14 ] [ range 652 .. 713 ]
+sequence
+--SDQSSCNGCRLPFGFTRKKHNCYNCGLLFCRSCSSKKVLNASLAPSKAFRVCESCFNKKQ-----*
+>P1;gi|42657055|ref|XP_035371.7| KIAA1643 protein [Homo sapiens] [ score 78 E 4e-14 ] [ range 1241 .. 1337 ]
+sequence
+EWVPDEACTACKAPFTVIRRKHHCRSCGKIFCSRCSSHSAPLPRYGQVKPVRVCTHCY---------*
+>P1;gi|41054377|ref|NP_956634.1| hypothetical protein MGC63897 [Dani... [ score 78 E 5e-14 ] [ range 156 .. 216 ]
+sequence
+--VASAICMRCSKRFTVANRRHHCRRCGYIVCQACSKGRAVLPHI-SNRPVRVCRNCKNDMTDG---*
+>P1;gi|24659421|ref|NP_726322.1| CG3530-PA [Drosophila melanogaster]... [ score 78 E 6e-14 ] [ range 694 .. 758 ]
+sequence
+DWKPVTTCS-CSTPFDQFSKKTHCWRCGDIFCERCIDKNVALPGHDSGKPVPVCRGCFRQMQK----*
+>P1;gi|7511499|pir||T42241 myotubularin protein 1 homolog - Caenorha... [ score 78 E 6e-14 ] [ range 820 .. 882 ]
+sequence
+---ESGHCAYCKKEFNVEDRQHHCRNCGRVVCEDCSKNRFSVIEEGKSVQKRACDSCYDSM------*
+>P1;gi|20891879|ref|XP_148343.1| similar to Putative Rho/Rac guanine... [ score 78 E 6e-14 ] [ range 561 .. 619 ]
+sequence
+---EVTMCMKCKESFNLTRRRHHCRACGHVVCWKCSDYKAQL-EYDGGRLNKVCKDCYQIIS-----*
+>P1;gi|42733858|gb|AAS38776.1| similar to Plasmodium falciparum. Hyp... [ score 77 E 7e-14 ] [ range 563 .. 613 ]
+sequence
+----SNNCSLCSALFTFFKRRHHCRRCGLLFCNSCSSKKREVK--GYSEKVRVCEEC----------*
+>P1;gi|4758528|ref|NP_004703.1| hepatocyte growth factor-regulated t... [ score 115 E 2e-25 ] [ range 159 .. 224 ]
+sequence
+DWVDAEECHRCRVQFGVMTRKHHCRACGQIFCGKCSSKYSTIPKFGIEKEVRVCEPCYEQLNRKAE-*
+>P1;gi|26337981|dbj|BAC32676.1| unnamed protein product [Mus musculus] [ score 114 E 6e-25 ] [ range 159 .. 224 ]
+sequence
+DWVDAEECHRCRVQFGVVTRKHHCRACGQIFCGKCSSKYSTIPKFGIEKEVRVCEPCYEQLNKKAE-*
+>P1;gi|38105892|gb|EAA52266.1| hypothetical protein MG04958.4 [Magna... [ score 112 E 2e-24 ] [ range 167 .. 229 ]
+sequence
+EWTDSDVCMRCRTPFTFTNRKHHCRNCGSCFDQQCSSKSIPLPHLGIMQPVRVDDGCYAK----VTD*
+>P1;gi|27820111|gb|AAO25080.1| AT11823p [Drosophila melanogaster] [ score 100 E 7e-21 ] [ range 715 .. 774 ]
+sequence
+-WIPDGKCMACQTPFTAFRRRHHCRNCGGVFCGVCSNASAPLPKYGLTKAVRVCRDCY---------*
+>P1;gi|23194377|gb|AAN15137.1| ALFY [Homo sapiens] [ score 99 E 2e-20 ] [ range 3451 .. 3514 ]
+sequence
+-WVKDDSCSGCSVRFSLTERRHHCRNCGQLFCQKCSRFQSEIKRLKISSPVRVCQNCYYNLQ-----*
+>P1;gi|34222508|sp|Q15075|EEA1_HUMAN Early endosome antigen 1 (Endos... [ score 98 E 6e-20 ] [ range 1349 .. 1411 ]
+sequence
+-WAEDNECMACGKGFSVTVRRHHCRQCGNIFCAECSAKNALTPSSK--KPVRVCDACFNDLQG----*
+>P1;gi|38090688|ref|XP_125851.4| similar to Early endosome antigen 1... [ score 97 E 8e-20 ] [ range 1391 .. 1453 ]
+sequence
+-WAEDNECMSCGKCFSVTVRRHHCRQCGNIFCAECSTKNALTPSSK--KPVRVCDACFNDLQG----*
+>P1;gi|39594253|emb|CAE70363.1| Hypothetical protein CBG16921 [Caeno... [ score 97 E 8e-20 ] [ range 107 .. 175 ]
+sequence
+-WMPDSTCYQCEERFTTFRRRHHCRLCGQIFCAKCCSSHIDGAALGYMGELRLCDYCARKVQRLAED*
+>P1;gi|34535888|dbj|BAC87464.1| unnamed protein product [Homo sapiens] [ score 97 E 1e-19 ] [ range 842 .. 906 ]
+sequence
+-WIPDTMCMICTSEFTLTWRRHHCRACGKIVCQACSSNKYGLDYL-KNQPARVCEHCFQELQKL---*
+>P1;gi|34870697|ref|XP_340795.1| similar to RUN and FYVE domain cont... [ score 97 E 1e-19 ] [ range 998 .. 1055 ]
+sequence
+-WLKDDHCKQCEKDFSISRRKHHCRNCGHIFCNTCSSNELALPSY--PKPVRVCDSCH---------*
+>P1;gi|28830052|gb|AAO52542.1| similar to PH (pleckstrin homology) d... [ score 96 E 2e-19 ] [ range 493 .. 553 ]
+sequence
+-WIPDTKCMFCNDGFTIINRRHHCRNCGKVVCGSCSPHKRLIPHIKKNKPVRVCLFCYD--------*
+>P1;gi|39597898|emb|CAE68590.1| Hypothetical protein CBG14460 [Caeno... [ score 96 E 2e-19 ] [ range 554 .. 613 ]
+sequence
+-WVDCEQCTACSMPFNFVRRRHHCRNCGRIFCHKCSCNSISIPEHGYDRKVRVCNLCY---------*
+>P1;gi|45445019|gb|AAF52302.4| CG14001-PA [Drosophila melanogaster] [ score 96 E 2e-19 ] [ range 3420 .. 3488 ]
+sequence
+-WLKDDQCVKCHVKFTLYERKHHCRNCGQVFCNKCSRFESEISRLRILKPVRVCQACYSQLRTNSLD*
+>P1;gi|4731867|gb|AAD28546.1| sterol glucosyltransferase [Dictyostel... [ score 96 E 2e-19 ] [ range 952 .. 1011 ]
+sequence
+-----NSCMGCKQPFTLMKARVHCHCCGKIFCESCTSHKCPIKKYRINTPVRVCDKCFNDLQ-----*
+>P1;gi|15231820|ref|NP_188044.1| phosphatidylinositol-4-phosphate 5-... [ score 93 E 1e-18 ] [ range 36 .. 105 ]
+sequence
+-WMPDQSCYECDCQFTLINRRHHCRHCGRVFCGKCTANSIPFAPSDLRTPIRVCNYCFRQWE-----*
+>P1;gi|22095371|ref|NP_079434.2| RUN and FYVE domain-containing 1 [H... [ score 91 E 5e-18 ] [ range 531 .. 588 ]
+sequence
+-WLKDDHCRQCEKEFSISRRKHHCRNCGHIFCNTCSSNELALPSY--PKPVRVCDSCH---------*
+>P1;gi|4101568|gb|AAD10234.1| unknown [Triticum aestivum] [ score 91 E 6e-18 ] [ range 352 .. 419 ]
+sequence
+-WVPDEACQSCAGDFSHFNRRHHCRNCGEIFCDKCSQGRIALTAEDNAPLVRVCDRCMAEVQRLS--*
+>P1;gi|462047|sp|P34756|FAB1_YEAST 1-phosphatidylinositol-3-phosphat... [ score 91 E 7e-18 ] [ range 237 .. 296 ]
+sequence
+-WMKDESCFSCGKTFNTFRRKHHCRICGQIFCSSCT-LLIDGDRFGCHAKMRVCYNCYE--------*
+>P1;gi|24650559|ref|NP_733203.1| CG31064-PB [Drosophila melanogaster... [ score 91 E 7e-18 ] [ range 665 .. 726 ]
+sequence
+-WAPDSHCTACEREFNLTRRKHHCRSCGEIFCKACSEHTLPLAQGQPGKPVRVCDNCY---------*
+>P1;gi|22268148|gb|AAH26860.1| Fgd6 protein [Mus musculus] [ score 91 E 8e-18 ] [ range 654 .. 718 ]
+sequence
+-WIPDTMCMICTSEFTLTWRRHHCRACGKIVCQACSSNKYGLDYL-KGQLARVCEHCFQELQKL---*
+>P1;gi|31208985|ref|XP_313459.1| ENSANGP00000020183 [Anopheles gambi... [ score 91 E 9e-18 ] [ range 622 .. 681 ]
+sequence
+-WIDAPRCMACASAFTPFRRRHHCRNCGGVFCGVCSNLSKPLPKYGLTKAVRVCRDCY---------*
+>P1;gi|25513734|pir||H86334 T20H2.10 protein - Arabidopsis thaliana ... [ score 91 E 9e-18 ] [ range 452 .. 519 ]
+sequence
+-WVPDEACTSCGSDFGAFIRRHHCRNCGDVFCDKCTQGRIALTAEDNAPQVRVCDRCMAEVQRLS--*
+>P1;gi|38564274|gb|AAR23716.1| At1g61690 [Arabidopsis thaliana] [ score 90 E 1e-17 ] [ range 18 .. 73 ]
+sequence
+-WVDASHCQGCSSQFTFINRKHHCRRCGGLFCGTCTQQRLSLRGQGDS-PVRICEPC----------*
+>P1;gi|32417590|ref|XP_329273.1| hypothetical protein [Neurospora cr... [ score 90 E 1e-17 ] [ range 459 .. 518 ]
+sequence
+-WMKDETCFACGSPFTAFRRKHHCRTCGCIFCSKCTS-TISGQKFGVQGTLRVCKNCLE--------*
+>P1;gi|34393553|dbj|BAC83151.1| unknown protein [Oryza sativa (japon... [ score 89 E 2e-17 ] [ range 367 .. 434 ]
+sequence
+-WVPDEACYSCAVDFSPFNRRHHCRNCGEIFCDKCSQGRTALTAEDNAPLVRVCDRCMAEVQRLS--*
+>P1;gi|31126731|gb|AAP44653.1| unknown protein [Oryza sativa (japoni... [ score 89 E 3e-17 ] [ range 66 .. 121 ]
+sequence
+-WVDATHCQGCSVQFSLFTRKHHCQRCGGLFCSNCTQQRMVLRGQGDS-PVRICDPC----------*
+>P1;gi|17542714|ref|NP_502422.1| beached 1 (103.9 kD) (4N439) [Caeno... [ score 89 E 3e-17 ] [ range 860 .. 923 ]
+sequence
+-WVQDQRCDDCEHKFTLADRKHHCRNCGQIFCSTCSRFESHITRMNISRPVRVCRKCFQRLQ-----*
+>P1;gi|7486447|pir||T05204 hypothetical protein F4I10.170 - Arabidop... [ score 89 E 3e-17 ] [ range 33 .. 102 ]
+sequence
+-WMPDQSCYECDAQFTVFNRRHHCRLCGRVFCAKCAANSIPSPSDETKERIRVCNYCYKQWE-----*
+>P1;gi|33589546|gb|AAQ22540.1| LD11744p [Drosophila melanogaster] [ score 89 E 3e-17 ] [ range 1162 .. 1221 ]
+sequence
+-WVPDHACSSCQTEFWLGRRKHHCRSCGEIFCADCSEFWAPLPNEKLFNPVRLCGSCY---------*
+>P1;gi|31205533|ref|XP_311718.1| ENSANGP00000013621 [Anopheles gambi... [ score 89 E 3e-17 ] [ range 538 .. 612 ]
+sequence
+-WTPDSKCTGCEKEFSITRRKHHCRNCGKIFCSSCSEHVAALPDHGSSKPVRVCDHCWEKL------*
+>P1;gi|25150872|ref|NP_506347.2| similar to early endosome-associate... [ score 88 E 4e-17 ] [ range 1143 .. 1205 ]
+sequence
+-WLDDAECTECGKVFSLTVRKHHCRVCGKIYCNPCSSKSVRIASAKN--PVRACNTCFTDSQK----*
+>P1;gi|41281466|ref|NP_055548.2| endosome-associated FYVE-domain pro... [ score 88 E 5e-17 ] [ range 744 .. 802 ]
+sequence
+-WVPDSECMNCQVKFTFTKRRHHCRACGKVFCGVCCNRKCKLQYL--EKEARVCVVCYE--------*
+>P1;gi|18416843|ref|NP_568268.1| zinc finger protein, putative / reg... [ score 87 E 7e-17 ] [ range 644 .. 709 ]
+sequence
+--MDQSMCSGCRQPFSFKRKRHNCYNCGLVFCHSCTSKKSLKACMAPNKPYRVCDKCFNKLKKTME-*
+>P1;gi|30687301|ref|NP_197443.2| zinc finger protein, putative / reg... [ score 87 E 7e-17 ] [ range 680 .. 745 ]
+sequence
+--MDQSMCSGCRQPFNFKRKRHNCYNCGLVFCHSCSNKKSLKACMAPNKPYRVCDRCFNKLKKAME-*
+>P1;gi|15229244|ref|NP_189909.1| zinc finger (FYVE type) family prot... [ score 87 E 1e-16 ] [ range 171 .. 234 ]
+sequence
+EWLPDSTCMQCSTPFTITCGRHHCRFCGGIFCRNCSKGRCLMPRFRERNPQRVCDSCYE--------*
+>P1;gi|21667040|gb|AAM73878.1| cytokinesis protein Don1 [Ustilago ma... [ score 87 E 1e-16 ] [ range 939 .. 1002 ]
+sequence
+-WVPDDKCCNCQEAFGMWRRKHHCRLCGQVVCWTCSQRSFLIPSYQDGEPARACDGCYD--------*
+>P1;gi|21436532|emb|CAD29636.1| putative Tyr/Ser/Thr phosphatase [An... [ score 87 E 1e-16 ] [ range 1802 .. 1862 ]
+sequence
+-WVPDHACTTCQTVFWIGLRKHHCRSCGQIFCAECSDYTAHLPEERLYQPVRLCGPCYQ--------*
+>P1;gi|7511917|pir||T13576 hypothetical protein 52C10.5 - fruit fly ... [ score 86 E 2e-16 ] [ range 223 .. 281 ]
+sequence
+-WMPDSECYDCSQKFSTFRRKHHCRLCGQIFCSKCCNQVVPGMIIRCDGDLKVCNYC----------*
+>P1;gi|1246823|emb|CAA61964.1| hypothetical protein [Phoenix dactyli... [ score 86 E 2e-16 ] [ range 215 .. 276 ]
+sequence
+-WVPDEACTSCGADFGAFVRRHHCRSCGDIFCDKCTQGRIALTADENAQPVRVCDRCMAE-------*
+>P1;gi|34866719|ref|XP_236739.2| similar to FYVE and coiled-coil dom... [ score 86 E 2e-16 ] [ range 1227 .. 1283 ]
+sequence
+--MEANHCHDCKREFSWIVRRHHCRLCGRIFCYYCCNNYVVTKPSGKKE--RCCRACFQKF------*
+>P1;gi|33146865|dbj|BAC79863.1| senescence-associated putative prote... [ score 86 E 2e-16 ] [ range 148 .. 211 ]
+sequence
+EWLPDSSCLQCSLPFTLTRGRHHCRFCGGIFCKDCSKGRCLMPKFRQRDPQRVCDACYD--------*
+>P1;gi|45199008|ref|NP_986037.1| AFR490Cp [Eremothecium gossypii] >g... [ score 86 E 3e-16 ] [ range 498 .. 574 ]
+sequence
+-WVSDNACRYCHKLFTFWERKHHCRHCGDIFCQQHVRHWLPKAKFIIGGGSKICDNCLEEYERLVKD*
+>P1;gi|18875368|ref|NP_573478.1| myotubularin related protein 4; FYV... [ score 86 E 3e-16 ] [ range 1106 .. 1169 ]
+sequence
+-WVPDSHCFNCDCEFWLAKRRHHCRNCGNVFCAGCCHLKLPIPDQQLYDPVLVCNSCYEHIQ-----*
+>P1;gi|45190791|ref|NP_985045.1| AER188Cp [Eremothecium gossypii] >g... [ score 86 E 3e-16 ] [ range 183 .. 242 ]
+sequence
+-WMKDESCFACTKTFNTFRRKHHCRICGQIFCSNCT-FLVHGDRFGYSGKMRICNGCSE--------*
+>P1;gi|22779868|ref|NP_683727.1| FYVE and coiled-coil domain contain... [ score 84 E 7e-16 ] [ range 1133 .. 1189 ]
+sequence
+--MEVNHCHDCKREFSWIVRRHHCRICGRIFCYYCCNNYVVTKPSGKKE--RCCRACFQKF------*
+>P1;gi|13470092|ref|NP_078789.1| FYVE and coiled-coil domain contain... [ score 84 E 8e-16 ] [ range 1170 .. 1230 ]
+sequence
+-WLEANHCLDCKREFSWMVRRHHCRICGRIFCYYCCNNYVLSKHGGKKE--RCCRACFQKL------*
+>P1;gi|42546857|gb|EAA69700.1| hypothetical protein FG00290.1 [Gibbe... [ score 84 E 8e-16 ] [ range 409 .. 468 ]
+sequence
+-WMKDDTCFLCQTPFSAFRRKHHCRTCGCIFDSKCTT-VISGERFGVQGSLRVCKRCLE--------*
+>P1;gi|38346811|emb|CAD41378.2| OSJNBa0088A01.18 [Oryza sativa (japo... [ score 84 E 1e-15 ] [ range 612 .. 675 ]
+sequence
+---DQSVCSSCQMVFGFTRKEHNCYNCGSMFCSSCTSNKITMAALATNRRYRVCDACFYQLQKVV--*
+>P1;gi|34906618|ref|NP_914656.1| P0431G06.4 [Oryza sativa (japonica ... [ score 83 E 1e-15 ] [ range 651 .. 722 ]
+sequence
+-WVDQSMCSGCRQPFNLRRKRHNCYNCALVFCHSCSSKKSLKASLAPNKPYRVCDSCYSKLKGLETD*
+>P1;gi|34875189|ref|XP_224296.2| similar to WD repeat- and FYVE doma... [ score 83 E 1e-15 ] [ range 358 .. 427 ]
+sequence
+EWLDSDSCQKCDQPFKIGLRQHHCRKCGKAVCGKCSSKRSSIPLMGFEFEVRVCDSCHE--------*
+>P1;gi|19921078|ref|NP_609400.1| CG5168-PA [Drosophila melanogaster]... [ score 83 E 2e-15 ] [ range 289 .. 362 ]
+sequence
+-WVDTNNCQLCSRPFSMMDRQHHCRHCGKAVCDNCSTNRINIPIMGFEFDVRTCDPCYKQLQTV---*
+>P1;gi|23509796|ref|NP_702463.1| hypothetical protein [Plasmodium fa... [ score 83 E 2e-15 ] [ range 33 .. 94 ]
+sequence
+-WVPDEECYSCNVVFNVRVRKHHCRACGNVFCSNCSDNKIKISEYSYSEKVRVCDRCFME-------*
+>P1;gi|41688293|dbj|BAD08647.1| FYVE and coiled-coil domain containi... [ score 83 E 2e-15 ] [ range 1269 .. 1329 ]
+sequence
+-WLEANHCLDCKREFSWMVRRHHCRICGRIFCYYCCNNYVLSKHSGKKE--RCCRACFHKL------*
+>P1;gi|34365081|emb|CAE45896.1| hypothetical protein [Homo sapiens] [ score 82 E 2e-15 ] [ range 913 .. 968 ]
+sequence
+------MCMNCGCDFSLTLRRHHCHACGKIVCRNCSRNKYPLKYL-KDRTAKVCDGCFGELKK----*
+>P1;gi|39596028|emb|CAE67531.1| Hypothetical protein CBG13053 [Caeno... [ score 82 E 2e-15 ] [ range 560 .. 622 ]
+sequence
+-WIPDSECMLCNVKFTIITRRHHCRACGRVLCGSCCSEKSVLDYLKKPQAVRVCKPC----------*
+>P1;gi|38345822|emb|CAD41927.2| OSJNBa0070M12.5 [Oryza sativa (japon... [ score 83 E 2e-15 ] [ range 609 .. 673 ]
+sequence
+--MEQSQCSSCRQPFGFTRKRHNCYNCGLVHCHSCSSKKALRAALSPNKPYRVCDSCYLKLSKVL--*
+>P1;gi|31201305|ref|XP_309600.1| ENSANGP00000010948 [Anopheles gambi... [ score 82 E 3e-15 ] [ range 620 .. 677 ]
+sequence
+-WVPDNSCMQCNQKFSVIKRRHHCRACGQVLCSTCCCLKAKLEYLGDVE-ARVCIEC----------*
+>P1;gi|45387901|ref|NP_991308.1| WD repeat and FYVE domain containin... [ score 82 E 3e-15 ] [ range 280 .. 349 ]
+sequence
+EWLDSDSCQKCEQPFKIGLRQHHCRKCGQAVCGKCSSKRSTIPLMGFEFEVRVCDSCHD--------*
+>P1;gi|25054840|gb|AAN71910.1| unknown protein [Arabidopsis thaliana] [ score 82 E 3e-15 ] [ range 182 .. 249 ]
+sequence
+-WLPDSACMLCSVRFHIMCSRHHCRYCGGIFCRDCSKGKSLVPKFRVSDPQRVCDVCFVRLESV---*
+>P1;gi|15238303|ref|NP_199029.1| zinc finger protein, putative / reg... [ score 82 E 5e-15 ] [ range 618 .. 687 ]
+sequence
+-WVEQSQCSACRQAFGFTRKRHNCYNCGLVHCHSCSSKKSLKAALAPNKPYRVCDSCHSKLSKVSE-*
+>P1;gi|42407620|dbj|BAD08735.1| 1-phosphatidylinositol-3-phosphate 5... [ score 81 E 6e-15 ] [ range 51 .. 117 ]
+sequence
+-WMPDQSCYDCDAQFTILNRRHHCRHCGRVFCARCTANSVPRAAREDGERIRVCNYCFRRW------*
+>P1;gi|6552339|ref|NP_015563.1| MAD, mothers against decapentaplegic... [ score 81 E 6e-15 ] [ range 696 .. 761 ]
+sequence
+-WVPDSQCMKCEARFTFTKRRHHCRACGKVFCASCCSLKCKLLYMD-RKEARVCVICHSVLMNVA--*
+>P1;gi|22532960|gb|AAM98040.1| A kinase anchor protein protein 1, is... [ score 81 E 7e-15 ] [ range 538 .. 609 ]
+sequence
+-WIPDSECMLCNTRFTIITRRHHCRACGRVLCGSCCNEKAFLEYLKKLQAVRVCKPCSAMLARIET-*
+>P1;gi|41053835|ref|NP_956538.1| hypothetical protein MGC56073 [Dani... [ score 81 E 8e-15 ] [ range 149 .. 216 ]
+sequence
+-WVPDSVCMRCQKKFTPVNRRHHCRKCGFVVCGPCSEKKFLLPSQS-SKPVRVCEFCYKQLSTGAT-*
+>P1;gi|31237900|ref|XP_319687.1| ENSANGP00000021406 [Anopheles gambi... [ score 81 E 9e-15 ] [ range 288 .. 360 ]
+sequence
+DWVESDTCQLCTRAF-FWNRQHHCRYCGKAVCDKCSTNRINIPIMGFEFDVRVCDQCHQRLK-----*
+>P1;gi|6321415|ref|NP_011492.1| Phosphatidylinositol 3-phosphate bin... [ score 80 E 1e-14 ] [ range 449 .. 531 ]
+sequence
+-WIPDNSCRYCHKPFTLWERKHHCRHCGDIFCQDHLRHWLYLDSQANFTLCKICDDCLVEYENLST-*
+>P1;gi|24639109|ref|NP_569923.2| CG14782-PA [Drosophila melanogaster... [ score 80 E 1e-14 ] [ range 149 .. 214 ]
+sequence
+-WVDASVCMHCKKQFTFIQRRHHCRNCGAVVCAGCSAKKFLLPQQST-KALRVCDACYERLKHV---*
+>P1;gi|23488441|gb|EAA21318.1| zinc finger, putative [Plasmodium yoe... [ score 80 E 1e-14 ] [ range 32 .. 93 ]
+sequence
+-WVPDEECYSCNVFFNVRVRKHHCRACGNVFCSNCSDNKIKISEYSYSEKVRVCDKCFVE-------*
+>P1;gi|23510387|ref|NP_694690.1| myotubularin-related protein 3 isof... [ score 80 E 1e-14 ] [ range 1079 .. 1150 ]
+sequence
+-WLPDHHCYACDSAFWLASRKHHCRNCGNVFCSSCCNQKVPVPSQQLFEPSRVCKSCYSSL------*
+>P1;gi|17569407|ref|NP_508756.1| FYVE type zinc finger containing pr... [ score 79 E 2e-14 ] [ range 563 .. 616 ]
+sequence
+-WVDCEQCTACSMPFNFVRRRHHCRNCGRIFCHKCSCNTISIPEHGYRKPV----------------*
+>P1;gi|41052709|dbj|BAD07566.1| putative ZR1 protein [Oryza sativa (... [ score 79 E 2e-14 ] [ range 555 .. 617 ]
+sequence
+---DQSVCSNCQLTFGFTRKKHNCYNCGSMFCNSCSNNKVSRAALAPSKRYRVCDACFSQMQKV---*
+>P1;gi|27769269|gb|AAH42732.1| Fgd5 protein [Mus musculus] [ score 79 E 3e-14 ] [ range 329 .. 383 ]
+sequence
+------MCMNCGCDFSLTVRRHHCHACGKIVCRNCSRNKYPLKCL-KNRMAKVCDGCFRELK-----*
+>P1;gi|7511499|pir||T42241 myotubularin protein 1 homolog - Caenorha... [ score 78 E 5e-14 ] [ range 820 .. 880 ]
+sequence
+---ESGHCAYCKKEFNKLDRQHHCRNCGRVVCEDCSKNRFSVIEEGKSVQKRACDSCYD--------*
+>P1;gi|17532659|ref|NP_495565.1| A Kinase Anchor protein AKA-1, Smad... [ score 78 E 5e-14 ] [ range 538 .. 605 ]
+sequence
+-WIPDSECPNC-MLFTIITRRHHCRACGRVLCGSCCNEKAFLEYLKKLQAVRVCKPCSAMLARIET-*
+>P1;gi|13375827|ref|NP_078889.1| phafin 2; PH and FYVE domain-contai... [ score 77 E 7e-14 ] [ range 149 .. 209 ]
+sequence
+-WVPDSVCMRCQKKFTPVNRRHHCRKCGFVVCGPCSEKRFLLPSQS-SKPVRICDFCYD--------*
+>P1;gi|15228210|ref|NP_190350.1| regulator of chromosome condensatio... [ score 77 E 8e-14 ] [ range 638 .. 700 ]
+sequence
+---DSTKCSGCRHPFNYMRKLHNCYNCGSVFCNSCTSKKSLAAAMKTNRPYRVCDDCYIKLEGI---*
+>P1;gi|7939537|dbj|BAA95740.1| chromosome condensation regulator-lik... [ score 77 E 8e-14 ] [ range 605 .. 670 ]
+sequence
+-WVDQSICSGCRQAFGFTRKRHNCYNCGLVHCHACSSKKALKAALAPGKPHRVCDACYSKLK-----*
+>P1;gi|42733858|gb|AAS38776.1| similar to Plasmodium falciparum. Hyp... [ score 77 E 9e-14 ] [ range 557 .. 613 ]
+sequence
+-WFPDESCSLCSALFTFFKRRHHCRRCGLLFCNSCSSKKREVK--GYSEKVRVCEEC----------*
+>P1;gi|41054377|ref|NP_956634.1| hypothetical protein MGC63897 [Dani... [ score 77 E 1e-13 ] [ range 152 .. 212 ]
+sequence
+-WIPDVACMRCSKRFTVANRRHHCRRCGYIVCQACSKGRAVLPHIS-NRPVRVCRNCKND-------*
+>P1;gi|34855823|ref|XP_218543.2| similar to RIKEN cDNA 1810013P09 [R... [ score 76 E 2e-13 ] [ range 190 .. 252 ]
+sequence
+-WIPDDICMRCQTRFSALTRRHHCRKCGFVVCAECSRERFLLPRLS-PKPLRVCSLCYREL------*
+>P1;gi|34852281|ref|XP_228047.2| similar to Fgd1 family, member 2; f... [ score 76 E 2e-13 ] [ range 459 .. 518 ]
+sequence
+-WVRDTMCMRCQEPFNLTRRRHHCRACGYVVCAKCSDYRAELKYDG-NRPNRVCLTCY---------*
+>P1;gi|34867375|ref|XP_216762.2| similar to RUN and FYVE domain-cont... [ score 76 E 3e-13 ] [ range 570 .. 628 ] [ duplicate a ]
+sequence
+-WVPDHHCHNCRKEFSVKLSKHHCRACGQGFCDECSHGRRAVPSRGWDHPVRVCFNC----------*
+>P1;gi|34867375|ref|XP_216762.2| similar to RUN and FYVE domain-cont... [ score 76 E 3e-13 ] [ range 461 .. 514 ] [ duplicate b ]
+sequence
+------SCNQCATSFKDNDTKHHCRACGEGFCDSCSSKTRPVPERGWGPPVRVCDNCYD--------*
+>P1;gi|31248118|ref|XP_321014.1| ENSANGP00000007827 [Anopheles gambi... [ score 76 E 3e-13 ] [ range 445 .. 507 ] [ duplicate a ]
+sequence
+-WRPDSHCKGCISNFELGLKKHHCRSCGEGFCNHCSKHEMAVPSRGWNYPVRVCNSCWND-------*
+>P1;gi|31248118|ref|XP_321014.1| ENSANGP00000007827 [Anopheles gambi... [ score 76 E 3e-13 ] [ range 567 .. 633 ] [ duplicate b ]
+sequence
+-WVPDAECYICELLFAIDRRRHHCRACGNAVCAGCSQNRRPVPKRGWLSDVRVCNSC----------*
+>P1;gi|14042676|dbj|BAB55349.1| unnamed protein product [Homo sapien... [ score 76 E 3e-13 ] [ range 149 .. 211 ]
+sequence
+-WIPDDICMRCQTRFSALTRRHHCRKCGFVVCAECSRQRFLLPRLS-PKPVRVCSLCYREL------*
+>P1;gi|16553773|dbj|BAB71589.1| unnamed protein product [Homo sapiens] [ score 76 E 3e-13 ] [ range 41 .. 99 ]
+sequence
+-WVPDKECMQCDAKFDFLTRKHHCRRCGKCFCDRCCSQKVPLRRMCFVDPVRQCAEC----------*
+>P1;gi|32421845|ref|XP_331366.1| hypothetical protein [Neurospora cr... [ score 75 E 4e-13 ] [ range 175 .. 239 ]
+sequence
+---ESTVCDRCKKNFNYFTRRHHCRRCGNIFCDVHSAFEIPLDQDANYNPSRACQHCYSQFK-----*
+>P1;gi|18087541|gb|AAL58903.1| At1g76950/F22K20_5 [Arabidopsis thali... [ score 75 E 4e-13 ] [ range 629 .. 698 ]
+sequence
+-WVEQSQCSTCRLAFGFTRKRHNCYNCGLVHCHSCSSKKAFRAALAPSRLYRVCDSCYVKLSKVSE-*
+>P1;gi|15222423|ref|NP_177129.1| zinc finger protein, putative / reg... [ score 74 E 6e-13 ] [ range 635 .. 701 ]
+sequence
+-WVPGSECAGCRNPFNFRRKRHNCYNCGLVFCKVCSSRKSLRAALAPNKPYRVCYGCFTKLKK----*

@@ -1,0 +1,2400 @@
+>P1;1cb1
+structureX:1cb1:  -2 : :  75 : :vitamin D-dependent calcium-binding protein, intestinal (calbindin D9K):Sus scrofa: -1: -1
+---SAQKSPAELKSIFEKYAAKEGDPNQLSKEELKQLIQAEFPSLLK-----GPRTLDDLFQELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;4icb
+structureX:4icb:   0 : :  75 : :vitamin D-dependent calcium-binding protein, intestinal (calbindin D9K):Bos taurus: 1.5: 19.5
+-----MKSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLK-----GPSTLDELFEELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;1cnpa
+structureX:1cnp:   1 :A:  90 :A:calcyclin:Oryctolagus cuniculus: -1: -1
+MASPLDQAIGLLIGIFHKYSGKEGDKHTLSKKELKELIQKELTIGSKLQ--DAEIVKLMDD-LDRN-KDQ
+EVNFQEYITFLGALAMIYNEALKG---------*
+>P1;1mho
+structureX:1mho:   1 : :  88 : :S-100 protein, beta chain:Bos taurus: 2.0: 19.5
+--SELEKAVVALIDVFHQYSGREGDKHKLKKSELKELINNELS--HFLEEIKEQEVVDKVMETLDSDGDG
+ECDFQEFMAFVAMITTACHEFF-----------*
+>P1;1a4pa
+structureX:1a4p:   1 :A:  92 :A:calpactin I light chain:Homo sapiens , and bos taurus: 2.25: 22.7
+-PSQMEHAMETMMFTFHKFAGD---KGYLTKEDLRVLMEKEFPGFLENQKD--PLAVDKIMKDLDQCRDG
+KVGFQSFFSLIAGLTIACNDYFVVH-----MKQ*
+>P1;1psra
+structureX:1psr:   1 :A: 100 :A:S-100 calcium-binding protein A7 (psoriasin):Homo sapiens: 1.05: -1
+SNTQAERSIIGMIDMFHKYTRR---DDKIDKPSLLTMMKENFPNFLSACDKKGTNYLADVFEKKDKNEDK
+KIDFSEFLSLLGDIATDYHKQSHGAAPCSGGSQ*
+>P1;gi|28278451|gb|AAH45941.1| Unknown (protein for MGC:56142) [Dani... [ score 110 E 8e-24 ] [ range 5 .. 83 ]
+sequence
+----LERAMETLITVFHRYSGAEGNSSTLSRRELKQLMEKELASFLK-----DPAAVDKIMKDLDANGDG
+EVNFEEFVSLVVGLS------------------*
+>P1;gi|3386482|gb|AAC28367.1| S100-like calcium binding protein [Sal... [ score 110 E 1e-23 ] [ range 5 .. 83 ]
+sequence
+----LESSMESLITVFHRYADKDGDCNTLSKKELKELMQTELASFLK-----DPAAIDTIMKDLDQNGDG
+KVSFEEFVSLVVGLS------------------*
+>P1;gi|134135|sp|P02639|S10A_BOVIN S-100 protein, alpha chain >gi|10... [ score 109 E 2e-23 ] [ range 5 .. 83 ]
+sequence
+----LETAMETLINVFHAHSGKEGDKYKLSKKELKELLQTELSGFLK-----DADAVDKVMKELDENGDG
+EVDFQEYVVLVAALT------------------*
+>P1;gi|27692714|ref|XP_215606.1| similar to S-100 protein, alpha cha... [ score 109 E 2e-23 ] [ range 5 .. 83 ]
+sequence
+----LETAMETLINVFHAHSGKEGDKYKLSKKELKDLLQTELSSFLK-----DADAVDKIMKELDENGDG
+EVDFQEFVVLVAALT------------------*
+>P1;gi|42656152|ref|XP_375887.1| similar to Calcyclin (Prolactin rec... [ score 109 E 2e-23 ] [ range 65 .. 141 ]
+sequence
+----LDQAIGLLVAIFHKYSGREGDKHTLSKKELKELIQKELTIGSK-----LQDAIARLMEDLDRNKDQ
+EVNFQEYVTFLGALA------------------*
+>P1;gi|45384028|ref|NP_990497.1| calgizzarin [Gallus gallus] >gi|282... [ score 108 E 3e-23 ] [ range 9 .. 87 ]
+sequence
+----TERCIESLLAVFQRYAGREGDNLKLSKKEFRTFMNTELASFTK-----NPAVVDRMMKRLDINSDG
+QLDFQEFLNLIGGIA------------------*
+>P1;gi|6755386|ref|NP_035439.1| S100 calcium binding protein A1 [Mus... [ score 107 E 6e-23 ] [ range 5 .. 83 ]
+sequence
+----LESAMETLINVFHAHSGKEGDKYKLSKKELKDLLQTELSGFLK-----DADAVDKVMKELDENGDG
+EVDFKEYVVLVAALT------------------*
+>P1;gi|34811429|pdb|1NSH|A Chain A, Solution Structure Of Rabbit Apo... [ score 106 E 2e-22 ] [ range 6 .. 84 ]
+sequence
+----TERCIESLIAVFQKYAGKDGHSVTLSKTEFLSFMNTELAAFTK-----NPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLA------------------*
+>P1;gi|27686759|ref|XP_226710.1| similar to S100Z protein [Rattus no... [ score 105 E 2e-22 ] [ range 5 .. 83 ]
+sequence
+----LEMAMETMIRIFHRYSCKEGDRFKLNKGELKMLLQRELTEFLK-----DPQLVDKIMQDLDANKDN
+EVDFNEFVVMVAALT------------------*
+>P1;gi|34858021|ref|XP_215598.2| similar to endothelial monocyte-act... [ score 105 E 2e-22 ] [ range 57 .. 135 ]
+sequence
+----TERCIESLIAVFQKYSGKDGNSCHLSKTEFLSFMNTELAAFTK-----NPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLA------------------*
+>P1;gi|4757898|ref|NP_004048.1| calbindin 3; calbindin 3, (vitamin D... [ score 105 E 3e-22 ] [ range 2 .. 79 ]
+sequence
+---STKKSPEELKRIFEKYAAKEGDPDQLSKDELKLLIQAEFPSLLK-----GPNTLDDLFQELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|38083803|ref|XP_357005.1| similar to endothelial monocyte-act... [ score 105 E 4e-22 ] [ range 24 .. 102 ]
+sequence
+----TERCIESLIAVFQKYSGKDGNNTQLSKTEFLSFMNTELAAFTK-----NPDVLDRMMKKLDLNCDG
+QLDFQEFLNLIGGLA------------------*
+>P1;gi|27681837|ref|XP_225088.1| similar to endothelial monocyte-act... [ score 104 E 4e-22 ] [ range 50 .. 128 ]
+sequence
+----TERCMESLIAVFQKYTGKDGNSCQFYKTEFLSFMNTELAAFTK-----NPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLA------------------*
+>P1;gi|5032057|ref|NP_005611.1| S100 calcium binding protein A11 (ca... [ score 104 E 6e-22 ] [ range 10 .. 88 ]
+sequence
+----TERCIESLIAVFQKYAGKDGYNYTLSKTEFLSFMNTELAAFTK-----NPGVLDRMMKKLDTNSDG
+QLDFSEFLNLIGGLA------------------*
+>P1;gi|479986|pir||S35985 S-100 protein alpha chain - weatherfish >g... [ score 103 E 8e-22 ] [ range 4 .. 82 ]
+sequence
+----LESAMESLIKVFHTYSSKEGDKYKLSKAELKSLLQGELNDFLK-----DPMVVEKIMSDLDENQDG
+EVDFQEFVVLVAALT------------------*
+>P1;gi|37927363|gb|AAP69564.1| ictacalcin [Danio rerio] [ score 103 E 9e-22 ] [ range 6 .. 84 ]
+sequence
+----TQKAMAMLIATFHKYSGKEGDKLTLSKGELKELLSAELGDITT-----DKAALDKIFKDLDANADG
+SVDFQEYITLIACIT------------------*
+>P1;gi|8318583|gb|AAB20539.2| S100 alpha [Rattus sp.] [ score 103 E 1e-21 ] [ range 1 .. 73 ]
+sequence
+----------TLIHVFHAHSGKEGDKYKLSKKELKDLLQTELSSFLK-----DADAVDRIMKELDENGDG
+EVDFQEFVVLVAALT------------------*
+>P1;gi|284395|pir||A41988 S-100 calcium-binding protein A2 - human [ score 102 E 2e-21 ] [ range 5 .. 84 ]
+sequence
+---SLEQALAVLVTTFHKYSCQEGDKFKLSKGEMKELLHKELPSFVG-----DEEGLKKLMGNLDENSDQ
+QVDFQEYAVFLALIT------------------*
+>P1;gi|29423753|gb|AAO73439.1| calbindin-D9k [Equus caballus] [ score 100 E 7e-21 ] [ range 2 .. 79 ]
+sequence
+---SVKKSPEELKKIFEKYAAKEGDPDQLSKEELKLLIQNELPALLK-----GSSSIDDLFKELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|2493418|sp|Q91061|S10I_ICTPU Ictacalcin >gi|1144386|gb|AAB526... [ score 100 E 7e-21 ] [ range 4 .. 82 ]
+sequence
+----LQKGMALLISTFHKYSGKEGDKCTLTKGELKDLLTKELGGAFG-----NQATLDKIFKDLDTNADG
+VVDFQEYATMVACTT------------------*
+>P1;gi|4139958|pdb|1MHO|  The 2.0 A Structure Of Holo S100b From Bov... [ score 100 E 1e-20 ] [ range 3 .. 81 ]
+sequence
+----LEKAVVALIDVFHQYSGREGDKHKLKKSELKELINNELSHFLK-----EQEVVDKVMETLDSDGDG
+ECDFQEFMAFVAMIT------------------*
+>P1;gi|6677839|ref|NP_033141.1| S100 protein, beta polypeptide, neur... [ score 100 E 2e-20 ] [ range 4 .. 82 ]
+sequence
+----LEKAMVALIDVFHQYSGREGDKHKLKKSELKELINNELSHFLK-----EQEVVDKVMETLDEDGDG
+ECDFQEFMAFVAMVT------------------*
+>P1;gi|126659|sp|P28318|M126_CHICK Protein MRP-126 [ score 99 E 2e-20 ] [ range 14 .. 92 ]
+sequence
+----LEKAIDVIIDVFHQYSRREGDKDTLTRKELKLLIEKQLANYLK-----HVKSIDQIFKDLDNNKDQ
+QLSFGEVMLLIIRVT------------------*
+>P1;gi|28189775|dbj|BAC56502.1| similar to S100 calcium-binding prot... [ score 98 E 4e-20 ] [ range 10 .. 88 ]
+sequence
+----TERCIESLIAVFQKHAGRDGNNSKLSKAEFLIFMNTELGAFTK-----NPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLA------------------*
+>P1;gi|5174663|ref|NP_005971.1| S100 calcium binding protein P [Homo... [ score 98 E 5e-20 ] [ range 4 .. 82 ]
+sequence
+----LETAMGMIIDVFSRYSGSEGSTQTLTKGELKVLMEKELPGFLK-----DKDAVDKLLKDLDANGDA
+QVDFSEFIVFVAAIT------------------*
+>P1;gi|25023967|ref|XP_204772.1| similar to endothelial monocyte-act... [ score 98 E 6e-20 ] [ range 6 .. 83 ]
+sequence
+-----ERCIESLIAVLQKYSGKDGNGSQLSKTEFLSFMNTELAAFTK-----NPGVLDRMMKKLDLNCDG
+QLDFQDFLNLIGGLA------------------*
+>P1;gi|27660232|ref|XP_218979.1| similar to endothelial monocyte-act... [ score 98 E 6e-20 ] [ range 65 .. 142 ]
+sequence
+-----ERCMESLIAVFQKYSGKDGNSCQFSKTEFLSFMNTELAAFQK-----DPGVLECMMKTQDLNSDG
+QLDFQEFLNLTGSLA------------------*
+>P1;gi|14789635|gb|AAH10751.1| Calb3 protein [Mus musculus] >gi|2168... [ score 97 E 9e-20 ] [ range 3 .. 80 ]
+sequence
+----AEKSPAEMKSIFQKYAAKEGDPDQLSKEELKLLIQSEFPSLLK-----QSSTLDNLFKELDKNGDG
+EVSYEEFEAFFKKLSQ-----------------*
+>P1;gi|33357663|pdb|1ODB|A Chain A, The Crystal Structure Of Human S... [ score 97 E 9e-20 ] [ range 7 .. 82 ]
+sequence
+----LEEHLEGIVNIFHQYSVRKGHFDTLSKGELKQLLTKELANTIK-----NIKVIDEIFQGLDANQDE
+QVDFQEFISLVA---------------------*
+>P1;gi|1200246|emb|CAA61204.1| MRP8 protein [Mus musculus] [ score 97 E 1e-19 ] [ range 5 .. 78 ]
+sequence
+----LEKALSNLIDVYHNYSNIQGNHHALYKNDFKKMVTTECPQFVQ-----NIN-IENLFRDLDINSDN
+AINFEEFLAMVIKV-------------------*
+>P1;gi|203239|gb|AAA40853.1| intestinal calcium-binding protein [ score 97 E 1e-19 ] [ range 2 .. 80 ]
+sequence
+---SAKKSPEEMKSIFQKYAAKEGDPNQLSKEELKLLIQSEFPSLLK-----QSSTLDNLFKELDKNGDG
+EVSYEEFEVFFKKLSQ-----------------*
+>P1;gi|225541|prf||1305349A cystic fibrosis antigen [ score 97 E 1e-19 ] [ range 5 .. 79 ]
+sequence
+----LEKALNSIIDVYHKYSLIKGNFHAVYRDDLKKLLETECPQYIR-----KKGA-DVWFKELDINTDG
+AVNFQEFLILVIKMA------------------*
+>P1;gi|399178|sp|P31950|S111_PIG Calgizzarin (S100C protein) >gi|108... [ score 96 E 1e-19 ] [ range 8 .. 86 ]
+sequence
+----TERCIESLIAIFQKHAGRDGNNTKISKTEFLIFMNTELAAFTK-----DPGVLDRMMKKLDLDSDG
+QLDFQEFLNLIGGLA------------------*
+>P1;gi|27807183|ref|NP_777076.1| S100 calcium binding protein A12 (c... [ score 96 E 2e-19 ] [ range 4 .. 83 ]
+sequence
+----LEDHLEGIINIFHQYSVRVGHFDTLNKRELKQLITKELPKTLQ-----NTKTIDKIFQDLDADKDG
+AVSFEEFVVLVSRVLK-----------------*
+>P1;gi|49753|emb|CAA36521.1| unnamed protein product [Mus musculus] [ score 95 E 4e-19 ] [ range 5 .. 81 ]
+sequence
+----LDQAIGLLVAIFHKYSGKEGDKHTLSKKELKELIQKELTIGSK-----QDREIARLMDDLDRNKDQ
+EVNFQEYVAFLGALA------------------*
+>P1;gi|116511|sp|P05964|S106_RAT Calcyclin (Prolactin receptor assoc... [ score 95 E 5e-19 ] [ range 5 .. 81 ]
+sequence
+----LDQAIGLLVAIFHKYSGKEGDKHTLSKKELKELIQKELTIGAK-----LQDAIARLMDDLDRNKDQ
+EVNFQEYVAFLGALA------------------*
+>P1;gi|461678|sp|P80310|S112_PIG Calgranulin C (CAGC) >gi|1082959|pi... [ score 95 E 5e-19 ] [ range 3 .. 80 ]
+sequence
+----LEDHLEGIINIFHQYSVRLGHYDTLIKRELKQLITKELPNTLK-----NTKTIDKIFQNLDANQDE
+QVSFKEFVVLVTDV-------------------*
+>P1;gi|13638435|sp|P50115|S108_RAT Calgranulin A (Migration inhibito... [ score 94 E 7e-19 ] [ range 5 .. 78 ]
+sequence
+----LEKALSNVIEVYHNYSGIKGNHHALYRDDFRKMVTTECPQFVQ-----NKNT-ESLFKELDVNSDN
+AINFEEFLVLVIRV-------------------*
+>P1;gi|38076650|ref|XP_143379.2| similar to BEE22=calcium-binding L1... [ score 94 E 8e-19 ] [ range 32 .. 107 ]
+sequence
+-----EESMDVIIQIFHKYSLTEGNPDTLSKKEFKELVNKEMPNSFK-----DEKSMNGMMENLDTNKDN
+QLEFNEYVDLIG---------------------*
+>P1;gi|1173337|sp|P30801|S106_RABIT Calcyclin (Lung 10 kDa protein) ... [ score 93 E 1e-18 ] [ range 5 .. 81 ]
+sequence
+----LDQAIGLLIGIFHKYSGKEGDKHTLSKKELKELIQKELTIGSK-----LQDAIVKLMDDLDRNKDQ
+EVNFQEYITFLGALA------------------*
+>P1;gi|6094220|sp|O77791|S112_RABIT Calgranulin C (CAGC) >gi|3661597... [ score 92 E 2e-18 ] [ range 1 .. 70 ]
+sequence
+------------INIFHQYSVRTGHYDTLSKCELKKLITTELVNTIK-----NTKTVDRIFRDLDEDGDH
+QVDFKEFLSLLASV-------------------*
+>P1;gi|45383816|ref|NP_989479.1| S100 calcium binding protein A6 (ca... [ score 91 E 8e-18 ] [ range 5 .. 81 ]
+sequence
+----LDQAIGLLVATFHKYSGKEGDKNSLSKGELKELIQKEL---TI-----GPKLKDALMEDLDRNKDQ
+EVNFQEYVTFLGALA------------------*
+>P1;gi|42657928|ref|XP_377928.1| similar to Calgizzarin (S100C prote... [ score 88 E 3e-17 ] [ range 26 .. 101 ]
+sequence
+-------SIESLISLFQKYVGKGGYNCTLSKTEFLSFMNAELAAFTK-----NPGVLHRMMKKLGTNNDG
+QLDFSEFLNLIGGLA------------------*
+>P1;gi|27692701|ref|XP_215609.1| similar to S100 calcium binding pro... [ score 88 E 4e-17 ] [ range 6 .. 87 ]
+sequence
+----VEDSLFQIIHCFHHYAAREGDKETLSLEELKALLLDSVPRFMR-----QPYYITELFRAADKNKDN
+QICFDEFLYILGKLVK-----------------*
+>P1;gi|6094218|sp|O77691|S106_HORSE Calcyclin >gi|3493135|gb|AAC3329... [ score 87 E 8e-17 ] [ range 5 .. 81 ]
+sequence
+----LDQAISLLVAIFHKYSSREGDKNTLSKGELKELIQKELTGAEL-----EDSEIAKLLDDLDQNKDQ
+VVNFQEYVTFLGALA------------------*
+>P1;gi|203216|gb|AAA40843.1| intestinal calcium binding protein (par... [ score 87 E 8e-17 ] [ range 1 .. 69 ]
+sequence
+------------KSIFQKYAAKEGDPNQLSKEELKLLIQSEFPNLLK-----ASSTLDNLFEELDKNDDG
+EVSYEEFEVFFKKLSQ-----------------*
+>P1;gi|7388240|sp|O60417|S11P_HUMAN Putative S100 calcium-binding pr... [ score 85 E 4e-16 ] [ range 10 .. 87 ]
+sequence
+----TERCIESLIAVFQKYAGKDGYNRNLSKTEFLSFMNTELAAFTK-----NPGVLDH-MKKLDVSSDG
+QLDFPKFLNLIGGLA------------------*
+>P1;gi|41117410|ref|XP_371380.1| similar to S100 calcium-binding pro... [ score 83 E 1e-15 ] [ range 9 .. 85 ]
+sequence
+----LEESIETVVTTFFTFARQEGRKDSLSVNEFKELVTQQLPHLLK-----DVGSLDEKMKSLDVNQDS
+ELKFNEYWRLIGELAK-----------------*
+>P1;gi|1431653|pdb|1BOC|  Calbindin D9k Mutant With Ala 15 Replaced ... [ score 81 E 5e-15 ] [ range 2 .. 76 ]
+sequence
+------KSPEELKGIFEKYADKEGDGNQLSKEELKLLLQTEFPSLLK-----GMSTLDELFEELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|7512190|pir||JE0330 26-kDa Ca2+-binding protein, p26olf - bul... [ score 79 E 2e-14 ] [ range 13 .. 94 ] [ duplicate a ]
+sequence
+-----ERSMEKIITVFQRYAGKEGNTTSMNFKEFEQFMNAELGSFTK-----NQKILRKIMKSVDGKQDG
+ELDFQEFLNLIGGM-------------------*
+>P1;gi|7512190|pir||JE0330 26-kDa Ca2+-binding protein, p26olf - bul... [ score 79 E 2e-14 ] [ range 122 .. 202 ] [ duplicate b ]
+sequence
+-----ETAMESIVRIYQHYAGKKGAKDQMDYTEFEAFMKAELNSFTK-----DPNIVRRLMESVDGSTDG
+KMNFQEFMNLIGGI-------------------*
+>P1;gi|1438768|gb|AAB36299.1| cornea-associated antigen, CO-Ag=calgr... [ score 76 E 2e-13 ] [ range 3 .. 70 ]
+sequence
+----LEDHLEGIINIFHQYSVRVGHFDTLNKRELKQLITKELPKTLQ-----NTKTIDKIFQDLDADKKG
+AVVF-----------------------------*
+>P1;gi|4506763|ref|NP_002951.1| S100 calcium binding protein A3; S10... [ score 73 E 1e-12 ] [ range 5 .. 82 ]
+sequence
+----LEQAVAAIVCTFQEYAGRCGDKYKLCQAELKELLQKELATWTP-----TEFRENKFMSVLDTNKDC
+EVDFVEYVRSLACL-------------------*
+>P1;gi|38076664|ref|XP_356757.1| similar to endothelial monocyte-act... [ score 73 E 2e-12 ] [ range 5 .. 83 ]
+sequence
+----TERCIESPIAVFQKCSRKEEKSYQLSKTESLSFMNIEMATTMK-----DPGALDQMMKKLNLNRDW
+QLDFQEFLNLIDGLA------------------*
+>P1;gi|6755388|ref|NP_035440.1| S100 calcium binding protein A3 [Mus... [ score 72 E 4e-12 ] [ range 5 .. 82 ]
+sequence
+----LEQAVAAIVCTFQEYAGRCGDKYKICQSELKELLQKELPTWTP-----SEFRENKFMSVLDTNKDC
+EVDFGEYVRSLASL-------------------*
+>P1;gi|34880543|ref|XP_344158.1| similar to endothelial monocyte-act... [ score 70 E 2e-11 ] [ range 90 .. 141 ]
+sequence
+---------------FPKYSGKDGDRCQLSRTEFLSFMSTGLAAFTK-----NPGVLDRIMKKLDLNGD-
+---------------------------------*
+>P1;gi|1384097|dbj|BAA04228.1| macrophage migration inhibitory facto... [ score 69 E 3e-11 ] [ range 5 .. 73 ]
+sequence
+----LENSLNSIIFVYHKCSLEKGNYQALY-GDLKKLLATECPQYSK-----KKDA-DSWFKELDINSDG
+ASNFQEFLIL-----------------------*
+>P1;gi|34902680|ref|NP_912686.1| similar to calcium-dependent protei... [ score 65 E 5e-10 ] [ range 384 .. 458 ]
+sequence
+---------EELSDLRDQFNAIDVDKNTISLEELKQLLAKDVPWRLK-----GPRVL-EIVEAIDSNTDG
+LVDFEEFV-------------------------*
+>P1;gi|15239300|ref|NP_201422.1| calcium-dependent protein kinase fa... [ score 62 E 3e-09 ] [ range 365 .. 428 ]
+sequence
+---------AEISDLRDQFDAIDVDKNVISLEEMRQALAKDLPWKLK-----DSR-VAEILEAIDSNTDG
+LVDFTEFV-------------------------*
+>P1;gi|16904224|gb|AAL30819.1| calcium/calmodulin-dependent protein ... [ score 62 E 3e-09 ] [ range 413 .. 476 ]
+sequence
+---------EELADVRDQFSAIDVDKNVISLEEMRQALAKDLPWKMK-----ESRVL-EILQAIDSNSDG
+LLDFPEFV-------------------------*
+>P1;gi|3779218|gb|AAC78558.1| protein kinase CPK1 [Solanum tuberosum] [ score 61 E 4e-09 ] [ range 410 .. 473 ]
+sequence
+---------EEIADLRDQFSAIDVDKNVISLEEMRQALAKDLPWKMK-----ESRVL-EILQAIDSNTDG
+LVDFPEFV-------------------------*
+>P1;gi|10190712|ref|NP_065723.1| S100 calcium binding protein A14; b... [ score 61 E 6e-09 ] [ range 18 .. 93 ]
+sequence
+----VERAIETLIKNFHQYSV-EGGKETLTPSELRDLVTQQLPHLMP-----SNCGLEEKIANLGSCNDS
+KLEFRSFWELIGEAAK-----------------*
+>P1;gi|41053071|dbj|BAD08015.1| putative calcium-dependent protein k... [ score 61 E 9e-09 ] [ range 362 .. 425 ]
+sequence
+---------EELADLKDQFDAIDVDKGSISIEEMRHALAKDLPWRLK-----GPRVL-EIIQAIDSNTDG
+LVDFEEFV-------------------------*
+>P1;gi|34858179|ref|XP_227375.2| similar to RIKEN cDNA 5430400H23 [R... [ score 59 E 2e-08 ] [ range 55 .. 125 ]
+sequence
+-----------VIEIFHKYASEDGNKEALTHRELRQLLEGEIGDFLQ------PHVVERKLNLLHFDRDG
+TISFEEFLLAIFSL-------------------*
+>P1;gi|21313246|ref|NP_082038.1| RIKEN cDNA 5430400H23 [Mus musculus... [ score 58 E 4e-08 ] [ range 11 .. 81 ]
+sequence
+-----------VVEIFHKYAIEDGNQATLTRTELRQLLEGEIGDFLQ------PHVVERKLNLLNFDRDG
+TISFEEFVLAIFSL-------------------*
+>P1;gi|34395852|sp|Q9D2Q8|S114_MOUSE S100 calcium-binding protein A1... [ score 57 E 9e-08 ] [ range 18 .. 93 ]
+sequence
+----VERAIETLIKNFHKYSV-AGKKETLTPAELRDLVTQQLPHLMP-----SNCGLEEKIANLGNCNDS
+KLEFGSFWELIGEAAK-----------------*
+>P1;gi|15227920|ref|NP_179379.1| calcium-dependent protein kinase fa... [ score 56 E 1e-07 ] [ range 411 .. 474 ]
+sequence
+---------EELADLRDQFDAIDVDKNVISLEEMRQALAKDHPWKLK-----DAR-VAEILQAIDSNTDG
+FVDFGEFV-------------------------*
+>P1;gi|28556890|dbj|BAC57523.1| notochord specific gene 8 protein [C... [ score 52 E 4e-06 ] [ range 14 .. 86 ]
+sequence
+----LEYAASLILRVFQSYDVDNG--GTLQRRELRNLL-RQCGAKL------SSKQCDDIIDQLDTDGDG
+EMNFAEFMAFLGRLYQ-----------------*
+>P1;gi|29244010|ref|NP_808292.1| hypothetical protein A430083B19 [Mu... [ score 48 E 4e-05 ] [ range 56 .. 131 ]
+sequence
+----LEKAIATIALVFRNASDPDG---KLGKATAKKLLQTQFKKFTE-----REETKPKILSELDEHTEN
+KLDFEDFVILLLSLA------------------*
+>P1;gi|21264374|sp|O88751|CAB1_RAT Calcium-binding protein CaBP1 (Ca... [ score 48 E 4e-05 ] [ range 234 .. 298 ]
+sequence
+----------ELRDAFREFDT-NGDGE-ISTSELREAMRKLLGHQV------GHRDIEEIIRDVDLNGDG
+RVDFEEFVRMMSR--------------------*
+>P1;gi|236793|gb|AAB19997.1| 13 kDa calgizzarin-like protein [rabbit... [ score 47 E 8e-05 ] [ range 1 .. 35 ]
+sequence
+----------------------DGHSVTLSKTEFLSFMNTELAAFTK-----DPGVLDYMMK--------
+---------------------------------*
+>P1;gi|21624641|ref|NP_660201.1| calcium binding protein 4 [Homo sap... [ score 46 E 2e-04 ] [ range 230 .. 274 ]
+sequence
+--------------------------------ELREAVPALLGEPLA-----GPE-LDEMLREVDLNGDG
+TVDFDEFVMMLSR--------------------*
+>P1;gi|21322238|ref|NP_620398.1| calcium binding protein 7; calcium-... [ score 45 E 5e-04 ] [ range 47 .. 99 ]
+sequence
+---------------------RDGNGF-ISKQELGTAMRS--LGYMP-----NEVELEVIIQRLDMDGDG
+QVDFEEFVTLLG---------------------*
+>P1;gi|13397927|emb|CAC34625.1| putative calmodulin-related protein ... [ score 44 E 7e-04 ] [ range 8 .. 61 ]
+sequence
+--------------IFNKF-DKNGD-GKISRTELKEMMTA--LGCKT-----TTEEVTRMMEELDRNGDG
+YIDLKEF--------------------------*
+>P1;gi|2315243|emb|CAA68090.1| CDPK2 [Plasmodium falciparum] [ score 44 E 8e-04 ] [ range 452 .. 511 ]
+sequence
+-----------------KFFDIDGN-GKISVEELKRIFRDDIENPLI-----D-KAIDSLLQEVDLNGDG
+EIDFHEFMLMMSK--------------------*
+>P1;gi|42656152|ref|XP_375887.1| similar to Calcyclin (Prolactin rec... [ score 106 E 9e-23 ] [ range 68 .. 141 ]
+sequence
+-------AIGLLVAIFHKYSGREGDKHTLSKKELKELIQKELTIGSK-----QDAEIARLMEDLDRNKDQ
+EVNFQEYVTFLGALA------------------*
+>P1;gi|45476906|sp|Q86YZ3|HORN_HUMAN Hornerin [ score 102 E 2e-21 ] [ range 5 .. 83 ]
+sequence
+-----LQGVITVIDVFYQYATQHGEYDTLNKAELKELLENEFHQILK-----NPNTVDIILQSLDRDHNK
+KVDFTEYLLMIFKLVQ-----------------*
+>P1;gi|41106697|ref|XP_371312.1| hypothetical protein FLJ39117 [Homo... [ score 99 E 1e-20 ] [ range 5 .. 83 ]
+sequence
+-----LNSILSVIDVFHKYAKGNGDCALLCKEELKQLLLAEFGDILQ-----DPETVETILNLLDQDRDG
+HIDFHEYLLLVFQLVQ-----------------*
+>P1;gi|7706635|ref|NP_057274.1| tumor-related protein [Homo sapiens]... [ score 97 E 8e-20 ] [ range 5 .. 83 ]
+sequence
+-----LQNINGIIEAFRRYARTEGNCTALTRGELKRLLEQEFADVIH-----DPATVDEVLRLLDEDHTG
+TVEFKEFLVLVFKVAQ-----------------*
+>P1;gi|1363053|pir||A53217 placental calcium-binding protein homolog... [ score 93 E 1e-18 ] [ range 6 .. 82 ]
+sequence
+------KALDVMVSTFHKYSGKEGDKFKLNKSELKELLTRELPSFLT-----DETAFQKLMSNLDCNKDN
+EVDFQEYCVFLSCIA------------------*
+>P1;gi|116511|sp|P05964|S106_RAT Calcyclin (Prolactin receptor assoc... [ score 92 E 2e-18 ] [ range 8 .. 81 ]
+sequence
+-------AIGLLVAIFHKYSGKEGDKHTLSKKELKELIQKELTIGAK-----QDAEIARLMDDLDRNKDQ
+EVNFQEYVAFLGALA------------------*
+>P1;gi|34858167|ref|XP_227367.2| similar to tumor-related protein [R... [ score 92 E 4e-18 ] [ range 5 .. 83 ]
+sequence
+-----LRNIHGIIEAFGCYARSEGGCKVLTKQELKRLLEYEFADVIH-----DPATVDEVLHLLDEDNTG
+TVEFKEFLVLVFKVAR-----------------*
+>P1;gi|18640744|ref|NP_570128.1| S100Z protein [Homo sapiens] >gi|20... [ score 90 E 9e-18 ] [ range 8 .. 83 ]
+sequence
+-------AMDTMIRIFHRYSGKARKRFKLSKGELKLLLQTEFLSCQK-----ETQLVDKIVQDLDANKDN
+EVDFNEFVVMVAALT------------------*
+>P1;gi|6677817|ref|NP_033126.1| repetin [Mus musculus] >gi|2493419|s... [ score 90 E 1e-17 ] [ range 5 .. 83 ]
+sequence
+-----LNSILNVSKVFQDYAEYHGVGASLSKKELKQLLLTEFGDILR-----DPETVETILEHLDRDRNG
+YVDFHEYLLLVFQLVQ-----------------*
+>P1;gi|38076703|ref|XP_355410.1| similar to tumor-related protein [M... [ score 90 E 2e-17 ] [ range 5 .. 83 ]
+sequence
+-----LQNIHGIIEAFGCYARSEGGCKVLTRQELKRLLEHEFADVIH-----DPATVDEVLRLLDEDNTG
+TVEFKEFLVLVFKVAR-----------------*
+>P1;gi|45383816|ref|NP_989479.1| S100 calcium binding protein A6 (ca... [ score 88 E 5e-17 ] [ range 8 .. 81 ]
+sequence
+-------AIGLLVATFHKYSGKEGDKNSLSKGELKELIQKELTIGPK-----KDAEIAGLMEDLDRNKDQ
+EVNFQEYVTFLGALA------------------*
+>P1;gi|13431875|sp|Q9UDP3|S11Y_HUMAN Putative S100 calcium-binding p... [ score 87 E 8e-17 ] [ range 11 .. 87 ]
+sequence
+-----VRCIQSLIAVFQKYAGKDGYNCNLSKTEFLSFMNTELAAFTK-----DPGVLDR-MKKLDVSSDG
+QLDFPKFLNLIGGLA------------------*
+>P1;gi|27692337|ref|XP_227371.1| similar to repetin [Rattus norvegicus] [ score 87 E 1e-16 ] [ range 5 .. 83 ]
+sequence
+-----LNSILNVNKVFQNYAEHHGAGASLSKKELKQLLLAEFGDILR-----DPETVETILEHLDRDRNG
+YVDFHEYLLLVFQLVQ-----------------*
+>P1;gi|6094218|sp|O77691|S106_HORSE Calcyclin >gi|3493135|gb|AAC3329... [ score 86 E 3e-16 ] [ range 8 .. 81 ]
+sequence
+-------AISLLVAIFHKYSSREGDKNTLSKGELKELIQKELTIGAE-----EDSEIAKLLDDLDQNKDQ
+VVNFQEYVTFLGALA------------------*
+>P1;gi|20750113|gb|AAM23016.1| filaggrin [Mus musculus] [ score 73 E 1e-12 ] [ range 5 .. 74 ]
+sequence
+-----LESITSMIEIFQQYSTSDKEEETLSKEELKELLEGQLQAVLK-----NPDDQDVFMQMLDVDHDD
+KLDFAEY--------------------------*
+>P1;gi|38076664|ref|XP_356757.1| similar to endothelial monocyte-act... [ score 72 E 3e-12 ] [ range 7 .. 83 ]
+sequence
+------RCIESPIAVFQKCSRKEEKSYQLSKTESLSFMNIEMANKQK-----DPGALDQMMKKLNLNRDW
+QLDFQEFLNLIDGLA------------------*
+>P1;gi|34880543|ref|XP_344158.1| similar to endothelial monocyte-act... [ score 68 E 4e-11 ] [ range 90 .. 141 ]
+sequence
+---------------FPKYSGKDGDRCQLSRTEFLSFMSTGLAAFTK-----DPGVLDRIMKKLDLNGD-
+---------------------------------*
+>P1;gi|4506763|ref|NP_002951.1| S100 calcium binding protein A3; S10... [ score 66 E 1e-10 ] [ range 8 .. 82 ]
+sequence
+-------AVAAIVCTFQEYAGRCGDKYKLCQAELKELLQKELPTEFR-----ECDY-NKFMSVLDTNKDC
+EVDFVEYVRSLACL-------------------*
+>P1;gi|6755388|ref|NP_035440.1| S100 calcium binding protein A3 [Mus... [ score 64 E 6e-10 ] [ range 8 .. 76 ]
+sequence
+-------AVAAIVCTFQEYAGRCGDKYKICQSELKELLQKELPTWT-------PSEFNKFMSVLDTNKDC
+EVDFGEYV-------------------------*
+>P1;gi|34858171|ref|XP_238235.2| similar to profilaggrin [Rattus nor... [ score 61 E 7e-09 ] [ range 5 .. 83 ]
+sequence
+-----LESITSMIDIFQQYSNNDKEEETLSKEELKELLEGELQAVLK-----NPNDQDVFMQMLDVDHDD
+KIDFTEYLLMVLKLAQ-----------------*
+>P1;gi|34858179|ref|XP_227375.2| similar to RIKEN cDNA 5430400H23 [R... [ score 60 E 1e-08 ] [ range 49 .. 125 ]
+sequence
+-----LRGIFCVIEIFHKYASEDGNKEALTHRELRQLLEGEIGDFLQ-----PHVAVERKLNLLHFDRDG
+TISFEEFLLAIFSL-------------------*
+>P1;gi|21313246|ref|NP_082038.1| RIKEN cDNA 5430400H23 [Mus musculus... [ score 59 E 3e-08 ] [ range 5 .. 81 ]
+sequence
+-----LRGVFCVVEIFHKYAIEDGNQATLTRTELRQLLEGEIGDFLQ-----PHVAVERKLNLLNFDRDG
+TISFEEFVLAIFSL-------------------*
+>P1;gi|30147721|ref|XP_060104.2| similar to RIKEN cDNA 5430400H23 [H... [ score 57 E 1e-07 ] [ range 5 .. 80 ]
+sequence
+-----LRNVLCVIETFHKYASEDSNGATLTGRELKQLIQGEFGDFFQ-----PCVAVEKNSNLLNIDSNG
+IISFDEFVLAIFNL-------------------*
+>P1;gi|15234291|ref|NP_195331.1| calcium-dependent protein kinase fa... [ score 56 E 2e-07 ] [ range 371 .. 435 ]
+sequence
+---------DELDDLRDQFDAIDIDKNSISLEEMRQALAKDVPWKLK-----D-ARVAEILQANDSNTDG
+LVDFTEFVV------------------------*
+>P1;gi|28556890|dbj|BAC57523.1| notochord specific gene 8 protein [C... [ score 50 E 2e-05 ] [ range 21 .. 86 ]
+sequence
+-----------ILRVFQSYDVDNG--GTLQRRELRNLL-RQCGAKLS-----SKQC-DDIIDQLDTDGDG
+EMNFAEFMAFLGRLYQ-----------------*
+>P1;gi|7304941|ref|NP_038906.1| calcium binding protein 2 [Mus muscu... [ score 50 E 2e-05 ] [ range 147 .. 216 ]
+sequence
+-----MIGVRELRDAFREF-DTNGDGC-ISVGELRAALKALLGERL------SQREVDEILQDIDLNGDG
+LVDFEEFVRMMSR--------------------*
+>P1;gi|29244010|ref|NP_808292.1| hypothetical protein A430083B19 [Mu... [ score 48 E 7e-05 ] [ range 58 .. 131 ]
+sequence
+------KAIATIALVFRNASDPDG---KLGKATAKKLLQTQFKKFTE-----REETKQDILSELDEHTEN
+KLDFEDFVILLLSLA------------------*
+>P1;gi|27806289|ref|NP_776680.1| calcium binding protein 2 [Bos taur... [ score 46 E 2e-04 ] [ range 94 .. 163 ]
+sequence
+-----MIGVRELRDAFREF-DTNGDGC-ISLGELRAALKALLGERL------SQREVDEILRDIDLNGDG
+LVDFEEFVRMMSR--------------------*
+>P1;gi|13431359|sp|Q9NZU6|CAB3_HUMAN Calcium-binding protein CaBP3 >... [ score 46 E 2e-04 ] [ range 123 .. 192 ]
+sequence
+-----MIGVQEMRDAFKEF-DTNGDGE-ITLAELQQAMQRLLGERLT------PREISEVVREADVNGDG
+TVDFEEFVKMMSR--------------------*
+>P1;gi|7705312|ref|NP_057450.1| calcium binding protein 2 isoform 1 ... [ score 46 E 2e-04 ] [ range 151 .. 220 ]
+sequence
+-----MIGVRELRDAFREF-DTNGD-GRISVGELRAALKALLGERL------SQREVDEILQDVDLNGDG
+LVDFEEFVRMMSR--------------------*
+>P1;gi|21624641|ref|NP_660201.1| calcium binding protein 4 [Homo sap... [ score 46 E 3e-04 ] [ range 230 .. 274 ]
+sequence
+--------------------------------ELREAV----PALLG-----EPLALDEMLREVDLNGDG
+TVDFDEFVMMLSR--------------------*
+>P1;gi|21264374|sp|O88751|CAB1_RAT Calcium-binding protein CaBP1 (Ca... [ score 45 E 4e-04 ] [ range 229 .. 298 ]
+sequence
+-----MIGVKELRDAFREF-DTNGDGE-ISTSELREAMRK-LLGHQV-----GHRDIEEIIRDVDLNGDG
+RVDFEEFVRMMSR--------------------*
+>P1;gi|42572119|ref|NP_974150.1| calcium-dependent protein kinase, p... [ score 45 E 5e-04 ] [ range 460 .. 523 ]
+sequence
+---------ENLIEAF-KYFDKDRSGF-ITRDELKHSM-TEYG--MG-----DDATIDEVINDVDTDNDG
+RINYEEFVAMMRK--------------------*
+>P1;gi|5162877|dbj|BAA81748.1| calcium-dependent protein kinase [Mar... [ score 44 E 7e-04 ] [ range 457 .. 520 ]
+sequence
+---------DHLYAAFQHF---DGDNSGITMEELEQALIK---HGMG-----DPDTLKEIIREVDTDHDG
+RINYDEFVAMMRK--------------------*
+>P1;gi|13899315|ref|NP_113656.1| calneuron 1; calcium-binding protei... [ score 44 E 8e-04 ] [ range 34 .. 102 ]
+sequence
+-------SVEELDEIREAFRVRDGNGF-ISKQELGMAMRS--LGYMP-----SEVELAIIMQRLDMDGDG
+QVDFDEFMTILG---------------------*
+>P1;gi|42656152|ref|XP_375887.1| similar to Calcyclin (Prolactin rec... [ score 148 E 3e-35 ] [ range 61 .. 150 ]
+sequence
+MACPLDQAIGLLVAIFHKYSGREGDKHTLSKKELKELIQKELTIGSKLQ--DAEIARLMED-LDRN-KDQ
+EVNFQEYVTFLGALALIYNEALKG---------*
+>P1;gi|34858021|ref|XP_215598.2| similar to endothelial monocyte-act... [ score 144 E 4e-34 ] [ range 53 .. 142 ]
+sequence
+MPTETERCIESLIAVFQKYSGKDGNSCHLSKTEFLSFMNTELAAFTKNQ--KDPLDRMMKK-LDLN-SDG
+QLDFQEFLNLIGGLAIACHESF-----------*
+>P1;gi|38083803|ref|XP_357005.1| similar to endothelial monocyte-act... [ score 142 E 1e-33 ] [ range 20 .. 109 ]
+sequence
+MPTETERCIESLIAVFQKYSGKDGNNTQLSKTEFLSFMNTELAAFTKNQ--KDPLDRMMKK-LDLN-CDG
+QLDFQEFLNLIGGLAIACHDSF-----------*
+>P1;gi|34811429|pdb|1NSH|A Chain A, Solution Structure Of Rabbit Apo... [ score 142 E 1e-33 ] [ range 3 .. 91 ]
+sequence
+-PTETERCIESLIAVFQKYAGKDGHSVTLSKTEFLSFMNTELAAFTKNQ--KDPLDRMMKK-LDLN-SDG
+QLDFQEFLNLIGGLAVACHESF-----------*
+>P1;gi|5032057|ref|NP_005611.1| S100 calcium binding protein A11 (ca... [ score 140 E 5e-33 ] [ range 7 .. 95 ]
+sequence
+-PTETERCIESLIAVFQKYAGKDGYNYTLSKTEFLSFMNTELAAFTKNQ--KDPLDRMMKK-LDTN-SDG
+QLDFSEFLNLIGGLAMACHDSF-----------*
+>P1;gi|45384028|ref|NP_990497.1| calgizzarin [Gallus gallus] >gi|282... [ score 140 E 1e-32 ] [ range 6 .. 94 ]
+sequence
+-PTETERCIESLLAVFQRYAGREGDNLKLSKKEFRTFMNTELASFTKNQ--KDPVDRMMKR-LDIN-SDG
+QLDFQEFLNLIGGIAVACHDAL-----------*
+>P1;gi|27681837|ref|XP_225088.1| similar to endothelial monocyte-act... [ score 137 E 7e-32 ] [ range 49 .. 135 ]
+sequence
+---ETERCMESLIAVFQKYTGKDGNSCQFYKTEFLSFMNTELAAFTKNQ--KDPLDRMMKK-LDLN-SDG
+QLDFQEFLNLIGGLAIACHESF-----------*
+>P1;gi|27665102|ref|XP_222160.1| similar to endothelial monocyte-act... [ score 136 E 1e-31 ] [ range 33 .. 124 ]
+sequence
+MPTETERCIEFLLAVFQMHCGKGRNSRQLSKTEFLPFMNTEMAPFTKNP--KDPLDRGMKQ-LDRN-SDG
+RLDFQEFLNLIGGLAMACHESFLG---------*
+>P1;gi|25023967|ref|XP_204772.1| similar to endothelial monocyte-act... [ score 135 E 3e-31 ] [ range 1 .. 90 ]
+sequence
+MPTEMERCIESLIAVLQKYSGKDGNGSQLSKTEFLSFMNTELAAFTKNQ--KDPLDRMMKK-LDLN-CDG
+QLDFQDFLNLIGGLATACHDSF-----------*
+>P1;gi|28189775|dbj|BAC56502.1| similar to S100 calcium-binding prot... [ score 134 E 4e-31 ] [ range 7 .. 95 ]
+sequence
+-PTETERCIESLIAVFQKHAGRDGNNSKLSKAEFLIFMNTELGAFTKNQ--KDPLDRMMKK-LDLN-SDG
+QLDFQEFLNLIGGLAIACHESF-----------*
+>P1;gi|7388240|sp|O60417|S11P_HUMAN Putative S100 calcium-binding pr... [ score 132 E 2e-30 ] [ range 7 .. 94 ]
+sequence
+-PTETERCIESLIAVFQKYAGKDGYNRNLSKTEFLSFMNTELAAFTKNQ--DPGVLDHMKK-LDVS-SDG
+QLDFPKFLNLIGGLAVACHDSF-----------*
+>P1;gi|116511|sp|P05964|S106_RAT Calcyclin (Prolactin receptor assoc... [ score 132 E 2e-30 ] [ range 1 .. 90 ]
+sequence
+MACPLDQAIGLLVAIFHKYSGKEGDKHTLSKKELKELIQKELTIGAKLQ--DAEIARLMDD-LDRN-KDQ
+EVNFQEYVAFLGALALIYNEALKG---------*
+>P1;gi|13431875|sp|Q9UDP3|S11Y_HUMAN Putative S100 calcium-binding p... [ score 131 E 5e-30 ] [ range 7 .. 94 ]
+sequence
+-PTETVRCIQSLIAVFQKYAGKDGYNCNLSKTEFLSFMNTELAAFTKNQ--DPGVLDRMKK-LDVS-SDG
+QLDFPKFLNLIGGLAVACHDSF-----------*
+>P1;gi|399178|sp|P31950|S111_PIG Calgizzarin (S100C protein) >gi|108... [ score 130 E 8e-30 ] [ range 5 .. 93 ]
+sequence
+-PTETERCIESLIAIFQKHAGRDGNNTKISKTEFLIFMNTELAAFTQNQ--KDPLDRMMKK-LDLD-SDG
+QLDFQEFLNLIGGLAIACHDSF-----------*
+>P1;gi|27692714|ref|XP_215606.1| similar to S-100 protein, alpha cha... [ score 127 E 9e-29 ] [ range 1 .. 90 ]
+sequence
+MGSELETAMETLINVFHAHSGKEGDKYKLSKKELKDLLQTELSSFLDVQ--KDAVDKIMKE-LDEN-GDG
+EVDFQEFVVLVAALTVACNNFF-----------*
+>P1;gi|28278451|gb|AAH45941.1| Unknown (protein for MGC:56142) [Dani... [ score 126 E 1e-28 ] [ range 1 .. 86 ]
+sequence
+MPSDLERAMETLITVFHRYSGAEGNSSTLSRRELKQLMEKELASFLKKD--PAAVDKIMKD-LDAN-GDG
+EVNFEEFVSLVVGLSIAC---------------*
+>P1;gi|134135|sp|P02639|S10A_BOVIN S-100 protein, alpha chain >gi|10... [ score 126 E 1e-28 ] [ range 1 .. 90 ]
+sequence
+MGSELETAMETLINVFHAHSGKEGDKYKLSKKELKELLQTELSGFLQKD--ADAVDKVMKE-LDEN-GDG
+EVDFQEYVVLVAALTVACNNFF-----------*
+>P1;gi|27660232|ref|XP_218979.1| similar to endothelial monocyte-act... [ score 125 E 3e-28 ] [ range 65 .. 149 ]
+sequence
+-----ERCMESLIAVFQKYSGKDGNSCQFSKTEFLSFMNTELAAFRKKQ--KDPGVLMMKT-QDLN-SDG
+QLDFQEFLNLTGSLAIVCHESF-----------*
+>P1;gi|6755386|ref|NP_035439.1| S100 calcium binding protein A1 [Mus... [ score 124 E 5e-28 ] [ range 1 .. 90 ]
+sequence
+MGSELESAMETLINVFHAHSGKEGDKYKLSKKELKDLLQTELSGFLDVQ--KDAVDKVMKE-LDEN-GDG
+EVDFKEYVVLVAALTVACNNFF-----------*
+>P1;gi|33859624|ref|NP_035441.1| S100 calcium binding protein A4; S1... [ score 123 E 6e-28 ] [ range 1 .. 92 ]
+sequence
+MARPLEEALDVIVSTFHKYSGKEGDKFKLNKTELKELLTRELPSFKRTD--EAAFQKVMSN-LDSN-RDN
+EVDFQEYCVFLSCIAMMCNEFFEG---------*
+>P1;gi|45383816|ref|NP_989479.1| S100 calcium binding protein A6 (ca... [ score 123 E 9e-28 ] [ range 1 .. 88 ]
+sequence
+MAAPLDQAIGLLVATFHKYSGKEGDKNSLSKGELKELIQKELTIGPKLK--DAEIAGLMED-LDRN-KDQ
+EVNFQEYVTFLGALAMIYNEAL-----------*
+>P1;gi|3386482|gb|AAC28367.1| S100-like calcium binding protein [Sal... [ score 123 E 9e-28 ] [ range 1 .. 91 ]
+sequence
+MPSQLESSMESLITVFHRYADKDGDCNTLSKKELKELMQTELASFLKKD--PAAIDTIMKD-LDQN-GDG
+KVSFEEFVSLVVGLSIACEQIYQ----------*
+>P1;gi|6981326|ref|NP_036750.1| S100 calcium-binding protein A4; Pro... [ score 123 E 1e-27 ] [ range 1 .. 92 ]
+sequence
+MARPLEEALDVIVSTFHKYSGNEGDKFKLNKTELKELLTRELPSFRRTD--EAAFQKLMNN-LDSN-RDN
+EVDFQEYCVFLSCIAMMCNEFFEG---------*
+>P1;gi|4506765|ref|NP_002952.1| S100 calcium-binding protein A4; S10... [ score 122 E 2e-27 ] [ range 1 .. 92 ]
+sequence
+MACPLEKALDVMVSTFHKYSGKEGDKFKLNKSELKELLTRELPSFKRTD--EAAFQKLMSN-LDSN-RDN
+EVDFQEYCVFLSCIAMMCNEFFEG---------*
+>P1;gi|134140|sp|P10462|S102_BOVIN S100 calcium-binding protein A2 (... [ score 121 E 3e-27 ] [ range 1 .. 92 ]
+sequence
+MSSPLEQALAVMVATFHKYSGQEGDKFKLSKGEMKELLHKELPSFEKVD--EEGLKKLMGD-LDEN-SDQ
+QVDFQEYAVFLALITIMCNDFFQG---------*
+>P1;gi|42657928|ref|XP_377928.1| similar to Calgizzarin (S100C prote... [ score 121 E 4e-27 ] [ range 26 .. 108 ]
+sequence
+-------SIESLISLFQKYVGKGGYNCTLSKTEFLSFMNAELAAFTKNQ--KDPGVRMMKK-LGTN-NDG
+QLDFSEFLNLIGGLAMACHDSF-----------*
+>P1;gi|27686759|ref|XP_226710.1| similar to S100Z protein [Rattus no... [ score 120 E 8e-27 ] [ range 1 .. 90 ]
+sequence
+MPTQLEMAMETMIRIFHRYSCKEGDRFKLNKGELKMLLQRELTEFLTCQ--KDPVDKIMQD-LDAN-KDN
+EVDFNEFVVMVAALTVACNDYF-----------*
+>P1;gi|6094218|sp|O77691|S106_HORSE Calcyclin >gi|3493135|gb|AAC3329... [ score 120 E 1e-26 ] [ range 1 .. 89 ]
+sequence
+MACPLDQAISLLVAIFHKYSSREGDKNTLSKGELKELIQKELTIGAELE--DSEIAKLLDD-LDQN-KDQ
+VVNFQEYVTFLGALAMIYNEVLK----------*
+>P1;gi|6677837|ref|NP_033140.1| S100 calcium binding protein A9 (cal... [ score 118 E 3e-26 ] [ range 6 .. 95 ]
+sequence
+-PSQMERSITTIIDTFHQYSRKEGHPDTLSKKEFRQMVEAQLATFEKRN--EALINDIMED-LDTN-QDN
+QLSFEECMMLMAKLIFACHEKL-----------*
+>P1;gi|399172|sp|P28783|S109_BOVIN Calgranulin B (Neutrophil cytosol... [ score 118 E 4e-26 ] [ range 2 .. 90 ]
+sequence
+--SQMESSIETIINIFHQYSVRLGHYDTLIQKEFKQLVQKELPNFLKKQ--EAAINEIMED-LDTN-VDK
+QLSFEEFIMLVARLTVASHEEM-----------*
+>P1;gi|27807075|ref|NP_777020.1| S100 calcium-binding protein A4 (ca... [ score 117 E 6e-26 ] [ range 1 .. 92 ]
+sequence
+MAYPLEKALDVMVSTFHKYSGKEGDKFKLNKSELKELLTRELPSFKRTD--ETAFQKLMSN-LDCN-KDN
+EVDFQEYCVFLSCIAMMCNEFFEG---------*
+>P1;gi|16758364|ref|NP_446039.1| S100 calcium-binding protein A9 (ca... [ score 117 E 8e-26 ] [ range 7 .. 95 ]
+sequence
+--SQLERSISTIINVFHQYSRKYGHPDTLNKAEFKEMVNKDLPNFLKRE--KRNLRDIMED-LDTN-QDN
+QLSFEECMMLMGKLIFACHEKL-----------*
+>P1;gi|5174661|ref|NP_005969.1| S100 calcium binding protein A2; S10... [ score 116 E 1e-25 ] [ range 1 .. 92 ]
+sequence
+MCSSLEQALAVLVTTFHKYSCQEGDKFKLSKGEMKELLHKELPSFEKVD--EEGLKKLMGS-LDEN-SDQ
+QVDFQEYAVFLALITVMCNDFFQG---------*
+>P1;gi|4506763|ref|NP_002951.1| S100 calcium binding protein A3; S10... [ score 116 E 1e-25 ] [ range 1 .. 91 ]
+sequence
+MARPLEQAVAAIVCTFQEYAGRCGDKYKLCQAELKELLQKELATPTEFR--ECDYNKFMSV-LDTN-KDC
+EVDFVEYVRSLACLCLYCHEYFK----------*
+>P1;gi|37927363|gb|AAP69564.1| ictacalcin [Danio rerio] [ score 115 E 2e-25 ] [ range 4 .. 93 ]
+sequence
+--SDTQKAMAMLIATFHKYSGKEGDKLTLSKGELKELLSAELGFGKTTD--KAALDKIFKD-LDAN-ADG
+SVDFQEYITLIACITMLCNEFFTG---------*
+>P1;gi|5738962|dbj|BAA83419.1| metastasin [Canis familiaris] [ score 115 E 2e-25 ] [ range 1 .. 92 ]
+sequence
+MTFPLEKALDVMVSTFHKYSGKEGDKFKLNRSELKELLMRELPSFKRTD--EAAFQKLMSN-LDSN-RDN
+EVDFQEYCVFLSCVAMMCNEFFEG---------*
+>P1;gi|7512190|pir||JE0330 26-kDa Ca2+-binding protein, p26olf - bul... [ score 115 E 3e-25 ] [ range 9 .. 102 ] [ duplicate a ]
+sequence
+-PTEMERSMEKIITVFQRYAGKEGNTTSMNFKEFEQFMNAELGSFTKNQ--KDPLRKIMKS-VDGK-QDG
+ELDFQEFLNLIGGMMVACHEAL-----------*
+>P1;gi|7512190|pir||JE0330 26-kDa Ca2+-binding protein, p26olf - bul... [ score 115 E 3e-25 ] [ range 118 .. 210 ] [ duplicate b ]
+sequence
+-PTDMETAMESIVRIYQHYAGKKGAKDQMDYTEFEAFMKAELNSFTANQ--KDPVRRLMES-VDGS-TDG
+KMNFQEFMNLIGGIMVACHAAF-----------*
+>P1;gi|479986|pir||S35985 S-100 protein alpha chain - weatherfish >g... [ score 115 E 3e-25 ] [ range 2 .. 89 ]
+sequence
+--SQLESAMESLIKVFHTYSSKEGDKYKLSKAELKSLLQGELNDFLSKD--PMVVEKIMSD-LDEN-QDG
+EVDFQEFVVLVAALTVACNEFF-----------*
+>P1;gi|4506767|ref|NP_002953.1| S100 calcium binding protein A5; S10... [ score 114 E 4e-25 ] [ range 19 .. 105 ]
+sequence
+METPLEKALTTMVTTFHKYSGREGSKLTLSRKELKELIKKELCLG-EMK--ESSIDDLMKS-LDKN-SDQ
+EIDFKEYSVFLTMLCMAYNDFF-----------*
+>P1;gi|8318583|gb|AAB20539.2| S100 alpha [Rattus sp.] [ score 113 E 8e-25 ] [ range 1 .. 80 ]
+sequence
+----------TLIHVFHAHSGKEGDKYKLSKKELKDLLQTELSSFLDVQ--KDAVDRIMKE-LDEN-GDG
+EVDFQEFVVLVAALTVACNNFF-----------*
+>P1;gi|6755390|ref|NP_035442.1| S100 calcium binding protein A5 [Mus... [ score 112 E 2e-24 ] [ range 1 .. 88 ]
+sequence
+METPLEKALTTMVTTFHKYSGREGSKLTLSRKELKELIKTELSLAEKMK--ESSIDNLMKS-LDKN-SDQ
+EIDFKEYSVFLTTLCMAYNDFF-----------*
+>P1;gi|18640744|ref|NP_570128.1| S100Z protein [Homo sapiens] >gi|20... [ score 112 E 2e-24 ] [ range 1 .. 90 ]
+sequence
+MPTQLEMAMDTMIRIFHRYSGKARKRFKLSKGELKLLLQRELTEFLSCQ--KETVDKIVQD-LDAN-KDN
+EVDFNEFVVMVAALTVACNDYF-----------*
+>P1;gi|5174663|ref|NP_005971.1| S100 calcium binding protein P [Homo... [ score 111 E 3e-24 ] [ range 2 .. 90 ]
+sequence
+--TELETAMGMIIDVFSRYSGSEGSTQTLTKGELKVLMEKELPGFLQKD--KDAVDKLLKD-LDAN-GDA
+QVDFSEFIVFVAAITSACHKYFE----------*
+>P1;gi|6755388|ref|NP_035440.1| S100 calcium binding protein A3 [Mus... [ score 111 E 3e-24 ] [ range 1 .. 91 ]
+sequence
+MTRPLEQAVAAIVCTFQEYAGRCGDKYKICQSELKELLQKELPTWTEFR--ECDYNKFMSV-LDTN-KDC
+EVDFGEYVRSLASLCLYCHEYFK----------*
+>P1;gi|45382861|ref|NP_990837.1| cellular ligand of annexin II [Gall... [ score 111 E 4e-24 ] [ range 1 .. 87 ]
+sequence
+MPSQMEHAMETLMFTFHKYA---GDKNYLSKEDLRALMEKEFPGFLENQ--PMALDKIMKD-LDQC-RDG
+KVGFQSFFSLVAGLTIACNDYF-----------*
+>P1;gi|24637029|gb|AAN63527.1| S-100 calcium-binding protein A1 [Squ... [ score 110 E 1e-23 ] [ range 2 .. 89 ]
+sequence
+--TELESAMAGIIGVFRKYSGKEGDKYSLSNNEMVDLLKAELPNFLKKD--KAAVDKIMKD-LDRN-KDG
+ELDFQEFVVLIAALAAACNDFF-----------*
+>P1;gi|34858169|ref|XP_227368.2| similar to dJ14N1.2 (novel S-100/IC... [ score 110 E 1e-23 ] [ range 63 .. 148 ]
+sequence
+----LLRSVVTIIDIFYKYTKQDEECGTLSKNELKELLEKEFPILKNPD--DPDTVDIMHM-LDRD-HDR
+RLDFTEFILMVFKLALACNKVL-----------*
+>P1;gi|20150229|pdb|1IRJ|A Chain A, Crystal Structure Of The Mrp14 C... [ score 109 E 1e-23 ] [ range 5 .. 93 ]
+sequence
+--SQLERNIETIINTFHQYSVKLGHPDTLNQGEFKELVRKDLQNFLKKN--EKVIEHIMED-LDTN-ADK
+QLSFEEFIMLMARLTWASHEKM-----------*
+>P1;gi|134137|sp|P02638|S10B_BOVIN S-100 protein, beta chain >gi|717... [ score 109 E 1e-23 ] [ range 1 .. 89 ]
+sequence
+--SELEKAVVALIDVFHQYSGREGDKHKLKKSELKELINNELSHFLEKE--QEVVDKVMET-LDSD-GDG
+ECDFQEFMAFVAMITTACHEFFE----------*
+>P1;gi|2493418|sp|Q91061|S10I_ICTPU Ictacalcin >gi|1144386|gb|AAB526... [ score 109 E 2e-23 ] [ range 2 .. 89 ]
+sequence
+--SDLQKGMALLISTFHKYSGKEGDKCTLTKGELKDLLTKELAFGNCSD--QATLDKIFKD-LDTN-ADG
+VVDFQEYATMVACTTMLCNKSL-----------*
+>P1;gi|27573962|pdb|1MQ1|A Chain A, Ca2+-S100b-Trtk-12 Complex >gi|2... [ score 109 E 2e-23 ] [ range 1 .. 89 ]
+sequence
+--SELEKAMVALIDVFHQYSGREGDKHKLKKSELKELINNELSHFLEKE--QEVVDKVMET-LDND-GDG
+ECDFQEFMAFVAMVTTACHEFFE----------*
+>P1;gi|126659|sp|P28318|M126_CHICK Protein MRP-126 [ score 108 E 2e-23 ] [ range 12 .. 99 ]
+sequence
+--SELEKAIDVIIDVFHQYSRREGDKDTLTRKELKLLIEKQLANYLKKN--QVSIDQIFKD-LDNN-KDQ
+QLSFGEVMLLIIRVTVATHEHL-----------*
+>P1;gi|34858173|ref|XP_227369.2| similar to hornerin [Rattus norvegi... [ score 108 E 3e-23 ] [ range 1 .. 89 ]
+sequence
+MP-KLLQGIVTVIDVFYNYATEYGNCDMLSKKEMKELLETEFQILKNPD--DPDTVDIMQS-LDRD-HNH
+KVDFTEYLIMILRLAKACNKII-----------*
+>P1;gi|33469037|ref|NP_598459.1| hornerin [Mus musculus] >gi|4547696... [ score 108 E 3e-23 ] [ range 1 .. 89 ]
+sequence
+MPKLLE-SIVTVIDVFYQYATEYGNCDMLSKEEMKELLVTEFQILKNPD--DPDTVDIMQN-LDRD-HNH
+KVDFTEYLLMILKLTKACNKII-----------*
+>P1;gi|4506761|ref|NP_002957.1| S100 calcium-binding protein A10; S1... [ score 107 E 5e-23 ] [ range 1 .. 87 ]
+sequence
+MPSQMEHAMETMMFTFHKFA---GDKGYLTKEDLRVLMEKEFPGFLENQ--KDPVDKIMKD-LDQC-RDG
+KVGFQSFFSLIAGLTIACNDYF-----------*
+>P1;gi|6677833|ref|NP_033138.1| S100 calcium binding protein A10; ca... [ score 106 E 1e-22 ] [ range 1 .. 87 ]
+sequence
+MPSQMEHAMETMMLTFHRFA---GDKDHLTKEDLRVLMEREFPGFLENQ--KDPVDKIMKD-LDQC-RDG
+KVGFQSFLSLVAGLTIACNDYF-----------*
+>P1;gi|38076711|ref|XP_143396.2| similar to dJ14N1.2 (novel S-100/IC... [ score 105 E 3e-22 ] [ range 4 .. 89 ]
+sequence
+----LLRSVVTIIDVFYKYTKQDEECGTLSKDELKELLEKEFPILKNPD--DPDTVDIMHM-LDRD-HDR
+RLDFTEFILMIFKLALACNKVL-----------*
+>P1;gi|13592079|ref|NP_112376.1| S100 calcium binding protein A10; c... [ score 104 E 6e-22 ] [ range 1 .. 87 ]
+sequence
+MPSQMEHAMETMMLTFHRFA---GEKNYLTKEDLRVLMEREFPGFLENQ--KDPVDKIMKD-LDQC-RDG
+KVGFQSFLSLVAGLIIACNDYF-----------*
+>P1;gi|38076650|ref|XP_143379.2| similar to BEE22=calcium-binding L1... [ score 103 E 1e-21 ] [ range 28 .. 119 ]
+sequence
+-STQMEESMDVIIQIFHKYSLTEGNPDTLSKKEFKELVNKEMPNKEEKD--EKSMNGMMEN-LDTN-KDN
+QLEFNEYVDLIGKLKTIHKESHK----------*
+>P1;gi|1200246|emb|CAA61204.1| MRP8 protein [Mus musculus] [ score 102 E 1e-21 ] [ range 1 .. 84 ]
+sequence
+MPSELEKALSNLIDVYHNYSNIQGNHHALYKNDFKKMVTTECPQF--VQ--NINIENLFRD-LDIN-SDN
+AINFEEFLAMVIKVGVASHK-------------*
+>P1;gi|21614544|ref|NP_002955.2| S100 calcium-binding protein A8; cy... [ score 102 E 2e-21 ] [ range 1 .. 84 ]
+sequence
+MLTELEKALNSIIDVYHKYSLIKGNFHAVYRDDLKKLLETECPQYIRKK--GADV--WFKE-LDIN-TDG
+AVNFQEFLILVIKMGVAAHK-------------*
+>P1;gi|13638435|sp|P50115|S108_RAT Calgranulin A (Migration inhibito... [ score 101 E 3e-21 ] [ range 1 .. 84 ]
+sequence
+MATELEKALSNVIEVYHNYSGIKGNHHALYRDDFRKMVTTECPQF--VQ--NKNTESLFKE-LDVN-SDN
+AINFEEFLVLVIRVGVAAHK-------------*
+>P1;gi|27807183|ref|NP_777076.1| S100 calcium binding protein A12 (c... [ score 101 E 5e-21 ] [ range 2 .. 86 ]
+sequence
+--TKLEDHLEGIINIFHQYSVRVGHFDTLNKRELKQLITKELPLQNTKD--QPTIDKIFQD-LDAD-KDG
+AVSFEEFVVLVSRVLKTAH--------------*
+>P1;gi|38076664|ref|XP_356757.1| similar to endothelial monocyte-act... [ score 100 E 6e-21 ] [ range 1 .. 90 ]
+sequence
+MPTETERCIESPIAVFQKCSRKEEKSYQLSKTESLSFMNIEMATTMNKQ--KDPLDQMMKK-LNLN-RDW
+QLDFQEFLNLIDGLAIAWHEFF-----------*
+>P1;gi|33357663|pdb|1ODB|A Chain A, The Crystal Structure Of Human S... [ score 100 E 7e-21 ] [ range 4 .. 89 ]
+sequence
+-STKLEEHLEGIVNIFHQYSVRKGHFDTLSKGELKQLLTKELANTIKND--KAVIDEIFQG-LDAN-QDE
+QVDFQEFISLVAIALKAAH--------------*
+>P1;gi|6094219|sp|P50117|S109_RABIT Calgranulin B (Migration inhibit... [ score 99 E 2e-20 ] [ range 1 .. 80 ]
+sequence
+-----------IINIFHQYSVRVGPRDSLSQKEFKQLVQKELHNFLKKD--EKAINDIMED-LDTN-QDK
+QLSFEEFVILMARLVHASHEEM-----------*
+>P1;gi|461678|sp|P80310|S112_PIG Calgranulin C (CAGC) >gi|1082959|pi... [ score 98 E 6e-20 ] [ range 1 .. 86 ]
+sequence
+--TKLEDHLEGIINIFHQYSVRLGHYDTLIKRELKQLITKELPLKNTKD--QGTIDKIFQN-LDAN-QDE
+QVSFKEFVVLVTDVLITAHD-------------*
+>P1;gi|45476906|sp|Q86YZ3|HORN_HUMAN Hornerin [ score 97 E 7e-20 ] [ range 1 .. 89 ]
+sequence
+MP-KLLQGVITVIDVFYQYATQHGEYDTLNKAELKELLENEFHQILKND--PDTVDIILQS-LDRD-HNK
+KVDFTEYLLMIFKLVQARNKII-----------*
+>P1;gi|26334139|dbj|BAC30787.1| unnamed protein product [Mus musculus] [ score 97 E 1e-19 ] [ range 1 .. 89 ]
+sequence
+MPKLLE-SIVTVIDVFYQYATEYGNCDMLSKEEMKELLVTEFHQILKND--PDTVDIIMQN-LDRD-HNH
+KVDFTEYLLMILKLTKACNKII-----------*
+>P1;gi|6094220|sp|O77791|S112_RABIT Calgranulin C (CAGC) >gi|3661597... [ score 95 E 4e-19 ] [ range 1 .. 76 ]
+sequence
+------------INIFHQYSVRTGHYDTLSKCELKKLITTELTIKNTKD--QATVDRIFRD-LDED-GDH
+QVDFKEFLSLLASVLVTAHE-------------*
+>P1;gi|12314268|emb|CAC13173.1| dJ14N1.2 (novel S-100/ICaBP type cal... [ score 94 E 5e-19 ] [ range 2 .. 89 ]
+sequence
+--TDLLRSVVTVIDVFYKYTKQDGECGTLSKGELKELLEKELPVLKNPD--DPDTVDIMHM-LDRD-HDR
+RLDFTEFLLMIFKLTMACNKVL-----------*
+>P1;gi|27692701|ref|XP_215609.1| similar to S100 calcium binding pro... [ score 93 E 1e-18 ] [ range 1 .. 90 ]
+sequence
+MPTPVEDSLFQIIHCFHHYAAREGDKETLSLEELKALLLDSVPRFMRRQ--PYYITELFRA-ADKN-KDN
+QICFDEFLYILGKLVKDYH--------------*
+>P1;gi|27692712|ref|XP_215607.1| similar to 8KDa amlexanox-binding p... [ score 92 E 2e-18 ] [ range 6 .. 85 ]
+sequence
+-PTELESAIETVVTTFFTFAGREGRKGSLSTNEFKELVTQQLPHLLK-D--VGSLDEKMKS-LDVN-QDS
+ELKFNEYWRLIGELAK-----------------*
+>P1;gi|34858177|ref|XP_227373.2| similar to trichohyalin [Rattus nor... [ score 90 E 8e-18 ] [ range 2 .. 89 ]
+sequence
+--SPLIRSIVDITEVFNQYASQSCDGASLSKRELKNLLERELGVLQKPH--DPETVDLLEL-LDRD-CNG
+RVDFNEFLLFLFKIAQACYYAL-----------*
+>P1;gi|41106697|ref|XP_371312.1| hypothetical protein FLJ39117 [Homo... [ score 87 E 9e-17 ] [ range 3 .. 89 ]
+sequence
+---QLLNSILSVIDVFHKYAKGNGDCALLCKEELKQLLLAEFGILQRPN--DPETVEILNL-LDQD-RDG
+HIDFHEYLLLVFQLVQACYHKL-----------*
+>P1;gi|20750113|gb|AAM23016.1| filaggrin [Mus musculus] [ score 87 E 1e-16 ] [ range 2 .. 90 ]
+sequence
+--SALLESITSMIEIFQQYSTSDKEEETLSKEELKELLEGQLQAVLKND--DQDIAEVMQM-LDVD-HDD
+KLDFAEYLLLVLKLAKAYYEASK----------*
+>P1;gi|41117410|ref|XP_371380.1| similar to S100 calcium-binding pro... [ score 85 E 4e-16 ] [ range 7 .. 85 ]
+sequence
+--TELEESIETVVTTFFTFARQEGRKDSLSVNEFKELVTQQLPHLLK-D--VGSLDEKMKS-LDVN-QDS
+ELKFNEYWRLIGELAK-----------------*
+>P1;gi|7706635|ref|NP_057274.1| tumor-related protein [Homo sapiens]... [ score 84 E 6e-16 ] [ range 1 .. 89 ]
+sequence
+MP-QLLQNINGIIEAFRRYARTEGNCTALTRGELKRLLEQEFADVIVKD--PATVDEVLRL-LDED-HTG
+TVEFKEFLVLVFKVAQACFKTL-----------*
+>P1;gi|116490|sp|P27004|S110_XENLA Calpactin I light chain (P10 prot... [ score 84 E 7e-16 ] [ range 4 .. 88 ]
+sequence
+-PSELEHSMEKMLLTFHKFA---GEKNYMNRDDLQKLLDSEFSEFLKNQ--NDPVDKIMKD-LDDC-RKG
+QVNFRSYCSLIAGLLIACNEY------------*
+>P1;gi|45430025|ref|NP_991369.1| 8KDa amlexanox-binding protein [Bos... [ score 84 E 8e-16 ] [ range 7 .. 85 ]
+sequence
+--TELEAAIETVVTTFFTFAGREGRKGSLSVNEFKELVTQQLPHLLK-D--VGSLDEKMKS-FDVN-QDS
+ELKFSEYWRLIGELAK-----------------*
+>P1;gi|14789635|gb|AAH10751.1| Calb3 protein [Mus musculus] >gi|2168... [ score 84 E 9e-16 ] [ range 4 .. 79 ]
+sequence
+-----EKSPAEMKSIFQKYAAKEGDPDQLSKEELKLLIQSEFPSLLKQA--SSTLDNLFKE-LDKN-GDG
+EVSYEEFEAFFKKLS------------------*
+>P1;gi|203239|gb|AAA40853.1| intestinal calcium-binding protein [ score 82 E 2e-15 ] [ range 5 .. 79 ]
+sequence
+------KSPEEMKSIFQKYAAKEGDPNQLSKEELKLLIQSEFPSLLKQA--SSTLDNLFKE-LDKN-GDG
+EVSYEEFEVFFKKLS------------------*
+>P1;gi|6677835|ref|NP_033139.1| S100 calcium binding protein A13; S1... [ score 83 E 2e-15 ] [ range 7 .. 85 ]
+sequence
+--TELEAAIETVVSTFFTFAGREGRKGSLNINEFKELATQQLPHLLK-D--VGSLDEKMKT-LDVN-QDS
+ELRFSEYWRLIGELAK-----------------*
+>P1;gi|1438768|gb|AAB36299.1| cornea-associated antigen, CO-Ag=calgr... [ score 82 E 3e-15 ] [ range 1 .. 70 ]
+sequence
+--TKLEDHLEGIINIFHQYSVRVGHFDTLNKRELKQLITKELPLQNTKD--QPTIDKIFQD-LDAD-KKG
+AVVF-----------------------------*
+>P1;gi|442719|pdb|1CB1|  Calbindin D9k (Intact Form) (Nmr, 13 Struct... [ score 81 E 5e-15 ] [ range 3 .. 77 ]
+sequence
+-----QKSPAELKSIFEKYAAKEGDPNQLSKEELKQLIQAEFPSLLK-G--PRTLDDLFQE-LDKN-GDG
+EVSFEEFQVLVKKIS------------------*
+>P1;gi|28556890|dbj|BAC57523.1| notochord specific gene 8 protein [C... [ score 80 E 9e-15 ] [ range 14 .. 84 ]
+sequence
+----LEYAASLILRVFQSYDVDNG--GTLQRRELRNLLRQ---CGAKLS--SKQCDDIIDQ-LDTD-GDG
+EMNFAEFMAFLGRL-------------------*
+>P1;gi|29423753|gb|AAO73439.1| calbindin-D9k [Equus caballus] [ score 80 E 1e-14 ] [ range 5 .. 78 ]
+sequence
+------KSPEELKKIFEKYAAKEGDPDQLSKEELKLLIQNELPALLK-G--SSSIDDLFKE-LDKN-GDG
+EVSFEEFQVLVKKIS------------------*
+>P1;gi|1384097|dbj|BAA04228.1| macrophage migration inhibitory facto... [ score 80 E 1e-14 ] [ range 1 .. 73 ]
+sequence
+MPTDLENSLNSIIFVYHKCSLEKGNYQALY-GDLKKLLATECPQYSKKK--DA--DSWFKE-LDIN-SDG
+ASNFQEFLIL-----------------------*
+>P1;gi|6677817|ref|NP_033126.1| repetin [Mus musculus] >gi|2493419|s... [ score 79 E 2e-14 ] [ range 1 .. 89 ]
+sequence
+MP-QLLNSILNVSKVFQDYAEYHGVGASLSKKELKQLLLTEFGILRRPN--DPETVEILEH-LDRD-RNG
+YVDFHEYLLLVFQLVQACHHKL-----------*
+>P1;gi|23943906|ref|NP_009044.1| trichohyalin [Homo sapiens] >gi|586... [ score 79 E 2e-14 ] [ range 2 .. 89 ]
+sequence
+--SPLLRSICDITEIFNQYVSHDCDGAALTKKDLKNLLEREFGAVLRRD--PKTVDLILEL-LDRD-SNG
+RVDFNEFLLFIFKVAQACYYAL-----------*
+>P1;gi|27692337|ref|XP_227371.1| similar to repetin [Rattus norvegicus] [ score 79 E 2e-14 ] [ range 1 .. 89 ]
+sequence
+MP-QLLNSILNVNKVFQNYAEHHGAGASLSKKELKQLLLAEFGILRRPN--DPETVEILEH-LDRD-RNG
+YVDFHEYLLLVFQLVQACHHKL-----------*
+>P1;gi|553213|gb|AAA35637.1| calbindin D-9k [ score 79 E 2e-14 ] [ range 1 .. 78 ]
+sequence
+MSTK--KSPEELKRIFEKYAAKEGDPDQLSKDELKLLIQAEFPSLLK-G--PNTLDDLFQE-LDKN-GDG
+EVSFEEFQVLVKKIS------------------*
+>P1;gi|586122|sp|P22793|TRHY_SHEEP Trichohyalin >gi|423321|pir||A406... [ score 78 E 4e-14 ] [ range 2 .. 89 ]
+sequence
+--SPLLRSIFNITKIFNQYASHDCDGTTLSKKDLKNLLEREFGILRKPH--DPETVDLVLE-LDRD-RDG
+LIDFHEFLAIVFKVAAACYYAL-----------*
+>P1;gi|27807077|ref|NP_777021.1| S100 calcium-binding protein A7 (ps... [ score 78 E 5e-14 ] [ range 3 .. 92 ]
+sequence
+-SSQLEQAITDLINLFHKYSGSD---DTIEKEDLLRLMKDNFPNFLKRG--RDYLSNIFEK-QDKN-KDR
+KIDFSEFLSLLADIATDYHNHSHG---------*
+>P1;gi|34880543|ref|XP_344158.1| similar to endothelial monocyte-act... [ score 74 E 6e-13 ] [ range 88 .. 141 ]
+sequence
+-------------CCFPKYSGKDGDRCQLSRTEFLSFMSTGLAAFTKNQ--KDPLDRIMKK-LDLN-GD-
+---------------------------------*
+>P1;gi|203216|gb|AAA40843.1| intestinal calcium binding protein (par... [ score 74 E 8e-13 ] [ range 3 .. 68 ]
+sequence
+--------------IFQKYAAKEGDPNQLSKEELKLLIQSEFPNLLK-A--SSTLDNLFEE-LDKN-DDG
+EVSYEEFEVFFKKLS------------------*
+>P1;gi|34858167|ref|XP_227367.2| similar to tumor-related protein [R... [ score 74 E 8e-13 ] [ range 1 .. 95 ]
+sequence
+MP-QLLRNIHGIIEAFGCYARSEGGCKVLTKQELKRLLEYEFADVIVKD--PATVDEVLHL-LDED-NTG
+TVEFKEFLVLVFKVARACNESPKG---------*
+>P1;gi|38076703|ref|XP_355410.1| similar to tumor-related protein [M... [ score 73 E 2e-12 ] [ range 1 .. 95 ]
+sequence
+MP-QLLQNIHGIIEAFGCYARSEGGCKVLTRQELKRLLEHEFADVIVKD--PATVDEVLRL-LDED-NTG
+TVEFKEFLVLVFKVARACNESPKG---------*
+>P1;gi|41222866|ref|XP_372676.1| similar to S100 calcium-binding pro... [ score 72 E 3e-12 ] [ range 26 .. 111 ]
+sequence
+-PSPMEHTMETVLFTFHRFA---GDKGYLMKEGLKVLMGKEFLGFLENQ--KDPLDITMKD-MDQC-QDS
+TLNFQNLFSLTAGLTTVDNNYF-----------*
+>P1;gi|34858171|ref|XP_238235.2| similar to profilaggrin [Rattus nor... [ score 72 E 4e-12 ] [ range 1 .. 90 ]
+sequence
+MSTLLE-SITSMIDIFQQYSNNDKEEETLSKEELKELLEGELQAVLKNN--DQDIAEVMQM-LDVD-HDD
+KIDFTEYLLMVLKLAQAYYETSK----------*
+>P1;gi|12314267|emb|CAC13172.1| dJ14N1.1.1 (profilaggrin 5' end) [Ho... [ score 70 E 1e-11 ] [ range 1 .. 88 ]
+sequence
+MSTLLE-NIFAIINLFKQYSKKDKNTDTLSKKELKELLEKEFQILKNPD--DPDMVDVMDH-LDID-HNK
+KIDFTEFLLMVFKLAQAYYES------------*
+>P1;gi|17933772|ref|NP_525127.1| S100 calcium binding protein A16 [H... [ score 69 E 2e-11 ] [ range 6 .. 87 ]
+sequence
+--TELEKAVIVLVENFYKYVSKYSVKNKISKSSFREMLQKELNLSDTGN--RKAADKLIQN-LDAN-HDG
+RISFDEYWTLIGGIT------------------*
+>P1;gi|34858018|ref|XP_342292.1| similar to RIKEN cDNA 2300002L21 [R... [ score 69 E 3e-11 ] [ range 6 .. 87 ]
+sequence
+--TELEKALVVLVENFYKYVSKHSVKNKISKSSFRKMLQKELNLTDTGN--RKAADKLIQN-LDAN-HDG
+RICFDEYWTMIGGIT------------------*
+>P1;gi|21312760|ref|NP_080692.1| RIKEN cDNA 2300002L21 [Mus musculus... [ score 68 E 4e-11 ] [ range 6 .. 87 ]
+sequence
+--TELEKAVVVLVENFYKYVSKHSVKNKISKSSFRKMLQRELNLTDTGN--RKAADKLIQN-LDAN-HDG
+RICFDEYWTMIGGIT------------------*
+>P1;gi|190406|gb|AAA36487.1| profilaggrin [ score 66 E 2e-10 ] [ range 8 .. 88 ]
+sequence
+--------IFAIINLFNEYSKKDKNTDTLSKKELKELLEKEFQILKNPD--DPDMVDVMDH-LDID-HNK
+KIDFTEFLLMVFKLAQAYYES------------*
+>P1;gi|10190712|ref|NP_065723.1| S100 calcium binding protein A14; b... [ score 64 E 9e-10 ] [ range 16 .. 93 ]
+sequence
+--SDVERAIETLIKNFHQYSV-EGGKETLTPSELRDLVTQQLPHLM-PS--NCGLEEKIAN-LGSC-NDS
+KLEFRSFWELIGEAAK-----------------*
+>P1;gi|586121|sp|P37709|TRHY_RABIT Trichohyalin >gi|280938|pir||S285... [ score 64 E 9e-10 ] [ range 2 .. 89 ]
+sequence
+--SPLLKSIIDIIEIFNQYASHDCDGAVLKKKDLKILLDREFAVLQRPH--DPETVDVMEL-LDRD-SDG
+LVGFDEFCLLIFKLAQAAYYAL-----------*
+>P1;gi|230884|pdb|3ICB|  Calcium-Binding Protein (Vitamin D-Dependen... [ score 63 E 2e-09 ] [ range 1 .. 74 ]
+sequence
+------KSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLK-G--PSTLDELFEE-LDKN-GDG
+EVSFEEFQVLVKKIS------------------*
+>P1;gi|34858179|ref|XP_227375.2| similar to RIKEN cDNA 5430400H23 [R... [ score 62 E 3e-09 ] [ range 46 .. 125 ]
+sequence
+--SRLLRGIFCVIEIFHKYASEDGNKEALTHRELRQLLEGEIGDFLQPH--VHAVERKLNL-LHFD-RDG
+TISFEEFLLAIFSL-------------------*
+>P1;gi|34395852|sp|Q9D2Q8|S114_MOUSE S100 calcium-binding protein A1... [ score 61 E 7e-09 ] [ range 16 .. 93 ]
+sequence
+--SDVERAIETLIKNFHKYSV-AGKKETLTPAELRDLVTQQLPHLM-PS--NCGLEEKIAN-LGNC-NDS
+KLEFGSFWELIGEAAK-----------------*
+>P1;gi|21313246|ref|NP_082038.1| RIKEN cDNA 5430400H23 [Mus musculus... [ score 60 E 1e-08 ] [ range 1 .. 81 ]
+sequence
+MPR-LLRGVFCVVEIFHKYAIEDGNQATLTRTELRQLLEGEIGDFLQPH--VHAVERKLNL-LNFD-RDG
+TISFEEFVLAIFSL-------------------*
+>P1;gi|29244010|ref|NP_808292.1| hypothetical protein A430083B19 [Mu... [ score 59 E 2e-08 ] [ range 54 .. 133 ]
+sequence
+--SDLEKAIATIALVFRNASDPDG---KLGKATAKKLLQTQFKKFTERE--EPKYQDILSE-LDEH-TEN
+KLDFEDFVILLLSLAIM----------------*
+>P1;gi|30147721|ref|XP_060104.2| similar to RIKEN cDNA 5430400H23 [H... [ score 57 E 9e-08 ] [ range 1 .. 85 ]
+sequence
+MP-QLLRNVLCVIETFHKYASEDSNGATLTGRELKQLIQGEFGDF--FQ--PCAVEKNSNL-LNID-SNG
+IISFDEFVLAIFNLLNLCY--------------*
+>P1;gi|1431653|pdb|1BOC|  Calbindin D9k Mutant With Ala 15 Replaced ... [ score 57 E 1e-07 ] [ range 2 .. 75 ]
+sequence
+------KSPEELKGIFEKYADKEGDGNQLSKEELKLLLQTEFPSLLKGM---STLDELFEE-LDKN-GDG
+EVSFEEFQVLVKKIS------------------*
+>P1;gi|4389153|pdb|1PSR|A Chain A, Human Psoriasin (S100a7) >gi|4389... [ score 56 E 2e-07 ] [ range 3 .. 91 ]
+sequence
+--TQAERSIIGMIDMFHKYTRRD---DKIDKPSLLTMMKENFPNFLKKG--TNYLADVFEK-KDKN-EDK
+KIDFSEFLSLLGDIATDYHKQSHG---------*
+>P1;gi|28827815|ref|NP_789793.1| S100 calcium binding protein A15 [H... [ score 55 E 3e-07 ] [ range 4 .. 92 ]
+sequence
+--TQAERSIIGMIDMFHKYTGRDG---KIEKPSLLTMMKENFPNFLKKG--IHYLATVFEK-KDKN-EDK
+KIDFSEFLSLLGDIAADYHKQSHG---------*
+>P1;gi|235757|gb|AAB19843.1| 10 kda calcium-binding protein [rabbits... [ score 54 E 8e-07 ] [ range 1 .. 34 ]
+sequence
+---------------------------------------------------------LMDD-LDRN-KDQ
+EVNFQEYITFLGALAVIYNEALK----------*
+>P1;gi|115441|sp|P28782|S108_BOVIN Calgranulin A (Neutrophil cytosol... [ score 53 E 2e-06 ] [ range 1 .. 41 ]
+sequence
+MLTDLEAAIDSLIDVYHKYSLAKGNYHAVYADDLKALLETE-----------------------------
+---------------------------------*
+>P1;gi|108567|pir||S20330 calvasculin - bovine (fragments) [ score 50 E 1e-05 ] [ range 1 .. 55 ]
+sequence
+-------ALDVMVSTFH-----------------KELLTRELPSFLGKD--ETAFQKLMSN-LDYN-KDN
+EVDFQEYAVFL----------------------*
+>P1;gi|23197656|gb|AAN15355.1| calmodulin-like protein [Arabidopsis ... [ score 50 E 1e-05 ] [ range 22 .. 75 ]
+sequence
+---------------------KNGD-GSITKKELRTVM---FSLGKNRT--KADLQDMMNE-VDLD-GDG
+TIDFPEFLYLMAK--------------------*
+>P1;gi|15226833|ref|NP_181643.1| touch-responsive protein / calmodul... [ score 49 E 2e-05 ] [ range 22 .. 75 ] [ duplicate b ]
+sequence
+---------------------KNGD-GSITKKELGTMMR---SIGEKPT--KADLQDLMNE-ADLD-GDG
+TIDFPEFLCVMAK--------------------*
+>P1;gi|13397927|emb|CAC34625.1| putative calmodulin-related protein ... [ score 49 E 2e-05 ] [ range 7 .. 61 ]
+sequence
+-------------RIFNKFD-KNGD-GKISRTELKEMMT---ALGCKTT--TEEVTRMMEE-LDRN-GDG
+YIDLKEF--------------------------*
+>P1;gi|21264374|sp|O88751|CAB1_RAT Calcium-binding protein CaBP1 (Ca... [ score 49 E 2e-05 ] [ range 250 .. 298 ]
+sequence
+----------------------------ISTSELREAMRKLL--GHQVG--HRDIEEIIRD-VDLN-GDG
+RVDFEEFVRMMSR--------------------*
+>P1;gi|28829351|gb|AAO51893.1| similar to Mus musculus (Mouse), and ... [ score 49 E 3e-05 ] [ range 42 .. 111 ]
+sequence
+-----------LYEVF--YDLSNGGKEPLNRDRFKEGLTKLESCGLKNN--SPFGDRLFDL-LDTN-KDN
+TVDLQEF---ISGLSILC---------------*
+>P1;gi|30699042|ref|NP_177612.2| calcium-dependent protein kinase, p... [ score 48 E 5e-05 ] [ range 446 .. 499 ]
+sequence
+---------------------KDGSGYIES-EELREALTDELG---EPD--NSVIIDIMRE-VDTD-KDG
+KINYDEFVVMMKA--------------------*
+>P1;gi|1431655|pdb|1BOD|  Calbindin D9k Mutant With Ala 14 Deleted, ... [ score 47 E 1e-04 ] [ range 2 .. 73 ]
+sequence
+------KSPEELKGIFEKYD-KEGD-GQLSKEELKLLLQTEFPSLLKGM---STLDELFEE-LDKN-GDG
+EVSFEEFQVLVKKIS------------------*
+>P1;gi|7304941|ref|NP_038906.1| calcium binding protein 2 [Mus muscu... [ score 47 E 1e-04 ] [ range 163 .. 216 ]
+sequence
+----------------------NGDGC-ISVGELRAALKALL--GERLS--QREVDEILQD-IDLN-GDG
+LVDFEEFVRMMSR--------------------*
+>P1;gi|1168751|sp|P23286|CALM_CANAL Calmodulin (CaM) >gi|7597005|gb|... [ score 47 E 1e-04 ] [ range 95 .. 148 ]
+sequence
+---------------------RNGD-GKISAAELRHLLT---SIGEKLS--DADVDQMIKE-ADTN-NDG
+EIDIQEFTSLLAA--------------------*
+>P1;gi|16904224|gb|AAL30819.1| calcium/calmodulin-dependent protein ... [ score 45 E 4e-04 ] [ range 413 .. 476 ]
+sequence
+---------EELADVRDQFSAIDVDKNVISLEEMRQALAKDLPW--KMK--ESRVLEILQA-IDSN-SDG
+LLDFPEFV-------------------------*
+>P1;gi|17443793|ref|XP_060509.1| similar to S100 calcium binding pro... [ score 45 E 5e-04 ] [ range 1 .. 92 ]
+sequence
+MNIPLEKVMLDIVAMFRQYSGDDGRMDM---PGLVNLMKENFPNFLKSD--MDYLSNALEK-KDDN-KDK
+KVNYSEFLSLLGDITIDHHKIMHG---------*
+>P1;gi|29150153|emb|CAD79597.1| calcium-sensing GFP analog [syntheti... [ score 44 E 7e-04 ] [ range 362 .. 413 ]
+sequence
+---------------------KDGNGY-ISAAELRHVMTN---LGEKLT--DEEVDEMIRE-ADID-GDG
+QVNYEEFVQMM----------------------*
+>P1;gi|21322238|ref|NP_620398.1| calcium binding protein 7; calcium-... [ score 44 E 8e-04 ] [ range 32 .. 99 ]
+sequence
+-----EDELEEIREAFKVFD-RDGNGF-ISKQELGTAMR---SLGYMPN--EVELEVIIQR-LDMD-GDG
+QVDFEEFVTLLG---------------------*
+>P1;gi|99673|pir||B34669 calmodulin-related protein 3, touch-induced... [ score 44 E 9e-04 ] [ range 20 .. 72 ]
+sequence
+---------------------KNGD-GSITKKELGTVMR---SLGQNPT--KADLQDMMNE-VDLD-GDG
+TIDFPEFLNLMA---------------------*
+>P1;gi|2392137|pdb|1AHR|  Calmodulin Mutant With A Two Residue Delet... [ score 44 E 9e-04 ] [ range 72 .. 143 ]
+sequence
+MARKMKDSEEEIREAFRVFD-KDGNGF-ISAAELRHVMTN---LGEKLT--DEEVDEMIRE-ADID-GDG
+QVNYEEFVTMM----------------------*
+>P1;gi|27806289|ref|NP_776680.1| calcium binding protein 2 [Bos taur... [ score 44 E 9e-04 ] [ range 110 .. 163 ]
+sequence
+----------------------NGDGC-ISLGELRAALKALL--GERLS--QREVDEILRD-IDLN-GDG
+LVDFEEFVRMMSR--------------------*
+>P1;gi|34858021|ref|XP_215598.2| similar to endothelial monocyte-act... [ score 151 E 3e-36 ] [ range 55 .. 142 ]
+sequence
+--TETERCIESLIAVFQKYSGKDGNSCHLSKTEFLSFMNTELA--AFTKNQKDPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAIACHESF-----------*
+>P1;gi|34811429|pdb|1NSH|A Chain A, Solution Structure Of Rabbit Apo... [ score 150 E 5e-36 ] [ range 4 .. 91 ]
+sequence
+--TETERCIESLIAVFQKYAGKDGHSVTLSKTEFLSFMNTELA--AFTKNQKDPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAVACHESF-----------*
+>P1;gi|5032057|ref|NP_005611.1| S100 calcium binding protein A11 (ca... [ score 150 E 1e-35 ] [ range 8 .. 95 ]
+sequence
+--TETERCIESLIAVFQKYAGKDGYNYTLSKTEFLSFMNTELA--AFTKNQKDPGVLDRMMKKLDTNSDG
+QLDFSEFLNLIGGLAMACHDSF-----------*
+>P1;gi|38083803|ref|XP_357005.1| similar to endothelial monocyte-act... [ score 149 E 1e-35 ] [ range 22 .. 109 ]
+sequence
+--TETERCIESLIAVFQKYSGKDGNNTQLSKTEFLSFMNTELA--AFTKNQKDPDVLDRMMKKLDLNCDG
+QLDFQEFLNLIGGLAIACHDSF-----------*
+>P1;gi|27681837|ref|XP_225088.1| similar to endothelial monocyte-act... [ score 147 E 5e-35 ] [ range 49 .. 135 ]
+sequence
+---ETERCMESLIAVFQKYTGKDGNSCQFYKTEFLSFMNTELA--AFTKNQKDPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAIACHESF-----------*
+>P1;gi|45384028|ref|NP_990497.1| calgizzarin [Gallus gallus] >gi|282... [ score 146 E 1e-34 ] [ range 7 .. 92 ]
+sequence
+--TETERCIESLLAVFQRYAGREGDNLKLSKKEFRTFMNTELA--SFTKNQKDPAVVDRMMKRLDINSDG
+QLDFQEFLNLIGGIAVACHD-------------*
+>P1;gi|28189775|dbj|BAC56502.1| similar to S100 calcium-binding prot... [ score 144 E 6e-34 ] [ range 8 .. 95 ]
+sequence
+--TETERCIESLIAVFQKHAGRDGNNSKLSKAEFLIFMNTELG--AFTKNQKDPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAIACHESF-----------*
+>P1;gi|27665102|ref|XP_222160.1| similar to endothelial monocyte-act... [ score 143 E 1e-33 ] [ range 35 .. 122 ]
+sequence
+--TETERCIEFLLAVFQMHCGKGRNSRQLSKTEFLPFMNTEMA--PFTKNPKDPGVLDRGMKQLDRNSDG
+RLDFQEFLNLIGGLAMACHESF-----------*
+>P1;gi|25023967|ref|XP_204772.1| similar to endothelial monocyte-act... [ score 141 E 5e-33 ] [ range 3 .. 90 ]
+sequence
+--TEMERCIESLIAVLQKYSGKDGNGSQLSKTEFLSFMNTELA--AFTKNQKDPGVLDRMMKKLDLNCDG
+QLDFQDFLNLIGGLATACHDSF-----------*
+>P1;gi|399178|sp|P31950|S111_PIG Calgizzarin (S100C protein) >gi|108... [ score 140 E 7e-33 ] [ range 6 .. 93 ]
+sequence
+--TETERCIESLIAIFQKHAGRDGNNTKISKTEFLIFMNTELA--AFTQNQKDPGVLDRMMKKLDLDSDG
+QLDFQEFLNLIGGLAIACHDSF-----------*
+>P1;gi|27660232|ref|XP_218979.1| similar to endothelial monocyte-act... [ score 135 E 3e-31 ] [ range 65 .. 149 ]
+sequence
+-----ERCMESLIAVFQKYSGKDGNSCQFSKTEFLSFMNTELA--AFRKKQKDPGVLECMMKTQDLNSDG
+QLDFQEFLNLTGSLAIVCHESF-----------*
+>P1;gi|28278451|gb|AAH45941.1| Unknown (protein for MGC:56142) [Dani... [ score 134 E 4e-31 ] [ range 3 .. 90 ]
+sequence
+--SDLERAMETLITVFHRYSGAEGNSSTLSRRELKQLMEKELA--SFLKSQKDPAAVDKIMKDLDANGDG
+EVNFEEFVSLVVGLSIACEQLY-----------*
+>P1;gi|7388240|sp|O60417|S11P_HUMAN Putative S100 calcium-binding pr... [ score 134 E 5e-31 ] [ range 8 .. 94 ]
+sequence
+--TETERCIESLIAVFQKYAGKDGYNRNLSKTEFLSFMNTELA--AFTKNQKDPGVLDH-MKKLDVSSDG
+QLDFPKFLNLIGGLAVACHDSF-----------*
+>P1;gi|134135|sp|P02639|S10A_BOVIN S-100 protein, alpha chain >gi|10... [ score 133 E 8e-31 ] [ range 3 .. 90 ]
+sequence
+--SELETAMETLINVFHAHSGKEGDKYKLSKKELKELLQTELS--GFLDAQKDADAVDKVMKELDENGDG
+EVDFQEYVVLVAALTVACNNFF-----------*
+>P1;gi|13431875|sp|Q9UDP3|S11Y_HUMAN Putative S100 calcium-binding p... [ score 133 E 9e-31 ] [ range 8 .. 94 ]
+sequence
+--TETVRCIQSLIAVFQKYAGKDGYNCNLSKTEFLSFMNTELA--AFTKNQKDPGVLDR-MKKLDVSSDG
+QLDFPKFLNLIGGLAVACHDSF-----------*
+>P1;gi|20150644|pdb|1K2H|A Chain A, Three-Dimensional Solution Struc... [ score 132 E 2e-30 ] [ range 2 .. 89 ]
+sequence
+--SELETAMETLINVFHAHSGKEGDKYKLSKKELKDLLQTELS--SFLDVQKDADAVDKIMKELDENGDG
+EVDFQEFVVLVAALTVACNNFF-----------*
+>P1;gi|3386482|gb|AAC28367.1| S100-like calcium binding protein [Sal... [ score 131 E 3e-30 ] [ range 3 .. 90 ]
+sequence
+--SQLESSMESLITVFHRYADKDGDCNTLSKKELKELMQTELA--SFLKSQKDPAAIDTIMKDLDQNGDG
+KVSFEEFVSLVVGLSIACEQIY-----------*
+>P1;gi|42657928|ref|XP_377928.1| similar to Calgizzarin (S100C prote... [ score 131 E 3e-30 ] [ range 26 .. 108 ]
+sequence
+-------SIESLISLFQKYVGKGGYNCTLSKTEFLSFMNAELA--AFTKNQKDPGVLHRMMKKLGTNNDG
+QLDFSEFLNLIGGLAMACHDSF-----------*
+>P1;gi|6755386|ref|NP_035439.1| S100 calcium binding protein A1 [Mus... [ score 131 E 5e-30 ] [ range 3 .. 90 ]
+sequence
+--SELESAMETLINVFHAHSGKEGDKYKLSKKELKDLLQTELS--GFLDVQKDADAVDKVMKELDENGDG
+EVDFKEYVVLVAALTVACNNFF-----------*
+>P1;gi|479986|pir||S35985 S-100 protein alpha chain - weatherfish >g... [ score 130 E 8e-30 ] [ range 2 .. 89 ]
+sequence
+--SQLESAMESLIKVFHTYSSKEGDKYKLSKAELKSLLQGELN--DFLSASKDPMVVEKIMSDLDENQDG
+EVDFQEFVVLVAALTVACNEFF-----------*
+>P1;gi|27686759|ref|XP_226710.1| similar to S100Z protein [Rattus no... [ score 129 E 1e-29 ] [ range 3 .. 90 ]
+sequence
+--TQLEMAMETMIRIFHRYSCKEGDRFKLNKGELKMLLQRELT--EFLTCQKDPQLVDKIMQDLDANKDN
+EVDFNEFVVMVAALTVACNDYF-----------*
+>P1;gi|33469037|ref|NP_598459.1| hornerin [Mus musculus] >gi|4547696... [ score 129 E 2e-29 ] [ range 3 .. 87 ]
+sequence
+---KLLESIVTVIDVFYQYATEYGNCDMLSKEEMKELLVTEFH--QILKNPDDPDTVDIIMQNLDRDHNH
+KVDFTEYLLMILKLTKACNK-------------*
+>P1;gi|34858169|ref|XP_227368.2| similar to dJ14N1.2 (novel S-100/IC... [ score 128 E 2e-29 ] [ range 61 .. 146 ]
+sequence
+--TYLLRSVVTIIDIFYKYTKQDEECGTLSKNELKELLEKEFR--PILKNPDDPDTVDVIMHMLDRDHDR
+RLDFTEFILMVFKLALACNK-------------*
+>P1;gi|34858173|ref|XP_227369.2| similar to hornerin [Rattus norvegi... [ score 127 E 5e-29 ] [ range 3 .. 87 ]
+sequence
+---KLLQGIVTVIDVFYNYATEYGNCDMLSKKEMKELLETEFR--QILKNPDDPDTVDIIMQSLDRDHNH
+KVDFTEYLIMILRLAKACNK-------------*
+>P1;gi|45382861|ref|NP_990837.1| cellular ligand of annexin II [Gall... [ score 124 E 4e-28 ] [ range 3 .. 87 ]
+sequence
+--SQMEHAMETLMFTFHKYA---GDKNYLSKEDLRALMEKEFP--GFLENQRDPMALDKIMKDLDQCRDG
+KVGFQSFFSLVAGLTIACNDYF-----------*
+>P1;gi|5174663|ref|NP_005971.1| S100 calcium binding protein P [Homo... [ score 123 E 7e-28 ] [ range 2 .. 89 ]
+sequence
+--TELETAMGMIIDVFSRYSGSEGSTQTLTKGELKVLMEKELP--GFLQSGKDKDAVDKLLKDLDANGDA
+QVDFSEFIVFVAAITSACHKYF-----------*
+>P1;gi|38076664|ref|XP_356757.1| similar to endothelial monocyte-act... [ score 123 E 9e-28 ] [ range 3 .. 90 ]
+sequence
+--TETERCIESPIAVFQKCSRKEEKSYQLSKTESLSFMNIEMA--TTMNKQKDPGALDQMMKKLNLNRDW
+QLDFQEFLNLIDGLAIAWHEFF-----------*
+>P1;gi|6677839|ref|NP_033141.1| S100 protein, beta polypeptide, neur... [ score 123 E 1e-27 ] [ range 2 .. 89 ]
+sequence
+--SELEKAMVALIDVFHQYSGREGDKHKLKKSELKELINNELS--HFLEEIKEQEVVDKVMETLDEDGDG
+ECDFQEFMAFVAMVTTACHEFF-----------*
+>P1;gi|37927363|gb|AAP69564.1| ictacalcin [Danio rerio] [ score 122 E 2e-27 ] [ range 4 .. 91 ]
+sequence
+--SDTQKAMAMLIATFHKYSGKEGDKLTLSKGELKELLSAELG--DIFGKTTDKAALDKIFKDLDANADG
+SVDFQEYITLIACITMLCNEFF-----------*
+>P1;gi|24637029|gb|AAN63527.1| S-100 calcium-binding protein A1 [Squ... [ score 122 E 2e-27 ] [ range 2 .. 89 ]
+sequence
+--TELESAMAGIIGVFRKYSGKEGDKYSLSNNEMVDLLKAELP--NFLKSQKDKAAVDKIMKDLDRNKDG
+ELDFQEFVVLIAALAAACNDFF-----------*
+>P1;gi|38076711|ref|XP_143396.2| similar to dJ14N1.2 (novel S-100/IC... [ score 121 E 2e-27 ] [ range 4 .. 87 ]
+sequence
+----LLRSVVTIIDVFYKYTKQDEECGTLSKDELKELLEKEFR--PILKNPDDPDTVDVIMHMLDRDHDR
+RLDFTEFILMIFKLALACNK-------------*
+>P1;gi|6677833|ref|NP_033138.1| S100 calcium binding protein A10; ca... [ score 121 E 3e-27 ] [ range 3 .. 87 ]
+sequence
+--SQMEHAMETMMLTFHRFA---GDKDHLTKEDLRVLMEREFP--GFLENQKDPLAVDKIMKDLDQCRDG
+KVGFQSFLSLVAGLTIACNDYF-----------*
+>P1;gi|33859624|ref|NP_035441.1| S100 calcium binding protein A4; S1... [ score 121 E 4e-27 ] [ range 4 .. 90 ]
+sequence
+---PLEEALDVIVSTFHKYSGKEGDKFKLNKTELKELLTRELP--SFLGKRTDEAAFQKVMSNLDSNRDN
+EVDFQEYCVFLSCIAMMCNEFF-----------*
+>P1;gi|116488|sp|P04163|S110_PIG Calpactin I light chain (P10 protei... [ score 121 E 4e-27 ] [ range 2 .. 86 ]
+sequence
+--SQMEHAMETMMFTFHKFA---GDKGYLTKEDLRVLMEKEFP--GFLENQKDPLAVDKIMKDLDQCRDG
+KVGFQSFFSLIAGLTIACNDYF-----------*
+>P1;gi|134140|sp|P10462|S102_BOVIN S100 calcium-binding protein A2 (... [ score 121 E 4e-27 ] [ range 3 .. 90 ]
+sequence
+--SPLEQALAVMVATFHKYSGQEGDKFKLSKGEMKELLHKELP--SFVGEKVDEEGLKKLMGDLDENSDQ
+QVDFQEYAVFLALITIMCNDFF-----------*
+>P1;gi|4506765|ref|NP_002952.1| S100 calcium-binding protein A4; S10... [ score 120 E 6e-27 ] [ range 4 .. 90 ]
+sequence
+---PLEKALDVMVSTFHKYSGKEGDKFKLNKSELKELLTRELP--SFLGKRTDEAAFQKLMSNLDSNRDN
+EVDFQEYCVFLSCIAMMCNEFF-----------*
+>P1;gi|8318583|gb|AAB20539.2| S100 alpha [Rattus sp.] [ score 120 E 1e-26 ] [ range 1 .. 80 ]
+sequence
+----------TLIHVFHAHSGKEGDKYKLSKKELKDLLQTELS--SFLDVQKDADAVDRIMKELDENGDG
+EVDFQEFVVLVAALTVACNNFF-----------*
+>P1;gi|13592079|ref|NP_112376.1| S100 calcium binding protein A10; c... [ score 119 E 1e-26 ] [ range 3 .. 87 ]
+sequence
+--SQMEHAMETMMLTFHRFA---GEKNYLTKEDLRVLMEREFP--GFLENQKDPLAVDKIMKDLDQCRDG
+KVGFQSFLSLVAGLIIACNDYF-----------*
+>P1;gi|16758364|ref|NP_446039.1| S100 calcium-binding protein A9 (ca... [ score 119 E 1e-26 ] [ range 7 .. 93 ]
+sequence
+--SQLERSISTIINVFHQYSRKYGHPDTLNKAEFKEMVNKDLP--NFLKREKRNELLRDIMEDLDTNQDN
+QLSFEECMMLMGKLIFACHE-------------*
+>P1;gi|6981326|ref|NP_036750.1| S100 calcium-binding protein A4; Pro... [ score 119 E 1e-26 ] [ range 4 .. 90 ]
+sequence
+---PLEEALDVIVSTFHKYSGNEGDKFKLNKTELKELLTRELP--SFLGRRTDEAAFQKLMNNLDSNRDN
+EVDFQEYCVFLSCIAMMCNEFF-----------*
+>P1;gi|6677837|ref|NP_033140.1| S100 calcium binding protein A9 (cal... [ score 119 E 2e-26 ] [ range 7 .. 93 ]
+sequence
+--SQMERSITTIIDTFHQYSRKEGHPDTLSKKEFRQMVEAQLA--TFMKKEKRNEALNDIMEDLDTNQDN
+QLSFEECMMLMAKLIFACHE-------------*
+>P1;gi|399172|sp|P28783|S109_BOVIN Calgranulin B (Neutrophil cytosol... [ score 118 E 3e-26 ] [ range 2 .. 88 ]
+sequence
+--SQMESSIETIINIFHQYSVRLGHYDTLIQKEFKQLVQKELP--NFLKKQKNEAAINEIMEDLDTNVDK
+QLSFEEFIMLVARLTVASHE-------------*
+>P1;gi|45476906|sp|Q86YZ3|HORN_HUMAN Hornerin [ score 118 E 3e-26 ] [ range 3 .. 87 ]
+sequence
+---KLLQGVITVIDVFYQYATQHGEYDTLNKAELKELLENEFH--QILKNPNDPDTVDIILQSLDRDHNK
+KVDFTEYLLMIFKLVQARNK-------------*
+>P1;gi|7512190|pir||JE0330 26-kDa Ca2+-binding protein, p26olf - bul... [ score 118 E 4e-26 ] [ range 10 .. 100 ] [ duplicate a ]
+sequence
+--TEMERSMEKIITVFQRYAGKEGNTTSMNFKEFEQFMNAELG--SFTKNQKDPAILRKIMKSVDGKQDG
+ELDFQEFLNLIGGMMVACHE-------------*
+>P1;gi|7512190|pir||JE0330 26-kDa Ca2+-binding protein, p26olf - bul... [ score 118 E 4e-26 ] [ range 119 .. 210 ] [ duplicate b ]
+sequence
+--TDMETAMESIVRIYQHYAGKKGAKDQMDYTEFEAFMKAELN--SFTANQKDPNIVRRLMESVDGSTDG
+KMNFQEFMNLIGGIMVACHAAF-----------*
+>P1;gi|18640744|ref|NP_570128.1| S100Z protein [Homo sapiens] >gi|20... [ score 118 E 4e-26 ] [ range 3 .. 90 ]
+sequence
+--TQLEMAMDTMIRIFHRYSGKARKRFKLSKGELKLLLQRELT--EFLSCQKETQLVDKIVQDLDANKDN
+EVDFNEFVVMVAALTVACNDYF-----------*
+>P1;gi|5738962|dbj|BAA83419.1| metastasin [Canis familiaris] [ score 117 E 8e-26 ] [ range 4 .. 90 ]
+sequence
+---PLEKALDVMVSTFHKYSGKEGDKFKLNRSELKELLMRELP--SFLGKRTDEAAFQKLMSNLDSNRDN
+EVDFQEYCVFLSCVAMMCNEFF-----------*
+>P1;gi|5174661|ref|NP_005969.1| S100 calcium binding protein A2; S10... [ score 116 E 1e-25 ] [ range 3 .. 90 ]
+sequence
+--SSLEQALAVLVTTFHKYSCQEGDKFKLSKGEMKELLHKELP--SFVGEKVDEEGLKKLMGSLDENSDQ
+QVDFQEYAVFLALITVMCNDFF-----------*
+>P1;gi|41106697|ref|XP_371312.1| hypothetical protein FLJ39117 [Homo... [ score 115 E 3e-25 ] [ range 3 .. 86 ]
+sequence
+---QLLNSILSVIDVFHKYAKGNGDCALLCKEELKQLLLAEFG--DILQRPNDPETVETILNLLDQDRDG
+HIDFHEYLLLVFQLVQACY--------------*
+>P1;gi|12314268|emb|CAC13173.1| dJ14N1.2 (novel S-100/ICaBP type cal... [ score 114 E 5e-25 ] [ range 2 .. 87 ]
+sequence
+--TDLLRSVVTVIDVFYKYTKQDGECGTLSKGELKELLEKELH--PVLKNPDDPDTVDVIMHMLDRDHDR
+RLDFTEFLLMIFKLTMACNK-------------*
+>P1;gi|42656152|ref|XP_375887.1| similar to Calcyclin (Prolactin rec... [ score 114 E 5e-25 ] [ range 64 .. 146 ]
+sequence
+---PLDQAIGLLVAIFHKYSGREGDKHTLSKKELKELIQKEL---TIGSKLQDAEIA-RLMEDLDRNKDQ
+EVNFQEYVTFLGALALIYNE-------------*
+>P1;gi|20150229|pdb|1IRJ|A Chain A, Crystal Structure Of The Mrp14 C... [ score 114 E 6e-25 ] [ range 5 .. 91 ]
+sequence
+--SQLERNIETIINTFHQYSVKLGHPDTLNQGEFKELVRKDLQ--NFLKKEKNEKVIEHIMEDLDTNADK
+QLSFEEFIMLMARLTWASHE-------------*
+>P1;gi|2493418|sp|Q91061|S10I_ICTPU Ictacalcin >gi|1144386|gb|AAB526... [ score 114 E 6e-25 ] [ range 2 .. 88 ]
+sequence
+--SDLQKGMALLISTFHKYSGKEGDKCTLTKGELKDLLTKELG--GAFGNCSDQATLDKIFKDLDTNADG
+VVDFQEYATMVACTTMLCNKS------------*
+>P1;gi|126659|sp|P28318|M126_CHICK Protein MRP-126 [ score 113 E 1e-24 ] [ range 12 .. 97 ]
+sequence
+--SELEKAIDVIIDVFHQYSRREGDKDTLTRKELKLLIEKQLA--NYLKHVKNQVSIDQIFKDLDNNKDQ
+QLSFGEVMLLIIRVTVATHE-------------*
+>P1;gi|7706635|ref|NP_057274.1| tumor-related protein [Homo sapiens]... [ score 112 E 2e-24 ] [ range 3 .. 85 ]
+sequence
+---QLLQNINGIIEAFRRYARTEGNCTALTRGELKRLLEQEFA--DVIVKPHDPATVDEVLRLLDEDHTG
+TVEFKEFLVLVFKVAQAC---------------*
+>P1;gi|461678|sp|P80310|S112_PIG Calgranulin C (CAGC) >gi|1082959|pi... [ score 112 E 2e-24 ] [ range 1 .. 86 ]
+sequence
+--TKLEDHLEGIINIFHQYSVRLGHYDTLIKRELKQLITKELP--NTLKNTKDQGTIDKIFQNLDANQDE
+QVSFKEFVVLVTDVLITAHD-------------*
+>P1;gi|27807183|ref|NP_777076.1| S100 calcium binding protein A12 (c... [ score 111 E 4e-24 ] [ range 2 .. 86 ]
+sequence
+--TKLEDHLEGIINIFHQYSVRVGHFDTLNKRELKQLITKELP--KTLQNTKDQPTIDKIFQDLDADKDG
+AVSFEEFVVLVSRVLKTAH--------------*
+>P1;gi|33357663|pdb|1ODB|A Chain A, The Crystal Structure Of Human S... [ score 111 E 4e-24 ] [ range 5 .. 89 ]
+sequence
+--TKLEEHLEGIVNIFHQYSVRKGHFDTLSKGELKQLLTKELA--NTIKNIKDKAVIDEIFQGLDANQDE
+QVDFQEFISLVAIALKAAH--------------*
+>P1;gi|4506763|ref|NP_002951.1| S100 calcium binding protein A3; S10... [ score 110 E 1e-23 ] [ range 4 .. 90 ]
+sequence
+---PLEQAVAAIVCTFQEYAGRCGDKYKLCQAELKELLQKELA--TWTPTEFRECDYNKFMSVLDTNKDC
+EVDFVEYVRSLACLCLYCHEYF-----------*
+>P1;gi|6677817|ref|NP_033126.1| repetin [Mus musculus] >gi|2493419|s... [ score 108 E 2e-23 ] [ range 3 .. 86 ]
+sequence
+---QLLNSILNVSKVFQDYAEYHGVGASLSKKELKQLLLTEFG--DILRRPNDPETVETILEHLDRDRNG
+YVDFHEYLLLVFQLVQACH--------------*
+>P1;gi|6755388|ref|NP_035440.1| S100 calcium binding protein A3 [Mus... [ score 108 E 3e-23 ] [ range 4 .. 90 ]
+sequence
+---PLEQAVAAIVCTFQEYAGRCGDKYKICQSELKELLQKELP--TWTPSEFRECDYNKFMSVLDTNKDC
+EVDFGEYVRSLASLCLYCHEYF-----------*
+>P1;gi|116490|sp|P27004|S110_XENLA Calpactin I light chain (P10 prot... [ score 107 E 7e-23 ] [ range 5 .. 89 ]
+sequence
+--SELEHSMEKMLLTFHKFA---GEKNYMNRDDLQKLLDSEFS--EFLKNQNDPMTVDKIMKDLDDCRKG
+QVNFRSYCSLIAGLLIACNEYY-----------*
+>P1;gi|34858167|ref|XP_227367.2| similar to tumor-related protein [R... [ score 106 E 8e-23 ] [ range 3 .. 85 ]
+sequence
+---QLLRNIHGIIEAFGCYARSEGGCKVLTKQELKRLLEYEFA--DVIVKPHDPATVDEVLHLLDEDNTG
+TVEFKEFLVLVFKVARAC---------------*
+>P1;gi|38076650|ref|XP_143379.2| similar to BEE22=calcium-binding L1... [ score 106 E 2e-22 ] [ range 29 .. 115 ]
+sequence
+--TQMEESMDVIIQIFHKYSLTEGNPDTLSKKEFKELVNKEMP--NFKKEEKDEKSMNGMMENLDTNKDN
+QLEFNEYVDLIGNKLKTIHK-------------*
+>P1;gi|27692337|ref|XP_227371.1| similar to repetin [Rattus norvegicus] [ score 106 E 2e-22 ] [ range 3 .. 86 ]
+sequence
+---QLLNSILNVNKVFQNYAEHHGAGASLSKKELKQLLLAEFG--DILRRPNDPETVETILEHLDRDRNG
+YVDFHEYLLLVFQLVQACH--------------*
+>P1;gi|4506767|ref|NP_002953.1| S100 calcium binding protein A5; S10... [ score 104 E 3e-22 ] [ range 21 .. 105 ]
+sequence
+--TPLEKALTTMVTTFHKYSGREGSKLTLSRKELKELIKKELC----LGEMK-ESSIDDLMKSLDKNSDQ
+EIDFKEYSVFLTMLCMAYNDFF-----------*
+>P1;gi|34858177|ref|XP_227373.2| similar to trichohyalin [Rattus nor... [ score 104 E 5e-22 ] [ range 2 .. 86 ]
+sequence
+--SPLIRSIVDITEVFNQYASQSCDGASLSKRELKNLLERELG--DVLQKPHDPETVDLTLELLDRDCNG
+RVDFNEFLLFLFKIAQACY--------------*
+>P1;gi|38076703|ref|XP_355410.1| similar to tumor-related protein [M... [ score 104 E 7e-22 ] [ range 3 .. 85 ]
+sequence
+---QLLQNIHGIIEAFGCYARSEGGCKVLTRQELKRLLEHEFA--DVIVKPHDPATVDEVLRLLDEDNTG
+TVEFKEFLVLVFKVARAC---------------*
+>P1;gi|6094220|sp|O77791|S112_RABIT Calgranulin C (CAGC) >gi|3661597... [ score 103 E 1e-21 ] [ range 1 .. 76 ]
+sequence
+------------INIFHQYSVRTGHYDTLSKCELKKLITTELV--NTIKNTKDQATVDRIFRDLDEDGDH
+QVDFKEFLSLLASVLVTAHE-------------*
+>P1;gi|1173337|sp|P30801|S106_RABIT Calcyclin (Lung 10 kDa protein) ... [ score 103 E 1e-21 ] [ range 3 .. 86 ]
+sequence
+--SPLDQAIGLLIGIFHKYSGKEGDKHTLSKKELKELIQKEL---TIGSKLQDAEIV-KLMDDLDRNKDQ
+EVNFQEYITFLGALAMIYNE-------------*
+>P1;gi|23943906|ref|NP_009044.1| trichohyalin [Homo sapiens] >gi|586... [ score 102 E 2e-21 ] [ range 2 .. 86 ]
+sequence
+--SPLLRSICDITEIFNQYVSHDCDGAALTKKDLKNLLEREFG--AVLRRPHDPKTVDLILELLDRDSNG
+RVDFNEFLLFIFKVAQACY--------------*
+>P1;gi|45383816|ref|NP_989479.1| S100 calcium binding protein A6 (ca... [ score 101 E 3e-21 ] [ range 4 .. 86 ]
+sequence
+---PLDQAIGLLVATFHKYSGKEGDKNSLSKGELKELIQKEL---TIGPKLKDAEIAG-LMEDLDRNKDQ
+EVNFQEYVTFLGALAMIYNE-------------*
+>P1;gi|6755390|ref|NP_035442.1| S100 calcium binding protein A5 [Mus... [ score 101 E 5e-21 ] [ range 3 .. 88 ]
+sequence
+--TPLEKALTTMVTTFHKYSGREGSKLTLSRKELKELIKTELS----LAEKMKESSIDNLMKSLDKNSDQ
+EIDFKEYSVFLTTLCMAYNDFF-----------*
+>P1;gi|1200246|emb|CAA61204.1| MRP8 protein [Mus musculus] [ score 101 E 5e-21 ] [ range 3 .. 84 ]
+sequence
+--SELEKALSNLIDVYHNYSNIQGNHHALYKNDFKKMVTTECP--QFVQNIN----IENLFRDLDINSDN
+AINFEEFLAMVIKVGVASHK-------------*
+>P1;gi|13638435|sp|P50115|S108_RAT Calgranulin A (Migration inhibito... [ score 99 E 1e-20 ] [ range 3 .. 84 ]
+sequence
+--TELEKALSNVIEVYHNYSGIKGNHHALYRDDFRKMVTTECP--QFVQNKN----TESLFKELDVNSDN
+AINFEEFLVLVIRVGVAAHK-------------*
+>P1;gi|21614544|ref|NP_002955.2| S100 calcium-binding protein A8; cy... [ score 99 E 1e-20 ] [ range 3 .. 84 ]
+sequence
+--TELEKALNSIIDVYHKYSLIKGNFHAVYRDDLKKLLETECP--QYIRK----KGADVWFKELDINTDG
+AVNFQEFLILVIKMGVAAHK-------------*
+>P1;gi|49753|emb|CAA36521.1| unnamed protein product [Mus musculus] [ score 100 E 1e-20 ] [ range 4 .. 86 ]
+sequence
+---PLDQAIGLLVAIFHKYSGKEGDKHTLSKKELKELIQKEL---TIGSKLQDREIA-RLMDDLDRNKDQ
+EVNFQEYVAFLGALALIYNE-------------*
+>P1;gi|586122|sp|P22793|TRHY_SHEEP Trichohyalin >gi|423321|pir||A406... [ score 99 E 2e-20 ] [ range 2 .. 86 ]
+sequence
+--SPLLRSIFNITKIFNQYASHDCDGTTLSKKDLKNLLEREFG--EILRKPHDPETVDLVLELQDRDRDG
+LIDFHEFLAIVFKVAAACY--------------*
+>P1;gi|20750113|gb|AAM23016.1| filaggrin [Mus musculus] [ score 98 E 3e-20 ] [ range 2 .. 87 ]
+sequence
+--SALLESITSMIEIFQQYSTSDKEEETLSKEELKELLEGQLQ--AVLKNPDDQDIAEVFMQMLDVDHDD
+KLDFAEYLLLVLKLAKAYYE-------------*
+>P1;gi|6094219|sp|P50117|S109_RABIT Calgranulin B (Migration inhibit... [ score 98 E 4e-20 ] [ range 1 .. 78 ]
+sequence
+-----------IINIFHQYSVRVGPRDSLSQKEFKQLVQKELH--NFLKKERDEKAINDIMEDLDTNQDK
+QLSFEEFVILMARLVHASHE-------------*
+>P1;gi|34858018|ref|XP_342292.1| similar to RIKEN cDNA 2300002L21 [R... [ score 97 E 1e-19 ] [ range 6 .. 87 ]
+sequence
+--TELEKALVVLVENFYKYVSKHSVKNKISKSSFRKMLQKELN--HMLTDTGNRKAADKLIQNLDANHDG
+RICFDEYWTMIGGIT------------------*
+>P1;gi|17933772|ref|NP_525127.1| S100 calcium binding protein A16 [H... [ score 97 E 1e-19 ] [ range 6 .. 87 ]
+sequence
+--TELEKAVIVLVENFYKYVSKYSVKNKISKSSFREMLQKELN--HMLSDTGNRKAADKLIQNLDANHDG
+RISFDEYWTLIGGIT------------------*
+>P1;gi|21312760|ref|NP_080692.1| RIKEN cDNA 2300002L21 [Mus musculus... [ score 97 E 1e-19 ] [ range 6 .. 87 ]
+sequence
+--TELEKAVVVLVENFYKYVSKHSVKNKISKSSFRKMLQRELN--HMLTDTGNRKAADKLIQNLDANHDG
+RICFDEYWTMIGGIT------------------*
+>P1;gi|27692712|ref|XP_215607.1| similar to 8KDa amlexanox-binding p... [ score 95 E 3e-19 ] [ range 7 .. 84 ]
+sequence
+--TELESAIETVVTTFFTFAGREGRKGSLSTNEFKELVTQQLP--HLL---KDVGSLDEKMKSLDVNQDS
+ELKFNEYWRLIGELA------------------*
+>P1;gi|6094218|sp|O77691|S106_HORSE Calcyclin >gi|3493135|gb|AAC3329... [ score 94 E 6e-19 ] [ range 4 .. 86 ]
+sequence
+---PLDQAISLLVAIFHKYSSREGDKNTLSKGELKELIQKEL---TIGAELEDSEIA-KLLDDLDQNKDQ
+VVNFQEYVTFLGALAMIYNE-------------*
+>P1;gi|6677835|ref|NP_033139.1| S100 calcium binding protein A13; S1... [ score 92 E 4e-18 ] [ range 7 .. 84 ]
+sequence
+--TELEAAIETVVSTFFTFAGREGRKGSLNINEFKELATQQLP--HLL---KDVGSLDEKMKTLDVNQDS
+ELRFSEYWRLIGELA------------------*
+>P1;gi|1438768|gb|AAB36299.1| cornea-associated antigen, CO-Ag=calgr... [ score 92 E 4e-18 ] [ range 1 .. 70 ]
+sequence
+--TKLEDHLEGIINIFHQYSVRVGHFDTLNKRELKQLITKELP--KTLQNTKDQPTIDKIFQDLDADKKG
+AVVF-----------------------------*
+>P1;gi|41117410|ref|XP_371380.1| similar to S100 calcium-binding pro... [ score 91 E 6e-18 ] [ range 7 .. 84 ]
+sequence
+--TELEESIETVVTTFFTFARQEGRKDSLSVNEFKELVTQQLP--HLL---KDVGSLDEKMKSLDVNQDS
+ELKFNEYWRLIGELA------------------*
+>P1;gi|27807077|ref|NP_777021.1| S100 calcium-binding protein A7 (ps... [ score 90 E 1e-17 ] [ range 4 .. 87 ]
+sequence
+--SQLEQAITDLINLFHKYSGSD---DTIEKEDLLRLMKDNFP--NFLGEKRGRDYLSNIFEKQDKNKDR
+KIDFSEFLSLLADIATDYH--------------*
+>P1;gi|45430025|ref|NP_991369.1| 8KDa amlexanox-binding protein [Bos... [ score 89 E 2e-17 ] [ range 7 .. 84 ]
+sequence
+--TELEAAIETVVTTFFTFAGREGRKGSLSVNEFKELVTQQLP--HLL---KDVGSLDEKMKSFDVNQDS
+ELKFSEYWRLIGELA------------------*
+>P1;gi|442719|pdb|1CB1|  Calbindin D9k (Intact Form) (Nmr, 13 Struct... [ score 88 E 4e-17 ] [ range 3 .. 78 ]
+sequence
+-----QKSPAELKSIFEKYAAKEGDPNQLSKEELKQLIQAEFP--SLL---KGPRTLDDLFQELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|12314267|emb|CAC13172.1| dJ14N1.1.1 (profilaggrin 5' end) [Ho... [ score 88 E 5e-17 ] [ range 2 .. 88 ]
+sequence
+--STLLENIFAIINLFKQYSKKDKNTDTLSKKELKELLEKEFR--QILKNPDDPDMVDVFMDHLDIDHNK
+KIDFTEFLLMVFKLAQAYYES------------*
+>P1;gi|586121|sp|P37709|TRHY_RABIT Trichohyalin >gi|280938|pir||S285... [ score 87 E 1e-16 ] [ range 2 .. 86 ]
+sequence
+--SPLLKSIIDIIEIFNQYASHDCDGAVLKKKDLKILLDREFG--AVLQRPHDPETVDVMLELLDRDSDG
+LVGFDEFCLLIFKLAQAAY--------------*
+>P1;gi|4757898|ref|NP_004048.1| calbindin 3; calbindin 3, (vitamin D... [ score 86 E 2e-16 ] [ range 3 .. 79 ]
+sequence
+----TKKSPEELKRIFEKYAAKEGDPDQLSKDELKLLIQAEFP--SLL---KGPNTLDDLFQELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|34858171|ref|XP_238235.2| similar to profilaggrin [Rattus nor... [ score 86 E 2e-16 ] [ range 2 .. 87 ]
+sequence
+--STLLESITSMIDIFQQYSNNDKEEETLSKEELKELLEGELQ--AVLKNPNDQDIAEVFMQMLDVDHDD
+KIDFTEYLLMVLKLAQAYYE-------------*
+>P1;gi|41222866|ref|XP_372676.1| similar to S100 calcium-binding pro... [ score 85 E 4e-16 ] [ range 27 .. 111 ]
+sequence
+--SPMEHTMETVLFTFHRFA---GDKGYLMKEGLKVLMGKEFL--GFLENQKDPLAADITMKDMDQCQDS
+TLNFQNLFSLTAGLTTVDNNYF-----------*
+>P1;gi|34880543|ref|XP_344158.1| similar to endothelial monocyte-act... [ score 85 E 5e-16 ] [ range 90 .. 141 ]
+sequence
+---------------FPKYSGKDGDRCQLSRTEFLSFMSTGLA--AFTKNQKDPGVLDRIMKKLDLNGD-
+---------------------------------*
+>P1;gi|190406|gb|AAA36487.1| profilaggrin [ score 83 E 1e-15 ] [ range 8 .. 88 ]
+sequence
+--------IFAIINLFNEYSKKDKNTDTLSKKELKELLEKEFR--QILKNPDDPDMVDVFMDHLDIDHNK
+KIDFTEFLLMVFKLAQAYYES------------*
+>P1;gi|29423753|gb|AAO73439.1| calbindin-D9k [Equus caballus] [ score 82 E 3e-15 ] [ range 5 .. 79 ]
+sequence
+------KSPEELKKIFEKYAAKEGDPDQLSKEELKLLIQNELP--ALL---KGSSSIDDLFKELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|14789635|gb|AAH10751.1| Calb3 protein [Mus musculus] >gi|2168... [ score 81 E 8e-15 ] [ range 4 .. 80 ]
+sequence
+-----EKSPAEMKSIFQKYAAKEGDPDQLSKEELKLLIQSEFP--SLLK--QASSTLDNLFKELDKNGDG
+EVSYEEFEAFFKKLSQ-----------------*
+>P1;gi|203239|gb|AAA40853.1| intestinal calcium-binding protein [ score 79 E 2e-14 ] [ range 5 .. 80 ]
+sequence
+------KSPEEMKSIFQKYAAKEGDPNQLSKEELKLLIQSEFP--SLLK--QASSTLDNLFKELDKNGDG
+EVSYEEFEVFFKKLSQ-----------------*
+>P1;gi|203216|gb|AAA40843.1| intestinal calcium binding protein (par... [ score 72 E 3e-12 ] [ range 2 .. 69 ]
+sequence
+-------------SIFQKYAAKEGDPNQLSKEELKLLIQSEFP--NLL---KASSTLDNLFEELDKNDDG
+EVSYEEFEVFFKKLSQ-----------------*
+>P1;gi|27806285|ref|NP_776682.1| calbindin 3, (vitamin D-dependent c... [ score 71 E 6e-12 ] [ range 5 .. 79 ]
+sequence
+------KSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFP--SLL---KGPSTLDELFEELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|1384097|dbj|BAA04228.1| macrophage migration inhibitory facto... [ score 71 E 6e-12 ] [ range 3 .. 73 ]
+sequence
+--TDLENSLNSIIFVYHKCSLEKGNYQALY-GDLKKLLATECP--QYSKKKD----ADSWFKELDINSDG
+ASNFQEFLIL-----------------------*
+>P1;gi|34858179|ref|XP_227375.2| similar to RIKEN cDNA 5430400H23 [R... [ score 71 E 7e-12 ] [ range 46 .. 125 ]
+sequence
+--SRLLRGIFCVIEIFHKYASEDGNKEALTHRELRQLLEGEIG--DFLQ-PHVFHAVERKLNLLHFDRDG
+TISFEEFLLAIFSL-------------------*
+>P1;gi|30147721|ref|XP_060104.2| similar to RIKEN cDNA 5430400H23 [H... [ score 70 E 1e-11 ] [ range 3 .. 85 ]
+sequence
+---QLLRNVLCVIETFHKYASEDSNGATLTGRELKQLIQGEFG--DFFQ----PCVLHAVEKNLNIDSNG
+IISFDEFVLAIFNLLNLCY--------------*
+>P1;gi|38090220|ref|XP_356221.1| similar to S100 calcium binding pro... [ score 69 E 2e-11 ] [ range 4 .. 90 ]
+sequence
+--TPVEDSLFQIIHCFHHYAAREGDKETLSLEELKALLLDSVP--RFMDTLGRPYYITELFRAADKNKDN
+QICFDEFLYILGKLVKDYH--------------*
+>P1;gi|21313246|ref|NP_082038.1| RIKEN cDNA 5430400H23 [Mus musculus... [ score 68 E 7e-11 ] [ range 4 .. 81 ]
+sequence
+----LLRGVFCVVEIFHKYAIEDGNQATLTRTELRQLLEGEIG--DFLQ-PHVFHAVERKLNLLNFDRDG
+TISFEEFVLAIFSL-------------------*
+>P1;gi|10190712|ref|NP_065723.1| S100 calcium binding protein A14; b... [ score 67 E 8e-11 ] [ range 16 .. 89 ]
+sequence
+--SDVERAIETLIKNFHQYSV-EGGKETLTPSELRDLVTQQLP--HLMPS---NCGLEEKIANLGSCNDS
+KLEFRSFWELIG---------------------*
+>P1;gi|28827815|ref|NP_789793.1| S100 calcium binding protein A15 [H... [ score 67 E 1e-10 ] [ range 4 .. 88 ]
+sequence
+--TQAERSIIGMIDMFHKYTGRDG---KIEKPSLLTMMKENFP--NFLSACDKKGILATVFEKKDKNEDK
+KIDFSEFLSLLGDIAADYHK-------------*
+>P1;gi|4389153|pdb|1PSR|A Chain A, Human Psoriasin (S100a7) >gi|4389... [ score 65 E 3e-10 ] [ range 3 .. 87 ]
+sequence
+--TQAERSIIGMIDMFHKYTRRD---DKIDKPSLLTMMKENFP--NFLSDKKGTNYLADVFEKKDKNEDK
+KIDFSEFLSLLGDIATDYHK-------------*
+>P1;gi|34395852|sp|Q9D2Q8|S114_MOUSE S100 calcium-binding protein A1... [ score 65 E 6e-10 ] [ range 16 .. 89 ]
+sequence
+--SDVERAIETLIKNFHKYSVA-GKKETLTPAELRDLVTQQLP--HLMPS---NCGLEEKIANLGNCNDS
+KLEFGSFWELIG---------------------*
+>P1;gi|1431653|pdb|1BOC|  Calbindin D9k Mutant With Ala 15 Replaced ... [ score 64 E 6e-10 ] [ range 2 .. 76 ]
+sequence
+------KSPEELKGIFEKYADKEGDGNQLSKEELKLLLQTEFP--SLL---KGMSTLDELFEELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|29244010|ref|NP_808292.1| hypothetical protein A430083B19 [Mu... [ score 58 E 6e-08 ] [ range 54 .. 133 ]
+sequence
+--SDLEKAIATIALVFRNASDPDG---KLGKATAKKLLQTQFK--KFTEREETKPKYQDILSELDEHTEN
+KLDFEDFVILLLSLAIM----------------*
+>P1;gi|17443793|ref|XP_060509.1| similar to S100 calcium binding pro... [ score 49 E 3e-05 ] [ range 7 .. 88 ]
+sequence
+-----EKVMLDIVAMFRQYSGDDGRMDM---PGLVNLMKENFP--NFLSEKSDMDYLSNALEKKDDNKDK
+KVNYSEFLSLLGDITIDHHK-------------*
+>P1;gi|18416872|ref|NP_568281.1| calmodulin-domain protein kinase is... [ score 46 E 2e-04 ] [ range 449 .. 498 ]
+sequence
+-------------------------SGYIEIDELREALNDEL------DNTSSEEVIAAIMQDVDTDKDG
+RISYEEFVAMM----------------------*
+>P1;gi|30699042|ref|NP_177612.2| calcium-dependent protein kinase, p... [ score 46 E 2e-04 ] [ range 446 .. 497 ]
+sequence
+---------------------KDG-SGYIESEELREALTDELG-------EPDNSVIIDIMREVDTDKDG
+KINYDEFVVMM----------------------*
+>P1;gi|30694663|ref|NP_191312.2| calcium-dependent protein kinase, p... [ score 46 E 2e-04 ] [ range 452 .. 500 ]
+sequence
+------------------------NNGYIEIEELREALSDELG--T------SEEVVDAIIRDVDTDKDG
+RISYEEFVTMM----------------------*
+>P1;gi|236793|gb|AAB19997.1| 13 kDa calgizzarin-like protein [rabbit... [ score 45 E 3e-04 ] [ range 1 .. 35 ]
+sequence
+----------------------DGHSVTLSKTEFLSFMNTELA--AFT---KDPGVLDYMMK--------
+---------------------------------*
+>P1;gi|44804760|gb|AAS47705.1| calcium-dependent protein kinase 1 [C... [ score 45 E 3e-04 ] [ range 583 .. 630 ]
+sequence
+----------------------------ISPQELSRVLNI-----TFLQEAFEQSTIDSLLKEVDINQDG
+YIDFNEFMKMM----------------------*
+>P1;gi|44246229|gb|EAH93108.1| unknown [environmental sequence] [ score 45 E 3e-04 ] [ range 446 .. 497 ]
+sequence
+----------------------EDKNGKVEKSELLSFMK------EIYDKKFDKGAAENWFKEMDKNSDG
+QVDQGEMLAF-----------------------*
+>P1;gi|7304941|ref|NP_038906.1| calcium binding protein 2 [Mus muscu... [ score 45 E 3e-04 ] [ range 173 .. 216 ]
+sequence
+-------------------------------------LRAALK--ALLGERLSQREVDEILQDIDLNGDG
+LVDFEEFVRMMSR--------------------*
+>P1;gi|7705312|ref|NP_057450.1| calcium binding protein 2 isoform 1 ... [ score 45 E 5e-04 ] [ range 177 .. 220 ]
+sequence
+-------------------------------------LRAALK--ALLGERLSQREVDEILQDVDLNGDG
+LVDFEEFVRMMSR--------------------*
+>P1;gi|15239742|ref|NP_197446.1| calcium-dependent protein kinase 19... [ score 45 E 6e-04 ] [ range 448 .. 496 ]
+sequence
+-------------------------SDYIEIEELREALNDE-------VDTNSEEVVAAIMQDVDTDKDG
+RISYEEFAAMM----------------------*
+>P1;gi|28829351|gb|AAO51893.1| similar to Mus musculus (Mouse), and ... [ score 44 E 0.001 ] [ range 42 .. 111 ]
+sequence
+-----------LYEVF--YDLSNGGKEPLNRDRFKEGLTKLES--CGLKNLDNSPFGDRLFDLLDTNKDN
+TVDLQEF---ISGLSILC---------------*
+>P1;gi|45382861|ref|NP_990837.1| cellular ligand of annexin II [Gall... [ score 155 E 3e-37 ] [ range 2 .. 93 ]
+sequence
+-PSQMEHAMETLMFTFHKYAGD---KNYLSKEDLRALMEKEFPGFLENQRD--PMALDKIMKDLDQCRDG
+KVGFQSFFSLVAGLTIACNDYFVVH-----MKQ*
+>P1;gi|34811429|pdb|1NSH|A Chain A, Solution Structure Of Rabbit Apo... [ score 153 E 9e-37 ] [ range 3 .. 93 ]
+sequence
+-PTETERCIESLIAVFQKYAGK---DGHLSKTEFLSFMNTELAAFTKNQKD--PGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAVACHESFVK---------*
+>P1;gi|34858021|ref|XP_215598.2| similar to endothelial monocyte-act... [ score 153 E 1e-36 ] [ range 54 .. 143 ]
+sequence
+-PTETERCIESLIAVFQKYSGK---DGHLSKTEFLSFMNTELAAFTKNQKD--PGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAIACHESFL----------*
+>P1;gi|5032057|ref|NP_005611.1| S100 calcium binding protein A11 (ca... [ score 150 E 6e-36 ] [ range 7 .. 97 ]
+sequence
+-PTETERCIESLIAVFQKYAGK---DGYLSKTEFLSFMNTELAAFTKNQKD--PGVLDRMMKKLDTNSDG
+QLDFSEFLNLIGGLAMACHDSFLK---------*
+>P1;gi|13592079|ref|NP_112376.1| S100 calcium binding protein A10; c... [ score 149 E 2e-35 ] [ range 2 .. 93 ]
+sequence
+-PSQMEHAMETMMLTFHRFAGE---KNYLTKEDLRVLMEREFPGFLENQKD--PLAVDKIMKDLDQCRDG
+KVGFQSFLSLVAGLIIACNDYFVVH-----MKQ*
+>P1;gi|6677833|ref|NP_033138.1| S100 calcium binding protein A10; ca... [ score 148 E 4e-35 ] [ range 2 .. 93 ]
+sequence
+-PSQMEHAMETMMLTFHRFAGD---KDHLTKEDLRVLMEREFPGFLENQKD--PLAVDKIMKDLDQCRDG
+KVGFQSFLSLVAGLTIACNDYFVVN-----MKQ*
+>P1;gi|45384028|ref|NP_990497.1| calgizzarin [Gallus gallus] >gi|282... [ score 147 E 4e-35 ] [ range 6 .. 97 ]
+sequence
+-PTETERCIESLLAVFQRYAGR---EGKLSKKEFRTFMNTELASFTKNQKD--PAVVDRMMKRLDINSDG
+QLDFQEFLNLIGGIAVACHDALLVQ--------*
+>P1;gi|38083803|ref|XP_357005.1| similar to endothelial monocyte-act... [ score 147 E 6e-35 ] [ range 21 .. 110 ]
+sequence
+-PTETERCIESLIAVFQKYSGK---DGQLSKTEFLSFMNTELAAFTKNQKD--PDVLDRMMKKLDLNCDG
+QLDFQEFLNLIGGLAIACHDSFI----------*
+>P1;gi|28189775|dbj|BAC56502.1| similar to S100 calcium-binding prot... [ score 145 E 2e-34 ] [ range 7 .. 97 ]
+sequence
+-PTETERCIESLIAVFQKHAGR---DGKLSKAEFLIFMNTELGAFTKNQKD--PGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAIACHESFIK---------*
+>P1;gi|27681837|ref|XP_225088.1| similar to endothelial monocyte-act... [ score 142 E 1e-33 ] [ range 49 .. 136 ]
+sequence
+---ETERCMESLIAVFQKYTGK---DGQFYKTEFLSFMNTELAAFTKNQKD--PGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAIACHESFL----------*
+>P1;gi|399178|sp|P31950|S111_PIG Calgizzarin (S100C protein) >gi|108... [ score 142 E 2e-33 ] [ range 5 .. 99 ]
+sequence
+-PTETERCIESLIAIFQKHAGR---DGKISKTEFLIFMNTELAAFTQNQKD--PGVLDRMMKKLDLDSDG
+QLDFQEFLNLIGGLAIACHDSFIKS-----TQK*
+>P1;gi|28278451|gb|AAH45941.1| Unknown (protein for MGC:56142) [Dani... [ score 141 E 3e-33 ] [ range 2 .. 95 ]
+sequence
+-PSDLERAMETLITVFHRYSGA---EGTLSRRELKQLMEKELASFLKSQKD--PAAVDKIMKDLDANGDG
+EVNFEEFVSLVVGLSIACEQLYQKQ-----MK-*
+>P1;gi|25023967|ref|XP_204772.1| similar to endothelial monocyte-act... [ score 140 E 5e-33 ] [ range 2 .. 91 ]
+sequence
+-PTEMERCIESLIAVLQKYSGK---DGQLSKTEFLSFMNTELAAFTKNQKD--PGVLDRMMKKLDLNCDG
+QLDFQDFLNLIGGLATACHDSFL----------*
+>P1;gi|27686759|ref|XP_226710.1| similar to S100Z protein [Rattus no... [ score 137 E 5e-32 ] [ range 2 .. 96 ]
+sequence
+-PTQLEMAMETMIRIFHRYSGD---RFKLNKGELKMLLQRELTEFLTCQKD--PQLVDKIMQDLDANKDN
+EVDFNEFVVMVAALTVACNDYFVEQ-----LKK*
+>P1;gi|7388240|sp|O60417|S11P_HUMAN Putative S100 calcium-binding pr... [ score 137 E 5e-32 ] [ range 7 .. 96 ]
+sequence
+-PTETERCIESLIAVFQKYAGK---DGYLSKTEFLSFMNTELAAFTKNQKD--PGVLDH-MKKLDVSSDG
+QLDFPKFLNLIGGLAVACHDSFLK---------*
+>P1;gi|3386482|gb|AAC28367.1| S100-like calcium binding protein [Sal... [ score 137 E 6e-32 ] [ range 2 .. 96 ]
+sequence
+-PSQLESSMESLITVFHRYAGD---CNTLSKKELKELMQTELASFLKSQKD--PAAIDTIMKDLDQNGDG
+KVSFEEFVSLVVGLSIACEQIYQLH-----TKK*
+>P1;gi|38075032|ref|XP_193738.2| similar to S100Z protein [Mus muscu... [ score 136 E 8e-32 ] [ range 2 .. 96 ]
+sequence
+-PTQLEMAMDTMIRIFHRYSGD---RFKLNKGELKMLLQRELTEFLTCQKD--PQLVDKIMQDLDANKDN
+EVDFNEFVVMVAALTVACNDYFVEQ-----MKK*
+>P1;gi|13431875|sp|Q9UDP3|S11Y_HUMAN Putative S100 calcium-binding p... [ score 135 E 2e-31 ] [ range 7 .. 96 ]
+sequence
+-PTETVRCIQSLIAVFQKYAGK---DGYLSKTEFLSFMNTELAAFTKNQKD--PGVLDR-MKKLDVSSDG
+QLDFPKFLNLIGGLAVACHDSFLK---------*
+>P1;gi|479986|pir||S35985 S-100 protein alpha chain - weatherfish >g... [ score 134 E 5e-31 ] [ range 2 .. 94 ]
+sequence
+--SQLESAMESLIKVFHTYSGD---KYKLSKAELKSLLQGELNDFLSASKD--PMVVEKIMSDLDENQDG
+EVDFQEFVVLVAALTVACNEFFIES-----MK-*
+>P1;gi|116490|sp|P27004|S110_XENLA Calpactin I light chain (P10 prot... [ score 132 E 2e-30 ] [ range 4 .. 95 ]
+sequence
+-PSELEHSMEKMLLTFHKFAGE---KNYMNRDDLQKLLDSEFSEFLKNQND--PMTVDKIMKDLDDCRKG
+QVNFRSYCSLIAGLLIACNEYYVKH-----MKK*
+>P1;gi|134135|sp|P02639|S10A_BOVIN S-100 protein, alpha chain >gi|10... [ score 130 E 5e-30 ] [ range 3 .. 90 ]
+sequence
+--SELETAMETLINVFHAHSGD---KYKLSKKELKELLQTELSGFLDAQKD--ADAVDKVMKELDENGDG
+EVDFQEYVVLVAALTVACNNFF-----------*
+>P1;gi|20150644|pdb|1K2H|A Chain A, Three-Dimensional Solution Struc... [ score 130 E 6e-30 ] [ range 2 .. 89 ]
+sequence
+--SELETAMETLINVFHAHSGD---KYKLSKKELKDLLQTELSSFLDVQKD--ADAVDKIMKELDENGDG
+EVDFQEFVVLVAALTVACNNFF-----------*
+>P1;gi|27660232|ref|XP_218979.1| similar to endothelial monocyte-act... [ score 130 E 6e-30 ] [ range 65 .. 150 ]
+sequence
+-----ERCMESLIAVFQKYSGK---DGQFSKTEFLSFMNTELAAFRKKQKD--PGVLECMMKTQDLNSDG
+QLDFQEFLNLTGSLAIVCHESFL----------*
+>P1;gi|18640744|ref|NP_570128.1| S100Z protein [Homo sapiens] >gi|20... [ score 130 E 6e-30 ] [ range 2 .. 96 ]
+sequence
+-PTQLEMAMDTMIRIFHRYSGK---RFKLSKGELKLLLQRELTEFLSCQKE--TQLVDKIVQDLDANKDN
+EVDFNEFVVMVAALTVACNDYFVEQ-----LKK*
+>P1;gi|42657928|ref|XP_377928.1| similar to Calgizzarin (S100C prote... [ score 130 E 1e-29 ] [ range 20 .. 110 ]
+sequence
+-PALQRLSIESLISLFQKYVGK---GGYLSKTEFLSFMNAELAAFTKNQKD--PGVLHRMMKKLGTNNDG
+QLDFSEFLNLIGGLAMACHDSFLK---------*
+>P1;gi|3914948|sp|P56565|S10A_MOUSE S-100 protein, alpha chain (S100... [ score 128 E 3e-29 ] [ range 3 .. 90 ]
+sequence
+--SELESAMETLINVFHAHSGD---KYKLSKKELKDLLQTELSGFLDVQKD--ADAVDKVMKELDENGDG
+EVDFKEYVVLVAALTVACNNFF-----------*
+>P1;gi|41222866|ref|XP_372676.1| similar to S100 calcium-binding pro... [ score 125 E 3e-28 ] [ range 26 .. 117 ]
+sequence
+-PSPMEHTMETVLFTFHRFAGD---KGYLMKEGLKVLMGKEFLGFLENQKD--PLAADITMKDMDQCQDS
+TLNFQNLFSLTAGLTTVDNNYFVVP-----MKQ*
+>P1;gi|24637029|gb|AAN63527.1| S-100 calcium-binding protein A1 [Squ... [ score 124 E 5e-28 ] [ range 2 .. 94 ]
+sequence
+--TELESAMAGIIGVFRKYSGD---KYSLSNNEMVDLLKAELPNFLKSQKD--KAAVDKIMKDLDRNKDG
+ELDFQEFVVLIAALAAACNDFFVDH-----LK-*
+>P1;gi|38076664|ref|XP_356757.1| similar to endothelial monocyte-act... [ score 122 E 2e-27 ] [ range 2 .. 91 ]
+sequence
+-PTETERCIESPIAVFQKCSRK---EYQLSKTESLSFMNIEMATTMNKQKD--PGALDQMMKKLNLNRDW
+QLDFQEFLNLIDGLAIAWHEFFL----------*
+>P1;gi|7512190|pir||JE0330 26-kDa Ca2+-binding protein, p26olf - bul... [ score 119 E 2e-26 ] [ range 118 .. 216 ] [ duplicate a ]
+sequence
+-PTDMETAMESIVRIYQHYAGK---KGAKDQTEFEAFMKAELNSFTANQKD--PNIVRRLMESVDGSTDG
+KMNFQEFMNLIGGIMVACHAAFVSH-----LKR*
+>P1;gi|7512190|pir||JE0330 26-kDa Ca2+-binding protein, p26olf - bul... [ score 119 E 2e-26 ] [ range 9 .. 104 ] [ duplicate b ]
+sequence
+-PTEMERSMEKIITVFQRYAGK---EGSMNFKEFEQFMNAELGSFTKNQKD--PQAIRKIMKSVDGKQDG
+ELDFQEFLNLIGGMMVACHEALMK---------*
+>P1;gi|6981326|ref|NP_036750.1| S100 calcium-binding protein A4; Pro... [ score 119 E 2e-26 ] [ range 4 .. 90 ]
+sequence
+---PLEEALDVIVSTFHKYSGD---KFKLNKTELKELLTRELPSFLGRRTD--EAAFQKLMNNLDSNRDN
+EVDFQEYCVFLSCIAMMCNEFF-----------*
+>P1;gi|33859624|ref|NP_035441.1| S100 calcium binding protein A4; S1... [ score 118 E 4e-26 ] [ range 4 .. 90 ]
+sequence
+---PLEEALDVIVSTFHKYSGD---KFKLNKTELKELLTRELPSFLGKRTD--EAAFQKVMSNLDSNRDN
+EVDFQEYCVFLSCIAMMCNEFF-----------*
+>P1;gi|4506765|ref|NP_002952.1| S100 calcium-binding protein A4; S10... [ score 117 E 7e-26 ] [ range 4 .. 90 ]
+sequence
+---PLEKALDVMVSTFHKYSGD---KFKLNKSELKELLTRELPSFLGKRTD--EAAFQKLMSNLDSNRDN
+EVDFQEYCVFLSCIAMMCNEFF-----------*
+>P1;gi|8318583|gb|AAB20539.2| S100 alpha [Rattus sp.] [ score 116 E 8e-26 ] [ range 1 .. 80 ]
+sequence
+----------TLIHVFHAHSGD---KYKLSKKELKDLLQTELSSFLDVQKD--ADAVDRIMKELDENGDG
+EVDFQEFVVLVAALTVACNNFF-----------*
+>P1;gi|134140|sp|P10462|S102_BOVIN S100 calcium-binding protein A2 (... [ score 116 E 9e-26 ] [ range 3 .. 90 ]
+sequence
+--SPLEQALAVMVATFHKYSGD---KFKLSKGEMKELLHKELPSFVGEKVD--EEGLKKLMGDLDENSDQ
+QVDFQEYAVFLALITIMCNDFF-----------*
+>P1;gi|33469037|ref|NP_598459.1| hornerin [Mus musculus] >gi|4547696... [ score 116 E 1e-25 ] [ range 3 .. 86 ]
+sequence
+---KLLESIVTVIDVFYQYAGN---CDMLSKEEMKELLVTEFHQILKNPDD--PDTVDIIMQNLDRDHNH
+KVDFTEYLLMILKLTKACN--------------*
+>P1;gi|4139958|pdb|1MHO|  The 2.0 A Structure Of Holo S100b From Bov... [ score 115 E 2e-25 ] [ range 1 .. 88 ]
+sequence
+--SELEKAVVALIDVFHQYSGD---KHKLKKSELKELINNELSHFLEEIKE--QEVVDKVMETLDSDGDG
+ECDFQEFMAFVAMITTACHEFF-----------*
+>P1;gi|34858169|ref|XP_227368.2| similar to dJ14N1.2 (novel S-100/IC... [ score 115 E 2e-25 ] [ range 61 .. 145 ]
+sequence
+--TYLLRSVVTIIDIFYKYTEE---CGTLSKNELKELLEKEFRPILKNPDD--PDTVDVIMHMLDRDHDR
+RLDFTEFILMVFKLALACN--------------*
+>P1;gi|27573962|pdb|1MQ1|A Chain A, Ca2+-S100b-Trtk-12 Complex >gi|2... [ score 115 E 2e-25 ] [ range 1 .. 88 ]
+sequence
+--SELEKAMVALIDVFHQYSGD---KHKLKKSELKELINNELSHFLEEIKE--QEVVDKVMETLDNDGDG
+ECDFQEFMAFVAMVTTACHEFF-----------*
+>P1;gi|399172|sp|P28783|S109_BOVIN Calgranulin B (Neutrophil cytosol... [ score 114 E 6e-25 ] [ range 2 .. 88 ]
+sequence
+--SQMESSIETIINIFHQYSVR---LGHLIQKEFKQLVQKELPNFLKKQKN--EAAINEIMEDLDTNVDK
+QLSFEEFIMLVARLTVASHE-------------*
+>P1;gi|34858173|ref|XP_227369.2| similar to hornerin [Rattus norvegi... [ score 114 E 6e-25 ] [ range 3 .. 86 ]
+sequence
+---KLLQGIVTVIDVFYNYAGN---CDMLSKKEMKELLETEFRQILKNPDD--PDTVDIIMQSLDRDHNH
+KVDFTEYLIMILRLAKACN--------------*
+>P1;gi|5174661|ref|NP_005969.1| S100 calcium binding protein A2; S10... [ score 113 E 9e-25 ] [ range 3 .. 90 ]
+sequence
+--SSLEQALAVLVTTFHKYSGD---KFKLSKGEMKELLHKELPSFVGEKVD--EEGLKKLMGSLDENSDQ
+QVDFQEYAVFLALITVMCNDFF-----------*
+>P1;gi|6677837|ref|NP_033140.1| S100 calcium binding protein A9 (cal... [ score 113 E 1e-24 ] [ range 6 .. 93 ]
+sequence
+-PSQMERSITTIIDTFHQYSRK---EGHLSKKEFRQMVEAQLATFMKKEKN--EALINDIMEDLDTNQDN
+QLSFEECMMLMAKLIFACHE-------------*
+>P1;gi|16758364|ref|NP_446039.1| S100 calcium-binding protein A9 (ca... [ score 113 E 1e-24 ] [ range 7 .. 93 ]
+sequence
+--SQLERSISTIINVFHQYSRK---YGHLNKAEFKEMVNKDLPNFLKREKN--ENLLRDIMEDLDTNQDN
+QLSFEECMMLMGKLIFACHE-------------*
+>P1;gi|5738962|dbj|BAA83419.1| metastasin [Canis familiaris] [ score 112 E 2e-24 ] [ range 4 .. 90 ]
+sequence
+---PLEKALDVMVSTFHKYSGD---KFKLNRSELKELLMRELPSFLGKRTD--EAAFQKLMSNLDSNRDN
+EVDFQEYCVFLSCVAMMCNEFF-----------*
+>P1;gi|38076711|ref|XP_143396.2| similar to dJ14N1.2 (novel S-100/IC... [ score 111 E 4e-24 ] [ range 4 .. 86 ]
+sequence
+----LLRSVVTIIDVFYKYTEE---CGTLSKDELKELLEKEFRPILKNPDD--PDTVDVIMHMLDRDHDR
+RLDFTEFILMIFKLALACN--------------*
+>P1;gi|461678|sp|P80310|S112_PIG Calgranulin C (CAGC) >gi|1082959|pi... [ score 109 E 2e-23 ] [ range 1 .. 86 ]
+sequence
+--TKLEDHLEGIINIFHQYSVR---LGHLIKRELKQLITKELPNTLKNTKD--QGTIDKIFQNLDANQDE
+QVSFKEFVVLVTDVLITAHD-------------*
+>P1;gi|126659|sp|P28318|M126_CHICK Protein MRP-126 [ score 108 E 2e-23 ] [ range 12 .. 98 ]
+sequence
+--SELEKAIDVIIDVFHQYSGD---KDTLTRKELKLLIEKQLANYLKHVKN--QVSIDQIFKDLDNNKDQ
+QLSFGEVMLLIIRVTVATHEH------------*
+>P1;gi|20150229|pdb|1IRJ|A Chain A, Crystal Structure Of The Mrp14 C... [ score 108 E 4e-23 ] [ range 5 .. 91 ]
+sequence
+--SQLERNIETIINTFHQYSVK---LGHLNQGEFKELVRKDLQNFLKKEKN--EKVIEHIMEDLDTNADK
+QLSFEEFIMLMARLTWASHE-------------*
+>P1;gi|45476906|sp|Q86YZ3|HORN_HUMAN Hornerin [ score 107 E 6e-23 ] [ range 3 .. 86 ]
+sequence
+---KLLQGVITVIDVFYQYAGE---YDTLNKAELKELLENEFHQILKNPND--PDTVDIILQSLDRDHNK
+KVDFTEYLLMIFKLVQARN--------------*
+>P1;gi|6755388|ref|NP_035440.1| S100 calcium binding protein A3 [Mus... [ score 107 E 6e-23 ] [ range 4 .. 90 ]
+sequence
+---PLEQAVAAIVCTFQEYAGD---KYKICQSELKELLQKELPTWTPSEFR--ECDYNKFMSVLDTNKDC
+EVDFGEYVRSLASLCLYCHEYF-----------*
+>P1;gi|33357663|pdb|1ODB|A Chain A, The Crystal Structure Of Human S... [ score 107 E 6e-23 ] [ range 5 .. 89 ]
+sequence
+--TKLEEHLEGIVNIFHQYSVR---KGHLSKGELKQLLTKELANTIKNIKD--KAVIDEIFQGLDANQDE
+QVDFQEFISLVAIALKAAH--------------*
+>P1;gi|42656152|ref|XP_375887.1| similar to Calcyclin (Prolactin rec... [ score 107 E 7e-23 ] [ range 64 .. 146 ]
+sequence
+---PLDQAIGLLVAIFHKYSGD---KHTLSKKELKELIQKEL--TIGSKLQ--DAEIARLMEDLDRNKDQ
+EVNFQEYVTFLGALALIYNE-------------*
+>P1;gi|4506763|ref|NP_002951.1| S100 calcium binding protein A3; S10... [ score 106 E 1e-22 ] [ range 4 .. 90 ]
+sequence
+---PLEQAVAAIVCTFQEYAGD---KYKLCQAELKELLQKELATWTPTEFR--ECDYNKFMSVLDTNKDC
+EVDFVEYVRSLACLCLYCHEYF-----------*
+>P1;gi|27807183|ref|NP_777076.1| S100 calcium binding protein A12 (c... [ score 104 E 7e-22 ] [ range 2 .. 86 ]
+sequence
+--TKLEDHLEGIINIFHQYSVR---VGHLNKRELKQLITKELPKTLQNTKD--QPTIDKIFQDLDADKDG
+AVSFEEFVVLVSRVLKTAH--------------*
+>P1;gi|4506767|ref|NP_002953.1| S100 calcium binding protein A5; S10... [ score 103 E 8e-22 ] [ range 21 .. 110 ]
+sequence
+--TPLEKALTTMVTTFHKYSGR---EGTLSRKELKELIKKEL--CLGEMK---ESSIDDLMKSLDKNSDQ
+EIDFKEYSVFLTMLCMAYNDFFLED-----NK-*
+>P1;gi|12314268|emb|CAC13173.1| dJ14N1.2 (novel S-100/ICaBP type cal... [ score 101 E 3e-21 ] [ range 2 .. 86 ]
+sequence
+--TDLLRSVVTVIDVFYKYTGE---CGTLSKGELKELLEKELHPVLKNPDD--PDTVDVIMHMLDRDHDR
+RLDFTEFLLMIFKLTMACN--------------*
+>P1;gi|38076650|ref|XP_143379.2| similar to BEE22=calcium-binding L1... [ score 99 E 1e-20 ] [ range 29 .. 107 ]
+sequence
+--TQMEESMDVIIQIFHKYSGN---PDTLSKKEFKELVNKEMPNFKKEEKD--EKSMNGMMENLDTNKDN
+QLEFNEYVDLIG---------------------*
+>P1;gi|6755390|ref|NP_035442.1| S100 calcium binding protein A5 [Mus... [ score 99 E 1e-20 ] [ range 3 .. 93 ]
+sequence
+--TPLEKALTTMVTTFHKYSGR---EGTLSRKELKELIKTELS--LAEKMK--ESSIDNLMKSLDKNSDQ
+EIDFKEYSVFLTTLCMAYNDFFLED-----NK-*
+>P1;gi|17933772|ref|NP_525127.1| S100 calcium binding protein A16 [H... [ score 98 E 3e-20 ] [ range 6 .. 87 ]
+sequence
+--TELEKAVIVLVENFYKYVSK---KNKISKSSFREMLQKELNHMLSDTGN--RKAADKLIQNLDANHDG
+RISFDEYWTLIGGIT------------------*
+>P1;gi|6094220|sp|O77791|S112_RABIT Calgranulin C (CAGC) >gi|3661597... [ score 98 E 6e-20 ] [ range 1 .. 76 ]
+sequence
+------------INIFHQYSVR---TGHLSKCELKKLITTELVNTIKNTKD--QATVDRIFRDLDEDGDH
+QVDFKEFLSLLASVLVTAHE-------------*
+>P1;gi|34858018|ref|XP_342292.1| similar to RIKEN cDNA 2300002L21 [R... [ score 97 E 8e-20 ] [ range 6 .. 87 ]
+sequence
+--TELEKALVVLVENFYKYVSK---KNKISKSSFRKMLQKELNHMLTDTGN--RKAADKLIQNLDANHDG
+RICFDEYWTMIGGIT------------------*
+>P1;gi|21312760|ref|NP_080692.1| RIKEN cDNA 2300002L21 [Mus musculus... [ score 96 E 2e-19 ] [ range 6 .. 87 ]
+sequence
+--TELEKAVVVLVENFYKYVSK---KNKISKSSFRKMLQRELNHMLTDTGN--RKAADKLIQNLDANHDG
+RICFDEYWTMIGGIT------------------*
+>P1;gi|1173337|sp|P30801|S106_RABIT Calcyclin (Lung 10 kDa protein) ... [ score 94 E 7e-19 ] [ range 3 .. 86 ]
+sequence
+--SPLDQAIGLLIGIFHKYSGD---KHTLSKKELKELIQKEL--TIGSKLQ--DAEIVKLMDDLDRNKDQ
+EVNFQEYITFLGALAMIYNE-------------*
+>P1;gi|45383816|ref|NP_989479.1| S100 calcium binding protein A6 (ca... [ score 94 E 8e-19 ] [ range 3 .. 89 ]
+sequence
+--APLDQAIGLLVATFHKYSGD---KNSLSKGELKELIQKEL-TIGPKLKD---AEIAGLMEDLDRNKDQ
+EVNFQEYVTFLGALAMIYNEALL----------*
+>P1;gi|6755392|ref|NP_035443.1| S100 calcium binding protein A6 (cal... [ score 92 E 2e-18 ] [ range 4 .. 86 ]
+sequence
+---PLDQAIGLLVAIFHKYSGD---KHTLSKKELKELIQKEL--TIGSKLQ--DAEIARLMDDLDRNKDQ
+EVNFQEYVAFLGALALIYNE-------------*
+>P1;gi|6094219|sp|P50117|S109_RABIT Calgranulin B (Migration inhibit... [ score 92 E 3e-18 ] [ range 1 .. 78 ]
+sequence
+-----------IINIFHQYSVR---VGSLSQKEFKQLVQKELHNFLKKERD--EKAINDIMEDLDTNQDK
+QLSFEEFVILMARLVHASHE-------------*
+>P1;gi|6677817|ref|NP_033126.1| repetin [Mus musculus] >gi|2493419|s... [ score 90 E 8e-18 ] [ range 3 .. 86 ]
+sequence
+---QLLNSILNVSKVFQDYAGV---GASLSKKELKQLLLTEFGDILRRPND--PETVETILEHLDRDRNG
+YVDFHEYLLLVFQLVQACH--------------*
+>P1;gi|27692337|ref|XP_227371.1| similar to repetin [Rattus norvegicus] [ score 90 E 1e-17 ] [ range 3 .. 86 ]
+sequence
+---QLLNSILNVNKVFQNYAGA---GASLSKKELKQLLLAEFGDILRRPND--PETVETILEHLDRDRNG
+YVDFHEYLLLVFQLVQACH--------------*
+>P1;gi|6094218|sp|O77691|S106_HORSE Calcyclin >gi|3493135|gb|AAC3329... [ score 89 E 2e-17 ] [ range 4 .. 86 ]
+sequence
+---PLDQAISLLVAIFHKYSGD---KNTLSKGELKELIQKEL--TIGAELE--DSEIAKLLDDLDQNKDQ
+VVNFQEYVTFLGALAMIYNE-------------*
+>P1;gi|1438768|gb|AAB36299.1| cornea-associated antigen, CO-Ag=calgr... [ score 87 E 1e-16 ] [ range 1 .. 70 ]
+sequence
+--TKLEDHLEGIINIFHQYSVR---VGHLNKRELKQLITKELPKTLQNTKD--QPTIDKIFQDLDADKKG
+AVVF-----------------------------*
+>P1;gi|34858177|ref|XP_227373.2| similar to trichohyalin [Rattus nor... [ score 86 E 2e-16 ] [ range 2 .. 85 ]
+sequence
+--SPLIRSIVDITEVFNQYASD---GASLSKRELKNLLERELGDVLQKPHD--PETVDLTLELLDRDCNG
+RVDFNEFLLFLFKIAQAC---------------*
+>P1;gi|23305724|gb|AAN17252.1| profilaggrin [Mus musculus] >gi|23305... [ score 86 E 2e-16 ] [ range 2 .. 97 ]
+sequence
+--SALLESITSMIEIFQQYSTE---EETLSKEELKELLEGQLQAVLKNPDD--QDIAEVFMQMLDVDHDD
+KLDFAEYLLLVLKLAKAYNESFQTH--------*
+>P1;gi|7706635|ref|NP_057274.1| tumor-related protein [Homo sapiens]... [ score 85 E 3e-16 ] [ range 3 .. 85 ]
+sequence
+---QLLQNINGIIEAFRRYAGN---CTALTRGELKRLLEQEFADVIVKPHD--PATVDEVLRLLDEDHTG
+TVEFKEFLVLVFKVAQAC---------------*
+>P1;gi|34880543|ref|XP_344158.1| similar to endothelial monocyte-act... [ score 76 E 2e-13 ] [ range 90 .. 142 ]
+sequence
+---------------FPKYSGK---DGQLSRTEFLSFMSTGLAAFTKNQKD--PGVLDRIMKKLDLNGDS
+---------------------------------*
+>P1;gi|13638435|sp|P50115|S108_RAT Calgranulin A (Migration inhibito... [ score 74 E 6e-13 ] [ range 3 .. 83 ]
+sequence
+--TELEKALSNVIEVYHNYSGI---KGALYRDDFRKMVTTECPQFVQNKNT--ES----LFKELDVNSDN
+AINFEEFLVLVIRVGVAAH--------------*
+>P1;gi|21614544|ref|NP_002955.2| S100 calcium-binding protein A8; cy... [ score 71 E 4e-12 ] [ range 3 .. 83 ]
+sequence
+--TELEKALNSIIDVYHKYSGN---FHAVYRDDLKKLLETECPQYIRK------KGADVWFKELDINTDG
+AVNFQEFLILVIKMGVAAH--------------*
+>P1;gi|34858171|ref|XP_238235.2| similar to profilaggrin [Rattus nor... [ score 70 E 9e-12 ] [ range 2 .. 87 ]
+sequence
+--STLLESITSMIDIFQQYSKE---EETLSKEELKELLEGELQAVLKNPND--QDIAEVFMQMLDVDHDD
+KIDFTEYLLMVLKLAQAYYE-------------*
+>P1;gi|442719|pdb|1CB1|  Calbindin D9k (Intact Form) (Nmr, 13 Struct... [ score 69 E 3e-11 ] [ range 6 .. 78 ]
+sequence
+-PAELKS-------IFEKYAGD---PNQLSKEELKQLIQAEFPSLL---KG--PRTLDDLFQELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|4757898|ref|NP_004048.1| calbindin 3; calbindin 3, (vitamin D... [ score 68 E 7e-11 ] [ range 3 .. 79 ]
+sequence
+----TKKSPEELKRIFEKYAGD---PDQLSKDELKLLIQAEFPSLL---KG--PNTLDDLFQELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|586121|sp|P37709|TRHY_RABIT Trichohyalin >gi|280938|pir||S285... [ score 67 E 7e-11 ] [ range 2 .. 84 ]
+sequence
+--SPLLKSIIDIIEIFNQYASD---GAVLKKKDLKILLDREFGAVLQRPHD--PETVDVMLELLDRDSDG
+LVGFDEFCLLIFKLAQA----------------*
+>P1;gi|28827815|ref|NP_789793.1| S100 calcium binding protein A15 [H... [ score 67 E 9e-11 ] [ range 4 .. 87 ]
+sequence
+--TQAERSIIGMIDMFHKYTGR---DGKIEKPSLLTMMKENFPNFLSACDK--KGILATVFEKKDKNEDK
+KIDFSEFLSLLGDIAADYH--------------*
+>P1;gi|4389153|pdb|1PSR|A Chain A, Human Psoriasin (S100a7) >gi|4389... [ score 65 E 5e-10 ] [ range 3 .. 86 ]
+sequence
+--TQAERSIIGMIDMFHKYTRR---DDKIDKPSLLTMMKENFPNFLSACDK--KGTLADVFEKKDKNEDK
+KIDFSEFLSLLGDIATDYH--------------*
+>P1;gi|29423753|gb|AAO73439.1| calbindin-D9k [Equus caballus] [ score 63 E 1e-09 ] [ range 8 .. 79 ]
+sequence
+---------EELKKIFEKYAGD---PDQLSKEELKLLIQNELPALL---KG--SSSIDDLFKELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|29244010|ref|NP_808292.1| hypothetical protein A430083B19 [Mu... [ score 62 E 3e-09 ] [ range 54 .. 133 ]
+sequence
+--SDLEKAIATIALVFRNASDP---DGKLGKATAKKLLQTQFKKFTEREET--KPKYQDILSELDEHTEN
+KLDFEDFVILLLSLAIM----------------*
+>P1;gi|14789635|gb|AAH10751.1| Calb3 protein [Mus musculus] >gi|2168... [ score 61 E 7e-09 ] [ range 4 .. 71 ]
+sequence
+-----EKSPAEMKSIFQKYAGD---PDQLSKEELKLLIQSEFPSLLKQAS----STLDNLFKELDKNGDG
+EVSYEEF--------------------------*
+>P1;gi|203239|gb|AAA40853.1| intestinal calcium-binding protein [ score 61 E 8e-09 ] [ range 8 .. 80 ]
+sequence
+---------EEMKSIFQKYAGD---PNQLSKEELKLLIQSEFPSLLKQAS----STLDNLFKELDKNGDG
+EVSYEEFEVFFKKLSQ-----------------*
+>P1;gi|21313246|ref|NP_082038.1| RIKEN cDNA 5430400H23 [Mus musculus... [ score 60 E 9e-09 ] [ range 11 .. 81 ]
+sequence
+-----------VVEIFHKYAIE---DGTLTRTELRQLLEGEIGDFLQ-PHV--FHAVERKLNLLNFDRDG
+TISFEEFVLAIFSL-------------------*
+>P1;gi|34858179|ref|XP_227375.2| similar to RIKEN cDNA 5430400H23 [R... [ score 60 E 1e-08 ] [ range 46 .. 125 ]
+sequence
+--SRLLRGIFCVIEIFHKYASE---DGMLTHRELRQLLEGEIGDFLQ-PHV--FHAVERKLNLLHFDRDG
+TISFEEFLLAIFSL-------------------*
+>P1;gi|38090220|ref|XP_356221.1| similar to S100 calcium binding pro... [ score 60 E 2e-08 ] [ range 4 .. 97 ]
+sequence
+--TPVEDSLFQIIHCFHHYAGD---KETLSLEELKALLLDSVPRFMDTRRQ--PYYITELFRAADKNKDN
+QICFDEFLYILGKLVKDYHLQFHRQ-----L--*
+>P1;gi|203216|gb|AAA40843.1| intestinal calcium binding protein (par... [ score 58 E 4e-08 ] [ range 3 .. 69 ]
+sequence
+--------------IFQKYAGD---PNQLSKEELKLLIQSEFPNLLKAS-----STLDNLFEELDKNDDG
+EVSYEEFEVFFKKLSQ-----------------*
+>P1;gi|1384097|dbj|BAA04228.1| macrophage migration inhibitory facto... [ score 58 E 4e-08 ] [ range 2 .. 73 ]
+sequence
+-PTDLENSLNSIIFVYHKCSLE---KGNYQAGDLKKLLATECPQYSKK-KD-----ADSWFKELDINSDG
+ASNFQEFLIL-----------------------*
+>P1;gi|30147721|ref|XP_060104.2| similar to RIKEN cDNA 5430400H23 [H... [ score 58 E 5e-08 ] [ range 3 .. 84 ]
+sequence
+---QLLRNVLCVIETFHKYASE---DATLTGRELKQLIQGEFGDFFQ------PCVLHAVEKNLNIDSNG
+IISFDEFVLAIFNLLNLC---------------*
+>P1;gi|28556890|dbj|BAC57523.1| notochord specific gene 8 protein [C... [ score 55 E 4e-07 ] [ range 14 .. 84 ]
+sequence
+----LEYAASLILRVFQSYDVD---GGTLQRRELRNLLRQCGAKLSSKQ-------CDDIIDQLDTDGDG
+EMNFAEFMAFLGRL-------------------*
+>P1;gi|230884|pdb|3ICB|  Calcium-Binding Protein (Vitamin D-Dependen... [ score 51 E 4e-06 ] [ range 9 .. 75 ]
+sequence
+--------------IFEKYAGD---PNQLSKEELKLLLQTEFPSLL---KG--PSTLDELFEELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|21264374|sp|O88751|CAB1_RAT Calcium-binding protein CaBP1 (Ca... [ score 51 E 9e-06 ] [ range 247 .. 298 ]
+sequence
+-------------------------DGEISTSELREAMRKLLGHQVGHRD------IEEIIRDVDLNGDG
+RVDFEEFVRMMSR--------------------*
+>P1;gi|17443793|ref|XP_060509.1| similar to S100 calcium binding pro... [ score 51 E 9e-06 ] [ range 7 .. 84 ]
+sequence
+-----EKVMLDIVAMFRQYSGD---DGRMDMPGLVNLMKENFPNFLSEKSD--MDYLSNALEKKDDNKDK
+KVNYSEFLSLLGDITI-----------------*
+>P1;gi|13194672|gb|AAK15501.1| calmodulin-like protein [Pennisetum c... [ score 49 E 2e-05 ] [ range 130 .. 185 ]
+sequence
+-------------------------DGYISAAELQAVLKK-LG--LPEARN--LATVQEMICNVDADRDG
+RVDFGEFKNMMQGITV-----------------*
+>P1;gi|37550096|ref|XP_059578.4| similar to hypothetical protein A43... [ score 49 E 3e-05 ] [ range 54 .. 163 ]
+sequence
+--SDLEKAIATTALIFRNSSDS---DGKLEKAIAKDLLQTQFRNFAELPKQ--PEVLREILSELDEHTEN
+KLDFEDFMILLLSITVM----------------*
+>P1;gi|29467539|dbj|BAC66766.1| P0665F09.7 [Oryza sativa (japonica c... [ score 48 E 4e-05 ] [ range 138 .. 193 ]
+sequence
+-------------------------DGFISASELQEVLKK-LG--LPEAGS--LATVREMICNVDRNSDG
+RVDFGEFKSMMQGITV-----------------*
+>P1;gi|33355444|gb|AAQ16147.1| protein phospatase 3 regulatory subun... [ score 48 E 6e-05 ] [ range 103 .. 160 ]
+sequence
+---------------------K---DGYISNGELFQVLKMMVGNNLKDTQL--QQIVDKTIINADRDGDG
+KISFEEFCVVVGGL-------------------*
+>P1;gi|7441472|pir||T07949 calcium binding protein - loblolly pine >... [ score 48 E 7e-05 ] [ range 94 .. 146 ]
+sequence
+-------------DVFRKFDTN---DGKISKS--------ELSAILKCRSS--EEEIDGVMKDVDSNKDG
+FISFDEFV-------------------------*
+>P1;gi|31202427|ref|XP_310162.1| ENSANGP00000025332 [Anopheles gambi... [ score 47 E 1e-04 ] [ range 94 .. 149 ]
+sequence
+-------------ATFSKYVGN---DGYLDLAELKIMMEK-----LGAPQT--HLGLKGMIAEVDEDKDG
+KISFREFL-------------------------*
+>P1;gi|13397927|emb|CAC34625.1| putative calmodulin-related protein ... [ score 47 E 1e-04 ] [ range 7 .. 61 ]
+sequence
+-------------RIFNKFDKN---DGKISRTELKEMMTA-----LGCKTT--TEEVTRMMEELDRNGDG
+YIDLKEF--------------------------*
+>P1;gi|18416872|ref|NP_568281.1| calmodulin-domain protein kinase is... [ score 46 E 1e-04 ] [ range 450 .. 498 ]
+sequence
+--------------------------GYIEIDELREALNDEL----DNTSS--EEVIAAIMQDVDTDKDG
+RISYEEFVAMM----------------------*
+>P1;gi|7705312|ref|NP_057450.1| calcium binding protein 2 isoform 1 ... [ score 46 E 2e-04 ] [ range 169 .. 220 ]
+sequence
+-------------------------DGRISVGELRAALKA----LLGERLS--QREVDEILQDVDLNGDG
+LVDFEEFVRMMSR--------------------*
+>P1;gi|1942334|pdb|1TCO|B Chain B, Ternary Complex Of A Calcineurin ... [ score 45 E 3e-04 ] [ range 102 .. 159 ]
+sequence
+---------------------K---DGYISNGELFQVLKMMVGNNLKDTQL--QQIVDKTIINADKDGDG
+RISFEEFCAVVGGL-------------------*
+>P1;gi|7304941|ref|NP_038906.1| calcium binding protein 2 [Mus muscu... [ score 45 E 3e-04 ] [ range 165 .. 216 ]
+sequence
+-------------------------DGCISVGELRAALKA----LLGERLS--QREVDEILQDIDLNGDG
+LVDFEEFVRMMSR--------------------*
+>P1;gi|42566304|ref|NP_192379.2| calcium-dependent protein kinase, p... [ score 45 E 4e-04 ] [ range 413 .. 468 ]
+sequence
+---------------FQHFDKD---DGHITKEELEMAMKEDGAG------D--EGSIKQIIADADTDNDG
+KINFEEFRTMM----------------------*
+>P1;gi|34860536|ref|XP_235865.2| similar to Calcineurin B subunit is... [ score 45 E 4e-04 ] [ range 102 .. 161 ]
+sequence
+---------------------K---DGYISNGELFQVLKMMAGNNLKGTQL--QQIVNKTIINADKDRDG
+RISFEEFCAVVGGLAI-----------------*
+>P1;gi|44804760|gb|AAS47705.1| calcium-dependent protein kinase 1 [C... [ score 45 E 4e-04 ] [ range 580 .. 632 ]
+sequence
+-------------------------DGRISPQELSRVLNI---TFLQEAFE--QSTIDSLLKEVDINQDG
+YIDFNEFMKMMMG--------------------*
+>P1;gi|27884034|gb|AAO23957.1| HZGJ [Homo sapiens] [ score 45 E 4e-04 ] [ range 166 .. 230 ]
+sequence
+---------------------K---DGYISNGELFQVLKMMVGNNLKDTQL--QQIVDKTIINADKDGDG
+RISFEEFCALFAGLA------------------*
+>P1;gi|1431655|pdb|1BOD|  Calbindin D9k Mutant With Ala 14 Deleted, ... [ score 44 E 6e-04 ] [ range 10 .. 74 ]
+sequence
+--------------IFEKYDKE---DGQLSKEELKLLLQTEFPSLLKGM-----STLDELFEELDKNGDG
+EVSFEEFQVLVKKISQ-----------------*
+>P1;gi|28465377|dbj|BAC57465.1| calcium-dependent protein kinase [Ba... [ score 44 E 8e-04 ] [ range 444 .. 502 ]
+sequence
+---------------FDHFDTD---KGKISKGELAKL-------FGISNVD--DSTWNEIINGVDENNDG
+EVDFEEFEKMIHRIC------------------*
+>P1;gi|27807077|ref|NP_777021.1| S100 calcium-binding protein A7 (ps... [ score 145 E 2e-34 ] [ range 2 .. 101 ]
+sequence
+SSSQLEQAITDLINLFHKYSGS---DDTIEKEDLLRLMKDNFPNFLGACEKRGRDYLSNIFEKQDKNKDR
+KIDFSEFLSLLADIATDYHNHSHGAQLCSGGNQ*
+>P1;gi|399172|sp|P28783|S109_BOVIN Calgranulin B (Neutrophil cytosol... [ score 144 E 6e-34 ] [ range 2 .. 99 ]
+sequence
+--SQMESSIETIINIFHQYSVR---YDTLIQKEFKQLVQKELPNFLKK-QKKNEAAINEIMEDLDTNVDK
+QLSFEEFIMLVARLTVASHEEMHNTAPPGQG--*
+>P1;gi|28827815|ref|NP_789793.1| S100 calcium binding protein A15 [H... [ score 143 E 7e-34 ] [ range 2 .. 101 ]
+sequence
+SNTQAERSIIGMIDMFHKYTGR---DGKIEKPSLLTMMKENFPNFLSACDKKGIHYLATVFEKKDKNEDK
+KIDFSEFLSLLGDIAADYHKQSHGAAPCSGGSQ*
+>P1;gi|34811429|pdb|1NSH|A Chain A, Solution Structure Of Rabbit Apo... [ score 139 E 1e-32 ] [ range 3 .. 97 ]
+sequence
+-PTETERCIESLIAVFQKYAGK---DGTLSKTEFLSFMNTELAAFTK--NQKDPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAVACHESFVKAAPP-----*
+>P1;gi|30584939|gb|AAP36737.1| Homo sapiens S100 calcium binding pro... [ score 135 E 2e-31 ] [ range 6 .. 100 ]
+sequence
+SPTETERCIESLIAVFQKYAGK---DGTLSKTEFLSFMNTELAAFTK--NQKDPGVLDRMMKKLDTNSDG
+QLDFSEFLNLIGGLAMACHDSFLKAVP------*
+>P1;gi|16758364|ref|NP_446039.1| S100 calcium-binding protein A9 (ca... [ score 135 E 2e-31 ] [ range 5 .. 102 ]
+sequence
+TGSQLERSISTIINVFHQYSRK---YDTLNKAEFKEMVNKDLPNFLKR-EKRNENLLRDIMEDLDTNQDN
+QLSFEECMMLMGKLIFACHEKLHENNPRG----*
+>P1;gi|6677837|ref|NP_033140.1| S100 calcium binding protein A9 (cal... [ score 131 E 4e-30 ] [ range 6 .. 104 ]
+sequence
+-PSQMERSITTIIDTFHQYSRK---EDTLSKKEFRQMVEAQLATFMKK-EKRNEALINDIMEDLDTNQDN
+QLSFEECMMLMAKLIFACHEKLHENNPRGHG--*
+>P1;gi|34858021|ref|XP_215598.2| similar to endothelial monocyte-act... [ score 129 E 2e-29 ] [ range 54 .. 145 ]
+sequence
+-PTETERCIESLIAVFQKYSGK---DGNLSKTEFLSFMNTELAAFTK--NQKDPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAIACHESFLQT--------*
+>P1;gi|45384028|ref|NP_990497.1| calgizzarin [Gallus gallus] >gi|282... [ score 126 E 9e-29 ] [ range 5 .. 99 ]
+sequence
+SPTETERCIESLLAVFQRYAGR---EGKLSKKEFRTFMNTELASFTK--NQKDPAVVDRMMKRLDINSDG
+QLDFQEFLNLIGGIAVACHDALL-VQPP-----*
+>P1;gi|17443793|ref|XP_060509.1| similar to S100 calcium binding pro... [ score 125 E 2e-28 ] [ range 7 .. 101 ]
+sequence
+-----EKVMLDIVAMFRQYSGD---DGRMDMPGLVNLMKENFPNFLSGCEKSDMDYLSNALEKKDDNKDK
+KVNYSEFLSLLGDITIDHHKIMHGVAPCSGGSQ*
+>P1;gi|28189775|dbj|BAC56502.1| similar to S100 calcium-binding prot... [ score 125 E 2e-28 ] [ range 6 .. 99 ]
+sequence
+SPTETERCIESLIAVFQKHAGR---DGKLSKAEFLIFMNTELGAFTK--NQKDPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAIACHESFIKSA-------*
+>P1;gi|20150229|pdb|1IRJ|A Chain A, Crystal Structure Of The Mrp14 C... [ score 124 E 4e-28 ] [ range 5 .. 95 ]
+sequence
+--SQLERNIETIINTFHQYSVK---PDTLNQGEFKELVRKDLQNFLKK-ENKNEKVIEHIMEDLDTNADK
+QLSFEEFIMLMARLTWASHEKMHE---------*
+>P1;gi|38083803|ref|XP_357005.1| similar to endothelial monocyte-act... [ score 123 E 1e-27 ] [ range 21 .. 109 ]
+sequence
+-PTETERCIESLIAVFQKYSGK---DGNLSKTEFLSFMNTELAAFTK--NQKDPDVLDRMMKKLDLNCDG
+QLDFQEFLNLIGGLAIACHDSF-----------*
+>P1;gi|38090220|ref|XP_356221.1| similar to S100 calcium binding pro... [ score 122 E 2e-27 ] [ range 3 .. 94 ]
+sequence
+-DTPVEDSLFQIIHCFHHYAAR---EGTLSLEELKALLLDSVPRFMDTLGRRQPYYITELFRAADKNKDN
+QICFDEFLYILGKLVKDYHLQFH----------*
+>P1;gi|27681837|ref|XP_225088.1| similar to endothelial monocyte-act... [ score 121 E 3e-27 ] [ range 49 .. 138 ]
+sequence
+---ETERCMESLIAVFQKYTGK---DGNFYKTEFLSFMNTELAAFTK--NQKDPGVLDRMMKKLDLNSDG
+QLDFQEFLNLIGGLAIACHESFLQT--------*
+>P1;gi|38076650|ref|XP_143379.2| similar to BEE22=calcium-binding L1... [ score 121 E 4e-27 ] [ range 28 .. 124 ]
+sequence
+-STQMEESMDVIIQIFHKYSGN---PDTLSKKEFKELVNKEMPNSFKK-EEKDEKSMNGMMENLDTNKDN
+QLEFNEYVDLIGNKLKTIHKESHKKASPS----*
+>P1;gi|7388240|sp|O60417|S11P_HUMAN Putative S100 calcium-binding pr... [ score 119 E 2e-26 ] [ range 6 .. 99 ]
+sequence
+SPTETERCIESLIAVFQKYAGK---DGNLSKTEFLSFMNTELAAFTK--NQKDPGVLDH-MKKLDVSSDG
+QLDFPKFLNLIGGLAVACHDSFLKAVP------*
+>P1;gi|25023967|ref|XP_204772.1| similar to endothelial monocyte-act... [ score 118 E 2e-26 ] [ range 2 .. 93 ]
+sequence
+-PTEMERCIESLIAVLQKYSGK---DGNLSKTEFLSFMNTELAAFTK--NQKDPGVLDRMMKKLDLNCDG
+QLDFQDFLNLIGGLATACHDSFLRT--------*
+>P1;gi|13431875|sp|Q9UDP3|S11Y_HUMAN Putative S100 calcium-binding p... [ score 117 E 4e-26 ] [ range 6 .. 99 ]
+sequence
+SPTETVRCIQSLIAVFQKYAGK---DGNLSKTEFLSFMNTELAAFTK--NQKDPGVLDR-MKKLDVSSDG
+QLDFPKFLNLIGGLAVACHDSFLKAVP------*
+>P1;gi|6094219|sp|P50117|S109_RABIT Calgranulin B (Migration inhibit... [ score 117 E 7e-26 ] [ range 1 .. 85 ]
+sequence
+-----------IINIFHQYSVR---RDSLSQKEFKQLVQKELHNFLKK-EARDEKAINDIMEDLDTNQDK
+QLSFEEFVILMARLVHASHEEMHKNAP------*
+>P1;gi|399178|sp|P31950|S111_PIG Calgizzarin (S100C protein) >gi|108... [ score 117 E 7e-26 ] [ range 5 .. 95 ]
+sequence
+-PTETERCIESLIAIFQKHAGR---DGKISKTEFLIFMNTELAAFTQ--NQKDPGVLDRMMKKLDLDSDG
+QLDFQEFLNLIGGLAIACHDSFIK---------*
+>P1;gi|33357663|pdb|1ODB|A Chain A, The Crystal Structure Of Human S... [ score 114 E 5e-25 ] [ range 4 .. 94 ]
+sequence
+-STKLEEHLEGIVNIFHQYSVR---KDTLSKGELKQLLTKELANTIKNIKDK--AVIDEIFQGLDANQDE
+QVDFQEFISLVAIALKAAHYHTHK---------*
+>P1;gi|461678|sp|P80310|S112_PIG Calgranulin C (CAGC) >gi|1082959|pi... [ score 112 E 2e-24 ] [ range 1 .. 90 ]
+sequence
+--TKLEDHLEGIINIFHQYSVR---YDTLIKRELKQLITKELPNTLKNT--KDQGTIDKIFQNLDANQDE
+QVSFKEFVVLVTDVLITAHDNIHK---------*
+>P1;gi|42657928|ref|XP_377928.1| similar to Calgizzarin (S100C prote... [ score 110 E 6e-24 ] [ range 26 .. 113 ]
+sequence
+-------SIESLISLFQKYVGK---GGTLSKTEFLSFMNAELAAFTK--NQKDPGVLHRMMKKLGTNNDG
+QLDFSEFLNLIGGLAMACHDSFLKAVP------*
+>P1;gi|27660232|ref|XP_218979.1| similar to endothelial monocyte-act... [ score 109 E 2e-23 ] [ range 65 .. 153 ]
+sequence
+-----ERCMESLIAVFQKYSGK---DGNFSKTEFLSFMNTELAAFRKK--QKDPGVLECMMKTQDLNSDG
+QLDFQEFLNLTGSLAIVCHESFLQTS-------*
+>P1;gi|27665102|ref|XP_222160.1| similar to endothelial monocyte-act... [ score 105 E 2e-22 ] [ range 34 .. 124 ]
+sequence
+-PTETERCIEFLLAVFQMHCGK---SRQLSKTEFLPFMNTEMAPFTKNP--KDPGVLDRGMKQLDRNSDG
+RLDFQEFLNLIGGLAMACHESFLG---------*
+>P1;gi|3386482|gb|AAC28367.1| S100-like calcium binding protein [Sal... [ score 101 E 4e-21 ] [ range 2 .. 86 ]
+sequence
+-PSQLESSMESLITVFHRYADK---DGTLSKKELKELMQTELASFLKS--QKDPAAIDTIMKDLDQNGDG
+KVSFEEFVSLVVGLSIAC---------------*
+>P1;gi|27807183|ref|NP_777076.1| S100 calcium binding protein A12 (c... [ score 99 E 2e-20 ] [ range 2 .. 91 ]
+sequence
+--TKLEDHLEGIINIFHQYSVR---FDTLNKRELKQLITKELPKTLQNT--KDQPTIDKIFQDLDADKDG
+AVSFEEFVVLVSRVLKTAHIDIHK---------*
+>P1;gi|126659|sp|P28318|M126_CHICK Protein MRP-126 [ score 94 E 8e-19 ] [ range 12 .. 100 ]
+sequence
+--SELEKAIDVIIDVFHQYSRR---EDTLTRKELKLLIEKQLANYLKHV--KNQVSIDQIFKDLDNNKDQ
+QLSFGEVMLLIIRVTVATHEHLH----------*
+>P1;gi|38076664|ref|XP_356757.1| similar to endothelial monocyte-act... [ score 93 E 1e-18 ] [ range 2 .. 90 ]
+sequence
+-PTETERCIESPIAVFQKCSRK---EEKLSKTESLSFMNIEMATTMNK--QKDPGALDQMMKKLNLNRDW
+QLDFQEFLNLIDGLAIAWHEFF-----------*
+>P1;gi|5174663|ref|NP_005971.1| S100 calcium binding protein P [Homo... [ score 91 E 6e-18 ] [ range 2 .. 92 ]
+sequence
+--TELETAMGMIIDVFSRYSGS---EGTLTKGELKVLMEKELPGFLQSGKDKD--AVDKLLKDLDANGDA
+QVDFSEFIVFVAAITSACHKYFEKA--------*
+>P1;gi|30584159|gb|AAP36328.1| Homo sapiens S100 calcium binding pro... [ score 90 E 9e-18 ] [ range 2 .. 93 ]
+sequence
+-GSELETAMETLINVFHAHSGK---EGKLSKKELKELLQTELSGFLDA--QKDVDAVDKVMKELDENGDG
+EVDFQEYVVLVAALTVACNNFFWEN--------*
+>P1;gi|7512190|pir||JE0330 26-kDa Ca2+-binding protein, p26olf - bul... [ score 90 E 9e-18 ] [ range 9 .. 107 ] [ duplicate a ]
+sequence
+-PTEMERSMEKIITVFQRYAGK---EGSMNFKEFEQFMNAELGSFTK--NQKDPAILRKIMKGVDGKQDG
+ELDFQEFLNLIGGMMVACHEALMKCPP------*
+>P1;gi|7512190|pir||JE0330 26-kDa Ca2+-binding protein, p26olf - bul... [ score 90 E 9e-18 ] [ range 118 .. 207 ] [ duplicate b ]
+sequence
+-PTDMETAMESIVRIYQHYAGK---KDQMDYTEFEAFMKAELNSFT--ANQKDPNIVRRLMESVDGSQDK
+MMNFQEFMNLIGGIMVACH--------------*
+>P1;gi|27686759|ref|XP_226710.1| similar to S100Z protein [Rattus no... [ score 90 E 1e-17 ] [ range 2 .. 92 ]
+sequence
+-PTQLEMAMETMIRIFHRYSCK---EGKLNKGELKMLLQRELTEFLTC--QKDPQLVDKIMQDLDANKDN
+EVDFNEFVVMVAALTVACNDYFVE---------*
+>P1;gi|20150644|pdb|1K2H|A Chain A, Three-Dimensional Solution Struc... [ score 89 E 2e-17 ] [ range 1 .. 92 ]
+sequence
+-GSELETAMETLINVFHAHSGK---EGKLSKKELKDLLQTELSSFLDV--QKDADAVDKIMKELDENGDG
+EVDFQEFVVLVAALTVACNNFFWEN--------*
+>P1;gi|6094220|sp|O77791|S112_RABIT Calgranulin C (CAGC) >gi|3661597... [ score 89 E 2e-17 ] [ range 1 .. 80 ]
+sequence
+------------INIFHQYSVR---YDTLSKCELKKLITTELVNTIKNT--KDQATVDRIFRDLDEDGDH
+QVDFKEFLSLLASVLVTAHENIHK---------*
+>P1;gi|116488|sp|P04163|S110_PIG Calpactin I light chain (P10 protei... [ score 87 E 6e-17 ] [ range 1 .. 86 ]
+sequence
+-PSQMEHAMETMMFTFHKFAGD---KGYLTKEDLRVLMEKEFPGFLE--NQKDPLAVDKIMKDLDQCRDG
+KVGFQSFFSLIAGLTIACNDYF-----------*
+>P1;gi|479986|pir||S35985 S-100 protein alpha chain - weatherfish >g... [ score 87 E 6e-17 ] [ range 2 .. 89 ]
+sequence
+--SQLESAMESLIKVFHTYSSK---EGKLSKAELKSLLQGELNDFLSAS--KDPMVVEKIMSDLDENQDG
+EVDFQEFVVLVAALTVACNEFF-----------*
+>P1;gi|6755386|ref|NP_035439.1| S100 calcium binding protein A1 [Mus... [ score 86 E 1e-16 ] [ range 2 .. 90 ]
+sequence
+-GSELESAMETLINVFHAHSGK---EGKLSKKELKDLLQTELSGFLDV--QKDADAVDKVMKELDENGDG
+EVDFKEYVVLVAALTVACNNFF-----------*
+>P1;gi|24637029|gb|AAN63527.1| S-100 calcium-binding protein A1 [Squ... [ score 83 E 1e-15 ] [ range 2 .. 89 ]
+sequence
+--TELESAMAGIIGVFRKYSGK---EGSLSNNEMVDLLKAELPNFLKS--QKDKAAVDKIMKDLDRNKDG
+ELDFQEFVVLIAALAAACNDFF-----------*
+>P1;gi|8318583|gb|AAB20539.2| S100 alpha [Rattus sp.] [ score 82 E 4e-15 ] [ range 1 .. 83 ]
+sequence
+----------TLIHVFHAHSGK---EGKLSKKELKDLLQTELSSFLDV--QKDADAVDRIMKELDENGDG
+EVDFQEFVVLVAALTVACNNFFWEN--------*
+>P1;gi|42656152|ref|XP_375887.1| similar to Calcyclin (Prolactin rec... [ score 81 E 4e-15 ] [ range 64 .. 150 ]
+sequence
+---PLDQAIGLLVAIFHKYSGR---EGTLSKKELKELIQKEL----TIGSKLQDAEIARLMEDLDRNKDQ
+EVNFQEYVTFLGALALIYNEALKG---------*
+>P1;gi|4139958|pdb|1MHO|  The 2.0 A Structure Of Holo S100b From Bov... [ score 79 E 2e-14 ] [ range 1 .. 88 ]
+sequence
+--SELEKAVVALIDVFHQYSGR---EGKLKKSELKELINNELSHFLEEIKEQE--VVDKVMETLDSDGDG
+ECDFQEFMAFVAMITTACHEFF-----------*
+>P1;gi|33859624|ref|NP_035441.1| S100 calcium binding protein A4; S1... [ score 79 E 2e-14 ] [ range 4 .. 92 ]
+sequence
+---PLEEALDVIVSTFHKYSGK---EGKLNKTELKELLTRELPSFLGK--RTDEAAFQKVMSNLDSNRDN
+EVDFQEYCVFLSCIAMMCNEFFEG---------*
+>P1;gi|134140|sp|P10462|S102_BOVIN S100 calcium-binding protein A2 (... [ score 79 E 2e-14 ] [ range 2 .. 92 ]
+sequence
+-SSPLEQALAVMVATFHKYSGQ---EGKLSKGEMKELLHKELPSFVG--EKVDEEGLKKLMGDLDENSDQ
+QVDFQEYAVFLALITIMCNDFFQG---------*
+>P1;gi|37927363|gb|AAP69564.1| ictacalcin [Danio rerio] [ score 79 E 2e-14 ] [ range 4 .. 94 ]
+sequence
+--SDTQKAMAMLIATFHKYSGK---EGTLSKGELKELLSAELGDIFGKTTDK--AALDKIFKDLDANADG
+SVDFQEYITLIACITMLCNEFFTGK--------*
+>P1;gi|30584687|gb|AAP36596.1| Homo sapiens S100 calcium binding pro... [ score 78 E 5e-14 ] [ range 2 .. 89 ]
+sequence
+--SELEKAMVALIDVFHQYSGR---EGKLKKSELKELINNELSHFLEEIKEQE--VVDKVMETLDNDGDG
+ECDFQEFMAFVAMVTTACHEFF-----------*
+>P1;gi|6981326|ref|NP_036750.1| S100 calcium-binding protein A4; Pro... [ score 77 E 1e-13 ] [ range 4 .. 92 ]
+sequence
+---PLEEALDVIVSTFHKYSGN---EGKLNKTELKELLTRELPSFLGR--RTDEAAFQKLMNNLDSNRDN
+EVDFQEYCVFLSCIAMMCNEFFEG---------*
+>P1;gi|4506765|ref|NP_002952.1| S100 calcium-binding protein A4; S10... [ score 76 E 2e-13 ] [ range 4 .. 92 ]
+sequence
+---PLEKALDVMVSTFHKYSGK---EGKLNKSELKELLTRELPSFLGK--RTDEAAFQKLMSNLDSNRDN
+EVDFQEYCVFLSCIAMMCNEFFEG---------*
+>P1;gi|1363053|pir||A53217 placental calcium-binding protein homolog... [ score 76 E 3e-13 ] [ range 3 .. 91 ]
+sequence
+---PLEKALDVMVSTFHKYSGK---EGKLNKSELKELLTRELPSFLGK--RTDETAFQKLMSNLDCNKDN
+EVDFQEYCVFLSCIAMMCNEFFEG---------*
+>P1;gi|33469037|ref|NP_598459.1| hornerin [Mus musculus] >gi|4547696... [ score 75 E 4e-13 ] [ range 3 .. 91 ]
+sequence
+---KLLESIVTVIDVFYQYATE---YDMLSKEEMKELLVTEFHQILKNPD--DPDTVDIIMQNLDRDHNH
+KVDFTEYLLMILKLTKACNKIIGK---------*
+>P1;gi|4506767|ref|NP_002953.1| S100 calcium binding protein A5; S10... [ score 74 E 6e-13 ] [ range 21 .. 109 ]
+sequence
+--TPLEKALTTMVTTFHKYSGR---EGTLSRKELKELIKKEL-----CLGEMKESSIDDLMKSLDKNSDQ
+EIDFKEYSVFLTMLCMAYNDFFLEDN-------*
+>P1;gi|34858169|ref|XP_227368.2| similar to dJ14N1.2 (novel S-100/IC... [ score 74 E 1e-12 ] [ range 61 .. 146 ]
+sequence
+--TYLLRSVVTIIDIFYKYTKQ---DGTLSKNELKELLEKEFRPILKNPD--DPDTVDVIMHMLDRDHDR
+RLDFTEFILMVFKLALACNK-------------*
+>P1;gi|284395|pir||A41988 S-100 calcium-binding protein A2 - human [ score 73 E 1e-12 ] [ range 4 .. 93 ]
+sequence
+--SSLEQALAVLVTTFHKYSCQ---EGKLSKGEMKELLHKELPSFVG--EKVDEEGLKKLMGNLDENSDQ
+QVDFQEYAVFLALITVMCNDFFQG---------*
+>P1;gi|1438768|gb|AAB36299.1| cornea-associated antigen, CO-Ag=calgr... [ score 72 E 2e-12 ] [ range 1 .. 70 ]
+sequence
+--TKLEDHLEGIINIFHQYSVR---FDTLNKRELKQLITKELPKTLQNT--KDQPTIDKIFQDLDADKKG
+AVVF-----------------------------*
+>P1;gi|5738962|dbj|BAA83419.1| metastasin [Canis familiaris] [ score 72 E 2e-12 ] [ range 4 .. 92 ]
+sequence
+---PLEKALDVMVSTFHKYSGK---EGKLNRSELKELLMRELPSFLGK--RTDEAAFQKLMSNLDSNRDN
+EVDFQEYCVFLSCVAMMCNEFFEG---------*
+>P1;gi|1200246|emb|CAA61204.1| MRP8 protein [Mus musculus] [ score 72 E 3e-12 ] [ range 2 .. 88 ]
+sequence
+-PSELEKALSNLIDVYHNYSGN---HHALYKNDFKKMVTTECPQFVQNIN------IENLFRDLDINSDN
+AINFEEFLAMVIKVGVASHKDSHK---------*
+>P1;gi|6755390|ref|NP_035442.1| S100 calcium binding protein A5 [Mus... [ score 72 E 3e-12 ] [ range 3 .. 92 ]
+sequence
+--TPLEKALTTMVTTFHKYSGR---EGTLSRKELKELIKTEL----SLAEKMKESSIDNLMKSLDKNSDQ
+EIDFKEYSVFLTTLCMAYNDFFLEDN-------*
+>P1;gi|2493418|sp|Q91061|S10I_ICTPU Ictacalcin >gi|1144386|gb|AAB526... [ score 72 E 3e-12 ] [ range 2 .. 92 ]
+sequence
+--SDLQKGMALLISTFHKYSGK---EGTLTKGELKDLLTKELGGAFGNC--SDQATLDKIFKDLDTNADG
+VVDFQEYATMVACTTMLCNKSLSKK--------*
+>P1;gi|38076711|ref|XP_143396.2| similar to dJ14N1.2 (novel S-100/IC... [ score 71 E 6e-12 ] [ range 6 .. 87 ]
+sequence
+------RSVVTIIDVFYKYTKQ---DGTLSKDELKELLEKEFRPILKNPD--DPDTVDVIMHMLDRDHDR
+RLDFTEFILMIFKLALACNK-------------*
+>P1;gi|27692712|ref|XP_215607.1| similar to 8KDa amlexanox-binding p... [ score 71 E 7e-12 ] [ range 6 .. 90 ]
+sequence
+-PTELESAIETVVTTFFTFAGR---EGRLSTNEFKELVTQQLPHLL-----KDVGSLDEKMKSLDVNQDS
+ELKFNEYWRLIGELAKEIRKE------------*
+>P1;gi|116511|sp|P05964|S106_RAT Calcyclin (Prolactin receptor assoc... [ score 71 E 9e-12 ] [ range 4 .. 90 ]
+sequence
+---PLDQAIGLLVAIFHKYSGK---EGTLSKKELKELIQKEL----TIGAKLQDAEIARLMDDLDRNKDQ
+EVNFQEYVAFLGALALIYNEALKG---------*
+>P1;gi|49753|emb|CAA36521.1| unnamed protein product [Mus musculus] [ score 70 E 9e-12 ] [ range 4 .. 86 ]
+sequence
+---PLDQAIGLLVAIFHKYSGK---EGTLSKKELKELIQKEL-TIGSKLQDRE---IARLMDDLDRNKDQ
+EVNFQEYVAFLGALALIYNE-------------*
+>P1;gi|13638435|sp|P50115|S108_RAT Calgranulin A (Migration inhibito... [ score 68 E 3e-11 ] [ range 3 .. 88 ]
+sequence
+--TELEKALSNVIEVYHNYSGI---KGNLYRDDFRKMVTTECPQFV---QNKNTESL---FKELDVNSDN
+AINFEEFLVLVIRVGVAAHKDSHK---------*
+>P1;gi|1173337|sp|P30801|S106_RABIT Calcyclin (Lung 10 kDa protein) ... [ score 68 E 4e-11 ] [ range 3 .. 90 ]
+sequence
+--SPLDQAIGLLIGIFHKYSGK---EGTLSKKELKELIQKEL----TIGSKLQDAEIVKLMDDLDRNKDQ
+EVNFQEYITFLGALAMIYNEALKG---------*
+>P1;gi|45383816|ref|NP_989479.1| S100 calcium binding protein A6 (ca... [ score 68 E 4e-11 ] [ range 4 .. 86 ]
+sequence
+---PLDQAIGLLVATFHKYSGK---EGSLSKGELKELIQKEL---TIGPKLKD-AEIAGLMEDLDRNKDQ
+EVNFQEYVTFLGALAMIYNE-------------*
+>P1;gi|34858173|ref|XP_227369.2| similar to hornerin [Rattus norvegi... [ score 67 E 6e-11 ] [ range 8 .. 91 ]
+sequence
+--------IVTVIDVFYNYATE---YDMLSKKEMKELLETEFRQILKNPD--DPDTVDIIMQSLDRDHNH
+KVDFTEYLIMILRLAKACNKIIGK---------*
+>P1;gi|41117410|ref|XP_371380.1| similar to S100 calcium-binding pro... [ score 67 E 7e-11 ] [ range 7 .. 85 ]
+sequence
+--TELEESIETVVTTFFTFAGR---KDSLSVNEFKELVTQQLPHLL-----KDVGSLDEKMKSLDVNQDS
+ELKFNEYWRLIGELAK-----------------*
+>P1;gi|45430025|ref|NP_991369.1| 8KDa amlexanox-binding protein [Bos... [ score 66 E 2e-10 ] [ range 7 .. 90 ]
+sequence
+--TELEAAIETVVTTFFTFAGR---EGRLSVNEFKELVTQQLPHLL-----KDVGSLDEKMKSFDVNQDS
+ELKFSEYWRLIGELAKEIRKE------------*
+>P1;gi|21614544|ref|NP_002955.2| S100 calcium-binding protein A8; cy... [ score 65 E 3e-10 ] [ range 3 .. 88 ]
+sequence
+--TELEKALNSIIDVYHKYSLI---KGNFHRDDLKKLLETECPQYIR---KKGADVW---FKELDINTDG
+AVNFQEFLILVIKMGVAAHKKSHE---------*
+>P1;gi|6677835|ref|NP_033139.1| S100 calcium binding protein A13; S1... [ score 65 E 3e-10 ] [ range 7 .. 90 ]
+sequence
+--TELEAAIETVVSTFFTFAGR---EGRLNINEFKELATQQLPHLL-----KDVGSLDEKMKTLDVNQDS
+ELRFSEYWRLIGELAKEVRKE------------*
+>P1;gi|6094218|sp|O77691|S106_HORSE Calcyclin >gi|3493135|gb|AAC3329... [ score 64 E 6e-10 ] [ range 4 .. 86 ]
+sequence
+---PLDQAISLLVAIFHKYSSR---EGTLSKGELKELIQKEL--TIGAELEDSE--IAKLLDDLDQNKDQ
+VVNFQEYVTFLGALAMIYNE-------------*
+>P1;gi|20750113|gb|AAM23016.1| filaggrin [Mus musculus] [ score 63 E 1e-09 ] [ range 6 .. 99 ]
+sequence
+------ESITSMIEIFQQYSTS---DETLSKEELKELLEGQLQAVLKNPDDQDIAEV--FMQMLDVDHDD
+KLDFAEYLLLVLKLAKAYYEASKNESFQTHGS-*
+>P1;gi|4506763|ref|NP_002951.1| S100 calcium binding protein A3; S10... [ score 63 E 2e-09 ] [ range 4 .. 101 ]
+sequence
+---PLEQAVAAIVCTFQEYAGR---CGKLCQAELKELLQKELATWT-PTEFRECDY-NKFMSVLDTNKDC
+EVDFVEYVRSLACLCLYCHEYFKDEPPCSQ---*
+>P1;gi|21410806|gb|AAH30807.1| Tumor-related protein [Homo sapiens] [ score 63 E 2e-09 ] [ range 3 .. 100 ]
+sequence
+---QLLQNINGIIEAFRRYART---EGNLTRGELKRLLEQEFADVIVKPH--DPATVDEVLRLLDEDHTG
+TVEFKEFLVLVFKVAQACFKTLSESAEGACGSQ*
+>P1;gi|34880543|ref|XP_344158.1| similar to endothelial monocyte-act... [ score 62 E 3e-09 ] [ range 89 .. 141 ]
+sequence
+--------------CFPKYSGK---DGQLSRTEFLSFMSTGLAAFTK--NQKDPGVLDRIMKKLDLNGD-
+---------------------------------*
+>P1;gi|6755388|ref|NP_035440.1| S100 calcium binding protein A3 [Mus... [ score 61 E 4e-09 ] [ range 4 .. 90 ]
+sequence
+---PLEQAVAAIVCTFQEYAGR---CGKICQSELKELLQKELPTWT-PSEFRECDY-NKFMSVLDTNKDC
+EVDFGEYVRSLASLCLYCHEYF-----------*
+>P1;gi|17933772|ref|NP_525127.1| S100 calcium binding protein A16 [H... [ score 61 E 6e-09 ] [ range 6 .. 96 ]
+sequence
+--TELEKAVIVLVENFYKYVSK---YSKISKSSFREMLQKELNHMLSDTGNR--KAADKLIQNLDANHDG
+RISFDEYWTLIGGITGPIAKLIHE---------*
+>P1;gi|442719|pdb|1CB1|  Calbindin D9k (Intact Form) (Nmr, 13 Struct... [ score 61 E 6e-09 ] [ range 12 .. 76 ]
+sequence
+--------------IFEKYAAK---EGQLSKEELKQLIQAEFPSLL-----KGPRTLDDLFQELDKNGDG
+EVSFEEFQVLVKKI-------------------*
+>P1;gi|41106697|ref|XP_371312.1| hypothetical protein FLJ39117 [Homo... [ score 60 E 1e-08 ] [ range 3 .. 100 ]
+sequence
+---QLLNSILSVIDVFHKYAGD---CALLCKEELKQLLLAEFGDILQRPN--DPETVETILNLLDQDRDG
+HIDFHEYLLLVFQLVQACYHKLDNKSHGGRTSQ*
+>P1;gi|41106711|ref|XP_371313.1| similar to dJ14N1.2 (novel S-100/IC... [ score 60 E 2e-08 ] [ range 2 .. 91 ]
+sequence
+--TDLLRSVVTVIDVFYKYTKQ---DGTLSKGELKELLEKELHPVLKNPD--DPDTVDVIMHMLDRDHDR
+RLDFTEFLLMIFKLTMACNKVLSK---------*
+>P1;gi|42655727|ref|XP_048104.4| filaggrin [Homo sapiens] [ score 57 E 7e-08 ] [ range 2 .. 98 ]
+sequence
+-STLLE-NIFAIINLFKQYSKK---DDTLSKKELKELLEKEFRQILKNPD--DPDMVDVFMDHLDIDHNK
+KIDFTEFLLMVFKLAQAYYESTRKENLPISG--*
+>P1;gi|34858018|ref|XP_342292.1| similar to RIKEN cDNA 2300002L21 [R... [ score 57 E 8e-08 ] [ range 6 .. 87 ]
+sequence
+--TELEKALVVLVENFYKYSLV---KNKISKSSFRKMLQKELNHMLTDTGNR--KAADKLIQNLDANHDG
+RICFDEYWTMIGGIT------------------*
+>P1;gi|586122|sp|P22793|TRHY_SHEEP Trichohyalin >gi|423321|pir||A406... [ score 56 E 2e-07 ] [ range 2 .. 87 ]
+sequence
+--SPLLRSIFNITKIFNQYASH---DTTLSKKDLKNLLEREFGEILRKPH--DPETVDLVLELQDRDRDG
+LIDFHEFLAIVFKVAAACYY-------------*
+>P1;gi|21312760|ref|NP_080692.1| RIKEN cDNA 2300002L21 [Mus musculus... [ score 56 E 2e-07 ] [ range 6 .. 87 ]
+sequence
+--TELEKAVVVLVENFYKYSLV---KNKISKSSFRKMLQRELNHMLTDTGNR--KAADKLIQNLDANHDG
+RICFDEYWTMIGGIT------------------*
+>P1;gi|14789635|gb|AAH10751.1| Calb3 protein [Mus musculus] >gi|2168... [ score 55 E 4e-07 ] [ range 3 .. 71 ]
+sequence
+----AEKSPAEMKSIFQKYAAK---EDQLSKEELKLLIQSEFPSLLK----QASSTLDNLFKELDKNGDG
+EVSYEEF--------------------------*
+>P1;gi|34858177|ref|XP_227373.2| similar to trichohyalin [Rattus nor... [ score 54 E 5e-07 ] [ range 2 .. 93 ]
+sequence
+--SPLIRSIVDITEVFNQYSCD---GASLSKRELKNLLERELGDVLQKPH--DPETVDLTLELLDRDCNG
+RVDFNEFLLFLFKIAQACYYALDQAA-------*
+>P1;gi|203216|gb|AAA40843.1| intestinal calcium binding protein (par... [ score 54 E 6e-07 ] [ range 3 .. 60 ]
+sequence
+--------------IFQKYAAK---EGQLSKEELKLLIQSEFPNLLKAS-----STLDNLFEELDKNDDG
+EVSYEEF--------------------------*
+>P1;gi|34858171|ref|XP_238235.2| similar to profilaggrin [Rattus nor... [ score 54 E 7e-07 ] [ range 2 .. 91 ]
+sequence
+-STLLE-SITSMIDIFQQYSNN---DETLSKEELKELLEGELQAVLKNPNDQDIAEV--FMQMLDVDHDD
+KIDFTEYLLMVLKLAQAYYETSKK---------*
+>P1;gi|6677817|ref|NP_033126.1| repetin [Mus musculus] >gi|2493419|s... [ score 53 E 1e-06 ] [ range 3 .. 89 ]
+sequence
+---QLLNSILNVSKVFQDYAEY---HGSLSKKELKQLLLTEFGDILRRPN--DPETVETILEHLDRDRNG
+YVDFHEYLLLVFQLVQACHHKL-----------*
+>P1;gi|203239|gb|AAA40853.1| intestinal calcium-binding protein [ score 53 E 2e-06 ] [ range 3 .. 71 ]
+sequence
+----AKKSPEEMKSIFQKYAAK---EGQLSKEELKLLIQSEFPSLLK----QASSTLDNLFKELDKNGDG
+EVSYEEF--------------------------*
+>P1;gi|34858167|ref|XP_227367.2| similar to tumor-related protein [R... [ score 52 E 3e-06 ] [ range 3 .. 91 ]
+sequence
+---QLLRNIHGIIEAFGCYARS---EGVLTKQELKRLLEYEFADVIVKPH--DPATVDEVLHLLDEDNTG
+TVEFKEFLVLVFKVARACFKTLNE---------*
+>P1;gi|27692337|ref|XP_227371.1| similar to repetin [Rattus norvegicus] [ score 52 E 3e-06 ] [ range 3 .. 89 ]
+sequence
+---QLLNSILNVNKVFQNYAEH---HGSLSKKELKQLLLAEFGDILRRPN--DPETVETILEHLDRDRNG
+YVDFHEYLLLVFQLVQACHHKL-----------*
+>P1;gi|29244010|ref|NP_808292.1| hypothetical protein A430083B19 [Mu... [ score 52 E 4e-06 ] [ range 53 .. 132 ]
+sequence
+-GSDLEKAIATIALVFRNASDP---DGKLGKATAKKLLQTQFKKFTEREETK-PKY-QDILSELDEHTEN
+KLDFEDFVILLLSLAI-----------------*
+>P1;gi|34395852|sp|Q9D2Q8|S114_MOUSE S100 calcium-binding protein A1... [ score 51 E 6e-06 ] [ range 16 .. 93 ]
+sequence
+--SDVERAIETLIKNFHKYSGK---KETLTPAELRDLVTQQLPHLMSNCG------LEEKIANLGNCNDS
+KLEFGSFWELIGEAAK-----------------*
+>P1;gi|477115|pir||A48118 major epidermal calcium-binding protein pr... [ score 51 E 6e-06 ] [ range 7 .. 99 ]
+sequence
+--------IFAIINLFNEYSKK---DDTLSKKELKELLEKEFRQILKNPD--DPDMVDVFMDHLDIDHNK
+KIDFTEFLLMVFKLAQAYYESTRKENLPISGHQ*
+>P1;gi|23943906|ref|NP_009044.1| trichohyalin [Homo sapiens] >gi|586... [ score 51 E 6e-06 ] [ range 2 .. 87 ]
+sequence
+--SPLLRSICDITEIFNQYVSH---DAALTKKDLKNLLEREFGAVLRRPH--DPKTVDLILELLDRDSNG
+RVDFNEFLLFIFKVAQACYY-------------*
+>P1;gi|38076703|ref|XP_355410.1| similar to tumor-related protein [M... [ score 50 E 9e-06 ] [ range 3 .. 91 ]
+sequence
+---QLLQNIHGIIEAFGCYARS---EGVLTRQELKRLLEHEFADVIVKPH--DPATVDEVLRLLDEDNTG
+TVEFKEFLVLVFKVARACFKTLNE---------*
+>P1;gi|28556890|dbj|BAC57523.1| notochord specific gene 8 protein [C... [ score 48 E 5e-05 ] [ range 6 .. 94 ]
+sequence
+TSTNTELNLELILRVFQSYDVD---NGTLQRRELRNL--------LRQCGAKSSKQCDDIIDQLDTDGDG
+EMNFAEFMAFLGRL---YQLQFFGSDP------*
+>P1;gi|27806285|ref|NP_776682.1| calbindin 3, (vitamin D-dependent c... [ score 47 E 7e-05 ] [ range 3 .. 77 ]
+sequence
+----AKKSPEELKGIFEKYAAK---EGDPNQEELKLLLQTEFPSLL-----KGPSTLDELFEELDKNGDG
+EVSFEEFQVLVKKI-------------------*
+>P1;gi|1384097|dbj|BAA04228.1| macrophage migration inhibitory facto... [ score 47 E 8e-05 ] [ range 2 .. 73 ]
+sequence
+-PTDLENSLNSIIFVYHKCSLE---KGNYQAGDLKKLLATECPQYSKKKDA------DSWFKELDINSDG
+ASNFQEFLIL-----------------------*
+>P1;gi|1710816|sp|P51964|S10D_CHICK Vitamin D-dependent calcium-bind... [ score 46 E 2e-04 ] [ range 1 .. 49 ]
+sequence
+--------------------GD---PNQLSKEELKLLIQSEFPSLLKAS-----STLDNLFKELDKNGDG
+EVSYEEF--------------------------*
+>P1;gi|14277910|pdb|1HT9|A Chain A, Domain Swapping Ef-Hands >gi|142... [ score 45 E 3e-04 ] [ range 2 .. 74 ]
+sequence
+------KSPEELKGIFEKYAAK---EGNLSKEELKLLLQTEFPSLL-----KGMSTLDELFEELDKNGDG
+EVSFEEFQVLVKKI-------------------*
+>P1;gi|31236173|ref|XP_319369.1| ENSANGP00000012275 [Anopheles gambi... [ score 45 E 3e-04 ] [ range 201 .. 258 ]
+sequence
+---------------------R---DGKLDSIEFVQFISEEFPQML-------PIILQQTLRDKDTNKDG
+RIDFQEF---VGDNAKDHDKE------------*
+>P1;gi|20873815|ref|XP_130997.1| hypothetical protein XP_130997 [Mus... [ score 45 E 4e-04 ] [ range 6 .. 89 ]
+sequence
+--TPSEHKIMMLYRNFTNYAGT---TVILGEKEFRKLVRSEFPNFLQEVQETPLSIL------LDEPKDR
+--SFEEALNVIGRMGMVYYKKMNNNA-------*
+>P1;gi|34858179|ref|XP_227375.2| similar to RIKEN cDNA 5430400H23 [R... [ score 44 E 7e-04 ] [ range 46 .. 119 ]
+sequence
+--SRLLRGIFCVIEIFHKYASE---DGNLTHRELRQLLEGEIGDFL------QPHVFHAVERKLNLDRDG
+TISFEEFL-------------------------*
+>P1;gi|30147721|ref|XP_060104.2| similar to RIKEN cDNA 5430400H23 [H... [ score 44 E 8e-04 ] [ range 3 .. 85 ]
+sequence
+---QLLRNVLCVIETFHKYASE---DSTLTGRELKQLIQGEFGDFFQPCVEKNSNLLN-----IDSN--G
+IISFDEFVLAIFNLLNLCY--------------*

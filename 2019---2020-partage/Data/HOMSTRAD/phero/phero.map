@@ -1,0 +1,12 @@
+>P1;1erp
+structureN:1erp:   1 : :  38 : :mating pheromone ER-10:Euplotes raikovi:-1.00:-1.00
+--DLCEQSALQCNEQGCHNFCSP-EDKPGCLGMVWNPELCP---*
+>P1;1erd
+structureN:1erd:   1 : :  40 : :mating pheromone ER-2:Euplotes raikovi:-1.00:-1.00
+DPMTCEQAMASCEHTMC-GYCQ-GPLYMTCIGITTDPECGLP--*
+>P1;2erl
+structureX:2erl:   1 : :  40 : :mating pheromone ER-1:Euplotes raikovi: 1.0: 12.9
+--DACEQAAIQCVESACESLCTEGEDRTGCYMYIYS--NCPPYV*
+>P1;gi|102402|pir||S17341 mating pheromone Er-11 precursor - Euplote... [ score 82 E 4e-15 ] [ range 38 .. 75 ]
+sequence
+--DLCEQSALQCNEQGCHNFCSP-EDKPGCLGMVWNPELVP---*

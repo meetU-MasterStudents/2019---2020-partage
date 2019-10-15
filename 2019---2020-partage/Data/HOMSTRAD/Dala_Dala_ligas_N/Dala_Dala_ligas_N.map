@@ -1,0 +1,1568 @@
+>P1;1iow
+structureX:1iow:   1 : :  96 : :D-alanine--D-alanine ligase B:Escherichia coli: 1.9: 15.8
+MTDKIAVLLGGTSAEREVSLNSGAAVLAGLREGG-IDAYPVDPK--------------------------
+----------EVDVTQLKSMG-FQKVFIALHGRGGEDGTLQGMLELMGLPYTGSGVMASALSMD*
+>P1;1ehia
+structureX:1ehi:   3 :A: 134 :A:D-alanine:D-lactate ligase:Leuconostoc mesenteroides: 2.38: 18.4
+-KKRVALIFGGNSSEHDVSKRSAQNFYNAIEATGKYEIIVFAIAQNGFFLDTESSKKILALEDEQPIVDA
+FMKTVDASDPLARIHALKSAGDFDIFFPVVHGNLGEDGTLQGLFKLLDKPYVGAPLRGHAVSF-*
+>P1;gi|16120885|ref|NP_404198.1| D-alanine--D-alanine ligase B [Yers... [ score 149 E 1e-35 ] [ range 1 .. 96 ]
+sequence
+MAEKVAVLLGGTSAEREVSLLSGQAVLAGLKEAG-IDAYGVDTK--------------------------
+----------DFPVTQLKEQG-FDKVFIALHGRGGEDGTLQGVLEFLQLPYTGSGVMASALTMD*
+>P1;gi|37527516|ref|NP_930860.1| D-alanine--D-alanine ligase B (D-al... [ score 148 E 2e-35 ] [ range 1 .. 96 ]
+sequence
+MAEKVAVLLGGTSAEREVSLLSGQAVLAGLREAG-IDAHPVDTK--------------------------
+----------DFPVTQLKEAG-FEKVFIALHGRGGEDGTLQGVLEFLQLPYTGSGVMASALSMD*
+>P1;gi|16759125|ref|NP_454742.1| D-alanine:D-alanine ligase B [Salmo... [ score 148 E 3e-35 ] [ range 1 .. 96 ]
+sequence
+MADKIAVLLGGTSAERDVSLNSGAAVLAGLREGG-IDAHPVDPQ--------------------------
+----------EVDVAQLKAMG-FQKVFIALHGRGGEDGTLQGMLELLGLPYTGSGVMASALSMD*
+>P1;gi|22977729|ref|ZP_00023515.1| COG1181: D-alanine-D-alanine liga... [ score 145 E 3e-34 ] [ range 16 .. 108 ]
+sequence
+---KVGVLLGGKSAEREISLLSGNGVLAALKSRG-VDAHPFDPG--------------------------
+----------LQPISELAAAG-FDRVFIALHGRYGEDGTMQGLLEQLGIPYTGSGVLASALAMD*
+>P1;gi|23466539|ref|ZP_00122127.1| COG1181: D-alanine-D-alanine liga... [ score 144 E 4e-34 ] [ range 9 .. 101 ]
+sequence
+---KIAVLLGGTSAEREVSLNSGNAVLTALRNQG-FDAHPIDPK--------------------------
+----------EYPVAMLKEQG-FDRVFNILHGRGGEDGTIQGLLEQIGLPYTGCGVMASALTMD*
+>P1;gi|16273066|ref|NP_439298.1| D-alanine-D-alanine ligase [Haemoph... [ score 144 E 4e-34 ] [ range 6 .. 99 ]
+sequence
+--EKIAVLLGGTSAEREVSLNSGKAVLEALLKQG-YNAHPIDPK--------------------------
+----------EYNVANLKKDG-FNRAFNILHGRGGEDGTMQGLLEQIGLPYTGCGVMASALTMD*
+>P1;gi|15602009|ref|NP_245081.1| DdlB [Pasteurella multocida] >gi|13... [ score 143 E 1e-33 ] [ range 1 .. 101 ]
+sequence
+MKKKIAVLLGGTSAEREVSLDSGQAVLNALLSAG-FDAHPIDPK--------------------------
+----------TFPVATLKEQG-FDRVFNILHGRGGEDGTMQGLLEQIGIPYTGCGVMTSALTMD*
+>P1;gi|44140213|gb|EAH34551.1| unknown [environmental sequence] [ score 142 E 1e-33 ] [ range 1 .. 96 ]
+sequence
+MKKKVAILKGGSSSEREVSLSTGKSCSEALSKLG-YIVKSIDTK--------------------------
+----------YNYIEDLMKLK-PDIVFNALHGKHGEDGIIQGVLETMRIPYTHSGVLASSIAMD*
+>P1;gi|34499796|ref|NP_904011.1| D-alanine--D-alanine ligase [Chromo... [ score 141 E 4e-33 ] [ range 1 .. 98 ]
+sequence
+MKQKVAVLMGGSSSEREVSLMSGAGVLSALRSKG-VDAHGFDPS--------------------------
+----------EKPLSALKEEG-FDCVFNILHGPFGEDGTLQGALEALGMPYTGCGVMASAIAMD*
+>P1;gi|15676336|ref|NP_273472.1| D-alanine--D-alanine ligase [Neisse... [ score 140 E 6e-33 ] [ range 6 .. 98 ]
+sequence
+---KVAVLMGGFSSEREISLDSGTAILNALKSKG-IDAYAFDPK--------------------------
+----------ETPLSELKAQG-FQTAFNILHGTYGEDGAVQGALELLGIPYTGSGVAASAIGMD*
+>P1;gi|28871541|ref|NP_794160.1| D-alanine--D-alanine ligase [Pseudo... [ score 139 E 1e-32 ] [ range 20 .. 112 ]
+sequence
+---RVAVLFGGKSAEREVSLNSGNAVLKALLDAG-VDAFGIDVG--------------------------
+----------DDFLQRLVSEK-IDRAFIVLHGRGGEDGTMQGLLECLEIPYTGSGVLASALAMD*
+>P1;gi|13471546|ref|NP_103112.1| D-alanyl-D-alanine ligase [Mesorhiz... [ score 139 E 2e-32 ] [ range 1 .. 97 ]
+sequence
+MKSKVAVLLGGFSSERPVSLSSGKACADALENEG-YQVTRVDVG--------------------------
+----------RDVGSVLAELK-PDVAFNALHGPFGEDGTIQGILEYLGIPYTHSGVLASALAMN*
+>P1;gi|44236673|gb|EAH86854.1| unknown [environmental sequence] [ score 139 E 2e-32 ] [ range 7 .. 99 ]
+sequence
+---KVAVMFGGTSAEREVSLRSGAAVLAALQKQG-VDAHAFDPK--------------------------
+----------DQPLSALTAAG-FDRVFIVLHGRGGEDGTMQGALQLMGLPYTGSRVLGSALAMD*
+>P1;gi|43584156|gb|EAE46920.1| unknown [environmental sequence] [ score 137 E 4e-32 ] [ range 1 .. 96 ]
+sequence
+MKKKILVISGGISKERAISLDTGKQVAKELKKNN-YNVLITEPD--------------------------
+----------FKLLDAIKSFK-PDVIFNALHGQFGEDGYIQTILETTGIPYTHSGVISSAIAMD*
+>P1;gi|23103644|ref|ZP_00090122.1| COG1181: D-alanine-D-alanine liga... [ score 137 E 4e-32 ] [ range 85 .. 177 ]
+sequence
+---RVAVLFGGKSAERAVSLKSGQAVLEALQSAG-VDAFGIDVG--------------------------
+----------DDLLERLGRER-IDRAFIVLHGRGGEDGSMQGLLECVGIPYTGSGVLASALAMD*
+>P1;gi|15965924|ref|NP_386277.1| PROBABLE D-ALANINE--D-ALANINE LIGAS... [ score 137 E 5e-32 ] [ range 1 .. 97 ]
+sequence
+MSSKVAVLLGGFSSERPVSLSSGTACADALEAEG-YRVTRVDVG--------------------------
+----------RDVAAVLQELR-PDVVFNALHGPFGEDGTIQGILEYLEIPYTHSGVLASALAMD*
+>P1;gi|44298772|gb|EAI29121.1| unknown [environmental sequence] [ score 137 E 5e-32 ] [ range 1 .. 96 ]
+sequence
+MNRHVAVLMGGWSSEREVSILSGLACAQALKSSG-FQVTKIDVD--------------------------
+----------RNISSVLEKLK-PDVCFNALHGPIGEDGNIQGLLNIMGIPYTHSGVQASAIAMD*
+>P1;gi|17547561|ref|NP_520963.1| PROBABLE D-ALANINE--D-ALANINE LIGAS... [ score 137 E 6e-32 ] [ range 19 .. 111 ]
+sequence
+---KVGVILGGRSAEREISLLSGNGVLAALRSRG-VDAHPFDPG--------------------------
+----------TQPVAGLAAQG-FHRVVISLHGRFGEDGTIQGLLEQFGIPYTGSGVLASALAMD*
+>P1;gi|26988073|ref|NP_743498.1| D-alanine--D-alanine ligase B [Pseu... [ score 137 E 7e-32 ] [ range 19 .. 111 ]
+sequence
+---RVAVLYGGKSAEREVSLKSGAAVIDALSTAG-VDVVAIDVG--------------------------
+----------DDLLARLQSEK-IDRAFIILHGRGGEDGSMQGLLECLGIPYTGSGILASALAMD*
+>P1;gi|37544103|gb|AAQ93036.1| D-alanine-D-alanine ligase B [Rhizobi... [ score 136 E 8e-32 ] [ range 27 .. 123 ]
+sequence
+MSRKVAVLMGGFSSERPVSLSSGKACAEALEAEG-FKVTTLDVA--------------------------
+----------RDVSEKLAALK-PDVVFNALHGPFGEDGTIQGILEYLEIPYTHSGVLASALAMD*
+>P1;gi|23054340|ref|ZP_00080497.1| COG1181: D-alanine-D-alanine liga... [ score 136 E 9e-32 ] [ range 8 .. 102 ]
+sequence
+-TKKIGVLMGGLSAEREISLSSGGAVHKALLARG-YDAVAIDVD--------------------------
+----------RDLPQVLVREW-IDVAFICLHGRYGEDGAVQGVLELMGIPYTGSGVLASALAMN*
+>P1;gi|30248997|ref|NP_841067.1| D-alanine--D-alanine ligase [Nitros... [ score 136 E 9e-32 ] [ range 8 .. 100 ]
+sequence
+---KVAVLLGGRSAEREISLRSGQAVLAALQRSR-VNAHAFDPA--------------------------
+----------GQPLENLLQQG-FDRVFIALHGRYGEDGSVQGALELMELPYTGSGILASALAMD*
+>P1;gi|23468785|ref|ZP_00124120.1| COG1181: D-alanine-D-alanine liga... [ score 136 E 9e-32 ] [ range 53 .. 145 ]
+sequence
+---RVAVLFGGKSAERAVSLNSGNAVLGALLEAG-VDAFGIDVG--------------------------
+----------DDFLQRLVSEK-IDRAFIVLHGRGGEDGTMQGLLECLEIPYTGSGVLASALAMD*
+>P1;gi|22956853|ref|ZP_00004586.1| COG1181: D-alanine-D-alanine liga... [ score 136 E 1e-31 ] [ range 11 .. 103 ]
+sequence
+---RVAVLMGGASTEREVSLSSGHSCSAALRDAG-YEVTEVDAG--------------------------
+----------PDLARVLAELS-PDAVFNALHGRWGEDGCVQGLLEWLRIPYTHSGVLASALAMD*
+>P1;gi|33593952|ref|NP_881596.1| D-alanine--D-alanine ligase B [Bord... [ score 136 E 1e-31 ] [ range 1 .. 99 ]
+sequence
+MSKKVGVLYGGRSAEREVSLMSGKGVHEALLSAG-VDAHLFDTG--------------------------
+----------ERSLADLAAAG-FERVFIALHGRYGEDGTLQGALELLGIPYTGSGPLASSLSMD*
+>P1;gi|39998157|ref|NP_954108.1| D-alanine--D-alanine ligase [Geobac... [ score 136 E 1e-31 ] [ range 8 .. 102 ]
+sequence
+-TTKIGVLMGGLSAEREVSLASGGAVLKALQSRG-YDAVPVDVG--------------------------
+----------RDLPQVLVREW-IDVAFICLHGRYGEDGTVQGLLELMGIPYTGSGVLASALAMN*
+>P1;gi|44448406|gb|EAJ34025.1| unknown [environmental sequence] [ score 136 E 1e-31 ] [ range 1 .. 96 ]
+sequence
+MKKKILILSGGISKERLISLDTGKQVAKELKKNG-YKIQISEPD--------------------------
+----------RSLSLNIKKFK-PDIIFNALHGQFGEDGYIQSILEKFKIPYTHSGVVASSLAMD*
+>P1;gi|43346654|gb|EAD38419.1| unknown [environmental sequence] [ score 135 E 2e-31 ] [ range 1 .. 96 ]
+sequence
+MKKKILILSGGISKERLISLDTGSQVAKELKKNG-YKIKISEPD--------------------------
+----------KFLSSNIKKFK-PDVIFNALHGQFGEDGYIQSILEKFKIPYTHSGVLASCIAMD*
+>P1;gi|45520621|ref|ZP_00172149.1| hypothetical protein Mflag203801 ... [ score 135 E 2e-31 ] [ range 9 .. 99 ]
+sequence
+---KVAVLLGGKSGEREVSLKSGAAVLAALRRNG-VDAHAFDPA--------------------------
+----------ERALSELA--G-FDRVFIALHGRYGEDGTIQGALELMGIPYTGSGVMASSVGMD*
+>P1;gi|15599606|ref|NP_253100.1| D-alanine--D-alanine ligase [Pseudo... [ score 135 E 3e-31 ] [ range 20 .. 112 ]
+sequence
+---RVAVLFGGKSAEREVSLKSGAMVLQSLLAAG-VDAFGIDVG--------------------------
+----------EDLLQRLVEEK-IDRAFIILHGRGGEDGSMQGLLECAGIPYTGSGVLASALAMD*
+>P1;gi|17935974|ref|NP_532764.1| D-alanine:D-alanine ligase [Agrobac... [ score 134 E 6e-31 ] [ range 4 .. 97 ]
+sequence
+--KHVAVLLGGFSSERPVSLSSGNACALALEGEG-YKVTRVDVG--------------------------
+----------RDVAAVLDELR-PDVAFNALHGPFGEDGTIQGILEYLAIPYTHSGVLASALAMD*
+>P1;gi|43733594|gb|EAF21538.1| unknown [environmental sequence] [ score 133 E 8e-31 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERVISLDTGKQVANELKRNG-YKVKISEPD--------------------------
+----------FNLIDDIKSFN-PKIIFNALHGQFGEDGYIQTILETTGIPYTHSGVIPSAIAMD*
+>P1;gi|44269329|gb|EAI09370.1| unknown [environmental sequence] [ score 133 E 8e-31 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERAISLETGKQVAKELSKNK-YKIKIVEPN--------------------------
+----------FKLLGAIKSFK-PNIIFNALHGQFGEDGYIQTILETTGLPYTHSGVISSALAMD*
+>P1;gi|44402912|gb|EAJ02348.1| unknown [environmental sequence] [ score 133 E 9e-31 ] [ range 1 .. 96 ]
+sequence
+MKKRVLILSGGISKERLISLDTGQQVAKELKKNG-YKIKISEPD--------------------------
+----------KNLEKTIKNFK-PGVIFNALHGQFGEDGYIQSILERFKIPYTHSGVIASSLAMD*
+>P1;gi|42910373|gb|EAB22288.1| unknown [environmental sequence] [ score 133 E 1e-30 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERLISLDTGKQVAKELKKNG-YQIKISEPN--------------------------
+----------FSLLDTIKFFK-PNIIFNALHGQFGEDGYIQTILETTNIPYTHSGVISSAIAMD*
+>P1;gi|42928686|gb|EAB31348.1| unknown [environmental sequence] [ score 132 E 1e-30 ] [ range 1 .. 96 ]
+sequence
+MKKKILILSGGISKERLISLDTGKQVAKELKKNG-YKIKISEPN--------------------------
+----------KNLKKTIKNFK-PGVIFNALHGQFGEDGYIQSILESFKIPYTHSGVIASSLAMD*
+>P1;gi|44647388|gb|EAK72495.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 1 .. 96 ]
+sequence
+MKSKVLILSGGISKERLISLDTGLQVARELKKNN-YKVKISEPD--------------------------
+----------NNLKKNIKKFK-PDVIFNALHGQFGEDGYIQTILESFKIPYTHSGIIASSIAMD*
+>P1;gi|44613112|gb|EAK48071.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 9 .. 102 ]
+sequence
+--KKVAILKGGSSSEREVSLSTGEACSEAISKLG-YNVKSIDTK--------------------------
+----------YNFIEDLMKLK-PDIVFNALHGRHGEDGIIQGVLETMKIPYTHSGVLASSIAMD*
+>P1;gi|43753672|gb|EAF31262.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERVISLETGRQVARELKKNK-FKVKICEPD--------------------------
+----------LDLIHNVKTFK-PNIIFNALHGQFGEDGYIQSILETIGIPYTHSGVIASAKAMD*
+>P1;gi|44558395|gb|EAK09441.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERLISLDTGLQVARELRKNS-YNVKITEPN--------------------------
+----------NNLQKIINKFN-PNVIFNALHGQFGEDGYIQTILEKFKIPYTHSGVIPSAIAMD*
+>P1;gi|42867084|gb|EAB00789.1| unknown [environmental sequence] [ score 132 E 2e-30 ] [ range 4 .. 98 ]
+sequence
+-KKKILVVLGGNSNERKVSLDSGKSCISALNKMG-YNSIKFDPQ--------------------------
+----------KNSLHNIKKIN-PDVIFNALHGKDGEDGNIQSFFEYLKIPYTHSGVLSSMIAMD*
+>P1;gi|43941496|gb|EAG26243.1| unknown [environmental sequence] [ score 132 E 3e-30 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERLISLDTGMQVSKELKRNG-YKVRIVEPD--------------------------
+----------SSLSKIIKEFR-PKVIFNALHGQFGEDGYIQTILEKFDVPYTHSGVIASSIAMD*
+>P1;gi|44558390|gb|EAK09437.1| unknown [environmental sequence] [ score 131 E 3e-30 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERLISLDTGLQVAKELRKNS-YNVKISEPN--------------------------
+----------NNLQKIINKFS-PDVIFNALHGQFGEDGYIQTVFEKFKIPYTHSGVIPSAIAMD*
+>P1;gi|43129020|gb|EAC30353.1| unknown [environmental sequence] [ score 131 E 3e-30 ] [ range 1 .. 96 ]
+sequence
+MKKRILILGGGISKERLISLDTAKSVADELKKKK-YKVIISEPD--------------------------
+----------SDLLKNIKKFR-PHIVFNALHGQFGEDGYIQSVLEVLKVKYTHSGVLASSIAMD*
+>P1;gi|44346089|gb|EAI61852.1| unknown [environmental sequence] [ score 130 E 5e-30 ] [ range 1 .. 96 ]
+sequence
+MKKKILVISGGISKERLISLNTGRQVAKELIRNN-YRVKVTEPN--------------------------
+----------FGLFQVIKSFK-PKIIFNALHGQFGEDGYIQTILETTGIPYTHSGVIASAIAMD*
+>P1;gi|44277938|gb|EAI15209.1| unknown [environmental sequence] [ score 130 E 7e-30 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERLISLDTGLQVAKELRKNL-YKVKISEPN--------------------------
+----------SNLQKIIIKFN-PDVIFNALHGQFGEDGYIQTILERFKIPYTHSGVISSAIAMD*
+>P1;gi|16126782|ref|NP_421346.1| D-alanine--D-alanine ligase B [Caul... [ score 130 E 7e-30 ] [ range 16 .. 107 ]
+sequence
+----IAVLLGGPSSERKVSLVSGAACAEALERLG-AKVSRIDPG--------------------------
+----------PDVAQVLAATK-PDMVFNALHGEWGEDGCVQGVLETLKLPYTHSGVLASALAMD*
+>P1;gi|43006948|gb|EAB70280.1| unknown [environmental sequence] [ score 130 E 7e-30 ] [ range 1 .. 96 ]
+sequence
+MKKKILILSGGISKERLISLDTGIQVAKELKKNG-YKIKIGEPD--------------------------
+----------KSLSSNIKKFK-PDIIFNALHGQFGEDGYIQSILEKFKIPYTHSGVLASSIAMD*
+>P1;gi|43142594|gb|EAC37024.1| unknown [environmental sequence] [ score 130 E 7e-30 ] [ range 1 .. 96 ]
+sequence
+MKNKILILAGGFSKEREISIITAKAVNKELKKKK-YITKICEPD--------------------------
+----------GNLIKNIKNFK-PSVVFNALHGRYGEDGYVQSLLETEKVKYTHSGPLASSIAIN*
+>P1;gi|42989457|gb|EAB61659.1| unknown [environmental sequence] [ score 130 E 1e-29 ] [ range 1 .. 96 ]
+sequence
+--KRIAVLLGGTSAEREVSLESGRQCTEALHEAG-YDAYEVDVT--------------------------
+----------ANIDALLDALR-PHAVFNALHGRFGEDGNIQGLLNLLELPYTHSGVLASALAMD*
+>P1;gi|44376407|gb|EAI83461.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 1 .. 96 ]
+sequence
+MKKKILILSGGISKERLISLDTGLQVAKELKKNG-YKVKIFEPD--------------------------
+----------SNLAKNIKQFK-PAIIFNALHGQFGEDGYIQSILEQFKVPYTHSGVIASSIAMD*
+>P1;gi|43700793|gb|EAF05623.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 1 .. 94 ]
+sequence
+--KKILVILGGNSRERNISLETGKSCVAALNKVG-YQTIKFDPK--------------------------
+----------KNSLNNIKKIK-PNVIFNALHGKDGEDGNIQSFFEYLKIPYTHSGVLSSMISMD*
+>P1;gi|44148349|gb|EAH39054.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 1 .. 96 ]
+sequence
+MKKSVVVLMGGLSGEREVSKITGKACSNALKKKG-FSVVNLDAK--------------------------
+----------GNFVEKLKKLK-PKIVFNALHGRYGEDGFVQSILEELKIPYTHSGVFASSLAMD*
+>P1;gi|43218685|gb|EAC74888.1| unknown [environmental sequence] [ score 129 E 2e-29 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERKISLQTGNEVAKQLKKNG-FIIKICEPN--------------------------
+----------DDLSHIVKTFK-PKVIFNALHGQFGEDGYIQSILENLKIPYTHSGVLASSIAMN*
+>P1;gi|43821867|gb|EAF65352.1| unknown [environmental sequence] [ score 129 E 2e-29 ] [ range 1 .. 95 ]
+sequence
+MKKKILILAGGFSREREISLKTAKSVFKEIKK-K-YITKIREPN--------------------------
+----------GDLIKNIRSFK-PDVVFNALHGRYGEDGYIQSILESEKIKYTHSGVLSSSIAID*
+>P1;gi|43174839|gb|EAC52996.1| unknown [environmental sequence] [ score 129 E 2e-29 ] [ range 1 .. 99 ]
+sequence
+MKNKVAVLMGGFSKEREVSLNTGRACSEALKKAN-YKVSEIIVD--------------------------
+----------KNLIDKLMALK-PDVCFNALHGSYGEDGNIQGLLNTLRIPYTHSGVTASSIAIN*
+>P1;gi|15605989|ref|NP_213366.1| D-alanine:D-alanine ligase [Aquifex... [ score 128 E 2e-29 ] [ range 2 .. 94 ]
+sequence
+---RVVVLMGGRSSEREISLKTGKAVAKALRELG-HEVYELDLD--------------------------
+----------KELPCKLLEIK-PDKVFIALHGRYGEDGTVQGLLEILDIPYTGSDTIASAVSID*
+>P1;gi|44591119|gb|EAK32525.1| unknown [environmental sequence] [ score 128 E 3e-29 ] [ range 11 .. 103 ]
+sequence
+---KVAVLFGGESSEREVSLTSGKLVLQGLRDAG-IDAHPFDPA--------------------------
+----------ERPLSALKDEG-FVRAFNALHGGYGENGQIQGALDFYGIRYTGSGVLGSALGLD*
+>P1;gi|44445375|gb|EAJ31879.1| unknown [environmental sequence] [ score 128 E 3e-29 ] [ range 1 .. 94 ]
+sequence
+-KKKILILGGGISKEREISLETAKQVNNVLKK-K-YWTLLSEPN--------------------------
+----------DNLIKNIKKFK-PNIIFNALHGRFGEDGYIQSVLESLKIKYTHSGVLSSSIAMD*
+>P1;gi|43971956|gb|EAG42814.1| unknown [environmental sequence] [ score 128 E 3e-29 ] [ range 2 .. 98 ]
+sequence
+MKKKVIILGGGISKERPISLETARSVYNELKKNN-YKSIIVEPD--------------------------
+----------SNFIKKIKSFK-PDIIFNALHGQFGEDGYIQTIIESQKINYTHSGVLASAIAMD*
+>P1;gi|44578727|gb|EAK23818.1| unknown [environmental sequence] [ score 128 E 3e-29 ] [ range 1 .. 96 ]
+sequence
+MKKKILILSGGISKERLISLDTGLQVAKELNKHG-YKVKISEPD--------------------------
+----------YNLAKNIKKFK-PAIIFNALHGQFGEDGYIQSILEQFKIPYTHSGVIASSIAMD*
+>P1;gi|43845560|gb|EAF77086.1| unknown [environmental sequence] [ score 128 E 3e-29 ] [ range 1 .. 96 ]
+sequence
+MRKKILILSGGISKERLISLDTGLQVAKELIKNS-YNVKISEPN--------------------------
+----------HNLEKTINKFK-PDVIFNALHGQFGEDGYIQTILESFKIPYTHSGVIPSAIAMD*
+>P1;gi|22966874|ref|ZP_00014469.1| COG1181: D-alanine-D-alanine liga... [ score 128 E 4e-29 ] [ range 1 .. 99 ]
+sequence
+MSKRVTVLMGGFSTERAVSLNSGAAAGEALRQAG-YAVTLLDVG--------------------------
+----------RDFIAALTQTR-PDVVFNALHGRFGEDGAIQGILDIMALPYTHSGRLASAIAMD*
+>P1;gi|44325588|gb|EAI47465.1| unknown [environmental sequence] [ score 127 E 4e-29 ] [ range 1 .. 96 ]
+sequence
+MKKKILILAGGYSKEREISLKTAKAVNKELINKK-YLTKICEPD--------------------------
+----------GNFIKILRKYK-PNVVFNALHGRYGEDGYIQAILETEKVKYTHSGVKASSVAID*
+>P1;gi|44656089|gb|EAK77341.1| unknown [environmental sequence] [ score 127 E 4e-29 ] [ range 4 .. 97 ]
+sequence
+--KKILVVLGGTSKEREISLESAKSCISALKKIG-YHPIKFDPK--------------------------
+----------FNSFTKINKNN-PDAIFNSLHGKEGEDGKIQSFFEYFRIPYTHSGVLSSMICMN*
+>P1;gi|21672494|ref|NP_660561.1| D-alanine--D-alanine ligase [Buchne... [ score 127 E 4e-29 ] [ range 1 .. 96 ]
+sequence
+MKKKIAVLLGGNSSERKISIKSGYAILQSLLRSG-FNAYAIDTR--------------------------
+----------DFPIMQLKKQG-FDSAYIALHGTGGEDGSIQGILEYLNIPYTGSGIMSSAISLD*
+>P1;gi|43363542|gb|EAD46589.1| unknown [environmental sequence] [ score 127 E 5e-29 ] [ range 2 .. 95 ]
+sequence
+--KRILILAGGFSKERSISLLTAKSVLKALKKNK-FKAITCEPD--------------------------
+----------GKLIQKIKKFK-PNVIFNALHGRFGEDGYIQAVLETVKIKYTHSGVLASHTAMD*
+>P1;gi|44224163|gb|EAH79681.1| unknown [environmental sequence] [ score 127 E 5e-29 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERAISLDTGMQVANELVKNN-YIINITEPN--------------------------
+----------LKLLDLIKSFK-PNIIFNALHGQFGEDGYIQTILETTGIPYTHSGVISSAIAMD*
+>P1;gi|43405442|gb|EAD64222.1| unknown [environmental sequence] [ score 127 E 5e-29 ] [ range 2 .. 95 ]
+sequence
+--KRVAVVYGGWSSERPVSLSSGKEMVQGARDAG-YDVIGIDAT--------------------------
+----------RDLAKQLQDAA-PDVILNGLHGPWGEDGTVQGLFEILDIPYSHSGVLASALAMD*
+>P1;gi|33151977|ref|NP_873330.1| D-alanine-D-alanine ligase B [Haemo... [ score 127 E 6e-29 ] [ range 6 .. 99 ]
+sequence
+--EKIAVLYGGTSQEREVSLHSGAAVTEALKSLG-YNVEGIDTK--------------------------
+----------DIAIEKLKEKG-IQRVFNILHGGIGENGVLQGALEQMGIPYTGCGVMASAITLD*
+>P1;gi|43456610|gb|EAD82974.1| unknown [environmental sequence] [ score 127 E 6e-29 ] [ range 1 .. 96 ]
+sequence
+MKKKVFIISGGISKERLISLDTGLQVARELKRNG-YKVKISEPD--------------------------
+----------NNLEKEIKIFK-PGVIFNALHGQYGEDGYIQTILEKFNIPYTHSGVIPSAIAMD*
+>P1;gi|44139966|gb|EAH34416.1| unknown [environmental sequence] [ score 127 E 6e-29 ] [ range 1 .. 96 ]
+sequence
+MKKKILIISGGISKERIISLDTGKQVARELRKHH-HSVKIVEPN--------------------------
+----------FQLLDTIKSFK-PNIIFNALHGQFGEDGYIQTILETTKIPYTHSGVISSAIAMN*
+>P1;gi|44332858|gb|EAI52605.1| unknown [environmental sequence] [ score 127 E 7e-29 ] [ range 1 .. 95 ]
+sequence
+MKKKILILAGGFSREREISLKTAKGVYNQIKRKY-Y-VKIYEPN--------------------------
+----------GDLIRNLRSFK-PDVVFNALHGRYGEDGYVQSILESEKIKYTHSGVLASSIAID*
+>P1;gi|44214333|gb|EAH74151.1| unknown [environmental sequence] [ score 127 E 8e-29 ] [ range 9 .. 100 ]
+sequence
+----VAVVKGGRSVERQVSLVSGRECAAALRRVG-YKVSEVDAG--------------------------
+----------NDLPKELDRLS-PDIIFNALHGRYGEDGCVQGLFEWLEIPYTHSGVQASSLAMN*
+>P1;gi|22982197|ref|ZP_00027489.1| COG1181: D-alanine-D-alanine liga... [ score 127 E 8e-29 ] [ range 14 .. 106 ]
+sequence
+---KVAVLLGGNSAEREVSLNSGRLVLQGLRDAG-IDAHPFDPA--------------------------
+----------ERPLAALKEEG-FVRAFNALHGGYGENGQIQGALDFYGIRYTGSGVLGSALGLD*
+>P1;gi|5834367|gb|AAD53933.1| D-alanine:D-alanine ligase [Zymomonas ... [ score 126 E 9e-29 ] [ range 4 .. 98 ]
+sequence
+-KKHVVVLMGGWSSEREISLLSGRHVGKALEEAG-YRVTLLDMD--------------------------
+----------RDIAFKLREAK-PDVVFNALHGTPGEDGSIQGLMDLMAIRYTHSGLTASAIAID*
+>P1;gi|22999615|ref|ZP_00043586.1| COG1181: D-alanine-D-alanine liga... [ score 126 E 9e-29 ] [ range 6 .. 99 ]
+sequence
+--KKIGVLYGGLSEEREVSLRSGQALFVALQSLG-YQVVAIDVD--------------------------
+----------RHITKVLEREG-IEVAVLALHGPMGEDGTIQGLLEFMGIPYTGPNVAASAICMD*
+>P1;gi|44414034|gb|EAJ09998.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 2 .. 95 ]
+sequence
+--KKILIISGGISKERAISLETGRQVAKELKKNN-YFVKISEPN--------------------------
+----------FQLFDVIKKFK-PNKIFNALHGQFGEDGYIQTILESYKIPYTHSGVISSSIAMD*
+>P1;gi|43033438|gb|EAB83355.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 2 .. 95 ]
+sequence
+--KKILIISGGISKERAISLDTGKQVAKELKKNN-YFVKIAEPN--------------------------
+----------FQLFDVIKKFK-PNKIFNALHGQFGEDGYIQTILESFKIPYTHSGVISSSIAMD*
+>P1;gi|43372793|gb|EAD51242.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 1 .. 95 ]
+sequence
+MKKKILILAGGFSREREISLKTANGVFNQIKR-K-YNVKICEPD--------------------------
+----------GNLIKILRSFK-PNVVFNALHGRYGEDGYIQAILESEKIKYTHSGVLSSSIAID*
+>P1;gi|44280105|gb|EAI16651.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 14 .. 106 ]
+sequence
+---KVAVLLGGDSAEREVSLNSGRLVLQGLRDAG-IDAHPFDPA--------------------------
+----------ERPLAALKDEG-FVRAFNALHGGYGENGQIQGALDFYGIRYTGSGVLGSALGLD*
+>P1;gi|42520004|ref|NP_965919.1| D-alanine--D-alanine ligase [Wolbac... [ score 126 E 1e-28 ] [ range 1 .. 96 ]
+sequence
+MIPTIAILSGGFSCEREISLMSGKAVKKALDSLS-YNAIEIDVD--------------------------
+----------SNIAEKLKKIN-PGLAFIALHGPYGEDGCIQGLLEILGIKYTHSGVMASAVAIN*
+>P1;gi|43842743|gb|EAF75646.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 1 .. 97 ]
+sequence
+MKKKILIVSGGFSKEREISKKTAKSVFKELKNSN-YDVEICEPD--------------------------
+----------GNLVNKLKKFK-PNVVFNALHGQYGEDGYIQSIFEKEGFSYTHSGVAASALAID*
+>P1;gi|44523953|gb|EAJ85605.1| unknown [environmental sequence] [ score 126 E 1e-28 ] [ range 28 .. 120 ]
+sequence
+---KVAVLLGGDSAEREVSLNSGNAVLNALLRQG-VDAFAFDPA--------------------------
+----------ERPLTDLIDLN-VDRALIMLHGRGGEDGSMQGALQFLKIPYTGSRVLGSALAMD*
+>P1;gi|43059658|gb|EAB96184.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 1 .. 96 ]
+sequence
+MKKKVLIISGGISKERLISLDTGNQVFKELKKNG-YRVKISEPD--------------------------
+----------NYLEKNIKIFK-PNVIFNALHGQFGEDGYIQTILDRFKIPYTHSSAIASSIAMD*
+>P1;gi|44271131|gb|EAI10568.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 3 .. 95 ]
+sequence
+---KILIISGGISKERVISLDTGRQVAKELKKYN-YFVKITEPN--------------------------
+----------FQLFDVIKKFK-PNKIFNALHGQFGEDGYIQTILESFKIPYTHSGVISSSIAMD*
+>P1;gi|42927921|gb|EAB30977.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 1 .. 96 ]
+sequence
+MKKKVLILSGGISKERLISLDTGNQVFKELKKNG-YRVKISEPD--------------------------
+----------NYLEKNIKIFK-PHVIFNALHGQFGEDGYIQTILDRFKIPYTHSSAIASSIAMD*
+>P1;gi|42969597|gb|EAB51772.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 1 .. 95 ]
+sequence
+MKKKILILAGGFSKEKEISLKTAKGVFNQIKK-K-YNVKIIEPN--------------------------
+----------GHLIKNIRSFK-PNVVFNALHGRYGEDGYIQSILESEKIKYTHSGVLSSSIAID*
+>P1;gi|44653796|gb|EAK76053.1| unknown [environmental sequence] [ score 125 E 3e-28 ] [ range 1 .. 96 ]
+sequence
+MKKLIAVLMGGLSGERKISFLTGKACSNALKKKG-YKVVNLDAK--------------------------
+----------GHFVQQINKIR-PDIIFNALHGEFGEDGIVQSILESLKFPYTHSGVLASSVAMD*
+>P1;gi|23029063|ref|ZP_00067429.1| COG1181: D-alanine-D-alanine liga... [ score 125 E 3e-28 ] [ range 18 .. 110 ]
+sequence
+---RTLVLFGGTSSEREVSLRSGAAVLQALQAGG-VDAHGLDVQ--------------------------
+----------ADAIAKIEAFA-PDRVFIALHGPGGEDGKMQAVLDWLAIPYTGSDHAASALAMD*
+>P1;gi|2738587|gb|AAC46067.1| D-alanine: D-alanine ligase [Buchnera ... [ score 124 E 5e-28 ] [ range 1 .. 96 ]
+sequence
+MKKKIAVLLGGILSERKISIKSGYAILQSLLRSG-FNAYAIDTR--------------------------
+----------DFPIMQLKKQG-FDSAYIALHGTGGEDGSIQGILEYLNIPYTGSGIMSSAISLD*
+>P1;gi|42869600|gb|EAB02044.1| unknown [environmental sequence] [ score 124 E 5e-28 ] [ range 1 .. 97 ]
+sequence
+MKKKILIIAGGYSKERDISFLSARSVYKELKKNN-YLPIVYEPK--------------------------
+----------GSFVKDLRKIK-PNVVFNALHGRYGEDGFIQSILEKEKIKYTHSGVLSSSIAID*
+>P1;gi|44634468|gb|EAK63428.1| unknown [environmental sequence] [ score 124 E 5e-28 ] [ range 1 .. 95 ]
+sequence
+MKKKILILSGGVSKERLISLDTGYQVAKELKKNG-YRVKISEPD--------------------------
+----------KLK-ENVNQFK-PKIVFNALHGQFGEDGYIQSVLENLEIPYTHSGVIASSIAMD*
+>P1;gi|44359742|gb|EAI71712.1| unknown [environmental sequence] [ score 123 E 7e-28 ] [ range 1 .. 95 ]
+sequence
+MKKKLLILGGGFSREREISLKTAKAVFKEIKNI--YTTKISEPD--------------------------
+----------GNLVATLRKFK-PDFVFNALHGRYGEDGYIQSILESEKIKYTHSGVLASSIAID*
+>P1;gi|43833227|gb|EAF70860.1| unknown [environmental sequence] [ score 123 E 8e-28 ] [ range 1 .. 95 ]
+sequence
+MKEKILILGGGISKERLISLETAKSVNRELKKNK-YKSFICEPK--------------------------
+----------E-LIKKIKFYK-PNIIFNALHGQFGEDGYIQTVLETLKIKYTHSGVLASFIAMD*
+>P1;gi|23110800|ref|ZP_00096914.1| COG1181: D-alanine-D-alanine liga... [ score 123 E 9e-28 ] [ range 11 .. 105 ]
+sequence
+-KLHVAVLMGGWSSERPVSLMSGEGVAKALESKG-HQVTRIDMD--------------------------
+----------RDVALRLAEAK-PDVVFNALHGTPGEDGSIQGLMDIMGLTYTHSGLVTSVIAID*
+>P1;gi|43055261|gb|EAB94012.1| unknown [environmental sequence] [ score 122 E 1e-27 ] [ range 1 .. 95 ]
+sequence
+MKKKIIILAGGYSKEREISIQTANAVFKQIRKE--FNCRILDPK--------------------------
+----------NNFIHQIRKFK-PHVIFNALHGRYGEDGYIQIILENEKIKYTHSGVKASSICIN*
+>P1;gi|44504109|gb|EAJ72255.1| unknown [environmental sequence] [ score 122 E 1e-27 ] [ range 1 .. 97 ]
+sequence
+MKKKILILAGGFSKEREISLITSKSVQKALNDSG-YITKIIDPK--------------------------
+----------GDLIKKIRKFK-PWVVFNALHGRYGEDGYIQSILESEKIKYTHSGVLASSLAID*
+>P1;gi|44382538|gb|EAI87832.1| unknown [environmental sequence] [ score 122 E 2e-27 ] [ range 2 .. 91 ]
+sequence
+------IISGGISKERIISLETGKQVAKELKKNN-YLVRSCEPD--------------------------
+----------KDLLSEIKDFK-PNCIFNALHGQFGEDGYIQTILETIGIPYTHSGVIASAKAMD*
+>P1;gi|43805783|gb|EAF57426.1| unknown [environmental sequence] [ score 122 E 2e-27 ] [ range 1 .. 97 ]
+sequence
+MKNKVLVVLGGTSGEREVSLDSGRACIKALKKIG-YKVSTFDPK--------------------------
+----------KKSFNLIDKNK-TDVIFNALHGKDGEDGVAQSYFEYLRIPYTHSGVISSYNAMN*
+>P1;gi|44652313|gb|EAK75230.1| unknown [environmental sequence] [ score 122 E 2e-27 ] [ range 1 .. 97 ]
+sequence
+MKKKVLVVLGGTSKERKISLATGRACIKALKKIG-YKVNEFDPA--------------------------
+----------KQLLNEIDKSK-VDLIFNALHGKDGEDGNAQSYFEYLRIPYTHSGVIASMNAMD*
+>P1;gi|44579825|gb|EAK24556.1| unknown [environmental sequence] [ score 122 E 3e-27 ] [ range 2 .. 91 ]
+sequence
+------IISGGISKERIISLETGRQVAKELKRNN-YIVKICEPD--------------------------
+----------KDLISVTKSFK-PHLIFNALHGQFGEDGYIQTILETIGIPYTHSGVIASAKAMD*
+>P1;gi|34580724|ref|ZP_00142204.1| D-alanine--D-alanine ligase [Rick... [ score 122 E 3e-27 ] [ range 22 .. 116 ]
+sequence
+-KKHIALMAGGMSAEREVSLVSSEGVSKALIELG-YRVTFIDMG--------------------------
+----------ADIAVRLQEIK-PDIVFNCLHGTYGEDGCLPGLLNIMRIPYTHSGVLSSALAFD*
+>P1;gi|43452731|gb|EAD81035.1| unknown [environmental sequence] [ score 122 E 3e-27 ] [ range 10 .. 102 ]
+sequence
+---KVAVLYGGISPERDISLISGEAVYKALKQKG-IDAYLIDAK--------------------------
+----------EPFLKRLSEEQ-FDNVWVALHGADGEDGKIQSLLELSDIPYTGSRTLSCSLTMN*
+>P1;gi|44122994|gb|EAH24993.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 1 .. 97 ]
+sequence
+MKKKILVVLGGTSGERAVSLDSGRACVKALKKKG-YKVSTFDPK--------------------------
+----------KKSLSLIDKHK-TDIIFNALHGRDGEDGVAQSYFECLRVPYTHSGVISSCNAMN*
+>P1;gi|43068745|gb|EAC00638.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 2 .. 95 ]
+sequence
+--KKILILGGGFSKERAISLVTADSVLKALKKKN-YEAIVCEPD--------------------------
+----------GNLIKKIKSYK-PSVVFNALHGRFGEDGYIQMILEAAKVKYTHSGVVASYIAMD*
+>P1;gi|43603479|gb|EAE56566.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 5 .. 99 ]
+sequence
+-KKKILVLMGGKSRERPISLLSGRACFNEIKKLG-YKVFKFDPV--------------------------
+----------KQIEKNIKNIN-PDIIFNCLHGKYGEDGKIQKILEKIKIPYTHSGIKSSENAMN*
+>P1;gi|43975654|gb|EAG44793.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 1 .. 97 ]
+sequence
+MKKKILLVAGGYSNERDISLLTAKSVYLALKNNK-YNLKIIEPD--------------------------
+----------GNFIKKLRLYK-PDVVLNLLHGRYGEDGYIQSILESEKIKYTHSGVKSSSIAID*
+>P1;gi|44631461|gb|EAK61335.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 5 .. 98 ]
+sequence
+--KKIMLLYGGISAEREISIITSKEISKSLKNMG-YNIVEIDAN--------------------------
+----------ENLLADLELHK-PDIVFNGLHGTWGEDGSVQEILEKYGVPYTHSGIESSKLAMD*
+>P1;gi|44530457|gb|EAJ90000.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 1 .. 82 ]
+sequence
+--------------EREVSLKSGNAVLSALQAGG-VDAFGIDVG--------------------------
+----------DDFLQRLASEK-IDRAFIVLHGRGGEDGSMQGLLECAGIPYTGSGILASALAMD*
+>P1;gi|43220271|gb|EAC75699.1| unknown [environmental sequence] [ score 121 E 4e-27 ] [ range 8 .. 101 ]
+sequence
+--KKVLVILGGTSGERKVSLDSGKACIKALKKKG-YRVSILDPK--------------------------
+----------HKNLNLIDKNK-VDVIFNALHGKDGEDGIAQSYFEYLKIPYTHSGVISSFNSMN*
+>P1;gi|44068188|gb|EAG95298.1| unknown [environmental sequence] [ score 121 E 4e-27 ] [ range 1 .. 94 ]
+sequence
+MKKKVLILYGGISKERAISLETGRQVARELKK-K-YSIKLCEPK--------------------------
+----------NLDLL-IKSFK-PNIIFNGLHGQFGEDGYIQTILETYKIPYTHSGPLASLLAMN*
+>P1;gi|21241551|ref|NP_641133.1| D-alanine-D-alanine ligase B [Xanth... [ score 120 E 6e-27 ] [ range 18 .. 112 ]
+sequence
+---RVAVLLGGTSSEREVSLNSGGNVLDALRARG-VDAQPVDGI--------------------------
+----------PALAKALVAQQ-FDRVFNVLHGGGGEDGIVQGLMEAFGVPYTGSDVLGSALSMD*
+>P1;gi|21230201|ref|NP_636118.1| D-alanine-D-alanine ligase B [Xanth... [ score 120 E 6e-27 ] [ range 18 .. 112 ]
+sequence
+---RVAVLLGGTSSEREVSLNSGSNVLDALRARG-VDAQPVDGI--------------------------
+----------PALAQALVAQR-FDRVFNVLHGGGGEDGIVQGLMEAFGVPYTGSNVLGSALSMD*
+>P1;gi|37519866|ref|NP_923243.1| D-alanine--D-alanine ligase [Gloeob... [ score 120 E 7e-27 ] [ range 2 .. 94 ]
+sequence
+---RITVLSGSDSPEREVSLVSGRAVQAALETLG-HEVTMVDPG--------------------------
+----------PDLPVRLLENP-PDFVWIALHGDKGENGKLQGLLDWLGLPYNGSGVTASAIAMD*
+>P1;gi|44072861|gb|EAG97871.1| unknown [environmental sequence] [ score 120 E 7e-27 ] [ range 2 .. 91 ]
+sequence
+------IISGGISKERIISLETGKQVAKELKKNN-YLVRTCEPD--------------------------
+----------KDLLSVIKDFK-PNCIFNALHGQFGEDGYIQTILEIIGIPYTHSGIIASAKAMD*
+>P1;gi|44064849|gb|EAG93448.1| unknown [environmental sequence] [ score 120 E 9e-27 ] [ range 2 .. 94 ]
+sequence
+--KKILILGGGISKEREISLETAKQVNNTLKK-K-FKTIICEPD--------------------------
+----------ENLVQKIKKFR-PNLIFNALHGRFGEDGYIQSVLERLRIKYTHSGVLSSFLAMN*
+>P1;gi|23014453|ref|ZP_00054268.1| COG1181: D-alanine-D-alanine liga... [ score 120 E 9e-27 ] [ range 3 .. 100 ]
+sequence
+-IKRVTVLMGGASAERDVSLRSGAAAAKALEQAG-FEVTLVDCN--------------------------
+----------RNPVRAITETQ-PDVVFNALHGRFGEDGCVQGVLNLLGVPYTHSGLLASAAAMD*
+>P1;gi|15805391|ref|NP_294085.1| D-alanine--D-alanine ligase [Deinoc... [ score 119 E 1e-26 ] [ range 1 .. 121 ]
+sequence
+MKRRILLLAGGQSGEHEVSLRSARSVLAALPRDQ-FDVTPVVIS--------------------------
+----------KLPPTETQKEG-YDAVFPLLHGPMGEDGTIQGLLTLAGIPFVGSGVLGSAVSMD*
+>P1;gi|44122501|gb|EAH24715.1| unknown [environmental sequence] [ score 119 E 1e-26 ] [ range 2 .. 96 ]
+sequence
+--NKILILAGGYSNEREISLITAKSVIKELKKNK-YKLLLIEPD--------------------------
+----------GDFVKKLRKFM-PDLVLNLLHGRYGEDGYIQSILESEKVNYTHSGVLSSSLAID*
+>P1;gi|42966283|gb|EAB50095.1| unknown [environmental sequence] [ score 119 E 1e-26 ] [ range 1 .. 100 ]
+sequence
+MKKKIAVLEGGSSAEADVSRSSAAQITKALETQG-YQTTLIDIG--------------------------
+----------NTRLTQILTFK-PDVIFPALHGPIGEDGTIQGFLEILAIPYVGSNVRGSALAMD*
+>P1;gi|43059223|gb|EAB95969.1| unknown [environmental sequence] [ score 119 E 1e-26 ] [ range 1 .. 95 ]
+sequence
+MKKKILILAGGYSKEKDISIKTAKAVYSQI-KND-YKCKILDPK--------------------------
+----------NGFIKEIRKFK-PNVIFNALHGRYGEDGYIQLILENEKINYTHSGVEASSICIN*
+>P1;gi|44050318|gb|EAG85378.1| unknown [environmental sequence] [ score 119 E 1e-26 ] [ range 1 .. 97 ]
+sequence
+MKNKVLVVLGGTSGERAVSLDSGKACVRALKKKG-YKVSTFDPK--------------------------
+----------KKPLNLIDRNK-TDIIFNALHGKDGEDGVAQSYFEYLRIPYTHSGINSSYNAMN*
+>P1;gi|44426174|gb|EAJ18620.1| unknown [environmental sequence] [ score 119 E 1e-26 ] [ range 1 .. 97 ]
+sequence
+MKNKVLVVLGGTSGERAVSLDSGRACINALKKKG-YKVSTFDPK--------------------------
+----------KKPLNLIDKNK-TDIIFNALHGKNGEDGVAQSYFEYLRIPYTHSGINSSYNAMN*
+>P1;gi|42978685|gb|EAB56271.1| unknown [environmental sequence] [ score 119 E 2e-26 ] [ range 1 .. 95 ]
+sequence
+MKKRILILGGGISGERSISLKTANAVKNCIKK-K-YNCKIVEPD--------------------------
+----------KNLTKNIDKFS-PHVVFNALHGRFGEDGFIQTYLESKGLRYTHSGVISSMMAMD*
+>P1;gi|15604119|ref|NP_220634.1| D-ALANINE--D-ALANINE LIGASE (ddlB) ... [ score 118 E 2e-26 ] [ range 22 .. 116 ]
+sequence
+-KKHIALVAGGMSAEREVSLVSSAGVSKALIELG-YKVTFVDMG--------------------------
+----------ADIAVKLQEIN-PDIVFNCLHGTYGEDGCLPGLLNIMRIPYTHSGLLSSALAFD*
+>P1;gi|43069679|gb|EAC01128.1| unknown [environmental sequence] [ score 118 E 3e-26 ] [ range 8 .. 101 ]
+sequence
+--KRVVVVLGGTSGERNVSLNSGKACIKALKRKN-YYVSKFDPK--------------------------
+----------YKNFNLINKLK-TDVIFNALHGKNGEDGVAQSYFEYMGIPYTHSGVISSYNAMN*
+>P1;gi|43522918|gb|EAE16139.1| unknown [environmental sequence] [ score 118 E 3e-26 ] [ range 1 .. 99 ]
+sequence
+MKKKVLVLMGGWSNEREISLISGKYVLESLISSG-VNAISFDLN--------------------------
+----------KDNLHEIKQIN-PDRVFIILHGKGGEDGEIQLFLDNLNIPYTGSGSNASKICMN*
+>P1;gi|43356223|gb|EAD42971.1| unknown [environmental sequence] [ score 118 E 4e-26 ] [ range 6 .. 99 ]
+sequence
+--ERVAVLMGGWTAEASVSRVSASFCGQAARNAG-WDAVEIEVD--------------------------
+----------RDIAATLTEFK-PSRVFNALHGQVGEDGNIQGLLNIMNIPYTHSGLNASAIAMD*
+>P1;gi|15643029|ref|NP_228072.1| D-alanine--D-alanine ligase [Thermo... [ score 117 E 5e-26 ] [ range 2 .. 95 ]
+sequence
+---RVALLMGGVSREREISLRSGERVKKALEKLG-YEHTVFDVR--------------------------
+----------EDFLKKVDQLK-FDVVFNVLHGTFGEDGTLQAILDFLGIRYTGSDAFSSMICFD*
+>P1;gi|44203931|gb|EAH68368.1| unknown [environmental sequence] [ score 117 E 6e-26 ] [ range 3 .. 97 ]
+sequence
+-KKKILVVLGGNSRERAISIKTGKACIAAIKRLG-FRVEKFDPK--------------------------
+----------TRSLSEIKKTK-SKIIFNALHGEEGEDGYAQSFFEFSKIPYTHSGVLSSMKAMN*
+>P1;gi|18310297|ref|NP_562231.1| D-alanine-D-alanine ligase [Clostri... [ score 117 E 9e-26 ] [ range 2 .. 94 ]
+sequence
+---KVGVIMGGISSEREISIQSGNSVVHALDKDK-YEAIPIVLN--------------------------
+----------EKEDLIEKVKG-IDFALLALHGKFGEDGTVQSVLKTLGIPFSGCGPLSSAICMD*
+>P1;gi|15614184|ref|NP_242487.1| D-alanyl-D-alanine ligase A [Bacill... [ score 116 E 1e-25 ] [ range 2 .. 94 ]
+sequence
+---KIAVLYGGTSAEREVSLSSGKGIMEALKANG-HEVIGIDFH--------------------------
+----------PDQVRDLVDLD-VDLVFIGLHGRLGEDGKVQALLDLLNIPYVGTGVQGSALAMD*
+>P1;gi|43757616|gb|EAF33254.1| unknown [environmental sequence] [ score 116 E 1e-25 ] [ range 1 .. 87 ]
+sequence
+MKKKILIISGGISKERLISLDTGLQVAKELRKNS-YNVKISEPN--------------------------
+----------SNLQKIINKFN-PDVIFNALHGQFGEDGYIQTILEKFKIPYTHSG---------*
+>P1;gi|44473611|gb|EAJ51998.1| unknown [environmental sequence] [ score 116 E 1e-25 ] [ range 1 .. 95 ]
+sequence
+MKKKILILGGGLSKERLISLETAKQVKNALKK-K-YKVKMCDLD--------------------------
+----------RKFLFKVKKFK-PNIIFNALHGRFGEDGYVQSIFENQKIRYTHSGVLSSATAMD*
+>P1;gi|43446565|gb|EAD77917.1| unknown [environmental sequence] [ score 116 E 1e-25 ] [ range 2 .. 96 ]
+sequence
+--KKIFIIAGGYSKEREISIKTAKSVYSELKDKN-YKIKIFEPD--------------------------
+----------GLFTKNLRKFN-PDVVLNLLHGRYGEDGYIQSILEIEKFKYTHSGVISSSLAMD*
+>P1;gi|43923054|gb|EAG16363.1| unknown [environmental sequence] [ score 116 E 1e-25 ] [ range 1 .. 86 ]
+sequence
+MKKKILIISGGISKERLISLDTGLQVAKELRKNS-YNVKISEPN--------------------------
+----------NNLQKIINKFN-PDVIFNALHGQFGEDGYIQTVLEKFQIPYTHS----------*
+>P1;gi|44583044|gb|EAK26772.1| unknown [environmental sequence] [ score 115 E 2e-25 ] [ range 13 .. 105 ]
+sequence
+---KVAVLMGGESAEREISLESGKAVHAALTQSG-IDAHVIDYK--------------------------
+----------PGLCNQLVDNA-YDRVFLALHGRGGEDGTVQKELELVGIPYTGSSSSASALAMD*
+>P1;gi|28199733|ref|NP_780047.1| D-alanine--D-alanine ligase B [Xyle... [ score 115 E 2e-25 ] [ range 1 .. 98 ]
+sequence
+MFGRVAVLLGGTSAEREVSLLSGRNVLEVLRMRG-VDAQSVDGV--------------------------
+----------PALAQALVERR-FDRVFNVLHGGGGEDGVVQGLMQAFGVPYTGSDVLGSALSMD*
+>P1;gi|44420585|gb|EAJ14748.1| unknown [environmental sequence] [ score 115 E 3e-25 ] [ range 10 .. 102 ]
+sequence
+---KVAVLYGGSSSEREISLITGKAVFKSLKSEG-VEVMLIDTI--------------------------
+----------EPFIEVLKTER-VTHAWIALHGSDGEDGKIQSILNMLNIKYTGSDPITCSITMN*
+>P1;gi|17986865|ref|NP_539499.1| D-ALANINE--D-ALANINE LIGASE [Brucel... [ score 115 E 3e-25 ] [ range 8 .. 104 ]
+sequence
+MTGKVAVLMGGFSSERSVSLSSGVACATTLEECG-YRVTRIDVD--------------------------
+----------RNVASILVELK-PDVVFNALHGPFGEDGAIQGVLEYLQIPYTHSGVLASALAMD*
+>P1;gi|43919248|gb|EAG14500.1| unknown [environmental sequence] [ score 115 E 3e-25 ] [ range 1 .. 99 ]
+sequence
+MIKKVLVLMGGWSNEREISLISGESVINSLLSSG-VDAHELVLE--------------------------
+----------KNNLELIKKIS-PDRVFIVLHGKGGEDGKIQKYLDRLSIPYTGSRSHSSEICMN*
+>P1;gi|43853729|gb|EAF81057.1| unknown [environmental sequence] [ score 114 E 4e-25 ] [ range 2 .. 93 ]
+sequence
+--KKILILYGGISKERAISLETGKQVEKELKK-K-YLTKLCEPK--------------------------
+----------NLLLG-IKSFK-PDIIFNALHGQFGEDGYIQTILETFKIPYTHSGPVASLLAMN*
+>P1;gi|42962445|gb|EAB48166.1| unknown [environmental sequence] [ score 114 E 4e-25 ] [ range 5 .. 98 ]
+sequence
+--KKVMLIYGGISSEREISIISSEGINDALIRNN-YEVIKIDAN--------------------------
+----------ENLESEIKKHK-PDVIFNALHGTWGEDGEVQRIIELTNVPYTNSGIKASELAMD*
+>P1;gi|44247043|gb|EAH93750.1| unknown [environmental sequence] [ score 114 E 5e-25 ] [ range 10 .. 102 ]
+sequence
+---KVAVLYGGSSSEREISLITGKAVFKSLKSEG-VEVILIDTI--------------------------
+----------EPFIEVLKTER-VTHAWIALHGSDGEDGKIQSILNMLNIKYTGSDPITCSMTMN*
+>P1;gi|44638247|gb|EAK65983.1| unknown [environmental sequence] [ score 113 E 6e-25 ] [ range 10 .. 102 ]
+sequence
+---KVAVLYGGSSSEREISLITGKAVFESLQSKG-LEVILVDTI--------------------------
+----------DPFIEVLKTEK-VTHAWIALHGSDGEDGKIQSILNMLKIKYTGSDPITCSITMN*
+>P1;gi|43389868|gb|EAD59116.1| unknown [environmental sequence] [ score 113 E 7e-25 ] [ range 8 .. 99 ]
+sequence
+----VAVFMGGWGSEAAVSRVSASFCSKAARLAG-WDAIEIEFD--------------------------
+----------RNVVNRLSELK-PDRILNALHGQIGEDGSVQGMLNVMNIPYTHSGVLASALAMD*
+>P1;gi|44293652|gb|EAI25693.1| unknown [environmental sequence] [ score 113 E 7e-25 ] [ range 2 .. 95 ]
+sequence
+---KVSVLMGGTSAERGVSLKTGKAVMNACLELG-YEATPVDFN--------------------------
+----------GDYSSILNDLK-YDIVFNALHGTVGEDGTIQSWLDENNIDYTGSGPNSSRLCMN*
+>P1;gi|43949360|gb|EAG30457.1| unknown [environmental sequence] [ score 113 E 8e-25 ] [ range 2 .. 96 ]
+sequence
+--KKILILAGGYSKEKEVSIQTAKSVYSELNKKK-YKIKVVNPD--------------------------
+----------GKFVQVLRNFN-PNIVLNLLHGRYGEDGYIQAILESEKVKYTHSGVLSSSLAID*
+>P1;gi|27904697|ref|NP_777823.1| D-alanine-D-alanine ligase [Buchner... [ score 113 E 1e-24 ] [ range 5 .. 99 ]
+sequence
+-TEKIAVLLGGTSQERNISLISGYNILNSLLKSG-IHAVAIDTK--------------------------
+----------DFPITQLPHQK-FTKAFIALHGRDGEDGTIQSVLKYLNIPFTGSKTLPSAISIN*
+>P1;gi|44479957|gb|EAJ56446.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 1 .. 98 ]
+sequence
+MKGKIAVLKGGFSDERAISLKTSENVEQALKELG-FKYTSIDCK--------------------------
+----------DDFIEKLISSN-FDLCFNALHGEFGEDGQIQALLEEIGIKYTHSGISSSILAMN*
+>P1;gi|44356421|gb|EAI69262.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 5 .. 99 ]
+sequence
+--KKIAVLMGGPGEEKDVSLKSGEAIKKALNHNG-YDVTSIILD--------------------------
+----------AKLEKLVKELS-VDLVFLGLHGNIGENGTIQGFLDALGIIYTGSGPLSSAICMD*
+>P1;gi|44445363|gb|EAJ31871.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 7 .. 99 ]
+sequence
+---KVLVLMGGWSNEREISLISGKSVLDSLISSG-VDAHELILD--------------------------
+----------KKNIELIKEIS-PDRVFIALHGEGGEDGEIQSYLDRFSIPYTGSSSSSSEICMN*
+>P1;gi|44458208|gb|EAJ41137.1| unknown [environmental sequence] [ score 112 E 1e-24 ] [ range 1 .. 89 ]
+sequence
+-------MKGGYSDEREISLKTGENVEKALEELG-FNFVSIDCR--------------------------
+----------DDFITQLSKSN-FDLCFNALHGEFGEDGQIQALLEKIGIRYTHSGVSASILAMN*
+>P1;gi|43962092|gb|EAG37414.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 2 .. 96 ]
+sequence
+--DKILILAGGYSNEREISLITAKSVIHELKKNK-YRLLLIEPD--------------------------
+----------GSFVKKLRKFR-PNLVLNLLHGRYGEDGYIQSILESEKVRYSHSGVLSSSLAID*
+>P1;gi|44511515|gb|EAJ77225.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 1 .. 83 ]
+sequence
+-------------KEREISLQTGNQVARELKKNG-YKIKVCEPN--------------------------
+----------QKLFKLVEKYK-PKIIFNALHGQYGEDGYIQSILEYIGIPYTHSGVIASAKAMN*
+>P1;gi|43776595|gb|EAF42785.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 2 .. 94 ]
+sequence
+--KKVCILYGGNSSEREVSLKSGKFIHKSLVKNG-YKSQLI--D--------------------------
+----------YADLTELEKLK-FDLVFIALHGEEGESGILQSKMDELGIYYTGSGFEACKNSWD*
+>P1;gi|30352164|gb|AAD20832.2| D-alanine:D-alanine ligase B [Bartone... [ score 112 E 2e-24 ] [ range 1 .. 97 ]
+sequence
+MTGKVTVLMGGWSSERSVSLSSGTACADILEAQG-YNVVRVDVD--------------------------
+----------DRIVSVLEELR-PTTVFNALHGPFGEDGCIQGILEYLKIPYTHSGVMASALAMD*
+>P1;gi|43955725|gb|EAG33960.1| unknown [environmental sequence] [ score 112 E 3e-24 ] [ range 1 .. 94 ]
+sequence
+--NKIALLKGGLNSENEVSLKTAEACLFALKELK-YEIIEIDIK--------------------------
+----------DQFISKIIDSK-VSKCFNALHGSLGENGSIPGLLNCLKIPYTHSGVTASSIAIN*
+>P1;gi|44469425|gb|EAJ48906.1| unknown [environmental sequence] [ score 111 E 3e-24 ] [ range 25 .. 117 ]
+sequence
+---KVAVLYGGSSSEREISLITGKAVFESLQSKG-LKVILVDTI--------------------------
+----------DPFIEVLKAEK-VSHAWIALHGSDGEDGKMQSILNMLKIKYTGSDPITCSITMN*
+>P1;gi|27381549|ref|NP_773078.1| D-alanine--D-alanine ligase A [Brad... [ score 111 E 3e-24 ] [ range 1 .. 141 ]
+sequence
+MADKIVVLYGGRSGEHEVSLKSAASVFRHLDRTR-FEVIPVSID--------------------------
+----------KVPITQAAPIA-IDVVFPVIHGPLCEDGTVQGLLELADVAYVGSGVLASAVSMD*
+>P1;gi|34763164|ref|ZP_00144131.1| D-alanine--D-alanine ligase [Fuso... [ score 111 E 4e-24 ] [ range 2 .. 95 ]
+sequence
+---KIAVFMGGTSSEKEISLKSGEAVLESLKKQS-YDAYGVILD--------------------------
+----------EKNVTAFLDND-YDLAYLVLHGGNGENGKIQAVLDILGKKYTGSGVLASAITMD*
+>P1;gi|43748241|gb|EAF28533.1| unknown [environmental sequence] [ score 111 E 5e-24 ] [ range 1 .. 97 ]
+sequence
+MSLRVGILMGGPSGEREVSIATGKAVIDACVENG-YIATEFGFI--------------------------
+----------NDYKKHLTRLK-TQIIFNALHGGIGENGSIQKWLDKNNIKYTGSGSIASSLCMD*
+>P1;gi|44498960|gb|EAJ68813.1| unknown [environmental sequence] [ score 111 E 5e-24 ] [ range 2 .. 95 ]
+sequence
+--NKIALLKGGLNSENEVSLKTAEACFFALKELK-YEIVEIDIK--------------------------
+----------DQFISKIIDSK-VSKCFNALHGSLGENGSIPGLLNCLKIPYTHSGVMASSIAIN*
+>P1;gi|19704786|ref|NP_604348.1| D-alanine--D-alanine ligase [Fusoba... [ score 110 E 5e-24 ] [ range 2 .. 95 ]
+sequence
+---RIAVFMGGTSSEKEISLKSGEAVLESLQKQG-YDAYGVILD--------------------------
+----------ERNVSAFVDND-YDLAYLVLHGGNGENGKIQAVLDILGKKYTGSGVLASAITMD*
+>P1;gi|30526097|gb|AAP32279.1| D-alanine D-alanine ligase B [Bartone... [ score 110 E 6e-24 ] [ range 1 .. 97 ]
+sequence
+MKEHIAVLMGGFSSERSVSLSSGTACADVLEAQG-YRVSRVDVD--------------------------
+----------GHIASVLEQLQ-PDIAFNALHGPFGEDGRIQGVLEYLKIPYTHSGVMASALAMD*
+>P1;gi|43847192|gb|EAF77865.1| unknown [environmental sequence] [ score 110 E 6e-24 ] [ range 19 .. 111 ]
+sequence
+---KVAVLYGGSSSEREISLITGKAVFESLQSKG-LEVILVDTI--------------------------
+----------DPFIEVLKTEK-VTHAWIALHGSDGEDGKMQSILNMLKIKYTGSDPLTCSITMN*
+>P1;gi|42935037|gb|EAB34538.1| unknown [environmental sequence] [ score 110 E 6e-24 ] [ range 1 .. 97 ]
+sequence
+MKKKILLVAGGYSNERKISIITAKSVYSEKKYKK-YILKIVEPD--------------------------
+----------GNFVKSLRLFK-PDVVFNLLHGRYGEDGYIQSILESERIKYTHSGVLSSSIAID*
+>P1;gi|44214981|gb|EAH74522.1| unknown [environmental sequence] [ score 110 E 7e-24 ] [ range 1 .. 88 ]
+sequence
+MKQKILLVAGGYSKEREISLKTAKSVHKELKKKN-YIIEFVEPD--------------------------
+----------GNFIKKIKSFK-PSIVFNLLHGRYGEDGYIQALLESQKVKYTHSG---------*
+>P1;gi|43710972|gb|EAF10573.1| unknown [environmental sequence] [ score 110 E 7e-24 ] [ range 3 .. 94 ]
+sequence
+----VLLLKGGNGSEREVSISTATECSKAIKQIG-CKITELDIA--------------------------
+----------EINISSLATIN-ADVCFNALHGDYGEDGSIQGLLNLLKIPYTHSGVATSSLAMN*
+>P1;gi|43264358|gb|EAC97908.1| unknown [environmental sequence] [ score 110 E 8e-24 ] [ range 19 .. 111 ]
+sequence
+---KVAVLYGGSSSERDISLITGKAVFESLQSKG-LEVILVDTI--------------------------
+----------DPFIEVLKTEK-VSHAWIALHGSDGEDGKIQSILNMLKIKYTGSDPITCSITMN*
+>P1;gi|30262595|ref|NP_844972.1| D-alanine--D-alanine ligase [Bacill... [ score 109 E 1e-23 ] [ range 2 .. 94 ]
+sequence
+---RIGVIMGGVSSEKQVSIMTGNEMIANLDKNK-YEIVPITLN--------------------------
+----------EKMDLIEKAKD-IDFALLALHGKYGEDGTVQGTLESLGIPYSGSNMLSSGICMD*
+>P1;gi|23112451|ref|ZP_00097930.1| COG1181: D-alanine-D-alanine liga... [ score 109 E 1e-23 ] [ range 9 .. 139 ]
+sequence
+---KIIILFGGQSGEHEVSLNSASSVLKAIDQEK-YEIETIDPT--------------------------
+----------NPRFIALQDGK-FALIFPVLHGPFGEDGTIQGLFEMANIPYAGSGVLGSALGMD*
+>P1;gi|43210952|gb|EAC71016.1| unknown [environmental sequence] [ score 108 E 2e-23 ] [ range 1 .. 85 ]
+sequence
+MKKKVLVVLGGTSGEREVSLDSGRACIKALKKIG-YKVSTFDPK--------------------------
+----------KKPLNLIDKNK-TDVIFNALHGKDGEDGVAQSYFEYLRIPYT------------*
+>P1;gi|45526567|ref|ZP_00177771.1| hypothetical protein Cwat224901 [... [ score 108 E 2e-23 ] [ range 1 .. 130 ]
+sequence
+MAKRIGLLFGGRSGEHEVSINSAQAIAQALQTGK-YDVIPVYPE--------------------------
+----------DTNPYQLWQFP-PEVWFPVLHGPNGEDGTIQGLLTLMQVPFVGSGVLGSAVGMD*
+>P1;gi|43586941|gb|EAE48310.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 3 .. 94 ]
+sequence
+----VLLLKGGSGSEREVSLKTAEVCSRAIKKLG-CIITEVDIS--------------------------
+----------DIDITSLGKIN-ADVCFNALHGDFGENGSIQGLLNLLKIPYTHSGLETSAIAMN*
+>P1;gi|44289114|gb|EAI22686.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 1 .. 95 ]
+sequence
+MKKRILILGGGISGERSISLKTA-KAVKKSIKKK-YKCRIVEPD--------------------------
+----------ENLTKNIEKFS-PHVVFNALHGRFGEDGFIQTYLESKGLKYTHSGVLSSMMAMD*
+>P1;gi|44512858|gb|EAJ78133.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 1 .. 94 ]
+sequence
+MKE-VCVLYGGNSSEREVSLKSGKFIHKSLVNNG-YKSHLI--D--------------------------
+----------YADLTELEKLK-FNLVFIALHGEEGESGILQSKMDKVGIDYTGSGYEACKRSWD*
+>P1;gi|16799922|ref|NP_470190.1| D-alanine--D-alanine ligase [Lister... [ score 107 E 5e-23 ] [ range 1 .. 139 ]
+sequence
+MKTKLILLYGGKSAEHEVSLQTAFSVINALDLEK-FEAEPIYIK--------------------------
+----------LDFVEQLRFSA-TDVVFPLLHGPNGEDGTVQGLFEVLNIPYVGNGVLASSAAMD*
+>P1;gi|267275|sp|P29753|VANC_ENTGA Vancomycin C-type resistance prot... [ score 107 E 6e-23 ] [ range 2 .. 129 ]
+sequence
+--KKIAVLFGGNSPEYSVSLTSAASVIQAIDPLK-YEVMTIGID--------------------------
+----------HKNCHQLKRIV-PDVLFPVLHGKYGEDGCIQGLLELMNLPYVGCHVAASALCMN*
+>P1;gi|44633392|gb|EAK62684.1| unknown [environmental sequence] [ score 107 E 6e-23 ] [ range 2 .. 94 ]
+sequence
+--KRVCVLYGGNSSEREVSLKSGKFIHKSLVKNG-YKSHLI--D--------------------------
+----------YADLTELEKLK-FNLVFIALHGEEGESGILQSKMDKAGIDYIGSGFEACKNSWD*
+>P1;gi|42779346|ref|NP_976593.1| D-alanine--D-alanine ligase [Bacill... [ score 107 E 6e-23 ] [ range 1 .. 135 ]
+sequence
+MTKKLGLLYGGKSAEHQVSLQTALAAIKALNQDK-FEIHPIYIT--------------------------
+----------EIPSTNAEENA-IDVIFPLLHGPNGEDGTVQGLLELMNIPYVGNGVLASAAGMD*
+>P1;gi|40713144|emb|CAE53344.1| VanA protein [Actinoplanes teichomyc... [ score 107 E 7e-23 ] [ range 3 .. 132 ]
+sequence
+-KLKIGIIFGGVSEEHPVSIKSAQEVAKSLDAEK-YEPYWIGIT--------------------------
+----------KDGAWRLREIR-LDVVLPVLHGKLGEDGAMQGLFELSGIPYVGCDVQSSAVCMD*
+>P1;gi|44424175|gb|EAJ17222.1| unknown [environmental sequence] [ score 107 E 7e-23 ] [ range 3 .. 99 ]
+sequence
+-KKNIAVLCGGWSEERLISLKSGDSVYKCLKENG-YEVSKIDVK--------------------------
+----------TANEAFKKELE-FDLVFILLHGRGGEDGEIQKFFEENEIVFTGSNSQSSRITMN*
+>P1;gi|18309801|ref|NP_561735.1| D-alanine-D-alanine ligase [Clostri... [ score 107 E 7e-23 ] [ range 2 .. 94 ]
+sequence
+---KVGIIMGGISSEREVSLASGESIFNHIDKEK-YEVSKIIIN--------------------------
+----------NKIDILEKVKG-LDFALLALHGKFGEDGTVQAFLDIMDIPYSGCGALSSSLCMD*
+>P1;gi|43336960|gb|EAD33962.1| unknown [environmental sequence] [ score 107 E 9e-23 ] [ range 1 .. 94 ]
+sequence
+MKE-VCVLYGGNSSEREVSLKSGKFIHKSLVKNG-YKSQLI--D--------------------------
+----------YANLTELEKLK-FNLVFIALHGEEGESGILQSKMDELGIYYTGSGFEACKNSWD*
+>P1;gi|42836882|gb|EAA85903.1| unknown [environmental sequence] [ score 107 E 9e-23 ] [ range 8 .. 103 ]
+sequence
+--KKILILSGGISEERDISQSSANHVYETIKNQA-ITKILDVSD--------------------------
+----------NADLTKIQKFS-PDVIFNCLHGYFGEDGQIQSILNYLKIPYTHSGVLTSAILMN*
+>P1;gi|15925073|ref|NP_372607.1| D-alanine-D-alanine ligase [Staphyl... [ score 107 E 9e-23 ] [ range 3 .. 129 ]
+sequence
+-KENICIVFGGKSAEHEVSILTAQNVLNAIDKDK-YHVDIIYIT--------------------------
+----------NDEISQLLKES-YDAVFPLLHGPNGEDGTIQGLFEVLDVPYVGNGVLSAASSMD*
+>P1;gi|44619306|gb|EAK52559.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 2 .. 95 ]
+sequence
+---KVGLLSGGNSTEREVSLASGKSIYKACRDLG-YQVKILDPI--------------------------
+----------D-GIRSIKDLS-VDIIFNGLHGGDGENGEVAKYLESLNIPYTGSDQLSSATCMD*
+>P1;gi|44030033|gb|EAG74348.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 2 .. 88 ]
+sequence
+---------GGISKERIISLNSGREVFKELVKNG-YIVKICEPN--------------------------
+----------YKMFDVIKSFK-PKIIFKALHGQFGENGYIQTIFETIKVPYTHSGAIPSSIAMD*
+>P1;gi|38233721|ref|NP_939488.1| D-alanine--d-alanine ligase [Coryne... [ score 106 E 1e-22 ] [ range 17 .. 151 ]
+sequence
+---KVAIIYGGRSSEHSVSCVSAGAIMAHLDPQR-YEVFPVTVG--------------------------
+----------ESDPSRLKTVK-VDVVFPVLHGRFGEDGTIQGLFELSGVPYVGTGVLSSACGMD*
+>P1;gi|44480892|gb|EAJ57205.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 4 .. 97 ]
+sequence
+-IKKIAVLYGGLSSEREISLKSGMGVHKAICDLG-YESDLIDFK--------------------------
+----------NNNLHELKA---YDFIFIALHGFEGEGGKLQEDLDNLNILYSGSNSMACRNTWN*
+>P1;gi|44500872|gb|EAJ70091.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 2 .. 94 ]
+sequence
+--KKVCVLYGGGSSEREVSLKSGKFIHKSLVKNG-YKSRLI--D--------------------------
+----------YRDLTELEKLK-FNLVFIALHGEEGESGILQSKMDKAGIGYTGSGFEACKNSWD*
+>P1;gi|23113875|ref|ZP_00099215.1| COG1181: D-alanine-D-alanine liga... [ score 105 E 2e-22 ] [ range 29 .. 158 ]
+sequence
+-KLKIAIIFGGCSEEHPVSVKSAGEVAKNLDLEK-YEPFYIGIT--------------------------
+----------KDGVWQLQRIP-LDLVFPVLHGKFGEDGAIQGLLELSGIPYVGCDIPSSALCMD*
+>P1;gi|44563006|gb|EAK12838.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 11 .. 103 ]
+sequence
+---KILLLYGGWSAERNISINSGTAVAGALKRNG-ISFSEYDLT--------------------------
+----------SEEDAKLLSTD-YDLAFIALHGRGGEDGFIQEILESKNIRYTGSDTISCKTSLN*
+>P1;gi|16330269|ref|NP_440997.1| D-alanine:D-alanine ligase-related ... [ score 105 E 3e-22 ] [ range 2 .. 127 ]
+sequence
+---RVGLLFGGCSGEHEVSIKSAQAIAKALNQTK-YQVSPFYIQ--------------------------
+----------KNDVSQQEAAR-MEVWFPILHGPNGEDGTVQGLFSLMQVPYVGSGVLGSCVGMD*
+>P1;gi|44380827|gb|EAI86694.1| unknown [environmental sequence] [ score 104 E 4e-22 ] [ range 2 .. 96 ]
+sequence
+--NKILILAGGYSNEREISLITAASVKELKKIKK-YKLLTIEPD--------------------------
+----------GHFVKRLRKFK-PKLVLNLLHGRYGEDGYIQAILESEKVKYTHSGVLSSSLAID*
+>P1;gi|43900573|gb|EAG04516.1| unknown [environmental sequence] [ score 104 E 5e-22 ] [ range 4 .. 97 ]
+sequence
+-INNIAVIYGGTSSEREISIKSGNGVHNALLDLG-YQSKLIDFK--------------------------
+----------DLEYFD-ELIN-FDFVFIALHGFEGEGGFLQQELDKLNILYSGSGPAACANTWD*
+>P1;gi|27468599|ref|NP_765236.1| D-alanine-D-alanine ligase [Staphyl... [ score 104 E 5e-22 ] [ range 3 .. 129 ]
+sequence
+-KENICIVFGGKSAEHDVSILTAQNVLNAIDKER-YQVDIIYIK--------------------------
+----------DNITQEIKNTD-YDAVFPLLHGPNGEDGTIQGLFEVLDIPYVGNGVLAASSSMD*
+>P1;gi|44574324|gb|EAK20786.1| unknown [environmental sequence] [ score 104 E 5e-22 ] [ range 1 .. 89 ]
+sequence
+-------MAGGWSAEREISLKSGAAVLEALRELK-LNCYFIDLH--------------------------
+----------TEEGVLEMPSE-IDLAFIALHGRGGEDGYIQKILEDKGVAYTGSDPQSCELAMD*
+>P1;gi|15896148|ref|NP_349497.1| D-alanine-D-alanine ligase [Clostri... [ score 104 E 5e-22 ] [ range 1 .. 124 ]
+sequence
+MKKKVAILFGGQSTEHEVSRVSAASVLRNIDTSK-YDLFPIYKS--------------------------
+----------PNGQAILFNKE-VDVVFPVMHGLYGEDGTIQGLCKLVGVPCVGPSVLSSSVCMD*
+>P1;gi|23098761|ref|NP_692227.1| D-alanine-D-alanine ligase A [Ocean... [ score 104 E 6e-22 ] [ range 1 .. 139 ]
+sequence
+MKKKVGIVFGGKSAEHEVSLQSAKNIVDAIDSDK-YDVYEEDPK--------------------------
+----------LISLNKTNEDQ-LDVIFPIVHGTLGEDGSLQGMLRMANIPFVGSSVLGSAISMD*
+>P1;gi|43891831|gb|EAF99923.1| unknown [environmental sequence] [ score 103 E 6e-22 ] [ range 4 .. 97 ]
+sequence
+-INKIAVLYGGSSSEREVSIQSGKGVHNAICDLG-YESDLIDFK--------------------------
+----------DNNLNELKM---YDFIFIALHGFEGEAGKLQRDLDDLNILYSGSGHEACMKTWN*
+>P1;gi|28210407|ref|NP_781351.1| D-alanine--D-alanine ligase [Clostr... [ score 103 E 7e-22 ] [ range 3 .. 94 ]
+sequence
+----IGVVMGGVSTEKEISNLTGKYIIENLDKSK-YEILPIPIN--------------------------
+----------TKFELIDKIKC-LEFAFIALHGNFGEDGKVQALLETMGVPYSGSGVLASSLCMD*
+>P1;gi|13471742|ref|NP_103309.1| D-alanine-D-alanine ligase A [Mesor... [ score 103 E 8e-22 ] [ range 1 .. 138 ]
+sequence
+MKEKVAILYGGRSAEHDVSRLSAANVLKAIDRTR-YEVVPIAIS--------------------------
+----------RDRLVALTKNG-VDVVFPVLHGPFGEDGSVQGYAEVADVAYVGCGILASAAAMD*
+>P1;gi|30018494|ref|NP_830125.1| D-alanine--D-alanine ligase [Bacill... [ score 103 E 8e-22 ] [ range 1 .. 135 ]
+sequence
+MTKKLGLLYGGKSAEHQVSLQTALAAIKALNQDK-FEIHPIYIT--------------------------
+----------EQDVEALKENA-IDVIFPLLHGPNGEDGTVQGLLELMNIPYVGNGVLASSAGMD*
+>P1;gi|43036142|gb|EAB84658.1| unknown [environmental sequence] [ score 103 E 9e-22 ] [ range 8 .. 103 ]
+sequence
+--KKIVILSGGISDEKEISNLTSREVFKELKKD--YDVTLINVT--------------------------
+----------DNLIESLLKNK-PDIVFNCLHGFFGEDGQIQSILNYLKIRYTHSGVLTSSILMN*
+>P1;gi|23018186|ref|ZP_00057905.1| COG1181: D-alanine-D-alanine liga... [ score 103 E 1e-21 ] [ range 18 .. 109 ]
+sequence
+--NRVLVLAGGLSPEHEVSVRSGRRVAEALRRLD-VEVQTCDVG--------------------------
+----------PELLNLLTDDP-PQVVFPVLHGTSGEDGAIREVLELAGVPYVGARPDACRAT--*
+>P1;gi|21222011|ref|NP_627790.1| putative D-alanine:D-lactate ligase... [ score 103 E 1e-21 ] [ range 5 .. 132 ]
+sequence
+---KVGIVFGGSSEEHAVSVKSAQEVARNLDTEK-YQPFFVGIT--------------------------
+----------KDEQGQYRSVR-LDVVLPVLHGTLGEDGATQGLLELSGIPYVGCDVQSSALCMD*
+>P1;gi|13346887|gb|AAB17902.2| D-alanine:D-alanine ligase [Enterococ... [ score 103 E 1e-21 ] [ range 2 .. 131 ]
+sequence
+---KITLLYGGRSAEHEVSILSAFSVLNAIYYNY-YQVQLVFIK--------------------------
+----------VINPGEIKEEG-A-IVFPVLHGPNGEDGTIQGFLETLNMPYVGAGVLTSACAMD*
+>P1;gi|29829221|ref|NP_823855.1| putative D-alanine-D-alanine ligase... [ score 102 E 1e-21 ] [ range 16 .. 160 ]
+sequence
+-KPRVAVVFGGRSSEHGISVVTAGAVLRAIDRTK-YDVLPIGIT--------------------------
+----------RDSVEELAESN-VDVVFPVLHGPYGEDGTLQGLLELSGVPYVGAGVLASAVGQD*
+>P1;gi|42944541|gb|EAB39302.1| unknown [environmental sequence] [ score 102 E 1e-21 ] [ range 1 .. 78 ]
+sequence
+-----------------ISLVTGKEVSKELKKNG-YTVENCEPK--------------------------
+----------D-LIHIVKTFK-PKIIFNALHGQFGEDGYIQSILESLKIPYTHSGVIASAKAMD*
+>P1;gi|44291868|gb|EAI24513.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 1 .. 97 ]
+sequence
+MSLKVGVLMGGPSQEREVSLSTGMAVIDACQKIG-YKPTKISFE--------------------------
+----------QDYKSYLKMKK-QDIIFNALHGGIGENGKIQIWMDKNQIKYTGSNAYSSELCMN*
+>P1;gi|16077523|ref|NP_388337.1| D-alanyl-D-alanine ligase A [Bacill... [ score 102 E 2e-21 ] [ range 1 .. 128 ]
+sequence
+-------MYGGKSAEHNVSLQTALAVIKALNTEK-FDIHPIYIT--------------------------
+----------EKPVSNVKMLQ-FDVVFPLLHGPNGEDGTIQGMLELLNIPYVGNGVLASSAGMD*
+>P1;gi|42957523|gb|EAB45720.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 8 .. 103 ]
+sequence
+----IAILYGGWSDEREVSLDSGKSVFETLSANG-YKVYLFDFN--------------------------
+----------IDDPILLQNFK-IDLVFNLIHGIGGEDGTVQHYIEDISIKSIGSDSKSSRISFN*
+>P1;gi|43228868|gb|EAC79997.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 10 .. 105 ]
+sequence
+-KMKIGVLNGGNSEEREVSLNSGSAIISACKELG-HDVISIDPI--------------------------
+----------NGIDSLMNDLK-LDLVFNGLHGGDGENGVIQGLLQTIGVRFTGSSNEASAICMD*
+>P1;gi|23124901|ref|ZP_00106859.1| COG1181: D-alanine-D-alanine liga... [ score 169 E 1e-41 ] [ range 3 .. 140 ]
+sequence
+-KLRVGLLFGGRSGEHEVSIKSARAIAKALSVDEKYEILPFYIQKDGRWLAGEAPQKVLELEAEQSTSEG
+NLTSNPQVQTLSKWESPSQVAQVDIWFPVLHGPNGEDGTIQGLLTLMQVPFVGSGVLGSAM---*
+>P1;gi|45507378|ref|ZP_00159723.1| hypothetical protein Avar364501 [... [ score 163 E 7e-40 ] [ range 3 .. 140 ]
+sequence
+-KLRVGLLFGGRSGEHEVSISSARAIASALENASKYEILPFYIHKDGRWLAGEAPQQVLKLESSNSSPAD
+NNLVNSQQQTLERWQSPSQVAEVDVWFPILHGPNGEDGTIQGLLTLMQTPFVGSGVLGSAL---*
+>P1;gi|45526567|ref|ZP_00177771.1| hypothetical protein Cwat224901 [... [ score 163 E 8e-40 ] [ range 3 .. 127 ]
+sequence
+-KIRIGLLFGGRSGEHEVSINSAQAIAQALENDHKYDVIPVYIQKNGVWIAGETADEVL--ESKTPL---
+---SPEDTNPYQLWQFPPELQEVEVWFPVLHGPNGEDGTIQGLLTLMQVPFVGSGVLGSAV---*
+>P1;gi|23042565|ref|ZP_00073939.1| COG1181: D-alanine-D-alanine liga... [ score 163 E 8e-40 ] [ range 3 .. 141 ]
+sequence
+-KLRVGLLFGGCSGEHEVSIRSAKVIATALTKKEKYELIPIYIQKNGLWQPSDFSQKVLNLTNENNHDLN
+TSLTQQSSSPLWQI--PPQAAQVDVWFPILHGPNGEDGTIQGLLKLMQVPFVGSGVLGSAM---*
+>P1;gi|29829221|ref|NP_823855.1| putative D-alanine-D-alanine ligase... [ score 161 E 3e-39 ] [ range 16 .. 157 ]
+sequence
+-KPRVAVVFGGRSSEHGISVVTAGAVLRAIDRT-KYDVLPIGITRDGRWALTADEPERMAITDRRPSVEE
+LAESNEGGVILEPGSVPKALGEVDVVFPVLHGPYGEDGTLQGLLELSGVPYVGAGVLASAV---*
+>P1;gi|28378923|ref|NP_785815.1| D-alanine--D-alanine ligase [Lactob... [ score 160 E 5e-39 ] [ range 6 .. 136 ]
+sequence
+-KIHVGMLFGGNSSEHDVSKRSAHNIYDAMDK-NKYEIDLFLITKNGIVLSDAATRRVFDGEPEDQVVAE
+EMPKLDMSDPLAPIKNLTLAKDIDIFYPVVHGNLGEDGTLQGLFKLLKKPYVGSGVLASAASF-*
+>P1;gi|21229700|ref|NP_635617.1| D-alanine-D-alanine ligase A [Xanth... [ score 159 E 9e-39 ] [ range 8 .. 143 ]
+sequence
+-RIRVGLIFGGKSAEHEVSLQSARNILQALDPQ-RFEPVLIGIDKQGQWHLSAQESFLLDADDPSRIALR
+HSGRGLAVLPLRAVDAEQALAQIDVVFPIVHGTLGEDGSLQGLLRMANLPFVGSGVLGSAVA--*
+>P1;gi|23113875|ref|ZP_00099215.1| COG1181: D-alanine-D-alanine liga... [ score 159 E 1e-38 ] [ range 29 .. 155 ]
+sequence
+-KLKIAIIFGGCSEEHPVSVKSAGEVAKNLDLE-KYEPFYIGITKDGVWQLCHYPEANWEKGSCRPAILS
+PDRSVQGLLVLEQGQ--YQRIPLDLVFPVLHGKFGEDGAIQGLLELSGIPYVGCDIPSSAL---*
+>P1;gi|21223916|ref|NP_629695.1| D-alanine-D-alanine ligase [Strepto... [ score 157 E 3e-38 ] [ range 20 .. 161 ]
+sequence
+-KPRVAVVFGGRSSEHGISVVTAGAVLAAIDRT-RYDVLPIGITRDGRWALTDEPERMAITERRTPDVEE
+LAESTEGGVLLEPGSVPKALGEVDVVFPVLHGPYGEDGTLQGLLELSGVPYVGAGVLASAV---*
+>P1;gi|26246382|ref|NP_752421.1| D-alanine--D-alanine ligase A [Esch... [ score 156 E 7e-38 ] [ range 3 .. 136 ]
+sequence
+-KLRVGIVFGGKSAEHEVSLQSAKNIVDAIDKS-RFDVVLLGIDKQGQWHVSDASNYLLNADDPAHIALR
+PSATSLAQVPGKHEHQLIDAQNVDVIFPIVHGTLGEDGSLQGMLRVANLPFVGSDVLASA----*
+>P1;gi|34497927|ref|NP_902142.1| D-alanine-D-alanine ligase [Chromob... [ score 156 E 8e-38 ] [ range 3 .. 137 ]
+sequence
+-KIRVGLIFGGQSSEHEVSLQSARNILQAIDGE-RFEVSLIGVDKQGRWHASQASNFLLNADDPGRIALR
+ESGENLALVPGECSGQLQTAANIDVAFPIVHGTLGEDGSLQGLLRMANIPFVGAGVLGSAV---*
+>P1;gi|23098761|ref|NP_692227.1| D-alanine-D-alanine ligase A [Ocean... [ score 155 E 2e-37 ] [ range 2 .. 137 ]
+sequence
+-KKKVGIVFGGKSAEHEVSLQSAKNIVDAIDSD-KYDVYLLGIDKQGNWHVNDRSHYLINEEDPKLISLN
+KTNEGIAVIPGAEKNQIKSLDQLDVIFPIVHGTLGEDGSLQGMLRMANIPFVGSSVLGSAIS--*
+>P1;gi|16330269|ref|NP_440997.1| D-alanine:D-alanine ligase-related ... [ score 155 E 2e-37 ] [ range 2 .. 124 ]
+sequence
+---RVGLLFGGCSGEHEVSIKSAQAIAKALDNQTKYQVSPFYIQKNGVWLGPDVSQQVLDQWGDQPVTAG
+-----------QRWQFPPEAARMEVWFPILHGPNGEDGTVQGLFSLMQVPYVGSGVLGSCV---*
+>P1;gi|21911403|gb|AAC23582.2| D-alanine:D-alanine ligase-related pr... [ score 155 E 2e-37 ] [ range 3 .. 129 ]
+sequence
+-RLKIGIVFGGRSEEHPVSIKSAREVARNLDLE-KYEPFYIGITKSGAWKLCDGPDAEWEDGDCRPVV--
+LSPDSDVHGLLVLEQGGCSTIRLDVVLPVLHGKLGEDGAMQGLLELSGIPYVGCDIQSSAV---*
+>P1;gi|29376797|ref|NP_815951.1| D-alanine--D-lactate ligase [Entero... [ score 154 E 3e-37 ] [ range 3 .. 127 ]
+sequence
+-KIKVAIIFGGCSEEHDVSVKSAIEIAANIN-TEKFDPHYIGITKNGVWKLC---KKPCTEWEADSLPAI
+FSPDRKTHGLLVMKEREYETRRIDVAFPVLHGKCGEDGAIQGLFELSGIPYVGCDIQSSA----*
+>P1;gi|21222011|ref|NP_627790.1| putative D-alanine:D-lactate ligase... [ score 154 E 4e-37 ] [ range 3 .. 129 ]
+sequence
+-RLKVGIVFGGSSEEHAVSVKSAQEVARNLD-TEKYQPFFVGITKDGAWRLCDGPGQDWENGDCRPVVLS
+PDRSVHGLLVLEQGQ--YRSVRLDVVLPVLHGTLGEDGATQGLLELSGIPYVGCDVQSSAL---*
+>P1;gi|6919860|sp|Q9ZGN0|DDL_MYCSM D-alanine--D-alanine ligase (D-al... [ score 154 E 4e-37 ] [ range 10 .. 147 ]
+sequence
+-RTRVAVVYGGRSSEHAISCVSAGSILRNLDPE-RFEVVAIGITPDGSWVLTDGRPETLAITDGKLPAVT
+EASGTELALPAARSGQLLALGNVDVVFPVLHGPYGEDGTIQGLLELAGVPYVGSGVLASA----*
+>P1;gi|16759358|ref|NP_454975.1| D-alanine:D-alanine ligase A [Salmo... [ score 153 E 6e-37 ] [ range 3 .. 136 ]
+sequence
+-KLRVGIVFGGKSAEHEVSLQSAKNIVDAIDKT-RFDVVLLGIDKAGQWHVNDAENYLQNADDPAHIALR
+PSAISLAQVPGKHQHQLINAQNVDVIFPIVHGTLGEDGSLQGMLRVANLPFVGSDVLSSA----*
+>P1;gi|38233721|ref|NP_939488.1| D-alanine--d-alanine ligase [Coryne... [ score 152 E 1e-36 ] [ range 15 .. 147 ]
+sequence
+-RIKVAIIYGGRSSEHSVSCVSAGAIMAHLDPQ-RYEVFPVGITHDGVWTVGESDPSRLKTVDRVMPEVQ
+FTREVPTTAGELCFEDGSLYAKVDVVFPVLHGRFGEDGTIQGLFELSGVPYVGTGVLSSA----*
+>P1;gi|40713144|emb|CAE53344.1| VanA protein [Actinoplanes teichomyc... [ score 152 E 1e-36 ] [ range 3 .. 129 ]
+sequence
+-KLKIGIIFGGVSEEHPVSIKSAQEVAKSLDAE-KYEPYWIGITKDGAWRLCDGPGADWEISSARPAMLS
+PDRNVHGL--LVQEDGRYREIRLDVVLPVLHGKLGEDGAMQGLFELSGIPYVGCDVQSSAV---*
+>P1;gi|5305926|gb|AAD41882.1| D-alanine:D-lactate ligase [Enterococc... [ score 152 E 1e-36 ] [ range 3 .. 129 ]
+sequence
+-KIKVAVLFGGCSEEHNVSIKSAMEIAANID-TKKYQPYYIGITKSGVWKMCEKPCLGWEQYAGDPVV--
+FSPDRSTHGLLIQKDTGYEIQPVDVVFPMIHGKFGEDGSIQGLLELSGIPYVGCDIQSSVI---*
+>P1;gi|44103154|gb|EAH14365.1| unknown [environmental sequence] [ score 152 E 1e-36 ] [ range 6 .. 135 ]
+sequence
+-KKSIGLIFGGNSNEHEVSISSAKTVYQALNSEELFTVKPFYINKYGDWLDSDNSEKILIDEIENNKTKK
+--QGVLNQEKINFLQGIEFQ-NVDVWFPLLHGFNGEDGSIHGLLRFTKKPLVGCGIIGSAL---*
+>P1;gi|11527846|gb|AAG37026.1| D-alanine:D-lactate ligase [Enterococ... [ score 152 E 2e-36 ] [ range 3 .. 129 ]
+sequence
+-KLKIAVLFGGCSEEHDVSVKSAMEVAANINKE-KYQPFYIGITKSGAWKLCDKPCRDWENYAGYPAVIS
+PDRRIHGL--LIQKDGGYESQPVDVVLPMIHGKFGEDGTIQGLLELSGIPYVGCDIQSSVI---*
+>P1;gi|43965055|gb|EAG39032.1| unknown [environmental sequence] [ score 151 E 2e-36 ] [ range 6 .. 131 ]
+sequence
+--ITVGLVFGGRSGEHDVSIRSAATVVRGLRSRERYTVQPIYIDREGRWWGTDLSEATLAFETAPEL---
+----NPPLPPSGFQGFPEGCDAVDLWYPVLHGPNGEDGTIQGLFQLTGKPFVGAGVLGSAVS--*
+>P1;gi|7110137|gb|AAF36803.1| putative D-alanyl-D-alanine ligase Van... [ score 151 E 2e-36 ] [ range 3 .. 129 ]
+sequence
+-RLKIAILFGGCSEEHDVSVKSAKEIANNID-TEKYEPIYIGITRSGVWKMCEKPCMDWDNENCRSAVLS
+PDK--KMHGLLVMRNKGYQIQRIDAVFSVLHGKSGEDGAIQGLFELSSIPYVGCDVQSSAV---*
+>P1;gi|31794157|ref|NP_856650.1| PROBABLE D-ALANINE--D-ALANINE LIGAS... [ score 151 E 4e-36 ] [ range 9 .. 145 ]
+sequence
+---RVAVVFGGRSNEHAISCVSAGSILRNLDSR-RFDVIAVGITPAGSWVLTDANPDALTITNELPQVKS
+GSGTELALPADPRPGAGEVLESVDVVFPVLHGPYGEDGTIQGLLELAGVPYVGAGVLASAV---*
+>P1;gi|15827889|ref|NP_302152.1| D-alanine-D-alanine ligase A [Mycob... [ score 150 E 6e-36 ] [ range 19 .. 158 ]
+sequence
+---RVAVVFGGRSNEHAVSCLSAGSILRNLDRQ-RFDVVAVGITPEGTWMLTDPNPDALAIANRQLPAVS
+CESGIELTLPAAGLGAGEVLTSVDVVFPVLHGPYGEDGTIQGLLELARVPYVGAGVLASA----*
+>P1;gi|29468046|gb|AAN60573.1| D-alanine:D-lactate ligase [Enterococ... [ score 150 E 6e-36 ] [ range 3 .. 128 ]
+sequence
+-RIKVAIIFGGCSEEHDVSVKSAIEIAANID-TEKFDPHYIGITKNGVWKLC---KKPCTEWEADSLPAI
+LSPDRKTHGLLVMKESEYETRRIDVAFPVLHGKCGEDGAIQGLFVLSGIPYVGCDIQSSAV---*
+>P1;gi|27381549|ref|NP_773078.1| D-alanine--D-alanine ligase A [Brad... [ score 150 E 6e-36 ] [ range 4 .. 139 ]
+sequence
+-KIRVVVLYGGRSGEHEVSLKSAASVFRHLDRT-RFEVIPVSIDKTGRWLDQAHAAALPILPDAPEM--R
+LARGPDGRGVLVPIQGAAAPIAIDVVFPVIHGPLCEDGTVQGLLELADVAYVGSGVLASAVS--*
+>P1;gi|5353567|gb|AAD42184.1| D-alanine:D-lactate ligase [Enterococc... [ score 150 E 6e-36 ] [ range 3 .. 129 ]
+sequence
+-RIKVAVLFGGCSEEHNVSIKSAMEIAANID-TKKYQPYYIGITKSGVWKMCEKPCLEWEQYAGDPVV--
+FSPDRSTHGLLIQKDKGYEIQPVDVVFPMIHGKFGEDGSIQGLLELSGIPYVGCDIQSSVI---*
+>P1;gi|6448488|emb|CAB61227.1| vana protein [Bacillus circulans] [ score 150 E 6e-36 ] [ range 3 .. 129 ]
+sequence
+-RIKVAILFGGCSEEHDVSVKSAIEIAANIDKE-KYETLYIGITKSGVWKMCEKP--CVEWENDNCCSAV
+LSPDKKMHGLLVKKNHEYEIDHVDVAFSVLHGKSGEDGSIQGLFELSGIPFVGCDIQSSAI---*
+>P1;gi|25027987|ref|NP_738041.1| putative D-alanine--D-alanine ligas... [ score 150 E 7e-36 ] [ range 8 .. 140 ]
+sequence
+-KVRVAVLYGGRSAEHSVSCVSAGAIIAHLDPE-KYEVIPVGITTDGAWVVGESDPERLRLVDRMPEVQR
+REEIRPSLDPAHRGEFHFADGSLDVIFPVLHGRFGEDGTIQGMFALSDIPVVGPGVLSSA----*
+>P1;gi|41409117|ref|NP_961953.1| DdlA [Mycobacterium avium subsp. pa... [ score 149 E 8e-36 ] [ range 8 .. 143 ]
+sequence
+---RVAVVFGGRSNEHAISCVSAGSILRNLDPR-RFEVVAIGITPQGSWVLTDGDPAALAISDRQLPEVT
+SASGTELALPADPPGASEVLASVDVVFPVLHGPYGEDGTIQGLLELAGVPYVGAGVFASA----*
+>P1;gi|23037508|ref|ZP_00069716.1| COG1181: D-alanine-D-alanine liga... [ score 149 E 8e-36 ] [ range 4 .. 131 ]
+sequence
+-KIRVGLFFGGNSSEHDVSKRSAKNYYDALDPE-KYQIFPVLISKKGIMIDSETSKRVLFGEDEDELLAG
+LNKNADIFGPIDSIRNLK----LDVLFPSVHGNLGEDGTLAGLFRLMNIPYVGSGLRAHAISF-*
+>P1;gi|19552539|ref|NP_600541.1| D-alanine-D-alanine ligase [Coryneb... [ score 149 E 1e-35 ] [ range 8 .. 140 ]
+sequence
+-KVRVAVVYGGRSSEHSVSCVSAGAIMAHLDPE-KYDVIPVGITVDGAWVVGETDPQKLTLIDRMPEVEH
+HEEVRPSLDPAHRGEFHFSDGSLDVIFPVLHGRFGEDGTVQGLFALSDIPVVGPGVLASA----*
+>P1;gi|23112451|ref|ZP_00097930.1| COG1181: D-alanine-D-alanine liga... [ score 149 E 1e-35 ] [ range 7 .. 136 ]
+sequence
+-RQKIIILFGGQSGEHEVSLNSASSVLKAIDQE-KYEIETIGIAKNGQWHRPEQWQQDPALEGI-PVILA
+HDPTNPRFIALD-GSSLPQDGKFALIFPVLHGPFGEDGTIQGLFEMANIPYAGSGVLGSAL---*
+>P1;gi|43254064|gb|EAC92745.1| unknown [environmental sequence] [ score 149 E 1e-35 ] [ range 4 .. 134 ]
+sequence
+-KITIGLICGGTSGEHEVSLISAYNIQAALNRE-KYNVLLIGIDKIGGWYLGRNQSFWKNVKDVRKV--S
+FVTELPARLPQRNLTEAGELAEVDVFFPITHGKLGEDGALQGLLELYGKPYVGADVYGSAI---*
+>P1;gi|14719504|pdb|1E4E|B Chain B, D-Alanyl-D-Lacate Ligase [ score 149 E 1e-35 ] [ range 3 .. 129 ]
+sequence
+-RIKVAILFGGCSEEHDVSVKSAIEIAANINKE-KYEPLYIGITKSGVWKMCEKPCAEW--ENENCYSAV
+LSPDKKMHGLLVKKNHEYEINHVDVAFSALHGKSGEDGSIQGLFELSGIPFVGCDIQSSAI---*
+>P1;gi|27468599|ref|NP_765236.1| D-alanine-D-alanine ligase [Staphyl... [ score 149 E 2e-35 ] [ range 3 .. 127 ]
+sequence
+-KENICIVFGGKSAEHDVSILTAQNVLNAIDKE-RYQVDIIYITNDGEWKKKDNITQEIKNTDELVIND-
+----VETGEISQLLSKGSLGKSYDAVFPLLHGPNGEDGTIQGLFEVLDIPYVGNGVLAASSS--*
+>P1;gi|15925073|ref|NP_372607.1| D-alanine-D-alanine ligase [Staphyl... [ score 149 E 2e-35 ] [ range 3 .. 127 ]
+sequence
+-KENICIVFGGKSAEHEVSILTAQNVLNAIDKD-KYHVDIIYITNDGDWRKQNNITAEIKSTDEL-----
+HLENGEALEISQLLKESSSGQPYDAVFPLLHGPNGEDGTIQGLFEVLDVPYVGNGVLSAASS--*
+>P1;gi|44564259|gb|EAK13715.1| unknown [environmental sequence] [ score 148 E 2e-35 ] [ range 6 .. 135 ]
+sequence
+-KKCIGLIFGGNSNEHEVSISSAKTVYEAFNSEERFTVKAFYINKYGDWLDSDSSEKILISKIQNNKT--
+IKQEIFNQEKINFLEGIEFQ-NVDVWFPLLHGFNGEDGSIHGLLRFTKKPLVGCGIIGSAL---*
+>P1;gi|33866175|ref|NP_897734.1| D-alanine--D-alanine ligase [Synech... [ score 148 E 2e-35 ] [ range 7 .. 134 ]
+sequence
+---TVGVVFGGCSGEHDVSIRSAQTVAKGLTLRERYRVVLVYIDRDGRWWGPDLAGKVLS--SGCPPADS
+DLPQPL---PAPGFRGLPAGTDVAVWYPVLHGPNGEDGTIQGLFELMQQPYVGAGVLGSAVS--*
+>P1;gi|44324657|gb|EAI46793.1| unknown [environmental sequence] [ score 148 E 2e-35 ] [ range 6 .. 135 ]
+sequence
+-KKCIGLIFGGNSNEHEVSISSAKTVFQAFNSEERYTVKTFYINKYGDWLDSHLSEKILIGGIENNKTNK
+--KEIFNQKKINFLDGIEFQ-NIDVWFPLLHGFNGEDGSIHGLLRFTKKPLVGCGIIGSAL---*
+>P1;gi|23019403|ref|ZP_00059114.1| COG1181: D-alanine-D-alanine liga... [ score 148 E 2e-35 ] [ range 16 .. 153 ]
+sequence
+-KIRVAVIFGGRSSEHEISCVTAGSVMSAID-TDRYDILPIGITRDGDWRLVTADPSELAIVDGKLPAVP
+ALDTPGAFLEVAPDSLPRLVGQVDVVLPLLHGPFGEDGTIQGLLELAGVRYVGAGVFASAAS--*
+>P1;gi|44545601|gb|EAK00504.1| unknown [environmental sequence] [ score 148 E 3e-35 ] [ range 7 .. 134 ]
+sequence
+---TVGVVFGGCSGEHDVSIRSAQTVVKGLNLLERYRIVLVYIDRDGRWWGPDLAEKVLS--SGCPPADS
+DLPQPLPAPGFRGLPAGTDA--VAVWYPVLHGPNGEDGTIQGLFELMQQPYVGAGVLGSAVS--*
+>P1;gi|13471742|ref|NP_103309.1| D-alanine-D-alanine ligase A [Mesor... [ score 147 E 5e-35 ] [ range 4 .. 136 ]
+sequence
+-KTRVAILYGGRSAEHDVSRLSAANVLKAIDRT-RYEVVPIAISRDGRWRLQPSSEAGADGAGAQVPEDG
+VEVALLPGGKVALTKNGEQPDPVDVVFPVLHGPFGEDGSVQGYAEVADVAYVGCGILASAAA--*
+>P1;gi|44230227|gb|EAH83136.1| unknown [environmental sequence] [ score 147 E 5e-35 ] [ range 7 .. 135 ]
+sequence
+--KCIGLIFGGNSNEHEVSISSAKTVYQAFNSEERFTVKAFYINKYGDWLDSDLSEKILIGEIENDT--S
+KKQGTFNPEKINFLDGIKFQ-NVDVWFPLLHGFNGEDGSIHGLLKFTKKPLVGCGIIGSAL---*
+>P1;gi|43493976|gb|EAE01823.1| unknown [environmental sequence] [ score 147 E 5e-35 ] [ range 4 .. 134 ]
+sequence
+-KITIGLICGGTSGEHEVSLISAYNIQAALNRE-KYNVLFIGIDKNGGWYLGSSQSFWKNVKDVRKV--S
+FETELPARLPQINLTKAGESAEVDVFFPITHGKLGEDGALQGLLELYGKPYVGADVYGSAI---*
+>P1;gi|33240829|ref|NP_875771.1| D-alanine-D-alanine ligase and rela... [ score 147 E 6e-35 ] [ range 6 .. 133 ]
+sequence
+--KTVGIVFGGVSGEHEVSIKSARTIIHALKNINKFDVISIYIDKKGKWWPSEIAEKVL-ESDPNFDKNI
+FFKQVEFIGLD---HLPKETEKIQIWFPVLHGPNGEDGSIQGFFQLTGKPYVGSGVLGSAL---*
+>P1;gi|33519925|ref|NP_878757.1| D-alanine:D-alanine ligase A [Candi... [ score 146 E 7e-35 ] [ range 4 .. 132 ]
+sequence
+-KLRVGLVCGGCSLEHEVSLKSAIYIMKYINKR-FFEVVVLWISKQGDWYIVENDDMHIDFFVNKENLHK
+CMPILMFSSGNRCFEYINNILSLDVIFPIIHGALGEDGSLQGLLRLMNLPYVGSDVLGSAI---*
+>P1;gi|40217779|gb|AAR82837.1| D-alanine,D-alanine ligase [Enterococ... [ score 146 E 8e-35 ] [ range 2 .. 129 ]
+sequence
+---KITLLYGGRSAEHEVSILSAFSVLNAI-YYNYYQVQLIFITKEGQWVKGPLLTEKPASKDVLHLSWD
+PSGQTEEGFTGKVINPGEIKEEGAIVFPVLHGPNGEDGTIQGFLETLNMPYVGAGVLTSACA--*
+>P1;gi|15805391|ref|NP_294085.1| D-alanine--D-alanine ligase [Deinoc... [ score 146 E 9e-35 ] [ range 2 .. 119 ]
+sequence
+-KRRILLLAGGQSGEHEVSLRSARSVLAAL-PRDQFDVTPVVISKQGRWLPPTETQK------------A
+LETGVSSQGGDLMLHRAAAAEGYDAVFPLLHGPMGEDGTIQGLLTLAGIPFVGSGVLGSAVS--*
+>P1;gi|16802896|ref|NP_464381.1| D-alanine--D-alanine ligase [Lister... [ score 146 E 9e-35 ] [ range 2 .. 137 ]
+sequence
+-KTKLILLYGGKSAEHEVSLQTAFSVINALDLE-KFEAAPIYITNEGEWIQGPLLSGKLDFVETDTIKLA
+TTESEKSEGEAISPAVLEADGQETVVFPLLHGPNGEDGTVQGLFEVLNIPYVGNGVLASSAA--*
+>P1;gi|44660787|gb|EAK79791.1| unknown [environmental sequence] [ score 146 E 1e-34 ] [ range 5 .. 136 ]
+sequence
+-RLKVGLICGGTSGEHQVSLISAYHIQKALDR-NRFDVRMIGISQDGSWFLGDSENFLENHEDVRKVASL
+PVTIPERQSKAIRPENSGSLDDIDVFFPITHGRLGEDGALQGLLELAGKPYVGSEVYGSAI---*
+>P1;gi|43995746|gb|EAG55658.1| unknown [environmental sequence] [ score 145 E 1e-34 ] [ range 6 .. 135 ]
+sequence
+-KKCIGLIFGGNSNEHEVSISSAKTVFQAFNSEERYTIKTFYINKYGDWLDSHLSENILIGRIENDKTNK
+--QEIFNQKKINFLEGIEFQ-NVDVWFPLLHGFNGEDGSIHGLLRFTNKPLVGCGIIGSAL---*
+>P1;gi|16799922|ref|NP_470190.1| D-alanine--D-alanine ligase [Lister... [ score 145 E 2e-34 ] [ range 2 .. 137 ]
+sequence
+-KTKLILLYGGKSAEHEVSLQTAFSVINALDLE-KFEAEPIYITNEGEWVQGPLLSGKLDFVETDRVKLA
+TAESEKSEGEAISPAVLEADGQETVVFPLLHGPNGEDGTVQGLFEVLNIPYVGNGVLASSAA--*
+>P1;gi|44448449|gb|EAJ34054.1| unknown [environmental sequence] [ score 145 E 2e-34 ] [ range 7 .. 134 ]
+sequence
+---TVGVVFGGCSGEHDISIRSAQTVVHGLNLRQRYQLVLIYIDRDGRWWGPDIAAKVLDSGSPPSSADL
+PQPL-----PGPGFRGLPAGADVTIWYPVLHGPNGEDGTIQGLFEMMQQPYVGAGVLGSAVS--*
+>P1;gi|43440666|gb|EAD75357.1| unknown [environmental sequence] [ score 145 E 2e-34 ] [ range 5 .. 136 ]
+sequence
+-RLKVGLICGGTSGEHQVSLISAYHIQKALDRK-RFDVRMIGISQDGSWFIGDSENFLENHEDIRKVASL
+PVTIPERQTKVIRPENTGSLDDIDVFFPITHGRLGEDGALQGLLELAGKPYVGSEVYGSAI---*
+>P1;gi|741411|prf||2007289B D-Ala D-Ala ligase [ score 145 E 2e-34 ] [ range 1 .. 129 ]
+sequence
+--LKIILLYGGRSEEHDVSVLSAYSVLNAIYYK-YYQVQLVFISKDGQWVKGPLLSERPQNKEVLHLTWA
+QTPEETGEFSGKRISPSEIYEEEAIVFPVLHGPNGEDGTIQGFMETINMPYVGAGVLASVNA--*
+>P1;gi|27378516|ref|NP_770045.1| D-alanine--D-alanine ligase [Bradyr... [ score 145 E 2e-34 ] [ range 14 .. 148 ]
+sequence
+-KITVGLLFGGRSAEHEVSRASAANILRALNSD-RYDVYLIGISRDGRWFACDSGNGAGTGSTALTISDE
+APEIGLVPGGRGRLPTGSDAGSIDVAFPILHGPNGEDGTVQGALELADVSFVGSSVTGSAVA--*
+>P1;gi|42779346|ref|NP_976593.1| D-alanine--D-alanine ligase [Bacill... [ score 144 E 4e-34 ] [ range 3 .. 131 ]
+sequence
+-KIKLGLLYGGKSAEHQVSLQTALAAIKALNQD-KFEIHPIYITEQGQWVRGERIEGEVTDVEVLKMSGA
+ENAISPLSLSTEIIPSTNAEENIDVIFPLLHGPNGEDGTVQGLLELMNIPYVGNGVLASA----*
+>P1;gi|43668229|gb|EAE89116.1| unknown [environmental sequence] [ score 144 E 4e-34 ] [ range 6 .. 131 ]
+sequence
+-KKCIGLIFGGNSNEHEVSISSAKTVYQAFNSEERFTVKAFYINRYGEWLDSDNSEKILIGEIENNKTKK
+--QEIFNQEKVNFLEGIEFQ-NIDVWFPLLHGFNGEDGSIHGLLRFTKKPLVGCGIL-------*
+>P1;gi|5759265|gb|AAD51060.1| D-alanine:D-lactate ligase [Enterococc... [ score 144 E 5e-34 ] [ range 3 .. 127 ]
+sequence
+-RIKVAVLFGGCSEEHNVSIKSAMEIAANID-TKKYQPYYIGITKSGVWKMCEKPCLEWEQYAGDPVV--
+FSPDRSTHGLLIQKDTGYEIQPVDVGLPMIHGKFGEDGSIQGLLELSGIPYVGCDIQSS-----*
+>P1;gi|4405962|gb|AAD19835.1| D-alanyl-D-alanine ligase [Amycolatops... [ score 143 E 6e-34 ] [ range 3 .. 127 ]
+sequence
+-RLKIGILFGGLSEEHPISIKSAREVQKHLDLE-KYEPYYIGITQSGSWMLCDGPAEDWENGDVRPAVLS
+PDRGVHGL--LVLDEGKYETIALDVVLPVLHGKFGEDGAMQGLLEISGIPYVGCDLPSS-----*
+>P1;gi|43983521|gb|EAG49051.1| unknown [environmental sequence] [ score 143 E 6e-34 ] [ range 6 .. 135 ]
+sequence
+-KKCIGLIFGGHSNEHEVSISSAKTVFQAFNAKERFTIKAFYINKYGDWLDSDISEKILIGQIENYKTKK
+--QETFNQEKINFLEGIEFQ-NIDVWFPLLHGLNGEDGSIHGLIKFTKKPLVGCGIIGSAL---*
+>P1;gi|28871324|ref|NP_793943.1| D-alanine--D-alanine ligase [Pseudo... [ score 143 E 6e-34 ] [ range 2 .. 135 ]
+sequence
+-KKSVAIVFGGQSSEHEVSLQSARNVINAIDRES-YALTLIGVDKLGRWLRFDEADYLLNANDPARIKLS
+GSGKQLSLLPGSVVESGKPLAAIDVVFPLIHGAFGEDGALQGLLRMLAVPFVGADVLASA----*
+>P1;gi|43469953|gb|EAD89704.1| unknown [environmental sequence] [ score 143 E 7e-34 ] [ range 4 .. 134 ]
+sequence
+-KITIGLICGGTSGEHEVSLVSANNIQSALNRE-KYNVLLIGIDKNGGWYLGRNQSFWNNVEDVSKV--S
+FVTELPLRLPQRNFKDAGESDEVDVFFPITHGKQGEDGALQGLLELFGKPYVGADVYGSAI---*
+>P1;gi|2833428|sp|Q47827|DDL_ENTHR D-alanine--D-alanine ligase (D-al... [ score 143 E 7e-34 ] [ range 2 .. 129 ]
+sequence
+---KITLLYGGRSAEHDVSVLSAFSVLNAIYYT-YYQVQLIFISKEGQWVKGPLTEKPTSKEDLHLTWDP
+SGKVTDGFTG-RVINPGEIKEEGTIVFPVLHGPNGEDGTIQGFLETLNLPYVGAGVLTSACA--*
+>P1;gi|15896148|ref|NP_349497.1| D-alanine-D-alanine ligase [Clostri... [ score 143 E 7e-34 ] [ range 2 .. 121 ]
+sequence
+-KKKVAILFGGQSTEHEVSRVSAASVLRNID-TSKYDLFPIGITKKGEWFETGSADKIENGEWEK-----
+-----DEFYKSPNGQAILFNKEVDVVFPVMHGLYGEDGTIQGLCKLVGVPCVGPSVLSSSV---*
+>P1;gi|33862595|ref|NP_894155.1| D-alanine--D-alanine ligase [Prochl... [ score 143 E 9e-34 ] [ range 5 .. 134 ]
+sequence
+-RTCVGVVFGGASEEHAVSIRSAITVVGALRSENRFEVIAIYIDQRGRWWPAGVAEAVL--KQGHPAKPE
+QLSTPLAPQGFTKL--PEGSERVQVWYPVLHGPNGEDGTVQGLFTLMGQPFVGSGVLGSALS--*
+>P1;gi|6624709|emb|CAB63849.1| D-ala,D-ala ligase [Streptococcus pne... [ score 142 E 1e-33 ] [ range 2 .. 124 ]
+sequence
+-KQTIILLYGGRSAEREVSVLSAESVMRAVDYD-RFTVKTFFISQSGDFIKTQEFSHAPGQEDR------
+-LMTNETIDWDKKVAPSAIYEEGAVVFPVLHGPMGEDGSVQGFLEVLKMPYVGCNILSSSLA--*
+>P1;gi|43571187|gb|EAE40406.1| unknown [environmental sequence] [ score 142 E 1e-33 ] [ range 6 .. 135 ]
+sequence
+-KKCIGLIFGGFSNEHDVSISSAKTVFKAFNSKQRFKVKAFYINKYGDWLDSDISEQILIGEIENNTTK-
+-TQGIINQEKINFLDGIEFQ-NVDIWFPLLHGFNGEDGSIHGLLKFTRKPLVGCGIIGSAL---*
+>P1;gi|6634574|emb|CAB64471.1| D-ala,D-ala ligase [Streptococcus pne... [ score 142 E 2e-33 ] [ range 2 .. 124 ]
+sequence
+-KQTIILLYGGRSAEREVSVLSAESVMRAVNYD-RFTVKTFFISQSGDFIKTQEFSQTPGQEDR------
+-LMTNATIDWDKKVAPSAIYEEEAVVFPVLHGPMGEDGSVQGFLEVLKMPYVGCNILSSSLA--*
+>P1;gi|42522180|ref|NP_967560.1| D-alanine-D-alanine ligase [Bdellov... [ score 141 E 2e-33 ] [ range 4 .. 136 ]
+sequence
+-KKIVALIFGGKSAEHEVSLRSAKNVADALDKD-KFTPVLIGISKEGSWYR---FPDMGVFTEATKIVDS
+ALPSKAEPVALMSLQGKPSKTAVDVAFPILHGTMGEDGTIQGLFKMVQLPFVGCGVWSSA----*
+>P1;gi|30018494|ref|NP_830125.1| D-alanine--D-alanine ligase [Bacill... [ score 141 E 2e-33 ] [ range 3 .. 131 ]
+sequence
+-KIKLGLLYGGKSAEHQVSLQTALAAIKALNQD-KFEIHPIYITEQGQWVRGERIEEVTDVEALKMSGAE
+NAISPLSLSTEIIPSAASEENAIDVIFPLLHGPNGEDGTVQGLLELMNIPYVGNGVLASS----*
+>P1;gi|21398187|ref|NP_654172.1| Dala_Dala_ligas, D-ala D-ala ligase... [ score 141 E 2e-33 ] [ range 3 .. 131 ]
+sequence
+-KIKLGLLYGGKSAEHQVSLQTALAAIKALNQD-KFEIHPIYITEQGQWIRGERIEEVANVEVLKMSGAE
+NAISPLSLSTEIIPSANAEENAIDVIFPLLHGPNGEDGTVQGLLELMNIPYVGNGVLASA----*
+>P1;gi|2833427|sp|Q47823|DDL_ENTGA D-alanine--D-alanine ligase (D-al... [ score 140 E 6e-33 ] [ range 2 .. 120 ]
+sequence
+---KIILLYGGRSAEHDVSLLSAFSVVNAV-YYNYYQVQLVMITRDGQWLKG-------SLLTEAPTSKE
+VLNLTDSAYQGTPIQPGEIKEEDAIVFPLLHGPNGEDGTIQGFLETIGMPYVGAGVLTSA----*
+>P1;gi|33355853|gb|AAQ16273.1| D-Ala:D-Ser ligase [Enterococcus faec... [ score 140 E 6e-33 ] [ range 4 .. 136 ]
+sequence
+--KKIAVIFGGNSTEYEVSLQSASAVFENIN-TNKFDIIPIGITRSGEWHYTGEKEKILNFEDSKPVVVS
+QNRSVKGFLEIASDK--YRIIKVDLVFPVLHGKNGEDGTLQGIFELAGIPVVGCDTLSSAL---*
+>P1;gi|44627386|gb|EAK58458.1| unknown [environmental sequence] [ score 139 E 2e-32 ] [ range 3 .. 132 ]
+sequence
+-KTRVLLLFGGQSAEHEVSVVSARSVYQAIDSD-RYEVILAGISRTGQWFLEDGKASLLEHEVSNGNGSP
+VQLGAGQRDLVALDGNPVGSAAFDVVFPLLHGPRGEDGSVQGLLELADVAYVGAGIAASAV---*
+>P1;gi|22536931|ref|NP_687782.1| D-alanine--D-alanine ligase [Strept... [ score 139 E 2e-32 ] [ range 3 .. 125 ]
+sequence
+-KETLILLYGGRSAEREVSVLSAESVMRAINYD-KFFVKTYFITQVGQFIKTQEF-------DEMPSSDE
+KLMTNQTVDLDKMVRPSDIYDDNAIVFPVLHGPMGEDGSIQGFLEVLRMPYVGTNILSSSVA--*
+>P1;gi|15675338|ref|NP_269512.1| putative D-ala,D-ala ligase [Strept... [ score 138 E 2e-32 ] [ range 3 .. 125 ]
+sequence
+-KQTLVLLYGGRSAEREVSVLSAESVMRAVNYD-KFLVKTYFITQMGQFIKTQQFS-------EKPSESE
+RLMTNETIELTQKIKPSDIYEEGAVVFPVLHGPMGEDGSIQGFLEVLRMPYIGTNVMSSSIA--*
+>P1;gi|42527886|ref|NP_972984.1| D-alanine--D-alanine ligase [Trepon... [ score 138 E 3e-32 ] [ range 2 .. 134 ]
+sequence
+---NIAIIYGGKSSEHEVSLQSASSIIRTIDKKHK--LHLIGISKNGAWYLHGDEERERIIKNEKKIKKD
+EAKRVTVIPGGGAKKGLKAGDEFDAVFAVLHGRFGEDGTIQGLFEMADLPYVGGDVMSTSIS--*
+>P1;gi|42518194|ref|NP_964124.1| D-alanine-D-alanine ligase [Lactoba... [ score 138 E 3e-32 ] [ range 4 .. 127 ]
+sequence
+-KIKVGLIFGGNSSEYEVSIMSAHNIYEEID-TNKFDVYPMWITNDGYLADDADSRKVL----DNPKMEV
+ANPHKVAN--ISNIIELKDRPEIDVFFPIVHGNLGEDGCLQGLFRVLDKPFVGDDVLAAAVT--*
+>P1;gi|44604554|gb|EAK41962.1| unknown [environmental sequence] [ score 137 E 3e-32 ] [ range 1 .. 122 ]
+sequence
+----------GTSGEHEVSLISAYNIQAALNRE-KYNVLLIGIDKNGGWYLGSNKSFWKNVKDVRKV--S
+FVNDLPVRLPQRNLNNAGESEEVDVFFPITHGKLGEDGALQGLLELFGKPYVGSDVYGSAI---*
+>P1;gi|33861862|ref|NP_893423.1| D-alanine--D-alanine ligase [Prochl... [ score 137 E 3e-32 ] [ range 6 .. 135 ]
+sequence
+-KKCIGIIFGGESNEHDVSVSSAKTVFKALISKNRFWVKAFYINKHGVWLDNDQSLVLLKEKRKNETIDK
+--NQVFPKREINFLNTIEFQG-IDIWFPLLHGVNGEDGAIHGLLKFTQKPIVGGGILGSAL---*
+>P1;gi|24379077|ref|NP_721032.1| putative D-alanine-D-alanine ligase... [ score 137 E 4e-32 ] [ range 3 .. 125 ]
+sequence
+-KETLVLLYGGRSAERDVSVLSAESVMRAINYDN-FLVKTYFITQAGDFIKTQEF-------DSQPSETD
+KLMTNDTIIASQKIKPSDIYEEEAVVFPVLHGPMGEDGSIQGFLEVLKMPYVGTNILSSSVA--*
+>P1;gi|21674167|ref|NP_662232.1| D-alanine-D-alanine ligase A [Chlor... [ score 137 E 6e-32 ] [ range 3 .. 139 ]
+sequence
+-KQTVALFFGGKSAEHEISIISARSIAAQIDR-NRYELSPLYIDRDGKWHASECSQQVLDTDIAALLRSG
+TPESATAAAAGECFDFGSFLKNTDVAFIALHGSYGEDGKLQGCLDTFGIPYTGCGLTASALA--*
+>P1;gi|480501|pir||S36974 hypothetical protein 8 (atpB 5' region) - ... [ score 136 E 7e-32 ] [ range 3 .. 119 ]
+sequence
+-RLRVGLLFGGRSREHEVSVVSAAAIAQAFANGDRYEVVPIYIQKDGRWRCTE-------------TVSA
+PAPSLDNQ---SLWSFPAVAETIDVWFPILHGPNGEDGTIQGLLEMMQRPYVGSGVAASAI---*
+>P1;gi|23464945|ref|NP_695548.1| D-alanine--D-alanine ligase [Bifido... [ score 135 E 2e-31 ] [ range 36 .. 196 ]
+sequence
+-KKRVVVLYGGRADEHSISCISTAGVLGAMD-TERFEPIPVGITKDGKWIINGEDPRGWNLDESRPVMLD
+PSRGQDGFFIGEPSHVLTSLGHVDAVLPVLHGPYGEDGTVQGLLEMMGVPYVGCGVFASA----*
+>P1;gi|20808895|ref|NP_624066.1| D-alanine-D-alanine ligase and rela... [ score 134 E 5e-31 ] [ range 2 .. 139 ]
+sequence
+--LKVAVMFGGKSVEHEVSIITGLQVIENMNKE-KYEPIPVYVGRDGRWYTGKGLLDISNYKDIPSLLKK
+CEQVVLPPVPKKFMSKEYDYIDVDVIFPAFHGTHGEDGTMQGLFQLANIPYVGSGVVGSA----*
+>P1;gi|22298066|ref|NP_681313.1| D-alanine:D-alanine ligase [Thermos... [ score 133 E 6e-31 ] [ range 3 .. 119 ]
+sequence
+-RLRVGLLFGGRSREHEVSVVSAAAIAQAFDNGDRYEVIPIYIEKDGRWRHTE---RVGIPEGTAP----
+---------ESSLWQFPAVVDTIDVWFPIVHGPNGEDGTIQGLLELMQRPYVGSGVAASAI---*
+>P1;gi|44572695|gb|EAK19656.1| unknown [environmental sequence] [ score 133 E 7e-31 ] [ range 2 .. 132 ]
+sequence
+-KKKLCIVFGGKSVEHEISIISANAILNHIDQK-KYIVYGVFVGKNGVFYESKKYNKKLKFENKKQNKVT
+FLYGDTKDIGIIKDNKIMDKRKIDIFFPLIHGTGGEDGSIQGLLETINKPYIGCNVESSSI---*
+>P1;gi|15639657|ref|NP_219107.1| D-alanine--D-alanine ligase (ddlA) ... [ score 133 E 9e-31 ] [ range 3 .. 134 ]
+sequence
+---HVTLLYGGRSAEHDVSVRSARFVARTL--CLQHTVMLIGITRRGVWY----AQPACALEQLCTGTVA
+LSIQEDEKRRVCLVPGGGTAGAFDVVFPVLHGSYGEDGTVQGLLEMLQVPYVGCGVCASALA--*
+>P1;gi|16077523|ref|NP_388337.1| D-alanyl-D-alanine ligase A [Bacill... [ score 133 E 9e-31 ] [ range 1 .. 124 ]
+sequence
+-------MYGGKSAEHNVSLQTALAVIKALN-TEKFDIHPIYITEKGEWVRGAR----LTEPVSNVKMLQ
+FEQGGSAFSPAAPQEASQQNEAIDVVFPLLHGPNGEDGTIQGMLELLNIPYVGNGVLASS----*
+>P1;gi|23502147|ref|NP_698274.1| D-alanine--D-alanine ligase A [Bruc... [ score 132 E 1e-30 ] [ range 5 .. 134 ]
+sequence
+-KMRIVVLFGGRSAEHDVSVLSATNVMNALDPA-KYEAVPVFVTRAGQWLLSRFVNGAL----EKPSSGA
+ELCLVPGGCGRAIVGAPYEADKIDIIFPVLHGLHGEDGAVQGLAQVARVPLAGCGIPGSANA--*
+>P1;gi|267275|sp|P29753|VANC_ENTGA Vancomycin C-type resistance prot... [ score 132 E 1e-30 ] [ range 2 .. 126 ]
+sequence
+--KKIAVLFGGNSPEYSVSLTSAASVIQAIDPL-KYEVMTIGITMDWYWYQGNLANNDTWLEDHKNCHQL
+TFSSQGFILGEKRIVP-------DVLFPVLHGKYGEDGCIQGLLELMNLPYVGCHVAASAL---*
+>P1;gi|43172404|gb|EAC51781.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 8 .. 128 ]
+sequence
+-KIKIAIVHGGRSKEHDVSVESGQSIIESLAKNNLYEVFPVLIDKEGKWFLKKESLK----------QEE
+VFPSTSPNEESNLIKKNGDRIKIDVFFPILHGRYGEDGTIQGLFELSGSRFIGSDCRSSAIS--*
+>P1;gi|42927533|gb|EAB30791.1| unknown [environmental sequence] [ score 129 E 1e-29 ] [ range 1 .. 121 ]
+sequence
+----------GHSNEHEVSISSAKTVFQAFNAKERFTVKAFYINKYGDWLDSDISEKILIGEIENNKINK
+--QEISNQKKINFLDGIEFQ-NVDVWFPLLHGFNGEDGSIHGLIRFTKKPLVGCGIIGSAL---*
+>P1;gi|28210053|ref|NP_780997.1| D-alanine--D-alanine ligase [Clostr... [ score 129 E 2e-29 ] [ range 20 .. 139 ]
+sequence
+-KIKIAIVFGGQSTEHEVSRNSVTSILKNINRD-KYEICPIGITKEGWFQYTGDINNIKNGQWEK-----
+-----DNKNKLENGYNVLFNKEVELVFPVLHGLYGEDGTIQGLCKLVGLPCVGPGVLSSAL---*
+>P1;gi|15594545|ref|NP_212334.1| D-alanine--D-alanine ligase (ddlA) ... [ score 128 E 2e-29 ] [ range 2 .. 122 ]
+sequence
+------LIFGGVSFEHEISCKSAYSIYLALLDLNKYNIYPVYIDKTGVWLDSVSDPPKPINTDVLPIVSL
+L--------PGFGIFSNNKNLEIDVVFPVVHGRTGEDGAIQGVLKVMDIPCVGAGIIGSAIS--*
+>P1;gi|16612079|gb|AAL27442.1| VanE [Enterococcus faecalis] [ score 127 E 6e-29 ] [ range 2 .. 130 ]
+sequence
+--KTVAIIFGGVSSEYEVSLKSAVAIIKNMESID-YNVMKIGITEEGHWYLTDKIKKDRWFLDESCEEI-
+---VVDFAKKSFVLKNSKKIIKPDILFPVLHGGYGENGAMQGVFELLDIPYVGCGIGAAAIS--*
+>P1;gi|15672323|ref|NP_266497.1| D-alanine-D-alanine ligase [Lactoco... [ score 126 E 8e-29 ] [ range 3 .. 123 ]
+sequence
+-KETLILLYGGRSAEREVSVLSAESVMRAVNYS-RFVVKTYFITKGGEFIKTQEF-------TDKPAEEE
+KLLTNDLAESYPKISPAAIYEKAAVVFPVLHGPMGEDGSIQGFLEILRLAYVGPNILSAS----*
+>P1;gi|15605495|ref|NP_220281.1| UDP-N-acetylmuramate-alanine ligase... [ score 124 E 3e-28 ] [ range 447 .. 560 ]
+sequence
+-KLHLGIICGGKSCEHEISVLSAKNIAKHLSKS-FYDVSYFLITREGLW----------------ESVSS
+LETAEDSGKSVFDPEIAQRLEKVDVVLPILHGPYGEDGAMQGFLETIGKPYTGPAIAFSAIA--*
+>P1;gi|29840620|ref|NP_829726.1| UDP-N-acetylmuramate--alanine ligas... [ score 124 E 5e-28 ] [ range 451 .. 567 ]
+sequence
+-KLSVGVVCGGQSCEHDVSLLSARNVVQYLSPQ-HYDVQYFVINRQGLWSQVAN-------------LDA
+GSDYNSKNYHVLSSKIAEALANLDFVLPILHGPFGEDGTLQGFLEIANKPYGGPSLLFSAIS--*
+>P1;gi|28493472|ref|NP_787633.1| D-alanine--D-alanine ligase [Trophe... [ score 123 E 6e-28 ] [ range 2 .. 131 ]
+sequence
+--RRLLLLFGGRSQEHSVSYASARALLEHI--CDEWTVIPVGITKHGDFVYCSTVSE----QDYGEVIDN
+GNRVVPSRAGCKKIEVVQARGEFDLVFPLLHGVFGEDGTIQGMLDLLDIPYVGSGVFASAAA--*
+>P1;gi|24214759|ref|NP_712240.1| D-alanine--D-alanine ligase [Leptos... [ score 122 E 2e-27 ] [ range 3 .. 128 ]
+sequence
+---KIAVFFGGSSTEHSISILTGCFICKTLHTMGHS-VKPILLTKDGGWVVPSEYRMSIPFEVSN-SPDL
+FQEEFQKRYGVSRTNQIFSL-DADIVFLGLHGGQGEDGTIQGFLEILGIPYTGSGVLASAIA--*
+>P1;gi|624700|gb|AAA60990.1| ligase [ score 121 E 3e-27 ] [ range 2 .. 133 ]
+sequence
+--KKIAIIFGGNSPEYTVSLASATSAIEALQSSPYYDLSLIGIAPDAWYLYTGELENIRQDTWLLDTKHK
+QKIQPLFEGNGFWLSEEQQTLVPDVLFPIMHGKYGEDGSIQGLFELMKLPYVGCGVAGSAL---*
+>P1;gi|15601331|ref|NP_232962.1| D-alanine--D-alanine ligase [Vibrio... [ score 121 E 3e-27 ] [ range 3 .. 115 ]
+sequence
+-KTTILLLCGGGSSEHEISLVSANYIQQQLELTPEFHVIRVEMKKEGWF----SEQGALVYLDTN---SA
+TLNSDKASYP------------IDFVVPCIHGFPGETGDIQSMLELAGIPYLGCGPEASANSF-*
+>P1;gi|26991036|ref|NP_746461.1| D-alanine--D-alanine ligase A [Pseu... [ score 121 E 4e-27 ] [ range 6 .. 131 ]
+sequence
+----IALVFGGRSSEHSVALRSAATIHAALMALGHR-VHCVGIDREGNWRYQGEPCQFPGAVDRSAPLIS
+IRPGHRSLSYTTQESGTVEIG-IDLLFPALHGRWGEDGTIQGLAAMCGLPCVGSGVLGSAMA--*
+>P1;gi|15618814|ref|NP_225100.1| Muramate-Ala Ligase & D-Ala-D-Ala L... [ score 119 E 1e-26 ] [ range 451 .. 566 ]
+sequence
+-KLSIGLVCGGKSCEHDISLLSAQHVSKYISPE-FYDVSYFIINRQGLWRTGKDFPHLIEETQGDSPLSS
+EIAS--------------ALAKVDCLFPVLHGPFGEDGTIQGFFEILGKPYAGPSLSLAATA--*
+>P1;gi|15834763|ref|NP_296522.1| UDP-N-acetylmuramate--alanine ligas... [ score 118 E 2e-26 ] [ range 477 .. 589 ]
+sequence
+-KLSLGLICGGRSCEHDISILSAQNIAKYLSHS-FYEVQYFLITREGLWKTGSSLE--LSEETGKTIFDP
+EIAGKLS--------------KVDVILPILHGPYGEDGAMQGFLETIGKPYTGPSLVFAAI---*
+>P1;gi|29654635|ref|NP_820327.1| D-alanine--D-alanine ligase [Coxiel... [ score 118 E 3e-26 ] [ range 4 .. 137 ]
+sequence
+-KLHISVLCGGQSTEHEISIQSAKNIVNTLDAA-KYLISVIFIDHVGRWYLIDQPEMFLAHSPDHLVKEG
+SARPIDAAKPWQSLNGDGRRYSADCVFPMVHGTQGEDGALQGLLELLNLPYVGANVQSSAV---*
+>P1;gi|44504728|gb|EAJ72668.1| unknown [environmental sequence] [ score 115 E 1e-25 ] [ range 2 .. 114 ]
+sequence
+--------------------ISAYHIQKALDR-NRFDVRMIGISQDGSWFLGDSENFLENHEDVRKVASL
+PVTIPERQSLVIRPENTGSLDEIDVFFPITHGRLGEDGALQGLLELAGKPYVGSDVYGSAI---*
+>P1;gi|23136007|ref|ZP_00117737.1| COG1181: D-alanine-D-alanine liga... [ score 115 E 1e-25 ] [ range 475 .. 628 ] [ duplicate a ]
+sequence
+-KIKIAVVMGGYSSERHISVESGRNIFEKLSSSTKYQPLPVFLTQHRLFILPDIREKVINFKGHHPIIEH
+IAKETESISSRYVSNAIKDPKEIDGVFIALHGRPGEDGSMQKELEKYQLPYNGSGIQSSQIT--*
+>P1;gi|23136007|ref|ZP_00117737.1| COG1181: D-alanine-D-alanine liga... [ score 115 E 1e-25 ] [ range 2 .. 149 ] [ duplicate b ]
+sequence
+---RIGIIFGGQSREREISFAGGRTVYDNLNKDI-FTTVPIFVDSLGQFILLDWRDFYPPFEFLPKSIHG
+FQVYVESLGDLRKIEPSDLKELIDFAFLALHGPYGEDGAIQGMLDWNNIPYSGSGILPSAI---*
+>P1;gi|27366728|ref|NP_762255.1| D-alanine-D-alanine ligase [Vibrio ... [ score 110 E 4e-24 ] [ range 3 .. 116 ]
+sequence
+--RNVLLLCGGGSSEHEISLLSSEYLQQQLGLIENVNVLKVEIKNEGWF---DQKERLVYL-------DI
+HTKSVKSDEFNESIH-------IDFIVPCIHGFPGETGDIQSLFELAGIPYLGCGPEASSNSF-*
+>P1;gi|32407994|ref|XP_324484.1| hypothetical protein [Neurospora cr... [ score 108 E 3e-23 ] [ range 6 .. 122 ]
+sequence
+-KKNIAIVVGGYSGEYDVSISTGNAIYANVDRA-RYNLYKIVIPRNGWYHLTDNDKQIPVDRNDFSVTLS
+T----------------GEKIQFDLAYISIHGNPGENGVLQGYFDMLGLPYTSCGFYTSALT--*
+>P1;gi|28900741|ref|NP_800396.1| D-alanine-D-alanine ligase [Vibrio ... [ score 107 E 6e-23 ] [ range 3 .. 114 ]
+sequence
+--KNILLLCGGGSSEHEISLLSANFVEQQLNLIQNVKVTRVEIKNEGWVTD-------------------
+QGELVYLDLNTKQLCSNESNQTIDFIVPCIHGFPGETGDIQSLFEIAGIPYLGCGPEASSNSF-*
+>P1;gi|32490966|ref|NP_871220.1| ddlA [Wigglesworthia glossinidia en... [ score 106 E 9e-23 ] [ range 2 .. 135 ]
+sequence
+-KKTVAVLFGGESKEHEISLQSSISIINAIDKK-KYNIILIGVEKNGKIGIRSINNYILFKYNINYIKLA
+PAVSYLYIIPGKNNYQFYSLKNIDVIFSILHGSNGENGAFQGLFNTIYTPFVGSNVLSSSI---*
+>P1;gi|23103644|ref|ZP_00090122.1| COG1181: D-alanine-D-alanine liga... [ score 105 E 1e-22 ] [ range 85 .. 175 ]
+sequence
+---RVAVLFGGKSAERAVSLKSGQAVLEALQSAG---VDAFGID--------------------------
+-----VGDDLLERLG----RERIDRAFIVLHGRGGEDGSMQGLLECVGIPYTGSGVLASALA--*
+>P1;gi|44236673|gb|EAH86854.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 7 .. 97 ]
+sequence
+---KVAVMFGGTSAEREVSLRSGAAVLAALQKQG---------------------------------VDA
+H-----AFDPKDQPLSALTAAGFDRVFIVLHGRGGEDGTMQGALQLMGLPYTGSRVLGSALA--*
+>P1;gi|22977729|ref|ZP_00023515.1| COG1181: D-alanine-D-alanine liga... [ score 105 E 3e-22 ] [ range 16 .. 106 ]
+sequence
+---KVGVLLGGKSAEREISLLSGNGVLAALKSRG---------------------------------VDA
+H-----PFDPGLQPISELAAAGFDRVFIALHGRYGEDGTMQGLLEQLGIPYTGSGVLASALA--*
+>P1;gi|15599396|ref|NP_252890.1| D-alanine-D-alanine ligase A [Pseud... [ score 104 E 3e-22 ] [ range 5 .. 131 ]
+sequence
+-KLKVAVLFGGSSEERDVSIASGAQVIQALRSAGH-QVLAV-----------DTASGLLGAEEERRLLAS
+KVKEVPPSDSLAIIRSGKELAGVDVFFLALHGGTGEDGTLQALLDAGGFAYTGSGHLASAMA--*
+>P1;gi|23466539|ref|ZP_00122127.1| COG1181: D-alanine-D-alanine liga... [ score 104 E 4e-22 ] [ range 7 .. 99 ]
+sequence
+-QQKIAVLLGGTSAEREVSLNSGNAVLTALRNQG-FDAHPI-----------------------------
+--------DPKEYPVAMLKEQGFDRVFNILHGRGGEDGTIQGLLEQIGLPYTGCGVMASALT--*
+>P1;gi|34499796|ref|NP_904011.1| D-alanine--D-alanine ligase [Chromo... [ score 104 E 4e-22 ] [ range 6 .. 96 ]
+sequence
+---KVAVLMGGSSSEREVSLMSGAGVLSALRSK--------GVDAHGF----------------------
+--------DPSEKPLSALKEEGFDCVFNILHGPFGEDGTLQGALEALGMPYTGCGVMASAIA--*
+>P1;gi|28871541|ref|NP_794160.1| D-alanine--D-alanine ligase [Pseudo... [ score 104 E 4e-22 ] [ range 20 .. 110 ]
+sequence
+---RVAVLFGGKSAEREVSLNSGNAVLKALLDAG---VDAFGID------VGDDFLQRLVSE--------
+---------------------KIDRAFIVLHGRGGEDGTMQGLLECLEIPYTGSGVLASALA--*
+>P1;gi|29349121|ref|NP_812624.1| D-alanine--D-alanine ligase [Bacter... [ score 102 E 1e-21 ] [ range 2 .. 115 ]
+sequence
+-KRTIAIVAGGDTSEFHVSLRSAQGIYSFIDKE-KYTLYIVEMQGTRW---------------EVQLPDG
+AKAPVDRNDFSFMLGTEKI--RFDFAYITIHGTPGEDGRLQGYFDMMHIPYSCCGVLAAAITY-*
+>P1;gi|26988073|ref|NP_743498.1| D-alanine--D-alanine ligase B [Pseu... [ score 102 E 1e-21 ] [ range 19 .. 109 ]
+sequence
+---RVAVLYGGKSAEREVSLKSGAAVIDALSTAG---VDVVAID--------------------------
+-----VGDDLLARLQSEK----IDRAFIILHGRGGEDGSMQGLLECLGIPYTGSGILASALA--*
+>P1;gi|30248997|ref|NP_841067.1| D-alanine--D-alanine ligase [Nitros... [ score 102 E 1e-21 ] [ range 8 .. 98 ]
+sequence
+---KVAVLLGGRSAEREISLRSGQAVLAALQRSR------------------------------------
+--VNAHAFDPAGQPLENLLQQGFDRVFIALHGRYGEDGSVQGALELMELPYTGSGILASALA--*
+>P1;gi|44326427|gb|EAI48096.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 3 .. 127 ]
+sequence
+--KKIGVIFGGPSPEHDISILTGLQSVRILSK--KYEVSSIYWSKDNKWYLVDNLNESVDFLENKEIFKK
+NLELKFNENPG--FYQKRKKIELDVVLNACHGGPGEDGSLQSLLNIFNIKYTGPDQISAQI---*
+>P1;gi|45520621|ref|ZP_00172149.1| hypothetical protein Mflag203801 ... [ score 101 E 3e-21 ] [ range 9 .. 96 ]
+sequence
+---KVAVLLGGKSGEREVSLKSGAAVLAALRRNG------------------------------------
+----VDAHAFDPAERALSELAGFDRVFIALHGRYGEDGTIQGALELMGIPYTGSGVMASSV---*
+>P1;gi|15602009|ref|NP_245081.1| DdlB [Pasteurella multocida] >gi|13... [ score 101 E 3e-21 ] [ range 7 .. 99 ]
+sequence
+-QEKIAVLLGGTSAEREVSLDSGQAVLNALLSAG-FDAHPI-----------------------------
+--------DPKTFPVATLKEQGFDRVFNILHGRGGEDGTMQGLLEQIGIPYTGCGVMTSALT--*
+>P1;gi|15599606|ref|NP_253100.1| D-alanine--D-alanine ligase [Pseudo... [ score 100 E 4e-21 ] [ range 20 .. 110 ]
+sequence
+---RVAVLFGGKSAEREVSLKSGAMVLQSLLAAG---VDAFGID------VGEDLLQRLVEE--------
+---------------------KIDRAFIILHGRGGEDGSMQGLLECAGIPYTGSGVLASALA--*
+>P1;gi|43078482|gb|EAC05457.1| unknown [environmental sequence] [ score 100 E 5e-21 ] [ range 2 .. 124 ]
+sequence
+---KIAVLLGGTSMERDVSVASGTQVISALRSVGHKVIVV------------ESSRGVLSTTEERELLAY
+GINTEDTEGWLPVLANKLQMAEVDLVFLALHGGWGEDGTIQAVFEKVGLPYTGSNKLGSRLA--*
+>P1;gi|44548262|gb|EAK02318.1| unknown [environmental sequence] [ score 100 E 5e-21 ] [ range 3 .. 127 ]
+sequence
+--KNIAVIIGGPSSEHDISILTGLQSARILSKENKITILYWSKDNNWYLLDPNLESKD-FLENTKLMKKP
+LELRVNGDSG---FYFKKKKLNFDIFLNSCHGGPGEDGTLQSLLNLLKVKYTGPKVISAQI---*
+>P1;gi|16273066|ref|NP_439298.1| D-alanine-D-alanine ligase [Haemoph... [ score 100 E 5e-21 ] [ range 5 .. 97 ]
+sequence
+-QEKIAVLLGGTSAEREVSLNSGKAVLEALLKQG-YNAHPI-----------------------------
+--------DPKEYNVANLKKDGFNRAFNILHGRGGEDGTMQGLLEQIGLPYTGCGVMASALT--*
+>P1;gi|23468785|ref|ZP_00124120.1| COG1181: D-alanine-D-alanine liga... [ score 100 E 7e-21 ] [ range 53 .. 143 ]
+sequence
+---RVAVLFGGKSAERAVSLNSGNAVLGALLEAG---VDAFGID------VGDDFLQRLVSE--------
+---------------------KIDRAFIVLHGRGGEDGTMQGLLECLEIPYTGSGVLASALA--*
+>P1;gi|44628987|gb|EAK59614.1| unknown [environmental sequence] [ score 100 E 1e-20 ] [ range 2 .. 115 ]
+sequence
+-KKNIAVIMGGYSSEHDISVKSGTTVFNHIDS-NLYNPYKVIIDKDNWNLVTSDGINYPINREHFNCTVN
+DVEI-----------------NFELVFVMIHGTPGEDGVIQKYFDNLNIPYTGPSSEVALLTF-*
+>P1;gi|42892078|gb|EAB13191.1| unknown [environmental sequence] [ score 99 E 2e-20 ] [ range 3 .. 127 ]
+sequence
+--KNIAVIIGGPSSEHDISILTGLQSARILSKDNKITILYWSKENNWYLLDPNLESKD-FLENTKLMKKP
+LELRINGDSG---FYFKKKKLDFDVFLNSCHGGPGEDGTLQSLLNILKVKYTGPTIISAQI---*
+>P1;gi|17547561|ref|NP_520963.1| PROBABLE D-ALANINE--D-ALANINE LIGAS... [ score 98 E 3e-20 ] [ range 19 .. 109 ]
+sequence
+---KVGVILGGRSAEREISLLSGNGVLAALRSRG---------------------------------VDA
+H-----PFDPGTQPVAGLAAQGFHRVVISLHGRFGEDGTIQGLLEQFGIPYTGSGVLASALA--*
+>P1;gi|33598260|ref|NP_885903.1| D-alanine--D-alanine ligase B [Bord... [ score 98 E 3e-20 ] [ range 7 .. 97 ]
+sequence
+---KVGVLYGGRSAEREVSLMSGKGVHEAL--------------------LSAGVDAHLFDTGERSLAD-
+-----------------LAAAGFERVFIALHGRYGEDGTLQGALELLGIPYTGSGPLASSLS--*
+>P1;gi|44343759|gb|EAI60269.1| unknown [environmental sequence] [ score 98 E 3e-20 ] [ range 3 .. 127 ]
+sequence
+--KTIGVVFGGPSPEHDISILTGLQSVRILSK--KYDVIALYWSKNNEWYLVDNEYESVDFLSNKKIYKN
+KLEMKFNDDPG--FYQKRKKLHFDVLINACHGGPGEDGSLQSLLNIFRIKYTGPDQISAQI---*
+>P1;gi|37544103|gb|AAQ93036.1| D-alanine-D-alanine ligase B [Rhizobi... [ score 97 E 5e-20 ] [ range 29 .. 121 ]
+sequence
+-RKHVAVLMGGFSSERPVSLSSGKACAEALEAEG-FKVTTLDVARD------------------------
+-------------VSEKLAALKPDVVFNALHGPFGEDGTIQGILEYLEIPYTHSGVLASALA--*
+>P1;gi|22999615|ref|ZP_00043586.1| COG1181: D-alanine-D-alanine liga... [ score 97 E 5e-20 ] [ range 5 .. 96 ]
+sequence
+-QKKIGVLYGGLSEEREVSLRSGQALFVALQSLG-YQVVAIDVDRH------------------------
+-------------ITKVLEREGIEVAVLALHGPMGEDGTIQGLLEFMGIPYTGPNVAASAI---*
+>P1;gi|42572325|ref|NP_974258.1| D-alanine--D-alanine ligase family ... [ score 97 E 6e-20 ] [ range 78 .. 204 ] [ duplicate a ]
+sequence
+--LRVGLICGGPSAERGISLNSARSVLDHIQGDGYYDLKAFAISSAQVYSNTPSD-FDFKLES---LAQG
+FSSLSELAEHLVS--------AVDIVFPVIHGRFGEDGGIQELLESHNIPFVGTGSRECFRAF-*
+>P1;gi|42572325|ref|NP_974258.1| D-alanine--D-alanine ligase family ... [ score 97 E 6e-20 ] [ range 485 .. 659 ] [ duplicate b ]
+sequence
+--QKVFVIFGGDTSERQVSVMSGTNVWVNLQRYVDLNVTPCLLDNREVWVLPYSAEEVLALEAVEPVRAL
+FTSGFDITDELPRKYSLKEKEAQATVFIAVHGGIGEDGTLQGLLEDEGVSYTGPGVLAS-----*
+>P1;gi|33146883|dbj|BAC79881.1| unknown protein [Oryza sativa (japon... [ score 97 E 6e-20 ] [ range 73 .. 199 ] [ duplicate a ]
+sequence
+--LRVGLVCGGPSPERGISLNSARSVLDHIQGEDLYYIDAYAISPAQLYSNTPSD-FDFKLES---LAQG
+FQSLFDFAQHL--------AANVDIVFPVIHGKFGEDGGIQELLEKANVPFVGTPSKNCLLAF-*
+>P1;gi|33146883|dbj|BAC79881.1| unknown protein [Oryza sativa (japon... [ score 97 E 6e-20 ] [ range 487 .. 664 ] [ duplicate b ]
+sequence
+-KKKVFVIFGGDTSERQVSLMSGTNVWLNLQGFDDLDVTPCGISRDVWTLPYSLVLRHTIEEVNAACIEA
+IDPERMELTSRLRDQVMNELGQFDVVFIAVHGGIGEDGTIQSLLGSAGVPYTGPGQIAS-----*
+>P1;gi|44298772|gb|EAI29121.1| unknown [environmental sequence] [ score 97 E 8e-20 ] [ range 3 .. 94 ]
+sequence
+--RHVAVLMGGWSSEREVSILSGLACAQALKSSG-FQVTKIDVDRN------------------------
+-------------ISSVLEKLKPDVCFNALHGPIGEDGNIQGLLNIMGIPYTHSGVQASAIA--*
+>P1;gi|23471234|ref|ZP_00126565.1| COG1181: D-alanine-D-alanine liga... [ score 96 E 1e-19 ] [ range 2 .. 110 ]
+sequence
+--------------------------INAIDRE-RYALTLIGVDKLGRWLHFDEADYLLNATDPARIKLS
+ASGKPLSLLPGSIVESGQPLAAIDVVFPLIHGAFGEDGALQGLLRMLSVPFVGADVLSSA----*
+>P1;gi|43993285|gb|EAG54370.1| unknown [environmental sequence] [ score 96 E 1e-19 ] [ range 2 .. 95 ]
+sequence
+------------------------------------------IDKQGQWHVSDASNYLLNSDDPAHIALR
+PSETSLAQVPGKQAHQLIDAQNVDVIFPIVHGTLGEDGSLQGMLRVANLPFVGSDVLGSA----*
+>P1;gi|42989457|gb|EAB61659.1| unknown [environmental sequence] [ score 96 E 2e-19 ] [ range 1 .. 94 ]
+sequence
+--KRIAVLLGGTSAEREVSLESGRQCTEALHEAGYYEV------------------------DVTANIDA
+LL---DALEPRPH-----------AVFNALHGRFGEDGNIQGLLNLLELPYTHSGVLASALA--*
+>P1;gi|44289304|gb|EAI22816.1| unknown [environmental sequence] [ score 95 E 3e-19 ] [ range 4 .. 114 ]
+sequence
+--KNIAILMGGYSSEYEVSIRSGNEVYKNL-SSFKYNLFKVIITKEKWYIDKNENKYCINVKN-------
+-------------FSVNKPKIDFDYVINVIHGSPGEDGLIQSYFKMLNIKHSSSEYFQTALTF-*
+>P1;gi|13471546|ref|NP_103112.1| D-alanyl-D-alanine ligase [Mesorhiz... [ score 95 E 3e-19 ] [ range 4 .. 95 ]
+sequence
+--KHVAVLLGGFSSERPVSLSSGKACADALENEG-YQVTRVDVGRD------------------------
+-------------VGSVLAELKPDVAFNALHGPFGEDGTIQGILEYLGIPYTHSGVLASALA--*
+>P1;gi|15676336|ref|NP_273472.1| D-alanine--D-alanine ligase [Neisse... [ score 92 E 1e-18 ] [ range 6 .. 95 ]
+sequence
+---KVAVLMGGFSSEREISLDSGTAILNALKSK--------GIDAY------------------------
+------AFDPKETPLSELKAQGFQTAFNILHGTYGEDGAVQGALELLGIPYTGSGVAASAI---*
+>P1;gi|16120885|ref|NP_404198.1| D-alanine--D-alanine ligase B [Yers... [ score 93 E 1e-18 ] [ range 4 .. 94 ]
+sequence
+---KVAVLLGGTSAEREVSLLSGQAVLAGLKEA--------GIDAYG--VDTKDFP--------------
+-------------VTQLKEQG-FDKVFIALHGRGGEDGTLQGVLEFLQLPYTGSGVMASALT--*
+>P1;gi|30061659|ref|NP_835830.1| D-alanine-D-alanine ligase B [Shige... [ score 93 E 1e-18 ] [ range 4 .. 94 ]
+sequence
+---KIAVLLGGTSAEREVSLNSGAAVLAGL-REGGIDAYPV-----------------------------
+--------DPKEVDVTQLKSMGFQKVFIALHGPGGEDGTLQGMLELMGLPYTGSGVMASALS--*
+>P1;gi|15605989|ref|NP_213366.1| D-alanine:D-alanine ligase [Aquifex... [ score 93 E 1e-18 ] [ range 2 .. 92 ]
+sequence
+---RVVVLMGGRSSEREISLKTGKAVAKALRELGHYELD----------LDKELPCKLLEIKP-------
+-----------------------DKVFIALHGRYGEDGTVQGLLEILDIPYTGSDTIASAVS--*
+>P1;gi|18310297|ref|NP_562231.1| D-alanine-D-alanine ligase [Clostri... [ score 93 E 1e-18 ] [ range 2 .. 91 ]
+sequence
+---KVGVIMGGISSEREISIQSGNSVVHALDKD-KYEAIPI----------------VLNEKEDL-----
+----------------IEKVKGIDFALLALHGKFGEDGTVQSVLKTLGIPFSGCGPLSSAI---*
+>P1;gi|15965924|ref|NP_386277.1| PROBABLE D-ALANINE--D-ALANINE LIGAS... [ score 93 E 1e-18 ] [ range 4 .. 95 ]
+sequence
+--KHVAVLLGGFSSERPVSLSSGTACADALEAEG-YRVTRVDVGRD------------------------
+-------------VAAVLQELRPDVVFNALHGPFGEDGTIQGILEYLEIPYTHSGVLASALA--*
+>P1;gi|16759125|ref|NP_454742.1| D-alanine:D-alanine ligase B [Salmo... [ score 92 E 2e-18 ] [ range 4 .. 94 ]
+sequence
+---KIAVLLGGTSAERDVSLNSGAAVLAGL--------------REG-------------GIDAHPV---
+--------DPQEVDVAQLKAMGFQKVFIALHGRGGEDGTLQGMLELLGLPYTGSGVMASALS--*
+>P1;gi|34898182|ref|NP_910437.1| P0034A04.1 [Oryza sativa (japonica ... [ score 92 E 3e-18 ] [ range 73 .. 232 ] [ duplicate a ]
+sequence
+--LRVGLVCGGPSPERGISLNSARSVLDHIQARTHFTVRFIFLTVGEDLLVT--CYYIDCGMNAYAISPA
+QLYSNTPSDFDFKLESLAQAANVDIVFPVIHGKFGEDGGIQELLEKANVPFVGTPSKNCLLAF-*
+>P1;gi|44523953|gb|EAJ85605.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 28 .. 118 ]
+sequence
+---KVAVLLGGDSAEREVSLNSGNAVLNALLRQG---------------------------------VDA
+F-----AFDPAERPLTDLIDLNVDRALIMLHGRGGEDGSMQGALQFLKIPYTGSRVLGSALA--*
+>P1;gi|22956853|ref|ZP_00004586.1| COG1181: D-alanine-D-alanine liga... [ score 92 E 3e-18 ] [ range 11 .. 101 ]
+sequence
+---RVAVLMGGASTEREVSLSSGHSCSAALRDAG-YEVT-------------------------------
+---EVDAGPDLARVLAELSP---DAVFNALHGRWGEDGCVQGLLEWLRIPYTHSGVLASALA--*
+>P1;gi|43947459|gb|EAG29441.1| unknown [environmental sequence] [ score 91 E 3e-18 ] [ range 4 .. 114 ]
+sequence
+--INVLLLCGGGSAEHEVSLRSADFLEQQLAALPGVAVTRVEMQKD-RWLAADGTE----------CSLG
+LNRQLLTGDKTLL---------VDYVVPCIHGYPGETGDLQSMLELAGLPYLGCGPEASTLCF-*
+>P1;gi|44468290|gb|EAJ48108.1| unknown [environmental sequence] [ score 91 E 5e-18 ] [ range 3 .. 118 ]
+sequence
+-KINLLLLCGGGSAEHDISLLSANYFETSLAKSEQFNVLRVVLDKFGQYQTAAGDECELTNNRE------
+----------IRFRDETKSPWPVDYVIPCIHGYPGETGDIQSYFNLIQLPYFGCESEASSNCF-*
+>P1;gi|21241551|ref|NP_641133.1| D-alanine-D-alanine ligase B [Xanth... [ score 91 E 6e-18 ] [ range 18 .. 110 ]
+sequence
+---RVAVLLGGTSSEREVSLNSGGNVLDALRARG---------------------------VDAQPV---
+--------DGIPALAKALVAQQFDRVFNVLHGHNGEDGIVQGLMEAFGVPYTGSDVLGSALS--*
+>P1;gi|37527516|ref|NP_930860.1| D-alanine--D-alanine ligase B (D-al... [ score 91 E 7e-18 ] [ range 4 .. 94 ]
+sequence
+---KVAVLLGGTSAEREVSLLSGQAVLAGLREA--------GI-------------------DAHPV---
+-------DTKDFPVTQLKEAG-FEKVFIALHGRGGEDGTLQGVLEFLQLPYTGSGVMASALS--*
+>P1;gi|21230201|ref|NP_636118.1| D-alanine-D-alanine ligase B [Xanth... [ score 90 E 9e-18 ] [ range 18 .. 110 ]
+sequence
+---RVAVLLGGTSSEREVSLNSGSNVLDALRARG---------------------------VDAQPV---
+--------DGIPALAQALVAQRFDRVFNVLHGHNGEDGIVQGLMEAFGVPYTGSNVLGSALS--*
+>P1;gi|44084418|gb|EAH04266.1| unknown [environmental sequence] [ score 90 E 1e-17 ] [ range 6 .. 101 ]
+sequence
+-KKCIGLIFGGHSNEHEVSISSAKTVFQAFNAKERFTIKAFYINKYGDWLDSDISEKILIGEIESYKTKK
+--QEIFNQEKINFLEGIEFQ-NIDVWF-------------------------------------*
+>P1;gi|44299768|gb|EAI29798.1| unknown [environmental sequence] [ score 89 E 1e-17 ] [ range 5 .. 103 ]
+sequence
+-RLKVGLICGGTSGEHQVSLISAYHIQKALDR-NRFDVRMIGISQDGSWFLGDSENFLENHEDVRKVASL
+PVTIPERQSLVIRPENTGSLDDIDIFFP------------------------------------*
+>P1;gi|15889373|ref|NP_355054.1| AGR_C_3788p [Agrobacterium tumefaci... [ score 89 E 1e-17 ] [ range 30 .. 121 ]
+sequence
+--KHVAVLLGGFSSERPVSLSSGNACALALEGEG-YKVTRVDVGRD------------------------
+-------------VAAVLDELRPDVAFNALHGPFGEDGTIQGILEYLAIPYTHSGVLASALA--*
+>P1;gi|16126782|ref|NP_421346.1| D-alanine--D-alanine ligase B [Caul... [ score 88 E 3e-17 ] [ range 14 .. 105 ]
+sequence
+--RHIAVLLGGPSSERKVSLVSGAACAEALERLG------------------------------------
+--AKVSRIDPGPDVAQVLAATKPDMVFNALHGEWGEDGCVQGVLETLKLPYTHSGVLASALA--*
+>P1;gi|44140213|gb|EAH34551.1| unknown [environmental sequence] [ score 88 E 4e-17 ] [ range 2 .. 94 ]
+sequence
+-KKKVAILKGGSSSEREVSLSTGKSCSEALSKLG-------YIVKS---IDTKYN----YIEDLMKLKP-
+-----------------------DIVFNALHGKHGEDGIIQGVLETMRIPYTHSGVLASSIA--*

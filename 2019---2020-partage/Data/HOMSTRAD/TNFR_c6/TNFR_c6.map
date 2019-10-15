@@ -1,0 +1,1170 @@
+>P1;1du3a
+structureX:1du3:  21 :A: 123 :A:DEATH receptor 5 extracellular domain:Homo sapiens: 2.20: 29.10
+SSPSE-------------GLCPPGHHISEDGR------DCISCKYGQDYSTHWNDLLFCLRCTRCDS--G
+EVELSPCTTTRNTVCQCEEGTFREEDSPEMCRK-------------DCTPWSDI----------------
+---------------------*
+>P1;1exta
+structureX:1ext:  13 :A: 172 :A:tumor necrosis factor receptor extracellular domain:Homo sapiens: 1.85: 20.30
+SVCPQGKYIHPQNNSICCTKCHKGTYLYNDCPGPGQDTDCRECES-GSFTASENHLRHCLSCSKCRKEMG
+QVEISSCTVDRDTVCGCRKNQYRHYWSENLFQCFNCSLCLNGTVHLSCQEKQNTVCTCHAGFFLRENECV
+SCSNCKKSLECTKLCLPQIEN*
+>P1;gi|30584595|gb|AAP36550.1| Homo sapiens tumor necrosis factor re... [ score 139 E 2e-32 ] [ range 126 .. 227 ]
+sequence
+-SPLG-------------ELCPPGSHRSEHPG------ACNRCTEGVGYTNASNNLFACLPCTACKS--D
+EEERSPCTTTRNTACQCKPGTFRNDNSAEMCRK-------------DCTPWSDI----------------
+---------------------*
+>P1;gi|7330734|gb|AAF60221.1| TvbS1 [Gallus gallus] [ score 122 E 2e-27 ] [ range 42 .. 129 ]
+sequence
+---YR-------------RKCPMGTYEANDSI------QCLPCKK-DEYTEYPNDFPKCLGCRTCRE--D
+QVEVSPCIPTRNTQCACKNGTFCLPDHPEMCQK-------------ECPKGQ------------------
+---------------------*
+>P1;gi|2735725|gb|AAB93987.1| subgroup E ALV receptor [Meleagris gal... [ score 122 E 2e-27 ] [ range 41 .. 129 ]
+sequence
+--PYS-------------KKCPMGTYLANDSS------RCLPCKK-DEYTEYPNDFPKCLGCRTCRE--D
+QVEVSPCNSTRNTRCACKNGTFCLPDHPEMCQK-------------RCPKGQ------------------
+---------------------*
+>P1;gi|3452185|gb|AAC32766.1| TRAIL-R4-B [Homo sapiens] [ score 122 E 3e-27 ] [ range 77 .. 178 ]
+sequence
+-SLKE-------------EECPAGSHRSEYTG------ACNPCTEGVDYTIASNNLPSCLLCTVCKS--G
+QTNKSSCTTTRDTVCQCEKGSFQDKNSPEMCRS-------------NCTPRSDI----------------
+---------------------*
+>P1;gi|21264103|sp|Q9QZM4|T10B_MOUSE Tumor necrosis factor receptor ... [ score 117 E 4e-26 ] [ range 68 .. 156 ]
+sequence
+-SPSR-------------GPCLAGQYLSE--G------NCKPCREGIDYTSHSNHLDSCILCTVCKE--D
+KVVETRCNITTNTVCRCKPGTFEDKDSPEICQS-------------NCTDGEE-----------------
+---------------------*
+>P1;gi|42794034|dbj|BAD11770.1| death receptor-M1 [Xenopus laevis] [ score 117 E 7e-26 ] [ range 48 .. 140 ]
+sequence
+--------------------CPAGTYVEETKG------ECIPCHPGSTYSEGPTGLDHCLSCSRCRD--D
+QEEVRSCTATQNAECRCKKGTYCPMDHPCTCTE-------------SCPPGQEL----------------
+---------------------*
+>P1;gi|8272422|dbj|BAA96463.1| TRAIL receptor2 KILLER/DR5 homologue ... [ score 114 E 4e-25 ] [ range 68 .. 156 ]
+sequence
+-SPSR-------------GPCLAGQYLSE--G------NCKPCREGIDYTSRSNHLDSCILCTVCKE--D
+KVVETRCNITTNTECRCKPGTFEDKDSPEICQS-------------NCTDGEE-----------------
+---------------------*
+>P1;gi|2443820|gb|AAB71413.1| cytotoxic TRAIL receptor-3 [Homo sapie... [ score 113 E 9e-25 ] [ range 87 .. 187 ]
+sequence
+-SFKG-------------EECPAGSHRSEHTG------ACNPCTEGVDYTNASNNEPSCFPCTVCKS--D
+QKHKSSCTMTRDTVCQCKEGTFRNENSPEMCRK-------------NCTSWDDI----------------
+---------------------*
+>P1;gi|31322662|gb|AAP41833.1| death domain-containing tumor necrosi... [ score 110 E 8e-24 ] [ range 39 .. 131 ]
+sequence
+-------------------LCPAGTYVAQHCG------KCASCTEGRDYTAHANGLEECLLCRQCKD--D
+QITLRTCTVTSDTECQCHQGYFCPAEGCEICQE-------------TCPEGREI----------------
+---------------------*
+>P1;gi|42794036|dbj|BAD11771.1| death receptor-M2 [Xenopus laevis] [ score 107 E 7e-23 ] [ range 51 .. 143 ]
+sequence
+--------------------CPAGTYVGMPCG------KCFPCHTGSSFSEGFTGLDHCLTCLSCRD--D
+QEEVRPCTATQNAECRCKKGTYCPLDHPCTCTE-------------SCPPGHEL----------------
+---------------------*
+>P1;gi|5924059|gb|AAD56428.1| decoy TNF receptor [Salvelinus fontina... [ score 99 E 2e-20 ] [ range 39 .. 123 ]
+sequence
+--------------------CPPGTYLAMRKS------DCAECPNGA-YTEFWNHISKCLRCSMCAE--N
+QVVKQECSPSNNCECECKEGYFNKKYEACIKHK-------------ECPPG-------------------
+---------------------*
+>P1;gi|18859491|ref|NP_571915.1| tumor necrosis factor receptor supe... [ score 98 E 7e-20 ] [ range 60 .. 142 ]
+sequence
+--------------------CEAGTYVKEKCG------KCSPCEKGT-YAEHPTGMEQCLQCSQCHR--D
+QTVVAECTSTSNTKCDCKFGTFCLPDEPCEVCK-------------KCT---------------------
+---------------------*
+>P1;gi|28875517|dbj|BAC65225.1| tumor necrosis factor receptor-1 [Pa... [ score 96 E 2e-19 ] [ range 53 .. 133 ]
+sequence
+--------------------CPAGTHVSGEKG------QCQECDY-RTYTAHPNELNQCFPCTPCRP--D
+QEIVTPCLTTQDTECQCKAGRFCDPQACEVCKK-------------------------------------
+---------------------*
+>P1;gi|12232081|gb|AAG49382.1| Fas antigen APO-1/CD95 [Macaca assame... [ score 89 E 3e-17 ] [ range 60 .. 143 ]
+sequence
+----R-------------NPCPPGERVNEDEP------DCVPCQEGKEYTDKGHLSSKCRRCRLCDE--G
+EVEIN-CTRTQNTKCRCKPNFFCNSAVCEHC---------------------------------------
+---------------------*
+>P1;gi|13649982|gb|AAK37531.1| FAS antigen CD95 [Aotus trivirgatus] [ score 88 E 5e-17 ] [ range 60 .. 142 ]
+sequence
+------------------KPCSPGEKKARDCP------DCVPCQEGKEYTDKSHFSPKCRRCRLCDE--G
+EVEIN-CTRTQNTKCRCKPNFFCNSAVCEHC---------------------------------------
+---------------------*
+>P1;gi|4507583|ref|NP_000034.1| tumor necrosis factor receptor super... [ score 87 E 1e-16 ] [ range 61 .. 143 ]
+sequence
+------------------KPCPPGERKARDCP------DCVPCQEGKEYTDKAHFSSKCRRCRLCDE--G
+EVEIN-CTRTQNTKCRCKPNFFCNSTVCEHC---------------------------------------
+---------------------*
+>P1;gi|4505039|ref|NP_002333.1| lymphotoxin beta receptor; lymphotox... [ score 84 E 7e-16 ] [ range 62 .. 153 ]
+sequence
+--------------------CPPGTYVSAKCR------DTVCATCAENYNEHWNYLTICQLCRPCDP--G
+LEEIAPCTSKRKTQCRCQPGMFCAAWECTHCES-------------DCPPGTE-----------------
+---------------------*
+>P1;gi|6015130|sp|O77736|TNR6_PIG Tumor necrosis factor receptor sup... [ score 81 E 4e-15 ] [ range 60 .. 160 ]
+sequence
+-------------------PCPPGKRKHADCP------QCVPCSEGEDYTDKNHHSSKCRRCRVCDH--G
+LEVEKNCTRTQNTKCRCKPNFFCHTSQCEHCNE-------------NCTPTSN-----------------
+---------------------*
+>P1;gi|35902944|ref|NP_919372.1| hematopoietic death receptor [Danio... [ score 81 E 7e-15 ] [ range 57 .. 137 ]
+sequence
+--------------------CPAGTYVAAEKG------VCAPC-EFDTYTEHDHGLLKCISCDKCRI--D
+QETIEKCTSTQNTRCKCRNGSFCLPDACEVCKK-------------------------------------
+---------------------*
+>P1;gi|2738131|gb|AAB94383.1| tumor necrosis factor receptor II homo... [ score 79 E 2e-14 ] [ range 47 .. 127 ]
+sequence
+--------------------CPPGTYASNTNT------QCTPCGSGT-FTSHNNHLPACLSCNRCDS--N
+QVETRPCNTTHNRICECSPGYYCLLKGSSGCK--------------------------------------
+---------------------*
+>P1;gi|4996375|dbj|BAA78430.1| B-type Fas antigen [Oryctolagus cunic... [ score 78 E 4e-14 ] [ range 47 .. 128 ]
+sequence
+-------------------LCPPGTKKNEGKP------DCEPCQEGEEYTDKSHFSSKCRRCSLCDH--G
+LEVETDCTTIQNTKCRCKSNFFCNALKCEHC---------------------------------------
+---------------------*
+>P1;gi|2738065|gb|AAB94360.1| tumor necrosis factor receptor II homo... [ score 76 E 1e-13 ] [ range 47 .. 125 ]
+sequence
+--------------------CPPGTYASKTNT------QCTPCGS-DTFTSHNNHLQACLSCNRCDS--N
+QVETRSCNTTHNRICECSPGYYCLLKGALGCR--------------------------------------
+---------------------*
+>P1;gi|27807189|ref|NP_777087.1| apoptosis (APO-1) antigen 1 ( FAS )... [ score 76 E 2e-13 ] [ range 59 .. 140 ]
+sequence
+-------------------PCPPGKRKNGDCP------ECVLCSEGNEYTDKSHHSDKCIRCSICDE--G
+LEVEQNCTRTRNTKCRCKSNFFCNSSPCEHC---------------------------------------
+---------------------*
+>P1;gi|4153884|dbj|BAA37093.1| Fas [Ovis aries] [ score 76 E 2e-13 ] [ range 61 .. 142 ]
+sequence
+-------------------PCPPGKRKNGDCP------ECVLCSEGNEYTDKSHHSDKCIRCSVCDE--G
+LEVEHNCTRTQNTKCRCKSNFFCNSSPCEHC---------------------------------------
+---------------------*
+>P1;gi|2738139|gb|AAB94387.1| tumor necrosis factor receptor II homo... [ score 75 E 4e-13 ] [ range 22 .. 102 ]
+sequence
+--------------------CPPGTYASNTNT------QCTPCGSGT-FTSRNNHLPACLSCNRCDS--N
+QVETRSCNATHNRICECSPGYYCLLKGSSVCK--------------------------------------
+---------------------*
+>P1;gi|22095554|sp|O73559|CRMB_COWPX Soluble TNF receptor II precurs... [ score 75 E 4e-13 ] [ range 47 .. 127 ]
+sequence
+--------------------CPPGTYASNTNT------QCTPCGSGT-FTSRNNHLPACLSCNRCDS--N
+QVETRSCNTTHNRICECAPGYYCLLKGSSGCK--------------------------------------
+---------------------*
+>P1;gi|30519824|dbj|BAC76425.1| Fas antigen [Felis catus] [ score 74 E 5e-13 ] [ range 62 .. 161 ]
+sequence
+-------------------PCPPGTRKAADCP------SCIPCEEAKDYTDRSHFSPRCRRCKICDE--G
+LEVEKNCTRTQNTKCRCKSNFFCNVSQCDHCNE-------------NCTPTS------------------
+---------------------*
+>P1;gi|2738127|gb|AAB94381.1| tumor necrosis factor receptor II homo... [ score 73 E 2e-12 ] [ range 45 .. 125 ]
+sequence
+--------------------CPPGTYASNTNT------QCTSCGSGT-FTSRNNHLPACLSCNRCDS--N
+QVETRSCNTTHNRICDCAPGYYCLLKGSSGCK--------------------------------------
+---------------------*
+>P1;gi|2072185|gb|AAB53709.1| Human osteoprotegerin (OPG) protein, c... [ score 72 E 2e-12 ] [ range 43 .. 127 ]
+sequence
+-------------------KCPPGTYLKQHCT------ACAPCPD-HYYTDSWHTSDECLYCSPCKE--L
+QYVKQECNRTHNRVCECKEGRY-LEIEFCLKHR-------------SCPPG-------------------
+---------------------*
+>P1;gi|2738133|gb|AAB94384.1| tumor necrosis factor receptor II homo... [ score 71 E 5e-12 ] [ range 45 .. 125 ]
+sequence
+--------------------CPPGTYASNTNT------QCTPCGSGT-FTSRNNHLPACLSCNRCDS--N
+QVKTRSCNTTHNRICDCAPGYYCLLKGSSGCK--------------------------------------
+---------------------*
+>P1;gi|2738147|gb|AAB94391.1| tumor necrosis factor receptor II homo... [ score 71 E 6e-12 ] [ range 46 .. 126 ]
+sequence
+--------------------CPPGTYASNTNT------QCTPCGS-DTFTSRNNHLPACLSCNRCDS--N
+QVETRSCNTTHNRICDCAPGYYCLLKGSSGCK--------------------------------------
+---------------------*
+>P1;gi|12832684|dbj|BAB22211.1| unnamed protein product [Mus musculu... [ score 69 E 2e-11 ] [ range 58 .. 139 ]
+sequence
+-------------------PCQPGKKKVEDCP------TCAPCTEGKEYMDKNHYADKCRRCTLCDE--G
+LEVETNCTLTQNTKCKCKPDFYCDSPGCEHC---------------------------------------
+---------------------*
+>P1;gi|21070932|ref|NP_631933.1| Tumor necrosis factor receptor supe... [ score 69 E 2e-11 ] [ range 58 .. 139 ]
+sequence
+-------------------PCQPGERKVKDCP------TCHPCTEGEEYTDRKHYSDKCRRCAFCDE--G
+LEVETNCTRTQNTKCRCKENFYCNASLCDHC---------------------------------------
+---------------------*
+>P1;gi|34861286|ref|XP_341969.1| similar to TNF receptor homolog 3 [... [ score 68 E 4e-11 ] [ range 143 .. 231 ]
+sequence
+-------------------LCPAGTHRNRGES------ECAPCQ-AQHFIDVNNREPVCSRCSKCRD--D
+QEEVSECSSTADRKCWCKQGTYCDSENCEMCHS-------------SCPEG-------------------
+---------------------*
+>P1;gi|22324692|gb|AAM95635.1| FAS receptor CD95 [Macaca mulatta] [ score 68 E 5e-11 ] [ range 26 .. 109 ]
+sequence
+----R-------------NPCPPGERVNEDEP------DCVPCQEGKEYTDKGHFSSKCRRCRLCDE--G
+LEVEINCTRTQNTKCRCKPNFFCNSAVCEHC---------------------------------------
+---------------------*
+>P1;gi|6981306|ref|NP_037002.1| tumor necrosis factor receptor super... [ score 68 E 6e-11 ] [ range 43 .. 127 ]
+sequence
+-------------------KCAPGTYLKQHCT------VCVPCPD-YSYTDSWHTSDECVYCSPCKE--L
+QTVKQECNRTHNRVCECEEGRYLELEFCL-KHR-------------SCPPG-------------------
+---------------------*
+>P1;gi|21264085|sp|O08712|T11B_MOUSE Tumor necrosis factor receptor ... [ score 67 E 9e-11 ] [ range 43 .. 128 ]
+sequence
+-------------------KCAPGTYLKQHCT------VCVPCPD-HSYTDSWHTSDECVYCSPCKE--L
+QSVKQECNRTHNRVCECEEGRY-LEIEFCLKHR-------------SCPPGS------------------
+---------------------*
+>P1;gi|14043015|gb|AAK29666.2| death receptor 6 [Gallus gallus] [ score 66 E 2e-10 ] [ range 54 .. 129 ]
+sequence
+-------------------KCPAGTYVSKHCR------ECSPCPDGT-FTKHENGIERCHPCRPCEL--P
+MIEKTHCTALTDRECTCLSGTFQINDTC------------------------------------------
+---------------------*
+>P1;gi|9931640|gb|AAG02242.1| fas antigen [Gallus gallus] [ score 65 E 4e-10 ] [ range 9 .. 92 ]
+sequence
+-------------------KCKRGHVKSIDCP------KCVPRKSGEEYMDHINDLDECMRCRSCDK--G
+LEVVKNCTSTENAECSCAKNHYCNSSRCEHC-E-------------SCT---------------------
+---------------------*
+>P1;gi|9931642|gb|AAG02243.1| fas ligand receptor soluble form [Gall... [ score 65 E 4e-10 ] [ range 9 .. 92 ]
+sequence
+-------------------KCKRGHVKSIDCP------KCVPCKCGEEYMDHINDLDECMRCRSCDK--G
+LEVVKNCTSTENAECSCAKNHYCNSSRCEHC-E-------------SCT---------------------
+---------------------*
+>P1;gi|34858465|ref|XP_238382.2| similar to Tumor necrosis factor re... [ score 64 E 7e-10 ] [ range 62 .. 155 ]
+sequence
+--------------------CPPGKFVHAVCS------PSQDTVCKTSYNEHWNHLFSCQLCRPCDS--G
+FEEIAPCTSDRKPECRCKPGMSCLDNECVHCEE-------------ECRPGTE-----------------
+---------------------*
+>P1;gi|15193279|gb|AAK91758.1| TNF decoy receptor [Oncorhynchus mykiss] [ score 64 E 1e-09 ] [ range 41 .. 131 ]
+sequence
+-SLTC-------------DLCAPGTYLLKHCS------DCGPCPK-SHYTEIWNYIERCQYCNRCTA--D
+EIESVPCTQLHNRQCECKDGFYMTHGSCSR-HR-------------RCPPGE------------------
+---------------------*
+>P1;gi|7549775|ref|NP_034866.1| lymphotoxin B receptor; LT beta-R; L... [ score 63 E 2e-09 ] [ range 62 .. 155 ]
+sequence
+--------------------CPPGEFVFAVCS------RCKTCPHNS-YNEHWNHLSTCQLCRPCDL--G
+FEEVAPCTSDRKAECRCQPGMSCLDNECVHCEE-------------ECQPGTE-----------------
+---------------------*
+>P1;gi|33325070|gb|AAQ08183.1| herpes virus entry mediator [Mus musc... [ score 61 E 5e-09 ] [ range 57 .. 148 ]
+sequence
+--------------------CNPGYHVKQVCS------ECAPCPP-QTYTAHANGLSKCLPCGVCDP--D
+LLTWQECSSWKDTVCRCIPGYFCENQHCSTCHT-------------TCPPGQ------------------
+---------------------*
+>P1;gi|4507585|ref|NP_003814.1| tumor necrosis factor receptor super... [ score 61 E 5e-09 ] [ range 52 .. 135 ]
+sequence
+--------------------CPPGTFVQRPCR------RDSPTTCGRHYTQFWNYLERCRYCNVCGE--R
+EEEARACHATHNRACRCRTGFFA-HAGFCLEHA-------------SCPPG-------------------
+---------------------*
+>P1;gi|32880109|gb|AAP88885.1| tumor necrosis factor receptor superf... [ score 61 E 7e-09 ] [ range 69 .. 144 ]
+sequence
+-------------------KCPAGTYVSEHCT------NCSSCPVGT-FTRHENGIEKCHDCSPCPW--P
+MIEKLPCAALTDRECTCPPGMFQSNATC------------------------------------------
+---------------------*
+>P1;gi|34874518|ref|XP_236992.2| similar to death receptor 6 [Rattus... [ score 59 E 2e-08 ] [ range 69 .. 151 ]
+sequence
+-------------------KCPAGTYVSEHCT------NCSSCPSGT-FTRHENGIERCHDCSPCPR--P
+MIERLPCAALTDRECICPPGMYQ-SNGTCAPHT-------------VCP---------------------
+---------------------*
+>P1;gi|1729987|sp|P50555|TR1A_PIG Tumor necrosis factor receptor sup... [ score 58 E 4e-08 ] [ range 61 .. 134 ]
+sequence
+-------------------KCHKGTYLHNDCT------DCRECDNGT-FTASENHLTQCLSCSKCRS--E
+QVEISPCTVDRDTVCGCRKNQYRK----------------------------------------------
+---------------------*
+>P1;gi|135963|sp|P25119|TR1B_MOUSE Tumor necrosis factor receptor su... [ score 58 E 5e-08 ] [ range 57 .. 127 ]
+sequence
+-------------------KCPPGQYVKHFCN------KCADC-EASMYTQVWNQFRTCLSCSSCTT--D
+QVEIRACTKQQNRVCACEAGRYC-----------------------------------------------
+---------------------*
+>P1;gi|28875519|dbj|BAC65226.1| tumor necrosis factor receptor-2 [Pa... [ score 58 E 6e-08 ] [ range 42 .. 117 ]
+sequence
+------------------KKCPPGQRLIQKCS------DCKQCDSGQ-YMEKWNYAQKCLSCNKCKS--N
+KQYAQRCSSTTRTGCVCKPGMYCIMD--------------------------------------------
+---------------------*
+>P1;gi|32363508|sp|Q9ER62|TR22_MOUSE Tumor necrosis factor receptor ... [ score 57 E 9e-08 ] [ range 63 .. 142 ]
+sequence
+--------------------CSAGTFVKAPCG------QCEKCHPGT-FTEKDNYLDACILCSTCDK--D
+QEMVADCSATSDRKCQCRTGYYYDPKFPESCR--------------------------------------
+---------------------*
+>P1;gi|4507577|ref|NP_001057.1| tumor necrosis factor receptor 2 pre... [ score 57 E 1e-07 ] [ range 56 .. 135 ]
+sequence
+-------------------KCSPGQHAKVFCT------KCDSC-EDSTYTQLWNWVPECLSCSRCSS--D
+QVETQACTREQNRICTCRPGWYCALSKQEGCR--------------------------------------
+---------------------*
+>P1;gi|30519575|emb|CAD90750.1| K2R protein [Cowpox virus] [ score 57 E 1e-07 ] [ range 46 .. 126 ]
+sequence
+------------------KQCDPGMYMTHSCT------KCAKCPDGT-FTSIPNHIPTCLSCRKCSS--N
+QVETKSCSNTQDRECVCASGYYCEFEGSNGCR--------------------------------------
+---------------------*
+>P1;gi|16741137|gb|AAH16420.1| Tumor necrosis factor receptor superf... [ score 57 E 1e-07 ] [ range 69 .. 151 ]
+sequence
+-------------------KCPAGTYVSEHCT------NCSSCPAGT-FTRHENGIERCHDCSPCPW--P
+MIERLPCAALTDRECICPPGMYQ-SNGTCAPHT-------------VCP---------------------
+---------------------*
+>P1;gi|17901873|gb|AAL47718.1| herpesvirus entry mediator [Homo sapi... [ score 56 E 2e-07 ] [ range 56 .. 139 ]
+sequence
+-------------------KCSPGYRVKEACG------ECEPCPPGT-YIAHLNGLSKCLQCQMCDP--G
+LRASRNCSRTENAVCGCSPGHFCDGDHCAACR--------------------------------------
+---------------------*
+>P1;gi|34873138|ref|XP_345617.1| similar to tumor necrosis factor re... [ score 56 E 2e-07 ] [ range 89 .. 180 ]
+sequence
+--------------------CNPGYHVKQVCS------ECAPCPP-QTYTAHANGLSKCLPCGVCDP--D
+LLTWQECSSWKDTVCRCISGYFCENQACSTCHA-------------ACPPGQ------------------
+---------------------*
+>P1;gi|5002248|gb|AAD37381.1| HveAs [Cercopithecus aethiops] [ score 56 E 2e-07 ] [ range 56 .. 139 ]
+sequence
+-------------------KCGPGFHVRQACG------ECEPCSPGT-YIAHFNGLSKCLQCQMCDP--G
+LRTSRNCSTTANALCGCSPGHFCDGDHCAACR--------------------------------------
+---------------------*
+>P1;gi|32139918|emb|CAD57165.1| tumour necrosis factor receptor [Onc... [ score 56 E 3e-07 ] [ range 23 .. 103 ]
+sequence
+------------------ERCRKGQYVRTDCG------KCETCQH-EYYTAELNFLKQCLPCRVCSS--N
+QKVLRECEASSDRQCVCKTGYYCTDDGCEHC---------------------------------------
+---------------------*
+>P1;gi|30016907|gb|AAP03889.1| decoy receptor 3 [Gallus gallus] [ score 55 E 4e-07 ] [ range 51 .. 135 ]
+sequence
+--------------------CPPGTFVAQHCT------KCAPCPD-LHYTHYWNYLEKCLYCNVCGE--R
+QVEVQQCNATHNRACQCQEGFHAEMEFC-VQHS-------------EAAPGS------------------
+---------------------*
+>P1;gi|14041809|dbj|BAB55455.1| tumor necrosis factor type I [Felis ... [ score 54 E 6e-07 ] [ range 61 .. 133 ]
+sequence
+-------------------KCHKGTYLYNDCT------DCRECENGT-FTASENYLRQCLSCSKCRK--E
+QVEISPCTVYRDTVCGCRKNQYR-----------------------------------------------
+---------------------*
+>P1;gi|28316748|ref|NP_783580.1| tumor necrosis factor receptor supe... [ score 54 E 7e-07 ] [ range 42 .. 117 ]
+sequence
+--------------------CSAGTYLRNPCS------ECAPCDS-EHFIDHKNRESECFPCSVCRD--D
+QEEVAKCSRTADRVCQCKQGTYCDSENCL-----------------------------------------
+---------------------*
+>P1;gi|9633635|ref|NP_051879.1| M-T2 [Myxoma virus] >gi|9633794|ref|... [ score 53 E 1e-06 ] [ range 43 .. 121 ]
+sequence
+--------------------CPPGSYASRLCG------PCSPCKN-ETFTASTNHAPACVSCRRCTG--H
+LSESQSCDKTRDRVCDCSAGNYCLLKGQEGCR--------------------------------------
+---------------------*
+>P1;gi|20178580|ref|NP_620001.1| CrmD or CPXV221 protein [Cowpox vir... [ score 53 E 1e-06 ] [ range 44 .. 124 ]
+sequence
+------------------KQCDPGMYMTHSCT------KCDKCPDGT-FTSIPNHIPTCLSCRKCSS--N
+HVETKSCSNTQDRVCVCASGYYCEFEGSNGCR--------------------------------------
+---------------------*
+>P1;gi|2738041|gb|AAB94348.1| tumor necrosis factor receptor II homo... [ score 53 E 2e-06 ] [ range 44 .. 126 ]
+sequence
+------------------KQCNPGMYMTHSCT------KCDKCPD-DTFTSIPNHSPACLSCRKCSS--N
+QVETKSCSNTQDRVCVCASGYYCESNGCRLC---------------------------------------
+---------------------*
+>P1;gi|27807217|ref|NP_777099.1| tumor necrosis factor receptor supe... [ score 52 E 2e-06 ] [ range 61 .. 133 ]
+sequence
+-------------------KCHKGTYLYNDCP------DCRVCAPGT-YTALENHLRRCLSCSRCRD--E
+QVEISPCVVDRDTVCGCRKNQYR-----------------------------------------------
+---------------------*
+>P1;gi|2738045|gb|AAB94350.1| tumor necrosis factor receptor II homo... [ score 52 E 3e-06 ] [ range 40 .. 119 ]
+sequence
+------------------KQCNPGMYMTHSCT------KCDKCPD-DTFTSIPNHSPACLSCRKCSS--N
+QVETKSCSNTQDRVCVCASGYYCEFEGSNGC---------------------------------------
+---------------------*
+>P1;gi|40556024|ref|NP_955109.1| CNPV086 TNFR-like protein [Canarypo... [ score 52 E 4e-06 ] [ range 33 .. 107 ]
+sequence
+SSLIC-------------DMCPPGYYKNKDCT------SCLPCGEG-EYTAYNNSLTKCIRCKDCEE--N
+EKIFKPCNSTSDTICTCIDGY-------------------------------------------------
+---------------------*
+>P1;gi|34872492|ref|XP_342981.1| similar to T-cell antigen 4-1BB pre... [ score 51 E 5e-06 ] [ range 31 .. 111 ]
+sequence
+--------------------CEAGTFCSKYPP------VCTSCPPSTYSSTG--GQPNCDICRVCQG--Y
+FRFKKPCSSTHNAECECVEGFHCLGPKCTRCEK-------------DCRPGQEL----------------
+---------------------*
+>P1;gi|45383287|ref|NP_989770.1| tumor necrosis factor receptor-II [... [ score 51 E 6e-06 ] [ range 49 .. 128 ]
+sequence
+-------------------KCPPGQRKAESCS------KCIPCLP-DTYTAVWNRSPQCFACSPCRK--G
+FVENQTCTLSWDRICSCPPNEYCISKMYQNCH--------------------------------------
+---------------------*
+>P1;gi|37359212|gb|AAN72434.1| soluble tumor necrosis factor recepto... [ score 51 E 9e-06 ] [ range 56 .. 135 ]
+sequence
+-------------------KCSPGQHAKVFCT------KCDSC-EDSTYTQLWNWVPECLSCGPCSP--D
+QVETQACTREQNRICTCRPGWYCALSKQEGCR--------------------------------------
+---------------------*
+>P1;gi|44889656|gb|AAS48427.1| TNF receptor superfamily, member 1A [... [ score 50 E 1e-05 ] [ range 55 .. 129 ]
+sequence
+-------------------KCHKGTYLVSDCP------SCRECEKGT-FTASQNYLRQCLSCKTCRK--E
+QVEISPCQADKDTVCGCKENQFQRH---------------------------------------------
+---------------------*
+>P1;gi|30016909|gb|AAP03890.1| osteoprotegerin [Gallus gallus] [ score 50 E 2e-05 ] [ range 44 .. 127 ]
+sequence
+--------------------CPPGSYVKQHCT------ACAPCPD-QYYAEDWNSNDECQYCSVCKE--L
+QYIKQECTSTQDRVCECIEGWYLELEFCL-KHT-------------ECPPG-------------------
+---------------------*
+>P1;gi|28269699|ref|NP_077252.2| tumor necrosis factor receptor supe... [ score 49 E 2e-05 ] [ range 53 .. 132 ]
+sequence
+--------------------CPSGTFVKAPCG------QCEKCHPGT-FTGKDNGLHDCELCSTCDK--D
+QNMVADCSATSDRKCECQIGYYYDPKFPESCR--------------------------------------
+---------------------*
+>P1;gi|5730095|ref|NP_001552.2| tumor necrosis factor receptor super... [ score 49 E 2e-05 ] [ range 31 .. 112 ]
+sequence
+--------------------CPAGTFCNNRNQ------ICSPCPPNSFSSAG--GQRTCDICRQCKG--V
+FRTRKECSSTSNAECDCTPGFHCLGAGCSMCEQ-------------DCKQGQEL----------------
+---------------------*
+>P1;gi|6981664|ref|NP_037223.1| tumor necrosis factor receptor super... [ score 49 E 4e-05 ] [ range 61 .. 133 ]
+sequence
+-------------------KCHKGTYLVSDCP------SCEVCDKGT-FTASQNHVRQCLSCKTCRK--E
+QVEISPCKADMDTVCGCKKNQFQ-----------------------------------------------
+---------------------*
+>P1;gi|23508779|ref|NP_701447.1| hypothetical protein [Plasmodium fa... [ score 48 E 5e-05 ] [ range 827 .. 896 ]
+sequence
+-------------------LCPKGFNIENNK--------CIPCPIGLYYSN-SKSINQCIPCENYRK--H
+STTLYN-SAKSKTECLCKPGYFLKDKRCVKC---------------------------------------
+---------------------*
+>P1;gi|4507587|ref|NP_001233.1| tumor necrosis factor receptor super... [ score 48 E 6e-05 ] [ range 43 .. 120 ]
+sequence
+--------------------CEPGTFLVKDCA------QCDPCIPGVSFSPDHHTRPHCESCRHCNS--G
+LL-VRNCTITANAECACRNGWQCRDKECTEC---------------------------------------
+---------------------*
+>P1;gi|9633811|ref|NP_051887.1| gp002L [Rabbit fibroma virus] >gi|96... [ score 47 E 8e-05 ] [ range 43 .. 132 ]
+sequence
+--------------------CHPGFYASRLCG------PCSPCEDGT-FTASTNHAPACVSCRPCTG--H
+LSESQPCDRTHDRVCNCSTGNYCLLNGCRICQT-------------KCPAG-------------------
+---------------------*
+>P1;gi|17380323|sp|O35305|TR11_MOUSE Tumor necrosis factor receptor ... [ score 47 E 8e-05 ] [ range 51 .. 137 ]
+sequence
+--------------------CEPGKYLSSKCT------PCLPCGP-DEYLDTWNEEDKCLLHKVCDA--G
+KVAVDPGNHTAPRRCACTAGYHWNSD-CECCRR-------------NCAPG-------------------
+---------------------*
+>P1;gi|6755827|ref|NP_035740.1| tumor necrosis factor receptor super... [ score 47 E 1e-04 ] [ range 57 .. 145 ]
+sequence
+-------------------KCPPGQYVKHFCN------KCADC-EASMYTQVWNQFRTCLSCSSSCS--D
+QVETRACTKQQNRVCACEAGRYCLKTHSGSCRQ-------------------------------------
+---------------------*
+>P1;gi|6755831|ref|NP_035742.1| tumor necrosis factor receptor super... [ score 47 E 1e-04 ] [ range 31 .. 111 ]
+sequence
+--------------------CQPGTFCRKYNP------VCKSCPPSTFSSIG--GQPNCNICRVCAG--Y
+FRFKKFCSSTHNAECECIEGFHCLGPQCTRCEK-------------DCRPGQEL----------------
+---------------------*
+>P1;gi|22137743|gb|AAH29254.1| Tnfrsf5 protein [Mus musculus] [ score 46 E 2e-04 ] [ range 40 .. 128 ]
+sequence
+-------------------LCQPGSRLTSHCT------QCHPCDSG-EFSAQWNREIRCHQHRHCEP--N
+QRVKKEGTAESDTVCACKEGQHCTSKDCEACHT-------------PCIPG-------------------
+---------------------*
+>P1;gi|128155|sp|P18519|TR16_CHICK Tumor necrosis factor receptor su... [ score 45 E 4e-04 ] [ range 138 .. 181 ]
+sequence
+---------------------------------------CEECPEGT-FSDEANFVDPCLPCTICEE--N
+EVMVKECTATSDAECR------------------------------------------------------
+---------------------*
+>P1;gi|42733532|dbj|BAD11363.1| CD134 homologue [Felis catus] [ score 45 E 4e-04 ] [ range 46 .. 114 ]
+sequence
+-------------------ECPPGYGMESRCS------KCLQCASG-FYNEAVNYEP-CKPCTQCRS--G
+SEPKQRCTPTQDTVCRCRPGT-------------------------------------------------
+---------------------*
+>P1;gi|2570831|gb|AAC39556.1| death receptor 3 beta [Homo sapiens] [ score 44 E 5e-04 ] [ range 51 .. 139 ]
+sequence
+--------------------CPAGHYLKAPCT------ECLVCPQDTFLAWENHHNSECARCQACDE--S
+QVALENCSAVADTRCGCKPGWFCVSSSPFYCQ--------------------------------------
+---------------------*
+>P1;gi|15824372|gb|AAL09310.1| death receptor 6 [Salvelinus fontinalis] [ score 44 E 6e-04 ] [ range 1 .. 81 ]
+sequence
+------------------------TFVSRHCR------DCSRCDEGT-FTHGENGIQHCHRCRPCRA--P
+LVEKVPCTATSDRICTCPPDTFTQGDSC-TAHS-------------LCPVGS------------------
+---------------------*
+>P1;gi|4507565|ref|NP_003830.1| tumor necrosis factor receptor super... [ score 44 E 7e-04 ] [ range 49 .. 136 ]
+sequence
+-------------------KCEPGKYMSSKCT------TCLPCGP-DEYLDSWNEEDKCLLHKVCDT--G
+KVAVVAGNSTTPRRCACTAGYHWSQD-CECCRR-------------NCAPG-------------------
+---------------------*
+>P1;gi|5759216|gb|AAD51030.1| p75 neurotrophin receptor a-1 [Xenopus... [ score 44 E 9e-04 ] [ range 118 .. 178 ]
+sequence
+--------------------CPEGFGMMMSCT------NCEKCPEGT-YSDEDNDRDPCLPCTICED--G
+EIEAKECTFTSDTVC-------------------------------------------------------
+---------------------*
+>P1;gi|14041809|dbj|BAB55455.1| tumor necrosis factor type I [Felis ... [ score 220 E 9e-57 ] [ range 44 .. 200 ]
+sequence
+--CPQGKYIHPQDNSICCTKCHKGTYLYNDCAGPGLDTDCRECEN-GTFTASENYLRQCLSCSKCRKEMY
+QVEISPCTVYRDTVCGCRKNQYRYYWSETHFQCLNCSLCLNGTVQISCKETQNTVCTCHAGFFLRGNECV
+SCVNCKKNTECTKLCVPIVE-*
+>P1;gi|14091035|gb|AAK53563.1| tumor necrosis factor receptor 1 prec... [ score 213 E 1e-54 ] [ range 42 .. 201 ]
+sequence
+NLCPQGKYAHPKNNSICCTKCHKGTYLVSDCPSPGQETVCEVCDK-GTFTASQNHVRQCLSCKTCRKEMF
+QVEISPCKADMDTVCGCKKNQFQRYLSETHFQCVDCSPCFNGTVTIPCKEKQNTVCNCHAGFFLSGNECT
+PCSHCKKNQECMKLCLPPVAN*
+>P1;gi|202102|gb|AAA40465.1| tumor necrosis factor receptor [ score 210 E 1e-53 ] [ range 42 .. 198 ]
+sequence
+SLCPQGKYVHSKNNSICCTKCHKGTYLVSDCPSPGRDTVCRECEK-GTFTASQNYLRQCLSCKTCRKEMS
+QVEISPCQADKDTVCGCKENQFQRYLSETHFQCVDCSPCFNGTVTIPCKETQNTVCNCHAGFFLRESECV
+PCSHCKKNEECMKLCLPP---*
+>P1;gi|1729987|sp|P50555|TR1A_PIG Tumor necrosis factor receptor sup... [ score 200 E 7e-51 ] [ range 42 .. 194 ]
+sequence
+SLCPQGKYSHPQNRSICCTKCHKGTYLHNDCLGPGLDTDCRECDN-GTFTASENHLTQCLSCSKCRSEMS
+QVEISPCTVDRDTVCGCRKNQYRKYWSETLFQCLNCSLCPNGTVQLPCLEKQDTICNCHSGFFLRDKECV
+SCVNCK-NADCKNLC------*
+>P1;gi|27807217|ref|NP_777099.1| tumor necrosis factor receptor supe... [ score 191 E 5e-48 ] [ range 42 .. 194 ]
+sequence
+SPCPQGKYNHPQNSTICCTKCHKGTYLYNDCPGPGRDTDCRVCAP-GTYTALENHLRRCLSCSRCRDEMF
+QVEISPCVVDRDTVCGCRKNQYREYWGETGFRCLNCSLCPNGTVNIPCQERQDTICHCHMGFFLKGAKCI
+SCHDCK-NKECEKLC------*
+>P1;gi|4102616|gb|AAD01516.1| tumor necrosis factor receptor p60 [Ca... [ score 168 E 5e-41 ] [ range 43 .. 189 ]
+sequence
+-LCPQGKYIHPQDDSICCTKCHKGTYLYNDCPGPGLDTDCRECEN-GTFTASENHLRQCLSCSKCRKEMN
+QVEISPCTVYRDTVCGCRKNQYRFYWSETLFQCNNCSLCLNGTVQISCQEKQNTICTCHAGFFLREHECV
+SCVNCKKNT------------*
+>P1;gi|135963|sp|P25119|TR1B_MOUSE Tumor necrosis factor receptor su... [ score 154 E 5e-37 ] [ range 39 .. 193 ]
+sequence
+-ECQISQEYYDRKAQMCCAKCPPGQYVKHFC-NKTSDTVCADCEA-SMYTQVWNQFRTCLSCSS-SCTTD
+QVEIRACTKQQNRVCACEAGRYCKTHSGSCRQCMRLSKCGPGGVASSRAPNGNVLCACAPGTFS--DTTS
+STDVCRPHRICSILAIP----*
+>P1;gi|576312|pdb|1TNR|R Chain R, Tumor Necrosis Factor Receptor P55... [ score 151 E 6e-36 ] [ range 40 .. 100 ] [ duplicate b ]
+sequence
+-ECESGSF-----------------------------------------TASENHLRHCLSCSKCRKEMG
+QVEISSCTVDRDTVCGCRKNQYRHYWSENLFQC-------------------------------------
+---------------------*
+>P1;gi|30794230|ref|NP_569110.1| tumor necrosis factor receptor supe... [ score 147 E 6e-35 ] [ range 40 .. 193 ]
+sequence
+--CQISQEYYDKKAQMCCAKCPPGQYAKHFC-NKTSDTVCADCAA-GMFTQVWNHLHTCL-SCSSSCSDD
+QVETHNCTKKQNRVCACNADSYCKLHSGNCRQCMKLSKCGPGGVARSRTSNGNVICSCAPGTFS--DTTS
+STDVCRPHRICSILAIP----*
+>P1;gi|6755827|ref|NP_035740.1| tumor necrosis factor receptor super... [ score 146 E 2e-34 ] [ range 39 .. 200 ]
+sequence
+-ECQISQEYYDRKAQMCCAKCPPGQYVKHFCNKTSSDTVCADCEA-SMYTQVWNQFRTCL-SCSSSCSTD
+QVETRACTKQQNRVCACEAGRYCKTHSGSCRQCMRLSKCGPGGVASSRAPNGNVLCACAPGTFS--DTTS
+STDVCRPHRICSILAIP----*
+>P1;gi|4505039|ref|NP_002333.1| lymphotoxin beta receptor; lymphotox... [ score 142 E 2e-33 ] [ range 46 .. 193 ]
+sequence
+---QEKEYYEPQHR-ICCSRCPPGTYVSAKCSRI-RDTVCATCAE-NSYNEHWNYLTICQLCRPCDPVMG
+LEEIAPCTSKRKTQCRCQPGMFCAAWALECTHCELLSDCPPGTEAEEVGKGNNHCVPCKAGHF--QNTSS
+PSARCQPHTRCEN--------*
+>P1;gi|4507577|ref|NP_001057.1| tumor necrosis factor receptor 2 pre... [ score 137 E 7e-32 ] [ range 38 .. 191 ]
+sequence
+STCRLREYY-DQTAQMCCSKCSPGQHAKVFCT-KTSDTVCDSCED-STYTQLWNWVPECLSCGS-RCSSD
+QVETQACTREQNRICTCRPGWYCALSQEGCRLCAPLRKCRPGGVARPGTETSDVVCPCAPGTFS--NTTS
+STDICRPHQICNVVAIP----*
+>P1;gi|6015130|sp|O77736|TNR6_PIG Tumor necrosis factor receptor sup... [ score 134 E 7e-31 ] [ range 44 .. 163 ]
+sequence
+SECPEGQH---REGQFCCQPCPPGKRKHADCTSPGGAPQCVPCSE-GEYTDKNHHSSKCRRCRVCDGEHG
+LEVEKNCTRTQNTKCRCKPNFFCHT--SQCEHCNPCTTCEHG-VIENCTPTSNTKC--------------
+---------------------*
+>P1;gi|34858465|ref|XP_238382.2| similar to Tumor necrosis factor re... [ score 132 E 3e-30 ] [ range 46 .. 193 ]
+sequence
+---PDKEYYEPL-HQVCCSRCPPGKFVHAVC-SPSQDTVCKTCLH-NSYNEHWNHLFSCQLCRPCDSVLG
+FEEIAPCTSDRKPECRCKPGMSCVYLDNECVHCERLVLCRPGTEAEVTDEIMDTCVPCKPGHF--QNTSS
+PRARCQPHTRC----------*
+>P1;gi|7549775|ref|NP_034866.1| lymphotoxin B receptor; LT beta-R; L... [ score 130 E 9e-30 ] [ range 46 .. 195 ] [ duplicate a ]
+sequence
+---QDKEYYEP-MHDVCCSRCPPGEFVFAVCSR-SQDTVCKTCPH-NSYNEHWNHLSTCQLCRPCDIVLG
+FEEVAPCTSDRKAECRCQPGMSCVYLDNECVHCERLVLCQPGTEAEVTDEIMDTCVPCKPGHF--QNTSS
+PRARCQPHTRCEI--------*
+>P1;gi|7549775|ref|NP_034866.1| lymphotoxin B receptor; LT beta-R; L... [ score 130 E 9e-30 ] [ range 82 .. 171 ] [ duplicate b ]
+sequence
+-TCPHNSYNEHWNHLSTCQLC-----------------------------------------RPCDIVLG
+FEEVAPCTSDRKAECRCQPGMSCVYLDNECVHCERLVLCQPGTEAEVTDEIMDTDVNCVP----------
+---------------------*
+>P1;gi|23200021|ref|NP_683866.1| tumor necrosis factor receptor supe... [ score 129 E 3e-29 ] [ range 40 .. 185 ]
+sequence
+---------HKKIGLFCCRGCPAGHYLKAPCTEPCGNSTCLVCPQ-DTFLAWENHHNECARCQACDEQAS
+QVALENCSAVADTRCGCKPGWFVECQSSSPFYCQPCLDCGHRHTRLLCSRRDTDCGTCLPGFYEHGDGCV
+SCPTPPPS-------------*
+>P1;gi|28875519|dbj|BAC65226.1| tumor necrosis factor receptor-2 [Pa... [ score 128 E 5e-29 ] [ range 32 .. 174 ]
+sequence
+--------TEYREQDLCCKKCPPGQRLIQKC-SDATESVCKQCDS-GQYMEKWNYAQKCLSCNKCKSNKG
+LQYAQRCSSTTRTGCVCKPGMYCIMDFDNCAECRNYSQCRAGGVSLPGKANSDVKCECPDGMFS--NTSS
+NTETCRPHTDC----------*
+>P1;gi|32139918|emb|CAD57165.1| tumour necrosis factor receptor [Onc... [ score 124 E 6e-28 ] [ range 5 .. 154 ] [ duplicate a ]
+sequence
+-ECKTEEYLHDASGKRCCERCRKGQYVRTDC-GKSTKTECETCQH-EYYTAELNFLKQCLPCRVCYSSSN
+QKVLRECEASSDRQCVCKTGYYC--TDDGCEHCLPVTLCPLGSGVVNQANPQNTVCPCQPGTYNSFND--
+AFTHCQSHTRCGDL-------*
+>P1;gi|32139918|emb|CAD57165.1| tumour necrosis factor receptor [Onc... [ score 124 E 6e-28 ] [ range 88 .. 171 ] [ duplicate b ]
+sequence
+-VCKTGYYCTDDGCEHCVTLCPLGSGVVNQ-ANPQNDTVCAPCQP-GTYNSFNDAFTHCQSHTRC-GDLG
+KEVKSAGTETTDAVCG------------------------------------------------------
+---------------------*
+>P1;gi|28875517|dbj|BAC65225.1| tumor necrosis factor receptor-1 [Pa... [ score 124 E 6e-28 ] [ range 37 .. 155 ]
+sequence
+-LCSDNQYLNGNN---CCLNCPAGTHVKSHCSKSGEKGQCQECDY-RTYTAHPNELNQCFPCTPCRPD--
+QEIVTPCLTTQDTECQCKAGRFCDPH-QACEVCKKCSKCEDEEIERNCTSTTNTEC--------------
+---------------------*
+>P1;gi|18859491|ref|NP_571915.1| tumor necrosis factor receptor supe... [ score 123 E 1e-27 ] [ range 43 .. 162 ]
+sequence
+-TCLENHEY--PHNGFCCKNCEAGTYVKEKCTSGHVMGKCSPCEK-GTYAEHPTGMEQCLQCSQCHRD--
+QTVVAECTSTSNTKCDCKFGTFC-LPDEPCEVCKKCTKCKADEEEVSCTPTSNTKC--------------
+---------------------*
+>P1;gi|27807189|ref|NP_777087.1| apoptosis (APO-1) antigen 1 ( FAS )... [ score 123 E 2e-27 ] [ range 45 .. 162 ] [ duplicate a ]
+sequence
+--CQEGLY---REHQFCCQPCPPGKRKNGDCKRDGDTPECVLCSE-GEYTDKSHHSDKCIRCSICDEEHG
+LEVEQNCTRTRNTKCRCKSNFFCN--SSPCEHCNPCTTCEHGIIEK-CTPTSNTKC--------------
+---------------------*
+>P1;gi|27807189|ref|NP_777087.1| apoptosis (APO-1) antigen 1 ( FAS )... [ score 123 E 2e-27 ] [ range 40 .. 156 ] [ duplicate b ]
+sequence
+-------------------------------------TECQPCPP-GEYTDKSHHSDKCIRCSICDEEHG
+LEVEQNCTRTRNTKCRCKSNFFCN--SSPCEHCNPCTTCEHGIIEK-CTP--------------------
+---------------------*
+>P1;gi|4153884|dbj|BAA37093.1| Fas [Ovis aries] [ score 121 E 4e-27 ] [ range 45 .. 164 ]
+sequence
+SSCQEGLY---REHLFCCQPCPPGKRKNGDCKRDGDMPECVLCSE-GEYTDKSHHSDKCIRCSVCDEEHG
+LEVEHNCTRTQNTKCRCKSNFFCN--SSPCEHCNPCTTCEHGIIEK-CTPTSNTKC--------------
+---------------------*
+>P1;gi|5924059|gb|AAD56428.1| decoy TNF receptor [Salvelinus fontina... [ score 119 E 2e-26 ] [ range 33 .. 163 ]
+sequence
+--------------SIVCDRCPPGTYLRAPCSAM-RKSDCAECPN-GAYTEFWNHISKCLRCSMCAE--N
+QVVKQECSPSNNCECECKEGYY---FNKKYEACIKHKECPPGGANTTGTPHQDTECQCQAGFYSEKATCL
+AQSNCK---------------*
+>P1;gi|34861286|ref|XP_341969.1| similar to TNF receptor homolog 3 [... [ score 118 E 4e-26 ] [ range 127 .. 250 ] [ duplicate a ]
+sequence
+TQCESNEFKH---ENFCCQLCPAGTHLINPCHRNRGESECAPCQA-QHFIDVNNREPVCSRCSKCRDD--
+QEEVSECSSTADRKCWCKQGTYCD--SENCEMCHDCSSCPEGRVIQECNATMDTVCDSKQG---------
+---------------------*
+>P1;gi|34861286|ref|XP_341969.1| similar to TNF receptor homolog 3 [... [ score 118 E 4e-26 ] [ range 129 .. 237 ] [ duplicate b ]
+sequence
+------------------------------------------CES-NEFIDVNNREPVCSRCSKCRDD--
+QEEVSECSSTADRKCWCKQGTYCD--SENCEMCHDCSSCPEGRVIQEC----------------------
+---------------------*
+>P1;gi|42794034|dbj|BAD11770.1| death receptor-M1 [Xenopus laevis] [ score 118 E 6e-26 ] [ range 31 .. 152 ] [ duplicate a ]
+sequence
+---PLNSDMYYQAGNIRCLRCPAGTYVEEPCTTRDTKGECIPCHP-GTYSEGPTGLDHCLSCSRCRDD--
+QEEVRSCTATQNAECRCKKGTYCPM-DHPCEVCLTCTSCPPGELHLPCNSTSDSHC--------------
+---------------------*
+>P1;gi|42794034|dbj|BAD11770.1| death receptor-M1 [Xenopus laevis] [ score 118 E 6e-26 ] [ range 31 .. 136 ] [ duplicate b ]
+sequence
+-----------------------------------------PCPA-GTYSEGPTGLDHCLSCSRCRDD--
+QEEVRSCTATQNAECRCKKGTYCPM-DHPCEVCLTCTSCPP-----------------------------
+---------------------*
+>P1;gi|12832684|dbj|BAB22211.1| unnamed protein product [Mus musculu... [ score 117 E 8e-26 ] [ range 44 .. 161 ]
+sequence
+--CSEGLY---QGGPFCCQPCQPGKKKVEDCKMNGGTPTCAPCTE-GEYMDKNHYADKCRRCTLCDEEHG
+LEVETNCTLTQNTKCKCKPDFYCD--SPGCEHCVRCASCEHGTLE-PCTATSNTNC--------------
+---------------------*
+>P1;gi|4996375|dbj|BAA78430.1| B-type Fas antigen [Oryctolagus cunic... [ score 116 E 1e-25 ] [ range 40 .. 150 ]
+sequence
+------------SGNFCCQLCPPGTKKKADCTSNEGKPDCEPCQE-GEYTDKSHFSSKCRRCSLCDGEHG
+LEVETDCTTIQNTKCRCKSNFFCNAL--KCEHCDPCTMCEHGIIE-ECTQTSNTKC--------------
+---------------------*
+>P1;gi|2738129|gb|AAB94382.1| tumor necrosis factor receptor II homo... [ score 116 E 2e-25 ] [ range 32 .. 171 ]
+sequence
+--CKDNEY---NRHNLCCLSCPPGTYASRLCDSKTTNTQCTPCGS-DTFTSRNNHLPACLSCNG-RCDSN
+QVETRSCNTTHNRICDCAPGYYCLLKGSGCKACVSQTKCGIGYGVSGHTPTGDVICPCGLGTYSH--TVS
+SADKCEP--------------*
+>P1;gi|346667|pir||A46476 B cell-associated surface molecule CD40, l... [ score 116 E 3e-25 ] [ range 25 .. 169 ]
+sequence
+-TCSDKQYLHD---GQCCDLCQPGSRLTSHCTAL-EKTQCHPCDS-GEFSAQWNREIRCHQHRHCEPNQG
+LRVKKEGTAESDTVCTCKEGQ--HCTSKDCEACAQHTPCIPGGVMEMATETTDTVCPCPVGFFS--NQSS
+LFEKCYPWTSCED--------*
+>P1;gi|22095554|sp|O73559|CRMB_COWPX Soluble TNF receptor II precurs... [ score 115 E 3e-25 ] [ range 32 .. 172 ]
+sequence
+--CKDNEY---NRHNLCCLSCPPGTYASRLCDSKTTNTQCTPCGS-GTFTSRNNHLPACLSCNG-RCDSN
+QVETRSCNTTHNRICECAPGYYCLLKSSGCKACVSQTKCGIGYGVSGHTSTGDVVCPCGLGTYSH--TVS
+SADKCEP--------------*
+>P1;gi|2738131|gb|AAB94383.1| tumor necrosis factor receptor II homo... [ score 115 E 3e-25 ] [ range 32 .. 172 ]
+sequence
+--CKDNEY---NRHNLCCLSCPPGTYASRLCDSKTTNTQCTPCGS-GTFTSHNNHLPACLSCNG-RCDSN
+QVETRPCNTTHNRICECSPGYYCLLKSSGCKACVSQTKCGIGYGVSGHTSTGDVICPCGLGTYSH--TVS
+SADKCEP--------------*
+>P1;gi|9931640|gb|AAG02242.1| fas antigen [Gallus gallus] [ score 114 E 4e-25 ] [ range 3 .. 111 ] [ duplicate a ]
+sequence
+-------------SGQCCTKCKRGHVKSIDC--PKTQAHCVPRKS-GEYMDHINDLDECMRCRSCDKALG
+LEVVKNCTSTENAECSCAKNHYCN--SSRCEHCESCTVCENGQIEKECTSTSDTVC--------------
+---------------------*
+>P1;gi|6636399|gb|AAF20168.1| osteoprotegerin [Homo sapiens] [ score 115 E 4e-25 ] [ range 6 .. 146 ]
+sequence
+------KYLHYTSHQLLCDKCPPGTYLKQHCTAKW-KTVCAPCPD-HYYTDSWHTSDECLYCSPVCKEL-
+QYVKQECNRTHNRVCECKEGRYLEI-----EFCLKHRSCPPGGVVQAGTPERNTVCKCPDGFFS--NETS
+SKAPCRKHTNCS---------*
+>P1;gi|2738127|gb|AAB94381.1| tumor necrosis factor receptor II homo... [ score 114 E 6e-25 ] [ range 30 .. 170 ]
+sequence
+--CKDNEYKH---HHLCCLSCPPGTYASRLCDSKTTNTQCTSCGS-GTFTSRNNHLPACLSCNG-RCDSN
+QVETRSCNTTHNRICDCAPGYYCLLKSSGCKACVSQTKCGIGYGVSGHTPTGDVVCPCGLGTYSH--TVS
+SVDKCEP--------------*
+>P1;gi|14719438|ref|NP_149031.1| tumor necrosis factor receptor supe... [ score 114 E 7e-25 ] [ range 40 .. 190 ]
+sequence
+--CDCASESQKRYGPFCCRGCPKGHYMKAPCAEPCGNSTCLPCPS-DTFLTRDNHFKTCTRCQVCDEEAL
+QVTLENCSAKSDTHCGCQSGWCVDCSTVPCGKSSPFSCVPCG--ATTPVHEAPTPRPCLPGFYIRGNDCT
+SCPTGFSS-VCPKACT-----*
+>P1;gi|2738069|gb|AAB94362.1| tumor necrosis factor receptor II homo... [ score 114 E 7e-25 ] [ range 32 .. 170 ]
+sequence
+--CKDNEY---RSRNLCCLSCPPGTYASRLCDSK-TNTQCTPCGS-DTFTSHNNHLQACLSCNG-RCDSN
+QVETRSCNTTHNRICECSPGYYCLLKSSGCRTCISKTKCGIGYGVSGYTSTGDVICPCGPGTYSH--TVS
+STDKCEP--------------*
+>P1;gi|14043015|gb|AAK29666.2| death receptor 6 [Gallus gallus] [ score 114 E 8e-25 ] [ range 35 .. 177 ]
+sequence
+---PAGKYLHATNQELICDKCPAGTYVSKHCT-KSTLRECSPCPD-GTFTKHENGIERCHPCRK-PCELP
+MIEKTHCTALTDRECTCLSGTFQINDT-----CVPYTVCPVGGVRKKGTETEDVRCPCLRGTFS--DVPS
+SVMKCKTYTDC----------*
+>P1;gi|2738057|gb|AAB94356.1| tumor necrosis factor receptor II homo... [ score 113 E 1e-24 ] [ range 32 .. 170 ]
+sequence
+--CKDNEY---KRHNLCCLSCPPGTYASRLCDSK-TNTQCTPCGS-GTFTSRNNHLPACLSCNG-RCDSN
+QVETRSCNTTHNRICECSPGYYCILKSSGCKACVSQTKCGIGYGVSGHTSAGDVICPCGLGTYSR--TVS
+SADKCEP--------------*
+>P1;gi|35902944|ref|NP_919372.1| hematopoietic death receptor [Danio... [ score 113 E 1e-24 ] [ range 41 .. 159 ]
+sequence
+--CREGLEY--PHENICCLNCPAGTYVKKACAAAAEKGVCAPCEF-DTYTEHDHGLLKCISCDKCRID--
+QETIEKCTSTQNTRCKCRNGSFC-LPDQACEVCKKCSRCEDEETEKSCTAISNTVC--------------
+---------------------*
+>P1;gi|4505393|ref|NP_002498.1| nerve growth factor receptor precurs... [ score 112 E 3e-24 ] [ range 32 .. 181 ] [ duplicate a ]
+sequence
+--CPTGLYTHSGE---CCKACNLGEGVAQPC--GANQTVCEPCDS-VTFSDVVSATEPCKPCTEC--VGL
+QSMSAPCVEADDAVCRCA---YGYYQDETTGRCEACRVCEAGGLVFSCQDKQNTVCECPDGTYSDEDPCL
+PCTVCEDTERQLRECT-----*
+>P1;gi|4505393|ref|NP_002498.1| nerve growth factor receptor precurs... [ score 112 E 3e-24 ] [ range 113 .. 194 ] [ duplicate b ]
+sequence
+-------YYQDETTGRCCRVCEAGSGLVFSCQDK-QNTVCEECPD-GTYSDEANHVDPCLPCTVCEDTER
+Q--LRECTRWADAECEEIPGR-------------------------------------------------
+---------------------*
+>P1;gi|2738135|gb|AAB94385.1| tumor necrosis factor receptor II homo... [ score 112 E 3e-24 ] [ range 29 .. 169 ]
+sequence
+--CKDNEYKH---HHLCCLSCPPGTYASRLCDSKTTNTQCTSCGS-GTFTSRNNHLPACLSCNG-RCDSN
+QVETRSCNTTHNRICECSPGYYCLLKSSGCKACVSQTKCGMGYGVSGHTPTGDVICPCGLGTYSH--TVS
+SADKCEP--------------*
+>P1;gi|38045922|gb|AAR08906.1| tumor necrosis factor receptor superf... [ score 112 E 3e-24 ] [ range 47 .. 165 ]
+sequence
+----QNLEGLHHDGQFCHKPCPPGERKARDCTVNGDEPDCVPCQE-GEYTDKAHFSSKCRRCRLCDEGHG
+LEVEINCTRTQNTKCRCKPNFFCN--STVCEHCDPCTKCEHGII-KECTLTSNTKC--------------
+---------------------*
+>P1;gi|2738133|gb|AAB94384.1| tumor necrosis factor receptor II homo... [ score 111 E 4e-24 ] [ range 30 .. 170 ]
+sequence
+--CKDNEYRH---HHLCCLSCPPGTYASRLCDSKTTNTQCTPCGS-GTFTSRNNHLPACLSCNG-RCDSN
+QVKTRSCNTTHNRICDCAPGYYCLLKSSGCKACVSQTKCGIGYGVSGHTPTGDVVCPCGLGTYSH--TVS
+SVDKCEP--------------*
+>P1;gi|2501232|sp|Q28203|TNR5_BOVIN Tumor necrosis factor receptor s... [ score 111 E 5e-24 ] [ range 24 .. 169 ]
+sequence
+TACGEKQY---PVNSLCCDLCPPGQKLVNDCTEV-SKTECQSCGK-GEFLSTWNREKYCHEHRYCNPNLG
+LRIQSEGTLNTDTICVCVEGQ--HCTSHTCESCTPHSLCLPGGVKQIATGLLDTVCPCPLGFFS--NVSS
+AFEKCHRWTSCER--------*
+>P1;gi|20178584|ref|NP_620005.1| CPXV226 [Cowpox virus] >gi|20178588... [ score 111 E 5e-24 ] [ range 30 .. 170 ]
+sequence
+--CKDNEY---KRHHLCCLSCPPGTYASRLCDSKTTNTQCTPCAS-DTFTSRNNHLPACLSCNG-RCDSN
+QVETRSCNTTHNRICDCAPGYYCFLKSSGCKACVSQTKCGIGYGVSGHTPTGDVVCPCGLGTYSH--TVS
+SVDKCEP--------------*
+>P1;gi|32363508|sp|Q9ER62|TR22_MOUSE Tumor necrosis factor receptor ... [ score 111 E 6e-24 ] [ range 48 .. 166 ]
+sequence
+--CPAGEY---WSKDVCCKNCSAGTFVKAPCEIPHTQGQCEKCHP-GTFTEKDNYLDACILCSTCDKD--
+QEMVADCSATSDRKCQCRTGLY-YYDPKFPESCRPCTKCPQGIVLQECNSTANTVCS-------------
+---------------------*
+>P1;gi|7514885|pir||D72175 G2R protein - variola minor virus (strain... [ score 111 E 6e-24 ] [ range 32 .. 170 ]
+sequence
+--CKDTEY---KRHNLCCLSCPPGTYASRLCDSK-TNTQCTPCGS-GTFTSRNNHLPACLSCNG-RCNSN
+QVETRSCNTTHNRICECSPGYYCLLKSSGCKACVSQTKCGIGYGVSGHTSVGDVICS-PCGFGTYSYTVS
+STDKCEP--------------*
+>P1;gi|2738139|gb|AAB94387.1| tumor necrosis factor receptor II homo... [ score 111 E 7e-24 ] [ range 7 .. 147 ]
+sequence
+--CKDNEYRH---HHLCCLSCPPGTYASRLCDSKTTNTQCTPCGS-GTFTSRNNHLPACLSCNG-RCDSN
+QVETRSCNATHNRICECSPGYYCLLKSSVCKACVSQTKCGIGYGVSGHTSAGDVVCPCGLGTYSH--TVS
+SADKCEP--------------*
+>P1;gi|6981272|ref|NP_036742.1| nerve growth factor receptor, fast; ... [ score 111 E 7e-24 ] [ range 32 .. 183 ] [ duplicate a ]
+sequence
+-TCSTGLYTHSGE---CCKACNLGEGVAQPC--GANQTVCEPCDN-VTFSDVVSATEPCKPCTECLG--L
+QSMSAPCVEADDAVCRCA---YGYYQDEETGHCEACSVCEVGGLVFSCQDKQNTVCECPEGTYSDEDPCL
+PCTVCEDTERQLRECTP----*
+>P1;gi|6981272|ref|NP_036742.1| nerve growth factor receptor, fast; ... [ score 111 E 7e-24 ] [ range 114 .. 195 ] [ duplicate b ]
+sequence
+-------YYQDEETGHCCSVCEVGSGLVFSCQDK-QNTVCEECPE-GTYSDEANHVDPCLPCTVCEDTER
+Q--LRECTPWADAECEEIPGR-------------------------------------------------
+---------------------*
+>P1;gi|5852484|gb|AAD54072.1| p75-like transmembrane protein fullbac... [ score 110 E 8e-24 ] [ range 24 .. 177 ] [ duplicate a ]
+sequence
+-VCESGLYT---NSGKCCSLCPAGFGVVVPC--GDSDTKCEPCEN-STFSDVRSAKAKCQPCFTCQSPSL
+TLE-SNCTREQDTVCRCPERQYL----DSNGICLPCQLCSKGHGVVSCTHNKNTVCQCSSGFYSEESPCL
+PCTECKETEVQIGDCVPQ---*
+>P1;gi|5852484|gb|AAD54072.1| p75-like transmembrane protein fullbac... [ score 110 E 8e-24 ] [ range 103 .. 182 ] [ duplicate b ]
+sequence
+--CPERQYLDSNGICLPCQLCSKGHGVVSQCTHN-KNTVCQLCSS-GFYSEVKSSESPCLPCRT-ECKET
+EVQIGDCVPQHDILC-------------------------------------------------------
+---------------------*
+>P1;gi|31322662|gb|AAP41833.1| death domain-containing tumor necrosi... [ score 110 E 1e-23 ] [ range 24 .. 143 ]
+sequence
+-VCGEGEYL---AEDICCMLCPAGTYVAQHCRIPHSRGKCASCTE-GDYTAHANGLEECLLCRQCKDD--
+QITLRTCTVTSDTECQCHQGYFC--PAEGCEICQRCTTCPEGEIVQICNATMDLGC--------------
+---------------------*
+>P1;gi|23468247|gb|AAH38365.1| Ngfr protein [Mus musculus] [ score 110 E 1e-23 ] [ range 34 .. 185 ] [ duplicate a ]
+sequence
+-TCSTGMYTHSGE---CCKACNLGEGVAQPC--GANQTVCEPCDS-VTFSDVVSATEPCKPCTECLG--L
+QSMSAPCVEADDAVCRCS---YGYYQDEETGRCEACSVCGVGGLVFSCQDKQNTVCECPEGTYSDEDPCL
+PCTVCEDTERQLRECTP----*
+>P1;gi|23468247|gb|AAH38365.1| Ngfr protein [Mus musculus] [ score 110 E 1e-23 ] [ range 112 .. 197 ] [ duplicate b ]
+sequence
+--CSYG-YYQDEETGRCCSVCGVGSGLVFSCQDK-QNTVCEECPE-GTYSDEANHVDPCLPCTVCEDTER
+Q--LRECTPWADAECEEIPGR-------------------------------------------------
+---------------------*
+>P1;gi|2738147|gb|AAB94391.1| tumor necrosis factor receptor II homo... [ score 109 E 3e-23 ] [ range 31 .. 171 ]
+sequence
+--CKDNEYRH---HHLCCLSCPPGTYASRLCDSKTTNTQCTPCGS-DTFTSRNNHLPACLSCNG-RCDSN
+QVETRSCNTTHNRICDCAPGYYCLLKSSGCKACISQTKCGIGYGVSGHTSAGDVVCPCGLGTYSH--TVS
+SVDKCEP--------------*
+>P1;gi|13655489|gb|AAK37610.1| FAS antigen CD95 [Macaca nemestrina] [ score 108 E 5e-23 ] [ range 47 .. 165 ]
+sequence
+----QNLEGLHHEGQFCRNPCPPGERKARDCTVNEDEPDCVPCQE-GEYTDKGHFSSKCRRCRLCDEGHG
+LEVEINCTRTQNTKCRCKPNFFCN--SAVCEHCDPCTKCKHGIIE-ECTLTSNTKC--------------
+---------------------*
+>P1;gi|21070932|ref|NP_631933.1| Tumor necrosis factor receptor supe... [ score 108 E 5e-23 ] [ range 44 .. 162 ]
+sequence
+--CSEGLY---QVGPFCCQPCQPGERKVKDCTTSGGAPTCHPCTE-GEYTDRKHYSDKCRRCAFCDEGHG
+LEVETNCTRTQNTKCRCKENFYCN--ASLCDHCYHCTSCGLEDILEPCTRTSNTKC--------------
+---------------------*
+>P1;gi|13649982|gb|AAK37531.1| FAS antigen CD95 [Aotus trivirgatus] [ score 107 E 5e-23 ] [ range 49 .. 164 ]
+sequence
+----EDQYYV---GQFCHKPCSPGEKKARDCTVDGDEPDCVPCQE-GEYTDKSHFSPKCRRCRLCDEGHG
+LEVEINCTRTQNTKCRCKPNFFCN--SAVCEHCDPCTTCEHGII-KECSLTSNAKC--------------
+---------------------*
+>P1;gi|18447759|gb|AAL68402.1| membrane protein CD40 [Ovis aries] [ score 107 E 6e-23 ] [ range 24 .. 169 ]
+sequence
+TACGEKQY---PVNSLCCDLCPPGQKLLNDCTEV-SKTECQSCGK-GEFLSTWNREKYCHEHRYCNPNLG
+LRIQSEGTLNTDTTCVCDEGQ--HCTSHTCESCTPHSLCLPGGVKQIATGVLDTICPCPVGFFS--NVSS
+AFEKCHPWTSCER--------*
+>P1;gi|34499988|gb|AAQ73576.1| tumor necrosis factor receptor II-lik... [ score 107 E 6e-23 ] [ range 32 .. 172 ]
+sequence
+--CKDNEY---NRHNLCCLSCPPGTYASRLCDSKTTNTQCTSCGS-GTFTSRNNHLPACLSCNG-RCDSN
+QVETRPCNTTHNRICECSPGYYCLLKSSGCKACVSQTKCGIGYGVSGHTSTGDVVCPCGLGTYSH--TVS
+SADKCEP--------------*
+>P1;gi|30519824|dbj|BAC76425.1| Fas antigen [Felis catus] [ score 106 E 1e-22 ] [ range 48 .. 165 ]
+sequence
+--CKEGLH---RGSKFCCLPCPPGTRKAADCEEDGGRPSCIPCEE-AKYTDRSHFSPRCRRCKICDEEHG
+LEVEKNCTRTQNTKCRCKSNFFCNV--SQCDHCNPCMMCEHGILE-NCTPTSSTKC--------------
+---------------------*
+>P1;gi|28269699|ref|NP_077252.2| tumor necrosis factor receptor supe... [ score 106 E 2e-22 ] [ range 38 .. 156 ]
+sequence
+--CPDGEY---QSNDVCCKTCPSGTFVKAPCKIPHTQGQCEKCHP-GTFTGKDNGLHDCELCSTCDKDQN
+MVADCSATSDRKCECQIGLYYYDPKFPESCRPCTKCPQGIP--VLQECNSTANTVCS-------------
+---------------------*
+>P1;gi|37574033|gb|AAH49782.1| Tumor necrosis factor receptor superf... [ score 105 E 3e-22 ] [ range 27 .. 167 ]
+sequence
+------KYLHYTGHQLLCDKCAPGTYLKQHCT-VRRKTLCVPCPD-HSYTDSWHTSDECVYCSPVCKEL-
+QSVKQECNRTHNRVCECEEGRYLEI-----EFCLKHRSCPPGGVVQAGTPEQNTVCKCPDGFFSGE--TS
+SKAPCRKHTNCS---------*
+>P1;gi|6981306|ref|NP_037002.1| tumor necrosis factor receptor super... [ score 105 E 4e-22 ] [ range 27 .. 169 ]
+sequence
+------KYLHYTGRQLLCDKCAPGTYLKQHCT-VRRKTLCVPCPD-YSYTDSWHTSDECVYCSPVCKEL-
+QTVKQECNRTHNRVCECEEGRYLEL-----EFCLKHRSCPPGGVLQAGTPERNTVCKCPDGFFSGE--TS
+SKAPCRKHTNCSSL-------*
+>P1;gi|34860707|ref|XP_230854.2| similar to T-cell differentiation a... [ score 104 E 5e-22 ] [ range 40 .. 215 ] [ duplicate a ]
+sequence
+-TCSDKQYLQ---GGECCDLCQPGNRLVSHCTAL-EKTQCQPCDS-GEFSAHWNREIRCHQHRHCEPDQG
+LQVKKEGTAVSDTVCTCKEGQ--HCASKECETCAQHTPCGPGGVVQMATETTDTVCPCPVGFFS--NGSS
+LFEKCHPWTSCED--------*
+>P1;gi|34860707|ref|XP_230854.2| similar to T-cell differentiation a... [ score 104 E 5e-22 ] [ range 150 .. 238 ] [ duplicate b ]
+sequence
+-TCKEGQHCASKECETCATPCGPGFGVVQMATE-TTDTVCQPCPV-GFFSNGSSLFEKCHPWTSC-EDQK
+LMVLREGTSQTDTLCGFQPRM-------------------------------------------------
+---------------------*
+>P1;gi|19697104|gb|AAL92924.1| CD40 [Sus scrofa] [ score 104 E 6e-22 ] [ range 24 .. 167 ]
+sequence
+TSCKENQY---PTNSRCCNLCPPGQKLVNHCTEV-TETECLPCSS-SEFLATWNREKHCHQHKYCDPNLG
+LQVQREGTSKTDTTCVCSEGH--HCTNSACESCTLHSLCFPGGVKQMATEVSDTICPCPVGFFS--NVSS
+ASEKCQPWTSC----------*
+>P1;gi|30519575|emb|CAD90750.1| K2R protein [Cowpox virus] [ score 103 E 1e-21 ] [ range 33 .. 151 ] [ duplicate a ]
+sequence
+-----GTDYNSNSNNLCCKQCDPGMYMTHSC-NTTSNTKCAKCPD-GTFTSIPNHIPTCLSCRG-KCSSN
+QVETKSCSNTQDRECVCASGYYCEFEGSNCRLCVPQTKCDSGYGVYGYSSKGDVIC--------------
+---------------------*
+>P1;gi|30519575|emb|CAD90750.1| K2R protein [Cowpox virus] [ score 103 E 1e-21 ] [ range 18 .. 134 ] [ duplicate b ]
+sequence
+--------------------------VSGDVPNTTSNTKCAKCPD-GTFTSIPNHIPTCLSCRG-KCSSN
+QVETKSCSNTQDRECVCASGYYCEFEGSNCRLCVPQTKC-------------------------------
+---------------------*
+>P1;gi|33325070|gb|AAQ08183.1| herpes virus entry mediator [Mus musc... [ score 103 E 1e-21 ] [ range 42 .. 185 ]
+sequence
+--CRQEEFLV---GDECCPMCNPGYHVKQVCSE-HTGTVCAPCPP-QTYTAHANGLSKCLPCGVCDPDMG
+LLTWQECSSWKDTVCRCIPGYFCENQDGSCSTCLQHTTCPPGQVEKRGTHDQDTVCACLTGTFSLGGTCL
+PWTNC----------------*
+>P1;gi|4507581|ref|NP_001241.1| tumor necrosis factor receptor super... [ score 102 E 2e-21 ] [ range 24 .. 167 ]
+sequence
+TACREKQYL---INSQCCSLCQPGQKLVSDCTE-FTETECLPCGE-SEFLDTWNRETHCHQHKYCDPNLG
+LRVQQKGTSETDTICTCEEGW--HCTSEACESCVLHRSCSPGGVKQIATGVSDTICPCPVGFFS--NVSS
+AFEKCHPWTSC----------*
+>P1;gi|34878775|ref|XP_222503.2| similar to Tumor necrosis factor re... [ score 101 E 4e-21 ] [ range 38 .. 212 ]
+sequence
+------QERHYEHLGRCCSRCEPGTYLSSKCT-PTSDSVCLPCGP-DEYLDTWNEEDKCLLHKVCDAGKA
+LVAVDPGNHTAPRRCACTAGYH---WNADCECCRRNTECAPGGAQHPCTANVDTVCPCLLGFFS--DVFS
+STDKCKPWTNCTVL-------*
+>P1;gi|12232081|gb|AAG49382.1| Fas antigen APO-1/CD95 [Macaca assame... [ score 101 E 5e-21 ] [ range 47 .. 165 ]
+sequence
+----QNLEGLHHEGQFCRNPCPPGERKARDCTVNEDEPDCVPCQE-GEYTDKGHLSSKCRRCRLCDEGHG
+LEVEINCTRTQNTKCRCKPNFFCN--SAVCEHCDPRIKCKHGIIE-ECTLTSNTKC--------------
+---------------------*
+>P1;gi|34874518|ref|XP_236992.2| similar to death receptor 6 [Rattus... [ score 101 E 7e-21 ] [ range 51 .. 192 ]
+sequence
+----TGTYRHTTGQVLTCDKCPAGTYVSEHCTN-TSLRVCSSCPS-GTFTRHENGIERCHDCSQ-PCPRP
+MIERLPCAALTDRECICPPGMYQ-----SNGTCAPHTVCPVGGVRKKGTENEDVRCQCARGTFS--DVPS
+SVMKCRAHTDC----------*
+>P1;gi|17380323|sp|O35305|TR11_MOUSE Tumor necrosis factor receptor ... [ score 101 E 8e-21 ] [ range 37 .. 179 ]
+sequence
+------QERHYEHLGRCCSRCEPGKYLSSKCT-PTSDSVCLPCGP-DEYLDTWNEEDKCLLHKVCDAGKA
+LVAVDPGNHTAPRRCACTAGYH---WNSDCECCRRNTECAPGGAQHPLQLNKDTVCPCLLGFFS--DVFS
+STDKCKPWTNCTLL-------*
+>P1;gi|42794036|dbj|BAD11771.1| death receptor-M2 [Xenopus laevis] [ score 99 E 2e-20 ] [ range 38 .. 155 ] [ duplicate a ]
+sequence
+-------EMYYQAGNIRCLRCPAGTYVGMPCTTQDTVGKCFPCHT-GSFSEGFTGLDHCLTCLSCRDD--
+QEEVRPCTATQNAECRCKKGTYCPL-DHPCEVCLTCTSCPPGHLQFPCNSTSDSHC--------------
+---------------------*
+>P1;gi|42794036|dbj|BAD11771.1| death receptor-M2 [Xenopus laevis] [ score 99 E 2e-20 ] [ range 34 .. 139 ] [ duplicate b ]
+sequence
+-----------------------------------------PCPA-GTYSEGFTGLDHCLTCLSCRDD--
+QEEVRPCTATQNAECRCKKGTYCPL-DHPCEVCLTCTSCPP-----------------------------
+---------------------*
+>P1;gi|17901873|gb|AAL47718.1| herpesvirus entry mediator [Homo sapi... [ score 100 E 2e-20 ] [ range 42 .. 181 ]
+sequence
+--CKEDEY---PVGSECCPKCSPGYRVKEACGELTG-TVCEPCPP-GTYIAHLNGLSKCLQCQMCDPAMG
+LRASRNCSRTENAVCGCSPGHFCIVQDGDCAACRAYATSSPGQVQKGGTESQDTLCNCPPGTFSPNGTLE
+ECQH-----------------*
+>P1;gi|2738041|gb|AAB94348.1| tumor necrosis factor receptor II homo... [ score 99 E 4e-20 ] [ range 37 .. 149 ]
+sequence
+-----------NSNNLCCKQCNPGMYMTHSC-NTTSNTKCDKCPD-DTFTSIPNHSPACLSCRG-KCSSN
+QVETKSCSNTQDRVCVCASGYYCEFEGSNCRLCVPQTKCGSGYGVYGYSSKGDVIC--------------
+---------------------*
+>P1;gi|16741137|gb|AAH16420.1| Tumor necrosis factor receptor superf... [ score 99 E 4e-20 ] [ range 52 .. 192 ]
+sequence
+-----GTYRHTTGQVLTCDKCPAGTYVSEHCTNMSLR-VCSSCPA-GTFTRHENGIERCHDCSQ-PCPWP
+MIERLPCAALTDRECICPPGMYQ-----SNGTCAPHTVCPVGGVRKKGTENEDVRCQCARGTFS--DVPS
+SVMKCKAHTDC----------*
+>P1;gi|2735725|gb|AAB93987.1| subgroup E ALV receptor [Meleagris gal... [ score 98 E 5e-20 ] [ range 44 .. 143 ]
+sequence
+------------------KKCPMGTYLAND------SSRCLPCKK-DEYTEYPNDFPKCLGCRTCRED--
+QVEVSPCNSTRNTRCACKNGTFC-LPDHPCEMCQKCTRCPKGQVRIACTQQSDLRC--------------
+---------------------*
+>P1;gi|20178580|ref|NP_620001.1| CrmD or CPXV221 protein [Cowpox vir... [ score 98 E 6e-20 ] [ range 18 .. 132 ] [ duplicate b ]
+sequence
+--------------------------VSGDVPNTTSNTKCDKCPD-GTFTSIPNHIPTCLSCRG-KCSSN
+HVETKSCSNTQDRVCVCASGYYCEFEGSNCRLCVPQTKC-------------------------------
+---------------------*
+>P1;gi|32880109|gb|AAP88885.1| tumor necrosis factor receptor superf... [ score 98 E 6e-20 ] [ range 51 .. 192 ]
+sequence
+----IGTYRHATGQVLTCDKCPAGTYVSEHCTN-TSLRVCSSCPV-GTFTRHENGIEKCHDCSQ-PCPWP
+MIEKLPCAALTDRECTCPPGMFQ-----SNATCAPHTVCPVGGVRKKGTETEDVRCQCARGTFS--DVPS
+SVMKCKAYTDC----------*
+>P1;gi|7330734|gb|AAF60221.1| TvbS1 [Gallus gallus] [ score 98 E 7e-20 ] [ range 44 .. 143 ] [ duplicate a ]
+sequence
+------------------RKCPMGTYEAND------SIQCLPCKK-DEYTEYPNDFPKCLGCRTCRED--
+QVEVSPCIPTRNTQCACKNGTFC-LPDHPCEMCQKCTECPKGQVRLPCTQHSDLLC--------------
+---------------------*
+>P1;gi|28316748|ref|NP_783580.1| tumor necrosis factor receptor supe... [ score 97 E 1e-19 ] [ range 25 .. 143 ]
+sequence
+TLCKIGEFKH---ENLCCLQCSAGTYLRNPCQENHNKSECAPCDS-EHFIDHKNRESECFPCSVCRDD--
+QEEVAKCSRTADRVCQCKQGTYCD--SENCERCHTCSSCPDGRVVRKCNATMDTVC--------------
+---------------------*
+>P1;gi|5002248|gb|AAD37381.1| HveAs [Cercopithecus aethiops] [ score 96 E 2e-19 ] [ range 42 .. 184 ]
+sequence
+--CKEDEY---PVGSECCPKCGPGFHVRQACGEQTG-TVCEPCSP-GTYIAHFNGLSKCLQCQMCDPAMG
+LRTSRNCSTTANALCGCSPGHFCIIQDGDCAACRAYATSSPGQVQKGGTESQDTLCNCPPGTFSSNGTLE
+ECQHGNK--------------*
+>P1;gi|4507565|ref|NP_003830.1| tumor necrosis factor receptor super... [ score 96 E 2e-19 ] [ range 37 .. 178 ]
+sequence
+-------EKHYEHLGRCCNKCEPGKYMSSKCT-TTSDSVCLPCGP-DEYLDSWNEEDKCLLHKVCDTGKA
+LVAVVAGNSTTPRRCACTAGYH---WSQDCECCRRNTECAPGGAQHPLQLNKDTVCPCLAGYFS--DAFS
+STDKCRPWTNCTFL-------*
+>P1;gi|32700005|gb|AAP86653.1| CD40 [Canis familiaris] [ score 96 E 3e-19 ] [ range 24 .. 167 ]
+sequence
+TACREKQYLVD---SQCCNMCPPGEKLVNDCLH-TIDTECTRCQT-GEFLDTWNAERHCHQHKYCDPNLG
+LHVEKEGTSETDTTCTCDEG--LHCTNAACESCTMHSLCPPGGVKQIATGISDTICPCPIGFFS--NVSS
+ALEKCHPWTSC----------*
+>P1;gi|17028418|gb|AAH17526.1| Tnfrsf25 protein [Mus musculus] [ score 95 E 5e-19 ] [ range 51 .. 159 ]
+sequence
+--CDCASESQKRYGPFCCRGCPKGHYMKAPCAEPCGNSTCLPCPS-DTFLTRDNHFKTCTRCQVCDEEAL
+QVTLENCSAKSDTHCGCQSGWCVDCSTEPCFSCVPC----------------------------------
+---------------------*
+>P1;gi|128155|sp|P18519|TR16_CHICK Tumor necrosis factor receptor su... [ score 95 E 7e-19 ] [ range 24 .. 173 ] [ duplicate a ]
+sequence
+--CLTKMYT---TSGECCKACNLGEGVVQPC--GVNQTVCEPCDS-VTYSDTVSATEPCKPCTQCVGLHS
+M--SAPCVESDDAVCRCAYGYFQDELSGS---CKECSICEVGGLMFPCRDSQDTVCECPEGTFSDEDPCL
+PCTICEENEVMVKECT-----*
+>P1;gi|128155|sp|P18519|TR16_CHICK Tumor necrosis factor receptor su... [ score 95 E 7e-19 ] [ range 105 .. 181 ] [ duplicate b ]
+sequence
+-------YFQDELSGSCCSICEVGFGLMFPC-RDSQDTVCEECPE-GTFSDEANFVDPCLPCTICEE--N
+EVMVKECTATSDAECR------------------------------------------------------
+---------------------*
+>P1;gi|34873138|ref|XP_345617.1| similar to tumor necrosis factor re... [ score 94 E 8e-19 ] [ range 73 .. 217 ]
+sequence
+-LCRQEEFSV---GDECCPMCNPGYHVKQVCSE-HTGTVCAPCPP-QTYTAHANGLSKCLPCGVCDPDMG
+LLTWQECSSWKDTVCRCISGYFCENQDGGCSTCLPHAACPPGQVQKRGTYSHDTVCACLTGTFSLGGTCL
+PWTKC----------------*
+>P1;gi|9633811|ref|NP_051887.1| gp002L [Rabbit fibroma virus] >gi|96... [ score 94 E 1e-18 ] [ range 35 .. 164 ]
+sequence
+------------KDGLCCASCHPGFYASRLC-GPGSNTVCSPCED-GTFTASTNHAPACVSCRPCTGHLS
+--ESQPCDRTHDRVCNCSTGNYCLLKGQNCRICAPQTKCPAGYGVSGHTRAGDTLCECPPHTYSDS--LS
+PTERC----------------*
+>P1;gi|9633635|ref|NP_051879.1| M-T2 [Myxoma virus] >gi|9633794|ref|... [ score 94 E 1e-18 ] [ range 28 .. 167 ]
+sequence
+--CRGNDY---EKDGLCCTSCPPGSYASRLC-GPGSDTVCSPCKN-ETFTASTNHAPACVSCRG-RCTGH
+LSESQSCDKTRDRVCDCSAGNYCLLKGEGCRICAPKTKCPAGYGVSGHTRTGDVLCTCPRYTYS--DAVS
+STETCTSS-------------*
+>P1;gi|13400108|gb|AAF43717.2| CD40 protein [Rattus norvegicus] [ score 92 E 3e-18 ] [ range 25 .. 169 ]
+sequence
+-TCSDKQYLQ---GGECCDLCQPGNRLVSHCTAL-EKTQCQPCDS-GEFSAHWNREIRCHQHRHCELNQG
+LQVKKEGTAVSDTVCTCKEGQ--HCASKECETCAQHRPCGPGGVVQMATETTDTVCPCPVGFFS--NGSS
+LFEKCHPWTSCED--------*
+>P1;gi|45383273|ref|NP_989775.1| CD30 protein [Gallus gallus] >gi|28... [ score 92 E 5e-18 ] [ range 41 .. 183 ]
+sequence
+---------YDETLGRCCYQCPSGYAKKKSCPM-DPDEDCMRCGP-EQYLNQ-SPKPRCDACVLCTKEFD
+LVEKAPCSFNSSRVCECRPGMFCQTAAKNCMRCQRHTACKPGGVKIRGTSETDVSCECPPGTFSDQ--SS
+STDVCKPHTDCAKL-------*
+>P1;gi|5759216|gb|AAD51030.1| p75 neurotrophin receptor a-1 [Xenopus... [ score 91 E 7e-18 ] [ range 22 .. 171 ] [ duplicate a ]
+sequence
+--CWSGQYTAKGE---CCISCQVGEGVIKRC--GVNQTVCEPCDS-VTYSDTISHTEACKPCTECFGHKR
+ME--APCVESDDAVCACA---YGYFTDKKSGQCKLCKSCPEGGMMMSCTNIQDTICECPEGTYSDEDPCL
+PCTICEDGEIEAKECT-----*
+>P1;gi|5759216|gb|AAD51030.1| p75 neurotrophin receptor a-1 [Xenopus... [ score 91 E 7e-18 ] [ range 103 .. 178 ] [ duplicate b ]
+sequence
+-------YFTDKKSGQCCKSCPEGFGMMMSCTNI-QDTICEKCPE-GTYSDEDNDRDPCLPCTIC--EDG
+EIEAKECTFTSDTVC-------------------------------------------------------
+---------------------*
+>P1;gi|45383287|ref|NP_989770.1| tumor necrosis factor receptor-II [... [ score 91 E 9e-18 ] [ range 46 .. 183 ]
+sequence
+----------------CCSKCPPGQRKAESC-SHSVDTKCIPCLP-DTYTAVWNRSPQCFACSP-PCRKG
+FVENQTCTLSWDRICSCPPNEYCIKMYQNCHICKVHKKCGRGRVSRRGTDSTDTECPCPPGTFSDEE--S
+YDTSCIPHTVCKSVAV-----*
+>P1;gi|4507585|ref|NP_003814.1| tumor necrosis factor receptor super... [ score 90 E 1e-17 ] [ range 47 .. 177 ] [ duplicate a ]
+sequence
+---------------LVCAQCPPGTFVQRPC-RRDSPTTCGPCPP-RHYTQFWNYLERCRYCNVL-CGER
+EEEARACHATHNRACRCRTGFFAHA-----GFCLEHASCPPGGVIAPGTPSQNTQCPCPPGTF--SASSS
+SSEQCQPHRNCTAL-------*
+>P1;gi|4507585|ref|NP_003814.1| tumor necrosis factor receptor super... [ score 90 E 1e-17 ] [ range 115 .. 213 ] [ duplicate b ]
+sequence
+--CRTGFFAH---AGFCLASCPPGAGVIAPGT-PSQNTQCQPCPP-GTFSASSSSSEQCQPHRNCT-ALG
+LALNVPGSSSHDTLCTSCTGFPLSTRVPGAEECER-----------------------------------
+---------------------*
+>P1;gi|2338420|gb|AAB67103.1| death receptor 5 [Homo sapiens] >gi|37... [ score 87 E 1e-16 ] [ range 81 .. 178 ] [ duplicate a ]
+sequence
+--------------------CPPGHHISED------GRDCISCKY-GQYSTHWNDLLFCLRCTRCD--SG
+EVELSPCTTTRNTVCQCEEGTFREEDS--PEMCRKCRTCPRGMVKVDCTPWSDIEC--------------
+---------------------*
+>P1;gi|2338420|gb|AAB67103.1| death receptor 5 [Homo sapiens] >gi|37... [ score 87 E 1e-16 ] [ range 92 .. 172 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------RDCI-SCKYGQDYSTHWNDLLFCLRCTRCDSGEVELSCTTTRNTVCQCEEGTFREEDSPE
+MCRKCR--TGCPRDCTP----*
+>P1;gi|2338420|gb|AAB67103.1| death receptor 5 [Homo sapiens] >gi|37... [ score 87 E 1e-16 ] [ range 97 .. 182 ] [ duplicate c ]
+sequence
+--CKYGQDYSTHWNDFCCTRCDSGEVELSPCT-TTRNTVCQ-CEE-GTFREEDSPE----MCRKCRCPRG
+MVKVGDCTPWSDIECVHKE---------------------------------------------------
+---------------------*
+>P1;gi|15193279|gb|AAK91758.1| TNF decoy receptor [Oncorhynchus mykiss] [ score 86 E 4e-16 ] [ range 40 .. 170 ]
+sequence
+-------------DSLTCDLCAPGTYLLKHCT-KDRKSDCGPCPK-SHYTEIWNYIERCQYCNR-FCTAD
+EIESVPCTQLHNRQCECKDGFYM-----THGSCSRHRRCPPGGVISNGTAHTDVKCPCPVGFFS--AVSS
+SRKACQKFSVCP---------*
+>P1;gi|34872647|ref|XP_345612.1| similar to Tnfrsf25 protein [Rattus... [ score 83 E 2e-15 ] [ range 47 .. 139 ]
+sequence
+-----------------------GQYMKAPCTEPCGDSSCLPCPP-GTFLARDSHFKTCTRCQVCDEEAL
+QVTLENCSAETDTHCGCQSGWCVDCSTEPCFSCTPCSSYEP-----------------------------
+---------------------*
+>P1;gi|26329207|dbj|BAC28342.1| unnamed protein product [Mus musculus] [ score 78 E 6e-14 ] [ range 51 .. 130 ] [ duplicate b ]
+sequence
+--CPPGMY---QSNGTCATVCPVGWGVRKKGTEN-EDVRCKQCAR-GTFSDVPSSVMKCKAHTDCLG-QN
+LEVVKPGTKETDNVCG------------------------------------------------------
+---------------------*
+>P1;gi|42733532|dbj|BAD11363.1| CD134 homologue [Felis catus] [ score 77 E 1e-13 ] [ range 39 .. 133 ] [ duplicate a ]
+sequence
+------------KDGKCCSECPPGYGMESRCSG-DQDTKCLQCAS-GFYNEAVNYEP-CKPCTQCNQRSG
+SEPKQRCTPTQDTVCRCRPGT---EPQDGYDRGVDCAPCPPGH---------------------------
+---------------------*
+>P1;gi|42733532|dbj|BAD11363.1| CD134 homologue [Felis catus] [ score 77 E 1e-13 ] [ range 42 .. 130 ] [ duplicate b ]
+sequence
+---------------------------------------------------------KC--CSECPPGYG
+ME--SRCSGDQDTKCQCASGFYNEAV--NYEPCKPCTQCNQRSGSEPCTPTQDTVCRCRPGTYDRGVDCA
+PCP------------------*
+>P1;gi|21264103|sp|Q9QZM4|T10B_MOUSE Tumor necrosis factor receptor ... [ score 78 E 1e-13 ] [ range 73 .. 169 ] [ duplicate a ]
+sequence
+-------------------PCLAGQYL--------SEGNCKPCRE-GDYTSHSNHLDSCILCTVCKEDK-
+-VVETRCNITTNTVCRCKPGTFEDKDS--PEICQSCSNCTDGEEELSCTPRENRKC--------------
+---------------------*
+>P1;gi|21264103|sp|Q9QZM4|T10B_MOUSE Tumor necrosis factor receptor ... [ score 78 E 1e-13 ] [ range 88 .. 172 ] [ duplicate b ]
+sequence
+--CREGIDYTSHSNHILCTVCKEDKVVETRC-NITTNTVCR-CKP-GTFEDKDS-PEICQSCSNCTD--G
+EEELTSCTPRENRKCVSK----------------------------------------------------
+---------------------*
+>P1;gi|6981688|ref|NP_037181.1| tumor necrosis factor  superfamily, ... [ score 77 E 1e-13 ] [ range 33 .. 129 ] [ duplicate a ]
+sequence
+------------SGHKCCRECQPGHGMVSRCDH-TRDTVCHPCEP-GFYNEAVNY-DTCKQCTQCNHRSG
+SELKQNCTPTEDTVCQCRPGT-QPRQDSSHKLGVDCVPCPPGH---------------------------
+---------------------*
+>P1;gi|6981688|ref|NP_037181.1| tumor necrosis factor  superfamily, ... [ score 77 E 1e-13 ] [ range 26 .. 126 ] [ duplicate b ]
+sequence
+------------------------------------------CVK-DTYPSG----HKC--CRECQPGHG
+MV--SRCDHTRDTVCHCEPGFYNEAVNDTCKQCTQCNHRSGSELKQNCTPTEDTVCQCRPGTQPRQDDCV
+PCP------------------*
+>P1;gi|22204226|emb|CAD43421.1| SI:dZ107D16.1 (novel protein similar... [ score 76 E 3e-13 ] [ range 16 .. 168 ] [ duplicate a ]
+sequence
+-ECESGSFTHSGE---CCVQCPPGEGVIKEC--GATQTECTQCDS-ETFSATFSHTDKCQVCTECTG--L
+MRMQTPCTDSNDAECVCNYGYFMNVLSS---RCEPCTVCPLGQGVDMCELNHDTVCECRDETYSDQDPCM
+PCTICEDTEILLRNCTP----*
+>P1;gi|22204226|emb|CAD43421.1| SI:dZ107D16.1 (novel protein similar... [ score 76 E 3e-13 ] [ range 110 .. 174 ] [ duplicate b ]
+sequence
+-----------------CTVCPLGQGVDMRCELNH-DTVCEECRD-ETYSDQENTMDPCMPCTICEEDT-
+EILLRNCTPTEDALC-------------------------------------------------------
+---------------------*
+>P1;gi|8272422|dbj|BAA96463.1| TRAIL receptor2 KILLER/DR5 homologue ... [ score 76 E 4e-13 ] [ range 73 .. 169 ] [ duplicate a ]
+sequence
+-------------------PCLAGQYL--------SEGNCKPCRE-GDYTSRSNHLDSCILCTVCKEDK-
+-VVETRCNITTNTECRCKPGTFEDKDS--PEICQSCSNCTDGEEELSCTPRENRKC--------------
+---------------------*
+>P1;gi|8272422|dbj|BAA96463.1| TRAIL receptor2 KILLER/DR5 homologue ... [ score 76 E 4e-13 ] [ range 73 .. 163 ] [ duplicate b ]
+sequence
+-----------------------------------------PCLA-GQYTSRSNHLDSCILCTVCKEDK-
+-VVETRCNITTNTECRCKPGTFEDKDS--PEICQSCSNCTDGEEELSCTP--------------------
+---------------------*
+>P1;gi|8272422|dbj|BAA96463.1| TRAIL receptor2 KILLER/DR5 homologue ... [ score 76 E 4e-13 ] [ range 88 .. 172 ] [ duplicate c ]
+sequence
+--CREGIDYTSRSNHILCTVCKEDKVVETRC-NITTNTECR-CKP-GTFEDKDS-PEICQSCSNCTD--G
+EEELTSCTPRENRKCVSK----------------------------------------------------
+---------------------*
+>P1;gi|30584595|gb|AAP36550.1| Homo sapiens tumor necrosis factor re... [ score 75 E 6e-13 ] [ range 132 .. 229 ] [ duplicate a ]
+sequence
+--------------------CPPGSHRSEH------PGACNRCTE-GVYTNASNNLFACLPCTACKSD--
+EEERSPCTTTRNTACQCKPGTFRN--DNSAEMCRKCSRCPRGMVKVKCTPWSDIEC--------------
+---------------------*
+>P1;gi|45382793|ref|NP_989996.1| human CD40-homologue [Gallus gallus... [ score 74 E 7e-13 ] [ range 26 .. 153 ]
+sequence
+--CSDKQYEHK---GRCCNRCQPGKKLASEC-NDTEDSVCTPCEN-GQYQHSWTKERHCTPHEICEDNAG
+LIVKRHGNATHNTVCQCRAGM--HCSDASCQTCVENEPCKQGFVAAMAEARMTSPCPCAEGTFS------
+---------------------*
+>P1;gi|30016909|gb|AAP03890.1| osteoprotegerin [Gallus gallus] [ score 73 E 3e-12 ] [ range 27 .. 146 ] [ duplicate a ]
+sequence
+------KYLHYTSRQVMCNQCPPGSYVKQHCTA-ASPTVCAPCPD-QYYAEDWNSNDECQYCSAVCKEL-
+QYIKQECTSTQDRVCECIEGWYLEL-----EFCLKHTECPPGGVAQPGTPESDTVCFCCP----------
+---------------------*
+>P1;gi|30016909|gb|AAP03890.1| osteoprotegerin [Gallus gallus] [ score 73 E 3e-12 ] [ range 5 .. 126 ] [ duplicate b ]
+sequence
+---------------LCCTQCPPGSYVKQHCTA-ASPTVCAPCPD-QYYAEDWNSNDECQYCSAVCKEL-
+QYIKQECTSTQDRVCECIEGWYLEL-----EFCLKHTECPP-----------------------------
+---------------------*
+>P1;gi|1352652|sp|P47741|TNR4_MOUSE Tumor necrosis factor receptor s... [ score 73 E 3e-12 ] [ range 29 .. 130 ] [ duplicate a ]
+sequence
+------KHTYP-SGHKCCRECQPGHGMVSRCDH-TRDTLCHPCET-GFYNEAVNY-DTCKQCTQCNHRSG
+SELKQNCTPTQDTVCRCRPGT-QPRQDSGYKLGVDCVPCPPGH---------------------------
+---------------------*
+>P1;gi|1352652|sp|P47741|TNR4_MOUSE Tumor necrosis factor receptor s... [ score 73 E 3e-12 ] [ range 36 .. 127 ] [ duplicate b ]
+sequence
+--------------------------------------------------------HKC--CRECQPGHG
+MV--SRCDHTRDTLCHCETGFYNEAVNDTCKQCTQCNHRSGSELKQNCTPTQDTVCRCRPGTQPRQDDCV
+PCP------------------*
+>P1;gi|2114108|dbj|BAA20059.1| OX40 precursor [Oryctolagus cuniculus] [ score 72 E 4e-12 ] [ range 33 .. 126 ]
+sequence
+-------------GDRCCLECQPGYGMVSRC-NRSQDTICHPCEP-GFYNEAVNY-QACKPCTQCNRRSG
+SEPQQECTHTRDTVCRCRPGT---QPLNGYKHGVDCAPCPQGH---------------------------
+---------------------*
+>P1;gi|11136919|emb|CAC15562.1| CrmE protein [Cowpox virus] [ score 71 E 6e-12 ] [ range 22 .. 167 ]
+sequence
+--CEQGVSYYNSQELKCCKLCKPGTYSDHRCD-KYSDTICGHCPS-DTFTSIYNRSPWCHSCRG-SCGTN
+RVEVTPCTPTTNRICHCDSNSYCKASDGNCVTCAPKTKCGRGYGKKGEDEMGNTICKCRKGTYS--DIVS
+DSDQCKPMTR-----------*
+>P1;gi|23200025|ref|NP_683868.1| tumor necrosis factor receptor supe... [ score 68 E 6e-11 ] [ range 48 .. 136 ]
+sequence
+-------------------------------------------------------------CRGC-PAAS
+QVALENCSAVADTRCGCKPGWFVECQSSSPFYCQPCLDCGHRHTRLLCSRRDTDCGTCLPGFYEHGDGCV
+SCPT-----------------*
+>P1;gi|3452185|gb|AAC32766.1| TRAIL-R4-B [Homo sapiens] [ score 68 E 7e-11 ] [ range 83 .. 180 ]
+sequence
+--------------------CPAGSHRSEY------TGACNPCTE-GDYTIASNNLPSCLLCTVCK--SG
+QTNKSSCTTTRDTVCQCEKGSFQDK--NSPEMCRTCRTCPRGMVKVSCTPRSDIKC--------------
+---------------------*
+>P1;gi|2443820|gb|AAB71413.1| cytotoxic TRAIL receptor-3 [Homo sapie... [ score 68 E 9e-11 ] [ range 84 .. 189 ]
+sequence
+-----------QRHSFKGEECPAGSHRSEH------TGACNPCTE-GDYTNASNNEPSCFPCTVCKSD--
+QKHKSSCTMTRDTVCQCKEGTFRN--ENSPEMCRKCSRCPSGEVQVSCTSWDDIQC--------------
+---------------------*
+>P1;gi|913406|gb|AAB33944.1| OX40 [Homo sapiens] [ score 68 E 1e-10 ] [ range 35 .. 129 ]
+sequence
+------------SNDRCCHECRPGNGMVSRCSR-SQNTVCRPCGP-GFYNDVVS-SKPCKPCTWCNLRSG
+SERKQLCTATQDTVCRCRAGT---QPLDSYKPGVDCAPCPPGH---------------------------
+---------------------*
+>P1;gi|30519548|emb|CAD90723.1| A56R protein [Cowpox virus] [ score 66 E 3e-10 ] [ range 37 .. 144 ]
+sequence
+--CDEGEYLDKRHNQ-CCNQCPPGEFAKVRCSG-SDNTKCERCPP-HTYTAIPNYSNGCHQCRKCPTGSF
+DKVK--CTGTQNSKCSCLPGWYCATDSSQTEDCRDCSRCPCG----------------------------
+---------------------*
+>P1;gi|16944724|emb|CAC95181.2| tumour necrosis family receptor [Vac... [ score 66 E 4e-10 ] [ range 37 .. 144 ]
+sequence
+--CDEGEYLDKRHNQ-CCNRCPPGEFAKVRCNGND-NTKCERCPP-HTYTAIPNYSNGCHQCRKCPTGSF
+DKVK--CTGTQNSKCSCLPGWYCATDSSQTEDCRDCRRCPCG----------------------------
+---------------------*
+>P1;gi|20178552|ref|NP_619973.1| CrmC or CPXV191 protein [Cowpox vir... [ score 65 E 4e-10 ] [ range 37 .. 144 ]
+sequence
+--CDDGEYL-DKTHNQCCNRCPPGEFAKIRCSG-SDNTKCERCPP-HTYTTVPNYSNGCHQCRKCPTGSF
+DKVK--CTGTQNSKCSCLPGWFCATDSSKTEDCRDCRKCPCG----------------------------
+---------------------*
+>P1;gi|30016907|gb|AAP03889.1| decoy receptor 3 [Gallus gallus] [ score 65 E 5e-10 ] [ range 48 .. 176 ]
+sequence
+-----------------CQQCPPGTFVAQHCT-KERPTVCAPCPD-LHYTHYWNYLEKCLYCNV-ACGER
+QVEVQQCNATHNRACQCQEGFHAEM-----EFCVQHSEAAPGGVVKLGSPSENTQCACPRG--SFSSSSS
+STEPCRAHQNCTQL-------*
+>P1;gi|40556024|ref|NP_955109.1| CNPV086 TNFR-like protein [Canarypo... [ score 65 E 6e-10 ] [ range 23 .. 116 ]
+sequence
+---QASTYRSKINSSLICDMCPPGYYKNKDCTSTST-TICLPCGE-GEYTAYNNSLTKCIRCKDCYEE-N
+EKIFKPCNSTSDTICTCIDGYTKDETTDSC----------------------------------------
+---------------------*
+>P1;gi|2738017|gb|AAB94336.1| tumor necrosis factor receptor II homo... [ score 64 E 7e-10 ] [ range 31 .. 95 ]
+sequence
+--CKDNEY---KRHNLCCLSCPPGTYASRLCDIK-TNTQCTPCGS-GTFTSHNNHLPTCLSCNG-RCDSN
+QVE-------------------------------------------------------------------
+---------------------*
+>P1;gi|4507589|ref|NP_001234.1| tumor necrosis factor receptor super... [ score 61 E 6e-09 ] [ range 35 .. 150 ]
+sequence
+-------HYYDKAVRRCCYRCPMGLFPTQQC--PQRPTDCRKCEP-DYYLDE---ADRCTACVTCSRD-D
+LVEKTPCAWNSSRVCECRPGMFCSTSANSCARCFFHSVCPAGIVKFPGTAQKNTVCE-------------
+---------------------*

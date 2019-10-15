@@ -1,0 +1,1585 @@
+>P1;1bxya
+structureX:1bxy:   1 :A:  60 :A:50S ribosomal protein L30:Thermus aquaticus: 1.90: 20.3
+MPRLKVKLVKSPIGYPKDQKAALKALGLRRLQQERVLEDTPAIRGNVEKVAHLVRVEVVE----------
+----------------------------------------------------------------------
+----------------*
+>P1;1jj2v
+structureX:1jj2:   1 :V: 154 :V:50S ribosomal protein L30p:Haloarcula marismortui: 2.40: 18.9
+--MHALVQLRGEVNMHTDIQDTLEMLNIHHVNHCTLVPETDAYRGMVAKVNDFVAFGEPSQETLETVLAT
+RAEPLEGDADVDDEWVAEHTDYDDISGLAFALLSEETTLREQGLSPTLRLHPPRGGHDGVKHPVKEGGQL
+GKHDTEGIDDLLEAMR*
+>P1;gi|23014070|ref|ZP_00053907.1| COG1841: Ribosomal protein L30/L7... [ score 100 E 7e-21 ] [ range 71 .. 127 ]
+sequence
+-STVKVTQIGSPIGRPADQGATLIGLGLGKMHRTRELEDTPAVRGMITKVRHLVRVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|27364196|ref|NP_759724.1| Ribosomal protein L30/L7E [Vibrio v... [ score 97 E 9e-20 ] [ range 1 .. 58 ]
+sequence
+MATIKVTQTKSSIGRLPKHKATLRGLGLRRINHTVELEDTPCIRGMINKVYYMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15642573|ref|NP_232206.1| ribosomal protein L30 [Vibrio chole... [ score 97 E 1e-19 ] [ range 1 .. 58 ]
+sequence
+MATIKVTQTKSSIGRLPKHKATLRGLGLRKINHTVELEDTPCVRGMINKVYYMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43832219|gb|EAF70363.1| unknown [environmental sequence] [ score 94 E 7e-19 ] [ range 8 .. 62 ]
+sequence
+---LKVTQTGSPIGRRSDQRATLIGLGLNKMHRTRELEDTPAVRGMINKVNHLVSVED------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42997058|gb|EAB65434.1| unknown [environmental sequence] [ score 93 E 2e-18 ] [ range 7 .. 63 ]
+sequence
+-KTIRVTQTGSPIGRPGDQRATLIGLGLNKMNRTRELEDTPAVRGMVNKVKHLVRVED------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|22966104|ref|ZP_00013701.1| COG1841: Ribosomal protein L30/L7... [ score 91 E 7e-18 ] [ range 13 .. 66 ]
+sequence
+-----VTQIGSPIGRRSDQRATLIGLGLNKMNRTRELEDTPAVRGMIDKIAHLVRVEDV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|24380351|ref|NP_722306.1| 50S ribosomal protein L30 [Streptoc... [ score 91 E 8e-18 ] [ range 1 .. 60 ]
+sequence
+MAQIKITLTKSPIGRIPAQRKTVVALGLGKLNSSVIKEDNAAIRGMVNAVSHLVTVEDVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|24371847|ref|NP_715889.1| ribosomal protein L30 [Shewanella o... [ score 90 E 2e-17 ] [ range 4 .. 60 ]
+sequence
+-KTVKVTQTKSGIGRLPKHRATLTGLGLRRIGHTVELEDTPSVRGMINKVYYMVKVED------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15900164|ref|NP_344768.1| ribosomal protein L30 [Streptococcu... [ score 90 E 2e-17 ] [ range 1 .. 59 ]
+sequence
+MAQIKITLTKSPIGRIPSQRKTVVALGLGKLNSSVIKEDNAAIRGMITAVSHLVTVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|22536261|ref|NP_687112.1| ribosomal protein L30 [Streptococcu... [ score 90 E 2e-17 ] [ range 1 .. 58 ]
+sequence
+MAQIKITLTKSPIGRKPEQRKTVVALGLGKLNSSVVKEDNAAIRGMVNAISHLVTVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23104457|ref|ZP_00090921.1| COG1841: Ribosomal protein L30/L7... [ score 89 E 2e-17 ] [ range 1 .. 57 ]
+sequence
+MATVKVTLVKSLIGRLANHKACVKGLGLRRIGHTVEVQDTPENRGMINKAHYLLRVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15803829|ref|NP_289863.1| 50S ribosomal subunit protein L30 [... [ score 89 E 3e-17 ] [ range 1 .. 59 ]
+sequence
+MAKIKITQTRSAIGRLPKHKATLLGLGLRRIGHTVEREDTPAIRGMINAVSFMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44253896|gb|EAH98760.1| unknown [environmental sequence] [ score 88 E 6e-17 ] [ range 1 .. 60 ]
+sequence
+MAKIKVTQTKSLIGRKKNHRLSVKGLGLRRIGDSKILEDTPSVRGMVSQVDYLLNVEEVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15599441|ref|NP_252935.1| 50S ribosomal protein L30 [Pseudomo... [ score 88 E 6e-17 ] [ range 1 .. 57 ]
+sequence
+MATVKVTLVKSLNGRLANHKACVKGLGLRRINHTVEVQDTPENRGMINKAYYLLRVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15674305|ref|NP_268478.1| 50S ribosomal protein L30 [Streptoc... [ score 88 E 6e-17 ] [ range 1 .. 60 ]
+sequence
+MAQIKITLTKSPIGRKPEQRKTVVALGLGKLNSSVVKEDNAAIRGMVTAISHLVTVEDVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|16762861|ref|NP_458478.1| 50S ribosomal subunit protein L30 [... [ score 88 E 6e-17 ] [ range 1 .. 59 ]
+sequence
+MAKIKITQTRSAIGRLPKHKATLLGLGLRRIGHTVEREDTPAVRGMVNAVSFMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|33357923|pdb|1P85|X Chain X, Real Space Refined Coordinates O... [ score 88 E 6e-17 ] [ range 2 .. 58 ]
+sequence
+-KTIKITQTRSAIGRLPKHKATLLGLGLRRIGHTVEREDTPAIRGMINAVSFMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44369764|gb|EAI78878.1| unknown [environmental sequence] [ score 88 E 7e-17 ] [ range 1 .. 60 ]
+sequence
+MAKLKVTQIKSLIGRKKNHRLSVKGLGLKKIGDSKVLEDTPSIRGMVNQVDYLLNVEEIK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|37528525|ref|NP_931870.1| 50S ribosomal protein L30 [Photorha... [ score 87 E 8e-17 ] [ range 1 .. 59 ]
+sequence
+MAKIKVTQIRSSIGRLPKHKATLVGLGLRRIGHTVEREDTPAIRGMINLVSYMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|16120565|ref|NP_403878.1| 50S ribosomal protein L30 [Yersinia... [ score 87 E 9e-17 ] [ range 1 .. 59 ]
+sequence
+MAKIKVTQTKSSIGRLPKHKATLIGLGLRRIGHTVEREDTPAVRGMVNLVSYMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|71326|pir||R5BS3F ribosomal protein L30 - Bacillus stearother... [ score 87 E 1e-16 ] [ range 2 .. 60 ]
+sequence
+-KKLAITLTRSVIGRPEDQRITVRTLGLRKMHQTVVHNDNPAIRGMINKVAHLVKVKEIE----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44489847|gb|EAJ63322.1| unknown [environmental sequence] [ score 87 E 1e-16 ] [ range 4 .. 60 ]
+sequence
+-KTIKITLVKSPIGRLKKHKACLIGLGLRRMGQTVELEDTPSINGMVRKVSYMVRTED------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|21223100|ref|NP_628879.1| 50S ribosomal protein L30 [Streptom... [ score 87 E 1e-16 ] [ range 1 .. 60 ]
+sequence
+MAQLKITQVKSYIGSKQNHRDTLRSLGLKGINTQVVKEDRPEFRGMVHTVRHLVTVEEVD----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44591855|gb|EAK33063.1| unknown [environmental sequence] [ score 87 E 1e-16 ] [ range 1 .. 59 ]
+sequence
+MAEIKITWKKSCIGFPSKQERIIESLGLKRLHHSVIHQDSPTIMGMVNKVIHLVQVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|1173021|sp|P46184|RL30_BUCAK 50S RIBOSOMAL PROTEIN L30 >gi|63... [ score 87 E 1e-16 ] [ range 1 .. 59 ]
+sequence
+MAKIKVTQVRSSIGRLPKHKATLLGLGLRRIGHTVEREDTPALRGMINLVSYMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43474165|gb|EAD91805.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 1 .. 60 ]
+sequence
+MSKIKVTQIKSLIGRKKNHRLSVKGLGLRRIGDSKVLEDTPSVRGMVSQVDYLLNIEEVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23468115|ref|ZP_00123676.1| COG1841: Ribosomal protein L30/L7... [ score 87 E 2e-16 ] [ range 2 .. 60 ]
+sequence
+MAKIKVTQVRSSIARLPKHKATLRGLGLRRINHTVELIDTPAIRGMINQVSYMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15925222|ref|NP_372756.1| 50S ribosomal protein L30 [Staphylo... [ score 85 E 3e-16 ] [ range 1 .. 58 ]
+sequence
+MAKLQITLTRSVIGRPETQRKTVEALGLKKTNSSVVVEDNPAIRGQINKVKHLVTVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15674062|ref|NP_268237.1| 50S ribosomal protein L30 [Lactococ... [ score 85 E 3e-16 ] [ range 1 .. 58 ]
+sequence
+MAQIKITLVNSPIGRIPAQRKTVKALGLGKLNSSVVKEGSPAILGMVNSISHLVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43095917|gb|EAC14083.1| unknown [environmental sequence] [ score 85 E 3e-16 ] [ range 2 .. 55 ]
+sequence
+---IKVTQVRSIHGRLKKHQACVAGLGLRRIGHTVEVEDTPSVRGMINKVNYLVRVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|41690679|ref|ZP_00147211.1| hypothetical protein Psyc082301 [... [ score 85 E 4e-16 ] [ range 1 .. 58 ]
+sequence
+MKKMKVTQFKSGAHRLKSHKASLKGLGLRRINHTVIVEDTPSTRGMVNRVNYLVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43303189|gb|EAD17341.1| unknown [environmental sequence] [ score 85 E 4e-16 ] [ range 1 .. 60 ]
+sequence
+MGKIKVTQTKSPIGYRKQTKATLEALGLKKMNHSVVKENNPAISGMIKSVSHLVKVEEVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23112488|ref|ZP_00097964.1| COG1841: Ribosomal protein L30/L7... [ score 85 E 5e-16 ] [ range 2 .. 58 ]
+sequence
+--KIKVTLVKSPIGYSENQRKVLKSLGLGKMGSSVVHDDTPNIQGMIRKCAHLVAVENV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43931606|gb|EAG20887.1| unknown [environmental sequence] [ score 85 E 5e-16 ] [ range 1 .. 58 ]
+sequence
+MAKLQITLTRSVIGRPETQRKTVEALGLKKTNSSVVVEDNPAIRGQINKVKHLLTIEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43984328|gb|EAG49503.1| unknown [environmental sequence] [ score 85 E 6e-16 ] [ range 1 .. 60 ]
+sequence
+MSKVRVKQLKSLIGRKKDHKLCISGLGLKRIGDEKILEDTPSIRGMINKVAYMLEVEEVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15612715|ref|NP_241018.1| 50S ribosomal protein L30; ribosoma... [ score 85 E 6e-16 ] [ range 3 .. 61 ]
+sequence
+-KKLEITLTRSLIGRPQDQRVTVNTLGLRKMHQTVVQEDNAAIRGMVNKVSHLVTVKEIE----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|16077202|ref|NP_388015.1| ribosomal protein L30 (BL27) [Bacil... [ score 84 E 6e-16 ] [ range 1 .. 58 ]
+sequence
+MAKLEITLKRSVIGRPEDQRVTVRTLGLKKTNQTVVHEDNAAIRGMINKVSHLVSVKE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|22982180|ref|ZP_00027474.1| COG1841: Ribosomal protein L30/L7... [ score 84 E 7e-16 ] [ range 37 .. 91 ]
+sequence
+-KTVKVQLVKSLIGTRETHRATVRGLGLRRLNSVSELQDTPAVRGMINKVSYLVKV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|21398086|ref|NP_654071.1| Ribosomal_L30, Ribosomal protein L3... [ score 84 E 7e-16 ] [ range 3 .. 59 ]
+sequence
+-KKLEITLTRSVIGRPQDQRATVEALGLKKLNSTVVKEETPAILGMINKVSHLVTVKE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15603262|ref|NP_246336.1| RpL30 [Pasteurella multocida] >gi|4... [ score 84 E 7e-16 ] [ range 1 .. 59 ]
+sequence
+MAKIKVTQVRSSIARLPKHKATLRGLGLRHMHHTVELIDTPAVRGMINQVSYMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44341178|gb|EAI58411.1| unknown [environmental sequence] [ score 84 E 8e-16 ] [ range 7 .. 61 ]
+sequence
+---IKVTQIKSPIGRTADQRQTLKGLGLNKINRTKMLQDTPSIRGMIEKVKHLVKYED------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44589643|gb|EAK31370.1| unknown [environmental sequence] [ score 84 E 8e-16 ] [ range 1 .. 60 ]
+sequence
+MSKVTVTQTKSSIGRLPKHKATLVGLGLRRIGHTVTLEDTPSVRGMINTVYYMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42832391|gb|EAA83653.1| unknown [environmental sequence] [ score 84 E 9e-16 ] [ range 4 .. 59 ]
+sequence
+-KTVRVTQTRSAIGRLGSQRRTLIGLGLNKIGRTRELEDTPAVRGMINKVKHLVRVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|26987213|ref|NP_742638.1| ribosomal protein L30 [Pseudomonas ... [ score 84 E 9e-16 ] [ range 1 .. 57 ]
+sequence
+MATVKVTLIKSVSGRLPNHKLCVKGLGLRRIGHTVEVQDTPENRGMINKAYYMLKVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44173786|gb|EAH52364.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 9 .. 64 ]
+sequence
+-STIQVTQIKSAIGRKPGQKETLIGLGLNKLNKTSVLEDTPSVRGMVNKVKHLIRVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|16801824|ref|NP_472092.1| ribosomal protein L30 [Listeria inn... [ score 84 E 1e-15 ] [ range 1 .. 59 ]
+sequence
+MAKLEITLKRSLIGRPQPQRKTVQALGLGKTNSVVVKEDNPAIRGMITKVSHLVDVKEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43714919|gb|EAF12523.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 1 .. 59 ]
+sequence
+MAKIKVTQTRSSIGRLPKHKATLRGLGLRRIGHTVELEDTAAVRGMVNRVNYMIKVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43763089|gb|EAF36003.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 15 .. 69 ]
+sequence
+--RIKITLVKSKFGRGAKQLACVHGLGLRRINQTVELEDTPAIKGMIKKVSHLVRVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|41723127|ref|ZP_00150070.1| hypothetical protein Daro306801 [... [ score 83 E 2e-15 ] [ range 4 .. 59 ]
+sequence
+-KKIKVTLVKSVIGTKQDHRATVKGLGLRKLNSSSELIDTPAVRGMIQKVQYLVKVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43495477|gb|EAE02579.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 1 .. 59 ]
+sequence
+MSKIKITLVRSTIGLPQNQRKIVKALGFRKLNQNVIHESSPTINGMVHKVKHLLSVEDV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|41410283|ref|NP_963119.1| RpmD [Mycobacterium avium subsp. pa... [ score 82 E 3e-15 ] [ range 1 .. 56 ]
+sequence
+MSQLKITQVRSTIGARWKQRESLRTLGLRRIRHSVIREDNPQTRGLIAVVSHLVEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43401143|gb|EAD62801.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 1 .. 61 ]
+sequence
+MAKIKVTQIRSRIGSEKNQIASLRGLGLWKINSYNVLENTPEIRGMIRKVNHLIRIDLVD----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|45514307|ref|ZP_00165866.1| hypothetical protein Raeut629401 ... [ score 82 E 3e-15 ] [ range 4 .. 61 ]
+sequence
+MSQVKVQLVRSLIGTREDHRATVRGLGLRRINSVSELQDTPAVRGMINKVSYLVKV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|28867872|ref|NP_790491.1| ribosomal protein L30 [Pseudomonas ... [ score 82 E 3e-15 ] [ range 1 .. 57 ]
+sequence
+MATVKVTLIKSMTGRIPNHRLCIKGLGLRRIGHTVEVLDTPENRGMINKAYYMLRVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|33152936|ref|NP_874289.1| 50S ribosomal protein L30 [Haemophi... [ score 82 E 4e-15 ] [ range 1 .. 59 ]
+sequence
+MAKIKVTQTRSSIARLPKHKATLKGLGLRNIRHTVELIDTPAIRGMINQVSYMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43461713|gb|EAD85520.1| unknown [environmental sequence] [ score 82 E 5e-15 ] [ range 1 .. 58 ]
+sequence
+MKILRITQVKSGIGYKPKAKATLRALGLRRMHQSVEQADSPQIRGMVNLIPYLIKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43020429|gb|EAB76921.1| unknown [environmental sequence] [ score 82 E 5e-15 ] [ range 4 .. 58 ]
+sequence
+-SKITIIQVHSPIGRKSDQRKTLIGLGLNKINRTSVLEDTPSVRGMVLKVKHLVKV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|22973609|ref|ZP_00020190.1| hypothetical protein [Chloroflexu... [ score 81 E 6e-15 ] [ range 1 .. 53 ]
+sequence
+MGKLRVTYVKSAIGYARDQKETLAALGLRRLNQSVLKPDNPSVRGMLFKVQHL-----------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43570497|gb|EAE40049.1| unknown [environmental sequence] [ score 81 E 7e-15 ] [ range 1 .. 60 ]
+sequence
+MQKIKITQLKSPIGRNIKQRKTLISLGLNKINRERTLDSNPAILGMINKVKHLIKVEEVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|32034700|ref|ZP_00134838.1| COG1841: Ribosomal protein L30/L7... [ score 81 E 7e-15 ] [ range 1 .. 59 ]
+sequence
+MAKIKVTQTRSSIARLPKHKATLKGLGLRHIRHTVELIDTPAVRGMINQVSYMVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44071139|gb|EAG96928.1| unknown [environmental sequence] [ score 81 E 8e-15 ] [ range 1 .. 60 ]
+sequence
+MAKLKITQLKSSIGRLKDHKACLRGLGLRRIRHVVEVEDTPSVRGMVKKISYMIKVED------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44330439|gb|EAI50896.1| unknown [environmental sequence] [ score 81 E 8e-15 ] [ range 8 .. 62 ]
+sequence
+---LRITQVKSGIGYKPKAKATLEALGLKKMHQSVEHSDSPQIRGMINVIPYLLKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44242970|gb|EAH90787.1| unknown [environmental sequence] [ score 80 E 9e-15 ] [ range 6 .. 63 ]
+sequence
+--KIKITQIKSQIGYKEKAKLTLKALGLQKMNQTVIKEDLPSIRGMIKAVDYLVHVEEVQ----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15896365|ref|NP_349714.1| Ribosomal protein L30 [Clostridium ... [ score 81 E 9e-15 ] [ range 1 .. 57 ]
+sequence
+MAKISITLKKSLIGRKKDHIATVNALGLKKIGRTVEHEDTPQIRGMIKKVDYLLEVK-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|45529048|ref|ZP_00180203.1| hypothetical protein Mther188901 ... [ score 80 E 1e-14 ] [ range 1 .. 60 ]
+sequence
+MANLRITLVKSLIGRPETERKTARAMGLKKLHRQVVCPDTPVTRGQVQKLAHLVRVESIE----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44461910|gb|EAJ43667.1| unknown [environmental sequence] [ score 80 E 1e-14 ] [ range 1 .. 60 ]
+sequence
+MSKIKVTLRKSLIGRLQAHKSCVKGLGLRKINHTVILEGTPENLGMINKVKYMLEVEKIK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|29374869|ref|NP_814022.1| ribosomal protein L30 [Enterococcus... [ score 80 E 1e-14 ] [ range 1 .. 59 ]
+sequence
+MAELKITLKRSVIGRPQNQRATVKALGLGKVNSTVTKPANEAIKGMVNTISHLVDVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|34541523|ref|NP_906002.1| ribosomal protein L30 [Porphyromona... [ score 80 E 2e-14 ] [ range 1 .. 58 ]
+sequence
+MAKIKIQQVRSRIRCPKDQKRTLDALGLRKLNQIVEHEATPSILGMVNKVRHLVLIVE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|33594499|ref|NP_882143.1| 50S ribosomal protein L30 [Bordetel... [ score 80 E 2e-14 ] [ range 4 .. 60 ]
+sequence
+-KQIKVTLVRSVIGTKQSHRDTIRGLGLRRINSSRVLVDTPEVRGMIHKVGYLVSVSE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44533375|gb|EAJ92029.1| unknown [environmental sequence] [ score 80 E 2e-14 ] [ range 1 .. 61 ]
+sequence
+MAKIKVTLLKSSIGNRKNQKENLKGLGLKKINGSRILENTPSVRGMIQKVQHLVRIETIE----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44382786|gb|EAI87998.1| unknown [environmental sequence] [ score 80 E 2e-14 ] [ range 1 .. 58 ]
+sequence
+MANVKVTLIKSVSGRIPNHKLCVKGLGLRRIGHTVEVQDTPENRGMINKAYYMLRVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23018345|ref|ZP_00058062.1| COG1841: Ribosomal protein L30/L7... [ score 79 E 3e-14 ] [ range 2 .. 60 ]
+sequence
+MAKLKITQVRSKIGGNRKQHAALASLGLGRIGKSVIRDDRPEVRGQINVVAHLVTVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44043659|gb|EAG81792.1| unknown [environmental sequence] [ score 79 E 3e-14 ] [ range 1 .. 59 ]
+sequence
+MSQIKVQLVRSVISCNQKQRACVEGLGLKKLNSVRILEKTPAVMGMIKKVHFLVKTEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|18311369|ref|NP_563303.1| 50S ribosomal protein L30 [Clostrid... [ score 79 E 3e-14 ] [ range 2 .. 56 ]
+sequence
+---LKVTLVKSLIGRKKDHIATAHALGLRKIGKTVEHEGTPQIKGMINKISYLLKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15607862|ref|NP_215236.1| rpmD [Mycobacterium tuberculosis H3... [ score 78 E 4e-14 ] [ range 1 .. 57 ]
+sequence
+MSQLKITQVRSTIGARWKQRESLRTLGLRRIRHSVIREDNAATRGLIAVVRHLVEVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43826415|gb|EAF67529.1| unknown [environmental sequence] [ score 78 E 5e-14 ] [ range 6 .. 59 ]
+sequence
+--KITIKLVKSGIGRMKNHKLCIKGLGFKKLNQTISVEDTPSNRGMINKISDMLEI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15617100|ref|NP_240313.1| 50S ribosomal protein L30 [Buchnera... [ score 78 E 5e-14 ] [ range 1 .. 58 ]
+sequence
+MKNIKITQIKSAIGRLPKHKKTLIGLGLRYIGHTVIREDTPSIQGMVKKISYILKIQE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|21672752|ref|NP_660819.1| 50S ribosomal protein L30 [Buchnera... [ score 78 E 5e-14 ] [ range 1 .. 58 ]
+sequence
+MKTIKITQIKSSIGRIPDHKKTLLGLGLRHIGHSVIRQDTPSIRGMIKKISYILKIQE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15676087|ref|NP_273218.1| 50S ribosomal protein L30 [Neisseri... [ score 78 E 5e-14 ] [ range 5 .. 60 ]
+sequence
+-KKIRVTLVKSLIGTIESHRACARGLGLRRREHTVEVLDTPENRGMINKISYLLKVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|34499623|ref|NP_903838.1| 50S ribosomal protein L30 [Chromoba... [ score 78 E 6e-14 ] [ range 5 .. 60 ]
+sequence
+-KTVKVTLVKSLIGRLESHKACARGLGLKKIRQTVEVLDTPENRGMINKISYLLKFE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44134198|gb|EAH31208.1| unknown [environmental sequence] [ score 78 E 7e-14 ] [ range 9 .. 59 ]
+sequence
+-----VTQKKSPIGRQSDQKKTLIGLGLNKIGRSKVLNDTPSIRGMINKVKHLVEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44054585|gb|EAG87734.1| unknown [environmental sequence] [ score 78 E 7e-14 ] [ range 1 .. 56 ]
+sequence
+MATIKVKQVRSAIGRTKTQKRTLEALGFKKLHQVVEHEATPSILGMIAAVSHLLEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43147963|gb|EAC39693.1| unknown [environmental sequence] [ score 77 E 8e-14 ] [ range 3 .. 59 ]
+sequence
+-KKIKITLTKSTIGSQKDQIATVRGLGLRKLNSHVILDFTPSISGMVKKVEHLIKTEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44530400|gb|EAJ89964.1| unknown [environmental sequence] [ score 77 E 8e-14 ] [ range 4 .. 60 ]
+sequence
+-KTIDIKLIKSSIGRLPNHKKCVKGLGFRKLQQTVTVEDTPSNRGMINKIRDMLEVKE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|30248436|ref|NP_840506.1| Ribosomal protein L30 [Nitrosomonas... [ score 77 E 8e-14 ] [ range 5 .. 61 ]
+sequence
+-KTIKVTLVKSLIGTRHSHRLVIKGMGLRRLNHTVSLCDHPSIRGMINKTAYLLKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44434503|gb|EAJ24418.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 1 .. 59 ]
+sequence
+MGKIVVKQIGSPIRRPEKQRQTLIGLGLNKMHKTRELEDTPSVRGMVNKIPHLVKIVE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43950998|gb|EAG31365.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 3 .. 59 ]
+sequence
+-KKIKITLTKSTIGTQKNQIATIRGLGLRKLNSQVILDFTPAISGMVKKVEHLIKTEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43664736|gb|EAE87329.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 6 .. 61 ]
+sequence
+--KLIVKQVKSAIGRQGNQRKTLIGLGLNKINKERELEDTPSIRGMIEKVKHLVVIKE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43241198|gb|EAC86231.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 4 .. 60 ]
+sequence
+-KTLKIKQIKSPIGYKQKAKLTLKALGLKKINQVVEHKDTPQLRGMINVVDYLIEVQE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44426054|gb|EAJ18532.1| unknown [environmental sequence] [ score 76 E 1e-13 ] [ range 3 .. 59 ]
+sequence
+-KKIKITLTKSIIGSQKDQIATVRGLGLRKLNSHVIHDFTPAISGMVKKVEHLIKTEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42845057|gb|EAA89916.1| unknown [environmental sequence] [ score 76 E 1e-13 ] [ range 6 .. 66 ]
+sequence
+MAKIKVTQIRSRIGSQKNQIESLRGLGLWKINSHSLLENTREIRGMIRKVNHLVRIELVD----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43008736|gb|EAB71160.1| unknown [environmental sequence] [ score 76 E 1e-13 ] [ range 1 .. 57 ]
+sequence
+MGKIVVQQIGSPIRRPEKQRKTLIGLGLNKMHKTRELEDTPSVRGMVNKIPHLVKI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15827984|ref|NP_302247.1| 50S ribosomal protein L30 [Mycobact... [ score 77 E 1e-13 ] [ range 1 .. 57 ]
+sequence
+MASLKITQVRSTIGVRWKQRESLRTLGLRRIRHSVIREDNLQTRGLIAVVRHLVEVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43338813|gb|EAD34859.1| unknown [environmental sequence] [ score 76 E 1e-13 ] [ range 2 .. 57 ]
+sequence
+---LKITQIKSAIGYKPKAKSTLAALGLKKLYHSVEKSDTPQIRGMLKKIEYLLKVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15604487|ref|NP_221005.1| 50S RIBOSOMAL PROTEIN L30 (rpmD) [R... [ score 76 E 2e-13 ] [ range 8 .. 61 ]
+sequence
+---IKITQIKSAIGCKYDQRFTLIGLGLNKINKSVILKNTNSIRGMVEKVKHLLKIE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|13470569|ref|NP_102138.1| unknown protein [Mesorhizobium loti... [ score 76 E 2e-13 ] [ range 1 .. 61 ]
+sequence
+MAKITVEQIGSPIRRPKEQRATLVGLGLNKMHKQRTLEDTPSVRGMIAAVQHLVRV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|29653608|ref|NP_819300.1| ribosomal protein L30p/L7e [Coxiell... [ score 76 E 2e-13 ] [ range 5 .. 61 ]
+sequence
+-KKLRVTLVKSKYGRKPGHRECIEGLGLRRMHQTVEVTDTPANRGMIEKVSYLLMIDE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43322450|gb|EAD26919.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 1 .. 56 ]
+sequence
+MKKIKVKQIASSVRRQPYQRKNLIGLGLNKLHKTVELDDTPSIRGMINKVSHLVEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42917198|gb|EAB25664.1| unknown [environmental sequence] >gi|... [ score 76 E 2e-13 ] [ range 1 .. 56 ]
+sequence
+MKKIKVKQIASSVRRKPYQKKNLVGLGLNKLHKTVELDDTPSIRGMINKVSHLVEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42902733|gb|EAB18483.1| unknown [environmental sequence] >gi|... [ score 76 E 3e-13 ] [ range 1 .. 61 ]
+sequence
+MSKISIKLVKSGIGRMENHKLCIKGLGFKKLNQTVTVLDTPSNRGMINKISDMLEITE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42826484|gb|EAA80576.1| unknown [environmental sequence] [ score 75 E 4e-13 ] [ range 1 .. 61 ]
+sequence
+MSKIKIKLVKSGIGRIKNHKLCIKGLGFKKLNQTVSVTDTPSNRGMINKISDMLEILE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|17987058|ref|NP_539692.1| LSU ribosomal protein L30P [Brucell... [ score 75 E 4e-13 ] [ range 7 .. 61 ]
+sequence
+-KTVTVEQIGSPIRRPAEQRATLIGLGLNKMHRRSTLEDTPAVRGMIAKLPHLVRV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42978058|gb|EAB55971.1| unknown [environmental sequence] [ score 75 E 5e-13 ] [ range 1 .. 58 ]
+sequence
+MKKIKIRQIRSPIRRPKDQRATLIGLGLNKMHKEVELVDTPEVRGMIDKVKHLVDIK-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43245030|gb|EAC88174.1| unknown [environmental sequence] [ score 75 E 5e-13 ] [ range 1 .. 49 ]
+sequence
+-----------PIGRPEEQRRTLIGLGLNKVNRLSELEDTPSVRGMINKVKHLVKIEESK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44625955|gb|EAK57402.1| unknown [environmental sequence] [ score 75 E 5e-13 ] [ range 5 .. 61 ]
+sequence
+-KTIQVKLIKSGIGRIKKHKLCIQGLGFKKLNQVVTVEDTPSNRGMINKISDMVEVVE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|25027109|ref|NP_737163.1| putative 50S ribosomal protein L30 ... [ score 75 E 5e-13 ] [ range 1 .. 58 ]
+sequence
+MA-LKITQVKGTIGTKPKHRDNLRSLGLKRIRHSVVRPDTPEVRGMVQAVRHLIVVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44602180|gb|EAK40254.1| unknown [environmental sequence] [ score 75 E 6e-13 ] [ range 8 .. 61 ]
+sequence
+---IIISQVRSGIGRDRSQKKTLIGLGLGKLNKMRKIEDTPAVRGMINKVKHLVDVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44356066|gb|EAI68991.1| unknown [environmental sequence] [ score 75 E 6e-13 ] [ range 1 .. 61 ]
+sequence
+MSKIKIKLVKSGIGRIKNHKLCIKGLGFKKLNQTLCVTDTPSNRGMINKISDMLEILE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43207905|gb|EAC69492.1| unknown [environmental sequence] [ score 74 E 7e-13 ] [ range 7 .. 61 ]
+sequence
+---ISITQIKSGIGYRKKTKSTLKALGLRKLNQTVEKKDTACIRGMINKISFLLKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23108407|ref|ZP_00094631.1| COG1841: Ribosomal protein L30/L7... [ score 74 E 7e-13 ] [ range 1 .. 56 ]
+sequence
+MATIKIKQIGSPIRRPESQKKVLIGLGLGKMHRVVEVEDTPEVRGAIAKLPHMVAV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|29348118|ref|NP_811621.1| 50S ribosomal protein L30 [Bacteroi... [ score 74 E 9e-13 ] [ range 1 .. 56 ]
+sequence
+MSTIKIKQVKSRIGAPADQKRTLDALGLRKLNRVVEHESTSSILGMVDKVKHLVAI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43405712|gb|EAD64317.1| unknown [environmental sequence] [ score 74 E 9e-13 ] [ range 1 .. 56 ]
+sequence
+MEKIKIKQVRSIIRRPANQKATVKALGLKKINQVVEKEATPSILGMIKKVSHLIEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15807108|ref|NP_295837.1| ribosomal protein L30 [Deinococcus ... [ score 73 E 1e-12 ] [ range 1 .. 55 ]
+sequence
+---MKIKLVRSVIGRPGNQVKTVQALGLRKIGDSREVSDTPAVRGMVKTVKHLLEVQE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15644230|ref|NP_229282.1| ribosomal protein L30 [Thermotoga m... [ score 73 E 1e-12 ] [ range 3 .. 54 ]
+sequence
+-KKLKIKLVKSPIGYSWDQKDTVKRLGLKKLNQVVIKDDLPQIRGMIRKVKHL-----------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44237913|gb|EAH87709.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 5 .. 63 ]
+sequence
+-KTLKIKLVKSSIGYKKKAKLTLQALGLKKINQIVEHKDTPSLRGMLDVVNYLVKVEESK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43670911|gb|EAE90477.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 1 .. 57 ]
+sequence
+---MEIQLIMSPIGYKPKAKATILALGLKKLNHSVIKKDTPQIRGMIKKVNFLIKVSEVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42838262|gb|EAA86599.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 1 .. 61 ]
+sequence
+MSKIRIKLVKSGIGRMENHKLCIKGLGFKKLNQTLTVLDTPSNRGMINKISDMLEITE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|33519676|ref|NP_878508.1| 50S ribosomal subunit protein L30 [... [ score 73 E 1e-12 ] [ range 2 .. 55 ]
+sequence
+---LKITQIRSSIGCIPKHKATLRGLGLRRIGNTVSKIDTPSVRGMINLVLYMIQVK-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43289207|gb|EAD10458.1| unknown [environmental sequence] >gi|... [ score 73 E 2e-12 ] [ range 1 .. 61 ]
+sequence
+MSKITIKLVKSGIGRMKNHKLCIKGLGFKKLNQILTIEDTPSNRGMINKISDMIEILE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23466148|ref|NP_696751.1| 50S ribosomal protein L30 [Bifidoba... [ score 73 E 2e-12 ] [ range 1 .. 61 ]
+sequence
+MAKLKITLHHGIVNRTPAQRATVKTLGLNKIGKTVVREDTPANRGLVNAVRHLVTVEEVD----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44376874|gb|EAI83794.1| unknown [environmental sequence] >gi|... [ score 73 E 2e-12 ] [ range 7 .. 63 ]
+sequence
+--KLRIKLVKSRFGRIKKHAASLSGLGLRKINQEVVIDATPENMGMVNQVKYLLEVEDV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|19704947|ref|NP_602442.1| LSU ribosomal protein L30P [Fusobac... [ score 73 E 2e-12 ] [ range 1 .. 60 ]
+sequence
+MARLRIELVKSIIGRKPNHIATVKSLGLKKMHDVVEHNETPELKGKLAQVSYLLKVEEVQ----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|38233137|ref|NP_938904.1| 50S ribosomal protein L30 [Coryneba... [ score 73 E 2e-12 ] [ range 1 .. 58 ]
+sequence
+MA-LKITQHKGLVGANPKQRKNMAALGLKHINHSVVHQDTPVVRGMVNVVRHMVSVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43569896|gb|EAE39741.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 5 .. 61 ]
+sequence
+-KTITVKLIKSGIGRMQNHKLCIKGLGFKKLNQTVTVIDSPSNRGMINKISDMLEIKE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44451961|gb|EAJ36700.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 1 .. 61 ]
+sequence
+MSKIKIKLVKSGIGRMQNHKLCIKGLGFKKVNQIVEVVDTPSNRGMINKISDMLEIVE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23474537|ref|ZP_00129830.1| COG1841: Ribosomal protein L30/L7... [ score 72 E 3e-12 ] [ range 2 .. 56 ]
+sequence
+---IKVKLVRSRIGCNPNQRRTLDALGLRKIRQEKTFEDNAVVRGMIAKVVHLVEVTE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42900431|gb|EAB17335.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 4 .. 60 ]
+sequence
+-KKIKIILTKSTIGSKKNQIATVRGLGLRKLNGAVVRDMTPEINGMVKKVKHLVRTEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15606748|ref|NP_214128.1| ribosomal protein L30 [Aquifex aeol... [ score 72 E 3e-12 ] [ range 1 .. 56 ]
+sequence
+MSKLKVKLLRGLAGESERHIQAVKSLGLKKRGQERILEDNPLVWGNIRKAFHLVGV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44186717|gb|EAH59220.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 7 .. 64 ]
+sequence
+--KVKIKLVKSRFGRIKKHAASLSGLGLRKINQEVLIDATPENMGMVNKVRYLLEVEEVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|32491310|ref|NP_871564.1| rpmD [Wigglesworthia glossinidia en... [ score 72 E 3e-12 ] [ range 1 .. 58 ]
+sequence
+MNKLKITQIKSSIGCLKKHKSTLYGLGLRHIGHTVIRQNSPRLLGMINSISYLVKIKD------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44271609|gb|EAI10899.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 1 .. 59 ]
+sequence
+MSKITIKLVKSGIGRMKNHKLCIKGLGIKKLNQTVTVLDTPSNRGMINKISDMLEI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44087559|gb|EAH05885.1| unknown [environmental sequence] [ score 71 E 4e-12 ] [ range 1 .. 62 ]
+sequence
+MAKVTVEQIGSPIRRPAVQRKTLIGLGLNKMHRVRTLEDTPSVRGMINSIPHLVRV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15892911|ref|NP_360625.1| 50S ribosomal protein L30 [Ricketts... [ score 71 E 4e-12 ] [ range 8 .. 61 ]
+sequence
+---IKITQVHSAIGRKYDQRLILVGLGLNKINKSVILANTNSIKGMVNKVKHLLKIE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|19551778|ref|NP_599780.1| ribosomal protein L30/L7E [Coryneba... [ score 71 E 5e-12 ] [ range 1 .. 58 ]
+sequence
+MA-LKITQIKGTVGTKPKHRENLRSLGLKRIRHTVIRPDTPEVRGMILAVRHLIVVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44297262|gb|EAI28084.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 7 .. 64 ]
+sequence
+--KVRIRLVKSRFGRIKKHAASLSGLGLRKINQEVVIDATPENMGMVNQVKYLLEVEDIK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23022257|ref|ZP_00061873.1| COG1841: Ribosomal protein L30/L7... [ score 71 E 6e-12 ] [ range 1 .. 59 ]
+sequence
+MAKLKITLVRSISKLNESQTATVRALGLRKRGSCVEQQDTPQIRGMIKKVEHVLSVEEI-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23097592|ref|NP_691058.1| 50S ribosomal protein L30 [Oceanoba... [ score 71 E 6e-12 ] [ range 3 .. 60 ]
+sequence
+-KKLEITLNRSVIGGTGVQKKTVEALGLKKIRQSVVREDTPAVRGMVNRVSHLLTVKEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|22995992|ref|ZP_00040269.1| COG1841: Ribosomal protein L30/L7... [ score 71 E 7e-12 ] [ range 16 .. 72 ]
+sequence
+-KTLKVCLVRSLIGVPSRHRLSVRALGLSKVSDMRKVNDTPQVRGLINKVHYLVRIQD------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42909924|gb|EAB22063.1| unknown [environmental sequence] [ score 71 E 7e-12 ] [ range 6 .. 58 ]
+sequence
+---IKLTLIKSGIGRKSDQKKTLIGLGLTKFGKVKELEDTPSVRGMISKVKHLVKI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|22956575|ref|ZP_00004330.1| COG1841: Ribosomal protein L30/L7... [ score 71 E 7e-12 ] [ range 1 .. 57 ]
+sequence
+MAKIIVKQVRSAARRPAVQTAVLKGLGLNKMHRTRELEDTPSIRGMVAKIPHLVEI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|39997931|ref|NP_953882.1| ribosomal protein L30 [Geobacter su... [ score 70 E 1e-11 ] [ range 3 .. 59 ]
+sequence
+-AELKITLVRSHIGTTSKQRAVLNGLGLTKVNKTVVLKNTPEIVGMVQKVAHMVKVVE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44252076|gb|EAH97536.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 1 .. 61 ]
+sequence
+MSKMTIKLVKSGIGRMEKHKLCIKGLGFKKLNQTVTVLDTPSNRGLVNKIADMIEIQE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|40063195|gb|AAR38032.1| ribosomal protein L30 [uncultured bac... [ score 70 E 1e-11 ] [ range 1 .. 61 ]
+sequence
+MSKMTIKLVKSGIGRMKRHKLCIKGLGFKRLNQTVTVVDTPSNRGLVNKISDMIEIQE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44157596|gb|EAH43799.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 1 .. 61 ]
+sequence
+MAKLKITQIKSRIGYSRKAKATLDALGLTKMNKSVILDANDSIVGMIKKIDYLIKVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43383940|gb|EAD56864.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 1 .. 56 ]
+sequence
+MSKIKIKQVKSKIRRPKDQKNTLEALGLKRIGHIVEHKKTPSIEGMINKVKHLITI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44429084|gb|EAJ20630.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 1 .. 48 ]
+sequence
+----------SKIGYKPKAKATLAALGLRKMQQVVEHQDSPQIRGMINNIPYLLKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15965127|ref|NP_385480.1| PROBABLE 50S RIBOSOMAL PROTEIN L30 ... [ score 70 E 2e-11 ] [ range 9 .. 63 ]
+sequence
+-KTVTVEQIGSPIRRPAVQRQTLVGLGLNKMHRVRTLEDTPAVRGMIRAVQHLVRV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|28377850|ref|NP_784742.1| ribosomal protein L30 [Lactobacillu... [ score 69 E 2e-11 ] [ range 1 .. 60 ]
+sequence
+MAQLKITLVRSAAHRLPKQRKIVKELGLGRINSSVVKPDDAATRGQIFHIAHLVDVEIIK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44248391|gb|EAH94727.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 1 .. 63 ]
+sequence
+MAKLQITQIKSRIGYKKKAKATLDAMGLKKINQTVTLPDNLSTRGMIKKIEFLINVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44165743|gb|EAH48146.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 7 .. 63 ]
+sequence
+--KVRIKLVKSRFGRIKKHAASLSGLGLRKINQEIVIDATPENMGMVNQVKYLLEVEDV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23038098|ref|ZP_00070282.1| COG1841: Ribosomal protein L30/L7... [ score 69 E 2e-11 ] [ range 1 .. 59 ]
+sequence
+MADLKITLIKSIVHREPRQREIAKSLGLGRVHSSVVRPDNAATRGIIFKIAHLVSVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43733386|gb|EAF21435.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 1 .. 58 ]
+sequence
+MAKIKITQIKSSIGYKQKAKKTLAALGLKKLNHTVVKNDTIQIRGMINKIYYLLK---------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43683930|gb|EAE97120.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 1 .. 60 ]
+sequence
+MSKIDIKLIKSSMERLPNHKKCVKGLGFRKLLQTVTVEDTPSNRGMINKIRDMLEVKE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|16125515|ref|NP_420079.1| ribosomal protein L30 [Caulobacter ... [ score 69 E 3e-11 ] [ range 5 .. 61 ]
+sequence
+-KTVTVRQTGSPIRREKDQRATLVGLGLNRVGRVSTLQDNPSTRGMIRKVQHLLEIVE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43144242|gb|EAC37833.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 1 .. 59 ]
+sequence
+MVKIKVTQVKSSIKKMRSQKRTLEALGLRGIGKEVIHENTPNIIGMINKVKHLVKTKEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44329502|gb|EAI50221.1| unknown [environmental sequence] >gi|... [ score 68 E 4e-11 ] [ range 4 .. 58 ]
+sequence
+-KEITVKLKKSLIGSKDYQRQSVRGLGLNKLGQVVSVQDTPENRGMINKAIHLLEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44645058|gb|EAK71204.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 7 .. 59 ]
+sequence
+---LKIKLIKSGIGRMNKHKLCIKGLGFRKLNQVVSIEDTSSNRGMVNKIRDMIEI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23024310|ref|ZP_00063526.1| COG1841: Ribosomal protein L30/L7... [ score 68 E 6e-11 ] [ range 1 .. 60 ]
+sequence
+MADLKITLIKSAVHRLPKQRAIVKSLGLGRVSSSVVKPNNEATRGAIFHIAHLVNVEEVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44363050|gb|EAI74148.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 1 .. 56 ]
+sequence
+MSTIKIKQVKSKIRRPRDQKSTLEALGLKRIGHVVEHKKTPSIEGMIKKVKHLITI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42893151|gb|EAB13743.1| unknown [environmental sequence] [ score 68 E 7e-11 ] [ range 1 .. 59 ]
+sequence
+MEKIKIKQIRSSIKNLKKQKLTLIALGLRGIGKEVIHENTPNIKGMVEKVNHLVEITKI-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|39936295|ref|NP_948571.1| ribosomal protein L30 [Rhodopseudom... [ score 68 E 7e-11 ] [ range 1 .. 60 ]
+sequence
+MAKIKVEQIGSPIRRHHSQRETLIGLKLNKIGRVAELQDTPEVRGMIGKVQHLVRV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15640028|ref|NP_218646.1| ribosomal protein L30 [Treponema pa... [ score 67 E 8e-11 ] [ range 3 .. 59 ]
+sequence
+-KRVRITLVRSTIGQREPVRRTVRSLGLRKLHSMVEKDGSPAVLGMVRAVSHLVRVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|27904924|ref|NP_778050.1| 50S ribosomal protein L30 [Buchnera... [ score 67 E 9e-11 ] [ range 5 .. 57 ]
+sequence
+---ISITQIKSSIGRLPKHKATLSGLGLRYIGHTVLRKNTPSVRGMIKLLSFMLRI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43821755|gb|EAF65290.1| unknown [environmental sequence] [ score 67 E 9e-11 ] [ range 1 .. 56 ]
+sequence
+MSKIKIKQIRSKIKRPFDQKRTLEALGLRGIGHVVEHNSDPSILGMIKKVEHIIKI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43299352|gb|EAD15450.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 1 .. 60 ]
+sequence
+MSKIKVSQKLSLIGKTKKQIACIKGLGLKRVSDTKILDATPENLGMINIVKHMLNVESIE----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|27380493|ref|NP_772022.1| 50S ribosomal protein L30 [Bradyrhi... [ score 67 E 1e-10 ] [ range 1 .. 60 ]
+sequence
+MAKIKLEQTGSAIRRHHSQRSTLIGLKLNKIGRTSELPDTPAVRGMIEKVHHLVRI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44596296|gb|EAK36142.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 6 .. 58 ]
+sequence
+---LTIKLKKSLIGSKDYQRQSVRGLGLSKLGQEVSVKDTPENRGMINKAIHLLEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43615547|gb|EAE62484.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 4 .. 58 ]
+sequence
+--KLKITLKKSTIGSQKGQIATVKGLGLKKINSSVIREATPETLGMIKKIKHLVITE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|39938704|ref|NP_950470.1| ribosomal protein L30/L7E [Onion ye... [ score 67 E 1e-10 ] [ range 2 .. 58 ]
+sequence
+--KLKITLTKSLIACRVNQIKTAHCLGLKKINNQVIKDDTPAIHGMIKTISHLVVVEKV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|28493504|ref|NP_787665.1| 50S ribosomal protein L30 [Trophery... [ score 67 E 1e-10 ] [ range 8 .. 64 ]
+sequence
+--RLRITQIRSSVGEKQNKRGSLRSLRLRHVGDTVDCDDTPQVRGYISACSHLVRVEEI-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43790525|gb|EAF49790.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 6 .. 58 ]
+sequence
+---ITIKLKKSLIGSKDYQKQSVRGLGLSKLGQVVSVQDTPENRGMINKAIHLLEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43234405|gb|EAC82796.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 2 .. 51 ]
+sequence
+--------VKSINRRTKQHKSCIGGLGLRRIGHSVLIDDTPEVRGMINKASYLLSVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44063106|gb|EAG92469.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 1 .. 59 ]
+sequence
+MAKVKITLKRSLIGQGHKSRETIKSLGLKKINSTVEKELDNSLEGMLNVVNHLVTIEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|45531577|ref|ZP_00182617.1| hypothetical protein Exigu205801 ... [ score 66 E 2e-10 ] [ range 2 .. 49 ]
+sequence
+------------IGRPENQRVTTRTLGLRKMHQTVVVPDNAAMRGMINHVSHLLTVKEIQ----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44386663|gb|EAI90945.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 3 .. 61 ]
+sequence
+-KKVKIKQIKSTIKRLESQKRTLEALGLRKIGMEVEHKLNPSINGMINKVKHLVSVNEIK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44570265|gb|EAK17913.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 9 .. 63 ]
+sequence
+---ISIKQTKSLIGCTKKQISCIKGLGLRKINHVVDLKDTPENRGMMRTVIHMIEVND------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44376869|gb|EAI83790.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 2 .. 53 ]
+sequence
+--------VKSRFGRIKKHAASLSGLGLKKINQEIVIDSTPENMGMVNQVKYLLEVEDVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43523478|gb|EAE16429.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 6 .. 58 ]
+sequence
+---LTIKLKKSLIGSKEYQKKSVRGLGLSKLGQEVSVKDTPENRGMINKAIHLLEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|23003708|ref|ZP_00047360.1| COG1841: Ribosomal protein L30/L7... [ score 66 E 2e-10 ] [ range 3 .. 58 ]
+sequence
+---LKVTLIKSVAHRLPKQRKIVKALGLGKVNSTVVLPDNAATRGALLKIAHLISVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44398800|gb|EAI99548.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 2 .. 58 ]
+sequence
+--KVKITLKRSLIGEKPKARETARSLGLKKINSFTEREVNPMIQGMLNKIEHLVEIEEI-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44383993|gb|EAI88831.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 1 .. 60 ]
+sequence
+MPKVKITLRRSLIGQGFKAKETIKSLGLKKINSSVEREVDESLTGMLNKVAHLVETEEIK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43925977|gb|EAG17872.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 1 .. 60 ]
+sequence
+MTKIKIKQIKSSIKRLKNQKRTLIALGLRGIGKEVTHENSDTIKGMISKVEHLVSVNESK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|417665|sp|P33104|RL30_MICLU 50S RIBOSOMAL PROTEIN L30 >gi|322... [ score 66 E 3e-10 ] [ range 14 .. 71 ]
+sequence
+-ATLVITQTRGVTGSKQNHRDTLRSLGLKRIGHQVTRKADAVTVGMVNTVPHLVSVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|21674980|ref|NP_663045.1| ribosomal protein L30 [Chlorobium t... [ score 65 E 4e-10 ] [ range 6 .. 60 ]
+sequence
+---IKVTQVRSVIGGTKKQKDTIKALGLGRPNHKVEIKDNACTRGQIRVVQHLVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15837772|ref|NP_298460.1| 50S ribosomal protein L30 [Xylella ... [ score 65 E 4e-10 ] [ range 3 .. 53 ]
+sequence
+-------LVRSLIGVPSRHRLSVRALGLRKVSDMRKVNDTPQVRGLIKKVHYLVRIQD------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|21241755|ref|NP_641337.1| 50S ribosomal protein L30 [Xanthomo... [ score 65 E 5e-10 ] [ range 3 .. 53 ]
+sequence
+-------LVRGLRGTQSRHRLSVRALGLNKLNDVRELKDSPQVRGLINTVHYLVKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42526297|ref|NP_971395.1| ribosomal protein L30 [Treponema de... [ score 65 E 6e-10 ] [ range 1 .. 59 ]
+sequence
+MAKISVKLVKSTIGQKQPVCSTIRSLGLKKLNSTVEHDANPAVLGMVKRVAHLVEVKE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44403945|gb|EAJ03090.1| unknown [environmental sequence] [ score 65 E 6e-10 ] [ range 1 .. 60 ]
+sequence
+MQKVKITLRRSLIGQGFKAKETIKSLGLKKINSSVVREMDDSLAGMLDKVKHLVETEDVK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44109866|gb|EAH17885.1| unknown [environmental sequence] [ score 65 E 7e-10 ] [ range 4 .. 58 ]
+sequence
+-KNITVKLKKSLIGAKDYQKQSVRGLGLSKLGQVVSVQDSPENRGMINKAIHLLEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43624059|gb|EAE66691.1| unknown [environmental sequence] [ score 64 E 8e-10 ] [ range 6 .. 58 ]
+sequence
+---IRVKLKRGLAGSMKNQRLSVKGLGLKKINQVVEVQNTPENLGMIKKAHHLLEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43524791|gb|EAE17087.1| unknown [environmental sequence] [ score 64 E 9e-10 ] [ range 1 .. 59 ]
+sequence
+MSKITISLIKSPIGSSSKQRKILESLGIKKINKTISHKNTPEIQGMIKKVKHLINIE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|21230382|ref|NP_636299.1| 50S ribosomal protein L30 [Xanthomo... [ score 64 E 1e-09 ] [ range 3 .. 53 ]
+sequence
+-------LVRGLRGTQSRHRLSVHALGLNKINDVRELKDSPQVRGLINTVHYLVKVED------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|18423714|ref|NP_568821.1| ribosomal protein L30 family protei... [ score 63 E 1e-09 ] [ range 21 .. 72 ]
+sequence
+-----ITLVRGLPGTRKLHRRTLEAMGLRRCHRTVLHSNNSSIRGMIDQVKRMVVVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44449012|gb|EAJ34452.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 3 .. 61 ]
+sequence
+-KKVRIKQVRSTIKRLESQKRTLKALGLRKIGMEVEHELTSSISGMIDKVRHLVEINSIK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43079823|gb|EAC06132.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 1 .. 61 ]
+sequence
+MAKIKITQIKSSIGYKKKAKKTLAALGLKKLNHTVLKNDTVQIRGMINKIYYLLKVEE------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|24213457|ref|NP_710938.1| ribosomal protein L30 [Leptospira i... [ score 62 E 3e-09 ] [ range 1 .. 57 ]
+sequence
+MENIIVTQVKSSIGVKKEHKLTLHALGLRRTGQQRKHKISPQLQGMLNSVRHLIKVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44259557|gb|EAI02602.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 1 .. 40 ]
+sequence
+--------------------ACIAGLGLKKIRQTVLVEDTPENRGMINKISYLVSVEEMK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44635593|gb|EAK64173.1| unknown [environmental sequence] [ score 61 E 5e-09 ] [ range 3 .. 41 ]
+sequence
+-----------------DQKQTLIGLGLNKIGRIRELEDTPSVRGMVRKVSHLVEI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44609365|gb|EAK45359.1| unknown [environmental sequence] [ score 61 E 5e-09 ] [ range 1 .. 50 ]
+sequence
+------QLIKSKIGRMKNHKKCIDGLGFKKLNQVIDVLDTPSNRGLIRKVNDMIKV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44611290|gb|EAK46768.1| unknown [environmental sequence] >gi|... [ score 61 E 8e-09 ] [ range 1 .. 59 ]
+sequence
+MAKVKITLKRSLIGQGHKSRETIKSLGLKKINSSVERELDNSLEGMLNVVKHLVIIEKV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42879540|gb|EAB06974.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 4 .. 61 ]
+sequence
+-KKIKIILKKSSIGSKKNQIASLRGLGLRKTNSSVVRDSSPEVLGMIKVVNHLVSVEEI-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44628505|gb|EAK59255.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 2 .. 59 ]
+sequence
+--KIKIIQKKSKIGISPSQRATLSALGLRKIGSVVEKEASPQIEGMIKKVDHLVSTEEIK----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|9758111|dbj|BAB08583.1| unnamed protein product [Arabidopsis ... [ score 60 E 2e-08 ] [ range 21 .. 68 ]
+sequence
+-----ITLVRGLPGTRKLHRRTLEAMGLRRCHRTVLHSNNSSIRGMIDQVLFL-----------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|32413184|ref|XP_327072.1| hypothetical protein [Neurospora cr... [ score 59 E 2e-08 ] [ range 1 .. 59 ]
+sequence
+MSFFRITLHRSAIGLPKRTHGVLAALGLRRRNQTVFHPVEPQFAGMLMKVKELVRVEEV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43339452|gb|EAD35149.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 1 .. 39 ]
+sequence
+-----------------KQRKTLIGLGLNKMHKTRELKDTPSVRGMVNKIPHLVKI--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43480422|gb|EAD94947.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 1 .. 41 ]
+sequence
+------------------HRLSVKALGLRGIGHTVQVQDHPAVRGLIRKVSYLVAVEDI-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43803391|gb|EAF56276.1| unknown [environmental sequence] [ score 58 E 6e-08 ] [ range 1 .. 51 ]
+sequence
+--------VRSTIKRLESQKRTLRALGLRKIGMEVEHELSSSISGMIDKVKHLVEINSV-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|38109149|gb|EAA55061.1| hypothetical protein MG06718.4 [Magna... [ score 58 E 7e-08 ] [ range 1 .. 60 ]
+sequence
+MSYFAIRLHRSAIGLPERTRGVLAALGLRRRGMTVFHPVSGQVAGMIMKVKELVRVEEVE----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42408383|dbj|BAD09534.1| ribosomal protein L30p family-like [... [ score 57 E 8e-08 ] [ range 20 .. 74 ]
+sequence
+--KLYITLVRGLPGTRRLHRRTLEAMRLRRCHRTVEHRTTPSLLGMLTQVKRLVVVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|43896646|gb|EAG02449.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 1 .. 38 ]
+sequence
+------------------QKKTLIGLGLNKIGRSKILNDTPSITGMINKVKHLVEV--------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42524359|ref|NP_969739.1| hypothetical protein predicted by G... [ score 56 E 2e-07 ] [ range 1 .. 61 ]
+sequence
+MAKMAVTLKRSTIKCTQDQKDAVRVLGLKKIRQTVEVKDSAAARGNIMKVQHLIDVE-------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|218513|dbj|BAA14249.1| large subunit of mitochondrial ribosom... [ score 53 E 1e-06 ] [ range 5 .. 60 ]
+sequence
+----KVTLSRSLIGVPHTTKSIVKSLGLGKRGSIVYKKVNPAIAGSLAKVKELVKVEVTE----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|44529304|gb|EAJ89232.1| unknown [environmental sequence] [ score 48 E 5e-05 ] [ range 5 .. 42 ]
+sequence
+-KTIQVKLIKSGIGRIKKHKLCIQGLGFKKLNHVVTVED-------------------------------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|15678055|ref|NP_275169.1| ribosomal protein L7 (E.coli L30) [... [ score 249 E 2e-65 ] [ range 1 .. 151 ]
+sequence
+--MFAVVRVRGSAGVRRDIADTMEMLRLNRINHAVLVEDTPSYLGMLQKAKDYITWGEVDQETLTAMIRK
+RGRLIGGD-RITDEYINEKTAYGSVDEFAAAVFSGEVKLEEAGIKPVFRLHPPRKGYEGIKKAFNEGGSL
+G-YRGEKINDLLKRM-*
+>P1;gi|23051997|ref|ZP_00078687.1| COG1841: Ribosomal protein L30/L7... [ score 242 E 2e-63 ] [ range 1 .. 153 ]
+sequence
+--MYAIVRLRGQVNVRYTIEDTMKMLRLHKVNHCVLVPENPHFKGMVQKVKDYVAFGKIDANTLAEILEN
+RGR-LEGDTRLTEEYIRENTAYDSIQAFAEAVVNGETTLKSVPLKPVFRLHPPRKGHAGIKRTVQQGGEL
+GDH-GDGINALLHKMR*
+>P1;gi|20089963|ref|NP_616038.1| ribosomal protein L30p [Methanosarc... [ score 240 E 7e-63 ] [ range 1 .. 153 ]
+sequence
+--MYAVVRLRGQVNVRYTIEDTMKMLRLHKVNHCVFVPENPHYKGMVQKVKDYVAYGKIDAKTLAEVLEN
+RGR-LEGDTRLTEEYIRENTDYDSIQAFAEAVIEGKSSLKDPKLKPVFRLHPPRKGHAGIKRTVQQGGVL
+GNH-DENINVLLHKMR*
+>P1;gi|21228247|ref|NP_634169.1| LSU ribosomal protein L30P [Methano... [ score 239 E 2e-62 ] [ range 1 .. 153 ]
+sequence
+--MYAVVRLRGQVNVRYTIEDTMKMLRLHKVNHCVFLPENPHYKGMVQKVKDYVAYGKIDAKTLAEVLEN
+RGR-LEGDARLTEEYIRENTDYDSIKAFAEAVVEGKASLKDVPLKPVFRLHPPRKGHAGIKRTVQQGGVL
+GNH-EENINVLLHKMR*
+>P1;gi|15790653|ref|NP_280477.1| 50S ribosomal protein L30P; Rpl30p ... [ score 234 E 5e-61 ] [ range 1 .. 154 ]
+sequence
+--MQALVQVRGPVDMSRDIQDTLEMLNIHSVNHCALVPETDTYSGMVAKVNDYVAFGEPSEAVLTDLIES
+RGEPASGAGDVDDAWVAEHTEYDDVADLAGALLAEETTLSDAGLAPVIRLHPPRGGHDGIKTPASDGGQL
+GKHTTEEIDHLLTDMR*
+>P1;gi|14520536|ref|NP_126011.1| LSU ribosomal protein L30P [Pyrococ... [ score 232 E 2e-60 ] [ range 5 .. 154 ]
+sequence
+----AVIRIRGRVNVKRPVRDTLAMLRLHRVNHCVIVDDTPSYLGMLQKAKDYITWGEINAETLAKLIRK
+RGRLI-GNKPVTDEYVKEKLGM-TIEEFAQKVINGEMSLKDPNLKPVFRLHPPRGGFRGKKRSFKEGGAL
+G-YRGEKINDLIERM-*
+>P1;gi|14591513|ref|NP_143594.1| 50S ribosomal protein L30 [Pyrococc... [ score 231 E 3e-60 ] [ range 5 .. 154 ]
+sequence
+----AVIRIRGRVNVKRPVRDTLAMLRLHRVNHCVIVDDTPSYLGMLQKAKDYITWGEINAETLAKLIRK
+RGKLI-GNKPVTDEYVKEKLGM-TIEEFAQKVINGEMSLKDPNLKPVFRLHPPRGGFKGKKRSFQEGGAL
+G-YRGEKINELIERM-*
+>P1;gi|41718244|ref|ZP_00147301.1| hypothetical protein Mbur234501 [... [ score 228 E 4e-59 ] [ range 1 .. 153 ]
+sequence
+--MFAVVRVRGPVNVSGKIEDTLGMLRLHKVNHCVFLQDTPNNKGMIQKSKDYIAYGTVDVESLTEVLSK
+RGR-LEGDARLTDEYVKENSEFASIASFAEALVNDDAKITDVPLKPVFRLHPPRKGHAGIKRTAQQGGVL
+GNH-GDDIKALLNKMR*
+>P1;gi|20093468|ref|NP_613315.1| Ribosomal protein L30/L7E [Methanop... [ score 217 E 7e-56 ] [ range 1 .. 148 ]
+sequence
+--------MRGPVGVRRDIEDTMRMLKLLRRNWCVLIDDRPSYLGMLQKIKDYVTWGEVEPDTVAALLKK
+RGE-LEGGRPVTDEYVSEHTEYDSVEEFARAYCEFEAELDDPKLKPFFRLHPPRGGYEGIKKPYTLGGAL
+G-YRGKAINDLLERM-*
+>P1;gi|13541177|ref|NP_110865.1| 50S ribosomal protein L7E [Thermopl... [ score 215 E 2e-55 ] [ range 1 .. 152 ]
+sequence
+--MLAVIRIRGRTGIKQDIEDTAHLLRLNRINHLVLLQEDAVTKGMLQKVKDYVTWGEIDVDTLEVLLKN
+RC-LFKGRRKLTEEELKDVTGFGSYRDLAKALVDGKIKFSEINVVPVIRLNPPYKGYEAIKTSYRNGGSA
+G-YRGKDINNLIRRM-*
+>P1;gi|44462171|gb|EAJ43847.1| unknown [environmental sequence] [ score 215 E 2e-55 ] [ range 3 .. 155 ]
+sequence
+---YLVIRVRSDRGVTKKIRDTMSMLNLTRVNHAVLVPKTPAYEGMLQKAKDYVTWGEVDADTIATLINE
+RGR-MAGDKQVTDAEVKSCSDHSTIKALSKAIASGEATTKDEGMKPVFRLHPPRGGWGGVKRAYSVGGAL
+GF-RGENIVELAARM-*
+>P1;gi|15668653|ref|NP_247452.1| LSU ribosomal protein L30P (rpmD) [... [ score 215 E 3e-55 ] [ range 3 .. 153 ]
+sequence
+---YAVIRIRGRVGVRRDIADTLKMLRLHKVNHCVIIPETETFKGMLQKVKDYVTWGEIDKDTLVKLILK
+RGR-LPGNKKVNPEIIKELTGMD-VEELAEKIINGEIKLKETPLKPVFRLHPPRKGFEGIKKPFSVGGAL
+G-YRGEKINELLEKM-*
+>P1;gi|11499488|ref|NP_070729.1| LSU ribosomal protein L30P (rpl30P)... [ score 211 E 4e-54 ] [ range 1 .. 152 ]
+sequence
+--MFAVVRMRGTVDVHRKIKETLKMLRLHKRYHCVVIPDTPSYRGMLQVVKDYVAYGEINAET-LALLLR
+LRGRLTGNRKLTDEYVKEKTGYETIEEFAKAVVEGKASLKDPDLKPVFRLHPPRKGIKNIKWHYPR-GNL
+GYH-GEEINRLLYKMR*
+>P1;gi|43572390|gb|EAE40996.1| unknown [environmental sequence] [ score 209 E 1e-53 ] [ range 5 .. 155 ]
+sequence
+-----VVRVRSDVGVERSIKETLHMLNLTKVNHAVIIPDNPQYKGMLQKAKDYITWGDASSSTVESMLSN
+RGR-MSGDKPLTDDIVAESSDYKNIKDLAKAITDGDATVKDPGLKRVFRLHPPRGGWGGIKRTFTIGGAL
+GPRGTE-IEALIERM-*
+>P1;gi|22406353|ref|ZP_00001203.1| COG1841: Ribosomal protein L30/L7... [ score 206 E 1e-52 ] [ range 1 .. 151 ]
+sequence
+--MIAIIRIRGSTGIKPFAGKTAELLNLNRINHMVLFQESESLNGMLNRVKDYVTWGEVDTETLELLLKE
+RV-LLNGRKKLTEDYLKS-SGYSSIEELAKALSENKVKIKDPDVKPVIRLNPPKGGYEAIQKPFHQNGSA
+G-YRGSKINNLIRRM-*
+>P1;gi|45358983|ref|NP_988540.1| LSU ribosomal protein L30P [Methano... [ score 204 E 6e-52 ] [ range 3 .. 153 ]
+sequence
+---YAVVRVRGSVGVRGDIADTMKMLRLHRVNHCVIIPDTEHYTGMIKKVKDYVTYGEIDKDTLVALILK
+RGR-LPGNKRLSEELVKELTEL-PVEELAEKVIAGEIKIKDTPIKPVFRLHPPRKGYDGVKKGFSIGGAL
+G-YRSGKINDLLNKM-*
+>P1;gi|18312459|ref|NP_559126.1| ribosomal protein L30 [Pyrobaculum ... [ score 203 E 9e-52 ] [ range 13 .. 177 ]
+sequence
+---YAVIRLRGIPTTPRDIAVTLDLLRLRRKFTMVVVKGSPSVMGMIQKVNDWVTWGEIDADTLAEVLRK
+RGR-IVGDKPLTLEYL-QKWGWHSFEEIALAYVAGEIRIKEPYLKPFFRLHPPRGGLNSVKLHFSVGGDL
+G-YRGPLINDLIRRM-*
+>P1;gi|15897603|ref|NP_342208.1| LSU ribosomal protein L30AB (rpl30A... [ score 201 E 3e-51 ] [ range 4 .. 157 ]
+sequence
+--LLGIIRIRGWAKAPWYINETLNMLRLRYNFNTMVYPKTSQILGMLNKVSPYITWGEIDPDTLKLLIIN
+RLETVKGDK-VSDSYVKEVLKIENIDAMVKQLYEGKIYLHDEYFKLPIRLHPPRGGFKGVKRPYKNKGEF
+G-YRGDKINELMRRM-*
+>P1;gi|15920621|ref|NP_376290.1| 158aa long hypothetical 50S ribosom... [ score 196 E 1e-49 ] [ range 4 .. 157 ]
+sequence
+--LLGIIRIRGYAGTPWYIQDTLKMLRLPRRFNAMVYEDSSSIRGMLKIAEPYITWGELNEEGLK-LLLT
+RLHTKIGNLKITDDILKSQLKIESYNLFVKKIMDGEIKLHDDYFKLPIRLHPPSGGFKGINRPFSVKGEF
+G-YRGEKINELIKRM-*
+>P1;gi|41615101|ref|NP_963599.1| NEQ311 [Nanoarchaeum equitans Kin4-... [ score 195 E 2e-49 ] [ range 3 .. 153 ]
+sequence
+--LYAIFRVRGRVDVRKDIEDTLKLLRVHRKNYLSIMPKTESIEGMIQKAKDYITWGEIDEKTLAELLKK
+RGR-ISRRKKLTLEYIKEK-GFNSFEELAKALIEGKVTLKELGIKPFFRLRPPSYGKKGIKKHFNEGGAL
+G-YRGEKINDLILR--*
+>P1;gi|132875|sp|P14035|RL30_METVA 50S RIBOSOMAL PROTEIN L30P >gi|71... [ score 187 E 9e-47 ] [ range 3 .. 153 ]
+sequence
+---YAVVRVRGSVGVRGDIADTMKMLRLHRVNHCVVIPENDHYTGMIKKVKDYVTYGEIDKETLVSLILK
+RGR-LAGNKR-LSEELLKELVELPVDALAEKVLAGEIKLKDTPIKPVFRLHPPRRGYDGIKKGFSIGGAL
+G-YRAGKINDLLNKM-*
+>P1;gi|3914728|sp|O05642|RL30_SULAC 50S ribosomal protein L30P >gi|2... [ score 186 E 1e-46 ] [ range 4 .. 155 ]
+sequence
+--LIGVIRIRGWAATPWYIQDTLSMLRLKNAFNAMIYPKDSSIQGMLNLVSSYVTWGELNDEGLR-LLVS
+KLEISRG-KKVNEEYVKDKLNVD-FQSFVESIKDGKLRLNDEIFSLPIRLHPPKGGFKGVSRPFRAGGEF
+G-YRGDKINELIRRM-*
+>P1;gi|16082601|ref|NP_394706.1| 50S ribosomal protein L7E [Thermopl... [ score 177 E 5e-44 ] [ range 1 .. 152 ]
+sequence
+--MLAVIRIRGRTGIKEDIADTAHLMRLNRINHLVLLNENEVVKGMLQKVKDYVTWGEIDLDT-LELLLK
+NRLLFRGRKHLTEEELKEKTGFTSYRDLAQALIDGKIKPSEIADAPVIRLNPPKGGYEAIRKSYRSGGSS
+GYRGSD-INQLIRRM-*
+>P1;gi|19173053|ref|NP_597604.1| 60S RIBOSOMAL PROTEIN L7 [Encephali... [ score 176 E 1e-43 ] [ range 82 .. 238 ]
+sequence
+---FAVILIRSKCNCPPKVRKVLELFRLKRINTCVLVRNNKSTRKMLQIIKDHVAFGTIGMELLRKLVYT
+KGSGRNGHVKLTNEFIEDMFDIRCIEELVHHIYNGTEMFKKVNLYP-FHLSPPRGGFKGQKKSFNDGGSV
+GNHQ-DLLSNLLERM-*
+>P1;gi|14600649|ref|NP_147166.1| 50S ribosomal protein L30 [Aeropyru... [ score 173 E 9e-43 ] [ range 6 .. 161 ]
+sequence
+--LYAVIRIRGTVDVPPDIDKTLYLLRLRRRYTASIYHDSPGLRDMLRTVEAWTTYGEIEERVLEELLRK
+RGR-IVGDKPLTDKWVEENLGLSGLGELAEKLVSGELRLEEKGVKPFFRLHPPRGGFKSIKRMFRDGGEL
+G-YRGSAINELILKM-*
+>P1;gi|43592678|gb|EAE51193.1| unknown [environmental sequence] >gi|... [ score 160 E 6e-39 ] [ range 5 .. 154 ]
+sequence
+---YLVVRISGTADVPYWATTTMNLLKLEKKHRAVIIPEIDNTIGMLRKVQHYVAWQELDVETAKELLDK
+KARK-SGYKKITPEDITA-LGYKSVDELASALAEGKTSLTKKPLKPWFALNPPRHGFKSCKKLYGQKGVL
+G-HNKELL-VIVKRM-*
+>P1;gi|43320952|gb|EAD26183.1| unknown [environmental sequence] [ score 143 E 1e-33 ] [ range 1 .. 109 ]
+sequence
+-----------------------------------------------QKSKDFVTWGVVDAGTIETLLKE
+RGR-MVGDKPVDDAAIKAGSEFKSVKDFAKALASGEATMKSDGLKPVLRLHPPRGGWGGIKRAYSVGGAL
+GF-RGDEISSLAERM-*
+>P1;gi|42918741|gb|EAB26460.1| unknown [environmental sequence] [ score 142 E 2e-33 ] [ range 5 .. 128 ]
+sequence
+---FLVLRISGQADVPYWAETTMTLLKLEKKYRATIIPEKENTIGMLRKVQHYISWQEIDTETVKELLDK
+KARK-SGYKKVTNEDITS-IGFTSIDELATSLAEGKTSLSKKPLKPWFAMDPPRHGFK------------
+----------------*
+>P1;gi|43414519|gb|EAD66752.1| unknown [environmental sequence] [ score 123 E 8e-28 ] [ range 1 .. 87 ]
+sequence
+---------------------------------------------------------------------R
+RAEPLKGAATIDDAWISNNTEYDSLAHLTQALISEETTLRSQGLSPVLRLHPPRGGHRGIKHPTKEGGQL
+GKHTTEEIDQLLNSMR*
+>P1;gi|44344126|gb|EAI60536.1| unknown [environmental sequence] [ score 122 E 2e-27 ] [ range 1 .. 131 ]
+sequence
+----------------------MNLLKLEKKHRAVIIPEKDNTIGMLRKIQHYVSWQELDVETAKELLDK
+KARK-SGYKKITTEDITE-LGFKTIDELATSLAEGKTSLSKKPLKPWFALNPPVHGFKSTKRLYGQKGVL
+G-HNKELL-VIVKRM-*
+>P1;gi|43703549|gb|EAF06983.1| unknown [environmental sequence] [ score 114 E 5e-25 ] [ range 1 .. 107 ]
+sequence
+----------------------------------VIIPEKDNTIGMLRKIQHYVAWQELDVETAKELLDK
+KARK-SGYKKITTEDITA-LGFKTIDELASALAEGKTSLSKKPLKPWFALNPPVHGFKSTKRLYGQKGVL
+G---------------*
+>P1;gi|31237767|ref|XP_319664.1| ENSANGP00000013959 [Anopheles gambi... [ score 111 E 4e-24 ] [ range 135 .. 290 ]
+sequence
+-----VIRIRGINKVAPKVRKVLQLFRLRQINNGTFIKLNKATKNMLRIAEPYITYGYPTLKSVRHLIYK
+RGKHRHSRIPITDNFVIERKRLQCVEDMVHHIYTGGACFKKVNFLWPFKLNTPTGGWRKKNNHYVEGGDF
+GN-REDKINELIQRM-*
+>P1;gi|19112528|ref|NP_595736.1| 60s ribosomal protein l7-c. [Schizo... [ score 110 E 1e-23 ] [ range 94 .. 250 ]
+sequence
+-----VIRIRGINNIPPKARKIMQLLRLIQINNGVFVKFNKATKEMLQVVEPYVTYGIPNLKTVRELLYK
+RGFGKVNKQRIDNAIIEAALGILSIEDLIHEIYTVGPNFKQANFIWPFQLSSPLGGWRDRKKHFIEGGDA
+GK-RDEHINSLVRKM-*
+>P1;gi|15293877|gb|AAK95131.1| ribosomal protein L7 [Ictalurus punct... [ score 109 E 2e-23 ] [ range 106 .. 261 ]
+sequence
+-----VIRIRGINGVSPKVRKVLQLLRLRQIFNGVFVKLNKASINMLRIAEPYIAWGYPNLKSVRELVYK
+RGKIKKQRIPLTDNSLIEKSGIICVEDLIHEIYTVGRNFKANNFLWPFKLSSPRGGMNKKTTHFVEGGDA
+GN-REDQINRLIRRM-*
+>P1;gi|18253049|gb|AAL62469.1| ribosomal protein L7 [Spodoptera frug... [ score 109 E 2e-23 ] [ range 106 .. 261 ]
+sequence
+-----VIRIRGINQVSPKVRKVLQLFRLRQINNGVFVRLNKATVNMLRIAEPYIAWGYPNLKSVRELVYK
+RGFAKVNGQRVSNTIVEQKLGIICVEDLIHEIFSVGEKFKASNFLWPFKLNNPTGGWRKKTIHYVDGGDF
+GN-REDKINELLRRM-*
+>P1;gi|103356|pir||S21500 ribosomal protein L7.e, cytosolic - fruit ... [ score 106 E 2e-22 ] [ range 82 .. 238 ]
+sequence
+-----VVRIRGINKVAPKVRKVLQLFRLRQINNGVFIKLNKATINMLRIAEPYITWGYPNLKSVRELIYK
+RGFVKRQRVPITDNFVIERKQIQCVEDLVHEIFTVGPNFKASNFLWPFKLNTPTGGWRKKANHYVNGGDF
+GN-REDQINRLLRKM-*
+>P1;gi|19115097|ref|NP_594185.1| 60s ribosomal protein L7 subunit [S... [ score 106 E 2e-22 ] [ range 93 .. 249 ]
+sequence
+-----VVRIRGINNIPPKARKIMQLLRLLQINNGIFVKFNKAIKEMLQVVEPYVTYGIPNHKTVRELIYK
+RGFGKVNKQRIDNAIIEAALGILSVEDLIHEIYTVGPNFKQANFLWPFKLSSPLGGWRERKKHFIEGGDA
+GK-RDEHINGLVQKM-*
+>P1;gi|28630259|gb|AAN73358.1| ribosomal protein L7 [Branchiostoma l... [ score 106 E 2e-22 ] [ range 84 .. 239 ]
+sequence
+-----VVRIRGINGVSPKVRKVLQLLRLRQIFNGTFVKLNKASLNMLKIAEPYIAWGYPNLKTVRELIYK
+RGYGKIQKRRIDNALIEEHLGIICIEDLIHEIFSVGPNFKANNFLWPFKLSSPRGGMRKKGHHFVEGGDF
+WNQRGQ-INWLIRQM-*
+>P1;gi|29841077|gb|AAP06090.1| similar to NM_058275 probable 60S rib... [ score 106 E 2e-22 ] [ range 98 .. 252 ]
+sequence
+-----VVRIRGINGVHPKPRKTMQLFRLRQINNGMFVRLNKATLNMLRIIDPYIAWGYPSLKLVRQLIYK
+RGKYHGSRLPLTNDLIRRKLGHLCVEDLVHEIYTVGPNFKQVGFLWTFKLNNPSGGFRKKGKHFVEGGDF
+GN-RETYINQLLRAM-*
+>P1;gi|38086117|ref|XP_110741.2| similar to 60S RIBOSOMAL PROTEIN L7... [ score 105 E 3e-22 ] [ range 257 .. 412 ]
+sequence
+-----VIRIRGINGVSPKVPKVLQLLRLRQIFNGTFVKLNKASINMLQIVEPYIAWGYPNLKSVNELIYK
+RGYGKINKKRLTDNSLIAKFGIICMEDLIHEIYTGKCFKEANNFLWPFKLSSPRGGMKKKTTRFVEGGDA
+GN-KEDQINSLIRRM-*
+>P1;gi|200770|gb|AAA40064.1| ribosomal protein [ score 105 E 3e-22 ] [ range 114 .. 269 ]
+sequence
+-----VIRIRGINGVSPKVRKVLQLLRLRQIFNGTFVKLNKASINMLRIVEPYIAWGYPNLKSVNELIYK
+RGYGKINKKRLTDNSLIAKFGIICMEDLIHEIYTVGKRFKENNFLWPFKLSSPRGGMKKKTTHFVEGGDA
+GN-REDQINRLIRRM-*
+>P1;gi|17507559|ref|NP_490676.1| ribosomal Protein, Large subunit (2... [ score 105 E 4e-22 ] [ range 88 .. 243 ]
+sequence
+-----VVRIRGINQLHPKPRKALQILRLRQINNGVFVKLNKATLPLLRIIEPYVAWGYPNNKTIHDLLYK
+RGAKVDGNRPITDNTIVEKFNIICLEDLAHEIATVGPHFKETNFLWPFKLNNPTGGWTKKTNHFVEGGDF
+GN-REDQINNLLRKM-*
+>P1;gi|32169292|emb|CAD89885.1| ribosomal protein L7 [Crassostrea gi... [ score 104 E 6e-22 ] [ range 83 .. 238 ]
+sequence
+-----VMRIRGINGVHPKPRKVMQLFRLRQINNGVFVRLNKATIHMLRIAEPFIAWGYPNLKSVRELVYK
+RGYGKVGNQPLTDNALIEKFGIICMEDLIHEIYTVGPNFKAANFLWPFKLNTPNGGWRRKYNHFNDGGDF
+GL-REDSINPLLRRM-*
+>P1;gi|29249043|gb|EAA40563.1| GLP_609_14821_14114 [Giardia lamblia ... [ score 103 E 1e-21 ] [ range 79 .. 234 ]
+sequence
+---YLVVRIRGIVGVAPKVRTILSLLRLRQINNAVFMRCNKATLNALRIVDHYVTYGEPTVETIRNLIYK
+RGRIPIVDNNLIDEQLSKH-NILCAEDLVHEIFTCGSSFKENNFLWPFQLN--SAALKDKRNNFAEGGDF
+G-YRGKYINEFVARM-*
+>P1;gi|4176369|gb|AAD08846.1| similar to 60S ribosomal protein L7; s... [ score 102 E 3e-21 ] [ range 91 .. 246 ]
+sequence
+-----VIRIRGISGVSPKVRKVLQLLRLRQIYNGTFVKLNKASTNMLRIVEPYIAWGYPNLKSVNELIYK
+SGYGKINKKRIDNALIARSLGIICMEDLIHEIYTVGKRFKENNFLWPFKLSSPRGGMKKKTTHFVEGGDA
+GN-REDQINRLIRRM-*
+>P1;gi|38637548|dbj|BAD03800.1| putative 60S ribosomal protein L7 [O... [ score 101 E 4e-21 ] [ range 89 .. 244 ]
+sequence
+-----VVRIRGINAMHPKTRKILQLLRLRQIFNGVFLKVNKATINMLRRVEPYVAYGYPNLKSVRELIYK
+RGYGKLNKQRINNKVIEEGLGIICIEDLVHEIMTVGPHFKENNFLWPFKLKAPLGGLKKKRNHYVEGGDA
+GN-REDYINELIRRM-*
+>P1;gi|22758864|gb|AAN05591.1| ribosomal protein L7 [Argopecten irra... [ score 101 E 6e-21 ] [ range 92 .. 247 ]
+sequence
+-----VMRIRGINGVHPRPRKVMQLFRLRQINNGVFIRLNKATINMLRIAEPFITWGYPNLKSVKELVYK
+RGYAKVDGRRVDNSIIEEKLGIICMEDLIH-----EIYTVGPNFKPAFKMNTPNGGWKRKYNHYNDGGDF
+GCRDTQ-INPLLRRM-*
+>P1;gi|42660025|ref|XP_029805.3| similar to ribosomal protein L7 [Ho... [ score 100 E 8e-21 ] [ range 121 .. 276 ]
+sequence
+-----VVRIRGVNGVSPKVRKVLQLLRLRQIFNGTFVKLDKASINMLRIVEPYIAWGYPNLKSVNELIYK
+RGYGKMNKKRLTDNTLIAKYGIICMEDLIHEIYTGKGFKEANNFLWAFKLSSPRGGMKKKTTHFVEGGDA
+GN-REDQVNRLIRRM-*
+>P1;gi|445613|prf||1909359B ribosomal protein L7 [ score 100 E 1e-20 ] [ range 86 .. 241 ]
+sequence
+-----IIRIRGINAMPPQTKKILQLLRLRQIFNGVFLKVNKATVNMLHRVEPYVTYGYPNLKSIKELIYK
+RGYGKVDKQRLTDEQVLGKHGIICIEDLVHEIITVGPHFKENNFLWPFQLKAPLGGLKKKRNHYVEGGDA
+GN-RENFINELIRRM-*
+>P1;gi|38346542|emb|CAE02124.2| OSJNBa0035M09.3 [Oryza sativa (japon... [ score 100 E 2e-20 ] [ range 88 .. 249 ]
+sequence
+-----VVRIRGINAMHPKTRKILQLLRLRQIFNGVFLKVNKATINMLRRVEPYVAYGYPNLKSVRELIYK
+RGKLNKQRIPLTNNKVIEESDIICIEDLVHEIMTVGPHFKENNFLWPFKLKAPLGGLKKKRNHYVEGGDA
+GN-RENYINELIRRM-*
+>P1;gi|28630262|gb|AAN73359.1| ribosomal protein L7 [Petromyzon mari... [ score 99 E 3e-20 ] [ range 72 .. 216 ]
+sequence
+-----VIRIRGINGVSPKVRKVLQLLRLRQIFNGVFVRINKASINMLRIAEPFIAWGYPNLKTVRELVYK
+RGKIRKQRIPLTDNSLIEKTGIICIEDLIHEIFTGKSFKLANNFLWPFKLSSPRGGMRKKTTHYVEGGDA
+GNR-------------*
+>P1;gi|23957737|ref|NP_473193.2| 60S ribosomal protein L7, putative ... [ score 97 E 1e-19 ] [ range 95 .. 256 ]
+sequence
+-----VIRLKGVNKLPPKVRSVFRLLRLLQVHNGVFVKVNKATKEMLKIVEPYVTYGYPTLSTVRKLLYK
+RGYVRVGRKKIDNADISKHLGVHGIEDMVYQLYTCGPVFKKVNNFLWFKLKPPRKGFKAKRHAFNEPGDW
+GN-REAHINELINRM-*
+>P1;gi|71122|pir||R5DO7 ribosomal protein L7 - slime mold (Dictyoste... [ score 97 E 1e-19 ] [ range 90 .. 245 ]
+sequence
+-----VIRIRGINGVSPKPRKVLKLLRLLQLNNGVFVKLNKASINMLKLVEPYVAYGFPNLKSIKELIYK
+RGHLKIDGQRISNDMVEKKFGIICVEDIIHEITTCGKHFKQVNNSLWFKLNCPRGGFNMKKTPFLQGGDA
+GN-REHLINNLIHRM-*
+>P1;gi|41150244|ref|XP_018432.3| similar to 60S ribosomal protein L7... [ score 96 E 2e-19 ] [ range 52 .. 207 ]
+sequence
+-----VFRIRGINGVSPKVRKMLQLLCLRRVFNGTFVKLNKASINMLRIVEPYTAWGCPNLKSVNELIYK
+RGYGKINKKQIDNALIARSLGIICMEDLIHEIYTVGKHFKENNFLWPFKLSSPRVGMKKKTTHLVEGGDA
+GN-REDKINRLIRKM-*
+>P1;gi|38077534|ref|XP_195832.2| similar to 60S RIBOSOMAL PROTEIN L7... [ score 96 E 2e-19 ] [ range 111 .. 269 ]
+sequence
+--MAFVIRIRDINGVSPKVRKVPQLLRLRQIFNGTFAKLNKASINMLRIVEPYIAWGYPNLKSVNELIYK
+RGYGKINKKQLTDNSLIAKFGIICMEDLIHEISTVGKRFKENNFLWPFKLSSPQGGMKKKTTHFVEGGDA
+GN-REDQINRLIRRM-*
+>P1;gi|38079994|ref|XP_130020.2| similar to 60S RIBOSOMAL PROTEIN L7... [ score 96 E 2e-19 ] [ range 114 .. 269 ]
+sequence
+-----VIRIRGINGVSPKVRKVLQLLRLRQIFNGTFAKLNKASINMLRIVEPYIAWGYPNLKSVNEFIYK
+RGYGKINKKPLTDNSLIAKFGIICMEDLMHEIYTVGKRFKETNFLWPFKLCSPRGGMKKKTTHVVEGGDT
+GM-REDQINRLIRRM-*
+>P1;gi|38091341|ref|XP_354607.1| similar to 60S RIBOSOMAL PROTEIN L7... [ score 95 E 4e-19 ] [ range 29 .. 167 ]
+sequence
+-----VIRIRGINGVSPKVRKVLQLLRLRQIFNGTFVKLNKASINMLQIVEPYIAWGYPNKKRIA-----
+----------LTDNSLIAKFGIICMEDLIHEIYIVGKRFKENNFLWPFKLSSPRGGMKKKTTHFVEGGDA
+GN-REDQINRLIRRM-*
+>P1;gi|19114366|ref|NP_593454.1| 60s ribosomal protein L7-a.2/L8B [S... [ score 94 E 6e-19 ] [ range 92 .. 247 ]
+sequence
+-----VIRIAGVKNMPPKIRKVLRLLRLSRINNAVFVRNNKAVAQMLRIVEPYVMYGIPNLHSVRELIYK
+RGFGKINGQRIDNALIEEALGYDSIEDIIHEIYNVGSHFKETKFLWPFTLTPVKHSLMEKKKHFNEGRKA
+G-YCGEEINELIKK--*
+>P1;gi|6321362|ref|NP_011439.1| Protein component of the large (60S)... [ score 94 E 7e-19 ] [ range 86 .. 243 ]
+sequence
+-----VVRIKGINKIPPKPRKVLQLLRLTRINSGTFVKVTKATLELLKLIEPYVAYGYPSYSTIRQLVYK
+RGFGKINKQRVDNAIIEANLGILSIDDLIHEIITVGPHFKQNNFLWPFKLSNPSGGW-GVPRKFKQGGSF
+GN-REEFINKLVKSM-*
+>P1;gi|15231288|ref|NP_187967.1| 60S ribosomal protein L7 (RPL7D) [A... [ score 94 E 7e-19 ] [ range 88 .. 243 ]
+sequence
+-----IIRIRGINAIDPKTKKILQLLRLRQIFNGVFLKVNKATINMLRRVEPYVTYGYPNLKSVKELIYK
+RGFGKLNHQRLTDNSIVDKHGIICVEDLIHEIMTVGPHFKENNFLWPFQLKAPLGGMKKKRNHYVEGGDA
+GN-RENFINELVRRM-*
+>P1;gi|30689623|ref|NP_850411.1| 60S ribosomal protein L7 (RPL7C) [A... [ score 94 E 8e-19 ] [ range 91 .. 246 ]
+sequence
+-----IIRIRGINAIDPKTKKILQLLRLRQIFNGVFLKVNKATVNMLRRVEPYVTYGYPNLKSVKELIYK
+RGYGKLNHQRLTDNSIVDKHGIICVEDLIHEIMTVGPHFKENNFLWPFQLKAPLGGLKKKRNHYVEGGDA
+GN-RENFINELVRRM-*
+>P1;gi|15226212|ref|NP_178234.1| 60S ribosomal protein L7 (RPL7B) [A... [ score 94 E 8e-19 ] [ range 86 .. 241 ]
+sequence
+-----IIRIRGINAIDPKTKKILQLLRLRQIFNGVFLKVNKATMNMLRRVEPYVTYGFPNLKSVKELIYK
+RGYGKLNHQRIDNSIVEQALGKHGIEDLIHEILTVGPHFKENNFLWPFQLKAPLGGLKKKRNHYVEGGDA
+GN-RENFINELIRRM-*
+>P1;gi|11228571|gb|AAG33073.1| ribosomal protein L7 [Rana sylvatica] [ score 93 E 2e-18 ] [ range 86 .. 241 ]
+sequence
+-----VIRIRGINGVSPKVRKVLQLLRLRQIFNGTFVKLNKASINMLRLVEPYIAWGYPNLKSVKQLIYK
+RGKIKKQRIPLTDEKYLRKTYIICVEDLIQEIYTGKNFNGANNFLWPFKFSFPGGGMKKKTTHFVEGGDA
+GN-REDQINRLLRKL-*
+>P1;gi|45198437|ref|NP_985466.1| AFL082Wp [Eremothecium gossypii] >g... [ score 91 E 6e-18 ] [ range 85 .. 242 ]
+sequence
+-----VIRIKGINKIAPKPRKVLQLLRLNQINSGVFVKVTKATTELLRLVEPYVAYGYPSYSTIRQLVYK
+RGYGKINKQRIENSIVEANLGIISVDDLIHEIITVGPHFKQNNFLWPFKLSNPSGGW-GVPRKFKQGGAF
+GN-REEFINKLVKSM-*
+>P1;gi|6687301|emb|CAB64904.1| 60S ribosomal protein L7 [Cyanophora ... [ score 91 E 7e-18 ] [ range 1 .. 147 ]
+sequence
+--------------TPRIIKKILQLLRLRQINNGTFVKLNKATIMMVRLVEFYVSYGTPNLKSVKELIYK
+RGAKVNGRVPITDNSIIEKYGIVCMEDLVHEIYTVGPHFKENNFLWPFQLSSPKGGMTDKTIHFNEGGDA
+GN-REDRINGLIRQM-*
+>P1;gi|28630264|gb|AAN73360.1| ribosomal protein L7 [Scyliorhinus ca... [ score 90 E 1e-17 ] [ range 72 .. 216 ]
+sequence
+-----VIRIGGINGVSPKVRKVLQLLRLRQIFNGVFVKLNKASINMLRIAEPYIAWGYPNLKSVRELIYK
+RGFGKIKHQRITENALIEKYGIICIEDLIHEIYTGKNFKMANNFLWPFKLSSPRGGMNKKTTHFVEGGDA
+GNR-------------*
+>P1;gi|44887656|gb|AAS48104.1| ribosomal protein L7 [Pectinaria goul... [ score 89 E 3e-17 ] [ range 86 .. 234 ]
+sequence
+----LVIRTKGINKVAPQPRKIMQLLRLRQINNASFVRLNHATLQMLRVADPYITWGYPNLKTVRELVYK
+RGYGRVGRVALTDNDIVETKGIICMEDLIHEIFTVGPNFKQANSFLWFKLNTPNGGWRKKMNHFVDGGDF
+GNRG------------*
+>P1;gi|23481600|gb|EAA17830.1| putative 60S Ribosomal protein L7 [Pl... [ score 87 E 1e-16 ] [ range 116 .. 272 ]
+sequence
+-----VIRLKGVNKLPPKVKSVFRLLRLLQVHNGVFVKVNKATKEMLKIVEPYVTYGYPSLSTVRNLIYK
+RGYIKDGRKKINNEDISKHLGVHGIEDMIYQIYTCGSVFKKVNNFLWFKLKPPKKGFKAKRHGFNEPGDW
+GN-REEHIND------*
+>P1;gi|38080054|ref|XP_355609.1| similar to 60S RIBOSOMAL PROTEIN L7... [ score 87 E 1e-16 ] [ range 114 .. 252 ]
+sequence
+-----VIRIRGINGVSPKVRKVLQLLCLRQIFNGTFVKLNKASINMLRIVEPYIAWGYPNKKQIALTDNS
+LIARSLG-----------KFGIICMEDLIHEIYTVGKRFKENNFLWPFKLSSPRGGMKKKTTHFVEGGGA
+GN-REDQINRLIRRM-*
+>P1;gi|42925437|gb|EAB29759.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 1 .. 140 ]
+sequence
+----------------------MQLFRLRQLHNAVFVKLNKATWNMIKMVEPFITYGYPSRQTISKLIYK
+RGKVQRRRLPLTDNSIIEKHGIACVEDLIHEVVTCGPKFKENNFLWPFKLSSPLGGFEIKRHSFAQGGAF
+GN-REELINSVVKKM-*
+>P1;gi|34882146|ref|XP_238572.2| similar to 60S RIBOSOMAL PROTEIN L7... [ score 84 E 1e-15 ] [ range 104 .. 250 ]
+sequence
+-----VIRIRGINGVSPKVRKVLQLLRLWQIFNGTSVKLNKASVNMLRIVEPYIAWGYPNLKSVNELIYK
+RVYGKINKKRLTDNSLIAKFGIICMEDLIQGIYTGKCFKEANNFLWPFKLSSPAGGMKKKTTHFVEGGDA
+GNRKT-----------*
+>P1;gi|32416114|ref|XP_328535.1| hypothetical protein [Neurospora cr... [ score 83 E 1e-15 ] [ range 91 .. 247 ]
+sequence
+-----LIRIKGINKIPPKPRKILQLLRLLQINNGVFVRVTKATAEMIKIVEPWVAYGYPNLKSVKELIYK
+RGYGKVNKQRVDNSIIEENLGIICMEDLIHEIYTVGPNFKQANFLWPFKLSNPTGGFRTRKKHFIEGGDL
+GN-REEHINALIRQM-*
+>P1;gi|28932721|gb|AAO60053.1| wx protein [Toxoplasma gondii] [ score 83 E 1e-15 ] [ range 38 .. 197 ]
+sequence
+-------RIKGINKLAPKPKMILRLFRLRQLHNAVFIKVNKATIEMLKAVQPFITYGYPTLKTIRQLIYK
+RGYAKVGHSRIANDIVSQHLGIHGVEDLVHEIYTCGPYFKQNNFLWPFKLNSPRKGFTSKRHGYNEKGDW
+GN-REEMINELVQRM-*
+>P1;gi|42544929|gb|EAA67772.1| conserved hypothetical protein [Gibbe... [ score 83 E 2e-15 ] [ range 118 .. 274 ]
+sequence
+-----VVRIKGINKMPPKPRKILQLLRLLQINNGVFVKVTKAITEMLKVVEPWIAYGYPNLKTVKELVYK
+RGYGKVNKQRLTDSIVEENLGIVCVEDLIHEIFTVGPNFKQANFLWPFKLSNPTGGFRPRKKHFIEGGDL
+GN-REHAINALVRQM-*
+>P1;gi|34854594|ref|XP_214795.2| similar to ribosomal protein L7, cy... [ score 83 E 2e-15 ] [ range 101 .. 246 ]
+sequence
+-----VIRIRGINGVSPKVRKVLQLLCLQQIFKCTSVN-------MLR---SYIAWGYPNLKSVNELIYK
+RGYGKINKKRLTDNSLIAKFGIICMEDLIHEIYTVGKRFKENNFLWPFKLSSPRGGMKKKTTHFVEGRDT
+GN-REDQINRLIRRM-*
+>P1;gi|34877407|ref|XP_223384.2| similar to 60S RIBOSOMAL PROTEIN L7... [ score 82 E 4e-15 ] [ range 305 .. 448 ]
+sequence
+-----VIRIRGINGVSPKVHMVLQLLRLRQISNGTFVTLNKASVNMLRIV---IAWGYPSLKSVNEIIYK
+RGYGKVNKKRLTDNSLIAKFGIICMEDLIHEIYTAGKRFKENNFLWPFKLSSPRGGMKKETTHFVEGGDA
+GNRKT-----------*
+>P1;gi|34866562|ref|XP_235305.2| similar to ribosomal protein L7, cy... [ score 80 E 1e-14 ] [ range 92 .. 246 ]
+sequence
+-----VIRIRGTSGVSPRVRKLQLLLRLRQILHGTFVKLSKASVNMLRTVEPHIAWGYPNLKSVNELTYK
+RGSGKINKKHVTDNFVRSKFDIICMEDLIHVIYIVGKRFKENNFLWPFKLSSPRGGMKKKTTHFVEGGDA
+GN-REDQINRLIR---*
+>P1;gi|38106208|gb|EAA52545.1| hypothetical protein MG05237.4 [Magna... [ score 79 E 3e-14 ] [ range 91 .. 245 ]
+sequence
+-----VVRIKGQ--IAPKPRKILQLLRLLQINNGCFVRVTKATMEMIKVVEPWVAYGYPNLKTVKELIYK
+RGYGKVDKQRIDNSIIEANLGIICIEDLIHEIFTVGPNFKQANFLWPFKLSNPTGGFRSRKRHFIEGGDL
+GN-REEHINALIRQM-*
+>P1;gi|41054591|ref|NP_955884.1| Unknown (protein for MGC:66422) [Da... [ score 78 E 5e-14 ] [ range 92 .. 246 ]
+sequence
+------VRIREIKGVSPKVMNVIQMLRLRKIFSGTFVKVSKHSINMLKTVEPYVAWGYPNLKSVRELILK
+RGQGKVDKRKIDNTLIEQHLGIICLEDLIHEIYSAGKNFRVVNFLWPFRLSVPRHAARDKVGLMKDVGNP
+GP-RAEDINTVIRKL-*
+>P1;gi|40742122|gb|EAA61312.1| conserved hypothetical protein [Asper... [ score 78 E 5e-14 ] [ range 92 .. 248 ]
+sequence
+-----VVRIKGINKIAPQPRKILQLLRLLQINNGTFVKLTKATQEMLTIINPYVAYGYPNLKSVRELIYK
+RGYGKIDKQRVDNQIIEEHLGIVCMEDLIHEIYTVGPNFKQNNFLWPFKLSNPTGGFRTRKKHYIQGGDT
+GN-REENINALIRQM-*
+>P1;gi|38348288|ref|NP_940888.1| ribosomal protein L7-like 1 [Homo s... [ score 78 E 6e-14 ] [ range 90 .. 245 ]
+sequence
+-----VVRIERIDGVSLLVQRTIARLRLKKIFSGVFVKVTPQNLKMLRIVEPYVTWGFPNLKSVRELILK
+RGQAKVKNKPLTDNTVIEKFGVICLEDLIHGIAFPGKHFQEISFLCPFHLSVARHATKNRVGFLKEMGTP
+G-YRGERINQLIRQL-*
+>P1;gi|38636688|dbj|BAD03109.1| putative 60S ribosomal protein L7 (R... [ score 77 E 9e-14 ] [ range 93 .. 247 ]
+sequence
+------IRIPGTMDLHPHMRRILRKLRLTQVLTGVFLKATDATMKRLLVVEPFITYGFPNLKNVKDLIYK
+KGRGFLDKEPLTSNDLIEKAGIICLEDLVHEIASVGPHFREANFLMPFKLKCPERRLQMKKKPFKDGGDS
+GN-REDKINELIEKL-*
+>P1;gi|34875111|ref|XP_224246.2| similar to 60S RIBOSOMAL PROTEIN L7... [ score 76 E 3e-13 ] [ range 104 .. 250 ]
+sequence
+-----VIRIRGISGVSPKVREVLQLLRLRQILNGTFVKLSKASVKMLRIVEPYIAWGYPNLKSVNELIYK
+RGYGKIRKKRLTDNSLMAKFGIICMEDLIHEIYTVGKHFKENNFLWPLKLSSPRGGMKKKTTHFVEGGDA
+GNRET-----------*
+>P1;gi|42661196|ref|XP_371068.2| similar to ribosomal protein L7 [Ho... [ score 75 E 4e-13 ] [ range 141 .. 276 ]
+sequence
+-----VIRIRGVNGVSPKIRKVLQLLRLCQIFNETFVKLNKASINMLRIVEPYIAWGCPNLKSVNELIYK
+RGYGKINKKGVDNTLIARSLGINCMEDLIHEIYTGKCFKEANNFLWPFKLSSPQGRMKKKTTHF------
+----------------*
+>P1;gi|15220825|ref|NP_178190.1| 60S ribosomal protein L7 (RPL7A) [A... [ score 73 E 1e-12 ] [ range 90 .. 246 ]
+sequence
+-----IIRIQGKNDMHPKTKRILNNLQLKSVFTGVFAKATDSLFQKLLKVQPYVTYGYPNDKSVKDLIYK
+KGTIIEGNVPLTDNNIIEQAKILGIEDLVNEIARVGDHFREVRFLGPLKLNKPRK-----KQVFSEGGDT
+GN-REDKINDLISKM-*
+>P1;gi|34861858|ref|XP_219547.2| similar to ribosomal protein L7, cy... [ score 72 E 3e-12 ] [ range 103 .. 256 ]
+sequence
+-----VIRIAGSVELAQKVHKVLQLLRLRQILNSTFVKLNKASINMLRTVEPYIAWGYPNLKSVNELIYK
+AGSGKINKKQLTDNSLIAKFGIICMEDL---IYTLGTSFKENNFLWPFKLSSPAGGMKKKTTHFVEGGNV
+GN-REDQINRLIRQM-*
+>P1;gi|45360519|ref|NP_988886.1| hypothetical protein MGC76334 [Xeno... [ score 71 E 6e-12 ] [ range 90 .. 245 ]
+sequence
+-----VVRITKVDGVSNAVLDALKTLRLGKIFAGAFVKLTPSSLNLIRVVEPYVAWGFPNLKSIRELVLK
+RGHFRRDGRRVTDNNVIEKFGIICLEDVIHELYTGEHFPEVNRFLCPFRLSVSRHAAVNRKGYLSEVGDP
+G-HRGSGINQLIRQL-*
+>P1;gi|34874735|ref|XP_228615.2| similar to RIKEN cDNA 1500016H10 [R... [ score 70 E 2e-11 ] [ range 90 .. 245 ]
+sequence
+-----VIRMERIQGVSLLVKSTIMKLGLKKLFSGVFVKVTPQSMRMLRTVEPYVTWGFPNLKSVRELILK
+RGQAKINNKPLTDNTVIEQFGVICLEDLIHEIAPGKHFQQISSFLCPFHLSVARHATKNRVGFLKEMGSP
+G-YRGDRINQLIRQL-*
+>P1;gi|34880848|ref|XP_222771.2| similar to ribosomal protein L7, cy... [ score 68 E 5e-11 ] [ range 159 .. 308 ]
+sequence
+-----LIRIRGTNGVSPKVQ----LLHPRQILHGTFVKLGKASVNMLRTVEPYIAWGYPSLKSVNELIYR
+AGYGRINKKALTDSIVRSKIGIICMEDLIHEVYTATKGFKEANNFLWPFKTSPRGGMKKKTPRFAEGGDA
+DN-RDDQINRLIRR--*
+>P1;gi|13812052|ref|NP_113187.1| 60S ribosomal protein L7 [Guillardi... [ score 66 E 3e-10 ] [ range 85 .. 246 ]
+sequence
+-----VIRTKGINGIDPKSKKILKLLRLNNVHAGVFLKINKSILKILQYIEPYVAYGYPSIKNVRSLIMK
+KGFLKLGSRDVLIEQRFKKIGISCTEDLVKEIYECGPYFKTNNLLWPFQLRSPKKGFGKKGKKKSEKGVF
+GNW-EYSINFLIEKM-*
+>P1;gi|27754134|ref|NP_079709.2| RIKEN cDNA 1500016H10 [Mus musculus... [ score 64 E 7e-10 ] [ range 90 .. 245 ]
+sequence
+-----VIRMERIEGVSLLVKSTIMKLGLKKLFSGVFVKVTPQSVRMLRTVEPYVTWGFPNLKSVRELILK
+RGQAKINNKPLTDNTVIEEFGVICLEDLIHEIAPGKHFQEVSSFLCPFLLSVARHATRNRVGFRKEMGSP
+G-YRGDRINQLIRQL-*
+>P1;gi|14716978|emb|CAC44154.1| putative ribosomal protein L7 protei... [ score 57 E 1e-07 ] [ range 88 .. 141 ]
+sequence
+-----VIRIRGINGVSPKVRKVLQLMRLRQIFNGVFVKLNKASINMLRIAEPYIAWGTP-----------
+----------------------------------------------------------------------
+----------------*
+>P1;gi|17945777|gb|AAL48936.1| RE33833p [Drosophila melanogaster] [ score 57 E 1e-07 ] [ range 100 .. 255 ]
+sequence
+-----VMRLAGKKIFDKTTADIFRTLRMGSRHNAVFMENTKENQLLLRVIEPFVVYGNPSLSSIRELVFK
+KGFARIDGKKTSNTMVEQQLGDKCLEDIIH-----EICTVGPNFAAVFTLSSPSNGWKKVSVSYKRGGEY
+GD-RGTAINELIAR--*
+>P1;gi|31198575|ref|XP_308235.1| ENSANGP00000021545 [Anopheles gambi... [ score 56 E 3e-07 ] [ range 109 .. 276 ]
+sequence
+--LVLVLRHRGKKLIPKEVMKTFVRLGLQHQRSATLHRLTPEIIAQLKVVEPFVIWGYPNISVVRELLYK
+RCRGVESKKPVSNKQVEDLFGMLCVDDLVHEIM--TVGPHFDAIRETLRLKDPAGGWKNPQHKRSIGGEA
+GF-RGDAINDLFRK--*
+>P1;gi|417675|sp|P32102|RL7_KLULA 60S RIBOSOMAL PROTEIN L7 >gi|28309... [ score 56 E 3e-07 ] [ range 5 .. 146 ]
+sequence
+-----VIRVKGPVKIPAKAYKVLSLLRLVELNTGVFIKLTKDVYPLLKLVSPYIVIGQPSLASIRSLIQK
+RSRIMWQRKEIDNNIVEEKLGDECIEDIIHEISTGENFSKCTFFLLPFKLNREVSGFGAISR--------
+----------------*
+>P1;gi|6324326|ref|NP_014396.1| Significant sequence similarity to R... [ score 55 E 4e-07 ] [ range 144 .. 285 ]
+sequence
+-----IVRVRGPVNIPNKAFKILSLLRLVETNTGVFVKLTKNVYPLLKVIAPYVVIGKPSLSSIRSLIQK
+RGRIIKGDNNIVEEQLGDH-GIICVEDIIHEIATMGESFSVCNFFLPFKLNREVSGFGSLNR--------
+----------------*
+>P1;gi|417676|sp|P32101|RL7_PICJA 60S RIBOSOMAL PROTEIN L7 [ score 52 E 4e-06 ] [ range 32 .. 103 ]
+sequence
+--LYLIVRTPGPVGIPSKVQKVLQLLRLNKINSGVFVKLTETVYPLLKLLSPYTVIAQPSLQTVRQLVQK
+RA--------------------------------------------------------------------
+----------------*
+>P1;gi|45184813|ref|NP_982531.1| AAL011Cp [Eremothecium gossypii] >g... [ score 52 E 4e-06 ] [ range 115 .. 184 ]
+sequence
+-----VVRVRGPAAIPRKAHRVLTLLRLAEVNTGVFVRLTAEVFPLLQVVAPYVVVGRPSLASIRALVQK
+RAR-------------------------------------------------------------------
+----------------*
+>P1;gi|38083935|ref|XP_355751.1| similar to 60S RIBOSOMAL PROTEIN L7... [ score 51 E 9e-06 ] [ range 91 .. 155 ]
+sequence
+-----VITIRGIRGVSPKVRKVVQLLRLLQIFTGTFVKLNKASIIMLRIVEPYIARGYPNLKSVNKLIYK
+----------------------------------------------------------------------
+----------------*
+>P1;gi|42657378|ref|XP_376403.1| similar to ribosomal protein L7-lik... [ score 50 E 1e-05 ] [ range 1 .. 116 ]
+sequence
+---------------------------------------------MLCIVEPYVTWGFPNLKSVRELILK
+RGQAKVKNKPLTDNTVIEKFGIICLEDLIHEIAFPGKHLQEISFLRPFHLSVACHATKNRVGFLKEMGTP
+G-YWGERINQLIRQL-*
+>P1;gi|21728378|ref|NP_082827.1| RIKEN cDNA 1700084J12 [Mus musculus... [ score 49 E 3e-05 ] [ range 24 .. 102 ]
+sequence
+-------------GVSLLVKSTIMKLGLKKLFRGIFVKVTPQSVRMLLTVEPYVTWGFPNLRSVRGLILK
+RGQAKIKTVPLTDNVIEEHLG-------------------------------------------------
+----------------*
+>P1;gi|42656911|ref|XP_377820.1| similar to ribosomal protein L7-lik... [ score 47 E 1e-04 ] [ range 74 .. 164 ]
+sequence
+------------------VQRTIVRLCLKKIFSGVSVKVTPQNLKMLHIIEPCVTWGFPNLKSLWELLLK
+CGQAKVKNKTIDNTAIEEHLGVICLEDLIHEIA-------------------------------------
+----------------*

@@ -1,0 +1,316 @@
+>P1;1i50f
+structureX:1i50:  72 :F: 155 :F:DNA-directed RNA polymerases II 23 kDa polypeptide:Saccharomyces cerevisiae: 2.80: 22.9
+-----------------------------------KAIPKD--------QRATTPYMTKYERARILGTRA
+LQISMNAPVFVDLEGETDPLRIAMKELAEKKIPLVIRRYLPDGSFEDWSVEELIVDL*
+>P1;1qkla
+structureX:1qkl: 801 :A: 927 :A:DNA-directed RNA polymerase II 14.4 kDa polypeptide:Homo sapiens and cricetulus griseus: -1: -1
+MSDNEDNFDGDDFDDVEEDEGLDDLENAEEEGQENVEILPSGERPQANQKRITTPYMTKYERARVLGTRA
+LQIAMCAPVMVELEGETDPLLIAMKELKARKIPIIIRRYLPDGSYEDWGVDELIITD*
+>P1;gi|45190327|ref|NP_984581.1| AEL279Cp [Eremothecium gossypii] >g... [ score 157 E 6e-38 ] [ range 71 .. 154 ]
+sequence
+-----------------------------------KAIPKE--------ERTTTPYMTKYERARILGTRA
+LQISMNAPVFVDLEGETDPMRIAMKELAEKKIPLVIRRYLPDGSFEDWSVEELIVDL*
+>P1;gi|19075456|ref|NP_587956.1| dna-directed rna polymerases i, ii,... [ score 150 E 9e-36 ] [ range 62 .. 142 ]
+sequence
+-----------------------------------KAVAKE--------DRTTTPYMTKYERARILGTRA
+LQISMNAPVLVDLEGETDPLQIAMKELAQKKIPLLVRRYLPDGSYEDWSVAELI---*
+>P1;gi|38106302|gb|EAA52629.1| hypothetical protein MG05321.4 [Magna... [ score 145 E 1e-34 ] [ range 70 .. 150 ]
+sequence
+-----------------------------------KKIPND--------KRTTTPFMTKYEKARILGTRA
+LQISMNAPVLVDLEGETDPLQIAIKELAEKKIPLIIRRYMPDGYYEDWTCEELL---*
+>P1;gi|31214787|ref|XP_315900.1| ENSANGP00000017467 [Anopheles gambi... [ score 144 E 6e-34 ] [ range 56 .. 135 ]
+sequence
+-------------------------------------VPKN--------KRITTKYMTKYERARVLGTRA
+LQIAMCAPIMVELEGETDPLQIAMKELKQRKIPIIIRRYLPDSSYEDWSIDELII--*
+>P1;gi|44176376|gb|EAH53744.1| unknown [environmental sequence] [ score 143 E 8e-34 ] [ range 54 .. 135 ]
+sequence
+-----------------------------------RAVPRH--------ERTTTPYMTKYERARILGTRA
+LQISMNAPVLVQLEGETDPLEIAGKELREKRVPFIVRRYMPDGSYEDWGLEELIV--*
+>P1;gi|45382031|ref|NP_990065.1| RNA polymerase common subunit RPB6 ... [ score 140 E 7e-33 ] [ range 44 .. 125 ]
+sequence
+-----------------------------------RQAANQ--------KRITTPYMTKYERARVLGTRA
+LQIAMCAPVMVELEGETDPLLIAMKELKARKIPIIIRRYLPDGSYEDWGVDELII--*
+>P1;gi|13786166|ref|NP_112625.1| polymerase II [Rattus norvegicus] >... [ score 140 E 8e-33 ] [ range 44 .. 125 ]
+sequence
+-----------------------------------RPQANQ--------KRITTPYMTKYERARVLGTRA
+LQIAMCAPVMVELEGETDPLLIAMKELKARKIPIIIRRYLPDGSYEDWGVDELII--*
+>P1;gi|39597419|emb|CAE59649.1| Hypothetical protein CBG03063 [Caeno... [ score 139 E 1e-32 ] [ range 54 .. 133 ]
+sequence
+-----------------------------------KAVPTS--------EHVTTPFMTKYERARVLGTRA
+LQIAMGAPVMVELEGETDPLEIARKELKQRRVPIIIRRYLPDGSYEDWPTEQL----*
+>P1;gi|17531543|ref|NP_496278.1| gene producing two messages overlap... [ score 139 E 2e-32 ] [ range 53 .. 132 ]
+sequence
+-----------------------------------KAVPTS--------EHVTTPFMTKYERARVLGTRA
+LQIAMGAPVMVELEGETDPLEIARKELKQRRIPIIVRRYLPDGSYEDWPTDQL----*
+>P1;gi|17864588|ref|NP_524910.1| RNA polymerase II 18kD subunit CG11... [ score 137 E 7e-32 ] [ range 49 .. 128 ]
+sequence
+-------------------------------------VPKS--------KRITTKYMTKYERARVLGTRA
+LQIAMCAPIMVELDGETDPLQIAMKELKQKKIPIIIRRYLPDHSYEDWSIDELIM--*
+>P1;gi|40743999|gb|EAA63181.1| hypothetical protein AN2747.2 [Asperg... [ score 131 E 3e-30 ] [ range 79 .. 149 ]
+sequence
+-----------------------------------KKIPND--------QRTTTPYMTKYERARVLGTRA
+LQISLNAPVLVDLEGETDPLQIAMKELAQKKIPLIVRRYLPDGT-------------*
+>P1;gi|19173358|ref|NP_597161.1| DNA-DIRECTED RNA POLYMERASE I [Ence... [ score 131 E 4e-30 ] [ range 58 .. 139 ]
+sequence
+------------------------------------KIKAS--------ERKTLPRMTKYEKAHVIGVRA
+TQLSAGAPPFVDIGNETNPLNIANMELSEKKIPFIIRRKLPDSSFEDWAVDELMIP-*
+>P1;gi|42554776|gb|EAA77619.1| hypothetical protein FG06683.1 [Gibbe... [ score 129 E 2e-29 ] [ range 70 .. 139 ]
+sequence
+-----------------------------------KKIPES--------ERTTTPYMTKYERARILGTRA
+LQISMNAPVLVDLEGETDPLQIAIKEMREKKIPLIVRRYMPDG--------------*
+>P1;gi|14578297|gb|AAF99463.1| PV1H14085_P [Plasmodium vivax] [ score 126 E 1e-28 ] [ range 63 .. 157 ]
+sequence
+---------------------------------------DN--------IRITSPYLTKYEKARIIGTRA
+LQISLNAPLTIPIETNNDPLVIAEKELHNKSIPFILRRYLPNGSYEDWKLDELIID-*
+>P1;gi|25140279|gb|AAM77737.2| RNA polymerase II subunit Rpb6 [Giard... [ score 119 E 1e-26 ] [ range 18 .. 104 ]
+sequence
+-----------------------------------KPADPD--------KRITPRYLTKFEQARILGTRA
+YQLSMGAPAHIDKGGHLDPLVLARRELANNAIPIIIRRHLPDGTYEDWKLSELIID-*
+>P1;gi|29841200|gb|AAP06213.1| similar to NM_080171 RNA polymerase I... [ score 118 E 3e-26 ] [ range 53 .. 123 ]
+sequence
+------------------------------------PVEKS--------KRITTPYLTKYERARVLGARA
+LQLSMSAPVMVELDGERDPLKIAEKELRANKIPIIIRRFLPDWEF------------*
+>P1;gi|44431372|gb|EAJ22236.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 79 .. 157 ]
+sequence
+-------------------------------------IIDE--------LHKTIPFLTKYEKAKILGMRA
+NQINTGGKPFITLDSNIDGFVIAQMELEQKKIPFIIRRPMPNGGSEYWKISDL----*
+>P1;gi|14601067|ref|NP_147593.1| DNA-directed RNA polymerase subunit... [ score 107 E 8e-23 ] [ range 11 .. 91 ]
+sequence
+-------------------------------------IVDD--------VKIGPPYLTKYERARIIGVRA
+FQLSIGAPPLVDPEGSRNPLDIARYEVDNGILPVSIYRYLPGGGGQSLSLSRLV---*
+>P1;gi|43187900|gb|EAC59487.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 11 .. 89 ]
+sequence
+---------------------------------------KK--------NNQTNPYLTKYERTRILSERT
+QQIDGSTPLIPNVERFTSAYEIAVEELNTKKLPFIIRRPLPNLSFEYWKLDDLL---*
+>P1;gi|43503301|gb|EAE06415.1| unknown [environmental sequence] [ score 97 E 1e-19 ] [ range 3 .. 70 ]
+sequence
+-----------------------------------------------------PPTLTRFEKARIMGARA
+LQLSLGAPPFIDIPNAATSLDISMKELEERVIPITIRRVLPNGDYQNIPL-------*
+>P1;gi|9628177|ref|NP_042763.1| RNA polymerase subunit 6 [African sw... [ score 94 E 5e-19 ] [ range 60 .. 145 ]
+sequence
+-------------------------------------IPDN--------ERITSNVLTTFEATRLVAVRA
+QQLAINGSTMLK-KKYSSPIDIAKQELFNRKIPLLVMRCIPEGQVEIWNPREMGIPL*
+>P1;gi|18313953|ref|NP_560620.1| DNA-directed RNA polymerase subunit... [ score 93 E 2e-18 ] [ range 19 .. 100 ]
+sequence
+-----------------------------------KAINKR--------EFY-PPRLTKYETARIIGARA
+LQLAMGAQPLVDIQGSVDPVLIAMEELRRGLLDFIIVREMPDGKTMRIRLKELL---*
+>P1;gi|21227861|ref|NP_633783.1| DNA-directed RNA polymerase subunit... [ score 91 E 6e-18 ] [ range 30 .. 80 ]
+sequence
+---------------------------------------------------------TRFERARIVGARA
+LQIAMGAPVLVEDDGRLDPLGVAIEELKAGVIPITVKR-------------------*
+>P1;gi|15921480|ref|NP_377149.1| 86aa long hypothetical DNA-directed... [ score 91 E 7e-18 ] [ range 13 .. 83 ]
+sequence
+------------------------------------------------------NRLTKYEIARIISARA
+LQLAMGASPLIDTNNFNDVISIAEEELKRGVLPITVRRVYPNGKIELVSVKKV----*
+>P1;gi|15897794|ref|NP_342399.1| DNA-directed RNA polymerase subunit... [ score 90 E 9e-18 ] [ range 25 .. 94 ]
+sequence
+------------------------------------------------------NRLTRYEIARVISARA
+LQLAMGAPALIDINNSTDVISIAEEEFRRGVLPITIRRRLPNGKIILLSLRK-----*
+>P1;gi|11498731|ref|NP_069960.1| DNA-directed RNA polymerase, subuni... [ score 83 E 1e-15 ] [ range 12 .. 61 ]
+sequence
+---------------------------------------------------------TRFEKARIIGARA
+LQIAMGAPVLIETDK-TEPLEIALEEFNRGVIPITVRR-------------------*
+>P1;gi|15678071|ref|NP_275185.1| DNA-dependent RNA polymerase, subun... [ score 82 E 2e-15 ] [ range 2 .. 59 ]
+sequence
+--------------------------------------------------HMASKKLTRFERARLIGARA
+LQISMGARPLVEIKESLDPVDIARKELEKKVMPLDVRR-------------------*
+>P1;gi|20095016|ref|NP_614863.1| DNA-directed RNA polymerase subunit... [ score 82 E 3e-15 ] [ range 4 .. 55 ]
+sequence
+--------------------------------------------------------LTRFEIARIVGARA
+LQIAMGSPVLVEVEGDEDPLEIAKREFDEGVVPVVVIR-------------------*
+>P1;gi|41718460|ref|ZP_00147461.1| hypothetical protein Mbur213101 [... [ score 81 E 6e-15 ] [ range 3 .. 62 ]
+sequence
+----------------------------------------D--------QLSNEKY-TRYERARIIGARS
+LQIAMGAPILIEDDN-TDALYLATLEFEKGVIPITVKRNL-----------------*
+>P1;gi|20089488|ref|NP_615563.1| DNA-directed RNA polymerase, subuni... [ score 80 E 8e-15 ] [ range 7 .. 57 ]
+sequence
+---------------------------------------------------------TRFERARIVGARA
+LQIAMGAPVLVDDDGRLDPLGVAIAELKAEIIPITVKR-------------------*
+>P1;gi|14520751|ref|NP_126226.1| DNA-directed RNA polymerase, subuni... [ score 80 E 1e-14 ] [ range 5 .. 56 ]
+sequence
+---------------------------------------------------------TRFEKARIIGARA
+LQIAMGAPVLIDVPEGITPLEAAIMEFEKGVIPITVIRP------------------*
+>P1;gi|15790221|ref|NP_280045.1| DNA-directed RNA polymerase subunit... [ score 80 E 1e-14 ] [ range 4 .. 57 ]
+sequence
+-----------------------------------------------------SQHFSRYEKARIIGARA
+LQVAYGAPVLVDTD-QTEPILIAAEEYDADALPFTVRR-------------------*
+>P1;gi|18978014|ref|NP_579371.1| DNA-directed RNA polymerase subunit... [ score 79 E 2e-14 ] [ range 5 .. 56 ]
+sequence
+---------------------------------------------------------TRFEKARIIGARA
+LQISMGAPVLIDVPPGITPLEAAILEFEKGVIPITVIRP------------------*
+>P1;gi|13542056|ref|NP_111744.1| DNA-directed RNA polymerase subunit... [ score 79 E 4e-14 ] [ range 4 .. 55 ]
+sequence
+---------------------------------------------------------TKFEKARIIGARA
+LQIAMGAPVIIDIKNVIDPVDIATIEFENNVIPITIKR-------------------*
+>P1;gi|16082173|ref|NP_394616.1| probable DNA-directed RNA polymeras... [ score 78 E 4e-14 ] [ range 4 .. 55 ]
+sequence
+---------------------------------------------------------TKFEKARIIGARA
+LQIAMGAPVIIDVKNIIDPVDIAMLEFENNVIPITIKK-------------------*
+>P1;gi|141414|sp|P29200|RPOK_HALMA DNA-directed RNA polymerase subun... [ score 72 E 2e-12 ] [ range 6 .. 55 ]
+sequence
+---------------------------------------------------------SRYEKARKLGARA
+LQLAHGAPVLIETE-HTQPILIAAEEYDAGVLPFTVNR-------------------*
+>P1;gi|479917|pir||S35644 DNA-directed RNA polymerase chain 6 homolo... [ score 70 E 1e-11 ] [ range 1 .. 65 ]
+sequence
+--------------------------------------------------RITSNVLTTFEATRLVAVRA
+QQLAINGSTM--LKKKYSPIDIAKQELFNRKIPLLVMRCIPEGQ-------------*
+>P1;gi|43402313|gb|EAD63204.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 5 .. 54 ]
+sequence
+---------------------------------------------------------SRFEKARVIGARA
+LQISMGAPVDIKVEDIIDPVIIAQMEYEQDVIPIDI---------------------*
+>P1;gi|44256178|gb|EAI00327.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 9 .. 79 ]
+sequence
+---------------------------------------------------------TRFEKARIIGARA
+LQISMGAPLFVTEDELLDPMKIATLEYEQNKIPIDI---------------------*
+>P1;gi|45358890|ref|NP_988447.1| DNA-directed RNA polymerase, subuni... [ score 62 E 2e-09 ] [ range 3 .. 53 ]
+sequence
+--------------------------------------------------------LTKFETARLIGARS
+LQISDGAPLAIESEK-TSSLDLADDEVKQGKLPLCVKK-------------------*
+>P1;gi|43374684|gb|EAD52201.1| unknown [environmental sequence] [ score 61 E 5e-09 ] [ range 9 .. 79 ]
+sequence
+---------------------------------------------------------TRFEKARIIGARA
+LQISMGAPLYVSEEELLDPLKIAMLEYESHRIPIDV---------------------*
+>P1;gi|44502905|gb|EAJ71440.1| unknown [environmental sequence] [ score 61 E 6e-09 ] [ range 9 .. 79 ]
+sequence
+---------------------------------------------------------TRFERARIIGARA
+LQIGMGAPIFVDIRFVLDPLKIAMYEYDNHLIPIDI---------------------*
+>P1;gi|15668369|ref|NP_247165.1| DNA-directed RNA polymerase, subuni... [ score 55 E 5e-07 ] [ range 3 .. 54 ]
+sequence
+--------------------------------------------------------LTKFEIARILGARS
+LQISSGAYATIETKCDSS-LKIAYEEIKQGKVPLKPIRP------------------*
+>P1;gi|730614|sp|P39463|RPOK_SULAC DNA-directed RNA polymerase subun... [ score 53 E 2e-06 ] [ range 18 .. 83 ]
+sequence
+--------------------------------------------------------LTKYEIARIISARA
+LQYLWSLTTDTYFYPKSDAVISIARGIKRGVLPITIRRIYPNGQVELISVRK-----*
+>P1;gi|24767755|ref|ZP_00131719.1| COG1758: DNA-directed RNA polymer... [ score 45 E 6e-04 ] [ range 1 .. 35 ]
+sequence
+----------------------------------------------------------------------
+----MGAPVILDVPDMIDPIDIAIFEFDNGVIPITIRR-------------------*
+>P1;gi|45382031|ref|NP_990065.1| RNA polymerase common subunit RPB6 ... [ score 166 E 6e-41 ] [ range 1 .. 127 ]
+sequence
+MSDNEDNFDGDDFDDVEEDEGLDDLENVEEEGQENVEILPSGERQAANQKRITTPYMTKYERARVLGTRA
+LQIAMCAPVMVELEGETDPLLIAMKELKARKIPIIIRRYLPDGSYEDWGVDELIITD*
+>P1;gi|19075456|ref|NP_587956.1| dna-directed rna polymerases i, ii,... [ score 150 E 7e-36 ] [ range 1 .. 142 ]
+sequence
+MSDYEED-EAFGMDGAVMEEEVDELEMIDENGQSQQGVSHPGEKAVAKEDRTTTPYMTKYERARILGTRA
+LQISMNAPVLVDLEGETDPLQIAMKELAQKKIPLLVRRYLPDGSYEDWSVAELI---*
+>P1;gi|6325445|ref|NP_015513.1| subunit common to RNA polymerases I,... [ score 149 E 9e-36 ] [ range 12 .. 153 ]
+sequence
+-NENFEDFDVEHFSDEETYEEKPQFKDGETTDANGKTIVTGGEKAIPKDQRATTPYMTKYERARILGTRA
+LQISMNAPVFVDLEGETDPLRIAMKELAEKKIPLVIRRYLPDGSFEDWSVEELIV--*
+>P1;gi|39597419|emb|CAE59649.1| Hypothetical protein CBG03063 [Caeno... [ score 145 E 2e-34 ] [ range 11 .. 137 ]
+sequence
+--DNDDFVDDNEMEDVIEEEQPDHEEEDDDNNVDENFELFDQGKAVPTSEHVTTPFMTKYERARVLGTRA
+LQIAMGAPVMVELEGETDPLEIARKELKQRRVPIIIRRYLPDGSYEDWPTEQLQLAD*
+>P1;gi|19173358|ref|NP_597161.1| DNA-DIRECTED RNA POLYMERASE I [Ence... [ score 145 E 2e-34 ] [ range 23 .. 138 ]
+sequence
+-SSTKPLMDKEDVDSVNEY-------STEEINMEVLEISDAGMKIKASE-RKTLPRMTKYEKAHVIGVRA
+TQLSAGAPPFVDIGNETNPLNIANMELSEKKIPFIIRRKLPDSSFEDWAVDELMI--*
+>P1;gi|31214787|ref|XP_315900.1| ENSANGP00000017467 [Anopheles gambi... [ score 144 E 3e-34 ] [ range 14 .. 137 ]
+sequence
+---DNDDVGGDEFDDVEEDDNIDELNQEEDG--DNIEIINPGQGGVPKNKRITTKYMTKYERARVLGTRA
+LQIAMCAPIMVELEGETDPLQIAMKELKQRKIPIIIRRYLPDSSYEDWSIDELIIID*
+>P1;gi|17531543|ref|NP_496278.1| gene producing two messages overlap... [ score 143 E 7e-34 ] [ range 11 .. 136 ]
+sequence
+--DNDDFVDDNEMEDVEEDPQRPDNEDEDDDNVDENFELFDQGKAVPTSEHVTTPFMTKYERARVLGTRA
+LQIAMGAPVMVELEGETDPLEIARKELKQRRIPIIVRRYLPDGSYEDWPTDQLQLAD*
+>P1;gi|4960150|gb|AAD34613.1| DNA-directed RNA polymerase IIa [Nicot... [ score 138 E 3e-32 ] [ range 1 .. 134 ]
+sequence
+MADDDYDMDGGYVDEPIEPEPDEGAEIEEDNGNNEGEGEEKTEQEPVERPRKTSKYMTKYERARILGTRA
+LQISMNAPVMVELEGETDPLEIAMKELRERKIPFTIRRYLPDGSYEDWGVDELIVED*
+>P1;gi|16805136|ref|NP_473164.1| DNA-directed RNA polymerase subunit... [ score 136 E 9e-32 ] [ range 20 .. 162 ]
+sequence
+--NEDEDFMGDEFDDGENYENDIDIITDHQIKKDNKSDYENSEANEDN-IRITSPYLTKYEKARIIGTRA
+LQISMNAPLTIPIETNNDPLVIAEKELYNKSIPFILRRYLPNGSYEDWRLDELII--*
+>P1;gi|45190327|ref|NP_984581.1| AEL279Cp [Eremothecium gossypii] >g... [ score 132 E 1e-30 ] [ range 1 .. 152 ]
+sequence
+MSDYEEAFNDEHFEDFEQEHFSDDGFEQEAEFQDGERRRTLKEKAIPKEERTTTPYMTKYERARILGTRA
+LQISMNAPVFVDLEGETDPMRIAMKELAEKKIPLVIRRYLPDGSFEDWSVEELIV--*
+>P1;gi|14578297|gb|AAF99463.1| PV1H14085_P [Plasmodium vivax] [ score 132 E 2e-30 ] [ range 14 .. 156 ]
+sequence
+--NDEDDFMGDEFGQGVDSDDGDNYENDIDIITENKKEKSDYEHSDVNEDRITSPYLTKYEKARIIGTRA
+LQISLNAPLTIPIETNNDPLVIAEKELHNKSIPFILRRYLPNGSYEDWKLDELII--*
+>P1;gi|15224039|ref|NP_178540.1| DNA-directed RNA polymerase II, put... [ score 131 E 4e-30 ] [ range 1 .. 135 ]
+sequence
+MADD----DYNEVDDGYEDEPDADIKENDDVNVDPLETEDKVETEPVQRPRKTSKFMTKYERARILGTRA
+LQISMNAPVMVELEGETDPLEIAMKELRQRKIPFTIRRYLPDMSYEEWGVDELIVED*
+>P1;gi|38106302|gb|EAA52629.1| hypothetical protein MG05321.4 [Magna... [ score 131 E 4e-30 ] [ range 1 .. 150 ]
+sequence
+MSDFGGDDDMGGFDDVEPEEIFDEDANVVVSGDPNAAARATGQKLSPNDKRTTTPFMTKYEKARILGTRA
+LQISMNAPVLVDLEGETDPLQIAIKELAEKKIPLIIRRYMPDGYYEDWTCEELL---*
+>P1;gi|17864588|ref|NP_524910.1| RNA polymerase II 18kD subunit CG11... [ score 131 E 4e-30 ] [ range 7 .. 130 ]
+sequence
+---DNDDVGGDDFDDVDEDVDEDINQEEEADNIEIIAPGGAGGGGVPKSKRITTKYMTKYERARVLGTRA
+LQIAMCAPIMVELDGETDPLQIAMKELKQKKIPIIIRRYLPDHSYEDWSIDELIMVD*
+>P1;gi|25140279|gb|AAM77737.2| RNA polymerase II subunit Rpb6 [Giard... [ score 130 E 5e-30 ] [ range 18 .. 104 ]
+sequence
+-------------------------------------------KPADPDKRITPRYLTKFEQARILGTRA
+YQLSMGAPAHITITGHLDPLVLARRELANNAIPIIIRRHLPDGTYEDWKLSELHIID*
+>P1;gi|15242235|ref|NP_200007.1| DNA-directed RNA polymerase II, put... [ score 130 E 6e-30 ] [ range 4 .. 135 ]
+sequence
+--EDYNDVDDLGYEDEGVEEDVEMKENDDVNGEP-IEAEDKVETEPVQRPRKTSKFMTKYERARILGTRA
+LQISMNAPVMVELEGETDPLEIAMKELRQRKIPFTIRRYLPDGSFEEWGVDELIVED*
+>P1;gi|23485934|gb|EAA20655.1| Plasmodium vivax PV1H14085_P [Plasmod... [ score 125 E 2e-28 ] [ range 1 .. 136 ]
+sequence
+--------MGDEFGQGVDSDEGENYENDIDIIADNKYDYENCEGNEEN-IRITSPYLTKYEKARIIGTRA
+LQISLNAPLTIPIETNNDPLVIAERELYNKSIPFILRRYLPNGSYEDWRLDELII--*
+>P1;gi|44176376|gb|EAH53744.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 1 .. 137 ]
+sequence
+MEEDHEDYGDDDLPDEDADEDADAREVIESDERLDGRGRRGLGRAVPRHERTTTPYMTKYERARILGTRA
+LQISMNAPVLVQLEGETDPLEIAGKELREKRVPFIVRRYMPDGSYEDWGLEELIVAD*
+>P1;gi|13812224|ref|NP_113355.1| DNA-DIRECTED RNA POLYMERASES I, II,... [ score 124 E 4e-28 ] [ range 1 .. 124 ]
+sequence
+---------------MSEIESLESISSVSVENEVDSEMISN-EFPEKSDFRMTLPILTKYEKARILGARA
+LQISMGAPILTEVNTLSDSLDIASKELYERKIPITIRRYLPNGRYEDWKIEELI---*
+>P1;gi|44431372|gb|EAJ22236.1| unknown [environmental sequence] [ score 122 E 1e-27 ] [ range 18 .. 157 ]
+sequence
+-AEDTDTENGDEDEDEEEEQPLEKIDFDLKENYDEVYNLSKVVRNKNNEIHKTIPFLTKYEKAKILGMRA
+NQINTGGKPFITLDSNIDGFVIAQMELEQKKIPFIIRRPMPNGGSEYWKISDL----*
+>P1;gi|29841200|gb|AAP06213.1| similar to NM_080171 RNA polymerase I... [ score 122 E 1e-27 ] [ range 3 .. 123 ]
+sequence
+-----DEYGGDDFESDEEDEVPDDDLDTKPDGTDEVPRLSSGQAPVEKSKRITTPYLTKYERARVLGARA
+LQLSMSAPVMVELDGERDPLKIAEKELRANKIPIIIRRFLPDWEF------------*
+>P1;gi|40743999|gb|EAA63181.1| hypothetical protein AN2747.2 [Asperg... [ score 119 E 9e-27 ] [ range 23 .. 149 ]
+sequence
+-----DDIEPEDFLNPEDIEGEEGVSGDPNAGYSGKVVEQARAKKIPNDQRTTTPYMTKYERARVLGTRA
+LQISLNAPVLVDLEGETDPLQIAMKELAQKKIPLIVRRYLPDGT-------------*
+>P1;gi|42554776|gb|EAA77619.1| hypothetical protein FG06683.1 [Gibbe... [ score 119 E 1e-26 ] [ range 15 .. 139 ]
+sequence
+---DDAMYEDEEINDYYDPEPADDGENQQENQDDNINAVKGGDRLLKDKKRTTTPYMTKYERARILGTRA
+LQISMNAPVLVDLEGETDPLQIAIKEMREKKIPLIVRRYMPDG--------------*
+>P1;gi|44022423|gb|EAG70136.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 9 .. 87 ]
+sequence
+--------------------------------------------NKHKRKYQTNPILTKYEKCRVLSERA
+NQINCGGQIYVNTENFTNAYDIAVKEFNEKRIPFIIKRPYGNG-FEYWKLKDL----*
+>P1;gi|43187900|gb|EAC59487.1| unknown [environmental sequence] [ score 106 E 9e-23 ] [ range 8 .. 89 ]
+sequence
+--------------------------------------------NKLKKNNQTNPYLTKYERTRILSERT
+QQIVDGTPLIPNVERFTSAYEIAVEELNTKKLPFIIRRPLPNLSFEYWKLDDLL---*
+>P1;gi|44441517|gb|EAJ29274.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 3 .. 70 ]
+sequence
+-----------------------------------------------------PPTLTRFEKARIMGARA
+LQLSLGAPPFIDIPSAATSLDISMKELEKRVIPITIRRVLPNGDYQNIPL-------*
+>P1;gi|18313953|ref|NP_560620.1| DNA-directed RNA polymerase subunit... [ score 96 E 1e-19 ] [ range 22 .. 100 ]
+sequence
+-----------------------------------------------NKREFYPPRLTKYETARIIGARA
+LQLAMGAQPLVDIQGSVDPVLIAMEELRRGLLDFIIVREMPDGKTMRIRLKELL---*
+>P1;gi|38569908|gb|AAR24478.1| predicted DNA-directed RNA polymerase... [ score 92 E 2e-18 ] [ range 76 .. 166 ]
+sequence
+---------------------------TKDLQHEVVEITSDGGHVI-----VGPITLTRFEKARIMGARA
+LQLSLGAPVFVEIKNTTTSLQIAMEELKKRVIPIVIKRTLPNQDYQNIPLDK-----*
+>P1;gi|34905016|ref|NP_913855.1| P0456B03.16 [Oryza sativa (japonica... [ score 88 E 3e-17 ] [ range 56 .. 130 ]
+sequence
+-------------------------EEPENNNEDAVDDVVGAEDDREQEKTKTSKYMTKYERARILSTRA
+LQISMNAPVMVELEGGTYPLEVEALE-------------------------------*
+>P1;gi|730614|sp|P39463|RPOK_SULAC DNA-directed RNA polymerase subun... [ score 54 E 8e-07 ] [ range 18 .. 81 ]
+sequence
+--------------------------------------------------------LTKYEIARIISARA
+LQYLWS----LTTDTYFYPISIARG-IKRGVLPITIRRIYPNGQVELISV-------*
+>P1;gi|9628177|ref|NP_042763.1| RNA polymerase subunit 6 [African sw... [ score 48 E 4e-05 ] [ range 4 .. 121 ]
+sequence
+-NDNEDIIMDDFVDSEEESEDKDEIVESPSICEGFVQASSQTLVIIPDNERITSNVLTTFEATRLVAVRA
+QQLAINGSTMLK-KKYSSPIDIAKQELFNRKIPLLVMR-------------------*
+>P1;gi|585916|sp|Q08399|RPB6_ASFM2 DNA-directed RNA polymerase, subu... [ score 47 E 8e-05 ] [ range 4 .. 125 ]
+sequence
+-NDNEDVIMDDEEESEDKSEDKDEIVESPSICEGFVQASSQTLVIIPDNERITSNVLTTFEATRLVAVRA
+QQLAINGSTMLK-KKYSSPIDIAKQELFNRKIPLLVMR-------------------*

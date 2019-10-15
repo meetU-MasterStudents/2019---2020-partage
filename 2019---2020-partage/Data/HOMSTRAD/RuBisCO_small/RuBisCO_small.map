@@ -1,0 +1,2390 @@
+>P1;1bxni
+structureX:1bxn:   1 :I: 129 :I:ribulose bisphosphate carboxylase small chain:Alcaligenes eutrophus: 2.7: 26.6
+--------MRITQGTFSFLPELTDEQITKQLEYCLNQGWAVGLEYTD--DPHP----------------R
+NTYWEMFGLPMFDLRDAAGILMEINNARNTFPNHYIRVTAFDST--HTVESVVMSFIVNRPADEPGFRLV
+RQEEPGRTLRYSIESYA---------*
+>P1;1bwvs
+structureX:1bwv:   8 :S: 155 :S:ribulose bisphosphate carboxylase:Galdieria partita: 2.40: 16.3
+--------VRITQGTFSFLPDLTDEQIKKQIDYMISKKLAIGIEYTN--DIHP----------------R
+NAYWEIWGLPLFDVTDPAAVLFEINACRKARSNFYIKVVGFSSVRGIESTIISFIVNRPK--HEPGFNLM
+RQEDKSRSIKYTIHSYESYKPEDERY*
+>P1;8ruci
+structureX:8ruc:   1 :I: 123 :I:ribulose-1,5-bisphosphate carboxylase-oxygenase:Spinacia oleracea: 1.6: 21.1
+-MQVWPILNLKKYETLSYLPPLTTDQLARQVDYLLNNKWVPCLEFET-DHGFVYREHHN-----SPGYYD
+GRYWTMWKLPMFGCTDPAQVLNELEECKKEYPNAFIRIIGFDSN--REVQCISFIAYKPAGY--------
+--------------------------*
+>P1;1burs
+structureX:1bur:   1 :S: 123 :S:ribulose-1,5-bisphosphate carboxylase small chain 2:Spinacia oleracea: -1: -1
+-MQVWPILGMKKYETLSYLPPLTTEQLLAEVNYLLVNNWIPCLEFEV-KDGFVYREHLK-----SPGYYD
+GRYWTMWKLPMFGCTDPAQVLNELEECKKAYPDAFIRIIGFDNK--RQVQCISFIAYKPAGY--------
+--------------------------*
+>P1;3rubs
+structureX:3rub:   1 :S: 123 :S:ribulose-1,5-bisphosphate carboxylase-oxygenase (form III):Nicotiana tabacum, variant Turkish Samsun: 2.0: -1
+-MQVWPPINKKKYETLSYLPDLSQEQLLSEVEYLLKNGWVPCLEFET-EHGFVYRENNK-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLAEVEEAKKAYPQAWIRIIGFDNV--RQVQCISFIAYKPEGY--------
+--------------------------*
+>P1;1gk8i
+structureX:1gk8:   2 :I: 126 :I:ribulose-1,5 bisphosphate carboxylase-oxygenase:Chlamydomonas reinhardtii: 1.4: 14.9
+--MVWTPVNNKMFETFSYLPPLTDEQIAAQVDYIVANGWIPCLEFAEADKAYVSNESAIRFGSVSCLYYD
+NRYWTMWKLPMFGCRDPMQVLREIVACTKAFPDAYVRLVAFDNQ--KQVQIMGFLVQRP-----------
+--------------------------*
+>P1;1rblm
+structureX:1rbl:   2 :M: 122 :M:ribulose 1,5 bisphosphate carboxylase-oxygenase:Synechococcus, Strain Pcc 6301: 2.2: 20.0
+SMKTLPK--ERRFETFSYLPPLSDRQIAAQIEYMIEQGFHPLIEFNE--HSNP----------------E
+EFYWTMWKLPLFACAAPQQVLDEVRECRSEYGDCYIRVAGFDNI--KECQTSSFIVHRPGR---------
+--------------------------*
+>P1;gi|19919152|gb|AAM08169.1| ribulose 1,5-bisphosphate carboxylase... [ score 233 E 7e-61 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQIEYAISKGWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDTATVMDEVASCRKAHSSIYIKINAFDNT--RGVESCVLSFLVNRPSHEPGFELI
+RSEDIGRNQKYTFRSYA---------*
+>P1;gi|19919148|gb|AAM08167.1| ribulose 1,5-bisphosphate carboxylase... [ score 232 E 1e-60 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQIEYAISKGWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDTAGVMQEVANCRKAHSSIYIKINAFDNT--RGVESCVLSFLINRPSHEPGFELI
+RSEDIGRNQKYTFRSYA---------*
+>P1;gi|730479|sp|Q09125|RBS_PORAE Ribulose bisphosphate carboxylase ... [ score 229 E 7e-60 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDAQIQKQVQYAVSKKWAVSVEYTD--DPHP----------------R
+NSFWELWGLPLFDVKDASALMYEIAACRKAKPNYYIKVNAFDNT--RGVESCCLSFIINRPINEPGFHLE
+RQEVQGRNILYTIKSYA---------*
+>P1;gi|19919168|gb|AAM08177.1| ribulose 1,5-bisphosphate carboxylase... [ score 229 E 1e-59 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDFTDEQITKQIEYAISQNWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDTATVMYEVNNCRKAHSSVYIKINAFDNT--RGVESCVLSFIINRPAHEPGFELI
+RSEDIGRNQKYTFRSYA---------*
+>P1;gi|19919172|gb|AAM08179.1| ribulose 1,5-bisphosphate carboxylase... [ score 229 E 1e-59 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQIDYAISQNWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDAQTVMYEMNSCRKQYSNLYIKVNAFDNT--RGVESCVLSFLVNRPSYEPGFELI
+RSEDIGRNQKYSFRSYA---------*
+>P1;gi|19919146|gb|AAM08166.1| ribulose 1,5-bisphosphate carboxylase... [ score 228 E 2e-59 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQITYAISKGWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIQDVATVMYEVNNCRKTHSSIYIKINAFDNT--RGIESCVLSFLINRPSHEPGFELI
+RSEDIGRNQKYTFRSYA---------*
+>P1;gi|19919154|gb|AAM08170.1| ribulose 1,5-bisphosphate carboxylase... [ score 228 E 2e-59 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIQKQIEYAISNSWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDVATVMYEVNNCRKAHSSIYIKINAFDNT--RGVESCVLSFLINRPSHEPGFELI
+RSEDIGRNQKYTFRSYA---------*
+>P1;gi|39934630|ref|NP_946906.1| ribulose-bisphosphate carboxylase s... [ score 228 E 2e-59 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGCFSFLPDLTDEQIAAQVQYALSKGWAVNLEFTD--DPHP----------------R
+NTYWDMWGLPMFDLQDAAGVMMELNECRKIYGDRYIRLSAFDSS--HGWESVRLSFIVNRPKDEPGFRLD
+RQESDGRNMRYTTRAYS---------*
+>P1;gi|34393787|dbj|BAC84936.1| ribulose 1,5-bisphosphate carboxylas... [ score 226 E 1e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDQQINKQLAYIVSRGWSANVEYTD--DPHP----------------R
+NSYWELWGLPLFDVKDASAVMYEINSCRKAKPSYYVKVNAFDNT--RGVESCCMSFIVNRPANEPGFLLQ
+RQDFEGRTMKYTLHSYA---------*
+>P1;gi|19919164|gb|AAM08175.1| ribulose 1,5-bisphosphate carboxylase... [ score 225 E 1e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDFTDEQIVKQIEYAISENWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIQDSATVMYEVNNCRKAHSSVYIKINAFDNT--RGIESCVLSFIINRPAHEPGFELI
+RSEDIGRNQKYTFRSYA---------*
+>P1;gi|11467654|ref|NP_050706.1| ribulose 1,5-bisphosphate carboxyla... [ score 225 E 1e-58 ] [ range 1 .. 130 ]
+sequence
+--------MRLTQGAFSFLPDLTDEQIVKQIQYAISKNWALNVEWTD--DPHP----------------R
+NAYWDLWGLPLFGIKDPAAVMFEINACRKAKPACYVKVNAFDNS--RGVESCCLSFIVQRPSNEPGFQLI
+RSEVDSRNIRYTIQSYA---------*
+>P1;gi|132152|sp|P23652|RBS_PYLLI Ribulose bisphosphate carboxylase ... [ score 225 E 2e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRVTQGCFSFLPDLSDEQIKLQVGYAMSKGWAVSVEWTD--DPHP----------------R
+NSYWELWGLPLFDVKDPAAVMYELAECRKVNPEGYIKINAFDAS--IGTESCVMSFIVQRPINEPGFYLE
+RNEVQGRNIQYTISSYA---------*
+>P1;gi|43374497|gb|EAD52106.1| unknown [environmental sequence] [ score 224 E 2e-58 ] [ range 1 .. 130 ]
+sequence
+--------MRLTQGAFSFLPDLTDEQIVKQIQYAISKGWALNVEFTD--DPHP----------------R
+NSYWDLWGLPLFGVKDPAAVMFEINSCRKAKPAYYVKVNAFDNS--RGVESCCLSFIVQRPSNEPGFQLQ
+RQESDSRNIRYTIQSYA---------*
+>P1;gi|19919170|gb|AAM08178.1| ribulose 1,5-bisphosphate carboxylase... [ score 224 E 2e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQITKQIEYAISLNWSINIEYTD--DPHP----------------R
+NNYWELWGLPLFDIQDASKVTYEINNCRKKYSDQYIKLNAFDNT--RGVESCVLSFIINRPSNEPGFELV
+RSEDIGRNQKYSFRSYA---------*
+>P1;gi|42958577|gb|EAB46251.1| unknown [environmental sequence] [ score 224 E 3e-58 ] [ range 1 .. 129 ]
+sequence
+--------MKLTQGCFSFLPDLTDEQITKQIQYAIDKSWAVSIEFTD--DPHP----------------R
+NNYWEMWGLPLFDIKDAAAILFEINMCRKAKPNFYVKVAAFDNT--RGTESCCSSFIVQRPAYEPGFRLV
+RQEVAGRKLVYTIEAYA---------*
+>P1;gi|132141|sp|P24683|RBS_CYLSN Ribulose bisphosphate carboxylase ... [ score 224 E 3e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGCFSFLPDLTDEQIEKQVNYAISKGWAMNVEWTD--DPHP----------------R
+NNYWELWGLPLFDIKDPASVMFELQEARKACAAGYIRMNAFDAS--YGTESCVMSFIVNRPANEPGFYLE
+RAEGKGRQINYTIKSYS---------*
+>P1;gi|132134|sp|P25458|RBS_ANTSP Ribulose bisphosphate carboxylase ... [ score 224 E 3e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQIAYAVSQNWAINIEFTD--DPHP----------------R
+NNYWELWGLPLFDINDVESVMYELESCRKQHSGLYIKINAFDNT--RGVESCVLSFIINRPSYEPGFELI
+RSEDIGRNQKYSFRSYA---------*
+>P1;gi|19919174|gb|AAM08180.1| ribulose 1,5-bisphosphate carboxylase... [ score 224 E 4e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQIEYAIANNWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDLPDASTVIYEINNCCKQHSSLYVKVNAFDNT--RGVESCVLSFIVNRPSYEPGFELI
+RSEDIGRNQKYSFRSYA---------*
+>P1;gi|4096344|gb|AAD04747.1| ribulose-1,5-bisphosphate carboxylase,... [ score 224 E 4e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGAFSFLPDLTDDQISKQVSYAMGKGWSVNIEYTD--DPHP----------------R
+NSYWELWGLPLFDIPDAPTVMYEISSCRKAHPGVYIKVNAFDNT--RGVESCSLSFIINRPASEPGFGLL
+RTEDIGRNQKYAIHSYA---------*
+>P1;gi|34393757|dbj|BAC84916.1| ribulose 1,5-bisphosphate carboxylas... [ score 223 E 4e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQINKQLAYIVSKGLSANVEYTD--DPHP----------------R
+NSYWELWGLPLFDVKDASAVMYEISSCRKAKPNYYVKVNAFDNT--RGIESCVMSFIVNRPANEPGFLLQ
+RQDFEGRTMKYSLHSYA---------*
+>P1;gi|30468059|ref|NP_848946.1| ribulose 1,5-bisphosphate carboxlya... [ score 223 E 7e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRVTQGTFCYLPDLTDEQIRKQIQYAINQGWAVSVEYTD--DPHP----------------R
+NSYWEMWGLPLFDVKDPATIMFEVQECRKQFPNHYIKVLAFNST--KGIESTALSFIVNRPANEPGFVLR
+RIESNDRVQRYQIHSYA---------*
+>P1;gi|11465693|ref|NP_053837.1| ribulose 1,5-bisphosphate carboxlya... [ score 222 E 9e-58 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGAFSFLPDLTDQQINKQLAYIVSKGWSANVEYTD--DPHP----------------R
+NAYWELWGLPLFDVKDPAAVMYEINSCRKAKPSYYVKVNAFDNT--RGVESCSMSFIVNRPANEPGFLLQ
+RQDFEGRTMKYTLHSYA---------*
+>P1;gi|34393775|dbj|BAC84928.1| ribulose 1,5-bisphosphate carboxylas... [ score 221 E 3e-57 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQISKQLTYIVSKGLSANVEYTD--DPHP----------------R
+NSYWELWGLPLFDVKDASAVMYEISSCRKAKPNYYIKVNAFDNT--RGIESCVMSFIVNRPINEPGFLLQ
+RQDFEGRTMKYSLHSYA---------*
+>P1;gi|585792|sp|P37394|RBS_CYACA Ribulose bisphosphate carboxylase ... [ score 220 E 4e-57 ] [ range 1 .. 129 ]
+sequence
+--------MRVTQGTFSFLPDLTNDQIRKQIQYAINKGWALSVEYTD--DPHP----------------R
+NSYWEMWGLPLFDVKDPAAIMFEVEACRKEKSNYYIKLLAFDST--KGVESTAMSFMVNRPAHEPGFVLR
+RIESNDRVQRYQIHSYA---------*
+>P1;gi|34393790|dbj|BAC84938.1| ribulose 1,5-bisphosphate carboxylas... [ score 220 E 4e-57 ] [ range 1 .. 129 ]
+sequence
+--------MRVTQGTFSFLPDLTDEQINKQLAYIVSKGFSANVEYTD--DPHP----------------R
+NSYWELWGLPLFDVKDASAVMYEISSCRKAKPNYYIKVNAFDNT--RGIESCVLSFIVNRPINEPGFLLQ
+RQDFEGRTMKYSLHSYA---------*
+>P1;gi|132142|sp|P24395|RBS_ECTSI Ribulose bisphosphate carboxylase ... [ score 220 E 4e-57 ] [ range 1 .. 129 ]
+sequence
+--------MRVTQGCFSFLPDLSDDQIKQQVSYAMSKGWAVSVEWTD--DPHP----------------R
+NSYWELWGLPLFDVKDPAAVMYELAECRKVNPEGYIKINAFDAS--IGTESCVMSFIVQRPITEPGFYLE
+RNEIHGRNIQYTISSYA---------*
+>P1;gi|2541894|dbj|BAA22829.1| ribulosebiphosphate carboxylase small... [ score 220 E 5e-57 ] [ range 1 .. 129 ]
+sequence
+--------MRVTQGTFCYLPDLTDEQIRKQLQYAINNGWALSVEYTD--DPHP----------------R
+NSYWEMWGLPLFDVKDPATVMFEVQECRKQYPNYYIKVLAFNST--KGIESTALSFIVNRPVHEPGFVLK
+RIESNDRVQRYTVHSYA---------*
+>P1;gi|38638087|ref|NP_943061.1| ribulose-1,5-bisphosphate carboxyla... [ score 219 E 1e-56 ] [ range 1 .. 129 ]
+sequence
+--------MRITQGTFSFLPDLTDAQITSQLEYCLNQGWAVGIEYTD--DPHP----------------R
+NTYWEMFGLPMFDLRDAAGILLEINNARSTFPNHYIRVTAFDST--HTVESVVMSFIVNRPADEPGFRLV
+RQEEPGRTIRYSIESYA---------*
+>P1;gi|10716878|gb|AAG21944.1| ribulose-1,5-bisphosphate carboxylase... [ score 218 E 2e-56 ] [ range 1 .. 129 ]
+sequence
+--------MRVTQGCFSFLPDLSDEQIKKQIEYAVNKGWAISIEWSD--DPHP----------------R
+NTYWELWGLPLFDIKDSSAVLYEITECRRVNPEGYMKINAFDAS--IGTESCVMSFIVQRPNEEPGFYLE
+RTEVAGRSIQYTIKSYS---------*
+>P1;gi|14285703|sp|O98948|RBS_THANO Ribulose bisphosphate carboxylas... [ score 218 E 2e-56 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGCFSFLPDLTDTQIEKQVAYAMNKGWAMNVEWTD--DPHP----------------R
+NNYWELWGLPLFDIKDPATVMFELNEARKSCASGYIRINAFDAS--YGVESCVMSFITNRPATEPGFYLD
+RTEGPGRQVIYSIKSYS---------*
+>P1;gi|16611904|gb|AAL27402.1| ribulose-1,5-bisphosphate carboxylase... [ score 216 E 8e-56 ] [ range 8 .. 135 ]
+sequence
+---------RVTQGQFSFLPPLTDKQISAQIKYALKNGWAIGIEYTD--DPHP----------------R
+NTYWEMFGNPMFDLKDPAGILSEINDCRKTYPNHYIRVTAFNSA--RGVESPTMSYIVNRPKSEPGFGLV
+RQEVEGRSIRYTIHSYA---------*
+>P1;gi|30749270|pdb|1IWA|B Chain B, Rubisco From Galdieria Partita >... [ score 216 E 1e-55 ] [ range 1 .. 128 ]
+sequence
+--------MRITQGTFSFLPDLTDEQIKKQIDYMISKKLAIGIEYTN--DIHP----------------R
+NAYWEIWGLPLFDVTDPAAVLFEINACRKARSNFYIKVVGFSSV--RGIESTIISFIVNRPKHEPGFNLM
+RQEDKSRSIKYTIHSY----------*
+>P1;gi|6319189|gb|AAF07201.1| ribulose-1,5-bisphosphate carboxylase/... [ score 215 E 1e-55 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGCFSFLPDLTDQQIEKQIAYCITKGWAMNVEWTD--DPHP----------------R
+NSNWELWGLPLFDVKDPASVMFELREARKSCAAGYIRINAFNAA--YGTESCVMSFIVNRPSNEPGFYLE
+RQELEGRRIAYTTKSYS---------*
+>P1;gi|12751547|ref|NP_043653.2| ribulose 1,5-bisphosphate carboxlya... [ score 215 E 1e-55 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGCFSFLPDLTDQQIEKQIAYCIDKGWAMNVEWTD--DPHP----------------R
+NSYWELWGLPLFDIKDIASVMFELSEARKSCANGYIRMNAFDAS--YGTESCVMSFIVSRPSNEPGFYLE
+RTEGAGRFITYTIKRYS---------*
+>P1;gi|132149|sp|P14961|RBS_OLILU Ribulose bisphosphate carboxylase ... [ score 215 E 2e-55 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGAFSYLPDLTDAQIIKQIDYCLSRGWSVGVEWTD--DPHP----------------R
+NAYWELWGLPLFDVKDSSAILYEVNECRRLNPEGYIKLVAFNAA--RGTESSASAFIVQRPKSEPGFYLE
+RTEAEGRMIRYTIHSYA---------*
+>P1;gi|44102370|gb|EAH13948.1| unknown [environmental sequence] [ score 215 E 2e-55 ] [ range 1 .. 129 ]
+sequence
+--------MKIRQGAFSFLPDLTDAEIHTQVQYCIDNGWAVSVEYTD--DPHP----------------R
+NTYWEMWGHPMFDNPDAAAVVFEVNECRKQFGDYYIRVIAFDST--HGWESIKLSFIVNRPKDEPGFHVS
+REEVKGRSIRYSIKSYA---------*
+>P1;gi|1675202|gb|AAB19096.1| ribulose-1,5-bisphosphate carboxylase/... [ score 214 E 3e-55 ] [ range 1 .. 129 ]
+sequence
+--------MRLREGCFSFLPDLTDQQIEKQITYAINKGWAMNVEWTD--DPHP----------------R
+NNYWELWGLPLFDIKDPASVMFELREARKSCAAGYIRLNAFDAS--YGTESCVMSFIVNRPTSEPGFYLE
+RSEAQGRMIRYTIKSYS---------*
+>P1;gi|44472600|gb|EAJ51245.1| unknown [environmental sequence] [ score 214 E 3e-55 ] [ range 1 .. 129 ]
+sequence
+--------MRITQGTFSFLPDFTDQQIHEQVQYCIDNGWAVSIEYTD--DPHP----------------R
+NTYWEMWGHPMFDNPDAAAVVFELNECRKVYGSYYIRIIAFDSS--PGWESIRLSFIVNRPSQEPGFRLN
+RTETKGRNIQYSMSPYS---------*
+>P1;gi|730478|sp|Q08052|RBS_PLECA Ribulose bisphosphate carboxylase ... [ score 214 E 4e-55 ] [ range 1 .. 129 ]
+sequence
+--------MKLTQGAFSFLPDLTDAQVTKQIQYALNKSWAISIEYTD--DPHP----------------R
+NSYWEMWGLPLFDVKDPAAILFEINMARKAKPNYYLKIACFDNT--RGIESCVLSFIVQRPSYEPGFKMT
+RQEVKGRQLVYTLESYS---------*
+>P1;gi|567190|gb|AAB41465.1| ribulose 1,5-bisphosphate carboxylase s... [ score 214 E 4e-55 ] [ range 1 .. 129 ]
+sequence
+--------MRITQGAFSFLPDLTDTQITAQIQYCLDNGWAVNLEHTD--DPHP----------------R
+NTYWDMWGHPMFDIADAGGVMMELSECRKVHGERYIRMSAFDST--AGWESVKLSFIVNRPANEPGFRLR
+RSEMEGRTIRYTTESYA---------*
+>P1;gi|22989509|ref|ZP_00034563.1| COG4451: Ribulose bisphosphate ca... [ score 214 E 4e-55 ] [ range 1 .. 129 ]
+sequence
+--------MRITQGTFSFLPELTDEEIRLQIDYALSQGWACSVEYTD--DPHP----------------R
+NTYWEMWGLPMFDLRDAAGVLQEVKACRAAQPQHYIKVNAFDSV--RGFETMRLSFIVNRPDEEPGFRLT
+RQDGPGRVQRYGLSGYA---------*
+>P1;gi|14285701|sp|O98946|RBS_DETCO Ribulose bisphosphate carboxylas... [ score 212 E 1e-54 ] [ range 1 .. 129 ]
+sequence
+--------MRLTQGCFSFLPDLTDEQIEKQVACAMSRGLAMNVEWTD--DPHP----------------R
+NNYWELWGLPLFDIKDPATVMFELNEARKSCAAGYIRMNAFDAS--YGTESCVMSFITNRPVSEPGFYLD
+RTEGVGRQIVYSIKSYS---------*
+>P1;gi|7388042|sp|P56890|RBS2_RHIME Ribulose bisphosphate carboxylas... [ score 211 E 3e-54 ] [ range 1 .. 127 ]
+sequence
+--------MRITQGCFSFLPDLTDEQITAQVEYCLGRGWAIGVEYTD--DPHP----------------R
+NTYWEMWGNPMFDLRDAKGVMMEVEDCRKAHPQDYIRLNAFDSS--RGLETVTMSFIVNRPENEPSLRMT
+RTESDGRSQHYTWET-----------*
+>P1;gi|132084|sp|P27998|RBS1_RHOSH Ribulose bisphosphate carboxylase... [ score 210 E 4e-54 ] [ range 1 .. 124 ]
+sequence
+--------MRITQGCFSFLPDLTDEQISAQVDYCLGRGWAVSLEHTD--DPHP----------------R
+NTYWEMWGMPMFDLRDPKGVMIELDECRKAWPGRYIRINAFDST--RGFETVTMSFIVNRPEVEPSLRME
+RTEVDGRSIRYT--------------*
+>P1;gi|132162|sp|P23012|RBS_XANFL Ribulose bisphosphate carboxylase ... [ score 210 E 6e-54 ] [ range 1 .. 131 ]
+sequence
+--------MRITQGTFSFLPDLTAAQVKAQIQYALDQNWAVSVEYTD--DPHP----------------R
+NTYWEMWGLPMFDLRDAAGVYGEVEACRTAHPGKYVRVNAFDSN--RGWETVRLSFIVQRPEKEDGFRLD
+RTEGPGRTQRYALRSYA---------*
+>P1;gi|16263938|ref|NP_436730.1| putative ribulose-1,5-bisphosphate ... [ score 209 E 1e-53 ] [ range 1 .. 127 ]
+sequence
+--------MRITQGCFSFLPDLTDEQITAQVQYCLGKGWAIGVEYTD--DPHP----------------R
+NTYWEMWGNPMFDLKDAKGVMMELEDCRKAHPQDYIRLNAFDSS--RGLETVTMSFIVNRPENEPSLRMT
+RTESNGRSQHYMWET-----------*
+>P1;gi|27377697|ref|NP_769226.1| ribulose 1,5-bisphosphate carboxyla... [ score 209 E 1e-53 ] [ range 1 .. 124 ]
+sequence
+--------MKLTQGCFSFLPDLTDDQIYKQVQYCLAKGWAVNIEFTD--DPHP----------------R
+NTYWEMWGLPMFDLQDAAGVMMELAECRRVYGDRYIRISGFDSS--PGWESVRISFLVNRPPQEAEFELV
+RQEVGGRAIRYT--------------*
+>P1;gi|132139|sp|P23756|RBS_GALSU Ribulose bisphosphate carboxylase ... [ score 209 E 1e-53 ] [ range 1 .. 128 ]
+sequence
+--------MRITQGTFSFLPDLTDEQIKKQIDYMISKKLAIGIEYTN--DIHP----------------R
+NSFWEMWGLPLFEVTDPAPVLFEINACRKAKSNFYIKVVGFSSE--RGIESTIISFIVNRPKHEPGFNLI
+RQEDKSRSIKYSIQAY----------*
+>P1;gi|44536476|gb|EAJ94141.1| unknown [environmental sequence] [ score 192 E 1e-48 ] [ range 1 .. 121 ]
+sequence
+----------------SFLPDLTDDQIHTQVQYCIDNGWAVSLEFTD--DPHP----------------R
+NTYWEMWGHPMFDNPDAAALIFELNECRKIHGDKYIRVMAFDST--HGWESVRLSFIVNRPKEEKGFKLS
+REDTHGRMMRYSITPYS---------*
+>P1;gi|15219826|ref|NP_176880.1| ribulose bisphosphate carboxylase s... [ score 174 E 3e-43 ] [ range 68 .. 180 ]
+sequence
+-------------ETLSYLPDLTDSELAKEVDYLIRNKWIPCVEFES--PGYY----------------D
+GRYWTMWKLPLFGCTDSAQVLKEVEECKKEYPNAFIRIIGFDNT--RQVQCI--SFIAYKPPSFTG----
+--------------------------*
+>P1;gi|15240912|ref|NP_198659.1| ribulose bisphosphate carboxylase s... [ score 169 E 9e-42 ] [ range 68 .. 180 ]
+sequence
+-------------ETLSYLPDLTDVELAKEVDYLLRNKWIPCVEFET--PGYY----------------D
+GRYWTMWKLPLFGCTDSAQVLKEVEECKKEYPGAFIRIIGFDNT--RQVQCI--SFIAYKPPSFTD----
+--------------------------*
+>P1;gi|132085|sp|P26574|RBS1_SOLTU Ribulose bisphosphate carboxylase... [ score 169 E 1e-41 ] [ range 71 .. 178 ]
+sequence
+-------------ETLSYLPDLTDEQLLKEVEYLLKNGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLAEVQECKKSYPQAWIRIIGFDNV--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|132083|sp|P04714|RBS1_PETSP Ribulose bisphosphate carboxylase... [ score 168 E 2e-41 ] [ range 70 .. 180 ]
+sequence
+-------------ETLSYLPDLTDEQLLKEIEYLLNKGWVPCLEFES--PRYY----------------D
+GRYWTMWKLPMFGCTDATQVLGELQEAKKAYPNAWIRIIGFDNV--RQVQCI--SFIAYKP---PGF---
+--------------------------*
+>P1;gi|3914586|sp|O65349|RBS_CAPAN Ribulose bisphosphate carboxylase... [ score 168 E 2e-41 ] [ range 70 .. 177 ]
+sequence
+-------------ETLSYLPDLSDEQLLKEIEYLLQKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLNEVQEAKKAYPQAWIRIIGFDNV--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|480983|pir||S37575 ribulose-bisphosphate carboxylase (EC 4.1.... [ score 168 E 3e-41 ] [ range 68 .. 180 ]
+sequence
+-------------ETLSYLPDLTDVELAKEVDYLLRNKWIPCVEFET--PGYN----------------D
+GRYWTMWKLPLFGCTDSAQVLKEVQECKTEYPNAFIRIIGFDNN--RQVQCI--SFIAYKPPSFTG----
+--------------------------*
+>P1;gi|10946377|gb|AAG24883.1| ribulose-1,5-bisphosphate carboxylase... [ score 168 E 3e-41 ] [ range 68 .. 178 ]
+sequence
+-------------ETLSYLPDLDDAQLAKEVEYLLRKGWIPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDASQVLKELQEAKTAYPNGFIRIIGFDNV--RQVQCI--SFIAYKP---PGF---
+--------------------------*
+>P1;gi|132120|sp|P26575|RBSA_SOLTU Ribulose bisphosphate carboxylase... [ score 167 E 3e-41 ] [ range 70 .. 177 ]
+sequence
+-------------ETLSYLPDLSDEQLLKEVEYLLKNGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLAEVEEAKKAYPQAWIRIIGFDNV--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|132154|sp|P08135|RBS_RAPSA Ribulose bisphosphate carboxylase ... [ score 167 E 3e-41 ] [ range 68 .. 180 ]
+sequence
+-------------ETLSYLPDLSDVELAKEVDYLLRNKWIPCVEFST--PGYY----------------D
+GRYWTMWKLPLFGCTDSAQVLKEVQECKKEYPNALIRIIGFDNN--RQVQCI--SFIAYKPPSFTD----
+--------------------------*
+>P1;gi|3914583|sp|Q43832|RBS2_SPIOL Ribulose bisphosphate carboxylas... [ score 167 E 3e-41 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPPLTTDQLARQVDYLLNNKWVPCLEFET--DGYY----------------D
+GRYWTMWKLPMFGCTDPAQVLNELEECKKEYPNAFIRIIGFDSN--RQVQCV--SFIAYKPA--------
+--------------------------*
+>P1;gi|132091|sp|P27985|RBS2_BRANA Ribulose bisphosphate carboxylase... [ score 167 E 6e-41 ] [ range 68 .. 180 ]
+sequence
+-------------ETLSYLPDLTEVELGKEVDYLLRNKWIPCVEFST--PGYY----------------D
+GRYWTMWKLPLFGCTDSAQVLKEVQECKTEYPNAFIRIIGFDNN--RQVQCI--SFIAYKPPSFTG----
+--------------------------*
+>P1;gi|3914604|sp|Q40250|RBS_LACSA Ribulose bisphosphate carboxylase... [ score 166 E 9e-41 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPPLSDEALSKEIDYLIRNKWIPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKEVGECKKEYPNAFIRVIGFDNI--RQVQCI--SFIVAKPP--------
+--------------------------*
+>P1;gi|132113|sp|P12468|RBS4_SOYBN Ribulose bisphosphate carboxylase... [ score 166 E 1e-40 ] [ range 68 .. 177 ]
+sequence
+-------------ETLSYLPDLDDAQLAKEVEYLLRKGWIPCLEFEL--EGYY----------------D
+GRYWTMWKLPMFGCTDASQVLKELQEAKTAYPNGFIRIIGFDNV--RQVQCI--SFIAYKPPS-------
+--------------------------*
+>P1;gi|30421141|gb|AAP31053.1| ribulose-1,5-bisphosphate carboxylase... [ score 165 E 1e-40 ] [ range 63 .. 173 ]
+sequence
+-------------ETLSYLPELTEAQLAKEIDYLIRNKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKELQECKKEYPQAWIRIIGFDNV--RQVQCV--SFIASKP---TGF---
+--------------------------*
+>P1;gi|3914576|sp|Q39743|RBS1_FLAPR Ribulose bisphosphate carboxylas... [ score 165 E 1e-40 ] [ range 63 .. 170 ]
+sequence
+-------------ETLSYLPDLTEVQLAKEVDYLLRNKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKELQECKKEYPQAWIRIIGFDNV--RQVQCI--SFIASKP---------
+--------------------------*
+>P1;gi|30421144|gb|AAP31054.1| ribulose-1,5-bisphosphate carboxylase... [ score 165 E 1e-40 ] [ range 63 .. 173 ]
+sequence
+-------------ETLSYLPELTEAQLAKEVDYLIRNKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKELQECKKEYPQAWIRIIGFDNV--RQVQCV--SFIASKP---TGF---
+--------------------------*
+>P1;gi|24940138|emb|CAD11990.1| rubisco small subunit [Coffea arabic... [ score 165 E 2e-40 ] [ range 71 .. 179 ]
+sequence
+-------------ETLSYLPDLTDEQLLKEIDYLIRSGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMYGCTDATQVLNEVGECLKEYPNCWVRIIGFDNV--RQVQCI--SFIAAKPK--------
+--------------------------*
+>P1;gi|6635351|gb|AAF19793.1| ribulose-1,5-bisphosphate carboxylase/... [ score 165 E 2e-40 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPPLSDEALSKEIDYLIRNKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKEVGECKKEYPNAFIRVIGFDSV--RQVQCI--SFIVSKPP--------
+--------------------------*
+>P1;gi|132104|sp|P07180|RBS3_LYCES Ribulose bisphosphate carboxylase... [ score 164 E 3e-40 ] [ range 70 .. 177 ]
+sequence
+-------------ETLSYLPDLSDEQLLSEIEYLLKNGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLAEVQEAKKAYPQAWVRIIGFDNV--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|4038691|dbj|BAA35162.1| ribulose-1,5-bisphosphate carboxylase... [ score 164 E 4e-40 ] [ range 55 .. 162 ]
+sequence
+-------------ETLSYLPPLTTEALLKQVDYLIRSKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLNEVEEVKKEYPDAYVRIIGFDNL--RQVQCV--SFIAFRPP--------
+--------------------------*
+>P1;gi|28139169|gb|AAO25119.1| ribulose-1,5-bisphosphate carboxylase... [ score 164 E 4e-40 ] [ range 69 .. 176 ]
+sequence
+-------------ETLSYLPPLTETQLAKEVEYLLRNKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCNDASQVLKELNECKKEYPQSWVRIIGFDNV--RQVQCI--SFIAHKP---------
+--------------------------*
+>P1;gi|23398556|gb|AAH38257.1| Unknown (protein for MGC:47002) [Mus ... [ score 164 E 4e-40 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPPLTTEQLLAEVNYLLVKGWIPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDPAQVVNEVEEVKKAYPDAFVRIIGFDNK--RQVQCI--SFIAYKPS--------
+--------------------------*
+>P1;gi|585791|sp|Q08186|RBS6_MESCR Ribulose bisphosphate carboxylase... [ score 164 E 4e-40 ] [ range 74 .. 183 ]
+sequence
+-------------ETLSYLPPLSEESLLKEVQYLLNNGWVPCLEFET--PGYY----------------D
+GRYWTMWKLPMFGCTDPSQVVAELEEAKKAYPEAFIRIIGFDNV--RQVQCV--SFIAYKPAS-------
+--------------------------*
+>P1;gi|6409339|gb|AAF07947.1| ribulose-1,5-bisphosphate carboxylase ... [ score 164 E 5e-40 ] [ range 55 .. 162 ]
+sequence
+-------------ETLSYLPPLTEEALLKQIDFLIRSKWVPCLEFSK--PGYY----------------D
+GRYWTMWKLPMFGCTDASQVIKEVEEVKKEYPDAYVRIIGFDNI--RQVQCV--SFIAFKPP--------
+--------------------------*
+>P1;gi|3914601|sp|O65194|RBS_MEDSA Ribulose bisphosphate carboxylase... [ score 163 E 5e-40 ] [ range 70 .. 179 ]
+sequence
+-------------ETLSYLPPLTEEQLAKEVEYLIRKGWIPCLEFES--PGYY----------------D
+GRYWTMWRLPLFGATDSSQVLKELADCKAEYPDSFIRIIGFDNV--RQVQCI--SFIAHTPKN-------
+--------------------------*
+>P1;gi|4090293|emb|CAA10497.1| hypothetical protein [Secale cereale] [ score 163 E 6e-40 ] [ range 60 .. 167 ]
+sequence
+-------------ETLSYLPPLTTEALLKQVDYLIRSKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVINEVEEVKKEYPDAYVRIIGFDNM--RQVQCV--SFIAFKPP--------
+--------------------------*
+>P1;gi|132071|sp|P10647|RBS0_SOLTU Ribulose bisphosphate carboxylase... [ score 163 E 6e-40 ] [ range 71 .. 178 ]
+sequence
+-------------ETLSYLPDLSDEQLLKEVEYLLKNGWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDGTQVLAEVQEAKNAYPQAWIRIIGFDNV--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|19464|emb|CAA38346.1| ribulose bisphosphate carboxylase [Lari... [ score 163 E 9e-40 ] [ range 62 .. 170 ]
+sequence
+-------------ETLSYLPRLTPEQLVKEVEYLLKNKWVPCLEFEE--DGYY----------------D
+GRYWVMWKLPMFGCTEASQVLNEVNECAKAYPNAYIRVIGFDNV--RQVQCI--SFIVHKPEY-------
+--------------------------*
+>P1;gi|132096|sp|P18566|RBS2_ORYSA Ribulose bisphosphate carboxylase... [ score 162 E 1e-39 ] [ range 60 .. 167 ]
+sequence
+-------------ETLSYLPPLTVEDLLKQIEYLLRSKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLKELEEAKKAYPDAFIRIIGFDNV--RQVQ--LISFIAYKPP--------
+--------------------------*
+>P1;gi|132145|sp|P08705|RBS_HELAN Ribulose bisphosphate carboxylase ... [ score 162 E 1e-39 ] [ range 68 .. 175 ]
+sequence
+-------------ETLSYLPPLTETQLAKEVDYLLRKKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKELAECKKEYPQAWIRIIGFDNV--RQVQCIM--FIASRP---------
+--------------------------*
+>P1;gi|3914574|sp|O22572|RBS2_FRIAG Ribulose bisphosphate carboxylas... [ score 162 E 1e-39 ] [ range 72 .. 178 ]
+sequence
+-------------ETLSYLPTLSVESLLKQIEYLIRNGWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDAAQVVKEAAECKKEYPAAFIRVIGFDNV--RQVQCV--SFIVEKP---------
+--------------------------*
+>P1;gi|464595|sp|Q02980|RBS_MALSP Ribulose bisphosphate carboxylase ... [ score 162 E 1e-39 ] [ range 73 .. 181 ]
+sequence
+-------------ETLSYLPPLSTESLAKEVDYLLRKNWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSSQVLKELEEAKKAYPQSFIRIIGFDNV--RQVQCI--SFIAYKPA--------
+--------------------------*
+>P1;gi|132138|sp|P08474|RBS_CUCSA Ribulose bisphosphate carboxylase ... [ score 162 E 1e-39 ] [ range 72 .. 179 ]
+sequence
+-------------ETLSYLPDMSNEQLSKECDYLLRNGWVPCVEFRS--PGFY----------------D
+GRYWTMWKLPMFGCTDSSQVIQEIEEAKKEYPDAFIRVIGFDNV--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|4038725|dbj|BAA35179.1| ribulose-1,5-bisphosphate carboxylase... [ score 162 E 1e-39 ] [ range 54 .. 161 ]
+sequence
+-------------ETLSYLPPLSTEALLKQIDYLIRSKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDASQVIKELEEVKKEYPDAYVRIIGFDNL--RQVQCV--SFIAFKPP--------
+--------------------------*
+>P1;gi|1352821|sp|P31333|RBS_GOSHI Ribulose bisphosphate carboxylase... [ score 162 E 1e-39 ] [ range 72 .. 180 ]
+sequence
+-------------ETLSYLPDLTPVQLAKEVDYLLRSKWIPCLEFSL--PTYY----------------D
+GRYWTMWKLPMFGCTDSAQVLEELENCKKEYPNAFIRIIGFDNV--RQVQCI--SFIAYKPK--------
+--------------------------*
+>P1;gi|3928152|emb|CAA10290.1| ribulose 1,5-bisphosphate carboxylase... [ score 162 E 2e-39 ] [ range 71 .. 180 ]
+sequence
+-------------ETLSYLPPLTEEQLLKEVEYLLRKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPLFGCTEAVQVLKELQEVVKAYPNAFVRIIGFDNV--RQVQCI--SFIAHTPKE-------
+--------------------------*
+>P1;gi|81885|pir||S20508 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 162 E 2e-39 ] [ range 70 .. 180 ]
+sequence
+-------------ETLSYLPPLTKQQLAKEVDYLLRKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSSQVLKELYEAQTAHPDGFIRIIGFDNV--RQVQCI--SFIAYKP---PGY---
+--------------------------*
+>P1;gi|30013663|gb|AAP03874.1| putative ribulose bisphosphate carbox... [ score 162 E 2e-39 ] [ range 70 .. 177 ]
+sequence
+-------------ETLSYLPDLSEEQLLSEIEYLLKNGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLAEVGEAKKAYPEAWIRIIGFDNV--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|132161|sp|P17673|RBS_TRIRP Ribulose bisphosphate carboxylase ... [ score 162 E 2e-39 ] [ range 68 .. 176 ]
+sequence
+-------------ETLSYLPPLTDEQLLKEVEYLLRKGWVPCVEFSS--PGYY----------------D
+GRYWTMWRLPLFGTTDAAQVLKEVAECKAEYPEAFIRIIGFDNV--RQVQCI--SFIASTPK--------
+--------------------------*
+>P1;gi|132118|sp|P26573|RBS8_NICPL Ribulose bisphosphate carboxylase... [ score 160 E 4e-39 ] [ range 70 .. 177 ]
+sequence
+-------------ETLSYLPDLSQEQLLSEIEYLLKSGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLAEVEEAKKAYPQAWVRIIGFDNV--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|3914606|sp|Q41351|RBS_STELP Ribulose bisphosphate carboxylase... [ score 160 E 5e-39 ] [ range 70 .. 177 ]
+sequence
+-------------ETLSYLPDLSSEQLLSEIEYLLKNGWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVAAEVQEAKKAYPDAHIRIIGFDNV--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|20139857|sp|Q9XGX4|RBS3_AMAHP Ribulose bisphosphate carboxyla... [ score 160 E 5e-39 ] [ range 70 .. 180 ]
+sequence
+-------------ETLSYLPPLSDAQLLAQVQYLLNNGWIPCIEFES--PGYQ----------------D
+GRYWTMWKLPMYGCTDPAQVLNEVEEAKKAYPSAFIRIIGFDNK--RQVQCV--SFIAFKP---PGY---
+--------------------------*
+>P1;gi|7436565|pir||T02060 ribulose-bisphosphate carboxylase (EC 4.1... [ score 160 E 6e-39 ] [ range 60 .. 172 ]
+sequence
+-------------ETLSYLPPLTVEDLLKQIEYLLRSKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLKELEDAKKAYPDAFVRIIGFDNV--RQVQ--LISLIANKPPGRAEF---
+--------------------------*
+>P1;gi|132108|sp|P16132|RBS4_ACECL Ribulose bisphosphate carboxylase... [ score 160 E 6e-39 ] [ range 55 .. 177 ]
+sequence
+-------------ETFSYLPPLTDEQISKQVDYILANSWTPCLEFVA--STYQ----------------D
+NRYWTMWKLPMFGCTDGSQVLSEIQACTKAFPDAYIRLVCFDAN--RQVQ--ISGFLVHRPPSATDYRLP
+--------------------------*
+>P1;gi|132094|sp|P19308|RBS2_LEMGI Ribulose bisphosphate carboxylase... [ score 159 E 8e-39 ] [ range 70 .. 176 ]
+sequence
+-------------ETLSYLPPLSVEDLAKEVDYLLRNDWVPCIEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDASQVIAEVEEAKKAYPEYFVRIIGFDNK--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|3914599|sp|O48550|RBS_ZANAE Ribulose bisphosphate carboxylase... [ score 159 E 1e-38 ] [ range 69 .. 175 ]
+sequence
+-------------ETLSYLPPLTREQLGQEVDYLIRNGWIPCIEFNS--PGYY----------------D
+GRYWTMWKLPMFGCTDSSQVLKEVDECSKAYPDYFNRIIGFDNT--RQVQCI--SFLTYKP---------
+--------------------------*
+>P1;gi|132101|sp|P16136|RBS3_ACEME Ribulose bisphosphate carboxylase... [ score 159 E 1e-38 ] [ range 55 .. 177 ]
+sequence
+-------------ETFSFLPPLTDEQISKQVDYILINSWTPCLEFVA--STYQ----------------D
+NRYWTMWKLPMFGCTDASQVLSEIQACTKAFPDAYIRLVCFDAN--RQVQ--ISGFLVHRPPSATDYKLP
+--------------------------*
+>P1;gi|266892|sp|P29684|RBS_HEVBR Ribulose bisphosphate carboxylase ... [ score 159 E 1e-38 ] [ range 72 .. 180 ]
+sequence
+-------------ETLSYLPPLTREQLAKEVEYLLRKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDAVQVLQELDEMIKAYPDCYGRIIGFDNV--RQVQCI--SFLAYKPK--------
+--------------------------*
+>P1;gi|3914594|sp|Q38692|RBS6_ACECL Ribulose bisphosphate carboxylas... [ score 159 E 1e-38 ] [ range 55 .. 177 ]
+sequence
+-------------ETFSYLPPLTDEQISKQVDYILANAWTPCLEFTM--GPYQ----------------D
+NRYWTMWKLPMFGCTDGSQVLTEIQACTKAFPDAYIRLVCFDAN--RQVQ--ISGFLVHRPPSATDYRLP
+--------------------------*
+>P1;gi|3914592|sp|Q96542|RBS_BETVE Ribulose bisphosphate carboxylase... [ score 159 E 2e-38 ] [ range 72 .. 180 ]
+sequence
+-------------ETLSYLPPLSSEQLAKEVDYLLRKNLIPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCNDSSQVLKELEECKKAYPSAFIRIIGFDNK--RQVQ--IISFIAYKPP--------
+--------------------------*
+>P1;gi|13241101|gb|AAK16227.1| ribulose-1,5-bisphosphate carboxylase... [ score 159 E 2e-38 ] [ range 21 .. 128 ]
+sequence
+-------------ETLSYLPNLTETQLAKEVDYLLRNKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSSQVMKELGECKKEYPQAWIRIIGFDNV--RQVQCI--SFIASKP---------
+--------------------------*
+>P1;gi|18413570|emb|CAD21856.1| putative ribulose 1,5 biphosphate ca... [ score 158 E 2e-38 ] [ range 63 .. 179 ]
+sequence
+---------KIKFETLSYLPPLSEADLLAQINYLLINGWVPCLEFHS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVVAELEEAKKAYPHAFVRIIGFDNV--RQVQCV--SFIAYKPPRAEG----
+--------------------------*
+>P1;gi|4689388|gb|AAD27881.1| ribulose-1,5-bisphosphate carboxylase ... [ score 158 E 2e-38 ] [ range 69 .. 181 ]
+sequence
+-------------ETLSYLPDLTEEQLGKEVDYLLRSGWIPCLEFES--PGYY----------------D
+GRYWTMWKLPMYGCTDSSQVLKELREARTLYPDGFVRIVGFDSV--RQVQCI--SFIAYKP---PGY---
+--------------------------*
+>P1;gi|6272550|gb|AAF06100.1| ribulose 1,5-bisphosphate carboxylase ... [ score 157 E 3e-38 ] [ range 72 .. 180 ]
+sequence
+-------------ETLSYLPPLSREQLASEIDYLLRSGWIPCLEFSL--PGYY----------------D
+GRYWTMWKLPMFGCTDSSQVLKELDELIKAHPDGFARIIGFDNV--RQVQCI--SFIAYKPP--------
+--------------------------*
+>P1;gi|3914595|sp|Q38693|RBS7_ACECL Ribulose bisphosphate carboxylas... [ score 157 E 4e-38 ] [ range 56 .. 178 ]
+sequence
+-------------ETFSYLPPLTDEQISKQVDYILANSWTPCLEFVA--STYQ----------------D
+NRYWTMWKLPMFGCTDGSQVLSDMQACTKAFPDAYIRLVCFDAN--RQVQICG--FLVHRPPSATDYRLP
+--------------------------*
+>P1;gi|3914598|sp|O24045|RBS_MUSAC Ribulose bisphosphate carboxylase... [ score 157 E 5e-38 ] [ range 71 .. 177 ]
+sequence
+-------------ETLSYLPTMKDEALVKQIEYLLRSKWIPCLEFRS--PGYY----------------D
+GRYWTMWKLPMFGCTDAVQVAKEVEECKKEYPHAFIRIIGFDNN--RQVQCI--SFIAYKP---------
+--------------------------*
+>P1;gi|132106|sp|P07689|RBS3_PEA Ribulose bisphosphate carboxylase s... [ score 157 E 5e-38 ] [ range 70 .. 179 ]
+sequence
+-------------ETLSYLPPLTRDQLLKEVEYLLRKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGTTDASQVLKELDEVVAAYPQAFVRIIGFDNV--RQVQCI--SFIAHTPES-------
+--------------------------*
+>P1;gi|28797559|gb|AAO46871.1| ribulose-bisphosphate carboxylase sma... [ score 157 E 5e-38 ] [ range 58 .. 178 ]
+sequence
+-------------ETFSYLPPLTDEQIAAQVDYIVANGWIPCLEFAE--ADYY----------------D
+NRYWTMWKLPMFGCRDPMQVLREIVACTKAFPDAYVRLVAFDNV--KQVQ--IMGFLVQRPKSARDWQ--
+--------------------------*
+>P1;gi|3914608|sp|Q42915|RBS_MANES Ribulose bisphosphate carboxylase... [ score 156 E 7e-38 ] [ range 72 .. 180 ]
+sequence
+-------------ETLSYLPPLTREQLASEVEYLLRSGWIPCLEFEL--PGYY----------------D
+GRYWTMWKLPMFGCTDAAQVLKELDELIKHHPDGYARIIGFDNV--RQVQCI--SFLAYKPP--------
+--------------------------*
+>P1;gi|16331394|ref|NP_442122.1| ribulose bisphosphate carboxylase s... [ score 156 E 7e-38 ] [ range 11 .. 111 ]
+sequence
+-------------ETLSYLPPLTDQQIAKQVEFLLDQGFIPGVEFEE--DPQP----------------E
+THFWTMWKLPFFGGATANEVLAEVRECRSENPNCYIRVIGFDNI--KQCQTV--SFIVHKPNQNQG----
+--------------------------*
+>P1;gi|132150|sp|P10053|RBS_PINTH Ribulose bisphosphate carboxylase ... [ score 156 E 8e-38 ] [ range 64 .. 170 ]
+sequence
+-------------ETLSYLPTLTEEQLVKEVEYLLRNKWVPCLEFRS--PGYY----------------D
+GRYWVMWKLPMFGCTEASQVINEVRECAKAYPKAFIRVIGFDNV--RQVQCI--SFIVHKP---------
+--------------------------*
+>P1;gi|730479|sp|Q09125|RBS_PORAE Ribulose bisphosphate carboxylase ... [ score 250 E 5e-66 ] [ range 1 .. 138 ]
+sequence
+--------MRLTQGTFSFLPDLTDAQIQKQVQYAVSKKWAVSVEYTD--DPHP----------------R
+NSFWELWGLPLFDVKDASALMYEIAACRKAKPNYYIKVNAFDNTRGVESCCLSFIINRPI--NEPGFHLE
+RQEVQGRNILYTIKSYAVNKPEGSRY*
+>P1;gi|39934630|ref|NP_946906.1| ribulose-bisphosphate carboxylase s... [ score 248 E 1e-65 ] [ range 1 .. 138 ]
+sequence
+--------MRLTQGCFSFLPDLTDEQIAAQVQYALSKGWAVNLEFTD--DPHP----------------R
+NTYWDMWGLPMFDLQDAAGVMMELNECRKIYGDRYIRLSAFDSSHGWESVRLSFIVNRPK--DEPGFRLD
+RQESDGRNMRYTTRAYSADKPEGRRY*
+>P1;gi|34393787|dbj|BAC84936.1| ribulose 1,5-bisphosphate carboxylas... [ score 247 E 4e-65 ] [ range 1 .. 138 ]
+sequence
+--------MRLTQGTFSFLPDLTDQQINKQLAYIVSRGWSANVEYTD--DPHP----------------R
+NSYWELWGLPLFDVKDASAVMYEINSCRKAKPSYYVKVNAFDNTRGVESCCMSFIVNRPA--NEPGFLLQ
+RQDFEGRTMKYTLHSYATEKPEGARY*
+>P1;gi|4096344|gb|AAD04747.1| ribulose-1,5-bisphosphate carboxylase,... [ score 247 E 4e-65 ] [ range 1 .. 138 ]
+sequence
+--------MRLTQGAFSFLPDLTDDQISKQVSYAMGKGWSVNIEYTD--DPHP----------------R
+NSYWELWGLPLFDIPDAPTVMYEISSCRKAHPGVYIKVNAFDNTRGVESCSLSFIINRPA--SEPGFGLL
+RTEDIGRNQKYAIHSYATEKPEGSRY*
+>P1;gi|132134|sp|P25458|RBS_ANTSP Ribulose bisphosphate carboxylase ... [ score 247 E 4e-65 ] [ range 1 .. 138 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQIAYAVSQNWAINIEFTD--DPHP----------------R
+NNYWELWGLPLFDINDVESVMYELESCRKQHSGLYIKINAFDNTRGVESCVLSFIINRPS--YEPGFELI
+RSEDIGRNQKYSFRSYATAKPEGSRY*
+>P1;gi|30468059|ref|NP_848946.1| ribulose 1,5-bisphosphate carboxlya... [ score 246 E 5e-65 ] [ range 1 .. 138 ]
+sequence
+--------MRVTQGTFCYLPDLTDEQIRKQIQYAINQGWAVSVEYTD--DPHP----------------R
+NSYWEMWGLPLFDVKDPATIMFEVQECRKQFPNHYIKVLAFNSTKGIESTALSFIVNRPA--NEPGFVLR
+RIESNDRVQRYQIHSYATEKPEGSRY*
+>P1;gi|34393757|dbj|BAC84916.1| ribulose 1,5-bisphosphate carboxylas... [ score 246 E 7e-65 ] [ range 1 .. 138 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQINKQLAYIVSKGLSANVEYTD--DPHP----------------R
+NSYWELWGLPLFDVKDASAVMYEISSCRKAKPNYYVKVNAFDNTRGIESCVMSFIVNRPA--NEPGFLLQ
+RQDFEGRTMKYSLHSYATEKPEGARY*
+>P1;gi|11467654|ref|NP_050706.1| ribulose 1,5-bisphosphate carboxyla... [ score 246 E 8e-65 ] [ range 1 .. 139 ]
+sequence
+--------MRLTQGAFSFLPDLTDEQIVKQIQYAISKNWALNVEWTD--DPHP----------------R
+NAYWDLWGLPLFGIKDPAAVMFEINACRKAKPACYVKVNAFDNSRGVESCCLSFIVQRPS--NEPGFQLI
+RSEVDSRNIRYTIQSYASTRPEGERY*
+>P1;gi|11465693|ref|NP_053837.1| ribulose 1,5-bisphosphate carboxlya... [ score 245 E 2e-64 ] [ range 1 .. 138 ]
+sequence
+--------MRLTQGAFSFLPDLTDQQINKQLAYIVSKGWSANVEYTD--DPHP----------------R
+NAYWELWGLPLFDVKDPAAVMYEINSCRKAKPSYYVKVNAFDNTRGVESCSMSFIVNRPA--NEPGFLLQ
+RQDFEGRTMKYTLHSYATEKPEGARY*
+>P1;gi|34393775|dbj|BAC84928.1| ribulose 1,5-bisphosphate carboxylas... [ score 245 E 2e-64 ] [ range 1 .. 138 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQISKQLTYIVSKGLSANVEYTD--DPHP----------------R
+NSYWELWGLPLFDVKDASAVMYEISSCRKAKPNYYIKVNAFDNTRGIESCVMSFIVNRPI--NEPGFLLQ
+RQDFEGRTMKYSLHSYATEKPEGARY*
+>P1;gi|2541894|dbj|BAA22829.1| ribulosebiphosphate carboxylase small... [ score 244 E 3e-64 ] [ range 1 .. 138 ]
+sequence
+--------MRVTQGTFCYLPDLTDEQIRKQLQYAINNGWALSVEYTD--DPHP----------------R
+NSYWEMWGLPLFDVKDPATVMFEVQECRKQYPNYYIKVLAFNSTKGIESTALSFIVNRPV--HEPGFVLK
+RIESNDRVQRYTVHSYATEKPEGSRY*
+>P1;gi|34393790|dbj|BAC84938.1| ribulose 1,5-bisphosphate carboxylas... [ score 243 E 5e-64 ] [ range 1 .. 138 ]
+sequence
+--------MRVTQGTFSFLPDLTDEQINKQLAYIVSKGFSANVEYTD--DPHP----------------R
+NSYWELWGLPLFDVKDASAVMYEISSCRKAKPNYYIKVNAFDNTRGIESCVLSFIVNRPI--NEPGFLLQ
+RQDFEGRTMKYSLHSYATEKPEGARY*
+>P1;gi|585792|sp|P37394|RBS_CYACA Ribulose bisphosphate carboxylase ... [ score 243 E 8e-64 ] [ range 1 .. 138 ]
+sequence
+--------MRVTQGTFSFLPDLTNDQIRKQIQYAINKGWALSVEYTD--DPHP----------------R
+NSYWEMWGLPLFDVKDPAAIMFEVEACRKEKSNYYIKLLAFDSTKGVESTAMSFMVNRPA--HEPGFVLR
+RIESNDRVQRYQIHSYATEKPEGERY*
+>P1;gi|132141|sp|P24683|RBS_CYLSN Ribulose bisphosphate carboxylase ... [ score 241 E 2e-63 ] [ range 1 .. 139 ]
+sequence
+--------MRLTQGCFSFLPDLTDEQIEKQVNYAISKGWAMNVEWTD--DPHP----------------R
+NNYWELWGLPLFDIKDPASVMFELQEARKACAAGYIRMNAFDASYGTESCVMSFIVNRPA--NEPGFYLE
+RAEGKGRQINYTIKSYSQANPEGGRY*
+>P1;gi|42958577|gb|EAB46251.1| unknown [environmental sequence] [ score 239 E 7e-63 ] [ range 1 .. 139 ]
+sequence
+--------MKLTQGCFSFLPDLTDEQITKQIQYAIDKSWAVSIEFTD--DPHP----------------R
+NNYWEMWGLPLFDIKDAAAILFEINMCRKAKPNFYVKVAAFDNTRGTESCCSSFIVQRPA--YEPGFRLV
+RQEVAGRKLVYTIEAYAPAKPEGERY*
+>P1;gi|19919152|gb|AAM08169.1| ribulose 1,5-bisphosphate carboxylase... [ score 239 E 7e-63 ] [ range 1 .. 130 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQIEYAISKGWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDTATVMDEVASCRKAHSSIYIKINAFDNTRGVESCVLSFLVNRPS--HEPGFELI
+RSEDIGRNQKYTFRSYAT--------*
+>P1;gi|19919148|gb|AAM08167.1| ribulose 1,5-bisphosphate carboxylase... [ score 238 E 2e-62 ] [ range 1 .. 130 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQIEYAISKGWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDTAGVMQEVANCRKAHSSIYIKINAFDNTRGVESCVLSFLINRPS--HEPGFELI
+RSEDIGRNQKYTFRSYAT--------*
+>P1;gi|132152|sp|P23652|RBS_PYLLI Ribulose bisphosphate carboxylase ... [ score 238 E 2e-62 ] [ range 1 .. 139 ]
+sequence
+--------MRVTQGCFSFLPDLSDEQIKLQVGYAMSKGWAVSVEWTD--DPHP----------------R
+NSYWELWGLPLFDVKDPAAVMYELAECRKVNPEGYIKINAFDASIGTESCVMSFIVQRPI--NEPGFYLE
+RNEVQGRNIQYTISSYAQARPSGDRY*
+>P1;gi|132139|sp|P23756|RBS_GALSU Ribulose bisphosphate carboxylase ... [ score 237 E 3e-62 ] [ range 1 .. 138 ]
+sequence
+--------MRITQGTFSFLPDLTDEQIKKQIDYMISKKLAIGIEYTN--DIHP----------------R
+NSFWEMWGLPLFEVTDPAPVLFEINACRKAKSNFYIKVVGFSSERGIESTIISFIVNRPK--HEPGFNLI
+RQEDKSRSIKYSIQAYETYKPEDQRY*
+>P1;gi|567190|gb|AAB41465.1| ribulose 1,5-bisphosphate carboxylase s... [ score 236 E 6e-62 ] [ range 1 .. 138 ]
+sequence
+--------MRITQGAFSFLPDLTDTQITAQIQYCLDNGWAVNLEHTD--DPHP----------------R
+NTYWDMWGHPMFDIADAGGVMMELSECRKVHGERYIRMSAFDSTAGWESVKLSFIVNRPA--NEPGFRLR
+RSEMEGRTIRYTTESYATDKPEGERY*
+>P1;gi|19919168|gb|AAM08177.1| ribulose 1,5-bisphosphate carboxylase... [ score 236 E 6e-62 ] [ range 1 .. 131 ]
+sequence
+--------MRLTQGTFSFLPDFTDEQITKQIEYAISQNWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDTATVMYEVNNCRKAHSSVYIKINAFDNTRGVESCVLSFIINRPA--HEPGFELI
+RSEDIGRNQKYTFRSYATE-------*
+>P1;gi|16611904|gb|AAL27402.1| ribulose-1,5-bisphosphate carboxylase... [ score 236 E 9e-62 ] [ range 8 .. 144 ]
+sequence
+---------RVTQGQFSFLPPLTDKQISAQIKYALKNGWAIGIEYTD--DPHP----------------R
+NTYWEMFGNPMFDLKDPAGILSEINDCRKTYPNHYIRVTAFNSARGVESPTMSYIVNRPK--SEPGFGLV
+RQEVEGRSIRYTIHSYATDKAESERY*
+>P1;gi|44102370|gb|EAH13948.1| unknown [environmental sequence] [ score 235 E 1e-61 ] [ range 1 .. 138 ]
+sequence
+--------MKIRQGAFSFLPDLTDAEIHTQVQYCIDNGWAVSVEYTD--DPHP----------------R
+NTYWEMWGHPMFDNPDAAAVVFEVNECRKQFGDYYIRVIAFDSTHGWESIKLSFIVNRPK--DEPGFHVS
+REEVKGRSIRYSIKSYATDKPEGKRY*
+>P1;gi|6093937|sp|P09658|RBSC_ALCEU Ribulose bisphosphate carboxylas... [ score 235 E 1e-61 ] [ range 1 .. 139 ]
+sequence
+--------MRITQGTFSFLPELTDEQITKQLEYCLNQGWAVGLEYTD--DPHP----------------R
+NTYWEMFGLPMFDLRDAAGILMEINNARNTFPNHYIRVTAFDSTHTVESVVMSFIVNRPA--DEPGFRLV
+RQEEPGRTLRYSIESYAQARPEGSRY*
+>P1;gi|19919146|gb|AAM08166.1| ribulose 1,5-bisphosphate carboxylase... [ score 235 E 1e-61 ] [ range 1 .. 130 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQITYAISKGWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIQDVATVMYEVNNCRKTHSSIYIKINAFDNTRGIESCVLSFLINRPS--HEPGFELI
+RSEDIGRNQKYTFRSYAT--------*
+>P1;gi|19919172|gb|AAM08179.1| ribulose 1,5-bisphosphate carboxylase... [ score 235 E 1e-61 ] [ range 1 .. 130 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQIDYAISQNWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDAQTVMYEMNSCRKQYSNLYIKVNAFDNTRGVESCVLSFLVNRPS--YEPGFELI
+RSEDIGRNQKYSFRSYAT--------*
+>P1;gi|14285703|sp|O98948|RBS_THANO Ribulose bisphosphate carboxylas... [ score 235 E 1e-61 ] [ range 1 .. 139 ]
+sequence
+--------MRLTQGCFSFLPDLTDTQIEKQVAYAMNKGWAMNVEWTD--DPHP----------------R
+NNYWELWGLPLFDIKDPATVMFELNEARKSCASGYIRINAFDASYGVESCVMSFITNRPA--TEPGFYLD
+RTEGPGRQVIYSIKSYSQANPEGSRY*
+>P1;gi|19919164|gb|AAM08175.1| ribulose 1,5-bisphosphate carboxylase... [ score 234 E 2e-61 ] [ range 1 .. 132 ]
+sequence
+--------MRLTQGTFSFLPDFTDEQIVKQIEYAISENWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIQDSATVMYEVNNCRKAHSSVYIKINAFDNTRGIESCVLSFIINRPA--HEPGFELI
+RSEDIGRNQKYTFRSYATEK------*
+>P1;gi|19919154|gb|AAM08170.1| ribulose 1,5-bisphosphate carboxylase... [ score 234 E 2e-61 ] [ range 1 .. 130 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIQKQIEYAISNSWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDVATVMYEVNNCRKAHSSIYIKINAFDNTRGVESCVLSFLINRPS--HEPGFELI
+RSEDIGRNQKYTFRSYAT--------*
+>P1;gi|38638087|ref|NP_943061.1| ribulose-1,5-bisphosphate carboxyla... [ score 234 E 3e-61 ] [ range 1 .. 139 ]
+sequence
+--------MRITQGTFSFLPDLTDAQITSQLEYCLNQGWAVGIEYTD--DPHP----------------R
+NTYWEMFGLPMFDLRDAAGILLEINNARSTFPNHYIRVTAFDSTHTVESVVMSFIVNRPA--DEPGFRLV
+RQEEPGRTIRYSIESYAQARPEGSRY*
+>P1;gi|10716878|gb|AAG21944.1| ribulose-1,5-bisphosphate carboxylase... [ score 233 E 6e-61 ] [ range 1 .. 139 ]
+sequence
+--------MRVTQGCFSFLPDLSDEQIKKQIEYAVNKGWAISIEWSD--DPHP----------------R
+NTYWELWGLPLFDIKDSSAVLYEITECRRVNPEGYMKINAFDASIGTESCVMSFIVQRPN--EEPGFYLE
+RTEVAGRSIQYTIKSYSTQKPEGFRY*
+>P1;gi|132142|sp|P24395|RBS_ECTSI Ribulose bisphosphate carboxylase ... [ score 232 E 7e-61 ] [ range 1 .. 139 ]
+sequence
+--------MRVTQGCFSFLPDLSDDQIKQQVSYAMSKGWAVSVEWTD--DPHP----------------R
+NSYWELWGLPLFDVKDPAAVMYELAECRKVNPEGYIKINAFDASIGTESCVMSFIVQRPI--TEPGFYLE
+RNEIHGRNIQYTISSYAQARPSGDRY*
+>P1;gi|44472600|gb|EAJ51245.1| unknown [environmental sequence] [ score 232 E 9e-61 ] [ range 1 .. 138 ]
+sequence
+--------MRITQGTFSFLPDFTDQQIHEQVQYCIDNGWAVSIEYTD--DPHP----------------R
+NTYWEMWGHPMFDNPDAAAVVFELNECRKVYGSYYIRIIAFDSSPGWESIRLSFIVNRPS--QEPGFRLN
+RTETKGRNIQYSMSPYSSDNPQGSRY*
+>P1;gi|6319189|gb|AAF07201.1| ribulose-1,5-bisphosphate carboxylase/... [ score 232 E 1e-60 ] [ range 1 .. 139 ]
+sequence
+--------MRLTQGCFSFLPDLTDQQIEKQIAYCITKGWAMNVEWTD--DPHP----------------R
+NSNWELWGLPLFDVKDPASVMFELREARKSCAAGYIRINAFNAAYGTESCVMSFIVNRPS--NEPGFYLE
+RQELEGRRIAYTTKSYSQANPEGGRY*
+>P1;gi|730478|sp|Q08052|RBS_PLECA Ribulose bisphosphate carboxylase ... [ score 232 E 1e-60 ] [ range 1 .. 139 ]
+sequence
+--------MKLTQGAFSFLPDLTDAQVTKQIQYALNKSWAISIEYTD--DPHP----------------R
+NSYWEMWGLPLFDVKDPAAILFEINMARKAKPNYYLKIACFDNTRGIESCVLSFIVQRPS--YEPGFKMT
+RQEVKGRQLVYTLESYSVDKPEGERY*
+>P1;gi|132149|sp|P14961|RBS_OLILU Ribulose bisphosphate carboxylase ... [ score 231 E 2e-60 ] [ range 1 .. 139 ]
+sequence
+--------MRLTQGAFSYLPDLTDAQIIKQIDYCLSRGWSVGVEWTD--DPHP----------------R
+NAYWELWGLPLFDVKDSSAILYEVNECRRLNPEGYIKLVAFNAARGTESSASAFIVQRPK--SEPGFYLE
+RTEAEGRMIRYTIHSYAVANPEGSRY*
+>P1;gi|19919174|gb|AAM08180.1| ribulose 1,5-bisphosphate carboxylase... [ score 231 E 3e-60 ] [ range 1 .. 130 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQIKKQIEYAIANNWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDLPDASTVIYEINNCCKQHSSLYVKVNAFDNTRGVESCVLSFIVNRPS--YEPGFELI
+RSEDIGRNQKYSFRSYAT--------*
+>P1;gi|1675202|gb|AAB19096.1| ribulose-1,5-bisphosphate carboxylase/... [ score 231 E 3e-60 ] [ range 1 .. 139 ]
+sequence
+--------MRLREGCFSFLPDLTDQQIEKQITYAINKGWAMNVEWTD--DPHP----------------R
+NNYWELWGLPLFDIKDPASVMFELREARKSCAAGYIRLNAFDASYGTESCVMSFIVNRPT--SEPGFYLE
+RSEAQGRMIRYTIKSYSQANPEGGRY*
+>P1;gi|22989509|ref|ZP_00034563.1| COG4451: Ribulose bisphosphate ca... [ score 231 E 3e-60 ] [ range 1 .. 138 ]
+sequence
+--------MRITQGTFSFLPELTDEEIRLQIDYALSQGWACSVEYTD--DPHP----------------R
+NTYWEMWGLPMFDLRDAAGVLQEVKACRAAQPQHYIKVNAFDSVRGFETMRLSFIVNRPD--EEPGFRLT
+RQDGPGRVQRYGLSGYAGDRPSGERY*
+>P1;gi|12751547|ref|NP_043653.2| ribulose 1,5-bisphosphate carboxlya... [ score 231 E 3e-60 ] [ range 1 .. 139 ]
+sequence
+--------MRLTQGCFSFLPDLTDQQIEKQIAYCIDKGWAMNVEWTD--DPHP----------------R
+NSYWELWGLPLFDIKDIASVMFELSEARKSCANGYIRMNAFDASYGTESCVMSFIVSRPS--NEPGFYLE
+RTEGAGRFITYTIKRYSQANAEGSRY*
+>P1;gi|43374497|gb|EAD52106.1| unknown [environmental sequence] [ score 230 E 5e-60 ] [ range 1 .. 131 ]
+sequence
+--------MRLTQGAFSFLPDLTDEQIVKQIQYAISKGWALNVEFTD--DPHP----------------R
+NSYWDLWGLPLFGVKDPAAVMFEINSCRKAKPAYYVKVNAFDNSRGVESCCLSFIVQRPS--NEPGFQLQ
+RQESDSRNIRYTIQSYAS--------*
+>P1;gi|19919170|gb|AAM08178.1| ribulose 1,5-bisphosphate carboxylase... [ score 229 E 8e-60 ] [ range 1 .. 130 ]
+sequence
+--------MRLTQGTFSFLPDLTDEQITKQIEYAISLNWSINIEYTD--DPHP----------------R
+NNYWELWGLPLFDIQDASKVTYEINNCRKKYSDQYIKLNAFDNTRGVESCVLSFIINRPS--NEPGFELV
+RSEDIGRNQKYSFRSYAT--------*
+>P1;gi|14285701|sp|O98946|RBS_DETCO Ribulose bisphosphate carboxylas... [ score 229 E 1e-59 ] [ range 1 .. 139 ]
+sequence
+--------MRLTQGCFSFLPDLTDEQIEKQVACAMSRGLAMNVEWTD--DPHP----------------R
+NNYWELWGLPLFDIKDPATVMFELNEARKSCAAGYIRMNAFDASYGTESCVMSFITNRPV--SEPGFYLD
+RTEGVGRQIVYSIKSYSQANPEGSRY*
+>P1;gi|27377697|ref|NP_769226.1| ribulose 1,5-bisphosphate carboxyla... [ score 214 E 4e-55 ] [ range 1 .. 124 ]
+sequence
+--------MKLTQGCFSFLPDLTDDQIYKQVQYCLAKGWAVNIEFTD--DPHP----------------R
+NTYWEMWGLPMFDLQDAAGVMMELAECRRVYGDRYIRISGFDSSPGWESVRISFLVNRPP--QEAEFELV
+RQEVGGRAIRYT--------------*
+>P1;gi|44536476|gb|EAJ94141.1| unknown [environmental sequence] [ score 213 E 6e-55 ] [ range 1 .. 130 ]
+sequence
+----------------SFLPDLTDDQIHTQVQYCIDNGWAVSLEFTD--DPHP----------------R
+NTYWEMWGHPMFDNPDAAALIFELNECRKIHGDKYIRVMAFDSTHGWESVRLSFIVNRPK--EEKGFKLS
+REDTHGRMMRYSITPYSTDMPEGERY*
+>P1;gi|132084|sp|P27998|RBS1_RHOSH Ribulose bisphosphate carboxylase... [ score 212 E 8e-55 ] [ range 1 .. 124 ]
+sequence
+--------MRITQGCFSFLPDLTDEQISAQVDYCLGRGWAVSLEHTD--DPHP----------------R
+NTYWEMWGMPMFDLRDPKGVMIELDECRKAWPGRYIRINAFDSTRGFETVTMSFIVNRPE--VEPSLRME
+RTEVDGRSIRYT--------------*
+>P1;gi|16263938|ref|NP_436730.1| putative ribulose-1,5-bisphosphate ... [ score 212 E 1e-54 ] [ range 1 .. 123 ]
+sequence
+--------MRITQGCFSFLPDLTDEQITAQVQYCLGKGWAIGVEYTD--DPHP----------------R
+NTYWEMWGNPMFDLKDAKGVMMELEDCRKAHPQDYIRLNAFDSSRGLETVTMSFIVNRPE--NEPSLRMT
+RTESNGRSQHY---------------*
+>P1;gi|132162|sp|P23012|RBS_XANFL Ribulose bisphosphate carboxylase ... [ score 211 E 2e-54 ] [ range 1 .. 132 ]
+sequence
+--------MRITQGTFSFLPDLTAAQVKAQIQYALDQNWAVSVEYTD--DPHP----------------R
+NTYWEMWGLPMFDLRDAAGVYGEVEACRTAHPGKYVRVNAFDSNRGWETVRLSFIVQRPE--KEDGFRLD
+RTEGPGRTQRYALRSYAA--------*
+>P1;gi|7388042|sp|P56890|RBS2_RHIME Ribulose bisphosphate carboxylas... [ score 211 E 2e-54 ] [ range 1 .. 124 ]
+sequence
+--------MRITQGCFSFLPDLTDEQITAQVEYCLGRGWAIGVEYTD--DPHP----------------R
+NTYWEMWGNPMFDLRDAKGVMMEVEDCRKAHPQDYIRLNAFDSSRGLETVTMSFIVNRPE--NEPSLRMT
+RTESDGRSQHYT--------------*
+>P1;gi|15219826|ref|NP_176880.1| ribulose bisphosphate carboxylase s... [ score 173 E 7e-43 ] [ range 68 .. 180 ]
+sequence
+-------------ETLSYLPDLTDSELAKEVDYLIRNKWIPCVEFES--PGYY----------------D
+GRYWTMWKLPLFGCTDSAQVLKEVEECKKEYPNAFIRIIGFDNTRQVQC--ISFIAYKPP--SFTG----
+--------------------------*
+>P1;gi|132083|sp|P04714|RBS1_PETSP Ribulose bisphosphate carboxylase... [ score 172 E 1e-42 ] [ range 70 .. 180 ]
+sequence
+-------------ETLSYLPDLTDEQLLKEIEYLLNKGWVPCLEFES--PRYY----------------D
+GRYWTMWKLPMFGCTDATQVLGELQEAKKAYPNAWIRIIGFDNVRQVQC--ISFIAYKP-----PGF---
+--------------------------*
+>P1;gi|132085|sp|P26574|RBS1_SOLTU Ribulose bisphosphate carboxylase... [ score 172 E 2e-42 ] [ range 71 .. 179 ]
+sequence
+-------------ETLSYLPDLTDEQLLKEVEYLLKNGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLAEVQECKKSYPQAWIRIIGFDNVRQVQC--ISFIAYKPE----------
+--------------------------*
+>P1;gi|3914586|sp|O65349|RBS_CAPAN Ribulose bisphosphate carboxylase... [ score 170 E 4e-42 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPDLSDEQLLKEIEYLLQKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLNEVQEAKKAYPQAWIRIIGFDNVRQVQC--ISFIAYKPE----------
+--------------------------*
+>P1;gi|10946377|gb|AAG24883.1| ribulose-1,5-bisphosphate carboxylase... [ score 170 E 5e-42 ] [ range 68 .. 178 ]
+sequence
+-------------ETLSYLPDLDDAQLAKEVEYLLRKGWIPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDASQVLKELQEAKTAYPNGFIRIIGFDNVRQVQC--ISFIAYKP-----PGF---
+--------------------------*
+>P1;gi|417593|sp|P32764|RBS3_SOLTU Ribulose bisphosphate carboxylase... [ score 170 E 6e-42 ] [ range 71 .. 179 ]
+sequence
+-------------ETLSYLPDLSDEQLLKEVEYLLKNGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLAEVQEAKKAYPQAWIRIIGFDNVRQVQC--ISFIAYKPE----------
+--------------------------*
+>P1;gi|3914583|sp|Q43832|RBS2_SPIOL Ribulose bisphosphate carboxylas... [ score 168 E 2e-41 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPPLTTDQLARQVDYLLNNKWVPCLEFET--DGYY----------------D
+GRYWTMWKLPMFGCTDPAQVLNELEECKKEYPNAFIRIIGFDSNRQVQC--VSFIAYKPA----------
+--------------------------*
+>P1;gi|15240912|ref|NP_198659.1| ribulose bisphosphate carboxylase s... [ score 168 E 2e-41 ] [ range 68 .. 180 ]
+sequence
+-------------ETLSYLPDLTDVELAKEVDYLLRNKWIPCVEFET--PGYY----------------D
+GRYWTMWKLPLFGCTDSAQVLKEVEECKKEYPGAFIRIIGFDNTRQVQC--ISFIAYKPP--SFTD----
+--------------------------*
+>P1;gi|132113|sp|P12468|RBS4_SOYBN Ribulose bisphosphate carboxylase... [ score 168 E 2e-41 ] [ range 68 .. 177 ]
+sequence
+-------------ETLSYLPDLDDAQLAKEVEYLLRKGWIPCLEFEL--EGYY----------------D
+GRYWTMWKLPMFGCTDASQVLKELQEAKTAYPNGFIRIIGFDNVRQVQC--ISFIAYKPP--S-------
+--------------------------*
+>P1;gi|480983|pir||S37575 ribulose-bisphosphate carboxylase (EC 4.1.... [ score 167 E 3e-41 ] [ range 68 .. 180 ]
+sequence
+-------------ETLSYLPDLTDVELAKEVDYLLRNKWIPCVEFET--PGYN----------------D
+GRYWTMWKLPLFGCTDSAQVLKEVQECKTEYPNAFIRIIGFDNNRQVQC--ISFIAYKPP--SFTG----
+--------------------------*
+>P1;gi|24940138|emb|CAD11990.1| rubisco small subunit [Coffea arabic... [ score 167 E 4e-41 ] [ range 71 .. 179 ]
+sequence
+-------------ETLSYLPDLTDEQLLKEIDYLIRSGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMYGCTDATQVLNEVGECLKEYPNCWVRIIGFDNVRQVQC--ISFIAAKPK----------
+--------------------------*
+>P1;gi|3914604|sp|Q40250|RBS_LACSA Ribulose bisphosphate carboxylase... [ score 167 E 4e-41 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPPLSDEALSKEIDYLIRNKWIPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKEVGECKKEYPNAFIRVIGFDNIRQVQC--ISFIVAKPP----------
+--------------------------*
+>P1;gi|6635351|gb|AAF19793.1| ribulose-1,5-bisphosphate carboxylase/... [ score 166 E 7e-41 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPPLSDEALSKEIDYLIRNKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKEVGECKKEYPNAFIRVIGFDSVRQVQC--ISFIVSKPP----------
+--------------------------*
+>P1;gi|132095|sp|P07179|RBS2_LYCES Ribulose bisphosphate carboxylase... [ score 166 E 7e-41 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPDLSDEQLLSEIEYLLKNGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLAEVQEAKKAYPQAWVRIIGFDNVRQVQC--ISFIAYKPE----------
+--------------------------*
+>P1;gi|30421141|gb|AAP31053.1| ribulose-1,5-bisphosphate carboxylase... [ score 166 E 8e-41 ] [ range 63 .. 173 ]
+sequence
+-------------ETLSYLPELTEAQLAKEIDYLIRNKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKELQECKKEYPQAWIRIIGFDNVRQVQC--VSFIASKP-----TGF---
+--------------------------*
+>P1;gi|3914601|sp|O65194|RBS_MEDSA Ribulose bisphosphate carboxylase... [ score 166 E 8e-41 ] [ range 70 .. 179 ]
+sequence
+-------------ETLSYLPPLTEEQLAKEVEYLIRKGWIPCLEFES--PGYY----------------D
+GRYWTMWRLPLFGATDSSQVLKELADCKAEYPDSFIRIIGFDNVRQVQC--ISFIAHTPK--N-------
+--------------------------*
+>P1;gi|132071|sp|P10647|RBS0_SOLTU Ribulose bisphosphate carboxylase... [ score 166 E 9e-41 ] [ range 71 .. 179 ]
+sequence
+-------------ETLSYLPDLSDEQLLKEVEYLLKNGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDGTQVLAEVQEAKNAYPQAWIRIIGFDNVRQVQC--ISFIAYKPE----------
+--------------------------*
+>P1;gi|3914577|sp|Q39744|RBS2_FLAPR Ribulose bisphosphate carboxylas... [ score 166 E 1e-40 ] [ range 68 .. 176 ]
+sequence
+-------------ETLSYLPNLTEAQLAKEVDYLLRNKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKELQECKKEYPQAWIRIIGFDNVRQVQC--ISFIASKPE----------
+--------------------------*
+>P1;gi|132154|sp|P08135|RBS_RAPSA Ribulose bisphosphate carboxylase ... [ score 165 E 1e-40 ] [ range 68 .. 180 ]
+sequence
+-------------ETLSYLPDLSDVELAKEVDYLLRNKWIPCVEFET--PGYY----------------D
+GRYWTMWKLPLFGCTDSAQVLKEVQECKKEYPNALIRIIGFDNNRQVQC--ISFIAYKPP--SFTD----
+--------------------------*
+>P1;gi|132091|sp|P27985|RBS2_BRANA Ribulose bisphosphate carboxylase... [ score 165 E 1e-40 ] [ range 68 .. 180 ]
+sequence
+-------------ETLSYLPDLTEVELGKEVDYLLRNKWIPCVEFET--PGYY----------------D
+GRYWTMWKLPLFGCTDSAQVLKEVQECKTEYPNAFIRIIGFDNNRQVQC--ISFIAYKPP--SFTG----
+--------------------------*
+>P1;gi|81885|pir||S20508 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 165 E 2e-40 ] [ range 70 .. 180 ]
+sequence
+-------------ETLSYLPPLTKQQLAKEVDYLLRKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSSQVLKELYEAQTAHPDGFIRIIGFDNVRQVQC--ISFIAYKP-----PGY---
+--------------------------*
+>P1;gi|585791|sp|Q08186|RBS6_MESCR Ribulose bisphosphate carboxylase... [ score 165 E 2e-40 ] [ range 74 .. 183 ]
+sequence
+-------------ETLSYLPPLSEESLLKEVQYLLNNGWVPCLEFET--PGYY----------------D
+GRYWTMWKLPMFGCTDPSQVVAELEEAKKAYPEAFIRIIGFDNVRQVQC--VSFIAYKPA--S-------
+--------------------------*
+>P1;gi|28139169|gb|AAO25119.1| ribulose-1,5-bisphosphate carboxylase... [ score 165 E 2e-40 ] [ range 69 .. 176 ]
+sequence
+-------------ETLSYLPPLTETQLAKEVEYLLRNKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCNDASQVLKELNECKKEYPQSWVRIIGFDNVRQVQC--ISFIAHKP-----------
+--------------------------*
+>P1;gi|23398556|gb|AAH38257.1| Unknown (protein for MGC:47002) [Mus ... [ score 165 E 2e-40 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPPLTTEQLLAEVNYLLVKGWIPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDPAQVVNEVEEVKKAYPDAFVRIIGFDNKRQVQC--ISFIAYKPS----------
+--------------------------*
+>P1;gi|132138|sp|P08474|RBS_CUCSA Ribulose bisphosphate carboxylase ... [ score 165 E 2e-40 ] [ range 72 .. 179 ]
+sequence
+-------------ETLSYLPDMSNEQLSKECDYLLRNGWVPCVEFRS--PGFY----------------D
+GRYWTMWKLPMFGCTDSSQVIQEIEEAKKEYPDAFIRVIGFDNVRQVQC--ISFIAYKP-----------
+--------------------------*
+>P1;gi|132146|sp|P16031|RBS_LARLA Ribulose bisphosphate carboxylase ... [ score 164 E 2e-40 ] [ range 80 .. 188 ]
+sequence
+-------------ETLSYLPRLTPEQLVKEVEYLLKNKWVPCLEFEE--DGYY----------------D
+GRYWVMWKLPMFGCTEASQVLNEVNECAKAYPNAFIRVIGFDNVRQVQC--ISFIVHKPE--Y-------
+--------------------------*
+>P1;gi|132161|sp|P17673|RBS_TRIRP Ribulose bisphosphate carboxylase ... [ score 164 E 2e-40 ] [ range 68 .. 176 ]
+sequence
+-------------ETLSYLPPLTDEQLLKEVEYLLRKGWVPCVEFES--PGYY----------------D
+GRYWTMWRLPLFGTTDAAQVLKEVAECKAEYPEAFIRIIGFDNVRQVQC--ISFIASTPK----------
+--------------------------*
+>P1;gi|1352821|sp|P31333|RBS_GOSHI Ribulose bisphosphate carboxylase... [ score 164 E 3e-40 ] [ range 72 .. 180 ]
+sequence
+-------------ETLSYLPDLTPVQLAKEVDYLLRSKWIPCLEFEL--EEYY----------------D
+GRYWTMWKLPMFGCTDSAQVLEELENCKKEYPNAFIRIIGFDNVRQVQC--ISFIAYKPK----------
+--------------------------*
+>P1;gi|3928152|emb|CAA10290.1| ribulose 1,5-bisphosphate carboxylase... [ score 164 E 4e-40 ] [ range 71 .. 180 ]
+sequence
+-------------ETLSYLPPLTEEQLLKEVEYLLRKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPLFGCTEAVQVLKELQEVVKAYPNAFVRIIGFDNVRQVQC--ISFIAHTPK--E-------
+--------------------------*
+>P1;gi|30013663|gb|AAP03874.1| putative ribulose bisphosphate carbox... [ score 164 E 4e-40 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPDLSEEQLLSEIEYLLKNGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLAEVGEAKKAYPEAWIRIIGFDNVRQVQC--ISFIAYKPE----------
+--------------------------*
+>P1;gi|3914574|sp|O22572|RBS2_FRIAG Ribulose bisphosphate carboxylas... [ score 164 E 4e-40 ] [ range 72 .. 179 ]
+sequence
+-------------ETLSYLPTLSVESLLKQIEYLIRNGWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDAAQVVKEAAECKKEYPAAFIRVIGFDNVRQVQC--VSFIVEKPE----------
+--------------------------*
+>P1;gi|132145|sp|P08705|RBS_HELAN Ribulose bisphosphate carboxylase ... [ score 163 E 5e-40 ] [ range 68 .. 175 ]
+sequence
+-------------ETLSYLPPLTETQLAKEVDYLLRKKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSAQVMKELAECKKEYPQAWIRIIGFDNVRQVQC--IMFIASRP-----------
+--------------------------*
+>P1;gi|464595|sp|Q02980|RBS_MALSP Ribulose bisphosphate carboxylase ... [ score 163 E 5e-40 ] [ range 73 .. 181 ]
+sequence
+-------------ETLSYLPPLSTESLAKEVDYLLRKNWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSSQVLKELEEAKKAYPQSFIRIIGFDNVRQVQC--ISFIAYKPA----------
+--------------------------*
+>P1;gi|132096|sp|P18566|RBS2_ORYSA Ribulose bisphosphate carboxylase... [ score 163 E 7e-40 ] [ range 60 .. 167 ]
+sequence
+-------------ETLSYLPPLTVEDLLKQIEYLLRSKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLKELEEAKKAYPDAFIRIIGFDNVRQVQ--LISFIAYKPP----------
+--------------------------*
+>P1;gi|3914606|sp|Q41351|RBS_STELP Ribulose bisphosphate carboxylase... [ score 163 E 8e-40 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPDLSSEQLLSEIEYLLKNGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVAAEVQEAKKAYPDAHIRIIGFDNVRQVQC--ISFIAYKPE----------
+--------------------------*
+>P1;gi|20139857|sp|Q9XGX4|RBS3_AMAHP Ribulose bisphosphate carboxyla... [ score 163 E 8e-40 ] [ range 70 .. 180 ]
+sequence
+-------------ETLSYLPPLSDAQLLAQVQYLLNNGWIPCIEFES--PGYQ----------------D
+GRYWTMWKLPMYGCTDPAQVLNEVEEAKKAYPSAFIRIIGFDNKRQVQC--VSFIAFKP-----PGY---
+--------------------------*
+>P1;gi|132100|sp|P16131|RBS3_ACECL Ribulose bisphosphate carboxylase... [ score 162 E 1e-39 ] [ range 56 .. 177 ]
+sequence
+-------------ETFSYLPPLTDEQISKQVDYILANSWTPCLEFVS--STYQ----------------D
+NRYWTMWKLPMFGCTDGSQVLSEIQACTKAFPDAYIRLVCFDANRQVQ--ISGFLVHRPP--SATDYRL-
+--------------------------*
+>P1;gi|132118|sp|P26573|RBS8_NICPL Ribulose bisphosphate carboxylase... [ score 162 E 1e-39 ] [ range 70 .. 178 ]
+sequence
+-------------ETLSYLPDLSQEQLLSEIEYLLKSGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLAEVEEAKKAYPQAWVRIIGFDNVRQVQC--ISFIAYKPE----------
+--------------------------*
+>P1;gi|4038691|dbj|BAA35162.1| ribulose-1,5-bisphosphate carboxylase... [ score 161 E 2e-39 ] [ range 55 .. 162 ]
+sequence
+-------------ETLSYLPPLTTEALLKQVDYLIRSKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLNEVEEVKKEYPDAYVRIIGFDNLRQVQC--VSFIAFRPP----------
+--------------------------*
+>P1;gi|132101|sp|P16136|RBS3_ACEME Ribulose bisphosphate carboxylase... [ score 161 E 2e-39 ] [ range 55 .. 176 ]
+sequence
+-------------ETFSFLPPLTDEQISKQVDYILINSWTPCLEFVA--STYQ----------------D
+NRYWTMWKLPMFGCTDASQVLSEIQACTKAFPDAYIRLVCFDANRQVQ--ISGFLVHRPP--SATDYKL-
+--------------------------*
+>P1;gi|266892|sp|P29684|RBS_HEVBR Ribulose bisphosphate carboxylase ... [ score 161 E 2e-39 ] [ range 72 .. 180 ]
+sequence
+-------------ETLSYLPPLTREQLAKEVEYLLRKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDAVQVLQELDEMIKAYPDCYGRIIGFDNVRQVQC--ISFLAYKPK----------
+--------------------------*
+>P1;gi|3914592|sp|Q96542|RBS_BETVE Ribulose bisphosphate carboxylase... [ score 161 E 2e-39 ] [ range 72 .. 180 ]
+sequence
+-------------ETLSYLPPLSSEQLAKEVDYLLRKNLIPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCNDSSQVLKELEECKKAYPSAFIRIIGFDNKRQVQ--IISFIAYKPP----------
+--------------------------*
+>P1;gi|3914599|sp|O48550|RBS_ZANAE Ribulose bisphosphate carboxylase... [ score 161 E 3e-39 ] [ range 69 .. 176 ]
+sequence
+-------------ETLSYLPPLTREQLGQEVDYLIRNGWIPCIEFNS--PGYY----------------D
+GRYWTMWKLPMFGCTDSSQVLKEVDECSKAYPDYFNRIIGFDNTRQVQC--ISFLTYKPE----------
+--------------------------*
+>P1;gi|6409339|gb|AAF07947.1| ribulose-1,5-bisphosphate carboxylase ... [ score 161 E 3e-39 ] [ range 55 .. 162 ]
+sequence
+-------------ETLSYLPPLTEEALLKQIDFLIRSKWVPCLEFSK--PGYY----------------D
+GRYWTMWKLPMFGCTDASQVIKEVEEVKKEYPDAYVRIIGFDNIRQVQC--VSFIAFKPP----------
+--------------------------*
+>P1;gi|4090293|emb|CAA10497.1| hypothetical protein [Secale cereale] [ score 161 E 3e-39 ] [ range 60 .. 167 ]
+sequence
+-------------ETLSYLPPLTTEALLKQVDYLIRSKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVINEVEEVKKEYPDAYVRIIGFDNMRQVQC--VSFIAFKPP----------
+--------------------------*
+>P1;gi|4689388|gb|AAD27881.1| ribulose-1,5-bisphosphate carboxylase ... [ score 160 E 4e-39 ] [ range 69 .. 181 ]
+sequence
+-------------ETLSYLPDLTEEQLGKEVDYLLRSGWIPCLEFES--PGYY----------------D
+GRYWTMWKLPMYGCTDSSQVLKELREARTLYPDGFVRIVGFDSVRQVQC--ISFIAYKP-----PGY---
+--------------------------*
+>P1;gi|28797559|gb|AAO46871.1| ribulose-bisphosphate carboxylase sma... [ score 160 E 5e-39 ] [ range 58 .. 174 ]
+sequence
+-------------ETFSYLPPLTDEQIAAQVDYIVANGWIPCLEFAE--CLYY----------------D
+NRYWTMWKLPMFGCRDPMQVLREIVACTKAFPDAYVRLVAFDNVKQVQ--IMGFLVQRPK--SA------
+--------------------------*
+>P1;gi|3914594|sp|Q38692|RBS6_ACECL Ribulose bisphosphate carboxylas... [ score 160 E 5e-39 ] [ range 55 .. 176 ]
+sequence
+-------------ETFSYLPPLTDEQISKQVDYILANAWTPCLEFVA--STYQ----------------D
+NRYWTMWKLPMFGCTDGSQVLTEIQACTKAFPDAYIRLVCFDANRQVQ--ISGFLVHRPP--SATDYRL-
+--------------------------*
+>P1;gi|3914595|sp|Q38693|RBS7_ACECL Ribulose bisphosphate carboxylas... [ score 160 E 5e-39 ] [ range 56 .. 177 ]
+sequence
+-------------ETFSYLPPLTDEQISKQVDYILANSWTPCLEFVA--STYQ----------------D
+NRYWTMWKLPMFGCTDGSQVLSDMQACTKAFPDAYIRLVCFDANRQVQICG--FLVHRPP--SATDYRL-
+--------------------------*
+>P1;gi|132094|sp|P19308|RBS2_LEMGI Ribulose bisphosphate carboxylase... [ score 160 E 6e-39 ] [ range 70 .. 176 ]
+sequence
+-------------ETLSYLPPLSVEDLAKEVDYLLRNDWVPCIEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDASQVIAEVEEAKKAYPEYFVRIIGFDNKRQVQC--ISFIAYKP-----------
+--------------------------*
+>P1;gi|132106|sp|P07689|RBS3_PEA Ribulose bisphosphate carboxylase s... [ score 160 E 7e-39 ] [ range 70 .. 179 ]
+sequence
+-------------ETLSYLPPLTRDQLLKEVEYLLRKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGTTDASQVLKELDEVVAAYPQAFVRIIGFDNVRQVQC--ISFIAHTPE--S-------
+--------------------------*
+>P1;gi|4038725|dbj|BAA35179.1| ribulose-1,5-bisphosphate carboxylase... [ score 160 E 7e-39 ] [ range 54 .. 161 ]
+sequence
+-------------ETLSYLPPLSTEALLKQIDYLIRSKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDASQVIKELEEVKKEYPDAYVRIIGFDNLRQVQC--VSFIAFKPP----------
+--------------------------*
+>P1;gi|13517979|gb|AAK29079.1| ribulose-1,5-bisphosphate carboxylase... [ score 159 E 9e-39 ] [ range 1 .. 90 ]
+sequence
+--------MRLTQGCFSFLPDLSNEQIKNQINYAISKNWAVSVEWTD--DPHP----------------R
+NAYWELWGLPLFDIKDSAALMYELNECRKINPEGYIKINAFDASIG------------------------
+--------------------------*
+>P1;gi|18413570|emb|CAD21856.1| putative ribulose 1,5 biphosphate ca... [ score 159 E 9e-39 ] [ range 63 .. 179 ]
+sequence
+---------KIKFETLSYLPPLSEADLLAQINYLLINGWVPCLEFDS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVVAELEEAKKAYPHAFVRIIGFDNVRQVQC--VSFIAYKPP--RAEG----
+--------------------------*
+>P1;gi|7436565|pir||T02060 ribulose-bisphosphate carboxylase (EC 4.1... [ score 159 E 1e-38 ] [ range 60 .. 172 ]
+sequence
+-------------ETLSYLPPLTVEDLLKQIEYLLRSKWVPCLEFSS--PGYY----------------D
+GRYWTMWKLPMFGCTDATQVLKELEDAKKAYPDAFVRIIGFDNVRQVQ--LISLIANKPP--GRAEF---
+--------------------------*
+>P1;gi|13241101|gb|AAK16227.1| ribulose-1,5-bisphosphate carboxylase... [ score 159 E 1e-38 ] [ range 21 .. 128 ]
+sequence
+-------------ETLSYLPNLTETQLAKEVDYLLRNKWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDSSQVMKELGECKKEYPQAWIRIIGFDNVRQVQC--ISFIASKP-----------
+--------------------------*
+>P1;gi|132076|sp|P00873|RBS1_CHLRE Ribulose bisphosphate carboxylase... [ score 159 E 1e-38 ] [ range 58 .. 177 ]
+sequence
+-------------ETFSYLPPLTDEQIAAQVDYIVANGWIPCLEFAE--CLYY----------------D
+NRYWTMWKLPMFGCRDPMQVLREIVACTKAFPDAYVRLVAFDNQKQVQ--IMGFLVQRPK--TARDF---
+--------------------------*
+>P1;gi|132155|sp|P18960|RBS_SILPR Ribulose bisphosphate carboxylase ... [ score 159 E 1e-38 ] [ range 69 .. 177 ]
+sequence
+-------------ETLSYLPTLSEESLLKEINYLLIKGWVPCLEFES--PGYY----------------D
+GRYWTMWKLPMFGCTDASQVAAEVVECKNAYPDAHVRIIGFDNKRQVQC--ISFIAYKPE----------
+--------------------------*
+>P1;gi|6272550|gb|AAF06100.1| ribulose 1,5-bisphosphate carboxylase ... [ score 159 E 1e-38 ] [ range 72 .. 180 ]
+sequence
+-------------ETLSYLPPLSREQLASEIDYLLRSGWIPCLEFEL--PGYY----------------D
+GRYWTMWKLPMFGCTDSSQVLKELDELIKAHPDGFARIIGFDNVRQVQC--ISFIAYKPP----------
+--------------------------*
+>P1;gi|228356|prf||1803224A RuBisCO:SUBUNIT=small:ISOTYPE=1 [ score 159 E 1e-38 ] [ range 48 .. 169 ]
+sequence
+-------------ETFSYLPPLTDDQITKQVDYILRNNWTPCLEFTH--DNYQ----------------D
+NRYWTMWKLPMFGCIDGSQVLTEISACTKAFPDAYIRLVCFDANRQVQ--ISGFLVHRPE--SATDYRL-
+--------------------------*
+>P1;gi|5777796|emb|CAA47180.2| ribulose 1-5 bisphosphate carboxylase... [ score 159 E 1e-38 ] [ range 147 .. 260 ]
+sequence
+-------------ETFSYLPPLSDAQIAKQVDMIIAKGLSPCLEFTA--AGYY----------------D
+NRYWTMWKLPMFGCTDASQVLREISECRRAYPQCYVRLAAFDSVKQVQ--VISFVVQRP-----------
+--------------------------*
+>P1;gi|4098852|gb|AAD00448.1| ribulose-1,5-bisphosphate carboxylase/... [ score 158 E 3e-38 ] [ range 13 .. 132 ]
+sequence
+-------------ETFSYLPALTTEQIAKQVDYVIRNGWTPCLEFAD--PSYY----------------D
+NRYWTMWKLPMFGCTDASQVLKEIAACNAAFPESYSRLVAFDNNKQVQC--MGFLVQRPK--NATEY---
+--------------------------*
+>P1;gi|132085|sp|P26574|RBS1_SOLTU Ribulose bisphosphate carboxylase... [ score 248 E 2e-65 ] [ range 59 .. 181 ]
+sequence
+-MQVWPPINMKKYETLSYLPDLTDEQLLKEVEYLLKNGWVPCLEFET-EHGFVYRENHK-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLAEVQECKKSYPQAWIRIIGFDNV--RQVQCISFIAYKPEGY--------
+--------------------------*
+>P1;gi|417593|sp|P32764|RBS3_SOLTU Ribulose bisphosphate carboxylase... [ score 245 E 1e-64 ] [ range 59 .. 181 ]
+sequence
+-MQVWPPINMKKYETLSYLPDLSDEQLLKEVEYLLKNGWVPCLEFET-EHGFVYRENHK-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLAEVQEAKKAYPQAWIRIIGFDNV--RQVQCISFIAYKPEGY--------
+--------------------------*
+>P1;gi|40287530|gb|AAR83879.1| Cristal-Glass1 protein [Capsicum annuum] [ score 245 E 2e-64 ] [ range 58 .. 180 ]
+sequence
+-MLVWPPINKKKYETLSYLPDLSDEQLLKEIEYLLQKGWVPCLEFET-EHGFVYREHHR-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLNEVQEAKKAYPQAWIRIIGFDNV--RQVQCISFIAYKPEGY--------
+--------------------------*
+>P1;gi|132098|sp|P04715|RBS2_PETSP Ribulose bisphosphate carboxylase... [ score 244 E 3e-64 ] [ range 58 .. 180 ]
+sequence
+-MQVWPPYGKKKYETLSYLPDLTDEQLLKEIEYLLNKGWVPCLEFET-EHGFVYREYHA-----SPRYYD
+GRYWTMWKLPMFGCTDATQVLGELQEAKKAYPNAWIRIIGFDNV--RQVQCISFIAYKPPGY--------
+--------------------------*
+>P1;gi|10946377|gb|AAG24883.1| ribulose-1,5-bisphosphate carboxylase... [ score 244 E 4e-64 ] [ range 56 .. 178 ]
+sequence
+-MQVWPPVGKKKFETLSYLPDLDDAQLAKEVEYLLRKGWIPCLEFEL-EHGFVYREHNR-----SPGYYD
+GRYWTMWKLPMFGCTDASQVLKELQEAKTAYPNGFIRIIGFDNV--RQVQCISFIAYKPPGF--------
+--------------------------*
+>P1;gi|2529378|gb|AAB81105.1| ribulose 1,5-bisphosphate carboxylase ... [ score 243 E 5e-64 ] [ range 58 .. 180 ]
+sequence
+-MKVWPTQNMKRYETLSYLPPLTTDQLARQVDYLLNNKWVPCLEFET-DHGFVYREHHN-----SPGYYD
+GRYWTMWKLPMFGCTDPAQVLNELEECKKEYPNAFIRIIGFDSN--RQVQCVSFIAYKPAGY--------
+--------------------------*
+>P1;gi|132112|sp|P05349|RBS4_LYCES Ribulose bisphosphate carboxylase... [ score 243 E 5e-64 ] [ range 58 .. 180 ]
+sequence
+-MQVWPPINMKKYETLSYLPDLSDEQLLSEIEYLLKNGWVPCLEFET-EHGFVYRENHK-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLAEVQEAKKAYPQAWVRIIGFDNV--RQVQCISFIAYKPEGY--------
+--------------------------*
+>P1;gi|15219826|ref|NP_176880.1| ribulose bisphosphate carboxylase s... [ score 243 E 8e-64 ] [ range 56 .. 178 ]
+sequence
+-MQVWPPIGKKKFETLSYLPDLTDSELAKEVDYLIRNKWIPCVEFEL-EHGFVYREHGN-----SPGYYD
+GRYWTMWKLPLFGCTDSAQVLKEVEECKKEYPNAFIRIIGFDNT--RQVQCISFIAYKPPSF--------
+--------------------------*
+>P1;gi|3914591|sp|Q42823|RBS_GLYTA Ribulose bisphosphate carboxylase... [ score 242 E 1e-63 ] [ range 56 .. 178 ]
+sequence
+-MQVWPTTGKKKFETLSYLPDLDDAQLAKEVEYLLRKGWIPCLEFEL-EHGFVYREHHR-----SPGYYD
+GRYWTMWKLPMFGCTDASQVLKELQEAKTAYPNAFIRIIGFDNV--RQVQCISFIAYKPPSF--------
+--------------------------*
+>P1;gi|464595|sp|Q02980|RBS_MALSP Ribulose bisphosphate carboxylase ... [ score 241 E 2e-63 ] [ range 61 .. 183 ]
+sequence
+-MQVWPPLGLKKFETLSYLPPLSTESLAKEVDYLLRKNWVPCLEFEL-EHGFVYRENHR-----SPGYYD
+GRYWTMWKLPMFGCTDSSQVLKELEEAKKAYPQSFIRIIGFDNV--RQVQCISFIAYKPAGF--------
+--------------------------*
+>P1;gi|132071|sp|P10647|RBS0_SOLTU Ribulose bisphosphate carboxylase... [ score 241 E 3e-63 ] [ range 59 .. 181 ]
+sequence
+-MQVWPPINMKKYETLSYLPDLSDEQLLKEVEYLLKNGWVPCLEFET-EHGFVYREHNS-----SPGYYD
+GRYWTMWKLPMFGCTDGTQVLAEVQEAKNAYPQAWIRIIGFDNV--RQVQCISFIAYKPEGY--------
+--------------------------*
+>P1;gi|132118|sp|P26573|RBS8_NICPL Ribulose bisphosphate carboxylase... [ score 241 E 3e-63 ] [ range 58 .. 180 ]
+sequence
+-MQVWPPINKKKYETLSYLPDLSQEQLLSEIEYLLKSGWVPCLEFET-ERGFVYREHHH-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLAEVEEAKKAYPQAWVRIIGFDNV--RQVQCISFIAYKPEGY--------
+--------------------------*
+>P1;gi|3914604|sp|Q40250|RBS_LACSA Ribulose bisphosphate carboxylase... [ score 240 E 4e-63 ] [ range 58 .. 179 ]
+sequence
+-MKVWPPIGLKKYETLSYLPPLSDEALSKEIDYLIRNKWIPCLEFEL-EHGFVYREHHH-----SPGYYD
+GRYWTMWKLPMFGCTDSAQVMKEVGECKKEYPNAFIRVIGFDNI--RQVQCISFIVAKPPG---------
+--------------------------*
+>P1;gi|15240912|ref|NP_198659.1| ribulose bisphosphate carboxylase s... [ score 240 E 4e-63 ] [ range 56 .. 178 ]
+sequence
+-MKVWPPIGKKKFETLSYLPDLTDVELAKEVDYLLRNKWIPCVEFEL-EHGFVYREHGN-----TPGYYD
+GRYWTMWKLPLFGCTDSAQVLKEVEECKKEYPGAFIRIIGFDNT--RQVQCISFIAYKPPSF--------
+--------------------------*
+>P1;gi|6635351|gb|AAF19793.1| ribulose-1,5-bisphosphate carboxylase/... [ score 239 E 9e-63 ] [ range 58 .. 179 ]
+sequence
+-MKVWPPIGLKKYETLSYLPPLSDEALSKEIDYLIRNKWVPCLEFEL-EHGFVYREHHH-----SPGYYD
+GRYWTMWKLPMFGCTDSAQVMKEVGECKKEYPNAFIRVIGFDSV--RQVQCISFIVSKPPG---------
+--------------------------*
+>P1;gi|132154|sp|P08135|RBS_RAPSA Ribulose bisphosphate carboxylase ... [ score 238 E 1e-62 ] [ range 56 .. 178 ]
+sequence
+-MKVWPPIGKKKFETLSYLPDLSDVELAKEVDYLLRNKWIPCVEFEL-EHGFVYREHGS-----TPGYYD
+GRYWTMWKLPLFGCTDSAQVLKEVQECKKEYPNALIRIIGFDNN--RQVQCISFIAYKPPSF--------
+--------------------------*
+>P1;gi|24940138|emb|CAD11990.1| rubisco small subunit [Coffea arabic... [ score 238 E 1e-62 ] [ range 59 .. 181 ]
+sequence
+-MQVWPPRGLKKYETLSYLPDLTDEQLLKEIDYLIRSGWVPCLEFEL-EKGFVYREYHR-----SPGYYD
+GRYWTMWKLPMYGCTDATQVLNEVGECLKEYPNCWVRIIGFDNV--RQVQCISFIAAKPKGF--------
+--------------------------*
+>P1;gi|585791|sp|Q08186|RBS6_MESCR Ribulose bisphosphate carboxylase... [ score 238 E 2e-62 ] [ range 62 .. 184 ]
+sequence
+-MQVWPPLGKKKFETLSYLPPLSEESLLKEVQYLLNNGWVPCLEFEP-THGFVYREHGN-----TPGYYD
+GRYWTMWKLPMFGCTDPSQVVAELEEAKKAYPEAFIRIIGFDNV--RQVQCVSFIAYKPASY--------
+--------------------------*
+>P1;gi|20139857|sp|Q9XGX4|RBS3_AMAHP Ribulose bisphosphate carboxyla... [ score 238 E 2e-62 ] [ range 58 .. 180 ]
+sequence
+-MQVWPPVGKKKFETLSYLPPLSDAQLLAQVQYLLNNGWIPCIEFEL-EHPFVYRENHR-----SPGYQD
+GRYWTMWKLPMYGCTDPAQVLNEVEEAKKAYPSAFIRIIGFDNK--RQVQCVSFIAFKPPGY--------
+--------------------------*
+>P1;gi|3914590|sp|Q42822|RBS_GLYTO Ribulose bisphosphate carboxylase... [ score 238 E 2e-62 ] [ range 56 .. 178 ]
+sequence
+-MQVWPTTGKKKFETLSYLPDLDDAQLAKEVEYLLRKGWIPCLEFEL-EHGFVYRENHR-----SPGYYD
+GRYWTMWKLPVFGCTDASQVLKELQEAKTAYPNGFIRIIGFDNV--RQVQCISFIAYKPPSF--------
+--------------------------*
+>P1;gi|81885|pir||S20508 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 237 E 3e-62 ] [ range 58 .. 180 ]
+sequence
+-IQVWPTVGKKKFETLSYLPPLTKQQLAKEVDYLLRKGWVPCLEFEL-EHGFVYREHNK-----SPGYYD
+GRYWTMWKLPMFGCTDSSQVLKELYEAQTAHPDGFIRIIGFDNV--RQVQCISFIAYKPPGY--------
+--------------------------*
+>P1;gi|30013663|gb|AAP03874.1| putative ribulose bisphosphate carbox... [ score 237 E 3e-62 ] [ range 58 .. 180 ]
+sequence
+-MQVWPPYGKKKYETLSYLPDLSEEQLLSEIEYLLKNGWVPCLEFET-ERGFVYRENNK-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLAEVGEAKKAYPEAWIRIIGFDNV--RQVQCISFIAYKPEGY--------
+--------------------------*
+>P1;gi|132079|sp|P08706|RBS1_LYCES Ribulose bisphosphate carboxylase... [ score 237 E 3e-62 ] [ range 59 .. 181 ]
+sequence
+-MQVWPPINMKKYETLSYLPDLSDEQLLSEIEYLLKNGWVPCLEFET-ERGFVYRENNS-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLAEVQEAKKAYPQAWVRIIGFDNV--RQVQCISFIAYKPEGF--------
+--------------------------*
+>P1;gi|480983|pir||S37575 ribulose-bisphosphate carboxylase (EC 4.1.... [ score 237 E 4e-62 ] [ range 56 .. 178 ]
+sequence
+-MKVWPPVGKKKFETLSYLPDLTDVELAKEVDYLLRNKWIPCVEFEL-EHGFVYREHGN-----TPGYND
+GRYWTMWKLPLFGCTDSAQVLKEVQECKTEYPNAFIRIIGFDNN--RQVQCISFIAYKPPSF--------
+--------------------------*
+>P1;gi|3914601|sp|O65194|RBS_MEDSA Ribulose bisphosphate carboxylase... [ score 237 E 5e-62 ] [ range 58 .. 180 ]
+sequence
+-MQVWPPVGKKKFETLSYLPPLTEEQLAKEVEYLIRKGWIPCLEFEL-EKGFVYRENHR-----SPGYYD
+GRYWTMWRLPLFGATDSSQVLKELADCKAEYPDSFIRIIGFDNV--RQVQCISFIAHTPKNY--------
+--------------------------*
+>P1;gi|3914581|sp|Q39746|RBS4_FLAPR Ribulose bisphosphate carboxylas... [ score 236 E 6e-62 ] [ range 56 .. 178 ]
+sequence
+-MKVWPPLGKKKYETLSYLPNLTEAQLAKEVDYLLRNKWVPCLEFEL-EHGFVYRENAR-----SPGYYD
+GRYWTMWKLPMFGCTDSAQVMKELQECKKEYPQAWIRIIGFDNV--RQVQCISFIASKPDGF--------
+--------------------------*
+>P1;gi|3914606|sp|Q41351|RBS_STELP Ribulose bisphosphate carboxylase... [ score 236 E 9e-62 ] [ range 58 .. 180 ]
+sequence
+-MQVWPPINMKKYETLSYLPDLSSEQLLSEIEYLLKNGWVPCLEFET-EHGFVYREHTS-----SPGYYD
+GRYWTMWKLPMFGCTDATQVAAEVQEAKKAYPDAHIRIIGFDNV--RQVQCISFIAYKPEAF--------
+--------------------------*
+>P1;gi|23398556|gb|AAH38257.1| Unknown (protein for MGC:47002) [Mus ... [ score 236 E 9e-62 ] [ range 58 .. 180 ]
+sequence
+-MQVWPPLGLKKFETLSYLPPLTTEQLLAEVNYLLVKGWIPCLEFEV-KDGFVYREHNK-----SPGYYD
+GRYWTMWKLPMFGCTDPAQVVNEVEEVKKAYPDAFVRIIGFDNK--RQVQCISFIAYKPSGY--------
+--------------------------*
+>P1;gi|6272550|gb|AAF06100.1| ribulose 1,5-bisphosphate carboxylase ... [ score 236 E 1e-61 ] [ range 60 .. 181 ]
+sequence
+-MQVWPTRGKKKFETLSYLPPLSREQLASEIDYLLRSGWIPCLEFEL-EHGFVYRAHGS-----LPGYYD
+GRYWTMWKLPMFGCTDSSQVLKELDELIKAHPDGFARIIGFDNV--RQVQCISFIAYKPPG---------
+--------------------------*
+>P1;gi|28139169|gb|AAO25119.1| ribulose-1,5-bisphosphate carboxylase... [ score 235 E 2e-61 ] [ range 57 .. 179 ]
+sequence
+-MKVWPPLGLKKYETLSYLPPLTETQLAKEVEYLLRNKWVPCLEFEL-EHGFPYRENNR-----SPGYYD
+GRYWTMWKLPMFGCNDASQVLKELNECKKEYPQSWVRIIGFDNV--RQVQCISFIAHKPDGY--------
+--------------------------*
+>P1;gi|30421141|gb|AAP31053.1| ribulose-1,5-bisphosphate carboxylase... [ score 235 E 2e-61 ] [ range 51 .. 173 ]
+sequence
+-MKVWPPVGKKKYETLSYLPELTEAQLAKEIDYLIRNKWVPCLEFEL-EHGFVYRENAR-----SPGYYD
+GRYWTMWKLPMFGCTDSAQVMKELQECKKEYPQAWIRIIGFDNV--RQVQCVSFIASKPTGF--------
+--------------------------*
+>P1;gi|132091|sp|P27985|RBS2_BRANA Ribulose bisphosphate carboxylase... [ score 235 E 2e-61 ] [ range 56 .. 178 ]
+sequence
+-MKVWPPVGKKKFETLSYLPDLTEVELGKEVDYLLRNKWIPCVEFEL-EHGFVYREHGS-----TPGYYD
+GRYWTMWKLPLFGCTDSAQVLKEVQECKTEYPNAFIRIIGFDNN--RQVQCISFIAYKPPSF--------
+--------------------------*
+>P1;gi|132145|sp|P08705|RBS_HELAN Ribulose bisphosphate carboxylase ... [ score 234 E 2e-61 ] [ range 56 .. 178 ]
+sequence
+-MKVWPPLGLKKYETLSYLPPLTETQLAKEVDYLLRKKWVPCLEFEL-EHGFVYRENAR-----SPGYYD
+GRYWTMWKLPMFGCTDSAQVMKELAECKKEYPQAWIRIIGFDNV--RQVQCIMFIASRPDGY--------
+--------------------------*
+>P1;gi|3914589|sp|Q42516|RBS1_AMAHP Ribulose bisphosphate carboxylas... [ score 234 E 2e-61 ] [ range 60 .. 181 ]
+sequence
+-MQVWPPVGKKKFETLSYLPPLSDAQLLAQVQYLLNKGWIPCIEFEL-EHPFVYRENHR-----SPGYQD
+GRYWTMWKLPMYGCTDPAQVLNEVEEAKKAYPSAFIRIIGFDNK--RQVQCVSFIAYKPAG---------
+--------------------------*
+>P1;gi|13241101|gb|AAK16227.1| ribulose-1,5-bisphosphate carboxylase... [ score 234 E 2e-61 ] [ range 9 .. 131 ]
+sequence
+-MKVWPPLGKKKYETLSYLPNLTETQLAKEVDYLLRNKWVPCLEFEL-EHGFVYRENHR-----SPGYYD
+GRYWTMWKLPMFGCTDSSQVMKELGECKKEYPQAWIRIIGFDNV--RQVQCISFIASKPDGY--------
+--------------------------*
+>P1;gi|132138|sp|P08474|RBS_CUCSA Ribulose bisphosphate carboxylase ... [ score 234 E 4e-61 ] [ range 60 .. 179 ]
+sequence
+-MKVWPPLGLRKFETLSYLPDMSNEQLSKECDYLLRNGWVPCVEFDI-GSGFVYRENHR-----SPGFYD
+GRYWTMWKLPMFGCTDSSQVIQEIEEAKKEYPDAFIRVIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|132097|sp|P00869|RBS2_PEA Ribulose bisphosphate carboxylase s... [ score 234 E 4e-61 ] [ range 58 .. 180 ]
+sequence
+-MQVWPPIGKKKFETLSYLPPLTRDQLLKEVEYLLRKGWVPCLEFEL-EKGFVYREHNK-----SPGYYD
+GRYWTMWKLPMFGTTDASQVLKELDEVVAAYPQAFVRIIGFDNV--RQVQCISFIAHTPESY--------
+--------------------------*
+>P1;gi|3914592|sp|Q96542|RBS_BETVE Ribulose bisphosphate carboxylase... [ score 234 E 4e-61 ] [ range 60 .. 181 ]
+sequence
+-MQVWPPLGLKKFETLSYLPPLSSEQLAKEVDYLLRKNLIPCLEFEL-EHGFVYREHNR-----SPGYYD
+GRYWTMWKLPMFGCNDSSQVLKELEECKKAYPSAFIRIIGFDNK--RQVQIISFIAYKPPG---------
+--------------------------*
+>P1;gi|3928152|emb|CAA10290.1| ribulose 1,5-bisphosphate carboxylase... [ score 234 E 4e-61 ] [ range 59 .. 181 ]
+sequence
+-MQVWPPIGKKKFETLSYLPPLTEEQLLKEVEYLLRKGWVPCLEFEL-EKGFVYREHNN-----SPGYYD
+GRYWTMWKLPLFGCTEAVQVLKELQEVVKAYPNAFVRIIGFDNV--RQVQCISFIAHTPKEF--------
+--------------------------*
+>P1;gi|3914608|sp|Q42915|RBS_MANES Ribulose bisphosphate carboxylase... [ score 233 E 9e-61 ] [ range 60 .. 181 ]
+sequence
+-MKVWPTLGMKKFETLSYLPPLTREQLASEVEYLLRSGWIPCLEFEL-EHGLVYREHAR-----VPGYYD
+GRYWTMWKLPMFGCTDAAQVLKELDELIKHHPDGYARIIGFDNV--RQVQCISFLAYKPPG---------
+--------------------------*
+>P1;gi|266892|sp|P29684|RBS_HEVBR Ribulose bisphosphate carboxylase ... [ score 232 E 1e-60 ] [ range 60 .. 181 ]
+sequence
+-MQVWPPRGKKFYETLSYLPPLTREQLAKEVEYLLRKGWVPCLEFEL-EHGTVYREYHR-----SPGYYD
+GRYWTMWKLPMFGCTDAVQVLQELDEMIKAYPDCYGRIIGFDNV--RQVQCISFLAYKPKG---------
+--------------------------*
+>P1;gi|1352821|sp|P31333|RBS_GOSHI Ribulose bisphosphate carboxylase... [ score 231 E 3e-60 ] [ range 60 .. 182 ]
+sequence
+-MQVWPPLGKKKFETLSYLPDLTPVQLAKEVDYLLRSKWIPCLEFEL-EEGFVHRKYSS-----LPTYYD
+GRYWTMWKLPMFGCTDSAQVLEELENCKKEYPNAFIRIIGFDNV--RQVQCISFIAYKPKGY--------
+--------------------------*
+>P1;gi|3914599|sp|O48550|RBS_ZANAE Ribulose bisphosphate carboxylase... [ score 231 E 3e-60 ] [ range 57 .. 177 ]
+sequence
+-MQVWPPEGKKKFETLSYLPPLTREQLGQEVDYLIRNGWIPCIEF-C-KVGFVYREYHN-----SPGYYD
+GRYWTMWKLPMFGCTDSSQVLKEVDECSKAYPDYFNRIIGFDNT--RQVQCISFLTYKPEG---------
+--------------------------*
+>P1;gi|132096|sp|P18566|RBS2_ORYSA Ribulose bisphosphate carboxylase... [ score 229 E 9e-60 ] [ range 48 .. 168 ]
+sequence
+-MQVWPIEGIKKFETLSYLPPLTVEDLLKQIEYLLRSKWVPCLEFS--KVGFVYRENHR-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLKELEEAKKAYPDAFIRIIGFDNV--RQVQLISFIAYKPPG---------
+--------------------------*
+>P1;gi|132161|sp|P17673|RBS_TRIRP Ribulose bisphosphate carboxylase ... [ score 229 E 9e-60 ] [ range 56 .. 178 ]
+sequence
+-MQVWPPVGKKKFETLSYLPPLTDEQLLKEVEYLLRKGWVPCVEFEL-EKGFVHRQYNS-----SPGYYD
+GRYWTMWRLPLFGTTDAAQVLKEVAECKAEYPEAFIRIIGFDNV--RQVQCISFIASTPKVY--------
+--------------------------*
+>P1;gi|223593|prf||0902172A carboxylase/oxygenase,RBP [ score 228 E 2e-59 ] [ range 1 .. 123 ]
+sequence
+-MQVWPPINKKKYETLSYLPDLSQEQLLLEPDYLLKDGWVPCLEFET-EHGFVYRENNK-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLAEVGEAKKAYPEAWIRIIGFDNV--RQVQCISFIAYKPEGY--------
+--------------------------*
+>P1;gi|4689388|gb|AAD27881.1| ribulose-1,5-bisphosphate carboxylase ... [ score 226 E 9e-59 ] [ range 57 .. 181 ]
+sequence
+-MQVWPTIGKKKFETLSYLPDLTEEQLGKEVDYLLRSGWIPCLEFEL-SHAFPHRENNR-----SPGYYD
+GRYWTMWKLPMYGCTDSSQVLKELREARTLYPDGFVRIVGFDSV--RQVQCISFIAYKPPGY--------
+--------------------------*
+>P1;gi|7436565|pir||T02060 ribulose-bisphosphate carboxylase (EC 4.1... [ score 225 E 2e-58 ] [ range 48 .. 168 ]
+sequence
+-MQVWPIEGIKKFETLSYLPPLTVEDLLKQIEYLLRSKWVPCLEFS--KVGFVYRENHR-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLKELEDAKKAYPDAFVRIIGFDNV--RQVQLISLIANKPPG---------
+--------------------------*
+>P1;gi|6409339|gb|AAF07947.1| ribulose-1,5-bisphosphate carboxylase ... [ score 224 E 3e-58 ] [ range 43 .. 163 ]
+sequence
+-MQVWPIEGIKKFETLSYLPPLTEEALLKQIDFLIRSKWVPCLEFS--KVGFIFREHGS-----TPGYYD
+GRYWTMWKLPMFGCTDASQVIKEVEEVKKEYPDAYVRIIGFDNI--RQVQCVSFIAFKPPG---------
+--------------------------*
+>P1;gi|18413570|emb|CAD21856.1| putative ribulose 1,5 biphosphate ca... [ score 224 E 3e-58 ] [ range 55 .. 176 ]
+sequence
+-MQVWPPEGKIKFETLSYLPPLSEADLLAQINYLLINGWVPCLEFDV-GPGAVYREHHH-----SPGYYD
+GRYWTMWKLPMFGCTDATQVVAELEEAKKAYPHAFVRIIGFDNV--RQVQCVSFIAYKPPR---------
+--------------------------*
+>P1;gi|68096|pir||RKDWS ribulose-bisphosphate carboxylase (EC 4.1.1.... [ score 224 E 3e-58 ] [ range 54 .. 172 ]
+sequence
+-MQVWPPEGLKKFETLSYLPPLSVEDLAKEVDYLLRNDWVPCIEFSK-E-GFVYRENHA-----SPGYYD
+GRYWTMWKLPMFGCTDASQVIAEVEEAKKAYPEYFVRIIGFDNK--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|4038667|dbj|BAA35150.1| ribulose-1,5-bisphosphate carboxylase... [ score 224 E 4e-58 ] [ range 43 .. 164 ]
+sequence
+-MQVWPIEGIKKFETLSYLPPLSTEALLKQVDYLIRSKWVPCLEFS--KVGFVFREHNS-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLSEVEEVKKEYPDAYVRVIGFDNL--RQVQCVSFIAFRPPGW--------
+--------------------------*
+>P1;gi|4038725|dbj|BAA35179.1| ribulose-1,5-bisphosphate carboxylase... [ score 223 E 4e-58 ] [ range 42 .. 162 ]
+sequence
+-MQVWPIEGIKKFETLSYLPPLSTEALLKQIDYLIRSKWVPCLEFS--KVGFVFREHNA-----SPGYYD
+GRYWTMWKLPMFGCTDASQVIKELEEVKKEYPDAYVRIIGFDNL--RQVQCVSFIAFKPPG---------
+--------------------------*
+>P1;gi|4090293|emb|CAA10497.1| hypothetical protein [Secale cereale] [ score 223 E 6e-58 ] [ range 48 .. 168 ]
+sequence
+-MQVWPIEGIKKFETLSYLPPLTTEALLKQVDYLIRSKWVPCLEFS--KVGFIFREHNA-----SPGYYD
+GRYWTMWKLPMFGCTDATQVINEVEEVKKEYPDAYVRIIGFDNM--RQVQCVSFIAFKPPG---------
+--------------------------*
+>P1;gi|3914585|sp|O22077|RBS_FAGCR Ribulose bisphosphate carboxylase... [ score 221 E 3e-57 ] [ range 60 .. 180 ]
+sequence
+-MKVWPPLGLQKFETLSYLPPLSIESLAKQIEYLILKGWIPCLEFEL-EHPFVYRENNR-----SPGYYD
+GRYWVMWKLPMFGCTDATQVLAELQEASKTYPTSHIRIIGFDNK--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|1673456|emb|CAA70416.1| rubisco small subunit [Zea mays] [ score 219 E 7e-57 ] [ range 48 .. 168 ]
+sequence
+-MQVWPAYGNKKFETLSYLPPLSTDDLLKQVDYLLRNGWIPCLEFS--KLGFVYRENST-----SPCYYD
+GRYWTMWKLPMFGCTDATQVYKELQEAIAAYPDAFHRVIGFDNV--RQTQCVSFIAYKPPG---------
+--------------------------*
+>P1;gi|132155|sp|P18960|RBS_SILPR Ribulose bisphosphate carboxylase ... [ score 219 E 1e-56 ] [ range 57 .. 177 ]
+sequence
+-MQVWPPRNLKKFETLSYLPTLSEESLLKEINYLLIKGWVPCLEFEV-GPAHVYRENNK-----SPGYYD
+GRYWTMWKLPMFGCTDASQVAAEVVECKNAYPDAHVRIIGFDNK--RQVQCISFIAYKPE----------
+--------------------------*
+>P1;gi|3914598|sp|O24045|RBS_MUSAC Ribulose bisphosphate carboxylase... [ score 219 E 1e-56 ] [ range 59 .. 180 ]
+sequence
+-MKVWPIEGVKKFETLSYLPTMKDEALVKQIEYLLRSKWIPCLEF-C-PKGFVWRENHR-----SPGYYD
+GRYWTMWKLPMFGCTDAVQVAKEVEECKKEYPHAFIRIIGFDNN--RQVQCISFIAYKPTGY--------
+--------------------------*
+>P1;gi|3914574|sp|O22572|RBS2_FRIAG Ribulose bisphosphate carboxylas... [ score 217 E 4e-56 ] [ range 60 .. 179 ]
+sequence
+-MKVWPIVGLKKFETLSYLPTLSVESLLKQIEYLIRNGWVPCLEFSL-E-GFVSRDNNK-----SPGYYD
+GRYWTMWKLPMFGCTDAAQVVKEAAECKKEYPAAFIRVIGFDNV--RQVQCVSFIVEKPE----------
+--------------------------*
+>P1;gi|132082|sp|P00868|RBS1_PEA Ribulose bisphosphate carboxylase s... [ score 216 E 5e-56 ] [ range 14 .. 136 ]
+sequence
+-MQVWPPIGKKKFETLSYLPPLTRDQLLKEVEYLLRKGWVPCLEFEL-LKGFVYGEHNK-----SPRYYD
+GRYWTMWKLPMFGTTDPAQVVKEVDEVVAAYPEAFVRVIGFNNV--RQVQCISFIAHTPESY--------
+--------------------------*
+>P1;gi|132147|sp|P05348|RBS_MAIZE Ribulose bisphosphate carboxylase ... [ score 216 E 7e-56 ] [ range 48 .. 168 ]
+sequence
+-MQVWPAYGNKKFETLSYLPPLSTDDLLKQVDYLLRNGWIPCLEFS--KVGFVYRENST-----SPCYYD
+GRYWTMWKLPMFGCNDATQVYKELQEAIKSYPDAFHRVIGFDNI--KQTQCVSFIAYKPPG---------
+--------------------------*
+>P1;gi|6272547|gb|AAF06097.1| ribulose 1,5-bisphosphate carboxylase ... [ score 214 E 4e-55 ] [ range 60 .. 175 ]
+sequence
+-MKVWPTLGMKKFETLSYLPPLTREQLAKP------SCIGPCLEFEL-EHGLVYREHAR-----VPGYYD
+GRYWTMWKLPMFGCTDAAQVLKELDELIKHHPDGYARIIGFDNV--RQVQCISFLAYKPPG---------
+--------------------------*
+>P1;gi|132157|sp|P00870|RBS1_SPIOL Ribulose bisphosphate carboxylase... [ score 213 E 7e-55 ] [ range 1 .. 123 ]
+sequence
+-MQVWPPLGLKKFETLSYLPPLTTEQLLAEVNYLLVKGWIPPLEFEV-KDGFVYREHDK-----SPGYYD
+GRYWTMWKLPMFGGTDPAQVVNEVEEVKKAPPDAFVRFIGFNDK--REVQCISFIAYKPAGY--------
+--------------------------*
+>P1;gi|12240092|gb|AAG49562.1| ribulose-1,5-bisphosphate carboxylase... [ score 213 E 7e-55 ] [ range 2 .. 118 ]
+sequence
+-MQVWPPTGLKKFETLSYLPPLSDEALLKEISYLLRSGWIPCLEFEL-EKGWVYREHHS-----SPGYYD
+GRYWTMWKLPMYGCTDATQVLKEVGEVQKEYPHSFVRIIGFDNK--RQVQCISFIA--------------
+--------------------------*
+>P1;gi|132146|sp|P16031|RBS_LARLA Ribulose bisphosphate carboxylase ... [ score 213 E 8e-55 ] [ range 68 .. 187 ]
+sequence
+-MQVWPPYANKKFETLSYLPRLTPEQLVKEVEYLLKNKWVPCLEFEE-D-GEIKRVYGN-----SPGYYD
+GRYWVMWKLPMFGCTEASQVLNEVNECAKAYPNAFIRVIGFDNV--RQVQCISFIVHKPE----------
+--------------------------*
+>P1;gi|132081|sp|P05347|RBS1_ORYSA Ribulose bisphosphate carboxylase... [ score 209 E 1e-53 ] [ range 46 .. 164 ]
+sequence
+-MQVWPIEGIKKFETLSYLPPLTVEDLLKQIEYLAPFQVVPCLEFS--KVGFVYRENHK-----SPGYYD
+GRYWTMWKLPMFGCTDATQVVKELEEAKKAYPDAFVRIIGFDNV--RQVQLISFIAYNP-----------
+--------------------------*
+>P1;gi|132150|sp|P10053|RBS_PINTH Ribulose bisphosphate carboxylase ... [ score 209 E 1e-53 ] [ range 52 .. 171 ]
+sequence
+-MQVWPPFGNPKFETLSYLPTLTEEQLVKEVEYLLRNKWVPCLEFDL-E-GSISRKYNR-----SPGYYD
+GRYWVMWKLPMFGCTEASQVINEVRECAKAYPKAFIRVIGFDNV--RQVQCISFIVHKPE----------
+--------------------------*
+>P1;gi|30523254|gb|AAP31674.1| ribulose-1,5-bisphosphate carboxylase... [ score 209 E 1e-53 ] [ range 7 .. 119 ]
+sequence
+-MKVWPPTGLKKFETLSYLPPLSDEALLKEINYLLRSGWIPCLEFEL-EKGWVYREHHR-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLKEVGEVQKEYPHSFVRIIGFDNK--RQVQCI------------------
+--------------------------*
+>P1;gi|3914587|sp|Q38793|RBS_AEGTA Ribulose bisphosphate carboxylase... [ score 208 E 2e-53 ] [ range 48 .. 168 ]
+sequence
+-MQVWPIEGIKKFETLSYLPPLSTEGLLKQVDYLIRSKWVPCLEFR--KVGFIFREHNV-----SPGYYD
+GRYWTMWKLPMFGCPAPTQVIPEVEEVRKEYPDPYCRIIGFDNM--RQVQSVSFIASKPPG---------
+--------------------------*
+>P1;gi|3914607|sp|Q41373|RBS_SACHY Ribulose bisphosphate carboxylase... [ score 208 E 2e-53 ] [ range 47 .. 166 ]
+sequence
+-MQVWPAYGNKKFETLSYLPPLTQEQLLKQVDYLLRNNWVPCLEFSK-E-GFVYRENST-----SPCYYD
+GRYWTMWKLPMFGCTDASQVYKELQEAIASYPE-LRAILGFDNI--RQTQWLTFIAYKPAG---------
+--------------------------*
+>P1;gi|19439|emb|CAA24969.1| unnamed protein product [Lemna gibba] [ score 205 E 1e-52 ] [ range 1 .. 119 ]
+sequence
+-MQVWPPEGLKKFETLSYFPLSSVEDLAKEVDYLLRNDWVPCIEFSK-E-GFVYRENNA-----SPGYYD
+GRYWTMWKLPMFGCTDASQVIAEVEEAKKAYPEYFVRIIGFDNK--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|13241105|gb|AAK16229.1| ribulose-1,5-bisphosphate carboxylase... [ score 204 E 3e-52 ] [ range 9 .. 133 ]
+sequence
+-MKVWPPLGKKKYETLSSLPNLTETQLAKEVDYLPPNKWVPCLEFEL-EHGFVSPYNRR-----SPRYYD
+GRSWTIWKLPMFGCTDSSQVMKELGECKKEYPQAWIRIIGFDNV--RQVQCISFIASKPDGF--------
+--------------------------*
+>P1;gi|3914600|sp|O64416|RBS_MARPA Ribulose bisphosphate carboxylase... [ score 202 E 1e-51 ] [ range 59 .. 178 ]
+sequence
+-MQVWEPYNNLKFETLSYLPPLSQDALAKQIDYVIKSGWAPCIEFDV--QGTVTREGST-----MPGYYD
+GRYWTMWKLPMFGCTDSASVLREIEECKKLYGKCYIRCLGFDNT--RQVQCASFIVHQP-----------
+--------------------------*
+>P1;gi|132114|sp|P16133|RBS5_ACECL Ribulose bisphosphate carboxylase... [ score 200 E 5e-51 ] [ range 45 .. 171 ]
+sequence
+-MMVWQPFNNKMFETFSYLPPLTDEQISKQVDYILANSWTPCLEFAS-DQAYAGNENCI-----RMGYQD
+NRYWTMWKLPMFGCTDGSQVLSEIQACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRPP----------
+--------------------------*
+>P1;gi|132100|sp|P16131|RBS3_ACECL Ribulose bisphosphate carboxylase... [ score 200 E 5e-51 ] [ range 44 .. 170 ]
+sequence
+-MMVWQPFNNKMFETFSYLPPLTDEQISKQVDYILANSWTPCLEFAS-DQAYAGNENCV-----SSTYQD
+NRYWTMWKLPMFGCTDGSQVLSEIQACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRPP----------
+--------------------------*
+>P1;gi|5763513|dbj|BAA83481.1| ribulose 1,5-bisphosphate carboxylase... [ score 199 E 1e-50 ] [ range 92 .. 213 ]
+sequence
+-MQVWNPIGQPKFETFSYLPPLTDDQIAKQVDYMIQQNLIPCIEFDT--VGSVSRTNFS-----SSGYYD
+GRYWTMWKLPMFGCTDSSQVLREIQECKSQFPSCWVRVLGFDSK--KQVQICGFLVSRP-----------
+--------------------------*
+>P1;gi|3914594|sp|Q38692|RBS6_ACECL Ribulose bisphosphate carboxylas... [ score 198 E 2e-50 ] [ range 43 .. 169 ]
+sequence
+-MMVWQPFNNKMFETFSYLPPLTDEQISKQVDYILANAWTPCLEFAS-DQAYAGNENCI-----TMGYQD
+NRYWTMWKLPMFGCTDGSQVLTEIQACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRPP----------
+--------------------------*
+>P1;gi|1405796|emb|CAA67061.1| ribulose-bisphosphate carboxylase [Pt... [ score 198 E 2e-50 ] [ range 54 .. 173 ]
+sequence
+-MLVWKPYDNKKFETLSYLPPLTNDQIAKQVEYMVRKGWTPCIEFDT-I-GSVYREHFH-----GSGYYD
+GRYWIMWKLPMFGCTDSGSVLREIAECAKEYPTAFIRVLGFDAK--RQVQVAGFLVKKPS----------
+--------------------------*
+>P1;gi|99447|pir||S18022 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 197 E 4e-50 ] [ range 36 .. 162 ]
+sequence
+-MMVWQPFNNKFFETFSYLPPLTDDQITKQVDYILRNNWTPCLEFAS-DQAYVTHDNTV-----RMGYQD
+NRYWTMWKLPMFGCIDGSQVLTEISACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRPE----------
+--------------------------*
+>P1;gi|3914595|sp|Q38693|RBS7_ACECL Ribulose bisphosphate carboxylas... [ score 197 E 5e-50 ] [ range 44 .. 170 ]
+sequence
+-MMVWQPFNNKMFETFSYLPPLTDEQISKQVDYILANSWTPCLEFAS-DQAYAGNENCI-----RMGYQD
+NRYWTMWKLPMFGCTDGSQVLSDMQACTKAFPDAYIRLVCFDAN--RQVQICGFLVHRPP----------
+--------------------------*
+>P1;gi|82257|pir||A05119 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 196 E 6e-50 ] [ range 1 .. 106 ]
+sequence
+------------YETLSYLPDLTGEQLLKEVEYLLDKGWVPCLEFEL-KHKFIYREYHA-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLGELQEAKKAYPNAGSGIIGFDNV--RQVQCISFIA--------------
+--------------------------*
+>P1;gi|132076|sp|P00873|RBS1_CHLRE Ribulose bisphosphate carboxylase... [ score 195 E 2e-49 ] [ range 46 .. 171 ]
+sequence
+-MMVWTPVNNKMFETFSYLPPLTDEQIAAQVDYIVANGWIPCLEFEA-DKAYVSNESAI-----RFGYYD
+NRYWTMWKLPMFGCRDPMQVLREIVACTKAFPDAYVRLVAFDNQ--KQVQIMGFLVQRP-----------
+--------------------------*
+>P1;gi|169216|gb|AAA33716.1| ribulose 1,5-bisphosphate carboxylase [ score 193 E 6e-49 ] [ range 1 .. 106 ]
+sequence
+------------YETLSYFPDLTDEQLFKEVEYLLNKGWVPCLEFEL-KHKFIYREYHA-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLGELQEAKKAYPNAWIRIIGFENV--RQVQCISFIA--------------
+--------------------------*
+>P1;gi|34915976|dbj|BAC87878.1| Ribulose bisphosphate carboxylase sm... [ score 192 E 2e-48 ] [ range 62 .. 183 ]
+sequence
+-MQVWNPIGQPKFETFSYLPPLSDDQIARQVDYMIQQNLIPCIEFDT--VGAVSRTNFS-----SSGYYD
+GRYWTMWKLPMFGCTDSSQVLREIQECKTSYPSCWVRVLGFDSK--KQVQICGFLVARP-----------
+--------------------------*
+>P1;gi|225465|prf||1303356A RuBisCO small subunit [ score 183 E 7e-46 ] [ range 1 .. 135 ]
+sequence
+-MKVWNPVNNKFWETFSYLPPLSDAEIAKQVDMIIAKGWIPCLEFSS-ERAYTYRFSGT-----AAGYYD
+NRYWTMWKLPMFGCTDASQVLKELSPLEFAAPENFVRLAAFDSV--KQVQVTSFVVQRPSG---------
+--------------------------*
+>P1;gi|99356|pir||A30834 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 183 E 8e-46 ] [ range 1 .. 135 ]
+sequence
+-MKVWNPVNNKFWETFSYLPPLSDREIAKQVDMIIAKGWIPCLEFSS-ERAYTVRFSCT-----AAGYYD
+NRYWTMWKLPMFGCTDASQVLKELSPLEFAAPENFVRLAAFDSV--KQVQVISFVVQRPSG---------
+--------------------------*
+>P1;gi|18033077|gb|AAL56980.1| ribulose 1,5-bisphosphate carboxylase... [ score 177 E 6e-44 ] [ range 2 .. 102 ]
+sequence
+-MKVWPPRGKKKLETLSYLPPLSIESLAKEIEYFIRKGWIPCLEFSI-ESGFVYRETSR-----MPGYYD
+GRYWTMWKLPMFGCTDAVQVLNELEEAKKAYPDAFIRI--------------------------------
+--------------------------*
+>P1;gi|20218815|emb|CAC84492.1| putative ribulose bisphosphate carbo... [ score 172 E 1e-42 ] [ range 2 .. 148 ]
+sequence
+-----------KFETLSYLPQLTEEQLVKEVEYLLRNKWVPCLEFDL-QEGSISRKYNR-----SPGYYD
+GRYWVMWKLPMFGCTEASQVINEVNECAKAYPKAFIRVIGFDNV--RQVQCISFIVHKP-----------
+--------------------------*
+>P1;gi|19852103|gb|AAM00006.1| ribulose-1,5-bisphosphate carboxylase... [ score 163 E 7e-40 ] [ range 2 .. 113 ]
+sequence
+----------------SFLPPLTDEQISKQVDYILANSWTACLEFAS-DQAYAGNDNCI-----RMTYQD
+NRYWTMWKLPMFGCTDGSQVLSEIQACTNAFPDAYIRFVCFDAY--RQVQISGFLVHRPP----------
+--------------------------*
+>P1;gi|132100|sp|P16131|RBS3_ACECL Ribulose bisphosphate carboxylase... [ score 202 E 1e-51 ] [ range 44 .. 170 ]
+sequence
+-MMVWQPFNNKMFETFSYLPPLTDEQISKQVDYILANSWTPCLEFAA-SDQNCIRMGPV-----SSTYQD
+NRYWTMWKLPMFGCTDGSQVLSEIQACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRPP----------
+--------------------------*
+>P1;gi|3914595|sp|Q38693|RBS7_ACECL Ribulose bisphosphate carboxylas... [ score 198 E 2e-50 ] [ range 44 .. 170 ]
+sequence
+-MMVWQPFNNKMFETFSYLPPLTDEQISKQVDYILANSWTPCLEFAA-SDQNCIRMGPV-----ASTYQD
+NRYWTMWKLPMFGCTDGSQVLSDMQACTKAFPDAYIRLVCFDAN--RQVQICGFLVHRPP----------
+--------------------------*
+>P1;gi|3914594|sp|Q38692|RBS6_ACECL Ribulose bisphosphate carboxylas... [ score 197 E 4e-50 ] [ range 43 .. 169 ]
+sequence
+-MMVWQPFNNKMFETFSYLPPLTDEQISKQVDYILANAWTPCLEFAA-SDAYAGNENCV-----ASTYQD
+NRYWTMWKLPMFGCTDGSQVLTEIQACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRPP----------
+--------------------------*
+>P1;gi|99447|pir||S18022 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 196 E 1e-49 ] [ range 36 .. 162 ]
+sequence
+-MMVWQPFNNKFFETFSYLPPLTDDQITKQVDYILRNNWTPCLEFAG-SDAYVTHDNTV-----RMGYQD
+NRYWTMWKLPMFGCIDGSQVLTEISACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRPE----------
+--------------------------*
+>P1;gi|132136|sp|P17537|RBS_CHLMO Ribulose bisphosphate carboxylase ... [ score 192 E 2e-48 ] [ range 30 .. 154 ]
+sequence
+--KVWQPVNNKQYETFSYLPPLTNQKIGRQVDYIINNGWTPCLEFAV-SNANAVRLQGV-----SAGYYD
+NRYWTMWKLPMFGCTDPSQVLREVSACQVAFPNVYIRLVAFDNV--KQVQCMGFLVQRP-----------
+--------------------------*
+>P1;gi|132092|sp|P08475|RBS2_CHLRE Ribulose bisphosphate carboxylase... [ score 189 E 1e-47 ] [ range 46 .. 171 ]
+sequence
+-MMVWTPVNNKMFETFSYLPPLSDEQIAAQVDYIVANGWIPCLEFAE-SDAYVSNESAI-----RFGYYD
+NRYWTMWKLPMFGCRDPMQVLREIVACTKAFPDAYVRLVAFDNQ--KQVQIMGFLVQRP-----------
+--------------------------*
+>P1;gi|99356|pir||A30834 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 181 E 3e-45 ] [ range 1 .. 135 ]
+sequence
+-MKVWNPVNNKFWETFSYLPPLSDREIAKQVDMIIAKGWIPCLEFSL-RNDNTVRFSCT-----AAGYYD
+NRYWTMWKLPMFGCTDASQVLKELSPLEFAAPENFVRLAAFDSV--KQVQVISFVVQRPSG---------
+--------------------------*
+>P1;gi|225465|prf||1303356A RuBisCO small subunit [ score 181 E 4e-45 ] [ range 1 .. 135 ]
+sequence
+-MKVWNPVNNKFWETFSYLPPLSDAEIAKQVDMIIAKGWIPCLEFSL-RNDNTYRFSGT-----AAGYYD
+NRYWTMWKLPMFGCTDASQVLKELSPLEFAAPENFVRLAAFDSV--KQVQVTSFVVQRPSG---------
+--------------------------*
+>P1;gi|19852103|gb|AAM00006.1| ribulose-1,5-bisphosphate carboxylase... [ score 168 E 3e-41 ] [ range 2 .. 113 ]
+sequence
+----------------SFLPPLTDEQISKQVDYILANSWTACLEFAA-SDQNCIRMRPV-----ASTYQD
+NRYWTMWKLPMFGCTDGSQVLSEIQACTNAFPDAYIRFVCFDAY--RQVQISGFLVHRPP----------
+--------------------------*
+>P1;gi|132158|sp|P04716|RBS_SYNP6 Ribulose bisphosphate carboxylase ... [ score 158 E 2e-38 ] [ range 3 .. 111 ]
+sequence
+-MKTLPKE--RRFETFSYLPPLSDRQIAAQIEYMIEQGFHPLIEF---------NEHSN-----PEEF--
+--YWTMWKLPLFDCKSPQQVLDEVRECRSEYGDCYIRVAGFDNI--KQCQTVSFIVHRPGRY--------
+--------------------------*
+>P1;gi|28797561|gb|AAO46873.1| ribulose-bisphosphate carboxylase sma... [ score 193 E 8e-49 ] [ range 46 .. 172 ]
+sequence
+-MMVWTPVNNKMFETFSYLPPLTDEQIAAQVDYIVANGWIPCLEFEA-DKAYVSNESTV-----RFGYYD
+NRYWTMWKLPMFGCRDPMQVLREIVACTKAFPDAYVRLVAFDNV--KQVQIMGFLVQRPK----------
+--------------------------*
+>P1;gi|132076|sp|P00873|RBS1_CHLRE Ribulose bisphosphate carboxylase... [ score 190 E 4e-48 ] [ range 46 .. 172 ]
+sequence
+-MMVWTPVNNKMFETFSYLPPLTDEQIAAQVDYIVANGWIPCLEFEA-DKAYVSNESSV-----SCLYYD
+NRYWTMWKLPMFGCRDPMQVLREIVACTKAFPDAYVRLVAFDNQ--KQVQIMGFLVQRPK----------
+--------------------------*
+>P1;gi|132136|sp|P17537|RBS_CHLMO Ribulose bisphosphate carboxylase ... [ score 186 E 1e-46 ] [ range 30 .. 154 ]
+sequence
+--KVWQPVNNKQYETFSYLPPLTNQKIGRQVDYIINNGWTPCLEFAD-PSSFVSNANGV-----SAGYYD
+NRYWTMWKLPMFGCTDPSQVLREVSACQVAFPNVYIRLVAFDNV--KQVQCMGFLVQRP-----------
+--------------------------*
+>P1;gi|32307568|gb|AAP79189.1| ribulose-1,5-bisphosphate carboxylase... [ score 179 E 1e-44 ] [ range 68 .. 185 ]
+sequence
+--EVVDPANNLKYETMSYTNVFTEQDIAAQINYMIQNGLIPCVEFD--KGGQIFREHSR-----MPGYYD
+GRYWTMWKLPMFGATDAGAVMREIAECKQNNPDSFIRVLGFDNI--KQVQCMGFLASRP-----------
+--------------------------*
+>P1;gi|32307566|gb|AAP79188.1| ribulose-1,5-bisphosphate carboxylase... [ score 177 E 5e-44 ] [ range 65 .. 184 ]
+sequence
+--EVVDPANNARFETMSYTREFTERDIATQINYMIGMGAVPCIEFD--QNGEIFREHSN-----MPGYYD
+GRYWTMWKLPMFGATDAGAVMNEIMECKRNNPNSFIRVLGFDNI--KQVQCMGFLVSKPGG---------
+--------------------------*
+>P1;gi|132151|sp|P27569|RBS_PROHO Ribulose bisphosphate carboxylase ... [ score 156 E 1e-37 ] [ range 1 .. 109 ]
+sequence
+-MKTLP--KERRYETLSYLPPLSDQQIARQIEYMVREGYIPAVEFNE-DSD-----------------AT
+TCYWTMWKLPLFHATSTQEVLGEVRECRTEYPNCYIRVVGFDNI--KQCQSVSFIVHKPNRY--------
+--------------------------*
+>P1;gi|2126548|pir||I39687 ribulose-bisphosphate carboxylase (EC 4.1... [ score 155 E 2e-37 ] [ range 1 .. 109 ]
+sequence
+-MQTLP--KERRYETLSYLPPLTDAQIEKQVQYILNQGYIPAIEFNE----------TS-----EPTEF-
+--YWTMWKLPLFNAQSTREVLGEVQACRSQYPTHYIRVVGFDNI--KQCQILSFIVHKPSRY--------
+--------------------------*
+>P1;gi|28797561|gb|AAO46873.1| ribulose-bisphosphate carboxylase sma... [ score 220 E 5e-57 ] [ range 47 .. 171 ]
+sequence
+--MVWTPVNNKMFETFSYLPPLTDEQIAAQVDYIVANGWIPCLEFAEADKAYVSNESTVRFGPVSCLYYD
+NRYWTMWKLPMFGCRDPMQVLREIVACTKAFPDAYVRLVAFDNV--KQVQIMGFLVQRP-----------
+--------------------------*
+>P1;gi|132120|sp|P26575|RBSA_SOLTU Ribulose bisphosphate carboxylase... [ score 217 E 3e-56 ] [ range 60 .. 177 ]
+sequence
+---VWPPINMKKYETLSYLPDLSDEQLLKEVEYLLKNGWVPCLEF-ETEHGFVYRENNK-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLAEVEEAKKAYPQAWIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|5777796|emb|CAA47180.2| ribulose 1-5 bisphosphate carboxylase... [ score 217 E 3e-56 ] [ range 137 .. 260 ]
+sequence
+---VWNPVNNKKFETFSYLPPLSDAQIAKQVDMIIAKGLSPCLEFAAPENSFIANDNTVRFSGTAAGYYD
+NRYWTMWKLPMFGCTDASQVLREISECRRAYPQCYVRLAAFDSV--KQVQVISFVVQRP-----------
+--------------------------*
+>P1;gi|132114|sp|P16133|RBS5_ACECL Ribulose bisphosphate carboxylase... [ score 215 E 2e-55 ] [ range 46 .. 170 ]
+sequence
+--MVWQPFNNKMFETFSYLPPLTDEQISKQVDYILANSWTPCLEFAASDQAYAGNENCIRMGPVASTYQD
+NRYWTMWKLPMFGCTDGSQVLSEIQACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRP-----------
+--------------------------*
+>P1;gi|132080|sp|P22433|RBS1_NICSY Ribulose bisphosphate carboxylase... [ score 214 E 4e-55 ] [ range 61 .. 178 ]
+sequence
+---VWPPINKKKYETLSYLPDLSEEQLLREVEYLLKNGWVPCLEF-ETEHGFVYRENNK-----SPGYYD
+GRYWTMWKLPMFGCTDATQVLAEVEEAKKAYPQAWIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|3914595|sp|Q38693|RBS7_ACECL Ribulose bisphosphate carboxylas... [ score 211 E 2e-54 ] [ range 45 .. 169 ]
+sequence
+--MVWQPFNNKMFETFSYLPPLTDEQISKQVDYILANSWTPCLEFAASDQAYAGNENCIRMGPVASTYQD
+NRYWTMWKLPMFGCTDGSQVLSDMQACTKAFPDAYIRLVCFDAN--RQVQICGFLVHRP-----------
+--------------------------*
+>P1;gi|585790|sp|Q08185|RBS5_MESCR Ribulose bisphosphate carboxylase... [ score 211 E 3e-54 ] [ range 59 .. 177 ]
+sequence
+--MVWPPLGMKKFETLSYLPPLSEESLLKEVQYLLNNGWVPCLEF-EPTHGFVYREH-----GNTPGYYD
+GRYWTMWKLPMFGCTDPSQVVAELEEAKKAYPEAFIRIIGFDNV--RQVQCVSFIAYKP-----------
+--------------------------*
+>P1;gi|3914594|sp|Q38692|RBS6_ACECL Ribulose bisphosphate carboxylas... [ score 210 E 6e-54 ] [ range 44 .. 168 ]
+sequence
+--MVWQPFNNKMFETFSYLPPLTDEQISKQVDYILANAWTPCLEFAASDQAYAGNENCITMGPVASTYQD
+NRYWTMWKLPMFGCTDGSQVLTEIQACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRP-----------
+--------------------------*
+>P1;gi|99447|pir||S18022 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 210 E 6e-54 ] [ range 37 .. 161 ]
+sequence
+--MVWQPFNNKFFETFSYLPPLTDDQITKQVDYILRNNWTPCLEFAGSDQAYVTHDNTVRMGDCASTYQD
+NRYWTMWKLPMFGCIDGSQVLTEISACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRP-----------
+--------------------------*
+>P1;gi|6440788|dbj|BAA78582.1| ribulose-bisphosphate carboxylase sma... [ score 210 E 8e-54 ] [ range 27 .. 150 ]
+sequence
+---VWQPVNNKQYETFSYLPALTSEQIARQVDYVIRNGYTPCLEFADAAYSFVSNENTVRFSGVSANYYD
+NRYWTMWKLPMFGCTDAAQVLKEVALCTRAFPNAYVRLVAFDNT--KQVQCMGFLVQRP-----------
+--------------------------*
+>P1;gi|4098852|gb|AAD00448.1| ribulose-1,5-bisphosphate carboxylase/... [ score 210 E 8e-54 ] [ range 3 .. 126 ]
+sequence
+---VWQPVNNKQYETFSYLPALTTEQIAKQVDYVIRNGWTPCLEFADPSSSFVSNENTVRFRGASSNYYD
+NRYWTMWKLPMFGCTDASQVLKEIAACNAAFPESYSRLVAFDNN--KQVQCMGFLVQRP-----------
+--------------------------*
+>P1;gi|3914599|sp|O48550|RBS_ZANAE Ribulose bisphosphate carboxylase... [ score 209 E 1e-53 ] [ range 59 .. 175 ]
+sequence
+---VWPPEGKKKFETLSYLPPLTREQLGQEVDYLIRNGWIPCIEFCKVGFVY-------REYHNSPGYYD
+GRYWTMWKLPMFGCTDSSQVLKEVDECSKAYPDYFNRIIGFDNT--RQVQCISFLTYKP-----------
+--------------------------*
+>P1;gi|4090291|emb|CAA10496.1| hypothetical protein [Secale cereale] [ score 208 E 2e-53 ] [ range 50 .. 166 ]
+sequence
+---VWPIEGIKKFETLSYLPPLSTEALLKQVDYLIRSKWVPCLEFSKVGFVFREHNN-------SPGYYD
+GRYWTMWKLPMFGCTDATQVLNEVEEVKKEYPDAYVRVIGFDNM--RQVQCVSFIAFRP-----------
+--------------------------*
+>P1;gi|132136|sp|P17537|RBS_CHLMO Ribulose bisphosphate carboxylase ... [ score 208 E 3e-53 ] [ range 31 .. 154 ]
+sequence
+---VWQPVNNKQYETFSYLPPLTNQKIGRQVDYIINNGWTPCLEFADPSTSFVSNANAVRLQGVSAGYYD
+NRYWTMWKLPMFGCTDPSQVLREVSACQVAFPNVYIRLVAFDNV--KQVQCMGFLVQRP-----------
+--------------------------*
+>P1;gi|4090293|emb|CAA10497.1| hypothetical protein [Secale cereale] [ score 206 E 5e-53 ] [ range 50 .. 166 ]
+sequence
+---VWPIEGIKKFETLSYLPPLTTEALLKQVDYLIRSKWVPCLEFSKVGFIFREHNA-------SPGYYD
+GRYWTMWKLPMFGCTDATQVINEVEEVKKEYPDAYVRIIGFDNM--RQVQCVSFIAFKP-----------
+--------------------------*
+>P1;gi|4038725|dbj|BAA35179.1| ribulose-1,5-bisphosphate carboxylase... [ score 206 E 8e-53 ] [ range 44 .. 160 ]
+sequence
+---VWPIEGIKKFETLSYLPPLSTEALLKQIDYLIRSKWVPCLEFSKVGFVFREHNA-------SPGYYD
+GRYWTMWKLPMFGCTDASQVIKELEEVKKEYPDAYVRIIGFDNL--RQVQCVSFIAFKP-----------
+--------------------------*
+>P1;gi|6409339|gb|AAF07947.1| ribulose-1,5-bisphosphate carboxylase ... [ score 205 E 1e-52 ] [ range 45 .. 161 ]
+sequence
+---VWPIEGIKKFETLSYLPPLTEEALLKQIDFLIRSKWVPCLEFSKVGFIFREHGST-------PGYYD
+GRYWTMWKLPMFGCTDASQVIKEVEEVKKEYPDAYVRIIGFDNI--RQVQCVSFIAFKP-----------
+--------------------------*
+>P1;gi|132078|sp|P00872|RBS1_LEMGI Ribulose bisphosphate carboxylase... [ score 205 E 1e-52 ] [ range 56 .. 172 ]
+sequence
+---VWPPEGLKKFETLSYLPPLSVEDLAKEVDYLLRNDWVPCIEFSKEGFVYRENNA-------SPGYYD
+GRYWTMWKLPMFGCTDASQVIAEVEEAKKAYPEYFVRIIGFDNK--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|4689388|gb|AAD27881.1| ribulose-1,5-bisphosphate carboxylase ... [ score 203 E 5e-52 ] [ range 59 .. 178 ]
+sequence
+---VWPTIGKKKFETLSYLPDLTEEQLGKEVDYLLRSGWIPCLEFELSHKDAFPH----RENNRSPGYYD
+GRYWTMWKLPMYGCTDSSQVLKELREARTLYPDGFVRIVGFDSV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|132146|sp|P16031|RBS_LARLA Ribulose bisphosphate carboxylase ... [ score 202 E 1e-51 ] [ range 70 .. 186 ]
+sequence
+---VWPPYANKKFETLSYLPRLTPEQLVKEVEYLLKNKWVPCLEFEEDGEI-------KRVYGNSPGYYD
+GRYWVMWKLPMFGCTEASQVLNEVNECAKAYPNAFIRVIGFDNV--RQVQCISFIVHKP-----------
+--------------------------*
+>P1;gi|1673456|emb|CAA70416.1| rubisco small subunit [Zea mays] [ score 201 E 2e-51 ] [ range 50 .. 166 ]
+sequence
+---VWPAYGNKKFETLSYLPPLSTDDLLKQVDYLLRNGWIPCLEFSKLGFVYREN-------STSPCYYD
+GRYWTMWKLPMFGCTDATQVYKELQEAIAAYPDAFHRVIGFDNV--RQTQCVSFIAYKP-----------
+--------------------------*
+>P1;gi|132147|sp|P05348|RBS_MAIZE Ribulose bisphosphate carboxylase ... [ score 199 E 1e-50 ] [ range 50 .. 166 ]
+sequence
+---VWPAYGNKKFETLSYLPPLSTDDLLKQVDYLLRNGWIPCLEFSKVGFVYREN-------STSPCYYD
+GRYWTMWKLPMFGCNDATQVYKELQEAIKSYPDAFHRVIGFDNI--KQTQCVSFIAYKP-----------
+--------------------------*
+>P1;gi|5763513|dbj|BAA83481.1| ribulose 1,5-bisphosphate carboxylase... [ score 198 E 2e-50 ] [ range 94 .. 213 ]
+sequence
+---VWNPIGQPKFETFSYLPPLTDDQIAKQVDYMIQQNLIPCIEFDTVGSVSRTNFS----GAGSSGYYD
+GRYWTMWKLPMFGCTDSSQVLREIQECKSQFPSCWVRVLGFDSK--KQVQICGFLVSRP-----------
+--------------------------*
+>P1;gi|132150|sp|P10053|RBS_PINTH Ribulose bisphosphate carboxylase ... [ score 196 E 8e-50 ] [ range 54 .. 170 ]
+sequence
+---VWPPFGNPKFETLSYLPTLTEEQLVKEVEYLLRNKWVPCLEFDLEGSI-------SRKYNRSPGYYD
+GRYWVMWKLPMFGCTEASQVINEVRECAKAYPKAFIRVIGFDNV--RQVQCISFIVHKP-----------
+--------------------------*
+>P1;gi|1405796|emb|CAA67061.1| ribulose-bisphosphate carboxylase [Pt... [ score 194 E 4e-49 ] [ range 55 .. 172 ]
+sequence
+--LVWKPYDNKKFETLSYLPPLTNDQIAKQVEYMVRKGWTPCIEFDTIGSVYREHFHG-------SGYYD
+GRYWIMWKLPMFGCTDSGSVLREIAECAKEYPTAFIRVLGFDAK--RQVQVAGFLVKKP-----------
+--------------------------*
+>P1;gi|3914587|sp|Q38793|RBS_AEGTA Ribulose bisphosphate carboxylase... [ score 193 E 7e-49 ] [ range 50 .. 166 ]
+sequence
+---VWPIEGIKKFETLSYLPPLSTEGLLKQVDYLIRSKWVPCLEFRKVGFIFREHN-------VSPGYYD
+GRYWTMWKLPMFGCPAPTQVIPEVEEVRKEYPDPYCRIIGFDNM--RQVQSVSFIASKP-----------
+--------------------------*
+>P1;gi|34915976|dbj|BAC87878.1| Ribulose bisphosphate carboxylase sm... [ score 191 E 2e-48 ] [ range 64 .. 183 ]
+sequence
+---VWNPIGQPKFETFSYLPPLSDDQIARQVDYMIQQNLIPCIEFDTVGAVSRTNFS----GSGSSGYYD
+GRYWTMWKLPMFGCTDSSQVLREIQECKTSYPSCWVRVLGFDSK--KQVQICGFLVARP-----------
+--------------------------*
+>P1;gi|3914600|sp|O64416|RBS_MARPA Ribulose bisphosphate carboxylase... [ score 190 E 6e-48 ] [ range 61 .. 178 ]
+sequence
+---VWEPYNNLKFETLSYLPPLSQDALAKQIDYVIKSGWAPCIEFD-------VQGTVTREGSTMPGYYD
+GRYWTMWKLPMFGCTDSASVLREIEECKKLYGKCYIRCLGFDNT--RQVQCASFIVHQP-----------
+--------------------------*
+>P1;gi|19439|emb|CAA24969.1| unnamed protein product [Lemna gibba] [ score 188 E 2e-47 ] [ range 3 .. 119 ]
+sequence
+---VWPPEGLKKFETLSYFPLSSVEDLAKEVDYLLRNDWVPCIEFSKEGFVYRENNA-------SPGYYD
+GRYWTMWKLPMFGCTDASQVIAEVEEAKKAYPEYFVRIIGFDNK--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|3914607|sp|Q41373|RBS_SACHY Ribulose bisphosphate carboxylase... [ score 185 E 2e-46 ] [ range 49 .. 164 ]
+sequence
+---VWPAYGNKKFETLSYLPPLTQEQLLKQVDYLLRNNWVPCLEFSKEGFVYREN-------STSPCYYD
+GRYWTMWKLPMFGCTDASQVYKELQEAIASYPELRA-ILGFDNI--RQTQWLTFIAYKP-----------
+--------------------------*
+>P1;gi|99356|pir||A30834 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 184 E 5e-46 ] [ range 3 .. 133 ]
+sequence
+---VWNPVNNKFWETFSYLPPLSDREIAKQVDMIIAKGWIPCLEFSLREISYIANDNTVRFSCTAAGYYD
+NRYWTMWKLPMFGCTDASQVLKELSPLEFAAPENFVRLAAFDSV--KQVQVISFVVQRP-----------
+--------------------------*
+>P1;gi|225465|prf||1303356A RuBisCO small subunit [ score 183 E 1e-45 ] [ range 3 .. 133 ]
+sequence
+---VWNPVNNKFWETFSYLPPLSDAEIAKQVDMIIAKGWIPCLEFSLREISYIANDNTYRFSGTAAGYYD
+NRYWTMWKLPMFGCTDASQVLKELSPLEFAAPENFVRLAAFDSV--KQVQVTSFVVQRP-----------
+--------------------------*
+>P1;gi|19852103|gb|AAM00006.1| ribulose-1,5-bisphosphate carboxylase... [ score 175 E 2e-43 ] [ range 1 .. 112 ]
+sequence
+---------------YSFLPPLTDEQISKQVDYILANSWTACLEFAASDQAYAGNDNCIRMRPVASTYQD
+NRYWTMWKLPMFGCTDGSQVLSEIQACTNAFPDAYIRFVCFDAY--RQVQISGFLVHRP-----------
+--------------------------*
+>P1;gi|32307568|gb|AAP79189.1| ribulose-1,5-bisphosphate carboxylase... [ score 172 E 1e-42 ] [ range 72 .. 185 ]
+sequence
+------PANNLKYETMSYTNVFTEQDIAAQINYMIQNGLIPCVEFDKGGQIFREH-------SRMPGYYD
+GRYWTMWKLPMFGATDAGAVMREIAECKQNNPDSFIRVLGFDNI--KQVQCMGFLASRP-----------
+--------------------------*
+>P1;gi|20218815|emb|CAC84492.1| putative ribulose bisphosphate carbo... [ score 172 E 2e-42 ] [ range 2 .. 148 ]
+sequence
+-----------KFETLSYLPQLTEEQLVKEVEYLLRNKWVPCLEFDLVSFYFFKEGSISRKYNRSPGYYD
+GRYWVMWKLPMFGCTEASQVINEVNECAKAYPKAFIRVIGFDNV--RQVQCISFIVHKP-----------
+--------------------------*
+>P1;gi|32307566|gb|AAP79188.1| ribulose-1,5-bisphosphate carboxylase... [ score 166 E 6e-41 ] [ range 69 .. 182 ]
+sequence
+------PANNARFETMSYTREFTERDIATQINYMIGMGAVPCIEFDQNGEIFREHSN-------MPGYYD
+GRYWTMWKLPMFGATDAGAVMNEIMECKRNNPNSFIRVLGFDNI--KQVQCMGFLVSKP-----------
+--------------------------*
+>P1;gi|17646562|gb|AAL40974.1| CbbS [Methylococcus capsulatus] [ score 156 E 7e-38 ] [ range 15 .. 114 ]
+sequence
+--------GSRKFETFSYLPPMNPEKIRRQVEYIVSRGWNPAIEHTEPENAF------------------
+DHYWYMWKLPMFGETDVDAILAEAEACHKAHPNNHVRLVGYDNF--RQTQGAAMVIYR------------
+--------------------------*
+>P1;gi|10946379|gb|AAG24884.1| ribulose-1,5-bisphosphate carboxylase... [ score 196 E 7e-50 ] [ range 56 .. 176 ]
+sequence
+-MQVWPP--KKKFETLSYLPDLDDAQLAKEVEYLLRKGWIPCLEFEE--HNRS----------------P
+GYYWTMWKLPMFGCTDASQVLKELQEAKTAYPNGFIRIIGFDNV--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|3914591|sp|Q42823|RBS_GLYTA Ribulose bisphosphate carboxylase... [ score 195 E 2e-49 ] [ range 56 .. 176 ]
+sequence
+-MQVWPT--KKKFETLSYLPDLDDAQLAKEVEYLLRKGWIPCLEFEH--HRSP----------------G
+YYYWTMWKLPMFGCTDASQVLKELQEAKTAYPNAFIRIIGFDNV--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|132083|sp|P04714|RBS1_PETSP Ribulose bisphosphate carboxylase... [ score 195 E 2e-49 ] [ range 58 .. 178 ]
+sequence
+-MQVWPP--KKKYETLSYLPDLTDEQLLKEIEYLLNKGWVPCLEFEY--HASP----------------R
+YYYWTMWKLPMFGCTDATQVLGELQEAKKAYPNAWIRIIGFDNV--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|15219826|ref|NP_176880.1| ribulose bisphosphate carboxylase s... [ score 195 E 2e-49 ] [ range 56 .. 176 ]
+sequence
+-MQVWPP--KKKFETLSYLPDLTDSELAKEVDYLIRNKWIPCVEFEE--HGNS----------------P
+GYYWTMWKLPLFGCTDSAQVLKEVEECKKEYPNAFIRIIGFDNT--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|132085|sp|P26574|RBS1_SOLTU Ribulose bisphosphate carboxylase... [ score 194 E 3e-49 ] [ range 59 .. 178 ]
+sequence
+-MQVWPP--IKKYETLSYLPDLTDEQLLKEVEYLLKNGWVPCLEFEN--HKSP----------------G
+YYYWTMWKLPMFGCTDATQVLAEVQECKKSYPQAWIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|3914583|sp|Q43832|RBS2_SPIOL Ribulose bisphosphate carboxylas... [ score 193 E 6e-49 ] [ range 58 .. 178 ]
+sequence
+-MKVWPT--QKRYETLSYLPPLTTDQLARQVDYLLNNKWVPCLEFEH--HNSP----------------G
+YYYWTMWKLPMFGCTDPAQVLNELEECKKEYPNAFIRIIGFDSN--RQVQCVSFIAYKPA----------
+--------------------------*
+>P1;gi|40287530|gb|AAR83879.1| Cristal-Glass1 protein [Capsicum annuum] [ score 193 E 7e-49 ] [ range 58 .. 177 ]
+sequence
+-MLVWPP--KKKYETLSYLPDLSDEQLLKEIEYLLQKGWVPCLEFEH--HRSP----------------G
+YYYWTMWKLPMFGCTDATQVLNEVQEAKKAYPQAWIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|15240912|ref|NP_198659.1| ribulose bisphosphate carboxylase s... [ score 192 E 1e-48 ] [ range 56 .. 176 ]
+sequence
+-MKVWPP--KKKFETLSYLPDLTDVELAKEVDYLLRNKWIPCVEFEE--HGNT----------------P
+GYYWTMWKLPLFGCTDSAQVLKEVEECKKEYPGAFIRIIGFDNT--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|3914590|sp|Q42822|RBS_GLYTO Ribulose bisphosphate carboxylase... [ score 192 E 2e-48 ] [ range 56 .. 176 ]
+sequence
+-MQVWPT--KKKFETLSYLPDLDDAQLAKEVEYLLRKGWIPCLEFEN--HRSP----------------G
+YYYWTMWKLPVFGCTDASQVLKELQEAKTAYPNGFIRIIGFDNV--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|480983|pir||S37575 ribulose-bisphosphate carboxylase (EC 4.1.... [ score 192 E 2e-48 ] [ range 56 .. 176 ]
+sequence
+-MKVWPP--KKKFETLSYLPDLTDVELAKEVDYLLRNKWIPCVEFEE--HGNT----------------P
+GYYWTMWKLPLFGCTDSAQVLKEVQECKTEYPNAFIRIIGFDNN--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|417593|sp|P32764|RBS3_SOLTU Ribulose bisphosphate carboxylase... [ score 192 E 2e-48 ] [ range 59 .. 178 ]
+sequence
+-MQVWPP--IKKYETLSYLPDLSDEQLLKEVEYLLKNGWVPCLEFEN--HKSP----------------G
+YYYWTMWKLPMFGCTDATQVLAEVQEAKKAYPQAWIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|3928152|emb|CAA10290.1| ribulose 1,5-bisphosphate carboxylase... [ score 191 E 3e-48 ] [ range 59 .. 178 ]
+sequence
+-MQVWPP--KKKFETLSYLPPLTEEQLLKEVEYLLRKGWVPCLEFEE--HNNS----------------P
+GYYWTMWKLPLFGCTEAVQVLKELQEVVKAYPNAFVRIIGFDNV--RQVQCISFIAHTP-----------
+--------------------------*
+>P1;gi|585791|sp|Q08186|RBS6_MESCR Ribulose bisphosphate carboxylase... [ score 191 E 3e-48 ] [ range 62 .. 182 ]
+sequence
+-MQVWPP--KKKFETLSYLPPLSEESLLKEVQYLLNNGWVPCLEFEE--HGNT----------------P
+GYYWTMWKLPMFGCTDPSQVVAELEEAKKAYPEAFIRIIGFDNV--RQVQCVSFIAYKPA----------
+--------------------------*
+>P1;gi|132120|sp|P26575|RBSA_SOLTU Ribulose bisphosphate carboxylase... [ score 190 E 4e-48 ] [ range 58 .. 177 ]
+sequence
+-MQVWPP--IKKYETLSYLPDLSDEQLLKEVEYLLKNGWVPCLEFTE--HGSP----------------G
+YYYWTMWKLPMFGCTDATQVLAEVEEAKKAYPQAWIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|16331394|ref|NP_442122.1| ribulose bisphosphate carboxylase s... [ score 190 E 5e-48 ] [ range 1 .. 108 ]
+sequence
+-MKTLPK--ERRYETLSYLPPLTDQQIAKQVEFLLDQGFIPGVEFEE--DPQP----------------E
+THFWTMWKLPFFGGATANEVLAEVRECRSENPNCYIRVIGFDNI--KQCQTVSFIVHKPNQ---------
+--------------------------*
+>P1;gi|132071|sp|P10647|RBS0_SOLTU Ribulose bisphosphate carboxylase... [ score 190 E 7e-48 ] [ range 59 .. 178 ]
+sequence
+-MQVWPP--IKKYETLSYLPDLSDEQLLKEVEYLLKNGWVPCLEFEE--HNSS----------------P
+GYYWTMWKLPMFGCTDGTQVLAEVQEAKNAYPQAWIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|3914604|sp|Q40250|RBS_LACSA Ribulose bisphosphate carboxylase... [ score 189 E 8e-48 ] [ range 58 .. 178 ]
+sequence
+-MKVWPP--IKKYETLSYLPPLSDEALSKEIDYLIRNKWIPCLEFEE--HHHS----------------P
+GYYWTMWKLPMFGCTDSAQVMKEVGECKKEYPNAFIRVIGFDNI--RQVQCISFIVAKPP----------
+--------------------------*
+>P1;gi|132154|sp|P08135|RBS_RAPSA Ribulose bisphosphate carboxylase ... [ score 189 E 1e-47 ] [ range 56 .. 176 ]
+sequence
+-MKVWPP--KKKFETLSYLPDLSDVELAKEVDYLLRNKWIPCVEFEE--HGST----------------P
+GYYWTMWKLPLFGCTDSAQVLKEVQECKKEYPNALIRIIGFDNN--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|3914601|sp|O65194|RBS_MEDSA Ribulose bisphosphate carboxylase... [ score 189 E 1e-47 ] [ range 58 .. 177 ]
+sequence
+-MQVWPP--KKKFETLSYLPPLTEEQLAKEVEYLIRKGWIPCLEFEN--HRSP----------------G
+YYYWTMWRLPLFGATDSSQVLKELADCKAEYPDSFIRIIGFDNV--RQVQCISFIAHTP-----------
+--------------------------*
+>P1;gi|132080|sp|P22433|RBS1_NICSY Ribulose bisphosphate carboxylase... [ score 189 E 1e-47 ] [ range 59 .. 178 ]
+sequence
+-MQVWPP--KKKYETLSYLPDLSEEQLLREVEYLLKNGWVPCLEFTE--HGSP----------------G
+YYYWTMWKLPMFGCTDATQVLAEVEEAKKAYPQAWIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|132112|sp|P05349|RBS4_LYCES Ribulose bisphosphate carboxylase... [ score 189 E 1e-47 ] [ range 58 .. 177 ]
+sequence
+-MQVWPP--IKKYETLSYLPDLSDEQLLSEIEYLLKNGWVPCLEFEN--HKSP----------------G
+YYYWTMWKLPMFGCTDATQVLAEVQEAKKAYPQAWVRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|3914576|sp|Q39743|RBS1_FLAPR Ribulose bisphosphate carboxylas... [ score 189 E 1e-47 ] [ range 51 .. 171 ]
+sequence
+-MKVWPP--KKKYETLSYLPDLTEVQLAKEVDYLLRNKWVPCLEFEE--HGSP----------------G
+YYYWTMWKLPMFGCTDSAQVMKELQECKKEYPQAWIRIIGFDNV--RQVQCISFIASKPG----------
+--------------------------*
+>P1;gi|81885|pir||S20508 ribulose-bisphosphate carboxylase (EC 4.1.1... [ score 189 E 2e-47 ] [ range 59 .. 178 ]
+sequence
+--QVWPT--KKKFETLSYLPPLTKQQLAKEVDYLLRKGWVPCLEFEE--HNKS----------------P
+GYYWTMWKLPMFGCTDSSQVLKELYEAQTAHPDGFIRIIGFDNV--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|6635351|gb|AAF19793.1| ribulose-1,5-bisphosphate carboxylase/... [ score 189 E 2e-47 ] [ range 58 .. 178 ]
+sequence
+-MKVWPP--IKKYETLSYLPPLSDEALSKEIDYLIRNKWVPCLEFEE--HHHS----------------P
+GYYWTMWKLPMFGCTDSAQVMKEVGECKKEYPNAFIRVIGFDSV--RQVQCISFIVSKPP----------
+--------------------------*
+>P1;gi|68064|pir||RKRPS ribulose-bisphosphate carboxylase (EC 4.1.1.... [ score 189 E 2e-47 ] [ range 55 .. 176 ]
+sequence
+SMQVWPP--KKKFETLSYLPDLTEVELGKEVDYLLRNKWIPCVEFEE--HGST----------------P
+GYYWTMWKLPLFGCTDSAQVLKEVQECKTEYPNAFIRIIGFDNN--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|132118|sp|P26573|RBS8_NICPL Ribulose bisphosphate carboxylase... [ score 189 E 2e-47 ] [ range 58 .. 177 ]
+sequence
+-MQVWPP--KKKYETLSYLPDLSQEQLLSEIEYLLKSGWVPCLEFEE--HHHS----------------P
+GYYWTMWKLPMFGCTDATQVLAEVEEAKKAYPQAWVRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|23398556|gb|AAH38257.1| Unknown (protein for MGC:47002) [Mus ... [ score 188 E 2e-47 ] [ range 58 .. 178 ]
+sequence
+-MQVWPP--LKKFETLSYLPPLTTEQLLAEVNYLLVKGWIPCLEFEE--HNKS----------------P
+GYYWTMWKLPMFGCTDPAQVVNEVEEVKKAYPDAFVRIIGFDNK--RQVQCISFIAYKPS----------
+--------------------------*
+>P1;gi|24940138|emb|CAD11990.1| rubisco small subunit [Coffea arabic... [ score 188 E 2e-47 ] [ range 59 .. 178 ]
+sequence
+-MQVWPP--RKKYETLSYLPDLTDEQLLKEIDYLIRSGWVPCLEFEY--HRSP----------------G
+YYYWTMWKLPMYGCTDATQVLNEVGECLKEYPNCWVRIIGFDNV--RQVQCISFIAAKP-----------
+--------------------------*
+>P1;gi|132096|sp|P18566|RBS2_ORYSA Ribulose bisphosphate carboxylase... [ score 188 E 2e-47 ] [ range 48 .. 167 ]
+sequence
+-MQVWPI--EKKFETLSYLPPLTVEDLLKQIEYLLRSKWVPCLEFEN--HRSP----------------G
+YYYWTMWKLPMFGCTDATQVLKELEEAKKAYPDAFIRIIGFDNV--RQVQLISFIAYKPP----------
+--------------------------*
+>P1;gi|132097|sp|P00869|RBS2_PEA Ribulose bisphosphate carboxylase s... [ score 188 E 3e-47 ] [ range 58 .. 177 ]
+sequence
+-MQVWPP--KKKFETLSYLPPLTRDQLLKEVEYLLRKGWVPCLEFEE--HNKS----------------P
+GYYWTMWKLPMFGTTDASQVLKELDEVVAAYPQAFVRIIGFDNV--RQVQCISFIAHTP-----------
+--------------------------*
+>P1;gi|6272550|gb|AAF06100.1| ribulose 1,5-bisphosphate carboxylase ... [ score 188 E 3e-47 ] [ range 60 .. 180 ]
+sequence
+-MQVWPT--KKKFETLSYLPPLSREQLASEIDYLLRSGWIPCLEFEE--HGFP----------------G
+YYYWTMWKLPMFGCTDSSQVLKELDELIKAHPDGFARIIGFDNV--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|266892|sp|P29684|RBS_HEVBR Ribulose bisphosphate carboxylase ... [ score 187 E 4e-47 ] [ range 60 .. 179 ]
+sequence
+-MQVWPP--KKFYETLSYLPPLTREQLAKEVEYLLRKGWVPCLEFEY--HRSP----------------G
+YYYWTMWKLPMFGCTDAVQVLQELDEMIKAYPDCYGRIIGFDNV--RQVQCISFLAYKP-----------
+--------------------------*
+>P1;gi|30013663|gb|AAP03874.1| putative ribulose bisphosphate carbox... [ score 187 E 4e-47 ] [ range 58 .. 177 ]
+sequence
+-MQVWPP--KKKYETLSYLPDLSEEQLLSEIEYLLKNGWVPCLEFEE--NNKS----------------P
+GYYWTMWKLPMFGCTDATQVLAEVGEAKKAYPEAWIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|3914599|sp|O48550|RBS_ZANAE Ribulose bisphosphate carboxylase... [ score 187 E 5e-47 ] [ range 57 .. 175 ]
+sequence
+-MQVWPP--EKKFETLSYLPPLTREQLGQEVDYLIRNGWIPCIEFEY--HNSP----------------G
+YYYWTMWKLPMFGCTDSSQVLKEVDECSKAYPDYFNRIIGFDNT--RQVQCISFLTYKP-----------
+--------------------------*
+>P1;gi|132161|sp|P17673|RBS_TRIRP Ribulose bisphosphate carboxylase ... [ score 187 E 5e-47 ] [ range 56 .. 175 ]
+sequence
+-MQVWPP--KKKFETLSYLPPLTDEQLLKEVEYLLRKGWVPCVEFEY--NSSP----------------G
+YYYWTMWRLPLFGTTDAAQVLKEVAECKAEYPEAFIRIIGFDNV--RQVQCISFIASTP-----------
+--------------------------*
+>P1;gi|3914606|sp|Q41351|RBS_STELP Ribulose bisphosphate carboxylase... [ score 187 E 6e-47 ] [ range 58 .. 177 ]
+sequence
+-MQVWPP--IKKYETLSYLPDLSSEQLLSEIEYLLKNGWVPCLEFEE--HTSS----------------P
+GYYWTMWKLPMFGCTDATQVAAEVQEAKKAYPDAHIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|4038691|dbj|BAA35162.1| ribulose-1,5-bisphosphate carboxylase... [ score 187 E 6e-47 ] [ range 43 .. 162 ]
+sequence
+-MQVWPI--EKKFETLSYLPPLTTEALLKQVDYLIRSKWVPCLEFSE--HNSS----------------P
+GYYWTMWKLPMFGCTDATQVLNEVEEVKKEYPDAYVRIIGFDNL--RQVQCVSFIAFRPP----------
+--------------------------*
+>P1;gi|132095|sp|P07179|RBS2_LYCES Ribulose bisphosphate carboxylase... [ score 187 E 6e-47 ] [ range 58 .. 177 ]
+sequence
+-MQVWPP--IKKYETLSYLPDLSDEQLLSEIEYLLKNGWVPCLEFTE--HGSP----------------G
+YYYWTMWKLPMFGCTDATQVLAEVQEAKKAYPQAWVRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|22299047|ref|NP_682294.1| ribulose bisphosphate carboxylase s... [ score 187 E 6e-47 ] [ range 1 .. 108 ]
+sequence
+-MKTLPK--ERRYETFSYLPPLSDAQIARQIQYAIDQGYHPCVEFNE--TSNA----------------E
+IRYWTMWKLPLFNCTNAQDVLNEVQQCRSEYPNCFIRVVAFDNI--KQCQVMSFIVYKPNQ---------
+--------------------------*
+>P1;gi|20139858|sp|Q9XGX5|RBS2_AMAHP Ribulose bisphosphate carboxyla... [ score 186 E 7e-47 ] [ range 61 .. 181 ]
+sequence
+-MQVWPP--KKKFETLSYLPPLSDAQLLAQVQYLLNKGWIPCIEFEN--HRSP----------------G
+YRYWTMWKLPMYGCTDPAQVLNEVEEAKKAYPTAFIRIIGFDNK--RQVQCVSFIAYKPA----------
+--------------------------*
+>P1;gi|464595|sp|Q02980|RBS_MALSP Ribulose bisphosphate carboxylase ... [ score 186 E 7e-47 ] [ range 61 .. 181 ]
+sequence
+-MQVWPP--LKKFETLSYLPPLSTESLAKEVDYLLRKNWVPCLEFEN--HRSP----------------G
+YYYWTMWKLPMFGCTDSSQVLKELEEAKKAYPQSFIRIIGFDNV--RQVQCISFIAYKPA----------
+--------------------------*
+>P1;gi|132079|sp|P08706|RBS1_LYCES Ribulose bisphosphate carboxylase... [ score 186 E 7e-47 ] [ range 59 .. 178 ]
+sequence
+-MQVWPP--IKKYETLSYLPDLSDEQLLSEIEYLLKNGWVPCLEFEE--NNSS----------------P
+GYYWTMWKLPMFGCTDATQVLAEVQEAKKAYPQAWVRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|20139857|sp|Q9XGX4|RBS3_AMAHP Ribulose bisphosphate carboxyla... [ score 186 E 1e-46 ] [ range 58 .. 178 ]
+sequence
+-MQVWPP--KKKFETLSYLPPLSDAQLLAQVQYLLNNGWIPCIEFEN--HRSP----------------G
+YRYWTMWKLPMYGCTDPAQVLNEVEEAKKAYPSAFIRIIGFDNK--RQVQCVSFIAFKPP----------
+--------------------------*
+>P1;gi|30421141|gb|AAP31053.1| ribulose-1,5-bisphosphate carboxylase... [ score 185 E 1e-46 ] [ range 51 .. 170 ]
+sequence
+-MKVWPP--KKKYETLSYLPELTEAQLAKEIDYLIRNKWVPCLEFEE--HGSP----------------G
+YYYWTMWKLPMFGCTDSAQVMKELQECKKEYPQAWIRIIGFDNV--RQVQCVSFIASKP-----------
+--------------------------*
+>P1;gi|3790104|gb|AAC67588.1| ribulose-1,5-bisphosphate carboxylase ... [ score 185 E 1e-46 ] [ range 43 .. 162 ]
+sequence
+-MQVWPI--EKKFETLSYLPPLTEEALLKQIDFLIRSKWVPCLEFSE--HGST----------------P
+GYYWTMWKLPMFGCTDASQVIKEVEEVKKEYPDAYVRIIGFDNI--RQVQCVSFIAFKPP----------
+--------------------------*
+>P1;gi|132146|sp|P16031|RBS_LARLA Ribulose bisphosphate carboxylase ... [ score 185 E 1e-46 ] [ range 68 .. 186 ]
+sequence
+-MQVWPP--NKKFETLSYLPRLTPEQLVKEVEYLLKNKWVPCLEFEE--DNSP----------------G
+YYYWVMWKLPMFGCTEASQVLNEVNECAKAYPNAFIRVIGFDNV--RQVQCISFIVHKP-----------
+--------------------------*
+>P1;gi|132117|sp|P19312|RBS6_LEMGI Ribulose bisphosphate carboxylase... [ score 185 E 2e-46 ] [ range 58 .. 176 ]
+sequence
+-MQVWPP--EKKFETLSYLPPLSVEDLAKEVDYLLRNDWVPCIEFEN--HASP----------------G
+YYYWTMWKLPMFGCTDASQVIAEVEEAKKAYPEYFVRIIGFDNK--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|3914608|sp|Q42915|RBS_MANES Ribulose bisphosphate carboxylase... [ score 185 E 2e-46 ] [ range 60 .. 180 ]
+sequence
+-MKVWPT--MKKFETLSYLPPLTREQLASEVEYLLRSGWIPCLEFEE--HARV----------------P
+GYYWTMWKLPMFGCTDAAQVLKELDELIKHHPDGYARIIGFDNV--RQVQCISFLAYKPP----------
+--------------------------*
+>P1;gi|132138|sp|P08474|RBS_CUCSA Ribulose bisphosphate carboxylase ... [ score 185 E 2e-46 ] [ range 60 .. 179 ]
+sequence
+-MKVWPP--LRKFETLSYLPDMSNEQLSKECDYLLRNGWVPCVEFEN--HRSP----------------G
+FYYWTMWKLPMFGCTDSSQVIQEIEEAKKEYPDAFIRVIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|1311404|pdb|1AUS|S Chain S, Activated Unliganded Spinach Rubi... [ score 185 E 3e-46 ] [ range 1 .. 121 ]
+sequence
+-MQVWPN--LKKYETLSYLPPLTTDQLARQVDYLLNNKWVPCLEFEH--HNSP----------------G
+YYYWTMWKLPMFGCTDPAQVLNELEECKKEYPNAFIRIIGFDSN--REVQCISFIAYKPA----------
+--------------------------*
+>P1;gi|4090293|emb|CAA10497.1| hypothetical protein [Secale cereale] [ score 184 E 3e-46 ] [ range 48 .. 167 ]
+sequence
+-MQVWPI--EKKFETLSYLPPLTTEALLKQVDYLIRSKWVPCLEFSE--HNAS----------------P
+GYYWTMWKLPMFGCTDATQVINEVEEVKKEYPDAYVRIIGFDNM--RQVQCVSFIAFKPP----------
+--------------------------*
+>P1;gi|403160|gb|AAA33866.1| ribulose 1,5-bisphosphate carboxylase s... [ score 184 E 4e-46 ] [ range 57 .. 177 ]
+sequence
+-MQVWPP--LKKFETLSYLPPLSTESLAKEVDYLLRKNWVPCLEFEE--NNRS----------------P
+GYYWTMWKLPMFGCTDSSQVLKELEEAKKAYPQSFIRIIGFDNV--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|7436565|pir||T02060 ribulose-bisphosphate carboxylase (EC 4.1... [ score 184 E 5e-46 ] [ range 48 .. 167 ]
+sequence
+-MQVWPI--EKKFETLSYLPPLTVEDLLKQIEYLLRSKWVPCLEFEN--HRSP----------------G
+YYYWTMWKLPMFGCTDATQVLKELEDAKKAYPDAFVRIIGFDNV--RQVQLISLIANKPP----------
+--------------------------*
+>P1;gi|4038725|dbj|BAA35179.1| ribulose-1,5-bisphosphate carboxylase... [ score 183 E 7e-46 ] [ range 42 .. 161 ]
+sequence
+-MQVWPI--EKKFETLSYLPPLSTEALLKQIDYLIRSKWVPCLEFSE--HNAS----------------P
+GYYWTMWKLPMFGCTDASQVIKELEEVKKEYPDAYVRIIGFDNL--RQVQCVSFIAFKPP----------
+--------------------------*
+>P1;gi|6409426|gb|AAF07985.1| ribulose-1,5-bisphosphate carboxylase ... [ score 183 E 7e-46 ] [ range 43 .. 162 ]
+sequence
+-MQVWPI--EKKFETLSYLPPLSEEALLKQIDFLIRSKWVPCLEFSH--GSTP----------------G
+YYYWTMWKLPMFGCTDASQVIKEVEEVKKEYPDAYVRIIGFDNI--RQVQCVSFIAFKPP----------
+--------------------------*
+>P1;gi|18413570|emb|CAD21856.1| putative ribulose 1,5 biphosphate ca... [ score 183 E 7e-46 ] [ range 55 .. 176 ]
+sequence
+-MQVWPP--EGKFETLSYLPPLSEADLLAQINYLLINGWVPCLEFRE--HHHS----------------P
+GYYWTMWKLPMFGCTDATQVVAELEEAKKAYPHAFVRIIGFDNV--RQVQCVSFIAYKPPR---------
+--------------------------*
+>P1;gi|4689388|gb|AAD27881.1| ribulose-1,5-bisphosphate carboxylase ... [ score 183 E 7e-46 ] [ range 57 .. 179 ]
+sequence
+-MQVWPT--KKKFETLSYLPDLTEEQLGKEVDYLLRSGWIPCLEFEE--NNRS----------------P
+GYYWTMWKLPMYGCTDSSQVLKELREARTLYPDGFVRIVGFDSV--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|13241101|gb|AAK16227.1| ribulose-1,5-bisphosphate carboxylase... [ score 183 E 7e-46 ] [ range 9 .. 128 ]
+sequence
+-MKVWPP--KKKYETLSYLPNLTETQLAKEVDYLLRNKWVPCLEFEN--HRSP----------------G
+YYYWTMWKLPMFGCTDSSQVMKELGECKKEYPQAWIRIIGFDNV--RQVQCISFIASKP-----------
+--------------------------*
+>P1;gi|132145|sp|P08705|RBS_HELAN Ribulose bisphosphate carboxylase ... [ score 183 E 8e-46 ] [ range 56 .. 175 ]
+sequence
+-MKVWPP--LKKYETLSYLPPLTETQLAKEVDYLLRKKWVPCLEFEE--HGSP----------------G
+YYYWTMWKLPMFGCTDSAQVMKELAECKKEYPQAWIRIIGFDNV--RQVQCIMFIASRP-----------
+--------------------------*
+>P1;gi|1352821|sp|P31333|RBS_GOSHI Ribulose bisphosphate carboxylase... [ score 183 E 9e-46 ] [ range 60 .. 179 ]
+sequence
+-MQVWPP--KKKFETLSYLPDLTPVQLAKEVDYLLRSKWIPCLEFEY--SSLP----------------T
+YYYWTMWKLPMFGCTDSAQVLEELENCKKEYPNAFIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|3914592|sp|Q96542|RBS_BETVE Ribulose bisphosphate carboxylase... [ score 182 E 1e-45 ] [ range 60 .. 180 ]
+sequence
+-MQVWPP--LKKFETLSYLPPLSSEQLAKEVDYLLRKNLIPCLEFEE--HNRS----------------P
+GYYWTMWKLPMFGCNDSSQVLKELEECKKAYPSAFIRIIGFDNK--RQVQIISFIAYKPP----------
+--------------------------*
+>P1;gi|45525349|ref|ZP_00176587.1| hypothetical protein Cwat344701 [... [ score 182 E 1e-45 ] [ range 1 .. 107 ]
+sequence
+-MKTLPK--ERRYETLSYLPPLTDQQILLQVQNVLDQGMIPGVEFEE--DPSP----------------T
+THFWTMWKLPLFNAVSAQEVLAEVRECRSEYPNAYIRVIGFDNI--KQCQTMSFIVHKPN----------
+--------------------------*
+>P1;gi|3914609|sp|Q44178|RBS_SYNP2 Ribulose bisphosphate carboxylase... [ score 181 E 2e-45 ] [ range 1 .. 108 ]
+sequence
+-MKTLPK--EKRYETLSYLPPLSDQQIARQVQYMMDQGYIPGIEFEK--DPTP----------------E
+LHHWTLWKLPLFNASSAQEVLNEVRECRSEYSDCYIRVVGFDNI--KQCQTVSFIVYKPNQ---------
+--------------------------*
+>P1;gi|37521727|ref|NP_925104.1| ribulose 1,5-bisphosphate carboxyla... [ score 181 E 3e-45 ] [ range 1 .. 106 ]
+sequence
+-MQTLPK--KKFYETMSYLPPLTDAEIAKQIQYMLDKGYIPCVEFNE--TSEP----------------T
+MVYWTMWKLPLFSVRSPQEVLSEVNACRSSYPGCFIRVIGFDNI--RQCQTMSFIVYKP-----------
+--------------------------*
+>P1;gi|4038713|dbj|BAA35173.1| ribulose-1,5-bisphosphate carboxylase... [ score 181 E 3e-45 ] [ range 43 .. 162 ]
+sequence
+-MQVWPI--EKKFETLSYLPPLSTEALLKQVDYLIRSKWVPCLEFEH--YSSP----------------G
+YYYWTMWKLPMFGCTDATQVLNEVEEVKKEYPDAYVRVIGFDNL--RQVQCVSFIAFRPP----------
+--------------------------*
+>P1;gi|45508680|ref|ZP_00161017.1| hypothetical protein Avar206901 [... [ score 180 E 4e-45 ] [ range 1 .. 108 ]
+sequence
+-MQTLPK--ERRYETLSYLPPLTDVQIEKQVQYILSQGYIPAVEFNE--ASEP----------------T
+EFYWTLWKLPLFGAKTSREVLGEVQACRSQYPGHYIRVVGFDNI--KQCQVLSFIVHKPSR---------
+--------------------------*
+>P1;gi|3914598|sp|O24045|RBS_MUSAC Ribulose bisphosphate carboxylase... [ score 180 E 4e-45 ] [ range 59 .. 177 ]
+sequence
+-MKVWPI--EKKFETLSYLPTMKDEALVKQIEYLLRSKWIPCLEFEN--HRSP----------------G
+YYYWTMWKLPMFGCTDAVQVAKEVEECKKEYPHAFIRIIGFDNN--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|3914574|sp|O22572|RBS2_FRIAG Ribulose bisphosphate carboxylas... [ score 180 E 5e-45 ] [ range 60 .. 178 ]
+sequence
+-MKVWPG--LKKFETLSYLPTLSVESLLKQIEYLIRNGWVPCLEFSN--NKSP----------------G
+YYYWTMWKLPMFGCTDAAQVVKEAAECKKEYPAAFIRVIGFDNV--RQVQCVSFIVEKP-----------
+--------------------------*
+>P1;gi|3914575|sp|O24634|RBS1_FRIAG Ribulose bisphosphate carboxylas... [ score 180 E 6e-45 ] [ range 60 .. 178 ]
+sequence
+-MKVWPG--LKKFETLSYLPTLSVESLLKQIEYLIRNGWVPCLEFSD--NNKS----------------P
+GYYWTMWKLPMFGCTDAAQVVKEAAECKKEYPAAFIRVIGFDNV--RQVQCVSFIVERP-----------
+--------------------------*
+>P1;gi|132082|sp|P00868|RBS1_PEA Ribulose bisphosphate carboxylase s... [ score 179 E 9e-45 ] [ range 14 .. 133 ]
+sequence
+-MQVWPP--KKKFETLSYLPPLTRDQLLKEVEYLLRKGWVPCLEFEE--HNKS----------------P
+RYYWTMWKLPMFGTTDPAQVVKEVDEVVAAYPEAFVRVIGFNNV--RQVQCISFIAHTP-----------
+--------------------------*
+>P1;gi|17229018|ref|NP_485566.1| ribulose 1,5-bisphosphate carboxyla... [ score 179 E 2e-44 ] [ range 1 .. 108 ]
+sequence
+-MQTLPK--ERRYETLSYLPPLTDVQIEKQVQYILSQGYIPAVEFNE--VSEP----------------T
+ELYWTLWKLPLFGAKTSREVLAEVQSCRSQYPGHYIRVVGFDNI--KQCQILSFIVHKPSR---------
+--------------------------*
+>P1;gi|23040625|ref|ZP_00072131.1| COG4451: Ribulose bisphosphate ca... [ score 178 E 2e-44 ] [ range 1 .. 108 ]
+sequence
+-MRTLPK--ERRYETLSYLPPLTDLQIRKQLQYILDQGFIAGVEFSE--SSDA----------------E
+MHYWTLWKLPLFQARTIDEVLVEIDACRSENPDCFIRVMGFDNV--KQCQVLSFIVHKPNQ---------
+--------------------------*
+>P1;gi|132155|sp|P18960|RBS_SILPR Ribulose bisphosphate carboxylase ... [ score 178 E 3e-44 ] [ range 57 .. 176 ]
+sequence
+-MQVWPP--RKKFETLSYLPTLSEESLLKEINYLLIKGWVPCLEFEE--NNKS----------------P
+GYYWTMWKLPMFGCTDASQVAAEVVECKNAYPDAHVRIIGFDNK--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|23126260|ref|ZP_00108161.1| COG4451: Ribulose bisphosphate ca... [ score 178 E 3e-44 ] [ range 1 .. 108 ]
+sequence
+-MQTLPK--ERRYETLSYLPPLSDAQIAKQIQYILNQGYIPAIEFNE--TSEP----------------T
+ELYWTMWKLPLFGAKSTQEVLSEVQGCRSQFNGSYIRVVGFDNI--KQCQVLSFLVHKPNR---------
+--------------------------*
+>P1;gi|1673456|emb|CAA70416.1| rubisco small subunit [Zea mays] [ score 177 E 4e-44 ] [ range 48 .. 167 ]
+sequence
+-MQVWPA--NKKFETLSYLPPLSTDDLLKQVDYLLRNGWIPCLEFSE--NSTS----------------P
+CYYWTMWKLPMFGCTDATQVYKELQEAIAAYPDAFHRVIGFDNV--RQTQCVSFIAYKPP----------
+--------------------------*
+>P1;gi|3914585|sp|O22077|RBS_FAGCR Ribulose bisphosphate carboxylase... [ score 176 E 1e-43 ] [ range 60 .. 180 ]
+sequence
+-MKVWPP--LQKFETLSYLPPLSIESLAKQIEYLILKGWIPCLEFEE--HPSP----------------G
+YYYWVMWKLPMFGCTDATQVLAELQEASKTYPTSHIRIIGFDNK--RQVQCISFIAYKPP----------
+--------------------------*
+>P1;gi|132081|sp|P05347|RBS1_ORYSA Ribulose bisphosphate carboxylase... [ score 174 E 3e-43 ] [ range 46 .. 165 ]
+sequence
+-MQVWPI--EKKFETLSYLPPLTVEDLLKQIEYLAPFQVVPCLEFEN--HKSP----------------G
+YYYWTMWKLPMFGCTDATQVVKELEEAKKAYPDAFVRIIGFDNV--RQVQLISFIAYNPG----------
+--------------------------*
+>P1;gi|223593|prf||0902172A carboxylase/oxygenase,RBP [ score 174 E 3e-43 ] [ range 1 .. 120 ]
+sequence
+-MQVWPP--KKKYETLSYLPDLSQEQLLLEPDYLLKDGWVPCLEFTE--HGSP----------------G
+YYYWTMWKLPMFGCTDATQVLAEVGEAKKAYPEAWIRIIGFDNV--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|132147|sp|P05348|RBS_MAIZE Ribulose bisphosphate carboxylase ... [ score 174 E 5e-43 ] [ range 48 .. 167 ]
+sequence
+-MQVWPA--NKKFETLSYLPPLSTDDLLKQVDYLLRNGWIPCLEFSE--NSTS----------------P
+CYYWTMWKLPMFGCNDATQVYKELQEAIKSYPDAFHRVIGFDNI--KQTQCVSFIAYKPP----------
+--------------------------*
+>P1;gi|132143|sp|P16881|RBS_EUGGR Ribulose bisphosphate carboxylase ... [ score 173 E 7e-43 ] [ range 1141 .. 1267 ] [ duplicate b ]
+sequence
+-MKVWNP--NKKFETFSYLPPLSDAQIAKQVDMIIAKGLSPCLEFAA--PENS----------------D
+NRYWTMWKLPMFGCTDASQVLREISECRRAYPQCYVRLAAFDSV--KQVQVISFVVQRPS----------
+--------------------------*
+>P1;gi|1405796|emb|CAA67061.1| ribulose-bisphosphate carboxylase [Pt... [ score 173 E 8e-43 ] [ range 53 .. 174 ]
+sequence
+AMLVWKP--NKKFETLSYLPPLTNDQIAKQVEYMVRKGWTPCIEFRE--HFHG----------------S
+GYYWIMWKLPMFGCTDSGSVLREIAECAKEYPTAFIRVLGFDAK--RQVQVAGFLVKKPSQ---------
+--------------------------*
+>P1;gi|132150|sp|P10053|RBS_PINTH Ribulose bisphosphate carboxylase ... [ score 172 E 1e-42 ] [ range 52 .. 170 ]
+sequence
+-MQVWPP--NPKFETLSYLPTLTEEQLVKEVEYLLRNKWVPCLEFRS--PGYY----------------D
+GRYWVMWKLPMFGCTEASQVINEVRECAKAYPKAFIRVIGFDNV--RQVQCISFIVHKP-----------
+--------------------------*
+>P1;gi|12240092|gb|AAG49562.1| ribulose-1,5-bisphosphate carboxylase... [ score 170 E 4e-42 ] [ range 2 .. 118 ]
+sequence
+-MQVWPP--TKKFETLSYLPPLSDEALLKEISYLLRSGWIPCLEFEH--HSSP----------------G
+YYYWTMWKLPMYGCTDATQVLKEVGEVQKEYPHSFVRIIGFDNK--RQVQCISFIA--------------
+--------------------------*
+>P1;gi|28797561|gb|AAO46873.1| ribulose-bisphosphate carboxylase sma... [ score 170 E 6e-42 ] [ range 46 .. 171 ]
+sequence
+-MMVWTP--NKMFETFSYLPPLTDEQIAAQVDYIVANGWIPCLEFAE--ADKA----------------D
+NRYWTMWKLPMFGCRDPMQVLREIVACTKAFPDAYVRLVAFDNV--KQVQIMGFLVQRP-----------
+--------------------------*
+>P1;gi|3914587|sp|Q38793|RBS_AEGTA Ribulose bisphosphate carboxylase... [ score 170 E 6e-42 ] [ range 48 .. 167 ]
+sequence
+-MQVWPI--EKKFETLSYLPPLSTEGLLKQVDYLIRSKWVPCLEFRE--HNVS----------------P
+GYYWTMWKLPMFGCPAPTQVIPEVEEVRKEYPDPYCRIIGFDNM--RQVQSVSFIASKPP----------
+--------------------------*
+>P1;gi|132136|sp|P17537|RBS_CHLMO Ribulose bisphosphate carboxylase ... [ score 168 E 3e-41 ] [ range 30 .. 154 ]
+sequence
+--KVWQP--NKQYETFSYLPPLTNQKIGRQVDYIINNGWTPCLEFAD--PSTS----------------D
+NRYWTMWKLPMFGCTDPSQVLREVSACQVAFPNVYIRLVAFDNV--KQVQCMGFLVQRP-----------
+--------------------------*
+>P1;gi|13241105|gb|AAK16229.1| ribulose-1,5-bisphosphate carboxylase... [ score 167 E 4e-41 ] [ range 9 .. 130 ]
+sequence
+-MKVWPP--KKKYETLSSLPNLTETQLAKEVDYLPPNKWVPCLEFEE--HGSP----------------R
+YYSWTIWKLPMFGCTDSSQVMKELGECKKEYPQAWIRIIGFDNV--RQVQCISFIASKP-----------
+--------------------------*
+>P1;gi|6272547|gb|AAF06097.1| ribulose 1,5-bisphosphate carboxylase ... [ score 167 E 5e-41 ] [ range 60 .. 174 ]
+sequence
+-MKVWPT--MKKFETLSYLPPLTREQLAKPLEFELEHG----LVYRE--HARV----------------P
+GYYWTMWKLPMFGCTDAAQVLKELDELIKHHPDGYARIIGFDNV--RQVQCISFLAYKPP----------
+--------------------------*
+>P1;gi|132114|sp|P16133|RBS5_ACECL Ribulose bisphosphate carboxylase... [ score 167 E 5e-41 ] [ range 45 .. 171 ]
+sequence
+-MMVWQP--NKMFETFSYLPPLTDEQISKQVDYILANSWTPCLEFAA--SDQA----------------D
+NRYWTMWKLPMFGCTDGSQVLSEIQACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRPP----------
+--------------------------*
+>P1;gi|228356|prf||1803224A RuBisCO:SUBUNIT=small:ISOTYPE=1 [ score 167 E 6e-41 ] [ range 35 .. 161 ]
+sequence
+AMMVWAP--NKFFETFSYLPPLTDDQITKQVDYILRNNWTPCLEFTH--DNTV----------------R
+NRYWTMWKLPMFGCIDGSQVLTEISACTKAFPDAYIRLVCFDAN--RQVQISGFLVHRP-----------
+--------------------------*
+>P1;gi|3914595|sp|Q38693|RBS7_ACECL Ribulose bisphosphate carboxylas... [ score 166 E 8e-41 ] [ range 44 .. 170 ]
+sequence
+-MMVWQP--NKMFETFSYLPPLTDEQISKQVDYILANSWTPCLEFAA--SDQA----------------D
+NRYWTMWKLPMFGCTDGSQVLSDMQACTKAFPDAYIRLVCFDAN--RQVQICGFLVHRPP----------
+--------------------------*
+>P1;gi|19919152|gb|AAM08169.1| ribulose 1,5-bisphosphate carboxylase... [ score 166 E 8e-41 ] [ range 7 .. 104 ]
+sequence
+--------------TFSFLPDLTDEQIKKQIEYAISKGWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDTATVMDEVASCRKAHSSIYIKINAFDNT--RGVESCSFLVNRPS----------
+--------------------------*
+>P1;gi|19919148|gb|AAM08167.1| ribulose 1,5-bisphosphate carboxylase... [ score 166 E 1e-40 ] [ range 7 .. 104 ]
+sequence
+--------------TFSFLPDLTDEQIKKQIEYAISKGWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDTAGVMQEVANCRKAHSSIYIKINAFDNT--RGVESCSFLINRPS----------
+--------------------------*
+>P1;gi|19439|emb|CAA24969.1| unnamed protein product [Lemna gibba] [ score 166 E 1e-40 ] [ range 1 .. 119 ]
+sequence
+-MQVWPP--EKKFETLSYFPLSSVEDLAKEVDYLLRNDWVPCIEFEN--NASP----------------G
+YYYWTMWKLPMFGCTDASQVIAEVEEAKKAYPEYFVRIIGFDNK--RQVQCISFIAYKP-----------
+--------------------------*
+>P1;gi|12642577|gb|AAK00292.1| ribulose bisphosphate carboxylase/oxy... [ score 165 E 2e-40 ] [ range 14 .. 114 ]
+sequence
+-----PA--SRKFETLSYLPALTAEQIRQQVAYIVSKGWNPAVEHTE--PENA----------------F
+GNYWYMWKLPMFGETDVDTILKEAEACHKANPHNHVRIVGYDNF--KQSQGTSLVVYR------------
+--------------------------*
+>P1;gi|4098852|gb|AAD00448.1| ribulose-1,5-bisphosphate carboxylase/... [ score 165 E 2e-40 ] [ range 2 .. 126 ]
+sequence
+--KVWQP--NKQYETFSYLPALTTEQIAKQVDYVIRNGWTPCLEFAD--PSSS----------------D
+NRYWTMWKLPMFGCTDASQVLKEIAACNAAFPESYSRLVAFDNN--KQVQCMGFLVQRP-----------
+--------------------------*
+>P1;gi|30523254|gb|AAP31674.1| ribulose-1,5-bisphosphate carboxylase... [ score 165 E 2e-40 ] [ range 7 .. 119 ]
+sequence
+-MKVWPP--TKKFETLSYLPPLSDEALLKEINYLLRSGWIPCLEFEH--HRSP----------------G
+YYYWTMWKLPMFGCTDATQVLKEVGEVQKEYPHSFVRIIGFDNK--RQVQCI------------------
+--------------------------*
+>P1;gi|3914600|sp|O64416|RBS_MARPA Ribulose bisphosphate carboxylase... [ score 164 E 3e-40 ] [ range 59 .. 178 ]
+sequence
+-MQVWEP--NLKFETLSYLPPLSQDALAKQIDYVIKSGWAPCIEFRE--GSTM----------------P
+GYYWTMWKLPMFGCTDSASVLREIEECKKLYGKCYIRCLGFDNT--RQVQCASFIVHQP-----------
+--------------------------*
+>P1;gi|3183157|sp|Q51857|RBS_PSEHY Ribulose bisphosphate carboxylase... [ score 164 E 3e-40 ] [ range 21 .. 124 ]
+sequence
+-----PK--SKRFETFSYLPQMSAEEIRKQIEYIVSKGWNPAIEHCE--PENA----------------I
+LHYWYMWKLPMFGETDVDKIIAEIEACKRSNPNHLIKLIGYDNI--RQTQGTAMLVYRPAQ---------
+--------------------------*
+>P1;gi|19919172|gb|AAM08179.1| ribulose 1,5-bisphosphate carboxylase... [ score 164 E 4e-40 ] [ range 7 .. 104 ]
+sequence
+--------------TFSFLPDLTDEQIKKQIDYAISQNWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDAQTVMYEMNSCRKQYSNLYIKVNAFDNT--RGVESCSFLVNRPS----------
+--------------------------*
+>P1;gi|34915976|dbj|BAC87878.1| Ribulose bisphosphate carboxylase sm... [ score 164 E 5e-40 ] [ range 62 .. 184 ]
+sequence
+-MQVWNP--QPKFETFSYLPPLSDDQIARQVDYMIQQNLIPCIEFDT--SGSS----------------G
+YYYWTMWKLPMFGCTDSSQVLREIQECKTSYPSCWVRVLGFDSK--KQVQICGFLVARPN----------
+--------------------------*
+>P1;gi|6440788|dbj|BAA78582.1| ribulose-bisphosphate carboxylase sma... [ score 164 E 5e-40 ] [ range 26 .. 151 ]
+sequence
+--KVWQP--NKQYETFSYLPALTSEQIARQVDYVIRNGYTPCLEFAD--AAYS----------------D
+NRYWTMWKLPMFGCTDAAQVLKEVALCTRAFPNAYVRLVAFDNT--KQVQCMGFLVQRPA----------
+--------------------------*
+>P1;gi|19919168|gb|AAM08177.1| ribulose 1,5-bisphosphate carboxylase... [ score 164 E 5e-40 ] [ range 7 .. 104 ]
+sequence
+--------------TFSFLPDFTDEQITKQIEYAISQNWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDTATVMYEVNNCRKAHSSVYIKINAFDNT--RGVESCSFIINRPA----------
+--------------------------*
+>P1;gi|19919154|gb|AAM08170.1| ribulose 1,5-bisphosphate carboxylase... [ score 163 E 7e-40 ] [ range 7 .. 104 ]
+sequence
+--------------TFSFLPDLTDEQIQKQIEYAISNSWAINIEYTE--DPHP----------------R
+NNYWELWGLPLFDIKDVATVMYEVNNCRKAHSSIYIKINAFDNT--RGVESCSFLINRPS----------
+--------------------------*
+>P1;gi|3183149|sp|Q59459|RBS1_HYDMR Ribulose bisphosphate carboxylas... [ score 163 E 9e-40 ] [ range 9 .. 114 ]
+sequence
+SSLSAPT--SRKAETFSYLPKMTTDQIKAQVEYIISKGWNPAIEHSE--PENA----------------F
+SYYWYMWKLPMFGDTDANVVLAEVDACIKANPNNHVRLIGYDNY--AQSQGANMLVKR------------
+--------------------------*
+>P1;gi|132157|sp|P00870|RBS1_SPIOL Ribulose bisphosphate carboxylase... [ score 163 E 9e-40 ] [ range 1 .. 121 ]
+sequence
+-MQVWPP--LKKFETLSYLPPLTTEQLLAEVNYLLVKGWIPPLEFEE--HDKS----------------P
+GYYWTMWKLPMFGGTDPAQVVNEVEEVKKAPPDAFVRFIGFNDK--REVQCISFIAYKPA----------
+--------------------------*
+>P1;gi|22960296|ref|ZP_00007937.1| COG4451: Ribulose bisphosphate ca... [ score 162 E 1e-39 ] [ range 48 .. 143 ]
+sequence
+---------------FSFLPDLTDAQISAQVDYCLGRGWAVSLEHTD--DPHP----------------R
+NTYWEMWGMPMFDLRDPKGVMIELDECRKAWPGRYIRINAFDST--RETVTMSFIVNRP-----------
+--------------------------*

@@ -1,0 +1,1772 @@
+>P1;1kbt
+structureX:1kbt:   1 : :  60 : :ctx IV:Naja naja atra:-1:-1
+RKCN-KLVP--LFYKTCPAGKNLCYKMFMVSNL-T---VPVKRGCIDVCPKNSAL-VKYVCCNT-DRCN-
+--------*
+>P1;2crt
+structureN:2crt:   1 : :  60 : :cardiotoxin III:Naja naja atra:-1.00:-1.00
+LKCN-KLVP--LFYKTCPAGKNLCYKMFMVATP-K---VPVKRGCIDVCPKSSLL-VKYVCCNT-DRCN-
+--------*
+>P1;2cdx
+structureX:2cdx:   1 : :  60 : :cardiotoxin ctx I:Naja naja atra:-1:-1
+LKCN-KLIP--IASKTCPAGKNLCYKMFMMSDL-T---IPVKRGCIDVCPKNSLL-VKYVCCNT-DRCN-
+--------*
+>P1;1cdta
+structureX:1cdt:   1 :A:  60 :A:cardiotoxin V4:Naja mossambica mossambica: 2.50:19.70
+LKCN-KLIP--IAYKTCPEGKNLCYKMMLASKK-M---VPVKRGCINVCPKNSAL-VKYVCCST-DRCN-
+--------*
+>P1;1tgxa
+structureX:1tgx:   1 :A:  60 :A:gamma toxin:Naja nigricolis: 1.55:17.20
+LKCN-QLIP--PFWKTCPKGKNLCYKMTMRAAP-M---VPVKRGCIDVCPKSSLL-IKYMCCNT-DKCN-
+--------*
+>P1;1kxia
+structureX:1kxi:   1 :A:  62 :A:cardiotoxin V:Naja naja atra:2.19:20.7
+LKCHNTQLP--FIYKTCPEGKNLCFKATLKKFPLK---FPVKRGCADNCPKNSAL-LKYVCCST-DKCN-
+--------*
+>P1;1tfs
+structureX:1tfs:   1 : :  60 : :toxin fs2:Dendroaspis polylepis polylepis:-1:-1
+RICYSHKASLPRATKTCV--ENTCYKMFIRTH----REYISERGCG--CPTAMW-PYQTECCKG-DRCNK
+--------*
+>P1;1drs
+structureN:1drs:   1 : :  59 : :dendroaspin:Dendroaspis jamesoni kaimose:-1.00:-1.00
+RICYNHLGTKPPTTETCQ--EDSCYKNIWTFD------NIIRRGCG--CFTPRGDMPGPYCCES-DKCNL
+--------*
+>P1;1txb
+structureX:1txb:   1 : :  73 : :toxin b:Ophiophagus hannah:-1:-1
+TKCYVT--P-DATSQTCPDGQDICYTKTWCDGFCSSRGKRIDLGCAATCPKVKPGV-DIKCCST-DNCNP
+FPTWKRKH*
+>P1;2ctx
+structureX:2ctx:   1 : :  71 : :alpha-cobratoxin:Naja naja siamensis: 2.40:19.50
+IRCFIT--P-DGTSKDCPNG-HVCYTKTWCDGFCSIRGKRVDLGCAATCPTVKTGV-DIQCCST-DNCNP
+FPTGGAP-*
+>P1;1ntn
+structureX:1ntn:   1 : :  72 : :neurotoxin-I:Naja naja oxiana:1.90:19.0
+ITCYKT--P-IITSETCAPGQNLCYTKTWCDAWCGSRGKVIELGCAATCPTVESYQ-DIKCCST-DNCNP
+HPKQKR-P*
+>P1;1lsi
+structureX:1lsi:   1 : :  66 : :LSIII:Laticauda semifasciata:-1:-1
+RECYLN--P-HDT-QTCPSGQEICYVKSWCNAWCSSRGKVLEFGCAATCPSVNTGT-EIKCCSA-DKCNT
+YP------*
+>P1;2abxa
+structureX:2abx:   1 :A:  74 :A:alpha-bungarotoxin:Bungarus multicinctus: 2.50:24.00
+IVCHTTATI-PSSAVTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DKCNH
+PPKRQ-PG*
+>P1;2nbta
+structureN:2nbt:   1 :A:  66 :A:neuronal bungarotoxin:Bungarus multicinctus:-1.00:-1.00
+RTCLISPS---STPQTCPNGQDICFLKAQCDKFCSIRGPVIEQGCVATCPQFRSNYRSLLCCTT-DNCNH
+--------*
+>P1;1nean
+structureN:1nea:   1 : :  61 : :alpha-toxin:Naja nigricollis:-1.00:-1.00
+LECHNQQSSQPPTTKTCP-GETNCYKKVWRDH----RGTIIERGCG--CPTVKPG-IKLNCCTT-DKCNN
+--------*
+>P1;1nor
+structureN:1nor:   1 : :  61 : :neurotoxin II:Naja naja oxiana:-1.00:-1.00
+LECHNQQSSQPPTTKTCS-GETNCYKKWWSDH----RGTIIERGCG--CPKVKPG-VNLNCCRT-DRCNN
+--------*
+>P1;1cod
+structureN:1cod:   1 : :  62 : :cobrotoxin II:Naja naja atra:-1.00:-1.00
+LECHNQQSSQTPTTTGCSGGETNCYKKRWRDH----RGYRTERGCG--CPSVKNG-IEINCCTT-DRCNN
+--------*
+>P1;1nxb
+structureX:1nxb:   1 : :  62 : :erabutoxin:Laticauda semifasciata: 1.38:24.00
+RICFNQHSSQPQTTKTCSPGESSCYHKQWSDF----RGTIIERGCG--CPTVKPG-IKLSCCES-EVCNN
+--------*
+>P1;1ntx
+structureN:1ntx:   1 : :  62 : :alpha-neurotoxin:Dendroapsis polylepsis polylepsis:-1.00:-1.00
+RICYNHQSTTRATTKSCE--ENSCYKKYWRDH----RGTIIERGCG--CPKVKPG-VGIHCCQS-DKCNY
+--------*
+>P1;1fas
+structureX:1fas:   1 : :  61 : :fasciculin 1:Dendroaspis angusticeps: 1.80:14.90
+TMCYSHTTTSRAILTNCGE--NSCYRKSRRHPPK----MVLGRGCG--CPPGDDY-LEVKCCTSPDKCNY
+--------*
+>P1;gi|41688527|sp|Q9W6W9|CX4N_NAJAT Cardiotoxin 4N precursor (CTX-4... [ score 93 E 1e-18 ] [ range 22 .. 81 ]
+sequence
+RKCN-KLVP--LFYKTCPAGKNLCYKMFMVSNL-T---VPVKRGCIDVCPKSSLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|18076742|emb|CAC85538.1| cardiotoxin-like basic protein 3 [Na... [ score 74 E 1e-12 ] [ range 22 .. 82 ]
+sequence
+RKCN-SPLS--LVYQTCPIGQNICFKINVKEAP-S---IPVKRACAATCPKSSAL-VKVVCCKT-DKCN-
+--------*
+>P1;gi|117736|sp|P19003|CXH2_ASPSC Cytotoxin homolog S3C2 >gi|85942|... [ score 72 E 4e-12 ] [ range 1 .. 62 ]
+sequence
+RKCN-TPLP--LFYKTCPEGKDLCYKMNFKLPK-K---LSIKRGCTDTCPKSSLL-VKVVCCDT-DKCN-
+--------*
+>P1;gi|117737|sp|P19004|CXH4_ASPSC Cytotoxin homolog S4C8 >gi|85943|... [ score 49 E 2e-05 ] [ range 1 .. 63 ]
+sequence
+RKCN-SPGR--LVSKPCPEGNNLCYKMNRMYPP-G---FNVRRGCAETCPRRNRL-LEVVCCDT-DNCN-
+--------*
+>P1;gi|5102575|emb|CAB45156.1| neurotoxin-like protein [Naja naja] [ score 47 E 1e-04 ] [ range 22 .. 85 ]
+sequence
+RLCL-SDYS--IFSETCPDGHNFCFKKFPKGIT-R---LPVIRGCAATCPKAEAR-VYVDCCAR-DKCN-
+--------*
+>P1;gi|3550531|emb|CAA09322.1| unnamed protein product [Naja atra] [ score 45 E 5e-04 ] [ range 17 .. 48 ]
+sequence
+-------------------------------DL-E---FPVKRGCADNCPKNSAL-LKYVCCST-DKCN-
+--------*
+>P1;gi|2134236|pir||JC4621 cardiotoxin N precursor - Chinese cobra >... [ score 96 E 3e-19 ] [ range 22 .. 81 ]
+sequence
+LKCN-QLIP--PFYKTCAAGKNLCYKMFMVAAP-K---VPVKRGCIDVCPKSSLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|117681|sp|P01463|CX2_NAJNI Cytotoxin 2 (Toxin V-II-2) >gi|695... [ score 92 E 3e-18 ] [ range 1 .. 60 ]
+sequence
+LKCH-QLIP--PFWKTCPEGKNLCYKMYMVATP-M---IPVKRGCIDVCPKNSAL-VKYMCCNT-DKCN-
+--------*
+>P1;gi|41688512|sp|Q98965|CTX6_NAJAT Cardiotoxin 6 precursor >gi|162... [ score 92 E 4e-18 ] [ range 22 .. 81 ]
+sequence
+LKCN-QLIP--PFYKTCAAGKNLCYKMFMVAAQ-R---FPVKRGCIDVCPKSSLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|41688506|sp|Q91124|CTX8_NAJAT Cardiotoxin VIII precursor >gi|... [ score 92 E 4e-18 ] [ range 22 .. 81 ]
+sequence
+LKCN-KLIP--IASKTCPAGKNLCYKMFMVATP-K---VPVKRGCIDVCPKSSLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|117660|sp|P01453|CX10_NAJHA Cytotoxin 10 (Toxin CM-4a) >gi|69... [ score 91 E 7e-18 ] [ range 1 .. 60 ]
+sequence
+LECN-QLIP--IAHKTCPEGKNLCYKMFMVSTS-T---VPVKRGCIDVCPKNSAL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|117676|sp|P01462|CX2_NAJHA Cytotoxin 2 (Toxin V-II-2/V-II-2A)... [ score 91 E 9e-18 ] [ range 1 .. 60 ]
+sequence
+LKCH-KLVP--PFWKTCPEGKNLCYKMYMVATP-M---LPVKRGCIDVCPKDSAL-VKYMCCNT-DKCN-
+--------*
+>P1;gi|117719|sp|P01457|CX5_NAJHH Cytotoxin 5 (Cytotoxin CM-8) >gi|6... [ score 90 E 1e-17 ] [ range 1 .. 60 ]
+sequence
+LKCH-QLVP--PFWKTCPEGKNLCYKMYMVSSS-T---VPVKRGCIDVCPKNSAL-VKYVCCNT-DKCN-
+--------*
+>P1;gi|117669|sp|P01451|CX1_NAJOX Cytotoxin 1 >gi|69491|pir||H3NJ1R ... [ score 90 E 1e-17 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLVP--IAYKTCPEGKNLCYKMFMMSDL-T---IPVKRGCIDVCPKNSLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|117725|sp|P01454|CX9_NAJHA Cytotoxin 9 (Toxin CM-2e) >gi|6949... [ score 90 E 1e-17 ] [ range 1 .. 60 ]
+sequence
+LECN-KLVP--IAHKTCPEGKNLCYKMFMVSTS-T---VPVKRGCIDVCPKDSAL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|69499|pir||H3NJME cytotoxin 3, minor component - cobra (Naja ... [ score 90 E 1e-17 ] [ range 1 .. 60 ]
+sequence
+LKCH-KLVP--PFWKTCPEGKNLCYKMYMVSTL-T---VPVKRGCIDVCPKNSAL-VKYVCCNT-DKCN-
+--------*
+>P1;gi|117720|sp|P24779|CX5_NAJKA Cytotoxin 5 (Cytotoxin II) >gi|859... [ score 89 E 2e-17 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLIP--LAYKTCPAGKNLCYKMFMVAAP-K---VPVKRGCIDACPKNSLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|117718|sp|P01464|CX5_NAJHA Cytotoxin 5 (Toxin CM-6) >gi|69504... [ score 89 E 2e-17 ] [ range 1 .. 60 ]
+sequence
+LKCH-KLVP--PFWKTCPEGKNLCYKMYMVATP-M---IPVKRGCIDVCPKNSAL-VKYMCCNT-NKCN-
+--------*
+>P1;gi|41688526|sp|Q9W6W6|CX10_NAJAT Cardiotoxin 10 precursor >gi|46... [ score 89 E 2e-17 ] [ range 23 .. 82 ]
+sequence
+LKCN-QHIP--PFYKTCAAGKNLCYKIFMVAAP-K---VPVKRGCIDVCPKSSDL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|117701|sp|P01458|CX3_NAJNI Cytotoxin 3 (Toxin V-II-3) >gi|694... [ score 89 E 3e-17 ] [ range 1 .. 60 ]
+sequence
+LKCN-QLIP--PFWKTCPKGKNLCYNMYMVSTS-T---VPVKRGCIDVCPKNSAL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|117680|sp|P01440|CX2_NAJNA Cytotoxin 2 (Cytotoxin II) >gi|694... [ score 88 E 4e-17 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLVP--LFYKTCPAGKNLCYKMYMVATP-K---VPVKRGCIDVCPKSSLV-LKYVCCNT-DRCN-
+--------*
+>P1;gi|2500797|sp|Q98956|CX1B_NAJAT Cardiotoxin 1b precursor >gi|166... [ score 88 E 4e-17 ] [ range 22 .. 81 ]
+sequence
+LKCN-KLVP--IASKTCPAGKNLCYKMFMMSDL-T---VPVKRGCIDVCPKSSLL-VKYVCCNT-DICN-
+--------*
+>P1;gi|117699|sp|P01470|CX3_NAJMO Cytotoxin 3 (Cytotoxin V-II-3) >gi... [ score 88 E 4e-17 ] [ range 1 .. 60 ]
+sequence
+LKCN-RLIP--PFWKTCPEGKNLCYKMTMRLAP-K---VPVKRGCIDVCPKSSLL-IKYMCCNT-NKCN-
+--------*
+>P1;gi|41688521|sp|Q9PS34|CTX5_NAJOX Cytotoxin Vc-5 >gi|261716|gb|AA... [ score 88 E 5e-17 ] [ range 1 .. 60 ]
+sequence
+LKCK-KLVP--LFSKTCPAGKNLCYKMFMVAAP-H---VPVKRGCIDVCPKSSLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|69508|pir||H3NJ6M cytotoxin 6, minor component - cobra (Naja ... [ score 88 E 5e-17 ] [ range 1 .. 60 ]
+sequence
+LKCH-KLVP--PFWKTCPEGKNLCYKMYMVATP-M---LPVKRGCIDVCPKDSAL-VKYVCCST-NKCN-
+--------*
+>P1;gi|117668|sp|P01456|CX1_NAJNI Cytotoxin 1 (Toxin V-II-1) >gi|694... [ score 88 E 5e-17 ] [ range 1 .. 60 ]
+sequence
+LKCH-KLVP--PVWKTCPEGKNLCYKMFMVSTS-T---VPVKRGCIDVCPKDSAL-VKYVCCST-DKCN-
+--------*
+>P1;gi|117677|sp|P01445|CX2_NAJKA Cytotoxin 2 (Cytotoxin CM-7A) >gi|... [ score 88 E 5e-17 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLIP--LAYKTCPAGKNLCYKMFMVSNK-T---VPVKRGCIDVCPKNSLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|117665|sp|P01448|CX1_NAJME Cytotoxin 1 (Cytotoxin V-II-1) (To... [ score 87 E 7e-17 ] [ range 1 .. 60 ]
+sequence
+LECN-KLVP--IAHKTCPAGKNLCYQMYMVSKS-T---IPVKRGCIDVCPKSSLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|117679|sp|P01469|CX2_NAJMO Cytotoxin 2 (Cardiotoxin XIIA) (Cy... [ score 87 E 1e-16 ] [ range 1 .. 60 ]
+sequence
+LKCN-QLIP--PFWKTCPKGKNLCYKMTMRGAS-K---VPVKRGCIDVCPKSSLL-IKYMCCNT-DKCN-
+--------*
+>P1;gi|299268|gb|AAB25732.1| cardiotoxin isoform 1, cytotoxin isofor... [ score 87 E 1e-16 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLIP--IASKTCPAGKNLCYKMFMMSDL-T---IPVKRGCIDVCPKSNLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|1184523|gb|AAB35381.1| cytotoxin-like basic protein, CLBP [Na... [ score 86 E 2e-16 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLIP--LAYKTCPAGKNLCYKMYMVSNK-T---VPVKRGCIDVCPKNSLL-VTYECCNT-DRCN-
+--------*
+>P1;gi|25453429|sp|P25517|CX5_NAJMO Cytotoxin 5 (CTX V) [ score 86 E 2e-16 ] [ range 1 .. 60 ]
+sequence
+LKCK-KLIP--LFSKTCPEGKNLCYKMTMRLAP-K---VPVKRGCIDVCPKSSFL-VKYECCDT-DRCN-
+--------*
+>P1;gi|117700|sp|P24780|CX3_NAJNA Cytotoxin 3 (Cytotoxin IIa) [ score 86 E 2e-16 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLIP--LAYKTCPAGKNLCYKMFMVSNK-T---VPVKRGCIDVCPKNSLV-LKYVCCNT-DRCN-
+--------*
+>P1;gi|117714|sp|P01461|CX4_NAJHA Cytotoxin 4 (Toxin CM-11) >gi|6950... [ score 86 E 3e-16 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLIP--PFWKTCPKGKNLCYKMYMVSTL-T---VPVKRGCIDVCPKNSAL-VKYVCCNT-NKCN-
+--------*
+>P1;gi|41688451|sp|P60307|CX5A_NAJAT Cytotoxin SP15a [ score 85 E 4e-16 ] [ range 1 .. 60 ]
+sequence
+LKCK-KLVP--LFSKTCPPGKNLCYKMFMVATP-K---VPVKRGCIDVCPKSSLL-VKYVCCNT-DKCN-
+--------*
+>P1;gi|41688450|sp|P60306|CXPB_NAJAT Cytotoxin SP13b [ score 85 E 4e-16 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLKP--LAYKTCPAGKNLCYKMFMMSNK-T---VPVKRGCIDVCPKNSLL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|24636286|sp|P83345|CX1_NAJSG Cardiotoxin sagitoxin I [ score 85 E 4e-16 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLVP--LAYKTCPAGKNLCYKMYMVANK-K---VPVKRGCIDVCPKKSLL-VKYECCNT-DRCN-
+--------*
+>P1;gi|117667|sp|P01447|CX1_NAJNA Cytotoxin 1 (Cytotoxin XI) (Cytoto... [ score 85 E 5e-16 ] [ range 1 .. 60 ]
+sequence
+LKCN-KLIP--LAYKTCPAGKNLCYKMYMVSNK-T---VPVKRGCIDVCPKNSLV-LKYECCNT-DRCN-
+--------*
+>P1;gi|41688453|sp|P60309|CX5D_NAJAT Cytotoxin SP15d [ score 83 E 1e-15 ] [ range 1 .. 60 ]
+sequence
+LKCK-KLVP--LFSKTCPPGKNLCYKMFMVAAP-K---VPVKRGCINVCPKSSLL-VKYVCCNT-DKCN-
+--------*
+>P1;gi|1345873|sp|P49122|CX7_NAJAT Cytotoxin 7 precursor (Cardiotoxi... [ score 78 E 5e-14 ] [ range 22 .. 82 ]
+sequence
+LKCN-TQLP--FIYNTCPEGKNLCFKATLKFPL-K---FPVKRGCAATCPRSSSL-VKVVCCKT-DKCN-
+--------*
+>P1;gi|117698|sp|P01473|CX3_NAJME Cytotoxin 3 (Component 3.20) >gi|6... [ score 77 E 7e-14 ] [ range 1 .. 61 ]
+sequence
+IKCN-TPLP--FIYKTCPEGNNLCFKGTLKFPK-K---ITYKRGCADACPKTSAL-VKYVCCNT-DKCN-
+--------*
+>P1;gi|117678|sp|P01474|CX2_NAJME Cytotoxin 2 (Cytotoxin V-II-2/V-II... [ score 75 E 3e-13 ] [ range 1 .. 61 ]
+sequence
+IKCN-TLLP--FIYKTCPEGQNLCFKGTLKFPK-K---TTYNRGCAATCPKSSLL-VKYVCCNT-NKCN-
+--------*
+>P1;gi|117736|sp|P19003|CXH2_ASPSC Cytotoxin homolog S3C2 >gi|85942|... [ score 70 E 2e-11 ] [ range 2 .. 62 ]
+sequence
+-KCN-TPLP--LFYKTCPEGKDLCYKMFKLLPK-K---LSIKRGCTDTCPKSSLL-VKVVCCDT-DKCN-
+--------*
+>P1;gi|432567|gb|AAB28452.1| m1-toxin=m1 muscarinic receptor specifi... [ score 44 E 0.001 ] [ range 4 .. 64 ]
+sequence
+VKSN-SIWF--PTSEDCPDGQNLCFKRWYISPR-M---YDFTRGCAATCPKAEYR-DVINCCGT-DKCN-
+--------*
+>P1;gi|1345876|sp|P14554|CXH_NAJNA Cytotoxin homolog precursor (CLBP... [ score 79 E 3e-14 ] [ range 22 .. 83 ]
+sequence
+LKCN-TQLP--FIYKTCPEGKNLCFKATLKFPL-K---FPVKRGCADNCPKNSAL-LKYVCCST-DKCN-
+--------*
+>P1;gi|117740|sp|P14541|CXH_NAJKA Cytotoxin homolog (CLBP) >gi|85976... [ score 74 E 6e-13 ] [ range 1 .. 62 ]
+sequence
+LKCN-TQLP--FIYKTCPEGKNLCFKATLKFPL-K---IPIKRGCADNCPKNSAL-LKYVCCST-DKCN-
+--------*
+>P1;gi|117661|sp|P01472|CX11_NAJHA Cytotoxin 11 (Toxin CM-13a) (Toxi... [ score 71 E 5e-12 ] [ range 1 .. 62 ]
+sequence
+LKCN-TQLP--FIYKTCPEGKNLCFKTTLKKPL-K---IPIKRGCAATCPKSSAL-LKVVCCST-DKCN-
+--------*
+>P1;gi|69515|pir||H3NJZE cytotoxin 11 - cobra (Naja haje annulifera) [ score 69 E 2e-11 ] [ range 1 .. 61 ]
+sequence
+LKCN-TQLP--FIYKTCPEGKNLCFKTTLKKPL-K---IPIKRGCAATCPKSSAL-LKSVCCNT-DKC--
+--------*
+>P1;gi|2500802|sp|Q98961|CX5_NAJAT Cardiotoxin 5 precursor >gi|16610... [ score 91 E 7e-18 ] [ range 22 .. 81 ]
+sequence
+LKCN-KLVP--LFYKTCPAGKNLCYKMFMVSNK-M---VPVKRGCIDVCPKNSAL-VKYVCCNT-DRCN-
+--------*
+>P1;gi|117740|sp|P14541|CXH_NAJKA Cytotoxin homolog (CLBP) >gi|85976... [ score 86 E 3e-16 ] [ range 1 .. 62 ]
+sequence
+LKCHNTQLP--FIYKTCPEGKNLCFKATLKKFPLK---IPIKRGCADNCPKNSAL-LKYVCCST-DKCN-
+--------*
+>P1;gi|117661|sp|P01472|CX11_NAJHA Cytotoxin 11 (Toxin CM-13a) (Toxi... [ score 82 E 2e-15 ] [ range 1 .. 62 ]
+sequence
+LKCHNTQLP--FIYKTCPEGKNLCFKTTLKKLPLK---IPIKRGCAATCPKSSAL-LKVVCCST-DKCN-
+--------*
+>P1;gi|117739|sp|P24778|CXH_HEMHA Cytotoxin homolog (Toxin 9B/9BB) [ score 80 E 1e-14 ] [ range 1 .. 62 ]
+sequence
+LICHNRPLP--FLHKTCPEGQNICYKMTLKKTPMK---LSVKRGCAATCPSERPL-VQVECCKT-DKCN-
+--------*
+>P1;gi|1345873|sp|P49122|CX7_NAJAT Cytotoxin 7 precursor (Cardiotoxi... [ score 80 E 1e-14 ] [ range 22 .. 82 ]
+sequence
+LKCHNTQLP--FIYNTCPEGKNLCFKATL-KFPLK---FPVKRGCAATCPRSSSL-VKVVCCKT-DKCN-
+--------*
+>P1;gi|69515|pir||H3NJZE cytotoxin 11 - cobra (Naja haje annulifera) [ score 80 E 1e-14 ] [ range 1 .. 61 ]
+sequence
+LKCHNTQLP--FIYKTCPEGKNLCFKTTLKKLPLK---IPIKRGCAATCPKSSAL-LKSVCCNT-DKC--
+--------*
+>P1;gi|117694|sp|P24777|CX3_HEMHA Cytotoxin 3 (Toxin 11/11A) [ score 79 E 3e-14 ] [ range 1 .. 61 ]
+sequence
+LKCHNKLVP--FLSKTCPDGKNLCYKMSMEVTPM----IPIKRGCTDTCPKSSLL-VKVVCCKT-DKCN-
+--------*
+>P1;gi|117736|sp|P19003|CXH2_ASPSC Cytotoxin homolog S3C2 >gi|85942|... [ score 79 E 4e-14 ] [ range 2 .. 62 ]
+sequence
+-KCLNTPLP--LFYKTCPEGKDLCYKMNFKLLPKK---LSIKRGCTDTCPKSSLL-VKVVCCDT-DKCN-
+--------*
+>P1;gi|117698|sp|P01473|CX3_NAJME Cytotoxin 3 (Component 3.20) >gi|6... [ score 79 E 4e-14 ] [ range 1 .. 61 ]
+sequence
+IKCHNTPLP--FIYKTCPEGNNLCFKGTL-KFPKK---ITYKRGCADACPKTSAL-VKYVCCNT-DKCN-
+--------*
+>P1;gi|117662|sp|P01471|CX1_HEMHA Cytotoxin 1 (Hemolytic protein 12B... [ score 78 E 6e-14 ] [ range 1 .. 61 ]
+sequence
+LKCHNKLVP--FLSKTCPEGKNLCYKMTMLKMP-K---IPIKRGCTDACPKSSLL-VKVVCCNK-DKCN-
+--------*
+>P1;gi|117674|sp|P24776|CX2_HEMHA Cytotoxin 2 (Toxin 12A) [ score 75 E 3e-13 ] [ range 1 .. 61 ]
+sequence
+LKCHNKVVP--FLSKTCPEGKNLCYKMTLKKVP-K---IPIKRGCTDACPKSSLL-VNVMCCKT-DKCN-
+--------*
+>P1;gi|117678|sp|P01474|CX2_NAJME Cytotoxin 2 (Cytotoxin V-II-2/V-II... [ score 75 E 4e-13 ] [ range 1 .. 61 ]
+sequence
+IKCHNTLLP--FIYKTCPEGQNLCFKGTL-KFPKK---TTYNRGCAATCPKSSLL-VKYVCCNT-NKCN-
+--------*
+>P1;gi|117737|sp|P19004|CXH4_ASPSC Cytotoxin homolog S4C8 >gi|85943|... [ score 69 E 3e-11 ] [ range 2 .. 63 ]
+sequence
+-KCFNSPGR--LVSKPCPEGNNLCYKMSNRMYPPG---FNVRRGCAETCPRRNRL-LEVVCCDT-DNCN-
+--------*
+>P1;gi|3550531|emb|CAA09322.1| unnamed protein product [Naja atra] [ score 48 E 6e-05 ] [ range 12 .. 48 ]
+sequence
+---------------------------TIVCLDLE---FPVKRGCADNCPKNSAL-LKYVCCST-DKCN-
+--------*
+>P1;gi|1911695|gb|AAB50805.1| FS2=L-type Ca2+ channel blocker/calcis... [ score 87 E 1e-16 ] [ range 1 .. 60 ]
+sequence
+RICYSHLASLPRATLTCV--ENTCYLMFIRTH----RQYISERGCG--CPTAMW-PYQTECCLG-DRCNK
+--------*
+>P1;gi|136510|sp|P25684|TX02_DENAN Toxin C10S2C2 [ score 85 E 5e-16 ] [ range 1 .. 60 ]
+sequence
+RICYSHKASLPRATKTCV--ENSCYKMFIRTS----PDYISDRGCG--CPTAMW-PYQTACCKG-DRCNK
+--------*
+>P1;gi|136535|sp|P22947|TXCA_DENPO Calciseptine (CaS) (L-type calciu... [ score 84 E 8e-16 ] [ range 1 .. 60 ]
+sequence
+RICYIHKASLPRATKTCV--ENTCYKMFIRTQ----REYISERGCG--CPTAMW-PYQTECCKG-DRCNK
+--------*
+>P1;gi|136514|sp|P25683|TX48_DENJA Toxin S4C8 [ score 81 E 5e-15 ] [ range 1 .. 60 ]
+sequence
+RICYTHKSLQAKTTKSCE--GNTCYKMFIRTS----REYISERGCG--CPTAMW-PYQTECCKG-DRCNK
+--------*
+>P1;gi|136513|sp|P18329|TX31_DENAN Toxin C13S1C1 precursor >gi|85956... [ score 76 E 2e-13 ] [ range 22 .. 80 ]
+sequence
+RICYSHKLLQAKTTKTCE--ENSCYKRSLPKI----PLIIIGRGCG--CPLTLP-FLRIKCCTS-DKCN-
+--------*
+>P1;gi|464972|sp|P01404|TXF8_DENAN Toxin F-VIII precursor (Toxin TA2... [ score 76 E 3e-13 ] [ range 23 .. 81 ]
+sequence
+-ICYSHKTPQPSATITCE--EKTCYKKSVRKL----PAIVAGRGCG--CPSKEM-LVAIHCCRS-DKCNE
+--------*
+>P1;gi|136519|sp|P01406|TX54_DENJA Toxin S5C4 >gi|69438|pir||T5EP2J ... [ score 74 E 9e-13 ] [ range 2 .. 60 ]
+sequence
+-ICYSHKTPQNSATITCE--EKTCYKKFVTNV----PGVILARGCG--CPKKEI-FRSIHCCRS-DKCNE
+--------*
+>P1;gi|136517|sp|P01419|TX50_DENJA Toxin S5C10 >gi|69451|pir||N1EP2J... [ score 72 E 2e-12 ] [ range 1 .. 57 ]
+sequence
+RICYNHQSNTPATTKSCV--ENSCYKSIWADH----RGTIIKRGCG--CPRVK---SKIKCCKS-DNCN-
+--------*
+>P1;gi|128964|sp|P01425|NXS1_HEMHA Short neurotoxin 1 (Toxin II) >gi... [ score 72 E 4e-12 ] [ range 3 .. 60 ]
+sequence
+--CHNQQSSQPPTTKSCP--GDTCYNKRWRDH----RGTIIERGCG--CPTVKP-GINLKCCTT-DRCN-
+--------*
+>P1;gi|136515|sp|P01405|TX49_DENVI Toxin 4.9.6 >gi|69437|pir||T5EP2V... [ score 64 E 1e-09 ] [ range 2 .. 60 ]
+sequence
+-ICYSHKTPQNSATITCE--EKTCYK-FVTKL----PGVILARGCG--CPKKEI-FRKIHCCRS-DKCNE
+--------*
+>P1;gi|41017458|sp|P60237|NXM2_DENAN Muscarinic m2-toxin (gm60) [ score 62 E 2e-09 ] [ range 1 .. 62 ]
+sequence
+RICHSQMSSQPPTTTFCR--VNSCYRRTLRDP----RGTIIVRGCG--CPRMKP-GTKLECCTS-DKCN-
+--------*
+>P1;gi|128959|sp|P10808|NXS1_BUNFA Short neurotoxin 1 (Toxin V-II-1)... [ score 53 E 1e-06 ] [ range 1 .. 64 ]
+sequence
+RICLNQQQSTPPTNGQCY--IKTCQNKTWNTH----RGSRTDRGCG--CPKVKP-GINLRCCKT-DKCNE
+--------*
+>P1;gi|126720|sp|P28375|MAMB_DENJA Mambin (Glycoprotein IIb-IIIa ant... [ score 48 E 6e-05 ] [ range 1 .. 58 ]
+sequence
+RICYNHLGTKPPTTETCQ--EDSCYKNIWTF------DNIIRRGCG--CPRGDM-P-GPYCCES-DKCN-
+--------*
+>P1;gi|136518|sp|P01413|TX51_DENJA Toxin S5C1 [ score 47 E 1e-04 ] [ range 1 .. 60 ]
+sequence
+RICYNHLGTKPPTTECTQ--EDSCYKNIWRNI----TFDNIRRGCG--CPRGDM-P-GPYCCES-DKCN-
+--------*
+>P1;gi|41018244|sp|P81946|THST_DENAN Thrombostatin (Glycoprotein IIb... [ score 47 E 2e-04 ] [ range 2 .. 58 ]
+sequence
+-ICYNQLGTKPPTTETCG--DDSCYKMIWT------YDGVIRRGCG--CPRGDM-P-RPRCCKS-DKCN-
+--------*
+>P1;gi|12230781|sp|Q9W727|TXML_BUNMU Muscarinic toxin-like protein p... [ score 44 E 6e-04 ] [ range 23 .. 86 ]
+sequence
+-ICYNHLSRTPETTEICP--DSFCYKISLADG----NDVRIKRGCT--CPELRP-GKYVYCCRR-DKCNQ
+--------*
+>P1;gi|41018244|sp|P81946|THST_DENAN Thrombostatin (Glycoprotein IIb... [ score 88 E 5e-17 ] [ range 2 .. 59 ]
+sequence
+-ICYNQLGTKPPTTETCG--DDSCYKMIWTYD------GVIRRGCG--CFTPRGDMPRPRCCKS-DKCNL
+--------*
+>P1;gi|136518|sp|P01413|TX51_DENJA Toxin S5C1 [ score 82 E 3e-15 ] [ range 1 .. 61 ]
+sequence
+RICYNHLGTKPPTTECTQ--EDSCYKNIWRNI------TFIRRGCG--CFTPRGDMPGPYCCES-DKCNL
+--------*
+>P1;gi|128960|sp|P01417|NXS1_DENJA Short neurotoxin 1 >gi|69449|pir|... [ score 74 E 1e-12 ] [ range 1 .. 59 ]
+sequence
+RICYNHQSTTPATTKSCG--ENSCYKKTWSRG------TIIERGCG--CPKVKQGI-HLHCCQS-DKCN-
+--------*
+>P1;gi|128961|sp|P01416|NXS1_DENPO Short neurotoxin 1 (Neurotoxin al... [ score 73 E 2e-12 ] [ range 1 .. 59 ]
+sequence
+RICYNHQSTTRATTKSCE--ENSCYKKYWRRG------TIIERGCG--CPKVKPGV-GIHCCQS-DKCN-
+--------*
+>P1;gi|128962|sp|P01418|NXS1_DENVI Short neurotoxin 1 (Neurotoxin 4.... [ score 72 E 3e-12 ] [ range 1 .. 59 ]
+sequence
+RICYNHQSTTPATTKSCG--ENSCYKKTWSRG------TIIERGCG--CPKVKRGV-HLHCCQS-DKCN-
+--------*
+>P1;gi|136517|sp|P01419|TX50_DENJA Toxin S5C10 >gi|69451|pir||N1EP2J... [ score 69 E 3e-11 ] [ range 1 .. 58 ]
+sequence
+RICYNHQSNTPATTKSCV--ENSCYKSIWARG------TIIKRGCG--CPRVKSKIK---CCKS-DNCNL
+--------*
+>P1;gi|85969|pir||S06931 short neurotoxin 1b precursor [validated] -... [ score 60 E 1e-08 ] [ range 22 .. 82 ]
+sequence
+RICFNHQSSQPQTTKTCG--ESSCYHKQWSRG------TIIERGCG--CPTVKPGIK-LSCCES-EVCN-
+--------*
+>P1;gi|1352609|sp|P80548|NXS1_MICNI Short neurotoxin 1 (Neurotoxin a... [ score 59 E 4e-08 ] [ range 2 .. 59 ]
+sequence
+-ICHNQQSSQPPTIKTCS--EGQCYKKTWRRG------TISERGCG--CPTVKPGI-HISCCAS-DKCN-
+--------*
+>P1;gi|4519808|dbj|BAA75748.1| short chain neurotoxin [Laticauda sem... [ score 57 E 1e-07 ] [ range 22 .. 82 ]
+sequence
+RRCFNQQSSEPQTNKSCG--ENSCYRKQWRRG------TIIERGCG--CPTVKPGIK-LRCCES-EDCN-
+--------*
+>P1;gi|4519866|dbj|BAA75777.1| short chain neurotoxin [Laticauda lat... [ score 56 E 2e-07 ] [ range 22 .. 82 ]
+sequence
+RRCFNQQSSEPQTNKSCG--ENSCYNKQWRRG------TIIERGCG--CPQVKSGIK-LTCCQS-DDCN-
+--------*
+>P1;gi|128983|sp|P25675|NXS2_NAJHH Short neurotoxin 2 (Toxin CM-10a) [ score 56 E 3e-07 ] [ range 2 .. 60 ]
+sequence
+-ICHNQQSSQPPTIKTCG--ETNCYKKQWRRG------TIIERGCG--CPSVKKGV-GIYCCKT-DKCN-
+--------*
+>P1;gi|42560531|sp|P10455|NXSC_LATCO Short neurotoxin C precursor >g... [ score 56 E 3e-07 ] [ range 22 .. 82 ]
+sequence
+RRCYNQQSSQPKTTKSCG--ENSCYNKQWRRG------SITERGCG--CPKVKPGIK-LRCCES-EDCN-
+--------*
+>P1;gi|4519868|dbj|BAA75778.1| short chain neurotoxin [Laticauda lat... [ score 55 E 4e-07 ] [ range 22 .. 82 ]
+sequence
+RRCFNHPSSQPQTNKSCG--ENSCYNKQWRRG------TIIERGCG--CPTVKPGIK-LTCCQS-EDCN-
+--------*
+>P1;gi|128974|sp|P01426|NXS1_NAJPA Short neurotoxin 1 (Neurotoxin al... [ score 55 E 4e-07 ] [ range 3 .. 60 ]
+sequence
+--CHNQQSSQPPTTKTCG--ETNCYKKVWRRG------TIIERGCG--CPTVKPGIK-LNCCTT-DKCN-
+--------*
+>P1;gi|128990|sp|P25495|NXSA_LATCR Short neurotoxin A [ score 55 E 5e-07 ] [ range 1 .. 61 ]
+sequence
+RRCFNHPSSQPQTNKSCG--ENSCYNKQWRRG------TIIERGCG--CPTVKPGIK-LRCCQS-DDCN-
+--------*
+>P1;gi|128994|sp|P10458|NXSC_LATCR Short neurotoxin C >gi|85965|pir|... [ score 54 E 8e-07 ] [ range 1 .. 61 ]
+sequence
+RRCFNQQSSQPQTNKSCG--ENSCYRKQWRRG------TIIERGCG--CPTVKPGIK-LRCCQS-EDCN-
+--------*
+>P1;gi|39980632|gb|AAR33036.1| atratoxin b [Naja atra] [ score 54 E 1e-06 ] [ range 15 .. 72 ]
+sequence
+--CHNQQSSQTPTTKTCG--ETNCYKKWWSRG------TIIERGCG--CPKVKPGV-NLNCCTT-DRCN-
+--------*
+>P1;gi|128984|sp|P01423|NXS2_NAJNI Short neurotoxin 2 (Neurotoxin be... [ score 54 E 1e-06 ] [ range 2 .. 60 ]
+sequence
+-ICHNQQSSQRPTIKTCG--ETNCYKKRWRRG------TIIERGCG--CPSVKKGV-GIYCCKT-DKCN-
+--------*
+>P1;gi|128991|sp|P25496|NXSB_LATCR Short neurotoxin B [ score 54 E 1e-06 ] [ range 1 .. 61 ]
+sequence
+RRCFNHPSSQPQTNKSCG--ENSCYNKQWRRG------TIIERGCG--CPQVKSGIK-LRCCQS-DDCN-
+--------*
+>P1;gi|128982|sp|P01422|NXS2_NAJHA Short neurotoxin 2 (Toxin CM-14) ... [ score 54 E 1e-06 ] [ range 2 .. 60 ]
+sequence
+-ICHNQQSSQPPTIKTCG--ETNCYKKRWRRG------TIIERGCG--CPSVKKGV-GIYCCKT-NKCN-
+--------*
+>P1;gi|42560534|sp|P10459|NXSB_LATLA Short neurotoxin B precursor >g... [ score 53 E 2e-06 ] [ range 22 .. 82 ]
+sequence
+RRCFNHPSSQPQTNKSCG--ENSCYNKQWRRG------TITERGCG--CPQVKSGIK-LTCCQS-DDCN-
+--------*
+>P1;gi|809314|pdb|1NXB|  Neurotoxin b (Probably Identical To Erabuto... [ score 53 E 2e-06 ] [ range 2 .. 61 ]
+sequence
+-ICFNQHSSQPQTTKTCG--ESSCYHKQWSRG------TIIERGCG--CPTVKPGIK-LSCCES-EVCN-
+--------*
+>P1;gi|128977|sp|P19959|NXS2_AIPLA Short neurotoxin B precursor >gi|... [ score 52 E 3e-06 ] [ range 24 .. 80 ]
+sequence
+--CCNQQSSQPKTTTDCA--DNSCYKMTWRRG------TRIERGCG--CPQVKPGIK-LECCKT-NECN-
+--------*
+>P1;gi|464290|sp|P34075|NXS1_BOUAN Short neurotoxin 1 >gi|104349|pir... [ score 52 E 4e-06 ] [ range 1 .. 60 ]
+sequence
+KICYNQPSSQHPTTKACG--EKNCYRKQWSRG------TIIERGCG--CPTVKPGVK-LHCCTT-EKCN-
+--------*
+>P1;gi|128988|sp|P19960|NXS4_AIPLA Short neurotoxin D precursor >gi|... [ score 51 E 5e-06 ] [ range 24 .. 80 ]
+sequence
+--CCNQQSSQPKTTTDCA--DDSCYKKTWKRG------TRIERGCG--CPQVKPGIK-LECCKT-NECN-
+--------*
+>P1;gi|28380028|sp|P59275|CBTB_NAJKA Cobrotoxin b (CBT b) (Short neu... [ score 51 E 1e-05 ] [ range 3 .. 60 ]
+sequence
+--CHNQQSSQTPTTKTCG--ETNCYKKWWSRG------TIIERGCG--CPKVKPGV-NLNCCRR-DRCN-
+--------*
+>P1;gi|128971|sp|P01424|NXS1_NAJME Short neurotoxin 1 (Neurotoxin D)... [ score 50 E 1e-05 ] [ range 3 .. 60 ]
+sequence
+--CHNQQSSQPPTTKTCG--ETNCYKKQWSRG------TIIERGCG--CPSVKKGVK-INCCTT-DRCN-
+--------*
+>P1;gi|128964|sp|P01425|NXS1_HEMHA Short neurotoxin 1 (Toxin II) >gi... [ score 50 E 1e-05 ] [ range 3 .. 60 ]
+sequence
+--CHNQQSSQPPTTKSCG--DTNCYNKRWRRG------TIIERGCG--CPTVKPGI-NLKCCTT-DRCN-
+--------*
+>P1;gi|41017458|sp|P60237|NXM2_DENAN Muscarinic m2-toxin (gm60) [ score 49 E 2e-05 ] [ range 1 .. 63 ]
+sequence
+RICHSQMSSQPPTTTFCR--VNSCYRRTLRRG------TIIVRGCG--CPRMKPGTK-LECCTS-DKCNV
+--------*
+>P1;gi|18000267|gb|AAL54895.1| short neurotoxin 2 precursor [Lapemis... [ score 49 E 2e-05 ] [ range 24 .. 80 ]
+sequence
+--CCNQQSSQPKTTTNCA--ESSCYKKTWSRG------TRIERGCG--CPQVKHGIK-LECCHT-NECN-
+--------*
+>P1;gi|464291|sp|P34076|NXS1_BOUCH Short neurotoxin 1 >gi|104350|pir... [ score 49 E 2e-05 ] [ range 3 .. 61 ]
+sequence
+--CHNQQSSQPPTTTHCG--ETNCYEKRWHRG------TIIERGCG--CPTVKPGVK-LNCCTT-DKCN-
+--------*
+>P1;gi|128958|sp|P01438|NXS1_ASTST Short neurotoxin 1 (Toxin A) >gi|... [ score 48 E 5e-05 ] [ range 3 .. 59 ]
+sequence
+--CCNQQSSQPKTTTNCA--GNSCYKKTWSRG------TIIERGCG--CPQVKSGIK-LECCHT-NECN-
+--------*
+>P1;gi|128986|sp|P01420|NXS3_NAJHA Short neurotoxin 3 (Toxin CM-10) ... [ score 48 E 5e-05 ] [ range 2 .. 60 ]
+sequence
+-ICYKQQSLQPITTVCPG--EKNCYKKQWSRG------TIIERGCG--CPSVKKGIE-INCCTT-DKCN-
+--------*
+>P1;gi|128969|sp|P01429|NXS1_NAJHA Short neurotoxin 1 (Neurotoxin al... [ score 48 E 5e-05 ] [ range 3 .. 60 ]
+sequence
+--CHNQQSSQPPTTKTCG--ETNCYKKRWRRG------SITERGCG--CPSVKKGIE-INCCTT-DKCN-
+--------*
+>P1;gi|28380047|sp|Q9YHU9|CBT3_NAJAT Cobrotoxin III (CBT III) >gi|41... [ score 48 E 6e-05 ] [ range 3 .. 61 ]
+sequence
+--CHNQQSSQTPTTTGCG--ETNCYKKWWSRG------TIIERGCG--CPKVKPGV-NLNCCTT-DRCN-
+--------*
+>P1;gi|128966|sp|P01437|NXS1_HYDLA Short neurotoxin 1 (Neurotoxin A)... [ score 48 E 7e-05 ] [ range 3 .. 59 ]
+sequence
+--CCNQQSSQPKTTTNCA--ESSCYKKTWRRG------TRIERGCG--CPQVKPGIK-LECCHT-NECN-
+--------*
+>P1;gi|128956|sp|P01434|NXS1_ACAAN Short neurotoxin 1 (Toxin Aa c) >... [ score 48 E 7e-05 ] [ range 3 .. 61 ]
+sequence
+--CCNQQSSQPKTTTTCG--VSSCYKKTWRRG------TIIERGCG--CPRVKPGI-RLICCKT-DECN-
+--------*
+>P1;gi|136515|sp|P01405|TX49_DENVI Toxin 4.9.6 >gi|69437|pir||T5EP2V... [ score 45 E 5e-04 ] [ range 2 .. 59 ]
+sequence
+-ICYSHKTPQNSATITCE--EKTCYKFVTKLG------VILARGCG--CPKKEIFRKSIHCCRS-DKCN-
+--------*
+>P1;gi|3860085|gb|AAD08813.1| post synaptic alpha neurotoxin precurs... [ score 45 E 6e-04 ] [ range 24 .. 82 ]
+sequence
+--CHNQQSSQAPTTTGCG--ETNCYKKSWRRG------YRIERGCG--CPSVKKGIE-INCCTT-DRCN-
+--------*
+>P1;gi|128980|sp|P01433|NXS2_HEMHA Short neurotoxin 2 (Toxin IV) >gi... [ score 44 E 7e-04 ] [ range 3 .. 60 ]
+sequence
+--CHNQQSSQTPTTQTCG--ETNCYKKQWSRG------SRTERGCG--CPTVKPGIK-LKCCTT-DRCN-
+--------*
+>P1;gi|128987|sp|P01432|NXS3_NAJMO Short neurotoxin 3 (Neurotoxin II... [ score 44 E 7e-04 ] [ range 3 .. 61 ]
+sequence
+--CHNQMSAQPPTTTRCS--ETNCYKKRWRRG------YKTERGCG--CPTVKKGIQ-LHCCTS-DNCN-
+--------*
+>P1;gi|3860083|gb|AAD08812.1| post synaptic alpha neurotoxin precurs... [ score 44 E 8e-04 ] [ range 24 .. 82 ]
+sequence
+--CHNQQSSETPTTTGCG--ETNCYKKSWRRG------YRIERGCG--CPSVKKGIE-INCCTT-DRCN-
+--------*
+>P1;gi|136519|sp|P01406|TX54_DENJA Toxin S5C4 >gi|69438|pir||T5EP2J ... [ score 44 E 0.001 ] [ range 2 .. 59 ]
+sequence
+-ICYSHKTPQNSATITCE--EKTCYKKFVTNG------VILARGCG--CPK-KEIFRSIHCCRS-DKCN-
+--------*
+>P1;gi|999831|pdb|1TFS|  Toxin Fs2 (Nmr, 20 Structures) [ score 44 E 0.001 ] [ range 1 .. 59 ]
+sequence
+RICYSHKASLPRATKTCV--ENTCYKMFIRRE------YISERGCG--CPTAMWPYQ-TECCKG-DRCN-
+--------*
+>P1;gi|464972|sp|P01404|TXF8_DENAN Toxin F-VIII precursor (Toxin TA2... [ score 44 E 0.001 ] [ range 23 .. 80 ]
+sequence
+-ICYSHKTPQPSATITCE--EKTCYKKSVRKL------PAIGRGCG--CPS-KEMLVAIHCCRS-DKCN-
+--------*
+>P1;gi|128936|sp|P01387|NXL1_OPHHA Long neurotoxin 1 (Neurotoxin A) ... [ score 111 E 5e-24 ] [ range 1 .. 72 ]
+sequence
+TKCYVT--P-DVKSETCPAGQDICYTETWCDAWCTSRGKRVDLGCAATCPIVKPGV-EIKCCST-DNCNP
+FPTWRKR-*
+>P1;gi|128941|sp|P01395|NXL2_DENVI Long neurotoxin 2 (Toxin I/V) >gi... [ score 105 E 3e-22 ] [ range 3 .. 72 ]
+sequence
+--CYKT--P-SVKPETCPHGENICYTETWCDAWCSQRGKRVELGCAATCPKVKAGV-GIKCCST-DNCNP
+FPVWNPR-*
+>P1;gi|128924|sp|P01393|NXL1_DENJA Long neurotoxin 1 (Toxin V-III-N1... [ score 101 E 4e-21 ] [ range 3 .. 72 ]
+sequence
+--CYKT--Y-SDKSKTCPRGEDICYTKTWCDGFCSQRGKRVELGCAATCPKVKTGV-EIKCCST-DYCNP
+FPVWNPR-*
+>P1;gi|128931|sp|P01383|NXL1_NAJME Long neurotoxin 1 (Neurotoxin 3.9... [ score 101 E 4e-21 ] [ range 2 .. 70 ]
+sequence
+-RCYRT--P-DLKSQTCPPGEDLCYTKKWCADWCTSRGKVIELGCVATCPKVKPYE-QITCCST-DNCNP
+HPKMK---*
+>P1;gi|18000261|gb|AAL54892.1| long neurotoxin isoform [Lapemis hard... [ score 100 E 9e-21 ] [ range 24 .. 92 ]
+sequence
+--CFRT--P--YKPETCPPGQNLCYKKSWCDAFCSSRGKVIELGCTAKCPTVKDGK-DITCCAT-DNCNT
+VANWKSR-*
+>P1;gi|128951|sp|P80156|NXL4_OPHHA Long neurotoxin 4 (Alpha-neurotox... [ score 99 E 3e-20 ] [ range 1 .. 72 ]
+sequence
+TKCYKT--G-DIISEACPPGQDLCYMKTWCDVFCGTRGRVIELGCTATCPTVKPHE-QITCCST-DNCNP
+HPKMKQ--*
+>P1;gi|128926|sp|P01394|NXL1_DENVI Long neurotoxin 1 (Neurotoxin 4.7... [ score 98 E 7e-20 ] [ range 3 .. 72 ]
+sequence
+--CYKT--P-SVKPETCPHGENICYTETWCDAWCSQRGKREELGCAATCPKVKAGV-GIKCCST-DNCDP
+FPVKNPR-*
+>P1;gi|128948|sp|P07526|NXL3_OPHHA Long neurotoxin 3 (Neurotoxin CM-... [ score 96 E 1e-19 ] [ range 1 .. 70 ]
+sequence
+TKCYVT--P-DVKSETCPAGQDLCYTETWCVAWCTVRGKRVSLTCAAICPIVPPKV-SIKCCST-DACGP
+FPTWP---*
+>P1;gi|128940|sp|P01397|NXL2_DENPO Long neurotoxin 2 (Neurotoxin del... [ score 95 E 4e-19 ] [ range 3 .. 72 ]
+sequence
+--CNKT--P-SDQSKICPPGENICYTKTWCDAWCSQRGKIVELGCAATCPKVKAGV-EIKCCST-DNCNK
+FKFGKPR-*
+>P1;gi|128946|sp|P25667|NXL3_DENPO Long neurotoxin 3 (Toxin VN2) [ score 92 E 3e-18 ] [ range 3 .. 72 ]
+sequence
+--CNKT--F-SDQSKICPPGENICYTKTWCDAWCSRRGKIVELGCAATCPKVKAGV-GIKCCST-DNCNL
+FKFGKPR-*
+>P1;gi|128925|sp|P01396|NXL1_DENPO Long neurotoxin 1 (Neurotoxin gam... [ score 91 E 4e-18 ] [ range 3 .. 72 ]
+sequence
+--CNKT--F-SDQSKICPPGENICYTKTWCDAWCSQRGKRVELGCAATCPKVKAGV-EIKCCST-DDCDK
+FQFGKPR-*
+>P1;gi|3928996|gb|AAC83988.1| alpha-bungarotoxin isoform R7 [Bungaru... [ score 68 E 4e-11 ] [ range 8 .. 54 ]
+sequence
+-----T--S-PISAVTCPPGENLCYRKMWCDAFCSSKGKVVELGCAATCPSKRPY---------------
+--------*
+>P1;gi|37362717|gb|AAQ91335.1| alpha neurotoxin [Bungarus candidus] ... [ score 61 E 8e-09 ] [ range 1 .. 36 ]
+sequence
+------------------PGENLCYRKMWCDVWCSSRGKVVELGCAATCPSKKP----------------
+--------*
+>P1;gi|29465642|gb|AAL87468.1| weak neurotoxin 10 precursor [Naja sp... [ score 49 E 2e-05 ] [ range 36 .. 85 ]
+sequence
+--------------QTCRNGEKICFKKF---DERKLFGKRYRRGCAATCPEAKPRE-IVQCCST-DRCN-
+--------*
+>P1;gi|25453176|sp|Q9YGI8|NXH4_BUNMU Short neurotoxin homolog NTL4 p... [ score 48 E 5e-05 ] [ range 23 .. 85 ]
+sequence
+-KCLIK--Y-SESSKTCPSGQLLC-LKKW--EIGNPSGKEVKRGCVATCPKPKKNE-IIQCCAK-DKCN-
+--------*
+>P1;gi|3860085|gb|AAD08813.1| post synaptic alpha neurotoxin precurs... [ score 47 E 9e-05 ] [ range 23 .. 82 ]
+sequence
+-ECHNQ--Q-SSQAPTCSGGETNCYKKSWRD----HRGYRIERGCG--CPSVKKGI-EINCCTT-DRCN-
+--------*
+>P1;gi|117739|sp|P24778|CXH_HEMHA Cytotoxin homolog (Toxin 9B/9BB) [ score 47 E 9e-05 ] [ range 13 .. 62 ]
+sequence
+--------------KTCPEGQNICYKMTLKK---TPMKLSVKRGCAATCPSERPLV-QVECCKT-DKCN-
+--------*
+>P1;gi|14195306|sp|Q9YGI2|TXW1_NAJAT Probable weak neurotoxin NNAM1 ... [ score 47 E 1e-04 ] [ range 24 .. 86 ]
+sequence
+--CLIC--P-ENKVHTCLNGEKICFKKY---DQRKLLGKRYIRGCADTCPVRKPRE-IVECCST-DKCNH
+--------*
+>P1;gi|3860083|gb|AAD08812.1| post synaptic alpha neurotoxin precurs... [ score 47 E 1e-04 ] [ range 30 .. 82 ]
+sequence
+----------SETPTTCSGGETNCYKKSWRD----HRGYRIERGCG--CPSVKKGI-EINCCTT-DRCN-
+--------*
+>P1;gi|4165572|emb|CAA04578.1| unnamed protein product [Naja naja] [ score 46 E 2e-04 ] [ range 36 .. 85 ]
+sequence
+--------------QICRNGEKICFKKLHQRRPFSLRYIR---GCAATCPETKPRD-MVECCST-DRCN-
+--------*
+>P1;gi|24459186|gb|AAL30060.1| weak toxin 2 [Bungarus candidus] [ score 46 E 3e-04 ] [ range 24 .. 85 ]
+sequence
+--CLIC--P-EKDCQTCRNEEKICVKRSYDKN---QLGWRAQRGCAVSCPKAKPNE-TVQCCST-DKCN-
+--------*
+>P1;gi|464291|sp|P34076|NXS1_BOUCH Short neurotoxin 1 >gi|104350|pir... [ score 45 E 4e-04 ] [ range 2 .. 61 ]
+sequence
+-ECHNQ--Q-SSQPPTCSGGETNCYEKRWHD----HRGTIIERGCG--CPTVKPGV-KLNCCTT-DKCN-
+--------*
+>P1;gi|12230754|sp|P82462|TXM1_NAJKA Muscarinic toxin-like protein 1... [ score 45 E 5e-04 ] [ range 11 .. 64 ]
+sequence
+----------SETTETCPDGQNVCFNQAHLIYPGKYKRTR---GCAATCPKLQNRD-VIFCCST-DKCN-
+--------*
+>P1;gi|2645537|gb|AAB87415.1| weak neurotoxin isoform precursor [Naj... [ score 45 E 5e-04 ] [ range 36 .. 85 ]
+sequence
+--------------QTCRNGEKICFKKLQQRRPFSLRYIR---GCAATCPGTKPRD-MVECCST-DRCN-
+--------*
+>P1;gi|464290|sp|P34075|NXS1_BOUAN Short neurotoxin 1 >gi|104349|pir... [ score 45 E 6e-04 ] [ range 3 .. 60 ]
+sequence
+--CYNQ--P-SSTTKACP-GEKNCYRKQWSD----HRGTIIERGCG--CPTVKPGV-KLHCCTT-EKCN-
+--------*
+>P1;gi|136570|sp|P01399|TXWB_NAJHA Weak toxin CM-13b >gi|69431|pir||... [ score 44 E 6e-04 ] [ range 16 .. 65 ]
+sequence
+---------------TCRNGEKICFKRF---NERKLLGKRYTRGCAATCPVAKPRE-IVECCST-DRCNH
+--------*
+>P1;gi|42560546|sp|P81031|TXM3_DENAN Muscarinic toxin 3 (MT3) >gi|10... [ score 44 E 6e-04 ] [ range 12 .. 64 ]
+sequence
+-----------ITTENCPAGQNLCF-KRW--HYVIPRYTEITRGCAATCPIPENYD-SIHCCKT-DKCN-
+--------*
+>P1;gi|128989|sp|P01421|NXS4_NAJHA Short neurotoxin 4 (Toxin CM-12) ... [ score 44 E 6e-04 ] [ range 3 .. 60 ]
+sequence
+--CYKQ--R-SLPITTVCPGEKNCYKKQWS----GHRGTIIERGCG--CPSVKKGI-EINCCTT-DKCN-
+--------*
+>P1;gi|128962|sp|P01418|NXS1_DENVI Short neurotoxin 1 (Neurotoxin 4.... [ score 44 E 8e-04 ] [ range 3 .. 59 ]
+sequence
+--CYNH--Q-STTPATTKSGENSCYKKTWSD----HRGTIIERGCG--CPKVKRGV-HLHCCQS-DKCN-
+--------*
+>P1;gi|12230755|sp|P82463|TXM2_NAJKA Muscarinic toxin-like protein 2... [ score 44 E 9e-04 ] [ range 12 .. 64 ]
+sequence
+-----------VTTEDCPDGQNLCFKRWHMIVPGRYKKTR---GCAATCPIAENRD-VIECCST-DKCN-
+--------*
+>P1;gi|28380047|sp|Q9YHU9|CBT3_NAJAT Cobrotoxin III (CBT III) >gi|41... [ score 44 E 9e-04 ] [ range 2 .. 61 ]
+sequence
+-ECHNQ--Q-SSQTPTCSGGETNCYKKWWSD----HRGTIIERGCG--CPKVKPGV-NLNCCTT-DRCN-
+--------*
+>P1;gi|128929|sp|P25674|NXL1_NAJHH Long neurotoxin 1 (Toxin CM-5) [ score 108 E 4e-23 ] [ range 1 .. 70 ]
+sequence
+IRCFIT--P-DVTSQACPDG-HVCYTKMWCDNFCGMRGKRVDLGCAATCPTVKPGV-DIKCCST-DNCNP
+FPTRKR--*
+>P1;gi|128930|sp|P01391|NXL1_NAJKA Long neurotoxin 1 (Neurotoxin 3) ... [ score 107 E 5e-23 ] [ range 1 .. 71 ]
+sequence
+IRCFIT--P-DITSKDCPNG-HVCYTKTWCDAFCSIRGKRVDLGCAATCPTVKTGV-DIQCCST-DNCNP
+FPTRKRP-*
+>P1;gi|128942|sp|P01388|NXL2_NAJME Long neurotoxin 2 (Neurotoxin B) ... [ score 106 E 2e-22 ] [ range 1 .. 71 ]
+sequence
+IRCFIT--P-DVTSQICADG-HVCYTKTWCDNFCASRGKRVDLGCAATCPTVKPGV-NIKCCST-DNCNP
+FPTRNRP-*
+>P1;gi|128933|sp|P01390|NXL1_NAJNI Long neurotoxin 1 (Neurotoxin alp... [ score 105 E 3e-22 ] [ range 1 .. 70 ]
+sequence
+IRCFIT--P-DVTSQACPDG-HVCYTKMWCDNFCGMRGKRVDLGCAATCPKVKPGV-NIKCCSR-DNCNP
+FPTRKR--*
+>P1;gi|128947|sp|P25671|NXL3_NAJNA Long neurotoxin 3 (Toxin C) >gi|2... [ score 105 E 3e-22 ] [ range 1 .. 71 ]
+sequence
+IRCFIT--P-DITSKDCPNG-HVCYTKTWCDAFCSIRGKRVDLGCAATCPTVKTGV-DIQCCST-DDCDP
+FPTRKRP-*
+>P1;gi|128932|sp|P25668|NXL1_NAJNA Long neurotoxin 1 (Toxin A) [ score 105 E 3e-22 ] [ range 1 .. 71 ]
+sequence
+IRCFIT--P-DITSKDCPNG-HVCYTKTWCDGFCSIRGKRVDLGCAATCPTVRTGV-DIQCCST-DDCDP
+FPTRKRP-*
+>P1;gi|128952|sp|P25673|NXL5_NAJNA Long neurotoxin 5 (Toxin E) [ score 103 E 8e-22 ] [ range 1 .. 71 ]
+sequence
+IRCFIT--P-DITSKDCPNG-HVCYTKTWCDGFCSRRGERVDLGCAATCPTVKTGV-DIQCCST-DDCDP
+FPTRKRP-*
+>P1;gi|128950|sp|P25672|NXL4_NAJNA Long neurotoxin 4 (Toxin D) [ score 103 E 1e-21 ] [ range 1 .. 71 ]
+sequence
+IRCFIT--P-DITSKDCPNG-HVCYTKTWCDGFCRIRGERVDLGCAATCPTVKTGV-DIQCCST-DDCDP
+FPTRKRP-*
+>P1;gi|128921|sp|P25670|NXL1_ASPSC Long neurotoxin 1 (Toxin S4C6) [ score 97 E 1e-19 ] [ range 3 .. 67 ]
+sequence
+--CYIA--P-YDHKTCAAGE-NICYLKAWCDAWCSSRGKKLEFGCAATCPTVKPGV-DISCCDT-DNCNP
+HPK-----*
+>P1;gi|128934|sp|P01382|NXL1_NAJOX Long neurotoxin 1 (Neurotoxin I) ... [ score 96 E 2e-19 ] [ range 1 .. 73 ]
+sequence
+ITCYKT--P-IITSETCPGQ-NLCYTKTWCDAWCGSRGKVIELGCAATCPTVESYQ-DIKCCST-DDCNP
+HPKQKRP-*
+>P1;gi|18000261|gb|AAL54892.1| long neurotoxin isoform [Lapemis hard... [ score 96 E 2e-19 ] [ range 23 .. 91 ]
+sequence
+-TCFRT--P-YKPETCPPGQ-NLCYKKSWCDAFCSSRGKVIELGCTAKCPTVKDGK-DITCCAT-DNCNT
+VANWKS--*
+>P1;gi|223565|prf||0901189B neurotoxin b [ score 96 E 2e-19 ] [ range 3 .. 67 ]
+sequence
+--CYLA--P-RDTQICAPGQ-EICYLKSWDDGTGSIRGNRLEFGCAATCPTVKRGI-HIKCCST-DKCNP
+HPK-----*
+>P1;gi|18000263|gb|AAL54893.1| long neurotoxin [Lapemis hardwickii] [ score 96 E 2e-19 ] [ range 22 .. 91 ]
+sequence
+LSCYLG--Y-KRSQTCPPGE-KVCFVKSWCDAFCGSRGKRIEMGCAATCPTVKDGI-DITCCAT-DNCNT
+YANWGS--*
+>P1;gi|223564|prf||0901189A neurotoxin a [ score 94 E 6e-19 ] [ range 3 .. 67 ]
+sequence
+--CYLA--P-RDTQICAPGQ-EICYLKSWDDGTGFLKGNRLEFGCAATCPTVKPGI-DIKCCST-DKCNP
+HPK-----*
+>P1;gi|26397290|sp|P82662|NXL6_OPHHA Long neurotoxin OH-6A/OH-6B (Al... [ score 94 E 8e-19 ] [ range 3 .. 67 ]
+sequence
+--CFIS--S-HDSVTCAPGE-NVCFLKSWCDAWCGSRGKKLSFGCAATCPKVNPGI-DIECCST-DNCNP
+HPK-----*
+>P1;gi|25108918|sp|P01379|NXL1_LATSE Long neurotoxin 1 precursor (Ne... [ score 92 E 4e-18 ] [ range 24 .. 87 ]
+sequence
+--CYLN--P-HDTQTCPSGQ-EICYVKSWCNAWCSSRGKVLEFGCAATCPSVNTGT-EIKCCSA-DKCNT
+YP------*
+>P1;gi|5459296|emb|CAB50692.1| snake venom [Bungarus multicinctus] [ score 91 E 7e-18 ] [ range 22 .. 93 ]
+sequence
+IVCHTT--P-ISAVTCPPGE-NLCYRKMWCDVFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DKCNP
+HPKQR---*
+>P1;gi|128937|sp|P01381|NXL2_ASTST Long neurotoxin 2 (Toxin C) >gi|6... [ score 90 E 1e-17 ] [ range 1 .. 70 ]
+sequence
+LSCYLG--Y-KHSQTCPPGE-NVCFVKTWCDAFCSTRGERIVMGCAATCPTAKSGV-HIACCST-DNCNI
+YTKWGS--*
+>P1;gi|128935|sp|P01384|NXL1_NOTSC Long neurotoxin 1 (Notechis III-4... [ score 90 E 1e-17 ] [ range 3 .. 70 ]
+sequence
+--CYMG--P-KTPRTCPRGQ-NLCYTKTWCDAFCSSRGKVVELGCAATCPIAKSYE-DVTCCST-DNCNP
+FPVRPR--*
+>P1;gi|128922|sp|P01380|NXL1_ASTST Long neurotoxin 1 (Toxin B) >gi|6... [ score 89 E 2e-17 ] [ range 1 .. 70 ]
+sequence
+LSCYLG--Y-KHSQTCPPGE-NVCFVKTWCDGFCNTRGERIIMGCAATCPTAKSGV-HIACCST-DNCNI
+YAKWGS--*
+>P1;gi|128951|sp|P80156|NXL4_OPHHA Long neurotoxin 4 (Alpha-neurotox... [ score 87 E 1e-16 ] [ range 2 .. 71 ]
+sequence
+-KCYKT--G-DRISEACPPG-QLCYMKTWCDVFCGTRGRVIELGCTATCPTVKPHE-QITCCST-DNCNP
+HPKMK---*
+>P1;gi|3929014|gb|AAC83997.1| alpha-bungarotoxin isoform R15 [Bungar... [ score 85 E 5e-16 ] [ range 1 .. 72 ]
+sequence
+IVCHTT--P-ISAVTCPPGE-NLCYRKMWCDAFCSSRGKVVELGCAATCPSEKPYE-EVSCCST-DKCNP
+HPKQR---*
+>P1;gi|128920|sp|P01385|NXL1_ACAAN Long neurotoxin 1 >gi|69416|pir||... [ score 82 E 3e-15 ] [ range 3 .. 63 ]
+sequence
+--CYRG--Y-NNPQTCPPGE-NVCFTRTWCDAFCSSRGKVVELGCAATCPIVKSYN-EVKCCST-DKCN-
+--------*
+>P1;gi|3929000|gb|AAC83990.1| alpha-bungarotoxin isoform R12 [Bungar... [ score 82 E 3e-15 ] [ range 1 .. 72 ]
+sequence
+IVCHTT--P-ISAVTCPPGE-NLCYRKMWCDAFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DQCHP
+HPKQR---*
+>P1;gi|230415|pdb|2ABX|A Chain A, Alpha-Bungarotoxin >gi|230416|pdb|... [ score 82 E 4e-15 ] [ range 1 .. 71 ]
+sequence
+IVCHTT--P-SSAVTCPPGE-NLCYRKMWCDAFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DKCNH
+PPKR----*
+>P1;gi|3929012|gb|AAC83996.1| alpha-bungarotoxin isoform R16 [Bungar... [ score 80 E 1e-14 ] [ range 1 .. 72 ]
+sequence
+IVCHTT--P-ISAVTCPPGE-NLCYRKMWCDASCSSRGKVVELGCAAPCPSEKPYE-EVSCCST-DKCNP
+HPKQR---*
+>P1;gi|128955|sp|P14612|NXLH_PSEAU Long neurotoxin homolog Pa ID >gi... [ score 79 E 2e-14 ] [ range 1 .. 68 ]
+sequence
+LTCYKG--R-DRSSETCSEQ-ELCCTKTWCDQWCQDRGPRLEMGCTATCPRRMPGL-DFTCCTT-DNCNP
+VPT-----*
+>P1;gi|37362717|gb|AAQ91335.1| alpha neurotoxin [Bungarus candidus] ... [ score 59 E 3e-08 ] [ range 1 .. 36 ]
+sequence
+-----------------PGE-NLCYRKMWCDVWCSSRGKVVELGCAATCPSKKP----------------
+--------*
+>P1;gi|320153|pir||A60549 kappa-2 neurotoxin - many-banded krait (fr... [ score 54 E 6e-07 ] [ range 2 .. 45 ]
+sequence
+-TCLIT--P-SSTPQTCPQG-QICFLKVQCEQFCPIRGPVIEQGCAAT----------------------
+--------*
+>P1;gi|17368232|sp|P58370|NXH8_MICCO Alpha-neurotoxin homolog 8 prec... [ score 51 E 7e-06 ] [ range 29 .. 86 ]
+sequence
+---FKT--P-TDELRHCASG-ETICYKTF---WNTHRGLRIDRGCAATCPTVKPGV-NIICCKT-DNCN-
+--------*
+>P1;gi|25453176|sp|Q9YGI8|NXH4_BUNMU Short neurotoxin homolog NTL4 p... [ score 47 E 7e-05 ] [ range 23 .. 85 ]
+sequence
+-KCLIK--Y-SESSKTCPSG-QLLCLKKWEIGNPS--GKEVKRGCVATCPKPKKNE-IIQCCAK-DKCN-
+--------*
+>P1;gi|136560|sp|P01415|TXW2_NAJHH Weak toxin CM-2 >gi|69447|pir||T2... [ score 47 E 1e-04 ] [ range 2 .. 60 ]
+sequence
+-TCFTT--P-SDTSETCPDG-QICYEKRW-----NSHQGVEIKGCVASCPEFESRF-RLLCCRI-DNCN-
+--------*
+>P1;gi|128974|sp|P01426|NXS1_NAJPA Short neurotoxin 1 (Neurotoxin al... [ score 46 E 3e-04 ] [ range 13 .. 60 ]
+sequence
+------------TTKTCPGE-TNCYKKVWRDH----RGTIIERGCG--CPTVKPGI-KLNCCTT-DKCN-
+--------*
+>P1;gi|4200127|emb|CAA06886.1| neurotoxin-like protein [Bungarus mul... [ score 44 E 0.001 ] [ range 40 .. 87 ]
+sequence
+---------------CASGE-KYCFKESWREA----RGTRIERGCAATCPKGSVGL-DVLCCTT-DDCN-
+--------*
+>P1;gi|3860085|gb|AAD08813.1| post synaptic alpha neurotoxin precurs... [ score 44 E 0.001 ] [ range 34 .. 82 ]
+sequence
+------------TTTGCSGG-ETCYKKSWRDH----RGYRIERGCG--CPSVKKGI-EINCCTT-DRCN-
+--------*
+>P1;gi|128928|sp|P01389|NXL1_NAJHC Long neurotoxin 1 (Toxin III) >gi... [ score 108 E 3e-23 ] [ range 1 .. 71 ]
+sequence
+IRCFIT--P-DVTSQACPDGQNICYTKTWCDNFCGMRGKRVDLGCAATCPTVKPGV-DIKCCST-DNCNP
+FPTRER--*
+>P1;gi|128934|sp|P01382|NXL1_NAJOX Long neurotoxin 1 (Neurotoxin I) ... [ score 105 E 3e-22 ] [ range 1 .. 73 ]
+sequence
+ITCYKT--P-PITSETCAPGQNLCYTKTWCDAWCGSRGKVIELGCAATCPTVESYQ-DIKCCST-DDCNP
+HPKQKR-P*
+>P1;gi|2645541|gb|AAB87417.1| long neurotoxin isoform precursor [Naj... [ score 101 E 5e-21 ] [ range 22 .. 90 ]
+sequence
+IRCFIT--P-DVTSTDCPNG-HVCYTKTWCDGFCSSRGRRVELGCAATCPTVKPGV-DIQCCST-DNCNP
+FPTRP---*
+>P1;gi|5459296|emb|CAB50692.1| snake venom [Bungarus multicinctus] [ score 101 E 6e-21 ] [ range 22 .. 93 ]
+sequence
+IVCHTT--A-TISAVTCPPGENLCYRKMWCDVFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DKCNP
+HPKQR---*
+>P1;gi|5230714|gb|AAD40974.1| long neurotoxin precursor [Pseudonaja ... [ score 100 E 7e-21 ] [ range 23 .. 93 ]
+sequence
+-TCFIT--P-DVKSKPCPPGQEVCYTKTWCDGFCGIRGKRVDLGCAATCPTKKTGI-DIICCST-DDCNT
+FPLRPR--*
+>P1;gi|128935|sp|P01384|NXL1_NOTSC Long neurotoxin 1 (Notechis III-4... [ score 97 E 1e-19 ] [ range 1 .. 70 ]
+sequence
+LICYMG--P-K-TPRTCPRGQNLCYTKTWCDAFCSSRGKVVELGCAATCPIAKSYE-DVTCCST-DNCNP
+FPVRPR--*
+>P1;gi|128921|sp|P25670|NXL1_ASPSC Long neurotoxin 1 (Toxin S4C6) [ score 96 E 2e-19 ] [ range 2 .. 67 ]
+sequence
+-ICYIA--P-YD-HKTCAAGENICYLKAWCDAWCSSRGKKLEFGCAATCPTVKPGV-DISCCDT-DNCNP
+HPK-----*
+>P1;gi|32140574|dbj|BAC78205.1| long chain neurotoxin [Laticauda lat... [ score 96 E 3e-19 ] [ range 22 .. 87 ]
+sequence
+-ICFKT--P-YVKSETCPPGQELCYTKTWCDRFCSIRGKVIELGCTATCPRAEPKE-DTTCCSK-DNCNP
+HP------*
+>P1;gi|223565|prf||0901189B neurotoxin b [ score 93 E 1e-18 ] [ range 2 .. 67 ]
+sequence
+-ICYLA--P-RDT-QICAPGQEICYLKSWDDGTGSIRGNRLEFGCAATCPTVKRGI-HIKCCST-DKCNP
+HPK-----*
+>P1;gi|3929014|gb|AAC83997.1| alpha-bungarotoxin isoform R15 [Bungar... [ score 93 E 1e-18 ] [ range 1 .. 72 ]
+sequence
+IVCHTT--A-TISAVTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCPSEKPYE-EVSCCST-DKCNP
+HPKQR---*
+>P1;gi|464289|sp|P34073|NXLD_ACAAN Acanthophin D (Postsynaptic neuro... [ score 93 E 2e-18 ] [ range 1 .. 71 ]
+sequence
+VICYRK--Y-TNNVKTCPDGENVCYTKMWCDGFCTSRGKVVELGCAATCPIRKPGN-EVKCCST-NKCNH
+PPKRKK--*
+>P1;gi|128953|sp|P13495|NXLB_PSETE Pseudonajatoxin b (Long neurotoxi... [ score 93 E 2e-18 ] [ range 2 .. 71 ]
+sequence
+-TCFIT--P-DVKSKPCPPGQEVCYTETWCDGFCGIRGKRVELGCAATCPTKKTGI-DIQCCST-DDCNT
+FPLRP---*
+>P1;gi|223564|prf||0901189A neurotoxin a [ score 92 E 2e-18 ] [ range 2 .. 67 ]
+sequence
+-ICYLA--P-RDT-QICAPGQEICYLKSWDDGTGFLKGNRLEFGCAATCPTVKPGI-DIKCCST-DKCNP
+HPK-----*
+>P1;gi|230415|pdb|2ABX|A Chain A, Alpha-Bungarotoxin >gi|230416|pdb|... [ score 92 E 4e-18 ] [ range 1 .. 72 ]
+sequence
+IVCHTT--A-TIPSVTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DKCNH
+PPKRQ---*
+>P1;gi|3929000|gb|AAC83990.1| alpha-bungarotoxin isoform R12 [Bungar... [ score 92 E 4e-18 ] [ range 1 .. 72 ]
+sequence
+IVCHTT--A-TISAVTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DQCHP
+HPKQR---*
+>P1;gi|128949|sp|P15817|NXL3_BUNMU Long neurotoxin CR1 precursor (Ka... [ score 91 E 8e-18 ] [ range 23 .. 87 ]
+sequence
+-TCLIS--P-SSTPQTCPNGQDICFRKAQCDNFCHSRGPVIEQGCVATCPQFRSYR-SLLCCRT-DNCNH
+--------*
+>P1;gi|128922|sp|P01380|NXL1_ASTST Long neurotoxin 1 (Toxin B) >gi|6... [ score 90 E 1e-17 ] [ range 1 .. 68 ]
+sequence
+LSCYLG----YKHSQTCPPGENVCFVKTWCDGFCNTRGERIIMGCAATCPTAKSGV-HIACCST-DNCNI
+YAKW----*
+>P1;gi|14194996|sp|Q9W729|NXL6_BUNMU Kappa6-bungarotoxin precursor (... [ score 90 E 2e-17 ] [ range 23 .. 87 ]
+sequence
+-TCHIS--T-SSTPQTCPKGQDICFRKTQCDKFCSIRGAVIEQGCVATCPEFRSYR-SLLCCRT-DNCNP
+--------*
+>P1;gi|3929012|gb|AAC83996.1| alpha-bungarotoxin isoform R16 [Bungar... [ score 88 E 5e-17 ] [ range 1 .. 72 ]
+sequence
+IVCHTT--A-TISAVTCPPGENLCYRKMWCDASCSSRGKVVELGCAAPCPSEKPYE-EVSCCST-DKCNP
+HPKQR---*
+>P1;gi|24459174|gb|AAL30054.1| kappa 1a bungaratoxin [Bungarus candi... [ score 88 E 7e-17 ] [ range 23 .. 87 ]
+sequence
+-TCLIS--P-SSTPQTCPQGQDICFLKAQCDKFCSIRGPVIEQGCVATCPQFRSYR-SLLCCTT-DNCNH
+--------*
+>P1;gi|128920|sp|P01385|NXL1_ACAAN Long neurotoxin 1 >gi|69416|pir||... [ score 86 E 2e-16 ] [ range 1 .. 63 ]
+sequence
+VICYRG----YNNPQTCPPGENVCFTRTWCDAFCSSRGKVVELGCAATCPIVKSYN-EVKCCST-DKCN-
+--------*
+>P1;gi|128938|sp|P15815|NXL2_BUNFL Long neurotoxin 2 (Kappa-flavitox... [ score 84 E 1e-15 ] [ range 2 .. 66 ]
+sequence
+-TCLIS--P-SSTSQTCPKGQDICFTKAFCDRWCSSRGPVIEQGCAATCPEFTSYK-SLLCCTT-DNCNH
+--------*
+>P1;gi|14194977|sp|O12962|NXL5_BUNMU Kappa5-bungarotoxin precursor >... [ score 83 E 2e-15 ] [ range 23 .. 87 ]
+sequence
+-TCLIS--P-SSTPQTCPQGQDTCFLKALCDKLCPIRGPVIEQGCAATCPEFRSYR-SLLCCTT-DNCNH
+--------*
+>P1;gi|128955|sp|P14612|NXLH_PSEAU Long neurotoxin homolog Pa ID >gi... [ score 83 E 2e-15 ] [ range 1 .. 68 ]
+sequence
+LTCYKG--R-DRSSETCRSEQELCCTKTWCDQWCQDRGPRLEMGCTATCPRRMPGL-DFTCCTT-DNCNP
+VPT-----*
+>P1;gi|19924304|sp|O12961|NXL4_BUNMU Kappa4-bungarotoxin precursor >... [ score 82 E 3e-15 ] [ range 23 .. 87 ]
+sequence
+-TCLIS--P-SSPPQTCPKGEDICIVKARCDEWCLRRGPLIERGCAATCPEFRSYR-SLLCCTT-DNCNH
+--------*
+>P1;gi|136571|sp|P25676|TXWC_HEMHA Weak toxin CM-1c [ score 71 E 6e-12 ] [ range 2 .. 60 ]
+sequence
+-TCFTT--P-SDTSETCPIGNNICYEKRW-----SGHGMQIEKGCVASCPSFESYK-FLLCCRI-ENCN-
+--------*
+>P1;gi|136560|sp|P01415|TXW2_NAJHH Weak toxin CM-2 >gi|69447|pir||T2... [ score 62 E 3e-09 ] [ range 2 .. 60 ]
+sequence
+-TCFTT--P-SDTSETCPDGQNICYEKRW-----NSHQGVEIKGCVASCPEFESFR-YLLCCRI-DNCN-
+--------*
+>P1;gi|31077032|sp|Q8QGR0|TXM7_DENAN Muscarinic m1-toxin1 precursor ... [ score 48 E 5e-05 ] [ range 22 .. 85 ]
+sequence
+LTCVKS--N-SITSEDCPDGQNLCF-KRW--QYISPRMYDFTRGCAATCPKAEYRD-VINCCGT-DKCN-
+--------*
+>P1;gi|432567|gb|AAB28452.1| m1-toxin=m1 muscarinic receptor specifi... [ score 48 E 5e-05 ] [ range 1 .. 64 ]
+sequence
+LTCVKS--N-SITSEDCPDGQNLCFKRHW---YISPRMYDFTRGCAATCPKAEYRD-VINCCGT-DKCN-
+--------*
+>P1;gi|136562|sp|P01400|TXW4_NAJME Weak toxin S4C11 >gi|69432|pir||V... [ score 48 E 6e-05 ] [ range 1 .. 65 ]
+sequence
+LTCLIC--P-ENKVHTCRNGENICFKRFYEGNLL---GKRYPRGCAATCPEAKPRE-IVECCST-DKCNH
+--------*
+>P1;gi|29465642|gb|AAL87468.1| weak neurotoxin 10 precursor [Naja sp... [ score 46 E 2e-04 ] [ range 22 .. 85 ]
+sequence
+LTCLNC--P-EVKFQTCRNGEKICFKKFDERKLF---GKRYRRGCAATCPEAKPRE-IVQCCST-DRCN-
+--------*
+>P1;gi|14195306|sp|Q9YGI2|TXW1_NAJAT Probable weak neurotoxin NNAM1 ... [ score 46 E 2e-04 ] [ range 22 .. 86 ]
+sequence
+LTCLIC--P-ENKVHTCLNGEKICFKKYDQRKLL---GKRYIRGCADTCPVRKPRE-IVECCST-DKCNH
+--------*
+>P1;gi|136566|sp|P29182|TXW8_NAJNA Weak neurotoxin 8 >gi|85984|pir||... [ score 45 E 3e-04 ] [ range 1 .. 64 ]
+sequence
+LTCLNC--P-EVRFQKCRNGEKICFKKF---DQRNLLGKRYEIGCAATCPEAKPRE-IVQCCST-DKCN-
+--------*
+>P1;gi|104360|pir||S14003 short neurotoxin 1c precursor - broad-band... [ score 45 E 4e-04 ] [ range 23 .. 82 ]
+sequence
+-ICFNH--Q-SSQPQTCSPGESSCYHKQWSD----FRGTIIERGCG--CPTVKPGI-NLSCCES-EVCN-
+--------*
+>P1;gi|24459186|gb|AAL30060.1| weak toxin 2 [Bungarus candidus] [ score 44 E 6e-04 ] [ range 22 .. 85 ]
+sequence
+LTCLIC--P-EKDCQTCRNEEKICVKRSYDKNQLGWRAQR---GCAVSCPKAKPNE-TVQCCST-DKCN-
+--------*
+>P1;gi|136565|sp|P29181|TXW7_NAJNA Weak neurotoxin 7 >gi|85983|pir||... [ score 44 E 6e-04 ] [ range 1 .. 64 ]
+sequence
+LTCLNC--P-EVRFQICRDGEKICFKKF---DQRNLLGKRYRRGCAATCPEAKPRE-IVQCCST-DKCN-
+--------*
+>P1;gi|12230755|sp|P82463|TXM2_NAJKA Muscarinic toxin-like protein 2... [ score 44 E 7e-04 ] [ range 1 .. 64 ]
+sequence
+LTCVKE--K-SITTEDCPDGQNLCF-KRWHMIVPGRYKK--TRGCAATCPIAENRD-VIECCST-DKCN-
+--------*
+>P1;gi|1351328|sp|P80495|TXMB_DENPO Muscarinic toxin beta (MT-beta) ... [ score 44 E 7e-04 ] [ range 1 .. 64 ]
+sequence
+LTCVTS--K-SITTEDCPDGQNLCFKRR---HYVVPKIYDITRGCVATCPIPENYD-SIHCCKT-DKCN-
+--------*
+>P1;gi|24459184|gb|AAL30059.1| weak toxin 1 [Bungarus candidus] [ score 44 E 0.001 ] [ range 22 .. 85 ]
+sequence
+LTCLIC--P-EKDCQTCRNEEKIC-VKRFYDK--NQLGWRAQRGCAVSCPKAKPNE-TVQCCST-DKCN-
+--------*
+>P1;gi|2645541|gb|AAB87417.1| long neurotoxin isoform precursor [Naj... [ score 96 E 2e-19 ] [ range 24 .. 87 ]
+sequence
+--CFIT--P-DVT-STDCPNGHVCYTKTWCDGFCSSRGRRVELGCAATCPTVKPGV-DIQCCST-DNCNP
+FP------*
+>P1;gi|5459296|emb|CAB50692.1| snake venom [Bungarus multicinctus] [ score 95 E 4e-19 ] [ range 30 .. 90 ]
+sequence
+-----S--P-ISA-VTCPPGENLCYRKMWCDVFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DKCNP
+HP------*
+>P1;gi|128941|sp|P01395|NXL2_DENVI Long neurotoxin 2 (Toxin I/V) >gi... [ score 95 E 5e-19 ] [ range 1 .. 67 ]
+sequence
+RTCYKT--P-SKP-ETCPHGENICYTETWCDAWCSQRGKRVELGCAATCPKVKAGV-GIKCCST-DNCNP
+FP------*
+>P1;gi|128936|sp|P01387|NXL1_OPHHA Long neurotoxin 1 (Neurotoxin A) ... [ score 93 E 1e-18 ] [ range 2 .. 67 ]
+sequence
+-KCYVT--P-DKS-ETCPAGQDICYTETWCDAWCTSRGKRVDLGCAATCPIVKPGV-EIKCCST-DNCNP
+FP------*
+>P1;gi|128924|sp|P01393|NXL1_DENJA Long neurotoxin 1 (Toxin V-III-N1... [ score 92 E 3e-18 ] [ range 1 .. 67 ]
+sequence
+RTCYKT--Y-DKS-KTCPRGEDICYTKTWCDGFCSQRGKRVELGCAATCPKVKTGV-EIKCCST-DYCNP
+FP------*
+>P1;gi|128929|sp|P25674|NXL1_NAJHH Long neurotoxin 1 (Toxin CM-5) [ score 92 E 3e-18 ] [ range 3 .. 66 ]
+sequence
+--CFIT--P-DVT-SQACPDGHVCYTKMWCDNFCGMRGKRVDLGCAATCPTVKPGV-DIKCCST-DNCNP
+FP------*
+>P1;gi|5230714|gb|AAD40974.1| long neurotoxin precursor [Pseudonaja ... [ score 91 E 6e-18 ] [ range 22 .. 89 ]
+sequence
+RTCFIT--P-DKS-KPCPPGQEVCYTKTWCDGFCGIRGKRVDLGCAATCPTKKTGI-DIICCST-DDCNT
+FP------*
+>P1;gi|128930|sp|P01391|NXL1_NAJKA Long neurotoxin 1 (Neurotoxin 3) ... [ score 90 E 1e-17 ] [ range 3 .. 66 ]
+sequence
+--CFIT--P-DIT-SKDCPNGHVCYTKTWCDAFCSIRGKRVDLGCAATCPTVKTGV-DIQCCST-DNCNP
+FP------*
+>P1;gi|128934|sp|P01382|NXL1_NAJOX Long neurotoxin 1 (Neurotoxin I) ... [ score 90 E 1e-17 ] [ range 2 .. 68 ]
+sequence
+-TCYKT--P-ITS-ETCAPGQNLCYTKTWCDAWCGSRGKVIELGCAATCPTVESYQ-DIKCCST-DDCNP
+HP------*
+>P1;gi|128926|sp|P01394|NXL1_DENVI Long neurotoxin 1 (Neurotoxin 4.7... [ score 90 E 2e-17 ] [ range 1 .. 67 ]
+sequence
+RTCYKT--P-SKP-ETCPHGENICYTETWCDAWCSQRGKREELGCAATCPKVKAGV-GIKCCST-DNCDP
+FP------*
+>P1;gi|128931|sp|P01383|NXL1_NAJME Long neurotoxin 1 (Neurotoxin 3.9... [ score 89 E 2e-17 ] [ range 1 .. 67 ]
+sequence
+KRCYRT--P-DKS-QTCPPGEDLCYTKKWCADWCTSRGKVIELGCVATCPKVKPYE-QITCCST-DNCNP
+HP------*
+>P1;gi|128933|sp|P01390|NXL1_NAJNI Long neurotoxin 1 (Neurotoxin alp... [ score 89 E 2e-17 ] [ range 3 .. 66 ]
+sequence
+--CFIT--P-DVT-SQACPDGHVCYTKMWCDNFCGMRGKRVDLGCAATCPKVKPGV-NIKCCSR-DNCNP
+FP------*
+>P1;gi|128942|sp|P01388|NXL2_NAJME Long neurotoxin 2 (Neurotoxin B) ... [ score 89 E 2e-17 ] [ range 3 .. 66 ]
+sequence
+--CFIT--P-DVT-SQICADGHVCYTKTWCDNFCASRGKRVDLGCAATCPTVKPGV-NIKCCST-DNCNP
+FP------*
+>P1;gi|32140574|dbj|BAC78205.1| long chain neurotoxin [Laticauda lat... [ score 89 E 3e-17 ] [ range 21 .. 87 ]
+sequence
+RICFKT--P-YKS-ETCPPGQELCYTKTWCDRFCSIRGKVIELGCTATCPRAEPKE-DTTCCSK-DNCNP
+HP------*
+>P1;gi|128947|sp|P25671|NXL3_NAJNA Long neurotoxin 3 (Toxin C) >gi|2... [ score 87 E 7e-17 ] [ range 3 .. 66 ]
+sequence
+--CFIT--P-DIT-SKDCPNGHVCYTKTWCDAFCSIRGKRVDLGCAATCPTVKTGV-DIQCCST-DDCDP
+FP------*
+>P1;gi|128932|sp|P25668|NXL1_NAJNA Long neurotoxin 1 (Toxin A) [ score 87 E 8e-17 ] [ range 3 .. 66 ]
+sequence
+--CFIT--P-DIT-SKDCPNGHVCYTKTWCDGFCSIRGKRVDLGCAATCPTVRTGV-DIQCCST-DDCDP
+FP------*
+>P1;gi|3929000|gb|AAC83990.1| alpha-bungarotoxin isoform R12 [Bungar... [ score 87 E 1e-16 ] [ range 9 .. 69 ]
+sequence
+-----S--P-ISA-VTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DQCHP
+HP------*
+>P1;gi|128952|sp|P25673|NXL5_NAJNA Long neurotoxin 5 (Toxin E) [ score 86 E 2e-16 ] [ range 3 .. 66 ]
+sequence
+--CFIT--P-DIT-SKDCPNGHVCYTKTWCDGFCSRRGERVDLGCAATCPTVKTGV-DIQCCST-DDCDP
+FP------*
+>P1;gi|230415|pdb|2ABX|A Chain A, Alpha-Bungarotoxin >gi|230416|pdb|... [ score 86 E 2e-16 ] [ range 10 .. 69 ]
+sequence
+--------P-SSA-VTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DKCNH
+PP------*
+>P1;gi|128950|sp|P25672|NXL4_NAJNA Long neurotoxin 4 (Toxin D) [ score 86 E 3e-16 ] [ range 3 .. 66 ]
+sequence
+--CFIT--P-DIT-SKDCPNGHVCYTKTWCDGFCRIRGERVDLGCAATCPTVKTGV-DIQCCST-DDCDP
+FP------*
+>P1;gi|128953|sp|P13495|NXLB_PSETE Pseudonajatoxin b (Long neurotoxi... [ score 84 E 7e-16 ] [ range 1 .. 68 ]
+sequence
+RTCFIT--P-DKS-KPCPPGQEVCYTETWCDGFCGIRGKRVELGCAATCPTKKTGI-DIQCCST-DDCNT
+FP------*
+>P1;gi|128948|sp|P07526|NXL3_OPHHA Long neurotoxin 3 (Neurotoxin CM-... [ score 81 E 7e-15 ] [ range 2 .. 67 ]
+sequence
+-KCYVT--P-DKS-ETCPAGQDLCYTETWCVAWCTVRGKRVSLTCAAICPIVPPKV-SIKCCST-DACGP
+FP------*
+>P1;gi|4519868|dbj|BAA75778.1| short chain neurotoxin [Laticauda lat... [ score 47 E 8e-05 ] [ range 22 .. 82 ]
+sequence
+RRCFNH--P-SSN-KSCPPGENSCYNKQWRDH----RGTIIERGCG--CPTVKPGI-KLTCCQS-EDCN-
+--------*
+>P1;gi|4519866|dbj|BAA75777.1| short chain neurotoxin [Laticauda lat... [ score 47 E 1e-04 ] [ range 22 .. 82 ]
+sequence
+RRCFSE--P-QTN-KSCPPGENSCYNKQWRDH----RGTIIERGCG--CPQVKSGI-KLTCCQS-DDCN-
+--------*
+>P1;gi|4519808|dbj|BAA75748.1| short chain neurotoxin [Laticauda sem... [ score 47 E 1e-04 ] [ range 22 .. 82 ]
+sequence
+RRCFSE--P-QTN-KSCPPGENSCYRKQWRDH----RGTIIERGCG--CPTVKPGI-KLRCCES-EDCN-
+--------*
+>P1;gi|128990|sp|P25495|NXSA_LATCR Short neurotoxin A [ score 47 E 1e-04 ] [ range 1 .. 61 ]
+sequence
+RRCFNH--P-SSN-KSCPPGENSCYNKQWRDH----RGTIIERGCG--CPTVKPGI-KLRCCQS-DDCN-
+--------*
+>P1;gi|42560533|sp|P10457|NXS2_LATCO Short neurotoxin II precursor >... [ score 46 E 2e-04 ] [ range 22 .. 82 ]
+sequence
+RRCYSQ--P-KTT-KSCPPGENSCYNKQWRDH----RGSITERGCG--CPTVKPGI-KLRCCES-EDCN-
+--------*
+>P1;gi|42560534|sp|P10459|NXSB_LATLA Short neurotoxin B precursor >g... [ score 46 E 2e-04 ] [ range 22 .. 82 ]
+sequence
+RRCFNH--P-SSN-KSCPPGENSCYNKQWRDH----RGTITERGCG--CPQVKSGI-KLTCCQS-DDCN-
+--------*
+>P1;gi|136563|sp|P29179|TXW5_NAJNA Weak neurotoxin 5 >gi|85981|pir||... [ score 46 E 2e-04 ] [ range 2 .. 62 ]
+sequence
+-TCLIC--P-NKV-HTCLNGENICFKR-----FNRILGKRYDLGCAATCPTVKTGI--VQCCST-DKCNH
+--------*
+>P1;gi|128991|sp|P25496|NXSB_LATCR Short neurotoxin B [ score 46 E 3e-04 ] [ range 1 .. 61 ]
+sequence
+RRCFNH--P-SSN-KSCPPGENSCYNKQWRDH----RGTIIERGCG--CPQVKSGI-KLRCCQS-DDCN-
+--------*
+>P1;gi|104360|pir||S14003 short neurotoxin 1c precursor - broad-band... [ score 45 E 4e-04 ] [ range 22 .. 82 ]
+sequence
+RICFSQ--P-QTT-KTCSPGESSCYHKQWSD----FRGTIIERGCG--CPTVKPGI-NLSCCES-EVCN-
+--------*
+>P1;gi|136562|sp|P01400|TXW4_NAJME Weak toxin S4C11 >gi|69432|pir||V... [ score 45 E 4e-04 ] [ range 2 .. 65 ]
+sequence
+-TCLIC--P-NKV-HTCRNGENICFKRFYEGNLL---GKRYPRGCAATCPEAKPRE-IVECCST-DKCNH
+--------*
+>P1;gi|128995|sp|P10460|NXSC_LATLA Short neurotoxin C >gi|85968|pir|... [ score 45 E 4e-04 ] [ range 1 .. 61 ]
+sequence
+RRCFSQ--P-QTN-KSCPPGENSCYRKQWRDH----RGTIIERGCG--CPTVKPGV-KLRCCQS-EDCN-
+--------*
+>P1;gi|464290|sp|P34075|NXS1_BOUAN Short neurotoxin 1 >gi|104349|pir... [ score 44 E 9e-04 ] [ range 1 .. 60 ]
+sequence
+KICYNQ--P-SST-TKACPGEKNCYRKQWSDH----RGTIIERGCG--CPTVKPGV-KLHCCTT-EKCN-
+--------*
+>P1;gi|117739|sp|P24778|CXH_HEMHA Cytotoxin homolog (Toxin 9B/9BB) [ score 44 E 0.001 ] [ range 9 .. 62 ]
+sequence
+--------P-FLH-KTCPEGQNICYKMTLKKTPMKLSVKR---GCAATCPSERPLV-QVECCKT-DKCN-
+--------*
+>P1;gi|5459296|emb|CAB50692.1| snake venom [Bungarus multicinctus] [ score 113 E 1e-24 ] [ range 22 .. 95 ]
+sequence
+IVCHTTATS-PISAVTCPPGENLCYRKMWCDVFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DKCNP
+HPKQR-PG*
+>P1;gi|3929014|gb|AAC83997.1| alpha-bungarotoxin isoform R15 [Bungar... [ score 104 E 4e-22 ] [ range 1 .. 74 ]
+sequence
+IVCHTTATS-PISAVTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCPSEKPYE-EVSCCST-DKCNP
+HPKQR-PG*
+>P1;gi|3929000|gb|AAC83990.1| alpha-bungarotoxin isoform R12 [Bungar... [ score 103 E 1e-21 ] [ range 1 .. 74 ]
+sequence
+IVCHTTATS-PISAVTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCPSKKPYE-EVTCCST-DQCHP
+HPKQR-PG*
+>P1;gi|128944|sp|P01386|NXL2_OPHHA Long neurotoxin 2 (Neurotoxin B) ... [ score 101 E 5e-21 ] [ range 3 .. 71 ]
+sequence
+--CYVTPDA-TS--QTCPDGQDICYTKTWCDGFCSSRGKRIDLGCAATCPKVKPGV-DIKCCST-DNCNP
+FPTWK-R-*
+>P1;gi|1065379|pdb|1NTN|  Neurotoxin-I [ score 100 E 1e-20 ] [ range 1 .. 71 ]
+sequence
+ITCYKTPII-TS--ETCAPGQNLCYTKTWCDAWCGSRGKVIELGCAATCPTVESYQ-DIKCCST-DNCNP
+HPKQK-R-*
+>P1;gi|128931|sp|P01383|NXL1_NAJME Long neurotoxin 1 (Neurotoxin 3.9... [ score 98 E 5e-20 ] [ range 2 .. 71 ]
+sequence
+-RCYRTPDL-KS--QTCPPGEDLCYTKKWCADWCTSRGKVIELGCVATCPKVKPYE-QITCCST-DNCNP
+HPKMK-P-*
+>P1;gi|5230714|gb|AAD40974.1| long neurotoxin precursor [Pseudonaja ... [ score 98 E 6e-20 ] [ range 23 .. 94 ]
+sequence
+-TCFITPDV-KSKP--CPPGQEVCYTKTWCDGFCGIRGKRVDLGCAATCPTKKTGI-DIICCST-DDCNT
+FPLRP-RG*
+>P1;gi|26397290|sp|P82662|NXL6_OPHHA Long neurotoxin OH-6A/OH-6B (Al... [ score 97 E 1e-19 ] [ range 1 .. 70 ]
+sequence
+LICFIS----SHDSVTCAPGENVCFLKSWCDAWCGSRGKKLSFGCAATCPKVNPGI-DIECCST-DNCNP
+HPKLR-P-*
+>P1;gi|128930|sp|P01391|NXL1_NAJKA Long neurotoxin 1 (Neurotoxin 3) ... [ score 94 E 8e-19 ] [ range 1 .. 70 ]
+sequence
+IRCFITPDI-TSK--DCPNG-HVCYTKTWCDAFCSIRGKRVDLGCAATCPTVKTGV-DIQCCST-DNCNP
+FPTRK-R-*
+>P1;gi|18000263|gb|AAL54893.1| long neurotoxin [Lapemis hardwickii] [ score 93 E 2e-18 ] [ range 24 .. 92 ]
+sequence
+--CYLGY----KRSQTCPPGEKVCFVKSWCDAFCGSRGKRIEMGCAATCPTVKDGI-DITCCAT-DNCNT
+YANWG-SG*
+>P1;gi|223565|prf||0901189B neurotoxin b [ score 91 E 4e-18 ] [ range 2 .. 67 ]
+sequence
+-ICYLAP----RDTQICAPGQEICYLKSWDDGTGSIRGNRLEFGCAATCPTVKRGI-HIKCCST-DKCNP
+HPK-----*
+>P1;gi|128947|sp|P25671|NXL3_NAJNA Long neurotoxin 3 (Toxin C) >gi|2... [ score 91 E 5e-18 ] [ range 1 .. 70 ]
+sequence
+IRCFITPDI-TSK--DCPNG-HVCYTKTWCDAFCSIRGKRVDLGCAATCPTVKTGV-DIQCCST-DDCDP
+FPTRK-R-*
+>P1;gi|128932|sp|P25668|NXL1_NAJNA Long neurotoxin 1 (Toxin A) [ score 91 E 7e-18 ] [ range 1 .. 70 ]
+sequence
+IRCFITPDI-TSK--DCPNG-HVCYTKTWCDGFCSIRGKRVDLGCAATCPTVRTGV-DIQCCST-DDCDP
+FPTRK-R-*
+>P1;gi|223564|prf||0901189A neurotoxin a [ score 91 E 8e-18 ] [ range 2 .. 67 ]
+sequence
+-ICYLAP----RDTQICAPGQEICYLKSWDDGTGFLKGNRLEFGCAATCPTVKPGI-DIKCCST-DKCNP
+HPK-----*
+>P1;gi|128952|sp|P25673|NXL5_NAJNA Long neurotoxin 5 (Toxin E) [ score 90 E 1e-17 ] [ range 1 .. 70 ]
+sequence
+IRCFITPDI-TSK--DCPNG-HVCYTKTWCDGFCSRRGERVDLGCAATCPTVKTGV-DIQCCST-DDCDP
+FPTRK-R-*
+>P1;gi|128950|sp|P25672|NXL4_NAJNA Long neurotoxin 4 (Toxin D) [ score 89 E 2e-17 ] [ range 1 .. 70 ]
+sequence
+IRCFITPDI-TSK--DCPNG-HVCYTKTWCDGFCRIRGERVDLGCAATCPTVKTGV-DIQCCST-DDCDP
+FPTRK-R-*
+>P1;gi|25108918|sp|P01379|NXL1_LATSE Long neurotoxin 1 precursor (Ne... [ score 89 E 2e-17 ] [ range 24 .. 87 ]
+sequence
+--CYLNP----HDTQTCPSGQEICYVKSWCNAWCSSRGKVLEFGCAATCPSVNTGT-EIKCCSA-DKCNT
+YP------*
+>P1;gi|128953|sp|P13495|NXLB_PSETE Pseudonajatoxin b (Long neurotoxi... [ score 89 E 3e-17 ] [ range 2 .. 71 ]
+sequence
+-TCFITPDV-KSKP--CPPGQEVCYTETWCDGFCGIRGKRVELGCAATCPTKKTGI-DIQCCST-DDCNT
+FPLRP---*
+>P1;gi|128937|sp|P01381|NXL2_ASTST Long neurotoxin 2 (Toxin C) >gi|6... [ score 88 E 5e-17 ] [ range 3 .. 71 ]
+sequence
+--CYLGY----KHSQTCPPGENVCFVKTWCDAFCSTRGERIVMGCAATCPTAKSGV-HIACCST-DNCNI
+YTKWG-SG*
+>P1;gi|128949|sp|P15817|NXL3_BUNMU Long neurotoxin CR1 precursor (Ka... [ score 84 E 6e-16 ] [ range 23 .. 87 ]
+sequence
+-TCLISP---SSTPQTCPNGQDICFRKAQCDNFCHSRGPVIEQGCVATCPQRSNYR-SLLCCRT-DNCNH
+--------*
+>P1;gi|14194996|sp|Q9W729|NXL6_BUNMU Kappa6-bungarotoxin precursor (... [ score 84 E 1e-15 ] [ range 23 .. 87 ]
+sequence
+-TCHIST---SSTPQTCPKGQDICFRKTQCDKFCSIRGAVIEQGCVATCPERSNYR-SLLCCRT-DNCNP
+--------*
+>P1;gi|24459174|gb|AAL30054.1| kappa 1a bungaratoxin [Bungarus candi... [ score 81 E 5e-15 ] [ range 23 .. 87 ]
+sequence
+-TCLISP---SSTPQTCPQGQDICFLKAQCDKFCSIRGPVIEQGCVATCPQRSNYR-SLLCCTT-DNCNH
+--------*
+>P1;gi|14194977|sp|O12962|NXL5_BUNMU Kappa5-bungarotoxin precursor >... [ score 77 E 8e-14 ] [ range 23 .. 87 ]
+sequence
+-TCLISP---SSTPQTCPQGQDTCFLKALCDKLCPIRGPVIEQGCAATCPERSNYR-SLLCCTT-DNCNH
+--------*
+>P1;gi|128938|sp|P15815|NXL2_BUNFL Long neurotoxin 2 (Kappa-flavitox... [ score 77 E 1e-13 ] [ range 2 .. 66 ]
+sequence
+-TCLISP---SSTSQTCPKGQDICFTKAFCDRWCSSRGPVIEQGCAATCPETSRYK-SLLCCTT-DNCNH
+--------*
+>P1;gi|19924304|sp|O12961|NXL4_BUNMU Kappa4-bungarotoxin precursor >... [ score 77 E 1e-13 ] [ range 23 .. 87 ]
+sequence
+-TCLISPSS-P--PQTCPKGEDICIVKARCDEWCLRRGPLIERGCAATCPERSNYR-SLLCCTT-DNCNH
+--------*
+>P1;gi|128945|sp|P15816|NXL2_BUNMU Long neurotoxin CB1 precursor (Ka... [ score 76 E 2e-13 ] [ range 23 .. 87 ]
+sequence
+-TCLKTP---SSTPQTCPQGQDICFLKVSCEQFCPIRGPVIEQGCAATCPERSNDR-SLLCCTT-DNCNH
+--------*
+>P1;gi|4006939|emb|CAA10359.1| alpha-bungarotoxin deletion precursor... [ score 73 E 2e-12 ] [ range 15 .. 60 ]
+sequence
+-----------------------------CLDLGSSRGKVVELGCAATCPSKKPYE-EVTCCST-DKCNP
+HPKQR-PG*
+>P1;gi|17368232|sp|P58370|NXH8_MICCO Alpha-neurotoxin homolog 8 prec... [ score 57 E 7e-08 ] [ range 26 .. 86 ]
+sequence
+-ICNFKTCP-TDELRHCASGETICYKTFWN----THRGLRIDRGCAATCPTVKPGV-NIICCKT-DNCN-
+--------*
+>P1;gi|4200127|emb|CAA06886.1| neurotoxin-like protein [Bungarus mul... [ score 51 E 5e-06 ] [ range 26 .. 87 ]
+sequence
+-ICHFDTCR-AGELKVCASGEKYCFKESWREA----RGTRIERGCAATCPKGSVYL-DVLCCTT-DDCN-
+--------*
+>P1;gi|136563|sp|P29179|TXW5_NAJNA Weak neurotoxin 5 >gi|85981|pir||... [ score 50 E 2e-05 ] [ range 1 .. 62 ]
+sequence
+LTCLICPEY-CNKVHTCLNGENICFKR-----FNRILGKRYDLGCAATCPTVKTGI--VQCCST-DKCNH
+--------*
+>P1;gi|136562|sp|P01400|TXW4_NAJME Weak toxin S4C11 >gi|69432|pir||V... [ score 48 E 5e-05 ] [ range 1 .. 65 ]
+sequence
+LTCLICPEY-CNKVHTCRNGENICFKRFYEGNLLGKRYPR---GCAATCPEAKPRE-IVECCST-DKCNH
+--------*
+>P1;gi|136566|sp|P29182|TXW8_NAJNA Weak neurotoxin 8 >gi|85984|pir||... [ score 47 E 1e-04 ] [ range 15 .. 64 ]
+sequence
+--------------QKCRNGEKICFKKFDQRNLL---GKRYEIGCAATCPEAKPRE-IVQCCST-DKCN-
+--------*
+>P1;gi|104360|pir||S14003 short neurotoxin 1c precursor - broad-band... [ score 47 E 1e-04 ] [ range 23 .. 82 ]
+sequence
+-ICFNQSSQ-PQTTKTCSPGESSCYHKQWSD----FRGTIIERGCG--CPTVKPGI-NLSCCES-EVCN-
+--------*
+>P1;gi|14195306|sp|Q9YGI2|TXW1_NAJAT Probable weak neurotoxin NNAM1 ... [ score 46 E 2e-04 ] [ range 22 .. 86 ]
+sequence
+LTCLICPEY-CNKVHTCLNGEKICFKKYDQRKLL---GKRYIRGCADTCPVRKPRE-IVECCST-DKCNH
+--------*
+>P1;gi|117739|sp|P24778|CXH_HEMHA Cytotoxin homolog (Toxin 9B/9BB) [ score 46 E 2e-04 ] [ range 1 .. 62 ]
+sequence
+LICHNRP-L-PFLHKTCPEGQNICYKMTLKKTPMKLSVKR---GCAATCPSERPLV-QVECCKT-DKCN-
+--------*
+>P1;gi|128986|sp|P01420|NXS3_NAJHA Short neurotoxin 3 (Toxin CM-10) ... [ score 46 E 2e-04 ] [ range 1 .. 60 ]
+sequence
+MICYKQQSL-QFPITTVCPGEKNCYKK----QWSGHRGTIIERGCG--CPSVKKGI-EINCCTT-DKCN-
+--------*
+>P1;gi|464290|sp|P34075|NXS1_BOUAN Short neurotoxin 1 >gi|104349|pir... [ score 46 E 2e-04 ] [ range 2 .. 60 ]
+sequence
+-ICYNQPSS-QHPTTKACPGEKNCYRKQWSDH----RGTIIERGCG--CPTVKPGV-KLHCCTT-EKCN-
+--------*
+>P1;gi|29465642|gb|AAL87468.1| weak neurotoxin 10 precursor [Naja sp... [ score 46 E 2e-04 ] [ range 22 .. 85 ]
+sequence
+LTCLNCPEV-CKKFQTCRNGEKICFKKFDERKLF---GKRYRRGCAATCPEAKPRE-IVQCCST-DRCN-
+--------*
+>P1;gi|136565|sp|P29181|TXW7_NAJNA Weak neurotoxin 7 >gi|85983|pir||... [ score 46 E 3e-04 ] [ range 15 .. 64 ]
+sequence
+--------------QICRDGEKICFKKFDQRNLL---GKRYRRGCAATCPEAKPRE-IVQCCST-DKCN-
+--------*
+>P1;gi|3860085|gb|AAD08813.1| post synaptic alpha neurotoxin precurs... [ score 45 E 5e-04 ] [ range 24 .. 82 ]
+sequence
+--CHNQQSS-QAPTTTCSGGETNCYKKSWRDH----RGYRIERGCG--CPSVKKGI-EINCCTT-DRCN-
+--------*
+>P1;gi|136545|sp|P18328|TXM2_DENAN Muscarinic toxin 2 precursor (MT2... [ score 45 E 5e-04 ] [ range 22 .. 85 ]
+sequence
+LTCVTTKSI-GGTTEDCPAGQNVCF-KRW--HYVTPKNYDIIKGCAATCPKVDNND-PIRCCGT-DKCN-
+--------*
+>P1;gi|25453176|sp|Q9YGI8|NXH4_BUNMU Short neurotoxin homolog NTL4 p... [ score 45 E 6e-04 ] [ range 24 .. 85 ]
+sequence
+--CLIKYSQ-ANESKTCPSGQLLC-LKKW--EIGNPSGKEVKRGCVATCPKPKKNE-IIQCCAK-DKCN-
+--------*
+>P1;gi|3860083|gb|AAD08812.1| post synaptic alpha neurotoxin precurs... [ score 44 E 7e-04 ] [ range 24 .. 82 ]
+sequence
+--CHNQQSS-ETPTTTCSGGETNCYKKSWRDH----RGYRIERGCG--CPSVKKGI-EINCCTT-DRCN-
+--------*
+>P1;gi|128949|sp|P15817|NXL3_BUNMU Long neurotoxin CR1 precursor (Ka... [ score 104 E 6e-22 ] [ range 22 .. 87 ]
+sequence
+RTCLISPS---STPQTCPNGQDICFRKAQCDNFCHSRGPVIEQGCVATCPQFRSNYRSLLCCRT-DNCNH
+--------*
+>P1;gi|14194996|sp|Q9W729|NXL6_BUNMU Kappa6-bungarotoxin precursor (... [ score 98 E 4e-20 ] [ range 22 .. 86 ]
+sequence
+RTCHISTS---STPQTCPKGQDICFRKTQCDKFCSIRGAVIEQGCVATCPEFRSNYRSLLCCRT-DNCN-
+--------*
+>P1;gi|5230714|gb|AAD40974.1| long neurotoxin precursor [Pseudonaja ... [ score 96 E 2e-19 ] [ range 22 .. 86 ]
+sequence
+RTCFITPD---VKSKPCPPGQEVCYTKTWCDGFCGIRGKRVDLGCAATCPTPKKTGIDIICCST-DDCN-
+--------*
+>P1;gi|14194977|sp|O12962|NXL5_BUNMU Kappa5-bungarotoxin precursor >... [ score 96 E 2e-19 ] [ range 22 .. 87 ]
+sequence
+KTCLISPS---STPQTCPQGQDTCFLKALCDKLCPIRGPVIEQGCAATCPEFRSNYRSLLCCTT-DNCNH
+--------*
+>P1;gi|19924304|sp|O12961|NXL4_BUNMU Kappa4-bungarotoxin precursor >... [ score 95 E 4e-19 ] [ range 22 .. 87 ]
+sequence
+RTCLISPS---SPPQTCPKGEDICIVKARCDEWCLRRGPLIERGCAATCPEFRSNYRSLLCCTT-DNCNH
+--------*
+>P1;gi|128945|sp|P15816|NXL2_BUNMU Long neurotoxin CB1 precursor (Ka... [ score 94 E 6e-19 ] [ range 22 .. 87 ]
+sequence
+KTCLKTPS---STPQTCPQGQDICFLKVSCEQFCPIRGPVIEQGCAATCPEFRSNDRSLLCCTT-DNCNH
+--------*
+>P1;gi|128938|sp|P15815|NXL2_BUNFL Long neurotoxin 2 (Kappa-flavitox... [ score 94 E 7e-19 ] [ range 1 .. 66 ]
+sequence
+RTCLISPS---STSQTCPKGQDICFTKAFCDRWCSSRGPVIEQGCAATCPEFTSRYKSLLCCTT-DNCNH
+--------*
+>P1;gi|128953|sp|P13495|NXLB_PSETE Pseudonajatoxin b (Long neurotoxi... [ score 89 E 2e-17 ] [ range 1 .. 65 ]
+sequence
+RTCFITPD---VKSKPCPPGQEVCYTETWCDGFCGIRGKRVELGCAATCPTPKKTGIDIQCCST-DDCN-
+--------*
+>P1;gi|5459296|emb|CAB50692.1| snake venom [Bungarus multicinctus] [ score 83 E 2e-15 ] [ range 26 .. 87 ]
+sequence
+-TTATSPI---S-AVTCPPGENLCYRKMWCDVFCSSRGKVVELGCAATCPS-KKPYEEVTCCST-DKCN-
+--------*
+>P1;gi|230415|pdb|2ABX|A Chain A, Alpha-Bungarotoxin >gi|230416|pdb|... [ score 79 E 2e-14 ] [ range 3 .. 67 ]
+sequence
+--CHTTAT---IPSSTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCPS-KKPYEEVTCCST-DKCNH
+--------*
+>P1;gi|136571|sp|P25676|TXWC_HEMHA Weak toxin CM-1c [ score 78 E 4e-14 ] [ range 2 .. 60 ]
+sequence
+-TCFTTPS---DTSETCPIGNNICYEKRW-----SGHGMQIEKGCVASCPSFESHYKFLLCCRI-ENCN-
+--------*
+>P1;gi|3929014|gb|AAC83997.1| alpha-bungarotoxin isoform R15 [Bungar... [ score 77 E 9e-14 ] [ range 5 .. 66 ]
+sequence
+-TTATSPI---S-AVTCPPGENLCYRKMWCDAFCSSRGKVVELGCAATCPSEKP-YEEVSCCST-DKCN-
+--------*
+>P1;gi|136560|sp|P01415|TXW2_NAJHH Weak toxin CM-2 >gi|69447|pir||T2... [ score 74 E 8e-13 ] [ range 2 .. 60 ]
+sequence
+-TCFTTPS---DTSETCPDGQNICYEK----RWNSHQGVEI-KGCVASCPEFESRFRYLLCCRI-DNCN-
+--------*
+>P1;gi|3929012|gb|AAC83996.1| alpha-bungarotoxin isoform R16 [Bungar... [ score 72 E 3e-12 ] [ range 5 .. 66 ]
+sequence
+-TTATSPI---S-AVTCPPGENLCYRKMWCDASCSSRGKVVELGCAAPCPSEKP-YEEVSCCST-DKCN-
+--------*
+>P1;gi|320153|pir||A60549 kappa-2 neurotoxin - many-banded krait (fr... [ score 66 E 2e-10 ] [ range 1 .. 45 ]
+sequence
+KTCLITPS---STPQTCPQGQDICFLKVQCEQFCPIRGPVIEQGCAAT----------------------
+--------*
+>P1;gi|3928996|gb|AAC83988.1| alpha-bungarotoxin isoform R7 [Bungaru... [ score 63 E 2e-09 ] [ range 5 .. 53 ]
+sequence
+-TTATSPI---S-AVTCPPGENLCYRKMWCDAFCSSKGKVVELGCAATCPSKRP----------------
+--------*
+>P1;gi|4006939|emb|CAA10359.1| alpha-bungarotoxin deletion precursor... [ score 52 E 3e-06 ] [ range 15 .. 52 ]
+sequence
+-----------------------------CLDLGSSRGKVVELGCAATCPS-KKPYEEVTCCST-DKCN-
+--------*
+>P1;gi|4519868|dbj|BAA75778.1| short chain neurotoxin [Laticauda lat... [ score 52 E 5e-06 ] [ range 22 .. 82 ]
+sequence
+RRCFNHPS---SQPQTCPPGENSCYNKQWRD----HRGTIIERGCG--CPTVKPGIK-LTCCQS-EDCN-
+--------*
+>P1;gi|42560534|sp|P10459|NXSB_LATLA Short neurotoxin B precursor >g... [ score 50 E 1e-05 ] [ range 22 .. 82 ]
+sequence
+RRCFNHPS---SQPQTCPPGENSCYNKQWRD----HRGTITERGCG--CPQVKSGIK-LTCCQS-DDCN-
+--------*
+>P1;gi|128990|sp|P25495|NXSA_LATCR Short neurotoxin A [ score 50 E 1e-05 ] [ range 1 .. 61 ]
+sequence
+RRCFNHPS---SQPQTCPPGENSCYNKQWRD----HRGTIIERGCG--CPTVKPGIK-LRCCQS-DDCN-
+--------*
+>P1;gi|128991|sp|P25496|NXSB_LATCR Short neurotoxin B [ score 50 E 1e-05 ] [ range 1 .. 61 ]
+sequence
+RRCFNHPS---SQPQTCPPGENSCYNKQWRD----HRGTIIERGCG--CPQVKSGIK-LRCCQS-DDCN-
+--------*
+>P1;gi|4519866|dbj|BAA75777.1| short chain neurotoxin [Laticauda lat... [ score 50 E 2e-05 ] [ range 22 .. 82 ]
+sequence
+RRCFNQQS---SEPQTCPPGENSCYNKQWRD----HRGTIIERGCG--CPQVKSGIK-LTCCQS-DDCN-
+--------*
+>P1;gi|32140578|dbj|BAC78207.1| short chain neurotoxin OKI-10 [Latic... [ score 49 E 3e-05 ] [ range 21 .. 81 ]
+sequence
+RRCFNQQS---SEPQTCPPGENSCYRKQWRD----HRGTIIERGCG--CPTVKPGVK-LRCCES-EDCN-
+--------*
+>P1;gi|4200127|emb|CAA06886.1| neurotoxin-like protein [Bungarus mul... [ score 48 E 6e-05 ] [ range 38 .. 87 ]
+sequence
+--------------KVCASGEKYCFKESWREA----RGTRIERGCAATCPKGSVYGLDVLCCTT-DDCN-
+--------*
+>P1;gi|25453173|sp|Q9W796|NXH5_BUNMU Long neurotoxin homolog precurs... [ score 48 E 6e-05 ] [ range 25 .. 89 ]
+sequence
+KTCSFYTC---PNSETCPDGKNICVKRSWTAVRGDGPKREIRRECAATCPPSKLGLT-VFCCTT-DNCNH
+--------*
+>P1;gi|128995|sp|P10460|NXSC_LATLA Short neurotoxin C >gi|85968|pir|... [ score 48 E 7e-05 ] [ range 1 .. 61 ]
+sequence
+RRCFNQQS---SQPQTCPPGENSCYRKQWRD----HRGTIIERGCG--CPTVKPGVK-LRCCQS-EDCN-
+--------*
+>P1;gi|25453142|sp|O12963|NXH6_BUNMU Long neurotoxin homolog TA-bm16... [ score 47 E 1e-04 ] [ range 25 .. 89 ]
+sequence
+KTCSFYTC---PNSETCPDGKNICVKRSWTAVAGDGLKREIRRECAATCPPSKLGLT-VFCCTT-DNCNH
+--------*
+>P1;gi|42560533|sp|P10457|NXS2_LATCO Short neurotoxin II precursor >... [ score 45 E 4e-04 ] [ range 22 .. 82 ]
+sequence
+RRCYNQQS---SQPKTCPPGENSCYNKQWRD----HRGSITERGCG--CPTVKPGIK-LRCCES-EDCN-
+--------*
+>P1;gi|1351327|sp|P80494|TXMA_DENPO Muscarinic toxin alpha (MT-alpha... [ score 45 E 6e-04 ] [ range 2 .. 65 ]
+sequence
+-TCVTSKS---ITTENCPDGQNLCFKKWY---YLNHRYSDITWGCAATCPKPTNVRETIHCCET-DKCN-
+--------*
+>P1;gi|432567|gb|AAB28452.1| m1-toxin=m1 muscarinic receptor specifi... [ score 44 E 8e-04 ] [ range 2 .. 64 ]
+sequence
+-TCVKSNS---ITSEDCPDGQNLCFKRHW---YISPRMYDFTRGCAATCPKAE--YRDINCCGT-DKCN-
+--------*
+>P1;gi|25453176|sp|Q9YGI8|NXH4_BUNMU Short neurotoxin homolog NTL4 p... [ score 44 E 8e-04 ] [ range 22 .. 85 ]
+sequence
+RKCLIKYS---ESSKTCPSGQLLC-LKKWEIGNPS--GKEVKRGCVATCPKPKKN-EIIQCCAK-DKCN-
+--------*
+>P1;gi|5102575|emb|CAB45156.1| neurotoxin-like protein [Naja naja] [ score 44 E 0.001 ] [ range 22 .. 85 ]
+sequence
+RLCLSDYS---IFSETCPDGHNFCFKKFPKGI---TRLPWVIRGCAATCPKAEARV-YVDCCAR-DKCN-
+--------*
+>P1;gi|39980632|gb|AAR33036.1| atratoxin b [Naja atra] [ score 101 E 6e-21 ] [ range 13 .. 73 ]
+sequence
+LECHNQQSSQTPTTKTCS-GETNCYKKWWSDH----RGTIIERGCG--CPKVKPG-VNLNCCTT-DRCNN
+--------*
+>P1;gi|128964|sp|P01425|NXS1_HEMHA Short neurotoxin 1 (Toxin II) >gi... [ score 97 E 9e-20 ] [ range 1 .. 61 ]
+sequence
+LECHNQQSSQPPTTKSCP-GDTNCYNKRWRDH----RGTIIERGCG--CPTVKPG-INLKCCTT-DRCNN
+--------*
+>P1;gi|69462|pir||N1NJ2P short neurotoxin 1, minor component - Phili... [ score 97 E 1e-19 ] [ range 1 .. 61 ]
+sequence
+LECHNQQSSQAPTTKTCS-GETNCYKKWWSDH----RGTIIERGCG--CPKVKPG-VKLNCCTT-DRCNN
+--------*
+>P1;gi|128971|sp|P01424|NXS1_NAJME Short neurotoxin 1 (Neurotoxin D)... [ score 97 E 1e-19 ] [ range 1 .. 61 ]
+sequence
+MECHNQQSSQPPTTKTCP-GETNCYKKQWSDH----RGTIIERGCG--CPSVKKG-VKINCCTT-DRCNN
+--------*
+>P1;gi|128983|sp|P25675|NXS2_NAJHH Short neurotoxin 2 (Toxin CM-10a) [ score 96 E 2e-19 ] [ range 1 .. 60 ]
+sequence
+MICHNQQSSQPPTIKTCP-GETNCYKKQWRDH----RGTIIERGCG--CPSVKKG-VGIYCCKT-DKCN-
+--------*
+>P1;gi|128969|sp|P01429|NXS1_NAJHA Short neurotoxin 1 (Neurotoxin al... [ score 95 E 3e-19 ] [ range 1 .. 61 ]
+sequence
+LECHNQQSSQPPTTKTCP-GETNCYKKRWRDH----RGSITERGCG--CPSVKKG-IEINCCTT-DKCNN
+--------*
+>P1;gi|128984|sp|P01423|NXS2_NAJNI Short neurotoxin 2 (Neurotoxin be... [ score 94 E 9e-19 ] [ range 1 .. 60 ]
+sequence
+MICHNQQSSQRPTIKTCP-GETNCYKKRWRDH----RGTIIERGCG--CPSVKKG-VGIYCCKT-DKCN-
+--------*
+>P1;gi|128982|sp|P01422|NXS2_NAJHA Short neurotoxin 2 (Toxin CM-14) ... [ score 93 E 1e-18 ] [ range 1 .. 60 ]
+sequence
+MICHNQQSSQPPTIKTCP-GETNCYKKRWRDH----RGTIIERGCG--CPSVKKG-VGIYCCKT-NKCN-
+--------*
+>P1;gi|28380028|sp|P59275|CBTB_NAJKA Cobrotoxin b (CBT b) (Short neu... [ score 93 E 2e-18 ] [ range 1 .. 61 ]
+sequence
+LECHNQQSSQTPTTKTCS-GETNCYKKWWSDH----RGTIIERGCG--CPKVKPG-VNLNCCRR-DRCNN
+--------*
+>P1;gi|128980|sp|P01433|NXS2_HEMHA Short neurotoxin 2 (Toxin IV) >gi... [ score 91 E 1e-17 ] [ range 1 .. 60 ]
+sequence
+LECHNQQSSQTPTTQTCP-GETNCYKKQWSDH----RGSRTERGCG--CPTVKPG-IKLKCCTT-DRCN-
+--------*
+>P1;gi|128986|sp|P01420|NXS3_NAJHA Short neurotoxin 3 (Toxin CM-10) ... [ score 90 E 1e-17 ] [ range 1 .. 60 ]
+sequence
+MICYKQQSLQFPITTVCP-GEKNCYKKQWSGH----RGTIIERGCG--CPSVKKG-IEINCCTT-DKCN-
+--------*
+>P1;gi|128977|sp|P19959|NXS2_AIPLA Short neurotoxin B precursor >gi|... [ score 88 E 5e-17 ] [ range 22 .. 81 ]
+sequence
+LTCCNQQSSQPKTTTDC--ADNSCYKMTWRDH----RGTRIERGCG--CPQVKPG-IKLECCKT-NECNN
+--------*
+>P1;gi|229257|prf||671059A neurotoxin [ score 88 E 7e-17 ] [ range 1 .. 61 ]
+sequence
+LECHNTTSSEEEPPKTCP-GETNCYKKVWRDH----RGTIIERGCG--CPTGKPV-IKLNCCTT-DKCNN
+--------*
+>P1;gi|128988|sp|P19960|NXS4_AIPLA Short neurotoxin D precursor >gi|... [ score 87 E 1e-16 ] [ range 22 .. 81 ]
+sequence
+LTCCNQQSSQPKTTTDCA-DD-SCYKKTWKDH----RGTRIERGCG--CPQVKPG-IKLECCKT-NECNN
+--------*
+>P1;gi|1352609|sp|P80548|NXS1_MICNI Short neurotoxin 1 (Neurotoxin a... [ score 87 E 1e-16 ] [ range 1 .. 59 ]
+sequence
+MICHNQQSSQPPTIKTCS--EGQCYKKTWRDH----RGTISERGCG--CPTVKPG-IHISCCAS-DKCN-
+--------*
+>P1;gi|18000267|gb|AAL54895.1| short neurotoxin 2 precursor [Lapemis... [ score 86 E 2e-16 ] [ range 22 .. 81 ]
+sequence
+MTCCNQQSSQPKTTTNC--AESSCYKKTWSDH----RGTRIERGCG--CPQVKHG-IKLECCHT-NECNN
+--------*
+>P1;gi|128966|sp|P01437|NXS1_HYDLA Short neurotoxin 1 (Neurotoxin A)... [ score 82 E 4e-15 ] [ range 1 .. 60 ]
+sequence
+MTCCNQQSSQPKTTTNC--AESSCYKKTWRDF----RGTRIERGCG--CPQVKPG-IKLECCHT-NECNN
+--------*
+>P1;gi|128958|sp|P01438|NXS1_ASTST Short neurotoxin 1 (Toxin A) >gi|... [ score 81 E 5e-15 ] [ range 1 .. 60 ]
+sequence
+MTCCNQQSSQPKTTTNCA-G-NSCYKKTWSDH----RGTIIERGCG--CPQVKSG-IKLECCHT-NECNN
+--------*
+>P1;gi|136559|sp|P01412|TXW1_OPHHA Weak toxin DE-1 >gi|69444|pir||V7... [ score 74 E 7e-13 ] [ range 1 .. 60 ]
+sequence
+LICFNQETYRPETTTTCP-DGENCYSTFWHND----GHVKIERGCG--CPRVNPP-ISI-CCKT-DKCNN
+--------*
+>P1;gi|128959|sp|P10808|NXS1_BUNFA Short neurotoxin 1 (Toxin V-II-1)... [ score 71 E 7e-12 ] [ range 2 .. 63 ]
+sequence
+-ICLNQQQSTPPTNGQCY-IKTDCQNKTWNTH----RGSRTDRGCG--CPKVKPG-INLRCCKT-DKCN-
+--------*
+>P1;gi|17368232|sp|P58370|NXH8_MICCO Alpha-neurotoxin homolog 8 prec... [ score 59 E 3e-08 ] [ range 30 .. 86 ]
+sequence
+--------------KTCP-GETICYKTFWNTH----RGLRIDRGCA--CPTVKPG-VNIICCKT-DNCN-
+--------*
+>P1;gi|2645541|gb|AAB87417.1| long neurotoxin isoform precursor [Naj... [ score 49 E 4e-05 ] [ range 31 .. 84 ]
+sequence
+------------TSTDCP-NGHVCYTKTWCDS----RGRRVELGCA--CPTVKPG-VDIQCCST-DNCN-
+--------*
+>P1;gi|128929|sp|P25674|NXL1_NAJHH Long neurotoxin 1 (Toxin CM-5) [ score 46 E 2e-04 ] [ range 10 .. 63 ]
+sequence
+------------TSQACP-DGHVCYTKMWCDN----RGKRVDLGCA--CPTVKPG-VDIKCCST-DNCN-
+--------*
+>P1;gi|5459296|emb|CAB50692.1| snake venom [Bungarus multicinctus] [ score 46 E 2e-04 ] [ range 24 .. 87 ]
+sequence
+--CHTTATSPISAVTCPP-GENLCYRKMWCDS----RGKVVELGCA--CPSKKPY-EEVTCCST-DKCN-
+--------*
+>P1;gi|12230781|sp|Q9W727|TXML_BUNMU Muscarinic toxin-like protein p... [ score 46 E 2e-04 ] [ range 23 .. 85 ]
+sequence
+-ICYNHLSRTPETTEICP-DSYFCYKISLADG----NDVRIKRGCT--CPELRPG-KYVYCCRR-DKCN-
+--------*
+>P1;gi|128942|sp|P01388|NXL2_NAJME Long neurotoxin 2 (Neurotoxin B) ... [ score 46 E 3e-04 ] [ range 10 .. 63 ]
+sequence
+------------TSQICA-DGHVCYTKTWCDN----RGKRVDLGCA--CPTVKPG-VNIKCCST-DNCN-
+--------*
+>P1;gi|128933|sp|P01390|NXL1_NAJNI Long neurotoxin 1 (Neurotoxin alp... [ score 45 E 5e-04 ] [ range 10 .. 63 ]
+sequence
+------------TSQACP-DGHVCYTKMWCDN----RGKRVDLGCA--CPKVKPG-VNIKCCSR-DNCN-
+--------*
+>P1;gi|128940|sp|P01397|NXL2_DENPO Long neurotoxin 2 (Neurotoxin del... [ score 44 E 7e-04 ] [ range 2 .. 64 ]
+sequence
+-TCNKTPSDQSKICP--P-GENICYTKTWCDQ----RGKIVELGCA--CPKVKAG-VEIKCCST-DNCN-
+--------*
+>P1;gi|128930|sp|P01391|NXL1_NAJKA Long neurotoxin 1 (Neurotoxin 3) ... [ score 44 E 0.001 ] [ range 10 .. 63 ]
+sequence
+------------TSKDCP-NGHVCYTKTWCDI----RGKRVDLGCA--CPTVKTG-VDIQCCST-DNCN-
+--------*
+>P1;gi|17368232|sp|P58370|NXH8_MICCO Alpha-neurotoxin homolog 8 prec... [ score 71 E 9e-12 ] [ range 22 .. 86 ]
+sequence
+LECKICNFKTCPTDECAS-GETICYKTFWNTH----RGLRIDRGCA--CPTVKPG-VNIICCKT-DNCN-
+--------*
+>P1;gi|18000263|gb|AAL54893.1| long neurotoxin [Lapemis hardwickii] [ score 48 E 6e-05 ] [ range 33 .. 84 ]
+sequence
+--------------TCPP-GEKVCFVKSWCDS----RGKRIEMGCA--CPTVKDG-IDITCCAT-DNCN-
+--------*
+>P1;gi|128921|sp|P25670|NXL1_ASPSC Long neurotoxin 1 (Toxin S4C6) [ score 48 E 6e-05 ] [ range 12 .. 63 ]
+sequence
+--------------TCAA-GENICYLKAWCDS----RGKKLEFGCA--CPTVKPG-VDISCCDT-DNCN-
+--------*
+>P1;gi|26397290|sp|P82662|NXL6_OPHHA Long neurotoxin OH-6A/OH-6B (Al... [ score 46 E 3e-04 ] [ range 1 .. 63 ]
+sequence
+LICFI---SSHDSVTCAP-GENVCFLKSWCDS----RGKKLSFGCA--CPKVNPG-IDIECCST-DNCN-
+--------*
+>P1;gi|4200127|emb|CAA06886.1| neurotoxin-like protein [Bungarus mul... [ score 46 E 3e-04 ] [ range 22 .. 87 ]
+sequence
+MKCKICHFDTCELKVCAS-GEKYCFKESWREA----RGTRIERGCA--CPKGSVG-LDVLCCTT-DDCN-
+--------*
+>P1;gi|69429|pir||N2EP2D long neurotoxin 2 - black mamba (tentative ... [ score 45 E 4e-04 ] [ range 7 .. 64 ]
+sequence
+---FSDQSKICP-----P-GENICYTKTWCDQ----RGKIVELGCA--CPKVKAG-VEIKCCST-DNCN-
+--------*
+>P1;gi|128930|sp|P01391|NXL1_NAJKA Long neurotoxin 1 (Neurotoxin 3) ... [ score 44 E 9e-04 ] [ range 10 .. 63 ]
+sequence
+------------TSKDCP-NGHVCYTKTWCDA----RGKRVDLGCA--CPTVKTG-VDIQCCST-DNCN-
+--------*
+>P1;gi|3929014|gb|AAC83997.1| alpha-bungarotoxin isoform R15 [Bungar... [ score 44 E 0.001 ] [ range 3 .. 66 ]
+sequence
+--CHTTATSPISAVTCPP-GENLCYRKMWCDS----RGKVVELGCA--CPSEKPY-EEVSCCST-DKCN-
+--------*
+>P1;gi|3860085|gb|AAD08813.1| post synaptic alpha neurotoxin precurs... [ score 97 E 9e-20 ] [ range 22 .. 83 ]
+sequence
+LECHNQQSSQAPTTTGCSGGETNCYKKSWRDH----RGYRIERGCG--CPSVKKG-IEINCCTT-DRCNN
+--------*
+>P1;gi|464291|sp|P34076|NXS1_BOUCH Short neurotoxin 1 >gi|104350|pir... [ score 94 E 6e-19 ] [ range 1 .. 62 ]
+sequence
+MECHNQQSSQPPTTTHCSGGETNCYEKRWHDH----RGTIIERGCG--CPTVKPG-VKLNCCTT-DKCNN
+--------*
+>P1;gi|28380047|sp|Q9YHU9|CBT3_NAJAT Cobrotoxin III (CBT III) >gi|41... [ score 94 E 7e-19 ] [ range 1 .. 62 ]
+sequence
+MECHNQQSSQTPTTTGCSGGETNCYKKWWSDH----RGTIIERGCG--CPKVKPG-VNLNCCTT-DRCNN
+--------*
+>P1;gi|12002778|gb|AAG43384.1| short chain neurotoxin precursor [Naj... [ score 93 E 2e-18 ] [ range 22 .. 83 ]
+sequence
+LECHNQQSSQTPTTTGCSGGETNCYKKRWRDH----RGYRTERGCG--CPIVKNG-IESNCCTT-DRCNN
+--------*
+>P1;gi|128972|sp|P01431|NXS1_NAJMO Short neurotoxin 1 (Neurotoxin I)... [ score 92 E 3e-18 ] [ range 1 .. 62 ]
+sequence
+LECHNQQSSEPPTTTRCSGGETNCYKKRWRDH----RGYRTERGCG--CPTVKKG-IELNCCTT-DRCNN
+--------*
+>P1;gi|128956|sp|P01434|NXS1_ACAAN Short neurotoxin 1 (Toxin Aa c) >... [ score 89 E 3e-17 ] [ range 1 .. 62 ]
+sequence
+MQCCNQQSSQPKTTTTCPGGVSSCYKKTWRDH----RGTIIERGCG--CPRVKPG-IRLICCKT-DECNN
+--------*
+>P1;gi|13959416|sp|P82849|CBT2_NAJKA Cobrotoxin II (CBT II) (Short n... [ score 88 E 6e-17 ] [ range 1 .. 62 ]
+sequence
+LECHNQQSSQTPTTTGCSGGENNCYKKEWRDN----RGYRTERGCG--CPSVKKG-IGINCCTT-DRCNN
+--------*
+>P1;gi|128987|sp|P01432|NXS3_NAJMO Short neurotoxin 3 (Neurotoxin II... [ score 87 E 9e-17 ] [ range 1 .. 62 ]
+sequence
+LNCHNQMSAQPPTTTRCSRWETNCYKKRWRDH----RGYKTERGCG--CPTVKKG-IQLHCCTS-DNCNN
+--------*
+>P1;gi|4867886|emb|CAB43097.1| cobrotoxin homolog [Naja atra] [ score 85 E 4e-16 ] [ range 22 .. 82 ]
+sequence
+LECHNQQSSQTPTTTGCSGGETNCYKKRWRYH----RGYRTERGCG--CPSVKNG-IEINCCTT-G-CNN
+--------*
+>P1;gi|128976|sp|P25497|NXS1_PSEAU Short neurotoxin 1 (Neurotoxin PA A) [ score 84 E 9e-16 ] [ range 1 .. 62 ]
+sequence
+MTCCNQQSSQPKTTTICAGGESSCYKKTWSDH----RGSRTERGCG--CPHVKPG-IKLTCCKT-DECNN
+--------*
+>P1;gi|128959|sp|P10808|NXS1_BUNFA Short neurotoxin 1 (Toxin V-II-1)... [ score 67 E 7e-11 ] [ range 3 .. 63 ]
+sequence
+--CLNQQQSTPQPTNGQCYIKTDCQNKTWNTH----RGSRTDRGCG--CPKVKPG-INLRCCKT-DKCN-
+--------*
+>P1;gi|136559|sp|P01412|TXW1_OPHHA Weak toxin DE-1 >gi|69444|pir||V7... [ score 57 E 2e-07 ] [ range 1 .. 60 ]
+sequence
+LICFNQETYRPETTTTCPDGE-NCYSTFWHND----GHVKIERGCG--CPRVNPP-ISI-CCKT-DKCNN
+--------*
+>P1;gi|44889034|sp|P81783|CADO_BUNCA Candoxin precursor >gi|34368937... [ score 49 E 3e-05 ] [ range 22 .. 87 ]
+sequence
+MKCCNFDTCRAGELKVCASGEKYCFKESWREA----RGTRIERGCA--CPKGSYG-LYVLCCTT-DDCN-
+--------*
+>P1;gi|128944|sp|P01386|NXL2_OPHHA Long neurotoxin 2 (Neurotoxin B) ... [ score 48 E 5e-05 ] [ range 6 .. 64 ]
+sequence
+--------TPDATSQTCPDGQDICYTKTWCDS----RGKRIDLGCA--CPKVKPG-VDIKCCST-DNCN-
+--------*
+>P1;gi|2645541|gb|AAB87417.1| long neurotoxin isoform precursor [Naj... [ score 44 E 7e-04 ] [ range 27 .. 84 ]
+sequence
+--------TPDVTSTDCPNGHV-CYTKTWCDS----RGRRVELGCA--CPTVKPG-VDIQCCST-DNCN-
+--------*
+>P1;gi|128936|sp|P01387|NXL1_OPHHA Long neurotoxin 1 (Neurotoxin A) ... [ score 44 E 0.001 ] [ range 13 .. 64 ]
+sequence
+---------------TCPAGQDICYTETWCDS----RGKRVDLGCA--CPIVKPG-VEIKCCST-DNCN-
+--------*
+>P1;gi|85969|pir||S06931 short neurotoxin 1b precursor [validated] -... [ score 102 E 3e-21 ] [ range 22 .. 83 ]
+sequence
+RICFNHQSSQPQTTKTCSPGESSCYHKQWSDF----RGTIIERGCG--CPTVKPG-IKLSCCES-EVCNN
+--------*
+>P1;gi|4519826|dbj|BAA75757.1| short chain neurotoxin [Laticauda col... [ score 101 E 4e-21 ] [ range 22 .. 83 ]
+sequence
+RRCYNQQSSQPKTTKSCPPGENSCYNKQWRDH----RGSITERGCG--CPTVKPG-IKLRCCES-EDCNN
+--------*
+>P1;gi|4519808|dbj|BAA75748.1| short chain neurotoxin [Laticauda sem... [ score 101 E 5e-21 ] [ range 22 .. 83 ]
+sequence
+RRCFNQQSSEPQTNKSCPPGENSCYRKQWRDH----RGTIIERGCG--CPTVKPG-IKLRCCES-EDCNN
+--------*
+>P1;gi|4519868|dbj|BAA75778.1| short chain neurotoxin [Laticauda lat... [ score 99 E 2e-20 ] [ range 22 .. 83 ]
+sequence
+RRCFNHPSSQPQTNKSCPPGENSCYNKQWRDH----RGTIIERGCG--CPTVKPG-IKLTCCQS-EDCNN
+--------*
+>P1;gi|4519866|dbj|BAA75777.1| short chain neurotoxin [Laticauda lat... [ score 99 E 2e-20 ] [ range 22 .. 83 ]
+sequence
+RRCFNQQSSEPQTNKSCPPGENSCYNKQWRDH----RGTIIERGCG--CPQVKSG-IKLTCCQS-DDCNN
+--------*
+>P1;gi|42560534|sp|P10459|NXSB_LATLA Short neurotoxin B precursor >g... [ score 97 E 1e-19 ] [ range 22 .. 83 ]
+sequence
+RRCFNHPSSQPQTNKSCPPGENSCYNKQWRDH----RGTITERGCG--CPQVKSG-IKLTCCQS-DDCNN
+--------*
+>P1;gi|128990|sp|P25495|NXSA_LATCR Short neurotoxin A [ score 96 E 2e-19 ] [ range 1 .. 62 ]
+sequence
+RRCFNHPSSQPQTNKSCPPGENSCYNKQWRDH----RGTIIERGCG--CPTVKPG-IKLRCCQS-DDCNN
+--------*
+>P1;gi|128991|sp|P25496|NXSB_LATCR Short neurotoxin B [ score 94 E 6e-19 ] [ range 1 .. 62 ]
+sequence
+RRCFNHPSSQPQTNKSCPPGENSCYNKQWRDH----RGTIIERGCG--CPQVKSG-IKLRCCQS-DDCNN
+--------*
+>P1;gi|464290|sp|P34075|NXS1_BOUAN Short neurotoxin 1 >gi|104349|pir... [ score 90 E 2e-17 ] [ range 1 .. 61 ]
+sequence
+KICYNQPSSQHPTTKAC-PGEKNCYRKQWSDH----RGTIIERGCG--CPTVKPG-VKLHCCTT-EKCNN
+--------*
+>P1;gi|128960|sp|P01417|NXS1_DENJA Short neurotoxin 1 >gi|69449|pir|... [ score 89 E 4e-17 ] [ range 1 .. 60 ]
+sequence
+RICYNHQSTTPATTKSC--GENSCYKKTWSDH----RGTIIERGCG--CPKVKQG-IHLHCCQS-DKCNN
+--------*
+>P1;gi|128962|sp|P01418|NXS1_DENVI Short neurotoxin 1 (Neurotoxin 4.... [ score 88 E 6e-17 ] [ range 1 .. 60 ]
+sequence
+RICYNHQSTTPATTKSC--GENSCYKKTWSDH----RGTIIERGCG--CPKVKRG-VHLHCCQS-DKCNN
+--------*
+>P1;gi|128959|sp|P10808|NXS1_BUNFA Short neurotoxin 1 (Toxin V-II-1)... [ score 73 E 2e-12 ] [ range 1 .. 63 ]
+sequence
+RICLNQQQSTPEDQPTNGQCKTDCQNKTWNTH----RGSRTDRGCG--CPKVKPG-INLRCCKT-DKCN-
+--------*
+>P1;gi|18000263|gb|AAL54893.1| long neurotoxin [Lapemis hardwickii] [ score 54 E 9e-07 ] [ range 29 .. 84 ]
+sequence
+-----------KRSQTCPPGEKVCFVKSWCDS----RGKRIEMGCA--CPTVKDG-IDITCCAT-DNCN-
+--------*
+>P1;gi|12230781|sp|Q9W727|TXML_BUNMU Muscarinic toxin-like protein p... [ score 52 E 3e-06 ] [ range 23 .. 85 ]
+sequence
+-ICYNHLSRTPETTEICPDSWYFCYKISLADG----NDVRIKRGCT--CPELRPG-KYVYCCRR-DKCN-
+--------*
+>P1;gi|128941|sp|P01395|NXL2_DENVI Long neurotoxin 2 (Toxin I/V) >gi... [ score 52 E 4e-06 ] [ range 1 .. 64 ]
+sequence
+RTCYKTPSVKPET---CPHGENICYTETWCDQ----RGKRVELGCA--CPKVKAG-VGIKCCST-DNCN-
+--------*
+>P1;gi|4200127|emb|CAA06886.1| neurotoxin-like protein [Bungarus mul... [ score 49 E 2e-05 ] [ range 25 .. 87 ]
+sequence
+KICH-FDTCRAGELKVCASGEKYCFKESWREA----RGTRIERGCA--CPKGSVG-LDVLCCTT-DDCN-
+--------*
+>P1;gi|128937|sp|P01381|NXL2_ASTST Long neurotoxin 2 (Toxin C) >gi|6... [ score 49 E 3e-05 ] [ range 11 .. 63 ]
+sequence
+--------------QTCPPGENVCFVKTWCDT----RGERIVMGCA--CPTAKSG-VHIACCST-DNCN-
+--------*
+>P1;gi|128922|sp|P01380|NXL1_ASTST Long neurotoxin 1 (Toxin B) >gi|6... [ score 48 E 5e-05 ] [ range 11 .. 63 ]
+sequence
+--------------QTCPPGENVCFVKTWCDT----RGERIIMGCA--CPTAKSG-VHIACCST-DNCN-
+--------*
+>P1;gi|12230756|sp|P82464|TXM3_NAJKA Muscarinic toxin-like protein 3... [ score 47 E 1e-04 ] [ range 2 .. 64 ]
+sequence
+-ICYNHLTRTSETTEICPDSWYFCYKISLADG----NDVRIKRGCT--CPELRPG-IYVYCCRR-DKCN-
+--------*
+>P1;gi|5230714|gb|AAD40974.1| long neurotoxin precursor [Pseudonaja ... [ score 46 E 3e-04 ] [ range 33 .. 86 ]
+sequence
+--------------KPCPPGQEVCYTKTWCDI----RGKRVDLGCA--CPTPKKG-IDIICCST-DDCN-
+--------*
+>P1;gi|128951|sp|P80156|NXL4_OPHHA Long neurotoxin 4 (Alpha-neurotox... [ score 44 E 7e-04 ] [ range 15 .. 65 ]
+sequence
+----------------CPPGQDLCYMKTWCDT----RGRVIELGCT--CPTVKPH-EQITCCST-DNCN-
+--------*
+>P1;gi|136518|sp|P01413|TX51_DENJA Toxin S5C1 [ score 44 E 0.001 ] [ range 1 .. 60 ]
+sequence
+RICYNHLGTKPPTTE-CTQ-EDSCYKNIWRNI----TFDNIRRGCG--CFTPRGD-MGPYCCES-DKCN-
+--------*
+>P1;gi|136518|sp|P01413|TX51_DENJA Toxin S5C1 [ score 71 E 5e-12 ] [ range 1 .. 60 ]
+sequence
+RICYNHLGTKPPTTECTQ--EDSCYKNIWRNI----TFDNIRRGCG--CFTPRGD-MGPYCCES-DKCN-
+--------*
+>P1;gi|136533|sp|P25681|TXAC_DENPO Acetylcholinesterase toxin C >gi|... [ score 90 E 9e-18 ] [ range 1 .. 61 ]
+sequence
+TICYSHTTTSRAILKDCGE--NSCYRKSRRHPPK----MVLGRGCG--CPPGDDY-LEVKCCTSPDKCNY
+--------*
+>P1;gi|7546568|pdb|1QM7|A Chain A, X-Ray Structure Of A Three-Finger... [ score 72 E 3e-12 ] [ range 1 .. 61 ]
+sequence
+TMCYSHTTTSRAILTNCGE--TNCYKKSRRHPPK----MVLGRGCG--CPTVAPG-IKLNCCTT-DKCNY
+--------*
+>P1;gi|4519868|dbj|BAA75778.1| short chain neurotoxin [Laticauda lat... [ score 58 E 4e-08 ] [ range 24 .. 80 ]
+sequence
+--CFNHPSSQPQTNKSCGE--NSCYNKQWRDHRG----TIIERGCG--CPTVKPG-IKLTCCQSED----
+--------*
+>P1;gi|128995|sp|P10460|NXSC_LATLA Short neurotoxin C >gi|85968|pir|... [ score 58 E 4e-08 ] [ range 3 .. 59 ]
+sequence
+--CFNQQSSQPQTNKSCGE--NSCYRKQWRDHRG----TIIERGCG--CPTVKPG-VKLRCCQSED----
+--------*
+>P1;gi|4519808|dbj|BAA75748.1| short chain neurotoxin [Laticauda sem... [ score 58 E 5e-08 ] [ range 24 .. 80 ]
+sequence
+--CFNQQSSEPQTNKSCGE--NSCYRKQWRDHRG----TIIERGCG--CPTVKPG-IKLRCCESED----
+--------*
+>P1;gi|4519848|dbj|BAA75768.1| short chain neurotoxin [Laticauda col... [ score 58 E 7e-08 ] [ range 24 .. 80 ]
+sequence
+--CYNQQSSQPKTTKSCGE--NSCYNKQWRDHRG----SITERGCG--CPKVKPG-IKLRCCESED----
+--------*
+>P1;gi|809314|pdb|1NXB|  Neurotoxin b (Probably Identical To Erabuto... [ score 51 E 7e-06 ] [ range 2 .. 57 ]
+sequence
+-ICFNQHSSQPQTTKTCGE--SSCYHKQWSDFRG----TIIERGCG--CPTVKPG-IKLSCCES------
+--------*
+>P1;gi|6650221|gb|AAF21774.1| neurotoxin preprotein precursor [Naja ... [ score 50 E 1e-05 ] [ range 24 .. 82 ]
+sequence
+--CHNQQSSQTPTTTGCGE--TNCYKKRWRDHRG----YRTERGCG--CPSVKNG-IEINCCTT-DRCN-
+--------*
+>P1;gi|45477341|sp|Q9PS08|TXDA_DENAN Dendrotoxin A (DTX-A) >gi|38618... [ score 44 E 8e-04 ] [ range 1 .. 30 ]
+sequence
+TMCYSHTTTSRAILTNCGE--NSCYRKSRVHP--------------------------------------
+--------*

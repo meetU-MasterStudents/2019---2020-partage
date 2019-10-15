@@ -1,0 +1,1134 @@
+>P1;1lqc
+structureX:1lqc:   1 : :  55 : :lactose operon repressor:Escherichia coli: -1: -1
+MKPVTLYDVAEYAGVSYQTVSRVVNQAS---HVSAKTREKVEAAMAELNYIPNRVAQQ-------*
+>P1;1qpza
+structureX:1qpz:   2 :A:  58 :A:purine nucleotide synthesis repressor:Escherichia coli: 2.50: 18.3
+---ATIKDVAKRANVSTTTVSHVINKTR---FVAEETRNAVWAAIKELHYS--PSAVARSLKVNH*
+>P1;1uxd
+structureX:1uxd:   1 : :  59 : :fructose repressor (catabolite repressor-activator):Escherichia coli: -1: -1
+---MKLDEIARLAGVSRTTASYVINGKAKQYRVSDKTVEKVMAVVREHNYH--PNAVAAGLR-LQ*
+>P1;gi|23003200|ref|ZP_00046868.1| COG1609: Transcriptional regulato... [ score 95 E 3e-19 ] [ range 1 .. 54 ]
+sequence
+MTMVKLTDVAAKAGCSVTTVSRVINNYG---YISQKTRKKVHEAMRELNYQPNSVAR--------*
+>P1;gi|44316793|gb|EAI41297.1| unknown [environmental sequence] [ score 95 E 4e-19 ] [ range 2 .. 53 ]
+sequence
+--KVTIHDVAAKAGVSIKTVSRVMNNEP---SVKQATIDKVNQAMQELHYQPNAAAR--------*
+>P1;gi|20806727|ref|NP_621898.1| Transcriptional regulator [Thermoan... [ score 95 E 4e-19 ] [ range 3 .. 54 ]
+sequence
+---VTIKDIARLANVSVTTVSRVINNKP---GVSEETRQKILKLVKELGYQPNAIAR--------*
+>P1;gi|16080026|ref|NP_390852.1| transcriptional regulator (Lacl fam... [ score 95 E 5e-19 ] [ range 1 .. 54 ]
+sequence
+MSNITIYDVAREANVSMATVSRVVNGNP---NVKPTTRKKVLEAIERLGYRPNAVAR--------*
+>P1;gi|15901927|ref|NP_346531.1| maltose operon transcriptional repr... [ score 94 E 9e-19 ] [ range 2 .. 53 ]
+sequence
+--PVTIKDVAKAAGVSPSTVTRVIQNKS---TISDETKKRVRKAMKELNYHPNLNAR--------*
+>P1;gi|28210579|ref|NP_781523.1| transcriptional regulator of the la... [ score 94 E 1e-18 ] [ range 2 .. 53 ]
+sequence
+--MPTINDVAREAGVSISTVSRVLNNNY---PVKEETRKRIEEAIEKLNYKPNMLAR--------*
+>P1;gi|15644599|ref|NP_229652.1| transcriptional regulator, LacI fam... [ score 94 E 1e-18 ] [ range 1 .. 52 ]
+sequence
+--MPTIEDVAKLAGVSIATVSRVINGSG---YVSEKTRYKVWKAIEELGYKPEISAK--------*
+>P1;gi|16804879|ref|NP_466364.1| similar to transcriptional regulato... [ score 93 E 1e-18 ] [ range 4 .. 53 ]
+sequence
+----TIYDIAKHAGVSKSTVSRVLNNQA---NISEESRKKVLAAIDQLNYQPSKLAR--------*
+>P1;gi|1173387|sp|P43472|SCRR_PEDPE Sucrose operon repressor (Scr op... [ score 93 E 1e-18 ] [ range 1 .. 53 ]
+sequence
+MKP-KLNDVAKLAGVSATTVSRVINNHG---YLSSQTKEKVFAAMRELHYQPNNMAR--------*
+>P1;gi|30264750|ref|NP_847127.1| catabolite control protein A [Bacil... [ score 93 E 1e-18 ] [ range 3 .. 53 ]
+sequence
+---VTIYDVAREANVSMATVSRVVNGNP---NVKPTTRKKVLEAIDRLGYRPNAVAR--------*
+>P1;gi|15615803|ref|NP_244107.1| transcriptional regulator involved ... [ score 93 E 1e-18 ] [ range 4 .. 53 ]
+sequence
+----TIYDVAREAGVSMATVSRVVNGNP---NVKPATRKKVLEAIERLGYRPNAVAR--------*
+>P1;gi|20807285|ref|NP_622456.1| Transcriptional regulator [Thermoan... [ score 93 E 2e-18 ] [ range 1 .. 52 ]
+sequence
+--MATIDDVAKLAGVSIATVSRVFNNSP---WVSEKTREKVLKAAEELGYKPSMPAR--------*
+>P1;gi|16802032|ref|NP_472300.1| similar to transcriptional regulato... [ score 93 E 2e-18 ] [ range 3 .. 53 ]
+sequence
+---ATIYDIAKHAGVSKSTVSRVLNNQA---NISKESRQKVLEAIDELNYQPSKLAR--------*
+>P1;gi|30577812|emb|CAD90945.1| repressor [Lactobacillus fermentum] [ score 93 E 2e-18 ] [ range 5 .. 58 ]
+sequence
+-RQVKLEDVAALAGVSKTTVSRVLNNRG---YLSEATKQRVHEAMEQLHYCPNAIARQ-------*
+>P1;gi|15806884|ref|NP_295607.1| transcriptional regulator [Deinococ... [ score 92 E 3e-18 ] [ range 56 .. 110 ]
+sequence
+MRPPTIQDVARAAGVGVGTVSRVLNNHP---SVKPSTREAVLRSIAELDYTPNPHARR-------*
+>P1;gi|45442628|ref|NP_994167.1| galactose operon repressor [Yersini... [ score 92 E 3e-18 ] [ range 54 .. 106 ]
+sequence
+-KMATIKDVAKLAGVSVATVSRVINHSP---KASEASRVAVCKAMEQLQYHPNANAR--------*
+>P1;gi|20807279|ref|NP_622450.1| Transcriptional regulator [Thermoan... [ score 92 E 3e-18 ] [ range 3 .. 53 ]
+sequence
+---VTIKDIAKYAGVSVTTVSRALNGYP---DVSEETRAKIKKIAEELNYTPNSIAR--------*
+>P1;gi|43653173|gb|EAE81441.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 1 .. 52 ]
+sequence
+--MATIYEVSKLAGVSLATVSRVMNNNA---NVSDATRKKVTLAMEELGYRPNSIAQ--------*
+>P1;gi|23099681|ref|NP_693147.1| transcriptional regulator [Oceanoba... [ score 91 E 4e-18 ] [ range 3 .. 53 ]
+sequence
+---VTIYDVAREANVSMATVSRVVNGNP---NVKPTTRKKVLATIEQLGYRPNAVAR--------*
+>P1;gi|25298061|pir||JC7523 catabolite control protein A - Thermoact... [ score 91 E 5e-18 ] [ range 7 .. 58 ]
+sequence
+--TITIYDVAHEAGVSMATVSRVVNGNP---NVKPATRKKVLDVIRRLGYRPNAVAR--------*
+>P1;gi|27365468|ref|NP_760996.1| Transcriptional regulator [Vibrio v... [ score 91 E 5e-18 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVARLAGVSTTTVSHVINKTR---FVAEATQEKVMKAVDELNYAPSAVAR--------*
+>P1;gi|16802079|ref|NP_463564.1| transcriptional regulator LacI fami... [ score 91 E 6e-18 ] [ range 1 .. 54 ]
+sequence
+MKKITIQEIAKLSGVSVSTVSRVLNNSP---SVSAAKRKKIQAIIDEHNYTPSVFAR--------*
+>P1;gi|18309399|ref|NP_561333.1| probable transcriptional regulator ... [ score 91 E 6e-18 ] [ range 2 .. 53 ]
+sequence
+--KVTIKDVAREANVAPSTVSRVLSDSP---KISEETKIKVNKAIKKLNYKPNAIAR--------*
+>P1;gi|15613813|ref|NP_242116.1| transcriptional regulator (LacI fam... [ score 91 E 6e-18 ] [ range 1 .. 53 ]
+sequence
+--MATIKEVAQLAGLSRTTVSRVINNHP---YVSDEKRQQVLDAMKQLGYVPNSSAQR-------*
+>P1;gi|44544736|gb|EAJ99876.1| unknown [environmental sequence] [ score 91 E 8e-18 ] [ range 2 .. 53 ]
+sequence
+--KVTINDVAKYAGVSIKTVSRVTNNEP---SVKQATIDKVNEAIKALNYQPNLAAR--------*
+>P1;gi|26248533|ref|NP_754573.1| Mgl repressor and galactose ultrain... [ score 91 E 8e-18 ] [ range 1 .. 54 ]
+sequence
+MNMITIRDVARQAGVSVATVSRVLNNST---LVSADTREAVMKAVSELDYRPNANAQ--------*
+>P1;gi|17549856|ref|NP_523196.1| PROBABLE TRANSCRIPTION REGULATOR TR... [ score 91 E 8e-18 ] [ range 10 .. 68 ]
+sequence
+MKRVTVDDVAAHAGVSIKTVSRVLNHEP---NISEKTRQKVVEAMQVLDYRPNPAARR-------*
+>P1;gi|16125221|ref|NP_419785.1| transcriptional regulator, LacI fam... [ score 91 E 9e-18 ] [ range 3 .. 52 ]
+sequence
+----TINDVAERAGVSPKTVSRVLNDHE---SVSAKTRDRVRTAMQDLGYQPSAVAR--------*
+>P1;gi|7672987|gb|AAF66688.1| sal operon transcriptional repressor S... [ score 91 E 9e-18 ] [ range 1 .. 54 ]
+sequence
+MSKPTIHDVARVAGYSIKTVSRVLNGEP---KASPATREKVMAAVAALNYSPNLSAR--------*
+>P1;gi|15641565|ref|NP_231197.1| transcriptional regulator, LacI fam... [ score 90 E 9e-18 ] [ range 10 .. 61 ]
+sequence
+--MATINDVCKLAGVSKATVSRVLNETG---QVKAQTREAVLAAMQQLGYQPNSLAQ--------*
+>P1;gi|44390965|gb|EAI94024.1| unknown [environmental sequence] [ score 90 E 1e-17 ] [ range 1 .. 52 ]
+sequence
+--MATIYDVSLLAGVSLATVSRVMNKNT---NVSEKTKQKVLAAMAELGYRPNTFAQ--------*
+>P1;gi|29376164|ref|NP_815318.1| sucrose operon repressor ScrR [Ente... [ score 90 E 1e-17 ] [ range 3 .. 53 ]
+sequence
+---VKLTDVAKLAGVSPTTVSRVINNYG---YLSQKTIDKVHQAMEELNYQPNGLAR--------*
+>P1;gi|6686565|emb|CAB65654.1| putative repressor of maltose transpo... [ score 90 E 1e-17 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVARLANVSPSTVSRVLANSP---RISEETKRRVRAALEQLNYHPNAFAR--------*
+>P1;gi|15804353|ref|NP_290392.1| regulator for rbs operon [Escherich... [ score 90 E 2e-17 ] [ range 1 .. 52 ]
+sequence
+--MATMKDVARLAGVSTSTVSHVINKDR---FVSEAITAKVEAAIKELNYAPSALAR--------*
+>P1;gi|15673630|ref|NP_267804.1| catabolite control protein A [Lacto... [ score 90 E 2e-17 ] [ range 7 .. 56 ]
+sequence
+----TIYDVARVAGVSMATVSRVVNGNA---NVKEKTRQKVLEAIAELDYRPNAVAR--------*
+>P1;gi|20808356|ref|NP_623527.1| Transcriptional regulator [Thermoan... [ score 90 E 2e-17 ] [ range 1 .. 52 ]
+sequence
+--MANIREVAKRAGVSVATVSRVLNNSD---LVSEETRERVLKAIKELNYHPNLLGR--------*
+>P1;gi|20808925|ref|NP_624096.1| Transcriptional regulator [Thermoan... [ score 90 E 2e-17 ] [ range 3 .. 57 ]
+sequence
+MRMVTIKDVAKRANVAPSTVSRVIADSP---RISKETKERVWKAMEELGYYPNAIAR--------*
+>P1;gi|23037496|ref|ZP_00069704.1| COG1609: Transcriptional regulato... [ score 90 E 2e-17 ] [ range 6 .. 58 ]
+sequence
+-KQPTIYDVSERVGVSLATVSRVVNNNG---KVKSETRQKVLKAIKELNYRPNAMAK--------*
+>P1;gi|38604814|sp|Q8CNV8|CCPA_STAEP Probable catabolite control pro... [ score 90 E 2e-17 ] [ range 2 .. 53 ]
+sequence
+--TVTIYDVAREARVSMATVSRVVNGNQ---NVKPETRNKVNEVIKRLNYRPNAVAR--------*
+>P1;gi|3023459|sp|Q56194|CCPA_STAXY Probable catabolite control prot... [ score 90 E 2e-17 ] [ range 2 .. 53 ]
+sequence
+--TVTIYDVAREARVSMATVSRVVNGNQ---NVKPETRDKVNEVIKKLNYRPNAVAR--------*
+>P1;gi|22536948|ref|NP_687799.1| sugar-binding transcriptional regul... [ score 90 E 2e-17 ] [ range 3 .. 52 ]
+sequence
+----SISDIAKKAGVAKSTVSRVINHHP---HVSDETRQKVMALITELDYIPNQLAR--------*
+>P1;gi|2668503|gb|AAC46030.1| Ccpa protein [Lactobacillus casei] >gi... [ score 89 E 2e-17 ] [ range 5 .. 56 ]
+sequence
+--TITIYDVAREANVSMATVSRVVNGNP---NVKPATRKKVLEVIERLDYRPNAVAR--------*
+>P1;gi|16126294|ref|NP_420858.1| transcriptional regulator, LacI fam... [ score 89 E 2e-17 ] [ range 4 .. 55 ]
+sequence
+--KVTIHDVARESGVSIKTVSRVLNREP---NVKADTRDRVQAAVAALHYRPNISAR--------*
+>P1;gi|22991705|ref|ZP_00036402.1| COG1609: Transcriptional regulato... [ score 89 E 2e-17 ] [ range 3 .. 53 ]
+sequence
+---ITVKDVAKKAGVATSTVSRVINDHP---SISETTKKKVRKIMDELGYVPNMTAR--------*
+>P1;gi|22970586|ref|ZP_00017645.1| hypothetical protein [Chloroflexu... [ score 89 E 2e-17 ] [ range 20 .. 71 ]
+sequence
+--KVTLKDVAARAGVSYQTVSKVLNGDM---QVAPETMERIQAAVQELGYRPNRIAR--------*
+>P1;gi|42780261|ref|NP_977508.1| sugar-binding transcriptional regul... [ score 89 E 2e-17 ] [ range 3 .. 53 ]
+sequence
+----TIEDVAKLAGLSRTTVSRVINNHP---YVSDEKKKRVQLAMKHLGFVPNSAARR-------*
+>P1;gi|30022191|ref|NP_833822.1| Ribose operon repressor [Bacillus c... [ score 89 E 3e-17 ] [ range 1 .. 52 ]
+sequence
+--MATIRDVAKLAGVSVATVSRVINEKG---YVHEDTVKQVKEAIEELRYRPNSAAK--------*
+>P1;gi|16126555|ref|NP_421119.1| transcriptional regulator, LacI fam... [ score 89 E 3e-17 ] [ range 1 .. 54 ]
+sequence
+MSSVTIYDVAAKAGVSIKTVSRVMNNEP---NVRPVMRERVLAAAGELGYSPNLSAR--------*
+>P1;gi|44382152|gb|EAI87572.1| unknown [environmental sequence] [ score 89 E 3e-17 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVARLAGVSVATVSRVINNSP---KASETSRQSVTAAMETLNYHPNANAR--------*
+>P1;gi|23100032|ref|NP_693498.1| transcriptional repressor of ribose... [ score 89 E 3e-17 ] [ range 2 .. 53 ]
+sequence
+--TVTIKDVAKEAGVSAATVSRVLNNSG---YVYEDTRKAVMEAINHLQYKPNEVAR--------*
+>P1;gi|22993301|ref|ZP_00037904.1| COG1609: Transcriptional regulato... [ score 89 E 3e-17 ] [ range 6 .. 57 ]
+sequence
+--KPTIYDIAKKANVSKSTVSRVLNNQP---NISDKAKASVLQAIKELNYEPSKIAR--------*
+>P1;gi|16802776|ref|NP_464261.1| similar to transcriptional regulato... [ score 89 E 3e-17 ] [ range 1 .. 54 ]
+sequence
+MKKTSIKDIAKLSGVSVATVSRVINDNG---RFSEETREKVLAVIKETNYQMNFSAK--------*
+>P1;gi|16125736|ref|NP_420300.1| transcriptional regulator, LacI fam... [ score 89 E 3e-17 ] [ range 23 .. 75 ]
+sequence
+-RRATINDIARLAGVSKKTVSRVINQSP---FVRDETRERIEAVIAEWGYAPDPQAR--------*
+>P1;gi|7341263|gb|AAF61223.1| catabolite control protein A [Streptoc... [ score 89 E 3e-17 ] [ range 6 .. 57 ]
+sequence
+--TITIYDVAREAGVSMATVSRVVNGNK---NVKENTRKKVLEVIDRLDYRPNAVAR--------*
+>P1;gi|15641725|ref|NP_231357.1| transcriptional regulator, LacI fam... [ score 89 E 3e-17 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVARLAGVSTTTVSHVINKTR---FVAETTQEKVMEAVKQLNYAPSAVAR--------*
+>P1;gi|15801850|ref|NP_287868.1| putative LACI-type transcriptional ... [ score 89 E 3e-17 ] [ range 1 .. 53 ]
+sequence
+MSP-TIYDIARVAGVSKSTVSRVLNKQT---NISPEAREKVLRAIEELQYQPNKLAR--------*
+>P1;gi|29375537|ref|NP_814691.1| sugar-binding transcriptional regul... [ score 88 E 4e-17 ] [ range 3 .. 53 ]
+sequence
+---ITVKDVAKKAGVATSTVSRVINDHP---SISESTKKKVRKVMDDLGYVPNMTAR--------*
+>P1;gi|28899406|ref|NP_799011.1| transcriptional regulator, LacI fam... [ score 88 E 4e-17 ] [ range 4 .. 52 ]
+sequence
+-----IKDVAELAGVNRSTVSRIINGEG---KFREETRKKVEQAMAQLNYRPSAIAR--------*
+>P1;gi|23028662|ref|ZP_00067050.1| COG1609: Transcriptional regulato... [ score 88 E 4e-17 ] [ range 1 .. 53 ]
+sequence
+MKP-TIKDVAKLAGVSFKTVSRVVNKES---TVGEALQEKVWKAINELGYKPNLSAR--------*
+>P1;gi|15614782|ref|NP_243085.1| transcriptional regulator involved ... [ score 88 E 4e-17 ] [ range 1 .. 52 ]
+sequence
+MKP-TIYDVAKEAGVSIATVSKVINHTG---NMRPATRLKVKQAMERLNYRPNLMA---------*
+>P1;gi|21241484|ref|NP_641066.1| transcriptional regulator lacI fami... [ score 88 E 4e-17 ] [ range 1 .. 54 ]
+sequence
+MRRPTIKDVAERAKVSLKTVSRVINNEP---SVMQATRARVLRAIADLDYEPDPSAR--------*
+>P1;gi|44274684|gb|EAI13034.1| unknown [environmental sequence] [ score 88 E 4e-17 ] [ range 4 .. 54 ]
+sequence
+---ATIKDVSRLANVSISTVSRVINNTA---QVAPEKREAVMAAMKELNFRPNSFAQ--------*
+>P1;gi|20806985|ref|NP_622156.1| Transcriptional regulator [Thermoan... [ score 88 E 4e-17 ] [ range 3 .. 53 ]
+sequence
+---ATIKDVAREAKVSIATVSRVLNNSA---VVTEETRQRVLEAIKKTGYKPNALAR--------*
+>P1;gi|1184967|gb|AAC31628.1| ScrR [Streptococcus mutans] [ score 88 E 5e-17 ] [ range 5 .. 53 ]
+sequence
+-----LTDVAKLAGVSPTTVSRVINRKG---YLSEKTITKVQAAMKTLGYKPNNLAR--------*
+>P1;gi|22127110|ref|NP_670533.1| transcriptional repressor of the la... [ score 88 E 5e-17 ] [ range 29 .. 82 ]
+sequence
+-KSTTLEDVARHAGVSYQTVSRVLNKSA---KVSEATRRKVEQSIELLRYVPNRLAQQ-------*
+>P1;gi|20807244|ref|NP_622415.1| Transcriptional regulator [Thermoan... [ score 88 E 5e-17 ] [ range 1 .. 58 ]
+sequence
+MKKPTIKDVAEYAGVSIKTVSRVINDSS---EVTETTKKKVLDAIEKLGYRPNALAK--------*
+>P1;gi|25011551|ref|NP_735946.1| Unknown [Streptococcus agalactiae N... [ score 88 E 5e-17 ] [ range 1 .. 52 ]
+sequence
+--MVTIKDVAAKAGVNPSTVSRVLKDNA---SISSKTKERVKKAMEELGYVPNVAAQ--------*
+>P1;gi|16801940|ref|NP_472208.1| similar to transcriptional regulato... [ score 88 E 5e-17 ] [ range 4 .. 51 ]
+sequence
+-----IKDIAKLAGVSVTTVSRVLNNHP---YVAEEKRARVQAVIDELDYSPNRSA---------*
+>P1;gi|33149355|gb|AAO38868.1| sucrose operon transcriptional repres... [ score 88 E 5e-17 ] [ range 2 .. 53 ]
+sequence
+--PAKLSDVAREAGCSVTTVSRVINNHG---YLSQKTKDKVFAAMQKLNYQPNSLAR--------*
+>P1;gi|32030091|ref|ZP_00133002.1| COG1609: Transcriptional regulato... [ score 88 E 6e-17 ] [ range 1 .. 52 ]
+sequence
+--MATMKDIARIAQVSTSTVSHVINNSR---FVSEEIRQKVMAVVEQLNYTPSALAR--------*
+>P1;gi|30063772|ref|NP_837943.1| sucrose specific repressor [Shigell... [ score 88 E 6e-17 ] [ range 22 .. 74 ]
+sequence
+--MASLKDVARLAGVSMMTVSRVMHNAE---SVRPATRDRVLQAIQTLNYVPDLSARK-------*
+>P1;gi|15602412|ref|NP_245484.1| PurR [Pasteurella multocida] >gi|37... [ score 88 E 6e-17 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVAKMAGVSTTTVSHVINKTR---FVAAETEKLVLQAIQELNYSPSAVAR--------*
+>P1;gi|1168844|sp|P46828|CCPA_BACME Glucose-resistance amylase regul... [ score 88 E 6e-17 ] [ range 3 .. 53 ]
+sequence
+---VTIYDVAREASVSMATVSRVVNGNP---NVKPSTRKKVLETIERLGYRPNAVAR--------*
+>P1;gi|37524092|ref|NP_927436.1| Ribose operon repressor [Photorhabd... [ score 88 E 6e-17 ] [ range 1 .. 52 ]
+sequence
+--MATMKDVARFAGVSTSTVSHVINNNR---YVSDGVKKKVNDAIEQLNYAPSALAR--------*
+>P1;gi|15901558|ref|NP_346162.1| sucrose operon repressor [Streptoco... [ score 88 E 6e-17 ] [ range 5 .. 53 ]
+sequence
+-----LTDVAKLAGVSPTTVSRVINKKG---YLSEKTIQKVNEAMRELGYKPNNLAR--------*
+>P1;gi|15641299|ref|NP_230931.1| transcriptional regulator, LacI fam... [ score 88 E 6e-17 ] [ range 4 .. 52 ]
+sequence
+-----IKDVAELAGVNRSTVSRIINGEG---KFKEETRRKVEQAMAQLNYRPSAIAR--------*
+>P1;gi|15896215|ref|NP_349564.1| Transcriptional regulators of the L... [ score 88 E 6e-17 ] [ range 1 .. 54 ]
+sequence
+MKT-TILEVAKRANVSVATVSRVMNDNY---PVKAETREKVLKAIKELNYIPNMQARE-------*
+>P1;gi|28210615|ref|NP_781559.1| ribose operon repressor [Clostridiu... [ score 88 E 6e-17 ] [ range 8 .. 61 ]
+sequence
+MSKITIKEVAKRANVSTATVSRVLNNNY---PVSDEARKEVLKAASELNYKPNGVAR--------*
+>P1;gi|15674618|ref|NP_268792.1| catabolite control protein A [Strep... [ score 88 E 6e-17 ] [ range 6 .. 57 ]
+sequence
+--PLTIYDVAREAGVSMATVSRVVNGNK---NVKENTRKKVLEVIDRLDYRPNAVAR--------*
+>P1;gi|18311322|ref|NP_563256.1| probable transcriptional regulator ... [ score 88 E 7e-17 ] [ range 1 .. 51 ]
+sequence
+---MNIKDIARLAGVGVSTVSRVINDHP---DVKDETREKILKIIKESNYIPNNSAR--------*
+>P1;gi|3024530|sp|Q45831|REGA_CLOSA HTH-type transcriptional regulat... [ score 88 E 7e-17 ] [ range 4 .. 53 ]
+sequence
+----SIKDVAREAGVSIATVSRVLNDID---VVNEDTKKKVLDAIKELGYRPNIVAR--------*
+>P1;gi|18311521|ref|NP_563455.1| probable transcriptional regulator ... [ score 88 E 7e-17 ] [ range 3 .. 53 ]
+sequence
+---ASIKDVAREAGVSIATVSRVLNDID---VVNEETKKKVLEAIKKLGYRPNIVAR--------*
+>P1;gi|37526496|ref|NP_929840.1| Purine nucleotide synthesis repress... [ score 88 E 7e-17 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVAKHAGVSTTTVSHVINKTR---FVAEDTKAAVWAAIKALNYSPSAVAR--------*
+>P1;gi|15602902|ref|NP_245974.1| GalR [Pasteurella multocida] >gi|12... [ score 88 E 8e-17 ] [ range 1 .. 52 ]
+sequence
+--MVTIHDVAQHAGVSVATVSRVLNNHP---SASEKARIAVQAAIEKLGYQPNANAQ--------*
+>P1;gi|23030441|ref|ZP_00068532.1| COG1609: Transcriptional regulato... [ score 87 E 8e-17 ] [ range 12 .. 63 ]
+sequence
+--MATIYDVSELAGVSLATVSRVMNNNA---RVSDKTKQKVTAAMEALDYRPSAIAK--------*
+>P1;gi|43823877|gb|EAF66255.1| unknown [environmental sequence] [ score 87 E 8e-17 ] [ range 4 .. 58 ]
+sequence
+LKRARIQDVAEQAGVSMMTVSRVLNQDK---KVSDKTREKVMAVVEQLNYRPNVSARR-------*
+>P1;gi|19746284|ref|NP_607420.1| putative maltose operon transcripti... [ score 87 E 8e-17 ] [ range 1 .. 52 ]
+sequence
+--MVTIKDVAQKAGVNPSTVSRVLKDNR---SISMKTKEKVRKAMADLGYVPNVAAQ--------*
+>P1;gi|16122610|ref|NP_405923.1| purine nucleotide synthesis repress... [ score 87 E 9e-17 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVAKHAGVSTTTVSHVINKTR---FVAENTKAAVWAAIKELHYSPSAVAR--------*
+>P1;gi|16762440|ref|NP_458057.1| ribose operon repressor [Salmonella... [ score 87 E 9e-17 ] [ range 1 .. 52 ]
+sequence
+--MATMKDVARLAGVSTSTVSHVINKDR---FVSETITEKVEAAIKSLNYAPSALAR--------*
+>P1;gi|42629955|ref|ZP_00155500.1| COG1609: Transcriptional regulato... [ score 87 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+--MATMKDIARLAQVSTSTVSHVINGSR---FVSDEIREKVMRIVAELNYTPSAVAR--------*
+>P1;gi|16766314|ref|NP_461929.1| putative transcriptional regulator ... [ score 87 E 1e-16 ] [ range 2 .. 53 ]
+sequence
+--MATMLDVSRHAGVSKATVSRVLNGTG---QVKESTRQKVFTAMQALGYRPNLLAR--------*
+>P1;gi|16080644|ref|NP_391472.1| transcriptional regulator (LacI fam... [ score 87 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVAGAAGVSVATVSRNLNDNG---YVHEETRTRVIAAMAKLNYYPNEVAR--------*
+>P1;gi|23467041|ref|ZP_00122626.1| COG1609: Transcriptional regulato... [ score 87 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVAKMAGVSTTTVSHVINKTR---FVAKETEQQVLQAIKNLNYSPSAVAR--------*
+>P1;gi|43351786|gb|EAD40753.1| unknown [environmental sequence] [ score 87 E 1e-16 ] [ range 7 .. 58 ]
+sequence
+--PVTIQDVATRAKVSIKTVSRVINNEP---NVAEKTIKKVEKAIDFLDYQPNAFAQ--------*
+>P1;gi|23106642|ref|ZP_00093025.1| COG1609: Transcriptional regulato... [ score 87 E 1e-16 ] [ range 8 .. 59 ]
+sequence
+--KPTINDVARIAGVSKKTVSRVINRSP---LLNEATREKVEAVIAELGYVPNPQAR--------*
+>P1;gi|43939529|gb|EAG25171.1| unknown [environmental sequence] [ score 87 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+--MVTIRDVARQSGVSVATVSRVLNNSA---LVSPDTREAVMKAVTQLGYRPNANAQ--------*
+>P1;gi|15643711|ref|NP_228757.1| transcriptional regulator, LacI fam... [ score 87 E 1e-16 ] [ range 3 .. 55 ]
+sequence
+-RRPTINDVAKLAGVSISTVSRYLKDPS---QVSEKLGERIREAIKKLGYKPNKIAQ--------*
+>P1;gi|29377863|ref|NP_816991.1| sucrose operon repressor ScrR [Ente... [ score 87 E 1e-16 ] [ range 5 .. 53 ]
+sequence
+-----LTDVAELAGVSPTTVSRVINNKG---YLSEKTKKNVHEAMKILGYKPNNLAR--------*
+>P1;gi|26249269|ref|NP_755309.1| Galactose operon repressor [Escheri... [ score 87 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVARLAGVSVATVSRVINNSP---KASEASRLAVHSAMESLSYHPNANAR--------*
+>P1;gi|4581475|emb|CAB09692.1| SacR [Lactococcus lactis] [ score 87 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+--MIKLEDVANKAGVSVTTVSRVINRKG---YLSDATISKVEKAMQDLHYIPNAAAR--------*
+>P1;gi|28566279|gb|AAO43402.1| catabolite control protein A [Bacillu... [ score 87 E 1e-16 ] [ range 2 .. 53 ]
+sequence
+--TVTIYDVAREANVSMATVSRVVNGNQ---NVKPATRKKVLEVIERLEYRPNAVAR--------*
+>P1;gi|37681080|ref|NP_935689.1| transcriptional regulator [Vibrio v... [ score 87 E 1e-16 ] [ range 4 .. 52 ]
+sequence
+-----IKDVAELAGVNRSTVSRIINGEG---KFKEETKKKVEWAMAQLNYRPSAIAR--------*
+>P1;gi|44407179|gb|EAJ05372.1| unknown [environmental sequence] [ score 87 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIKDIAQAAGVSLATVSRVINNGP---KVGNDTRKRVKKIMEEMGYRPNANAR--------*
+>P1;gi|42629659|ref|ZP_00155205.1| COG1609: Transcriptional regulato... [ score 86 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVAKMAGVSTTTVSHVINKTR---FVAKDTEEAVLSAIKQLNYSPSAVAR--------*
+>P1;gi|43770396|gb|EAF39649.1| unknown [environmental sequence] [ score 86 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIYQVSEMAGVSLSTVSRVLNDND---YVSKKTKKKVLEAMKELGYQPSSIAR--------*
+>P1;gi|16760483|ref|NP_456100.1| purine nucleotide synthesis repress... [ score 86 E 1e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVAKRANVSTTTVSHVINKTR---FVAEETRNAVWAAIKELHYSPSAVAR--------*
+>P1;gi|28210026|ref|NP_780970.1| predicted catabolite control protei... [ score 86 E 1e-16 ] [ range 2 .. 53 ]
+sequence
+--PASIKDVAKEAGVSIATVSRVLNDID---VVNEDTKKKVLDAIKKLGYRPNIVAR--------*
+>P1;gi|44539662|gb|EAJ96311.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIYQVSEAAGVSLATVSRVMNGNA---KVSERTRKKVEDAMASLGYQPNAIAQ--------*
+>P1;gi|16761133|ref|NP_456750.1| mgl repressor and galactose ultrain... [ score 86 E 2e-16 ] [ range 1 .. 52 ]
+sequence
+--MITIRDVARQAGVSVATVSRVLNNSA---LVSPDTRDAVMQAVTLLGYRPNANAQ--------*
+>P1;gi|20806866|ref|NP_622037.1| Transcriptional regulator [Thermoan... [ score 86 E 2e-16 ] [ range 5 .. 52 ]
+sequence
+------KDIARIAGVSRSTVSRVINNYP---NVSPETKEKVLKAIKEYNYVPHASAR--------*
+>P1;gi|16803639|ref|NP_465124.1| catabolite control protein A [Liste... [ score 86 E 2e-16 ] [ range 3 .. 53 ]
+sequence
+---VTIYDVAREANVSMATVSRVVNGNP---NVKPVTRKKVLDVINQLGYRPNAVAR--------*
+>P1;gi|5823363|gb|AAD53119.1| catabolite control protein A [Lactobac... [ score 86 E 2e-16 ] [ range 5 .. 56 ]
+sequence
+--TVTIYDVAREAAVSMATVSRVVNGNP---NVKPATRKKVLAVIERLDYRPNAVAR--------*
+>P1;gi|21283408|ref|NP_646496.1| catabolite control protein A [Staph... [ score 86 E 2e-16 ] [ range 2 .. 53 ]
+sequence
+--TVTIYDVAREARVSMATVSRVVNGNQ---NVKAETKNKVNEVIKRLNYRPNAVAR--------*
+>P1;gi|16127295|ref|NP_421859.1| transcriptional regulator, LacI fam... [ score 86 E 2e-16 ] [ range 16 .. 66 ]
+sequence
+---ATIRDVAARAGVSPMTVSRVINRES---TVKEETRQLVEKAIADLNYAPNPAAR--------*
+>P1;gi|15615486|ref|NP_243789.1| transcriptional regulator involved ... [ score 86 E 2e-16 ] [ range 3 .. 53 ]
+sequence
+---VTIKDVAKLAKVAPSTVSRVIANNP---RISQRTKERVREAMEQLGYYPNYNAR--------*
+>P1;gi|17938374|ref|NP_535163.1| transcriptional regulator, LacI fam... [ score 86 E 2e-16 ] [ range 14 .. 65 ]
+sequence
+-KKATMSDVSKLAGVSKMTVSRVLADPA---LVSEDTRQKVMKAIEKLGYVPDRIA---------*
+>P1;gi|24559653|gb|AAM19069.1| repressor FruR [Bacillus megaterium] [ score 86 E 2e-16 ] [ range 2 .. 53 ]
+sequence
+--KAKISDVAKIAGVSPTTVSRVLNNRG---YISKETRENVYKAMKEINYFPNDIAR--------*
+>P1;gi|23108370|ref|ZP_00094596.1| COG1609: Transcriptional regulato... [ score 86 E 2e-16 ] [ range 21 .. 70 ]
+sequence
+----TVADVARLAGVSPMTVSRVVNSES---YVTEDTRTRVQQAIEKLGYVPNLAAR--------*
+>P1;gi|16123837|ref|NP_407150.1| trehalose operon repressor [Yersini... [ score 86 E 2e-16 ] [ range 4 .. 55 ]
+sequence
+--RLTIKDIARMSGVGKSTVSRVLNNEG---SVSPQTRERVEAVIRQHGFTPSKSAR--------*
+>P1;gi|23465131|ref|NP_695734.1| LacI-type transcriptional regulator... [ score 86 E 2e-16 ] [ range 1 .. 52 ]
+sequence
+--MVGMRDVAKKAGVSLSTVSLVVNGNG---YVSDDMRERVRKAMQALNYVPNELAR--------*
+>P1;gi|3024104|sp|Q56201|MALR_STAXY HTH-type transcriptional regulat... [ score 86 E 2e-16 ] [ range 1 .. 52 ]
+sequence
+--MVTIKDIAQAANVSTSTVSRVISGNP---RISMQTREKVKATMKSFNYQPNRAAR--------*
+>P1;gi|37527169|ref|NP_930513.1| Trehalose operon repressor [Photorh... [ score 86 E 2e-16 ] [ range 4 .. 55 ]
+sequence
+--KLTIKDIARLANVSKSTVSRVLNNEN---SVSPQVRERVETIIQQNNFIPSKSAR--------*
+>P1;gi|16799614|ref|NP_469882.1| similar to transcription regulator ... [ score 86 E 2e-16 ] [ range 1 .. 51 ]
+sequence
+--MANIQEIAKLAGVSSATVSRVINNRD---YVSEETRKRVQTIIDKLDYVPNINA---------*
+>P1;gi|33152673|ref|NP_874026.1| purine nucleotide synthesis repress... [ score 86 E 2e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVAKLAGVSTTTVSHVINKTR---FVAEETSKTVWNAVQKLNYSPSAVAR--------*
+>P1;gi|24379951|ref|NP_721906.1| putative maltose operon transcripti... [ score 86 E 2e-16 ] [ range 1 .. 52 ]
+sequence
+--MVTIKDVAKEAGVNPSTVSRVLKNSS---SISQKTKDRVQQAMTDLGYVPNLAAQ--------*
+>P1;gi|23100012|ref|NP_693478.1| transcriptional regulator [Oceanoba... [ score 86 E 3e-16 ] [ range 1 .. 52 ]
+sequence
+--MVTIKDIAKATGVSPSTVSRVIADNS---RISEETKAKVRKAMEDLGYFPNMTAR--------*
+>P1;gi|21283191|ref|NP_646279.1| maltose operon transcriptional repr... [ score 86 E 3e-16 ] [ range 1 .. 52 ]
+sequence
+--MVTIKDVALKAGVSPSTVSRVIKGNQ---RISEATISKVKKVMEELNYFPNTAAR--------*
+>P1;gi|23003423|ref|ZP_00047086.1| COG1609: Transcriptional regulato... [ score 86 E 3e-16 ] [ range 3 .. 51 ]
+sequence
+----TLSDVAKKASVSKMTVSRVINHPQ---QVTPELRKIVEQAMEQLNYHPNSVA---------*
+>P1;gi|23335858|ref|ZP_00121090.1| COG1609: Transcriptional regulato... [ score 86 E 3e-16 ] [ range 22 .. 74 ]
+sequence
+-KRPSMFEVAKLAGVSHQTVSRVINDSP---DVSDATRARVQAAIDQLGYRPSNSAR--------*
+>P1;gi|44480956|gb|EAJ57249.1| unknown [environmental sequence] [ score 86 E 3e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVASRAGVSISTVSHVLNHTR---RVSEDATQKVLEAVAELNYAPNSVAR--------*
+>P1;gi|16081139|ref|NP_391967.1| similar to transcriptional regulato... [ score 86 E 3e-16 ] [ range 1 .. 51 ]
+sequence
+--MANIKEIARLANVSVSTVSRVLNHHP---YVSEEKRKLVHQVMKELDYTPNRTA---------*
+>P1;gi|23110050|ref|ZP_00096214.1| COG1609: Transcriptional regulato... [ score 85 E 3e-16 ] [ range 16 .. 66 ]
+sequence
+---ATMEDVAKLAGVSLKSVSRVINAEP---HVSAKLRAKVEAAIAELNYVPDTAAR--------*
+>P1;gi|44513048|gb|EAJ78263.1| unknown [environmental sequence] [ score 85 E 3e-16 ] [ range 3 .. 52 ]
+sequence
+----TIKDVARLANVSVATVSRVMNNSP---KASAASREVVQKAMAELGYTPNANAR--------*
+>P1;gi|42491099|emb|CAE11236.1| EndR protein [Bacillus amyloliquefac... [ score 85 E 3e-16 ] [ range 1 .. 55 ]
+sequence
+MKTITISDVAKYANVSKSTVSQFLNQRD---YMSEKTKQKIEAAIQELNYQPNFVAR--------*
+>P1;gi|43785510|gb|EAF47287.1| unknown [environmental sequence] [ score 85 E 3e-16 ] [ range 3 .. 53 ]
+sequence
+---VTIKDVSKDAGVSIKTVSRVINNEE---NVSESTKEKVLRSVTKLGFKPNKSAQ--------*
+>P1;gi|30022098|ref|NP_833729.1| Transcriptional regulator, LacI fam... [ score 85 E 3e-16 ] [ range 2 .. 53 ]
+sequence
+--TVTIKDVAKQANVAPSTVSRVIADNP---SISEKTKRRVRKVMSELGYHPNLNAR--------*
+>P1;gi|29375813|ref|NP_814967.1| sugar-binding transcriptional regul... [ score 85 E 4e-16 ] [ range 1 .. 52 ]
+sequence
+--MVGIKDIAKKAGVSISTVSYALNGSS---KVTEETRTRIQAIAEELNYVPNMAAR--------*
+>P1;gi|28899167|ref|NP_798772.1| transcriptional regulator, LacI fam... [ score 85 E 4e-16 ] [ range 1 .. 52 ]
+sequence
+--MATIKDVAKEAGVSVATVSRVINKSP---KASQSSVESVTKAMRKLGYRPNAAAR--------*
+>P1;gi|42519185|ref|NP_965115.1| hypothetical protein LJ1260 [Lactob... [ score 85 E 4e-16 ] [ range 1 .. 51 ]
+sequence
+---MTIRDIAKLANVSVATVSRIINNSG---KVSDKTRLKVNKIIEETNYHPNQVAR--------*
+>P1;gi|21401164|ref|NP_657149.1| Peripla_BP_like, Periplasmic bindin... [ score 85 E 4e-16 ] [ range 1 .. 52 ]
+sequence
+--MVTINEIAKLCNVSNATVSRVLNNHP---YVNSEKREKIIKVMQEFNYTPSAIAR--------*
+>P1;gi|23021314|ref|ZP_00060994.1| COG1609: Transcriptional regulato... [ score 85 E 4e-16 ] [ range 4 .. 52 ]
+sequence
+------KDIAKIVGVSRSTVSRVINNYP---DIPQATREKVLKAIKEYNYYPNASARR-------*
+>P1;gi|16078120|ref|NP_388937.1| similar to transcriptional regulato... [ score 85 E 4e-16 ] [ range 1 .. 52 ]
+sequence
+--MPTIDEIAKLCNVSKTTVSRVLNNHP---YVSKEKRDMILKAINELDYTPNYLAR--------*
+>P1;gi|23002363|ref|ZP_00046040.1| COG1609: Transcriptional regulato... [ score 85 E 5e-16 ] [ range 15 .. 65 ]
+sequence
+---VTIYDVAREAKVSMATVSRVVNGNN---NVRKETREKVLAVIDRLHYQPNAVAQ--------*
+>P1;gi|44634937|gb|EAK63738.1| unknown [environmental sequence] [ score 85 E 5e-16 ] [ range 1 .. 52 ]
+sequence
+--MVTIKDVAKVAGVSIATVSRVIHDGH---QVGEACRARVKKVIAELGYRPNSNAR--------*
+>P1;gi|26250837|ref|NP_756877.1| Putative regulator [Escherichia col... [ score 85 E 5e-16 ] [ range 18 .. 69 ]
+sequence
+-KRVTLTDVARAAGVSKSTVSLVLNDSS---LIKKETQQKVQQAIEQLGYVYNRFA---------*
+>P1;gi|17988027|ref|NP_540661.1| GLUCOSE-RESISTANCE AMYLASE REGULATO... [ score 85 E 5e-16 ] [ range 6 .. 58 ]
+sequence
+-KRATIHDVARLAGVSIKTVSRVYNDEP---NVREAIREKVKQAGAQLRYRPNVAAR--------*
+>P1;gi|23465737|ref|NP_696340.1| probable LacI-type transcriptional ... [ score 85 E 5e-16 ] [ range 7 .. 57 ]
+sequence
+---VSMQDIAKAAGVSPQTVSRVANGSD---AVKPETRQRVEAAMERLGYRPNYAAR--------*
+>P1;gi|15602016|ref|NP_245088.1| RbsR [Pasteurella multocida] >gi|37... [ score 85 E 5e-16 ] [ range 1 .. 52 ]
+sequence
+--MATMKDIARIAKVSTSTVSHVINNSR---FVSDEIRDKVMHVVKELNYTPSALAR--------*
+>P1;gi|37526496|ref|NP_929840.1| Purine nucleotide synthesis repress... [ score 104 E 6e-22 ] [ range 2 .. 58 ]
+sequence
+---ATIKDVAKHAGVSTTTVSHVINKTR---FVAEDTKAAVWAAIKALNYS--PSAVARSLKVNH*
+>P1;gi|16122610|ref|NP_405923.1| purine nucleotide synthesis repress... [ score 103 E 1e-21 ] [ range 2 .. 58 ]
+sequence
+---ATIKDVAKHAGVSTTTVSHVINKTR---FVAENTKAAVWAAIKELHYS--PSAVARSLKVNH*
+>P1;gi|27365468|ref|NP_760996.1| Transcriptional regulator [Vibrio v... [ score 103 E 2e-21 ] [ range 2 .. 57 ]
+sequence
+---ATIKDVARLAGVSTTTVSHVINKTR---FVAEATQEKVMKAVDELNYA--PSAVARSLKCN-*
+>P1;gi|15804353|ref|NP_290392.1| regulator for rbs operon [Escherich... [ score 101 E 4e-21 ] [ range 2 .. 57 ]
+sequence
+---ATMKDVARLAGVSTSTVSHVINKDR---FVSEAITAKVEAAIKELNYA--PSALARSLKLN-*
+>P1;gi|15641725|ref|NP_231357.1| transcriptional regulator, LacI fam... [ score 101 E 4e-21 ] [ range 2 .. 57 ]
+sequence
+---ATIKDVARLAGVSTTTVSHVINKTR---FVAETTQEKVMEAVKQLNYA--PSAVARSLKCN-*
+>P1;gi|16273524|ref|NP_439777.1| purine nucleotide synthesis repress... [ score 100 E 8e-21 ] [ range 2 .. 57 ]
+sequence
+---ATIKDVAKMAGVSTTTVSHVINKTR---FVAKDTEEAVLSAIKQLNYS--PSAVARSLKVN-*
+>P1;gi|23467041|ref|ZP_00122626.1| COG1609: Transcriptional regulato... [ score 100 E 9e-21 ] [ range 2 .. 57 ]
+sequence
+---ATIKDVAKMAGVSTTTVSHVINKTR---FVAKETEQQVLQAIKNLNYS--PSAVARSLKVN-*
+>P1;gi|16767170|ref|NP_462785.1| rbs operon transcriptional represso... [ score 99 E 1e-20 ] [ range 2 .. 57 ]
+sequence
+---ATMKDVARLAGVSTSTVSHVINKDR---FVSETITEKVEAAIKSLNYA--PSALARSLKLN-*
+>P1;gi|15602412|ref|NP_245484.1| PurR [Pasteurella multocida] >gi|37... [ score 99 E 1e-20 ] [ range 2 .. 57 ]
+sequence
+---ATIKDVAKMAGVSTTTVSHVINKTR---FVAAETEKLVLQAIQELNYS--PSAVARSLKVN-*
+>P1;gi|32035230|ref|ZP_00135253.1| COG1609: Transcriptional regulato... [ score 99 E 2e-20 ] [ range 2 .. 57 ]
+sequence
+---ATIKDVAKLAGVSTTTVSHVINKTR---FVAEDTSKAVWDAIQQLNYS--PSAVARSLKVN-*
+>P1;gi|6686565|emb|CAB65654.1| putative repressor of maltose transpo... [ score 99 E 3e-20 ] [ range 2 .. 57 ]
+sequence
+---ATIKDVARLANVSPSTVSRVLANSP---RISEETKRRVRAALEQLNYH--PNAFARGLVTN-*
+>P1;gi|20806985|ref|NP_622156.1| Transcriptional regulator [Thermoan... [ score 99 E 3e-20 ] [ range 3 .. 57 ]
+sequence
+---ATIKDVAREAKVSIATVSRVLNNSA---VVTEETRQRVLEAIKKTGYK--PNALARSLKI--*
+>P1;gi|32030091|ref|ZP_00133002.1| COG1609: Transcriptional regulato... [ score 99 E 3e-20 ] [ range 2 .. 56 ]
+sequence
+---ATMKDIARIAQVSTSTVSHVINNSR---FVSEEIRQKVMAVVEQLNYT--PSALARSLKV--*
+>P1;gi|33152673|ref|NP_874026.1| purine nucleotide synthesis repress... [ score 98 E 3e-20 ] [ range 2 .. 57 ]
+sequence
+---ATIKDVAKLAGVSTTTVSHVINKTR---FVAEETSKTVWNAVQKLNYS--PSAVARSLKIN-*
+>P1;gi|20808356|ref|NP_623527.1| Transcriptional regulator [Thermoan... [ score 98 E 3e-20 ] [ range 2 .. 56 ]
+sequence
+---ANIREVAKRAGVSVATVSRVLNNSD---LVSEETRERVLKAIKELNYH--PNLLGRNLRR--*
+>P1;gi|20807285|ref|NP_622456.1| Transcriptional regulator [Thermoan... [ score 98 E 5e-20 ] [ range 2 .. 56 ]
+sequence
+---ATIDDVAKLAGVSIATVSRVFNNSP---WVSEKTREKVLKAAEELGYK--PSMPARSLAM--*
+>P1;gi|15613813|ref|NP_242116.1| transcriptional regulator (LacI fam... [ score 98 E 5e-20 ] [ range 2 .. 57 ]
+sequence
+---ATIKEVAQLAGLSRTTVSRVINNHP---YVSDEKRQQVLDAMKQLGYV--PNSSAQRLRRN-*
+>P1;gi|42629955|ref|ZP_00155500.1| COG1609: Transcriptional regulato... [ score 97 E 8e-20 ] [ range 2 .. 57 ]
+sequence
+---ATMKDIARLAQVSTSTVSHVINGSR---FVSDEIREKVMRIVAELNYT--PSAVARSLKVR-*
+>P1;gi|44480956|gb|EAJ57249.1| unknown [environmental sequence] [ score 97 E 9e-20 ] [ range 2 .. 57 ]
+sequence
+---ATIKDVASRAGVSISTVSHVLNHTR---RVSEDATQKVLEAVAELNYA--PNSVARSLKIN-*
+>P1;gi|20806727|ref|NP_621898.1| Transcriptional regulator [Thermoan... [ score 97 E 9e-20 ] [ range 4 .. 58 ]
+sequence
+----TIKDIARLANVSVTTVSRVINNKP---GVSEETRQKILKLVKELGYQ--PNAIARGLVT--*
+>P1;gi|20807279|ref|NP_622450.1| Transcriptional regulator [Thermoan... [ score 97 E 9e-20 ] [ range 4 .. 58 ]
+sequence
+----TIKDIAKYAGVSVTTVSRALNGYP---DVSEETRAKIKKIAEELNYT--PNSIARGLVTN-*
+>P1;gi|15600903|ref|NP_232533.1| ribose operon repressor [Vibrio cho... [ score 97 E 9e-20 ] [ range 2 .. 57 ]
+sequence
+---ATMKDIARLAGVSTSTVSHVINKSR---FVSDEIAERVNNAAQQLNYA--PSALARSLKMN-*
+>P1;gi|37524092|ref|NP_927436.1| Ribose operon repressor [Photorhabd... [ score 97 E 1e-19 ] [ range 2 .. 56 ]
+sequence
+---ATMKDVARFAGVSTSTVSHVINNNR---YVSDGVKKKVNDAIEQLNYA--PSALARSLKI--*
+>P1;gi|18311521|ref|NP_563455.1| probable transcriptional regulator ... [ score 96 E 2e-19 ] [ range 3 .. 57 ]
+sequence
+---ASIKDVAREAGVSIATVSRVLNDID---VVNEETKKKVLEAIKKLGYR--PNIVARSLKT--*
+>P1;gi|15602016|ref|NP_245088.1| RbsR [Pasteurella multocida] >gi|37... [ score 96 E 2e-19 ] [ range 2 .. 56 ]
+sequence
+---ATMKDIARIAKVSTSTVSHVINNSR---FVSDEIRDKVMHVVKELNYT--PSALARSLKV--*
+>P1;gi|15644599|ref|NP_229652.1| transcriptional regulator, LacI fam... [ score 96 E 2e-19 ] [ range 3 .. 54 ]
+sequence
+----TIEDVAKLAGVSIATVSRVINGSG---YVSEKTRYKVWKAIEELGYK--PEISAKLL----*
+>P1;gi|28210579|ref|NP_781523.1| transcriptional regulator of the la... [ score 96 E 2e-19 ] [ range 4 .. 55 ]
+sequence
+----TINDVAREAGVSISTVSRVLNNNY---PVKEETRKRIEEAIEKLNYK--PNMLARSL----*
+>P1;gi|27366525|ref|NP_762052.1| Transcriptional regulator [Vibrio v... [ score 95 E 3e-19 ] [ range 2 .. 58 ]
+sequence
+---ATMKDIAKLAGVSTSTVSHVINKTR---FVSEEIAERVNHAAKELNYA--PSALARSLKVN-*
+>P1;gi|45442628|ref|NP_994167.1| galactose operon repressor [Yersini... [ score 95 E 3e-19 ] [ range 56 .. 108 ]
+sequence
+---ATIKDVAKLAGVSVATVSRVINHSP---KASEASRVAVCKAMEQLQYH--PNANARAL----*
+>P1;gi|16078120|ref|NP_388937.1| similar to transcriptional regulato... [ score 95 E 4e-19 ] [ range 3 .. 57 ]
+sequence
+----TIDEIAKLCNVSKTTVSRVLNNHP---YVSKEKRDMILKAINELDYT--PNYLARNFRRN-*
+>P1;gi|44385611|gb|EAI90168.1| unknown [environmental sequence] [ score 95 E 4e-19 ] [ range 2 .. 56 ]
+sequence
+---ANIKEVAALAGVSTTTVSHVINETR---FVAEETRERVFAAMRELNYA--PSLVARSLKV--*
+>P1;gi|43653173|gb|EAE81441.1| unknown [environmental sequence] [ score 95 E 5e-19 ] [ range 2 .. 57 ]
+sequence
+---ATIYEVSKLAGVSLATVSRVMNNNA---NVSDATRKKVTLAMEELGYR--PNSIAQSLASN-*
+>P1;gi|27364754|ref|NP_760282.1| Transcriptional regulator [Vibrio v... [ score 94 E 7e-19 ] [ range 2 .. 57 ]
+sequence
+---ATMKDVAQLAGVSTATVSRALMNPD---KVSATTRKRVEDAVLEAGYS--PNSLARNLRRN-*
+>P1;gi|15641299|ref|NP_230931.1| transcriptional regulator, LacI fam... [ score 94 E 7e-19 ] [ range 2 .. 56 ]
+sequence
+---ARIKDVAELAGVNRSTVSRIINGEG---KFKEETRRKVEQAMAQLNYR--PSAIARSLAT--*
+>P1;gi|28897026|ref|NP_796631.1| transcriptional repressor, LacI fam... [ score 94 E 7e-19 ] [ range 2 .. 57 ]
+sequence
+---ATMKDVAQLAGVSTATVSRALMNPE---KVSSSTRKRVEDAVLEAGYS--PNSLARNLRRN-*
+>P1;gi|18309399|ref|NP_561333.1| probable transcriptional regulator ... [ score 94 E 7e-19 ] [ range 4 .. 58 ]
+sequence
+----TIKDVAREANVAPSTVSRVLSDSP---KISEETKIKVNKAIKKLNYK--PNAIARSLVNN-*
+>P1;gi|44390965|gb|EAI94024.1| unknown [environmental sequence] [ score 94 E 7e-19 ] [ range 2 .. 57 ]
+sequence
+---ATIYDVSLLAGVSLATVSRVMNKNT---NVSEKTKQKVLAAMAELGYR--PNTFAQSLASN-*
+>P1;gi|15615803|ref|NP_244107.1| transcriptional regulator involved ... [ score 94 E 8e-19 ] [ range 4 .. 55 ]
+sequence
+----TIYDVAREAGVSMATVSRVVNGNP---NVKPATRKKVLEAIERLGYR--PNAVARGL----*
+>P1;gi|16802032|ref|NP_472300.1| similar to transcriptional regulato... [ score 94 E 8e-19 ] [ range 3 .. 55 ]
+sequence
+---ATIYDIAKHAGVSKSTVSRVLNNQA---NISKESRQKVLEAIDELNYQ--PSKLARAL----*
+>P1;gi|15641565|ref|NP_231197.1| transcriptional regulator, LacI fam... [ score 94 E 8e-19 ] [ range 11 .. 66 ]
+sequence
+---ATINDVCKLAGVSKATVSRVLNETG---QVKAQTREAVLAAMQQLGYQ--PNSLAQALATN-*
+>P1;gi|28900937|ref|NP_800592.1| ribose operon repressor [Vibrio par... [ score 94 E 8e-19 ] [ range 2 .. 58 ]
+sequence
+---ATMKDIAKLAGVSTSTVSHVINKTR---FVSEEISERVNNAAKELNYA--PSALARSLKVN-*
+>P1;gi|44382152|gb|EAI87572.1| unknown [environmental sequence] [ score 94 E 1e-18 ] [ range 2 .. 54 ]
+sequence
+---ATIKDVARLAGVSVATVSRVINNSP---KASETSRQSVTAAMETLNYH--PNANARAL----*
+>P1;gi|16804879|ref|NP_466364.1| similar to transcriptional regulato... [ score 94 E 1e-18 ] [ range 3 .. 55 ]
+sequence
+---STIYDIAKHAGVSKSTVSRVLNNQA---NISEESRKKVLAAIDQLNYQ--PSKLARAL----*
+>P1;gi|44274684|gb|EAI13034.1| unknown [environmental sequence] [ score 93 E 1e-18 ] [ range 4 .. 56 ]
+sequence
+---ATIKDVSRLANVSISTVSRVINNTA---QVAPEKREAVMAAMKELNFR--PNSFAQAL----*
+>P1;gi|28899406|ref|NP_799011.1| transcriptional regulator, LacI fam... [ score 93 E 1e-18 ] [ range 2 .. 56 ]
+sequence
+---ARIKDVAELAGVNRSTVSRIINGEG---KFREETRKKVEQAMAQLNYR--PSAIARSLAT--*
+>P1;gi|28210026|ref|NP_780970.1| predicted catabolite control protei... [ score 93 E 1e-18 ] [ range 3 .. 57 ]
+sequence
+---ASIKDVAKEAGVSIATVSRVLNDID---VVNEDTKKKVLDAIKKLGYR--PNIVARSLKT--*
+>P1;gi|16761790|ref|NP_457407.1| possible regulatory protein [Salmon... [ score 93 E 2e-18 ] [ range 3 .. 58 ]
+sequence
+---ATMLDVSRHAGVSKATVSRVLNGTG---QVKESTRQKVFTAMQALDYR--PNLLARSLANR-*
+>P1;gi|30264750|ref|NP_847127.1| catabolite control protein A [Bacil... [ score 93 E 2e-18 ] [ range 4 .. 55 ]
+sequence
+----TIYDVAREANVSMATVSRVVNGNP---NVKPTTRKKVLEAIDRLGYR--PNAVARGL----*
+>P1;gi|1173387|sp|P43472|SCRR_PEDPE Sucrose operon repressor (Scr op... [ score 93 E 2e-18 ] [ range 5 .. 59 ]
+sequence
+-----LNDVAKLAGVSATTVSRVINNHG---YLSSQTKEKVFAAMRELHYQ--PNNMARSLQGKN*
+>P1;gi|33149355|gb|AAO38868.1| sucrose operon transcriptional repres... [ score 93 E 2e-18 ] [ range 3 .. 56 ]
+sequence
+---AKLSDVAREAGCSVTTVSRVINNHG---YLSQKTKDKVFAAMQKLNYQ--PNSLARSLQ---*
+>P1;gi|15894143|ref|NP_347492.1| Transcriptional regulator, LacI fam... [ score 93 E 2e-18 ] [ range 14 .. 69 ]
+sequence
+---ATIRDVAKLANVSPSTVSRVLNDSN---KISCETKERVIKAIKKLDYH--ANAIARSLANN-*
+>P1;gi|16799614|ref|NP_469882.1| similar to transcription regulator ... [ score 92 E 3e-18 ] [ range 2 .. 55 ]
+sequence
+---ANIQEIAKLAGVSSATVSRVINNRD---YVSEETRKRVQTIIDKLDYV--PNINAVSLK---*
+>P1;gi|20808925|ref|NP_624096.1| Transcriptional regulator [Thermoan... [ score 92 E 3e-18 ] [ range 8 .. 59 ]
+sequence
+----TIKDVAKRANVAPSTVSRVIADSP---RISKETKERVWKAMEELGYY--PNAIARSL----*
+>P1;gi|18311322|ref|NP_563256.1| probable transcriptional regulator ... [ score 92 E 4e-18 ] [ range 3 .. 57 ]
+sequence
+-----IKDIARLAGVGVSTVSRVINDHP---DVKDETREKILKIIKESNYI--PNNSARILKKNN*
+>P1;gi|23100032|ref|NP_693498.1| transcriptional repressor of ribose... [ score 91 E 5e-18 ] [ range 4 .. 55 ]
+sequence
+----TIKDVAKEAGVSAATVSRVLNNSG---YVYEDTRKAVMEAINHLQYK--PNEVARSL----*
+>P1;gi|26249269|ref|NP_755309.1| Galactose operon repressor [Escheri... [ score 91 E 5e-18 ] [ range 2 .. 54 ]
+sequence
+---ATIKDVARLAGVSVATVSRVINNSP---KASEASRLAVHSAMESLSYH--PNANARAL----*
+>P1;gi|25298061|pir||JC7523 catabolite control protein A - Thermoact... [ score 91 E 5e-18 ] [ range 9 .. 60 ]
+sequence
+----TIYDVAHEAGVSMATVSRVVNGNP---NVKPATRKKVLDVIRRLGYR--PNAVARGL----*
+>P1;gi|15896288|ref|NP_349637.1| Catabolite control protein, LacI fa... [ score 91 E 5e-18 ] [ range 3 .. 57 ]
+sequence
+---ASIKDVAREARVSIATVSRVLNNVD---VVNEETKKKVMEAIKKLDYR--PNIVARSLKT--*
+>P1;gi|23030441|ref|ZP_00068532.1| COG1609: Transcriptional regulato... [ score 91 E 5e-18 ] [ range 13 .. 68 ]
+sequence
+---ATIYDVSELAGVSLATVSRVMNNNA---RVSDKTKQKVTAAMEALDYR--PSAIAKGLASN-*
+>P1;gi|37681080|ref|NP_935689.1| transcriptional regulator [Vibrio v... [ score 91 E 6e-18 ] [ range 2 .. 56 ]
+sequence
+---ARIKDVAELAGVNRSTVSRIINGEG---KFKEETKKKVEWAMAQLNYR--PSAIARSLAT--*
+>P1;gi|15901558|ref|NP_346162.1| sucrose operon repressor [Streptoco... [ score 91 E 6e-18 ] [ range 3 .. 56 ]
+sequence
+---AKLTDVAKLAGVSPTTVSRVINKKG---YLSEKTIQKVNEAMRELGYK--PNNLARSLQ---*
+>P1;gi|21401164|ref|NP_657149.1| Peripla_BP_like, Periplasmic bindin... [ score 91 E 6e-18 ] [ range 3 .. 57 ]
+sequence
+----TINEIAKLCNVSNATVSRVLNNHP---YVNSEKREKIIKVMQEFNYT--PSAIARNLRIN-*
+>P1;gi|29375253|ref|NP_814406.1| sugar-binding transcriptional regul... [ score 91 E 6e-18 ] [ range 3 .. 54 ]
+sequence
+----TIREIARLSGSSVTTVSRVINHHP---YVSEEKRLKIQAIIDELGYK--PNILARNL----*
+>P1;gi|16802776|ref|NP_464261.1| similar to transcriptional regulato... [ score 91 E 6e-18 ] [ range 5 .. 59 ]
+sequence
+----SIKDIAKLSGVSVATVSRVINDNG---RFSEETREKVLAVIKETNYQ--MNFSAKSLRMN-*
+>P1;gi|16080644|ref|NP_391472.1| transcriptional regulator (LacI fam... [ score 91 E 7e-18 ] [ range 2 .. 54 ]
+sequence
+---ATIKDVAGAAGVSVATVSRNLNDNG---YVHEETRTRVIAAMAKLNYY--PNEVARSL----*
+>P1;gi|16125736|ref|NP_420300.1| transcriptional regulator, LacI fam... [ score 91 E 9e-18 ] [ range 25 .. 77 ]
+sequence
+---ATINDIARLAGVSKKTVSRVINQSP---FVRDETRERIEAVIAEWGYA--PDPQARGL----*
+>P1;gi|28210615|ref|NP_781559.1| ribose operon repressor [Clostridiu... [ score 90 E 1e-17 ] [ range 12 .. 66 ]
+sequence
+----TIKEVAKRANVSTATVSRVLNNNY---PVSDEARKEVLKAASELNYK--PNGVARSLKKN-*
+>P1;gi|29375813|ref|NP_814967.1| sugar-binding transcriptional regul... [ score 90 E 1e-17 ] [ range 4 .. 57 ]
+sequence
+-----IKDIAKKAGVSISTVSYALNGSS---KVTEETRTRIQAIAEELNYV--PNMAARTLKRR-*
+>P1;gi|24380205|ref|NP_722160.1| sucrose operon repressor [Streptoco... [ score 90 E 1e-17 ] [ range 3 .. 56 ]
+sequence
+---AKLTDVAKLAGVSPTTVSRVINRKG---YLSEKTITKVQAAMKTLGYK--PNNLARSLQ---*
+>P1;gi|44407179|gb|EAJ05372.1| unknown [environmental sequence] [ score 90 E 1e-17 ] [ range 2 .. 56 ]
+sequence
+---ATIKDIAQAAGVSLATVSRVINNGP---KVGNDTRKRVKKIMEEMGYR--PNANARALVT--*
+>P1;gi|15597145|ref|NP_250639.1| ribose operon repressor RbsR [Pseud... [ score 90 E 1e-17 ] [ range 2 .. 57 ]
+sequence
+---ATMKDVAAMAGVSFTTVSHVVNRTR---PVSDAVRKKVEDAIAQLHYV--PSAVARSLKVR-*
+>P1;gi|16801940|ref|NP_472208.1| similar to transcriptional regulato... [ score 90 E 1e-17 ] [ range 4 .. 56 ]
+sequence
+-----IKDIAKLAGVSVTTVSRVLNNHP---YVAEEKRARVQAVIDELDYS--PNRSAMDLAR--*
+>P1;gi|23037496|ref|ZP_00069704.1| COG1609: Transcriptional regulato... [ score 90 E 1e-17 ] [ range 9 .. 60 ]
+sequence
+----TIYDVSERVGVSLATVSRVVNNNG---KVKSETRQKVLKAIKELNYR--PNAMAKGL----*
+>P1;gi|16802578|ref|NP_464063.1| similar to transcription regulator ... [ score 90 E 1e-17 ] [ range 2 .. 55 ]
+sequence
+---ANIQEIAKLAGVSSATVSRVINKRD---YVSDETRKRVQTIIDKLDYV--PNINAVSLK---*
+>P1;gi|2668503|gb|AAC46030.1| Ccpa protein [Lactobacillus casei] >gi... [ score 90 E 1e-17 ] [ range 7 .. 58 ]
+sequence
+----TIYDVAREANVSMATVSRVVNGNP---NVKPATRKKVLEVIERLDYR--PNAVARGL----*
+>P1;gi|16127295|ref|NP_421859.1| transcriptional regulator, LacI fam... [ score 90 E 1e-17 ] [ range 16 .. 68 ]
+sequence
+---ATIRDVAARAGVSPMTVSRVINRES---TVKEETRQLVEKAIADLNYA--PNPAARSL----*
+>P1;gi|24559653|gb|AAM19069.1| repressor FruR [Bacillus megaterium] [ score 90 E 1e-17 ] [ range 3 .. 55 ]
+sequence
+---AKISDVAKIAGVSPTTVSRVLNNRG---YISKETRENVYKAMKEINYF--PNDIARSL----*
+>P1;gi|22993301|ref|ZP_00037904.1| COG1609: Transcriptional regulato... [ score 90 E 2e-17 ] [ range 8 .. 62 ]
+sequence
+----TIYDIAKKANVSKSTVSRVLNNQP---NISDKAKASVLQAIKELNYE--PSKIARGLSGN-*
+>P1;gi|44539662|gb|EAJ96311.1| unknown [environmental sequence] [ score 90 E 2e-17 ] [ range 2 .. 57 ]
+sequence
+---ATIYQVSEAAGVSLATVSRVMNGNA---KVSERTRKKVEDAMASLGYQ--PNAIAQSLASN-*
+>P1;gi|43770396|gb|EAF39649.1| unknown [environmental sequence] [ score 90 E 2e-17 ] [ range 2 .. 57 ]
+sequence
+---ATIYQVSEMAGVSLSTVSRVLNDND---YVSKKTKKKVLEAMKELGYQ--PSSIARSLASS-*
+>P1;gi|22536948|ref|NP_687799.1| sugar-binding transcriptional regul... [ score 90 E 2e-17 ] [ range 3 .. 56 ]
+sequence
+----SISDIAKKAGVAKSTVSRVINHHP---HVSDETRQKVMALITELDYI--PNQLARDLSR--*
+>P1;gi|16761789|ref|NP_457406.1| galactose operon repressor [Salmone... [ score 90 E 2e-17 ] [ range 2 .. 54 ]
+sequence
+---ATIKDVARLAGVSVATVSRVINDSP---KASEASRLAVTSAMESLSYH--PNANARAL----*
+>P1;gi|30022191|ref|NP_833822.1| Ribose operon repressor [Bacillus c... [ score 90 E 2e-17 ] [ range 2 .. 54 ]
+sequence
+---ATIRDVAKLAGVSVATVSRVINEKG---YVHEDTVKQVKEAIEELRYR--PNSAAKPL----*
+>P1;gi|30018842|ref|NP_830473.1| Ribose operon repressor [Bacillus c... [ score 89 E 2e-17 ] [ range 2 .. 54 ]
+sequence
+---STIKDVAKLAGVSVATVSRVLNKNG---YVHEDTLKKVERAIEMLDYK--PSTVARSL----*
+>P1;gi|3024092|sp|O05103|MALR_CLOBU HTH-type transcriptional regulat... [ score 89 E 2e-17 ] [ range 3 .. 57 ]
+sequence
+-----IKDIARLSGVGVSTVSRVINNHP---DVKQSTREKVLQIIKDSNYI--PNNSARILKQNN*
+>P1;gi|21225681|ref|NP_631460.1| putative LacI-family transcriptiona... [ score 89 E 3e-17 ] [ range 23 .. 77 ]
+sequence
+---ASMADVARLAGVSSQTVSRVSNGYA---GVTEETRQQVLAAMKELGYR--PNSAARALKR--*
+>P1;gi|17545733|ref|NP_519135.1| PROBABLE TRANSCRIPTIONAL REGULATORY... [ score 89 E 3e-17 ] [ range 2 .. 55 ]
+sequence
+---ATIKDVAALAGVSFTTVSHVINNTR---PVNSETRKRVEEAIRATRYV--PSAVARSLK---*
+>P1;gi|22971814|ref|ZP_00018736.1| hypothetical protein [Chloroflexu... [ score 89 E 3e-17 ] [ range 2 .. 57 ]
+sequence
+---ATIKDVARRAQVSTATVSYVLNGTG---VISEPTRARVLAAVAELGYQ--PNHSARALRTR-*
+>P1;gi|41537|emb|CAA44390.1| GalS [Escherichia coli] [ score 89 E 3e-17 ] [ range 3 .. 56 ]
+sequence
+----TIRDVARQAGVSVATVSRVLNNST---LVSADTREAVMKAVSELDYR--PNANAQALAT--*
+>P1;gi|15616289|ref|NP_244594.1| transcriptional repressor of the ri... [ score 89 E 3e-17 ] [ range 3 .. 54 ]
+sequence
+----TIRDVAKHAKVSVATVSRVLNKKG---YVSKEAEEAVLQAIKELNYQ--PSSVARSL----*
+>P1;gi|22990990|ref|ZP_00035761.1| COG1609: Transcriptional regulato... [ score 88 E 4e-17 ] [ range 3 .. 57 ]
+sequence
+----TLADVAKRANVSKMTVSRVINHPE---QVTDELKELVFSAMAELDYR--PNIAAKALVTN-*
+>P1;gi|15801850|ref|NP_287868.1| putative LACI-type transcriptional ... [ score 88 E 4e-17 ] [ range 4 .. 55 ]
+sequence
+----TIYDIARVAGVSKSTVSRVLNKQT---NISPEAREKVLRAIEELQYQ--PNKLARAL----*
+>P1;gi|43999296|gb|EAG57569.1| unknown [environmental sequence] [ score 88 E 4e-17 ] [ range 3 .. 57 ]
+sequence
+----TMLDVSRHAGVSKATVSRVLNGTG---QVKESTRQKVFKAMQALDYR--PNFLARSLANR-*
+>P1;gi|29377863|ref|NP_816991.1| sucrose operon repressor ScrR [Ente... [ score 88 E 4e-17 ] [ range 3 .. 56 ]
+sequence
+---AKLTDVAELAGVSPTTVSRVINNKG---YLSEKTKKNVHEAMKILGYK--PNNLARGLQ---*
+>P1;gi|23028662|ref|ZP_00067050.1| COG1609: Transcriptional regulato... [ score 88 E 4e-17 ] [ range 4 .. 56 ]
+sequence
+----TIKDVAKLAGVSFKTVSRVVNKES---TVGEALQEKVWKAINELGYK--PNLSARGLR---*
+>P1;gi|28899167|ref|NP_798772.1| transcriptional regulator, LacI fam... [ score 88 E 4e-17 ] [ range 2 .. 54 ]
+sequence
+---ATIKDVAKEAGVSVATVSRVINKSP---KASQSSVESVTKAMRKLGYR--PNAAARAL----*
+>P1;gi|29375537|ref|NP_814691.1| sugar-binding transcriptional regul... [ score 88 E 4e-17 ] [ range 4 .. 55 ]
+sequence
+----TVKDVAKKAGVATSTVSRVINDHP---SISESTKKKVRKVMDDLGYV--PNMTARNL----*
+>P1;gi|15616254|ref|NP_244559.1| transcriptional regulator [Bacillus... [ score 88 E 5e-17 ] [ range 3 .. 57 ]
+sequence
+----TIKDIAKVAGVSVTTVSRALNGYS---DVNEKTRKKIKDIANELKYS--PNVMARSLVMN-*
+>P1;gi|38604814|sp|Q8CNV8|CCPA_STAEP Probable catabolite control pro... [ score 88 E 5e-17 ] [ range 4 .. 55 ]
+sequence
+----TIYDVAREARVSMATVSRVVNGNQ---NVKPETRNKVNEVIKRLNYR--PNAVARGL----*
+>P1;gi|30577812|emb|CAD90945.1| repressor [Lactobacillus fermentum] [ score 88 E 5e-17 ] [ range 9 .. 65 ]
+sequence
+-----LEDVAALAGVSKTTVSRVLNNRG---YLSEATKQRVHEAMEQLHYC--PNAIARQLKTN-*
+>P1;gi|7341263|gb|AAF61223.1| catabolite control protein A [Streptoc... [ score 88 E 5e-17 ] [ range 8 .. 59 ]
+sequence
+----TIYDVAREAGVSMATVSRVVNGNK---NVKENTRKKVLEVIDRLDYR--PNAVARGL----*
+>P1;gi|3023459|sp|Q56194|CCPA_STAXY Probable catabolite control prot... [ score 88 E 6e-17 ] [ range 4 .. 55 ]
+sequence
+----TIYDVAREARVSMATVSRVVNGNQ---NVKPETRDKVNEVIKKLNYR--PNAVARGL----*
+>P1;gi|16803767|ref|NP_465252.1| similar to transcription regulators... [ score 88 E 6e-17 ] [ range 4 .. 57 ]
+sequence
+-----IKDIAKKAGVSISTVSYALNGSP---KVTEKTRKRIMTIANELNYI--PNMAARTLKTR-*
+>P1;gi|23108370|ref|ZP_00094596.1| COG1609: Transcriptional regulato... [ score 88 E 6e-17 ] [ range 21 .. 72 ]
+sequence
+----TVADVARLAGVSPMTVSRVVNSES---YVTEDTRTRVQQAIEKLGYV--PNLAARSL----*
+>P1;gi|1168844|sp|P46828|CCPA_BACME Glucose-resistance amylase regul... [ score 88 E 6e-17 ] [ range 4 .. 55 ]
+sequence
+----TIYDVAREASVSMATVSRVVNGNP---NVKPSTRKKVLETIERLGYR--PNAVARGL----*
+>P1;gi|16761133|ref|NP_456750.1| mgl repressor and galactose ultrain... [ score 88 E 7e-17 ] [ range 3 .. 56 ]
+sequence
+----TIRDVARQAGVSVATVSRVLNNSA---LVSPDTRDAVMQAVTLLGYR--PNANAQALAT--*
+>P1;gi|16080516|ref|NP_391343.1| similar to transcriptional regulato... [ score 88 E 7e-17 ] [ range 2 .. 57 ]
+sequence
+---ATLSDVAKKANVSKMTVSRVINHPE---TVTDELKKLVHSAMKELNYI--PNYAARALVQN-*
+>P1;gi|16126294|ref|NP_420858.1| transcriptional regulator, LacI fam... [ score 88 E 7e-17 ] [ range 6 .. 57 ]
+sequence
+----TIHDVARESGVSIKTVSRVLNREP---NVKADTRDRVQAAVAALHYR--PNISARSL----*
+>P1;gi|44513048|gb|EAJ78263.1| unknown [environmental sequence] [ score 88 E 7e-17 ] [ range 2 .. 54 ]
+sequence
+---STIKDVARLANVSVATVSRVMNNSP---KASAASREVVQKAMAELGYT--PNANARAL----*
+>P1;gi|23336188|ref|ZP_00121414.1| COG1609: Transcriptional regulato... [ score 87 E 8e-17 ] [ range 4 .. 60 ]
+sequence
+-----MRDVAKKAGVSLSTVSLVVNGNG---YVSDDMRERVCKAMQALNYV--PNELARNLRTN-*
+>P1;gi|24113725|ref|NP_708235.1| sucrose operon repressor (CSC opero... [ score 88 E 8e-17 ] [ range 64 .. 117 ]
+sequence
+---ASLKDVARLAGVSMMTVSRVMHNAE---SVRPATRDRVLQAIQTLNYV--PDLSARKMR---*
+>P1;gi|16804774|ref|NP_466259.1| similar to transcriptional regulato... [ score 87 E 9e-17 ] [ range 4 .. 56 ]
+sequence
+-----IKEIAKLAGVSVTTVSRVLNNHP---YVAEEKRVRVQAVIDELDYS--PNRSAMDLAR--*
+>P1;gi|43939529|gb|EAG25171.1| unknown [environmental sequence] [ score 87 E 9e-17 ] [ range 3 .. 56 ]
+sequence
+----TIRDVARQSGVSVATVSRVLNNSA---LVSPDTREAVMKAVTQLGYR--PNANAQALAT--*
+>P1;gi|37528575|ref|NP_931920.1| transcriptional repressor [Photorha... [ score 87 E 9e-17 ] [ range 10 .. 64 ]
+sequence
+---ATMKDVAEVAGVSTATVSRTLMNPE---KVSSQTRQKVEQAVLAVGYY--PNNLSRNLKR--*
+>P1;gi|28566279|gb|AAO43402.1| catabolite control protein A [Bacillu... [ score 87 E 1e-16 ] [ range 4 .. 55 ]
+sequence
+----TIYDVAREANVSMATVSRVVNGNQ---NVKPATRKKVLEVIERLEYR--PNAVARGL----*
+>P1;gi|21241484|ref|NP_641066.1| transcriptional regulator lacI fami... [ score 87 E 1e-16 ] [ range 5 .. 57 ]
+sequence
+----TIKDVAERAKVSLKTVSRVINNEP---SVMQATRARVLRAIADLDYE--PDPSARNLR---*
+>P1;gi|15675647|ref|NP_269821.1| putative sucrose operon repressor [... [ score 87 E 1e-16 ] [ range 3 .. 56 ]
+sequence
+---AKLTDVAALAGVSPTTVSRVINKKG---YLSQKTVNKVNKAMRELGYK--PNNLARSLQ---*
+>P1;gi|23024216|ref|ZP_00063435.1| COG1609: Transcriptional regulato... [ score 86 E 1e-16 ] [ range 7 .. 59 ]
+sequence
+---ATIYDVASRVGVSLATVSRVVNGNS---NVRESTKRKVLDAIEELGYH--PNAVARGL----*
+>P1;gi|23491826|dbj|BAC16809.1| transcriptional repressor CytR [Pect... [ score 86 E 1e-16 ] [ range 10 .. 65 ]
+sequence
+---ATMKDVADEAGVSTATVSRTLMNPE---KVSATTRRKVEQAVIAVGYS--PHALNRNLKRN-*
+>P1;gi|15602902|ref|NP_245974.1| GalR [Pasteurella multocida] >gi|12... [ score 86 E 1e-16 ] [ range 3 .. 58 ]
+sequence
+----TIHDVAQHAGVSVATVSRVLNNHP---SASEKARIAVQAAIEKLGYQ--PNANAQALAMKN*
+>P1;gi|42518296|ref|NP_964226.1| hypothetical protein LJ0210 [Lactob... [ score 86 E 1e-16 ] [ range 3 .. 57 ]
+sequence
+----TLSDVAKKASVSKMTVSRVINHPQ---QVTPELRKIVEKAMEQLNYH--PNSIASALAHN-*
+>P1;gi|30018467|ref|NP_830098.1| Transcriptional regulator, LacI fam... [ score 86 E 1e-16 ] [ range 2 .. 60 ]
+sequence
+---ANIKDIAKMAGVSVTTVSRVLNDHP---YVSEEKRKAVIEIVEKLNYS--QNANAVHLKTN-*
+>P1;gi|16803639|ref|NP_465124.1| catabolite control protein A [Liste... [ score 86 E 1e-16 ] [ range 4 .. 55 ]
+sequence
+----TIYDVAREANVSMATVSRVVNGNP---NVKPVTRKKVLDVINQLGYR--PNAVARGL----*
+>P1;gi|42783332|ref|NP_980579.1| sugar-binding transcriptional regul... [ score 86 E 1e-16 ] [ range 2 .. 54 ]
+sequence
+---ANIKQIAKTAGVSISTVSRVLNNHP---YVKEEKRKRVLDAVEELNYA--KNINAIHL----*
+>P1;gi|29375977|ref|NP_815131.1| sugar-binding transcriptional regul... [ score 86 E 2e-16 ] [ range 3 .. 55 ]
+sequence
+----SIIDVAKVAGVSKSTVSRLISGKG---YVSADSQEKILKAMKELNYT--PNYVARNLR---*
+>P1;gi|37675759|ref|NP_936155.1| transcriptional regulator [Vibrio v... [ score 86 E 2e-16 ] [ range 35 .. 89 ]
+sequence
+----TSKDVAKLAGVSQSTVSRVFVPGS---SVSEKTKQKVFEAAKALNYR--PNAFARSLTTN-*
+>P1;gi|16081139|ref|NP_391967.1| similar to transcriptional regulato... [ score 86 E 2e-16 ] [ range 2 .. 51 ]
+sequence
+---ANIKEIARLANVSVSTVSRVLNHHP---YVSEEKRKLVHQVMKELDYT--PNRTA-------*
+>P1;gi|15643974|ref|NP_229023.1| transcriptional regulator, LacI fam... [ score 86 E 2e-16 ] [ range 2 .. 47 ]
+sequence
+---ASIKDVAKLAGVSIATVSRVINGYN---NVSEETRKKVIDAIRKLNYH--P-----------*
+>P1;gi|15804525|ref|NP_290565.1| regulator for deo operon, udp, cdd,... [ score 86 E 2e-16 ] [ range 10 .. 65 ]
+sequence
+---ATMKDVALKAKVSTATVSRALMNPD---KVSQATRNRVEKAAREVGYL--PQPMGRNVKRN-*
+>P1;gi|23335778|ref|ZP_00121011.1| COG1609: Transcriptional regulato... [ score 86 E 2e-16 ] [ range 8 .. 60 ]
+sequence
+----SMQDVAKAADVSPQTVSRVANGSD---AVKPETRQRVEAAMERLGYR--PNYAARALK---*
+>P1;gi|16125873|ref|NP_420437.1| transcriptional regulator, LacI fam... [ score 86 E 2e-16 ] [ range 2 .. 56 ]
+sequence
+---ATIQDVAREAGVSTATVSRVFSAPD---LVLEATRQKVMEAVQRLGYE--PNFAAKSLRT--*
+>P1;gi|15924498|ref|NP_372032.1| maltose operon transcriptional repr... [ score 86 E 2e-16 ] [ range 3 .. 57 ]
+sequence
+----TIKDVALKAGVSPSTVSRVIKGNK---RISEATISKVKKVMEELNYF--PNTAARTLITN-*
+>P1;gi|23106642|ref|ZP_00093025.1| COG1609: Transcriptional regulato... [ score 86 E 2e-16 ] [ range 10 .. 64 ]
+sequence
+----TINDVARIAGVSKKTVSRVINRSP---LLNEATREKVEAVIAELGYV--PNPQARALALR-*
+>P1;gi|23110050|ref|ZP_00096214.1| COG1609: Transcriptional regulato... [ score 86 E 2e-16 ] [ range 16 .. 68 ]
+sequence
+---ATMEDVAKLAGVSLKSVSRVINAEP---HVSAKLRAKVEAAIAELNYV--PDTAARSL----*
+>P1;gi|7672987|gb|AAF66688.1| sal operon transcriptional repressor S... [ score 86 E 2e-16 ] [ range 5 .. 56 ]
+sequence
+----TIHDVARVAGYSIKTVSRVLNGEP---KASPATREKVMAAVAALNYS--PNLSARSL----*
+>P1;gi|23472860|ref|ZP_00128181.1| COG1609: Transcriptional regulato... [ score 103 E 1e-21 ] [ range 1 .. 59 ]
+sequence
+---MKLSDIARLAGVSVTTASYVINGKAEKQRISPATVERVKAVVEQHDFR--PNPQAAGLR-SR*
+>P1;gi|28868173|ref|NP_790792.1| fructose repressor FruR, putative [... [ score 103 E 1e-21 ] [ range 1 .. 59 ]
+sequence
+---MKLSDIARLAGVSVTTASYVINGKAEQQRISPATVERVKAVVEQYDFR--PNPQAAGLR-SR*
+>P1;gi|15598759|ref|NP_252253.1| fructose transport system repressor... [ score 102 E 3e-21 ] [ range 1 .. 57 ]
+sequence
+---MKLSDIARLAGVSVTTASYVINGKAAQRRISAATVERVLAVVEEHGYQ--PDQQAAGLR---*
+>P1;gi|28900669|ref|NP_800324.1| fructose repressor [Vibrio parahaem... [ score 101 E 5e-21 ] [ range 1 .. 57 ]
+sequence
+---MTLDEIAKLAGVSKTTASYVINGKAQKYRISEKTQKKVMAVVDEYNYK--PDHAASSLR---*
+>P1;gi|27366656|ref|NP_762183.1| Transcriptional regulator [Vibrio v... [ score 101 E 6e-21 ] [ range 1 .. 57 ]
+sequence
+---MTLDEIAKLAGVSKTTASYVINGKAKKYRISEKTQMKVMAVVEEYNFR--PDHAASSLR---*
+>P1;gi|548906|sp|P37076|SCRR_KLEPN Sucrose operon repressor (Scr ope... [ score 100 E 2e-20 ] [ range 6 .. 62 ]
+sequence
+---VTIKDIAELAGVSKATASLVLNGRGKELRVAQETRERVLAIAREQHYQ--PSIHARSLR---*
+>P1;gi|10304099|gb|AAG16131.1| FruR [Vibrio cholerae] [ score 99 E 2e-20 ] [ range 15 .. 71 ]
+sequence
+---MTLDEIAKLAGVSKTTASYVINGKAQKYRISEKTQHKVMAVVEQYNFR--PDHAASALR---*
+>P1;gi|26987528|ref|NP_742953.1| fructose transport system repressor... [ score 98 E 4e-20 ] [ range 1 .. 59 ]
+sequence
+---MKLSDIARLAGVSVTTASYVINGKAEQQRISNSTVERVRAVVEAHGFT--PNPQAAGLR-SR*
+>P1;gi|44385564|gb|EAI90135.1| unknown [environmental sequence] [ score 98 E 7e-20 ] [ range 1 .. 57 ]
+sequence
+---MKLDEIAALAGVSRTTASYVINGKADQYRISQATRDKVMAVVTAHNYQ--PDSRAASLR---*
+>P1;gi|548907|sp|P37077|SCRR_SALTY Sucrose operon repressor (Scr ope... [ score 95 E 5e-19 ] [ range 6 .. 62 ]
+sequence
+---VTIKDIAEQAGVSKATASLVLNGRGKELRVAQETRERVLSIARKHHYQ--PSIHARSLR---*
+>P1;gi|43998892|gb|EAG57344.1| unknown [environmental sequence] [ score 93 E 1e-18 ] [ range 7 .. 63 ]
+sequence
+---VKLSDIARLAQVSVTTASYVINGQAERRRISPATVARVLAVVEEHGYR--PDQQAASLR---*
+>P1;gi|15602733|ref|NP_245805.1| FruR [Pasteurella multocida] >gi|12... [ score 92 E 4e-18 ] [ range 3 .. 59 ]
+sequence
+---LKLVELAKLAGVSRTTASYVVNGKAKAYRVSDKTIEKVEKLIKQYDFK--PNAMAAGLR---*
+>P1;gi|11071664|emb|CAC14602.1| repressor [Erwinia amylovora] [ score 90 E 1e-17 ] [ range 7 .. 62 ]
+sequence
+---ITINDIARLAGVSKSTASLVLNGRGKELRVAQGTRDRVLEIARQQHYQ--PSIHARAL----*
+>P1;gi|29376164|ref|NP_815318.1| sucrose operon repressor ScrR [Ente... [ score 89 E 2e-17 ] [ range 3 .. 56 ]
+sequence
+---VKLTDVAKLAGVSPTTVSRVINNYG---YLSQKTIDKVHQAMEELNYQ--PNGLARSLQ---*
+>P1;gi|42519808|ref|NP_965738.1| sucrose operon repressor [Lactobaci... [ score 87 E 9e-17 ] [ range 2 .. 55 ]
+sequence
+---VKLTDVAAKAGCSVTTVSRVINNYG---YISQKTRKKVHEAMKELNYQ--PNSVARSLQ---*
+>P1;gi|43988990|gb|EAG52040.1| unknown [environmental sequence] [ score 87 E 1e-16 ] [ range 12 .. 66 ]
+sequence
+----KITDVARLAGVSVTTVSMVLRGKG---RISPATAERVQQAIKELDYV--PNSAAANLR-SQ*
+>P1;gi|32033830|ref|ZP_00134115.1| COG1609: Transcriptional regulato... [ score 87 E 1e-16 ] [ range 9 .. 67 ]
+sequence
+---LTLSDIAALSGVSKTTASMILNGRSDDFRIKLETRQKVQAIAEQYGYR--ANIYAKALQ-AQ*
+>P1;gi|6686565|emb|CAB65654.1| putative repressor of maltose transpo... [ score 87 E 2e-16 ] [ range 3 .. 54 ]
+sequence
+----TIKDVARLANVSPSTVSRVL---ANSPRISEETKRRVRAALEQLNYH--PNAFARGL----*
+>P1;gi|22970298|ref|ZP_00017403.1| hypothetical protein [Chloroflexu... [ score 87 E 2e-16 ] [ range 3 .. 57 ]
+sequence
+----TIKDVARRAGVSVTAASYALNRTG---TISEETRQRVLQAAEELNYH--PNAFARHLK-AR*
+>P1;gi|15603712|ref|NP_246786.1| ScrR [Pasteurella multocida] >gi|12... [ score 86 E 2e-16 ] [ range 9 .. 67 ]
+sequence
+---ITLSDIAKCCGLSTTTVSMILNNRGEEFKIKAETCQRVKAIAEQQGYR--ANVYAKSLK-MQ*
+>P1;gi|15896789|ref|NP_350138.1| Transcriptional regulator (LacI fam... [ score 86 E 2e-16 ] [ range 3 .. 60 ]
+sequence
+----TIKDVAKLSGVSPSTVSIILNGNASKRNISERTQRKVMDSVKKLNYH--PNIAARKLR-SK*
+>P1;gi|43919352|gb|EAG14549.1| unknown [environmental sequence] [ score 85 E 4e-16 ] [ range 1 .. 55 ]
+sequence
+-----MTDIARLANVSVTTASYVLNGKAAQRRISAATVERVMAVAEQQGFQ--LDQQAAGLR---*
+>P1;gi|20806866|ref|NP_622037.1| Transcriptional regulator [Thermoan... [ score 85 E 5e-16 ] [ range 2 .. 55 ]
+sequence
+---INSKDIARIAGVSRSTVSRVINNYPN---VSPETKEKVLKAIKEYNYV--PHASARMLR---*
+>P1;gi|22974988|ref|ZP_00021073.1| hypothetical protein [Chloroflexu... [ score 85 E 6e-16 ] [ range 7 .. 59 ]
+sequence
+---ITLDEIARRAGVSRSTASRVLNNHP---HVNPAVRERVWQAIRETNYQ--PNHPARSL----*
+>P1;gi|16123837|ref|NP_407150.1| trehalose operon repressor [Yersini... [ score 84 E 7e-16 ] [ range 5 .. 60 ]
+sequence
+---LTIKDIARMSGVGKSTVSRVLNNEGS---VSPQTRERVEAVIRQHGFT--PSKSARAMR-GQ*
+>P1;gi|23021314|ref|ZP_00060994.1| COG1609: Transcriptional regulato... [ score 84 E 8e-16 ] [ range 1 .. 53 ]
+sequence
+---MNSKDIAKIVGVSRSTVSRVINNYPD---IPQATREKVLKAIKEYNYY--PNASARRL----*
+>P1;gi|22973742|ref|ZP_00020257.1| hypothetical protein [Chloroflexu... [ score 84 E 8e-16 ] [ range 28 .. 80 ]
+sequence
+---MTLEEIARLAGCSRSTVSRVINHDP---HVSPEMRERVWQIIKEHDFQ--PNLAARAL----*
+>P1;gi|44373569|gb|EAI81433.1| unknown [environmental sequence] [ score 84 E 1e-15 ] [ range 12 .. 68 ]
+sequence
+---ITIAQIAELAGVSKATASLVLNGKSAEYRIADDTRKRIQAVADECHYQ--PSFHARALR---*
+>P1;gi|42913868|gb|EAB24001.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 3 .. 60 ]
+sequence
+---LSLEELALKADVSKTTVSLVLNGKSSIYRISKETENRILKIAKKHNYK--PNSIARALR-L-*
+>P1;gi|15900262|ref|NP_344866.1| sugar binding transcriptional regul... [ score 82 E 3e-15 ] [ range 5 .. 61 ]
+sequence
+---LTIKDIAEMAQTSKTTVSFYLNGKYEK--MSQETREKIEKVIHETNYK--PSIVARSLN-SK*
+>P1;gi|22969844|ref|ZP_00017058.1| hypothetical protein [Chloroflexu... [ score 82 E 3e-15 ] [ range 8 .. 62 ]
+sequence
+----TLEDIARLANVSRSTVSRALNNSP---LISKQTRERIQAIAREHNFC--LNVSGRNLR-LR*
+>P1;gi|15893684|ref|NP_347033.1| KDG operon repressor (gene kdgR), L... [ score 82 E 3e-15 ] [ range 9 .. 61 ]
+sequence
+-----IDDVAKLAGVSKATISRYLNGKFE--YMSEKTKDRIKESIEELNYR--PNNIARSLK---*
+>P1;gi|27468561|ref|NP_765198.1| sucrose operon repressor [Staphyloc... [ score 82 E 3e-15 ] [ range 3 .. 56 ]
+sequence
+----NISDIAKLAGVSKSTVSRFLNNGS----VSPATKEKITKIIEENNYQ--PNQFAQSLR-AR*
+>P1;gi|42519185|ref|NP_965115.1| hypothetical protein LJ1260 [Lactob... [ score 82 E 5e-15 ] [ range 1 .. 53 ]
+sequence
+---MTIRDIAKLANVSVATVSRIINNSGK---VSDKTRLKVNKIIEETNYH--PNQVARTL----*
+>P1;gi|22992257|ref|ZP_00036913.1| COG1609: Transcriptional regulato... [ score 81 E 6e-15 ] [ range 8 .. 59 ]
+sequence
+---ITIKEVAKLSGVSITTVSLILNGNTEKF--SPKTVQKVLAAKEELGYQ--PDYFAR------*
+>P1;gi|20808925|ref|NP_624096.1| Transcriptional regulator [Thermoan... [ score 81 E 6e-15 ] [ range 7 .. 59 ]
+sequence
+---VTIKDVAKRANVAPSTVSRVI---ADSPRISKETKERVWKAMEELGYY--PNAIARSL----*
+>P1;gi|22537832|ref|NP_688683.1| sucrose operon repressor ScrR [Stre... [ score 81 E 6e-15 ] [ range 4 .. 56 ]
+sequence
+----KLTDVAALAGVSPTTVSRVINKKG---YLSQKTVTKVNEAMRTLGYK--PNNLARSLQ---*
+>P1;gi|23037836|ref|ZP_00070036.1| COG1609: Transcriptional regulato... [ score 81 E 8e-15 ] [ range 4 .. 56 ]
+sequence
+----KLQDVAKRAGVTITTVSRVLNDFP---HVSKKTHDKVYAAIRALNYH--PNALARSLQ---*
+>P1;gi|41326221|emb|CAF20383.1| PUTATIVE TRANSCRIPTION REGULATION RE... [ score 81 E 8e-15 ] [ range 8 .. 60 ]
+sequence
+----SLKEVAELAGVGYATASRALSGKG---YVSPQTREKVQAAAKELNYV--PNQLAKALR---*
+>P1;gi|12584560|emb|CAC27411.1| putative lacI-family transcriptional... [ score 81 E 8e-15 ] [ range 1 .. 53 ]
+sequence
+---MTSEEIAKLCGVSRATVSRVINNSPN---VKEETRQKILAVIKEKNYV--PIAPARRL----*
+>P1;gi|16125221|ref|NP_419785.1| transcriptional regulator, LacI fam... [ score 81 E 9e-15 ] [ range 3 .. 57 ]
+sequence
+----TINDVAERAGVSPKTVSRVLNDHES---VSAKTRDRVRTAMQDLGYQ--PSAVARSLR-SQ*
+>P1;gi|15925032|ref|NP_372566.1| sucrose operon repressor [Staphyloc... [ score 80 E 1e-14 ] [ range 3 .. 56 ]
+sequence
+----NISDIAKLAGVSKSTVSRFLNNGS----VSKKTSEKLTRIIAEHDYQ--PNQFAQSLR-AR*
+>P1;gi|29374822|ref|NP_813974.1| sugar-binding transcriptional regul... [ score 80 E 1e-14 ] [ range 3 .. 55 ]
+sequence
+---LTIKEIADMAGVSVTTVSQILNNKGS--RFSEKTRNKVLAVVAENHYK--PDYFASN-----*
+>P1;gi|15901927|ref|NP_346531.1| maltose operon transcriptional repr... [ score 80 E 1e-14 ] [ range 3 .. 55 ]
+sequence
+---VTIKDVAKAAGVSPSTVTRVIQNKS---TISDETKKRVRKAMKELNYH--PNLNARSL----*
+>P1;gi|29376450|ref|NP_815604.1| transcriptional regulator, LacI fam... [ score 80 E 2e-14 ] [ range 1 .. 47 ]
+sequence
+---MNIKDIAKLAGVSASTVSKIINNKDQT--ISKETRERVLKIVRDYNYT--P-----------*
+>P1;gi|44175595|gb|EAH53329.1| unknown [environmental sequence] [ score 79 E 2e-14 ] [ range 3 .. 60 ]
+sequence
+---LSLEELALKANVSKTTVSLVLNGKSSIYRISKETENKILKIAKEHNYK--PNSIARALR-L-*
+>P1;gi|15675250|ref|NP_269424.1| putative transcription regulator (L... [ score 80 E 2e-14 ] [ range 6 .. 60 ]
+sequence
+---ITIKDIAREAGVSVATVSYVLNQR-NDQKISEETRNKVLHISNLLNYT--PNQAARSL----*
+>P1;gi|21219406|ref|NP_625185.1| putative LacI-family transcriptiona... [ score 80 E 2e-14 ] [ range 23 .. 74 ]
+sequence
+-------DVARLAGVSRATVSYVLNNTG-TVRISEPTRRRVREAARQLGYV--PHAAARSLR---*
+>P1;gi|16078147|ref|NP_388964.1| transcriptional regulator (LacI fam... [ score 79 E 3e-14 ] [ range 4 .. 55 ]
+sequence
+----TIYDVAKAAGVSITTVSRVINNTG---RISDKTRQKVMNVMNEMAYT--PNVHAAAL----*
+>P1;gi|44098359|gb|EAH11762.1| unknown [environmental sequence] [ score 79 E 3e-14 ] [ range 1 .. 56 ]
+sequence
+---MTIKDIARLSGVGKSTVSRVLNNESG---VNERTRERVEAVMQQHGFS--PSRSARAMR-GQ*
+>P1;gi|16767700|ref|NP_463315.1| trehalose operon transcriptional re... [ score 78 E 4e-14 ] [ range 5 .. 60 ]
+sequence
+---LTIKDIARLSGVGKSTVSRVLNNESG---VSERTRERVEAVMNQHGFS--PSRSARAMR-GQ*
+>P1;gi|13591401|gb|AAK29739.1| catabolite control protein [Lactococc... [ score 78 E 5e-14 ] [ range 7 .. 61 ]
+sequence
+----TIYDVARVAGVSMATVSRVVNGNAN---VKEKTRQKVLEAIAELDYR--PNAVARGLS-SK*
+>P1;gi|29833888|ref|NP_828522.1| putative LacI-family transcriptiona... [ score 78 E 6e-14 ] [ range 23 .. 74 ]
+sequence
+-------DVARLAGVSRATVSYVLNNTSA-VRISEPTRRRVHEAAKELGYV--PHAAARSLR---*
+>P1;gi|37527169|ref|NP_930513.1| Trehalose operon repressor [Photorh... [ score 78 E 6e-14 ] [ range 5 .. 60 ]
+sequence
+---LTIKDIARLANVSKSTVSRVLNN---ENSVSPQVRERVETIIQQNNFI--PSKSARAMR-VK*
+>P1;gi|16078302|ref|NP_389119.1| similar to transcriptional regulato... [ score 78 E 7e-14 ] [ range 2 .. 57 ]
+sequence
+---VTIKDIAKLANVSHTTVSRALNNSP---YIKEHTKKKILELAEQLNYT--PNVNAKSLA-MQ*
+>P1;gi|15615486|ref|NP_243789.1| transcriptional regulator involved ... [ score 77 E 8e-14 ] [ range 3 .. 55 ]
+sequence
+---VTIKDVAKLAKVAPSTVSRVIANNP---RISQRTKERVREAMEQLGYY--PNYNARSL----*
+>P1;gi|28211940|ref|NP_782884.1| catabolite control protein; ribose ... [ score 77 E 8e-14 ] [ range 4 .. 57 ]
+sequence
+---VTMMDIAKIAKVSKTTVSMVINNRDSG--ISEETRKKILSIAEELNYI--PNSLARSL----*
+>P1;gi|42491099|emb|CAE11236.1| EndR protein [Bacillus amyloliquefac... [ score 77 E 9e-14 ] [ range 4 .. 60 ]
+sequence
+---ITISDVAKYANVSKSTVSQFLNQRYD--YMSEKTKQKIEAAIQELNYQ--PNFVARSLK-QK*
+>P1;gi|15614418|ref|NP_242721.1| transcriptional regulator [Bacillus... [ score 77 E 1e-13 ] [ range 3 .. 56 ]
+sequence
+----TILDIAKLAGVAKSTVSRYLNGGS----VSEPTRQKIERVIKETGYI--PNAFAQSLK-AK*
+>P1;gi|42780261|ref|NP_977508.1| sugar-binding transcriptional regul... [ score 77 E 1e-13 ] [ range 3 .. 57 ]
+sequence
+----TIEDVAKLAGLSRTTVSRVINNHP---YVSDEKKKRVQLAMKHLGFV--PNSAARRLR-KQ*
+>P1;gi|4581475|emb|CAB09692.1| SacR [Lactococcus lactis] [ score 77 E 1e-13 ] [ range 2 .. 55 ]
+sequence
+---IKLEDVANKAGVSVTTVSRVINRKG---YLSDATISKVEKAMQDLHYI--PNAAARSLQ---*
+>P1;gi|29827372|ref|NP_822006.1| putative LacI-family transcriptiona... [ score 77 E 1e-13 ] [ range 11 .. 62 ]
+sequence
+----TLEDVARQSGVSRSTVSRLINGSP---RVSPAVAERVRTAVAELGYV--PNQAARSL----*
+>P1;gi|16802079|ref|NP_463564.1| transcriptional regulator LacI fami... [ score 77 E 1e-13 ] [ range 4 .. 55 ]
+sequence
+---ITIQEIAKLSGVSVSTVSRVLNNSPS---VSAAKRKKIQAIIDEHNYT--PSVFARG-----*
+>P1;gi|26989180|ref|NP_744605.1| ribose operon repressor [Pseudomona... [ score 77 E 1e-13 ] [ range 3 .. 57 ]
+sequence
+----TIKDVAALAGISYTTVSHVLN---KTRPVSEQVRLKVEAAIIELDYV--PSAVARSLK-AR*
+>P1;gi|23470668|ref|ZP_00126000.1| COG1609: Transcriptional regulato... [ score 77 E 1e-13 ] [ range 3 .. 57 ]
+sequence
+----TIKDVAALAGISYTTVSHVLNN---TRPVSEPVRLKVEAAIAQLDYV--PSAVARSLK-AK*
+>P1;gi|3024530|sp|Q45831|REGA_CLOSA HTH-type transcriptional regulat... [ score 77 E 1e-13 ] [ range 4 .. 58 ]
+sequence
+----SIKDVAREAGVSIATVSRVLN---DIDVVNEDTKKKVLDAIKELGYR--PNIVARSLK-TQ*
+>P1;gi|15672707|ref|NP_266881.1| transcription regulator [Lactococcu... [ score 76 E 2e-13 ] [ range 21 .. 75 ]
+sequence
+---ITLKEIAEMAGVSVMTVSNVIRGK--NSRVSVETKAKIQALVKKYNYV--PNQNASNLR---*
+>P1;gi|44248703|gb|EAH95008.1| unknown [environmental sequence] [ score 77 E 2e-13 ] [ range 3 .. 57 ]
+sequence
+----TIKDVAAMAGVSFTTVSHVVNN---SRPVSADVRAKVEGAIRELNYV--PSAVARSLK-AR*
+>P1;gi|23061261|ref|ZP_00086116.1| COG1609: Transcriptional regulato... [ score 77 E 2e-13 ] [ range 3 .. 57 ]
+sequence
+----TIKDVAALAGISYTTVSHVVN---KTRPVSEEVRLKVEAAIKSLDYV--PSAVARSLK-AK*
+>P1;gi|20807244|ref|NP_622415.1| Transcriptional regulator [Thermoan... [ score 77 E 2e-13 ] [ range 9 .. 63 ]
+sequence
+----TIKDVAEYAGVSIKTVSRVINDSSE---VTETTKKKVLDAIEKLGYR--PNALAKSLR-IK*
+>P1;gi|43914746|gb|EAG12258.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 1 .. 53 ]
+sequence
+-----MKDVARLAGVSTSTVSHVIN---KDRFVSESVTDKVEAAIKALNYA--PSALARSLK-L-*
+>P1;gi|3024599|sp|P74892|SCRR_STAXY Sucrose operon repressor (Scr op... [ score 76 E 2e-13 ] [ range 3 .. 56 ]
+sequence
+----NIADIAKIAGVSKSTVSRYLNNGS----VSLKTQQKLDEIIRENDYQ--PNQFAQSLR-AR*
+>P1;gi|15615792|ref|NP_244096.1| transcriptional regulator (LacI fam... [ score 75 E 3e-13 ] [ range 4 .. 56 ]
+sequence
+---MRSEDLAKLIGVSRSTITRVINNYPD---IPQATREKVWKAIEKYNYA--PNASARKL----*
+>P1;gi|26250837|ref|NP_756877.1| Putative regulator [Escherichia col... [ score 75 E 3e-13 ] [ range 20 .. 75 ]
+sequence
+---VTLTDVARAAGVSKSTVSLVLNDSS---LIKKETQQKVQQAIEQLGYV--YNRFAANLR-SQ*
+>P1;gi|2506559|sp|P24242|ASCG_ECOLI HTH-type transcriptional regulat... [ score 75 E 3e-13 ] [ range 3 .. 57 ]
+sequence
+----TMLEVAKRAGVSKATVSRVLSGNG---YVSQETKDRVFQAVEESGYR--PNLLARNLS-AK*
+>P1;gi|23465024|ref|NP_695627.1| LacI-type transcriptional regulator... [ score 75 E 3e-13 ] [ range 13 .. 63 ]
+sequence
+-----LEDVAALAGVSTATASKALHNKP---RISEETKQRVLDAAKQLNYS--PNKLAQSL----*
+>P1;gi|23335858|ref|ZP_00121090.1| COG1609: Transcriptional regulato... [ score 75 E 3e-13 ] [ range 28 .. 76 ]
+sequence
+-------EVAKLAGVSHQTVSRVINDSPD---VSDATRARVQAAIDQLGYR--PSNSARAL----*
+>P1;gi|41410398|ref|NP_963234.1| hypothetical protein MAP4300 [Mycob... [ score 75 E 3e-13 ] [ range 22 .. 72 ]
+sequence
+-------DVARLAGVSTATVSYVLNN-ARGRRISPDTRDAVYRAAKLLGYR--PNLAARNL----*
+>P1;gi|44511057|gb|EAJ76911.1| unknown [environmental sequence] [ score 75 E 4e-13 ] [ range 5 .. 60 ]
+sequence
+---LTILDIARLSGVGKSTVSRVLNQDPK---VKQATRDRVEQIIAEHGFV--PSKSARAMR-SQ*
+>P1;gi|23465737|ref|NP_696340.1| probable LacI-type transcriptional ... [ score 75 E 4e-13 ] [ range 7 .. 60 ]
+sequence
+---VSMQDIAKAAGVSPQTVSRVANGSDA---VKPETRQRVEAAMERLGYR--PNYAARALK---*
+>P1;gi|23025165|ref|ZP_00064333.1| COG1609: Transcriptional regulato... [ score 75 E 4e-13 ] [ range 5 .. 59 ]
+sequence
+---ISIKDVAKKAGVSIAAVSQILNNKGQ--RFSEATIEKVLQARDELGYV--PNSAARNLK---*
+>P1;gi|16263765|ref|NP_436557.1| putative transcriptional regulator ... [ score 75 E 5e-13 ] [ range 6 .. 60 ]
+sequence
+----KIKDIAEKAGVSVATVSRAL---AASTLVTAETRQRVLDLARELDYR--PNVSARNLR-TR*
+>P1;gi|15643956|ref|NP_229005.1| transcriptional regulator, LacI fam... [ score 75 E 6e-13 ] [ range 6 .. 61 ]
+sequence
+---VTIRDIAEKAGVSINTVSRALNNKPD---ISEETRRKILKIAQELGYV--KNATASSLR-SK*
+>P1;gi|28895208|ref|NP_801558.1| putative sucrose operon repressor [... [ score 75 E 6e-13 ] [ range 1 .. 46 ]
+sequence
+-----------MAGVSPTTVSRVINKKG---YLSQKTVNKVNKAMRELGYK--PNNLARSLQ---*
+>P1;gi|22970586|ref|ZP_00017645.1| hypothetical protein [Chloroflexu... [ score 74 E 7e-13 ] [ range 21 .. 74 ]
+sequence
+---VTLKDVAARAGVSYQTVSKVLNG---DMQVAPETMERIQAAVQELGYR--PNRIARNMR---*
+>P1;gi|22538034|ref|NP_688885.1| sugar-binding transcriptional regul... [ score 74 E 7e-13 ] [ range 5 .. 61 ]
+sequence
+---MTINDIAQLSKTSKTTVSFFLNQKFEK--MSDETRQRIQEVIDETGYR--PSTIARSLN-SK*
+>P1;gi|44316793|gb|EAI41297.1| unknown [environmental sequence] [ score 74 E 7e-13 ] [ range 3 .. 55 ]
+sequence
+---VTIHDVAAKAGVSIKTVSRVMNNEPS---VKQATIDKVNQAMQELHYQ--PNAAARNL----*
+>P1;gi|23100012|ref|NP_693478.1| transcriptional regulator [Oceanoba... [ score 74 E 8e-13 ] [ range 2 .. 57 ]
+sequence
+---VTIKDIAKATGVSPSTVSRVI---ADNSRISEETKAKVRKAMEDLGYF--PNMTARNLA-VK*
+>P1;gi|22991705|ref|ZP_00036402.1| COG1609: Transcriptional regulato... [ score 74 E 9e-13 ] [ range 3 .. 55 ]
+sequence
+---ITVKDVAKKAGVATSTVSRVINDHPS---ISETTKKKVRKIMDELGYV--PNMTARNL----*
+>P1;gi|44543778|gb|EAJ99225.1| unknown [environmental sequence] [ score 74 E 9e-13 ] [ range 3 .. 57 ]
+sequence
+----TIKDVAAVAGVSFTTVSHVVNN---SRPVSADVRAKVEHAIRQLHYV--PSAVARSLK-AR*
+>P1;gi|23099681|ref|NP_693147.1| transcriptional regulator [Oceanoba... [ score 74 E 9e-13 ] [ range 3 .. 55 ]
+sequence
+---VTIYDVAREANVSMATVSRVVNGNPN---VKPTTRKKVLATIEQLGYR--PNAVARGL----*
+>P1;gi|43823877|gb|EAF66255.1| unknown [environmental sequence] [ score 74 E 1e-12 ] [ range 9 .. 59 ]
+sequence
+-----IQDVAEQAGVSMMTVSRVLN---QDKKVSDKTREKVMAVVEQLNYR--PNVSARRL----*
