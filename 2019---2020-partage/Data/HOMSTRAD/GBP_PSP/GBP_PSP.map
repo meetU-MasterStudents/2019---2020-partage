@@ -1,0 +1,21 @@
+>P1;1bqfa
+structureX:1bqf:   1 :A:  25 :A:growth-blocking peptide:Apanteles kariyai: -1: -1
+ENFSGGCVAGYMRTPDGRCKPTFYQ*
+>P1;1b5na
+structureX:1b5n:   1 :A:  23 :A:plasmatocyte-spreading peptide PSP1:pseudoplusia includens: -1: -1
+ENFNGGCLAGYMRTADGRCKPTF--*
+>P1;1hrla
+structureX:1hrl:   0 :A:  22 :A:paralytic peptide I:Manduca sexta: -1: -1
+ENFAGGCATGYLRTADGRCKPTF--*
+>P1;gi|3986190|dbj|BAA34952.1| growth-blocking peptide [Mamestra bra... [ score 58 E 9e-08 ] [ range 130 .. 152 ]
+sequence
+ENFAGGCLTGFMRTPDGRCKPTF--*
+>P1;gi|5326830|gb|AAD42058.1| plasmatocyte-spreading peptide precurs... [ score 49 E 3e-05 ] [ range 108 .. 130 ]
+sequence
+ENFAGGCATGFLRTADGRCKPTF--*
+>P1;gi|3986192|dbj|BAA34953.1| growth-blocking peptide [Spodoptera l... [ score 48 E 6e-05 ] [ range 122 .. 144 ]
+sequence
+ENFAAGCATGYQRTADGRCKPTF--*
+>P1;gi|25518269|pir||JC7739 paralytic peptide precursor - silkworm >... [ score 46 E 2e-04 ] [ range 109 .. 131 ]
+sequence
+ENFVGGCATGFKRTADGRCKPTF--*

@@ -1,0 +1,1476 @@
+>P1;1rl2a
+structureX:1rl2:  60 :A: 125 :A:50S ribosomal protein L2:Bacillus stearothermophilus: 2.30: 20.3
+--QYRIIDFKRDKD---GIPGRVATIEYDPNRSANIALINYADGEKRYIIAPKNLKVG-EI-SGPDADIK
+I---*
+>P1;1jj2a
+structureX:1jj2:  20 :A:  93 :A:50S ribosomal protein L2p:Haloarcula marismortui: 2.40: 18.9
+SHRYKADLEHRKVEDGDVIAGTVVDIEHDPARSAPVAAVEFEDGDRRLILAPEGVGVGDELQVGVDAEIA
+PGNT*
+>P1;gi|28212173|ref|NP_783117.1| LSU ribosomal protein L2P [Clostrid... [ score 124 E 7e-28 ] [ range 75 .. 139 ]
+sequence
+--KYRIIDFKRDKD---GIPAKVATIEYDPNRTAFIALVVYTDGEKRYIIAPQGLKVG-DV-SGPDADIK
+----*
+>P1;gi|45529033|ref|ZP_00180188.1| hypothetical protein Mther187301 ... [ score 123 E 1e-27 ] [ range 47 .. 111 ]
+sequence
+---YRVIDFKRDKD---GIPGRVATIEYDPNRSANIALINYADGEKRYILAPENLQVG-DI-SGPEADIK
+V---*
+>P1;gi|20808657|ref|NP_623828.1| Ribosomal protein L2 [Thermoanaerob... [ score 121 E 4e-27 ] [ range 61 .. 126 ]
+sequence
+--RYRIIDFKRDKD---GIPGKVAAIEYDPNRTAFIALIHYADGEKRYIIAPHGLKVG-DI-SGENVDIK
+V---*
+>P1;gi|34499638|ref|NP_903853.1| 50S ribosomal protein L2 [Chromobac... [ score 119 E 1e-26 ] [ range 62 .. 125 ]
+sequence
+---YRLIDFRRNKD---GIPAKVERIEYDPNRTAHIALLCYADGERRYIIAPRGVKVG-AV-SGSEAPIK
+----*
+>P1;gi|23022268|ref|ZP_00061884.1| COG0090: Ribosomal protein L2 [Cl... [ score 119 E 2e-26 ] [ range 61 .. 125 ]
+sequence
+--KYRIIDFKRDKD---GIKAKVAAIEYDPNRTAYIALLHYVDGEKRYIIAPHGLKVG-DI-SGENADIK
+----*
+>P1;gi|27262238|gb|AAN87400.1| LSU ribosomal protein L2 [Heliobacill... [ score 119 E 2e-26 ] [ range 62 .. 125 ]
+sequence
+---YRIIDFKRTKD---SIPAKVAAIEYDPNRSGRIALLHYADGEKRYIIAPNGLKVG-DV-SGPDADIK
+----*
+>P1;gi|21241740|ref|NP_641322.1| 50S ribosomal protein L2 [Xanthomon... [ score 118 E 2e-26 ] [ range 62 .. 125 ]
+sequence
+---YRIIDFKRNKE---GIPARVERIEYDPNRTAHIALLCYVDGERRYIIAPKGLKAG-DI-AGANAPIK
+----*
+>P1;gi|15612700|ref|NP_241003.1| 50S ribosomal protein L2; ribosomal... [ score 118 E 2e-26 ] [ range 61 .. 126 ]
+sequence
+--QYRIIDFKRNKD---GIPGRVATIEYDPNRSANIALINYVDGEKRYILAPKGLKVG-MT-SGPEADIK
+V---*
+>P1;gi|23104442|ref|ZP_00090906.1| COG0090: Ribosomal protein L2 [Az... [ score 118 E 3e-26 ] [ range 62 .. 125 ]
+sequence
+---YRLVDFRRNKD---GIPATVERIEYDPNRTAHIALLKYADGERRYIIAPKGVVAG-DI-SGVNAPIK
+----*
+>P1;gi|23097577|ref|NP_691043.1| 50S ribosomal protein L2 [Oceanobac... [ score 117 E 5e-26 ] [ range 61 .. 125 ]
+sequence
+--QYRIIDFKRDKD---GIPGRVATIEYDPNRSANIALVHYADGEKRYIIAPKGIKVG-QE-SGENADIK
+----*
+>P1;gi|44605472|gb|EAK42612.1| unknown [environmental sequence] [ score 117 E 6e-26 ] [ range 61 .. 126 ]
+sequence
+--RYRIIDFKRDKF---DIPAKIVSIEYDPNRSANIALLFYEDGEKRYILSPFGVKVG-DK-SGENAPLK
+I---*
+>P1;gi|43104550|gb|EAC18321.1| unknown [environmental sequence] [ score 117 E 6e-26 ] [ range 61 .. 125 ]
+sequence
+--RYRIIDFVRDKH---DIPAKVATMEYDPNRSARICLLHYADGEKRYILSPSGIKVG-DV-SGEKSDIK
+----*
+>P1;gi|23112030|ref|ZP_00097575.1| COG0090: Ribosomal protein L2 [De... [ score 117 E 6e-26 ] [ range 61 .. 126 ]
+sequence
+--KYRLIDFKRNKD---SVPAKVASIEYDPNRSANIALLHYLDGHKAYILAPNGLQVG-QV-SGPDADIK
+V---*
+>P1;gi|44339418|gb|EAI57171.1| unknown [environmental sequence] [ score 117 E 6e-26 ] [ range 61 .. 125 ]
+sequence
+--KYRHIDFKRDKD---GIPARVERVEYDPNRSSHIMLILYKDGERRYIIAPNKVKVG-DM-SGNDSPIK
+----*
+>P1;gi|44363417|gb|EAI74390.1| unknown [environmental sequence] [ score 117 E 7e-26 ] [ range 61 .. 125 ]
+sequence
+--KYRLIDFKRNKF---DMKAEVVRIEYDPNRSAFISLIKYEDGEFRYILSPQNIKIG-DI-SGQNVEIK
+----*
+>P1;gi|22973751|ref|ZP_00020262.1| hypothetical protein [Chloroflexu... [ score 117 E 7e-26 ] [ range 62 .. 126 ]
+sequence
+---YRIIDFKRNKF---GVPAKVQAIEYDPNRTARIALLAYADGEKRYIIAPLGLKVG-DM-SGPDAEIR
+V---*
+>P1;gi|44259163|gb|EAI02324.1| unknown [environmental sequence] >gi|... [ score 117 E 8e-26 ] [ range 61 .. 125 ]
+sequence
+---YRVIDFKRNKF---DIPATVERIEYDPNRTAHIALLKYLDGERRYIIAPSKLKVG-DI-SSDNCEIK
+V---*
+>P1;gi|44211290|gb|EAH72436.1| unknown [environmental sequence] [ score 117 E 8e-26 ] [ range 62 .. 125 ]
+sequence
+---YRIVDFRRNKD---GIPAVVERVEYDPNRTAHIALLKYADGERRYIIAPKGVAAG-DV-SGADAPIK
+----*
+>P1;gi|44152973|gb|EAH41439.1| unknown [environmental sequence] [ score 116 E 9e-26 ] [ range 61 .. 125 ]
+sequence
+---YRIIDFKRDKF---DIPAEVERIEYDPNRSAHIALLKYHDGERRYIIAPSKIKIG-DI-SSDNCEIK
+V---*
+>P1;gi|44468745|gb|EAJ48437.1| unknown [environmental sequence] [ score 116 E 9e-26 ] [ range 35 .. 99 ]
+sequence
+---YRIIDFKRNKF---DIPATVERIEYDPNRSAHIALLKYLDGERRYIIAPSKLKAG-DI-SADNCEIK
+V---*
+>P1;gi|44339299|gb|EAI57082.1| unknown [environmental sequence] [ score 116 E 9e-26 ] [ range 62 .. 125 ]
+sequence
+---YRVIDFKRNKD---GIPAKVERLEYDPNRSANIALVLYADGERRYILAPKGMQAG-DQ-SGSDAPIK
+----*
+>P1;gi|44309709|gb|EAI36434.1| unknown [environmental sequence] [ score 116 E 1e-25 ] [ range 23 .. 87 ]
+sequence
+---YRIIDFKRTKD---GIPATVERIEYDPNRSAHIALLLYSDGERRYIIAPSGLKQG-DT-SGNDAPIK
+V---*
+>P1;gi|30018383|ref|NP_830014.1| LSU ribosomal protein L2P [Bacillus... [ score 116 E 1e-25 ] [ range 61 .. 126 ]
+sequence
+--QYRIIDFKRNKD---GIPGRVATIEYDPNRSANIALINYVDGEKRYILAPKSLEVG-MM-SGPEADIK
+I---*
+>P1;gi|16077187|ref|NP_388000.1| ribosomal protein L2 (BL2) [Bacillu... [ score 116 E 1e-25 ] [ range 61 .. 126 ]
+sequence
+--QYRVIDFKRDKD---GIPGRVATVEYDPNRSANIALINYADGEKRYILAPKGIQVG-TM-SGPEADIK
+V---*
+>P1;gi|30260304|ref|NP_842681.1| ribosomal protein L2 [Bacillus anth... [ score 116 E 1e-25 ] [ range 61 .. 126 ]
+sequence
+--QYRIIDFKRNKD---GIPGRVATIEYDPNRSANIALINYVDGEKRYILAPKNLEVG-MM-SGAEADIK
+I---*
+>P1;gi|43498555|gb|EAE04119.1| unknown [environmental sequence] [ score 116 E 1e-25 ] [ range 61 .. 125 ]
+sequence
+--KYRIIDFKRKKF---GVSATVERLEYDPNRTAFIALIKYEDGDLSYIIAPQRLRVG-DI-SGSDAPIK
+----*
+>P1;gi|33152955|ref|NP_874308.1| 50S ribosomal protein L2 [Haemophil... [ score 116 E 1e-25 ] [ range 62 .. 126 ]
+sequence
+---YRLIDFKRNKF---DIPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLSVG-DM-AGASAPIK
+V---*
+>P1;gi|45531563|ref|ZP_00182603.1| hypothetical protein Exigu204401 ... [ score 116 E 1e-25 ] [ range 46 .. 111 ]
+sequence
+--KYRIIDFKRNKD---GIAGRIATIEYDPNRSANIALVHYIDGEKRYILAPKGLKVD-MM-SGVEADIK
+V---*
+>P1;gi|23029668|ref|ZP_00067989.1| COG0090: Ribosomal protein L2 [Mi... [ score 116 E 1e-25 ] [ range 62 .. 125 ]
+sequence
+---YRVIDFRRNKD---GIPAKVERLEYDPNRTAYIALVCYADGERRYIIAPKGVKAG-DV-SGDAAPIK
+----*
+>P1;gi|21674995|ref|NP_663060.1| ribosomal protein L2 [Chlorobium te... [ score 116 E 2e-25 ] [ range 62 .. 126 ]
+sequence
+---YRIIDFKRNKD---NVPAKVAAIEYDPNRSARIALLHYVDGEKRYILAPKNLKVG-DR-SGEKVDIK
+V---*
+>P1;gi|15892926|ref|NP_360640.1| 50S ribosomal protein L2 [Rickettsi... [ score 116 E 2e-25 ] [ range 62 .. 126 ]
+sequence
+---YRIIDFKRNKI---DISAIVERIEYDPNRTAFIALIKYEDGEYSYILAPQKLSVG-DI-SSQDADIK
+I---*
+>P1;gi|632212|pir||B54547 ribosomal protein 12 - mycoplasma-like org... [ score 116 E 2e-25 ] [ range 61 .. 126 ]
+sequence
+--KYRLIDFKRNKD---NIVGKVATIEYDPNRSANIALIHYLDGEKRYILAPKGLTVG-MV-SGKEADIK
+V---*
+>P1;gi|22854675|gb|AAN09757.1| ribosomal protein L2-like protein [pr... [ score 116 E 2e-25 ] [ range 35 .. 98 ]
+sequence
+---YRLIDFKRNKD---GIPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLKAG-DQ-SGVDAAIK
+----*
+>P1;gi|44540920|gb|EAJ97196.1| unknown [environmental sequence] [ score 116 E 2e-25 ] [ range 61 .. 125 ]
+sequence
+---YRVIDFKRNKF---DIPAIVERIEYDPNRSAHIALLKYLDGERRYIIAPSKLKIG-DI-SSDNCEIK
+V---*
+>P1;gi|34764035|ref|ZP_00144921.1| LSU ribosomal protein L2P [Fusoba... [ score 115 E 2e-25 ] [ range 62 .. 125 ]
+sequence
+---YRIIDFKRNKL---DVPARVATIEYDPNRSANIALLFYADGEKRYILAPKGLKKG-DI-AGSKADIK
+----*
+>P1;gi|15603277|ref|NP_246351.1| RpL2 [Pasteurella multocida] >gi|42... [ score 115 E 2e-25 ] [ range 62 .. 126 ]
+sequence
+---YRLIDFKRNKL---DIPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLSAG-DT-SGANAPIK
+V---*
+>P1;gi|44346618|gb|EAI62246.1| unknown [environmental sequence] [ score 115 E 3e-25 ] [ range 61 .. 125 ]
+sequence
+---YRLIDFKRDKF---DIPAVVERIEYDPNRSAHIALLKYLDGERRYIIAPSKIKIG-DI-SSDDCEIK
+V---*
+>P1;gi|44346623|gb|EAI62250.1| unknown [environmental sequence] [ score 115 E 3e-25 ] [ range 61 .. 125 ]
+sequence
+---YRLIDFKRDKF---DIPAEVERIEYDPNRSAHIALLKYLDGERRYIIAPSKIQIG-DI-SSDDCEIK
+V---*
+>P1;gi|15642588|ref|NP_232221.1| ribosomal protein L2 [Vibrio choler... [ score 115 E 3e-25 ] [ range 62 .. 125 ]
+sequence
+---YRLVDFKRTKD---GIPAKVERLEYDPNRSANIALVLYADGERRYIIAPKGLQAG-DV-SGPDAPIK
+----*
+>P1;gi|44271624|gb|EAI10914.1| unknown [environmental sequence] [ score 115 E 3e-25 ] [ range 61 .. 124 ]
+sequence
+---YRVIDFKRNKF---DIPAVVERIEYDPNRSAHIALLKYKDGERRYIIAPSKIKIG-DV-SSDNCEIK
+----*
+>P1;gi|43025650|gb|EAB79526.1| unknown [environmental sequence] [ score 115 E 4e-25 ] [ range 51 .. 114 ]
+sequence
+---YRHVDFKRNKD---GIAARVERIEYDPNRSAYIALIVYQDGERRYIIAPKGLKKG-DM-SGVDAPIK
+----*
+>P1;gi|42915834|gb|EAB24986.1| unknown [environmental sequence] [ score 115 E 4e-25 ] [ range 61 .. 125 ]
+sequence
+--KYRSIDFKRNKF---DMVAEVVRIEYDPNRSAFISLIKYQDGEFRYILSPQNIKIG-DI-SGENVEIK
+----*
+>P1;gi|43576508|gb|EAE43014.1| unknown [environmental sequence] [ score 115 E 4e-25 ] [ range 61 .. 125 ]
+sequence
+--KYRIIDFKRKKD---DIEATVERIEYDPNRSAFIALVKYKDGGLSYIIAPQKLNVG-DI-SSNKADIK
+----*
+>P1;gi|23014085|ref|ZP_00053922.1| COG0090: Ribosomal protein L2 [Ma... [ score 114 E 4e-25 ] [ range 61 .. 125 ]
+sequence
+--RYRIIDFKRNKF---DVAATVERLEYDPNRTAFIALVSYTDGEKAYIIAPQRLAVG-DI-ASEKADIK
+----*
+>P1;gi|15599456|ref|NP_252950.1| 50S ribosomal protein L2 [Pseudomon... [ score 114 E 5e-25 ] [ range 62 .. 125 ]
+sequence
+---YRLVDFRRNKD---GIPAIVERVEYDPNRTAHIALLKYADGERRYIIAPKGVAAG-DI-SGIGAPIK
+----*
+>P1;gi|37912953|gb|AAR05285.1| ribosomal protein L2 [uncultured mari... [ score 114 E 5e-25 ] [ range 61 .. 125 ]
+sequence
+---YRVIDFKRNKF---DIPAVVERLEYDPNRSAHIALLLYKDGERRYIIAPAKIKVG-DI-SAEKCEIK
+V---*
+>P1;gi|28894957|ref|NP_801307.1| 50S ribosomal protein L2 [Streptoco... [ score 114 E 5e-25 ] [ range 47 .. 111 ]
+sequence
+---YRLIDFKRNKD---GVEAVVKTIEYDPNRTANIALVHYTDGVKAYIIAPKGLEVG-QV-SGPDADIK
+V---*
+>P1;gi|44434794|gb|EAJ24624.1| unknown [environmental sequence] [ score 114 E 5e-25 ] [ range 37 .. 101 ]
+sequence
+---YRVIDFKRNKF---DVPAIVERIEYDPNRSAHIALLKYLDGERRYIIAPSKLKIG-DM-SSDNCEIK
+V---*
+>P1;gi|34501446|ref|NP_904233.1| ribosomal protein L2 [Physcomitrell... [ score 114 E 5e-25 ] [ range 62 .. 126 ]
+sequence
+---YRQIDFRRNKK---NISGKITTIEYDPNRTANICLVHYEDGEKRYILHPRGLKVG-DI-SSNEAPIL
+I---*
+>P1;gi|29374854|ref|NP_814007.1| ribosomal protein L2 [Enterococcus ... [ score 114 E 5e-25 ] [ range 61 .. 126 ]
+sequence
+--QYRVIDFKRNKD---NVAAVVKTIEYDPNRSANIALVHYEDGVKAYILAPKGLEVG-MV-SGPEADIK
+V---*
+>P1;gi|42911303|gb|EAB22754.1| unknown [environmental sequence] [ score 114 E 5e-25 ] [ range 61 .. 126 ]
+sequence
+--RYRIIDFKRNKD---NIPATVERLEYDPNRNANIALLLYADGERRYIIAPKNLKSG-DM-SGEKSSIN
+I---*
+>P1;gi|44485341|gb|EAJ60268.1| unknown [environmental sequence] [ score 114 E 6e-25 ] [ range 64 .. 127 ]
+sequence
+---YRVIDFKRNKD---GIPAKVETIEYDPNRSANIALVLYADGERKYIISPEGLSVG-NI-SGEESPIK
+----*
+>P1;gi|44248401|gb|EAH94736.1| unknown [environmental sequence] [ score 114 E 7e-25 ] [ range 61 .. 126 ]
+sequence
+--RYRVIDFKRDKF---DIPAKVATIEYDPNRSANIALLYYSDGEKRYILAPQDLQVG-DV-SSSSAELK
+V---*
+>P1;gi|15900148|ref|NP_344752.1| ribosomal protein L2 [Streptococcus... [ score 113 E 7e-25 ] [ range 62 .. 126 ]
+sequence
+---YRLVDFKRNKD---NVEAVVKTIEYDPNRSANIALVHYTDGVKAYIIAPKGLEVG-QV-SGPEADIK
+V---*
+>P1;gi|22536246|ref|NP_687097.1| ribosomal protein L2 [Streptococcus... [ score 113 E 7e-25 ] [ range 62 .. 126 ]
+sequence
+---YRLIDFKRNKD---GVEAVVKTIEYDPNRTANIALVHYTDGVKAYILAPKGLEVG-QI-SGPEADIK
+V---*
+>P1;gi|43532886|gb|EAE21142.1| unknown [environmental sequence] [ score 113 E 7e-25 ] [ range 61 .. 125 ]
+sequence
+--RYRIIDFVRDKH---DIPAKVVSMEYDPNRSSRISLLHYADGEKRYILSPSGIKIG-DV-SGEKSDIK
+----*
+>P1;gi|43826944|gb|EAF67778.1| unknown [environmental sequence] [ score 113 E 8e-25 ] [ range 7 .. 72 ]
+sequence
+--RYRIIDFKRDKF---DVPAKVSAIEYDPNRSANIALLFYADGEKRYIIAPSEIKIG-DV-SGENAPLR
+V---*
+>P1;gi|19704963|ref|NP_602458.1| LSU ribosomal protein L2P [Fusobact... [ score 113 E 8e-25 ] [ range 62 .. 125 ]
+sequence
+---YRIIDFKRNKL---DVPARVATIEYDPNRSANIALLFYVDGEKRYILAPKGLKKG-DI-AGSKAEIK
+----*
+>P1;gi|42518432|ref|NP_964362.1| 50S ribosomal protein L2 [Lactobaci... [ score 113 E 9e-25 ] [ range 61 .. 125 ]
+sequence
+--KYRIIDFKRNKD---DVKAVVKAIEYDPNRTANIALLHYTDGIKAYILAPKGLKVG-AV-SGPDADIK
+----*
+>P1;gi|44334767|gb|EAI53979.1| unknown [environmental sequence] [ score 113 E 9e-25 ] [ range 61 .. 125 ]
+sequence
+--RYRIIDFVRDKH---DIPARVATKEYDPNRSARISLLHYADGEKRYILSPNGISVG-DV-SGENADIK
+----*
+>P1;gi|44609999|gb|EAK45819.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 62 .. 124 ]
+sequence
+---YREIDFKRNKD---DISAVVERIEYDPNRSSHIALVLYKDGERRYIIAPKGLKEG-DV-SGNNAPI-
+----*
+>P1;gi|15925237|ref|NP_372771.1| 50S ribosomal protein L2 [Staphyloc... [ score 113 E 1e-24 ] [ range 61 .. 126 ]
+sequence
+--QYRVIDFKRNKD---GINAKVDSIQYDPNRSANIALVVYADGEKRYIIAPKGLEVG-QI-SGAEADIK
+V---*
+>P1;gi|43825868|gb|EAF67252.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 61 .. 126 ]
+sequence
+--KYRVIDFYRKKK---NVPATVERIEYDPNRTAHIALITYKDKQKAYIISPQGLKQG-DV-SGKNVEIK
+V---*
+>P1;gi|27364212|ref|NP_759740.1| Ribosomal protein L2 [Vibrio vulnif... [ score 113 E 1e-24 ] [ range 62 .. 125 ]
+sequence
+---YRVVDFKRTKD---GIPAKVERLEYDPNRSANIALVLYADGERRYIIAPKGMQAG-DV-SGVDAPIK
+----*
+>P1;gi|42869823|gb|EAB02161.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 62 .. 125 ]
+sequence
+---YRIVDFRRNKH---GVPAKVAAIHYDPHRNARLALLFYTDGEKRYILAPAGIAVG-QI-SGPDAPIE
+----*
+>P1;gi|27468739|ref|NP_765376.1| 50S ribosomal protein L2 [Staphyloc... [ score 113 E 1e-24 ] [ range 61 .. 126 ]
+sequence
+--QYRVIDFKRNKD---GIIAKVDSIQYDPNRSANIALLVYADGEKRYIIAPKGLQVG-QT-SGAEADIK
+V---*
+>P1;gi|33594482|ref|NP_882126.1| 50S ribosomal protein L2 [Bordetell... [ score 113 E 1e-24 ] [ range 62 .. 125 ]
+sequence
+---YRVVDFRRNKD---GIPAKVERLEYDPNRTAHIALLCYADGERRYIIAPRGLEVG-AI-SGIEAPIR
+----*
+>P1;gi|16801839|ref|NP_472107.1| ribosomal protein L2 [Listeria inno... [ score 113 E 1e-24 ] [ range 61 .. 126 ]
+sequence
+--QYRVIDFKRNKD---GIPGRVATIEYDPNRSANIALINYADGEKRYIIAAKGLEVG-QY-SGAEADIK
+V---*
+>P1;gi|44596311|gb|EAK36156.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 64 .. 127 ]
+sequence
+---YRLVDFKRTKD---GIPAKVETIEYDPNRSANIALVLYADGERKYIISPEGLSVG-DI-SGEGSPIK
+----*
+>P1;gi|23003722|ref|ZP_00047374.1| COG0090: Ribosomal protein L2 [La... [ score 113 E 1e-24 ] [ range 46 .. 110 ]
+sequence
+--KYRIIDFKRNKD---DVKAVVKAIEYDPNRTANIALLHYTDGIKAYILAPKDLKVG-TV-SGPNADIK
+----*
+>P1;gi|44286417|gb|EAI20867.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 61 .. 125 ]
+sequence
+--RYRIIDFVRDKY---DIPAKVATMEYDPNRSARISLLHYADGEKRYILSPSGIKVG-DV-SGEKSDIK
+----*
+>P1;gi|44338301|gb|EAI56378.1| unknown [environmental sequence] [ score 113 E 2e-24 ] [ range 61 .. 125 ]
+sequence
+---YRVIDFKRNKF---EIPAVVERIEYDPNRSAHIALLKYLDGERRYIIAPQKLKIG-DI-SSDNCDIK
+V---*
+>P1;gi|23124123|ref|ZP_00106134.1| COG0090: Ribosomal protein L2 [No... [ score 113 E 2e-24 ] [ range 62 .. 125 ]
+sequence
+---YRIIDFKRDKH---NIPAKVAAIEYDPNRNARIALLYYQDGEKRYILHPNGLKVG-TI-SGPESPFE
+----*
+>P1;gi|43052028|gb|EAB92424.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 61 .. 126 ]
+sequence
+--KYRIIDFYRKKK---NVIGVVERIEYDPNRTAYIALINYEDKEKNYIICPQGLKVG-DK-SGNKIEIK
+I---*
+>P1;gi|43357078|gb|EAD43394.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 61 .. 126 ]
+sequence
+--KYRNIDFYRKKF---NMTGEVERIEYDPNRSCHIMLVKFEDGEKFYYLAPQKIKIG-DK-NGPGSEIK
+V---*
+>P1;gi|43241502|gb|EAC86384.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 61 .. 126 ]
+sequence
+--RYRKIDFYRKKF---DMFADVERIEYDPNRSCYIMLVKFEDGEKFYYLAPQNIKVG-DK-NGSNSEIK
+V---*
+>P1;gi|43813043|gb|EAF61047.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 61 .. 126 ]
+sequence
+--KYRKIDFYRKKF---GMSAEIERIEYDPNRSCHIMLVKFEDGERTYYLAPQDVKVG-DK-NGPNSEIK
+V---*
+>P1;gi|43487103|gb|EAD98321.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 61 .. 126 ]
+sequence
+--RYRLIDFKRDKY---DIPGKVMTVEYDPNRSANISLIKYADGEKRYILSPVGLKVD-DI-SGEKVPLK
+V---*
+>P1;gi|11022817|gb|AAG26138.1| ribosomal protein L2 [Cercidiphyllum ... [ score 112 E 2e-24 ] [ range 13 .. 77 ]
+sequence
+---YRKIDFRRNKK---DIYGRIVTIEYDPNRNAYICLIHYGDGEKRYILHPRGAIIG-DV-SGTEVPIK
+M---*
+>P1;gi|44586265|gb|EAK29046.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 34 .. 96 ]
+sequence
+---YRQIDFKRNKD---NISAVVERIEYDPNRSSHIALVLYEDGERRYIIAPKGLKEG-DK-SGNNVPI-
+----*
+>P1;gi|16272721|ref|NP_438939.1| ribosomal protein L2 [Haemophilus i... [ score 112 E 2e-24 ] [ range 62 .. 126 ]
+sequence
+---YRLIDFKRNKL---DIPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLSVG-DQ-AGINSPIK
+V---*
+>P1;gi|29839864|ref|NP_828970.1| ribosomal protein L2 [Chlamydophila... [ score 112 E 2e-24 ] [ range 73 .. 136 ]
+sequence
+---YRVIDFKRNKD---GIEAKVVSVEYDPNRSAYIALLNYADGEKRYILAPKGIKRG-DI-SGEGSPLK
+----*
+>P1;gi|44321487|gb|EAI44525.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 62 .. 125 ]
+sequence
+---YRIIDFKRNKF---DIEGKVATIEYDPNRSAFIALIHYIDGEKRYIIQPDGLKVG-DI-SSEKAELK
+----*
+>P1;gi|15793154|ref|NP_282976.1| 50S ribosomal protein L2 [Neisseria... [ score 112 E 2e-24 ] [ range 62 .. 126 ]
+sequence
+---YRVVDFKRNKD---GIPAKVERIEYDPNRTAFIALLCYADGERRYIIAPRGIQAG-AV-SGAEAAIK
+V---*
+>P1;gi|32035716|ref|ZP_00135597.1| COG0090: Ribosomal protein L2 [Ac... [ score 112 E 2e-24 ] [ range 62 .. 125 ]
+sequence
+---YRLVDFKRNKL---DIPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLSVG-DT-AGVSAPIK
+----*
+>P1;gi|22998288|ref|ZP_00042388.1| COG0090: Ribosomal protein L2 [Ma... [ score 112 E 2e-24 ] [ range 61 .. 114 ]
+sequence
+--RYRIIDFKRNKF---DVPAKVARIEYDPNRTAFIALLHYADGEKSYILAPQRLQVG-D----------
+----*
+>P1;gi|44599806|gb|EAK38625.1| unknown [environmental sequence] [ score 112 E 2e-24 ] [ range 62 .. 126 ]
+sequence
+---YRLVDFRRNKH---GVPAKVAAIHYDPHRNARLALLFYADGEKRYILAPAGVQIG-QI-SGPEVPIE
+I---*
+>P1;gi|43012348|gb|EAB72950.1| unknown [environmental sequence] [ score 111 E 3e-24 ] [ range 62 .. 126 ]
+sequence
+---YREIDFKRNKD---NISAVVERIEYDPNRSSHIALILYKDGERRYIIAPKGLKEG-DK-SGNNVPIA
+I---*
+>P1;gi|28897034|ref|NP_796639.1| ribosomal protein L2 [Vibrio paraha... [ score 111 E 3e-24 ] [ range 62 .. 125 ]
+sequence
+---YRVIDFKRTKD---GIPATVERLEYDPNRSANIALVLYKDGERRYILAPKGVVAG-DV-SGVDAPIK
+----*
+>P1;gi|43664852|gb|EAE87388.1| unknown [environmental sequence] [ score 111 E 3e-24 ] [ range 60 .. 123 ]
+sequence
+---YRIVDFKRNKT---DIPGIVERIEYDPNRTAFIALIKYQDGEKSYILAPQRLKVN-DV-SSDSSDIK
+----*
+>P1;gi|15674078|ref|NP_268253.1| 50S ribosomal protein L2 [Lactococc... [ score 111 E 3e-24 ] [ range 61 .. 126 ]
+sequence
+--KYRVIDFKRTTD---NVVAKVATIEYDPNRTANIALIVYSNGVKSYILAPKGLEVG-MV-SGPEADIK
+V---*
+>P1;gi|42559176|sp|P60404|RL2_SPIKU 50S ribosomal protein L2 >gi|348... [ score 111 E 4e-24 ] [ range 61 .. 126 ]
+sequence
+--KYRIIDFKRNKD---NIIGKIATIEYDPNRNAFICLVNYVDGEKRYILAPKTIKVG-MV-SAEKTDIK
+V---*
+>P1;gi|44426837|gb|EAJ19089.1| unknown [environmental sequence] [ score 111 E 4e-24 ] [ range 62 .. 125 ]
+sequence
+---YRLIDFKRDKD---GIPAKIERLEYDPNRTAHIALVLYADGERRYILAAKGMQAG-DK-SGVEAEIK
+----*
+>P1;gi|2500221|sp|P55835|RL2_ACTAC 50S ribosomal protein L2 >gi|1841... [ score 111 E 4e-24 ] [ range 62 .. 126 ]
+sequence
+---YRLIDFKRNKL---DIPGVVERLEYDPNRSANIALVLYKDGERRYILAPKGLAAG-DQ-AGAHAPIK
+V---*
+>P1;gi|43231085|gb|EAC81124.1| unknown [environmental sequence] [ score 111 E 5e-24 ] [ range 61 .. 125 ]
+sequence
+--RYRKIDFVRDKH---DIPAKVATKEYDPNRSARISLLHYADGEKRYILSPNGISVG-DV-SGENSDIK
+----*
+>P1;gi|11467776|ref|NP_050827.1| ribosomal protein L2 [Nephroselmis ... [ score 111 E 5e-24 ] [ range 62 .. 126 ]
+sequence
+---YRQIDFRRDKV---GVLARVATVEYDPNRSARIALLHYQDGSKRYILHPQGLAIG-AM-SSPEAPIS
+I---*
+>P1;gi|21672767|ref|NP_660834.1| 50S ribosomal protein L2 [Buchnera ... [ score 111 E 5e-24 ] [ range 62 .. 126 ]
+sequence
+---YRIIDFKRNKD---NITASIERFEYDPNRSSNIALILYKDGKRNYILAPKNLKVG-DI-SGENVPIK
+I---*
+>P1;gi|15604502|ref|NP_221020.1| 50S RIBOSOMAL PROTEIN L2 (rplB) [Ri... [ score 111 E 5e-24 ] [ range 62 .. 126 ]
+sequence
+---YRVIDFKRKKI---DISAIVERIEYDPNRTAFIALIKYDDGEYSYILAPQKLSIG-DI-SSQAADIK
+I---*
+>P1;gi|33241158|ref|NP_876100.1| Ribosomal protein L2 [Prochlorococc... [ score 111 E 5e-24 ] [ range 61 .. 126 ]
+sequence
+--QYRLVDFRRNKH---GVPAKVAAIHYDPHRNARLALLFYKDGEKRYILAPAGISIG-QL-SGKDVPIE
+I---*
+>P1;gi|437926|emb|CAA79780.1| ribosomal protein L2 [Thermotoga marit... [ score 111 E 6e-24 ] [ range 61 .. 126 ]
+sequence
+--RYRIIDFKRDKA---GIPAKVLAIEYDPNRSARIALLLYADGEKRYILAPKGVNVG-DM-SGPDAEIR
+----*
+>P1;gi|33864002|ref|NP_895562.1| 50S ribosomal protein L2 [Prochloro... [ score 110 E 7e-24 ] [ range 62 .. 125 ]
+sequence
+---YRIVDFRRNKH---GIPAKVAAIHYDPHRKAHLALLFYTDGEKRYILAPAGIAIG-QI-SGPESPIE
+----*
+>P1;gi|43694527|gb|EAF02480.1| unknown [environmental sequence] [ score 110 E 7e-24 ] [ range 61 .. 126 ]
+sequence
+--KFRIIDFFRKKK---NISATVDRIEYDPNRTAYIALITYEDKEKAYIICPQGLKQG-DV-SGKEAEIK
+I---*
+>P1;gi|15618554|ref|NP_224840.1| L2 Ribosomal Protein [Chlamydophila... [ score 110 E 7e-24 ] [ range 73 .. 136 ]
+sequence
+---YRVVDFKRNKD---GITAKVVTVEYDPNRSAYIALLSYEDGEKRYILAPKGIQRG-DV-SGEGSPFK
+----*
+>P1;gi|23042771|ref|ZP_00074130.1| COG0090: Ribosomal protein L2 [Tr... [ score 110 E 7e-24 ] [ range 62 .. 126 ]
+sequence
+---YRVVDFHRNKH---NIPAKVAAIEYDPYRNARIALLHYQDGEKRYILHPLGLKVG-QL-SGVNAPLE
+I---*
+>P1;gi|15605254|ref|NP_220040.1| L2 Ribosomal Protein [Chlamydia tra... [ score 110 E 8e-24 ] [ range 73 .. 136 ]
+sequence
+---YRVIDFKRNKD---GIEAKVASVEYDPNRSAYIALLNYVDGEKRYILAPKGIKRG-DI-SGEGSPFK
+----*
+>P1;gi|16329938|ref|NP_440666.1| 50S ribosomal protein L2 [Synechocy... [ score 110 E 8e-24 ] [ range 62 .. 126 ]
+sequence
+---YRIIDFKRNKQ---NIPARVAAIEYDPNRNARIALLFYTDGEKRYILAPAGLQVG-MI-AGEEAPFE
+I---*
+>P1;gi|43021723|gb|EAB77580.1| unknown [environmental sequence] [ score 110 E 8e-24 ] [ range 61 .. 126 ]
+sequence
+--KYRIIDFYRKKK---NIVGVVERIEYDPNRTAFIALITYKDKERSYIICPQGLKKG-DT-SGKNIEIK
+I---*
+>P1;gi|44259536|gb|EAI02584.1| unknown [environmental sequence] [ score 110 E 8e-24 ] [ range 61 .. 125 ]
+sequence
+--RYRIIDFKRDKA---AVPGIVERLEYDPNRSAHIALIKYIDGERRYILAPKGIEIG-AM-SGNDAPIK
+----*
+>P1;gi|43035288|gb|EAB84252.1| unknown [environmental sequence] [ score 110 E 8e-24 ] [ range 61 .. 125 ]
+sequence
+--KYRNIDFYRKKF---DLTAEVERIEYDPNRSCHIMLVKFEDGEKYYYLAPQNIKVG-EK-NGPNSEIK
+----*
+>P1;gi|23024324|ref|ZP_00063540.1| COG0090: Ribosomal protein L2 [Le... [ score 110 E 8e-24 ] [ range 47 .. 110 ]
+sequence
+---YRIVDFKRTKD---DKTATVKAIEYDPNRTANIALLVYEDGIKSYILAPKGLKVG-DK-SGPDADIK
+----*
+>P1;gi|44333625|gb|EAI53155.1| unknown [environmental sequence] [ score 110 E 8e-24 ] [ range 61 .. 126 ]
+sequence
+--KFRIIDFFRKKK---GISATVDRIEYDPNRTAYIALITYEDKEKSYIICPQGLKPG-DK-SGKKAEIK
+V---*
+>P1;gi|44599947|gb|EAK38717.1| unknown [environmental sequence] [ score 110 E 8e-24 ] [ range 61 .. 125 ]
+sequence
+--KYRHIDFYRKKF---NMKAEVERVEYDPNRSCYIMLVKFEDGQKFYYLAPQNIKVG-DK-NGPNVEIK
+----*
+>P1;gi|44164291|gb|EAH47346.1| unknown [environmental sequence] [ score 110 E 8e-24 ] [ range 21 .. 84 ]
+sequence
+---YREIDFKRNKD---NVSAVVERIEYDPNRSSHIALVLYKDGERRYIIAPKGLKEG-DS-SGNSAPIK
+----*
+>P1;gi|43193502|gb|EAC62272.1| unknown [environmental sequence] [ score 110 E 9e-24 ] [ range 59 .. 124 ]
+sequence
+--KYRLIDFYRKKF---DVVGSIERIEYDPNRSCHIMLVKFDDGEKTYYLAPQKIKVG-DK-NGPNSEIK
+I---*
+>P1;gi|33866602|ref|NP_898161.1| 50S ribosomal protein L2 [Synechoco... [ score 110 E 9e-24 ] [ range 62 .. 125 ]
+sequence
+---YRVVDFRRNKH---GITAKVAAIHYDPHRNARLALLFYADGEKRYILAPAGVQVG-QV-SGPDAPIE
+----*
+>P1;gi|43582519|gb|EAE46082.1| unknown [environmental sequence] [ score 110 E 9e-24 ] [ range 61 .. 125 ]
+sequence
+--RYRIIDFKRTKL---DVTGTVERIEYDPNRSAFIALIKYEDNELRYIIAPQRLALG-DV-SSKKADIK
+----*
+>P1;gi|44626963|gb|EAK58129.1| unknown [environmental sequence] [ score 110 E 9e-24 ] [ range 61 .. 125 ]
+sequence
+--KYRIIDFKRVKD---GIPAKVAAIEYDPNRNARIALLHYVDGEKAYIIAPDGLAVD-NF-SGPKSDIK
+----*
+>P1;gi|44502140|gb|EAJ70928.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 61 .. 124 ]
+sequence
+---YRLIDFKRDKY---DIPAIIERIEYDPNRSAHIALLKYLDGERRYIIAPSKIKIG-DV-SSDNCEIK
+----*
+>P1;gi|39997946|ref|NP_953897.1| ribosomal protein L2 [Geobacter sul... [ score 110 E 1e-23 ] [ range 61 .. 125 ]
+sequence
+--KYRIIDFRRNKV---EVPAKVASIEYDPNRSARIALLHYADGAKRYILAPLDLKVG-DV-ASSNADIK
+----*
+>P1;gi|44488408|gb|EAJ62362.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 61 .. 124 ]
+sequence
+--RYRLIDFKRDKD---GLLAKVEHVEYDPNRTAHIALLLYKDGERRYIVAPNGIKPG-DM-SGTEAPI-
+----*
+>P1;gi|23306476|gb|AAM08938.1| 50S ribosomal protein L2 [Mycoplasma ... [ score 110 E 1e-23 ] [ range 63 .. 127 ]
+sequence
+---YRIIDFKRQKD---GIPATVKTIEYDPNRSANISLVVYRDGEKRYILSPKGIKIG-QV-SGDNVDIQ
+V---*
+>P1;gi|44414516|gb|EAJ10320.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 61 .. 126 ]
+sequence
+--KYRIIDFYRKKK---NIKATVDRIEYDPNRTAYIALITYKDNEKSYIICPKGLKKG-DT-SGKNVEIK
+I---*
+>P1;gi|44530801|gb|EAJ90235.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 62 .. 125 ]
+sequence
+---YRIIDFKRNKT---NVSATVERIEYDPNRTAFIALINYDDGERAYILAPQRLAIG-DI-SADKADIK
+----*
+>P1;gi|44099165|gb|EAH12208.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 62 .. 125 ]
+sequence
+---YRIIDWKRTKD---GIPATVERLEYDPNRTANIALLKYADGQRRYIIAPKGVSAG-DM-SGGTAPIR
+----*
+>P1;gi|33862111|ref|NP_893672.1| 50S ribosomal protein L2 [Prochloro... [ score 109 E 2e-23 ] [ range 61 .. 125 ]
+sequence
+--QYRLVDFRRDKK---NINAKVAAIHYDPHRNARLALLFYEDGEKRYIIAPAGIKVG-QI-SGEGVPIE
+----*
+>P1;gi|43019220|gb|EAB76307.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 62 .. 125 ]
+sequence
+---YRIVDFKRNKT---NVSANVERIEYDPNRTAFIALINYDDGEKAYILAPQRLAVG-DI-SADKADIK
+----*
+>P1;gi|15617115|ref|NP_240328.1| 50S ribosomal protein L2 [Buchnera ... [ score 109 E 2e-23 ] [ range 62 .. 125 ]
+sequence
+---YRIVDFKRNKD---DIGATVERFEYDPNRSSNIALILYKDGERKYILAPKGIKIG-DI-SGLRAPIK
+----*
+>P1;gi|11467720|ref|NP_050772.1| ribosomal protein L2 [Guillardia th... [ score 109 E 2e-23 ] [ range 61 .. 126 ]
+sequence
+--RYRLVDFKRNKL---DIPAIVASVEYDPNRNARIALLHYQDGEKRYILHPKKLAVG-DK-SGINVPIE
+I---*
+>P1;gi|44617162|gb|EAK50905.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 61 .. 126 ]
+sequence
+--KYRNIDFYRKKF---GEKAEVERIEYDPNRSCHIMLVKFSDGERYYYLAPQGIKVG-DK-NGPNSEIK
+V---*
+>P1;gi|43796481|gb|EAF52858.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 61 .. 125 ]
+sequence
+--KYRHIDFYRKKF---NMKAEVERVEYDPNRSCYIMLVKFDDGQKFYYLAPQNIKVG-DK-NGPNIEIK
+----*
+>P1;gi|42526282|ref|NP_971380.1| ribosomal protein L2 [Treponema den... [ score 109 E 2e-23 ] [ range 61 .. 126 ]
+sequence
+--KYRQIDFKRNKY---GIPGTVRTIEYDPNRSANIALIFYADGEKRYIIAPKGLKIG-QM-SGEMATLD
+V---*
+>P1;gi|11465777|ref|NP_053921.1| ribosomal protein L2 [Porphyra purp... [ score 109 E 2e-23 ] [ range 61 .. 126 ]
+sequence
+--RYRLIDFKRNRH---NIIAKVASIEYDPNRNARIALLHYLDGEKRYILHPRSLSVG-AI-SGPMAPIE
+V---*
+>P1;gi|44649250|gb|EAK73542.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 61 .. 125 ]
+sequence
+--KYRLIDFRRDKD---GIPAKIERLEYDPNRSANIALLLYADGERRYIVAPAKVVAG-TQ-SGVDAPIK
+----*
+>P1;gi|43625583|gb|EAE67418.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 61 .. 125 ]
+sequence
+--RYRLIDFKRTKT---GVEATVERIEYDPNRTAFIALITYDDGEQSYILAPQRLSVG-DS-SGLGADIK
+----*
+>P1;gi|38233088|ref|NP_938855.1| 50S ribosomal protein L2 [Corynebac... [ score 109 E 2e-23 ] [ range 61 .. 127 ]
+sequence
+--QYRLIDFRRNKD---GIPAKVAHIEYDPNRTANIALLHYVDGEKRYIIAPKGLQQG-QM-SGVNADIK
+V---*
+>P1;gi|44160589|gb|EAH45343.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 61 .. 125 ]
+sequence
+--QYRLVDFRRDKR---NINAKVAAIHYDPHRNARLALLFYEDGEKRYIIAPSGVKVG-QI-SGESVPIE
+----*
+>P1;gi|43528342|gb|EAE18874.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 61 .. 125 ]
+sequence
+--KYRLIDFKRSII---DIPAKVERIEYDPNRTAYIALIKYEKGDFSYIVCPQNLKVG-DV-SSDNTEIK
+----*
+>P1;gi|43526944|gb|EAE18177.1| unknown [environmental sequence] [ score 108 E 2e-23 ] [ range 14 .. 78 ]
+sequence
+--RYRIIDFKRDKF---DISAEIVRTEYDPNRSAFINLVKYEDGEYRYILAPQKLSIG-DI-SSKNADIK
+----*
+>P1;gi|42844115|gb|EAA89447.1| unknown [environmental sequence] [ score 108 E 2e-23 ] [ range 62 .. 126 ]
+sequence
+---YRHVDFYRKKF---DMEATVERIEYDPNRSCYIMLVKFEDGTHSYFLAPQKIKVG-DK-SGSKKEIK
+V---*
+>P1;gi|43794279|gb|EAF51717.1| unknown [environmental sequence] [ score 108 E 2e-23 ] [ range 55 .. 119 ]
+sequence
+---YRVIDFKRQKD---NVNAEVIRIEYDPNRSCHIALIKYEDGVLSYILAPQKLKLQ-SV-SGNNADIK
+V---*
+>P1;gi|22966119|ref|ZP_00013716.1| COG0090: Ribosomal protein L2 [Rh... [ score 108 E 3e-23 ] [ range 61 .. 125 ]
+sequence
+--RYRLIDFKRTKV---DVAGRVERLEYDPNRTAFIALITYEDGEQTYILAPQRLQVG-DI-SADRADIK
+----*
+>P1;gi|22956508|ref|ZP_00004271.1| COG0090: Ribosomal protein L2 [Rh... [ score 108 E 3e-23 ] [ range 62 .. 125 ]
+sequence
+---YRIVDFKRRKF---DVPAVVERIEYDPNRTAFIALVRYEDGELAYILAPQRLAVG-DV-AGVKTDVK
+----*
+>P1;gi|43289063|gb|EAD10387.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 61 .. 126 ]
+sequence
+--RYRIIDFHRNKI---DMTGTVDRIEYDPNRSSFIALITYEDKTKTYIICPQNIKIG-DV-SGTNKEIK
+V---*
+>P1;gi|44527037|gb|EAJ87712.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 62 .. 124 ]
+sequence
+---YREIDFKRNKD---NISAVVERIEYDPNRSSHIALILYEDGERRYIIAPKGLKEG-DK-SGNNVKI-
+----*
+>P1;gi|15594826|ref|NP_212615.1| ribosomal protein L2 (rplB) [Borrel... [ score 108 E 3e-23 ] [ range 62 .. 128 ]
+sequence
+--KYRLIDFRRDKF---SIPARVASIEYDPNRSANIALLVYKDGEKRYIISPKGIKVG-DV-SGPNAPIK
+I---*
+>P1;gi|44563149|gb|EAK12935.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 61 .. 125 ]
+sequence
+--KYRLVDFKRNKL---DMTATVERIEYDPNRTAYIALIKYEDGVQSYILAPKDVKSG-EI-SGESVEIK
+----*
+>P1;gi|32491295|ref|NP_871549.1| rplB [Wigglesworthia glossinidia en... [ score 108 E 3e-23 ] [ range 61 .. 126 ]
+sequence
+--KYRLIDFKRNKD---DILAKVKRLEYDPNRSSNIALISYEDGEMRYILEAKGLKIG-DK-SGINAPIK
+I---*
+>P1;gi|43775836|gb|EAF42398.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 61 .. 126 ]
+sequence
+--KFRIIDFLRKKK---NVLAEVERIEYDPNRTAYIALIKYDDKERNYIICPQNLKIG-DM-SGKEAEIK
+I---*
+>P1;gi|41179014|ref|NP_958369.1| ribosomal protein L2 [Chlamydomonas... [ score 108 E 3e-23 ] [ range 64 .. 128 ]
+sequence
+---YRQIDFRRDKI---GVTAKVVRIEYDPNRNARIALLRYEDGEKRYIIHPRGLNIG-DI-SDLNAPIL
+I---*
+>P1;gi|41410262|ref|NP_963098.1| RplB [Mycobacterium avium subsp. pa... [ score 108 E 3e-23 ] [ range 62 .. 126 ]
+sequence
+---YRVIDFRRNKD---GVNAKVAHIEYDPNRTANIALLHFLDGEKRYIIAPQGLSQG-DV-SGPNADIK
+----*
+>P1;gi|43929414|gb|EAG19691.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 61 .. 126 ]
+sequence
+--KYRNIDFYRKKN---DSPATVERIEYDPNRSCHIMLVKFDDGERQYYLAPQKIKVG-DK-NGRNKEIK
+I---*
+>P1;gi|43537964|gb|EAE23670.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 61 .. 125 ]
+sequence
+--RYRIIDFLRDKN---DIPAKVATMEYDPNRSARISLLNYADGEKRYILSPSGVKVG-DV-SGEKADIK
+----*
+>P1;gi|44649490|gb|EAK73672.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 61 .. 125 ]
+sequence
+--KYRVIDFKRIKD---GIPARVAGIEYDPNRNARIALLHYVDGEKAYIIAPDGVEVD-SI-SGSKADIK
+----*
+>P1;gi|43179733|gb|EAC55447.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 60 .. 124 ]
+sequence
+--KYRIIDFKRNKF---NISAEVIRNEYDPNRSSFISLLKYDDGEFRYILSPKNLKIG-DI-SSENAEVK
+----*
+>P1;gi|43195342|gb|EAC63201.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 62 .. 125 ]
+sequence
+---YRVIDFKRNKL---DIPAIVERIEYDPNRSANIALLKYADGERRYILCPSKMEIG-TI-SSDKADIK
+----*
+>P1;gi|44403969|gb|EAJ03112.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 61 .. 125 ]
+sequence
+--KYRVVDFKRTKD---GIPAKVAGIEYDPNRNSRIALLHYVDGEKSYIIAPDGVYEG-SM-SGSKAEIK
+----*
+>P1;gi|43723373|gb|EAF16655.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 25 .. 89 ]
+sequence
+--KYRVIDFYRKKT---KMSAEVERIEYDPNRSCHIMLVKFEDGQKFYYLAPKNIKVG-DK-NGSDAEIK
+----*
+>P1;gi|44384007|gb|EAI88845.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 61 .. 125 ]
+sequence
+--KYRVVDFKRVKD---GIPAKVAGIEYDPNRNSRIALLHYVDGEKSYIIAPEGVYEG-SM-SGPKAEIK
+----*
+>P1;gi|17231704|ref|NP_488252.1| 50S ribosomal protein L2 [Nostoc sp... [ score 108 E 4e-23 ] [ range 62 .. 125 ]
+sequence
+---YRIIDFKRDKR---SIPATVIAIEYDPNRNARIALVSYEDGEKRYILHPNNLKVG-TI-AGPESPIE
+----*
+>P1;gi|44303907|gb|EAI32575.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 59 .. 123 ]
+sequence
+--KYRIIDFKRNKF---DINAEVVRNEYDPNRSAFISLIKYEDGEFRYILSPKNISVG-DK-SGMNVEIK
+----*
+>P1;gi|43979902|gb|EAG47127.1| unknown [environmental sequence] >gi|... [ score 108 E 4e-23 ] [ range 60 .. 124 ]
+sequence
+--KYRIIDFKRNKF---DITAEVIRNEYDPNRSAFISLIKYEDGEYRYILSPKNVSVG-DK-SGLDVEIK
+----*
+>P1;gi|44505216|gb|EAJ72998.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 61 .. 125 ]
+sequence
+--KYRIIDFYRKKF---DMFADVERVEYDPNRSCHIMLVKFEDGERYYYLAPKDIKVG-DK-NGPNSEIK
+----*
+>P1;gi|44279713|gb|EAI16384.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 61 .. 126 ]
+sequence
+--KYRVIDFLRNKI---DIMATIERIEYDPNRTSYIALVKYEDEVRNYILCPQGIKVG-DK-SGENVDIK
+V---*
+>P1;gi|43675557|gb|EAE92848.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 19 .. 84 ]
+sequence
+--KFRIIDFFRKKR---NVPATVDRIEYDPNRTAYIALITYEDKEKSYIICPQGLKVG-EK-SGKNVEIK
+V---*
+>P1;gi|23097577|ref|NP_691043.1| 50S ribosomal protein L2 [Oceanobac... [ score 115 E 3e-25 ] [ range 58 .. 128 ]
+sequence
+-HKRQYRIIDFKR-DKDGIPGRVATIEYDPNRSANIALVHYADGEKRYIIAPKGIKVGQEIESGENADIK
+LGN-*
+>P1;gi|437926|emb|CAA79780.1| ribosomal protein L2 [Thermotoga marit... [ score 115 E 4e-25 ] [ range 58 .. 129 ]
+sequence
+-HKRRYRIIDFKRYDKAGIPAKVLAIEYDPNRSARIALLLYADGEKRYILAPKGVNVGDTLMSGPDAEIR
+PGN-*
+>P1;gi|18311384|ref|NP_563318.1| 50S ribosomal protein L2 [Clostridi... [ score 115 E 4e-25 ] [ range 61 .. 128 ]
+sequence
+--KYRIIDFKR---NKDGIPAKVATVEYDPNRSAYIALVVYADGEKRYILAPVGLKVGDTVVSGPEADIK
+PGN-*
+>P1;gi|28212173|ref|NP_783117.1| LSU ribosomal protein L2P [Clostrid... [ score 114 E 4e-25 ] [ range 75 .. 142 ]
+sequence
+--KYRIIDFKR---DKDGIPAKVATIEYDPNRTAFIALVVYTDGEKRYIIAPQGLKVGDVIVSGPDADIK
+AGN-*
+>P1;gi|45529033|ref|ZP_00180188.1| hypothetical protein Mther187301 ... [ score 113 E 7e-25 ] [ range 43 .. 113 ]
+sequence
+-HKRLYRVIDFKR-DKDGIPGRVATIEYDPNRSANIALINYADGEKRYILAPENLQVGDQVISGPEADIK
+VGN-*
+>P1;gi|38233088|ref|NP_938855.1| 50S ribosomal protein L2 [Corynebac... [ score 113 E 7e-25 ] [ range 58 .. 129 ]
+sequence
+-HKRQYRLIDFRRNDKDGIPAKVAHIEYDPNRTANIALLHYVDGEKRYIIAPKGLQQGQMIESGVNADIK
+VGN-*
+>P1;gi|44333625|gb|EAI53155.1| unknown [environmental sequence] [ score 113 E 7e-25 ] [ range 60 .. 129 ]
+sequence
+-HKFRIIDFFRKKK---GISATVDRIEYDPNRTAYIALITYEDKEKSYIICPQGLKPGDKVESGKKAEIK
+VGNS*
+>P1;gi|43694527|gb|EAF02480.1| unknown [environmental sequence] [ score 113 E 8e-25 ] [ range 60 .. 129 ]
+sequence
+-HKFRIIDFFRKKKN---ISATVDRIEYDPNRTAYIALITYEDKEKAYIICPQGLKQGDKIVSGKEAEIK
+IGNS*
+>P1;gi|43052028|gb|EAB92424.1| unknown [environmental sequence] [ score 113 E 8e-25 ] [ range 60 .. 129 ]
+sequence
+-HKYRIIDFYRKKKN---VIGVVERIEYDPNRTAYIALINYEDKEKNYIICPQGLKVGDKIESGNKIEIK
+IGNS*
+>P1;gi|20808657|ref|NP_623828.1| Ribosomal protein L2 [Thermoanaerob... [ score 113 E 1e-24 ] [ range 58 .. 128 ]
+sequence
+-HKRRYRIIDFKR-DKDGIPGKVAAIEYDPNRTAFIALIHYADGEKRYIIAPHGLKVGDIVESGENVDIK
+VGN-*
+>P1;gi|43277962|gb|EAD04758.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 60 .. 128 ]
+sequence
+-HKFRVIDFYRKKKN---VSADIERIEYDPNRTSHIALVKYEDNERKYIICPQGLKVGDKIISGENVEIK
+IGN-*
+>P1;gi|43589508|gb|EAE49613.1| unknown [environmental sequence] [ score 113 E 1e-24 ] [ range 60 .. 129 ]
+sequence
+-HKYRLIDFYRKKKN---IPATVERIEYDPNRTAYIALINYKDNEKSYIICPQGLKKGDIIESGKNVEIK
+IGNT*
+>P1;gi|28493518|ref|NP_787679.1| 50S ribosomal protein L2 [Tropherym... [ score 113 E 1e-24 ] [ range 58 .. 130 ]
+sequence
+-HKRRYRLVDFRRSDKDGVKAKVAHIEYDPNRTARIALLHFLDGAKRYILAPSGLKQGDVVESGSSADIR
+PGNS*
+>P1;gi|41410262|ref|NP_963098.1| RplB [Mycobacterium avium subsp. pa... [ score 112 E 2e-24 ] [ range 58 .. 129 ]
+sequence
+-HKRAYRVIDFRRNDKDGVNAKVAHIEYDPNRTANIALLHFLDGEKRYIIAPQGLSQGDVVESGPNADIK
+PGN-*
+>P1;gi|15612700|ref|NP_241003.1| 50S ribosomal protein L2; ribosomal... [ score 112 E 2e-24 ] [ range 58 .. 128 ]
+sequence
+-HKRQYRIIDFKRN-KDGIPGRVATIEYDPNRSANIALINYVDGEKRYILAPKGLKVGMTIESGPEADIK
+VGN-*
+>P1;gi|44596311|gb|EAK36156.1| unknown [environmental sequence] [ score 111 E 3e-24 ] [ range 55 .. 131 ]
+sequence
+-HRGGGHKKHYRLVDKDGIPAKVETIEYDPNRSANIALVLYADGERKYIISPEGLSVGDEIISGEGSPIK
+TGNT*
+>P1;gi|26987198|ref|NP_742623.1| ribosomal protein L2 [Pseudomonas p... [ score 111 E 3e-24 ] [ range 58 .. 130 ]
+sequence
+-HKQHYRLVDFRRNDKDGIPATVERIEYDPNRTAHIALLCYADGERRYIIAPKGVSAGDQLIAGALAPIK
+AGNS*
+>P1;gi|4033701|sp|P04257|RL2_BACST 50S ribosomal protein L2 (BstL2) ... [ score 111 E 3e-24 ] [ range 58 .. 128 ]
+sequence
+-HKRQYRIIDFKR-DKDGIPGRVATIEYDPNRSANIALINYADGEKRYIIAPKNLKVGMEIMSGPDADIK
+IGN-*
+>P1;gi|23104442|ref|ZP_00090906.1| COG0090: Ribosomal protein L2 [Az... [ score 111 E 3e-24 ] [ range 58 .. 129 ]
+sequence
+-HKQHYRLDFRRNKDG--IPATVERIEYDPNRTAHIALLKYADGERRYIIAPKGVVAGDQLISGVNAPIK
+AGNT*
+>P1;gi|43825868|gb|EAF67252.1| unknown [environmental sequence] [ score 111 E 4e-24 ] [ range 60 .. 129 ]
+sequence
+-HKYRVIDFYRKKKN---VPATVERIEYDPNRTAHIALITYKDKQKAYIISPQGLKQGDVIESGKNVEIK
+VGNS*
+>P1;gi|44485341|gb|EAJ60268.1| unknown [environmental sequence] [ score 111 E 4e-24 ] [ range 55 .. 131 ]
+sequence
+-HRGGGHKKHYRVIDKDGIPAKVETIEYDPNRSANIALVLYADGERKYIISPEGLSVGNEIISGEESPIK
+TGNT*
+>P1;gi|17547735|ref|NP_521137.1| PROBABLE 50S RIBOSOMAL SUBUNIT PROT... [ score 111 E 4e-24 ] [ range 58 .. 129 ]
+sequence
+-HKHHYRIVDFKRNDKDGIPAKIERLEYDPNRSANIALVLFADGERRYIIAPKGAVVGQAVANGPEAPIK
+AGN-*
+>P1;gi|28867857|ref|NP_790476.1| ribosomal protein L2 [Pseudomonas s... [ score 111 E 4e-24 ] [ range 58 .. 129 ]
+sequence
+-HKQHYRLVDFRRNDKDGITATVERIEYDPNRTAHIALLLYADGERRYIIAPKGVSAGDQLIAGALAPIK
+PGN-*
+>P1;gi|23336504|ref|ZP_00121718.1| COG0090: Ribosomal protein L2 [Bi... [ score 111 E 4e-24 ] [ range 58 .. 129 ]
+sequence
+-HKRQYRLIDFKRWDKDGVPAKVAEIEYDPNRSARIALLHFADGEKRYIIAPKGIKQGDVIETGAQADIK
+PGN-*
+>P1;gi|43675557|gb|EAE92848.1| unknown [environmental sequence] [ score 111 E 4e-24 ] [ range 18 .. 87 ]
+sequence
+-HKFRIIDFFRKKRN---VPATVDRIEYDPNRTAYIALITYEDKEKSYIICPQGLKVGEKVESGKNVEIK
+VGNS*
+>P1;gi|21674995|ref|NP_663060.1| ribosomal protein L2 [Chlorobium te... [ score 111 E 5e-24 ] [ range 60 .. 129 ]
+sequence
+--RFYRIIDFKRNKD--NVPAKVAAIEYDPNRSARIALLHYVDGEKRYILAPKNLKVGDRIESGEKVDIK
+VGNT*
+>P1;gi|43813043|gb|EAF61047.1| unknown [environmental sequence] [ score 111 E 5e-24 ] [ range 60 .. 128 ]
+sequence
+-HKYRKIDFYRK---KFGMSAEIERIEYDPNRSCHIMLVKFEDGERTYYLAPQDVKVGDKIQNGPNSEIK
+VGN-*
+>P1;gi|15837757|ref|NP_298445.1| 50S ribosomal protein L2 [Xylella f... [ score 111 E 6e-24 ] [ range 61 .. 129 ]
+sequence
+--RYRVIDFKR---DKEAIPARVERIEYDPNRTAHIALLCYVDGERCYIIAPKGLKEGDKIISGPNVPIK
+LGNS*
+>P1;gi|43021723|gb|EAB77580.1| unknown [environmental sequence] [ score 111 E 6e-24 ] [ range 60 .. 128 ]
+sequence
+-HKYRIIDFYRKKKN---IVGVVERIEYDPNRTAFIALITYKDKERSYIICPQGLKKGDTIESGKNIEIK
+IGN-*
+>P1;gi|23018359|ref|ZP_00058076.1| COG0090: Ribosomal protein L2 [Th... [ score 110 E 6e-24 ] [ range 58 .. 129 ]
+sequence
+-HKRAYRLIDFRRHDKDGIPAKVAHIEYDPNRTARIALLHYVDGEKRYILAPVGLKQGDRVENGPAADIK
+PGN-*
+>P1;gi|23029668|ref|ZP_00067989.1| COG0090: Ribosomal protein L2 [Mi... [ score 110 E 7e-24 ] [ range 58 .. 128 ]
+sequence
+-HKQHYRIDFRRNKDG--IPAKVERLEYDPNRTAYIALVCYADGERRYIIAPKGVKAGDVIQSGDAAPIK
+PGN-*
+>P1;gi|23022268|ref|ZP_00061884.1| COG0090: Ribosomal protein L2 [Cl... [ score 110 E 7e-24 ] [ range 61 .. 128 ]
+sequence
+--KYRIIDFKR---DKDGIKAKVAAIEYDPNRTAYIALLHYVDGEKRYIIAPHGLKVGDIVESGENADIK
+PGN-*
+>P1;gi|44414516|gb|EAJ10320.1| unknown [environmental sequence] [ score 110 E 7e-24 ] [ range 60 .. 129 ]
+sequence
+-HKYRIIDFYRKKKN---IKATVDRIEYDPNRTAYIALITYKDNEKSYIICPKGLKKGDTIESGKNVEIK
+IGNS*
+>P1;gi|29831472|ref|NP_826106.1| putative ribosomal protein L2 [Stre... [ score 110 E 8e-24 ] [ range 58 .. 129 ]
+sequence
+-HKRAYRVIDFRRHDKDGVPAKVAHIEYDPNRTARIALLHYADGEKRYILAPRNLQQGDRVENGPGADIK
+PGN-*
+>P1;gi|15803844|ref|NP_289878.1| 50S ribosomal subunit protein L2 [E... [ score 110 E 8e-24 ] [ range 58 .. 129 ]
+sequence
+-HKQAYRIVDFKRN-KDGIPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLKAGDQIQSGVDAAIK
+PGNT*
+>P1;gi|27262238|gb|AAN87400.1| LSU ribosomal protein L2 [Heliobacill... [ score 110 E 9e-24 ] [ range 58 .. 128 ]
+sequence
+-HKRYRIIDFKRTKD--SIPAKVAAIEYDPNRSGRIALLHYADGEKRYIIAPNGLKVGDTIVSGPDADIK
+TGN-*
+>P1;gi|22982024|ref|ZP_00027349.1| COG0090: Ribosomal protein L2 [Bu... [ score 110 E 9e-24 ] [ range 60 .. 129 ]
+sequence
+-HHYRVVDFRR---NKDGIAAKVERLEYDPNRSANIALVLYADGERRYIIAPKGVTVGQQLMSGSEAPIR
+AGNT*
+>P1;gi|43197989|gb|EAC64538.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 21 .. 90 ]
+sequence
+-HKYRVIDFYRKKKN---IPATVERIEYDPNRTAHIALISYKDKEKAYIISPQGLKQGDIIESGKNVEIK
+IGNS*
+>P1;gi|44578527|gb|EAK23687.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 60 .. 128 ]
+sequence
+-HKFRIIDFFRKKKN---VSATVDRIEYDPNRTAYIALITYEDKVKSYIICPQGLKIGDKIETGKNAEIK
+IGN-*
+>P1;gi|16077187|ref|NP_388000.1| ribosomal protein L2 (BL2) [Bacillu... [ score 110 E 1e-23 ] [ range 58 .. 128 ]
+sequence
+-HKRQYRVIDFKR-DKDGIPGRVATVEYDPNRSANIALINYADGEKRYILAPKGIQVGTEIMSGPEADIK
+VGN-*
+>P1;gi|43035288|gb|EAB84252.1| unknown [environmental sequence] [ score 110 E 1e-23 ] [ range 60 .. 128 ]
+sequence
+-HKYRNIDFYRKKFD---LTAEVERIEYDPNRSCHIMLVKFEDGEKYYYLAPQNIKVGEKVQNGPNSEIK
+NGN-*
+>P1;gi|44339299|gb|EAI57082.1| unknown [environmental sequence] [ score 109 E 1e-23 ] [ range 58 .. 129 ]
+sequence
+-HKQHYRVIDFKRN-KDGIPAKVERLEYDPNRSANIALVLYADGERRYILAPKGMQAGDAIQSGSDAPIK
+SGNT*
+>P1;gi|34924987|sp|Q9AMK8|RL2_STRCU 50S ribosomal protein L2 >gi|127... [ score 109 E 1e-23 ] [ range 58 .. 129 ]
+sequence
+-HKRAYRIVDFRRHDKDGVPAKVAHIEYDPNRSARIALLHYADGEKRYILAPRNLQQGDRVENGPGADIK
+PGN-*
+>P1;gi|15594826|ref|NP_212615.1| ribosomal protein L2 (rplB) [Borrel... [ score 109 E 1e-23 ] [ range 59 .. 130 ]
+sequence
+-HKRKYRLIDFNRRDKFSIPARVASIEYDPNRSANIALLVYKDGEKRYIISPKGIKVGDVLESGPNAPIK
+IGN-*
+>P1;gi|44259163|gb|EAI02324.1| unknown [environmental sequence] >gi|... [ score 109 E 1e-23 ] [ range 60 .. 128 ]
+sequence
+-HYRVIDFKRNKFD----IPATVERIEYDPNRTAHIALLKYLDGERRYIIAPSKLKVGDKIISSDNCEIK
+VGNS*
+>P1;gi|25027081|ref|NP_737135.1| putative 50S ribosomal protein L2 [... [ score 109 E 1e-23 ] [ range 58 .. 129 ]
+sequence
+-HKRRYRVIDFRRNDKDGVLAKVAHIEYDPNRTANIALLHYFDGEKRYIIAPKGLTQGTVVESGANADIK
+VGN-*
+>P1;gi|43189727|gb|EAC60370.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 60 .. 128 ]
+sequence
+-HKYRQIDFYRRNFD---VLGTIERIEYDPNRSCHIMLVKFDDNKRFYYLAPQNIKVGDKIQNGPSSEIK
+VGN-*
+>P1;gi|15607844|ref|NP_215218.1| rplB [Mycobacterium tuberculosis H3... [ score 109 E 2e-23 ] [ range 58 .. 129 ]
+sequence
+-HKRAYRMIDFRRNDKDGVNAKVAHIEYDPNRTARIALLHYLDGEKRYIIAPNGLSQGDVVESGANADIK
+PGN-*
+>P1;gi|43576508|gb|EAE43014.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 58 .. 129 ]
+sequence
+-HKRKYRIIDFKRK-KDDIEATVERIEYDPNRSAFIALVKYKDGGLSYIIAPQKLNVGDNVISSNKADIK
+PGNS*
+>P1;gi|21241740|ref|NP_641322.1| 50S ribosomal protein L2 [Xanthomon... [ score 109 E 2e-23 ] [ range 58 .. 129 ]
+sequence
+-HKQHYRIIDFKRN-KEGIPARVERIEYDPNRTAHIALLCYVDGERRYIIAPKGLKAGDQVIAGANAPIK
+TGNT*
+>P1;gi|43025650|gb|EAB79526.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 49 .. 117 ]
+sequence
+--RHYRHVDFKRNKDG--IAARVERIEYDPNRSAYIALIVYQDGERRYIIAPKGLKKGDAVMSGVDAPIK
+PGN-*
+>P1;gi|43357078|gb|EAD43394.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 60 .. 128 ]
+sequence
+-HKYRNIDFYRK---KFNMTGEVERIEYDPNRSCHIMLVKFEDGEKFYYLAPQKIKIGDKLQNGPGSEIK
+VGN-*
+>P1;gi|43723373|gb|EAF16655.1| unknown [environmental sequence] [ score 109 E 2e-23 ] [ range 24 .. 92 ]
+sequence
+-HKYRVIDFYRK---KTKMSAEVERIEYDPNRSCHIMLVKFEDGQKFYYLAPKNIKVGDKVQNGSDAEIK
+NGN-*
+>P1;gi|1350716|sp|P49239|RL2_YEREN 50S ribosomal protein L2 >gi|1032... [ score 108 E 2e-23 ] [ range 58 .. 129 ]
+sequence
+-HKQHYRLVDFKRN-KDGIPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLKAGDQIQSGVDAAIK
+AGNT*
+>P1;gi|43034690|gb|EAB83959.1| unknown [environmental sequence] [ score 108 E 2e-23 ] [ range 57 .. 125 ]
+sequence
+-HKFRIIDFFRKKKN---MKAEIERIEYDPNRTGYIALIKYEDKERNYIICPQGLKIGDKIESGKNVEIK
+IGN-*
+>P1;gi|43775836|gb|EAF42398.1| unknown [environmental sequence] [ score 108 E 2e-23 ] [ range 60 .. 128 ]
+sequence
+-HKFRIIDFLRKKKN---VLAEVERIEYDPNRTAYIALIKYDDKERNYIICPQNLKIGDKIMSGKEAEIK
+IGN-*
+>P1;gi|15827999|ref|NP_302262.1| 50S ribosomal protein L2 [Mycobacte... [ score 108 E 3e-23 ] [ range 58 .. 129 ]
+sequence
+-HKRAYRLIDFRRNDTDGVNAKVAHIEYDPNRTANIALLHFLDGKKRYILAPQGLSQGDVVESGANADIK
+PGN-*
+>P1;gi|15603277|ref|NP_246351.1| RpL2 [Pasteurella multocida] >gi|42... [ score 108 E 3e-23 ] [ range 61 .. 128 ]
+sequence
+-HYRLIDFKRNKLD----IPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLSAGDTIQSGANAPIK
+VGN-*
+>P1;gi|43104550|gb|EAC18321.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 58 .. 128 ]
+sequence
+-HKRRYRIIDF-VRDKHDIPAKVATMEYDPNRSARICLLHYADGEKRYILSPSGIKVGDVIFSGEKSDIK
+TGN-*
+>P1;gi|44211290|gb|EAH72436.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 58 .. 129 ]
+sequence
+-HKHYRIVDFRRNKDG--IPAVVERVEYDPNRTAHIALLKYADGERRYIIAPKGVAAGDQLVSGADAPIK
+AGNS*
+>P1;gi|37528540|ref|NP_931885.1| 50S ribosomal protein L2 [Photorhab... [ score 108 E 3e-23 ] [ range 58 .. 128 ]
+sequence
+-HKQHYRLIDFKRN-KDGIPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLKAGDQIQSGVDASIK
+TGN-*
+>P1;gi|44309709|gb|EAI36434.1| unknown [environmental sequence] [ score 108 E 3e-23 ] [ range 19 .. 89 ]
+sequence
+-HKHYRIIDFKRTKDG--IPATVERIEYDPNRSAHIALLLYSDGERRYIIAPSGLKQGDTVQSGNDAPIK
+VGN-*
+>P1;gi|16272721|ref|NP_438939.1| ribosomal protein L2 [Haemophilus i... [ score 108 E 3e-23 ] [ range 61 .. 129 ]
+sequence
+-HYRLIDFKRNKLD----IPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLSVGDQIQAGINSPIK
+VGNS*
+>P1;gi|22973751|ref|ZP_00020262.1| hypothetical protein [Chloroflexu... [ score 108 E 4e-23 ] [ range 60 .. 128 ]
+sequence
+--RFYRIIDFKR--NKFGVPAKVQAIEYDPNRTARIALLAYADGEKRYIIAPLGLKVGDTVMSGPDAEIR
+VGN-*
+>P1;gi|19551749|ref|NP_599751.1| ribosomal protein L2 [Corynebacteri... [ score 108 E 4e-23 ] [ range 58 .. 129 ]
+sequence
+-HKRRYRVIDFRRNDKDGVLAKVAHIEYDPNRTANIALLHYFDGEKRYILAPKGLTQGTVIESGAAADIK
+VGN-*
+>P1;gi|23014085|ref|ZP_00053922.1| COG0090: Ribosomal protein L2 [Ma... [ score 108 E 4e-23 ] [ range 58 .. 128 ]
+sequence
+-HKRRYRIIDFKRN-KFDVAATVERLEYDPNRTAFIALVSYTDGEKAYIIAPQRLAVGDQVIASEKADIK
+PGN-*
+>P1;gi|43157726|gb|EAC44509.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 60 .. 128 ]
+sequence
+-HKYRQIDFYRKKIDK---FAEVERIEYDPNRSCHIMLVKFEDGERFYYLAPKEIKIGDRIQNGPNSEIK
+VGN-*
+>P1;gi|28897034|ref|NP_796639.1| ribosomal protein L2 [Vibrio paraha... [ score 108 E 4e-23 ] [ range 60 .. 129 ]
+sequence
+-HHYRV-IDFKRTKDG--IPATVERLEYDPNRSANIALVLYKDGERRYILAPKGVVAGDVIQSGVDAPIK
+AGNT*
+>P1;gi|44308589|gb|EAI35643.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 60 .. 128 ]
+sequence
+-HKYRQIDFYRKKLD---VNAEVERIEYDPNRSCHIMLVKFEDGERFYYLAPKDIKVGDIIQNGSNAEIK
+LGN-*
+>P1;gi|30260304|ref|NP_842681.1| ribosomal protein L2 [Bacillus anth... [ score 108 E 5e-23 ] [ range 58 .. 128 ]
+sequence
+-HKRQYRIIDFKRN-KDGIPGRVATIEYDPNRSANIALINYVDGEKRYILAPKNLEVGMEIMSGAEADIK
+IGN-*
+>P1;gi|15642588|ref|NP_232221.1| ribosomal protein L2 [Vibrio choler... [ score 108 E 5e-23 ] [ range 58 .. 128 ]
+sequence
+-HKQHYRLDFKRTKDG--IPAKVERLEYDPNRSANIALVLYADGERRYIIAPKGLQAGDVIQSGPDAPIK
+AGN-*
+>P1;gi|44063059|gb|EAG92441.1| unknown [environmental sequence] [ score 108 E 5e-23 ] [ range 61 .. 129 ]
+sequence
+--RYRHVDFYRK---KLNMKAEVERIEYDPNRSCHIMLVKFEDGQKFYYLAPQNIKTGDKIENGKNVEIK
+IGNS*
+>P1;gi|43241502|gb|EAC86384.1| unknown [environmental sequence] [ score 107 E 5e-23 ] [ range 61 .. 128 ]
+sequence
+--RYRKIDFYRKKFD---MFADVERIEYDPNRSCYIMLVKFEDGEKFYYLAPQNIKVGDKIKNGSNSEIK
+VGN-*
+>P1;gi|43569584|gb|EAE39586.1| unknown [environmental sequence] [ score 107 E 5e-23 ] [ range 61 .. 128 ]
+sequence
+--KYRNIDFYRRKFD---MKAEVERIEYDPNRSCHIMLVKFEDGQRFYYLAPQEIVVGDKIENGPNAEIK
+IGN-*
+>P1;gi|34501446|ref|NP_904233.1| ribosomal protein L2 [Physcomitrell... [ score 107 E 5e-23 ] [ range 58 .. 128 ]
+sequence
+-HKRLYRIDFRR--NKKNISGKITTIEYDPNRTANICLVHYEDGEKRYILHPRGLKVGDTIISSNEAPIL
+IGN-*
+>P1;gi|44605472|gb|EAK42612.1| unknown [environmental sequence] [ score 107 E 5e-23 ] [ range 58 .. 128 ]
+sequence
+-HRRRYRIIDFKR-DKFDIPAKIVSIEYDPNRSANIALLFYEDGEKRYILSPFGVKVGDKIFSGENAPLK
+IGN-*
+>P1;gi|27364212|ref|NP_759740.1| Ribosomal protein L2 [Vibrio vulnif... [ score 107 E 5e-23 ] [ range 58 .. 129 ]
+sequence
+-HKQHYRVDFKRTKDG--IPAKVERLEYDPNRSANIALVLYADGERRYIIAPKGMQAGDVIQSGVDAPIK
+AGNT*
+>P1;gi|45531563|ref|ZP_00182603.1| hypothetical protein Exigu204401 ... [ score 107 E 6e-23 ] [ range 43 .. 113 ]
+sequence
+-HKRKYRIIDFKRN-KDGIAGRIATIEYDPNRSANIALVHYIDGEKRYILAPKGLKVDMQVMSGVEADIK
+VGN-*
+>P1;gi|23112030|ref|ZP_00097575.1| COG0090: Ribosomal protein L2 [De... [ score 107 E 6e-23 ] [ range 58 .. 128 ]
+sequence
+-HKRKYRLIDFKRN-KDSVPAKVASIEYDPNRSANIALLHYLDGHKAYILAPNGLQVGQMVVSGPDADIK
+VGN-*
+>P1;gi|30018383|ref|NP_830014.1| LSU ribosomal protein L2P [Bacillus... [ score 107 E 6e-23 ] [ range 58 .. 128 ]
+sequence
+-HKRQYRIIDFKRN-KDGIPGRVATIEYDPNRSANIALINYVDGEKRYILAPKSLEVGMEVMSGPEADIK
+IGN-*
+>P1;gi|43193502|gb|EAC62272.1| unknown [environmental sequence] [ score 107 E 6e-23 ] [ range 59 .. 127 ]
+sequence
+--KYRLIDFYRKKFD---VVGSIERIEYDPNRSCHIMLVKFDDGEKTYYLAPQKIKVGDKIQNGPNSEIK
+IGNT*
+>P1;gi|44152973|gb|EAH41439.1| unknown [environmental sequence] [ score 107 E 6e-23 ] [ range 57 .. 128 ]
+sequence
+-HKQNYRIIDFKR-DKFDIPAEVERIEYDPNRSAHIALLKYHDGERRYIIAPSKIKIGDQIISSDNCEIK
+VGNS*
+>P1;gi|43929414|gb|EAG19691.1| unknown [environmental sequence] [ score 107 E 6e-23 ] [ range 61 .. 128 ]
+sequence
+--KYRNIDFYRKKNDS---PATVERIEYDPNRSCHIMLVKFDDGERQYYLAPQKIKVGDKVENGRNKEIK
+IGN-*
+>P1;gi|33152955|ref|NP_874308.1| 50S ribosomal protein L2 [Haemophil... [ score 107 E 7e-23 ] [ range 61 .. 128 ]
+sequence
+-HYRLIDFKRNKFD----IPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLSVGDMIQAGASAPIK
+VGN-*
+>P1;gi|44271624|gb|EAI10914.1| unknown [environmental sequence] [ score 107 E 7e-23 ] [ range 60 .. 128 ]
+sequence
+-HYRVIDFKRNKFD----IPAVVERIEYDPNRSAHIALLKYKDGERRYIIAPSKIKIGDELVSSDNCEIK
+PGNS*
+>P1;gi|43498555|gb|EAE04119.1| unknown [environmental sequence] [ score 107 E 7e-23 ] [ range 61 .. 128 ]
+sequence
+--KYRIIDFKRK---KFGVSATVERLEYDPNRTAFIALIKYEDGDLSYIIAPQRLRVGDNVISGSDAPIK
+PGN-*
+>P1;gi|43090020|gb|EAC11201.1| unknown [environmental sequence] [ score 107 E 7e-23 ] [ range 60 .. 128 ]
+sequence
+-HKYRKIDFYRKKTDSN---AEVERIEYDPNRSCHIMLVKFDNGERFYYLAPKDIKVGDKIQNGPDSEIK
+IGN-*
+>P1;gi|34499638|ref|NP_903853.1| 50S ribosomal protein L2 [Chromobac... [ score 107 E 7e-23 ] [ range 53 .. 128 ]
+sequence
+-HRGGGHKKHYRLIDKDGIPAKVERIEYDPNRTAHIALLCYADGERRYIIAPRGVKVGAVLLSGSEAPIK
+AGN-*
+>P1;gi|15805343|ref|NP_294037.1| ribosomal protein L2 [Deinococcus r... [ score 107 E 8e-23 ] [ range 58 .. 129 ]
+sequence
+-HKRLYRIIDFKRRDKSGVNAKVAAIEYDPNRSARIALLHYADGEKRYILAPEGLTVGATVNAGPEAEPK
+LGN-*
+>P1;gi|15599456|ref|NP_252950.1| 50S ribosomal protein L2 [Pseudomon... [ score 107 E 8e-23 ] [ range 58 .. 129 ]
+sequence
+-HKQHYRLDFRRNKDG--IPAIVERVEYDPNRTAHIALLKYADGERRYIIAPKGVAAGDQLISGIGAPIK
+AGNS*
+>P1;gi|43514778|gb|EAE12122.1| unknown [environmental sequence] [ score 107 E 8e-23 ] [ range 60 .. 128 ]
+sequence
+-HKYRQIDFYRKKFDT---TAEVERIEYDPNRSCHIMLVKFEDGKKFYYLAPKDIKVGEKIQNGPNSEIK
+VGN-*
+>P1;gi|43582519|gb|EAE46082.1| unknown [environmental sequence] [ score 106 E 8e-23 ] [ range 58 .. 128 ]
+sequence
+-HKRRYRIIDFKRTKLD-VTGTVERIEYDPNRSAFIALIKYEDNELRYIIAPQRLALGDKVVSSKKADIK
+PGN-*
+>P1;gi|22536246|ref|NP_687097.1| ribosomal protein L2 [Streptococcus... [ score 106 E 9e-23 ] [ range 58 .. 128 ]
+sequence
+-HKRHYRLIDFKRN-KDGVEAVVKTIEYDPNRTANIALVHYTDGVKAYILAPKGLEVGQRIISGPEADIK
+VGN-*
+>P1;gi|32035716|ref|ZP_00135597.1| COG0090: Ribosomal protein L2 [Ac... [ score 106 E 1e-22 ] [ range 58 .. 128 ]
+sequence
+-HKQHYRLVDFKRNKLD-IPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLSVGDTIQAGVSAPIK
+AGN-*
+>P1;gi|21228229|ref|NP_634151.1| LSU ribosomal protein L2P [Methanos... [ score 106 E 1e-22 ] [ range 21 .. 93 ]
+sequence
+SHKYKADLRHPRVDENTSLQGEVIDIEHDPARSAPIAKVAFENGEELFLLASEGVAVGNIIECGDDAEVK
+PGN-*
+>P1;gi|44540920|gb|EAJ97196.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 60 .. 128 ]
+sequence
+-HYRVIDFKRNKFD----IPAIVERIEYDPNRSAHIALLKYLDGERRYIIAPSKLKIGDEIISSDNCEIK
+VGNS*
+>P1;gi|15896380|ref|NP_349729.1| Ribosomal protein L2 [Clostridium a... [ score 106 E 1e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRLIDFKR---NKDGVPAKVTTIEYDPNRSAYIALVVYADGEKRYIIAPTKLSVGDTVVSGPDADIK
+IGN-*
+>P1;gi|44334767|gb|EAI53979.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRRYRIIDF-VRDKHDIPARVATKEYDPNRSARISLLHYADGEKRYILSPNGISVGDVIFSGENADIK
+PGN-*
+>P1;gi|44346618|gb|EAI62246.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 57 .. 128 ]
+sequence
+-HKQHYRLIDFKR-DKFDIPAVVERIEYDPNRSAHIALLKYLDGERRYIIAPSKIKIGDQIISSDDCEIK
+VGNS*
+>P1;gi|16801839|ref|NP_472107.1| ribosomal protein L2 [Listeria inno... [ score 106 E 1e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRQYRVIDFKRN-KDGIPGRVATIEYDPNRSANIALINYADGEKRYIIAAKGLEVGQTIYSGAEADIK
+VGN-*
+>P1;gi|28894957|ref|NP_801307.1| 50S ribosomal protein L2 [Streptoco... [ score 106 E 1e-22 ] [ range 43 .. 113 ]
+sequence
+-HKRHYRLIDFKRN-KDGVEAVVKTIEYDPNRTANIALVHYTDGVKAYIIAPKGLEVGQRIVSGPDADIK
+VGN-*
+>P1;gi|43265476|gb|EAC98465.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 60 .. 129 ]
+sequence
+-HKYRIIDFHRS---KIGIKGLVERIEYDPNRSCYIMLIKFEDNEMKYYLAPQNVKVGDTIENGSNAGIK
+PGNS*
+>P1;gi|44346623|gb|EAI62250.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 57 .. 128 ]
+sequence
+-HKQHYRLIDFKR-DKFDIPAEVERIEYDPNRSAHIALLKYLDGERRYIIAPSKIQIGDQIISSDDCEIK
+VGNS*
+>P1;gi|42911303|gb|EAB22754.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 58 .. 129 ]
+sequence
+-HKKRYRIIDFKRN-KDNIPATVERLEYDPNRNANIALLLYADGERRYIIAPKNLKSGDKLMSGEKSSIN
+IGNT*
+>P1;gi|44122218|gb|EAH24564.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 60 .. 128 ]
+sequence
+-HKYRIIDFFRKKKN---ISAVVDRIEYDPNRSAYIALITYHDKVKSYIICPQGLKVGDKVESGKNIEIK
+TGN-*
+>P1;gi|20089945|ref|NP_616020.1| ribosomal protein L2p [Methanosarci... [ score 106 E 1e-22 ] [ range 21 .. 93 ]
+sequence
+SHKYKADLRHPRVDENSSLRGEVVGIEHDPARSAPIAKVAFENGEELFLLASEGIAVGNIIECGDDAEVK
+PGN-*
+>P1;gi|43487103|gb|EAD98321.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 58 .. 129 ]
+sequence
+-HKRRYRLIDFKR-DKYDIPGKVMTVEYDPNRSANISLIKYADGEKRYILSPVGLKVDDPVISGEKVPLK
+VGNS*
+>P1;gi|44099165|gb|EAH12208.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 53 .. 129 ]
+sequence
+-HRGGGHKQHYRIIDKDGIPATVERLEYDPNRTANIALLKYADGQRRYIIAPKGVSAGDELMSGGTAPIR
+SGNT*
+>P1;gi|44586265|gb|EAK29046.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 30 .. 101 ]
+sequence
+-HKRLYRIDFKRNKD--NISAVVERIEYDPNRSSHIALVLYEDGERRYIIAPKGLKEGDKVFSGNNVPIA
+NGNT*
+>P1;gi|27468739|ref|NP_765376.1| 50S ribosomal protein L2 [Staphyloc... [ score 106 E 1e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRQYRVIDFKRN-KDGIIAKVDSIQYDPNRSANIALLVYADGEKRYIIAPKGLQVGQTVESGAEADIK
+VGN-*
+>P1;gi|44426837|gb|EAJ19089.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 58 .. 128 ]
+sequence
+-HKQHYRLIDFKR-DKDGIPAKIERLEYDPNRTAHIALVLYADGERRYILAAKGMQAGDKIQSGVEAEIK
+TGN-*
+>P1;gi|44339418|gb|EAI57171.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 58 .. 128 ]
+sequence
+-HKKKYHIDFKR--DKDGIPARVERVEYDPNRSSHIMLILYKDGERRYIIAPNKVKVGDEIMSGNDSPIK
+SGN-*
+>P1;gi|44486980|gb|EAJ61401.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRIIDFKRKKFD---VSAIVERLEYDPNRTAFIALIKYDDGELSYIIAPQRLKTGDKVVSGPNAPIK
+PGN-*
+>P1;gi|33318731|gb|AAQ05262.1| ribosomal protein L2 [Podocarpus chin... [ score 106 E 1e-22 ] [ range 8 .. 78 ]
+sequence
+-HKYRQIDFRRSKKD---ISGKIVTIEYDPNRSAYICLVHYRDGEKTYILHPRGVMIGDTIISGPRAPIS
+MGN-*
+>P1;gi|44607417|gb|EAK44015.1| unknown [environmental sequence] [ score 106 E 2e-22 ] [ range 60 .. 128 ]
+sequence
+-HKYRQVDFYRKKFE---IEAEVLRIEYDPNRSCHIMLVKFADGDHFYYLAPKDIKVGDKVMNGSTAEIK
+IGN-*
+>P1;gi|43150014|gb|EAC40714.1| unknown [environmental sequence] [ score 106 E 2e-22 ] [ range 60 .. 128 ]
+sequence
+-HKYRKIDFYRKKND---MKAIVERIEYDPNRSCHIMLVKFEDNQKFYYLAPQNIKVGDHVQNGPSSEIK
+IGN-*
+>P1;gi|44016592|gb|EAG66933.1| unknown [environmental sequence] [ score 106 E 2e-22 ] [ range 60 .. 128 ]
+sequence
+-HKYRIIDFFRKRKN---ISAVVDRIEYDPNRSAYIALITYHDKAKSYIICPQGLKVGDKVESGKNIEIK
+TGN-*
+>P1;gi|33594482|ref|NP_882126.1| 50S ribosomal protein L2 [Bordetell... [ score 105 E 2e-22 ] [ range 58 .. 129 ]
+sequence
+-HKQHYRVDFRRNKDG--IPAKVERLEYDPNRTAHIALLCYADGERRYIIAPRGLEVGATLISGIEAPIR
+AGNT*
+>P1;gi|44358971|gb|EAI71140.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 17 .. 85 ]
+sequence
+-HKYRKIDFYRKKID---LFAEVERIEYDPNRSCHIMLVKFDDGERFYYLAPKDIKVGDKIQNGPNSEIK
+IGN-*
+>P1;gi|43532886|gb|EAE21142.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRRYRIIDF-VRDKHDIPAKVVSMEYDPNRSSRISLLHYADGEKRYILSPSGIKIGDVIFSGEKSDIK
+PGN-*
+>P1;gi|37912953|gb|AAR05285.1| ribosomal protein L2 [uncultured mari... [ score 105 E 2e-22 ] [ range 60 .. 128 ]
+sequence
+-HYRVIDFKRNKFD----IPAVVERLEYDPNRSAHIALLLYKDGERRYIIAPAKIKVGDEVISAEKCEIK
+VGNS*
+>P1;gi|44302446|gb|EAI31592.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 54 .. 122 ]
+sequence
+-HKYRHVDFYRKKFD---ITANVERIEYDPNRSCHIMLVKFEDGTKYYYLAPQNIKVGETIQNGPNSEIK
+NGN-*
+>P1;gi|23024324|ref|ZP_00063540.1| COG0090: Ribosomal protein L2 [Le... [ score 105 E 2e-22 ] [ range 43 .. 113 ]
+sequence
+-HKYRIVDFKRTKDDK---TATVKAIEYDPNRTANIALLVYEDGIKSYILAPKGLKVGDKVQSGPDADIK
+PGN-*
+>P1;gi|43779867|gb|EAF44454.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 60 .. 128 ]
+sequence
+-HKYRQIDFHRK---KLNISAEVERIEYDPNRSCHIMLVKFDDNERFYYLAPKDIKIGDKIQNGSNSEIK
+TGN-*
+>P1;gi|43625583|gb|EAE67418.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRRYRLIDFKRT-KTGVEATVERIEYDPNRTAFIALITYDDGEQSYILAPQRLSVGDRVSSGLGADIK
+PGN-*
+>P1;gi|43012348|gb|EAB72950.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 60 .. 129 ]
+sequence
+--RLYREIDFKRNKD--NISAVVERIEYDPNRSSHIALILYKDGERRYIIAPKGLKEGDKVSSGNNVPIA
+IGNT*
+>P1;gi|44609999|gb|EAK45819.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 60 .. 129 ]
+sequence
+--RLYREIDFKRNKD--DISAVVERIEYDPNRSSHIALVLYKDGERRYIIAPKGLKEGDVISSGNNAPIA
+TGNT*
+>P1;gi|44599947|gb|EAK38717.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRHIDFYRK---KFNMKAEVERVEYDPNRSCYIMLVKFEDGQKFYYLAPQNIKVGDKIENGPNVEIK
+TGN-*
+>P1;gi|44005761|gb|EAG60971.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 11 .. 82 ]
+sequence
+-HKYRIIDFKRNKFD---IPAVIERIEYDPNRSAHIALLKYKDGEKSYIIAPSKVKVGDEVVSSENCEIK
+VGNS*
+>P1;gi|43633483|gb|EAE71386.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 60 .. 129 ]
+sequence
+-HKFRVIDFFRKKKN---IPAVIERIEYDPNRTSYIALIKYEDNEMSYIICPHGLKKGDKIYSGDNVEIK
+IGNS*
+>P1;gi|44468745|gb|EAJ48437.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 34 .. 102 ]
+sequence
+-HYRIIDFKRNKFD----IPATVERIEYDPNRSAHIALLKYLDGERRYIIAPSKLKAGDEVISADNCEIK
+VGNS*
+>P1;gi|44563149|gb|EAK12935.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 58 .. 129 ]
+sequence
+-HKNKYRLVDFKRNKLD-MTATVERIEYDPNRTAYIALIKYEDGVQSYILAPKDVKSGEKIISGESVEIK
+PGNS*
+>P1;gi|41179014|ref|NP_958369.1| ribosomal protein L2 [Chlamydomonas... [ score 105 E 3e-22 ] [ range 60 .. 131 ]
+sequence
+-HKRLYRIDFRR--DKIGVTAKVVRIEYDPNRNARIALLRYEDGEKRYIIHPRGLNIGDIIQSDLNAPIL
+IGNS*
+>P1;gi|42844115|gb|EAA89447.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 58 .. 128 ]
+sequence
+-HKYRHVDFYRKKFDME---ATVERIEYDPNRSCYIMLVKFEDGTHSYFLAPQKIKVGDKIQSGSKKEIK
+VGN-*
+>P1;gi|43826944|gb|EAF67778.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 4 .. 75 ]
+sequence
+-HKRRYRIIDFKR-DKFDVPAKVSAIEYDPNRSANIALLFYADGEKRYIIAPSEIKIGDEVVSGENAPLR
+VGNT*
+>P1;gi|43568110|gb|EAE38845.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRNIDFYRK---KINLSGQVERIEYDPNRTCYIMLVKFDDGERFYYLAPQKIKIGDKIQNGSNIEIK
+IGN-*
+>P1;gi|15900148|ref|NP_344752.1| ribosomal protein L2 [Streptococcus... [ score 105 E 3e-22 ] [ range 60 .. 128 ]
+sequence
+--RFYRLVDFKRNKD--NVEAVVKTIEYDPNRSANIALVHYTDGVKAYIIAPKGLEVGQRIVSGPEADIK
+VGN-*
+>P1;gi|42976152|gb|EAB55029.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 60 .. 128 ]
+sequence
+-HKYRNIDFYRKKTD---MIGTIERVEYDPNRSCHIMLVSFEDNEKFYYLAPQKIKVGDKIQNGSNSEIK
+NGN-*
+>P1;gi|43788703|gb|EAF48891.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 58 .. 128 ]
+sequence
+-HKYRHVDFYRKKFDME---ATVERIEYDPNRSCYIMLVKFEDGTHSYFLAPQKIKVGDKVESGSKKEIK
+VGN-*
+>P1;gi|43744534|gb|EAF26687.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 60 .. 128 ]
+sequence
+-HKYRKIDFYRKKND---MKAIVERIEYDPNRSCHIMLVKFEDNQKFYYLAPQKIKIGDHIQNGSSSEIK
+IGN-*
+>P1;gi|44259536|gb|EAI02584.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 58 .. 128 ]
+sequence
+-HKQRYRIIDFKR-DKAAVPGIVERLEYDPNRSAHIALIKYIDGERRYILAPKGIEIGAKIMSGNDAPIK
+RGN-*
+>P1;gi|43355726|gb|EAD42723.1| unknown [environmental sequence] [ score 105 E 4e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRKIDFYRK---KTNMSAEVERIEYDPNRSCHIMLVKFDDGERFYYLAPKDIKIGDKVENGSNVEIK
+VGN-*
+>P1;gi|44626963|gb|EAK58129.1| unknown [environmental sequence] [ score 105 E 4e-22 ] [ range 58 .. 128 ]
+sequence
+-HKQKYIIDFKRVKDG--IPAKVAAIEYDPNRNARIALLHYVDGEKAYIIAPDGLAVDNFIESGPKSDIK
+DGN-*
+>P1;gi|44641013|gb|EAK67940.1| unknown [environmental sequence] [ score 105 E 4e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRKIDFYRR---KFNVKGEVERIEYDPNRTCYIMLVKFDDGERFYYLAPQNIKKGDKIENGPNSEIK
+IGN-*
+>P1;gi|15925237|ref|NP_372771.1| 50S ribosomal protein L2 [Staphyloc... [ score 105 E 4e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRQYRVIDFKRN-KDGINAKVDSIQYDPNRSANIALVVYADGEKRYIIAPKGLEVGQIVESGAEADIK
+VGN-*
+>P1;gi|44124676|gb|EAH25911.1| unknown [environmental sequence] [ score 105 E 4e-22 ] [ range 19 .. 87 ]
+sequence
+-HKYRHVDFYRKKFD---LAAKVERIEYDPNRSCHIMLVKFDDGEKCYYLAPQNIKVGETIQNGPSSEIK
+VGN-*
+>P1;gi|44221978|gb|EAH78462.1| unknown [environmental sequence] [ score 105 E 4e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRIIDFYRKKK---GSKGEVERIEYDPNRSCHIMLVKFDDGEKYYYLAPQGINIGDKISNGEDSEIK
+IGN-*
+>P1;gi|43796481|gb|EAF52858.1| unknown [environmental sequence] [ score 105 E 4e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRHIDFYRK---KFNMKAEVERVEYDPNRSCYIMLVKFDDGQKFYYLAPQNIKVGDKIENGPNIEIK
+TGN-*
+>P1;gi|34764035|ref|ZP_00144921.1| LSU ribosomal protein L2P [Fusoba... [ score 105 E 4e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRLYRIIDFKRNKLD-VPARVATIEYDPNRSANIALLFYADGEKRYILAPKGLKKGDIVSAGSKADIK
+PGN-*
+>P1;gi|43664852|gb|EAE87388.1| unknown [environmental sequence] [ score 105 E 4e-22 ] [ range 58 .. 127 ]
+sequence
+--RLYRIVDFKR--NKTDIPGIVERIEYDPNRTAFIALIKYQDGEKSYILAPQRLKVNDQVVSSDSSDIK
+PGNS*
+>P1;gi|29374854|ref|NP_814007.1| ribosomal protein L2 [Enterococcus ... [ score 105 E 4e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRQYRVIDFKRN-KDNVAAVVKTIEYDPNRSANIALVHYEDGVKAYILAPKGLEVGMRLVSGPEADIK
+VGN-*
+>P1;gi|43892886|gb|EAG00472.1| unknown [environmental sequence] [ score 105 E 4e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRQIDFYRK---KNTSNAEVERIEYDPNRSCHIMLVKFEDGERFYYLAPKDIKIGDKIQNGSNSEIK
+IGN-*
+>P1;gi|44286417|gb|EAI20867.1| unknown [environmental sequence] [ score 104 E 4e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRRYRIIDF-VRDKYDIPAKVATMEYDPNRSARISLLHYADGEKRYILSPSGIKVGDVIFSGEKSDIK
+TGN-*
+>P1;gi|43748809|gb|EAF28811.1| unknown [environmental sequence] [ score 104 E 4e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRNIDFYRRKFDS---TGEVERIEYDPNRSCHIMLVKFEDGKKFYYLAPQKIKVGEKIKNGSNIEIK
+VGN-*
+>P1;gi|23306476|gb|AAM08938.1| 50S ribosomal protein L2 [Mycoplasma ... [ score 104 E 4e-22 ] [ range 61 .. 129 ]
+sequence
+--RFYRIIDFKRQKDG--IPATVKTIEYDPNRSANISLVVYRDGEKRYILSPKGIKIGQVILSGDNVDIQ
+VGN-*
+>P1;gi|44434794|gb|EAJ24624.1| unknown [environmental sequence] [ score 104 E 5e-22 ] [ range 36 .. 104 ]
+sequence
+-HYRVIDFKRNKFD----VPAIVERIEYDPNRSAHIALLKYLDGERRYIIAPSKLKIGDELMSSDNCEIK
+VGNS*
+>P1;gi|2500221|sp|P55835|RL2_ACTAC 50S ribosomal protein L2 >gi|1841... [ score 104 E 5e-22 ] [ range 61 .. 128 ]
+sequence
+-HYRLIDFKRNKLD----IPGVVERLEYDPNRSANIALVLYKDGERRYILAPKGLAAGDQIQAGAHAPIK
+VGN-*
+>P1;gi|15639185|ref|NP_218631.1| ribosomal protein L2 (rplB) [Trepon... [ score 104 E 5e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRRYRDIDFKRDLHD-IPGTVKTIEYDPNRSVNIALVFYANGQKRYILAPKGLKVGQQVVSGEKVPLE
+PAN-*
+>P1;gi|43231085|gb|EAC81124.1| unknown [environmental sequence] [ score 104 E 5e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRRYRKIDF-VRDKHDIPAKVATKEYDPNRSARISLLHYADGEKRYILSPNGISVGDVIFSGENSDIK
+PGN-*
+>P1;gi|15892926|ref|NP_360640.1| 50S ribosomal protein L2 [Rickettsi... [ score 104 E 5e-22 ] [ range 60 .. 128 ]
+sequence
+--KLYRIIDFKR--NKIDISAIVERIEYDPNRTAFIALIKYEDGEYSYILAPQKLSVGDRVISSQDADIK
+IGN-*
+>P1;gi|44338301|gb|EAI56378.1| unknown [environmental sequence] [ score 104 E 5e-22 ] [ range 60 .. 128 ]
+sequence
+-HYRVIDFKRNKFE----IPAVVERIEYDPNRSAHIALLKYLDGERRYIIAPQKLKIGDDIISSDNCDIK
+VGNS*
+>P1;gi|44530801|gb|EAJ90235.1| unknown [environmental sequence] [ score 104 E 6e-22 ] [ range 60 .. 128 ]
+sequence
+--KLYRIIDFKR--NKTNVSATVERIEYDPNRTAFIALINYDDGERAYILAPQRLAIGDKVISADKADIK
+PGN-*
+>P1;gi|44279713|gb|EAI16384.1| unknown [environmental sequence] [ score 104 E 6e-22 ] [ range 60 .. 128 ]
+sequence
+-HKYRVIDFLRNKID---IMATIERIEYDPNRTSYIALVKYEDEVRNYILCPQGIKVGDKISSGENVDIK
+VGN-*
+>P1;gi|44337665|gb|EAI55929.1| unknown [environmental sequence] [ score 104 E 6e-22 ] [ range 53 .. 128 ]
+sequence
+-HRGGGHKRHYRVIDKDSIPAKVERLEYDPNRSAHIALLLYADGERRYIIAPKGLAVGDPVASGEDVAIR
+TGN-*
+>P1;gi|44502140|gb|EAJ70928.1| unknown [environmental sequence] [ score 104 E 7e-22 ] [ range 57 .. 128 ]
+sequence
+-HKQHYRLIDFKR-DKYDIPAIIERIEYDPNRSAHIALLKYLDGERRYIIAPSKIKIGDKIVSSDNCEIK
+AGNS*
+>P1;gi|23108392|ref|ZP_00094616.1| COG0090: Ribosomal protein L2 [No... [ score 104 E 7e-22 ] [ range 61 .. 128 ]
+sequence
+--KYRYVDFKRRKWD---MPATVERLEYDPNRTAFIALVKYEDGELAYILAPQRLGVGDQVIAGEKTDVK
+PGN-*
+>P1;gi|23051982|ref|ZP_00078672.1| COG0090: Ribosomal protein L2 [Me... [ score 103 E 7e-22 ] [ range 21 .. 93 ]
+sequence
+SHKYKAELRHPRVDENTSIQGKVINLEHDPARSAPIAKVVFETGEERLLLASEGIAVGSTIECGDDADVR
+PGN-*
+>P1;gi|22978508|ref|ZP_00024259.1| COG0090: Ribosomal protein L2 [Ra... [ score 103 E 7e-22 ] [ range 58 .. 129 ]
+sequence
+-HKHHYRVVDFKRNDKDGIAAKVERLEYDPNRSANIALVLFADGERRYIIATKGMVAGQALMNGSEAPIK
+AGN-*
+>P1;gi|43010048|gb|EAB71810.1| unknown [environmental sequence] [ score 103 E 7e-22 ] [ range 58 .. 128 ]
+sequence
+-HKYRHVDFYRKKFDME---ATVERIEYDPNRSCYIMLVKFEDGTHSYFLAPQKIKVGDKIESGSKKEIK
+IGN-*
+>P1;gi|33519661|ref|NP_878493.1| 50S ribosomal subunit protein L2 [C... [ score 103 E 8e-22 ] [ range 60 .. 131 ]
+sequence
+-HKQRYRIIDFKRN-KDDVFAVVERMEYDPNRSANIALIVYKDGERRYILAPRNLNVGNKIISGLNVPIS
+PGNS*
+>P1;gi|44164291|gb|EAH47346.1| unknown [environmental sequence] [ score 103 E 8e-22 ] [ range 19 .. 88 ]
+sequence
+--RLYREIDFKRNKD--NVSAVVERIEYDPNRSSHIALVLYKDGERRYIIAPKGLKEGDAISSGNSAPIK
+TGNT*
+>P1;gi|42518432|ref|NP_964362.1| 50S ribosomal protein L2 [Lactobaci... [ score 103 E 8e-22 ] [ range 58 .. 128 ]
+sequence
+-HKQKYRIIDFKRN-KDDVKAVVKAIEYDPNRTANIALLHYTDGIKAYILAPKGLKVGAVVESGPDADIK
+PGN-*
+>P1;gi|43019220|gb|EAB76307.1| unknown [environmental sequence] [ score 103 E 8e-22 ] [ range 60 .. 128 ]
+sequence
+--RLYRIVDFKR--NKTNVSANVERIEYDPNRTAFIALINYDDGEKAYILAPQRLAVGDKVISADKADIK
+PGN-*
+>P1;gi|44321487|gb|EAI44525.1| unknown [environmental sequence] [ score 103 E 9e-22 ] [ range 58 .. 128 ]
+sequence
+-HKRSYRIIDFKRN-KFDIEGKVATIEYDPNRSAFIALIHYIDGEKRYIIQPDGLKVGDKIISSEKAELK
+TGN-*
+>P1;gi|44483707|gb|EAJ59178.1| unknown [environmental sequence] [ score 103 E 9e-22 ] [ range 61 .. 128 ]
+sequence
+--RYRIIDFLR---NKINIPAKVVTIEYDPNRTARISLLHYADGEKRYILTPEGLNVGDTVVSGDQVEIK
+SGN-*
+>P1;gi|44649250|gb|EAK73542.1| unknown [environmental sequence] [ score 103 E 9e-22 ] [ range 58 .. 128 ]
+sequence
+-HKQKYRLIDFRR-DKDGIPAKIERLEYDPNRSANIALLLYADGERRYIVAPAKVVAGTELQSGVDAPIK
+PGN-*
+>P1;gi|22998288|ref|ZP_00042388.1| COG0090: Ribosomal protein L2 [Ma... [ score 103 E 9e-22 ] [ range 58 .. 131 ]
+sequence
+-HKRRYRIIDFKRN-KFDVPAKVARIEYDPNRTAFIALLHYADGEKSYILAPQRLQVGDTVVSADNVDVK
+PGN-*
+>P1;gi|15793154|ref|NP_282976.1| 50S ribosomal protein L2 [Neisseria... [ score 103 E 1e-21 ] [ range 60 .. 129 ]
+sequence
+-HHYRV-VDFKRNKDG--IPAKVERIEYDPNRTAFIALLCYADGERRYIIAPRGIQAGAVLVSGAEAAIK
+VGNT*
+>P1;gi|44639153|gb|EAK66619.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 58 .. 128 ]
+sequence
+-HKKKYRLVDFKRDRKDE-NAEVLSIEYDPNRSAFIALIKFEDGEKRYIIAPKGLKVGQSVVSGDKVNPS
+VGN-*
+>P1;gi|43592026|gb|EAE50869.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 60 .. 128 ]
+sequence
+-HKYRKIDFYRKKK---GVTAEVERIEYDPNRSCHIMLVKFDDDQRFYYLAPKDIKIGDKIQNGSNSEIK
+IGN-*
+>P1;gi|15617115|ref|NP_240328.1| 50S ribosomal protein L2 [Buchnera ... [ score 103 E 1e-21 ] [ range 58 .. 129 ]
+sequence
+-HKRAYRIVDFKRN-KDDIGATVERFEYDPNRSSNIALILYKDGERKYILAPKGIKIGDTIISGLRAPIK
+TGNT*
+>P1;gi|15674078|ref|NP_268253.1| 50S ribosomal protein L2 [Lactococc... [ score 103 E 1e-21 ] [ range 58 .. 128 ]
+sequence
+-HKRKYRVIDFKRT-TDNVVAKVATIEYDPNRTANIALIVYSNGVKSYILAPKGLEVGMTVVSGPEADIK
+VGN-*
+>P1;gi|44617162|gb|EAK50905.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 61 .. 128 ]
+sequence
+--KYRNIDFYRK---KFGEKAEVERIEYDPNRSCHIMLVKFSDGERYYYLAPQGIKVGDKISNGPNSEIK
+VGN-*
+>P1;gi|42524372|ref|NP_969752.1| 50S ribosomal protein L2 [Bdellovib... [ score 103 E 1e-21 ] [ range 58 .. 129 ]
+sequence
+-HKRKYRLVDFKRNKLE-VAAKVIAIEYDPNRTCRIALISYIDGAKAYILAPVGLNVGDTVISSDKADIK
+PGNS*
+>P1;gi|44570280|gb|EAK17928.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 58 .. 129 ]
+sequence
+-HKRKYRVIDFKR-DKDNIAAKVERLEYDPNRNANIALLLYKDGERRYIIAPKNLKQGDSVMSGIESSIS
+VGNS*
+>P1;gi|44505216|gb|EAJ72998.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 61 .. 128 ]
+sequence
+--KYRIIDFYRKKFD---MFADVERVEYDPNRSCHIMLVKFEDGERYYYLAPKDIKVGDKIHNGPNSEIK
+NGN-*
+>P1;gi|44427611|gb|EAJ19643.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 60 .. 128 ]
+sequence
+-HKYRQVDFYRKKFE---IEAEVLRIEYDPNRSCHIMLVKFADGDHFYYLAPKDIKIGDKIMNGSEAEIK
+IGN-*
+>P1;gi|44527037|gb|EAJ87712.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 60 .. 129 ]
+sequence
+--RLYREIDFKRNKD--NISAVVERIEYDPNRSSHIALILYEDGERRYIIAPKGLKEGDKVSSGNNVKIA
+TGNT*
+>P1;gi|43556419|gb|EAE32970.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 58 .. 128 ]
+sequence
+-HKQKYRIDFKRIKDG--IPARVAGIEYDPNRNARIALLHYVDGEKSYIIAPDGISVDSRVESGPKADIK
+DGN-*
+>P1;gi|44343118|gb|EAI59805.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 58 .. 129 ]
+sequence
+-HKRSYRIIDFKR-DKDDIAAKVERLEYDPNRNANIALLLYIDGERRYIIAPKNLKTGDSVMSGKNSSIT
+IGNS*
+>P1;gi|39997946|ref|NP_953897.1| ribosomal protein L2 [Geobacter sul... [ score 103 E 1e-21 ] [ range 61 .. 128 ]
+sequence
+--KYRIIDFRR---NKVEVPAKVASIEYDPNRSARIALLHYADGAKRYILAPLDLKVGDSIVASSNADIK
+PGN-*
+>P1;gi|44528960|gb|EAJ89000.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 58 .. 129 ]
+sequence
+-HKRRYRLIDFKRN-KFDVFGSVKTIEYDPNRSSFIALIEYKDGEKRYIIAQNGLKVGQKVISGKKAPPE
+IGNS*
+>P1;gi|632212|pir||B54547 ribosomal protein 12 - mycoplasma-like org... [ score 103 E 1e-21 ] [ range 61 .. 128 ]
+sequence
+--KYRLIDFKR---NKDNIVGKVATIEYDPNRSANIALIHYLDGEKRYILAPKGLTVGMQIVSGKEADIK
+VAN-*
+>P1;gi|15604502|ref|NP_221020.1| 50S RIBOSOMAL PROTEIN L2 (rplB) [Ri... [ score 103 E 2e-21 ] [ range 58 .. 128 ]
+sequence
+-HKYRVIDFKRKKID---ISAIVERIEYDPNRTAFIALIKYDDGEYSYILAPQKLSIGDRVISSQAADIK
+IGN-*
+>P1;gi|43902780|gb|EAG05741.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 60 .. 128 ]
+sequence
+-HKYRQVDFYRKKLDS---TAEVERVEYDPNRSCHIMLVKFDDGKRFYYLAPKDIKIGDKITNGSNSEIK
+IGN-*
+>P1;gi|43706587|gb|EAF08402.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 58 .. 128 ]
+sequence
+-HKYRHVDFYRKKFDA---PATVERIEYDPNRSCYIMLVKFEDNSHAYYLAPQKIKVGDKVENGSKKEIK
+VGN-*
+>P1;gi|42832307|gb|EAA83612.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 60 .. 128 ]
+sequence
+-HKYRKIDFYRKKLD---VTAEVERIEYDPNRSCHIMLVKFKDGERCYYLSPKDIKVGDIIKNGSNSEIK
+IGN-*
+>P1;gi|44384007|gb|EAI88845.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 58 .. 128 ]
+sequence
+-HKQKYRVDFKRVKDG--IPAKVAGIEYDPNRNSRIALLHYVDGEKSYIIAPEGVYEGSMVESGPKAEIK
+DGN-*
+>P1;gi|23003722|ref|ZP_00047374.1| COG0090: Ribosomal protein L2 [La... [ score 102 E 2e-21 ] [ range 43 .. 113 ]
+sequence
+-HKQKYRIIDFKRN-KDDVKAVVKAIEYDPNRTANIALLHYTDGIKAYILAPKDLKVGTVVESGPNADIK
+PGN-*
+>P1;gi|71090|pir||R5SP2 ribosomal protein L2 - spinach chloroplast [ score 102 E 2e-21 ] [ range 54 .. 124 ]
+sequence
+-HKRLYRKIDFRRNEKD-IYGKIVTIEYDPNRNAYICLIHYGDGEKRYILHPRGAIIGDTIVSGTEVPIK
+MGN-*
+>P1;gi|19704963|ref|NP_602458.1| LSU ribosomal protein L2P [Fusobact... [ score 102 E 2e-21 ] [ range 58 .. 128 ]
+sequence
+-HKRLYRIIDFKRNKLD-VPARVATIEYDPNRSANIALLFYVDGEKRYILAPKGLKKGDIVSAGSKAEIK
+PGN-*
+>P1;gi|44176774|gb|EAH53955.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 58 .. 128 ]
+sequence
+-HKYRQIDFHRKKAD---VPAVVERIEYDPNRSCYIMLVKFEDGQNFYYLAPQKIKVGDKIENGTKKEIK
+IGN-*
+>P1;gi|43763231|gb|EAF36074.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 60 .. 128 ]
+sequence
+-HKFRIIDFYRK---KHNLKAIVDRIEYDPNRTAYIALITYDDKQKSYIICPQGLKKGDVIESGKNVEIK
+TGN-*

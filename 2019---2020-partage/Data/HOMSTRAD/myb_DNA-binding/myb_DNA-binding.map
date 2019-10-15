@@ -1,0 +1,1311 @@
+>P1;1msfc1
+structureX:1msf:  89 :C: 143 :C:myb proto-oncogene protein (c-myb):Mus musculus: -1: -1
+---MLIKGPWTKEEDQRVIKLVQKYGPKRWSVIAKHLK--GRIGKQCRERWHNHLNPEVK-*
+>P1;1a5j1
+structureX:1a5j:   1 : :  55 : :myb-related protein b (b-myb):Gallus gallus: -1: -1
+GIPDLVKGPWTKEEDQKVIELVKKYGTKQWTLIAKHLK--GRLGKQCRERWHNHL----NP*
+>P1;1msfc2
+structureX:1msf: 144 :C: 193 :C:myb proto-oncogene protein (c-myb):Mus musculus: -1: -1
+------KTSWTEEEDRIIYQAHKRLG-NRWAEIAKLLP--GRTDNAIKNHWNSTMRRKV--*
+>P1;1a5j2
+structureX:1a5j:  56 : : 110 : :myb-related protein b (b-myb):Gallus gallus: -1: -1
+---EVKKSSWTEEEDRIIFEAHKVLG-NRWAEIAKLLP--GRTDNAVKNHWNSTIKRKVDT*
+>P1;1ba5
+structureX:1ba5:   1 : :  53 : :telomeric repeat binding factor 1:Homo sapiens: -1: -1
+---RKRQ-AWLWEEDKNLRSGVRKYGEGNWSKILLHYKFNNRTSVMLKDRWRTMKKL----*
+>P1;gi|30024600|dbj|BAC75672.1| transcription factor MYB102 [Lotus c... [ score 118 E 3e-26 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQKLVEHIQKHGHGSWRALPKLAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|7428545|pir||S58293 myb-related protein M4 - Arabidopsis thal... [ score 118 E 4e-26 ] [ range 12 .. 68 ]
+sequence
+----LKKGPWTSEEDQKLVDYIQKHGYGNWRTLPKNAG--QRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|15218730|ref|NP_174726.1| myb family transcription factor [Ar... [ score 118 E 5e-26 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQKLIDYIHKHGHGSWRALPKLAL--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|30024604|dbj|BAC75674.1| transcription factor MYB101 [Glycine... [ score 117 E 7e-26 ] [ range 6 .. 60 ]
+sequence
+----LKKGPWTPEEDRILVDYIQKHGHGSWRALPKHAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|15238116|ref|NP_196590.1| myb family transcription factor (MY... [ score 117 E 8e-26 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPDEDEKLVNYVQKHGHSSWRALPKLAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|41619312|gb|AAS10073.1| MYB transcription factor [Arabidopsis... [ score 116 E 9e-26 ] [ range 13 .. 67 ]
+sequence
+----LKKGPWTPEEDQKLIDYINIHGYGNWRTLPKNAG--QRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|7438328|pir||T03828 myb protein - rice >gi|1946267|emb|CAA722... [ score 116 E 2e-25 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDEKLIAYIKEHGQGNWRTLPKNAG--SRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|180656|gb|AAA52030.1| c-myb protein [ score 116 E 2e-25 ] [ range 1 .. 44 ] [ duplicate b ]
+sequence
+-------------EDEKLKKLVEQNGTDDWKVIANYLP--NRTDVQCQHRWQKVLNPEL--*
+>P1;gi|41619410|gb|AAS10096.1| MYB transcription factor [Arabidopsis... [ score 116 E 2e-25 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTQEEDDKLIDHIQKHGHGSWRALPKQAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|15234385|ref|NP_194540.1| myb family transcription factor (MY... [ score 115 E 2e-25 ] [ range 13 .. 66 ]
+sequence
+-----KKGPWTAEEDQKLIDYIRFHGPGNWRTLPKNAG--HRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|15233021|ref|NP_186944.1| myb family transcription factor (MY... [ score 115 E 2e-25 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQKLINHIRKHGHGSWRALPKQAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|30024598|dbj|BAC75671.1| transcription factor MYB101 [Lotus c... [ score 115 E 2e-25 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDAILVDYIQKHGHGSWRALPKLAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|5139806|dbj|BAA81732.1| GmMYB29A2 [Glycine max] [ score 115 E 2e-25 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQILMSYIQKHGHGNWRALPKLAG--LRCGKSCRLRWINYLRPDIK-*
+>P1;gi|22795039|gb|AAN05422.1| putative MYB transcription factor [Po... [ score 115 E 3e-25 ] [ range 12 .. 66 ]
+sequence
+----LKRGPWTPDEDQKLIGYIQKHGYGNWRTLPKNAE--QRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|6552359|dbj|BAA88221.1| myb-related transcription factor LBM1... [ score 115 E 4e-25 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQILVSYIQTNGHGNWRALPKLAG--LRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|15239578|ref|NP_200234.1| myb family transcription factor (MY... [ score 114 E 6e-25 ] [ range 13 .. 66 ]
+sequence
+-----KKGPWTPEEDEKLVGYIQTHGPGKWRTLPKNAG--KRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|31980091|emb|CAD98760.1| MYB transcription factor R3 type [Po... [ score 114 E 6e-25 ] [ range 110 .. 163 ]
+sequence
+----LVKGPWTQEEDDKIVELVAKYGPTKWSVIAKALP--GRIGKQCRERWHNHLNPDIK-*
+>P1;gi|16326135|dbj|BAB70511.1| Myb [Nicotiana tabacum] [ score 114 E 7e-25 ] [ range 86 .. 138 ]
+sequence
+----LVKGPWSKEEDEVIVELVKKYGPKKWSTIAQHLP--GRIGKQCRERWHNHLNPGI--*
+>P1;gi|282964|pir||S26605 myb-related protein 1 - garden petunia >gi... [ score 114 E 7e-25 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQKLLAYIEEHGHGSWRALPAKAG--QRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|2072499|gb|AAC47807.1| myb-related transcription factor [Stro... [ score 113 E 8e-25 ] [ range 91 .. 144 ] [ duplicate a ]
+sequence
+----LVKGPWTTEEDERVVELVREHGPKRWSLISKFLV--GRTGKQCRERWHNHLNPDIK-*
+>P1;gi|1709197|sp|Q05935|MYBA_XENLA Myb-related protein A (A-Myb) (X... [ score 113 E 9e-25 ] [ range 84 .. 137 ] [ duplicate a ]
+sequence
+----LVKGPWTKEEDQRVIELVHKYGPKKWSIIAKHLK--GRIGKQCRERWHNHLNPDVK-*
+>P1;gi|1709197|sp|Q05935|MYBA_XENLA Myb-related protein A (A-Myb) (X... [ score 113 E 9e-25 ] [ range 25 .. 84 ] [ duplicate b ]
+sequence
+----LQKGPWTKDEDDKVKKLVEKHGE-DWGVVARHFI--NRSEVQCQHRWHKVLSPEL--*
+>P1;gi|282963|pir||S26604 myb-related protein Ph2 - garden petunia >... [ score 113 E 1e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQILVSYIEKNGHGNWRALPKLAG--LRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|42408185|dbj|BAD09322.1| putative transcription factor Myb pr... [ score 113 E 1e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDEKLLHYIQKNGHGSWRTLPRLAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|18416582|ref|NP_568249.1| myb family transcription factor (MY... [ score 113 E 1e-24 ] [ range 79 .. 131 ]
+sequence
+----LVKGPWTKEEDEMIVQLIEKYGPKKWSTIARFLP--GRIGKQCRERWHNHLNPAI--*
+>P1;gi|15238370|ref|NP_201326.1| myb family transcription factor (MY... [ score 113 E 1e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWLPEEDDKLINYIHKHGHSSWSALPKLAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|38344966|emb|CAD40986.2| OSJNBa0072F16.11 [Oryza sativa (japo... [ score 113 E 1e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQKLLAYIEQHGHGCWRSLPSKAG--QRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|7428543|pir||QOYV transforming protein myb - avian myeloblast... [ score 113 E 2e-24 ] [ range 25 .. 78 ]
+sequence
+----LNKGPWTKEEDQRVIEHVQKYGPKRWSDIAKHLK--GRIGKQCRERWHNHLNPEVK-*
+>P1;gi|30575840|gb|AAP32921.1| MYB1 [Boea crassifolia] [ score 112 E 2e-24 ] [ range 13 .. 68 ]
+sequence
+---LMKKGPWSQEEDQKLLDYIQKYGYGNWRTLPTNAG--QRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|6492385|dbj|BAA81733.2| GmMYB29A2 [Glycine max] [ score 112 E 2e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWAPEEDQILTSYIDKHGHGNWRALPKQAG--LRCGKSCRLRWINYLRPDIK-*
+>P1;gi|6552361|dbj|BAA88222.1| myb-related transcription factor LBM2... [ score 112 E 3e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQILISFIQQNGHGNWRALPKQAG--LRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|5139814|dbj|BAA81736.1| GmMYB29B2 [Glycine max] [ score 112 E 3e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWATEEDQILTSYIQKHGHGNWRALPKQAG--LRCGKSCRLRWINYLRPDIK-*
+>P1;gi|34901838|ref|NP_912265.1| putative myb-related protein [Oryza... [ score 111 E 3e-24 ] [ range 12 .. 65 ]
+sequence
+-----KRGLWSPEEDEKLVRYISEHGHSCWSSVPKHAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|33087073|gb|AAP92750.1| myb-related protein [Oryza sativa (ja... [ score 111 E 3e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDKVLVAHIQRHGHGNWRALPKQAG--LRCGKSCRLRWINYLRPDIK-*
+>P1;gi|4886264|emb|CAB43399.1| Myb-related transcription factor mixt... [ score 111 E 4e-24 ] [ range 12 .. 66 ]
+sequence
+----LKRGPWTPEEDQKLLSYIQEHGHGSWRALPSKAG--QRCGKSCRLRWSNYLRPDIK-*
+>P1;gi|14334582|gb|AAK59470.1| putative MYB family transcription fac... [ score 111 E 4e-24 ] [ range 128 .. 180 ]
+sequence
+----LIKGPWTHEEDEKIVELVEKYGPAKWSIIAQSLP--GRIGKQCRERWHNHLNPDI--*
+>P1;gi|15242272|ref|NP_197035.1| myb family transcription factor [Ar... [ score 111 E 5e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQKLLAYIEEHGHGSWRSLPEKAG--HRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|8745321|gb|AAF78887.1| putative c-myb-like transcription fact... [ score 111 E 6e-24 ] [ range 82 .. 135 ] [ duplicate a ]
+sequence
+----LVKGAWTKEEDDRIMELVNKYGAKKWSVIAQNLP--GRIGKQCRERWHNHLNPSIK-*
+>P1;gi|28628947|gb|AAO49410.1| MYB1 [Dendrobium sp. XMW-2002-1] [ score 111 E 6e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQKLLAYIEKHGHGSWRALPNKAG--QRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|18413894|ref|NP_568099.1| myb family transcription factor (MY... [ score 110 E 7e-24 ] [ range 125 .. 178 ]
+sequence
+----LVKGPWTQEEDDKIVELVKKYGPAKWSVIAKSLP--GRIGKQCRERWHNHLNPGIR-*
+>P1;gi|22266675|dbj|BAC07544.1| myb-related transcription factor VlM... [ score 110 E 7e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTTQEDQILTAYVLQHGHGNWRALPKQAG--LRCGKSCRLRWINYLRPDIK-*
+>P1;gi|13346188|gb|AAK19616.1| GHMYB25 [Gossypium hirsutum] [ score 110 E 7e-24 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDQKLLAYIEQHGHGSWRALPKAGL--QRCGKSCRLRWINYLRPDIK-*
+>P1;gi|479393|pir||S33643 transforming protein B-myb - African clawe... [ score 110 E 8e-24 ] [ range 81 .. 134 ] [ duplicate a ]
+sequence
+----LVKGPWTKEEDEKVIELVKKYGTKHWTLIAKQLR--GRMGKQCRERWHNHLNPEVK-*
+>P1;gi|479393|pir||S33643 transforming protein B-myb - African clawe... [ score 110 E 8e-24 ] [ range 30 .. 81 ] [ duplicate b ]
+sequence
+-----VKVKWTPEEDETLKALVKKHGQGEWKTIASNLN--NRTEQQCQHRWLRVLHPDL--*
+>P1;gi|7230673|gb|AAF43043.1| putative Myb-related domain [Papaver r... [ score 110 E 1e-23 ] [ range 139 .. 192 ]
+sequence
+----LVKGPWTLEEDDKIMELVSKYGPSKWSLIAKELP--GRIGKQCRERWHNHLNPEIK-*
+>P1;gi|15223612|ref|NP_176068.1| myb family transcription factor (MY... [ score 110 E 1e-23 ] [ range 12 .. 66 ]
+sequence
+----LRKGLWSPEEDEKLLNYITKHGHGCWSSVPKLAG--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|42573243|ref|NP_974718.1| myb family transcription factor [Ar... [ score 109 E 1e-23 ] [ range 85 .. 137 ]
+sequence
+----LVKGPWSKEEDNTIIDLVEKYGPKKWSTISQHLP--GRIGKQCRERWHNHLNPGI--*
+>P1;gi|34897900|ref|NP_910296.1| EST AU082058(C12976) corresponds to... [ score 109 E 1e-23 ] [ range 14 .. 67 ]
+sequence
+-----KKGPWTPEEDKLLVEYIGKNGHGSWRRLPKLAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|34902542|ref|NP_912617.1| putative transcription factor (myb)... [ score 109 E 1e-23 ] [ range 12 .. 66 ]
+sequence
+----LRKGLWSPEEDEKLMNHITKHGHGCWSTVPKLAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|30024602|dbj|BAC75673.1| transcription factor MYB103 [Lotus c... [ score 109 E 1e-23 ] [ range 12 .. 66 ]
+sequence
+----MKKGPWSQEEDKVLVDYIQKHGHGSWRALPQLAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|16326133|dbj|BAB70510.1| Myb [Nicotiana tabacum] [ score 109 E 1e-23 ] [ range 84 .. 136 ]
+sequence
+----LVKGSWTKEEDDKLIELVNRYGPKKWSTIAQELA--GRIGKQCRERWHNHLNPAI--*
+>P1;gi|2280530|dbj|BAA21619.1| ATMYB4 [Arabidopsis thaliana] [ score 109 E 2e-23 ] [ range 12 .. 66 ]
+sequence
+----LRKGLWSPEEDEKLLNYITRHGHGCWSSVPKLAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|7438331|pir||T03827 myb protein homolog - rice >gi|1945281|em... [ score 109 E 2e-23 ] [ range 12 .. 66 ]
+sequence
+----IKKGPWTPEEDIILVSYIQEHGPGNWRSVPINTG--MRCSKSCRLRWTNYLRPGIK-*
+>P1;gi|15233066|ref|NP_191684.1| myb family transcription factor (MY... [ score 109 E 2e-23 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPEEDEVLVAHIKKNGHGSWRTLPKLAG--LRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|21615545|emb|CAD36016.1| c-myb like protein [Sterkiella histr... [ score 109 E 2e-23 ] [ range 145 .. 196 ]
+sequence
+------KGPWTKEEDEILRQMVETHGPRNWSTIAAALP--GRIGKQCRERWHNHLDPNIK-*
+>P1;gi|15234013|ref|NP_193612.1| myb family transcription factor (MY... [ score 108 E 2e-23 ] [ range 215 .. 268 ] [ duplicate a ]
+sequence
+----LVKGQWTAEEDRVLIQLVEKYGLRKWSHIAQVLP--GRIGKQCRERWHNHLRPDIK-*
+>P1;gi|15234013|ref|NP_193612.1| myb family transcription factor (MY... [ score 108 E 2e-23 ] [ range 267 .. 310 ] [ duplicate b ]
+sequence
+----IKKETWSEEEDRVLIEFHKEIG-NKWAEIAKRLP--GRTENSIKNHW----------*
+>P1;gi|22331071|ref|NP_566467.2| myb family transcription factor (MY... [ score 108 E 2e-23 ] [ range 13 .. 75 ]
+sequence
+-----KRGLWSPEEDEKLINYINSYGHGCWSSVPKHAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|34904272|ref|NP_913483.1| myb-like protein [Oryza sativa (jap... [ score 108 E 3e-23 ] [ range 100 .. 152 ]
+sequence
+----LVKGPWSKEEDEIIVQMVNKLGPKKWSTIAQALP--GRIGKQCRERWYNHLNPGI--*
+>P1;gi|32489829|emb|CAE04573.1| OSJNBb0039L24.12 [Oryza sativa (japo... [ score 108 E 3e-23 ] [ range 11 .. 66 ]
+sequence
+---VLKKGPWTPDEDKLLVDYVQANGSGNWRLLPKLAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|15229407|ref|NP_188966.1| myb family transcription factor (MY... [ score 108 E 3e-23 ] [ range 12 .. 66 ]
+sequence
+----LKRGPWTPEEDQILVSFILNHGHSNWRALPKQAG--LRCGKSCRLRWMNYLKPDIK-*
+>P1;gi|282965|pir||S26606 myb-related protein 3 - garden petunia >gi... [ score 108 E 3e-23 ] [ range 27 .. 82 ]
+sequence
+---VLKKGPWTAAEDSILMEYVKKHGEGNWNAVQRNSG--MRCGKSCRLRWANHLRPNLK-*
+>P1;gi|15224628|ref|NP_180676.1| myb family transcription factor (MY... [ score 108 E 4e-23 ] [ range 13 .. 66 ]
+sequence
+-----KRGPWTPEEDQILINYIHLYGHSNWRALPKHAG--LRCGKSCRLRWINYLRPDIK-*
+>P1;gi|15240838|ref|NP_196386.1| myb family transcription factor (MY... [ score 108 E 4e-23 ] [ range 12 .. 66 ]
+sequence
+----LKKGAWTAEEDKKLISYIHEHGEGGWRDIPQKAG--KRCGKSCRLRWANYLKPDIK-*
+>P1;gi|16326137|dbj|BAB70512.1| Myb [Nicotiana tabacum] [ score 108 E 4e-23 ] [ range 104 .. 157 ]
+sequence
+----LVKGPWSKEEDDLIVELVEKYGCKKWSFIAKSMP--GRIGKQCRERWHNHLDPTIK-*
+>P1;gi|25294104|pir||A86229 hypothetical protein [imported] - Arabid... [ score 108 E 5e-23 ] [ range 12 .. 66 ]
+sequence
+----LRKGLWSPEEDEKLLTHITNHGHGCWSSVPKLAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|45357116|gb|AAS58517.1| MYB transcription factor [Arabidopsis... [ score 108 E 5e-23 ] [ range 187 .. 240 ] [ duplicate a ]
+sequence
+----IIKGQWTPEEDKLLVQLVDLHGTKKWSQIAKMLQ--GRVGKQCRERWHNHLRPDIK-*
+>P1;gi|9954112|gb|AAG08959.1| tuber-specific and sucrose-responsive ... [ score 108 E 5e-23 ] [ range 4 .. 56 ]
+sequence
+-----VKGPWSPEEDELLQQLVQKHGPRNWSLISKSIP--GRSGKSCRLRWCNQLSPQVE-*
+>P1;gi|82307|pir||JQ0956 myb-related protein 306 - garden snapdragon... [ score 107 E 6e-23 ] [ range 13 .. 66 ]
+sequence
+-----KKGPWTPEEDIILVSYIQEHGPGNWRAIPSNTG--LRCSKSCRLRWTNYLRPGIK-*
+>P1;gi|39725413|emb|CAE09057.1| MYB transcription factor [Eucalyptus... [ score 107 E 6e-23 ] [ range 20 .. 74 ]
+sequence
+----LRKGLWSPEEDEKLMRYMLTNGQGCWSDIARNAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|34910458|ref|NP_916576.1| putative transcription factor [Oryz... [ score 107 E 8e-23 ] [ range 13 .. 66 ]
+sequence
+-----RRGLWSPEEDEKLVKYISTHGHGCWSSVPRLAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|34900330|ref|NP_911511.1| P0592C06.14 [Oryza sativa (japonica... [ score 107 E 8e-23 ] [ range 106 .. 159 ] [ duplicate a ]
+sequence
+----LVKGGWTREEDEVLRQMVRHHGDRKWAEIAKSLP--GRVGKQCRERWTNHLHPDIK-*
+>P1;gi|34147926|gb|AAQ62541.1| R2R3-MYB transcription factor [Pinus ... [ score 106 E 9e-23 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTAEEDRKLVNFITLHGHGCWREVPKLAG--LRCGKSCRLRWTNYLRPDLK-*
+>P1;gi|15221803|ref|NP_173292.1| myb family transcription factor (MY... [ score 106 E 1e-22 ] [ range 13 .. 67 ]
+sequence
+----LKKGAWTPEEDQKLLSYLNRHGEGGWRTLPEKAG--KRCGKSCRLRWANYLRPDIK-*
+>P1;gi|28927688|gb|AAO62334.1| putative Myb-like DNA-binding protein... [ score 106 E 1e-22 ] [ range 12 .. 66 ]
+sequence
+----LRRGLWSPEEDEKLMNHIAKYGHGCWSSVPKLAG--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|11066265|gb|AAG28526.1| anther-specific myb-related protein 1... [ score 106 E 1e-22 ] [ range 19 .. 74 ]
+sequence
+---VLKKGPWTATEDAILMEYVKKNGEGNWNAVQRNSG--MRCGKSCRLRWANHLRPNLK-*
+>P1;gi|18087349|gb|AAL58845.1| putative transcription factor MYB101 ... [ score 106 E 1e-22 ] [ range 18 .. 72 ]
+sequence
+----LKKGPWTTTEDAILTEYVRKHGEGNWNAVQKNSG--LRCGKSCRLRWANHLRPNLK-*
+>P1;gi|18423700|ref|NP_568819.1| myb family transcription factor (MY... [ score 106 E 1e-22 ] [ range 25 .. 80 ]
+sequence
+---ILKKGPWTAAEDEILAAYVRENGEGNWNAVQKNTG--LRCGKSCRLRWANHLRPNLK-*
+>P1;gi|7438352|pir||T02006 transcription factor MYB4 homolog T15B16.... [ score 106 E 1e-22 ] [ range 12 .. 78 ]
+sequence
+----LRKGLWSPEEDEKLLRYITKYGHGCWSSVPKQAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|34147924|gb|AAQ62540.1| R2R3-MYB transcription factor [Pinus ... [ score 106 E 1e-22 ] [ range 17 .. 71 ]
+sequence
+----LRKGLWSPEEDDKLINYMMKNGQGCWSDVAKQAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|15239466|ref|NP_200897.1| receptor-like protein kinase (ATR1)... [ score 106 E 1e-22 ] [ range 12 .. 66 ]
+sequence
+----IKKGAWTPEEDQKLIAYLHLHGEGGWRTLPEKAG--KRCGKSCRLRWANYLRPDIK-*
+>P1;gi|15229748|ref|NP_187751.1| myb family transcription factor (MY... [ score 106 E 1e-22 ] [ range 40 .. 95 ]
+sequence
+---VLKKGPWTSTEDGILIDYVKKHGEGNWNAVQKHTL--ARCGKSCRLRWANHLRPNLK-*
+>P1;gi|15240251|ref|NP_200950.1| myb family transcription factor (MY... [ score 106 E 1e-22 ] [ range 12 .. 66 ]
+sequence
+----LKKGAWTTEEDKKLISYIHDHGEGGWRDIPQKAG--KRCGKSCRLRWTNYLKPEIK-*
+>P1;gi|15221129|ref|NP_177548.1| myb family transcription factor (MY... [ score 106 E 1e-22 ] [ range 12 .. 66 ]
+sequence
+----LKKGAWTQEEDQKLIAYVQRHGEGGWRTLPDKAG--KRCGKSCRLRWANYLRPDIK-*
+>P1;gi|15233006|ref|NP_189488.1| myb family transcription factor (MY... [ score 106 E 2e-22 ] [ range 13 .. 66 ]
+sequence
+-----KKGLWTEEEDAKILAYVAIHGVGNWSLIPKKAG--NRCGKSCRLRWTNYLRPDLK-*
+>P1;gi|41619320|gb|AAS10075.1| MYB transcription factor [Arabidopsis... [ score 106 E 2e-22 ] [ range 11 .. 66 ]
+sequence
+---MVKKGPWTAEEDKKLINFILTNGHCCWRALPKLAG--RRCGKSCRLRWTNYLRPDLK-*
+>P1;gi|18424163|ref|NP_568891.1| myb family transcription factor (MY... [ score 106 E 2e-22 ] [ range 103 .. 156 ]
+sequence
+----LIKGQWTAEEDRKLIRLVRQHGERKWAMISEKLE--GRAGKQCRERWHNHLRPDIK-*
+>P1;gi|15229664|ref|NP_190575.1| myb family transcription factor [Ar... [ score 105 E 2e-22 ] [ range 5 .. 57 ]
+sequence
+-----VKGPWSQEEDEQLRRMVEKYGPRNWSAISKSIP--GRSGKSCRLRWCNQLSPEVE-*
+>P1;gi|33320067|gb|AAQ05796.1| transcription factor Myb [Capsicum an... [ score 105 E 2e-22 ] [ range 12 .. 65 ]
+sequence
+-----KRGLWSPEEDEKLIKHITTHGHSCWSSVPKLAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|15239926|ref|NP_196228.1| myb family transcription factor (MY... [ score 105 E 2e-22 ] [ range 32 .. 86 ]
+sequence
+----LKKGPWSSAEDDILIDYVNKHGEGNWNAVQKHTS--LRCGKSCRLRWANHLRPNLK-*
+>P1;gi|2129932|pir||S69190 myb-related protein 1 - tomato >gi|116748... [ score 105 E 2e-22 ] [ range 13 .. 66 ]
+sequence
+-----KRGLWSPEEDEKLIRYITSHGYGCWSEVPEKAG--QRCGKSCRLRWINYLRPDIR-*
+>P1;gi|23476279|gb|AAN28270.1| myb-like transcription factor 1 [Goss... [ score 105 E 3e-22 ] [ range 13 .. 66 ]
+sequence
+-----NKGAWTKEEDQRLINYIRVHGEGCWRSLPKAAG--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|5823311|gb|AAD53094.1| putative transcription factor [Arabido... [ score 105 E 3e-22 ] [ range 14 .. 67 ]
+sequence
+-----KKGPWLPEEDDKLTAYINENGYGNWRSLPKLAG--NRCGKSCRLRWMNYLRPDIR-*
+>P1;gi|7438329|pir||T07398 myb-related transcription factor THM6 - t... [ score 105 E 3e-22 ] [ range 13 .. 66 ]
+sequence
+-----KKGPWTPEEDIMLVSYVQQHGPGNWRALPTKTG--RRCSKSCRLRWTNYLRPGIK-*
+>P1;gi|34913750|ref|NP_918222.1| OSJNBa0051H17.23 [Oryza sativa (jap... [ score 104 E 4e-22 ] [ range 15 .. 69 ]
+sequence
+----LRRGLWSPEEDEKLFNHISRYGVGCWSSVPKLAG--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|629737|pir||S45338 myb-related protein MIXTA - garden snapdra... [ score 104 E 4e-22 ] [ range 13 .. 66 ]
+sequence
+-----KKGPWTVDEDQKLLAYIEEHGHGSWRSLPKAGL--QRCGKSCRLRWANYLRPDIK-*
+>P1;gi|38347068|emb|CAE05473.2| OSJNBa0006A01.9 [Oryza sativa (japon... [ score 104 E 4e-22 ] [ range 14 .. 68 ]
+sequence
+----LNKGSWTPEEDMRLVAYIQKYGHANWRALPKQAG--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|7438333|pir||T07395 myb-related transcription factor THM18 - ... [ score 104 E 4e-22 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWTPQEDNILISYIQNNGHSNWRALPKLAG--LRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|15235484|ref|NP_195443.1| myb family transcription factor (MY... [ score 104 E 5e-22 ] [ range 12 .. 64 ]
+sequence
+-----IKGPWSPEEDDLLQRLVQKHGPRNWSLISKSIP--GRSGKSCRLRWCNQLSPEVE-*
+>P1;gi|11358548|pir||T51667 myb-related transcription factor MYB60 [... [ score 104 E 5e-22 ] [ range 12 .. 66 ]
+sequence
+----IKKGPWTPEEDIILVSYIQEHGPGNWRSVPTNTG--LRCSKSCRLRWTNYLRPGIK-*
+>P1;gi|28628949|gb|AAO49411.1| MYB2 [Dendrobium sp. XMW-2002-2] [ score 104 E 5e-22 ] [ range 12 .. 66 ]
+sequence
+----LRKGLWSPEEDEKLLKHITKYGHGCWSSVPKLAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|34911526|ref|NP_917110.1| putative myb-related protein [Oryza... [ score 104 E 5e-22 ] [ range 15 .. 70 ]
+sequence
+----LRKGLWSPEEDEKLYNHIYRYGVGCWSSVPKLAG--QRCGKSCRLRWINYLRPDLK-*
+>P1;gi|25403442|pir||D86476 protein F15O4.43 [imported] - Arabidopsi... [ score 104 E 6e-22 ] [ range 12 .. 71 ]
+sequence
+----MNKGAWTKEEDQRLIDYIRNHGEGSWRSLPKSVG--KRCGKSCRLRWINYLRPDLK-*
+>P1;gi|127580|sp|P20024|MYB1_MAIZE Myb-related protein Zm1 >gi|82729... [ score 104 E 6e-22 ] [ range 14 .. 68 ]
+sequence
+----LNRGSWTPQEDMRLIAYIQKHGHTNWRALPKQAG--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|42541177|gb|AAS19480.1| MYB6 [Tradescantia fluminensis] [ score 104 E 6e-22 ] [ range 13 .. 66 ]
+sequence
+-----NKGAWTKEEDQRLIAYIKVHGEGCWRSLPKAAG--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|27529846|dbj|BAC53938.1| Myb-like protein [Nicotiana tabacum] [ score 104 E 6e-22 ] [ range 13 .. 65 ]
+sequence
+-----IKGPWSPEEDELLQSLVEKHGPRNWSLISKSVP--GRSGKSCRLRWCNQLSPQVE-*
+>P1;gi|38344747|emb|CAE03051.2| OSJNBa0089K21.5 [Oryza sativa (japon... [ score 104 E 7e-22 ] [ range 13 .. 66 ]
+sequence
+-----KRGQWTPEEDNKLLSYITQYGTRNWRLIPKNAG--QRCGKSCRLRWTNYLRPDLK-*
+>P1;gi|2129775|pir||S58283 myb-related protein Y13 - Arabidopsis tha... [ score 104 E 7e-22 ] [ range 13 .. 66 ]
+sequence
+-----KKGPWTPEEDIILVSYIQQHGPGNWRSVPANTG--LRCSKSCRLRWTNYLRPGIK-*
+>P1;gi|29824962|gb|AAO92352.1| putative flavonoid/anthocyanin regula... [ score 104 E 7e-22 ] [ range 25 .. 79 ]
+sequence
+----LNKGPWTAEEDQKLVEYVDAHGDRKWTSLPTKAG--NRCGKSCRLRWLNYLRPGIK-*
+>P1;gi|42408890|dbj|BAD10148.1| putative typical P-type R2R3 Myb pro... [ score 104 E 7e-22 ] [ range 13 .. 66 ]
+sequence
+-----KKGPWTPEEDLMLVAYVQEHGPGNWRAVPTNTG--MRCSKSCRLRWTNYLRPGIK-*
+>P1;gi|2129646|pir||S71283 myb-related protein, 28K, leaf-specific -... [ score 104 E 7e-22 ] [ range 12 .. 66 ]
+sequence
+----LKKGPWSAEEDRILINYISLHGHPNWRALPKLAG--LRCGKSCRLRWINYLRPDIK-*
+>P1;gi|34907282|ref|NP_914988.1| putative myb-related protein [Oryza... [ score 103 E 8e-22 ] [ range 13 .. 66 ]
+sequence
+-----NKGAWTKEEDQRLIAYIKAHGEGCWRSLPKAAG--LRCGKSCRLRWMNYLRPDLK-*
+>P1;gi|7677136|gb|AAF67052.1| c-myb-like transcription factor [Adian... [ score 103 E 1e-21 ] [ range 23 .. 76 ] [ duplicate a ]
+sequence
+----LVKGPWTKEEDEKIAELVNKNGPKKWSVVARSLP--GRIGKQCRERWHNHLDPHIK-*
+>P1;gi|7677136|gb|AAF67052.1| c-myb-like transcription factor [Adian... [ score 103 E 1e-21 ] [ range 75 .. 127 ] [ duplicate b ]
+sequence
+----IKKDAWTPEEEQALIEAHQRNG-NKWAEIAKSLP--GRTDNAIKNHWNSSLKKKLE-*
+>P1;gi|15236911|ref|NP_194423.1| myb family transcription factor (MY... [ score 103 E 1e-21 ] [ range 18 .. 73 ]
+sequence
+---VLKKGPWTVAEDETLAAYVREYGEGNWNSVQKKWL--ARCGKSCRLRWANHLRPNLR-*
+>P1;gi|19072734|gb|AAL84612.1| typical P-type R2R3 Myb protein [Zea ... [ score 103 E 1e-21 ] [ range 14 .. 67 ]
+sequence
+-----KKGPWTPEEDKLLVDYINEHGHGSWRRLPKLAG--NRCGKSCRLRWTNYLRPDIK-*
+>P1;gi|34900756|ref|NP_911724.1| OJ1341_A08.36 [Oryza sativa (japoni... [ score 103 E 1e-21 ] [ range 92 .. 145 ] [ duplicate a ]
+sequence
+----LIKGGWTREEDEVLRQMVRHHGDRKWAEIAKSLP--GRIGKQCRERWTNHLHPDIK-*
+>P1;gi|34913210|ref|NP_917952.1| contains EST C28158(C60218)~myb-lik... [ score 103 E 1e-21 ] [ range 13 .. 66 ]
+sequence
+-----KKGPWTPEEDLVLVSYVQEHGPGNWRAVPTRTG--MRCSKSCRLRWTNYLRPGIK-*
+>P1;gi|7446180|pir||T02989 myb-related protein 5 - rice >gi|2605625|... [ score 103 E 1e-21 ] [ range 40 .. 95 ]
+sequence
+---LLKKGPWTSWEDSILEKYIKKHGERNWKLVQKNTG--LRCGKSCRLRWMNHLRPNLK-*
+>P1;gi|15238940|ref|NP_196666.1| myb family transcription factor [Ar... [ score 103 E 1e-21 ] [ range 103 .. 156 ]
+sequence
+----IIKGQWTADEDRKLIKLVMQHGERKWAVISEKLE--GRAGKQCRERWHNHLRPDIK-*
+>P1;gi|37535390|ref|NP_921997.1| putative myb factor [Oryza sativa (... [ score 103 E 1e-21 ] [ range 12 .. 66 ]
+sequence
+----LRRGAWSPEEDDRLVAYIRRHGHPNWRALPKQAG--LRCGKSCRLRWINYLRPDIK-*
+>P1;gi|34911254|ref|NP_916974.1| putative Myb-related transcription ... [ score 103 E 1e-21 ] [ range 13 .. 67 ]
+sequence
+-----KRGPWSPEEDELLRSYVRSHGTGNWIALPQKAG--NRCGKSCRLRWLNYLRPDIK-*
+>P1;gi|15233968|ref|NP_195574.1| myb family transcription factor (MY... [ score 103 E 2e-21 ] [ range 13 .. 66 ]
+sequence
+-----NKGAWTKEEDERLVAYIKAHGEGCWRSLPKAAG--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|15228529|ref|NP_189533.1| myb family transcription factor (MY... [ score 103 E 2e-21 ] [ range 13 .. 66 ]
+sequence
+-----KKGPWTPEEDIILVTYIQEHGPGNWRAVPTNTG--LRCSKSCRLRWTNYLRPGIK-*
+>P1;gi|2129648|pir||S71284 myb-related protein, 33.3K - Arabidopsis ... [ score 102 E 2e-21 ] [ range 5 .. 57 ]
+sequence
+-----IKGPWSPEEDEQLRRLVVKYGPRNWTVISKSIP--GRSGKSCRLRWCNQLSPQVE-*
+>P1;gi|8745325|gb|AAF78889.1| putative c-myb-like transcription fact... [ score 102 E 2e-21 ] [ range 23 .. 75 ]
+sequence
+----LIKGPWSKEEDDIIVEMVKKYGPKKWSTIAQALP--GRIGKQCRERWHNHLNPGI--*
+>P1;gi|42541169|gb|AAS19476.1| MYB2 [Tradescantia fluminensis] [ score 102 E 2e-21 ] [ range 13 .. 66 ]
+sequence
+-----NKGAWTKEEDQRLIAHIKAHGEGCWRSLPKAAG--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|2129933|pir||S69189 myb-related protein TMH27 - tomato >gi|11... [ score 102 E 2e-21 ] [ range 13 .. 66 ]
+sequence
+-----NKGAWTKEEDERLISYIRAHGEGCWRSLPKAAG--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|23476311|gb|AAN28286.1| myb-like transcription factor 6 [Goss... [ score 102 E 2e-21 ] [ range 12 .. 65 ]
+sequence
+-----NKGAWSKQEDQKLIDYIRIHGEGCWRSLPKAAG--HRCGKSCRLRWINYLRPDIK-*
+>P1;gi|45357090|gb|AAS58504.1| MYB transcription factor [Arabidopsis... [ score 102 E 2e-21 ] [ range 30 .. 84 ]
+sequence
+----LRKGLWSPDEDEKLIRYMLTNGQGCWSDIARNAP--LRCGKSCRLRWINYLRPDLK-*
+>P1;gi|16326135|dbj|BAB70511.1| Myb [Nicotiana tabacum] [ score 114 E 6e-25 ] [ range 136 .. 182 ] [ duplicate b ]
+sequence
+--PGINKEAWTQEEELTLIRAHQIYGNK-WAELTKYLP--GRTDNAIKNHWN---------*
+>P1;gi|45382545|ref|NP_990563.1| v-myb myeloblastosis viral oncogene... [ score 113 E 1e-24 ] [ range 83 .. 135 ]
+sequence
+--PELIKGPWTKEEDQRVIELVQKYGPKRWSLIAKHLK--GRIGKQCRERWHNHL----NP*
+>P1;gi|18416582|ref|NP_568249.1| myb family transcription factor (MY... [ score 113 E 2e-24 ] [ range 129 .. 175 ] [ duplicate b ]
+sequence
+--PAINKEAWTQEEELLLIRAHQIYG-NRWAELTKFLP--GRSDNGIKNHWH---------*
+>P1;gi|28686|emb|CAA31656.1| unnamed protein product [Homo sapiens] [ score 111 E 3e-24 ] [ range 135 .. 185 ] [ duplicate b ]
+sequence
+--PEVKKSSWTEEEDRIIYEAHKRLG-NRWAEIAKLLP--GRTDNSIKNHWNSTM----R-*
+>P1;gi|16326133|dbj|BAB70510.1| Myb [Nicotiana tabacum] [ score 111 E 4e-24 ] [ range 134 .. 180 ] [ duplicate b ]
+sequence
+--PAINKEPWTQEEELTLIRAHQVYGNK-WAELAKVLH--GRSDNAIKNHWH---------*
+>P1;gi|730090|sp|Q08759|MYB_XENLA Myb protein >gi|2118431|pir||I5158... [ score 110 E 7e-24 ] [ range 137 .. 187 ] [ duplicate b ]
+sequence
+--PEVKKSSWTEEEDRTIYEAHKRLG-NRWAEIAKLLP--GRTDNAIKNHWNSTM----R-*
+>P1;gi|42573243|ref|NP_974718.1| myb family transcription factor [Ar... [ score 109 E 2e-23 ] [ range 135 .. 181 ] [ duplicate b ]
+sequence
+--PGINKNAWTQEEELTLIRAHQIYGNK-WAELMKFLP--GRSDNSIKNHWN---------*
+>P1;gi|18398487|ref|NP_566350.1| myb family transcription factor (MY... [ score 108 E 4e-23 ] [ range 178 .. 228 ] [ duplicate b ]
+sequence
+--PDINKDAWTTEEEVALMNAHRSHGNK-WAEIAKVLP--GRTDNAIKNHWNSSL----K-*
+>P1;gi|7230673|gb|AAF43043.1| putative Myb-related domain [Papaver r... [ score 107 E 7e-23 ] [ range 189 .. 239 ] [ duplicate b ]
+sequence
+--PEIKRDAWTVEEEVALMNAHRLYGNK-WAEIAKVLP--GRTDNAIKNLWNSSL----K-*
+>P1;gi|7428545|pir||S58293 myb-related protein M4 - Arabidopsis thal... [ score 107 E 8e-23 ] [ range 65 .. 115 ] [ duplicate b ]
+sequence
+--PDIKRGRFSFEEEETIIQLHSFLGNK-WSAIAARLP--GRTDNEIKNFWNTHI----R-*
+>P1;gi|8745321|gb|AAF78887.1| putative c-myb-like transcription fact... [ score 107 E 8e-23 ] [ range 132 .. 178 ] [ duplicate b ]
+sequence
+--PSIKREAWTQQEDLALIRAHQLYGNK-WAEIAKFLP--GRTDNSIKNHWN---------*
+>P1;gi|34909188|ref|NP_915941.1| myb-related transcription factor [O... [ score 106 E 1e-22 ] [ range 36 .. 91 ] [ duplicate a ]
+sequence
+GGPPLKKGPWTSAEDAILVDYVKKHGEGNWNAVQKNTG--LRCGKSCRLRWANHL----RP*
+>P1;gi|34909188|ref|NP_915941.1| myb-related transcription factor [O... [ score 106 E 1e-22 ] [ range 91 .. 141 ] [ duplicate b ]
+sequence
+--PNLKKGAFTAEEERLIIQLHSKMGNK-WARMAAHLP--GRTDNEIKNYWNTRI----K-*
+>P1;gi|9954112|gb|AAG08959.1| tuber-specific and sucrose-responsive ... [ score 105 E 4e-22 ] [ range 2 .. 53 ]
+sequence
+---DRVKGPWSPEEDELLQQLVQKHGPRNWSLISKSIP--GRSGKSCRLRWCNQL----SP*
+>P1;gi|34901838|ref|NP_912265.1| putative myb-related protein [Oryza... [ score 103 E 1e-21 ] [ range 11 .. 62 ]
+sequence
+----VKRGLWSPEEDEKLVRYISEHGHSCWSSVPKHAG--QRCGKSCRLRWINYL----RP*
+>P1;gi|15239578|ref|NP_200234.1| myb family transcription factor (MY... [ score 103 E 1e-21 ] [ range 11 .. 63 ]
+sequence
+---EVKKGPWTPEEDEKLVGYIQTHGPGKWRTLPKNAG--KRCGKSCRLRWTNYL----RP*
+>P1;gi|15234385|ref|NP_194540.1| myb family transcription factor (MY... [ score 102 E 2e-21 ] [ range 12 .. 63 ]
+sequence
+----VKKGPWTAEEDQKLIDYIRFHGPGNWRTLPKNAG--HRCGKSCRLRWTNYL----RP*
+>P1;gi|15229664|ref|NP_190575.1| myb family transcription factor [Ar... [ score 102 E 2e-21 ] [ range 1 .. 54 ]
+sequence
+-MADRVKGPWSQEEDEQLRRMVEKYGPRNWSAISKSIP--GRSGKSCRLRWCNQL----SP*
+>P1;gi|8745325|gb|AAF78889.1| putative c-myb-like transcription fact... [ score 101 E 3e-21 ] [ range 73 .. 119 ] [ duplicate b ]
+sequence
+--PGINKDAWTQEEEITLIHAHRMYGNK-WAELTKFLP--GKTDNSIKNHWN---------*
+>P1;gi|21615545|emb|CAD36016.1| c-myb like protein [Sterkiella histr... [ score 101 E 4e-21 ] [ range 145 .. 193 ] [ duplicate a ]
+sequence
+------KGPWTKEEDEILRQMVETHGPRNWSTIAAALP--GRIGKQCRERWHNHL----DP*
+>P1;gi|21615545|emb|CAD36016.1| c-myb like protein [Sterkiella histr... [ score 101 E 4e-21 ] [ range 193 .. 243 ] [ duplicate b ]
+sequence
+--PNIKKEKWSPEEDRIILKMHLEMG-NRWCEIAKLLP--GRTDNAIKNRFNSKL----K-*
+>P1;gi|282964|pir||S26605 myb-related protein 1 - garden petunia >gi... [ score 101 E 4e-21 ] [ range 12 .. 63 ]
+sequence
+----LKKGPWTPEEDQKLLAYIEEHGHGSWRALAKAGL--QRCGKSCRLRWTNYL----RP*
+>P1;gi|27529846|dbj|BAC53938.1| Myb-like protein [Nicotiana tabacum] [ score 101 E 5e-21 ] [ range 11 .. 62 ]
+sequence
+---DRIKGPWSPEEDELLQSLVEKHGPRNWSLISKSVP--GRSGKSCRLRWCNQL----SP*
+>P1;gi|34900330|ref|NP_911511.1| P0592C06.14 [Oryza sativa (japonica... [ score 100 E 7e-21 ] [ range 156 .. 202 ] [ duplicate b ]
+sequence
+--PDIKKDIWTEEEDRMLIEAHQTYG-NSWSAIAKQLP--GRSENTIKNHWN---------*
+>P1;gi|7677136|gb|AAF67052.1| c-myb-like transcription factor [Adian... [ score 100 E 7e-21 ] [ range 73 .. 123 ] [ duplicate b ]
+sequence
+--PHIKKDAWTPEEEQALIEAHQRNGNK-WAEIAKSLP--GRTDNAIKNHWNSSL----K-*
+>P1;gi|15234013|ref|NP_193612.1| myb family transcription factor (MY... [ score 100 E 8e-21 ] [ range 265 .. 311 ] [ duplicate b ]
+sequence
+--PDIKKETWSEEEDRVLIEFHKEIGNK-WAEIAKRLP--GRTENSIKNHWN---------*
+>P1;gi|21593586|gb|AAM65553.1| putative MYB family transcription fac... [ score 100 E 1e-20 ] [ range 10 .. 61 ]
+sequence
+---DRIKGPWSPEEDDLLQSLVQKHGPRNWSLISKSIP--GRSGKSCRLRWCNQL----SP*
+>P1;gi|34897900|ref|NP_910296.1| EST AU082058(C12976) corresponds to... [ score 100 E 1e-20 ] [ range 12 .. 64 ]
+sequence
+---DVKKGPWTPEEDKLLVEYIGKNGHGSWRRLPKLAG--NRCGKSCRLRWTNYL----RP*
+>P1;gi|22331071|ref|NP_566467.2| myb family transcription factor (MY... [ score 100 E 1e-20 ] [ range 12 .. 72 ] [ duplicate a ]
+sequence
+----VKRGLWSPEEDEKLINYINSYGHGCWSSVPKHAG--QRCGKSCRLRWINYL----RP*
+>P1;gi|30688925|ref|NP_189416.2| myb family transcription factor (MY... [ score 100 E 1e-20 ] [ range 237 .. 283 ] [ duplicate b ]
+sequence
+--PDIKKDGWTEEEDIILIKAHKEIG-NRWAEIARKLP--GRTENTIKNHWN---------*
+>P1;gi|30575840|gb|AAP32921.1| MYB1 [Boea crassifolia] [ score 100 E 2e-20 ] [ range 15 .. 65 ]
+sequence
+-----KKGPWSQEEDQKLLDYIQKYGYGNWRTLPTNAG--QRCGKSCRLRWTNYL----RP*
+>P1;gi|2129648|pir||S71284 myb-related protein, 33.3K - Arabidopsis ... [ score 100 E 2e-20 ] [ range 1 .. 54 ]
+sequence
+-MADRIKGPWSPEEDEQLRRLVVKYGPRNWTVISKSIP--GRSGKSCRLRWCNQL----SP*
+>P1;gi|15224628|ref|NP_180676.1| myb family transcription factor (MY... [ score 99 E 2e-20 ] [ range 12 .. 63 ] [ duplicate a ]
+sequence
+----VKRGPWTPEEDQILINYIHLYGHSNWRALPKHAG--LRCGKSCRLRWINYL----RP*
+>P1;gi|15224628|ref|NP_180676.1| myb family transcription factor (MY... [ score 99 E 2e-20 ] [ range 63 .. 113 ] [ duplicate b ]
+sequence
+--PDIKRGNFTPQEEQTIINLHESLG-NRWSAIAAKLP--GRTDNEIKNVWHTHL----K-*
+>P1;gi|15235484|ref|NP_195443.1| myb family transcription factor (MY... [ score 99 E 2e-20 ] [ range 10 .. 61 ]
+sequence
+---ERIKGPWSPEEDDLLQRLVQKHGPRNWSLISKSIP--GRSGKSCRLRWCNQL----SP*
+>P1;gi|27125807|emb|CAD44619.1| MYB27 protein [Oryza sativa (japonic... [ score 99 E 2e-20 ] [ range 12 .. 63 ]
+sequence
+----LKKGPWTPEEDQKLLAYIEEHGHGSWRALPSKAG--QRCGKSCRLRWTNYL----RP*
+>P1;gi|22266675|dbj|BAC07544.1| myb-related transcription factor VlM... [ score 99 E 3e-20 ] [ range 63 .. 113 ] [ duplicate b ]
+sequence
+--PDIKRGNFSREEEDTIIELHEKLGNK-WSAIAASLP--GRTDNEIKNVWHTHL----K-*
+>P1;gi|25456243|pir||T52590 probable transcription factor MYB96 [imp... [ score 98 E 3e-20 ] [ range 3 .. 54 ]
+sequence
+----VKKGPWTPEEDIILVSYIQEHGPGNWRSVPTHTG--RRCSKSCRLRWTNYL----RP*
+>P1;gi|68886|pir||TVFFMA transforming protein myb - fruit fly (Droso... [ score 98 E 4e-20 ] [ range 132 .. 184 ] [ duplicate a ]
+sequence
+--PELIKGPWTRDEDDMVIKLVRNFGPKKWTLIARYLN--GRIGKQCRERWHNHL----NP*
+>P1;gi|68886|pir||TVFFMA transforming protein myb - fruit fly (Droso... [ score 98 E 4e-20 ] [ range 184 .. 234 ] [ duplicate b ]
+sequence
+--PNIKKTAWTEKEDEIIYQAHLELG-NQWAKIAKRLP--GRTDNAIKNHWNSTM----R-*
+>P1;gi|15232609|ref|NP_187534.1| myb family transcription factor [Ar... [ score 98 E 5e-20 ] [ range 49 .. 103 ] [ duplicate a ]
+sequence
+GRRDRVKGPWSKEEDDVLSELVKRLGARNWSFIARSIP--GRSGKSCRLRWCNQL----NP*
+>P1;gi|15232609|ref|NP_187534.1| myb family transcription factor [Ar... [ score 98 E 5e-20 ] [ range 103 .. 153 ] [ duplicate b ]
+sequence
+--PNLIRNSFTEVEDQAIIAAHAIHGNK-WAVIAKLLP--GRTDNAIKNHWNSAL----R-*
+>P1;gi|18424163|ref|NP_568891.1| myb family transcription factor (MY... [ score 98 E 5e-20 ] [ range 153 .. 199 ] [ duplicate b ]
+sequence
+--PDIKKDGWSEEEERVLVESHMRIGNK-WAEIAKLIP--GRTENSIKNHWN---------*
+>P1;gi|30024602|dbj|BAC75673.1| transcription factor MYB103 [Lotus c... [ score 98 E 6e-20 ] [ range 13 .. 63 ]
+sequence
+-----KKGPWSQEEDKVLVDYIQKHGHGSWRALPQLAG--NRCGKSCRLRWTNYL----RP*
+>P1;gi|15233006|ref|NP_189488.1| myb family transcription factor (MY... [ score 98 E 6e-20 ] [ range 11 .. 63 ]
+sequence
+---NVKKGLWTEEEDAKILAYVAIHGVGNWSLIPKKAG--NRCGKSCRLRWTNYL----RP*
+>P1;gi|15225687|ref|NP_180805.1| myb family transcription factor (MY... [ score 98 E 6e-20 ] [ range 69 .. 115 ] [ duplicate b ]
+sequence
+--PNLKKGSFTPDEEKIIIDLHAKLGNK-WARMASQLP--GRTDNEIKNYWN---------*
+>P1;gi|1945385|gb|AAC53141.1| A-myb protein [Mus musculus] [ score 98 E 6e-20 ] [ range 1 .. 41 ] [ duplicate b ]
+sequence
+--------------DDKLKKLVEQHGTDDWTLIASHLQ--NRSDFQCQHRWQKVL----NP*
+>P1;gi|15239926|ref|NP_196228.1| myb family transcription factor (MY... [ score 98 E 7e-20 ] [ range 83 .. 133 ] [ duplicate b ]
+sequence
+--PNLKKGAFSQEEEQLIVELHAKMG-NRWARMAAHLP--GRTDNEIKNYWNTRI----K-*
+>P1;gi|28927688|gb|AAO62334.1| putative Myb-like DNA-binding protein... [ score 97 E 8e-20 ] [ range 63 .. 113 ] [ duplicate b ]
+sequence
+--PDLKRGTFSQEEEDLIIQLHSMLGNK-WSQIAAQLP--GRTDNEVKNFWNSYI----K-*
+>P1;gi|462671|sp|P34127|MYBH_DICDI Myb-like protein >gi|4467385|emb|... [ score 97 E 8e-20 ] [ range 197 .. 249 ] [ duplicate a ]
+sequence
+--PNLVKGAWTKDEDDKVIELVKTYGPKKWSDIALHLK--GRMGKQCRERWHNHL----NP*
+>P1;gi|462671|sp|P34127|MYBH_DICDI Myb-like protein >gi|4467385|emb|... [ score 97 E 8e-20 ] [ range 249 .. 295 ] [ duplicate b ]
+sequence
+--PNIKKEAWSDEEDQIIRDQHAIHGNK-WAEIAKFLP--GRTDNAIKNHWN---------*
+>P1;gi|15239466|ref|NP_200897.1| receptor-like protein kinase (ATR1)... [ score 97 E 8e-20 ] [ range 63 .. 113 ] [ duplicate b ]
+sequence
+--PDIKRGEFSPEEDDTIIKLHALKGNK-WAAIATSLA--GRTDNEIKNYWNTNL----K-*
+>P1;gi|15229748|ref|NP_187751.1| myb family transcription factor (MY... [ score 97 E 8e-20 ] [ range 92 .. 142 ] [ duplicate b ]
+sequence
+--PNLKKGAFSQEEEQLIVEMHAKMGNK-WAQMAEHLP--GRTDNEIKNYWNTRI----K-*
+>P1;gi|7438331|pir||T03827 myb protein homolog - rice >gi|1945281|em... [ score 97 E 8e-20 ] [ range 12 .. 63 ]
+sequence
+----IKKGPWTPEEDIILVSYIQEHGPGNWRSVPINTG--LRCSKSCRLRWTNYL----RP*
+>P1;gi|34910458|ref|NP_916576.1| putative transcription factor [Oryz... [ score 97 E 8e-20 ] [ range 12 .. 63 ]
+sequence
+----VRRGLWSPEEDEKLVKYISTHGHGCWSSVPRLAG--QRCGKSCRLRWINYL----RP*
+>P1;gi|282965|pir||S26606 myb-related protein 3 - garden petunia >gi... [ score 97 E 9e-20 ] [ range 28 .. 79 ] [ duplicate a ]
+sequence
+----LKKGPWTAAEDSILMEYVKKHGEGNWNAVQRNSG--LRCGKSCRLRWANHL----RP*
+>P1;gi|282965|pir||S26606 myb-related protein 3 - garden petunia >gi... [ score 97 E 9e-20 ] [ range 79 .. 129 ] [ duplicate b ]
+sequence
+--PNLKKGAFTVEEERIIIELHAKLGNK-WARMAAQLP--GRTDNEIKNYWNTRL----K-*
+>P1;gi|15221129|ref|NP_177548.1| myb family transcription factor (MY... [ score 97 E 1e-19 ] [ range 12 .. 63 ]
+sequence
+----LKKGAWTQEEDQKLIAYVQRHGEGGWRTLPKAGL--KRCGKSCRLRWANYL----RP*
+>P1;gi|41619298|gb|AAS10070.1| MYB transcription factor [Arabidopsis... [ score 97 E 1e-19 ] [ range 50 .. 104 ] [ duplicate a ]
+sequence
+GIRSKVKGPWSTEEDAVLTKLVRKLGPRNWSLIARGIP--GRSGKSCRLRWCNQL----DP*
+>P1;gi|41619298|gb|AAS10070.1| MYB transcription factor [Arabidopsis... [ score 97 E 1e-19 ] [ range 104 .. 154 ] [ duplicate b ]
+sequence
+--PCLKRKPFSDEEDRMIISAHAVHGNK-WAVIAKLLT--GRTDNAIKNHWNSTL----R-*
+>P1;gi|7438337|pir||T03850 myb-related protein myb1, TMV-inducible -... [ score 97 E 1e-19 ] [ range 12 .. 63 ] [ duplicate a ]
+sequence
+----LKKGPWIPEEDQILISFIQTNGHGNWRALPKQAG--LRCGKSCRLRWTNYL----RP*
+>P1;gi|15221803|ref|NP_173292.1| myb family transcription factor (MY... [ score 97 E 1e-19 ] [ range 64 .. 114 ] [ duplicate b ]
+sequence
+--PDIKRGEFTEDEERSIISLHALHGNK-WSAIARGLP--GRTDNEIKNYWNTHI----K-*
+>P1;gi|82307|pir||JQ0956 myb-related protein 306 - garden snapdragon... [ score 97 E 1e-19 ] [ range 12 .. 63 ]
+sequence
+----VKKGPWTPEEDIILVSYIQEHGPGNWRAIPSNTG--LRCSKSCRLRWTNYL----RP*
+>P1;gi|33320067|gb|AAQ05796.1| transcription factor Myb [Capsicum an... [ score 97 E 2e-19 ] [ range 11 .. 62 ]
+sequence
+----VKRGLWSPEEDEKLIKHITTHGHSCWSSVPKLAG--QRCGKSCRLRWINYL----RP*
+>P1;gi|25403442|pir||D86476 protein F15O4.43 [imported] - Arabidopsi... [ score 96 E 2e-19 ] [ range 14 .. 68 ]
+sequence
+------KGAWTKEEDQRLIDYIRNHGEGSWRSLPKSVG--KRCGKSCRLRWINYL----RP*
+>P1;gi|38344747|emb|CAE03051.2| OSJNBa0089K21.5 [Oryza sativa (japon... [ score 96 E 2e-19 ] [ range 11 .. 63 ]
+sequence
+---NVKRGQWTPEEDNKLLSYITQYGTRNWRLIPKNAG--QRCGKSCRLRWTNYL----RP*
+>P1;gi|547958|sp|P20027|MYB3_HORVU Myb-related protein Hv33 >gi|4219... [ score 96 E 2e-19 ] [ range 10 .. 65 ]
+sequence
+GQPKVRKGLWSPEEDEKLYNHIIRHGVGCWSSVPRAAL--NRCGKSCRLRWINYL----RP*
+>P1;gi|11066265|gb|AAG28526.1| anther-specific myb-related protein 1... [ score 96 E 2e-19 ] [ range 20 .. 71 ] [ duplicate a ]
+sequence
+----LKKGPWTATEDAILMEYVKKNGEGNWNAVQRNSG--LRCGKSCRLRWANHL----RP*
+>P1;gi|11066265|gb|AAG28526.1| anther-specific myb-related protein 1... [ score 96 E 2e-19 ] [ range 71 .. 121 ] [ duplicate b ]
+sequence
+--PNLKKGAFSLEEERIIVELHAKLGNK-WARMAAQMP--GRTDNEIKNYWNTRL----K-*
+>P1;gi|2129932|pir||S69190 myb-related protein 1 - tomato >gi|116748... [ score 96 E 2e-19 ] [ range 63 .. 112 ] [ duplicate b ]
+sequence
+--PDIRRGRFTPEE-EKLI--ISLHGANRWAHIASHLP--GRTDNEIKNYWNSWI------*
+>P1;gi|32489829|emb|CAE04573.1| OSJNBb0039L24.12 [Oryza sativa (japo... [ score 96 E 3e-19 ] [ range 63 .. 113 ] [ duplicate b ]
+sequence
+--PDIKRGPFTPEEHKSILQLHAIVGNK-WSMIAAQLP--GRTDNEIKNYWNTNV----K-*
+>P1;gi|23476279|gb|AAN28270.1| myb-like transcription factor 1 [Goss... [ score 95 E 3e-19 ] [ range 14 .. 63 ] [ duplicate a ]
+sequence
+------KGAWTKEEDQRLINYIRVHGEGCWRSLPKAAG--LRCGKSCRLRWINYL----RP*
+>P1;gi|23476279|gb|AAN28270.1| myb-like transcription factor 1 [Goss... [ score 95 E 3e-19 ] [ range 63 .. 113 ] [ duplicate b ]
+sequence
+--PDLKRGNFTEEEDELIIKLHSLLGNK-WSLIAGRLP--GRTDNEIKNYWNTHI----K-*
+>P1;gi|15222565|ref|NP_176575.1| myb family transcription factor (MY... [ score 96 E 3e-19 ] [ range 63 .. 113 ] [ duplicate b ]
+sequence
+--PDIRRGRFSPEE-EKLI--ISLHGVNRWAHIASHLP--GRTDNEIKNYWNSWI----K-*
+>P1;gi|7438329|pir||T07398 myb-related transcription factor THM6 - t... [ score 95 E 4e-19 ] [ range 12 .. 63 ]
+sequence
+----VKKGPWTPEEDIMLVSYVQQHGPGNWRALPTKTG--RRCSKSCRLRWTNYL----RP*
+>P1;gi|34898110|ref|NP_910401.1| putative typical P-type R2R3 Myb pr... [ score 95 E 4e-19 ] [ range 13 .. 68 ]
+sequence
+GGDELRRGPWTVEEDLLLVNYIAAHGEGRWNALARCAG--KRTGKSCRLRWLNYL----RP*
+>P1;gi|9954114|gb|AAG08960.1| tuber-specific and sucrose-responsive ... [ score 95 E 4e-19 ] [ range 3 .. 51 ]
+sequence
+------KGPWSPEEDELLQTLVEKHGPRNWTLISKSVP--RRSGKSCRLRWCNQL----SP*
+>P1;gi|7446180|pir||T02989 myb-related protein 5 - rice >gi|2605625|... [ score 95 E 4e-19 ] [ range 92 .. 142 ] [ duplicate b ]
+sequence
+--PNLKKGAFSKEEENKIINLHRKMGNK-WSRMAADLP--GRTDNEIKNYWNTRI----K-*
+>P1;gi|2129775|pir||S58283 myb-related protein Y13 - Arabidopsis tha... [ score 95 E 4e-19 ] [ range 11 .. 63 ]
+sequence
+---EVKKGPWTPEEDIILVSYIQQHGPGNWRSVPANTG--LRCSKSCRLRWTNYL----RP*
+>P1;gi|42541177|gb|AAS19480.1| MYB6 [Tradescantia fluminensis] [ score 95 E 6e-19 ] [ range 14 .. 63 ] [ duplicate a ]
+sequence
+------KGAWTKEEDQRLIAYIKVHGEGCWRSLPKAAG--LRCGKSCRLRWINYL----RP*
+>P1;gi|29824962|gb|AAO92352.1| putative flavonoid/anthocyanin regula... [ score 94 E 7e-19 ] [ range 25 .. 76 ]
+sequence
+----LNKGPWTAEEDQKLVEYVDAHGDRKWTSLPKAGL--NRCGKSCRLRWLNYL----RP*
+>P1;gi|34900756|ref|NP_911724.1| OJ1341_A08.36 [Oryza sativa (japoni... [ score 94 E 8e-19 ] [ range 142 .. 188 ] [ duplicate b ]
+sequence
+--PDIKKGIWTEEEDRKLIKAHQTYG-NRWSAIARSLP--GRSENTVKNRWN---------*
+>P1;gi|21554734|gb|AAM63674.1| putative transcription factor MYB24 [... [ score 94 E 8e-19 ] [ range 13 .. 68 ]
+sequence
+GDAEVRKGPWTMEEDLILINYIANHGEGVWNSLAKSAG--KRTGKSCRLRWLNYL----RP*
+>P1;gi|629737|pir||S45338 myb-related protein MIXTA - garden snapdra... [ score 94 E 8e-19 ] [ range 12 .. 63 ] [ duplicate a ]
+sequence
+----VKKGPWTVDEDQKLLAYIEEHGHGSWRSLPKAGL--QRCGKSCRLRWANYL----RP*
+>P1;gi|7438333|pir||T07395 myb-related transcription factor THM18 - ... [ score 94 E 9e-19 ] [ range 63 .. 113 ] [ duplicate b ]
+sequence
+--PDIKRGNFTKEEEDTIIKLHENLG-NRWSAIAARLP--GRTDNEIKNIWHTNL----K-*
+>P1;gi|19073322|gb|AAL84759.1| typical P-type R2R3 Myb protein [Sorg... [ score 94 E 9e-19 ] [ range 11 .. 63 ]
+sequence
+---SVKRGPWTPEEDNKLLSYITQYGTRNWRLIPKNAG--QRCGKSCRLRWTNYL----RP*
+>P1;gi|15241132|ref|NP_200422.1| myb family transcription factor [Ar... [ score 94 E 9e-19 ] [ range 11 .. 63 ]
+sequence
+---NVKRGQWTPEEDNKLASYIAQHGTRNWRLIPKNAG--QRCGKSCRLRWTNYL----RP*
+>P1;gi|15238940|ref|NP_196666.1| myb family transcription factor [Ar... [ score 94 E 9e-19 ] [ range 153 .. 199 ] [ duplicate b ]
+sequence
+--PDIKKDSWSEEEERLLVEAHTRIGNK-WAEIAKLIQ--GRTENSIKNHWN---------*
+>P1;gi|7428542|pir||TVCHM transforming protein myb, splice form cont... [ score 107 E 7e-23 ] [ range 40 .. 82 ] [ duplicate b ]
+sequence
+------KTRWTREEDEKLKKLVEQNG-TEWKVIASFLP--NRTDVQCQHRW----------*
+>P1;gi|34909188|ref|NP_915941.1| myb-related transcription factor [O... [ score 106 E 1e-22 ] [ range 95 .. 142 ]
+sequence
+------KGAFTAEEERLIIQLHSKMG-NKWARMAAHLP--GRTDNEIKNYWNTRIKR----*
+>P1;gi|4581969|emb|CAB40189.1| myb protein [Avena sativa] [ score 105 E 3e-22 ] [ range 96 .. 143 ]
+sequence
+------KGAFTPEEERLIIQLHSKMG-NKWARMAANLP--GRTDNEIKNYWNTRIKR----*
+>P1;gi|37589316|gb|AAH59803.1| Cmyb protein [Danio rerio] [ score 105 E 4e-22 ] [ range 40 .. 82 ] [ duplicate b ]
+sequence
+------KTRWTREEDEKLKRLVEHHG-SEWKVIASFLP--NRTDVQCQHRW----------*
+>P1;gi|18858447|ref|NP_571341.1| transcription factor cmyb [Danio re... [ score 104 E 6e-22 ] [ range 40 .. 82 ] [ duplicate b ]
+sequence
+------KSRWTREEDEKLKRLVEHHG-SEWKVIASFLP--NRTDVQCQHRW----------*
+>P1;gi|15232860|ref|NP_189430.1| trichome differentiation protein / ... [ score 104 E 7e-22 ] [ range 69 .. 118 ]
+sequence
+------KGNFTEQEEDLIIRLHKLLG-NRWSLIAKRVP--GRTDNQVKNYWNTHLSKKL--*
+>P1;gi|9954114|gb|AAG08960.1| tuber-specific and sucrose-responsive ... [ score 103 E 1e-21 ] [ range 56 .. 103 ]
+sequence
+-------RAFTPEEDDTIIRAHAKYG-NKWATIARLLS--GRTDNAIKNHWNSTLKRK---*
+>P1;gi|40287570|gb|AAR83899.1| tuber-specific protein [Capsicum annuum] [ score 103 E 1e-21 ] [ range 38 .. 85 ]
+sequence
+-------RAFTPEEDETIIRAHARFG-NKWATIARLLN--GRTDNAIKNHWNSTLKRK---*
+>P1;gi|15242649|ref|NP_198849.1| myb family transcription factor [Ar... [ score 102 E 2e-21 ] [ range 67 .. 116 ]
+sequence
+------RGNFTDQEEDLIIRLHKLLG-NRWSLIAKRVP--GRTDNQVKNYWNTHLSKKL--*
+>P1;gi|11066263|gb|AAG28525.1| anther-specific myb-related protein 2... [ score 102 E 2e-21 ] [ range 75 .. 123 ]
+sequence
+------KGAFSLEEERFIVELHAKLG-NKWARMAAQMP--GRTDNEIKNYWNTRLKRR---*
+>P1;gi|27529846|dbj|BAC53938.1| Myb-like protein [Nicotiana tabacum] [ score 101 E 3e-21 ] [ range 67 .. 114 ]
+sequence
+-------RAFTSEEDETIIRAHAKFG-NKWATIARLLS--GRTDNAIKNHWNSTLKRK---*
+>P1;gi|15228203|ref|NP_190344.1| myb family transcription factor (MY... [ score 101 E 6e-21 ] [ range 67 .. 116 ]
+sequence
+------RGNFTEHEEKMILHLQALLG-NRWAAIASYLP--ERTDNDIKNYWNTHLKKKL--*
+>P1;gi|42573243|ref|NP_974718.1| myb family transcription factor [Ar... [ score 101 E 7e-21 ] [ range 139 .. 188 ]
+sequence
+------KNAWTQEEELTLIRAHQIYG-NKWAELMKFLP--GRSDNSIKNHWNSSVKKKL--*
+>P1;gi|421983|pir||S35729 myb-related protein 2 - barley >gi|19055|e... [ score 120 E 1e-26 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFTDDEDELIIRLHSLLG-NKWSLIAGQLP--GRTDNEIKNYWNTHIKRKL--*
+>P1;gi|42408185|dbj|BAD09322.1| putative transcription factor Myb pr... [ score 120 E 1e-26 ] [ range 64 .. 116 ]
+sequence
+---DIKRGKFSQEEEQTILHLHSILG-NKWSAIATHLP--GRTDNEIKNFWNTHLKKRL--*
+>P1;gi|42541175|gb|AAS19479.1| MYB5 [Tradescantia fluminensis] [ score 118 E 4e-26 ] [ range 7 .. 59 ]
+sequence
+---DLKRGNFTEEEDELIIKLHGLLG-NKWSLIAGRLP--GRTDNEIKNYWNTHIKRKL--*
+>P1;gi|30024598|dbj|BAC75671.1| transcription factor MYB101 [Lotus c... [ score 118 E 5e-26 ] [ range 64 .. 116 ]
+sequence
+---DIKRGKFTEEEEQLIINLHAVLG-NKWSAIAGHLP--GRTDNEIKNFWNTHLKKKL--*
+>P1;gi|37991921|gb|AAR06367.1| putative Myb protein [Oryza sativa (j... [ score 118 E 5e-26 ] [ range 67 .. 119 ]
+sequence
+---DIKRGNFTPEEEQAIITLHSVLG-NKWSTIATRLP--GRTDNEIKNYWNTRLKKRL--*
+>P1;gi|30024600|dbj|BAC75672.1| transcription factor MYB102 [Lotus c... [ score 117 E 8e-26 ] [ range 64 .. 116 ]
+sequence
+---DIKRGKFSPEEEQTILHLHSILG-NKWSTIATHLP--GRTDNEIKNFWNTHLKKKL--*
+>P1;gi|34907282|ref|NP_914988.1| putative myb-related protein [Oryza... [ score 117 E 9e-26 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFTDDDDELIIKLHALLG-NKWSLIAGQLP--GRTDNEIKNYWNTHIKRKL--*
+>P1;gi|33087073|gb|AAP92750.1| myb-related protein [Oryza sativa (ja... [ score 116 E 1e-25 ] [ range 64 .. 117 ]
+sequence
+---DIKRGNFSKEEEDTIIHLHELLG-NRWSAIAARLP--GRTDNEIKNVWHTHLKKRLD-*
+>P1;gi|38347060|emb|CAE05465.2| OSJNBa0006A01.1 [Oryza sativa (japon... [ score 116 E 1e-25 ] [ range 67 .. 119 ]
+sequence
+---DIRRGNFSDDEERLIIRLHAALG-NKWSTIATHLD--GRTDNEIKNYWNTHIKKKL--*
+>P1;gi|22795039|gb|AAN05422.1| putative MYB transcription factor [Po... [ score 116 E 1e-25 ] [ range 64 .. 116 ]
+sequence
+---DIKRGRFSFEEEETIIQLHGILG-NKWSAIAARLP--GRTDNEIKNYWNTHIRKRL--*
+>P1;gi|127582|sp|P20025|MYB3_MAIZE Myb-related protein Zm38 >gi|8273... [ score 116 E 2e-25 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFTADEDDLIVKLHSLLG-NKWSLIAARLP--GRTDNEIKNYWNTHVRRKL--*
+>P1;gi|34910458|ref|NP_916576.1| putative transcription factor [Oryz... [ score 116 E 2e-25 ] [ range 64 .. 116 ]
+sequence
+---DLKRGSFSQQEESLIIELHRVLG-NRWAQIAKHLP--GRTDNEVKNFWNSTIKKKL--*
+>P1;gi|7438328|pir||T03828 myb protein - rice >gi|1946267|emb|CAA722... [ score 115 E 2e-25 ] [ range 64 .. 116 ]
+sequence
+---DIKRGRFSFEEEEAIIQLHSILG-NKWSAIAARLP--GRTDNEIKNYWNTHIRKRL--*
+>P1;gi|15234385|ref|NP_194540.1| myb family transcription factor (MY... [ score 115 E 2e-25 ] [ range 64 .. 116 ]
+sequence
+---DIKRGRFSFEEEETIIQLHSVMG-NKWSAIAARLP--GRTDNEIKNHWNTHIRKRL--*
+>P1;gi|34913750|ref|NP_918222.1| OSJNBa0051H17.23 [Oryza sativa (jap... [ score 115 E 2e-25 ] [ range 67 .. 119 ]
+sequence
+---DLKRGSFSQQEEELIISLHKILG-NRWSQIAAQLP--GRTDNEIKNFWNSCLKKKL--*
+>P1;gi|30575840|gb|AAP32921.1| MYB1 [Boea crassifolia] [ score 115 E 3e-25 ] [ range 66 .. 118 ]
+sequence
+---DIKRGRFSFEEEETIIRLHSILG-NKWSLIAARLP--GRTDNEIKNYWNTNIRKRL--*
+>P1;gi|15238370|ref|NP_201326.1| myb family transcription factor (MY... [ score 115 E 3e-25 ] [ range 64 .. 116 ]
+sequence
+---DIKRGKFSAEEEETILNLHAVLG-NKWSMIASHLP--GRTDNEIKNFWNTHLKKKL--*
+>P1;gi|34897900|ref|NP_910296.1| EST AU082058(C12976) corresponds to... [ score 115 E 3e-25 ] [ range 65 .. 117 ]
+sequence
+---DIKRGGFSDDEERLIIHLHATLG-NKWSSIATKLK--GRTDNEIKNYWNTHLRKKL--*
+>P1;gi|82310|pir||JQ0957 myb-related protein 330 - garden snapdragon [ score 115 E 3e-25 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFTEEEDEIIIKLHSLLG-NKWSLIAGALP--GRTDNEIKNYWNTHIKRKL--*
+>P1;gi|42541169|gb|AAS19476.1| MYB2 [Tradescantia fluminensis] [ score 115 E 4e-25 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFSEEEDELIIKLHAMLG-NKWSLIAGQLP--GRTDNEIKNYWNTHIKRKL--*
+>P1;gi|127580|sp|P20024|MYB1_MAIZE Myb-related protein Zm1 >gi|82729... [ score 114 E 5e-25 ] [ range 66 .. 118 ]
+sequence
+---DLKRGNFTDEEEEAIIRLHGLLG-NKWSKIAACLP--GRTDNEIKNVWNTHLKKKV--*
+>P1;gi|38347068|emb|CAE05473.2| OSJNBa0006A01.9 [Oryza sativa (japon... [ score 114 E 5e-25 ] [ range 66 .. 118 ]
+sequence
+---DLKRGNFTAEEEETIIKLHGLLG-NKWSKIASCLP--GRTDNEIKNVWNTHLKKRV--*
+>P1;gi|42407806|dbj|BAD08950.1| typical P-type R2R3 Myb protein [Ory... [ score 114 E 6e-25 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFTADEDDLIIKLHSLLG-NKWSLIAARLP--GRTDNEIKNYWNTHIRRKL--*
+>P1;gi|15239578|ref|NP_200234.1| myb family transcription factor (MY... [ score 114 E 6e-25 ] [ range 64 .. 116 ]
+sequence
+---DIKRGEFSLQEEETIIQLHRLLG-NKWSAIAIHLP--GRTDNEIKNYWNTHIKKKL--*
+>P1;gi|38344966|emb|CAD40986.2| OSJNBa0072F16.11 [Oryza sativa (japo... [ score 114 E 6e-25 ] [ range 64 .. 116 ]
+sequence
+---DIKRGKFSLQEEQTIIQLHALLG-NRWSAIATHLP--KRTDNEIKNYWNTHLKKRL--*
+>P1;gi|39725413|emb|CAE09057.1| MYB transcription factor [Eucalyptus... [ score 114 E 6e-25 ] [ range 72 .. 124 ]
+sequence
+---DLKRGAFSPQEEELIVHLHNILG-NRWSQIAARLP--GRTDNEIKNFWNSTLKKRL--*
+>P1;gi|28927688|gb|AAO62334.1| putative Myb-like DNA-binding protein... [ score 114 E 7e-25 ] [ range 64 .. 116 ]
+sequence
+---DLKRGTFSQEEEDLIIQLHSMLG-NKWSQIAAQLP--GRTDNEVKNFWNSYIKKKL--*
+>P1;gi|7438334|pir||T05954 transcription factor myb4 - barley (fragm... [ score 114 E 7e-25 ] [ range 62 .. 115 ]
+sequence
+---DIKRGNFSDEEEQSIIQLHQLLG-NRWSAIAARLP--GRTDNEIKNVWHTHLKKRLD-*
+>P1;gi|7438327|pir||T03988 Myb-like transcription regulator P - maiz... [ score 113 E 9e-25 ] [ range 64 .. 118 ]
+sequence
+---DVKRGNISKEEEDIIIKLHATLG-NRWSLIASHLP--GRTDNEIKNYWNSHLSRQIHT*
+>P1;gi|34901838|ref|NP_912265.1| putative myb-related protein [Oryza... [ score 113 E 1e-24 ] [ range 63 .. 115 ]
+sequence
+---DLKRGTFSEQEERTIIDVHRILG-NRWAQIAKHLP--GRTDNEVKNFWNSCIKKKL--*
+>P1;gi|25458597|pir||T52065 probable myb-related protein [imported] ... [ score 113 E 1e-24 ] [ range 1053 .. 1105 ]
+sequence
+---DLKRGSFSQQEEDLIVALHEILG-NRWSQIASHLP--GRTDNEIKNFWNSCLKKKL--*
+>P1;gi|7446160|pir||T09745 myb-related protein - upland cotton >gi|2... [ score 113 E 1e-24 ] [ range 64 .. 118 ]
+sequence
+---DLKRGNFTSQEEEVIINLHATLG-NRWSLIASYLP--GRTDNEIKNYWNSHLSRKIHS*
+>P1;gi|15233066|ref|NP_191684.1| myb family transcription factor (MY... [ score 113 E 1e-24 ] [ range 64 .. 116 ]
+sequence
+---DIKRGPFTADEEKLVIQLHAILG-NRWAAIAAQLP--GRTDNEIKNLWNTHLKKRL--*
+>P1;gi|30686014|ref|NP_197179.2| myb family transcription factor (MY... [ score 113 E 1e-24 ] [ range 64 .. 116 ]
+sequence
+---DIKRGNFTEEEEQTIINLHSLLG-NKWSSIAGNLP--GRTDNEIKNYWNTHLRKKL--*
+>P1;gi|42541171|gb|AAS19477.1| MYB3 [Tradescantia fluminensis] [ score 112 E 2e-24 ] [ range 7 .. 59 ]
+sequence
+---DLKRGNFTEEEDELIIQLHGLLG-NKWSLIAGRLP--GRSDNEIKNYWNTHIKRKL--*
+>P1;gi|15238116|ref|NP_196590.1| myb family transcription factor (MY... [ score 112 E 2e-24 ] [ range 64 .. 116 ]
+sequence
+---DIKRGRFSPDEEQTILNLHSVLG-NKWSTIANQLP--GRTDNEIKNFWNTHLKKKL--*
+>P1;gi|629737|pir||S45338 myb-related protein MIXTA - garden snapdra... [ score 112 E 2e-24 ] [ range 64 .. 116 ]
+sequence
+---DIKRGPFSLQEEQTIIQLHALLG-NRWSAIASHLP--KRTDNEIKNYWNTHLKKRL--*
+>P1;gi|19072734|gb|AAL84612.1| typical P-type R2R3 Myb protein [Zea ... [ score 112 E 2e-24 ] [ range 65 .. 117 ]
+sequence
+---DIKRGRFTDDEEDLIVHLHSLLG-NKWSSIATKLP--GRTDNEIKNYWNTHLRKKL--*
+>P1;gi|15233021|ref|NP_186944.1| myb family transcription factor (MY... [ score 112 E 2e-24 ] [ range 64 .. 116 ]
+sequence
+---DIKRGNFTAEEEQTIINLHSLLG-NKWSSIAGHLP--GRTDNEIKNYWNTHIRKKL--*
+>P1;gi|7428545|pir||S58293 myb-related protein M4 - Arabidopsis thal... [ score 112 E 2e-24 ] [ range 66 .. 118 ]
+sequence
+---DIKRGRFSFEEEETIIQLHSFLG-NKWSAIAARLP--GRTDNEIKNFWNTHIRKKL--*
+>P1;gi|15221803|ref|NP_173292.1| myb family transcription factor (MY... [ score 112 E 2e-24 ] [ range 65 .. 117 ]
+sequence
+---DIKRGEFTEDEERSIISLHALHG-NKWSAIARGLP--GRTDNEIKNYWNTHIKKRL--*
+>P1;gi|41053007|dbj|BAD07916.1| putative myb-related protein 1 [Oryz... [ score 112 E 2e-24 ] [ range 66 .. 118 ]
+sequence
+---DLKRGNFTADEEDTIIKLHGLLG-NKWSKIASCLP--GRTDNEIKNVWNTHLKKRV--*
+>P1;gi|22266675|dbj|BAC07544.1| myb-related transcription factor VlM... [ score 112 E 3e-24 ] [ range 64 .. 116 ]
+sequence
+---DIKRGNFSREEEDTIIELHEKLG-NKWSAIAASLP--GRTDNEIKNVWHTHLKKRL--*
+>P1;gi|30684186|ref|NP_567540.2| myb family transcription factor (MY... [ score 112 E 3e-24 ] [ range 65 .. 117 ]
+sequence
+---DIRRGKFSDGEESTIVRLHALLG-NKWSKIAGHLP--GRTDNEIKNYWNTHMRKKL--*
+>P1;gi|15233894|ref|NP_192684.1| myb family transcription factor [Ar... [ score 112 E 3e-24 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFTDDEDQIIIKLHSLLG-NKWSLIAGRLP--GRTDNEIKNYWNTHIKRKL--*
+>P1;gi|462669|sp|P80073|MYB2_PHYPA Myb-related protein Pp2 >gi|99453... [ score 112 E 3e-24 ] [ range 64 .. 118 ]
+sequence
+---DLKRGIFSEAEENLILDLHATLG-NRWSRIAAQLP--GRTDNEIKNYWNTRLKKRLRS*
+>P1;gi|15218730|ref|NP_174726.1| myb family transcription factor [Ar... [ score 111 E 3e-24 ] [ range 64 .. 116 ]
+sequence
+---DIKRGKFSAEEEQTILHLHSILG-NKWSAIATHLQ--GRTDNEIKNFWNTHLKKKL--*
+>P1;gi|127579|sp|P20026|MYB1_HORVU Myb-related protein Hv1 >gi|21300... [ score 111 E 3e-24 ] [ range 64 .. 118 ]
+sequence
+---DLKRGNFSHEEDELIIKLHSLLG-NKWSLIAGRLP--GRTDNEIKNYWNTHIRRKLTS*
+>P1;gi|34902542|ref|NP_912617.1| putative transcription factor (myb)... [ score 111 E 3e-24 ] [ range 64 .. 116 ]
+sequence
+---DLKRGAFSQEEEDLIVELHAVLG-NRWSQIATRLP--GRTDNEIKNLWNSCIKKKL--*
+>P1;gi|15229407|ref|NP_188966.1| myb family transcription factor (MY... [ score 111 E 4e-24 ] [ range 64 .. 117 ]
+sequence
+---DIKRGNFTKEEEDAIISLHQILG-NRWSAIAAKLP--GRTDNEIKNVWHTHLKKRLE-*
+>P1;gi|42541173|gb|AAS19478.1| MYB4 [Tradescantia fluminensis] [ score 111 E 4e-24 ] [ range 7 .. 59 ]
+sequence
+---DLKRGNFTEDEDELIIKLHSMLG-NKWSLIAGRLP--GRTDNEIKNYWNTHIRRKL--*
+>P1;gi|11358684|pir||T51646 probable transcription factor MYB32 [imp... [ score 111 E 4e-24 ] [ range 2 .. 54 ]
+sequence
+---DLKRGNFTLEEDDLIIKLHSLLG-NKWSLIATRLP--GRTDNEIKNYWNTHVKRKL--*
+>P1;gi|4115565|dbj|BAA36424.1| MYB homologue [Perilla frutescens] [ score 111 E 5e-24 ] [ range 30 .. 82 ]
+sequence
+---DIKRGPFSTEEEKLVIQLHGILG-NRWAAIASQLP--GRTDNEIKNLWNTHLKKRL--*
+>P1;gi|6552359|dbj|BAA88221.1| myb-related transcription factor LBM1... [ score 111 E 5e-24 ] [ range 64 .. 116 ]
+sequence
+---DIKRGNFTREEEDSIIQLHEMLG-NRWSAIAARLP--GRTDNEIKNVWHTHLKKRL--*
+>P1;gi|28812131|dbj|BAC64999.1| myb transcription factor (ATMYB4)-li... [ score 111 E 5e-24 ] [ range 64 .. 116 ]
+sequence
+---DIRRGRFTAEEEKLIISLHAIVG-NRWAHIASHLP--GRTDNEIKNYWNSWIKKKI--*
+>P1;gi|34911526|ref|NP_917110.1| putative myb-related protein [Oryza... [ score 111 E 5e-24 ] [ range 68 .. 120 ]
+sequence
+---DLKRGSFSQQEEDAIVGLHEILG-NRWSQIASHLP--GRTDNEIKNFWNSCLKKKL--*
+>P1;gi|32489829|emb|CAE04573.1| OSJNBb0039L24.12 [Oryza sativa (japo... [ score 111 E 5e-24 ] [ range 64 .. 116 ]
+sequence
+---DIKRGPFTPEEHKSILQLHAIVG-NKWSMIAAQLP--GRTDNEIKNYWNTNVKKQL--*
+>P1;gi|34913210|ref|NP_917952.1| contains EST C28158(C60218)~myb-lik... [ score 111 E 5e-24 ] [ range 65 .. 117 ]
+sequence
+----IKRGNFTDQEEKLIVHLQALLG-NRWAAIASYLP--ERTDNDIKNYWNTHLKRKLQ-*
+>P1;gi|23476311|gb|AAN28286.1| myb-like transcription factor 6 [Goss... [ score 111 E 5e-24 ] [ range 63 .. 115 ]
+sequence
+---DIKRGNFAQDEEDLIIKLHALLG-NRWSLIAGRLP--GRTDNEVKNYWNSHIKRKL--*
+>P1;gi|22331071|ref|NP_566467.2| myb family transcription factor (MY... [ score 111 E 5e-24 ] [ range 73 .. 127 ]
+sequence
+---DLKRGSFSPQEAALIIELHSILG-NRWAQIAKHLP--GRTDNEVKNFWNSSIKKKLMS*
+>P1;gi|22329445|ref|NP_172425.2| myb family transcription factor (MY... [ score 111 E 5e-24 ] [ range 64 .. 116 ]
+sequence
+---DLKRGAFSPEEENLIVELHAVLG-NRWSQIASRLP--GRTDNEIKNLWNSSIKKKL--*
+>P1;gi|227031|prf||1613412B myb-related gene Hv33 [ score 111 E 6e-24 ] [ range 32 .. 84 ]
+sequence
+---DLKRGCFSQQEEDHIVALHQILG-NRWSQIASHLP--GRTDNEIKNFWNSCIKKKL--*
+>P1;gi|15239934|ref|NP_196791.1| myb family transcription factor (MY... [ score 110 E 7e-24 ] [ range 70 .. 122 ]
+sequence
+---DLKRGAFSPQEEDLIIRFHSILG-NRWSQIAARLP--GRTDNEIKNFWNSTIKKRL--*
+>P1;gi|479393|pir||S33643 transforming protein B-myb - African clawe... [ score 110 E 8e-24 ] [ range 132 .. 186 ]
+sequence
+---EVKKSSWTEEEDRIICQAHKVLG-NRWAEIAKLLP--GRTDNAVKNHWNSTIKRKVET*
+>P1;gi|34860647|ref|XP_215922.2| similar to B-myb [Rattus norvegicus] [ score 110 E 8e-24 ] [ range 167 .. 221 ]
+sequence
+---EVKKSCWTEEEDRIICEAHKVLG-NRWAEIAKMLP--GRTDNAVKNHWNSTIKRKVDT*
+>P1;gi|34905688|ref|NP_914191.1| putative myb-related protein P [Ory... [ score 110 E 1e-23 ] [ range 64 .. 115 ]
+sequence
+---DLKRGNISPQEEDIILNLHATLG-NRWSLIAGHLP--GRTDNEIKNYWNSHLSRK---*
+>P1;gi|45357090|gb|AAS58504.1| MYB transcription factor [Arabidopsis... [ score 110 E 1e-23 ] [ range 82 .. 134 ]
+sequence
+---DLKRGSFSPQEEDLIFHLHSILG-NRWSQIATRLP--GRTDNEIKNFWNSTLKKRL--*
+>P1;gi|7446178|pir||T02985 myb-related protein 2 - rice >gi|2605619|... [ score 110 E 1e-23 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFTDEEDELIIKLHELLG-NKWSLIAGRLP--GRTDNEIKNYWNTHIKRKL--*
+>P1;gi|2072499|gb|AAC47807.1| myb-related transcription factor [Stro... [ score 110 E 1e-23 ] [ range 142 .. 196 ]
+sequence
+---DIKKSAWTKEEDYIIYEAHKKLG-NRWAEIAKLLP--GRTDNAIKNHWNSTMKRKVET*
+>P1;gi|33320067|gb|AAQ05796.1| transcription factor Myb [Capsicum an... [ score 110 E 1e-23 ] [ range 63 .. 115 ]
+sequence
+---DLKRGCFSEQEERIIIDVHRILG-NKWAQIAKHLP--GRTDNEVKNFWNSCIKKKL--*
+>P1;gi|13236696|gb|AAG22863.1| transcription factor GAMyb [Hordeum v... [ score 110 E 1e-23 ] [ range 95 .. 144 ]
+sequence
+----LKKGAFTPEEERLIIQLHSKMG-NKWARMAAHLP--GRTDNEIKNYWNTRIKR----*
+>P1;gi|7438337|pir||T03850 myb-related protein myb1, TMV-inducible -... [ score 110 E 1e-23 ] [ range 64 .. 116 ]
+sequence
+---DIKRGNFTKEEEETIIQLHEMLG-NRWSAIAAKLP--GRTDNEIKNVWHTHLKKKL--*
+>P1;gi|4886264|emb|CAB43399.1| Myb-related transcription factor mixt... [ score 109 E 2e-23 ] [ range 64 .. 116 ]
+sequence
+---DIKRGKFSLQEEQAIIQLHAFLG-NRWSAIATHLP--KRTDNEIKNYWNTHLKKRL--*
+>P1;gi|7438352|pir||T02006 transcription factor MYB4 homolog T15B16.... [ score 109 E 2e-23 ] [ range 76 .. 128 ]
+sequence
+---DLKRGAFSQDEENLIIELHAVLG-NRWSQIAAQLP--GRTDNEIKNLWNSCLKKKL--*
+>P1;gi|5139806|dbj|BAA81732.1| GmMYB29A2 [Glycine max] [ score 109 E 2e-23 ] [ range 64 .. 116 ]
+sequence
+---DIKRGNFSSEEEEIIIKMHELLG-NRWSAIAAKLP--GRTDNEIKNVWHTHLKKRL--*
+>P1;gi|8745321|gb|AAF78887.1| putative c-myb-like transcription fact... [ score 109 E 2e-23 ] [ range 134 .. 186 ]
+sequence
+----IKREAWTQQEDLALIRAHQLYG-NKWAEIAKFLP--GRTDNSIKNHWNSTMKKKVD-*
+>P1;gi|19072772|gb|AAL84631.1| typical A-type R2R3 Myb protein [Oryz... [ score 109 E 2e-23 ] [ range 65 .. 118 ]
+sequence
+----VKRGNISNQEEDVIIKLHATLG-NRWSLIASHLP--GRTDNEIKNYWNSHLSRQIHT*
+>P1;gi|11358528|pir||T51636 myb-related transcription factor MYB12 [... [ score 109 E 2e-23 ] [ range 64 .. 117 ]
+sequence
+---DLKRGNITPEEEELVVKLHSTLG-NRWSLIAGHLP--GRTDNEIKNYWNSHLSRKLH-*
+>P1;gi|37535390|ref|NP_921997.1| putative myb factor [Oryza sativa (... [ score 109 E 2e-23 ] [ range 64 .. 117 ]
+sequence
+---DIKRGNFTADEEDLIVRLHNSLG-NRWSAIAAQMP--GRTDNEIKNVWHTHLKKRLD-*
+>P1;gi|28610110|gb|AAO48737.1| R2R3 Myb transcription factor MYB-IF3... [ score 108 E 3e-23 ] [ range 65 .. 115 ]
+sequence
+----LKRGNISEEEEDMIIKLHATLG-NRWSLIAGHLP--GRTDNEIKNYWNSHLSRR---*
+>P1;gi|7446174|pir||T01196 transcription factor MYB4 - Arabidopsis t... [ score 108 E 3e-23 ] [ range 81 .. 133 ]
+sequence
+---DLKRGAFSQDEESLIIELHAALG-NRWSQIATRLP--GRTDNEIKNFWNSCLKKKL--*
+>P1;gi|15227288|ref|NP_179263.1| myb family transcription factor [Ar... [ score 108 E 3e-23 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFTHDEDELIIKLHSLLG-NKWSLIAARLP--GRTDNEIKNYWNTHIKRKL--*
+>P1;gi|7438331|pir||T03827 myb protein homolog - rice >gi|1945281|em... [ score 108 E 3e-23 ] [ range 65 .. 116 ]
+sequence
+----IKRGNFTAHEEGIIVHLQSLLG-NRWAAIASYLP--QRTDNDIKNYWNTHLKKKL--*
+>P1;gi|15229748|ref|NP_187751.1| myb family transcription factor (MY... [ score 108 E 4e-23 ] [ range 94 .. 144 ]
+sequence
+----LKKGAFSQEEEQLIVEMHAKMG-NKWAQMAEHLP--GRTDNEIKNYWNTRIKRR---*
+>P1;gi|34147924|gb|AAQ62540.1| R2R3-MYB transcription factor [Pinus ... [ score 108 E 4e-23 ] [ range 69 .. 121 ]
+sequence
+---DLKRGAFSPQEEHWIIHLHSILG-NRWSQIAARLP--GRTDNEIKNFWNSCIKKKL--*
+>P1;gi|282965|pir||S26606 myb-related protein 3 - garden petunia >gi... [ score 108 E 4e-23 ] [ range 81 .. 131 ]
+sequence
+----LKKGAFTVEEERIIIELHAKLG-NKWARMAAQLP--GRTDNEIKNYWNTRLKRR---*
+>P1;gi|82307|pir||JQ0956 myb-related protein 306 - garden snapdragon... [ score 108 E 4e-23 ] [ range 65 .. 117 ]
+sequence
+----IKRGDFTEHEEKMIIHLQALLG-NRWAAIASYLP--HRTDNDIKNYWNTHLKKKLE-*
+>P1;gi|15236911|ref|NP_194423.1| myb family transcription factor (MY... [ score 108 E 4e-23 ] [ range 72 .. 121 ]
+sequence
+----LRKGSFTPEEERLIIQLHSQLG-NKWARMAAQLP--GRTDNEIKNYWNTRLKR----*
+>P1;gi|41619496|gb|AAS10115.1| MYB transcription factor [Arabidopsis... [ score 108 E 4e-23 ] [ range 65 .. 116 ]
+sequence
+----IKRGNFTEHEEKTIVHLQALLG-NRWAAIASYLP--ERTDNDIKNYWNTHLKKKL--*
+>P1;gi|19548469|gb|AAL90658.1| P-type R2R3 Myb protein [Zea mays] [ score 108 E 4e-23 ] [ range 67 .. 119 ]
+sequence
+---DIKRGNFTDDEERLIIGLHAQLG-NRWSTIATHLD--GRTDNEIKNYWNTHIRKKL--*
+>P1;gi|38344747|emb|CAE03051.2| OSJNBa0089K21.5 [Oryza sativa (japon... [ score 108 E 4e-23 ] [ range 64 .. 116 ]
+sequence
+---DLKHGEFTDAEEQTIIKLHSVVG-NRWSVIAAQLP--GRTDNDVKNHWNTKLKKKL--*
+>P1;gi|32489825|emb|CAE04569.1| OSJNBb0039L24.8 [Oryza sativa (japon... [ score 108 E 4e-23 ] [ range 66 .. 118 ]
+sequence
+----LKHGMFSREEEETVMNLHATMG-NKWSQIARHLP--GRTDNEVKNYWNSYLKKRVE-*
+>P1;gi|19072750|gb|AAL84620.1| typical P-type R2R3 Myb protein [Zea ... [ score 108 E 4e-23 ] [ range 64 .. 116 ]
+sequence
+---DLKRGLLSEEEERTVIDLHAQLG-NRWSKIASHLP--GRTDNEIKNHWNTHIKKKL--*
+>P1;gi|15239855|ref|NP_199744.1| myb family transcription factor [Ar... [ score 107 E 6e-23 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNITSDEEEIIVKLHSLLG-NRWSLIATHLP--GRTDNEIKNYWNSHLSRKI--*
+>P1;gi|15225687|ref|NP_180805.1| myb family transcription factor (MY... [ score 107 E 6e-23 ] [ range 71 .. 121 ]
+sequence
+----LKKGSFTPDEEKIIIDLHAKLG-NKWARMASQLP--GRTDNEIKNYWNTRMKRR---*
+>P1;gi|7438353|pir||T02988 myb-related protein 4 - rice >gi|2605623|... [ score 107 E 6e-23 ] [ range 72 .. 124 ]
+sequence
+---DIKRCPIADDEEDLILRLHRLLG-NRWSLIAGRLP--GRTDNEIKNYWNSHLSKKL--*
+>P1;gi|19072740|gb|AAL84615.1| typical P-type R2R3 Myb protein [Zea ... [ score 107 E 6e-23 ] [ range 64 .. 116 ]
+sequence
+---DLKRGLLSSEEETTVIDLHAQLG-NRWSKIASHLP--GRTDNEIKNHWNTHIKKKL--*
+>P1;gi|16326135|dbj|BAB70511.1| Myb [Nicotiana tabacum] [ score 107 E 6e-23 ] [ range 138 .. 191 ]
+sequence
+----INKEAWTQEEELTLIRAHQIYG-NKWAELTKYLP--GRTDNAIKNHWNSSVKKKLDS*
+>P1;gi|19073336|gb|AAL84766.1| typical P-type R2R3 Myb protein [Sorg... [ score 107 E 6e-23 ] [ range 64 .. 116 ]
+sequence
+---DVKRGLLSSEEERTVIDLHEQLG-NRWSKIASQLP--GRTDNEIKNHWNTHIKKKL--*
+>P1;gi|15239466|ref|NP_200897.1| receptor-like protein kinase (ATR1)... [ score 107 E 7e-23 ] [ range 64 .. 116 ]
+sequence
+---DIKRGEFSPEEDDTIIKLHALKG-NKWAAIATSLA--GRTDNEIKNYWNTNLKKRL--*
+>P1;gi|28610112|gb|AAO48738.1| R2R3 Myb transcription factor MYB-IF2... [ score 107 E 7e-23 ] [ range 65 .. 115 ]
+sequence
+----LKRGNITEEEEDVIVKLHATLG-NRWSLIAGHLP--GRTDNEIKNHWNSHLRRR---*
+>P1;gi|34913340|ref|NP_918017.1| contains ESTs AU101387(E20959),C996... [ score 107 E 7e-23 ] [ range 64 .. 116 ]
+sequence
+---DLKRGAFSQEEEDLIIHLHSMLG-NKWSQIAAQLP--GRTDNEVKNFWNSYIKKKL--*
+>P1;gi|15240251|ref|NP_200950.1| myb family transcription factor (MY... [ score 107 E 8e-23 ] [ range 64 .. 116 ]
+sequence
+---EIKRGEFSSEEEQIIIMLHASRG-NKWSVIARHLP--RRTDNEIKNYWNTHLKKRL--*
+>P1;gi|41052590|dbj|BAD07932.1| putative myb-related protein [Oryza ... [ score 107 E 8e-23 ] [ range 66 .. 117 ]
+sequence
+----LKRGMFSQEEEDIVINLQAKLG-NKWSQIAMHLP--GRTDNEVKNYWNSYLKKRV--*
+>P1;gi|41619374|gb|AAS10088.1| MYB transcription factor [Arabidopsis... [ score 107 E 8e-23 ] [ range 64 .. 116 ]
+sequence
+---DIKRGEFSYEEEQIIIMLHASRG-NKWSVIARHLP--KRTDNEVKNYWNTHLKKRL--*
+>P1;gi|13346186|gb|AAK19615.1| GHMYB10 [Gossypium hirsutum] [ score 107 E 8e-23 ] [ range 64 .. 116 ]
+sequence
+---DIKRGNISPDEEELIIKLHKLLG-NRWSLIAGRLP--GRTDNEIKNYWNTNLSKRV--*
+>P1;gi|30693208|ref|NP_849749.1| myb family transcription factor (MY... [ score 107 E 8e-23 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFTDGEEQIIVKLHSLFG-NKWSLIAGKLP--GRTDNEIKNYWNTHIKRKL--*
+>P1;gi|7446182|pir||T03830 probable myb factor - rice >gi|1945283|em... [ score 107 E 9e-23 ] [ range 64 .. 116 ]
+sequence
+---DLKRGLLSETEEKTVIDLHEQLG-NRWSKIASHLP--GRTDNEIKNHWNTHIKKKL--*
+>P1;gi|19072748|gb|AAL84619.1| typical P-type R2R3 Myb protein [Zea ... [ score 106 E 1e-22 ] [ range 64 .. 116 ]
+sequence
+---DLKRGNFTEEEDDLIIKFHELFG-NKWALISRRLP--GRTDNEIKNYWNTHIKRKL--*
+>P1;gi|31980095|emb|CAD98762.1| MYB transcription factor R2R3 type [... [ score 106 E 1e-22 ] [ range 64 .. 117 ]
+sequence
+---DLKRGNFTEAEDELIIKLHSLLG-NRWSLIAGRLP--GRTDNEIKNYWNTHIRRKL--*
+>P1;gi|15231271|ref|NP_187963.1| myb family transcription factor [Ar... [ score 106 E 1e-22 ] [ range 76 .. 127 ]
+sequence
+----VKRGGITSDEEDLILRLHRLLG-NRWSLIAGRIP--GRTDNEIKNYWNTHLRKKL--*
+>P1;gi|15223612|ref|NP_176068.1| myb family transcription factor (MY... [ score 106 E 1e-22 ] [ range 64 .. 116 ]
+sequence
+---DLKRGAFSSEEQNLIVELHAVLG-NRWSQIAARLP--GRTDNEIKNLWNSCIKKKL--*
+>P1;gi|7438354|pir||T01038 myb-related protein YUP8H12R.21 - Arabido... [ score 106 E 1e-22 ] [ range 99 .. 151 ]
+sequence
+---DLKRGNFTSEEEETIIKLHHNYG-NKWSKIASQLP--GRTDNEIKNVWHTHLKKRL--*
+>P1;gi|31980091|emb|CAD98760.1| MYB transcription factor R3 type [Po... [ score 106 E 1e-22 ] [ range 161 .. 214 ]
+sequence
+---DIKKDAWTLEEELALMNAHRIYG-NKWAEIAKVLP--GRTDNSIKNHWNSSLKKKLD-*
+>P1;gi|19548467|gb|AAL90657.1| P-type R2R3 Myb protein [Zea mays] [ score 106 E 1e-22 ] [ range 64 .. 116 ]
+sequence
+---DIKRGKFSREEEQTILHLHSVLG-NKWGAIATHLP--GRTDNEIKNFWNTHLRKRL--*
+>P1;gi|28628949|gb|AAO49411.1| MYB2 [Dendrobium sp. XMW-2002-2] [ score 106 E 1e-22 ] [ range 64 .. 116 ]
+sequence
+---DLKRGTFSQQEENLIIELHGVLG-NRWSQIAAQLP--GRTDNEIKNLWNSCIKKKL--*
+>P1;gi|11066265|gb|AAG28526.1| anther-specific myb-related protein 1... [ score 106 E 1e-22 ] [ range 73 .. 123 ]
+sequence
+----LKKGAFSLEEERIIVELHAKLG-NKWARMAAQMP--GRTDNEIKNYWNTRLKRR---*
+>P1;gi|15228529|ref|NP_189533.1| myb family transcription factor (MY... [ score 106 E 1e-22 ] [ range 65 .. 117 ]
+sequence
+----IKRGNFTEHEEKMIVHLQALLG-NRWAAIASYLP--QRTDNDIKNYWNTHLKKKLN-*
+>P1;gi|18423700|ref|NP_568819.1| myb family transcription factor (MY... [ score 106 E 1e-22 ] [ range 79 .. 130 ]
+sequence
+----LKKGSFTGDEERLIIQLHAQLG-NKWARMAAQLP--GRTDNEIKNYWNTRLKRLL--*
+>P1;gi|23343577|emb|CAC85051.1| Myb13 protein [Oryza sativa] >gi|233... [ score 106 E 1e-22 ] [ range 64 .. 116 ]
+sequence
+---DLKRGLLTDAEEQLVIDLHAKLG-NRWSKIAAKLP--GRTDNEIKNHWNTHIKKKL--*
+>P1;gi|37589316|gb|AAH59803.1| Cmyb protein [Danio rerio] [ score 106 E 2e-22 ] [ range 141 .. 194 ] [ duplicate a ]
+sequence
+---EVKKTSWTEEEDQIIYQAHEKLG-NRWAEIAKLLP--GRTDNAIKNHWNSTMRRKVE-*
+>P1;gi|18399724|ref|NP_566434.1| myb family transcription factor [Ar... [ score 106 E 2e-22 ] [ range 74 .. 126 ]
+sequence
+---DLRRGSFNEEEEQIIIDVHRILG-NKWAQIAKHLP--GRTDNEVKNFWNSCIKKKL--*
+>P1;gi|15221419|ref|NP_172108.1| myb family transcription factor [Ar... [ score 106 E 2e-22 ] [ range 64 .. 117 ]
+sequence
+---DIKRGNFTPHEEDTIISLHQLLG-NRWSAIAAKLP--GRTDNEIKNVWHTHLKKRLH-*
+>P1;gi|6651292|gb|AAF22256.1| myb-related transcription factor [Pimp... [ score 106 E 2e-22 ] [ range 64 .. 116 ]
+sequence
+---DLKRGLLTDAEEQLVIDLHARLG-NRWSKIAGRLP--GRTDNEIKNHWNTHIKKKL--*
+>P1;gi|18071376|gb|AAL58235.1| putative transcription factor [Oryza ... [ score 106 E 2e-22 ] [ range 65 .. 116 ]
+sequence
+----IRRGGFSHHEERLILHLQALLG-NRWAAIASYLP--HRTDNDVKNFWNTHLKKKL--*
+>P1;gi|1709197|sp|Q05935|MYBA_XENLA Myb-related protein A (A-Myb) (X... [ score 106 E 2e-22 ] [ range 135 .. 188 ]
+sequence
+---DVKKSSWTEEEDRIIYSAHKRMG-NRWAEIAKLLP--GRTDNSIKNHWNSTMKRKVE-*
+>P1;gi|7438350|pir||T03972 anthocyanin biosynthesis regulatory prote... [ score 106 E 2e-22 ] [ range 65 .. 115 ]
+sequence
+----IKRGNISYDEEDLIVRLHKLLG-NRWSLIAGRLP--GRTDNEIKNYWNSTLGRR---*
+>P1;gi|15082210|gb|AAK84064.1| transcription factor MYB1 [Fragaria x... [ score 105 E 2e-22 ] [ range 63 .. 115 ]
+sequence
+---DLKRGSFGEDEEDLIIRLHKLLG-NRWSLIAGRLP--GRTDNEVKNYWNSHLKKKI--*
+>P1;gi|19072738|gb|AAL84614.1| typical P-type R2R3 Myb protein [Zea ... [ score 105 E 2e-22 ] [ range 65 .. 117 ]
+sequence
+---DIKRGRFTDDEEKLIIHLHSLLG-NKWCAIATKLS--GRTDNEIKNYWNTHLRKKL--*
+>P1;gi|25992257|gb|AAN77122.1| telomere double-strand DNA-binding pr... [ score 104 E 5e-22 ] [ range 361 .. 413 ]
+sequence
+---RKRQ-TWLWEEDRILKCGVKKYGEGNWAKILSHYKFNNRTSVMLKDRWRTMKRL----*
+>P1;gi|5032169|ref|NP_005643.1| telomeric repeat binding factor 2; t... [ score 102 E 2e-21 ] [ range 446 .. 497 ]
+sequence
+----KKQ-KWTVEESEWVKAGVQKYGEGNWAAISKNYPFVNRTAVMIKDRWRTMKRL----*
+>P1;gi|34866019|ref|XP_238387.2| similar to telomeric repeat binding... [ score 102 E 2e-21 ] [ range 336 .. 388 ]
+sequence
+---RKKQ-TWLWEEDRSLKCGVRKYGEGNWAKILSHYKFNNRTSVMLKDRWRTMRRL----*
+>P1;gi|37545481|ref|XP_208097.2| similar to telomeric repeat binding... [ score 101 E 4e-21 ] [ range 344 .. 396 ]
+sequence
+---RKRQ-SWLWEEDRNLRSGVRKYGEGNWSKILLHYKFNNRTSVMLKDRWRTMKKL----*
+>P1;gi|6678289|ref|NP_033379.1| telomeric repeat binding factor 2 [M... [ score 100 E 2e-20 ] [ range 441 .. 492 ]
+sequence
+----RKQ-KWTIEESEWVKDGVRKYGEGNWAAISKSYPFVNRTAVMIKDRWRTMKKL----*
+>P1;gi|21542298|sp|Q9PU53|TRF2_CHICK Telomeric repeat binding factor... [ score 99 E 4e-20 ] [ range 664 .. 715 ]
+sequence
+----KKQ-KWTVQESEWIKDGVRKYGEGRWKTISEKYPFQNRTSVQIKDRYRTMKKL----*
+>P1;gi|37545118|ref|XP_209083.2| similar to telomeric repeat binding... [ score 97 E 7e-20 ] [ range 344 .. 396 ]
+sequence
+---RKRQ-AWLQEEDKNLRSGVRKYGEGNWSKILLHYKFNNRTSVTLKDRWRTTKKL----*
+>P1;gi|34851661|ref|XP_341684.1| similar to TTAGGG repeat binding fa... [ score 97 E 1e-19 ] [ range 482 .. 533 ]
+sequence
+----RKQ-KWTIEESEWVKDGVQKYGEGNWVAISKSYPFVNRTAVMIKDRWRTMKKL----*
+>P1;gi|33327142|gb|AAQ08949.1| telomeric repeat binding factor 1 [Xe... [ score 96 E 2e-19 ] [ range 359 .. 411 ]
+sequence
+---KKRQ-HWTSEQDELLKKGVRKFGVGNWSKILLHYEFRNRTGVMLKDRWRTMKRL----*
+>P1;gi|32401108|gb|AAP80749.1| TTAGGG repeat binding factor 1 [Gallu... [ score 93 E 2e-18 ] [ range 292 .. 344 ]
+sequence
+---RRRQ-PWTYEEDKKLKSGVREFGVGNWTKILIHGDFNNRTSVMLKDRWRTLCKI----*
+>P1;gi|27545243|ref|NP_775350.1| telomeric repeat binding factor a [... [ score 91 E 8e-18 ] [ range 522 .. 572 ]
+sequence
+-----RK-MWSVQESEWLKQGVVRYGVGHWERIRSAFPFAGRTAVNLKDRWRTMVKL----*
+>P1;gi|40388419|gb|AAR85480.1| ANTHER INDEHISCENCE1 [Oryza sativa (j... [ score 86 E 2e-16 ] [ range 373 .. 426 ]
+sequence
+---RKAR-KWCALEEETLRKGVEQYGNGNWKDILTNNPFIGRKAMDLKDKWRNMMR-----*
+>P1;gi|41619068|gb|AAS10016.1| MYB transcription factor [Arabidopsis... [ score 84 E 6e-16 ] [ range 198 .. 249 ]
+sequence
+---RKRK-RWSAEEDEELFAAVKRCGEGNWAHIVKGDFRGERTASQLSQRWALIRK-----*
+>P1;gi|2224901|gb|AAB61700.1| PcMYB1 protein [Petroselinum crispum] [ score 83 E 1e-15 ] [ range 15 .. 67 ]
+sequence
+----HKQ-KWTAEEEEALKAGVKKHGMGKWKTILVDPDFTHRSNIDLKDKWRNL-------*
+>P1;gi|22329629|ref|NP_564025.2| myb family transcription factor [Ar... [ score 83 E 2e-15 ] [ range 496 .. 547 ]
+sequence
+-----HR-AWTISEVEKLVEGVSKYGVGKWTEILSFSPYTHRTTVDLKDKWRNLQK-----*
+>P1;gi|34394040|dbj|BAC84071.1| unknown protein [Oryza sativa (japon... [ score 83 E 2e-15 ] [ range 327 .. 380 ]
+sequence
+---KTRK-KWSEKQEKTLLEGVEKYGKGNWKDIKMAYPFEDRSTVDLKDKFRNLER-----*
+>P1;gi|32417788|ref|XP_329372.1| hypothetical protein [Neurospora cr... [ score 82 E 2e-15 ] [ range 274 .. 324 ]
+sequence
+---KPRR-KWSDEETNNLLLGVSRHGVGKWTTILPDYKFNDRTAGDLKDRFRT--------*
+>P1;gi|27902227|emb|CAD23060.1| putative Myb-family transcription fa... [ score 82 E 5e-15 ] [ range 165 .. 217 ]
+sequence
+---KKPK-PWSREEDMELGAGVQKHGEGNWMEILHKYKFSSRTHLQLQQRWALICK-----*
+>P1;gi|25406198|pir||B96751 hypothetical protein F28P22.16 [imported... [ score 81 E 5e-15 ] [ range 543 .. 596 ]
+sequence
+---KHHR-AWTLSEIAKLVEGVSKYGAGKWSEIKKHSSHSYRTSVDLKDKWRNLLK-----*
+>P1;gi|6691169|gb|AAF24519.1| putative telomeric DNA binding protein... [ score 81 E 1e-14 ] [ range 580 .. 631 ]
+sequence
+---RQYR-RWSDEETSLLIDGVNKFGLGKWRIILATSKLTNRDEVGLKDRWRNLVK-----*
+>P1;gi|34105721|gb|AAQ62068.1| Single myb histone 4 [Zea mays subsp.... [ score 78 E 6e-14 ] [ range 4 .. 56 ]
+sequence
+----PKQ-KWTSEEEDALRAGVRKHGAGKWRTIQKDPEFSSRSNIDLKDKWRNL-------*
+>P1;gi|34105717|gb|AAQ62066.1| Single myb histone 3 [Zea mays subsp.... [ score 75 E 4e-13 ] [ range 4 .. 56 ]
+sequence
+----PKQ-KWTSEEEDALRRGVRKHGAGKWRTIQKDPQFSSRSNIDLKDKWRNL-------*
+>P1;gi|42733516|dbj|BAD11355.1| BRI1-KD interacting protein 127 [Ory... [ score 74 E 8e-13 ] [ range 1 .. 51 ]
+sequence
+------Q-KWTAEEESALKAGIAKHGAGKWRTILKDPDFSNRSNVDLKDKWRNM-------*
+>P1;gi|27125811|emb|CAD44620.1| MYB28 protein [Oryza sativa (japonic... [ score 74 E 9e-13 ] [ range 4 .. 56 ]
+sequence
+----PKQ-KWTSEEEEALRRGVLKHGPGKWRTIQKDPEFSSRSNIDLKDKWRNL-------*
+>P1;gi|18402853|ref|NP_564559.1| DNA-binding protein, putative [Arab... [ score 73 E 2e-12 ] [ range 4 .. 56 ]
+sequence
+----PKQ-KWTQEEESALKSGVIKHGPGKWRTILKDPEFSGRSNVDLKDKWRNM-------*
+>P1;gi|42563182|ref|NP_177418.2| DNA-binding family protein / histon... [ score 73 E 2e-12 ] [ range 4 .. 56 ]
+sequence
+----QKL-KWTAEEEEALLAGIRKHGPGKWKNILRDPEFIHRSNIDLKDKWRNL-------*
+>P1;gi|30696229|ref|NP_176118.2| myb family transcription factor [Ar... [ score 72 E 2e-12 ] [ range 193 .. 244 ]
+sequence
+---KRRK-KWSAEEDEELIAAVKRHGEGSWALISKEEFEGERTASQLSQRWGAIRR-----*
+>P1;gi|26452093|dbj|BAC43136.1| putative myb-related DNA-binding pro... [ score 72 E 5e-12 ] [ range 4 .. 56 ]
+sequence
+----QKL-KWTAEEEEALLAGVRKHGPGKWKNILRDPELSSRSNIDLKDKWRNL-------*
+>P1;gi|34912214|ref|NP_917454.1| putative telomere repeat binding fa... [ score 71 E 5e-12 ] [ range 4 .. 56 ]
+sequence
+----PKQ-RWTAEEEAALKAGVAKHGTGKWRTILRDPEFTARSNVDLKDKWRNL-------*
+>P1;gi|34105723|gb|AAQ62069.1| Single myb histone 6 [Zea mays subsp.... [ score 71 E 6e-12 ] [ range 4 .. 56 ]
+sequence
+----PKQ-RWTSEEEAALRAGIARHGVGKWRTILKDPEFSSRSNVDLKDKWRNM-------*
+>P1;gi|42549567|gb|EAA72410.1| hypothetical protein FG08713.1 [Gibbe... [ score 71 E 8e-12 ] [ range 230 .. 280 ]
+sequence
+---KPRR-KWSEEETSHLLLGVNRHGVGKWTNILEDFTFDGRTAGDLKDRFRT--------*
+>P1;gi|34105719|gb|AAQ62067.1| Single myb histone 5 [Zea mays subsp.... [ score 70 E 1e-11 ] [ range 4 .. 56 ]
+sequence
+----PKQ-RWTSEEEAALRAGVARHGVGNWRMILNDPELSSRSNVDLKDKWRNM-------*
+>P1;gi|33286863|gb|AAQ01754.1| Single myb histone 1 [Zea mays subsp.... [ score 69 E 2e-11 ] [ range 4 .. 56 ]
+sequence
+----PKQ-RWTPEEEAALKAGVAKHGPGKWRTILRDSDFSARSNVDLKDKWRNL-------*
+>P1;gi|38100366|gb|EAA47503.1| hypothetical protein MG02746.4 [Magna... [ score 69 E 3e-11 ] [ range 284 .. 334 ]
+sequence
+---KPRR-KWTEEETNHLLIGVSRHGVGKWTSILEDPDFNDRTAGDLKDRFRT--------*
+>P1;gi|18481426|gb|AAL73441.1| telomere repeat binding factor 2 [Ara... [ score 67 E 8e-11 ] [ range 4 .. 56 ]
+sequence
+----PKQ-KWTPEEEAALKAGVLKHGTGKWRTILSDSEFSSRSNVDLKDKWRNI-------*
+>P1;gi|25402832|pir||B86311 protein F1L3.16 [imported] - Arabidopsis... [ score 67 E 2e-10 ] [ range 494 .. 538 ]
+sequence
+-----HR-AWTISEVEKLVEGVSKYGVGKWTEILSFSPYTHRTTVDLKE------------*
+>P1;gi|15229625|ref|NP_190554.1| myb family transcription factor [Ar... [ score 64 E 7e-10 ] [ range 4 .. 56 ]
+sequence
+----PKL-KWTPEEETALKAGVLKHGTGKWRTILSDPVYSSRSNVDLKDKWRNI-------*
+>P1;gi|19114624|ref|NP_593712.1| hypothetical Myb-like DNA-binding p... [ score 64 E 1e-09 ] [ range 53 .. 104 ]
+sequence
+---KPRV-KWTEKETNDLLRGCQIHGVGNWKKILLDFHFTNRSPNDLKDRFRTI-------*
+>P1;gi|40741177|gb|EAA60367.1| hypothetical protein AN4797.2 [Asperg... [ score 64 E 1e-09 ] [ range 304 .. 350 ]
+sequence
+------R-KWTDEETVALLRGVMKCGIGNWKEVLAQDEFNRRTASNLKDRFR---------*
+>P1;gi|30687001|ref|NP_850275.1| pathogen-responsive DNA-binding pro... [ score 61 E 6e-09 ] [ range 289 .. 343 ]
+sequence
+---RKNQ-RWTLDEVMNLVDGISHFGVGKWTDIKNHFFHAHRKPVDIRDKWRNLLK-----*
+>P1;gi|15218285|ref|NP_173024.1| myb family transcription factor [Ar... [ score 60 E 2e-08 ] [ range 336 .. 386 ]
+sequence
+---RPMK-FWTSEEVAALREGVKEYGK-SWKDIKNSYPFADRSEVDLKDKWRNL-------*
+>P1;gi|15232327|ref|NP_190947.1| telomere-binding protein, putative ... [ score 57 E 1e-07 ] [ range 313 .. 365 ]
+sequence
+---RIRR-PFTVSEVEALVQAVERLGTGRWRDVKSHAFVNHRTYVDLKDKWKTLV------*
+>P1;gi|2129918|pir||S60306 BPF-1 protein - parsley >gi|396197|emb|CA... [ score 56 E 2e-07 ] [ range 582 .. 634 ]
+sequence
+---RTRR-PFSVSEVEALVEAVETLGTGRWRDVKSFDDANHRTYVDLKDKWKTLV------*
+>P1;gi|15240725|ref|NP_196886.1| telomeric DNA-binding protein 1 (TB... [ score 56 E 3e-07 ] [ range 533 .. 585 ]
+sequence
+---RTRR-PFSVTEVEALVSAVEEVGTGRWRDVKLRSFENHRTYVDLKDKWKTLV------*
+>P1;gi|19075086|ref|NP_586687.1| hypothetical protein [Encephalitozo... [ score 55 E 4e-07 ] [ range 42 .. 96 ]
+sequence
+---RKPQ-PWSTEEKEALLKGVKEFGRGKWKEILEKYFNESRRHIDLSDKLRVINK-----*
+>P1;gi|6715640|gb|AAF26467.1| T25K16.14 [Arabidopsis thaliana] [ score 55 E 5e-07 ] [ range 211 .. 270 ]
+sequence
+----KRV-LWTVNEEKMLREGVEKFSNMPWKKILKGIFHTTRNSSDLKDKWRNMVRI----*
+>P1;gi|479393|pir||S33643 transforming protein B-myb - African clawe... [ score 55 E 6e-07 ] [ range 29 .. 73 ]
+sequence
+---RVKV-KWTPEEDETLKALVKKHGQGEWKTIASN--LNNRTEQQCQHRW----------*
+>P1;gi|1076813|pir||S46309 initiator-binding protein - maize [ score 54 E 1e-06 ] [ range 580 .. 632 ]
+sequence
+---RIRR-PFSVAEVEALVLAVEKLGTGRWRDVKLRAFDNHRTYVDLKDKWKTLV------*
+>P1;gi|42565667|ref|NP_190243.2| telomere repeat-binding protein, pu... [ score 54 E 1e-06 ] [ range 450 .. 502 ]
+sequence
+---RIRR-PFSVTEVEALVQAVEKLGTGRWRKVRAFEDADHRTYVDLKDKWKTLV------*
+>P1;gi|9294371|dbj|BAB02267.1| H-protein promoter binding factor-1 [... [ score 53 E 2e-06 ] [ range 525 .. 577 ]
+sequence
+---RTRR-PFSVTEVEALVQAVEELGTGRWRDVKLFEDADHRTYVDLKDKWKTLV------*
+>P1;gi|11358525|pir||T48405 myb-like protein - Arabidopsis thaliana ... [ score 53 E 2e-06 ] [ range 337 .. 397 ]
+sequence
+---RRRL-LWTYEEEEMLKVGVEKFAEANWRKILEKVFHETRTPADLKDKWRSMVKI----*
+>P1;gi|9716453|gb|AAF97508.1| telomere binding protein-1; TBP1 [Oryz... [ score 52 E 3e-06 ] [ range 532 .. 584 ]
+sequence
+---RIRR-PFTVAEVELLVEAVEHLGTGRWRDV-KFRAFENRTYVDLKDKWKTLV------*
+>P1;gi|23664357|gb|AAN39330.1| telomere binding protein TBP1 [Nicoti... [ score 52 E 3e-06 ] [ range 575 .. 627 ]
+sequence
+---RIRR-PFSVAEVEALVEAVEHLGTGRWRDVKMRAFDNHRTYVDLKDKWKTLV------*
+>P1;gi|12043533|emb|CAC19789.1| MYB-like DNA-binding protein [Cathar... [ score 52 E 3e-06 ] [ range 587 .. 639 ]
+sequence
+---RTRR-PFSVAEVEALVEAVEILGTGRWRDVKMRAFDNHRTYVDLKDKWKTLV------*
+>P1;gi|15238420|ref|NP_200751.1| telomere repeat-binding protein 1 (... [ score 50 E 1e-05 ] [ range 466 .. 518 ]
+sequence
+---RIRR-PFSVAEVEALVQAVEKLGTGRWRDVKLFEDADHRTYVDLKDKWKTLV------*
+>P1;gi|6325129|ref|NP_015197.1| TTAGGG repeat binding factor; Tbf1p ... [ score 49 E 2e-05 ] [ range 407 .. 464 ]
+sequence
+---KAKR-TWSKEEEEALVEGLKEVGP-SWSKILDLYNLKNRTQVQLKDKARNWK------*
+>P1;gi|15235447|ref|NP_193003.1| expressed protein [Arabidopsis thal... [ score 48 E 5e-05 ] [ range 436 .. 494 ]
+sequence
+---RKRR-FWTLAEVEMLRVGVQKFGERNWRKILRDVFHDERAPSDLKDKWKTLNKI----*
+>P1;gi|7446176|pir||T04452 transforming protein myb homolog F4D11.70... [ score 47 E 1e-04 ] [ range 26 .. 70 ]
+sequence
+-----KG-PWSKEEDNTIIDLVEKYGPKKWSTISQHLP--GRIGKQCRERWHN--------*
+>P1;gi|8574644|gb|AAF77638.1| putative c-myb-like transcription fact... [ score 47 E 2e-04 ] [ range 87 .. 131 ]
+sequence
+-----RG-PWSKEEDNTIIDLVEKYGPKKWSTISQHLP--GRIGKQCRERWHN--------*
+>P1;gi|7428542|pir||TVCHM transforming protein myb, splice form cont... [ score 47 E 2e-04 ] [ range 40 .. 82 ]
+sequence
+-----KT-RWTREEDEKLKKLVEQNGTEDWKVIASFLP--NRTDVQCQHRW----------*
+>P1;gi|37589316|gb|AAH59803.1| Cmyb protein [Danio rerio] [ score 46 E 2e-04 ] [ range 40 .. 82 ]
+sequence
+-----KT-RWTREEDEKLKRLVEHHGSEDWKVIASFLP--NRTDVQCQHRW----------*
+>P1;gi|18858447|ref|NP_571341.1| transcription factor cmyb [Danio re... [ score 46 E 2e-04 ] [ range 40 .. 82 ]
+sequence
+-----KS-RWTREEDEKLKRLVEHHGSEDWKVIASFLP--NRTDVQCQHRW----------*
+>P1;gi|27261820|ref|NP_758842.1| small nuclear RNA activating comple... [ score 46 E 2e-04 ] [ range 452 .. 500 ]
+sequence
+----KKG-RWNAKEEQQLIQLIEKYGVGHWARIASELP--HRSGSQCLSKWKILAR-----*
+>P1;gi|16326135|dbj|BAB70511.1| Myb [Nicotiana tabacum] [ score 46 E 3e-04 ] [ range 88 .. 132 ]
+sequence
+-----KG-PWSKEEDEVIVELVKKYGPKKWSTIAQHLP--GRIGKQCRERWHN--------*
+>P1;gi|25406981|pir||A86210 protein F22G5.8 [imported] - Arabidopsis... [ score 46 E 3e-04 ] [ range 595 .. 655 ]
+sequence
+---RIRR-PFSVAEVEALVQAVERLGTGRWRDVKLRAFDNHRTYVDLKDKWKTLV------*
+>P1;gi|34853083|ref|XP_342390.1| similar to RIKEN cDNA 5730436L13; s... [ score 45 E 3e-04 ] [ range 495 .. 543 ]
+sequence
+----KKG-RWDAKEEQQLIQLIEKYGVGHWARIASELP--HRSGSQCLSKWKILAR-----*
+>P1;gi|2129647|pir||S71285 myb-related protein, 33.2K - Arabidopsis ... [ score 44 E 7e-04 ] [ range 4 .. 50 ]
+sequence
+---RVKG-PWSQEEDEQLRRMVEKYGPRNWSAISKSIP--GRSGKSCRLRWCN--------*
+>P1;gi|43686087|gb|EAE98207.1| unknown [environmental sequence] [ score 44 E 8e-04 ] [ range 2 .. 52 ]
+sequence
+--------PWTLAESRALVDGVETCAGCRWTVIKRLGSLERRTAMDLKDKWRNLLQL----*
+>P1;gi|730090|sp|Q08759|MYB_XENLA Myb protein >gi|2118431|pir||I5158... [ score 44 E 8e-04 ] [ range 37 .. 79 ]
+sequence
+-----KT-RWTREEDEKLKKLVEQNGTEEWKVIASFLP--NRTDVQCQHRW----------*
+>P1;gi|6678974|ref|NP_032678.1| myeloblastosis oncogene-like 2 [Mus ... [ score 44 E 0.001 ] [ range 29 .. 73 ]
+sequence
+---RCKV-KWTHEEDEQLRALVRQFGQQDWKFLASHFP--NRTDQQCQYRW----------*
+>P1;gi|34860647|ref|XP_215922.2| similar to B-myb [Rattus norvegicus] [ score 44 E 0.001 ] [ range 68 .. 108 ]
+sequence
+--------KWTHEEDELLRALVRQFGQQDWKFLASHFP--NRTDQQCQYRW----------*
+>P1;gi|40714443|dbj|BAD06940.1| transcription factor C-MYB [Oryzias ... [ score 44 E 0.001 ] [ range 40 .. 82 ]
+sequence
+-----KT-RWTREEDEKLKKLVELHGSEDWKVI--ASLLSNRTDVQCQHRW----------*

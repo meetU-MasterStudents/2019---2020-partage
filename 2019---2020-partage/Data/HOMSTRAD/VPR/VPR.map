@@ -1,0 +1,906 @@
+>P1;1vpc
+structureX:1vpc:  52 : :  96 : :C-terminal domain of the HIV-1 regulatory protein VPR:Synthetic construct: -1: -1
+---------DTWTGVEALIRILQQLLFIHFRIGCRHSR-IGIIQQRRTRNGASKS-*
+>P1;1ceua
+structureX:1ceu:   1 :A:  51 :A:N-terminal domain of the HIV-1 regulatory protein:Synthetic construct: -1: -1
+MEQAPEDQGPQ---REPYNDWTLELLEELKNEAVRHFPRIWLHSLGQH--IYETYG*
+>P1;gi|38491919|gb|AAR22284.1| vpr protein [Human immunodeficiency v... [ score 100 E 1e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCQHSR-IGITPQRRARNGSSRS-*
+>P1;gi|38892757|gb|AAR27750.1| vpr protein [Human immunodeficiency v... [ score 99 E 2e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|12964713|gb|AAK11285.1| vpr protein [Human immunodeficiency v... [ score 99 E 2e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGIIRQRRARNGASRS-*
+>P1;gi|17046901|gb|AAL34903.1| vpr protein [Human immunodeficiency v... [ score 99 E 3e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRMLQQLLFIHFKIGCQHSR-IGILRRRRARNGASRS-*
+>P1;gi|11321001|gb|AAG33995.1| vpr protein [Human immunodeficiency v... [ score 99 E 3e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRILQQLLFTHFRIGCQHSR-IGILQQRRGRNGASRS-*
+>P1;gi|17046765|gb|AAL34781.1| vpr protein [Human immunodeficiency v... [ score 99 E 3e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEALIRILQQLLFIHFRIGCQHSR-IGILQQRRARNGASRS-*
+>P1;gi|1477880|gb|AAB05523.1| vpr protein [Human immunodeficiency vi... [ score 99 E 3e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGITRQRRARNGASRS-*
+>P1;gi|38892729|gb|AAR27725.1| vpr protein [Human immunodeficiency v... [ score 99 E 3e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|32344849|gb|AAM82304.1| vpr protein [Human immunodeficiency v... [ score 99 E 3e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCHHSR-IGIIRQRRARNGASRS-*
+>P1;gi|17046615|gb|AAL34646.1| vpr protein [Human immunodeficiency v... [ score 99 E 3e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRVLQQLLFIHFRIGCHHSR-IGIMQQRRARNGASRS-*
+>P1;gi|3327708|gb|AAC41144.1| vpr protein [Human immunodeficiency vi... [ score 99 E 3e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGITPRRRARNGASRS-*
+>P1;gi|17046755|gb|AAL34772.1| vpr protein [Human immunodeficiency v... [ score 98 E 4e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFVHFRIGCQHSR-IGILQQRRARNGASRS-*
+>P1;gi|25167059|gb|AAN73825.1| vpr protein [Human immunodeficiency v... [ score 98 E 4e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFVHFRIGCHHSR-IGITPQRRTRNGASRS-*
+>P1;gi|5001951|gb|AAD37226.1| vpr protein [Human immunodeficiency vi... [ score 98 E 4e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEALIRILQQLLFIHFRIGCRHSR-IGITQQRRARNGASRS-*
+>P1;gi|38892648|gb|AAR27653.1| vpr protein [Human immunodeficiency v... [ score 98 E 4e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGILRQRRARNGANRS-*
+>P1;gi|3218152|emb|CAB05080.1| vpr [Human immunodeficiency virus 1] [ score 98 E 5e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRILQQLLFIHFRIGCRHSR-IGITPQRRTRNGASRS-*
+>P1;gi|16751262|gb|AAL05337.1| vpr protein [Human immunodeficiency v... [ score 98 E 5e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALLRILQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|12957265|gb|AAK09112.1| vpr protein [Human immunodeficiency v... [ score 98 E 5e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGIIRQRRARNGANRS-*
+>P1;gi|12957247|gb|AAK09097.1| vpr protein [Human immunodeficiency v... [ score 98 E 5e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRVLQQLLFIHFRIGCQHSR-IGILQQRRARNGASRS-*
+>P1;gi|3218475|emb|CAB05070.1| vpr [Human immunodeficiency virus 1] [ score 98 E 5e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEALIRILQQLLFIHFRIGCRHSR-IGIIPPRRTRNGASRS-*
+>P1;gi|22596255|gb|AAN03045.1| vpr protein [Human immunodeficiency v... [ score 98 E 5e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCHHSR-IGILRQRRARNGASRS-*
+>P1;gi|17046535|gb|AAL34574.1| vpr protein [Human immunodeficiency v... [ score 98 E 6e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAILRILQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|17046911|gb|AAL34912.1| vpr protein [Human immunodeficiency v... [ score 98 E 6e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRILQQLLFIHFRIGCQHSR-IGIILQRRTRNGASRS-*
+>P1;gi|22297043|gb|AAM94499.1| vpr protein [Human immunodeficiency v... [ score 98 E 6e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFVHFRIGCQHSR-IGIIPGRRGRNGASRS-*
+>P1;gi|15788300|gb|AAL07747.1| vpr protein [Human immunodeficiency v... [ score 98 E 7e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCQHSR-IGIIRQRRARNGASRS-*
+>P1;gi|1477888|gb|AAB05527.1| vpr protein [Human immunodeficiency vi... [ score 97 E 7e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFVHFRIGCQHSR-IGIIRQRRARNGASRS-*
+>P1;gi|13569321|gb|AAK31056.1| vpr protein [Human immunodeficiency v... [ score 97 E 7e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALTRILQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|26000257|gb|AAN75292.1| vpr protein [Human immunodeficiency v... [ score 97 E 8e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRVLQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|18766386|gb|AAL78992.1| vpr protein [Simian-Human immunodefic... [ score 97 E 8e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLLIHFRIGCQHSR-IGIIRQRRTRNGASRS-*
+>P1;gi|12957277|gb|AAK09122.1| vpr protein [Human immunodeficiency v... [ score 97 E 8e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEALIRVLQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|7444510|pir||T09444 vpr protein - human immunodeficiency viru... [ score 97 E 8e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGITRQRRARNGASRS-*
+>P1;gi|17046805|gb|AAL34817.1| vpr protein [Human immunodeficiency v... [ score 97 E 8e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGIIRQRRTRNGDSRS-*
+>P1;gi|11321011|gb|AAG34004.1| vpr protein [Human immunodeficiency v... [ score 97 E 8e-20 ] [ range 52 .. 95 ]
+sequence
+---------DTWTGVETIIRILQQLLFIHFRIGCQHSR-IGILQQRRARNGASR--*
+>P1;gi|3252930|gb|AAD12081.1| vpr protein [Human immunodeficiency vi... [ score 97 E 8e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEMIIRILQQLLFIHFRIGCQHSR-IGILPQRRARNGASRS-*
+>P1;gi|7416716|dbj|BAA93998.1| Vpr protein [Human immunodeficiency v... [ score 97 E 9e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIKILQQLLFIHFRIGCRHSR-IGITRQRRARNGASRS-*
+>P1;gi|3252950|gb|AAD12099.1| vpr protein [Human immunodeficiency vi... [ score 97 E 9e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVETMIRMLQQLLFIHFRIGCQHSR-IGILPQRRARNGASRS-*
+>P1;gi|4336343|gb|AAD17769.1| vpr protein [Human immunodeficiency vi... [ score 97 E 9e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAVIRILQQLLFIHFRIGCHHSR-IGIIPQRRGRNGASRS-*
+>P1;gi|139394|sp|P20891|VPR_HV1OY VPR PROTEIN (R ORF PROTEIN) >gi|32... [ score 97 E 9e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCQHSR-IGITRQRRARNGASRS-*
+>P1;gi|7416652|dbj|BAA93966.1| Vpr protein [Human immunodeficiency v... [ score 97 E 9e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEALIRMLQQLLFIHFRIGCQHSR-IGITRQRRARNGASRS-*
+>P1;gi|38892665|gb|AAR27668.1| vpr protein [Human immunodeficiency v... [ score 97 E 9e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGTLRQRRARNGASRS-*
+>P1;gi|12957253|gb|AAK09102.1| vpr protein [Human immunodeficiency v... [ score 97 E 9e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWMGVEALIRILQQLLFIHFRIGCQHSR-IGIIRQRRARNGASRS-*
+>P1;gi|17046605|gb|AAL34637.1| vpr protein [Human immunodeficiency v... [ score 97 E 9e-20 ] [ range 52 .. 96 ]
+sequence
+---------DTWMGVEALLRILQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|17046891|gb|AAL34894.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRMLQQLLFIHFRIGCQHSR-IGILRQRRARNGANRS-*
+>P1;gi|1160025|emb|CAA92866.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRMLQQLLFIHFRIGCRHSR-IGIAPQRRARNGASRS-*
+>P1;gi|1477796|gb|AAB05481.1| vpr protein [Human immunodeficiency vi... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFTHFRIGCQHSR-IGITRQRRARNGASRS-*
+>P1;gi|5738569|emb|CAB53045.1| VPR protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCQHSR-IGIMRQRRGRNGASRS-*
+>P1;gi|7021461|gb|AAF35360.1| vpr [Human immunodeficiency virus 1] [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCHHSR-LGIIRQRRARNGASRS-*
+>P1;gi|1160081|emb|CAA92894.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGITQRRRARNGASRS-*
+>P1;gi|4336333|gb|AAD17759.1| vpr protein [Human immunodeficiency vi... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCHHSR-IGIIPQRRGRNGASRS-*
+>P1;gi|12957343|gb|AAK09177.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRILQQLLFIHFRIGCQHSR-IGILRQRRSRNGASRS-*
+>P1;gi|23986224|gb|AAL12185.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRLLQQLLFIHFRIGCQHSR-IGVLRQRRARNGASRS-*
+>P1;gi|13569261|gb|AAK31002.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFVHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|3252940|gb|AAD12090.1| vpr protein [Human immunodeficiency vi... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRLLQQLLFIHFRIGCQHSR-IGIMRQRRARNGASRS-*
+>P1;gi|4324810|gb|AAD17074.1| Vpr [Human immunodeficiency virus type... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVETLIRILQQLLFIHFRIGCQHSR-IGILRQRRTRNGASRS-*
+>P1;gi|17046841|gb|AAL34849.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFTHFRIGCHHSR-IGILRQRRARNGASRS-*
+>P1;gi|38892701|gb|AAR27700.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEVIIRMLQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|1477886|gb|AAB05526.1| vpr protein [Human immunodeficiency vi... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGIIRQRRARNGASRS-*
+>P1;gi|3676484|gb|AAC61989.1| vpr protein [Human immunodeficiency vi... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCQHSR-IGIIPQRRGRNGPSRS-*
+>P1;gi|9368382|emb|CAB98171.1| VPR protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCHHSR-VGIIRQRRGRNGASRS-*
+>P1;gi|15281502|gb|AAK94284.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRVLQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|13569271|gb|AAK31011.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVETIIRILQQLLFIHFRIGCQHSR-IGIVRQRRARNGASRS-*
+>P1;gi|17046545|gb|AAL34583.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGILRQRRTRNGASRS-*
+>P1;gi|6016891|dbj|BAA85228.1| Vpr [Human immunodeficiency virus typ... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRLLQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|3327761|gb|AAC41170.1| vpr protein [Human immunodeficiency vi... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGITPRRRARNGSSRS-*
+>P1;gi|14579615|gb|AAK69332.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCQHSR-IGIMRQRRVRNGASRS-*
+>P1;gi|1688186|gb|AAB51055.1| vpr protein [Human immunodeficiency vi... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRVLQQLLFIHFRIGCHHSR-IGIIRQRGARNGASRS-*
+>P1;gi|5668942|gb|AAD46090.1| vpr protein [Human immunodeficiency vi... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCRHSR-IGIVPQRRVRNGASRS-*
+>P1;gi|3218148|emb|CAB05078.1| vpr [Human immunodeficiency virus 1] [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGITQRRRARNGASRS-*
+>P1;gi|22596457|gb|AAN03223.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIARTLQQLLFVHFRIGCQHSR-IGIIPQRRTRNGSSRS-*
+>P1;gi|38892785|gb|AAR27775.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEALIRMLQQLLFVHFRIGCQHSR-IGILQQRRARNGANRS-*
+>P1;gi|31559693|dbj|BAC77514.1| Vpr protein [Human immunodeficiency ... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRMLQQMLFIHFRIGCQHSR-IGITPQRRARNGAGRS-*
+>P1;gi|17046585|gb|AAL34619.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRTLQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|3327724|gb|AAC41152.1| vpr protein [Human immunodeficiency vi... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVKAIIRILQQLLFIHFRIGCQHSR-IGITPRRRARNGASRS-*
+>P1;gi|17046825|gb|AAL34835.1| vpr protein [Human immunodeficiency v... [ score 97 E 1e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEVIIRILQQLLFIHFRIGCQHSR-IGILRQRRTRNGASRS-*
+>P1;gi|7416662|dbj|BAA93971.1| Vpr protein [Human immunodeficiency v... [ score 97 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCRHSR-IGITPQRRARNGASRS-*
+>P1;gi|17046725|gb|AAL34745.1| vpr protein [Human immunodeficiency v... [ score 97 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIKILQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|2570294|gb|AAC32650.1| Vpr [Human immunodeficiency virus type 1] [ score 97 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGITPQRRARNGSSRS-*
+>P1;gi|23392761|emb|CAD26718.1| Vpr protein [Human immunodeficiency ... [ score 97 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIKILQQLLFIHFRIGCRHSR-IGITPQRRARNGASRS-*
+>P1;gi|14579605|gb|AAK69323.1| vpr protein [Human immunodeficiency v... [ score 97 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCHHSR-IGIIRQRRVRNGASRS-*
+>P1;gi|7416712|dbj|BAA93996.1| Vpr protein [Human immunodeficiency v... [ score 97 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEALLRILQQMLFIHFRIGCHHSR-IGITRQRRARNGASRS-*
+>P1;gi|25166959|gb|AAN73735.1| vpr protein [Human immunodeficiency v... [ score 97 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCHHSR-IGIIPQRRTRNGANRS-*
+>P1;gi|7416708|dbj|BAA93994.1| Vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRTLQQLLFIHFRIGCQHSR-IGITRQRRARNGASRS-*
+>P1;gi|4324864|gb|AAD17128.1| Vpr [Human immunodeficiency virus type 1] [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCLHSR-IGIMRQRRARNGASRS-*
+>P1;gi|13569221|gb|AAK30966.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGMVRQRRARNGASRS-*
+>P1;gi|38491902|gb|AAR22269.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIVRILQQLLFIHFRIGCHHSR-IGVMRQRRGRNGASRS-*
+>P1;gi|13569251|gb|AAK30993.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEVIIRTLQQLLFIHFRIGCQHSR-IGILQQRRARNGASRS-*
+>P1;gi|38491483|gb|AAR21895.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFVHFRIGCQHSR-IGITPQRRVRNGPGRS-*
+>P1;gi|32189802|gb|AAP75713.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRTLQQLLFIHFRIGCHHSR-IGIIRQRRARNGASRS-*
+>P1;gi|12957259|gb|AAK09107.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRVLQQLLFIHFRIGCRHSR-IGILQQRRARNGASRS-*
+>P1;gi|1477800|gb|AAB05483.1| vpr protein [Human immunodeficiency vi... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCRHSR-IGIIPQRRARNGASRS-*
+>P1;gi|2393851|gb|AAB70153.1| Vpr protein [Human immunodeficiency vi... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFTHFRIGCQHSR-IGIIRQRRARNGASRS-*
+>P1;gi|17046555|gb|AAL34592.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGILPRRRARNGSSRS-*
+>P1;gi|37496485|emb|CAD48443.1| vpr protein [Human immunodeficiency ... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFVHFRIGCHHSR-IGIIPQRRGRNGASRS-*
+>P1;gi|38892622|gb|AAR27630.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 95 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGIIRQRRARNGSSR--*
+>P1;gi|3218178|emb|CAB05093.1| vpr [Human immunodeficiency virus 1] [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGITPRRRTRNGASRS-*
+>P1;gi|17046871|gb|AAL34876.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALLRVLQQLLFVHFRIGCQHSR-IGILQQRRARNGSSRS-*
+>P1;gi|16751242|gb|AAL05319.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRVLQQLLFIHFRIGCQHSR-IGILRQRRARNGANRS-*
+>P1;gi|3218156|emb|CAB05082.1| vpr [Human immunodeficiency virus 1] [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCRHSR-IGIIPQRRARNGASRS-*
+>P1;gi|3694864|gb|AAC62478.1| vpr protein [Human immunodeficiency vi... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGIIRQRRARNGSSRS-*
+>P1;gi|7416672|dbj|BAA93976.1| Vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRMLQQLLFIHFRIGCRHSR-IGITRQRRPRNGASRS-*
+>P1;gi|18699224|gb|AAL78471.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGIIQRRRARNGASRS-*
+>P1;gi|26518640|gb|AAN83914.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEALIRILQQLLFIHFRIGCQHSR-IGIIRQRRARNGASRS-*
+>P1;gi|38892766|gb|AAR27758.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRTLQQLLFIHFRIGCQHSR-IGIMRQRRARNGASRS-*
+>P1;gi|13569291|gb|AAK31029.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVETIIRMLQQLLFIHFRIGCQHSR-IGIMRQRRARNGASRS-*
+>P1;gi|25167029|gb|AAN73798.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCNHSR-IGIIRQRRTRNGASRS-*
+>P1;gi|17046665|gb|AAL34691.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRVLQQLLFIHFRIGCSHSR-IGIVRQRRARNGSSRS-*
+>P1;gi|12964721|gb|AAK11289.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCHHSR-IGIIRQRRARNGASRS-*
+>P1;gi|29119299|gb|AAO63217.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGIIPRRRARNGASRS-*
+>P1;gi|3327732|gb|AAC41156.1| vpr protein [Human immunodeficiency vi... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEVIIRILQQLLFIHFRIGCQHSR-IGITPRRRARNGASRS-*
+>P1;gi|16118397|gb|AAL12760.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCHHSR-IGIIRQRRVRNGASRS-*
+>P1;gi|17046655|gb|AAL34682.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGIMRQRRTRNGASRS-*
+>P1;gi|16118331|gb|AAL12702.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAITRMLQQLLFIHFRIGCHHSR-IGITRQRRVRNGASRS-*
+>P1;gi|38892673|gb|AAR27675.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVETIIRILQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|38570376|gb|AAR24626.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCRHSR-IGITQQRRARNGASRS-*
+>P1;gi|38892776|gb|AAR27767.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEVIIRILQQLLFIHFRIGCQHSR-IGILRQRRARNGANRS-*
+>P1;gi|11761286|dbj|BAB19225.1| vpr protein [Human immunodeficiency ... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEALIRTLQQLLFTHFRIGCQHSR-IGIMPGRRARNGASRS-*
+>P1;gi|17046735|gb|AAL34754.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGILRQRRTRNGASRS-*
+>P1;gi|5001969|gb|AAD37235.1| vpr protein [Human immunodeficiency vi... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGIIQQRRARNGASRS-*
+>P1;gi|38892692|gb|AAR27692.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVETMVRILQQLLFTHFRIGCQHSR-IGILQQRRARNGASRS-*
+>P1;gi|16118353|gb|AAL12721.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFVHFRIGCHHSR-IGITRQRRVRNGASRS-*
+>P1;gi|17046625|gb|AAL34655.1| vpr protein [Human immunodeficiency v... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALMRILQQLLFIHFRIGCRHSR-IGILRQRGARNGASRS-*
+>P1;gi|31559627|dbj|BAC77455.1| Vpr protein [Human immunodeficiency ... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHYRIGCQHSR-IGITRQRRARNGASRS-*
+>P1;gi|3327558|gb|AAC41071.1| vpr protein [Human immunodeficiency vi... [ score 96 E 2e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGILRQRRTRNGTSRS-*
+>P1;gi|1185530|gb|AAA87869.1| Vpr [Human immunodeficiency virus type 1] [ score 96 E 3e-19 ] [ range 52 .. 97 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGITPQRRARNGASRS-*
+>P1;gi|6090968|gb|AAF03415.1| vpr protein [Human immunodeficiency vi... [ score 96 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIKILQQLLFIHFRIGCHHSR-IGIIRQRRVRNGASRS-*
+>P1;gi|29119327|gb|AAO63242.1| vpr protein [Human immunodeficiency v... [ score 96 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCHHSR-IGITRQRRVRNGASRS-*
+>P1;gi|3327736|gb|AAC41158.1| vpr protein [Human immunodeficiency vi... [ score 96 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIKCQHSR-IGITPRRRARNGSSRS-*
+>P1;gi|29119339|gb|AAO63253.1| vpr protein [Human immunodeficiency v... [ score 96 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCRHSR-IGITRQRRARNGASRS-*
+>P1;gi|1772628|gb|AAC32296.1| vpr protein [Human immunodeficiency vi... [ score 96 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCRHSR-IGITPQRRARNGASRS-*
+>P1;gi|38892612|gb|AAR27621.1| vpr protein [Human immunodeficiency v... [ score 96 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEVIIRILQQLLFIHYRIGCQHSR-IGILRQRRTRNGASRS-*
+>P1;gi|25166849|gb|AAN73636.1| vpr protein [Human immunodeficiency v... [ score 96 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCRHSR-IGITQQRRTRNGASRS-*
+>P1;gi|7321137|emb|CAB82220.1| vpr protein [Human immunodeficiency v... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIITILQQLLFIHFRIGCQHSR-IGIMRQRRARNGASRS-*
+>P1;gi|16118321|gb|AAL12694.1| vpr protein [Human immunodeficiency v... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIECHHSR-IGIIRQRRARNGASRS-*
+>P1;gi|27446736|gb|AAL62481.1| vpr protein [Human immunodeficiency v... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCRHSR-IGITLQRRARNGASRS-*
+>P1;gi|3114551|gb|AAD03171.1| Vpr [Human immunodeficiency virus type 1] [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCRHSR-IGITRQRRVRNGTSRS-*
+>P1;gi|38892629|gb|AAR27636.1| vpr protein [Human immunodeficiency v... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVETLIRILQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|17046675|gb|AAL34700.1| vpr protein [Human immunodeficiency v... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVETIIRTLQQLLFIHFRIGCQHSR-IGILRQKRARNGASRS-*
+>P1;gi|22596527|gb|AAN03286.1| vpr protein [Human immunodeficiency v... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGIMTQRRARNGASRS-*
+>P1;gi|8218029|emb|CAB92789.1| VPR protein [Human immunodeficiency v... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCRHSR-IGITRQRRARNGASRS-*
+>P1;gi|29119345|gb|AAO63258.1| vpr protein [Human immunodeficiency v... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALISMLQQLLFIHFRIGCRHSR-IGITRQRRARNGASRS-*
+>P1;gi|31559655|dbj|BAC77480.1| Vpr protein [Human immunodeficiency ... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIKTLQQLLFIHFRIGCQHSR-IGIIQQRRARNGASRS-*
+>P1;gi|3327640|gb|AAC41110.1| vpr protein [Human immunodeficiency vi... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCRHSR-IGITPQRRARNGFSRS-*
+>P1;gi|2570305|gb|AAC63086.1| Vpr [Human immunodeficiency virus type 1] [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWRGVEAIIRILQQLLFIHFRIGCRHSR-IGILQQRRARNGASRS-*
+>P1;gi|17046695|gb|AAL34718.1| vpr protein [Human immunodeficiency v... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAITRILQQLLFIHFRIGCQHSR-IGILRQRRARNGANRS-*
+>P1;gi|139384|sp|P12519|VPR_HV1Z2 VPR PROTEIN (R ORF PROTEIN) >gi|10... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEALIRILQQLLFIHFRIGCQHSR-IGITRQRRARNGSSRS-*
+>P1;gi|13569231|gb|AAK30975.1| vpr protein [Human immunodeficiency v... [ score 95 E 3e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRILQQLLFIHFRIGCQHSR-IGIMRQRRARNGASRS-*
+>P1;gi|22596391|gb|AAN03166.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFVHFRIGCQHSR-IGIIRGRRVRNGPSRS-*
+>P1;gi|1171168|gb|AAA86249.1| vpR protein [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRMLQQLLFIHFRIGCQHSR-IGITRQRRARNGASRS-*
+>P1;gi|2393828|gb|AAB70141.1| Vpr protein [Human immunodeficiency vi... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCRHSR-IGIIQQRRTRNGASRS-*
+>P1;gi|3403219|gb|AAC29053.1| vpr protein [Human immunodeficiency vi... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEALIRILQQLLFIHFRIGCQHSR-IGITLRRRVRNGPSRS-*
+>P1;gi|1160079|emb|CAA92893.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRMLQQLLFIHFRIGCQHSR-IGITPRRRARNGASRS-*
+>P1;gi|16118343|gb|AAL12712.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEALIRMLQQLLFIHFRIGCHHSR-IGITRQRRVRNGASRS-*
+>P1;gi|27227844|dbj|BAC45018.1| vpr protein [Human immunodeficiency ... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEDIIRTLQQLLFVHFRIGCQHSR-IGIVRQRRARNGASRS-*
+>P1;gi|3403211|gb|AAC29046.1| vpr protein [Human immunodeficiency vi... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCQHSR-IGITLRRRVRNGPSRS-*
+>P1;gi|33438571|gb|AAA45066.2| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRILQQLLFIHFRIGCQHSR-IGITRQRRARNGASRS-*
+>P1;gi|3327492|gb|AAC41041.1| vpr protein [Human immunodeficiency vi... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCQHSR-IGITRERRARNGASRS-*
+>P1;gi|37725190|gb|AAR02258.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 95 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGITRRGRARNGASR--*
+>P1;gi|25166819|gb|AAN73609.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHYRIGCQHSR-IGITPQRRTRNGSSRS-*
+>P1;gi|2393804|gb|AAB70129.1| Vpr protein [Human immunodeficiency vi... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRTLQQLLFIHFRIGCRHSR-IGIIPQRRARNGASRS-*
+>P1;gi|38892639|gb|AAR27645.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEMVIRILQQLLFIHFRIGCQHSR-IGILRQRRARNGASRS-*
+>P1;gi|1160057|emb|CAA92882.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCRHSR-IGITRQRRARNGSSRS-*
+>P1;gi|16118387|gb|AAL12751.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALTRTLQQLLFIHFRIGCRHSR-IGIIPQRRARNGASRS-*
+>P1;gi|3327740|gb|AAC41160.1| vpr protein [Human immunodeficiency vi... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGITPRRRARNGSSRS-*
+>P1;gi|23394930|gb|AAN31651.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWGGVEAIIRILQQLLFVHFRIGCQHSR-IGITRQRRARNGASRS-*
+>P1;gi|38491784|gb|AAR22163.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIKILQQLLFIHFRIGCQHSR-IGVVRQRRGRNGPSRS-*
+>P1;gi|18643013|gb|AAL74048.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEALIRMLQQLLFIHFRIGCQHSR-IGILRQRRTRNGAGRS-*
+>P1;gi|12957331|gb|AAK09167.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVETIIRILQQLLFIHFRIGCQHSR-IGILRQERARNGANRS-*
+>P1;gi|26000267|gb|AAN75301.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCHHSR-IGILRQRRARNGANRS-*
+>P1;gi|17046645|gb|AAL34673.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEVIIRILQQLLFIHFRIGCQHSR-IGILRQRRARNGPSRS-*
+>P1;gi|27227854|dbj|BAC45027.1| vpr protein [Human immunodeficiency ... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVETIIRILQQLLFIHFRIGCHHSR-IGIVRQRRARNGASRS-*
+>P1;gi|18699137|gb|AAL78410.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRTLQQLLFVHFRIGCQHSR-IGIVQRRRARNGSSRS-*
+>P1;gi|7416668|dbj|BAA93974.1| Vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRMLQQLLFIHFRIGCRHSR-IGITRQRRARNGASRS-*
+>P1;gi|17046851|gb|AAL34858.1| vpr protein [Human immunodeficiency v... [ score 95 E 4e-19 ] [ range 52 .. 95 ]
+sequence
+---------DTWAGVEALLRILQQLLFIHFRIGCQHSR-IGILRQRRARNGASR--*
+>P1;gi|25166657|gb|AAN73464.1| vpr protein [Human immunodeficiency v... [ score 95 E 5e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAMIRTLQQLLFVHFRIGCHHSR-IGIIRQRRTRNGASRS-*
+>P1;gi|22596311|gb|AAN03094.1| vpr protein [Human immunodeficiency v... [ score 95 E 5e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFVHFRIGCQHSR-IGIMRQRRTRNGASRS-*
+>P1;gi|25166799|gb|AAN73591.1| vpr protein [Human immunodeficiency v... [ score 95 E 5e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRILQQLLFIHFRIGCQHSR-IGIIRQRRTRNGASRS-*
+>P1;gi|3114559|gb|AAD03178.1| Vpr [Human immunodeficiency virus type 1] [ score 95 E 5e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGINRQRRARNGASRS-*
+>P1;gi|32344839|gb|AAM82295.1| vpr protein [Human immunodeficiency v... [ score 95 E 5e-19 ] [ range 52 .. 95 ]
+sequence
+---------DTWTGVEAIIRILQQLLFTHFRIGCQHSR-IGIVRQRRTRNGSNR--*
+>P1;gi|16751232|gb|AAL05310.1| vpr protein [Human immunodeficiency v... [ score 95 E 5e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWTGVEAIIRTLQQLLFIHFRIGCQHSR-IGILRQRRARNGANRS-*
+>P1;gi|38570408|gb|AAR24642.1| vpr protein [Human immunodeficiency v... [ score 95 E 5e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIIRILQQLLFIHFRIGCQHSR-IGITRQRRARNGTSRS-*
+>P1;gi|3327704|gb|AAC41142.1| vpr protein [Human immunodeficiency vi... [ score 95 E 5e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWAGVEAIMRILQQLLFIHFRIGCQHSR-IGITPRRRARNGASRS-*
+>P1;gi|9931093|emb|CAC05364.1| viral protein R [Human immunodeficien... [ score 95 E 5e-19 ] [ range 52 .. 96 ]
+sequence
+---------DTWEGVEAIIRILQQLLFIHFRIGCHHSR-IGITRQRRGRNGANRS-*
+>P1;gi|3114551|gb|AAD03171.1| Vpr [Human immunodeficiency virus type 1] [ score 121 E 4e-27 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLDLLEELKNEAVRHFPRPWLHSLGQH--IYNTYG*
+>P1;gi|4324873|gb|AAD17137.1| Vpr [Human immunodeficiency virus type 1] [ score 121 E 6e-27 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWALEILEELKQEAVRHFPRPWLHSLGQY--IYETYG*
+>P1;gi|22596487|gb|AAN03250.1| vpr protein [Human immunodeficiency v... [ score 120 E 7e-27 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWMLELLEDLKNEAVRHFPRPWLHGLGQH--IYETYG*
+>P1;gi|38491794|gb|AAR22172.1| vpr protein [Human immunodeficiency v... [ score 120 E 8e-27 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLEILEELKSEAVRHFPRVWLHGLGQH--IYETYG*
+>P1;gi|1477802|gb|AAB05484.1| vpr protein [Human immunodeficiency vi... [ score 120 E 1e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWALEILEELKSEAVRHFPRIWLHGLGQH--IYETYG*
+>P1;gi|18699231|gb|AAL78477.1| vpr protein [Human immunodeficiency v... [ score 120 E 1e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLELLKELKSEAVRHFPRVWLHGLGQY--IYETYG*
+>P1;gi|3327732|gb|AAC41156.1| vpr protein [Human immunodeficiency vi... [ score 119 E 1e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLGLLEELKNEAVRHFPRTWLHGLGQH--IYETYG*
+>P1;gi|1477880|gb|AAB05523.1| vpr protein [Human immunodeficiency vi... [ score 119 E 2e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLELLEDLKTEAVRHFPRIWLHSLGQY--IYETYG*
+>P1;gi|12957301|gb|AAK09142.1| vpr protein [Human immunodeficiency v... [ score 119 E 2e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLEILEELKQEAVRHFPRTWLHGLGQY--IYETYG*
+>P1;gi|3808274|gb|AAD13361.1| vpr protein [Human immunodeficiency vi... [ score 118 E 3e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWMLELLEDLKHEAVRHFPRPWLHGLGQH--IYNTYG*
+>P1;gi|5668884|gb|AAD46046.1| vpr protein [Human immunodeficiency vi... [ score 118 E 3e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLELLEEFKNEAVRHFPRTWLHSLGQY--IYETYG*
+>P1;gi|32261459|gb|AAP76524.1| vpr protein [Human immunodeficiency v... [ score 118 E 3e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLELLEEIKQEAVRHFPRPWLHSLGQH--IYETYG*
+>P1;gi|3327670|gb|AAC41125.1| vpr protein [Human immunodeficiency vi... [ score 118 E 3e-26 ] [ range 1 .. 51 ]
+sequence
+MEQTPEDQGPQ---REPYNEWTLEFLEELKNEAVRHFPRVWLHGLGQH--IYETYG*
+>P1;gi|22596391|gb|AAN03166.1| vpr protein [Human immunodeficiency v... [ score 118 E 3e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWMLDLLEELKHEAVRHFPRPWLHGLGQH--IYNTYG*
+>P1;gi|38892776|gb|AAR27767.1| vpr protein [Human immunodeficiency v... [ score 118 E 4e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWALELLEDLKQEAVRHFPRPWLHSLGQH--IYETYG*
+>P1;gi|3327582|gb|AAC41082.1| vpr protein [Human immunodeficiency vi... [ score 118 E 4e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLELLEGLKNEAVRHFPRIWLHNLGQH--IYETYG*
+>P1;gi|12964713|gb|AAK11285.1| vpr protein [Human immunodeficiency v... [ score 118 E 4e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLELLEDLKNEPVRHFPRVWLHGLGQH--IYETYG*
+>P1;gi|7021461|gb|AAF35360.1| vpr [Human immunodeficiency virus 1] [ score 118 E 4e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLELSEELKSEAVRHFPRPWLHSLGQH--IYETYG*
+>P1;gi|3327708|gb|AAC41144.1| vpr protein [Human immunodeficiency vi... [ score 118 E 5e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLEPLEELKNEAVRHFPRTWLHGLGQH--IYETYG*
+>P1;gi|5668942|gb|AAD46090.1| vpr protein [Human immunodeficiency vi... [ score 118 E 5e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPGDQGPQ---REPYNEWALEILEELKNEAVRHFPRPWLHGLGQH--IYNTYG*
+>P1;gi|38491579|gb|AAR21981.1| vpr protein [Human immunodeficiency v... [ score 118 E 5e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPFNEWTIELLEELKHEAVRHFPRPWLHGLGQY--IYNTYG*
+>P1;gi|3808244|gb|AAC69282.1| vpr protein [Human immunodeficiency vi... [ score 117 E 7e-26 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNAWILDLLEELKHEAVRHFPRPWLHGLGQH--IYDTYG*
+>P1;gi|2570305|gb|AAC63086.1| Vpr [Human immunodeficiency virus type 1] [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLELLEALKQEAVRHFPRPWLHDLGQY--IYETYG*
+>P1;gi|1160049|emb|CAA92878.1| vpr protein [Human immunodeficiency v... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MERAPEDQGPQ---REPYIEWTLELLEDLKNEAVRHFPRVWLHNLGQH--IYETYG*
+>P1;gi|1890687|gb|AAC97544.1| vpr protein [Human immunodeficiency vi... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWMLDLLEDLKHEAVRHFPRPWLHGLGQH--IYHTYG*
+>P1;gi|38491641|gb|AAR22036.1| vpr protein [Human immunodeficiency v... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPFNEWTIELLEELKHEAVRHFPRPWLHGLGQH--IYETYG*
+>P1;gi|1160093|emb|CAA92900.1| vpr protein [Human immunodeficiency v... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWALELLGELKNEAVRHFPRAWLHSLGQH--IYETYG*
+>P1;gi|17046911|gb|AAL34912.1| vpr protein [Human immunodeficiency v... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWALEILEELKQEAVRHFPRPWLHSLGQH--IYETYG*
+>P1;gi|139396|sp|P05951|VPR_HV1SC VPR PROTEIN (R ORF PROTEIN) >gi|32... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLELLRKLKSEAVRHFPRIWLHGLGQH--IYETYG*
+>P1;gi|1477824|gb|AAB05495.1| vpr protein [Human immunodeficiency vi... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTVELLEELKNEAVKHFPRLWLHSLGQH--IYETYG*
+>P1;gi|1160081|emb|CAA92894.1| vpr protein [Human immunodeficiency v... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPE---REPYNEWALEILEELKNEAVRHFPRMWLHGLGQH--IYETYG*
+>P1;gi|29119345|gb|AAO63258.1| vpr protein [Human immunodeficiency v... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPADQGPQ---REPYQEWTIELLEELKNEAVRHFPRPWLHGLGQY--IYETYG*
+>P1;gi|3218150|emb|CAB05079.1| vpr [Human immunodeficiency virus 1] [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---GEPYNEWTLGLLEELKNEAVRHFPRIWLHGLGQY--IYETYG*
+>P1;gi|3403211|gb|AAC29046.1| vpr protein [Human immunodeficiency vi... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQVPEDQGPQ---REPYNEWALELLEGLKNEAVRHFPRPWLHGLGQH--IYNTYG*
+>P1;gi|22297043|gb|AAM94499.1| vpr protein [Human immunodeficiency v... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGSQ---REPYNEWTLGLLEELKNEAVRHFPRPWLHGLGQY--IYNNYG*
+>P1;gi|17046901|gb|AAL34903.1| vpr protein [Human immunodeficiency v... [ score 116 E 1e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWTLEVLEELKQEAVRHFPRPWLHSLGQY--VYETYG*
+>P1;gi|5001951|gb|AAD37226.1| vpr protein [Human immunodeficiency vi... [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNAWTLELVEELKSEAVRHFPRVWLHDLGQY--IYETYG*
+>P1;gi|3114568|gb|AAD03186.1| Vpr [Human immunodeficiency virus type 1] [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPHNEWTLELLEEIKNEAVRHFPRVWLHQLGQH--IYNTYG*
+>P1;gi|37909405|gb|AAO65566.1| vpr protein [Human immunodeficiency v... [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWALEMLEELKQEAVRHFPRPWLHGLGQY--IYETYG*
+>P1;gi|38892639|gb|AAR27645.1| vpr protein [Human immunodeficiency v... [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWTLEILEELKQEAVRHFPRPWLHNIGQH--IYDTYG*
+>P1;gi|17046555|gb|AAL34592.1| vpr protein [Human immunodeficiency v... [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLEILEELKQEAVRHLPRPWLHSLGQH--IYETYG*
+>P1;gi|3132814|gb|AAC29080.1| vpr protein [Human immunodeficiency vi... [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPFNEWTVELLEELKHEAVRHFPRPWLHGLGQH--IYDTYG*
+>P1;gi|12957265|gb|AAK09112.1| vpr protein [Human immunodeficiency v... [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGSQ---REPYNEWTLEILEELKQEAVRHFPRPWLHSLGQY--IYDTYG*
+>P1;gi|1477910|gb|AAB05538.1| vpr protein [Human immunodeficiency vi... [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---RQPYNEWTLELLEEHKREAVRHFPRPWLHSLGQH--IYETYG*
+>P1;gi|38892665|gb|AAR27668.1| vpr protein [Human immunodeficiency v... [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWTLEILEELKQEAVRHFPRTWLHNLGQY--IYETYG*
+>P1;gi|5001911|gb|AAD37206.1| vpr protein [Human immunodeficiency vi... [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYRAWTLQLLEELKSEAVRHFPRIWLHGLGQH--IYETYG*
+>P1;gi|32351105|gb|AAP76513.1| vpr protein [Human immunodeficiency v... [ score 116 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWALDLLEELKSEAVRHFPRAWLHSLGQH--IYETYG*
+>P1;gi|38892629|gb|AAR27636.1| vpr protein [Human immunodeficiency v... [ score 115 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWALEILEELKQEAVRHFPRTWLHGLGQH--IYETYG*
+>P1;gi|37725190|gb|AAR02258.1| vpr protein [Human immunodeficiency v... [ score 115 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNAWTLEPLEELKSEAVKHFPRVWLHGLGQH--IYETYG*
+>P1;gi|15281492|gb|AAK94275.1| vpr protein [Human immunodeficiency v... [ score 115 E 2e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPENQGPQ---REPYNEWTLEILEEIKQEAVRHFPRPWLHSLGQY--IYETYG*
+>P1;gi|3218148|emb|CAB05078.1| vpr [Human immunodeficiency virus 1] [ score 115 E 3e-25 ] [ range 1 .. 51 ]
+sequence
+MEAAPEDQGPQ---REPYNEWALEILEELKNEAVRHFPRLWLHSLGQH--IYETYG*
+>P1;gi|3808254|gb|AAC69291.1| vpr protein [Human immunodeficiency vi... [ score 115 E 3e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWMLDLLEDLKHEAVRHFPRPWLQGLGQH--IYNTHG*
+>P1;gi|17046805|gb|AAL34817.1| vpr protein [Human immunodeficiency v... [ score 115 E 3e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWTLGLLEELKQEAVRHFPRLWLHNLGQY--IYNTYG*
+>P1;gi|18643013|gb|AAL74048.1| vpr protein [Human immunodeficiency v... [ score 115 E 3e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLGILEELKQEAVRHFPRPWLHNLGQH--IYQTYG*
+>P1;gi|7416716|dbj|BAA93998.1| Vpr protein [Human immunodeficiency v... [ score 115 E 3e-25 ] [ range 1 .. 51 ]
+sequence
+MKQAPENQGPQ---REPYAEWTLELLKELKNEAVRHFPRVWLHGLGQY--IYETYG*
+>P1;gi|3287124|emb|CAA75958.1| vpr [Human immunodeficiency virus 1] [ score 115 E 3e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPA---REPFNEWTLEILEELKAEAVRHFPRQWLQALGQY--IYETYG*
+>P1;gi|38892757|gb|AAR27750.1| vpr protein [Human immunodeficiency v... [ score 115 E 3e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWTLEILEELKQEAVRHFPTPWLHSLGQH--IYETYG*
+>P1;gi|7416672|dbj|BAA93976.1| Vpr protein [Human immunodeficiency v... [ score 115 E 3e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPENQGPQ---REPYNEWALGLLEELKSEAVRHFPRVWLHSLGQY--IYETYG*
+>P1;gi|3218152|emb|CAB05080.1| vpr [Human immunodeficiency virus 1] [ score 115 E 3e-25 ] [ range 1 .. 51 ]
+sequence
+MEPAPEDQGPQ---REPYNEWTLELLEGLKSEAVRHFPRMWLHGLGQH--IYETYG*
+>P1;gi|17046841|gb|AAL34849.1| vpr protein [Human immunodeficiency v... [ score 115 E 3e-25 ] [ range 1 .. 51 ]
+sequence
+MEQTPEDQGPQ---REPYNEWALEILEELKQEAVRHFPRTWLHSLGQY--IYDTYG*
+>P1;gi|38892701|gb|AAR27700.1| vpr protein [Human immunodeficiency v... [ score 114 E 4e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWALEILEDLKQEAVRHFPRPWLHSIGQY--IYDTYG*
+>P1;gi|17046851|gb|AAL34858.1| vpr protein [Human immunodeficiency v... [ score 114 E 4e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLEILEELKQGAVRHFPRPWLHNLGQH--IYETYG*
+>P1;gi|17046565|gb|AAL34601.1| vpr protein [Human immunodeficiency v... [ score 114 E 4e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLALLEDLKQEAVRHVPRPWLHSLGQH--IYETYG*
+>P1;gi|38491854|gb|AAR22226.1| vpr protein [Human immunodeficiency v... [ score 114 E 4e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPNNEWTLEILEELKNEAVRHFPRPWLHGLGQH--IYETYG*
+>P1;gi|37935972|gb|AAO47210.1| vpr protein [Human immunodeficiency v... [ score 114 E 4e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDHGPA---REPFNEWALETLEDLKAEAVRHFPRPWLHALGQY--IYETYG*
+>P1;gi|3808282|gb|AAC69308.1| vpr protein [Human immunodeficiency vi... [ score 114 E 4e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWALELVEELKHEAVRHFPRPWLHGLGQH--IYNTYG*
+>P1;gi|13569221|gb|AAK30966.1| vpr protein [Human immunodeficiency v... [ score 114 E 5e-25 ] [ range 1 .. 51 ]
+sequence
+MEQFPEDQGPQ---REPYSEWTLEILEELKQEAVRHFPRPWLHSLGQH--IYETYG*
+>P1;gi|38679144|gb|AAR26398.1| vpr protein [Human immunodeficiency v... [ score 114 E 5e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWLLELVEDLKQEAVRHFPRPWLHGLGLH--IYNTYG*
+>P1;gi|18766386|gb|AAL78992.1| vpr protein [Simian-Human immunodefic... [ score 114 E 5e-25 ] [ range 1 .. 50 ]
+sequence
+MEQVPQDQGPQ---REPYNEWTLKLLEELKNEAVRHFPRPWLHGLGQY--IYETY-*
+>P1;gi|17046861|gb|AAL34867.1| vpr protein [Human immunodeficiency v... [ score 114 E 5e-25 ] [ range 1 .. 51 ]
+sequence
+MEQVPEDQGPQ---REPYNEWTLEILEELKQEAVRHFPRPWLQGLGHY--IYETYG*
+>P1;gi|7321147|emb|CAB82229.1| vpr protein [Human immunodeficiency v... [ score 114 E 6e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPENQGPQ---REPYNEWAMELLEELKHEAVRHFPRPWLHGLGQH--IYNTYG*
+>P1;gi|22596457|gb|AAN03223.1| vpr protein [Human immunodeficiency v... [ score 114 E 6e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---RAPYNEWMLDLLEDLKHEAVRHFPRPWLHGLGQY--IYATYG*
+>P1;gi|5001941|gb|AAD37221.1| vpr protein [Human immunodeficiency vi... [ score 114 E 7e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYIAWTLQLLEELKSEAVRHFPRIWLHNLGQH--IYETYG*
+>P1;gi|3252922|gb|AAD12074.1| vpr protein [Human immunodeficiency vi... [ score 114 E 7e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWTLELLEDLKQEAVRHFPRPWLHGLGQY--VYENYG*
+>P1;gi|38892657|gb|AAR27661.1| vpr protein [Human immunodeficiency v... [ score 114 E 7e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPP---REPYNEWALGILEELKQEAVRHFPRPWLHGLGQH--IYETYG*
+>P1;gi|7452912|emb|CAB86377.1| VPR protein [Human immunodeficiency v... [ score 114 E 7e-25 ] [ range 1 .. 51 ]
+sequence
+MERAPEDQGPQ---REPFNEWTLELLEALKQEAVRHFPRPWLHGLGQY--IYETYG*
+>P1;gi|3218475|emb|CAB05070.1| vpr [Human immunodeficiency virus 1] [ score 114 E 7e-25 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNDWPLELLVELKNDAVSHFPRIWLHGLGQH--IYETYG*
+>P1;gi|17046625|gb|AAL34655.1| vpr protein [Human immunodeficiency v... [ score 114 E 8e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWTLEVLEDLKQEAVRHFPRPWLHSIGQY--VYSTYG*
+>P1;gi|17046765|gb|AAL34781.1| vpr protein [Human immunodeficiency v... [ score 114 E 8e-25 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWALEILEELKQEAVRHFPRLWLHSLGQY--IYETYG*
+>P1;gi|3287119|emb|CAA75954.1| vpr [Human immunodeficiency virus 1] [ score 113 E 1e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPA---REPFNEWALEVLEELKAEAVRHFPRHWLQALGQY--IYETYG*
+>P1;gi|38892683|gb|AAR27684.1| vpr protein [Human immunodeficiency v... [ score 113 E 1e-24 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWTLEILEELKQEAVRHFPRQWLHNLGQY--IYATYG*
+>P1;gi|25167049|gb|AAN73816.1| vpr protein [Human immunodeficiency v... [ score 113 E 1e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPP---REPYNAWALKLLEELKSEAVRHFPRPWLHSLGQH--IYETYG*
+>P1;gi|37935843|gb|AAO47096.1| vpr protein [Human immunodeficiency v... [ score 113 E 1e-24 ] [ range 1 .. 51 ]
+sequence
+MEQTPEDQGPA---REPFNEWALELLEDLKTEAVRHFPRPWLAALGQY--IYETYG*
+>P1;gi|37935953|gb|AAO47193.1| vpr protein [Human immunodeficiency v... [ score 113 E 2e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPENQGPA---REPFNEWALETLEELKAEAVRHFPRPWLQNLGQY--IYDTYG*
+>P1;gi|22596401|gb|AAN03175.1| vpr protein [Human immunodeficiency v... [ score 113 E 2e-24 ] [ range 1 .. 51 ]
+sequence
+MEQTPEDQGPQ---REPYNEWMLDLLEDLKHEAVRHFPRPWLHGLGQH--IYNTYG*
+>P1;gi|12957277|gb|AAK09122.1| vpr protein [Human immunodeficiency v... [ score 113 E 2e-24 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNDRTLEILEELKQEAVRHFPRPWLHSLGQY--IYETYG*
+>P1;gi|3287139|emb|CAA75970.1| vpr [Human immunodeficiency virus 1] [ score 113 E 2e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPENQGPA---REPFNEWALETLEEIKAEAVRHFPRPWLQSLGQY--IYETYG*
+>P1;gi|3287114|emb|CAA75950.1| vpr [Human immunodeficiency virus 1] [ score 112 E 2e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPA---REPSNEWALKLLEELKAEAVRHFPRPWLHALGQY--IYENYG*
+>P1;gi|12957343|gb|AAK09177.1| vpr protein [Human immunodeficiency v... [ score 112 E 2e-24 ] [ range 1 .. 51 ]
+sequence
+MEQSPEDQGPQ---REPYNEWTLEILEELKQEAVRHFPGPWLHNLGQY--IYRTYG*
+>P1;gi|15788250|gb|AAL07702.1| vpr protein [Human immunodeficiency v... [ score 112 E 2e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPVDQGPQ---REPYNEWTLELLQELKSEAVRHFPRPWLHSLGQA--IYDTYG*
+>P1;gi|38892785|gb|AAR27775.1| vpr protein [Human immunodeficiency v... [ score 112 E 2e-24 ] [ range 1 .. 51 ]
+sequence
+MERPPEDQGPQ---REPYNEWALEILEELKQEAVRHFPRVWLHSLGQY--IYATYG*
+>P1;gi|3287129|emb|CAA75962.1| vpr [Human immunodeficiency virus 1] [ score 112 E 2e-24 ] [ range 1 .. 51 ]
+sequence
+MERAPEDQGPA---REPFNEWALEILEELKAEAVRHFPRQWLQALGQY--IYETYG*
+>P1;gi|15281433|gb|AAK94222.1| vpr protein [Human immunodeficiency v... [ score 112 E 3e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWVLELLEDLKNEAVRHFPRLWLHGLGQQ--IYNTYG*
+>P1;gi|3287160|emb|CAA75982.1| vpr [Human immunodeficiency virus 1] [ score 112 E 3e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPQDQGPA---REPFNEWALETLEELKAEAVRHFPRHWLQALGQY--IYETYG*
+>P1;gi|5305481|gb|AAD41669.1| vpr protein [Human immunodeficiency vi... [ score 112 E 3e-24 ] [ range 1 .. 51 ]
+sequence
+MEQVPKDQGPQ---REPYNEWMLDLLEDLKHEAVRHFPRPWLHGLGQH--IYSTYG*
+>P1;gi|13569321|gb|AAK31056.1| vpr protein [Human immunodeficiency v... [ score 111 E 3e-24 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWALEILEDLKQEAVRHFPRPWLHDLGQH--IYVNYG*
+>P1;gi|13517086|dbj|BAB40424.1| Vpr protein [Human immunodeficiency ... [ score 111 E 4e-24 ] [ range 1 .. 51 ]
+sequence
+MERAPEDQGPQ---REPSNQWTLELLEELKHGAVRHFPRPWLHGLGQH--IYETYG*
+>P1;gi|13172702|gb|AAK14211.1| vpr protein [Human immunodeficiency v... [ score 111 E 4e-24 ] [ range 1 .. 51 ]
+sequence
+MERAPEDQGPA---REPFNEWALDLLEELKTEAVRHFPRLWLQSFGQY--IYETYG*
+>P1;gi|11641099|gb|AAG38454.1| vpr protein [Human immunodeficiency v... [ score 111 E 4e-24 ] [ range 1 .. 51 ]
+sequence
+MEHAPEDHGPQ---REPYHVWTLELLEELKNDAVRHFPRTWLHGLGQH--IYDTYG*
+>P1;gi|38892692|gb|AAR27692.1| vpr protein [Human immunodeficiency v... [ score 111 E 5e-24 ] [ range 1 .. 51 ]
+sequence
+MEQPPEDQGPQ---REPYNEWTLEILEELKQEAVRHFPRPWLQGLGHY--VYETYG*
+>P1;gi|22596517|gb|AAN03277.1| vpr protein [Human immunodeficiency v... [ score 111 E 6e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEGTLEVLEELKHEAVRHFPRPWLHGLGQH--IYNTYG*
+>P1;gi|1185542|gb|AAA87875.1| Vpr [Human immunodeficiency virus type... [ score 110 E 7e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWALELLEDLKTEAVKHFPRIWLHSLGQL--IYETYG*
+>P1;gi|5001961|gb|AAD37231.1| vpr protein [Human immunodeficiency vi... [ score 110 E 7e-24 ] [ range 1 .. 51 ]
+sequence
+MEQDPEDQGPQ---REPYNEWTLELVEELKNEAVRHFPRVWLHNLGQH--IYETDG*
+>P1;gi|139406|sp|P17287|VPR_SIVCZ VPR PROTEIN (R ORF PROTEIN) >gi|74... [ score 110 E 7e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPP---REPYQEWALETLEELKNEAVRHFPRPWLHQLGQF--IYDTYG*
+>P1;gi|5531654|gb|AAD44376.1| vpr protein [Human immunodeficiency vi... [ score 110 E 9e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPFNKWTLELIEELKHEAVRHFPRPWLYGLGQH--IYETYG*
+>P1;gi|17046595|gb|AAL34628.1| vpr protein [Human immunodeficiency v... [ score 110 E 9e-24 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLEILEELKQEAVRHFLRPWLHDLGQY--IYETYG*
+>P1;gi|3287165|emb|CAA75986.1| vpr [Human immunodeficiency virus 1] [ score 110 E 1e-23 ] [ range 1 .. 51 ]
+sequence
+MERAPEDQGPA---REPFNEWALETLEELKAEAVRHFPQPWLQALGNY--IYETYG*
+>P1;gi|32261273|gb|AAP74173.1| vpr protein [Human immunodeficiency v... [ score 110 E 1e-23 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPFNEWTLELLQELKSEAVRHFPRVWLHGLGQL--IYETYG*
+>P1;gi|37935943|gb|AAO47184.1| vpr protein [Human immunodeficiency v... [ score 110 E 1e-23 ] [ range 1 .. 51 ]
+sequence
+MEAAPEDQGPA---REPFNEWALETLEELKTEAVRHFPRAWLASLGQY--IYETYG*
+>P1;gi|4336708|gb|AAD17908.1| Vpr [Simian immunodeficiency virus] [ score 109 E 1e-23 ] [ range 1 .. 51 ]
+sequence
+MEQVPEDQGPA---REPYNEWALDVLEELKEEALRHFPRPWLQGLGQY--IYSTYG*
+>P1;gi|31559617|dbj|BAC77446.1| Vpr protein [Human immunodeficiency ... [ score 109 E 2e-23 ] [ range 1 .. 51 ]
+sequence
+MEQALEDQGPQ---REPNNEWTIELLEELKREAVRHFPRTWLHQLGQH--IYETYG*
+>P1;gi|38491834|gb|AAR22208.1| vpr protein [Human immunodeficiency v... [ score 109 E 2e-23 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---RVPYNEWTLEVLEELKNEAVRHFPGPWLHGLGEH--IYNTYG*
+>P1;gi|5733956|gb|AAD49793.1| Vpr [Human immunodeficiency virus type 1] [ score 109 E 2e-23 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWMLELLEDLKHEAVRHFPRPWLHGLGQY--IYYTYG*
+>P1;gi|25166949|gb|AAN73726.1| vpr protein [Human immunodeficiency v... [ score 109 E 2e-23 ] [ range 1 .. 51 ]
+sequence
+MEQAPEDQGPQ---REPYNEWTLELLEELKNEAVRHFPRPWLHGLGQY--IYNTYG*
+>P1;gi|37935962|gb|AAO47201.1| vpr protein [Human immunodeficiency v... [ score 109 E 2e-23 ] [ range 2 .. 51 ]
+sequence
+-EQVSEDQGPA---REPFNEWTIQLLEELKTEAVRHFPRPWLHGLGQY--IYETYG*
+>P1;gi|11641105|gb|AAG38457.1| vpr protein [Human immunodeficiency v... [ score 109 E 3e-23 ] [ range 1 .. 51 ]
+sequence
+MAHAPDDQGPQ---REPYHDWTLELLEELKTDAVRHFPRTWLHGLGQH--ISDTYG*
+>P1;gi|37935902|gb|AAO47148.1| vpr protein [Human immunodeficiency v... [ score 108 E 4e-23 ] [ range 1 .. 51 ]
+sequence
+MERAPEDHGPA---REPFNEWVLETLEELKAEAVRHFPRHWLQALGNY--IYETYG*
+>P1;gi|11641109|gb|AAG38459.1| vpr protein [Human immunodeficiency v... [ score 108 E 4e-23 ] [ range 1 .. 51 ]
+sequence
+MEHAPEDQGPQ---REPYHDWTLELFEELKTDAVRHFPRTWLHGLGQH--ISVTYG*

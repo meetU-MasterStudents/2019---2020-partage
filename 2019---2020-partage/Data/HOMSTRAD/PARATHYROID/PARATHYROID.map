@@ -1,0 +1,36 @@
+>P1;1zwg
+structureX:1zwg:   2 : :  35 : :parathyroid hormone:Homo sapiens: -1: -1
+----------EIQLMHNLGKHLNSMERVEWLRKKLQDVHNFVAL*
+>P1;1bzg
+structureX:1bzg:   1 : :  34 : :parathyroid hormone-related protein:Homo sapiens: -1: -1
+AVSEHQLLHDKGKSIQDLRRR----FFLHHLIA-EIHTA-----*
+>P1;gi|1709894|sp|P52212|PTHY_CANFA PARATHYROID HORMONE PRECURSOR (P... [ score 65 E 6e-10 ] [ range 35 .. 68 ]
+sequence
+----------EIQFMHNLGKHLSSMERVEWLRKKLQDVHNFVAL*
+>P1;gi|11119195|gb|AAG30545.1| preproparathyroid hormone [Felis catus] [ score 63 E 1e-09 ] [ range 35 .. 68 ]
+sequence
+----------EIQFMHNLGKHLSSVERVEWLRRKLQDVHNFVAL*
+>P1;gi|8394100|ref|NP_058740.1| parathyroid hormone [Rattus norvegic... [ score 63 E 2e-09 ] [ range 35 .. 68 ]
+sequence
+----------EIQLMHNLGKHLASVERMQWLRKKLQDVHNFVSL*
+>P1;gi|131548|sp|P01269|PTHY_PIG PARATHYROID HORMONE PRECURSOR (PARA... [ score 63 E 2e-09 ] [ range 35 .. 68 ]
+sequence
+----------EIQLMHNLGKHLSSLERVEWLRKKLQDVHNFVAL*
+>P1;gi|10181174|ref|NP_065648.1| parathyroid hormone; parathyroid ho... [ score 63 E 2e-09 ] [ range 35 .. 68 ]
+sequence
+----------EIQLMHNLGKHLASMERMQWLRRKLQDMHNFVSL*
+>P1;gi|7416876|gb|AAF62347.1| parathyroid hormone [Equus caballus] [ score 61 E 8e-09 ] [ range 6 .. 39 ]
+sequence
+----------EIQLMHNLGKHLNSVERVEWLRKKLQDVHNFIAL*
+>P1;gi|2118603|pir||I51851 parathyroid hormone - rat (fragment) >gi|... [ score 61 E 1e-08 ] [ range 25 .. 58 ]
+sequence
+----------EIQLMHNLGKHLASVERMQWLRKKLQDGHNFVSL*
+>P1;gi|45384436|ref|NP_990669.1| parathyroid hormone-like hormone [G... [ score 64 E 6e-10 ] [ range 38 .. 71 ]
+sequence
+AVSEHQLLHDKGKSIQDLRRR----IFLQNLIE-GVNTA-----*
+>P1;gi|8546805|emb|CAB94712.1| parathyroid hormone-related protein [... [ score 60 E 1e-08 ] [ range 38 .. 71 ]
+sequence
+SVSHAQLMHDKGRSLQEFRRR----MWLHKLLE-EVHTA-----*
+>P1;gi|8777741|gb|AAF79073.1| parathyroid hormone-related protein pr... [ score 58 E 8e-08 ] [ range 38 .. 71 ]
+sequence
+SVSHAQLMHDKGRSLQEFKRR----MWLHELLE-EVHTA-----*

@@ -1,0 +1,1029 @@
+>P1;1bbl
+structureN:1bbl:  12 : :  48 : :E3-binding domain:Escherichia coli:-1.00:-1.00
+--LSPAIRRLLAEHNLDASAIKGTGVGGRLTREDVEKHL----*
+>P1;2pdd
+structureN:2pdd:   1 : :  43 : :E3-binding domain:Bacillus stearothermophilus:-1.00:-1.00
+VIAMPSVRKYAREKGVDIRLVQGTGKNGRVLKEDIDAFLAGGA*
+>P1;gi|15642086|ref|NP_231718.1| 2-oxoglutarate dehydrogenase, E2 co... [ score 71 E 6e-12 ] [ range 113 .. 149 ]
+sequence
+--LSPAVRRLLAEHNLEANQVKGSGVGGRITREDIEAHL----*
+>P1;gi|28897622|ref|NP_797227.1| 2-oxoglutarate dehydrogenase, E2 co... [ score 71 E 9e-12 ] [ range 113 .. 149 ]
+sequence
+--LSPAVRRLLAEHGLEAHQVKGTGVGGRITREDIEAHL----*
+>P1;gi|24373495|ref|NP_717538.1| 2-oxoglutarate dehydrogenase, E2 co... [ score 70 E 1e-11 ] [ range 107 .. 143 ]
+sequence
+--LSPSVRRLLAEHNVDASKVKGTGVGGRITKEDVEAFI----*
+>P1;gi|16759676|ref|NP_455293.1| dihydrolipoamide succinyltransferas... [ score 70 E 1e-11 ] [ range 114 .. 150 ]
+sequence
+--LSPAIRRLLAEHNLEASAIKGTGVGGRLTREDVEKHL----*
+>P1;gi|27363639|ref|NP_759167.1| Pyruvate/2-oxoglutarate dehydrogena... [ score 70 E 1e-11 ] [ range 113 .. 149 ]
+sequence
+--LSPAVRRLLAEHSLEASQVKGTGVGGRITREDIEAHL----*
+>P1;gi|16121414|ref|NP_404727.1| dihydrolipoamide succinyltransferas... [ score 68 E 7e-11 ] [ range 114 .. 150 ]
+sequence
+--LSPAIRRLIAEHDLDATAIKGSGVGGRITREDVDSHL----*
+>P1;gi|44109709|gb|EAH17799.1| unknown [environmental sequence] [ score 68 E 7e-11 ] [ range 106 .. 142 ]
+sequence
+--LSPAIRRLLAEHSLEASAIKGTGVGGRITREDVDKHL----*
+>P1;gi|37525385|ref|NP_928729.1| Dihydrolipoamide succinyltransferas... [ score 67 E 8e-11 ] [ range 113 .. 149 ]
+sequence
+--LSPAVRRLIAEHDLDAKAIKGSGVGGRIVREDVEKYM----*
+>P1;gi|32034768|ref|ZP_00134893.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 66 E 3e-10 ] [ range 117 .. 151 ]
+sequence
+----PAIRRLLAEHNIEAHLVKGTGVGGRITREDIEHYL----*
+>P1;gi|22971726|ref|ZP_00018657.1| hypothetical protein [Chloroflexu... [ score 65 E 6e-10 ] [ range 124 .. 160 ]
+sequence
+--LSPVVARLLSEHNLDPGQIRGTGQGGRITKQDVLRFL----*
+>P1;gi|22999648|ref|ZP_00043617.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 64 E 7e-10 ] [ range 128 .. 164 ]
+sequence
+--LSPAVRKLLAEHGLDATQIPATGSGGRLTKGDVLAYL----*
+>P1;gi|32030043|ref|ZP_00132963.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 64 E 1e-09 ] [ range 115 .. 147 ]
+sequence
+--LSPAVRRLLAEHELNADEIKGTGVGGRITREDI--------*
+>P1;gi|44361283|gb|EAI72891.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 102 .. 138 ]
+sequence
+--LSPSVRRLVAEHDIDVAKLTGTGKGGRVTKEDVEAFI----*
+>P1;gi|43084245|gb|EAC08329.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 61 .. 97 ]
+sequence
+--LSPVVRKIVSENNLDLSQIIGTGSGGRITRKDVEAYM----*
+>P1;gi|16273548|ref|NP_439803.1| 2-oxoglutarate dehydrogenase E2 com... [ score 63 E 2e-09 ] [ range 116 .. 151 ]
+sequence
+---SPVIRRLLAEHDLQADQIQGSGVGGRLTREDIEREI----*
+>P1;gi|15602143|ref|NP_245215.1| SucB [Pasteurella multocida] >gi|12... [ score 63 E 2e-09 ] [ range 116 .. 152 ]
+sequence
+--VSPGVRRLIAEHDLNAEDIKGSGVGGRITREDVEKVI----*
+>P1;gi|43405796|gb|EAD64348.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 110 .. 146 ]
+sequence
+--LTPSVRRLIAEKGLDASKIKGTGKNGRVTKEDVDTFL----*
+>P1;gi|44639310|gb|EAK66732.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 50 .. 86 ]
+sequence
+--LSPVVRKLLSKNNLNPSSLNGTGKDGRITRKDIEAHI----*
+>P1;gi|33152412|ref|NP_873765.1| dihydrolipoamide succinyltransferas... [ score 62 E 6e-09 ] [ range 113 .. 147 ]
+sequence
+----PSIRRLLAEHNIEAHAIQGSGVDGRITREDIQQFL----*
+>P1;gi|641969|gb|AAA61786.1| dihydrolipoamide succinyl transferase [ score 62 E 6e-09 ] [ range 120 .. 156 ]
+sequence
+--LSPAVRRMVSEKDVDVEEIEGSGKGGRITKKDVEDYL----*
+>P1;gi|43217996|gb|EAC74532.1| unknown [environmental sequence] [ score 61 E 6e-09 ] [ range 123 .. 159 ]
+sequence
+--LSPVVRKLLSKNNLNPSSLNGTGKDGRITRKDIEAYI----*
+>P1;gi|44522620|gb|EAJ84685.1| unknown [environmental sequence] [ score 61 E 7e-09 ] [ range 47 .. 83 ]
+sequence
+--LSPVVRRLASENNIDLNNVVGTGQNGRIKREDIENYI----*
+>P1;gi|44465890|gb|EAJ46418.1| unknown [environmental sequence] [ score 61 E 8e-09 ] [ range 74 .. 109 ]
+sequence
+---SPAVRRLIEEHKLNPSSIKGTGKGGRLTKGDILANI----*
+>P1;gi|43277332|gb|EAD04436.1| unknown [environmental sequence] [ score 61 E 9e-09 ] [ range 13 .. 49 ]
+sequence
+--LSPAVRRLVEEHKLDPNSISGSGKDGRLTKGDILRNL----*
+>P1;gi|28875496|gb|AAO59975.1| SucB [uncultured bacterium] [ score 60 E 1e-08 ] [ range 102 .. 138 ]
+sequence
+--LSPSVRRLVAEHDIDVAKLTGTGKGGRVTKEDVDAFI----*
+>P1;gi|43474819|gb|EAD92130.1| unknown [environmental sequence] [ score 60 E 2e-08 ] [ range 117 .. 153 ]
+sequence
+--LSPAVRKLLGENELDPSQITGTGKDGRLTKGDVLLFM----*
+>P1;gi|43797096|gb|EAF53170.1| unknown [environmental sequence] [ score 59 E 3e-08 ] [ range 127 .. 161 ]
+sequence
+--LSPAVRRLVTEHNLDPARINGTGVGGRLTKADILN------*
+>P1;gi|33519792|ref|NP_878624.1| dihydrolipoamide succinyltransferas... [ score 58 E 5e-08 ] [ range 124 .. 160 ]
+sequence
+--ISPVIRKLITKYNLNIDNIKGSGIKGRLTRQDIETYI----*
+>P1;gi|2147327|pir||I40793 dihydrolipoamide S-acetyltransferase (EC ... [ score 58 E 5e-08 ] [ range 126 .. 161 ]
+sequence
+---SPAAKKLAAENNIDITLVEGTGPQGRITTEDVEKYI----*
+>P1;gi|16079459|ref|NP_390283.1| branched-chain alpha-keto acid dehy... [ score 58 E 6e-08 ] [ range 118 .. 153 ]
+sequence
+---SPAVLRLAGEHGIDLDQVTGTGAGGRITRKDIQRLI----*
+>P1;gi|44573456|gb|EAK20188.1| unknown [environmental sequence] [ score 58 E 6e-08 ] [ range 118 .. 154 ]
+sequence
+--LSPSVKKMLVENNLDASSIKTQRDDGRITKEDILNHL----*
+>P1;gi|44346492|gb|EAI62153.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 131 .. 167 ]
+sequence
+--VSPVVRRLASENNIDLESVQGTGKDGRVTRKDIDHFI----*
+>P1;gi|43662835|gb|EAE86380.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 114 .. 150 ]
+sequence
+--LSPSVKKMLEENNLDASSVKTQRDDGRITKEDILNHL----*
+>P1;gi|23107408|ref|ZP_00093695.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 57 E 2e-07 ] [ range 115 .. 147 ]
+sequence
+--LSPAVRRAVLEYGIDPSTVKGTGKDGRLTKEDV--------*
+>P1;gi|43547947|gb|EAE28700.1| unknown [environmental sequence] [ score 57 E 2e-07 ] [ range 111 .. 147 ]
+sequence
+--LSPSVKKMLEENNLDASLVKTQRDDGRITKEDILNHL----*
+>P1;gi|307078|gb|AAA59200.1| alpha-keto acid dehydrogenase precursor [ score 57 E 2e-07 ] [ range 169 .. 204 ]
+sequence
+---TPAVRRLAMENNIKLSEVVGSGKDGRILKEDILNYL----*
+>P1;gi|163241|gb|AAA30596.1| alpha-keto acid dehydrogenase precursor [ score 56 E 2e-07 ] [ range 174 .. 209 ]
+sequence
+---TPAVRRLAMENNIKLSEVIGSGKDGRILKEDILNYL----*
+>P1;gi|44121904|gb|EAH24383.1| unknown [environmental sequence] [ score 56 E 2e-07 ] [ range 32 .. 64 ]
+sequence
+--LSPAARKLAEENGIDPNSIAGTGKGGRVTKEDV--------*
+>P1;gi|44183117|gb|EAH57284.1| unknown [environmental sequence] [ score 56 E 3e-07 ] [ range 131 .. 167 ]
+sequence
+--VSPVVRRLALENNIDLESVQGTGKDGRVTRKDIDHFI----*
+>P1;gi|42783278|ref|NP_980525.1| dihydrolipoamide acetyltransferase ... [ score 56 E 3e-07 ] [ range 122 .. 155 ]
+sequence
+---SPAVLKLAGEHNVDLDQVEGTGANGRITRKDILK------*
+>P1;gi|43111025|gb|EAC21564.1| unknown [environmental sequence] [ score 55 E 4e-07 ] [ range 115 .. 151 ]
+sequence
+--LSPSVRKIVEENNLDPKQITGTGKDGRLVKGDVLAVL----*
+>P1;gi|44265077|gb|EAI06464.1| unknown [environmental sequence] [ score 55 E 5e-07 ] [ range 112 .. 148 ]
+sequence
+--LSPAVKKLVDENNLDSSLISGTGKDGRITKGDVKDFI----*
+>P1;gi|44329371|gb|EAI50128.1| unknown [environmental sequence] [ score 55 E 5e-07 ] [ range 72 .. 108 ]
+sequence
+--VSPVVRRLALENNIDLESVQGTGKYGRVTRKDIDHFI----*
+>P1;gi|30022241|ref|NP_833872.1| Lipoamide acyltransferase component... [ score 54 E 8e-07 ] [ range 122 .. 155 ]
+sequence
+---SPAVLKLAGEHNVDLDLVEGTGANGRITRKDILK------*
+>P1;gi|34859889|ref|XP_342329.1| dihydrolipoamide branched chain tra... [ score 54 E 9e-07 ] [ range 174 .. 209 ]
+sequence
+---TPAVRRLAMENNIKLSEVVGSGKDGRILKEDILNFL----*
+>P1;gi|18765760|dbj|BAB82382.2| branched-chain alpha-keto acid lipoa... [ score 54 E 1e-06 ] [ range 175 .. 210 ]
+sequence
+---TPAVRRLAMENNIKLSEVVGTGRDGRILKEDILNFL----*
+>P1;gi|33585932|gb|AAH55890.1| Dihydrolipoamide branched chain trans... [ score 54 E 1e-06 ] [ range 174 .. 209 ]
+sequence
+---TPAVRRLAMENNIKLSEVVGSGKDGRILKEDILSFL----*
+>P1;gi|15615324|ref|NP_243627.1| branched-chain alpha-keto acid dehy... [ score 54 E 1e-06 ] [ range 116 .. 151 ]
+sequence
+---SPAVLRLAEEHDIDLTHVTGSGKGGRITRKDLQAII----*
+>P1;gi|15892149|ref|NP_359863.1| dihydrolipoamide acetyltransferase ... [ score 53 E 1e-06 ] [ range 112 .. 148 ]
+sequence
+--LAPSVQKLVTENKLDPNNIKGTGRDGRITKGDVLATI----*
+>P1;gi|44615041|gb|EAK49388.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 83 .. 119 ]
+sequence
+--LSPAVRKMVEENKLDSSNIKSSRADGRITKEDLINHL----*
+>P1;gi|15596783|ref|NP_250277.1| dihydrolipoamide succinyltransferas... [ score 53 E 2e-06 ] [ range 113 .. 145 ]
+sequence
+--LSPAARKLAEEAGIDPNSIAGTGKGGRVTKEDV--------*
+>P1;gi|27468114|ref|NP_764751.1| branched-chain alpha-keto acid dehy... [ score 53 E 2e-06 ] [ range 131 .. 166 ]
+sequence
+---SPVVFKLASEHDIDLTQVKGTGFEGRVTKKDIQNII----*
+>P1;gi|42524146|ref|NP_969526.1| 2-oxoglutarate dehydrogenase, E2 co... [ score 53 E 2e-06 ] [ range 122 .. 155 ]
+sequence
+--LSPAVNRIVNEKGLDPSAIQGTGKDGRLTKGDVL-------*
+>P1;gi|23099319|ref|NP_692785.1| branched-chain alpha-keto acid dehy... [ score 53 E 2e-06 ] [ range 120 .. 155 ]
+sequence
+---SPAVLRLAQENDIDLTMIDGSGRAGRITRKDVEKFM----*
+>P1;gi|16800479|ref|NP_470747.1| similar to branched-chain alpha-ket... [ score 53 E 2e-06 ] [ range 119 .. 154 ]
+sequence
+---SPAVLRIAGENNIDLSTVEGTGKGGRITRKDLLQVI----*
+>P1;gi|32475770|ref|NP_868764.1| dihydrolipoamide succinyltransferas... [ score 53 E 2e-06 ] [ range 129 .. 163 ]
+sequence
+----PAAQRLLDEHKLDASQVPATGPGGRLLKEDVLAYI----*
+>P1;gi|43646655|gb|EAE78113.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 102 .. 135 ]
+sequence
+---SPAARKLASESNVDIASVEGTGKGGRITKEDVVR------*
+>P1;gi|44328667|gb|EAI49643.1| unknown [environmental sequence] [ score 53 E 3e-06 ] [ range 153 .. 189 ]
+sequence
+--LSPSVRKIVAEKNIDIEKIEGTGKDGRISKGDLIKLM----*
+>P1;gi|44469440|gb|EAJ48916.1| unknown [environmental sequence] [ score 53 E 3e-06 ] [ range 132 .. 167 ]
+sequence
+---SPMAKRLAKEKNINLSDINGTGPGGRITKDDVENHV----*
+>P1;gi|43119554|gb|EAC25714.1| unknown [environmental sequence] [ score 52 E 3e-06 ] [ range 151 .. 187 ]
+sequence
+--LSPSVRKIVAEKNIDVKSIKGTGKDGRISKGDLLNLM----*
+>P1;gi|43111329|gb|EAC21712.1| unknown [environmental sequence] [ score 52 E 3e-06 ] [ range 151 .. 187 ]
+sequence
+--LSPSVRKIVAEKNIDVKSVEGTGKDGRISKGDLLNLM----*
+>P1;gi|43851720|gb|EAF80063.1| unknown [environmental sequence] [ score 52 E 4e-06 ] [ range 5 .. 37 ]
+sequence
+--LSPAVRKIVTEKNIDINKIKGTGRDGRILKGDL--------*
+>P1;gi|44584204|gb|EAK27598.1| unknown [environmental sequence] [ score 52 E 4e-06 ] [ range 64 .. 95 ]
+sequence
+--LSPAVRKMVAEKKINIDQVKGTGKDGRILKGD---------*
+>P1;gi|41408054|ref|NP_960890.1| SucB [Mycobacterium avium subsp. pa... [ score 52 E 4e-06 ] [ range 276 .. 309 ]
+sequence
+--VTPLVRRLAAENDIDLSSITGTGVGGRIRKQDVL-------*
+>P1;gi|15604054|ref|NP_220569.1| DIHYDROLIPOAMIDE ACETYLTRANSFERASE ... [ score 52 E 4e-06 ] [ range 116 .. 149 ]
+sequence
+--LAPSVQKLVTENKLDPNNIKGTGRGGRITKCDVL-------*
+>P1;gi|44224535|gb|EAH79891.1| unknown [environmental sequence] [ score 52 E 5e-06 ] [ range 123 .. 154 ]
+sequence
+--LSPAVRKMVAEKNINLDNVKGTGKAGRILKGD---------*
+>P1;gi|44437887|gb|EAJ26775.1| unknown [environmental sequence] [ score 52 E 6e-06 ] [ range 117 .. 151 ]
+sequence
+----PAVKKLLKENDLNESDIEGSGKNGRITKSDIVNHL----*
+>P1;gi|44411077|gb|EAJ08049.1| unknown [environmental sequence] [ score 52 E 6e-06 ] [ range 135 .. 170 ]
+sequence
+--ISPAVRKLAEELSINLEQVKGTGINGRITKNDVLDF-----*
+>P1;gi|15618226|ref|NP_224511.1| Dihydrolipoamide Acetyltransferase ... [ score 51 E 6e-06 ] [ range 148 .. 182 ]
+sequence
+--LSPLARQLAKEKNIDVSSIQGSGPGGRIVKKDLEK------*
+>P1;gi|43137270|gb|EAC34415.1| unknown [environmental sequence] [ score 51 E 6e-06 ] [ range 12 .. 48 ]
+sequence
+--LSPAVRKIVEENNINLSKVEGTGKSGRISKGDLINLM----*
+>P1;gi|24213922|ref|NP_711403.1| Dihydrolipoamide acyltransferase [L... [ score 51 E 6e-06 ] [ range 109 .. 145 ]
+sequence
+--LPPAVRKLIEDNGLNPASITGSGKNGQITKEDVLKAI----*
+>P1;gi|43855472|gb|EAF81896.1| unknown [environmental sequence] [ score 51 E 6e-06 ] [ range 37 .. 68 ]
+sequence
+--LSPAVRKMVDENNIDVKSVKGSGKDGRILKGD---------*
+>P1;gi|3219722|gb|AAC23517.1| dihydrolipoamide succinyltransferase; ... [ score 51 E 6e-06 ] [ range 111 .. 141 ]
+sequence
+----PAARKLAEENGIDLAAVTGTGKGGRITKEDV--------*
+>P1;gi|44211020|gb|EAH72290.1| unknown [environmental sequence] [ score 51 E 7e-06 ] [ range 21 .. 52 ]
+sequence
+--LSPAVRKIVTENNIDINSIQGSGKDGRVLKGD---------*
+>P1;gi|45382815|ref|NP_989987.1| mitochondrial branched-chain alpha-... [ score 51 E 7e-06 ] [ range 176 .. 211 ]
+sequence
+---TPAVRRLAMENNIKLSEVIGTGKDNRILKEDILSFL----*
+>P1;gi|44599673|gb|EAK38536.1| unknown [environmental sequence] [ score 51 E 7e-06 ] [ range 85 .. 116 ]
+sequence
+--LSPAVRKIVSEKKIDIDQVKGTGKDGRILKGD---------*
+>P1;gi|44530493|gb|EAJ90025.1| unknown [environmental sequence] [ score 51 E 7e-06 ] [ range 160 .. 191 ]
+sequence
+--LSPAVRKMVNENNIDVKSVKGSGKDGRILKGD---------*
+>P1;gi|44613079|gb|EAK48050.1| unknown [environmental sequence] [ score 51 E 8e-06 ] [ range 19 .. 55 ]
+sequence
+--LSPAVRKIAAENNIDVQKVKGTGRDGRVLKGDLLSLM----*
+>P1;gi|44296831|gb|EAI27790.1| unknown [environmental sequence] [ score 51 E 8e-06 ] [ range 110 .. 143 ]
+sequence
+---SPAAKKIISEKNIDISSVVGSGRDGRITKSDVEK------*
+>P1;gi|43103726|gb|EAC17915.1| unknown [environmental sequence] [ score 51 E 8e-06 ] [ range 64 .. 100 ]
+sequence
+--LSPAVRKIVSEKKIDISSIKGSGKDGRILKGDLINLM----*
+>P1;gi|34897738|ref|NP_910215.1| ESTs AU033004(S0924),C74754(E50863)... [ score 51 E 8e-06 ] [ range 219 .. 254 ]
+sequence
+---SPIARKLAEDNNVPLSSIKGTGPDGRILKADIEDYL----*
+>P1;gi|44435463|gb|EAJ25076.1| unknown [environmental sequence] [ score 51 E 9e-06 ] [ range 145 .. 181 ]
+sequence
+--LSPSVRKMVSEKKINIDKVKGTGKGGRVLKEDLLNLM----*
+>P1;gi|44542568|gb|EAJ98377.1| unknown [environmental sequence] [ score 51 E 9e-06 ] [ range 103 .. 137 ]
+sequence
+----PAVKKLLKEHELNESDISGSGKNGRITKSDIVNHL----*
+>P1;gi|43901766|gb|EAG05173.1| unknown [environmental sequence] [ score 51 E 9e-06 ] [ range 3 .. 37 ]
+sequence
+----PAVRALLDEHGLSPENIVATGKGGRLLKEDVLSHL----*
+>P1;gi|16082405|ref|NP_394890.1| probable lipoamide acyltransferase ... [ score 51 E 9e-06 ] [ range 114 .. 149 ]
+sequence
+---SPAVRRIARENGIDLSKVGGTGEGGRVTLDDLERYM----*
+>P1;gi|44125369|gb|EAH26306.1| unknown [environmental sequence] [ score 51 E 9e-06 ] [ range 163 .. 195 ]
+sequence
+--LSPAVRKIVTEKNIDINTIQGSGKDGRILKGDI--------*
+>P1;gi|43326759|gb|EAD28949.1| unknown [environmental sequence] [ score 51 E 1e-05 ] [ range 119 .. 152 ] [ duplicate a ]
+sequence
+---SPNARRVAAEQGIDLASVKGTGPGGRITSEDVLA------*
+>P1;gi|43326759|gb|EAD28949.1| unknown [environmental sequence] [ score 51 E 1e-05 ] [ range 71 .. 104 ] [ duplicate b ]
+sequence
+---SPNARRVAAEQGIDLASVKGTGPGGRITTEDLSN------*
+>P1;gi|44338447|gb|EAI56471.1| unknown [environmental sequence] [ score 51 E 1e-05 ] [ range 133 .. 167 ]
+sequence
+--LSPAVRKIAAEKNLDIAQVATTRSDGRITKGDILA------*
+>P1;gi|43790034|gb|EAF49546.1| unknown [environmental sequence] [ score 51 E 1e-05 ] [ range 15 .. 46 ]
+sequence
+--LSPAVRKIVAEKNIDLATVQGSGKDGRILKGD---------*
+>P1;gi|44235796|gb|EAH86319.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 151 .. 182 ]
+sequence
+--LSPAVRKIVAENNIDINSIQGSGKGGRVLKGD---------*
+>P1;gi|44254600|gb|EAH99228.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 120 .. 156 ]
+sequence
+--LSPATRKMVKENNLELSNIKPSREDGRITKEDIVKHL----*
+>P1;gi|22967670|ref|ZP_00015262.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 50 E 1e-05 ] [ range 134 .. 170 ]
+sequence
+--LPPAVRKLVDDNALDPARIPATGKDGRLTRDDVVAFL----*
+>P1;gi|44648235|gb|EAK72978.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 7 .. 38 ]
+sequence
+--LSPAVRKMVAEKKIDLEQIKPTGKDGRILKGD---------*
+>P1;gi|43446323|gb|EAD77786.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 5 .. 40 ]
+sequence
+---SPGVRRLSRELNINLNIIKGTGAKGRITKDDLNNYI----*
+>P1;gi|44598407|gb|EAK37621.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 165 .. 201 ]
+sequence
+--LSPAVRKIAAENNIDVENVKGTGRDGRVLKGDLLSLM----*
+>P1;gi|44345534|gb|EAI61473.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 81 .. 112 ]
+sequence
+--LSPAVRKMVVENKINLDEVKGTGKDGRILKGD---------*
+>P1;gi|23468929|ref|ZP_00124264.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 50 E 1e-05 ] [ range 153 .. 183 ]
+sequence
+----PAARQLAEENGINLASVKGTGKDGRITKEDI--------*
+>P1;gi|43070627|gb|EAC01594.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 171 .. 207 ]
+sequence
+--LSPSVRKIVKENNIDISNVEGTGKDGRISKGDLINLM----*
+>P1;gi|5669871|gb|AAD46491.1| dihydrolipoamide S-acetyltransferase [... [ score 50 E 1e-05 ] [ range 258 .. 293 ]
+sequence
+---SPLARKLAEDNNVPLSSVKGTGPDGRILKADIEDYL----*
+>P1;gi|43338288|gb|EAD34613.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 64 .. 99 ]
+sequence
+--MSPSVRKIIEDHGYDATKIPATGKDGRLTKGDVLAF-----*
+>P1;gi|17537937|ref|NP_495670.1| branched acid dehydrogenase (49.7 k... [ score 50 E 1e-05 ] [ range 148 .. 183 ]
+sequence
+---TPAVRRIAIENKIKLAEVRGTGKDGRVLKEDVLKFL----*
+>P1;gi|42956530|gb|EAB45251.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 129 .. 160 ]
+sequence
+--LSPAVRKIVVENNIDINSIQGSGKDGRVLKGD---------*
+>P1;gi|44139791|gb|EAH34314.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 27 .. 58 ]
+sequence
+--LSPAVRKIVTEKNINLDNVKGTGKAGRILKGD---------*
+>P1;gi|42905203|gb|EAB19698.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 156 .. 187 ]
+sequence
+--LSPAVRKIVTENKIDIDSVKGSGKDGRILKGD---------*
+>P1;gi|43202040|gb|EAC66583.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 25 .. 56 ]
+sequence
+--LSPAVRKIVTEKNINVDNVKGTGKAGRILKGD---------*
+>P1;gi|43192473|gb|EAC61759.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 146 .. 182 ]
+sequence
+--ISPLVAKIAMQNNIDVANLIGSGIGGRVTKKDIEDYI----*
+>P1;gi|44274269|gb|EAI12757.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 77 .. 113 ]
+sequence
+--LSPAVRKIVTENKIDISSVKGSGKDGRVLKGDLINLM----*
+>P1;gi|5901698|gb|AAD55379.1| dihydrolipoamide acyltransferase [Ente... [ score 50 E 2e-05 ] [ range 125 .. 159 ]
+sequence
+---SPAVLKIAQEKKIDLTQVTGTGRDGRITRKDVTNF-----*
+>P1;gi|19075255|ref|NP_587755.1| dihydrolipoamide acetyltransferase ... [ score 50 E 2e-05 ] [ range 189 .. 223 ]
+sequence
+---SPLARKLAEEKDLDLSQIRGSGPNGRIIKVDIENF-----*
+>P1;gi|42875611|gb|EAB05025.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 1 .. 37 ]
+sequence
+--MSPAVRKIIAENKIDIKSVKGTGKDGRVLKGDLINLM----*
+>P1;gi|44359324|gb|EAI71406.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 113 .. 147 ]
+sequence
+----PAVKKILAEKNLDPSEVKPSGKGNRLTKADVINHI----*
+>P1;gi|42950727|gb|EAB42332.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 1 .. 37 ]
+sequence
+--MSPAVRKIITENKIDINSVKGTGKDGRVLKGDLINLM----*
+>P1;gi|26553962|ref|NP_757896.1| dihydrolipoamide acetyltransferase ... [ score 50 E 2e-05 ] [ range 153 .. 188 ]
+sequence
+---SPVARVLAKNNNVDIALISGTGPEGRVTKEDVEKYL----*
+>P1;gi|43717528|gb|EAF13800.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 24 .. 60 ]
+sequence
+--LSPAVRKLVEEKSIDVSKIQGTGRDGRILKGDLINLM----*
+>P1;gi|15827386|ref|NP_301649.1| putative dihydrolipoamide acyltrans... [ score 50 E 2e-05 ] [ range 228 .. 262 ]
+sequence
+--VTPLVRKLATENNIDLAKVIGTGVGGRIRKQDVLA------*
+>P1;gi|44662465|gb|EAK80608.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 77 .. 113 ]
+sequence
+--LSPAVRKMVVDKNIDIKNVKGTGKNGRILKGDLINLM----*
+>P1;gi|43591422|gb|EAE50576.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 1 .. 32 ]
+sequence
+--MSPAVRKIVTENNIDINSIQGSGKDGRVLKGD---------*
+>P1;gi|18859875|ref|NP_573000.1| CG5599-PA [Drosophila melanogaster]... [ score 50 E 2e-05 ] [ range 163 .. 198 ]
+sequence
+---TPSVRRLAKEHQLDLAKVPATGKNGRVLKGDILEFL----*
+>P1;gi|44098988|gb|EAH12110.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 126 .. 157 ]
+sequence
+--LSPAVRKIVIENNIDINSIQGSGKDGRVLKGD---------*
+>P1;gi|43218843|gb|EAC74969.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 164 .. 200 ]
+sequence
+--LSPAVRKIVEENKIDITNVQGTGKDGRIAKGDLLNLM----*
+>P1;gi|21220655|ref|NP_626434.1| putative dihydrolipoamide succinylt... [ score 50 E 2e-05 ] [ range 286 .. 318 ]
+sequence
+--VTPLVRKLAAENGVDLSTVKGTGVGGRIRKQDV--------*
+>P1;gi|44229002|gb|EAH82448.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 1 .. 30 ]
+sequence
+---------MLSKNNLNPSSLNGTGKDGRITRKDIEAYI----*
+>P1;gi|44518897|gb|EAJ82194.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 168 .. 199 ]
+sequence
+--LSPAVRKIVAENKIDVKKIQGSGKEGRILKED---------*
+>P1;gi|13122219|emb|CAC32256.1| probable lipoamide acyltransferase c... [ score 49 E 2e-05 ] [ range 171 .. 206 ]
+sequence
+---TPATRYLAREHKLDLAHVPATGKGGRVTKEDVLQFM----*
+>P1;gi|44577448|gb|EAK22972.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 165 .. 201 ]
+sequence
+--LSPAVRKIAVENNINVEKVKGTGRDGRILKGDLLSLM----*
+>P1;gi|44540820|gb|EAJ97119.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 150 .. 185 ]
+sequence
+--ISPLANKLAHEKGIDINQVKGTGDNGRIVKRDIENY-----*
+>P1;gi|42869788|gb|EAB02146.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 132 .. 163 ]
+sequence
+--LSPAVRKIVAENKIDLSTIQGSGKDGRVLKGD---------*
+>P1;gi|39597585|emb|CAE59815.1| Hypothetical protein CBG03281 [Caeno... [ score 49 E 2e-05 ] [ range 148 .. 183 ]
+sequence
+---TPAVRRLAMENKVKLSSVRGSGKEGRVLKEDVLKFL----*
+>P1;gi|43070108|gb|EAC01335.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 3 .. 36 ]
+sequence
+--VNPSAKKMLAENDMQSEEIIGTGKGGRITKEDVQ-------*
+>P1;gi|43379738|gb|EAD54769.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 119 .. 150 ]
+sequence
+--LSPAVRKIVSENNIDIKKISGSGKDGRILKSD---------*
+>P1;gi|44172157|gb|EAH51511.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 48 .. 84 ]
+sequence
+--LSPAVRKIVEEKKIDTSKVQGTGKGGRILKGDLINLM----*
+>P1;gi|43179097|gb|EAC55120.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 159 .. 190 ]
+sequence
+--LSPAVRKMVAEKNINVDNVKGTGKAGRILKGD---------*
+>P1;gi|44256475|gb|EAI00527.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 80 .. 116 ]
+sequence
+--LSPAVRKIVTENKIDIKSVKGSGKDGRVLKGDLINLM----*
+>P1;gi|43176303|gb|EAC53728.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 127 .. 163 ]
+sequence
+--LSPAVRKMVSEKNINTEDISGSGKDGRIVKGDLMHLM----*
+>P1;gi|43576613|gb|EAE43069.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 40 .. 76 ]
+sequence
+--LSPAVRKIVTENKIDIKSVKGSGKEGRILKGDLINLM----*
+>P1;gi|29840237|ref|NP_829343.1| pyruvate dehydrogenase, E2 componen... [ score 49 E 3e-05 ] [ range 147 .. 181 ]
+sequence
+--VSPLAKRLAKEKNLDISGIKGSGPGGRIVEKDLEK------*
+>P1;gi|43414844|gb|EAD66872.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 149 .. 185 ]
+sequence
+--LSPAVRKIVKENNINTDQVKGTGKDGRIMKGDLLSLM----*
+>P1;gi|42876743|gb|EAB05580.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 9 .. 40 ]
+sequence
+--LSPAVRKIVDEKKIDISRIKGTGRDGRILKGD---------*
+>P1;gi|43660444|gb|EAE85167.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 160 .. 191 ]
+sequence
+--LSPAVRKMVNEKNIDIRSVKGSGKDGRILKGD---------*
+>P1;gi|44542070|gb|EAJ98023.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 133 .. 167 ]
+sequence
+--LSPAVRKIAAEKNIDISQVATARSDGRITKGDILA------*
+>P1;gi|34894566|ref|NP_908608.1| putative branched chain alpha-keto ... [ score 49 E 3e-05 ] [ range 200 .. 234 ]
+sequence
+---TPAVRHLAKQYGLNISDIQGTGKDGRVLKEDVLSY-----*
+>P1;gi|43598998|gb|EAE54353.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 152 .. 184 ]
+sequence
+--LSPAVRKIITEKNIDINKIKGTGRDGRILKGDL--------*
+>P1;gi|44406176|gb|EAJ04677.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 136 .. 167 ]
+sequence
+--LSPAVRKMVVEKKININEVKGTGKDGRILKGD---------*
+>P1;gi|129040|sp|P20708|ODO2_AZOVI Dihydrolipoyllysine-residue succi... [ score 49 E 3e-05 ] [ range 105 .. 136 ]
+sequence
+--LSPAARKIAEENAIAADSITGTGKGGRVTKED---------*
+>P1;gi|44527583|gb|EAJ88076.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 262 .. 295 ]
+sequence
+---SPAVRRVAREKNIDLSTVEGSGKKGRILKSDVLN------*
+>P1;gi|44141910|gb|EAH35486.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 187 .. 221 ]
+sequence
+--VTPLVRRLAAQHDIDLSTVTGSGVGGRIRKADVLA------*
+>P1;gi|43903756|gb|EAG06276.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 151 .. 187 ]
+sequence
+--LSPAVRKIVEENNIDINSVKGTGKSGQILKGDLINLM----*
+>P1;gi|11994364|dbj|BAB02323.1| dihydrolipoamide acetyltransferase [... [ score 49 E 3e-05 ] [ range 257 .. 292 ]
+sequence
+---SPLARKLAEDNNVPLSSIKGTGPEGRIVKADVEDFL----*
+>P1;gi|42954884|gb|EAB44422.1| unknown [environmental sequence] [ score 49 E 4e-05 ] [ range 157 .. 188 ]
+sequence
+--LSPSVRKIVEEGNINISNIEGTGKGGRISKGD---------*
+>P1;gi|44340214|gb|EAI57744.1| unknown [environmental sequence] [ score 49 E 4e-05 ] [ range 115 .. 149 ]
+sequence
+----PAAKRIIEEKELNPSEIKGSGKDGRITKADVISHV----*
+>P1;gi|25028654|ref|NP_738708.1| putative dihydrolipoamide acyltrans... [ score 49 E 4e-05 ] [ range 261 .. 295 ]
+sequence
+--VTPLVRKLAEKHGVDLNSVKGTGIGGRIRKQDVLA------*
+>P1;gi|44387400|gb|EAI91491.1| unknown [environmental sequence] [ score 49 E 4e-05 ] [ range 151 .. 182 ]
+sequence
+--MSPAVRKIVVENNIDINSIQGSGKDGRVLKGD---------*
+>P1;gi|21283197|ref|NP_646285.1| branched-chain alpha-keto acid dehy... [ score 49 E 4e-05 ] [ range 125 .. 156 ]
+sequence
+---SPVVFKLASEHDIDLSQVVGSGFEGRVTKKDI--------*
+>P1;gi|43887723|gb|EAF97759.1| unknown [environmental sequence] [ score 49 E 4e-05 ] [ range 87 .. 118 ]
+sequence
+--LSPAVRKIVTENNIDINKIRGTGREGRILKGD---------*
+>P1;gi|22298842|ref|NP_682089.1| dihydrolipoamide S-acetyltransferas... [ score 49 E 4e-05 ] [ range 138 .. 173 ]
+sequence
+---SPRARKLAKEHKIDLKTLKGTGPNGRITAADVEALI----*
+>P1;gi|29832565|ref|NP_827199.1| putative dihydrolipoamide S-succiny... [ score 49 E 4e-05 ] [ range 305 .. 337 ]
+sequence
+--VTPLVRKLAAENGVDLATVKGTGVGGRIRKQDV--------*
+>P1;gi|42963109|gb|EAB48508.1| unknown [environmental sequence] [ score 48 E 4e-05 ] [ range 111 .. 147 ]
+sequence
+--LSPAVRKIVEENKIDISNLEGTGKSGRISKGDLINLM----*
+>P1;gi|40739336|gb|EAA58526.1| hypothetical protein AN6708.2 [Asperg... [ score 48 E 4e-05 ] [ range 206 .. 241 ]
+sequence
+--ISPAAKALALEKGVPIKALKGTGRGGQITKEDVEKY-----*
+>P1;gi|44344489|gb|EAI60783.1| unknown [environmental sequence] [ score 48 E 4e-05 ] [ range 94 .. 129 ]
+sequence
+--ISPLAKKLASEKEIDISLIKGTGDNGRIIKRDIDSY-----*
+>P1;gi|39933265|ref|NP_945541.1| dihydrolipoamide succinyl transfera... [ score 48 E 4e-05 ] [ range 121 .. 157 ]
+sequence
+--LAPSVRRLSTESGVDASTVPGSGKDGRVTKGDMLAAI----*
+>P1;gi|43025850|gb|EAB79626.1| unknown [environmental sequence] [ score 48 E 4e-05 ] [ range 151 .. 187 ]
+sequence
+--LSPAVRKIVTENKIDISSVKGTGKDGRVLKGDLINLM----*
+>P1;gi|15614387|ref|NP_242690.1| acetoin dehydrogenase E2 component ... [ score 48 E 4e-05 ] [ range 122 .. 157 ]
+sequence
+---SPVARKMALKAGINLENIVGTGPGGRITKADVEKAI----*
+>P1;gi|18157428|dbj|BAB83769.1| dihydrolipoyl acetyltransferase [Geo... [ score 85 E 4e-16 ] [ range 129 .. 171 ]
+sequence
+VIAMPSVRKYAREKGVDIRLVQGTGKNGRILKEDIDAFLAGGA*
+>P1;gi|16078524|ref|NP_389343.1| pyruvate dehydrogenase (dihydrolipo... [ score 82 E 3e-15 ] [ range 140 .. 182 ]
+sequence
+VIAMPSVRKYAREKGVDIRKVTGSGNNGRVVKEDIDSFVNGGA*
+>P1;gi|2499415|sp|Q59821|ODP2_STAAU Dihydrolipoyllysine-residue acet... [ score 80 E 2e-14 ] [ range 124 .. 166 ]
+sequence
+VKAMPSVRKYAREKGVNIKAVSGSGKNGRITKEDVDAYLNGGA*
+>P1;gi|27467711|ref|NP_764348.1| dihydrolipoamide S-acetyltransferas... [ score 79 E 3e-14 ] [ range 127 .. 169 ]
+sequence
+VKAMPSVRKYARENGVNIKAVNGSGKNGRITKEDIDAYLNGGS*
+>P1;gi|97897|pir||S16989 dihydrolipoamide S-acetyltransferase (EC 2.... [ score 78 E 4e-14 ] [ range 229 .. 271 ]
+sequence
+VLAMPSVRQYAREKNVDITQVTATGKGGRVIKADIDAFVSGGS*
+>P1;gi|29375922|ref|NP_815076.1| pyruvate dehydrogenase complex E2 c... [ score 78 E 4e-14 ] [ range 229 .. 271 ]
+sequence
+VLAMPSVRQYAREKDVDITQVTATGKGGRVIKADIDAFVSGGS*
+>P1;gi|15615216|ref|NP_243519.1| pyruvate dehydrogenase E2 (dihydrol... [ score 78 E 8e-14 ] [ range 123 .. 163 ]
+sequence
+VIAMPSVRKYAREKGVNIKKVKGTGKNGRILREDIDAFLSG--*
+>P1;gi|30022059|ref|NP_833690.1| Dihydrolipoamide acetyltransferase ... [ score 77 E 8e-14 ] [ range 122 .. 163 ]
+sequence
+VIAMPSVRKYAREKGVDIHKVAGTGKNGRIVKADIDAFANGG-*
+>P1;gi|21402023|ref|NP_658008.1| 2-oxoacid_dh, 2-oxo acid dehydrogen... [ score 76 E 3e-13 ] [ range 112 .. 153 ]
+sequence
+VIAMPSVRKYARENGVDIHKVAGSGKNGRIVKADIDAFANGG-*
+>P1;gi|43210507|gb|EAC70792.1| unknown [environmental sequence] [ score 76 E 3e-13 ] [ range 99 .. 139 ]
+sequence
+VHASPSVRKLGRELGVDLNQVNGSGMKGRILPEDLKSFVKS--*
+>P1;gi|44248921|gb|EAH95208.1| unknown [environmental sequence] [ score 75 E 4e-13 ] [ range 368 .. 407 ]
+sequence
+VHASPAVRRLAREFGVDLTQVTGSGRKGRIMKEDVQAYVK---*
+>P1;gi|44401895|gb|EAJ01663.1| unknown [environmental sequence] [ score 75 E 4e-13 ] [ range 222 .. 263 ]
+sequence
+-LASPAVRRLARELSIDLSLVPGSGDKGRVYKEDVKAYANGGA*
+>P1;gi|43652169|gb|EAE80950.1| unknown [environmental sequence] [ score 74 E 8e-13 ] [ range 27 .. 67 ]
+sequence
+-LASPAVRRRAREAGVDLSQVPGTGPAGRISHDDLDSFISGG-*
+>P1;gi|30248377|ref|NP_840447.1| aceF; dihydrolipoamide acetyltransf... [ score 74 E 9e-13 ] [ range 155 .. 193 ]
+sequence
+-HASPSVRRFARELGVDLSKVVGTGPKQRILKEDVQAFVK---*
+>P1;gi|22990261|ref|ZP_00035164.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 74 E 9e-13 ] [ range 176 .. 215 ]
+sequence
+-HASPSVRKFARELGVDVTQVQGTGPKGRITQADVTAFIKG--*
+>P1;gi|44574524|gb|EAK20940.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 264 .. 302 ]
+sequence
+-HASPSVRKFARELGVDLSRVNGSGRKGRITHEDVQGHVK---*
+>P1;gi|43544135|gb|EAE26785.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 12 .. 52 ]
+sequence
+--ASPKVRKFARELGVDINQVKGSERKGRIIENDIKLFVASKS*
+>P1;gi|43493708|gb|EAE01688.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 51 .. 91 ]
+sequence
+VHAGPAVRKLARELGADLTRVKGSGPKGRIIKDDVHAYVKS--*
+>P1;gi|44504907|gb|EAJ72790.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 3 .. 45 ]
+sequence
+VHASPAVRRIARELDVDLSSVRATGPKNRITKEDVKRYLQGGA*
+>P1;gi|27762280|gb|AAO17575.1| dihydrolipoamide S-acetyltransferase ... [ score 72 E 3e-12 ] [ range 353 .. 391 ]
+sequence
+VFASPLAKKLAAEKGVDITQVTGTGPDGRVTKKDIDSFV----*
+>P1;gi|43776578|gb|EAF42775.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 101 .. 139 ]
+sequence
+-HASPSVRKFARELGVDLSRVNGSGRKGRITHEDVQLHVK---*
+>P1;gi|43251356|gb|EAC91363.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 6 .. 44 ]
+sequence
+-HASPSIRKFARELGVNLSQVLGTGRKGRITHQDVQSFVK---*
+>P1;gi|15966687|ref|NP_387040.1| PROBABLE LIPOAMIDE ACYLTRANSFERASE ... [ score 72 E 3e-12 ] [ range 140 .. 181 ]
+sequence
+-LASPAVRLRARESGIDLRQVAGTGPAGRITHEDLDLFISRGA*
+>P1;gi|44576461|gb|EAK22281.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 121 .. 159 ]
+sequence
+-HASPSIRKFARELGVDLSQVHGTGRKGRITQQDVQVFVK---*
+>P1;gi|44645954|gb|EAK71701.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 5 .. 44 ]
+sequence
+ILATPKVRKFARELGADISNLKGSERNGRITEEDVKNFIK---*
+>P1;gi|43362070|gb|EAD45875.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 72 .. 113 ]
+sequence
+VLASPKVRKFARELGTDVSKISGSEKFGRVTEEDVKSFIKLG-*
+>P1;gi|44360698|gb|EAI72449.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 247 .. 286 ]
+sequence
+-HASPSVRKFARELGVEVARVQGSGPKGRITKEDVTSFVKG--*
+>P1;gi|16803094|ref|NP_464579.1| highly similar to pyruvate dehydrog... [ score 72 E 4e-12 ] [ range 236 .. 276 ]
+sequence
+VIAMPSVRKYAREKGVNIAEVAGSGKNNRVVKADIDAFLNG--*
+>P1;gi|17546320|ref|NP_519722.1| PROBABLE DIHYDROLIPOAMIDE ACETYLTRA... [ score 72 E 5e-12 ] [ range 249 .. 288 ]
+sequence
+-HASPSVRKYARELGVDVNLVGGTGPKNRITQEDVQRYVKG--*
+>P1;gi|43219691|gb|EAC75397.1| unknown [environmental sequence] [ score 72 E 5e-12 ] [ range 37 .. 75 ]
+sequence
+--ASPAVRRKARELDVDLTQVPGSGKNGRIYKQDIEEFIKG--*
+>P1;gi|43863483|gb|EAF85801.1| unknown [environmental sequence] [ score 72 E 5e-12 ] [ range 48 .. 88 ]
+sequence
+VNAGPAVRKYARELEIDLTKIKGSGKNQRVTKEDLKNFIHS--*
+>P1;gi|43694251|gb|EAF02345.1| unknown [environmental sequence] [ score 72 E 5e-12 ] [ range 10 .. 52 ]
+sequence
+VPASPKVRKFARELGVDINKVSGSERDGRVIENDIKLFVSSKS*
+>P1;gi|43689956|gb|EAF00164.1| unknown [environmental sequence] [ score 72 E 5e-12 ] [ range 74 .. 115 ]
+sequence
+VLASPAVRKRARENDVDLSNVRGSGPAGRIRHADLDAFIAAG-*
+>P1;gi|43696913|gb|EAF03706.1| unknown [environmental sequence] [ score 72 E 6e-12 ] [ range 17 .. 57 ]
+sequence
+--ASPKARKFARELGVDINQVAGTQRDGRVVEDDIKKFVSSNS*
+>P1;gi|43198263|gb|EAC64677.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 28 .. 66 ]
+sequence
+-HASPSIRKFARELGVDLSQVDGTGRKGRITQQDVQVFVK---*
+>P1;gi|44047471|gb|EAG83800.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 70 .. 110 ]
+sequence
+--ASPKARKFARELGVDITQVAGSEKDGRVIEDDIKKFVSSNS*
+>P1;gi|44239134|gb|EAH88534.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 10 .. 52 ]
+sequence
+VSATPKVRKFARELGVDINKVTGSERQGRVTESDIKLFVSNKS*
+>P1;gi|44157093|gb|EAH43529.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 123 .. 163 ]
+sequence
+--ASPKARKFARELGVDINQVTGSQKDGRIVEDDIKKFVSSNS*
+>P1;gi|34495982|ref|NP_900197.1| dihydrolipoamide S-acetyltransferas... [ score 71 E 6e-12 ] [ range 252 .. 291 ]
+sequence
+-HAGPSVRRLARELGVDLGKVKGNGRKGRITEDDVKAFVKG--*
+>P1;gi|43799214|gb|EAF54210.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 14 .. 54 ]
+sequence
+VYAGPAVRKLAREFGIDLSLVQPTGPKNRIQKEDLHQFVKS--*
+>P1;gi|13540931|ref|NP_110619.1| Dihydrolipoamide acyltransferase [T... [ score 71 E 7e-12 ] [ range 115 .. 155 ]
+sequence
+VLASPAVRRIARENGIDLAKVKGTGDNGRVTLDDLDAYMRG--*
+>P1;gi|42838892|gb|EAA86913.1| unknown [environmental sequence] [ score 71 E 7e-12 ] [ range 51 .. 91 ]
+sequence
+--ASPKARKFARELGVDINQVAGSQKDGRVVEDDIKKFVSSNS*
+>P1;gi|44248078|gb|EAH94503.1| unknown [environmental sequence] [ score 71 E 8e-12 ] [ range 18 .. 57 ]
+sequence
+VHSGPATRKLAREFGIDLTVVQGSGPKGRILKEDLHDYVK---*
+>P1;gi|43359329|gb|EAD44518.1| unknown [environmental sequence] [ score 71 E 8e-12 ] [ range 88 .. 129 ]
+sequence
+VLASPAVRKRARENDVDLSKVRGSGPAGRVRHADLDAFIAAG-*
+>P1;gi|32422919|ref|XP_331903.1| hypothetical protein [Neurospora cr... [ score 71 E 8e-12 ] [ range 230 .. 269 ]
+sequence
+-LATPAVRHLARELSVDITQIPGTGKDGRVLKEDVYKFLQA--*
+>P1;gi|44271333|gb|EAI10705.1| unknown [environmental sequence] [ score 71 E 9e-12 ] [ range 123 .. 162 ]
+sequence
+-YASPKARKFARELGVDINQVLGSEKDGRVIEEDIKKFVSS--*
+>P1;gi|27381444|ref|NP_772973.1| lipoamide acyltransferase component... [ score 71 E 9e-12 ] [ range 142 .. 182 ]
+sequence
+-LASPAIRLKAREAGLDLRQVHGTGPAGRITHEDIDAFLSRG-*
+>P1;gi|43816303|gb|EAF62695.1| unknown [environmental sequence] [ score 71 E 9e-12 ] [ range 105 .. 145 ]
+sequence
+--ASPKVRKFARELGVDINEVKGSERKGRVIESDVKLFVASKS*
+>P1;gi|43109328|gb|EAC20735.1| unknown [environmental sequence] [ score 71 E 9e-12 ] [ range 25 .. 65 ]
+sequence
+-LASPKTRKFARELGVDINNITGSQRSGRIIEEDIKKFVSSN-*
+>P1;gi|44605004|gb|EAK42286.1| unknown [environmental sequence] [ score 71 E 9e-12 ] [ range 267 .. 306 ]
+sequence
+-HASPSVRRIAREFGVDLTQVNGSGPKNRILKEDVQAYVKA--*
+>P1;gi|44557855|gb|EAK09053.1| unknown [environmental sequence] [ score 71 E 1e-11 ] [ range 8 .. 48 ]
+sequence
+ISASPKVRKFARELGVDINKVKGTERSGRVVEKDLKDFVSS--*
+>P1;gi|31711992|ref|NP_001922.2| dihydrolipoamide S-acetyltransferas... [ score 70 E 1e-11 ] [ range 355 .. 393 ]
+sequence
+VFVSPLAKKLAVEKGIDLTQVKGTGPDGRITKKDIDSFV----*
+>P1;gi|43413628|gb|EAD66446.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 122 .. 162 ]
+sequence
+--ASPKVRKFARELGVDINQVTGSERKGRVIESDIKLFVASKS*
+>P1;gi|44202190|gb|EAH67401.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 77 .. 117 ]
+sequence
+--ASPKVRKFARELGVDINQVTGSERKGRVIENDVKLFVASKS*
+>P1;gi|43073118|gb|EAC02835.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 126 .. 166 ]
+sequence
+-LASPKTRKFARELGVDINNVTGSQRSGRIIEEDIKKFVSSN-*
+>P1;gi|32029331|ref|ZP_00132374.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 70 E 1e-11 ] [ range 9 .. 48 ]
+sequence
+-HATPVVRRLAREFGVNLDKVKGTGRKGRILKEDVQAYVKA--*
+>P1;gi|43657529|gb|EAE83682.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 10 .. 49 ]
+sequence
+ISASPKVRKFARELGVDIQQVKGSQREGRVIEDDIKLFVS---*
+>P1;gi|44627184|gb|EAK58310.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 116 .. 156 ]
+sequence
+INAGPAVRKYARELEIDLTKINGTGKNKRITKEDLKNFIHS--*
+>P1;gi|23098869|ref|NP_692335.1| pyruvate dehydrogenase E2 [Oceanoba... [ score 70 E 1e-11 ] [ range 125 .. 165 ]
+sequence
+VIAMPSVRKFARDNDVNIKDVNGTGKNGRILKEDVESYLSG--*
+>P1;gi|43961151|gb|EAG36899.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 123 .. 163 ]
+sequence
+--ASPKARKFARELGVDINQVEGSQKDGRVVEDDIKKFVSSNS*
+>P1;gi|44136063|gb|EAH32240.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 116 .. 156 ]
+sequence
+VYAGPAVRKLAREFGVSLSKVRGTGARGRILKEDLQQYVAG--*
+>P1;gi|16800115|ref|NP_470383.1| highly similar to pyruvate dehydrog... [ score 70 E 1e-11 ] [ range 236 .. 276 ]
+sequence
+VIAMPSVRKYAREKDVNIAEVAGSGKNNRVVKADIDAFLNG--*
+>P1;gi|44180477|gb|EAH55915.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 122 .. 162 ]
+sequence
+--ASPKVRKFARELGVDINQVAGSERKGRVIERDVKLFVASKS*
+>P1;gi|43593932|gb|EAE51827.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 128 .. 168 ]
+sequence
+IYAGPAVRKLAREFGIDLNKVSASGPRNRILKEDLHKFVKS--*
+>P1;gi|44376955|gb|EAI83851.1| unknown [environmental sequence] [ score 70 E 1e-11 ] [ range 138 .. 177 ]
+sequence
+VHSGPATRKLAREFGIDLTNVHGSGPKGRILKEDLHDYVK---*
+>P1;gi|42915983|gb|EAB25064.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 8 .. 48 ]
+sequence
+ISASPKVRKFARELGVDINNVKGTERSGRVVEKDLKDFVSS--*
+>P1;gi|266685|sp|P08461|ODP2_RAT Dihydrolipoyllysine-residue acetylt... [ score 70 E 2e-11 ] [ range 264 .. 302 ]
+sequence
+VFVSPLAKKLAAEKGIDLTQVKGTGPEGRIIKKDIDSFV----*
+>P1;gi|43471992|gb|EAD90738.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 84 .. 124 ]
+sequence
+INAGPAVRKYARELEIDLTKINGTGKNQRITKEDLKNYIHS--*
+>P1;gi|44057706|gb|EAG89467.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 83 .. 123 ]
+sequence
+IYAGPAVRKLAREFGINLILVQPTGPRNRILKEDLHSFVKG--*
+>P1;gi|44431342|gb|EAJ22215.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 8 .. 48 ]
+sequence
+ISASPKVRKFARELGVDINNVKGTERSGRVVEKDLKEFVSS--*
+>P1;gi|44305831|gb|EAI33865.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 260 .. 299 ]
+sequence
+VYAGPAVRKLARELGVDLTLVQGSGAKNRIVKDDINEFVK---*
+>P1;gi|22975802|ref|ZP_00021739.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 70 E 2e-11 ] [ range 251 .. 290 ]
+sequence
+-HASPTVRKFARELGVDVSRVPGTAPKGRITQEDVQNYVKS--*
+>P1;gi|44011647|gb|EAG64200.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 8 .. 48 ]
+sequence
+ISASPKVRKFARELGVDINNVKGTERAGRVVEKDLKDFVSS--*
+>P1;gi|44163930|gb|EAH47157.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 19 .. 58 ]
+sequence
+IHSGPATRKLAREFGINLSLVAGSGPKGRILKEDLHQYVK---*
+>P1;gi|43450684|gb|EAD80006.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 48 .. 87 ]
+sequence
+VHAGPAVRKLARETGVDLSQVSGTGPKDRILKDDVHAYVK---*
+>P1;gi|29653806|ref|NP_819498.1| pyruvate dehydrogenase, E2 componen... [ score 70 E 2e-11 ] [ range 140 .. 179 ]
+sequence
+VHAGPAVRRIAREFGIDLTKIKGTGQKDRILKEDVQKFVK---*
+>P1;gi|43203323|gb|EAC67212.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 13 .. 53 ]
+sequence
+IYAGPAVRKLAREFGIDLNKVIATGPRNRILKEDLHKFVKS--*
+>P1;gi|44253431|gb|EAH98439.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 138 .. 177 ]
+sequence
+VHSGPATRKLAREFGIDLNKVNGSGPKNRILKEDLHDYVK---*
+>P1;gi|43872462|gb|EAF90215.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 11 .. 49 ]
+sequence
+-HASPSIRKFARELGVDLSQVNGTGRKDRITQQDVQVFVK---*
+>P1;gi|44290955|gb|EAI23904.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 326 .. 365 ]
+sequence
+VHASPAVRRLAREFGVNLAKVKASGRKGRIVKEDVQAYVK---*
+>P1;gi|44397826|gb|EAI98873.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 116 .. 156 ]
+sequence
+INAGPAVRKYARELEIDLTKISGTGKNQRITKEDLKNYIHS--*
+>P1;gi|44410608|gb|EAJ07739.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 122 .. 162 ]
+sequence
+--ASPKVRKFARELGVDIMQVKGSEREGRVIESDIKLFVASKS*
+>P1;gi|43456657|gb|EAD82994.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 156 .. 194 ]
+sequence
+-HASPSVRKFARELGVDLSGVKGSGRKGRITHKDVQGHVK---*
+>P1;gi|43528370|gb|EAE18887.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 139 .. 176 ]
+sequence
+IYAGPAVRKLAREFGIDLSKVLGSGPKNRILKSDLHKF-----*
+>P1;gi|42926088|gb|EAB30091.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 5 .. 44 ]
+sequence
+IHASPKVRKFARQLGADISQLKGSERNGRITEDDVRNFIK---*
+>P1;gi|43221529|gb|EAC76324.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 8 .. 46 ]
+sequence
+-FATPKVRKFARELGANIKQIKGTERKGRITQDDVKNFVN---*
+>P1;gi|43218961|gb|EAC75030.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 111 .. 150 ]
+sequence
+IHSGPATRKLAREFGINLSLVVGSGPKGRILKEDLHQYVK---*
+>P1;gi|43602654|gb|EAE56169.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 8 .. 46 ]
+sequence
+-FATPKVRKFARELGANIDQIKGTERKGRITQDDVKNFIN---*
+>P1;gi|43731055|gb|EAF20334.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 55 .. 95 ]
+sequence
+--ASPKVRKFARELGVDINQVVGSERKGRVIESDVKLFVASKS*
+>P1;gi|16759150|ref|NP_454767.1| dihydrolipoamide acetyltransferase ... [ score 69 E 3e-11 ] [ range 326 .. 365 ]
+sequence
+VHATPLIRRLAREFGVNLAKVKGTGRKGRILREDVQAYVK---*
+>P1;gi|44273109|gb|EAI11958.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 128 .. 168 ]
+sequence
+IYAGPAVRKLAREFGIDLNQVIASGPRNRILKEDLHKFVKS--*
+>P1;gi|44075688|gb|EAG99441.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 8 .. 47 ]
+sequence
+VLASPKIRKFARELGVDINKISGSERKNRVIESDVKKFIS---*
+>P1;gi|43066505|gb|EAB99538.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 127 .. 166 ]
+sequence
+IHSGPATRKLAREFGIDLNQITGSGPSNRILKEDLHNYVK---*
+>P1;gi|44277599|gb|EAI14983.1| unknown [environmental sequence] [ score 69 E 4e-11 ] [ range 141 .. 180 ]
+sequence
+-HASPSVRRFARELGVDLGLVYGKGPKNRILKEDVKAFTKS--*
+>P1;gi|43045967|gb|EAB89421.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 86 .. 123 ]
+sequence
+--ASPKARKFARELGVDINKVLGSERDGRVVEEDIKQFVA---*
+>P1;gi|44484514|gb|EAJ59701.1| unknown [environmental sequence] [ score 69 E 4e-11 ] [ range 123 .. 164 ]
+sequence
+INAGPAVRKYARELEINLDSIKGTGRDGRITKDDLKRYIHQG-*
+>P1;gi|43553654|gb|EAE31612.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 10 .. 49 ]
+sequence
+--ASPKVRKFARELGVDITNVKGSERLGRVTEKDLKEFVSSN-*
+>P1;gi|320108|pir||A40497 dihydrolipoamide S-acetyltransferase (EC 2... [ score 68 E 4e-11 ] [ range 322 .. 360 ]
+sequence
+VFVDPLAKKLAVEKGIDLTQVKGTGPDGRITKKDIDSFV----*
+>P1;gi|42864496|gb|EAA99499.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 85 .. 125 ]
+sequence
+--ASPKARKFARELGVNINQVVGSQKDGRVIEDDIKKFVSSNS*
+>P1;gi|43671958|gb|EAE91020.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 64 .. 104 ]
+sequence
+INAGPAVRKYARELEIDLTKINGTGKNLRITKEDLKNYIHS--*
+>P1;gi|44533585|gb|EAJ92177.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 8 .. 48 ]
+sequence
+ISASPKVRKFARELGVDINNVKGTERLGRVVEKDLKDFVSS--*
+>P1;gi|43129611|gb|EAC30643.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 125 .. 166 ]
+sequence
+VLASPKVRKFARELGTDVNKVKGSEKFGRVTEDDVKNFIKLG-*
+>P1;gi|44257092|gb|EAI00929.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 10 .. 49 ]
+sequence
+VPASPKARKFARELGIDINKISGSERQGRVTERDIKLFVS---*
+>P1;gi|43632807|gb|EAE71031.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 26 .. 65 ]
+sequence
+-HASPSVRRVAREFGVDLTLVKGSGRKNRILKEDVQEYVKA--*
+>P1;gi|43843937|gb|EAF76241.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 30 .. 68 ]
+sequence
+---SPSVRRLLAEKGVDAAKVKGTGKNGRITKEDVEKYLKGG-*
+>P1;gi|44233341|gb|EAH84912.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 223 .. 262 ]
+sequence
+-HASPSVRKFARELGVDVVQVQGTGPKGRITQADVTAFIKG--*
+>P1;gi|43468348|gb|EAD88895.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 127 .. 166 ]
+sequence
+IHSGPATRKLAREFGIDLNQISGSGPSNRILKEDLHNYVK---*
+>P1;gi|16123567|ref|NP_406880.1| dihydrolipoamide acetyltransferase ... [ score 68 E 5e-11 ] [ range 206 .. 245 ]
+sequence
+VHATPVIRRLAREFGVNLAKVKGTGRKGRILREDIQAYVK---*
+>P1;gi|40063401|gb|AAR38212.1| pyruvate dehydrogenase, E2 component,... [ score 68 E 6e-11 ] [ range 141 .. 180 ]
+sequence
+-HASPSVRKFARNLGVNLSFVNGSGNKNRILIEDIERFVKG--*
+>P1;gi|28378765|ref|NP_785657.1| pyruvate dehydrogenase complex, E2 ... [ score 68 E 6e-11 ] [ range 121 .. 163 ]
+sequence
+VLAMPSVRQYARDKDIDITLVTPTGAHGQITKQDIDNYTGAPA*
+>P1;gi|23118298|ref|ZP_00101905.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 68 E 6e-11 ] [ range 117 .. 156 ]
+sequence
+-YASPAVRLFARELGVDLTRVSGSARGGRISKEDVQSFVKG--*
+>P1;gi|43233040|gb|EAC82109.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 137 .. 176 ]
+sequence
+VHSGPATRKLAREFGIDLNKVFGTGPKNRILKEDLHEYVK---*
+>P1;gi|37527490|ref|NP_930834.1| dihydrolipoamide acetyltransferase ... [ score 68 E 6e-11 ] [ range 229 .. 268 ]
+sequence
+VHATPVIRRLAREFGVNLAKVKGTGRKGRVLREDVQAYVK---*
+>P1;gi|44275831|gb|EAI13794.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 227 .. 267 ]
+sequence
+VYAGPAVRRLARELGVDLINVPGSGLNGRISKEDVKNYVKS--*
+>P1;gi|42631863|ref|ZP_00157401.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 68 E 7e-11 ] [ range 246 .. 284 ]
+sequence
+-HATPVIRRLAREFGVNLDKVKGTGRKGRIVKEDIEAYVK---*
+>P1;gi|44392836|gb|EAI95339.1| unknown [environmental sequence] [ score 68 E 7e-11 ] [ range 128 .. 168 ]
+sequence
+IYAGPAVRKLAREFGIDLNKVIASGPRNRILKEDLHKFVKS--*
+>P1;gi|27364995|ref|NP_760523.1| Pyruvate/2-oxoglutarate dehydrogena... [ score 68 E 7e-11 ] [ range 329 .. 367 ]
+sequence
+-HASPVVRRLAREFGVNLSKVKGSGRKSRILKEDVQAYVK---*
+>P1;gi|14587786|dbj|BAB61720.1| dihydrolipoamide acetyltransferase [... [ score 68 E 8e-11 ] [ range 356 .. 393 ]
+sequence
+-FVSPLAKKLASEKGIDLTQIKGTGPDGRIIKKDIDSFV----*
+>P1;gi|44361750|gb|EAI73215.1| unknown [environmental sequence] [ score 67 E 8e-11 ] [ range 12 .. 52 ]
+sequence
+VLASPKARKFARELGVDVRDVVGSERLGRVIEEDIKEFVSS--*
+>P1;gi|44014780|gb|EAG65917.1| unknown [environmental sequence] [ score 67 E 8e-11 ] [ range 38 .. 76 ]
+sequence
+ILAGPAVRKYARELELDLTSINGMGKDGRITKDDLKRFI----*
+>P1;gi|44460005|gb|EAJ42380.1| unknown [environmental sequence] [ score 68 E 8e-11 ] [ range 17 .. 54 ]
+sequence
+--ASPKARKFARELGVDINKVLGSERDGRVVEDDIKKFVA---*
+>P1;gi|15837471|ref|NP_298159.1| dihydrolipoamide acetyltranferase [... [ score 68 E 8e-11 ] [ range 241 .. 280 ]
+sequence
+-YASPAVRLLARQLGVDLSRIKGSEKNGRITREDVQKFVNA--*
+>P1;gi|44160773|gb|EAH45448.1| unknown [environmental sequence] [ score 68 E 8e-11 ] [ range 10 .. 49 ]
+sequence
+--ASPKVRKFARELGVDINSVKGSERLGRVVEKDLKEFVSSN-*
+>P1;gi|44428996|gb|EAJ20570.1| unknown [environmental sequence] [ score 68 E 8e-11 ] [ range 123 .. 163 ]
+sequence
+--ASPKARKFARELGVDINQVVGSQKDGRVVEDDIKKFVSSNS*
+>P1;gi|44641543|gb|EAK68386.1| unknown [environmental sequence] [ score 68 E 8e-11 ] [ range 127 .. 164 ]
+sequence
+--ASPKVRKFARELGVDISKVEGSERLGRVTESDVKSFVA---*
+>P1;gi|43601257|gb|EAE55479.1| unknown [environmental sequence] [ score 68 E 8e-11 ] [ range 5 .. 44 ]
+sequence
+--ASPKARKFARELGVNINLVSGSERDGRVVEDDIKKFISSN-*
+>P1;gi|43270340|gb|EAD00927.1| unknown [environmental sequence] [ score 67 E 9e-11 ] [ range 7 .. 46 ]
+sequence
+IFATPKVRRFARELGANVSLIEGTERKGRITEEDVKNFIN---*
+>P1;gi|43922979|gb|EAG16323.1| unknown [environmental sequence] [ score 67 E 9e-11 ] [ range 10 .. 48 ]
+sequence
+--ASPKVRKFARELGANINEVSGTQRSGRVTEEDIKNFVKS--*
+>P1;gi|15672042|ref|NP_266216.1| dihydrolipoamide acetyltransferase ... [ score 67 E 1e-10 ] [ range 223 .. 263 ]
+sequence
+ILAMPSVRHYARKAGIDLSQVPATGRHGHTTLADVKAFESG--*
+>P1;gi|27378832|ref|NP_770361.1| dihydrolipoamide S-acetyltransferas... [ score 67 E 1e-10 ] [ range 220 .. 260 ]
+sequence
+-YAGPAVRKLAREMGVDLGKIKGSGNHGRIVREDVEASAKGG-*
+>P1;gi|20805283|gb|AAM28646.1| dihydrolipoamide acetyltransferase pr... [ score 67 E 1e-10 ] [ range 331 .. 368 ]
+sequence
+VFVSPLAKKLAAEKGIDIKQVKGSGPEGRITKKDIDSF-----*
+>P1;gi|22406400|ref|ZP_00001248.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 67 E 1e-10 ] [ range 110 .. 152 ]
+sequence
+VKATPAVRAYARSKNVDILKVKPAAQDGRITKEDVDAYMKQPA*
+>P1;gi|43711768|gb|EAF10984.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 7 .. 46 ]
+sequence
+ILATPKVRKFARELGANVSDIKGTERKGRITEHDVKNYIS---*
+>P1;gi|28899292|ref|NP_798897.1| pyruvate dehydrogenase, E2 componen... [ score 67 E 1e-10 ] [ range 322 .. 360 ]
+sequence
+-HASPVVRRLAREFGVNLSKVKGSGRKSRILKEDVQNYVK---*
+>P1;gi|44435943|gb|EAJ25415.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 7 .. 46 ]
+sequence
+IFATPKVRKFARELGANITEIEGSERLGRITEEDVKNFVN---*
+>P1;gi|43651734|gb|EAE80721.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 76 .. 115 ]
+sequence
+VHAGPAVRMLARELGVDLGLVKPSGPKERVLKEDVHAYVK---*
+>P1;gi|23469848|ref|ZP_00125182.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 67 E 1e-10 ] [ range 267 .. 306 ]
+sequence
+VHAGPAVRQLAREFGVELNAVSATGPHGRVLKEDVQAYVK---*
+>P1;gi|33152659|ref|NP_874012.1| dihydrolipoamide acetyltransferase;... [ score 67 E 1e-10 ] [ range 218 .. 256 ]
+sequence
+-HATPVIRRLAREFGVNLDKVKGSGRKGRIIKEDLQAYVK---*
+>P1;gi|15642410|ref|NP_232043.1| pyruvate dehydrogenase, E2 componen... [ score 67 E 1e-10 ] [ range 328 .. 366 ]
+sequence
+-HASPVVRRLAREFGVNLAKVKGSGRKNRILKEDVQNYVK---*
+>P1;gi|44062914|gb|EAG92357.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 77 .. 117 ]
+sequence
+--ASPKVRKFARELGVDISKVAGSERQGRITESDVKFFVANKS*
+>P1;gi|44184455|gb|EAH58011.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 123 .. 163 ]
+sequence
+--ASPKARKFARELGVNINQVVGSQKDGRVIEDDIKKFVSTNS*
+>P1;gi|44537295|gb|EAJ94699.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 8 .. 47 ]
+sequence
+VPASPKVRKFARELGLDINQIIGSKREGRVIENDVKNFVK---*
+>P1;gi|45520790|ref|ZP_00172316.1| hypothetical protein Mflag189101 ... [ score 67 E 1e-10 ] [ range 140 .. 178 ]
+sequence
+-HASPSVRKFARELGVNLALVTATGPKNRITQSDVQAYVK---*
+>P1;gi|43888785|gb|EAF98311.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 8 .. 47 ]
+sequence
+VSASPKVRKLAREFGADIYQIQGSERKGRVSEEDVKSFVK---*
+>P1;gi|43871593|gb|EAF89796.1| unknown [environmental sequence] [ score 67 E 2e-10 ] [ range 136 .. 175 ]
+sequence
+VHAGPGTRRLARELGVDLTLLKGTGQKKRILKEDIHAWVK---*
+>P1;gi|13473767|ref|NP_105335.1| dihydrolipoamide S-(2-methylpropano... [ score 66 E 2e-10 ] [ range 154 .. 194 ]
+sequence
+-LASPAVRLRAKEAGIDLRQVAGSGPAGRIGHEDIEAFLARG-*
+>P1;gi|38104069|gb|EAA50690.1| hypothetical protein MG04449.4 [Magna... [ score 66 E 2e-10 ] [ range 197 .. 236 ]
+sequence
+-LATPAVRHLSKELKVDINEIDGTGRDGRVLKEDIYKFVQG--*
+>P1;gi|40063271|gb|AAR38089.1| pyruvate dehydrogenase, E2 component,... [ score 67 E 2e-10 ] [ range 140 .. 178 ]
+sequence
+-HASPSIRKLARELGVSLAKIKGTGQKGRILDKDLKSFVK---*
+>P1;gi|24373888|ref|NP_717931.1| alpha keto acid dehydrogenase compl... [ score 67 E 2e-10 ] [ range 228 .. 269 ]
+sequence
+-LASPAVRRMARALDIDLSRVPGSGKHGRVYKEDISRFQAQGS*
+>P1;gi|44140183|gb|EAH34535.1| unknown [environmental sequence] [ score 67 E 2e-10 ] [ range 137 .. 176 ]
+sequence
+VHSGPATRKLAREFGINLINVQGSGPKGRILKEDLHHYVK---*
+>P1;gi|42947691|gb|EAB40842.1| unknown [environmental sequence] [ score 67 E 2e-10 ] [ range 112 .. 150 ]
+sequence
+--ASPKVRKFARELGVNINKVPGSERQGRVTESDVKLFVAS--*
+>P1;gi|32034127|ref|ZP_00134359.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 67 E 2e-10 ] [ range 9 .. 47 ]
+sequence
+-HATPVIRRLAREFGVNLDKVKGSGRKGRIVKEDIQTYVK---*
+>P1;gi|44638395|gb|EAK66083.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 121 .. 161 ]
+sequence
+--ASPKARKFARELGVNINQVVGSEKDGRVIEDDIKKFVSSKS*
+>P1;gi|44243480|gb|EAH91151.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 118 .. 157 ]
+sequence
+-LASPKVRKFARELGANVTQIQGSQRSGRVTEDDVKRFVKS--*
+>P1;gi|43784391|gb|EAF46723.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 74 .. 114 ]
+sequence
+--ASPKARKFARELGVDINRVAGSQKDGRIVEDDIKKFVLSNS*
+>P1;gi|44361234|gb|EAI72856.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 128 .. 168 ]
+sequence
+IYAGPAVRKLAREFGIDLNKVMASGPRNRILKEDLHKFVKS--*
+>P1;gi|44640522|gb|EAK67560.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 7 .. 46 ]
+sequence
+IFTTPKVRKFARELGANVNLIEGTERKGRITEEDVKKFIN---*
+>P1;gi|22995259|ref|ZP_00039738.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 66 E 2e-10 ] [ range 241 .. 280 ]
+sequence
+-YASPAVRLLARQLDVDLSRIKGSEKNGRITREDVQKFVNA--*
+>P1;gi|21230017|ref|NP_635934.1| dihydrolipoamide acetyltranferase [... [ score 66 E 2e-10 ] [ range 281 .. 319 ]
+sequence
+-YASPVVRVFARELGVDLNQIKGSEKGGRITREDVQRFVK---*
+>P1;gi|43835862|gb|EAF72150.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 12 .. 52 ]
+sequence
+VLASPKARKFARELGVDVRDVVGSERLGRVIEQDIKEFVSS--*
+>P1;gi|43695655|gb|EAF03051.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 1 .. 35 ]
+sequence
+VLASPAVRRVAREKNIDLSSVKGSGKKGRILKSDV--------*
+>P1;gi|43282752|gb|EAD07178.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 21 .. 58 ]
+sequence
+ILISPLAKKLASEKGIDISLIKGTGDNGRIIKRDIDSY-----*
+>P1;gi|44310650|gb|EAI37078.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 118 .. 157 ]
+sequence
+-LASPKVRKFARELGTNVTQIQGSQRSGRVTEDDVKKFVKS--*
+>P1;gi|15677208|ref|NP_274361.1| pyruvate dehydrogenase, E2 componen... [ score 66 E 3e-10 ] [ range 234 .. 273 ]
+sequence
+-HAGPSARKLARELGVDLGQVKGTGLKGRIMGDDIKAFVKS--*
+>P1;gi|15794448|ref|NP_284270.1| dihydrolipoamide acetyltransferase ... [ score 66 E 3e-10 ] [ range 234 .. 273 ]
+sequence
+-HAGPSARKLARELGVDLGQVKGTGLKGRIVGDDIKAFVKS--*
+>P1;gi|43374494|gb|EAD52104.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 121 .. 159 ]
+sequence
+VFASPGVRRLARELGIDLGLIKGTGAKGRTTKEDLHGYI----*
+>P1;gi|43369291|gb|EAD49469.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 11 .. 49 ]
+sequence
+-LASPKARKFARELGVNLNHISGSERKGRVVESDIKKFIS---*
+>P1;gi|44220529|gb|EAH77651.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 8 .. 47 ]
+sequence
+VSASPKVRKLAREFGADIYQIQGSERVGRVTEEDVKSFVK---*
+>P1;gi|44476031|gb|EAJ53699.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 16 .. 54 ]
+sequence
+--ASPKTRKFAREMGVNINQVSGSQRGGRIVEDDIKNFISS--*
+>P1;gi|42901773|gb|EAB18004.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 8 .. 47 ]
+sequence
+VSASPKVRKLAREFGADIYQIQGSQREGRVSEEDVKSFVK---*
+>P1;gi|43655448|gb|EAE82612.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 117 .. 156 ]
+sequence
+-LASPKVRKFARELGANVTQIQGSQRSGRVTEEDVKKFVKS--*
+>P1;gi|15600209|ref|NP_253703.1| dihydrolipoamide acetyltransferase ... [ score 65 E 3e-10 ] [ range 247 .. 286 ]
+sequence
+VHAGPAVRMLAREFGVELSEVKASGPKGRILKEDVQVFVK---*
+>P1;gi|44636702|gb|EAK64932.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 7 .. 46 ]
+sequence
+IFATPKVRKFARELGANIAEIEGSERLGRITEEDVKNYVN---*
+>P1;gi|43106987|gb|EAC19537.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 94 .. 134 ]
+sequence
+-LASPKVRKFARELGADINTIPGSEKYGRVSEDDVKSFIKHG-*
+>P1;gi|44643333|gb|EAK69942.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 225 .. 265 ]
+sequence
+-LASPAVRRMARALDIDLSRVPGSGKHGRVYKEDITRFQAQG-*
+>P1;gi|23058347|ref|ZP_00083419.1| COG0508: Pyruvate/2-oxoglutarate ... [ score 65 E 3e-10 ] [ range 189 .. 229 ]
+sequence
+VHAGPAVRQLAREFGVELSAVGASGPHGRILKEDVQTYVKA--*
+>P1;gi|20807177|ref|NP_622348.1| Dihydrolipoamide acyltransferases [... [ score 65 E 4e-10 ] [ range 128 .. 165 ]
+sequence
+VRATPAARKLARELGIPLEAVPGTGPGGRITEEDVKNF-----*
+>P1;gi|44362746|gb|EAI73932.1| unknown [environmental sequence] [ score 65 E 4e-10 ] [ range 12 .. 52 ]
+sequence
+VLASPKARKFARELGVNVRDVVGSERLGRVIEEDIKEFVSS--*

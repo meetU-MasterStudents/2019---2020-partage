@@ -1,0 +1,1608 @@
+>P1;1huma
+structureN:1hum:   1 :A:  69 :A:macrophage inflammatory protein 1 beta:Homo sapiens:-1.00:-1.00
+APMGSDP---PTACCFSYTARKLPRNFVVDYYET-SS-LCSQPAVVFQTKR-SKQVCADPSESWVQEYVY
+DLELN------*
+>P1;1b3aa
+structureX:1b3a:   2 :A:  68 :A:rantes:Synthetic: 1.6: 16.7
+-PYSS-D---TTPCCFAYIARPLPRAHIKEYFYT-SG-KCSNPAVVFVTRK-NRQVCANPEKKWVREYIN
+SLEMS------*
+>P1;2eot
+structureX:2eot:   1 : :  74 : :eotaxin:Homo sapiens:-1: -1
+-----GPASVPTTCCFNLANRKIPLQRLESYRRITSG-KCPQKAVIFKTKL-AKDICADPKKKWVQDSMK
+YLDQKSPTPKP*
+>P1;1plfa
+structureX:1plf:  23 :A:  85 :A:platelet factor 4:Bos taurus:2.20:20.90
+----------LQCVCLKTTS-GINPRHISSLEVIGAGLHCPSPQLIATLKT-GRKICLDQQNPLYKKIIK
+RLLKS------*
+>P1;1rhpa
+structureX:1rhp:   7 :A:  70 :A:platelet factor 4:Homo sapiens:2.40:24.10
+---------DLQCLCVKTTS-QVRPRHITSLEVIKAGPHCPTAQLIATLKN-GRKICLDLQAPLYKKIIK
+KLLES------*
+>P1;1tvxa
+structureX:1tvx:  23 :A:  86 :A:neutrophil activating peptide 2 variant:Homo sapiens:1.75:19.6
+----------LRCLCIKTTS-GIHPKNIQSLEVIGKGTHCNQVEVIATLKD-GRKICLDPDAPRIKKIVQ
+KKLAGD-----*
+>P1;1mgsa
+structureN:1mgs:   1 :A:  71 :A:melanoma growth stimulating factor:Homo sapiens:-1.00:-1.00
+----ASVATELRCQCLQTLQ-GIHPKNIQSVNVKSPGPHCAQTEVIATLKN-GRKACLNPASPIVKKIIE
+KMLNSDKS--N*
+>P1;1mi2a
+structureX:1mi2:   1 :A:  73 :A:macrophage inflammatory protein 2:Mus musculus: -1: -1
+----AVVASELRCQCLKTLP-RVDFKNIQSLSVTPPGPHCAQTEVIATLKG-GQKVCLDPEAPLVQKIIQ
+KILNKGKA--N*
+>P1;1roda
+structureX:1rod:   1 :A:  72 :A:chimeric protein of human interleukin 8 and human melanoma growth stimulating activity protein:Homo sapiens:-1:-1
+------SAKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTEIIVKLSD-GRELCLDPASPIVKKIIE
+KMLNSDKS--N*
+>P1;1il8a
+structureN:1il8:   2 :A:  72 :A:interleukin 8:Homo sapiens:-1.00:-1.00
+-------AKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTEIIVKLSD-GRELCLDPKENWVQRVVE
+KFLKRAEN--S*
+>P1;1sdf
+structureX:1sdf:   1 : :  67 : :stromal cell-derived factor 1: Homo sapiens: -1: -1
+----KPVSLSYRCPCRFFES-HVARANVKHLKILNT-PNC-ALQIVARLKNNNRQVCIDPKLKWIQEYLE
+KALN-------*
+>P1;gi|25987898|gb|AAN76071.1| chemokine CCL4/MIP-1BETA [Macaca mula... [ score 126 E 1e-28 ] [ range 24 .. 92 ]
+sequence
+APMGSDP---PTSCCFSYTARKLPRNFVVDYYET-SS-LCSQPAVVFQTKR-GKQVCADPSETWVQEYVN
+DLELN------*
+>P1;gi|25742843|ref|NP_446310.1| small inducible cytokine A4; macrop... [ score 123 E 7e-28 ] [ range 24 .. 92 ]
+sequence
+APIGSDP---PTSCCFSYTSRKIHRNFVMDYYET-SS-LCSQPAVVFLTKK-GRQICADPSEPWVNEYVN
+DLELN------*
+>P1;gi|27477072|ref|NP_066286.1| chemokine (C-C motif) ligand 3-like... [ score 122 E 2e-27 ] [ range 24 .. 92 ]
+sequence
+APLAADT---PTACCFSYTSRQIPQNFIADYFET-SS-QCSKPSVIFLTKR-GRQVCADPSEEWVQKYVS
+DLELS------*
+>P1;gi|40644138|emb|CAC84398.1| putative MIP-1beta protein [Sus scrofa] [ score 122 E 2e-27 ] [ range 24 .. 92 ]
+sequence
+APMGSDP---PTSCCFTYTVRKLPRNFVTDYYET-SS-LCSQPAVVFQTKK-GRQVCANPSDDWVQEYMD
+DLELN------*
+>P1;gi|1170951|sp|P46632|SY04_RABIT Small inducible cytokine A4 prec... [ score 122 E 3e-27 ] [ range 24 .. 92 ]
+sequence
+APMGSDP---PTACCFSYTLRKLPRHFVIDYFET-TS-LCSQPAVVFQTKK-GRQVCANPSESWVQEYVD
+DLELN------*
+>P1;gi|40254794|ref|NP_037157.2| chemokine (C-C motif) ligand 3; Mac... [ score 121 E 4e-27 ] [ range 24 .. 91 ]
+sequence
+APYGADT---PTACCFSY-GRQIPRKFIADYFET-SS-LCSQPGVIFLTKR-NRQICADPKETWVQEYIT
+ELELN------*
+>P1;gi|7305459|ref|NP_038680.1| chemokine (C-C motif) ligand 4; smal... [ score 120 E 7e-27 ] [ range 24 .. 92 ]
+sequence
+APMGSDP---PTSCCFSYTSRQLHRSFVMDYYET-SS-LCSKPAVVFLTKR-GRQICANPSEPWVTEYMS
+DLELN------*
+>P1;gi|339727|gb|AAA36752.1| secreted protein G-26 [ score 119 E 2e-26 ] [ range 19 .. 87 ]
+sequence
+APMGSDP---PTACCFSYTARKLPRNFVVDYYET-SI-LCSQPAVVFQTKR-SKQVCADPSETWVQEYVY
+DLELN------*
+>P1;gi|25987896|gb|AAN76070.1| chemokine CCL3/MIP-1ALPHA [Macaca mul... [ score 118 E 2e-26 ] [ range 23 .. 91 ]
+sequence
+ATFAADT---PTSCCFSYISRQIPQNFIADYFET-NS-QCSKPGVIFLTKR-GRQVCADPSKEWVQKYVS
+DLELS------*
+>P1;gi|21903469|sp|Q90826|SY04_CHICK Small inducible cytokine A4 hom... [ score 118 E 2e-26 ] [ range 22 .. 90 ]
+sequence
+APVGSDP---PTSCCFTYISRQLPFSFVADYYET-NS-QCPHAGVVFITRK-GREVCANPENDWVQDYMN
+KMELN------*
+>P1;gi|6755432|ref|NP_035467.1| chemokine (C-C motif) ligand 3; smal... [ score 118 E 3e-26 ] [ range 24 .. 91 ]
+sequence
+APYGADT---PTACCFSY-SRKIPRQFIVDYFET-SS-LCSQPGVIFLTKR-NRQICADSKETWVQEYIT
+DLELN------*
+>P1;gi|4506843|ref|NP_002974.1| chemokine (C-C motif) ligand 3; G0S1... [ score 118 E 3e-26 ] [ range 23 .. 91 ]
+sequence
+ASLAADT---PTACCFSYTSRQIPQNFIADYFET-SS-QCSKPGVIFLTKR-SRQVCADPSEEWVQKYVS
+DLELS------*
+>P1;gi|16304133|gb|AAL16933.1| macrophage inflammatory protein 1 bet... [ score 118 E 4e-26 ] [ range 24 .. 92 ]
+sequence
+APRGSDP---PISCCFSYASRKLPRNFVTDYYET-SS-LCSKPAVVFLTRK-GKEVCADPSQPWVNEYVN
+DLELN------*
+>P1;gi|27806231|ref|NP_776936.1| chemokine (C-C motif) ligand 3-like... [ score 118 E 4e-26 ] [ range 24 .. 92 ]
+sequence
+APFGADT---PTACCFSYVARQLSRKIVADYFET-SS-QCSKPGVIFQTKK-GRQVCANPTEDWVQEYIT
+DLELN------*
+>P1;gi|16755053|gb|AAL26704.1| macrophage inflammatory protein-1 alp... [ score 112 E 3e-24 ] [ range 24 .. 91 ]
+sequence
+APYGADT---PTFCCFSY-GRQIPRKFIADYFQT-SS-LCSEPGIIFLTKR-NRHVCADPKETWVQEIIT
+DLELN------*
+>P1;gi|533213|gb|AAA36656.1| T cell secreted protein [ score 111 E 4e-24 ] [ range 24 .. 91 ]
+sequence
+APMGSDP---PTACCFSYT-REASSNFVVDYYET-SS-LCSQPAVVFQTKR-SKQVCADPSESWVQEYVY
+DLELN------*
+>P1;gi|30025666|gb|AAP04417.1| CC chemokine ligand 4 [Peromyscus man... [ score 110 E 8e-24 ] [ range 24 .. 85 ]
+sequence
+APMGSDP---PTSCCFSYTARKLPRNFVTDYYET-SS-LCSKPAVVFLTRK-GKQVCADPSLPWVNEY--
+-----------*
+>P1;gi|6531363|gb|AAF15379.1| small inducible cytokine A2 precursor ... [ score 110 E 1e-23 ] [ range 25 .. 93 ]
+sequence
+-PDAVNA---PLTCCYSFTSKMIPMSRLEGYRIT-SS-RCPKEAVVFVTKL-KREVCADPKKEWVQTYIK
+NLDQN------*
+>P1;gi|6755430|ref|NP_035463.1| chemokine (C-C motif) ligand 2; smal... [ score 109 E 2e-23 ] [ range 25 .. 93 ]
+sequence
+-PDAVNA---PLTCCYSFTSKMIPMSRLESYRIT-SS-RCPKEAVVFVTKL-KREVCADPKKEWVQTYIK
+NLDRN------*
+>P1;gi|961440|dbj|BAA09855.1| LD78 alpha beta [Homo sapiens] [ score 109 E 2e-23 ] [ range 17 .. 80 ]
+sequence
+ASLAADT---PTACCFSYTSRQIPQNFMADYFET-SS-QCSKPSVIFLTKR-GRQVCADPSEEWVQKYVS
+-----------*
+>P1;gi|27228299|gb|AAN85636.1| monocyte chemoattractant protein-1 [S... [ score 108 E 4e-23 ] [ range 26 .. 94 ]
+sequence
+-PDAVNA---PLTCCYSFTNKKIPEKRLESYRIT-SS-KCPKEAVIFITKL-QREICADPKQDWVQMYTK
+KMDQN------*
+>P1;gi|4759070|ref|NP_004157.1| chemokine (C-C motif) ligand 14 isof... [ score 107 E 6e-23 ] [ range 25 .. 93 ]
+sequence
+SSRGPYH---PSECCFTYTTYKIPRQRIMDYYET-NS-QCSKPGIVFITKR-GHSVCTNPSDKWVQDYIK
+DMKEN------*
+>P1;gi|13928714|ref|NP_113718.1| small inducible cytokine A2; small ... [ score 107 E 6e-23 ] [ range 25 .. 93 ]
+sequence
+-PDAVNA---PLTCCYSFTGKMIPMSRLENYRIT-SS-RCPKEAVVFVTKL-KREICADPNKEWVQKYIR
+KLDQN------*
+>P1;gi|19421559|gb|AAK84432.1| chemokine ah294 [Gallus gallus] [ score 107 E 7e-23 ] [ range 24 .. 90 ]
+sequence
+SPFGADT----TVCCFNYSVRKLPQNHVKDYFYT-SS-KCPQAAVVFITRK-GRQVCANPDARWVKEYIN
+FLEL-------*
+>P1;gi|250208|gb|AAB22330.1| RANTES [Mus sp.] [ score 107 E 7e-23 ] [ range 24 .. 91 ]
+sequence
+SPYGSDT----TPCCFAYLSLALPRAHVKEYFYT-SS-KCSNLAVVFVTRR-NRQVCANPEKKWVQEYIN
+YLEMS------*
+>P1;gi|21070217|gb|AAM34212.1| small inducible cytokine A5 RANTES [E... [ score 106 E 2e-22 ] [ range 24 .. 91 ]
+sequence
+SPYASDT----TPCCFAYISRPLPRAHIQEYFYT-SS-KCSIPAVVFVTRK-KRQVCANPEKKWVREYIN
+TLEMS------*
+>P1;gi|25987900|gb|AAN76072.1| chemokine CCL5/RANTES [Macaca mulatta] [ score 105 E 2e-22 ] [ range 24 .. 91 ]
+sequence
+SPHASDT----TPCCFAYIARPLPRAHIKEYFYT-SG-KCSNPAVVFVTRK-NRQVCANPEKKWVREYIN
+SLEMS------*
+>P1;gi|27372798|dbj|BAC53725.1| RANTES protein [Canis familiaris] [ score 105 E 2e-22 ] [ range 24 .. 91 ]
+sequence
+SPYASDT----TPCCFAYISGRLPFTHVQEYFYT-SS-KCSMPAVVFVTRK-HRQVCANPQKKWVREYIN
+SLEMS------*
+>P1;gi|28461277|ref|NP_787021.1| chemokine (C-C motif) ligand 5 [Bos... [ score 105 E 3e-22 ] [ range 24 .. 91 ]
+sequence
+SPYASDT----TPCCFAYISRPLPRTHVQEYFYT-SS-KCSMAAVVFITRK-KRQVCANPEKKWVREYIN
+ALELS------*
+>P1;gi|2493668|sp|P97272|SY05_CAVPO Small inducible cytokine A5 prec... [ score 103 E 1e-21 ] [ range 24 .. 91 ]
+sequence
+SPYASDT----TPCCFAYISRALPRTHIKEYFYT-SS-KCSNLAVVFVTRK-NRQVCANPEKKWVREYIN
+SLEMS------*
+>P1;gi|24212453|sp|Q91ZL1|SY05_SIGHI Small inducible cytokine A5 pre... [ score 102 E 2e-21 ] [ range 24 .. 90 ]
+sequence
+SPNGSDT----IPCCFAYLSAVLPRAHVKEYFYT-SS-KCSNFAVVFVTRR-NRQVCANPKKKWVQEYIN
+YLEL-------*
+>P1;gi|22538816|ref|NP_005614.2| small inducible cytokine A8 precurs... [ score 100 E 7e-21 ] [ range 25 .. 92 ]
+sequence
+-PDSVSI---PITCCFNVINRKIPIQRLESYTRT-NI-QCPKEAVIFKTKR-GKEVCADPKERWVRDSMK
+HLDQ-------*
+>P1;gi|28894123|gb|AAO52734.1| monocyte chemoattractant protein-2 [M... [ score 100 E 1e-20 ] [ range 25 .. 92 ]
+sequence
+-PDSVSI---PITCCFNVINRKIPIQRLQSYTRT-NT-QCPKEAVIFKTKW-GKEVCADPKERWVRDSMK
+HLDQ-------*
+>P1;gi|20146106|dbj|BAB88940.1| RANTES [Felis catus] [ score 99 E 3e-20 ] [ range 24 .. 92 ]
+sequence
+SPYASDT----TPCCFAYLSHPLPLTHLQEYFYT-SS-KCSMPAVVFVTRR-KRQVCANPQKKWVRDKIN
+SLEMN------*
+>P1;gi|126845|sp|P28292|SY02_RABIT Small inducible cytokine A2 precu... [ score 97 E 8e-20 ] [ range 25 .. 91 ]
+sequence
+-PDAVNS---PVTCCYTFTNKTISVKRLMSYRRI-NS-KCPKEAVIFMTKL-AKGICADPKQKWVQDAIA
+NLD--------*
+>P1;gi|2493663|sp|Q62401|SY12_MOUSE Small inducible cytokine A12 pre... [ score 97 E 1e-19 ] [ range 24 .. 90 ]
+sequence
+-PDAVST---PVTCCYNVVKQKIHVRKLKSYRRT-SS-QCPREAVIFRTIL-DKEICADPKEKWVKNSIN
+HLD--------*
+>P1;gi|1170888|sp|Q08782|SY02_CAVPO Small inducible cytokine A2 prec... [ score 95 E 3e-19 ] [ range 25 .. 90 ]
+sequence
+-PDGVNT---PT-CCYTF-NKQIPLKRVKGYRIT-SS-RCPQEAVIFRTLK-NKEVCADPTQKWVQDYIA
+KLDQ-------*
+>P1;gi|40538778|ref|NP_776432.1| chemokine (C-C motif) ligand 8; sma... [ score 94 E 7e-19 ] [ range 25 .. 92 ]
+sequence
+-PDSVST---PITCCFSVINGKIPFKKLDSYTRT-NS-QCPQEAVIFKTKA-DRDVCADPKQKWVQTSIR
+LLDQ-------*
+>P1;gi|25987908|gb|AAN76076.1| chemokine CCL18/PARC [Macaca mulatta] [ score 94 E 8e-19 ] [ range 29 .. 87 ]
+sequence
+-------------CCLVYTSRQIPQKFIVDYSET-SP-QCTKPGVILLSKK-RRQICADPNKKWVQKYIS
+DLKLN------*
+>P1;gi|5174671|ref|NP_006063.1| eotaxin-3 precursor; thymic stroma c... [ score 94 E 8e-19 ] [ range 23 .. 89 ]
+sequence
+ATRGSDI---SKTCCFQYSHKPLPWTWVRSYEFT-SN-SCSQRAVIFTTKR-GKKVCTHPRKKWVQKYIS
+LLK--------*
+>P1;gi|1708963|sp|P52203|SY02_CANFA Small inducible cytokine A2 prec... [ score 94 E 8e-19 ] [ range 25 .. 91 ]
+sequence
+-PDAIIS---PVTCCYTLTNKKISIQRLASYKRT-SS-KCPKEAVIFKTVL-NKEICADPKQKWVQDSMA
+HLD--------*
+>P1;gi|4506827|ref|NP_002977.1| small inducible cytokine A11 precurs... [ score 94 E 8e-19 ] [ range 18 .. 90 ]
+sequence
+SPQGASV---PTTCCFNLANRKIPLQRLESYRRT-SG-KCPQKAVIFKTKL-AKDICADPKKKWVQDSMK
+YLDQ-------*
+>P1;gi|45382627|ref|NP_990051.1| chemokine K203 [Gallus gallus] >gi|... [ score 94 E 9e-19 ] [ range 22 .. 87 ]
+sequence
+APVGPDV---PT-CCTTYITHKIPRNLIQRHYST-ST-SCSKPAIIFITKK-EREVCANPSDPWVQRYLQ
+SVK--------*
+>P1;gi|6755434|ref|NP_035468.1| chemokine (C-C motif) ligand 9; smal... [ score 94 E 9e-19 ] [ range 49 .. 114 ]
+sequence
+--MGFQD---SSDCCLSYNSR-IQCSRFIGYFPT-SG-GCTRPGIIFISKR-GFQVCANPSDRRVQRCIE
+RLEQN------*
+>P1;gi|27674225|ref|XP_213425.1| similar to small inducible cytokine... [ score 94 E 9e-19 ] [ range 24 .. 91 ]
+sequence
+-PDSVFT---PVTCCYNVAKQKIHIRRLKSYRIT-SS-QCPREAVIFRTVL-DKELCADPKEKWVKDSMN
+HLDQ-------*
+>P1;gi|14602449|ref|NP_116741.1| chemokine (C-C motif) ligand 15 pre... [ score 93 E 2e-18 ] [ range 52 .. 109 ]
+sequence
+------------DCCTSYISQSIPCSLMKSYFET-SS-ECSKPGVIFLTKK-GRQVCAKPSGPGVQDCMK
+KLK--------*
+>P1;gi|1708958|sp|P49873|SY08_PIG Small inducible cytokine A8 precur... [ score 92 E 2e-18 ] [ range 25 .. 92 ]
+sequence
+-PDSVSI---PITCCFGLVNGKIPFKKLESYTRT-NS-QCPQEAVIFKTKA-DKEVCADPQQKWVQNSMK
+LLDQ-------*
+>P1;gi|34871736|ref|XP_213743.2| similar to eotaxin-2-like protein [... [ score 92 E 2e-18 ] [ range 23 .. 90 ] [ duplicate a ]
+sequence
+-PTGSTI---PSSCCVTFISKKIPVNRVISYQLA-NS-ICPKAGVIFITKK-GHKICTDPKLPWVQKHIK
+NLD--------*
+>P1;gi|34871736|ref|XP_213743.2| similar to eotaxin-2-like protein [... [ score 92 E 2e-18 ] [ range 173 .. 231 ] [ duplicate b ]
+sequence
+----------PMPCCSYFSHYVIPWHWLYSYQIT-DS-SCPNEGVIFTTKT-GKQYCVQPGDKWVQRYIS
+LL---------*
+>P1;gi|9625035|ref|NP_062523.1| chemokine (C-C motif) ligand 24; eot... [ score 92 E 3e-18 ] [ range 25 .. 90 ]
+sequence
+--DSVTI---PSSCCTSFISKKIPENRVVSYQLA-NS-ICPKAGVIFITKK-GHKICTDPKLLWVQRHIQ
+KLD--------*
+>P1;gi|6468531|emb|CAB61624.1| eotaxin [Equus caballus] [ score 91 E 5e-18 ] [ range 26 .. 91 ]
+sequence
+----VSI---STVCCFNVASRKISFQRLQSYRIT-SS-KCPQKAVIFKTKQ-AKKICADPKQKWVQDAMK
+YLDEN------*
+>P1;gi|4759074|ref|NP_004581.1| small inducible cytokine A16 precurs... [ score 91 E 5e-18 ] [ range 28 .. 93 ]
+sequence
+-PEWVNT---PSTCCLKYYEKVLPRRLVVGYRKA-LN--CHLPAIIFVTKR-NREVCTNPNDDWVQEYIK
+DPNL-------*
+>P1;gi|34872922|ref|XP_340861.1| similar to MMRP2 [Rattus norvegicus] [ score 90 E 1e-17 ] [ range 45 .. 109 ]
+sequence
+---GFQD---SSDCCLSYTSR-VHCSRYKNYFPT-SG-GCTKPAIIFVSKK-GTLVCANPSDLRVQKCIK
+RLEQN------*
+>P1;gi|25987904|gb|AAN76074.1| chemokine CCL11/EOTAXIN [Macaca mulatta] [ score 90 E 2e-17 ] [ range 18 .. 89 ]
+sequence
+SPQGLTG---PTTCCFTLTNKKIPLQRLESYRRI-SG-KCPQKAVIFKTKL-AKDICADPKKKWVQDSMK
+YLD--------*
+>P1;gi|4506829|ref|NP_002978.1| small inducible cytokine A17 precurs... [ score 89 E 3e-17 ] [ range 23 .. 89 ]
+sequence
+AARGTNV---GRECCLEYFKGAIPLRKLKTWYQT-SE-DCSRDAIVFVTVQ-GRAICSDPNNKRVKNAVK
+YLQ--------*
+>P1;gi|18845980|ref|NP_572066.1| ORF K6; functional macrophage infla... [ score 89 E 3e-17 ] [ range 32 .. 91 ]
+sequence
+------T---PNSCCYGFQQHPPPVQILKEWYPT-SP-ACPKPGVILLTKR-GRQICADPSKNWVRQLMQ
+RL---------*
+>P1;gi|25991895|gb|AAN76986.1| macrophage inflammatory protein 1 bet... [ score 89 E 3e-17 ] [ range 1 .. 49 ]
+sequence
+--------------CFSYTVRKLPRNFVVDYYET-SS-LCSQPAVVFQTKR-GKQVCADPSETWVQ----
+-----------*
+>P1;gi|27691138|ref|XP_213553.1| similar to Small inducible cytokine... [ score 88 E 4e-17 ] [ range 43 .. 106 ]
+sequence
+---GFQD---SSDCCFSYAS-QIPCSRFIYYFPT-SG-GCTKPGIIFVTRK-RKRVCANPSDQRVQTCIS
+TLKL-------*
+>P1;gi|18845978|ref|NP_572064.1| ORF K4; macrophage inflammatory pro... [ score 88 E 4e-17 ] [ range 31 .. 89 ]
+sequence
+----------PDKCCLGYQKRPLPQVLLSSWYPT-SQ-LCSKPGVIFLTKR-GRQVCADKSKDWVKKLMQ
+QL---------*
+>P1;gi|16924014|ref|NP_476492.1| small inducible cytokine subfamily ... [ score 88 E 6e-17 ] [ range 23 .. 89 ]
+sequence
+AARATNV---GRECCLDYFKGAIPIRKLVTWFRT-SV-ECPKDAIVFETVQ-GRLICTDPKDKHVKKAIR
+HLK--------*
+>P1;gi|25987906|gb|AAN76075.1| chemokine CCL17/TARC [Macaca mulatta] [ score 87 E 1e-16 ] [ range 23 .. 89 ]
+sequence
+AARGTNV---GRECCLKYFKGAIPLRKLKTWYQT-SE-DCSRDAIVFVTVQ-NKAICSDPNDKKVKKALK
+YLQ--------*
+>P1;gi|14970992|dbj|BAB62131.1| chemokine [Canis familiaris] [ score 87 E 1e-16 ] [ range 23 .. 89 ]
+sequence
+AARGTNV---GRECCLEYFKGAIPISRLTRWYKT-SG-ECPKDAIVFVTVQ-GKSICSDPKDKRVKKAVR
+YLQ--------*
+>P1;gi|4139064|gb|AAD03677.1| monocyte chemoattractant protein 1 [Cr... [ score 86 E 2e-16 ] [ range 2 .. 57 ]
+sequence
+-----------------FTAKRIPEKRLESYRIT-SS-KCPKEAVIFITKL-KREICADPKQDWVQTYTK
+KLDQS------*
+>P1;gi|5911367|gb|AAD55764.1| macrophage-derived chemokine [Rattus n... [ score 86 E 2e-16 ] [ range 15 .. 80 ]
+sequence
+-PYGANV---ESICCQDYIRHPLPPRFVKEFYWT-SK-SCRKPGVVLITIK-NRDICADPRMLWVKKILH
+KL---------*
+>P1;gi|7513133|pir||JE0177 lymphocyte and monocyte chemoattractant C... [ score 85 E 4e-16 ] [ range 28 .. 93 ]
+sequence
+-PEWVNT---PSTCCLKYYEKVPLRRLVVGYRKA-LN--CHLPAIIFVTKR-NREVCTNPNDDWVQEYIK
+DPNL-------*
+>P1;gi|45429971|ref|NP_991342.1| eotaxin [Bos taurus] >gi|6468485|em... [ score 84 E 6e-16 ] [ range 26 .. 90 ]
+sequence
+----ASI---PTICCFNMSKKKISIQRLQSYRIT-SS-KCPQKAVIFNTKQ-NKKICVDPQEKWVQNAME
+YLNQ-------*
+>P1;gi|6677879|ref|NP_033163.1| chemokine (C-C motif) ligand 22; sma... [ score 84 E 1e-15 ] [ range 26 .. 91 ]
+sequence
+-PYGANV---ESICCQDYIRHPLPSRLVKEFFWT-SK-SCRKPGVVLITVK-NRDICADPRQVWVKKLLH
+KL---------*
+>P1;gi|10946818|ref|NP_067418.1| chemokine (C-C motif) ligand 8; sma... [ score 83 E 2e-15 ] [ range 28 .. 90 ]
+sequence
+------A---PVTCCFHVLKLKIPLRVLKSYERI-NN-QCPMEAVVFQTKQ-GMSLCVDPTQKWVSEYME
+ILDQ-------*
+>P1;gi|6468535|emb|CAB61626.1| monocyte chemoattractant protein-2 [E... [ score 82 E 3e-15 ] [ range 25 .. 81 ]
+sequence
+-PDAVSI---PVTCCFGVVKKKVPIQRLESYTRT-SS-QCSQEAVIFKTKV-DKEICADPKKK-------
+-----------*
+>P1;gi|6468537|emb|CAB61627.1| monocyte chemoattractant protein-4 [E... [ score 82 E 3e-15 ] [ range 20 .. 75 ]
+sequence
+-PDALSA---LTACCFKFNSKKMPLQRLRSYRIT-GS-QCPQEAVIFRTKL-AKDVCADPKKK-------
+-----------*
+>P1;gi|6755422|ref|NP_036018.1| chemokine (C-C motif) ligand 19; sma... [ score 82 E 3e-15 ] [ range 26 .. 91 ]
+sequence
+---GAND---AEDCCLSVTQRPIPGNIVKRYLLN-ED-GCRVPAVVFTTLR-GYQLCAPPDQPWVDRIIR
+RLK--------*
+>P1;gi|6094387|sp|O00626|SY22_HUMAN Small inducible cytokine A22 pre... [ score 82 E 3e-15 ] [ range 26 .. 93 ]
+sequence
+-PYGANE---DSVCCRDYVRYRLPLRVVKHFYWT-SD-SCPRPGVVLLTFR-DKEICADPRVPWVKMILN
+KLSQ-------*
+>P1;gi|4115613|dbj|BAA36456.1| Monocyte Chemoattractant Protein-3 (M... [ score 79 E 3e-14 ] [ range 25 .. 89 ]
+sequence
+-PDGVNI----STCCYKRSQR-IRVQRLESYTRT-SS-KCPWQAVIFKTKF-NREICADPKQQWVQDSMK
+YID--------*
+>P1;gi|4506833|ref|NP_002972.1| small inducible cytokine A1 precurso... [ score 78 E 4e-14 ] [ range 29 .. 88 ]
+sequence
+------P---FSRCCFSFAEQEIPLRAILCYRNT-SS-ICSNEGLIFKLKR-GKEACALDTVGWVQRHRK
+ML---------*
+>P1;gi|5454040|ref|NP_006265.1| small inducible cytokine A19 precurs... [ score 78 E 5e-14 ] [ range 22 .. 87 ]
+sequence
+---GTND---AEDCCLSVTQKPIPGYIVRNYLLI-KD-GCRVPAVVFTTLR-GRQLCAPPDQPWVERIIQ
+RLQ--------*
+>P1;gi|27674221|ref|XP_213419.1| similar to Small inducible cytokine... [ score 78 E 5e-14 ] [ range 25 .. 90 ]
+sequence
+-PDGTN----SSTCCY-VKKQKIPKRNLKSYRIT-SS-RCPWEAVIFKTKK-GMEVCAEAHQKWVEEAIA
+YLDM-------*
+>P1;gi|34867167|ref|XP_342825.1| similar to EBI-1 ligand chemokine [... [ score 78 E 5e-14 ] [ range 26 .. 90 ]
+sequence
+---GAND---AEDCCLSVTQRPIPGNIVKRYLLI-QD-GCRVPAVVFTTLR-GYQLCAPLDQPWVERIIR
+RL---------*
+>P1;gi|18653821|ref|NP_570755.1| R3 [Macaca mulatta rhadinovirus] >g... [ score 77 E 8e-14 ] [ range 22 .. 90 ]
+sequence
+-PMGSPA---PELCCLGYVTHLPPPGLVVSYSHT-SS-QCSVDAVILNTRR-GKKLCANPGDDAVKKLLQ
+AVD--------*
+>P1;gi|23194396|gb|AAN15145.1| small inducible cytokine A3 [Ictaluru... [ score 77 E 9e-14 ] [ range 25 .. 82 ]
+sequence
+----ANG---ASLCCFEFHKKPFPAANVVSYEET-RS-DCTLPGVILTTKK-GFRLCADPEVDWVKQI--
+-----------*
+>P1;gi|6094384|sp|O89093|SY20_MOUSE Small inducible cytokine A20 pre... [ score 77 E 1e-13 ] [ range 32 .. 92 ]
+sequence
+------------DCCLSYIQTPLPSRAIVGFTRA-DE-ACDINAIIFHTKK-RKSVCADPKQNWVKRAVN
+LLSL-------*
+>P1;gi|25987910|gb|AAN76077.1| chemokine CCL19/MIP-3BETA [Macaca mul... [ score 77 E 1e-13 ] [ range 22 .. 87 ]
+sequence
+---GTND---AEDCCLSVTQKPIPGYIVRRYLLI-KD-GCRVPAVVFTTLR-GRQLCAPPDQSWVERIIQ
+RLQ--------*
+>P1;gi|2493669|sp|Q29288|SY05_PIG Small inducible cytokine A5 (CCL5)... [ score 76 E 2e-13 ] [ range 2 .. 50 ]
+sequence
+-----------------------CPAHLQEYFYT-SS-KCSMAAVVFITRK-NRQVCANPEKKWVREYIN
+SLELS------*
+>P1;gi|30025668|gb|AAP04418.1| CC chemokine ligand 3 [Peromyscus man... [ score 75 E 3e-13 ] [ range 1 .. 40 ]
+sequence
+--------------------------------QT-SS-LCSEPGVIFLTKR-NRQVCADPNEAWVQEYIT
+ELELN------*
+>P1;gi|34867169|ref|XP_216379.2| similar to TCA4 [Rattus norvegicus] [ score 74 E 7e-13 ] [ range 30 .. 92 ]
+sequence
+------------DCCLRYSQKKIPYNIVRGYREP-SL-GCPIPAILFAPRK-QSQLCANPEEAWVQKLMR
+RLDQ-------*
+>P1;gi|25987892|gb|AAN76068.1| chemokine CCL1/I-309 [Macaca mulatta] [ score 74 E 1e-12 ] [ range 29 .. 88 ]
+sequence
+------P---FSRCCFLFVEKEISLRAIQCYRNT-SS-SCSNEGLIFKLKR-GNEACALNQARWVQNHIK
+KL---------*
+>P1;gi|14547895|ref|NP_075539.1| chemokine (C-C motif) ligand 21c (s... [ score 72 E 3e-12 ] [ range 30 .. 92 ]
+sequence
+------------DCCLKYSQKKIPYSIVRGYREP-SL-GCPIPAILFLPRK-HSELCANPEEGWVQNLMR
+RLDQ-------*
+>P1;gi|25987912|gb|AAN76078.1| chemokine CCL20/MIP-3ALPHA [Macaca mu... [ score 71 E 7e-12 ] [ range 31 .. 89 ]
+sequence
+------------DCCLRYTDRILHPKFIVGFTQA-NE-TCDINAVVFHTKK-GLSVCANPKQTWVKLIVR
+RL---------*
+>P1;gi|30408026|gb|AAP30042.1| CC chemokine ligand 2 [Peromyscus man... [ score 70 E 1e-11 ] [ range 1 .. 40 ]
+sequence
+--------------------------------IT-SS-KCPREAVIFITKL-KREICADPKQEWVQTYTR
+KLDQN------*
+>P1;gi|27806273|ref|NP_776688.1| chemokine (C-C motif) ligand 20 [Bo... [ score 69 E 2e-11 ] [ range 31 .. 91 ]
+sequence
+------------DCCLRYTERILHPSILVGFTQA-NE-ACDINAVVFYTRK-KLAVCADPKKKWVKQVVH
+MLSQ-------*
+>P1;gi|45383285|ref|NP_989769.1| maacrophage inflammatory protein 3a... [ score 69 E 2e-11 ] [ range 33 .. 93 ]
+sequence
+------------DCCLSYSKVRLPRKVIKGFTEQ-LS-GCDIDAIIFHTVR-GLKACVNPKEDWVKKHLL
+FLSQ-------*
+>P1;gi|6689832|gb|AAF23861.1| chemokine CK-1 [Oncorhynchus kisutch] [ score 63 E 2e-09 ] [ range 28 .. 88 ]
+sequence
+------------DCCLKFTQHPVHCRWLKGYTFI-TS-SCDLNAVIFQNRR-NKFVCADPSQDWVQRCLR
+K----------*
+>P1;gi|27802635|gb|AAO21207.1| small inducible cytokine SCYA105 [Par... [ score 63 E 2e-09 ] [ range 27 .. 87 ]
+sequence
+-------------CCLKYVRKPAAQKHAVKYRMT-DG-GCNIPAVIFTMRK-GRIICTDPNETWVKDLMK
+KID--------*
+>P1;gi|27802627|gb|AAO21203.1| small inducible cytokine SCYA102 [Mel... [ score 62 E 3e-09 ] [ range 27 .. 87 ]
+sequence
+-------------CCLGYVREIKKKRNLVSYTET-DG-DCNIRAVLFKWKK-REQVCANPNDHWVQKEMR
+RLDL-------*
+>P1;gi|6689828|gb|AAF23860.1| chemokine CK-1 [Oncorhynchus mykiss] [ score 62 E 3e-09 ] [ range 28 .. 92 ]
+sequence
+------------DCCLKFTRRPVHCRWLKGYTFI-TS-SCDLNAVIFQNLR-NKFVCADPSQDWVQRCLR
+KRQEN------*
+>P1;gi|6755424|ref|NP_035459.1| chemokine (C-C motif) ligand 1; smal... [ score 60 E 1e-08 ] [ range 29 .. 88 ]
+sequence
+------V---SNSCCLNTLKKELPLKFIQCYRKM-GS-SCPDPAVVFRLNK-GRESCASTNKTWVQNHLK
+K----------*
+>P1;gi|19705461|ref|NP_599188.1| small inducible cytokine subfamily ... [ score 59 E 2e-08 ] [ range 32 .. 85 ]
+sequence
+--------------CVSLRTQRLPVQKIKTYTIK-EG---AMRAVIFVTKR-GLRICADPQAKWVKTAIK
+TVD--------*
+>P1;gi|9507069|ref|NP_062106.1| small inducible cytokine subfamily A... [ score 57 E 9e-08 ] [ range 30 .. 91 ]
+sequence
+------------DCCLTYTKNVYHRNFVFTTQMA-DE-ACDINAIIFHLKS-KRSVCADPKQIWVKRILH
+LLSL-------*
+>P1;gi|45384270|ref|NP_990377.1| lymphotactin [Gallus gallus] >gi|28... [ score 52 E 3e-06 ] [ range 36 .. 89 ]
+sequence
+--------------CVNLSTQKVDIRSIVNYEK---Q-KVPVEAVMFITAN-GIRICVHPEQKWVQSAMK
+RID--------*
+>P1;gi|25987918|gb|AAN76081.1| chemokine CCL25/TECK [Macaca mulatta] [ score 52 E 4e-06 ] [ range 26 .. 91 ]
+sequence
+------V---FEDCCLAY-HYPIGWAVLRTYREV-SG-SCNLPAAIFLPKR-HRKVCGNPKNKEVQRAMK
+LLD--------*
+>P1;gi|38153681|emb|CAE53702.1| small inducible cytokine [Platichthy... [ score 51 E 9e-06 ] [ range 12 .. 80 ]
+sequence
+-----------SNCCLGHVQRMRAKAKIESYRET-DG-DCYIRAVVFLMKK-KRTVCANPNDSWVQELIR
+TMD--------*
+>P1;gi|3122920|sp|O15444|SY25_HUMAN Small inducible cytokine A25 pre... [ score 50 E 1e-05 ] [ range 26 .. 91 ]
+sequence
+------V---FEDCCLAY-HYPIGWAVLRTYREV-SG-SCNLPAAIFLPKR-HRKVCGNPKSREVQRAMK
+LLD--------*
+>P1;gi|1531981|emb|CAA99998.1| CC-chemokine [Homo sapiens] [ score 50 E 1e-05 ] [ range 18 .. 61 ]
+sequence
+SPQGASV---PTTCCFNLANRKIPLQRLESYRIT-SG-KCPQKA--------------------------
+-----------*
+>P1;gi|27477072|ref|NP_066286.1| chemokine (C-C motif) ligand 3-like... [ score 112 E 2e-24 ] [ range 25 .. 92 ]
+sequence
+-PLAA-D---TTACCFSYTSRQIPQNFIADYFET-SS-QCSKPSVIFLTKR-GRQVCADPSEEWVQKYVS
+DLELS------*
+>P1;gi|41150749|ref|XP_371044.1| similar to cytokine [Homo sapiens] ... [ score 112 E 3e-24 ] [ range 25 .. 92 ]
+sequence
+-PMGS-D---PTACCFSYTARKLPRNFVVDYYET-SS-LCSQPAVVFQTKR-GKQVCADPSESWVQEYVY
+DLELN------*
+>P1;gi|4506831|ref|NP_002979.1| small inducible cytokine A18 precurs... [ score 99 E 2e-20 ] [ range 24 .. 88 ]
+sequence
+---GT-N---KELCCLVYTSWQIPQKFIVDYSET-SP-QCPKPGVILLTKR-GRQICADPNKKWVQKYIS
+DLKLN------*
+>P1;gi|3719362|gb|AAC63327.1| small inducible cytokine A23 precursor... [ score 99 E 3e-20 ] [ range 64 .. 128 ]
+sequence
+--FHA-T---SADCCISYTPRSIPCSLLESYFET-NS-ECSKPGVIFLTKK-GRRFCANPSDKQVQVCMR
+MLKL-------*
+>P1;gi|6755430|ref|NP_035463.1| chemokine (C-C motif) ligand 2; smal... [ score 95 E 5e-19 ] [ range 25 .. 93 ]
+sequence
+-PDAV-N---APTCCYSFTSKMIPMSRLESYRIT-SS-RCPKEAVVFVTKL-KREVCADPKKEWVQTYIK
+NLDRN------*
+>P1;gi|6531363|gb|AAF15379.1| small inducible cytokine A2 precursor ... [ score 95 E 5e-19 ] [ range 25 .. 93 ]
+sequence
+-PDAV-N---APTCCYSFTSKMIPMSRLEGYRIT-SS-RCPKEAVVFVTKL-KREVCADPKKEWVQTYIK
+NLDQN------*
+>P1;gi|45382627|ref|NP_990051.1| chemokine K203 [Gallus gallus] >gi|... [ score 95 E 5e-19 ] [ range 23 .. 88 ]
+sequence
+-PVGP-D---VPTCCTTYITHKIPRNLIQRHYST-ST-SCSKPAIIFITKK-EREVCANPSDPWVQRYLQ
+SVKR-------*
+>P1;gi|13928714|ref|NP_113718.1| small inducible cytokine A2; small ... [ score 94 E 9e-19 ] [ range 25 .. 93 ]
+sequence
+-PDAV-N---APTCCYSFTGKMIPMSRLENYRIT-SS-RCPKEAVVFVTKL-KREICADPNKEWVQKYIR
+KLDQN------*
+>P1;gi|27228299|gb|AAN85636.1| monocyte chemoattractant protein-1 [S... [ score 93 E 2e-18 ] [ range 26 .. 94 ]
+sequence
+-PDAV-N---APTCCYSFTNKKIPEKRLESYRIT-SS-KCPKEAVIFITKL-QREICADPKQDWVQMYTK
+KMDQN------*
+>P1;gi|19421561|gb|AAK84433.1| chemokine ah221 [Gallus gallus] [ score 90 E 1e-17 ] [ range 28 .. 88 ]
+sequence
+----------PTTCCFSYVQRPVPRNLIASAYIT-SS-KCRLPAVILVTKK-GREICVNPEESWVQKRLE
+LLQK-------*
+>P1;gi|5911367|gb|AAD55764.1| macrophage-derived chemokine [Rattus n... [ score 89 E 2e-17 ] [ range 15 .. 80 ]
+sequence
+-PYGA-N---VEDCCQDYIRHPLPPRFVKEFYWT-SK-SCRKPGVVLITIK-NRDICADPRMLWVKKILH
+KL---------*
+>P1;gi|6677883|ref|NP_033165.1| chemokine (C-C motif) ligand 6; smal... [ score 89 E 3e-17 ] [ range 43 .. 106 ]
+sequence
+--FQD-T---SSDCCFSYAT-QIPCKRFIYYFPT-SG-GCIKPGIIFISRR-GTQVCADPSDRRVQRCLS
+TLKQ-------*
+>P1;gi|22538816|ref|NP_005614.2| small inducible cytokine A8 precurs... [ score 88 E 6e-17 ] [ range 29 .. 92 ]
+sequence
+----S-I---PITCCFNVINRKIPIQRLESYRIT-NI-QCPKEAVIFKTKR-GKEVCADPKERWVRDSMK
+HLDQ-------*
+>P1;gi|6677879|ref|NP_033163.1| chemokine (C-C motif) ligand 22; sma... [ score 87 E 8e-17 ] [ range 26 .. 91 ]
+sequence
+-PYGA-N---VEDCCQDYIRHPLPSRLVKEFFWT-SK-SCRKPGVVLITVK-NRDICADPRQVWVKKLLH
+KL---------*
+>P1;gi|1170888|sp|Q08782|SY02_CAVPO Small inducible cytokine A2 prec... [ score 87 E 9e-17 ] [ range 25 .. 90 ]
+sequence
+-PDGV-N---TPTCCYTF-NKQIPLKRVKGYRIT-SS-RCPQEAVIFRTLK-NKEVCADPTQKWVQDYIA
+KLDQ-------*
+>P1;gi|4506827|ref|NP_002977.1| small inducible cytokine A11 precurs... [ score 87 E 1e-16 ] [ range 26 .. 90 ]
+sequence
+---AS-V---PTTCCFNLANRKIPLQRLESYRIT-SG-KCPQKAVIFKTKL-AKDICADPKKKWVQDSMK
+YLDQ-------*
+>P1;gi|28894125|gb|AAO52735.1| monocyte chemoattractant protein-3 [M... [ score 87 E 1e-16 ] [ range 35 .. 102 ]
+sequence
+-PDGN-T---STTCCYRFINKKIPKQRLESYRIT-SS-HCPREAVIFKTKL-DKEICADPTQKWVQEFMK
+HLDK-------*
+>P1;gi|5174671|ref|NP_006063.1| eotaxin-3 precursor; thymic stroma c... [ score 85 E 3e-16 ] [ range 26 .. 89 ]
+sequence
+---GS-D---ISTCCFQYSHKPLPWTWVRSYEFT-SN-SCSQRAVIFTTKR-GKKVCTHPRKKWVQKYIS
+LLK--------*
+>P1;gi|9625035|ref|NP_062523.1| chemokine (C-C motif) ligand 24; eot... [ score 85 E 3e-16 ] [ range 23 .. 90 ]
+sequence
+-PIDS-V---TIPCCTSFISKKIPENRVVSYQLA-NG-SCPKAGVIFITKK-GHKICTDPKLLWVQRHIQ
+KLD--------*
+>P1;gi|28894123|gb|AAO52734.1| monocyte chemoattractant protein-2 [M... [ score 85 E 5e-16 ] [ range 29 .. 92 ]
+sequence
+----S-I---PITCCFNVINRKIPIQRLQSYRIT-NT-QCPKEAVIFKTKW-GKEVCADPKERWVRDSMK
+HLDQ-------*
+>P1;gi|21070221|gb|AAM34214.1| mcp-2 [Equus caballus] [ score 84 E 7e-16 ] [ range 29 .. 92 ]
+sequence
+----S-I---PVTCCFGVDKKKVPIQRVESYRIT-SS-QCSQEAVIFKTKV-DKEICADPKQKWVQDTMK
+RLDQ-------*
+>P1;gi|6094387|sp|O00626|SY22_HUMAN Small inducible cytokine A22 pre... [ score 84 E 9e-16 ] [ range 26 .. 93 ]
+sequence
+-PYGA-N---MEDCCRDYVRYRLPLRVVKHFYWT-SD-SCPRPGVVLLTFR-DKEICADPRVPWVKMILN
+KLSQ-------*
+>P1;gi|6755422|ref|NP_036018.1| chemokine (C-C motif) ligand 19; sma... [ score 84 E 1e-15 ] [ range 27 .. 93 ]
+sequence
+---AN-D---AEDCCLSVTQRPIPGNIVKAFRYN-ED-GCRVPAVVFTTLR-GYQLCAPPDQPWVDRIIR
+RLKKS------*
+>P1;gi|40538778|ref|NP_776432.1| chemokine (C-C motif) ligand 8; sma... [ score 83 E 1e-15 ] [ range 29 .. 92 ]
+sequence
+----S-T---PITCCFSVINGKIPFKKLDSYRIT-NS-QCPQEAVIFKTKA-DRDVCADPKQKWVQTSIR
+LLDQ-------*
+>P1;gi|6755418|ref|NP_035460.1| small chemokine (C-C motif) ligand 1... [ score 83 E 2e-15 ] [ range 26 .. 90 ]
+sequence
+---GS-I---PTSCCFIMTSKKIPNTLLKSYRIT-NN-RCTLKAIVFKTRL-GKEICADPKKKWVQDATK
+HLDQ-------*
+>P1;gi|25987904|gb|AAN76074.1| chemokine CCL11/EOTAXIN [Macaca mulatta] [ score 83 E 2e-15 ] [ range 27 .. 90 ]
+sequence
+----S-V---ATTCCFTLTNKKIPLQRLESYRII-SG-KCPQKAVIFKTKL-AKDICADPKKKWVQDSMK
+YLDR-------*
+>P1;gi|11276089|ref|NP_062078.1| small inducible cytokine subfamily ... [ score 82 E 2e-15 ] [ range 26 .. 90 ]
+sequence
+---GS-I---PTSCCFTMTSKKIPNTLLKSYRIT-NN-RCTLKAIVFKTKL-GKEICADPKKKWVQDATK
+HLDQ-------*
+>P1;gi|4759074|ref|NP_004581.1| small inducible cytokine A16 precurs... [ score 81 E 5e-15 ] [ range 32 .. 90 ]
+sequence
+----N-T---PSTCCLKYYEKVLPRRLVVGYR-K-AL-NCHLPAIIFVTKR-NREVCTNPNDDWVQEYIK
+D----------*
+>P1;gi|22652802|gb|AAN03823.1| MIP-1-like protein [Guinea pig cytome... [ score 81 E 7e-15 ] [ range 32 .. 94 ]
+sequence
+------V---PATCCTQYATKALKFNKILTYSVS-SS-NCAFPGVIFITKK-GQMVCANPSDPWVKDYVE
+RLDK-------*
+>P1;gi|4506829|ref|NP_002978.1| small inducible cytokine A17 precurs... [ score 80 E 1e-14 ] [ range 33 .. 94 ]
+sequence
+-------------CCLEYFKGAIPLRKLKTWYQT-SE-DCSRDAIVFVTVQ-GRAICSDPNNKRVKKYLQ
+SLERS------*
+>P1;gi|1708958|sp|P49873|SY08_PIG Small inducible cytokine A8 precur... [ score 80 E 1e-14 ] [ range 29 .. 92 ]
+sequence
+----S-I---PITCCFGLVNGKIPFKKLESYRIT-NS-QCPQEAVIFKTKA-DKEVCADPQQKWVQNSMK
+LLDQ-------*
+>P1;gi|25987916|gb|AAN76080.1| chemokine CCL23/MPIF-1 [Macaca mulatta] [ score 79 E 3e-14 ] [ range 47 .. 111 ]
+sequence
+--FHA-I---NADCCTSYIPGSIPCSLLESYLET-SS-KCPKPGVIFLTKN-GRRLCVSPSNKQVLACRI
+MLKL-------*
+>P1;gi|30584599|gb|AAP36552.1| Homo sapiens chemokine (C-C motif) li... [ score 79 E 3e-14 ] [ range 29 .. 92 ]
+sequence
+----N-A---PVTCCYNFTNRKISVQRLASYRIT-SS-KCPKEAVIFKTIV-AKEICADPKQKWVQDSMD
+HLDK-------*
+>P1;gi|5454040|ref|NP_006265.1| small inducible cytokine A19 precurs... [ score 78 E 5e-14 ] [ range 24 .. 89 ]
+sequence
+----N-D---AEDCCLSVTQKPIPGYIVRNFHYI-KD-GCRVPAVVFTTLR-GRQLCAPPDQPWVERIIQ
+RLQRT------*
+>P1;gi|7513133|pir||JE0177 lymphocyte and monocyte chemoattractant C... [ score 77 E 8e-14 ] [ range 32 .. 90 ]
+sequence
+----N-T---PSTCCLKYYEK-VPLRRLVVGYRK-AL-NCHLPAIIFVTKR-NREVCTNPNDDWVQEYIK
+D----------*
+>P1;gi|34867167|ref|XP_342825.1| similar to EBI-1 ligand chemokine [... [ score 77 E 8e-14 ] [ range 27 .. 90 ]
+sequence
+---AN-D---AEDCCLSVTQRPIPGNIVKAFRYI-QD-GCRVPAVVFTTLR-GYQLCAPLDQPWVERIIR
+RL---------*
+>P1;gi|25987910|gb|AAN76077.1| chemokine CCL19/MIP-3BETA [Macaca mul... [ score 77 E 1e-13 ] [ range 24 .. 89 ]
+sequence
+----N-D---AEDCCLSVTQKPIPGYIVRNFRYI-KD-GCRVPAVVFTTLR-GRQLCAPPDQSWVERIIQ
+RLQRT------*
+>P1;gi|2493663|sp|Q62401|SY12_MOUSE Small inducible cytokine A12 pre... [ score 77 E 1e-13 ] [ range 28 .. 92 ]
+sequence
+----S-T---PVTCCYNVVKQKIHVRKLKSYRIT-SS-QCPREAVIFRTIL-DKEICADPKEKWVKNSIN
+HLDKT------*
+>P1;gi|1708963|sp|P52203|SY02_CANFA Small inducible cytokine A2 prec... [ score 75 E 3e-13 ] [ range 31 .. 92 ]
+sequence
+----------PVTCCYTLTNKKISIQRLASYRVT-SS-KCPKEAVIFKTVL-NKEICADPKQKWVQDSMA
+HLDK-------*
+>P1;gi|126845|sp|P28292|SY02_RABIT Small inducible cytokine A2 precu... [ score 75 E 4e-13 ] [ range 25 .. 92 ]
+sequence
+-PDAV-N---SPTCCYTFTNKTISVKRLMSYRIN-ST-KCPKEAVIFMTKL-AKGICADPKQKWVQDAIA
+NLDK-------*
+>P1;gi|6468533|emb|CAB61625.1| monocyte chemoattractant protein-1 [E... [ score 74 E 1e-12 ] [ range 29 .. 92 ]
+sequence
+----N-S---PVTCCYTFTGKKISSQRLGSYRVT-SS-KCPKEAVIFKTIL-AKEICADPEQKWVQDAVK
+QLDK-------*
+>P1;gi|4506855|ref|NP_003166.1| chemokine (C motif) ligand 2; small ... [ score 72 E 2e-12 ] [ range 32 .. 86 ]
+sequence
+--------------CVSLTTQRLPVSRIKTYTIT-EG---SLRAVIFITKR-GLKVCADPQATWVRDVVR
+SMDR-------*
+>P1;gi|4115613|dbj|BAA36456.1| Monocyte Chemoattractant Protein-3 (M... [ score 73 E 2e-12 ] [ range 25 .. 90 ]
+sequence
+-PDGV-N---ISTCCYK-RSQRIRVQRLESYRIT-SS-KCPWQAVIFKTKF-NREICADPKQQWVQDSMK
+YIDK-------*
+>P1;gi|27802635|gb|AAO21207.1| small inducible cytokine SCYA105 [Par... [ score 71 E 7e-12 ] [ range 27 .. 87 ]
+sequence
+-------------CCLKYVMKPAAQKHAVKYRHT-DG-GCNIPAVIFTMRK-GRIICTDPNETWVKDLMK
+KID--------*
+>P1;gi|7305463|ref|NP_038682.1| chemokine (C-C motif) ligand 7; smal... [ score 71 E 8e-12 ] [ range 25 .. 90 ]
+sequence
+-PDGP-N---ASTCCY-VKKQKIPKRNLKSYRIT-SS-RCPWEAVIFKTKK-GMEVCAEAHQKWVEEAIA
+YLDM-------*
+>P1;gi|10946818|ref|NP_067418.1| chemokine (C-C motif) ligand 8; sma... [ score 70 E 2e-11 ] [ range 29 .. 90 ]
+sequence
+----------PVTCCFHVLKLKIPLRVLKSYRIN-NI-QCPMEAVVFQTKQ-GMSLCVDPTQKWVSEYME
+ILDQ-------*
+>P1;gi|25987932|gb|AAN76088.1| chemokine XCL1/LYMPHOTACTIN [Macaca m... [ score 69 E 2e-11 ] [ range 27 .. 86 ]
+sequence
+----S-D---KST-CVSLTTQRLPVNRIKTYTIK-EG---SLKAVIFITKR-GLKVCADPQARWVKDVVK
+SMDR-------*
+>P1;gi|6468535|emb|CAB61626.1| monocyte chemoattractant protein-2 [E... [ score 68 E 5e-11 ] [ range 29 .. 81 ]
+sequence
+----S-I---PVTCCFGVVKKKVPIQRLESYRIT-SS-QCSQEAVIFKTKV-DKEICADPKKK-------
+-----------*
+>P1;gi|25987914|gb|AAN76079.1| chemokine CCL21/6CKINE [Macaca mulatta] [ score 68 E 6e-11 ] [ range 23 .. 93 ]
+sequence
+---GS-D---AQDCCLKYSQRKIPAKVVRSYREP-SL-GCSIPAILFLPRK-RSQLCADPKELWVQQLMQ
+HLDKT------*
+>P1;gi|19745170|ref|NP_604450.1| chemokine (C-X3-C motif) ligand 1; ... [ score 65 E 3e-10 ] [ range 29 .. 90 ]
+sequence
+----------MTKCCHKMTS-PIPVTLLIHYQLN-QE-SCGKRAIILETRQ-HRHFCADPKEKWVQDAMK
+HLD--------*
+>P1;gi|28372489|ref|NP_783647.1| chemokine (C motif) ligand 1 [Bos t... [ score 64 E 1e-09 ] [ range 32 .. 86 ]
+sequence
+--------------CVSLTTQRLPIKNIKTYTIK-EG---SVKAVIFITRR-GFKICADPQAAWVKKAVQ
+KIDR-------*
+>P1;gi|28316419|dbj|BAC56938.1| Lymphotactin [Ovis aries] [ score 64 E 1e-09 ] [ range 32 .. 87 ]
+sequence
+--------------CVSLTTQRLPVKNIKTYTIK-EG---SMKAVIFITRR-GLKVCADPHVEWVKKAVQ
+TIDKS------*
+>P1;gi|28894117|gb|AAO52731.1| fractalkine [Macaca nemestrina] [ score 62 E 3e-09 ] [ range 29 .. 91 ]
+sequence
+----------VTKCCSKMTSK-IPVALLIHYQQN-QE-SCGKRAIVLETRQ-HRLFCADPKEQWVKDAMQ
+HLDR-------*
+>P1;gi|26333653|dbj|BAC30544.1| unnamed protein product [Mus musculus] [ score 62 E 3e-09 ] [ range 29 .. 90 ]
+sequence
+----------MTKCCDKMTSR-IPVALLIRYQLN-QE-SCGKRAIVLETTQ-HRRFCADPKEKWVQDAMK
+HLD--------*
+>P1;gi|4506857|ref|NP_002987.1| chemokine (C-X3-C motif) ligand 1; s... [ score 62 E 3e-09 ] [ range 29 .. 91 ]
+sequence
+----------VTKCCSKMTSK-IPVALLIHYQQN-QA-SCGKRAIILETRQ-HRLFCADPKEQWVKDAMQ
+HLDR-------*
+>P1;gi|6689832|gb|AAF23861.1| chemokine CK-1 [Oncorhynchus kisutch] [ score 62 E 3e-09 ] [ range 26 .. 88 ]
+sequence
+----------SADCCLKFTQHPVHCRWLKGYTFQ-DS-SCDLNAVIFQNRR-NKFVCADPSQDWVQRCLR
+K----------*
+>P1;gi|6689828|gb|AAF23860.1| chemokine CK-1 [Oncorhynchus mykiss] [ score 60 E 1e-08 ] [ range 26 .. 92 ]
+sequence
+----------SADCCLKFTRRPVHCRWLKGYTFQ-DS-SCDLNAVIFQNLR-NKFVCADPSQDWVQRCLR
+KRQEN------*
+>P1;gi|9507069|ref|NP_062106.1| small inducible cytokine subfamily A... [ score 53 E 2e-06 ] [ range 30 .. 91 ]
+sequence
+------------DCCLTYTKNVYHHARFVGFTMA-DE-ACDINAIIFHLKS-KRSVCADPKQIWVKRILH
+LLSL-------*
+>P1;gi|45382131|ref|NP_990107.1| cytokine [Gallus gallus] >gi|509594... [ score 52 E 3e-06 ] [ range 25 .. 92 ]
+sequence
+--FRS-S---YSSYCYKFIQKEINTSLIRRYRET-PP-NCSRRAIIVELKK-GKKFCVDPAEGWFQQYLQ
+GKKLS------*
+>P1;gi|27802631|gb|AAO21205.1| small inducible cytokine SCYA103 [Par... [ score 52 E 5e-06 ] [ range 27 .. 87 ]
+sequence
+-------------CCLGYAKEIRRKANIISYTES-DG-DCNIKAILFTMKR-RKPVCANPNDEWVKQEMG
+RLDK-------*
+>P1;gi|25987904|gb|AAN76074.1| chemokine CCL11/EOTAXIN [Macaca mulatta] [ score 117 E 5e-26 ] [ range 24 .. 97 ]
+sequence
+-----GPDSVATTCCFTLTNKKIPLQRLESYRRIISG-KCPQKAVIFKTKL-AKDICADPKKKWVQDSMK
+YLDRKSPTPKP*
+>P1;gi|21070221|gb|AAM34214.1| mcp-2 [Equus caballus] [ score 115 E 2e-25 ] [ range 28 .. 99 ]
+sequence
+-------VSIPVTCCFGVDKKKVPIQRVESYTRITSS-QCSQEAVIFKTKV-DKEICADPKQKWVQDTMK
+RLDQRSQTPKP*
+>P1;gi|6755418|ref|NP_035460.1| small chemokine (C-C motif) ligand 1... [ score 115 E 4e-25 ] [ range 25 .. 97 ]
+sequence
+------PGSIPTSCCFIMTSKKIPNTLLKSYKRITNN-RCTLKAIVFKTRL-GKEICADPKKKWVQDATK
+HLDQKLQTPKP*
+>P1;gi|28894125|gb|AAO52735.1| monocyte chemoattractant protein-3 [M... [ score 114 E 5e-25 ] [ range 39 .. 108 ]
+sequence
+--------NTSTTCCYRFINKKIPKQRLESYRRITSS-HCPREAVIFKTKL-DKEICADPTQKWVQEFMK
+HLDKKTQTPK-*
+>P1;gi|13431903|sp|Q9MYN4|SY02_MACFA Small inducible cytokine A2 pre... [ score 114 E 6e-25 ] [ range 29 .. 99 ]
+sequence
+--------NAPVTCCYNFTNRKISVQRLASYRRITSS-KCPKEAVIFKTIV-AKEICADPKQKWVQDSMD
+HLDKQIQTPKP*
+>P1;gi|4885587|ref|NP_005399.1| small inducible cytokine A13 precurs... [ score 114 E 6e-25 ] [ range 29 .. 97 ]
+sequence
+--------NVPSTCCFTFSSKKISLQRLKSYV-ITTS-RCPQKAVIFRTKL-GKEICADPKEKWVQNYMK
+HLGRKAHTLK-*
+>P1;gi|22538816|ref|NP_005614.2| small inducible cytokine A8 precurs... [ score 113 E 7e-25 ] [ range 27 .. 99 ]
+sequence
+------SVSIPITCCFNVINRKIPIQRLESYTRITNI-QCPKEAVIFKTKR-GKEVCADPKERWVRDSMK
+HLDQIFQNLKP*
+>P1;gi|6755430|ref|NP_035463.1| chemokine (C-C motif) ligand 2; smal... [ score 113 E 7e-25 ] [ range 28 .. 99 ]
+sequence
+-------VNAPLTCCYSFTSKMIPMSRLESYKRITSS-RCPKEAVVFVTKL-KREVCADPKKEWVQTYIK
+NLDRNQMRSEP*
+>P1;gi|6531363|gb|AAF15379.1| small inducible cytokine A2 precursor ... [ score 112 E 1e-24 ] [ range 28 .. 99 ]
+sequence
+-------VNAPLTCCYSFTSKMIPMSRLEGYKRITSS-RCPKEAVVFVTKL-KREVCADPKKEWVQTYIK
+NLDQNQMRSEP*
+>P1;gi|1708958|sp|P49873|SY08_PIG Small inducible cytokine A8 precur... [ score 112 E 2e-24 ] [ range 27 .. 99 ]
+sequence
+------SVSIPITCCFGLVNGKIPFKKLESYTRITNS-QCPQEAVIFKTKA-DKEVCADPQQKWVQNSMK
+LLDQKSQTPKP*
+>P1;gi|28894123|gb|AAO52734.1| monocyte chemoattractant protein-2 [M... [ score 112 E 2e-24 ] [ range 27 .. 99 ]
+sequence
+------SVSIPITCCFNVINRKIPIQRLQSYTRITNT-QCPKEAVIFKTKW-GKEVCADPKERWVRDSMK
+HLDQMFQNLKP*
+>P1;gi|11276089|ref|NP_062078.1| small inducible cytokine subfamily ... [ score 112 E 2e-24 ] [ range 25 .. 97 ]
+sequence
+------PGSIPTSCCFTMTSKKIPNTLLKSYKRITNN-RCTLKAIVFKTKL-GKEICADPKKKWVQDATK
+HLDQKLQTPKP*
+>P1;gi|27806711|ref|NP_776431.1| chemokine (C-C motif) ligand 2; sma... [ score 112 E 3e-24 ] [ range 29 .. 99 ]
+sequence
+--------NSQVACCYTFNSKKISMQRLMNYRRVTSS-KCPKEAVIFKTIL-GKELCADPKQKWVQDSIN
+YLNKKNQTPKP*
+>P1;gi|40538778|ref|NP_776432.1| chemokine (C-C motif) ligand 8; sma... [ score 111 E 5e-24 ] [ range 27 .. 99 ]
+sequence
+------SVSTPITCCFSVINGKIPFKKLDSYTRITNS-QCPQEAVIFKTKA-DRDVCADPKQKWVQTSIR
+LLDQKSRTPKP*
+>P1;gi|126845|sp|P28292|SY02_RABIT Small inducible cytokine A2 precu... [ score 110 E 7e-24 ] [ range 28 .. 98 ]
+sequence
+-------VNSPVTCCYTFTNKTISVKRLMSYRRINST-KCPKEAVIFMTKL-AKGICADPKQKWVQDAIA
+NLDKKMQTPK-*
+>P1;gi|1170889|sp|P42831|SY02_PIG Small inducible cytokine A2 precur... [ score 109 E 2e-23 ] [ range 29 .. 99 ]
+sequence
+--------NSPVTCCYTLTSKKISMQRLMSYRRVTSS-KCPKEAVIFKTIA-GKEICAEPKQKWVQDSIS
+HLDKKNQTPKP*
+>P1;gi|34871736|ref|XP_213743.2| similar to eotaxin-2-like protein [... [ score 108 E 2e-23 ] [ range 25 .. 97 ] [ duplicate a ]
+sequence
+-----GSVTIPSSCCVTFISKKIPVNRVISYQLANGS-ICPKAGVIFITKK-GHKICTDPKLPWVQKHIK
+NLDAKRNQPS-*
+>P1;gi|34871736|ref|XP_213743.2| similar to eotaxin-2-like protein [... [ score 108 E 2e-23 ] [ range 173 .. 236 ] [ duplicate b ]
+sequence
+----------PMPCCSYFSHYVIPWHWLYSY-QITDS-SCPNEGVIFTTKT-GKQYCVQPGDKWVQRYIS
+LLNAKKH----*
+>P1;gi|27065669|pdb|1ML0|D Chain D, Viral Chemokine Binding Protein ... [ score 108 E 4e-23 ] [ range 6 .. 75 ]
+sequence
+--------NAAVTCCYNFTNRKISVQRLASYRRITSS-KCPKEAVIFKTIV-AKEICADPKQKWVQDSID
+HLDKQTQTPK-*
+>P1;gi|27228299|gb|AAN85636.1| monocyte chemoattractant protein-1 [S... [ score 107 E 6e-23 ] [ range 29 .. 93 ]
+sequence
+-------VNAPLTCCYSFTNKKIPEKRLESYKRITSS-KCPKEAVIFITKL-QREICADPKQDWVQMYTK
+KMDQ-------*
+>P1;gi|13928714|ref|NP_113718.1| small inducible cytokine A2; small ... [ score 107 E 7e-23 ] [ range 28 .. 92 ]
+sequence
+-------VNAPLTCCYSFTGKMIPMSRLENYKRITSS-RCPKEAVVFVTKL-KREICADPNKEWVQKYIR
+KLDQ-------*
+>P1;gi|4165482|emb|CAA11383.1| MPIF-2 [Homo sapiens] [ score 107 E 8e-23 ] [ range 23 .. 96 ]
+sequence
+-----GSVVIPSPCCMFFVSKRIPENRVVSYQLSSRS-TCLKAGVIFTTKK-GQQFCGDPKQEWVQRYMK
+NLDAKQKKASP*
+>P1;gi|27674225|ref|XP_213425.1| similar to small inducible cytokine... [ score 107 E 9e-23 ] [ range 23 .. 98 ]
+sequence
+-----GPDSVPVTCCYNVAKQKIHIRRLKSYRKITSS-QCPREAVIFRTVL-DKELCADPKEKWVKDSMN
+HLDQKSRTQHP*
+>P1;gi|2493663|sp|Q62401|SY12_MOUSE Small inducible cytokine A12 pre... [ score 107 E 1e-22 ] [ range 23 .. 95 ]
+sequence
+-----GPDSTPVTCCYNVVKQKIHVRKLKSYRRITSS-QCPREAVIFRTIL-DKEICADPKEKWVKNSIN
+HLDKTSQT---*
+>P1;gi|6468533|emb|CAB61625.1| monocyte chemoattractant protein-1 [E... [ score 106 E 2e-22 ] [ range 29 .. 99 ]
+sequence
+--------NSPVTCCYTFTGKKISSQRLGSYKRVTSS-KCPKEAVIFKTIL-AKEICADPEQKWVQDAVK
+QLDKKAQTPKP*
+>P1;gi|6468531|emb|CAB61624.1| eotaxin [Equus caballus] [ score 106 E 2e-22 ] [ range 25 .. 96 ]
+sequence
+------PVSISTVCCFNVASRKISFQRLQSYRKITSS-KCPQKAVIFKTKQ-AKKICADPKQKWVQDAMK
+YLDENSRTTK-*
+>P1;gi|45429971|ref|NP_991342.1| eotaxin [Bos taurus] >gi|6468485|em... [ score 105 E 2e-22 ] [ range 25 .. 96 ]
+sequence
+------PASIPTICCFNMSKKKISIQRLQSYRKITSS-KCPQKAVIFNTKQ-NKKICVDPQEKWVQNAME
+YLNQKSQTLK-*
+>P1;gi|10946818|ref|NP_067418.1| chemokine (C-C motif) ligand 8; sma... [ score 105 E 3e-22 ] [ range 24 .. 97 ]
+sequence
+-----GPDKAPVTCCFHVLKLKIPLRVLKSYERINNI-QCPMEAVVFQTKQ-GMSLCVDPTQKWVSEYME
+ILDQKSQILQP*
+>P1;gi|1706660|sp|P80325|EOTA_CAVPO Eotaxin precursor (Small inducib... [ score 102 E 2e-21 ] [ range 27 .. 96 ]
+sequence
+---------IPSACCFRVTNKKISFQRLKSYKIITSS-KCPQTAIVFEIKP-DKMICADPKKKWVQDAKK
+YLDQISQTTKP*
+>P1;gi|27674221|ref|XP_213419.1| similar to Small inducible cytokine... [ score 102 E 3e-21 ] [ range 31 .. 97 ]
+sequence
+-----------STCCY-VKKQKIPKRNLKSYRKITSS-RCPWEAVIFKTKK-GMEVCAEAHQKWVEEAIA
+YLDMKTSTPKP*
+>P1;gi|4115613|dbj|BAA36456.1| Monocyte Chemoattractant Protein-3 (M... [ score 101 E 4e-21 ] [ range 31 .. 96 ]
+sequence
+-----------STCCYK-RSQRIRVQRLESYTRITSS-KCPWQAVIFKTKF-NREICADPKQQWVQDSMK
+YIDKKSKTPK-*
+>P1;gi|7305463|ref|NP_038682.1| chemokine (C-C motif) ligand 7; smal... [ score 100 E 7e-21 ] [ range 31 .. 97 ]
+sequence
+-----------STCCY-VKKQKIPKRNLKSYRRITSS-RCPWEAVIFKTKK-GMEVCAEAHQKWVEEAIA
+YLDMKTPTPKP*
+>P1;gi|9625035|ref|NP_062523.1| chemokine (C-C motif) ligand 24; eot... [ score 100 E 1e-20 ] [ range 26 .. 97 ]
+sequence
+------SVTIPSSCCTSFISKKIPENRVVSYQLANGS-ICPKAGVIFITKK-GHKICTDPKLLWVQRHIQ
+KLDAKKNQPS-*
+>P1;gi|1170888|sp|Q08782|SY02_CAVPO Small inducible cytokine A2 prec... [ score 96 E 2e-19 ] [ range 28 .. 96 ]
+sequence
+-------VNTP-TCCYTF-NKQIPLKRVKGYERITSS-RCPQEAVIFRTLK-NKEVCADPTQKWVQDYIA
+KLDQRTQQKQ-*
+>P1;gi|7767022|pdb|1EQT|A Chain A, Met-Rantes >gi|7767023|pdb|1EQT|B... [ score 94 E 6e-19 ] [ range 2 .. 67 ]
+sequence
+-----GYSSDTTPCCFAYIARPMPRAHIKEYFY-TSG-KCSNPAVVFVTRK-NRQVCANPEKKWVREYIN
+SLEM-------*
+>P1;gi|21668382|emb|CAC85743.1| regakine-1 protein [Bos taurus] [ score 94 E 7e-19 ] [ range 25 .. 92 ]
+sequence
+------PAGNMRVCCFSSVTRKIPLSLVKNYER-TGD-KCPQEAVIFQTRS-GRSICANPGQAWVQKYIE
+YLDQMSK----*
+>P1;gi|24212453|sp|Q91ZL1|SY05_SIGHI Small inducible cytokine A5 pre... [ score 94 E 9e-19 ] [ range 27 .. 91 ]
+sequence
+-----GSDTIP--CCFAYLSAVLPRAHVKEYFY-TSS-KCSNFAVVFVTRR-NRQVCANPKKKWVQEYIN
+YLELK------*
+>P1;gi|24024792|dbj|BAC20610.1| CC chemokine [Paralichthys olivaceus] [ score 91 E 5e-18 ] [ range 28 .. 90 ]
+sequence
+----------PDDCCFNFYSRRVKKTLIKSYY-MTDS-RCSKMGVILVTQK-SHHICADPDVQWVQGIMK
+FLDEKN-----*
+>P1;gi|4139064|gb|AAD03677.1| monocyte chemoattractant protein 1 [Cr... [ score 91 E 7e-18 ] [ range 2 .. 56 ]
+sequence
+-----------------FTAKRIPEKRLESYKRITSS-KCPKEAVIFITKL-KREICADPKQDWVQTYTK
+KLDQ-------*
+>P1;gi|22652802|gb|AAN03823.1| MIP-1-like protein [Guinea pig cytome... [ score 89 E 2e-17 ] [ range 32 .. 94 ]
+sequence
+---------VPATCCTQYATKALKFNKILTYVSVSSS-NCAFPGVIFITKK-GQMVCANPSDPWVKDYVE
+RLDK-------*
+>P1;gi|19421561|gb|AAK84433.1| chemokine ah221 [Gallus gallus] [ score 89 E 3e-17 ] [ range 25 .. 91 ]
+sequence
+-------DGLPTTCCFSYVQRPVPRNLIAS-AYITSS-KCRLPAVILVTKK-GREICVNPEESWVQKRLE
+LLQKQEN----*
+>P1;gi|22531647|dbj|BAC10649.1| MIP1alpha [Paralichthys olivaceus] [ score 89 E 4e-17 ] [ range 28 .. 89 ]
+sequence
+----------PDDCCFNFYSRRVKKTLIKSYY-MTDS-RCSKTGVILVTQK-SRHICVDPDVQWVQGIMK
+FLDEK------*
+>P1;gi|6678712|ref|NP_032536.1| chemokine (C motif) ligand 1; lympho... [ score 87 E 9e-17 ] [ range 23 .. 92 ]
+sequence
+-----GTEVLEESSCVNLQTQRLPVQKIKTY-IIWEG---AMRAVIFVTKR-GLKICADPEAKWVKAAIK
+TVDGRASTRK-*
+>P1;gi|25987932|gb|AAN76088.1| chemokine XCL1/LYMPHOTACTIN [Macaca m... [ score 86 E 2e-16 ] [ range 23 .. 91 ]
+sequence
+-----GSEVSDKSTCVSLTTQRLPVNRIKTY---TIK-EGSLKAVIFITKR-GLKVCADPQARWVKDVVK
+SMDRKSNTR--*
+>P1;gi|19705461|ref|NP_599188.1| small inducible cytokine subfamily ... [ score 86 E 2e-16 ] [ range 23 .. 92 ]
+sequence
+-----GTEVLQESICVSLRTQRLPVQKIKTY---TIK-EGAMRAVIFVTKR-GLRICADPQAKWVKTAIK
+TVDGRASASK-*
+>P1;gi|4506855|ref|NP_003166.1| chemokine (C motif) ligand 2; small ... [ score 84 E 6e-16 ] [ range 23 .. 91 ]
+sequence
+-----GSEVSHRRTCVSLTTQRLPVSRIKTY---TIT-EGSLRAVIFITKR-GLKVCADPQATWVRDVVR
+SMDRKSNTR--*
+>P1;gi|4506853|ref|NP_002986.1| chemokine (C motif) ligand 1; Lympho... [ score 84 E 1e-15 ] [ range 23 .. 91 ]
+sequence
+-----GSEVSDKRTCVSLTTQRLPVSRIKTY---TIT-EGSLRAVIFITKR-GLKVCADPQATWVRDVVR
+SMDRKSNTR--*
+>P1;gi|19745170|ref|NP_604450.1| chemokine (C-X3-C motif) ligand 1; ... [ score 80 E 2e-14 ] [ range 36 .. 93 ]
+sequence
+--------------CHKMTS-PIPVTLLIHY-QLNQE-SCGKRAIILETRQ-HRHFCADPKEKWVQDAMK
+HLDHQT-----*
+>P1;gi|28372489|ref|NP_783647.1| chemokine (C motif) ligand 1 [Bos t... [ score 78 E 5e-14 ] [ range 23 .. 94 ]
+sequence
+-----GSEVLEKSICVSLTTQRLPIKNIKTY---TIK-EGSVKAVIFITRR-GFKICADPQAAWVKKAVQ
+KIDRKNSQAKP*
+>P1;gi|25987892|gb|AAN76068.1| chemokine CCL1/I-309 [Macaca mulatta] [ score 77 E 7e-14 ] [ range 33 .. 96 ]
+sequence
+-------------CCFLFVEKEISLRAIQCY-RNTSS-SCSNEGLIFKLKR-GNEACALNQARWVQNHIK
+KLSHCLPKRK-*
+>P1;gi|5929762|gb|AAD56600.1| CC chemokine ABCD-2 [Mus musculus] [ score 77 E 8e-14 ] [ range 66 .. 131 ]
+sequence
+--------NVGRECCLDYFKGAIPIRKLVSWYK-TSV-ECSRDAIVFLTVQ-GKLICADPKDKHVKKAIR
+LV--KNPRP--*
+>P1;gi|6175081|sp|O35188|SYD1_MOUSE Fractalkine precursor (CX3CL1) (... [ score 77 E 9e-14 ] [ range 36 .. 93 ]
+sequence
+--------------CGKMTSR-IPVALLIRY-QLNQE-SCGKRAIVLETTQ-HRRFCADPKEKWVQDAMK
+HLDHQA-----*
+>P1;gi|24137631|dbj|BAC22063.1| chemokine [Felis catus] [ score 76 E 1e-13 ] [ range 28 .. 97 ]
+sequence
+--------NVGRECCLEYFKGAIPLRRLTGWYR-TSG-ECSKDAIVFVTIH-GKSICSDPKDTRVKKTVR
+YLQSMNPVPQ-*
+>P1;gi|3719362|gb|AAC63327.1| small inducible cytokine A23 precursor... [ score 77 E 1e-13 ] [ range 71 .. 136 ]
+sequence
+-------------CCISYTPRSIPCSLLESYFE-TNS-ECSKPGVIFLTKK-GRRFCANPSDKQVQVCMR
+KLDTRIKTRK-*
+>P1;gi|6468537|emb|CAB61627.1| monocyte chemoattractant protein-4 [E... [ score 76 E 2e-13 ] [ range 27 .. 75 ]
+sequence
+-----------TACCFKFNSKKMPLQRLRSY-RITGS-QCPQEAVIFRTKL-AKDVCADPKKK-------
+-----------*
+>P1;gi|28316419|dbj|BAC56938.1| Lymphotactin [Ovis aries] [ score 75 E 3e-13 ] [ range 23 .. 89 ]
+sequence
+-----GSEVLEKSICVSLTTQRLPVKNIKTY---TIK-EGSMKAVIFITRR-GLKVCADPHVEWVKKAVQ
+TIDKSTR----*
+>P1;gi|45382627|ref|NP_990051.1| chemokine K203 [Gallus gallus] >gi|... [ score 74 E 6e-13 ] [ range 25 .. 88 ]
+sequence
+-----GPDV--PTCCTTYITHKIPRNLIQRHY-STST-SCSKPAIIFITKK-EREVCANPSDPWVQRYLQ
+SVKR-------*
+>P1;gi|107090|pir||C60407 monocyte adherence-induced protein 5 beta ... [ score 73 E 2e-12 ] [ range 1 .. 48 ]
+sequence
+----------------------VPRNFVVDYYE-TSS-LCSQPAVVFQTKR-SKQVCADPSESWVQEYVY
+DLE--------*
+>P1;gi|30408026|gb|AAP30042.1| CC chemokine ligand 2 [Peromyscus man... [ score 68 E 5e-11 ] [ range 1 .. 39 ]
+sequence
+---------------------------------ITSS-KCPREAVIFITKL-KREICADPKQEWVQTYTR
+KLDQ-------*
+>P1;gi|4506833|ref|NP_002972.1| small inducible cytokine A1 precurso... [ score 68 E 7e-11 ] [ range 33 .. 96 ]
+sequence
+-------------CCFSFAEQEIPLRAILCY-RNTSS-ICSNEGLIFKLKR-GKEACALDTVGWVQRHRK
+MLRHCPSKRK-*
+>P1;gi|1531981|emb|CAA99998.1| CC-chemokine [Homo sapiens] [ score 67 E 1e-10 ] [ range 24 .. 61 ]
+sequence
+-----GPASVPTTCCFNLANRKIPLQRLESYRSITSG-KCPQKA--------------------------
+-----------*
+>P1;gi|6755422|ref|NP_036018.1| chemokine (C-C motif) ligand 19; sma... [ score 67 E 1e-10 ] [ range 25 .. 98 ]
+sequence
+-----GGANDAEDCCLSVTQRPIPGNIVKAFRYLNED-GCRVPAVVFTTLR-GYQLCAPPDQPWVDRIIR
+RLKKSSAKNK-*
+>P1;gi|7330003|gb|AAF59992.1| vMIP [Macaca mulatta rhadinovirus 26-95] [ score 66 E 2e-10 ] [ range 28 .. 97 ]
+sequence
+-----GPA--PELCCLGYVTHLPPPGLVVSY-SHTSS-QCSVDAVILNTRR-GKKLCANPGDDAVKKLLQ
+AVDKRSKKGK-*
+>P1;gi|6677883|ref|NP_033165.1| chemokine (C-C motif) ligand 6; smal... [ score 65 E 3e-10 ] [ range 42 .. 106 ]
+sequence
+-----GFQDTSSDCCFSYATQ-IPCKRFI-YYFPTSG-GCIKPGIIFISRR-GTQVCADPSDRRVQRCLS
+TLKQ-------*
+>P1;gi|22538804|ref|NP_002981.2| small inducible cytokine A22 precur... [ score 65 E 3e-10 ] [ range 34 .. 93 ]
+sequence
+-----------SVCCRDYVRYRLPLRVVKH-FYWTSD-SCPRPGVVLLTFR-DKEICADPRVPWVKMILN
+KLSQ-------*
+>P1;gi|27691138|ref|XP_213553.1| similar to Small inducible cytokine... [ score 64 E 7e-10 ] [ range 48 .. 104 ]
+sequence
+-----------SDCCFSYASQ-IPCSRFI-YYFPTSG-GCTKPGIIFVTRK-RKRVCANPSDQRVQTCIS
+TL---------*
+>P1;gi|34867167|ref|XP_342825.1| similar to EBI-1 ligand chemokine [... [ score 63 E 2e-09 ] [ range 25 .. 90 ]
+sequence
+-----GGANDAEDCCLSVTQRPIPGNIVKAFRYLLIQ-DCRVPAVVFTTLR-GYQLCAPLDQPWVERIIR
+RL---------*
+>P1;gi|5911367|gb|AAD55764.1| macrophage-derived chemokine [Rattus n... [ score 62 E 2e-09 ] [ range 25 .. 80 ]
+sequence
+-------------CCQDYIRHPLPPRFVKE-FYWTSK-SCRKPGVVLITIK-NRDICADPRMLWVKKILH
+KL---------*
+>P1;gi|25987914|gb|AAN76079.1| chemokine CCL21/6CKINE [Macaca mulatta] [ score 62 E 3e-09 ] [ range 23 .. 99 ]
+sequence
+-----GSDGGAQDCCLKYSQRKIPAKVVRSYRKQEPS-LCSIPAILFLPRK-QAELCADPKELWVQQLMQ
+HLD-KTPTPKP*
+>P1;gi|6677879|ref|NP_033163.1| chemokine (C-C motif) ligand 22; sma... [ score 62 E 3e-09 ] [ range 36 .. 91 ]
+sequence
+-------------CCQDYIRHPLPSRLVKE-FFWTSK-SCRKPGVVLITVK-NRDICADPRQVWVKKLLH
+KL---------*
+>P1;gi|25987910|gb|AAN76077.1| chemokine CCL19/MIP-3BETA [Macaca mul... [ score 61 E 6e-09 ] [ range 24 .. 94 ]
+sequence
+--------NDAEDCCLSVTQKPIPGYIVRNFRYLLIK-DCRVPAVVFTTLR-GRQLCAPPDQSWVERIIQ
+RLQRTSTKMK-*
+>P1;gi|5454040|ref|NP_006265.1| small inducible cytokine A19 precurs... [ score 60 E 9e-09 ] [ range 24 .. 94 ]
+sequence
+--------NDAEDCCLSVTQKPIPGYIVRNFHYLLIK-DCRVPAVVFTTLR-GRQLCAPPDQPWVERIIQ
+RLQRTSAKMK-*
+>P1;gi|45383285|ref|NP_989769.1| maacrophage inflammatory protein 3a... [ score 60 E 1e-08 ] [ range 34 .. 94 ]
+sequence
+-------------CCLSYSKVRLPRKVIKGFTEQLSG-ECDIDAIIFHTVR-GLKACVNPKEDWVKKHLL
+FLSQK------*
+>P1;gi|4506835|ref|NP_002980.1| small inducible cytokine A21 precurs... [ score 60 E 2e-08 ] [ range 23 .. 97 ]
+sequence
+-----GSDGGAQDCCLKYSQRKIPAKVVRSYRKQEPS-LCSIPAILFLPRK-QAELCADPKELWVQQLMQ
+HLD-KTPSPQ-*
+>P1;gi|27802635|gb|AAO21207.1| small inducible cytokine SCYA105 [Par... [ score 59 E 2e-08 ] [ range 27 .. 89 ]
+sequence
+-------------CCLKYVRKPAAQKHAVKYRQMTDG-GCNIPAVIFTMRK-GRIICTDPNETWVKDLMK
+KIDER------*
+>P1;gi|14547895|ref|NP_075539.1| chemokine (C-C motif) ligand 21c (s... [ score 59 E 3e-08 ] [ range 23 .. 92 ]
+sequence
+-----GSDGGGQDCCLKYSQKKIPYSIVRGYRKQEPS-LCPIPAILFLPRK-HSELCANPEEGWVQNLMR
+RLDQ-------*
+>P1;gi|25987912|gb|AAN76078.1| chemokine CCL20/MIP-3ALPHA [Macaca mu... [ score 58 E 6e-08 ] [ range 32 .. 92 ]
+sequence
+-------------CCLRYTDRILHPKFIVGFQQLANE-TCDINAVVFHTKK-GLSVCANPKQTWVKLIVR
+RLSKK------*
+>P1;gi|6689838|gb|AAF23864.1| chemokine CK-1 [Oncorhynchus mykiss] [ score 57 E 8e-08 ] [ range 21 .. 97 ]
+sequence
+---------IPTTCCLKFTRRPVHCRWLKGYTFITSS--CDLNAVIFQNLR-NKFVCADPSQDWVQRYLR
+KRQEKKSQLK-*
+>P1;gi|34867169|ref|XP_216379.2| similar to TCA4 [Rattus norvegicus] [ score 57 E 9e-08 ] [ range 23 .. 92 ]
+sequence
+-----GSDGGGQDCCLRYSQKKIPYNIVRGYRKQEPS-LCPIPAILFAPRK-QSQLCANPEEAWVQKLMR
+RLDQ-------*
+>P1;gi|6755424|ref|NP_035459.1| chemokine (C-C motif) ligand 1; smal... [ score 57 E 1e-07 ] [ range 28 .. 89 ]
+sequence
+--------TVSNSCCLNTLKKELPLKFIQCYRKMGSS-CPDPPAVVFRLNK-GRESCASTNKTWVQNHLK
+KV---------*
+>P1;gi|27802627|gb|AAO21203.1| small inducible cytokine SCYA102 [Mel... [ score 56 E 2e-07 ] [ range 27 .. 86 ]
+sequence
+-------------CCLGYVREIKKKRNLVSYTQETDG-DCNIRAVLFKWKK-REQVCANPNDHWVQKEMR
+RLD--------*
+>P1;gi|6689832|gb|AAF23861.1| chemokine CK-1 [Oncorhynchus kisutch] [ score 56 E 3e-07 ] [ range 21 .. 97 ]
+sequence
+---------IPTTCCLKFTQHPVHCRWLKGYTFITSS--CDLNAVIFQNRR-NKFVCADPSQDWVQRCLR
+KRQEKKSQLK-*
+>P1;gi|4759076|ref|NP_004582.1| chemokine (C-C motif) ligand 20; exo... [ score 55 E 4e-07 ] [ range 32 .. 92 ]
+sequence
+-------------CCLGYTDRILHPKFIVGFTRLANE-GCDINAIIFHTKK-KLSVCANPKQTWVKYIVR
+LLSKK------*
+>P1;gi|27806273|ref|NP_776688.1| chemokine (C-C motif) ligand 20 [Bo... [ score 53 E 1e-06 ] [ range 32 .. 92 ]
+sequence
+-------------CCLRYTERILHPSILVGFQQLANE-ACDINAVVFYTRK-KLAVCADPKKKWVKQVVH
+MLSQR------*
+>P1;gi|27802631|gb|AAO21205.1| small inducible cytokine SCYA103 [Par... [ score 52 E 2e-06 ] [ range 27 .. 90 ]
+sequence
+-------------CCLGYAKEIRRKANIISYTKQESG-DCNIKAILFTMKR-AKPVCANPNDEWVKQEMG
+RLDKKQQ----*
+>P1;gi|6689828|gb|AAF23860.1| chemokine CK-1 [Oncorhynchus mykiss] [ score 52 E 3e-06 ] [ range 21 .. 90 ]
+sequence
+---------IPTTCCLKFTRRPVHCRWLKGYTFITSS--CDLNAVIFQNLR-NKFVCADPSQDWTKRVQR
+CLRKRQ-----*
+>P1;gi|25987918|gb|AAN76081.1| chemokine CCL25/TECK [Macaca mulatta] [ score 51 E 5e-06 ] [ range 28 .. 95 ]
+sequence
+-----------EDCCLAY-HYPIGWAVLRTYRQEVSG-SCNLPAAIFLPKR-HRKVCGNPKNKEVQRAMK
+LLDARNK----*
+>P1;gi|28849935|ref|NP_776724.1| chemokine (C-X-C motif) ligand 2; G... [ score 109 E 2e-23 ] [ range 37 .. 98 ]
+sequence
+----------LRCQCLQTLQ-GIHLKNIQSVKVTTPGPHCDQTEVIATLKT-GQEVCLNPAAPMVKKIID
+KMLN-------*
+>P1;gi|33945321|emb|CAD13189.1| CXC chemokine a [Cyprinus carpio] [ score 85 E 3e-16 ] [ range 31 .. 93 ]
+sequence
+-----------RCRCIETES-QRIGKLIESVELFPPSPHCKDTEIIATLKS-RKEICLDPIAPWVKKVIE
+KIIAN------*
+>P1;gi|27436685|gb|AAO13461.1| vIL-8 [Gallid herpesvirus 1] [ score 82 E 4e-15 ] [ range 33 .. 92 ]
+sequence
+-----------RCECVKVTT-GLGP--IIAVDVIPPGIHCRRTEIIFALKK-NRKVCVDPEAPWVRQFIK
+KL---------*
+>P1;gi|20270901|gb|AAM18467.1| VHSV-induced protein-8 [Oncorhynchus ... [ score 67 E 8e-11 ] [ range 32 .. 95 ]
+sequence
+-----------RCLCLNLVN-RVKPLHIEKLEVYTSSNSCRNMEIIVTLKN-GKKKCLNPEAPFAKKTIE
+KIMKN------*
+>P1;gi|40644207|emb|CAD01141.1| gamma-IP CXCL10-like chemokine [Onco... [ score 65 E 4e-10 ] [ range 32 .. 95 ]
+sequence
+-----------RCLCLNLVN-RVKPLHIEKLEVYTSSHSCRNMEIIVTLRN-GEKKCLNPEAPFAKKTIE
+KIMKN------*
+>P1;gi|20270899|gb|AAM18466.1| VHSV-induced protein-7 [Oncorhynchus ... [ score 63 E 1e-09 ] [ range 32 .. 94 ]
+sequence
+-----------RCQCQNLVN-RVKPLHIEKLEVYTSSHSCRNMEIIVTLKN-GEEKCLNPEAPFAKKTIE
+KIMK-------*
+>P1;gi|15822533|gb|AAG16634.1| B lymphocyte chemoattractant [Mesocri... [ score 55 E 3e-07 ] [ range 30 .. 92 ]
+sequence
+----------LKCRCSGMVS-GIHPSFIEQIQVRYRGNGCPKDEVLISTKN-KKIVCVNPQAKWLQ-IVL
+KLLRS------*
+>P1;gi|24209773|gb|AAN41454.1| interleukin-8 variant 2 [Ictalurus pu... [ score 53 E 1e-06 ] [ range 34 .. 90 ]
+sequence
+-----------RCFCQKALE-KVRPALVKKFEVFPPSASCSNTEIILSLKQ-GMKVCLDPEGNQGQKVL-
+-----------*
+>P1;gi|17385429|emb|CAC83075.1| putative CXC chemokine [Oncorhynchus... [ score 45 E 4e-04 ] [ range 32 .. 72 ]
+sequence
+-----------RCQCLNLVN-RVKPLHIEKLEVYTSSNSCRNMEIIVTLKN-G-----------------
+-----------*
+>P1;gi|10442776|gb|AAG16300.1| interferon-inducible protein 10 [Meso... [ score 45 E 6e-04 ] [ range 29 .. 87 ]
+sequence
+-----------RCSCIKIDR-PVKPRALGKLEIIPASQSCPRVEIIVTMKT-EEKRCLNPESEAIKSLLK
+-----------*
+>P1;gi|30038310|gb|AAP06946.1| Meq/vIL8 [Gallid herpesvirus 2] [ score 45 E 7e-04 ] [ range 111 .. 148 ]
+sequence
+-----------RCKCVKVTT-GLGP--IIAVDVIPPGIHCRRTEIMFSL---------------------
+-----------*
+>P1;gi|4505735|ref|NP_002611.1| platelet factor 4 variant 1; Platele... [ score 102 E 2e-21 ] [ range 41 .. 104 ]
+sequence
+---------DLQCLCVKTTS-QVRPRHITSLEVIKAGPHCPTAQLIATLKN-GRKICLDLQALLYKKIIK
+EHLES------*
+>P1;gi|34810165|pdb|1F9R|A Chain A, Crystal Structure Of Platelet Fa... [ score 102 E 3e-21 ] [ range 7 .. 70 ]
+sequence
+---------DLQCLCVKTTS-QVRPRHITSLEVIKAGPHCAVPQLIATLKN-GRKICLDLQAPLYKKIIK
+KLLES------*
+>P1;gi|27436685|gb|AAO13461.1| vIL-8 [Gallid herpesvirus 1] [ score 82 E 3e-15 ] [ range 31 .. 92 ]
+sequence
+---------DKRCECVKVTN-RPTGLGIIAVDVIPPGIHCRRTEIIFALKK-NRKVCVDPEAPWVRQFIK
+KL---------*
+>P1;gi|16304137|gb|AAL16935.1| interferon gamma inducible protein 10... [ score 51 E 9e-06 ] [ range 29 .. 89 ]
+sequence
+-----------RCFCNKTED-RLRPRALEKLEIIPASLSCPRMEIIATMKK-TKKRCLNPESAAIKNLLK
+EI---------*
+>P1;gi|30038310|gb|AAP06946.1| Meq/vIL8 [Gallid herpesvirus 2] [ score 45 E 3e-04 ] [ range 109 .. 148 ]
+sequence
+---------DKRCKCVKVTN-RPTGLGIIAVDVIPPGIHCRRTEIMFSL---------------------
+-----------*
+>P1;gi|34876597|ref|XP_344223.1| similar to interferon-inducible T-c... [ score 45 E 4e-04 ] [ range 29 .. 87 ]
+sequence
+-----------RCLCIRGVK-VVKMAAIKEVSVIYPSNGCDKVEVIVTLKK-GQR-CLDPTSKQARLIMQ
+-----------*
+>P1;gi|33636734|ref|NP_891997.1| chemokine (C-X-C motif) ligand 11 [... [ score 45 E 5e-04 ] [ range 29 .. 91 ]
+sequence
+-----------RCLCIRGVK-VVKMAAIKEVSVIYPSNGCDKVEVIVTLKK-GQR-CLDPQARLIMQTIQ
+K----------*
+>P1;gi|10442776|gb|AAG16300.1| interferon-inducible protein 10 [Meso... [ score 51 E 5e-06 ] [ range 29 .. 87 ]
+sequence
+-----------RCSCIKIDD-RVKPRALGKLEIIPASQSCPRVEIIVTMKK-TEKRCLNPESEAIKSLLK
+-----------*
+>P1;gi|33636734|ref|NP_891997.1| chemokine (C-X-C motif) ligand 11 [... [ score 46 E 2e-04 ] [ range 29 .. 91 ]
+sequence
+-----------RCLCIRGVK-VVKMAAIKEVSVIYPSNGCDKVEVIVTLKA-HKQRCLDPQARLIMQTIQ
+K----------*
+>P1;gi|27477072|ref|NP_066286.1| chemokine (C-C motif) ligand 3-like... [ score 44 E 7e-04 ] [ range 35 .. 86 ]
+sequence
+--------------CFSYTS-RQIPQNFIA-DYFETSSQCSKPSVIFLTKR-GRQVCADPSEEWVQKYV-
+-----------*
+>P1;gi|16755055|gb|AAL26705.1| macrophage inflammatory protein-2 [Si... [ score 125 E 3e-28 ] [ range 29 .. 101 ]
+sequence
+----AVLATELRCQCVKTLQ-RIDFKTIQSLKVTPPGPHCTQTEVIATLKN-GQDVCLNPEAPLVQKIIQ
+KILNKGKA--N*
+>P1;gi|25987924|gb|AAN76084.1| chemokine CXCL1/GRO-ALPHA [Macaca mul... [ score 124 E 4e-28 ] [ range 35 .. 107 ]
+sequence
+----ASVVTELRCQCLQTLQ-GIHPKNIQSVNVKAPGPHCAETEVIATLKN-GQKACLNPASPMVQKIIK
+KMLNCDKS--N*
+>P1;gi|13540652|ref|NP_110472.1| gro; cytokine-induced neutrophil ch... [ score 123 E 8e-28 ] [ range 25 .. 93 ]
+sequence
+----APVANELRCQCLQTVA-GIHFKNIQSLKVMPPGPHCTQTEVIATLKN-GREACLDPEAPMVQKIVQ
+KMLKG------*
+>P1;gi|4504155|ref|NP_002080.1| chemokine (C-X-C motif) ligand 2; GR... [ score 122 E 1e-27 ] [ range 35 .. 107 ]
+sequence
+----APLATELRCQCLQTLQ-GIHLKNIQSVKVKSPGPHCAQTEVIATLKN-GQKACLNPASPMVKKIIE
+KMLKNGKS--N*
+>P1;gi|25987926|gb|AAN76085.1| chemokine CXCL3/GRO-GAMMA [Macaca mul... [ score 122 E 2e-27 ] [ range 35 .. 107 ]
+sequence
+----APVATELRCQCLQTLQ-GIHPKNIQSVIVKAPGPHCAETEVIATLKN-GQKACLNPASPMVQKIIE
+KILNKGST--N*
+>P1;gi|4504157|ref|NP_002081.1| chemokine (C-X-C motif) ligand 3; GR... [ score 122 E 2e-27 ] [ range 34 .. 106 ]
+sequence
+----ASVVTELRCQCLQTLQ-GIHLKNIQSVNVRSPGPHCAQTEVIATLKN-GKKACLNPASPMVQKIIE
+KILNKGST--N*
+>P1;gi|121621|sp|P09340|GRO_CRIGR Growth regulated protein precursor... [ score 122 E 2e-27 ] [ range 29 .. 98 ]
+sequence
+----APVANELRCQCLQTMT-GVHLKNIQSLKVTPPGPHCTQTEVIATLKN-GQEACLNPEAPMVQKIVQ
+KMLKSG-----*
+>P1;gi|16304135|gb|AAL16934.1| growth-regulated protein precursor [S... [ score 122 E 3e-27 ] [ range 28 .. 99 ]
+sequence
+----APVANELRCQCLQTMA-GVHFKNIQSLKVTPPGPHCTQTEVIATLKN-GQEACLNPEAPMVQKIVQ
+KMLKTGIS---*
+>P1;gi|27805833|ref|NP_776725.1| chemokine (C-X-C motif) ligand 6 (g... [ score 122 E 3e-27 ] [ range 40 .. 112 ]
+sequence
+----AAVVRELRCVCLTTTP-GIHPKTVSDLQVIAAGPQCSKVEVIATLKN-GREVCLDPEAPLIKKIVQ
+KILDSGKN--N*
+>P1;gi|28849923|ref|NP_783631.1| chemokine (C-X-C motif) ligand 1; G... [ score 121 E 5e-27 ] [ range 32 .. 104 ]
+sequence
+----APVVNELRCQCLQTLQ-GIHLKNIQSVKVTTPGPHCDQTEVIASLKT-GQEVCLNPTAPMVKKIID
+KMLNKASA--N*
+>P1;gi|6685476|sp|O46678|GRO_SHEEP Growth regulated protein precurso... [ score 120 E 7e-27 ] [ range 31 .. 103 ]
+sequence
+----APVVNELRCQCLQTVQ-GIHLKNMQSVKVTPPGPHCGQTEVIATLKT-GQEVCLNPAAPMVKKIID
+KMLNQASS--N*
+>P1;gi|399030|sp|P22952|AMC2_PIG Alveolar macrophage chemotactic fac... [ score 120 E 1e-26 ] [ range 44 .. 114 ]
+sequence
+----AAVVRELRCMCLTTTP-GIHPKMISDLQVIPAGPQCSKAEVIATLKN-GKEVCLDPKAPLIKKIVQ
+KMLDSGK----*
+>P1;gi|3913787|sp|O55235|GRO_CAVPO Growth regulated protein precurso... [ score 118 E 4e-26 ] [ range 32 .. 103 ]
+sequence
+----APAASELRCRCLRPVR-GLHPKNIQSVAVTAPGPHCHQTEVLATLKD-GREACLDPEAPMVQKVLQ
+RMLKGSKA---*
+>P1;gi|6680109|ref|NP_032202.1| chemokine (C-X-C motif) ligand 1; GR... [ score 117 E 5e-26 ] [ range 25 .. 93 ]
+sequence
+----APIANELRCQCLQTMA-GIHLKNIQSLKVLPSGPHCTQTEVIATLKN-GREACLDPEAPLVQKIVQ
+KMLKG------*
+>P1;gi|2735487|gb|AAB93924.1| GRO [Oryctolagus cuniculus] [ score 117 E 7e-26 ] [ range 36 .. 108 ]
+sequence
+----AAALTELRCQCLQTVQ-GIHLKSIQSLKVLSPGPHCAQTEVIATLKS-GQEACLNPAAPMVKKFLQ
+KRLSKGSS--N*
+>P1;gi|45384324|ref|NP_990349.1| K60 protein [Gallus gallus] >gi|317... [ score 115 E 2e-25 ] [ range 26 .. 99 ]
+sequence
+----ARSAIELRCQCIETHS-KIHPKFIQNVNLTPSGPHCKNVEVIATLKD-GREVCLDPTAPWVKLIIK
+AILDKADT--N*
+>P1;gi|30583793|gb|AAP36145.1| Homo sapiens chemokine (C-X-C motif) ... [ score 114 E 6e-25 ] [ range 41 .. 110 ]
+sequence
+----AAVLRELRCVCLQTTQ-GVHPKMISNLQVFAIGPQCSKVEVVASLKN-GKEICLDPEAPFLKKVIQ
+KILDGG-----*
+>P1;gi|28516362|ref|XP_284097.1| similar to Macrophage inflammatory ... [ score 112 E 2e-24 ] [ range 28 .. 100 ]
+sequence
+----AVVASELRCQCLNTLP-RVDFETIQSLTVTPPGPHCTQTEVIATLKD-GQEVCLNPQGPRLQIIIK
+KILKSGKS--S*
+>P1;gi|1172445|sp|P43030|SZ07_PIG Platelet basic protein precursor (... [ score 110 E 6e-24 ] [ range 50 .. 117 ]
+sequence
+--------VELRCLCLNTVS-GIHPSNIQSLEVIRAGAHCAKVEVIATLKN-DKKICLDPEAPRIKKIVQ
+KIMEDGGS---*
+>P1;gi|309960|gb|AAA64357.1| cytokine >gi|1093625|prf||2104292A GRO ... [ score 110 E 1e-23 ] [ range 1 .. 72 ]
+sequence
+-----PALTELRCQCLQTVQ-GIHLKNIQNLKVLSPGPHCAQTEVIATLKS-GQEACRNPAAPMVKKFLQ
+KRLSNGNS--S*
+>P1;gi|2119661|pir||I50417 RSV-induced protein - chicken >gi|212644|... [ score 109 E 2e-23 ] [ range 27 .. 98 ]
+sequence
+------MGNELRCQCISTHS-KIHPKSIQDVKLTPSGPHCKNVEIIATLKD-GREVCLDPTAPWVQLIVK
+ALMAKAQL--N*
+>P1;gi|21747887|gb|AAM76679.1| granulocyte chemotactic protein 2 [Eq... [ score 107 E 7e-23 ] [ range 40 .. 109 ]
+sequence
+----AAAVRELRCMCLTVTP-GIHPKMISSLQVFAVGPQCSKVEVVPTLKN-KKEVCLDPEAPLIKKFIQ
+KTLDSG-----*
+>P1;gi|729837|sp|P41324|IL8_CANFA Interleukin-8 precursor (IL-8) (CX... [ score 107 E 1e-22 ] [ range 26 .. 97 ]
+sequence
+----SRVSSELRCQCIKTHS-TFHPKYIKELRVIDSGPHCENSEIIVKLFN-GNEVCLDPKEKWVQKVVQ
+IFLKKAE----*
+>P1;gi|124361|sp|P19874|IL8_RABIT Interleukin-8 precursor (IL-8) (CX... [ score 106 E 1e-22 ] [ range 27 .. 97 ]
+sequence
+-----RIGTELRCQCIKTHS-TFHPKFIKELRVIESGPHCANSEIIVKLVD-GRELCLDPKEKWVQKVVQ
+IFLKRAE----*
+>P1;gi|24308468|ref|NP_714943.1| pro-platelet basic protein; neutrop... [ score 105 E 3e-22 ] [ range 47 .. 110 ]
+sequence
+---------ELRCRCTNTLS-GIPLNSISRVNVFRPGAHCDNVEVIATLKN-GKEVCLDPTAPMIKKIVK
+KILEG------*
+>P1;gi|547721|sp|P36925|IL8_SHEEP Interleukin-8 precursor (IL-8) (CX... [ score 104 E 5e-22 ] [ range 26 .. 97 ]
+sequence
+----SRMSTELRCQCIKTHS-TFHPKFIKELRVIESGPHCENSEIIVKLTN-GKEVCLDPKEKWVQKVVQ
+AFLKRAE----*
+>P1;gi|6677887|ref|NP_033167.1| chemokine (C-X-C motif) ligand 5; sm... [ score 103 E 8e-22 ] [ range 48 .. 115 ]
+sequence
+-------ATELRCVCLTVTP-KINPKLIANLEVIPAGPQCPTVEVIAKLKN-QKEVCLDPEAPVIKKIIQ
+KILGSDK----*
+>P1;gi|30584519|gb|AAP36512.1| Homo sapiens chemokine (C-X-C motif) ... [ score 103 E 1e-21 ] [ range 41 .. 110 ]
+sequence
+----SAVLTELRCTCLRVTL-RVNPKTIGKLQVFPAGPQCSKVEVVASLKN-GKQVCLDPEAPFLKKVIQ
+KILDSG-----*
+>P1;gi|516197|emb|CAA43461.1| interleukin-8 [Sus scrofa] [ score 102 E 2e-21 ] [ range 26 .. 98 ]
+sequence
+----ARVSAELRCQCINTHS-TFHPKFIKELRVIESGPHCENSEIIVKLVN-GKEVCLDPKEKWVKKVVQ
+IFLKRTE----*
+>P1;gi|31087926|gb|AAO25640.1| interleukin-8 [Oncorhynchus mykiss] >... [ score 100 E 9e-21 ] [ range 28 .. 97 ]
+sequence
+------MGADLRCRCIETES-RRIGKLIKKVEMFPPSSHCRDTEIIATLKS-GQEICLDVSAPWVKKVIE
+KMLANNK----*
+>P1;gi|12963823|ref|NP_076274.1| pro-platelet basic protein [Mus mus... [ score 100 E 1e-20 ] [ range 49 .. 112 ]
+sequence
+---------ELRCRCTNTIS-GIPFNSISLVNVYRPGVHCADVEVIATLKN-GQKTCLDPNAPGVKRIVM
+KILEG------*
+>P1;gi|11559996|ref|NP_071550.1| CXC chemokine LIX [Rattus norvegicu... [ score 99 E 2e-20 ] [ range 42 .. 112 ]
+sequence
+----AMVATELRCVCLTLAP-RINPKMIANLEVIPAGPHCPKVEVIAKLKN-QKDVCLDPQAPLIKKVIQ
+KILGSE-----*
+>P1;gi|20177915|sp|Q9XSX5|IL8_FELCA Interleukin-8 precursor (IL-8) (... [ score 99 E 2e-20 ] [ range 26 .. 97 ]
+sequence
+----SRISSELRCQCIKTHS-TFNPKLIKELTVIDSGPHCENSEIIVKLVN-GKEVCLDPKQKWVQKVVE
+IFLKKAE----*
+>P1;gi|33411625|dbj|BAC81421.1| interlukin-8 [Tursiops truncatus] [ score 98 E 4e-20 ] [ range 26 .. 97 ]
+sequence
+----SRMTSELRCQCINIHS-TFHPKFIRELRVIESGPHCENSEIIVKLVN-GKEVCLNPKEKWVQKVVQ
+IFLKRAE----*
+>P1;gi|32400198|emb|CAD79351.1| CXC chemokine a protein [Cyprinus ca... [ score 97 E 1e-19 ] [ range 26 .. 93 ]
+sequence
+------LGVDPRCRCIETES-QRIGKLIESVELFPPSPHCKDTEIIATLKV-SREICLDPTAPWVKKVIE
+KIIAN------*
+>P1;gi|6685544|sp|O62812|IL8_HORSE Interleukin-8 precursor (IL-8) (C... [ score 95 E 2e-19 ] [ range 26 .. 97 ]
+sequence
+----SRITAELRCQCIKTHS-KFNPKLIKEMRVIESGPHCENSEIIVKLVN-GAEVCLNPHTKWVQIIVQ
+AFLKRTE----*
+>P1;gi|27227823|dbj|BAC45008.1| interleukin-8 [Chimaera phantasma] [ score 95 E 4e-19 ] [ range 25 .. 90 ]
+sequence
+----------LQCQCMKTTN-FIHPKFIDEINIFPNGPHCPQTAIIATLKS-SEKVCLNPDAAWVRKIIN
+RIIEESK----*
+>P1;gi|3033533|gb|AAC97075.1| melanoma growth stimulatory activity h... [ score 95 E 5e-19 ] [ range 1 .. 59 ]
+sequence
+------------------VQ-GIHLKNIQSVKVTPAGSHCAQTEVIATLKN-GQETCLNPEAPMVKKMIE
+KMLKKGSA--N*
+>P1;gi|1352456|sp|P49113|IL8_CAVPO Interleukin-8 precursor (IL-8) (C... [ score 94 E 7e-19 ] [ range 28 .. 98 ]
+sequence
+------LVSELRCQCIKITT-PFHPKFIKELKVIESGPRCANSEIIVKLSD-NRQLCLDPKKKWVQDVVS
+MFLKRTES---*
+>P1;gi|9635092|ref|NP_057742.1| VIL-8 [Gallid herpesvirus 2] >gi|963... [ score 85 E 4e-16 ] [ range 27 .. 92 ]
+sequence
+-----SLAVDKRCKCVKVTN-RPGLGPIIAVDVIPPGIHCRRTEIIFALKK-NRKVCVDPEAPWVQQFIK
+KL---------*
+>P1;gi|27436685|gb|AAO13461.1| vIL-8 [Gallid herpesvirus 1] [ score 85 E 4e-16 ] [ range 27 .. 92 ]
+sequence
+-----SLAVDKRCECVKVTN-RPGLGPIIAVDVIPPGIHCRRTEIIFALKK-NRKVCVDPEAPWVRQFIK
+KL---------*
+>P1;gi|20270901|gb|AAM18467.1| VHSV-induced protein-8 [Oncorhynchus ... [ score 82 E 4e-15 ] [ range 29 .. 98 ]
+sequence
+--------SKARCLCLNGLN-RVKPLHIEKLEVYTSSNSCRNMEIIVTLKN-GKKKCLNPEAPFAKKTIE
+KIMKNRRS---*
+>P1;gi|20270899|gb|AAM18466.1| VHSV-induced protein-7 [Oncorhynchus ... [ score 82 E 4e-15 ] [ range 29 .. 98 ]
+sequence
+--------SKARCQCQNGLN-RVKPLHIEKLEVYTSSHSCRNMEIIVTLKN-GEEKCLNPEAPFAKKTIE
+KIMKKQRS---*
+>P1;gi|40644207|emb|CAD01141.1| gamma-IP CXCL10-like chemokine [Onco... [ score 81 E 7e-15 ] [ range 29 .. 98 ]
+sequence
+--------SKARCLCLNGLN-RVKPLHIEKLEVYTSSHSCRNMEIIVTLRN-GEKKCLNPEAPFAKKTIE
+KIMKNRRS---*
+>P1;gi|21693603|gb|AAK95954.1| interferon-gamma induced monokine CXC... [ score 80 E 9e-15 ] [ range 24 .. 88 ]
+sequence
+-----PVMRKGRCSCINTNQ-GIHLQSLKDLKQFAPNLSCEKTEIIATLKN-GDQTCLNPDSADVKELIK
+K----------*
+>P1;gi|34576177|gb|AAQ75581.1| chemokine ligand 2 [Sus scrofa] [ score 80 E 1e-14 ] [ range 46 .. 89 ]
+sequence
+----APVGGELRCQCLQTVQ-GIHLKNIQNLKVTPPGPHCDQTEVLATL---------------------
+-----------*
+>P1;gi|4505187|ref|NP_002407.1| small inducible cytokine B9 precurso... [ score 80 E 1e-14 ] [ range 24 .. 88 ]
+sequence
+-----PVVRKGRCSCISTNQ-GIHLQSLKDLKQFAPSPSCEKIEIIATLKN-GVQTCLNPDSADVKELIK
+K----------*
+>P1;gi|6755436|ref|NP_035469.1| chemokine (C-X-C motif) ligand 15; s... [ score 69 E 4e-11 ] [ range 27 .. 91 ]
+sequence
+---------ELRCLCIQEHS-EFIPKLIKNIMVIFETIYCNRKEVIAVPKN-GSMICLDPDAPWVKATVG
+PITNR------*
+>P1;gi|25987930|gb|AAN76087.1| chemokine CXCL13/BCA-1 [Macaca mulatta] [ score 60 E 9e-09 ] [ range 31 .. 97 ]
+sequence
+----------LRCRCVQESS-VFIPRFIDRIQISPRGNGCPRKEIIVWKKN-KSVVCVDPQAEWIQRIME
+MLRKKSSS---*
+>P1;gi|423690|pir||S33290 lipopolysaccharide-induced neutrophil chem... [ score 60 E 2e-08 ] [ range 1 .. 40 ]
+sequence
+--------RELRAQALKTLP-RVDFENIQSLTVTPPGPHATQTEVIAAL---------------------
+-----------*
+>P1;gi|5453577|ref|NP_006410.1| chemokine (C-X-C motif) ligand 13 (B... [ score 60 E 2e-08 ] [ range 29 .. 97 ]
+sequence
+--------TSLRCRCVQESS-VFIPRFIDRIQILPRGNGCPRKEIIVWKKN-KSIVCVDPQAEWIQRMME
+VLRKRSSS---*
+>P1;gi|20806125|ref|NP_620789.1| small inducible cytokine B subfamil... [ score 55 E 3e-07 ] [ range 23 .. 87 ]
+sequence
+-----PLARTVRCTCIDFHQ-TLRPRAIGKLEIIPASLSCPHVEIIATMKN-NEKRCLNPESEAIKSLLK
+-----------*
+>P1;gi|19912841|dbj|BAB88677.1| CXC chemokine [Cyprinus carpio] [ score 54 E 6e-07 ] [ range 28 .. 91 ]
+sequence
+-----------RCFCVKGVN-MVPPKQIEKVEIIPASRSCKTQEIVVTLKN-STEKCLNPESKFTQKYIM
+KAVEK------*
+>P1;gi|9256521|ref|NP_061354.1| chemokine (C-X-C motif) ligand 13; B... [ score 52 E 4e-06 ] [ range 28 .. 97 ]
+sequence
+--------TNLKCRCSGVIS-TVVGLNIIDIQVTPPGNGCPKTEVVIWTKM-KKVICVNPRAKWLQRLLR
+HVQSKSLS--S*
+>P1;gi|10442776|gb|AAG16300.1| interferon-inducible protein 10 [Meso... [ score 50 E 1e-05 ] [ range 23 .. 87 ]
+sequence
+-----PLSRTVRCSCIKIDD-RVKPRALGKLEIIPASQSCPRVEIIVTMKK-TEEKCLNPESEAIKSLLK
+-----------*
+>P1;gi|34876597|ref|XP_344223.1| similar to interferon-inducible T-c... [ score 48 E 5e-05 ] [ range 29 .. 95 ]
+sequence
+-----------RCLCIRGVK-VVKMAAIKEVSVIYPSNGCDKVEVIVTLKA-HKQRCLDPTSKQARLIMQ
+VGFETTRS---*
+>P1;gi|30038310|gb|AAP06946.1| Meq/vIL8 [Gallid herpesvirus 2] [ score 47 E 9e-05 ] [ range 105 .. 148 ]
+sequence
+-----SLAVDKRCKCVKVTN-RPGLGPIIAVDVIPPGIHCRRTEIMFSL---------------------
+-----------*
+>P1;gi|34484332|gb|AAQ72797.1| UL147 [Human herpesvirus 5] [ score 45 E 5e-04 ] [ range 47 .. 109 ]
+sequence
+---------DKRCRCLNTL-----PVGTQLLKPIAASESCNRQEVLAILKD-KGTKCLNPNAQAVRRHIN
+RLF--------*
+>P1;gi|28386193|gb|AAH46827.1| Cxcl12 protein [Mus musculus] [ score 44 E 8e-04 ] [ range 23 .. 91 ]
+sequence
+-----PVSLSYRCPCRFFES-HIARANVKHLKIL-NTPNCA-LQIVARLKN-NRQVCIDPKLKWIQEYLE
+KALNKGR----*
+>P1;gi|16758460|ref|NP_446099.1| chemokine (C-X-C motif) ligand 2; s... [ score 121 E 4e-27 ] [ range 29 .. 100 ]
+sequence
+-----VVASELRCQCLTTLP-RVDFKNIQSLTVTPPGPHCAQTEVIATLKD-GHEVCLNPEAPLVQRIVQ
+KILNKGKA--N*
+>P1;gi|9967141|dbj|BAB12280.1| CINC-2 alpha [Rattus norvegicus] >gi|... [ score 116 E 1e-25 ] [ range 30 .. 101 ]
+sequence
+-----VVARELRCQCLKTLP-RVDFENIQSLTVTPPGPHCTQTEVIATLKD-GQEVCLNPQAPRLQKIIQ
+KLLKSDKS--S*
+>P1;gi|58271|emb|CAA31384.1| unnamed protein product [Cloning vector... [ score 108 E 4e-23 ] [ range 17 .. 84 ]
+sequence
+--------AELRCLCIKTTS-GIHPKNIQSLEVIGKGTHCNQENEIATLKD-GRKICLDPDAPRIKRIVQ
+KKLAGDES---*
+>P1;gi|15667642|gb|AAL05442.1| interleukine-8 [Paralichthys olivaceus] [ score 92 E 3e-18 ] [ range 28 .. 99 ]
+sequence
+------LGVSLHCRCIETES-RPIGRYIKSVEIISPNSHCDKTEIIATLKD-GVELCLDPEAPWVKRVIN
+KLISKRRL--S*
+>P1;gi|585702|sp|P30034|PLF4_PIG Platelet factor 4 (PF-4) (CXCL4) >g... [ score 84 E 7e-16 ] [ range 21 .. 71 ]
+sequence
+--------ANLRCVCVKTIS-GVSPKHISSLEVIGAGPHCPSPQLIATLKK-GHKICLDPQ---------
+-----------*
+>P1;gi|21728396|ref|NP_663705.1| small inducible cytokine B9 [Rattus... [ score 82 E 3e-15 ] [ range 23 .. 86 ]
+sequence
+-----LVIRNQRCSCISTSQ-GFHYKSLKDLKQFAPSPNCNKTEIIATLKN-GDQTCLDPDSARVKKLMK
+-----------*
+>P1;gi|6678880|ref|NP_032625.1| chemokine (C-X-C motif) ligand 9; mo... [ score 80 E 1e-14 ] [ range 23 .. 86 ]
+sequence
+-----LVIRNARCSCISTSR-GIHYKSLKDLKQFAPSPNCNKTEIIATLKN-GDQTCLDPDSANVKKLMK
+-----------*
+>P1;gi|33285944|gb|AAQ01586.1| chemokine [Ictalurus punctatus] [ score 55 E 6e-07 ] [ range 28 .. 94 ]
+sequence
+-----------RCLCQPAAN-GVRLQRIDKIEIHPASATCENKEIIVTLKN-GAKKCLNPESEFTKKYIT
+AALEKRSA---*
+>P1;gi|4504701|ref|NP_001556.1| interferon gamma-induced  precursor;... [ score 53 E 2e-06 ] [ range 23 .. 91 ]
+sequence
+-----PLSRTVRCTCISISN-QVNPRSLEKLEIIPASQFCPRVEIIATMKK-GEKRCLNPESKAIKNLLK
+AVSK-------*
+>P1;gi|30038310|gb|AAP06946.1| Meq/vIL8 [Gallid herpesvirus 2] [ score 50 E 1e-05 ] [ range 106 .. 148 ]
+sequence
+------LAVDKRCKCVKVTN-RTGLGPIIAVDVIPPGIHCRRTEIMFSL---------------------
+-----------*
+>P1;gi|17907349|emb|CAC82196.1| stromal-derived factor 1 [Xenopus la... [ score 47 E 1e-04 ] [ range 29 .. 89 ]
+sequence
+-----------RCPCRYFES-NVPKSNIKHLKIL-STSNCS-LQIVARLKN-GKQICLDPKTKWIQEYLE
+KALNK------*
+>P1;gi|1170542|sp|P46653|IL8_CERTO Interleukin-8 precursor (IL-8) (C... [ score 114 E 5e-25 ] [ range 28 .. 98 ]
+sequence
+------SAKELRCLCIKTYSKPFHPKFIKELRVIESGPHCVNTEIIVKLSD-GRELCLDPKEPWVQRVVE
+KFLKRAES---*
+>P1;gi|1708456|sp|P51495|IL8_MACMU Interleukin-8 precursor (IL-8) (C... [ score 112 E 2e-24 ] [ range 28 .. 97 ]
+sequence
+------SAKELRCECIKTYSKPFHPKFIKELRVIESGPHCANTEIIVKLSD-GRELCLDPKEPWVQRVVE
+KFVKRAE----*
+>P1;gi|17907787|dbj|BAB79448.1| interleukin-8 [Triakis scyllium] [ score 110 E 7e-24 ] [ range 28 .. 97 ]
+sequence
+------AGVSLRCQCIKTNSKFIHPRRMENIEIFPSGPHCSNVEIIATLKN-GTPVCLNPEAAWVKKIID
+MIIKNSE----*
+>P1;gi|1942192|pdb|1ICW|A Chain A, Interleukin-8, Mutant With Glu 38... [ score 106 E 1e-22 ] [ range 1 .. 72 ]
+sequence
+------SAKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTCIIVKLSD-GRELALDPKENWVQRVVE
+KFLKRAEN--S*
+>P1;gi|38174332|gb|AAH61111.1| Unknown (protein for MGC:74232) [Mus ... [ score 105 E 3e-22 ] [ range 41 .. 105 ]
+sequence
+---------DLSCVCVKTISSGIHLKHITSLEVIKAGRHCAVPQLIATLKN-GRKICLDRQAPLYKKVIE
+KILES------*
+>P1;gi|6677887|ref|NP_033167.1| chemokine (C-X-C motif) ligand 5; sm... [ score 105 E 3e-22 ] [ range 47 .. 115 ]
+sequence
+------AATELRCVCL-TVTPKINPKLIANLEVIPAGPQCPTVEVIAKLKN-QKEVCLDPEAPVIKKIIQ
+KILGSDK----*
+>P1;gi|27227823|dbj|BAC45008.1| interleukin-8 [Chimaera phantasma] [ score 103 E 9e-22 ] [ range 19 .. 90 ]
+sequence
+------SAQELQCQCMKTWTNFIHPKFIDEINIFPNGPHCPQTAIIATLKS-SEKVCLNPDAAWVRKIIN
+RIIEESK----*
+>P1;gi|7546433|pdb|1QE6|A Chain A, Interleukin-8 With An Added Disul... [ score 103 E 1e-21 ] [ range 1 .. 72 ]
+sequence
+------SAKECRCQCIKTYSKPFHPKFIKELRVIESGPCCANTEIIVKLSD-GRELCLDPKENWVQRVVE
+KFLKRAEN--S*
+>P1;gi|21747887|gb|AAM76679.1| granulocyte chemotactic protein 2 [Eq... [ score 102 E 2e-21 ] [ range 42 .. 110 ]
+sequence
+------AVRELRCMCL-TVTPGIHPKMISSLQVFAVGPQCSKVEVVPTLKN-KKEVCLDPEAPLIKKFIQ
+KTLDSGN----*
+>P1;gi|1310787|pdb|1PFN|A Chain A, Pf4-M2 Chimeric Mutant With The F... [ score 101 E 3e-21 ] [ range 2 .. 68 ]
+sequence
+------SAKELRCQCVKTTSQ-VRPRHITSLEVIKAGPHCPTAQLIATLKN-GRKICLDLQAPLYKKIIK
+KLLES------*
+>P1;gi|34876665|ref|XP_341193.1| similar to Platelet factor 4 precur... [ score 100 E 9e-21 ] [ range 41 .. 105 ]
+sequence
+---------DLSCVCVKTSSSRIHLKRITSLEVIKAGPHCAVPQLIATLKN-GSKICLDRQVPLYKKIIK
+KLLES------*
+>P1;gi|11559996|ref|NP_071550.1| CXC chemokine LIX [Rattus norvegicu... [ score 98 E 5e-20 ] [ range 45 .. 113 ]
+sequence
+-------ATELRCVCL-TLAPRINPKMIANLEVIPAGPHCPKVEVIAKLKN-QKDVCLDPQAPLIKKVIQ
+KILGSEN----*
+>P1;gi|31087926|gb|AAO25640.1| interleukin-8 [Oncorhynchus mykiss] >... [ score 98 E 5e-20 ] [ range 31 .. 97 ]
+sequence
+---------DLRCRCIETESRRIG-KLIKKVEMFPPSSHCRDTEIIATLKS-GQEICLDVSAPWVKKVIE
+KMLANNK----*
+>P1;gi|266800|sp|P30035|PLF4_SHEEP Platelet factor 4 (PF-4) (CXCL4) [ score 97 E 1e-19 ] [ range 21 .. 85 ]
+sequence
+--------EDLQCVCLKTTSG-IHPRHISSLEVIGAGLHCPSPQLIATLKT-GRKICLDQQNPLYKKIIK
+RLLKN------*
+>P1;gi|6755436|ref|NP_035469.1| chemokine (C-X-C motif) ligand 15; s... [ score 96 E 2e-19 ] [ range 26 .. 91 ]
+sequence
+--------QELRCLCIQEHSEFIPLKLIKNIMVIFETIYCNRKEVIAVPKN-GSMICLDPDAPWVKATVG
+PITNR------*
+>P1;gi|32400198|emb|CAD79351.1| CXC chemokine a protein [Cyprinus ca... [ score 95 E 3e-19 ] [ range 31 .. 93 ]
+sequence
+-----------RCRCIETESQRIG-KLIESVELFPPSPHCKDTEIIATLKV-SREICLDPTAPWVKKVIE
+KIIAN------*
+>P1;gi|3378630|emb|CAA13114.1| LFCA-1 protein [Lampetra fluviatilis] [ score 94 E 6e-19 ] [ range 30 .. 96 ]
+sequence
+-----------RCQCVHVISKFIHPKHFQTMEVIPQSSNCKNVEIIVTMKS-NNQICLNPDAPWVRKVIS
+HILDGAQT---*
+>P1;gi|15667642|gb|AAL05442.1| interleukine-8 [Paralichthys olivaceus] [ score 93 E 1e-18 ] [ range 32 .. 97 ]
+sequence
+----------LHCRCIETESRPIG-RYIKSVEIISPNSHCDKTEIIATLKD-GVELCLDPEAPWVKRVIN
+KLISKRR----*
+>P1;gi|2119663|pir||I51886 macrophage inflammatory protein-2 - rat (... [ score 88 E 6e-17 ] [ range 2 .. 53 ]
+sequence
+-----------------TTLPRVDFKNIQSLTVTPPGPHCAQTEVIATLKD-GHEVCLNPEAPLVQRIVQ
+-----------*
+>P1;gi|130303|sp|P02777|PLF4_BOVIN Platelet factor 4 (PF-4) (CXCL4) ... [ score 78 E 5e-14 ] [ range 21 .. 88 ]
+sequence
+--------EDLQCVCLKTTSG-INPRHISSLEVIGAGTHCPSPQLLATKKT-GRKICLDQQRPLYKKILK
+KLLDGDES---*
+>P1;gi|14326461|gb|AAK60276.1| interleukin 8 [Homo sapiens] [ score 72 E 3e-12 ] [ range 28 .. 67 ]
+sequence
+------SAKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTEIM------------------------
+-----------*
+>P1;gi|33285946|gb|AAQ01587.1| chemokine [Ictalurus furcatus] [ score 62 E 4e-09 ] [ range 28 .. 94 ]
+sequence
+-----------RCLCQGPAANVVHPQRIDKIEIHPARASCENVEIIVTLKN-GAKKCLNPESEFTKKYIT
+AGLEKRSA---*
+>P1;gi|33285944|gb|AAQ01586.1| chemokine [Ictalurus punctatus] [ score 59 E 2e-08 ] [ range 28 .. 94 ]
+sequence
+-----------RCLCQGPAANGVRLQRIDKIEIHPASATCENKEIIVTLKN-GAKKCLNPESEFTKKYIT
+AALEKRSA---*
+>P1;gi|17385429|emb|CAC83075.1| putative CXC chemokine [Oncorhynchus... [ score 59 E 4e-08 ] [ range 32 .. 72 ]
+sequence
+-----------RCQCLNGLVNRVKPLHIEKLEVYTSSNSCRNMEIIVTLKN-G-----------------
+-----------*
+>P1;gi|15822533|gb|AAG16634.1| B lymphocyte chemoattractant [Mesocri... [ score 58 E 4e-08 ] [ range 30 .. 97 ]
+sequence
+----------LKCRCSGMVSGVIHPSFIEQIQVRYRGNGCPKDEVLISTKN-KKIVCVNPQAKWLQIVLK
+LLRSKTMS--S*
+>P1;gi|30038310|gb|AAP06946.1| Meq/vIL8 [Gallid herpesvirus 2] [ score 57 E 2e-07 ] [ range 107 .. 148 ]
+sequence
+-------AVDKRCKCVKVTNRPTGLGPIIAVDVIPPGIHCRRTEIMFSL---------------------
+-----------*
+>P1;gi|9256521|ref|NP_061354.1| chemokine (C-X-C motif) ligand 13; B... [ score 56 E 2e-07 ] [ range 28 .. 97 ]
+sequence
+--------TNLKCRCSGVISTVVGLNIIDRIQVTPPGNGCPKTEVVIWTKM-KKVICVNPRAKWLQRLLR
+HVQSKSLS--S*
+>P1;gi|19912841|dbj|BAB88677.1| CXC chemokine [Cyprinus carpio] [ score 56 E 2e-07 ] [ range 28 .. 91 ]
+sequence
+-----------RCFCVDKGVNMVPPKQIEKVEIIPASRSCKTQEIVVTLKN-STEKCLNPESKFTQKYIM
+KAVEK------*
+>P1;gi|33636734|ref|NP_891997.1| chemokine (C-X-C motif) ligand 11 [... [ score 51 E 7e-06 ] [ range 29 .. 93 ]
+sequence
+-----------RCLCIDRGVKVVKMAAIKEVSVIYPSNGCDKVEVIVTLKA-HKQRCLDPTSKQARLIMQ
+TIQKKN-----*
+>P1;gi|34876597|ref|XP_344223.1| similar to interferon-inducible T-c... [ score 51 E 7e-06 ] [ range 29 .. 95 ]
+sequence
+-----------RCLCIDRGVKVVKMAAIKEVSVIYPSNGCDKVEVIVTLKA-HKQRCLDPTSKQARLIMQ
+VGFETTRS---*
+>P1;gi|14133582|gb|AAK54069.1| interleukin-8 [Canis familiaris] [ score 48 E 5e-05 ] [ range 28 .. 53 ]
+sequence
+----------LRCQCIKTHSTPAHPKYIEELRVIDS----------------------------------
+-----------*
+>P1;gi|19484210|gb|AAH25903.1| Cxcl11 protein [Mus musculus] [ score 47 E 1e-04 ] [ range 29 .. 93 ]
+sequence
+-----------RCLCIGPGMKAVKMAEIEKASVIYPSNSCDKVEVIVTMKH-KRQRCLDPRSKQARLIMQ
+AIEKKN-----*
+>P1;gi|22074162|gb|AAK95956.1| interferon-inducible T-cell alpha che... [ score 46 E 2e-04 ] [ range 29 .. 88 ]
+sequence
+-----------RCLCIGPGVKAVKVADIEKASIIYPSNNCDKIEVIITLKE-NKQRCLNPKSKQARLIIK
+K----------*
+>P1;gi|41150755|ref|XP_372666.1| similar to Chemokine (C-C motif) li... [ score 44 E 7e-04 ] [ range 103 .. 154 ]
+sequence
+--------------CFSYTSRQIPQNFIADY--FETSSQCSKPSVILLTKR-GRQVCADPSEEWVQKYV-
+-----------*
+>P1;gi|27806863|ref|NP_776350.1| interleukin 8 [neutrophil activatin... [ score 92 E 3e-18 ] [ range 29 .. 98 ]
+sequence
+-------STELRCQCIKTHSTPFHPKFIKELRVIESGPHCENSEIIVKLTN-GNEVCLNPKEKWVQKVVQ
+VFVKRAEK---*
+>P1;gi|25987930|gb|AAN76087.1| chemokine CXCL13/BCA-1 [Macaca mulatta] [ score 87 E 1e-16 ] [ range 31 .. 98 ]
+sequence
+----------LRCRCVQESSVFIPRRFIDRIQISPRGNGCPRKEIIVWKKN-KSVVCVDPQAEWIQRIME
+MLRKKSSS--T*
+>P1;gi|5453577|ref|NP_006410.1| chemokine (C-X-C motif) ligand 13 (B... [ score 86 E 2e-16 ] [ range 29 .. 98 ]
+sequence
+--------TSLRCRCVQESSVFIPRRFIDRIQILPRGNGCPRKEIIVWKKN-KSIVCVDPQAEWIQRMME
+VLRKRSSS--T*
+>P1;gi|24209773|gb|AAN41454.1| interleukin-8 variant 2 [Ictalurus pu... [ score 71 E 5e-12 ] [ range 31 .. 90 ]
+sequence
+--------KAERCFCQKKALEKVRPALVKKFEVFPPSASCSNTEIILSLKQ-GMKVCLDPEGNQGQKVL-
+-----------*
+>P1;gi|30016905|gb|AAP03703.1| interferon g inducible protein 10/scF... [ score 66 E 2e-10 ] [ range 25 .. 92 ]
+sequence
+-------ARTVRCNCIHIDDGPVRMRAIGKLEIIPASLSCPRVEIIATMKN-DEQRCLNPESKTIKNLMK
+AFSQK------*
+>P1;gi|27753513|dbj|BAC55183.1| interferon-gamma-inducible protein 1... [ score 61 E 7e-09 ] [ range 23 .. 89 ]
+sequence
+-------SRNTRCTCIEISNGSVNPRSLEKLELIPASQSCPRVEIIATMKN-GEKRCLNPESKTIKNLLK
+AINK-------*
+>P1;gi|28894119|gb|AAO52732.1| IP-10 protein [Macaca nemestrina] [ score 58 E 5e-08 ] [ range 25 .. 95 ]
+sequence
+-------SRTVRCTCISISNQPVNPRSLEKLEIIPPSQFCPHVEIIATMKK-GEKRCLNPESKAIKNLLK
+AVSEKKSK---*
+>P1;gi|16304137|gb|AAL16935.1| interferon gamma inducible protein 10... [ score 54 E 7e-07 ] [ range 25 .. 92 ]
+sequence
+-------SRTVRCFCNKTEDRLLRPRALEKLEIIPASLSCPRMEIIATMKT-EKKRCLNPESAAIKNLLK
+EISRK------*
+>P1;gi|37620141|ref|NP_932334.1| chemokine (C-X-C motif) ligand 12b ... [ score 46 E 2e-04 ] [ range 31 .. 93 ]
+sequence
+-----------RCWCRSTLNT-VPQRSIREIK-FLHTPSCP-FQVIAKLKN-NREVCINPKTKWLQQYLK
+NALNKIKK---*
+>P1;gi|30231262|ref|NP_840092.1| chemokine (C-X-C motif) ligand 12a ... [ score 45 E 5e-04 ] [ range 31 .. 93 ]
+sequence
+-----------RCWCRSTVNT-VPQRSIRELK-FLHTPNCP-FQVIAKLKN-NKEVCINPETKWLQQYLK
+NAINKMKK---*
+>P1;gi|7546852|gb|AAF63712.1| stromal cell-derived factor-1 gamma [R... [ score 128 E 5e-29 ] [ range 22 .. 88 ]
+sequence
+----KPVSLSYRCPCRFFES-HVARANVKHLKILNT-PNC-ALQIVARLKSNNRQVCIDPKLKWIQEYLD
+KALN-------*
+>P1;gi|17907349|emb|CAC82196.1| stromal-derived factor 1 [Xenopus la... [ score 126 E 2e-28 ] [ range 22 .. 88 ]
+sequence
+----KPVSLVYRCPCRYFES-NVPKSNIKHLKILST-SNC-SLQIVARLKHNGKQICLDPKTKWIQEYLE
+KALN-------*
+>P1;gi|45383151|ref|NP_989841.1| stromal cell derived factor 1 [Gall... [ score 124 E 5e-28 ] [ range 22 .. 88 ]
+sequence
+----KPVSLTYRCPCRFFES-NVARANIKHLKILST-PNC-SLQIVARLKSNSKQVCIDPKLKWIQEYLE
+KALN-------*
+>P1;gi|37620141|ref|NP_932334.1| chemokine (C-X-C motif) ligand 12b ... [ score 116 E 2e-25 ] [ range 24 .. 89 ]
+sequence
+----KPISLVERCWCRSTLN-TVPQRSIREIKFLHT-PSC-PFQVIAKLK-NNREVCINPKTKWLQQYLK
+NALN-------*
+>P1;gi|30231262|ref|NP_840092.1| chemokine (C-X-C motif) ligand 12a ... [ score 116 E 2e-25 ] [ range 24 .. 89 ]
+sequence
+----KPISLVERCWCRSTVN-TVPQRSIRELKFLHT-PNC-PFQVIAKLK-NNKEVCINPETKWLQQYLK
+NAIN-------*
+>P1;gi|45421826|dbj|BAD12487.1| stromal cell derived factor 1 [Oryzi... [ score 61 E 6e-09 ] [ range 1 .. 42 ]
+sequence
+------------CSCRSTVN-NVPRSFIRELKFIHT-PNC-PFQVIAKLKTN-RELCI------------
+-----------*
+>P1;gi|6680109|ref|NP_032202.1| chemokine (C-X-C motif) ligand 1; GR... [ score 45 E 6e-04 ] [ range 26 .. 91 ]
+sequence
+-----PIANELRCQCLQTMA-GIHLKNIQSLKVLSG-PHC-TTEVIATLK-NGREACLDPEAPLVQKIVQ
+KML--------*

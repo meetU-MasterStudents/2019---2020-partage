@@ -1,0 +1,40 @@
+>P1;1cb8a
+structureX:1cb8: 600 :A: 699 :A:chondroitinase AC:Pedobacter heparinus: 1.90: 19.5
+-PKVLANTNQLQAVYHQQLDMVQAIFYTAGKLSVAGIEIETDKPCAVLIKHINGKQVIWAADPLQKEKTA
+---VLSIRDLKTGKTNRVKIDFPQQEFAGATVEL*
+>P1;1egua
+structureX:1egu: 814 :A: 893 :A:hyaluronate lyase:Streptococcus pneumoniae: 1.56: 20
+ESSLIENNETLQSVYDAKQGVWGIVKYDDSVSTISNQFQVL-KRGVYTIRKEGDEYKIAYYNPETQESAP
+DQEVFKKQH-------------------------*
+>P1;gi|29348373|ref|NP_811876.1| chondroitinase AC precursor [Bacter... [ score 125 E 2e-28 ] [ range 614 .. 679 ]
+sequence
+--EILANTDSMQIVRHTKLGIWQMVFYKEGTFRNGELSVSVDKACALMIKDHSGNAELHIADPGQTQ---
+----------------------------------*
+>P1;gi|14550177|gb|AAK67165.1| hyaluronate lyase precursor [Streptoc... [ score 141 E 5e-33 ] [ range 954 .. 1029 ]
+sequence
+EGALLENNDQLQAVYDAQQQVWGIVKYDDSVSTISDRFQVR-KRGLYTIRKEDNEYKVSYYNPETKSSAS
+KDEVFKE---------------------------*
+>P1;gi|14550180|gb|AAK67167.1| hyaluronate lyase precursor [Streptoc... [ score 137 E 4e-32 ] [ range 935 .. 1010 ]
+sequence
+EGSLLENDDKLQAVYDAKQKIWGIVKYDDSASTISNKFQVL-KRGIYTIRKENSGYKVSYYNPETKNSAS
+KDSVFKE---------------------------*
+>P1;gi|1075754|pir||A55137 hyaluronate lyase (EC 4.2.2.1) - Streptoc... [ score 110 E 6e-24 ] [ range 912 .. 975 ]
+sequence
+EVELLENSSKQQVIYDKNSQTWAVIKHDNQESLINNQFKMN-KAGLYLVQKVGNDYQNVYYQPQT-----
+----------------------------------*
+>P1;gi|18076634|emb|CAC87662.1| hyaluronidase [Streptococcus suis] [ score 110 E 1e-23 ] [ range 987 .. 1050 ]
+sequence
+-VKLLHQDRDLQVVYDQEQNVWGVVKYTDTAYKLTDDITLT-DAGLYTIQKVEGGYRIAFYNPSTR----
+----------------------------------*
+>P1;gi|3913884|sp|Q59801|HYSA_STAAU HYALURONATE LYASE PRECURSOR (HYA... [ score 48 E 7e-05 ] [ range 704 .. 778 ]
+sequence
+EVTVVKQEDDFHVVKD-NESVWAGVNYSNSTQTFNTKVEVK-AKGMFILKKDDNTYECSFYNPESTNSAS
+DIE-------------------------------*
+>P1;gi|15925192|ref|NP_372726.1| hyaluronate lyase precursor [Staphy... [ score 46 E 2e-04 ] [ range 706 .. 780 ]
+sequence
+KVTVVKQDDDFHVVKD-NESVWAGVNYSNSTQTFNTKVEVK-AKGMFILKKDDNTYECSFYNPESTNTAS
+DIE-------------------------------*
+>P1;gi|21283858|ref|NP_646946.1| hyaluronate lyase precursor [Staphy... [ score 46 E 2e-04 ] [ range 705 .. 779 ]
+sequence
+KVTVVKQDDDFHVVKD-NESVWAGVNYSDSTQTFNTKVEVK-AKGMFILKKKDDKYECSFYNPESTNTAS
+DIE-------------------------------*

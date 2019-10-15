@@ -1,0 +1,615 @@
+>P1;1c06a
+structureX:1c06:  51 :A:  98 :A:ribosomal protein S4 delta 41:Bacillus stearothermophilus: -1: -1
+SRLDNLVYRLGLARTRRQARQLVTHGHILVDGSRVNIPSYRVKPGQTI*
+>P1;1fjgd
+structureX:1fjg:  99 :D: 146 :D:30S ribosomal protein S4:Thermus aquaticus: 3.00: 22.1
+SRLDNVVYRLGFAVSRRQARQLVRHGHITVNGRRVDLPSYRVRPGDEI*
+>P1;1dm9a
+structureX:1dm9:   9 :A:  55 :A:heat shock protein 15:Escherichia coli: 2.00: 22.6
+VRLDKWLWAARFYKTRALAREMIEGGKVHYNGQRS-KPSKIVELNATL*
+>P1;gi|44494324|gb|EAJ65670.1| unknown [environmental sequence] [ score 108 E 4e-23 ] [ range 95 .. 142 ]
+sequence
+SRLDNVVFRLGFAPSRPAARQLVNHKHFLVNDKVVNIPSFIVKPGDKI*
+>P1;gi|43228213|gb|EAC79673.1| unknown [environmental sequence] [ score 106 E 1e-22 ] [ range 85 .. 132 ]
+sequence
+SRLDNVVYRLGFAPTRPAARQLVSHKHFLVNGKTVNIPSFIVKPGDSV*
+>P1;gi|32892082|gb|AAP88980.1| ribosomal protein S4 [Passiflora haem... [ score 106 E 1e-22 ] [ range 72 .. 118 ]
+sequence
+-RLDNILFRLGMASTIPQARQLVNHRHILVNGRIVDIPSYRCKPGDLI*
+>P1;gi|42896680|gb|EAB15517.1| unknown [environmental sequence] [ score 106 E 2e-22 ] [ range 95 .. 142 ]
+sequence
+SRLDNVVYRLGFAPTRPSARQLVSHKHFLVNGNPVNIPSFLVKPGDKI*
+>P1;gi|15605669|ref|NP_213044.1| ribosomal protein S04 [Aquifex aeol... [ score 106 E 2e-22 ] [ range 99 .. 145 ]
+sequence
+-RLDNVVYRLGFASTRRQARQLVAHGHVLVNGKKVNIPSYLVEPGDVI*
+>P1;gi|32892104|gb|AAP88991.1| ribosomal protein S4 [Passiflora edmu... [ score 105 E 2e-22 ] [ range 72 .. 118 ]
+sequence
+-RLDNILFRLGMASTIPQARQLVNHRHILVNGRIVDIPSYRCKPQDLI*
+>P1;gi|43792872|gb|EAF51002.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 95 .. 142 ]
+sequence
+SRLDNVVFRLGFAPSRPAARQLVNHKHFLVNDKVVNIPSFVVKPGDNI*
+>P1;gi|43184845|gb|EAC57990.1| unknown [environmental sequence] >gi|... [ score 105 E 3e-22 ] [ range 94 .. 141 ]
+sequence
+SRLDNVVYKLGFAPTRPAARQLVSHGHFLVNNRKVNIASYRLKPGDAI*
+>P1;gi|29653614|ref|NP_819306.1| ribosomal protein S4 [Coxiella burn... [ score 105 E 3e-22 ] [ range 96 .. 143 ]
+sequence
+SRLDNVVYRMGFAATRAEARQLISHKAILVNGEVVNIPSYQVKPGDII*
+>P1;gi|44121117|gb|EAH23950.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 81 .. 128 ]
+sequence
+SRLDNVVYRLGFAPSRPAARQLVNHKHFLVNNKIVNISSFIVKPGDVI*
+>P1;gi|34147961|gb|AAQ62557.1| ribosomal protein S4 [Tetrastylis ova... [ score 105 E 3e-22 ] [ range 67 .. 113 ]
+sequence
+-RLDNILFRLGMASTIPQARQLVNHRHILVNGRIVDIPSYRCKPRDLI*
+>P1;gi|43723976|gb|EAF16946.1| unknown [environmental sequence] [ score 104 E 4e-22 ] [ range 95 .. 142 ]
+sequence
+SRLDNVVYRLGFAPTRPAARQLVSHKHFLVNGKPVNIPSFIVRPGDNI*
+>P1;gi|20808633|ref|NP_623804.1| Ribosomal protein S4 and related pr... [ score 104 E 5e-22 ] [ range 99 .. 145 ]
+sequence
+-RLDNVVYRLGFAVSRAQARQLVSHGHIEVNGKKVDIPSYLVKPGDVI*
+>P1;gi|32401824|gb|AAP80900.1| small ribosomal protein 4 [Rubus odor... [ score 104 E 5e-22 ] [ range 73 .. 119 ]
+sequence
+-RLDNILFRLGMASTIPQARQLVNHRHILVNGRIVDIPSYRCKPRDII*
+>P1;gi|15615771|ref|NP_244075.1| 30S ribosomal protein S4; ribosomal... [ score 104 E 6e-22 ] [ range 92 .. 139 ]
+sequence
+SRLDNLVYRMGLARTRRAARQLVNHGHITVDGQRVDIPSYRVKPGQVI*
+>P1;gi|22538271|ref|NP_689122.1| ribosomal protein S4 [Streptococcus... [ score 104 E 8e-22 ] [ range 94 .. 140 ]
+sequence
+-RLDNVVYRLGLATTRRQARQFVNHGHILVDGKRVDIPSYRVTPGQVI*
+>P1;gi|32266901|ref|NP_860933.1| ribosomal protein S4 [Helicobacter ... [ score 104 E 8e-22 ] [ range 99 .. 145 ]
+sequence
+-RLDNVVYRMGFATTRRFARQLVTHGHILVNGKRVDIPSYMVKPGQKI*
+>P1;gi|16080018|ref|NP_390844.1| ribosomal protein S4 (BS4) [Bacillu... [ score 103 E 8e-22 ] [ range 92 .. 139 ]
+sequence
+SRLDNVVYKLGLARTRRQARQLVNHGHILVDGSRVDIPSYLVKPGQTI*
+>P1;gi|43442797|gb|EAD76052.1| unknown [environmental sequence] [ score 103 E 8e-22 ] [ range 95 .. 142 ]
+sequence
+SRLDNVVYRLGFAPSRPSARQLVSHKHFLVNNKVVNIPSYCLKPRDVI*
+>P1;gi|15675914|ref|NP_270088.1| 30S ribosomal protein S4 [Streptoco... [ score 103 E 9e-22 ] [ range 94 .. 140 ]
+sequence
+-RLDNVVYRLGLATTRRQARQFVNHGHILVDGKRVDIPSYRVDPGQVI*
+>P1;gi|32892128|gb|AAP89003.1| ribosomal protein S4 [Passiflora rufa] [ score 103 E 1e-21 ] [ range 72 .. 118 ]
+sequence
+-RLDNILFRLGMASTIPQARQLVNHRHILVNDRMVDIPSYRCKPRDLI*
+>P1;gi|43194745|gb|EAC62890.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 84 .. 131 ]
+sequence
+SRLDNVVYRMGFASTRAEARQLVSHKAILVNDKKVNIPSYQLNPGDNI*
+>P1;gi|23022308|ref|ZP_00061920.1| COG0522: Ribosomal protein S4 and... [ score 103 E 1e-21 ] [ range 98 .. 145 ]
+sequence
+SRLDNVVYRMGLAVSRREARQLVRHGHFTVNGKRVDIPSYLVKVGDVI*
+>P1;gi|44638687|gb|EAK66291.1| unknown [environmental sequence] [ score 103 E 1e-21 ] [ range 96 .. 142 ]
+sequence
+-RLDNIVYRLGFASSRPQARQMVSHAHFLVNDRRVNIPSYLVKPGDKI*
+>P1;gi|18027952|gb|AAL55900.1| ribosomal protein S4 [Syngramma quinata] [ score 103 E 1e-21 ] [ range 79 .. 125 ]
+sequence
+-RLDNILFRLGMASTIPAARQLVNHRHILVNGCIVDIPSYRCKPKDII*
+>P1;gi|17154603|emb|CAC83911.1| ribosomal protein S4 [Geissorhiza he... [ score 103 E 1e-21 ] [ range 75 .. 121 ]
+sequence
+-RLDNILFRLGMASTIPGARQLVNHRHILVNGRIVDIPSYRCKPRDII*
+>P1;gi|243180|gb|AAB21091.1| ribosomal protein S4 [Bacillus stearoth... [ score 103 E 2e-21 ] [ range 90 .. 137 ]
+sequence
+SRLDNLVYRLGLARTRRQARQLVTHGHIIVDGSRVNIPSYRVKPGQTI*
+>P1;gi|32401820|gb|AAP80898.1| small ribosomal protein 4 [Eucalyptus... [ score 103 E 2e-21 ] [ range 73 .. 119 ]
+sequence
+-RLDNILFRLGMASTIPQARQLVNHRHILVNGCIVDIPSYRCKPRDII*
+>P1;gi|32401816|gb|AAP80896.1| small ribosomal protein 4 [Erigeron f... [ score 103 E 2e-21 ] [ range 73 .. 119 ]
+sequence
+-RLDNILFRLGMAPTIPGARQLVNHRHILVNGRIVDIPSYRCKPRDTI*
+>P1;gi|37992611|gb|AAR06484.1| small ribosomal protein 4 [Orthostich... [ score 103 E 2e-21 ] [ range 81 .. 127 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNGCIVDIPSYRCKPQDFI*
+>P1;gi|32892114|gb|AAP88996.1| ribosomal protein S4 [Passiflora vill... [ score 102 E 2e-21 ] [ range 72 .. 118 ]
+sequence
+-RWDNILFRLGMASTIPQARQLVNHRHILVNGRIVDIPSYRCKPQDLI*
+>P1;gi|22854743|gb|AAN09791.1| small ribosomal protein 4 [Trichodont... [ score 102 E 2e-21 ] [ range 71 .. 117 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNNRIVNIPSYRCKPQDCI*
+>P1;gi|22854731|gb|AAN09785.1| small ribosomal protein 4 [Paraleucob... [ score 102 E 2e-21 ] [ range 76 .. 122 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNNRIVNIPSYRCKPQDFI*
+>P1;gi|3914845|sp|O20208|RR4_DIEGR Chloroplast 30S ribosomal protein... [ score 102 E 2e-21 ] [ range 83 .. 129 ]
+sequence
+-RLDNILFRLGMASTIPGARQLVNHRHILVNGRIVDIPSYRCKPQDII*
+>P1;gi|33413187|emb|CAD86730.1| ribosomal protein small subunit 4 [D... [ score 102 E 2e-21 ] [ range 76 .. 122 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNDRIVNIPSYRCKPQDFI*
+>P1;gi|37992457|gb|AAR06407.1| small ribosomal protein 4 [Chaetomitr... [ score 102 E 2e-21 ] [ range 83 .. 129 ]
+sequence
+-RLDNIIFRLGMAPTIPGARQLVNHRHILVNGCIVDIPSYRCKPQDFI*
+>P1;gi|32892116|gb|AAP88997.1| ribosomal protein S4 [Mitostemma brev... [ score 102 E 2e-21 ] [ range 75 .. 121 ]
+sequence
+-RLDNILFRLGMASTIPRARQLVNHRHILVNGRIVDIPSYRCKPRDLI*
+>P1;gi|23038318|ref|ZP_00070481.1| COG0522: Ribosomal protein S4 and... [ score 102 E 2e-21 ] [ range 152 .. 199 ]
+sequence
+TRLDSVVFRLGLASTRPQARQLVNHGHILVDGKRVTIPSYEVKPGQII*
+>P1;gi|33413197|emb|CAD86734.1| ribosomal protein small subunit 4 [K... [ score 102 E 2e-21 ] [ range 74 .. 120 ]
+sequence
+-RLDNIIFRLGMAPTIPGARQLVNHRHILVNGRIVNIPSYRCKPQDFI*
+>P1;gi|12330486|gb|AAG52780.1| ribosomal protein 4 [Voitia hyperborea] [ score 103 E 2e-21 ] [ range 77 .. 123 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLINHRHILVNDRIVDIPSYRCKPQDFI*
+>P1;gi|37992601|gb|AAR06479.1| small ribosomal protein 4 [Meteorium ... [ score 102 E 2e-21 ] [ range 76 .. 122 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNDCIVDIPSYRCKPQDFI*
+>P1;gi|12330484|gb|AAG52779.1| ribosomal protein 4 [Tetraplodon lamii] [ score 102 E 2e-21 ] [ range 77 .. 123 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNDRIVDIPSYRCKPQDFI*
+>P1;gi|33413219|emb|CAD86745.1| ribosomal protein small subunit 4 [D... [ score 102 E 3e-21 ] [ range 76 .. 122 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNDHIVNIPSYRCKPQDFI*
+>P1;gi|32401814|gb|AAP80895.1| small ribosomal protein 4 [Viburnum b... [ score 102 E 3e-21 ] [ range 73 .. 119 ]
+sequence
+-RLDNILFRLGMAPTIPGARQLVNHRHILVNGRIVDIPSYRCKPRDII*
+>P1;gi|548865|sp|P36456|RR4_ELEIN Chloroplast 30S ribosomal protein ... [ score 102 E 3e-21 ] [ range 90 .. 136 ]
+sequence
+-RLDNIVFRLGMASTIPGARQLVNHRHILVNGRIVDIPSFRCKPRDII*
+>P1;gi|30022730|ref|NP_834361.1| SSU ribosomal protein S4P [Bacillus... [ score 101 E 3e-21 ] [ range 92 .. 139 ]
+sequence
+ARLDNLVYRMGLARTRRAARQLVNHGHIMVDGARVDIPSYRVKPGQTI*
+>P1;gi|21914154|gb|AAM81299.1| ribosomal protein subunit 4 [Bryum ar... [ score 101 E 3e-21 ] [ range 86 .. 132 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNDRIVNIPSYRCKPEDSI*
+>P1;gi|7576563|gb|AAF63894.1| ribosomal protein system 4 [Anacamptod... [ score 101 E 3e-21 ] [ range 78 .. 124 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNDCIVNIPSYRCKPQDFI*
+>P1;gi|37992625|gb|AAR06491.1| small ribosomal protein 4 [Papillaria... [ score 101 E 3e-21 ] [ range 77 .. 123 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNDCMVDIPSYRCKPQDFI*
+>P1;gi|6002045|emb|CAA58932.1| ribosomal protein S4 [Dioscorea batatas] [ score 101 E 3e-21 ] [ range 90 .. 136 ]
+sequence
+-RLDNILFRLGMASTIPAARQLVNHRHILVNGRIVDIPSYRCKPRDII*
+>P1;gi|14090476|gb|AAK53523.1| small ribosomal protein 4 [Holomitriu... [ score 101 E 3e-21 ] [ range 71 .. 117 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNNRIVNIPSYRCKPQDSI*
+>P1;gi|3098150|gb|AAC15523.1| small ribosomal protein 4 [Bryobritton... [ score 101 E 3e-21 ] [ range 85 .. 131 ]
+sequence
+-RLDNVVFRLGMAPTIPGARQLVNHRHILVNGCIVNIPSYRCKPQDFI*
+>P1;gi|32401818|gb|AAP80897.1| small ribosomal protein 4 [Pterocarya... [ score 101 E 3e-21 ] [ range 63 .. 109 ]
+sequence
+-RLDNILFRLGMTSTIPQARQLVNHRHILVNGRIVDIPSYRCKPQDII*
+>P1;gi|18027948|gb|AAL55898.1| ribosomal protein S4 [Anogramma guate... [ score 101 E 3e-21 ] [ range 79 .. 125 ]
+sequence
+-RLDNIVFRLGMASTIPAARQLVNHRHILVNHRIVNIPSYRCKPKDII*
+>P1;gi|20531090|gb|AAM27366.1| ribosomal protein 4 [Diphyscium longi... [ score 101 E 3e-21 ] [ range 81 .. 127 ]
+sequence
+-RLDNIIFRLGMAPTIPGARQLVNHRHILVNDRIVNIPSYRCKPQDFI*
+>P1;gi|7576755|gb|AAF63974.1| small ribosomal protein 4 [Bartramiops... [ score 101 E 4e-21 ] [ range 71 .. 117 ]
+sequence
+-RLDNIIFRLGMAPTIPGARQLVNHKHILVNDRIVNIPSYRCKPQDFI*
+>P1;gi|6002087|emb|CAA58953.1| ribosomal protein S4 [Tradescantia vi... [ score 101 E 4e-21 ] [ range 90 .. 136 ]
+sequence
+-RLDNILFRLGMASTIPGARQLVNHKHILVNGRIVDIPSYRCKPRDII*
+>P1;gi|6002083|emb|CAA58951.1| ribosomal protein S4 [Smilax aspera] [ score 101 E 4e-21 ] [ range 90 .. 136 ]
+sequence
+-RLDNILFRLGMASTIPGARQLVNHRHILVNGRVVDIPSYRCKPQDII*
+>P1;gi|33413235|emb|CAD86753.1| ribosomal protein small subunit 4 [H... [ score 101 E 4e-21 ] [ range 74 .. 120 ]
+sequence
+-RLDNIIFRLGMAPTIPGARQLVNHRHILVNNRIVNIPSYRCKPQDFI*
+>P1;gi|28198376|ref|NP_778690.1| 30S ribosomal protein S4 [Xylella f... [ score 101 E 4e-21 ] [ range 97 .. 144 ]
+sequence
+TRLDNVIYRMGFAVTRPAARQLVSHRSVLVNGKMVNLPSYHVKPGDVV*
+>P1;gi|6002033|emb|CAA58924.1| ribosomal protein S4 [Butomus umbella... [ score 101 E 4e-21 ] [ range 90 .. 136 ]
+sequence
+-RLDNIIFRLGMASTIPGARQLVNHRHILVNGRIVDIPSYRCKPRDII*
+>P1;gi|43241113|gb|EAC86186.1| unknown [environmental sequence] [ score 101 E 4e-21 ] [ range 97 .. 144 ]
+sequence
+SRLDNVVYRMGFASTRAEARQLVSHKAILVNDKKVNIPSYQLNPGDNV*
+>P1;gi|33411994|emb|CAD86769.1| ribosomal protein small subunit 4 [B... [ score 101 E 4e-21 ] [ range 71 .. 117 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHKHILVNDRIVNIPSYRCKPQDFI*
+>P1;gi|11467355|ref|NP_043212.1| ribosomal protein S4 [Cyanophora pa... [ score 101 E 4e-21 ] [ range 92 .. 138 ]
+sequence
+-RLDNIVFRLGMAPTIPASRQLVNHGHICVNNKVVSIPSYQCKPGDII*
+>P1;gi|7576509|gb|AAF63867.1| ribosomal protein system 4 [Leucodon b... [ score 101 E 4e-21 ] [ range 79 .. 125 ]
+sequence
+-RLDNIIFRLGMAPTIPGARQLVNHRHILVNDCIVNIPSYRCKPQDFI*
+>P1;gi|12330456|gb|AAG52765.1| ribosomal protein 4 [Andreaea rothii]... [ score 101 E 4e-21 ] [ range 77 .. 123 ]
+sequence
+-RLDNVIFRLGMASTIPGARQLVNHRHILVNDRIVNIPSYRCKPQDFI*
+>P1;gi|11497530|ref|NP_054938.1| ribosomal protein S4 [Spinacia oler... [ score 101 E 4e-21 ] [ range 90 .. 136 ]
+sequence
+-RLDNILFRLGMAPTIPGARQLVNHRHILVNGRIVDIPSYRCKPQDTI*
+>P1;gi|548876|sp|P36472|RR4_STICA Chloroplast 30S ribosomal protein ... [ score 101 E 4e-21 ] [ range 90 .. 136 ]
+sequence
+-RLDNIIFRLGMASTIPGARQLVNHRHILVNGRIVNIPSFRCKPRDII*
+>P1;gi|16565385|gb|AAL26207.1| small ribosomal protein 4 [Lygodium l... [ score 101 E 4e-21 ] [ range 81 .. 127 ]
+sequence
+-RLDNIVFRLGMAPTIPAARQLVNHRHIPVNNRIVDIPSYRCKPKDII*
+>P1;gi|37992459|gb|AAR06408.1| small ribosomal protein 4 [Chaetomitr... [ score 101 E 4e-21 ] [ range 83 .. 129 ]
+sequence
+-RLDNIIFRLGMAPTIPGARQLVNHRHILVNDCIVDIPSYRCKPQDFI*
+>P1;gi|29027220|gb|AAN47172.1| small ribosomal protein 4 [Pyrrhobryu... [ score 101 E 4e-21 ] [ range 78 .. 124 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNNRIVDIPSYRCKPQDFI*
+>P1;gi|18920751|gb|AAL82420.1| ribosomal protein system 4 [Isopteryg... [ score 101 E 5e-21 ] [ range 82 .. 128 ]
+sequence
+-RLDNVIFRLGMAATIPGARQLVNHRHILVNDCIVDIPSYRCKPQDLI*
+>P1;gi|20531069|gb|AAM27356.1| ribosomal protein 4 [Notoligotrichum ... [ score 101 E 5e-21 ] [ range 75 .. 121 ]
+sequence
+-RLDNIIFRLGMAPTIPGARQLVTHKHILVNDRIVNIPSYRCKPQDFI*
+>P1;gi|44329508|gb|EAI50226.1| unknown [environmental sequence] [ score 101 E 5e-21 ] [ range 43 .. 90 ]
+sequence
+SRLDNVVYRMGFASTRSEARQLVSHKAILVNDKKVNIPSFKIKPGDTI*
+>P1;gi|548867|sp|P36458|RR4_FESGI Chloroplast 30S ribosomal protein ... [ score 101 E 5e-21 ] [ range 90 .. 136 ]
+sequence
+-RLDNILFRLGMASTIPGARQLVNHRHILVNGRIVNIPSFRCKPRDII*
+>P1;gi|33411990|emb|CAD86725.1| ribosomal protein small subunit 4 [A... [ score 101 E 5e-21 ] [ range 74 .. 120 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNNCIVNIPSYRCKPQDFI*
+>P1;gi|12330512|gb|AAG52793.1| ribosomal protein 4 [Pleuridium subul... [ score 101 E 5e-21 ] [ range 78 .. 124 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNDRLVNIPSYRCKPQDFI*
+>P1;gi|15145828|gb|AAK83532.1| rps4 [Aplodon wormskioldii] [ score 101 E 5e-21 ] [ range 78 .. 124 ]
+sequence
+-RLDNIIFRLGMAPTIPGARQLVNHKHILVNDRIVDIPSYRCKPQDFI*
+>P1;gi|7576537|gb|AAF63881.1| ribosomal protein system 4 [Myurium ho... [ score 101 E 5e-21 ] [ range 79 .. 125 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNNCIVDIPSYRCKPQDFI*
+>P1;gi|12642264|gb|AAK00214.1| rps4 [Amblyodon dealbatus] [ score 101 E 5e-21 ] [ range 77 .. 123 ]
+sequence
+-RLDNVIFRLGMASTIPGARQLVNHRHILVNDRIVDIPSYRCKPQDFI*
+>P1;gi|15644222|ref|NP_229273.1| ribosomal protein S4 [Thermotoga ma... [ score 100 E 9e-21 ] [ range 98 .. 145 ]
+sequence
+ARLDNVVYRMGFAINRRQARQLVNHGHFLVNGKKVNIPSYLLRPNDVV*
+>P1;gi|44540926|gb|EAJ97201.1| unknown [environmental sequence] >gi|... [ score 100 E 1e-20 ] [ range 97 .. 143 ]
+sequence
+-RLDNVVYRMGFGSTRAEARQMVSHKAFMVNGKVVNIPSYQVQPGDEI*
+>P1;gi|7525035|ref|NP_051061.1| ribosomal protein S4 [Arabidopsis th... [ score 100 E 1e-20 ] [ range 90 .. 136 ]
+sequence
+-RLDNILFRLGMALTIPQARQLVNHGHILVNGRIVDIPSYRCKPRDII*
+>P1;gi|29422391|gb|AAO84591.1| small ribosomal protein 4 [Breutelia ... [ score 100 E 1e-20 ] [ range 78 .. 124 ]
+sequence
+-RLDNVIFRLGMASTIPGARQLVNHRHILVNGRIVDIPSYRCKPADFI*
+>P1;gi|3098236|gb|AAC15566.1| small ribosomal protein 4 [Hypnodendro... [ score 99 E 1e-20 ] [ range 78 .. 124 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNDRLVDIPSYRCKPQDFI*
+>P1;gi|3098194|gb|AAC15545.1| small ribosomal protein 4 [Orthodontiu... [ score 99 E 1e-20 ] [ range 86 .. 132 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHKHILVNDRIVDIPSYRCKPQDFI*
+>P1;gi|22711973|ref|NP_683827.1| ribosomal protein S4 [Chaetosphaeri... [ score 99 E 1e-20 ] [ range 94 .. 140 ]
+sequence
+-RLDNTIFRLGMAPTIPAARQLVNHGHILVNGRIVNIPSYRCKPQDSI*
+>P1;gi|32401793|gb|AAP80885.1| small ribosomal protein 4 [Amborella ... [ score 99 E 1e-20 ] [ range 67 .. 113 ]
+sequence
+-RLDNILFRLGMASTIPGARQLVNHRHILVNGRLVDIPSYRCKPGDFV*
+>P1;gi|18311341|ref|NP_563275.1| 30S ribosomal protein S4 [Clostridi... [ score 99 E 1e-20 ] [ range 88 .. 135 ]
+sequence
+SRLDNMVYRMGFASSIRQARQMVNHGHFLVNGKKVNIPSFRLNIGDEV*
+>P1;gi|33413207|emb|CAD86739.1| ribosomal protein small subunit 4 [C... [ score 99 E 1e-20 ] [ range 74 .. 120 ]
+sequence
+-RLDNVIFRLGMAPTIPGARQLVNHRHILVNDNIVNIPSYRCKPQDFI*
+>P1;gi|37678393|ref|NP_933002.1| ribosome-associated heat shock prot... [ score 93 E 2e-18 ] [ range 10 .. 56 ]
+sequence
+VRLDKWLWAARFYKTRSIARDMVDGGKVHYNGQRA-KPSKIVEVGAVL*
+>P1;gi|15642728|ref|NP_232361.1| conserved hypothetical protein [Vib... [ score 92 E 4e-18 ] [ range 10 .. 56 ]
+sequence
+VRLDKWLWAARFYKTRSLARNMVEGGKVHYNGQRA-KPSKSVEIGAQI*
+>P1;gi|44107532|gb|EAH16663.1| unknown [environmental sequence] [ score 91 E 7e-18 ] [ range 15 .. 61 ]
+sequence
+LRLDKWLWACRFYKTRALAKEMIEGGKVHYNGQRC-KASKTVEPGATV*
+>P1;gi|37524124|ref|NP_927468.1| Heat shock protein 15 (HSP15) [Phot... [ score 91 E 8e-18 ] [ range 11 .. 57 ]
+sequence
+VRLDKWLWAARFYKTRAIAREMIDGGKVHYNGQRS-KPSKLVELGAEI*
+>P1;gi|15603411|ref|NP_246485.1| unknown [Pasteurella multocida] >gi... [ score 90 E 1e-17 ] [ range 14 .. 60 ]
+sequence
+VRLDKWLWAARFYKTRTLAKDMIDGGKVHYNGQRT-KPNKTVEIGCVI*
+>P1;gi|44403774|gb|EAJ02959.1| unknown [environmental sequence] [ score 90 E 2e-17 ] [ range 11 .. 57 ]
+sequence
+VRLDKWLWAARFYKTRSLARDQIEGGKVHYNGQRS-KPGKHVEVGALI*
+>P1;gi|44087856|gb|EAH06052.1| unknown [environmental sequence] [ score 90 E 2e-17 ] [ range 9 .. 55 ]
+sequence
+VRLDKWLWAARFYKTRALAREMVDGGKVHYNGQRS-KPSKIVELNATL*
+>P1;gi|16766785|ref|NP_462400.1| heat shock protein [Salmonella typh... [ score 89 E 2e-17 ] [ range 9 .. 55 ]
+sequence
+VRLDKWLWAARFYKTRAMAREMIEGGKVHYNGQRS-KPSKIVELNATL*
+>P1;gi|32034162|ref|ZP_00134384.1| COG1188: Ribosome-associated heat... [ score 89 E 3e-17 ] [ range 14 .. 60 ]
+sequence
+VRLDKWLWAARFYKTRSIAKAMIEGGKVHYNGQRA-KTSKTVEIGATI*
+>P1;gi|28896905|ref|NP_796510.1| conserved hypothetical protein [Vib... [ score 89 E 3e-17 ] [ range 8 .. 54 ]
+sequence
+VRLDKWLWAARFYKTRSIARNMVDGGKVHYNGQRS-KPSKIVELGAEI*
+>P1;gi|43752505|gb|EAF30677.1| unknown [environmental sequence] [ score 88 E 6e-17 ] [ range 13 .. 59 ]
+sequence
+IRIDKWLWAARFFKTRGIAKQAIEGGKVQVDGQRA-KPSKEIEVGAII*
+>P1;gi|32028626|ref|ZP_00131782.1| COG1188: Ribosome-associated heat... [ score 87 E 1e-16 ] [ range 14 .. 60 ]
+sequence
+IRLDKWLWAARFYKTRTIAKEMIDGGKVHYNNQRT-KPNKTVEIGAIL*
+>P1;gi|33151992|ref|NP_873345.1| heat shock protein 15 [Haemophilus ... [ score 87 E 1e-16 ] [ range 13 .. 59 ]
+sequence
+IRLDKWLWAARFYKTRSLAKSMIDGGKVHYNGQRV-KTSKIVQVGARI*
+>P1;gi|7387782|sp|Q44264|HSLR_AERSA Heat shock protein 15 homolog (H... [ score 86 E 2e-16 ] [ range 11 .. 57 ]
+sequence
+VRLDKWLWAARFYKTRSLARDQIEGGKVHYNGQRS-KPGKAVEAGALI*
+>P1;gi|16120483|ref|NP_403796.1| heat shock protein 15 [Yersinia pes... [ score 86 E 2e-16 ] [ range 11 .. 57 ]
+sequence
+VRLDKWLWAARFYKTRAIARDMVDGGKVHYNGQRS-KPSKLVELHAEI*
+>P1;gi|23047238|ref|ZP_00075686.1| COG1188: Ribosome-associated heat... [ score 85 E 4e-16 ] [ range 9 .. 55 ]
+sequence
+VRLDKWLWAARIYKTRALAREMIEGGKVHYNGQRS-KPGKVVELNATL*
+>P1;gi|44487826|gb|EAJ61970.1| unknown [environmental sequence] [ score 85 E 5e-16 ] [ range 13 .. 59 ]
+sequence
+VRLDKWLWAARFFKTRAIARDMVQSGKVQYNGQRA-KPGKHVELGAMI*
+>P1;gi|23028840|ref|ZP_00067216.1| COG1188: Ribosome-associated heat... [ score 85 E 5e-16 ] [ range 4 .. 50 ]
+sequence
+VRIDKWLWAARFFKTRNLAKSAIDGGKIHINGSRV-KPSKEVEVGNKL*
+>P1;gi|44445175|gb|EAJ31736.1| unknown [environmental sequence] [ score 84 E 1e-15 ] [ range 13 .. 59 ]
+sequence
+IRIDKWLWAARFFKTRGVAKQAIECGKVQVDGQRT-KPSKEIEVGAII*
+>P1;gi|16272505|ref|NP_438719.1| hypothetical protein HI0562 [Haemop... [ score 84 E 1e-15 ] [ range 6 .. 52 ]
+sequence
+VRLDKWLWAARFYKTRSIAKAMIESGKVHYNNQRA-KVSKIVEVGAML*
+>P1;gi|44600957|gb|EAK39422.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 11 .. 57 ]
+sequence
+VRLDKWLWAARFYKTRAIAKEMINGGKVHYNGART-KSSKNAEIGAVL*
+>P1;gi|23001362|ref|ZP_00045269.1| COG1188: Ribosome-associated heat... [ score 83 E 1e-15 ] [ range 9 .. 55 ]
+sequence
+LRIDKWLWAARFFKTRALATDAVNGGHVHLNGQRI-KASHQVKVGDRL*
+>P1;gi|44593206|gb|EAK33984.1| unknown [environmental sequence] [ score 82 E 3e-15 ] [ range 13 .. 59 ]
+sequence
+IRIDKWLWAARFFKTRGVAKQAIESGKVQVDGQRA-KPSKEIEVEAII*
+>P1;gi|24371764|ref|NP_715806.1| heat shock protein 15 [Shewanella o... [ score 82 E 4e-15 ] [ range 11 .. 57 ]
+sequence
+VRLDKWLWAARFYKTRAIAKEMINGGKVHYNGART-KSSKNAEIGAIL*
+>P1;gi|23103233|ref|ZP_00089718.1| COG1188: Ribosome-associated heat... [ score 81 E 8e-15 ] [ range 9 .. 55 ]
+sequence
+IRLDKWLWAARFYKTRALAKEAIEGGKVHCRGERC-KPSKEPRIGDEL*
+>P1;gi|44557034|gb|EAK08464.1| unknown [environmental sequence] [ score 80 E 9e-15 ] [ range 1 .. 41 ]
+sequence
+------LWACRFYKTRALAKDMIEGGKVHYNGQRC-KASKTVEVGATI*
+>P1;gi|23469508|ref|ZP_00124842.1| COG1188: Ribosome-associated heat... [ score 80 E 1e-14 ] [ range 11 .. 56 ]
+sequence
+VRLDKWLWAARFFKTRALAKAAIESGKVHCRGERC-KPGKEPRVGDE-*
+>P1;gi|15600388|ref|NP_253882.1| probable heat shock protein [Pseudo... [ score 80 E 1e-14 ] [ range 9 .. 55 ]
+sequence
+VRLDKWLWAARFFKTRALAKAAIEGGKVHCRGERC-KPSKEPRVGEEL*
+>P1;gi|23061619|ref|ZP_00086454.1| COG1188: Ribosome-associated heat... [ score 80 E 2e-14 ] [ range 60 .. 105 ]
+sequence
+VRLDKWLWAARFFKTRALAKAAIESGKVHCRGERC-KPGKEPRIGDE-*
+>P1;gi|32044571|ref|ZP_00141672.1| COG1188: Ribosome-associated heat... [ score 79 E 2e-14 ] [ range 1 .. 47 ]
+sequence
+MRLDKWLWAARFFKTRALAKAAIEGGKVHCRGERC-KPSKEPRVGEEL*
+>P1;gi|34540027|ref|NP_904506.1| heat shock protein 15 [Porphyromona... [ score 79 E 3e-14 ] [ range 4 .. 50 ]
+sequence
+VRIDRWMWATRIFKTRTIATDACKKSRVTVNGLQA-KPSRMVRVGDVI*
+>P1;gi|22977851|ref|ZP_00023631.1| COG1188: Ribosome-associated heat... [ score 79 E 3e-14 ] [ range 11 .. 57 ]
+sequence
+LRIDKWLWCARFFKTRSLAAEAVERGRVSVNGQPC-KNSREVKPGDTV*
+>P1;gi|28867469|ref|NP_790088.1| heat shock protein 15 [Pseudomonas ... [ score 78 E 4e-14 ] [ range 11 .. 56 ]
+sequence
+VRLDKWLWAARFFKTRALAKAAIESGKVHCRGERC-KPGKEPRLGDE-*
+>P1;gi|26986993|ref|NP_742418.1| heat shock protein 15 [Pseudomonas ... [ score 78 E 5e-14 ] [ range 11 .. 56 ]
+sequence
+VRLDKWLWAARFYKTRALAKAAIESGKVHCRGERC-KPGKEPRVGDE-*
+>P1;gi|44590924|gb|EAK32332.1| unknown [environmental sequence] [ score 78 E 5e-14 ] [ range 13 .. 59 ]
+sequence
+LRIDKWLWAARFFKTRSLATDAVDKGHVKIGGAAV-KPAKEVRVGDEV*
+>P1;gi|41689860|ref|ZP_00146393.1| hypothetical protein Psyc139101 [... [ score 78 E 6e-14 ] [ range 3 .. 49 ]
+sequence
+MRIDKWLWAARFYRTRNLAKEAIESGRVHYAGSRV-KTSKEIAVGDEL*
+>P1;gi|33601491|ref|NP_889051.1| putative heat shock protein [Bordet... [ score 78 E 6e-14 ] [ range 4 .. 50 ]
+sequence
+IRLDKWLWAARFYKTRSLAVQEIGKGRVQVNGQPA-KPAREVAPGDVV*
+>P1;gi|15677015|ref|NP_274167.1| conserved hypothetical protein [Nei... [ score 78 E 7e-14 ] [ range 10 .. 56 ]
+sequence
+MRLDKWLWAARFFKTRSLAQKHIELGRVQVNGSKV-KNSKTIDIGDII*
+>P1;gi|44386167|gb|EAI90585.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 13 .. 59 ]
+sequence
+LRIDKWLWAARFFKTRSLAADAVDKGHVRIGGASV-KPAKDVRVGDLV*
+>P1;gi|29832783|ref|NP_827417.1| hypothetical protein [Streptomyces ... [ score 76 E 3e-13 ] [ range 45 .. 91 ]
+sequence
+VRIDSWIWSVRLVKTRSMGATACRGGHVRVNGERV-KPAYAVRVGDEV*
+>P1;gi|22985545|ref|ZP_00030661.1| COG1188: Ribosome-associated heat... [ score 75 E 3e-13 ] [ range 13 .. 59 ]
+sequence
+LRIDKWLWAARFFKTRSLAAAAVEKGHVRIEGASV-KPAKDVRVGDLV*
+>P1;gi|30250484|ref|NP_842554.1| S4 domain [Nitrosomonas europaea AT... [ score 75 E 5e-13 ] [ range 14 .. 59 ]
+sequence
+-RIDKWLFAARFYKTRSQAADAVERGQVQVNGMRA-KPSRILNTGDLL*
+>P1;gi|34498242|ref|NP_902457.1| probable ribosome-associated heat s... [ score 75 E 5e-13 ] [ range 12 .. 58 ]
+sequence
+VRLDKWLWAARFFKTRQLAHEALELGRVLVNGERV-KASRVVKEGDRL*
+>P1;gi|17547361|ref|NP_520763.1| PUTATIVE HEAT SHOCK PROTEIN 15 [Ral... [ score 75 E 6e-13 ] [ range 11 .. 57 ]
+sequence
+VRIDKWLWAARFFKTRSQATDAVERGRVQINDQPV-RPAKDVKIGDRV*
+>P1;gi|44019829|gb|EAG68716.1| unknown [environmental sequence] [ score 74 E 8e-13 ] [ range 6 .. 44 ]
+sequence
+--------ACRFYKTRALAKDMIEGGKVHYNGQRC-KASKTVELGATI*
+>P1;gi|21230661|ref|NP_636578.1| heat shock protein 15 homolog [Xant... [ score 74 E 1e-12 ] [ range 11 .. 57 ]
+sequence
+VRLDVWLWAARFFKTRSLAKHAVDTGKVGVAGQRP-KPSRALRTGEQL*
+>P1;gi|21242053|ref|NP_641635.1| heat shock protein 15 homolog [Xant... [ score 73 E 1e-12 ] [ range 11 .. 57 ]
+sequence
+VRLDVWLWAARFFKTRSLAKNAVDTGKVDVAGQRP-KPSRALRSGEQL*
+>P1;gi|44368666|gb|EAI78038.1| unknown [environmental sequence] [ score 73 E 1e-12 ] [ range 11 .. 55 ]
+sequence
+VRIDKWLWAARFFKTRSQATDAVERGRVQINDQAV-RPAKDVKIGD--*
+>P1;gi|44431608|gb|EAJ22398.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 10 .. 56 ]
+sequence
+LRVDRWLWAARFFKTRSLAKSAIENGKIELNGNRI-KASKEIAQGDLL*
+>P1;gi|21220473|ref|NP_626252.1| hypothetical protein [Streptomyces ... [ score 73 E 2e-12 ] [ range 56 .. 102 ]
+sequence
+VRVDSWIWAVRLIKTRSLGATACRGGHVRVNGERV-KPAYSLRVGDEV*
+>P1;gi|42899348|gb|EAB16825.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 1 .. 47 ]
+sequence
+MRVDRWLWAARFFKTRSLAKSAIENGKIELNGNRI-KASKEIAQGDRL*
+>P1;gi|42951074|gb|EAB42511.1| unknown [environmental sequence] [ score 71 E 6e-12 ] [ range 10 .. 56 ]
+sequence
+LRVDRWLWTARFFKTRSLAKSAIENGKIELNGNRI-KASKEIAQGDLL*
+>P1;gi|23120571|ref|ZP_00103183.1| COG1188: Ribosome-associated heat... [ score 70 E 1e-11 ] [ range 22 .. 65 ]
+sequence
+VRLDLWLWAARFYKTRSLARQAVETGKVEVGGQRA-KASRAVRAG---*
+>P1;gi|44635920|gb|EAK64392.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 8 .. 55 ]
+sequence
+VRIDKWLWWARFFKTRSLSTKIITKGAVRVNSRRA-KPSIEIKVNDVL*
+>P1;gi|43813270|gb|EAF61166.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 7 .. 49 ]
+sequence
+----QWLWAARLTKTRALARDLIQAGKVHYNGQKS-KPGKIVEPGAAI*
+>P1;gi|43436446|gb|EAD73954.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 3 .. 49 ]
+sequence
+LRVDKWLYYTRFYKTRGLAAKAANGGHVRINGTKA-KPSSTLKTDDVV*
+>P1;gi|43169483|gb|EAC50320.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 10 .. 56 ]
+sequence
+VRLDRWLWAARFFKTRAEAVEAVRAGHVLLNDHRT-RSAKSIRCNDRL*
+>P1;gi|42969887|gb|EAB51912.1| unknown [environmental sequence] [ score 67 E 8e-11 ] [ range 4 .. 50 ]
+sequence
+VRLDRWLWATRIFKTRSLSTDACKRNWVKVNDQLA-KPSRYLRVGDIL*
+>P1;gi|43126805|gb|EAC29240.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 7 .. 54 ]
+sequence
+IRLDKWLWQARFFKSRTLARKICAGGKVRVGGEVV-KAHYVVRVGDVL*
+>P1;gi|29349995|ref|NP_813498.1| conserved hypothetical protein [Bac... [ score 66 E 3e-10 ] [ range 5 .. 50 ]
+sequence
+-RIDKWMWAVRIFKTRTIAAEACKMNRVTINGAYV-KASRMIKPGDVV*
+>P1;gi|25028578|ref|NP_738632.1| conserved hypothetical protein [Cor... [ score 65 E 6e-10 ] [ range 9 .. 55 ]
+sequence
+VRIDAWVWAVRLYKTRSDAATACRAGHVKLNGQAV-KPAQQVVPGDRV*
+>P1;gi|43233605|gb|EAC82405.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 1 .. 47 ]
+sequence
+MRLDRWLWSSRQFKTRSLATDACKRNWVKVNDGPA-KPSKPIRIGDVL*
+>P1;gi|23018184|ref|ZP_00057903.1| COG1188: Ribosome-associated heat... [ score 63 E 2e-09 ] [ range 31 .. 76 ]
+sequence
+-RVDRWLWAVRLTKTRSDAAQACRAGHVRVNDKPA-KPATSVKVGDRV*
+>P1;gi|19553322|ref|NP_601324.1| ribosome-associated heat shock prot... [ score 63 E 2e-09 ] [ range 9 .. 55 ]
+sequence
+VRIDAWVWAVRLYKTRSEAAEACRAGHVKLNNNAV-KPAQQVVPGDRV*
+>P1;gi|23015528|ref|ZP_00055301.1| COG1188: Ribosome-associated heat... [ score 62 E 3e-09 ] [ range 5 .. 52 ]
+sequence
+IRLDKWLFFCRFFKSRALAANVVESGAVRLNGAPV-KPAHGVRPGDRV*
+>P1;gi|38234151|ref|NP_939918.1| Putative RNA-binding heat shock pro... [ score 59 E 3e-08 ] [ range 8 .. 54 ]
+sequence
+VRIDVWVWAVRLLKTRSLSAQACKAGHIKLNGVAV-KPSQLVTPGDRV*
+>P1;gi|43307681|gb|EAD19628.1| unknown [environmental sequence] [ score 58 E 4e-08 ] [ range 19 .. 66 ]
+sequence
+IRLDTWLWYARFYKSRSLSSKAILSGKLRVNSNKI-KPASKVKINDVL*
+>P1;gi|42977620|gb|EAB55757.1| unknown [environmental sequence] [ score 58 E 8e-08 ] [ range 7 .. 54 ]
+sequence
+LRVDKWLWYARFFKTRSSATRYVNSGHLRINSSRV-KANSLVKSGDIL*
+>P1;gi|43425872|gb|EAD70518.1| unknown [environmental sequence] [ score 57 E 9e-08 ] [ range 3 .. 50 ]
+sequence
+IRLDTWLWYARFYKSRSLSSKAILSGKLRVNSNKI-KPASKVKISDVL*
+>P1;gi|43939711|gb|EAG25271.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 9 .. 56 ]
+sequence
+IRVDKWLWHARFFKSRTLAAKLAGSGKLRVNREIV-KPGATVKPGDVL*
+>P1;gi|15967012|ref|NP_387365.1| HYPOTHETICAL HEAT SHOCK-LIKE PROTEI... [ score 57 E 1e-07 ] [ range 14 .. 60 ]
+sequence
+-RLDKWLFFARLIKSRSLAQKAIEAGHVAVNGKRT-QSSAQIKAGDML*
+>P1;gi|23121662|ref|ZP_00103886.1| COG1188: Ribosome-associated heat... [ score 55 E 6e-07 ] [ range 4 .. 50 ]
+sequence
+MRIDKYLKVSRLIKRRTVAKDICEGEKIRLNGRIA-KPSAEVKPGDIV*
+>P1;gi|15890001|ref|NP_355682.1| AGR_C_4991p [Agrobacterium tumefaci... [ score 55 E 6e-07 ] [ range 14 .. 60 ]
+sequence
+-RLDKWLFFARMAKSRSLAQSYIQSGHVKVNGATI-RPSHMLKAGDRL*
+>P1;gi|16124909|ref|NP_419473.1| S4 domain protein [Caulobacter cres... [ score 54 E 1e-06 ] [ range 12 .. 63 ]
+sequence
+VRADVWLWRARFFKTRSLAAKFVDEGRIRLTRAGT-KPSRTVKPGDVL*
+>P1;gi|23004558|ref|ZP_00047827.1| COG1188: Ribosome-associated heat... [ score 53 E 1e-06 ] [ range 14 .. 61 ]
+sequence
+-RLDKWLWFARFARTRSMGPASFTDGHVRVNGTRA-EPAKAVHCGDVL*
+>P1;gi|32267201|ref|NP_861233.1| conserved hypothetical protein [Hel... [ score 53 E 1e-06 ] [ range 1 .. 47 ]
+sequence
+MRIDKFLSSVNILKRRKLAQDMCENGVITINNIIA-KPSKEVRIGDII*
+>P1;gi|15612383|ref|NP_224036.1| putative [Helicobacter pylori J99] ... [ score 53 E 1e-06 ] [ range 1 .. 47 ]
+sequence
+MRIDKFLQSVGLVKRRVLATDMCNVGAVWLNGSCA-KPSKEVKTGDVI*
+>P1;gi|18311460|ref|NP_563394.1| conserved hypothetical protein [Clo... [ score 53 E 2e-06 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKVSRIIKRRTVAKEACESGRVIINGKVA-KPSNDIKEGDII*
+>P1;gi|43583854|gb|EAE46772.1| unknown [environmental sequence] [ score 52 E 4e-06 ] [ range 2 .. 40 ]
+sequence
+-RLDLWLWFARFFKSRTLATRFVQSGRLRVNGQII-KKAHH-------*
+>P1;gi|16077127|ref|NP_387940.1| similar to hypothetical proteins [B... [ score 51 E 7e-06 ] [ range 1 .. 47 ]
+sequence
+MRLDKFLKVSRLIKRRTLAKEVADQGRISINGNQA-KASSDVKPGDEL*
+>P1;gi|15896457|ref|NP_349806.1| Predicted RNA-binding protein, YABO... [ score 50 E 1e-05 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKVSRIIKRRTVAKEACESGRVSINGKVA-KPGTDVEEDDII*
+>P1;gi|15646032|ref|NP_208214.1| conserved hypothetical protein [Hel... [ score 50 E 1e-05 ] [ range 1 .. 47 ]
+sequence
+MRIDKFLQSVGLVKRRVLATDMCNVGAVWLNGSCA-KASKEVKAGDTI*
+>P1;gi|28377426|ref|NP_784318.1| unknown [Lactobacillus plantarum WC... [ score 50 E 2e-05 ] [ range 3 .. 49 ]
+sequence
+MRLDKFLKVSRIIKRRSVAKEIADKGRIQINGKVA-KSSSNVSVDDEL*
+>P1;gi|20808809|ref|NP_623980.1| Ribosome-associated heat shock prot... [ score 50 E 2e-05 ] [ range 4 .. 50 ]
+sequence
+LRVDKFLKVSRLIKRRTVAKEACDKGLVFINGKQA-KGSDQVKEGDIL*
+>P1;gi|23003350|ref|ZP_00047015.1| COG1188: Ribosome-associated heat... [ score 49 E 3e-05 ] [ range 12 .. 58 ]
+sequence
+MRIDKFLKVSRLVKRRTVAKEMADQGRVKVNERVV-KSSYDVKVGDVI*
+>P1;gi|23502626|ref|NP_698753.1| S4 domain protein [Brucella suis 13... [ score 48 E 4e-05 ] [ range 23 .. 69 ]
+sequence
+-RIDKWLFFARVVKSRSLAAKLAVGGKVRVNRDKI-QAAYQVKVGDVL*
+>P1;gi|21398020|ref|NP_654005.1| S4, S4 RNA-binding domain [Bacillus... [ score 48 E 6e-05 ] [ range 1 .. 47 ]
+sequence
+MRLDKFLKVSRLIKRRTLAKEVADQGRISINGQVA-KASSDVKVADEL*
+>P1;gi|15612636|ref|NP_240939.1| BH0073~unknown conserved protein [B... [ score 48 E 7e-05 ] [ range 1 .. 47 ]
+sequence
+MRLDKFLKVSRLIKRRTLAKEVCEQGRITVNGNVA-KAGTVVKEGDEL*
+>P1;gi|29374900|ref|NP_814053.1| S4 RNA-binding domain protein [Ente... [ score 48 E 8e-05 ] [ range 1 .. 47 ]
+sequence
+MRLDKFLKVSRIIKRRTVAKEVADKGRIQINGVLA-KSSSTVKIGDLV*
+>P1;gi|19703372|ref|NP_602934.1| Heat shock protein 15 [Fusobacteriu... [ score 48 E 8e-05 ] [ range 1 .. 47 ]
+sequence
+MRLDKFLKVSRIIKRRPIAKLVVDGGKVKLDGKVV-KAAAEVKVGQIL*
+>P1;gi|23036829|ref|ZP_00069049.1| COG1188: Ribosome-associated heat... [ score 48 E 8e-05 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKVSRLIKRRTLAKEFADQGRVTINGKIS-KSSGNVGVGDIL*
+>P1;gi|45533310|ref|ZP_00184301.1| hypothetical protein Exigu027801 ... [ score 47 E 9e-05 ] [ range 1 .. 47 ]
+sequence
+MRLDKFLKVSRLIKRRTLAKEVADQGRIKINGLVA-KASSTVAVGDEM*
+>P1;gi|44599606|gb|EAK38490.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 7 .. 53 ]
+sequence
+-RIDNWLYRLRFTKTRAISQNIIKDGNVRINKFKI-KPSIKIKFGDII*
+>P1;gi|43259487|gb|EAC95422.1| unknown [environmental sequence] [ score 47 E 1e-04 ] [ range 17 .. 63 ]
+sequence
+-RIDNWLYRLRFAKTRGAAQKIIKDGKVRINKIKI-KPSNKIKYGDII*
+>P1;gi|24378539|ref|NP_720494.1| conserved hypothetical protein [Str... [ score 47 E 1e-04 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKVSRIIKRRSVAKEVSDKGRIKVNGILA-KSSTDLKINDTI*
+>P1;gi|27469195|ref|NP_765832.1| conserved hypothetical protein [Sta... [ score 47 E 2e-04 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKVSRLVKRRTLAKEISDQGRVTVNGNVA-KAGTDIKENDEL*
+>P1;gi|19745207|ref|NP_606343.1| conserved hypothetical protein [Str... [ score 47 E 2e-04 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKVSRLIKRRSVAKEVADKGRIKVNGILA-KSSTNVKLNDHI*
+>P1;gi|15671997|ref|NP_266171.1| hypothetical protein L1001 [Lactoco... [ score 47 E 2e-04 ] [ range 17 .. 63 ]
+sequence
+MRLDKFLKVSRLIKRRPVAKEVADKGRIKINGKLA-KSSSDVKFNDTI*
+>P1;gi|42518365|ref|NP_964295.1| hypothetical protein LJ0278 [Lactob... [ score 46 E 2e-04 ] [ range 1 .. 47 ]
+sequence
+MRIDKFLKVSRLVKRRTVAKEMADQGRVKVNDRVV-KSSYDVKLDDVI*
+>P1;gi|16799325|ref|NP_469593.1| highly similar to B. subtilis YabO ... [ score 46 E 2e-04 ] [ range 5 .. 51 ]
+sequence
+MRLDKYLKVSRLIKRRTVAKEVAEKGRIAVNGVTA-KPGTNVKSGDEL*
+>P1;gi|34558439|ref|NP_908254.1| conserved hypothetical protein [Wol... [ score 46 E 2e-04 ] [ range 1 .. 47 ]
+sequence
+MRIDKFLNSVNIVKRRTIAQDMIASGVVFIQGVAV-KASREVRVGDVI*
+>P1;gi|15792021|ref|NP_281844.1| hypothetical protein Cj0667 [Campyl... [ score 46 E 2e-04 ] [ range 1 .. 47 ]
+sequence
+MRVDKFLNVVNITKRRAISEDMCKSGVVGINGVIV-KASKEVKVDDII*
+>P1;gi|44078612|gb|EAH01063.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 11 .. 58 ]
+sequence
+IRLDQYLYYIRLFKSRNLASKFISSNRLRVSGQVT-KPHRLVSTGDIL*
+>P1;gi|21909543|ref|NP_663811.1| conserved hypothetical protein [Str... [ score 46 E 2e-04 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKVSRLIKRRSVAKEVADKGRIKVNGILA-KSSTNIKLNDHI*
+>P1;gi|15899956|ref|NP_344560.1| S4 domain protein [Streptococcus pn... [ score 45 E 3e-04 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKVSRIIKRRTVAKEVADKGRIKVNGILA-KSSTDLKVNDQV*
+>P1;gi|15923496|ref|NP_371030.1| conserved hypothetical protein [Sta... [ score 45 E 4e-04 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKVSRLIKRRTLAKEVSDQGRITINGNVA-KAGSDVKVEDVL*
+>P1;gi|23024557|ref|ZP_00063764.1| COG1188: Ribosome-associated heat... [ score 45 E 4e-04 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKISRLIKRRTVAKEIADQGRISINGKVA-KSSSDVSTNDEL*
+>P1;gi|42897618|gb|EAB15994.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 11 .. 58 ]
+sequence
+LRLDIYLYYIRIFKSRTIATKFVLSSRLRISGQVT-KPHKMISVGDIL*
+>P1;gi|22536195|ref|NP_687046.1| S4 domain protein [Streptococcus ag... [ score 45 E 5e-04 ] [ range 1 .. 47 ]
+sequence
+MRLDKYLKVSRIIKRRPVAKEVADKGRVKVNGVLA-KSSTDLKLNDQV*
+>P1;gi|44236319|gb|EAH86637.1| unknown [environmental sequence] [ score 45 E 6e-04 ] [ range 6 .. 52 ]
+sequence
+-RIDQWLWHVRIFKTRLLSSKSILSGNIEIDQSKI-KKNHVVRVGTKI*
+>P1;gi|44348431|gb|EAI63525.1| unknown [environmental sequence] [ score 44 E 0.001 ] [ range 5 .. 51 ]
+sequence
+-RIDNWLYRIRLAKTRGISQKIIKEGNVRINKCKI-KPSIKIKSGDII*
+>P1;gi|13473301|ref|NP_104868.1| hypothetical protein mlr3853 [Mesor... [ score 44 E 0.001 ] [ range 11 .. 57 ]
+sequence
+-RIDKWLFFSRAVKSRSLAAKLVVAGRVRINDKAA-QASDLVKSGDVL*

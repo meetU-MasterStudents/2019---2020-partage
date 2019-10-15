@@ -1,0 +1,480 @@
+>P1;1dwma
+structureX:1dwm:   1 :A:  69 :A:linum usitatissinum trypsin inhibitor:Linum usitatissimum: -1: -1
+SRRCPGKNAWPELVGKSGNMAAATVERENRNVHAIVLKEGSAMTKDFRCDRVWVIVN-DHGVVTSVPHIT
+*
+>P1;1tin
+structureX:1tin:   1 : :  68 : :trypsin inhibitor V:Cucurbita maxima: -1: -1
+-SSCPGKSSWPHLVGVGGSVAKAIIERQNPNVKAVILEEGTPVTKDFRCNRVRIWVN-KRGLVVSPPRIG
+*
+>P1;1lw6i
+structureX:1lw6:  21 :I:  83 :I:subtilisin-chymotrypsin inhibitor-2A:Hordeum vulgare: 1.50: 16.90
+------KTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMEYRIDRVRLFVD-KLDNIAQVPRVG
+*
+>P1;1csei
+structureX:1cse:   8 :I:  70 :I:subtilisin carlsberg (commercial product):Bacillus subtilis: 1.20: -1
+-------KSFPEVVGKTVDQAREYFTLHYPQYNVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPHVG
+*
+>P1;gi|124120|sp|P16231|ICI1_LYCPE Wound-induced proteinase inhibito... [ score 124 E 6e-28 ] [ range 44 .. 111 ]
+sequence
+--RCKGKQFWPELIGVPALYAKGIIEKENPSITNIILLNGSPVTKDFRCDRVRLFVN-ILGDVVQIPRVT
+*
+>P1;gi|169491|gb|AAA69780.1| proteinase inhibitor I [ score 116 E 1e-25 ] [ range 40 .. 106 ]
+sequence
+--ECNGKQFWPELIGVPTKLAKEIIEKENSLINNVILLNGSPVTMDYRCNRVRLFDN-ILGSVVQIPRV-
+*
+>P1;gi|2129998|pir||S66278 serine proteinase inhibitor - potato (fra... [ score 116 E 1e-25 ] [ range 34 .. 100 ]
+sequence
+--ECNGKLSWPELIGVPAHYAKGIIEKENSLITNVILLNGSPVTMDYRCNRVRLFDN-ILGDVVQIPRV-
+*
+>P1;gi|124130|sp|P08454|ICID_SOLTU Wound-induced proteinase inhibito... [ score 116 E 2e-25 ] [ range 40 .. 106 ]
+sequence
+--ECNGKQRWPELIGVPTKLAKGIIEKENSLITNVILLNGSPVTMDYRCNRVRLFDN-ILGDVVQIPRV-
+*
+>P1;gi|124119|sp|P05118|ICI1_LYCES Wound-induced proteinase inhibito... [ score 115 E 4e-25 ] [ range 45 .. 111 ]
+sequence
+---CEGKQMWPELIGVPTKLAKEIIEKENPSITNIILLSGSPITLDYLCDRVRLFDN-ILGFVVQMPVVT
+*
+>P1;gi|22759723|dbj|BAC10910.1| protease inhibitor 2 [Zinnia elegans] [ score 114 E 5e-25 ] [ range 1 .. 67 ]
+sequence
+--ECKGKSSWPELVGEKGEAARLTIEKENPLVNAIVLLDGTGVTKDFRCDRVWVWVN-SKGIVIRTPIIT
+*
+>P1;gi|124126|sp|P01052|ICIA_SOLTU Chymotrypsin inhibitor I, A, B an... [ score 109 E 2e-23 ] [ range 4 .. 70 ]
+sequence
+--ECDGKLQWPELIGVPTKLAKEIIEKQNSLISNVILLNGSPVTMDFRCNRVRLFDD-ILGSVVQIPRV-
+*
+>P1;gi|2129494|pir||S66650 proteinase inhibitor BWI-1 - common buckw... [ score 107 E 9e-23 ] [ range 2 .. 68 ]
+sequence
+-RQCSGKQEWPELVGERGSKAAKIIENENEDVRAIVLPEGSAVPRDLRCDRVWVFVD-ERGVVVDTPVV-
+*
+>P1;gi|6453287|emb|CAB61327.1| trypsin inhibitor [Amaranthus hypocho... [ score 106 E 1e-22 ] [ range 8 .. 76 ]
+sequence
+ARECPGKQEWPELVGEYGYKAAAIIERENPNVRSIVKHERSGFTKDFRCDRVWVVVD-STGVVVRTPRVT
+*
+>P1;gi|37359345|gb|AAN85825.1| protease inhibitor [Vitis vinifera] [ score 105 E 3e-22 ] [ range 2 .. 70 ]
+sequence
+ASECEGKSSWPELVGVQGEVAAETIKRENPHITTVILLEGTIVTQDFYCTRVRVWVD-ENGIVISVPTI-
+*
+>P1;gi|37901103|gb|AAP46156.1| protease inhibitor protein 1 [Hevea b... [ score 100 E 1e-20 ] [ range 2 .. 69 ]
+sequence
+ASQCPVKDAWPELVGTNGDIAAGIIQTENANVKAIVVKEGLPITQDLNFNRVRVFVD-ENRVVTQVPAI-
+*
+>P1;gi|1836151|gb|AAB46905.1| BTI-1=7.634 kda trypsin inhibitor isof... [ score 100 E 1e-20 ] [ range 2 .. 68 ]
+sequence
+-RQSCGKQEWPELVGERGSKAAKIIENENEDVRAIVLPEGSAVPRDLLCDRVDVFVD-ERGVVVDTPVV-
+*
+>P1;gi|100436|pir||S07233 chymotrypsin inhibitor I chain B - potato [ score 99 E 2e-20 ] [ range 3 .. 83 ]
+sequence
+--ECKGKLQWPELIGVPTKLAKGIIEKQNSLITNVILLNGSPVTMDYRCNRVRLFDD-ILGYVVQIPRV-
+*
+>P1;gi|282972|pir||S27217 chymotrypsin inhibitor I chain C - potato [ score 96 E 1e-19 ] [ range 4 .. 84 ]
+sequence
+--ECKGKLQWPELIGVPTKLAKGIIEKQNSLITNVILLNGSPVTMDYRCNRVRLFDN-ILGNVVQIPRV-
+*
+>P1;gi|282973|pir||S27218 chymotrypsin inhibitor I chain D - potato [ score 95 E 4e-19 ] [ range 4 .. 84 ]
+sequence
+--ECNGKLQWPELIGVPTKLAKGIIEKQNSLITNVILKNGSPVTMDYRCNRVRLFDN-ILGNVVQIPRV-
+*
+>P1;gi|541828|pir||JQ2385 trypsin inhibitor - prince's feather (frag... [ score 95 E 5e-19 ] [ range 1 .. 71 ]
+sequence
+ARECPGKQEWPELVGEYGYKAAAIIERENPNVRDIVKHERSGFTKDFRCDRVWVVVD-YTGVVVRTPRVT
+*
+>P1;gi|15239905|ref|NP_199170.1| serine protease inhibitor, potato i... [ score 84 E 6e-16 ] [ range 2 .. 61 ]
+sequence
+------KSSWPELVGRRGEEVKEIIDRENTKVTAKIISENAVVLAVVICDRVYVRVN-DQGIVTRTP---
+*
+>P1;gi|2118425|pir||S61830 subtilisin/chymotrypsin inhibitor - maize... [ score 79 E 3e-14 ] [ range 3 .. 72 ]
+sequence
+STECGGKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVD----IVAQTPHI-
+*
+>P1;gi|20513870|gb|AAM22831.1| CI2B [Hordeum vulgare] [ score 74 E 8e-13 ] [ range 8 .. 76 ]
+sequence
+TTRCPAKSSWPELVGKSIEDAREVILKDMPEADIKVLPANSVVAADWRSNRVRVLVD----TVATTPHI-
+*
+>P1;gi|14719327|gb|AAK73145.1| putative proteinase inhibitor [Oryza ... [ score 73 E 2e-12 ] [ range 6 .. 70 ]
+sequence
+-RSAAAKRSWPEVVGMTMEEAKAAILKDKPDADIVVLPVGAPMTRDLRPNRVRIF---GSATVAETPRV-
+*
+>P1;gi|7438245|pir||T06181 subtilisin-chymotrypsin inhibitor 2 - bar... [ score 68 E 5e-11 ] [ range 2 .. 67 ]
+sequence
+SKSCDGKTEWPELVGCTIKEAKEKIKADRPDLKVVIVPVGSIVTQEIDLNRVRVWVD----KVAKVPKI-
+*
+>P1;gi|224447|prf||1105220A inhibitor,subtilisin [ score 66 E 2e-10 ] [ range 1 .. 61 ]
+sequence
+------RTSWPELVGVSAEEARKIKE-EKPEAEIQVVPQGSFVTADYKFQRVRLYVD-ESNKVVRAAPI-
+*
+>P1;gi|124131|sp|P08820|ICIS_VICFA Subtilisin inhibitor >gi|100106|p... [ score 64 E 8e-10 ] [ range 1 .. 61 ]
+sequence
+------RTSWPELVGVSAEEARKIKE-EMPEAEIQVVPQDSFVTADYKFQRVRLYVD-ESNKVVRAAPI-
+*
+>P1;gi|41053029|dbj|BAD07960.1| hypothetical protein [Oryza sativa (... [ score 54 E 9e-07 ] [ range 5 .. 69 ]
+sequence
+------KVRWAEVLGELAPLAVTQISNDRPDVAVEVLLRAAVVSPEFNPKRVRVFVD-NNFIVVKVPVIS
+*
+>P1;gi|20513871|gb|AAM22832.1| CI2A [Hordeum vulgare] [ score 45 E 4e-04 ] [ range 8 .. 49 ]
+sequence
+TTRCPAKSSWAELVGKSIEDARKVILKDMPEADIKVLP--------------------------------
+*
+>P1;gi|26224744|gb|AAN76363.1| type I proteinase inhibitor-like prot... [ score 115 E 4e-25 ] [ range 63 .. 128 ]
+sequence
+---CPRKSSWPELVGKNGEVAAAIIEKENPCVHAIVLLEGTPVTKDYRIDRVRVWVN-KKGKVIRVPRIG
+*
+>P1;gi|266330|sp|Q00783|ICI1_SOLTU Proteinase inhibitor I precursor ... [ score 111 E 5e-24 ] [ range 40 .. 107 ]
+sequence
+--QCKGKLRWPELIGVPTKLAKGIIEKENSLISNVILLNGSPVTLDIRCDRVRLFDN-ILGYVVDIPVVG
+*
+>P1;gi|124192|sp|P20076|IER1_LYCES Ethylene-responsive proteinase in... [ score 110 E 7e-24 ] [ range 49 .. 119 ]
+sequence
+-SFCPGKESWPELLGTPAKFAKQIIQKENPKLTNVTLLNGSAFTEDLRCNRVRLFVN-LLDIVVQTPKVG
+*
+>P1;gi|42795394|gb|AAS46024.1| serine protease inhibitor [Solanum tu... [ score 110 E 1e-23 ] [ range 4 .. 71 ]
+sequence
+--QCNGKLSWPELIGVPTKLAKGIIEKENSLISNVILLNGSPVTLDFHCDRVRLFDN-ILGDVVQIPVVG
+*
+>P1;gi|18404883|ref|NP_030435.1| protease inhibitor, putative [Arabi... [ score 108 E 4e-23 ] [ range 3 .. 70 ]
+sequence
+-TECPRKNSWPELTGTNGDYAAVVIERENPTVNAAVILDGSPVTADFRCDRVRVFVD-GNRIVVKTPKSG
+*
+>P1;gi|114950|sp|P24076|BGIA_MOMCH Glu S.griseus protease inhibitor ... [ score 107 E 6e-23 ] [ range 1 .. 68 ]
+sequence
+-SQCQGKRSWPQLVGSTGAAAKAVIERENPRVRAVIVRVGSPVTADFRCDRVRVWVT-ERGIVARPPAIG
+*
+>P1;gi|1084325|pir||JC2508 trypsin inhibitor BGIT - balsam pear >gi|... [ score 107 E 9e-23 ] [ range 1 .. 68 ]
+sequence
+-SRCQGKSSWPQLVGSTGAAAKAVIERENPRVRAVIIKVGSGATKDFRCDRVRVWVT-ERGIVARPPTIG
+*
+>P1;gi|547733|sp|Q03199|IPIB_TOBAC Proteinase inhibitor I-B precurso... [ score 106 E 2e-22 ] [ range 37 .. 107 ]
+sequence
+-SGCPGKERWPELLGTPAKFAMQIIQKENPKLTNVTVLNGTPVTEDLRCNRVRLFVN-VLDFVVQTPQVG
+*
+>P1;gi|547743|sp|Q02214|ITR1_NICSY Trypsin inhibitor I precursor (NS... [ score 105 E 2e-22 ] [ range 24 .. 94 ]
+sequence
+-SSCPGKETWPELIGVPAKFAREIIQKENSKLTNVSVLNGSPVTKDFRCERVRLFVN-VLDFVVQIPRVG
+*
+>P1;gi|218290|dbj|BAA02823.1| genetic tumor-related proteinase inhib... [ score 103 E 7e-22 ] [ range 24 .. 94 ]
+sequence
+-SICPGKETWPELIGVPAKLARETIQKENSKLTNVSVLNGSPVTQDLRCDRVRLFVN-LLDIVVQIPRVG
+*
+>P1;gi|547732|sp|Q03198|IPIA_TOBAC Proteinase inhibitor I-A precurso... [ score 103 E 9e-22 ] [ range 37 .. 107 ]
+sequence
+-SGCPGKERWPELLGTPAKFAMQIIQKENPKLTNVTILNGGPVTEDLRCNRVRLFVN-VLDFIVQTPQIG
+*
+>P1;gi|603890|emb|CAA87073.1| pathogenesis-related protein PR-6 type... [ score 100 E 7e-21 ] [ range 16 .. 79 ]
+sequence
+-----GKNTWPELCGARGEEAAATVETENPSVTAVIVPEGSIVTTDERCDRVRVWVD-ENGIVTRVPVIG
+*
+>P1;gi|15239918|ref|NP_199171.1| protease inhibitor, putative [Arabi... [ score 100 E 1e-20 ] [ range 3 .. 72 ]
+sequence
+-SICPGKSSWPELLGAKGEDAKEVIERENPKMKAVIILDGTVVPEIFICSRVYVWVN-DCGIVVQIPIIG
+*
+>P1;gi|15341493|gb|AAK95644.1| proteinase inhibitor [Ipomoea batatas] [ score 100 E 1e-20 ] [ range 6 .. 70 ]
+sequence
+----DGKSSWPELVGVDAFLAKSTIEKENSDLYVVFLFQGCPETREYIFDRVRLIVD-CSNVVIRTPSIG
+*
+>P1;gi|22759721|dbj|BAC10909.1| protease inhibitor 1 [Zinnia elegans] [ score 98 E 5e-20 ] [ range 1 .. 67 ]
+sequence
+---CKGKRSWPELVGARGTTAEARFERENPRVNAIVVVEGRDVTADFRCDRVWVWVN-SNGVVLRTPSIG
+*
+>P1;gi|688425|dbj|BAA05472.1| tumor-related protein [Nicotiana glauc... [ score 96 E 2e-19 ] [ range 1 .. 64 ]
+sequence
+------KETWPELIGVPAKFAREIIQKENPKLTNVSVLNGSPVTKDFRCNRVRLFVN-VLDVVVQIPRVG
+*
+>P1;gi|18202439|sp|P82977|ICIW_WHEAT Subtilisin-chymotrypsin inhibit... [ score 96 E 2e-19 ] [ range 10 .. 72 ]
+sequence
+------KTEWPELVGKSVEEAKKVILQDKSEAQIVVLPVGTIVTMEYRIDRVRLFVD-SLDKIAQVPRVG
+*
+>P1;gi|14718449|gb|AAK72906.1| proteinase inhibitor SPLTI-2 [Ipomoea... [ score 95 E 5e-19 ] [ range 6 .. 70 ]
+sequence
+----DGTSSWPELVGVDAFLAKSTIEKENSDLYVVFLFQGCPETREYVFNRVRLIVD-CSNVVIRTPVIG
+*
+>P1;gi|1361981|pir||S55592 trypsin inhibitor - winter squash >gi|887... [ score 94 E 1e-18 ] [ range 4 .. 67 ]
+sequence
+------KLSWPELVGKDGEEAVKIIQQENPSLDVILMPRGQNATKDYRPNRVRVFND-DSGKVNSIPRIG
+*
+>P1;gi|14718447|gb|AAK72905.1| proteinase inhibitor SPLTI-1 [Ipomoea... [ score 92 E 2e-18 ] [ range 6 .. 71 ]
+sequence
+----DGKSSWPELVGVDAFLAKSTIEKENSDLFVVFLFQGCPESREYIFDRVRLIVD-CSNVVIRTPSIG
+*
+>P1;gi|494716|pdb|1YPC|I Chain I, Chymotrypsin Inhibitor 2 (Ci2) Mut... [ score 92 E 2e-18 ] [ range 2 .. 64 ]
+sequence
+------KTEWPELVGKSVAAAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVD-KLDNIAQVPRVG
+*
+>P1;gi|20513869|gb|AAM22830.1| CI2C [Hordeum vulgare] [ score 92 E 3e-18 ] [ range 15 .. 74 ]
+sequence
+------KTSWPEVVGKSIEEAKEIILKDMPEADIVVLPAGSPVTLDFRTNRVRIFVD----TVASIPHIG
+*
+>P1;gi|20513865|gb|AAM22826.1| CI2F [Hordeum vulgare] [ score 92 E 3e-18 ] [ range 22 .. 84 ]
+sequence
+------KTEWPELVGKSVQEAKKVILQDKPEAQIIVLPMGTIVTIEYRIDHVRLFVD-RLDNIAQVPRVG
+*
+>P1;gi|15232657|ref|NP_190270.1| serine protease inhibitor, potato i... [ score 92 E 4e-18 ] [ range 23 .. 85 ]
+sequence
+------KYRWPELVGKNGQLAKMTIERENPNVLAIVLRYGEKRIENFCCNRVFVYLG-SNGQVADAPMIG
+*
+>P1;gi|15667361|emb|CAB71340.2| putative proteinase inhibitor [Horde... [ score 91 E 5e-18 ] [ range 15 .. 74 ]
+sequence
+------KTSWPEVAGKSIEEAKEIILKDMPEADIVVLPAGSPVTLDFRTNRVRIFVD----TVASTPHIG
+*
+>P1;gi|124123|sp|P08626|ICI3_HORVU Subtilisin-chymotrypsin inhibitor... [ score 91 E 5e-18 ] [ range 10 .. 72 ]
+sequence
+------KTEWPELVEKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVD-RLDNIAQVPRVG
+*
+>P1;gi|1361980|pir||S55591 chymotrypsin inhibitor - winter squash >g... [ score 91 E 8e-18 ] [ range 4 .. 67 ]
+sequence
+------KSSWPELVGEDGEEAVKIIQQENPSLDVILMPRGQNATLDCRPNRVRVFND-ESGKVNSIPRIG
+*
+>P1;gi|18404890|ref|NP_030438.1| serine protease inhibitor, potato i... [ score 90 E 8e-18 ] [ range 10 .. 73 ]
+sequence
+-----GKNSWPELLGTNGDYAASVIKGENSSLNVVVVSDGNYVTEDLSCYRVRVWVD-EIRIVVRNPTAG
+*
+>P1;gi|42408695|dbj|BAD09914.1| hypothetical protein [Oryza sativa (... [ score 90 E 1e-17 ] [ range 4 .. 66 ]
+sequence
+------KSSWPELVGVLATLAATQIGKDRPDVAVEVLPPGAPLTPDFNDKRVRVFMD-DNGIVFKIPVIG
+*
+>P1;gi|24636910|sp|P83472|ICI_LUMTE Chymotrypsin inhibitor (LTCI) [ score 90 E 2e-17 ] [ range 2 .. 64 ]
+sequence
+------KTSWPELVGETLEEAKAQILEDRPDAVIKVQPEHSPVTYDYRPSRVIIFVN-KDGNVAETPAAG
+*
+>P1;gi|20513866|gb|AAM22827.1| CI2E [Hordeum vulgare] [ score 87 E 7e-17 ] [ range 10 .. 72 ]
+sequence
+--ECK-KTSWPEVVGLTIKEAKEIILKDKPEADIVVVPVGSAVTEDFRPNRVRIFV----GTVVETPHVG
+*
+>P1;gi|124121|sp|P16064|ICI1_PHAAN Subtilisin inhibitor I (ASI-I) [C... [ score 80 E 2e-14 ] [ range 28 .. 92 ]
+sequence
+----PTKTSWPELVGVTAEQAETKIKEEMVDVQIQVSPHDSFVTADYNPKRVRLYVD-ESNKVTRTPSIG
+*
+>P1;gi|442739|pdb|1CIS|  Hybrid Protein Formed From Chymotrypsin Inh... [ score 75 E 4e-13 ] [ range 2 .. 66 ]
+sequence
+------KTEWPELVGKSVEEAKKVILQDKPEAQIIVLEKQAVAYAEYRIDRVRLAVD-KLDNIAQVPRVG
+*
+>P1;gi|20513868|gb|AAM22829.1| CI2D [Hordeum vulgare] [ score 73 E 2e-12 ] [ range 15 .. 74 ]
+sequence
+------KSSWPELVGKSIEDAREVILKDMPEVDIEVHPTDSVVSADWRSNRVRILVD----TVATTPHIG
+*
+>P1;gi|37904392|gb|AAR04781.1| serine proteinase inhibitor [Brachypo... [ score 72 E 3e-12 ] [ range 12 .. 69 ]
+sequence
+--------SWPEVVGLSIKEAKKVILKDKPDADIVALPVGGKVTDDFLSNRVRIFVD-TGG---EIPRAG
+*
+>P1;gi|224447|prf||1105220A inhibitor,subtilisin [ score 72 E 4e-12 ] [ range 1 .. 62 ]
+sequence
+------RTSWPELVGVSAEEARK-IKEEKPEAEIQVVPQGSFVTADYKFQRVRLYVD-ESNKVVRAAPIG
+*
+>P1;gi|226581|prf||1602257B chymotrypsin inhibitor 1B [ score 70 E 1e-11 ] [ range 25 .. 83 ]
+sequence
+------KRSWPEVVGMSAEKAKEIILRDKPDAQIEVIPVDAMVPLDFNPNRIFILV-----AVARTPTVG
+*
+>P1;gi|124125|sp|P16062|ICIA_HORVU Subtilisin-chymotrypsin inhibitor... [ score 70 E 2e-11 ] [ range 25 .. 83 ]
+sequence
+------KTSWPEVVGMSAEKAKEIILRDKPNAQVEVIPVDAMVHLNFDPNRVFVLV-----AVARTPTVG
+*
+>P1;gi|124131|sp|P08820|ICIS_VICFA Subtilisin inhibitor >gi|100106|p... [ score 68 E 4e-11 ] [ range 1 .. 62 ]
+sequence
+------RTSWPELVGVSAEEARK-IKEEMPEAEIQVVPQDSFVTADYKFQRVRLYVD-ESNKVVRAAPIG
+*
+>P1;gi|124129|sp|P01054|ICIC_HORVU Subtilisin-chymotrypsin inhibitor... [ score 67 E 1e-10 ] [ range 15 .. 71 ]
+sequence
+------KTSWPEVVGMSAEKAKEIILRDKPNAQIEVIPVDAMVPLNFNPNRVFVLVH-KATTVA------
+*
+>P1;gi|34912650|ref|NP_917672.1| P0410E01.29 [Oryza sativa (japonica... [ score 65 E 3e-10 ] [ range 8 .. 66 ]
+sequence
+-------TEWPELVGLTIEQAKAKIKADRPDLQVEVLPVGTIILGVVVPNRVILWVD----TVAEIPKIG
+*
+>P1;gi|27734408|sp|P81712|ICI1_CANLI Subtilisin inhibitor CLSI-I >gi... [ score 62 E 5e-09 ] [ range 4 .. 65 ]
+sequence
+------KTSWPELVGVT-AEEAEKIKEEMSGVEIQVVPPGSFVTADYKPQRVRLYVD-ESNKVTRTPGIG
+*
+>P1;gi|41053028|dbj|BAD07959.1| hypothetical protein [Oryza sativa (... [ score 60 E 2e-08 ] [ range 6 .. 71 ]
+sequence
+------KASWPEVVGWPATAAVTQINGDRPDVSIEVIPDGATVPPGFDANRVRVFFD-AVGPVMRTPFVG
+*
+>P1;gi|1836153|gb|AAB46907.1| BTI-3=trypsin inhibitor isoform {N-ter... [ score 57 E 9e-08 ] [ range 2 .. 38 ]
+sequence
+--SC-GKQEWPELVGTRGPHAAAIIERENRNVQTAILPEG------------------------------
+*
+>P1;gi|41053031|dbj|BAD07962.1| hypothetical protein [Oryza sativa (... [ score 54 E 8e-07 ] [ range 20 .. 83 ]
+sequence
+------KSSWPELVGWPEFYAALKIIDERPDVTVYMFRDGDDLPPEHDPARVAIFVD-GDIRVSRTPVVG
+*
+>P1;gi|41053032|dbj|BAD07963.1| hypothetical protein [Oryza sativa (... [ score 52 E 3e-06 ] [ range 17 .. 81 ]
+sequence
+------KTAWPEVVGWDGMSAVMKIHRDRADVRVEVHTVGESVPPGFDGERVLVFLN-DDNTVAQTPVVG
+*
+>P1;gi|41053030|dbj|BAD07961.1| hypothetical protein [Oryza sativa (... [ score 52 E 5e-06 ] [ range 14 .. 76 ]
+sequence
+------KTAWPELVGWVELNAAFQINRDRPDVHVAFYMVGTQLPTDHDDLRVIIVSD-AGTVVVRTPVVG
+*
+>P1;gi|7438243|pir||T07153 ethylene-responsive proteinase inhibitor ... [ score 51 E 5e-06 ] [ range 3 .. 43 ]
+sequence
+-----------------------------PKLTNVTLLNGSAFTDDLRSHRVRLFDN-LLDIVVHTPKVG
+*
+>P1;gi|15229660|ref|NP_190571.1| serine protease inhibitor, potato i... [ score 50 E 1e-05 ] [ range 30 .. 96 ]
+sequence
+------KVDWPELNGVKGLEAKRIIEHDNPKVVVVIIPDDVAVLAVNCCNRVIVRVP-VNGPVSNFPHIG
+*
+>P1;gi|124120|sp|P16231|ICI1_LYCPE Wound-induced proteinase inhibito... [ score 106 E 1e-22 ] [ range 48 .. 110 ]
+sequence
+------KQFWPELIGVPALYAKGIIEKENPSTNIPILLNGSPVTKDFRCDRVRLFVN-ILGDVVQIPRV-
+*
+>P1;gi|2129998|pir||S66278 serine proteinase inhibitor - potato (fra... [ score 105 E 3e-22 ] [ range 38 .. 100 ]
+sequence
+------KLSWPELIGVPAHYAKGIIEKENSITNVQILLNGSPVTMDYRCNRVRLFDN-ILGDVVQIPRV-
+*
+>P1;gi|124130|sp|P08454|ICID_SOLTU Wound-induced proteinase inhibito... [ score 104 E 6e-22 ] [ range 44 .. 106 ]
+sequence
+------KQRWPELIGVPTKLAKGIIEKENSITNVQILLNGSPVTMDYRCNRVRLFDN-ILGDVVQIPRV-
+*
+>P1;gi|169491|gb|AAA69780.1| proteinase inhibitor I [ score 103 E 8e-22 ] [ range 44 .. 106 ]
+sequence
+------KQFWPELIGVPTKLAKEIIEKENSLINVQILLNGSPVTMDYRCNRVRLFDN-ILGSVVQIPRV-
+*
+>P1;gi|124192|sp|P20076|IER1_LYCES Ethylene-responsive proteinase in... [ score 101 E 3e-21 ] [ range 56 .. 119 ]
+sequence
+------KESWPELLGTPAKFAKQIIQKENPKTNVETLLNGSAFTEDLRCNRVRLFVN-LLDIVVQTPKVG
+*
+>P1;gi|68798|pir||TIPO1A chymotrypsin inhibitor I chain A - potato [ score 100 E 8e-21 ] [ range 7 .. 69 ]
+sequence
+------KLQWPELIGVPTKLAKEIIEKQNSISNVHILLNGSPVTMDFRCNRVRLFDD-ILGSVVQIPRV-
+*
+>P1;gi|42795394|gb|AAS46024.1| serine protease inhibitor [Solanum tu... [ score 100 E 2e-20 ] [ range 8 .. 71 ]
+sequence
+------KLSWPELIGVPTKLAKGIIEKENSISNVHILLNGSPVTLDFHCDRVRLFDN-ILGDVVQIPVVG
+*
+>P1;gi|124119|sp|P05118|ICI1_LYCES Wound-induced proteinase inhibito... [ score 99 E 2e-20 ] [ range 48 .. 110 ]
+sequence
+------KQMWPELIGVPTKLAKEIIEKENPSTNIPILLSGSPITLDYLCDRVRLFDN-ILGFVVQMPVV-
+*
+>P1;gi|547733|sp|Q03199|IPIB_TOBAC Proteinase inhibitor I-B precurso... [ score 99 E 2e-20 ] [ range 44 .. 107 ]
+sequence
+------KERWPELLGTPAKFAMQIIQKENPKTNVQTVLNGTPVTEDLRCNRVRLFVN-VLDFVVQTPQVG
+*
+>P1;gi|547743|sp|Q02214|ITR1_NICSY Trypsin inhibitor I precursor (NS... [ score 99 E 2e-20 ] [ range 31 .. 94 ]
+sequence
+------KETWPELIGVPAKFAREIIQKENSKTNVPSVLNGSPVTKDFRCERVRLFVN-VLDFVVQIPRVG
+*
+>P1;gi|547732|sp|Q03198|IPIA_TOBAC Proteinase inhibitor I-A precurso... [ score 98 E 4e-20 ] [ range 44 .. 107 ]
+sequence
+------KERWPELLGTPAKFAMQIIQKENPKTNVQTILNGGPVTEDLRCNRVRLFVN-VLDFIVQTPQIG
+*
+>P1;gi|266330|sp|Q00783|ICI1_SOLTU Proteinase inhibitor I precursor ... [ score 97 E 9e-20 ] [ range 44 .. 107 ]
+sequence
+------KLRWPELIGVPTKLAKGIIEKENSISNVHILLNGSPVTLDIRCDRVRLFDN-ILGYVVDIPVVG
+*
+>P1;gi|218290|dbj|BAA02823.1| genetic tumor-related proteinase inhib... [ score 96 E 2e-19 ] [ range 31 .. 94 ]
+sequence
+------KETWPELIGVPAKLARETIQKENSKTNVPSVLNGSPVTQDLRCDRVRLFVN-LLDIVVQIPRVG
+*
+>P1;gi|688425|dbj|BAA05472.1| tumor-related protein [Nicotiana glauc... [ score 94 E 6e-19 ] [ range 1 .. 64 ]
+sequence
+------KETWPELIGVPAKFAREIIQKENPKTNVPSVLNGSPVTKDFRCNRVRLFVN-VLDVVVQIPRVG
+*
+>P1;gi|1361981|pir||S55592 trypsin inhibitor - winter squash >gi|887... [ score 91 E 5e-18 ] [ range 4 .. 67 ]
+sequence
+------KLSWPELVGKDGEEAVKIIQQENPSLDVILMPRGNWATKDYRPNRVRVFND-DSGKVNSIPRIG
+*
+>P1;gi|1361980|pir||S55591 chymotrypsin inhibitor - winter squash >g... [ score 90 E 1e-17 ] [ range 4 .. 67 ]
+sequence
+------KSSWPELVGEDGEEAVKIIQQENPSLDVILMPRGNWATLDCRPNRVRVFND-ESGKVNSIPRIG
+*
+>P1;gi|229773|pdb|1CSE|I Chain I, Subtilisin Carlsberg (E.C.3.4.21.6... [ score 89 E 3e-17 ] [ range 10 .. 71 ]
+sequence
+--------SFPEVVGKTVDQAREYFTLHYPQYNVYFLPEGSPVTLDLRYNRVRVFYN-PGTNVVHVPHVG
+*
+>P1;gi|282972|pir||S27217 chymotrypsin inhibitor I chain C - potato [ score 88 E 6e-17 ] [ range 8 .. 84 ]
+sequence
+------KLQWPELIGVPTKLAKGIIEKQNSITNVQILLNGSPVTMDYRCNRVRLFDN-ILGNVVQIPRV-
+*
+>P1;gi|100436|pir||S07233 chymotrypsin inhibitor I chain B - potato [ score 87 E 1e-16 ] [ range 7 .. 83 ]
+sequence
+------KLQWPELIGVPTKLAKGIIEKQNSITNVHILLNGSPVTMDYRCNRVRLFDD-ILGYVVQIPRV-
+*
+>P1;gi|37359345|gb|AAN85825.1| protease inhibitor [Vitis vinifera] [ score 85 E 6e-16 ] [ range 8 .. 71 ]
+sequence
+------KSSWPELVGVQGEVAAETIKRENPITTVDILLEGTIVTQDFYCTRVRVWVD-ENGIVISVPTIG
+*
+>P1;gi|22759721|dbj|BAC10909.1| protease inhibitor 1 [Zinnia elegans] [ score 77 E 9e-14 ] [ range 4 .. 67 ]
+sequence
+------KRSWPELVGARGTTAEARFERENPRVNAIVVVEGDMVTADFRCDRVWVWVN-SNGVVLRTPSIG
+*
+>P1;gi|41053028|dbj|BAD07959.1| hypothetical protein [Oryza sativa (... [ score 58 E 6e-08 ] [ range 6 .. 71 ]
+sequence
+------KASWPEVVGWPATAAVTQINGDRPDVSIEVIPDGATVPPGFDANRVRVFFN-AGDAVGRTPFVG
+*
+>P1;gi|7438243|pir||T07153 ethylene-responsive proteinase inhibitor ... [ score 54 E 9e-07 ] [ range 6 .. 43 ]
+sequence
+-------------------------------TNVETLLNGSAFTDDLRSHRVRLFDN-LLDIVVHTPKVG
+*
+>P1;gi|15229660|ref|NP_190571.1| serine protease inhibitor, potato i... [ score 46 E 2e-04 ] [ range 30 .. 96 ]
+sequence
+------KVDWPELNGVKGLEAKRIIEHDNPKVVVVIIPDDVAVLAVNCCNRVRVPVN-PNGPVSNFPHIG
+*
+>P1;gi|124122|sp|P01053|ICI2_HORVU Subtilisin-chymotrypsin inhibitor... [ score 92 E 4e-18 ] [ range 25 .. 84 ]
+sequence
+---------WPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNI-AQVPRVG
+*
+>P1;gi|124123|sp|P08626|ICI3_HORVU Subtilisin-chymotrypsin inhibitor... [ score 91 E 9e-18 ] [ range 13 .. 72 ]
+sequence
+---------WPELVEKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNI-AQVPRVG
+*
+>P1;gi|494716|pdb|1YPC|I Chain I, Chymotrypsin Inhibitor 2 (Ci2) Mut... [ score 86 E 1e-16 ] [ range 5 .. 64 ]
+sequence
+---------WPELVGKSVAAAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNI-AQVPRVG
+*
+>P1;gi|20513865|gb|AAM22826.1| CI2F [Hordeum vulgare] [ score 87 E 1e-16 ] [ range 25 .. 84 ]
+sequence
+---------WPELVGKSVQEAKKVILQDKPEAQIIVLPMGTIVTIEYRIDHVRLFVDRLDNI-AQVPRVG
+*
+>P1;gi|18202439|sp|P82977|ICIW_WHEAT Subtilisin-chymotrypsin inhibit... [ score 86 E 3e-16 ] [ range 13 .. 72 ]
+sequence
+---------WPELVGKSVEEAKKVILQDKSEAQIVVLPVGTIVTMEYRIDRVRLFVDSLDKI-AQVPRVG
+*
+>P1;gi|37904392|gb|AAR04781.1| serine proteinase inhibitor [Brachypo... [ score 78 E 4e-14 ] [ range 11 .. 69 ]
+sequence
+-------KSWPEVVGLSIKEAKKVILKDKPDADIVALPVGGKVTDDFLSNRVRIF----VDTGGEIPRAG
+*
+>P1;gi|442739|pdb|1CIS|  Hybrid Protein Formed From Chymotrypsin Inh... [ score 70 E 1e-11 ] [ range 5 .. 66 ]
+sequence
+---------WPELVGKSVEEAKKVILQDKPEAQIIVLEKQAVAYAEYRIDRVRLAVDKLDNI-AQVPRVG
+*
+>P1;gi|224447|prf||1105220A inhibitor,subtilisin [ score 60 E 2e-08 ] [ range 3 .. 60 ]
+sequence
+--------SWPELVGVSAEEARK-IKEEKPEAEIQVVPQGSFVTADYKFQRVRLYVDESNKVVRAAP---
+*
+>P1;gi|124131|sp|P08820|ICIS_VICFA Subtilisin inhibitor >gi|100106|p... [ score 58 E 5e-08 ] [ range 3 .. 60 ]
+sequence
+--------SWPELVGVSAEEARK-IKEEMPEAEIQVVPQDSFVTADYKFQRVRLYVDESNKVVRAAP---
+*
+>P1;gi|169542|gb|AAA72133.1| proteinase inhibitor I [ score 57 E 9e-08 ] [ range 46 .. 105 ]
+sequence
+---------WPELIGVPTKLAKEIIEKENSLINVQILLNGSPVTMDYRCNRVRLFDNILGDVV-QIPRV-
+*
+>P1;gi|2129998|pir||S66278 serine proteinase inhibitor - potato (fra... [ score 56 E 3e-07 ] [ range 40 .. 100 ]
+sequence
+--------SWPELIGVPAHYAKGIIEKENSLTNVQILLNGSPVTMDYRCNRVRLFDNILGDVV-QIPRV-
+*
+>P1;gi|2118424|pir||S06251 proteinase inhibitor I precursor - potato... [ score 56 E 3e-07 ] [ range 47 .. 106 ]
+sequence
+---------WPELIGVPTKLAKGIIEKENSLTNVQILLNGSPVTMDYRSNRVRLFDNILGDVV-QIPRV-
+*
+>P1;gi|124120|sp|P16231|ICI1_LYCPE Wound-induced proteinase inhibito... [ score 55 E 4e-07 ] [ range 51 .. 110 ]
+sequence
+---------WPELIGVPALYAKGIIEKENPSTNIPILLNGSPVTKDFRCDRVRLFVNILGDVV-QIPRV-
+*
+>P1;gi|124126|sp|P01052|ICIA_SOLTU Chymotrypsin inhibitor I, A, B an... [ score 54 E 8e-07 ] [ range 11 .. 70 ]
+sequence
+---------WPELIGVPTKLAKEIIEKQNSLSNVHILLNGSPVTMDFRCNRVRLFDDIL-GSVVQIPRV-
+*
+>P1;gi|547732|sp|Q03198|IPIA_TOBAC Proteinase inhibitor I-A precurso... [ score 52 E 4e-06 ] [ range 47 .. 107 ]
+sequence
+---------WPELLGTPAKFAMQIIQKENPKTNVQTILNGGPVTEDLRCNRVRLFVNVLDFIV-QTPQIG
+*
+>P1;gi|42795394|gb|AAS46024.1| serine protease inhibitor [Solanum tu... [ score 51 E 6e-06 ] [ range 10 .. 71 ]
+sequence
+--------SWPELIGVPTKLAKGIIEKENSLSNVHILLNGSPVTLDFHCDRVRLFDNILGDVV-QIPVVG
+*
+>P1;gi|41053028|dbj|BAD07959.1| hypothetical protein [Oryza sativa (... [ score 49 E 3e-05 ] [ range 8 .. 71 ]
+sequence
+--------SWPEVVGWPATAAVTQINGDRPDVSIEVIPDGATVPPGFDANRVRVFFNAGDAVVMRTPFVG
+*
+>P1;gi|266330|sp|Q00783|ICI1_SOLTU Proteinase inhibitor I precursor ... [ score 48 E 7e-05 ] [ range 47 .. 107 ]
+sequence
+---------WPELIGVPTKLAKGIIEKENSLSNVHILLNGSPVTLDIRCDRVRLFDNIL-GYVVDIPVVG
+*

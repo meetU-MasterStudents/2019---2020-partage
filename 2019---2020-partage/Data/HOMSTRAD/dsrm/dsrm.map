@@ -1,0 +1,1264 @@
+>P1;1qu6a2
+structureX:1qu6:  91 :A: 179 :A:the double-stranded ribonucleic acid-binding domain of the protein kinase pkr:Homo sapiens: -1: -1
+---------LLTTTNSSEGLSMGNYIGLINRIAQKKRLTVNYEQCAS-GVHGPEGFHYKCKMGQKEYSIG
+TGSTKQEAKQLAAKLAYLQILSEETGSG-C*
+>P1;1qu6a1
+structureX:1qu6:   1 :A:  90 :A:the double-stranded ribonucleic acid-binding domain of the protein kinase pkr:Homo sapiens: -1: -1
+GSHMEMAGDL----------SAGFFMEELNTYRQKQGVVLKYQELPNSGPPHDRRFTFQVIIDGREFPEG
+EGRSKKEAKNAAAKLAVEILNKEKKAVSPL*
+>P1;1stu
+structureX:1stu:   1 : :  68 : :maternal effect protein staufen:Drosophila melanogaster: -1: -1
+------------------------PISQVHEIGIKRNMTVHFKVLREEGPAHMKNFITACIVGS-IVTEG
+EGNGKKVSKKRAAEKMLVELQKL-------*
+>P1;gi|30017447|ref|NP_835210.1| protein kinase, interferon-inducibl... [ score 158 E 3e-38 ] [ range 89 .. 173 ]
+sequence
+------------TTNIPEGPPIENYIGRLNTISQKKNLCVTYEECKS-KGDGPEGFHYICKIGQEEYGSG
+VGSTKQEAKQLAAKLAYEKIESETMRDG--*
+>P1;gi|29292936|dbj|BAC66439.1| double stranded RNA-dependent protei... [ score 153 E 9e-37 ] [ range 87 .. 168 ] [ duplicate a ]
+sequence
+----------LPTANPPDRQLTENYIGRINTISQKKNLSVNYEPCEP-GEDGPEKFHYKCKIGRKVYGSG
+VGSTKQEAKQLAAKQAYEKLQSE-------*
+>P1;gi|29292936|dbj|BAC66439.1| double stranded RNA-dependent protei... [ score 153 E 9e-37 ] [ range 10 .. 78 ] [ duplicate b ]
+sequence
+------------------------YIEELNKYQQKNDVILKYELCKT-GPAHNLRFTYQVVIDEKEFPKA
+EGRSKKEAKNAAVKLAFEIINKE-------*
+>P1;gi|9506993|ref|NP_062208.1| Protein kinase, interferon-inducible... [ score 146 E 7e-35 ] [ range 84 .. 166 ]
+sequence
+------------TDASEQGLIEGNYIGLVNSFAQKENLPVNFELCDP-DSQLPHRFICKCKIGQTTYGTG
+FGANKKEAKQLAAKNAYQK-LSEKSPS---*
+>P1;gi|6755160|ref|NP_035293.1| protein kinase, interferon-inducible... [ score 146 E 8e-35 ] [ range 84 .. 161 ]
+sequence
+------------TSASEQGLFVGNYIGLVNSFAQKKKLSVNYEQCEP-NSELPQRFICKCKIGQTMYGTG
+SGVTKQEAKQLAAKEAYQKLL---------*
+>P1;gi|16741143|gb|AAH16422.1| Prkr protein [Mus musculus] [ score 145 E 3e-34 ] [ range 84 .. 161 ]
+sequence
+------------TSASEQGLPYGNYIGLVNSFAQKKKLSVNYEQCEP-NSELPQRFICKCKIGQTMYGTG
+SGVTKQEAKQLAAKEAYQKLL---------*
+>P1;gi|45383189|ref|NP_989818.1| double-stranded RNA-activated prote... [ score 53 E 1e-06 ] [ range 91 .. 170 ]
+sequence
+---------------PADVLPPVDYISLLNKYSQKTLQLVDYNNINR-TGD-PHAYSCSCVISGHVYGNG
+KGNSLAVAKQAAAKEAYEVLQKQES-----*
+>P1;gi|42526537|ref|NP_971635.1| ribonuclease III [Treponema dentico... [ score 48 E 4e-05 ] [ range 165 .. 245 ]
+sequence
+-----------------EKKFISDYKSLLQELVQKKFKTVKYELKAS-GPDHDRTFWFSVSINGKVYGPL
+SGKTKKEAEQSVAKVAYENLCSESTVS---*
+>P1;gi|29292936|dbj|BAC66439.1| double stranded RNA-dependent protei... [ score 129 E 2e-29 ] [ range 1 .. 83 ] [ duplicate a ]
+sequence
+-----MASGR----------SPCFYIEELNKYQQKNDVILKYRELCKTGPAHNLRFTYQVVIDEKEFPKA
+EGRSKKEAKNAAVKLAFEIINKEHKANS--*
+>P1;gi|29292936|dbj|BAC66439.1| double stranded RNA-dependent protei... [ score 129 E 2e-29 ] [ range 101 .. 169 ] [ duplicate b ]
+sequence
+------------------------YIGRINTISQKKNLSVNYEEPGEDGP---EKFHYKCKIGRKVYGSG
+VGSTKQEAKQLAAKQAYEKLQSEN------*
+>P1;gi|6467479|gb|AAF13156.1| double stranded RNA activated protein ... [ score 125 E 2e-28 ] [ range 93 .. 172 ] [ duplicate b ]
+sequence
+------SEGL----------SMGNYIGLINRIAQKKRLTVNYEQ-CASG-VHGPEFHYKCKMGQKEYSIG
+TGSTKQEAKQLAAKLAYLQILSEETSV---*
+>P1;gi|200210|gb|AAA39885.1| 65 kD protein kinase [ score 124 E 5e-28 ] [ range 1 .. 81 ] [ duplicate a ]
+sequence
+-----MASD-----------TPGFYMDKLNKYRQMHGVAITYKELSTSGPPHDRRFTFQVLIDEKEFPEA
+KGRSKQEARNAAAKLAVDILDNENKVD---*
+>P1;gi|200210|gb|AAA39885.1| 65 kD protein kinase [ score 124 E 5e-28 ] [ range 90 .. 162 ] [ duplicate b ]
+sequence
+--------GL----------FVGNYIGLVNSFAQKKKLSVNYEQCE---PNSELRFICKCKIGQTMYGTG
+SGVIKQEAKQLAAKEAYQKLLK--------*
+>P1;gi|16741143|gb|AAH16422.1| Prkr protein [Mus musculus] [ score 122 E 2e-27 ] [ range 90 .. 162 ] [ duplicate b ]
+sequence
+--------GL----------PYGNYIGLVNSFAQKKKLSVNYEQCE---PNSELRFICKCKIGQTMYGTG
+SGVTKQEAKQLAAKEAYQKLLK--------*
+>P1;gi|201068|gb|AAA40150.1| serine/threonine-specific protein kinase [ score 122 E 2e-27 ] [ range 1 .. 81 ] [ duplicate a ]
+sequence
+-----MASD-----------TPGFYMDKLNKYRQMHGVAITYKELSTSGPPHDRRFTFQVLIDEKEFGEA
+KGRSKTEARNAAAKLAVDILDNENKVD---*
+>P1;gi|9506993|ref|NP_062208.1| Protein kinase, interferon-inducible... [ score 121 E 3e-27 ] [ range 1 .. 82 ] [ duplicate a ]
+sequence
+-----MASD-----------TPGFYVDKLNKYSQIHKVKIIYKEISVTGPPHDRRFTFQVIIEEREFPEG
+EGRSKQEAKNNAAKLAVEILDNENKVDS--*
+>P1;gi|9506993|ref|NP_062208.1| Protein kinase, interferon-inducible... [ score 121 E 3e-27 ] [ range 82 .. 164 ] [ duplicate b ]
+sequence
+-SHTDASEGL----------IEGNYIGLVNSFAQKENLPVNFELCDDSQLPH--RFICKCKIGQTTYGTG
+FGANKKEAKQLAAKNAYQKLSEKS------*
+>P1;gi|45383189|ref|NP_989818.1| double-stranded RNA-activated prote... [ score 109 E 2e-23 ] [ range 92 .. 169 ] [ duplicate a ]
+sequence
+------ADVL----------PPVDYISLLNKYSQKTLQLVDYNNINRTGDPHAPMYSCSCVISGHVYGNG
+KGNSLAVAKQAAAKEAYEVLQKQE------*
+>P1;gi|45383189|ref|NP_989818.1| double-stranded RNA-activated prote... [ score 109 E 2e-23 ] [ range 6 .. 52 ] [ duplicate b ]
+sequence
+-------------------------MAKINRYCQKNKYKLDYVDVDMRGPSHDPEFEVVVKINGVKYGTG
+VG----------------------------*
+>P1;gi|30017447|ref|NP_835210.1| protein kinase, interferon-inducibl... [ score 107 E 8e-23 ] [ range 1 .. 83 ] [ duplicate a ]
+sequence
+-----MATGR----------SPCFYIEELNKYQQKNGVEVRYCELAKTGPPHNFRFTYQVIIDDKEYPKA
+EGRSKKEAKNAAAKLALEIINKDRKSVS--*
+>P1;gi|30017447|ref|NP_835210.1| protein kinase, interferon-inducibl... [ score 107 E 8e-23 ] [ range 101 .. 168 ] [ duplicate b ]
+sequence
+------------------------YIGRLNTISQKKNLCVTYEECKSKGDGPE-GFHYICKIGQEEYGSG
+VGSTKQEAKQLAAKLAYEKIESE-------*
+>P1;gi|39997326|ref|NP_953277.1| ribonuclease III [Geobacter sulfurr... [ score 106 E 1e-22 ] [ range 164 .. 248 ]
+sequence
+-----VAAGI----------KGRDFKTDFQELAQAQGGLPRYVLVDTSGPAHDLRFTVAAYVGERLLGQG
+TGRSKKEAEQAAARQCLERLETGRCSAAP-*
+>P1;gi|15924223|ref|NP_371757.1| RNase III [Staphylococcus aureus su... [ score 104 E 4e-22 ] [ range 161 .. 243 ]
+sequence
+--HVEQNELL----------GVVDFKTQFQEYQQNKGDV-TYNLIKEEGPAHHRLFTSEVILQGEAIAEG
+KGKTKKESEQRAAKSAYKQLKQIK------*
+>P1;gi|34364836|emb|CAE45853.1| hypothetical protein [Homo sapiens] [ score 104 E 4e-22 ] [ range 536 .. 606 ] [ duplicate a ]
+sequence
+-------------------------ISGLLEYAQFASQTCEFNMIEQSGPPHEPRFKFQVVINGREFPPA
+EAGSKKVAKQDAAMKAMTILLEEAKA----*
+>P1;gi|34364836|emb|CAE45853.1| hypothetical protein [Homo sapiens] [ score 104 E 4e-22 ] [ range 762 .. 833 ] [ duplicate b ]
+sequence
+----------------------------LLEYARSHGFAAEFKLVDQSGPPHEPKFVYQAKVGGRWFPAV
+CAHSKKQGKQEAADAALRVLIGENEKAERM*
+>P1;gi|34364836|emb|CAE45853.1| hypothetical protein [Homo sapiens] [ score 104 E 4e-22 ] [ range 647 .. 714 ] [ duplicate c ]
+sequence
+-------------------------VTTLLECMHKLGNSCEFRLLSKEGPAHEPKFQYCVAVGAQTFPSV
+SAPSKKVAKQMAAEEAMKALHGE-------*
+>P1;gi|13272339|gb|AAK17103.1| RNA adenosine deaminase 1 [Mus musculus] [ score 104 E 5e-22 ] [ range 461 .. 528 ] [ duplicate a ]
+sequence
+----------------------------LLEYAQFTSQTCDFNLIEQSGPSHEPRFKFQVVINGREFPPA
+EAGSKKVAKQDAAVKAMAILLREAKA----*
+>P1;gi|13272339|gb|AAK17103.1| RNA adenosine deaminase 1 [Mus musculus] [ score 104 E 5e-22 ] [ range 680 .. 751 ] [ duplicate b ]
+sequence
+----------------------------LLEYARSHGFAAEFKLIDQSGPPHEPKFVYQAKVGGRWFPAV
+CAHSKKQGAQDAADAALRVLIGESEKAEQL*
+>P1;gi|13272339|gb|AAK17103.1| RNA adenosine deaminase 1 [Mus musculus] [ score 104 E 5e-22 ] [ range 569 .. 636 ] [ duplicate c ]
+sequence
+-------------------------VTTLLECMHKLGNSCEFRLLSKEGPAHDPKFQYCVAVGAQTFPPV
+SAPSKKVAKQMAAEEAMKALQEE-------*
+>P1;gi|28378329|ref|NP_785221.1| ribonuclease III [Lactobacillus pla... [ score 98 E 7e-20 ] [ range 158 .. 231 ]
+sequence
+--------------------GVFDYKTTLQEYLQRDGVAIDYQLIEQDGPANERSYEIAVLADGQKIGEG
+WGHSKKEAEQSAARQAYSQLQQK-------*
+>P1;gi|23053709|ref|ZP_00079902.1| COG0571: dsRNA-specific ribonucle... [ score 96 E 3e-19 ] [ range 165 .. 243 ]
+sequence
+-----IASGA----------TGRDFKTEFQEVQTRFGTAPTYELIATDGPPHDRRFTVIAMVAGKRMGEG
+AGRSKKEAEQAAARQVLARFAAE-------*
+>P1;gi|27467826|ref|NP_764463.1| RNase III [Staphylococcus epidermid... [ score 94 E 5e-19 ] [ range 161 .. 243 ]
+sequence
+--YVEDDELV----------GVVDFKTQFQEYSQNKGDV-TYQLIKEEGPAHHRLFTSEVILENKAVAEG
+KGKTKKESEQKAAEQAYKLMKNKK------*
+>P1;gi|34558193|ref|NP_908008.1| RIBONUCLEASE III [Wolinella succino... [ score 91 E 6e-18 ] [ range 153 .. 228 ]
+sequence
+----------------------RDYKTALQELTQKFGETPEYVILGSSGPDHKKEFEVAVCVLGSEYARA
+CGSSKKEAQQEAARIALEIFHRKEKEA---*
+>P1;gi|42526537|ref|NP_971635.1| ribonuclease III [Treponema dentico... [ score 91 E 6e-18 ] [ range 171 .. 242 ]
+sequence
+-----------------------DYKSLLQEVQKKFKTVPKYELKKASGPDHDRTFWFSVSINGKVYGPL
+SGKTKKEAEQSVAKVAYENLCSES------*
+>P1;gi|34909942|ref|NP_916318.1| P0695H10.7 [Oryza sativa (japonica ... [ score 91 E 7e-18 ] [ range 87 .. 168 ] [ duplicate a ]
+sequence
+------------------------YKSQLQIYAQKKGKLLPSYQTIREGPGHASRFKSVVTVDGKAFESP
+EYHTVKEAESAAAKLALEASSSEQVPVQPL*
+>P1;gi|34909942|ref|NP_916318.1| P0695H10.7 [Oryza sativa (japonica ... [ score 91 E 7e-18 ] [ range 2 .. 67 ] [ duplicate b ]
+sequence
+------------------------YKSRLQELCQQRRWAPPEYTHRCAGPAHAPLFGATVSVNGVEFPED
+AARSAKEAHNIAAKAAFD------------*
+>P1;gi|42523419|ref|NP_968799.1| ribonuclease III [Bdellovibrio bact... [ score 88 E 5e-17 ] [ range 161 .. 232 ]
+sequence
+----------------------RDYKTRLQELVQKSKETPRYEVLAEEGPPHDREFLVCVKVKEDVWAQG
+RGRSKKNAEQMAAKNALEMKYKE-------*
+>P1;gi|7512160|pir||T30340 dsRNA adenosine deaminase - African clawe... [ score 88 E 5e-17 ] [ range 433 .. 499 ] [ duplicate a ]
+sequence
+----------------------------LLEFTHYCSQQCDFVLLNQSGPSHDPRFKIQAVIDGRHFPVA
+EASSKKTAKKDAASLALRILLREEQ-----*
+>P1;gi|7512160|pir||T30340 dsRNA adenosine deaminase - African clawe... [ score 88 E 5e-17 ] [ range 535 .. 602 ] [ duplicate b ]
+sequence
+-------------------------ISVLMEHGQKSGSMCEFQLVQQEGPPHDPKFTYTVKIGNQTFPPV
+VANSKKMAKQLAAEAAVRELLGD-------*
+>P1;gi|7512160|pir||T30340 dsRNA adenosine deaminase - African clawe... [ score 88 E 5e-17 ] [ range 632 .. 724 ] [ duplicate c ]
+sequence
+---LKMAQTS----------SVGDLIKYLNEYARAKGFAAEFKMVNQTGPPHDPKFVFQAKVGGRWFPAV
+SASNKKQAKAEAADAALRVLIGEAEKAA--*
+>P1;gi|16800985|ref|NP_471253.1| similar to ribonuclease III [Lister... [ score 86 E 2e-16 ] [ range 158 .. 226 ]
+sequence
+----------------------VDYKTQLQEIVQRDDVLIEYDILGETGPAHNKAFDAQVIVNGQVLGKG
+SGRTKKQAEQSAAQFAINQL----------*
+>P1;gi|15901109|ref|NP_345713.1| ribonuclease III [Streptococcus pne... [ score 86 E 2e-16 ] [ range 160 .. 225 ]
+sequence
+-----------------------DYKTHLQELLQVNGVAIRYQVISETGPAHDKVFDVEVLVEGKSIGQG
+QGRSKKLAEQEAAKNAVE------------*
+>P1;gi|7798620|gb|AAF69764.1| double-stranded RNA adenosine deaminas... [ score 84 E 5e-16 ] [ range 686 .. 780 ] [ duplicate a ]
+sequence
+-SELRAAHEA----------GVGDLINHLNEYAKARGFAAEIRLVGQSGPPHEPKFTYQAKLGGRWFPAV
+CASNKKQGKQEAADAALRVLIGEAERAA--*
+>P1;gi|7798620|gb|AAF69764.1| double-stranded RNA adenosine deaminas... [ score 84 E 5e-16 ] [ range 476 .. 540 ] [ duplicate b ]
+sequence
+----------------------------LMEYAQFLGQNCEFLLLDQSGPSHDPRFRMQVMLNGRQFPVA
+EASSKKVAKKDAAAATLHVLIEE-------*
+>P1;gi|7798620|gb|AAF69764.1| double-stranded RNA adenosine deaminas... [ score 84 E 5e-16 ] [ range 583 .. 662 ] [ duplicate c ]
+sequence
+-------------------------VSVLMEYGQHSGNPIEFIMTGQAGPPHDTRFMYRVKVGENLFSEA
+SAPSKKAARQLAAEEAVKELMAENKPQLPL*
+>P1;gi|7770277|gb|AAF69674.1| double-stranded RNA-specific editase [... [ score 84 E 8e-16 ] [ range 759 .. 828 ] [ duplicate a ]
+sequence
+----------------------------LLEYAKARGFAAEIRLVGQSGPPHEPKFTYQAKLGGRWFPPV
+CASNKKQGKQEAADAALRVLIGEAERAA--*
+>P1;gi|7770277|gb|AAF69674.1| double-stranded RNA-specific editase [... [ score 84 E 8e-16 ] [ range 503 .. 570 ] [ duplicate b ]
+sequence
+----------------------------LMEYAQFLGQNCEFLLLDQSGPSHDPRFRMQVMLNGRLFPVA
+EASSKKVAKKDAAAATMQVLIEEMQS----*
+>P1;gi|7770277|gb|AAF69674.1| double-stranded RNA-specific editase [... [ score 84 E 8e-16 ] [ range 631 .. 710 ] [ duplicate c ]
+sequence
+-------------------------VSVLMDYSQHSGNAIEFIMTGQAGPPHDTRFMYRVKVGENLFSEA
+SAPSKKAARQLAAEEAVKELMAENKPQLPL*
+>P1;gi|25010800|ref|NP_735195.1| Unknown [Streptococcus agalactiae N... [ score 82 E 4e-15 ] [ range 149 .. 228 ]
+sequence
+--HVEKGTYE----------RVKDYKTSLQELLQSHGDVIDYQVTNESGPAHAKEFEVTVSVNQENLSQG
+IGRSKKAAEQDAAKNALATLQ---------*
+>P1;gi|23098981|ref|NP_692447.1| ribonuclease III [Oceanobacillus ih... [ score 81 E 6e-15 ] [ range 158 .. 227 ]
+sequence
+-----------------------DYKSQLQEFQQHKDQKIEYRIIEEKGPSHNKEFVAEVVIQEKAAGIG
+TGRTKKEAEQRAAKNALDSINN--------*
+>P1;gi|15674631|ref|NP_268805.1| putative ribonuclease III [Streptoc... [ score 81 E 7e-15 ] [ range 160 .. 227 ]
+sequence
+-----------------------DYKTCLQEFLQTKGVAIDYQVISEKGPAHAKQFEVSIVVNGAVLSKG
+LGKSKKLAEQDAAKNALAQL----------*
+>P1;gi|43552174|gb|EAE30853.1| unknown [environmental sequence] [ score 81 E 8e-15 ] [ range 33 .. 100 ]
+sequence
+------------------------YKGKLIEYCHIKDISPTFNIKDISGPDHQKTFEIEVKIDNRSFPTG
+MGLDKKSAEQTAAKIALEQLN---------*
+>P1;gi|44548284|gb|EAK02337.1| unknown [environmental sequence] [ score 79 E 2e-14 ] [ range 111 .. 182 ]
+sequence
+----ELSQDP----------GRKDYKTRLQEYYAKIGKKVTYENTS-SGPDHSKEFSSKVLLTNKVIGAG
+KGKSKKNAEQMAAKEAL-------------*
+>P1;gi|18858253|ref|NP_571671.1| adenosine deaminase, RNA-specific [... [ score 79 E 3e-14 ] [ range 633 .. 697 ] [ duplicate a ]
+sequence
+----------------------------LMEFAQHLGYTCEFLLLEQSGPSHDPRFRMQVMLDGRRFPAA
+EGSNKKVAKKDAAAITLKILWKE-------*
+>P1;gi|18858253|ref|NP_571671.1| adenosine deaminase, RNA-specific [... [ score 79 E 3e-14 ] [ range 745 .. 809 ] [ duplicate c ]
+sequence
+-------------------------VSVLMEHSQRSGHPIQFIKTGQEGPSHDPRFMFRVKVGERLFQEA
+SAPSKKAARQLAAEEAVKEL----------*
+>P1;gi|15672784|ref|NP_266958.1| ribonuclease III [Lactococcus lacti... [ score 78 E 4e-14 ] [ range 149 .. 225 ]
+sequence
+--HVKNDDYV----------KVIDYKTELQEVLQIGGTTISYKILKEEGPAHDRSFVAAVFNNGKELGRG
+LGKSKKVAEQKAAENAIK------------*
+>P1;gi|28277444|gb|AAH44344.1| Unknown (protein for MGC:55234) [Dani... [ score 78 E 5e-14 ] [ range 848 .. 912 ] [ duplicate c ]
+sequence
+-AELQAAHEA----------GVGDLINHLNEYARARGFAAEIRLVGQSGPSHEPKFTYQAKLGGRWFP--
+------------------------------*
+>P1;gi|32266198|ref|NP_860230.1| ribonuclease III [Helicobacter hepa... [ score 78 E 5e-14 ] [ range 160 .. 230 ]
+sequence
+-----------------------DYKTALQEITQAFGEIPTYTLISESGPDHKKSFEIALSVQGKEYARA
+SGNSKKEAQQKSAQIAYKKLYSK-------*
+>P1;gi|29377554|ref|NP_816708.1| ribonuclease III [Enterococcus faec... [ score 78 E 6e-14 ] [ range 161 .. 226 ]
+sequence
+-----------------------DHKTQLQEVLQRKGDVIEYRLIKEEGPAHDRTFFTEVYMNGELIGLG
+QGKSKKLAEQDAAERALK------------*
+>P1;gi|32473407|ref|NP_866401.1| ribonuclease III [Pirellula sp. 1] ... [ score 77 E 9e-14 ] [ range 213 .. 289 ]
+sequence
+--------------------GSGNHKSVLQQFAQRLSATPVYKLIRETGPDHRKMFLMGAMVDDRRFAPA
+WGNNKKDAEQRAAANALAELHNAKVP----*
+>P1;gi|24379904|ref|NP_721859.1| putative ribonuclease III [Streptoc... [ score 77 E 1e-13 ] [ range 150 .. 231 ]
+sequence
+---VENNNYE----------RVTDYKTALQELLQVDGVLIDYEVLKESGPAHAKCFEVAVSMNHEKLSSG
+TGKSKKLAEQEAAKNALEKLQRGS------*
+>P1;gi|23112532|ref|ZP_00098004.1| COG0571: dsRNA-specific ribonucle... [ score 76 E 1e-13 ] [ range 191 .. 262 ]
+sequence
+----------------------GDYKTMLQEKAQREETEVTYRILAEEGPDHNKRFTAGVFLQGNLRGKG
+IGRTKKEAEQRAAQQVLDEFGGEN------*
+>P1;gi|7512159|pir||T30339 dsRNA adenosine deaminase - African clawe... [ score 76 E 2e-13 ] [ range 681 .. 748 ] [ duplicate a ]
+sequence
+-------------------------ISLLMEHGQKSGNMCEFQLVSQEGPPHDPKFTYTVKIGNQTFPPV
+VANNKKMAKHLAAEAAVRELLGE-------*
+>P1;gi|7512159|pir||T30339 dsRNA adenosine deaminase - African clawe... [ score 76 E 2e-13 ] [ range 579 .. 624 ] [ duplicate c ]
+sequence
+----------------------------LLEFTHYCSQQCDFALLNQSGPSHDPRFKIQAVIDGRRFPVA
+EANS--------------------------*
+>P1;gi|43192993|gb|EAC62020.1| unknown [environmental sequence] [ score 76 E 2e-13 ] [ range 133 .. 210 ]
+sequence
+------AEGY----------ITRDYKSELQEHVQKIMGLPTYELVYETGPDHQKEFTMAVFIKDKEYGRG
+CGASKKIASQLAAENALVRIQQD-------*
+>P1;gi|1389549|dbj|BAA10976.1| ORF3 [Bacillus subtilis] [ score 76 E 2e-13 ] [ range 175 .. 244 ]
+sequence
+-----------------------DFKSQLQEYVQRDGKSLEYKISNEKGPAHNREFEAIVSLKGEPLGVG
+NGRSKKEAEQHAAQEALAKLEK--------*
+>P1;gi|15639796|ref|NP_219246.1| ribonuclease III (rnc) [Treponema p... [ score 75 E 4e-13 ] [ range 181 .. 248 ]
+sequence
+-----------------------DYKSTLQVLAQRYRSKPEYTVVKRTGPDHSVRFWVDVTVGDARFGPG
+YGTSKKSAEQCAARLAWEQL----------*
+>P1;gi|43230816|gb|EAC80988.1| unknown [environmental sequence] [ score 75 E 4e-13 ] [ range 132 .. 209 ]
+sequence
+------AEGY----------ITRDYKSELQEQVQKIMGLPTYELVDETGPDHQKEFTMAVFVKDEEYGRG
+SGASKKIASQLAAENALERIKQD-------*
+>P1;gi|43349685|gb|EAD39757.1| unknown [environmental sequence] [ score 74 E 5e-13 ] [ range 137 .. 216 ]
+sequence
+----ENAQGY----------ITRDYKSELQEHVQKTGMPSKYELVDEKGPDHQKEFTMAVFVRDKEYGRG
+SGASKKLASQLAAENALVRIQRD-------*
+>P1;gi|15827877|ref|NP_302140.1| RNAse III [Mycobacterium leprae] >g... [ score 74 E 7e-13 ] [ range 147 .. 228 ]
+sequence
+GTLLDAAPTL----------GAGDWKTSLQELTAARGMGVPSYVVTSTGPDHDKEFTAVVVVMDTEYGSG
+IGHSKKEAEQKAASAAWKALD---------*
+>P1;gi|44425696|gb|EAJ18275.1| unknown [environmental sequence] [ score 74 E 9e-13 ] [ range 144 .. 218 ]
+sequence
+------SSDV----------SIVDSKTKLQEYSKKFKSLPIYKLVSSSGPKHKPKFTISVKLKNTKLFEG
+SGNSKKKAEQSAAKILLDSL----------*
+>P1;gi|20807916|ref|NP_623087.1| dsRNA-specific ribonuclease [Thermo... [ score 74 E 9e-13 ] [ range 148 .. 224 ]
+sequence
+----EVLKGI----------IYRDYKTRLQEVVQSMEVKITYELVEEIGPDHNKTFVTQVKIGDVVLGIG
+QGKSKKESEQAAAMEALSKL----------*
+>P1;gi|24217145|ref|NP_714628.1| ribonuclease III [Leptospira interr... [ score 73 E 1e-12 ] [ range 173 .. 246 ]
+sequence
+--------------------SVRDYKTQLQEYSQKHKILPIYRTKSESGPDHAKTFQVVVRIRDQWEASG
+SGVSKKSAEQNAAKELYNRIRKK-------*
+>P1;gi|37929016|gb|AAP70345.1| ribonuclease III [Ehrlichia ruminanti... [ score 73 E 1e-12 ] [ range 97 .. 171 ]
+sequence
+---------------------PQDAKTILQEWAQSKGFAPSYHIINKSGPDHNPCFTVEVRIDSHETLHA
+TGHNKKLAEQKAASLMLEKINYKIK-----*
+>P1;gi|44465722|gb|EAJ46303.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 157 .. 225 ]
+sequence
+-------------------------KSDLQEYTQRFQQLPKYHIISQSGPDHEPTFEISVQIKSDIIASA
+TGRSKSEAETKVASLALRKLNSK-------*
+>P1;gi|15615052|ref|NP_243355.1| ribonuclease III [Bacillus halodura... [ score 73 E 2e-12 ] [ range 190 .. 262 ]
+sequence
+-----------------------DFKSQLQEFIQRNLGHIHYEIVQERGPAHNREFVSEVVLNNETLGVG
+TGRSKKEAEQHAAQQALITLSQKKE-----*
+>P1;gi|23001257|ref|ZP_00045166.1| COG0571: dsRNA-specific ribonucle... [ score 73 E 2e-12 ] [ range 170 .. 241 ]
+sequence
+-----------------------DYKTLLQEYLQARGEALPYAVLSAEGPPHERVFVVSCHPREQLCGHG
+QGRSKREAEQHAAQQALELLIESE------*
+>P1;gi|15595050|ref|NP_212839.1| ribonuclease III (rnc) [Borrelia bu... [ score 72 E 2e-12 ] [ range 174 .. 245 ]
+sequence
+-----------------------DYKSLLQEYVQKKKISPSYKLDKEIGPDHDKVFCVELYVGENFISNG
+KGKSKKEAEMRAAEVALKAMENIN------*
+>P1;gi|18310700|ref|NP_562634.1| ribonuclease III [Clostridium perfr... [ score 72 E 3e-12 ] [ range 160 .. 227 ]
+sequence
+-----------------------DFKTRLQEVLQKNGEVIVYNLVKHEGPPHRRKFFTDLLINNEIMGQG
+VGFSKKESEQNAAKAALQRL----------*
+>P1;gi|44326424|gb|EAI48094.1| unknown [environmental sequence] [ score 72 E 3e-12 ] [ range 160 .. 225 ]
+sequence
+-----------------------DYKTRLQEYYAKKGQKVTYT-AKSEGPDHNKQFNAQVILENKIIGKG
+IGKSKKNAEQMAAKDAFSKM----------*
+>P1;gi|42824765|gb|EAA79710.1| unknown [environmental sequence] [ score 72 E 4e-12 ] [ range 26 .. 102 ]
+sequence
+----KVVAGE----------EGSNHKSLLQQLAQAYGIAPTYGVIDEVGPDHNKKFQVSAQIGSRRYAPA
+WGRNKKEAEQGAAEKALEAL----------*
+>P1;gi|44247653|gb|EAH94188.1| unknown [environmental sequence] [ score 71 E 4e-12 ] [ range 137 .. 199 ]
+sequence
+-----------------------DYKTRLQEHFAKKGKKVNYETLSK-GPDHNKEFEASVFLENKVIGKG
+TGKSKKNAEQMAAKNAF-------------*
+>P1;gi|23019387|ref|ZP_00059098.1| COG0571: dsRNA-specific ribonucle... [ score 71 E 4e-12 ] [ range 155 .. 238 ]
+sequence
+------ASGL----------GAGDWKTSLQELTAAELLGVPEYVVEESGPDHQKTFRATVRVAGQTYGSG
+EGRSKKEAEQQAAESAWKAIRAATEKAKQ-*
+>P1;gi|43212222|gb|EAC71656.1| unknown [environmental sequence] >gi|... [ score 71 E 6e-12 ] [ range 150 .. 217 ]
+sequence
+-----------------------DYKSILQVESQKLGVLPKYVVEKQEGPAHERRFHVAVYIEKVSYGTS
+KGKSKKEAENKCAKKALKKI----------*
+>P1;gi|37929038|gb|AAP70351.1| ribonuclease III [Ehrlichia ruminanti... [ score 71 E 6e-12 ] [ range 97 .. 171 ]
+sequence
+---------------------PQDAKTILQEWAQSKGFAPSYHIINKSGPDHNPCFTVEVRINSHETLHA
+TGHNKKLAEQKAASLMLAKINYKIK-----*
+>P1;gi|29829207|ref|NP_823841.1| putative ribonuclease III [Streptom... [ score 71 E 7e-12 ] [ range 163 .. 240 ]
+sequence
+---IEKSSNL----------GAGDWKTSLQELTATEGLGVPEYLVTETGPDHEKTFTAAARVGGVSYGTG
+TGRSKKEAEQQAAESAWRAI----------*
+>P1;gi|28210930|ref|NP_781874.1| ribonuclease III [Clostridium tetan... [ score 71 E 7e-12 ] [ range 161 .. 228 ]
+sequence
+-----------------------DYKTKLQEIIQKDGDIINYILIKHEGPPHRRKFYTEVKIKDNVLGYG
+IGYSKKESEQNAAKKAIENM----------*
+>P1;gi|42521037|ref|NP_966952.1| ribonuclease III, putative [Wolbach... [ score 71 E 7e-12 ] [ range 157 .. 229 ]
+sequence
+---------------------PQDPKTSLQEWTQKNKLLPEYELVKQTGPAHNPEFTISVCIEDYGKVSA
+CASSKKIAEQKAAELMLEKIGKD-------*
+>P1;gi|15792940|ref|NP_282763.1| ribonuclease III [Campylobacter jej... [ score 70 E 1e-11 ] [ range 154 .. 221 ]
+sequence
+-----------------------DYKTKLQEITQKIGQTPQYETVRAFGPDHLKQFEIALMLDGKELARA
+IAGSKKEAQQMAAKIALEKL----------*
+>P1;gi|15964825|ref|NP_385178.1| PROBABLE RIBONUCLEASE III PROTEIN [... [ score 70 E 1e-11 ] [ range 149 .. 226 ]
+sequence
+-THRAASADG----------ARRDAKTELQEWAHKFGVAPKYRTDDRSGPDHDPRFTVTVEVDGIAPETG
+VDRSKRGAEQVAAMKLLE------------*
+>P1;gi|15645286|ref|NP_207456.1| ribonuclease III (rnc) [Helicobacte... [ score 70 E 1e-11 ] [ range 169 .. 240 ]
+sequence
+-----------------------DYKTALQELTQAFCVIPTYQLLKEKGPDHHKEFEMALYIQDKMYATA
+KGKSKKEAEQQCAYQALQKLKEAK------*
+>P1;gi|44616937|gb|EAK50741.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 145 .. 216 ]
+sequence
+-------SDI----------TVIDSKTRLQEYSKKFKALPIYKLISNTGPRHKPNFKISVKIKDSKTVIA
+DGSSKKNAEQAAAMKLLE------------*
+>P1;gi|44081888|gb|EAH02895.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 145 .. 216 ]
+sequence
+-------SDV----------TVIDSKTRLQEYSKKFKTLPMYKLISNTGPRHKPNFKISVKIKDSKTVIA
+DGSSKKNAEQAAAMKLLE------------*
+>P1;gi|43220923|gb|EAC76030.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 97 .. 171 ]
+sequence
+-------SDL----------TIVDSKTKLQEYSKKYKSLPLYKLISSSGPKHKPKFTMSVRLNDTKFFEG
+SGDSKKKAEQNAAKKLLDNIK---------*
+>P1;gi|17987570|ref|NP_540204.1| RIBONUCLEASE III [Brucella melitens... [ score 69 E 3e-11 ] [ range 163 .. 236 ]
+sequence
+-------TGA----------ARRDAKTELQEWAHQQGNVPVYAILSRSGPDHDPLFLVEVTVKGFAPEKG
+EGRSKRIAEQSAAEA---MLYRE-------*
+>P1;gi|2500552|sp|Q52698|RNC_RHOCA Ribonuclease III (RNase III) >gi|... [ score 68 E 4e-11 ] [ range 149 .. 226 ]
+sequence
+-----QSVDN----------DARDPKTALQEWAQARGLPPRYETLGRDGPDHAPQFRIAVVLASGETEEA
+QAGSKRNAEQAAAKALLERLER--------*
+>P1;gi|44001980|gb|EAG59034.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 46 .. 112 ]
+sequence
+-----------------------DYKTRLQEYFAKKGLKVIYQD-SSHGPDHNKNFSSEVILNDEVIGAG
+NGKSKKSAQQSAAKDALAKLD---------*
+>P1;gi|16331055|ref|NP_441783.1| ribonuclease III [Synechocystis sp.... [ score 68 E 4e-11 ] [ range 160 .. 227 ]
+sequence
+-----------------------DVKSMLQQWAAKTKQLPEYELINTSGPPHAQEFTFTVKVAGKIHGQG
+SGPSKQIATKQAALEALKSL----------*
+>P1;gi|43779533|gb|EAF44280.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 1 .. 70 ]
+sequence
+------------------------YKSELQEHVQKTGIPSTYKLVDETGPDHQKEFTMAVFVKDKEYGRG
+SGASKKLASQLAAENALFRIKND-------*
+>P1;gi|44360614|gb|EAI72368.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 158 .. 224 ]
+sequence
+-----------------------DYKTRLQEYFAKKGLKVIYQD-SSHGPDHNKNFSSEVLLNDEIIGAG
+DGKSKKSAQQSAAKDALAKLD---------*
+>P1;gi|44538309|gb|EAJ95368.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 142 .. 222 ]
+sequence
+--HIE-KSVI----------TEIDGKTKLQELTKNFKKLPTYKLISNTGPRHKPIFKVGVKLPNTKYFIA
+TGKSKKEAEQNAAMECLKNINKK-------*
+>P1;gi|44283440|gb|EAI18881.1| unknown [environmental sequence] [ score 68 E 5e-11 ] [ range 123 .. 191 ]
+sequence
+------------------------YKGQLIEYCHANGINPKFHLVNASGPDHQKTFEIHVTINKEKYPTG
+IGTDKKTAEQSAAQNALIRLTK--------*
+>P1;gi|11283535|pir||T48069 hypothetical protein F26K9.230 - Arabido... [ score 68 E 6e-11 ] [ range 71 .. 142 ] [ duplicate a ]
+sequence
+----------------------VAYKNLLQEIAQKESSLLPFYATATSGPSHAPTFTSTVEFAGKVFSGE
+EAKTKKLAEMSAAKVAFMSIKNGN------*
+>P1;gi|11283535|pir||T48069 hypothetical protein F26K9.230 - Arabido... [ score 68 E 6e-11 ] [ range 5 .. 79 ] [ duplicate b ]
+sequence
+------------------------YKGQLQAYAQHNLELPVYAN-EREGPPHAPRFRCNVTFCGQTFQSS
+EFPTLKSAEHAAAKIAYKNLLQE-------*
+>P1;gi|43678908|gb|EAE94545.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 86 .. 167 ]
+sequence
+-THIE-KSVV----------TQIDAKTKLQEYSKKFKKLPIYKLISNTGPRHKPIFKISVKINTKSY-QA
+EGRSKKDAEQNAAINCLKDIEKK-------*
+>P1;gi|43056054|gb|EAB94409.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 146 .. 221 ]
+sequence
+------NSKI----------TLIDAKTRLQEYSKKFKILPVYKLVSSTGPRHKPNFKVAVKIKDSMFVES
+TGSSKKNAEQSAANKLLKNIK---------*
+>P1;gi|44416539|gb|EAJ11681.1| unknown [environmental sequence] [ score 68 E 6e-11 ] [ range 166 .. 232 ]
+sequence
+------------------------YKGKLIEYCHSHDQNPTFELKDISGPDHQRTFEIQVKIGSKKYDSG
+LGTNKKTAEQIAAKLALEEL----------*
+>P1;gi|27066029|pdb|1O0W|A Chain A, Crystal Structure Of Ribonucleas... [ score 68 E 6e-11 ] [ range 180 .. 251 ]
+sequence
+-----------------------DYKTALQEIVQSHKVPPEYILVRTEKNDGDRIFVVEVRVNGKTIATG
+KGRTKKEAEKEAARIAYEKLLKER------*
+>P1;gi|18389232|gb|AAL67059.1| unknown protein [Arabidopsis thaliana] [ score 68 E 6e-11 ] [ range 5 .. 71 ] [ duplicate b ]
+sequence
+------------------------YKGQLQAYAQHNLELPVYAN-EREGPPHAPRFRCNVTFCGQTFQSS
+EFPTLKSAEHAAAKIAVASL----------*
+>P1;gi|45531438|ref|ZP_00182486.1| hypothetical protein Exigu220701 ... [ score 68 E 7e-11 ] [ range 128 .. 197 ]
+sequence
+-----------------------DFKSQLQEAIQRVGGQIEYEIIEERGPAHSREFISRVHIADKLEGIG
+TGRSKKEAEQQAAKQALLELKN--------*
+>P1;gi|42930895|gb|EAB32470.1| unknown [environmental sequence] [ score 68 E 7e-11 ] [ range 141 .. 222 ]
+sequence
+-NHIEKSVVT----------EIDAKTKLQELTLKKFKKLPTYKLISNTGPRHKPIFKVGVKLPNTKYFIA
+SGKSKKEAEQNAAIECLKITNKK-------*
+>P1;gi|44039282|gb|EAG79498.1| unknown [environmental sequence] [ score 68 E 7e-11 ] [ range 9 .. 79 ]
+sequence
+-------SVI----------TQIDAKTKLQEFSKKFKRLPTYKIISNTGPRHKPIFRVAVKLQNTKFYNG
+EGKSKKEAEQNAALLCL-------------*
+>P1;gi|43062223|gb|EAB97458.1| unknown [environmental sequence] [ score 67 E 9e-11 ] [ range 151 .. 223 ]
+sequence
+----------------------VDAKTKLQEYSKKFKILPIYKFISDTGPKHKPNFKVAVKLKDTSFVEA
+DGASKKLAQQAAALKLLSILDNQK------*
+>P1;gi|45359089|ref|NP_988646.1| Ribonuclease III family:Double-stra... [ score 67 E 1e-10 ] [ range 159 .. 229 ]
+sequence
+-----------------------DYKTKLQEFPELINKSINYVNLEETGEAHDKKFVIAVKSGRKILGKG
+IGKSKKEAEMKAAKNALLKLEKNK------*
+>P1;gi|43577067|gb|EAE43307.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 144 .. 221 ]
+sequence
+------NAET----------TFIDAKTQLQEYSLKFKILPIYKLVSNTGPRHKPNFKVGVKIKNSKYIYA
+IGSSKKNAEQSAASELLKKINQK-------*
+>P1;gi|43146902|gb|EAC39157.1| unknown [environmental sequence] [ score 66 E 1e-10 ] [ range 146 .. 221 ]
+sequence
+-------SVI----------TQIDAKTKLQELSKKFKRLPIYKLISNTGPRHKPIFKVAVKLMNTKFYTA
+QGKSKKDAEQNAAILCLQNIKK--------*
+>P1;gi|42890785|gb|EAB12538.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 67 .. 142 ]
+sequence
+------NAVQ----------TKVDSKTRLQEYSKKFKKLPIYKLLENSGPRHKPTFKVEVKIKNTKSTFG
+KGLSKKDAEQNAATQLLKNIN---------*
+>P1;gi|44260574|gb|EAI03309.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 146 .. 216 ]
+sequence
+-------SVI----------TQIDAKTKLQEFSKKFKRLPTYKIISNTGPRHRPILRVAVKLQNTKFYNG
+EGKSKKEAEQKAALLCL-------------*
+>P1;gi|43082179|gb|EAC07298.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 21 .. 89 ]
+sequence
+-------------------------KTKLQEYSKKYKSLPIYKLISNTGPRHKPKFKVAVKLKNFDYIEA
+TGNSKKDAEQSAAKAFLNVINEK-------*
+>P1;gi|44413904|gb|EAJ09913.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 62 .. 135 ]
+sequence
+-------SVI----------TIIDAKTKLQEYSKNFKKLPIYRLISNTGPRHKPVIKVSVKLSDGKIYYG
+EGKSKKNAEQKAATLCLDNL----------*
+>P1;gi|43872510|gb|EAF90240.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 78 .. 148 ]
+sequence
+----------------------VDAKTQLQEYSKNFKILPTYKLISNTGPRHKPNFKVGVKLKNSKYVYA
+IGSSKKKAEQTAASELLKKIYQ--------*
+>P1;gi|44299502|gb|EAI29615.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 74 .. 140 ]
+sequence
+-------------------------KTKLQEFSKKYKALPEYKIVSNTGPRHKPVFKVGVKIKNTRFTYS
+EGSSKKNAEQSAASMLLKNLN---------*
+>P1;gi|44179535|gb|EAH55415.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 145 .. 219 ]
+sequence
+-------SDL----------TIIDSKTKLQEYSKKFKKLPTYTLLKTSGPHHKPIFKVTAKTPNSKMITA
+TGSSKKEAQQNAAKKLIEDLK---------*
+>P1;gi|43397929|gb|EAD61760.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 137 .. 212 ]
+sequence
+---------------------PVDSKTALQEWAQRRQYAPEYRVISQEGPAHSPKFLIEVYLGKFEPQKG
+YGTSKRQAEQMAAKSLLEVLKGQEC-----*
+>P1;gi|44266619|gb|EAI07524.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 142 .. 222 ]
+sequence
+--HIE-KSVV----------TEIDAKTKLQELTKNFKKLPTYKLISNTGPRHKPIFKVGVKLPNTKYFIA
+TGKSKKEAEQNAAIECLKNTNKK-------*
+>P1;gi|15895025|ref|NP_348374.1| DsRNA-specific ribonuclease III [Cl... [ score 66 E 3e-10 ] [ range 161 .. 230 ]
+sequence
+-----------------------DYKTRLQEILQSKGKTIKYTLVRHEGPPHRRKFFVNLNFDNDVKSTG
+EGYTKKDAEQDAACKALKGLDN--------*
+>P1;gi|43475131|gb|EAD92282.1| unknown [environmental sequence] [ score 66 E 3e-10 ] [ range 95 .. 172 ]
+sequence
+------NAEI----------TFVDAKTRLQEYSKNFKILPIYKLVSNTGPRHKPKFKVGVKLKNSTYIYA
+IGSSKKIAEQSAASELLKKINQQ-------*
+>P1;gi|44177457|gb|EAH54314.1| unknown [environmental sequence] [ score 65 E 3e-10 ] [ range 96 .. 172 ]
+sequence
+------SSAV----------TFIDSKTKLQEYSKKFKNLPVYKLLDNSGPMHKPVFKVGVKLKNSKLFIG
+SGKSKKDAQQKAATLLLKNLEN--------*
+>P1;gi|25028532|ref|NP_738586.1| putative ribonuclease III [Coryneba... [ score 65 E 4e-10 ] [ range 178 .. 254 ]
+sequence
+------AKGI----------HQDWKTTLQEELAQRKKPMVEYQTTSV-GPDHDLLFTAVVYLGDVEMGRG
+EGPNKKLAEQEAARQAFLKLREKR------*
+>P1;gi|43489822|gb|EAD99719.1| unknown [environmental sequence] [ score 65 E 4e-10 ] [ range 111 .. 188 ]
+sequence
+------NAET----------TFVDAKTRLQEYSLKFKILPIYKLVSNTGPRHKPKFKVGVKLKNSTYIYA
+IGSSKKIAEQSAASELLKKINQK-------*
+>P1;gi|43480438|gb|EAD94956.1| unknown [environmental sequence] [ score 65 E 4e-10 ] [ range 113 .. 183 ]
+sequence
+----------------------VDAKTKLQELSKKYKILPIYKFISDTGPKHKPKFKVAVKLKETSFIEA
+EGSSKKLAQQAAATKLLNILAK--------*
+>P1;gi|44304667|gb|EAI33078.1| unknown [environmental sequence] [ score 65 E 5e-10 ] [ range 145 .. 220 ]
+sequence
+------SSNF----------TKVDSKTKLQEFSKKYKSLPIYKIISNTGPRHKPNFKVGVKIKNSKFTYS
+NGSSIKNAEQSAASILLKNLN---------*
+>P1;gi|43785030|gb|EAF47047.1| unknown [environmental sequence] [ score 65 E 5e-10 ] [ range 150 .. 221 ]
+sequence
+----------------------VDAKTQLQEYSKNFKLLPIYKLVSNTGPRHKPNFKVGVKLKNSTYIYA
+IGSSKKNAEQSAASELLKKINKK-------*
+>P1;gi|43764419|gb|EAF36666.1| unknown [environmental sequence] [ score 64 E 6e-10 ] [ range 136 .. 202 ]
+sequence
+-------------------------KTKLQELAKKFKKLPTYKLISNTGPRHKPLFKVGVKLPNTKYFIS
+SGNSKKDAEQNAAIECLESLK---------*
+>P1;gi|43863534|gb|EAF85826.1| unknown [environmental sequence] [ score 64 E 6e-10 ] [ range 47 .. 124 ]
+sequence
+------NAET----------TFVDAKTQLQEYSKNFKLLPIYKLVSNTGPRHKPNFKVGVKLKNSTYIYA
+RGSSKKNAEQSAALELLKRIKQK-------*
+>P1;gi|43462583|gb|EAD85969.1| unknown [environmental sequence] [ score 64 E 6e-10 ] [ range 154 .. 219 ]
+sequence
+-------------------------KTKLQEYSKKYKSLPIYKLLNSIGPHHKPIFKVGVKLKGSKFIYA
+QGNSKKESEQKAAKLFLKKI----------*
+>P1;gi|43893837|gb|EAG00984.1| unknown [environmental sequence] [ score 64 E 7e-10 ] [ range 45 .. 114 ]
+sequence
+------NSKI----------LVIDPKTKLQEYSKKFRSLPIYKLISSSGPKHKPTFKVSVKLKDHKSAIS
+SGNSKKLAEQSAAKN---------------*
+>P1;gi|44312770|gb|EAI38515.1| unknown [environmental sequence] [ score 64 E 7e-10 ] [ range 142 .. 222 ]
+sequence
+--HIEKSVVT----------EIDAKTKLQELTLKNFKKLPTYKLISNTGPRHKPIFKVGVKLPNTKYFIA
+TGKSKKEAEQNAAIECLKNTNKK-------*
+>P1;gi|43578014|gb|EAE43785.1| unknown [environmental sequence] [ score 64 E 7e-10 ] [ range 8 .. 76 ]
+sequence
+-------------------------KTRLQEYSKKFKLLPIYKLISNTGPRHSPVFKVGVKLQDTKFFEA
+KGASKKDAEQNAAKKAIQFLINE-------*
+>P1;gi|37929739|gb|AAP70361.1| ribonuclease III [Ehrlichia ruminantium] [ score 64 E 8e-10 ] [ range 82 .. 156 ]
+sequence
+---------------------PQDAKTILQEWAQSKGLAPSYHIVNKSGPDHNPIFTVEVRMHSYETLQA
+TGNNKKIAEQKAASLMLEKINYKTK-----*
+>P1;gi|43397126|gb|EAD61473.1| unknown [environmental sequence] [ score 64 E 9e-10 ] [ range 153 .. 221 ]
+sequence
+-------------------------KTQLQEYSLKNKMLPIYKLISNTGPRHKPNFKVGVKLKNSAYVYS
+IGSSKKNAEQSAASELLKKIYQK-------*
+>P1;gi|23128301|ref|ZP_00110152.1| COG0571: dsRNA-specific ribonucle... [ score 64 E 9e-10 ] [ range 166 .. 230 ]
+sequence
+------------------------YKAALQEWTQAFKVLPEYRVVEVTQPHHNQRFMAEVWLHGKKLGEG
+KGRSIKTAEQAAAKVAF-------------*
+>P1;gi|43684025|gb|EAE97168.1| unknown [environmental sequence] [ score 64 E 9e-10 ] [ range 116 .. 190 ]
+sequence
+-------SLI----------TERDSKTKLQEYSLKTKLLPIYKLLDNKGPRHKPLIKVSVNIKNSKNITA
+TGNSKKEAEQRAAKKLLKSLQ---------*
+>P1;gi|19703497|ref|NP_603059.1| Ribonuclease III [Fusobacterium nuc... [ score 64 E 9e-10 ] [ range 151 .. 220 ]
+sequence
+--HIEENEDI------------LDFKSILQEYVQKFKTVPTYELVAERGPDHMKEFEIQVIVGNYK-EKA
+VARNKKKAEQLSAK----------------*
+>P1;gi|43723189|gb|EAF16567.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 149 .. 218 ]
+sequence
+------------------------YKDILLRYFQNTKITPKYIEIEADGPPHNRTFVMGVLDNGNIIGKG
+TRKSKKAAEQEASKQALIYLDQ--------*
+>P1;gi|22968537|ref|ZP_00016124.1| COG0571: dsRNA-specific ribonucle... [ score 64 E 1e-09 ] [ range 144 .. 220 ]
+sequence
+-----MAEDL----------TPKDAKTALQEWAQGRGLLPTYAVEGRDGPPHKPMFTVSVTVKDNGSESA
+LGASKRLAEQAAAQRLLDRL----------*
+>P1;gi|43483842|gb|EAD96657.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 165 .. 229 ]
+sequence
+--------------------DARDAKTMLQEWAQARGQPPKYEVISQSGPDHAPDFLVQVRLDSGETADA
+LAGSKRQAEQMAAK----------------*
+>P1;gi|44091374|gb|EAH07971.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 106 .. 179 ]
+sequence
+-------SVI----------TKVDAKTKLQEFSKKFKKLPVYKLFSNTGPRHKPIFKVGVKLFNTKFYIS
+KGKSKKEAEQNAAVLCLENI----------*
+>P1;gi|43525692|gb|EAE17544.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 50 .. 124 ]
+sequence
+-------SII----------TQIDAKTKLQEYSKKFKKLPIYKMISNTGPRHKPIIKVAVKLINTKFYFS
+EGKSKKEAEQNAANECLRNIK---------*
+>P1;gi|43980487|gb|EAG47427.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 151 .. 217 ]
+sequence
+-------------------------KTRLQEYSEMFKQLPIYKLVQNTGPRHKPLFKISVKVKNSKNYFG
+EGLSKKDAEQTAALKLLENLN---------*
+>P1;gi|43697874|gb|EAF04172.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 40 .. 120 ]
+sequence
+--HIEKSVVT----------EIDAKTKLQELTLKKFKKLPTYKLISNTGPRHKPIFKVGVKLPDTKYFIA
+TGKSKKEAEQNAAIECLKNTNKK-------*
+>P1;gi|44229316|gb|EAH82629.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 81 .. 151 ]
+sequence
+-------SVI----------TEIDAKTKLQEFSKRFKKLPTYKLISNTGPRHKPIFKVAVKLHNSKFYLA
+EGGSKKDAEQNAAILCF-------------*
+>P1;gi|43981199|gb|EAG47785.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 46 .. 121 ]
+sequence
+-------SDS----------KIVDAKTKLQEFSKKYKILPVYKVISNTGPRHKPNFKVGVKIKNTKFIFA
+NGSSKKNAEQLAAETLLRSINQ--------*
+>P1;gi|43756832|gb|EAF32853.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 166 .. 236 ]
+sequence
+-----------------------DFKSKLQEWMQHESMVPHYDITDEKGPDHDKLFFVEVKLKSKQYGKG
+KGKSIKDAEQDAAKSVLTQL----------*
+>P1;gi|42984784|gb|EAB59334.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 91 .. 171 ]
+sequence
+GSHIE-KSVV----------TQIDAKTKLQELAKKFKKLPIYKIISNTGPRHKPIFKVGVKLPNTKFFIS
+SGKSKKDAEQNAAIECLKNIN---------*
+>P1;gi|44275186|gb|EAI13381.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 89 .. 155 ]
+sequence
+-------------------------KTKLQEFSKRYKRLPIYKLISNSGPRHMPIFKVAVKLQDTKFYTA
+QGKSKKDAEQNAAILCLQNIK---------*
+>P1;gi|43929160|gb|EAG19564.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 13 .. 93 ]
+sequence
+--HIEKSVVT----------EIDAKTKLQELTLKNFKKLPTYKLISNTGPRHKPIFKIGVKLPNTKYFIA
+SGKSKKEAEQNAAIECLKNTNKK-------*
+>P1;gi|44383795|gb|EAI88681.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 150 .. 221 ]
+sequence
+----------------------VDAKTQLQEYSKNFKLLPIYKLVSNTGPRHKPNFKVGVKLKNSTYIYA
+IGSSKKNAEQSAA---LELLKKIKQK----*
+>P1;gi|44429140|gb|EAJ20668.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 90 .. 165 ]
+sequence
+-------SVI----------TQIDPKTKLQEFSKRFKKLPIYKLISNTGPRHKPLFKVGVKLIDTKFFLA
+EGSSKKDAEQNAAIKCLQNQNK--------*
+>P1;gi|44385300|gb|EAI89949.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 141 .. 220 ]
+sequence
+-SHIE-KSVV----------TQIDAKTKLQELAKKFKKLPTYKVISNTGPRHKPIFKVGVKLPNTKFFIS
+SGKSKKDAEQNAAIECLKNIN---------*
+>P1;gi|44356309|gb|EAI69180.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 168 .. 234 ]
+sequence
+------------------------YKGKLIEYCHSHDISPTFVLKDISGPDHQRTFEIQVKIGSINYSSG
+LGTNKKTAEQIAAKHALEEL----------*
+>P1;gi|44440400|gb|EAJ28505.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 131 .. 195 ]
+sequence
+--------------------DARDAKTMLQEWAQARGQSPKYEIMSQSGPDHAPDFLVKVILDSGETAHA
+LAGSKRQAEQMAAK----------------*
+>P1;gi|43949505|gb|EAG30537.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 83 .. 147 ]
+sequence
+--------------------DARDAKTMLQEWAQARGQPPKYEIMSQSGPDHAPDFLVKVILDSGETANA
+LAGSKRQAEQMAAK----------------*
+>P1;gi|43987781|gb|EAG51394.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 107 .. 181 ]
+sequence
+-------SVI----------TRIDSKTKLQEFSKKFKKLPIYKSFKQTGPNHNPIFKVQVNISNSKKYFG
+LGKSKKLAEQNAASKLVKSLK---------*
+>P1;gi|43120859|gb|EAC26343.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 107 .. 174 ]
+sequence
+-------------------------KSLLQEYSRYHKKIPVYTVEEKTGPDHDPQFKVNVSINSHIYAFG
+EGSSTQKAQEEAAKNLLKKMES--------*
+>P1;gi|44085332|gb|EAH04742.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 46 .. 117 ]
+sequence
+----------------------VDAKTQLQEYSKNFKILPIYKLVSNTGPRHKPNFKVGVRLKNSTYIYA
+IGSSKKNAEQSAA---LELLKKIKQK----*
+>P1;gi|43174538|gb|EAC52846.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 125 .. 199 ]
+sequence
+-------SNI----------TILDPKTKLQEYSLKNKKLPIYKFLSSKGPRHNPTFKVSVSISGSKNFIG
+IGRSKQDAEQSSAKKLLDNIK---------*
+>P1;gi|2500553|sp|Q53844|RNC_SPICI Ribonuclease III (RNase III) >gi|... [ score 62 E 3e-09 ] [ range 168 .. 243 ]
+sequence
+----------------------RDYKTELQEFLQADARTLEYKLIKESQPGNRVLYTVVAEIGGIRYGEG
+CGYTHKEAEQLAARDALQKLATKSK-----*
+>P1;gi|44285368|gb|EAI20178.1| unknown [environmental sequence] [ score 62 E 3e-09 ] [ range 107 .. 175 ]
+sequence
+-------------------------KTRLQEYSLKFKLLPVYKLVSNTGPRHKPNFKVGVKLKNSKYIYA
+VGSSKKNAEQSAASELLKKINQK-------*
+>P1;gi|37522217|ref|NP_925594.1| ribonuclease III [Gloeobacter viola... [ score 62 E 4e-09 ] [ range 164 .. 233 ]
+sequence
+-------ADP----------TRGNHKSALQELTQKLGELPEYRLVD-PGPP----FRYEVWALGRLWGSG
+EGPSKKLAQQRAARGAYAAL----------*
+>P1;gi|44398374|gb|EAI99249.1| unknown [environmental sequence] [ score 62 E 4e-09 ] [ range 140 .. 220 ]
+sequence
+GSHIK-KSVV----------TQIDAKTKLQELAKKFKKLPTYKIISNTGPRHKPIFKVGVKLPNTKFFIS
+LGKSKKDAEQNAAIECLKNIN---------*
+>P1;gi|43736638|gb|EAF22997.1| unknown [environmental sequence] [ score 62 E 4e-09 ] [ range 39 .. 110 ]
+sequence
+---IEVSKTL----------DP---KTLLQEIQQLYKKLPEYKLIKKEGPPHSPTFTVSIKVVNLNKINS
+KGSSIREAERNAAEIAL-------------*
+>P1;gi|34541386|ref|NP_905865.1| ribonuclease III [Porphyromonas gin... [ score 61 E 5e-09 ] [ range 154 .. 220 ]
+sequence
+------------------------YKSLLLEWAQKHHLNLEFRLISEPKRAHG-HFNYAVFVDGHRIGSG
+IGMNKKEAHQNAAHDALEKLKR--------*
+>P1;gi|30250251|ref|NP_842321.1| rnc; ribonuclease III (RNAse III) p... [ score 61 E 5e-09 ] [ range 168 .. 239 ]
+sequence
+--------DT----------SGKDSKTLLQEYLQSRKIAPEYSVLLAQGDPHAQVFHVECVIPG--FGRG
+EGTSRRRAEQEAARQAYE------------*
+>P1;gi|43216858|gb|EAC73958.1| unknown [environmental sequence] [ score 61 E 6e-09 ] [ range 146 .. 220 ]
+sequence
+-------SNI----------TIIDPKTKLQEYSKKYKKLPTYKMTKQSGPNHSPFFKVQVQISNSKKFIG
+NGKSKKIAQQNAALKLIQSLN---------*
+>P1;gi|43702819|gb|EAF06644.1| unknown [environmental sequence] [ score 61 E 6e-09 ] [ range 154 .. 220 ]
+sequence
+-------------------------KSKLQEWSKNKKRLPTYEIMDKSGPDHSPTFTIKVILDEKFSSFA
+KGKSKQDAEIKAADKLLKKIC---------*
+>P1;gi|23474987|ref|ZP_00130278.1| COG0571: dsRNA-specific ribonucle... [ score 61 E 7e-09 ] [ range 329 .. 407 ]
+sequence
+------AEAA----------RTKDAKSTLQELTQRFKERPVYTLLGSSGPEHEKIFKVRLLLDGRAL-ET
+EGQSVKRAEQKAAGLALELLEGES------*
+>P1;gi|24372926|ref|NP_716968.1| ribonuclease III [Shewanella oneide... [ score 61 E 7e-09 ] [ range 147 .. 226 ]
+sequence
+----EIQPGI----------NQKDAKTLLQEYLQLKKPLPDYQVINIEGDAHDQTFTVECRIDDSVIGVA
+SSRRK--AEQIAAAQVLELLKK--------*
+>P1;gi|44316333|gb|EAI40976.1| unknown [environmental sequence] [ score 61 E 7e-09 ] [ range 141 .. 226 ]
+sequence
+--YAERLAGI----------QPGDAKTLLQEYLQLKKPLPDYQVINIEGDAHDQTFTVECRIDESVIGVA
+SSRRK--AEQIAAAQVLELLKK--------*
+>P1;gi|44372046|gb|EAI80462.1| unknown [environmental sequence] [ score 61 E 7e-09 ] [ range 153 .. 219 ]
+sequence
+-------------------------KTQLQEFSLKNKILPIYKLISNTGPRHKPNFKVGVKLKNSTYVYA
+IGSSKKNAEQSAASELLKKIK---------*
+>P1;gi|43493197|gb|EAE01430.1| unknown [environmental sequence] [ score 61 E 7e-09 ] [ range 136 .. 205 ]
+sequence
+-------------------------KSALQEWSHANGVTPEYCEISSSGPSHNPNFLVEVILPGFEKYTG
+NGVTKRKAQQEAAKKLLDHLKKIK------*
+>P1;gi|44489753|gb|EAJ63260.1| unknown [environmental sequence] [ score 61 E 8e-09 ] [ range 168 .. 241 ]
+sequence
+----------------------RDYKSELQEVVQKSLNLPNYELINQFGPDHQKEFEMVVKVEERILGRG
+RGFSKKQAGQAAAQDALVRMQNESE-----*
+>P1;gi|44207467|gb|EAH70327.1| unknown [environmental sequence] [ score 61 E 8e-09 ] [ range 125 .. 207 ]
+sequence
+-SHIDVSKIL----------DP---KTSLQELQQKLKKLPEYKILKKEGPPHSPLFTVVLRVLNLKKIKA
+TGTSIREAERKAALIALNLIDEKK------*
+>P1;gi|44547744|gb|EAK01947.1| unknown [environmental sequence] [ score 61 E 8e-09 ] [ range 146 .. 225 ]
+sequence
+----QINSDD----------LFKDSKSALQEALQKNNILPRYNLIKTKGEQHDQSFEVECIVSSKLVTNG
+TGKSLKIAEQQAAEKALEIFLK--------*
+>P1;gi|44414893|gb|EAJ10568.1| unknown [environmental sequence] [ score 61 E 9e-09 ] [ range 143 .. 214 ]
+sequence
+---IEVSKTL----------DP---KTLLQEIQQLYKKLPEYKLIKKEGPSHSPTFTVSVKVRNLNKINS
+KGSSIREAERNAAEIAL-------------*
+>P1;gi|43219387|gb|EAC75241.1| unknown [environmental sequence] [ score 61 E 9e-09 ] [ range 3 .. 50 ]
+sequence
+---------------------------------------IPYELIHEKGPDHQKEFTMAVFVRDKEYGRG
+CGGSKKIASQLAAENAL-------------*
+>P1;gi|43909674|gb|EAG09474.1| unknown [environmental sequence] [ score 61 E 9e-09 ] [ range 138 .. 218 ]
+sequence
+-------TGI----------QPGDSKTQLQEYLQRRLALPLYEVIDTQGEDHDQVFTVRCTVQGRAPVIA
+SGNSRRKAEQDSARMLLEQIKNDH------*
+>P1;gi|44241131|gb|EAH89130.1| unknown [environmental sequence] [ score 60 E 9e-09 ] [ range 147 .. 226 ]
+sequence
+----EIQPGV----------NQKDAKTLLQEYLQLKKPLPDYQVINIEGDAHDQTFTVECRIDESVIGVA
+SSRRK--AEQIAAAQVLELLKK--------*
+>P1;gi|42933873|gb|EAB33955.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 154 .. 217 ]
+sequence
+-------------------------KTKLQELAKNFKKLPTYKLISNTGPRHKPLFKVGVKLPNTKYFIA
+IGKSKKDAEQNAAIECLK------------*
+>P1;gi|9633838|ref|NP_051918.1| gp029L [Rabbit fibroma virus] >gi|65... [ score 60 E 1e-08 ] [ range 48 .. 110 ]
+sequence
+----------------------------LNEYCQITSREWSINVT-RTGQSHNPTFTAVVTVSGYSFKSA
+TGSNKKEARKNAAKEAMDIILK--------*
+>P1;gi|43186810|gb|EAC58951.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 92 .. 160 ]
+sequence
+-------------------------KTQLQELLQSQGNCPPYEVVSTSGQPHQREFTVHCRIDTESITEG
+RGASRKVAEQQAASKALEKIRK--------*
+>P1;gi|44642312|gb|EAK69051.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 33 .. 109 ]
+sequence
+------ASSK----------TFVDAKTKLQEYSKKYKKLPIYKLLENSGPRHKPIIKVGVRLESTKYFNA
+NGSSKKDAEQKAASLLLESINK--------*
+>P1;gi|42963741|gb|EAB48830.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 115 .. 189 ]
+sequence
+-------SLI----------TERDSKTRLQEYSLKHYKLLPYKLIYNKGPRHKPLIKVSVKIKDSKNIIA
+IGNSKKEAEQKAAKKLLTSLK---------*
+>P1;gi|44574759|gb|EAK21102.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 154 .. 221 ]
+sequence
+-------------------------KTMLQEKTKKFKSLPKYKLISNTGPRHKPVFKVGVKLPNTKYFIG
+IGNSKKNAEQSAATECLNSFNK--------*
+>P1;gi|43011792|gb|EAB72676.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 5 .. 71 ]
+sequence
+-------------------------KTKLQEYSLKFKKLPTYALLSIKGPKHNPLFKISVSINKSKKYTG
+SGNSKKNAEQDAAEKLLKDIN---------*
+>P1;gi|43697624|gb|EAF04056.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 86 .. 152 ]
+sequence
+-------------------------KSILQEYSEKFKTLPKYNILNKSGNEHEPIYEVSVCIKNNNAVSA
+TGSNLKNAEEAAATKLLSILK---------*
+>P1;gi|23014391|ref|ZP_00054210.1| COG0571: dsRNA-specific ribonucle... [ score 59 E 2e-08 ] [ range 203 .. 262 ]
+sequence
+---------------------PKDAKTGLQEWAQGRGKLPAYKMLGQEGPPHEPTFLMEVSVEGVGSAVG
+RGASKRVAEQ--------------------*
+>P1;gi|15606266|ref|NP_213645.1| RNase III [Aquifex aeolicus] >gi|75... [ score 59 E 2e-08 ] [ range 145 .. 221 ]
+sequence
+-------EGR----------VKKDYKTILQEITQKRKERPEYRLISVEGPHHKKKFIVEAKI--KEYRTG
+EGKSKKEAEQRAAEELIKLLEESE------*
+>P1;gi|18391056|ref|NP_563850.1| double-stranded RNA-binding domain ... [ score 59 E 2e-08 ] [ range 5 .. 84 ]
+sequence
+----DVSSGV----------SNCYFKSRLQEYAQKYKLPTPVYEIVKEGPSHKSLFQSTVILDGVRYNSL
+PGFNRKAAEQSAAEVALRELAK--------*
+>P1;gi|42856812|gb|EAA95692.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 47 .. 113 ]
+sequence
+-------------------------KTKLQELAKNFKKLPIYKLISSTGPRHKPLFKVGVKLPNTKYFIS
+SGKSKKDAEQNAAIECLENIK---------*
+>P1;gi|43613044|gb|EAE61255.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 27 .. 93 ]
+sequence
+-------------------------KTLLQEYSKKFKKLPVYEMSKKSGPNHNPVFKVQVKISNSKKYFG
+YGKSKKLAQQSAASKLMKSLN---------*
+>P1;gi|43915147|gb|EAG12482.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 144 .. 220 ]
+sequence
+-----LNSAI----------TLIDSKTKLQEYSKKFKELPKYIFSKKTGPQHKPLFMTEVQIPNSKKITG
+IGTSKKNAQQNAASKLLKILK---------*
+>P1;gi|23037752|ref|ZP_00069955.1| COG0571: dsRNA-specific ribonucle... [ score 59 E 2e-08 ] [ range 160 .. 225 ]
+sequence
+-----------------------DYKSKLQELLQKAGSVIEYKVENEDSDPQKPHFEVTVFVNDKAIGSG
+SGRSIKIAEKRAAKKAY-------------*
+>P1;gi|43510532|gb|EAE10010.1| unknown [environmental sequence] [ score 59 E 2e-08 ] [ range 72 .. 148 ]
+sequence
+-------EDK----------NMQDSKTKLQELQQKQKKLPQYNLIQKEGPSHSPTFTISLKVLNLKKIIC
+SGSTIRDAEKNAASIALKLINEK-------*
+>P1;gi|22991988|ref|ZP_00036663.1| COG0571: dsRNA-specific ribonucle... [ score 59 E 3e-08 ] [ range 17 .. 60 ]
+sequence
+--------------------------------AKSGDVSIEYRLINEEGPAHERVFWIEVYVDDQLIGTG
+QGKSKK------------------------*
+>P1;gi|43308805|gb|EAD20186.1| unknown [environmental sequence] [ score 58 E 4e-08 ] [ range 144 .. 220 ]
+sequence
+-----VNSVI----------TLIDSKTKLQEYSKKFKKLPKYTFFKKTGPQHKPIFKTEVEIPESKKIIG
+EGASKKKAQQNAAEKLIKMLN---------*
+>P1;gi|27696370|gb|AAH43873.1| MGC53736 protein [Xenopus laevis] [ score 58 E 4e-08 ] [ range 33 .. 96 ] [ duplicate a ]
+sequence
+-------------------------IQLLHEFGTKTGNHPVYTLEKAEGQAHNPSFTFRLVI-GDITSLG
+EGPSKKTAKQKAAEFALNIL----------*
+>P1;gi|27696370|gb|AAH43873.1| MGC53736 protein [Xenopus laevis] [ score 58 E 4e-08 ] [ range 128 .. 199 ] [ duplicate b ]
+sequence
+----------------------------LQELAQKGWRLPEYTVAQESGPPHKREFTITCRVETFV-ETG
+SGTSKQVAKRVAAEKLLTKFKTISTDNIPL*
+>P1;gi|45525238|ref|ZP_00176481.1| hypothetical protein Cwat357101 [... [ score 58 E 4e-08 ] [ range 156 .. 230 ]
+sequence
+----EIRSDP----------ARQNYKDALQEWTQGQKILPDYRVAEQQNRGHHQRFFAEVWLKDRQLGSG
+YGRSKKMAEQAAAKDAF-------------*
+>P1;gi|26324344|dbj|BAC25926.1| unnamed protein product [Mus musculus] [ score 58 E 4e-08 ] [ range 13 .. 70 ]
+sequence
+----------------------------VNELARFHSIQPQYKLLNESGPAHSKMFSVQLSLGEQTW-ES
+EGSSIKKAQQAVANKAL-------------*
+>P1;gi|39935763|ref|NP_948039.1| putative ribonuclease III [Rhodopse... [ score 58 E 4e-08 ] [ range 191 .. 256 ]
+sequence
+--------AR----------SLRDPKTVLQEWAQARGLTPVYREVERTGPHHDPQFRVAVILPGLEPAEG
+LGGSKRAAEKVAA-----------------*
+>P1;gi|44090628|gb|EAH07565.1| unknown [environmental sequence] [ score 58 E 4e-08 ] [ range 27 .. 93 ]
+sequence
+-------------------------KTKIQEFSKKFKKLPIYKTIKKTGPNHNPFFQVSVQIENSKKYIG
+QGNSKKNAEQNAALKLIRNLN---------*
+>P1;gi|43840230|gb|EAF74373.1| unknown [environmental sequence] [ score 58 E 4e-08 ] [ range 30 .. 97 ]
+sequence
+------SSSV----------TKIDSKTKLQEYSKKYKKLPTYKAYKQTGPNHNPLFKIQVQIPNSKAFIG
+YGKSKKLAEQNAA-----------------*
+>P1;gi|43774722|gb|EAF41837.1| unknown [environmental sequence] [ score 58 E 4e-08 ] [ range 17 .. 80 ]
+sequence
+-------------------------KTRLQEYSKKYKSLPIYKLISNTGPRHKPNFKVAVRLENSKYIYA
+NGASIKNAEQDAAKKFLE------------*
+>P1;gi|9967526|emb|CAC05659.1| RBP2 protein [Brassica oleracea var. ... [ score 58 E 5e-08 ] [ range 5 .. 84 ] [ duplicate a ]
+sequence
+----DVSSGV----------SNCYFKSRLQEYAQKYKLPTPIYETVKEGPSHKSLFQSTVIVDGVRYDSL
+PGFNRKAAEQSAAEVALQELSK--------*
+>P1;gi|9967526|emb|CAC05659.1| RBP2 protein [Brassica oleracea var. ... [ score 58 E 5e-08 ] [ range 103 .. 173 ] [ duplicate b ]
+sequence
+-------------------------KNLLQEYAQKMNYAIPYQCQKSETLGRAPQFTCTVEIGGIKYTGA
+ATKTKKEAEISAGRTALIAIQSESK-----*
+>P1;gi|21674928|ref|NP_662993.1| ribonuclease III [Chlorobium tepidu... [ score 58 E 5e-08 ] [ range 190 .. 258 ]
+sequence
+------------------------YKSRLIEYTQRQLPPPLYTVITEEGAEHEKTFVVEVSCNGQPLGRG
+TAPRKKDAEQLAAKEAMKRLES--------*
+>P1;gi|44296776|gb|EAI27755.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 141 .. 220 ]
+sequence
+--HFIKKSNI----------TQIDPKTKLQEYSKKYKKLPIYKTFKQTGPNHNPSFKVEVQISNSKKYFG
+HGKSKKLAQKSAASKLIKSLN---------*
+>P1;gi|18401724|ref|NP_565672.1| double-stranded RNA-binding domain ... [ score 58 E 5e-08 ] [ range 2 .. 70 ] [ duplicate a ]
+sequence
+------------------------YKNQLQELAQRSCFNLPSYTCIREGPDHAPRFKATVNFNGEIFESP
+QYSTLRQAEHSAAEVALNALSN--------*
+>P1;gi|18401724|ref|NP_565672.1| double-stranded RNA-binding domain ... [ score 58 E 5e-08 ] [ range 86 .. 165 ] [ duplicate b ]
+sequence
+----------------------GVYKNLLQEIAQRVGAPLPRYTTFRSGLGHQPVFTGTVELAGITFTGD
+PAKNKKQAEKNAAMAALKQLAKETSSSMP-*
+>P1;gi|43566705|gb|EAE38123.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 123 .. 197 ]
+sequence
+-------SVI----------TRIDPKTKLQEFSKKFKKLPIYKSFKPTGPNHSPIFKVQVNISNSKKYFG
+LGKSKKLAEQNAASKLVKSLK---------*
+>P1;gi|43794538|gb|EAF51851.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 125 .. 199 ]
+sequence
+-------SVI----------TRIDPKTKLQEFSKKFKKLPIYKSFKPTGPNHNPIFKVQVNILNSKKYFG
+LGKSKKLAEQNAASKLVKSLK---------*
+>P1;gi|43736187|gb|EAF22786.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 170 .. 229 ]
+sequence
+-------------------------KSYLQEWAQARGMSPTYSEVERSGPDHAPIFMVKVILDNGEFAYG
+QASAKRPAQQQAAK----------------*
+>P1;gi|44043634|gb|EAG81779.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 7 .. 76 ]
+sequence
+-------------------------KTLLQEIQQLYKKLPEYKLIKKEGPPHSPTFTVSVKVVNLNKINS
+KGFSIREAERNAAEIALNKINEKK------*
+>P1;gi|6969701|gb|AAF33913.1| TE3L [Vaccinia virus (strain Tian Tan)] [ score 58 E 5e-08 ] [ range 44 .. 107 ]
+sequence
+-------------------------VTIINEYCQITKRDWSFR-IESVGPSNSPTFYACVDIDGRVFDKA
+DGKSKRDAKNNAAKLAVDKL----------*
+>P1;gi|43360432|gb|EAD45087.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 152 .. 212 ]
+sequence
+------AESW----------SFRDFKSDLQEYTQNKMVIPSYKVVREIGPDHAKEFEVVVMVKKKICGKG
+LGRTKK------------------------*
+>P1;gi|28199176|ref|NP_779490.1| ribonuclease III [Xylella fastidios... [ score 58 E 5e-08 ] [ range 157 .. 227 ]
+sequence
+-------------------------KTRLQEWLQRQWSLPVYELIFESGDPHTKHFRVSCTLGEKLRTEG
+EGSSRRLAEQDAASHAIDQLDSNK------*
+>P1;gi|7229532|gb|AAF42865.1| staufen [Drosophila virilis] [ score 120 E 9e-27 ] [ range 608 .. 675 ]
+sequence
+------------------------PISQVHEIGIKRNMTVHFKVLREEGPAHMKNFITACIVGS-IVTEG
+EGNGKKLSKKRAAEKMLSELQKL-------*
+>P1;gi|4572588|emb|CAB40082.1| staufen protein [Homo sapiens] [ score 116 E 1e-25 ] [ range 206 .. 269 ] [ duplicate b ]
+sequence
+------------------------PISRLAQIQAKKEKEPEYTLLTERGLPRRREFVMQVKVGN-HTAEG
+TGTNKKVAKRNAAENMLE------------*
+>P1;gi|12836618|dbj|BAB23736.1| unnamed protein product [Mus musculu... [ score 114 E 4e-25 ] [ range 199 .. 262 ] [ duplicate b ]
+sequence
+------------------------PISRLAQIQAKKEKEPEYMLLTERGLPRRREFVMQVKVGH-HTAEG
+VGTNKKVAKRNAAENMLE------------*
+>P1;gi|7229534|gb|AAF42866.1| staufen [Musca domestica] [ score 114 E 5e-25 ] [ range 580 .. 647 ]
+sequence
+------------------------PISMVFEIGIKRNLPVDFKILREDGPAHMRTFTTACIVGQ-IVTEA
+EGTGKKISKKKAAQKMLEELKKL-------*
+>P1;gi|38014440|gb|AAH60382.1| LOC398937 protein [Xenopus laevis] [ score 113 E 1e-24 ] [ range 202 .. 268 ]
+sequence
+-------------------------ISQVFEIALKRNMSVNFEVTKETGPPHMKSFVTKVIVGE-FLGNG
+EGKSKKISKKNAAIAVLEELRKL-------*
+>P1;gi|31198893|ref|XP_308394.1| ENSANGP00000019093 [Anopheles gambi... [ score 112 E 3e-24 ] [ range 578 .. 645 ]
+sequence
+------------------------PISLVHEIAVQRSLSVVFEVISEKGPPHMTVFVTQCKVGT-IVTEG
+EGTGKKLSKKRAAEKMLEELRKL-------*
+>P1;gi|19264083|gb|AAH25118.1| Stau2 protein [Mus musculus] [ score 111 E 3e-24 ] [ range 177 .. 243 ] [ duplicate a ]
+sequence
+-------------------------ISLVFEIALKRNMPVSFEVIKESGPPHMKSFVTRVSVGE-FSAEG
+EGNSKKLSKKRAATTVLQELKKL-------*
+>P1;gi|19264083|gb|AAH25118.1| Stau2 protein [Mus musculus] [ score 111 E 3e-24 ] [ range 276 .. 341 ] [ duplicate b ]
+sequence
+------------------------PISRLAQIQARKEKEPDYILLSERGMPRRREFVMQVKVGN-EVATG
+TGPNKKIAKKNAAEAMLLQL----------*
+>P1;gi|14249967|gb|AAH08369.1| STAU2 protein [Homo sapiens] >gi|2350... [ score 111 E 4e-24 ] [ range 276 .. 341 ] [ duplicate b ]
+sequence
+------------------------PISRLAQIQAKKEKEPDYVLLSERGMPRRREFVMQVKVGN-EVATG
+TGPNKKIAKKNAAEAMLLQL----------*
+>P1;gi|19745196|ref|NP_604461.1| staufen, RNA binding protein, homol... [ score 111 E 4e-24 ] [ range 308 .. 373 ] [ duplicate b ]
+sequence
+------------------------PISRLAQIQARKEKEPDYVLLSERGMPRRRKFVMQVKVGN-EVATG
+TGPNKKIAKKNAAEAMLLQL----------*
+>P1;gi|19745196|ref|NP_604461.1| staufen, RNA binding protein, homol... [ score 111 E 4e-24 ] [ range 9 .. 72 ] [ duplicate c ]
+sequence
+------------------------PMCLVNELARFHSIQPQYKLLNESGPAHSKMFSVQLSLGE-QTWES
+EGSSIKKAQQAVANKALTE-----------*
+>P1;gi|41055520|ref|NP_957219.1| similar to staufen (RNA binding pro... [ score 110 E 6e-24 ] [ range 256 .. 322 ] [ duplicate a ]
+sequence
+-------------------------ISLVYEIALKRNLPVNFEVLKESGPPHMKSFLTRVTVGE-FSAEG
+EGNSKKLSKKRAALSILQELKKL-------*
+>P1;gi|41055520|ref|NP_957219.1| similar to staufen (RNA binding pro... [ score 110 E 6e-24 ] [ range 355 .. 420 ] [ duplicate b ]
+sequence
+------------------------PISRLAQIQAKKEKEPEYMLLSERGMPRRREFIMQVKVGT-EVTTG
+TGPNKKVAKRNAAEAMLLQL----------*
+>P1;gi|41055520|ref|NP_957219.1| similar to staufen (RNA binding pro... [ score 110 E 6e-24 ] [ range 56 .. 119 ] [ duplicate c ]
+sequence
+------------------------PMCLVNELARFNRIQPQYKLLNEKGPAHAKIFTVQLCLGN-QVWES
+EGSSIKKAQHSTATKALAE-----------*
+>P1;gi|45387553|ref|NP_991124.1| Unknown (protein for MGC:77271) [Da... [ score 109 E 2e-23 ] [ range 221 .. 287 ] [ duplicate a ]
+sequence
+-------------------------ISQVFEIALKRNMPVDFEVLKEAGAPHMKSFVVRVVVGE-FAGEG
+EGKSKKIAKKQAAIAVLEELRRL-------*
+>P1;gi|45387553|ref|NP_991124.1| Unknown (protein for MGC:77271) [Da... [ score 109 E 2e-23 ] [ range 322 .. 385 ] [ duplicate b ]
+sequence
+------------------------PISRLAQIQAKKEKEPEYTLVTERGLPRRREFVMQVSVAG-QNAEG
+MGPSKKVAKRNAAEKMLE------------*
+>P1;gi|45387553|ref|NP_991124.1| Unknown (protein for MGC:77271) [Da... [ score 109 E 2e-23 ] [ range 9 .. 72 ] [ duplicate c ]
+sequence
+------------------------PMCLVNELARYNKIQPEYKLLSEEGPAHSKIFSVRLTLGD-QHWDA
+EGTSIKKAQHSAASSALAQ-----------*
+>P1;gi|16758178|ref|NP_445888.1| staufen (Drosophila, RNA-binding pr... [ score 108 E 3e-23 ] [ range 98 .. 170 ] [ duplicate a ]
+sequence
+-------------------------ISQVFEIALKRNLPVNFEVARESGPPHMKNFVTRVSVGE-FVGEG
+EGKSKKISKKNAARAVLEQLRRL-------*
+>P1;gi|33875035|gb|AAH10169.1| STAU protein [Homo sapiens] [ score 106 E 1e-22 ] [ range 105 .. 177 ]
+sequence
+-------------------------ISQVFEIALKRNLPVNFEVARESGPPHMKNFVTKVSVGE-FVGEG
+EGKSKKISKKNAAIAVLEELKKL-------*
+>P1;gi|3334381|sp|Q91836|TRBP_XENLA Double stranded RNA binding prot... [ score 105 E 3e-22 ] [ range 113 .. 181 ] [ duplicate a ]
+sequence
+------------------------PVGSLQELAVQKGWRLEYTVAQESGPPHKREFTITCRVET-FVETG
+SGTSKQVAKRVAAEKLLTKFKTI-------*
+>P1;gi|3334381|sp|Q91836|TRBP_XENLA Double stranded RNA binding prot... [ score 105 E 3e-22 ] [ range 21 .. 86 ] [ duplicate b ]
+sequence
+------------------------PIQLLHEFGTKTGNHPVYTLEKAEGQAHNPSFTFRLVIGD-ITSLG
+EGPSKKTPKQKAAEFALNILR---------*
+>P1;gi|107904|pir||A38430 trans-activation-responsive RNA-binding pr... [ score 105 E 4e-22 ] [ range 157 .. 225 ]
+sequence
+------------------------PVGALQELVVQKGWRLEYTVTQESGPAHRKEFTMTCRVER-FIEIG
+SGTSKKLAKRNAAAKMLLRVHTV-------*
+>P1;gi|41053389|ref|NP_956291.1| TAR (HIV) RNA binding protein 2 [Da... [ score 105 E 4e-22 ] [ range 140 .. 205 ]
+sequence
+------------------------PVGALQELVVQKGWRLEYTVTQESGPAHRKEFTMTCRVER-FVEIG
+SGTSKKLAKRNAAAKMLSRI----------*
+>P1;gi|36963075|gb|AAQ87664.1| staufen [Mus musculus] [ score 103 E 9e-22 ] [ range 98 .. 170 ] [ duplicate a ]
+sequence
+-------------------------ISQVFEIALKRNLPVNFEVARESGPPHMKNVVTRVPVGE-FVGEG
+EGKSKKISKKNAARAVLEQLRRL-------*
+>P1;gi|6678221|ref|NP_033345.1| TAR (HIV) RNA binding protein 2 [Mus... [ score 102 E 1e-21 ] [ range 31 .. 96 ] [ duplicate b ]
+sequence
+------------------------PISLLQEYGTRIGKTPVYDLLKEEGQAHQPNFTFRVTVGD-TSCTG
+TGPSKKAAKHKAAEVALKHLK---------*
+>P1;gi|21739361|emb|CAD38725.1| hypothetical protein [Homo sapiens] [ score 100 E 5e-21 ] [ range 116 .. 184 ] [ duplicate a ]
+sequence
+------------------------PIGSLQELAIHHGWRLEYTLSQEGGPAHKREYTTICRLES-FMETG
+KGASKKQAKRNAAEKFLAKFSNI-------*
+>P1;gi|21739361|emb|CAD38725.1| hypothetical protein [Homo sapiens] [ score 100 E 5e-21 ] [ range 24 .. 89 ] [ duplicate b ]
+sequence
+------------------------PIQVLHEYGMKKNIPV-YECERSDVQIHVPTFTFRVTVGD-ITCTG
+EGTSKKLAKHRAAEAAINILK---------*
+>P1;gi|28302215|gb|AAH46732.1| Stau2-prov protein [Xenopus laevis] [ score 92 E 3e-18 ] [ range 291 .. 357 ] [ duplicate a ]
+sequence
+-------------------------ISLVFEISLKRNLPLSFEVIKESGPPHMKSFVTKVTVGE-FTAEG
+EGNSKKLAKRRAAAAVLQELRKL-------*
+>P1;gi|28302215|gb|AAH46732.1| Stau2-prov protein [Xenopus laevis] [ score 92 E 3e-18 ] [ range 390 .. 455 ] [ duplicate b ]
+sequence
+------------------------PISRLAQIQAKKEKEPEYVLLSERGIQRRREFIMQVKVGE-ETATG
+TGPNKKIAKRNAAEAMLLQL----------*
+>P1;gi|31233447|ref|XP_318876.1| ENSANGP00000015774 [Anopheles gambi... [ score 64 E 7e-10 ] [ range 169 .. 235 ]
+sequence
+------------------------PIGWLQEMCMARRLPPTYETETEEGLPHERQFTIACVVLN-YREVG
+EGKSKKIAKRQAAQRMWQRLQ---------*
+>P1;gi|43186810|gb|EAC58951.1| unknown [environmental sequence] [ score 61 E 5e-09 ] [ range 91 .. 161 ]
+sequence
+------------------------PKTQLQELQSQGNCPPSYEVVSTSGQPHQREFTVHCRIDE-SITEG
+RGASRKVAEQQAASKALEKIRKV-------*
+>P1;gi|24584110|ref|NP_723813.1| CG6866-PA [Drosophila melanogaster]... [ score 61 E 8e-09 ] [ range 251 .. 317 ] [ duplicate a ]
+sequence
+------------------------PIGWLQEMCMQRRWPPSYETETEVGLPHERLFTIACSILN-YREMG
+KGKSKKIAKRLAAHRMWMRLQ---------*
+>P1;gi|24584110|ref|NP_723813.1| CG6866-PA [Drosophila melanogaster]... [ score 61 E 8e-09 ] [ range 136 .. 204 ] [ duplicate b ]
+sequence
+------------------------PVSILQELLSRRGITPGYELVQIEGAIHEPTFRFRVSFKD-FTAMG
+AGRSKKEAKHAAARALIDKL----------*
+>P1;gi|29377554|ref|NP_816708.1| ribonuclease III [Enterococcus faec... [ score 54 E 7e-07 ] [ range 163 .. 225 ]
+sequence
+-------------------------KTQLQEVLQRKGVSIEYRLIKEEGPAHDRTFFTEVYMGE-LIGLG
+QGKSKKLAEQDAAERAL-------------*
+>P1;gi|15926816|ref|NP_374349.1| RNase III [Staphylococcus aureus su... [ score 53 E 1e-06 ] [ range 174 .. 242 ]
+sequence
+-------------------------KTQFQEYVHQQNKDVTYNLIKEEGPAHHRLFTSEVILGE-AIAEG
+KGKTKKESEQRAAESAYKQLKQI-------*
+>P1;gi|16331055|ref|NP_441783.1| ribonuclease III [Synechocystis sp.... [ score 53 E 2e-06 ] [ range 162 .. 227 ]
+sequence
+-------------------------KSMLQQWALAKTKQLEYELINTSGPPHAQEFTFTVKVGK-IHGQG
+SGPSKQIATKQAA---LEALKSL-------*
+>P1;gi|45383650|ref|NP_989571.1| adenosine deaminase, RNA-specific, ... [ score 52 E 4e-06 ] [ range 236 .. 297 ] [ duplicate a ]
+sequence
+-----------------------------NPVMILNELRLKYEFLSESGESHAKNFVMAVAVDG-QTFEG
+SGRNKKLAKARAAQSALASL----------*
+>P1;gi|45383650|ref|NP_989571.1| adenosine deaminase, RNA-specific, ... [ score 52 E 4e-06 ] [ range 86 .. 143 ] [ duplicate b ]
+sequence
+---------------------------QLNEI--KPGL--QYKLLSQTGPVHAPVFVMAVEVNG-QVFEG
+SGPTKKKAKLHAAEKALRSF----------*
+>P1;gi|45531438|ref|ZP_00182486.1| hypothetical protein Exigu220701 ... [ score 51 E 5e-06 ] [ range 130 .. 197 ]
+sequence
+-------------------------KSQLQEAIQRVGLQIEYEIIEERGPAHSREFISRVIADK-LEGIG
+TGRSKKEAEQQAAKQALLELKN--------*
+>P1;gi|22997130|ref|ZP_00041367.1| COG0571: dsRNA-specific ribonucle... [ score 51 E 6e-06 ] [ range 156 .. 223 ]
+sequence
+------------------------PKTRLQEWLQARQWSLVYELIFESGDPHTKHFRVSCTLGE-LKTEG
+EGSSRRLAEQDAASHAIDQL----------*
+>P1;gi|43230816|gb|EAC80988.1| unknown [environmental sequence] [ score 51 E 7e-06 ] [ range 141 .. 207 ]
+sequence
+-------------------------KSELQEQVQKMGLPSTYELVDETGPDHQKEFTMAVFVDE-EYGRG
+SGASKKIASQLAAENALERIK---------*
+>P1;gi|1657636|gb|AAB18134.1| RNA adenosine deaminase [Homo sapiens] [ score 51 E 8e-06 ] [ range 230 .. 299 ]
+sequence
+------------------------PSSGKNPVMILNELRLKYDFLSESGESHAKSFVMSVVVGQ-FF-EG
+SGRNKKLAKARAAQSALATVFNL-------*
+>P1;gi|15615052|ref|NP_243355.1| ribonuclease III [Bacillus halodura... [ score 51 E 9e-06 ] [ range 192 .. 258 ]
+sequence
+-------------------------KSQLQEFIQRDNLHIHYEIVQERGPAHNREFVSEVVLNE-TLGVG
+TGRSKKEAEQHAAQQALITLS---------*
+>P1;gi|21230730|ref|NP_636647.1| ribonuclease III [Xanthomonas campe... [ score 51 E 1e-05 ] [ range 155 .. 222 ]
+sequence
+------------------------PKTRLQEWLQARQLPLQYALISESGDEHAKQFHVACILEQ-PAAEG
+QGTSRRLAEQQAAATVIAQL----------*
+>P1;gi|1389549|dbj|BAA10976.1| ORF3 [Bacillus subtilis] [ score 50 E 1e-05 ] [ range 177 .. 244 ]
+sequence
+-------------------------KSQLQEYVQRDGKSLEYKISNEKGPAHNREFEAIVSLGE-PLGVG
+NGRSKKEAEQHAAQEALAKLEK--------*
+>P1;gi|16803845|ref|NP_465330.1| similar to ribonuclease III [Lister... [ score 50 E 1e-05 ] [ range 161 .. 226 ]
+sequence
+-------------------------KTQLQEIVQRRDVLIEYDILGETGPAHNKAFDAQVIVGQ-VLGKG
+SGRTKKQAEQSAAQFAINKL----------*
+>P1;gi|21242078|ref|NP_641660.1| ribonuclease III [Xanthomonas axono... [ score 50 E 2e-05 ] [ range 155 .. 222 ]
+sequence
+------------------------PKTRLQEWLQARQLPLTYALISESGDEHAKQFHVACILEQ-PVAEG
+QGTSRRLAEQQAATLVIAQL----------*
+>P1;gi|43349685|gb|EAD39757.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 148 .. 215 ]
+sequence
+-------------------------KSELQEHVQKTGMPSKYELVDEKGPDHQKEFTMAVFVDK-EYGRG
+SGASKKLASQLAAENALVRIQR--------*
+>P1;gi|23026550|ref|ZP_00065023.1| COG0571: dsRNA-specific ribonucle... [ score 50 E 2e-05 ] [ range 157 .. 225 ]
+sequence
+-------------------------KTLLQEYLQERKMPLTYTVLAEGGEAHSRQFTVECTI------TG
+KGNSKRIAEKLAAEKMLSQLTN--------*
+>P1;gi|42521037|ref|NP_966952.1| ribonuclease III, putative [Wolbach... [ score 49 E 3e-05 ] [ range 160 .. 228 ]
+sequence
+------------------------PKTSLQEWTQKNKLPLEYELVKQTGPAHNPEFTISVCIED-YGKVS
+AASSKKIAEQKAAELMLEKIGK--------*
+>P1;gi|39592505|emb|CAE63582.1| Hypothetical protein CBG08071 [Caeno... [ score 49 E 4e-05 ] [ range 392 .. 436 ] [ duplicate a ]
+sequence
+-----------------------------------------FELLSENGVSKYKEFVIQAKYGE-IVCEG
+KGPNKRLAKRAAAEEML-------------*
+>P1;gi|39592505|emb|CAE63582.1| Hypothetical protein CBG08071 [Caeno... [ score 49 E 4e-05 ] [ range 254 .. 320 ] [ duplicate b ]
+sequence
+-------------------------ISDIHEKAHLLKLNVVFETLKEEGPPHDRVYVVRC---A-FVAIG
+KGKKKKVAQQEACTQLL-------------*
+>P1;gi|39592505|emb|CAE63582.1| Hypothetical protein CBG08071 [Caeno... [ score 49 E 4e-05 ] [ range 38 .. 98 ] [ duplicate c ]
+sequence
+----------------------------VAEIARFNKLRHFYDLQDESGPAHKKLFTVRLVLET-F--EG
+SGTSIKRAQQAAAETALEK-----------*
+>P1;gi|15674631|ref|NP_268805.1| putative ribonuclease III [Streptoc... [ score 48 E 4e-05 ] [ range 172 .. 230 ]
+sequence
+----------------------------------KGDVAIDYQVISEKGPAHAKQFVSIVVNGA-VLSKG
+LGKSKKLAEQDAAKNALAQLSEV-------*
+>P1;gi|17568157|ref|NP_508196.1| staufen (XB646) [Caenorhabditis ele... [ score 48 E 4e-05 ] [ range 294 .. 366 ] [ duplicate a ]
+sequence
+-------------------------ISDIHEKAYQLKVNVVFEVLKEEGPPHDRQYVVRCTSGN-VVAVG
+KGKKKKSAQQEACTQLLATVEHL-------*
+>P1;gi|17568157|ref|NP_508196.1| staufen (XB646) [Caenorhabditis ele... [ score 48 E 4e-05 ] [ range 432 .. 477 ] [ duplicate b ]
+sequence
+-----------------------------------------FELVAEHGVSKYKEFIIQVKYGD-DVQEG
+KGPNKRLAKRAAAEAMLE------------*
+>P1;gi|18858255|ref|NP_571685.1| adenosine deaminase, RNA-specific, ... [ score 48 E 5e-05 ] [ range 101 .. 158 ]
+sequence
+---------------------------QLNEI--KPGL--QYKLLSQTGPVHAPVFVMTVEVNG-QLFEG
+SGPTKKKAKLNAAEKALRSF----------*
+>P1;gi|33152642|ref|NP_873995.1| ribonuclease III [Haemophilus ducre... [ score 48 E 6e-05 ] [ range 153 .. 222 ]
+sequence
+------------------------PKTRLQEFLQGRRLKLEYEVLDIKGEAHNQIFKVSCKIET-FTDIG
+IGTSRRKAEQNAAEQILLKLNK--------*
+>P1;gi|24582609|ref|NP_609152.1| CG7138-PA [Drosophila melanogaster]... [ score 47 E 1e-04 ] [ range 97 .. 159 ]
+sequence
+-------------------------VKELRDYCVRREMPLPIEVVQQSGTPSAPEFVACCSVAS-IVRYG
+KSDKKKDARQRAAIEMLA------------*
+>P1;gi|30021937|ref|NP_833568.1| Ribonuclease III [Bacillus cereus A... [ score 47 E 1e-04 ] [ range 176 .. 242 ]
+sequence
+-------------------------KSQLQEL-IQRDGSVEYQILQEKGPAHNREFVSRVTLNN-VLGLG
+SGKSKKEAEQQAAAEALKKLK---------*
+>P1;gi|25010800|ref|NP_735195.1| Unknown [Streptococcus agalactiae N... [ score 47 E 2e-04 ] [ range 177 .. 228 ]
+sequence
+---------------------------------------IDYQVTNESGPAHAKEFEVTVSVQE-NLSQG
+IGRSKKAAEQDAAKNALATLQ---------*
+>P1;gi|43397929|gb|EAD61760.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 141 .. 208 ]
+sequence
+-------------------------KTALQEWAQRRQYALEYRVISQEGPAHSPKFLIEVYLGK-FEQKG
+YGTSKRQAEQMAAKSLLAEVLK--------*
+>P1;gi|18310700|ref|NP_562634.1| ribonuclease III [Clostridium perfr... [ score 46 E 2e-04 ] [ range 165 .. 230 ]
+sequence
+----------------------------LQEV-LQKNGEVNYNLVKHEGPPHRRKFFTDLLINE-IMGQG
+VGFSKKESEQNAAKAALQRLGEI-------*
+>P1;gi|43766232|gb|EAF37567.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 50 .. 111 ]
+sequence
+-------------------------KSALQELVLQNGLILNYELIKKEGPDHNPFFIMKVTAMG-FFSEG
+KGKTIKLAELDAAKNIL-------------*
+>P1;gi|27467826|ref|NP_764463.1| RNase III [Staphylococcus epidermid... [ score 46 E 2e-04 ] [ range 189 .. 233 ]
+sequence
+---------------------------------------VTYQLIKEEGPAHHRLFTSEVILEK-AVAEG
+KGKTKKESEQKAAE----------------*
+>P1;gi|23098981|ref|NP_692447.1| ribonuclease III [Oceanobacillus ih... [ score 46 E 2e-04 ] [ range 160 .. 227 ]
+sequence
+-------------------------KSQLQEFVQQKDQKIEYRIIEEKGPSHNKEFVAEVVIEK-AAGIG
+TGRTKKEAEQRAAKNALDSINN--------*
+>P1;gi|23019387|ref|ZP_00059098.1| COG0571: dsRNA-specific ribonucle... [ score 46 E 3e-04 ] [ range 165 .. 224 ]
+sequence
+-------------------------KTSLQELTAAELLGVPEYVVEESGPDHQKTFRATVRVGQ-TYGSG
+EGRSKKEAEQQAAES---------------*
+>P1;gi|32034653|ref|ZP_00134800.1| COG0571: dsRNA-specific ribonucle... [ score 46 E 3e-04 ] [ range 153 .. 222 ]
+sequence
+------------------------PKTRLQEFLQGRKLPLTYEVLDIKGEAHNQTFKVTCKIEM-LEEIG
+IGTSRRKAEQNAAEQVLAKLTT--------*
+>P1;gi|44489753|gb|EAJ63260.1| unknown [environmental sequence] [ score 46 E 3e-04 ] [ range 171 .. 238 ]
+sequence
+-------------------------KSELQEVVQKSNLPANYELINQFGPDHQKEFEMVVKVEE-ILGRG
+RGFSKKQAGQAAAQDALVRMQN--------*
+>P1;gi|29829207|ref|NP_823841.1| putative ribonuclease III [Streptom... [ score 46 E 3e-04 ] [ range 176 .. 235 ]
+sequence
+-------------------------KTSLQELTATEGLGVPEYLVTETGPDHEKTFTAAARVGG-VSGTG
+TGRSKKEAEQQAAES---------------*
+>P1;gi|15606266|ref|NP_213645.1| RNase III [Aquifex aeolicus] >gi|75... [ score 46 E 3e-04 ] [ range 156 .. 219 ]
+sequence
+----------------------------LQEITQKRKERPEYRLISVEGPHHKKKFIVEAKIKE-YRTLG
+EGKSKKEAEQRAAEKLLEE-----------*
+>P1;gi|15892080|ref|NP_359794.1| ribonuclease III [EC:3.1.26.3] [Ric... [ score 45 E 4e-04 ] [ range 159 .. 226 ]
+sequence
+------------------------PKTALQEWASDHHLPI-YRLIKREGASHSSTFTVLVKVKD-YEQTG
+TGHTIKEAEKNAARSLLHRLKN--------*
+>P1;gi|23053709|ref|ZP_00079902.1| COG0571: dsRNA-specific ribonucle... [ score 45 E 4e-04 ] [ range 192 .. 240 ]
+sequence
+-----------------------------------------YELIATDGPPHDRRFTVIAMVGK-RMGEG
+AGRSKKEAEQAAARQVLARF----------*
+>P1;gi|44404301|gb|EAJ03347.1| unknown [environmental sequence] [ score 45 E 4e-04 ] [ range 152 .. 222 ]
+sequence
+------------------------PKTRLQEIGNNEELPV-YEVESVTGQDHDLSFKVKCSLPS-IAQFG
+EGASRRLSEKIAAQRIIEELEAL-------*
+>P1;gi|22968537|ref|ZP_00016124.1| COG0571: dsRNA-specific ribonucle... [ score 45 E 5e-04 ] [ range 155 .. 220 ]
+sequence
+-------------------------KTALQEWAQGRGLPLTYAVEGRDGPPHKPMFTVSVTVDN-GSESA
+LGASKRLAEQAAAQRLLDRL----------*
+>P1;gi|23112532|ref|ZP_00098004.1| COG0571: dsRNA-specific ribonucle... [ score 45 E 5e-04 ] [ range 194 .. 258 ]
+sequence
+-------------------------KTMLQEKAQREETEVTYRILAEEGPDHNKRFTAGVFLGN-LRGKG
+IGRTKKEAEQRAAQQVLDEF----------*
+>P1;gi|43779533|gb|EAF44280.1| unknown [environmental sequence] [ score 45 E 5e-04 ] [ range 2 .. 69 ]
+sequence
+-------------------------KSELQEHVQKTGIPSTYKLVDETGPDHQKEFTMAVFVDK-EYGRG
+SGASKKLASQLAAENALFRIKN--------*
+>P1;gi|15672784|ref|NP_266958.1| ribonuclease III [Lactococcus lacti... [ score 45 E 6e-04 ] [ range 176 .. 221 ]
+sequence
+--------------------------------------TISYKILKEEGPAHDRSFVAAVNNGK-ELGRG
+LGKSKKVAEQKAAE----------------*
+>P1;gi|43702819|gb|EAF06644.1| unknown [environmental sequence] [ score 44 E 6e-04 ] [ range 153 .. 219 ]
+sequence
+------------------------PKSKLQEWSLKNKKRLTYEIMDKSGPDHSPTFTIKVILEK-FSSFA
+KGKSKQDAEIKAADKLLKKI----------*
+>P1;gi|43192993|gb|EAC62020.1| unknown [environmental sequence] [ score 44 E 6e-04 ] [ range 142 .. 208 ]
+sequence
+-------------------------KSELQEHVQKMGLPSTYELVYETGPDHQKEFTMAVFIDK-EYGRG
+CGASKKIASQLAAENALVRIQ---------*
+>P1;gi|10834850|gb|AAG22859.1| CCAAT box transcription factor p122 s... [ score 44 E 7e-04 ] [ range 523 .. 585 ]
+sequence
+-------------------------KNPVMELNEKRR-GLKYELISETGGSHDKRFVMEVEVDG-VKFQG
+SGSNKKVAKAYAALSALEKL----------*
+>P1;gi|15642457|ref|NP_232090.1| ribonuclease III [Vibrio cholerae O... [ score 44 E 7e-04 ] [ range 155 .. 224 ]
+sequence
+------------------------PKTRLQEFGRRKPLPV-YTVTNIKGEAHNQEFTVACEVAG-MDTIG
+KGTSRRKAEQAAAETALEQLTN--------*
+>P1;gi|31234113|ref|XP_319005.1| ENSANGP00000014754 [Anopheles gambi... [ score 44 E 7e-04 ] [ range 116 .. 183 ]
+sequence
+-------------------------VNQVRDICIQRNFPLEIVQVRSYGPSHAPVFEFECRIRE-IVRRG
+SHSTKKGAKQIACQEMIKTLQSM-------*
+>P1;gi|44604881|gb|EAK42198.1| unknown [environmental sequence] [ score 44 E 9e-04 ] [ range 157 .. 225 ]
+sequence
+-------------------------KSALQEALQKNNIELHYNLIKTKGEQHEQIFEVECIVSS-LVTNG
+TGKSLKIAEQHAAEKALEIFLK--------*
+>P1;gi|29126828|gb|AAH47984.1| LOC398578 protein [Xenopus laevis] [ score 44 E 0.001 ] [ range 513 .. 575 ]
+sequence
+-------------------------KNPVMELNEKRR-GLKYELISETGGSHDKRFIMEVEVDG-VKFQG
+NGSNKKVAKAYAALSALEKL----------*
+>P1;gi|15901109|ref|NP_345713.1| ribonuclease III [Streptococcus pne... [ score 44 E 0.001 ] [ range 176 .. 226 ]
+sequence
+--------------------------------------AIRYQVISETGPAHDKVFDVEVLVGK-SIGQG
+QGRSKKLAEQEAAKNAVEK-----------*

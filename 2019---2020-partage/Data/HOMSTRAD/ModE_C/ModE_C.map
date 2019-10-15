@@ -1,0 +1,1630 @@
+>P1;1b9ma
+structureX:1b9m: 127 :A: 262 :A:molybdenum transport protein mode:Escherichia coli: 1.75: 23.4
+----ARNQWFGTITARDHDDVQQHVDVLLADGKTRLKVAITAQSGARLGLDEGKEVLILLKAPWVGITQD
+E-AVAQNADNQLPGIISHIERGAEQCEVL-ALPDGQTLCATVPVNEAT--SLQQGQNVTAYFNADSVIIA
+TLC*
+>P1;1h9ma
+structureX:1h9m:   1 :A: 141 :A:potential molybdenum-pterin-binding-protein:Azotobacter vinelandii: 1.65: 19.1
+MKISARNVFKGTVSALKEGAVNAEVDILLGGG-DKLAAVVTLESARSLQLAAGKEVVAVVKAPWVLLMTD
+SSGYRLSARNILTGTVKTIETGAVNAEVTLALQGGTEITSMVTKEAVAELGLKPGASASAVIKASNVILG
+VP-*
+>P1;gi|16759704|ref|NP_455321.1| putative molybdenum transport prote... [ score 175 E 1e-43 ] [ range 127 .. 262 ]
+sequence
+----ARNQWFGTITARDRDQVQQHVDVLLADGKTRLKVALTAQSGERLGLEEGKEVLILLKAPWVGITRD
+A-AVARAADNQLSGTISHIERGAEQCEVL-ALPDGQTLCATIPTADAA--TLKEGDDVIAWFNADRVIIA
+TLC*
+>P1;gi|43938888|gb|EAG24816.1| unknown [environmental sequence] [ score 175 E 1e-43 ] [ range 58 .. 193 ]
+sequence
+----ARNQWFGTITGRDHQQVQQHVEVLLADRQTRLKVAITAQSAERLGLDEGQEVLVLLKAPWVGMTQD
+P-TVAKEADNQLAGRISHIEYGPEQCEVL-ALPDGQSLCATLPLEQTR--KLAEGAEAIAYFNADRIILA
+TLC*
+>P1;gi|37525426|ref|NP_928770.1| Transcriptional regulator modE [Pho... [ score 165 E 1e-40 ] [ range 126 .. 263 ]
+sequence
+----ARNQFFGTITDRNHNQVQQHIRILLTDGQTSLNAALTEQSANRLGLVKGKEVLALIKAPWVKLTKE
+P-FSIGHFDNALTGQISNIETSEENTEII-ILDGGEILCSTLPNQEAN--NLKSGDKITALFNADQVIIA
+TLC*
+>P1;gi|22978857|ref|ZP_00024596.1| COG2005: N-terminal domain of mol... [ score 155 E 1e-37 ] [ range 131 .. 267 ] [ duplicate a ]
+sequence
+----ARNKLFGRVEAVRGGAVNDEVTLALPGGQ-RVVSTITHESVETLGLAAGAEAFALVKASSVMILPD
+P-NVRLSARNQLPGVVSRVQPGAVNAEVV-LDLDGGGTVAAIITNAAV--DLKVGTRAVAIFKASSVILG
+TV-*
+>P1;gi|22978857|ref|ZP_00024596.1| COG2005: N-terminal domain of mol... [ score 155 E 1e-37 ] [ range 121 .. 193 ] [ duplicate b ]
+sequence
+------------------------------------------------------------------LMRR
+F-MVQTSARNKLFGRVEAVRGGAVNDEVL-ALPGGQRVVSTITHEETL--GLAAGAEAFALVKASSVMIG
+---*
+>P1;gi|23102090|ref|ZP_00088617.1| COG2005: N-terminal domain of mol... [ score 154 E 5e-37 ] [ range 134 .. 267 ] [ duplicate a ]
+sequence
+----ARNQFAGIVTGLRVGGVDYEVRIRL-DAENEIAAVITKASAENLELAIGKEVFALVKSSSVMLTTE
+P-SLKLTARNQLWGEVIDIHEGPVNNEVL-ALPSGRSVTCVVTADKAL--GLAPGVAACAFFKSSSVILA
+---*
+>P1;gi|23102090|ref|ZP_00088617.1| COG2005: N-terminal domain of mol... [ score 154 E 5e-37 ] [ range 205 .. 268 ] [ duplicate b ]
+sequence
+----ARNQLWGEVIDIHEGPVNNEVTLALPSGRS-VTCVVTADSCKALGLAPGVAACAFFKSSSVILAV-
+----------------------------------------------------------------------
+---*
+>P1;gi|23102090|ref|ZP_00088617.1| COG2005: N-terminal domain of mol... [ score 154 E 5e-37 ] [ range 80 .. 197 ] [ duplicate c ]
+sequence
+---------------------------QLTDYGRRIVAMIEYQSAERLNEVTGGDIQA-----FQRLMHS
+M-SMKTSARNQFAGIVTGLRVGGVDYEVR-IRLDAENEIAAVITKASA--ELAIGKEVFALVKSSSVMLT
+T--*
+>P1;gi|44395994|gb|EAI97599.1| unknown [environmental sequence] [ score 151 E 2e-36 ] [ range 138 .. 275 ] [ duplicate a ]
+sequence
+----ARNQLYGTVSAITRGSVNDEVSLALPGGHM-IVAVLTHESTETLGLVTGAAAFALIKASWVVLLVE
+A-PLQLSARNQLRGTVQSVKRGAINAEVS-LVLDGGTVITAVVTNESV--DLVEGGIAVAAFKASSVILG
+---*
+>P1;gi|44395994|gb|EAI97599.1| unknown [environmental sequence] [ score 151 E 2e-36 ] [ range 133 .. 199 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+--GVRTSARNQLYGTVSAITRGSVNDEVL-ALPGGHMIVAVLTHEETL--GLVTGAAAFALIKASWVVL-
+---*
+>P1;gi|44292628|gb|EAI25018.1| unknown [environmental sequence] [ score 150 E 5e-36 ] [ range 102 .. 234 ] [ duplicate a ]
+sequence
+----ARNQFRGQIRKIVKGTVNTEVELQLGE-SSKIVATVTNQSAKQMGLKKGRHAVALVKSSWIILSTD
+K-DVSTSARNKLAGTVEKITQGKVNTEIL-NLGDGKNLSCILTNEKSL--GLKKQQKAYALFKASSVIL-
+---*
+>P1;gi|44292628|gb|EAI25018.1| unknown [environmental sequence] [ score 150 E 5e-36 ] [ range 98 .. 165 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+---LQTSARNQFRGQIRKIVKGTVNTEVL-QLGESSKIVATVTNQSAM--GLKKGRHAVALVKSSWIILS
+T--*
+>P1;gi|22986666|ref|ZP_00031758.1| COG2005: N-terminal domain of mol... [ score 148 E 2e-35 ] [ range 138 .. 275 ] [ duplicate a ]
+sequence
+----ARNQLYGTVSAITRGTVNDEVTLVLPGGHA-IVSVITHESTETLGLVEGAAAFALIKASWVVLFVD
+N-PLKLSARNQLRGTVQSVKRGAVNAEVS-LVLAGGAVITAVVTNESV--DLVEGGNAVAVFKASSVILG
+---*
+>P1;gi|22983551|ref|ZP_00028732.1| COG2005: N-terminal domain of mol... [ score 148 E 2e-35 ] [ range 84 .. 217 ] [ duplicate a ]
+sequence
+----ARNQFAGEVTELKHGAVNDEVTLRTQNG-LEIVSIITHGSATSLGLAVGKKAFALVKASSVILMVD
+V-TKQVSARNCITGTVSAVTKGAVNSEVS-ISAGGAQIEAIITNEDRL--GLANGKAATAIFKASSVIIG
+---*
+>P1;gi|22983551|ref|ZP_00028732.1| COG2005: N-terminal domain of mol... [ score 148 E 2e-35 ] [ range 156 .. 219 ] [ duplicate b ]
+sequence
+----ARNCITGTVSAVTKGAVNSEVSISAGGAQ--IEAIITNESVDRLGLANGKAATAIFKASSVIIGVE
+----------------------------------------------------------------------
+---*
+>P1;gi|22983551|ref|ZP_00028732.1| COG2005: N-terminal domain of mol... [ score 148 E 2e-35 ] [ range 76 .. 145 ] [ duplicate c ]
+sequence
+--------------------------------------------------------------------QE
+H-NMQTSARNQFAGEVTELKHGAVNDEVL-RTQNGLEIVSIITHGSAT--SLAVGKKAFALVKASSVIL-
+---*
+>P1;gi|44242028|gb|EAH89911.1| unknown [environmental sequence] [ score 147 E 4e-35 ] [ range 139 .. 275 ] [ duplicate a ]
+sequence
+----ARNQLFGKVASIVRGTVNDEVTLALPGGQ-PIVAVLTHESADALGLQVGADACALVKASWVVLAVD
+D-GEKVSARNQLRGSVETVAAGAVNSEVL-ALDGGGTLTAVVTNESVA--ALQAGRPAIALFKASSVILA
+---*
+>P1;gi|44242028|gb|EAH89911.1| unknown [environmental sequence] [ score 147 E 4e-35 ] [ range 213 .. 276 ] [ duplicate b ]
+sequence
+----ARNQLRGSVETVAAGAVNSEVTLALDGGGT-LTAVVTNESVAALQLDAGRPAIALFKASSVILAV-
+----------------------------------------------------------------------
+---*
+>P1;gi|44242028|gb|EAH89911.1| unknown [environmental sequence] [ score 147 E 4e-35 ] [ range 118 .. 201 ] [ duplicate c ]
+sequence
+------------------------------------------------------AAVAGFDVDWALIGRI
+--GMKTSARNQLFGKVASIVRGTVNDEVL-ALPGGQPIVAVLTHEDAL--GLQVGADACALVKASWVVLA
+---*
+>P1;gi|23105650|ref|ZP_00092106.1| COG2005: N-terminal domain of mol... [ score 145 E 1e-34 ] [ range 134 .. 267 ] [ duplicate a ]
+sequence
+----ACNQFAGIVTDLRADGVDYEVHIRL-DAKNKIAAIITKASVENLELAIGKEIFAWIKSSSVMLITE
+R-SFKLTASNVLWGEVTKIQQGPLTSEVL-TLPSGHPVVCVISTEKTM--SFVPGQEAGAFFSPSSVILA
+---*
+>P1;gi|23105650|ref|ZP_00092106.1| COG2005: N-terminal domain of mol... [ score 145 E 1e-34 ] [ range 80 .. 197 ] [ duplicate b ]
+sequence
+---------------------------RLTDYGRRIVAIIECQSAERLDEITGSDI-----QSFQHLMHS
+M-SLKSSACNQFAGIVTDLRADGVDYEVH-IRLDAKNKIAAIITKASV--ELAIGKEIFAWIKSSSVMLI
+T--*
+>P1;gi|23105650|ref|ZP_00092106.1| COG2005: N-terminal domain of mol... [ score 145 E 1e-34 ] [ range 205 .. 268 ] [ duplicate c ]
+sequence
+----ASNVLWGEVTKIQQGPLTSEVTLTLPSGH-PVVCVISTESCKTMSFVPGQEAGAFFSPSSVILAA-
+----------------------------------------------------------------------
+---*
+>P1;gi|33593090|ref|NP_880734.1| putative molybdenum-binding protein... [ score 143 E 8e-34 ] [ range 131 .. 267 ] [ duplicate a ]
+sequence
+----ARNRLLGTVEAVHAGAVNDEIVLRIAGGQ-RIAAVITRASTEELGLAPGTQAIALIKAQAVLLLPG
+P-GLRLSARNQLPGKVAEVRPGAVNSEII-VDLDGGGTLAAIITEESA--ALAAGMPVCALFDAASVMLG
+VL-*
+>P1;gi|33593090|ref|NP_880734.1| putative molybdenum-binding protein... [ score 143 E 8e-34 ] [ range 203 .. 268 ] [ duplicate b ]
+sequence
+----ARNQLPGKVAEVRPGAVNSEIIVDLDGGGT-LAAIITEESARDLALAAGMPVCALFDAASVMLGVL
+D---------------------------------------------------------------------
+---*
+>P1;gi|33593090|ref|NP_880734.1| putative molybdenum-binding protein... [ score 143 E 8e-34 ] [ range 59 .. 193 ] [ duplicate c ]
+sequence
+----AMNNLAGEPLVLRSAGGRGGGGTRLTDRARRLIATFRALQAEHQRFVQHLAASGLDAAGDIDIMRR
+F-MLKTSARNRLLGTVEAVHAGAVNDEVL-RIAGGQRIAAVITRASTE--GLAPGTQAIALIKAQAVLLG
+---*
+>P1;gi|23102452|ref|ZP_00088960.1| COG2005: N-terminal domain of mol... [ score 143 E 9e-34 ] [ range 67 .. 132 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+----KVSARNVLEGTVSALKEGAVNAEVV-TLGGGDKLVAVVTLESAL--GLAAGKKVVAVIKAPWVLLA
+---*
+>P1;gi|34558112|ref|NP_907927.1| MOLYBDENUM-PTERIN-BINDING PROTEIN [... [ score 142 E 2e-33 ] [ range 126 .. 257 ] [ duplicate a ]
+sequence
+----ARNQINGKVSVITRGSVNSEVALEIGGG--TIYAIITNESLEEMGLEVGMEAYAIIKASWVMIGVG
+D-PKGLSARNRLKGVLQEVVEGAVNGEV--KIKVGEKLLTAIITNEAI--ELKAGMEAYAIIKASHVLLG
+---*
+>P1;gi|34558112|ref|NP_907927.1| MOLYBDENUM-PTERIN-BINDING PROTEIN [... [ score 142 E 2e-33 ] [ range 123 .. 187 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KTSARNQINGKVSVITRGSVNSEVA-LEIGGGTIYAIITNEEEM--GLEVGMEAYAIIKASWVMIG
+---*
+>P1;gi|34558112|ref|NP_907927.1| MOLYBDENUM-PTERIN-BINDING PROTEIN [... [ score 142 E 2e-33 ] [ range 196 .. 258 ] [ duplicate c ]
+sequence
+----ARNRLKGVLQEVVEGAVNGEVKIKV--GEKLLTAIITNEAIRELELKAGMEAYAIIKASHVLLGV-
+----------------------------------------------------------------------
+---*
+>P1;gi|41722665|ref|ZP_00149654.1| hypothetical protein Daro365601 [... [ score 142 E 2e-33 ] [ range 136 .. 268 ] [ duplicate a ]
+sequence
+----ARNQFAGNIVGLREGHVDFEVRIKL-DDENEIVAVITGDSAESLGLAIGMEINALVKSSSVLLLND
+P-NMKTSARNHLWGEITRIHDGPVNAEVL-SMKSGKSVCAVVTHDERL--GLAVGEQACAVFKASAVIL-
+---*
+>P1;gi|41722665|ref|ZP_00149654.1| hypothetical protein Daro365601 [... [ score 142 E 2e-33 ] [ range 133 .. 197 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KTSARNQFAGNIVGLREGHVDFEVR-IKLDDENEIVAVITAESL--GLAIGMEINALVKSSSVLL-
+---*
+>P1;gi|15602611|ref|NP_245683.1| ModE [Pasteurella multocida] >gi|12... [ score 140 E 5e-33 ] [ range 128 .. 262 ]
+sequence
+----ARNQFFGDIVALRHENIHCFVAIQIKGLAQPLTVSITEKSAQRLKLTLGKEVMMMIKAPWVKVHRE
+K-PEGVN--TFLVNVKEITDKGDVEEVIL-TADEDMEFCATL--NKAE--NLKPDEQIWISIDPEQVILA
+TL-*
+>P1;gi|24375351|ref|NP_719394.1| molybdenum transport regulatory pro... [ score 138 E 2e-32 ] [ range 126 .. 258 ]
+sequence
+----ARNQLTGRIHSIEPLGLNDSLKVTLAGGQL-IQISVTHASYERLQLALNQSILLLFKAPAVIASRD
+--ACERTGQNCVSGHLLSVTELAYKAELA-IDIGGKDVIYSVPLADIQ--TLVLGQPCFACFDATQVIVA
+SM-*
+>P1;gi|41722664|ref|ZP_00149653.1| hypothetical protein Daro365501 [... [ score 137 E 5e-32 ] [ range 5 .. 139 ] [ duplicate a ]
+sequence
+----ARNVFKGKITALTDGAVNAEVEIGLP-GSDKIVAIVTEGSVKSLGLAVGKEAVAYVKAPWVMLLAG
+P-QVRFSARNQLSGKVVSVQKGAVNTEVI-QLPGGATVYAVVTNEAVM--GLKEGIDATALIKASHVILG
+---*
+>P1;gi|41722664|ref|ZP_00149653.1| hypothetical protein Daro365501 [... [ score 137 E 5e-32 ] [ range 3 .. 66 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+-----VSARNVFKGKITALTDGAVNAEVI-GLPGSDKIVAIVTEGKSL--GLAVGKEAVAYVKAPWVML-
+---*
+>P1;gi|148938|gb|AAA24984.1| ORF 7 [ score 136 E 1e-31 ] [ range 127 .. 254 ]
+sequence
+----ARNQFFGRVAQQRIIDSRCVVDVNVQGLPTPLQVSITTKSSARLKLITEKEVMLMFKAPWVKIS--
+E-QPLENQSNQFPVNIKSL---NEEEAIL-QFAESNIFCATV--HQPN--QWQIGQQVWIHIDQEQIILA
+TL-*
+>P1;gi|42628774|ref|ZP_00154331.1| COG2005: N-terminal domain of mol... [ score 135 E 2e-31 ] [ range 127 .. 254 ]
+sequence
+----ARNQFFGRVAQQRIIDSRCVVDVNVQGLPTPLQVSITTKSSARLKLITEKEVMLMFKAPWVKIS--
+E-QPLANQPNQFPVNIKSL---NEEEAIL-QFAESDIFCATV--HQPN--QWQIGQQVWIHIDQEQIILA
+TL-*
+>P1;gi|44354934|gb|EAI68201.1| unknown [environmental sequence] [ score 135 E 2e-31 ] [ range 126 .. 258 ]
+sequence
+----ARNQLTARIHSIEPLGLNDNLKVTLAGGQQ-IQISVTHASFERLQLALNQSILLLFKAPAVTASRE
+--ACQSAGQNCVSGHLLSVTELADKAELA-IEIGGKDIIYSVPLADIQ--TLKVGEPCFACFDATQVIVA
+SM-*
+>P1;gi|44526607|gb|EAJ87406.1| unknown [environmental sequence] [ score 135 E 2e-31 ] [ range 150 .. 285 ]
+sequence
+----ARNQLHGQVSAIESHGHNDMIRLQLAGG-LHLDAQITHDSTLRLELQTGVEVVALIKAGWLELLAD
+G-QAETLGHNCLEGRIETIEDGPSEVRI--ALANGQVLCALAPALKAI--DAAQGQPIRVQFAPSHVLLG
+T--*
+>P1;gi|39998055|ref|NP_954006.1| molybdenum transport regulatory pro... [ score 135 E 2e-31 ] [ range 205 .. 268 ] [ duplicate b ]
+sequence
+----ARNIMCGTIVKVIEGPVSTEVDVEIGAGNT-ISAVITHESAVRLGLKEGGHACALFKASSVILGV-
+----------------------------------------------------------------------
+---*
+>P1;gi|39998055|ref|NP_954006.1| molybdenum transport regulatory pro... [ score 135 E 2e-31 ] [ range 128 .. 196 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+--AMKVSARNVFLGTVSGITKGAVNAEVL-TLKGGTPVTAVVTNADSL--GLAVGKDAYAIVKASSIIIG
+T--*
+>P1;gi|26249131|ref|NP_755171.1| Potential molybdenum-pterin-binding... [ score 134 E 3e-31 ] [ range 18 .. 153 ] [ duplicate a ]
+sequence
+----ARNQLTGTVSAVAMGAVNDEVELTLAGG-AKLVAIVTHSSQQALGLAKGKEAIALIKAPWVTLATE
+D-GLKFSARNQFAGSVSTITEGAVNATVH-IKTDAGFEIVAVVTNESQ--DLTTGSRVIALIKASAILIA
+T--*
+>P1;gi|44615595|gb|EAK49787.1| unknown [environmental sequence] [ score 134 E 3e-31 ] [ range 126 .. 258 ]
+sequence
+----ARNQLTARIHSIEPLGLNDNLKVTLAGGQQ-IQISVTHASYQRLQLALNQSILLLFKAPAVTASRD
+--ACLSVGQNCVSGHLLSVTELADKAELA-IEIGGKDIIYSVPLADIQ--TLKVGEPCFACFDATQVIVA
+SM-*
+>P1;gi|44245131|gb|EAH92286.1| unknown [environmental sequence] [ score 134 E 4e-31 ] [ range 126 .. 258 ]
+sequence
+----ARNQLTARIHSIEPLGLNDSLKVTLAGGQQ-IQISVTHASYERLQLALNQSILLLFKAPAVTASRE
+--ACLSAGQNCISGHLLSVTELADKAELA-IEIGGKDIIYSVPLADIQ--TLKVGEPCFACFDATQVIVA
+SM-*
+>P1;gi|23014907|ref|ZP_00054701.1| COG2005: N-terminal domain of mol... [ score 132 E 1e-30 ] [ range 137 .. 271 ] [ duplicate a ]
+sequence
+----ARNAFRCTVAEIRQGSVNAEVILHLTDAVT-LAATVTGESLRDLGIVPGQAVTALVKASFVMLATG
+D-APAVSARNRIPGVVAHREDGPVSSEIL-DIGGGKVLAAMVTRDGAD--GLRAGAKAWALFKASHVILA
+---*
+>P1;gi|23014907|ref|ZP_00054701.1| COG2005: N-terminal domain of mol... [ score 132 E 1e-30 ] [ range 125 .. 200 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------IILLRS
+L-GMKTSARNAFRCTVAEIRQGSVNAEVI-LLTDAVTLAATVTGESLR--DLVPGQAVTALVKASFVMLA
+T--*
+>P1;gi|23014907|ref|ZP_00054701.1| COG2005: N-terminal domain of mol... [ score 132 E 1e-30 ] [ range 209 .. 273 ] [ duplicate c ]
+sequence
+----ARNRIPGVVAHREDGPVSSEITLDIGGGKV-LAAMVTRDGADELGLRAGAKAWALFKASHVILAVE
+----------------------------------------------------------------------
+---*
+>P1;gi|31563221|sp|Q9F4K4|MODE_HERSE Molybdenum transport protein mo... [ score 132 E 1e-30 ] [ range 131 .. 265 ] [ duplicate a ]
+sequence
+----ARNQFAGVISAIDTGPVTTQVTVTIAGAQ-EIVATMTTTAANRLKLRIGSNAIALIKSSAVVLVTD
+F-AFSLSARNQFEGTVSRVERGAVSSVVL-TLPGGACMTASLTNDDAL--SLAVGQTATAVFKAYAVMVA
+---*
+>P1;gi|31563221|sp|Q9F4K4|MODE_HERSE Molybdenum transport protein mo... [ score 132 E 1e-30 ] [ range 203 .. 269 ] [ duplicate b ]
+sequence
+----ARNQFEGTVSRVERGAVSSLVVLTLPGGAC-MTASLTNDAIDALSLAVGQTATAVFKAYAVMVAVQ
+Q-D-------------------------------------------------------------------
+---*
+>P1;gi|31563221|sp|Q9F4K4|MODE_HERSE Molybdenum transport protein mo... [ score 132 E 1e-30 ] [ range 121 .. 194 ] [ duplicate c ]
+sequence
+------------------------------------------------------------------LLRR
+M-SMKTSARNQFAGVISAIDTGPVTTQVV-TIAGAQEIVATMTTTAAN--KLRIGSNAIALIKSSAVVLV
+T--*
+>P1;gi|22989894|ref|ZP_00034946.1| COG2005: N-terminal domain of mol... [ score 132 E 1e-30 ] [ range 45 .. 179 ] [ duplicate a ]
+sequence
+----ARNQFAGTIDAIDTGPVTTQVSVTIAGGQQ-IVATMTTSAATRLKLAVGKEAIALIKSSAVVLVVD
+F-AYVLSARNQFAGTISRLERGAVSSVVL-ALPGGVNLTASVTNDDAL--ALAVGQQATAVFKAYSVMVA
+---*
+>P1;gi|42631922|ref|ZP_00157460.1| COG2005: N-terminal domain of mol... [ score 132 E 2e-30 ] [ range 127 .. 254 ]
+sequence
+----ARNQFFGRVAQQRIIDARCVVDVNVQGLPTPLQVSITTKSSARLKLITEKEVMLMFKAPWVKIS--
+E-QPLANQPNQFPVNIKSL---NEEEAIL-QFAESDIFCATV--QQLN--QWQIGQQVWIHIDQEQIILA
+TL-*
+>P1;gi|14277844|pdb|1H9J|A Chain A, Two Crystal Structures Of The Cy... [ score 132 E 2e-30 ] [ range 8 .. 142 ] [ duplicate a ]
+sequence
+----ARNVFKGTVSALKEGAVNAEVDILLGGGD-KLAAVVTLESARSLQLAAGKEVVAVVKAPWVLLMTD
+S-GYRLSARNILTGTVKTIETGAVNAEVT-LALQGGTEITSMVTKEAV--GLKPGASASAVIKASNVILG
+---*
+>P1;gi|21674362|ref|NP_662427.1| molybdenum transport protein ModE [... [ score 131 E 3e-30 ] [ range 133 .. 267 ] [ duplicate a ]
+sequence
+----ARNTFSGVITELTRDAVNAEIIITLNGGQQ-IVSTITNGAIDNLGLKKGMSAYAIVKSSSVMVGRD
+Q-DKKLSARNIICGTVQRVIEDSVNSEID-IEIGGGNSISAIITETST--NLKEGEQACAIFKASDVIIG
+---*
+>P1;gi|17549374|ref|NP_522714.1| PUTATIVE MOLYBDENUM-PTERIN-BINDING ... [ score 130 E 6e-30 ] [ range 127 .. 267 ] [ duplicate a ]
+sequence
+----ARNALFGTVETVVPGAVNDAVTLRLPGGQ-PVVATITRESTQALGLKPGVDAVALIKAPAVMLLRG
+A-GDWLSAENQLPCEVTEIREGAVQTEVL-RLRDAQTVLAAMTAVEAM--ALAEGVEVVAVFEASSVILG
+---*
+>P1;gi|17549374|ref|NP_522714.1| PUTATIVE MOLYBDENUM-PTERIN-BINDING ... [ score 130 E 6e-30 ] [ range 123 .. 188 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+---LRTSARNALFGTVETVVPGAVNDAVL-RLPGGQPVVATITREQAL--GLKPGVDAVALIKAPAVML-
+---*
+>P1;gi|44564191|gb|EAK13665.1| unknown [environmental sequence] [ score 130 E 7e-30 ] [ range 5 .. 138 ] [ duplicate a ]
+sequence
+----ARNQFAGEVAEVKHGAVNDEITLRTQGG-LEIVAIITHGSATSLGLAAGKKAFALVKASSVIVMVD
+V-TKSQSARNCIAGTVSAVTKGAVNSEVT-ISAGGAQIAAIITNEDRL--GLASGKAATAIFKASSVIIG
+---*
+>P1;gi|44564191|gb|EAK13665.1| unknown [environmental sequence] [ score 130 E 7e-30 ] [ range 77 .. 140 ] [ duplicate b ]
+sequence
+----ARNCIAGTVSAVTKGAVNSEVTISAGGAQ--IAAIITNESVDRLGLASGKAATAIFKASSVIIGVE
+----------------------------------------------------------------------
+---*
+>P1;gi|44564191|gb|EAK13665.1| unknown [environmental sequence] [ score 130 E 7e-30 ] [ range 2 .. 66 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+----QTSARNQFAGEVAEVKHGAVNDEIL-RTQGGLEIVAIITHGSAT--SLAAGKKAFALVKASSVIV-
+---*
+>P1;gi|39933224|ref|NP_945500.1| transcriptional regulator, ModE fam... [ score 128 E 3e-29 ] [ range 128 .. 261 ] [ duplicate a ]
+sequence
+----ARNKFIVEVISIRRWPVDVEVELKVSDDLT-IHATITNAAAEQLDLAPGRKALALIKAPFVRLVTP
+D-EASKLRRNVFRGVVKRRVDAEVHSEVL-DIGGGKTIVAVVPRQDAE--DLGIAENAEATFEADHVIIA
+---*
+>P1;gi|39933224|ref|NP_945500.1| transcriptional regulator, ModE fam... [ score 128 E 3e-29 ] [ range 200 .. 263 ] [ duplicate b ]
+sequence
+-----RNVFRGVVKRRVDAEVHSEVNLDIGGGKT-IVAVVPRQDAEDLGIAENAEAAVTFEADHVIIAVQ
+----------------------------------------------------------------------
+---*
+>P1;gi|39937776|ref|NP_950052.1| putative molybdate transport system... [ score 127 E 4e-29 ] [ range 127 .. 261 ] [ duplicate a ]
+sequence
+----ARNALRGVITDIKADTLSAEVAVTVSP-ETTIYALLTAESVRSLGLVVGREAIVLIKAPFVMIAPG
+H-QPPLSARNCVRGIVRRADISAVNAEVL-DIGGDKTLAASVTARSAD--DLKPGDPACAVFDAAHVIVA
+---*
+>P1;gi|39937776|ref|NP_950052.1| putative molybdate transport system... [ score 127 E 4e-29 ] [ range 117 .. 189 ] [ duplicate c ]
+sequence
+------------------------------------------------------------------LVSG
+F-FMKTSARNALRGVITDIKADTLSAEVA-VTVSPETTIYALLTAESV--GLVVGREAIVLIKAPFVMIA
+---*
+>P1;gi|26987102|ref|NP_742527.1| molybdate transport regulator [Pseu... [ score 127 E 5e-29 ] [ range 117 .. 251 ]
+sequence
+----ARNQLQGQVSGLRPEGRYDRVSLALGGG-LEIDALITHDSTARLELTPGTMVVALLKAGWVRLLAQ
+E-EEAERGSNCLNATVEEVEDDGPSEVRL-ALGNGQTLCAIAEAQWLQ--QVAVGSSVRVQFHPSYVLIG
+---*
+>P1;gi|28867722|ref|NP_790341.1| molybdate transport regulator ModE,... [ score 127 E 5e-29 ] [ range 117 .. 251 ]
+sequence
+----ARNQLLGRIAAITRQGHHDQVRLQLAD-EVFIEAQVTHDSTRDLGLEVGTDAVALIKAGWLELHAQ
+H-VEVTNGNNCLVGQIESIDADDGPSEVI-KLPSGLTLCALATHLQAQ--QLKTGVTVQAGFAASFVLLG
+---*
+>P1;gi|32043677|ref|ZP_00140939.1| COG2005: N-terminal domain of mol... [ score 126 E 8e-29 ] [ range 23 .. 156 ]
+sequence
+----ARNQLHGRVLSIHGEGFHDRIAIELP-GQQRIEALITRASTEQLELGRGRPVLALIKAGWLDVGLE
+P---REDQPNQLHGTLEEIAAKAGPSEVI-ALGSGLTLCALLSGEASL--GLKKGQKVIASFDPAQVLLG
+T--*
+>P1;gi|21674579|ref|NP_662644.1| molybdenum-pterin-binding protein [... [ score 126 E 1e-28 ] [ range 5 .. 139 ] [ duplicate a ]
+sequence
+----ARNIFKGSISSIVKGAVNAEVTITLASG-TPIVSIVTIGAVERLGLQEGMAASAIIKASTVILGTN
+H-DAKMSARNILCGTVTRVIDGPVSCEVL-EIGVGEVLSAVITHGSAE--KLAEGSHACAIFKASSVIIG
+---*
+>P1;gi|44643289|gb|EAK69900.1| unknown [environmental sequence] [ score 124 E 3e-28 ] [ range 25 .. 159 ] [ duplicate a ]
+sequence
+----ARNHFPGQVSAVKAGAVNDEITLRTQGG-LDIVAVITHGSAASLGLAAGSKAFALVKASSVIVMVD
+D-SSKVSARNCVAGTVSSVAKGAVNSEVV-IKAAGGAEIVAIVTNDSV--DLASGTAASAIFKASSVIVG
+---*
+>P1;gi|44643289|gb|EAK69900.1| unknown [environmental sequence] [ score 124 E 3e-28 ] [ range 97 .. 161 ] [ duplicate b ]
+sequence
+----ARNCVAGTVSSVAKGAVNSEVVIKAAGG-AEIVAIVTNDSVDRLGLASGTAASAIFKASSVIVGVE
+----------------------------------------------------------------------
+---*
+>P1;gi|44643289|gb|EAK69900.1| unknown [environmental sequence] [ score 124 E 3e-28 ] [ range 22 .. 86 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+----RTSARNHFPGQVSAVKAGAVNDEIL-RTQGGLDIVAVITHGSAA--SLAAGSKAFALVKASSVIV-
+---*
+>P1;gi|585504|sp|Q08385|MOPA_RHOCA Molybdenum-pterin binding protein... [ score 122 E 1e-27 ] [ range 130 .. 263 ] [ duplicate a ]
+sequence
+-----RNTLRCTVTRVTLGAVNAEVELALTDGHS-LTAVITERSATEMGLAPGVEVFALIKASFVMLAAG
+D-PGRISACNRLTGIVAARTDGPVNTEIL-DLGNCKSITAVITHADAL--GLAPGVPATALFKASHVILA
+---*
+>P1;gi|585504|sp|Q08385|MOPA_RHOCA Molybdenum-pterin binding protein... [ score 122 E 1e-27 ] [ range 201 .. 263 ] [ duplicate b ]
+sequence
+----ACNRLTGIVAARTDGPVNTEIILDLGNCKS-ITAVITHTSADALGLAPGVPATALFKASHVILA--
+----------------------------------------------------------------------
+---*
+>P1;gi|585504|sp|Q08385|MOPA_RHOCA Molybdenum-pterin binding protein... [ score 122 E 1e-27 ] [ range 126 .. 191 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+----RTSNRNTLRCTVTRVTLGAVNAEVL-ALTDGHSLTAVITERSAM--GLAPGVEVFALIKASFVMLA
+---*
+>P1;gi|23062036|ref|ZP_00086847.1| COG2005: N-terminal domain of mol... [ score 122 E 2e-27 ] [ range 152 .. 287 ]
+sequence
+----ARNQLHGKVVLIEGQGRNDLIRLELAEGLS-IDAQITHDSTVHLELQPGTEVVALIKAGWLELLAP
+Q-ATPAVGHNLLSGRIEAIEDGPSEVRI--ALPNGQTLCALAPLDRTR--GLTVEQAVQVQFSPSNVLLG
+T--*
+>P1;gi|22960120|ref|ZP_00007763.1| COG2005: N-terminal domain of mol... [ score 121 E 3e-27 ] [ range 136 .. 270 ] [ duplicate a ]
+sequence
+----ARNVYRCTVTALTQGEVSAEVQMDLGGGQ-ILTAVITERSLADMGLSPGAEVFALVKSSFVILARG
+D-ELALSVRNRLGGTVASRTDGQVNSEVL-DLGGGKTLAATITRESAE--TLQPGDRATALVKASHVIVA
+---*
+>P1;gi|22960120|ref|ZP_00007763.1| COG2005: N-terminal domain of mol... [ score 121 E 3e-27 ] [ range 133 .. 198 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KTSARNVYRCTVTALTQGEVSAEVQ-MDLGGGQILTAVITERSM--GLSPGAEVFALVKSSFVILA
+---*
+>P1;gi|44026990|gb|EAG72656.1| unknown [environmental sequence] [ score 121 E 4e-27 ] [ range 72 .. 213 ] [ duplicate a ]
+sequence
+----ARNTLFGTVESVAPGAVNDVVTLRLPGGQA-VAATITQESTRVLGLAPGVQAVALIKAPAVMLMRG
+A-GEWRSAENQLPCVVTEIRDGAVQAEVL-RLLDGETVLVAMLSRTAV--QLAAGVEAVAVFEASSVILG
+---*
+>P1;gi|44026990|gb|EAG72656.1| unknown [environmental sequence] [ score 121 E 4e-27 ] [ range 60 .. 133 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------VNLLRR
+L-MLRTSARNTLFGTVESVAPGAVNDVVL-RLPGGQAVAATITQESTL--GLAPGVQAVALIKAPAVML-
+---*
+>P1;gi|22980075|ref|ZP_00025786.1| COG2005: N-terminal domain of mol... [ score 120 E 9e-27 ] [ range 34 .. 168 ] [ duplicate a ]
+sequence
+----ARNQFSGVVAQATAGAVNDEIIIAINGGQQ-IVATVTHDSAARLGLKAGAKVVALVKATSVIVMVD
+D-ATKVSARNFVQGKVTNLTKGAVNADVT-ITGDNGMAVAAIITNASV--DLAVGKPAAAMFKASSVIVG
+---*
+>P1;gi|22980075|ref|ZP_00025786.1| COG2005: N-terminal domain of mol... [ score 120 E 9e-27 ] [ range 106 .. 170 ] [ duplicate b ]
+sequence
+----ARNFVQGKVTNLTKGAVNADVTIT-GDNGMAVAAIITNASVDRLGLAVGKPAAAMFKASSVIVGVD
+----------------------------------------------------------------------
+---*
+>P1;gi|22980075|ref|ZP_00025786.1| COG2005: N-terminal domain of mol... [ score 120 E 9e-27 ] [ range 31 .. 95 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+----QTSARNQFSGVVAQATAGAVNDEII-IAIGGQQIVATVTHDSAA--GLKAGAKVVALVKATSVIV-
+---*
+>P1;gi|23054428|ref|ZP_00080585.1| COG2005: N-terminal domain of mol... [ score 118 E 3e-26 ] [ range 5 .. 139 ] [ duplicate a ]
+sequence
+----ARNVLLGTVSGITKGAVNAEVSLTLKAG-TPVIAVVTNASVDNLGLAVGKEAHVIVKASSIIIGTD
+H-DAKVSARNIICGTVVKVIEGPVSAEVV-EIGGGNTLSAVITHESAR--NLKEGGHACALFKASSVILG
+---*
+>P1;gi|23054428|ref|ZP_00080585.1| COG2005: N-terminal domain of mol... [ score 118 E 3e-26 ] [ range 77 .. 140 ] [ duplicate b ]
+sequence
+----ARNIICGTVVKVIEGPVSAEVDVEIGGGNT-LSAVITHESARNLGIKEGGHACALFKASSVILGV-
+----------------------------------------------------------------------
+---*
+>P1;gi|23054428|ref|ZP_00080585.1| COG2005: N-terminal domain of mol... [ score 118 E 3e-26 ] [ range 2 .. 68 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+----KLSARNVLLGTVSGITKGAVNAEVL-TLKAGTPVIAVVTNASVD--NLAVGKEAHVIVKASSIIIG
+T--*
+>P1;gi|45516130|ref|ZP_00167683.1| hypothetical protein Raeut410801 ... [ score 112 E 1e-24 ] [ range 5 .. 139 ] [ duplicate a ]
+sequence
+----ARNHFSGEVALARHGAVNDEVILRLAGGQ-EIVATVTSESATRLALAPGKKAAAMVKATSVIVMVD
+D-ASKVSARNAVSGKVTDIKKGAVNTDVT-ITDDKGLAISAIITNSSL--GLALGKAAVAVFKASSVIVA
+---*
+>P1;gi|45516130|ref|ZP_00167683.1| hypothetical protein Raeut410801 ... [ score 112 E 1e-24 ] [ range 77 .. 141 ] [ duplicate b ]
+sequence
+----ARNAVSGKVTDIKKGAVNTDVTIT-DDKGLAISAIITNSSSDRLGLALGKAAVAVFKASSVIVAVD
+----------------------------------------------------------------------
+---*
+>P1;gi|45516130|ref|ZP_00167683.1| hypothetical protein Raeut410801 ... [ score 112 E 1e-24 ] [ range 3 .. 66 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+-----TSARNHFSGEVALARHGAVNDEVL-RLAGGQEIVATVTSESAT--ALAPGKKAAAMVKATSVIV-
+---*
+>P1;gi|585505|sp|Q08386|MOPB_RHOCA Molybdenum-pterin binding protein... [ score 103 E 7e-22 ] [ range 134 .. 268 ]
+sequence
+----ARNAWACKVWSVAADDVAAQVRMRLGEGQ-DLTAVITARSAAEMRLAPGSEVLALVKSNFVLLAAG
+V-PERLSVRNRVRGRVIERIDAPLSSEVL-DLGGGKTITATITRDSAE--DLHPGVETTALIKSSHVILA
+---*
+>P1;gi|29828883|ref|NP_823517.1| putative molibdenum binding protein... [ score 97 E 6e-20 ] [ range 6 .. 136 ]
+sequence
+-----RNQLPGTVTAVTRGEAMATVKVRL-DGGQDITAAITADAVTDLGLTTGAAVRALVKSTEVSLATD
+A-VEGVSIRNQLPGTVEGVAAGGAMASVR-VTVEGGELTAAITKEAVT--DLAPGSAVVALIKSTEIAL-
+---*
+>P1;gi|21219882|ref|NP_625661.1| putative molibdenum binding protein... [ score 94 E 6e-19 ] [ range 6 .. 138 ] [ duplicate a ]
+sequence
+-----RNQLPGTVTAVTPGEAMATVAVRLSGGQ-DLTAAITREAAEDLALTPGTAVRALVKSTEVALATG
+R-VDGLSIRNRLPGTVTALTTGAAMATVA-VAVEGAELTAAVTRQAAD--DLGVGTPVVALVKSTEVSLA
+T--*
+>P1;gi|21219882|ref|NP_625661.1| putative molibdenum binding protein... [ score 94 E 6e-19 ] [ range 2 .. 68 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----SLSIRNQLPGTVTAVTPGEAMATVA-VLSGGQDLTAAITREAAE--DLAPGTAVRALVKSTEVALA
+T--*
+>P1;gi|16124582|ref|NP_419146.1| molybdenum transport protein ModE [... [ score 79 E 2e-14 ] [ range 149 .. 276 ]
+sequence
+----ARNALRGVVTMVSEDEVTATVTLDIGEGLGLI-ARVTRRSVEDLGLAPGRPAIALIKSSFIRL---
+---DGAATENRLEGRILDREGGQAAAEVT-ILSAGKSLVATVGADAPG--DLAPGDAVVVSIAAADIILA
+---*
+>P1;gi|44064101|gb|EAG93021.1| unknown [environmental sequence] [ score 79 E 3e-14 ] [ range 1 .. 99 ]
+sequence
+------------------------------------------DSTENLQLSEGSSVVALIKAGWLELQPL
+Q-APRAEQHNALEGRIEQISDGPSDVRI--GLPNGQTLCALLESARLA--GLRVGDPVRAQFAASQVLLG
+T--*
+>P1;gi|23473405|ref|ZP_00128701.1| COG2005: N-terminal domain of mol... [ score 77 E 1e-13 ] [ range 223 .. 380 ] [ duplicate a ]
+sequence
+----ARNSFRGHVSAIRTDAIMAEVSLCTVGGHT-VSALITMESLRALELEPDSPVGATVKAPYVDVSAD
+G-DTGGSGRNCMTAAVTQVRSSGVMAEVM-ACADGTQLCALLSVSDAE--RMVKGMTAEFFFKPLSVVLH
+TV-*
+>P1;gi|23473405|ref|ZP_00128701.1| COG2005: N-terminal domain of mol... [ score 77 E 1e-13 ] [ range 171 .. 282 ] [ duplicate b ]
+sequence
+------------VELLRSGVPLAVVREVLGQASADLAAVLQNYSSGDM--------RAIVR----RLAMD
+A-GERSSARNSFRGHVSAIRTDAIMAEVL-CTVGGHTVSALITMESAL--ELEPDSPVGATVKAPYV---
+---*
+>P1;gi|20090102|ref|NP_616177.1| molybdenum-pterin binding protein [... [ score 69 E 1e-11 ] [ range 2 .. 68 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KLSARNVFKGKVKSIVIGMVNAEVV-ELPSGTEVTSIITKTSAM--KLKEGSEVYAAFKASSVMIA
+T--*
+>P1;gi|44481156|gb|EAJ57386.1| unknown [environmental sequence] [ score 69 E 2e-11 ] [ range 5 .. 70 ] [ duplicate a ]
+sequence
+----ARNTLNGTITAIEIGSVNNEVTIELAPGVV-LTSVVTKASCERLNLKVGDSAYALIKASSVMIGVD
+D---------------------------------------------------------------------
+---*
+>P1;gi|20090103|ref|NP_616178.1| molybdenum-pterin binding protein [... [ score 67 E 5e-11 ] [ range 5 .. 83 ] [ duplicate b ]
+sequence
+------------------------------------------------------------KSPSV-LNGG
+L-KMKLSARNVLKGKVKSIVTGMVNTEVI-ELPEGTEITSIITKAESM--NLKVGSEVCAALKASNVMIG
+T--*
+>P1;gi|41409649|ref|NP_962485.1| hypothetical protein MAP3551c [Myco... [ score 63 E 1e-09 ] [ range 2 .. 68 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----RLSTRNQLRGTITEVELGTVMAVVK-VTLDGQVVTSSVTRDAAT--DLGVGKPATVFIKSTEVTIG
+---*
+>P1;gi|17228923|ref|NP_485471.1| molybdo-pterin binding protein [Nos... [ score 62 E 2e-09 ] [ range 3 .. 67 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+-----VSARNFLKTTVKKVVPGTVNTEVL-ELAPGVEIVSIITKSSAD--KLQEGKQAYALIKSSDVIVA
+---*
+>P1;gi|15602081|ref|NP_245153.1| MopI [Pasteurella multocida] >gi|12... [ score 60 E 7e-09 ] [ range 5 .. 69 ] [ duplicate a ]
+sequence
+----ARNQFKGKVVALEKGAVNAVVSIDIGAG-NVITSTISMAAVEELKLEVGKDAYAIIKATSVMVGVE
+----------------------------------------------------------------------
+---*
+>P1;gi|23124394|ref|ZP_00106386.1| COG3585: Molybdopterin-binding pr... [ score 59 E 2e-08 ] [ range 85 .. 148 ] [ duplicate a ]
+sequence
+-----RNILKGVVKRVVYGAVNSEVTLEIIH-KVELTSIITRASAEELELSEGKEAYAVIKSNDIVIARE
+----------------------------------------------------------------------
+---*
+>P1;gi|23124394|ref|ZP_00106386.1| COG3585: Molybdopterin-binding pr... [ score 59 E 2e-08 ] [ range 78 .. 146 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+K-SLKVSSRNILKGVVKRVVYGAVNSEVL-EIIHKVELTSIITRASAE--ELEEGKEAYAVIKSNDIVIA
+---*
+>P1;gi|16273280|ref|NP_439521.1| molybdenum-pterin binding protein [... [ score 59 E 2e-08 ] [ range 5 .. 69 ] [ duplicate a ]
+sequence
+----ARNQLKGKVVSIENGSVNAIVHIDIGGG-NVLSSTVSLAAVKELNLEVGKEAYAIIKATSVMVGVE
+----------------------------------------------------------------------
+---*
+>P1;gi|45358191|ref|NP_987748.1| probable Molybdenum-pterin binding ... [ score 55 E 2e-07 ] [ range 2 .. 66 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KMSIRNQFTGKILEIVEGQVVAKVK-VDIGGGNTIVSVITLDAE--KLKVGDTVTALVKSTSVMI-
+---*
+>P1;gi|585503|sp|P38366|MOP3_CLOPA MOLYBDENUM-PTERIN BINDING PROTEIN... [ score 55 E 3e-07 ] [ range 5 .. 68 ]
+sequence
+----ARNQLKGKVVAVKKGLVTAEVVLEIAGGD-KVTSIISLDSIEDLGVKEGTELTAVIKSTDVMILA-
+----------------------------------------------------------------------
+---*
+>P1;gi|45515375|ref|ZP_00166930.1| hypothetical protein Raeut514401 ... [ score 55 E 3e-07 ] [ range 9 .. 69 ]
+sequence
+-----RNQFRGKVAAIIEGPVVSEVDVETPAG--IVTSVITTRSIRDLGLTLGSEVVALVKATEVSIA--
+----------------------------------------------------------------------
+---*
+>P1;gi|17546061|ref|NP_519463.1| PUTATIVE MOLYBDOPTERIN-BINDING PROT... [ score 55 E 3e-07 ] [ range 9 .. 69 ]
+sequence
+-----RNQFRGQIKEIIRGDVLSEIDVETPAG--IVTSVITTRSVDHLGLKVGSDVVALVKATEVSIA--
+----------------------------------------------------------------------
+---*
+>P1;gi|585502|sp|P04952|MOP1_CLOPA MOLYBDENUM-PTERIN BINDING PROTEIN... [ score 55 E 3e-07 ] [ range 5 .. 68 ]
+sequence
+----ARNQLKGKVVGLKKGVITAEVVLEIAGG-NKITSIISLDSVEELGVKEGAELTAVIKSTDVMILA-
+----------------------------------------------------------------------
+---*
+>P1;gi|127241|sp|P08854|MOP2_CLOPA Molybdenum-pterin binding protein... [ score 55 E 3e-07 ] [ range 5 .. 68 ]
+sequence
+----ARNQLKGKVVGLKKGVVTAEVVLEIAGG-NKITSIISLDSVEELGVKEGAELTAVVKSTDVMILA-
+----------------------------------------------------------------------
+---*
+>P1;gi|13471479|ref|NP_103045.1| molybdenum transport protein modC [... [ score 55 E 4e-07 ] [ range 266 .. 351 ]
+sequence
+----------------------------------------------RLAMQTGAPVRVRIRARDVMIATE
+K-PTGLSALNILPGTIVAISPGEGPAEVG-IDCNGATVLARITSRQAL--ELRLGGNVFAVVK-------
+---*
+>P1;gi|22986486|ref|ZP_00031582.1| COG3585: Molybdopterin-binding pr... [ score 55 E 4e-07 ] [ range 7 .. 71 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+------NVRNQFKGKVKEIIRGPVVSEVD-VDTPFGIVTSVITTRSVD--DLKVGSEVVALVKSTEVSIA
+RL-*
+>P1;gi|27357087|gb|AAN86541.1| molybdenum-pterin-binging protein [Eu... [ score 54 E 5e-07 ] [ range 2 .. 66 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KLSARNQLKGKVVEIQEGVVSAVVI-EICEGNRISSTISMDALR--DLKVGDEATAVIKATSVMV-
+---*
+>P1;gi|23471342|ref|ZP_00126672.1| COG3585: Molybdopterin-binding pr... [ score 54 E 6e-07 ] [ range 9 .. 69 ]
+sequence
+-----RNQFKGTIKEIVHGDVLSEIDVQTASGV--VTSVITTRSVKELELVVGSEVIAFVKSTEVSIA--
+----------------------------------------------------------------------
+---*
+>P1;gi|45520339|ref|ZP_00171872.1| hypothetical protein Mflag228601 ... [ score 53 E 9e-07 ] [ range 9 .. 69 ]
+sequence
+-----RNQFRGRVKEIVLGPVVSEIDVETPVG--IVTSVITTRSVNELNLQVGTEVLALIKATEVSLA--
+----------------------------------------------------------------------
+---*
+>P1;gi|17232669|ref|NP_489217.1| molybdenum-pterin binding protein h... [ score 53 E 9e-07 ] [ range 73 .. 146 ] [ duplicate b ]
+sequence
+-----------------------------------------------------------------VISTK
+R-PFKVSSRNILKGVIKKVVVGSVNSEVT-LEIVHRVELTSIITREEL--ELTEGAEAYAVIKSNDIVIA
+---*
+>P1;gi|26986984|ref|NP_742409.1| organosulfonate utilization protein... [ score 53 E 1e-06 ] [ range 9 .. 69 ]
+sequence
+-----RNQFKGTVKEILEGPVLSEIDVQTASG--IVTSVITTRSVRELELQVGSEVIAFVKSTEVSIA--
+----------------------------------------------------------------------
+---*
+>P1;gi|41720373|ref|ZP_00149186.1| hypothetical protein Mbur017801 [... [ score 53 E 2e-06 ] [ range 117 .. 184 ] [ duplicate a ]
+sequence
+----AHNKLSGRIVGIDKGNIVSKVKVEI--DPDVLTSIITSEALERLDVQEGDEVFATIKSTEVVLSKA
+D-GKA-----------------------------------------------------------------
+---*
+>P1;gi|41720373|ref|ZP_00149186.1| hypothetical protein Mbur017801 [... [ score 53 E 2e-06 ] [ range 112 .. 177 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+--SFKLSAHNKLSGRIVGIDKGNIVSKVK-VEIDPDVLTSIITSEERL--DVQEGDEVFATIKSTEVVL-
+---*
+>P1;gi|45513031|ref|ZP_00164597.1| hypothetical protein Selo076201 [... [ score 53 E 2e-06 ] [ range 5 .. 70 ]
+sequence
+----ARNVFTAVIRQIQMGQVNAEVLLEIAPNVT-VVSVITRASVEGLQLQVDQEAYTMIKSSDVMVALE
+D---------------------------------------------------------------------
+---*
+>P1;gi|29828260|ref|NP_822894.1| putative substrate-binding protein ... [ score 52 E 2e-06 ] [ range 59 .. 125 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+E-NAGSSARNRLSGIVTDVTLGDVSAQVE-IQAGPFRVVSLVSRESAE--ELKPGVPAVAVIKSTNVVV-
+---*
+>P1;gi|15602607|ref|NP_245679.1| ModC [Pasteurella multocida] >gi|12... [ score 52 E 3e-06 ] [ range 252 .. 351 ]
+sequence
+-------------------------------GLQQQQIWIKAQQAE-----VGENIRICIKGSDVSLSLT
+Q-PEKTSIRNILHGKVKRIVERENRVDVQ-IEIDEKPIWATISALEDL--ALQLGQPVFAQIKAVSVL--
+---*
+>P1;gi|15598637|ref|NP_252131.1| probable molybdopterin-binding prot... [ score 51 E 4e-06 ] [ range 9 .. 69 ]
+sequence
+-----RNQFKGTVKEIIEGPVLSEIDVQTAAG--IVTSVITTRSVKELELAIGSEVIAFVKSTEVSIA--
+----------------------------------------------------------------------
+---*
+>P1;gi|20089221|ref|NP_615296.1| molybdenum ABC transporter, ATP-bin... [ score 49 E 1e-05 ] [ range 291 .. 347 ]
+sequence
+----ARNTLKGRVSGIFKKEHLVVVEVKM--GNSEIKAVVTPTSCEMLGIEPGREMYAVFKAS-------
+----------------------------------------------------------------------
+---*
+>P1;gi|14590096|ref|NP_142160.1| transport-ATP binding protein [Pyro... [ score 49 E 1e-05 ] [ range 277 .. 341 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+E-GVKTSARNVFKARVEGIEDLGALVKLT-LNLGGIILRAFITRSSLI--ELREGEEVYASFKASAI---
+---*
+>P1;gi|23060925|ref|ZP_00085801.1| COG3585: Molybdopterin-binding pr... [ score 49 E 2e-05 ] [ range 9 .. 69 ]
+sequence
+-----RNQFKGAIKEIVLGDVLSEIDVQTASG--IVTSVITTRSVKELELEVGSEVIAFVKSTEVSIA--
+----------------------------------------------------------------------
+---*
+>P1;gi|20089181|ref|NP_615256.1| molybdenum-binding protein [Methano... [ score 49 E 2e-05 ] [ range 114 .. 183 ] [ duplicate b ]
+sequence
+----ARNKLPGKVLNVEKSGLVSKITIELE--PSVLTSVVTEEAVEKLDVKPGDRIYAVIKSTEVMVAKA
+V-REKES---------------------------------------------------------------
+---*
+>P1;gi|43969160|gb|EAG41297.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 9 .. 60 ]
+sequence
+-----RNQFKGKVREIIRGDVVSEVDVETPWG--IVTSVITTRSVDDLGLVVGSDVVAL-----------
+----------------------------------------------------------------------
+---*
+>P1;gi|23015858|ref|ZP_00055623.1| COG3585: Molybdopterin-binding pr... [ score 49 E 2e-05 ] [ range 2 .. 66 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----KLSARNNLKGKVVSIDKGQIVAKVK-IDVGGQFITSLVSNEAVD--DLKIGDNVQAIIKSSEVIIG
+---*
+>P1;gi|16273578|ref|NP_439833.1| molybdenum ABC transporter ATP-bind... [ score 48 E 3e-05 ] [ range 267 .. 351 ]
+sequence
+---------------------------------------------------VGERVRVCIYSSDVSITLQ
+K-PEQTSIRNILRGKITQIEIQDSRVDLA-VLVEGHKIWASISKWAQN--ELAIGQDVYVQIKAVSVM--
+---*
+>P1;gi|45514014|ref|ZP_00165575.1| hypothetical protein Raeut642301 ... [ score 48 E 5e-05 ] [ range 2 .. 57 ] [ duplicate a ]
+sequence
+------------VSRVVPGAVNAEVVLDLDGGGS-VAAIVTNESVQTLALTPGVHALAIFKASAVILGV-
+----------------------------------------------------------------------
+---*
+>P1;gi|45514014|ref|ZP_00165575.1| hypothetical protein Raeut642301 ... [ score 48 E 5e-05 ] [ range 2 .. 58 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+---------------VSRVVPGAVNAEVV-LDLDGGGSVAAIVTNESV--QLTPGVHALAIFKASAVILG
+VV-*
+>P1;gi|45359212|ref|NP_988769.1| ATP/GTP-binding site motif A (P-loo... [ score 47 E 7e-05 ] [ range 291 .. 353 ]
+sequence
+----AKNVFNGKVTEIKKRGH--LVWLTLDIGGVDLKVLITPNSLEALEIEENKNLCVMFKATGVKIIR-
+----------------------------------------------------------------------
+---*
+>P1;gi|22960115|ref|ZP_00007758.1| COG4148: ABC-type molybdate trans... [ score 46 E 1e-04 ] [ range 457 .. 579 ]
+sequence
+---------AGALLAARRGPAEADGLVRLDSGGGPLWLPLTPA----LELPEGAPLRLRILAQDVMLALS
+P-PQGISALNVLPGRIEEILPGERDALVR-LSVEGEALLARITRRSLL--DLAPGRRAYAVLKTVAV---
+---*
+>P1;gi|20089180|ref|NP_615255.1| sulfate/molybdate ABC transporter, ... [ score 46 E 1e-04 ] [ range 288 .. 348 ]
+sequence
+-----RNSLQGRVT--EAWVLGALVRVKV-DCGVPLNVLITRRSAEEMELSPGVQIYARFKASSVHVLR-
+----------------------------------------------------------------------
+---*
+>P1;gi|43855662|gb|EAF81987.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 60 .. 169 ]
+sequence
+--------LHGEIAERNKGISRISV------GETSVKVV--DESA----IPVGQSVRLLLPASEVTLATE
+N-STALHT-NCLQGTVQSVVPSATQVAVK-IVCEGQELAVLLDNRRIN--ALQEGQLVWAYF--------
+---*
+>P1;gi|14520372|ref|NP_125847.1| ABC transporter, ATP-binding protei... [ score 46 E 2e-04 ] [ range 283 .. 343 ]
+sequence
+----ARNEFRAEVIGIEELG--PLVRVNLKIGGITLKAFITRSSLIELGISEGREVYVSFKTSAIKV---
+----------------------------------------------------------------------
+---*
+>P1;gi|34558107|ref|NP_907922.1| hypothetical protein WS1805 [Woline... [ score 46 E 2e-04 ] [ range 82 .. 145 ]
+sequence
+----ARNSFVGEIIEMVKGEILTQVTLDFHG--EKIRSIITHGAAEELGLRVGAKARWFVKSNEMTLRTE
+----------------------------------------------------------------------
+---*
+>P1;gi|23013925|ref|ZP_00053772.1| COG4148: ABC-type molybdate trans... [ score 45 E 2e-04 ] [ range 265 .. 351 ]
+sequence
+----------------------------------------------RTELAVGTPVRLRIHARDVAIAIE
+P-PERVSIRNVLPATVVSVAAADSFLVDV-VLACGATRLWVQITSLAQ--NLVPGMRVHALIKA------
+---*
+>P1;gi|42631919|ref|ZP_00157457.1| COG4148: ABC-type molybdate trans... [ score 44 E 6e-04 ] [ range 5 .. 89 ]
+sequence
+---------------------------------------------------VGERVRVCIYSSDVSITLQ
+K-PEKTSIRNILRGQVAQIEIQDSRVDLA-VFVEGHKIWASISQWAQN--ELRVGQDVYVQIKAVSVM--
+---*
+>P1;gi|22978857|ref|ZP_00024596.1| COG2005: N-terminal domain of mol... [ score 183 E 8e-46 ] [ range 128 .. 266 ] [ duplicate a ]
+sequence
+-QTSARNKLFGRVEAVRGGAVNDEVTLALPGG-QRVVSTITHESVETLGLAAGAEAFALVKASSVMIGLP
+DPNVRLSARNQLPGVVSRVQPGAVNAEVVLDLDGGGTVAAIITNAAVTELDLKVGTRAVAIFKASSVILG
+T--*
+>P1;gi|22978857|ref|ZP_00024596.1| COG2005: N-terminal domain of mol... [ score 183 E 8e-46 ] [ range 127 .. 195 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+---VQTSARNKLFGRVEAVRGGAVNDEVTLALPGGQRVVSTITHESVETLGLAAGAEAFALVKASSVMIG
+LP-*
+>P1;gi|33596385|ref|NP_884028.1| putative molybdenum-binding protein... [ score 182 E 1e-45 ] [ range 128 .. 267 ] [ duplicate a ]
+sequence
+LKTSARNRLLGTVEAVHAGAVNDEIVLRIAGG-QRIAAVITRASTEELGLAPGTQAIALIKAQAVLLGLP
+GPGLRLSARNQLPGKVAEVRPGAVNSEIIVDLDGGGTLAAIITEESARDLALAAGTPVCALFDAASVMLG
+V--*
+>P1;gi|33596385|ref|NP_884028.1| putative molybdenum-binding protein... [ score 182 E 1e-45 ] [ range 117 .. 196 ] [ duplicate b ]
+sequence
+-------------------------------------------------------------AGDIDIMRR
+F-MLKTSARNRLLGTVEAVHAGAVNDEIVLRIAGGQRIAAVITRASTEELGLAPGTQAIALIKAQAVLLG
+LP-*
+>P1;gi|39998055|ref|NP_954006.1| molybdenum transport regulatory pro... [ score 180 E 5e-45 ] [ range 129 .. 268 ] [ duplicate a ]
+sequence
+MKVSARNVFLGTVSGITKGAVNAEVSLTLKGG-TPVTAVVTNASIDSLGLAVGKDAYAIVKASSIIIGTD
+LHDAKVSARNIMCGTIVKVIEGPVSTEVDVEIGAGNTISAVITHESAVRLGLKEGGHACALFKASSVILG
+V--*
+>P1;gi|39998055|ref|NP_954006.1| molybdenum transport regulatory pro... [ score 180 E 5e-45 ] [ range 124 .. 196 ] [ duplicate b ]
+sequence
+--------------------------------------------------------------------LR
+RIAMKVSARNVFLGTVSGITKGAVNAEVSLTLKGGTPVTAVVTNASIDSLGLAVGKDAYAIVKASSIIIG
+T--*
+>P1;gi|21674362|ref|NP_662427.1| molybdenum transport protein ModE [... [ score 179 E 1e-44 ] [ range 129 .. 268 ] [ duplicate a ]
+sequence
+MRISARNTFSGVITELTRDAVNAEIIITLNGG-QQIVSTITNGAIDNLGLKKGMSAYAIVKSSSVMVGRD
+LQDKKLSARNIICGTVQRVIEDSVNSEIDIEIGGGNSISAIITETSTSRLNLKEGEQACAIFKASDVIIG
+V--*
+>P1;gi|21674362|ref|NP_662427.1| molybdenum transport protein ModE [... [ score 179 E 1e-44 ] [ range 124 .. 195 ] [ duplicate b ]
+sequence
+--------------------------------------------------------------------LR
+RISMRISARNTFSGVITELTRDAVNAEIIITLNGGQQIVSTITNGAIDNLGLKKGMSAYAIVKSSSVMVG
+---*
+>P1;gi|21674362|ref|NP_662427.1| molybdenum transport protein ModE [... [ score 179 E 1e-44 ] [ range 202 .. 269 ] [ duplicate c ]
+sequence
+-KLSARNIICGTVQRVIEDSVNSEIDIEIGGG-NSISAIITETSTSRLNLKEGEQACAIFKASDVIIGVN
+----------------------------------------------------------------------
+---*
+>P1;gi|22983551|ref|ZP_00028732.1| COG2005: N-terminal domain of mol... [ score 178 E 2e-44 ] [ range 80 .. 218 ] [ duplicate a ]
+sequence
+MQTSARNQFAGEVTELKHGAVNDEVTLRTQNG-LEIVSIITHGSATSLGLAVGKKAFALVKASSVILMVD
+VTKNQVSARNCITGTVSAVTKGAVNSEVSIS-AGGAQIEAIITNESVDRLGLANGKAATAIFKASSVIIG
+V--*
+>P1;gi|22983551|ref|ZP_00028732.1| COG2005: N-terminal domain of mol... [ score 178 E 2e-44 ] [ range 78 .. 147 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+-HNMQTSARNQFAGEVTELKHGAVNDEVTLRTQNGLEIVSIITHGSATSLGLAVGKKAFALVKASSVILM
+V--*
+>P1;gi|23102090|ref|ZP_00088617.1| COG2005: N-terminal domain of mol... [ score 177 E 3e-44 ] [ range 130 .. 268 ]
+sequence
+MKTSARNQFAGIVTGLRVGGVDYEVRIRLDAE-NEIAAVITKASAENLELAIGKEVFALVKSSSVMLTTE
+PS-LKLTARNQLWGEVIDIHEGPVNNEVTLALPSGRSVTCVVTADSCKALGLAPGVAACAFFKSSSVILA
+V--*
+>P1;gi|44242028|gb|EAH89911.1| unknown [environmental sequence] [ score 176 E 7e-44 ] [ range 135 .. 276 ] [ duplicate a ]
+sequence
+MKTSARNQLFGKVASIVRGTVNDEVTLALPGG-QPIVAVLTHESADALGLQVGADACALVKASWVVLAVD
+DHELKVSARNQLRGSVETVAAGAVNSEVTLALDGGGTLTAVVTNESVAALQLDAGRPAIALFKASSVILA
+V--*
+>P1;gi|44242028|gb|EAH89911.1| unknown [environmental sequence] [ score 176 E 7e-44 ] [ range 113 .. 202 ] [ duplicate b ]
+sequence
+-------------------------------------------------IEAASAAVAGFDVDWALIGR-
+-IGMKTSARNQLFGKVASIVRGTVNDEVTLALPGGQPIVAVLTHESADALGLQVGADACALVKASWVVLA
+V--*
+>P1;gi|22986666|ref|ZP_00031758.1| COG2005: N-terminal domain of mol... [ score 175 E 1e-43 ] [ range 135 .. 276 ] [ duplicate a ]
+sequence
+-KTSARNQLYGTVSAITRGTVNDEVTLVLPGG-HAIVSVITHESTETLGLVEGAAAFALIKASWVVLFVD
+NQPLKLSARNQLRGTVQSVKRGAVNAEVSLVLAGGAVITAVVTNESVDTLGLVEGGNAVAVFKASSVILG
+V--*
+>P1;gi|22986666|ref|ZP_00031758.1| COG2005: N-terminal domain of mol... [ score 175 E 1e-43 ] [ range 209 .. 276 ] [ duplicate b ]
+sequence
+LKLSARNQLRGTVQSVKRGAVNAEVSLVLAGG-AVITAVVTNESVDTLGLVEGGNAVAVFKASSVILGV-
+----------------------------------------------------------------------
+---*
+>P1;gi|22986666|ref|ZP_00031758.1| COG2005: N-terminal domain of mol... [ score 175 E 1e-43 ] [ range 128 .. 201 ] [ duplicate c ]
+sequence
+-------------------------------------------------------------------LIG
+RIGVKTSARNQLYGTVSAITRGTVNDEVTLVLPGGHAIVSVITHESTETLGLVEGAAAFALIKASWVVLF
+V--*
+>P1;gi|41722665|ref|ZP_00149654.1| hypothetical protein Daro365601 [... [ score 175 E 2e-43 ] [ range 132 .. 268 ]
+sequence
+MKTSARNQFAGNIVGLREGHVDFEVRIKLDDE-NEIVAVITGDSAESLGLAIGMEINALVKSSSVLLL-N
+DPNMKTSARNHLWGEITRIHDGPVNAEVTLSMKSGKSVCAVVTHDSVERLGLAVGEQACAVFKASAVIL-
+---*
+>P1;gi|44395994|gb|EAI97599.1| unknown [environmental sequence] [ score 172 E 1e-42 ] [ range 135 .. 276 ] [ duplicate a ]
+sequence
+-RTSARNQLYGTVSAITRGSVNDEVSLALPGG-HMIVAVLTHESTETLGLVTGAAAFALIKASWVVLLVN
+GAPLQLSARNQLRGTVQSVKRGAINAEVSLVLDGGTVITAVVTNESVDTLKLVEGGIAVAAFKASSVILG
+V--*
+>P1;gi|44395994|gb|EAI97599.1| unknown [environmental sequence] [ score 172 E 1e-42 ] [ range 209 .. 276 ] [ duplicate b ]
+sequence
+LQLSARNQLRGTVQSVKRGAINAEVSLVLDGG-TVITAVVTNESVDTLKLVEGGIAVAAFKASSVILGV-
+----------------------------------------------------------------------
+---*
+>P1;gi|41722664|ref|ZP_00149653.1| hypothetical protein Daro365501 [... [ score 172 E 1e-42 ] [ range 1 .. 141 ] [ duplicate a ]
+sequence
+MNVSARNVFKGKITALTDGAVNAEVEIGLPGS-DKIVAIVTEGSVKSLGLAVGKEAVAYVKAPWVMLLAG
+PQNVRFSARNQLSGKVVSVQKGAVNTEVGIQLPGGATVYAVVTNEAVMELGLKEGIDATALIKASHVILG
+VP-*
+>P1;gi|23102452|ref|ZP_00088960.1| COG2005: N-terminal domain of mol... [ score 172 E 2e-42 ] [ range 66 .. 207 ] [ duplicate a ]
+sequence
+MKVSARNVLEGTVSALKEGAVNAEVDVTLGGG-DKLVAVVTLESARSLGLAAGKKVVAVIKAPWVLLAAD
+DNGCRLSARNVLAGTIESIEVGTVNVEVILTLPGGARIVSVVTKEAAAELGLRPGASASAVIKASSVILG
+VP-*
+>P1;gi|585504|sp|Q08385|MOPA_RHOCA Molybdenum-pterin binding protein... [ score 171 E 3e-42 ] [ range 125 .. 265 ]
+sequence
+MRTSNRNTLRCTVTRVTLGAVNAEVELALTDG-HSLTAVITERSATEMGLAPGVEVFALIKASFVMLAAG
+GDPGRISACNRLTGIVAARTDGPVNTEIILDLGNCKSITAVITHTSADALGLAPGVPATALFKASHVILA
+MP-*
+>P1;gi|22960120|ref|ZP_00007763.1| COG2005: N-terminal domain of mol... [ score 170 E 6e-42 ] [ range 132 .. 272 ]
+sequence
+MKTSARNVYRCTVTALTQGEVSAEVQMDLGGG-QILTAVITERSLADMGLSPGAEVFALVKSSFVILARG
+DELAQLSVRNRLGGTVASRTDGQVNSEIVLDLGGGKTLAATITRESAETLALQPGDRATALVKASHVIVA
+LP-*
+>P1;gi|44292628|gb|EAI25018.1| unknown [environmental sequence] [ score 168 E 2e-41 ] [ range 98 .. 234 ] [ duplicate a ]
+sequence
+LQTSARNQFRGQIRKIVKGTVNTEVELQLGES-SKIVATVTNQSAKQMGLKKGRHAVALVKSSWIILST-
+DKDVSTSARNKLAGTVEKITQGKVNTEIQLNLGDGKNLSCILTNESVKSLGLKKQQKAYALFKASSVIL-
+---*
+>P1;gi|44292628|gb|EAI25018.1| unknown [environmental sequence] [ score 168 E 2e-41 ] [ range 93 .. 163 ] [ duplicate c ]
+sequence
+--------------------------------------------------------------------LR
+NTTLQTSARNQFRGQIRKIVKGTVNTEVELQLGESSKIVATVTNQSAKQMGLKKGRHAVALVKSSWIIL-
+---*
+>P1;gi|34558112|ref|NP_907927.1| MOLYBDENUM-PTERIN-BINDING PROTEIN [... [ score 167 E 5e-41 ] [ range 122 .. 258 ] [ duplicate a ]
+sequence
+MKTSARNQINGKVSVITRGSVNSEVALEIGGG--TIYAIITNESLEEMGLEVGMEAYAIIKASWVMIGVG
+D-PKGLSARNRLKGVLQEVVEGAVNGEVKIKV-GEKLLTAIITNEAIRELELKAGMEAYAIIKASHVLLG
+V--*
+>P1;gi|34558112|ref|NP_907927.1| MOLYBDENUM-PTERIN-BINDING PROTEIN [... [ score 167 E 5e-41 ] [ range 114 .. 188 ] [ duplicate b ]
+sequence
+-----------------------------------------------------------------MERAR
+RINMKTSARNQINGKVSVITRGSVNSEVALEIGGG-TIYAIITNESLEEMGLEVGMEAYAIIKASWVMIG
+V--*
+>P1;gi|23014907|ref|ZP_00054701.1| COG2005: N-terminal domain of mol... [ score 165 E 2e-40 ] [ range 133 .. 272 ] [ duplicate a ]
+sequence
+MKTSARNAFRCTVAEIRQGSVNAEVILHLTDA-VTLAATVTGESLRDLGIVPGQAVTALVKASFVMLATG
+DAVPAVSARNRIPGVVAHREDGPVSSEITLDIGGGKVLAAMVTRDGADELGLRAGAKAWALFKASHVILA
+V--*
+>P1;gi|23014907|ref|ZP_00054701.1| COG2005: N-terminal domain of mol... [ score 165 E 2e-40 ] [ range 125 .. 200 ] [ duplicate b ]
+sequence
+-----------------------------------------------------------------IILLR
+SLGMKTSARNAFRCTVAEIRQGSVNAEVILHLTDAVTLAATVTGESLRDLGIVPGQAVTALVKASFVMLA
+T--*
+>P1;gi|31563221|sp|Q9F4K4|MODE_HERSE Molybdenum transport protein mo... [ score 164 E 3e-40 ] [ range 127 .. 266 ] [ duplicate a ]
+sequence
+MKTSARNQFAGVISAIDTGPVTTQVTVTIAGA-QEIVATMTTTAANRLKLRIGSNAIALIKSSAVVLVTD
+FAGFSLSARNQFEGTVSRVERGAVSSLVVLTLPGGACMTASLTNDAIDALSLAVGQTATAVFKAYAVMVA
+V--*
+>P1;gi|31563221|sp|Q9F4K4|MODE_HERSE Molybdenum transport protein mo... [ score 164 E 3e-40 ] [ range 116 .. 192 ] [ duplicate b ]
+sequence
+--------------------------------------------------------------PALAGLLR
+RMSMKTSARNQFAGVISAIDTGPVTTQVTVTIAGAQEIVATMTTTAANRLKLRIGSNAIALIKSSAVVL-
+---*
+>P1;gi|22980075|ref|ZP_00025786.1| COG2005: N-terminal domain of mol... [ score 161 E 3e-39 ] [ range 30 .. 169 ] [ duplicate a ]
+sequence
+MQTSARNQFSGVVAQATAGAVNDEIIIAINGG-QQIVATVTHDSAARLGLKAGAKVVALVKATSVIVMVD
+ADATKVSARNFVQGKVTNLTKGAVNADVTITGDNGMAVAAIITNASVDRLGLAVGKPAAAMFKASSVIVG
+V--*
+>P1;gi|22980075|ref|ZP_00025786.1| COG2005: N-terminal domain of mol... [ score 161 E 3e-39 ] [ range 103 .. 171 ] [ duplicate c ]
+sequence
+-KVSARNFVQGKVTNLTKGAVNADVTITGDNG-MAVAAIITNASVDRLGLAVGKPAAAMFKASSVIVGVD
+N---------------------------------------------------------------------
+---*
+>P1;gi|22126916|ref|NP_670339.1| repressor of molybdate ABC transpor... [ score 160 E 5e-39 ] [ range 145 .. 284 ] [ duplicate a ]
+sequence
+LQTSARNQFFGTLIERDHQQVQQHVNILLSDG-TRLTAAITQQSADRLQLSAGKEVLALIKAPWVKLVTD
+PA-LAGAADNALPGTVASIEPGNDHSEVIVTLTGGANLCSTQNNSELHALNLRVGSAVIAQFNADRVIIA
+T--*
+>P1;gi|22126916|ref|NP_670339.1| repressor of molybdate ABC transpor... [ score 160 E 5e-39 ] [ range 135 .. 209 ] [ duplicate b ]
+sequence
+---------------------------------------------------------------SLLAAIS
+RFSLQTSARNQFFGTLIERDHQQVQQHVNILLSDGKTLTAAITQQSADRLQLSAGKEVLALIKAPWV---
+---*
+>P1;gi|21674579|ref|NP_662644.1| molybdenum-pterin-binding protein [... [ score 160 E 6e-39 ] [ range 1 .. 140 ] [ duplicate a ]
+sequence
+MNISARNIFKGSISSIVKGAVNAEVTITLASG-TPIVSIVTIGAVERLGLQEGMAASAIIKASTVILGTN
+LHDAKMSARNILCGTVTRVIDGPVSCEVDLEIGVGEVLSAVITHGSAEKLGFAEGSHACAIFKASSVIIG
+V--*
+>P1;gi|21674579|ref|NP_662644.1| molybdenum-pterin-binding protein [... [ score 160 E 6e-39 ] [ range 74 .. 141 ] [ duplicate b ]
+sequence
+-KMSARNILCGTVTRVIDGPVSCEVDLEIGVG-EVLSAVITHGSAEKLGFAEGSHACAIFKASSVIIGVD
+----------------------------------------------------------------------
+---*
+>P1;gi|44643289|gb|EAK69900.1| unknown [environmental sequence] [ score 159 E 1e-38 ] [ range 21 .. 160 ] [ duplicate a ]
+sequence
+MRTSARNHFPGQVSAVKAGAVNDEITLRTQGG-LDIVAVITHGSAASLGLAAGSKAFALVKASSVIVMVD
+VDSSKVSARNCVAGTVSSVAKGAVNSEVVIKAAGGAEIVAIVTNDSVDRLGLASGTAASAIFKASSVIVG
+V--*
+>P1;gi|22989894|ref|ZP_00034946.1| COG2005: N-terminal domain of mol... [ score 158 E 2e-38 ] [ range 41 .. 180 ] [ duplicate a ]
+sequence
+MKTTARNQFAGTIDAIDTGPVTTQVSVTIAGG-QQIVATMTTSAATRLKLAVGKEAIALIKSSAVVLVVD
+FAGYVLSARNQFAGTISRLERGAVSSLVVLALPGGVNLTASVTNDAVDALALAVGQQATAVFKAYSVMVA
+I--*
+>P1;gi|22989894|ref|ZP_00034946.1| COG2005: N-terminal domain of mol... [ score 158 E 2e-38 ] [ range 115 .. 183 ] [ duplicate b ]
+sequence
+--LSARNQFAGTISRLERGAVSSLVVLALPGG-VNLTASVTNDAVDALALAVGQQATAVFKAYSVMVAIA
+AA--------------------------------------------------------------------
+---*
+>P1;gi|22989894|ref|ZP_00034946.1| COG2005: N-terminal domain of mol... [ score 158 E 2e-38 ] [ range 37 .. 108 ] [ duplicate c ]
+sequence
+---------------------------------------------------------------------R
+RIAMKTTARNQFAGTIDAIDTGPVTTQVSVTIAGGQQIVATMTTSAATRLKLAVGKEAIALIKSSAVVLV
+V--*
+>P1;gi|23105650|ref|ZP_00092106.1| COG2005: N-terminal domain of mol... [ score 158 E 3e-38 ] [ range 130 .. 267 ]
+sequence
+LKSSACNQFAGIVTDLRADGVDYEVHIRLDAK-NKIAAIITKASVENLELAIGKEIFAWIKSSSVMLITE
+RS-FKLTASNVLWGEVTKIQQGPLTSEVTLTLPSGHPVVCVISTESCKTMSFVPGQEAGAFFSPSSVILA
+---*
+>P1;gi|17549374|ref|NP_522714.1| PUTATIVE MOLYBDENUM-PTERIN-BINDING ... [ score 158 E 3e-38 ] [ range 123 .. 268 ] [ duplicate a ]
+sequence
+LRTSARNALFGTVETVVPGAVNDAVTLRLPGG-QPVVATITRESTQALGLKPGVDAVALIKAPAVMLLRG
+AGDWRLSAENQLPCEVTEIREGAVQTEVRLRLRDATVLAAMASRTAVEAMALAEGVEVVAVFEASSVILG
+L--*
+>P1;gi|17549374|ref|NP_522714.1| PUTATIVE MOLYBDENUM-PTERIN-BINDING ... [ score 158 E 3e-38 ] [ range 196 .. 269 ] [ duplicate b ]
+sequence
+-RLSAENQLPCEVTEIREGAVQTEVRLRLRDA-TVLAAMASRTAVEAMALAEGVEVVAVFEASSVILGLA
+----------------------------------------------------------------------
+---*
+>P1;gi|23054428|ref|ZP_00080585.1| COG2005: N-terminal domain of mol... [ score 157 E 3e-38 ] [ range 1 .. 140 ]
+sequence
+MKLSARNVLLGTVSGITKGAVNAEVSLTLKAG-TPVIAVVTNASVDNLGLAVGKEAHVIVKASSIIIGTD
+LHDAKVSARNIICGTVVKVIEGPVSAEVDVEIGGGNTLSAVITHESARNLGIKEGGHACALFKASSVILG
+V--*
+>P1;gi|44564191|gb|EAK13665.1| unknown [environmental sequence] [ score 156 E 6e-38 ] [ range 1 .. 139 ] [ duplicate a ]
+sequence
+MQTSARNQFAGEVAEVKHGAVNDEITLRTQGG-LEIVAIITHGSATSLGLAAGKKAFALVKASSVIVMVD
+VTKSQVSARNCIAGTVSAVTKGAVNSEVTIS-AGGAQIAAIITNESVDRLGLASGKAATAIFKASSVIIG
+V--*
+>P1;gi|26249131|ref|NP_755171.1| Potential molybdenum-pterin-binding... [ score 156 E 8e-38 ] [ range 14 .. 153 ]
+sequence
+MAVSARNQLTGTVSAVAMGAVNDEVELTLAGG-AKLVAIVTHSSQQALGLAKGKEAIALIKAPWVTLATE
+DCGLKFSARNQFAGSVSTITEGAVNATVHIKTDAGFEIVAVVTNESQDEMKLTTGSRVIALIKASAILIA
+T--*
+>P1;gi|585505|sp|Q08386|MOPB_RHOCA Molybdenum-pterin binding protein... [ score 155 E 2e-37 ] [ range 130 .. 270 ] [ duplicate a ]
+sequence
+LRTSARNAWACKVWSVAADDVAAQVRMRLGEG-QDLTAVITARSAAEMRLAPGSEVLALVKSNFVLLAGA
+GVPERLSVRNRVRGRVIERIDAPLSSEVTLDLGGGKTITATITRDSAEMLDLHPGVETTALIKSSHVILA
+LP-*
+>P1;gi|585505|sp|Q08386|MOPB_RHOCA Molybdenum-pterin binding protein... [ score 155 E 2e-37 ] [ range 125 .. 196 ] [ duplicate b ]
+sequence
+--------------------------------------------------------------------LR
+GLSLRTSARNAWACKVWSVAADDVAAQVRMRLGEGQDLTAVITARSAAEMRLAPGSEVLALVKSNFVLLA
+---*
+>P1;gi|43938888|gb|EAG24816.1| unknown [environmental sequence] [ score 154 E 3e-37 ] [ range 54 .. 191 ] [ duplicate a ]
+sequence
+LQTSARNQWFGTITGRDHQQVQQHVEVLLADR-QRLKVAITAQSAERLGLDEGQEVLVLLKAPWVGMTQD
+PTVAK-EADNQLAGRISHIEYGPEQCEVLMALPDGQSLCATLPLE--QTRKLAEGAEAIAYFNADRIILA
+T--*
+>P1;gi|39937776|ref|NP_950052.1| putative molybdate transport system... [ score 150 E 4e-36 ] [ range 123 .. 262 ] [ duplicate a ]
+sequence
+MKTSARNALRGVITDIKADTLSAEVAVTVSPE-TTIYALLTAESVRSLGLVVGREAIVLIKAPFVMIAPG
+HQPPLVSARNCVRGIVRRADISAVNAEIVLDIGGDKTLAASVTARSADDLKLAPGDPACAVFDAAHVIVA
+I--*
+>P1;gi|39937776|ref|NP_950052.1| putative molybdate transport system... [ score 150 E 4e-36 ] [ range 197 .. 263 ] [ duplicate b ]
+sequence
+--VSARNCVRGIVRRADISAVNAEIVLDIGGD-KTLAASVTARSADDLKLAPGDPACAVFDAAHVIVAID
+----------------------------------------------------------------------
+---*
+>P1;gi|7546533|pdb|1B9N|A Chain A, Regulator From Escherichia Coli >... [ score 150 E 6e-36 ] [ range 126 .. 263 ] [ duplicate a ]
+sequence
+LQTSARNQWFGTITARDHDDVQQHVDVLLADG-TRLKVAITAQSGARLGLDEGKEVLILLKAPWVGITQD
+EAVAQ-NADNQLPGIISHIERGAEQCEVLMALPDGQTLCATVPVNEATS--LQQGQNVTAYFNADSVIIA
+T--*
+>P1;gi|16759704|ref|NP_455321.1| putative molybdenum transport prote... [ score 149 E 8e-36 ] [ range 123 .. 260 ] [ duplicate a ]
+sequence
+LQTSARNQWFGTITARDRDQVQQHVDVLLADG-TRLKVALTAQSGERLGLEEGKEVLILLKAPWVGI-TR
+DAAVARAADNQLSGTISHIERGAEQCEVLMALPDGQTLCATIPTADAAT--LKEGDDVIAWFNADRVIIA
+T--*
+>P1;gi|37525426|ref|NP_928770.1| Transcriptional regulator modE [Pho... [ score 149 E 9e-36 ] [ range 122 .. 261 ] [ duplicate a ]
+sequence
+LQTSARNQFFGTITDRNHNQVQQHIRILLTDG-QTLNAALTEQSANRLGLVKGKEVLALIKAPWVKLTKE
+PFSI-GHFDNALTGQISNIETSEENTEIIIVLDGGEILCSTLPNQEANNLKLHSGDKITALFNADQVIIA
+T--*
+>P1;gi|44026990|gb|EAG72656.1| unknown [environmental sequence] [ score 147 E 3e-35 ] [ range 68 .. 214 ] [ duplicate a ]
+sequence
+LRTSARNTLFGTVESVAPGAVNDVVTLRLPGG-QAVAATITQESTRVLGLAPGVQAVALIKAPAVMLMRG
+AGEWRVSAENQLPCVVTEIRDGAVQAEVRLRLAGETVLVAMLSRTAVQTLALAAGVEAVAVFEASSVILG
+L--*
+>P1;gi|44026990|gb|EAG72656.1| unknown [environmental sequence] [ score 147 E 3e-35 ] [ range 141 .. 215 ] [ duplicate b ]
+sequence
+-RVSAENQLPCVVTEIRDGAVQAEVRLRLAGE-TVLVAMLSRTAVQTLALAAGVEAVAVFEASSVILGLA
+----------------------------------------------------------------------
+---*
+>P1;gi|45516130|ref|ZP_00167683.1| hypothetical protein Raeut410801 ... [ score 146 E 9e-35 ] [ range 1 .. 140 ] [ duplicate a ]
+sequence
+MITSARNHFSGEVALARHGAVNDEVILRLAGG-QEIVATVTSESATRLALAPGKKAAAMVKATSVIVMVD
+VDASKVSARNAVSGKVTDIKKGAVNTDVTITDDKGLAISAIITNSSSDRLGLALGKAAVAVFKASSVIVA
+V--*
+>P1;gi|45516130|ref|ZP_00167683.1| hypothetical protein Raeut410801 ... [ score 146 E 9e-35 ] [ range 74 .. 141 ] [ duplicate b ]
+sequence
+-KVSARNAVSGKVTDIKKGAVNTDVTITDDKG-LAISAIITNSSSDRLGLALGKAAVAVFKASSVIVAVD
+----------------------------------------------------------------------
+---*
+>P1;gi|44526607|gb|EAJ87406.1| unknown [environmental sequence] [ score 145 E 2e-34 ] [ range 146 .. 286 ]
+sequence
+LRTSARNQLHGQVSAIESHGHNDMIRLQLAGG-LHLDAQITHDSTLRLELQTGVEVVALIKAGWLELLAD
+GQAETL-GHNCLEGRIETIEDGP--SEVRIALANGQVLCALAPPVALKAIDAAQGQPIRVQFAPSHVLLG
+TP-*
+>P1;gi|32043677|ref|ZP_00140939.1| COG2005: N-terminal domain of mol... [ score 144 E 4e-34 ] [ range 19 .. 157 ]
+sequence
+LRTSARNQLHGRVLSIHGEGFHDRIAIELPGQ-QRIEALITRASTEQLELGRGRPVLALIKAGWLDVGLE
+P---REDQPNQLHGTLEEIAAKAGPSEVRIALGSGLTLCALLSGERLASLGLKKGQKVIASFDPAQVLLG
+TP-*
+>P1;gi|39933224|ref|NP_945500.1| transcriptional regulator, ModE fam... [ score 143 E 6e-34 ] [ range 125 .. 262 ] [ duplicate a ]
+sequence
+-KVSARNKFIVEVISIRRWPVDVEVELKVSDD-LTIHATITNAAAEQLDLAPGRKALALIKAPFVRLVTP
+DEASKLR-RNVFRGVVKRRVDAEVHSEVNLDIGGGKTIVAVVPRQDAEDLGIAENAEAAVTFEADHVIIA
+V--*
+>P1;gi|39933224|ref|NP_945500.1| transcriptional regulator, ModE fam... [ score 143 E 6e-34 ] [ range 121 .. 192 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+ASGFKVSARNKFIVEVISIRRWPVDVEVELKVSDDLTIHATITNAAAEQLDLAPGRKALALIKAPFVRLV
+TP-*
+>P1;gi|23062036|ref|ZP_00086847.1| COG2005: N-terminal domain of mol... [ score 143 E 7e-34 ] [ range 148 .. 288 ]
+sequence
+LRTSARNQLHGKVVLIEGQGRNDLIRLELAEG-LSIDAQITHDSTVHLELQPGTEVVALIKAGWLELLAP
+QATPAV-GHNLLSGRIEAIEDGP--SEVRIALPNGQTLCALAEPLDLRTRGLTVEQAVQVQFSPSNVLLG
+TP-*
+>P1;gi|26987102|ref|NP_742527.1| molybdate transport regulator [Pseu... [ score 140 E 6e-33 ] [ range 113 .. 253 ]
+sequence
+LRTSARNQLQGQVSGLRPEGRYDRVSLALGGG-LEIDALITHDSTARLELTPGTMVVALLKAGWVLLAQE
+EEAERGS--NCLNATVEEVAEDDGPSEVRLALGNGQTLCAIAEAQWLAGQQVAVGSSVRVQFHPSYVLIG
+IP-*
+>P1;gi|24375351|ref|NP_719394.1| molybdenum transport regulatory pro... [ score 130 E 4e-30 ] [ range 122 .. 256 ]
+sequence
+LKTSARNQLTGRIHSIEPLGLNDSLKVTLAGG-QLIQISVTHASYERLQLALNQSILLLFKAPAVIASRD
+AC--ERTGQNCVSGHLLSVTELAYKAELAIDIGGKDVIYSVMPLADIQTLVL--GQPCFACFDATQVIVA
+---*
+>P1;gi|28867722|ref|NP_790341.1| molybdate transport regulator ModE,... [ score 128 E 2e-29 ] [ range 113 .. 253 ] [ duplicate a ]
+sequence
+LRTSARNQLLGRIAAITRQGHHDQVRLQLADE-VFIEAQVTHDSTRDLGLEVGTDAVALIKAGWLEL-HA
+QHVEVTNGNNCLVGQIESVIDDDGPSEVRIKLPSGLTLCALATPAHLQAQQLKTGVTVQAGFAASFVLLG
+IP-*
+>P1;gi|44245131|gb|EAH92286.1| unknown [environmental sequence] [ score 123 E 8e-28 ] [ range 122 .. 256 ]
+sequence
+LKTSARNQLTARIHSIEPLGLNDSLKVTLAGG-QQIQISVTHASYERLQLALNQSILLLFKAPAVTASRE
+ACLSA--GQNCISGHLLSVTELADKAELAIEIGGKDIIYSVMPLADIQT--LKVGEPCFACFDATQVIVA
+---*
+>P1;gi|44354934|gb|EAI68201.1| unknown [environmental sequence] [ score 122 E 1e-27 ] [ range 122 .. 256 ]
+sequence
+LKTSARNQLTARIHSIEPLGLNDNLKVTLAGG-QQIQISVTHASFERLQLALNQSILLLFKAPAVTASRE
+ACQSA--GQNCVSGHLLSVTELADKAELAIEIGGKDIIYSVMPLADIQT--LKVGEPCFACFDATQVIVA
+---*
+>P1;gi|44615595|gb|EAK49787.1| unknown [environmental sequence] [ score 121 E 3e-27 ] [ range 122 .. 256 ]
+sequence
+LKTSARNQLTARIHSIEPLGLNDNLKVTLAGG-QQIQISVTHASYQRLQLALNQSILLLFKAPAVTASRD
+ACLSV--GQNCVSGHLLSVTELADKAELAIEIGGKDIIYSVMPLADIQT--LKVGEPCFACFDATQVIVA
+---*
+>P1;gi|23473405|ref|ZP_00128701.1| COG2005: N-terminal domain of mol... [ score 117 E 4e-26 ] [ range 220 .. 377 ] [ duplicate a ]
+sequence
+-RSSARNSFRGHVSAIRTDAIMAEVSLCTVGG-HTVSALITMESLRALELEPDSPVGATVKAPYVDVRLC
+APGSAGSGRNCMTAAVTQVRSSGVMAEVMGACADGTQLCALLSVSDAERMGLVAGQDVAAFFKPLSVVL-
+---*
+>P1;gi|29828883|ref|NP_823517.1| putative molibdenum binding protein... [ score 114 E 4e-25 ] [ range 1 .. 136 ] [ duplicate a ]
+sequence
+MSLSIRNQLPGTVTAVTRGEAMATVKVRLDGG-QDITAAITADAVTDLGLTTGAAVRALVKSTEVSLAT-
+DAVEGVSIRNQLPGTVEGVAAGGAMASVRVTVEGG-ELTAAITKEAVTDLGLAPGSAVVALIKSTEIAL-
+---*
+>P1;gi|29828883|ref|NP_823517.1| putative molibdenum binding protein... [ score 114 E 4e-25 ] [ range 3 .. 68 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+-----LSIRNQLPGTVTAVTRGEAMATVKVRLDGGQDITAAITADAVTDLGLTTGAAVRALVKSTEVSLA
+T--*
+>P1;gi|21219882|ref|NP_625661.1| putative molibdenum binding protein... [ score 110 E 4e-24 ] [ range 1 .. 138 ] [ duplicate a ]
+sequence
+MSLSIRNQLPGTVTAVTPGEAMATVAVRLSGG-QDLTAAITREAAEDLALTPGTAVRALVKSTEVALATG
+RVD-GLSIRNRLPGTVTALTTGAAMATVAVAVE-GAELTAAVTRQAADDLGLSVGTPVVALVKSTEVSLA
+T--*
+>P1;gi|21219882|ref|NP_625661.1| putative molibdenum binding protein... [ score 110 E 4e-24 ] [ range 74 .. 139 ] [ duplicate b ]
+sequence
+--LSIRNRLPGTVTALTTG-AAMATVAVAVEG-AELTAAVTRQAADDLGLSVGTPVVALVKSTEVSLATA
+----------------------------------------------------------------------
+---*
+>P1;gi|16124582|ref|NP_419146.1| molybdenum transport protein ModE [... [ score 103 E 7e-22 ] [ range 145 .. 277 ] [ duplicate a ]
+sequence
+LRTSARNALRGVVTMVSEDEVTATVTLDIGEG-LGLIARVTRRSVEDLGLAPGRPAIALIKSSFIRLDGA
+AT------ENRLEGRILDREGGQAAAEVTIGLSAGKSLVATV-GADAPGWDLAPGDAVVVSIAAADIILA
+V--*
+>P1;gi|16124582|ref|NP_419146.1| molybdenum transport protein ModE [... [ score 103 E 7e-22 ] [ range 144 .. 210 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+--GLRTSARNALRGVVTMVSEDEVTATVTLDIGEGLGLIARVTRRSVEDLGLAPGRPAIALIKSSFIRL-
+---*
+>P1;gi|23124394|ref|ZP_00106386.1| COG3585: Molybdopterin-binding pr... [ score 98 E 4e-20 ] [ range 57 .. 146 ] [ duplicate a ]
+sequence
+--------------------------------------------------QEKQEDIYYTQKPGIESTIP
+KKSLKVSSRNILKGVVKRVVYGAVNSEVTLEIIHKVELTSIITRASAEELELSEGKEAYAVIKSNDIVIA
+---*
+>P1;gi|44064101|gb|EAG93021.1| unknown [environmental sequence] [ score 97 E 9e-20 ] [ range 1 .. 99 ]
+sequence
+------------------------------------------DSTENLQLSEGSSVVALIKAGWLEL-QP
+LQAPRAEQHNALEGRIEQILPASDPSDVRIGLPNGQTLCALLESARLAELGLRVGDPVRAQFAASQVLLG
+T--*
+>P1;gi|15602611|ref|NP_245683.1| ModE [Pasteurella multocida] >gi|12... [ score 95 E 4e-19 ] [ range 124 .. 261 ] [ duplicate a ]
+sequence
+LQSSARNQFFGDIVALRHENIHCFVAIQIKGA-QPLTVSITEKSAQRLKLTLGKEVMMMIKAPWVKV---
+-HREKPEGVNTFLVNVKEITDKGDVEEVILTSINKHEFCATLNKAE----NLKPDEQIWISIDPEQVILA
+T--*
+>P1;gi|15602611|ref|NP_245683.1| ModE [Pasteurella multocida] >gi|12... [ score 95 E 4e-19 ] [ range 114 .. 188 ] [ duplicate b ]
+sequence
+---------------------------------------------------------------SVLHATA
+RFSLQSSARNQFFGDIVALRHENIHCFVAIQIKGAQPLTVSITEKSAQRLKLTLGKEVMMMIKAPWV---
+---*
+>P1;gi|21226326|ref|NP_632248.1| Molybdenum-pterin-binding-protein [... [ score 94 E 6e-19 ] [ range 1 .. 69 ] [ duplicate a ]
+sequence
+MKISARNILKGKIKSITHGSVNSEIVVELPGG-TEITSIITKNSAEKLGLKEGHDVYAVIKASSVMLASD
+----------------------------------------------------------------------
+---*
+>P1;gi|21226326|ref|NP_632248.1| Molybdenum-pterin-binding-protein [... [ score 94 E 6e-19 ] [ range 2 .. 67 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KISARNILKGKIKSITHGSVNSEIVVELPGGTEITSIITKNSAEKLGLKEGHDVYAVIKASSVMLA
+---*
+>P1;gi|20090103|ref|NP_616178.1| molybdenum-pterin binding protein [... [ score 90 E 1e-17 ] [ range 16 .. 84 ] [ duplicate a ]
+sequence
+MKLSARNVLKGKVKSIVTGMVNTEIVIELPEG-TEITSIITKTSAESMNLKVGSEVCAALKASNVMIGTD
+----------------------------------------------------------------------
+---*
+>P1;gi|20090103|ref|NP_616178.1| molybdenum-pterin binding protein [... [ score 90 E 1e-17 ] [ range 5 .. 83 ] [ duplicate b ]
+sequence
+------------------------------------------------------------KSPSVL--NG
+GLKMKLSARNVLKGKVKSIVTGMVNTEIVIELPEGTEITSIITKTSAESMNLKVGSEVCAALKASNVMIG
+T--*
+>P1;gi|23048853|ref|ZP_00076230.1| COG3585: Molybdopterin-binding pr... [ score 88 E 3e-17 ] [ range 6 .. 74 ] [ duplicate b ]
+sequence
+MKLSARNVLKGKVKSIVTGMVNSEIVIELPEG-TEITSIITKTSAESLDLKVGSEVYAAFKASSVMVAAD
+----------------------------------------------------------------------
+---*
+>P1;gi|20090102|ref|NP_616177.1| molybdenum-pterin binding protein [... [ score 87 E 5e-17 ] [ range 1 .. 69 ] [ duplicate a ]
+sequence
+MKLSARNVFKGKVKSIVIGMVNAEIVVELPSG-TEVTSIITKTSAENMKLKEGSEVYAAFKASSVMIATD
+----------------------------------------------------------------------
+---*
+>P1;gi|20090102|ref|NP_616177.1| molybdenum-pterin binding protein [... [ score 87 E 5e-17 ] [ range 2 .. 68 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KLSARNVFKGKVKSIVIGMVNAEIVVELPSGTEVTSIITKTSAENMKLKEGSEVYAAFKASSVMIA
+T--*
+>P1;gi|44481156|gb|EAJ57386.1| unknown [environmental sequence] [ score 84 E 5e-16 ] [ range 2 .. 68 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KISARNTLNGTITAIEIGSVNNEVTIELAPGVVLTSVVTKASCERLNLKVGDSAYALIKASSVMIG
+V--*
+>P1;gi|39937777|ref|NP_950053.1| molybdo-pterin binding protein [Rho... [ score 81 E 5e-15 ] [ range 1 .. 69 ] [ duplicate a ]
+sequence
+MKISARNQLKGTIVDVIKGATTSHVRIDIGGG-AIVTASITNESAEELKLAKGQPAMALIKASDVLVAVD
+----------------------------------------------------------------------
+---*
+>P1;gi|39937777|ref|NP_950053.1| molybdo-pterin binding protein [Rho... [ score 81 E 5e-15 ] [ range 2 .. 68 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KISARNQLKGTIVDVIKGATTSHVRIDIGGGAIVTASITNESAEELKLAKGQPAMALIKASDVLVA
+V--*
+>P1;gi|16273280|ref|NP_439521.1| molybdenum-pterin binding protein [... [ score 80 E 6e-15 ] [ range 2 .. 68 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----KISARNQLKGKVVSIENGSVNAIVHIDIGGGNVLSSTVSLAAVKELNLEVGKEAYAIIKATSVMVG
+V--*
+>P1;gi|27357087|gb|AAN86541.1| molybdenum-pterin-binging protein [Eu... [ score 80 E 7e-15 ] [ range 2 .. 69 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----KLSARNQLKGKVVEIQEGVVSAKVVIEICEGNRISSTISMDALRDLGIKVGDEATAVIKATSVMVM
+VP-*
+>P1;gi|27357087|gb|AAN86541.1| molybdenum-pterin-binging protein [Eu... [ score 80 E 7e-15 ] [ range 1 .. 69 ] [ duplicate b ]
+sequence
+MKLSARNQLKGKVVEIQEGVVSAKVVIEICEG-NRISSTISMDALRDLGIKVGDEATAVIKATSVMVMVP
+----------------------------------------------------------------------
+---*
+>P1;gi|15602081|ref|NP_245153.1| MopI [Pasteurella multocida] >gi|12... [ score 80 E 7e-15 ] [ range 2 .. 68 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KISARNQFKGKVVALEKGAVNAVVSIDIGAGNVITSTISMAAVEELKLEVGKDAYAIIKATSVMVG
+V--*
+>P1;gi|13471482|ref|NP_103048.1| molybdo-pterin binding protein [Mes... [ score 80 E 1e-14 ] [ range 2 .. 68 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----KISARNVLKGTITEIVKGATTSHVRIDIGGGAIVTASITNEAVADLKFEKGKQAYAVVKASDVMVG
+I--*
+>P1;gi|13471482|ref|NP_103048.1| molybdo-pterin binding protein [Mes... [ score 80 E 1e-14 ] [ range 1 .. 69 ] [ duplicate b ]
+sequence
+MKISARNVLKGTITEIVKGATTSHVRIDIGGG-AIVTASITNEAVADLKFEKGKQAYAVVKASDVMVGID
+----------------------------------------------------------------------
+---*
+>P1;gi|17232669|ref|NP_489217.1| molybdenum-pterin binding protein h... [ score 79 E 2e-14 ] [ range 79 .. 146 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+--PFKVSSRNILKGVIKKVVVGSVNSEVTLEIVHRVELTSIITRMSAEELELTEGAEAYAVIKSNDIVIA
+---*
+>P1;gi|17232669|ref|NP_489217.1| molybdenum-pterin binding protein h... [ score 79 E 2e-14 ] [ range 81 .. 148 ] [ duplicate b ]
+sequence
+-KVSSRNILKGVIKKVVVGSVNSEVTLEIVHR-VELTSIITRMSAEELELTEGAEAYAVIKSNDIVIARD
+----------------------------------------------------------------------
+---*
+>P1;gi|17228923|ref|NP_485471.1| molybdo-pterin binding protein [Nos... [ score 79 E 2e-14 ] [ range 1 .. 69 ] [ duplicate a ]
+sequence
+MEVSARNFLKTTVKKVVPGTVNTEVTLELAPG-VEIVSIITKSSADKLQLAEGKQAYALIKSSDVIVAVD
+----------------------------------------------------------------------
+---*
+>P1;gi|17228923|ref|NP_485471.1| molybdo-pterin binding protein [Nos... [ score 79 E 2e-14 ] [ range 3 .. 68 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+-----VSARNFLKTTVKKVVPGTVNTEVTLELAPGVEIVSIITKSSADKLQLAEGKQAYALIKSSDVIVA
+V--*
+>P1;gi|21227652|ref|NP_633574.1| putative molybdenum transport prote... [ score 79 E 2e-14 ] [ range 111 .. 175 ] [ duplicate b ]
+sequence
+-KLSARNKLPGKVVEVEKNGLVSKLTIEIEPS-V-LTSVVTEEAVEKLDIKPGDRIYAVIKSTEVMVA--
+----------------------------------------------------------------------
+---*
+>P1;gi|45358191|ref|NP_987748.1| probable Molybdenum-pterin binding ... [ score 75 E 4e-13 ] [ range 2 .. 66 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KMSIRNQFTGKILEIVEGQVVAKVKVDIGGGNTIVSVITLDAEKELGLKVGDTVTALVKSTSVMI-
+---*
+>P1;gi|23010256|ref|ZP_00051008.1| COG3585: Molybdopterin-binding pr... [ score 73 E 8e-13 ] [ range 69 .. 142 ] [ duplicate a ]
+sequence
+-------------------------------------------------------------------TPD
+PSGVARSARNRFVGIVTEVVSDTVMSQVEM-LCGGQRVVSLMSTEAVRELRLEPGSLAVAVVKATTVIVE
+TP-*
+>P1;gi|23010256|ref|ZP_00051008.1| COG3585: Molybdopterin-binding pr... [ score 73 E 8e-13 ] [ range 78 .. 146 ] [ duplicate b ]
+sequence
+---SARNRFVGIVTEVVSDTVMSQVEM-LCGG-QRVVSLMSTEAVRELRLEPGSLAVAVVKATTVIVETP
+GGAA------------------------------------------------------------------
+---*
+>P1;gi|22960118|ref|ZP_00007761.1| COG3585: Molybdopterin-binding pr... [ score 72 E 2e-12 ] [ range 2 .. 66 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----KISARNVLSGKVVDVIAGTVTSHVRIDV-GGTIITAAITNEAVEDLALKVGDEACAIIKSSDVMVG
+---*
+>P1;gi|22960118|ref|ZP_00007761.1| COG3585: Molybdopterin-binding pr... [ score 72 E 2e-12 ] [ range 1 .. 66 ] [ duplicate b ]
+sequence
+MKISARNVLSGKVVDVIAGTVTSHVRIDV-GG-TIITAAITNEAVEDLALKVGDEACAIIKSSDVMVG--
+----------------------------------------------------------------------
+---*
+>P1;gi|23015858|ref|ZP_00055623.1| COG3585: Molybdopterin-binding pr... [ score 72 E 2e-12 ] [ range 2 .. 66 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----KLSARNNLKGKVVSIDKGQIVAKVKIDV-GGQFITSLVSNEAVDDLALKIGDNVQAIIKSSEVIIG
+---*
+>P1;gi|41720373|ref|ZP_00149186.1| hypothetical protein Mbur017801 [... [ score 70 E 6e-12 ] [ range 108 .. 177 ] [ duplicate a ]
+sequence
+--------------------------------------------------------------------LE
+NISFKLSAHNKLSGRIVGIDKGNIVSKVKVEIDP-DVLTSIITSEALERLDVQEGDEVFATIKSTEVVL-
+---*
+>P1;gi|45513031|ref|ZP_00164597.1| hypothetical protein Selo076201 [... [ score 70 E 1e-11 ] [ range 2 .. 68 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----RVSARNVFTAVIRQIQMGQVNAEVLLEIAPNVTVVSVITRASVEGLQLQVDQEAYTMIKSSDVMVA
+L--*
+>P1;gi|41409649|ref|NP_962485.1| hypothetical protein MAP3551c [Myco... [ score 70 E 1e-11 ] [ range 2 .. 69 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----RLSTRNQLRGTITEVELGTVMAVVKVTLDGGQVVTSSVTRDAATDLGLEVGKPATVFIKSTEVTIG
+V--*
+>P1;gi|41409649|ref|NP_962485.1| hypothetical protein MAP3551c [Myco... [ score 70 E 1e-11 ] [ range 1 .. 70 ] [ duplicate b ]
+sequence
+MRLSTRNQLRGTITEVELGTVMAVVKVTLDGG-QVVTSSVTRDAATDLGLEVGKPATVFIKSTEVTIGVD
+----------------------------------------------------------------------
+---*
+>P1;gi|22967591|ref|ZP_00015184.1| COG3585: Molybdopterin-binding pr... [ score 70 E 1e-11 ] [ range 2 .. 66 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----KISARNQLSGKVISVKEGAVNATVKVDV-GGQTITSSITNEAVSDLGLTTGDAVTIIVKATDVLIG
+---*
+>P1;gi|29828260|ref|NP_822894.1| putative substrate-binding protein ... [ score 68 E 3e-11 ] [ range 64 .. 125 ] [ duplicate b ]
+sequence
+---SARNRLSGIVTDVTLGDVSAQVEIQ-AGP-FRVVSLVSRESAEELKLEPGVPAVAVIKSTNVVV---
+----------------------------------------------------------------------
+---*
+>P1;gi|44064795|gb|EAG93416.1| unknown [environmental sequence] [ score 68 E 4e-11 ] [ range 60 .. 129 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-HGQRISARNRFVGLVTRVVQDGVMAQIEIQ-AGGHRFVSLISSEAAQEMNLEQGVLAAAVVKSTNVVIE
+LP-*
+>P1;gi|23051205|ref|ZP_00077990.1| COG3839: ABC-type sugar transport... [ score 67 E 6e-11 ] [ range 236 .. 351 ] [ duplicate a ]
+sequence
+------NVLKGKVKALEG-----KLTVIEAEG-LEIYSS---DPAE-----PGEEVAISIRPEEIILARG
+--IMESSARNTLKGKVTEVFKKEHLVVVEMEMGN-VEIKAVVTPTSCEMLGLEPGREIYSVFKASNARI-
+---*
+>P1;gi|23051205|ref|ZP_00077990.1| COG3839: ABC-type sugar transport... [ score 67 E 6e-11 ] [ range 287 .. 347 ] [ duplicate b ]
+sequence
+MESSARNTLKGKVTEVFKKEHLVVVEMEM-GN-VEIKAVVTPTSCEMLGLEPGREIYSVFKAS-------
+----------------------------------------------------------------------
+---*
+>P1;gi|45508009|ref|ZP_00160350.1| hypothetical protein Avar295301 [... [ score 67 E 8e-11 ] [ range 79 .. 146 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+--PFKVSSRNILKGVIKKIVVGSVNSEVTLEIVHRVELTSIITRMSAEELELTEGTEAYAVIKSNDIVIA
+---*
+>P1;gi|45508009|ref|ZP_00160350.1| hypothetical protein Avar295301 [... [ score 67 E 8e-11 ] [ range 81 .. 148 ] [ duplicate b ]
+sequence
+-KVSSRNILKGVIKKIVVGSVNSEVTLEIVHR-VELTSIITRMSAEELELTEGTEAYAVIKSNDIVIARD
+----------------------------------------------------------------------
+---*
+>P1;gi|45514014|ref|ZP_00165575.1| hypothetical protein Raeut642301 ... [ score 63 E 9e-10 ] [ range 2 .. 57 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+---------------VSRVVPGAVNAEVVLDLDGGGSVAAIVTNESVQTLALTPGVHALAIFKASAVILG
+V--*
+>P1;gi|15602607|ref|NP_245679.1| ModC [Pasteurella multocida] >gi|12... [ score 63 E 1e-09 ] [ range 266 .. 351 ] [ duplicate a ]
+sequence
+--------------------------------------------------EVGENIRICIKGSDVSLSLT
+-QPEKTSIRNILHGKVKRIVERENRVDVQIEIDE-KPIWATISKWALEDLALQLGQPVFAQIKAVSVL--
+---*
+>P1;gi|20089221|ref|NP_615296.1| molybdenum ABC transporter, ATP-bin... [ score 63 E 1e-09 ] [ range 236 .. 351 ] [ duplicate a ]
+sequence
+------NVLKGTVKALEG-----KLTVIDAEG-MEIYSA---DPAE-----PGENVTVSIRPEEIILAGG
+TVES--SARNTLKGRVSGIKEHLVVVEVKM---GNSEIKAVVTPTSCEMLGIEPGREMYAVFKASNARI-
+---*
+>P1;gi|20089221|ref|NP_615296.1| molybdenum ABC transporter, ATP-bin... [ score 63 E 1e-09 ] [ range 290 .. 347 ] [ duplicate b ]
+sequence
+---SARNTLKGRVSGIKEHLVVVEVKM---GN-SEIKAVVTPTSCEMLGIEPGREMYAVFKAS-------
+----------------------------------------------------------------------
+---*
+>P1;gi|34558107|ref|NP_907922.1| hypothetical protein WS1805 [Woline... [ score 63 E 1e-09 ] [ range 16 .. 142 ] [ duplicate a ]
+sequence
+------NYLRAQAKGIKEAGEIALVSLE-AHK-ESFSALMLDASNLE-GLEVEAWVEMLFKETEVILAT-
+-IDSKVSARNSFVGEIIEMVKGEILTQVTLDF-HGEKIRSIITHGAAEELGLRVGAKARWFVKSNEMTL-
+---*
+>P1;gi|22986486|ref|ZP_00031582.1| COG3585: Molybdopterin-binding pr... [ score 62 E 2e-09 ] [ range 4 .. 69 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+---SAINVRNQFKGKVKEIIRGPVVSEVDVDTPFG-IVTSVITTRSVDELDLKVGSEVVALVKSTEVSIA
+---*
+>P1;gi|22986486|ref|ZP_00031582.1| COG3585: Molybdopterin-binding pr... [ score 62 E 2e-09 ] [ range 1 .. 70 ] [ duplicate b ]
+sequence
+MSISARNQFKGKVKEIIRGPVVSEVDVDTPFG--IVTSVITTRSVDELDLKVGSEVVALVKSTEVSIAR-
+----------------------------------------------------------------------
+---*
+>P1;gi|21227680|ref|NP_633602.1| Molybdate ABC transporter, ATP-bind... [ score 62 E 3e-09 ] [ range 236 .. 351 ] [ duplicate a ]
+sequence
+------NVLKGCVKALEG-----KLTVVEAEG-MKIYSS---DPAE-----PGEGVTVSIRPEEIILARE
+--ALESSARNTVQGRVSGVFKKEHLVVVEVEIGN-AEIKAVITPTSCEMLGLEPGREIYAVFKASNARI-
+---*
+>P1;gi|21227680|ref|NP_633602.1| Molybdate ABC transporter, ATP-bind... [ score 62 E 3e-09 ] [ range 287 .. 347 ] [ duplicate b ]
+sequence
+LESSARNTVQGRVSGVFKKEHLVVVEVEI-GN-AEIKAVITPTSCEMLGLEPGREIYAVFKAS-------
+----------------------------------------------------------------------
+---*
+>P1;gi|21222116|ref|NP_627895.1| putative substrate binding protein ... [ score 61 E 5e-09 ] [ range 48 .. 126 ] [ duplicate a ]
+sequence
+-------------------------------------------------------------AFSVELAQS
+GSGEETSVRNAFPGIVTAIKLGDVAAQVEIQ-AGPHRLVSLLTREAVEELGLEVGVEATARVKSTNV---
+---*
+>P1;gi|41407219|ref|NP_960055.1| hypothetical protein MAP1121c [Myco... [ score 60 E 9e-09 ] [ range 92 .. 165 ] [ duplicate b ]
+sequence
+---SARNRFVGLVTSVVSDKVMTQVEMQ-CGP-FTVVSLMSTEAAEELQLRPGSVAVAVVKATTVIVETA
+RPSTTVASD-------------------------------------------------------------
+---*
+>P1;gi|20089180|ref|NP_615255.1| sulfate/molybdate ABC transporter, ... [ score 60 E 1e-08 ] [ range 232 .. 344 ] [ duplicate a ]
+sequence
+------NVLKGRVISAEQGLL----RIRVGE--------VVIDAAGDME--VGDQVYAFLRPENIALS--
+KSSTQSSIRNSLQGRVTEAVLGAL---VRVKVDCGVPLNVLITRRSAEEMELSPGVQIYARFKASSV---
+---*
+>P1;gi|20089180|ref|NP_615255.1| sulfate/molybdate ABC transporter, ... [ score 60 E 1e-08 ] [ range 284 .. 348 ] [ duplicate b ]
+sequence
+-QSSIRNSLQGRVT--EAWVLGALVRVKVDCG-VPLNVLITRRSAEEMELSPGVQIYARFKASSVHVLR-
+----------------------------------------------------------------------
+---*
+>P1;gi|22960115|ref|ZP_00007758.1| COG4148: ABC-type molybdate trans... [ score 58 E 3e-08 ] [ range 494 .. 579 ] [ duplicate a ]
+sequence
+-------------------------------------------------LPEGAPLRLRILAQDVMLALS
+P-PQGISALNVLPGRIEEILPGERDALVRLSVE-GEALLARITRRSLRLLDLAPGRRAYAVLKTVAV---
+---*
+>P1;gi|44248675|gb|EAH94980.1| unknown [environmental sequence] [ score 58 E 3e-08 ] [ range 1 .. 70 ] [ duplicate a ]
+sequence
+MSITARNQFKGKVKEIIRGSVVSEVDVETPFG--IVTSVITTRSVDELELKVGAEVVALVKSTEVSIAR-
+----------------------------------------------------------------------
+---*
+>P1;gi|23499855|ref|NP_699295.1| molybdenum ABC transporter, ATP-bin... [ score 58 E 5e-08 ] [ range 264 .. 351 ] [ duplicate a ]
+sequence
+------------------------------------------------GLKQTMHVRLRVRARDVSIA-R
+KIPEAISIRNLLPVTVTGIERGEGNAHVFLDFR-GRRLGARLTRRSVDDLGLSVGDQVVALVKAVSV---
+---*
+>P1;gi|42904063|gb|EAB19130.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 61 .. 119 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----VSARNRFPGIVTRVEKDGVMALVEIQ-SGPHRVISLLSREAVEDLGIEPGVRAAASVKST-----
+---*
+>P1;gi|42904063|gb|EAB19130.1| unknown [environmental sequence] [ score 58 E 5e-08 ] [ range 59 .. 119 ] [ duplicate b ]
+sequence
+LNVSARNRFPGIVTRVEKDGVMALVEIQ-SGP-HRVISLLSREAVEDLGIEPGVRAAASVKST-------
+----------------------------------------------------------------------
+---*
+>P1;gi|12084659|pdb|1FR3|A Chain A, The High Resolution Structure Of... [ score 58 E 5e-08 ] [ range 2 .. 62 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----KISGRNKLEATVKEIVKGTVMAKIVMDYK-GTELVAAITIDSVADLDLVPGDKVTALVKATE----
+---*
+>P1;gi|14590096|ref|NP_142160.1| transport-ATP binding protein [Pyro... [ score 57 E 6e-08 ] [ range 277 .. 341 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-EGVKTSARNVFKARVEGIEDLGALVKLTLNL-GGIILRAFITRSSLIELGIREGEEVYASFKASAI---
+---*
+>P1;gi|13471479|ref|NP_103045.1| molybdenum transport protein modC [... [ score 57 E 7e-08 ] [ range 266 .. 351 ]
+sequence
+----------------------------------------------RLAMQTGAPVRVRIRARDVMIATE
+-KPTGLSALNILPGTIVAISPGEGPAEVGID-CNGATVLARITEQSRQALELRLGGNVFAVVK-------
+---*
+>P1;gi|45520339|ref|ZP_00171872.1| hypothetical protein Mflag228601 ... [ score 56 E 1e-07 ] [ range 4 .. 69 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+---HAINVRNQFRGRVKEIVLGPVVSEIDVETPVG-IVTSVITTRSVNELNLQVGTEVLALIKATEVSLA
+---*
+>P1;gi|42628774|ref|ZP_00154331.1| COG2005: N-terminal domain of mol... [ score 56 E 2e-07 ] [ range 123 .. 253 ]
+sequence
+LQSSARNQFFGRVAQQRIIDSRCVVDVNVQGP-TPLQVSITTKSSARLKLITEKEVMLMFKAPWVKISEQ
+PLA---NQPNQFPVNIKSLNE----EEAILQFAESDEFCATVPNQW------QIGQQVWIHIDQEQIILA
+T--*
+>P1;gi|28900784|ref|NP_800439.1| molybdenum ABC transporter, ATP-bin... [ score 56 E 2e-07 ] [ range 268 .. 358 ] [ duplicate a ]
+sequence
+--------------------------------------------------EPDTPIRLQVRANDVSIALE
+-QPKATSIRNVLPAEVHSIEDDKQSINVSLQLDDGCYLWATITPWALDDLNLKVGDKVYAQVKGVSV---
+---*
+>P1;gi|23011582|ref|ZP_00051900.1| COG4148: ABC-type molybdate trans... [ score 55 E 3e-07 ] [ range 160 .. 231 ] [ duplicate a ]
+sequence
+--LSARNVLPGQVATLREEGASCLVEVA-CGE-ATLAARLTRASARDLGLAVGRPVFAIVKSVALDAGTA
+PGGGRI----------------------------------------------------------------
+---*
+>P1;gi|23011582|ref|ZP_00051900.1| COG4148: ABC-type molybdate trans... [ score 55 E 3e-07 ] [ range 145 .. 217 ] [ duplicate b ]
+sequence
+-----------------------------------------------------------VPARDVLLALA
+RPAS-LSARNVLPGQVATLREEGASCLVEVA-CGEATLAARLTRASARDLGLAVGRPVFAIVKS------
+---*
+>P1;gi|148938|gb|AAA24984.1| ORF 7 [ score 55 E 3e-07 ] [ range 123 .. 253 ]
+sequence
+LQSSARNQFFGRVAQQRIIDSRCVVDVNVQGP-TPLQVSITTKSSARLKLITEKEVMLMFKAPWVKISEQ
+PLE---NQSNQFPVNIKSLNE----EEAILQFAESNEFCATVPNQW------QIGQQVWIHIDQEQIILA
+T--*
+>P1;gi|15889821|ref|NP_355502.1| AGR_C_4645p [Agrobacterium tumefaci... [ score 54 E 5e-07 ] [ range 270 .. 352 ] [ duplicate a ]
+sequence
+--------------------------------------------------TAGTPARVLIPARDVMLAL-
+VKPEGLSALNILEGHVTGISESEDGM-VTIQMDGGDIIQSRITDLSRERLHLEPGKPVHAIIKS------
+---*
+>P1;gi|15889821|ref|NP_355502.1| AGR_C_4645p [Agrobacterium tumefaci... [ score 54 E 5e-07 ] [ range 294 .. 355 ] [ duplicate b ]
+sequence
+--LSALNILEGHVTGISESE-DGMVTIQMDGG-DIIQSRITDLSRERLHLEPGKPVHAIIKSAAL-----
+----------------------------------------------------------------------
+---*
+>P1;gi|16273578|ref|NP_439833.1| molybdenum ABC transporter ATP-bind... [ score 54 E 5e-07 ] [ range 267 .. 351 ] [ duplicate a ]
+sequence
+---------------------------------------------------VGERVRVCIYSSDVSI-TL
+QKPEQTSIRNILRGKITQIEIQD--SRVDLALVEGHKIWASISKWAQNELRFAIGQDVYVQIKAVSVM--
+---*
+>P1;gi|18976454|ref|NP_577811.1| membrane protein [Pyrococcus furios... [ score 53 E 1e-06 ] [ range 254 .. 341 ] [ duplicate b ]
+sequence
+----------------------------------------------ELPLEAKGRVRIGIRPEDILISTE
+RI--KTSARNVFKAKVEAIEDVGPLVKLTLNVCD-ITLRAFITRSSLVELGIEEGKEVYASFKASAI---
+---*
+>P1;gi|21673287|ref|NP_661352.1| molybdenum ABC transporter, ATP-bin... [ score 53 E 2e-06 ] [ range 287 .. 346 ] [ duplicate b ]
+sequence
+--ISARNLLECRVAELFDSDGRKGVVLE-SGG-KTLVAEIVRSAAEELGIAPGTMLFAAIKASA------
+----------------------------------------------------------------------
+---*
+>P1;gi|14520372|ref|NP_125847.1| ABC transporter, ATP-binding protei... [ score 52 E 2e-06 ] [ range 280 .. 343 ] [ duplicate a ]
+sequence
+-KTSARNEFRAEVIGIEELGPLVRVNLKI-GG-ITLKAFITRSSLIELGISEGREVYVSFKTSAIKV---
+----------------------------------------------------------------------
+---*
+>P1;gi|14520372|ref|NP_125847.1| ABC transporter, ATP-binding protei... [ score 52 E 2e-06 ] [ range 248 .. 341 ] [ duplicate b ]
+sequence
+-----------------------------ANG-VKITLPISVEGKVRIGVRP----------EDIILSTE
+PV--KTSARNEFRAEVIGIEELGPLVRVNLKI-GGITLKAFITRSSLIELGISEGREVYVSFKTSAI---
+---*
+>P1;gi|24111966|ref|NP_706476.1| ATP-binding component of molybdate ... [ score 52 E 2e-06 ] [ range 236 .. 350 ]
+sequence
+-----------KVTVLEHHPHYAMTALALGDQ-HLWV--------NKLGEPLQAALRIRIQASDVSL-VL
+QPPQQTSIRNVLRAKVVNSYDDNGQVEVELEV-GGKTLWARISPWARDELAIKPGLWLYAQIKSVSI---
+---*
+>P1;gi|23102093|ref|ZP_00088620.1| hypothetical protein [Azotobacter... [ score 52 E 2e-06 ] [ range 257 .. 375 ]
+sequence
+---------AGVVIESVVAEHDDHYHLTFPGG-AVLVARRPEAPGQRLRLR--------VHARDVSLA-N
+SRIEDSSITNVLPATVREVVEADTPAHVLVRLAEGTPLIARITRRSCDQLGIAPGRRMWAQIKA------
+---*
+>P1;gi|15966682|ref|NP_387035.1| PUTATIVE MOLYBDENUM TRANSPORT ATP-B... [ score 52 E 2e-06 ] [ range 237 .. 351 ]
+sequence
+--------------ALIEGIVDSH-----DEG-HELTVVRAGDCLIRLVAEPGQRLRLYIAARDVMLATR
+R-PEGISALNVLPGTIVGLRQGSI--DVRVD-CGGNVIAARVTTLSRDALDLRPGKQVHAVVK-------
+---*
+>P1;gi|44230464|gb|EAH83269.1| unknown [environmental sequence] [ score 52 E 2e-06 ] [ range 2 .. 57 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+---------------VSQVTEGAVNATVHIKTDAGFDIVAVVTNESQQEMKLSQGSRVIALIKASAILIA
+T--*
+>P1;gi|37676481|ref|NP_936877.1| ABC-type molybdate transport system... [ score 51 E 6e-06 ] [ range 301 .. 389 ]
+sequence
+----------------------------------------------------GSDIRLQVRANDVSI-TL
+VQPQKTSIRNIIEAKVERVEEDKESIAVKLALTQDCFLWATITPWALADLNLKQGDRVFAQIKGVSV---
+---*
+>P1;gi|38233107|ref|NP_938874.1| Putative molybdenum ABC transport s... [ score 50 E 7e-06 ] [ range 497 .. 602 ]
+sequence
+------NVIPGVIDSSSEG-----ISVLVVGE-QRIMGVSTTA------LEPGSSAHAIFTPDSVTLATE
+QDISETSARNQFTACVIKLTPHGAVTTVTLDIGSGVVMSVPITTISARTLGIK-----------------
+---*
+>P1;gi|16764147|ref|NP_459762.1| molybdate transporter [Salmonella t... [ score 50 E 7e-06 ] [ range 275 .. 350 ]
+sequence
+-----------------------------------------------------------IQASDVSL-VL
+QPPQQTSIRNVLRAKVANCYDDNGQVEVQLEI-GGRTLWARISPWARDELNIKPGLWLYAQVKSVSI---
+---*
+>P1;gi|37523853|ref|NP_927230.1| ABC transporter solute-binding prot... [ score 50 E 8e-06 ] [ range 19 .. 82 ] [ duplicate b ]
+sequence
+-RISGRNQLPGKVIELLLGDIMA-QVVVQVGE-FVVEAVITRRSAEQMGLKVGDEVSVLVKATEAMV---
+----------------------------------------------------------------------
+---*
+>P1;gi|24375354|ref|NP_719397.1| molybdenum ABC transporter, ATP-bin... [ score 50 E 1e-05 ] [ range 269 .. 348 ] [ duplicate a ]
+sequence
+-----------------------------------------------------KQVKVRIQANHVSVCT-
+AEPKRSSIRNVLKGKIKELYPSDNDEQVQLKIAGNDELWANITLWACDELQLVAGKEIYAQIK-------
+---*
+>P1;gi|15597058|ref|NP_250552.1| molybdenum transport protein ModC [... [ score 50 E 1e-05 ] [ range 272 .. 360 ]
+sequence
+-------------------------------------------------LAPGKRLRFKVQARDVSLNLR
+DDAQS-SILNRLPVRVLELVDTDTAAHVLVRLAGGNPLLARITRYSRDQLQLRPGQLLWAQIKSVAVL--
+---*
+>P1;gi|23104317|ref|ZP_00090783.1| COG4148: ABC-type molybdate trans... [ score 50 E 1e-05 ] [ range 258 .. 368 ]
+sequence
+-----------RVACLDAGDGLTELEVE---G-QPL--LITRQPV-----SAGRIVRVRIMARDVGLALE
+P-PTATSFLNCLKVTLLDCQPGLVPSQLLVRLRGGQVLLSRVSRRSAEHLALHPGQSLHALVK-------
+---*
+>P1;gi|26990535|ref|NP_745960.1| molybdate ABC transporter, ATP-bind... [ score 49 E 2e-05 ] [ range 240 .. 358 ]
+sequence
+-------VFEGRVVG--HDPHYGLLDLRLPGS-SGPLLRITHAAQ-----VMGSTLRVKVQARDVSLALA
+ADSAS-SILNRLPVRVRESCPAANPAHVLVSLAGGNALLARITRFSADQLGLHTGQILFAQIKS------
+---*
+>P1;gi|23013925|ref|ZP_00053772.1| COG4148: ABC-type molybdate trans... [ score 49 E 2e-05 ] [ range 265 .. 351 ]
+sequence
+----------------------------------------------RTELAVGTPVRLRIHARDVAIAIE
+P-PERVSIRNVLPATVVSVA-AADSFLVDVVLAGATRLWVQITSLAQAQLNLVPGMRVHALIKA------
+---*
+>P1;gi|16121443|ref|NP_404756.1| molybdenum transport ATP-binding pr... [ score 48 E 2e-05 ] [ range 263 .. 347 ]
+sequence
+-----------------------------------------------LDAAEGNSMRIRINAADVSLALQ
+P-PHSSSIRNILPVKVAECLDVDGQVDVKLAI-GEQWLWARITPWARDELGLKPGQWVYAQIKS------
+---*
+>P1;gi|23104289|ref|ZP_00090755.1| hypothetical protein [Azotobacter... [ score 48 E 2e-05 ] [ range 254 .. 357 ] [ duplicate a ]
+sequence
+-------------------------TVRVPGG--TLSVSLSR-------LPPGAETRVRIFARDVSLSLD
+P-PHNSSILNILRVRIADLFHEQDSARVMVRLDDSACILARITRLSADRLGLAPGLQVYAQIKSVALM--
+---*
+>P1;gi|15601480|ref|NP_233111.1| molybdenum ABC transporter, ATP-bin... [ score 48 E 3e-05 ] [ range 263 .. 357 ]
+sequence
+--------------------------------------------VQQVEADVGSSVRMQVRANDVSIALD
+KPTAS-SIRNILPARIVAIEPSKKSVSLKLELAPHCYLWAVVTEWAHAELALEVGMPVFAQIKGVSV---
+---*
+>P1;gi|43949028|gb|EAG30278.1| unknown [environmental sequence] [ score 48 E 5e-05 ] [ range 1 .. 45 ]
+sequence
+----------------------------------------------------------------------
+--------------------------EVRIGLASGQTLCALIAAEQLTALGLNRDDPVRALFAASQVLLG
+T--*
+>P1;gi|42631919|ref|ZP_00157457.1| COG4148: ABC-type molybdate trans... [ score 47 E 7e-05 ] [ range 5 .. 89 ] [ duplicate a ]
+sequence
+---------------------------------------------------VGERVRVCIYSSDVSI-TL
+QKPEKTSIRNILRGQVAQIEIQD--SRVDLAVVEGHKIWASISQWAQNELRFTVGQDVYVQIKAVSVM--
+---*
+>P1;gi|21227665|ref|NP_633587.1| tungsten transporter, ATP binding p... [ score 47 E 7e-05 ] [ range 281 .. 350 ] [ duplicate b ]
+sequence
+-----------------------------------------------------------------EITIS
+REKVQTSARNTIQGKVDEIIDTG--SLIKLTVNTGELFTVFITRESLNELNISIGTSIWLYFKASAV---
+---*
+>P1;gi|44615598|gb|EAK49789.1| unknown [environmental sequence] [ score 47 E 7e-05 ] [ range 275 .. 348 ] [ duplicate a ]
+sequence
+-----------------------------------------------------------IQANHVSVCTE
+EPKGS-SIRNLLKGKIKELYPSDNGEQIQLKIAGKDELWANITPWACDELQLAPGKTIYAQIK-------
+---*
+>P1;gi|37525430|ref|NP_928774.1| molybdenum transport ATP-binding pr... [ score 47 E 9e-05 ] [ range 263 .. 347 ]
+sequence
+-----------------------------------------------MDVQPGTDLRIRIDASDVSLVLE
+PPRGS-SIRNILAVKVVEFFDDNGHVDVKLVL-SGHYLWARITPWARDELNLRSGQWLYAQIKS------
+---*
+>P1;gi|23471656|ref|ZP_00126985.1| COG4148: ABC-type molybdate trans... [ score 46 E 1e-04 ] [ range 243 .. 361 ]
+sequence
+----------GTVSA--YDQHYQLLTVTLPDS--KLSMRVAHA-----QMQVGTLLRIKVQARDVSL-NL
+QPDYQSSILNRLPVTVIEEALADNSAHVLVKLAGGTPLLARITRYSSDQLNLHRGQSLWAQIKAVAVL--
+---*
+>P1;gi|44354937|gb|EAI68204.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 275 .. 348 ]
+sequence
+-----------------------------------------------------------IQANHVSVCTE
+EPKGS-SIRNLLRGNIKELYPSDNGEQIQLKIAGKEELWANITPWACDELQLAPGKAIYAQIK-------
+---*
+>P1;gi|23063186|ref|ZP_00087928.1| COG4148: ABC-type molybdate trans... [ score 45 E 2e-04 ] [ range 240 .. 358 ]
+sequence
+----------GQVSG--YDADYQLLTLQLPDS--SLNIRVTHAP-----MTTGQRLRCKVHARDISLTLQ
+NSEFS-SILNRLPVTVVSEQPADNAAHVLIRLAGGTPLLARITRYSRDQLGVHPGQSLWAQIKAVAVL--
+---*
+>P1;gi|32035424|ref|ZP_00135395.1| COG4148: ABC-type molybdate trans... [ score 45 E 4e-04 ] [ range 262 .. 348 ]
+sequence
+---------------------------------------------ETLHYHIGDKLRLTIASKDVSISLK
+EPNPS-SIRNILTGKITEIIPHSDRMDIAV-LVDSHIIWASISLWSFDELALKNGQNVYLQIKS------
+---*
+>P1;gi|33152833|ref|NP_874186.1| molybdenum ABC transporter, ATP-bin... [ score 45 E 4e-04 ] [ range 267 .. 348 ] [ duplicate a ]
+sequence
+--------------------------------------------------KIGDKLRITIASKDVSISLD
+QVQHS-SIRNILNGVITQIVEH--NDRVDIALIETHQIWASISLWSFDELALKIGQQIYVQIKS------
+---*
+>P1;gi|41724246|ref|ZP_00151112.1| hypothetical protein Daro222001 [... [ score 44 E 5e-04 ] [ range 429 .. 546 ]
+sequence
+---------AGVVIEVAEHEVDDLTRLEFPGG-A-IYVSRRHEP-------VGTPLRCRIHARDVSLTLL
+PQ-MQSSILNCVSASVVDLAPTDTPGHVLVKLDTGEPLLARITRRSAEKLEIRPGLALRAQIKA------
+---*
+>P1;gi|28870153|ref|NP_792772.1| molybdate ABC transporter, ATP-bind... [ score 43 E 9e-04 ] [ range 243 .. 361 ]
+sequence
+----------GTVSAYDRH--YQLLTVTLPGS-N-LCMRVAHA-----ELQIGTLLRVKVQARDVSLNLQ
+SDDHS-SILNRLPVTVLEEALADNLAHVLVKLAGGTPLLARITRYSSDQLNLHRGQTLWAQIKAVAVL--
+---*
+>P1;gi|44266090|gb|EAI07156.1| unknown [environmental sequence] [ score 43 E 9e-04 ] [ range 30 .. 90 ]
+sequence
+---SPRNSWYCQVSDI--QFVGDVARVSLTGG-IKIHADVTKSAAAELGLRKDVAVWASVKATEVIV---
+----------------------------------------------------------------------
+---*
+>P1;gi|15678505|ref|NP_275620.1| sulfate transport system ATP-bindin... [ score 43 E 0.001 ] [ range 231 .. 344 ]
+sequence
+----ARNMLRGRAHITAEG-----ISLIECDG-ISIYSS---------ERATG-DVSATIRPEDITVSWQ
+RTDS--SALNQLEGRVLAVRDGSVQQEVR---CGGETLTVHMTGKSLNDMGITTGSRVWIEFKASAV---
+---*

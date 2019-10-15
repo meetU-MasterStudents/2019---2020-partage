@@ -1,0 +1,1086 @@
+>P1;1cld
+structureX:1cld:  93 : : 125 : :lactose regulatory protein lac9:Kluyveromyces lactis: -1: -1
+-------QACDACRKKKWKCSKTVPTCTNCLKYNL--DCVYS-------*
+>P1;1d66a
+structureX:1d66:   8 :A:  48 :A:regulatory protein gal4:Saccharomyces cerevisiae: 2.7: 23
+------EQACDICRLKKLKCSKEKPKCAKCLKNNW--ECRYSPKTKRSP*
+>P1;2hapc
+structureX:2hap:  55 :C:  99 :C:hap1-18:Saccharomyces cerevisiae: 2.5: 24.8
+RKRNRIPLRCTICRKRKVKCDKLRPHCQQCTKTGVAHLCHYMEQT----*
+>P1;gi|42544652|gb|EAA67495.1| hypothetical protein FG00404.1 [Gibbe... [ score 60 E 2e-08 ] [ range 30 .. 61 ]
+sequence
+-------QACETCRNRKQRCDERRPKCGTCQRFKL--ECRY--------*
+>P1;gi|6323042|ref|NP_013114.1| Zinc finger transcription factor con... [ score 51 E 8e-06 ] [ range 33 .. 62 ]
+sequence
+--------ACKRCRLKKIKCDQEFPSCKRCAKLEV--PCV---------*
+>P1;gi|42547903|gb|EAA70746.1| hypothetical protein FG00800.1 [Gibbe... [ score 51 E 1e-05 ] [ range 82 .. 112 ]
+sequence
+-------RSCVTCRRRKVRCDKQMP-CSNCRRAQI--PCVF--------*
+>P1;gi|40739055|gb|EAA58245.1| hypothetical protein AN6846.2 [Asperg... [ score 50 E 1e-05 ] [ range 21 .. 50 ]
+sequence
+---------CLTCRARKVRCDETKPTCANCTRLRL--QCVY--------*
+>P1;gi|40740009|gb|EAA59199.1| hypothetical protein AN8177.2 [Asperg... [ score 49 E 2e-05 ] [ range 286 .. 317 ]
+sequence
+-------QACLTCREKKIKCHPNLPKCDQCQKSGR--ECRF--------*
+>P1;gi|6324483|ref|NP_014552.1| Putative transcription factor contai... [ score 49 E 2e-05 ] [ range 134 .. 168 ]
+sequence
+-------KACDHCRKRKIRCDEQTKKCSNCIKFQL--PCTF--------*
+>P1;gi|40746395|gb|EAA65551.1| hypothetical protein AN1368.2 [Asperg... [ score 49 E 3e-05 ] [ range 37 .. 68 ]
+sequence
+--------ACDECRKRKLKCSGEISGCSRCIKQSL--SCHYS-------*
+>P1;gi|42544471|gb|EAA67314.1| hypothetical protein FG01853.1 [Gibbe... [ score 49 E 3e-05 ] [ range 20 .. 49 ]
+sequence
+---------CDTCKRRHIRCDENFPQCRNCTKHKI--RCPY--------*
+>P1;gi|40742374|gb|EAA61564.1| hypothetical protein AN7776.2 [Asperg... [ score 49 E 3e-05 ] [ range 35 .. 65 ]
+sequence
+-------RGCDQCRKSKKKCDEAKPVCTRCARRKI--ECV---------*
+>P1;gi|32419212|ref|XP_330084.1| hypothetical protein [Neurospora cr... [ score 49 E 3e-05 ] [ range 64 .. 94 ]
+sequence
+-------RSCVTCRRRKVRCDKHMP-CSNCRRAQI--PCIF--------*
+>P1;gi|6319626|ref|NP_009708.1| Probable Zn-finger protein; Tbs1p [S... [ score 49 E 4e-05 ] [ range 105 .. 139 ]
+sequence
+-------KACDYCRKRKIRCTEIEPKCRNCIKYNK--DCTF--------*
+>P1;gi|40744221|gb|EAA63397.1| hypothetical protein AN2826.2 [Asperg... [ score 48 E 6e-05 ] [ range 32 .. 60 ]
+sequence
+--------ACERCRRRKIRCDGETP-CATCRRFRI--NCV---------*
+>P1;gi|6323308|ref|NP_013380.1| Protein of unknown function, localiz... [ score 48 E 7e-05 ] [ range 39 .. 69 ]
+sequence
+-------RSCLLCRRRKQRCDHKLPSCTACLKAGI--KCV---------*
+>P1;gi|6321425|ref|NP_011502.1| general positive regulator of permea... [ score 47 E 8e-05 ] [ range 44 .. 75 ]
+sequence
+-------KACDNCRKRKIKCNGKFP-CASCEIYSC--ECTFS-------*
+>P1;gi|32404750|ref|XP_322988.1| hypothetical protein ( (AL451014) p... [ score 47 E 8e-05 ] [ range 20 .. 49 ]
+sequence
+---------CETCKRRHIRCDESFPQCRNCTKHKI--RCPY--------*
+>P1;gi|38100286|gb|EAA47434.1| hypothetical protein MG02677.4 [Magna... [ score 47 E 9e-05 ] [ range 166 .. 197 ]
+sequence
+-------QACNTCRRLKTKCDMARP-CKTCRDRKG--DCIYS-------*
+>P1;gi|19075226|ref|NP_587726.1| hypothetical zinc-finger protein [S... [ score 47 E 9e-05 ] [ range 74 .. 111 ]
+sequence
+-------RACDFCRQKKIRCDMDRPACINCRKHHL--DCNFT-------*
+>P1;gi|32406812|ref|XP_324019.1| predicted protein [Neurospora crass... [ score 47 E 1e-04 ] [ range 256 .. 286 ]
+sequence
+-------QACDMCRQLKAKCDELKP-CKSCKEKKV--ECKY--------*
+>P1;gi|32407190|ref|XP_324184.1| hypothetical protein [Neurospora cr... [ score 47 E 1e-04 ] [ range 295 .. 331 ]
+sequence
+-------RACDECRRKKIKCDAQQP-CSNCRRSSA--PCLFS-------*
+>P1;gi|40744470|gb|EAA63646.1| hypothetical protein AN3075.2 [Asperg... [ score 47 E 1e-04 ] [ range 191 .. 218 ]
+sequence
+---------CITCRRRKKKCDETKPSCLNCQKNAV--VC----------*
+>P1;gi|42547361|gb|EAA70204.1| hypothetical protein FG00125.1 [Gibbe... [ score 47 E 1e-04 ] [ range 31 .. 60 ]
+sequence
+-------RGCDACRRQKKKCDQAKPTCSRCARLKV--PC----------*
+>P1;gi|34921416|sp|O93870|FCR1_CANAL Fluconazole resistance protein ... [ score 47 E 1e-04 ] [ range 24 .. 54 ]
+sequence
+-------KACDSCRIKKTKCDGKKP-CNRCTLDNK--ICVF--------*
+>P1;gi|40740873|gb|EAA60063.1| hypothetical protein AN4828.2 [Asperg... [ score 47 E 1e-04 ] [ range 394 .. 425 ]
+sequence
+-------RACDTCKKKKLRCSGTLP-CFLCQRSQL--RCEYT-------*
+>P1;gi|18376230|emb|CAD21345.1| related to nitrate assimilation regu... [ score 47 E 1e-04 ] [ range 43 .. 74 ]
+sequence
+-------QACHTCRRYKAKCDGLRPRCTSCKTKNK--PCGY--------*
+>P1;gi|38109613|gb|EAA55456.1| hypothetical protein MG09263.4 [Magna... [ score 47 E 2e-04 ] [ range 286 .. 316 ]
+sequence
+-------QACDRCRHLKAKCDEQKP-CKNCKEKNE--PCNY--------*
+>P1;gi|40738814|gb|EAA58004.1| hypothetical protein AN6218.2 [Asperg... [ score 47 E 2e-04 ] [ range 8 .. 37 ]
+sequence
+-------RGCHLCRKRKIKCDEALPECGNCRVYGR--PC----------*
+>P1;gi|45190972|ref|NP_985226.1| AER370Wp [Eremothecium gossypii] >g... [ score 47 E 2e-04 ] [ range 16 .. 46 ]
+sequence
+-------RACDECRKKKVKCDSRHP-CIHCTVYSY--ECTY--------*
+>P1;gi|42549999|gb|EAA72842.1| hypothetical protein FG03102.1 [Gibbe... [ score 46 E 2e-04 ] [ range 28 .. 55 ]
+sequence
+---------CWTCRAKHVKCDEAKPSCNRCRNAGI--DC----------*
+>P1;gi|38108251|gb|EAA54304.1| hypothetical protein MG02289.4 [Magna... [ score 46 E 2e-04 ] [ range 28 .. 57 ]
+sequence
+---------CQECKQRHQKCDELRPQCANCAITNR--ACHY--------*
+>P1;gi|40743936|gb|EAA63118.1| hypothetical protein AN3217.2 [Asperg... [ score 46 E 2e-04 ] [ range 16 .. 46 ]
+sequence
+-------KACQECRQRKIKCSGESP-CKTCRLRRT--PCLY--------*
+>P1;gi|38103799|gb|EAA50454.1| hypothetical protein MG04213.4 [Magna... [ score 46 E 2e-04 ] [ range 37 .. 66 ]
+sequence
+--------ACNSCNVKRVKCSGERP-CRQCKNTSR--ECIY--------*
+>P1;gi|40744078|gb|EAA63258.1| hypothetical protein AN3290.2 [Asperg... [ score 46 E 2e-04 ] [ range 17 .. 46 ]
+sequence
+--------ACVACRQSKIKCTGEQP-CANCQRRRV--DCRF--------*
+>P1;gi|6320509|ref|NP_010589.1| Zinc cluster protein; Rsc3p [Sacchar... [ score 46 E 2e-04 ] [ range 13 .. 44 ]
+sequence
+--------ACVQCRKRKIGCDRVKPICGNCMKHNM--DCFY--------*
+>P1;gi|38104929|gb|EAA51425.1| hypothetical protein MG09442.4 [Magna... [ score 46 E 2e-04 ] [ range 17 .. 48 ]
+sequence
+-------EACTFCRKRKIKCNNEQPTCANCKTYGK--DCVY--------*
+>P1;gi|38110511|gb|EAA56218.1| hypothetical protein MG01869.4 [Magna... [ score 46 E 2e-04 ] [ range 65 .. 95 ]
+sequence
+-------RSCIICRKRKVKCDHLQP-CTNCRRARV--SCVF--------*
+>P1;gi|42550794|gb|EAA73637.1| hypothetical protein FG04311.1 [Gibbe... [ score 46 E 2e-04 ] [ range 40 .. 69 ]
+sequence
+---------CRNCKTRKVKCDEARPVCKSCRLRKA--DCVY--------*
+>P1;gi|42549674|gb|EAA72517.1| hypothetical protein FG03551.1 [Gibbe... [ score 46 E 3e-04 ] [ range 92 .. 121 ]
+sequence
+-------RSCVVCRSRKVRCDKLSP-CSNCRRANI--PCV---------*
+>P1;gi|40747331|gb|EAA66487.1| hypothetical protein AN0388.2 [Asperg... [ score 46 E 3e-04 ] [ range 34 .. 64 ]
+sequence
+--------ACDSCHARRVRCDRQFP-CSRCLRSEI--TCEFT-------*
+>P1;gi|42547642|gb|EAA70485.1| hypothetical protein FG02410.1 [Gibbe... [ score 46 E 3e-04 ] [ range 10 .. 38 ]
+sequence
+---------CDACRKQKKKCDKAQPRCARCERLDI--PCV---------*
+>P1;gi|42554487|gb|EAA77330.1| hypothetical protein FG08972.1 [Gibbe... [ score 46 E 3e-04 ] [ range 11 .. 40 ]
+sequence
+---------CFNCRKRKRRCDEEKPICQRCRKIGD--DCVF--------*
+>P1;gi|40739877|gb|EAA59067.1| hypothetical protein AN3506.2 [Asperg... [ score 46 E 3e-04 ] [ range 14 .. 43 ]
+sequence
+---------CKACKQRRVKCDEARPVCSNCRQRQE--DCEY--------*
+>P1;gi|42551373|gb|EAA74216.1| hypothetical protein FG04888.1 [Gibbe... [ score 45 E 3e-04 ] [ range 182 .. 211 ]
+sequence
+-------QACDRCKVRKIRCDALPEGCSHCTNQNL--EC----------*
+>P1;gi|6319466|ref|NP_009548.1| Zinc-finger transcription factor rel... [ score 45 E 4e-04 ] [ range 14 .. 43 ]
+sequence
+--------ACVNCRKRKIKCTGKYP-CTNCISYDC--TCVF--------*
+>P1;gi|32409821|ref|XP_325391.1| predicted protein [Neurospora crass... [ score 45 E 4e-04 ] [ range 248 .. 277 ]
+sequence
+--------ACNECKRRKIKCNGQTP-CQRCGHLNL--QCLY--------*
+>P1;gi|40745189|gb|EAA64345.1| hypothetical protein AN9013.2 [Asperg... [ score 45 E 4e-04 ] [ range 12 .. 40 ]
+sequence
+--------ACRTCRRRHVKCDQKRPACGTCRTLGV--PC----------*
+>P1;gi|42546316|gb|EAA69159.1| hypothetical protein FG01795.1 [Gibbe... [ score 45 E 4e-04 ] [ range 33 .. 63 ]
+sequence
+--------TCANCRIKKVRCEGSQPTCKTCEIYHV--ECRY--------*
+>P1;gi|42552964|gb|EAA75807.1| hypothetical protein FG05732.1 [Gibbe... [ score 45 E 4e-04 ] [ range 5 .. 35 ]
+sequence
+--------ACDRCHRRKVRCDKVQPQCGPCKRADV--ACEY--------*
+>P1;gi|42554335|gb|EAA77178.1| hypothetical protein FG07591.1 [Gibbe... [ score 45 E 4e-04 ] [ range 21 .. 53 ]
+sequence
+-------KACNYCRKRKRKCDGRQPVCTLCEENNS--ECAY--------*
+>P1;gi|40747476|gb|EAA66632.1| hypothetical protein AN0533.2 [Asperg... [ score 45 E 4e-04 ] [ range 28 .. 57 ]
+sequence
+--------ACEECRARKLRCDMGEPQCTTCSNLNI--PCI---------*
+>P1;gi|6901427|emb|CAB71797.1| pathway-specific nitrogen regulator [... [ score 45 E 4e-04 ] [ range 69 .. 100 ]
+sequence
+--------ACVACRKRKSKCDGALPSCAACASYGT--ECIY--------*
+>P1;gi|38103808|gb|EAA50463.1| hypothetical protein MG04222.4 [Magna... [ score 45 E 4e-04 ] [ range 204 .. 233 ]
+sequence
+-------QACDRCKVRKIRCDALPQGCSHCANQNL--EC----------*
+>P1;gi|128353|sp|P28349|NIT4_NEUCR NITROGEN ASSIMILATION TRANSCRIPTI... [ score 45 E 4e-04 ] [ range 52 .. 83 ]
+sequence
+--------ACIACRRRKSKCDGALPSCAACASYGT--ECIY--------*
+>P1;gi|45198614|ref|NP_985643.1| AFR096Wp [Eremothecium gossypii] >g... [ score 79 E 3e-14 ] [ range 27 .. 64 ]
+sequence
+-------QACDRCRLKKIKCDGLRPSCTSCKKIGY--QCKTSDKLTR--*
+>P1;gi|32440908|emb|CAE00852.1| Sip4 protein [Kluyveromyces lactis] [ score 79 E 3e-14 ] [ range 61 .. 98 ]
+sequence
+-------QACDRCRLKKIKCDGIKPSCSNCKKIGY--HCSTSDKLTR--*
+>P1;gi|7493819|pir||T14913 CAT8 protein - yeast (Kluyveromyces marxi... [ score 78 E 4e-14 ] [ range 181 .. 218 ]
+sequence
+-------QACDRCRAKKIRCDGKRPQCTQCAAVGF--ECKISDKLSR--*
+>P1;gi|45185109|ref|NP_982826.1| ABL121Cp [Eremothecium gossypii] >g... [ score 78 E 6e-14 ] [ range 76 .. 113 ]
+sequence
+-------QACDRCRSKKTRCDGKRPQCSQCAAVGF--ECKISDKLSR--*
+>P1;gi|45198361|ref|NP_985390.1| AFL160Cp [Eremothecium gossypii] >g... [ score 78 E 8e-14 ] [ range 7 .. 46 ]
+sequence
+-------QACDSCRRRKMKCSKTFPKCAKCREDNR--VCLYSPKIRRSP*
+>P1;gi|42547304|gb|EAA70147.1| hypothetical protein FG09921.1 [Gibbe... [ score 78 E 8e-14 ] [ range 22 .. 59 ]
+sequence
+-------QACDRCRSKKIRCDGIRPTCSQCANVGF--ECRTSDKLSR--*
+>P1;gi|6322372|ref|NP_012446.1| Possibly involved in Snf1p regulated... [ score 76 E 2e-13 ] [ range 45 .. 81 ]
+sequence
+--------ACDRCRLKKIKCDGLKPNCSNCAKIDF--PCKTSDKLSR--*
+>P1;gi|32412924|ref|XP_326942.1| hypothetical protein [Neurospora cr... [ score 74 E 6e-13 ] [ range 22 .. 59 ]
+sequence
+-------QACDRCRSKKIRCDGIRPCCSQCANVGF--ECKTSDKLSR--*
+>P1;gi|2262191|gb|AAB63565.1| acetate regulatory DNA binding protein... [ score 74 E 6e-13 ] [ range 22 .. 59 ]
+sequence
+-------QACDRCRSKKIRCDGIRPCCTQCANVGF--ECKTSDKLSR--*
+>P1;gi|19113716|ref|NP_592804.1| putative transcriptional regulator,... [ score 73 E 2e-12 ] [ range 5 .. 42 ]
+sequence
+-------KACDLCRLKKIKCSRGQPRCQTCTLFQA--DCHYSNRARR--*
+>P1;gi|4959954|gb|AAD34561.1| regulatory protein [Aspergillus terreus] [ score 73 E 3e-12 ] [ range 15 .. 51 ]
+sequence
+--------ACDECRIRKVRCSKEGPKCSHCLRYNL--PCEFSNKVAR--*
+>P1;gi|40742322|gb|EAA61512.1| hypothetical protein AN9221.2 [Asperg... [ score 72 E 5e-12 ] [ range 436 .. 473 ]
+sequence
+------RKSCDTCQEAKVKCSQHKPSCHRCLRHRQ--PCVYSPQRR---*
+>P1;gi|30913508|sp|Q9C0Z1|YKM1_SCHPO Putative transcriptional regula... [ score 71 E 7e-12 ] [ range 9 .. 47 ]
+sequence
+-------KACELCRRKKIRCNRELPSCQNCIVYQE--ECHYSKRLKRS-*
+>P1;gi|40739168|gb|EAA58358.1| hypothetical protein AN5849.2 [Asperg... [ score 70 E 2e-11 ] [ range 233 .. 265 ]
+sequence
+------QQACDQCRTRKAKCDEGRPACSHCKENNY--VCVY--------*
+>P1;gi|42552635|gb|EAA75478.1| hypothetical protein FG05242.1 [Gibbe... [ score 69 E 2e-11 ] [ range 38 .. 74 ]
+sequence
+--------ACAHCRARKIRCGRERPQCESCKRDGV--ECRYSSPGKR--*
+>P1;gi|2262187|gb|AAB63563.1| FacB [Aspergillus niger] [ score 69 E 3e-11 ] [ range 23 .. 59 ]
+sequence
+--------ACDRCRSKKIRCDGVRPCCTQCANVGF--ECKTSDKLSR--*
+>P1;gi|24461766|gb|AAN62331.1| putative transcription factor protein... [ score 68 E 4e-11 ] [ range 30 .. 66 ]
+sequence
+-------QACDRCRIKKIKCDGQSP-CRNCQKVSV--ECKTSDRLSR--*
+>P1;gi|38111260|gb|EAA56863.1| hypothetical protein MG07218.4 [Magna... [ score 68 E 9e-11 ] [ range 15 .. 50 ]
+sequence
+--------SCDGCFLAKVKCSKARPICSRCLACGI--ECRYSPSTR---*
+>P1;gi|42548435|gb|EAA71278.1| hypothetical protein FG03374.1 [Gibbe... [ score 67 E 1e-10 ] [ range 772 .. 805 ]
+sequence
+--------ACEICRKYKVKCSGERPTCFRCQKRHL--ECKYVAK-----*
+>P1;gi|6321727|ref|NP_011804.1| Part of complex locus MAL1; nonfunct... [ score 67 E 1e-10 ] [ range 10 .. 50 ]
+sequence
+------KQACDCCRIRRVKCDGKRP-CSSCLQNSL--DCTYQPSRKRGP*
+>P1;gi|7021392|gb|AAF35321.1| Cat8 [Candida albicans] [ score 66 E 3e-10 ] [ range 52 .. 88 ]
+sequence
+-------QACDRCRAKKTKCDGQNP-CSTCQSVGL--ECIVSDRLTR--*
+>P1;gi|19112110|ref|NP_595318.1| putative transcriptional activator ... [ score 65 E 5e-10 ] [ range 10 .. 46 ]
+sequence
+--------ACDMCRKRKIRCDGKQPACSNCVSHGI--PCVFTARPKR--*
+>P1;gi|24415984|gb|AAN59954.1| unknown [Glarea lozoyensis] [ score 64 E 8e-10 ] [ range 18 .. 53 ]
+sequence
+--------SCDGCFLAKVKCSKERPICSRCLTTGA--ECGYSPSCR---*
+>P1;gi|11359353|pir||JC7252 transcription activator - Aspergillus or... [ score 64 E 8e-10 ] [ range 25 .. 62 ]
+sequence
+------KQACDNCRRRKIKCSRELP-CDKCQRLLL--SCSYSDVLRR--*
+>P1;gi|45200998|ref|NP_986568.1| AGL099Cp [Eremothecium gossypii] >g... [ score 64 E 1e-09 ] [ range 680 .. 710 ]
+sequence
+---------CWICRLRKKKCSEERPQCSNCLRLNL--ECVYD-------*
+>P1;gi|42553899|gb|EAA76742.1| hypothetical protein FG06810.1 [Gibbe... [ score 63 E 2e-09 ] [ range 63 .. 102 ]
+sequence
+--------ACDMCRKKKIKCDGKMPSCTHCINYKT--ECVFTQEKKRAP*
+>P1;gi|6322061|ref|NP_012136.1| Hypothetical ORF; Yil130wp [Saccharo... [ score 63 E 2e-09 ] [ range 20 .. 56 ]
+sequence
+--------ACDECRKKKVKCDGQQP-CIHCTVYSY--ECTYKKPTKRT-*
+>P1;gi|32414875|ref|XP_327917.1| hypothetical protein [Neurospora cr... [ score 62 E 3e-09 ] [ range 68 .. 107 ]
+sequence
+--------ACDMCRKKKIKCDGKLPACTHCINYKT--DCVFTQEKKRSP*
+>P1;gi|40741711|gb|EAA60901.1| hypothetical protein AN4558.2 [Asperg... [ score 62 E 3e-09 ] [ range 70 .. 109 ]
+sequence
+--------ACDMCRKKKIKCDGKMPKCSHCINYKT--DCVFTQEKKRNP*
+>P1;gi|5059357|gb|AAD38984.1| unknown [Aspergillus niger] [ score 62 E 3e-09 ] [ range 14 .. 51 ]
+sequence
+------KQACDNCRRRKIKCSRELP-CDKCRRLLL--SCSYSDVLRR--*
+>P1;gi|40742982|gb|EAA62172.1| hypothetical protein AN7592.2 [Asperg... [ score 62 E 4e-09 ] [ range 287 .. 324 ]
+sequence
+------RQTCNACQQAKIRCGHERPSCKRCQKHNI--DCIYSISRR---*
+>P1;gi|42547663|gb|EAA70506.1| hypothetical protein FG02431.1 [Gibbe... [ score 61 E 6e-09 ] [ range 15 .. 53 ]
+sequence
+------RKACDLCFKKKIKCDMLKPDCSNCILYNT--TCRTSPIGRK--*
+>P1;gi|42551847|gb|EAA74690.1| hypothetical protein FG04830.1 [Gibbe... [ score 60 E 1e-08 ] [ range 16 .. 53 ]
+sequence
+--------ACDGCKSRKVKCDGKLP-CSYCARRQK--PCHYSPQVRR--*
+>P1;gi|42547759|gb|EAA70602.1| hypothetical protein FG01293.1 [Gibbe... [ score 59 E 2e-08 ] [ range 46 .. 83 ]
+sequence
+--------ACMICRKRKLKCDGVRPSCSTCSRLGH--TCAYDEQRRKS-*
+>P1;gi|42548176|gb|EAA71019.1| hypothetical protein FG03861.1 [Gibbe... [ score 59 E 2e-08 ] [ range 35 .. 72 ]
+sequence
+------KSACWECRKRKAKCNGLKPTCANCEKSDA--ECIYDSDIR---*
+>P1;gi|40740156|gb|EAA59346.1| hypothetical protein AN4247.2 [Asperg... [ score 59 E 2e-08 ] [ range 8 .. 49 ]
+sequence
+------QKACDACSIRKVKCDTSGPPCRSCASLNI--PCTYEPTRRRGP*
+>P1;gi|40740668|gb|EAA59858.1| hypothetical protein AN3650.2 [Asperg... [ score 59 E 3e-08 ] [ range 54 .. 91 ]
+sequence
+--------ACAVCRRRKLRCDGRKPSCGTCSRLGH--ECTYDEARKKS-*
+>P1;gi|19114912|ref|NP_594000.1| putative transcriptional regulatory... [ score 59 E 4e-08 ] [ range 22 .. 56 ]
+sequence
+-------QACIRCRQKKIKCSGEKPSCQACSNNKV--ECIWPDR-----*
+>P1;gi|42554882|gb|EAA77725.1| hypothetical protein FG09676.1 [Gibbe... [ score 59 E 4e-08 ] [ range 185 .. 219 ]
+sequence
+---------CHQCRKSKLRCDRTRPCCSRCLKQSY--ECIYSSSRQ---*
+>P1;gi|45201005|ref|NP_986575.1| AGL091Wp [Eremothecium gossypii] >g... [ score 59 E 4e-08 ] [ range 86 .. 124 ]
+sequence
+------KNGCDNCKRRRVKCDEGKPGCQKCLKMRL--SCVYTPAKPR--*
+>P1;gi|42546741|gb|EAA69584.1| hypothetical protein FG02062.1 [Gibbe... [ score 59 E 4e-08 ] [ range 82 .. 116 ]
+sequence
+---------CLTCKRRKVKCDEQRPRCSHCERLNM--ECKWRPQQR---*
+>P1;gi|45190786|ref|NP_985040.1| AER183Cp [Eremothecium gossypii] >g... [ score 59 E 4e-08 ] [ range 79 .. 115 ]
+sequence
+-------KACDICRAKKIRCNGEEP-CVNCEKFNL--GCTYTHVIKR--*
+>P1;gi|42552940|gb|EAA75783.1| hypothetical protein FG05708.1 [Gibbe... [ score 58 E 5e-08 ] [ range 30 .. 68 ]
+sequence
+--------ACDSCRTAREKCDGARPHCGTCTAQNR--PCSYTPSRKRG-*
+>P1;gi|42555287|gb|EAA78130.1| hypothetical protein FG09080.1 [Gibbe... [ score 58 E 5e-08 ] [ range 8 .. 46 ]
+sequence
+--------ACDPCRLRKVKCNGSVP-CSQCGHLNL--ACVYSPPSKRKP*
+>P1;gi|42554175|gb|EAA77018.1| hypothetical protein FG09178.1 [Gibbe... [ score 58 E 5e-08 ] [ range 26 .. 65 ]
+sequence
+-------KTCTPCRQKKVRCDGTRPQCVECSTNSL--PCVYPHDARREP*
+>P1;gi|42547418|gb|EAA70261.1| hypothetical protein FG10639.1 [Gibbe... [ score 58 E 5e-08 ] [ range 27 .. 56 ]
+sequence
+--------ACDRCRLKKYKCSEAQP-CSHCKRSGA--ECKY--------*
+>P1;gi|40747096|gb|EAA66252.1| QUTA_EMENI QUINIC ACID UTILIZATION AC... [ score 58 E 5e-08 ] [ range 48 .. 86 ]
+sequence
+--------ACDSCRSKKDKCDGAQPICSTCASLSR--PCTYANPKKRG-*
+>P1;gi|6325454|ref|NP_015522.1| nuclear protein (putative); Ypr196wp... [ score 58 E 5e-08 ] [ range 5 .. 45 ]
+sequence
+------RQSCDCCRVRRVKCDRNRP-CDRCRQRNL--RCTYQPLRKRGP*
+>P1;gi|42555477|gb|EAA78320.1| hypothetical protein FG06535.1 [Gibbe... [ score 58 E 6e-08 ] [ range 10 .. 49 ]
+sequence
+------RRACESCRRKKTKCTGEKPICSFCERLHQ--DCVYLPRNRET-*
+>P1;gi|6319774|ref|NP_009856.1| Part of complex locus MAL3; nonfunct... [ score 58 E 6e-08 ] [ range 7 .. 42 ]
+sequence
+--------ACDYCRVRRVKCDGKKP-CSRCIEHNF--DCTYQQPLKK--*
+>P1;gi|38110616|gb|EAA56308.1| hypothetical protein MG06279.4 [Magna... [ score 58 E 6e-08 ] [ range 119 .. 156 ]
+sequence
+--------ACVGCRSRKLKCSRDLPICVRCARLKI--ECVY-PESRRKP*
+>P1;gi|42546057|gb|EAA68900.1| hypothetical protein FG01515.1 [Gibbe... [ score 58 E 7e-08 ] [ range 13 .. 53 ]
+sequence
+--------SCSNCRTRKIKCDKIQPFCGQCSRFGL--DCVFPSRTRRAP*
+>P1;gi|3881|emb|CAA33319.1| unnamed protein product [Saccharomyces c... [ score 57 E 8e-08 ] [ range 5 .. 45 ]
+sequence
+------KQACDCCRVRRVKCDRNKP-CNRCIQRNL--NCTYQPLKKRGP*
+>P1;gi|38103675|gb|EAA50349.1| hypothetical protein MG04108.4 [Magna... [ score 57 E 9e-08 ] [ range 10 .. 40 ]
+sequence
+--------------IKKIRCDGIRPTCTQCANVGF--ECKTSDKLSR--*
+>P1;gi|40738597|gb|EAA57787.1| hypothetical protein AN5924.2 [Asperg... [ score 57 E 9e-08 ] [ range 90 .. 124 ]
+sequence
+---------CFTCRSRRIKCDETRPVCERCRKGNR--ECVYPSSTT---*
+>P1;gi|40742524|gb|EAA61714.1| hypothetical protein AN7343.2 [Asperg... [ score 57 E 1e-07 ] [ range 2 .. 38 ]
+sequence
+-------QSCDICRKRKVKCDRRTP-CARCRRLRQ--PCTYTDILRK--*
+>P1;gi|42554456|gb|EAA77299.1| hypothetical protein FG07927.1 [Gibbe... [ score 57 E 1e-07 ] [ range 40 .. 75 ]
+sequence
+------KNACQSCRQRKARCDGQRPKCSACTTGGR--ECQYVSR-----*
+>P1;gi|40747892|gb|EAA67048.1| hypothetical protein AN8426.2 [Asperg... [ score 57 E 1e-07 ] [ range 25 .. 61 ]
+sequence
+--------ACNSCRRRKLRCSREVPACQHCRKSAS--ECYYEAKRAK--*
+>P1;gi|38112094|gb|EAA57563.1| hypothetical protein MG10635.4 [Magna... [ score 57 E 1e-07 ] [ range 1036 .. 1074 ] [ duplicate a ]
+sequence
+--------ACANCHSRKARCSGSLPKCDRCRARGI--ECVYQPGKRARP*
+>P1;gi|38112094|gb|EAA57563.1| hypothetical protein MG10635.4 [Magna... [ score 57 E 1e-07 ] [ range 977 .. 1006 ] [ duplicate b ]
+sequence
+-----------TCRARKVRCDGRRDVCTNCERLGF--GCTYHD------*
+>P1;gi|42544718|gb|EAA67561.1| hypothetical protein FG02696.1 [Gibbe... [ score 57 E 1e-07 ] [ range 17 .. 59 ]
+sequence
+--------SCVICRRRKIRCDRVDP-CSNCVKNNI--ECHFPPRRNRGP*
+>P1;gi|40747939|gb|EAA67095.1| hypothetical protein AN8473.2 [Asperg... [ score 57 E 1e-07 ] [ range 15 .. 50 ]
+sequence
+--------ACNICRQRKVKCDAEYPKCQNCRVRNQ--ECITTDPQR---*
+>P1;gi|40744173|gb|EAA63353.1| hypothetical protein AN3385.2 [Asperg... [ score 57 E 2e-07 ] [ range 19 .. 58 ]
+sequence
+--------ACEECRRRKVRCDRQRPQCQVCYEGGL--DCKISTRLPRGP*
+>P1;gi|32415794|ref|XP_328375.1| hypothetical protein [Neurospora cr... [ score 56 E 2e-07 ] [ range 74 .. 111 ]
+sequence
+--------ACNRCRLRKNRCDQKLPSCASCEKANV--ACVYDPITKR--*
+>P1;gi|42548725|gb|EAA71568.1| hypothetical protein FG08828.1 [Gibbe... [ score 56 E 2e-07 ] [ range 24 .. 57 ]
+sequence
+--------SCQGCRRRKLRCSRDKPTCNHCQRLDA--PCIYDLK-----*
+>P1;gi|45184649|ref|NP_982367.1| AAL175Wp [Eremothecium gossypii] >g... [ score 56 E 2e-07 ] [ range 44 .. 79 ]
+sequence
+---------CWTCRLRKVKCDLGKPSCQRCEKSGL--DCGYDIKLR---*
+>P1;gi|38099267|gb|EAA46631.1| hypothetical protein MG08974.4 [Magna... [ score 56 E 2e-07 ] [ range 14 .. 49 ]
+sequence
+---------CWTCRLRKKKCDLGQPTCVSCASLEI--ECVYSDAKPR--*
+>P1;gi|126712|sp|P10508|MA6R_YEAST MALTOSE FERMENTATION REGULATORY P... [ score 56 E 2e-07 ] [ range 5 .. 45 ]
+sequence
+------KQSCDCCRVRRVKCDRNKP-CNRCIQRNL--NCTYQPLKKRGP*
+>P1;gi|19112113|ref|NP_595321.1| putative transcriptional activator ... [ score 56 E 2e-07 ] [ range 30 .. 65 ]
+sequence
+--------ACDMCRRKKIKCDGLRP-CKNCKAGKL--ECTYHMPSSR--*
+>P1;gi|32407280|ref|XP_324223.1| hypothetical protein [Neurospora cr... [ score 56 E 2e-07 ] [ range 24 .. 63 ]
+sequence
+--------ACEECRKRKLRCDRQRPQCGTCADAGI--VCEVNNRLARGP*
+>P1;gi|6323257|ref|NP_013329.1| involved in cell wall biogenesis (pu... [ score 56 E 3e-07 ] [ range 44 .. 81 ]
+sequence
+---------CDNCKRRRVKCDEGKPFCKKCTNMKL--DCVYSPPRRR--*
+>P1;gi|42547530|gb|EAA70373.1| hypothetical protein FG10057.1 [Gibbe... [ score 56 E 3e-07 ] [ range 280 .. 314 ]
+sequence
+-------QACDSCRQLKAKCDETKP-CKTCKEKGV--ECKYRDPV----*
+>P1;gi|38106410|gb|EAA52717.1| predicted protein [Magnaporthe grisea... [ score 56 E 3e-07 ] [ range 35 .. 87 ]
+sequence
+--------ACDRCRARKLRCSGGLPACERCVKAGA--ECLYTVRRRRAP*
+>P1;gi|19111919|ref|NP_595127.1| putative transcriptional regulator,... [ score 56 E 3e-07 ] [ range 10 .. 45 ]
+sequence
+--------ACDLCRQRKLRCNGELPKCQNCVVYSE--TCKY-NKRKR--*
+>P1;gi|2199539|gb|AAB67708.1| MAL-activator 23-C [Saccharomyces cere... [ score 56 E 3e-07 ] [ range 5 .. 45 ]
+sequence
+------KQSCDCCRVRRVKCDRNKP-CNRCTQRNL--NCTYQPLKKRGP*
+>P1;gi|42552727|gb|EAA75570.1| hypothetical protein FG05925.1 [Gibbe... [ score 55 E 5e-07 ] [ range 109 .. 146 ] [ duplicate a ]
+sequence
+------RQACISCHSRKARCSGHMPSCDRCRSQGI--ECVYRPSKR---*
+>P1;gi|40747511|gb|EAA66667.1| hypothetical protein AN0568.2 [Asperg... [ score 55 E 5e-07 ] [ range 24 .. 59 ]
+sequence
+--------ACLLCRHKHLKCDGATPVCSRCAATGA--ECQYTPSRR---*
+>P1;gi|40746527|gb|EAA65683.1| hypothetical protein AN0853.2 [Asperg... [ score 55 E 5e-07 ] [ range 42 .. 80 ]
+sequence
+-------KSCLACRKRKVRCDRRRP-CTNCSRWSV--ECIFPSPIRKCP*
+>P1;gi|40738887|gb|EAA58077.1| hypothetical protein AN6102.2 [Asperg... [ score 55 E 5e-07 ] [ range 322 .. 362 ]
+sequence
+------RQGCYTCKSRRVKCDEAKPICGACALRGE--PCGFPPDTSRQP*
+>P1;gi|32416554|ref|XP_328755.1| predicted protein [Neurospora crass... [ score 55 E 5e-07 ] [ range 92 .. 124 ]
+sequence
+-------QACRDCRKTKAKCGGQRPKCNNCKAKGR--QCGYD-------*
+>P1;gi|41581238|emb|CAE47887.1| quinic acid utilization activator, p... [ score 55 E 6e-07 ] [ range 46 .. 84 ]
+sequence
+--------ACDSCRSKKDKCDGVQPVCSTCASLCR--PCTYTNPKKRG-*
+>P1;gi|171646|gb|AAA34662.1| activator protein HAP1 [ score 55 E 6e-07 ] [ range 63 .. 95 ]
+sequence
+--------SCTICRKRKVKCDKLRPHCQQCTKTGV--ACHY--------*
+>P1;gi|42550915|gb|EAA73758.1| hypothetical protein FG05120.1 [Gibbe... [ score 55 E 6e-07 ] [ range 78 .. 115 ]
+sequence
+--------ACNRCRLRKNRCDQKLPSCASCAKAGV--ACVYDPITKK--*
+>P1;gi|6323661|ref|NP_013732.1| binds Sin3p in two-hybrid assay; Stb... [ score 54 E 7e-07 ] [ range 84 .. 120 ]
+sequence
+------QKACELCKKRKVKCDGNNP-CLNCSKHQK--ECRYDFKAT---*
+>P1;gi|38104318|gb|EAA50906.1| hypothetical protein MG04665.4 [Magna... [ score 54 E 7e-07 ] [ range 9 .. 46 ]
+sequence
+-------QGCQSCRTRRIKCDKLKPECSQCRRVSK--KCGYRDQLS---*
+>P1;gi|42552760|gb|EAA75603.1| hypothetical protein FG05958.1 [Gibbe... [ score 54 E 7e-07 ] [ range 10 .. 45 ]
+sequence
+-------KACQECRAKKIKCNGETP-CQNCRMRNL--SCVYREKAR---*
+>P1;gi|40740701|gb|EAA59891.1| hypothetical protein AN3683.2 [Asperg... [ score 54 E 7e-07 ] [ range 43 .. 79 ]
+sequence
+--------ACTRCRQRKTKCDPGIPKCGPCDRTNA--QCAYYDSARR--*
+>P1;gi|42552588|gb|EAA75431.1| hypothetical protein FG11221.1 [Gibbe... [ score 54 E 7e-07 ] [ range 210 .. 246 ]
+sequence
+--------ACDLCYTRKIKCDGQQPQCSNCVNYKT--ACTHAARSRK--*
+>P1;gi|38103389|gb|EAA50089.1| hypothetical protein MG03848.4 [Magna... [ score 54 E 8e-07 ] [ range 20 .. 55 ]
+sequence
+--------ACNACRQRRSQCSKERPKCKRCREADI--ECIYEEARK---*
+>P1;gi|40747439|gb|EAA66595.1| hypothetical protein AN0496.2 [Asperg... [ score 54 E 8e-07 ] [ range 10 .. 49 ]
+sequence
+------KNGCSTCRRRKVKCGEERPVCKRCSALGI--TCEWAAVVKRG-*
+>P1;gi|42552863|gb|EAA75706.1| hypothetical protein FG04747.1 [Gibbe... [ score 54 E 8e-07 ] [ range 6 .. 38 ]
+sequence
+---------CWTCRLRHKKCDETLPICGACAALEI--DCHYSPR-----*
+>P1;gi|42547503|gb|EAA70346.1| hypothetical protein FG10030.1 [Gibbe... [ score 54 E 9e-07 ] [ range 47 .. 89 ]
+sequence
+---------CKSCRKRKIKCNRLRPSCEACQVFQC--PCVYDAPKKRGP*
+>P1;gi|32422307|ref|XP_331597.1| hypothetical protein [Neurospora cr... [ score 54 E 9e-07 ] [ range 81 .. 117 ]
+sequence
+--------ACTECRKKRAKCDGEKP-CARCKYQNT--ECVYEVPVRQS-*
+>P1;gi|551278|emb|CAA54550.1| LYS14 protein [Saccharomyces cerevisiae] [ score 54 E 9e-07 ] [ range 159 .. 199 ]
+sequence
+---------CSECKRRRMKCDETKPTCWQCARLNR--QCVYVNKKRRT-*
+>P1;gi|42547383|gb|EAA70226.1| hypothetical protein FG00147.1 [Gibbe... [ score 54 E 1e-06 ] [ range 24 .. 62 ]
+sequence
+--------ACERCRSRKVKCGAEFPICKGCLKANT--PCIIADPSTQRP*
+>P1;gi|45198635|ref|NP_985664.1| AFR117Cp [Eremothecium gossypii] >g... [ score 54 E 1e-06 ] [ range 18 .. 50 ]
+sequence
+--------SCTICRKRKVKCDKTRPHCNQCTKTGV--ACHY--------*
+>P1;gi|6320419|ref|NP_010499.1| involved in sterol uptake; Upc2p [Sa... [ score 54 E 1e-06 ] [ range 48 .. 82 ]
+sequence
+------KNGCDNCKRRRVKCDEGKPACRKCTNMKL--ECQYTP------*
+>P1;gi|42545584|gb|EAA68427.1| hypothetical protein FG01147.1 [Gibbe... [ score 54 E 1e-06 ] [ range 9 .. 38 ]
+sequence
+-------KDCHLCRSRRVKCDLGRPSCQRCIKYGK--EC----------*
+>P1;gi|28629054|gb|AAO49457.1| Zn-II 2Cys6 regulatory protein [Lepto... [ score 54 E 1e-06 ] [ range 26 .. 61 ]
+sequence
+--------SCDACSRAKVKCDKLRPICHRCNNMNI--CCNYSPSMR---*
+>P1;gi|40740543|gb|EAA59733.1| hypothetical protein AN8111.2 [Asperg... [ score 54 E 1e-06 ] [ range 32 .. 71 ]
+sequence
+------EQACRECRRRKSKCDRAIPVCRLCSKYKR--QCTYE-KPARTP*
+>P1;gi|42546169|gb|EAA69012.1| hypothetical protein FG01715.1 [Gibbe... [ score 54 E 1e-06 ] [ range 15 .. 61 ]
+sequence
+-------QACDPCRARKVACDHGQPTCSRCEKRKE--SCVYTKQRLRSP*
+>P1;gi|32420205|ref|XP_330546.1| predicted protein [Neurospora crass... [ score 54 E 1e-06 ] [ range 22 .. 56 ]
+sequence
+-------QACINCRKQKRKCDKSVPSCGLCARMNR--QCDYSDS-----*
+>P1;gi|42549717|gb|EAA72560.1| hypothetical protein FG04643.1 [Gibbe... [ score 54 E 1e-06 ] [ range 23 .. 58 ]
+sequence
+--------ACNYCRNRKTRCDEQQPSCQACISAGI--PCVTEDRRR---*
+>P1;gi|38107387|gb|EAA53568.1| hypothetical protein MG07845.4 [Magna... [ score 54 E 1e-06 ] [ range 24 .. 57 ]
+sequence
+-------KACQVCRARRTKCDNLKPSCSFCLKTGA--KCIQSP------*
+>P1;gi|42548052|gb|EAA70895.1| hypothetical protein FG03415.1 [Gibbe... [ score 54 E 1e-06 ] [ range 32 .. 69 ]
+sequence
+--------ACLTCRRKKTRCPGEKPQCSSCVRLKQ--SCSYPPAIRPS-*
+>P1;gi|6478884|gb|AAF14016.1| MAL activator protein [Saccharomyces p... [ score 54 E 1e-06 ] [ range 5 .. 45 ]
+sequence
+------RQSCDCCRVRRVKCDRNKP-CSRCHQRNL--NCILSPLKKRGP*
+>P1;gi|6319626|ref|NP_009708.1| Probable Zn-finger protein; Tbs1p [S... [ score 54 E 1e-06 ] [ range 105 .. 147 ]
+sequence
+-------KACDYCRKRKIRCTEIEPKCRNCIKYNK--DCHFHEELKR--*
+>P1;gi|32419345|ref|XP_330122.1| hypothetical protein [Neurospora cr... [ score 54 E 1e-06 ] [ range 54 .. 90 ]
+sequence
+-------QACDRCKVRKIRCDASPAGCSHCASQNI--ECVVTDRVT---*
+>P1;gi|479019|gb|AAA34471.1| car80 [ score 53 E 1e-06 ] [ range 771 .. 801 ]
+sequence
+---------CWICRLRKKKCTEERPHCFNCERLKL--DCHYD-------*
+>P1;gi|38105381|gb|EAA51818.1| hypothetical protein MG03413.4 [Magna... [ score 53 E 1e-06 ] [ range 214 .. 252 ]
+sequence
+------RRACDMCSARKVKCDEAGPPCKPCSSLNV--ECTYRREMKR--*
+>P1;gi|42552587|gb|EAA75430.1| hypothetical protein FG11220.1 [Gibbe... [ score 53 E 2e-06 ] [ range 21 .. 54 ]
+sequence
+--------ACTVCRKQHLKCDAGKPSCSRCAETNQ--VCFYEPS-----*
+>P1;gi|32414763|ref|XP_327861.1| predicted protein [Neurospora crass... [ score 53 E 2e-06 ] [ range 9 .. 46 ]
+sequence
+-------QGCQNCRTRRIKCDKIQPQCTQCIRVGK--SCGYRDQLS---*
+>P1;gi|40743269|gb|EAA62459.1| hypothetical protein AN5299.2 [Asperg... [ score 53 E 2e-06 ] [ range 17 .. 45 ]
+sequence
+--------ACKRCRTKRIKCDGGIPACSNCAKAAV--PC----------*
+>P1;gi|730941|sp|P36598|THI1_SCHPO Thiamine repressible genes regula... [ score 53 E 2e-06 ] [ range 38 .. 70 ]
+sequence
+--------ACKHCRQKKIKCNGGQP-CISCKTLNI--ECVYAQK-----*
+>P1;gi|42548558|gb|EAA71401.1| hypothetical protein FG03038.1 [Gibbe... [ score 53 E 2e-06 ] [ range 146 .. 177 ]
+sequence
+---------CASCRSRRKRCDEQKPQCNNCINLGR--VCSYSP------*
+>P1;gi|38110404|gb|EAA56126.1| hypothetical protein MG01777.4 [Magna... [ score 53 E 2e-06 ] [ range 88 .. 121 ]
+sequence
+--------SCVLCQKRKVRCDKTKP-CSNCVKAGV--ECHVEPPL----*
+>P1;gi|40743271|gb|EAA62461.1| hypothetical protein AN5301.2 [Asperg... [ score 53 E 2e-06 ] [ range 147 .. 183 ]
+sequence
+---------CTLCRQRKVKCDRQQP-CSNCTKAKT--QCVFPPGLGRAP*
+>P1;gi|42548613|gb|EAA71456.1| hypothetical protein FG03764.1 [Gibbe... [ score 53 E 2e-06 ] [ range 55 .. 90 ]
+sequence
+--------ACNNCRLRKSKCDGRKPTCSACSSRRQ--KCIYRAEVT---*
+>P1;gi|21913144|gb|AAK84946.1| transcriptional activator Mut3p [Pich... [ score 53 E 2e-06 ] [ range 72 .. 106 ]
+sequence
+--------ACDRCRKLKIKCSGDLP-CIHCTVYSY--ECTYDQPSR---*
+>P1;gi|19111923|ref|NP_595131.1| putative transcriptional regulator;... [ score 53 E 2e-06 ] [ range 7 .. 41 ]
+sequence
+--------ACELCRRKKLRCNGEL-TCQNCMVYGE--ECRYVKRVK---*
+>P1;gi|1703202|sp|P52957|AFLR_EMENI Sterigmatocystin biosynthesis re... [ score 53 E 2e-06 ] [ range 25 .. 62 ]
+sequence
+------RESCISCSRSKVKCNKEKPTCSRCVRRGL--PCEYMVSRR---*
+>P1;gi|40745279|gb|EAA64435.1| hypothetical protein AN2324.2 [Asperg... [ score 53 E 2e-06 ] [ range 2 .. 38 ]
+sequence
+--------ACVSCRESKVKCDGAEPACSNCVNRSR--QCRYQAFDKR--*
+>P1;gi|40745829|gb|EAA64985.1| hypothetical protein AN1820.2 [Asperg... [ score 52 E 2e-06 ] [ range 56 .. 88 ] [ duplicate a ]
+sequence
+------RKSCDACRAAKRRCDLALPACFRCLRRNI--VCVY--------*
+>P1;gi|40745829|gb|EAA64985.1| hypothetical protein AN1820.2 [Asperg... [ score 52 E 2e-06 ] [ range 507 .. 544 ] [ duplicate b ]
+sequence
+---------CTECRRRKVKCDRSRPSCGQCRALDL--TCLYEDNPRR--*
+>P1;gi|40745936|gb|EAA65092.1| hypothetical protein AN1927.2 [Asperg... [ score 52 E 3e-06 ] [ range 130 .. 173 ]
+sequence
+--------ACDECRRKKVRCDSGVETCSNCRRLGV--VCQFSRPMKRGP*
+>P1;gi|21627825|emb|CAD37157.1| hypothetical protein [Aspergillus fu... [ score 52 E 3e-06 ] [ range 68 .. 103 ]
+sequence
+--------ACLLCRHKHLKCDGVTPVCGRCAATGA--ECQYTPSRR---*
+>P1;gi|32410735|ref|XP_325848.1| predicted protein [Neurospora crass... [ score 52 E 3e-06 ] [ range 9 .. 58 ]
+sequence
+------RKGCLECKRRHIKCDETRPRCINCQTVER--ECSYSDELARSP*
+>P1;gi|42550035|gb|EAA72878.1| hypothetical protein FG03138.1 [Gibbe... [ score 52 E 3e-06 ] [ range 106 .. 139 ]
+sequence
+--------ACDSCRDRKIKCDGSKPICSPCGKRGE--PCTY--------*
+>P1;gi|6323285|ref|NP_013357.1| Heme-responsive zinc finger transcri... [ score 98 E 4e-20 ] [ range 55 .. 99 ]
+sequence
+RKRNRIPLSCTICRKRKVKCDKLRPHCQQCTKTGVAHLCHYMEQT----*
+>P1;gi|45198635|ref|NP_985664.1| AFR117Cp [Eremothecium gossypii] >g... [ score 96 E 1e-19 ] [ range 10 .. 54 ]
+sequence
+RKRNRVPLSCTICRKRKVKCDKTRPHCNQCTKTGVAHLCHYMEQT----*
+>P1;gi|40744618|gb|EAA63774.1| hypothetical protein AN1518.2 [Asperg... [ score 80 E 1e-14 ] [ range 25 .. 66 ]
+sequence
+RKRNRVPLSCGPCRHRKLKCNRAHP-CENCVKRGDAHSCTYAQ------*
+>P1;gi|45185927|ref|NP_983643.1| ACR241Cp [Eremothecium gossypii] >g... [ score 76 E 2e-13 ] [ range 5 .. 45 ]
+sequence
+KKRQRQTLVCSNCKRRKSRCDRGKPACGNCIRLGNRETCHY--------*
+>P1;gi|32420021|ref|XP_330454.1| hypothetical protein [Neurospora cr... [ score 76 E 2e-13 ] [ range 77 .. 119 ]
+sequence
+RKRNRVPLSCYPCRSRKLKCDRNHP-CGNCTKRGDASSCFYA-------*
+>P1;gi|42547543|gb|EAA70386.1| hypothetical protein FG10070.1 [Gibbe... [ score 76 E 2e-13 ] [ range 23 .. 63 ]
+sequence
+--RNRKPVSCTICQKRKSKCDREKPSCSACQKRGDPNACFYSD------*
+>P1;gi|32407820|ref|XP_324408.1| hypothetical protein [Neurospora cr... [ score 72 E 4e-12 ] [ range 20 .. 60 ]
+sequence
+RKRNRIRFSCTTCREKKLKCNRQSP-CDQCIKRNVAATCNFI-------*
+>P1;gi|40745829|gb|EAA64985.1| hypothetical protein AN1820.2 [Asperg... [ score 71 E 6e-12 ] [ range 498 .. 540 ]
+sequence
+RKRLRPSYNCTECRRRKVKCDRSRPSCGQCRALDLTSACLYED------*
+>P1;gi|45188275|ref|NP_984498.1| ADR403Cp [Eremothecium gossypii] >g... [ score 70 E 2e-11 ] [ range 24 .. 62 ]
+sequence
+-KRNRISFVCQACRKSKTKCDREKPRCSRCAKNNVK--CVYD-------*
+>P1;gi|38110702|gb|EAA56384.1| hypothetical protein MG06355.4 [Magna... [ score 70 E 2e-11 ] [ range 25 .. 67 ]
+sequence
+RKRNRIPLSCTPCRTRKLKCDRAHP-CGNCVRRSDTGNCSYA-------*
+>P1;gi|40746029|gb|EAA65185.1| hypothetical protein AN0642.2 [Asperg... [ score 68 E 7e-11 ] [ range 298 .. 335 ]
+sequence
+--RNRTSYSCHTCRRRKVKCDKVHPICGNCAKNGTD--CVYD-------*
+>P1;gi|6324939|ref|NP_015008.1| peroxisome induction pathway 2 (PIP2... [ score 67 E 1e-10 ] [ range 16 .. 55 ]
+sequence
+KKRNRLSFVCQACRKAKTKCDQEKPRCGRCTKQNL--FCIYD-------*
+>P1;gi|38103488|gb|EAA50180.1| hypothetical protein MG03939.4 [Magna... [ score 67 E 1e-10 ] [ range 26 .. 61 ]
+sequence
+-KRRRVNAACYTCRRRKTRCDGARPTCSTCTKNG--HSC----------*
+>P1;gi|6319266|ref|NP_009349.1| Oleate-activated transcription facto... [ score 67 E 1e-10 ] [ range 57 .. 96 ]
+sequence
+RKRNRILFVCQACWKSKTKCDREKPECGRCVKHGLK--CVYD-------*
+>P1;gi|11359280|pir||T37601 probable trancription factor - fission y... [ score 66 E 3e-10 ] [ range 63 .. 101 ]
+sequence
+KDRKRLPLACQSCRKKKVKCSGERPSCDQCLKHNIP--CIY--------*
+>P1;gi|6322917|ref|NP_012990.1| Hypothetical ORF; Ykr064wp [Saccharo... [ score 65 E 4e-10 ] [ range 10 .. 49 ]
+sequence
+KKRHRITVVCTNCKKRKSKCDRTKP-CGTCVRLGDVDSCVY--------*
+>P1;gi|42547784|gb|EAA70627.1| hypothetical protein FG01318.1 [Gibbe... [ score 65 E 4e-10 ] [ range 25 .. 66 ]
+sequence
+RKRNRVPLSCHPCRTRK-KCDRSHP-CSNCTKREGTSSCSYA-------*
+>P1;gi|32423027|ref|XP_331951.1| hypothetical protein [Neurospora cr... [ score 64 E 8e-10 ] [ range 42 .. 80 ]
+sequence
+---KQKRLACEICRRRKLKCDGTKPSCSTCSRLG--HVCAYDER-----*
+>P1;gi|40740435|gb|EAA59625.1| hypothetical protein AN7971.2 [Asperg... [ score 64 E 8e-10 ] [ range 14 .. 54 ]
+sequence
+RRRDKVQLSCDPCRRRKLRCDRQHP-CGACSRRGLTHSCSYA-------*
+>P1;gi|11514743|pdb|1QP9|A Chain A, Structure Of Hap1-Pc7 Complexed ... [ score 62 E 3e-09 ] [ range 1 .. 45 ]
+sequence
+RKRNRIPLGCTICRKRKVKCDKLRPHCQQCTKTGVAHLCHYMEQT----*
+>P1;gi|45188277|ref|NP_984500.1| ADR405Cp [Eremothecium gossypii] >g... [ score 63 E 3e-09 ] [ range 31 .. 72 ]
+sequence
+-RRNKLSFVCQSCRRSKTKCDKVKPSCTRCVKNG--SVCVYDVET----*
+>P1;gi|38105445|gb|EAA51868.1| hypothetical protein MG03463.4 [Magna... [ score 62 E 3e-09 ] [ range 26 .. 64 ]
+sequence
+--RNRIRFSCTKCREKKLKCNRETP-CDQCKKRDIGETCVYI-------*
+>P1;gi|44890044|emb|CAF32162.1| transcriptional regulator, putative ... [ score 61 E 6e-09 ] [ range 65 .. 105 ]
+sequence
+RRRNGKPASCEPCRKDKVRCDHGHPACSRCLRRGSTSQCFY--------*
+>P1;gi|6324736|ref|NP_014805.1| Zn2-Cys6 zinc-finger transcription f... [ score 61 E 7e-09 ] [ range 45 .. 87 ]
+sequence
+KKRNKLIKSCGFCRRRKLRCDQQKPMCSTCISRNLT-TCQYAEE-----*
+>P1;gi|42545175|gb|EAA68018.1| hypothetical protein FG01638.1 [Gibbe... [ score 61 E 8e-09 ] [ range 32 .. 67 ]
+sequence
+-KRRRINAACLTCRKRKTRCAGERPVCSTCTKNG--HRC----------*
+>P1;gi|32409571|ref|XP_325266.1| hypothetical protein ( related to p... [ score 59 E 3e-08 ] [ range 29 .. 64 ]
+sequence
+-KRRRINAACLTCRKRKTRCAGEKPVCSTCTKNG--HQC----------*
+>P1;gi|42546675|gb|EAA69518.1| hypothetical protein FG00967.1 [Gibbe... [ score 59 E 4e-08 ] [ range 29 .. 71 ]
+sequence
+RKRQRVRLSCLECRRRKLSCDRGFP-CERCIKSGTPDRCSYESR-----*
+>P1;gi|6324391|ref|NP_014461.1| Hypothetical ORF; Ynr063wp [Saccharo... [ score 59 E 4e-08 ] [ range 8 .. 46 ]
+sequence
+RKRS-ISLACTVCRKRKLKCDGNKP-CGRCIRLNTPKECIY--------*
+>P1;gi|42554953|gb|EAA77796.1| hypothetical protein FG07198.1 [Gibbe... [ score 58 E 5e-08 ] [ range 20 .. 60 ]
+sequence
+QKRSRILLSCAPCRNSKLKCDREQP-CSHCDKKGRASQCTYA-------*
+>P1;gi|42551598|gb|EAA74441.1| hypothetical protein FG05157.1 [Gibbe... [ score 58 E 5e-08 ] [ range 14 .. 53 ]
+sequence
+KKRRRIVISCTECHRRKQRCDREFP-CGNCKSRNKESSCVY--------*
+>P1;gi|32404124|ref|XP_322675.1| hypothetical protein [Neurospora cr... [ score 58 E 5e-08 ] [ range 110 .. 152 ]
+sequence
+RKRQRVRLSCLECRRRKLSCDREFP-CSRCMQSGTPERCEYETR-----*
+>P1;gi|38111841|gb|EAA57345.1| hypothetical protein MG08314.4 [Magna... [ score 58 E 6e-08 ] [ range 55 .. 96 ]
+sequence
+-KRKRISVSCELCKQRKVKCDRGQPSCGWCSRNG--ASCEYKER-----*
+>P1;gi|42550035|gb|EAA72878.1| hypothetical protein FG03138.1 [Gibbe... [ score 58 E 9e-08 ] [ range 99 .. 139 ]
+sequence
+-KRKRVALACDSCRDRKIKCDGSKPICSPCGKRGEPAACTY--------*
+>P1;gi|40744952|gb|EAA64108.1| hypothetical protein AN8894.2 [Asperg... [ score 57 E 9e-08 ] [ range 144 .. 186 ]
+sequence
+-RRRRPALSCSICRRRKLKCDRSLP-CGQCIKSKTPDLCVFSAPT----*
+>P1;gi|41629685|ref|NP_011923.2| RSC complex component; Rsc30p [Sacc... [ score 57 E 9e-08 ] [ range 10 .. 47 ]
+sequence
+----RKPPACTQCRKRKIGCDRAKPICGNCVKYNKPD-CFYPD------*
+>P1;gi|40742111|gb|EAA61301.1| hypothetical protein AN7096.2 [Asperg... [ score 56 E 2e-07 ] [ range 514 .. 553 ]
+sequence
+-RRRRNALACNTCRRRRTKCDGKRPKCSFCVERGKD--CFYQE------*
+>P1;gi|45185630|ref|NP_983346.1| ACL058Wp [Eremothecium gossypii] >g... [ score 56 E 3e-07 ] [ range 30 .. 67 ]
+sequence
+-KRQRRVLNCMPCHKRKVKCNRARPVCDHCEKN--RYACAY--------*
+>P1;gi|40740167|gb|EAA59357.1| hypothetical protein AN4096.2 [Asperg... [ score 55 E 4e-07 ] [ range 92 .. 130 ]
+sequence
+KERKRLPLACIACRRKKIRCSGEKPACKHCSRSRIP--CVY--------*
+>P1;gi|40744445|gb|EAA63621.1| hypothetical protein AN3050.2 [Asperg... [ score 55 E 4e-07 ] [ range 49 .. 91 ]
+sequence
+RKRRRRTIACAQCRSRKLKCDREYPTCGRCIKSKTPSKCSYED------*
+>P1;gi|32411563|ref|XP_326262.1| hypothetical protein [Neurospora cr... [ score 55 E 5e-07 ] [ range 199 .. 237 ]
+sequence
+KERKRLPLACIACRRKKIRCSGEKPACKHCLRSRIP--CVY--------*
+>P1;gi|42545290|gb|EAA68133.1| hypothetical protein FG00081.1 [Gibbe... [ score 55 E 5e-07 ] [ range 23 .. 60 ]
+sequence
+-KRRRIGLACNACRVRKSRCDGHRPSCSSCLSLGV--SCLY--------*
+>P1;gi|19113913|ref|NP_593001.1| putative transcriptional regulatory... [ score 55 E 6e-07 ] [ range 12 .. 51 ]
+sequence
+--RKRSPKSCLICRRRKVKCDRQQP-CSRCKERN--EVCTYADDT----*
+>P1;gi|45200864|ref|NP_986434.1| AGL233Cp [Eremothecium gossypii] >g... [ score 55 E 6e-07 ] [ range 10 .. 49 ]
+sequence
+KTRRKVSKSCVFCRKRRVKCNKARPKCSTCIGKGLPE-CVY--------*
+>P1;gi|45184767|ref|NP_982485.1| AAL057Cp [Eremothecium gossypii] >g... [ score 54 E 6e-07 ] [ range 8 .. 48 ]
+sequence
+RKMKKPP-ACVQCRKRKIGCDRAKPLCGNCVRNG-KSDCFYPD------*
+>P1;gi|32420225|ref|XP_330556.1| hypothetical protein [Neurospora cr... [ score 54 E 9e-07 ] [ range 36 .. 74 ]
+sequence
+-KRQATTAACGACRRRKSKCNGTRPRCSACHDRGTD--CEYD-------*
+>P1;gi|6324746|ref|NP_014815.1| Zn2-Cys6 zinc-finger transcription f... [ score 54 E 1e-06 ] [ range 22 .. 64 ]
+sequence
+QKRRKPIKSCAFCRKRKLRCDQQKPMCSTCKTRG-RSGCLYTEK-----*
+>P1;gi|40746750|gb|EAA65906.1| hypothetical protein AN0877.2 [Asperg... [ score 54 E 1e-06 ] [ range 32 .. 74 ]
+sequence
+-KRRRVNAACLTCRKRKTRCSGEQPVCRTCVDYN--HKCLYSESS----*
+>P1;gi|42548870|gb|EAA71713.1| hypothetical protein FG03727.1 [Gibbe... [ score 53 E 1e-06 ] [ range 25 .. 58 ]
+sequence
+-KRGRLSLACTQCRKRKVRCDATTPKCRNCVLRGD--------------*
+>P1;gi|6323296|ref|NP_013368.1| Pleiotropic Drug Resistance; Pdr8p [... [ score 53 E 1e-06 ] [ range 23 .. 64 ]
+sequence
+-KRRKVIKSCAFCRKRKLKCSQARPMCQQCVIRKLPQ-CVYTEE-----*
+>P1;gi|6320509|ref|NP_010589.1| Zinc cluster protein; Rsc3p [Sacchar... [ score 53 E 1e-06 ] [ range 6 .. 46 ]
+sequence
+RKMKKPP-ACVQCRKRKIGCDRVKPICGNCMKHNKMD-CFYPD------*
+>P1;gi|40742897|gb|EAA62087.1| hypothetical protein AN7507.2 [Asperg... [ score 53 E 2e-06 ] [ range 80 .. 119 ]
+sequence
+--RGRVSRACENCREQKVKCSGQRPSCQRCQESGIQ--CSYGDR-----*
+>P1;gi|42549850|gb|EAA72693.1| hypothetical protein FG03246.1 [Gibbe... [ score 53 E 2e-06 ] [ range 40 .. 84 ]
+sequence
+KKRRRQKISCEMCKTRKVKCDRAEPACSWCARHNKA--CVYLER-----*
+>P1;gi|40742225|gb|EAA61415.1| hypothetical protein AN7163.2 [Asperg... [ score 53 E 2e-06 ] [ range 73 .. 112 ]
+sequence
+KRKQRESKACYPCRQRKVKCDGSHP-CRTCVKRDHPEICAY--------*
+>P1;gi|40742793|gb|EAA61983.1| hypothetical protein AN9150.2 [Asperg... [ score 53 E 2e-06 ] [ range 863 .. 901 ]
+sequence
+--RRRSARACEPCRQRKVKCDAARPVCQKCREHGLE--CSYMD------*
+>P1;gi|40742386|gb|EAA61576.1| hypothetical protein AN7788.2 [Asperg... [ score 52 E 3e-06 ] [ range 4 .. 37 ]
+sequence
+-KRKRLSYACNFCRQRKTRCDEEHPSCRNCRVAGV--------------*
+>P1;gi|6319950|ref|NP_010031.1| Regulator of drug sensitivity; Rds1p... [ score 52 E 3e-06 ] [ range 7 .. 48 ]
+sequence
+-KKPRLRLVCLQCKKIKRKCDKLRPACSRCQQNSLQ--CEYEERT----*
+>P1;gi|40744943|gb|EAA64099.1| hypothetical protein AN8885.2 [Asperg... [ score 52 E 3e-06 ] [ range 11 .. 49 ]
+sequence
+-RRKRVSRACDRCRSKKDKCDGLRPSCSACLASG--QTCSYD-------*
+>P1;gi|6322627|ref|NP_012700.1| Hypothetical ORF; Ykl222cp [Saccharo... [ score 52 E 3e-06 ] [ range 17 .. 58 ]
+sequence
+--RRKPAKSCHFCRVRKLKCDRVRPFCGSCSSRN-RKQCEYKENT----*
+>P1;gi|40740557|gb|EAA59747.1| hypothetical protein AN8125.2 [Asperg... [ score 52 E 4e-06 ] [ range 51 .. 90 ]
+sequence
+KRKAREPKACYPCHARKVKCDRNLP-CDGCVKRDHAELCSY--------*
+>P1;gi|42551564|gb|EAA74407.1| hypothetical protein FG05068.1 [Gibbe... [ score 51 E 6e-06 ] [ range 113 .. 151 ]
+sequence
+--RRRATIACEVCRSRKSRCDGTKPKCKLCTELG--AECIYRE------*
+>P1;gi|38110350|gb|EAA56083.1| hypothetical protein MG01734.4 [Magna... [ score 51 E 7e-06 ] [ range 125 .. 163 ]
+sequence
+--RRRATIACEVCRSRKSRCDGTKPKCKLCLELG--ADCVYRE------*
+>P1;gi|42551847|gb|EAA74690.1| hypothetical protein FG04830.1 [Gibbe... [ score 51 E 7e-06 ] [ range 10 .. 50 ]
+sequence
+--RSRIANACDGCKSRKVKCDGKLP-CSYCARRQKPHDCHYSPQ-----*
+>P1;gi|40739228|gb|EAA58418.1| hypothetical protein AN6396.2 [Asperg... [ score 51 E 7e-06 ] [ range 19 .. 59 ]
+sequence
+-KRRKIAVACDECRSRKVRCDGVQPVCGPCAKRADRGACKY--------*
+>P1;gi|32414361|ref|XP_327660.1| predicted protein [Neurospora crass... [ score 51 E 7e-06 ] [ range 95 .. 127 ]
+sequence
+--------ACDTCRARKQKCDEQRPKCGTCQKFNVE--CHYRE------*
+>P1;gi|19114082|ref|NP_593170.1| putative transcriptional activator ... [ score 51 E 8e-06 ] [ range 22 .. 55 ]
+sequence
+--------SCLACRRKKLKCDHGRP-CSNCLKRSTIQSCIYID------*
+>P1;gi|42550503|gb|EAA73346.1| hypothetical protein FG03878.1 [Gibbe... [ score 51 E 9e-06 ] [ range 38 .. 76 ]
+sequence
+RHRHRVTRACNECRRRKDRCGGQRPSCMSCTEND--RVCSY--------*
+>P1;gi|42552902|gb|EAA75745.1| conserved hypothetical protein [Gibbe... [ score 51 E 9e-06 ] [ range 26 .. 62 ]
+sequence
+--------ACSFCKSRKIKCDGATPACGRCVRSGRQETCSLMTDT----*
+>P1;gi|38101756|gb|EAA48671.1| hypothetical protein MG00329.4 [Magna... [ score 51 E 1e-05 ] [ range 36 .. 68 ]
+sequence
+--------ACENCRSRKQKCDEQRPKCSTCRKFNLE--CHYRE------*
+>P1;gi|42552727|gb|EAA75570.1| hypothetical protein FG05925.1 [Gibbe... [ score 51 E 1e-05 ] [ range 53 .. 93 ]
+sequence
+RKPKKSSLTCTTCRARKVRCNGARDICSNCERLGFP--CSYDD------*
+>P1;gi|42545799|gb|EAA68642.1| hypothetical protein FG01176.1 [Gibbe... [ score 50 E 1e-05 ] [ range 5 .. 40 ]
+sequence
+RSHKKSRAGCRRCKNRKIKCDEVHPRCGNCAKHGVP-------------*
+>P1;gi|45188276|ref|NP_984499.1| ADR404Cp [Eremothecium gossypii] >g... [ score 50 E 1e-05 ] [ range 17 .. 54 ]
+sequence
+--KRKLSYVCIPCRKCKTKCDKLKPTCSRCAELGLY--CGYD-------*
+>P1;gi|32407245|ref|XP_324208.1| predicted protein [Neurospora crass... [ score 50 E 1e-05 ] [ range 222 .. 263 ]
+sequence
+KRRNRPAVSCIPCRGRKIKCDKQKP-CESCVKSKIKGPCRYD-------*
+>P1;gi|38106684|gb|EAA52958.1| hypothetical protein MG06086.4 [Magna... [ score 50 E 1e-05 ] [ range 108 .. 139 ]
+sequence
+QKRNKPTLSCSQCVERKTKCDRGRP-CLACIKR----------------*
+>P1;gi|32395673|gb|AAO64397.1| binuclear zinc transcription factor [... [ score 50 E 1e-05 ] [ range 17 .. 49 ]
+sequence
+------PFSCYECRNRKLKCDRLSPRCTRCSRSEVR--CQY--------*
+>P1;gi|38111159|gb|EAA56776.1| hypothetical protein MG07131.4 [Magna... [ score 50 E 2e-05 ] [ range 42 .. 81 ]
+sequence
+--KKRTKTGCLTCRKRRIKCDEQKPTCNNCIKS--KRQCTYGSQ-----*
+>P1;gi|32416540|ref|XP_328748.1| hypothetical protein [Neurospora cr... [ score 50 E 2e-05 ] [ range 42 .. 81 ]
+sequence
+-KRITTPHACAECKRRKIRCDGQQP-CGQCLSSRAPKRCFYD-------*
+>P1;gi|42551461|gb|EAA74304.1| hypothetical protein FG10851.1 [Gibbe... [ score 50 E 2e-05 ] [ range 63 .. 100 ]
+sequence
+-KRPRPVKSCTECRKRKLRCDRLCP-CSQCQKSN--RTCKYA-------*
+>P1;gi|19115409|ref|NP_594497.1| putative transcriptional regulatory... [ score 50 E 2e-05 ] [ range 14 .. 50 ]
+sequence
+-KRHRKITSCRECHRLKLKCDRVWP-CENCKKRGIPNLC----------*
+>P1;gi|28975427|gb|AAO64247.1| unknown [Fusarium sporotrichioides] [ score 50 E 2e-05 ] [ range 26 .. 56 ]
+sequence
+--------ACSFCKSRKSKCDGAAPACGRCVRSGRQNTC----------*
+>P1;gi|40745564|gb|EAA64720.1| hypothetical protein AN2615.2 [Asperg... [ score 50 E 2e-05 ] [ range 62 .. 100 ]
+sequence
+--RSRGASACENCRSRKTKCDNRRPSCGFCLKRRVP--CVYQD------*
+>P1;gi|32408339|ref|XP_324651.1| hypothetical protein [Neurospora cr... [ score 50 E 2e-05 ] [ range 57 .. 86 ]
+sequence
+--RKRTKTGCLTCRKRRIKCDEAKPICNNCTK-----------------*
+>P1;gi|42552073|gb|EAA74916.1| hypothetical protein FG11093.1 [Gibbe... [ score 50 E 2e-05 ] [ range 5 .. 38 ]
+sequence
+--------ACEPCAKRKVKCDRAEPPCSNCKRRKN-DTCIYPE------*
+>P1;gi|40744157|gb|EAA63337.1| hypothetical protein AN3369.2 [Asperg... [ score 50 E 2e-05 ] [ range 36 .. 69 ]
+sequence
+--------ACTSCRHRKIKCDGEKP-CEACRWYKKADLCHYSD------*
+>P1;gi|42548395|gb|EAA71238.1| hypothetical protein FG03205.1 [Gibbe... [ score 49 E 2e-05 ] [ range 19 .. 58 ]
+sequence
+RRRPRKPLNCDPCRHSKLKCDRQLP-CSTCLKRGWQDSCAY--------*
+>P1;gi|32421699|ref|XP_331293.1| predicted protein [Neurospora crass... [ score 49 E 2e-05 ] [ range 21 .. 63 ]
+sequence
+RKRPRVRVSCEQCRTRKIRCDRETP-CKPCKDRGHASSCVYS-------*
+>P1;gi|32418480|ref|XP_329718.1| hypothetical protein [Neurospora cr... [ score 49 E 2e-05 ] [ range 5 .. 40 ]
+sequence
+RSHKKSRAGCRRCKSRKIKCDEVHPRCGNCVKHGVP-------------*
+>P1;gi|42554362|gb|EAA77205.1| hypothetical protein FG07618.1 [Gibbe... [ score 49 E 2e-05 ] [ range 265 .. 303 ]
+sequence
+--RRRVTQACVNCRMRKTRCDAAEPKCGLCTTQNVD--CVYRD------*
+>P1;gi|40741499|gb|EAA60689.1| hypothetical protein AN8655.2 [Asperg... [ score 49 E 3e-05 ] [ range 9 .. 48 ]
+sequence
+RRRLRSNHACINCRRKKTRCPGEKPACSCCVRLN--QQCSYA-------*
+>P1;gi|42545674|gb|EAA68517.1| hypothetical protein FG01562.1 [Gibbe... [ score 49 E 3e-05 ] [ range 46 .. 84 ]
+sequence
+KKRRKVNHACVYCRRSHMTCDLERP-CTRCIKRNIGHLCH---------*
+>P1;gi|42549325|gb|EAA72168.1| hypothetical protein FG08380.1 [Gibbe... [ score 49 E 3e-05 ] [ range 288 .. 326 ]
+sequence
+-KRNRISIACNECKRRKIKCNGETP-CQRCGNLNLA--CLYA-------*
+>P1;gi|40739127|gb|EAA58317.1| hypothetical protein AN5808.2 [Asperg... [ score 49 E 3e-05 ] [ range 38 .. 76 ]
+sequence
+--RRRATIACQICRLRKTRCNGARPKCQLCTDLD--AECVYRE------*
+>P1;gi|42551881|gb|EAA74724.1| hypothetical protein FG06160.1 [Gibbe... [ score 49 E 3e-05 ] [ range 33 .. 68 ]
+sequence
+RKRNRTKTGCLTCRKRRIKCDEGRPICNNCIK-----------------*
+>P1;gi|40740786|gb|EAA59976.1| hypothetical protein AN3768.2 [Asperg... [ score 49 E 4e-05 ] [ range 71 .. 105 ]
+sequence
+----RIPRACANCQKKKTKCDSRKPTCGFCLRSGTA--CTY--------*
+>P1;gi|40744144|gb|EAA63324.1| hypothetical protein AN3356.2 [Asperg... [ score 49 E 4e-05 ] [ range 5 .. 44 ]
+sequence
+-RRNGLLSSCEPCRKSKLRCDHSLPICQRCTARRRAPECTY--------*
+>P1;gi|32419891|ref|XP_330389.1| hypothetical protein [Neurospora cr... [ score 49 E 4e-05 ] [ range 6 .. 37 ]
+sequence
+--RQKVRTGCYTCKIRKVKCDETKPSCLRCTKTG---------------*
+>P1;gi|40745936|gb|EAA65092.1| hypothetical protein AN1927.2 [Asperg... [ score 49 E 4e-05 ] [ range 122 .. 165 ]
+sequence
+RKRTKISRACDECRRKKVRCDASSESCSNCRRLGV--VCQFS-------*
+>P1;gi|40742193|gb|EAA61383.1| hypothetical protein AN7332.2 [Asperg... [ score 49 E 4e-05 ] [ range 8 .. 51 ]
+sequence
+RKRRRPAQSCEQCRQRKVRCDRNIP-CGPCTRARSVLHCSYRDKS----*
+>P1;gi|40740084|gb|EAA59274.1| hypothetical protein AN4175.2 [Asperg... [ score 49 E 4e-05 ] [ range 12 .. 43 ]
+sequence
+--RKHVTTACVPCRESKIRCDGASPHCNNCERKG---------------*
+>P1;gi|40738597|gb|EAA57787.1| hypothetical protein AN5924.2 [Asperg... [ score 49 E 4e-05 ] [ range 81 .. 123 ]
+sequence
+KKHKRTRSGCFTCRSRRIKCDETRPVCERCRK-GNRE-CVYPSST----*
+>P1;gi|32403380|ref|XP_322303.1| predicted protein [Neurospora crass... [ score 49 E 4e-05 ] [ range 730 .. 753 ]
+sequence
+------PLACMTCRSRKLKCDRIKPICTRC-------------------*
+>P1;gi|42549347|gb|EAA72190.1| hypothetical protein FG04576.1 [Gibbe... [ score 48 E 4e-05 ] [ range 34 .. 73 ]
+sequence
+RRRANRPNACENCRVKKARCDGKRPSCSKCERWGT--TCVYS-------*
+>P1;gi|40746441|gb|EAA65597.1| hypothetical protein AN1029.2 [Asperg... [ score 48 E 4e-05 ] [ range 7 .. 48 ]
+sequence
+RGRQQPGFACEECRRRKARCDRVRPKCGFCTENELQ--CVFVDK-----*
+>P1;gi|42555881|gb|EAA78687.1| hypothetical protein FG11374.1 [Gibbe... [ score 48 E 4e-05 ] [ range 12 .. 45 ]
+sequence
+KTRNRN--GCSTCRARRLKCDEQKPECNNCTRLSIP-------------*
+>P1;gi|42549898|gb|EAA72741.1| hypothetical protein FG03294.1 [Gibbe... [ score 48 E 4e-05 ] [ range 14 .. 45 ]
+sequence
+-RRKRIPQACLNCRRKKVRCTGEKPTCGFCARL----------------*
+>P1;gi|19113557|ref|NP_596765.1| fungal Zn(2)-Cys(6) binuclear clust... [ score 48 E 5e-05 ] [ range 8 .. 46 ]
+sequence
+-RRQRVSRACDECHRRKIKCDQRRP-CSNCIAYN--YECTYGQ------*
+>P1;gi|42552389|gb|EAA75232.1| hypothetical protein FG05661.1 [Gibbe... [ score 48 E 5e-05 ] [ range 44 .. 81 ]
+sequence
+------SLACRQCRDRKIRCDGARPVCDSCSRRGLAEQCVYPE------*
+>P1;gi|6322813|ref|NP_012886.1| transcriptional repressor and activa... [ score 48 E 5e-05 ] [ range 38 .. 79 ]
+sequence
+KKRTKASRACDQCRKKKIKCDDEKGVCSNCQRNGDR--CSFD-------*
+>P1;gi|38110218|gb|EAA55973.1| hypothetical protein MG01624.4 [Magna... [ score 48 E 6e-05 ] [ range 173 .. 210 ]
+sequence
+RRRMRMITSCLECRRRKLKCNKSNP-CTNCTKFNRE--CLY--------*
+>P1;gi|38103291|gb|EAA50004.1| hypothetical protein MG03763.4 [Magna... [ score 48 E 6e-05 ] [ range 10 .. 48 ]
+sequence
+-DRQRVARACQTCKSSKKRCDGAQP-CGSCSKKGLGDVCRY--------*
+>P1;gi|40746002|gb|EAA65158.1| hypothetical protein AN1402.2 [Asperg... [ score 48 E 6e-05 ] [ range 220 .. 256 ]
+sequence
+RKRNRTKTGCMTCRRRKKKCDEQHPACNNCLRGG---------------*
+>P1;gi|38105979|gb|EAA52341.1| hypothetical protein MG05033.4 [Magna... [ score 48 E 6e-05 ] [ range 3 .. 34 ]
+sequence
+--RAPTSGNCHTCRMRRVKCDRARPACERCIKAG---------------*
+>P1;gi|40744037|gb|EAA63219.1| hypothetical protein AN2785.2 [Asperg... [ score 48 E 6e-05 ] [ range 9 .. 48 ]
+sequence
+RPPKRIRQACEQCRRKKSRCPGERPNCSSCLRLG--QICEYS-------*
+>P1;gi|32412798|ref|XP_326879.1| hypothetical protein ( (AL451020) c... [ score 48 E 6e-05 ] [ range 280 .. 318 ]
+sequence
+KPRKRLAIACITCREKKIKCDPDYPRCAQCEKFG--RTCRF--------*
+>P1;gi|128340|sp|P28348|NIRA_EMENI NITROGEN ASSIMILATION TRANSCRIPTI... [ score 48 E 6e-05 ] [ range 34 .. 73 ]
+sequence
+-KRRCVSTACIACRRRKSKCDGNLPSCAACS--SVYHTCVYD-------*
+>P1;gi|32421093|ref|XP_330990.1| hypothetical protein [Neurospora cr... [ score 48 E 6e-05 ] [ range 22 .. 60 ]
+sequence
+--RPRVANACDVCKRRKVKCNGATP-CGYCVSRKHPSLCLYS-------*
+>P1;gi|40744916|gb|EAA64072.1| hypothetical protein AN8938.2 [Asperg... [ score 48 E 6e-05 ] [ range 28 .. 64 ]
+sequence
+----RTSTGCLTCRERRVKCDDGKPTCARCTKAG--RVCRYRQ------*
+>P1;gi|6324956|ref|NP_015025.1| Repressor of drug resistance; Rdr1p ... [ score 48 E 6e-05 ] [ range 12 .. 50 ]
+sequence
+-KRQRVRKACVPCRERKRKCNGKSP-CEMCVAYG--YVCHYID------*
+>P1;gi|42545336|gb|EAA68179.1| hypothetical protein FG02205.1 [Gibbe... [ score 48 E 6e-05 ] [ range 389 .. 427 ]
+sequence
+RSQDRLAVGCGECRKRRRKCDEAKPSCGQCVSYN--RTCQY--------*
+>P1;gi|40747694|gb|EAA66850.1| hypothetical protein AN8506.2 [Asperg... [ score 48 E 6e-05 ] [ range 18 .. 52 ]
+sequence
+----RTPLSCRLCRSKKLRCDRAQP-CSNCVQRKVE--CVYA-------*
+>P1;gi|40739041|gb|EAA58231.1| hypothetical protein AN6832.2 [Asperg... [ score 48 E 7e-05 ] [ range 35 .. 75 ]
+sequence
+-RRGVVPRACSSCRRRKVKCNGEKP-CEACRWYKRPEECTYPE------*
+>P1;gi|38107196|gb|EAA53404.1| hypothetical protein MG07681.4 [Magna... [ score 48 E 7e-05 ] [ range 43 .. 74 ]
+sequence
+--------ACWPCRQRKVKCDNKQP-CENCVKRDHAQLCSY--------*
+>P1;gi|38110774|gb|EAA56445.1| hypothetical protein MG06416.4 [Magna... [ score 48 E 7e-05 ] [ range 11 .. 36 ]
+sequence
+---------CASCRERKVRCDQKEPSCGQCEKRNV--------------*
+>P1;gi|42554983|gb|EAA77826.1| hypothetical protein FG07228.1 [Gibbe... [ score 48 E 7e-05 ] [ range 567 .. 603 ]
+sequence
+-KRKRVSKACNTCMKRKQKCDGQK-NCSYCRKKGM--TCVY--------*
+>P1;gi|38110098|gb|EAA55867.1| hypothetical protein MG01518.4 [Magna... [ score 48 E 7e-05 ] [ range 54 .. 84 ]
+sequence
+QKRRCVSTACIACRKRKSKCDGANPSCAACA------------------*
+>P1;gi|40739168|gb|EAA58358.1| hypothetical protein AN5849.2 [Asperg... [ score 47 E 7e-05 ] [ range 225 .. 267 ]
+sequence
+--RNRKPTACDQCRTRKAKCDEGRPACSHCKENN--YVCVYKE------*
+>P1;gi|42550544|gb|EAA73387.1| hypothetical protein FG03919.1 [Gibbe... [ score 47 E 8e-05 ] [ range 33 .. 64 ]
+sequence
+--RKRANTACQVCRSRKTKCDNLKPACSYCLSVG---------------*
+>P1;gi|40744247|gb|EAA63423.1| hypothetical protein AN2852.2 [Asperg... [ score 47 E 9e-05 ] [ range 63 .. 102 ]
+sequence
+QKRRRVTRACDECRRKKIKCDGKQP-CTHCTV--YSYECTYDQ------*
+>P1;gi|40741860|gb|EAA61050.1| hypothetical protein AN4972.2 [Asperg... [ score 47 E 9e-05 ] [ range 78 .. 116 ]
+sequence
+RYSRRVPLACETCRVRKTKCSGDTPICRQCLELRVE--CRY--------*
+>P1;gi|38106390|gb|EAA52701.1| hypothetical protein MG05829.4 [Magna... [ score 47 E 9e-05 ] [ range 35 .. 73 ]
+sequence
+RKQPRVALACKRCKRRKQRCDGVHPVCRSCEKAKVP--CIY--------*
+>P1;gi|38109418|gb|EAA55297.1| hypothetical protein MG06954.4 [Magna... [ score 47 E 1e-04 ] [ range 164 .. 200 ]
+sequence
+--KRRSRAGCTSCKERKKKCNEERPQCSRCAERG--SSCVY--------*
+>P1;gi|40742251|gb|EAA61441.1| hypothetical protein AN7189.2 [Asperg... [ score 47 E 1e-04 ] [ range 64 .. 96 ]
+sequence
+---KRVSTACDFCRKRKKKCDFRYPNCSACTRAGVR-------------*
+>P1;gi|42549896|gb|EAA72739.1| hypothetical protein FG03292.1 [Gibbe... [ score 47 E 1e-04 ] [ range 23 .. 56 ]
+sequence
+QKRQRV-LACTYCQQRKIKCNRIFP-CSNCIKANLT-------------*
+>P1;gi|42555378|gb|EAA78221.1| hypothetical protein FG06436.1 [Gibbe... [ score 47 E 1e-04 ] [ range 19 .. 61 ]
+sequence
+--KRRAPYACIACRRRKGKCDGRQP-CDYCENRG--RTCLYDEET----*
+>P1;gi|42552098|gb|EAA74941.1| hypothetical protein FG06324.1 [Gibbe... [ score 47 E 1e-04 ] [ range 105 .. 137 ]
+sequence
+---------CFNCKRRKVKCDEVKPACANCVRFGIP--CDFAPQ-----*
+>P1;gi|42555651|gb|EAA78457.1| hypothetical protein FG11247.1 [Gibbe... [ score 47 E 1e-04 ] [ range 61 .. 99 ]
+sequence
+RGHKKVKTGCTDCRRRRVKCTEEKPKCRACQRRG--AQCEY--------*
+>P1;gi|40739178|gb|EAA58368.1| hypothetical protein AN5859.2 [Asperg... [ score 47 E 1e-04 ] [ range 10 .. 51 ]
+sequence
+---KRLPISCQACRTRKIRCSRDGRPCQTCVRRGLAEDCVYLGQ-----*
+>P1;gi|40745605|gb|EAA64761.1| hypothetical protein AN1641.2 [Asperg... [ score 47 E 1e-04 ] [ range 25 .. 64 ]
+sequence
+RKRKRVSVACRSCRARKSRCNGTQP-CSSCEDMDTE--CRYDQ------*
+>P1;gi|40739416|gb|EAA58606.1| hypothetical protein AN6788.2 [Asperg... [ score 47 E 1e-04 ] [ range 18 .. 49 ]
+sequence
+--RQQPGLACEECRKRKARCDRAKPQCGSCMMTG---------------*
+>P1;gi|40740189|gb|EAA59379.1| hypothetical protein AN4118.2 [Asperg... [ score 47 E 2e-04 ] [ range 7 .. 44 ]
+sequence
+-KRKRARVACEPCRSRKRKCDGAAP-CETC--RDWGYDCYYA-------*
+>P1;gi|42545860|gb|EAA68703.1| hypothetical protein FG00313.1 [Gibbe... [ score 47 E 2e-04 ] [ range 84 .. 113 ]
+sequence
+---------CYNCKRRRIKCQETHPACGHCTKTGLK--CEY--------*
+>P1;gi|38101256|gb|EAA48244.1| hypothetical protein MG10307.4 [Magna... [ score 46 E 2e-04 ] [ range 85 .. 126 ]
+sequence
+KRRGRHNTACNFCRHRKARCNNERPRCGFCRANN--QECVYAEE-----*
+>P1;gi|18376338|emb|CAD21084.1| conserved hypothetical protein [Neur... [ score 46 E 2e-04 ] [ range 35 .. 74 ]
+sequence
+RKRRRIVISCTECHRRKQKCDRKLP-CTNCISRHRQDDCQY--------*
+>P1;gi|42554335|gb|EAA77178.1| hypothetical protein FG07591.1 [Gibbe... [ score 46 E 2e-04 ] [ range 15 .. 56 ]
+sequence
+-KRKRAAKACNYCRKRKRKCDGRQPVCTLCEEANNSE-CAYRDE-----*
+>P1;gi|32403524|ref|XP_322375.1| predicted protein [Neurospora crass... [ score 46 E 2e-04 ] [ range 54 .. 89 ]
+sequence
+-----VPAACLPCRTKHLRCDGNHP-CGRCTTTGIVADCAYI-------*
+>P1;gi|40739641|gb|EAA58831.1| hypothetical protein AN3900.2 [Asperg... [ score 46 E 2e-04 ] [ range 46 .. 88 ]
+sequence
+KPRNFITVACETCRLKKTRCDESRPKCGLCKSLG--QECVYNER-----*
+>P1;gi|45185131|ref|NP_982848.1| ABL099Wp [Eremothecium gossypii] >g... [ score 46 E 2e-04 ] [ range 189 .. 227 ]
+sequence
+-KRKYSRNGCTECKRRRMKCDEGKPICWQCSRLNRE--CKYI-------*
+>P1;gi|42548223|gb|EAA71066.1| hypothetical protein FG03322.1 [Gibbe... [ score 46 E 2e-04 ] [ range 35 .. 58 ]
+sequence
+---------CITCKKRHVKCDEAKPHCGNCTRN----------------*
+>P1;gi|42550537|gb|EAA73380.1| hypothetical protein FG03912.1 [Gibbe... [ score 46 E 3e-04 ] [ range 23 .. 56 ]
+sequence
+--------SCWPCKKRRIKCDLAKPTCSRCVKVG--AACDYNQR-----*
+>P1;gi|38102916|gb|EAA49693.1| hypothetical protein MG09684.4 [Magna... [ score 46 E 3e-04 ] [ range 373 .. 402 ]
+sequence
+-KRVKTCTGCWTCRRRKVKCDEHKPVCRQCV------------------*
+>P1;gi|45198689|ref|NP_985718.1| AFR171Wp [Eremothecium gossypii] >g... [ score 46 E 3e-04 ] [ range 22 .. 52 ]
+sequence
+---------CSECKRRKVKCDETKPACWQCSHLGKR--CVYM-------*
+>P1;gi|45185405|ref|NP_983122.1| ABR174Wp [Eremothecium gossypii] >g... [ score 46 E 3e-04 ] [ range 35 .. 73 ]
+sequence
+RRQNRKKFACVECRQQKSKCDRAPEPCSRCAKNNVP-------------*
+>P1;gi|40740702|gb|EAA59892.1| hypothetical protein AN3684.2 [Asperg... [ score 46 E 3e-04 ] [ range 13 .. 55 ]
+sequence
+-KVSRPVAACSRCRTAKIRCDGKLPACSACERAGKADTCSSSDE-----*
+>P1;gi|38112047|gb|EAA57522.1| hypothetical protein MG10197.4 [Magna... [ score 46 E 3e-04 ] [ range 10 .. 48 ]
+sequence
+-KRLRIAQACGFCKTRKQKCDGKVP-CSLCIRKKNADNCVY--------*
+>P1;gi|40744866|gb|EAA64022.1| hypothetical protein AN1736.2 [Asperg... [ score 46 E 3e-04 ] [ range 22 .. 54 ]
+sequence
+---------CTACKTRKIKCDQQKPSCRRCIA--ARYTCEYPSQ-----*
+>P1;gi|42550156|gb|EAA72999.1| hypothetical protein FG08038.1 [Gibbe... [ score 46 E 3e-04 ] [ range 68 .. 104 ]
+sequence
+--RRRAHLACFSCHSRKVRCNEEQPTCRRCSRLG--NVCVY--------*
+>P1;gi|42547542|gb|EAA70385.1| hypothetical protein FG10069.1 [Gibbe... [ score 46 E 3e-04 ] [ range 207 .. 241 ]
+sequence
+RKRNRTKTGCLTCRKRKKKCDEQKPECGNCLR-----------------*
+>P1;gi|42544918|gb|EAA67761.1| hypothetical protein FG02531.1 [Gibbe... [ score 46 E 3e-04 ] [ range 50 .. 88 ]
+sequence
+QKRRRVTRACDECRRKKIKCDGKQP-CTHCSV--YSYECTYD-------*
+>P1;gi|42547380|gb|EAA70223.1| hypothetical protein FG00144.1 [Gibbe... [ score 46 E 3e-04 ] [ range 14 .. 47 ]
+sequence
+--RTRTFTGCRTCRSRHAKCDEAQPQCGTCQRLGLT-------------*
+>P1;gi|40744032|gb|EAA63214.1| hypothetical protein AN2780.2 [Asperg... [ score 46 E 3e-04 ] [ range 4 .. 46 ]
+sequence
+---KRIPISCENCRQRKIRCSSYQAPCDTCLRRGYASSCRFRRQ-----*
+>P1;gi|1470090|gb|AAB05250.1| negative acting factor [ score 46 E 3e-04 ] [ range 272 .. 301 ]
+sequence
+--KRRTKTGCLTCRKRRIKCDETHPTCNNCKK-----------------*
+>P1;gi|32421279|ref|XP_331083.1| hypothetical protein [Neurospora cr... [ score 46 E 3e-04 ] [ range 189 .. 214 ]
+sequence
+---------CLTCRKRKKKCDEAKPRCMNCEKNAV--------------*
+>P1;gi|40739189|gb|EAA58379.1| hypothetical protein AN5870.2 [Asperg... [ score 46 E 3e-04 ] [ range 35 .. 64 ]
+sequence
+--RRRTKTGCLTCRQRRIKCGEEKPICKNCTK-----------------*
+>P1;gi|42555871|gb|EAA78677.1| hypothetical protein FG11364.1 [Gibbe... [ score 46 E 3e-04 ] [ range 5 .. 32 ]
+sequence
+RRRRRPAVACTLCRKRKMRCNRGSP-CSN--------------------*
+>P1;gi|6323820|ref|NP_013891.1| Cbf3 kinetochore complex binds CDE I... [ score 46 E 3e-04 ] [ range 14 .. 42 ]
+sequence
+---------CSVCTRRKVKCDRMIP-CGNCRKRGQDSEC----------*
+>P1;gi|28950003|emb|CAD70758.1| related to transcriptional activator... [ score 46 E 4e-04 ] [ range 71 .. 104 ]
+sequence
+--RHKPDVACQPCHKAKCQCDKQKPTCGACQKKGIT-------------*
+>P1;gi|32417034|ref|XP_328995.1| hypothetical protein [Neurospora cr... [ score 46 E 4e-04 ] [ range 441 .. 483 ]
+sequence
+KKKNKEKLTCDPCRDRKIPCTKEKPSCSQCTTSGLQ--CHYA-------*
+>P1;gi|42554384|gb|EAA77227.1| hypothetical protein FG07368.1 [Gibbe... [ score 46 E 4e-04 ] [ range 338 .. 371 ]
+sequence
+KPRKRLAIACVTCREKKIKCDPDFPRCVQCEKFG---------------*
+>P1;gi|42545954|gb|EAA68797.1| hypothetical protein FG02554.1 [Gibbe... [ score 46 E 4e-04 ] [ range 84 .. 119 ]
+sequence
+----RTYRSCTSCRVSKTKCDGDRPRCSRCCARNLE--CQYD-------*
+>P1;gi|32408165|ref|XP_324564.1| hypothetical protein [Neurospora cr... [ score 45 E 4e-04 ] [ range 13 .. 45 ]
+sequence
+--------SCQPCSNAKAKCDRKATSCSRCTLRGLA--CTYSQ------*
+>P1;gi|42555445|gb|EAA78288.1| hypothetical protein FG06503.1 [Gibbe... [ score 45 E 4e-04 ] [ range 32 .. 67 ]
+sequence
+----RYGTACWPCRQRKVKCDNKQP-CENCVKREHPRLCSY--------*
+>P1;gi|32418596|ref|XP_329776.1| hypothetical protein [Neurospora cr... [ score 45 E 4e-04 ] [ range 33 .. 70 ]
+sequence
+-KVSRPVTACTRCRSAKIKCDGKLPACTSCVKFGRESEC----------*
+>P1;gi|42553847|gb|EAA76690.1| hypothetical protein FG09371.1 [Gibbe... [ score 45 E 4e-04 ] [ range 12 .. 45 ]
+sequence
+KDARKASLACLTCRKKKVRCSGTTP-CQYCTKRGL--------------*
+>P1;gi|32410805|ref|XP_325883.1| QUINIC ACID UTILIZATION ACTIVATOR [... [ score 45 E 4e-04 ] [ range 68 .. 105 ]
+sequence
+-KRQRVSRACDQCRAAREKCDGIQPACFPCVSQG--RSCTY--------*
+>P1;gi|42555586|gb|EAA78429.1| hypothetical protein FG11561.1 [Gibbe... [ score 45 E 4e-04 ] [ range 15 .. 56 ]
+sequence
+--RNRAPRRCTNCKSRRVKCDEQKPECSNCARRELR-------------*
+>P1;gi|3378|emb|CAA27577.1| unnamed protein product [Saccharomyces c... [ score 45 E 4e-04 ] [ range 21 .. 47 ]
+sequence
+---------CWTCRGRKVKCDLRHPHCQRCEKSNLP-------------*
+>P1;gi|11139990|emb|CAC16081.1| Zn(II)2Cys6 transcription factor [Pi... [ score 45 E 4e-04 ] [ range 16 .. 48 ]
+sequence
+--------ACLFCKRRKRKCDGAQP-CATCIKYNNADGCEYS-------*
+>P1;gi|40746801|gb|EAA65957.1| hypothetical protein AN0928.2 [Asperg... [ score 45 E 4e-04 ] [ range 18 .. 51 ]
+sequence
+-------FGCKTCKRRHIRCDETFPQCRNCTKHNCR--CDYMD------*
+>P1;gi|19111861|ref|NP_595069.1| putative transcriptional activator,... [ score 45 E 5e-04 ] [ range 9 .. 49 ]
+sequence
+KKNQEIRISCQRCRQRKIKCDRLHP-CFQCVKSN--SQCFYPE------*
+>P1;gi|10303236|emb|CAC10059.1| ARCA protein [Emericella nidulans] >... [ score 45 E 5e-04 ] [ range 43 .. 76 ]
+sequence
+KKRKRVRTGCFTCRDRHLKCDEALGQCQNCRKSG---------------*

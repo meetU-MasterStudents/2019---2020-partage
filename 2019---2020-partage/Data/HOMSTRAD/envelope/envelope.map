@@ -1,0 +1,220 @@
+>P1;1mof
+structureX:1mof:  46 : :  98 : :coat polyprotein:Moloney murine leukemia virus: 1.7: 16.9
+---------DLREVEKSISNLEKSLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECA---FY
+AD-------------*
+>P1;1mg1a
+structureX:1mg1: 371 :A: 455 :A:gp21 ectodomain (gp62):Human tumour leukemia virus type I: 2.50: 22.3
+AMSLASGKSLLHEVDKDISQLTQAIVKNHKNLLKIAQYAAQNRRGLDLLFWEQGGLCKALQEQCCFLNIT
+NSHVSILQERPPLEN*
+>P1;gi|4071077|gb|AAC98549.1| envelope polypeptide [Murine leukemia ... [ score 102 E 3e-21 ] [ range 519 .. 571 ]
+sequence
+---------DLKEIEKSISNLEKSLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+AD-------------*
+>P1;gi|2225991|emb|CAA74196.1| polyprotein [Murine leukemia virus] [ score 100 E 6e-21 ] [ range 525 .. 577 ]
+sequence
+---------DLKEVEKSITNLEKSLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+AD-------------*
+>P1;gi|37039801|gb|AAQ88191.1| envelope protein [Sus scrofa] [ score 100 E 1e-20 ] [ range 509 .. 561 ]
+sequence
+---------DLQALEKSVSNLEESLTSLSEVVLQNRRGLDLLFLKE-------GGLCVALKEECC---FY
+VD-------------*
+>P1;gi|17432586|gb|AAL39091.1| envelope protein [Sus scrofa] [ score 99 E 2e-20 ] [ range 506 .. 558 ]
+sequence
+---------DLQALEESVSNLEESLTSLSEVVLQNRRGLDLLFLRE-------GGLCAALKEECC---FY
+VD-------------*
+>P1;gi|13928578|dbj|BAB47170.1| envelope [Mus musculus castaneus] [ score 99 E 2e-20 ] [ range 516 .. 568 ]
+sequence
+---------DLKAVEESITNLEKSLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+AD-------------*
+>P1;gi|26006407|gb|AAN77284.1| Env [Python molurus endogenous retrov... [ score 99 E 3e-20 ] [ range 459 .. 511 ]
+sequence
+---------DLERIETSISHLQKSLTSLSEVVLQNRRGLDLLFLKE-------GGLCVALREECC---FY
+AD-------------*
+>P1;gi|119476|sp|P21436|ENV_MLVHO ENV polyprotein precursor [Contain... [ score 98 E 4e-20 ] [ range 512 .. 564 ]
+sequence
+---------DLKEVESSITNLEKSLTSLSEVVLQNRRGLDLLFLEK-------GGLCAALKEECC---FY
+AD-------------*
+>P1;gi|6524625|gb|AAF15099.1| envelope protein [Phascolarctos cinereus] [ score 98 E 5e-20 ] [ range 510 .. 562 ]
+sequence
+---------DLRALQDSISKLEDSLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+VD-------------*
+>P1;gi|37622914|gb|AAQ95280.1| envelope protein [Mus spretus] [ score 98 E 5e-20 ] [ range 486 .. 538 ]
+sequence
+---------DLGALEKSISALEKSLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+AD-------------*
+>P1;gi|34853606|ref|XP_344808.1| similar to envelope protein [Rattus... [ score 98 E 6e-20 ] [ range 379 .. 431 ]
+sequence
+---------DIEALEKSISHLEESLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALREECC---FY
+ID-------------*
+>P1;gi|5306056|gb|AAD41892.1| envelope protein [Felis catus] [ score 98 E 6e-20 ] [ range 507 .. 559 ]
+sequence
+---------DIQALEESISALERSLTSLSEVVLQNRRGLDLLFLQE-------GGLCAALKEECC---FY
+AD-------------*
+>P1;gi|348952|gb|AAC78250.1| envelope protein [Rat leukemia virus] [ score 97 E 7e-20 ] [ range 464 .. 516 ]
+sequence
+---------DLKAIEESVSALEKSLTSLSEVVLQNRRGLDMLFLRE-------GGLCAALKEECC---FY
+AD-------------*
+>P1;gi|38080877|ref|XP_203663.2| hypothetical protein XP_203663 [Mus... [ score 97 E 8e-20 ] [ range 456 .. 508 ]
+sequence
+---------DLAAIEKSIDALEKSLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+AD-------------*
+>P1;gi|3309126|gb|AAC31806.1| envelope glycoprotein [Mus dunni endog... [ score 97 E 1e-19 ] [ range 523 .. 575 ]
+sequence
+---------DLRAIEHSITKLEESLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+VD-------------*
+>P1;gi|13236414|gb|AAK16156.1| envelope glycoprotein [Mus cervicolor... [ score 96 E 2e-19 ] [ range 465 .. 517 ]
+sequence
+---------DLQALEDSVTNLEKSLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+AD-------------*
+>P1;gi|885930|gb|AAA69474.1| envelope protein [ score 96 E 2e-19 ] [ range 517 .. 569 ]
+sequence
+---------DLRAIQDSISKLENSLTSLSEVALQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+VD-------------*
+>P1;gi|38089353|ref|XP_134492.2| RIKEN cDNA 4930505O20 [Mus musculus... [ score 96 E 2e-19 ] [ range 182 .. 234 ]
+sequence
+---------NLQEMTETVLTIQKQIDSLAAVVLQNRQGLDVLSAKE-------GGLCLFLQEECC---FY
+IN-------------*
+>P1;gi|26341520|dbj|BAC34422.1| unnamed protein product [Mus musculus] [ score 95 E 3e-19 ] [ range 528 .. 580 ]
+sequence
+---------DLEMLEKSINALEKSLSSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+AD-------------*
+>P1;gi|4027909|gb|AAC96084.1| envelope protein [Gibbon ape leukemia ... [ score 95 E 4e-19 ] [ range 536 .. 588 ]
+sequence
+---------DLRALQDSVSKLEDSLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECC---FY
+ID-------------*
+>P1;gi|30017459|ref|NP_835218.1| hypothetical protein LOC269211 [Mus... [ score 95 E 5e-19 ] [ range 614 .. 666 ]
+sequence
+---------DLEMLEKSIDVLEKSLSSLSEVVLQNRRGLDLLFLKE-------GGLCTALKEECC---FY
+AD-------------*
+>P1;gi|1706658|sp|P51515|ENV_SRV2 ENV polyprotein (Coat polyprotein)... [ score 95 E 5e-19 ] [ range 423 .. 475 ]
+sequence
+---------DVQAISSTIQDLQDQVDSLAEVVLQNRRGLDLLTAEQ-------GGICLALQEKCC---FY
+AN-------------*
+>P1;gi|17432573|gb|AAL39087.1| envelope protein [Sus scrofa] [ score 94 E 6e-19 ] [ range 509 .. 561 ]
+sequence
+---------DLQALEKSVCNQEESLTSLSEVVLQNRRGLDLLFLKE-------GGLCVALKEECC---FY
+VD-------------*
+>P1;gi|34875277|ref|XP_224362.2| similar to hypothetical protein D93... [ score 94 E 7e-19 ] [ range 459 .. 510 ]
+sequence
+----------LEEIAASITTLQNQIDSLAGVVLQNRRALDLITAEK-------GGTCLFLQEECC---FY
+VN-------------*
+>P1;gi|28927670|gb|AAF81698.2| envelope glycoprotein [Fowlpox virus] [ score 94 E 8e-19 ] [ range 439 .. 491 ]
+sequence
+---------DVQALSGTINDLQDQIDSLAEVVLQNRRGLDLLTAEQ-------GGICLALQEKCC---FY
+AN-------------*
+>P1;gi|11055586|gb|AAG28161.1| envelope protein [Trichosurus vulpecula] [ score 94 E 8e-19 ] [ range 430 .. 482 ]
+sequence
+---------DVQTLSGTIHDLQDQIDSLAEVVLQNRRGLDLLTAEQ-------GGICLALQEKCC---FY
+AN-------------*
+>P1;gi|9627018|ref|NP_041262.1| envelope glycoprotein [Woolly monkey... [ score 94 E 8e-19 ] [ range 427 .. 479 ]
+sequence
+---------DVQALSSTINDLQDQLDSLAEVVLQNRRGLDLLTAEQ-------GGICLALQERCC---FY
+AN-------------*
+>P1;gi|27664194|ref|XP_222096.1| similar to hypothetical protein D93... [ score 92 E 3e-18 ] [ range 459 .. 510 ]
+sequence
+----------LDEVATSILSLQDQIDSLAGVVLQNRRALDLLVAEK-------GGTCLFLQEECC---FY
+IN-------------*
+>P1;gi|4262290|gb|AAD14545.1| envelope protein [Homo sapiens] [ score 91 E 5e-18 ] [ range 357 .. 409 ]
+sequence
+---------DMERVADSLVTLQDQLNSLAAVVLQNRRALDLLTAER-------GGTCLFLGEECC---YY
+VN-------------*
+>P1;gi|34996441|emb|CAE12267.1| FRD envelope protein [Callithrix jac... [ score 91 E 6e-18 ] [ range 391 .. 443 ]
+sequence
+---------NIEAMAKTLTTVQEQIDSLAAVVLQNRRGLDMLTAAQ-------GGICLALDEKCC---FW
+VN-------------*
+>P1;gi|34861793|ref|XP_344981.1| similar to hypothetical protein D93... [ score 91 E 6e-18 ] [ range 156 .. 207 ]
+sequence
+----------FQKMSETMLTIQKQIDPLAAVVLQNQSGLDVLRAKE-------GGLCLFLQEECC---FY
+IN-------------*
+>P1;gi|34996439|emb|CAE12266.1| FRD envelope protein [Macaca fascicu... [ score 91 E 8e-18 ] [ range 391 .. 443 ]
+sequence
+---------NIDTMAKTLTTVQEQIDSLAAVVLQNRRGLDMLTAAQ-------GGICLALDEKCC---FW
+VN-------------*
+>P1;gi|34866747|gb|AAO86627.1| envelope glycoprotein [Simian T-lymph... [ score 147 E 8e-35 ] [ range 338 .. 421 ]
+sequence
+SLSLASGKSLLHEVDQDIDHLTRAIVKNHDNILRVAQYAAQNRRGLDLLFWEQGGLCKAIQEQCCFLNIS
+NTHVSVLQERPPLE-*
+>P1;gi|2138230|gb|AAC57857.1| envelope glycoprotein [Human T-cell ly... [ score 146 E 9e-35 ] [ range 48 .. 132 ]
+sequence
+SMSLASGKSLLHEVHKDISQLTHAIVKNHKNLLKIAQYAAQNRRGLDLLFWEQGGLCKALQEQCCFLNIT
+NSHVSILQERPPLEN*
+>P1;gi|20278914|gb|AAM18640.1| envelope glycoprotein [Simian T-lymph... [ score 143 E 7e-34 ] [ range 48 .. 132 ]
+sequence
+SMSLASGRNLLHEVDKDISQLTQAIVKNHKNLLKIAQYAAQNRRGLDLLFWEQGGLCKALHEQCCFLNIT
+NSHVSILQERPPLEN*
+>P1;gi|34368898|gb|AAN39828.1| envelope glycoprotein [Simian T-lymph... [ score 143 E 8e-34 ] [ range 48 .. 132 ]
+sequence
+SMSLASGKSLLHEVDKDISQLTQAVVKNHKNLLKVAQYAAQNRRGLDLLFWEQGGLCKALQEQCCFLNIT
+DSHISVLQERPPLEN*
+>P1;gi|458080|gb|AAB02157.1| gp46 C-terminal and gp21 N-terminal fra... [ score 143 E 9e-34 ] [ range 48 .. 132 ]
+sequence
+SMSLASGRSLLHELDKDISQLTQAIVKNYKNLLKIAQYAAQNRRGLDLLFWEQGGLCKALQEQCCFLNIT
+NSHVSILQERPPLEN*
+>P1;gi|458034|gb|AAA95950.1| gp46 C-terminal and gp21 N-terminal fra... [ score 143 E 1e-33 ] [ range 48 .. 132 ]
+sequence
+SMSLASGRSLLHEVDKDISQLTQAIVKNHKSLLKIAQYAAQNRRGLDLLFWEQGGLCKALQEQCCFLNIT
+NIHVSILQERPPLEN*
+>P1;gi|458049|gb|AAA95957.1| gp46 C-terminal and gp21 N-terminal fra... [ score 142 E 3e-33 ] [ range 48 .. 132 ]
+sequence
+SMSLASGRSLLHEVDKNISQLTQAIVKNHKNLLKIAQYAARNRRGLDLLFWEQGGLCKALQEQCCFLNIT
+NSHVSILQERPPLEN*
+>P1;gi|458072|gb|AAB02166.1| gp46 C-terminal and gp21 N-terminal fra... [ score 140 E 1e-32 ] [ range 48 .. 132 ]
+sequence
+SMSLASGKSLLHEVDKDISQLTQAIVKNHKNLLKITQYTAQNRRGLDLLFWEKGGLCKALQEQCCFLNIT
+NSHVSILQKRPPLEN*
+>P1;gi|5730328|emb|CAB52543.1| envelope protein [Simian T-lymphotrop... [ score 138 E 3e-32 ] [ range 48 .. 132 ]
+sequence
+SMSLASGRSLLHEVDKDISQLTQAIVKNHKNLLKIAQYAAQNRRGLDLLLWEQGGVCKALQEQCCFLNIT
+NSHVSILQERPSLEN*
+>P1;gi|2138269|gb|AAC57873.1| envelope glycoprotein [Human T-cell ly... [ score 137 E 6e-32 ] [ range 48 .. 132 ]
+sequence
+SMSLASGKSLLHEVDKDISQLTQAIVKNHKNLLKIAQYAAQNRQGLNLLFWEQGKLCKALQEQCCFLNIT
+NSHVSILQEKPPLEN*
+>P1;gi|28927670|gb|AAF81698.2| envelope glycoprotein [Fowlpox virus] [ score 131 E 4e-30 ] [ range 424 .. 505 ]
+sequence
+-VSVHTYHKLSNQLIEDVQALSGTINDLQDQIDSLAEVVLQNRRGLDLLTAEQGGICLALQEKCCFYGIV
+RDKIRKLQE------*
+>P1;gi|27228083|gb|AAN87146.1| envelope protein [Simian T-lymphotrop... [ score 130 E 6e-30 ] [ range 338 .. 421 ]
+sequence
+SLSLASSRSLLHEVDQDIDHLTRAIVKNHDNILRVAQYAAQNRRGLDLLFWEQGGLCKAIQEQCCFLNIS
+NTHVSVLQERPPLE-*
+>P1;gi|119420|sp|P06752|ENV_FLVSA ENV polyprotein precursor (Coat po... [ score 130 E 6e-30 ] [ range 473 .. 555 ]
+sequence
+-LETAQFRQLQIAMHTDIQALEESISALEKSLTSLSEVVLQNRRGLDILFLQEGGLCAALKEECCFYGLV
+RDNMAKLRER-----*
+>P1;gi|119504|sp|P04027|ENV_SRV1 ENV polyprotein precursor (Coat pol... [ score 130 E 1e-29 ] [ range 421 .. 502 ]
+sequence
+-VSLTQYTKLSHQLISDVQAISSTIQDLQDQVDSLAEVVLQNRRGLDLLTAEQGGICLALQEKCCFYGIV
+RDKIKNLQD------*
+>P1;gi|5306056|gb|AAD41892.1| envelope protein [Felis catus] [ score 129 E 1e-29 ] [ range 496 .. 574 ]
+sequence
+-----QFKQLQIAMHSDIQALEESISALERSLTSLSEVVLQNRRGLDLLFLQEGGLCAALKEECCFYGIV
+RDSMAKLRER-----*
+>P1;gi|1706658|sp|P51515|ENV_SRV2 ENV polyprotein (Coat polyprotein)... [ score 129 E 1e-29 ] [ range 409 .. 489 ]
+sequence
+--SITQYTKLSRQLISDVQAISSTIQDLQDQVDSLAEVVLQNRRGLDLLTAEQGGICLALQEKCCFYGIV
+RDKIKRLQE------*
+>P1;gi|1223782|emb|CAA61321.1| env protein [Simian T-lymphotropic vi... [ score 129 E 2e-29 ] [ range 339 .. 422 ]
+sequence
+SLSLASSKSLLREVDQDIDHLTRAIVKNHDNILRVAQYAAQNRRGLDLLFWEQGGLCKAIQEQCCFLNIS
+NTHVSVLQERPPLE-*
+>P1;gi|456914|gb|AAB29255.1| envelope glycoprotein [Human T-cell lym... [ score 129 E 2e-29 ] [ range 343 .. 419 ]
+sequence
+-------KVLLLEVDKDISHLTQAIVKNHQNILRVAQYAAQNRRGLDLLFWEQGGLCKAIQEHCCFLNIS
+NTHVSVLQERPPLE-*
+>P1;gi|5106407|gb|AAD39688.1| envelope protein [Human T-cell lymphot... [ score 129 E 2e-29 ] [ range 333 .. 416 ]
+sequence
+SLSLASSKSLLFEVDKDISHLTQAIVKNHQNILRVAQYAAQNRRGLDLLFWEQGGLCKAIQEQCCFLNIS
+NTHVSVLQERPPLE-*
+>P1;gi|535519|gb|AAA92680.1| env polyprotein [ score 129 E 2e-29 ] [ range 471 .. 553 ]
+sequence
+-VATQQFQQLQAAVHNDLKEVEKSITNLEKSLTSLSEVVLQNRRGLDLLFLKEGGLCAALKEECCFYGLV
+RDSMAKLRER-----*
+>P1;gi|13928578|dbj|BAB47170.1| envelope [Mus musculus castaneus] [ score 129 E 2e-29 ] [ range 501 .. 583 ]
+sequence
+-VATQQFKQLQAAMHTDLKAVEESITNLEKSLTSLSEVVLQNRRGLDLLFLKEGGLCAALKEECCFYGLV
+RDSMAKLRER-----*
+>P1;gi|6857789|ref|NP_034375.1| Friend virus susceptibility 4 [Mus m... [ score 128 E 3e-29 ] [ range 509 .. 591 ]
+sequence
+-VATQQFQQLQAAMHNDLKAVEESITNLERSLTSLSEVVLQNRRGLDLLFLKEGGLCAALKEECCFYGLV
+RDSMAKLRER-----*

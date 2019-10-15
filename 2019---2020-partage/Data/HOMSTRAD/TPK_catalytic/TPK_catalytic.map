@@ -1,0 +1,966 @@
+>P1;1ig3a
+structureX:1ig3:  10 :A: 178 :A:thiamin pyrophosphokinase:Mus musculus: 1.90: 21.4
+HSS-----------GLVPRGSHMEHAFTPLEPLLPTGNLKYCLVVLNQPLD---ARFRHLWKKALLRACA
+DGGANHLYDLTE---GERESFLPEFVSGDFDSIRPEVKEYYTKKGCDLISTPDQDHTDFTKCLQVLQRKI
+EEK--------------------------------------ELQVDVIVTLGGLGGRFDQIMASVNTLFQ
+ATHITP-VPIIIIQK*
+>P1;1ig0a
+structureX:1ig0:   3 :A: 223 :A:thiamine pyrophosphokinase:Saccharomyces cerevisiae: 1.80: 21.7
+EECIENPERIKIGTDLINIR----NKMNLKELIHPNEDENSTLLILNQKIDIPRPLFYKIWKLHDLKVCA
+DGAANRLYDYLDDDETLRIKYLPNYIIGDLDSLSEKVYKYYRKNKVTIIKQTTQYSTDFTKCVNLISLHF
+NSPEFRSLISNKDNLQSNHGIELEKGIHTLYNTMTESLVFSKVTPISLLALGGIGGRFDQTVHSITQLYT
+LSENASYFKLCYMTP*
+>P1;gi|21362110|ref|NP_071890.2| thiamin pyrophosphokinase 1; mouse ... [ score 267 E 5e-71 ] [ range 1 .. 158 ]
+sequence
+----------------------MEHAFTPLEPLLSTGNLKYCLVILNQPLD---NYFRHLWNKALLRACA
+DGGANRLYDITE---GERESFLPEFINGDFDSIRPEVREYYATKGCELISTPDQDHTDFTKCLKMLQKKI
+EEK--------------------------------------DLKVDVIVTLGGLAGRFDQIMASVNTLFQ
+ATHITP-FPIIIIQE*
+>P1;gi|30689827|ref|NP_850424.1| thiamin pyrophosphokinase, putative... [ score 192 E 2e-48 ] [ range 8 .. 162 ]
+sequence
+----------------------MIHSSSFLLPCDETCGTRYALVVLNQNLP---RFTPLLWEHAKLRLCA
+DGGANRIYDELP---VIRNRYKPDVIKGDMDSIRRDVLDFYVYWGTKVIESHDQDTTDLDKCISYIRHST
+LNQ--------------------------------------ESSRLQILATGALGGRFDHEAGNLNVLYR
+Y--------------*
+>P1;gi|30678415|ref|NP_849580.1| thiamin pyrophosphokinase, putative... [ score 189 E 1e-47 ] [ range 7 .. 162 ]
+sequence
+----------------------MIHSSSFLLPCDETSGTRYALVVLNQSLP---RFTPLLWEHAKLRLCA
+DGGANRIYDELP---AIRNRYKPDVIKGDMDSIRRDVLDFYINLGTKVIESHDQDTTDLDKCILYIRHST
+LNQ--------------------------------------ETSGLQILATGALGGRFDHEAGNLNVLYR
+Y--------------*
+>P1;gi|31043832|emb|CAA77455.2| Hypothetical protein ZK637.9 [Caenor... [ score 177 E 1e-43 ] [ range 1 .. 149 ]
+sequence
+----------------------MSKKLKPFE-ILEDSCASVCIWLNGEPIS---NRAENLWNKAKYRVAT
+DGAVNEILKRKS---FVE---WPHIICGDFDSINKQID----TKNAKVVHLPDQDYTDLSKSVQWCLEQK
+TLT--------------------------------------SWEFENIVVLGGLNGRFDHTMSTLSSLIR
+FVD-SQ-TPVIVL--*
+>P1;gi|19114203|ref|NP_593291.1| thiamine pyrophosphokinase [Schizos... [ score 170 E 1e-41 ] [ range 348 .. 483 ]
+sequence
+-----------------------------------DTDQKFAVLLLNQPID---IRFRTLWKRASIRVCA
+DGGANQLRNYD-------SSLKPDYVVGDFDSLTDETKAYYKEMGVNIVFDPCQNTTDFMKCHKII----
+--K--------------------------------------EHGIDTIFVLCGMGGRVDHAIGNLNHLFW
+AASISE-KNEVFL--*
+>P1;gi|6324717|ref|NP_014786.1| Thiamin pyrophosphokinase; Thi80p [S... [ score 162 E 3e-39 ] [ range 28 .. 231 ]
+sequence
+-----------------------------KELIHPNEDENSTLLILNQKID---PLFYKIWKLHDLKVCA
+DGAANRLYDYLD---DDRIKYLPNYIIGDLDSLSEKVYKYYRKNKVTIIKQTTQYSTDFTKCVNLISLHF
+NSP--------------------------------------EFRSLILLALGGIGGRFDQTVHSITQLYK
+LCYMTP-TDLIFLIK*
+>P1;gi|28571654|ref|NP_650110.3| CG14721-PA [Drosophila melanogaster... [ score 157 E 6e-38 ] [ range 71 .. 236 ]
+sequence
+----------------------MDHTIPPKEYKWTPGNLGHVCVVLNRQIQ---VPAKLLWKNAAVRCAV
+DGGSNHWRDFVV---AQAMSLEPDVITGDFDSITEETVDFFKT--TPKVHTPDQDATDFTKAMAVLQPVM
+TQR--------------------------------------KIQ--DVVVFHDTSGRLDQVMANLNTLYK
+S--------------*
+>P1;gi|42547686|gb|EAA70529.1| hypothetical protein FG02454.1 [Gibbe... [ score 153 E 1e-36 ] [ range 23 .. 146 ]
+sequence
+----------------------------------------FALLILNQPLK---NNLRKLWKNSSVRVAA
+DGGANRLHKLSS---FHGKYSNLQLIIGDLDSLTPTVRDFYSSQPAQIIRDADQESTDFSKAVNWIR---
+--K--------------------------------------EHSGIDIVALGGIGGRVDQGLSQLHHLY-
+---------------*
+>P1;gi|31205955|ref|XP_311929.1| ENSANGP00000010946 [Anopheles gambi... [ score 152 E 3e-36 ] [ range 76 .. 216 ]
+sequence
+------------------------------------------IVLLNRPIK---HYFTTLWNGAKVRVAV
+DGGTNRWVDWVK---GNSEHLLPDLVTGDFDSCNQEAMEYVEQLKCTIVHTPDQNATDFTKSLKVLKSHG
+YDK--------------------------------------QLS--RVLALCESSGRLDQIMANINTLYL
+ADGILP-GVDVFL--*
+>P1;gi|39585072|emb|CAE62723.1| Hypothetical protein CBG06882 [Caeno... [ score 149 E 2e-35 ] [ range 2 .. 136 ]
+sequence
+-------------------------------------STSVCIWLNGEPIG---KRAENLWNSAKYRVAT
+DGAINAILKRKE---SVE---WPHVICGDFDSMEAGID----TRNAKLLHLPDQDHTDLTKTIQWCLEQL
+SEN--------------------------------------QWKFEGILVLGGLNGRFDHTMSTLSTLIH
+FKAMTP-IIVV----*
+>P1;gi|34907130|ref|NP_914912.1| putative thiamine pyrophosphokinase... [ score 145 E 3e-34 ] [ range 13 .. 129 ]
+sequence
+-------------------------TSSPHPPPADDASAAYAVVVLNQRLP---RFAPLLWDRARLRVCA
+DGGANRVFDGMP---EVRMRYKPDVIKGDMDSIRPEVKEYYSNLGAEIVESHDQDTTDLHKCVSFITR--
+----------------------------------------------------------------------
+---------------*
+>P1;gi|40747618|gb|EAA66774.1| hypothetical protein AN9488.2 [Asperg... [ score 138 E 4e-32 ] [ range 19 .. 146 ]
+sequence
+----------------------------------------FVLLVLNQPIE---TALAVLWKH-------
+DGGANRFFEWTK---GRENDDLPTTIVGDMDSARSEVRTHYSNLGVNIVQDGDQYTTDFTKSLRYIRKHE
+SDI--------------------------------------LSSALSILILGGLGGRVDQAFSQVHHLY-
+---------------*
+>P1;gi|43554902|gb|EAE32232.1| unknown [environmental sequence] [ score 137 E 1e-31 ] [ range 7 .. 115 ]
+sequence
+----------------------------------------------NPPPK---SLLYQLWEKTTYRVAA
+DGGANLLV---------KSKCMPDTVIGDFDSLKTKTRE--KMPNTKFLYIPEQDTNDADKAVRHCLK--
+------------------------------------------LGFKEIHLLSADGGRQDQFLSGLEILFK
+YSK------------*
+>P1;gi|32407579|ref|XP_324301.1| hypothetical protein [Neurospora cr... [ score 137 E 1e-31 ] [ range 57 .. 193 ]
+sequence
+----------------------------------------FALVVLNQPLT---HLVKRLWKNASIRVAA
+DGGANCLYDVKN---GDHDFDDLTAIIGDLDSLTTETRTYFTASQTAIIHEPSQYSTDFAKSVDYLRPSC
+SKP--------------------------------------DAPPPDIVAIGGLGGRVDQGLSQLHHLY-
+---------------*
+>P1;gi|43050982|gb|EAB91900.1| unknown [environmental sequence] [ score 136 E 1e-31 ] [ range 2 .. 117 ]
+sequence
+-----------------------------------------ALIVCNGPPK---SLLYKLWEKTTYRVAA
+DGGANLLV---------KSKCMPDTVIGDFDSLKSKTRE--KMPSTKFLYIPEQDTNDADKAVRHCLK--
+------------------------------------------LGFKEIHLLSADGGRQDQFISGLEILFK
+YSK------------*
+>P1;gi|43421135|gb|EAD68966.1| unknown [environmental sequence] [ score 133 E 1e-30 ] [ range 2 .. 114 ]
+sequence
+-------------------------------------------IVCNGPPK---SLLYQLWEKTTYHVAA
+DGGANLL---------AKRKYMPDAVVGDFDSLDSKIRE--KMPNTKFLHIPEQETNDADKSVRHCLK--
+------------------------------------------LGFKEIHLLSADGGRLDQFLSGLEILFK
+YS-------------*
+>P1;gi|43554826|gb|EAE32190.1| unknown [environmental sequence] [ score 131 E 6e-30 ] [ range 1 .. 114 ]
+sequence
+---------------------------------------MYVTAIL--PQK---ACFTIYREKTTYRVAA
+DGGANLLV---------KRKCMPDAVIGDFDSLKSKTRE--KMPNTKFLYIPEQDTNDADKAVSHCLK--
+------------------------------------------LGFKEIHLLSADGGRQDQFLSGLEILFK
+YSK------------*
+>P1;gi|45198905|ref|NP_985934.1| AFR387Cp [Eremothecium gossypii] >g... [ score 119 E 2e-26 ] [ range 62 .. 244 ]
+sequence
+--------------------------------------ERSALLILNQELR---LFLQALWDSSGICVCA
+DGGANRLHDFFI---DERERHLPAYIVGDLDSLRDDVRAFYEGHGVVVLEQSTQYASDLMKSVQVSSLHF
+NHE--------------------------------------PFRALRLLVLNAIDGRFDHSVAQMYTLLT
+LFYITP-TDLLFL--*
+>P1;gi|20807940|ref|NP_623111.1| Thiamine pyrophosphokinase [Thermoa... [ score 119 E 3e-26 ] [ range 3 .. 116 ]
+sequence
+-----------------------------------------VLIISNGEIK---GFYKNIVEEVDMVICA
+DGGANHAY---------KMKIRPFLIIGDFDSVDREVLEFYQKEGVKVEKFPTKDETDTQLALK------
+KAI--------------------------------------ELGAKDITFIGVIGDRFDHSYANLSLL--
+---------------*
+>P1;gi|34762325|ref|ZP_00143328.1| Thiamin pyrophosphokinase [Fusoba... [ score 119 E 4e-26 ] [ range 1 .. 130 ]
+sequence
+--------------------------------------MKIAYLFLNGELR---GSKKFYLKNMGDIYCA
+DGGANICYEL---------GLTPKEIYGDLDSIKNEVKEFYQEKNIKFIKFQEKDYTDSELILNEIQNK-
+--------------------------------------------YNVIYCIAGLGGSIDHELTNINLLDK
+YSNL-----IFISQK*
+>P1;gi|38104819|gb|EAA51330.1| hypothetical protein MG09347.4 [Magna... [ score 118 E 4e-26 ] [ range 6 .. 105 ]
+sequence
+---------------------------------------------------------------ASFRVAA
+DGGANQLLEASR---DLANNL--DVIIGDLDSFTASSAEFYSSSPPQVIKITEQESTDFSKAVTHIRSRT
+DKP--------------------------------------S----DIVAIGGLGGRVDQGLSQMHHL--
+---------------*
+>P1;gi|42520348|ref|NP_966263.1| conserved hypothetical protein [Wol... [ score 117 E 1e-25 ] [ range 21 .. 144 ]
+sequence
+------------------------------------------IVVLNGKIP---SS--SFFKRDIPIIAV
+DGGANKLLSI---------GVKPDLVVGDLDSVNLDLRA-----NLNTIYLPDQDYCDFSKAMAHL----
+--K--------------------------------------TVKLLPSIVTGITGGAIDHILQNINIFLS
+TGSITP-SPPMVLQK*
+>P1;gi|15895008|ref|NP_348357.1| Predicted nucleotide-binding protei... [ score 113 E 1e-24 ] [ range 3 .. 118 ]
+sequence
+-----------------------------------------VVVISGGKMP---SLLRSEIENCDYIICA
+DSGANCLH---------KYEIRPDMLLGDFDSIDEEVFNYFKEFHINTIKFPEKDFTDTELAFREALK--
+------------------------------------------LSADEICFLGCTGTRLDHIFGNLGLLYR
+---------------*
+>P1;gi|43324575|gb|EAD27951.1| unknown [environmental sequence] [ score 112 E 4e-24 ] [ range 1 .. 91 ]
+sequence
+-------------------------------------------------------------------VAA
+DGGANFLYSL---------NLLPDAIVGDLDSLKPEIRKKFSNS--ILHKIKEQNTNDADKAVRHCLKR-
+-------------------------------------------GFSKINFVGADGARQDQFLSNLEILFK
+YTS------------*
+>P1;gi|23480706|gb|EAA17193.1| Arabidopsis thaliana At1g02880/F22D16... [ score 108 E 4e-23 ] [ range 26 .. 109 ] [ duplicate b ]
+sequence
+----------------------------------TNDNGKFITIILNNVLC---KNSSKILNKSDILICA
+DGGANRLYNLYK---DIDK----------LENINNDKNEYLNCENIKKNETETKLSNLFNKTIE------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|23613761|ref|NP_704782.1| hypothetical protein [Plasmodium fa... [ score 108 E 6e-23 ] [ range 214 .. 291 ]
+sequence
+----------------------------------------------------------------------
+--------------------ILPDFICGDFDSIYPHVYKHYKNKGVLFEKCQNQENTDLDKCIEKIKPYI
+YEN------------------------------------------DKILVLGATGNRFDQTCANISSLYK
+---------------*
+>P1;gi|28210916|ref|NP_781860.1| thiamin pyrophosphokinase [Clostrid... [ score 105 E 3e-22 ] [ range 3 .. 117 ]
+sequence
+-----------------------------------------ALIVCGGPEK---ELLLEELKDSDIIIAA
+DKGAEALY---------KCNIKPNFIVGDFDSIDENILNYYRKNNINLNAFPEKDFTDSEAAV------I
+KAI--------------------------------------NMGTHKIALLGCTGSRLDHVLSNINLLY-
+---------------*
+>P1;gi|19704225|ref|NP_603787.1| Thiamin pyrophosphokinase [Fusobact... [ score 105 E 5e-22 ] [ range 1 .. 130 ]
+sequence
+--------------------------------------MKIAYLFLNGELK---NFYLDFIKNHKGDICA
+DGGANFCYELT---------LIPKEIYGDLDSIKDEVKEFYQEKVKFIKFKIEKDYTDSELLLNEIQNK-
+--------------------------------------------YDVIYCIAGLGGSIDHELTNINLLAK
+YSNL-----IFISEK*
+>P1;gi|43762355|gb|EAF35628.1| unknown [environmental sequence] [ score 101 E 5e-21 ] [ range 23 .. 115 ]
+sequence
+-------------------------------------------------------------------VAA
+DGGANFL---------KNGKHIPAYIVGDFDSVR-DIKK-WASKGTKIFKIAEQYSTDFEKCIRIIK---
+--------------------------------------------APKFICLGFANERLDHFLAVCSALIN
+SNK-----PIFIL--*
+>P1;gi|34536149|dbj|BAC87556.1| unnamed protein product [Homo sapiens] [ score 99 E 5e-20 ] [ range 43 .. 115 ]
+sequence
+----------------------------------------------------------------------
+--GASKGLGNSF---IGNESFLPEFINGDFDSIRPEVREYYATKGCELISTPDQDHTDFTKCLKMLQKKI
+EEK--------------------------------------DLKGK------------------------
+---------------*
+>P1;gi|43294940|gb|EAD13277.1| unknown [environmental sequence] [ score 98 E 7e-20 ] [ range 6 .. 121 ]
+sequence
+-----------------------------------------ALILCNGEPP---LLFRH-WNASDLQIAA
+DGGANFL---------ESHGLKPKIIIGDLDSLDDQILS--KVSPDSIVHVEEQQTNDADKAISYCLEK-
+-------------------------------------------GAKSVHLLGAAGKRLDQFLANLEVMHK
+YSS------------*
+>P1;gi|43253586|gb|EAC92495.1| unknown [environmental sequence] [ score 98 E 7e-20 ] [ range 6 .. 121 ]
+sequence
+-----------------------------------------VLILCNGEPP---LLFRH-WNASDLQIAA
+DGGANFL---------ESHGLKPKIIIGDLDSLDDHIRSGVS--PDSIVHVEEQQTNDADKAIRYCLEK-
+-------------------------------------------GAKSVHLLGAAGKRLDQFLANLEVMHK
+YSS------------*
+>P1;gi|44428608|gb|EAJ20306.1| unknown [environmental sequence] [ score 94 E 1e-18 ] [ range 6 .. 121 ]
+sequence
+-----------------------------------------VLILCNGEPP---LLFRH-WNASDLQIAA
+DGGANFL---------ESHGLKPKIIIGDLDSLDDQIRSGVS--PDSIVHVEEHQTNDADKAIRYCMEK-
+-------------------------------------------GAKSVHLLGAAGKRLDQFLANLEVMHK
+YSS------------*
+>P1;gi|43185136|gb|EAC58133.1| unknown [environmental sequence] [ score 93 E 2e-18 ] [ range 16 .. 133 ]
+sequence
+------------------------------------------------PVH---SDTRKKLQEAATLICV
+DGGADKVISL---------GLKPDIILGDLDSVVKDEKHY----QCPVISLKDQSKNDLEKSLQWCIKQ-
+-------------------------------------------NISEIDLIGFFGGRDDQYLVTMEIVIR
+MTSYTN-FSII----*
+>P1;gi|34915046|ref|NP_918870.1| putative thiamin pyrophosphokinase ... [ score 93 E 3e-18 ] [ range 4 .. 210 ]
+sequence
+----------------------MVHSSTFLLPLHQPANSKYALVVLNQNLP---RFVPRLWTHGISRICA
+DGGANRLYSLLE---ISISSGVPFDMLCDLNAINSTYGHIQAKKGSKISKSHNQETTDLHKCISRIHRCT
+PDH--------------------------------------EKTNLCVLVTGALGGRFDHEAANINILYL
+FSDM-----------*
+>P1;gi|42857361|gb|EAA95949.1| unknown [environmental sequence] [ score 86 E 3e-16 ] [ range 5 .. 110 ]
+sequence
+-------------------------------------------VILNGPIN---NTLINKINNSDYIIAV
+DGSANKLFDL---------EIIPDVIIGDLDSFQN-----VNNKNIELVETPDQNKTDFRKTLEWCIEK-
+-------------------------------------------NILNISIFGISGESEDHFLGNYYTL--
+---------------*
+>P1;gi|22973024|ref|ZP_00019870.1| hypothetical protein [Chloroflexu... [ score 86 E 4e-16 ] [ range 2 .. 118 ]
+sequence
+--------------------------------------MTYTVIVANAPID---TPYQRLLTLADRLIAA
+DGGGTALF---------AGGYTPHVIIGDLDSIAAEALTAYQAQGVAIEHRPDKDETDLE------LALL
+AAA--------------------------------------AMGATRIDVIGALGGRWDQSLANVMLL--
+---------------*
+>P1;gi|29347807|ref|NP_811310.1| conserved hypothetical protein [Bac... [ score 84 E 1e-15 ] [ range 10 .. 122 ]
+sequence
+-----------------------------------------AVILANGPAH---ELPLRLLAEAQFVVCC
+DGAAN------E---YISRGHTPDVIIGDGDSLLPEYKKRFSS---IILQISDQETNDQTKAVHYLQSK-
+-------------------------------------------GIRKIAIVGATGKREDHTLGNISLLVE
+Y--------------*
+>P1;gi|16803857|ref|NP_465342.1| weakly similar to thiamin pyrophosp... [ score 83 E 2e-15 ] [ range 29 .. 129 ]
+sequence
+-------------------------------------------------------------------IGV
+DRGAKRLLD---------RGIIPTIAMGDFDSLSKEELTYLKTKVADVLEFPEKDETDTEIGLSWAMEQ-
+-------------------------------------------KPDKIRIFGATGGRLDHLLANLMMLTK
+PKFLSA-VPVV----*
+>P1;gi|44660366|gb|EAK79578.1| unknown [environmental sequence] [ score 82 E 4e-15 ] [ range 7 .. 109 ]
+sequence
+------------------------------------------------PSH---PIARNHLKNNKIVICT
+DGAADKLLDIGK---------KPDFIIGDFDS----TKIKRSNRSENWIETPDQNKTDLEKAFEWCIKN-
+-------------------------------------------NIKKIILLGAGGGREDHLFGNSFTLAN
+Y--------------*
+>P1;gi|43762710|gb|EAF35814.1| unknown [environmental sequence] [ score 82 E 6e-15 ] [ range 2 .. 100 ]
+sequence
+--------------------------------------------------------FKEVYDNEIPIIAA
+DGGANFLTE---------KNISPELIIGDLDSVSEQ--KIQSMETQKFIKISDQHTTDFEKVLL------
+-----------------------------------------NTESPLTIGIGFLGSRIDHELAALSALVK
+FSH------------*
+>P1;gi|44432695|gb|EAJ23160.1| unknown [environmental sequence] [ score 81 E 9e-15 ] [ range 9 .. 114 ]
+sequence
+-------------------------------------------VILNGQMP---TDDTIINQNSDFIIAV
+DGSANKLFDL---------KIIPDVIIGDLDSLQN-----IENKDIELIEAPDQNKTDFRKTLEWCIEK-
+-------------------------------------------NILNISIFGISGESEDHFLGNYYTL--
+---------------*
+>P1;gi|16800997|ref|NP_471265.1| weakly similar to thiamin pyrophosp... [ score 80 E 2e-14 ] [ range 29 .. 129 ]
+sequence
+-------------------------------------------------------------------VGV
+DRGAKRLLD---------RGIVPTVAMGDFDSLTKEELAHLKTKVADVHEFPEKDETDTEIGLSWAMEQ-
+-------------------------------------------KPDKIRIFGATGGRLDHLLANLMMLTK
+PRFLDA-VPVV----*
+>P1;gi|22957678|ref|ZP_00005371.1| COG1564: Thiamine pyrophosphokina... [ score 79 E 3e-14 ] [ range 5 .. 126 ]
+sequence
+------------------------------EPIVE-STEGVTLVAGGPVTR---RDLALALARAPHLVAA
+DGGGD------T---ALRLGHMPRAVIGDMDSLSSEGR---ATLAGRVHHLAEQESTDFDKCLRNIR---
+--------------------------------------------APFVLALGVAGARIDHGLAVMNGLVQ
+RPDVT----------*
+>P1;gi|44587534|gb|EAK29907.1| unknown [environmental sequence] [ score 79 E 3e-14 ] [ range 12 .. 123 ]
+sequence
+-----------------------------------------AVILANGPSH---PIAINYLENNKIIICT
+DGAADKLLGIGK---------KPDFIIGDFDS----TKIKRVNRSGNWIEKPDQNKTDLEKAFDWCIKN-
+-------------------------------------------NFKKIILLGAGGGREDHLFGNSFTLAN
+Y--------------*
+>P1;gi|44389324|gb|EAI92861.1| unknown [environmental sequence] [ score 78 E 7e-14 ] [ range 13 .. 118 ]
+sequence
+-----------------------------------------------PPTH---PLVLRYINEAKTYICL
+DGGVDTLITL---------GHKPDYVLGDLDSIKRSEDEY----DCQIISLEDQSMTDLEKSILWCY---
+-----------------------------------------ENAIKELYLIGVSGLRDDHSMATFWILLK
+FAG------------*
+>P1;gi|18310717|ref|NP_562651.1| conserved hypothetical protein [Clo... [ score 77 E 1e-13 ] [ range 3 .. 114 ]
+sequence
+-----------------------------------------VLIIAGGEKP---SLLKSEIKECDLLIAA
+DRGAEAYLE---------NGFTPDYALGDFDSIGEEYKDILDK--IKVEKFPEKDNTDTEIAF------F
+KAV--------------------------------------ELGATEIVFLGVTGTRLDHVMANLGLL--
+---------------*
+>P1;gi|44548240|gb|EAK02299.1| unknown [environmental sequence] [ score 77 E 1e-13 ] [ range 16 .. 114 ]
+sequence
+---------------------------------------------------------RDKLEEYDYVIGV
+DSGTEYLYKL---------FLIPDLIIGDLDSINSKTLNRAKKDKAEIIYEVDKDKTDFELALNYLKINN
+YKN--------------------------------------------ITIIGGESGELDHLFGNLLTL--
+---------------*
+>P1;gi|43366063|gb|EAD47841.1| unknown [environmental sequence] [ score 77 E 2e-13 ] [ range 7 .. 109 ]
+sequence
+------------------------------------------------PSH---PIAMNHLENNKIVICT
+DGAADKLLNIGK---------KPNFIIGDFDSTKIKRLNRSENW----IETPDQNKTDLEKAFDWCIKN-
+-------------------------------------------NIKKIILLGAGGGREDHLFGNSFTLAN
+Y--------------*
+>P1;gi|44591355|gb|EAK32716.1| unknown [environmental sequence] [ score 76 E 4e-13 ] [ range 20 .. 111 ]
+sequence
+-------------------------------------------------------------EKFDYIVAV
+DSGAEHAYKL---------FLKPDLIIGDLDSISTKTYDRVNKDKIEILEYKDKDYTDFEIALSHI----
+--I--------------------------------------DLKIKDVTVIGGEYGDIDHLFGSL-----
+---------------*
+>P1;gi|23098967|ref|NP_692433.1| hypothetical protein OB1512 [Oceano... [ score 75 E 5e-13 ] [ range 24 .. 120 ]
+sequence
+--------------------------------------------------------------EVDFWIGA
+DRGALYL---------AESNLNIDIALGDFDSVSDEEKQKINKHAKKVLYSTEKNYTDLELAIQIAS---
+-----------------------------------------DLQVDRILLFGVTGGRLDHELMNIQLLYR
+L--------------*
+>P1;gi|26333061|dbj|BAC30248.1| unnamed protein product [Mus musculus] [ score 75 E 7e-13 ] [ range 1 .. 39 ]
+sequence
+----------------------MEHAFTPLEPLLPTGNLKYCLVVLNQPLD---ARFRHLWKKV------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|44265442|gb|EAI06717.1| unknown [environmental sequence] [ score 74 E 9e-13 ] [ range 16 .. 111 ]
+sequence
+---------------------------------------------------------RDKLEKYDYVIGV
+DSGTEYLYKL---------FLIPNLIIGDLDSINSKTLDRARKDKAEIIYEIDKDKTDFELALNYLKINN
+YQN--------------------------------------------ITIIGGESGELDHLFGNL-----
+---------------*
+>P1;gi|43285104|gb|EAD08366.1| unknown [environmental sequence] [ score 74 E 1e-12 ] [ range 2 .. 100 ]
+sequence
+--------------------------------------------------------FKEVYDNEIPIIAA
+DGGANFLTE---------KNISPELVIGDLDSVSEQ--QIQNIEPEKIIRISEQDSTDLEKVLF------
+-----------------------------------------NTQSPLTIGIGFLGSQIDHELAALSALVK
+FSH------------*
+>P1;gi|44559998|gb|EAK10626.1| unknown [environmental sequence] [ score 74 E 2e-12 ] [ range 10 .. 123 ]
+sequence
+----------------------------------------FTILANGEPNH---SLPLQILHESKTIICT
+DGSANTLID---------KGIYPSVIIGDMDSVQIDNKAFSG----QFIKDSNQENTDLEKAFEWCIKN-
+-------------------------------------------NVKTINVLGASQKREDHSIGNLYLLST
+YCD------------*
+>P1;gi|44343785|gb|EAI60291.1| unknown [environmental sequence] [ score 73 E 2e-12 ] [ range 1 .. 111 ]
+sequence
+--------------------------------------MKNALIINGGNNT---TNRDQI-GEFDYIVAV
+DSGAEHAYKL---------FLKPDLIIGDLDSISTKTYDRVTKDKIEILEYKDKDYTDFEIALNHV----
+--I--------------------------------------NLKIKDITVIGGEYGDIDHLFGAL-----
+---------------*
+>P1;gi|43774343|gb|EAF41646.1| unknown [environmental sequence] [ score 73 E 3e-12 ] [ range 6 .. 104 ]
+sequence
+------------------------------------------------PLD---KSLIQKISSSDYIIAV
+DGSANQL---------NKLGILPNVVIGDFDSIKP-----FDDSNVEFVEANDQSKTDFRKTLEWCVEKI
+--------------------------------------------FQRYLFMEYQGKSEDHFLSNYYTL--
+---------------*
+>P1;gi|28378322|ref|NP_785214.1| unknown [Lactobacillus plantarum WC... [ score 72 E 6e-12 ] [ range 28 .. 114 ]
+sequence
+-------------------------------------------------------------------VGA
+DRGALRLV---------KRGIQPVMVVGDFDSIDAAELQTVKDAGAIVVK-PDQDHTDTQLAIKSI----
+-FE--------------------------------------QLQPDEVHLYGATGGRLDHLLANM-----
+---------------*
+>P1;gi|43258826|gb|EAC95084.1| unknown [environmental sequence] [ score 71 E 8e-12 ] [ range 9 .. 128 ]
+sequence
+------------------------------------------IVILNGPLH---DYPHDILLSAGTVICT
+DGSANYL---------KSINLEPHVIIGDFDSIKAK-----GSFKGLMIQDPNQNNTDLEKAIEWLIMN-
+-------------------------------------------SINEVIILGVMGLREDMAIANLSIL--
+SNYFKK-INLIII--*
+>P1;gi|43270794|gb|EAD01154.1| unknown [environmental sequence] [ score 71 E 9e-12 ] [ range 29 .. 125 ]
+sequence
+------------------------------------------------------------------IICT
+DGSADKL---------EEHGIPPKIIIGDFDSAKI----IHKKSEALWIERPDQNKTDLEKAFEWCLSK-
+-------------------------------------------NIKKIILLGAGGIREDHMLGNLFVVSK
+FSDIFE-IEVI----*
+>P1;gi|16078643|ref|NP_389462.1| yloS [Bacillus subtilis] >gi|747517... [ score 71 E 2e-11 ] [ range 23 .. 119 ]
+sequence
+-------------------------------------------------------------DEHTLWIGV
+DKGTVTLLD---------AGIIPVEAFGDFDSITEQERRRIEKAAPALVYQAEKDQTDLDLALDWALEK-
+-------------------------------------------QPDIIQIFGITGGRADHFLGNIQLLYK
+---------------*
+>P1;gi|43177654|gb|EAC54403.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 22 .. 107 ]
+sequence
+------------------------------------------------------------------IVAA
+DGGANTCLQY---------GVKPDAVIGDLDSIEETSK--VQIEDDRIHFVSSQDDTDFEKSLNRI----
+-------------------------------------------NAPLIIGVGFLGDRVDHQMAVQTALIK
+---------------*
+>P1;gi|43498927|gb|EAE04290.1| unknown [environmental sequence] [ score 70 E 2e-11 ] [ range 10 .. 111 ]
+sequence
+----------------------------------------VALVVNGEPKK---QSILEKIKESKVIIAT
+DGAANLL---------SQHGINPHYVIGDLDSINDH--NHY-----NIIEISDQSKTDLEKALDWC----
+--I--------------------------------------DNNYLNLSIFGMSGKSEDHFLGN------
+---------------*
+>P1;gi|44328450|gb|EAI49500.1| unknown [environmental sequence] [ score 69 E 3e-11 ] [ range 7 .. 106 ]
+sequence
+------------------------------------------ILFGNGEIP---SHVLNKIKGVGTIICL
+DGGTDKLIKL---------GYKPTCIIGDLDSLSKKPEDY----GCEFIALPEQSKNDLEKGLEWCLDK-
+-------------------------------------------GIKDISLIGFSGLRDDH----------
+---------------*
+>P1;gi|42782951|ref|NP_980198.1| conserved hypothetical protein [Bac... [ score 69 E 5e-11 ] [ range 15 .. 118 ]
+sequence
+------------------------------------------------------ADFSPYENEKVVWAAV
+DRGVYRLL---------KRGIIPAVAFGDYDSVTEEELA-WMGQQTNDLHIVEKDQTDLEIAINWALEQ-
+-------------------------------------------KPALIRIFGATGGRLDHGLANIQMLLK
+---------------*
+>P1;gi|45532078|ref|ZP_00183095.1| hypothetical protein Exigu151001 ... [ score 68 E 6e-11 ] [ range 15 .. 109 ]
+sequence
+------------------------------------------------------PSLQPFMEEKPVVIAV
+DGG------VTV---LAQQGLAFDLAIGDFDSL------GYKPEGA-IIHPAEKDETDLELALRYVSQHY
+EAT--------------------------------------E-----VLVFGATGGRLDMTLQNVYLL--
+---------------*
+>P1;gi|44515266|gb|EAJ79732.1| unknown [environmental sequence] [ score 68 E 8e-11 ] [ range 36 .. 120 ]
+sequence
+-------------------------------------------------------------------VAA
+DGGANICLQY---------GVKPKAVIGDLDSIEETSKVQIDEDSIHFVSS--QDDTDFEKSLKRI----
+-------------------------------------------NAPLILGVGFLGDRVDHQMAVQTALVK
+---------------*
+>P1;gi|21401842|ref|NP_657827.1| hypothetical protein predicted by G... [ score 68 E 8e-11 ] [ range 15 .. 118 ]
+sequence
+------------------------------------------------------ADFSRYENEKVVWAAV
+DRGVYRLL---------KGGITPAVAFGDYDSVTEEEL-VWMGQQTNDLHIVEKDQTDLEIAINWALEQ-
+-------------------------------------------KPALIRIFGATGGRLDHGLANIQMLLK
+---------------*
+>P1;gi|44540996|gb|EAJ97249.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 3 .. 110 ]
+sequence
+---------------------------------------KLAVLVANGQRP---NHPKILLKDAEEIICV
+DNG----YEIV-----QKLNIVPSVLIGDLDSVNLDS----VNQNVEVIKKENQNLSDLEKALHYCIEK-
+-------------------------------------------NFTKIYLIGSTGLRDDHNLANL-----
+---------------*
+>P1;gi|43013569|gb|EAB73568.1| unknown [environmental sequence] [ score 67 E 1e-10 ] [ range 3 .. 125 ]
+sequence
+---------------------------------------KSAVLIANGKVS---NYVKKIIDSNDYFISI
+DAKSENLKEL---------GVQPNLILGDLDSATIDDLD----SKIEVIELSDQNKTDLEKTLDYC----
+--K--------------------------------------ENSIKKVVILGSSGLREDHSMANVLIAST
+YSDILQ-IELI----*
+>P1;gi|42944310|gb|EAB39178.1| unknown [environmental sequence] [ score 67 E 2e-10 ] [ range 7 .. 78 ]
+sequence
+----------------------------------------------------------------------
+-----------------------HTVIGDFDSISKRTLNLLKNKPCHIQHQSCQQSTDCEKAIQYCL---
+-----------------------------------------ALGATEIVLLGATGGRMDHTYHHLQLL--
+---------------*
+>P1;gi|44555189|gb|EAK07190.1| unknown [environmental sequence] [ score 67 E 2e-10 ] [ range 3 .. 125 ]
+sequence
+---------------------------------------KSAVLIANGNVS---NYVKKVIDSNDYFISI
+DAKSENLKEL---------GVQPNLILGDLDSAAIDELD----SKIEVVELSDQNKTDLEKSLDYC----
+--K--------------------------------------ENSIKKVVILGSTGLREDHSMANVLIAST
+YSDILQ-IELI----*
+>P1;gi|44276130|gb|EAI13998.1| unknown [environmental sequence] [ score 67 E 2e-10 ] [ range 30 .. 114 ]
+sequence
+------------------------------------------------------------------IICL
+DGGTDKLIKL---------GYKPTCIIGDLDSLAKKPEDY----GCKLITLPEQSKNDLEKGLEWCLDK-
+-------------------------------------------GIKDITLVGFSGLRDDHNAAALFSL--
+---------------*
+>P1;gi|29377573|ref|NP_816727.1| thiamin pyrophosphokinase family pr... [ score 66 E 3e-10 ] [ range 24 .. 113 ]
+sequence
+----------------------------------------------------------------DYFVGI
+DRGCLHLLE---------ADLPLQLAVGDFDSLSREEYHFVQETTETLIQAPEKDDTDTQLALQEALQRF
+PQA--------------------------------------EMT-----IIGATGGRIDHLLANL-----
+---------------*
+>P1;gi|22537914|ref|NP_688765.1| conserved hypothetical protein [Str... [ score 66 E 4e-10 ] [ range 20 .. 109 ]
+sequence
+----------------------------------------------------------------DYFVGI
+DRGSLFLL---------KNGLSLDMAVGDFDSITEDELLYIKHYCSNIVSSAEKNDTDTELALKTI----
+-FK--------------------------------------EFPEAQVTVFGAFGGRIDHMMSNI-----
+---------------*
+>P1;gi|30021947|ref|NP_833578.1| Thiamin pyrophosphokinase [Bacillus... [ score 65 E 5e-10 ] [ range 3 .. 93 ]
+sequence
+-------------------------------------------------------------------AAV
+DRGVYRLL---------KKGITPAVAFGDYDSVTEEEL-VWMGQQTNELHIVEKDQTDLEIAINWALGQ-
+-------------------------------------------KPALIRIFGATGGRLDHGLANIQMLLK
+---------------*
+>P1;gi|42933705|gb|EAB33871.1| unknown [environmental sequence] [ score 65 E 6e-10 ] [ range 1 .. 91 ]
+sequence
+----------------------------------------------------------------------
+DGG------LHT---ALASNLQPCAVFGDMDSVTLDRLD----PAVEIIHQKGQDDTDFEKCLKLI----
+-------------------------------------------HAPLIIGFGFLGARHDHMLAALNTLAS
+LSDSRP-IILV----*
+>P1;gi|15645904|ref|NP_208083.1| conserved hypothetical protein [Hel... [ score 65 E 7e-10 ] [ range 3 .. 113 ]
+sequence
+-----------------------------------------AVILANGEFP---KSQKDLLKNAPFLIAC
+DGAVTSLHAL---------QFKPSVVIGDLDSIDSHLKALY-----NPIRMSEQNSNDLSKAFFYALNK-
+-------------------------------------------GCDDFIFLGLNGKREDHALANTFLLLE
+Y--------------*
+>P1;gi|43914375|gb|EAG12052.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 26 .. 110 ]
+sequence
+------------------------------------------------------------------IIAV
+DSGIEHLLNL---------SLNPNTLIGDLDSISKKSLDEVKKNGVKILAFSNKDQTDFELALNYL----
+--E--------------------------------------EAEKSKVYIIGGESGEIDHLIS-------
+---------------*
+>P1;gi|43210548|gb|EAC70813.1| unknown [environmental sequence] [ score 64 E 1e-09 ] [ range 12 .. 99 ]
+sequence
+--------------------------------------------------------------------CV
+DGGADKLM---------QMGYTPDIILGDMDSVAQK-REQY---NCKIVPLENQSQNDMEKSLSWCV---
+-----------------------------------------DNGIKELDLFGFSYGRDDQHLASLIIMKN
+YSN------------*
+>P1;gi|15643650|ref|NP_228696.1| conserved hypothetical protein [The... [ score 63 E 2e-09 ] [ range 22 .. 119 ]
+sequence
+------------------------------------------------------------------IVAV
+DGGANYL---------RTRNIVPDFFIGDADSAKEETMEWLKQHGVTLKIFPEKDEIDLELALREFEEEE
+K-----------------------------------------------VVFGWKGDRLDMVLALFYLLRR
+FKNILE-SP------*
+>P1;gi|44526806|gb|EAJ87555.1| unknown [environmental sequence] [ score 63 E 3e-09 ] [ range 20 .. 92 ]
+sequence
+----------------------------------------------NHKIP---L---QILHESNTIICA
+DGAANTLI---------NKGISPNVIIGDMDSVSIDTKEYSGR----FIKDSNQENTDLEKAFEWCIK--
+----------------------------------------------------------------------
+---------------*
+>P1;gi|23003777|ref|ZP_00047425.1| COG1564: Thiamine pyrophosphokina... [ score 63 E 3e-09 ] [ range 27 .. 125 ]
+sequence
+-------------------------------------------------------------KKGALIMAS
+DRGSLFLLEL---------GIVPDVALGDYDSLTNHERQLVESKVKDMRYSPVKDFTDSE-----MLYYA
+AFI--------------------------------------DYRVDDLIVYGATGGRLDHFLVNMYAVLK
+A--------------*
+>P1;gi|15612276|ref|NP_223929.1| putative [Helicobacter pylori J99] ... [ score 62 E 3e-09 ] [ range 3 .. 113 ]
+sequence
+-----------------------------------------AVILANGEFP---KSKKCLLQNAPFLIAC
+DGAVISLHAL---------QFKPSVVIGDLDSIDSHLKALY-----NPIRVSEQDSNDLSKAFFYALNR-
+-------------------------------------------GCDDFIFLGLNGKREDHALANTFLLLE
+Y--------------*
+>P1;gi|24378850|ref|NP_720805.1| conserved hypothetical protein [Str... [ score 62 E 4e-09 ] [ range 20 .. 109 ]
+sequence
+----------------------------------------------------------------DYFVGI
+DKGSSFLL---------KNQLPLDLAIGDFDSVSAEEFKQIKAKAKKLVMAPEKNDTDTELALKTI----
+-FD--------------------------------------CFGRVEIIVFGAFGGRIDHMLSNI-----
+---------------*
+>P1;gi|44373897|gb|EAI81654.1| unknown [environmental sequence] [ score 62 E 5e-09 ] [ range 5 .. 94 ]
+sequence
+----------------------------------------------------------------------
+---------LSF---FKELDVEPDVIIGDLDTVEINT----ASPKSTIVNEENQNKTDLEKSLDYCIAQ-
+-------------------------------------------KIKNIYIIGATGERDDHNLANIMIAQQ
+YSDIFN-IEIV----*
+>P1;gi|42862341|gb|EAA98410.1| unknown [environmental sequence] [ score 62 E 7e-09 ] [ range 2 .. 125 ]
+sequence
+--------------------------------------TNSAVLIANGNVS---KYVKKIIDSNDYFISI
+DA------KLEN---LKELGVQPNLILGDLDTSTIDGID----SQIEVIELSDQNKTDLEKSLDYCIEK-
+-------------------------------------------SIKKVVILGSSGLREDHSMANVLIAST
+YSDILQ-IELI----*
+>P1;gi|43323228|gb|EAD27290.1| unknown [environmental sequence] [ score 61 E 7e-09 ] [ range 7 .. 109 ]
+sequence
+------------------------------------------ILVGGSKIN---SLLKIIYKKHKI-YAA
+DSGANFLIS---------NEMDFEAVIGDMDSVDSQKLSYIKDEKKILIS--DQNTTDLQKCLSKINSNI
+-----------------------------------------------FIGFGFIDLRLDHTLASLT----
+---------------*
+>P1;gi|15903838|ref|NP_359388.1| Conserved hypothetical protein [Str... [ score 61 E 8e-09 ] [ range 11 .. 126 ]
+sequence
+---------------------------------------------------------YKLSENNWTRVAV
+FAGGNRGHYRTD---FDAEEDLPLALVGDFDSVTEEERQVIQKRAQYFVQAPEKDDTDLELALLTIFEQN
+PQ-------------------------------------------AQVTIFGALGGRIDHMLANV-----
+---------------*
+>P1;gi|34541503|ref|NP_905982.1| thiamin pyrophosphokinase catalytic... [ score 61 E 1e-08 ] [ range 44 .. 130 ]
+sequence
+------------------------------------------------------------------IVCC
+DGAIQNLLDY---------GAEPDAVVGDLDSFTAS-RHILPAE--KLHRIDEQDTNDLTKTVT-----F
+SAE--------------------------------------TYSPREVCLLGTSGRREDHFVGNLAHL--
+---------------*
+>P1;gi|23037402|ref|ZP_00069610.1| COG1564: Thiamine pyrophosphokina... [ score 61 E 1e-08 ] [ range 59 .. 154 ]
+sequence
+-------------------------------------------------------------------IGV
+DAGA--FYLLKH---GVKDI----TAIGDFDSLTREELFFVKDKVDPKHFSPEKDFTDTELALRWIEEKL
+DYR----------------------------------------KYDSINIFGATGSRLDHEFNNLNLF--
+---------------*
+>P1;gi|42519406|ref|NP_965336.1| hypothetical protein LJ1534 [Lactob... [ score 60 E 2e-08 ] [ range 27 .. 125 ]
+sequence
+-------------------------------------------------------------KKGALIMAS
+DRGSLFLLEL---------GIVPDVALGDYDSLTFDEREIVESKVKDMRYSPIKDFTDSEMLF-----YA
+AFI--------------------------------------DYRVDSLTVYGATGGRMDHFFVNMYAMLK
+A--------------*
+>P1;gi|15901805|ref|NP_346409.1| conserved hypothetical protein [Str... [ score 60 E 2e-08 ] [ range 11 .. 126 ]
+sequence
+---------------------------------------------------------YKLSENNWTRVAV
+FAGGNRGHYRTD---FDAEEDLPLALVGDFDSVTEEERQ-VIQKGAQVQARPEKDDTDLELALLTIFEQN
+PQ-------------------------------------------AQVTIFGALGGRIDHMLANV-----
+---------------*
+>P1;gi|28572183|ref|NP_788963.1| conserved hypothetical protein [Tro... [ score 60 E 2e-08 ] [ range 25 .. 124 ]
+sequence
+---------------------------------------------------------------HDLVIAA
+DGG------LMQ---LKKHGARIDLYVGDLDSIES------IPINIDRVILPEKDKTDMMQAALIGAER-
+-------------------------------------------GFRTFCIFGGTGGRLDHTIGNIQLLAE
+LTNMGY-SVFIV---*
+>P1;gi|15639509|ref|NP_218959.1| conserved hypothetical protein [Tre... [ score 59 E 4e-08 ] [ range 26 .. 110 ]
+sequence
+----------------------------------------------------------------DLLIAA
+DSG------LDT---ALQFGLVPDFVIGDMDSVKDNLF-IQACDKTRTHLFPDKDFTDTELAV------T
+LAH--------------------------------------QLGSDDLSIVGGGGGRADHFL--------
+---------------*
+>P1;gi|15673806|ref|NP_267981.1| hypothetical protein L76216 [Lactoc... [ score 59 E 4e-08 ] [ range 22 .. 107 ]
+sequence
+-------------------------------------------------------------------IGV
+DRGSLFLVE---------KGYQLALAIGDFDSVSKIELEKISVSTDRLIKLPEKDLTDLEAALDFVLEYF
+ADA--------------------------------------E-----IVIAGALGGRLDHLLTN------
+---------------*
+>P1;gi|44238924|gb|EAH88396.1| unknown [environmental sequence] [ score 58 E 6e-08 ] [ range 21 .. 87 ]
+sequence
+-------------------------------------------------------LFQDVYDSAVPIIAA
+DGGANFLAD---------HNIFPELIIGDLDSLSEQ--KIQNMETQKFIKISDQHTTDLEKVL-------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43583399|gb|EAE46534.1| unknown [environmental sequence] [ score 58 E 7e-08 ] [ range 1 .. 45 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------QDTNDADKSVRHCL---
+-----------------------------------------ELGFKVIHLLSADGGRQDQFLSGLEILFK
+YS-------------*
+>P1;gi|21909729|ref|NP_663997.1| conserved hypothetical protein [Str... [ score 58 E 9e-08 ] [ range 20 .. 109 ]
+sequence
+----------------------------------------------------------------DYFVGI
+DSGSLFLLE---------NGLPLNMAVGDFDSVSQEAFTDIKEKAELFIAHPEKNDTDTELALKEVFARF
+PEA--------------------------------------E-----VTIFGAFGGRMDHLLSNI-----
+---------------*
+>P1;gi|15924213|ref|NP_371747.1| conserved hypothetical protein [Sta... [ score 57 E 1e-07 ] [ range 28 .. 118 ]
+sequence
+---------------------------------------------------------------------V
+DRGALILL---------KHQIIPFFSVGDFDSVSKEERQLLTEQLQIKPVQAEKADTDLALAVDKAV---
+-----------------------------------------ALGFDSITIYGATGGRLDHFFGAIQLLLK
+KAY------------*
+>P1;gi|15805579|ref|NP_294275.1| conserved hypothetical protein [Dei... [ score 57 E 2e-07 ] [ range 24 .. 104 ]
+sequence
+----------------------------------------------------------------ELVVAA
+DGGARH---------AAALGVKVDLWVGDFDSSDGLELDAPRE-----VHPVAKDQTDAELAVSLARRR-
+-------------------------------------------GATELVFIGAFGGRFDHAAA-------
+---------------*
+>P1;gi|15674445|ref|NP_268619.1| conserved hypothetical protein [Str... [ score 55 E 8e-07 ] [ range 20 .. 109 ]
+sequence
+----------------------------------------------------------------DYFVGI
+DRGSLFLLE---------NGLPLNMAVGDFDSVSQKAFTDIKEKAELFIAHPEKNDTDTELALKEVFARF
+PEA--------------------------------------E-----VTIFGAFGGRMDHLLSNI-----
+---------------*
+>P1;gi|27467816|ref|NP_764453.1| conserved hypothetical protein [Sta... [ score 55 E 8e-07 ] [ range 36 .. 125 ]
+sequence
+----------------------------------------------------------------------
+----------------VKQGIQPIFSVGDFDSVNNEER-LMLMKNLQIEPEAEKDDTDLALGVAQAVER-
+-------------------------------------------GYTEITIYGATGGRLDHFMGVLQILQK
+PQYLHQ-SIKI----*
+>P1;gi|29248965|gb|EAA40487.1| GLP_159_46705_47622 [Giardia lamblia ... [ score 54 E 1e-06 ] [ range 18 .. 202 ]
+sequence
+-------------------------ASQPDLCPDSTGSGEYHVILLNYLWP---SWWRNAIADAKTVILA
+DGGSSAELRVAA---DTVCRLLSSALVGDYDSMTPRTVEFLETYGIARNHVPEQDSTDGSKALTLLLNLL
+SVN--------------------------------------NSSGPRVLMLGAFGGRLDHCLCHFCLLHK
+YGS------------*
+>P1;gi|44007206|gb|EAG61776.1| unknown [environmental sequence] [ score 54 E 1e-06 ] [ range 2 .. 76 ]
+sequence
+----------------------------------------------------------------------
+---------------------------GDLDSAIINGLD----SQIEVVELSDQNKTDLEKSLDYC----
+--K--------------------------------------ENSIKKVIILGSSGLREDHSMANILIAST
+YSDILQ-IELI----*
+>P1;gi|19745397|ref|NP_606533.1| conserved hypothetical protein [Str... [ score 54 E 2e-06 ] [ range 20 .. 109 ]
+sequence
+----------------------------------------------------------------DYFVGI
+DRGSLFLLE---------NGLPLNMAVGDFDSVSQKAFTDIKEKAELFIAHPEKSDTDTELALKEVCARF
+PEA--------------------------------------E-----VTIFGAFGGRMDHLLSNI-----
+---------------*
+>P1;gi|22992770|ref|ZP_00037395.1| COG1564: Thiamine pyrophosphokina... [ score 54 E 2e-06 ] [ range 4 .. 112 ]
+sequence
+------------------------------------------LLAAGGNPQ---NWPQSLLSKYDAYVGI
+DRGALYLL---------QAGYPVDLAVGDFDSLNEEQKEVFAKAKEYTRSPAEKDDTDTQLGI-----LK
+TFE--------------------------------------RYPQAEVTLIGATGGRLDHLLANL-----
+---------------*
+>P1;gi|44588889|gb|EAK30857.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 8 .. 82 ]
+sequence
+----------------------------------------------------------------------
+---------------------------GDFDS----TKIIEPNRSENWIAKPNQNKTDLEKTFDWC----
+--I--------------------------------------ENNFKKIILLGAGGGREDHLFGNLFTVAK
+YSDKVD-CEII----*
+>P1;gi|44135130|gb|EAH31721.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 26 .. 94 ]
+sequence
+------------------------------------------------------------------IIAV
+DSGVEHLLKL---------SLDPTTLIGDLDSISKKSLDELKKSGVKILAFSKKDQTDFELALNYLEEAE
+KSK-------------------------------------------------------------------
+---------------*
+>P1;gi|43458918|gb|EAD84128.1| unknown [environmental sequence] [ score 52 E 4e-06 ] [ range 4 .. 44 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------DQDSTDFDKCITAIKSK-
+----------------------------------------------KIIALGFMGQRLDHFLAVCSSLVK
+---------------*
+>P1;gi|43123618|gb|EAC27685.1| unknown [environmental sequence] [ score 49 E 4e-05 ] [ range 1 .. 71 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------MDSIDKEIL---KNSDIERIHIADQNSTDLEKCFS------
+-----------------------------------------QVSAEVFIGFGFLDLRLDHSLASLTAICK
+NNSANA-IILV----*
+>P1;gi|44406445|gb|EAJ04858.1| unknown [environmental sequence] [ score 46 E 4e-04 ] [ range 3 .. 65 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------SQIEVVKLSNQNKTDLEKSLDYC----
+--I--------------------------------------ENNIKKVLILGSSGLREDHSMANILIAST
+YSNILH-IELI----*
+>P1;gi|45198905|ref|NP_985934.1| AFR387Cp [Eremothecium gossypii] >g... [ score 287 E 1e-76 ] [ range 33 .. 238 ]
+sequence
+---VENPDSVDFDANQFDIR----HRIDLRGVLYPQ--ERSALLILNQELRLSREFLQALWDSSGICVCA
+DGGANRLHDFFID-ERERAQHLPAYIVGDLDSLRDDVRAFYEGHGVVVLEQSTQYASDLMKSVQVSSLHF
+NHEPFRA-CARKGRVDTHNGVGEMIAARQAAGWTPE--------PLRLLVLNAIDGRFDLTVHSVAQMYT
+LREQHPYLTLFYITP*
+>P1;gi|19114203|ref|NP_593291.1| thiamine pyrophosphokinase [Schizos... [ score 164 E 1e-39 ] [ range 350 .. 485 ]
+sequence
+-------------------------------------DQKFAVLLLNQPIDIPDDRFRTLWKRASIRVCA
+DGGANQLRNY-------DSSLKPDYVVGDFDSLTDETKAYYKEMGVNIVFDPCQNTTDFMKCHKIIKEH-
+-------------------GIDT------------------------IFVLCGMGGRVDHAIGNLNHLFW
+AASISEKNEVFLLT-*
+>P1;gi|40747618|gb|EAA66774.1| hypothetical protein AN9488.2 [Asperg... [ score 163 E 2e-39 ] [ range 16 .. 151 ]
+sequence
+-------------------------------------RQPFVLLVLNQPIN--ETALAVLWKH-------
+DGGANRFFEWTKSKGRE-NDDLPTTIVGDMDSARSEVRTHYSNLGVNIVQDGDQYTTDFTKSLRYIRKH-
+-----ESDILSSAGLSSN-------------------------DKLSILILGGLGGRVDQAFSQVHHLYM
+MNQN-----------*
+>P1;gi|42547686|gb|EAA70529.1| hypothetical protein FG02454.1 [Gibbe... [ score 163 E 3e-39 ] [ range 18 .. 154 ]
+sequence
+-----------------------------------NIGQDFALLILNQPLKNGVNL-RKLWKNSSVRVAA
+DGGANRLHKL----SSFHGKYSNQLIIGDLDSLTPTVRDFYQPSPAQIIRDADQESTDFSKAVNWIR---
+---------------KEHSGI-------------------------DIVALGGIGGRVDQGLSQLHHLYL
+FQTDPEY--------*
+>P1;gi|30689827|ref|NP_850424.1| thiamin pyrophosphokinase, putative... [ score 162 E 5e-39 ] [ range 25 .. 160 ]
+sequence
+---------------------------------------RYALVVLNQNLPRFTPL---LWEHAKLRLCA
+DGGANRIYDELEDPFVIRNRYKPDVIKGDMDSIRRDVLDFYVYWGTKVIDESDQDTTDLDKCISYIR---
+---------------------------HSTLNQESSRL--------QILATGALGGRFDHEAGNLNVLY-
+---------------*
+>P1;gi|32407579|ref|XP_324301.1| hypothetical protein [Neurospora cr... [ score 162 E 8e-39 ] [ range 52 .. 201 ]
+sequence
+-----------------------------------HKPEPFALVVLNQPL-THLGLVKRLWKNASIRVAA
+DGGANCLYDVAGKNGDHDFDDL-TAIIGDLDSLTTETRTYFTASQTAIIHEPSQYSTDFAKSVDYLR---
+-GPS----CSKPD-----------------------------APPPDIVAIGGLGGRVDQGLSQLHHLYL
+FQSSPTY--------*
+>P1;gi|34907130|ref|NP_914912.1| putative thiamine pyrophosphokinase... [ score 161 E 1e-38 ] [ range 20 .. 151 ]
+sequence
+----------------------------------PADDASYAVVVLNQRLPRFAPL---LWDRARLRVCA
+DGGANRVFDGMEDPDQVRMRYKPDVIKGDMDSIRPEVKEYYSNLGAEIVDESDQDTTDLHKCVSFITRNP
+PGSEESNVLSSIVNHNKNFR--------------------------------------------------
+---------------*
+>P1;gi|30678415|ref|NP_849580.1| thiamin pyrophosphokinase, putative... [ score 160 E 2e-38 ] [ range 25 .. 160 ]
+sequence
+---------------------------------------RYALVVLNQSLPRFTPL---LWEHAKLRLCA
+DGGANRIYDELEDALAIRNRYKPDVIKGDMDSIRRDVLDFYINLGTKVIDESDQDTTDLDKCILYIR---
+---------------------------HSTLNQETSGL--------QILATGALGGRFDHEAGNLNVLY-
+---------------*
+>P1;gi|31205955|ref|XP_311929.1| ENSANGP00000010946 [Anopheles gambi... [ score 154 E 1e-36 ] [ range 71 .. 204 ]
+sequence
+-------------------------------------DDGLGIVLLNRPILLEKHYFTTLWNGAKVRVAV
+DGGTNRWVDWVKGNNSEHLLKPPDLVTGDFDSCNQEAMEYVEQLKCTIVHTPDQNATDFTKSLKVLKSHG
+YDKQLS----------------------------------------RVLALCESSGRLDQIMANINTLYL
+---------------*
+>P1;gi|34536149|dbj|BAC87556.1| unnamed protein product [Homo sapiens] [ score 141 E 1e-32 ] [ range 8 .. 124 ]
+sequence
+-------------------------------MISPKEREKASNLKLSS---RPPATSHLIRTPKDTHYC-
+-GASKGLGNSFIGNES----FLPEFINGDFDSIRPEVREYYATKGCELISTPDQDHTDFTKCLKMLQKKI
+EEKD----------LKGKHRLHVDTGM-------------------------------------------
+---------------*
+>P1;gi|43762355|gb|EAF35628.1| unknown [environmental sequence] [ score 130 E 2e-29 ] [ range 23 .. 148 ]
+sequence
+-------------------------------------------------------------------VAA
+DGGANFLKNG---------KHIPAYIVGDFDSVRD--IKKWASKGTKIFKIAEQYSTDFEKCIRIIK---
+-APKFICLGFANERLDCSALINSNKPIFILGN---RDLIFHLPTKFN----------FELPIHSRVSLYP
+LKEISS---------*
+>P1;gi|28571654|ref|NP_650110.3| CG14721-PA [Drosophila melanogaster... [ score 97 E 3e-19 ] [ range 95 .. 239 ]
+sequence
+------------------------------------GDHGHVCVVLNRQIQVPAHVVKLLWKNAAVRCAV
+DGGSNHWRDFVNGSAPTTPLEPLDVITGDFDSITEETVDFFKTTPK--VHTPDQDATDFTKAMAVLQPVM
+TQRKIQ----------------------------------------DVVVFHDTSGRLDQVMANLNTLYK
+SQKD-----------*
+>P1;gi|38104819|gb|EAA51330.1| hypothetical protein MG09347.4 [Magna... [ score 95 E 1e-18 ] [ range 6 .. 114 ]
+sequence
+---------------------------------------------------------------ASFRVAA
+DGGANQLL-----EASRDLANNLDVIIGDLDSFTASSAEFYSSLPSQVIKITEQESTDFSKAVTHIRSRT
+DKPS------------------------------------------DIVAIGGLGGRVDQGLSQMHHLCI
+FQEDPSY--------*
+>P1;gi|34915046|ref|NP_918870.1| putative thiamin pyrophosphokinase ... [ score 77 E 4e-13 ] [ range 25 .. 208 ]
+sequence
+---------------------------------------KYALVVLNQNLPRFVPR---LWTHGSCRICA
+DGGANRIFDEM-----FQMTNDPDY-----ESTRKRLYEISISSGVPFDMLCDLNAQLVPKTVTKINSHI
+QAKGMSIVCWKGSKISDKSHNQETTDLHKCISRIHRCTPDHEKTNLCVLVTGALGGRFDHEAANINILYL
+FS-------------*
+>P1;gi|42602141|gb|AAS21678.1| thiamine pyrophosphokinase [Caenorhab... [ score 75 E 1e-12 ] [ range 22 .. 136 ]
+sequence
+---------------------------------------------LNGEPTAISNRAENLWNKAKYRVAT
+DGAVN------EILKRKSFVEWPHIICGDFDSINKQI----DTKNAKVVHLPDQDYTDLSKSVQW-----
+--------CLEQKTLTS---------------WEFE----------NIVVLGGLNGRFDHTMSTLSSL--
+---------------*
+>P1;gi|43050982|gb|EAB91900.1| unknown [environmental sequence] [ score 72 E 1e-11 ] [ range 2 .. 82 ]
+sequence
+-----------------------------------------ALIVCNGN-PPPKSLLYKLWEKTTYRVAA
+DGGANLL---------VKSKCMPDTVIGDFDSLKSKTREKMPS--TKFLYIPEQDTNDADKAVR------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43421135|gb|EAD68966.1| unknown [environmental sequence] [ score 71 E 2e-11 ] [ range 8 .. 80 ]
+sequence
+--------------------------------------------------PPPKSLLYQLWEKTTYHVAA
+DGGANLL---------AKRKYMPDAVVGDFDSLDSKIREKMPN--TKFLHIPEQETNDADKSVR------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43554902|gb|EAE32232.1| unknown [environmental sequence] [ score 70 E 4e-11 ] [ range 8 .. 80 ]
+sequence
+--------------------------------------------------PPPKSLLYQLWEKTTYRVAA
+DGGANLL---------VKSKCMPDTVIGDFDSLKTKTREKMPN--TKFLYIPEQDTNDADKAVR------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43379905|gb|EAD54844.1| unknown [environmental sequence] [ score 68 E 1e-10 ] [ range 8 .. 80 ]
+sequence
+--------------------------------------------------PPPKSLLYQLWEKTTYRVAA
+DGGANLL---------VKSKCMPDAVIGDFDSLKSKTREKMPN--TKFLYIPEQDTNDADKAVR------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|22957678|ref|ZP_00005371.1| COG1564: Thiamine pyrophosphokina... [ score 65 E 1e-09 ] [ range 38 .. 145 ]
+sequence
+-------------------------------------------------------------------VAA
+DGG---------GDTALRLGHMPRAVIGDMDSLSSEGR---ATLAGRVHHLAEQESTDFDKCL----RNI
+RAPFVLALGVAGARID--HGLAVMNGLVQRPDVTPEDVVFHAPPELRL----------------------
+---------------*
+>P1;gi|23021764|ref|ZP_00061422.1| COG1564: Thiamine pyrophosphokina... [ score 61 E 2e-08 ] [ range 3 .. 120 ]
+sequence
+----------------------------------------YALIVCNGSI-IDYSFYRKFFDEADFIVCA
+DGGALHL---------QRLGIKPDVLLGDFDSIESEHLEYYMKQNVEILKFPEKDMTD------------
+------------------TELAVNTAIDRGYK--------------NIVIIGGTGTRLDHTLSNIFLLKL
+M--------------*
+>P1;gi|44432695|gb|EAJ23160.1| unknown [environmental sequence] [ score 61 E 2e-08 ] [ range 9 .. 159 ]
+sequence
+-------------------------------------------VILNGQMPTDDTIINQI-TNSDFIIAV
+DGSANKLFDL---------KIIPDVIIGDLDSLQN-----IENKDIELIEAPDQNKTDFRKTLEWC---I
+EKNILNISIFGISGESEDHFL----GNYYTLSDFGEKISWKAFTDFSMISPCVGNKKFESFKGQKVSLFC
+MRGSST---------*
+>P1;gi|42857361|gb|EAA95949.1| unknown [environmental sequence] [ score 61 E 2e-08 ] [ range 5 .. 81 ]
+sequence
+-------------------------------------------VILNGQMPINNTLINKI-NNSDYIIAV
+DGSANKLFDLEI---------IPDVIIGDLDSFQN-----VNNKNIELVETPDQNKTDFRKTLEW-----
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43294940|gb|EAD13277.1| unknown [environmental sequence] [ score 60 E 4e-08 ] [ range 6 .. 87 ]
+sequence
+-----------------------------------------ALILCNGEPPGTELLFRH-WNASDLQIAA
+DGGANFL-------ESHGLK--PKIIIGDLDSLDDQILSKVSPD--SIVHVEEQQTNDADKAISY-----
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43324575|gb|EAD27951.1| unknown [environmental sequence] [ score 60 E 5e-08 ] [ range 1 .. 56 ]
+sequence
+-------------------------------------------------------------------VAA
+DGGANFLYSL---------NLLPDAIVGDLDSLKPEIRKKFSNSILHKIKE--QNTNDADKAVR------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43554826|gb|EAE32190.1| unknown [environmental sequence] [ score 59 E 8e-08 ] [ range 6 .. 79 ]
+sequence
+-------------------------------------------------ILPQKACFTIYREKTTYRVAA
+DGGANLL---------VKRKCMPDAVIGDFDSLKSKTREKMPN--TKFLYIPEQDTNDADKAVS------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43253586|gb|EAC92495.1| unknown [environmental sequence] [ score 59 E 1e-07 ] [ range 7 .. 87 ]
+sequence
+------------------------------------------LILCNGEPPGKELLFRH-WNASDLQIAA
+DGGANFL-------ESHGLK--PKIIIGDLDSLDDHIRSGVSPD--SIVHVEEQQTNDADKAIRY-----
+----------------------------------------------------------------------
+---------------*
+>P1;gi|23480706|gb|EAA17193.1| Arabidopsis thaliana At1g02880/F22D16... [ score 58 E 2e-07 ] [ range 125 .. 210 ]
+sequence
+----------------------------------------------------------------------
+-----------KKKFKHYPKILPDLICGDFDSININVYNFYKKNNVLFEKCTDQNNTDLDKCIDKIKHYV
+KKND------------------------------------------KIFILGATGNRFDQTCANISSLY-
+---------------*
+>P1;gi|23113895|ref|ZP_00099232.1| COG1564: Thiamine pyrophosphokina... [ score 57 E 2e-07 ] [ range 27 .. 134 ]
+sequence
+-------------------------------------------------------------------IAV
+DGGGNHI---------VRAGFVPDALLGDLDSAEPETLEICRQKGTVIVCYPEKDETDLELALEYAVKLM
+EQEEGTVK-AEKAGVQ---------------GWESQD----------VFLLGAMGGRIDHLLGN---LFL
+LQ-------------*
+>P1;gi|44428608|gb|EAJ20306.1| unknown [environmental sequence] [ score 56 E 6e-07 ] [ range 7 .. 87 ]
+sequence
+------------------------------------------LILCNGEPPGKELLFRH-WNASDLQIAA
+DGGANFL-------ESHGLK--PKIIIGDLDSLDDQIRSGVSPD--SIVHVEEHQTNDADKAIRY-----
+----------------------------------------------------------------------
+---------------*
+>P1;gi|29347807|ref|NP_811310.1| conserved hypothetical protein [Bac... [ score 56 E 6e-07 ] [ range 10 .. 94 ]
+sequence
+-----------------------------------------AVILANGEYPAHELPLRLLAE-AQFVVCC
+DGAAN---------EYISRGHTPDVIIGDGDSLLPEYKKRFSSI---ILQISDQETNDQTKAVHYLQSK-
+----------------------------------------------------------------------
+---------------*
+>P1;gi|22973024|ref|ZP_00019870.1| hypothetical protein [Chloroflexu... [ score 56 E 8e-07 ] [ range 3 .. 84 ]
+sequence
+---------------------------------------TYTVIVANAPAIDLTPYQRLL-TLADRLIAA
+DGGGTALF---------AGGYTPHVIIGDLDSIAAEALTAYQAQGVAIRHRPDKDETDLE----------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43762710|gb|EAF35814.1| unknown [environmental sequence] [ score 54 E 3e-06 ] [ range 2 .. 67 ]
+sequence
+--------------------------------------------------------FKEVYDNEIPIIAA
+DGGANFL---TEKNIS------PELIIGDLDSVSEQKIQSMETQ--KFIKISDQHTTDFEKVL-------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|44238924|gb|EAH88396.1| unknown [environmental sequence] [ score 54 E 3e-06 ] [ range 16 .. 87 ]
+sequence
+--------------------------------------------------DFSEDLFQDVYDSAVPIIAA
+DGGANFLAD--------HNIF-PELIIGDLDSLSEQKIQNMETQ--KFIKISDQHTTDLEKVL-------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43323228|gb|EAD27290.1| unknown [environmental sequence] [ score 54 E 3e-06 ] [ range 13 .. 90 ]
+sequence
+--------------------------------------------------KINSHLLKIIYKKHKI-YAA
+DSGANFL-------ISNEMDF--EAVIGDMDSVDSQKLSYIKDEKKILI--SDQNTTDLQKCLSKINSNI
+----------------------------------------------------------------------
+---------------*
+>P1;gi|44389324|gb|EAI92861.1| unknown [environmental sequence] [ score 53 E 4e-06 ] [ range 10 .. 84 ]
+sequence
+----------------------------------------------NGEPPTHPLVLRYI-NEAKTYICL
+DGGVDTL---------ITLGHKPDYVLGDLDSIKRSEDEY----DCQIISLEDQSMTDLEKSILW-----
+----------------------------------------------------------------------
+---------------*
+>P1;gi|34762325|ref|ZP_00143328.1| Thiamin pyrophosphokinase [Fusoba... [ score 53 E 5e-06 ] [ range 2 .. 96 ]
+sequence
+---------------------------------------KIAYLFLNGELRGSKKYLDFIEKNMGDIYCA
+DGGANICYEL---------GLTPKEIYGDLDSIKNEVKEFYQEKNIKFIKQVEKDYTDSELILNEIQNKY
+N---------------------------------------------------------------------
+---------------*
+>P1;gi|43285104|gb|EAD08366.1| unknown [environmental sequence] [ score 53 E 5e-06 ] [ range 2 .. 67 ]
+sequence
+--------------------------------------------------------FKEVYDNEIPIIAA
+DGGANFL---TEKNIS------PELVIGDLDSVSEQQIQNIEPE--KIIRISEQDSTDLEKVL-------
+----------------------------------------------------------------------
+---------------*
+>P1;gi|19704225|ref|NP_603787.1| Thiamin pyrophosphokinase [Fusobact... [ score 52 E 7e-06 ] [ range 2 .. 94 ]
+sequence
+---------------------------------------KIAYLFLNGELRGDKNYLDFIKNHKGDIYCA
+DGGANFCYELT---------LIPKEIYGDLDSIKDEVKEFYQEKVKFIKFKIEKDYTDSELLLNEIQNK-
+----------------------------------------------------------------------
+---------------*
+>P1;gi|44328450|gb|EAI49500.1| unknown [environmental sequence] [ score 51 E 2e-05 ] [ range 11 .. 107 ]
+sequence
+----------------------------------------------NGEIPSHPIVLNKI-KGVGTIICL
+DGGTDKL---------IKLGYKPTCIIGDLDSLSKKPEDY----GCEFIALPEQSKNDLEKGLEWCLDK-
+-GIKDISLIGFSGLRDDHH---------------------------------------------------
+---------------*
+>P1;gi|43185136|gb|EAC58133.1| unknown [environmental sequence] [ score 51 E 2e-05 ] [ range 12 .. 86 ]
+sequence
+----------------------------------------------NGDLPVHSDTRKKLQEAATL-ICV
+DGGA---------DKVISLGLKPDIILGDLDSVVKDEKHY----QCPVISLKDQSKNDLEKSLQW-----
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43774343|gb|EAF41646.1| unknown [environmental sequence] [ score 50 E 5e-05 ] [ range 1 .. 80 ]
+sequence
+---------------------------------------------MNGQIPLDKSLIQKI-SSSDYIIAV
+DGSANQLNKLGI---------LPNVVIGDFDSIKP-----FDDSNVEFVEANDQSKTDFRKTLEWCVEKI
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43177654|gb|EAC54403.1| unknown [environmental sequence] [ score 49 E 6e-05 ] [ range 23 .. 96 ]
+sequence
+-------------------------------------------------------------------VAA
+DGGAN---------TCLQYGVKPDAVIGDLDSIE-------ETSKVQIEDDSSQDDTDFEKSLNRI----
+NAPLIIGVGFLGDRVD------------------------------------------------------
+---------------*
+>P1;gi|44587534|gb|EAK29907.1| unknown [environmental sequence] [ score 49 E 7e-05 ] [ range 12 .. 91 ]
+sequence
+-----------------------------------------AVILANGDFPSHPIAINYL-ENNKIIICT
+DGAADKL---------LGIGKKPDFIIGDFDS----TKIKRVNRSGNWIEKPDQNKTDLEKAFDW-----
+----------------------------------------------------------------------
+---------------*
+>P1;gi|43498927|gb|EAE04290.1| unknown [environmental sequence] [ score 48 E 2e-04 ] [ range 12 .. 86 ]
+sequence
+-------------------------------------------LVVNGEFPKKQSILEKI-KESKVIIAT
+DGAANLL--------SQHGIN-PHYVIGDLDSINDH--NHY-----NIIEISDQSKTDLEKALDW-----
+----------------------------------------------------------------------
+---------------*
+>P1;gi|44343785|gb|EAI60291.1| unknown [environmental sequence] [ score 47 E 2e-04 ] [ range 26 .. 92 ]
+sequence
+-------------------------------------------------------------------VAV
+DSGAEHAYKLF---------LKPDLIIGDLDSISTKTYDRVTKDKIEILEKKDKDYTDFEIALNVINLKI
+K---------------------------------------------------------------------
+---------------*
+>P1;gi|43258826|gb|EAC95084.1| unknown [environmental sequence] [ score 47 E 4e-04 ] [ range 29 .. 88 ]
+sequence
+--------------------------------------------------------------SAGTVICT
+DGSANYLKS---------INLEPHVIIGDFDSI--KAKGSFKGL---MIQDPNQNNTDLEKAIEWL----
+----------------------------------------------------------------------
+---------------*

@@ -1,0 +1,1536 @@
+>P1;1m0wa
+structureX:1m0w:   6 :A: 491 :A:glutathione synthetase:Saccharomyces cerevisiae: 1.80: 17.2
+-------PSKDQLNELIQEVNQWAITNGLSMYPPKFEENPSNASVSPVTIYPTPIPRKCFDEAVQIQPVF
+NELYARITQDMAQPDSYLHKTTEALALSDSEFTGKLWSLYLATLKSAQYKKQNFRLGIFRSDYLIDKKK-
+GTEQIKQVEFNTVSVSFAGLSEKVDRLHSYLNRANKYDPKGPIYNDQNMVISDSGYLLSKALAKAVESYK
+SQQSKKIQQLLTDEGVLGKYIS-DAEKKSSLLKTFVKIYPLDDTKLGREGKRLALSEPSKYVLKPQREGG
+GNNVYKENIPNFLKGI-EERHWDAYILMELIEPELNENNIILRDN-KSYNEPIISELGIYGCVLFNDEQV
+LSNEFSGSLLRSKFNTSNEG---GVAAGFGCLDSIILY*
+>P1;2hgsa
+structureX:2hgs:   3 :A: 474 :A:glutathione synthetase:Homo sapiens: 2.10: 21.8
+TNWGSLLQDKQQLEELARQAVDRALAEGVLLRTSQEPTSSEVVSYAPFTLFPSLVPSALLEQAYAVQMDF
+NLLVDAVSQNA----AFLEQTLSSTIKQDD-FTARLFDIHKQVLKE--GIAQTVFLGLNRSDYMFQRSAD
+GSPALKQIEINTISASFGGLASRTPAVHRHVLSVL-----SKTKEAGKILSNNPSKGLALGIAKAWELYG
+S--TKKVQQELSRPGMLEMLLPGQPEAVARLRATFAGLYSLDVGEEGDQAIAEALAAPSRFVLKPQREGG
+GNNLYGEEMVQALKQLKDSEERASYILMEKIEPEPFE-NCLLRPGSPARVVQCISELGIFGVYVRQEKTL
+VMNKHVGHLLRTKAI---EHADGGVAAGVAVLDNPYPV*
+>P1;gi|23574735|dbj|BAC20593.1| glutathione synthetase [Macaca fasci... [ score 327 E 3e-88 ] [ range 168 .. 472 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+---------------SVLSKTKEAKILSNNPSKGKAWELYGSVLLIAQEKERNI----------FDQRA-
+IENELLARNIHVIRRTFEDISEKVDGQEAVVYFRDGYMPRQ--YSLQNW---EARLLLERSCAAKCPDIQ
+LAGTKKVQQELSRPGMLEMLLG-QPEAVARLRATFAGLYSLDMGEEGDQAIAKALAAPSRFVLKPQREGG
+GNNLYGEEMVQALKQL-KDEERASYILMEKTEPEPFENCLLRPGS-PAQVVQCISELGIFGVYVRHEKTL
+VMNKHVGHLLRTKAIEHADG---GVAAGVAVLDNPY--*
+>P1;gi|23574735|dbj|BAC20593.1| glutathione synthetase [Macaca fasci... [ score 327 E 3e-88 ] [ range 11 .. 203 ] [ duplicate b ]
+sequence
+--------NEQQLEELARQAVDRALAEGVLLRTSQEPTSSEVVSYAPFTLFPSLVPSALLEQAYAVQMDF
+NLLVDAVNQNAAFLEQTLSSTIEQ-----DDFTARLFDIHKQVLKEG--IAQTVFLGLNRSDYMFQRSD-
+GSPALKQIEINTISASFGGLASRTPAVHRHLSVLSKTKEAGKILS------NNPSKGLALGIAKAWELYG
+STN-------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|4504169|ref|NP_000169.1| glutathione synthetase; GSH syntheta... [ score 323 E 4e-87 ] [ range 168 .. 472 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+---------------SVLSKTKEAKILSNNPSKGKAWELYGSVLLIAQEKERNI----------FDQRA-
+IENELLARNIHVIRRTFEDISEKVDGQEAVVYFRDGYMPRQ--YSLQNW---EARLLLERSHAAKCPDIQ
+LAGTKKVQQELSRPGMLEMLLG-QPEAVARLRATFAGLYSLDVGEEGDQAIAEALAAPSRFVLKPQREGG
+GNNLYGEEMVQALKQL-KDEERASYILMEKIEPEPFENCLLRPGS-PARVVQCISELGIFGVYVRQEKTL
+VMNKHVGHLLRTKAIEHADG---GVAAGVAVLDNPY--*
+>P1;gi|25742757|ref|NP_037094.1| glutathione synthetase; Glutathione... [ score 321 E 2e-86 ] [ range 170 .. 472 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------LNKTNEASKISNNPSKGKAWELYGSVLLIAQEKERNI----------FDQRA-
+IENELLDRKIHVIRRRFEDVSEREDQEVAVVYFRDGYMPSQ--YNAQNW---EARLLLERSCAAKCPDIQ
+LAGTKKVQQELSRVGLLEALLG-QPEAVARLRATFAGLYSLDMGEEGDQAVAEALAAPSHFVLKPQREGG
+GNNFYGEEMVHALEQL-KDEERASYILMEKIEPEPFRNCLLRPGS-PAQVVQCISELGIFGVYVRQGTTL
+VMNKHVGHLLRTKAIEHADG---GVAAGVAVLDNPY--*
+>P1;gi|25742757|ref|NP_037094.1| glutathione synthetase; Glutathione... [ score 321 E 2e-86 ] [ range 12 .. 203 ] [ duplicate b ]
+sequence
+---------EKQLEELAQQAIDRALAEGVLLRSAKNPSSSDVVTYAPFTLFPSPVPSTLLEQAYAVQMDF
+NILVDAVSQNSAFLEQTLSSTIK-----KDEYTARLFDIYKQVLKEG--IAQTVFLGLNRSDYMFQSAD-
+GSKALKQIEINTISASFGGLASRTPAVHRHLNVLNKTNEASKILS------NNPSKGLALGIAKAWELYG
+SAN-------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|19547889|gb|AAL87533.1| glutathione synthetase [Mus musculus] [ score 319 E 5e-86 ] [ range 169 .. 471 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------LNKTKEASKISNNPSKGKAWELYGSVLLIAQEKERNI----------FDQRA-
+VENELLDRKIHVIRGRFEDVSERDDQEVAVVYFRDGYMPSQ--YNSQNW---EARLMLERSRAAKCPDIQ
+LAGTKKVQQELSRVGLLEALLG-QPEAVARLRATFAGLYSLDMGEEGDQAIAEALAAPSHFVLKPQREGG
+GNNLYGEEMVQALEQL-KDEERASYILMEKIEPEPFRNCLLRPGS-PAQVVQCISELGIFGVYVRQGTTL
+VMNKHVGHLLRTKAVEHADG---GVAAGVAVLDNPY--*
+>P1;gi|6680117|ref|NP_032206.1| glutathione synthetase [Mus musculus... [ score 318 E 1e-85 ] [ range 12 .. 203 ] [ duplicate b ]
+sequence
+---------EKQLEELAKQAIDRALAEGVLLRSAQHPSSSDVVTYAPFTLFPSPVPSALLEQAYAVQMDF
+NILVDAVSQNPAFLEQTLSSTIK-----KDDYTARLFDIYKQVLKEG--IAQTVFLGLNRSDYMFQGAD-
+GSKALKQIEINTISASFGGLASRTPAVHRHLNVLNKTKEASKILS------NNPSKGLALGIAKAWELYG
+SAN-------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|24642900|ref|NP_728116.1| CG32495-PB [Drosophila melanogaster... [ score 307 E 2e-82 ] [ range 265 .. 481 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------SQEVAVIYFRAGYEP----GHYHSQADWDARYLMETSLAIKCPSYH
+LAGTKKVQQALAQPAVLERFIN-DPEEIKAVGKIFTGLYSLDDNEAGNASYEMALRTPERFVLKPQREGG
+GNNVYGVDIPDALKRM-SRVERSAWILMDLIHPPLTKGYMVRPGG-PPQIVDMVSELGIFGVVIGDAEHI
+VHNYQAGHMLRTKLSTANEG---GVAAGLGALDSPYL-*
+>P1;gi|24642900|ref|NP_728116.1| CG32495-PB [Drosophila melanogaster... [ score 307 E 2e-82 ] [ range 19 .. 205 ] [ duplicate b ]
+sequence
+--------AEDELLEVTAKAKDYAIMHGAAMR-SKTAFSPDSLNFAPFVLVPSSFPRKEFEKAVALQPII
+N----RLMHNVAHDEEFI-TTTLAETIKVDEFTANLFNIYRKVL--AHGFTQAYSIGLLRSDYMAHVSE-
+GC-AIKQVEINTVASSFAGIATQVPQQKFVLSELGHADKL------HNMPDNNALAGLCDGMVKAWDIYA
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|4808537|gb|AAD29848.1| putative glutathione synthetase; GSHS1... [ score 301 E 2e-80 ] [ range 107 .. 315 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AVIYFRAGYTPVDYPSESEWR----ARLLMESAVKCPSISYH
+LVGTKKIQQELAKPGVLERFLE-NKDDIAKMRECFAGLWSLDDSDIVKK----AIERPELFVMKPQREGG
+GNNIYGDAVRDTLIKL-QKQEDAAYILMQRIFPNIS-AAVLMRNG-GCHKDHAISELGIFGTYLRNKDRV
+VMNNQSGYLMRTKISSSDEG---GVAAGFAVIDSVYL-*
+>P1;gi|15277522|gb|AAK93946.1| glutathione synthetase GSHS1 [Medicag... [ score 301 E 2e-80 ] [ range 93 .. 285 ] [ duplicate b ]
+sequence
+---------QQLLDNIAYDALVWASLHGLLMGDKSYQKSGMVPGVAPFSLFPTSFPESKWKQACDLAPIF
+NELVDRVSLDGKFLQESLPRTKQV-----DEFTSRLLDIHSKMLQLN--KKEEIRFGLHRSDYMLDEQ--
+-TKSLLQIELNTISSSFAGFSTLVTQLHRYILTCH--GKLLGLDSEK-VPANNAVSQNAEALAKAWSEYN
+N---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|9754870|gb|AAF98121.1| glutathione synthetase precursor [Pisu... [ score 298 E 1e-79 ] [ range 343 .. 551 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AVVYFRAGYTPADYPSESEWR----ARLLMESAVKCPSISYH
+LVGTKKIQQELAKPGVLERFLE-NKDDIAKMRECFAGLWSLDDSDIVKK----AIEKPEIFVMKPQREGG
+GNNIYGDAVRETLIKL-QSQEDAAYILMQRIFPNLS-AALLMRNG-YLHKDHAISELGIFGTYLRNKDRV
+IINNQSGYLMRTKIASSDEG---GVAAGFAVLDSVYL-*
+>P1;gi|9754870|gb|AAF98121.1| glutathione synthetase precursor [Pisu... [ score 298 E 1e-79 ] [ range 89 .. 369 ] [ duplicate b ]
+sequence
+---------QQLLDSIAYDALVWASLHGLVMGDKSSKKSGTVPGVAPFALLPVSLPESKFKQACDLAPIF
+NELVDRVSLDANFLQESLSRTKKV-----DEFTSRLLDIHSKMLHVN--KKEEIRLGLHRSDYMLDEQ--
+-TKSLLQIELNTISSSFAGFGSLVTELHRYLSRHGKLLGL----DAENVPVNNAVIQNAEGLAKAWIEYN
+N--PKAVIMFVVQAESLSAVLK-EKHGITIVRKTLAE--VDQEGEILPDGTLTVNGQAVAVVYF--RAG-
+---YTPADYP-------SESEWRARLLME-----------------------------------------
+--------------------------------------*
+>P1;gi|6324524|ref|NP_014593.1| Glutathione synthetase, catalyzes th... [ score 298 E 2e-79 ] [ range 300 .. 491 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------EARLFLEKSFAIKAPDLQ
+LSGSKKIQQLLTDEGVLGKYIS-DAEKKSSLLKTFVKIYPLDDTKLGREGKRLALSEPSKYVLKPQREGG
+GNNVYKENIPNFLKGI-EERHWDAYILMELIEPELNENNIILRDN-KSYNEPIISELGIYGCVLFNDEQV
+LSNEFSGSLLRSKFNTSNEG---GVAAGFGCLDSIILY*
+>P1;gi|20138145|sp|O22494|GSHB_LYCES Glutathione synthetase, chlorop... [ score 297 E 3e-79 ] [ range 291 .. 545 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------------------------------MYDQHW-
+LSASLRERQVTTIRKTLAEIGTLVGQAVAVIYFRAGYAP-SDYHSESEW---KARLLMERAVKCPSISYH
+LAGSKKIQQELAKPNVLERFLE-NKDDIAKLRKCFAGLWSLDESDIVKD----AIERPELYVMKPQREGG
+GNNIYGEDVRGALLKL-QKEGDAAYILMQRIFPKISH-SILMREG-ISHKEETISELGIYGTYLRNKTEV
+LINQQAGYLMRTKVSSSDEG---GVAAGFAVLDSIYL-*
+>P1;gi|20138145|sp|O22494|GSHB_LYCES Glutathione synthetase, chlorop... [ score 297 E 3e-79 ] [ range 86 .. 273 ] [ duplicate b ]
+sequence
+------------VQKLANDALVWCPLRGLLVGDRNSERSGTIPGVAPVALIPMSFPESHWKQACEVAPIF
+NELVDRVSQDGEFLQQSLSRTRKA-----DPFTSRLLEIHSKMLEIN--KLEEIRLGLHRSDYMLDEQ--
+-TKLLLQIELNTISSSFPGLSCLVSELHRSLLQQYREDIAS---DPNRIPANNAVNQFAEALAKAWNEY-
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|20138150|sp|O23732|GSHB_BRAJU Glutathione synthetase, chlorop... [ score 297 E 3e-79 ] [ range 321 .. 529 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------SVVYYRSGYTPR-DYPSESEW---NARLLIESAVKCPSIAYH
+LAGTKKIQQELAKPGVLERFMD-NKDDIAKLRKCFAGLWSLDDPEI----IKKAIEKPELFVMKPQREGG
+GNNIYGDDVRENLLRL-QEEENAAYILMQRIFPKVS-NVFLLRDG-VYHKDQAISELGVYGAYLRNKERV
+IINEHSGYLMRTKVSSSDEG---GVAAGYAVLDSIYL-*
+>P1;gi|20138150|sp|O23732|GSHB_BRAJU Glutathione synthetase, chlorop... [ score 297 E 3e-79 ] [ range 70 .. 299 ] [ duplicate b ]
+sequence
+------------VQKLVYDALVWSSLHGLVVGDKTHQRSGTVPGVAPIALLPTPFPESYWNQACEVAPIF
+NELVDRISLDGKFIQDSLSRTRKA-----DVFTSRLLEIHSKMLESN--KREEIRLGLHRSDYMLDEE--
+-TKSLLQIEMNTISCSFPGFGRLVTELHQSLLRSH--GDHLGL-DSKRVPRNGSTSQFADAMAKAWLEYN
+N--PRAVVMVVVQPDELSSVLR-EKHNIVTIRKSLA----------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|15193452|gb|AAD29849.2| homoglutathione synthetase GSHS2 [Med... [ score 295 E 1e-78 ] [ range 358 .. 545 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------ARLLIEQSSAIKCPSYH
+LVGTKKIQQELARPNVLERFFE-NKEDIAKLRKCFAGLWSLEDSDIVNE----AIAKPELFVMKPQREGG
+GNNIYGDDLRETLKRL-QKQEDAAYILMQRIFP-ANTASILMRNG-FLHKDHVISEFGIFSTYLRNKDKV
+IVNNESGYMVRTKPSLSDEG---GVLPGFGVIDSVYL-*
+>P1;gi|15193452|gb|AAD29849.2| homoglutathione synthetase GSHS2 [Med... [ score 295 E 1e-78 ] [ range 86 .. 275 ] [ duplicate b ]
+sequence
+------------LENIVYDALVFATLNGLLVGDKSVERSGRVPGVGLVHLLPPPLPETHWKQACDLSPLF
+NELVDRVSLDGKFLQQSLSKTKKA-----DEFTSRLLDIHAKMLEMN--KKEEIRMGLFRSDYMLDEK--
+-TKSLLQIEMNTISTSFSGVGVVMTELHR--NILSHYGKLLGLDSE-RVPVNTADSRYAEALAKAWKEYN
+N---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|37222544|gb|AAK77663.2| glutathione synthetase [Lotus cornicu... [ score 294 E 2e-78 ] [ range 341 .. 549 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AVVYFRAGYTPVDYPSESEWR----ARLLMESAIKCPSISYH
+LVGTKKIQQELANPGVLERFLE-NKGDIAKLRECFAGLWSLDDYDITRK----AIEKPELFVMKPQREGG
+GNNIYGNAVRETLLKL-QQQEDAAYILMQRIFPTLS-AAVLMRNG-CWHKDHAVSELGIFSTYLRNKDRV
+VMNNQSGYLMRTKISSSDEG---GVAAGFAVLDSVYL-*
+>P1;gi|37222544|gb|AAK77663.2| glutathione synthetase [Lotus cornicu... [ score 294 E 2e-78 ] [ range 87 .. 278 ] [ duplicate b ]
+sequence
+---------QQLLQKIADDALVWASLHGLVMGDKSVQRSGTVPGVAPFALFPTLFPESQWRQACDLAPIF
+NELVDRVSLDGKFLQESLSRTKEV-----DEFTSRLLDIHSKMLAIN--KKEEIRLGLHRSDYMLDEK--
+-TKSLLQIELNTISSSFAGLGSLVTELHRYLSRYGKLLGL----DSGKVPANNAATQFAEGLARAWTEYN
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|17154690|emb|CAC83006.1| putative glutathione synthetase [Zea... [ score 294 E 2e-78 ] [ range 177 .. 390 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------VGQKVAVVYFRAGYTPN----DYPSEAEWSARLMMESAVKCPSISYH
+LVGTKKIQQELAKPNVLERFLK-SEEEIEKVRKCFAGLWSLDDEDI----IKTAVEKPELFVLKPQREGG
+GNNIYGLDLRETLVRL-QKEALAAYILMQRIFPKASPAY-LVRGG-VCHEGLAISELGIYGAYLRNKDKV
+VINEQCGYLMRTKVSSSDEG---GVAAGFAVLDSLYL-*
+>P1;gi|34484369|gb|AAO92441.1| homoglutathione synthetase [Lotus cor... [ score 293 E 3e-78 ] [ range 336 .. 544 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AIVYFRAGYTPKDYPSESEWR----ARLLMEQSSAIKCPSYH
+LVGTKKIQQELAKPNVLERFFE-NKDDVAKLRECFAGLWSLDDSDIVKQ----AIEKPELFVMKPQREGG
+GNNIYGDDLRETLIKL-QKEEDAAYILMQRIFPT-STAAILMRNG-CWHKDHVLTEFGIFGTYLRNKDKV
+IINSESGYMVRTKMSSSDEG---GVLPGFGVIDSVYL-*
+>P1;gi|34484369|gb|AAO92441.1| homoglutathione synthetase [Lotus cor... [ score 293 E 3e-78 ] [ range 85 .. 362 ] [ duplicate b ]
+sequence
+------------LENVVYDALVYATLNGLLVGDKSVQRSGKVPGVGLVHLLPPPLPESYWKQACELAPLF
+NELVDRVSLDGKFLQESLSRTKKA-----DEFTSRLLDIHSKMLEIN--KKEEIRMGLHRSDYMLDEK--
+-TKRLLQIEMNTISTSFSGVGCVTTELHRNLSHYGKLLGLDSI----RVPANSATNKFAETLAKAWLEYN
+N--PRAVIMIMVQPEMISAVLR-EKYHIPTIRKTLAEVAVLPDGTLSVDGQAIAI----VYF----RAG-
+---YTPKDYP-------SESEWRARLLME-----------------------------------------
+--------------------------------------*
+>P1;gi|9755017|gb|AAF98156.1| putative homoglutathione synthetase [P... [ score 292 E 7e-78 ] [ range 240 .. 494 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+---------------------------------------------------------------MYDQHF-
+VSAILRERHITTIRKTLAEIGEILSQVVAIVYFRAGYTPA-DYPSESEW---KARLLIEQSSAIKCPSYH
+LVGTKKIQQELAQPNVLERFFE-NKEDIAKLRKCFAGLWSLEDSDIVKR----AIETPELFVMKPQREGG
+GNNIYGDDLRETLLKL-QKQEDAAYILMQRIFP-VNTEAILVRNG-FLHKDRVISEFGIFSTYLRNKDKV
+IVNNESGYMVRTKPSLSDEG---GVLPGFGVIDSVYL-*
+>P1;gi|9755017|gb|AAF98156.1| putative homoglutathione synthetase [P... [ score 292 E 7e-78 ] [ range 32 .. 224 ] [ duplicate b ]
+sequence
+---------EKVVQQIVYDALVFTTLNGLLVGDKSVQRSGRVPGVGLVHLLPPPFPQTHWNQACELAPLF
+NELVDRVSLDANFLQQSLSRTKKV-----DEFTSRLLDIHSKMLEIN--KKEEIRLGLFRSDYMFDEK--
+-TQSLLQIEMNTISTSFSGVGCIITQLHR--NILSRYGKSLGLDSE-RVPTNTADSKYAEALAKAWSEYN
+N---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|5531229|emb|CAB51026.1| glutathione synthetase [Arabidopsis t... [ score 292 E 7e-78 ] [ range 330 .. 538 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AVVYFRSGYTPN----DHPSESEWNARLLIEEAVKCPSIAYH
+LTGSKKIQQELAKPGVLERFLD-NKEDIAKLRKCFAGLWSLDDSEIVKQ----AIEKPGLFVMKPQREGG
+GNNIYGDDVRENLLRL-QKEGEAAYILMQRIFPKVS-NMFLVREG-VYHKHQAISELGVYGAYLRSKDKV
+IVNEQSGYLMRTKIASSDEG---GVAAGFGVLDSIYL-*
+>P1;gi|5531229|emb|CAB51026.1| glutathione synthetase [Arabidopsis t... [ score 292 E 7e-78 ] [ range 79 .. 308 ] [ duplicate b ]
+sequence
+------------VQKLVYDALVWSSLHGLVVGDKTYQKSGNVPGVAPIALLPTGFPEAYWKQACDVTPLF
+NELIDRVSLDGKFLQDSLSRTKKV-----DVFTSRLLDIHSKMLERN--KKEDIRLGLHRFDYMLDEE--
+-TNSLLQIEMNTISCSFPGLSRLVSQLHQSLLRS--YGDQIGIDSE-RVPINTSTIQFADALAKAWLEY-
+-SNPRAVVMVIVQPELLSSILR-EKHNIVVIRKTLA----------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|33352233|emb|CAE18177.1| glutathione synthetase [Triticum aes... [ score 292 E 1e-77 ] [ range 264 .. 472 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AVVYFRAGYTP-----NDYPSEAEWSARLLSSAVKCPSISYH
+LVGTKKIQQELAKPNVLERFLE-NKEEIAKLRQCFAGLWSLDD----KEVVKSAIENPDLFVLKPQREGG
+GNNIYGLDVREALIRL-KKEALSAYILMQRIFPKASLAS-LVRGG-FCHEALTVSELGIYGAYLRNKDKV
+IINDKCGYLMRTKVCSSDEG---GVAAGFAVLDSLYL-*
+>P1;gi|33352233|emb|CAE18177.1| glutathione synthetase [Triticum aes... [ score 292 E 1e-77 ] [ range 13 .. 290 ] [ duplicate b ]
+sequence
+------------VEEMARSATAWCAMHGLVVGDRADPRSGTVPGVAPISLLPSRLPESFWSQACELAPLF
+NELVDRVSLDGDFLQDSLSKTRQV-----DDFTSRLLDIHRKMMDAN--KEENIRLGLHRSDYMLDSE--
+-TNSLLQIELNTISVSFPGLCSIVTELHRTLI--NQYGNLLCL-DAKRVPGNDASRQFAKALAKAWDEFN
+VDSA--VVMMIVQPEELVKYLR-ESHGITTIRKTLAEGQVLLDGTLVVNGRKVAV----VYF----RAGY
+TPNDYP-----------SEAEWSARLLME-----------------------------------------
+--------------------------------------*
+>P1;gi|544431|sp|P35668|GSHB_XENLA Glutathione synthetase (Glutathio... [ score 291 E 1e-77 ] [ range 169 .. 473 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------FLRKSEESSSILTNDAIAHAWALYGSVDATVMFLVEN----EQRN--ILDQRF-
+IEAELCKRNVRVIRRRLADVFERGTDEERHL-FIDGYEVAVAYFRTGYVPQDEARLMLERSRAVKCPDVQ
+LVGTKKVQQELSRPQILEKFLP-DKEAVARIRETFTGLYSLDIGEEGDEAVRVALANPDQFVLKPQREGG
+GNNLYGEELKEKLQEC-KDEERTSYILMDKINPKPLKNCLLRAGG-RVQISECISELGMFGVYVRHRDQM
+IYYDQVGHLLRTKAIEHSDG---GVAAGVAVLDNPYL-*
+>P1;gi|544431|sp|P35668|GSHB_XENLA Glutathione synthetase (Glutathio... [ score 291 E 1e-77 ] [ range 15 .. 202 ] [ duplicate b ]
+sequence
+------------LEELAPIAIDAALLQGVLMRTKESPNSSDVVSFAPFALLPSPVPKALFEQAKCVQEDF
+NTLVDRISQDTSFLEQVLSSTIKV-----DDFIRRLFAIHKQVQQEDC--TQEVFLGINRSDYMFDRDD-
+GTPALKQIEINTIAASFGGLASRTPAVHQHLKFLRKSEESSSIL------TNDAVEGIGWGIAHAWALYG
+SV--------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|7799808|emb|CAB91078.1| homoglutathione synthetase [Glycine max] [ score 290 E 4e-77 ] [ range 290 .. 498 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------SVVYFRAGYTPKDYPSESEWR----ARLLMESAIKCPTISYH
+LVGTKKIQQELAKPGVLERFVE-NKDHIAKLRACFAGLWSLEDSDIVKK----AIENPELFVMKPQREGG
+GNNIYGDELRETLLKL-QEQEDAAYILMQRIFPATSPA-ILVRDG-NWDTGHVISEAGIFGTYLRNKDKI
+IINNESGYMVRTKISSSYEG---GVLPGFGVVDTVYL-*
+>P1;gi|7799808|emb|CAB91078.1| homoglutathione synthetase [Glycine max] [ score 290 E 4e-77 ] [ range 39 .. 270 ] [ duplicate b ]
+sequence
+------------LQNIVYDALVWSTLNCLLVGDKSVQRSGRVPGVGPLSLLPGPFPESHWKQGCELAPIF
+NELVDRVSLDGKFLQESLSRTKNA-----DEFTSRLLDIHSKMLQIN--KKEDIRMGIVRSDYMIDEK--
+-TKSLLQIEMNTISTSFALIGCLMTGLHKSL--LSQYGKFLGL-NSNRVPANNAVDQSAEALAKAWSEYN
+NAAILVVVQVEERNMYEQHYIS-EKHHIRSIRKTLTEI--------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|33352231|emb|CAE18176.1| glutathione synthetase [Triticum aes... [ score 287 E 3e-76 ] [ range 316 .. 524 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AVVYFRAGYAP----TDYPSEVEWSARLLIESAIKCPSISYH
+LVGTKKIQQELAKPSVLERFLD-NEEDIAKLCKCFAGLWSLDNEEIVKS----AIEKPDLFVLKPQREGG
+GNNLYGHDLRETLIRL-KNKQLAAYILMQRIFPRASLTQ-LVQGG-VCFEELSISELGIFGSYLRNKDKV
+VINNQCGYLMRTKVSSSNEG---GVAAGFAVLDSILL-*
+>P1;gi|33352231|emb|CAE18176.1| glutathione synthetase [Triticum aes... [ score 287 E 3e-76 ] [ range 67 .. 254 ] [ duplicate b ]
+sequence
+--------------EMVEAAAMWCAMHGLVVGDRGNPRSGTVPGVAPFSLLPTRFPASFWKQACELAPIF
+NELVDRVSLDGKFLQGSLSRTKQV-----DDFTARLLEIHAKMM--AVNKKEDIRLGLHRSDYMLDSE--
+-TNSLLQIELNTISTSFPGLGSLVSELHRTL--LNQYGEVLGLDSE-RIPRNWAAIQFAEALGKAWVEYN
+N---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|33352237|emb|CAE18179.1| glutathione synthetase [Zea mays] [ score 286 E 7e-76 ] [ range 265 .. 472 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AVVYFRAGYAPN----DYPSEAEWSARLMMESAVKCPSISYH
+LVGTKKIQQELAKPNVLERFL--KSEEIDKVRKCFAGLWSLDDEYI----IKTAVEKPELFVLKPQREGG
+GNNIYGLDLRETLVRL-QKEALAAYILMQRIFPKASPAY-LVRGG-VCHEGLAISELGIYGAYLRNKDKV
+VINEQCGYLMRTKVSSSDEG---GVAAGFAVLDSLYL-*
+>P1;gi|33352237|emb|CAE18179.1| glutathione synthetase [Zea mays] [ score 286 E 7e-76 ] [ range 16 .. 291 ] [ duplicate b ]
+sequence
+--------------EMAREAAAWCSLHGLVVGDRADQRSATVPGVAPFSLLPAHFPESFWRQACELAPVF
+NELVDRVSMDGNFLQNALSKTRQV-----DDFTSRLLEIHRKMMEIN--KEENIRLGLHRSDYMLDSE--
+-TSSLLQIELNTISASFPGLGSLVSDLHRSLIKQ--YGTSLSL-EHKRVPANAASTQFSEALAQAWSEFN
+IDSA--VIMMIVQPEELSKHLQ-DSHGITTIRKTLAEGQVLPDGTLLVGGQKVAV----VYF----RAGY
+APNDYP-----------SEAEWSARLMME-----------------------------------------
+--------------------------------------*
+>P1;gi|31203207|ref|XP_310552.1| ENSANGP00000017318 [Anopheles gambi... [ score 284 E 2e-75 ] [ range 309 .. 522 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------SVVYFRAGYEP-GHYFGAGEW---DARLLIERSVAIKCPSYH
+LAGTKKVQQALAKPDVLRRFVG-DAPKIEAIRDIFTGLYSLDREEGGDEAVALALADPERYVLKPQREGG
+GNNVYGADIPAALQAM-SSAERSAWILMERIFPPLSTGYMVRPNG-PVPPVQLVSELGIFGAIIGSKDKV
+LYNKQIGHMLRTKLSSSNEG---GVAAGSGALDSPYL-*
+>P1;gi|31203207|ref|XP_310552.1| ENSANGP00000017318 [Anopheles gambi... [ score 284 E 2e-75 ] [ range 65 .. 242 ] [ duplicate b ]
+sequence
+------------LQEVVEKAKDWAIMHGAAMRSKQD-FNPDALLFAPFILTPSSFPRKEFQKAVELQPLL
+NELIHAVAHDSQFLLATLSSTEKV-----DEFTRALIAIYRTVLDEG--IAQTVTLALLRSDYL---PN-
+FSDTIKQVEINTIASSFGGISTIMTPMHSYI-----LSELGHREKLVNLPDNKALSGLCDAMVEAWK---
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|9755019|gb|AAF98157.1| homoglutathione synthetase [Phaseolus ... [ score 282 E 9e-75 ] [ range 334 .. 542 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------SVVYFRAGYTPKDYPSESEWR----AGLLMESAIKCPSISYH
+LVGTKKIQQELAKPGVLERFVE-NKDHVAKLRACFAGLWSLEDSDIAQK----AIENPELFVMKSQREGG
+GNNIYGDDMRENLLKL-QKEEDAAYILMQRIFPATFPA-ILVRDG-NWSTGHVIAEAGIFGTYLRNKDKI
+IINNESGYMVRTKVSSSYEG---GVLPGFGVVDTVYL-*
+>P1;gi|9755019|gb|AAF98157.1| homoglutathione synthetase [Phaseolus ... [ score 282 E 9e-75 ] [ range 83 .. 360 ] [ duplicate b ]
+sequence
+------------LENIVYDALVWSTLNCLLVGDKSVQRSGTVPGVGPLCLLPGPFPESHWKQACELAPIF
+NELVDRVSLDGKFLQESLSRTKNA-----DEFTSRLLDIHSKMLQIN--KKEDIRLAIVRSDYMVDEK--
+-TNSLLQIEMNTISTSFALIGCLMTGLHKSLI--SQYGNILGLDSN-RVPANNAVDQSAEALAKGWSEYN
+VV----VQVE--ERNMYEQLLR-DKYHIKSIRKTLAE--VDQEGEILPDGTLSVDGQPISVVYF--RAG-
+---YTPKDYP-------SESEWRAGLLME-----------------------------------------
+--------------------------------------*
+>P1;gi|42541303|gb|AAS19531.1| glutathione synthetase [Oryza sativa ... [ score 282 E 9e-75 ] [ range 190 .. 445 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+--------------------------------------------------------------YMYDQYW-
+ITVALREMGVTTIRKTMAAIGTLTDGLVAVVYFRAGYTPNDYPSEAEWR----ARLLIESAIKCPSIAHH
+LVGTKKIQQELAKENVLERFLD-NKADIEKVRKCFAGLWSLENDSIVMS----AIESPELFVLKPQREGG
+GNNIYGDNLRETLISL-KKNELAAYILMQRIFPPASL-CYLVRDG-TCIRENAVSEFGIFGAYLRNKDRV
+IINDQCGYLMRTKAASLNEG---GVVAGYAFLNSVFL-*
+>P1;gi|42541303|gb|AAS19531.1| glutathione synthetase [Oryza sativa ... [ score 282 E 9e-75 ] [ range 17 .. 178 ] [ duplicate b ]
+sequence
+---------------------------------------PRVRLHAPFALLPMSFSKVYWDQAVELAPLF
+NELVDRVSLDGDFLQETLARTKEV-----DSFTGRLLDIHAKMMKLN--KKEDVRLGLTRSDYMID--G-
+ATDQLLQVELNTISTSSNGLACGVCELHRNLIRQH---ERELGLDPESVVGNTAIAQHAEALAGAWAEFN
+NQSS------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|45185970|ref|NP_983686.1| ACR284Cp [Eremothecium gossypii] >g... [ score 261 E 2e-68 ] [ range 267 .. 483 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------TSTGQEIAVVYFRTCYSPQD--FASEQDWKNRLSLELSYAIKAPNLLTQ
+LSGTKKVQQLLSEEAVLAKFLP--ADRRSDIGATFVNLYPLDDSPLGKEGKRLALEMPERYVLKPQREGG
+GNNIYKEDIPAFLGTI-PEEEWNGYVLMELINPKLNEN-VLVRGQ-ELFQEPLISELGIYGTILFSDEEI
+YSNDYAGWLLRSKLPSSNEG---GVAAGFGCVDSMVLY*
+>P1;gi|45185970|ref|NP_983686.1| ACR284Cp [Eremothecium gossypii] >g... [ score 261 E 2e-68 ] [ range 13 .. 205 ] [ duplicate b ]
+sequence
+--------AEEVEQRLLPELLQWSLANGGTIYPPGF--NINQAEALTMTLFPTPLPRKALEKAVRVQTTY
+NELYARIAQD---KNGWLSEVTEQLANFDANFTGRLWKLYLE--AQAIGISQKIGLGVFRSDYLLDADS-
+G--DLKQVEFNTVSVSFAGLSTKVGAVHNFLNESGKYSRNGGRFYESEVPISESAFLLPRALASAADKYN
+S---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|18077814|gb|AAL58476.1| glutathione synthetase [Pichia angusta] [ score 255 E 2e-66 ] [ range 219 .. 472 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------FDQRA-
+IEYSLFAVEFDKVTSSVKVDSSSKEQEVAVVYYRSAYAP-----SEYNHPDSKARLLLETTKAVKCPSLQ
+LSGAKKVQQLLTDRAVLQKYGF-LDEE---LLSTFVRIYPLDSSEQGQIAKKLVFEHSERFVLKPQREGG
+GNNIYKQDIPGFLRSL-DEKEWGAYILMELIVPAVHDNHIL-RNG-EVLDESIVSELGMFGTLLFNDGTI
+LHNDYAGYLLRSKTSTSNEG---GVAAGFGCVDSLYLH*
+>P1;gi|18077814|gb|AAL58476.1| glutathione synthetase [Pichia angusta] [ score 255 E 2e-66 ] [ range 13 .. 198 ] [ duplicate b ]
+sequence
+------------LDDLVEKLTHYAISNGLVIYPPGFK--AYQPSVAPVTLYPTPFPRAQFSKGIAISTKF
+NELYSRVVVD----KSWLKQVIADLSKYDRNFTGMLHKTY---LEAEPKIVQPVSLGLFRSDYMLDT---
+VSNSIKQVEFNTVSVSFGGLSPKVGQLHSFLNSQGLYG-RPQYYQEADLPTSQSMDGLAKGLLEAVKYYE
+T---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|39587797|emb|CAE67815.1| Hypothetical protein CBG13395 [Caeno... [ score 251 E 2e-65 ] [ range 276 .. 487 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AIVYFRAGYSPDH--YQSDKEWEARERMELSTALKTPWIGLQ
+VANTKKTQQVLSEDGVLERFIG-KPREARDIRRSFAGMWALENSEVTLKVVQGAQKHPEAFVLKPQTEGG
+AALHTGDEMVQMLKEL-PEEERGAYILMEKLRPMIIENYLVFARK-PVTFAKAVSELGIYG-YAFGAKDA
+PELKTAGHLLRSKPESTAMG---GVAAGYAVVDTPFLY*
+>P1;gi|39587797|emb|CAE67815.1| Hypothetical protein CBG13395 [Caeno... [ score 251 E 2e-65 ] [ range 20 .. 212 ] [ duplicate b ]
+sequence
+---------EDKVKELAGDLHDYAHAHGLVMRLSTDKMSSEVCQTTPLTLLPSPFPKNVFDEAVRIQNLY
+ASLYHYIAYDF----DFLIDIHKNVVKTD-EFTRKMIEILKKVKE--QGLKQPVTLAIQRSDYMCHKDQ-
+SSAELKQIEINNIASSMGAHAERLTQWHRVLKALDVPDDVIRRAIPENKPIP----MIAEALFKAWSHFN
+N---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|17646699|gb|AAL41009.1| glutathione synthetase [Schizosacchar... [ score 248 E 2e-64 ] [ range 238 .. 496 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------DQRT-
+LEYELLNR-FHVISKRI-DIAELNSLIHAVVYYRVGY----ALDDYPSQEAWDMRLTIENTLAIKCPSIH
+LAGSKKIQQVLAESNALERFL--EGDELQAVRSTFADMYPLDDTPRGKEGIKLAFEKPEDFVLKPQREGG
+GNNTYGKDIPGLLSKM-PQEEWDSYILMRYINAVPSQNYIL-KGE-RPEKFDVVDEIGILGTIVWNTDEV
+VQNGQSGFICRTKPKKTNEG---GVATGYASLSSIEL-*
+>P1;gi|17646699|gb|AAL41009.1| glutathione synthetase [Schizosacchar... [ score 248 E 2e-64 ] [ range 7 .. 204 ] [ duplicate b ]
+sequence
+--------TPEQIEELGKGARDFAFAHGVVFTELSVSKEGRNATQIPITLFPSVIPHGAFVEAVSVQKAY
+NKLYAKIANDYEFLRLHLQSITKY-----DEFMNKLWNLYQKHLKENQF--QPLSLGVFRSDYTVHQDD-
+SFIGCKQVEFNTISVSFGGVSKAVSNLHAYCSQSGLY--RKPLTTNY-LTVNTSVSGICTGISNAVDAYR
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|17535239|ref|NP_496011.1| glutathione synthetase (55.4 kD) (2... [ score 246 E 4e-64 ] [ range 274 .. 487 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------QVAIVYFRAGYSPDH--YPSTKEWEARERMELSTAIKTPWIGLQ
+VANTKKTQQVLSEDGVLERFIG-KPREARDIRASFAGMWALENTEVTMKVVAGAQKHPEAFVLKPQTEGG
+AALHTGDEMVQMLREL-PEEERGAFILMEKLKPMIIENYLVLAKK-PITFAKAVSELGVYG-YAFGRKDA
+PELKTAGHLLRTKPESTAMG---GVAAGHAVVDTPFLY*
+>P1;gi|17535239|ref|NP_496011.1| glutathione synthetase (55.4 kD) (2... [ score 246 E 4e-64 ] [ range 21 .. 212 ] [ duplicate b ]
+sequence
+----------DKLNELTADLHDWAHANGLVMRLSTDKLSSEVCQTTPLTLLPSPFPKNVFEEAVHIQNLF
+ASLYHFIAYEF----DFLIDIHKNVVKTDD-FTRNMVEILKKVK--AQGLKQPVTLAIQRSDYMCHKDQ-
+YSAELKQIEINNIASSMGAHALRLTEWHRVLKALNISDDVIQRAIPENKPIP----MIAEALFKAWSHFS
+N---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|42555023|gb|EAA77866.1| hypothetical protein FG07268.1 [Gibbe... [ score 246 E 6e-64 ] [ range 261 .. 481 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------TKVYEV-AVIYMRSGYGPS----DYPDQQAWDARYHLERSNAIKCPTVQ
+LAGTKKVQQILATPSALSRFID-DTDDAAELWRTFTNIYPMDTSDAGLEARKKALDPCQDYVLKPQREGG
+GNNIYRGAIPGFLKSV-PESHWGSYILMELITPPP-VNNIILRNG-NLEQGGVICELGIYGTCVWDQGKV
+HHNEEAGYLLRTKGDKSEEG---GVAAGFGS-------*
+>P1;gi|42555023|gb|EAA77866.1| hypothetical protein FG07268.1 [Gibbe... [ score 246 E 6e-64 ] [ range 16 .. 133 ] [ duplicate b ]
+sequence
+----------EEKDALIETVKDWSIGNGLAVRPPAAEADPKGATNVPVTLFPSPFPSQCFSQGKAVQKTY
+NELYASVSRD----EEFLAQVVKEVADGD-EFIRNLWDVHTKVKAEGYTQARIYTLG-------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|82802|pir||JT0961 glutathione synthase (EC 6.3.2.3) large cha... [ score 246 E 9e-64 ] [ range 25 .. 283 ]
+sequence
+----------------------------------------------------------------------
+-----------------------------------------------------------------DQRT-
+LEYELLNR-FHVISKRI-DIAELTSLIHDK-SSNKLYMKTSFTTYEVAVVYYDMRLTIENTLAIKCPSIH
+LAGSEKIQQVLAESNALERFL--EGDELQAVRSTFADMYPLDDTPRGKEGIKLAFEKPEDFVLKPQREGG
+GNNTYGKDIPGLLSKM-PQEEWDSYILMRYINAVPSQNYIL-KGE-RPEKFDVVDEIGILGTIVWNTDEV
+VQNGQSGFICRTKPKKTNEG---GVATGYASLSSIEL-*
+>P1;gi|43641216|gb|EAE75320.1| unknown [environmental sequence] [ score 244 E 2e-63 ] [ range 45 .. 257 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------ALVYYRAGYTP----DDFKNPEAKKGRELIEHSSAIQTPDLQ
+LAGMKKIQQALTRPEILSQFAP--KPWIPKMASTFVKMHSLDDTGASQKAIDLANKNPESWVLKPQREGG
+GNNYFDKEMTQKLNMM-KPSELKAHVLMERIRPRSHSAWLMVQGQ-TEYT-SCVSEIGRYGVLLANRGTI
+ELNSDCGYLVRTKSEGVNEG---GVCAGYSCLNTLCL-*
+>P1;gi|32411131|ref|XP_326046.1| hypothetical protein [Neurospora cr... [ score 239 E 9e-62 ] [ range 290 .. 513 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AVVYLRAGYGP----GDYPDQEAWEARYQIERSNAVCCPTVQ
+LAGMKKVQQVLATPEALAKFMP-PTEKTQRLLKTFTNIYPLDTSSSGLHARSLATSPCQKYVMKPQREGG
+GNNFYRSAIPEQLAKI-PEEHWNSFILMEIIEPPALANSIL-RNG-KVEVGGVICELGVYGTCLWDQGEI
+KFNEEAGYLLRTKGDKSEEG---GVAAGYGCMDSVTL-*
+>P1;gi|32411131|ref|XP_326046.1| hypothetical protein [Neurospora cr... [ score 239 E 9e-62 ] [ range 17 .. 174 ] [ duplicate b ]
+sequence
+-----------EKERLVQVVKDWTVAHGLTVRPPGNDTEGILATSAPVTLFPSPFPKSCFEEAKAIQTTY
+NELYALISQD----EEFLTEMVKEVAGGD-EFIANLWNVHLRVKKEGYV--QNLALGLFRSDYMVHQDD-
+ASLQIKQVEFNTIASSFGGLSTQTSLLHKHLAQ-------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43793027|gb|EAF51086.1| unknown [environmental sequence] [ score 239 E 1e-61 ] [ range 14 .. 226 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------ALVYYRAGYTPA----DFKNPEAKKGRELIEHSSAIQTPDLQ
+LAGMKKIQQALTRPEILSQFAP--KPWIPKMASTFVKMHSLEDTKALGEPIDLANKNPESWVLKPQREGG
+GNNYFDKEMTQKLNIM-TPSELKAHVLMERIRPR-SHPALLMVQG-QSEYASCVSEIGRYGVLLANLGTI
+ELNSDCGYLVRTKSEDVNEG---GVCAGYSCLNTLCL-*
+>P1;gi|38110819|gb|EAA56483.1| hypothetical protein MG06454.4 [Magna... [ score 238 E 2e-61 ] [ range 331 .. 552 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AVVYMRSGYGP----GDYPDEEAWQGRLQLERSNAIKCPTVQ
+LAGMKKVQQVLATPPSLGRFVP-EKTPAESLWGTFANIYPMDESEAGLEGRRLAL-DPEKHVLKPQREGG
+GNNHYKAAIPAFLASL-PKSHWNSYILMELITPPP-VGNVILRNG-EIEQGGVICELGVFGTCLWNNATM
+LRNEQEGYLLRTKGDQSEEG---GVAAGFGCMDSVAL-*
+>P1;gi|38110819|gb|EAA56483.1| hypothetical protein MG06454.4 [Magna... [ score 238 E 2e-61 ] [ range 46 .. 249 ] [ duplicate b ]
+sequence
+--------TQSETARLVETIKDWTIARGLSVRPPPVAANADPAGSVPVTLFPSPFPANCFEQAHDAQKPY
+NELYAKISQD----EDFIRQMVEEVAGGDD-FIAKLWETHCKVKEEGY--SQQLSLGLFRSDYMVHQDN-
+AVPQVRQVEFNTIASSFGGLSAQTSLLHQHLAFTYPLLQDSRAAGSLNLPDNRSTRGLAAGIRAAFTAY-
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|44169462|gb|EAH50097.1| unknown [environmental sequence] [ score 235 E 1e-60 ] [ range 9 .. 199 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------RELIEHSSAIQTPDLQ
+LAGMKKIQQALTRLEILSQFAP--TPWMPKMASTFVKMHSLEDTIAPGESQNLANENPESWVLKPQREGG
+GNNYFDTEMTQKLNVM-TPSELKAHVLMERIRP-LNHSAWLMVQG-QSEYTSCVSEIGRYGVLLANRGTI
+ELNSDCGYLVRTKSEDVNEG---GVCAGYSCLNTLCL-*
+>P1;gi|43645381|gb|EAE77465.1| unknown [environmental sequence] [ score 234 E 2e-60 ] [ range 7 .. 200 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------EGRQLIESSSTIQVPDLQ
+LSGMKKIQQVLTKKEILEDFVS-N-DISKRILKTFAKMHTLDEMISNSEGEFSATEHSNDYVLKPQREGG
+GNNYFGREILKLLPSI-KKEEQKAFILMEKIEAGPH-SSLQVVNR-QHETLNCVSEIGRFGICFVENGKI
+KNNFDAGYLVRTKSSNVNEG---GVCAGFACLNTIATF*
+>P1;gi|43209528|gb|EAC70310.1| unknown [environmental sequence] [ score 229 E 9e-59 ] [ range 30 .. 201 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------------------------Q
+LSGMKKIQQVLTKKEVLADFVS-D-EITLRFLKTFAKMHTLDEIINTTEGEVKATEHADDYVLKPQREGG
+GNNYFGSDILKLLPSI-RKDKQKAYIMMEKIRA-VPHSSLQVVNG-EAETLNSVSEIGRFGVCFAENGEL
+KNNLDVGYLVRTKAKNVNEG---GVCAGFACLNTI---*
+>P1;gi|11596248|gb|AAG38537.1| glutathione synthetase Gsh1 [Pneumocy... [ score 211 E 2e-53 ] [ range 40 .. 233 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------SVVYFRTGYSPSHYPTSIQW----SARLLIEESRAIKCPTVQ
+LAGCKKVQQVLCENNIINKFLP-ENISKS-LKETFVSIYPLNKSLSGQEAYHLLMNNPQNYVLKPQREGG
+GNNIYGLNILSFLETI-SESQREQYILMEMIHPFL-QTNTIVQNN-ELYHTNGGNELGIYG---------
+------GYLLRTKDKDKNEG---GVMIGCSSIDSCVL-*
+>P1;gi|43459301|gb|EAD84322.1| unknown [environmental sequence] [ score 201 E 3e-50 ] [ range 130 .. 302 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------RQLIEASSTIQVPDLQ
+LSGMKKIQQVLTKKEVLENFVS-E-DISERFLKTFAKMHTLDENINTPEGEVSAAEHPYDYVLKPQREGG
+GNNFFGNDILTIIPSI-KKEEQRAYIMMEKIQA-IPHNSLQVVNG-QAETLKCVSEIGRFGICFAENGEV
+KKNLDTGYLVRTKAKN----------------------*
+>P1;gi|15387674|emb|CAC59841.1| putative glutathione synthetase [Pla... [ score 199 E 7e-50 ] [ range 405 .. 652 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------SVLYFRALYTPN---HFNENIWKIREMFEFSDAIKIPSLPYQ
+LVGSKKIQMLLLDNDILKKYIS-NKEKKSDLKKTFA-LQVDPSQNISAHIIQDAINNENNYLLKPQREGG
+KNNLHGNQVKQKLKHN-KKQTLSHYVLMQRLFPEICTTNISNEQQ-KKSPEKSISEFSLFHNFIFYKNKN
+ILNEQKGYLVRTKNYTENEG---GAICGISSLDSFFL-*
+>P1;gi|15387674|emb|CAC59841.1| putative glutathione synthetase [Pla... [ score 199 E 7e-50 ] [ range 75 .. 231 ] [ duplicate b ]
+sequence
+-----------------------------------------------FTLLPHRLDKKLLELCKYSTLLY
+SELFD----NMVCDLSYLLSIFEN-IKGHDFFVKKMLEVCKKVYGDNRNIKDDIRCVIGRSDYMIDDEN-
+INKDIKQIEYNTISVAFGNLSSILFNGHKYILKQ------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|23613144|ref|NP_703466.1| glutathione synthetase [Plasmodium ... [ score 196 E 6e-49 ] [ range 75 .. 231 ] [ duplicate b ]
+sequence
+-----------------------------------------------FTLLPHRLDKKLLELCKYSTLLY
+SELFD----NMVCDLSYLLSIFENIKEHDF-FVKKMLEVCKKVYGDNRNIKDDIRCVIGRSDYMIDDEN-
+INKDIKQIEYNTISVAFGNLSSILFNGHKYILKQ------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|7940268|emb|CAB91835.1| possible glutathione synthetase [Leis... [ score 193 E 6e-48 ] [ range 364 .. 602 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------VVAVAYFRSTYVPK----DLPTETAWQTREQIEESNAVKCPSYH
+LMTFKKMQQLMSNSEVLASFAG-NQQKAAALAEHFAPQYSLNSDEYADEGKVIAVLHPEQYVLKPQLEGG
+GNLIAGEPMQRMLRDV-TQKIRREYILMRKIDYPVATGVFFQKNS-IHVEKNACSEVGIFGVILSSDANY
+IMNQAAGTLVRTKPADAADG---GVIAGVAALDSV---*
+>P1;gi|7940268|emb|CAB91835.1| possible glutathione synthetase [Leis... [ score 193 E 6e-48 ] [ range 29 .. 198 ] [ duplicate b ]
+sequence
+-------------EELAAK----CLELGLAIHQPDTYEITHPA----LSLRPFPMKADVLRQLYDRQLLW
+NEAINRTSRNF----EFLRDSMKSTAESDRSFTGRLLAIYMTTPVGAKAPYQPFMLGILRTDYMVDPES-
+GSRQWKNIEINTISCSFAGISPLVHKFHAYLHK-------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43870842|gb|EAF89428.1| unknown [environmental sequence] [ score 191 E 2e-47 ] [ range 4 .. 129 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------ASQNAVDLADENPESWVLKPQREGG
+GNNYFDKEMTQKLKNM-LPSELKAHVLMERIRPRSHSAWLMVQGQ-SDYM-SCVSEIGRYGVLLANRGTI
+ELNKDCGYLVRTKSEDVNEG---GVCAGYSCLNTLCL-*
+>P1;gi|23484238|gb|EAA19639.1| putative glutathione synthetase [Plas... [ score 188 E 3e-46 ] [ range 162 .. 420 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------SVIYFRALYAP---LHYNEIVWELREMLEFSDSVKIPSLPYQ
+LVGLKKIQMLLLDDDILRKYIS-NKKKKSNDMNMLKKTFALQDPSLNKHSDIIAIKNENKFILKPQREGG
+QNNLHGNDVKEKLKPE-EKNKLSFYVLMEKLFPKLSEENQLQKKN-SNYCDQSISEFGFFHNIIFFKDKN
+ILNEQKGYLVRTKNVNENEG---GAICGISSLDSVFL-*
+>P1;gi|33286386|gb|AAQ01674.1| Cds1 [Shewanella sp. ANA-3] [ score 176 E 7e-43 ] [ range 245 .. 517 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------------------DNVFDQHL-
+LELALQQKGIQTLRRTLEGVGTIDTVYLRTGYQFADYATIDINGNRDYQALMEIRVLLERIALNATLGQQ
+LATSKRMQMLLSDEQALTQF-G-LTQPEASMVKSLLGMRPVT----AQSPQLIAESPIETWVLKNQGEGG
+GHCIFGADILPKLAEL-EPAQYPVWSLMRRLHPRPRATQLVVRNG-EIHIDDLIPEIGMFSVAVNDKTHA
+ESPSYAGYLIRSKSAKVTEG---GVHSGQGVLDSLM--*
+>P1;gi|33286386|gb|AAQ01674.1| Cds1 [Shewanella sp. ANA-3] [ score 176 E 7e-43 ] [ range 47 .. 237 ] [ duplicate b ]
+sequence
+------------------DAIEWALTHGMA-----FKETAYSARHAPFTLTPSLISKAHYQYLKAVEPL-
+GKLIHYVSEAHAFLVDAIQPITAS-----DPFFAALLKAHQQLHGSAHTPAPRMPLLIMRSDFMDDRDL-
+GPKL---VEFNGIAAGMGPFGQRAHQLHRYLQQQWSIQPKGELAENH------AIEQLSVGIATA-----
+---TFKIKQEFEDSGP-ARFL-------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43197456|gb|EAC64270.1| unknown [environmental sequence] [ score 167 E 3e-40 ] [ range 131 .. 292 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------YTPEDFPEDDARQLIEASSTIQVPDMQ
+LSGMKKIQQVLTKKEVLANFVS-E-EISGRFLKTFAKMHTLDEIINTPEGEFTASKHADDYVLKPQREGG
+GNNYFGSDILNLIPTI-KKEEQKAYIMMEKIKA-VPHSSIQIVNG-KAETLNCVSEIGRFG---------
+--------------------------------------*
+>P1;gi|43406511|gb|EAD64587.1| unknown [environmental sequence] [ score 162 E 1e-38 ] [ range 1 .. 187 ]
+sequence
+---------------MAVETVAYAVESGLMIG-------GDVAGTAPVSCGPTPFPRDAYELARETSPGF
+AELYDRVSRD----DEFLRETLRG-AIKNDDFTAALWRVYEES--GGQEGRVGAEVGVLRSDYMLDAPS-
+GLP--LQVEVNTVSTSFMALGSKVSDMHRHLAKWSANNDEVP--DLSAIPENDALACAGDTLAAGWK---
+VMGSKKIMMV------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43351199|gb|EAD40475.1| unknown [environmental sequence] [ score 137 E 3e-31 ] [ range 83 .. 227 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------SVVYFRAGYAPTDYPGEEEWR----ARELLERAVKSPSAAMH
+LAGCKKIQQALAQPGALERFVK-DAGEIAEMRKVFAGLY-AMDGAAAADAVRLGLGNPGGYVLKPQREGG
+GNNLYGDELTAALRTY-EPGDLSAYILMQRI---------------------------------------
+--------------------------------------*
+>P1;gi|43529807|gb|EAE19590.1| unknown [environmental sequence] [ score 119 E 1e-25 ] [ range 127 .. 250 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------YTPDDFPEEQARQLIEESSTIQVPDMQ
+LSGMKKIQQVLTKKEVLADFVT-E-EISRRFLKTFAKMHTLDEIINTPEGEVSASEHADDYVLKPQREGG
+GNNYFGSDILKLIPTI-KKKE-------------------------------------------------
+--------------------------------------*
+>P1;gi|32330192|gb|AAP75748.1| glutathione synthetase [Nectria lugdu... [ score 115 E 1e-24 ] [ range 141 .. 261 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------AVIYMRSGYDPSDYPGQEAW----DARYHLERSHAIKCPTVQ
+LAGTKKVQQILTTPSALSKFID-DTEDVAELWRTFTNIYPMDTSDAGLEARKKALDPCQAYVLKPQREGG
+GNN-------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43213690|gb|EAC72377.1| unknown [environmental sequence] [ score 102 E 2e-20 ] [ range 2 .. 74 ]
+sequence
+----------------------------------------------------------------------
+-------------------------VLETDDFTRRVWDVYESC--GGQAGRVPVEAGVLRADYMLDAPS-
+GAP--LQVEVNTISTSFMALATRVSEMHDHLIR-------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43311096|gb|EAD21297.1| unknown [environmental sequence] [ score 100 E 5e-20 ] [ range 179 .. 286 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------YTPDDFPAQEARQLIEASSTIQVPDLQ
+LSGMKKIQQVLTKKEVLAEFVS-EK-ISGRFLKTFAKMHTLDEIINTPEGEVSVAEHADDYVLKPQREGG
+GNNY------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43225372|gb|EAC78268.1| unknown [environmental sequence] [ score 99 E 1e-19 ] [ range 1 .. 62 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------IQIVNG-QAETLNCISEIGRFGVCFAENGEI
+KNNLDAGYLVRTKARNVNEG---GVCAGFACLNTI---*
+>P1;gi|40950489|gb|AAR97878.1| GS [Chironomus duplex] >gi|40950491|g... [ score 97 E 6e-19 ] [ range 8 .. 88 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------ARLMIERSSAIKCPSYH
+LAGTKKVQQALAKPRILKRFLT-DEDEIKRVEEIFTGLYSLDKEEGGDKVVDMVLKNPEGYVM-------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43220281|gb|EAC75705.1| unknown [environmental sequence] [ score 87 E 6e-16 ] [ range 15 .. 112 ]
+sequence
+--------SDETIRSMRDEAVSWAAQHGLLVGDSAESGQAMCASFAPMSLLPTPFPREVFELALRVSPSF
+AALCDAVSRD----DEFLRTTLSGVIKTD-EFTRRIWD--------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43149496|gb|EAC40459.1| unknown [environmental sequence] [ score 75 E 3e-12 ] [ range 2 .. 169 ]
+sequence
+---------------------DQAALNGLLRYD----ESGNLIHV-PFSLSPFSISKVELHEMQQLTEPF
+SEMMLRVSRD----RDFIRELLEPLAESDT-FLHMLLGIGLR------EETQTLQLLIQRNDFFLHKVS-
+GT-TLRQVELNTIATSFPYLIERLME-----IQREHFADDSNL--SKMLVPNSPLEMVVDAMAKAIQSYG
+NA--------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|29248278|gb|EAA39816.1| GLP_512_30439_29078 [Giardia lamblia ... [ score 72 E 3e-11 ] [ range 276 .. 447 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------VSIPTAEAQ
+LVGMKVVQNMLPTLTATSKYAY-LSGITSTLSKIL-------DSPQAISAWLASSPDTSTMVLKSIAEGG
+GNCVFGDDIPDALLRT-DSAAASTHFLMERLVPDSQDAVQFIYSS-EIVNVRADAETGVYSFCQPSEGTA
+PI-RHLGFLVRMKRAGTGEG---GILCGQGVL------*
+>P1;gi|42922227|gb|EAB28180.1| unknown [environmental sequence] [ score 71 E 5e-11 ] [ range 2 .. 169 ]
+sequence
+---------------------DQAALNGLL----RHNESGNLIHV-PFSLSPFSISQAELHEMQQLTEPF
+SEMMLRVSRDRDFIREHLEPLAES-----DTFLDMLLGMGLR------EETQSLQLLIQRNDFFLHEVS-
+GT-TLRQVELNTIAASFPFLIERLME-----TQRDHFADDSIL--SKMLVPNSPLERVVDAMAKAVQSYG
+NA--------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|4504169|ref|NP_000169.1| glutathione synthetase; GSH syntheta... [ score 303 E 3e-81 ] [ range 3 .. 239 ] [ duplicate a ]
+sequence
+TNWGSLLQDKQQLEELARQAVDRALAEGVLLRTSQEPTSSEVVSYAPFTLFPSLVPSALLEQAYAVQMDF
+NLLVDAVSQNA----AFLEQTLSSTIKQDD-FTARLFDIHKQVLKE--GIAQTVFLGLNRSDYMFQRSAD
+GSPALKQIEINTISASFGGLASRTPAVHRHVLSVL-----SKTKEAGKILSNNPSKGLALGIAKAWELYG
+S--PNAIAQEKERNIFDQRAIENEARNIHVIRRTF-----------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|4504169|ref|NP_000169.1| glutathione synthetase; GSH syntheta... [ score 303 E 3e-81 ] [ range 299 .. 474 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------TQLA
+G--TKKVQQELSRPGMLEMLLPGQPEAVARLRATFAGLYSLDVGEEGDQAIAEALAAPSRFVLKPQREGG
+GNNLYGEEMVQALKQLKDSEERASYILMEKIEPEPFE-NCLLRPGSPARVVQCISELGIFGVYVRQEKTL
+VMNKHVGHLLRTKAI---EHADGGVAAGVAVLDNPYPV*
+>P1;gi|23574735|dbj|BAC20593.1| glutathione synthetase [Macaca fasci... [ score 302 E 1e-80 ] [ range 3 .. 239 ] [ duplicate a ]
+sequence
+TNWGSLLQNEQQLEELARQAVDRALAEGVLLRTSQEPTSSEVVSYAPFTLFPSLVPSALLEQAYAVQMDF
+NLLVDAVNQNA----AFLEQTLSSTIEQDD-FTARLFDIHKQVLKE--GIAQTVFLGLNRSDYMFQRSTD
+GSPALKQIEINTISASFGGLASRTPAVHRHVLSVL-----SKTKEAGKILSNNPSKGLALGIAKAWELYG
+S--TNAIAQEKERNIFDQRAIENEARNIHVIRRTF-----------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|23574735|dbj|BAC20593.1| glutathione synthetase [Macaca fasci... [ score 302 E 1e-80 ] [ range 299 .. 474 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------TQLA
+G--TKKVQQELSRPGMLEMLLPGQPEAVARLRATFAGLYSLDMGEEGDQAIAKALAAPSRFVLKPQREGG
+GNNLYGEEMVQALKQLKDSEERASYILMEKTEPEPFE-NCLLRPGSPAQVVQCISELGIFGVYVRHEKTL
+VMNKHVGHLLRTKAI---EHADGGVAAGVAVLDNPYPV*
+>P1;gi|6680117|ref|NP_032206.1| glutathione synthetase [Mus musculus... [ score 300 E 5e-80 ] [ range 3 .. 205 ] [ duplicate a ]
+sequence
+TSWGSILQDEKQLEELAKQAIDRALAEGVLLRSAQHPSSSDVVTYAPFTLFPSPVPSALLEQAYAVQMDF
+NILVDAVSQNP----AFLEQTLSSTIKKDD-YTARLFDIYKQVLKE--GIAQTVFLGLNRSDYMFQCGAD
+GSKALKQIEINTISASFGGLASRTPAVHRHVLNVL-----NKTKEASKILSNNPSKGLALGIAKAWELYG
+S--ANAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|6680117|ref|NP_032206.1| glutathione synthetase [Mus musculus... [ score 300 E 5e-80 ] [ range 300 .. 474 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------------QLA
+G--TKKVQQELSRVGLLEALLPGQPEAVARLRATFAGLYSLDMGEEGDQAIAEALAAPSHFVLKPQREGG
+GNNLYGEEMVQALEQLKDSEERASYILMEKIEPEPFR-NCLLRPGSPAQVVQCISELGIFGVYVRQGTTL
+VMNKHVGHLLRTKAV---EHADGGVAAGVAVLDNPYPV*
+>P1;gi|25742757|ref|NP_037094.1| glutathione synthetase; Glutathione... [ score 299 E 6e-80 ] [ range 3 .. 205 ] [ duplicate a ]
+sequence
+TSWGSILQDEKQLEELAQQAIDRALAEGVLLRSAKNPSSSDVVTYAPFTLFPSPVPSTLLEQAYAVQMDF
+NILVDAVSQNS----AFLEQTLSSTIKKDE-YTARLFDIYKQVLKE--GIAQTVFLGLNRSDYMFQCSAD
+GSKALKQIEINTISASFGGLASRTPAVHRHVLNVL-----NKTNEASKILSNNPSKGLALGIAKAWELYG
+S--ANAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|25742757|ref|NP_037094.1| glutathione synthetase; Glutathione... [ score 299 E 6e-80 ] [ range 299 .. 474 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------TQLA
+G--TKKVQQELSRVGLLEALLPGQPEAVARLRATFAGLYSLDMGEEGDQAVAEALAAPSHFVLKPQREGG
+GNNFYGEEMVHALEQLKDSEERASYILMEKIEPEPFR-NCLLRPGSPAQVVQCISELGIFGVYVRQGTTL
+VMNKHVGHLLRTKAI---EHADGGVAAGVAVLDNPYPV*
+>P1;gi|37222544|gb|AAK77663.2| glutathione synthetase [Lotus cornicu... [ score 296 E 5e-79 ] [ range 82 .. 283 ] [ duplicate a ]
+sequence
+----TLLFDQQLLQKIADDALVWASLHGLVMGDKSVQRSGTVLVHAPFALFPTLFPESQWRQACDLAPIF
+NELVDRVSLDG----KFLQESLSRTKEVDE-FTSRLLDIHSKMLAI--NKKEEIRLGLHRSDYMLDE---
+KTKSLLQIELNTISSSFAGLGSLVTELHRYILSRY-----GKLLDSGKVPANNAATQFAEGLARAWTEYN
+D--PRAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|37222544|gb|AAK77663.2| glutathione synthetase [Lotus cornicu... [ score 296 E 5e-79 ] [ range 383 .. 549 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELANPGVLERFLENKGD-IAKLRECFAGLWSLDDY----DITRKAIEKPELFVMKPQREGG
+GNNIYGNAVRETLLKLQQSQEDAAYILMQRIFPTLSA-AVLMRNGCWHK-DHAVSELGIFSTYLRNKDRV
+VMNNQSGYLMRTKIS---SSDEGGVAAGFAVLDSVYL-*
+>P1;gi|544431|sp|P35668|GSHB_XENLA Glutathione synthetase (Glutathio... [ score 285 E 1e-75 ] [ range 5 .. 224 ] [ duplicate a ]
+sequence
+--WDDIYNDTKLLEELAPIAIDAALLQGVLMRTKESPNSSDVVSFAPFALLPSPVPKALFEQAKCVQEDF
+NTLVDRISQDT----SFLEQVLSSTIKVDD-FIRRLFAIHKQVQQE--DCTQEVFLGINRSDYMFDCRDD
+GTPALKQIEINTIAASFGGLASRTPAVHQHVLKFL-----RKSEESSSILTNDAVEGIGWGIAHAWALYG
+S--VDATVMFLEQRNILQRFIE------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|544431|sp|P35668|GSHB_XENLA Glutathione synthetase (Glutathio... [ score 285 E 1e-75 ] [ range 303 .. 474 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKVQQELSRPQILEKFLPDKPEAVARIRETFTGLYSLDIGEEGDEAVRVALANPDQFVLKPQREGG
+GNNLYGEELKEKLQECKDSEERTSYILMDKINPKPLK-NCLLRAGGRVQISECISELGMFGVYVRHRDQM
+IYYDQVGHLLRTKAI---EHSDGGVAAGVAVLDNPYLV*
+>P1;gi|15277522|gb|AAK93946.1| glutathione synthetase GSHS1 [Medicag... [ score 283 E 6e-75 ] [ range 92 .. 289 ] [ duplicate a ]
+sequence
+--------DQQLLDNIAYDALVWASLHGLLMGDKSYQKSGMVLMHAPFSLFPTSFPESKWKQACDLAPIF
+NELVDRVSLDG----KFLQESLPRTKQVDE-FTSRLLDIHSKMLQL--NKKEEIRFGLHRSDYMLDEQ--
+-TKSLLQIELNTISSSFAGFSTLVTQLHRYILTCH-----GKLLDSEKVPANNAVSQNAEALAKAWSEYN
+N--PRAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|15277522|gb|AAK93946.1| glutathione synthetase GSHS1 [Medicag... [ score 283 E 6e-75 ] [ range 389 .. 555 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELAKPGVLERFLENK-DDIAKMRECFAGLWSLDDS----DIVKKAIERPELFVMKPQREGG
+GNNIYGDAVRDTLIKLQKSQEDAAYILMQRIFPNISA-AVLMRNGGCHK-DHAISELGIFGTYLRNKDRV
+VMNNQSGYLMRTKIS---SSDEGGVAAGFAVIDSVYL-*
+>P1;gi|9754870|gb|AAF98121.1| glutathione synthetase precursor [Pisu... [ score 281 E 1e-74 ] [ range 87 .. 285 ] [ duplicate a ]
+sequence
+-------FDQQLLDSIAYDALVWASLHGLVMGDKSSKKSGTVLVHAPFALLPVSLPESKFKQACDLAPIF
+NELVDRVSLDA----NFLQESLSRTKKVDE-FTSRLLDIHSKMLHV--NKKEEIRLGLHRSDYMLDEQ--
+-TKSLLQIELNTISSSFAGFGSLVTELHRYILSRH-----GKLLDAENVPVNNAVIQNAEGLAKAWIEYN
+N--PKAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|9754870|gb|AAF98121.1| glutathione synthetase precursor [Pisu... [ score 281 E 1e-74 ] [ range 385 .. 551 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELAKPGVLERFLENK-DDIAKMRECFAGLWSLDDS----DIVKKAIEKPEIFVMKPQREGG
+GNNIYGDAVRETLIKLQNSQEDAAYILMQRIFPNLSA-ALLMRNGYLHK-DHAISELGIFGTYLRNKDRV
+IINNQSGYLMRTKIA---SSDEGGVAAGFAVLDSVYL-*
+>P1;gi|20138150|sp|O23732|GSHB_BRAJU Glutathione synthetase, chlorop... [ score 278 E 2e-73 ] [ range 65 .. 287 ] [ duplicate a ]
+sequence
+-------FDDGFVQKLVYDALVWSSLHGLVVGDKTHQRSGTVMMHAPIALLPTPFPESYWNQACEVAPIF
+NELVDRISLDG----KFIQDSLSRTRKADV-FTSRLLEIHSKMLES--NKREEIRLGLHRSDYMLDEE--
+-TKSLLQIEMNTISCSFPGFGRLVTELHQSLLRSH-----GDGLDSKRVPRNGSTSQFADAMAKAWLEYN
+N--PRAVVMVVVQPD--ERNMYDQHWLSSVLRE-------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|20138150|sp|O23732|GSHB_BRAJU Glutathione synthetase, chlorop... [ score 278 E 2e-73 ] [ range 358 .. 529 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------AYHLAG
+---TKKIQQELAKPGVLERFMDNK-DDIAKLRKCFAGLWSLDD----PEIIKKAIEKPELFVMKPQREGG
+GNNIYGDDVRENLLRLQREEENAAYILMQRIFPKVSN-VFLLRDGVYHK-DQAISELGVYGAYLRNKERV
+IINEHSGYLMRTKVS---SSDEGGVAAGYAVLDSIYL-*
+>P1;gi|5531229|emb|CAB51026.1| glutathione synthetase [Arabidopsis t... [ score 276 E 6e-73 ] [ range 75 .. 296 ] [ duplicate a ]
+sequence
+--------DDEFVQKLVYDALVWSSLHGLVVGDKTYQKSGNVLMHAPIALLPTGFPEAYWKQACDVTPLF
+NELIDRVSLDG----KFLQDSLSRTKKVDV-FTSRLLDIHSKMLER--NKKEDIRLGLHRFDYMLDEETN
+---SLLQIEMNTISCSFPGLSRLVSQLHQSLLRSY-----GDQIDSERVPINTSTIQFADALAKAWLEYS
+N--PRAVVMVIVQPE--ERNMYDQHLLSSILRE-------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|30316360|sp|P46416|GSHB_ARATH Glutathione synthetase, chlorop... [ score 276 E 8e-73 ] [ range 367 .. 539 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------AYHLTG
+S---KKIQQELAKPGVLERFLDNK-EDIAKLRKCFAGLWSLDDSE----IVKQAIEKPGLFVMKPQREGG
+GNNIYGDDVRENLLRLQKEGENAAYILMQRIFPKVSN-MFLVREGVYHKH-QAISELGVYGAYLRSKDEV
+IVNEQSGYLMRTKIA---SSDEGGVAAGFGVLDSIYLI*
+>P1;gi|20138145|sp|O22494|GSHB_LYCES Glutathione synthetase, chlorop... [ score 273 E 4e-72 ] [ range 82 .. 279 ] [ duplicate a ]
+sequence
+--------DSKLVQKLANDALVWCPLRGLLVGDRNSERSGTIMVHAPVALIPMSFPESHWKQACEVAPIF
+NELVDRVSQDG----EFLQQSLSRTRKADP-FTSRLLEIHSKMLEI--NKLEEIRLGLHRSDYMLDEQ--
+-TKLLLQIELNTISSSFPGLSCLVSELHRSLLQQY-----DIASDPNRIPANNAVNQFAEALAKAWNEYG
+D--PRAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|20138145|sp|O22494|GSHB_LYCES Glutathione synthetase, chlorop... [ score 273 E 4e-72 ] [ range 376 .. 546 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------------HLA
+G--SKKIQQELAKPNVLERFLENK-DDIAKLRKCFAGLWSLDES----DIVKDAIERPELYVMKPQREGG
+GNNIYGEDVRGALLKLQKEGSDAAYILMQRIFPKISH-SILMREGISHKEE-TISELGIYGTYLRNKTEV
+LINQQAGYLMRTKVS---SSDEGGVAAGFAVLDSIYLV*
+>P1;gi|33352233|emb|CAE18177.1| glutathione synthetase [Triticum aes... [ score 272 E 9e-72 ] [ range 9 .. 230 ] [ duplicate a ]
+sequence
+--------DAAAVEEMARSATAWCAMHGLVVGDRADPRSGTVLVHAPISLLPSRLPESFWSQACELAPLF
+NELVDRVSLDG----DFLQDSLSKTRQVDD-FTSRLLDIHRKMMDA--NKEENIRLGLHRSDYMLDSETN
+---SLLQIELNTISVSFPGLCSIVTELHRTLINQY-----GNCLDAKRVPGNDASRQFAKALAKAWDEFN
+V--DSAVVMMIVQPE--ERNMYDQYWLVKYLRE-------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|33352233|emb|CAE18177.1| glutathione synthetase [Triticum aes... [ score 272 E 9e-72 ] [ range 306 .. 472 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELAKPNVLERFLENK-EEIAKLRQCFAGLWSLDDKE----VVKSAIENPDLFVLKPQREGG
+GNNIYGLDVREALIRLKKEDALSAYILMQRIFPKASL-ASLVRGGFCHEAL-TVSELGIYGAYLRNKDKV
+IINDKCGYLMRTKVC---SSDEGGVAAGFAVLDSLYL-*
+>P1;gi|34484369|gb|AAO92441.1| homoglutathione synthetase [Lotus cor... [ score 270 E 3e-71 ] [ range 378 .. 544 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELAKPNVLERFFENK-DDVAKLRECFAGLWSLDDS----DIVKQAIEKPELFVMKPQREGG
+GNNIYGDDLRETLIKLQKSEEDAAYILMQRIFPTSTA-AILMRNGCWHK-DHVLTEFGIFGTYLRNKDKV
+IINSESGYMVRTKMS---SSDEGGVLPGFGVIDSVYL-*
+>P1;gi|34484369|gb|AAO92441.1| homoglutathione synthetase [Lotus cor... [ score 270 E 3e-71 ] [ range 81 .. 286 ] [ duplicate b ]
+sequence
+--------DPELLENVVYDALVYATLNGLLVGDKSVQRSGKVLVHLPFSLLPPPLPESYWKQACELAPLF
+NELVDRVSLDG----KFLQESLSRTKKADE-FTSRLLDIHSKMLEI--NKKEEIRMGLHRSDYMLDE---
+KTKRLLQIEMNTISTSFSGVGCVTTELHRNILSHY-----GKLLDSIRVPANSATNKFAETLAKAWLEYN
+N--PRAVIMIMVQPE-------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|15193452|gb|AAD29849.2| homoglutathione synthetase GSHS2 [Med... [ score 269 E 8e-71 ] [ range 379 .. 545 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELARPNVLERFFENK-EDIAKLRKCFAGLWSLEDS----DIVNEAIAKPELFVMKPQREGG
+GNNIYGDDLRETLKRLQKSQEDAAYILMQRIFPANTA-SILMRNGFLHK-DHVISEFGIFSTYLRNKDKV
+IVNNESGYMVRTKPS---LSDEGGVLPGFGVIDSVYL-*
+>P1;gi|15193452|gb|AAD29849.2| homoglutathione synthetase GSHS2 [Med... [ score 269 E 8e-71 ] [ range 82 .. 279 ] [ duplicate b ]
+sequence
+--------DDKVLENIVYDALVFATLNGLLVGDKSVERSGRVLVHLPFSLLPPPLPETHWKQACDLSPLF
+NELVDRVSLDG----KFLQQSLSKTKKADE-FTSRLLDIHAKMLEM--NKKEEIRMGLFRSDYMLDE---
+KTKSLLQIEMNTISTSFSGVGVVMTELHRNILSHY-----GKLLDSERVPVNTADSRYAEALAKAWKEYN
+N--PRAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|7799808|emb|CAB91078.1| homoglutathione synthetase [Glycine max] [ score 268 E 1e-70 ] [ range 35 .. 256 ] [ duplicate a ]
+sequence
+--------DQKLLQNIVYDALVWSTLNCLLVGDKSVQRSGRVLVHLPLSLLPGPFPESHWKQGCELAPIF
+NELVDRVSLDG----KFLQESLSRTKNADE-FTSRLLDIHSKMLQI--NKKEDIRMGIVRSDYMIDE---
+KTKSLLQIEMNTISTSFALIGCLMTGLHKSLLSQY-----GKFLGSNRVPANNAVDQSAEALAKAWSEYN
+N--PRAA--ILVVVQVEERNMYEQHYISALLRE-------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|7799808|emb|CAB91078.1| homoglutathione synthetase [Glycine max] [ score 268 E 1e-70 ] [ range 332 .. 498 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELAKPGVLERFVENK-DHIAKLRACFAGLWSLEDS----DIVKKAIENPELFVMKPQREGG
+GNNIYGDELRETLLKLQESQEDAAYILMQRIFPATSP-AILVRDGNW-DTGHVISEAGIFGTYLRNKDKI
+IINNESGYMVRTKIS---SSYEGGVLPGFGVVDTVYL-*
+>P1;gi|17154690|emb|CAC83006.1| putative glutathione synthetase [Zea... [ score 268 E 2e-70 ] [ range 224 .. 390 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELAKPNVLERFLK-SEEEIEKVRKCFAGLWSLDD----EDIIKTAVEKPELFVLKPQREGG
+GNNIYGLDLRETLVRLQKEDALAAYILMQRIFPKASP-AYLVRGGVCHEGL-AISELGIYGAYLRNKDKV
+VINEQCGYLMRTKVS---SSDEGGVAAGFAVLDSLYL-*
+>P1;gi|9755019|gb|AAF98157.1| homoglutathione synthetase [Phaseolus ... [ score 268 E 2e-70 ] [ range 79 .. 406 ] [ duplicate a ]
+sequence
+--------DQKLLENIVYDALVWSTLNCLLVGDKSVQRSGTVLVHLPLCLLPGPFPESHWKQACELAPIF
+NELVDRVSLDG----KFLQESLSRTKNADE-FTSRLLDIHSKMLQI--NKKEDIRLAIVRSDYMVDEKTN
+---SLLQIEMNTISTSFALIGCLMTGLHKSLISQY-----GNILDSNRVPANNAVDQSAEALAKGWSEYN
+D--PRAVVQV-EERNMYEQLLRDKY-HIKSIRKTLA-----EVDQEGEILPDGTLSQPISVV--------
+---YFRAGYTPK--DYPSESEWRAGLLMEQIKCPSIS-YHLVGTKKIQQEL---AKPGVLERFVENKDHV
+AKLRAC--------------------------------*
+>P1;gi|9755019|gb|AAF98157.1| homoglutathione synthetase [Phaseolus ... [ score 268 E 2e-70 ] [ range 376 .. 542 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELAKPGVLERFVENK-DHVAKLRACFAGLWSLEDS----DIAQKAIENPELFVMKSQREGG
+GNNIYGDDMRENLLKLQKSEEDAAYILMQRIFPATFP-AILVRDGNWS-TGHVIAEAGIFGTYLRNKDKI
+IINNESGYMVRTKVS---SSYEGGVLPGFGVVDTVYL-*
+>P1;gi|33352231|emb|CAE18176.1| glutathione synthetase [Triticum aes... [ score 267 E 3e-70 ] [ range 67 .. 258 ] [ duplicate a ]
+sequence
+--------------EMVEAAAMWCAMHGLVVGDRGNPRSGTVLVHAPFSLLPTRFPASFWKQACELAPIF
+NELVDRVSLDG----KFLQGSLSRTKQVDD-FTARLLEIHAKMMAV--NKKEDIRLGLHRSDYMLDSETN
+---SLLQIELNTISTSFPGLGSLVSELHRTLLNQY-----GEVLDSERIPRNWAAIQFAEALGKAWVEYN
+N--GSAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|33352231|emb|CAE18176.1| glutathione synthetase [Triticum aes... [ score 267 E 3e-70 ] [ range 358 .. 524 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELAKPSVLERFLDN-EEDIAKLCKCFAGLWSLDN----EEIVKSAIEKPDLFVLKPQREGG
+GNNLYGHDLRETLIRLKNKEALAAYILMQRIFPRASL-TQLVQGGVCFEEL-SISELGIFGSYLRNKDKV
+VINNQCGYLMRTKVS---SSNEGGVAAGFAVLDSILL-*
+>P1;gi|9755017|gb|AAF98156.1| putative homoglutathione synthetase [P... [ score 266 E 4e-70 ] [ range 328 .. 494 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELAQPNVLERFFENK-EDIAKLRKCFAGLWSLEDS----DIVKRAIETPELFVMKPQREGG
+GNNIYGDDLRETLLKLQDSQEDAAYILMQRIFPVNTE-AILVRNGFLHK-DRVISEFGIFSTYLRNKDKV
+IVNNESGYMVRTKPS---LSDEGGVLPGFGVIDSVYL-*
+>P1;gi|9755017|gb|AAF98156.1| putative homoglutathione synthetase [P... [ score 266 E 4e-70 ] [ range 31 .. 228 ] [ duplicate b ]
+sequence
+--------DEKVVQQIVYDALVFTTLNGLLVGDKSVQRSGRVLVHLPFSLLPPPFPQTHWNQACELAPLF
+NELVDRVSLDA----NFLQQSLSRTKKVDE-FTSRLLDIHSKMLEI--NKKEEIRLGLFRSDYMFDE---
+KTQSLLQIEMNTISTSFSGVGCIITQLHRNILSRY-----GKSLDSERVPTNTADSKYAEALAKAWSEYN
+N--PSAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|33352237|emb|CAE18179.1| glutathione synthetase [Zea mays] [ score 266 E 6e-70 ] [ range 307 .. 472 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--TKKIQQELAKPNVLERFL--KSEEIDKVRKCFAGLWSLDD----EYIIKTAVEKPELFVLKPQREGG
+GNNIYGLDLRETLVRLQKEDALAAYILMQRIFPKASP-AYLVRGGVCHEGL-AISELGIYGAYLRNKDKV
+VINEQCGYLMRTKVS---SSDEGGVAAGFAVLDSLYL-*
+>P1;gi|33352237|emb|CAE18179.1| glutathione synthetase [Zea mays] [ score 266 E 6e-70 ] [ range 10 .. 207 ] [ duplicate b ]
+sequence
+--------DPAAAGEMAREAAAWCSLHGLVVGDRADQRSATVLVHAPFSLLPAHFPESFWRQACELAPVF
+NELVDRVSMDG----NFLQNALSKTRQVDD-FTSRLLEIHRKMMEI--NKEENIRLGLHRSDYMLDSE--
+-TSSLLQIELNTISASFPGLGSLVSDLHRSLIKQY-----GLSLEHKRVPANAASTQFSEALAQAWSEFN
+I--DSAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|31203207|ref|XP_310552.1| ENSANGP00000017318 [Anopheles gambi... [ score 259 E 9e-68 ] [ range 348 .. 523 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------------HLA
+G--TKKVQQALAKPDVLRRFVGDDAPKIEAIRDIFTGLYSLDREEGGDEAVALALADPERYVLKPQREGG
+GNNVYGADIPAALQAMS-SAERSAWILMERIFPPLST-GYMVRPNGPVPLVQLVSELGIFGAIIGSKDKV
+LYNKQIGHMLRTKLS---SSNEGGVAAGSGALDSPYLI*
+>P1;gi|31203207|ref|XP_310552.1| ENSANGP00000017318 [Anopheles gambi... [ score 259 E 9e-68 ] [ range 61 .. 243 ] [ duplicate b ]
+sequence
+--------DDALLQEVVEKAKDWAIMHGAAMRSKQD-FNPDALLFAPFILTPSSFPRKEFQKAVELQPLL
+NELIHAVAHDS----QFLLATLSSTEKVDE-FTRALIAIYRTVLDE--GIAQTVTLALLRSDYL----PN
+FSDTIKQVEINTIASSFGGISTIMTPMHSYILSEL-----GHREKLVNLPDNKALSGLCDAMVEAWKL--
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|24642904|ref|NP_728118.1| CG32495-PC [Drosophila melanogaster... [ score 258 E 2e-67 ] [ range 125 .. 299 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------------HLA
+G--TKKVQQALAQPAVLERFI-NDPEEIKAVGKIFTGLYSLDDNEAGNASYEMALRTPERFVLKPQREGG
+GNNVYGVDIPDALKRMS-RVERSAWILMDLIHPPLTK-GYMVRPGGPPQIVDMVSELGIFGVVIGDAEHI
+VHNYQAGHMLRTKLS---TANEGGVAAGLGALDSPYLI*
+>P1;gi|24642900|ref|NP_728116.1| CG32495-PB [Drosophila melanogaster... [ score 257 E 3e-67 ] [ range 20 .. 210 ] [ duplicate b ]
+sequence
+---------EDELLEVTAKAKDYAIMHGAAMR-SKTAFSPDSLNFAPFVLVPSSFPRKEFEKAVALQPII
+NRLMHNVAHDE----EFITTTLAETIKVDE-FTANLFNIYRKVLAH--GFTQAYSIGLLRSDYMAHVSE-
+-GCAIKQVEINTVASSFAGIATQLVPQQKFVLSEL-----GHADKLHNMPDNNALAGLCDGMVKAWDIYA
+K--PQAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|39587797|emb|CAE67815.1| Hypothetical protein CBG13395 [Caeno... [ score 254 E 3e-66 ] [ range 20 .. 212 ] [ duplicate a ]
+sequence
+---------EDKVKELAGDLHDYAHAHGLVMRLSTDKMSSEVCQTTPLTLLPSPFPKNVFDEAVRIQNLY
+ASLYHYIAYDF----DFLIDIHKNVVKTDE-FTRKMIEILKKVKEQ--GLKQPVTLAIQRSDYMCHKDQS
+SAYDLKQIEINNIASSMGAHAERLTQWHIRVLKAL-----DVPDDVIRIPENKPIPMIAEALFKAWSHFN
+N---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|39587797|emb|CAE67815.1| Hypothetical protein CBG13395 [Caeno... [ score 254 E 3e-66 ] [ range 303 .. 486 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------------LSTALKTPWIQVA
+N--TKKTQQVLSEDGVLERFI-GKPREARDIRRSFAGMWALENSDEVLKVVQGAQKHPEAFVLKPQTEGG
+AALHTGDEMVQMLKELPE-EERGAYILMEKLRPMIIE-NYLVFARKPVTFAKAVSELGIYG-YAFGAKDA
+PELKTAGHLLRSKPE---STAMGGVAAGYAVVDTPFL-*
+>P1;gi|42541303|gb|AAS19531.1| glutathione synthetase [Oryza sativa ... [ score 253 E 7e-66 ] [ range 275 .. 445 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------HHLV
+G--TKKIQQELAKENVLERFLDNKAD-IEKVRKCFAGLWSL----ENDSIVMSAIESPELFVLKPQREGG
+GNNIYGDNLRETLISLKKSNELAAYILMQRIFPPASL-CYLVRDGTCIR-ENAVSEFGIFGAYLRNKDRV
+IINDQCGYLMRTKAA---SLNEGGVVAGYAFLNSVFL-*
+>P1;gi|42541303|gb|AAS19531.1| glutathione synthetase [Oryza sativa ... [ score 253 E 7e-66 ] [ range 17 .. 203 ] [ duplicate b ]
+sequence
+---------------------------------------PRVRLHAPFALLPMSFSKVYWDQAVELAPLF
+NELVDRVSLDG----DFLQETLARTKEVDS-FTGRLLDIHAKMMKL--NKKEDVRLGLTRSDYMIDGATD
+---QLLQVELNTISTSSNGLACGVCELHRNLIRQH-----ERELDPESVVGNTAIAQHAEALAGAWAEFN
+N--QSSVVLVVVQPE--ERYMYDQYWITVALRE-------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|17535239|ref|NP_496011.1| glutathione synthetase (55.4 kD) (2... [ score 251 E 1e-65 ] [ range 19 .. 212 ] [ duplicate a ]
+sequence
+--------EDDKLNELTADLHDWAHANGLVMRLSTDKLSSEVCQTTPLTLLPSPFPKNVFEEAVHIQNLF
+ASLYHFIAYEF----DFLIDIHKNVVKTDD-FTRNMVEILKKVKAQ--GLKQPVTLAIQRSDYMCHKDQS
+AEYGLKQIEINNIASSMGAHALRLTEWHIRVLKAL-----NISDDVIQIPENKPIPMIAEALFKAWSHFS
+N---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|17535239|ref|NP_496011.1| glutathione synthetase (55.4 kD) (2... [ score 251 E 1e-65 ] [ range 303 .. 486 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------------LSTAIKTPWIQVA
+N--TKKTQQVLSEDGVLERFI-GKPREARDIRASFAGMWALENTDEVTKVVAGAQKHPEAFVLKPQTEGG
+AALHTGDEMVQMLRELPE-EERGAFILMEKLKPMIIE-NYLVLAKKPITFAKAVSELGVYG-YAFGRKDA
+PELKTAGHLLRTKPE---STAMGGVAAGHAVVDTPFL-*
+>P1;gi|38110819|gb|EAA56483.1| hypothetical protein MG06454.4 [Magna... [ score 239 E 9e-62 ] [ range 47 .. 252 ] [ duplicate a ]
+sequence
+---------QSETARLVETIKDWTIARGLSVRPPPSVVAANLATSVPVTLFPSPFPANCFEQAHDAQKPY
+NELYAKISQDE----DFIRQMVEEVAGGDD-FIAKLWETHCKVKEE--GYSQQLSLGLFRSDYMVHQDPN
+AVPQVRQVEFNTIASSFGGLSAQTSLLHQHLLLQD-----SRAAGSLNLPDNRSTRGLAAGIRAAFTAYG
+D--S------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|38110819|gb|EAA56483.1| hypothetical protein MG06454.4 [Magna... [ score 239 E 9e-62 ] [ range 369 .. 553 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------TQLA
+G--MKKVQQVLATPPKLGRFVPEKTPAWESLWGTFANIYPMDESEAGLEGRRLALDPEIKHVLKPQREGG
+GNNHYKAAIPAFLASLPDKSHWNSYILMELITPPPVG-NVILRNGEIEQ-GGVICELGVFGTCLWNNATG
+AMNEQEGYLLRTKGD---QSEEGGVAAGFGCMDSVALV*
+>P1;gi|43641216|gb|EAE75320.1| unknown [environmental sequence] [ score 235 E 1e-60 ] [ range 82 .. 255 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------------WMQLA
+G--MKKIQQALTRPEILSQFAPK--PWIPKMASTFVKMHSLDTGAHGQKAIDLANKNPESWVLKPQREGG
+GNNYFDKEMTQKLNMMKPSELKA-HVLMERIRPRSHS-AWLMVQGQ-TEYTSCVSEIGRYGVLLANRGTI
+ELNSDCGYLVRTKSE---GVNEGGVCAGYSCLNTL---*
+>P1;gi|28571245|ref|NP_788925.1| CG6835-PC [Drosophila melanogaster]... [ score 235 E 2e-60 ] [ range 379 .. 542 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------------HLA
+G--TKKVQQALAQPAVLERFI-NDPEEIKAVGKIFTGLYSLDDNEAGNASYEMALRTPERFVLKPQREGG
+GNN----RMSRV--------ERSAWILMDLIHPPLTK-GYMVRPGGPPQIVDMVSELGIFGVVIGDAEHI
+VHNYQAGHMLRTKLS---TANEGGVAAGLGALDSPYLI*
+>P1;gi|28571245|ref|NP_788925.1| CG6835-PC [Drosophila melanogaster]... [ score 235 E 2e-60 ] [ range 217 .. 281 ] [ duplicate c ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----KQVEINTIASGFGHLGPASKTIQRFVLSEL-----GHADKLHNMPDNNALAGLCDGMVKAWDIYA
+K--PQAV---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43793027|gb|EAF51086.1| unknown [environmental sequence] [ score 229 E 7e-59 ] [ range 51 .. 224 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------------WMQLA
+G--MKKIQQALTRPEILSQFAPK--PWIPKMASTFVKMHSLGEDTEKQNPIDLANKNPESWVLKPQREGG
+GNNYFDKEMTQKLNIMTPSELKA-HVLMERIRPRSHP-ALLMVQGQ-SEYASCVSEIGRYGVLLANLGTI
+ELNSDCGYLVRTKSE---DVNEGGVCAGYSCLNTL---*
+>P1;gi|45185970|ref|NP_983686.1| ACR284Cp [Eremothecium gossypii] >g... [ score 228 E 2e-58 ] [ range 312 .. 482 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------TQLS
+G--TKKVQQLLSEEAVLAKFLP--ADRRSDIGATFVNLYPLDDSPLGKEGKRLALEMPERYVLKPQREGG
+GNNIYKEDIPAFLGTIPE-EEWNGYVLMELINPKLNE-NVLVR-GQELFQEPLISELGIYGTILFSDEEI
+YSNDYAGWLLRSKLP---SSNEGGVAAGFGCVDSMVL-*
+>P1;gi|45185970|ref|NP_983686.1| ACR284Cp [Eremothecium gossypii] >g... [ score 228 E 2e-58 ] [ range 14 .. 205 ] [ duplicate b ]
+sequence
+---------EEVEQRLLPELLQWSLANGGTIYPPGFNINAEALT---MTLFPTPLPRKALEKAVRVQTTY
+NELYARIAQDK----NWLSEVTEQLANFDN-FTGRLWKLYLEAQAI--GISQKIGLGVFRSDYLLDAD--
+-SGDLKQVEFNTVSVSFAGLSTKVGAVH-NFLNES-----GKYSRNGEVPISESAFLLPRALASAADKYN
+S---------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|44169462|gb|EAH50097.1| unknown [environmental sequence] [ score 227 E 3e-58 ] [ range 24 .. 197 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------------WMQLA
+G--MKKIQQALTRLEILSQFAP--TPWMPKMASTFVKMHSLGEDTESQNAMDLANENPESWVLKPQREGG
+GNNYFDTEMTQKLNVMTPSELKA-HVLMERIRPLNHS-AWLMVQGQ-SEYTSCVSEIGRYGVLLANRGTI
+ELNSDCGYLVRTKSE---DVNEGGVCAGYSCLNTL---*
+>P1;gi|18077814|gb|AAL58476.1| glutathione synthetase [Pichia angusta] [ score 225 E 1e-57 ] [ range 302 .. 471 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------------QLS
+G--AKKVQQLLTDRAVLQKYGFLDEE----LLSTFVRIYPLDSSEQGQIAKKLVFEHSERFVLKPQREGG
+GNNIYKQDIPGFLRSL-DEKEWGAYILMELIVPAVHD-NHILRNGEVLD-ESIVSELGMFGTLLFNDGTI
+LHNDYAGYLLRSKTS---TSNEGGVAAGFGCVDSLYL-*
+>P1;gi|18077814|gb|AAL58476.1| glutathione synthetase [Pichia angusta] [ score 225 E 1e-57 ] [ range 13 .. 202 ] [ duplicate b ]
+sequence
+------------LDDLVEKLTHYAISNGLVIYPPGFK--AYQPSVAPVTLYPTPFPRAQFSKGIAISTKF
+NELYSRVVVDK----SWLKQVIADLSKYDN-FTGML---HKTYLEA--EIVQPVSLGLFRSDYMLDTVSN
+---SIKQVEFNTVSVSFGGLSPKVGQLHSFLLYGR-----PQYYQEADLPTSQSMDGLAKGLLEAVKYYE
+T--SEKT---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|42555023|gb|EAA77866.1| hypothetical protein FG07268.1 [Gibbe... [ score 224 E 2e-57 ] [ range 305 .. 481 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------TQLA
+G--TKKVQQILATPSALSRFIRDDTDDAAELWRTFTNIYPMDTSDAGLEARKKALDPCQDYVLKPQREGG
+GNNIYRGAIPGFLKSVPES-HWGSYILMELITPPPVN-NIILRNGNLEQ-GGVICELGIYGTCVWDQGKV
+HHNEEAGYLLRTKGD---KSEEGGVAAGFGS-------*
+>P1;gi|42555023|gb|EAA77866.1| hypothetical protein FG07268.1 [Gibbe... [ score 224 E 2e-57 ] [ range 15 .. 188 ] [ duplicate b ]
+sequence
+---------AEEKDALIETVKDWSIGNGLAVRPPPTVIAAEAATNVPVTLFPSPFPSQCFSQGKAVQKTY
+NELYASVSRDE----EFLAQVVKEVADGDE-FIRNLWDVHTKVKAE--GYTQARI-------YTLGETAD
+------------LSQEFKADSDRYLATTEYPILEN-----SITQGSLDLPENTSTRGLAAGIEAAYNV--
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|32411131|ref|XP_326046.1| hypothetical protein [Neurospora cr... [ score 224 E 2e-57 ] [ range 328 .. 514 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------TQLA
+G--MKKVQQVLATPEALAKFMPPTAEKTQRLLKTFTNIYPLDTSSSGLHARSLAPTQCQKYVMKPQREGG
+GNNFYRSAIPEQLAKIPE-EHWNSFILMEIIEPPALA-NSILRNGK-VEVGGVICELGVYGTCLWDQGEI
+KFNEEAGYLLRTKGD---KSEEGGVAAGYGCMDSVTLV*
+>P1;gi|32411131|ref|XP_326046.1| hypothetical protein [Neurospora cr... [ score 224 E 2e-57 ] [ range 8 .. 212 ] [ duplicate b ]
+sequence
+-SYPPLLQDAEK-ERLVQVVKDWTVAHGLTVRPPPNDTEGILATSAPVTLFPSPFPKSCFEEAKAIQTTY
+NELYALISQDE----EFLTEMVKEVAGGDE-FIANLWNVHLRVKKE--GYVQNLALGLFRSDYMVHQD-D
+ASLQIKQVEFNTIASSFGGLSTQTSLLHKHLAQHS-----SSSASNLDLPSNDSAAGLAAGLRAAFDAYG
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|6324524|ref|NP_014593.1| Glutathione synthetase, catalyzes th... [ score 222 E 9e-57 ] [ range 318 .. 490 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------TQLS
+G--SKKIQQLLTDEGVLGKYI-SDAEKKSSLLKTFVKIYPLDDTKLGREGKRLALSEPSKYVLKPQREGG
+GNNVYKENIPNFLKGIEER-HWDAYILMELIEPELNE-NNIILRDNKSYNEPIISELGIYGCVLFNDEQV
+LSNEFSGSLLRSKFN---TSNEGGVAAGFGCLDSIIL-*
+>P1;gi|6324524|ref|NP_014593.1| Glutathione synthetase, catalyzes th... [ score 222 E 9e-57 ] [ range 8 .. 206 ] [ duplicate b ]
+sequence
+---------KDQLNELIQEVNQWAITNGLSMYPPKFEENPSNASVSPVTIYPTPIPRKCFDEAVQIQPVF
+NELYARITQDM----AYLHKTTEALALSDE-FTGKLWSLYLATLKS--AKKQNFRLGIFRSDYLIDKKK-
+GTEQIKQVEFNTVSVSFAGLSEKVDRLHSY-LNRA-----NKYDPKGPIYNDDSGYLLSKALAKAVESY-
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|19114848|ref|NP_593936.1| glutathione synthetase large chain ... [ score 222 E 1e-56 ] [ range 324 .. 494 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------THLA
+G--SKKIQQVLAESNALERFLEG--DELQAVRSTFADMYPLDDTPRGKEGIKLAFEKPEDFVLKPQREGG
+GNNTYGKDIPGLLSKMP-QEEWDSYILMRYINAVPSQ-NYIL-KGERPEKFDVVDEIGILGTIVWNIKTV
+VQNGQSGFICRTKPK---KTNEGGVATGYASLSSI---*
+>P1;gi|19114848|ref|NP_593936.1| glutathione synthetase large chain ... [ score 222 E 1e-56 ] [ range 9 .. 203 ] [ duplicate b ]
+sequence
+----------EQIEELGKGARDFAFAHGVVFELSVSKEGRNIATQIPITLFPSVIPHGAFVEAVSVQKAY
+NKLYAKIANDY----EFLRLHLQSITKYDE-FMNKLWNLYQKHLKE--NQFQPLSLGVFRSDYMVHQD-D
+SFIGCKQVEFNTISVSFGGVSKAVSNLHAYCSQLY-----RKPLTTNYLTVNTSVSGICTGISNAVDAY-
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43645381|gb|EAE77465.1| unknown [environmental sequence] [ score 219 E 8e-56 ] [ range 25 .. 197 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------MQLS
+G--MKKIQQVLTKKEILEDFVSN--DISKRILKTFAKMHTLDENSEGEFSATELLSKHNDYVLKPQREGG
+GNNYFGREILKLLPSIKKEEQKA-FILMEKIEAGPHS-SLQVVN-RQHETLNCVSEIGRFGICFVENGKI
+KNNFDAGYLVRTKSS---NVNEGGVCAGFACLNTI---*
+>P1;gi|43209528|gb|EAC70310.1| unknown [environmental sequence] [ score 215 E 1e-54 ] [ range 1 .. 201 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------LQRFFFQEA-----IKGR---KLIEASSTVQVPD-LA---MQLS
+G--MKKIQQVLTKKEVLADFVSD--EITLRFLKTFAKMHTLDETTEGEVKATEWLSHADDYVLKPQREGG
+GNNYFGSDILKLLPSIRKDKQKA-YIMMEKIRAVPHS-SLQVVNGE-AETLNSVSEIGRFGVCFAENGEL
+KNNLDVGYLVRTKAK---NVNEGGVCAGFACLNTI---*
+>P1;gi|43406511|gb|EAD64587.1| unknown [environmental sequence] [ score 197 E 3e-49 ] [ range 1 .. 184 ]
+sequence
+---------------MAVETVAYAVESGLMIG-------GDVATHAPVSCGPTPFPRDAYELARETSPGF
+AELYDRVSRDD----EFLRETLRGAIKNDD-FTAALWRVYEESGGQ--EGRVGAEVGVLRSDYMLD-APS
+GLP--LQVEVNTVSTSFMALGSKVSDMHRHLAKWS-----ANNDEVPDLSAIPENDALACALAAGWKVMG
+S--KGKI---------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43459301|gb|EAD84322.1| unknown [environmental sequence] [ score 189 E 1e-46 ] [ range 146 .. 302 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------MQLS
+G--MKKIQQVLTKKEVLENFV--SEDISERFLKTFAKMHTLDETPEGEVSAAEWLKHPYDYVLKPQREGG
+GNNFFGNDILTIIPSIKKEEQRA-YIMMEKIQAIPHN-SLQVVNGQ-AETLKCVSEIGRFGICFAENGEV
+KKNLDTGYLVRTKAK---N-------------------*
+>P1;gi|43149496|gb|EAC40459.1| unknown [environmental sequence] [ score 187 E 4e-46 ] [ range 1 .. 185 ]
+sequence
+--------------------MDQAALNGLLRYD-----ESGNLIHVPFSLSPFSISKVELHEMQQLTEPF
+SEMMLRVSRDR----DFIRELLEPLAESDT-FLHMLLGIG---LRE--E-TQTLQLLIQRNDFFLTDHKV
+SGTTLRQVELNTIATSFPYLIERLMEIQREHFA-------DDSNLSKMLVPNSPLEMVVDAMAKAIQSYG
+N--ADGSMLTVIQPNETNRF--------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|33286386|gb|AAQ01674.1| Cds1 [Shewanella sp. ANA-3] [ score 186 E 1e-45 ] [ range 46 .. 237 ] [ duplicate a ]
+sequence
+-----------------DDAIEWALTHGMAF-----KETAYSARHAPFTLTPSLISKAHYQYLKGAVEPL
+GKLIHYVSEAH----AFLVDAIQPITASDP-FFAALLKAHQQLHGS--AHSSTNSSGIMRSDFMDDR--D
+LGPKL--VEFNGIAAGMGPFGQRAHQLHRYLQQQW-----SI-QPKGELAENHAIEQLSVGIATA-----
+---TFKIKQEFEDSGP-ARFL-------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|33286386|gb|AAQ01674.1| Cds1 [Shewanella sp. ANA-3] [ score 186 E 1e-45 ] [ range 340 .. 516 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------QQLA
+T--SKRMQMLLSDEQALTQFGLTQPEA-SMVKSLLGEMRP--VTAQSPQLIAE--SPIETWVLKNQGEGG
+GHCIFGADILPKLAEL-EPAQYPVWSLMRRLHPRPTQ-ALVVRNGEIHIIDDLIPEIGMFGIAAVNDKTH
+AESSYAGYLIRSKSA---KVTEGGVHSGQGVLDSL---*
+>P1;gi|42922227|gb|EAB28180.1| unknown [environmental sequence] [ score 185 E 1e-45 ] [ range 1 .. 185 ]
+sequence
+--------------------MDQAALNGLL-RHNE----SGNLIHVPFSLSPFSISQAELHEMQQLTEPF
+SEMMLRVSRDR----DFIREHLEPLAESDT-FLDMLLGMG---LRE--E-TQSLQLLIQRNDFFLTDHEV
+SGTTLRQVELNTIAASFPFLIERLMETQRDHFA-------DDSILSKMLVPNSPLERVVDAMAKAVQSYG
+N--ADGSMLTVIQPNEANRF--------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|11596248|gb|AAG38537.1| glutathione synthetase Gsh1 [Pneumocy... [ score 184 E 2e-45 ] [ range 77 .. 234 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------------ITQLA
+G--CKKVQQVLCENNIINKFL---PENISKLKETFVSIYPLNKSLSGQEAYHLLMNNPQNYVLKPQREGG
+GNNIYGLNILSFLETISES-QREQYILMEMIHPFLQT-NTIVQNNELYHT-NGGNELGIYG---------
+------GYLLRTKDK---DKNEGGVMIGCSSIDSCVLI*
+>P1;gi|43870842|gb|EAF89428.1| unknown [environmental sequence] [ score 182 E 8e-45 ] [ range 4 .. 127 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------ASQNAVDLADENPESWVLKPQREGG
+GNNYFDKEMTQKLKNMLPSELKA-HVLMERIRPRSHS-AWLMVQGQ-SDYMSCVSEIGRYGVLLANRGTI
+ELNKDCGYLVRTKSE---DVNEGGVCAGYSCLNTL---*
+>P1;gi|23484238|gb|EAA19639.1| putative glutathione synthetase [Plas... [ score 179 E 1e-43 ] [ range 205 .. 421 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----KKIQMLLLDDDILRKYISIDINKKKKLKKTFALQIDPSLNKHSD-IISYAIKNENKFILKPQREGG
+QNNLHGNDVKEKLMLYYKPEEKSFYVLMEKLFPSPFE-NQLQKKNSEFSLEQSISEFGFFHNIIFFKDKN
+ILNEQKGYLVRTKNV---NENEGGAICGISSLDSVFLV*
+>P1;gi|7940268|emb|CAB91835.1| possible glutathione synthetase [Leis... [ score 171 E 3e-41 ] [ range 410 .. 602 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----KKMQQLMS--NVSEVLAPGNQQKAAALAEHFAPQYSLNSDEYARLAIADAVLHPEQYVLKPQLEGG
+GNLIAGEPMQRMLRDVTSDDPRREYILMRKIDYPVAT-GVFFQKNSIHVEKNACSEVGIFGVILSSDNGY
+IMNQAAGTLVRTKPA---DAADGGVIAGVAALDSV---*
+>P1;gi|7940268|emb|CAB91835.1| possible glutathione synthetase [Leis... [ score 171 E 3e-41 ] [ range 29 .. 198 ] [ duplicate b ]
+sequence
+-------------EELAAKCLELGLA-------IHQPDTYEI-THPALSLRPFPMKADVLRQLYDRQLLW
+NEAINRTSRNF----EFLRDSMKSTAESDS-FTGRLLAILEKVYKA--PVYQPFMLGILRTDYMSSVDPE
+SGSHLKNIEINTISCSFAGISPLVHKFHAYLHK-------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|15387674|emb|CAC59841.1| putative glutathione synthetase [Pla... [ score 165 E 2e-39 ] [ range 446 .. 652 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+G--SKKIQMLLLDNDILKKYIKKSDEQITKLKKTFALQVDPSQNISA-HIIQDAINNENNYLLKPQREGG
+KNNLHGNQVKQKLKLFYDHNKKQTYVLMQRLFPSTFT-AIEQQKKKPSHLIQSISEFSLFHNFIFYKNKN
+ILNEQKGYLVRTKNY---TENEGGAICGISSLDSFFL-*
+>P1;gi|15387674|emb|CAC59841.1| putative glutathione synthetase [Pla... [ score 165 E 2e-39 ] [ range 75 .. 231 ] [ duplicate b ]
+sequence
+-----------------------------------------------FTLLPHRLDKKLLELCKYSTLLY
+SELFDNMVCDL----SYLLSIFENIKGHDF-FVKKMLEVCKKVYGR--NIKDDIRCVIGRSDYMIDDENI
+NDKDIKQIEYNTISVAFGNLSSILFNGHKYILKQ------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|15865449|emb|CAC82726.1| glutathione synthetase [Mesembryanth... [ score 158 E 2e-37 ] [ range 1 .. 98 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---TKKIQQELAKPNVLERFLDNK-EDISKLRKCFAGLWSLDDSE----VISDAMERPELYVMKPQREGG
+GNNIYGNDVRDTLQRIQQEEDAAAYILMQRIFP-------------------------------------
+--------------------------------------*
+>P1;gi|43197456|gb|EAC64270.1| unknown [environmental sequence] [ score 157 E 4e-37 ] [ range 124 .. 292 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------LTYY-----RAGYTPEDFPEDDAGRQLIEASSTIQMQLS
+G--MKKIQQVLTKKEVLANFV--SEEISGRFLKTFAKMHTLDETPEGEFTASKWLSHADDYVLKPQREGG
+GNNYFGSDILNLIPTIKKEEQKA-YIMMEKIKAVPHS-SIQIVNGK-AETLNCVSEIGRFG---------
+--------------------------------------*
+>P1;gi|43197456|gb|EAC64270.1| unknown [environmental sequence] [ score 157 E 4e-37 ] [ range 5 .. 105 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----LRQVELNTISASFPFLITKLYQLHKNLFEQN---------KLPKVIKNNPLDTVVDVFAHAIQKYG
+I--SDSIMLMVVQPD--EKNIFDQKHNIATVRKTLVEIH-------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|29248278|gb|EAA39816.1| GLP_512_30439_29078 [Giardia lamblia ... [ score 127 E 4e-28 ] [ range 313 .. 447 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------TLSKILDSPQAISAWLASSSTMVLKSIAEGG
+GNCVFGDDIPAAWDALTDSAAASTHFLMERLVPDSQD-AVFIYSSEIVNVARADAETGVYSFCQPSEVGT
+APIRHLGFLVRMKRA---GTGEGGILCGQGVL------*
+>P1;gi|43220281|gb|EAC75705.1| unknown [environmental sequence] [ score 124 E 3e-27 ] [ range 16 .. 112 ]
+sequence
+---------DETIRSMRDEAVSWAAQHGLLVGLDSAESGQAMCTHAPMSLLPTPFPREVFELALRVSPSF
+AALCDAVSRDD----EFLRTTLSGVIKTDE-FTRRIWD--------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43351199|gb|EAD40475.1| unknown [environmental sequence] [ score 119 E 8e-26 ] [ range 119 .. 227 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------AAMHLA
+G--CKKIQQALAQPGALERFVKDAGE-IAEMRKVFAGLY-AMDGAAAADAVRLGLGNPGGYVLKPQREGG
+GNNLYGDELTAALRTYDPDADLSAYILMQRI---------------------------------------
+--------------------------------------*
+>P1;gi|43529807|gb|EAE19590.1| unknown [environmental sequence] [ score 114 E 4e-24 ] [ range 157 .. 250 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------MQLS
+G--MKKIQQVLTKKEVLADFV--TEEISRRFLKTFAKMHTLDETPEGEVSASEWLSNHDDYVLKPQREGG
+GNNYFGSDILKLIPTIKKKE--------------------------------------------------
+--------------------------------------*
+>P1;gi|43529807|gb|EAE19590.1| unknown [environmental sequence] [ score 114 E 4e-24 ] [ range 2 .. 101 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----RQVELNTVSASFPFLITRLYQLHKNLFEQN---------KLPKVIQNNPLDAVVDAFAHSVKNYG
+I--SDSVILVVVQSN--EKNIFDQKHNIATVRKTLVEIH-------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43213690|gb|EAC72377.1| unknown [environmental sequence] [ score 104 E 5e-21 ] [ range 2 .. 75 ]
+sequence
+----------------------------------------------------------------------
+------------------------VLETDD-FTRRVWDVYESCGGQ--AGRVPVEAGVLRADYMLD-APS
+GAP--LQVEVNTISTSFMALATRVSEMHDHLIRW------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43051714|gb|EAB92266.1| unknown [environmental sequence] [ score 103 E 6e-21 ] [ range 47 .. 155 ]
+sequence
+-----------------EEALDPAALNGLLRY-----NESGTLIHVPFSLSPFSISKEELHEMQQLTEPF
+SEMMLRVSRDR----EFIREPLEPLADSDT-FLHLLLGMG---LRE--E-TPTLQLLIQRNDFFLTDPEG
+SG--------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|32330192|gb|AAP75748.1| glutathione synthetase [Nectria lugdu... [ score 102 E 2e-20 ] [ range 179 .. 261 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------TQLA
+G--TKKVQQILSVPSALSKFIRDDTEDVAELWRTFTNIYPMDTSDAGLEARKKALDPCQAYVLKPQREGG
+GNN-------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43311096|gb|EAD21297.1| unknown [environmental sequence] [ score 95 E 2e-18 ] [ range 209 .. 286 ] [ duplicate a ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------MQLS
+G--MKKIQQVLTKKEVLAEFVSEK--ISGRFLKTFAKMHTLDETPEGEVSVAEWLSKHDDYVLKPQREGG
+GNNY------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43311096|gb|EAD21297.1| unknown [environmental sequence] [ score 95 E 2e-18 ] [ range 1 .. 152 ] [ duplicate b ]
+sequence
+----------------------------------------------------------------------
+-----------------------------P-FLKMLLD----CRSR--EMTQSRQLLVQRNDFFINDKQN
+IHPALRQVELNTVSASFPFLITKLNQMHKNLFEQN---------KLPEVIQNNPLDAVVDAFAHAVNNYG
+I--SDCVMLVIVQPNIFDQLGLEQHLWIATVRKTLTEI--------------------------------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|43225372|gb|EAC78268.1| unknown [environmental sequence] [ score 92 E 2e-17 ] [ range 1 .. 62 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------IQIVNGQAETLNCISEIGRFGVCFAENGEI
+KNNLDAGYLVRTKAR---NVNEGGVCAGFACLNTI---*
+>P1;gi|40950489|gb|AAR97878.1| GS [Chironomus duplex] >gi|40950491|g... [ score 80 E 9e-14 ] [ range 26 .. 88 ]
+sequence
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------------HLA
+G--TKKVQQALAKPRILKRFLTDEDE-IKRVEEIFTGLYSLDKEEGGDKVVDMVLKNPEGYVM-------
+----------------------------------------------------------------------
+--------------------------------------*
+>P1;gi|44099210|gb|EAH12232.1| unknown [environmental sequence] [ score 69 E 1e-10 ] [ range 1 .. 88 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------------------------------DFMDDKRD-
+---GHKLVEFNGIAAGMGPFGQRIHELHHYLQRQW-----PVPEAMGELVGNDAIEGLSAGIAE------
+V--TFKIKQEFGDPGP-ARFL-------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------*

@@ -1,0 +1,448 @@
+>P1;1ixda
+structureN:1ixd:   1 :A: 104 :A:cylindromatosis tumour-suppressor cylD, CAP-Gly domain:Homo sapiens: -1: -1
+GSSGSSGLAMPPGNS-HGLEVGSLAEVKE-NPP-FYGVIRWIGQPPGLNEVLAGLELEDECAGCTDGTFR
+GTRYFTCALKKALFVKLKSCRPDSRFASLQPSGPSSG*
+>P1;1lpla
+structureX:1lpl: 135 :A: 229 :A:hypothetical protein f53f4.3 in chromosome V:Caenorhabditis elegans: 1.77: 22
+-------SDKLNEEAAKNIMVGNRCEVTVGAQMARRGEVAYVGATKFKEGVWVGVKYDEPV-GKNDGSVA
+GVRYFDCDPKYGGFVRPVDVKVGDFPELSIDEI----*
+>P1;gi|6841352|gb|AAF29029.1| HSPC057 [Homo sapiens] [ score 203 E 8e-52 ] [ range 32 .. 127 ]
+sequence
+----SPPLAMPPGNS-HGLEVGSLAEVKE-NPP-FYGVIRWIGQPPGLNEVLAGLELEDECAGCTDGTFR
+GTRYFTCALKKALFVKLKSCRPDSRFASLQPVS----*
+>P1;gi|31221347|ref|XP_317037.1| ENSANGP00000019295 [Anopheles gambi... [ score 150 E 5e-36 ] [ range 235 .. 366 ]
+sequence
+--SDSGGPAASPPND-PSLGVGSMVEVTT-DPL-LYGVIRWIGPLPGGNKVMVGVELEDETLETTNGTHN
+GVRLFRCPANRAIFVHTSQCSRDRRFQDIPPMSPCS-*
+>P1;gi|24583322|ref|NP_723554.1| CG5603-PD [Drosophila melanogaster]... [ score 136 E 2e-31 ] [ range 128 .. 230 ]
+sequence
+--ADYQPLIEIPGTE---LAIGSLVEV-S-NPD-LYGVVRWIGIPPGPQKVLVGIEVEDESVVASDGRHN
+GVRLFTCHDGRAIFVPANRCTADRRFADVDNS-----*
+>P1;gi|34851366|ref|XP_341653.1| similar to mKIAA0849 protein [Rattu... [ score 102 E 1e-21 ] [ range 524 .. 573 ] [ duplicate a ]
+sequence
+----SPPMPSSSGNA-HGLEVGSLAEVKE-NPP-FYGVIRWIGQPPGLSDVLAGLEL-------------
+-------------------------------------*
+>P1;gi|31239145|ref|XP_319986.1| ENSANGP00000005315 [Anopheles gambi... [ score 51 E 4e-06 ] [ range 127 .. 206 ]
+sequence
+--------PAMAGKA-ASLNVGDRVIVSS-GP----GMLKFIGETQFASGTWCGVQL-DEASGKNDGTVD
+GVRYFECPAKYGIFVPIAKVT----------------*
+>P1;gi|29247975|gb|EAA39521.1| GLP_703_46133_44277 [Giardia lamblia ... [ score 51 E 5e-06 ] [ range 13 .. 92 ]
+sequence
+-------LEMSLAND--SLFVSQRVRHSE-HPE-QMGTIRYVGPIKEQSSNYCGVEW-DSSVGKYDGEYQ
+GTRYFNCAPLYGSFVHVKRLIP---------------*
+>P1;gi|19922604|ref|NP_611425.1| CG11242-PA [Drosophila melanogaster... [ score 48 E 7e-05 ] [ range 166 .. 223 ]
+sequence
+------------------------VTVPG-NPT-RRGTIRYNGPLEGKSGHFIGVEY-DEPLGKNNGSFG
+GKAYFTCAPNYGGFV----------------------*
+>P1;gi|39590544|emb|CAE66284.1| Hypothetical protein CBG11531 [Caeno... [ score 154 E 6e-37 ] [ range 137 .. 230 ]
+sequence
+--------DTANEKAAKGIKIGDRCEVTVGAHMARRGEVAFVGATKFKDGIWVGVKYDEPV-GKNDGSVT
+GVRYFECEPKYGGFVRPVDVKVGDYPELSIDEI----*
+>P1;gi|24528346|emb|CAD56044.1| cytoskeleton-associated protein 1 [S... [ score 147 E 5e-35 ] [ range 146 .. 244 ]
+sequence
+-------SQRLIEEEAQAIPVGSRCEVRAPGQPPRRGTVMYVGLTDFKPGYWIGVRYDEPL-GKNDGSVN
+GKRYFECQAKYGAFVKPSVVTVGDFPEEDLDEM----*
+>P1;gi|13384976|ref|NP_079824.1| cytoskeleton-associated protein 1 [... [ score 146 E 1e-34 ] [ range 146 .. 244 ]
+sequence
+-------AQRLSEEKAQAISVGSRCEVRAPDHSLRRGTVMYVGLTDFKPGYWVGVRYDEPL-GKNDGSVN
+GKRYFECQAKYGAFVKPSAVTVGDFPEEDLDEM----*
+>P1;gi|27731049|ref|XP_214899.1| similar to cytoskeleton-associated ... [ score 144 E 4e-34 ] [ range 146 .. 244 ]
+sequence
+-------AQRLSEEEAQAISVGSRCEVRAPGQSLRRGTVMYVGLTDFKPGYWVGVRYDEPL-GKNDDSVN
+GKRYFECQAKYGAFVKPAAVTVGDFPEEDLDEM----*
+>P1;gi|3023518|sp|Q99426|TBCB_HUMAN Tubulin-specific chaperone B (Tu... [ score 144 E 6e-34 ] [ range 146 .. 244 ]
+sequence
+-------AQRLAEEKAQSIPVGSRCEVRAAGQSPRRGTVMYVGLTDFKPGYWIGVRYDEPL-GKNDGSVN
+GKRYFECQAKYGAFVKPAVVTVGDFPEEDLDEI----*
+>P1;gi|27882512|gb|AAH44438.1| Similar to RIKEN cDNA 2410007D12 gene... [ score 135 E 2e-31 ] [ range 152 .. 246 ]
+sequence
+---------EEEKVAAEAIAVGNRCKVQVPGQATKIGTVMYVGTADFKPGYWVGVKYDEPL-GKHDGSVN
+GKRYFECEPKYGAFVKPLTVTVGDFPEEDLDEM----*
+>P1;gi|27819904|gb|AAL29037.2| LD45244p [Drosophila melanogaster] [ score 132 E 1e-30 ] [ range 179 .. 266 ]
+sequence
+------------QKRAELCVLGGRCEVTVPGNPTRRGTIRYNGPLEGKSGHFIGVEYDEPL-GKNNGSFG
+GKAYFTCAPNYGGFVSPLSVTVGDFPPEDFN------*
+>P1;gi|42545864|gb|EAA68707.1| hypothetical protein FG00317.1 [Gibbe... [ score 122 E 1e-27 ] [ range 146 .. 237 ]
+sequence
+------------EVATRGIAVGRRCRV--GGEDTRRGVIQYVGEVKEIPGSWVAVKLDEPV-GKNDGSIA
+GTRYWGSELKHGVFVRPERVEVGDFPALDDLE-----*
+>P1;gi|32415345|ref|XP_328152.1| probable Alp11 homolog of tubulin-f... [ score 121 E 3e-27 ] [ range 144 .. 235 ]
+sequence
+------------EVEQRGIEVGRRCRV--GQDDTRRGVVKYVGEVKEIPGSWIGVHLDEPV-GKNDGSIG
+GTRYWESQLKHGVFVRPDRVEVGDFPIVDDLE-----*
+>P1;gi|26325878|dbj|BAC26693.1| unnamed protein product [Mus musculus] [ score 120 E 8e-27 ] [ range 205 .. 285 ] [ duplicate a ]
+sequence
+------------KKGERELKVGDR--VLVGG--TKAGVVRFLGETDFAKGEWCGVELDEPL-GKNDGAVA
+GTRYFQCQPKYGLFAPVHKVTKIGFPST---------*
+>P1;gi|26325878|dbj|BAC26693.1| unnamed protein product [Mus musculus] [ score 120 E 8e-27 ] [ range 47 .. 125 ] [ duplicate b ]
+sequence
+-------SSETQEEFVDDFRVGER----VWVNGNKPGFIQFLGETQFAPGQWAGIVLDEPI-GKNDGSVA
+GVRYFQCEPLKGIFTRPSKLT----------------*
+>P1;gi|2905649|gb|AAC03547.1| cytoplasmic linker protein CLIP-170 [G... [ score 119 E 1e-26 ] [ range 37 .. 108 ] [ duplicate b ]
+sequence
+------------DDFVDDFRVGER----VWVNGNKPGFIQFLGETQFAPGQWAGIVLDEPI-GKNDGSVA
+GVRYFQCEPLRGIFTRPSK------------------*
+>P1;gi|41945510|gb|AAH66061.1| Dctn1 protein [Mus musculus] [ score 119 E 2e-26 ] [ range 4 .. 79 ]
+sequence
+------------EASARPLRVGSRVEVIGKGH---RGTVAYVGATLFATGKWVGVILDEAK-GKNDGTVQ
+GRKYFTCDEGHGIFVRQSQIQV---------------*
+>P1;gi|13162302|ref|NP_077044.1| dynactin 1 [Rattus norvegicus] >gi|... [ score 119 E 2e-26 ] [ range 16 .. 96 ]
+sequence
+--------SRMSTEAARPLRVGSRVEVIGKGH---RGTVAYVGATLFATGKWVGVILDEAK-GKNDGTVQ
+GRKYFTCDEGHGIFVRQSQIQV---------------*
+>P1;gi|32451885|gb|AAH54565.1| Unknown (protein for IMAGE:6789655) [... [ score 119 E 2e-26 ] [ range 3 .. 81 ]
+sequence
+-----------SDGGGRPVKVGSVVEVIGKGQ---RGTVAYIGATLFASGKWVGVILDEAK-GKNDGTVQ
+GKRYFTCEENHGIFVRQSQIQLID-------------*
+>P1;gi|37589364|gb|AAH59305.1| MGC68950 protein [Xenopus laevis] [ score 118 E 3e-26 ] [ range 4 .. 79 ]
+sequence
+------------EATGKPLKVGSRVEVIGKG---YRGTVAYVGATLFATGKWVGVILDDSK-GKNDGTVQ
+GRRYFTCEENHGIFVRQSQIQV---------------*
+>P1;gi|31204153|ref|XP_311025.1| ENSANGP00000019876 [Anopheles gambi... [ score 118 E 3e-26 ] [ range 196 .. 293 ]
+sequence
+---------KEDRQKVDGTAIGARCRVTAKNNPVRLGTVLYKGPLDGKPGLFFGVKFDEPL-GVNDGTMN
+GKRYFDCGPKYGSFVAPKAVEVGDFPPFSLDD-----*
+>P1;gi|38567833|emb|CAE05782.2| OSJNBb0020J19.11 [Oryza sativa (japo... [ score 118 E 3e-26 ] [ range 15 .. 103 ]
+sequence
+-------SDKHMEELCANIKVGDRCEVEPG---AKRGTVKFVGAEALGRGFWVGVQYDEPL-GKHDGMVK
+GIRFFECPQGHGAIVRPEKVKVGDYPERD--------*
+>P1;gi|6056203|gb|AAF02820.1| putative cytoskeleton-associated prote... [ score 117 E 4e-26 ] [ range 149 .. 240 ]
+sequence
+-----------MEDLCANIKVGDRCQVEPG---EKRGMVKYVGAESLGPGYWVGIQYDEPL-GKHDGMVK
+GTRFFECPRLQGGMVRPDKVKVGDYPPFEEDEI----*
+>P1;gi|14916981|sp|P35458|DYNA_CHICK Dynactin 1 (150 kDa dynein-asso... [ score 116 E 1e-25 ] [ range 22 .. 97 ]
+sequence
+------------EASSKPLKVGSRVEVIGKGH---RGTVAYVGATLAATGKWVGVILDEAK-GKNDGTVQ
+GRKYFTCEENHGIFVRQSQIQV---------------*
+>P1;gi|29247242|gb|EAA38812.1| GLP_231_45450_44731 [Giardia lamblia ... [ score 115 E 2e-25 ] [ range 147 .. 233 ]
+sequence
+----------MEAEALEKIGVGMRCRLS----GDRRGEVAFVGPVPLGKGHFVGVTLDEPV-GDSDGTHG
+GTKYFNAQMKYGAFVKPLSVEVGDFPELGLD------*
+>P1;gi|7427513|ref|NP_003379.2| cytoplasmic linker 2 isoform 1; Will... [ score 115 E 2e-25 ] [ range 215 .. 294 ] [ duplicate a ]
+sequence
+--------------GEKDLRLGDR--VLVGG--TKTGVVRYVGETDFAKGEWCGVELDEPL-GKNDGAVA
+GTRYFQCPPKFGLFAPIHKVIRIGFPSTS--------*
+>P1;gi|7427513|ref|NP_003379.2| cytoplasmic linker 2 isoform 1; Will... [ score 115 E 2e-25 ] [ range 68 .. 146 ] [ duplicate b ]
+sequence
+-------AAEVGDDFLGDFVVGER----VWVNGVKPGVVQYLGETQFAPGQWAGVVLDDPV-GKNDGAVG
+GVRYFECPALQGIFTRPSKLT----------------*
+>P1;gi|6753562|ref|NP_034120.1| cytoplasmic linker 2; cytoplasmic li... [ score 115 E 3e-25 ] [ range 69 .. 147 ] [ duplicate b ]
+sequence
+-------AAEVGDDFLGHFVVGER----VWVNGVKPGVVQYLGETQFAPGQWAGVVLDDPV-GKNDGAVG
+AVRYFECPALQGIFTRPSKLT----------------*
+>P1;gi|31239145|ref|XP_319986.1| ENSANGP00000005315 [Anopheles gambi... [ score 113 E 7e-25 ] [ range 126 .. 207 ] [ duplicate a ]
+sequence
+--------SPAMAGKAASLNVGDRVIVSSGF-GSRPGMLKFIGETQFASGTWCGVQLDEAS-GKNDGTVD
+GVRYFECPAKYGIFVPIAKVTL---------------*
+>P1;gi|31239145|ref|XP_319986.1| ENSANGP00000005315 [Anopheles gambi... [ score 113 E 7e-25 ] [ range 7 .. 77 ] [ duplicate b ]
+sequence
+---------------TDSFIIGQR----VWVGGIRPGQIAYIGETHFAPGEWAGVVLDEPN-GKNDGSVA
+GKRYFQCEAKKGVFSRLTRLT----------------*
+>P1;gi|45445154|gb|AAO41206.2| CG5020-PD [Drosophila melanogaster] [ score 113 E 1e-24 ] [ range 223 .. 293 ] [ duplicate a ]
+sequence
+-----------------GMAVGDRVIVSSGF-GSRPGILRYLGETQFAPGNWCGVELDEPS-GKNDGTVD
+DIRYFECKPKYGVFVPIAKV-----------------*
+>P1;gi|45445154|gb|AAO41206.2| CG5020-PD [Drosophila melanogaster] [ score 113 E 1e-24 ] [ range 99 .. 177 ] [ duplicate b ]
+sequence
+-------SSAVLTANTEQFIIGQR----VWLGGTRPGQIAFIGDTHFAAGEWAGVVLDEPN-GKNDGCVS
+GKRYFQCEPKRGIFSRLTRLT----------------*
+>P1;gi|16041194|dbj|BAB69764.1| hypothetical protein [Macaca fascicu... [ score 112 E 1e-24 ] [ range 276 .. 364 ] [ duplicate a ]
+sequence
+-------TSKVNTGLMTSTANNSRCELRLGERGQRLGTIRFFGTTNFAPGYWYGIELEKPH-GKNDGSVG
+GVQYFSCSPRYGIFAPPSRVQ----------------*
+>P1;gi|7493975|pir||T18364 ro-3 protein - Neurospora crassa >gi|1050... [ score 112 E 1e-24 ] [ range 5 .. 72 ]
+sequence
+-----------------GVAVGQKIELADGS--GRTAFVRYVGETAFAPGTWVGIELDEPS-GKNDGSVQ
+GERYFNCEMGYGMFVRPT-------------------*
+>P1;gi|45198572|ref|NP_985601.1| AFR054Wp [Eremothecium gossypii] >g... [ score 111 E 4e-24 ] [ range 144 .. 240 ]
+sequence
+---------ETQALAAAALPVGARCAVRTRGAPERRGWLRYVGPVDGAENTWCGVEFDEPV-GRNDGTFN
+GRAYFGVHSNHGAFVKPTAVAVGQFAPLADDEL----*
+>P1;gi|40743107|gb|EAA62297.1| hypothetical protein AN5116.2 [Asperg... [ score 110 E 6e-24 ] [ range 159 .. 260 ]
+sequence
+-----------EEVEKRDISVSKRAIILPSSPPVRRGTIRFVGPVPAIPVIWVGIELDEPT-GKNDGSVN
+GKRYFMCPNRCGVFVKPEKVQVGDFPPLG--------*
+>P1;gi|21392104|gb|AAM48406.1| RE24170p [Drosophila melanogaster] [ score 109 E 1e-23 ] [ range 2 .. 80 ]
+sequence
+--------------SEKNLKVGARVELT---GKDLLGTVAYVGMTSFAVGKWVGVVLDEPK-GKNSGSIK
+GQQYFQCDENCGMFVRPTQLRLLEAAP----------*
+>P1;gi|38086220|ref|XP_133283.3| RIKEN cDNA 1500005P14 [Mus musculus] [ score 108 E 3e-23 ] [ range 408 .. 483 ] [ duplicate b ]
+sequence
+----------LQQREGAKAEVGDQVLV----AGQKQGIVRFYGKTDFAPGYWYGIELDQPT-GKHDGSVF
+GVRYFTCAPRHGVFAPASRIQ----------------*
+>P1;gi|18496983|ref|NP_056341.1| CLIP-170-related protein [Homo sapi... [ score 108 E 4e-23 ] [ range 408 .. 483 ] [ duplicate b ]
+sequence
+----------LQQRDGAKAEVGDQVLV----AGQKQGIVRFYGKTDFAPGYWYGIELDQPT-GKHDGSVF
+GVRYFTCPPRHGVFAPASRIQ----------------*
+>P1;gi|1723421|sp|Q10235|AL11_SCHPO Cell polarity protein alp11 (Alt... [ score 107 E 5e-23 ] [ range 154 .. 232 ]
+sequence
+--------------------LNSRC----CAAGERYGTIRYIGLVPNNDNLWVGVEFDEPV-GKNDGTVS
+GKRYFNAKNKHGSFLRSSEVEVGDFPPEDILE-----*
+>P1;gi|31982881|ref|NP_078968.3| hypothetical protein FLJ21069 [Homo... [ score 107 E 6e-23 ] [ range 618 .. 691 ] [ duplicate b ]
+sequence
+-------------EGSVKLHEGSQVLLTSSNEM---GTVRYVGPTDFASGIWLGLELRSAK-GKNDGSVG
+DKRYFTCKPNHGVLVRPSRVT----------------*
+>P1;gi|31982881|ref|NP_078968.3| hypothetical protein FLJ21069 [Homo... [ score 107 E 6e-23 ] [ range 282 .. 349 ] [ duplicate c ]
+sequence
+-----------------GLKLGDRVVI----AGQKVGTLRFCGTTEFASGQWAGIELDEPE-GKNNGSVG
+KVQYFKCAPKYGIFAPLSKI-----------------*
+>P1;gi|43051529|gb|EAB92173.1| unknown [environmental sequence] [ score 107 E 8e-23 ] [ range 13 .. 95 ]
+sequence
+-------------GSGRSFQIGDRCQIVLKGCRERIGTVAFVGSTVLGEGMWVGIRLDEPL-GKHDGRVR
+GIRYFECAPRHGLMIRPNKLQ----------------*
+>P1;gi|26344574|dbj|BAC35936.1| unnamed protein product [Mus musculus] [ score 107 E 8e-23 ] [ range 436 .. 504 ] [ duplicate a ]
+sequence
+-----------------ALHLGERVLV-VGK---RVGTIKFFGTTNFAPGYWYGIELEKPH-GKNDGSVG
+GVQYFSCSPRYGIFAPPSRVQ----------------*
+>P1;gi|27754155|ref|NP_084455.2| RIKEN cDNA 1700024K14 [Mus musculus... [ score 106 E 9e-23 ] [ range 617 .. 690 ] [ duplicate b ]
+sequence
+-------------EGTVKLHEGSQVLLTSSNEM---ATVRYVGPTDFASGIWLGLELRSAK-GKNDGAVG
+DKRYFTCKPNYGVLVRPSRVT----------------*
+>P1;gi|34862509|ref|XP_216642.2| similar to RIKEN cDNA 4833417L20 [R... [ score 105 E 2e-22 ] [ range 228 .. 296 ] [ duplicate c ]
+sequence
+-----------------GLKLGDR--VVIAGQ--KVGTLRFCGTTEFASGQWAGIELDEPE-GKNNGSVG
+RVQYFKCAPKYGIFAPLSKIT----------------*
+>P1;gi|40739517|gb|EAA58707.1| hypothetical protein AN6323.2 [Asperg... [ score 105 E 2e-22 ] [ range 1 .. 70 ]
+sequence
+---------------MAELTIGSVIALT----DGRQATVRFIGATSFADGEWIGVELTDDT-GKNDGSVQ
+GERYFDCEPGFGMFVRPTAV-----------------*
+>P1;gi|23613589|ref|NP_704610.1| hypothetical protein [Plasmodium fa... [ score 105 E 2e-22 ] [ range 280 .. 360 ]
+sequence
+-------------------KIGKRCRIKLG---DRRGILKFVGNIKNNQDIYVGVDLDEPL-GNSDGMYK
+KKKLFECKGDKYGYIGNINIEVGDFPPFDIMDL----*
+>P1;gi|38076359|ref|XP_283218.2| kinesin family member 13B [Mus musc... [ score 105 E 2e-22 ] [ range 1840 .. 1901 ]
+sequence
+--------------------------VVVGTN--KTGIVRYIGPTDFQEGTWIGVELDLPA-GKNDGSIG
+GKQYFRCNPGYGLLVRPSRVR----------------*
+>P1;gi|38073517|ref|XP_129509.3| RIKEN cDNA 4933409L06 [Mus musculus] [ score 104 E 4e-22 ] [ range 2538 .. 2624 ]
+sequence
+------------TEELLDFHIGDRVLI----GSVQPGTLRFKGETDFAKGFWAGVELDKPE-GNNNGTYD
+GIVYFVCKDKHGIFAPPQKISLENFDDTDINE-----*
+>P1;gi|13194197|ref|NP_056069.1| kinesin family member 13B; guanylat... [ score 104 E 4e-22 ] [ range 1707 .. 1768 ]
+sequence
+--------------------------VTVGAH--KTGVVRYVGPADFQEGTWVGVELDLPS-GKNDGSIG
+GKQYFRCNPGYGLLVRPSRVR----------------*
+>P1;gi|31208243|ref|XP_313088.1| ENSANGP00000022950 [Anopheles gambi... [ score 104 E 5e-22 ] [ range 3 .. 83 ]
+sequence
+---------EAPDMAERYLKIGQRVELT-GKEV--RGTIAYVGMTSFAVGKWVGVILDEAK-GKNNGSIK
+GHQYFSCEENYGMFVRPTQLVFID-------------*
+>P1;gi|28573815|ref|NP_788356.1| Kinesin-73 CG8183-PB [Drosophila me... [ score 104 E 5e-22 ] [ range 1805 .. 1871 ]
+sequence
+------------------IVVGESVLIRPYNTS---GVIRFVGTTEFQPGAWIGVELDTPT-GKNDGSVK
+GVQYFQCKPKHGMFVRSDK------------------*
+>P1;gi|23480616|gb|EAA17128.1| microtubule-associated protein, putat... [ score 104 E 5e-22 ] [ range 181 .. 258 ]
+sequence
+-------------------KVGSRCRIKIG---DRRGTLKFVGNLKNNDVIYVGVDLDEPL-GNSDGFYQ
+KKKIFECKGDKYGYIGNINIEVGDFPPFDI-------*
+>P1;gi|108456|pir||S16129 dynein-associated protein, 150K, cytosolic... [ score 104 E 7e-22 ] [ range 34 .. 95 ]
+sequence
+-----------------------------GDWEGHRGTVAYVGATLFATGKWVGVILDEAK-GKNDGTVQ
+GRKYFTCDEGHGIFVRQSQIQV---------------*
+>P1;gi|38103514|gb|EAA50201.1| hypothetical protein MG03960.4 [Magna... [ score 103 E 9e-22 ] [ range 10 .. 75 ]
+sequence
+---------------------------TVELSDGRIAIVRFIGRTGFAQGDWLGVELPDDS-GKNDGSVQ
+GERYFDCDSNHGMFVRPSTVCILD-------------*
+>P1;gi|28317279|gb|AAO39639.1| AT19678p [Drosophila melanogaster] [ score 103 E 1e-21 ] [ range 5 .. 86 ]
+sequence
+----------------RELKLGQRVEVT-GKNL--QGKVAYVGRTNFAAGLWYGVVLDEPL-GKNNGSVH
+GSIYFKCPTNCGLFVRAQQVRIAELPKGGDN------*
+>P1;gi|34855779|ref|XP_218481.2| similar to CLIP-170-related protein... [ score 103 E 1e-21 ] [ range 306 .. 399 ] [ duplicate b ]
+sequence
+--------------SALGLRLGDRVLL----DGQKTGTLRFCGTTEFASGQWVGVELDEPE-GKNDGSVG
+GVRYFICPPKQGLFASVSKVKAVDAPPSSV-------*
+>P1;gi|15929778|gb|AAH15310.1| FLJ21069 protein [Homo sapiens] [ score 102 E 1e-21 ] [ range 366 .. 447 ] [ duplicate a ]
+sequence
+-------TSTANNSRCEGLRLGERVLVV----GQRLGTIRFFGTTNFAPGYWYGIELEKPH-GKNDGSVG
+GVQYFSCSPRYGIFAPPSRVQ----------------*
+>P1;gi|39593668|emb|CAE61960.1| Hypothetical protein CBG05960 [Caeno... [ score 102 E 1e-21 ] [ range 2 .. 72 ]
+sequence
+-----------------SFEIGTRVKTSSGN-----GKVVFAGQTQFAEGEWIGVILDTPT-GKNNGTVK
+DVAYFQCEPNYGVFVKASAVELED-------------*
+>P1;gi|25151912|ref|NP_502033.2| ortholog of Glued p150, DyNactin Co... [ score 102 E 2e-21 ] [ range 2 .. 72 ]
+sequence
+-----------------SFEIGTRVKTSSGN-----GRVVFCGQTQFAEGDWVGVILDTAT-GKNNGTVQ
+NVQYFECEPNFGVFVKSSAVELED-------------*
+>P1;gi|18378735|ref|NP_055625.2| centrosome-associated protein 350 [... [ score 99 E 2e-20 ] [ range 2496 .. 2578 ]
+sequence
+-----------------DFHIGDR--VLIGN--VQPGILRFKGETSFAKGFWAGVELDKPE-GNNNGTYD
+GIAYFECKEKHGIFAPPQKI--SHIPEVDINE-----*
+>P1;gi|31543843|ref|NP_848027.1| tubulin-specific chaperone e; progr... [ score 99 E 2e-20 ] [ range 9 .. 79 ]
+sequence
+-------------------VIGRRVEVN-----GEYATVRFCGAVPPVAGLWLGVEWDNPE-GKHDGSHE
+GTMYFKCHPTGGSFVRPSKVNFGD-------------*
+>P1;gi|42551593|gb|EAA74436.1| hypothetical protein FG05152.1 [Gibbe... [ score 99 E 3e-20 ] [ range 9 .. 67 ]
+sequence
+---------------------------TVQLNDGRKAIVRFAGATHFQVGEWIGVELEDKS-GKNDGSVQ
+GERYFDCPMGYGMFVKP--------------------*
+>P1;gi|31198665|ref|XP_308280.1| ENSANGP00000009361 [Anopheles gambi... [ score 97 E 6e-20 ] [ range 1754 .. 1817 ]
+sequence
+------------------VVVGESVLIRPYNTS---GVIAFVGATHFQGGTWIGVELDTPT-GKNDGTVQ
+GIQYFDCRPKHGIFVR---------------------*
+>P1;gi|19115531|ref|NP_594619.1| microtubule-associated protein ssm4... [ score 96 E 2e-19 ] [ range 4 .. 77 ]
+sequence
+------------------LSVGDEVLIR-----GELGIVRFAGSTDFESGIWLGVELLNGK-GKNDGSVK
+GKRYFSCEKGKGIFVRACSSNVMKRPSV---------*
+>P1;gi|38102869|gb|EAA49655.1| hypothetical protein MG08570.4 [Magna... [ score 95 E 4e-19 ] [ range 145 .. 208 ]
+sequence
+------------EAEERGIVVGKRCRV--GGEDTRRGAVMYVGEVPEGPGTWVGVRLDEPV-GKNDGSIK
+GKRYWG-------------------------------*
+>P1;gi|45184715|ref|NP_982433.1| AAL109Wp [Eremothecium gossypii] >g... [ score 95 E 4e-19 ] [ range 2 .. 72 ]
+sequence
+------------------VKVGDRVKVR-----GLVGVVRYLGETKFAAGQWVGIELDEAL-GKNDGSVQ
+GVNYFRPSKRYGLFARAETVVV---------------*
+>P1;gi|34876208|ref|XP_341538.1| similar to tubulin-folding protein ... [ score 93 E 2e-18 ] [ range 38 .. 108 ]
+sequence
+-------------------VIGRRVEVN-----GEYATVRFCGAVPPVAGLWLGVEWDNPE-GKHDGSHE
+GTMYFKCHPTGGSFVRPNIVNFGE-------------*
+>P1;gi|6324181|ref|NP_014251.1| alpha-tubulin foldin; protein implic... [ score 92 E 3e-18 ] [ range 158 .. 231 ]
+sequence
+-------------------AIGRHCRVTVDGSAPREAILRYVGPLPLDMGTWCGVEFPEAA-GKNDGRIN
+GVTLFGVAPGHGSFVRPRAVEI---------------*
+>P1;gi|30585063|gb|AAP36804.1| Homo sapiens tubulin-specific chapero... [ score 91 E 4e-18 ] [ range 9 .. 81 ]
+sequence
+-------------------VIGRRVEVN-----GEHATVRFAGVVPPVAGPWLGVEWDNPE-GKHDGSHE
+GTVYFKCHPTGGSFIRPNKVNFGDF------------*
+>P1;gi|19074291|ref|NP_585797.1| hypothetical protein [Encephalitozo... [ score 91 E 5e-18 ] [ range 17 .. 73 ]
+sequence
+-----------------------------------KGTVRYIGKIKSKDGKWIGLELDDPV-GANDGSVN
+GVKYFHCKDRHGIFIRYEKIRGG--------------*
+>P1;gi|29247975|gb|EAA39521.1| GLP_703_46133_44277 [Giardia lamblia ... [ score 87 E 1e-16 ] [ range 27 .. 85 ]
+sequence
+-------------------------RVRHSEHPEQMGTIRYVGPIKEQSSNYCGVEWDSSV-GKYDGEYQ
+GTRYFNCAPLYGSFV----------------------*
+>P1;gi|40743501|gb|EAA62691.1| hypothetical protein AN5531.2 [Asperg... [ score 84 E 8e-16 ] [ range 26 .. 80 ]
+sequence
+-------------------------------------TIRYVGKVDGTSGEWLGVEWDDPT-GKHSGQHN
+GVRYFRCHPTAGSFVRPSR------------------*
+>P1;gi|31231506|ref|XP_318537.1| ENSANGP00000019642 [Anopheles gambi... [ score 84 E 1e-15 ] [ range 52 .. 114 ]
+sequence
+------------------------VRVKVGQHF---GTVRYVGEVPNTEGEWIGIEWDDPE-GKHSGSVN
+GVQYFQTSPKAGSMIRSEK------------------*
+>P1;gi|42545931|gb|EAA68774.1| hypothetical protein FG00425.1 [Gibbe... [ score 82 E 2e-15 ] [ range 2 .. 73 ]
+sequence
+---------------AASQHVGQRI-----SYDGALCTVRYVGEVAGTTGTWLGVEWDDSA-GKHDGCHK
+GVRYFTCKPTAASFVRPSR------------------*
+>P1;gi|39590880|emb|CAE65254.1| Hypothetical protein CBG10142 [Caeno... [ score 82 E 3e-15 ] [ range 32 .. 87 ]
+sequence
+-----------------------------------KGFLRYVGPIHGKEGLFCGIELLEPN-GKHDGSFQ
+GVSYFIATPQHGIFAPIFRVTL---------------*
+>P1;gi|6325083|ref|NP_015151.1| Nuclear import protein; Nip100p [Sac... [ score 81 E 7e-15 ] [ range 27 .. 97 ]
+sequence
+-----------------------------------KGRVKFIGETQFAKGIWYGIELDKPL-GKNDGSAN
+GIRYFDIDLKYGLFCKKDTLQ---FYKPDDDE-----*
+>P1;gi|84972|pir||A28313 glued protein - fruit fly (Drosophila melan... [ score 81 E 7e-15 ] [ range 56 .. 109 ]
+sequence
+------------------------------------------GDDQLRVGKWVGVVLDEPK-GKNSGSIK
+GQQYFQCDENCGMFVRPTQLRLLEAAP----------*
+>P1;gi|32565301|ref|NP_499046.2| CAP-Gly domain containing protein (... [ score 79 E 2e-14 ] [ range 32 .. 87 ]
+sequence
+-----------------------------------KGFLRYVGPIHGKDGMFCGIELLEPN-GKHDGTFQ
+GVSYFIATPYHGIFAPIFRVTL---------------*
+>P1;gi|21391978|gb|AAM48343.1| GM13256p [Drosophila melanogaster] [ score 79 E 2e-14 ] [ range 13 .. 79 ]
+sequence
+-------------------PLGTRIKI-----GDNYGTVRYVGEVSGHMGSWLGIEWDDGL-GKHNGIVD
+GKRYFQTQPTGGSFIRPGKV-----------------*
+>P1;gi|38101815|gb|EAA48720.1| hypothetical protein MG00378.4 [Magna... [ score 79 E 3e-14 ] [ range 19 .. 73 ]
+sequence
+-------------------------------------TIRFIGDVAGTSGTWLGVEWDDPS-GKHDGCHK
+GVRYFACSPTAASFVRPTR------------------*
+>P1;gi|32422175|ref|XP_331531.1| hypothetical protein [Neurospora cr... [ score 75 E 5e-13 ] [ range 20 .. 74 ]
+sequence
+-------------------------------------TVRFIGEVEGTTGSWLGVEWDDPT-GKHAGQHK
+GIRYFTCKSKSASFIRPTR------------------*
+>P1;gi|45199221|ref|NP_986250.1| AFR702Wp [Eremothecium gossypii] >g... [ score 72 E 3e-12 ] [ range 20 .. 74 ]
+sequence
+-----------------------------------KGQLKYIGPVEGKQGLFVGVDLLANI-GKNDGTFR
+GKRYFETEPQSGLFIHLQKV-----------------*
+>P1;gi|17902536|emb|CAC12666.2| nuclear fusion protein [Kluyveromyce... [ score 71 E 8e-12 ] [ range 18 .. 72 ]
+sequence
+-----------------------------------RGQIRYIGSVETKKGTFVGINLFAGN-GKNDGTFR
+GRRYFETSPQSGLFIQWEKI-----------------*
+>P1;gi|18409854|ref|NP_565017.1| tubulin folding cofactor E / Pfiffe... [ score 70 E 1e-11 ] [ range 4 .. 83 ]
+sequence
+------------ESSNESFIIGQRVH---SLNDSRRGTVKYVGDVEGYSGTWIGVDWDDGD-GKHNGSVN
+GVFYFNGRSQSASFVRSQNLSRG--------------*
+>P1;gi|6319820|ref|NP_009901.1| Microtubule-associated protein requi... [ score 69 E 2e-11 ] [ range 19 .. 73 ]
+sequence
+-----------------------------------RGQLKYVGPVDTKAGMFAGVDLLANI-GKNDGSFM
+GKKYFQTEPQSGLFIQLQKV-----------------*
+>P1;gi|39587512|emb|CAE58450.1| Hypothetical protein CBG01587 [Caeno... [ score 67 E 1e-10 ] [ range 3 .. 69 ]
+sequence
+--------------------VGQRLRVNVDV-----ATIRYIGEVDGGSQRWIGLEWDDPS-GKHDGVVK
+GHRYFQTHPTGGSLMKMEAV-----------------*
+>P1;gi|17541264|ref|NP_501395.1| tubulin-specific chaperone e (56.7 ... [ score 67 E 1e-10 ] [ range 3 .. 65 ]
+sequence
+--------------------IGQRVRINF-----EVATVRYIGEVDGGSQRWVGLEWDDPT-GKHDGIVR
+GKRYFQTHPNGGSLMK---------------------*
+>P1;gi|32414413|ref|XP_327686.1| hypothetical protein [Neurospora cr... [ score 64 E 8e-10 ] [ range 115 .. 187 ]
+sequence
+---------------GDEIAIGDMVEV--PGNMT--GTVRFIGSVDGRKGIFAGVELFASR-GKNSGDVD
+GVSYFNTSPGSGIFLPLSK------------------*
+>P1;gi|38104096|gb|EAA50713.1| hypothetical protein MG04472.4 [Magna... [ score 63 E 2e-09 ] [ range 132 .. 211 ]
+sequence
+------------------IAIGD--IVDVPGNM--HGTVRFVGNVDGRKGIFAGVELFAAR-GKNNGDVD
+GISYFTTKPGAGIFLPLTKAVKRDLAPSS--------*
+>P1;gi|42553912|gb|EAA76755.1| hypothetical protein FG06823.1 [Gibbe... [ score 61 E 6e-09 ] [ range 124 .. 179 ]
+sequence
+------------------------------------GVVRFVGPVQGKKGVFAGVELVENR-GKNDGDVD
+GVSYFQTDPGAGIFLPAAK------------------*
+>P1;gi|40745449|gb|EAA64605.1| hypothetical protein AN1475.2 [Asperg... [ score 59 E 2e-08 ] [ range 6 .. 73 ]
+sequence
+-----------------EIQVGDVVNVPGGMH----GTVRFVGVVAGKPGRFAGIEL-APE-GKNSGDVD
+GKKYFATAPGSGIFVP---------------------*
+>P1;gi|19114525|ref|NP_593613.1| noc1p. [Schizosaccharomyces pombe] ... [ score 58 E 6e-08 ] [ range 2 .. 69 ]
+sequence
+------------------FPLGSVVEVITG----ERGFVRYAGEVENRKGVYVGLELL-PE-GKNRGVVD
+GREYFKTKEKTGIFVP---------------------*
+>P1;gi|42903969|gb|EAB19086.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 2 .. 76 ]
+sequence
+---------KKEKELSGGHTVGD----VVKSWQGEKGTVRYIGELEGQKAVWIGVEWHAGR-GKNDGSVS
+GERYFTCGPGMGSFI----------------------*
+>P1;gi|28972435|dbj|BAC65671.1| mKIAA0849 protein [Mus musculus] [ score 57 E 1e-07 ] [ range 505 .. 578 ] [ duplicate a ]
+sequence
+----------ISSGNAHGLEVGSLAEVK--ENPPFYGVIRWIGQPPGLSDVLAGLELDECA-GCTDGTFR
+GTRYFTCALKKALFVK---------------------*
+>P1;gi|28972435|dbj|BAC65671.1| mKIAA0849 protein [Mus musculus] [ score 57 E 1e-07 ] [ range 174 .. 251 ] [ duplicate b ]
+sequence
+--------------------VGSPVKVQLRSGEEKPGVVRFRGPLRTVSGIFFGVELLEGQ-GFTDGVYQ
+GKQLFQCDEDCGVFVALDKLEL---------------*
+>P1;gi|28972435|dbj|BAC65671.1| mKIAA0849 protein [Mus musculus] [ score 57 E 1e-07 ] [ range 269 .. 331 ] [ duplicate c ]
+sequence
+----------TMQVEPPPLEINSRVSLKVG-ESTESGTVIFCDVLPGKEGYFVGVDMDNPI-GNWDGRFD
+GVQ----------------------------------*
+>P1;gi|45187882|ref|NP_984105.1| ADR009Wp [Eremothecium gossypii] >g... [ score 55 E 4e-07 ] [ range 4 .. 71 ]
+sequence
+-------------------KVGERLDL-----DGELCTLRYIGAIPDWPGQVYGVEWDQGR-GKHSGTLH
+GVKYFETSPDTGSFLKESRV-----------------*
+>P1;gi|6841352|gb|AAF29029.1| HSPC057 [Homo sapiens] [ score 54 E 7e-07 ] [ range 44 .. 110 ]
+sequence
+-----------------GLEVGSLAEVK--ENPPFYGVIRWIGQPPGLNEVLAGLELDECA-GCTDGTFR
+GTRYFTCALKKALFVK---------------------*
+>P1;gi|14165258|ref|NP_056062.1| cylindromatosis (turban tumor syndr... [ score 54 E 9e-07 ] [ range 129 .. 212 ] [ duplicate b ]
+sequence
+------------------------CPVKVQLRSGEPGVVRFRGPLRTVSGIFFGVELLEGQ-GFTDGVYQ
+GKQLFQCDEDCGVFVALDKLELIEDDDTAL-------*
+>P1;gi|14165258|ref|NP_056062.1| cylindromatosis (turban tumor syndr... [ score 54 E 9e-07 ] [ range 222 .. 290 ] [ duplicate c ]
+sequence
+----------TMQVELPPLEINSRVSLKVGETIES-GTVIFCDVLPGKEGYFVGVDMDNPI-GNWDGRFD
+GVQLFAC------------------------------*
+>P1;gi|24583330|ref|NP_723557.1| CG5603-PA [Drosophila melanogaster]... [ score 53 E 2e-06 ] [ range 138 .. 217 ]
+sequence
+---------------GTELAIGSLVEVSPGVCEDLYGVVRWIGPPGPQKNVLVGIEVDESN-LKNDGRHN
+GVRLFTCHDGRAIFVPANR------------------*
+>P1;gi|31221347|ref|XP_317037.1| ENSANGP00000019295 [Anopheles gambi... [ score 53 E 2e-06 ] [ range 253 .. 363 ]
+sequence
+-----------------SLGVGSMVEVTLDGDPLLYGVIRWIGPLPTGGGNMVGVELDEPL-ETTNGTHN
+GVRLFRCPANRAIFVHTSQCRFQDIPPMS--------*
+>P1;gi|6320843|ref|NP_010922.1| Required for viability in the absenc... [ score 49 E 2e-05 ] [ range 5 .. 72 ]
+sequence
+--------------------IGDR--LKIGGYFC---TIKFIGVIKPWPSKAYGVEWDDSR-GKHSGTID
+DIHYFDVQPNSGSFLKESKIK----------------*
+>P1;gi|17553330|ref|NP_499195.1| cylindromatosis (3K988) [Caenorhabd... [ score 46 E 2e-04 ] [ range 457 .. 522 ]
+sequence
+-----------------NFRIGDQC-IWNNNGAEERGIIKYIGFLKGHKTLYAGVEFKNTI-GAGTGVFN
+REQLFLAKDGHAGFV----------------------*
+>P1;gi|39590719|emb|CAE65089.1| Hypothetical protein CBG09948 [Caeno... [ score 45 E 5e-04 ] [ range 448 .. 513 ]
+sequence
+-----------------GFRVEDQC-IWNNNGVEERGIIKFIGFLKGHKTLYAGVEFKNQI-GAGTGVFN
+KEQLFHSKDGHAGFV----------------------*

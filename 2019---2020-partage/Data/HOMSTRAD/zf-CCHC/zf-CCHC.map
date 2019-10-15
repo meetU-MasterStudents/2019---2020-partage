@@ -1,0 +1,15 @@
+>P1;1ncpn
+structureN:1ncp:   1 :N:  17 :N:Nucleocapsid protein P2 (N-terminal domain):HIV-1:-1.00:-1.00
+VKCFNCGKEGHTARNCR-*
+>P1;1ncpc
+structureN:1ncp:  22 :C:  39 :C:Nucleocapsid protein P2 (C-terminal domain):HIV-1:-1.00:-1.00
+KGCWKCGKEGHQMKDCTE*
+>P1;gi|9368369|emb|CAB98186.1| GAG protein [Human immunodeficiency v... [ score 44 E 9e-04 ] [ range 391 .. 407 ]
+sequence
+IKCFNCGKEGHTARNCR-*
+>P1;gi|25166679|gb|AAN73483.1| gag-pol fusion polyprotein [Human imm... [ score 50 E 2e-05 ] [ range 410 .. 427 ]
+sequence
+KGCWKCGREGHQMKDCTE*
+>P1;gi|29119683|gb|AAO63145.1| gag protein [Human immunodeficiency v... [ score 50 E 2e-05 ] [ range 410 .. 427 ]
+sequence
+KGCWKCGKEGHQMRDCTE*

@@ -1,0 +1,1375 @@
+>P1;1ehaa
+structureX:1eha:   1 :A:  90 :A:glycosyltrehalose trehalohydrolase:Sulfolobus solfataricus km1: 3.00: -1
+-----TFAYKIDG--NEVIFTLWAPYQKSVKLKVLE-------KGLYEMERDEKGYFTITLN-------N
+VKVRDRYKYVLD--D----------------------------ASEIPDPASRYQPEG------------
+-------------VHGPSQIIQESKE*
+>P1;1bf2
+structureX:1bf2:   1 : : 162 : :pseudomonas isoamylase:Pseudomonas amyloderamosa: 2.0: 16.1
+AINSMSLGASYDAQQANITFRVYSSQATRIVLYLYSAGYGVQESATYTLSPAGSGVWAVTVPVSSIKAAG
+ITGAVYYGYRAWGPNWPYASNWGKGSQAGFVSDVDANGDRFNPNKLLLDPYAQEVSQDPLNPSNQNGNVF
+ASGASYRTTDSGIYAPKGVVLV----*
+>P1;gi|6573111|gb|AAF17553.1| maltooligosyl trehalose trehalohydrola... [ score 163 E 1e-39 ] [ range 2 .. 91 ]
+sequence
+-----TFGYKIDG--NEVIFTLWAPYQKSVKLKVLE-------KGLYEMERDDKGYFTITLN-------N
+VKVGDRYKYVLD--D----------------------------ASEIPDPASRYQPEG------------
+-------------VHGPSQIIQESKE*
+>P1;gi|15898877|ref|NP_343482.1| Malto-oligosyltrehalose trehalohydr... [ score 153 E 1e-36 ] [ range 2 .. 91 ]
+sequence
+-----TFGYKLDE--DGVTFNLWAPYQRKVKLKILN-------RGIYEMERDDKGYFTITLD-------N
+VRVGDRYKYILD--D----------------------------NSEVPDPASRYQPEG------------
+-------------VHGYSEIISPDFE*
+>P1;gi|17227664|ref|NP_484212.1| alpha-amylase [Nostoc sp. PCC 7120]... [ score 136 E 1e-31 ] [ range 19 .. 108 ]
+sequence
+-------AHYLGN--GECEFTVWSPTLNSVAVQILE-------EKLIPLKAQGEGYWQIKVN-------D
+VYPGTLYRYQLN--D----------------------------QEAFADPASQYQPEG------------
+-------------VHGASQVVDHKFE*
+>P1;gi|23124761|ref|ZP_00106729.1| COG0296: 1,4-alpha-glucan branchi... [ score 132 E 2e-30 ] [ range 5 .. 94 ]
+sequence
+-------ANYLGN--GECEFTVWSPLLDSVTVKTLQ-------EQVIPLKPQSEGYWHAKVN-------D
+VYPGTLYRYVLN--G----------------------------QDAFADPASQYQPEG------------
+-------------VHGPSQIVDHQFE*
+>P1;gi|39936708|ref|NP_948984.1| putative maltooligosyltrehalose tre... [ score 129 E 2e-29 ] [ range 5 .. 90 ]
+sequence
+-----SFGPRLTG--NGVEFRIWAPNAKRVDVVL---------DRPHPMRRDAMGWYTTHID-------G
+IGAGARYRFLID--G----------------------------SLDVPDPASLFQPED------------
+-------------LAGPSEVIDHA--*
+>P1;gi|23104157|ref|ZP_00090625.1| COG0296: 1,4-alpha-glucan branchi... [ score 128 E 3e-29 ] [ range 326 .. 409 ]
+sequence
+-------AHLIDA--HNTRFTLWAPDAERVDLEILC-------DGRQPMRREQGGWFVLEVP--------
+FGAGTQYRFRID--D----------------------------EISVPDPASRSQVVG------------
+-------------LHGPSIVVDP---*
+>P1;gi|26990752|ref|NP_746177.1| alpha-amylase family protein [Pseud... [ score 127 E 5e-29 ] [ range 6 .. 88 ]
+sequence
+-------AHLLDA--TSARFALWAPDARSVSVEVEQ-------QPAIELLPDDEGWYSG-VA-------P
+CQAGDRYHYRID--G----------------------------ELQVADPASRYQPDG------------
+-------------VHGPSQVVD----*
+>P1;gi|44121944|gb|EAH24406.1| unknown [environmental sequence] [ score 127 E 6e-29 ] [ range 6 .. 90 ]
+sequence
+-------ARPMAD--GRVRFALWAPSSGQVELELQG-------GGLHPMQAQEEGWF-VALI-------E
+CPADTAYRYRID--G----------------------------QWPVPDPASRRQLED------------
+-------------VHGFSQVIDHS--*
+>P1;gi|15597360|ref|NP_250854.1| probable glycosyl hydrolase [Pseudo... [ score 125 E 2e-28 ] [ range 7 .. 92 ]
+sequence
+------FGAQFQG--NGTCFGLWAPDAREVRVETAD-------GRDWPLEGSDSGWFEATLP--------
+CPPGTRYRYRID--G----------------------------RPGVPDPASQFQPDG------------
+-------------VHGHSQVLDH---*
+>P1;gi|44426300|gb|EAJ18707.1| unknown [environmental sequence] [ score 125 E 2e-28 ] [ range 21 .. 111 ]
+sequence
+-------AQLLGA--TGTRFRFWAPSCRKVQVEIEN-------GGTHDMTATGNGWFETTVE-------S
+-GAGTLYRFRLD--G----------------------------GQAVPDPASRFQPQD------------
+-------------VHGPSEVIDP---*
+>P1;gi|22986678|ref|ZP_00031770.1| COG0296: 1,4-alpha-glucan branchi... [ score 124 E 4e-28 ] [ range 21 .. 111 ]
+sequence
+-------AQLIGA--TGTRFRFWAPSCKHVQVEIEN-------GGAHDMTPAGNGWFEASVD-------S
+-GAGTLYRFRLD--G----------------------------EHAVPDPTSRFQPQD------------
+-------------VHGPSEVIDP---*
+>P1;gi|22968918|ref|ZP_00016498.1| COG0296: 1,4-alpha-glucan branchi... [ score 124 E 4e-28 ] [ range 5 .. 94 ]
+sequence
+------FGARVEG--DGVRFSLWAPAAERVEVVIAE-------SRPVAMVPGGEGWFGAMVG-------G
+IGAGALYRFRID--G----------------------------ADLVPDPASRFQPRD------------
+-------------VGGPSQVVDAS--*
+>P1;gi|28870299|ref|NP_792918.1| alpha-amylase family protein [Pseud... [ score 124 E 5e-28 ] [ range 13 .. 97 ]
+sequence
+-------AVLLDP--EHTRFALWAPDASYVSVELQD-------GQSLAMLPQPEGWFVLE-A-------R
+CKAGTRYRFKVD--H----------------------------TLEVPDPASRAQVDD------------
+-------------VHSQSIVVDPQ--*
+>P1;gi|38350519|gb|AAR18372.1| TreZ [Metallosphaera hakonensis] [ score 123 E 7e-28 ] [ range 2 .. 86 ]
+sequence
+------FGANSGK--NGTIFSLWAPYCSWVNLKIGD-------ER-IPMKKDERGYFLVEV--------D
+VTPGTKYKFETD--K----------------------------G-EIPDPASRFQPEG------------
+-------------VHGPSQVIPTDF-*
+>P1;gi|23471845|ref|ZP_00127174.1| COG0296: 1,4-alpha-glucan branchi... [ score 123 E 8e-28 ] [ range 13 .. 96 ]
+sequence
+-------AVLLDP--EHTRFALWAPDTSFVNVELQD-------GQSLAMLPQSDGWFVLE-A-------R
+CKAGTRYRFRID--H----------------------------ELDVPDPASRAQVDD------------
+-------------VHSESLVVDP---*
+>P1;gi|27381881|ref|NP_773410.1| alpha-amylase [Bradyrhizobium japon... [ score 122 E 1e-27 ] [ range 4 .. 89 ]
+sequence
+-----SFGARPTK--EGVSFRLWAPGARRVDLLL---------DRRHAMQRRQDGWYVAEIA-------S
+LTTGSPYKFRID--D----------------------------EIDVPDPASAFQPED------------
+-------------VFGPSEVIDHD--*
+>P1;gi|45529693|ref|ZP_00180834.1| hypothetical protein Mther119701 ... [ score 122 E 3e-27 ] [ range 9 .. 95 ]
+sequence
+-------ANYLGD--GRCRFHLWAPLAESVAVQIVE-------ERLEPLTRKERGYFQGEVA-------G
+VVPGSLYYYLLD--G----------------------------QQ-LPDPASRYQPRG------------
+-------------VHGPSQVVDAK--*
+>P1;gi|16764904|ref|NP_460519.1| putative alpha amylase [Salmonella ... [ score 119 E 1e-26 ] [ range 12 .. 95 ]
+sequence
+-------AEYIAA--DVVRFRLWATGQQKVMLRLA--------GKDQEMQANGDGWFTLDVA-------G
+VTPGTEYNFVLS--D----------------------------GMVVPDPASRAQKTD------------
+-------------VNGPSYVVDP---*
+>P1;gi|22971470|ref|ZP_00018425.1| hypothetical protein [Chloroflexu... [ score 119 E 1e-26 ] [ range 74 .. 159 ]
+sequence
+--------YRADG--TTA-FTLWAPTANRVELMLLD-------PTPQTIAMQPIGYGCWHVT-------T
+AAPGSRYRYRLD--G----------------------------NRERPDPASRCQPEG------------
+-------------VHGPSAVVDHAF-*
+>P1;gi|16760315|ref|NP_455932.1| putative hydrolase [Salmonella ente... [ score 118 E 2e-26 ] [ range 12 .. 95 ]
+sequence
+-------AEYIAA--DVVRFRLWATGQQKVMLRLA--------GKDQEMQASGDGWFTLDVS-------G
+VTPGTEYNFVLS--D----------------------------GMVLPDPASRAQKTD------------
+-------------VNGPSYVIDP---*
+>P1;gi|2129429|pir||JC5132 alpha-amylase (EC 3.2.1.1) - Sulfolobus a... [ score 117 E 4e-26 ] [ range 3 .. 91 ]
+sequence
+-----SFGGNIEK--NKGIFKLWAPYVNSVKLK-LS-------KKLIPMEKNDEGFFEVEID-------D
+IEENLTYSYIIE--D----------------------------KREIPDPASRYQPLG------------
+-------------VHDKSQLIRTDYQ*
+>P1;gi|22968087|ref|ZP_00015677.1| COG0296: 1,4-alpha-glucan branchi... [ score 116 E 1e-25 ] [ range 57 .. 138 ]
+sequence
+------------G--GGVHFRVWAPGRQAVTLCLEN-------GAAIAMTAEDDGSFAALVA-------E
+AGAGTAYRYRLE--G----------------------------VEALPDPLARFQPEG------------
+-------------PHGPSLVVDPA--*
+>P1;gi|23054203|ref|ZP_00080370.1| COG0296: 1,4-alpha-glucan branchi... [ score 116 E 1e-25 ] [ range 14 .. 93 ]
+sequence
+------------A--GGVRFRVWAPLAESVAVICGK-------EASYPLSRAGE-YFQGTIA-------G
+MAPGDRYWYLLD--G----------------------------TLRRPDPASRSQPDG------------
+-------------VHGPSQVVAP---*
+>P1;gi|21229887|ref|NP_635804.1| maltooligosyltrehalose trehalohydro... [ score 114 E 3e-25 ] [ range 13 .. 93 ]
+sequence
+-------AWPAGD--GQVRFALWAPDAHTVEVIFDS-------GERAALQRQDDGFFSGVVA--------
+CALDARYRYRVD--G----------------------------QTPVPDPASRWQPDG------------
+-------------VHGSSAV------*
+>P1;gi|21241200|ref|NP_640782.1| maltooligosyltrehalose trehalohydro... [ score 114 E 3e-25 ] [ range 13 .. 93 ]
+sequence
+-------AWPAGE--GQVRFALWAPEAKNVDVVFAN-------GARSALQAGQDGFFSALI--------D
+CAADARYRYSVD--G----------------------------GEPVPDPASRWQPEG------------
+-------------VHGPSAV------*
+>P1;gi|32473570|ref|NP_866564.1| alpha-amylase [Pirellula sp. 1] >gi... [ score 114 E 4e-25 ] [ range 312 .. 417 ]
+sequence
+-------ARLIGA--NRAEFTLWAPKQKQVVLELMP-------DRLVRMQREDRGFHRCIVD-------G
+VVDGTRYRFVRD--E----------------------------LHALPDPASRYQPEG------------
+-------------VHGPSSIVDAQF-*
+>P1;gi|16265024|ref|NP_437816.1| putative 1,4-alpha-glucan branching... [ score 114 E 5e-25 ] [ range 19 .. 99 ]
+sequence
+----------IDS--DTCRFRLWAPDEREVDL-VLG-------GAVHKMQSLDGGWFEITLA-------A
+-KAGERYCFRLA--D----------------------------GTEVADPASSAQERE------------
+-------------ASGTSIVVDHA--*
+>P1;gi|15921160|ref|NP_376829.1| 217aa long hypothetical alpha-amyla... [ score 113 E 8e-25 ] [ range 7 .. 88 ]
+sequence
+----------LSE--NEVEFILWAPYQKKATLRLNE-------EK-YDMEKDEKGYFRITVN-------A
+-KEGDKYSFIID--K----------------------------G-EIPDPASRYQPDG------------
+-------------VHGRSQLISLKYE*
+>P1;gi|45517577|ref|ZP_00169128.1| hypothetical protein Raeut030101 ... [ score 112 E 2e-24 ] [ range 20 .. 103 ]
+sequence
+------------E--GRIGFRLWAPDAESVRLEIAG-------MGPVRMTACENGWYRAAVP--------
+CADGTRYWFRLD--D----------------------------GTTFPDPASRWQPND------------
+-------------VHGPSVACQPK--*
+>P1;gi|22956952|ref|ZP_00004679.1| COG0296: 1,4-alpha-glucan branchi... [ score 109 E 1e-23 ] [ range 45 .. 130 ]
+sequence
+-------GPRIED--GLGRFRLWAPSQERLVLR-LD-------GTDHPMTRSDDAWFEVQVP-------A
+EAGMD-YGFVLE--S----------------------------GQVVPDPAARAQAGD------------
+-------------VHGLSRLVAPSFD*
+>P1;gi|23063510|ref|ZP_00088241.1| COG0296: 1,4-alpha-glucan branchi... [ score 108 E 3e-23 ] [ range 13 .. 96 ]
+sequence
+-------AIMLDA--EHTQFALWAPDAFYVSVELDN-------GQSLPMLPQGDGWFVIK-T-------R
+CPAGSRYRFNID--G----------------------------ELEVPDPASRAQDGD------------
+-------------LDRHSVVVDP---*
+>P1;gi|16119513|ref|NP_396219.1| AGR_pAT_409p [Agrobacterium tumefac... [ score 107 E 4e-23 ] [ range 12 .. 96 ]
+sequence
+-------AQRHQS--GDTDFSIWAPASATVKL-WLN-------DAEFDMHTAGDGWHDITKP-------A
+L-PGDRYGFVLA--D----------------------------RTRVADPASNRQQEG------------
+-------------PRGPSLIVNHDF-*
+>P1;gi|39997454|ref|NP_953405.1| isoamylase family protein [Geobacte... [ score 107 E 6e-23 ] [ range 15 .. 96 ]
+sequence
+---------------GGVHFRVWSPLADSVEVIRCA-------RGEEPLSRVGE-YFQGTIP-------G
+MGPGDCYWYLLD--G----------------------------TLRRPDPASRCQPGG------------
+-------------VHGPSQVVAPD--*
+>P1;gi|44419192|gb|EAJ13726.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 2 .. 75 ]
+sequence
+----------------------WAPASRTAAVEIEG-------EPAVPMTAMGDGWFEAVVP--------
+CGPGTLYRYRLD--G----------------------------DLAVPDPASRFQPGG------------
+-------------VDGPSQVVDPA--*
+>P1;gi|44242036|gb|EAH89919.1| unknown [environmental sequence] [ score 105 E 2e-22 ] [ range 32 .. 111 ]
+sequence
+----------------RTHFRVWAPGSTQVQLELDG-------PLLVPMAAAGTNWFEV-FA-------D
+CGAGALYRYRLD--D----------------------------AVSIPDPASRSQPEG------------
+-------------LNGPSEVIDP---*
+>P1;gi|41407366|ref|NP_960202.1| GlgZ [Mycobacterium avium subsp. pa... [ score 102 E 2e-21 ] [ range 6 .. 82 ]
+sequence
+-----------------TEFRVWAPKPARVRLDV-E-------GRPHAMTRTDDGWWHAAVA--------
+CAPDARYGFLLD--D----------------------------PTVLPDPRSPRQPDG------------
+-------------VHTRSQLWDPA--*
+>P1;gi|25028581|ref|NP_738635.1| putative maltooligosyltrehalose tre... [ score 101 E 3e-21 ] [ range 13 .. 91 ]
+sequence
+-------------------YRVWAPRPEDVRLHLNG-------ETL-PMTRTDGDWWVAD-R-------E
+PAVGDRYGFELF--D----------------------------GTEVPDPRSQYQPDG------------
+-------------VHGLSEVISPDF-*
+>P1;gi|23308896|ref|NP_601327.2| 1,4-alpha-glucan branching enzyme [... [ score 100 E 6e-21 ] [ range 28 .. 106 ]
+sequence
+-------------------FSVWAPLPHDVHL-ILN-------GETLPMHKTEGSWWRAEIA-------P
+-KAGDRYGFSLF--D----------------------------GSSLPDPRSTSQPDG------------
+-------------VHGLSEVSDDSY-*
+>P1;gi|15841029|ref|NP_336066.1| maltooligosyl trehalose trehalohydr... [ score 96 E 2e-19 ] [ range 32 .. 102 ]
+sequence
+------------------EFRVWAPKPALVRLDV-N-------GAVHAMTRSADGWWHTTVA-------A
+-PADARYGYLLD--D----------------------------PTVLPDPRSARQPDG------------
+-------------VHARSQ-------*
+>P1;gi|17548458|ref|NP_521798.1| PUTATIVE MALTOOLIGOSYL TREHALOSE TR... [ score 96 E 2e-19 ] [ range 20 .. 107 ]
+sequence
+-------AACLGP--DRTRFRLWAPDAVEAWVDIDQ-------GEAVRMAPEPGGWHAATVP--------
+VGAGTCYRYRVT--N----------------------------RLTVPDPAARAQWQD------------
+-------------VHGPSLVVDP---*
+>P1;gi|33601842|ref|NP_889402.1| probable alpha amylase [Bordetella ... [ score 86 E 1e-16 ] [ range 14 .. 94 ]
+sequence
+------------P--GKIRFRLWAPSAPALALEIEG-------RAPIALRPGPDGYAQAIVD-------G
+-APGLRYRYRLA--A----------------------------DCAVPDPASRLQDGD------------
+-------------VHGHSVVVGPD--*
+>P1;gi|29828701|ref|NP_823335.1| putative alpha-amylase [Streptomyce... [ score 85 E 3e-16 ] [ range 3 .. 77 ]
+sequence
+-------------------FEVWAPQAARVTLHC-G-------GATRALARDEDGWWKGD-A-------E
+AGDGTRYGFALD--D----------------------------GAVLPDPRSRRQPDG------------
+-------------PDGLSAVVDH---*
+>P1;gi|21224407|ref|NP_630186.1| putative alpha amylase [Streptomyce... [ score 83 E 1e-15 ] [ range 3 .. 77 ]
+sequence
+-------------------FEVWAPQAGRVTLRC-D-------GATRALERDPEGWWCGE-A-------P
+ARDGSRYGFAVD--D----------------------------GPVLPDPRSRRQPDG------------
+-------------PDGLSAVVDH---*
+>P1;gi|15805491|ref|NP_294187.1| maltooligosyltrehalose trehalohydro... [ score 82 E 2e-15 ] [ range 32 .. 108 ]
+sequence
+-----------GG--AGTRFRLWTSTARTVAVRV-N-------GTEHVMTSLGGGIYELELP--------
+VGPGARYLFVLD--G-----------------------------VPTPDPYARFLPDG------------
+-------------VHGEAEVVD----*
+>P1;gi|18202561|sp|Q53238|TREZ_RHISP Malto-oligosyltrehalose trehalo... [ score 79 E 2e-14 ] [ range 16 .. 97 ]
+sequence
+------------------RFDIWAPEAGTVTL-LAG-------GERYEMGRADEGWWTAADA-------P
+TGADVDYGYLLD--D----------------------------EIPLPDPRTRRQPEG------------
+-------------VHALSRTFDP---*
+>P1;gi|18202537|sp|Q44316|TREZ_ARTSQ Malto-oligosyltrehalose trehalo... [ score 79 E 3e-14 ] [ range 17 .. 100 ]
+sequence
+-----------------ARYDVWAPNAESVTL-LAG-------GERYAMQREDAGWWTAAGA-------P
+TDGNVDYGYLLD--D----------------------------ETPLPDPRTRRQPDG------------
+-------------VHALSRTFDPS--*
+>P1;gi|18202055|sp|O52520|TREZ_BREHE Malto-oligosyltrehalose trehalo... [ score 72 E 3e-12 ] [ range 10 .. 85 ]
+sequence
+------------------RFDVWAPDVSSVVL-VAD-------GRQYPMQKKEEGWWTASDA-------P
+PNGDVDYGYLLD--G----------------------------TTPVPEPRSRRLPAG------------
+-------------VHNHS--------*
+>P1;gi|23475793|ref|ZP_00131069.1| COG0296: 1,4-alpha-glucan branchi... [ score 70 E 1e-11 ] [ range 54 .. 130 ]
+sequence
+-------------------FRLWTTRRKPAVLVIEC-------PQEIPMKACGGGWREARTA-------P
+MPAGALYRIRLG--D----------------------------EL-LADPASAHQPQG------------
+-------------IDGPSMTDDPA--*
+>P1;gi|18202708|sp|Q9AJN6|TREZ_ARTRM Malto-oligosyltrehalose trehalo... [ score 66 E 1e-10 ] [ range 4 .. 83 ]
+sequence
+------------------RFPVWAPQAAQVTLVVQG-------RAELPLTRDENGWWALQQP-------W
+DGGPDLYGYLVD--G----------------------------KGPFADPRSLRQPRG------------
+-------------VHELGREFDPA--*
+>P1;gi|44426294|gb|EAJ18703.1| unknown [environmental sequence] [ score 65 E 4e-10 ] [ range 126 .. 215 ]
+sequence
+----------------GVRFAVWAPNARRVSVVGDD-------GRRHPMRRHQAGVWELFVP-------R
+VGPGTRYKYELR--D----------------------------GHPLPDPCA-MQTEK------------
+-------------PPGTASVVAHVDE*
+>P1;gi|44496011|gb|EAJ66813.1| unknown [environmental sequence] [ score 63 E 1e-09 ] [ range 134 .. 222 ]
+sequence
+---------------NATRFAVFAPNASSVSLIGDD-------GRRHPMQRTECGHWVLVMP-------E
+VGAGVRYKFEIK--D----------------------------GNLLPDPLAFAAEQY------------
+-------------PSHASLVFDHS--*
+>P1;gi|44551420|gb|EAK04604.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 16 .. 104 ]
+sequence
+---------------EGVRFAVYAPSATAVSLIFWD-------GRRHPMQRSQCGHWVLFVP-------G
+LKAGDRYKFELK--D----------------------------GNRLPDPVGFYCEQY------------
+-------------PSFASVVYDHD--*
+>P1;gi|44422351|gb|EAJ15977.1| unknown [environmental sequence] [ score 63 E 2e-09 ] [ range 5 .. 91 ]
+sequence
+-----------------TRFAVFAPNASSVSLIGDD-------GRRHPMQRTECGHWVLLVP-------E
+VGAGVRYKFEIK--D----------------------------GNLLPDPLAFAAEQY------------
+-------------PSHASLVFDHS--*
+>P1;gi|37222196|gb|AAP70397.1| AmyB [uncultured bacterium] [ score 62 E 2e-09 ] [ range 36 .. 125 ]
+sequence
+-------GAHADS--TGTHFTVWAPNAKQLELIFSN-------WVPVAMQRAQDGSWSARVE-------G
+AGHGDLYKYRIE--D----------------------------ATEKADPYATRQEHP------------
+-------------PGTASQI------*
+>P1;gi|44419194|gb|EAJ13728.1| unknown [environmental sequence] [ score 61 E 4e-09 ] [ range 121 .. 210 ]
+sequence
+-----------DT--DGVRFAVWAPNAQRVSVVGDD-------GRRHPMRRRPSGVWELFVP-------G
+IGAGECYKYELA--D----------------------------GRVLPDPCARATEAP------------
+-------------PRTASVVAD----*
+>P1;gi|44314943|gb|EAI40001.1| unknown [environmental sequence] [ score 60 E 1e-08 ] [ range 21 .. 107 ]
+sequence
+-----------------TRFAVYAPNASAVSLIGDD-------GRVHPMQRTECGHWVLVLP-------E
+VAQGVRYKYEIK--D----------------------------GHLLPDPMAFYAEQY------------
+-------------PSHASLVFDHQ--*
+>P1;gi|21240930|ref|NP_640512.1| 1,4-alpha-glucan branching enzyme [... [ score 59 E 3e-08 ] [ range 132 .. 219 ]
+sequence
+----------------GTRFAVWAPNASRVAVVGDD-------ARRHPMRRHQSGVWELFVP-------D
+VGPGAHYKYQLR--G----------------------------GHELPDPVARRAELA------------
+-------------PGTASIVADP---*
+>P1;gi|15806848|ref|NP_295571.1| 1,4-alpha-glucan branching enzyme, ... [ score 59 E 3e-08 ] [ range 39 .. 127 ]
+sequence
+----------------GVRFAVWAPNAQHVSVVGDN-------GFDHPLQRLDFGFWGAFVP-------A
+AQPGQRYKFRVA--G----------------------------GQTVTDPYGTFFEVR------------
+-------------PNNASIIWQQDFE*
+>P1;gi|22298121|ref|NP_681368.1| 1,4-alpha-glucan branching enzyme [... [ score 57 E 6e-08 ] [ range 128 .. 222 ]
+sequence
+-------AHLLTV--DGVEFAVWAPNARNVSVIGDD-------GRKHQMARRGNGIWELFIP-------G
+LSVGERYKYEIK--N----------------------------QEEKSDPYGFYQEPR------------
+-------------PKTASIVTD----*
+>P1;gi|38233498|ref|NP_939265.1| Putative hydrolase [Corynebacterium... [ score 57 E 1e-07 ] [ range 19 .. 93 ]
+sequence
+---------------GDTCFRVWSPDAATADLLIEN-------HT-VSMHPIGDGVWEAKLD-------G
+DRHGQRYSYRLS--E----------------------------TIESVDPYARATANG------------
+-------------THG----------*
+>P1;gi|44643884|gb|EAK70374.1| unknown [environmental sequence] [ score 57 E 1e-07 ] [ range 132 .. 200 ]
+sequence
+----------------GVRFCVFAPNASTVSLIGDD-------GRTHPMEKTSMGYWVLFVP-------E
+LAEGERYKYHIK--D----------------------------GHDLPDP--------------------
+--------------------------*
+>P1;gi|33592442|ref|NP_880086.1| 1,4-alpha-glucan branching enzyme [... [ score 56 E 2e-07 ] [ range 143 .. 226 ]
+sequence
+----------------GTRFALWAPNARRVAVVGDD-------GRRHAMRRYPAGVWELFLP-------D
+VGPGARYKFQVA--D----------------------------GHTVADPLAR-QAEA------------
+-------------PPATASIV-----*
+>P1;gi|32470978|ref|NP_863971.1| 1,4-alpha-glucan branching enzyme [... [ score 56 E 3e-07 ] [ range 50 .. 126 ]
+sequence
+-------GAIVHD--DGVAFRVWAPNADSVSVQWKE-------DAT-PLKREEHGTWYVDVA-------D
+AKAGDEYKYRID--K----------------------------SYDRIDPYAR-----------------
+--------------------------*
+>P1;gi|17548460|ref|NP_521800.1| PROBABLE 1,4-ALPHA-GLUCAN BRANCHING... [ score 55 E 4e-07 ] [ range 178 .. 267 ]
+sequence
+----------------GVRFAVWAPNARRVSVVGDD-------GRRHPMRRHGTGVWELFVP-------G
+AGPGSRYKFELA--D----------------------------GHLLADPVARRTEAP------------
+-------------PATASVVADP---*
+>P1;gi|23063522|ref|ZP_00088253.1| COG0296: 1,4-alpha-glucan branchi... [ score 55 E 4e-07 ] [ range 146 .. 215 ]
+sequence
+---------------DGVRFAVWAPNARRVSVVVWD-------GRRHPMRRHPSGVWELFIP-------R
+LQAGELYKYEIL--G----------------------------AHGIADP--------------------
+--------------------------*
+>P1;gi|15966597|ref|NP_386950.1| PROBABLE 1,4-ALPHA-GLUCAN BRANCHING... [ score 55 E 4e-07 ] [ range 137 .. 220 ]
+sequence
+-------AHPIGA--EGFHFAVWAPNARRVSVVGSD-------GRRHVMRRVDTGIWEIFIP-------G
+VPVGTPYKYEIV--D----------------------------GTLLPDPFARR----------------
+--------------------------*
+>P1;gi|31195463|ref|XP_306679.1| ENSANGP00000000699 [Anopheles gambi... [ score 55 E 4e-07 ] [ range 84 .. 183 ]
+sequence
+-----TYGAVVEG--GNVTFRLWAPTARSVKLALFD-------GQHKPMTLDESGSWSVQGG-------S
+ELVGKFYRYDI----------------------------------QVYHPVSRYQVTD------------
+-------------PYSLSQVVD----*
+>P1;gi|13476303|ref|NP_107873.1| 1,4-alpha-glucan branching enzyme [... [ score 55 E 5e-07 ] [ range 144 .. 216 ]
+sequence
+-----------GA--TGVHFAVWAPNAKRVSVVGDD-------GRRHTMRRRDTGIWEVFIP-------D
+IGAGRPYKYEIP--D----------------------------GVRLPDP--------------------
+--------------------------*
+>P1;gi|421646|pir||S34218 1,4-alpha-glucan branching enzyme (EC 2.4.... [ score 54 E 6e-07 ] [ range 155 .. 245 ]
+sequence
+---------------TGTRFTVWAPNAQGVRVATDD-------GTAFPMRSLGSGVWELFLP-------G
+VGEGTRYKFEIH--S----------------------------GHRFADPMARAAEEP------------
+-------------PNTASVVTASRYE*
+>P1;gi|481527|pir||S38801 pullulanase (EC 3.2.1.41) precursor - Kleb... [ score 54 E 8e-07 ] [ range 306 .. 404 ]
+sequence
+------YGAQVSD--GGVNFRLWAPTAQQVDLVLAD-------KASHPMTRDSSGSWTWQGG-------S
+DLKGAFYRYAL----------------------------------TVYHPQSRYEVTD------------
+-------------PYSHSQVVD----*
+>P1;gi|131589|sp|P07206|PULA_KLEPN Pullulanase precursor (Alpha-dext... [ score 54 E 1e-06 ] [ range 303 .. 402 ]
+sequence
+-----SYGAQLAD--GGVTFRVWAPTAQQVDVVVAD-------KGSHPMTRDSSGAWSWQGG-------S
+DLKGAFYRY----------------------------------AMTVYHPQSRYEVTD------------
+-------------PYAHSQVVD----*
+>P1;gi|21229886|ref|NP_635803.1| 1,4-alpha-glucan branching enzyme [... [ score 53 E 1e-06 ] [ range 140 .. 224 ]
+sequence
+-----------------VRFAVWAPHAQRVAVVGDE-------PRRHPMRQRSGGIWELVLP-------R
+VETGARYKYAIA--D----------------------------GRVLADPVAR-QSEL------------
+-------------PPATASVVASA--*
+>P1;gi|37675719|ref|NP_936115.1| type II secretory pathway, pullulan... [ score 53 E 1e-06 ] [ range 416 .. 516 ]
+sequence
+-----SYGAVINP--DTTTFRLWAPTAQSVKLEKQA-------QTAIAMTFDASGAWVAANT-------A
+LKHGDFYRYEVT--V----------------------------YHPATDKVETYQVTD------------
+-------------PYSLSQVVD----*
+>P1;gi|29833941|ref|NP_828575.1| putative 1,4-alpha-glucan branching... [ score 53 E 1e-06 ] [ range 9 .. 97 ]
+sequence
+----------------GTRFTVWAPNARGVRVCGND-------GAAFPMRSLGSGVWELFVP-------G
+IGEGELYKFEID--G----------------------------THTVADPMARRAEVP------------
+-------------PATASIVTESSY-*
+>P1;gi|22956954|ref|ZP_00004681.1| COG0296: 1,4-alpha-glucan branchi... [ score 53 E 2e-06 ] [ range 398 .. 472 ]
+sequence
+----------------GVSFAVWAPNARRVSVVGAD-------GRRHPMKRIGVGVWELFVP-------G
+LHTGDLYKYELL--G----------------------------GERLPDPLSFAQ---------------
+--------------------------*
+>P1;gi|44407668|gb|EAJ05700.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 57 .. 134 ]
+sequence
+----------------GVHFALWAPNAEAVSVVGDA-------GHNHMMSKLPSGFWQLFVP-------G
+VGPNTAYKFRVE--G----------------------------TIDRADP--------------------
+--------------HGYSAEVPPQ--*
+>P1;gi|21241199|ref|NP_640781.1| 1,4-alpha-glucan branching enzyme [... [ score 53 E 2e-06 ] [ range 129 .. 199 ]
+sequence
+----------------GVRFALWAPHAQRVAVVGDD-------VRRHPMRQRIGGFWELFLP-------R
+VDAGARYKYAVA--D----------------------------GRVLADPVAR-----------------
+--------------------------*
+>P1;gi|26990759|ref|NP_746184.1| 1,4-alpha-glucan branching enzyme [... [ score 53 E 2e-06 ] [ range 140 .. 213 ]
+sequence
+---------------DGVCFSVWAPNARRVSVVGDD-------GRRHPMRRHGAGVWELFIP-------R
+LGVGETYKFEVL--G----------------------------KDGIADPLARA----------------
+--------------------------*
+>P1;gi|33862717|ref|NP_894277.1| 1,4-alpha-glucan branching enzyme [... [ score 53 E 2e-06 ] [ range 128 .. 192 ]
+sequence
+-------AHLMER--EGVEFCLWAPHACSVAVELND-------GRHHPMQRRQGGLWELFIP-------G
+FKEGTLYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|16124070|ref|NP_407383.1| 1,4-alpha-glucan branching enzyme [... [ score 53 E 2e-06 ] [ range 137 .. 194 ]
+sequence
+----------------GVSFAVWAPNAQRVSVVFWD-------GRRHPMRRRENGIWELFLP-------G
+IEAGQLYKFEII--D-------------------------------------------------------
+--------------------------*
+>P1;gi|44258654|gb|EAI01970.1| unknown [environmental sequence] [ score 52 E 2e-06 ] [ range 152 .. 229 ]
+sequence
+----------------GTRFTVWAPNAKRVSVVGEN-------GLQHPMQAVGSGIWELFLP-------G
+IGEGMLYKFEIK--G----------------------------QNEVSDPASEFRP--------------
+--------------------------*
+>P1;gi|33240528|ref|NP_875470.1| 1,4-alpha-glucan branching enzyme [... [ score 52 E 2e-06 ] [ range 137 .. 205 ]
+sequence
+---------------EGVMFCLWAPNARSVSVIGDD-------GRHHPMQKRLGGIWELFIP-------H
+IKKGDLYKYEIR--S----------------------------QEEKADP--------------------
+--------------------------*
+>P1;gi|23468472|ref|ZP_00123807.1| COG0296: 1,4-alpha-glucan branchi... [ score 52 E 2e-06 ] [ range 144 .. 206 ]
+sequence
+---------------DGVRFAVWAPNARRVSVVGSD-------GRRHPMRRHPTGVWEIFVP-------R
+LQPGEVYKYEIL--G----------------------------AHGI-----------------------
+--------------------------*
+>P1;gi|34098748|sp|Q9RQI5|GLGB_NEIDE 1,4-alpha-glucan branching enzy... [ score 52 E 3e-06 ] [ range 141 .. 217 ]
+sequence
+------FAEMDGV--SGVRFAVWAPNARRVSVIGED-------SRRHAMRPTGNGLWDIFIP-------G
+VGLNALYKFSVL--D----------------------------AREKADP--------------------
+--------------------------*
+>P1;gi|149300|gb|AAA25124.1| pullulanase precursor [ score 52 E 4e-06 ] [ range 315 .. 414 ]
+sequence
+-----SYGAQLTD--SGVTFRVWAPTAQQVELVIAD-------KASHPMTRDSSGAWSWQGG-------S
+DLKGAFYRY----------------------------------AMTVYHPQSRYEVTD------------
+-------------PYAHSQVVD----*
+>P1;gi|45523290|ref|ZP_00174668.1| hypothetical protein Cwat551401 [... [ score 51 E 5e-06 ] [ range 141 .. 225 ]
+sequence
+----------------GVYFAVWAPNARNVSIIGDD-------GREHQMRKRNNTIWELFVP-------E
+IGAGTVYKYEIK--N----------------------------SEEKSDPYGFYREVR------------
+-------------PDTASIVVD----*
+>P1;gi|16762763|ref|NP_458380.1| 1,4-alpha-glucan branching enzyme [... [ score 51 E 5e-06 ] [ range 136 .. 194 ]
+sequence
+---------------TGTRFSVWAPNARRVSVVGQD-------GRRHPMRRKESGIWELFIP-------G
+AHNGQLYKFELL--D-------------------------------------------------------
+--------------------------*
+>P1;gi|22999085|ref|ZP_00043089.1| COG0296: 1,4-alpha-glucan branchi... [ score 51 E 6e-06 ] [ range 141 .. 214 ]
+sequence
+------------G--AGVRFSVWAPNAERVSVVGDD-------GRCHPMRVLPNGVWELFIP-------D
+LEPGGYYKFEVR--D----------------------------RLGVTDPMAR-----------------
+--------------------------*
+>P1;gi|22968855|ref|ZP_00016437.1| COG0296: 1,4-alpha-glucan branchi... [ score 51 E 6e-06 ] [ range 158 .. 252 ]
+sequence
+-------AHPMTR--DGVRFALWAPNATRVSVIGDD-------GRLHPMRAHGSGVWDIFLP-------G
+VVEGHLYKYELP--D----------------------------GSLLPDPYA-FQAEK------------
+-------------PHTASVV------*
+>P1;gi|44531961|gb|EAJ91013.1| unknown [environmental sequence] [ score 50 E 1e-05 ] [ range 128 .. 192 ]
+sequence
+-------AHLIEE--NGVMFCIWAPNAKSISIIGDD-------GRHHPMQKRLGGIWELFMP-------S
+MKEGDTYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|15890895|ref|NP_356567.1| AGR_L_1558p [Agrobacterium tumefaci... [ score 50 E 1e-05 ] [ range 136 .. 219 ]
+sequence
+-------AHPLKL--EGVHFAVWAPNARRVSVVGDD-------GRRHVMRRKDTGIWEIFAP-------D
+VYAGCAYKFEIL--G----------------------------GELLPDPYARR----------------
+--------------------------*
+>P1;gi|32398905|emb|CAD98370.1| 1,4-alpha-glucan branching enzyme, p... [ score 50 E 1e-05 ] [ range 416 .. 487 ]
+sequence
+----------------GVRFSVWAPHAKYVRVVGDD-------GRVNPMRRHGVGIWELFIP-------H
+LGPGEKYGYEIN--D----------------------------VFVKIDPYSQ-----------------
+--------------------------*
+>P1;gi|23015438|ref|ZP_00055214.1| COG0296: 1,4-alpha-glucan branchi... [ score 50 E 1e-05 ] [ range 134 .. 204 ]
+sequence
+---------------GGVEFALWAPNASRVSVVGDD-------GRRHPMRRHQAGVWEIFIP-------G
+LGQGCIYKYEIS--D----------------------------GRLLPDP--------------------
+--------------------------*
+>P1;gi|15966601|ref|NP_386954.1| PROBABLE GLYCOSYL HYDROLASE PROTEIN... [ score 50 E 1e-05 ] [ range 15 .. 74 ]
+sequence
+------------P--DGTRFTVWSHNAARIDLCLFD-------EARLPMQRDGD-VHSIALP-------D
+IAAGTRYGLRAE--G-------------------------------------------------------
+--------------------------*
+>P1;gi|15803941|ref|NP_289977.1| 1,4-alpha-glucan branching enzyme [... [ score 50 E 1e-05 ] [ range 136 .. 194 ]
+sequence
+---------------TGTRFSVWAPNARRVSVVGQD-------GRRHPMRRKESGIWELFIP-------G
+AHNGQLYKYEMI--D-------------------------------------------------------
+--------------------------*
+>P1;gi|44648692|gb|EAK73239.1| unknown [environmental sequence] [ score 50 E 2e-05 ] [ range 138 .. 192 ]
+sequence
+----------------GVMFCLWAPHAKSVSVIGDD-------GRHHPMQKRLGGIWELFIP-------S
+LREGDLYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|37524131|ref|NP_927475.1| alpha-dextrin endo-1,6-alpha-glucos... [ score 50 E 2e-05 ] [ range 304 .. 368 ]
+sequence
+------YGALIND--TGVTFRLWAPTAQHVGLVIYD-------AANHAMKRDPSGSWSWQGD-------K
+ELVGAYYRYAL-----------------------------------------------------------
+--------------------------*
+>P1;gi|23022732|ref|ZP_00062255.1| COG0296: 1,4-alpha-glucan branchi... [ score 50 E 2e-05 ] [ range 211 .. 301 ]
+sequence
+----------IDG--EGTLFAVWAPCAKRVSVVGND-------GRRHQMRRGSSGVWELFIP-------G
+VGEGELYKYEIK--T----------------------------PHEIADPYAFYSELR------------
+-------------PNTASIVYD----*
+>P1;gi|421465|pir||S31839 1,4-alpha-glucan branching enzyme (EC 2.4.... [ score 49 E 2e-05 ] [ range 28 .. 123 ]
+sequence
+-------AHVIDE--GGTRFCVWAPHARDVRLVGSD-------GAKFRLTKNDEGVWTIVVP-------E
+NLEGHLYKYEID--G----------------------------RVLLADPYAFCSELR------------
+-------------PHTASIVYD----*
+>P1;gi|22999765|ref|ZP_00043729.1| COG0296: 1,4-alpha-glucan branchi... [ score 49 E 2e-05 ] [ range 141 .. 196 ]
+sequence
+----------------GVCFAVWAPNAQRVSVVGDD-------GRIHPMRHQDSGIWEIFIP-------A
+LKRGEHYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|15597349|ref|NP_250843.1| 1,4-alpha-glucan branching enzyme [... [ score 49 E 2e-05 ] [ range 141 .. 199 ]
+sequence
+---------------EGVRFAVWAPNAVRVSVVGDD-------GRRHPMRRRPSGVWELFVP-------R
+LGEGELYKYELQ--G-------------------------------------------------------
+--------------------------*
+>P1;gi|45531688|ref|ZP_00182722.1| hypothetical protein Exigu195301 ... [ score 49 E 2e-05 ] [ range 232 .. 302 ]
+sequence
+-----------QK--GKTTFRVWAPTAQSVELELLP-------KREVKMVRGDRGVFSITVN-------G
+DLDGTGYTYEVK--H----------------------------AKE------------------------
+--------------------------*
+>P1;gi|43986548|gb|EAG50719.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 9 .. 67 ]
+sequence
+---------------TGTRFSVWAPNAQRVSVVGQD-------GRRHPMRRKESGIWELFIP-------G
+AQHGQLYKYEMI--D-------------------------------------------------------
+--------------------------*
+>P1;gi|666867|gb|AAB06264.1| alpha-dextrin 6-glucanohydrolase [ score 49 E 2e-05 ] [ range 210 .. 309 ]
+sequence
+-------GARYEP--YGTYFRLWAPTAYKVKIQIFD-------EHEKEMSRAENGTWDVYL---------
+--PGDLYNYEDD--E----------------------------GYHVPDPYSKASSSN------------
+--------------SGKSYIFDPA--*
+>P1;gi|21223799|ref|NP_629578.1| 1,4-alpha-glucan branching enzyme [... [ score 49 E 2e-05 ] [ range 192 .. 264 ]
+sequence
+----------------GTRFAVWAPNARGVRVNFWD-------GTGHPMRSLGSGVWELFLP-------G
+VGAGELYKFEID--G----------------------------SRTFADPLARR----------------
+--------------------------*
+>P1;gi|232167|sp|P30537|GLGB_BACCL 1,4-alpha-glucan branching enzyme... [ score 49 E 2e-05 ] [ range 35 .. 123 ]
+sequence
+-----------GA--VGTRFCVWAPHAREVRLVGSN-------GTNSPLTKNDEGVWTIVVP-------E
+NLEGHLYKYEID--G----------------------------RVLLADPYAFYSELR------------
+-------------PHTASIVYD----*
+>P1;gi|15602407|ref|NP_245479.1| Glgx [Pasteurella multocida] >gi|12... [ score 49 E 2e-05 ] [ range 21 .. 82 ]
+sequence
+-----------GQ--DGYNFALFSQAARRVELCLGQ-------ERRVDLQPSDDGIWHIWLS-------D
+VSVGTEYAYRIS--G----------------------------KTD------------------------
+--------------------------*
+>P1;gi|28901473|ref|NP_801128.1| 1,4-alpha-glucan branching enzyme [... [ score 49 E 3e-05 ] [ range 165 .. 252 ]
+sequence
+----------------GVRFLVYAPHASAVSLVGCD-------GRRHPMQRLDYGIWGLFIP-------G
+LEEGVQYKFELK--G----------------------------GEGLPDPWGFYSEQY------------
+-------------PSFASITYDHK--*
+>P1;gi|42558986|sp|Q8KR69|GLGX_ERWCH Glycogen debranching enzyme (Gl... [ score 49 E 3e-05 ] [ range 16 .. 83 ]
+sequence
+----------FDG--EGVNFALFSSGASRVELCILR-------EQRLPLTARTGDIWHGYLP-------D
+AQPGLCYGYRVD--G----------------------------AF---DP-SRGQ---------------
+--------------------------*
+>P1;gi|45509261|ref|ZP_00161596.1| hypothetical protein Avar171601 [... [ score 49 E 3e-05 ] [ range 140 .. 195 ]
+sequence
+---------------TGVYFAVWAPNARNVSVLLWD-------GRKHQMRKGATGVWELFIP-------E
+IGVGEHYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|23467254|ref|ZP_00122837.1| COG0296: 1,4-alpha-glucan branchi... [ score 49 E 3e-05 ] [ range 137 .. 194 ]
+sequence
+----------------GVNFRLWAPNAKRVSVVGDD-------GRRHPMRHQSSGIWELFLP-------K
+VSLGQLYKFELL--D-------------------------------------------------------
+--------------------------*
+>P1;gi|23017521|ref|ZP_00057247.1| COG0296: 1,4-alpha-glucan branchi... [ score 49 E 3e-05 ] [ range 723 .. 804 ]
+sequence
+-----------DT--EGTAFTVWAPNARGVRVIGDD-------GTGHPMRSLGSGVWELFIP-------G
+VGDGTRYKYQVL--G----------------------------ADGVADPATQAPPE-------------
+--------------------------*
+>P1;gi|23107902|ref|ZP_00094155.1| COG0296: 1,4-alpha-glucan branchi... [ score 49 E 4e-05 ] [ range 164 .. 245 ]
+sequence
+-----------GA--RGVHFAVWAPNARLVSVVGDD-------HRRHPMRRADIGVWEIFIP-------D
+IGEHRAYKYRIH--D----------------------------GGVLPDPAAEFRP--------------
+--------------------------*
+>P1;gi|13476307|ref|NP_107877.1| glycosyl hydrolase [Mesorhizobium l... [ score 49 E 4e-05 ] [ range 5 .. 75 ]
+sequence
+-------GATVTP--EGIRFAVWSSSARRLWVSLFD-------GQRLELQSEGEGMHALFVP-------R
+LAAGTRYGFRAD--G----------------------------DYA-PD---------------------
+--------------------------*
+>P1;gi|44108727|gb|EAH17282.1| unknown [environmental sequence] [ score 48 E 4e-05 ] [ range 144 .. 212 ]
+sequence
+----------------GVRFAVWAPNARRVSIVGSD-------GRRHPMRRFPSGVWELFIP-------R
+LQPGDTYKYEIL--G----------------------------PNGIADP--------------------
+--------------------------*
+>P1;gi|30249969|ref|NP_842039.1| Glycoside hydrolase family 13:Isoam... [ score 48 E 4e-05 ] [ range 136 .. 196 ]
+sequence
+---------NHGV--TGTRFAVWAPNAERVSVVGDD-------GRVYPMMVHGSGVWELFIP-------D
+LPEGAIYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|23042257|ref|ZP_00073658.1| COG0296: 1,4-alpha-glucan branchi... [ score 48 E 4e-05 ] [ range 138 .. 222 ]
+sequence
+----------------GVYFAVWAPNARNVSILGND-------GRKHQMRKGHTGVWELFIP-------D
+IGPGESYKYEVK--H----------------------------IYEKSDPYGYQQEVR------------
+-------------PKTASIVVD----*
+>P1;gi|15600787|ref|NP_232417.1| 1,4-alpha-glucan branching enzyme [... [ score 48 E 4e-05 ] [ range 75 .. 133 ]
+sequence
+----------------GVRFLVYAPHAAACSLIGAD-------GRRHPMQRLDYGIWGIFIP-------G
+LPEGTQYKFELK--G----------------------------PH-------------------------
+--------------------------*
+>P1;gi|44426368|gb|EAJ18757.1| unknown [environmental sequence] [ score 48 E 4e-05 ] [ range 128 .. 192 ]
+sequence
+-------AHLIEE--KGVMFCIWAPNAKSISIIGDD-------GRHHPMQKRLGGIWELFIP-------T
+MQEGDKYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|15076971|gb|AAK83002.1| branching enzyme GlgB [Myxococcus xan... [ score 48 E 5e-05 ] [ range 7 .. 92 ]
+sequence
+------------A--GGTTFRVWAPMASRVFVDFNG-------GTWIELGNEFNGNFSGDVA-------G
+AVKGQKYKFITR--N----------------------------QWGRADPRSAWQ-EN------------
+-------------STGSSIIYDH---*
+>P1;gi|39936706|ref|NP_948982.1| 1,4-alpha-glucan branching enzyme (... [ score 48 E 5e-05 ] [ range 132 .. 217 ]
+sequence
+----------------GVGFVVLAPNARRVSVVFWN-------PLRHQMRVRGSGYWELFVP-------G
+ARAGDHYKFDLA--G----------------------------GEQLPDPLAFAAELR------------
+-------------PKTASIVVD----*
+>P1;gi|44330701|gb|EAI51081.1| unknown [environmental sequence] [ score 48 E 5e-05 ] [ range 141 .. 225 ]
+sequence
+---------------EGVHFCVWAPNAKRVSVVGDD-------DTRHVMQHLGNGLWEIFLP-------D
+VAEGAHYKFDLG--E----------------------------RHAKSDPMATQMECA------------
+-------------PHNASIV------*
+>P1;gi|44005237|gb|EAG60677.1| unknown [environmental sequence] [ score 48 E 5e-05 ] [ range 2 .. 53 ]
+sequence
+-------------------FCLWAPHAKSVSVIGDD-------GRHHPMQKRLGGIWELFIP-------G
+LSEGDLYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|40287430|gb|AAR83844.1| glycogen debranching enzyme [Brevibac... [ score 48 E 6e-05 ] [ range 12 .. 87 ]
+sequence
+-------GATFDG--TGTNFALFSERAERVELCLLA-------ETRIELTEVDGYVWHCYLP-------H
+IQPGQKYGYRVH--G----------------------------PY---DPASRFNP--------------
+--------------------------*
+>P1;gi|45512642|ref|ZP_00164208.1| hypothetical protein Selo035001 [... [ score 48 E 6e-05 ] [ range 147 .. 201 ]
+sequence
+----------------GVNFAVWAPSARNVSILGDD-------GRKHQMARRSNGIWELFIP-------E
+LTVGAAYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|23126496|ref|ZP_00108389.1| COG0296: 1,4-alpha-glucan branchi... [ score 47 E 6e-05 ] [ range 141 .. 195 ]
+sequence
+----------------GVYFAVWAPNARNVSLLLWD-------GRKHQMRKGPTGVWELFIP-------E
+IGMGEHYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|44500050|gb|EAJ69537.1| unknown [environmental sequence] [ score 47 E 7e-05 ] [ range 126 .. 210 ]
+sequence
+---------------EGVHFCVWAPNAKRVSVVGDD-------ETRHVMQHLANGLWEIFLP-------D
+VAEGAHYKFDLG--E----------------------------RHAKSDPMATQMECA------------
+-------------PHNASIV------*
+>P1;gi|43031114|gb|EAB82197.1| unknown [environmental sequence] [ score 47 E 8e-05 ] [ range 128 .. 192 ]
+sequence
+-------AHLIDN--KGVMFCIWAPNAKSISIIGDD-------GRHHPMQKRLGGIWELFMP-------I
+MKEGDTYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|15605602|ref|NP_220388.1| 1, 4-alpha-glucan branching enzyme ... [ score 47 E 9e-05 ] [ range 132 .. 221 ]
+sequence
+----------------GVRFIVWAPHAQRVSVIGDF-------NGWHPLHKSDQGVWELFVP-------G
+LTAGACYKWVTE--S----------------------------GQVLSDPYGKF----------------
+--------------FGPSVVIDDSYE*
+>P1;gi|1944410|dbj|BAA19588.1| branching enzyme [Geobacillus stearot... [ score 47 E 1e-04 ] [ range 38 .. 123 ]
+sequence
+----------------GTRFCVWAPHAREVRLVGSD-------GTDFRLEKNDEGVWTIVVP-------E
+NLEGHLYKYEIP--D----------------------------GQVLADPYAFYSELR------------
+-------------PHTASIAYD----*
+>P1;gi|1707935|sp|P52980|GLGB_STRAU 1,4-alpha-glucan branching enzym... [ score 47 E 1e-04 ] [ range 175 .. 264 ]
+sequence
+----------------GTRFTVWAPNALGVRVTGDD-------AVAYPMRSLGSGVWELFLP-------G
+VAEGALYKYEID--G----------------------------GRTLADPMARYAEVP------------
+-------------PANASIVTASRYE*
+>P1;gi|19553304|ref|NP_601306.1| pullulanase [Corynebacterium glutam... [ score 47 E 1e-04 ] [ range 24 .. 93 ]
+sequence
+-----------DG--AGTNFALFSDVAERVELCLLD-------ETRIPLEERDAHIWHCYLP-------G
+VQPGQRYGFRVH--G----------------------------PWN-PDEGKRC----------------
+--------------------------*
+>P1;gi|45517566|ref|ZP_00169117.1| hypothetical protein Raeut028901 ... [ score 47 E 1e-04 ] [ range 90 .. 160 ]
+sequence
+----------------GVRFAVWAPNARRVSVIGDQ-------PARHPMRRHPSGVWELFIP-------G
+ARPGCRYKFDLL--D----------------------------PHDLPDKA-------------------
+--------------------------*
+>P1;gi|23336524|ref|ZP_00121737.1| COG0296: 1,4-alpha-glucan branchi... [ score 47 E 1e-04 ] [ range 166 .. 221 ]
+sequence
+----------------GTAFSVWAPNAHAVRVVGND-------GRRHAMRELGSGVWEIFIP-------G
+IGAGETYKFQI-----------------------------------------------------------
+--------------------------*
+>P1;gi|23105331|ref|ZP_00091787.1| COG0296: 1,4-alpha-glucan branchi... [ score 46 E 1e-04 ] [ range 142 .. 229 ]
+sequence
+---------------EGVRFAVWAPNARRVSVVGPD-------GRRHSMRRYPAGIWELFIP-------R
+LRPGESYQYELL--G----------------------------SHGIADPVALATESP------------
+-------------PNTASVVAAP---*
+>P1;gi|33863664|ref|NP_895224.1| Putative isoamylase [Prochlorococcu... [ score 46 E 1e-04 ] [ range 22 .. 95 ]
+sequence
+--------WPLGS--TGVNFSVAAPTAKRVELLLFA-------DALQPCHRSGD-YWHVEVE-------G
+LQTGCCYGYRIF--G----------------------------PH-------------------------
+--------------------------*
+>P1;gi|44002099|gb|EAG59102.1| unknown [environmental sequence] [ score 46 E 2e-04 ] [ range 128 .. 205 ]
+sequence
+-------AHPHQQ--DGVQFCLWAPHARSVSIIGDD-------GRHLPMQQRTGGIWELFVP-------G
+LGTGAHYKYEIH--T----------------------------QEEKADP--------------------
+--------------------------*
+>P1;gi|27381879|ref|NP_773408.1| glycogen branching enzyme [Bradyrhi... [ score 46 E 2e-04 ] [ range 136 .. 224 ]
+sequence
+---------------DGIGFVVLAPNARRVSVVFWD-------SRRHPMRVRGSGYWELFIP-------H
+AKRGDHYKFDIV--G----------------------------GHQLPDPMAFASEVR------------
+-------------PKTASIVFDEA--*
+>P1;gi|34098562|sp|Q8GQC5|GLGB_ERWCH 1,4-alpha-glucan branching enzy... [ score 46 E 3e-04 ] [ range 141 .. 198 ]
+sequence
+----------------GTCFAVWAPNAQRVSVVWDG-------RRHPMRRRRENGVWELFVP-------G
+VGPGQLYKFEII--D-------------------------------------------------------
+--------------------------*
+>P1;gi|25028566|ref|NP_738620.1| putative glycogen debranching enzym... [ score 46 E 3e-04 ] [ range 20 .. 93 ]
+sequence
+-------GSKYDG--AGTNFALFSDVAESVELCLDN-------ETRIKLEEKDNNVWHCYLP-------G
+ILPGQRYGYRVH--G----------------------------PWD-PDNGKRC----------------
+--------------------------*
+>P1;gi|29829347|ref|NP_823981.1| putative 1,4-alpha-glucan branching... [ score 46 E 3e-04 ] [ range 248 .. 331 ]
+sequence
+----------------GTRFTVWAPNARGVRLNFWD-------ATAFPLRSLGSGVWELFVP-------G
+VGEGELYKFEID--G----------------------------KTLRADPVARRTEAP------------
+-------------PRTSSIV------*
+>P1;gi|37520875|ref|NP_924252.1| 1,4-alpha-glucan branching enzyme [... [ score 46 E 3e-04 ] [ range 135 .. 194 ]
+sequence
+----------------GVYFAVWAPSARNVSVLGDD-------GRFHQMRRVERGIWELFIP-------E
+LGEGTVYKFEIK--N----------------------------G--------------------------
+--------------------------*
+>P1;gi|23107898|ref|ZP_00094151.1| COG1523: Type II secretory pathwa... [ score 45 E 3e-04 ] [ range 4 .. 71 ]
+sequence
+-------GVFLAD--GATRFSVRSPRAEALTLCLEA-------EQRIAMTRVGDNWI-VEIP-------R
+DLRGIRYGYRAS--G----------------------------EWNPPD---------------------
+--------------------------*
+>P1;gi|33866028|ref|NP_897587.1| 1,4-alpha-glucan branching enzyme [... [ score 45 E 5e-04 ] [ range 138 .. 192 ]
+sequence
+----------------GVMFCLWAPHALSVDLNSWD-------GRHHPMQQRLGGIWELFIP-------G
+LAEGSLYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|44662948|gb|AAS47565.1| pullulanase type I [Anaerobranca gott... [ score 45 E 5e-04 ] [ range 266 .. 326 ]
+sequence
+---------------NSTKFRVWAPTALDVKVRIYD-------GKDYDMKKDVNGTWFLEIK-------G
+DLKNKYYTYIVD--H----------------------------G--------------------------
+--------------------------*
+>P1;gi|37788269|gb|AAP45012.1| pullulanase [Anaerobranca horikoshii] [ score 44 E 7e-04 ] [ range 266 .. 326 ]
+sequence
+---------------NSTKFRVWAPTALNVKVRIYN-------GKDYDMKKDVNGTWFLEIK-------G
+DLKNKYYTYIVD--H----------------------------G--------------------------
+--------------------------*
+>P1;gi|15890899|ref|NP_356571.1| AGR_L_1566p [Agrobacterium tumefaci... [ score 44 E 7e-04 ] [ range 15 .. 88 ]
+sequence
+------------E--NGVEFTVYSRHASQIDLCLFD-------DARLPMMRGEDDVHRLTHE-------N
+AGPGTRYGFR-A--H----------------------------GIYAPDPA-------------------
+--------------------------*
+>P1;gi|43161536|gb|EAC46355.1| unknown [environmental sequence] [ score 44 E 0.001 ] [ range 71 .. 135 ]
+sequence
+-------AHLTER--DGVRFCLWAPSALTVSVIGDD-------GRHHPMQQRVGGIWELFIP-------G
+LEEGHLYKYEI-----------------------------------------------------------
+--------------------------*
+>P1;gi|29829331|ref|NP_823965.1| putative glycosyl hydrolase [Strept... [ score 44 E 0.001 ] [ range 59 .. 128 ]
+sequence
+---------------TGTNFALWAGGAEAVELCLFD-------ETRVPLTELTHEIWHGFVP-------G
+VLPGRRYGYRVH--G----------------------------RWD-PWTGARWNP--------------
+--------------------------*
+>P1;gi|5672639|dbj|BAA82695.1| isoamylase [Myroides odoratus] [ score 222 E 3e-57 ] [ range 22 .. 181 ]
+sequence
+AINPNKLGAAYDATKANVTFKVYSSKATRIELYLYSTATGSAEKAKYVMTN-SGGIWSVTIPTSTLSGQG
+LGGTLYYGYRAWGPNWPYNASWTKGSSLGFISDVDAAGNRFNPNKLLSDPYALELSHDPTTATMTNGSIY
+ASGATYRNIDSGSSAPKGIVL-----*
+>P1;gi|23118558|ref|ZP_00102035.1| COG1523: Type II secretory pathwa... [ score 221 E 5e-57 ] [ range 34 .. 196 ]
+sequence
+AIDAQQLGARYDATQANLAFRVYSSRATRIEVFLYKNPTGSQEVARLALSKPATQIWSLSLPVSTIKTTG
+ITGVVYYGYRAWGPNWTYDPAWSKGSASGFVSDVDNAGNRFNPNKLLIDPYAREISQDPNTAACPDGTIY
+ASGAAHRNKDSGLCANKSIAL-----*
+>P1;gi|3913942|sp|O32611|ISOA_FLASP Isoamylase precursor >gi|2262207... [ score 219 E 2e-56 ] [ range 33 .. 195 ]
+sequence
+AIDAQQLGARYDAAQANLAFRVYSSRATRVEVFLYKNPTGSQEVARLALSKPATQVWSLSLPTSTIKNTG
+ITGAVYYGYRAWGPNWPYDAAWTKGSATGFVSDVDNAGNRFNPNKLLLDPYAREISQDPNTATCADGTIY
+ATGAAHRNKDSGLCASKGIAL-----*
+>P1;gi|15597356|ref|NP_250850.1| probable glycosyl hydrolase [Pseudo... [ score 212 E 2e-54 ] [ range 17 .. 149 ]
+sequence
+---PFPLGATWDGLGVN--FALFSAHATKVELCLFDA-RGEKEIERIELPEYTDEIWHGYLPDAH-----
+--PGQIYGYRVHGPYEP------------------DAGHRFNPNKLLLDPYAKQLVGRLRWSEALFGYTI
+GSDLSFDERDSAPFVPKSKVI-----*
+>P1;gi|44414040|gb|EAJ10002.1| unknown [environmental sequence] [ score 212 E 3e-54 ] [ range 14 .. 146 ]
+sequence
+---PFPLGASWDGLGVN--FALFSAHATRVELCLFDE-RGETEIERIELPEYTDEIWHGYLPDA------
+-RPGQVYGYRVYGPYEP------------------EAGHRFNPNKLLIDPYAKQLVGKLQWSEALFGYTI
+GDDLSFDERDSAPFVPKCKVI-----*
+>P1;gi|26990756|ref|NP_746181.1| glycogen operon protein GlgX [Pseud... [ score 207 E 6e-53 ] [ range 22 .. 154 ]
+sequence
+---PFPLGATWDGLGVN--FALFSANATKVELCLFDST-GEQELERIELPEYTDEIYHGYLPDAH-----
+--PGLVYGYRVYGPYEP------------------ENGHRFNPNKLLIDPYAKQLVGSLKWSEALFGYTI
+GGDLSFDERDSAPFVPKCKVI-----*
+>P1;gi|23104153|ref|ZP_00090621.1| COG1523: Type II secretory pathwa... [ score 207 E 6e-53 ] [ range 177 .. 309 ]
+sequence
+---PFPLGATWDGLGVN--FALFSAHATKVELCLFDKA-GRTELERIELPEYTDEIWHGYLPDAH-----
+--PGLVYGYRVHGPYAP------------------DAGHRFNPNKLLIDPYAKQLVGELRWSESLFGYTV
+GADFSFDERDSAPYVPKSKVI-----*
+>P1;gi|23063514|ref|ZP_00088245.1| COG1523: Type II secretory pathwa... [ score 205 E 3e-52 ] [ range 23 .. 155 ]
+sequence
+---PFPLGATWDGLGVN--FALFSANATRVELCIFDDA-GEVELERIELPEYTDEIFHGYLPDAH-----
+--PGLIYGYRVYGPYDP------------------ANGHRFNHNKLLIDPYAKQLVGELKWSEALFGYTI
+GADLSFDERDSAPFVPKCKVI-----*
+>P1;gi|22999082|ref|ZP_00043086.1| COG1523: Type II secretory pathwa... [ score 203 E 9e-52 ] [ range 14 .. 147 ]
+sequence
+--NPFPLGATWDGRGVN--FAIFSEHAERVELCLFGPD-GFRETARISLSEYTNQVWHGYLPD-------
+VRPGQLYGYRVYGPYQP------------------EHGHRFNHNKLLLDPYAKLLNGQLQWHEALFGYRY
+DDDLSFSDLDSAPYVPKCVVV-----*
+>P1;gi|23471849|ref|ZP_00127178.1| COG1523: Type II secretory pathwa... [ score 203 E 1e-51 ] [ range 31 .. 163 ]
+sequence
+---PFPLGASWDGLGVN--FALFSANATKVELCLFDST-GEIELERIELPEYTDEIYHGYLPDAH-----
+--PGQIYGYRVYGPYDPK------------------NGHRFNHNKLLIDPYAKQLVGELKWSEALFGYTI
+GGDLSFDERDSAPFVPKSKVI-----*
+>P1;gi|21241204|ref|NP_640786.1| glycogen debranching enzyme [Xantho... [ score 202 E 2e-51 ] [ range 17 .. 148 ]
+sequence
+---PNPLGATWDGLGVN--FALYSRNATRVELCLFDERG--REQERIALPEYTDEVWHGYLPDA------
+-RPGQLYGYRVHGPYAP------------------DAGHRFNHNKLLLDPYAKQIVGELKWAPHLFGYTI
+GKDLSFDRRDSAAFMPKSAVI-----*
+>P1;gi|22967524|ref|ZP_00015117.1| COG1523: Type II secretory pathwa... [ score 199 E 2e-50 ] [ range 13 .. 145 ]
+sequence
+---PYPLGGTWDGRGVN--FALFSEHAEKVELCLFDGDDGR-ELSRVPLPEYTDEIWHGYLPD-------
+VRPGQRYGYRVYGPYAPHA------------------GHRFNPNKLVLDPYARSWGGRLQWTDAHFGYRF
+GADLTFDTRDNSAFMPKCVIV-----*
+>P1;gi|22987317|ref|ZP_00032398.1| COG1523: Type II secretory pathwa... [ score 199 E 2e-50 ] [ range 16 .. 148 ]
+sequence
+---PFPLGATWNGSGVN--FALFSAHATKVELCLFDET-GENEIERIELPEYTDEVWHVFVPN-------
+LKPGAVYGYRVHGPYEP------------------EKGHRFNPNKLLLDPYAKAHIGELKWAPEIFGYTL
+DSDLSFDERDSAPFVPKCKVV-----*
+>P1;gi|21243980|ref|NP_643562.1| glycogen debranching enzyme [Xantho... [ score 198 E 3e-50 ] [ range 20 .. 150 ]
+sequence
+---PFPRGAVFDGKGTN--FALFSAHATRVELCLFDEQGNE---TRVDLPEYTNEIWHGYLPDAK-----
+--PGQRYGYRVHGPYAP------------------TEGHRFNHNKLLLDPYARELDGDLIWSDELYGYTV
+GGDLSFDERDSAPFMPKCVVV-----*
+>P1;gi|21232539|ref|NP_638456.1| glycogen debranching enzyme [Xantho... [ score 198 E 4e-50 ] [ range 20 .. 150 ]
+sequence
+---PFPRGAIFDGKGTN--FALFSAHATRVELCLFDEQGNE---SRVDLPEYTNEIWHGYLPD-------
+VKPGQRYGYRVHGPYAP------------------TEGHRFNHNKLLLDPYARELDGDLVWADELYGYTV
+GGDLSFDERDSAPFMPKCVVV-----*
+>P1;gi|22956953|ref|ZP_00004680.1| COG1523: Type II secretory pathwa... [ score 198 E 4e-50 ] [ range 177 .. 309 ]
+sequence
+---PFPLGATWDGSGTN--FAIFSAHARKVELCLFDA-RGRREIARVALPEYTHEVWHGYLPE-------
+VRPGQLYGYRVHGPYEP------------------QAGLRFNPNKLLIDPYALMLQGEVVWHDAVFGYRM
+GNDLSFDRRDSAFVMPKCVVV-----*
+>P1;gi|44433049|gb|EAJ23416.1| unknown [environmental sequence] [ score 198 E 5e-50 ] [ range 16 .. 148 ]
+sequence
+---PFPLGATWNGSGVN--FALFSAHATRVELCLFDET-GETEIERIELPEYTDEVWHVFVP-------G
+LKPGAVYGYRVHGPYEP------------------ENGHRFNPNKLLLDPYAKAHIGELKWAPEIFGYTL
+DSDLSFDERDSAPFVPKCKVV-----*
+>P1;gi|22968919|ref|ZP_00016499.1| COG1523: Type II secretory pathwa... [ score 197 E 7e-50 ] [ range 24 .. 156 ]
+sequence
+---PFPLGATWDGSGTN--FALFSAHAEKVELCLFDRA-GRKETARIVLPEYTDEIWHGYLPD-------
+IRPGQMYGYRVYGPYDP------------------NAGHRFNANKLLIDPYAKSLKGEILWHDALFAYKL
+GGDLTFDRRDSARHMPKCEVV-----*
+>P1;gi|22986677|ref|ZP_00031769.1| COG1523: Type II secretory pathwa... [ score 197 E 8e-50 ] [ range 14 .. 146 ]
+sequence
+---PYPLGASWDGLGVN--FAVFSANAQKIELCLFD-PTGRKELRRFTLPECTDEVWHGYLPNAH-----
+--PGTAYGFRAHGPYQP------------------QHGHRFNPHKLLLDPYARKLVGQFRWSDALFGYRV
+HSDLSIDRRDSAPAMPKCVVI-----*
+>P1;gi|21999522|gb|AAM81590.1| glycogen debranching enzyme [Sulfolob... [ score 192 E 2e-48 ] [ range 16 .. 152 ]
+sequence
+--DPYPLGSNWIEDEDGVNFSLFSENAEKVELFLYSQTNQKYPKEIIEVKNKTGDIWHVFIP-------G
+LRPGQLYAYRVYGPYKPEL------------------GLRFNPNKVLIDPYAKAINGNVIWNDAVFGYKI
+GDDLSYDERDSSEYVPKSVVI-----*
+>P1;gi|39936374|ref|NP_948650.1| glycosyl hydrolase [Rhodopseudomona... [ score 191 E 4e-48 ] [ range 43 .. 171 ]
+sequence
+---PYPLGSCWDGHGTN--FALFSANATKVEVCLFDGDT----ERRIELPEYTDEVFHGYIPD-------
+IGPGTFYGYRVYGPYEP------------------ENGHRFNPNKLLLDPYARAHAGLLTWDPAVFGYVM
+GDDTTFDERDSARFVPKCVVV-----*
+>P1;gi|44419193|gb|EAJ13727.1| unknown [environmental sequence] [ score 190 E 6e-48 ] [ range 14 .. 146 ]
+sequence
+---SYPLGATWDGLGTN--FAVFSAHAQRIQLCVFD-PTGRKELARLDLPECTDEIWHGYLPNAH-----
+--PGTVYGFRADGPYQP------------------QHGHRFNPTKLLLDPYARKLVGQFRWSDALFGYRL
+HSDLSMDRRDSAPAMPKCVVV-----*
+>P1;gi|15898878|ref|NP_343483.1| Glycogen debranching enzyme (treX) ... [ score 190 E 1e-47 ] [ range 16 .. 152 ]
+sequence
+--DPYPLGSNWIEDDDGVNFSLFSENAEKVELLLYSLTNQKYPKEIIEVKNKTGDIWHVFVP-------G
+LRPGQLYAYRVYGPYKPEL------------------GLRFNPNKVLIDPYAKAINGSVIWNDAVFGYKI
+GDDLTYDERDSGEYVPKSVVI-----*
+>P1;gi|16764902|ref|NP_460517.1| putative glycosyl hydrolase [Salmon... [ score 190 E 1e-47 ] [ range 14 .. 146 ]
+sequence
+---SHTLGANYDGEGVN--FAIFSAHAERVELCLYD-PSGEHEIARLELPEYTDEIWHGYVPK-------
+LQPGALYGYRVYGPYDP------------------ENGHRFNPNKLLIDPYARELVGDIQWNDAHFAYQL
+DKDLTFDDQDSAPFTPKCRVI-----*
+>P1;gi|22959540|ref|ZP_00007190.1| COG1523: Type II secretory pathwa... [ score 189 E 2e-47 ] [ range 20 .. 152 ]
+sequence
+---PWPLGASFDGEGVN--FALFSAHAEKVELCLF-APDGRREALRLPLTERDGDIWH-------LKVNG
+LLPGQLYGYRVHGPYQP------------------EQGHRFNPNKLLIDPYARKLEGRLRWSDAVMGYRV
+GSDLSFDGRDSAFAVPKSVVV-----*
+>P1;gi|27381880|ref|NP_773409.1| glycogen debranching enzyme [Bradyr... [ score 189 E 2e-47 ] [ range 5 .. 140 ]
+sequence
+AGSPARLGASWDGRGTN--FALFSANAQKVELCLFD-TQGRRELERVELPERTEDVWHGYL-------ND
+VSPGQLYGYRVHGPYEP------------------EHGHRFNANKLLLDPYAKRLSGRLVWSDAHFAYRT
+GSDLSFDRRDNARGMPKAVVV-----*
+>P1;gi|16265023|ref|NP_437815.1| probable glycosyl hydrolase protein... [ score 189 E 2e-47 ] [ range 15 .. 143 ]
+sequence
+------LGAEYTGQGTH--FAVFSAHAEKIELCLFSED-GREETARMPLPKREGDIWSGYI-------EG
+IGPGTLYGYRAHGPYDPH------------------NGHRFNPNKLLLDPYAKLVAGDLIWDDALFGYTI
+GSDLSFDERDSAPFMVKGVV------*
+>P1;gi|17548459|ref|NP_521799.1| PROBABLE GLYCOGEN OPERON PROTEIN GL... [ score 189 E 2e-47 ] [ range 13 .. 144 ]
+sequence
+---PYPLGAQWDGLGIN--FAVFSANATRIDLCLFD-PTGRKELARLPLPECTDEVWHGYLP-------G
+VESGLVYGYRAYGPWEPY------------------RGHRFNPHKLLLDPYARRLVGALRWSDALFGYRL
+NSDLSFDRRDSAPACPKAVV------*
+>P1;gi|23006476|ref|ZP_00048778.1| COG1523: Type II secretory pathwa... [ score 188 E 3e-47 ] [ range 23 .. 154 ]
+sequence
+---PHPRGATWDGRGVN--FALFSAHATKVELCLFDDA-GEKEIERIALPEYTDEVWHGYLPDA------
+-RPGTIYGYRVHGPYEP------------------EAGHRFNPNKLLIDPYAKGLVGTIEWNPALFGYKM
+GDDLTFDERDSAPYTRRSRVI-----*
+>P1;gi|39936707|ref|NP_948983.1| probable glycosyl hydrolase [Rhodop... [ score 185 E 3e-46 ] [ range 11 .. 140 ]
+sequence
+------LGATWDGRGTN--FALFSANAHKVELCLFDA-QGRRELERIELPERTEDVWHGYL-------ND
+VSPGQLYGYRVHGPYDP------------------DRGHRFNAHKLLLDPYAKRLNGRLVWSEAHFAYRT
+GSDLSFDRRDNARGMPKVVVV-----*
+>P1;gi|45517567|ref|ZP_00169118.1| hypothetical protein Raeut029001 ... [ score 183 E 1e-45 ] [ range 62 .. 194 ]
+sequence
+---PYPLGAQWDGLGVN--FAVFSANASRIDLCLFSA-NGRKELARMPLPECTDEIWHGYLPNAAL----
+---GTLYGFRAFGPYDP------------------ARGHRFNPHKLLLDPYARRLSGPVRWSDALFGYRL
+QSDLTPDRRDSAPTMPKAVVV-----*
+>P1;gi|22959385|ref|ZP_00007038.1| COG1523: Type II secretory pathwa... [ score 181 E 4e-45 ] [ range 20 .. 150 ]
+sequence
+---PNRLGADFDGEGTN--FPLFSENATRVELCLFDET-GQTQTHCLDLPSYEGGIWYGYLP-------G
+IREGQTYGYRVHGPHAP------------------EEGHRFNPNKLLIDPYARELRGDLIWDDALFGYIG
+GDDLELDPRDSAPFMPKAVVV-----*
+>P1;gi|41350543|gb|AAS00512.1| glycogen debranching enzyme [Metallos... [ score 180 E 6e-45 ] [ range 15 .. 148 ]
+sequence
+---PYPLGSNWIEEEDGVNFSLFSENAEKVEIVLFSNKNDPKEV--IEVKNRTGDIWHTFVP-------G
+LIPGQLYGYRVHGPYKPEV------------------GLRFNPNKVLIDPYAKAVSGPVKWDDSLFGYKI
+GDDISFDERDSSGFIPKSVVI-----*
+>P1;gi|23015437|ref|ZP_00055213.1| COG1523: Type II secretory pathwa... [ score 180 E 9e-45 ] [ range 12 .. 144 ]
+sequence
+---ANPLGATWDGNGVN--FALFSAHAEKVELCLFD-RRGLREVERITLPEYTDEVWHGYLPDC------
+-RPGQLYGYRVHGPYDP------------------NEGHRFNAHKLLLDPYAKAHAGSFEWSDTHFGFKP
+GQDLIADKRDNARFMPKCRVL-----*
+>P1;gi|23126243|ref|ZP_00108145.1| COG1523: Type II secretory pathwa... [ score 180 E 1e-44 ] [ range 9 .. 140 ]
+sequence
+--NVYPLGANWDGKGTN--FALFSENATGVELCLFDADN---HEIRLPLTEKNNFVWHAYLP-------G
+VGPGQRYGFRVHGPWAPEL------------------GHRFNPNKLLIDPYAKAIDGEISDTAAIFGYSL
+EQDLAFSDLDNAEIMPKCIVV-----*
+>P1;gi|1890055|dbj|BAA11864.1| glycogen debranching enzyme [Sulfolob... [ score 180 E 1e-44 ] [ range 11 .. 146 ]
+sequence
+---PYPLGATWIEEEDGVNFVLFSENATKVELLTYSQTRQDEPKEIIELRQRTGDLWHVFVP-------G
+LRPGQLYGYRVYGPYKP------------------EEGLRFNPNKVLIDPYAKAINGLLLWDDSVFGYKI
+GDDLSFDERKDDKFIPKGVII-----*
+>P1;gi|41409360|ref|NP_962196.1| GlgX_2 [Mycobacterium avium subsp. ... [ score 178 E 4e-44 ] [ range 20 .. 147 ]
+sequence
+---AYPLGASYDGAGTN--FAVFSEVAERVELCLFD---GDGTESRVALPEVDGFVWHAYIP-------G
+IEPGQRYGYRVHGPYDP------------------AAGQRCNPNKLLLDPYSKAVDGTFEWNQSLFGYNF
+GDPDSRNDDDSAPSMPKSVVI-----*
+>P1;gi|15921162|ref|NP_376831.1| 716aa long hypothetical glycogen de... [ score 177 E 5e-44 ] [ range 15 .. 150 ]
+sequence
+---PYPLGANWEEEDDGVNFSIFSENATKVELLIYSPTNQKYPKEVIEVKQRSGDIWHVFVP-------G
+LGPGTLYAYRIYGPYKP------------------DQGLRFNPNKVLIDPYAKAINGTLNWNDAVFGYKI
+GDDLSFDDRPDDEFIPKGVVI-----*
+>P1;gi|33601841|ref|NP_889401.1| probable glycosyl hydrolase [Bordet... [ score 176 E 2e-43 ] [ range 14 .. 145 ]
+sequence
+---PAPLGATSDGLGVN--FAVFSANAARIELCLFDA-RGRKELARLPMPECTDEVWHGYLPDA------
+-QPGLVYGYRAHGPYNPRA------------------GHRFNPHKLLLDPYATALTGALRWSDALFGYRM
+QADLSMDRRDSAAGVPKAVV------*
+>P1;gi|7648481|dbj|BAA94842.1| glycogen debranching enzyme [Arthroba... [ score 175 E 3e-43 ] [ range 8 .. 135 ]
+sequence
+---AYPLGATFDGTGTN--FALFSEHAEKVELCLFDD---EGTETRVTLREVDGYVWHCYLPQ-------
+IQPGQKYGYRVHGPYDP------------------ANGQRFNANKLLLDPYAKAVAGQIDWDPALFSYNM
+GDPSSKNDADSAPHMMMGVVI-----*
+>P1;gi|24373069|ref|NP_717112.1| glycogen operon protein [Shewanella... [ score 173 E 1e-42 ] [ range 22 .. 154 ]
+sequence
+---AFPLGATVDDGGVN--FALFSAHATGVELCLFDA-QGKVEIQRIALTEQTQQIWHLYV-------HG
+LCAGQLYGYRVYGPYEPQL------------------GHRFNPHKLLLDPYARQLVGRYHHHIANFGYEL
+DNDLSFSTLDNAAYMPKCKVV-----*
+>P1;gi|23019786|ref|ZP_00059495.1| COG1523: Type II secretory pathwa... [ score 172 E 3e-42 ] [ range 57 .. 184 ]
+sequence
+---AYPLGATYDGSGTN--FSLFSEVATGVELCLFDDDGAE---TRVPLTEQDGHVWHGYLPT-------
+VGPGQRYGYRVHGPYDP------------------ERGLRCNPNKLLVDPYAKAIDGQIHWHESLFDYHF
+ADPGRVNNHDSAPYVPTCVVV-----*
+>P1;gi|44500051|gb|EAJ69538.1| unknown [environmental sequence] [ score 171 E 5e-42 ] [ range 22 .. 154 ]
+sequence
+---PFPLGATVDDGGVN--FALFSAHATGVELCLFDA-QGEVEIQRITLTEQTQQIWHLYV-------HG
+LSAGQLYGYRVYGPYEPQL------------------GHRFNPHKLLLDPYARQLVGRYHHHIANFGYEI
+DSDLSFSTLDNADFVPKCKVV-----*
+>P1;gi|40287430|gb|AAR83844.1| glycogen debranching enzyme [Brevibac... [ score 170 E 7e-42 ] [ range 7 .. 137 ]
+sequence
+--NAYPLGATFDGTGTN--FALFSERAERVELCLLADDL---TETRIELTEVDGYVWHCYLP-------H
+IQPGQKYGYRVHGPYDP------------------ASGNRFNPNKLLMDPYAKAVAGQIDWDPALFSYEF
+GDPDSRNDADSAPHTMHGVVI-----*
+>P1;gi|23005154|ref|ZP_00048122.1| COG1523: Type II secretory pathwa... [ score 170 E 9e-42 ] [ range 9 .. 139 ]
+sequence
+---PTPLGAHFDGRGVN--FALFSQNATRVDLCLF-EPGARHEHRTIRLPCRTDDVFHGYL-------HG
+LLPGQLYGYRVFGPWDP------------------AAGHRFNPSKLVLDPYAREIAGRIRWHDALYGHRR
+GREDQIDRRDSAPFLPRGVV------*
+>P1;gi|23029648|ref|ZP_00067969.1| COG1523: Type II secretory pathwa... [ score 169 E 2e-41 ] [ range 15 .. 147 ]
+sequence
+---SFPMGATVSAQGTN--FAIFSEHAEKVELCLFDE-MGQTETARIMLPGNTDHVWHGFV-------EG
+VHAGALYGYRVYGPYEP------------------QRGHRFNPNKLLLDPYAKRIDGAFHWSSIMYGYNP
+RQDLVKDKRDNSRDMPKCVVV-----*
+>P1;gi|44331343|gb|EAI51538.1| unknown [environmental sequence] [ score 169 E 2e-41 ] [ range 22 .. 154 ]
+sequence
+---PFPLGATVDDGGVN--FALFSAHATGVELCLF-NARGEVEIQRIALTEQTQQIWHLYV-------HG
+LSAGQLYGYRVYGPYEPQL------------------GHRFNPHKLLLDPYARQLVGRYHHHIANFGYEI
+DNDLSFSTLDNADFVPKCKVV-----*
+>P1;gi|15833530|ref|NP_312303.1| GlgX [Escherichia coli O157:H7] >gi... [ score 165 E 3e-40 ] [ range 9 .. 133 ]
+sequence
+---PAPLGAHYDGQGVN--FTLFSAHAERVELCVFDANGQEH---RYDLPGHSGDIWHGYLPDA------
+-RPGLRYGYRVHGPWQP------------------AEGHRFNPAKLLIDPCARQIDGEKDNPLLHAGHNE
+P-----DYRDNAAIAPKCVVVV----*
+>P1;gi|16762764|ref|NP_458381.1| glycogen operon protein [Salmonella... [ score 164 E 6e-40 ] [ range 11 .. 132 ]
+sequence
+-----PHGATYDGHGVN--FTLFSAHAERVELCVFDS---RGNERRYDLPGRRGDVWHGYL-------AG
+ARPGLRYGYRVHGPWQP------------------AQGHRFNPAKLLLDPYARQVEGELKDHPLLHGG--
+HDEPDY--RDNAAVAPKSVVI-----*
+>P1;gi|23039592|ref|ZP_00071150.1| COG1523: Type II secretory pathwa... [ score 158 E 3e-38 ] [ range 10 .. 140 ]
+sequence
+---PYPLGSSWNGKGTN--FAIFSENATSVELCLFDKQN---KETRLTLTEVSNFIWHGYLP-------G
+ISPGQKYGFRVHGPYEP------------------SQGHRFNPNKLLIDPYAKAIDGNILYGQEIFAYS-
+WDNPEKDLDDDAHLMPKSVVI-----*
+>P1;gi|23336567|ref|ZP_00121778.1| COG1523: Type II secretory pathwa... [ score 158 E 4e-38 ] [ range 9 .. 138 ]
+sequence
+----YPLGASYDGAGVN--FALYSQVAQKVELCLFDEHDAE---TRIEMTERNSYVWHNYIP-------G
+LHPGQRYGYRVYGPYDP------------------VHGLRCNPNKLLLDPYAKAIEGNIDGDESLFSYWF
+KSPDAMNDLDSAAHTMKSAVI-----*
+>P1;gi|43942008|gb|EAG26514.1| unknown [environmental sequence] [ score 153 E 8e-37 ] [ range 9 .. 132 ]
+sequence
+---PSPLGASYDGKGVN--FTLFSAHAERVELCVFDAQGNEQ---RFDLPARTGNIWHGWLPAA------
+-GPGLLYGYRVHGPWDP------------------AQGHRFNPAKLLLDPCCHRVEGVPDDERLHGGDLF
+P-----DHRDSAAIAPKSQVV-----*
+>P1;gi|15805296|ref|NP_293987.1| glycogen operon protein GlgX [Deino... [ score 150 E 1e-35 ] [ range 13 .. 124 ]
+sequence
+---PFPLGATWDGKGTN--FALYSENATGVELCLFDA---EGHETRFPLTEQTAFVWHGYLP-------G
+IQPGQRYGYRVHGEYAP------------------EKGLRFNPNVVLLDPYAKALDGTEQFDRGVFGYVA
+GGEDD---------------------*
+>P1;gi|16124069|ref|NP_407382.1| putative alpha-amylase [Yersinia pe... [ score 145 E 4e-34 ] [ range 9 .. 132 ]
+sequence
+---PTPSGAHFDGKGIN--FTLFSAHAEQVTLCLFDEQGQERQ---IAMPARTGDIWHGYLP-------G
+GKPGQRYGYRVSGPFEP------------------SRGHRFNPHKLLIDPRTRALEGKVGDDPRFTGGV-
+---SQPDVRDSAAALPKCLVI-----*
+>P1;gi|21224411|ref|NP_630190.1| glycogen debranching enzyme [Strept... [ score 141 E 4e-33 ] [ range 8 .. 135 ]
+sequence
+---AYPLGATYDGAGTN--FAVFTEAADRVELCLLHDDGSETA---VELRESDAFVRHAYVP-------G
+VMPGQRYGYRVHGPYAP------------------ERGLRCNSAKLLLDPYARAISGEVQWGEEVYGYHF
+GAPERRNDLDSAPHTMTSVVV-----*
+>P1;gi|19553304|ref|NP_601306.1| pullulanase [Corynebacterium glutam... [ score 140 E 2e-32 ] [ range 16 .. 146 ]
+sequence
+---AYPLGSTYDGAGTN--FALFSDVAERVELCLLDADNNE---TRIPLEERDAHIWHCYLP-------G
+VQPGQRYGFRVHGPWNP------------------DEGKRCDANKLLVDPYARAFDGDFDGHPSLFSYDI
+TNPNDPNGRDSIDHTMKSVVV-----*
+>P1;gi|23043137|ref|ZP_00074463.1| COG1523: Type II secretory pathwa... [ score 138 E 4e-32 ] [ range 9 .. 136 ]
+sequence
+--NTFPIGATVCQDPKGVNFSIYSKNATAIELLLFDEPLAAKPKQVILLDPRTHHYWHIFI-------SG
+IGAGQIYAYRVYGPFNP------------------EKGHRFDGTKVLLDPYARVVGQEKYSRKAATGN--
+--------GNNCAYALKGVVV-----*
+>P1;gi|29828693|ref|NP_823327.1| putative glycogen debranching enzym... [ score 138 E 4e-32 ] [ range 8 .. 135 ]
+sequence
+---AYPLGATYDGAGTN--FAVFSEAAHRIELCLLHDDGSETA---VELRETDAFVRHAYLP-------G
+VMPGQRYGFRVHGPFAPG------------------RGVRCNSAKLLLDPYAKAISGEIKWGEEVYGYHF
+GAPDKRNDLDSAPHTMTSVVI-----*
+>P1;gi|21223814|ref|NP_629593.1| putative glycosyl hydrolase (putati... [ score 136 E 2e-31 ] [ range 74 .. 215 ]
+sequence
+---PVPLGARFPDQVAGTNFALWAGGAEAVELCLFDGPGPGARESRVRLTELTHEIWHGFVP-------G
+VRPGQRYGYRVHGRWDPWT------------------GARWNPAKLLLDPYARAVDGDFGLPPEVYGHVR
+DADTVRDDRDSAPHVPKGVVV-----*
+>P1;gi|21225613|ref|NP_631392.1| putative glycogen debranching enzym... [ score 136 E 2e-31 ] [ range 18 .. 141 ]
+sequence
+---PYPLGAAYDGQGTN--FALFSEVAERVDLVLVDDDGN---HSTVPLPDVDGFVWHCYLP-------G
+VGPGQRYGYRVHGPWAP------------------AVGHRCNPAKLLLDPYTRAVDGLVDNHASLFERAR
+GKA---DPGDSAGHTMLGVV------*
+>P1;gi|15608702|ref|NP_216080.1| glgX [Mycobacterium tuberculosis H3... [ score 135 E 3e-31 ] [ range 23 .. 154 ]
+sequence
+--NAYPLGATYDGAGTN--FSLFSEIAEKVELCLIDEDGVE---SRIPLDEVDGYVWHAYLPN-------
+ITPGQRYGFRVHGPFDP------------------AAGHRCDPSKLLLDPYGKSFHGDFTFGQALYSYDV
+NADSTPPMVDSLGHTMTSVVI-----*
+>P1;gi|38234147|ref|NP_939914.1| glycogen operon protein [Corynebact... [ score 135 E 4e-31 ] [ range 17 .. 147 ]
+sequence
+---SYPLGSKYDGAGTN--FAIFSDVAEKVELCLIDA---ECNEERILLDEVDAHIWHCYLP-------G
+VKPGQRYGFRVHGPYNP------------------AEGKRCDPSKLLVDPYARAFDGEFDGHPSLFSYDI
+NDPENRNTEDSLEHTMKSVVV-----*
+>P1;gi|42558986|sp|Q8KR69|GLGX_ERWCH Glycogen debranching enzyme (Gl... [ score 134 E 5e-31 ] [ range 9 .. 131 ]
+sequence
+---PRPLGSHFDGEGVN--FALFSSGASRVELCIFD---GLRE-QRLPLTARTGDIWHGYLPDA------
+-QPGLCYGYRVDGAFDP------------------SRGQRFNANKLLLDPCARQMDGWVVDDQRLHGGYH
+QPDPS----DSAEVMPPSVVV-----*
+>P1;gi|29829331|ref|NP_823965.1| putative glycosyl hydrolase [Strept... [ score 134 E 7e-31 ] [ range 44 .. 182 ]
+sequence
+---PTPLGARFDGV-TGTNFALWAGGAEAVELCLFDETGAE---IRVPLTELTHEIWHGFVP-------G
+VLPGRRYGYRVHGRWDPWT------------------GARWNPAKLLLDPYARAVDGDFSLPPEVYGHVR
+DADTVRDDRDSAPYVPKGVVV-----*
+>P1;gi|25028566|ref|NP_738620.1| putative glycogen debranching enzym... [ score 133 E 1e-30 ] [ range 15 .. 146 ]
+sequence
+--DAYPLGSKYDGAGTN--FALFSDVAESVELCLVDENDNE---TRIKLEEKDNNVWHCYLP-------G
+ILPGQRYGYRVHGPWDP------------------DNGKRCDASKFLVDPYARAFVGEYDGHPSLFSYDI
+MDPENRNTEDSLPHSMKSVVV-----*
+>P1;gi|41407368|ref|NP_960204.1| GlgX_1 [Mycobacterium avium subsp. ... [ score 130 E 2e-29 ] [ range 27 .. 131 ]
+sequence
+---PYPLGASYDGAGTN--FSLFSEIAEKVELCLIDS---RGAETRIPLDEVDGYVWHAYLPN-------
+INPGQRYGFRVYGPFEP------------------SAGHRCDPSKLLLDPYGKAFHGDFTYGQALFSY--
+--------------------------*
+>P1;gi|45512234|ref|ZP_00163801.1| hypothetical protein Selo236701 [... [ score 127 E 7e-29 ] [ range 8 .. 132 ]
+sequence
+---SYPLGATV--YPTGVNFSLYTKYATGVELLLFDDPEGAQPQRTVRLDPRTSFYWHVFIP-------G
+IRSGQVYAYRVFGPYAP------------------DRGLCFNPNKVLLDPYARGVVG---WQH------Y
+SREAAIKPSNNCVQALRSVVV-----*
+>P1;gi|45527301|ref|ZP_00178501.1| hypothetical protein Cwat072601 [... [ score 124 E 9e-28 ] [ range 10 .. 137 ]
+sequence
+---SYPIGATVEKDGKGVNFCIFSKEATFIELLLFAGQNDPQPSHTIPLTNRTHYYWHIFV-------EG
+LKAGQIYAYRVHGPFD------------------LSQGHRFNPEKVLLDPYAKAIVGS---------SIY
+NREAAKQPGDNCAQALRGVVV-----*
+>P1;gi|16329290|ref|NP_440018.1| glycogen operon protein; GlgX [Syne... [ score 119 E 2e-26 ] [ range 19 .. 143 ]
+sequence
+---TFPLGATVYADGVN--FCLFSKHAERVTLLLFDRPNDPAPARTIELRNRTFYYWHVFV-------KG
+LKAGQVYAYRVDGPHEP------------------EKGHRFDPDKVLLDPYAKAIVGK---------DIY
+DRKAAMALGDNCAQALRSVVV-----*
+>P1;gi|44517932|gb|EAJ81537.1| unknown [environmental sequence] [ score 94 E 1e-18 ] [ range 4 .. 120 ]
+sequence
+---AYPLGATV--TQDGCNFAVYAPDAKAVVLCFFNSDT-EEAVSEHPLPEKTGDVWHG-------RYSG
+VSAGQYYGYRV---------ERGEGGLHAVPTD-----------KLLIDPYAKKISRAIKWDARQYKH--
+---------DSQFMIPKCIVI-----*
+>P1;gi|42631656|ref|ZP_00157194.1| COG1523: Type II secretory pathwa... [ score 93 E 2e-18 ] [ range 9 .. 130 ]
+sequence
+--NPIPMGYS-QAVENNVNFALFSAAASGVELCLFDEQNQE---TRLPMV-RTGNVWH-------LAVTG
+VKTGTEYGFRIHGEFA-------------------------NPQKLILDPYAKAVNGKPDLSSEESRSWF
+---LLSDNRDNAHLAPRAVII-----*
+>P1;gi|15890899|ref|NP_356571.1| AGR_L_1566p [Agrobacterium tumefaci... [ score 93 E 2e-18 ] [ range 7 .. 124 ]
+sequence
+----FPKGAT--RTENGVEFTVYSRHASQIDLCLFDDA-GEKETARLPMMRGEDDV-------HRLTHEN
+AGPGTRYGFRAHGIYAP------------------EHGLWFDPAKLLLDPYATEIDR----PFRHDPSLY
+AFGA-----ETGAIMPKAI-------*
+>P1;gi|15602407|ref|NP_245479.1| Glgx [Pasteurella multocida] >gi|12... [ score 91 E 9e-18 ] [ range 9 .. 133 ]
+sequence
+---PSPLGCSTEEGQDGYNFALFSQAARRVELCLFSEG----QERRVDLQPSDDGIWHIWLSDVSV----
+---GTEYAYRISGKTDRTLA---------------------NSNKLMLDPYAKAVVGKPDLSTAWFDLN-
+------DPRDNAHLAPKAVII-----*
+>P1;gi|16273268|ref|NP_439509.1| glycogen operon protein [Haemophilu... [ score 90 E 1e-17 ] [ range 9 .. 130 ]
+sequence
+--NPIPMGYS-QAVENNVNFALFSAAAIGVELCLFDEQNQE---TRLPMV-RTENVWH-------LAVTG
+VKTGTEYAFRIHGEFA-------------------------NPQKLILDPYAKAVNGKPDLSSEESRSWF
+---LLSDNRDNAHLAPRAVVI-----*
+>P1;gi|23467253|ref|ZP_00122836.1| COG1523: Type II secretory pathwa... [ score 88 E 5e-17 ] [ range 9 .. 132 ]
+sequence
+---PYPLGCTECCMEAGFNFAIYSSQASAVELCIFNKN--SVQETRYSM-YCTENIWHIWV-------AE
+LEYGTEYGFRIHG----------------------VDGSLSNPNKLMLDPYAKAVVGKPDLSCVENRAWF
+---LLEDERDNAHLAPKALI------*
+>P1;gi|11493201|emb|CAC17474.1| glycogen debranching enzyme [Rhizobi... [ score 88 E 6e-17 ] [ range 8 .. 124 ]
+sequence
+-----SLGATL--TDSGVEFAVYSRHAEQIDLCLLDA-EGRKEIARLPIARDGDE--------HRLFVRD
+AGEGTRYGLRAHGSYDPDQGLW------------------FDPSKLLVDPYTREIDRPFRYDPRLG--IF
+GA----DTQD---LMPKAIV------*
+>P1;gi|44523563|gb|EAJ85342.1| unknown [environmental sequence] [ score 87 E 1e-16 ] [ range 31 .. 126 ]
+sequence
+---PHPFGSTVESDGVN--FSLYSSSATSVQLLIFTKPDDLEPAKIIDLDNRSFNIWHAFI-------EG
+VKPGMGYAYRVDGPREPW------------------NGHRFDPEKILVDPYSK-----------------
+--------------------------*
+>P1;gi|32475809|ref|NP_868803.1| glycogen operon protein glgX-2 [Pir... [ score 81 E 6e-15 ] [ range 54 .. 169 ]
+sequence
+-----PFGATLTEKG--VQFSVFSRSATEMRLLLYNKVTDREPAQVIDFDRGTDDVWSLHVP-------G
+LEAGQLYHFQASGPWEP------------------ENGHRFDSTARLIDPYAQALAG--TYQKQTDGVVR
+P--------------PKCVVV-----*
+>P1;gi|29126649|gb|AAO17049.2| isoamylase-type starch debranching en... [ score 81 E 6e-15 ] [ range 19 .. 152 ]
+sequence
+---AFPLGVS--QVDDGLNFAIFSQHASSVTLCLNFPERGNQDIVEFALDNKTGDIWHVSV-------EG
+LPAGVLYGYRINGP------------------QGWQQGHRFDDSVILLDPYAKLVYGEKEKPSQLFGTYD
+FDSSPFDWGDN---------------*
+>P1;gi|27728149|gb|AAN15319.1| isoamylase isoform 3 [Solanum tuberosum] [ score 81 E 7e-15 ] [ range 95 .. 204 ]
+sequence
+---AHPLGVS--ETESGINFAIFSQHASAVTLCIISVHDGMIELALDPQKNRTGDIWHICIKELP-----
+-QGGVLYGYRIDGP-----RNWH-------------EGHRFDDSIILVDPYAKLIEGRRVFGDESN----
+--------------------------*
+>P1;gi|44251636|gb|EAH97240.1| unknown [environmental sequence] [ score 81 E 9e-15 ] [ range 6 .. 112 ]
+sequence
+---PLPYGAILQEGGSNVQFVVFSRHATAMRLLLYDTPEDGEPVEVISFDPRWGDVWSIFVP-------G
+LKHGQLYHFQADGPFDP------------------SAGHRFDPTARLVDPYAKALAGH------------
+--------------------------*
+>P1;gi|33863664|ref|NP_895224.1| Putative isoamylase [Prochlorococcu... [ score 81 E 9e-15 ] [ range 21 .. 118 ]
+sequence
+---PWPLGSTITTRGVN--FSVAAPTAKRVELLLFADANATQPEHILKLQPRSGDYWHV-------EVEG
+LQTGCCYGYRIFGPHNPGSDS-------------------FHPSKVLLDPCTRAISG-------------
+--------------------------*
+>P1;gi|32473385|ref|NP_866379.1| glycogen operon protein glgX-2 [Pir... [ score 80 E 2e-14 ] [ range 38 .. 141 ]
+sequence
+---PFPLGASWIAEESSFNFSLYSRHATAVHLLLYRKDDLVHPAREVELSNKSGPVWHCRVRSEHPDEW-
+----AYYAYRVDGP-APQGGYDH---------------HDFDFQKILLDPFARGV---------------
+--------------------------*
+>P1;gi|42525620|ref|NP_970718.1| alpha-amylase family protein [Trepo... [ score 80 E 2e-14 ] [ range 16 .. 150 ]
+sequence
+-----PLGAKLSCDGVN--FSVFSRNAKEIVLHLFENVEDSEPIISYKLDPKTGDVWHVFV-------SG
+LKSWAFYLYTADGEFSP------------------SAGFLFDENNYLLDPYARLISSH---------SVF
+NSEQTFNQKDSKASFPKCVVI-----*
+>P1;gi|43947864|gb|EAG29658.1| unknown [environmental sequence] [ score 79 E 3e-14 ] [ range 10 .. 132 ]
+sequence
+-----QLGATPEHDGVN--FAIWARLASRVELLLFTSADDTTP-EVIPLSPRTAYYWHIHI-------EG
+IELGQRYAYRIQGPWRPYY------------------GTRFDADKVLLDPYGRSIANYDRWAAARPGSNL
+AVCAKNRVVD----------------*
+>P1;gi|16923279|dbj|BAB72000.1| isoamylase [Hordeum vulgare subsp. v... [ score 79 E 4e-14 ] [ range 87 .. 199 ]
+sequence
+---PAPLGAT--ALAGGVNFAVYSGGATAAALCLFKADRVSEEVPLDPLMNRTGDVWHVFL-------EG
+ELHGMLYGYRFDGTFAPHC------------------GHYFDVSNVVVDPYAKAVISREEYGVPAHGN--
+--------------------------*
+>P1;gi|15966601|ref|NP_386954.1| PROBABLE GLYCOSYL HYDROLASE PROTEIN... [ score 78 E 8e-14 ] [ range 8 .. 99 ]
+sequence
+-----PLGVT--RTPDGTRFTVWSHNAARIDLCLFDEA-GNTELSRLPM-QRDGDVHSIALPD-------
+IAAGTRYGLRAEGVYSP------------------DHGLWFDPSKLLVDPYAAQLD--------------
+--------------------------*
+>P1;gi|13476307|ref|NP_107877.1| glycosyl hydrolase [Mesorhizobium l... [ score 78 E 9e-14 ] [ range 3 .. 123 ]
+sequence
+-----PLGATV--TPEGIRFAVWSSSARRLWVSLFD-GQGNRELDRLELQSEGEGMHALFVPR-------
+LAAGTRYGFRADGDYAPDRGLW------------------FDPDKLLTDPYAVEI-------DRPYAYHW
+RLAARRNEGDTAPLMPKTVA------*
+>P1;gi|32492888|gb|AAP85534.1| isoamylase [Chlamydomonas reinhardtii... [ score 77 E 1e-13 ] [ range 97 .. 211 ]
+sequence
+---PAPLGASIDADTGAINFSVFSSSAESVSLVLFTEADLNAGRATFEIPNRTGDVWHIMLPD-------
+LRDDLLYGYRVEGVHQ--------------EEDKDYPGMRHDKRRVVLDPYAVAVLNRRRWGQM------
+--------------------------*
+>P1;gi|22328517|ref|NP_192641.2| isoamylase, putative / starch debra... [ score 76 E 3e-13 ] [ range 92 .. 196 ]
+sequence
+-----PLGVS--QVDKGINFALFSQNATSVTLCLSDDTDDDGMIELVLDPNKTGDTWHICVEDLPLNN--
+----VLYGYRVDGP------------------GEWQQGHRFDRSILLLDPYAKLVKGH------------
+--------------------------*
+>P1;gi|22973757|ref|ZP_00020266.1| hypothetical protein [Chloroflexu... [ score 75 E 6e-13 ] [ range 5 .. 61 ]
+sequence
+----------------------------------------------------------------------
+-------------------------------------GHRFNPHKLLIDPYARALCGELTWDKANYGYRV
+DSDLTIGKRDSAPYIPRSVVI-----*
+>P1;gi|16330244|ref|NP_440972.1| glycogen operon protein; GlgX [Syne... [ score 73 E 2e-12 ] [ range 22 .. 146 ]
+sequence
+---PFPFGATI--VPGGVNFSIYSSHSTACTLVLF-EKRAPQPFVEIPFPERIGNVYCMVVFDLDFEN--
+----LEYGYRMEGPNN------------------FQQGHWFDPSKVLLDPYAKVVSGRDVWGTQPNDDIY
+QGRLSFDDFD----------------*
+>P1;gi|27728145|gb|AAN15317.1| isoamylase isoform 1 [Solanum tuberosum] [ score 72 E 5e-12 ] [ range 83 .. 182 ]
+sequence
+---PLPFGAT--ATDGGVNFAVFSRNATAATLCLIDLPEKRVTEQIFPLANKTGDVWHVFL-------KG
+DFENMLYGYKFDGKFCP------------------EEGHYFDSSQIVLDPYAKAI---------------
+--------------------------*
+>P1;gi|20090848|ref|NP_616923.1| glycogen debranching enzyme [Methan... [ score 72 E 5e-12 ] [ range 13 .. 154 ]
+sequence
+---PHPPGATCDEEGVN--FSIYSEHADYVELLLFDSTNRVEELTRIAL-NKTFHFWHVYI-------RG
+LKPGVHYAYRIGGPFDPSG------------------GYRFDGGKVLIDPYSR-----------------
+--------------------------*
+>P1;gi|29788240|dbj|BAC75533.1| isoamylase [Oryza sativa (japonica c... [ score 71 E 8e-12 ] [ range 101 .. 200 ]
+sequence
+---PAPLGAT--ALDGGVNFAVYSAGASAASLCLFTPDDLEADEVTEEVPNRTGNVWHVFI-------EG
+ELHNMLYGYRFDGMFAPHC------------------GQYFDVSNVVVDPYAKAV---------------
+--------------------------*
+>P1;gi|33240852|ref|NP_875794.1| Glycogen debranching enzyme [Prochl... [ score 71 E 8e-12 ] [ range 21 .. 118 ]
+sequence
+---AWPLGSSITKRGVN--FSVAAPNASYVELLLFNNANDSTPKEIVKLENKSGDYWH-------IEVEG
+ITIGCNYAYRVYG----------------KGDLGDANKHC---GKILLDPCAREISG-------------
+--------------------------*
+>P1;gi|7443641|pir||T01321 probable isoamylase (EC 3.2.1.68) su1 - m... [ score 70 E 2e-11 ] [ range 85 .. 185 ]
+sequence
+---PAPLGAT--ALRGGVNFAVYSSGASAASLCLFKADRVTEEVPLDPLLNRTGNVWHVFIHGDQLH---
+---GMLYGYRFDGVFAP------------------ERGQYYDVSNVVVDPYAKAV---------------
+--------------------------*
+>P1;gi|16905063|gb|AAL31015.1| isoamylase precursor; glycogen 6-gluc... [ score 70 E 3e-11 ] [ range 88 .. 200 ]
+sequence
+---PAPLGAT--ALAGGVNFAVYSGGATAAALCLFKADRVTEEVPLDPLMNRTGNVWHVFI-------EG
+ELHNMLYGYRFDGTFAPHC------------------GHYLDVSNVVVDPYAKAVISRGEYGVPARGN--
+--------------------------*
+>P1;gi|17932898|emb|CAC82925.1| isoamylase [Triticum aestivum] [ score 69 E 3e-11 ] [ range 83 .. 195 ]
+sequence
+---PTPLGAT--ALAGGVNFAVYSGGATAAALCLFKADRVTEEVPLDPLMNRTGNVWHVFI-------EG
+ELQDMLYGYRFDGTFAPHC------------------GHYLDVSNVVVDPYAKAVISRGEYGVPARGN--
+--------------------------*
+>P1;gi|31096626|gb|AAP44579.1| isoamylase [Aegilops tauschii] [ score 69 E 3e-11 ] [ range 89 .. 201 ]
+sequence
+---PAPLGAT--ALAGGVNFAVYSGGATAAALCLFKADRVTEEVSLDPLMNRTGNVWHVFI-------EG
+ELHDMLYGYRFDGTFAPHC------------------GHYLDISNVVVDPYAKAVISRGEYGVPARGN--
+--------------------------*
+>P1;gi|44116129|gb|EAH21205.1| unknown [environmental sequence] [ score 69 E 4e-11 ] [ range 1 .. 89 ]
+sequence
+--------------------------ADRIELLIFERASAPTPERVIELDARSGDYWHVEL-------EG
+VGEGCCYGYRVFGPLAPG-------------------GHGFQPAKVLVDPAARAISWDVYDRVLATG---
+--------------------------*
+>P1;gi|44100748|gb|EAH13070.1| unknown [environmental sequence] [ score 69 E 4e-11 ] [ range 8 .. 106 ]
+sequence
+---AWPLGSM--ALADGVNFSIGAPRATKVELLLFEHENAAEPQRVIELNPRSGDYWHVH-------IGG
+IGIGCCYGYRVYGP-------------------VSSAGHGFHPGKVLLDPCARAIGG-------------
+--------------------------*
+>P1;gi|44422347|gb|EAJ15974.1| unknown [environmental sequence] [ score 66 E 2e-10 ] [ range 3 .. 89 ]
+sequence
+------------------NFSVYAPDALALWLCLFCADT-EEPLAEIEFFARTGESWHLHV-------AG
+IEQGTLYGLRAEG------------------VCQASSGLVFDRNRLLIDPYAKQLNRALVW---------
+--------------------------*
+>P1;gi|23107898|ref|ZP_00094151.1| COG1523: Type II secretory pathwa... [ score 66 E 2e-10 ] [ range 14 .. 115 ]
+sequence
+-------------------FSVRSPRAEALTLCLFED----EAEQRIAMTRVGDN-WIVEIPRDLR----
+---GIRYGYRASGEWNPPDGLW------------------FDPAKLLVDPYAIELDGSFVQHTSLSTY--
+-------GADTSKIVPKAVV------*
+>P1;gi|43513420|gb|EAE11429.1| unknown [environmental sequence] [ score 66 E 4e-10 ] [ range 8 .. 139 ]
+sequence
+---PAPFGPSTTEDG-GINFCVYSEAASEVTLCVYDGDW-SETTPRLEVPKRTGNTWHVCVTSGAPKK--
+---GARYGYRCRG------------------NGGWETGARWEDARVLMDPYAHETRGDVNDPDMLSGYDF
+ESAP----------------------*
+>P1;gi|4929175|gb|AAD33889.1| isoamylase 1 [Hordeum vulgare] [ score 65 E 6e-10 ] [ range 15 .. 122 ]
+sequence
+-------GATALAGGVN--FAVYSAEPPRA-LCLFKADRVSEEVPLDPLMNRTGDVWHVFL-------EG
+ELHGMLYGYRFDGTFAPHC------------------GHYFDVSNVVVDPYAKAVISREEYGVPAHGN--
+--------------------------*
+>P1;gi|27728147|gb|AAN15318.1| isoamylase isoform 2 [Solanum tuberosum] [ score 63 E 1e-09 ] [ range 221 .. 313 ]
+sequence
+---PAPLGISFQPDG-SVNFALFSRSARSVVLCLYDDISVEKPSLEIDLDPYSGDIWHAALDCSLPFKT-
+------YGYRC------KATTSGKGEL------------------VLLDPYAKVI---------------
+--------------------------*
+>P1;gi|23042506|ref|ZP_00073886.1| COG1523: Type II secretory pathwa... [ score 62 E 4e-09 ] [ range 24 .. 131 ]
+sequence
+---PFPFGATMVSGGVN--FSIFSSYATSCTLVLF-QKGALKPMAEIPFPERIGNVYCMIVFDLDVENIE
+------YGYRMDGPNNFHEGQW------------------FDKSKILMDPYAKIIGGRDVWGKTPN----
+--------------------------*
+>P1;gi|15225595|ref|NP_181522.1| isoamylase, putative / starch debra... [ score 62 E 4e-09 ] [ range 74 .. 173 ]
+sequence
+---PSPFGPTV--RDDGVNFSVYSTNSVSATICLISLSDLRQNKEEIQLDPRTGHVWHVFL-------RG
+DFKDMLYGYRFDGKFSP------------------EEGHYYDSSNILLDPYAKAI---------------
+--------------------------*
+>P1;gi|15218771|ref|NP_171830.1| isoamylase, putative / starch debra... [ score 62 E 5e-09 ] [ range 229 .. 332 ]
+sequence
+AGHPLPLGLSSGPDDDSWNFSFFSRSSTNVVLCLYDDSTTDKPALELDLDPYTGDVWHASVDNTWDF---
+----VRYGYR-------------CKETAHSKEDVDVEGE-----PIVLDPYATVVG--------------
+--------------------------*
+>P1;gi|23466125|ref|NP_696728.1| probable glycogen operon protein Gl... [ score 61 E 1e-08 ] [ range 84 .. 186 ]
+sequence
+----------------------------------------RETLFRMTGPNY--GLWYVHLPKAWD----
+---GMRYGYRVDGAWDPK------------------HGVRFNPYKFLLDPYGKGIDGSMELTPAAFSYVT
+GSAGAMSTVDSLGHVPVSVAI-----*
+>P1;gi|42839555|gb|EAA87229.1| unknown [environmental sequence] [ score 60 E 3e-08 ] [ range 1 .. 76 ]
+sequence
+----------------------------------------------------------------SIHIAP
+LTTGALYGFRVEGEYNPDT------------------GSLFNEHKLLIDPYAKDLFGEFTWSERHYGQMP
+IG--TKSTVNNAIDIPKSKV------*
+>P1;gi|15618303|ref|NP_224588.1| Glycogen Hydrolase (debranching) [C... [ score 58 E 6e-08 ] [ range 11 .. 104 ]
+sequence
+---PLPLGASKI-SPNRYRFALYASQATEVILALTDENSEVIEVPLYPDTHRTGAIWH-------IEIEG
+ISDQSSYAFRVHGP--------------------KKHGMQYSFKEYLADPYAKNI---------------
+--------------------------*
+>P1;gi|29840170|ref|NP_829276.1| glycosyl hydrolase family protein [... [ score 58 E 6e-08 ] [ range 11 .. 141 ]
+sequence
+---PLPLGAT-QLSSHRYRFALFSSQATQVVLALSDKNSHIQEIVLSHEKNRTGAVWH-------IEVEG
+ISDQWSYAFRVDGPTNTTA--------------------KFDFKKYLADPYAKNLGSIKTSGDYAFSYLK
+NEEFSW-EGDHCLNLPK---------*
+>P1;gi|28901500|ref|NP_801155.1| glycogen operon protein GlgX [Vibri... [ score 55 E 5e-07 ] [ range 8 .. 114 ]
+sequence
+---PYPLGATLNKEGCN-----FSIHAPGVQLALFASD-GSYSLH--DLPNEYAGIRHTFIPD-------
+IKPGQKYGYVVTRRDEPL---------------------------LISDPYAKSL-----DKALHYHPPY
+TPAKSFD-------MPKCVVI-----*
+>P1;gi|23050170|ref|ZP_00077128.1| COG1523: Type II secretory pathwa... [ score 55 E 7e-07 ] [ range 25 .. 202 ]
+sequence
+---PHPLGATPDENGVN--FSIYSEHADYVELLLFDKCDDLNP-ALILYTNRVGELTHVKVSENSETTEA
+TSIALNKTFHFWHVYVRGLKPGVHYAYRIGGPFDPSRGCRFDGDKVLIDPYSK-----GNNKTLWN----
+-REKACMPGDNLAFSMRSVVI-----*
+>P1;gi|29126647|gb|AAO17048.3| isoamylase-type starch debranching en... [ score 55 E 8e-07 ] [ range 148 .. 241 ]
+sequence
+---PSPLGLSQSKDGA-ANFAVYSKIAKGMVLCLFGGGGGDGPALEIELDPYTGDVWHVSM-------ES
+VEGYARYGFR-------------SGLFAMFGIDRP-----------LLDPYAKVIG--------------
+--------------------------*
+>P1;gi|43971030|gb|EAG42307.1| unknown [environmental sequence] [ score 55 E 8e-07 ] [ range 9 .. 37 ]
+sequence
+---PAPLGASYDGKGVN--FALFSAHAERVELCV------------------------------------
+----------------------------------------------------------------------
+--------------------------*
+>P1;gi|33861878|ref|NP_893439.1| Putative isoamylase [Prochlorococcu... [ score 54 E 1e-06 ] [ range 9 .. 129 ]
+sequence
+---PLPLGSSITSGGVN--FSLIATNAEYIEILLFEKEDSVAPKTIFKLSHKTGSYWHAEI-------NN
+LKEGSIYAFRV---------------------KQNDNGLNKNYSKVLIDPCSRGITG-------WSNYKR
+KNAL--NNIDNMDCCLKSVV------*
+>P1;gi|15601782|ref|NP_233413.1| glycogen operon protein GlgX [Vibri... [ score 53 E 2e-06 ] [ range 8 .. 113 ]
+sequence
+---PFPLGATLDAEGCN--FAIYAPANRDILLALFHAD-GSYETHQLE---------HEYAGVKHTHISG
+IHAGQKYGY-----------LIQLNDELHYIS----------------DPYARALEG-----PLHYAPPF
+DSHKSFD-------LPKCVV------*
+>P1;gi|37675712|ref|NP_936108.1| type II secretory pathway, pullulan... [ score 52 E 4e-06 ] [ range 17 .. 122 ]
+sequence
+---PYPLGATL--HDKGCNFAVHSPDCASIRLALFDDNN---EFKTFELCEEYAGIRYTFVEN-------
+VQHGQKYGYIIDTDNGPL---------------------------LLSDPYAKALDG-----PLHYQTPY
+SAEKSFS-------MPKCVV------*
+>P1;gi|44112497|gb|EAH19308.1| unknown [environmental sequence] [ score 51 E 1e-05 ] [ range 2 .. 65 ]
+sequence
+-------------------------------------------------SARTGDIWH-------LAVAG
+IAPGTLYAFKADGPKQPG------------------QGLLFDNERILLDPYVKQLNRSISFNERLYGT--
+--------------------------*
+>P1;gi|7443640|pir||T02231 probable isoamylase (EC 3.2.1.68) su1 - m... [ score 50 E 1e-05 ] [ range 114 .. 214 ]
+sequence
+---PAPLGAT--ALRGGVNFAVYSSGASAASLSLFKADRVTEEVPLDPLLNRTGNVWHVFIHGDELH---
+---GMLCGYRFDGVFAP------------------ERGQYYDVSNVVVDPYAKAV---------------
+--------------------------*
+>P1;gi|41687960|dbj|BAD08581.1| 85kDa isoamylase [Hordeum vulgare su... [ score 50 E 3e-05 ] [ range 144 .. 235 ]
+sequence
+---PAPLGLSLSEAGA-ANFALYSRGAEGVLLCLYGRGGGGGEPAEIELDPRTGNVWHVSL-------ES
+VEGYFSYGFRLFGADHP-----------------------------LLDPYAKLIG--------------
+--------------------------*

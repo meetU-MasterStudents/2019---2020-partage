@@ -1,0 +1,156 @@
+>P1;1svfa
+structureX:1svf: 122 :A: 185 :A:fusion glycoprotein precursor [contains fusion glycoprotein f2]:Simian virus 5: 1.40: 18.1
+--------TAAVALVKANENAAAILNLKNAIQKTNAAVADVVQATQSLGTAVQAVQDHINSVVSPAITAA
+NY*
+>P1;1svfb
+structureX:1svf: 440 :B: 477 :B:fusion glycoprotein precursor [contains fusion glycoprotein f2]:Simian virus 5: 1.40: 18.1
+QILSIDPL--------DISQNLAAVNKSLSDALQHLAQSDTYLSAI------------------------
+--*
+>P1;gi|628300|pir||S47299 gene F protein - rinderpest virus >gi|5353... [ score 97 E 9e-20 ] [ range 218 .. 280 ]
+sequence
+--------TAGIALHQSMMNSQAIESLKTSLEATNQAVEEIRQAGQEMILAVQGVQDYINNELVPAVGQL
+S-*
+>P1;gi|14531022|gb|AAK63190.1| fusion protein [Rinderpest virus] [ score 97 E 1e-19 ] [ range 128 .. 190 ]
+sequence
+--------TAGIALHQSMMNSQAIESLKASLETTNQAIEEIRQAGQEMILAVQGVQDYINNELVPAMGQL
+S-*
+>P1;gi|11120551|gb|AAG30919.1| fusion protein F [canine distemper vi... [ score 96 E 1e-19 ] [ range 244 .. 302 ]
+sequence
+--------TAGIALHQSNLNAQAIQSLRTSLEQSNKAIEEIREATQETVIAVQGVQDYVNNELVPAM---
+--*
+>P1;gi|2059320|dbj|BAA19841.1| fusion protein [Measles virus] [ score 96 E 3e-19 ] [ range 135 .. 197 ]
+sequence
+--------TAGIALHQSMLNSQAIDNLRASLETTNQAIEAIRQAGQEMILAVQGVQDYINNELIPSMNQL
+S-*
+>P1;gi|1085797|pir||S55386 cell fusion protein - peste-des-petits-ru... [ score 94 E 9e-19 ] [ range 128 .. 190 ]
+sequence
+--------TAGVALHQSLMNSQAIESLKTSLEKSNQAIEEIRLANKETILAVQGVQDYINNELVPSVHRM
+S-*
+>P1;gi|476361|pir||A48346 cell fusion glycoprotein precursor - phoci... [ score 93 E 1e-18 ] [ range 213 .. 271 ]
+sequence
+--------TAGVALYQSNLNAQAIQSLRASLEQSNKAIDEVRQASQNIIIAVQGVQDYVNNEIVPAL---
+--*
+>P1;gi|632002|pir||S47034 cell fusion protein precursor - porpoise m... [ score 93 E 2e-18 ] [ range 134 .. 196 ]
+sequence
+--------TAGIALHQSIMNSQSIDNLRTSLEKSNQAIEEIRQASQETVLAVQGVQDFINNELIPSMHQL
+S-*
+>P1;gi|6049657|gb|AAF02706.1| fusion protein [Measles virus] [ score 92 E 4e-18 ] [ range 132 .. 194 ]
+sequence
+--------TAGIALHQSMLNSQTIDNLRASLETTNQAIEAIRQAGQEMILAVQGVQDYINNELIPSMKQL
+S-*
+>P1;gi|60560|emb|CAA34575.1| fusion protein (alt.) [Measles virus] [ score 91 E 7e-18 ] [ range 132 .. 194 ]
+sequence
+--------TAGIALHQSMLNSQAIDNLRASLETTNQAIEAIKQVGQEMILAVQGVQDYINNELIPSMNQL
+S-*
+>P1;gi|41057599|ref|NP_958053.1| fusion protein [Mossman virus] >gi|... [ score 89 E 2e-17 ] [ range 124 .. 184 ]
+sequence
+--------TAGVALYEARQNAAAIAEIKESLHYTHKAIESLQISQKQTVVAIQGIQDQINTNIIPQINA-
+--*
+>P1;gi|9634113|ref|NP_037644.1| fusion F [Bovine parainfluenza virus... [ score 86 E 2e-16 ] [ range 129 .. 189 ]
+sequence
+--------TAAVALVEAKQAKSDIEKLKEAIRDTNKAVQSIQSSVGNLIVAVKSVQDYVNNEIIPSITR-
+--*
+>P1;gi|1262232|gb|AAB48688.1| fusion protein [ score 84 E 1e-15 ] [ range 129 .. 189 ]
+sequence
+--------TAAVALVEAKQARSDIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIAR-
+--*
+>P1;gi|15081571|ref|NP_150060.1| fusion protein [Avian paramyxovirus... [ score 81 E 9e-15 ] [ range 138 .. 197 ]
+sequence
+--------TAALALNQAQDNAKAILNLKESITKTNEAVLELKDATGQIAIALDKTQRFINDNILPAIN--
+--*
+>P1;gi|40218086|gb|AAR82967.1| fusion protein [Canine parainfluenza ... [ score 81 E 1e-14 ] [ range 122 .. 184 ]
+sequence
+--------TAAVALVKANKNAAAILNLKNAIQKTNTAVADVVQATQSLGTAVQAVQDHINSVVSPAITAA
+N-*
+>P1;gi|7672798|gb|AAF66647.1| fusion protein [Mumps virus] [ score 80 E 1e-14 ] [ range 122 .. 184 ]
+sequence
+--------TAAVSLVQAQTNARAIAAMKNSIQATNRAVFEVKEGTQQLAIAVQAIQDHINTIMNTQLNNM
+S-*
+>P1;gi|6070394|dbj|BAA85590.1| SV5 fusion protein [Simian parainflue... [ score 80 E 1e-14 ] [ range 122 .. 184 ]
+sequence
+--------TAAVALVKANKNAVAILNLKNAIQKTNAAVADVVQATQSLGTAVQAVQDHINSVVSPAITAA
+N-*
+>P1;gi|13561946|gb|AAK30580.1| fusion protein [reptilian paramyxovirus] [ score 80 E 1e-14 ] [ range 28 .. 88 ]
+sequence
+--------TAGIALANTIKNAEAIESLKSSIQASNKAIQKVIDAQGRTVTVINGIQDHINSVINPALNQ-
+--*
+>P1;gi|1255651|dbj|BAA08627.1| fusion protein [Human parainfluenza v... [ score 79 E 3e-14 ] [ range 123 .. 185 ]
+sequence
+--------TAAIGLAKAQENAQLILTLKKAAKETNDAVRDLTKSNKIVARMISAIQNQINTIIQPAIDRI
+N-*
+>P1;gi|1255649|dbj|BAA08626.1| fusion protein [Human parainfluenza v... [ score 78 E 5e-14 ] [ range 123 .. 185 ]
+sequence
+--------TAAIGLAKAQENAKLILTLKKAATETNEAVRDLANSNKIVVKMISAIQNQINTIIQPAIDQI
+N-*
+>P1;gi|34482043|ref|NP_899659.1| fusion protein F [Fer-de-lance viru... [ score 78 E 7e-14 ] [ range 130 .. 190 ]
+sequence
+--------TAGIALSNTIKNAEAIESIKSSIQASNQAIQKVIDAQGRTVTVINGIQDHINSVINPALNQ-
+--*
+>P1;gi|9634974|ref|NP_054695.1| fusion protein [Tupaia paramyxovirus... [ score 77 E 1e-13 ] [ range 128 .. 188 ]
+sequence
+--------TAGVALHRAEQNARNIAALKDALRNSNEAIQHLKDAQGHTVLAIQGLQEQINNNIIPKLKE-
+--*
+>P1;gi|4630854|dbj|BAA76975.1| fusion protein [Mumps virus] [ score 76 E 2e-13 ] [ range 122 .. 184 ]
+sequence
+--------TAAVSLVQAQTNARAIAAMNDSIQGTNGAVFEVKEGTQQLAIAVQAIQDHINTIMNTQLNNM
+S-*
+>P1;gi|14290096|gb|AAK59248.1| fusion protein [Rinderpest virus] [ score 76 E 3e-13 ] [ range 49 .. 111 ]
+sequence
+--------TAGIALHQSMMNTQAIVSLKASLETTNQAIEEIRLAGQEMILAVQGVQDYINNELVPAMVQL
+S-*
+>P1;gi|1808667|emb|CAA71761.1| fusion protein [Porcine rubulavirus] [ score 74 E 6e-13 ] [ range 125 .. 183 ]
+sequence
+--------TAAVALVRANKNAEKVEQLSQALGETNAAISDLIDATKNLGFAVQAIQNQINTAILPQI---
+--*
+>P1;gi|478551|pir||PQ0871 cell fusion protein - rinderpest virus (st... [ score 74 E 7e-13 ] [ range 43 .. 105 ]
+sequence
+--------TAGIALHQSMMNSQAIESLKSSLEATNQAVEEIRQAGQEMILAVQGVQDYINNELVPAMGQL
+S-*
+>P1;gi|475023|dbj|BAA03087.1| fusion protein [Avian paramyxovirus 2]... [ score 74 E 7e-13 ] [ range 118 .. 180 ]
+sequence
+--------TAAVALNQAQENARNIWRLKESIKKTNEAVLELKDGLATTAIALDKVQKFINDDIIPQIKDI
+D-*
+>P1;gi|7444519|pir||T08210 cell fusion glycoprotein [imported] - Hen... [ score 74 E 1e-12 ] [ range 129 .. 191 ]
+sequence
+--------TAGVALYEAMKNADNINKLKSSIESTNEAVVKLQETAEKTVYVLTALQDYINTNLVPSIDQI
+S-*
+>P1;gi|478547|pir||PQ0866 cell fusion protein - rinderpest virus (st... [ score 72 E 4e-12 ] [ range 43 .. 105 ]
+sequence
+--------TAGIALHQSMMNSQAIESLKASLESTNQAIEEIRQAGQEMILAVQGVQDYINHELVPAMGQL
+S-*
+>P1;gi|22003848|ref|NP_665869.1| fusion protein [Tioman virus] >gi|2... [ score 70 E 1e-11 ] [ range 124 .. 186 ]
+sequence
+--------TAAVALVEARQNAAQIQSLSEAIQNTNLAVNELKTAIGASATAIQAIQTQINEVINPAINRL
+S-*
+>P1;gi|14423130|gb|AAK62283.1| fusion protein [Menangle virus] [ score 70 E 1e-11 ] [ range 125 .. 187 ]
+sequence
+--------TAAVALVETRENAGKIQALSESIQNTNQAVHSLKTALGFSATAIQAIQNQVNEVINPAINKL
+S-*
+>P1;gi|20384698|gb|AAL62340.1| Angrgm-52 [Homo sapiens] [ score 69 E 2e-11 ] [ range 127 .. 187 ]
+sequence
+--------TAGVALHNSIQNANAILTLKDSIRQSNKAIQELQTAMSTTVVVLNALQDQINNQLAPAINS-
+--*
+>P1;gi|476779|pir||A37483 F protein - Murayama virus MrV >gi|538242|... [ score 68 E 7e-11 ] [ range 116 .. 178 ]
+sequence
+--------TAAVALNQAQENARNIWRLKESIKKTNEADLELKEGLTSTAIALDKVQKFINEDIIPQIKEL
+D-*
+>P1;gi|20152958|gb|AAM13432.1| fusion protein precursor [Newcastle d... [ score 67 E 7e-11 ] [ range 136 .. 198 ]
+sequence
+--------TAAAALIQANQNAANILRLKESIAATNEAVHEVTDGLSQLAVAVGKMQQFVNDQFNNTVREL
+D-*
+>P1;gi|9988560|gb|AAG10687.1| fusion glycoprotein [Chimeric human pa... [ score 67 E 1e-10 ] [ range 126 .. 188 ]
+sequence
+--------TAAVAIVKANANAAAINNLASSIQSTNKAVSDVITASRTIATAVQAIQDHINGAIVNGITSA
+S-*
+>P1;gi|37993601|gb|AAR06899.1| fusion protein [Newcastle disease virus] [ score 67 E 1e-10 ] [ range 136 .. 191 ]
+sequence
+--------TAASALIQANQNAATILWLKESIAATNEAVHEVTDGLSQLAVAVGKMQQFVNDQFN------
+--*
+>P1;gi|334928|gb|AAB06519.1| fusion protein [ score 66 E 3e-10 ] [ range 136 .. 196 ]
+sequence
+--------TAGIALAEAREAKRDIALIKESMTKTHKSIELLQNAVGEQILALKTLQDFVNDEIKPAISE-
+--*
+>P1;gi|6070394|dbj|BAA85590.1| SV5 fusion protein [Simian parainflue... [ score 69 E 5e-11 ] [ range 440 .. 477 ]
+sequence
+QILPIDPL--------DISQNLAAVNKSLSDALQHLAQSDTYLSAI------------------------
+--*

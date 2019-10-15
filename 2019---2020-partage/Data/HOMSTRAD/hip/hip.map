@@ -1,0 +1,416 @@
+>P1;1hpi
+structureX:1hpi:   1 : :  71 : :high potential iron-sulfur protein, isozyme 2:Ectothiorhodospira vacuolata: 1.80:16.30
+---MERLSEDDPAAQALEYRHDASSVQH-PAYE-----EGQTCLNCLLYTDAS---AQDWGPCS--VFPG
+K-LVSANGWCTAWVAR--*
+>P1;2hipa
+structureX:2hip:   1 :A:  71 :A:high potential iron-sulfur protein, isozyme 1:Ectothiorhodospira halophila: 2.50:18.40
+---EPRAEDG----HAHDYVNEAADASGHPRYQ-----EGQLCENCAFWGEAVQ---DGWGRCTHPDFDE
+V-LVKAEGWCSVYAPAS-*
+>P1;1ckua
+structureX:1cku:   1 :A:  85 :A:high potential iron-sulfur protein:Chromatium vinosum: 1.20: -1
+SAPANAVAADDATAIALKYNQDATKSERVAAARPGLPPEEQHCANCQFMQADAAGATDEWKGCQ--LFPG
+K-LINVNGWCASWTLKAG*
+>P1;1isua
+structureX:1isu:    1 :A:  62 :A:high potential iron-sulfur protein:Rhodocyclus tenius: 1.50:17.30
+----GTNA---AMRKAFNYQDTAKN--------------GKKCSGCAQFVPGASP--TAAGGCK--VIPG
+DNQIAPGGYCDAFIVKK-*
+>P1;3hipa
+structureX:3hip: 102 :A: 183 :A:high potential iron-sulfur protein:Chromatium purpuratum:2.8:22.4
+-VPANAVTESDPAAVALKYHRDAASSERVAAARPGLPPEEQHCENCQFMNPDS--AAADWKGCQ--LFPG
+K-LINLSGWCASWTLRAG*
+>P1;gi|24636913|sp|P83342|HPI2_ECTMO High potential iron-sulfur prot... [ score 110 E 9e-24 ] [ range 3 .. 73 ]
+sequence
+---LERLSEDDATAQALSYTHDASGVTH-DSYQ-----EGSRCSNCLLYSNPD---AKDWGPCS--VFPK
+H-LVAEGGWCTAWVGR--*
+>P1;gi|729760|sp|P38941|HPI1_ECTVA High potential iron-sulfur protei... [ score 110 E 1e-23 ] [ range 2 .. 71 ]
+sequence
+----ERLDENSPEALALNYKHDGASVDH-PSHA-----AGQKCINCLLYTDPS---ATEWGGCA--VFPN
+K-LVNANGWCTAYVAR--*
+>P1;gi|24636912|sp|P83341|HPI1_ECTMO High potential iron-sulfur prot... [ score 107 E 6e-23 ] [ range 2 .. 71 ]
+sequence
+----EKLEESSAEAKALSYVHDATTSGH-DSYQ-----EGQKCINCLLYTDPS---QEEWGGCA--VFPG
+K-LVNANGWCTAYVAR--*
+>P1;gi|22988548|ref|ZP_00033612.1| hypothetical protein [Burkholderi... [ score 107 E 8e-23 ] [ range 31 .. 102 ]
+sequence
+-----KVSESDPTAQALGYKEDASKVKF-AKYA-----AGQDCGNCSFFQGKP---TDAYAPCP--MFAG
+K-QVAAKGWCSAYNKK--*
+>P1;gi|44386422|gb|EAI90780.1| unknown [environmental sequence] [ score 106 E 2e-22 ] [ range 32 .. 100 ]
+sequence
+-----RLSEADPKAQAVGYTEDASKVKF-PGYA-----AGQTCANCSLFQGKA---TDAYGGCT--LFGD
+K-QVAAHGWCSSY-----*
+>P1;gi|44447959|gb|EAJ33692.1| unknown [environmental sequence] [ score 105 E 3e-22 ] [ range 32 .. 102 ]
+sequence
+------VQESDANAQALGYRTDASKVKY-PKFQ-----AGQACANCQFFQGKA---GDATAPCT--IFGG
+K-QVHATGWCSAYVKK--*
+>P1;gi|22987160|ref|ZP_00032244.1| hypothetical protein [Burkholderi... [ score 104 E 4e-22 ] [ range 33 .. 100 ]
+sequence
+------LSESDPKAQAVGYKEDVSRVKF-PSYA-----AGQTCGNCSLFQGKA---TDAYGGCT--LFGD
+K-QVAARGWCSSY-----*
+>P1;gi|44404097|gb|EAJ03201.1| unknown [environmental sequence] [ score 104 E 5e-22 ] [ range 31 .. 102 ]
+sequence
+-----KVAETDPTAQALGYKADASKVKF-AKYA-----AGQDCGNCSFYQGKP---TDPYAGCP--MFAG
+K-QVASKGWCSAYNKK--*
+>P1;gi|44360197|gb|EAI72053.1| unknown [environmental sequence] [ score 101 E 3e-21 ] [ range 30 .. 102 ]
+sequence
+----QKVSDADATAQALGYKSNATKVKY-AKYA-----SGQICGNCTFYQGKT---GDAFAPCP--MFGG
+K-QVAGKGWCSAYSKK--*
+>P1;gi|44349091|gb|EAI64025.1| unknown [environmental sequence] [ score 101 E 5e-21 ] [ range 32 .. 102 ]
+sequence
+------VLESDANAQALGYKTDASKVDH-AKYA-----AGQACASCQFFQGKA---GDATAPCT--IFAG
+K-QVNAKGWCSAYVKK--*
+>P1;gi|44643026|gb|EAK69643.1| unknown [environmental sequence] [ score 100 E 5e-21 ] [ range 32 .. 101 ]
+sequence
+------LAESDPTATALGYKADATKVKY-PKYA-----AGQDCAACMLYQGKK---GSASGPCG--AFPG
+K-QVSAKGWCSAFSK---*
+>P1;gi|44418646|gb|EAJ13181.1| unknown [environmental sequence] [ score 99 E 2e-20 ] [ range 35 .. 105 ]
+sequence
+------VQETDANARALGYKADAGRVKY-PKFH-----AGDACANCQFFQGKA---GAATGPCA--VFGG
+K-QVNAKGWCNSYTKK--*
+>P1;gi|123483|sp|P00262|HPIS_CHRGR High potential iron-sulfur protei... [ score 98 E 6e-20 ] [ range 7 .. 81 ]
+sequence
+------VTESDPTAVALKYHRNAEASER-VAAA-----EEQHCENCQFLPDQG---ADEWRGCS--LFPG
+K-LINLDGWCASWTLR--*
+>P1;gi|3929398|sp|P00260|HPIS_CHRVI High potential iron-sulfur prote... [ score 97 E 1e-19 ] [ range 44 .. 120 ]
+sequence
+------VAADDATAIALKYNQDATKSER-VAAA-----EEQHCANCQFMQADA---ADEWKGCQ--LFPG
+K-LINVNGWCASWTLK--*
+>P1;gi|17547805|ref|NP_521207.1| PROBABLE HIGH POTENTIAL IRON-SULFUR... [ score 97 E 1e-19 ] [ range 33 .. 102 ]
+sequence
+------VAETDPQAAALGYKADTTKVKY-PKHA-----PDQHCGNCALYQGGT---AAQ-GGCP--LFAG
+K-DVANKGWCSAWAKK--*
+>P1;gi|43905695|gb|EAG07354.1| unknown [environmental sequence] [ score 95 E 5e-19 ] [ range 33 .. 95 ]
+sequence
+----EQVKADDPMAVAMKYV-DKSTV------------AGANCANCMQVQGKD---GDALRGCN--IFPG
+K-LVNAEGWCAAWAKK--*
+>P1;gi|44584478|gb|EAK27787.1| unknown [environmental sequence] [ score 93 E 2e-18 ] [ range 33 .. 95 ]
+sequence
+----EQVKADDPLAVAMKYV-DKSTV------------AGANCANCMQVQGKD---GDALRGCN--IFPG
+K-LVSAEGWCAAWAKK--*
+>P1;gi|479897|pir||S35586 high potential iron-sulfur protein - Chrom... [ score 92 E 2e-18 ] [ range 7 .. 81 ]
+sequence
+------VTADDPTAIALKYNQDATKSER-VAAA-----EEQHCANCQFMQANV---GEDWKGCQ--LFPG
+K-LINVNGWCASWTLK--*
+>P1;gi|44466659|gb|EAJ46952.1| unknown [environmental sequence] [ score 92 E 3e-18 ] [ range 33 .. 95 ]
+sequence
+----EQVKADDPMAVAMKYV-DKSAV------------AGANCANCMQVQGKD---GEKLRGCN--IFPG
+K-LVNAEGWCAAWAKK--*
+>P1;gi|27753588|dbj|BAC55219.1| high-potential iron-sulfur protein [... [ score 91 E 4e-18 ] [ range 29 .. 99 ]
+sequence
+------VDEKDPQAVALGYVADAAKADK-AKYK-----AGSHCGNCALFQGKP---TDATGNCP--LFAG
+K-QVNNKGWCSAWAKK--*
+>P1;gi|37078855|sp|P59860|HPIS_MARPU High potential iron-sulfur prot... [ score 91 E 7e-18 ] [ range 6 .. 80 ]
+sequence
+------VTESDPAAVALKYHRDAASSER-VAAA-----EEQHCENCQFNPDSA---AADWKGCQ--LFPG
+K-LINLSGWCASWTLR--*
+>P1;gi|123489|sp|P00261|HPIS_THIRO High potential iron-sulfur protei... [ score 91 E 8e-18 ] [ range 7 .. 83 ]
+sequence
+------VAANDPTAVALKYNADATKSDR-LAAA-----AEQHCANCQFHLDGA---TEEWHGCS--LFPG
+K-LINVDGWCASWTLK--*
+>P1;gi|44299864|gb|EAI29868.1| unknown [environmental sequence] [ score 87 E 9e-17 ] [ range 18 .. 89 ]
+sequence
+-----QLQESDPAAQALGYKANANQVKY-PHFS-----DNQRCANCQFYQGKP---ADANALCA--LFGA
+K-QVSGAGWCKAYQAR--*
+>P1;gi|45518466|ref|ZP_00170017.1| hypothetical protein Raeut125101 ... [ score 86 E 2e-16 ] [ range 2 .. 69 ]
+sequence
+------IGEQEPQAQKVGYKADTTKVKY-PSHK-----TSQTCANCQLYQGDT---GSAAGGCA--LFGD
+K-EVAAAGWCNAW-----*
+>P1;gi|4261700|gb|AAD14000.1| high-potential iron protein [Allochrom... [ score 84 E 1e-15 ] [ range 8 .. 84 ]
+sequence
+------VAADNATAIALKYNQDATKSER-VAAA-----EEQHCADCQFMQADA---ADEWKGCQ--LFPG
+K-LINVNGWCASWTLK--*
+>P1;gi|6729980|pdb|1B0Y|A Chain A, Mutant H42q Of Hipip From Chromat... [ score 82 E 2e-15 ] [ range 7 .. 83 ]
+sequence
+------VAADNATAIALKYNQDATKSER-VAAA-----EEQQCANCQFMQADA---ADEWKGCQ--LFPG
+K-LINVNGWCASWTLK--*
+>P1;gi|2495223|sp|P80882|HPIS_RHOFE High potential iron-sulfur prote... [ score 81 E 9e-15 ] [ range 5 .. 74 ]
+sequence
+------VAETDANAKSLGYVADADKTKY-PKHT-----KDQSCSTCALYQGKT---APQ-GACP--LFAG
+K-EVVAKGWCSAWAKK--*
+>P1;gi|123486|sp|P00265|HPIS_RHOGE High potential iron-sulfur protei... [ score 78 E 4e-14 ] [ range 3 .. 73 ]
+sequence
+------VDEKNPQAVALGYVSKADKAKY-KQFV-----AGSHCGNCALFQGKA---TDAVGGCP--LFAG
+K-QVANKGWCSAWAKK--*
+>P1;gi|123488|sp|P00263|HPIS_THIPF High potential iron-sulfur protei... [ score 64 E 9e-10 ] [ range 8 .. 79 ]
+sequence
+-------AATNPIAQSLHYIEDANASER-NPVT-----KEQFCHNCSFIQADS---G-AWRPCT--LYPG
+Y-TVSEDGWCLSWAHK--*
+>P1;gi|123485|sp|P00264|HPIS_PARSP High potential iron-sulfur protei... [ score 61 E 6e-09 ] [ range 12 .. 69 ]
+sequence
+------------QAQALNYVKDAEAADH-PAHQ-----EGEQCDNCMFFQ-------ADSQGCQ--LFPQ
+N-SVEPAGWCQSWTA---*
+>P1;gi|42523289|ref|NP_968669.1| putative high potential iron-sulfur... [ score 57 E 1e-07 ] [ range 55 .. 122 ]
+sequence
+------VDPNDSVAKAVKYVED---YKK-APEA-----KGNNCTTCGFYAKKN---GKEAGTCT--IFAG
+K-LVYGDAWCASWNKK--*
+>P1;gi|123482|sp|P04169|HPI2_ECTHA High potential iron-sulfur protei... [ score 49 E 2e-05 ] [ range 7 .. 74 ]
+sequence
+--------EDLPKAEAHDYVNDAADTDH-ARFQ-----EGQLCENCQFWVDYV---NG-WGYCP--DFTD
+V-LVRGEGWCSVYA----*
+>P1;gi|809333|pdb|1PIH|  High Potential Iron Sulfur Protein Insertio... [ score 47 E 1e-04 ] [ range 1 .. 70 ]
+sequence
+--------ASEPRAED-GHAHDADASGH-PRYQ-----EGQLCENCAFWGEAV---QDGWGRCP--DFDE
+V-LVKAEGWCSVYA----*
+>P1;gi|123482|sp|P04169|HPI2_ECTHA High potential iron-sulfur protei... [ score 117 E 8e-26 ] [ range 10 .. 76 ]
+sequence
+----PKAEDD----HAHDYVNDAAD-TDHARFQ-----EGQLCENCQFWVDYV----NGWGYCQHPDFTD
+V-LVRGEGWCSVYAPA--*
+>P1;gi|24636912|sp|P83341|HPI1_ECTMO High potential iron-sulfur prot... [ score 102 E 2e-21 ] [ range 5 .. 68 ]
+sequence
+---EESSAEA----KALSYVHDAT-TSGHDSYQ-----EGQKCINCLLYTDPSQ---EEWGGCA--VFPG
+K-LVNANGWCTAY-----*
+>P1;gi|729760|sp|P38941|HPI1_ECTVA High potential iron-sulfur protei... [ score 79 E 3e-14 ] [ range 5 .. 68 ]
+sequence
+---DENSPEA----LALNYKHDGA-SVDHPSHA-----AGQKCINCLLYTDPSA---TEWGGCA--VFPN
+K-LVNANGWCTAY-----*
+>P1;gi|24636913|sp|P83342|HPI2_ECTMO High potential iron-sulfur prot... [ score 61 E 6e-09 ] [ range 8 .. 70 ]
+sequence
+----EDDATA----QALSYTHDASGVT-HDSYQ-----EGSRCSNCLLYSNPDA---KDWGPCS--VFPK
+H-LVAEGGWCTAW-----*
+>P1;gi|44447959|gb|EAJ33692.1| unknown [environmental sequence] [ score 55 E 3e-07 ] [ range 33 .. 99 ]
+sequence
+---QESDANA----QALGYRTDASDRAKYPKFQ-----AGQACANCQFFQGKAG---DATAPCT--IFGG
+K-QVHATGWCSAY-----*
+>P1;gi|44349091|gb|EAI64025.1| unknown [environmental sequence] [ score 54 E 9e-07 ] [ range 34 .. 99 ]
+sequence
+----ESDANA----QALGYKTDASDHAKYANYQ-----AGQACASCQFFQGKAG---DATAPCT--IFAG
+K-QVNAKGWCSAY-----*
+>P1;gi|44360197|gb|EAI72053.1| unknown [environmental sequence] [ score 53 E 2e-06 ] [ range 37 .. 100 ]
+sequence
+-------ATA----QALGYKSNATDKAKYAKYA-----SGQICGNCTFYQGKTG---DAFAPC--PMFGG
+K-QVAGKGWCSAYS----*
+>P1;gi|123485|sp|P00264|HPIS_PARSP High potential iron-sulfur protei... [ score 52 E 3e-06 ] [ range 7 .. 64 ]
+sequence
+---DPSAEQA----QALNYVKDTAEAADHPAHQ-----EGEQCDNCMFFQADSQ-------GCQ--LFPQ
+N-SVEPAGWC--------*
+>P1;gi|22987160|ref|ZP_00032244.1| hypothetical protein [Burkholderi... [ score 52 E 4e-06 ] [ range 35 .. 101 ]
+sequence
+----ESDPKA----QAVGYKEDVSDKTKFPSYA-----AGQTCGNCSLFQGKAT---DAYGGCT--LFGD
+K-QVAARGWCSSYS----*
+>P1;gi|44386422|gb|EAI90780.1| unknown [environmental sequence] [ score 52 E 5e-06 ] [ range 35 .. 101 ]
+sequence
+----EADPKA----QAVGYTEDASDKAKFPGYA-----AGQTCANCSLFQGKAT---DAYGGCT--LFGD
+K-QVAAHGWCSSYS----*
+>P1;gi|44404097|gb|EAJ03201.1| unknown [environmental sequence] [ score 49 E 2e-05 ] [ range 39 .. 99 ]
+sequence
+---------A----QALGYKADASDKAKFAKYA-----AGQDCGNCSFYQGKPT---DPYAGC--PMFAG
+K-QVASKGWCSAY-----*
+>P1;gi|44418646|gb|EAJ13181.1| unknown [environmental sequence] [ score 49 E 3e-05 ] [ range 36 .. 102 ]
+sequence
+---QETDANA----RALGYKADAVDHAKYPKFH-----AGDACANCQFFQGKAG---AATGPCA--VFGG
+K-QVNAKGWCNSY-----*
+>P1;gi|22988548|ref|ZP_00033612.1| hypothetical protein [Burkholderi... [ score 48 E 4e-05 ] [ range 34 .. 99 ]
+sequence
+----ESDPTA----QALGYKEDASDKAKFAKYA-----AGQDCGNCSFFQGKPT---DAYAPC--PMFAG
+K-QVAAKGWCSAY-----*
+>P1;gi|44643026|gb|EAK69643.1| unknown [environmental sequence] [ score 48 E 6e-05 ] [ range 34 .. 100 ]
+sequence
+----ESDPTA----TALGYKADATDKTKYPKYA-----AGQDCAACMLYQGKKG---SASGPCGA--FPG
+K-QVSAKGWCSAFS----*
+>P1;gi|417143|sp|P80176|HPIS_THETI High potential iron-sulfur protei... [ score 127 E 6e-29 ] [ range 1 .. 83 ]
+sequence
+AAPANAVTADDPTAIALKYNQDATKSERVAAARPGLPPEEQHCANCQFMQANVGEG--DWKGCQ--LFPG
+K-LINVNGWCASWTLKAG*
+>P1;gi|4261700|gb|AAD14000.1| high-potential iron protein [Allochrom... [ score 126 E 9e-29 ] [ range 2 .. 86 ]
+sequence
+SAPANAVAADNATAIALKYNQDATKSERVAAARPGLPPEEQHCADCQFMQADAAGATDEWKGCQ--LFPG
+K-LINVNGWCASWTLKAG*
+>P1;gi|123489|sp|P00261|HPIS_THIRO High potential iron-sulfur protei... [ score 126 E 2e-28 ] [ range 2 .. 85 ]
+sequence
+-APANAVAANDPTAVALKYNADATKSDRLAAARPGLPPAEQHCANCQFHLDDVAGATEEWHGCS--LFPG
+K-LINVDGWCASWTLKAG*
+>P1;gi|6729980|pdb|1B0Y|A Chain A, Mutant H42q Of Hipip From Chromat... [ score 124 E 4e-28 ] [ range 1 .. 85 ]
+sequence
+SAPANAVAADNATAIALKYNQDATKSERVAAARPGLPPEEQQCANCQFMQADAAGATDEWKGCQ--LFPG
+K-LINVNGWCASWTLKAG*
+>P1;gi|22988548|ref|ZP_00033612.1| hypothetical protein [Burkholderi... [ score 104 E 3e-22 ] [ range 27 .. 103 ]
+sequence
+-ADAPKVSESDPTAQALGYKEDASKVDKAKFAKY---AAGQDCGNCSFFQGK---PTDAYAPCP--MFAG
+K-QVAAKGWCSAYNKKA-*
+>P1;gi|123488|sp|P00263|HPIS_THIPF High potential iron-sulfur protei... [ score 104 E 3e-22 ] [ range 8 .. 79 ]
+sequence
+-------AATNPIAQSLHYIEDANASERNPVTKTELPGSEQFCHNCSFIQADSGA----WRPCT--LYPG
+Y-TVSEDGWCLSWAHK--*
+>P1;gi|44447959|gb|EAJ33692.1| unknown [environmental sequence] [ score 104 E 4e-22 ] [ range 26 .. 103 ]
+sequence
+SAEAALVQESDANAQALGYRTDASKVDR---AKYPKFQAGQACANCQFFQGKAGDAT---APCT--IFGG
+K-QVHATGWCSAYVKKA-*
+>P1;gi|22987160|ref|ZP_00032244.1| hypothetical protein [Burkholderi... [ score 104 E 6e-22 ] [ range 27 .. 101 ]
+sequence
+AEPANTLSESDPKAQAVGYKED---VSRVDKTKFPSYAAGQTCGNCSLFQGK---ATDAYGGCT--LFGD
+K-QVAARGWCSSYS----*
+>P1;gi|44404097|gb|EAJ03201.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 27 .. 103 ]
+sequence
+-ADAPKVAETDPTAQALGYKADASKVDKAKFAKY---AAGQDCGNCSFYQGK---PTDPYAGCP--MFAG
+K-QVASKGWCSAYNKKA-*
+>P1;gi|44386422|gb|EAI90780.1| unknown [environmental sequence] [ score 102 E 2e-21 ] [ range 30 .. 101 ]
+sequence
+---ANRLSEADPKAQAVGYTEDASKVDK---AKFPGYAAGQTCANCSLFQGK---ATDAYGGCT--LFGD
+K-QVAAHGWCSSYS----*
+>P1;gi|44349091|gb|EAI64025.1| unknown [environmental sequence] [ score 101 E 4e-21 ] [ range 26 .. 103 ]
+sequence
+AAQAGPVLESDANAQALGYKTDASKVDHAKYANY---QAGQACASCQFFQGKAGDAT---APCT--IFAG
+K-QVNAKGWCSAYVKKA-*
+>P1;gi|44418646|gb|EAJ13181.1| unknown [environmental sequence] [ score 94 E 6e-19 ] [ range 35 .. 106 ]
+sequence
+------VQETDANARALGYKADA---GRVDHAKYPKFHAGDACANCQFFQGKAGAAT---GPCA--VFGG
+K-QVNAKGWCNSYTKKA-*
+>P1;gi|585261|sp|P38524|HPI2_ECTVA High potential iron-sulfur protei... [ score 91 E 7e-18 ] [ range 2 .. 71 ]
+sequence
+----ERLSEDDPAAQALEYRHDASSVQHPAYE------EGQTCLNC-LLYTDASA--QDWGPCS--VFPG
+K-LVSANGWCTAWVAR--*
+>P1;gi|44360197|gb|EAI72053.1| unknown [environmental sequence] [ score 91 E 7e-18 ] [ range 27 .. 103 ]
+sequence
+-ADSQKVSDADATAQALGYKSNATKVDKAKYAKY---ASGQICGNCTFYQGKTG---DAFAPCP--MFGG
+K-QVAGKGWCSAYSKKA-*
+>P1;gi|44643026|gb|EAK69643.1| unknown [environmental sequence] [ score 88 E 4e-17 ] [ range 27 .. 101 ]
+sequence
+-ADAPMLAESDPTATALGYKADATKVDK---TKYPKYAAGQDCAACMLYQGKKGSAS---GPCG--AFPG
+K-QVSAKGWCSAFSK---*
+>P1;gi|17547805|ref|NP_521207.1| PROBABLE HIGH POTENTIAL IRON-SULFUR... [ score 87 E 1e-16 ] [ range 28 .. 103 ]
+sequence
+-AANPMVAETDPQAAALGYKADTTKVDQ---AKYPKHAPDQHCGNCALYQG----GTAAQGGCP--LFAG
+K-DVANKGWCSAWAKKA-*
+>P1;gi|24636912|sp|P83341|HPI1_ECTMO High potential iron-sulfur prot... [ score 86 E 2e-16 ] [ range 1 .. 71 ]
+sequence
+---AEKLEESSAEAKALSYVHDATTSGHDSYQ------EGQKCINC-LLYTDP--SQEEWGGCA--VFPG
+K-LVNANGWCTAYVAR--*
+>P1;gi|44550094|gb|EAK03630.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 1 .. 63 ]
+sequence
+------MSADDPTAKALNYTPSSTV-------------EGAKCANCMYVQ---GADGEQHRPCN--IFPN
+K-LVNADGWCSAWVKKPG*
+>P1;gi|27753588|dbj|BAC55219.1| high-potential iron-sulfur protein [... [ score 82 E 2e-15 ] [ range 23 .. 100 ]
+sequence
+SAMAAPVDEKDPQAVALGYVADAAKADKAKYKQ---FVAGSHCGNCALFQGK---PTDATGNCP--LFAG
+K-QVNNKGWCSAWAKKA-*
+>P1;gi|729760|sp|P38941|HPI1_ECTVA High potential iron-sulfur protei... [ score 79 E 2e-14 ] [ range 1 .. 71 ]
+sequence
+---AERLDENSPEALALNYKHDGASVDHPSHA------AGQKCINC-LLYTDPSAT--EWGGCA--VFPN
+K-LVNANGWCTAYVAR--*
+>P1;gi|24636913|sp|P83342|HPI2_ECTMO High potential iron-sulfur prot... [ score 75 E 3e-13 ] [ range 1 .. 73 ]
+sequence
+-AELERLSEDDATAQALSYTHDASGVTHDSYQ------EGSRCSNCLLY---SNPDAKDWGPCS--VFPK
+H-LVAEGGWCTAWVGR--*
+>P1;gi|2495223|sp|P80882|HPIS_RHOFE High potential iron-sulfur prote... [ score 71 E 8e-12 ] [ range 2 .. 75 ]
+sequence
+---APLVAETDANAKSLGYVADTTKADK---TKYPKHTKDQSCSTCALYQGK----TAPQGACP--LFAG
+K-EVVAKGWCSAWAKKA-*
+>P1;gi|123486|sp|P00265|HPIS_RHOGE High potential iron-sulfur protei... [ score 69 E 3e-11 ] [ range 2 .. 74 ]
+sequence
+-----PVDEKNPQAVALGYV---SDAAKADKAKYKQFVAGSHCGNCALFQGK---ATDAVGGCP--LFAG
+K-QVANKGWCSAWAKKA-*
+>P1;gi|45518466|ref|ZP_00170017.1| hypothetical protein Raeut125101 ... [ score 68 E 6e-11 ] [ range 4 .. 69 ]
+sequence
+--------EQEPQAQKVGYKADTTKVDP---KKYPSHKTSQTCANCQLYQGDTGSAA---GGCA--LFGD
+K-EVAAAGWCNAW-----*
+>P1;gi|44299864|gb|EAI29868.1| unknown [environmental sequence] [ score 68 E 7e-11 ] [ range 14 .. 90 ]
+sequence
+AAPSQ-LQESDPAAQALGYKANANQVDR---TKYPHFSDNQRCANCQFYQGKPADANAL---CA--LFGA
+K-QVSGAGWCKAYQARA-*
+>P1;gi|42523289|ref|NP_968669.1| putative high potential iron-sulfur... [ score 58 E 6e-08 ] [ range 53 .. 123 ]
+sequence
+----PLVDPNDSVAKAVKYVEDYKKAPEAK---------GNNCTTCGFYAKKESRNGKEAGTCT--IFAG
+K-LVYGDAWCASWNKKA-*
+>P1;gi|123485|sp|P00264|HPIS_PARSP High potential iron-sulfur protei... [ score 52 E 4e-06 ] [ range 4 .. 69 ]
+sequence
+----PPLDPSAEQAQALNYVKDT-----AEAADHPAHQEGEQCDNCMFFQADS-------QGCQ--LFPQ
+N-SVEPAGWCQSWTA---*
+>P1;gi|123487|sp|P00266|HPIS_RHOTE High potential iron-sulfur protei... [ score 89 E 2e-17 ] [ range 1 .. 63 ]
+sequence
+----GTNA---SMRKAFNYQEVSKT--------------GKNCANCAQFIPGASA--SAAGACK--VIPG
+DSQIQPTGYCDAYIVKK-*
+>P1;gi|17547009|ref|NP_520411.1| PROBABLE IRON OXIDASE PRECURSOR OXI... [ score 48 E 7e-05 ] [ range 42 .. 92 ]
+sequence
+-------------RAMLHYQDSPKD--------------GKRCADCTAFKPGASA--PDTGTCK--VIGG
+--PVSPNGWCMAF-----*
+>P1;gi|123483|sp|P00262|HPIS_CHRGR High potential iron-sulfur protei... [ score 138 E 3e-32 ] [ range 2 .. 83 ]
+sequence
+-VPANAVTESDPTAVALKYHRNAEASERVAAARPGLPPEEQHCENCQFMLPDQ--GADEWRGCS--LFPG
+K-LINLDGWCASWTLRAG*
+>P1;gi|3929398|sp|P00260|HPIS_CHRVI High potential iron-sulfur prote... [ score 128 E 3e-29 ] [ range 40 .. 122 ]
+sequence
+--PANAVAADDATAIALKYNQDATKSERVAAARPGLPPEEQHCANCQFMQADA--AGAEWKGCQ--LFPG
+K-LINVNGWCASWTLKAG*
+>P1;gi|123489|sp|P00261|HPIS_THIRO High potential iron-sulfur protei... [ score 120 E 9e-27 ] [ range 3 .. 85 ]
+sequence
+--PANAVAANDPTAVALKYNADATKSDRLAAARPGLPPAEQHCANCQFHLDDV--AGAEWHGCS--LFPG
+K-LINVDGWCASWTLKAG*
+>P1;gi|4261700|gb|AAD14000.1| high-potential iron protein [Allochrom... [ score 119 E 2e-26 ] [ range 4 .. 86 ]
+sequence
+--PANAVAADNATAIALKYNQDATKSERVAAARPGLPPEEQHCADCQFMQADA--AGAEWKGCQ--LFPG
+K-LINVNGWCASWTLKAG*
+>P1;gi|6729980|pdb|1B0Y|A Chain A, Mutant H42q Of Hipip From Chromat... [ score 117 E 7e-26 ] [ range 3 .. 85 ]
+sequence
+--PANAVAADNATAIALKYNQDATKSERVAAARPGLPPEEQQCANCQFMQADA--AGAEWKGCQ--LFPG
+K-LINVNGWCASWTLKAG*
+>P1;gi|22987160|ref|ZP_00032244.1| hypothetical protein [Burkholderi... [ score 101 E 4e-21 ] [ range 29 .. 101 ]
+sequence
+--PANTLSESDPKAQAVGYKED---VSRVDKTKFPSYAAGQTCGNCSLFQGKA--TDA-YGGCT--LFGD
+K-QVAARGWCSSYS----*
+>P1;gi|44386422|gb|EAI90780.1| unknown [environmental sequence] [ score 99 E 1e-20 ] [ range 30 .. 101 ]
+sequence
+---ANRLSEADPKAQAVGYTEDASKVDK---AKFPGYAAGQTCANCSLFQGKA--TDA-YGGCT--LFGD
+K-QVAAHGWCSSYS----*
+>P1;gi|22988548|ref|ZP_00033612.1| hypothetical protein [Burkholderi... [ score 90 E 1e-17 ] [ range 29 .. 103 ]
+sequence
+---APKVSESDPTAQALGYKEDASKVDK---AKFAKYAAGQDCGNCSFFQGKP--TDA-YAPCP--MFAG
+K-QVAAKGWCSAYNKKA-*
+>P1;gi|17547805|ref|NP_521207.1| PROBABLE HIGH POTENTIAL IRON-SULFUR... [ score 88 E 6e-17 ] [ range 33 .. 103 ]
+sequence
+------VAETDPQAAALGYKADTTKVDQ--AKYPKHAP-DQHCGNCALYQGGT--AAQ--GGCP--LFAG
+K-DVANKGWCSAWAKKA-*
+>P1;gi|44404097|gb|EAJ03201.1| unknown [environmental sequence] [ score 86 E 2e-16 ] [ range 29 .. 103 ]
+sequence
+---APKVAETDPTAQALGYKADASKVDK---AKFAKYAAGQDCGNCSFYQGKP--TD-PYAGCP--MFAG
+K-QVASKGWCSAYNKKA-*
+>P1;gi|44466659|gb|EAJ46952.1| unknown [environmental sequence] [ score 83 E 1e-15 ] [ range 30 .. 96 ]
+sequence
+-VAQEQVKADDPMAVAMKYVDKSA-------------VAGANCANCMQVQGK---DGEKLRGCN--IFPG
+K-LVNAEGWCAAWAKKA-*
+>P1;gi|43905695|gb|EAG07354.1| unknown [environmental sequence] [ score 83 E 2e-15 ] [ range 30 .. 96 ]
+sequence
+-LAQEQVKADDPMAVAMKYVDKST-------------VAGANCANCMQVQGKD--GDA-LRGCN--IFPG
+K-LVNAEGWCAAWAKKA-*
+>P1;gi|44447959|gb|EAJ33692.1| unknown [environmental sequence] [ score 81 E 5e-15 ] [ range 32 .. 103 ]
+sequence
+------VQESDANAQALGYRTDASKVDR---AKYPKFQAGQACANCQFFQGKA--GDAT-APCT--IFGG
+K-QVHATGWCSAYVKKA-*
+>P1;gi|44349091|gb|EAI64025.1| unknown [environmental sequence] [ score 80 E 1e-14 ] [ range 29 .. 103 ]
+sequence
+---AGPVLESDANAQALGYKTDASKVDH---AKYANYQAGQACASCQFFQGKA--GDAT-APCT--IFAG
+K-QVNAKGWCSAYVKKA-*
+>P1;gi|44584478|gb|EAK27787.1| unknown [environmental sequence] [ score 80 E 2e-14 ] [ range 30 .. 96 ]
+sequence
+-LAQEQVKADDPLAVAMKYVDKST-------------VAGANCANCMQVQGKD--GDA-LRGCN--IFPG
+K-LVSAEGWCAAWAKKA-*
+>P1;gi|24636913|sp|P83342|HPI2_ECTMO High potential iron-sulfur prot... [ score 80 E 2e-14 ] [ range 4 .. 73 ]
+sequence
+----ERLSEDDATAQALSYTHDASGVTHDSYQ------EGSRCSNC-LLYSNP--DAKDWGPCS--VFPK
+H-LVAEGGWCTAWVGR--*
+>P1;gi|44418646|gb|EAJ13181.1| unknown [environmental sequence] [ score 78 E 4e-14 ] [ range 35 .. 106 ]
+sequence
+------VQETDANARALGYKADA---GRVDHAKYPKFHAGDACANCQFFQGKA--GAAT-GPCA--VFGG
+K-QVNAKGWCNSYTKKA-*
+>P1;gi|27753588|dbj|BAC55219.1| high-potential iron-sulfur protein [... [ score 76 E 2e-13 ] [ range 26 .. 100 ]
+sequence
+---AAPVDEKDPQAVALGYVADAAKADKAKYKQF---VAGSHCGNCALFQGKP--TDAT-GNCP--LFAG
+K-QVNNKGWCSAWAKKA-*
+>P1;gi|45518466|ref|ZP_00170017.1| hypothetical protein Raeut125101 ... [ score 67 E 8e-11 ] [ range 4 .. 69 ]
+sequence
+--------EQEPQAQKVGYKADTTKVD--PKKYPSHKTS-QTCANCQLYQGDT--GSAA-GGCA--LFGD
+K-EVAAAGWCNAW-----*
+>P1;gi|44299864|gb|EAI29868.1| unknown [environmental sequence] [ score 66 E 1e-10 ] [ range 18 .. 90 ]
+sequence
+-----QLQESDPAAQALGYKANANQVDR---TKYPHFSDNQRCANCQFYQGKP--ADANAL-CA--LFGA
+K-QVSGAGWCKAYQARA-*
+>P1;gi|123486|sp|P00265|HPIS_RHOGE High potential iron-sulfur protei... [ score 66 E 3e-10 ] [ range 3 .. 74 ]
+sequence
+------VDEKNPQAVALGYVSDAAKADKAKYKQF---VAGSHCGNCALFQGKA--TDAV-GGCP--LFAG
+K-QVANKGWCSAWAKKA-*
+>P1;gi|2495223|sp|P80882|HPIS_RHOFE High potential iron-sulfur prote... [ score 62 E 3e-09 ] [ range 1 .. 75 ]
+sequence
+--AAPLVAETDANAKSLGYVADTTKADK---TKYPKHTKDQSCSTCALYQGKT--APQ--GACP--LFAG
+K-EVVAKGWCSAWAKKA-*
+>P1;gi|123485|sp|P00264|HPIS_PARSP High potential iron-sulfur protei... [ score 52 E 3e-06 ] [ range 6 .. 70 ]
+sequence
+------LDPSAEQAQALNYVKDAEAADHPAHQ------EGEQCDNCMFFQADS-------QGCQ--LFPQ
+N-SVEPAGWCQSWTAQ--*

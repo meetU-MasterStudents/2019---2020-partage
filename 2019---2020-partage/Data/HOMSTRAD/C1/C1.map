@@ -1,0 +1,555 @@
+>P1;1ptq
+structureX:1ptq: 231 : : 280 : :protein kinase C, delta type cys2 domain:Mus musculus: 1.95: 19.6
+--------HRFKVYNYMSPTFCDHCGSLLWGLVKQGLKCEDCGMNVHHKCREKVANLC--------*
+>P1;1tbo
+structureX:1tbo:  94 : : 159 : :protein kinase C, gamma type cys2 domain:Rattus rattus: -1: -1
+QTDDPRNKHKFRLHSYSSPTFCDHCGSLLYGLVHQGMKCSCCEMNVHRRCVRSVPSLCGVDHTERR*
+>P1;1far
+structureX:1far: 136 : : 187 : :Raf proto-oncogene serine-threonine-protein kinase (Raf-1):Homo sapiens: -1: -1
+-----LTTHNFARKTFLKLAFCDICQKFLL----NGFRCQTCGYKFHEHCSTKVPTMCVD-----W*
+>P1;gi|6679353|ref|NP_032885.1| protein kinase C, theta [Mus musculu... [ score 97 E 1e-19 ] [ range 160 .. 209 ] [ duplicate b ]
+sequence
+--------HEFTATFFPQPTFCSVCHEFVWGLNKQGYQCRQCNAAIHKKCIDKVIAKC--------*
+>P1;gi|19112809|ref|NP_596017.1| hypothetical protein with DAG bindi... [ score 82 E 2e-15 ] [ range 398 .. 447 ]
+sequence
+--------HDFKHVSFKLPTSCSYCREIIWGLSKRGCVCKNCGFKCHARCELLVPANC--------*
+>P1;gi|28828618|gb|AAO51221.1| similar to Dictyostelium discoideum (... [ score 81 E 5e-15 ] [ range 8 .. 57 ]
+sequence
+--------HNWKIKSFTSITFCDHCGSMLWGICTQGFQCSDCNFSAHSHCTNLVTLHC--------*
+>P1;gi|10946864|ref|NP_067443.1| unc-13 homolog A; UNC-13 homolog (C... [ score 81 E 6e-15 ] [ range 478 .. 527 ]
+sequence
+--------HNFEVWSATTPTYCYECEGLLWAVARQGMRCSECGVKCHEKCQDLLNADC--------*
+>P1;gi|26051256|ref|NP_733748.1| RAS guanyl releasing protein 4 isof... [ score 81 E 8e-15 ] [ range 541 .. 590 ]
+sequence
+--------HTFHEVTFRKPTFCDSCSGFLWGVTKQGYRCRECGLCCHKHCRDQVKVEC--------*
+>P1;gi|15292603|gb|AAK93570.1| SD10541p [Drosophila melanogaster] [ score 80 E 1e-14 ] [ range 1526 .. 1573 ]
+sequence
+--------HRFEKHPYTTPTNCNHCTKLLWGPV--GYRCMDCGNSYHEKCTEHSMKNC--------*
+>P1;gi|26340296|dbj|BAC33811.1| unnamed protein product [Mus musculus] [ score 80 E 2e-14 ] [ range 502 .. 551 ]
+sequence
+--------HAFQEVTFRKPTFCHSCSGFLWGVTKQGYRCRDCGLCCHRHCRDQVRVEC--------*
+>P1;gi|35396780|gb|AAQ84896.1| protein kinase C 1 [Cryptococcus neof... [ score 79 E 3e-14 ] [ range 519 .. 568 ] [ duplicate a ]
+sequence
+--------HRFTPYTNMSANWCCHCGYMLPFGRKNAVKCSECALTCHQTCSHLVPDFC--------*
+>P1;gi|35396780|gb|AAQ84896.1| protein kinase C 1 [Cryptococcus neof... [ score 79 E 3e-14 ] [ range 451 .. 498 ] [ duplicate b ]
+sequence
+--------HKFVQRQFYQPIMCALCQEFL--LTGEGYQCEDCRYACHKKCYPKVVTKC--------*
+>P1;gi|39584448|emb|CAE72586.1| Hypothetical protein CBG19775 [Caeno... [ score 77 E 8e-14 ] [ range 99 .. 147 ] [ duplicate a ]
+sequence
+--------HVVEPESYMLPTFCDFCGELLTGLLRQGVKCKNCNRNFH-KCSNAARNNC--------*
+>P1;gi|39584448|emb|CAE72586.1| Hypothetical protein CBG19775 [Caeno... [ score 77 E 8e-14 ] [ range 188 .. 237 ] [ duplicate b ]
+sequence
+--------HTLIEHSYRQFTVCKVCDHLLVGLMKQGLKCRDCGVNVHRKCAMELPSNC--------*
+>P1;gi|27882457|gb|AAH44323.1| MGC52798 protein [Xenopus laevis] [ score 77 E 8e-14 ] [ range 491 .. 540 ]
+sequence
+--------HNFAERTFLRPVSCQHCGNLILGIYKKGLKCRACGITCHKHCKDHLSIEC--------*
+>P1;gi|9716257|emb|CAC01625.1| protein kinase C homologue [Tuber bor... [ score 76 E 2e-13 ] [ range 496 .. 545 ] [ duplicate a ]
+sequence
+--------HRFEPMTNMGANWCCHCGYMLPVGKKNARKCTECGLTCHSQCAHLVPDFC--------*
+>P1;gi|9716257|emb|CAC01625.1| protein kinase C homologue [Tuber bor... [ score 76 E 2e-13 ] [ range 428 .. 475 ] [ duplicate b ]
+sequence
+--------HKFVQQQFYNIMRCALCSDFLK--YSAGMQCSDCKYTCHKKCYPKVVTKC--------*
+>P1;gi|28630309|gb|AAM92836.1| protein kinase C [Scyliorhinus canicula] [ score 138 E 3e-32 ] [ range 15 .. 79 ]
+sequence
+-SEDPRNKHGFKVHTYSSPTFCDHCGSLLYGLIHQGMKCDTCMMNVHKRCVSNVPSMCGMDHTERR*
+>P1;gi|66721|pir||KIRTC1 protein kinase C (EC 2.7.1.-) beta-I - rat ... [ score 137 E 5e-32 ] [ range 95 .. 159 ] [ duplicate a ]
+sequence
+-SDDPRSKHKFKIHTYSSPTFCDHCGSLLYGLIHQGMKCDTCMMNVHKRCVMNVPSLCGTDHTERR*
+>P1;gi|66721|pir||KIRTC1 protein kinase C (EC 2.7.1.-) beta-I - rat ... [ score 137 E 5e-32 ] [ range 35 .. 87 ] [ duplicate b ]
+sequence
+------KNHKFTARFFKQPTFCSHCTDFIWGFGKQGFQCQVCCFVVHKRCHEFVTFSCP-------*
+>P1;gi|6016442|sp|Q25378|KPC1_LYTPI Protein kinase C >gi|414286|gb|A... [ score 136 E 1e-31 ] [ range 86 .. 150 ] [ duplicate a ]
+sequence
+-SDDPRNKHKFKVHSYNSPTFCDHCGSLLYGLYHQGMKCGACDMNVHKRCQKSVPNLCGADHTERR*
+>P1;gi|6016442|sp|Q25378|KPC1_LYTPI Protein kinase C >gi|414286|gb|A... [ score 136 E 1e-31 ] [ range 26 .. 78 ] [ duplicate b ]
+sequence
+------KNHKFIPRFFKQPTFCSHCKDFIWGFGKQGFQCKVCSFVVHKRCHEFVTFQCP-------*
+>P1;gi|13384594|ref|NP_002730.1| protein kinase C, gamma; Protein ki... [ score 135 E 3e-31 ] [ range 36 .. 86 ] [ duplicate b ]
+sequence
+--------HKFTARFFKQPTFCSHCTDFIWGIGKQGLQCQVCSFVVHRRCHEFVTFECP-------*
+>P1;gi|104168|pir||B37237 protein kinase C (EC 2.7.1.-) II - African... [ score 134 E 6e-31 ] [ range 92 .. 156 ] [ duplicate a ]
+sequence
+-SDDPRSKHKFRIHTYSSPTFCDHCGSLLYGLIHQGMKCETCMMNVHKRCVMNVPSLCGTDHTERR*
+>P1;gi|27806089|ref|NP_776860.1| protein kinase, C alpha [Bos taurus... [ score 134 E 6e-31 ] [ range 95 .. 159 ] [ duplicate a ]
+sequence
+-TDDPRSKHKFKIHTYGSPTFCDHCGSLLYGLIHQGMKCDTCDMNVHKQCVINVPSLCGMDHTEKR*
+>P1;gi|28630305|gb|AAM92834.1| protein kinase C [Myxine glutinosa] [ score 134 E 7e-31 ] [ range 15 .. 79 ]
+sequence
+-TDDPRSKHKFKAHTYSGPTFCDHCGSLLYGLLHQGIKCDTCEMNVHKGCQQNVPSLCGMDHTERR*
+>P1;gi|28630307|gb|AAM92835.1| protein kinase C [Petromyzon marinus] [ score 134 E 7e-31 ] [ range 24 .. 88 ]
+sequence
+-SDDPRSKHRFKAHTYGSPTFCDHCGSLPYGLIHQGMKCDTCDMNVHKRCVVMAPSLCGMDHTERR*
+>P1;gi|55132|emb|CAA36907.1| protein kinase C [Mus musculus] >gi|226... [ score 133 E 1e-30 ] [ range 95 .. 159 ] [ duplicate a ]
+sequence
+-TDDPRSKHKFKVHTYGGPTFCDHCGSLLYGLIHQGMKCDTCDMNVHKQCVINVPSLCGMDHTEKR*
+>P1;gi|41055807|ref|NP_957272.1| similar to protein kinase C, beta [... [ score 133 E 1e-30 ] [ range 94 .. 158 ] [ duplicate a ]
+sequence
+-SDDPRSKHKFKVHTYSSPTFCDHCGSLLYGLIHQGMRCDHCMMNIHKRCVANVPSLCGTDHTERR*
+>P1;gi|206189|gb|AAA41875.1| protein kinase C type II [ score 132 E 2e-30 ] [ range 95 .. 159 ] [ duplicate a ]
+sequence
+-SDDPRSKHKFKIHTYSSPTFCDHCGSLLYGLVHQGMKCDTCMMSVHRRCVMNVPGLCGTDHTERR*
+>P1;gi|22023043|emb|CAD30698.1| protein kinase C, alpha type [Takifu... [ score 129 E 1e-29 ] [ range 93 .. 157 ] [ duplicate a ]
+sequence
+-TDDPRSKHKFKIHTYGSPTFCDHCGSLLYGLIHQGMKCDTYDMNVHKQCVVNVPSLCGTDHTERR*
+>P1;gi|104167|pir||A37237 protein kinase C (EC 2.7.1.-) I - African ... [ score 129 E 2e-29 ] [ range 100 .. 164 ] [ duplicate a ]
+sequence
+-TDDPRSKHKFKIHTYGSPTFCDHCGSLLYGMIHQGMKCETCDMNIHKVCVINVPSLCGMDHTEKR*
+>P1;gi|31239753|ref|XP_320290.1| ENSANGP00000009078 [Anopheles gambi... [ score 129 E 2e-29 ] [ range 84 .. 148 ] [ duplicate a ]
+sequence
+-SDDTRTKHEFKEWTYSSPTFCDHCGSLLYGLIHQGLKCTACDMNVHKRCEESVPNLCGCDHTERR*
+>P1;gi|31239753|ref|XP_320290.1| ENSANGP00000009078 [Anopheles gambi... [ score 129 E 2e-29 ] [ range 26 .. 76 ] [ duplicate b ]
+sequence
+--------HRFIPRFFKQPTFCSHCKDFIWGFGKQGFQCQVCSFVVHKRCHEYVTFKCP-------*
+>P1;gi|21392563|gb|AAA68709.2| Protein kinase c protein 2, isoform c... [ score 127 E 7e-29 ] [ range 237 .. 301 ] [ duplicate a ]
+sequence
+-TDDPRQQHKWKVQTYSSPTFCDHCGSLLYGILHQGMKCQSCDTNVHHRCVKNVPNMCGTDNTEKR*
+>P1;gi|21392563|gb|AAA68709.2| Protein kinase c protein 2, isoform c... [ score 127 E 7e-29 ] [ range 179 .. 229 ] [ duplicate b ]
+sequence
+--------HKFIARFFKQPTFCSHCKDFLWGITKQGFQCQVCTLVVHKRCHEFVNFACP-------*
+>P1;gi|28630303|gb|AAM92833.1| protein kinase C [Branchiostoma lance... [ score 127 E 8e-29 ] [ range 26 .. 90 ]
+sequence
+-SDDPRSKHKFKVHTYGSPTFCDHCGSLLYGLLHQGMKCDSCDMNVHVRCQHMVPNLCGSDFTERR*
+>P1;gi|41053359|ref|NP_957323.1| similar to Protein C kinase 53E [Da... [ score 124 E 4e-28 ] [ range 91 .. 155 ] [ duplicate a ]
+sequence
+-SDDPRKYHSFKVHTYTSPTFCDHCGSLLYGLIHQGMRCLNCLMNIHKRCFKHVPSLCGTDHTEKR*
+>P1;gi|6225593|sp|Q16974|KPC1_APLCA Calcium-dependent protein kinase... [ score 124 E 6e-28 ] [ range 81 .. 143 ] [ duplicate a ]
+sequence
+---DATNLHKFKLHSYGSPTFCDHCGSLLYGLLHQGLKCDSCDMNVHKRCEKNVPLLCGTDHTERR*
+>P1;gi|6225593|sp|Q16974|KPC1_APLCA Calcium-dependent protein kinase... [ score 124 E 6e-28 ] [ range 20 .. 72 ] [ duplicate b ]
+sequence
+------KNHKFLARFFKQPTFCSHCKDFIWGFGKQGFQCQVCSLVVHKRCHEFVCFICP-------*
+>P1;gi|2073444|emb|CAA73363.1| protein kinase C [Hydra vulgaris] [ score 123 E 8e-28 ] [ range 89 .. 156 ] [ duplicate a ]
+sequence
+ESDAPQNPHKFKVHTYSSPTFCDHCGTLLYGLFHQGLKCGACDMNVHKRCEKSIPKLCGADHTEKR*
+>P1;gi|2073444|emb|CAA73363.1| protein kinase C [Hydra vulgaris] [ score 123 E 8e-28 ] [ range 31 .. 82 ] [ duplicate b ]
+sequence
+--------HKFVPKFFTSPTFCAHCKDFIWGIVNNGFQCKVCSFGVHKRCHEYVSFKCP-------*
+>P1;gi|2073446|emb|CAA73362.1| protein kinase C [Hydra vulgaris] [ score 123 E 1e-27 ] [ range 37 .. 88 ] [ duplicate b ]
+sequence
+--------HEFIPKFFREPTYCAHCTSFIWGIVNNGFQCKVCSFGVHKRCHEYVSFKCP-------*
+>P1;gi|17136402|ref|NP_476682.1| Protein C kinase 53E CG6622-PA [Dro... [ score 122 E 3e-27 ] [ range 104 .. 168 ] [ duplicate a ]
+sequence
+-SDSPKTQHNFEPFTYAGPTFCDHCGSLLYGIYHQGLKCSACDMNVHARCKENVPSLCGCDHTERR*
+>P1;gi|24654282|ref|NP_725626.1| Protein C kinase 53E CG6622-PB [Dro... [ score 121 E 3e-27 ] [ range 46 .. 105 ] [ duplicate b ]
+sequence
+--------HCFIARFFKQPTFCSHCKDFIMGFGKQGFQCQVCSYVVHKRCHEYVTFICP-------*
+>P1;gi|3114989|emb|CAA73554.1| Serine/Threonine protein kinase [Syco... [ score 119 E 2e-26 ] [ range 101 .. 164 ] [ duplicate a ]
+sequence
+--EGASSPHKFKVTSYGQPTFCDHCGSMLYGLVKQGLKCQACEMNVHKRCERFVPQLCGCDHTEKR*
+>P1;gi|3114989|emb|CAA73554.1| Serine/Threonine protein kinase [Syco... [ score 119 E 2e-26 ] [ range 44 .. 94 ] [ duplicate b ]
+sequence
+--------HEFEPRFFKQPTFCAHCKEFIWGVGRQGYGCRVCQFAVHRRCHEFVSFTCP-------*
+>P1;gi|33304013|gb|AAQ02514.1| protein kinase C, delta [synthetic co... [ score 114 E 4e-25 ] [ range 157 .. 216 ] [ duplicate b ]
+sequence
+------KNHEFIATFFGQPTFCSVCKDFVWGLNKQGYKCRQCNAAIHKKCIDKIIGRCTGTAANSR*
+>P1;gi|32480481|dbj|BAC79120.1| protein kinase-delta2 [Xenopus laevis] [ score 112 E 3e-24 ] [ range 229 .. 284 ] [ duplicate a ]
+sequence
+-------PHRFKVYNYKSPTFCDHCGSMLWGLVKQGLKCDECDMNVHHKCQSKVANLCGINQK---*
+>P1;gi|32480481|dbj|BAC79120.1| protein kinase-delta2 [Xenopus laevis] [ score 112 E 3e-24 ] [ range 156 .. 215 ] [ duplicate b ]
+sequence
+------KNHEFIATFFGQPTFCSVCREFVWGMNKQGYKCRQCNAAIHKKCIDKIIGRCTGTAANSR*
+>P1;gi|39592150|emb|CAE75370.1| Hypothetical protein CBG23354 [Caeno... [ score 109 E 2e-23 ] [ range 248 .. 304 ] [ duplicate a ]
+sequence
+-------PHRFSVHSYKRPTFCDHCGSMLYGLINQGLQCSTCKLNVHKRCQRNVANNCGINAKQ--*
+>P1;gi|39592150|emb|CAE75370.1| Hypothetical protein CBG23354 [Caeno... [ score 109 E 2e-23 ] [ range 170 .. 223 ] [ duplicate b ]
+sequence
+-------GHKFMALFLRQPTFCAHCKEFIWGIGKQGYQCQVCTVVVHKRCHEDVVWKCPGN-----*
+>P1;gi|22085162|gb|AAM90321.1| putative protein kinase C epsilon [Li... [ score 109 E 2e-23 ] [ range 239 .. 294 ] [ duplicate a ]
+sequence
+-----NIPHRFMVHNYKRPTFCDHCGSMLYGLIRQGLQCEACKMNVHKRCQRNVANNCGVN-----*
+>P1;gi|22085162|gb|AAM90321.1| putative protein kinase C epsilon [Li... [ score 109 E 2e-23 ] [ range 169 .. 220 ] [ duplicate b ]
+sequence
+------NGHKFMATILRQPTFCSHCREFIWGLGKQGYQCQVCTCVVHKRCHEFVVTKC--------*
+>P1;gi|32480479|dbj|BAC79119.1| protein kinase-delta1 [Xenopus laevis] [ score 109 E 2e-23 ] [ range 229 .. 284 ] [ duplicate a ]
+sequence
+-------PHRFKVYNYKSPTFCDHCGSLLWGLVKQGLKCDECTMNVHHKCQSKVANLCGINQK---*
+>P1;gi|32480479|dbj|BAC79119.1| protein kinase-delta1 [Xenopus laevis] [ score 109 E 2e-23 ] [ range 156 .. 215 ] [ duplicate b ]
+sequence
+------KNHEFTATFFGQPTFCSVCREFVWGLNKQGYKCRQCNAAIHKKCIDKIIGRCTGTAANSR*
+>P1;gi|630707|pir||A53530 protein kinase C (EC 2.7.1.-) epsilon-rela... [ score 109 E 3e-23 ] [ range 170 .. 223 ] [ duplicate b ]
+sequence
+-------GHKFMALFLRHATFCAHCKEFIWGIGKQGYQCQICTVVVHKRCHEDVVWKCPGN-----*
+>P1;gi|3114956|emb|CAA73553.1| Serine/Threonine protein kinase [Sube... [ score 107 E 6e-23 ] [ range 87 .. 148 ] [ duplicate a ]
+sequence
+---EPR-PHKFRATTYHTPTWCDHCGSLLYGIIRQGVQCSDCGINVHHRCKGLVPKTCGLGQSEKR*
+>P1;gi|3114956|emb|CAA73553.1| Serine/Threonine protein kinase [Sube... [ score 107 E 6e-23 ] [ range 25 .. 78 ] [ duplicate b ]
+sequence
+------RGHKFVLNYFKQFTFCGHCTRFLWGVGPQGYKCLLCDLAIHRRCMEYVSFICP-------*
+>P1;gi|29179671|gb|AAH49327.1| Similar to protein kinase C, delta [D... [ score 107 E 6e-23 ] [ range 231 .. 286 ] [ duplicate a ]
+sequence
+-------PHRFKTNNYMSPTFCDHCGSLLWGLVKQGLKCEDCSMNVHHKCQTKVANLCGINQK---*
+>P1;gi|29179671|gb|AAH49327.1| Similar to protein kinase C, delta [D... [ score 107 E 6e-23 ] [ range 158 .. 217 ] [ duplicate b ]
+sequence
+------KNHEFIATFFRQPTFCSVCRDFVWGLNKQGYKCRQCNAAIHKKCIDKIIGRCTGTAANSR*
+>P1;gi|6016444|sp|Q16975|KPC2_APLCA Calcium-independent protein kina... [ score 107 E 6e-23 ] [ range 245 .. 300 ] [ duplicate a ]
+sequence
+-----NVPHRFNVHNYRRPTFCDHCGSLLYGLVRQGLQCDVCKMNIHKRCQKNVANNCGTN-----*
+>P1;gi|6016444|sp|Q16975|KPC2_APLCA Calcium-independent protein kina... [ score 107 E 6e-23 ] [ range 175 .. 227 ] [ duplicate b ]
+sequence
+------NGHKFMAMFFRQPTFCSLCRDFIWGLGKQGYQCQVCTCVVHKRCHQHIVTKCP-------*
+>P1;gi|16648134|gb|AAL25332.1| GH13631p [Drosophila melanogaster] [ score 107 E 9e-23 ] [ range 66 .. 122 ]
+sequence
+-------PHRFVVHSYKRFTFCDHCGSLLYGLIKQGLQCETCGMNVHKRCQKNVANTCGINTKQ--*
+>P1;gi|24650924|ref|NP_524545.2| Protein C kinase 98E CG1954-PA [Dro... [ score 107 E 1e-22 ] [ range 175 .. 227 ] [ duplicate b ]
+sequence
+------NGHKFMATFLRQPTFCSHCREFIWGIGKQGYQCQVCTLVVHKKCHLSVVSKCP-------*
+>P1;gi|39930373|ref|NP_058867.1| protein kinase C, epsilon [Rattus n... [ score 107 E 1e-22 ] [ range 242 .. 295 ] [ duplicate a ]
+sequence
+-------PHKFGIHNYKVPTFCDHCGSLLWGLLRQGLQCKVCKMNVHRRCETNVAPNCGVD-----*
+>P1;gi|39930373|ref|NP_058867.1| protein kinase C, epsilon [Rattus n... [ score 107 E 1e-22 ] [ range 168 .. 220 ] [ duplicate b ]
+sequence
+------NGHKFMATYLRQPTYCSHCRDFIWGVIKQGYQCQVCTCVVHKRCHELIITKC--------*
+>P1;gi|3114991|emb|CAA73557.1| Serine/Threonine protein kinase [Syco... [ score 105 E 3e-22 ] [ range 265 .. 320 ] [ duplicate a ]
+sequence
+-------PHRFKTHNYLHPTFCDHCGTLLYGLFRQGLQCEVCKANCHKRCQGSMPNLCGINEK---*
+>P1;gi|3114991|emb|CAA73557.1| Serine/Threonine protein kinase [Syco... [ score 105 E 3e-22 ] [ range 185 .. 237 ] [ duplicate b ]
+sequence
+------NGHGYKARFFRQPTFCGFCKEFLWGFGKQGYQCSYCDQVVHKKCHAKVLGKCP-------*
+>P1;gi|6679353|ref|NP_032885.1| protein kinase C, theta [Mus musculu... [ score 105 E 3e-22 ] [ range 231 .. 286 ] [ duplicate a ]
+sequence
+-------PHRFKVYNYKSPTFCEHCGTLLWGLARQGLKCDACGMNVHHRCQTKVANLCGINQK---*
+>P1;gi|31543511|ref|NP_032882.2| protein kinase C, eta [Mus musculus... [ score 104 E 6e-22 ] [ range 243 .. 301 ] [ duplicate a ]
+sequence
+-----NIPHKFNVHNYKVPTFCDHCGSLLWGIMRQGLQCKICKMNVHIRCQANVAPNCGVNAVE--*
+>P1;gi|31543511|ref|NP_032882.2| protein kinase C, eta [Mus musculus... [ score 104 E 6e-22 ] [ range 170 .. 222 ] [ duplicate b ]
+sequence
+------NGHKFMATYLRQPTYCSHCREFIWGVFKQGYQCQVCTCVVHKRCHHLIVTAC--------*
+>P1;gi|1346393|sp|P24723|KPCL_HUMAN Protein kinase C, eta type (nPKC... [ score 103 E 8e-22 ] [ range 242 .. 300 ] [ duplicate a ]
+sequence
+-----NIPHKFSIHNYKVPTFCDHCGSLLWGIMRQGLQCKICKMNVHIRCQANVAPNCGVNAVE--*
+>P1;gi|17136716|ref|NP_476863.1| inactivation no afterpotential C CG... [ score 102 E 2e-21 ] [ range 131 .. 194 ] [ duplicate a ]
+sequence
+--DCAKVKHGWISTTYTTPTFCDECGLLLHGVAHQGVKCENCNLNVHHACQETVPPMCGADISEVR*
+>P1;gi|17136716|ref|NP_476863.1| inactivation no afterpotential C CG... [ score 102 E 2e-21 ] [ range 70 .. 122 ] [ duplicate b ]
+sequence
+------NGHRFGVRFFKNPTYCGHCKDFIWGFGKQGFQCEECRFNIHQKCCKFVVFKCP-------*
+>P1;gi|31206439|ref|XP_312175.1| ENSANGP00000022036 [Anopheles gambi... [ score 101 E 4e-21 ] [ range 246 .. 302 ] [ duplicate a ]
+sequence
+-------PHRFSVHSFKRLTFCDHCGSLLYGIIRQGLKCEVCSMNIHRRCEGNVANNCGINTKQ--*
+>P1;gi|31206439|ref|XP_312175.1| ENSANGP00000022036 [Anopheles gambi... [ score 101 E 4e-21 ] [ range 171 .. 223 ] [ duplicate b ]
+sequence
+------NGHKFMATFLRQPTFCSHCREFIWGLGKQGYQCQVCTCVVHKRCHSSVVTKCP-------*
+>P1;gi|31204273|ref|XP_311085.1| ENSANGP00000004713 [Anopheles gambi... [ score 101 E 5e-21 ] [ range 118 .. 175 ] [ duplicate a ]
+sequence
+------RPHALNVHSYKAPTFCDFCGEMLFGLVRQGLKCDGCGLNYHKRCAIKVPNNCSVEHT---*
+>P1;gi|31204273|ref|XP_311085.1| ENSANGP00000004713 [Anopheles gambi... [ score 101 E 5e-21 ] [ range 215 .. 273 ] [ duplicate b ]
+sequence
+-----KIPHSFSIHTYTRPTVCQYCKKLLRGLFKQGVQCRDCHYNAHKKCIEKVPKDCTGENTQ--*
+>P1;gi|21391974|gb|AAM48341.1| GH26429p [Drosophila melanogaster] >g... [ score 100 E 6e-21 ] [ range 103 .. 164 ] [ duplicate a ]
+sequence
+------KPHSLNVHSYKGPTFCDFCGEMLFGLVRQGLKCDGCGQNYHKRCVVKIPNNCNRDATSRR*
+>P1;gi|21391974|gb|AAM48341.1| GH26429p [Drosophila melanogaster] >g... [ score 100 E 6e-21 ] [ range 220 .. 272 ] [ duplicate b ]
+sequence
+-----RIPHTFMVHTYGIPTVCQLCKKLLKGLFKQGLQCRDCQYNTHKKCMDKVPHDC--------*
+>P1;gi|2065190|emb|CAA72926.1| protein kinase C [Hydra vulgaris] [ score 100 E 7e-21 ] [ range 241 .. 299 ] [ duplicate a ]
+sequence
+-----NIPHKFLTHSYRFPTFCQHCGSLLYGIIKQGVQCKNCALNVHRRCQANVANDCGVDRRE--*
+>P1;gi|2065190|emb|CAA72926.1| protein kinase C [Hydra vulgaris] [ score 100 E 7e-21 ] [ range 172 .. 224 ] [ duplicate b ]
+sequence
+-------GHKFMATYLRQFTFCSHCKEFIWGVIKQGYQCQVCSIVTHKKCHHLIVSKCP-------*
+>P1;gi|5031689|ref|NP_005804.1| protein kinase C, nu; serine-threoni... [ score 100 E 9e-21 ] [ range 153 .. 211 ] [ duplicate a ]
+sequence
+------RPHTLYVHSYKAPTFCDYCGEMLWGLVRQGLKCEGCGLNYHKRCAFKIPNNCSGVRKRR-*
+>P1;gi|5031689|ref|NP_005804.1| protein kinase C, nu; serine-threoni... [ score 100 E 9e-21 ] [ range 269 .. 321 ] [ duplicate b ]
+sequence
+-----KVPHTFAVHSYTRPTICQYCKRLLKGLFRQGMQCKDCKFNCHKRCASKVPRDC--------*
+>P1;gi|17542632|ref|NP_499860.1| tetradecanoyl Phorbol Acetate resis... [ score 100 E 1e-20 ] [ range 237 .. 293 ] [ duplicate a ]
+sequence
+-------PHRFKTYNFKSPTFCDHCGSMLYGLFKQGLRCEVCNVACHHKCERLMSNLCGVNQKQ--*
+>P1;gi|17542632|ref|NP_499860.1| tetradecanoyl Phorbol Acetate resis... [ score 100 E 1e-20 ] [ range 164 .. 216 ] [ duplicate b ]
+sequence
+------RGHQFVATFFRQPHFCSLCSDFMWGLNKQGYQCQLCSAAVHKKCHEKVIMQCP-------*
+>P1;gi|4506075|ref|NP_002733.1| protein kinase C, mu [Homo sapiens] ... [ score 100 E 1e-20 ] [ range 145 .. 196 ] [ duplicate a ]
+sequence
+------RPHALFVHSYRAPAFCDHCGEMLWGLVRQGLKCEGCGLNYHKRCAFKIPNNC--------*
+>P1;gi|4506075|ref|NP_002733.1| protein kinase C, mu [Homo sapiens] ... [ score 100 E 1e-20 ] [ range 268 .. 320 ] [ duplicate b ]
+sequence
+-----KVPHTFVIHSYTRPTVCQYCKKLLKGLFRQGLQCKDCRFNCHKRCAPKVPNNC--------*
+>P1;gi|3393042|emb|CAA06507.1| eye-specific protein kinase C [Callip... [ score 100 E 1e-20 ] [ range 116 .. 179 ] [ duplicate a ]
+sequence
+--DCAKVKHSWISTTYSSATFCDDCGLLLHGVAHQGVKCDNCNLNVHHGCKDKVPPLCGSDISEIR*
+>P1;gi|3393042|emb|CAA06507.1| eye-specific protein kinase C [Callip... [ score 100 E 1e-20 ] [ range 55 .. 111 ] [ duplicate b ]
+sequence
+------NGHKFVVRFFKQPTYCGHCKDFIWGFGKQGFQCEDCRFNIHQKCVSFVVFKCPGTET---*
+>P1;gi|39587559|emb|CAE58497.1| Hypothetical protein CBG01645 [Caeno... [ score 100 E 2e-20 ] [ range 235 .. 291 ] [ duplicate a ]
+sequence
+-------PHRFKTYNFKSPTFCDHCGSMLYGLFKQGLRCDVCNVACHHKCEKLMSNLCGVNQKQ--*
+>P1;gi|4502813|ref|NP_001813.1| chimerin (chimaerin) 1; Chimerin 1 (... [ score 99 E 2e-20 ] [ range 204 .. 258 ]
+sequence
+------KIHNFKVHTFRGPHWCEYCANFMWGLIAQGVKCADCGLNVHKQCSKMVPNDCKPD-----*
+>P1;gi|4757980|ref|NP_004058.1| chimerin (chimaerin) 2; Chimerin 2 (... [ score 98 E 4e-20 ] [ range 213 .. 267 ]
+sequence
+------KTHNFKVHTFRGPHWCEYCANFMWGLIAQGVRCSDCGLNVHKQCSKHVPNDCQPD-----*
+>P1;gi|40742654|gb|EAA61844.1| hypothetical protein AN7658.2 [Asperg... [ score 98 E 5e-20 ] [ range 322 .. 379 ]
+sequence
+------KNHNFKSQTFKIPTNCDLCGERIWGLSAKGYDCRDCGYTCHSKCEMKVPAECPGEQTK--*
+>P1;gi|4157977|emb|CAA76911.1| protein kinase C [Geodia cydonium] [ score 97 E 7e-20 ] [ range 92 .. 151 ] [ duplicate a ]
+sequence
+------SPRKFKTTSFRHPTWCDHCGSFIYGLMNQGKTCGDCGVNVHHRCHEMVPKTCGQQVKETR*
+>P1;gi|4157977|emb|CAA76911.1| protein kinase C [Geodia cydonium] [ score 97 E 7e-20 ] [ range 29 .. 82 ] [ duplicate b ]
+sequence
+------KGHKFVLTYFKTFTFCGHCGRFLWGVGPQGYQCKLCDFVMHKRCLDYVSFICP-------*
+>P1;gi|42544303|gb|EAA67146.1| hypothetical protein FG10361.1 [Gibbe... [ score 97 E 8e-20 ] [ range 404 .. 461 ]
+sequence
+------KNHNFKGQTFKIPTNCDLCGERIWGLSAKGFDCRDCGYTCHSKCEMKVPPDCPGEQTK--*
+>P1;gi|19923468|ref|NP_057541.2| protein kinase D2 [Homo sapiens] >g... [ score 97 E 1e-19 ] [ range 137 .. 195 ] [ duplicate a ]
+sequence
+------RPHALTVHSYRAPAFCDHCGEMLFGLVRQGLKCDGCGLNYHKRCAFSIPNNCSGARKRR-*
+>P1;gi|19923468|ref|NP_057541.2| protein kinase D2 [Homo sapiens] >g... [ score 97 E 1e-19 ] [ range 262 .. 314 ] [ duplicate b ]
+sequence
+-----KVPHTFLIHSYTRPTVCQACKKLLKGLFRQGLQCKDCKFNCHKRCATRVPNDC--------*
+>P1;gi|17564674|ref|NP_507239.1| protein kinase D2 (5R267) [Caenorha... [ score 97 E 1e-19 ] [ range 320 .. 378 ] [ duplicate a ]
+sequence
+------HPHTLFVHSYKVPTFCDFCGELLFGLVKQGLKCFGCGLNYHKRCASKIPNNCNG-SKQRR*
+>P1;gi|24641525|ref|NP_511171.2| Protein kinase C delta CG10524-PA [... [ score 96 E 3e-19 ] [ range 216 .. 271 ] [ duplicate a ]
+sequence
+-------PHRFKPHTFMSPTFCDHCGSLMGGFFIQGLKCEECDVNCHKKCERLTANLCGVNQK---*
+>P1;gi|24641525|ref|NP_511171.2| Protein kinase C delta CG10524-PA [... [ score 96 E 3e-19 ] [ range 143 .. 194 ] [ duplicate b ]
+sequence
+------NGHRFVAKFFRQPTFCAFCNLFLWGFGKQGYQCIICQTVVHKKCHDKLLGKC--------*
+>P1;gi|3114958|emb|CAA73556.1| Serine/Threonine protein kinase [Sube... [ score 95 E 4e-19 ] [ range 249 .. 304 ] [ duplicate a ]
+sequence
+-------PHRFKKYTFLGPTFCDMCGQLMHGIFRQQLKCDACGTNCHTKCAQNMPPLCGVNEK---*
+>P1;gi|3114958|emb|CAA73556.1| Serine/Threonine protein kinase [Sube... [ score 95 E 4e-19 ] [ range 176 .. 227 ] [ duplicate b ]
+sequence
+------KGHMFIKKFFRRPTYCSLCREFLWGYTRHGYQCQVCQYTSHKRCIDSILGKC--------*
+>P1;gi|2772930|gb|AAB96643.1| Genghis Khan [Drosophila melanogaster] [ score 94 E 6e-19 ] [ range 966 .. 1024 ]
+sequence
+--------HQFLVRTFSSPTKCNHCTSLMVGLTRQGVVCEICGFACHTICCQKVPTTCPVDQTKR-*
+>P1;gi|4150896|emb|CAA73682.1| serine /threonine protein kinase [Rha... [ score 94 E 8e-19 ] [ range 101 .. 159 ] [ duplicate a ]
+sequence
+--------HDFQVHSYGKFTFCDHCGQMLYGLYRQGYQCGDCGINVHSYCKPFVANLCGTHSNEK-*
+>P1;gi|4150896|emb|CAA73682.1| serine /threonine protein kinase [Rha... [ score 94 E 8e-19 ] [ range 34 .. 84 ] [ duplicate b ]
+sequence
+--------HSFEQHFFKQPTYCSHCRNFIYGVGRQGFECVQCGYVLHRHCVDLVAFNCP-------*
+>P1;gi|4038292|gb|AAC97349.1| ras activator RasGRP [Homo sapiens] [ score 93 E 1e-18 ] [ range 541 .. 591 ]
+sequence
+-------PHNFQETTYLKPTFCDNCAGFLWGVIKQGYRCKDCGMNCHKQCKDLVVFEC--------*
+>P1;gi|31240045|ref|XP_320436.1| ENSANGP00000009214 [Anopheles gambi... [ score 92 E 2e-18 ] [ range 989 .. 1047 ]
+sequence
+--------HQFLVRTFSSPTKCNHCTSLMVGLTRQGVVCELCGFACHMICCPKVPTQCPVDQTKR-*
+>P1;gi|40788383|dbj|BAA74869.2| KIAA0846 protein [Homo sapiens] [ score 91 E 6e-18 ] [ range 492 .. 545 ]
+sequence
+----PGFIHNFQEMTYLKPTFCEHCAGFLWGIIKQGYKCKDCGANCHKQCKDLLVLAC--------*
+>P1;gi|39594275|emb|CAE71853.1| Hypothetical protein CBG18897 [Caeno... [ score 91 E 8e-18 ] [ range 954 .. 1013 ]
+sequence
+------RGHNFERMKIKTPTKCGHCTSILIGLDRQGLYCQSCQYACHVSCAERVSQSCPVPEEERR*
+>P1;gi|39580606|emb|CAE70502.1| Hypothetical protein CBG17105 [Caeno... [ score 91 E 1e-17 ] [ range 266 .. 321 ] [ duplicate b ]
+sequence
+-----KVPHTFQVHSYKLPTVCQHCKKLLKGLLRQGMQCRDCKYNCHKKCSEHVAKDCSGN-----*
+>P1;gi|30841498|gb|AAP34403.1| CDC42-binding protein kinase beta [Ra... [ score 90 E 2e-17 ] [ range 1027 .. 1085 ]
+sequence
+--------HQFSIKSFPSPTQCSHCTSLMVGLIRQGYACEVCAFSCHVSCKDSAPQVCPIEQSKR-*
+>P1;gi|24649473|ref|NP_651199.2| CG31140-PA [Drosophila melanogaster... [ score 89 E 2e-17 ] [ range 5 .. 55 ]
+sequence
+-------GHSFVKKTFHKPTYCHHCSDLLWGLIQQGYICEVCNFIIHERCVSSVVTPC--------*
+>P1;gi|29373942|emb|CAD57746.1| CDC42 binding protein kinase alpha (... [ score 89 E 2e-17 ] [ range 916 .. 970 ]
+sequence
+-----RKTHQFFVKSFTTPTKCHQCTSLMVGLIRQGCSCEVCGFSCHITCVNKAPTTCPV------*
+>P1;gi|24639893|ref|NP_727007.1| CG3208-PA [Drosophila melanogaster]... [ score 89 E 2e-17 ] [ range 240 .. 299 ]
+sequence
+------KPHHFKVHTFKGLNWCEFCANFLWGFTAQGVKCEACGFVAHSKCSELVPPKCVPDLKRIR*
+>P1;gi|14133241|dbj|BAA86438.2| KIAA1124 protein [Homo sapiens] [ score 89 E 3e-17 ] [ range 1075 .. 1133 ]
+sequence
+--------HQFSIKSFSSPTQCSHCTSLMVGLIRQGYACEVCSFACHVSCKDGAPQVCPIEQSKR-*
+>P1;gi|17536471|ref|NP_496417.1| ras association domain family 1 (69... [ score 88 E 4e-17 ] [ range 163 .. 214 ]
+sequence
+------NNHSFKTHSLLHPTWCDKCGDFIWGILKEALKCEHCNYTCHARCRDLVTLDC--------*
+>P1;gi|17509653|ref|NP_493390.1| protein kinase D2 (80.9 kD) (1O232)... [ score 87 E 6e-17 ] [ range 91 .. 149 ] [ duplicate a ]
+sequence
+RTEAAVIPHVVEPESYMRPTFCDFCGEMLTGLMRQGVKCKNCNGNFHKRCSNAARNNCG-------*
+>P1;gi|17509653|ref|NP_493390.1| protein kinase D2 (80.9 kD) (1O232)... [ score 87 E 6e-17 ] [ range 186 .. 236 ] [ duplicate b ]
+sequence
+-------PHTLIEHSYRQFTVCKVCDHLLVGLVKQGLKCRDCGVNVHRKCAMELASNC--------*
+>P1;gi|39585391|emb|CAE61713.1| Hypothetical protein CBG05662 [Caeno... [ score 87 E 7e-17 ] [ range 105 .. 162 ] [ duplicate a ]
+sequence
+--EPPANNHHFTKHFYTRPTFCDHCGSMLYGILKQGVQCTDCHANVHHRCQDKAMHNCGI------*
+>P1;gi|39585391|emb|CAE61713.1| Hypothetical protein CBG05662 [Caeno... [ score 87 E 7e-17 ] [ range 26 .. 76 ] [ duplicate b ]
+sequence
+-------GHKFKAITLGQPTFCSFCTKFIYGVGKQGYKCLGCETVVHKRCHSFISARC--------*
+>P1;gi|17563160|ref|NP_507486.1| protein c kinase 98E family member ... [ score 87 E 1e-16 ] [ range 104 .. 161 ] [ duplicate a ]
+sequence
+--EPPSNTHHFNKHFFTRPTFCDHCGSMLYGLTKQGVQCTDCHANVHFRCQEKVLRNCGI------*
+>P1;gi|17563160|ref|NP_507486.1| protein c kinase 98E family member ... [ score 87 E 1e-16 ] [ range 25 .. 76 ] [ duplicate b ]
+sequence
+------SGHKFKAVGLAQPTFCSFCSKFIYGVGKQGYKCLGCETVVHKRCHALITARC--------*
+>P1;gi|28894844|gb|AAK73856.2| Hypothetical protein BE0003N10.2 [Cae... [ score 87 E 1e-16 ] [ range 172 .. 226 ]
+sequence
+--------HNFTSYTFKAPHYCDYCRNFLWGLVHQGMRCEDCGFAAHKKCSEKTLHDCVPDSK---*
+>P1;gi|31203461|ref|XP_310679.1| ENSANGP00000020017 [Anopheles gambi... [ score 86 E 2e-16 ] [ range 113 .. 164 ]
+sequence
+------NGHKFVAKFFRQPTFCAFCKEFLWGFGKQGYQCKTCQTAVHKKCHDKLLGTC--------*
+>P1;gi|7499779|pir||T21321 hypothetical protein F25B3.3 - Caenorhabd... [ score 86 E 2e-16 ] [ range 520 .. 570 ]
+sequence
+-------KHNFHETTFLTPTTCNHCNKLLWGILRQGFKCKDCGLAVHSCCKSNAVAEC--------*
+>P1;gi|31210603|ref|XP_314268.1| ENSANGP00000000964 [Anopheles gambi... [ score 86 E 2e-16 ] [ range 1785 .. 1836 ]
+sequence
+------HPHRFEKHVYSAPVNCNHCGNVLWGPLLNGLRCVDCGNTYHEKCAESVPKNC--------*
+>P1;gi|31205797|ref|XP_311850.1| ENSANGP00000017663 [Anopheles gambi... [ score 85 E 3e-16 ] [ range 206 .. 265 ]
+sequence
+------KQHAFKTHTFKGLNWCEFCANFLWGFTSQGVKCDDCGFMAHFKCSELVPAKCVPDLKRLR*
+>P1;gi|42662000|ref|XP_038604.7| unc-13 homolog A [Homo sapiens] [ score 85 E 5e-16 ] [ range 542 .. 592 ]
+sequence
+-------PHNFEVWTATTPTYCYECEGLLWGIARQGMRCTECGVKCHEKCQDLLNADC--------*
+>P1;gi|5306123|gb|AAD41910.1| Munc13-2 protein [Rattus norvegicus] [ score 84 E 6e-16 ] [ range 490 .. 540 ]
+sequence
+-------PHNFEVWSATTPTYCYECEGLLWGLARQGMRCSECGVKCHEKCQDLLNADC--------*
+>P1;gi|42660457|ref|XP_085234.4| unc-13 homolog C [Homo sapiens] [ score 84 E 6e-16 ] [ range 1100 .. 1150 ]
+sequence
+-------PHNFEVWTATTPTYCYECEGLLWGIARQGMKCLECGVKCHEKCQDLLNADC--------*
+>P1;gi|32697973|emb|CAA98146.3| C. elegans UNC-13 protein (correspon... [ score 83 E 1e-15 ] [ range 347 .. 397 ]
+sequence
+-------PHNFATTTFQTPTFCYECEGLLWGLARQGLRCTQCQVKVHDKCRELLSADC--------*
+>P1;gi|39592510|emb|CAE63587.1| Hypothetical protein CBG08078 [Caeno... [ score 83 E 2e-15 ] [ range 17 .. 70 ]
+sequence
+----PNHGHYFVKKTFGKPTYCHHCCDKIWGMLTTGYSCEMCNFICHEKCLRTVVSYC--------*
+>P1;gi|24638720|ref|NP_651949.2| CG2999-PA [Drosophila melanogaster]... [ score 83 E 2e-15 ] [ range 1722 .. 1772 ]
+sequence
+-------PHNFLLWTATSPTYCYECEGLLWGIARQGVRCTECGVKCHEKCKDLLNADC--------*
+>P1;gi|28828618|gb|AAO51221.1| similar to Dictyostelium discoideum (... [ score 82 E 3e-15 ] [ range 136 .. 196 ] [ duplicate b ]
+sequence
+---CSNRQHKFHKTSKSITKFCNYCRETTFTISGEPVMCSECRYIAHGHCQTKVPLNCIIPYSS--*
+>P1;gi|44889040|sp|Q03603|KDG3_CAEEL Putative diacylglycerol kinase ... [ score 81 E 6e-15 ] [ range 266 .. 324 ]
+sequence
+--------HVWRLRHFTKPTYCNACCSILVGWGKQGLSCSLCKYTVHERCVRSAATNCIRTYSSRQ*
+>P1;gi|206195|gb|AAA41878.1| protein kinase C zeta subspecies [ score 81 E 6e-15 ] [ range 29 .. 80 ]
+sequence
+------NGHLFQAKRFNRRAYCGQCSERIWGLARQGYRCINCKLLVHKRCHVLVPLTC--------*
+>P1;gi|17551330|ref|NP_508191.1| DIACYLGLYCEROL KINASE (dgk-1) [Caen... [ score 81 E 7e-15 ] [ range 17 .. 70 ]
+sequence
+----PNHGHYFVKKTFGKPAYCHHCCDKIWGMLTTGYSCEMCNFVCHEKCLRTVVSYC--------*
+>P1;gi|31204283|ref|XP_311090.1| ENSANGP00000004715 [Anopheles gambi... [ score 81 E 1e-14 ] [ range 74 .. 124 ]
+sequence
+-------PHNFVLWTATSPTYCYECEGLLWGIARQGVRCTECAVKCHEKCKDLLNADC--------*
+>P1;gi|464648|sp|P34908|BRAF_COTJA B-Raf proto-oncogene serine/threo... [ score 116 E 1e-25 ] [ range 232 .. 283 ]
+sequence
+-----LTTHNFVRKTFFTLAFCDFCRKLLF----QGFRCQTCGYKFHQRCSTEVPLMCVN-----Y*
+>P1;gi|44885322|dbj|BAD11990.1| short form RAF1 [Danio rerio] [ score 116 E 1e-25 ] [ range 129 .. 180 ]
+sequence
+-----LTTHNFVRKTFLKLAFCDICQKFLL----NGFRCQRCGYKFHEHCSTKVPTMCVD-----W*
+>P1;gi|11968120|ref|NP_071977.1| v-raf murine sarcoma 3611 viral onc... [ score 116 E 1e-25 ] [ range 96 .. 146 ]
+sequence
+-----LTMHNFVRKTFFSLAFCDFCLKFLF----HGFRCQTCGYKFHQHCSSKVPTVCVD------*
+>P1;gi|18157432|dbj|BAB39747.3| protein kinase raf 1 [Seriola quinqu... [ score 114 E 4e-25 ] [ range 134 .. 185 ]
+sequence
+-----LTTHNFVRKTYLKLAFCDICQKFLL----NGFRCQTCGYKFHEHCSTKVPTMCVD-----W*
+>P1;gi|241260|gb|AAB20707.1| raf protein [Xenopus laevis] [ score 114 E 6e-25 ] [ range 135 .. 186 ]
+sequence
+-----LTTHNFVRKTFLKLAFCDICQKFLL----NAFRCQTCGYKFHEHCSTKVPTMCVD-----W*
+>P1;gi|45387897|ref|NP_991306.1| serine/threonine protein kinase ARA... [ score 114 E 7e-25 ] [ range 100 .. 150 ]
+sequence
+-----LTMHNFVRKTFFKLAYCDFCHKFLF----NGFRCQTCGYKFHQHCSSKVPTVCVD------*
+>P1;gi|38014670|gb|AAH60453.1| MGC68526 protein [Xenopus laevis] [ score 112 E 2e-24 ] [ range 146 .. 196 ]
+sequence
+-----LSMHNFVRKTHFNLAFCDFCLKFLF----HGFRCQTCGYKFHQHCSSKVPTACVD------*
+>P1;gi|10086321|gb|AAG12472.1| Raf kinase [Brugia malayi] [ score 91 E 9e-18 ] [ range 138 .. 184 ]
+sequence
+--------HSFVRKTFLSVAFCDVCHKQIW----QGYRCELCQFTFHQKCGSKVPNYC--------*
+>P1;gi|31228968|ref|XP_318144.1| ENSANGP00000003633 [Anopheles gambi... [ score 90 E 2e-17 ] [ range 195 .. 241 ]
+sequence
+-------SHQFIRKTFFSLAFCECCRRLLF----TGFYCNQCNYRFHQRCVDKVPPIC--------*
+>P1;gi|17933524|ref|NP_525047.1| pole hole CG2845-PA [Drosophila mel... [ score 88 E 6e-17 ] [ range 223 .. 268 ]
+sequence
+--------HQIIRKTFFSLVFCEGCRRLLF----TGFYCSQCNFRFHQRCANRVPMLC--------*
+>P1;gi|422343|pir||S33261 protein kinase lin-45 (EC 2.7.1.-) - Caeno... [ score 85 E 4e-16 ] [ range 171 .. 217 ]
+sequence
+--------HAIVRRTFIPPKSCDVCNNIWM----MGFRCEFCQFKFHQRCSSFAPLYC--------*
+>P1;gi|35396778|gb|AAQ84895.1| protein kinase C 1 [Cryptococcus neof... [ score 85 E 4e-16 ] [ range 451 .. 499 ]
+sequence
+--------HKFVQRQFYQPIMCALCQEFLL----TGYQCEDCRYACHKKCYPKVVTKCI-------*
+>P1;gi|31242421|ref|XP_321641.1| ENSANGP00000009647 [Anopheles gambi... [ score 84 E 8e-16 ] [ range 329 .. 374 ]
+sequence
+--------HRFTKKFKVTKSTCDLCNKQMF----FGFKCTECKYRCHKDCKSNVPPSC--------*
+>P1;gi|629915|pir||S47220 protein kinase C (EC 2.7.1.-) PKC1 - yeast... [ score 73 E 2e-12 ] [ range 416 .. 463 ]
+sequence
+--------HQFVQKQFYNIMSCALCGEFLY----TGYQCQDCKFLCHKKCYQKVVTKCI-------*
+>P1;gi|28629057|gb|AAO49460.1| protein kinase C [Leptosphaeria macul... [ score 72 E 4e-12 ] [ range 469 .. 517 ]
+sequence
+--------HKFVQQQFYNVMRCALCGEFLA----AGMQCSDCNYTCHKKCYPKVVTKCI-------*
+>P1;gi|6016441|sp|O42632|KPC1_COCHE Protein kinase C-like >gi|112593... [ score 72 E 4e-12 ] [ range 459 .. 507 ]
+sequence
+--------HKFVQQQFYNVMRCALCAEFLA----AGMQCSDCNYTCHKKCYPKVVTKCI-------*
+>P1;gi|6319363|ref|NP_009445.1| Protein Kinase C; Pkc1p [Saccharomyc... [ score 70 E 1e-11 ] [ range 415 .. 462 ]
+sequence
+--------HHFVQKSFYNIMCCAYCGDFLY----TGFQCQDCKFLCHKKCYTNVVTKCI-------*
+>P1;gi|45185877|ref|NP_983593.1| ACR191Cp [Eremothecium gossypii] >g... [ score 69 E 2e-11 ] [ range 409 .. 456 ]
+sequence
+--------HHFVQKSFYNIMCCAYCGDFLY----SGFQCQDCKFLCHKKCYNNVVTKCI-------*
+>P1;gi|9716257|emb|CAC01625.1| protein kinase C homologue [Tuber bor... [ score 68 E 6e-11 ] [ range 428 .. 476 ]
+sequence
+--------HKFVQQQFYNIMRCALCSDFLS----AGMQCSDCKYTCHKKCYPKVVTKCI-------*
+>P1;gi|2499576|sp|Q00078|KPC1_ASPNG Protein kinase C-like >gi|213325... [ score 67 E 9e-11 ] [ range 460 .. 508 ]
+sequence
+--------HKFVTQQFYNIMRCALCGDFLA----AGMQCADCKYTCHKKCYPKVVTKCI-------*
+>P1;gi|40746128|gb|EAA65284.1| KPC1_ASPNG Protein kinase C-like [Asp... [ score 67 E 1e-10 ] [ range 446 .. 494 ]
+sequence
+--------HKFVTQQFYNIMRCALCGDFLA----AGMQCSDCKYTCHRKCYPKVVTKCI-------*
+>P1;gi|22858696|gb|AAN05732.1| protein kinase C [Kluyveromyces lactis] [ score 67 E 1e-10 ] [ range 416 .. 463 ]
+sequence
+--------HHFVQKSFYNVMCCAYCGEFLY----SGYQCQDCKFLCHKKCYAHVVTKCI-------*
+>P1;gi|32411837|ref|XP_326399.1| PROTEIN KINASE C-LIKE [Neurospora c... [ score 67 E 2e-10 ] [ range 458 .. 506 ]
+sequence
+--------HKFVQKQFYNIMRCALCGDFLS----AGMQCEDCKYTCHTKCYTSVVTKCI-------*
+>P1;gi|19112742|ref|NP_595950.1| protein kinase c-like 2 [Schizosacc... [ score 66 E 3e-10 ] [ range 406 .. 454 ]
+sequence
+--------HKFLQHQFYQIMRCALCGEFLK----NGMQCIDCHYTCHKKCYPKVVTKCI-------*
+>P1;gi|12005625|gb|AAG44542.1| protein kinase C [Blumeria graminis] [ score 66 E 3e-10 ] [ range 469 .. 517 ]
+sequence
+--------HKFVSQQFYNIMRCALCGDFLA----GGMQCEDCKYTCHTKCYTSVVTKCI-------*
+>P1;gi|4558499|gb|AAD22633.1| protein kinase C; serine/threonine pro... [ score 65 E 4e-10 ] [ range 486 .. 534 ]
+sequence
+--------HKFVQRQFYNIMRCALCGDFLK----AGMQCEDCKYTCHIKCYSSVVTKCI-------*
+>P1;gi|4928705|gb|AAD33693.1| protein kinase C [Magnaporthe grisea] [ score 65 E 6e-10 ] [ range 480 .. 528 ]
+sequence
+--------HKFVERQFYNIMRCALCGDFLK----SGMQCEDCKYTCHIKCYTSVVTKCI-------*
+>P1;gi|30172014|gb|AAP20604.1| protein kinase C [Pichia pastoris] [ score 65 E 6e-10 ] [ range 407 .. 454 ]
+sequence
+--------HKFVPRQFCNIMMCAMCGDFLY----SGYQCEDCRFLCHKKCYQKVITKCI-------*
+>P1;gi|42553136|gb|EAA75979.1| hypothetical protein FG09660.1 [Gibbe... [ score 64 E 7e-10 ] [ range 480 .. 528 ]
+sequence
+--------HKFVQHQFYNIMRCALCGDFLS----AGMQCEDCKYTCHTKCYSSVVTKCI-------*
+>P1;gi|2499577|sp|Q99014|KPC1_TRIRE Protein kinase C-like >gi|213330... [ score 64 E 1e-09 ] [ range 455 .. 503 ]
+sequence
+--------HKFVQHQFYNIMPCALCGDFLS----AGMQCEDCKYTCHNKCYPSVVTKCI-------*
+>P1;gi|6102720|emb|CAB59301.1| protein kinase C [Botryotinia fuckeli... [ score 64 E 1e-09 ] [ range 473 .. 521 ]
+sequence
+--------HKFISQQFYNIMRCALCGDFLT----YGMQCEDCKYTCHTKCFSQVVTKCI-------*
+>P1;gi|34865180|ref|XP_234108.2| protein kinase C, mu [Rattus norveg... [ score 63 E 2e-09 ] [ range 8 .. 58 ]
+sequence
+--------HTFVIHSYTRPTVCQFCKKLLR----QGLQCKDCRFNCHKRCAPKVPNNCL-------*
+>P1;gi|3114958|emb|CAA73556.1| Serine/Threonine protein kinase [Sube... [ score 60 E 2e-08 ] [ range 250 .. 299 ] [ duplicate b ]
+sequence
+--------HRFKKYTFLGPTFCDMCGQLMH----GIFRCDACGTNCHTKCAQNMPPLC--------*
+>P1;gi|39586039|emb|CAE69115.1| Hypothetical protein CBG15141 [Caeno... [ score 58 E 4e-08 ] [ range 171 .. 233 ]
+sequence
+--------HNFTSYTFKAPHYCDYCRNFLF----QGMRCEDCGFAAHKKCSEKTLHDCV-------*
+>P1;gi|7512060|pir||T13856 ksr protein - fruit fly (Drosophila viril... [ score 58 E 5e-08 ] [ range 380 .. 425 ]
+sequence
+--------HRF-SKWFGFMATCKLCQKQMM----HWFKCTDCKYICHKSCAPHVPPSC--------*
+>P1;gi|1709606|sp|P36582|PCK1_SCHPO Protein kinase C-like 1 [ score 57 E 8e-08 ] [ range 414 .. 462 ]
+sequence
+--------HQFVQRQFYQIMRCAVCAELFS----YGLQCENCSFVCHKKCVTKVLASCI-------*
+>P1;gi|18643238|gb|AAL76250.1| ras guanine nucleotide releasing prot... [ score 57 E 8e-08 ] [ range 541 .. 595 ]
+sequence
+--------HAFQEVTFRKPTFCHSCNGFVS----TGYRCQDCGLCCHRHCRDQVRVEC--------*
+>P1;gi|5031689|ref|NP_005804.1| protein kinase C, nu; serine-threoni... [ score 57 E 1e-07 ] [ range 272 .. 322 ] [ duplicate a ]
+sequence
+--------HTFAVHSYTRPTICQYCKRLLR----QGMQCKDCKFNCHKRCASKVPRDCL-------*
+>P1;gi|30725754|ref|NP_849231.1| expressed sequence AI325941 [Mus mu... [ score 57 E 1e-07 ] [ range 266 .. 316 ] [ duplicate a ]
+sequence
+--------HTFLIHSYTRPTVCQACKKLLR----QGLQCKDCKFNCHKRCATRVPNDCL-------*
+>P1;gi|17564674|ref|NP_507239.1| protein kinase D2 (5R267) [Caenorha... [ score 57 E 2e-07 ] [ range 474 .. 523 ] [ duplicate b ]
+sequence
+--------HTFQVHSYKLPTVCQHCKKLLR----QGMQCRDCKYNCHKKCSEHVAKDC--------*
+>P1;gi|27806089|ref|NP_776860.1| protein kinase, C alpha [Bos taurus... [ score 56 E 2e-07 ] [ range 37 .. 86 ] [ duplicate a ]
+sequence
+--------HRFIARFFKQPTFCSHCTDFIW----QGFQCQVCCFVVHKRCHEFVTFSC--------*
+>P1;gi|28828618|gb|AAO51221.1| similar to Dictyostelium discoideum (... [ score 56 E 2e-07 ] [ range 141 .. 191 ] [ duplicate b ]
+sequence
+--------HKFHKTSKSITKFCNYCRETTF----TPVMCSECRYIAHGHCQTKVPLNCI-------*
+>P1;gi|4150896|emb|CAA73682.1| serine /threonine protein kinase [Rha... [ score 56 E 2e-07 ] [ range 101 .. 152 ] [ duplicate b ]
+sequence
+--------HDFQVHSYGKFTFCDHCGQMLY----QGYQCPDCGINVHSYCKPFVANLC--------*
+>P1;gi|24644248|ref|NP_524236.2| kinase suppressor of ras CG2899-PA ... [ score 55 E 5e-07 ] [ range 372 .. 417 ]
+sequence
+--------HRFTKALGF-MATCTLCQKQVF----HRWKCTDCKYICHKSCAPHVPPSC--------*
