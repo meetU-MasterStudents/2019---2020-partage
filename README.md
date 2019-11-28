@@ -57,9 +57,9 @@ For each family:
 
 - PDB file containing the 3D coordinates of the master sequence. Please note that the structure may contain "holes" (missing residues that either could not be resolved, or were modified/non-canonical). 
 
-### Please note that the master sequence is named by its PDB code in the MAP file. It may not be the first sequence appearing in the file!
+## Please note that the master sequence is named by its PDB code in the MAP file. It may not be the first sequence appearing in the file!
 
-### Please note that you may have multiple SCOP identifiers for one family. For your evaluation, in case of multiple folds or superfamilies, you can consider that if you found at least one of them your answer is valid. Please see http://scop.mrc-lmb.cam.ac.uk/scop/parse/dir.cla.scop.txt_1.75 for a complete match between PDBs and SCOP ids.
+## Please note that you may have multiple SCOP identifiers for one family. For your evaluation, in case of multiple folds or superfamilies, you can consider that if you found at least one of them your answer is valid. Please see http://scop.mrc-lmb.cam.ac.uk/scop/parse/dir.cla.scop.txt_1.75 for a complete match between PDBs and SCOP ids.
 
 ## 398 test sequences ("queries") to validate your program.
 
